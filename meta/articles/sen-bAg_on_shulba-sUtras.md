@@ -115,1920 +115,1930 @@ Bühler also pointed out that the name of Āpastamba had been found on several l
 If their native places are open to question so are their dates. Bühler placed Apastamba around the fifth century B.C. but did not himself consider this date as conclusive or anything more than tentative. He was only definite that both Baudhāyana and Āpastamba had lived before the third century B.C. Between these two sūtrakāras, all scholars agree, Baudhāyana is anterior to Āpastamba.
 
 Instead of working downwards from the high antiquity of Baudhāyana and Apastamba whatever that antiquity might be, other scholars have preferred to consider the dates of later writers like Pāņini, Kātyāyana, and Patañjali and work upwards to arrive at the dates of Baudhayana and Apastamba. Here again, Panini's date itself is debatable and no better datable than other ancient texts. Nevertheless, scholars are generally agreed that Pāṇini most probably lived in the fourth century B.C. Keith argued that Pāņini's date depended essentially on the date to be assigned to the Mahābhāṣya of Patañjali. Renou and Filliozat and Keith placed Patanjali's date around c.150 B.C. on the ground that the Mahābhāṣya referred to a sacrifice by Puşyamitra who reigned around c. 185 or 178 B.c. In his Veda of the Black Yajurveda, Keith has observed that by 140 B.C. Pāņini's work attained a commanding position as is evident by the clear proof of the elaborate way in which it was commented upon in Dākṣāyaṇa's Samgraha, by Kātyāyana and others and concluded that Pāņini's date could hardly by any chance be later than 300 B.C., nor there could be any reason to deny that he might have lived about 350 B.C.
+
 This brings us to the date of Katyāyana who flourished after Pāṇini and before Patanjali. Admitting that there is no direct proof, Keith suggested 250 B.C. as the most probable date for Kātyāyana. Eggeling, on the other hand, placed Kātyāyana in the fourth century B.C. after considering a still earlier date for Panini. Macdonell, in his Bṛhaddevatād favoured a date c. 350 B.c. for Kātyāyana, more or less in agree- ment with Eggeling.
-Bühler, Keith and other scholars all agreed that the irregular forms persistently used by Baudhayana and Āpastamba in composing the whole texts of the Srauta-, the Grhya- and the Dharma-sutras could have hardly been possible after Pāņini's grammar reached its accepted position. Bühler, therefore, considered Apastamba
-a Ramgopal, 93-100.
-b Renou and Filliozat, 86-91; Keith (2), 426-28; Keith (1), Preface clxviii to clxxii. c SBE, 12, xxxix.
-d I,
-P,
-xxii
-4
-SULBASUTRAS
-anterior to Pāṇini by about 150-200 years, which would place the former in the fifth- sixth century B.C. In his Ãpastamba Śrautasūtra, Garbe, in general agreement with Bühler, assigned Āpastamba to the fifth century B.C. Keith considered such a high date for Apastamba improbable from consideration of language and would not take him beyond say 300 or 350 B.C. By Keith's own agreement with Bühler that Apastamba could be anterior to Panini and his statement that there is absolutely no conclusive evidence of the date of these early sūtrakāras, it is somewhat baffling to understand how Apastamba could be placed around c. 350 B.C.
+
+Bühler, Keith and other scholars all agreed that the irregular forms persistently used by Baudhayana and Āpastamba in composing the whole texts of the Srauta-, the Grhya- and the Dharma-sutras could have hardly been possible after Pāņini's grammar reached its accepted position. 
+
+- a Ramgopal, 93-100.
+
+- b Renou and Filliozat, 86-91; Keith (2), 426-28; Keith (1), Preface clxviii to clxxii. c SBE, 12, xxxix.
+
+[[4]]
+
+Bühler, therefore, considered Apastamba anterior to Pāṇini by about 150-200 years, which would place the former in the fifth- sixth century B.C. In his Ãpastamba Śrautasūtra, Garbe, in general agreement with Bühler, assigned Āpastamba to the fifth century B.C. Keith considered such a high date for Apastamba improbable from consideration of language and would not take him beyond say 300 or 350 B.C. By Keith's own agreement with Bühler that Apastamba could be anterior to Panini and his statement that there is absolutely no conclusive evidence of the date of these early sūtrakāras, it is somewhat baffling to understand how Apastamba could be placed around c. 350 B.C.
+
 Regarding Baudhāyana and Mānava, both have been considered definitely older than Apastamba, as their archaic style of writing would indicate. Manava whose works were used by Āpastamba wrote more or less in the Brāhmaṇa style, and Richard Garbe considered his sūtra as the oldest, but that, as Keith points out, was before the text of Baudhayana was known. Baudhāyana's archaic Brāhmaṇa style, is clearly discernible in his uttarati as also in all his sūtra writings. Considering all this, Keith's conservative estimate for Baudhāyana's date was fifth century B.C. while Caland was prepared to place him in the sixth century B.C. in his Über das Rituelle Sūtra des Baudhāyana.a Mānava doubtless should be placed somewhere between Baudhāyana and Āpastamba. P. V. Kane in his History of Dharmasutras dated the Srautasūtras of Baudhāyana, Āpastamba and Katyāyana between 800 B.C. and 400 B.C. Ramgopal who considered the sequence between Baudhāyana and Apastamba, Apastamba and Pāṇini, Pāņini and Katyāyana and Kātyāyana and Patañjali, more or less agreed with Kane and concluded that the principal sūtras were composed between c. 800 B.C. and 500 B.C.
-The foregoing discussion will make it abundantly clear that we are still far from narrowing the date range differing by centuries and putting the early sutra works on a firmer chronological basis. What is generally accepted is this relative chronological position in order of anteriority, e.g. Baudhāyana, Mânava, Āpastamba, Pāṇini, Kātyāyana. Hiraṇyakeśī, Vārāha, Vadhula and so on. This is also somewhat borne out by the tradition of the Taittiriya school which would place the early sūtrakāras in the following order of age: Baudhāyana, Bharadvāja, Āpastamba, Satyāṣāḍhā, Hiranyakeśin and Vaikhānasa. Whatever date one might wish to assign to the Kalpasutras, the Śrautasūtras and the Śulbasutras, we must agree with Thibaut that these sūtras only give a systematized account of sacrificial rites which had been practised during long preceding ages. The rules for the sides of the various altars, detailed arrangement of the sacrificial ground, the positioning of the fires, altars, tents and sheds, the shapes of the fire-altars in the form of the falcon and other birds are all mentioned and discussed in various ways and at various places in the Brāhmaṇas as we shall see in what follows. The manner in which the measure- ments and transformations had to be carried out, in other words, the geometry and mensuration involved in their construction, it is true, are not discussed in the Brāhmaṇas and cannot be expected either in this class of literature. But there can hardly be any doubt that what Baudhāyana, Āpastamba, Mānava, Katyāyana
-a pp.
-7 ff. b Thibaut (1) pt. 1, 270
-bINTRODUCTION
-5
-and others tried to codify in a systematic manner in their Śulbasūtra manuals must have for a long time formed the common property of all adhvaryus and priests specialized in the performance of sacrificial rites.
-REFERENCES TO SACRIFICIAL ALTARS AND FIRES IN SAMHITĀS AND BRAHMANAS
+
+The foregoing discussion will make it abundantly clear that we are still far from narrowing the date range differing by centuries and putting the early sutra works on a firmer chronological basis. What is generally accepted is this relative chronological position in order of anteriority, e.g. Baudhāyana, Mânava, Āpastamba, Pāṇini, Kātyāyana. Hiraṇyakeśī, Vārāha, Vadhula and so on. This is also somewhat borne out by the tradition of the Taittiriya school which would place the early sūtrakāras in the following order of age: Baudhāyana, Bharadvāja, Āpastamba, Satyāṣāḍhā, Hiranyakeśin and Vaikhānasa. Whatever date one might wish to assign to the Kalpasutras, the Śrautasūtras and the Śulbasutras, we must agree with Thibaut that these sūtras only give a systematized account of sacrificial rites which had been practised during long preceding ages. The rules for the sides of the various altars, detailed arrangement of the sacrificial ground, the positioning of the fires, altars, tents and sheds, the shapes of the fire-altars in the form of the falcon and other birds are all mentioned and discussed in various ways and at various places in the Brāhmaṇas as we shall see in what follows. The manner in which the measure- ments and transformations had to be carried out, in other words, the geometry and mensuration involved in their construction, it is true, are not discussed in the Brāhmaṇas and cannot be expected either in this class of literature. 
+
+- a pp. 7 ff. 
+- b Thibaut (1) pt. 1, 270
+
+[[5]]
+
+But there can hardly be any doubt that what Baudhāyana, Āpastamba, Mānava, Katyāyana and others tried to codify in a systematic manner in their Śulbasūtra manuals must have for a long time formed the common property of all adhvaryus and priests specialized in the performance of sacrificial rites.
+
+#### REFERENCES TO SACRIFICIAL ALTARS AND FIRES IN SAMHITĀS AND BRAHMANAS
 The Vedic cult knew no temple. The ceremonies were performed either in the sacrificer's house or on a nearby plot of ground. This ground must be flat and covered with grass. For the performance of sacrifices, certain vedis and agnis had to be constructed. A vedi is a specified raised area on which the sacrifice is to be per- formed and on which persons performing the ceremony, namely the sacrificer, the hotā, the adhvaryu, the ṛtvik and others are to take their seats. Some of the main vedis include the mahāvedi, the darśapūrṇamāsa vedi, the śautrāmaṇi vedi, the paitṛki vedi, the uttara vedi, and the aśvamedha vedi. An agni is a raised altar, generally made of bricks, for keeping the fire. The fire-altars were of two types, the nitya (or perpetual) and the kamya (or optional). The three perpetual fire-altars were the garhapatya, the āhavaniya and the dakṣiṇāgni and meant for daily sacrifices. The kāmya agnis intended for wish fulfilment, included the syenacit, the vakrapakṣa-vyasta-puccha-śyena, the kańkacit, the alajacit, the praugacit, the ubhayata praugacit, the droṇacit, the rathacakracit, the śmaśānacit, the kūrmacit, and so on.
-The mention of the garhapatya fire occurs at several places in the Rg-veda.a In another place, there is a a reference to three
-three places (trisadhasthe) of the agni, implying the garhapatya, the āhavaniya and the dakṣiṇāgni. A reference to the form of fyena is found in the Rg-veda where agni is frequently called a bird (vayas)©. The Ag-veda also contains references to altars and their constructions of which a few examples are as follows: 'Let the priests decorate the altar (vedi), let them kindle the fire to the east' 'May the measure-lengths (yūpa) of the sacrificial posts be to our felicity; may the sacred grass (oşadhi) be (stream) for our happiness; may the altar (vedi) be (raised for) our happiness”.
+
+The mention of the garhapatya fire occurs at several places in the Rg-veda.a In another place, there is a reference to three three places (trisadhasthe) of the agni, implying the garhapatya, the āhavaniya and the dakṣiṇāgni. A reference to the form of fyena is found in the Rg-veda where agni is frequently called a bird (vayas)©. The Ag-veda also contains references to altars and their constructions of which a few examples are as follows: 'Let the priests decorate the altar (vedi), let them kindle the fire to the east' 'May the measure-lengths (yūpa) of the sacrificial posts be to our felicity; may the sacred grass (oşadhi) be (stream) for our happiness; may the altar (vedi) be (raised for) our happiness”.
+
 In the Taittiriya Samhita,f it is so ordained that the garhapatya citi is to be constructed with 21 bricks arranged in an identical manner. Similar passages are found in the Maitrāyaṇī Samhitā, Kāṭhaka Samhitā and the Kapiṣṭhala Samhitā.o In the Taittiriya Samhitā, it is said,1 "He who constructs (the gārhapatya citi) for the first time should construct in five layers....
 for the second time should construct in three layers....
-He who constructs .”. The saumiki vedi
-a garhapatyena santya ṛtunā (RV. 1.15.12); asthurino gārhapatyāni santu (RV. 6.15.19); iha priyam prajayā to
-samṛdhyatamasmingṛhe gārhapatyāya jāgṛhi; enā patyā tanvam sam sṛ jasvādhā jivṛi vidathamā vadāthaḥ (RV. 10.85.27)
-b jajñasya ketum prathamam purohitamagnim naratriṣadhasthe samidhire (RV. 5.11.2).
-c RV. 1. 164.52; 10.14.5. Compare also with 1.58.5; 1.41.7; 2.2.4; 6.3.7; 10.8.3 etc.
-daram kṛṇvantu vedim samagnimindhaṭām puraḥ (RV 1.170. 4).
-e sam na soma bhavatu brahma śam naḥ śam no grāvāṇaḥ śamu santu yajñāḥ śam naḥ svarūṇāṇ mītavo bhavantu
-śam naḥ prasvaḥ śamvasu vediḥ (RV 7. 35. 7).
-pratisthya va ekavimśaḥ pratiṣṭhā gārhapatyā ekavimśasvaiva pratiṣṭhyām gārhapatyamanu prati tişṭhati (Taitt. S. 5. 2. 3. 5).
-g Mait. S. 3. 2. 3; Kath. S. 20. 1; KPS. 32. 3.
-h pañcacitikam cinvita prathamam cinvānaḥ.
-5. 2. 3. 6).
-         ....tricitikam cinvīta duitīvam cinvāna...... ..(Taitt. S.
-         SULBASUTRAS
-         (also called mahāvedi), as described in the Taittiriya Samhita, is in the form of an isos- celes trapezium having its face 24 prakramas (or padas) long, base 30 prakramas and altitude 36 prakramas. The measures are also given in other samhitās. Although elaborate descriptions of rites and ceremonies in connection with the construction of the various altars such as the dārśapaurṇamāsa vedi, the uttara vedi, the āgnidhriya the hotriya, the mārjālīya, the sadas (tent), the uparavas etc. are found in the Taittiriya and other samhitās, their measurements and constructional details are rarely given.
-         d
-         The standard form of an optional fire-altar was that of a certain bird. This bird was called spena in the Taittiriya Samhitā© and suparna garutman or well winged eagle in the Vājasaneya Samhita. The spatial magnitudes of the falcon-shaped fire-altar were also given in almost all the earlier works from the Taittiriya Samhitā onwards. The measurements were made with units like aratni, vyāma, purușa etc. The area on which these fire-altars were drawn covered 71⁄2 sq. purușas. A complete list of the various kāmya agni together with a statement of the objects for the attainment of which each of them has to be constructed, as found in the Taittiriya Samhitā,1 is given below :
-         Agni
-         Chandaścit
-         (in the form of bird)
-         Śyenacit
-         (
-         -do-
-         Kankacit (
-         -do-
-         Alajacit
-         (
-         -do-
-         Desired objects
-         Desiring cattle
-         heaven
-         }
-         ""
-         دو
-         وو
-         Prauga (in the form of an isosceles
-         triangle)
-         Ubhayata prauga (in the form of a
-         rhombus)
-         Rathacakracit (in the form of a
-         chariot wheel)
-         Droṇacit (in the form of a trough) Paricayyacit (in the form of a circle) Smasanacit (in the form of a pyre)
-         (isosceles trapezium)
-         Desiring support from the heaven
-         Annihilation of rivals
-         وو
-         ""
-         Gaining food
-         Desiring a region
-         Attaining the place where the forefathers have gone (pitṛloka).
-         a trimśat padāni paścāt tiraści bhavati ṣaṭtrimśat prācī, caturviṛśatiḥ purastāt, tiraścī daśadaśa sampadyate (Taitt.
-         S. 6. 2. 4. 5).
-         b Mait. S. 3. 8. 4; Kath. S. 25. 3; KPS. 3. 8. 6.
-         c Taitt. S. 5. 4. 11. 1.
-         d Vāj. S. 12. 4.
-         e Taitt. S. 5. 2. 5. 1 & Mait. S. 3. 2. 4. f Taitt. S. 5. 4. 11. 1-3.
-         chandaścitam cinvīta paśukāmaḥ paśavo vai chandāmsi paśumāneva bhavati, śvenacitam cinvīta suvargakāmaḥ śyenovai vayasām pratistha śyena eva bhūtvā suvargam patati, kańkacitam cinvita yaḥ kāmayeta śīrṣaṇvānamum- smilloke syāmiti sīrṣaṇvānevāmumṣmilloke bhavatyalajacitam cinvīta, catuḥsītam pratiṣṭhākāmascatasro diso dikṣveva prati tisthati, praugacitam cinvīta bhrātṛvyavān praiva bhrātṛvyān nudata ubhayataḥ-praugam cinvita yaḥ kāmayeta prajātān bhrātṛvyān....rathacakracitam cinvīta grāmakāmo śmaśāncacitam cinvīta vaḥ kāmayeta pitṛloka......(Taitt. S. 5. 4. 11. 1-3).
-         INTRODUCTION
-         As regards the height of the agni and the number of bricks to be used in its construction, Taittiriya Samhitaa observes:
-         "He should pile (the fire) of a thousand (bricks) when first piling (it); this world is commensurate with a thousand; verily he conquers this world. He should pile (it) of two thousand, when piling a second time, the atmosphere is commensurate with two thousand; verily he conquers the atmosphere. He should pile (it) of three thousand; verily he conquers the yonder world. Knee-deep should he pile (it) when piling for the first time, verily with the gayatri he mounts this world; naval-deep should he pile (it) when piling for the second time, verily with the triṣṭubh, he mounts the atmosphere; neck-deep should he pile (it) when piling for the third time, verily with the jagati, he mounts the yonder world".
-         An expert in this science was called agnicit (constructor of the agni). The term appears in the Taittiriya Samhitab and the Maitrāyaṇi Samhitā.
-         d
-         In the Yajurveda, we find an elaborate and tedious rite of the agnicayana or the construction of the fire-altar, associated with highly speculative philosophy. The same mystic significance is found in different schools of this Samhitā, e.g. the Taittiriya, the Maitrayaniya, the Kathaka-Kapisthala and the Vajasaneya. This shows that the agnicayana rite and its philosophy had already taken definite shape in the time of the Yajurveda. The existence of different masters of this science with independent views is also referred to in the Taittiriya Samhitā.©
-         The relative positions of the three nitya fires, the gārhapatya, the ābavaniya and the dakṣiṇāgni are also described in the Satapatha Brāhmaṇa. The gārhapatya fire is represented like a man lying on his back with head 'towards the east'. The first clear description of the gārhapatya as a circle of one square vyāma and of the āhavaniya as a square of the same size appears in the Satapatha Brāhmaṇa. The garhapatya fire is to be constructed with 21 bricks.h
-         In the Satapatha Brāhmaṇa, the same measure of the mahāvedi as given in the Taittiriya Samhitā has been adopted. The kāmya agnis such as the suparṇa garutman, the dronacit, the rathacakracit, the kankacit, the praugacit, the ubhayata praugacit etc. have been described here. These kāmya citis all measure 71⁄2 sq. purușas. Regarding
-         a sahasram cinvita prathamam cincānaḥ, sahasrasammito vā ayam loka imameva lokamabhi jayati dvisāhaṣram cinvita dvitiyam cinvāno, dvisāhasram vā antarikṣamantarikṣamevābhi jayati, trisāhasram cinvīta tṛtīvam cinvā- nastrisāhasro vā asau lokomumeva lokamabhi javati jānudaghnam cinvīta prathamam cincāno gāyatriyaivemam lokamabhyārohati nābhidaghnam cinvita dvitīyam cinvānastriṣṭuvaivāntarikṣamabḥyārohati grīvādaghnam cinvīta tṛtīyam cincāno jagaṭyaivāmum lokamabḥyārohati (Taitt. §. 5, 6. 8. 2-3).
-         b Taitt. S. 5. 2. 5. 5-6; TS 5. 7. 6. 1.
-         c Mait. S. 3. 4. 8.
-         d Keith (1), cxxv.
-         e Taitt. S. 5. 2. 8. 1-2; 5. 3. 8. 1; 5. 5. 2. 1.
-         f Sat. Br. 1. 7. 3. 23-25.
-         g Sat. Br. 7. 1. 1. 37.
-         h Sat. Br. 7. 1. 1. 34.
-         i Sat. Br. 7. 1. 1. 1.
-         i SBR. 3. 5. 1. 1-6.
-         8
-         SULBASUTRAS
-         the areas of the fire-altars, the Śatapatha Brāhmaṇa observes, "According to one (school), ekavidha agni should be constructed first, then by an increment of one (square purușa) successively upto a construction of an unlimited size. But indeed the agni (or Prajapati) was to be constructed first as saptavidha (71⁄2 sq. purușas and then by the increment of one square purușa) in succession is to be made upto ekaśatavidha (101 sq. puruṣas)"a Compare this with Baudhāyana's and Āpastamba's statements in their sulbasūtrasb that one fold means 11 sq. purușas, two-fold means 21⁄2 sq. purușas, seven-fold means 71⁄2 sq. purușas and so on. This has also been explained by other Sulbakāras.
-         GENERAL CHARACTERISTICS OF ŚULBASŪTRAS,
-         THEIR GEOMETRY, ARITHMETIC AND ALGEBRA
-         In our section on 'Commentaries', we have discussed in detail the sutras of the four texts by Baudhāyana, Āpastamba, Kātyāyana and Manava. In presenting the texts, their translations and commentaries, we have not followed the chronological order in which these were written as would appear from our foregoing discussions, but in order of their importance and completeness.
-         Baudhāyana's sūtras are not only the earliest but represent the most systematic, logical and detailed treatment of the subject inspite of their archaic and highly condensed sūtra style. It opens with the various units of linear measurements and then develops the geometry of rectilinear figures, triangles and circles, their trans- formations from one type to the other, methods of arriving at areas by combination or difference of given areas, the irrational number like √2 and the value of " albeit indirectly. Then the measurements of the three perpetual fires, the gārhapatya, the ahavaniya and the dakṣiņāgni, the sacrificial altars such as the mahāvedi, the uttara vedi the sautrāmaṇi vedi, the paitṛki vedi, the dārśapaurṇamāsika vedi, the paśubandha vedi, various sacrificial fires such as the dhiṣṇyas, the agnidhriya, and the mārjaliya, the sadas tent, the havirdhāna shed for the placement of the soma carts and various pits like the utkara, the uparava and the catvāla are given along with their relative distances from one another. Although the plan of the sacrificial ground and placement therein of the various fires, altars, tents, sheds and pits is not described in separate sūtras, the manner in which their measurements, relative distances and directions for their placements are given makes it quite easy for one to visualize the picture of the sacrificial ground and at once appreciate how closely and meticulously the śulbavid was following the time-honoured Vedic sacrificial practices. About the fire-altars for the various wish fulfilments (kāmyaciti), Baudhāyana gives the measurements, con- structions and methods of laying bricks of different geometrical shapes in alternate layers following the strict injunction that the edges of bricks in contiguous layers must not meet. Such fire-altars include those in the form of a falcon, both rectilinear and with curved wings and extended tail, of a kite and alaja bird, of an
-         a taddhaike, ekavidham prathamam vidadhāṭyathaikottaramā parimitavidhānna tathā kuryāt saptavidho vā ‘agre prajapatirast jvata]. ...saptavidhameva prathamam vidadhītāthaikottaramaikaśatavidhādekaśatavidham tu
-         ../(Śať. Br. 10. 2. 3. 17-18).
-         natividadhita...
-         b Bśl. 5.1, 5.8. Āśl. 8.3.
-         INTRODUCTION
-         9
-         isosceles triangle and a rhombus, of a chariot-wheel without and with spokes, of a square and circular trough, of a pyre, and finally one in the form of a tortoise. The facile use of geometry presented in the opening chapters is abundantly clear in the constructional procedures of these fire-altars.
-         Apastamba follows more or less the same procedure and provides the same rules and techniques; but in our view, coming after Baudhāyana and with his text before him, he has not shown any improvement upon Baudhāyana. About the fire-altars, he has discussed different types of syenacit, rectilinear as well as those with curved wings and extended tail and given different arrangements with different types of bricks, but has not gone into the details of other types which he mentions presumably because he has no alternative method of arrangement to suggest. As far as the use of terms and expressions are concerned, there is a remarkable resemblance between Baudhāyana and Āpastamba.
-         Katyāyana's treatment is succinct and systematic. He emphasizes the geometry behind the construction of altars and fires and gives a clear exposition of it. He deals with a few altars and agnis but refrains from considering the kāmyacitis as the latter are discussed separately in a chapter of his Śrautasutras.
-         The Manava-sulbasutra, a part of the Śrautasutra by the same author, although following the common tradition of the sulbakāras, gives methods and details often very difficult to comprehend. In many cases the details are either lacking or incomplete and can be understood only by reference to Baudhayana, Āpastamba and Katyāyana. To us the very arrangement and the treatment of the subject have appeared far from systematic. In our judgement, the work does not measure up to the standard attained by Baudhāyana, Āpastamba and Kātyāyana.
-         Geometry
-         Several methods of constructing a square on a given straight line have been given. Rectangles are rectilinear figures of which the two sides are different. For the construction of such rectilinear figures the squared relationship between the diagonal and the two sides has been given at various places in the fulbasūtras, which we summarize below:
-         a) n2+(in)2=(&$n)2
-         2
-         (i) n=4, 42+32-52 (ii) n=12, 122+92=152 (iii) n=20, 202+152=252 (iv) n=16, 162+122==202
-         b) n2+(n)2= (n) 2
-         5
-         (i) n=1, 12+(1)2 = (19) 2 (ii) n=36, 362152392
-         (iii) n=188, 1882+(783)2=(203) 2
-         (iv) n=6, 62+(2)2(6)2
-         (Bśl. 1.5; Mśl. 1.11—1.12)
-         (Bśl. 1.13)
-         (Kśl. 2.5)
-         (Āśl. 5.3)
-         (Asl. 5.3)
-         (Bsl. 1.8; Asl. 1.2; Kśl. 1.4)
-         (Bśl. 1.8 Ãśl. 1.2; Ka̸ 1.4-1.5) (Bśl. 1.13; Asl. 5.4) (Ãśl. 6.5)
-         (Āśl. 6.6; Mśl. 2.4)
-         10
-         c)
-         g)
-         h)
-         i)
-         j)
-         k)
-         2
-         ·
-         (v) n=5, 52+(21) 2 — (51) 2 (vi) n=10, 102+(4})2=(10%)2 (vii) n=27, 272+(111)2= (291) 2 (viii) n=18, 182+(71)2=(191) 2
-         (ix) n=12, 12+52=132 (x) n=96, 962+402-1042
-         72+242=252
-         82+152=172
-         122+352-372
-         B
-         12+32 (10) 2 22+62 (1/40)2
-         =
-         2
-         1 2+(√2)2+(√3) 2
-         na2-
-         ŚULBASŪTRAS
-         (Asl. 6.7)
-         (Āśl. 6.8)
-         2
-         a
-         = [(n + 1)a]2 = [(R = 1) ]2 -[10]
-         2
-         62+(41) 2-(71) 2
-         12+(√/10)2=11
-         2
-         (Ăśl. 7.3) (Ãśl. 7.1—7.2) (Bśl. 1.13; Āśl. 5.4) (Msl. 1.4-1.6;) (Bsl. 1.13)
-         (Bśl. 1.13; Ãśl. 5.5)
-         (B§l. 1.13; Āśl. 5.5)
-         (Kśl. 2.4; Mśl. 3.5)
-         (Ksl. 2.5)
-         (Kśl. 2.10)
-         where a rational integer
-         (Kśl. 6.7)
-         (Mśl. 2.5)
-         (Mśl. 12.5)
-         Theorem of Square on the Diagonal of a Square or a Rectangle
-         The above-mentioned squared relationships are followed or preceded by the general statement that the diagonal of a rectangle produces by itself both (the areas) produced separately by its two sides. This is the so-called theorem known after Pythagoras. A question has often been asked whether such a definition resulted from empirical guess work or was based on a proof of some kind. Such questions are of course to be expected from scholars firmly entrenched in the Euclidean tradition in geometry. As is well known, mathematics, including geometry, in ancient India did not follow the Euclidean tradition, and usually gave the rules, leaving their proofs to be explained by the teachers to the pupils of their respective schools. Several scholars who discussed this issue of proof have shown that such proof is implicit in the very operations with rectilinear figures; we have discussed the matter in detail in our commentaries in connection with the rule and further elaboration here is unnecessary. George Sarton, while considering the question of Hindu influence on Pythagorean derivation of the theorem of squares, referred to Gaston Milhaud's claim that Pythagorean geometry may have been partly inspired by Hindu models. This argument was based on the high antiquity of Baudhayana and Āpastamba. But Sarton, presumably on the basis of Keith's views on the dates of the sulbakāras, pleaded inability to accept such high antiquity and observed: 'It is highly probable that the fulbasūtras date from a period posterior to 500 B.c. and pre-Christian. They are probably post-Pythagorean".a
-         This brings us to the important question of the origin of the theorems and also whether Pythagoras himself was the discoverer of it.
-         The tradition attributing the theorem to Pythagoras is due to Cicero (c. 50 B.C.) Diogenes Laertius (second century A.D.), Athenaeus (c. A.D. 300), Heron (third
-         a Sarton, I, 74-75.
-         INTRODUCTION
-         11
-         century A.D.), and Proclus (c.A.D. 460), and therefore started about five centuries after the death of Pythagoras. Junge pointed out that the Greek literature of the first five centuries after Pythagoras contained no mention of the discovery of this or any other important geometrical theorem by the great philosopher and furthermore emphasized uncertainties in the statements of Plutarch and Proclus. Although various attempts have been made to justify the tradition and trace the proof to Pythagoras, no record of proof has come down to us earlier than that given by Euclid (Theorem 47, BK 1). As to the relation 42+32-52 from which the theorem of rational triangle is derivable, very ancient Egyptian knowledge is attested by the Kahun papyrus of the twelfth dynasty (c. 2000 B.C.), but its association with rational triangles does not seem indicated in this or other Egyptian papyrii.a As to the antiquity of Pythagorean theorem in China, it is stated, though not proved, in the arithmetical classic Chou Pei Suan Ching (third or fourth century B.C.); the numerical relationship 4, 3 and 5 between the sides and the diagonal of a rational rectangle is also given in this text. The old Babylonians of the second millennium B.C. left records on their cuneiform tablets of similar squared relationships indicating practical use of the theorem of squares. No general statement in the form of a theorem is of course found. Neugebauer is of the view that Pythagoras derived his number theorem of the universe as well as the theorem known after his name from such Babylonian cuneiform tablets.b
-         As we have stated, methods have been given for transforming rectilinear figures from squares to rectangles, of transforming squares into circles, of developing isos- celes triangle and rhombus from squares and so on. Various geometrical shapes like parallelograms, five-sided rectilinear figures are mentioned in various ways in connection with the construction of bricks with which to cover the sacrificial altars.
-         Irrational numbers, π, Fractions, Surds
-         What is of great significance is the treatment of irrational numbers like 2 and statement of their accurate values. The manner in which such accurate values were possibly obtained by the sulbakāras has been fully discussed in our notes. Neugebauer has shown that these values are identical with those found in certain Babylonian cuneiform texts, given in sexagesimal system. He tried to imply that the Indian value after all represented the Babylonian one expressed only in decimal system or more accurately in fraction. As we have shown, there is certainly no proof of such an assertion and the Indian value is certainly derivable from the methods contained in the sulbasutras themselves.
-         In connection with the pits for stacking the sacrificial poles in, Baudhāyana has given the ratio of the circumference to the diameter as 3. We have shown from the rules for transforming squares into circles, as given by Baudhāyana, that the śulba- kāras in all probability knew of more accurate value of π.
-         a Heath, (2), I, 352. Sen, Chapter on ‘Mathematics', A Concise History of Science in India, 148-149,
-         Neugebauer, 28-42
-         b
-         12
-         ŚULBASŪTRAS
-         The fulbakāras were familiar with the use of fractions and manipulated with them in various ways, specially in connection with the construction of bricks for the fire-altars. The terms used by them are significant as well as interesting, of which few examples are given:
-         caturbhagona =1-1=1
-         ardhāṣṭama =7골 ardhadasama =91
-         ardhanavama
-         =81
-         caturtha-saviseṣārdha—} (†√2) caturtha-saviseṣa-saptama=(|√2)
-         (Bśl. 1.5)
-         (Bśl. 5.1, 5.6)
-         (Bśl. 5.1)
-         (Bśl. 5.1)
-         (Āśl. 19.4)
-         (Asl. 19.7)
-         In our notes we have explained that elementary knowledge of operating with surds was also possessed by these geometers. It will certainly be not proper to say that the fulbakāras dealt with algebra as is known from later Indian mathematicians. But it cannot be denied that germs of algebraic equation are embedded in many of their rules and operations. Such is the case with quadratic equation as also with indeterminate equation of the first degree. As we have amply stressed, these texts were compiled primarily as manuals for the construction of sacrificial fires and altars. Geometry, mensuration, arithmetic, and germs of algebra came out only incidentally. Nevertheless, the gleams we obtain of their knowledge of these subjects can hardly fail to excite our admiration when we remember the time of their compilation.
-         SOURCE MATERIALS AND PLAN OF WORK
-         In our edition of the Baudhayana-śulba, we have used Thibaut's edition as printed in the Pandit and Caland's edition of the śulba attached to Baudhāyana's Śrautasūtra. Bürk's plan in the break-up of the sutras and their numbering has been followed. This plan appeared to us systematic and logical inasmuch as the breaking up of the sutras and their numbering were generally guided by considerations of self-contained state- ments. It may also be noted that Caland punctuated the sutras from similar considerations although no numbering was used. We have, however, retained Thibaut's numbering within parenthesis in order that scholars already accustomed to Thibaut's edition may not experience any difficulty. Our edition of the Apastamba- śulba is based on Bürk's Das Āpastamba-śulbasūtra and the Mysore edition of the same text. Bürk's arrangement and numbering have been mostly retained; only a few sūtras have been regrouped from considerations of self-consistency. In such regroupings also Bürk's number has been given within parenthesis. For the Kātyā- yana-śulba, we have used the editions by Madana Pāṭhaka, the Kāśī Sanskrit series and the MS. No. G. 6145 of the Asiatic Society, Calcutta. In our edition of the Mānava-śulba, Van Gelder's edition of the sulba attached to the Śrautasutra and the MS. No. Th. 184 of the National Library, Calcutta have been used and Gelder's arrangement and grouping retained.
-         As to commentaries, Dvārakānātha's Sulbamimāṇsā on Baudhāyana, the com- mentaries of Kapardisvāmi, Karavindasvāmī and Sundararāja on Āpastamba,
-         INTRODUCTION
-         13
-         Karkabhāṣya and Mahidhara's Sulbasūtravṛtti on Kātyāyana, and MS. No. 536 of the Bombay Branch of the Asiatic Society, a commentary on the Mānava-śulba, have been used. Other manuscripts used by previous editors like Thibaut, Bürk and Van Gelder have been referred to in the foot-notes.
-         We have given the texts, translations and our own commentaries in separate parts, always referring to the number used in our edition wherever necessary. In writing the commentaries again, the sūtras, singly as well as in groups, have been treated as found convenient for purposes of elucidation. In the case of the Apastamba- śulba, a number of chapters dealing with the same topic, e.g. the construction of syenacit, have been dealt with together for the same reason.
-         PART I
-         TEXTBAUDHAYANA-ŠULBASŪTRA'
-         1.1 atheme 'gnicayāḥ|(1.1)* /
-         1.2 tesām bhūmeḥ parimāṇavihārānvyākhyāsyāmaḥ | (1.2) /
-         1.3 athāngulapramānam (1.3) caturdaśāṇavaḥ (1.4) catustrimśattilāḥ prthusamśliṣṭā ityaparam | (1.5) | daśāñgulam kṣudrapadam | (1.6) | dvādaśa prādeśaḥ1 | (1.7) | prthottarayuge trayodaśike | (1.8) padam pañcadaśa | I.9) / aṣṭāśītiśatamīṣā (I.10) catuḥśatamakṣaḥ | (1.11) | ṣaḍaśītiryugam | (1.12)/ dvātrimśajjānuḥ |(1.13)/ şaṭtrimsacchamyābāhū | (1.14)/ dvipadaḥ prakramaḥ| (I.15) / dvau prādeśāvaratniḥ | (1.16) | athāpyudāharanti (1.17) pade yuge prakrame 'ratnaviyati śamyāyām2 ca mānārtheṣu yāthākāmīti | (1.18)| pañcā- ratniḥ puruṣo (I.19) vyāmaśca3 | (1.20) / caturaratnirvyāyāmaḥ|(1.20) / 1.4 caturasram1 cikirṣanyāvaccikīrṣettāvatim rajjumubhayataḥ pāśām kṛtvā madhye lakṣaṇam karoti | lekhāmālikhya (1.22) tasyā madhye śańkum nihanyāt | tasminpāśau pratimucya lakṣaṇena maṇḍalam parilikhet | viṣkam- bhāntayoḥ śankū nihanyāt | (1.23) | pūrvasminpāśam pratimucya pāśena maṇḍalam parilikhet/(1.24)/ evamaparasmimste yatra sameyātām tena dvitīyam viṣkambhamāyacchet /(1.25) / viṣkambhāntayoḥ śañkū nihanyāt |(1.26)|pūrvas- minpāśau pratimucya lakṣaṇena maṇḍalam parilikhet/(1.27) | evam dakṣiņata evam paścādevamuttaratasteṣām ye 'ntyāḥ samsargāstaccaturaśram sampadyate | (1.28) /
-         1.5 athāparam | (1.29) | pramāṇāddviguṇām rajjumubhayataḥ pāśām kṛtvā madhye lakṣaṇam karoti | (1.30) | sa prācyarthaḥ | (1.31) | aparasminnardhe caturbhāgone lakṣaṇam karoti /(1.32)/ tannyañcanam3 /(1.33) / ardhe'ṇsārtham| (1.34) | prṣṭhyāntayoḥ pāśau pratimucya nyañcanena dakṣiṇāpāyamyārdhena śroṇyamsānnirharet | (1.35) /
-         1.6 dīrghacaturaśram cikīrṣanyāvaccikīrṣettāvatyāṁ bhūmyām” dvau śaǹkū nihanyāt | (1.36)/ dvau dvāvekaikamabhitaḥ samau |(1.37)| yāvatī tiryaṁmānī
-         *The numbering within parenthesis refers to Thibaut's edition as printed in the Pandit.
-         1 dādaśāṁgulam prādeśam, M.
-         2
-         śāmyāyām, C.
-         3 ca in T, but not in other Mss used by C.
-         4 C retains -śra as used throughout B,U,M; -sra throughout H, T.
-         5 pramucya in B,M,H.
-         6 nyañchanam in T.
-         7 Throughout H,U,B,M; bhūmau in T.
-         8 -vekamabhitaḥ in B, -vekaivamabhitaḥ in H,
-         18
-         BAUDHĀYANA-ŚULBASŪTRA
-         tāvatim rajjumubhayataḥ pāśām kṛtvā madhye lakṣaṇam karoti | pūrveṣāmanty- ayoḥ pāśau pratimucya lakṣaṇena dakṣiņāpāyamya lakṣaṇe lakṣaṇam karoti (1.38)/ madhyame pasau pratimucya lakṣaṇasyopariṣṭāddakṣiṇāpāyamya lakṣaṇe śankum nihanyāt/(1.39)/so'msa etenottaro 'mso vyākhyātastathā śroṇi (1.40)/ 1.7 yatra purastādaṇhīyasīm minuyāttatra tadardhe lakṣaṇam karoti |(1.41)/ 1.8 athāparam pramāṇādadhyardhām rajjumubhayataḥ pāśām kṛtvā- parasmimstṛtiye şaḍbhāgone lakṣaṇam karoti|(1.42)/tannyañcanam|(1.43)/ işte msartham prṣṭhyāntayoḥ pāśau pratimucya nyañcanena dakṣiṇāpāya- myeṣṭena śronyamsānnirharet/(1.44)/
-         1.9
-         samacaturaśrasyākṣṇayārajjurdvistāvatīm bhūmim karoti|(1.45)/ 1.10 pramāṇam tiryagdvikaraṇyāyāmastasyākṣṇayārajjustrikaraṇī|(1.46)/ 1.11 tṛtīyakaraṇyetena vyākhyātā | navamastu10 bhūmerbhāgo bhavatīti"| (1.47)/
-         1.12 dirghacaturaśrasyākṣṇayārajjuḥ pārśvamānī12 yatpṛthagbhūte kurutastadubhayam karoti/(1.48)/
-         13
-         tiryaǹmānī ca
-         1.13 tāsām13 trikacatuskayordvādaśikapañcikayoḥ1 pañcadaśikāṣṭikayoḥ13 saptikacaturvimśikayor1dvādaśikapañcatrimśikayoḥ pañcadasikaṣaṭtrimśikayo-
-         rityetāsūpalabdhiḥ|(1.49)/
-         2
-         2.1 nānācaturaśre samasyankaniyasaḥ karaṇyā varṣiyaso vṛdhramullikhet| vṛdhrasyākṣṇayārajjuḥ samastayoḥ pārśvamānī bhavati | (1.50) /
-         2.2 caturaśrāccaturasram nirjihîrṣanyāvannirjihīrṣettasya karaṇyā varṣiyaso vṛdhramullikhet | vṛdhrasya pārśvamānīmakṣṇayetaratpārśvamupasamharet | sā yatra nipatettadapacchindyat | chinnayā nirastam | (1.51) /
-         2.3 samacaturaśram dīrghacaturaśram cikīrṣamstadakṣṇayāpacchidya bhāgam dvedhā vibhajya pārśvayorupadadhyād1yathāyogam | (1.52) /
-         0 -ṣṭena sārdham, M.
-         10 Before nava-M. ins vibhāgastu tāsāṁ.
-         11 bhavati, M.
-         12
-         ca ins M.
-         13 Found in all copies except in T.
-         14 M. omits drādaśi kayoh.
-         15
-         pañcikaṣastikayoḥ, M.
-         16 -vimśati-for -vimsi, M.
-         17 vṛddha for vṛdhra in Mss. C; vṛdhra in T.
-         18 rupasamdadhyāt, M, U, B.
-         BAUDHAYANA-SULBASŪTRA
-         19
-         2.4 api vaistasmimścaturaśram samasya tasya karaṇyāpacchidya2oyadatiśiṣy- ate taditaratropadadhyāt | 1.53) |
-         2.5 dirghacaturasram samacaturasram
-         cikīrṣamstiryanmānīm karaṇīm
-         kṛtvā śeṣam dvedhā vibhajya pārśvayoa1rupadadhyāt22 | khaṇḍamāvāpena tatsampūrayet | tasya nirhāra2 uktaḥ | (1.54) |
-         2.6 caturasramekato' nimaccikirşannanimataḥ karaṇīm tiryanmānīm kṛtvā śeṣamakṣṇayā vibhajya viparyasyetaratropadadhyāt | (1.55) /
-         2.7 caturasram praugam cikirşanyāvaccikīrṣeddvistāvatīm bhūmim sama- caturaśrām kṛtvā pūrvasyāḥ karaṇyāḥ madhye śankum nihanyāt | tasminpāśau pratimucya dakṣinottarayoḥ śronyornipātayet | bahispandyamapacchindyāt | 1.56) /
-         2.8 caturasramubhayataḥ praugam cikīrṣanyāvaccikīrṣeddvistāvatīm bhūmim dirghacaturaśrām kṛtvā pūrvasyāḥ karaṇyāḥ madhye sankum nihanyāt | tasminpāśau pratimucya dakṣinottarayormadhyadeśayornipatayet | bahiḥs 24- pandyamapacchindyāt | etenāparam praugam vyākhyātam | (1.57) /
-         2.9 caturaśram mandalam cikirşannakṣṇayārdham madhyātprācīm- abhyāpātayet2 | yadatiśiṣyate tasya saha tṛtîyena maṇḍalam parilikhet | (1.58) / 2.10 maṇḍalam caturaśram cikīrṣanviṣkambhamaṣṭau bhāgānkṛtvā bhāgamekonatrimśadhā2 vibhajyāṣṭāviṛśatibhāgānuddharet | bhāgasya ca şaṣṭhamaṣṭamabhāgonam | (1.59) /
-         2.11 api vā pañcadaśabhāgānkṛtvā dvāvuddharet | saiṣānityāa caturaśra- karaņi | (1.60) /
-         2.12 pramāṇam tṛtiyena vardhayettacca28 caturthenātmacatustrimsonena | (1.61) | saviśeṣaḥ | (1.62) |
-         3
-         3.1 athagnyadheyike vihare29 (1.63) garhapatyādāhavanīyasyāyatanam |
-         19 api vaita- in C; api caita- in T.
-         20 -chindyad in M; also in T.
-         21 viparyasyetaratra in T for pārsvayoḥ.
-         22 upasamdadhyāt in B, H, U.
-         23 nirhāsa, B, U; see also ZDMG, 55, 579.
-         24 bahispandya, C.
-         25 -bhyāyātaye-, B, M.
-         26 -vimsadha, H, M.
-         27 eșă instead of saișă in H, B & T.
-         28
-         ca in T, not in C.
-         29 vihāraḥ in 'T.
-         20
-         BAUDHAYANA-ŚULBASUTRA
-         (1.64) | vijnāyate ʼṣṭaṣu prakrameṣu brāhmaṇo'gnimādadhītaikādaśasu rājanyo dvādaśasu vaisya iti/ (1.65-66) /
-         3.2 āyāmatṛtiyena trīṇi caturaśrāṇyanūcīnāni kārayet | aparasyottarasyām30 śroṇyām gārhapatyaḥ | tasyaiva dakṣine 'mse 'nvāhāryapacanaḥ pūrvasyottare 'msa āhavaniyaḥ | (1.67) /
-         3.3 api vā gārhapatyāhavanīyayorantarālam pañcadhā ṣoḍhā vā sambhujya şaṣṭham saptamam vā bhāgamāgantukamupasamasya31 samam traidham vibhajya pūrvasmādantād32 dvayorbhāgayorlakṣaṇam karoti | gārhapaty- āhavaniyayorantau niyamya lakṣaṇena dakṣiṇāpāyamya lakṣaṇe śankum nihanti | taddakṣiṇāgnerāyatanam bhavati | (1.68) /
-         3.4 api vā pramāṇam pañcamena vardhayet | tatsarvam pañcadhā sambhu- jyāparasmādantāddvayorbhāgayorlakṣaṇam karoti | prṣthyāntayoḥ pāśau pratimucya lakṣaṇena dakṣiṇāpāyamya lakṣaṇe sankum nihanti | taddakṣi- ṇāgnerāyatanam bhavati | (1.69) /
-         3.5 viparyastaitenotkaro vyākhyātaḥ | (1.70) |
-         3.6 aparenāhavaniyam yajamānamātrī bhavatīti vedervijñāyate | (1.71) /
-         dārśapaurṇamāsikāyā
-         3.7 tasyāstribhāgonam paścāttiraścī | tasyā evārdham purastāttiraści33 / evam dirghacaturaśramekato 'nimadvihṛtya sraktiṣu śankūnnihanyāt | (1.72) / 3.8 yāvatī pārśvamānī dvirabhyastā3 tāvatīm rajjumubhayataḥ pāśām kṛtvā madhye lakṣaṇam karoti | dakṣinayoḥ pārśvayoḥ35 pāśau pratimucya lakṣaṇena dakṣiņāpāyamya lakṣaṇe śankum nihanyat | tasminpāśau pratimucya lakṣaṇena dakṣiņam pārśvam parilikhet | (1.73) | etenottaram pārśvam vyākhyātam | (1.74) / pūrvam pārśvam tayā dvirabhyastaya parilikhet | evamaparam) (1.75) 3.9 daśapadā paścāttiraści dvādaśapadā prācyaṣṭāpadā purastāttiraścīti pāśubandhikāyā vedervijñāyate | mānayogastasyā vyākhyātaḥ | (1.76) / rathasammitetyekeṣām | (1.77) | virāṭsampannetyekeṣām | (1.78) |
-         |
-         3.10 śamyāmātri catuḥsraktirbhavatityuttaravedervijñāyate samacaturaśrāviśeṣāt | (1.80) /
-         | (1.79) /
-         3.11 vitṛtīvā vedirbhavatīti paitṛkyā3 vedervijñāyate | (1.81 | mahāvedes-
-         30 -daparasyottarasyottarasyām, B, M.
-         31 -gamtumupasamasya, H, U.
-         32 Thibaut has justified the term antāt although antyāt has been used in all Mss.
-         33 -ttiraścī jāvad, M.
-         34 abhyastā missing in B.
-         35 Occurs in H, M, U; omitted in B, T.
-         36 paitṛyajñikāyā, B, U originally.
-         BAUDHAYANA-SULBASUTRA
-         21
-         tṛtiyena samacaturaśrakṛtāyāstṛtīyakaranis bhavatiti38/navamastu bhūmer- bhāgo bhavati39 | (1.82) | yajamānamātrī catuḥsraktirbhavaṭītyekeṣām / (1.83)/ dikṣu sraktayo bhavanti | (1.84 |
-         3.12 veditṛtiye yajeteti sautrāmaṇikim vedimabhyupadiśanti | (1.85) / mahāvedestṛtiyena samacaturaśrakṛtāyā aṣṭādaśapadā pārśvamānī bhavati | (1.86) | tasyai dirghakaraṇyāmekato 'nimatkaranyam ca yathākāmīti | (1.87) /
-         4
-         4.1 prāgvamśaḥ ṣoḍaśaprakramāyāmo dvādaśavyāso1o 'pi vā dvādaśapra- kramāyāmo daśavyāsaḥ | (1.88) /
-         4.2 tasya madhye dvādaśiko vihāraḥ | (1.89 |
-         4.3 trimśatpadāni prakramā vā paścāttiraści bhavati şaṭtrimśatprācī caturvimśatiḥ purastāttiraścīti mahāvedervijñāyate/ mānayogastasyā vyākhyātaḥ| (1.90) / āhavanīyātṣaṭ prakramānmahāvediḥ | (1.91) /
-         4.4 tata ekasminsadaḥ | (1.92) | taddaśakam | (1.93) | udak saptavimsa- tyaratnayaḥ | (1.94) | aṣṭādaśetyekeṣām | (1.95) /
-         4.5 tataścaturşu havirdhānam | taddaśakam dvādaśakam vāa1 mānayoga- stayorvyākhyātaḥ | (1.96) |
-         4.6 yūpāvaṭiyācchankorardhaprakramamavaśiṣyottaravedim
-         vimimīte
-         (1.97) | daśapadottaravedirbhavatīti some vijñāyate | mānayogastasyā vyākhyātaḥ | (1.98) /
-         4.7 cātvālaḥ śamyāmātro 'parimito vā | (1.99) /
-         4.8 athoparavaḥ prādeśamukhāḥ prādeśāntarālāḥ | (1.100) | aratnimātram samacaturasram vihṛtya sraktiṣu śankūnnihanyāt | ardhaprādesenārdhaprā- desenaikaikam maṇḍalam2 parilikhet | (1.101) /
-         4.9 sadasaḥ43 pūrvārdhāddviprakramamavasiṣya dhiṣṇyānām1a dviprādeso viṣkambhastathāntarālāḥ | (1.102) /
-         4.10 āgnidhrāgārasyaa pārśvamānī pañcāratniḥ | (1.103) /
-         37 -kṛtāyāḥ karaṇī tṛtīyakaraṇī B, U; see also T's explanation with reference to commentaries.
-         38 bhavati, M, U; bhavati, H.
-         39 bhavatiti, M.
-         4o dvādaśapadavyāsa-, M which omits the following words upto daśavyāsaḥ-.
-         41 After vā, T has samacaturasram.
-         42 parimaṇḍalam, M, U.
-         43 -tsadaḥ, H.
-         44 Not dhiṣṇiyā-, the Mss.
-         45 āgnīdhrīyā, T.
-         22
-         BAUDHAYANA-ŚULBASŪTRA
-         4.11 etena mārjālīyo vyākhyātaḥ | (1.104) / tasyodīcīm dvāram kurvanti | (1.105) /
-         4.12 rathākṣāntarālā yūpāvaṭā bhavantītyekādaśinyām vijñāyate | (1.106) | tasyā1 daśānāṁ ca rathākṣāṇāmekādaśānāṁ ca padānāmaṣṭāngulasya ca caturvimśam bhāgamādadīta | sa prakramaḥ syāt | tena vedim vimimīte | (1.107) /
-         padā-
-         4.13 athāśvamedhe47 vimśatyāśca rathākṣāṇāmekavimśatyāśca nāmaṣṭāngulasya ca caturvimśam bhāgamādadīta | sa prakramaḥ syāt | tena vedim vimimīte 48 / (I.108) /
-         4.14 atha pracyekādaśinyām" yūpārtham vedeḥ pārvārdhātpadārdha- vyāsamapacchidya00 tatpurastāṭprāñcams1 dadhyāt | (I.109) | nātrāṣṭāngulam vidyate | (I.110) | na vyatiṣangaḥ / (1.111) /
-         4.15 yūpāvaṭāḥ padaviṣkambhāstripadapariṇāhāni yūpoparāṇīti | (1.112-3)
-         5
-         5.1 ardhāṣṭamāḥ puruṣāḥ52 prathamo 'gniḥ | (II.1) / ardhanavamā dvitīyaḥ | (11.2) | ardhadaśamāstṛtīyaḥ | (II.3) | evamuttarottaro vidhā- bhyāsa ekaśatavidhāt53 | (II.4) | tadetatsaptavidhaprabhṛtyekaśatavidhān- tam | (II.5) /
-         5.2 ata urdhvamekaśatavidhāneva pratyādadīta | (II.6) | anagnikānvā yajña- kratūnāharet / (II.7) | anyatrāśvamedhāt | (II.8 /
-         5.3 aśvamedhamaprāptam cedāharedata urdhvam vidhāmabhyasyennetaradā- driyetas (II.9) /
-         5.4 atitam cedāharedāhṛtya kṛtāntādeva pratyādadīta / (II.10) /
-         5.5 kathamu khalu vidhāmabhyasyet | (II.11) /
-         5.6 yadanyatprakṛtestatpañcadaśa bhāgānkṛtvā vidhāyāṇ vidhāyām dvau dvau bhāgau samasyet | tābhirardhāṣṭamābhiragnim cinuyāt | (II.12) /
-         46 tasyai, U.
-         47 With the last word of 4.12. vimimītāthāśvamedhe, M.
-         48 -mitatha, M.
-         49 'prācye-, M; prācyai-, other Mss; -nyā, U; prāmcyai, T.
-         50 Thus M; pūrvārdhātpadārthavyā-, U. padārdhavyā-, B, pūrvārdhāsadārdhanyā. H
-         51 -prācyām, M.
-         52 ardhâṣṭamapuruṣāḥ, T.
-         53 C retains ekādaśavidhāt-; T uses ekaśatavidhât which is meaningful.
-         54 -bhasyedanyataradādri-, M.
-         BAUDHAYANA-SULBASUTRA
-         23
-         3333
-         5.7 ūrdhvapramāṇābhyāsam jānoḥ pañcamasya caturvimśenaike55 samāman- anti | (II.13) /
-         5.8 atha haika ekavidhaprabhṛtīnapakṣapucchāmścinvate / (II.14) /
-         5.9 tannopapadyate pūrvottaravirodhāt / (II.15) /
-         5.10 atha haikeṣām brāhmaṇam bhavati syenacidagnīnām pūrvā tatiriti | (II.16) /
-         5.11 athāpareṣām56 na jyāyāmsam citvā kanījāmsam cinvīteti | (II.17-18)/ 5.12 athāsmākam3 /(II.19) | pakṣi bhavati | na hyapakṣaḥ patitumarhati | aratninā pakṣau drāghīyāmsau bhavataḥ | tasmātpakṣapravayāṇsi vayāmsi | vyāmamātrau pakṣau ca puccham ca bhavatīti | (II.20) /
-         5.13 napakṣapucchaḥ śyeno vidyate | na casaptavidhasya pakṣapucchāni vidyante | na ca saptavidham citvaikavidhaprasangaḥ | tasmātsaptavidha eva prathamo 'gniḥ / (II.21) /
-         5.14 bhedānvarjayet | (II.22) | adharottarayoḥ pārśvasamdhānam bhedā ityupadiśanti / (II.23) | tadagnyanteṣu na vidyate58 na sraktipārśvayoḥ | (II.24-25) /
-         5.15 sahasram cinvīta prathamam cinvāna iti59 | (II.26) / 5.16 pañcamāyām vā citau samkhyām pūrayet | (II.27) /
-         5.17 dviśatāśceccikīrṣetpañcacoḍābhirnākasadaḥ samānasamkhyam pratiyāt| (II.28) /
-         6
-         6.1 paśudharmo1 ha vā agniḥ | yatha ha vai paśordakṣiṇeṣāmasthnām yaddakṣiņam pārśvam taduttareṣāmuttaram yaduttareṣām dakṣinam taddakṣineṣāmuttaram yadavāk62 cordhvams2 ca62 tatsamānamevamiṣṭakānām rūpāṇyupadadhyāt | (II.29) /
-         6.2 yā dakṣiṇāvṛto lekhāstā dakṣiṇata upadadhyāt (II.30) savyāvṛta uttarataḥ| (II.31) | ṛjulekhāḥ paścācca purastācca bhavanti | (II. 32) | tryālikhitā
-         55 -senaivaike, T.
-         56 -thāparam, M.
-         63
-         57 brāhmaṇam ins U on the margin; for the brāhmaṇa see TS. V.2.5.1.
-         58 vidyamte, U.
-         59 See TS. V. 6.8.2.
-         60 śatāmśce, U; -coḍānākasadaḥ, M.
-         61 -dharma, B, M, U.
-         62 yadvāmcam, M; yadarvāk co, B; paścātpurastācca, T.
-         63 Thus H, M, U; paścāt, B.
-         24
-         BAUDHAYANA-SULBASŪTRA
-         madhye | (11.33) | atha yā viśayasthāo1 yathā ha vai pašoḥ prṣṭhavamśo naivaikasminpārsve vyatirekeņa vartate naivāparasminnevam tāsāmupadhānam pratīyāt | (II.34) /
-         6.3 athāpi brāhmaṇam65 bhavati | (II.35) | prajāpatirvā atharvāgnireva dadhyannātharvaṇastasyeṣṭakā asthānīti | (11.36) /
-         6.4 tasmadbahistanvam ceccinuyattanvopaplavamadhyairātmopaplavamad- hyāt samdadhyāt | (II.37) /
-         6.5 prāñcamenam cinuta iti vijñāyate | (II.38) /
-         6.6 amṛnmayibhiraniṣṭakābhirnas samkhyām pūrayet | (11.39) /
-         6.7 iṣṭakacidvā9 anyo 'gniḥ paśucidanya ityetasmādbrāhmaṇāt | (II.40) / 6.8 paśurvā eṣa yadagniryoniḥ khalu vā eṣā paśorvikriyate"yatprācīnamaiṣṭa- kādyajuḥ kriyata”1 iti ca72 / (II.41) /
-         6.9 lokabādhīni13 dravyāṇyavaṭeṣupadadhyāt | (11.42) |
-         6.10 maṇḍalamṛṣabham vikarṇīmitīṣṭakāsu lakṣmāṇi pratīyāt | (II.43) / 6.11 iṣṭakāmantrayoriṣṭakāvyatireke lokampṛṇāḥ sampadyante parimāṇā- bhāvāt | (II.44) /
-         6.12 atītāneva veṣṭa1⁄4kāgaṇānatropadadhyāt | (II.45) /
-         6.13 pañca lokampṛṇāḥ | (II.46) /
-         6.14 mantravyatireke ’ktāḥ śarkarāḥ samdhiṣūpadadhyāt | (II.47)
-         6.15 prācīrupadadhāti pratīcīrupadadhātīti gaṇeṣu rītivādaḥ | (II.48) / 6.16 prācīmupadadhāti pratīcīmupadadhātīti karturmukhavādaḥ | (II.49) / 6.17 purastādanyāḥ praticirupadadhāti paścādanyāḥ prācīrityapavargaḥrs | (II.50) /
-         6.18 caturaśrāsvevaitadupapadyate | (II.51) /
-         64 Thus, T.; viṣaya-, H, M, B, U.
-         65 TS. V. 6.6.3.
-         66 Not in T.
-         67 Some of the Mss have (as Lāṭyāyana (1.5.7.) upablaya or blaya.
-         68 -yobhiriṣṭakābhi-, M, B.
-         69 TS. I. 5.8.2.
-         70 vikriyata iti, T.
-         71-yat iti, B, U; but we have one single citation in TS. V. 2.10.1.
-         72 H omits.
-         73 ba with H, U, B, M; va with T.
-         74 Thus, B, U; -tītāneva-, M,; H is incomplete; T reads: atītāneveṣṭakāgaṇānetadatro.
-         75 -vargavādaḥ in T.
-         BAUDHAYANA-ŚULBASŪTRA
-         7
-         25
-         7.1
-         76
-         na khaṇḍāmupadadhyāt | (II.52) | na bhinnāmupadadhyāt | (II.53) / na kṛṣṇāmupadadhyāt | (II.55) | na jīrṇāmupadadhyāt | (II.54) | na lakṣmaṇām”upadadhyāt | (11.56)/ na svayamātṛṇṇām svayamcitāvupadadhyāt| (II.57) /
-         7.2 urdhvapramāņṇamiṣṭakānām jānoḥ pañcamena kārayet | (II.58) | ardhena nākasadām pañcacoḍānāṁ ca | (II.59) /
-         7.3 yacchoṣapākābhyām pratihraseta purīṣeņa tatsampūrayet purīṣasyāniya- taparimāṇatvāt | (II.60) /
-         7.4 vyāyāmamātrī bhavatīti gārhapatyacitervijñāyate / (11.61) /
-         7.5 caturaśretyekeṣām | (II.62) | parimaṇḍaletyekeṣām | (11.63) /
-         7.6 caturasram saptadhā vibhajya tiraścīm tredhā vibhajet |(II.64) | aparas- minprastāra udīcīrupadadhāti | (II.65) /
-         7.7 samacaturaśrāścedupadadhyād-(II.66) -vyāyāmaṣaṣṭheneṣṭakāḥ kāra- peccaturthena trtiyeneti (II.66-67) | tāsām nava prathamā dvādaśa dvitīvā iti pūrvasminprastāra upadadhāti | (II.68) | pañca tṛtīyāḥ ṣoḍaśa prathamā ityaparasmin / (II.69) /
-         7.8
-         parimaṇḍalāyām yāvatsambhavettāvatsamacaturaśram kṛtvā tannavadhā vibhajet (II.70) pradhīmstridhā tridheti | (II.71)/ aparam prastāram” tathopa- dadhyādyathā pradhyanikeṣu sraktayo bhavanti | (II.72) /
-         7.9 dhiṣṇya ekacitīkāścaturaśrāḥ parimaṇḍalā vā | (II.73) /
-         7.10 teṣāmāgnīdhrīyam navadhā vibhajyaikasyāḥ sthāne' śmānamupadadhyāt| (II.74) /
-         7.11 atha hoturdhiṣnyam80 navadha vibhajya pūrvāṇstribhāgānekaikam dvedha vibhajet / (II.75) /
-         7.12 athetarānnavadhā navadhā vibhajya madhyamapūrvau dvau31 bhāgau samasyet (II.76) /
-         7.13 atha mārjālīyam tredhā vibhajya pūrvāparau bhāgau pañcadhā vibhajet | (II.77) /
-         7.14 ukhyabhasmanā samsṛjyeṣṭakāḥ kārayediti | (II.78) /
-         76 In T. na jīrņām precede na kṛṣṇām-
-         77 Thus H., lakṣmāmu- M. U; lakṣṇamu- T.
-         78 Thus U and T; -set H. M. B.
-         79 -parasminprastāre, M.B.
-         80
-         dhişniyam, H. M.
-         81 dvau dvau, M.
-         26
-         BAUDHÃYANA-ŚULBASŪTRA
-         7.15 samvatsarabhṛta evaitadupapadyate na rātribhṛtaḥ | (11.79) |
-         7.16 evamasya mantravati citiklṛptiḥ | (II.80) |
-         7.17 chandaścitam triṣāhasrasya parastāccinvīta (II.81) kāmavivekāt tasya rūpamsyenākṛtirbhavatīti 82 / (II.83) /
-         8
-         8.1 atha vai bhavati śyenacitam cinvīta suvargakāma iti / (III.1) /
-         8.2 akṛtidvaividhyam / (III.2) | caturāśrātmāa3 (III.3) śyenākṛtiśca | (III.4) /
-         8.3 vijñāyate ubhayam brāhmaṇam84 / (III.5-6) /
-         8.4 pañca dakṣiṇāyām śroṇyāmupadadhāti pañcottarasyām | basto vaya iti dakṣine'msa upadadhāti | vṛṣṇirvaya ityuttare | vyāghro vaya iti dakṣiņe pakṣa upadadhāti | simho vaya ityuttares purușo vaya iti madhya iti ca | (III.7) / 8.5 athāparam | vayasām vā eṣa pratimayā cīyate yadagniriti | (III.8) / utpatatām chāyayetyarthaḥ | (III.9) /
-         8.6 samacaturaśrābhiragnim cinutes daivyasya ca mānuṣasya ca vyāvṛttyā iti maitrāyaṇīyabrāhmaṇams bhavati / (III.10) /
-         8.7 tasyeṣṭakāḥ kārayet puruṣasyass caturthena pañcamena șaṣṭhena daśame- neti | (III.11) /
-         8.8 athāgnim vimimīte | (III.12) /
-         8.9 yāvānpuruṣa urdhvabāhustāvadantarāle veṇośchidre89 karoti | (III.13) / madhye tṛtiyam | (III.14) / yadamutra spandyaya karoti tadiha veņunā karoti | (III.15) /
-         8.10 tasyātmā (III.16) samacaturaśraścatvāraḥ puruṣāḥ | (III.17) | pakṣaḥ samacaturaśraḥ puruṣaḥ | (III.18) | sa tu dakṣiṇato’ratninā drāghīyān | (III.19) / etenottaraḥ pakṣo vyākhyātaḥ | (III. 20) | pucchaḥ samacaturaśraḥ
-         82 T. and H. add prakṛtitvāt.
-         83 caturasrā-in T.
-         84 The first in TS. V. 3.1.5; the second in TS. V. 5.3.2.
-         85 U. and Mahāgnisarvasya ins. pakṣayoreva vīryam dadhāti.
-         86 H. U. B. M.; cinvīta in T.
-         87 Passage not traceable.
-         88 Omitted in T.
-         89 Thus M; veņoh chidre, M. U.; venochidre, B. and T.BAUDHAYANA-SULBASUTRA
-         27
-         puruṣaḥ | (III.21) | tamavastātoprādeśena vardhayet | (III.22) | evam sāratni prādeśā saptavidhaḥ sampadyataḥ1 / (III.23 ) /
-         8.11 upadhāne pakṣāgrāduttarataḥ puruṣatṛtīyavelāyām (III.24) catasraḥ pañcamyastāsāmabhito dve dve pādeṣṭake | (III.25) | tato'ṣṭau caturthyaḥ| (III.26) / pakṣaśeṣam ṣaḍbhāgīyābhiḥ pracchādayet / (III.27) | etenottaraḥ pakṣo vyakhyātaḥ | (III.28) /
-         8.12 pūrvāparayoḥ pucchapārśvayoścaturbhāgīyā upadadhyāt | (III.29) / dakṣinottarayoḥ pādeṣṭakāḥ | (III.30) / śeṣamagnim pañcamabhāgiyābhiḥ pracchadayet / (III.31) /
-         8.13 eșa dviśataḥ prastāraḥ | (III.32) /
-         8.14 aparasminprastāre (III.33) pakṣāgrāduttarato' rdhavyāyāmavelāyām tisrastisraḥ ṣaṣṭhyo dve dve dvipade iti viparyāsamupadadhyāt | (III.34) / tathottares2 / (III.35)
-         8.15 dakṣiṇasyām śroṇyām nava şaṣṭhyaścaturaśrakṛtāḥ | (III.36) | tathott- arasyām | (III.37) |
-         8.16 nava nava şaṣṭhyo dve dve dipade iti dakṣiṇādamsāduttarādamsādvipar- yāsamupadadhyāt | (III.38) /
-         8.17 seṣamagnim pañcamabhāgiyābhiḥ pracchādayet | (III.39) /
-         8.18 eșa dviśataḥ prastāro vyatyāsam cinuyādyāvataḥ prastārāmścikīrṣet | (III.40) /
-         9.1 athāparaḥ (III.41) /
-         9
-         9.2 puruṣasya pañcamyaḥ | (III.42) | tā evaikato' dhyardhāḥ | (III.43) / tāsāmardhyāḥ pādyāśca | (III.44-45) /
-         9.3 upadhāne (III.46) / pūrvāparayoḥ pakṣapārśvayorardheṣṭakā udīcīrupa- dadhyāt (III.47) | tathottare/ (III.48) /
-         9.4 dakṣinottarayoḥ pucchapārsva3yoścatasraścatasro' dhyardha udīcīḥ | (III.49) | pucchasyāvastāccatasro' rdheṣṭakā udīcīḥ | (III.50) | tāsāmabhito dve pādeṣṭake | (III.51)
-         (III.51) / jaghanena pucchāpyayorekaikāmardheṣṭakām prācīm / (III.52) /
-         20 adhastāt instead of avastāt, M.
-         91 sampadyate in T.
-         92 -dadhyādevamuttare, B.
-         93 pucchapakṣayo-, B.
-         94 pucchasyā-, U– pucchapārśvayo-, M.
-         28
-         BAUDHAYANA-SULBASŪTRA
-         9.5 seṣamagnim pañcamabhāgiyābhiḥ pracchadayet / III.53 /
-         9.6 eșa dviśataḥ prastāraḥ | (III.54) /
-         9.7 aparasmin prastāra ātmasraktiṣu catasraḥ pādeṣṭakā upadadhyāt | (III.55) | tāsāmabhito dve dve ardheṣṭake | (III.56) | pūrvasminnanike pañca | (III.57) /
-         9.8 pakṣāgrayostisrastisro 'dhyardhā udīciḥ | (III.58) | tāsāmantaraleṣveka- ikāmardheṣṭakām prācīm | (III.59) /
-         9.9 seṣamagnim pañcamabhāgīyābhiḥ pracchādayet | (III.60 /
-         9.10 eșa dviśataḥ prastāro vyatyāsam cinuyādyāvataḥ prastārāmścikīrṣet | (III.61) /
-         10
-         10.1 atha vakrapakṣo vyastapucchaḥ | (III.62) /
-         10.2 tasyeṣṭakāḥ kārayetpuruṣasya caturthyaḥ | (III.63) | tāsāmardhyāḥ pādyāśca9 | (III.64) | nityamakṣṇyāpacchedanamanādeśe | (III.65) /
-         10.3 pādeṣṭakāścaturbhiḥa parigṛhṇīyādardhapadena padenādhyardhapadena padasaviśeşeneti | (III.66-67) | te dve yathā dīrghasamśliṣṭe syātām tathār- dheṣṭakām kārayet | (III.68) /
-         10.4 athāgnim vimimītao | ātmā dvipuruṣāyāmo daśapadavyāsaḥ | (III.69 / tasya dakṣiṇādamsāduttarato' dhyardhaprakrame lakṣaṇam karoti | (III.70)/ evamaparataḥ | (III.71) | tayorupariṣṭātspandyām niyamyā9msamapacchin- dyāt | (III.72) | etenetarāsām sraktīnāmapacchedā vyākhyātāḥ | (III.73) / sa ātmā / (III.74) /
-         10.5 siro' rdhaṣaṣṭhapadāyāmamardhapuruṣavyāsam | tasyamsau prakra- meņa prakrameṇāpacchindyāt | (III.75) /
-         10.6 pucchasya şaṭpadā prācī dvipurușodīcī / (III.76) | tasya pūrve sraktī tribhistribhiḥ prakramairapacchindyāt | (III.77) /
-         10.7 pakṣo dvādaśapadāyāmo daśapadavyāsaḥ | (III.78 | tasya madhyāt prāñci100 ṣaṭpadāni prakramya śankum nihanyāt | (III.79) / śroṇyorekaikam |
-         ** pādeṣu, M; T omits.
-         9 -śceti, B. U. M.
-         97 -ṣṭakām caturbhiḥ, H. U. B. M.
-         98 vimimite, T.
-         "Between niyamya and amsam, anuspandi in M.
-         100
-         prāṇcam, M.
-         BAUDHAYANA-SULBASŪTRA
-         29
-         (III.80) | athainam101 spandyayā paricinuyāt | (III.81) / anta102spandyamap- acchidya tatpurastāt prāñcam dadhyāt | (III.82) | sa nirṇāmaḥ | (III.83)/ etenottarasya pakṣasya nirṇāmo vyākhyātah. | (III.84) |
-         10.8 pakṣāgrayoḥ prakramapramāṇāni pañca pañca caturaśrāṇyanūcīnāni kṛtvā sarvāṇyavāñcamakṣṇayāpacchindyādardhānyuddharet | (III.85) /
-         10.9 evam sāratniprādeśaḥ saptavidhaḥ sampadyataḥ | (1.86) /.
-         10.10 upadhāne siraso' pyaye caturthimupadadhyāt | (III.87)/ hamsamukhi purastāt | (III.88) | pādeṣṭake abhitaḥ (III.89) | tayoravastādabhitastisras- tisraścaturaśrapādyāḥ | (III.90) | śeṣe pādeṣṭakāḥ | (III.91) /
-         10.11 api vā siraso' gre hamsamukhimupadadhyāt tasya avastāccaturthīm- upadadhyātpādeṣṭake abhitaḥ | tayoravastādabhitastisrastisraścaturaśrapādyāḥ| seṣe pādeṣṭakāḥ | (III.92) /
-         10.12 śiraso' vastāṭpañcapādeṣṭakā vyatiṣaktā upadadhyāt | (III. 93)| tathā pucchasya purastāt (III.94) yadyadapacchinnam tasminnardheṣṭakaḥ pādeṣ- ṭakāścopadadhyāt | (III.95) /
-         10.13 seṣamagnim caturbhāgīyābhiḥ pracchādayet | (III.96) | pādyābhiḥ sardhyābhiḥ samkhyām pūrayet | (III.97) /
-         10.14 eșa dviśataḥ prastāraḥ103/
-         10.15 aparasminprastāre hamsamukhiścatasraścatasṛbhiḥ pādeṣṭakābhiḥ samyojayedyathā dīrghacaturaśram sampadyate | tattiryak svayamātṛṇṇāvakāśa upadadhyāt | (III.98) /
-         10.16 hamsamukhyau praticyau pucchāpyaye104 'rdhapadenātmani viśaye | (III.99) | tayoravastādabhitastisraḥ pādeṣṭakāḥ prāñmukhīrupadadhyāt | (III.100) /
-         10.17 pucchasyavastātpañcadaśa pādeṣṭakā vyatiṣaktā upadadhyāt | (III.101) /
-         10.18 pādeṣṭake ardheṣṭaketi pakṣapatrāṇām prācīrvyatyāsam cinuyāt | (III.102) /
-         10.19 viśaye yadapacchinnam tasminnardheṣṭakāḥ pādeṣṣṭakāścopadadhyāt | (III.103) /
-         10.20 seṣamagnim caturbhāgīyābhiḥ pracchādayet | pādyābhiḥ sārdhyābhiḥ samkhyām pūrayet / (III.104) /
-         101 athainām, T.
-         102 antaḥspandyam, T.
-         108
-         eṣa
-         dviśataḥ prastāraḥ omitted in B, T.
-         104 pucchasyappaye, U.
-         30
-         BAUDHAYANA-ŚULBASŪTRA
-         11.1 athāparaḥ 105 (III.105) /
-         11
-         11.2 puruṣasya pañcamībhiḥ śatamasitiḥ saptārdham ca săratniprādeśaḥ saptavidhaḥ sampadyate | (III.106) /
-         11.3 tāsām pañcāśaddve catmany-(III.107)-ardhacaturthyaḥ106 sirasi | (III.108) | pañcadaśa pucche (III.109) / aṣṭapañcāśatsārdhyā dakṣine pakṣa upadadhyāt / (III.110) / tathottare / (III.111) /
-         11.4 ardhavyāyāmena sraktīnāmapacchedaḥ / (III.112) / samnatam puccham (III.113) / pakṣayostribhistribhiraratnibhir107apanāmaḥ / (III.114) / adh- yardhyābhiḥ108 ṣaḥ ṣaṭ patrāṇi kuryāt | (III.115) | ākṛtiḥ śiraso nityā |
-         (III.116) /
-         11.5 atheṣṭakānāṁ vikārāḥ | (III.117) /
-         11.6 puruṣasya pañcamyastā evaikato 'dhyardhaḥ / (III.118) / tā evaikataḥ sapādāḥ (III.119) | pañcamabhāgīyāyāḥ pādyāḥ sārdhyāḥ | (III.120) / tathādhyardhāyāḥ109 / (III.121) | tayoścāṣṭamabhāgau tatha śleṣayedyathā tisraḥ sraktayo bhavanti / (III.122) | pañcamabhāgiyāyāścāṣṭamyaḥ (III.123)/ tāni daśa (III.124) /
-         11.7 ātmani pañcamabhāgīyāḥ sārdhyā upadadhyat (III.125) | tathā
-         | pucche / (III.126) /
-         11.8 pakṣayoścādhyardhāḥ sārdhyāḥ | (III.127) /
-         11.9 sirasi yāḥ sambhavanti | (III.128) /
-         11.10 aparasminprastare pūrvayoḥ pakṣāpyayayorekaikāmubhayimupad- adhyāt / (III.129) | ekaikāmaparayoḥ / (III.130) / dve dve sirasaḥ pārsvayoḥ| (III.131) /
-         11.11 pucchasyāvastādadhyardhāḥ prācāryathāvakāśam pārśvayoḥ pādyāḥ sāṣṭamabhāgāḥ110 / (III.133) /
-         11.12 pakṣayoścādhyardhāḥ sāvayavāḥ | (III.134) /
-         (III.132) /
-         11.13 śeşam yathayogam yathāsamkhyam yathādharmam copadadhyāt | (III.135) /
-         105
-         -param, M.
-         106 -turthāḥ, B,
-         T.
-         107 -aratnibharapanāmo in Caland.
-         108 Thus B. dhyardhābhiḥ, M, U; -dhyardhārdhyābhiḥ, T.
-         109 -stathādhyardhyāyā-, M. U.
-         110 -bhāgiyāḥ, M. sāṣṭabhāgāḥ, T.
-         BAUDHAYANA -ŚULBASŪTRA
-         12
-         12.1 kańkacita etenātmā puccham ca vyākhyātam / (IIÏ.136) /
-         31
-         12.2 sirasi pañcopadadhyāt | (III.137 | tasyākṛtirvyākhyāta | (III. 138) / 12.3 saptapañcāśaddakṣine pakṣa upadadhyāt | (III.139) | tathottare | (III.140) /
-         12.4 vyāyāmena saprādesena pakṣayorapanāmaḥ | (III.141) / pañcama- bhāgiyārdhyābhiḥ ṣat ṣaṭ patrāṇi kuryāt | (III.142) | adhyardhāvaśiṣyate| (III.143) /
-         12.5 taya pucchasyāvastāt pādāvaratnimātrāvaratnyantarālau prādeśa- vyāsau bhavataḥ | (III.144) | tayoravastādabhito dvaudvāvaṣṭamabhāgau prāgbhedāvupadadhyāt | (III.145) /
-         12.6 evam sāratniprādeśaḥ saptavidhaḥ sampadyate111 / (III.146) / 12.7 atheṣṭakānāṁ vikārāḥ | pañcamabhāgiyāḥ sāvayavāḥ | (III.147) | pādeṣṭakām caturbhiḥ112 parigṛhṇīyād-(III.148)-ardhaprādeśenādhyardhaprā- desena prādesena prādeśasaviśeṣeneti/(III.149)/ adhyardheṣṭakām caturbhiḥ112 parigṛhṇīyādardhavyāyāmena dvābhyamaratnibhyāmaratnisaviseṣeneti [
-         (III.150) | tāḥ ṣaṭ / (III.151) /
-         12.8 tāsām caturaśrapādyāḥ sāṣṭamabhāgāḥ pādayorupadhāya śeṣam yathā- yogam yathāsamkhyam yathādharmam copadadhyāt / (III.152) /
-         13
-         13.1 alajacita etenātmā śiraḥ puccham ca vyākhyātam pādāvapoddhṛtya | (III.153) /
-         13.2 trişaşṭirdakṣine pakṣa upadadhyāt | (III.154) | tathottare | (III.155)/ 13.3 puruşeņa pakṣayorapanāmaḥ | (III.156) /
-         13.4 aparasmādapanāmātprāñcamaratnim mitvā tasminspandyām niyamyā- param pakṣapatrāpacched113amanvāyacchet | (III.157) /
-         13.5 evam pañca pañcamyaḥ sārdhyā uddhṛtā bhavanti | (III.158) / 13.6 pādeṣṭakāmapanāma11 upadhyaya (III.159) tāsām caturaśra pādyāḥ sāṣṭamabhāgā apoddhṛtya seṣam115 yathayogam yathāsamkhyam yathādhar- mam copadadhyāt / (III.160) /
-         111 śiraso nityā, ins. M.
-         112 pādeṣṭakāścaturbhiḥ, M.
-         113 pakṣapatramapache-, M; pakṣayamnāpache-, B.
-         114 pādeṣṭakānāmavanāma, B.
-         115 feṣā, T.
-         32
-         BAUDHAYANA -SULBASŪTRA
-         14
-         14.1 praugacitam cinviteti116 / (III.161) /
-         14.2 yāvānagniḥ sāratniprādeśastāvatpraugam kṛtvā tasyāparasyāḥ karaṇyā dvādaśeneṣṭakāstadardhavyāsāḥ kārayet | (III.162) | tāsāmardhyāḥ pādyāśca | (III.163) /
-         117
-         14.3 tāsām dve ardheṣṭake bahyasaviseṣe117 cubuka upadadhyādardhyāścān- tayoḥ / (III.164-165)
-         14.4 seṣamagnim bṛhatībhiḥ118 pracchadayedardheṣṭakābhiḥ samkhyām pūrayet / (III.166) /
-         14.5 aparasminprastāre' parasminnanīke saptacatvārimśatpādeṣṭakā vyatiṣa- ktā upadadhyāt | (III.167) /
-         14.6 cubuka ekām śūlapādyām119 / (III.168) /
-         14.7 dirghe cetare catasraḥ svayamātṛṇṇāvakāśa upadadhyād- (III.169)- ardhyāścāntayoḥ / (III. 170) /
-         14.8 seṣamagnim bṛhatībhiḥ prācībhiḥ pracchādayedardheṣṭakābhiḥ samkhy- ām pūrayet | (III.171) /
-         15
-         15.1 ubhayataḥ praugam cinviteti | (III.172) /
-         15.2 yāvānagniḥ sāratniprādeśastāvadubhayataḥ praugam kṛtvā (III.173) navamena tiryañmānyāḥ praugacitoktā vikārāḥ | (III.174) /
-         15.3 tathopadhānam / (III.175) /
-         15.4 aparasminprastare cubukayordve pādeṣṭake upadadhyāt | (III.176) / samdhyantayośca dirghapādye | (III.177) /
-         15.5 dirghe cetare ca120 catasraḥ svayamātṛṇṇāvakāśa upadadhyādardhyāś- cantayoḥ | (III.178) /
-         15.6 śeşamagnim bṛhatībhiḥ prācībhiḥ121 pracchādayedardheṣṭakābhiḥ sam- khyām pūrayet | (III.178) /
-         16
-         16.1 rathacakracitam cinvīteti vijñāyate | (III.179) |
-         116 iti omitted in T.
-         117 Thus H. U. B. M.; bāhyaviseṣe, T.
-         118 M. ins prācībhiḥ
-         119 T. omits it in the text, but mentions it in the commentary.
-         120 Omitted in T.
-         121 Omitted in T.
-         BAUDHĀYANA-ŚULBASŪTRA
-         333
-         16.2 dvayāni tu122 khalu rathacakrāṇi bhavanti (III.180) sārāṇi ca pradhi- yuktāni ca / (III.181) / aviseṣātte manyāmahe' nyatarasyākṛṭiriti | (III.182)/ 16.3 athāgnim vimimīte | yāvānagniḥ sāratniprādeśastāvatīm bhūmim pari- maṇḍalām kṛtvā tasminyāvatsambhavettāvat123 samacaturaśram kṛtvā (III.183) tasya karaṇyā dvādaśeneṣṭakāḥ kārayet | (III.184) /
-         16.4 tāsām ṣaṭ pradhāvupadhāya śeṣamaṣṭadhā vibhajet124 / (III.185) 16.5 aparam prastāram tathopadadhyādyathā pradhyanikeṣu sraktayo bhavanti125 / (III.186) /
-         16.6 athāparaḥ / (III.187) /
-         16.7 puruṣārdhātpañcadaśeneṣṭakāḥ samacaturaśrāḥ kārayenmānārthāḥ | (III.188) /
-         16.8 tāsām dve sate pañcavimśatiśca sāratniprādeśaḥ saptavidhaḥ sampadyate/ (III.189) /
-         16.9 tāsvanyāścatuḥṣaṣṭimāvapet | (III.190) | tābhiḥ samacaturaśram karoti | (III.191) | tasya ṣoḍaśeṣṭakā pārśvamānī bhavati | (III.192) / trayastrimśadatiśisyante | (III.193) | tābhirantānsarvaśaḥ126 paricinuyāt |
-         (III.194) /
-         16.10 nābhiḥ ṣoḍaśa madhyamāḥ | (III.195) | catuḥṣaṣṭirarāścatuḥ- şaşṭirvediḥ (III.196) / nemiḥ śeṣāḥ | (III.197) /
-         16.11 nābhimantataḥ parilikhet (III.198) / nemimantataścantarataśca127 parilikhya | (III.199) | neminābhyorantarālam dvātrimśaddhā128 vibhajya viparyāsam bhāgānuddharet | (III.200) / evamāvāpa uddhṛto bhavati | (III.201) /
-         16.12 nemim catuḥṣaṣṭim kṛtvā vyavalikhya madhye parikṛṣet | (III.202)/ tā aṣṭāvimśatiśatam 129 bhavanti | (III.203) /
-         16.13 arāmścaturdhā caturdhā130 (III.204) nābhimaṣṭadhā vibhajet | (III.205) /
-         16.14 eşa prathamaḥ prastāraḥ131 |
-         122 Not in the text as given by T.
-         123 tāvat not in T.
-         124 After vibhajet U ins. asminprastāre caturaśrasraktiravāntaradeśātpratisampādayed-.
-         125 After bhavanti U ins. iti.
-         126 -sarvataḥ, T.
-         127 -mimamtataḥ paryasya tasya parilikhennemi, M; B omits parilikhya.
-         128 -trimśadhā, T.
-         129 Thus T and U; aṣṭāviṛśacchatam, B; aṣṭācatvāriṛśacchatam, M.
-         130 Thus U, M; vibhajet instead of the second caturdhă, B, T,
-         131
-         eṣa prathamaḥ prastāraḥ omitted in T,
-         34
-         BAUDHAYANA-SULBASUTRA
-         16.15 aparasminprastāre (III.206) nābhimantataścaturthavelāyām pari- kṛṣet | (III.207) | nemimantarataḥ | (III.208) /
-         16.16 nemimantaratas132catuḥṣaṣṭim kṛtvā vyavalikhet | (III.209) /
-         16.17 arāṇām pañcadhā vibhāga āparikarṣaṇayoḥ / (III.210) /
-         16.18 nemyāmantarăleșu dve dve (III.211) nābhyāmantarāleṣvekaikām | (III.212) /
-         16.19 yaccheṣam nābhestadaṣṭadhā vibhajet | (III.213) /
-         16.20 sa eşa ṣoḍaśakaraṇaḥ sāro rathacakracit | (III.214) /
-         17
-         17.1 dronacitam cinviteti vijñāyate / (III.215) /
-         ca
-         17.2 dvayani tu khalu droṇāni bhavanti133 (III.216) caturaśrāņi parimaṇḍalāni ca / (III.217) / aviseṣātte manyāmahe' nyatarasyākṛtiriti |
-         (III.218) /
-         17.3 athāgnim vimimīte | caturaśra ātmā bhavati | (III.219) | tasya trayaḥ puruṣāstribhāgonāḥ pārśvamānī134 / (III.220) /
-         17.4 paścāttsarurbhavati | (III.221) | tasyārdhapuruṣo daśāngulāni ca prācī | (III.222) | tribhāgonaḥ purușa udīcīti135 / (III.223) /
-         17.5
-         evam sāratniprādeśaḥ saptavidhaḥ sampadyate | (III.224) / 17.6 atheṣṭakānāṁ vikārāḥ136 | puruṣasya ṣaṣṭhyastă evaikato' dhyardhāḥ | tāsāmardhyāstiryagbhedāḥ puruṣasya caturthya iti | (III.225) /
-         37
-         17.7 tāsām tsaruśroṇyantaralayoḥ ṣați șaṣṭīrupadhāya seṣamagnim bṛhatībhiḥ pracchādayet | (III.226) | ardheṣṭakābhiḥ samkhyām pūrayet | (III.227) /
-         17.8 aparasminprastare dakṣine' mse'
-         (III.228) | tathottare | (III.229) /
-         dhyardhamudicimupadadhyāt |
-         17.9 pūrvasminnanīke ṣaḍbhāgīyā upadadhyāt | (III.230) /
-         17.10 dakṣinottarayoścaturbhāgīyāḥ | (III.231) /
-         17.11 tsaroḥ purastātpārsvayordve caturbhagiye upadadhyat (III.232 /
-         132 nemyamtarata, U; nemyamta, M; nemimamtata, B.
-         133 Only in U; in T, it occurs in the commentary.
-         134 T. has bhavati after pārśvamānī.
-         135 U. omits iti.
-         136 In T, tasyeṣṭakāḥ kārayet in place of atheṣṭakānāṁ vikārāḥ.
-         137 ṣat ṣaț in T
-         BAUDHAYANA-SULBASUTRA
-         tayoravastadabhito dve dve adhyardhe viṣüci
-         35
-         (III.233) | tayoravastānma-
-         dhyadese 138 dve 139 şaṣṭhyau pracyau / (III.234) /
-         17.12 śeşamagnim brhatibhiḥ prācībhiḥ140 pracchadayet (III.235) / ardheṣṭakābhiḥ samkhyām pūrayet | (III.236) /
-         18.1 athāparaḥ | (III.237) /
-         18.2 purușasya
-         18
-         sodasibhirvimśaśatam141 sāratniprādeśaḥ
-         sampadyate | (III.238) /
-         saptavidhaḥ
-         18.3 tāsāmekāmapoddhṛtya śeṣāḥ parimaṇḍalam karoti | (III.239 / 18.4 tatpūrveṇa rathacakracitā vyākhyātam | (III.240) /
-         18.5 ṣoḍaśīm purastādviśaya upadhāya tayā saha maṇḍalam142 parilikhet | (III.241) /
-         18.6 yadavastādapacchinnam tatpurastādupadadhyāt | (III.242) /
-         18.7 pradhīnām saptadhā vibhāgaḥ | (III.243) /
-         18.8 pradhimadhyamāḥ prakramavyāsā bhavanti | (III.244) /
-         18.9 caturaśrāṇāmardhyābhiḥ samkhyām pūrayet | (III.245) /
-         18.10 aparasminprastāre (III.246) pradhimadhyamamoṣṭha upadhaya yadavastāttaddvedhā vibhajet | (III.247) /
-         18.11 sa eşa navakaraņo dronacitparimaṇḍalaḥ | (III.248) /
-         tebhyaḥ puriṣam samū-
-         18.12 samūhya paricāyyau pūrveṇa rathacakracitā vyākhyātau | (III.249) / 18.13 samuhyasya dikṣu cātvālān khānayitvā1 hyopadadhyāt / (III.250) /
-         18.14 paricāyya iṣṭakānāṁ deśabhedaḥ | (III.251) /
-         18.15 tam sarvabhiḥ pradakṣiņam paricinuyāt / (III.252) /
-         19
-         19.1 śmaśānacitam cinvīteti vijñāyate | (III.253) /
-         19.2 sarvamagnim caturaśrānpañcadaśa bhāgankṛtvā (III.253) teṣāmā- khyātamupadhānam | (III.254) /
-         138 madhyedese, B.
-         139 Omitted in B, T.
-         140 Omitted in U, T.
-         141 -vimsamsatam, B; vimśatiśatam, M.
-         142 parimaṇḍalam, M.
-         143 khātayiṭvā, T.
-         36
-         BAUDHAYANA-SULBASŪTRA
-         19.3 tribhirbhāgairbhāgārdhavyāsam144 dīrghacaturaśram vihṛtya pūrvasyāḥ karaṇyā madhyāc1⁄445 chroṇī pratyālikhyāntāvuddharet | (III.255) | tasya daśadhā vibhāgaḥ / (III.256) /
-         19.4 tāni vimsatiḥ sarvo' gniḥ sampadyate | (III.257) /
-         19.5 aparasminprastare (III.258) praugamadhye'146 nucīnam vibhajet | (III.259) | tasya ṣaḍdhā vibhāgaḥ /(III.260) / te dve pārsvayorupadadhyāt | (III.261) /
-         19.6 bhāgatṛtāyāyāmaścaturthavyāsāḥ kārayet | (III.262) | tāsām- ardhyāstiryagbhedāḥ | (III.263) /
-         19.7 tā antayorupadhāya seṣamagnim brhatibhiḥ prācībhiḥ pracchadayet | (III.264) | ardheṣṭakābhiḥ samkhyām pūrayet | (III.265)
-         19.8 urdhvapramāṇamagneḥ pañcamena vardhayet (III.266) /
-         19.9
-         tatsarvam tredhā vibhajya dvayorbhāgayoścaturthena vā navamena147 vā caturdaśena veṣṭakāḥ kārayet / (III.267) /
-         19.10 tabhiścatasro vā nava vā caturdaśa vă citir148upadhaya śeṣamavāñca- makṣṇayāpacchindyāt | ardhamuddharet | (III.268) /
-         19.11 tasya nityo vibhāgo yathāyogamiṣṭakānām hrāsavṛddhi | (III.269) /
-         20
-         20.1 kūrmacitam cinvita yaḥ kamayeta brahmalokamabhijayeyamiti / (III.270) | vijñāyate149 |
-         20.2 dvayāḥ khalu kūrmā bhavanti vakrāngāśca parimaṇḍalāśca150 (III.271) | aviseṣātte manyāmahe' nyatarasyākṛtiriti | (III.272) / 20.3 athagnim vimimite | caturaśra ātmā bhavati | tasya daśa prakramāḥ pārśvamānī bhavati | (III.273) | tasya dvābhyām dvābhyām prakramābhyām sraktīnāmapacchedaḥ | (III.274) |
-         20.4 pūrvasminnanike prakramapramāṇāni catvāri caturaśrāņi kṛtvā teṣām ye antye te akṣṇayāpacchindyāt | (III.275) | evam dakṣiņata evam paścādevamuttarataḥ | (III.276) | sa ātmā | (III.277) /
-         144 B. omits bhāgārdha.
-         145 H. U. B. M.; ardhācchroņi, T.
-         146 pradhimadhye, B.
-         147 pamcamena, M.
-         148 vadhirupadhāya, M.
-         149 Not in T.
-         150 parimaṇḍalāngā,BAUDHAYANA-ŚULBASŪTRA
-         37
-         20.5 siraḥ pañcapadāyāmamardhapuruṣavyāsam | (III.278) | tasyāmsau prakrameṇa11 prakrameṇāpacchindyāt | (III.279) /
-         20.6 sraktyapacchede pādānunnayet (III.280) / tasya dvipadākṣṇayā tiraści taddviguṇāyāmamanūci | (III.281) tasya dvipadākṣṇayā pūrva- mamsamapacchindyāt/(III.282) | etenetareṣām pādānāmapacchedā vyākhyātāḥ| (III.283) | aparayoḥ pādayoraparāvam sā132vapacchindyāt | (III.284) / 20.7 evam săratniprādeśaḥ saptavidhaḥ sampadyate | (III.285) / 20.8 tasyeṣṭakaḥ kārayetpuruṣasya caturthyas153 tāsāmardhyāḥ pādyāśca | (III.286) /
-         20.9 adhyardhapadyāścaturbhi ḥ15 parigrhniyātprakrameņa dvābhyām padā- bhyām padasaviśeşeneti / (III.287) /
-         20.10 te dve155 yathā dīrghasamśliṣṭe syātām tathaikām kārayet | (288) / 20.11 dvipadākṣṇayārdhena samacaturaśrāmekām | (III.289) / 20.12 upadhane siraso' gre caturaśrāmupadadhyāt mukhyāvavastāt | (III.291) /
-         (III.290) / hamsa-
-         20.13 pañca pañca caturaśră dve dve pādeṣṭake iti pādeṣūpadadhyāt/(III.292)/ 20.14 yadyadapacchinnam tasminnardheṣṭakā1 upadadhyāt | (III.293) / 20.15 sesamagnim caturbhāgiyābhiḥ pracchādayet
-         kābhiḥ samkhyām pūrayet | (III.295) /
-         (III.294) | ardheṣṭa-
-         20.16 aparasminprastāre siraso' gre ham samukhimupadadhyātpā leṣṭake abhitaḥ (III.296) /
-         20.17 tayoravastādabhito dve dve adhyardha1padye viṣūcī | (III.297) / 20.18 tayoravastādabhitaśchedasamhite dve pādeṣṭake (III.298) /
-         20.19 dve dve dvipade tisrastisro' rdheṣṭakā iti pādeṣūpadadhyāt | (III.299)/ 20.20 yadyad158apacchinnam tasminnardheṣṭakāḥ pādeṣṭakaścopadadhyāt | (III.300) /
-         20.21 śeṣamagnim caturbhāgīyābhiḥ pracchādayet | (III.301) | ardheș- ṭakabhiḥ samkhyām pūrayet | (III.302) /
-         151 prakrameņa once, M, T.
-         162 -raparāmsāvapa-, M. T.
-         153 caturthista-, B.
-         154 -dhyardhāpadyāṁ caturbhiḥ, T.
-         155 T. omits.
-         156 Thus M; tasminnardheṣṭakāścopa-, B. and T.; tasminnardheṣṭakāḥ pādeṣṭakāścopa-, U.
-         157 adhyardhā, T.
-         168 yadapacchinnam, T.
-         38
-         BAUDHAYANA-SULBASŪTRA
-         21.1 athāparaḥ | (III.303) /
-         21
-         sodasibhirvimśaśatam159
-         21.2 puruṣasya sampadyate / (III.304) /
-         sāratniprādeśaḥ saptavidhaḥ
-         21.3 tāsām pañca ṣoḍaśīrapoddhṛtya seṣāḥ parimaṇḍalam karoti | (III.305)/ taduttarena droṇacitā vyākhyātam / (III.306) /
-         21.4 atha tāḥ160 pañca ṣoḍaśyastābhiravāntaradikṣu pādānunnayec11chiraḥ purastāt | (III.307-308) | tāsām parikarṣaṇam vyākhyātam | (III.309) / 21.5 pradhīnām saptadhā vibhāgaḥ | pradhimadhyamāḥ162 prakramavyāsā bhavanti (III.310) /
-         21.6 yadatiriktam sampadyate taccaturaśrāṇāmadhyardhābhiryoyujyeta163 / (III.311) /
-         21.7 aparasminprastāre pādānām sirovadvibhāgaḥ śirasaḥ pādavat | (III.312-313) /
-         21.8 vyatyāsam cinuyādyāvataḥ prastārāmścikīrṣet / (III.314) /
-         21.9 kūrmasyānte tanu purīṣamupadadhyānmadhye bahulam/(III.315-316)/ etadeva164 drone viparītam | (III.317) /
-         21.10 atha haika ekavidhaprabhṛtīnpraugādin bruvate | (III.318) /
-         21.11
-         samacaturaśrāneka ācāryāḥ | (III.319) | tasya karaṇyā dvādaśene- ṣṭakāḥ kārāyetṭāsāmardhyāḥ pādyāśca | (111.320) /
-         21.12 athāśvamedhikasyāgneḥ puruṣābhyāso nāratniprādeśānāṁ | (III.321)/ 21.13 prakṛto 165 vā triguṇaḥ | tristāvo' gnirbhavatityekavimśo' agnir- bhavatityubhayam brāhmaṇamubhayam brāhmaṇam | (III.322-323) /
-         159 -viśamśatam, B. U.; vimśctamśatam, M.
-         160 yaḥ, T.
-         101
-         pañcamyām before siraḥ, T.
-         162 H. U. B. M.; pradhimadhyāḥ, T.
-         163 -yoyujyate, T.
-         164 eva only in U and in one of T's Mss; omitted in T.
-         165 Thus H. U.; prakṛtau, B; tā, M.
-         ĀPASTAMBA-ŠULBASŪTRA
-         1.1* vihārayogānvyākhyāsyāmaḥ |
-         1
-         1.2 yāvadāyāmam pramāṇam tadardhamabhyasyāparasmimstṛtiye ṣaḍbhā- gone lakṣmaṇam karoti | pṛṣṭhyāntayorantau niyamya lakṣaṇena dakṣiṇāpāyamya nimittam karoti | evamuttarato viparyasyetarataḥ | sa samādhiḥ | tannimitto nirhāso vivṛddhirvā |
-         1.3 āyāmam1 vābhyasyāgantucaturthamāyāmasyākṣṇayārajjuḥ tiryañmānī- śeṣaḥ | vyākhyātam viharaṇam3 |
-         ca yatpṛthagbhūte
-         1.4 dirghasyākṣṇayārajjuḥ pārśvamānī tiryañmānī^ kurutastadubhayam karoti | tābhirjñeyābhiruktam viharaṇam |
-         1.5 caturaśrasyākṣṇayārajjurdvistāvatīm bhūmim karoti | samasya dvikaraṇī | 1.6 pramāṇam
-         tṛtiyena vardhayettacca caturthenātmacatustrimsonena saviseṣaḥ |
-         10
-         1.7 athāparam' | pramāṇamātrīm rajjumubhayataḥ pāśām karoti | madhye lakṣaṇamardhamadhyayośca3 prṣṭhyāyām rajjumāyamya pāśayorlakṣaṇeṣviti śankūn3 nihatyopāntyayoḥ pāśau pratimucya madhyamena lakṣaṇena dakṣiṇā- payamya nimittam karoti | madhyame pāśau pratimucya uparyupari nimittam madhyamena lakṣaṇena dakṣiṇāpāyamya śankum nihanti | tasminpāśam prati- mucya pūrvasminnitaram madhyamena lakṣaṇena dakṣiṇamamsamāyacchet | unmucya pūrvasmādaparasminpratimucya madhyamenaiva lakṣaṇena dakṣiņām śroṇīmāyacchet | evamuttarau śroṇyamsau |
+
+
+- a garhapatyena santya ṛtunā (RV. 1.15.12); asthurino gārhapatyāni santu (RV. 6.15.19); iha priyam prajayā to samṛdhyatamasmingṛhe gārhapatyāya jāgṛhi; enā patyā tanvam sam sṛ jasvādhā jivṛi vidathamā vadāthaḥ (RV. 10.85.27)
+- b jajñasya ketum prathamam purohitamagnim naratriṣadhasthe samidhire (RV. 5.11.2).
+- c RV. 1. 164.52; 10.14.5. Compare also with 1.58.5; 1.41.7; 2.2.4; 6.3.7; 10.8.3 etc. daram kṛṇvantu vedim samagnimindhaṭām puraḥ (RV 1.170. 4).
+- e sam na soma bhavatu brahma śam naḥ śam no grāvāṇaḥ śamu santu yajñāḥ śam naḥ svarūṇāṇ mītavo bhavantu śam naḥ prasvaḥ śamvasu vediḥ (RV 7. 35. 7). 
+- f pratisthya va ekavimśaḥ pratiṣṭhā gārhapatyā ekavimśasvaiva pratiṣṭhyām gārhapatyamanu prati tişṭhati (Taitt. S. 5. 2. 3. 5).
+- g Mait. S. 3. 2. 3; Kath. S. 20. 1; KPS. 32. 3.
+- h pañcacitikam cinvita prathamam cinvānaḥ. 5. 2. 3. 6). ....tricitikam cinvīta duitīvam cinvāna...... ..(Taitt. S.
+
+He who constructs .”. The saumiki vedi (also called mahāvedi), as described in the Taittiriya Samhita, is in the form of an isos- celes trapezium having its face 24 prakramas (or padas) long, base 30 prakramas and altitude 36 prakramas. The measures are also given in other samhitās. Although elaborate descriptions of rites and ceremonies in connection with the construction of the various altars such as the dārśapaurṇamāsa vedi, the uttara vedi, the āgnidhriya the hotriya, the mārjālīya, the sadas (tent), the uparavas etc. are found in the Taittiriya and other samhitās, their measurements and constructional details are rarely given.
+
+d
+The standard form of an optional fire-altar was that of a certain bird. This bird was called spena in the Taittiriya Samhitā© and suparna garutman or well winged eagle in the Vājasaneya Samhita. The spatial magnitudes of the falcon-shaped fire-altar were also given in almost all the earlier works from the Taittiriya Samhitā onwards. The measurements were made with units like aratni, vyāma, purușa etc. The area on which these fire-altars were drawn covered 71⁄2 sq. purușas. A complete list of the various kāmya agni together with a statement of the objects for the attainment of which each of them has to be constructed, as found in the Taittiriya Samhitā,1 is given below :
+Agni
+Chandaścit
+(in the form of bird)
+Śyenacit
+(
+-do-
+Kankacit (
+-do-
+Alajacit
+(
+-do-
+Desired objects
+Desiring cattle
+heaven
+}
+""
+دو
+وو
+Prauga (in the form of an isosceles
+triangle)
+Ubhayata prauga (in the form of a
+rhombus)
+Rathacakracit (in the form of a
+chariot wheel)
+Droṇacit (in the form of a trough) Paricayyacit (in the form of a circle) Smasanacit (in the form of a pyre)
+(isosceles trapezium)
+Desiring support from the heaven
+Annihilation of rivals
+وو
+""
+Gaining food
+Desiring a region
+Attaining the place where the forefathers have gone (pitṛloka).
+a trimśat padāni paścāt tiraści bhavati ṣaṭtrimśat prācī, caturviṛśatiḥ purastāt, tiraścī daśadaśa sampadyate (Taitt.
+S. 6. 2. 4. 5).
+b Mait. S. 3. 8. 4; Kath. S. 25. 3; KPS. 3. 8. 6.
+c Taitt. S. 5. 4. 11. 1.
+d Vāj. S. 12. 4.
+e Taitt. S. 5. 2. 5. 1 & Mait. S. 3. 2. 4. f Taitt. S. 5. 4. 11. 1-3.
+chandaścitam cinvīta paśukāmaḥ paśavo vai chandāmsi paśumāneva bhavati, śvenacitam cinvīta suvargakāmaḥ śyenovai vayasām pratistha śyena eva bhūtvā suvargam patati, kańkacitam cinvita yaḥ kāmayeta śīrṣaṇvānamum- smilloke syāmiti sīrṣaṇvānevāmumṣmilloke bhavatyalajacitam cinvīta, catuḥsītam pratiṣṭhākāmascatasro diso dikṣveva prati tisthati, praugacitam cinvīta bhrātṛvyavān praiva bhrātṛvyān nudata ubhayataḥ-praugam cinvita yaḥ kāmayeta prajātān bhrātṛvyān....rathacakracitam cinvīta grāmakāmo śmaśāncacitam cinvīta vaḥ kāmayeta pitṛloka......(Taitt. S. 5. 4. 11. 1-3).
+INTRODUCTION
+As regards the height of the agni and the number of bricks to be used in its construction, Taittiriya Samhitaa observes:
+"He should pile (the fire) of a thousand (bricks) when first piling (it); this world is commensurate with a thousand; verily he conquers this world. He should pile (it) of two thousand, when piling a second time, the atmosphere is commensurate with two thousand; verily he conquers the atmosphere. He should pile (it) of three thousand; verily he conquers the yonder world. Knee-deep should he pile (it) when piling for the first time, verily with the gayatri he mounts this world; naval-deep should he pile (it) when piling for the second time, verily with the triṣṭubh, he mounts the atmosphere; neck-deep should he pile (it) when piling for the third time, verily with the jagati, he mounts the yonder world".
+An expert in this science was called agnicit (constructor of the agni). The term appears in the Taittiriya Samhitab and the Maitrāyaṇi Samhitā.
+d
+In the Yajurveda, we find an elaborate and tedious rite of the agnicayana or the construction of the fire-altar, associated with highly speculative philosophy. The same mystic significance is found in different schools of this Samhitā, e.g. the Taittiriya, the Maitrayaniya, the Kathaka-Kapisthala and the Vajasaneya. This shows that the agnicayana rite and its philosophy had already taken definite shape in the time of the Yajurveda. The existence of different masters of this science with independent views is also referred to in the Taittiriya Samhitā.©
+The relative positions of the three nitya fires, the gārhapatya, the ābavaniya and the dakṣiṇāgni are also described in the Satapatha Brāhmaṇa. The gārhapatya fire is represented like a man lying on his back with head 'towards the east'. The first clear description of the gārhapatya as a circle of one square vyāma and of the āhavaniya as a square of the same size appears in the Satapatha Brāhmaṇa. The garhapatya fire is to be constructed with 21 bricks.h
+In the Satapatha Brāhmaṇa, the same measure of the mahāvedi as given in the Taittiriya Samhitā has been adopted. The kāmya agnis such as the suparṇa garutman, the dronacit, the rathacakracit, the kankacit, the praugacit, the ubhayata praugacit etc. have been described here. These kāmya citis all measure 71⁄2 sq. purușas. Regarding
+a sahasram cinvita prathamam cincānaḥ, sahasrasammito vā ayam loka imameva lokamabhi jayati dvisāhaṣram cinvita dvitiyam cinvāno, dvisāhasram vā antarikṣamantarikṣamevābhi jayati, trisāhasram cinvīta tṛtīvam cinvā- nastrisāhasro vā asau lokomumeva lokamabhi javati jānudaghnam cinvīta prathamam cincāno gāyatriyaivemam lokamabhyārohati nābhidaghnam cinvita dvitīyam cinvānastriṣṭuvaivāntarikṣamabḥyārohati grīvādaghnam cinvīta tṛtīyam cincāno jagaṭyaivāmum lokamabḥyārohati (Taitt. §. 5, 6. 8. 2-3).
+b Taitt. S. 5. 2. 5. 5-6; TS 5. 7. 6. 1.
+c Mait. S. 3. 4. 8.
+d Keith (1), cxxv.
+e Taitt. S. 5. 2. 8. 1-2; 5. 3. 8. 1; 5. 5. 2. 1.
+f Sat. Br. 1. 7. 3. 23-25.
+g Sat. Br. 7. 1. 1. 37.
+h Sat. Br. 7. 1. 1. 34.
+i Sat. Br. 7. 1. 1. 1.
+i SBR. 3. 5. 1. 1-6.
+8
+SULBASUTRAS
+the areas of the fire-altars, the Śatapatha Brāhmaṇa observes, "According to one (school), ekavidha agni should be constructed first, then by an increment of one (square purușa) successively upto a construction of an unlimited size. But indeed the agni (or Prajapati) was to be constructed first as saptavidha (71⁄2 sq. purușas and then by the increment of one square purușa) in succession is to be made upto ekaśatavidha (101 sq. puruṣas)"a Compare this with Baudhāyana's and Āpastamba's statements in their sulbasūtrasb that one fold means 11 sq. purușas, two-fold means 21⁄2 sq. purușas, seven-fold means 71⁄2 sq. purușas and so on. This has also been explained by other Sulbakāras.
+#### GENERAL CHARACTERISTICS OF ŚULBASŪTRAS, THEIR GEOMETRY, ARITHMETIC AND ALGEBRA
+In our section on 'Commentaries', we have discussed in detail the sutras of the four texts by Baudhāyana, Āpastamba, Kātyāyana and Manava. In presenting the texts, their translations and commentaries, we have not followed the chronological order in which these were written as would appear from our foregoing discussions, but in order of their importance and completeness.
+Baudhāyana's sūtras are not only the earliest but represent the most systematic, logical and detailed treatment of the subject inspite of their archaic and highly condensed sūtra style. It opens with the various units of linear measurements and then develops the geometry of rectilinear figures, triangles and circles, their trans- formations from one type to the other, methods of arriving at areas by combination or difference of given areas, the irrational number like √2 and the value of " albeit indirectly. Then the measurements of the three perpetual fires, the gārhapatya, the ahavaniya and the dakṣiņāgni, the sacrificial altars such as the mahāvedi, the uttara vedi the sautrāmaṇi vedi, the paitṛki vedi, the dārśapaurṇamāsika vedi, the paśubandha vedi, various sacrificial fires such as the dhiṣṇyas, the agnidhriya, and the mārjaliya, the sadas tent, the havirdhāna shed for the placement of the soma carts and various pits like the utkara, the uparava and the catvāla are given along with their relative distances from one another. Although the plan of the sacrificial ground and placement therein of the various fires, altars, tents, sheds and pits is not described in separate sūtras, the manner in which their measurements, relative distances and directions for their placements are given makes it quite easy for one to visualize the picture of the sacrificial ground and at once appreciate how closely and meticulously the śulbavid was following the time-honoured Vedic sacrificial practices. About the fire-altars for the various wish fulfilments (kāmyaciti), Baudhāyana gives the measurements, con- structions and methods of laying bricks of different geometrical shapes in alternate layers following the strict injunction that the edges of bricks in contiguous layers must not meet. Such fire-altars include those in the form of a falcon, both rectilinear and with curved wings and extended tail, of a kite and alaja bird, of an
+a taddhaike, ekavidham prathamam vidadhāṭyathaikottaramā parimitavidhānna tathā kuryāt saptavidho vā ‘agre prajapatirast jvata]. ...saptavidhameva prathamam vidadhītāthaikottaramaikaśatavidhādekaśatavidham tu
+../(Śať. Br. 10. 2. 3. 17-18).
+natividadhita...
+b Bśl. 5.1, 5.8. Āśl. 8.3.
+INTRODUCTION
+9
+isosceles triangle and a rhombus, of a chariot-wheel without and with spokes, of a square and circular trough, of a pyre, and finally one in the form of a tortoise. The facile use of geometry presented in the opening chapters is abundantly clear in the constructional procedures of these fire-altars.
+Apastamba follows more or less the same procedure and provides the same rules and techniques; but in our view, coming after Baudhāyana and with his text before him, he has not shown any improvement upon Baudhāyana. About the fire-altars, he has discussed different types of syenacit, rectilinear as well as those with curved wings and extended tail and given different arrangements with different types of bricks, but has not gone into the details of other types which he mentions presumably because he has no alternative method of arrangement to suggest. As far as the use of terms and expressions are concerned, there is a remarkable resemblance between Baudhāyana and Āpastamba.
+Katyāyana's treatment is succinct and systematic. He emphasizes the geometry behind the construction of altars and fires and gives a clear exposition of it. He deals with a few altars and agnis but refrains from considering the kāmyacitis as the latter are discussed separately in a chapter of his Śrautasutras.
+The Manava-sulbasutra, a part of the Śrautasutra by the same author, although following the common tradition of the sulbakāras, gives methods and details often very difficult to comprehend. In many cases the details are either lacking or incomplete and can be understood only by reference to Baudhayana, Āpastamba and Katyāyana. To us the very arrangement and the treatment of the subject have appeared far from systematic. In our judgement, the work does not measure up to the standard attained by Baudhāyana, Āpastamba and Kātyāyana.
+Geometry
+Several methods of constructing a square on a given straight line have been given. Rectangles are rectilinear figures of which the two sides are different. For the construction of such rectilinear figures the squared relationship between the diagonal and the two sides has been given at various places in the fulbasūtras, which we summarize below:
+a) n2+(in)2=(&$n)2
+2
+(i) n=4, 42+32-52 (ii) n=12, 122+92=152 (iii) n=20, 202+152=252 (iv) n=16, 162+122==202
+b) n2+(n)2= (n) 2
+5
+(i) n=1, 12+(1)2 = (19) 2 (ii) n=36, 362152392
+(iii) n=188, 1882+(783)2=(203) 2
+(iv) n=6, 62+(2)2(6)2
+(Bśl. 1.5; Mśl. 1.11—1.12)
+(Bśl. 1.13)
+(Kśl. 2.5)
+(Āśl. 5.3)
+(Asl. 5.3)
+(Bsl. 1.8; Asl. 1.2; Kśl. 1.4)
+(Bśl. 1.8 Ãśl. 1.2; Ka̸ 1.4-1.5) (Bśl. 1.13; Asl. 5.4) (Ãśl. 6.5)
+(Āśl. 6.6; Mśl. 2.4)
+10
+c)
+g)
+h)
+i)
+j)
+k)
+2
+·
+(v) n=5, 52+(21) 2 — (51) 2 (vi) n=10, 102+(4})2=(10%)2 (vii) n=27, 272+(111)2= (291) 2 (viii) n=18, 182+(71)2=(191) 2
+(ix) n=12, 12+52=132 (x) n=96, 962+402-1042
+72+242=252
+82+152=172
+122+352-372
+B
+12+32 (10) 2 22+62 (1/40)2
+=
+2
+1 2+(√2)2+(√3) 2
+na2-
+ŚULBASŪTRAS
+(Asl. 6.7)
+(Āśl. 6.8)
+2
+a
+= [(n + 1)a]2 = [(R = 1) ]2 -[10]
+2
+62+(41) 2-(71) 2
+12+(√/10)2=11
+2
+(Ăśl. 7.3) (Ãśl. 7.1—7.2) (Bśl. 1.13; Āśl. 5.4) (Msl. 1.4-1.6;) (Bsl. 1.13)
+(Bśl. 1.13; Ãśl. 5.5)
+(B§l. 1.13; Āśl. 5.5)
+(Kśl. 2.4; Mśl. 3.5)
+(Ksl. 2.5)
+(Kśl. 2.10)
+where a rational integer
+(Kśl. 6.7)
+(Mśl. 2.5)
+(Mśl. 12.5)
+Theorem of Square on the Diagonal of a Square or a Rectangle
+The above-mentioned squared relationships are followed or preceded by the general statement that the diagonal of a rectangle produces by itself both (the areas) produced separately by its two sides. This is the so-called theorem known after Pythagoras. A question has often been asked whether such a definition resulted from empirical guess work or was based on a proof of some kind. Such questions are of course to be expected from scholars firmly entrenched in the Euclidean tradition in geometry. As is well known, mathematics, including geometry, in ancient India did not follow the Euclidean tradition, and usually gave the rules, leaving their proofs to be explained by the teachers to the pupils of their respective schools. Several scholars who discussed this issue of proof have shown that such proof is implicit in the very operations with rectilinear figures; we have discussed the matter in detail in our commentaries in connection with the rule and further elaboration here is unnecessary. George Sarton, while considering the question of Hindu influence on Pythagorean derivation of the theorem of squares, referred to Gaston Milhaud's claim that Pythagorean geometry may have been partly inspired by Hindu models. This argument was based on the high antiquity of Baudhayana and Āpastamba. But Sarton, presumably on the basis of Keith's views on the dates of the sulbakāras, pleaded inability to accept such high antiquity and observed: 'It is highly probable that the fulbasūtras date from a period posterior to 500 B.c. and pre-Christian. They are probably post-Pythagorean".a
+This brings us to the important question of the origin of the theorems and also whether Pythagoras himself was the discoverer of it.
+The tradition attributing the theorem to Pythagoras is due to Cicero (c. 50 B.C.) Diogenes Laertius (second century A.D.), Athenaeus (c. A.D. 300), Heron (third
+a Sarton, I, 74-75.
+INTRODUCTION
+11
+century A.D.), and Proclus (c.A.D. 460), and therefore started about five centuries after the death of Pythagoras. Junge pointed out that the Greek literature of the first five centuries after Pythagoras contained no mention of the discovery of this or any other important geometrical theorem by the great philosopher and furthermore emphasized uncertainties in the statements of Plutarch and Proclus. Although various attempts have been made to justify the tradition and trace the proof to Pythagoras, no record of proof has come down to us earlier than that given by Euclid (Theorem 47, BK 1). As to the relation 42+32-52 from which the theorem of rational triangle is derivable, very ancient Egyptian knowledge is attested by the Kahun papyrus of the twelfth dynasty (c. 2000 B.C.), but its association with rational triangles does not seem indicated in this or other Egyptian papyrii.a As to the antiquity of Pythagorean theorem in China, it is stated, though not proved, in the arithmetical classic Chou Pei Suan Ching (third or fourth century B.C.); the numerical relationship 4, 3 and 5 between the sides and the diagonal of a rational rectangle is also given in this text. The old Babylonians of the second millennium B.C. left records on their cuneiform tablets of similar squared relationships indicating practical use of the theorem of squares. No general statement in the form of a theorem is of course found. Neugebauer is of the view that Pythagoras derived his number theorem of the universe as well as the theorem known after his name from such Babylonian cuneiform tablets.b
+As we have stated, methods have been given for transforming rectilinear figures from squares to rectangles, of transforming squares into circles, of developing isos- celes triangle and rhombus from squares and so on. Various geometrical shapes like parallelograms, five-sided rectilinear figures are mentioned in various ways in connection with the construction of bricks with which to cover the sacrificial altars.
+Irrational numbers, π, Fractions, Surds
+What is of great significance is the treatment of irrational numbers like 2 and statement of their accurate values. The manner in which such accurate values were possibly obtained by the sulbakāras has been fully discussed in our notes. Neugebauer has shown that these values are identical with those found in certain Babylonian cuneiform texts, given in sexagesimal system. He tried to imply that the Indian value after all represented the Babylonian one expressed only in decimal system or more accurately in fraction. As we have shown, there is certainly no proof of such an assertion and the Indian value is certainly derivable from the methods contained in the sulbasutras themselves.
+In connection with the pits for stacking the sacrificial poles in, Baudhāyana has given the ratio of the circumference to the diameter as 3. We have shown from the rules for transforming squares into circles, as given by Baudhāyana, that the śulba- kāras in all probability knew of more accurate value of π.
+a Heath, (2), I, 352. Sen, Chapter on ‘Mathematics', A Concise History of Science in India, 148-149,
+Neugebauer, 28-42
+b
+12
+ŚULBASŪTRAS
+The fulbakāras were familiar with the use of fractions and manipulated with them in various ways, specially in connection with the construction of bricks for the fire-altars. The terms used by them are significant as well as interesting, of which few examples are given:
+caturbhagona =1-1=1
+ardhāṣṭama =7골 ardhadasama =91
+ardhanavama
+=81
+caturtha-saviseṣārdha—} (†√2) caturtha-saviseṣa-saptama=(|√2)
+(Bśl. 1.5)
+(Bśl. 5.1, 5.6)
+(Bśl. 5.1)
+(Bśl. 5.1)
+(Āśl. 19.4)
+(Asl. 19.7)
+In our notes we have explained that elementary knowledge of operating with surds was also possessed by these geometers. It will certainly be not proper to say that the fulbakāras dealt with algebra as is known from later Indian mathematicians. But it cannot be denied that germs of algebraic equation are embedded in many of their rules and operations. Such is the case with quadratic equation as also with indeterminate equation of the first degree. As we have amply stressed, these texts were compiled primarily as manuals for the construction of sacrificial fires and altars. Geometry, mensuration, arithmetic, and germs of algebra came out only incidentally. Nevertheless, the gleams we obtain of their knowledge of these subjects can hardly fail to excite our admiration when we remember the time of their compilation.
+SOURCE MATERIALS AND PLAN OF WORK
+In our edition of the Baudhayana-śulba, we have used Thibaut's edition as printed in the Pandit and Caland's edition of the śulba attached to Baudhāyana's Śrautasūtra. Bürk's plan in the break-up of the sutras and their numbering has been followed. This plan appeared to us systematic and logical inasmuch as the breaking up of the sutras and their numbering were generally guided by considerations of self-contained state- ments. It may also be noted that Caland punctuated the sutras from similar considerations although no numbering was used. We have, however, retained Thibaut's numbering within parenthesis in order that scholars already accustomed to Thibaut's edition may not experience any difficulty. Our edition of the Apastamba- śulba is based on Bürk's Das Āpastamba-śulbasūtra and the Mysore edition of the same text. Bürk's arrangement and numbering have been mostly retained; only a few sūtras have been regrouped from considerations of self-consistency. In such regroupings also Bürk's number has been given within parenthesis. For the Kātyā- yana-śulba, we have used the editions by Madana Pāṭhaka, the Kāśī Sanskrit series and the MS. No. G. 6145 of the Asiatic Society, Calcutta. In our edition of the Mānava-śulba, Van Gelder's edition of the sulba attached to the Śrautasutra and the MS. No. Th. 184 of the National Library, Calcutta have been used and Gelder's arrangement and grouping retained.
+As to commentaries, Dvārakānātha's Sulbamimāṇsā on Baudhāyana, the com- mentaries of Kapardisvāmi, Karavindasvāmī and Sundararāja on Āpastamba,
+INTRODUCTION
+13
+Karkabhāṣya and Mahidhara's Sulbasūtravṛtti on Kātyāyana, and MS. No. 536 of the Bombay Branch of the Asiatic Society, a commentary on the Mānava-śulba, have been used. Other manuscripts used by previous editors like Thibaut, Bürk and Van Gelder have been referred to in the foot-notes.
+
+We have given the texts, translations and our own commentaries in separate parts, always referring to the number used in our edition wherever necessary. In writing the commentaries again, the sūtras, singly as well as in groups, have been treated as found convenient for purposes of elucidation. In the case of the Apastamba- śulba, a number of chapters dealing with the same topic, e.g. the construction of syenacit, have been dealt with together for the same reason.
+
+## 1 TEXT
+PART I
+TEXT
+BAUDHAYANA-ŠULBASŪTRA'
+1.1 atheme 'gnicayāḥ|(1.1)* /
+1.2 tesām bhūmeḥ parimāṇavihārānvyākhyāsyāmaḥ | (1.2) /
+1.3 athāngulapramānam (1.3) caturdaśāṇavaḥ (1.4) catustrimśattilāḥ prthusamśliṣṭā ityaparam | (1.5) | daśāñgulam kṣudrapadam | (1.6) | dvādaśa prādeśaḥ1 | (1.7) | prthottarayuge trayodaśike | (1.8) padam pañcadaśa | I.9) / aṣṭāśītiśatamīṣā (I.10) catuḥśatamakṣaḥ | (1.11) | ṣaḍaśītiryugam | (1.12)/ dvātrimśajjānuḥ |(1.13)/ şaṭtrimsacchamyābāhū | (1.14)/ dvipadaḥ prakramaḥ| (I.15) / dvau prādeśāvaratniḥ | (1.16) | athāpyudāharanti (1.17) pade yuge prakrame 'ratnaviyati śamyāyām2 ca mānārtheṣu yāthākāmīti | (1.18)| pañcā- ratniḥ puruṣo (I.19) vyāmaśca3 | (1.20) / caturaratnirvyāyāmaḥ|(1.20) / 1.4 caturasram1 cikirṣanyāvaccikīrṣettāvatim rajjumubhayataḥ pāśām kṛtvā madhye lakṣaṇam karoti | lekhāmālikhya (1.22) tasyā madhye śańkum nihanyāt | tasminpāśau pratimucya lakṣaṇena maṇḍalam parilikhet | viṣkam- bhāntayoḥ śankū nihanyāt | (1.23) | pūrvasminpāśam pratimucya pāśena maṇḍalam parilikhet/(1.24)/ evamaparasmimste yatra sameyātām tena dvitīyam viṣkambhamāyacchet /(1.25) / viṣkambhāntayoḥ śañkū nihanyāt |(1.26)|pūrvas- minpāśau pratimucya lakṣaṇena maṇḍalam parilikhet/(1.27) | evam dakṣiņata evam paścādevamuttaratasteṣām ye 'ntyāḥ samsargāstaccaturaśram sampadyate | (1.28) /
+1.5 athāparam | (1.29) | pramāṇāddviguṇām rajjumubhayataḥ pāśām kṛtvā madhye lakṣaṇam karoti | (1.30) | sa prācyarthaḥ | (1.31) | aparasminnardhe caturbhāgone lakṣaṇam karoti /(1.32)/ tannyañcanam3 /(1.33) / ardhe'ṇsārtham| (1.34) | prṣṭhyāntayoḥ pāśau pratimucya nyañcanena dakṣiṇāpāyamyārdhena śroṇyamsānnirharet | (1.35) /
+1.6 dīrghacaturaśram cikīrṣanyāvaccikīrṣettāvatyāṁ bhūmyām” dvau śaǹkū nihanyāt | (1.36)/ dvau dvāvekaikamabhitaḥ samau |(1.37)| yāvatī tiryaṁmānī
+*The numbering within parenthesis refers to Thibaut's edition as printed in the Pandit.
+1 dādaśāṁgulam prādeśam, M.
+2
+śāmyāyām, C.
+3 ca in T, but not in other Mss used by C.
+4 C retains -śra as used throughout B,U,M; -sra throughout H, T.
+5 pramucya in B,M,H.
+6 nyañchanam in T.
+7 Throughout H,U,B,M; bhūmau in T.
+8 -vekamabhitaḥ in B, -vekaivamabhitaḥ in H,
+18
+BAUDHĀYANA-ŚULBASŪTRA
+tāvatim rajjumubhayataḥ pāśām kṛtvā madhye lakṣaṇam karoti | pūrveṣāmanty- ayoḥ pāśau pratimucya lakṣaṇena dakṣiņāpāyamya lakṣaṇe lakṣaṇam karoti (1.38)/ madhyame pasau pratimucya lakṣaṇasyopariṣṭāddakṣiṇāpāyamya lakṣaṇe śankum nihanyāt/(1.39)/so'msa etenottaro 'mso vyākhyātastathā śroṇi (1.40)/ 1.7 yatra purastādaṇhīyasīm minuyāttatra tadardhe lakṣaṇam karoti |(1.41)/ 1.8 athāparam pramāṇādadhyardhām rajjumubhayataḥ pāśām kṛtvā- parasmimstṛtiye şaḍbhāgone lakṣaṇam karoti|(1.42)/tannyañcanam|(1.43)/ işte msartham prṣṭhyāntayoḥ pāśau pratimucya nyañcanena dakṣiṇāpāya- myeṣṭena śronyamsānnirharet/(1.44)/
+1.9
+samacaturaśrasyākṣṇayārajjurdvistāvatīm bhūmim karoti|(1.45)/ 1.10 pramāṇam tiryagdvikaraṇyāyāmastasyākṣṇayārajjustrikaraṇī|(1.46)/ 1.11 tṛtīyakaraṇyetena vyākhyātā | navamastu10 bhūmerbhāgo bhavatīti"| (1.47)/
+1.12 dirghacaturaśrasyākṣṇayārajjuḥ pārśvamānī12 yatpṛthagbhūte kurutastadubhayam karoti/(1.48)/
+13
+tiryaǹmānī ca
+1.13 tāsām13 trikacatuskayordvādaśikapañcikayoḥ1 pañcadaśikāṣṭikayoḥ13 saptikacaturvimśikayor1dvādaśikapañcatrimśikayoḥ pañcadasikaṣaṭtrimśikayo-
+rityetāsūpalabdhiḥ|(1.49)/
+2
+2.1 nānācaturaśre samasyankaniyasaḥ karaṇyā varṣiyaso vṛdhramullikhet| vṛdhrasyākṣṇayārajjuḥ samastayoḥ pārśvamānī bhavati | (1.50) /
+2.2 caturaśrāccaturasram nirjihîrṣanyāvannirjihīrṣettasya karaṇyā varṣiyaso vṛdhramullikhet | vṛdhrasya pārśvamānīmakṣṇayetaratpārśvamupasamharet | sā yatra nipatettadapacchindyat | chinnayā nirastam | (1.51) /
+2.3 samacaturaśram dīrghacaturaśram cikīrṣamstadakṣṇayāpacchidya bhāgam dvedhā vibhajya pārśvayorupadadhyād1yathāyogam | (1.52) /
+0 -ṣṭena sārdham, M.
+10 Before nava-M. ins vibhāgastu tāsāṁ.
+11 bhavati, M.
+12
+ca ins M.
+13 Found in all copies except in T.
+14 M. omits drādaśi kayoh.
+15
+pañcikaṣastikayoḥ, M.
+16 -vimśati-for -vimsi, M.
+17 vṛddha for vṛdhra in Mss. C; vṛdhra in T.
+18 rupasamdadhyāt, M, U, B.
+BAUDHAYANA-SULBASŪTRA
+19
+2.4 api vaistasmimścaturaśram samasya tasya karaṇyāpacchidya2oyadatiśiṣy- ate taditaratropadadhyāt | 1.53) |
+2.5 dirghacaturasram samacaturasram
+cikīrṣamstiryanmānīm karaṇīm
+kṛtvā śeṣam dvedhā vibhajya pārśvayoa1rupadadhyāt22 | khaṇḍamāvāpena tatsampūrayet | tasya nirhāra2 uktaḥ | (1.54) |
+2.6 caturasramekato' nimaccikirşannanimataḥ karaṇīm tiryanmānīm kṛtvā śeṣamakṣṇayā vibhajya viparyasyetaratropadadhyāt | (1.55) /
+2.7 caturasram praugam cikirşanyāvaccikīrṣeddvistāvatīm bhūmim sama- caturaśrām kṛtvā pūrvasyāḥ karaṇyāḥ madhye śankum nihanyāt | tasminpāśau pratimucya dakṣinottarayoḥ śronyornipātayet | bahispandyamapacchindyāt | 1.56) /
+2.8 caturasramubhayataḥ praugam cikīrṣanyāvaccikīrṣeddvistāvatīm bhūmim dirghacaturaśrām kṛtvā pūrvasyāḥ karaṇyāḥ madhye sankum nihanyāt | tasminpāśau pratimucya dakṣinottarayormadhyadeśayornipatayet | bahiḥs 24- pandyamapacchindyāt | etenāparam praugam vyākhyātam | (1.57) /
+2.9 caturaśram mandalam cikirşannakṣṇayārdham madhyātprācīm- abhyāpātayet2 | yadatiśiṣyate tasya saha tṛtîyena maṇḍalam parilikhet | (1.58) / 2.10 maṇḍalam caturaśram cikīrṣanviṣkambhamaṣṭau bhāgānkṛtvā bhāgamekonatrimśadhā2 vibhajyāṣṭāviṛśatibhāgānuddharet | bhāgasya ca şaṣṭhamaṣṭamabhāgonam | (1.59) /
+2.11 api vā pañcadaśabhāgānkṛtvā dvāvuddharet | saiṣānityāa caturaśra- karaņi | (1.60) /
+2.12 pramāṇam tṛtiyena vardhayettacca28 caturthenātmacatustrimsonena | (1.61) | saviśeṣaḥ | (1.62) |
+3
+3.1 athagnyadheyike vihare29 (1.63) garhapatyādāhavanīyasyāyatanam |
+19 api vaita- in C; api caita- in T.
+20 -chindyad in M; also in T.
+21 viparyasyetaratra in T for pārsvayoḥ.
+22 upasamdadhyāt in B, H, U.
+23 nirhāsa, B, U; see also ZDMG, 55, 579.
+24 bahispandya, C.
+25 -bhyāyātaye-, B, M.
+26 -vimsadha, H, M.
+27 eșă instead of saișă in H, B & T.
+28
+ca in T, not in C.
+29 vihāraḥ in 'T.
+20
+BAUDHAYANA-ŚULBASUTRA
+(1.64) | vijnāyate ʼṣṭaṣu prakrameṣu brāhmaṇo'gnimādadhītaikādaśasu rājanyo dvādaśasu vaisya iti/ (1.65-66) /
+3.2 āyāmatṛtiyena trīṇi caturaśrāṇyanūcīnāni kārayet | aparasyottarasyām30 śroṇyām gārhapatyaḥ | tasyaiva dakṣine 'mse 'nvāhāryapacanaḥ pūrvasyottare 'msa āhavaniyaḥ | (1.67) /
+3.3 api vā gārhapatyāhavanīyayorantarālam pañcadhā ṣoḍhā vā sambhujya şaṣṭham saptamam vā bhāgamāgantukamupasamasya31 samam traidham vibhajya pūrvasmādantād32 dvayorbhāgayorlakṣaṇam karoti | gārhapaty- āhavaniyayorantau niyamya lakṣaṇena dakṣiṇāpāyamya lakṣaṇe śankum nihanti | taddakṣiṇāgnerāyatanam bhavati | (1.68) /
+3.4 api vā pramāṇam pañcamena vardhayet | tatsarvam pañcadhā sambhu- jyāparasmādantāddvayorbhāgayorlakṣaṇam karoti | prṣthyāntayoḥ pāśau pratimucya lakṣaṇena dakṣiṇāpāyamya lakṣaṇe sankum nihanti | taddakṣi- ṇāgnerāyatanam bhavati | (1.69) /
+3.5 viparyastaitenotkaro vyākhyātaḥ | (1.70) |
+3.6 aparenāhavaniyam yajamānamātrī bhavatīti vedervijñāyate | (1.71) /
+dārśapaurṇamāsikāyā
+3.7 tasyāstribhāgonam paścāttiraścī | tasyā evārdham purastāttiraści33 / evam dirghacaturaśramekato 'nimadvihṛtya sraktiṣu śankūnnihanyāt | (1.72) / 3.8 yāvatī pārśvamānī dvirabhyastā3 tāvatīm rajjumubhayataḥ pāśām kṛtvā madhye lakṣaṇam karoti | dakṣinayoḥ pārśvayoḥ35 pāśau pratimucya lakṣaṇena dakṣiņāpāyamya lakṣaṇe śankum nihanyat | tasminpāśau pratimucya lakṣaṇena dakṣiņam pārśvam parilikhet | (1.73) | etenottaram pārśvam vyākhyātam | (1.74) / pūrvam pārśvam tayā dvirabhyastaya parilikhet | evamaparam) (1.75) 3.9 daśapadā paścāttiraści dvādaśapadā prācyaṣṭāpadā purastāttiraścīti pāśubandhikāyā vedervijñāyate | mānayogastasyā vyākhyātaḥ | (1.76) / rathasammitetyekeṣām | (1.77) | virāṭsampannetyekeṣām | (1.78) |
+|
+3.10 śamyāmātri catuḥsraktirbhavatityuttaravedervijñāyate samacaturaśrāviśeṣāt | (1.80) /
+| (1.79) /
+3.11 vitṛtīvā vedirbhavatīti paitṛkyā3 vedervijñāyate | (1.81 | mahāvedes-
+30 -daparasyottarasyottarasyām, B, M.
+31 -gamtumupasamasya, H, U.
+32 Thibaut has justified the term antāt although antyāt has been used in all Mss.
+33 -ttiraścī jāvad, M.
+34 abhyastā missing in B.
+35 Occurs in H, M, U; omitted in B, T.
+36 paitṛyajñikāyā, B, U originally.
+BAUDHAYANA-SULBASUTRA
+21
+tṛtiyena samacaturaśrakṛtāyāstṛtīyakaranis bhavatiti38/navamastu bhūmer- bhāgo bhavati39 | (1.82) | yajamānamātrī catuḥsraktirbhavaṭītyekeṣām / (1.83)/ dikṣu sraktayo bhavanti | (1.84 |
+3.12 veditṛtiye yajeteti sautrāmaṇikim vedimabhyupadiśanti | (1.85) / mahāvedestṛtiyena samacaturaśrakṛtāyā aṣṭādaśapadā pārśvamānī bhavati | (1.86) | tasyai dirghakaraṇyāmekato 'nimatkaranyam ca yathākāmīti | (1.87) /
+4
+4.1 prāgvamśaḥ ṣoḍaśaprakramāyāmo dvādaśavyāso1o 'pi vā dvādaśapra- kramāyāmo daśavyāsaḥ | (1.88) /
+4.2 tasya madhye dvādaśiko vihāraḥ | (1.89 |
+4.3 trimśatpadāni prakramā vā paścāttiraści bhavati şaṭtrimśatprācī caturvimśatiḥ purastāttiraścīti mahāvedervijñāyate/ mānayogastasyā vyākhyātaḥ| (1.90) / āhavanīyātṣaṭ prakramānmahāvediḥ | (1.91) /
+4.4 tata ekasminsadaḥ | (1.92) | taddaśakam | (1.93) | udak saptavimsa- tyaratnayaḥ | (1.94) | aṣṭādaśetyekeṣām | (1.95) /
+4.5 tataścaturşu havirdhānam | taddaśakam dvādaśakam vāa1 mānayoga- stayorvyākhyātaḥ | (1.96) |
+4.6 yūpāvaṭiyācchankorardhaprakramamavaśiṣyottaravedim
+vimimīte
+(1.97) | daśapadottaravedirbhavatīti some vijñāyate | mānayogastasyā vyākhyātaḥ | (1.98) /
+4.7 cātvālaḥ śamyāmātro 'parimito vā | (1.99) /
+4.8 athoparavaḥ prādeśamukhāḥ prādeśāntarālāḥ | (1.100) | aratnimātram samacaturasram vihṛtya sraktiṣu śankūnnihanyāt | ardhaprādesenārdhaprā- desenaikaikam maṇḍalam2 parilikhet | (1.101) /
+4.9 sadasaḥ43 pūrvārdhāddviprakramamavasiṣya dhiṣṇyānām1a dviprādeso viṣkambhastathāntarālāḥ | (1.102) /
+4.10 āgnidhrāgārasyaa pārśvamānī pañcāratniḥ | (1.103) /
+37 -kṛtāyāḥ karaṇī tṛtīyakaraṇī B, U; see also T's explanation with reference to commentaries.
+38 bhavati, M, U; bhavati, H.
+39 bhavatiti, M.
+4o dvādaśapadavyāsa-, M which omits the following words upto daśavyāsaḥ-.
+41 After vā, T has samacaturasram.
+42 parimaṇḍalam, M, U.
+43 -tsadaḥ, H.
+44 Not dhiṣṇiyā-, the Mss.
+45 āgnīdhrīyā, T.
+22
+BAUDHAYANA-ŚULBASŪTRA
+4.11 etena mārjālīyo vyākhyātaḥ | (1.104) / tasyodīcīm dvāram kurvanti | (1.105) /
+4.12 rathākṣāntarālā yūpāvaṭā bhavantītyekādaśinyām vijñāyate | (1.106) | tasyā1 daśānāṁ ca rathākṣāṇāmekādaśānāṁ ca padānāmaṣṭāngulasya ca caturvimśam bhāgamādadīta | sa prakramaḥ syāt | tena vedim vimimīte | (1.107) /
+padā-
+4.13 athāśvamedhe47 vimśatyāśca rathākṣāṇāmekavimśatyāśca nāmaṣṭāngulasya ca caturvimśam bhāgamādadīta | sa prakramaḥ syāt | tena vedim vimimīte 48 / (I.108) /
+4.14 atha pracyekādaśinyām" yūpārtham vedeḥ pārvārdhātpadārdha- vyāsamapacchidya00 tatpurastāṭprāñcams1 dadhyāt | (I.109) | nātrāṣṭāngulam vidyate | (I.110) | na vyatiṣangaḥ / (1.111) /
+4.15 yūpāvaṭāḥ padaviṣkambhāstripadapariṇāhāni yūpoparāṇīti | (1.112-3)
+5
+5.1 ardhāṣṭamāḥ puruṣāḥ52 prathamo 'gniḥ | (II.1) / ardhanavamā dvitīyaḥ | (11.2) | ardhadaśamāstṛtīyaḥ | (II.3) | evamuttarottaro vidhā- bhyāsa ekaśatavidhāt53 | (II.4) | tadetatsaptavidhaprabhṛtyekaśatavidhān- tam | (II.5) /
+5.2 ata urdhvamekaśatavidhāneva pratyādadīta | (II.6) | anagnikānvā yajña- kratūnāharet / (II.7) | anyatrāśvamedhāt | (II.8 /
+5.3 aśvamedhamaprāptam cedāharedata urdhvam vidhāmabhyasyennetaradā- driyetas (II.9) /
+5.4 atitam cedāharedāhṛtya kṛtāntādeva pratyādadīta / (II.10) /
+5.5 kathamu khalu vidhāmabhyasyet | (II.11) /
+5.6 yadanyatprakṛtestatpañcadaśa bhāgānkṛtvā vidhāyāṇ vidhāyām dvau dvau bhāgau samasyet | tābhirardhāṣṭamābhiragnim cinuyāt | (II.12) /
+46 tasyai, U.
+47 With the last word of 4.12. vimimītāthāśvamedhe, M.
+48 -mitatha, M.
+49 'prācye-, M; prācyai-, other Mss; -nyā, U; prāmcyai, T.
+50 Thus M; pūrvārdhātpadārthavyā-, U. padārdhavyā-, B, pūrvārdhāsadārdhanyā. H
+51 -prācyām, M.
+52 ardhâṣṭamapuruṣāḥ, T.
+53 C retains ekādaśavidhāt-; T uses ekaśatavidhât which is meaningful.
+54 -bhasyedanyataradādri-, M.
+BAUDHAYANA-SULBASUTRA
+23
+3333
+5.7 ūrdhvapramāṇābhyāsam jānoḥ pañcamasya caturvimśenaike55 samāman- anti | (II.13) /
+5.8 atha haika ekavidhaprabhṛtīnapakṣapucchāmścinvate / (II.14) /
+5.9 tannopapadyate pūrvottaravirodhāt / (II.15) /
+5.10 atha haikeṣām brāhmaṇam bhavati syenacidagnīnām pūrvā tatiriti | (II.16) /
+5.11 athāpareṣām56 na jyāyāmsam citvā kanījāmsam cinvīteti | (II.17-18)/ 5.12 athāsmākam3 /(II.19) | pakṣi bhavati | na hyapakṣaḥ patitumarhati | aratninā pakṣau drāghīyāmsau bhavataḥ | tasmātpakṣapravayāṇsi vayāmsi | vyāmamātrau pakṣau ca puccham ca bhavatīti | (II.20) /
+5.13 napakṣapucchaḥ śyeno vidyate | na casaptavidhasya pakṣapucchāni vidyante | na ca saptavidham citvaikavidhaprasangaḥ | tasmātsaptavidha eva prathamo 'gniḥ / (II.21) /
+5.14 bhedānvarjayet | (II.22) | adharottarayoḥ pārśvasamdhānam bhedā ityupadiśanti / (II.23) | tadagnyanteṣu na vidyate58 na sraktipārśvayoḥ | (II.24-25) /
+5.15 sahasram cinvīta prathamam cinvāna iti59 | (II.26) / 5.16 pañcamāyām vā citau samkhyām pūrayet | (II.27) /
+5.17 dviśatāśceccikīrṣetpañcacoḍābhirnākasadaḥ samānasamkhyam pratiyāt| (II.28) /
+6
+6.1 paśudharmo1 ha vā agniḥ | yatha ha vai paśordakṣiṇeṣāmasthnām yaddakṣiņam pārśvam taduttareṣāmuttaram yaduttareṣām dakṣinam taddakṣineṣāmuttaram yadavāk62 cordhvams2 ca62 tatsamānamevamiṣṭakānām rūpāṇyupadadhyāt | (II.29) /
+6.2 yā dakṣiṇāvṛto lekhāstā dakṣiṇata upadadhyāt (II.30) savyāvṛta uttarataḥ| (II.31) | ṛjulekhāḥ paścācca purastācca bhavanti | (II. 32) | tryālikhitā
+55 -senaivaike, T.
+56 -thāparam, M.
+63
+57 brāhmaṇam ins U on the margin; for the brāhmaṇa see TS. V.2.5.1.
+58 vidyamte, U.
+59 See TS. V. 6.8.2.
+60 śatāmśce, U; -coḍānākasadaḥ, M.
+61 -dharma, B, M, U.
+62 yadvāmcam, M; yadarvāk co, B; paścātpurastācca, T.
+63 Thus H, M, U; paścāt, B.
+24
+BAUDHAYANA-SULBASŪTRA
+madhye | (11.33) | atha yā viśayasthāo1 yathā ha vai pašoḥ prṣṭhavamśo naivaikasminpārsve vyatirekeņa vartate naivāparasminnevam tāsāmupadhānam pratīyāt | (II.34) /
+6.3 athāpi brāhmaṇam65 bhavati | (II.35) | prajāpatirvā atharvāgnireva dadhyannātharvaṇastasyeṣṭakā asthānīti | (11.36) /
+6.4 tasmadbahistanvam ceccinuyattanvopaplavamadhyairātmopaplavamad- hyāt samdadhyāt | (II.37) /
+6.5 prāñcamenam cinuta iti vijñāyate | (II.38) /
+6.6 amṛnmayibhiraniṣṭakābhirnas samkhyām pūrayet | (11.39) /
+6.7 iṣṭakacidvā9 anyo 'gniḥ paśucidanya ityetasmādbrāhmaṇāt | (II.40) / 6.8 paśurvā eṣa yadagniryoniḥ khalu vā eṣā paśorvikriyate"yatprācīnamaiṣṭa- kādyajuḥ kriyata”1 iti ca72 / (II.41) /
+6.9 lokabādhīni13 dravyāṇyavaṭeṣupadadhyāt | (11.42) |
+6.10 maṇḍalamṛṣabham vikarṇīmitīṣṭakāsu lakṣmāṇi pratīyāt | (II.43) / 6.11 iṣṭakāmantrayoriṣṭakāvyatireke lokampṛṇāḥ sampadyante parimāṇā- bhāvāt | (II.44) /
+6.12 atītāneva veṣṭa1⁄4kāgaṇānatropadadhyāt | (II.45) /
+6.13 pañca lokampṛṇāḥ | (II.46) /
+6.14 mantravyatireke ’ktāḥ śarkarāḥ samdhiṣūpadadhyāt | (II.47)
+6.15 prācīrupadadhāti pratīcīrupadadhātīti gaṇeṣu rītivādaḥ | (II.48) / 6.16 prācīmupadadhāti pratīcīmupadadhātīti karturmukhavādaḥ | (II.49) / 6.17 purastādanyāḥ praticirupadadhāti paścādanyāḥ prācīrityapavargaḥrs | (II.50) /
+6.18 caturaśrāsvevaitadupapadyate | (II.51) /
+64 Thus, T.; viṣaya-, H, M, B, U.
+65 TS. V. 6.6.3.
+66 Not in T.
+67 Some of the Mss have (as Lāṭyāyana (1.5.7.) upablaya or blaya.
+68 -yobhiriṣṭakābhi-, M, B.
+69 TS. I. 5.8.2.
+70 vikriyata iti, T.
+71-yat iti, B, U; but we have one single citation in TS. V. 2.10.1.
+72 H omits.
+73 ba with H, U, B, M; va with T.
+74 Thus, B, U; -tītāneva-, M,; H is incomplete; T reads: atītāneveṣṭakāgaṇānetadatro.
+75 -vargavādaḥ in T.
+BAUDHAYANA-ŚULBASŪTRA
+7
+25
+7.1
+76
+na khaṇḍāmupadadhyāt | (II.52) | na bhinnāmupadadhyāt | (II.53) / na kṛṣṇāmupadadhyāt | (II.55) | na jīrṇāmupadadhyāt | (II.54) | na lakṣmaṇām”upadadhyāt | (11.56)/ na svayamātṛṇṇām svayamcitāvupadadhyāt| (II.57) /
+7.2 urdhvapramāņṇamiṣṭakānām jānoḥ pañcamena kārayet | (II.58) | ardhena nākasadām pañcacoḍānāṁ ca | (II.59) /
+7.3 yacchoṣapākābhyām pratihraseta purīṣeņa tatsampūrayet purīṣasyāniya- taparimāṇatvāt | (II.60) /
+7.4 vyāyāmamātrī bhavatīti gārhapatyacitervijñāyate / (11.61) /
+7.5 caturaśretyekeṣām | (II.62) | parimaṇḍaletyekeṣām | (11.63) /
+7.6 caturasram saptadhā vibhajya tiraścīm tredhā vibhajet |(II.64) | aparas- minprastāra udīcīrupadadhāti | (II.65) /
+7.7 samacaturaśrāścedupadadhyād-(II.66) -vyāyāmaṣaṣṭheneṣṭakāḥ kāra- peccaturthena trtiyeneti (II.66-67) | tāsām nava prathamā dvādaśa dvitīvā iti pūrvasminprastāra upadadhāti | (II.68) | pañca tṛtīyāḥ ṣoḍaśa prathamā ityaparasmin / (II.69) /
+7.8
+parimaṇḍalāyām yāvatsambhavettāvatsamacaturaśram kṛtvā tannavadhā vibhajet (II.70) pradhīmstridhā tridheti | (II.71)/ aparam prastāram” tathopa- dadhyādyathā pradhyanikeṣu sraktayo bhavanti | (II.72) /
+7.9 dhiṣṇya ekacitīkāścaturaśrāḥ parimaṇḍalā vā | (II.73) /
+7.10 teṣāmāgnīdhrīyam navadhā vibhajyaikasyāḥ sthāne' śmānamupadadhyāt| (II.74) /
+7.11 atha hoturdhiṣnyam80 navadha vibhajya pūrvāṇstribhāgānekaikam dvedha vibhajet / (II.75) /
+7.12 athetarānnavadhā navadhā vibhajya madhyamapūrvau dvau31 bhāgau samasyet (II.76) /
+7.13 atha mārjālīyam tredhā vibhajya pūrvāparau bhāgau pañcadhā vibhajet | (II.77) /
+7.14 ukhyabhasmanā samsṛjyeṣṭakāḥ kārayediti | (II.78) /
+76 In T. na jīrņām precede na kṛṣṇām-
+77 Thus H., lakṣmāmu- M. U; lakṣṇamu- T.
+78 Thus U and T; -set H. M. B.
+79 -parasminprastāre, M.B.
+80
+dhişniyam, H. M.
+81 dvau dvau, M.
+26
+BAUDHÃYANA-ŚULBASŪTRA
+7.15 samvatsarabhṛta evaitadupapadyate na rātribhṛtaḥ | (11.79) |
+7.16 evamasya mantravati citiklṛptiḥ | (II.80) |
+7.17 chandaścitam triṣāhasrasya parastāccinvīta (II.81) kāmavivekāt tasya rūpamsyenākṛtirbhavatīti 82 / (II.83) /
+8
+8.1 atha vai bhavati śyenacitam cinvīta suvargakāma iti / (III.1) /
+8.2 akṛtidvaividhyam / (III.2) | caturāśrātmāa3 (III.3) śyenākṛtiśca | (III.4) /
+8.3 vijñāyate ubhayam brāhmaṇam84 / (III.5-6) /
+8.4 pañca dakṣiṇāyām śroṇyāmupadadhāti pañcottarasyām | basto vaya iti dakṣine'msa upadadhāti | vṛṣṇirvaya ityuttare | vyāghro vaya iti dakṣiņe pakṣa upadadhāti | simho vaya ityuttares purușo vaya iti madhya iti ca | (III.7) / 8.5 athāparam | vayasām vā eṣa pratimayā cīyate yadagniriti | (III.8) / utpatatām chāyayetyarthaḥ | (III.9) /
+8.6 samacaturaśrābhiragnim cinutes daivyasya ca mānuṣasya ca vyāvṛttyā iti maitrāyaṇīyabrāhmaṇams bhavati / (III.10) /
+8.7 tasyeṣṭakāḥ kārayet puruṣasyass caturthena pañcamena șaṣṭhena daśame- neti | (III.11) /
+8.8 athāgnim vimimīte | (III.12) /
+8.9 yāvānpuruṣa urdhvabāhustāvadantarāle veṇośchidre89 karoti | (III.13) / madhye tṛtiyam | (III.14) / yadamutra spandyaya karoti tadiha veņunā karoti | (III.15) /
+8.10 tasyātmā (III.16) samacaturaśraścatvāraḥ puruṣāḥ | (III.17) | pakṣaḥ samacaturaśraḥ puruṣaḥ | (III.18) | sa tu dakṣiṇato’ratninā drāghīyān | (III.19) / etenottaraḥ pakṣo vyākhyātaḥ | (III. 20) | pucchaḥ samacaturaśraḥ
+82 T. and H. add prakṛtitvāt.
+83 caturasrā-in T.
+84 The first in TS. V. 3.1.5; the second in TS. V. 5.3.2.
+85 U. and Mahāgnisarvasya ins. pakṣayoreva vīryam dadhāti.
+86 H. U. B. M.; cinvīta in T.
+87 Passage not traceable.
+88 Omitted in T.
+89 Thus M; veņoh chidre, M. U.; venochidre, B. and T.BAUDHAYANA-SULBASUTRA
+27
+puruṣaḥ | (III.21) | tamavastātoprādeśena vardhayet | (III.22) | evam sāratni prādeśā saptavidhaḥ sampadyataḥ1 / (III.23 ) /
+8.11 upadhāne pakṣāgrāduttarataḥ puruṣatṛtīyavelāyām (III.24) catasraḥ pañcamyastāsāmabhito dve dve pādeṣṭake | (III.25) | tato'ṣṭau caturthyaḥ| (III.26) / pakṣaśeṣam ṣaḍbhāgīyābhiḥ pracchādayet / (III.27) | etenottaraḥ pakṣo vyakhyātaḥ | (III.28) /
+8.12 pūrvāparayoḥ pucchapārśvayoścaturbhāgīyā upadadhyāt | (III.29) / dakṣinottarayoḥ pādeṣṭakāḥ | (III.30) / śeṣamagnim pañcamabhāgiyābhiḥ pracchadayet / (III.31) /
+8.13 eșa dviśataḥ prastāraḥ | (III.32) /
+8.14 aparasminprastāre (III.33) pakṣāgrāduttarato' rdhavyāyāmavelāyām tisrastisraḥ ṣaṣṭhyo dve dve dvipade iti viparyāsamupadadhyāt | (III.34) / tathottares2 / (III.35)
+8.15 dakṣiṇasyām śroṇyām nava şaṣṭhyaścaturaśrakṛtāḥ | (III.36) | tathott- arasyām | (III.37) |
+8.16 nava nava şaṣṭhyo dve dve dipade iti dakṣiṇādamsāduttarādamsādvipar- yāsamupadadhyāt | (III.38) /
+8.17 seṣamagnim pañcamabhāgiyābhiḥ pracchādayet | (III.39) /
+8.18 eșa dviśataḥ prastāro vyatyāsam cinuyādyāvataḥ prastārāmścikīrṣet | (III.40) /
+9.1 athāparaḥ (III.41) /
+9
+9.2 puruṣasya pañcamyaḥ | (III.42) | tā evaikato' dhyardhāḥ | (III.43) / tāsāmardhyāḥ pādyāśca | (III.44-45) /
+9.3 upadhāne (III.46) / pūrvāparayoḥ pakṣapārśvayorardheṣṭakā udīcīrupa- dadhyāt (III.47) | tathottare/ (III.48) /
+9.4 dakṣinottarayoḥ pucchapārsva3yoścatasraścatasro' dhyardha udīcīḥ | (III.49) | pucchasyāvastāccatasro' rdheṣṭakā udīcīḥ | (III.50) | tāsāmabhito dve pādeṣṭake | (III.51)
+(III.51) / jaghanena pucchāpyayorekaikāmardheṣṭakām prācīm / (III.52) /
+20 adhastāt instead of avastāt, M.
+91 sampadyate in T.
+92 -dadhyādevamuttare, B.
+93 pucchapakṣayo-, B.
+94 pucchasyā-, U– pucchapārśvayo-, M.
+28
+BAUDHAYANA-SULBASŪTRA
+9.5 seṣamagnim pañcamabhāgiyābhiḥ pracchadayet / III.53 /
+9.6 eșa dviśataḥ prastāraḥ | (III.54) /
+9.7 aparasmin prastāra ātmasraktiṣu catasraḥ pādeṣṭakā upadadhyāt | (III.55) | tāsāmabhito dve dve ardheṣṭake | (III.56) | pūrvasminnanike pañca | (III.57) /
+9.8 pakṣāgrayostisrastisro 'dhyardhā udīciḥ | (III.58) | tāsāmantaraleṣveka- ikāmardheṣṭakām prācīm | (III.59) /
+9.9 seṣamagnim pañcamabhāgīyābhiḥ pracchādayet | (III.60 /
+9.10 eșa dviśataḥ prastāro vyatyāsam cinuyādyāvataḥ prastārāmścikīrṣet | (III.61) /
+10
+10.1 atha vakrapakṣo vyastapucchaḥ | (III.62) /
+10.2 tasyeṣṭakāḥ kārayetpuruṣasya caturthyaḥ | (III.63) | tāsāmardhyāḥ pādyāśca9 | (III.64) | nityamakṣṇyāpacchedanamanādeśe | (III.65) /
+10.3 pādeṣṭakāścaturbhiḥa parigṛhṇīyādardhapadena padenādhyardhapadena padasaviśeşeneti | (III.66-67) | te dve yathā dīrghasamśliṣṭe syātām tathār- dheṣṭakām kārayet | (III.68) /
+10.4 athāgnim vimimītao | ātmā dvipuruṣāyāmo daśapadavyāsaḥ | (III.69 / tasya dakṣiṇādamsāduttarato' dhyardhaprakrame lakṣaṇam karoti | (III.70)/ evamaparataḥ | (III.71) | tayorupariṣṭātspandyām niyamyā9msamapacchin- dyāt | (III.72) | etenetarāsām sraktīnāmapacchedā vyākhyātāḥ | (III.73) / sa ātmā / (III.74) /
+10.5 siro' rdhaṣaṣṭhapadāyāmamardhapuruṣavyāsam | tasyamsau prakra- meņa prakrameṇāpacchindyāt | (III.75) /
+10.6 pucchasya şaṭpadā prācī dvipurușodīcī / (III.76) | tasya pūrve sraktī tribhistribhiḥ prakramairapacchindyāt | (III.77) /
+10.7 pakṣo dvādaśapadāyāmo daśapadavyāsaḥ | (III.78 | tasya madhyāt prāñci100 ṣaṭpadāni prakramya śankum nihanyāt | (III.79) / śroṇyorekaikam |
+** pādeṣu, M; T omits.
+9 -śceti, B. U. M.
+97 -ṣṭakām caturbhiḥ, H. U. B. M.
+98 vimimite, T.
+"Between niyamya and amsam, anuspandi in M.
+100
+prāṇcam, M.
+BAUDHAYANA-SULBASŪTRA
+29
+(III.80) | athainam101 spandyayā paricinuyāt | (III.81) / anta102spandyamap- acchidya tatpurastāt prāñcam dadhyāt | (III.82) | sa nirṇāmaḥ | (III.83)/ etenottarasya pakṣasya nirṇāmo vyākhyātah. | (III.84) |
+10.8 pakṣāgrayoḥ prakramapramāṇāni pañca pañca caturaśrāṇyanūcīnāni kṛtvā sarvāṇyavāñcamakṣṇayāpacchindyādardhānyuddharet | (III.85) /
+10.9 evam sāratniprādeśaḥ saptavidhaḥ sampadyataḥ | (1.86) /.
+10.10 upadhāne siraso' pyaye caturthimupadadhyāt | (III.87)/ hamsamukhi purastāt | (III.88) | pādeṣṭake abhitaḥ (III.89) | tayoravastādabhitastisras- tisraścaturaśrapādyāḥ | (III.90) | śeṣe pādeṣṭakāḥ | (III.91) /
+10.11 api vā siraso' gre hamsamukhimupadadhyāt tasya avastāccaturthīm- upadadhyātpādeṣṭake abhitaḥ | tayoravastādabhitastisrastisraścaturaśrapādyāḥ| seṣe pādeṣṭakāḥ | (III.92) /
+10.12 śiraso' vastāṭpañcapādeṣṭakā vyatiṣaktā upadadhyāt | (III. 93)| tathā pucchasya purastāt (III.94) yadyadapacchinnam tasminnardheṣṭakaḥ pādeṣ- ṭakāścopadadhyāt | (III.95) /
+10.13 seṣamagnim caturbhāgīyābhiḥ pracchādayet | (III.96) | pādyābhiḥ sardhyābhiḥ samkhyām pūrayet | (III.97) /
+10.14 eșa dviśataḥ prastāraḥ103/
+10.15 aparasminprastāre hamsamukhiścatasraścatasṛbhiḥ pādeṣṭakābhiḥ samyojayedyathā dīrghacaturaśram sampadyate | tattiryak svayamātṛṇṇāvakāśa upadadhyāt | (III.98) /
+10.16 hamsamukhyau praticyau pucchāpyaye104 'rdhapadenātmani viśaye | (III.99) | tayoravastādabhitastisraḥ pādeṣṭakāḥ prāñmukhīrupadadhyāt | (III.100) /
+10.17 pucchasyavastātpañcadaśa pādeṣṭakā vyatiṣaktā upadadhyāt | (III.101) /
+10.18 pādeṣṭake ardheṣṭaketi pakṣapatrāṇām prācīrvyatyāsam cinuyāt | (III.102) /
+10.19 viśaye yadapacchinnam tasminnardheṣṭakāḥ pādeṣṣṭakāścopadadhyāt | (III.103) /
+10.20 seṣamagnim caturbhāgīyābhiḥ pracchādayet | pādyābhiḥ sārdhyābhiḥ samkhyām pūrayet / (III.104) /
+101 athainām, T.
+102 antaḥspandyam, T.
+108
+eṣa
+dviśataḥ prastāraḥ omitted in B, T.
+104 pucchasyappaye, U.
+30
+BAUDHAYANA-ŚULBASŪTRA
+11.1 athāparaḥ 105 (III.105) /
+11
+11.2 puruṣasya pañcamībhiḥ śatamasitiḥ saptārdham ca săratniprādeśaḥ saptavidhaḥ sampadyate | (III.106) /
+11.3 tāsām pañcāśaddve catmany-(III.107)-ardhacaturthyaḥ106 sirasi | (III.108) | pañcadaśa pucche (III.109) / aṣṭapañcāśatsārdhyā dakṣine pakṣa upadadhyāt / (III.110) / tathottare / (III.111) /
+11.4 ardhavyāyāmena sraktīnāmapacchedaḥ / (III.112) / samnatam puccham (III.113) / pakṣayostribhistribhiraratnibhir107apanāmaḥ / (III.114) / adh- yardhyābhiḥ108 ṣaḥ ṣaṭ patrāṇi kuryāt | (III.115) | ākṛtiḥ śiraso nityā |
+(III.116) /
+11.5 atheṣṭakānāṁ vikārāḥ | (III.117) /
+11.6 puruṣasya pañcamyastā evaikato 'dhyardhaḥ / (III.118) / tā evaikataḥ sapādāḥ (III.119) | pañcamabhāgīyāyāḥ pādyāḥ sārdhyāḥ | (III.120) / tathādhyardhāyāḥ109 / (III.121) | tayoścāṣṭamabhāgau tatha śleṣayedyathā tisraḥ sraktayo bhavanti / (III.122) | pañcamabhāgiyāyāścāṣṭamyaḥ (III.123)/ tāni daśa (III.124) /
+11.7 ātmani pañcamabhāgīyāḥ sārdhyā upadadhyat (III.125) | tathā
+| pucche / (III.126) /
+11.8 pakṣayoścādhyardhāḥ sārdhyāḥ | (III.127) /
+11.9 sirasi yāḥ sambhavanti | (III.128) /
+11.10 aparasminprastare pūrvayoḥ pakṣāpyayayorekaikāmubhayimupad- adhyāt / (III.129) | ekaikāmaparayoḥ / (III.130) / dve dve sirasaḥ pārsvayoḥ| (III.131) /
+11.11 pucchasyāvastādadhyardhāḥ prācāryathāvakāśam pārśvayoḥ pādyāḥ sāṣṭamabhāgāḥ110 / (III.133) /
+11.12 pakṣayoścādhyardhāḥ sāvayavāḥ | (III.134) /
+(III.132) /
+11.13 śeşam yathayogam yathāsamkhyam yathādharmam copadadhyāt | (III.135) /
+105
+-param, M.
+106 -turthāḥ, B,
+T.
+107 -aratnibharapanāmo in Caland.
+108 Thus B. dhyardhābhiḥ, M, U; -dhyardhārdhyābhiḥ, T.
+109 -stathādhyardhyāyā-, M. U.
+110 -bhāgiyāḥ, M. sāṣṭabhāgāḥ, T.
+BAUDHAYANA -ŚULBASŪTRA
+12
+12.1 kańkacita etenātmā puccham ca vyākhyātam / (IIÏ.136) /
+31
+12.2 sirasi pañcopadadhyāt | (III.137 | tasyākṛtirvyākhyāta | (III. 138) / 12.3 saptapañcāśaddakṣine pakṣa upadadhyāt | (III.139) | tathottare | (III.140) /
+12.4 vyāyāmena saprādesena pakṣayorapanāmaḥ | (III.141) / pañcama- bhāgiyārdhyābhiḥ ṣat ṣaṭ patrāṇi kuryāt | (III.142) | adhyardhāvaśiṣyate| (III.143) /
+12.5 taya pucchasyāvastāt pādāvaratnimātrāvaratnyantarālau prādeśa- vyāsau bhavataḥ | (III.144) | tayoravastādabhito dvaudvāvaṣṭamabhāgau prāgbhedāvupadadhyāt | (III.145) /
+12.6 evam sāratniprādeśaḥ saptavidhaḥ sampadyate111 / (III.146) / 12.7 atheṣṭakānāṁ vikārāḥ | pañcamabhāgiyāḥ sāvayavāḥ | (III.147) | pādeṣṭakām caturbhiḥ112 parigṛhṇīyād-(III.148)-ardhaprādeśenādhyardhaprā- desena prādesena prādeśasaviśeṣeneti/(III.149)/ adhyardheṣṭakām caturbhiḥ112 parigṛhṇīyādardhavyāyāmena dvābhyamaratnibhyāmaratnisaviseṣeneti [
+(III.150) | tāḥ ṣaṭ / (III.151) /
+12.8 tāsām caturaśrapādyāḥ sāṣṭamabhāgāḥ pādayorupadhāya śeṣam yathā- yogam yathāsamkhyam yathādharmam copadadhyāt / (III.152) /
+13
+13.1 alajacita etenātmā śiraḥ puccham ca vyākhyātam pādāvapoddhṛtya | (III.153) /
+13.2 trişaşṭirdakṣine pakṣa upadadhyāt | (III.154) | tathottare | (III.155)/ 13.3 puruşeņa pakṣayorapanāmaḥ | (III.156) /
+13.4 aparasmādapanāmātprāñcamaratnim mitvā tasminspandyām niyamyā- param pakṣapatrāpacched113amanvāyacchet | (III.157) /
+13.5 evam pañca pañcamyaḥ sārdhyā uddhṛtā bhavanti | (III.158) / 13.6 pādeṣṭakāmapanāma11 upadhyaya (III.159) tāsām caturaśra pādyāḥ sāṣṭamabhāgā apoddhṛtya seṣam115 yathayogam yathāsamkhyam yathādhar- mam copadadhyāt / (III.160) /
+111 śiraso nityā, ins. M.
+112 pādeṣṭakāścaturbhiḥ, M.
+113 pakṣapatramapache-, M; pakṣayamnāpache-, B.
+114 pādeṣṭakānāmavanāma, B.
+115 feṣā, T.
+32
+BAUDHAYANA -SULBASŪTRA
+14
+14.1 praugacitam cinviteti116 / (III.161) /
+14.2 yāvānagniḥ sāratniprādeśastāvatpraugam kṛtvā tasyāparasyāḥ karaṇyā dvādaśeneṣṭakāstadardhavyāsāḥ kārayet | (III.162) | tāsāmardhyāḥ pādyāśca | (III.163) /
+117
+14.3 tāsām dve ardheṣṭake bahyasaviseṣe117 cubuka upadadhyādardhyāścān- tayoḥ / (III.164-165)
+14.4 seṣamagnim bṛhatībhiḥ118 pracchadayedardheṣṭakābhiḥ samkhyām pūrayet / (III.166) /
+14.5 aparasminprastāre' parasminnanīke saptacatvārimśatpādeṣṭakā vyatiṣa- ktā upadadhyāt | (III.167) /
+14.6 cubuka ekām śūlapādyām119 / (III.168) /
+14.7 dirghe cetare catasraḥ svayamātṛṇṇāvakāśa upadadhyād- (III.169)- ardhyāścāntayoḥ / (III. 170) /
+14.8 seṣamagnim bṛhatībhiḥ prācībhiḥ pracchādayedardheṣṭakābhiḥ samkhy- ām pūrayet | (III.171) /
+15
+15.1 ubhayataḥ praugam cinviteti | (III.172) /
+15.2 yāvānagniḥ sāratniprādeśastāvadubhayataḥ praugam kṛtvā (III.173) navamena tiryañmānyāḥ praugacitoktā vikārāḥ | (III.174) /
+15.3 tathopadhānam / (III.175) /
+15.4 aparasminprastare cubukayordve pādeṣṭake upadadhyāt | (III.176) / samdhyantayośca dirghapādye | (III.177) /
+15.5 dirghe cetare ca120 catasraḥ svayamātṛṇṇāvakāśa upadadhyādardhyāś- cantayoḥ | (III.178) /
+15.6 śeşamagnim bṛhatībhiḥ prācībhiḥ121 pracchādayedardheṣṭakābhiḥ sam- khyām pūrayet | (III.178) /
+16
+16.1 rathacakracitam cinvīteti vijñāyate | (III.179) |
+116 iti omitted in T.
+117 Thus H. U. B. M.; bāhyaviseṣe, T.
+118 M. ins prācībhiḥ
+119 T. omits it in the text, but mentions it in the commentary.
+120 Omitted in T.
+121 Omitted in T.
+BAUDHĀYANA-ŚULBASŪTRA
+333
+16.2 dvayāni tu122 khalu rathacakrāṇi bhavanti (III.180) sārāṇi ca pradhi- yuktāni ca / (III.181) / aviseṣātte manyāmahe' nyatarasyākṛṭiriti | (III.182)/ 16.3 athāgnim vimimīte | yāvānagniḥ sāratniprādeśastāvatīm bhūmim pari- maṇḍalām kṛtvā tasminyāvatsambhavettāvat123 samacaturaśram kṛtvā (III.183) tasya karaṇyā dvādaśeneṣṭakāḥ kārayet | (III.184) /
+16.4 tāsām ṣaṭ pradhāvupadhāya śeṣamaṣṭadhā vibhajet124 / (III.185) 16.5 aparam prastāram tathopadadhyādyathā pradhyanikeṣu sraktayo bhavanti125 / (III.186) /
+16.6 athāparaḥ / (III.187) /
+16.7 puruṣārdhātpañcadaśeneṣṭakāḥ samacaturaśrāḥ kārayenmānārthāḥ | (III.188) /
+16.8 tāsām dve sate pañcavimśatiśca sāratniprādeśaḥ saptavidhaḥ sampadyate/ (III.189) /
+16.9 tāsvanyāścatuḥṣaṣṭimāvapet | (III.190) | tābhiḥ samacaturaśram karoti | (III.191) | tasya ṣoḍaśeṣṭakā pārśvamānī bhavati | (III.192) / trayastrimśadatiśisyante | (III.193) | tābhirantānsarvaśaḥ126 paricinuyāt |
+(III.194) /
+16.10 nābhiḥ ṣoḍaśa madhyamāḥ | (III.195) | catuḥṣaṣṭirarāścatuḥ- şaşṭirvediḥ (III.196) / nemiḥ śeṣāḥ | (III.197) /
+16.11 nābhimantataḥ parilikhet (III.198) / nemimantataścantarataśca127 parilikhya | (III.199) | neminābhyorantarālam dvātrimśaddhā128 vibhajya viparyāsam bhāgānuddharet | (III.200) / evamāvāpa uddhṛto bhavati | (III.201) /
+16.12 nemim catuḥṣaṣṭim kṛtvā vyavalikhya madhye parikṛṣet | (III.202)/ tā aṣṭāvimśatiśatam 129 bhavanti | (III.203) /
+16.13 arāmścaturdhā caturdhā130 (III.204) nābhimaṣṭadhā vibhajet | (III.205) /
+16.14 eşa prathamaḥ prastāraḥ131 |
+122 Not in the text as given by T.
+123 tāvat not in T.
+124 After vibhajet U ins. asminprastāre caturaśrasraktiravāntaradeśātpratisampādayed-.
+125 After bhavanti U ins. iti.
+126 -sarvataḥ, T.
+127 -mimamtataḥ paryasya tasya parilikhennemi, M; B omits parilikhya.
+128 -trimśadhā, T.
+129 Thus T and U; aṣṭāviṛśacchatam, B; aṣṭācatvāriṛśacchatam, M.
+130 Thus U, M; vibhajet instead of the second caturdhă, B, T,
+131
+eṣa prathamaḥ prastāraḥ omitted in T,
+34
+BAUDHAYANA-SULBASUTRA
+16.15 aparasminprastāre (III.206) nābhimantataścaturthavelāyām pari- kṛṣet | (III.207) | nemimantarataḥ | (III.208) /
+16.16 nemimantaratas132catuḥṣaṣṭim kṛtvā vyavalikhet | (III.209) /
+16.17 arāṇām pañcadhā vibhāga āparikarṣaṇayoḥ / (III.210) /
+16.18 nemyāmantarăleșu dve dve (III.211) nābhyāmantarāleṣvekaikām | (III.212) /
+16.19 yaccheṣam nābhestadaṣṭadhā vibhajet | (III.213) /
+16.20 sa eşa ṣoḍaśakaraṇaḥ sāro rathacakracit | (III.214) /
+17
+17.1 dronacitam cinviteti vijñāyate / (III.215) /
+ca
+17.2 dvayani tu khalu droṇāni bhavanti133 (III.216) caturaśrāņi parimaṇḍalāni ca / (III.217) / aviseṣātte manyāmahe' nyatarasyākṛtiriti |
+(III.218) /
+17.3 athāgnim vimimīte | caturaśra ātmā bhavati | (III.219) | tasya trayaḥ puruṣāstribhāgonāḥ pārśvamānī134 / (III.220) /
+17.4 paścāttsarurbhavati | (III.221) | tasyārdhapuruṣo daśāngulāni ca prācī | (III.222) | tribhāgonaḥ purușa udīcīti135 / (III.223) /
+17.5
+evam sāratniprādeśaḥ saptavidhaḥ sampadyate | (III.224) / 17.6 atheṣṭakānāṁ vikārāḥ136 | puruṣasya ṣaṣṭhyastă evaikato' dhyardhāḥ | tāsāmardhyāstiryagbhedāḥ puruṣasya caturthya iti | (III.225) /
+37
+17.7 tāsām tsaruśroṇyantaralayoḥ ṣați șaṣṭīrupadhāya seṣamagnim bṛhatībhiḥ pracchādayet | (III.226) | ardheṣṭakābhiḥ samkhyām pūrayet | (III.227) /
+17.8 aparasminprastare dakṣine' mse'
+(III.228) | tathottare | (III.229) /
+dhyardhamudicimupadadhyāt |
+17.9 pūrvasminnanīke ṣaḍbhāgīyā upadadhyāt | (III.230) /
+17.10 dakṣinottarayoścaturbhāgīyāḥ | (III.231) /
+17.11 tsaroḥ purastātpārsvayordve caturbhagiye upadadhyat (III.232 /
+132 nemyamtarata, U; nemyamta, M; nemimamtata, B.
+133 Only in U; in T, it occurs in the commentary.
+134 T. has bhavati after pārśvamānī.
+135 U. omits iti.
+136 In T, tasyeṣṭakāḥ kārayet in place of atheṣṭakānāṁ vikārāḥ.
+137 ṣat ṣaț in T
+BAUDHAYANA-SULBASUTRA
+tayoravastadabhito dve dve adhyardhe viṣüci
+35
+(III.233) | tayoravastānma-
+dhyadese 138 dve 139 şaṣṭhyau pracyau / (III.234) /
+17.12 śeşamagnim brhatibhiḥ prācībhiḥ140 pracchadayet (III.235) / ardheṣṭakābhiḥ samkhyām pūrayet | (III.236) /
+18.1 athāparaḥ | (III.237) /
+18.2 purușasya
+18
+sodasibhirvimśaśatam141 sāratniprādeśaḥ
+sampadyate | (III.238) /
+saptavidhaḥ
+18.3 tāsāmekāmapoddhṛtya śeṣāḥ parimaṇḍalam karoti | (III.239 / 18.4 tatpūrveṇa rathacakracitā vyākhyātam | (III.240) /
+18.5 ṣoḍaśīm purastādviśaya upadhāya tayā saha maṇḍalam142 parilikhet | (III.241) /
+18.6 yadavastādapacchinnam tatpurastādupadadhyāt | (III.242) /
+18.7 pradhīnām saptadhā vibhāgaḥ | (III.243) /
+18.8 pradhimadhyamāḥ prakramavyāsā bhavanti | (III.244) /
+18.9 caturaśrāṇāmardhyābhiḥ samkhyām pūrayet | (III.245) /
+18.10 aparasminprastāre (III.246) pradhimadhyamamoṣṭha upadhaya yadavastāttaddvedhā vibhajet | (III.247) /
+18.11 sa eşa navakaraņo dronacitparimaṇḍalaḥ | (III.248) /
+tebhyaḥ puriṣam samū-
+18.12 samūhya paricāyyau pūrveṇa rathacakracitā vyākhyātau | (III.249) / 18.13 samuhyasya dikṣu cātvālān khānayitvā1 hyopadadhyāt / (III.250) /
+18.14 paricāyya iṣṭakānāṁ deśabhedaḥ | (III.251) /
+18.15 tam sarvabhiḥ pradakṣiņam paricinuyāt / (III.252) /
+19
+19.1 śmaśānacitam cinvīteti vijñāyate | (III.253) /
+19.2 sarvamagnim caturaśrānpañcadaśa bhāgankṛtvā (III.253) teṣāmā- khyātamupadhānam | (III.254) /
+138 madhyedese, B.
+139 Omitted in B, T.
+140 Omitted in U, T.
+141 -vimsamsatam, B; vimśatiśatam, M.
+142 parimaṇḍalam, M.
+143 khātayiṭvā, T.
+36
+BAUDHAYANA-SULBASŪTRA
+19.3 tribhirbhāgairbhāgārdhavyāsam144 dīrghacaturaśram vihṛtya pūrvasyāḥ karaṇyā madhyāc1⁄445 chroṇī pratyālikhyāntāvuddharet | (III.255) | tasya daśadhā vibhāgaḥ / (III.256) /
+19.4 tāni vimsatiḥ sarvo' gniḥ sampadyate | (III.257) /
+19.5 aparasminprastare (III.258) praugamadhye'146 nucīnam vibhajet | (III.259) | tasya ṣaḍdhā vibhāgaḥ /(III.260) / te dve pārsvayorupadadhyāt | (III.261) /
+19.6 bhāgatṛtāyāyāmaścaturthavyāsāḥ kārayet | (III.262) | tāsām- ardhyāstiryagbhedāḥ | (III.263) /
+19.7 tā antayorupadhāya seṣamagnim brhatibhiḥ prācībhiḥ pracchadayet | (III.264) | ardheṣṭakābhiḥ samkhyām pūrayet | (III.265)
+19.8 urdhvapramāṇamagneḥ pañcamena vardhayet (III.266) /
+19.9
+tatsarvam tredhā vibhajya dvayorbhāgayoścaturthena vā navamena147 vā caturdaśena veṣṭakāḥ kārayet / (III.267) /
+19.10 tabhiścatasro vā nava vā caturdaśa vă citir148upadhaya śeṣamavāñca- makṣṇayāpacchindyāt | ardhamuddharet | (III.268) /
+19.11 tasya nityo vibhāgo yathāyogamiṣṭakānām hrāsavṛddhi | (III.269) /
+20
+20.1 kūrmacitam cinvita yaḥ kamayeta brahmalokamabhijayeyamiti / (III.270) | vijñāyate149 |
+20.2 dvayāḥ khalu kūrmā bhavanti vakrāngāśca parimaṇḍalāśca150 (III.271) | aviseṣātte manyāmahe' nyatarasyākṛtiriti | (III.272) / 20.3 athagnim vimimite | caturaśra ātmā bhavati | tasya daśa prakramāḥ pārśvamānī bhavati | (III.273) | tasya dvābhyām dvābhyām prakramābhyām sraktīnāmapacchedaḥ | (III.274) |
+20.4 pūrvasminnanike prakramapramāṇāni catvāri caturaśrāņi kṛtvā teṣām ye antye te akṣṇayāpacchindyāt | (III.275) | evam dakṣiņata evam paścādevamuttarataḥ | (III.276) | sa ātmā | (III.277) /
+144 B. omits bhāgārdha.
+145 H. U. B. M.; ardhācchroņi, T.
+146 pradhimadhye, B.
+147 pamcamena, M.
+148 vadhirupadhāya, M.
+149 Not in T.
+150 parimaṇḍalāngā,BAUDHAYANA-ŚULBASŪTRA
+37
+20.5 siraḥ pañcapadāyāmamardhapuruṣavyāsam | (III.278) | tasyāmsau prakrameṇa11 prakrameṇāpacchindyāt | (III.279) /
+20.6 sraktyapacchede pādānunnayet (III.280) / tasya dvipadākṣṇayā tiraści taddviguṇāyāmamanūci | (III.281) tasya dvipadākṣṇayā pūrva- mamsamapacchindyāt/(III.282) | etenetareṣām pādānāmapacchedā vyākhyātāḥ| (III.283) | aparayoḥ pādayoraparāvam sā132vapacchindyāt | (III.284) / 20.7 evam săratniprādeśaḥ saptavidhaḥ sampadyate | (III.285) / 20.8 tasyeṣṭakaḥ kārayetpuruṣasya caturthyas153 tāsāmardhyāḥ pādyāśca | (III.286) /
+20.9 adhyardhapadyāścaturbhi ḥ15 parigrhniyātprakrameņa dvābhyām padā- bhyām padasaviśeşeneti / (III.287) /
+20.10 te dve155 yathā dīrghasamśliṣṭe syātām tathaikām kārayet | (288) / 20.11 dvipadākṣṇayārdhena samacaturaśrāmekām | (III.289) / 20.12 upadhane siraso' gre caturaśrāmupadadhyāt mukhyāvavastāt | (III.291) /
+(III.290) / hamsa-
+20.13 pañca pañca caturaśră dve dve pādeṣṭake iti pādeṣūpadadhyāt/(III.292)/ 20.14 yadyadapacchinnam tasminnardheṣṭakā1 upadadhyāt | (III.293) / 20.15 sesamagnim caturbhāgiyābhiḥ pracchādayet
+kābhiḥ samkhyām pūrayet | (III.295) /
+(III.294) | ardheṣṭa-
+20.16 aparasminprastāre siraso' gre ham samukhimupadadhyātpā leṣṭake abhitaḥ (III.296) /
+20.17 tayoravastādabhito dve dve adhyardha1padye viṣūcī | (III.297) / 20.18 tayoravastādabhitaśchedasamhite dve pādeṣṭake (III.298) /
+20.19 dve dve dvipade tisrastisro' rdheṣṭakā iti pādeṣūpadadhyāt | (III.299)/ 20.20 yadyad158apacchinnam tasminnardheṣṭakāḥ pādeṣṭakaścopadadhyāt | (III.300) /
+20.21 śeṣamagnim caturbhāgīyābhiḥ pracchādayet | (III.301) | ardheș- ṭakabhiḥ samkhyām pūrayet | (III.302) /
+151 prakrameņa once, M, T.
+162 -raparāmsāvapa-, M. T.
+153 caturthista-, B.
+154 -dhyardhāpadyāṁ caturbhiḥ, T.
+155 T. omits.
+156 Thus M; tasminnardheṣṭakāścopa-, B. and T.; tasminnardheṣṭakāḥ pādeṣṭakāścopa-, U.
+157 adhyardhā, T.
+168 yadapacchinnam, T.
+38
+BAUDHAYANA-SULBASŪTRA
+21.1 athāparaḥ | (III.303) /
+21
+sodasibhirvimśaśatam159
+21.2 puruṣasya sampadyate / (III.304) /
+sāratniprādeśaḥ saptavidhaḥ
+21.3 tāsām pañca ṣoḍaśīrapoddhṛtya seṣāḥ parimaṇḍalam karoti | (III.305)/ taduttarena droṇacitā vyākhyātam / (III.306) /
+21.4 atha tāḥ160 pañca ṣoḍaśyastābhiravāntaradikṣu pādānunnayec11chiraḥ purastāt | (III.307-308) | tāsām parikarṣaṇam vyākhyātam | (III.309) / 21.5 pradhīnām saptadhā vibhāgaḥ | pradhimadhyamāḥ162 prakramavyāsā bhavanti (III.310) /
+21.6 yadatiriktam sampadyate taccaturaśrāṇāmadhyardhābhiryoyujyeta163 / (III.311) /
+21.7 aparasminprastāre pādānām sirovadvibhāgaḥ śirasaḥ pādavat | (III.312-313) /
+21.8 vyatyāsam cinuyādyāvataḥ prastārāmścikīrṣet / (III.314) /
+21.9 kūrmasyānte tanu purīṣamupadadhyānmadhye bahulam/(III.315-316)/ etadeva164 drone viparītam | (III.317) /
+21.10 atha haika ekavidhaprabhṛtīnpraugādin bruvate | (III.318) /
+21.11
+samacaturaśrāneka ācāryāḥ | (III.319) | tasya karaṇyā dvādaśene- ṣṭakāḥ kārāyetṭāsāmardhyāḥ pādyāśca | (111.320) /
+21.12 athāśvamedhikasyāgneḥ puruṣābhyāso nāratniprādeśānāṁ | (III.321)/ 21.13 prakṛto 165 vā triguṇaḥ | tristāvo' gnirbhavatityekavimśo' agnir- bhavatityubhayam brāhmaṇamubhayam brāhmaṇam | (III.322-323) /
+159 -viśamśatam, B. U.; vimśctamśatam, M.
+160 yaḥ, T.
+101
+pañcamyām before siraḥ, T.
+162 H. U. B. M.; pradhimadhyāḥ, T.
+163 -yoyujyate, T.
+164 eva only in U and in one of T's Mss; omitted in T.
+165 Thus H. U.; prakṛtau, B; tā, M.
+ĀPASTAMBA-ŠULBASŪTRA
+1.1* vihārayogānvyākhyāsyāmaḥ |
+1
+1.2 yāvadāyāmam pramāṇam tadardhamabhyasyāparasmimstṛtiye ṣaḍbhā- gone lakṣmaṇam karoti | pṛṣṭhyāntayorantau niyamya lakṣaṇena dakṣiṇāpāyamya nimittam karoti | evamuttarato viparyasyetarataḥ | sa samādhiḥ | tannimitto nirhāso vivṛddhirvā |
+1.3 āyāmam1 vābhyasyāgantucaturthamāyāmasyākṣṇayārajjuḥ tiryañmānī- śeṣaḥ | vyākhyātam viharaṇam3 |
+ca yatpṛthagbhūte
+1.4 dirghasyākṣṇayārajjuḥ pārśvamānī tiryañmānī^ kurutastadubhayam karoti | tābhirjñeyābhiruktam viharaṇam |
+1.5 caturaśrasyākṣṇayārajjurdvistāvatīm bhūmim karoti | samasya dvikaraṇī | 1.6 pramāṇam
+tṛtiyena vardhayettacca caturthenātmacatustrimsonena saviseṣaḥ |
+10
+1.7 athāparam' | pramāṇamātrīm rajjumubhayataḥ pāśām karoti | madhye lakṣaṇamardhamadhyayośca3 prṣṭhyāyām rajjumāyamya pāśayorlakṣaṇeṣviti śankūn3 nihatyopāntyayoḥ pāśau pratimucya madhyamena lakṣaṇena dakṣiṇā- payamya nimittam karoti | madhyame pāśau pratimucya uparyupari nimittam madhyamena lakṣaṇena dakṣiṇāpāyamya śankum nihanti | tasminpāśam prati- mucya pūrvasminnitaram madhyamena lakṣaṇena dakṣiṇamamsamāyacchet | unmucya pūrvasmādaparasminpratimucya madhyamenaiva lakṣaṇena dakṣiņām śroṇīmāyacchet | evamuttarau śroṇyamsau |
 * Bürk's numbering has been generally retained; wherever deviations have been made, his
-  numbering has been given within parenthesis in the text.
-  1 D. begins with atha yogāntaram.
-  2 āyāmaśca, BK.
-  3 D. omits.
-  4 D. omits.
-  5 MU omits.
-  6 sa viseṣaḥ, MU.
-  BK, MU.
-  8 -madhyamayośca, MU.
-  9 śańkum, MU
-  10 MU ins. Sankum after -pāyamya.
-  40
-  APASTAMBA-SULBASŪTRA
-  2
-  13
-  2.1 athāparoyogaḥ | prṣṭhyāntayormadhye ca śankūn11 nihatyārdhe12 tadviseṣamabhyasya lakṣaṇam kṛtvārdhamāgamayet | antayoḥ13 pāśau kṛtvā madhyame saviseṣam pratimucya pūrvasminnitaram lakṣaṇena dakṣiṇamamsa- māyacchet | unmucya pūrvasmādaparasminpratimucya lakṣaṇenaiva dakṣiņām śroṇīmāyacchet | evamuttarau śroṇyamsau |
-  2.2 pramāņam tiryagdvikaraṇyāyāmastasyākṣṇayārajjustrikaraṇī |
-  2.3 tṛtiyakaranyetena vyākhyāta | vibhāgastu navadhā |
-  2.4 tulyayoścaturaśrayoruktassamāsaḥ | nānā pramāṇayoścaturaśrayossa- māsaḥ | hrasiyasaḥ karaṇyā varṣiyaso vṛdhram1 ullikhet | vṛdhrasyākṣṇa- yārajjurubhe samasyati | taduktam /
-  15
-  2.5 caturaśraccaturaśram nirjihīrṣan yāvannirjihirṣettasya karaṇyā varṣiyaso13 vṛdhramullikhet | vṛdhrasya pārśvamānīmakṣṇayetaraṭpārśvamupasamharet | sā yatra nipatettadapacchindyāt | chinnayā nirastam |
-  16
-  2.6 upasamhṛtā akṣṇayārajjussā catuṣkaraṇī chinnā cetarā ca yatpṛthagbhūte kurutaḥ tadubhayam karoti | tiryañmānī puruṣam seṣastrīn16 | taduktam |
-  2.7 dirghacaturaśram samacaturasram cikīrṣan tiryañmānya apacchidya sesam vibhajyobhayata upadadhyāt | khaṇḍamāgantunā sampūrayet | tasya nirhāra1 uktaḥ |
-  3
-  3.1 samacaturaśram dirghacaturasram cikirşan yāvaccikīrṣet tāvatīm pārśvamānīm kṛtvā yadadhikam syāttadyathā18 yogamupadadhyāt |
-  3.2 caturasram mandalam cikirşan madhyātkoṭyām nipatayet | pārsvataḥ parikṛṣyātiśayatṛtiyena saha maṇḍalam parilikhet | sā nityā19 maṇḍalam20 jāvaddhiyate tāvadāgantu |
-  11 śankum, MU, S.
-  12 ardhe repeated in MU.
-  13 antyayoḥ, MU, D.
-  14 urddhram-, D, MU.
-  15 MU omits.
-  16
-  -strim, BK.
-  17 nirhāsa, MU
-  18 tad, not in MU.
-  19 Thus BK, MU; sānityā, according to comm.
-  20 S. omits,
-  APASTAMBA-SULBASUTRA
-  41
-  3.3 maṇḍalam caturaśram cikirşan viskambham pañcadaśabhāgānkṛtvā dvāvuddharet | trayodaśāvasiṣyante | sanityā11 caturaśram [.
-  3.4 pramāṇena pramāṇam vidhiyate |
-  3.5 caturasram22 adeśadanyat |
-  3.6 dvābhyām catvāri | tribhirnava |
-  1
-  3.7 yāvatpramāṇā rajjustāvatastāvato vargān karoti | tathopalabdhiḥ |
-  3.8 adhyardhapuruṣā rajjurdvau sapādau23 karoti | ardhatṛtīyapuruṣā ṣaṭ sapādān |
-  3.9 athātyanta pradeśaḥ24 | yāvatā yāvatā25 'dhikena parilikhati tatpār- śvayorupadadhāti | yacca tena caturasram kryate tatkoṭyām |
-  3.10 ardhapramāṇena pādapramāṇam vidhīyate | ardhasya dvipramāṇāyāḥ pādapūraṇatvāt | tṛtīyena navami kalā |
-  4
-  4.1 agnyādheyike vihāre gārhapatyāhavanīyayorantarāle vijñāyate | aṣṭāsu prakrameşu brāhamano' gnimādadhīta | ekādaśasu rājanyaḥ | dvādaśasu vaiśyaḥ |
-  4.2 caturvimśatyāmaparimite26 yāvatā vā cakṣuṣā manyate tasmānnā- tidūramādheya iti sarveṣāmaviseṣeṇa śrūyate |
-  4.3 dakṣinataḥ purastādvitṛtiyadese garhapatyasya nediyasi dakṣiņā- gnervijñāyate/
-  4.4 garhapatyāhavanīyayorantarālam pañcadhā ṣaḍdhā vā samvibhajya27 şaştham saptamam vā bhāgamāgantumupasamasya28 samam traidham vibhajyāparasmimstṛtiye lakṣaṇam kṛtvā gārhapatyāhavanīyayorantau niyamya lakṣaṇena dakṣiṇāpāyamya nimittam karoti | taddakṣiṇāgnerāyatanam | śrutisāmarthyāt |
-  4.5 yajamānamātrī prācyaparimitā vā yathāsannāni havīmṣi sambhavedevam tiraściprāñcau vedyamsāvunnayati | pratīcī śroņi | purastādamhīyasī paścāt- prathiyasi madhye samnatataraivamiva hi yoṣeti dārśikyā vedervijñāyate |
-  21 Thus MU; să nityā, BK.
-  22
-  caturasram, not in MU.
-  23 savādau, MU.
-  24 prādeśaḥ, D.
-  25 jāvatā once in D.
-  26
-  aparicite, MU.
-  27 sambhujya, BK.
-  26 Thus MU & most Mss; upasamasyāgantu-, BK.
-  42
-  APASTAMBA-SULBASŪTRA
-  4.6 apareṇāhavanīyam yajamānamātram2o
-  dirghacaturasram30 viḥrtya tāvatīm rajjumabhyasyası madhye lakṣaṇam kṛtvā dakṣinayoḥ śronyamsayo- rantau32 niyamya lakṣaṇena dakṣiṇāpāyamya nimittam karoti | nimitte rajjum niyamyāntau samasyet | dakṣiṇāyāḥ śroṇerdakṣinamamsamālikhet | evamuttarataḥ tiryañmānīm dviguṇām tathā kṛtvā paścātpurastāccopalikhets | vimitāyām purastāt pārśvamānyā upasamharet | śrutisāmarthyāt |
-  5
-  5.1 trimsatpadāni prakramā vā paścāttiraści bhavati şaṭtrimśatprācī caturvimśatiḥ purastāttiraścīti saumikyā vedervijñāyate |
-  5.2 ṣaṭtrimśikāyāmaṣṭādaśopasamasya aparasmādantāddvādaśasu lakṣaṇam pañcadaśasu lakṣaṇam pṛṣṭhyāntayorantau niyamya pañcadaśikena35 dakṣiṇāpāyamya śańkum nihantyevamuttarataste3 śroṇī | viparyasyāṇsau37 pañcadaśikes naivāpāyamya" dvādaśike sankum nihanti | evamuttaratastā- vamsau tadekarajjvā viharaṇam [
-  5.3 trikacatuşkayoḥ pañcikā kṣṇayārajjuḥ | tābhistrirabhyastābhiramsau | caturabhyastābhiḥ śroņi |
-  5.4 dvādaśikapañcikayostrayodaśikā kṣṇayārajjuḥ tābhiramsau dvira- bhyastābhiḥ śroṇī
-  5.5 pañcadaśikāṣṭikayoḥ saptadaśikā
-  kṣṇayārajjuḥ tābhiḥ śroņi | dvādaśikapañcatrimśikayossaptatrimśikā kṣṇayārajjuḥ tābhiramsau |
-  5.6 etāvanti jñeyāni vediviharaṇāni bhavanti |
-  5.7 aṣṭāvimśatyūnam padasahasram mahāvediḥ | dakṣiņasmādamsāddvādaśasu dakṣinasyām śroṇyām nipatayet | chedam viparyasyetarata1 upadadhyāt | sā dirghacaturaśră | tatha yuktām samcakṣita |
-  5.8 saumikyā veditṛtīye“ yajeteti sautrāmaṇyā vedervijñāyate“ | prakramasya tṛtīyakaraṇī prakramasthāniyā bhavati | trikaraṇyā vā aṣṭika daśike tiryaǹmānyau
-  29 yajamānamātrī, MU.
-  30 dīrgham caturaśram, MU.
-  31
-  ȧyamya, MU.
-  32 -antară, MU.
-  33
-  samasya, BK.
-  34 Thus in D, Gr, MU, BK. parilikhet, S.
-  35 pañcadaśakena, MU.
-  36 te not in MU.
-  *7 viparyastayāṇsau, MU.
-  38-daśakena, MU.
-  39
-  -apāyamya, not in D.
-  40 -syottarata, MU; -sya-ttarata, S.
-  41 vederbitṛtīyadese, MU.
-  42 veder-, not in BK.
-  APASTAMBA-SULBASUTRA
-  43
-  |
-  dvādasikā prṣṭhya (5.8) | trīņi caturvimśāni padaśatāni sautrāmaṇiki vediḥ | (5.9) /
-  6
-  6.1 dvistāvā13 vedirbhavatityaśvamedhe vijñāyate | (5.10) | prakramasya dvikaraṇī prakramasthānīyā bhavati | (6.1) /
-  6.2 prakramo dvipadastripado vā | prakrame yathākāmī śabdārthasya viśa- yitvāt | yajamānasyādhvaryorvā | eṣa hi ceṣṭānām kartā bhavati |
-  6.3 rathamātrī niruḍhapaśubandhasya vedirbhatīti vijñāyate | tatra11 khalvāhūrathākṣamātrī paścāttiryagīṣayā prācī | vipathayugena purastāt | yāvatā vā15 bāhye chidre |
-  6.4 tadekarajjvoktam | pañcadaśikenaivāpāyamyārdhākṣeṇārdhayugeneti śroṇyamsannirharet |
-  6.5 athāpyudāharanti | aṣṭāśītiśatamīṣā tiryagakṣaścatuśśatam ṣaḍaśītiryugam cāsya saa rathaścāraṇa ucyate | iti rathaparimāṇam |
-  6.6 aratnibhirvā caturbhiḥ paścāt ṣaḍbhiḥ prācī tribhiḥ purastāt |tadekarajj- voktam pañcadaśikenaivāpāyamya dvābhyāmadhyardheneti śroṇyamsānnirharet| 6.7 yajamānamātrī catuḥsraktirbhavatīti paitṛkyā vedervijñāyate | tadekarajj- voktam pañcadaśikenaivāpāyamyārdhena tataśśroṇyaṇsānnirharet18 |
-  6.8 daśapadottara1vedirbhavatiti some vijñāyate | tadekarajjvoktam pañca- daśikenaivāpāyamyārdhena tataśśroṇyamsānnirharet |
-  6.9 tām yugena yajamānasya vā padairvimāya śamyayā parimimīte |
-  •
-  6.10 pade yuge' ratnāviyati śamyāyām ca mānārtheṣu yathākāmī1 śabdār- thasya viśayitvat
-  6.11 vimitāyām purastātpārśvamānyā52 vupasamharet | śrutisāmarthyāt |
-  7
-  7.1 navāratni tiryaksaptavimśatirudagāyatamiti sadaso vijñāyate | (7.1) |
-  4a dvistāvān, Gr.
-  44 tasya, MU.
-  45 Missed in D.
-  46-iti, not in MU.
-  47 Not in MU.
-  48 Not in S.
-  49 -dottară, MU.
-  50 Not in S.
-  51 yāthākāmī, BK.
-  52 -mānyā upasam-, MU.
-  44
-  APASTAMBA-SULBASUTRA
-  aṣṭādaśetyekeṣām | (7.2) | tadekarajjvoktam pañcadaśikenaivāpāyamyārdha- pañcamaiḥ śroṇyamsānnirharet | (7.3) /
-  53
-  7.2 prādeśamukhāḥ prādeśāntarālā bhavantītyuparavāṇām vijnāyate | aratni- mātram caturaśram vihṛtya sraktiṣu śankūnnihatyārdhaprādesena tam54 parili- khet śrutisāmarthyāt | (7.4) |
-  7.3 vyāyāmamātrī bhavatīti gārhapatyacitervijñāyate | (7.5) | catura- śretyekeṣām | parimaṇḍaletyekeṣām | (7.6) |
-  7.4 karanam vyāyāmasya tṛtīyāyāmam saptama55vyāsam kārayet | (7.7) / tā ekavimśatirbhavanti | (7.8) | prāgāyāmāḥ prathame prastāre' parasminnu- dagāyāmāḥ (7.9) /
-  7.5 maṇḍalāyām mṛdo deham kṛtvā madhye śankum nihatyārdhavyāyāmena saha mandalam parilikhet | tasminścaturaśramavadadhyādyāvatsambhavetta- nnavadhā vyavalikhya traidhamekaikam pradhikam vibhajet | (7.10) / 7.6 upadhāne caturaśrasyāvāntaradeśānprati sraktīssampādayet | madhyāni- tarasmin5prastāre | vyatyāsam cinuyādyāvataḥ prastārāṇścikīrṣet | (7.11) / 7.7 piśīlamātrā bhavantīti dhiṣṇyānāṁ3 vijñāyate | (7.12) | caturaśrā ityekeṣām | parimaṇḍalā ityekeṣām / (7.13) /
-  58
-  7.8 mṛdo dehānkṛtvā āgnīdhrīyam navadhā vyavalikhya ekasyāssthāne' śmānamupadadhyāt | (7.14) | yathāsamkhyamitarān59 vyavalikhya yathāyo- gamupadadhyāt | (7.15) /
-  8.1
-  8
-  bhavatīva khalu vā eṣa“ yo'gnim cinutaa1 iti vijñāyate | vayasām vā eṣa pratimayā cīyata ityākṛticodanā2 pratyakṣavidhānādvā |
-  63
-  8.2 yāvadāmnātenao veņunā catura ātmani puruṣānavamimīte | puruṣam dakṣine pakṣe puruşam pucche purușamuttare | aratninā dakṣiņato dakṣinam
-  53 -pañcakai, D; -pañcamí, Gr. ; -pañcame, S.
-  54 Repeated in MU, BK.
-  55 saptavyāsam, D.
-  56 -nitasmin-. D.
-  57 dhiṣṇiyānām, BK.
-  58 -syā, S; -sya, Gr.
-  59 -itară, MU.
-  60 Not in D
-  61 cinute, MU.
-  62 codonát, MU, Gr.
-  63 āmnānena, MU, Gr.
-  63 caturasre, MU.
-  ĀPASTAMBA-SULBASŪTRA
-  45
-  pakşam vardhayati1 | evamuttarata uttaram | prādeśena vitastyā vā paścāt puccham /
-  8.3 ekavidhaḥ prathamo' gnirdvividhaḥ dvitiyastrividhastṛtiyaḥ | ta evameva ādyantyaikaśatavidhāt |
-  8.4 tadu ha vai saptavidhameva cinvita | saptavidho vāva prākṛto'gniḥ | tata ūrdhvamekottarāniti vijñāyate |
-  8.5 ekavidhaprabhṛtīnām na pakṣapucchāni bhavanti | saptavidhavākyaśeṣa- tvācchrutivipratiṣedhācca |
-  8.6 aṣṭavidhaprabhṛtīnām yadanyatsaptabhyastatsaptadhā vibhajya pratipu- ruṣamāveśayet | ākṛtivikārasyāśrutatvāt |
-  8.7 puruṣamātreņa vimimīte veņunā vimimīte iti vijñāyate |
-  9
-  9.1 yāvānyajamāna ūrdhvabāhustāvadantarāle venośchidre karoti madhye trtiyam apareṇa yūpāvaṭadeśamanuprṣṭhyam venum nidhāya chidreṣu sankun nihatya unmucyāparābhyām dakṣiņāprākparilikhede antāt | unmucya pūrvasmādaparasmin"pratimucya dakṣiņā pratyakparilikhedantāt | (8.8) / unmucya veņum madhyame śañkāvantyam venośchidram pratimucyoparyu- parilekhāsamaram dakṣiņā veņum nidhāyāntye chidre sankum nihatya tasminmadhyamam veṇośchidram pratimucyass lekhāntayoritare pratiṣṭhāpya chidrayośśankū nihanti | saoo purușaścaturaśraḥ | (9.1) /
-  9.2 evam pradakṣiṇam catura” ātmani puruṣānavamimīte | puruṣam dakṣiņe pakṣe puruşam pucche puruşamuttare | aratninā dakṣiņato" dakṣiņamityuktam | 9.3 pṛṣṭhyāto vā puruṣamātrasyākṣṇayā veņum nidhāya pūrvasminnitaram | tābhyām dakṣiņam amsam nirharet | viparyasya śroṇī | pūrvavaduttaramamsam | 9.4 rajjvā vā vimāyottaravedinyāyena veņunā vimimīte 72 |
-  9.5 sapakṣapuccheșu vidhābhyāse' pacaye ca vidhāsaptamakaraṇīm puru- ṣasthānīyām kṛtvā viharet |
-  64 pravardhayati, BK.
-  65 fankum, S, Gr.
-  66 āntāt, MU.
-  67 aparasmin, not in D.
-  68 Not in Gr.
-  69 Not in Gr.
-  70 caturasra, D, Gr.
-  71 Not in D.
-  72 mimīte, Gr.
-  46
-  APASTAMBA-SULBASŪTRA
-  9.6 karaṇānīṣṭakānām puruṣasya pañcamena kārayet | tāsāmevaikato' dhyar- dhāstaddvitiyam | paruṣasya pañcamo bhāga ekataḥ prādeśa ekataḥ tattṛtīyam sarvataḥ prādeśastaccaturtham | samacaturaśrāḥ pañcadaśabhāgiyāstaṭpañca- mam /
-  9.7 ūrdhvapramāṇamiṣṭakānām jānoḥ pañcamena kārayedardhena nākasadām pañcacoḍānām "ca |
-  74
-  9.8 yaṭpacyamānānām pratihraseta puriṣeņa tatsampurayedaniyatapari- māṇatvāt purīṣasya |
-  10
-  10.1 upadhāne' dhyardhā daśa purastāt pratīcīrātmanyupadadhāti | daśa paścātprācīḥ | pañca pañca pakṣāgrayoḥ | pakṣāpyayayośca viśayāḥ tāsāmar- dheṣṭakāmātrāṇi pakṣayorbhavanti | pañca pañca" pucchaparśvayordakṣiņā | udiciśca/
-  10.2 pucche prādeśamupadhāya sarvamagnim pañcamabhāgiyābhiḥ pracchā- dayet /
-  10.3 pañcadaśabhāgiyābhiḥ samkhyām pūrayet |
-  10.4 aparasminprastāre' dhyardhā daśa dakṣiṇata udīcīrātmanyupadadhāti | daśottarato dakṣiņā | yathā prathame prastāre pakṣau tathā puccham | yatha puccham tathā pakṣau | viparītā apyaye |
-  10.5 sarvamagnim pañcamabhāgiyābhiḥ pracchādayet |
-  10.6 pañcadaśabhāgīyābhiḥ samkhyām pūrayet | vyatyāsam cinuyādyāvataḥ prastārāmścikīrṣet |
-  10.7 pañca citayo bhavanti | pañcabhiḥ purīṣairabhyūhatīti purīṣāntā citiḥ arthāntaratvātpuriṣasya |
-  10.8 jānudaghnam” sāhasram” cinvīta prathamam cinvānaḥ | nābhidaghnam76 dviṣāhasram dvitīyamāsyadaghnam triṣāhasram tṛtīyamuttaramuttaram jyāyām- sam | mahāntam bṛhantamaparimitam svargakāmaścinviteti vijñāyate |
-  10.9 dviṣāhasre dviprastārāścitayo bhavanti | triṣāhasra triprastārāścaturtha- prabhṛtişvāhāreşu nityamiṣṭakāparimāṇam /
-  10.10 vijñāyate ca na jyāyāmsam citvā kanīyāmsam cinviteti18 |
-  73 pañcacūḍānām, MU.
-  7a pratihrasīta, MU ; pratihraset, D.
-  75 Once in S.
-  76 -daghnīm, MU.
-  77 Missed in D.
-  78 This whole line not in Gr.ĀPASTAMBA-ŚULBASŪTRA
-  11
-  47
-  79
-  11.1 caturaśrābhiragnim cinuta iti vijñāyate | samaċaturaśrā anupa 80- padatvācchabdasya |
-  11.2 pādamātryo bhavanti aratnimātryo bhavantyūrvasthimātryo bhavantyaṇ- ūkamātryo bhavantīti vijñāyate |
-  11.3 caturbhāgiyamaṇūkam | pañcamaa1bhāgīyāratniḥ | tathorvasthi |
-  11.4 pādeṣṭakā pādamātrī | tatra jathākāmī śabdārthasya viśayitvāt | 11.5 upadhāne'ṣṭāvaṣṭau pādeṣṭakāścaturbhāgīyānāṁ pakṣāgrayornidadhyāt | sandhyośca tadvadātmānam ṣaḍangulāvetāḥ 82 | śroṇyamseṣu caṣṭau prācīḥ pratīcīśca |
-  11.6 sandhyantarāle pañcabhāgiyāssapādāḥ83 |
-  11.7 pucche prādeśamupadhāya sarvamagnim caturbhāgīyābhiḥ pracchādayet | 11.8 pādeṣṭakābhiḥ samkhyām pūrayet |
-  11.9 aparasminprastāre pucchāpyaye pañcamabhāgīyāa1 viśayāḥ | tā ātmani caturdaśabhiḥ pādairyathayogam upadadhyāts |
-  11.10 sarvamagnim pañcamabhāgiyābhiḥ1 pracchadayet |
-  11.11 pādeṣṭakābhiḥ samkhyām pūrayet | vyatyāsam cinuyādyāvataḥ prastā- rāmścikīrṣet/
-  12
-  12.1 ekavidhaprabhṛtīnām karaṇīnām dvādaśena trayodaśenetīṣṭakāḥ kārayet | pādeṣṭakāśca | vyatyāsam cinuyādyāvataḥ prastārāmścikīrṣet |
-  12.2 ekavidhaprabhṛtīnām prathamāhāreņa dvitiyena tṛtīyeneti yoyujyeta | sarveṣām yathā śrutisamkhyā tathordhvapramāṇam |
-  12.3 kāmyā guṇavikārāḥ guṇaśāstratvāt |
-  12.4 praugam 85 cinvita bhrātṛvyavāniti vijñāyate |
-  12.5 yāvānagniḥ sāratniprādeśo dvistāvatīm bhūmim caturaśrām kṛtvā pūrvasyāḥ karaṇyā ardhācchroṇīs pratyālikhet | sā nityā praugam |
-  79 cinvite, D.
-  80 anupadatvāc, D.
-  81 pañcabhāgiyāḥ, D.
-  82 şaḍangulopetāḥ, BK.
-  83 Only pādāḥ, D.
-  84
-  baryupa- BK.
-  85 praugacitam BK.
-  36 -chroṇīm MU.
-  48
-  ĀPASTAMBA-SULBASŪTRA
-  12.6 karaṇāni cayanamityekavidhoktam | praugā iṣṭakāḥ kārayet |
-  12.7 ubhayataḥ prcugam cinvita yaḥ kāmayeta prajātān bhratṛvyānnudeya pratijaniṣyamāṇāniti vijñāyate |
-  12.8 yathā vimukhe śakaṭe | (12.8) | tāvadeva dirghacaturaśram vihṛtya purvāparayoḥ karaṇyorardhāttāvati dakṣinottarayornipātayet | sā88 nityobha- yataḥ praugam | (12.9) | praugacitoktam | (12.10) /
-  12.9 rathacakracitam cinvīta bhrātṛvyavāniti vijñāyate | (12.11) / 12.10 yāvānagniḥ sāratniprādeśastāvatīm bhūmim parimaṇḍalām kṛtvā tas- mimścaturaśramooavadadhyādyāvatsambhavet | (12.12) /
-  13
-  13.1 tasya karaṇyā dvādaśeneṣṭakāḥ kārayet |
-  13.2 tāsām ṣatpradhāvupadhāya śeṣamaṣṭadhā vibhajet |
-  13.3 upadhāne caturaśrasyāvāntaradeśān pratisraktīssampādayet | madhyānī- tarasmin prastāre | vyatyāsam cinuyādyāvataḥ prastārāmścikīrṣet |
-  13.4 dronacitam cinvītānnakāma iti vijñāyate |
-  13.5 dvayāni tu khalu droṇāni caturaśrāņi parimaṇḍalāni ca |
-  13.6 tatra yathākāmi śabdārthyasya viśayitvāt |
-  13.7 caturasram vā yasya guṇaśāstram | (13.7) | sa caturaśraḥ | (13.8) / 13.8 paścāttsarurbhavatyanurūpatvāyeti vijñāyate | (13.9) /
-  13.9 sarvasyā bhūmerdaśamam tsaruḥ tasya pucchena nirhāra uktaḥ | (13.10) /
-  13.10 tasya karaṇyā dvādaśeneṣṭakāḥ kārayedadhyardhāḥ pādeṣṭakāśca | (13.11) /
-  13.11 upadhāne' dhyardhāḥ purastātpratīcirātmanyupadadhāti | tsarvagre śronyośca prāciḥ | (13.12) /
-  13.12 sarvamagnim caturaśrābhiḥ pracchādayet | (13.13) /
-  13.13 pādeṣṭakābhiḥ samkhyām pūrayet | (13.14) /
-  13.14 aparasminprastāre' dhyardhā dakṣiṇata udīcīrātmanyupadadhātyuttara- taśca dakṣiņāḥ | tsarupārśvayordakṣiņā udīcīśca | (13.15) /
-  13.15 sarvamagnim caturaśrābhiḥ pracchādayet | (13.16) /
-  87 dirgham caturasram MU.
-  88 Not in MU.
-  89 -caturam- MU.
-  90 „pradhả upadhāya MU.
-  ĀPASTAMBA-SULBASŪTRA
-  49
-  13.16 pādeṣṭakābhiḥ samkhyām pūrayet | (13.17) | vyatyāsaṇ cinuyādyāva- taḥ prastārāmścikīrṣet | (13.16) /
-  14
-  14.1 samuhyam cinvita paśukāma iti vijñāyate |
-  14.2 samuhanniveṣṭakāo1 upadadhāti |
-  14.3 dikṣu cātvālā bhavanti | tebhyaḥ puriṣamabh2yuhatīti vijñāyate | 14.4 paricayyam cinvīta grāmakāma iti vijñāyate |
-  14.5 madhyamām svayamātṛṇṇām pradakṣiṇamiṣṭakāgaṇaiḥ paricinoti | s paricayyaḥ |
-  14.6 upacāyyam cinvīta grāmakāma iti vijñāyate | (14.6) / paricāyyenoktaḥ | (14.7) /
-  14.7 śmaśānacitam cinvīta yaḥ kāmayeta pitṛloka ṛdhnuyāmiti vijñāyate | (14.8) /
-  14.8 dvayāni tu33 khalu śmaśānāni caturaśrāņi parimaṇḍalāni ca | (14.9) / 14.9 tatra yathākāmī śabdārthasya viśayitvāt | (14.10) /
-  14.10 caturaśram vā yasya guṇaśāstram (14.11) / sa caturaśraḥ | tsaruvar- jam dronacitoktaḥ | (14.12) /
-  14.11 chandaścitam cinvīta paśukāma iti vijñāyate | (14.13) /
-  14.12 sarvaiśchandobhiścinuyādityekam | prākṛtairityaparam | (14.14) /
-  15
-  15.1 syenacitam cinvīta suvargakāma iti vijñāyate |
-  15.2 vakrapakṣo vyastapuccho bhavati | paścātprāñudūhati | purastātpratya- nudūhatio1 | evamiva hi vayasām madhye pakṣanirṇāmo bhavatīti vijñāyate | 15.3 yāvānagniḥ sāratniprādeśaḥ saptavidhaḥ sampadyate | prādeśam catur- thamātmanaścaturbhāgīyāścāṣṭau | tāsām tisraḥ śiraḥ | itaratpakṣayorvibhajet | 15.4 pañcāratniḥ puruṣaḥ | caturaratnirvyāyāmaḥ | caturvimśatyańgulayo' ratniḥ | tadardham prādeśa iti klṛptiḥ |
-  15.5 ardhadaśamā aratnayo' ǹgulayaśca caturbhāgona pakṣāyāmaḥ |
-  91 -eveṣṭakā MU.
-  92 -abhyudūhatīti MU.
-  93 Not in MU.
-  94 -udūhati not in D.
-  50
-  ĀPASTAMBA-SULBASŪTRA
-  15.6 dvipuruṣām rajjumubhayataḥ pāśam karoti madhye lakṣaṇam | pakṣas- yaparayoḥ kotyorantau niyamya lakṣaṇena prācīnamāyacchedevam purastāt | sa nirṇāmaḥ | (15.6) | etenottaraḥ pakṣo | vyākhyātaḥ | (15.7) |
-  15.7 ātmā dvipuruṣāyāmo' dhyardhapuruṣavyāsaḥ | (15.8) /
-  15.8 pucche' rdhapuruṣavyāsam puruşam pratīcīnamāyacchet | tasya dakṣiņato' nyamuttarataśca | tāvakṣṇayā vyavalikhet | yatha' rdhapuruṣo' pyayesyāt | (15.9) /
-  15.9 sirasyardhapuruşeṇa caturaśram kṛtvā pūrvasyāḥ karaṇyā ardhāttāvati dakṣinottarayor nipātayet | (15.10) /
-  96
-  16
-  16.1 apyayān prati śroṇyamsānapacchindyāt | evamiva hi śyenaḥ |
-  16.2 karaṇam puruṣasya pañcamāyāmam ṣaṣṭhavyāsam kārayedyathāyogana- tam tatprathamam |
-  16.3 te dve prācī samhite | taddvitīyam |
-  98
-  16.4 prathamasya ṣaḍbhāgamaṣṭama''bhāgena vardhayet | yathāyoganatam • 8 tattṛtīyam |
-  16.5 caturbhāgiyā' dhyardhā | tasyāścaṭurṛbhāgīyāmātramakṣṇayā bhindyāt" | taccaturtham |
-  16.6 caturbhagiyārdham pañcamam |
-  16.7 tasyākṣṇayā bhedaḥ ṣaṣṭham |
-  16.8 puruṣasya pañcama1oobhāgam daśabhāgavyāsam pratīcīnamāyacchet | tasya dakṣiṇato' nyamuttarataśca | tāvakṣṇayā dakṣiṇāparayoḥ1o1 koṭyorāli- khet | tatsaptamam |
-  16.9 evamanyat | uttaram tūttarasyāḥ koṭyālikhet tadaṣṭamam |
-  16.10 caturbhāgiyākṣṇayobhayato bhedo navamam |
-  16.11 upadhāne şaṣṭiḥ ṣastiḥ pakṣayoḥ prathama udicirupadadhyāt102 |
-  16.12 pucchapārśvayoraṣṭāvaṣṭau şaşthyayastisro'gre tata ekām tatastis- raḥ tata ekām |
-  95 pāśām MU.
-  96 dakṣiņayor- MU.
-  97 -aṣṭabhāgena MU.
-  98 -natena BK.
-  99 chindyat MU.
-  100
-  pañcabhāgam, D.
-  101 dakṣinavarayoḥ, MU.
-  102 -nirupadadhyāt, D, MU.
-  را
-  APASTAMBA-SULBASŪTRA
-  51
-  16.13 pucchapyaye caturthyau visaye | tayośca103 paścātpañcamyāvanīkasam-
-  hite |
-  17
-  17.1 śeşe daśa caturthyaḥ śronyamseṣu căṣṭau prāciḥ praticiśca | 17.2 śeşe ca şaḍvimsatiraṣṭau şaşthyaścatasraḥ pañcamyaḥ | 17.3 sirasi caturthyau viśaye | tayośca purastātprācyau |
-  17.4 eşa dviśataḥ prastāraḥ |
-  17.5 aparasminprastāre pañca pañca nirṇāmayordviṭīyāḥ | apyayayośca tṛtīyā ātmānamaṣṭabhāgāvetāḥ1oa | śeṣe pañcacatvārimśat1o5prathamāḥ prāciḥ |
-  17.6 pucchapārsvayoḥ pañca pañca saptamyaḥ | dvitiyacaturthyoścānyatarataḥ pratisamhitāmekaikām | śeṣe trayodaśāṣṭamyaḥ106 |
-  17.7 śroṇyamseṣu căṣṭau caturthyo dakṣiņā udīcīśca | śeşe ca vimśatistrimśat şaṣṭhya ekam pañcamīm |
-  17.8 sirasi caturthyau tayośca purastaccatasro navamyaḥ |
-  17.9 eșa dviśataprastāraḥ |
-  17.10 vyatyasam cinuyādyāvataḥ prastārāmścikīrṣet |
-  18
-  18.1 yenacitam cinvīta suvargakāma iti vijñāyate
-  18.2 vakrapakṣo vyastapuccho bhavati | paścātprāñudūhati | purastātpratya- nudūhati | evamivahi vayasām madhye pakṣanirṇāmo bhavatīti vijñāyate | 18.3 puruşasya şoḍaśībhirvimśaśatam1o7 sāratniprādeśaḥ saptavidhaḥ sampad- yate | tāsām catvāriṛśadātmani tisraḥ śirasi pañcadaśa pucche ekatrimśaddak- şine pakse tathottare |
-  18.4 adhyardhapuruṣastiryagdvāvāyāmata iti dīrgha108caturasram vihṛtya śronyamsebhyo dve dve şoḍaśyau nirasyet109 | catvārimśatparisiṣyante | sa ātmā | 18.5 sirasyardhapuruşena caturaśram kṛtvā pūrvasyāḥ karaṇyā ardhāttāvati dakṣinottarayornipatayet | tisraḥ parisisyante tacchiraḥ |
-  18.6 purușastiryagdvāvāyāmataḥ ṣoḍaśabhāgaśca dakṣinaḥ pakṣaḥ | tatho- ttaraḥ |
-  0
-  18.7 pakṣāgrello puruşacaturthena catvāri caturaśrāṇi kṛtvā tānyakṣṇayā vyavalikhyārdhāni nirasyet | ekatrimśatpariśisyante |
-  103 tayostu, MU.
-  104 -bhāgopetāḥ, BK.
-  105 Repeated in BK.
-  106 This is followed by pucchadese trayodaśāṣṭamyaśśerate in MU, which appears to be part of
-  the commentary.
-  107 soḍaśabhirvimśam, MU.
-  108 dīrgham,
-  MU.
-  109 vidṛsyet, D.
-  110 Repeated in BK, D.
-  52
-  APASTAMBA-SULBASUTRA
-  18.8 pakṣāgramutsṛjya madhye pakṣasya prācīm lekhāmālikhet | pakṣāpyaye puruşam niyamya puruṣānte nitodam kuryāt | nitodātprācīnam puruṣānte111 nitodam nitodayornānāntāvālikhet | tatpakṣa112namanam | etenottaraḥ pakṣo vyākhyātaḥ |
-  19
-  19.1 dvipuruşam paścādardhapuruşam purastaccaturbhāgonaḥ puruṣa āyāmo' ṣṭādaśakaraṇyau pārśvayostāḥ pañcadaśa parigṛhṇanti | tatpuccham | 19.2 ṣoḍaśīm caturbhiḥ parigṛhṇījāt | aṣṭamena tribhiraṣṭamaiścaturthena caturthasaviseşeneti /
-  19.3 ardheṣṭakām tribhirdvābhyām caturthābhyām1113 catūrthasaviseṣeneti | 19.4 pādeṣṭakām tribhiścaturthenaikam caturthasaviśeṣārdhābhyām ceti | 19.5 pakṣeṣṭakāṇ caturbhirdvābhyām caturthābhyām saptamābhyām111 ceti | 19.6 pakşamadhyāyām caturbhirdvābhyām caturthābhyām dvisaptamābhyām ceti /
-  19.7 pakṣāgrīvām tribhiścaturthenaikam caturthasaptamābhyāmekam caturtha- saviseṣasaptamabhyām ceti |
-  115
-  19.8 pakṣakaraṇyāḥ saptamam tiryañmānī puruṣacaturtham ca 115pārśvamānī | tasyākṣṇayārajjvā karaṇam prajṛmbhayet11/ pakṣanamanyāḥ saptamena phala- kāni namayet |
-  19.9 upadhāne catasraḥ pādeṣṭakāḥ purastācchirasi | apareṇa śiraso'pyayam pañca | pūrveņa pakṣāpyayāvekādaśa | apareṇaikādaśa pūrveṇa pucchāpyayam pañcāpareņa pañca117 pañcadaśa pucchāgre |
-  20
-  20.1 catasraścatasraḥ pakṣāgrīyāḥ pakṣāgrayoḥ paksāpyayayośca viśayāḥ | 20.2 tā ātmani catasṛbhiścatasṛbhiḥ ṣoḍaśibhiryathayogam paryupada- dhyāt118/
-  20.3 catasraścatasraḥ pakṣamadhyiyāḥ pakṣa madhyayoḥ | (20.3) | pakṣeṣ- ṭakābhiḥ prācībhiḥ pakṣau pracchādayet | (20.4) /
-  20.4 avasiṣṭam ṣoḍaśibhiḥ pracchadayet | antyā bāhyaviseṣā anyatra sirasaḥ | (20.5) /
-  111 Not in D.
-  112
-  -pakşi-, MU.
-  118 Not in D.
-  114 saptabhyām, S, D.
-  115 Not in MU.
-  116 prajambhayet, MU.
-  117 Not in S.
-  118 upadadhyāt, S.
-  ĀPASTAMBA-SULBASŪTRA
-  53
-  20.5 aparasminprastare purastācchirasi dve şoḍaśyau bāhyaviseṣe upadadhyāt | teʼparena dve viśaye abhyantaraviśeșe | (20.6) /
-  20.6 dvābhyāmardheṣṭakābhyam yathayogam paryupadadhyāt | bāhyavi- seṣābhyām parigṛhṇīyāt | (20.7) |
-  20.7 ātma11 karaṇīnām sandhişu şoḍaśyo bahyaviseṣā upadadhyāt | (20.8) / 20.8 catasraścatasro' rdheṣṭakaḥ pakṣāgrayoḥ | pakṣeṣṭakābhirudīcībhiḥ pakṣau pracchādayet | (20.9) /
-  20.9 tisrastisro' rdheṣṭakaḥ pucchapārśvayoḥ | (20.10) /
-  20.10 avasiṣṭam şoḍaśibhiḥ pracchādayet | antyā bāhyaviśeṣā anyatra pucchat | (20.11) /
-  20.11 paccaturasram tryaśram120 vā sampadyetārdheṣṭakābhiḥ pādeṣṭakābhirvā pracchadayet / (20.12) | aṇukāḥ pañcadaśabhāgiyānām sthāne | (20.13) / 20.12 vyatyāsam cinuyādyāvataḥ prastārāmścikīrṣet | (20.14) /
-  21
-  21.1 kańkacidalajaciditi śyenacitā1a1 vyākhyātau |
-  21.2 evamiva hi syenasya varṣiyāmsau pakṣau pucchādvakrau samnatam puccham dirgha ātmā' maṇḍalaḥ śiraśca | tasmācchrutisāmarthyāt | aśirasko vā nāmnānāt
-  21.3 vijñāyate122 ca | kańkacitam śīrṣaṇvantam cinvīta yaḥ kāmayeta saśīrṣo' muşmimlloke sambha123⁄4veyamiti vidyamāne katham brūyāt |
-  21.4 prākṛtau vakrau pakṣau samnatam puccham vikāraśravaṇādyathāpra- kṛtyātmā' vikārāt124/
-  21.5 yatho125 etacchyenacitam cinvīteti yāvadāmnātam126 sārūpyam tadvyākh- yātam
-  21.6 tristavo' gnirbhavatityaśvamedhe vijñāyate |
-  21.7 tatra sarvābhyāso' viśeṣāt |
-  21.8 dirghacaturaśrāṇāṁ samāsena pakṣapucchānām samāsa uktaḥ |
-  21.9 ekavimśo' gnirbhavatītyaśvamedhe vijñāyate |
-  21.10
-  myogāt |
-  tatra puruṣābhyāso nāratniprādeśānām samkhyāsamyogāt samkhyāsa-
-  119 ātmanaḥ karaṇīnām, MU.
-  120
-  tryafri, D.
-  121 -cityā, D.
-  122 Not in D; jñāyate, MU.
-  123 bhaveyam-, S.
-  124 -ʻvikārāśravaṇāt, S.
-  125 atho, MU.
-  116 āmnānam, S; āmnānasārūpyam, MU.
-  KATYAYANA-SULBASŪTRA
-  1.1 rajjusamāsam vakṣyāmaḥ |
-  1
-  1.2 same sankum nikhāya sankusammitaya rajjvā maṇḍalam parilikhya yatra lekhayoḥ śankvagracchāyā nipatati tatra śankū1 nihanti să prăci | tadantaram rajjvābhyasya pāśau kṛtvā śankvoḥ pāśau pratimucya dakṣiņāyamya madhye sanku mevamuttarataḥ sodici |
-  1.3 rajjvantayoḥ pāśau karoti | śroṇyamsanirañchanasamkhyāsamāsabhangeṣu lakṣaṇāni | prācyantayoḥ śaṁkū nihanti | śroṇyoramsayośca3 | śańkvoḥ pāśau pratimucya nirañchanena gṛhītvā dakṣiņapūrvām diśam haranti | evamuttarataḥ viparyasyetarataḥ | sa samādhiḥ sarvatra |
-  1.4 pramāṇamabhyasyābhyāsacaturthe lakṣṇam karoti tannirañchanam | akṣṇayā tiryanmānīśeṣa |
-  1.5 pramāṇārdham vābhyasyābhyāsaṣaṣ the lakṣaṇam karoti tannirañchanam | akṣṇayā tiryaṁmāniśeṣaḥ |
-  1.6 pramāṇārdhe samacaturaśrasya śañkuḥ | śāstravadardhe dirghacaturaś- rasya | śakaṭamukhasya caivam |
-  1.7 etena prāgvaṛśavedimānāni vyākhyātāni | śālāmānam ca | tatrodici prācīvat | sadasaścaivam |
-  1.8 aparimitam pramāṇādbhūyaḥ |
-  1.9 pramāņe śāstram pramāṇam nirhāsavivṛddhyoḥ3 | yogaśca |
-  1.10 itarasyavitṛtiye dakṣinata ityetadvakṣyāmaḥ | gārhapatyāhavaniyayoran- tarālam ṣaḍhdhā saptadhā vāgantusamam tredhā vibhajyāparavitṛtīyalakṣa- ṇena dakṣiṇāyamya tasminnagniḥ | viparyasyottarata utkaraḥ |
-  1.11 apivāntaratribhāgo' nayā rajjvā purvārdhe samacaturaśram kṛtvā śroṇ- yamagniḥ viparyasyottarāmsa utkaraḥ |
-  2
-  2.1 angulai rathasammitāyāḥ pramāṇam | tatrāṣṭāśītiśatamīṣā | catuḥśata- makṣaḥ ṣaḍaśitiryugam | catvāro' ṣṭakāḥ śamyā |
-  1 sankum, P.
-  2 fańkurevam, P.
-  3
-  śroṇyamsayo, P.
-  ♦ vābhyāsaşaşthe, P.
-  • -vivṛdhyoḥ, K.
-  KATYAYANA-SULBASŪTRA
-  55
-  2.2 paitṛkyām dvipuruşam samacaturaśram kṛtvā karaṇīmadhye śańkavaḥ sa samādhih |
-  2.3 karaṇī tatkaraṇī tiryaṁmānī pārśvamānyakṣṇayā ceti rajjavaḥ |
-  2.4 padam tiryañmānī tripadā pārśvamānī tasyākṣṇyā rajjurdaśakaraṇī | 2.5 evam dvipadā tiryaǹmānī ṣaṭpadā pārśvamānī tasyākṣṇayā rajjuścatvār- imśatkarani /
-  2.6 upadiṣṭam yugapramāņam samyāpramāṇam ca darśanāt |
-  2.7 dirgha caturaśrasyākṣṇayā rajjustiryaṁmānī pārśvamānī ca yatpṛthag- bhūte kurutastadubhayam karotīti kṣetrajñānam |
-  2.8 samacaturaśrasyākṣṇayā rajjurdvikarani |
-  2.9 karaṇīm trtiyena vardhayettacca svacaturthenātmacatustrimśonena saviśeṣa iti višeṣaḥ' /
-  2.10 pramāṇam tiryak dvikaraṇyāyāmastasyākṣṇayā rajjustrikaraņi |
-  2.11 trtiyakaraṇyetena vyākhyātā | pramāṇavibhāgastu navadhā karaṇītṛtīyam navabhāgaḥ | navabhāgāstrayastṛtiyakaraṇi |
-  2.12 sautrāmaṇyām prakramārthā | tṛtīyakaraṇī samāsārthā |
-  2.13 tulyapramāṇānām samacaturasrāṇāmuktaḥ samāsaḥ | nānāpramāṇa- samāse hrasīvasaḥ karaṇyā varṣīyaso’pacchindyāttasyākṣṇayā rajjurubhe samasyatīti samāsaḥ |
-  3
-  3.1 caturaśrāccaturasram nirjihirşan yāvannirjihirṣettāvadubhayato' pacchidya śankūs nikhāya pārśvamānīm kṛtvā pārśvamānīsammitāmakṣṇayām tatropasam- harati, sa samāse' pacchedaḥ, sā karaṇyeṣa nirhrāsaḥ |
-  3.2 dirghacaturaśram samacaturaśram cikirşan madhye tiryagapacchidyānyata- radvibhajyetaratpurastāddakṣiṇataścopadadhyāccheṣamāgantunā purayettasyokto
-  nirhrāsaḥ |
-  3.3 atidirgham cettiryanmānyāpacchidyāpacchidyaikasamāsena samasya śeṣam yathayogamupasamharedityekaḥ samāsaḥ |
-  3.4 samacaturasram dirghacaturasram cikirşan madhye' kṣṇaya' pacchidya tacca vibhajyānyataratpurastāduttarataścopadadhyādviṣamam cedyathāyogamu- pasamharediti vyāsaḥ |
-  3.5 pramāṇam caturaśramādeśādanyat |
-  3.6 dvipramāṇā catuḥkaraṇī tripramāņa navakaraṇī catuḥpramāṇā ṣoḍa- śakaraṇī |
-  3.7 yāvatpramāṇā rajjurbhavati tāvantastāvanto vargā bhavanti tānsamasyet |
-  6 caturasrasyākṣṇayā, P.
-  7iti višeṣaḥ, P omits.
-  • sankum, P.
-  • P omits.
-  56
-  KATYAYANA-SULBASŪTRA
-  3.8 ardhapramāṇena pādapramāṇam vidhiyate | tṛtiyena navamo' mśaḥ | caturthena1oṣoḍaśī kalā |
-  3.9 eșa nirhrāsastasya purastāduktam śāstram |
-  3.10 yāvatpramāṇā rajjurbhavatīti vivṛddhe hrāso bhavati |
-  3.11 caturasram maṇḍalam cikirşanmadhyādamse nipātya pārśvataḥ parilikhya tatra yadatiriktam bhavati tasya tṛtiyena saha maṇḍalam parilikhet sa samādhih |
-  3.12 maṇḍalam caturaśram cikirşan viskambham pañcadaśabhāgān kṛtvā dvāvuddhareccheṣaḥ karani |
-  4
-  4.1 dronacidrathacakracitkankacitpraugacidubhayataḥ praugaḥ samuhya- purişa ityagnayaḥ | 4.2 drone yāvānagniḥ sapakṣapucchaviśeṣastāvaccaturaśram kṛtvā droṇadaśa- mavibhāgo vṛnt1amityeke | taddaśamenāpacchidyāpacchidyaikasamāsena samasya nirhṛtya sarvamagnim tathākṛtim kṛtvā purastātpaścādvopadadhyāt| maṇḍale' pyevam |
-  4.3 prauge yāvānagniḥ sapakṣapucchaviśeṣastāvaddviguṇam caturaśram kṛtvā yaḥ purastātkaraṇīmadhye śaňkuryau ca śronyoḥ so 'gniḥ |
-  4.4 ubhayataḥ prauge tăvadeva dīrghacaturaśram kṛtvā karaṇīmadhyeṣu1a śaňkavaḥ sa samādhiḥ |
-  4.5 praugam caturaśram cikirşanmadhye prāñcamapacchidya viparyasye13tarata upadhāya dīrghacaturaśrasamāsena samasyet sa samādhiḥ |
-  4.6 ubhayataḥ praugam cenmadhye tiryagapacchidya pūrvavatsamasyet | 4.7 etenaiva trikarṇasamāso vyākhyātaḥ | pañcakarṇānām ca | prauge' pacchi- dyaikakarṇānāṁ1a | dvikarṇānām samacaturaśre 'pacchidya1 |
-  5
-  5.1 uttareșu puruṣoccayenaikaŝatavidhādityetadvakṣyāmaḥ| 5.2 adyo 'gnirdviguṇastriguno bhavatīti sarvasamāsaḥ |
-  5.3 ekavimśatividho bhavatiti puruṣābhyāsaḥ1⁄4 |
-  5.4 puruṣābhyāse yāvānagniḥ sapakṣapucchaviśeṣastāvaccaturaśram kṛtvā tas- minpuruṣapramāṇamavadadhyāt1 |
-  10 Saturthena, P.
-  11 vṛtta, P.
-  12 -madhye, P.
-  13 viparyasyotarat, P.
-  14 -ekakarṇānām, P omits.
-  15 P. omits dvikarṇānāṁ samacaturasre' pacchidya.
-  18 puruṣobhyāsaḥ, P.
-  17 upadadhyat, P.KATYAYANA-SULBASŪTRA
-  57
-  5.5 samastam pañcadaśabhāgānkṛtvā dvāvekasamāsena samasyet sa puruṣaḥ | 5.6 pañcavibhāgena bṛhati tasya daśamavibhāgena pādamātrī bhavati1s | 5.7 puruṣam vā pañcamenobhayato 'pacchidya pañcavibhāgan samasya tṛtīyam nirhṛtya tasmin purușapramāne 'vadadhyādityaparam
-  5.8 pañcadaśavibhāgo 'ṣṭāngulam |
-  5.9 pañcāratnirdaśavitastirvimśatiśatāngulaḥ puruṣa ityetasmād1 dvādaśāñ- gulam padamiti20 ca21 /
-  5.10 puruṣam vā sapta22menobhayato 'pacchidya saptabhāgān samasya sasapta- mabhāgamangulam nirhṛtya purușapramāṇe 'vadadhyādityaparam |
-  5.11 nāratnivitastīnām samāso vidyate samkhyāyogāditi śruteḥ |
-  6
-  6.1 yathāgni vedīṣṭakāpramāņam varddhata ityetadvakṣyāmaḥ |
-  6.2 yā karaṇī caturdaśaprakramānsankṣipati trimśca prakramasaptamabhāgān sa ekaśatavidhe prakramaḥ |
-  6.3 dvitiye vā saptasu prakrameşu prakramamavadhāya tasya saptama- bhāgena prakramārthaḥ |
-  6.4 prakrameņa vā saptamabhāgena prakramārthaḥ23 |
-  6.5 evam2 aikaśatavidhāt |
-  6.6 nāntaḥpātyagārhapatyayorvṛddhirbhavati tāvadeva yonirbhavati na vai jātam garbham yoniranuvardhata iti śrutervṛddheratyantam pratiṣedhaḥ | 6.7 yāvatpramāṇāni samacaturaśrānṇyekīkartum cikīrṣedekonāni tāni bhavanti tiryagdviguṇānyekata ekādhikāni tryasrirbhavati tasyeṣustatkaroti |
-  6.8 yathayupam vedivarddhanamityetadvakṣyāmaḥ |
-  6.9 yā rajjurekādaśoparavān sankṣipati daśa ca rathākṣāmstasyā yaścatur- vimśo bhāgaḥ sa prakramaḥ |
-  6.10 tena vedim nirmāya25 dvādaśāñgulam purastādapacchidya tadyūpāvaṭyā- cchankoḥ purastātprāñcamavadhāya tasmin yūpānminoti |
-  6.11 pārśvayorvā 'rdhamantarvedīti śruterarddhakāniti | 6.12 eke prathamottamau prakṛtivat |
-  6.13 saiṣā śikhaṇḍinī vediḥ26 |
-  18 P. omits tasya daŝamavibhāgena pādamātrī bhavati.
-  19 P. omits ityetasmād.
-  20 P gives after padam, purușamityetasmātpuruṣādvijñeyam.
-  21 P. omits ca.
-  22 pañcamena, P.
-  23 P. gives á in place of prakramārthaḥ.
-  24 P. omits evam.
-  25 P. gives mithunam yāvat yad in place of nirmāya.
-  26 P. omits saiṣā sikhaṇḍinī vediḥ.
-  MANAVA-SULBASÛTRA
-  1
-  1.1 athātaḥ śulbam vyākhyāsyāmaḥ |
-  1.2 rajjum pāśavatīm samām nirāyatām pṛṣṭhyām yathārthamupakalpayet | 1.3 antarena citrāsvātī śravaṇapratiśravaṇau kṛttikāpratikṛttike tiṣyapu- narvasu ca prāgdeso'yam yugamatroditayoḥ pāśāñca |
-  1.4
-  dārśikyāḥ śayāḥ ṣaṭṭāni1 sapta saptadaśaiva tu |
-  ekam dve pañca tairmītvā samaraiḥ parilekhayet ||
-  1.5 amsacchronau rajjvantam pratiṣṭhāpya prācīm2anulikhedamse pratiṣṭhāpya pratīcīm samare rajjvantam pratiṣṭhāpya śroṇeradhyaṇsādanulikhet | 1.6 evamuttarataḥ purastātpaścācca |
-  1.7
-  1.8a
-  1.8b
-  aratniścaturaśrastu pūrvasyāgneḥ kharo bhavet | rathacakrākṛtiḥ paścāccandrārdhena tu dakṣine ||
-  madhyāt koṭipramāṇena maṇḍalam parilekhayet | atiriktatribhāgena sarvam tu sahamaṇḍalam || caturaśre' kṣṇayā rajjurmadhyataḥ samnipatayet | parilekhya3 tadardhenārdhamaṇḍalameva tat ||
-  1.9 gārhapatyāhavanīyāvantarā rajjum nimāyāparasmimstṛtīye lakṣaṇam | madhyāt turīyamutsṛjya lakṣaṇam pāśāntau samāhṛtya dakṣiṇato dakṣiṇā- gnerlakṣaṇam /
-  1.10 etadeva viparyasyottarata utkarasya lakṣaṇam |
-  1.11
-  1.12
-  2.1
-  2.2
-  2.3
-  1 şaṣṭāni, N.
-  yāvatpramāṇā rajjuḥ syātṭāvadevāgamo bhavet | agamardhe bhavecchankuḥ śankorardhe nirāñchanam | samantacaturaśrāṇi vidhireṣaḥ prakirtitaḥ |
-  2
-  aṣṭāśītiḥ śatamīṣā tiryagakṣaścatuḥśatam şaḍaśitiryugam casya rathaścārakya uccyate || īṣāyām lakṣaṇam mītvā ṣaṭsu navasu ca lakṣaṇe | tricatvārimśake pāśo' ngulānām niyogataḥ || eṣā vediḥ samākhyātā cārakyaa rathasaṇmitā | aindrāgnasya paśoreṣā paśuṣvanyeṣu ṣaṭśayā ||
-  2 prăcinamu-in L, N, ASB.
-  3 parilekhyasta--, not in L, N, ASB.
+numbering has been given within parenthesis in the text.
+1 D. begins with atha yogāntaram.
+2 āyāmaśca, BK.
+3 D. omits.
+4 D. omits.
+5 MU omits.
+6 sa viseṣaḥ, MU.
+BK, MU.
+8 -madhyamayośca, MU.
+9 śańkum, MU
+10 MU ins. Sankum after -pāyamya.
+40
+APASTAMBA-SULBASŪTRA
+2
+13
+2.1 athāparoyogaḥ | prṣṭhyāntayormadhye ca śankūn11 nihatyārdhe12 tadviseṣamabhyasya lakṣaṇam kṛtvārdhamāgamayet | antayoḥ13 pāśau kṛtvā madhyame saviseṣam pratimucya pūrvasminnitaram lakṣaṇena dakṣiṇamamsa- māyacchet | unmucya pūrvasmādaparasminpratimucya lakṣaṇenaiva dakṣiņām śroṇīmāyacchet | evamuttarau śroṇyamsau |
+2.2 pramāņam tiryagdvikaraṇyāyāmastasyākṣṇayārajjustrikaraṇī |
+2.3 tṛtiyakaranyetena vyākhyāta | vibhāgastu navadhā |
+2.4 tulyayoścaturaśrayoruktassamāsaḥ | nānā pramāṇayoścaturaśrayossa- māsaḥ | hrasiyasaḥ karaṇyā varṣiyaso vṛdhram1 ullikhet | vṛdhrasyākṣṇa- yārajjurubhe samasyati | taduktam /
+15
+2.5 caturaśraccaturaśram nirjihīrṣan yāvannirjihirṣettasya karaṇyā varṣiyaso13 vṛdhramullikhet | vṛdhrasya pārśvamānīmakṣṇayetaraṭpārśvamupasamharet | sā yatra nipatettadapacchindyāt | chinnayā nirastam |
+16
+2.6 upasamhṛtā akṣṇayārajjussā catuṣkaraṇī chinnā cetarā ca yatpṛthagbhūte kurutaḥ tadubhayam karoti | tiryañmānī puruṣam seṣastrīn16 | taduktam |
+2.7 dirghacaturaśram samacaturasram cikīrṣan tiryañmānya apacchidya sesam vibhajyobhayata upadadhyāt | khaṇḍamāgantunā sampūrayet | tasya nirhāra1 uktaḥ |
+3
+3.1 samacaturaśram dirghacaturasram cikirşan yāvaccikīrṣet tāvatīm pārśvamānīm kṛtvā yadadhikam syāttadyathā18 yogamupadadhyāt |
+3.2 caturasram mandalam cikirşan madhyātkoṭyām nipatayet | pārsvataḥ parikṛṣyātiśayatṛtiyena saha maṇḍalam parilikhet | sā nityā19 maṇḍalam20 jāvaddhiyate tāvadāgantu |
+11 śankum, MU, S.
+12 ardhe repeated in MU.
+13 antyayoḥ, MU, D.
+14 urddhram-, D, MU.
+15 MU omits.
+16
+-strim, BK.
+17 nirhāsa, MU
+18 tad, not in MU.
+19 Thus BK, MU; sānityā, according to comm.
+20 S. omits,
+APASTAMBA-SULBASUTRA
+41
+3.3 maṇḍalam caturaśram cikirşan viskambham pañcadaśabhāgānkṛtvā dvāvuddharet | trayodaśāvasiṣyante | sanityā11 caturaśram [.
+3.4 pramāṇena pramāṇam vidhiyate |
+3.5 caturasram22 adeśadanyat |
+3.6 dvābhyām catvāri | tribhirnava |
+1
+3.7 yāvatpramāṇā rajjustāvatastāvato vargān karoti | tathopalabdhiḥ |
+3.8 adhyardhapuruṣā rajjurdvau sapādau23 karoti | ardhatṛtīyapuruṣā ṣaṭ sapādān |
+3.9 athātyanta pradeśaḥ24 | yāvatā yāvatā25 'dhikena parilikhati tatpār- śvayorupadadhāti | yacca tena caturasram kryate tatkoṭyām |
+3.10 ardhapramāṇena pādapramāṇam vidhīyate | ardhasya dvipramāṇāyāḥ pādapūraṇatvāt | tṛtīyena navami kalā |
+4
+4.1 agnyādheyike vihāre gārhapatyāhavanīyayorantarāle vijñāyate | aṣṭāsu prakrameşu brāhamano' gnimādadhīta | ekādaśasu rājanyaḥ | dvādaśasu vaiśyaḥ |
+4.2 caturvimśatyāmaparimite26 yāvatā vā cakṣuṣā manyate tasmānnā- tidūramādheya iti sarveṣāmaviseṣeṇa śrūyate |
+4.3 dakṣinataḥ purastādvitṛtiyadese garhapatyasya nediyasi dakṣiņā- gnervijñāyate/
+4.4 garhapatyāhavanīyayorantarālam pañcadhā ṣaḍdhā vā samvibhajya27 şaştham saptamam vā bhāgamāgantumupasamasya28 samam traidham vibhajyāparasmimstṛtiye lakṣaṇam kṛtvā gārhapatyāhavanīyayorantau niyamya lakṣaṇena dakṣiṇāpāyamya nimittam karoti | taddakṣiṇāgnerāyatanam | śrutisāmarthyāt |
+4.5 yajamānamātrī prācyaparimitā vā yathāsannāni havīmṣi sambhavedevam tiraściprāñcau vedyamsāvunnayati | pratīcī śroņi | purastādamhīyasī paścāt- prathiyasi madhye samnatataraivamiva hi yoṣeti dārśikyā vedervijñāyate |
+21 Thus MU; să nityā, BK.
+22
+caturasram, not in MU.
+23 savādau, MU.
+24 prādeśaḥ, D.
+25 jāvatā once in D.
+26
+aparicite, MU.
+27 sambhujya, BK.
+26 Thus MU & most Mss; upasamasyāgantu-, BK.
+42
+APASTAMBA-SULBASŪTRA
+4.6 apareṇāhavanīyam yajamānamātram2o
+dirghacaturasram30 viḥrtya tāvatīm rajjumabhyasyası madhye lakṣaṇam kṛtvā dakṣinayoḥ śronyamsayo- rantau32 niyamya lakṣaṇena dakṣiṇāpāyamya nimittam karoti | nimitte rajjum niyamyāntau samasyet | dakṣiṇāyāḥ śroṇerdakṣinamamsamālikhet | evamuttarataḥ tiryañmānīm dviguṇām tathā kṛtvā paścātpurastāccopalikhets | vimitāyām purastāt pārśvamānyā upasamharet | śrutisāmarthyāt |
+5
+5.1 trimsatpadāni prakramā vā paścāttiraści bhavati şaṭtrimśatprācī caturvimśatiḥ purastāttiraścīti saumikyā vedervijñāyate |
+5.2 ṣaṭtrimśikāyāmaṣṭādaśopasamasya aparasmādantāddvādaśasu lakṣaṇam pañcadaśasu lakṣaṇam pṛṣṭhyāntayorantau niyamya pañcadaśikena35 dakṣiṇāpāyamya śańkum nihantyevamuttarataste3 śroṇī | viparyasyāṇsau37 pañcadaśikes naivāpāyamya" dvādaśike sankum nihanti | evamuttaratastā- vamsau tadekarajjvā viharaṇam [
+5.3 trikacatuşkayoḥ pañcikā kṣṇayārajjuḥ | tābhistrirabhyastābhiramsau | caturabhyastābhiḥ śroņi |
+5.4 dvādaśikapañcikayostrayodaśikā kṣṇayārajjuḥ tābhiramsau dvira- bhyastābhiḥ śroṇī
+5.5 pañcadaśikāṣṭikayoḥ saptadaśikā
+kṣṇayārajjuḥ tābhiḥ śroņi | dvādaśikapañcatrimśikayossaptatrimśikā kṣṇayārajjuḥ tābhiramsau |
+5.6 etāvanti jñeyāni vediviharaṇāni bhavanti |
+5.7 aṣṭāvimśatyūnam padasahasram mahāvediḥ | dakṣiņasmādamsāddvādaśasu dakṣinasyām śroṇyām nipatayet | chedam viparyasyetarata1 upadadhyāt | sā dirghacaturaśră | tatha yuktām samcakṣita |
+5.8 saumikyā veditṛtīye“ yajeteti sautrāmaṇyā vedervijñāyate“ | prakramasya tṛtīyakaraṇī prakramasthāniyā bhavati | trikaraṇyā vā aṣṭika daśike tiryaǹmānyau
+29 yajamānamātrī, MU.
+30 dīrgham caturaśram, MU.
+31
+ȧyamya, MU.
+32 -antară, MU.
+33
+samasya, BK.
+34 Thus in D, Gr, MU, BK. parilikhet, S.
+35 pañcadaśakena, MU.
+36 te not in MU.
+*7 viparyastayāṇsau, MU.
+38-daśakena, MU.
+39
+-apāyamya, not in D.
+40 -syottarata, MU; -sya-ttarata, S.
+41 vederbitṛtīyadese, MU.
+42 veder-, not in BK.
+APASTAMBA-SULBASUTRA
+43
+|
+dvādasikā prṣṭhya (5.8) | trīņi caturvimśāni padaśatāni sautrāmaṇiki vediḥ | (5.9) /
+6
+6.1 dvistāvā13 vedirbhavatityaśvamedhe vijñāyate | (5.10) | prakramasya dvikaraṇī prakramasthānīyā bhavati | (6.1) /
+6.2 prakramo dvipadastripado vā | prakrame yathākāmī śabdārthasya viśa- yitvāt | yajamānasyādhvaryorvā | eṣa hi ceṣṭānām kartā bhavati |
+6.3 rathamātrī niruḍhapaśubandhasya vedirbhatīti vijñāyate | tatra11 khalvāhūrathākṣamātrī paścāttiryagīṣayā prācī | vipathayugena purastāt | yāvatā vā15 bāhye chidre |
+6.4 tadekarajjvoktam | pañcadaśikenaivāpāyamyārdhākṣeṇārdhayugeneti śroṇyamsannirharet |
+6.5 athāpyudāharanti | aṣṭāśītiśatamīṣā tiryagakṣaścatuśśatam ṣaḍaśītiryugam cāsya saa rathaścāraṇa ucyate | iti rathaparimāṇam |
+6.6 aratnibhirvā caturbhiḥ paścāt ṣaḍbhiḥ prācī tribhiḥ purastāt |tadekarajj- voktam pañcadaśikenaivāpāyamya dvābhyāmadhyardheneti śroṇyamsānnirharet| 6.7 yajamānamātrī catuḥsraktirbhavatīti paitṛkyā vedervijñāyate | tadekarajj- voktam pañcadaśikenaivāpāyamyārdhena tataśśroṇyaṇsānnirharet18 |
+6.8 daśapadottara1vedirbhavatiti some vijñāyate | tadekarajjvoktam pañca- daśikenaivāpāyamyārdhena tataśśroṇyamsānnirharet |
+6.9 tām yugena yajamānasya vā padairvimāya śamyayā parimimīte |
+•
+6.10 pade yuge' ratnāviyati śamyāyām ca mānārtheṣu yathākāmī1 śabdār- thasya viśayitvat
+6.11 vimitāyām purastātpārśvamānyā52 vupasamharet | śrutisāmarthyāt |
+7
+7.1 navāratni tiryaksaptavimśatirudagāyatamiti sadaso vijñāyate | (7.1) |
+4a dvistāvān, Gr.
+44 tasya, MU.
+45 Missed in D.
+46-iti, not in MU.
+47 Not in MU.
+48 Not in S.
+49 -dottară, MU.
+50 Not in S.
+51 yāthākāmī, BK.
+52 -mānyā upasam-, MU.
+44
+APASTAMBA-SULBASUTRA
+aṣṭādaśetyekeṣām | (7.2) | tadekarajjvoktam pañcadaśikenaivāpāyamyārdha- pañcamaiḥ śroṇyamsānnirharet | (7.3) /
+53
+7.2 prādeśamukhāḥ prādeśāntarālā bhavantītyuparavāṇām vijnāyate | aratni- mātram caturaśram vihṛtya sraktiṣu śankūnnihatyārdhaprādesena tam54 parili- khet śrutisāmarthyāt | (7.4) |
+7.3 vyāyāmamātrī bhavatīti gārhapatyacitervijñāyate | (7.5) | catura- śretyekeṣām | parimaṇḍaletyekeṣām | (7.6) |
+7.4 karanam vyāyāmasya tṛtīyāyāmam saptama55vyāsam kārayet | (7.7) / tā ekavimśatirbhavanti | (7.8) | prāgāyāmāḥ prathame prastāre' parasminnu- dagāyāmāḥ (7.9) /
+7.5 maṇḍalāyām mṛdo deham kṛtvā madhye śankum nihatyārdhavyāyāmena saha mandalam parilikhet | tasminścaturaśramavadadhyādyāvatsambhavetta- nnavadhā vyavalikhya traidhamekaikam pradhikam vibhajet | (7.10) / 7.6 upadhāne caturaśrasyāvāntaradeśānprati sraktīssampādayet | madhyāni- tarasmin5prastāre | vyatyāsam cinuyādyāvataḥ prastārāṇścikīrṣet | (7.11) / 7.7 piśīlamātrā bhavantīti dhiṣṇyānāṁ3 vijñāyate | (7.12) | caturaśrā ityekeṣām | parimaṇḍalā ityekeṣām / (7.13) /
+58
+7.8 mṛdo dehānkṛtvā āgnīdhrīyam navadhā vyavalikhya ekasyāssthāne' śmānamupadadhyāt | (7.14) | yathāsamkhyamitarān59 vyavalikhya yathāyo- gamupadadhyāt | (7.15) /
+8.1
+8
+bhavatīva khalu vā eṣa“ yo'gnim cinutaa1 iti vijñāyate | vayasām vā eṣa pratimayā cīyata ityākṛticodanā2 pratyakṣavidhānādvā |
+63
+8.2 yāvadāmnātenao veņunā catura ātmani puruṣānavamimīte | puruṣam dakṣine pakṣe puruşam pucche purușamuttare | aratninā dakṣiņato dakṣinam
+53 -pañcakai, D; -pañcamí, Gr. ; -pañcame, S.
+54 Repeated in MU, BK.
+55 saptavyāsam, D.
+56 -nitasmin-. D.
+57 dhiṣṇiyānām, BK.
+58 -syā, S; -sya, Gr.
+59 -itară, MU.
+60 Not in D
+61 cinute, MU.
+62 codonát, MU, Gr.
+63 āmnānena, MU, Gr.
+63 caturasre, MU.
+ĀPASTAMBA-SULBASŪTRA
+45
+pakşam vardhayati1 | evamuttarata uttaram | prādeśena vitastyā vā paścāt puccham /
+8.3 ekavidhaḥ prathamo' gnirdvividhaḥ dvitiyastrividhastṛtiyaḥ | ta evameva ādyantyaikaśatavidhāt |
+8.4 tadu ha vai saptavidhameva cinvita | saptavidho vāva prākṛto'gniḥ | tata ūrdhvamekottarāniti vijñāyate |
+8.5 ekavidhaprabhṛtīnām na pakṣapucchāni bhavanti | saptavidhavākyaśeṣa- tvācchrutivipratiṣedhācca |
+8.6 aṣṭavidhaprabhṛtīnām yadanyatsaptabhyastatsaptadhā vibhajya pratipu- ruṣamāveśayet | ākṛtivikārasyāśrutatvāt |
+8.7 puruṣamātreņa vimimīte veņunā vimimīte iti vijñāyate |
+9
+9.1 yāvānyajamāna ūrdhvabāhustāvadantarāle venośchidre karoti madhye trtiyam apareṇa yūpāvaṭadeśamanuprṣṭhyam venum nidhāya chidreṣu sankun nihatya unmucyāparābhyām dakṣiņāprākparilikhede antāt | unmucya pūrvasmādaparasmin"pratimucya dakṣiņā pratyakparilikhedantāt | (8.8) / unmucya veņum madhyame śañkāvantyam venośchidram pratimucyoparyu- parilekhāsamaram dakṣiņā veņum nidhāyāntye chidre sankum nihatya tasminmadhyamam veṇośchidram pratimucyass lekhāntayoritare pratiṣṭhāpya chidrayośśankū nihanti | saoo purușaścaturaśraḥ | (9.1) /
+9.2 evam pradakṣiṇam catura” ātmani puruṣānavamimīte | puruṣam dakṣiņe pakṣe puruşam pucche puruşamuttare | aratninā dakṣiņato" dakṣiņamityuktam | 9.3 pṛṣṭhyāto vā puruṣamātrasyākṣṇayā veņum nidhāya pūrvasminnitaram | tābhyām dakṣiņam amsam nirharet | viparyasya śroṇī | pūrvavaduttaramamsam | 9.4 rajjvā vā vimāyottaravedinyāyena veņunā vimimīte 72 |
+9.5 sapakṣapuccheșu vidhābhyāse' pacaye ca vidhāsaptamakaraṇīm puru- ṣasthānīyām kṛtvā viharet |
+64 pravardhayati, BK.
+65 fankum, S, Gr.
+66 āntāt, MU.
+67 aparasmin, not in D.
+68 Not in Gr.
+69 Not in Gr.
+70 caturasra, D, Gr.
+71 Not in D.
+72 mimīte, Gr.
+46
+APASTAMBA-SULBASŪTRA
+9.6 karaṇānīṣṭakānām puruṣasya pañcamena kārayet | tāsāmevaikato' dhyar- dhāstaddvitiyam | paruṣasya pañcamo bhāga ekataḥ prādeśa ekataḥ tattṛtīyam sarvataḥ prādeśastaccaturtham | samacaturaśrāḥ pañcadaśabhāgiyāstaṭpañca- mam /
+9.7 ūrdhvapramāṇamiṣṭakānām jānoḥ pañcamena kārayedardhena nākasadām pañcacoḍānām "ca |
+74
+9.8 yaṭpacyamānānām pratihraseta puriṣeņa tatsampurayedaniyatapari- māṇatvāt purīṣasya |
+10
+10.1 upadhāne' dhyardhā daśa purastāt pratīcīrātmanyupadadhāti | daśa paścātprācīḥ | pañca pañca pakṣāgrayoḥ | pakṣāpyayayośca viśayāḥ tāsāmar- dheṣṭakāmātrāṇi pakṣayorbhavanti | pañca pañca" pucchaparśvayordakṣiņā | udiciśca/
+10.2 pucche prādeśamupadhāya sarvamagnim pañcamabhāgiyābhiḥ pracchā- dayet /
+10.3 pañcadaśabhāgiyābhiḥ samkhyām pūrayet |
+10.4 aparasminprastāre' dhyardhā daśa dakṣiṇata udīcīrātmanyupadadhāti | daśottarato dakṣiņā | yathā prathame prastāre pakṣau tathā puccham | yatha puccham tathā pakṣau | viparītā apyaye |
+10.5 sarvamagnim pañcamabhāgiyābhiḥ pracchādayet |
+10.6 pañcadaśabhāgīyābhiḥ samkhyām pūrayet | vyatyāsam cinuyādyāvataḥ prastārāmścikīrṣet |
+10.7 pañca citayo bhavanti | pañcabhiḥ purīṣairabhyūhatīti purīṣāntā citiḥ arthāntaratvātpuriṣasya |
+10.8 jānudaghnam” sāhasram” cinvīta prathamam cinvānaḥ | nābhidaghnam76 dviṣāhasram dvitīyamāsyadaghnam triṣāhasram tṛtīyamuttaramuttaram jyāyām- sam | mahāntam bṛhantamaparimitam svargakāmaścinviteti vijñāyate |
+10.9 dviṣāhasre dviprastārāścitayo bhavanti | triṣāhasra triprastārāścaturtha- prabhṛtişvāhāreşu nityamiṣṭakāparimāṇam /
+10.10 vijñāyate ca na jyāyāmsam citvā kanīyāmsam cinviteti18 |
+73 pañcacūḍānām, MU.
+7a pratihrasīta, MU ; pratihraset, D.
+75 Once in S.
+76 -daghnīm, MU.
+77 Missed in D.
+78 This whole line not in Gr.ĀPASTAMBA-ŚULBASŪTRA
+11
+47
+79
+11.1 caturaśrābhiragnim cinuta iti vijñāyate | samaċaturaśrā anupa 80- padatvācchabdasya |
+11.2 pādamātryo bhavanti aratnimātryo bhavantyūrvasthimātryo bhavantyaṇ- ūkamātryo bhavantīti vijñāyate |
+11.3 caturbhāgiyamaṇūkam | pañcamaa1bhāgīyāratniḥ | tathorvasthi |
+11.4 pādeṣṭakā pādamātrī | tatra jathākāmī śabdārthasya viśayitvāt | 11.5 upadhāne'ṣṭāvaṣṭau pādeṣṭakāścaturbhāgīyānāṁ pakṣāgrayornidadhyāt | sandhyośca tadvadātmānam ṣaḍangulāvetāḥ 82 | śroṇyamseṣu caṣṭau prācīḥ pratīcīśca |
+11.6 sandhyantarāle pañcabhāgiyāssapādāḥ83 |
+11.7 pucche prādeśamupadhāya sarvamagnim caturbhāgīyābhiḥ pracchādayet | 11.8 pādeṣṭakābhiḥ samkhyām pūrayet |
+11.9 aparasminprastāre pucchāpyaye pañcamabhāgīyāa1 viśayāḥ | tā ātmani caturdaśabhiḥ pādairyathayogam upadadhyāts |
+11.10 sarvamagnim pañcamabhāgiyābhiḥ1 pracchadayet |
+11.11 pādeṣṭakābhiḥ samkhyām pūrayet | vyatyāsam cinuyādyāvataḥ prastā- rāmścikīrṣet/
+12
+12.1 ekavidhaprabhṛtīnām karaṇīnām dvādaśena trayodaśenetīṣṭakāḥ kārayet | pādeṣṭakāśca | vyatyāsam cinuyādyāvataḥ prastārāmścikīrṣet |
+12.2 ekavidhaprabhṛtīnām prathamāhāreņa dvitiyena tṛtīyeneti yoyujyeta | sarveṣām yathā śrutisamkhyā tathordhvapramāṇam |
+12.3 kāmyā guṇavikārāḥ guṇaśāstratvāt |
+12.4 praugam 85 cinvita bhrātṛvyavāniti vijñāyate |
+12.5 yāvānagniḥ sāratniprādeśo dvistāvatīm bhūmim caturaśrām kṛtvā pūrvasyāḥ karaṇyā ardhācchroṇīs pratyālikhet | sā nityā praugam |
+79 cinvite, D.
+80 anupadatvāc, D.
+81 pañcabhāgiyāḥ, D.
+82 şaḍangulopetāḥ, BK.
+83 Only pādāḥ, D.
+84
+baryupa- BK.
+85 praugacitam BK.
+36 -chroṇīm MU.
+48
+ĀPASTAMBA-SULBASŪTRA
+12.6 karaṇāni cayanamityekavidhoktam | praugā iṣṭakāḥ kārayet |
+12.7 ubhayataḥ prcugam cinvita yaḥ kāmayeta prajātān bhratṛvyānnudeya pratijaniṣyamāṇāniti vijñāyate |
+12.8 yathā vimukhe śakaṭe | (12.8) | tāvadeva dirghacaturaśram vihṛtya purvāparayoḥ karaṇyorardhāttāvati dakṣinottarayornipātayet | sā88 nityobha- yataḥ praugam | (12.9) | praugacitoktam | (12.10) /
+12.9 rathacakracitam cinvīta bhrātṛvyavāniti vijñāyate | (12.11) / 12.10 yāvānagniḥ sāratniprādeśastāvatīm bhūmim parimaṇḍalām kṛtvā tas- mimścaturaśramooavadadhyādyāvatsambhavet | (12.12) /
+13
+13.1 tasya karaṇyā dvādaśeneṣṭakāḥ kārayet |
+13.2 tāsām ṣatpradhāvupadhāya śeṣamaṣṭadhā vibhajet |
+13.3 upadhāne caturaśrasyāvāntaradeśān pratisraktīssampādayet | madhyānī- tarasmin prastāre | vyatyāsam cinuyādyāvataḥ prastārāmścikīrṣet |
+13.4 dronacitam cinvītānnakāma iti vijñāyate |
+13.5 dvayāni tu khalu droṇāni caturaśrāņi parimaṇḍalāni ca |
+13.6 tatra yathākāmi śabdārthyasya viśayitvāt |
+13.7 caturasram vā yasya guṇaśāstram | (13.7) | sa caturaśraḥ | (13.8) / 13.8 paścāttsarurbhavatyanurūpatvāyeti vijñāyate | (13.9) /
+13.9 sarvasyā bhūmerdaśamam tsaruḥ tasya pucchena nirhāra uktaḥ | (13.10) /
+13.10 tasya karaṇyā dvādaśeneṣṭakāḥ kārayedadhyardhāḥ pādeṣṭakāśca | (13.11) /
+13.11 upadhāne' dhyardhāḥ purastātpratīcirātmanyupadadhāti | tsarvagre śronyośca prāciḥ | (13.12) /
+13.12 sarvamagnim caturaśrābhiḥ pracchādayet | (13.13) /
+13.13 pādeṣṭakābhiḥ samkhyām pūrayet | (13.14) /
+13.14 aparasminprastāre' dhyardhā dakṣiṇata udīcīrātmanyupadadhātyuttara- taśca dakṣiņāḥ | tsarupārśvayordakṣiņā udīcīśca | (13.15) /
+13.15 sarvamagnim caturaśrābhiḥ pracchādayet | (13.16) /
+87 dirgham caturasram MU.
+88 Not in MU.
+89 -caturam- MU.
+90 „pradhả upadhāya MU.
+ĀPASTAMBA-SULBASŪTRA
+49
+13.16 pādeṣṭakābhiḥ samkhyām pūrayet | (13.17) | vyatyāsaṇ cinuyādyāva- taḥ prastārāmścikīrṣet | (13.16) /
+14
+14.1 samuhyam cinvita paśukāma iti vijñāyate |
+14.2 samuhanniveṣṭakāo1 upadadhāti |
+14.3 dikṣu cātvālā bhavanti | tebhyaḥ puriṣamabh2yuhatīti vijñāyate | 14.4 paricayyam cinvīta grāmakāma iti vijñāyate |
+14.5 madhyamām svayamātṛṇṇām pradakṣiṇamiṣṭakāgaṇaiḥ paricinoti | s paricayyaḥ |
+14.6 upacāyyam cinvīta grāmakāma iti vijñāyate | (14.6) / paricāyyenoktaḥ | (14.7) /
+14.7 śmaśānacitam cinvīta yaḥ kāmayeta pitṛloka ṛdhnuyāmiti vijñāyate | (14.8) /
+14.8 dvayāni tu33 khalu śmaśānāni caturaśrāņi parimaṇḍalāni ca | (14.9) / 14.9 tatra yathākāmī śabdārthasya viśayitvāt | (14.10) /
+14.10 caturaśram vā yasya guṇaśāstram (14.11) / sa caturaśraḥ | tsaruvar- jam dronacitoktaḥ | (14.12) /
+14.11 chandaścitam cinvīta paśukāma iti vijñāyate | (14.13) /
+14.12 sarvaiśchandobhiścinuyādityekam | prākṛtairityaparam | (14.14) /
+15
+15.1 syenacitam cinvīta suvargakāma iti vijñāyate |
+15.2 vakrapakṣo vyastapuccho bhavati | paścātprāñudūhati | purastātpratya- nudūhatio1 | evamiva hi vayasām madhye pakṣanirṇāmo bhavatīti vijñāyate | 15.3 yāvānagniḥ sāratniprādeśaḥ saptavidhaḥ sampadyate | prādeśam catur- thamātmanaścaturbhāgīyāścāṣṭau | tāsām tisraḥ śiraḥ | itaratpakṣayorvibhajet | 15.4 pañcāratniḥ puruṣaḥ | caturaratnirvyāyāmaḥ | caturvimśatyańgulayo' ratniḥ | tadardham prādeśa iti klṛptiḥ |
+15.5 ardhadaśamā aratnayo' ǹgulayaśca caturbhāgona pakṣāyāmaḥ |
+91 -eveṣṭakā MU.
+92 -abhyudūhatīti MU.
+93 Not in MU.
+94 -udūhati not in D.
+50
+ĀPASTAMBA-SULBASŪTRA
+15.6 dvipuruṣām rajjumubhayataḥ pāśam karoti madhye lakṣaṇam | pakṣas- yaparayoḥ kotyorantau niyamya lakṣaṇena prācīnamāyacchedevam purastāt | sa nirṇāmaḥ | (15.6) | etenottaraḥ pakṣo | vyākhyātaḥ | (15.7) |
+15.7 ātmā dvipuruṣāyāmo' dhyardhapuruṣavyāsaḥ | (15.8) /
+15.8 pucche' rdhapuruṣavyāsam puruşam pratīcīnamāyacchet | tasya dakṣiņato' nyamuttarataśca | tāvakṣṇayā vyavalikhet | yatha' rdhapuruṣo' pyayesyāt | (15.9) /
+15.9 sirasyardhapuruşeṇa caturaśram kṛtvā pūrvasyāḥ karaṇyā ardhāttāvati dakṣinottarayor nipātayet | (15.10) /
+96
+16
+16.1 apyayān prati śroṇyamsānapacchindyāt | evamiva hi śyenaḥ |
+16.2 karaṇam puruṣasya pañcamāyāmam ṣaṣṭhavyāsam kārayedyathāyogana- tam tatprathamam |
+16.3 te dve prācī samhite | taddvitīyam |
+98
+16.4 prathamasya ṣaḍbhāgamaṣṭama''bhāgena vardhayet | yathāyoganatam • 8 tattṛtīyam |
+16.5 caturbhāgiyā' dhyardhā | tasyāścaṭurṛbhāgīyāmātramakṣṇayā bhindyāt" | taccaturtham |
+16.6 caturbhagiyārdham pañcamam |
+16.7 tasyākṣṇayā bhedaḥ ṣaṣṭham |
+16.8 puruṣasya pañcama1oobhāgam daśabhāgavyāsam pratīcīnamāyacchet | tasya dakṣiṇato' nyamuttarataśca | tāvakṣṇayā dakṣiṇāparayoḥ1o1 koṭyorāli- khet | tatsaptamam |
+16.9 evamanyat | uttaram tūttarasyāḥ koṭyālikhet tadaṣṭamam |
+16.10 caturbhāgiyākṣṇayobhayato bhedo navamam |
+16.11 upadhāne şaṣṭiḥ ṣastiḥ pakṣayoḥ prathama udicirupadadhyāt102 |
+16.12 pucchapārśvayoraṣṭāvaṣṭau şaşthyayastisro'gre tata ekām tatastis- raḥ tata ekām |
+95 pāśām MU.
+96 dakṣiņayor- MU.
+97 -aṣṭabhāgena MU.
+98 -natena BK.
+99 chindyat MU.
+100
+pañcabhāgam, D.
+101 dakṣinavarayoḥ, MU.
+102 -nirupadadhyāt, D, MU.
+را
+APASTAMBA-SULBASŪTRA
+51
+16.13 pucchapyaye caturthyau visaye | tayośca103 paścātpañcamyāvanīkasam-
+hite |
+17
+17.1 śeşe daśa caturthyaḥ śronyamseṣu căṣṭau prāciḥ praticiśca | 17.2 śeşe ca şaḍvimsatiraṣṭau şaşthyaścatasraḥ pañcamyaḥ | 17.3 sirasi caturthyau viśaye | tayośca purastātprācyau |
+17.4 eşa dviśataḥ prastāraḥ |
+17.5 aparasminprastāre pañca pañca nirṇāmayordviṭīyāḥ | apyayayośca tṛtīyā ātmānamaṣṭabhāgāvetāḥ1oa | śeṣe pañcacatvārimśat1o5prathamāḥ prāciḥ |
+17.6 pucchapārsvayoḥ pañca pañca saptamyaḥ | dvitiyacaturthyoścānyatarataḥ pratisamhitāmekaikām | śeṣe trayodaśāṣṭamyaḥ106 |
+17.7 śroṇyamseṣu căṣṭau caturthyo dakṣiņā udīcīśca | śeşe ca vimśatistrimśat şaṣṭhya ekam pañcamīm |
+17.8 sirasi caturthyau tayośca purastaccatasro navamyaḥ |
+17.9 eșa dviśataprastāraḥ |
+17.10 vyatyasam cinuyādyāvataḥ prastārāmścikīrṣet |
+18
+18.1 yenacitam cinvīta suvargakāma iti vijñāyate
+18.2 vakrapakṣo vyastapuccho bhavati | paścātprāñudūhati | purastātpratya- nudūhati | evamivahi vayasām madhye pakṣanirṇāmo bhavatīti vijñāyate | 18.3 puruşasya şoḍaśībhirvimśaśatam1o7 sāratniprādeśaḥ saptavidhaḥ sampad- yate | tāsām catvāriṛśadātmani tisraḥ śirasi pañcadaśa pucche ekatrimśaddak- şine pakse tathottare |
+18.4 adhyardhapuruṣastiryagdvāvāyāmata iti dīrgha108caturasram vihṛtya śronyamsebhyo dve dve şoḍaśyau nirasyet109 | catvārimśatparisiṣyante | sa ātmā | 18.5 sirasyardhapuruşena caturaśram kṛtvā pūrvasyāḥ karaṇyā ardhāttāvati dakṣinottarayornipatayet | tisraḥ parisisyante tacchiraḥ |
+18.6 purușastiryagdvāvāyāmataḥ ṣoḍaśabhāgaśca dakṣinaḥ pakṣaḥ | tatho- ttaraḥ |
+0
+18.7 pakṣāgrello puruşacaturthena catvāri caturaśrāṇi kṛtvā tānyakṣṇayā vyavalikhyārdhāni nirasyet | ekatrimśatpariśisyante |
+103 tayostu, MU.
+104 -bhāgopetāḥ, BK.
+105 Repeated in BK.
+106 This is followed by pucchadese trayodaśāṣṭamyaśśerate in MU, which appears to be part of
+the commentary.
+107 soḍaśabhirvimśam, MU.
+108 dīrgham,
+MU.
+109 vidṛsyet, D.
+110 Repeated in BK, D.
+52
+APASTAMBA-SULBASUTRA
+18.8 pakṣāgramutsṛjya madhye pakṣasya prācīm lekhāmālikhet | pakṣāpyaye puruşam niyamya puruṣānte nitodam kuryāt | nitodātprācīnam puruṣānte111 nitodam nitodayornānāntāvālikhet | tatpakṣa112namanam | etenottaraḥ pakṣo vyākhyātaḥ |
+19
+19.1 dvipuruşam paścādardhapuruşam purastaccaturbhāgonaḥ puruṣa āyāmo' ṣṭādaśakaraṇyau pārśvayostāḥ pañcadaśa parigṛhṇanti | tatpuccham | 19.2 ṣoḍaśīm caturbhiḥ parigṛhṇījāt | aṣṭamena tribhiraṣṭamaiścaturthena caturthasaviseşeneti /
+19.3 ardheṣṭakām tribhirdvābhyām caturthābhyām1113 catūrthasaviseṣeneti | 19.4 pādeṣṭakām tribhiścaturthenaikam caturthasaviśeṣārdhābhyām ceti | 19.5 pakṣeṣṭakāṇ caturbhirdvābhyām caturthābhyām saptamābhyām111 ceti | 19.6 pakşamadhyāyām caturbhirdvābhyām caturthābhyām dvisaptamābhyām ceti /
+19.7 pakṣāgrīvām tribhiścaturthenaikam caturthasaptamābhyāmekam caturtha- saviseṣasaptamabhyām ceti |
+115
+19.8 pakṣakaraṇyāḥ saptamam tiryañmānī puruṣacaturtham ca 115pārśvamānī | tasyākṣṇayārajjvā karaṇam prajṛmbhayet11/ pakṣanamanyāḥ saptamena phala- kāni namayet |
+19.9 upadhāne catasraḥ pādeṣṭakāḥ purastācchirasi | apareṇa śiraso'pyayam pañca | pūrveņa pakṣāpyayāvekādaśa | apareṇaikādaśa pūrveṇa pucchāpyayam pañcāpareņa pañca117 pañcadaśa pucchāgre |
+20
+20.1 catasraścatasraḥ pakṣāgrīyāḥ pakṣāgrayoḥ paksāpyayayośca viśayāḥ | 20.2 tā ātmani catasṛbhiścatasṛbhiḥ ṣoḍaśibhiryathayogam paryupada- dhyāt118/
+20.3 catasraścatasraḥ pakṣamadhyiyāḥ pakṣa madhyayoḥ | (20.3) | pakṣeṣ- ṭakābhiḥ prācībhiḥ pakṣau pracchādayet | (20.4) /
+20.4 avasiṣṭam ṣoḍaśibhiḥ pracchadayet | antyā bāhyaviseṣā anyatra sirasaḥ | (20.5) /
+111 Not in D.
+112
+-pakşi-, MU.
+118 Not in D.
+114 saptabhyām, S, D.
+115 Not in MU.
+116 prajambhayet, MU.
+117 Not in S.
+118 upadadhyāt, S.
+ĀPASTAMBA-SULBASŪTRA
+53
+20.5 aparasminprastare purastācchirasi dve şoḍaśyau bāhyaviseṣe upadadhyāt | teʼparena dve viśaye abhyantaraviśeșe | (20.6) /
+20.6 dvābhyāmardheṣṭakābhyam yathayogam paryupadadhyāt | bāhyavi- seṣābhyām parigṛhṇīyāt | (20.7) |
+20.7 ātma11 karaṇīnām sandhişu şoḍaśyo bahyaviseṣā upadadhyāt | (20.8) / 20.8 catasraścatasro' rdheṣṭakaḥ pakṣāgrayoḥ | pakṣeṣṭakābhirudīcībhiḥ pakṣau pracchādayet | (20.9) /
+20.9 tisrastisro' rdheṣṭakaḥ pucchapārśvayoḥ | (20.10) /
+20.10 avasiṣṭam şoḍaśibhiḥ pracchādayet | antyā bāhyaviśeṣā anyatra pucchat | (20.11) /
+20.11 paccaturasram tryaśram120 vā sampadyetārdheṣṭakābhiḥ pādeṣṭakābhirvā pracchadayet / (20.12) | aṇukāḥ pañcadaśabhāgiyānām sthāne | (20.13) / 20.12 vyatyāsam cinuyādyāvataḥ prastārāmścikīrṣet | (20.14) /
+21
+21.1 kańkacidalajaciditi śyenacitā1a1 vyākhyātau |
+21.2 evamiva hi syenasya varṣiyāmsau pakṣau pucchādvakrau samnatam puccham dirgha ātmā' maṇḍalaḥ śiraśca | tasmācchrutisāmarthyāt | aśirasko vā nāmnānāt
+21.3 vijñāyate122 ca | kańkacitam śīrṣaṇvantam cinvīta yaḥ kāmayeta saśīrṣo' muşmimlloke sambha123⁄4veyamiti vidyamāne katham brūyāt |
+21.4 prākṛtau vakrau pakṣau samnatam puccham vikāraśravaṇādyathāpra- kṛtyātmā' vikārāt124/
+21.5 yatho125 etacchyenacitam cinvīteti yāvadāmnātam126 sārūpyam tadvyākh- yātam
+21.6 tristavo' gnirbhavatityaśvamedhe vijñāyate |
+21.7 tatra sarvābhyāso' viśeṣāt |
+21.8 dirghacaturaśrāṇāṁ samāsena pakṣapucchānām samāsa uktaḥ |
+21.9 ekavimśo' gnirbhavatītyaśvamedhe vijñāyate |
+21.10
+myogāt |
+tatra puruṣābhyāso nāratniprādeśānām samkhyāsamyogāt samkhyāsa-
+119 ātmanaḥ karaṇīnām, MU.
+120
+tryafri, D.
+121 -cityā, D.
+122 Not in D; jñāyate, MU.
+123 bhaveyam-, S.
+124 -ʻvikārāśravaṇāt, S.
+125 atho, MU.
+116 āmnānam, S; āmnānasārūpyam, MU.
+KATYAYANA-SULBASŪTRA
+1.1 rajjusamāsam vakṣyāmaḥ |
+1
+1.2 same sankum nikhāya sankusammitaya rajjvā maṇḍalam parilikhya yatra lekhayoḥ śankvagracchāyā nipatati tatra śankū1 nihanti să prăci | tadantaram rajjvābhyasya pāśau kṛtvā śankvoḥ pāśau pratimucya dakṣiņāyamya madhye sanku mevamuttarataḥ sodici |
+1.3 rajjvantayoḥ pāśau karoti | śroṇyamsanirañchanasamkhyāsamāsabhangeṣu lakṣaṇāni | prācyantayoḥ śaṁkū nihanti | śroṇyoramsayośca3 | śańkvoḥ pāśau pratimucya nirañchanena gṛhītvā dakṣiņapūrvām diśam haranti | evamuttarataḥ viparyasyetarataḥ | sa samādhiḥ sarvatra |
+1.4 pramāṇamabhyasyābhyāsacaturthe lakṣṇam karoti tannirañchanam | akṣṇayā tiryanmānīśeṣa |
+1.5 pramāṇārdham vābhyasyābhyāsaṣaṣ the lakṣaṇam karoti tannirañchanam | akṣṇayā tiryaṁmāniśeṣaḥ |
+1.6 pramāṇārdhe samacaturaśrasya śañkuḥ | śāstravadardhe dirghacaturaś- rasya | śakaṭamukhasya caivam |
+1.7 etena prāgvaṛśavedimānāni vyākhyātāni | śālāmānam ca | tatrodici prācīvat | sadasaścaivam |
+1.8 aparimitam pramāṇādbhūyaḥ |
+1.9 pramāņe śāstram pramāṇam nirhāsavivṛddhyoḥ3 | yogaśca |
+1.10 itarasyavitṛtiye dakṣinata ityetadvakṣyāmaḥ | gārhapatyāhavaniyayoran- tarālam ṣaḍhdhā saptadhā vāgantusamam tredhā vibhajyāparavitṛtīyalakṣa- ṇena dakṣiṇāyamya tasminnagniḥ | viparyasyottarata utkaraḥ |
+1.11 apivāntaratribhāgo' nayā rajjvā purvārdhe samacaturaśram kṛtvā śroṇ- yamagniḥ viparyasyottarāmsa utkaraḥ |
+2
+2.1 angulai rathasammitāyāḥ pramāṇam | tatrāṣṭāśītiśatamīṣā | catuḥśata- makṣaḥ ṣaḍaśitiryugam | catvāro' ṣṭakāḥ śamyā |
+1 sankum, P.
+2 fańkurevam, P.
+3
+śroṇyamsayo, P.
+♦ vābhyāsaşaşthe, P.
+• -vivṛdhyoḥ, K.
+KATYAYANA-SULBASŪTRA
+55
+2.2 paitṛkyām dvipuruşam samacaturaśram kṛtvā karaṇīmadhye śańkavaḥ sa samādhih |
+2.3 karaṇī tatkaraṇī tiryaṁmānī pārśvamānyakṣṇayā ceti rajjavaḥ |
+2.4 padam tiryañmānī tripadā pārśvamānī tasyākṣṇyā rajjurdaśakaraṇī | 2.5 evam dvipadā tiryaǹmānī ṣaṭpadā pārśvamānī tasyākṣṇayā rajjuścatvār- imśatkarani /
+2.6 upadiṣṭam yugapramāņam samyāpramāṇam ca darśanāt |
+2.7 dirgha caturaśrasyākṣṇayā rajjustiryaṁmānī pārśvamānī ca yatpṛthag- bhūte kurutastadubhayam karotīti kṣetrajñānam |
+2.8 samacaturaśrasyākṣṇayā rajjurdvikarani |
+2.9 karaṇīm trtiyena vardhayettacca svacaturthenātmacatustrimśonena saviśeṣa iti višeṣaḥ' /
+2.10 pramāṇam tiryak dvikaraṇyāyāmastasyākṣṇayā rajjustrikaraņi |
+2.11 trtiyakaraṇyetena vyākhyātā | pramāṇavibhāgastu navadhā karaṇītṛtīyam navabhāgaḥ | navabhāgāstrayastṛtiyakaraṇi |
+2.12 sautrāmaṇyām prakramārthā | tṛtīyakaraṇī samāsārthā |
+2.13 tulyapramāṇānām samacaturasrāṇāmuktaḥ samāsaḥ | nānāpramāṇa- samāse hrasīvasaḥ karaṇyā varṣīyaso’pacchindyāttasyākṣṇayā rajjurubhe samasyatīti samāsaḥ |
+3
+3.1 caturaśrāccaturasram nirjihirşan yāvannirjihirṣettāvadubhayato' pacchidya śankūs nikhāya pārśvamānīm kṛtvā pārśvamānīsammitāmakṣṇayām tatropasam- harati, sa samāse' pacchedaḥ, sā karaṇyeṣa nirhrāsaḥ |
+3.2 dirghacaturaśram samacaturaśram cikirşan madhye tiryagapacchidyānyata- radvibhajyetaratpurastāddakṣiṇataścopadadhyāccheṣamāgantunā purayettasyokto
+nirhrāsaḥ |
+3.3 atidirgham cettiryanmānyāpacchidyāpacchidyaikasamāsena samasya śeṣam yathayogamupasamharedityekaḥ samāsaḥ |
+3.4 samacaturasram dirghacaturasram cikirşan madhye' kṣṇaya' pacchidya tacca vibhajyānyataratpurastāduttarataścopadadhyādviṣamam cedyathāyogamu- pasamharediti vyāsaḥ |
+3.5 pramāṇam caturaśramādeśādanyat |
+3.6 dvipramāṇā catuḥkaraṇī tripramāņa navakaraṇī catuḥpramāṇā ṣoḍa- śakaraṇī |
+3.7 yāvatpramāṇā rajjurbhavati tāvantastāvanto vargā bhavanti tānsamasyet |
+6 caturasrasyākṣṇayā, P.
+7iti višeṣaḥ, P omits.
+• sankum, P.
+• P omits.
+56
+KATYAYANA-SULBASŪTRA
+3.8 ardhapramāṇena pādapramāṇam vidhiyate | tṛtiyena navamo' mśaḥ | caturthena1oṣoḍaśī kalā |
+3.9 eșa nirhrāsastasya purastāduktam śāstram |
+3.10 yāvatpramāṇā rajjurbhavatīti vivṛddhe hrāso bhavati |
+3.11 caturasram maṇḍalam cikirşanmadhyādamse nipātya pārśvataḥ parilikhya tatra yadatiriktam bhavati tasya tṛtiyena saha maṇḍalam parilikhet sa samādhih |
+3.12 maṇḍalam caturaśram cikirşan viskambham pañcadaśabhāgān kṛtvā dvāvuddhareccheṣaḥ karani |
+4
+4.1 dronacidrathacakracitkankacitpraugacidubhayataḥ praugaḥ samuhya- purişa ityagnayaḥ | 4.2 drone yāvānagniḥ sapakṣapucchaviśeṣastāvaccaturaśram kṛtvā droṇadaśa- mavibhāgo vṛnt1amityeke | taddaśamenāpacchidyāpacchidyaikasamāsena samasya nirhṛtya sarvamagnim tathākṛtim kṛtvā purastātpaścādvopadadhyāt| maṇḍale' pyevam |
+4.3 prauge yāvānagniḥ sapakṣapucchaviśeṣastāvaddviguṇam caturaśram kṛtvā yaḥ purastātkaraṇīmadhye śaňkuryau ca śronyoḥ so 'gniḥ |
+4.4 ubhayataḥ prauge tăvadeva dīrghacaturaśram kṛtvā karaṇīmadhyeṣu1a śaňkavaḥ sa samādhiḥ |
+4.5 praugam caturaśram cikirşanmadhye prāñcamapacchidya viparyasye13tarata upadhāya dīrghacaturaśrasamāsena samasyet sa samādhiḥ |
+4.6 ubhayataḥ praugam cenmadhye tiryagapacchidya pūrvavatsamasyet | 4.7 etenaiva trikarṇasamāso vyākhyātaḥ | pañcakarṇānām ca | prauge' pacchi- dyaikakarṇānāṁ1a | dvikarṇānām samacaturaśre 'pacchidya1 |
+5
+5.1 uttareșu puruṣoccayenaikaŝatavidhādityetadvakṣyāmaḥ| 5.2 adyo 'gnirdviguṇastriguno bhavatīti sarvasamāsaḥ |
+5.3 ekavimśatividho bhavatiti puruṣābhyāsaḥ1⁄4 |
+5.4 puruṣābhyāse yāvānagniḥ sapakṣapucchaviśeṣastāvaccaturaśram kṛtvā tas- minpuruṣapramāṇamavadadhyāt1 |
+10 Saturthena, P.
+11 vṛtta, P.
+12 -madhye, P.
+13 viparyasyotarat, P.
+14 -ekakarṇānām, P omits.
+15 P. omits dvikarṇānāṁ samacaturasre' pacchidya.
+18 puruṣobhyāsaḥ, P.
+17 upadadhyat, P.KATYAYANA-SULBASŪTRA
+57
+5.5 samastam pañcadaśabhāgānkṛtvā dvāvekasamāsena samasyet sa puruṣaḥ | 5.6 pañcavibhāgena bṛhati tasya daśamavibhāgena pādamātrī bhavati1s | 5.7 puruṣam vā pañcamenobhayato 'pacchidya pañcavibhāgan samasya tṛtīyam nirhṛtya tasmin purușapramāne 'vadadhyādityaparam
+5.8 pañcadaśavibhāgo 'ṣṭāngulam |
+5.9 pañcāratnirdaśavitastirvimśatiśatāngulaḥ puruṣa ityetasmād1 dvādaśāñ- gulam padamiti20 ca21 /
+5.10 puruṣam vā sapta22menobhayato 'pacchidya saptabhāgān samasya sasapta- mabhāgamangulam nirhṛtya purușapramāṇe 'vadadhyādityaparam |
+5.11 nāratnivitastīnām samāso vidyate samkhyāyogāditi śruteḥ |
+6
+6.1 yathāgni vedīṣṭakāpramāņam varddhata ityetadvakṣyāmaḥ |
+6.2 yā karaṇī caturdaśaprakramānsankṣipati trimśca prakramasaptamabhāgān sa ekaśatavidhe prakramaḥ |
+6.3 dvitiye vā saptasu prakrameşu prakramamavadhāya tasya saptama- bhāgena prakramārthaḥ |
+6.4 prakrameņa vā saptamabhāgena prakramārthaḥ23 |
+6.5 evam2 aikaśatavidhāt |
+6.6 nāntaḥpātyagārhapatyayorvṛddhirbhavati tāvadeva yonirbhavati na vai jātam garbham yoniranuvardhata iti śrutervṛddheratyantam pratiṣedhaḥ | 6.7 yāvatpramāṇāni samacaturaśrānṇyekīkartum cikīrṣedekonāni tāni bhavanti tiryagdviguṇānyekata ekādhikāni tryasrirbhavati tasyeṣustatkaroti |
+6.8 yathayupam vedivarddhanamityetadvakṣyāmaḥ |
+6.9 yā rajjurekādaśoparavān sankṣipati daśa ca rathākṣāmstasyā yaścatur- vimśo bhāgaḥ sa prakramaḥ |
+6.10 tena vedim nirmāya25 dvādaśāñgulam purastādapacchidya tadyūpāvaṭyā- cchankoḥ purastātprāñcamavadhāya tasmin yūpānminoti |
+6.11 pārśvayorvā 'rdhamantarvedīti śruterarddhakāniti | 6.12 eke prathamottamau prakṛtivat |
+6.13 saiṣā śikhaṇḍinī vediḥ26 |
+18 P. omits tasya daŝamavibhāgena pādamātrī bhavati.
+19 P. omits ityetasmād.
+20 P gives after padam, purușamityetasmātpuruṣādvijñeyam.
+21 P. omits ca.
+22 pañcamena, P.
+23 P. gives á in place of prakramārthaḥ.
+24 P. omits evam.
+25 P. gives mithunam yāvat yad in place of nirmāya.
+26 P. omits saiṣā sikhaṇḍinī vediḥ.
+MANAVA-SULBASÛTRA
+1
+1.1 athātaḥ śulbam vyākhyāsyāmaḥ |
+1.2 rajjum pāśavatīm samām nirāyatām pṛṣṭhyām yathārthamupakalpayet | 1.3 antarena citrāsvātī śravaṇapratiśravaṇau kṛttikāpratikṛttike tiṣyapu- narvasu ca prāgdeso'yam yugamatroditayoḥ pāśāñca |
+1.4
+dārśikyāḥ śayāḥ ṣaṭṭāni1 sapta saptadaśaiva tu |
+ekam dve pañca tairmītvā samaraiḥ parilekhayet ||
+1.5 amsacchronau rajjvantam pratiṣṭhāpya prācīm2anulikhedamse pratiṣṭhāpya pratīcīm samare rajjvantam pratiṣṭhāpya śroṇeradhyaṇsādanulikhet | 1.6 evamuttarataḥ purastātpaścācca |
+1.7
+1.8a
+1.8b
+aratniścaturaśrastu pūrvasyāgneḥ kharo bhavet | rathacakrākṛtiḥ paścāccandrārdhena tu dakṣine ||
+madhyāt koṭipramāṇena maṇḍalam parilekhayet | atiriktatribhāgena sarvam tu sahamaṇḍalam || caturaśre' kṣṇayā rajjurmadhyataḥ samnipatayet | parilekhya3 tadardhenārdhamaṇḍalameva tat ||
+1.9 gārhapatyāhavanīyāvantarā rajjum nimāyāparasmimstṛtīye lakṣaṇam | madhyāt turīyamutsṛjya lakṣaṇam pāśāntau samāhṛtya dakṣiṇato dakṣiṇā- gnerlakṣaṇam /
+1.10 etadeva viparyasyottarata utkarasya lakṣaṇam |
+1.11
+1.12
+2.1
+2.2
+2.3
+1 şaṣṭāni, N.
+yāvatpramāṇā rajjuḥ syātṭāvadevāgamo bhavet | agamardhe bhavecchankuḥ śankorardhe nirāñchanam | samantacaturaśrāṇi vidhireṣaḥ prakirtitaḥ |
+2
+aṣṭāśītiḥ śatamīṣā tiryagakṣaścatuḥśatam şaḍaśitiryugam casya rathaścārakya uccyate || īṣāyām lakṣaṇam mītvā ṣaṭsu navasu ca lakṣaṇe | tricatvārimśake pāśo' ngulānām niyogataḥ || eṣā vediḥ samākhyātā cārakyaa rathasaṇmitā | aindrāgnasya paśoreṣā paśuṣvanyeṣu ṣaṭśayā ||
+2 prăcinamu-in L, N, ASB.
+3 parilekhyasta--, not in L, N, ASB.
 * cărakye, ASB.
-  2.4
-  2.5a
-  2.5b
-  2.6
-  2.7
-  3.1
-  3.2
-  3.3
-  MÄNAVA-SULBASŪTRA
-  pracyardhaḥ ṣaḍaratniḥ syādardhāratnernirāñchanam | ardhe śroņi tato' rdhe' msavadhyardha iti pāśukī || paśādardhaśaye śroņi dvayoḥ pṛṣṭhyāparā dvayoḥ | prācyardhastu tato 'dhyardhe tato 'dhyardhe nirāñchanam || ardhe 'mso' dhyardha evānyastato 'dhyardhe 'msa uttaraḥ | aratnau tu tataḥ pāśo vedī mārutī vārūṇī ||
-  sarvā daśaśayā rajjurmadhye cāsyā3 nirāñchanam | pracyardham pañcame kuryāddikkuṣṭhā paitṛkī smṛtā || sarvā saptaśayā rajjurmadhye cāsyā nirāñchanam | prācyardham pañcame kuryāddikkuṣṭhā paitṛkī smṛtā ||
-  3
-  prāgvamsam daśakam kuryātpatnīśālām catuḥśayām | prāgvamśāttriṣu vedyanto vedyantāt prakrame sadaḥ || navakam tu sado vidyāccatvāraḥ sadaso 'ntaram | catvārastrikā havirdhānamardhad®aśāstadantaram || padam yūpāvaṭe mītvā śeṣamauttaravedikam
-  agnidhram şaḍaratnyeva şaṭtrimsatprakramā rajjuḥ ||
-  59
-  3.4 lakṣikā dvādaśa trikā | vedisadohavirdhānāni minotyevānupūrvaśaḥ pañcadaśakamekavimśakam trikamaparam | parato' parastriko dvādaśasu ca pāśada ucyate some rajju nimānamuttamam3 |
-  3.5
-  3.6
-  tripadā pārśvamānī syāttiryaṁmānī padam bhavet | tasyākṣṇayā tu yā rajjuḥ kuryāddaśapadām tayā || paśādardha3caturdaśe navake tu tataḥ punaḥ |
-  ardhacaturdaśaḥ pāśaḥ sadasaśchedanamuttamam10 ||
-  3.7 nimāya rajjum daśabhi rathākṣairekādaśabhiścoparabudhnamātra- istasyāścaturvimśatibhāgadheyamekādaśinīm prativedimāhuḥ |
-  3.8a
-  3.8b
-  3.9
-  5 cārasyā, N.
-  sikhandini cetkartavyā vedyantāddvyardhamuddharet | aṣṭangulam tadardham syāddevya11vedi prasiddhaye || tam prāñcam tu samīkṣeta tāmstu vidyācchikhaṇḍinīm || pañcakam saptam12 caiva ekamekam tataḥ punaḥ | eṣā vediḥ samākhyātā kaukilyāstvatha cārake ||
-  6 sastha, G., N.
-  7 pañcadaśakavimśakam L, N, ASB.
-  8 nimāmanuttam, N.
-  9 pādādardham caturdaśe, G, N.
-  10 -uttaram, G.
-  11 syāddevyo- L., N.; syāddeyo-. ASB.
-  12 saptakam, N.
-  60
-  4.1
-  4.2
-  4.3
-  4.4a
-  4.4b
-  4.5
-  4.6
-  4.7
-  4.8
-  MĀNAVA-ŚULBASŪTRA
-  4
-  janmanā rogahīno vā yajamāno bhavedyadi | katham tatra pramāṇāni prayoktavyāni kartṛbhiḥ || tuṇḍam puşkaranālasya şaḍguņam pariveṣṭitam | trihāyaṇyā vatsataryā vālena samamiṣyate || trayastrihāyaṇīvālāḥ sarṣapārdham vidhiyate | dvigunam sarsapam prāhuryavaḥ sarṣapāram || angulasya pramāṇam tu ṣaḍyavāḥ pārśvasamhitāḥ | daśāngulastu prādeśo vitastirdvādaśāngulaḥ || dvivitastiraratniḥ syādvyāyāmastu catuḥśayaḥ | vimśatiśatāngulataḥ puruṣaḥ svaiḥ svairanguliparvabhiḥ | atha cetprapadotthānaḥ pañcaviṛśaśato bhavet || triyavam kṛṣṇalam vidyāt13 mānam vidyāt trikṛṣṇalam | anena kṛṣṇalapramāṇena niṣkamāhuścaturguṇam || puruṣasya tṛtiyapañcamau bhāgau tatkaraṇam punaściteḥ | tasyārdhamathāparam bhavettricitikamagnicitiścet || aṣṭāvaṣṭau sammitā citiraṣṭaikādaśikā1 ca madhyamā | vyatyā1savatīrupany1asedaṣṭau dvādaśa cottamā citiḥ ||
-  5
-  5.1 athāta uttareṣṭakam vyākhyāsyāmaḥ |
-  5.2 ūrdhabāhunā yajamānena veņum vimimīte |
-  5.3 tatsamo 'nyataraḥ sāratnirdvitīyastasya puruşe lakṣaṇamaratni vitast- yoścobhayorardhapuruşe /
-  5.4 sirasi pariśrite yūpāyāvasiṣya seṣamanurajju puruṣau samdhāya pañcāngyā śankum vinihanti tayoḥ samdhavardhayośca |
-  5.5 yāvabhito madhyamam śańkum tayorveṇā nidhāya dakṣiṇataḥ purușa- samnipāte todam karoti |
-  5.6 madhyame śañkau veņum nidhāyādhyadhi todam hṛtvā dakṣiṇataḥ purușe sankum nihanti |
-  5.7 pūrve śankau veņum nidhāya dvitīyam dakṣiṇataḥ purastātpuruşasamni- pāte śańkum nihantyardhe caivam paścāt |
-  5.8 etenottarardho vyākhyātaḥ |
-  G.
-  13 vidyāttam, 14 dropped in N.
-  15 vyāyāmavati, N.
-  18 rudanya, N.
-  MANAVA-SULBASŪTRA
-  61
-  5.9 dakṣiņasya vargasya yāvabhito madhyamam śańkum tayorveņū nidhāya dakşinataḥ puruşasamnipāte todam karoti |
-  5.10 madhyame sankau venum nidhāyādhyapi1 todam hṛtvā dakṣinataḥ
-  sāratnau śaňkum nihanti |
-  5.11 yaḥ săratnistam madhyamasya pūrve nidhāya dvitīyam dakṣinataḥ purastātsāratnimardhapuruşena samnipātya śañkum nihantyevam paścāt | 5.12 etenaivottarapakṣo vyākhyātaḥ |
-  5.13 puccham | savitastiraratnisthāne |
-  5.14 pūrvasya purastādardhapuruṣeņa pañcāñgyā siro vimimite |
-  6
-  6.1 vyāyāmasyāṣṇṭamamekatasturīyamekata ubhayatasturīyam ca te gārhapa- tyaciteḥ karane
-  6.2 purușasya daśamena bhāgena prathamam caturaśram karaṇam kārayedda- śamamekato'rdhamekatastaddvitiyam daśamamekato'dhyardhamekatastattṛti-
-  yamubhayatasturiyam taccaturtham |
-  6.3 tāsāmutsedhastrimśatpañcamabhāgenānyatra nākasadbhya1śca cūḍābhya rtavyabhyo 'tha madhyamāyām pañcamaṣaṣṭhibhyaśca vaiśvadevībhyastā ardho- tsedhāḥ1o |
-  6.4 purişamantardhāyottarāmupadadhyādganasamsargāyāvicchedāya | 6.5 garteṣupadadhyādyadanyadiṣṭakābhyaḥ |
-  6.6 tatra śloko bhavati |
-  ukhāyāḥ paśuśīrṣāṇāṇ kūrmasyolūkhalasya ca |
-  srucoḥ20 kumbheṣṭakānam ca caroś1caivāvaṭānkhanet ||
-  6.7 pratidiśamupadadhyādātmani madhye praciḥ śirasi pucche pakṣayoścā- tmanyapyayeṣu22 samam vibhajyottarāmuttarāmapyayasamhitām pūrvāparadak- şinottara viṣayavacanādanyaccatasraḥ purastātpañcartavyabhyaḥ paścāccotta- rapūrve cārdhe gārhapatyasya | śeṣam caturaśrābhiḥ |
-  6.8 etă eva dakṣiņottarā dvitiyasyam | seṣam caturaśrābhiḥ |
-  6.9 yathā prathamaivam tṛtīyā pañcamī vāa yathā dvitīyaivam caturthe | tena dharmena vatyāsam cinuyāt |
-  17 -adhyadhi, N.
-  18 -satyamca, N.
-  19 pūrvotsedhā, N.
-  20 srucam, L, N; sruco, ASB.
-  21 caroścai-, G.
-  22 -apyayeśu, G. N.
-  2a purastātprācīrutavyā-, L., N.
-  24
-  ca, N.
-  25 caturthyai, N.
-  62
-  MÄNAVA-ŚULBASŪTRA
-  6.10 athetarānāgnīdhriyādīn navanava padāni karotyekaikam madhye' smāna- magnidhriye catvāri catvāri turiyāņi pratidiśam hotriye | catasro 'rdhāḥ kuṣṭhāsu brāhyaṇāchamsya | itareṣām dve dve adhyardhe madhye praciḥ ṣaḍeva mārjāliye paśusrapane ca |
-  6.11 vimśatimadhyardhāḥ prāciramsayordadyācchronyoḥ pucche ca vimsatim dvādaśa dvādaśa purastātpakṣayoḥ prāciḥ paścācca pañca pañca codicirabhitaḥ śirasi | śeşam caturaśrābhiḥ |
-  6.12 vimśatim śroṇyamsapakṣeṣūdīcīrdakṣiṇatastathottarato dvitiyasyāmekā- daśaikadaśābhitaḥ pucche pañca pañca prācīrabhitaḥ śirasi | śeşam catura- śrābhiḥ |
-  6.13 yatha prathamaivam tṛtīyā pañcami ca yathā dvitiyaivam caturthye- tena dharmeņa vyatyāsam cinuyāt |
-  6.14 trirupasatsu dve pūrvasyām tisro madhyamāyām ṣaṭsu yathānupūrveṇa dvādaśasu vyatyāsam citipurīṣe karoti |
-  6.15 etena dharmeņa samvatsarātsamam vibhajya jānudaghne 'sya dviguṇam triguṇamuttareṣām caikāmuttarāmuddhatyābhyāyanam2 vardhāyātiriktā upada- dhyāt |
-  6.16 mantrādyabhimarśanāntam tatpuruṣasya lakṣaṇam |
-  7
-  7.1 darbhastambam puskaraparṇam rukmapuruṣau hiraṇyeṣṭakām śarkarām svayamātṛṇṇām dūrveṣṭakā naivāramiti madhyam (ā pañcamāśram svayamā- tṛṇṇāyā abhitastām madhyam) | tasminkumbheṣṭakā yā madhye dakṣinottare ca srucāvanūpamadhyeṣu śeṣāḥ | paścātsvayamātṛṇṇāyāḥ kulāyinīṁ dviyajuśca vamsayoḥ pārsvasamhite dvijajuruttare purastādretaḥsicau dve dakṣine tasminvamśe dvitīyāmṛtavyāṁ ca purastāccaturthe loke retaḥsicam2 viśvajyotiṣam maṇḍalāmṛtavyām gharmeṣṭakāmaṣāḍhām kūrmam vṛṣabhamiti prāñcamuttare vamse dakṣinataḥ purastātsvayamātṛṇṇāyāḥ pañca29 mulukhalamusalamuttara- pūrve cokham madhye śirasām3 śirobhiḥ samhitamupadadhāti | 7.2 tasyāḥ paścātpuruṣaśirasaḥ pratīcīs31trivargeṇa śroṇyām |
-  purușacitimupadadhāti şaṭtrimśatam
-  26 -muddhartābhyāmnyanam, L. N.; -muddhatṭābhyamnyanam, ASB.
-  27 -sincau, N.
-  28 -sincam, N.
-  29 prāñca, G.
-  39 sirastām, N.
-  31
-  1 pratyañca, N.
-  MANAVA-SULBASUTRA
-  63
-  7.3 tatra śloko bhavati |
-  tisro grīvāḥ ṣaḍamsa32yordve dve bāhvornavātmani |
-  janghayoru pañca paścādasmānām3ekaikam pāṇipādayoḥ ||
-  7.4 aṣṭavathāpasyāḥ samam vibhajya vamśeșu navamenavame prāṇabhṛtaḥ purastāduttare vamśe prathamam paścāddakṣiṇe dakṣiṇataḥ pūrva uttarataḥ paścāddakṣiṇataḥ svayamātṛṇṇāyā dvitīye pañcamamanūpeṣu samyato navame’ timātrā yathā prāṇabhṛtaḥ purastāddakṣine vamse prathamam paścāduttare dakṣiṇataḥ paścāduttarataḥ pūrva uttarataḥ pascāddakṣiņataḥ uttarataḥ31 svayamātṛṇṇāyā dvitīye pañcamam | vaiśvadevyaścānūpeṣu pratidiśamuttarapūr- veṣu vamśeṣvādyā | dakṣinottare ca samyānyāvapyaye tayorvamśayorādyāt purastādvātharvaśiraḥ |
-  7.5 samam vibhajya vamśeșu siraḥ pakṣapucchāni prathameṣu vamseṣu lokānvijānījāt |
-  7.6 sirasi prathame vamśa uttarāmuttarāmitareṣām pakṣapucchānāṁ caturthe pakṣayoḥ prāciḥ pucche35 codicirlokeṣṭakā upadadhyāccheṣāḥ paścātsvayamā- tṛṇṇāyā ekaikām pūrvām samhitām | dakṣiņe vamśe vaiśvadevyādya uttare ca puriṣādyāḥ |
-  7.7 gayatram madhye sirasi rathantaram bṛhadyajñāyamiti yathāmnātam |
-  8
-  8.1 dvitiyāyām purastātsvayamātṛṇṇāyāḥ prathamadvitiyatṛtiyeṣvṛtavyā vāya- vyā apasyā iti yathāsamkhyam | tisrastisro dakṣiņeṣu vamśeṣu dakṣinottarā dve dve uttarasyottarayornavame' bhitaḥ śeṣā yathāpasyāḥ36 |
-  8.2 tṛtīvāyām daśa dvādaśa navame' abhito | aṣṭame sapta purastātpaścācca samīcīrabhitaḥ svayamātṛṇṇāyā ardhotsedhā aṣṭau nānāmantrā uttamāyām vā | 8.3 caturthyamekaikām navamenavame' bhitaḥ purastāduttarasya vamśasya madhye prathamām vyatyāsamitarā | evameva spṛtaḥ purastāddakṣiṇasya vamśa- sya madhye prathamām vyatyāsamitarāḥ ṣaṭsaptāṣṭameṣu dakṣinato yug- māyugmā uttaratastrivargānkuryātsaptadaśa dakṣiṇataḥ pañcadaśottarataḥ | 8.4 pañcamyamekaikām prāṇabhṛdadhiṣu śeṣam chandasām virājaśca yathā- timātrāḥ ṣaṭsaptaṣṭameṣvabhito yathāsamkhyam |
-  8.5 ardheṣṭakābhiḥ pūrayitvā dakṣiṇataḥ prācīḥ stomabhāgāḥ paścimāśca yugmā uttaratastrivargānkuryādekatrimśatam | paścātpratyañcam trivargena
-  32 satsayo- L., N.
-  33 aśmānām, N.
-  34 paścāddakṣiṇataḥ uttarataḥ, appears in N.
-  35
-  pakṣe, N.
-  36 yathāstasyāḥ, N.
-  37 ṣatsaptamāṣṭameṣṭameṣṭa, N.
-  64
-  MANAVA-SULBASTŪRA
-  nākasadam ca paścātpurīṣavatyā yavādinā sanāmnīrupaśīvarīrghṛtaplutā iti yathāsamkhyam | turīyāņi madhye yathā prāṇabhṛto' timātrā madhyamām svayamātṛṇṇāsamhitāmuttarastu vikarṇīm |
-  8.6 iti suparṇasya |
-  9.1
-  9.2
-  9.3
-  9.4
-  9.5
-  9.6
-  9.7
-  9.8
-  9.9
-  9.10
-  9.11
-  9.12
-  9.13
-  9.14
-  9.15a
-  9
-  yavati soṣapākābhyāmiṣṭakā hrasate kṛtā |
-  tāvatsamadhikam kāryam karaṇam samamicchata || sadā ca trimśakam bhāgamiṣṭakā hrasate kṛtā | tāvat samadhikam kāryam karaṇam samamicchata || ekaikam śatamadhyardham tadūtam3 şaḍabhirangulaiḥ | iṣṭakānām parimāṇam vaikṛtam yadato' nyathā || navāngulasahasrāņi dve śate ṣoḍaśottare | angulānām parimāṇam vyāyāmasya tu nirdiśet || itareṣām tu dhiṣṇyānām sarveṣāmeva niścayaḥ | ekaikasya sahasram syācchate ṣaṇṇavatiḥ pară || ekādaśa sahasrāṇi angulānām śatāni şaṭ | śatam caiva sahasrāṇām kṣetramagnervidhīyate || prākṛtam vaikṛtam vāpi kṣetramardhāṣṭamāntare | pañcavimśam siraḥ kṛtvā tataḥ kṣetre samāvapet || śatānyaṣṭau padonāni padānāmiha kīrtyante | sāngasya sasiraskasya kṣetram kṣetravido viduḥ || ātmā catuḥśataḥ kāryaḥ pakṣau trimśacchatau smṛtau | daśa pucche śatam caiva śiraḥ syāt pañcavimśakam || ekatrimśastrayastrimśairvargaiḥ pañcāśakairapi | asambhavatsu vargeșu dvidha bhidyeta iṣṭaka || iṣṭakāhrāsavṛddhibhyām dṛḍhāsu śatakeṣu10 ca | matimāniṣṭakā bhāgairmantrātsaṇnāśayediti || caturaśre pṛṣṭau vāpi pakṣapucchaśireṣṭakāḥ | dikto' padhānam lokācca tathā lokastu lupyate || adhyātmani ha vijñeyamupadhānam vijānatā | rathantarabṛhallokairanyam gāyatrayājñiyaiḥ || yajuṣmatīnām samkhyā tu sarvāsām caiva niścitā | ekaikasyām citau vāpi tām me nigadataḥ śrņu || şaḍaśitiḥ śatam tvādyā dvitīyā daśa saptatiḥ | trayodaśa tṛtīyā syācchatam cāhurmaniṣiṇaḥ ||
-  38 tadūnam, G.
-  39 ekatrimśattraya-, L. N.
-  40
-  Satameșu, N.
-  9.16
-  MĀNAVA-SULBASUTRA
-  9.15b caturthi śatamekā syāttisraścaiveṣṭakāḥ smṛtāḥ |
-  śatāni trīņi pañcāśatṣaṭcaiva citiruttamā || etāḥ sarvā yajuṣmatyo yābhiragniḥ prasuryatea | seṣam lokampṛṇābhistu citīnāmabhipurayet || etāḥ sarvā samāmnātāḥ yajuryāvatpravartate | tadetaddhi sahasram syāccharkarābhiḥ sahocyate || etā upahitāḥ samyagdhenavastu prajāyante | amuṣminyajamānāya kāmānduhyati sarvaśaḥ || şaştim prajapatim veda yo hi samvatsaraḥ smṛtaḥ | gacchati brahmaṇo lokam nākam bradhnasya viṣṭapam ||
-  9.17
-  9.18
-  9.19
-  10.1a
-  10.1b
-  10.2
-  10.3
-  10.4
-  10.5
-  10
-  vaiṣṇave yā prameyāya śulbavidbhiśca sarvaśaḥ | samkhyātṛbhyaḥ pravaktṛbhyo namo bharanto yo mase || idam bhūmya12 bhajāmahe yā no mānakṛtāmiva | yajñiyam mānamuttamam vardhamānam sve dame || spaṣṭā bhūmirjuḥ śańkurmauñjam śulbamabandhuram | citrādau nākṛtiḥ kāryā tithyrkṣam varuṇaśubham || sarvāḥ prāgāyatā vedyaḥ karaṇam yaskadehikam | ardhenārvasamam sarvamucchedo jānu pañcakam || madhyame 'rdhamṛtavyānām nākasatpañcacūḍayoḥ | karaṇādyarthamuddiśya kṣetramardhāṣṭamāntaraḥ || anaḥsiddham havirdhānam pātrasiddhāḥ kharāḥ kharāḥ | cātvālaḥ paśubhiḥ siddho havirbhiḥ sāgnikāḥ kharāḥ || maṇḍalārdham catuḥsrakti ratnināṇ vihitāḥ kharāḥ | aratnirghana eteṣām bhūyastve bhūyasîbidhau || 10.7 pūrvaścaturvimśatibhāge lekhyaścaturvamsairālikhitastu syaddakṣine' ṣṭadvigunena lekhyastrimśadbhirayamya haretturāyam |
-  udakprakramya cātvālam śāmitram prakrame tataḥ | bhūyastatpaśubhūyastve vṛddhiruttarato bhavet || āyāmabāhum nikṣipyaa vistarastu tathā pṛthak | so 'dhyardham guṇayedrāśim sa sarvaguṇito ghanaḥ || āyāmamāyāmaguṇam vistāram vistareņa tu
-  10.6
-  10.8
-  10.9
-  10.10
-  65
-  paścimaḥ
-  samasya vargamulam yattatkarṇam tadvido viduḥ || 10.11 śravaṇābhijitorbahulātiṣyayorvā citrāsvātyorantare 'psvagninā vā |
-  41 prasuyate, G.
-  42 bhūmyā, N.
-  43 kṣipya, N.
-  66
-  MĀNAVA-SULBASŪTRA
-  10.12 naktam prācībhāskaraśrāyamāhuḥ | sankulipte mandale prakparākceti |
-  11.1
-  11
-  janmanā11 rogahīno vā yajamāno bhavedyadi |
-  katham tatra pramāṇāni prayoktavyāni kartṛbhiḥ ||
-  11.2 yadyurutantuḥ keśovās1tṛtaḥ sarṣapo yavaścaiva şaḍgunitaḥ ṣaḍgunito bhavati narasyangulam māne taddvādaśakam prādeśamityāhuḥ |
-  11.3 taddvayam smrto'ratniḥ prakramo ratnisamaḥ sa dviḥprādeśo
-  bhaveccitiṣu |
-  11.4 adhyardhaṁgulahīnāścatvāraḥ prakramā bhavenniyatāḥ |
-  11.5 tatraikādaśa yūpāścatvāraścaturuttarāḥ sattresattre |
-  11.6 ekasyāṁ vedyāmagnidvayamiṣṭakāriktam bhavati | pṛthagato vediḥ cetprthagagniḥ klṛptaḥ |
-  11.7 vimsatyangulaḥ śatam niyataḥ pañcāratnirnaro daśapado vā | hīnātiri- ktayuktyā dehedehe pramāṇam tu |
-  11.8 şaḍaśitiryugamuktam sāṣṭādaśa ucyate tvakṣastantrasamasamastam dvyujam rathamiṣām vyavāsyanti |
-  11.9 maṇḍalamatha caturaśram mandalam ca yaḥ kurjāttasyemam karaṇa- vidhim tadvidāmudahṛtam śṛṇuta |
-  11.10 maṇḍalaviṣkambhārdha1⁄4samastribhujādavalambakaścatuḥsraktiḥ prā- gāyatāt" tribhāgātkarṇāt sa maṇḍalam bhavati |
-  11.11 puruṣaḥ puruṣaṇ kuryāttasyākṣṇayā dvipuruşam bhaveccaturastasyā- pyakṣṇayās dvābhyām vā syāścatuḥpuruşam |
-  11.12 dvipuruṣaḥ karaṇī śroṇī bāhustu dviguņo bhavettrimkuṣṭhavattryava- lambakastato yaścaturaśre dvāṣṭamāḥ puruṣāḥ |
-  11.13
-  11.14
-  11.15
-  11.16
-  44
-  14 janma, N.
-  viṣkambhaḥ pañcabhāgaśca viṣkambhastriguṇaśca yaḥ | sa maṇḍalaparikṣepo na vālamatiricyate || daśadhā chidya viṣkambham tribhāgānuddharettataḥ | tena yaccaturasram syānmaṇḍale tadapaprathiḥ || caturaśram navadhā kuryāddhanuḥkoṭyastridhātridhā | utsedhātpañcamam lumpetpurīṣeneha tāvatsamam ||
-  caturaratnir1ovā naraḥ sikatākaraṇe tvardham bhujaḥ pradiśyate |
-  45 kesovāstṛtiḥ, N.
-  46 -viskambha G, N.
-  47 -yatamtrim-, L. N.
-  48 caturastasyāpyakṣṇayā dvābhyām vā syāscatuḥ puruṣam | dvipuruṣaḥ karaṇī śroṇī bāhustu dviguņo bhavet
-  not in L, and N.
-  49 caturangulam, N.MANAVA-SULBASŪTRA
-  ·
-  67
-  parimāṇasampadā vedyaḥ
-  11.17 karaṇāni tato'syāḥ kārayettricatuḥpañcatrirabhiparyasya yacchubham cayaneṣu vidhiḥ purātanairṛṣibhiryo' bhihitaśca nityaśaḥ |· 11.18 parilekhanamānasamcayairvyatyāsyaiḥ sarvāḥ pramāṇairāyāmena31 ca vistareņa ca mimīyāts2 | 11.19 caturasrasampadādvyāyāmasamāpanāḥ purātanairyāḥ pūrvairṛṣibhiḥ pradarśitāḥ |
-  smṛtā pañcāngyātha vā
-  11.20a yaścaiṣa vidhirmaryākṛtastatraiṣā mithunātsamam |
-  pañcāngi tāvatī rajjuryayā sarvam mimimahe ||
-  11.20b ṛte kankālajaśyenām steṣām vakṣyāmi lakṣaṇam ||
-  11.21
-  iyam mitā yā samayārdhalakṣaṇā tataścaturthe bhavennirāñchanam tatoʼrdhaśiṣṭā vistārasamā cayasya | yattataścatuḥkuṣṭhamihānayā caret |
-  11.22
-  prācītathāyāmasamāTMa nidadhyātpāśau nikhanyādatha madhyam ca | 11.23 unmucya paścādatha madhyame tatprāgdakṣiṇāyamya nirāñchanena vistārato'rdhe nikhaneta sankum | pratyaktathottaramadhyame ca sa vāsuve- diṣu55/
-  11.24 atha mānametacchronyām tu pāśoddharaṇam kriyeta | 11.25 amsasronyorlikhet dikṣu lekhaḥ
-  tebhyaḥ samantatparilekhayet |
-  11.26 yadyaiṣṭikā nobhau likheta siṣṭau |
-  11.27
-  śanku nihanyātsamareşu teşu |
-  pūrve tribhāge tvapare ca siddhopasthi tāvutkaradakṣiṇāgnī | 11.28 athānyadasya parilekhanam tu madhye bhaveddikṣu navānguleneti |
-  12.1
-  12
-  pramāṇārdham tu ṣaṣṭayūnam višeṣa iti sanjñitam | višeṣaśca pramāṇam ca pramāṇasyākṣṇayā” bhavet ||
-  12.2 pramāṇārdhamanyatsyāt pāśaşaṣṭhe sacaturvimse lakṣaṇam karoti taṇnirāñchanamakṣṇayā tiryaḥmānī śeṣaḥ pāśādardhaśaye śroņi dva
-  12.3
-  .....cāgnīdhramihopadiśyate |
-  1
-  50 tṛayābhiparyasya, N.
-  51 sarvāpramāṇinīrāyāmeņa, N.
-  52
-  miniyāt, N.
-  53 pracîmathā-, N, G.
-  54 -samām, G.
-  55
-  sa vasuvedi-, N.
-  56 sanku, N.
-  57 siddhaubhasthitā, N.
-  58 şaṣtyūnam, G. N.
-  59
-  ajñayā, G. N.
-  60 Some portion has been dropped vide N. & G.
-  68
-  12.4
-  12.5
-  12.6
-  13.1
-  13.2
-  13.3
-  13.4
-  13.5
-  MANAVA-SULBASUTRA
-  agneryadakṣṇayāmānam tasya caiva tadakṣṇayā | tadāśvamedhikam vidyādekavimśadvidhau'thavā || purusastiryagbhavedyadanudaśadhā yo mitaḥ |
-  1
-  tasya karnena yatkṣetram vidyādekādaśam tu tat || ubhau bāhū naśakṣṇāmo1 tu narastiryaktadakṣṇayā | ekoccatānaikaśatādbāhuvṛddhayā vivardhayet ||
-  13
-  avalambakakuṣṭhe tu yo bhavetṣoḍaśāngule | sautrāmaṇyā bhavedeșa prakramo mānakarmaņi || prakramasya trtiyena saumikī sārparājñiki | samtṛtīyaistribhiścānyaiḥ siddhamauttaravedikam || caturdaśāṁgulo vā syāṭprakramastena saumiki | śatairdvādaśabhirvāpi minuyātpāśukāmiva || sacaturthe vanam şaḍbhirnavabhirvātha saptabhiḥ | navabhirvāparam cakram karaṇārdhe na lekhayet || caturşu nivapedeṣām sāvitrādiṣu yo vidhiḥ |
-  aruṇe jānudaghne nikhanyādadbhistu pūrayet ||
-  13.6 caturaśramathāpi maṇḍalam dvividham gārhapatyalakṣaṇam vyāyāma- mitam caturbhujam puruṣārdhena tu maṇḍalam parilikhet |
-  13.7 vyāyāmatṛtīyamāyāntam caturasram saptamabhāgavistṛtam prāgāci- tamuttarācitam vyatyāse tadathaikavimśakam |
-  13.8 puruṣasya tṛtīyamāyāntam caturaśram şaḍbhāgavistṛtam | prathi- kaśca tadāyato bhavenmadhye tena samāyato bhavenmadhye tena samāstike seṣau | konau prathikamitau samau tadvistārakṛtau viśākhaḥ |
-  63
-  13.9 şaḍbhāgakṛtāyāmo bhaveddvyardhe tu trikonasamsthite |
-  13.10 caturaśravipāṇakaḥ prathiko'rdham prathikaśca yo mitaḥ | 13.11 karaṇāni bhavanti maṇḍale catvāri pramitāni bhāgaśaḥ |
-  13.12 madhye'sya catasra iṣṭakāḥ tatpūrvāparayordvayordvayam | prathiko' rdha viṣāṇikadvayam punareva punaraiti maṇḍalamardhaprathikadvaye samam sampūrṇam | tadathaikavimśakam |
-  13.13 vyatyāsamudañmukhena“ saha vyatyasyedvetyuttarottaram |
-  13.14 adhyardham padyam ca padyārdhapadyapādavatpadyārdhotsedhamityā- hurgāyatre karaṇāni ca /
-  61 naśakṣāṇām, N.
-  62 bāhuvṛddhyā, G.
-  63 trikonasamsthitam, N.
-  ** udanmukhasya, N.
-  13.15
-  13.16
-  MÂNAVA-ŚULBASŪTRA
-  caturguṇām dvipuruṣām rajjum kṛtvā samāhitām
-  sambhāgajñātṛtodāntām pañcāngīm tadvido viduḥ |
-  69
-  madhyamātpāśayostodo gāyatramānamucyate | sāratnāvardhapuruṣe |
-  catura śrastaya mitaḥ | pakṣapucchāntayorvṛddhyā gāyatreṇetareṣubhiḥ | 13.17 iṣṭaka soṣapākābhyām trimśanmānāttu hīyate |
-  13.18 tataḥ kṣetram tricaturbhāgam niruhyādāpayecchivam |
-  13.19 amsa uttare'mse ca pracyo'dhyardhāstu vimsatirdaśa pucche dvirdvā- daśakau pakṣayorabhitaḥ pucche tu pañca deyāḥ pañca prācīḥ pañcadaśa dadyacchirasi | caturaśīti pakṣayoḥ pañcāśatam trimśatamātmani padyā®® bhavanti satamekonam pucche'msaśroṇyorvimśatirvimśatiḥ pucche pakṣayor- daśadaśāhuḥ |
-  13.20 adhyardhā daśa śirasi pracyudicyo bhavanti |
-  13.21 pürvopahitā prathamā padayujaḥ sarvā | dvitīyāvāgyujo'śvinī | 13.22 vyatyāsam cinuyādevam jānunāsya vartmasu |
-  13.23 tripada alpakṣetrā ekacitikāścatuḥ karaṇayuktāḥ dhiṣṇyā bhavanti sāgnicityamantrāḥ satiriktāśca |
-  13.24 adhyardhāstu catasro dve madhye nakulaścaturbhāgaḥ |
-  13.25 aśmā navamo' gnidhre
-  13.26 hotriyamataḥ samvakṣyāmo | amsaśroṇyoḥ padyāśrayā nakulakā bahistisṛşu dikṣvantaścaturdaśa padakacaturthāḥ sa yaḥ pratidiśamaṣṭau padya dikṣu vidikṣu70/
-  13.27 brāhmaṇācchamsye daśa caikā syurmadhye dvau dvau caturthyau nakulaśca" /
-  13.28 abhitastisraḥ padyā dve madhye 'dhyardhe sisteṣvaṣṭau /
-  13.29 adhyardhāḥ ṣaṇmārjālīye'msa mārjālīyam syāddakṣiṇapārśvena śāmitram cātvālasya ca paścād vabhṛthakalpe" 'pyevam padamekatastripadas- tisro 'tirikteşviti |
-  14
-  14.1 saptatrimśatsārdhāḥ pakṣaḥ savyaśca śirasi catvāraḥ ṣaḍvimsa- kastathātmā" syene pañcadaśakam puccham | saptadaśakam puccham dvayam
-  65 amsâduttaramamsam, N.
-  66 vimsadbhidaśa pucche, N.
-  67 pakṣau, N.
-  68 padyāntā, N.
-  69
-  sapta, N.
-  70 vidikṣu, not in L., N.
-  71 nakukalakasca, N.
-  7a -vabhṛthalpe, L. N.
-  73 -amsā, N.
-  74 syete, L. N. ASB.
-  70
-  MANAVA-SULBASUTRA
-  sirasyatmapakṣayoḥ klrptamalajasya | bhāgasamdhantayajñaiḥ pramitān76 naracaturthe
-  14.2 aṣṭau bhāgāḥ puccham kankacite bhavanti pādayoścaturaḥ śirasi tu sapta jñeyāḥ śyenavadātmā ca pakṣau ca |
-  14.3 śyenālajakaǹkānāmaṣṭau sārdhā” vistṛtam puccham catvārotmā dvau ca siraḥ sarveṣām pañcakau pakṣau |
-  14.4 syenālajakañkānām dvitricatuḥ kuş thamityucyate puccham | pañcākṣṇāḥ pakṣapātrāstvakṣṇābhiḥ pariśritāḥ |
-  14.5 pucche dvau bhāgāvānayetpucchamalajena trikuṣṭhavattrīnśyenapucchā- cchirasi kanke78 padau tu haret |
-  14.6 prācīrdvādaśa sārdhā viṛśatirudīcīrbhavenmitā bhāgā | daśa pañca kankacitāvalaja udīcīstrayodaśa sārdhāśca" |
-  14.7
-  14.8a
-  tricaturbhāgamānī syādrajjurardhatrayodaśī |
-  madhye ca lakṣaṇam tasyāścaturbhāgairnirāñchanam || bhāgikāścatvārastodă ardhaṣaṣṭhe 'paraḥ smṛtaḥ | ardhāśca me 'ṣṭame caiva navame daśame 'paraḥ || 14.8b ardhadvādaśo vānyaḥ |
-  14.9 tataḥ prācīḥ prasārya tu tasyā nikhānayecchankum | pāśayormadhyame' ṣṭame | caturthe vāhatya pāśam |āsajya madhyame nirāñchanam |
-  14.10 nirāyamya vinudyonmucya madhyamāt | abhito daśama āyamya bhāgā dvikacatuṣkāḥ | ardhaṣaṣṭhe' pi cāhatya pūrvādevam samācaret | tulyam sankum turye
-  14.11 tataḥ prāciḥ prasārya tu ardhaṣaṣṭhakayoḥ pāśau/śankūs0 ardhāṣṭame' ṣṭame | pragrhya paścimaśankūs | dvikayorvotsṛjettataḥ |
-  14.12 caturthanavamau sankūs0 pravṛhedantimavubhau | 14.13 aṣṭame pāśamāsṛjyas1 aṣṭamenaiva tataḥ śankū tayoḥ |
-  14.14
-  14.15
-  14.16
-  83
-  nigrahaḥ82 | bhāgebhāge
-  aṣṭame pāśamāsṛjyas ādiśankau nigrhya ca | daśame śañkumāhanyātpucchārdhe alajasya tu || syārdhāṣṭame sankuḥ kańkasya darśane smṛtaḥ / trike pāśam samāsṛjya daśakena nigrhya ca | etābhyāmeva todabhyām śañkū deyau tathottarau ||
-  75 dvayam, N.
-  76 pratimă, G.
-  77 sardhā, G.
-  78 puccha sirasi śenānkanke, N.
-  79 daśārdhaśca, N.
-  80 śaňku, N.
-  81 -āsajya, N. G.
-  82 vigraha, N.
-  83 -āsajya, N.
-  14.17
-  14.18
-  14.19
-  14.20
-  14.21
-  14.22
-  14.23
-  14.24
-  14.25
-  14.26
-  14.27
-  14.28
-  15.1
-  15.2
-  MÄNAVA-SULBASŪTRA
-  ardhadvādaśame pāśastriko nigrahaņo bhavet | adipāse dvike caiva sanku deyau tathottarau | uttare dvikamāsajya dakṣiņam samayorharet | caturthe śankumāhanyādviparītam samācaret | caturthe tu tadarthena nirgṛhya ca......... 11 iti śyenasya rajjurdvādaśalakṣaṇā |
-  •
-  catvāri karaṇānyeṣām tricaturthena kārayet | navabhāgā akṣṇārdhākṣṇāḥ pañcakoṇāḥ ca bhāgaśaḥ || prācīne pañcakone dve athārdhākṣṇādvayam nyaset | amsāgrayorathaikaikā evam pakṣavipakṣayoḥ || navabhāgaiścitam madhyamakṣṇābhiḥ pariṣiñcate | pakṣāgre pañca patrāṇyevam cākṣṇā vidhīyate || vyatyāsākṣṇādvayam tunde pañcakone pratyaksthite | ardhākṣṇe kaṇṭhasamdhyośca pūrayedamitam siraḥ || dve pakṣasamdhyorardhākṣṇe pucchasamdhyostathāpare | daśa pañca ca pucchāgre pakṣāgra ekavimśatim85 || aupamāne cayane caiṣām vyatyāse karaṇeṣu ca | rajjvāścāvapanaṁ hrāso śyenasiddhiriti sthitiḥ || avakrapakṣamalajam ca pūrvapakṣe tathāyutam | madhyāt prasiddḥam puccham śyene dămnā prasidhyata iti || navamātprāgbhāge śañkū turīyasya karaṇam | alaje pakṣārdhamavakraṭāddhyevam bhavet ||
-  15
-  puruṣasya tṛtīyapañcamau bhāgau tatkaraṇam punaściteḥ | tasyārdhamathāparam bhavettricitikamagnicitiścet || aṣṭāvaṣṭau rammitā citiraṣṭaikādaśikā ca madhyamā | vyatyāsavatirupanya sedaṣṭau dvādaśa cottamā citiḥ || pañcadaśanaram kṣetram praugacittatastvardham | madhyāddaśake trikuṣṭhametattathā karaṇam || 15.4 bāhvorekavimsa ubhakarane tathārdho 'nyaśca |
-  amsasronyośchedastasyobhayato bhavet praugaḥ ||
-  15.3
-  84 pucchamsamdhyo, N.
-  85 pakṣāgre viŝavepṛthak, N.
-  80 -triciti tairtamagnicitiścet, N.
-  87 -rudanya-, N.
-  88
-  -Schedatasya-, N.
-  71
-  72
-  21242
-  15.5
-  15.6
-  15.7
-  15.8
-  15.9
-  15.10
-  15.11
-  15.12
-  MANAVA-SULBASUTRA
-  cātvālebhyaścaturbhyastu samñhyo 'gniraniṣṭakaḥ | digbhyaḥ purīṣaiḥ samūhyo bhāgaśo yuktito vidhiḥ || maṇḍalacaturaśro 'dya parivāryaḥ śmaśānacit | dronacittsarumāneṣām daśabhāgo bhavettsaruḥ / maṇḍale caturasram tu kuryādgārhapatyavat | bāhvorvimśatibhāgena vāruṇam sārdhameva tu || prasiddham daśadhā kuryādbahirantaśca yuktitaḥ | trikuṣṭhaśca viṣāṇaḥ syātsamdhau vyatyāsa eva saḥ || caturaśrasya karaṇam bāhvordvātrimśadbhāgikam | caturaśramathādhyardham tābhyām gāyatravadvidhiḥ || sāhasrasya karaṇam bahvoḥ pañcadaśabhāgam caturaśram | adhyardhāstu tataḥ syurdviśatāścitayaḥ smṛtāḥ ||
-  pañca pañcāśatamadhyardhāstisraḥ pañcāśatam caturaśrāḥ | sahasrācchatam pakṣāḥ syuruṣā sahasratami ||
-  bāhvorekatrimśo bhāgaḥ karaṇam citistathottarayoḥ
-  caturasrānām sāhasram savanike vyavāsyanti ||
-  15.13 ardhaikādaśapuruṣam ghanam bhavedbhavenmaṇḍalam rathacakram | nābhirarā vivaradhā nemirarebhyo yadyatiriktam |
-  15.14 tadardhāḥ puruṣāyāmāḥ puruṣāṣṭabhāgavistṛtāḥ caturvimśatistri- naranāyāḥ |
-  15.15 vivarakaraṇamataḥ sampravakṣyāmi | dvisaptamena nemyasra- karaṇam bhavedarasyāṣṭabhāgena vaikṛtaścaturvimśatibhāgena nābhyāman- taramantaro 'stamabhāgena praugavadbhavet |
-  15.16
-  15.17
-  15.18
-  dviṣṭakām cinuyānnābhim89 caturbhiścinuyādarān | tribhirnemim yathābhāgam vyatyāsaḥ kūpavatoosmṛtaḥ || viskambhasya caturthena nābhyāstu vivaram likhet | tricatvārimśāngulām nemim sārdhacaturangulām || siddhamanyadyathā yuktiścayane yāśca sampadaḥ |
-  15.19 ya idamapi yathātatham smṛtim vidhim yadādhītya mimīte rauravam samavati khalu kṛtsnasammato brajati ca sulbakṛtām salokatām ||
-  16.1a
-  16.1b
-  16.2
-  16
-  rathacakrasya cityasya samkṣepoktasya viṣṇunā | atha dhāturnirviṣṭhasya triguṇānyam bahirbahiḥ || liyante mandale yasya sapta sārdhā narā budhaiḥ | mucyante vivareṣvanye kṣetrādabhyadhikāstrayaḥ |
-  89 nābhiścaturbhi, N.
-  90
-  ktupava-, N.
-  16.3
-  16.4a
-  16.4b
-  16.5
-  16.6
-  16.7
-  16.8
-  MÄNAVA-SULBASUTRA
-  tasya cakravidhānam tu nemirarebhyo vistaraḥ | maṇḍalānām ca viṣkambhaḥ tribhāgaḥ karaṇāni ca || narārdhenābhilikhennābhistataḥ prastāragocarā | arebhyo 'bhyadhikā nemistriṣaṣṭhenākṣarāgāram || trimśatena savimŝena adhikaiścārdhapañcamaiḥ | mimāyāngulairvā madhyam kuryādvimśena parilekhanam | prathame prastare rathacakrasya sṛnuteṣṭakaḥ | caturbhiradhikam vettha catvārimśacchatatrayam1 || dvitiye 'bhyadhika yāntu caturviṛśatiriṣṭakāḥ | pañcakoṇāstrikoṇāśca nemyarebhyaḥ ca samdhiṣu || iṣṭakānām sahasreņa sataiḥ saptabhireva ca | aṣṭaṣaṣṭyā ca cakrasya citayaḥ pañca pūritāḥ || iti sulbasūtram samaptam ||
-  91 catvāriṛśattarayam, N.
-  73
-  PART II
-  ENGLISH TRANSLATION
-  BAUDHAYANA-SULBASŪTRA
-  1
-  1.1
-  The various constructions of sacrificial fires are now given.
-  1.2
-  We shall explain the methods of measuring areas of their (different) figures (drawn) on the ground.
-  1.3. Now, the measure of an angula is 14 anus (grain of Panicum milliaceum); according to others, (it is) 34 tilas (sesamum indicum) placed broad side on. One small pada is 10 aǹgulas; one prādeśa 12 añgulas; one pṛthā and one uttara- yuga 13 angulas each; one (big) pada 15 añgulas. One îșă measures 188 angulas; one akṣa 104 añgulas; one juga 86 angulas; one jānu 32 añgulas; one samyā and one bāhu 36 añgulas each. One prakrama equals 2 padas (30 angulas); one aratni 2 prādeśas (24 añgulas). But there are also instances of pada, yuga, prakrama, aratni and śamyā having different measures when these (words) are used as units of measurement. 5 aratnis (120 añgulas) make one purușa; one vyāma also has the same measure (5 aratnis); and 4 aratnis (96 añgulas) make one vyāyāma.
-  1.4
-  1.5
-  1.6
-  Having desired (to construct) a square, one is to take a cord of length equal to the (side of the) given square, make ties at both ends and mark it at its middle. The (east-west) line (equal to the cord) is drawn and a pole is fixed at its middle. The two ties (of the cord) are fixed in it (pole) and a circle is drawn with the mark (in the middle of the cord). Two poles are fixed aɩ both ends of the diameter (east-west line). With one tie fastened to the eastern (pole), a circle is drawn with the other. A similar (circle) about the western (pole). The second diameter is obtained from the points of intersection of these two (circles); two poles are fixed at two ends of the diameter (thus obtained). With two ties fastened to the eastern (pole) a circle is drawn with the mark. The same (is to be done) with respect to the southern, the western and the northern (pole). The end points of intersection of these (four circles) produce the (required) square.
-  Now another (method). Ties are made at both ends of a cord twice the measure and a mark is given at the middle. This (halving of the cord) is for the east-west line (that is, the side of the required square). In the other half (cord) at a point shorter by one-fourth, a mark is given; this is the nyañcana (mark). (Then) a mark is given at the middle (of the same half cord) for purposes of (fixing) the corners (of the square). With the two ties fastened to the two ends of the east-west line (pṛṣṭhyā), the cord is to be stretched towards the south by the nyañcana (mark); the middle mark (of the half cord) deter- mines the western and the eastern corners (of the square).
-  When (the construction of) a rectangle is desired, two poles are fixed on the ground at a distance equal to the desired length. (This makes the east-west
-  78
-  1.7
-  1.8
-  1.9
-  BAUDHAYANA-ŚULBASŪTRA
-  line). Two poles one on each side of each of the (two above mentioned) poles are fixed at equal distances (along the east-west line). A cord equal in length to the breadth (of the rectangle) is taken, its two ends are tied and a mark is given at the middle. With the two ties fastened to the two end poles (on either side of the pole) in the east, the cord is stretched to the south by the mark; at the mark (where it touches the ground) a sign is given. Both the ties are now fastened to the middle (pole at the east end of the prăcî), the cord is stretched towards the south by the mark over the sign (previously obtained) and a pole is fixed at the mark. This is the south-east corner. In this way are explained the north-east and the two western corners (of the rectangle).
-  When the eastern side is desired to be of shorter measure, a mark is given at half (the tiryaṁmāni).
-  Now another (method). Ties are made at both ends of a cord of length equal to the measure increased by its half (so that the whole length of the cord is divided into three parts of half the measure each). In the third (extended) part on the western side a mark is given at a point shorter by one-sixth (of the third part); this is the nyañcana. Another mark is made at the desired point for fixing the corners. With the two ties fastened to the two ends of the east- west line (pṛṣṭhyā), the cord is stretched towards the south by the nyañcana, and the western and eastern corners (of the square) are fixed by the desired mark.
-  The diagonal of a square produces double the area (of the square). 1.10 The breadth (of a rectangle) being the side of a given square (pramāņa) and the length the side of a square twice as large (dvikaraņi), the diagonal equals the side of a square thrice as large (tṛkaraņi).
-  1.11
-  1.12
-  Thereby is explained the side of a square one-third the area of given square (trtiyakaraṇī). It is the side of a square one-ninth the area of the square (explained in the preceding rule, that is, of the square on the tṛkarani).
-  The areas (of the squares) produced separately by the length and the breadth of a rectangle together equal the area (of the square) produced by the diagonal.
-  1.13 This is observed in rectangles having sides 3 and 4, 12 and 5, 15 and 8, 7
-  and 24, 12 and 35, 15 and 36.
-  2
-  21
-  2.1
-  If it is desired to combine two squares of different measures, a (rectangular) part is cut off from the larger (square) with the side of the smaller; the diagonal of the cut-off (rectangular) part is the side of the combined square. (Alternatively: If it is desired to combine two squares of different measures, a rectangle is formed with the side of the smaller (square)TRANSLATION-
-  79
-  2.2
-  2.3
-  2.4
-  2.5
-  2.6
-  2.7
-  2.8
-  2.9
-  (as breadth) and that of the larger (as length); the diagonal of the rectangle (thus formed) is the side of the combined square).
-  If it is desired to remove a square from another, a (rectangular) part is cut off from the larger (square) with the side of the smaller one to be removed; the (longer) side of the cut-off (rectangular) part is placed across so as to touch the opposite side; by this contact (the side) is cut off. With the cut-off (part) the difference (of the two squares) is obtained.
-  A square intended to be transformed into a rectangle is cut off by its diagonal. One portion is divided into two (equal) parts which are placed on the two sides (of the other portion) so as to fit (them exactly).
-  Or else, if a square is to be transformed (into a rectangle), (a segment) of it is to be cut off by the side (of the rectangle); what is left out (of the square) is added to the other side. (Like Ã§l. 3.1, the rule is defective and does not lead to proper geometrical operation).
-  If it is desired to transform a rectangle into a square, its breadth is taken as the side of a square (and this square on the breadth is cut off from the rectangle). The remainder (of the rectangle) is divided into two equal parts and placed on two sides (one part on each). The empty space (in the corner) is filled up with a (square) piece. The removal of it (of the square piece from the square thus formed to get the required square) has been stated.
-  If it is desired to reduce one side of a square (that is, to make an isosceles trapezium) the reduced side is to be taken as the breadth (of a rectangular portion to be cut off from the square); the remaining part (of the square) is divided by the diagonal and (one half), after being inverted, is placed on the other side.
-  If it is desired to transform a square into (an isosceles) triangle, the square whose area is to be so transformed is doubled and a pole fixed at the middle of its east side; two cords with their ties fastened to it (the pole) are stretched to south-western and north-western corners (of the square); portions lying outside the cords are cut off.
-  If it is desired to transform a square into a double (isosceles) triangle (that is, rhombus), a rectangle twice as large as the square to be so transformed is made; a pole is fixed at the middle of its east side; two cords with their ties fastened to it (the pole) are stretched to the middle points of the southern and northern side (of the rectangle); portions lying outside the cords are cut off; thereby the (isosceles) triangle on the other side is explained.
-  If it is desired to transform a square into a circle, (a cord of length) half the diagonal (of the square) is stretched from the centre to the east (a part of it lying outside the eastern side of the square); with one-third (of the part lying outside) added to the remainder (of the half diagonal), the (required) circle is drawn,
-  80
-  BAUDHĀYANA-ŚULBASŪTRA
-  2.10 To transform a circle into a square, the diameter is divided into eight parts;
-  one (such) part after being divided into twentynine parts is reduced by twentyeight of them and further by the sixth (of the part left) less the eighth (of the sixth part).
-  2.11 Alternatively, divide (the diameter) into fifteen parts and reduce it by two of
-  them; this gives the approximate side of the square (desired).
-  2.12 The measure is to be increased by its third and this (third) again by its own fourth less the thirtyfourth part (of that fourth); this is (the value of) the diagonal of a square (whose side is the measure).
-  3.1
-  3.2
-  3.3
-  3.4
-  3.5
-  3.6
-  3
-  Now, the placement of the ahavaniya from the garhapatya in the arrangement for the laying of sacrificial fires (will be discussed). According to tradition, the Brāhmaṇa has to place this fire ( āhavaniya ) ( at a distance of) 8 prakramas, the prince 11 prakramas and the merchant 12 prakramas (from the gārhapatya towards east).
-  Three squares of side one-third the distance (between the āhavaniya and the gārhapatya) are made so as to be in contact with each other (along the east- west line); the gārhapatya (fire) lies at the north-west and the dakṣiṇāgni (anvāhāryapacana) at the south-east corner of the western square; the north- east corner of the eastern square marks the place of the āhavanîya.
-  Alternatively, the distance between the garhapatya and the ahavaniya is divided into five or six (equal) parts, a sixth or a seventh part is added, the whole (of the cord measuring the original distance plus the added part) is divided into three (equal) parts, and a mark is given at the end of the second part from the eastern extremity. (With two ties) fastened to (poles at) the two ends of (the distance between) the gārhapatya and the āhavanīja, the cord is stretched to the south by the mark and a pole fixed at (the spot reached by) the mark. This is the place of the dakṣiņāgni.
-  Or else, the measure (between the āhavaniya and the gārhapatya) is increased by its fifth, the whole of it is divided into five parts, and a mark is given at the end of the second part from the western extremity. With two ties fastened to (poles at) the two ends of the east-west line (representing the distance between the two fires), the cord is stretched to the south by the mark and a a pole fixed at (the spot reached by) the mark. This is the place of the dakṣināgni.
-  The utkara is explained by doing the opposite (that is, by reversing the cord and stretching it to the north).
-  To the west of the āhavaniya, as per tradition, is the altar for the new and full moon sacrifice (dārśapaurṇamāsa), measuring 96 angulas (yajamānamātrī) (in the east-west direction).
-  TRANSLATION
-  81
-  3.7
-  3.8
-  3.9
-  This (measure) less its third (64 angulas) forms the western side (of the altar) and half the measure (48 angulas) the eastern side; after making in this way a rectangle shorter on one side, poles are fixed at the (four) corners.
-  A tie is given at each end of a cord twice as long as the side (of the above altar) and a mark at the middle. With two ties fastened to (poles at the two ends of) the southern side, the cord is stretched to the south by the mark and a pole fixed at (the spot reached by) the mark. Fixing the two ties at this (pole), the southern side is circumscribed (with an arc of a circle from end to end) by the mark. Thereby the northern side is explained. The eastern side is circumscribed in the same way by a cord double its length, and likewise the western side.
-  The tradition has it that the altar for animal sacrifice (pasubandha) has 10 padas on its western side, 12 padas as its east-west line (prācī) and 8 padas on its eastern side; how it is to be measured out has been explained. According to some, the altar is measured with the measures of a chariot (that is, with akṣa (104 angulas) for the western side, iṣā (188 angulas) for the prăci, and yuga (86 angulas) for the eastern side). According to others, the sides are 10 padas each.
-  3.10 According to tradition, the uttara vedi is four-cornered and measured (on each side) by a śamyā (36 angulas); in the absence of any particular direction, it is a square.
-  3.11
-  According to tradition, the paitṛki vedi (used for performing pitr-rites) is formed with the third part. The third part of the mahāvedi is turned into a square; the side which produces one-third of this square makes that (of the paitṛki vedi). Therefore, it is one-ninth of the area (of the mahāvedi). According to others, its side measures 96 angulas (yajamānamātrī) and it is four-cornered, the corners being pointed to the four cardinal directions.
-  3.12 For performing the sautrāmaṇī sacrifice, the altar is advised to have an area one-third of the mahāvedi. If a third part of the mahāvedi is turned into a square its side will be 18 padas. It can also have, if one so desires, a shape in which one side is shorter and the other larger.
-  4
-  4.1
-  4.2
-  4.3
-  The sacrificial chamber (prāgvamsa) is 16 prakramas long by 12 prakramas broad, or else 12 prakramas long by 10 prakramas broad.
-  (A length of) 12 prakramas is left in the middle between the sacrificial fires.
-  According to tradition, the mahāvedi measures 30 padas or prakramas on its western side, 36 (padas or prakramas) along the east-west line and 24 (padas or prakramas) on its eastern side; how it is to be measured out has been explained. The mahāvedi is 6 prakramas from the āhavanīya (fire towards east).
-  82
-  4.4
-  4.5
-  4.6
-  4.7
-  4.8
-  4.9
-  4.10
-  BAUDHAYANA-ŚULBASŪTRA
-  The sadas (shed) lies 1 prakrama from there (east of the western edge of the mahāvedi) and is 10 prakramas wide (in the east-west direction) and 27 aratnis, according to another opinion, 18 aratnis long in the south-north direction.
-  The havirdhāna (shed for the soma-vehicles) lies 4 prakramas (to the east) from there; it is a square of 10 or 12 prakramas; how it (such a square) is to be measured out has been explained.
-  The uttara vedi is measured out at a distance of half a prakrama to the west of the pole of the yūpāvaṭa (sacrificial post fixed in pit). According to soma- sacrifice, the uttara vedi measures 10 padas; how it is to be measured has been explained.
-  The cātvāla (pit in the ground) measures 36 añgulas, or it may have any undefined measure.
-  The uparavas (holes over which the soma is ground) are each 1 prādeśa long, the distance between two of them being 1 prādeśa. A square of side equalling 1 aratni is made, poles are fixed at the (four) corners, and a circle of radius equal to half pradeśa is drawn (with each pole at the corner as centre).
-  Situated at a distance of 2 prakramas from the eastern half of the sadas (shed), the dhiṣṇya (fires) are each 2 prādeśas in diameter and separated from each other by the same distance (of 2 prādesas).
-  The side of the (covered) place for (kindling) the āgnīdhra (sacrificial fire) is 5 aratnis.
-  4.11 Thereby the mārjāliya (covered place for cleansing sacrificial vessels) is
-  explained; its door is made on the northern side.
-  4.12
-  4.13
-  4.14
-  The pits for sacrificial posts are (placed) at intervals of 1 akṣa (104 añgulas) and there are eleven of them as per tradition. The twentyfourth part of the sum of 10 akṣas, 11 padas and 8 añgulas is the prakrama. With this the altar is to be measured.
-  For the asvamedha (horse sacrifice), the twentyfourth part of the sum of 20 aksas, 21 padas and 8 angulas is the prakrama. With this the altar is to
-  be measured.
-  For the making of 11 pits along the eastern side, a strip of breadth half a pada is cut off from the eastern half of the mahāvedi and placed east of it in the east-west direction. In this (operation) 8 angulas are not taken into account, and there is no mutual connection.
-  4.15 The pits for the sacrificial posts are 1 pada (each) in diameter; the
-  circumference of the base of the pits is 3 padas.
-  5
-  5.1
-  The area of the fire-altar made for the first time is 7 square purușa; that for the second time 81 (square purușa); that for the third time 93 (square
-  TRANSLATION
-  83
-  5.2
-  5.3
-  5.4
-  5.5
-  5.6
-  5.7
-  5.8
-  5.9
-  5.10
-  5.11
-  5.12
-  5.13
-  5.14
-  puruşa). Thus by successively adding one-fold (1 square purușa), (one can go) upto 101-fold. Thus it begins with the 7-fold fire-altar (7 square purușa) and ends with the 101-fold.
-  Thereafter, to continue further, the 101-fold (fire-altar) is to be repeated (that is, after reaching 101-fold, no further increase is to be made). Otherwise, the sacrificial rite is to be performed without a fire-altar.
-  The aśvamedha (sacrifice) is an exception. If the aśvamedha (requiring a fire- altar of 21 square purușa) is performed without (the required agni) being reached, one fold is added to get the next higher fold (that is, 221⁄2 sq. puruşa agni); no other procedure is allowed.
-  If (the required fire-altar is) surpassed, the fire-altar following the one surpassed is to be constructed.
-  But how is one fold to be added ?
-  The excess (to be added) to the original form (of the fire-altar) should be divided into 15 parts and two parts be added to each fold (of 1 sq. puruṣa; after 14 parts are in this way added to 7 folds of 7 sq. purușa, the remaining part is added to sq. puruşa). The (new) fire-altar is to be laid with such (increased) 7 folds.
-  The height (of the fire-altar), according to some teaching, should be increased by the twenty-fourth part of the fifth of a jānu (32 añgulas).
-  Some construct the fire-altar from one fold (11⁄2 sq. puruşa) upwards (upto 61⁄2 sq. purușa) without wings and tail.
-  This is not justified because it contradicts earlier and later precepts.
-  In this connection some Brāhmaṇas maintain that among the fire-altars the making of the falcon-shaped one is the first sacrificial ceremony.
-  Other Brāhmaṇas maintain that after having constructed a larger fire-altar a smaller one should not be laid.
-  Our Brāhmaṇa teaches as follows: he is winged for the unwinged cannot fly; the two wings are longer (than 1 purușa in each case) by 1 aratni, and this makes the birds strong in their wings; the two wings and the tail measure 1 vyāma (each).
-  A falcon without wings and tail does not exist; so the fire-altar which is not seven-fold has neither wings nor tail; moreover, the construction of one-fold fire-altar after the seven-fold has been laid is inadmissible; for all this the seven-fold is the fire-altar to be made for the first time.
-  The clefts are to be avoided; the meetings of edges (between bricks) in the upper and lower layer constitute these clefts, as per teachings. Such clefts, however, do not exist either in the peripheries or the two sides of a corner of the fire-altar.
-  84
-  5.15
-  BAUDHĀYANA-ŚU LBASTŪRA
-  One thousand bricks are to be used when (the fire-altar is) constructed for the first time. -
-  5.16 This number is to be completed in the fifth layer.
-  5.17
-  Where two hundred bricks are desired (for cach layer), pañcacoḍā and nākasat (bricks) are to be counted together as one (that is, one of each type together to be considered as one brick).
-  6.1
-  6.2
-  6.3
-  6.4
-  6.5
-  6.6
-  6.7
-  6.8
-  6.9
-  6
-  The fire-altar indeed possesses the characteristics of an animal. The southern bones of an animal are on its southern (right) side; likewise its northern bones lie on its northern (left) side and vice versa. That (part) which is below (on the western side) is the same as what is above (on the eastern side). In the same manner bricks of different forms are to be placed (in the fire-altar).
-  (Bricks marked with) lines turned to the right are placed on the southern side, those with lines turned to the left on the northern side, those with straight lines on the east and the west side, and those with three lines in the middle (of the fire-altar). The placing (of the bricks) in the middle (along the east-west line of the fire-altar) is to be understood in the same way as the backbone of the animal which does not lie more on one side than the other (but passes strictly along the middle of its body).
-  On this the Brāhmaṇa has it that Prajapati indeed is Atharvan and Agni is Dadhyan, son of Atharvan, and the bricks are his bones.
-  (In a fire-altar) where exterior limbs (such as head, wings, tail, feet etc.) are to be fitted (to the body, that is, the ātman of the altar), the middle of the side of the limb (concerned) is to be joined to the middle of that side of the body with which it (the limb) is to be in contact.
-  According to tradition, it (the fire-altar) is to be laid (with its head) towards the east.
-  The number of bricks is not to be completed with those which are not made of clay or which are not bricks.
-  As per teachings of this Brāhmaṇa, one fire-altar is laid with bricks, another with animals.
-  For the fire-altar has the characteristics of an animal: the yoni of an animal is of different forms; before laying the bricks, the sacrificial formulas from the Yajus text are recited.
-  Things occupying space are to be placed in holes (in the ground).
-  6.10 By (diagrams in the form of) circle, bull, woman, signs made on the bricks
-  are to be understood.
-  TRANSLATION
-  85
-  6.11
-  If the number of sacrificial formulas (recited) falls short of the number of bricks, the difference is to be made good by (the sacrificial formulas called) lokampṛņas because their number is unspecified.
-  6.12 Types of bricks previously used are to be placed here.
-  6.13 (There are) five lokampṛņas (in every fire-altar).
-  6.14 If the number of sacrificial formulas exceeds (the number of bricks), anointed
-  pebbles are to be placed in the interstices (between the bricks).
-  6.15 By the statements 'he places (the bricks) to the east', 'he places (the bricks) to the west' are meant the placement of types of bricks in a straight line (towards the specified direction).
-  6.16 By the statements 'he places (the bricks) to the east', 'he places (the bricks) to the west' are meant the directions faced by the constructor (of the fire- altar).
-  6.17 (Bricks) in the east are to be placed oppositely towards west and those in the
-  west oppositely towards east; such is the rule of restriction.
-  6.18
-  This sort (of arrangement) is suitable for a square (fire-altar with four corners).
-  7
-  7.1
-  7.2
-  7.3
-  7.4
-  7.5
-  7.6
-  7.7
-  One should not use (for the laying of the fire-altar) a broken brick, a brick which is cleft, a blackened brick (due to over or under heating), a damaged brick and a brick with scratching marks. In the layer where a brick full of natural holes (svayamātṛṇṇa) is used it is not to be covered (by a brick).
-  The height of the brick is to be made a fifth of the jānu (that is, 6% angula); that of the nākasat and the pañcacoḍā half of that measure (that is, 3 añgula).
-  What is lost by drying and burning is to be made good by loose earth because of the flexibility of its quantity.
-  According to tradition, the gārhapatya fire has the measure of 1 vyāyāma. It (gārhapatya fire) is a square by one tradition and a circle by another.
-  The (garhapatya fire in the form of) square is to be divided into 7 parts (length- wise) and then into 3 parts transversely. In the second layer, bricks are to be placed towards north (that is, the division in the first layer as aforesaid is to be reversed).
-  To place square bricks (instead of rectangular ones as indicated above), (square) bricks of sides one-sixth, one-fourth and one-third of 1 vyāyāma are made. Of them, 9 bricks of the first type and 12 of the second are placed in the first layer; 5 of the third type and 16 of the first are placed in the second layer.
-  86
-  7.8
-  7.9
-  7.10
-  7.11
-  7.12
-  7.13
-  7.14
-  7.15
-  BAUDHAYANA-ŚULBASŪTRA
-  Within the (gārhapatya fire in the form of) circle a square of the maximum size possible is drawn and divided into 9 parts (squares). The segments of the circle (between the circumference and the square) are divided into 3 parts each. The second layer is placed in such a way that the corners (of the within the circle) lie at the centres of the segments (of the first layer).
-  square
-  The dhiṣnya fires are one-layered in the form of a square or a circle.
-  Of these (dhisnya fires), the āgnīdhrīya is divided into 9 parts, and in one part a stone is to be placed (instead of a brick.)
-  The dhisnya fire of the hoty priest is divided into 9 parts and the 3 parts on the eastern side are divided into 2 parts each.
-  The others (dhiṣṇya fires) are each divided into 9 parts and then two parts, one in the centre and the other in the east, are combined.
-  Now the mārjālīya fire is divided into 3 parts and then the eastern and the western parts (taken together) are divided into 5 parts.
-  The bricks are to be made by mixing with ashes from the caldron.
-  This applies to those whose consecration lasts a year and not to those under- going it for a smaller number of nights.
-  7.16 Thus (the laying of) the fire-altar is completed with the sacrificial formulas
-  (recited by the priest).
-  7.17 After (a fire-altar made of) three thousand (bricks), a fire-altar to be piled with metres (of the sacred hymns) is to be laid. This is because of a difference in the wish. This (fire-altar) is falcon-shaped, as it is natural (for all such fire-altars).
+2.4
+2.5a
+2.5b
+2.6
+2.7
+3.1
+3.2
+3.3
+MÄNAVA-SULBASŪTRA
+pracyardhaḥ ṣaḍaratniḥ syādardhāratnernirāñchanam | ardhe śroņi tato' rdhe' msavadhyardha iti pāśukī || paśādardhaśaye śroņi dvayoḥ pṛṣṭhyāparā dvayoḥ | prācyardhastu tato 'dhyardhe tato 'dhyardhe nirāñchanam || ardhe 'mso' dhyardha evānyastato 'dhyardhe 'msa uttaraḥ | aratnau tu tataḥ pāśo vedī mārutī vārūṇī ||
+sarvā daśaśayā rajjurmadhye cāsyā3 nirāñchanam | pracyardham pañcame kuryāddikkuṣṭhā paitṛkī smṛtā || sarvā saptaśayā rajjurmadhye cāsyā nirāñchanam | prācyardham pañcame kuryāddikkuṣṭhā paitṛkī smṛtā ||
+3
+prāgvamsam daśakam kuryātpatnīśālām catuḥśayām | prāgvamśāttriṣu vedyanto vedyantāt prakrame sadaḥ || navakam tu sado vidyāccatvāraḥ sadaso 'ntaram | catvārastrikā havirdhānamardhad®aśāstadantaram || padam yūpāvaṭe mītvā śeṣamauttaravedikam
+agnidhram şaḍaratnyeva şaṭtrimsatprakramā rajjuḥ ||
+59
+3.4 lakṣikā dvādaśa trikā | vedisadohavirdhānāni minotyevānupūrvaśaḥ pañcadaśakamekavimśakam trikamaparam | parato' parastriko dvādaśasu ca pāśada ucyate some rajju nimānamuttamam3 |
+3.5
+3.6
+tripadā pārśvamānī syāttiryaṁmānī padam bhavet | tasyākṣṇayā tu yā rajjuḥ kuryāddaśapadām tayā || paśādardha3caturdaśe navake tu tataḥ punaḥ |
+ardhacaturdaśaḥ pāśaḥ sadasaśchedanamuttamam10 ||
+3.7 nimāya rajjum daśabhi rathākṣairekādaśabhiścoparabudhnamātra- istasyāścaturvimśatibhāgadheyamekādaśinīm prativedimāhuḥ |
+3.8a
+3.8b
+3.9
+5 cārasyā, N.
+sikhandini cetkartavyā vedyantāddvyardhamuddharet | aṣṭangulam tadardham syāddevya11vedi prasiddhaye || tam prāñcam tu samīkṣeta tāmstu vidyācchikhaṇḍinīm || pañcakam saptam12 caiva ekamekam tataḥ punaḥ | eṣā vediḥ samākhyātā kaukilyāstvatha cārake ||
+6 sastha, G., N.
+7 pañcadaśakavimśakam L, N, ASB.
+8 nimāmanuttam, N.
+9 pādādardham caturdaśe, G, N.
+10 -uttaram, G.
+11 syāddevyo- L., N.; syāddeyo-. ASB.
+12 saptakam, N.
+60
+4.1
+4.2
+4.3
+4.4a
+4.4b
+4.5
+4.6
+4.7
+4.8
+MĀNAVA-ŚULBASŪTRA
+4
+janmanā rogahīno vā yajamāno bhavedyadi | katham tatra pramāṇāni prayoktavyāni kartṛbhiḥ || tuṇḍam puşkaranālasya şaḍguņam pariveṣṭitam | trihāyaṇyā vatsataryā vālena samamiṣyate || trayastrihāyaṇīvālāḥ sarṣapārdham vidhiyate | dvigunam sarsapam prāhuryavaḥ sarṣapāram || angulasya pramāṇam tu ṣaḍyavāḥ pārśvasamhitāḥ | daśāngulastu prādeśo vitastirdvādaśāngulaḥ || dvivitastiraratniḥ syādvyāyāmastu catuḥśayaḥ | vimśatiśatāngulataḥ puruṣaḥ svaiḥ svairanguliparvabhiḥ | atha cetprapadotthānaḥ pañcaviṛśaśato bhavet || triyavam kṛṣṇalam vidyāt13 mānam vidyāt trikṛṣṇalam | anena kṛṣṇalapramāṇena niṣkamāhuścaturguṇam || puruṣasya tṛtiyapañcamau bhāgau tatkaraṇam punaściteḥ | tasyārdhamathāparam bhavettricitikamagnicitiścet || aṣṭāvaṣṭau sammitā citiraṣṭaikādaśikā1 ca madhyamā | vyatyā1savatīrupany1asedaṣṭau dvādaśa cottamā citiḥ ||
+5
+5.1 athāta uttareṣṭakam vyākhyāsyāmaḥ |
+5.2 ūrdhabāhunā yajamānena veņum vimimīte |
+5.3 tatsamo 'nyataraḥ sāratnirdvitīyastasya puruşe lakṣaṇamaratni vitast- yoścobhayorardhapuruşe /
+5.4 sirasi pariśrite yūpāyāvasiṣya seṣamanurajju puruṣau samdhāya pañcāngyā śankum vinihanti tayoḥ samdhavardhayośca |
+5.5 yāvabhito madhyamam śańkum tayorveṇā nidhāya dakṣiṇataḥ purușa- samnipāte todam karoti |
+5.6 madhyame śañkau veņum nidhāyādhyadhi todam hṛtvā dakṣiṇataḥ purușe sankum nihanti |
+5.7 pūrve śankau veņum nidhāya dvitīyam dakṣiṇataḥ purastātpuruşasamni- pāte śańkum nihantyardhe caivam paścāt |
+5.8 etenottarardho vyākhyātaḥ |
+G.
+13 vidyāttam, 14 dropped in N.
+15 vyāyāmavati, N.
+18 rudanya, N.
+MANAVA-SULBASŪTRA
+61
+5.9 dakṣiņasya vargasya yāvabhito madhyamam śańkum tayorveņū nidhāya dakşinataḥ puruşasamnipāte todam karoti |
+5.10 madhyame sankau venum nidhāyādhyapi1 todam hṛtvā dakṣinataḥ
+sāratnau śaňkum nihanti |
+5.11 yaḥ săratnistam madhyamasya pūrve nidhāya dvitīyam dakṣinataḥ purastātsāratnimardhapuruşena samnipātya śañkum nihantyevam paścāt | 5.12 etenaivottarapakṣo vyākhyātaḥ |
+5.13 puccham | savitastiraratnisthāne |
+5.14 pūrvasya purastādardhapuruṣeņa pañcāñgyā siro vimimite |
+6
+6.1 vyāyāmasyāṣṇṭamamekatasturīyamekata ubhayatasturīyam ca te gārhapa- tyaciteḥ karane
+6.2 purușasya daśamena bhāgena prathamam caturaśram karaṇam kārayedda- śamamekato'rdhamekatastaddvitiyam daśamamekato'dhyardhamekatastattṛti-
+yamubhayatasturiyam taccaturtham |
+6.3 tāsāmutsedhastrimśatpañcamabhāgenānyatra nākasadbhya1śca cūḍābhya rtavyabhyo 'tha madhyamāyām pañcamaṣaṣṭhibhyaśca vaiśvadevībhyastā ardho- tsedhāḥ1o |
+6.4 purişamantardhāyottarāmupadadhyādganasamsargāyāvicchedāya | 6.5 garteṣupadadhyādyadanyadiṣṭakābhyaḥ |
+6.6 tatra śloko bhavati |
+ukhāyāḥ paśuśīrṣāṇāṇ kūrmasyolūkhalasya ca |
+srucoḥ20 kumbheṣṭakānam ca caroś1caivāvaṭānkhanet ||
+6.7 pratidiśamupadadhyādātmani madhye praciḥ śirasi pucche pakṣayoścā- tmanyapyayeṣu22 samam vibhajyottarāmuttarāmapyayasamhitām pūrvāparadak- şinottara viṣayavacanādanyaccatasraḥ purastātpañcartavyabhyaḥ paścāccotta- rapūrve cārdhe gārhapatyasya | śeṣam caturaśrābhiḥ |
+6.8 etă eva dakṣiņottarā dvitiyasyam | seṣam caturaśrābhiḥ |
+6.9 yathā prathamaivam tṛtīyā pañcamī vāa yathā dvitīyaivam caturthe | tena dharmena vatyāsam cinuyāt |
+17 -adhyadhi, N.
+18 -satyamca, N.
+19 pūrvotsedhā, N.
+20 srucam, L, N; sruco, ASB.
+21 caroścai-, G.
+22 -apyayeśu, G. N.
+2a purastātprācīrutavyā-, L., N.
+24
+ca, N.
+25 caturthyai, N.
+62
+MÄNAVA-ŚULBASŪTRA
+6.10 athetarānāgnīdhriyādīn navanava padāni karotyekaikam madhye' smāna- magnidhriye catvāri catvāri turiyāņi pratidiśam hotriye | catasro 'rdhāḥ kuṣṭhāsu brāhyaṇāchamsya | itareṣām dve dve adhyardhe madhye praciḥ ṣaḍeva mārjāliye paśusrapane ca |
+6.11 vimśatimadhyardhāḥ prāciramsayordadyācchronyoḥ pucche ca vimsatim dvādaśa dvādaśa purastātpakṣayoḥ prāciḥ paścācca pañca pañca codicirabhitaḥ śirasi | śeşam caturaśrābhiḥ |
+6.12 vimśatim śroṇyamsapakṣeṣūdīcīrdakṣiṇatastathottarato dvitiyasyāmekā- daśaikadaśābhitaḥ pucche pañca pañca prācīrabhitaḥ śirasi | śeşam catura- śrābhiḥ |
+6.13 yatha prathamaivam tṛtīyā pañcami ca yathā dvitiyaivam caturthye- tena dharmeņa vyatyāsam cinuyāt |
+6.14 trirupasatsu dve pūrvasyām tisro madhyamāyām ṣaṭsu yathānupūrveṇa dvādaśasu vyatyāsam citipurīṣe karoti |
+6.15 etena dharmeņa samvatsarātsamam vibhajya jānudaghne 'sya dviguṇam triguṇamuttareṣām caikāmuttarāmuddhatyābhyāyanam2 vardhāyātiriktā upada- dhyāt |
+6.16 mantrādyabhimarśanāntam tatpuruṣasya lakṣaṇam |
+7
+7.1 darbhastambam puskaraparṇam rukmapuruṣau hiraṇyeṣṭakām śarkarām svayamātṛṇṇām dūrveṣṭakā naivāramiti madhyam (ā pañcamāśram svayamā- tṛṇṇāyā abhitastām madhyam) | tasminkumbheṣṭakā yā madhye dakṣinottare ca srucāvanūpamadhyeṣu śeṣāḥ | paścātsvayamātṛṇṇāyāḥ kulāyinīṁ dviyajuśca vamsayoḥ pārsvasamhite dvijajuruttare purastādretaḥsicau dve dakṣine tasminvamśe dvitīyāmṛtavyāṁ ca purastāccaturthe loke retaḥsicam2 viśvajyotiṣam maṇḍalāmṛtavyām gharmeṣṭakāmaṣāḍhām kūrmam vṛṣabhamiti prāñcamuttare vamse dakṣinataḥ purastātsvayamātṛṇṇāyāḥ pañca29 mulukhalamusalamuttara- pūrve cokham madhye śirasām3 śirobhiḥ samhitamupadadhāti | 7.2 tasyāḥ paścātpuruṣaśirasaḥ pratīcīs31trivargeṇa śroṇyām |
+purușacitimupadadhāti şaṭtrimśatam
+26 -muddhartābhyāmnyanam, L. N.; -muddhatṭābhyamnyanam, ASB.
+27 -sincau, N.
+28 -sincam, N.
+29 prāñca, G.
+39 sirastām, N.
+31
+1 pratyañca, N.
+MANAVA-SULBASUTRA
+63
+7.3 tatra śloko bhavati |
+tisro grīvāḥ ṣaḍamsa32yordve dve bāhvornavātmani |
+janghayoru pañca paścādasmānām3ekaikam pāṇipādayoḥ ||
+7.4 aṣṭavathāpasyāḥ samam vibhajya vamśeșu navamenavame prāṇabhṛtaḥ purastāduttare vamśe prathamam paścāddakṣiṇe dakṣiṇataḥ pūrva uttarataḥ paścāddakṣiṇataḥ svayamātṛṇṇāyā dvitīye pañcamamanūpeṣu samyato navame’ timātrā yathā prāṇabhṛtaḥ purastāddakṣine vamse prathamam paścāduttare dakṣiṇataḥ paścāduttarataḥ pūrva uttarataḥ pascāddakṣiņataḥ uttarataḥ31 svayamātṛṇṇāyā dvitīye pañcamam | vaiśvadevyaścānūpeṣu pratidiśamuttarapūr- veṣu vamśeṣvādyā | dakṣinottare ca samyānyāvapyaye tayorvamśayorādyāt purastādvātharvaśiraḥ |
+7.5 samam vibhajya vamśeșu siraḥ pakṣapucchāni prathameṣu vamseṣu lokānvijānījāt |
+7.6 sirasi prathame vamśa uttarāmuttarāmitareṣām pakṣapucchānāṁ caturthe pakṣayoḥ prāciḥ pucche35 codicirlokeṣṭakā upadadhyāccheṣāḥ paścātsvayamā- tṛṇṇāyā ekaikām pūrvām samhitām | dakṣiņe vamśe vaiśvadevyādya uttare ca puriṣādyāḥ |
+7.7 gayatram madhye sirasi rathantaram bṛhadyajñāyamiti yathāmnātam |
+8
+8.1 dvitiyāyām purastātsvayamātṛṇṇāyāḥ prathamadvitiyatṛtiyeṣvṛtavyā vāya- vyā apasyā iti yathāsamkhyam | tisrastisro dakṣiņeṣu vamśeṣu dakṣinottarā dve dve uttarasyottarayornavame' bhitaḥ śeṣā yathāpasyāḥ36 |
+8.2 tṛtīvāyām daśa dvādaśa navame' abhito | aṣṭame sapta purastātpaścācca samīcīrabhitaḥ svayamātṛṇṇāyā ardhotsedhā aṣṭau nānāmantrā uttamāyām vā | 8.3 caturthyamekaikām navamenavame' bhitaḥ purastāduttarasya vamśasya madhye prathamām vyatyāsamitarā | evameva spṛtaḥ purastāddakṣiṇasya vamśa- sya madhye prathamām vyatyāsamitarāḥ ṣaṭsaptāṣṭameṣu dakṣinato yug- māyugmā uttaratastrivargānkuryātsaptadaśa dakṣiṇataḥ pañcadaśottarataḥ | 8.4 pañcamyamekaikām prāṇabhṛdadhiṣu śeṣam chandasām virājaśca yathā- timātrāḥ ṣaṭsaptaṣṭameṣvabhito yathāsamkhyam |
+8.5 ardheṣṭakābhiḥ pūrayitvā dakṣiṇataḥ prācīḥ stomabhāgāḥ paścimāśca yugmā uttaratastrivargānkuryādekatrimśatam | paścātpratyañcam trivargena
+32 satsayo- L., N.
+33 aśmānām, N.
+34 paścāddakṣiṇataḥ uttarataḥ, appears in N.
+35
+pakṣe, N.
+36 yathāstasyāḥ, N.
+37 ṣatsaptamāṣṭameṣṭameṣṭa, N.
+64
+MANAVA-SULBASTŪRA
+nākasadam ca paścātpurīṣavatyā yavādinā sanāmnīrupaśīvarīrghṛtaplutā iti yathāsamkhyam | turīyāņi madhye yathā prāṇabhṛto' timātrā madhyamām svayamātṛṇṇāsamhitāmuttarastu vikarṇīm |
+8.6 iti suparṇasya |
+9.1
+9.2
+9.3
+9.4
+9.5
+9.6
+9.7
+9.8
+9.9
+9.10
+9.11
+9.12
+9.13
+9.14
+9.15a
+9
+yavati soṣapākābhyāmiṣṭakā hrasate kṛtā |
+tāvatsamadhikam kāryam karaṇam samamicchata || sadā ca trimśakam bhāgamiṣṭakā hrasate kṛtā | tāvat samadhikam kāryam karaṇam samamicchata || ekaikam śatamadhyardham tadūtam3 şaḍabhirangulaiḥ | iṣṭakānām parimāṇam vaikṛtam yadato' nyathā || navāngulasahasrāņi dve śate ṣoḍaśottare | angulānām parimāṇam vyāyāmasya tu nirdiśet || itareṣām tu dhiṣṇyānām sarveṣāmeva niścayaḥ | ekaikasya sahasram syācchate ṣaṇṇavatiḥ pară || ekādaśa sahasrāṇi angulānām śatāni şaṭ | śatam caiva sahasrāṇām kṣetramagnervidhīyate || prākṛtam vaikṛtam vāpi kṣetramardhāṣṭamāntare | pañcavimśam siraḥ kṛtvā tataḥ kṣetre samāvapet || śatānyaṣṭau padonāni padānāmiha kīrtyante | sāngasya sasiraskasya kṣetram kṣetravido viduḥ || ātmā catuḥśataḥ kāryaḥ pakṣau trimśacchatau smṛtau | daśa pucche śatam caiva śiraḥ syāt pañcavimśakam || ekatrimśastrayastrimśairvargaiḥ pañcāśakairapi | asambhavatsu vargeșu dvidha bhidyeta iṣṭaka || iṣṭakāhrāsavṛddhibhyām dṛḍhāsu śatakeṣu10 ca | matimāniṣṭakā bhāgairmantrātsaṇnāśayediti || caturaśre pṛṣṭau vāpi pakṣapucchaśireṣṭakāḥ | dikto' padhānam lokācca tathā lokastu lupyate || adhyātmani ha vijñeyamupadhānam vijānatā | rathantarabṛhallokairanyam gāyatrayājñiyaiḥ || yajuṣmatīnām samkhyā tu sarvāsām caiva niścitā | ekaikasyām citau vāpi tām me nigadataḥ śrņu || şaḍaśitiḥ śatam tvādyā dvitīyā daśa saptatiḥ | trayodaśa tṛtīyā syācchatam cāhurmaniṣiṇaḥ ||
+38 tadūnam, G.
+39 ekatrimśattraya-, L. N.
+40
+Satameșu, N.
+9.16
+MĀNAVA-SULBASUTRA
+9.15b caturthi śatamekā syāttisraścaiveṣṭakāḥ smṛtāḥ |
+śatāni trīņi pañcāśatṣaṭcaiva citiruttamā || etāḥ sarvā yajuṣmatyo yābhiragniḥ prasuryatea | seṣam lokampṛṇābhistu citīnāmabhipurayet || etāḥ sarvā samāmnātāḥ yajuryāvatpravartate | tadetaddhi sahasram syāccharkarābhiḥ sahocyate || etā upahitāḥ samyagdhenavastu prajāyante | amuṣminyajamānāya kāmānduhyati sarvaśaḥ || şaştim prajapatim veda yo hi samvatsaraḥ smṛtaḥ | gacchati brahmaṇo lokam nākam bradhnasya viṣṭapam ||
+9.17
+9.18
+9.19
+10.1a
+10.1b
+10.2
+10.3
+10.4
+10.5
+10
+vaiṣṇave yā prameyāya śulbavidbhiśca sarvaśaḥ | samkhyātṛbhyaḥ pravaktṛbhyo namo bharanto yo mase || idam bhūmya12 bhajāmahe yā no mānakṛtāmiva | yajñiyam mānamuttamam vardhamānam sve dame || spaṣṭā bhūmirjuḥ śańkurmauñjam śulbamabandhuram | citrādau nākṛtiḥ kāryā tithyrkṣam varuṇaśubham || sarvāḥ prāgāyatā vedyaḥ karaṇam yaskadehikam | ardhenārvasamam sarvamucchedo jānu pañcakam || madhyame 'rdhamṛtavyānām nākasatpañcacūḍayoḥ | karaṇādyarthamuddiśya kṣetramardhāṣṭamāntaraḥ || anaḥsiddham havirdhānam pātrasiddhāḥ kharāḥ kharāḥ | cātvālaḥ paśubhiḥ siddho havirbhiḥ sāgnikāḥ kharāḥ || maṇḍalārdham catuḥsrakti ratnināṇ vihitāḥ kharāḥ | aratnirghana eteṣām bhūyastve bhūyasîbidhau || 10.7 pūrvaścaturvimśatibhāge lekhyaścaturvamsairālikhitastu syaddakṣine' ṣṭadvigunena lekhyastrimśadbhirayamya haretturāyam |
+udakprakramya cātvālam śāmitram prakrame tataḥ | bhūyastatpaśubhūyastve vṛddhiruttarato bhavet || āyāmabāhum nikṣipyaa vistarastu tathā pṛthak | so 'dhyardham guṇayedrāśim sa sarvaguṇito ghanaḥ || āyāmamāyāmaguṇam vistāram vistareņa tu
+10.6
+10.8
+10.9
+10.10
+65
+paścimaḥ
+samasya vargamulam yattatkarṇam tadvido viduḥ || 10.11 śravaṇābhijitorbahulātiṣyayorvā citrāsvātyorantare 'psvagninā vā |
+41 prasuyate, G.
+42 bhūmyā, N.
+43 kṣipya, N.
+66
+MĀNAVA-SULBASŪTRA
+10.12 naktam prācībhāskaraśrāyamāhuḥ | sankulipte mandale prakparākceti |
+11.1
+11
+janmanā11 rogahīno vā yajamāno bhavedyadi |
+katham tatra pramāṇāni prayoktavyāni kartṛbhiḥ ||
+11.2 yadyurutantuḥ keśovās1tṛtaḥ sarṣapo yavaścaiva şaḍgunitaḥ ṣaḍgunito bhavati narasyangulam māne taddvādaśakam prādeśamityāhuḥ |
+11.3 taddvayam smrto'ratniḥ prakramo ratnisamaḥ sa dviḥprādeśo
+bhaveccitiṣu |
+11.4 adhyardhaṁgulahīnāścatvāraḥ prakramā bhavenniyatāḥ |
+11.5 tatraikādaśa yūpāścatvāraścaturuttarāḥ sattresattre |
+11.6 ekasyāṁ vedyāmagnidvayamiṣṭakāriktam bhavati | pṛthagato vediḥ cetprthagagniḥ klṛptaḥ |
+11.7 vimsatyangulaḥ śatam niyataḥ pañcāratnirnaro daśapado vā | hīnātiri- ktayuktyā dehedehe pramāṇam tu |
+11.8 şaḍaśitiryugamuktam sāṣṭādaśa ucyate tvakṣastantrasamasamastam dvyujam rathamiṣām vyavāsyanti |
+11.9 maṇḍalamatha caturaśram mandalam ca yaḥ kurjāttasyemam karaṇa- vidhim tadvidāmudahṛtam śṛṇuta |
+11.10 maṇḍalaviṣkambhārdha1⁄4samastribhujādavalambakaścatuḥsraktiḥ prā- gāyatāt" tribhāgātkarṇāt sa maṇḍalam bhavati |
+11.11 puruṣaḥ puruṣaṇ kuryāttasyākṣṇayā dvipuruşam bhaveccaturastasyā- pyakṣṇayās dvābhyām vā syāścatuḥpuruşam |
+11.12 dvipuruṣaḥ karaṇī śroṇī bāhustu dviguņo bhavettrimkuṣṭhavattryava- lambakastato yaścaturaśre dvāṣṭamāḥ puruṣāḥ |
+11.13
+11.14
+11.15
+11.16
+44
+14 janma, N.
+viṣkambhaḥ pañcabhāgaśca viṣkambhastriguṇaśca yaḥ | sa maṇḍalaparikṣepo na vālamatiricyate || daśadhā chidya viṣkambham tribhāgānuddharettataḥ | tena yaccaturasram syānmaṇḍale tadapaprathiḥ || caturaśram navadhā kuryāddhanuḥkoṭyastridhātridhā | utsedhātpañcamam lumpetpurīṣeneha tāvatsamam ||
+caturaratnir1ovā naraḥ sikatākaraṇe tvardham bhujaḥ pradiśyate |
+45 kesovāstṛtiḥ, N.
+46 -viskambha G, N.
+47 -yatamtrim-, L. N.
+48 caturastasyāpyakṣṇayā dvābhyām vā syāscatuḥ puruṣam | dvipuruṣaḥ karaṇī śroṇī bāhustu dviguņo bhavet
+not in L, and N.
+49 caturangulam, N.MANAVA-SULBASŪTRA
+·
+67
+parimāṇasampadā vedyaḥ
+11.17 karaṇāni tato'syāḥ kārayettricatuḥpañcatrirabhiparyasya yacchubham cayaneṣu vidhiḥ purātanairṛṣibhiryo' bhihitaśca nityaśaḥ |· 11.18 parilekhanamānasamcayairvyatyāsyaiḥ sarvāḥ pramāṇairāyāmena31 ca vistareņa ca mimīyāts2 | 11.19 caturasrasampadādvyāyāmasamāpanāḥ purātanairyāḥ pūrvairṛṣibhiḥ pradarśitāḥ |
+smṛtā pañcāngyātha vā
+11.20a yaścaiṣa vidhirmaryākṛtastatraiṣā mithunātsamam |
+pañcāngi tāvatī rajjuryayā sarvam mimimahe ||
+11.20b ṛte kankālajaśyenām steṣām vakṣyāmi lakṣaṇam ||
+11.21
+iyam mitā yā samayārdhalakṣaṇā tataścaturthe bhavennirāñchanam tatoʼrdhaśiṣṭā vistārasamā cayasya | yattataścatuḥkuṣṭhamihānayā caret |
+11.22
+prācītathāyāmasamāTMa nidadhyātpāśau nikhanyādatha madhyam ca | 11.23 unmucya paścādatha madhyame tatprāgdakṣiṇāyamya nirāñchanena vistārato'rdhe nikhaneta sankum | pratyaktathottaramadhyame ca sa vāsuve- diṣu55/
+11.24 atha mānametacchronyām tu pāśoddharaṇam kriyeta | 11.25 amsasronyorlikhet dikṣu lekhaḥ
+tebhyaḥ samantatparilekhayet |
+11.26 yadyaiṣṭikā nobhau likheta siṣṭau |
+11.27
+śanku nihanyātsamareşu teşu |
+pūrve tribhāge tvapare ca siddhopasthi tāvutkaradakṣiṇāgnī | 11.28 athānyadasya parilekhanam tu madhye bhaveddikṣu navānguleneti |
+12.1
+12
+pramāṇārdham tu ṣaṣṭayūnam višeṣa iti sanjñitam | višeṣaśca pramāṇam ca pramāṇasyākṣṇayā” bhavet ||
+12.2 pramāṇārdhamanyatsyāt pāśaşaṣṭhe sacaturvimse lakṣaṇam karoti taṇnirāñchanamakṣṇayā tiryaḥmānī śeṣaḥ pāśādardhaśaye śroņi dva
+12.3
+.....cāgnīdhramihopadiśyate |
+1
+50 tṛayābhiparyasya, N.
+51 sarvāpramāṇinīrāyāmeņa, N.
+52
+miniyāt, N.
+53 pracîmathā-, N, G.
+54 -samām, G.
+55
+sa vasuvedi-, N.
+56 sanku, N.
+57 siddhaubhasthitā, N.
+58 şaṣtyūnam, G. N.
+59
+ajñayā, G. N.
+60 Some portion has been dropped vide N. & G.
+68
+12.4
+12.5
+12.6
+13.1
+13.2
+13.3
+13.4
+13.5
+MANAVA-SULBASUTRA
+agneryadakṣṇayāmānam tasya caiva tadakṣṇayā | tadāśvamedhikam vidyādekavimśadvidhau'thavā || purusastiryagbhavedyadanudaśadhā yo mitaḥ |
+1
+tasya karnena yatkṣetram vidyādekādaśam tu tat || ubhau bāhū naśakṣṇāmo1 tu narastiryaktadakṣṇayā | ekoccatānaikaśatādbāhuvṛddhayā vivardhayet ||
+13
+avalambakakuṣṭhe tu yo bhavetṣoḍaśāngule | sautrāmaṇyā bhavedeșa prakramo mānakarmaņi || prakramasya trtiyena saumikī sārparājñiki | samtṛtīyaistribhiścānyaiḥ siddhamauttaravedikam || caturdaśāṁgulo vā syāṭprakramastena saumiki | śatairdvādaśabhirvāpi minuyātpāśukāmiva || sacaturthe vanam şaḍbhirnavabhirvātha saptabhiḥ | navabhirvāparam cakram karaṇārdhe na lekhayet || caturşu nivapedeṣām sāvitrādiṣu yo vidhiḥ |
+aruṇe jānudaghne nikhanyādadbhistu pūrayet ||
+13.6 caturaśramathāpi maṇḍalam dvividham gārhapatyalakṣaṇam vyāyāma- mitam caturbhujam puruṣārdhena tu maṇḍalam parilikhet |
+13.7 vyāyāmatṛtīyamāyāntam caturasram saptamabhāgavistṛtam prāgāci- tamuttarācitam vyatyāse tadathaikavimśakam |
+13.8 puruṣasya tṛtīyamāyāntam caturaśram şaḍbhāgavistṛtam | prathi- kaśca tadāyato bhavenmadhye tena samāyato bhavenmadhye tena samāstike seṣau | konau prathikamitau samau tadvistārakṛtau viśākhaḥ |
+63
+13.9 şaḍbhāgakṛtāyāmo bhaveddvyardhe tu trikonasamsthite |
+13.10 caturaśravipāṇakaḥ prathiko'rdham prathikaśca yo mitaḥ | 13.11 karaṇāni bhavanti maṇḍale catvāri pramitāni bhāgaśaḥ |
+13.12 madhye'sya catasra iṣṭakāḥ tatpūrvāparayordvayordvayam | prathiko' rdha viṣāṇikadvayam punareva punaraiti maṇḍalamardhaprathikadvaye samam sampūrṇam | tadathaikavimśakam |
+13.13 vyatyāsamudañmukhena“ saha vyatyasyedvetyuttarottaram |
+13.14 adhyardham padyam ca padyārdhapadyapādavatpadyārdhotsedhamityā- hurgāyatre karaṇāni ca /
+61 naśakṣāṇām, N.
+62 bāhuvṛddhyā, G.
+63 trikonasamsthitam, N.
+** udanmukhasya, N.
+13.15
+13.16
+MÂNAVA-ŚULBASŪTRA
+caturguṇām dvipuruṣām rajjum kṛtvā samāhitām
+sambhāgajñātṛtodāntām pañcāngīm tadvido viduḥ |
+69
+madhyamātpāśayostodo gāyatramānamucyate | sāratnāvardhapuruṣe |
+catura śrastaya mitaḥ | pakṣapucchāntayorvṛddhyā gāyatreṇetareṣubhiḥ | 13.17 iṣṭaka soṣapākābhyām trimśanmānāttu hīyate |
+13.18 tataḥ kṣetram tricaturbhāgam niruhyādāpayecchivam |
+13.19 amsa uttare'mse ca pracyo'dhyardhāstu vimsatirdaśa pucche dvirdvā- daśakau pakṣayorabhitaḥ pucche tu pañca deyāḥ pañca prācīḥ pañcadaśa dadyacchirasi | caturaśīti pakṣayoḥ pañcāśatam trimśatamātmani padyā®® bhavanti satamekonam pucche'msaśroṇyorvimśatirvimśatiḥ pucche pakṣayor- daśadaśāhuḥ |
+13.20 adhyardhā daśa śirasi pracyudicyo bhavanti |
+13.21 pürvopahitā prathamā padayujaḥ sarvā | dvitīyāvāgyujo'śvinī | 13.22 vyatyāsam cinuyādevam jānunāsya vartmasu |
+13.23 tripada alpakṣetrā ekacitikāścatuḥ karaṇayuktāḥ dhiṣṇyā bhavanti sāgnicityamantrāḥ satiriktāśca |
+13.24 adhyardhāstu catasro dve madhye nakulaścaturbhāgaḥ |
+13.25 aśmā navamo' gnidhre
+13.26 hotriyamataḥ samvakṣyāmo | amsaśroṇyoḥ padyāśrayā nakulakā bahistisṛşu dikṣvantaścaturdaśa padakacaturthāḥ sa yaḥ pratidiśamaṣṭau padya dikṣu vidikṣu70/
+13.27 brāhmaṇācchamsye daśa caikā syurmadhye dvau dvau caturthyau nakulaśca" /
+13.28 abhitastisraḥ padyā dve madhye 'dhyardhe sisteṣvaṣṭau /
+13.29 adhyardhāḥ ṣaṇmārjālīye'msa mārjālīyam syāddakṣiṇapārśvena śāmitram cātvālasya ca paścād vabhṛthakalpe" 'pyevam padamekatastripadas- tisro 'tirikteşviti |
+14
+14.1 saptatrimśatsārdhāḥ pakṣaḥ savyaśca śirasi catvāraḥ ṣaḍvimsa- kastathātmā" syene pañcadaśakam puccham | saptadaśakam puccham dvayam
+65 amsâduttaramamsam, N.
+66 vimsadbhidaśa pucche, N.
+67 pakṣau, N.
+68 padyāntā, N.
+69
+sapta, N.
+70 vidikṣu, not in L., N.
+71 nakukalakasca, N.
+7a -vabhṛthalpe, L. N.
+73 -amsā, N.
+74 syete, L. N. ASB.
+70
+MANAVA-SULBASUTRA
+sirasyatmapakṣayoḥ klrptamalajasya | bhāgasamdhantayajñaiḥ pramitān76 naracaturthe
+14.2 aṣṭau bhāgāḥ puccham kankacite bhavanti pādayoścaturaḥ śirasi tu sapta jñeyāḥ śyenavadātmā ca pakṣau ca |
+14.3 śyenālajakaǹkānāmaṣṭau sārdhā” vistṛtam puccham catvārotmā dvau ca siraḥ sarveṣām pañcakau pakṣau |
+14.4 syenālajakañkānām dvitricatuḥ kuş thamityucyate puccham | pañcākṣṇāḥ pakṣapātrāstvakṣṇābhiḥ pariśritāḥ |
+14.5 pucche dvau bhāgāvānayetpucchamalajena trikuṣṭhavattrīnśyenapucchā- cchirasi kanke78 padau tu haret |
+14.6 prācīrdvādaśa sārdhā viṛśatirudīcīrbhavenmitā bhāgā | daśa pañca kankacitāvalaja udīcīstrayodaśa sārdhāśca" |
+14.7
+14.8a
+tricaturbhāgamānī syādrajjurardhatrayodaśī |
+madhye ca lakṣaṇam tasyāścaturbhāgairnirāñchanam || bhāgikāścatvārastodă ardhaṣaṣṭhe 'paraḥ smṛtaḥ | ardhāśca me 'ṣṭame caiva navame daśame 'paraḥ || 14.8b ardhadvādaśo vānyaḥ |
+14.9 tataḥ prācīḥ prasārya tu tasyā nikhānayecchankum | pāśayormadhyame' ṣṭame | caturthe vāhatya pāśam |āsajya madhyame nirāñchanam |
+14.10 nirāyamya vinudyonmucya madhyamāt | abhito daśama āyamya bhāgā dvikacatuṣkāḥ | ardhaṣaṣṭhe' pi cāhatya pūrvādevam samācaret | tulyam sankum turye
+14.11 tataḥ prāciḥ prasārya tu ardhaṣaṣṭhakayoḥ pāśau/śankūs0 ardhāṣṭame' ṣṭame | pragrhya paścimaśankūs | dvikayorvotsṛjettataḥ |
+14.12 caturthanavamau sankūs0 pravṛhedantimavubhau | 14.13 aṣṭame pāśamāsṛjyas1 aṣṭamenaiva tataḥ śankū tayoḥ |
+14.14
+14.15
+14.16
+83
+nigrahaḥ82 | bhāgebhāge
+aṣṭame pāśamāsṛjyas ādiśankau nigrhya ca | daśame śañkumāhanyātpucchārdhe alajasya tu || syārdhāṣṭame sankuḥ kańkasya darśane smṛtaḥ / trike pāśam samāsṛjya daśakena nigrhya ca | etābhyāmeva todabhyām śañkū deyau tathottarau ||
+75 dvayam, N.
+76 pratimă, G.
+77 sardhā, G.
+78 puccha sirasi śenānkanke, N.
+79 daśārdhaśca, N.
+80 śaňku, N.
+81 -āsajya, N. G.
+82 vigraha, N.
+83 -āsajya, N.
+14.17
+14.18
+14.19
+14.20
+14.21
+14.22
+14.23
+14.24
+14.25
+14.26
+14.27
+14.28
+15.1
+15.2
+MÄNAVA-SULBASŪTRA
+ardhadvādaśame pāśastriko nigrahaņo bhavet | adipāse dvike caiva sanku deyau tathottarau | uttare dvikamāsajya dakṣiņam samayorharet | caturthe śankumāhanyādviparītam samācaret | caturthe tu tadarthena nirgṛhya ca......... 11 iti śyenasya rajjurdvādaśalakṣaṇā |
+•
+catvāri karaṇānyeṣām tricaturthena kārayet | navabhāgā akṣṇārdhākṣṇāḥ pañcakoṇāḥ ca bhāgaśaḥ || prācīne pañcakone dve athārdhākṣṇādvayam nyaset | amsāgrayorathaikaikā evam pakṣavipakṣayoḥ || navabhāgaiścitam madhyamakṣṇābhiḥ pariṣiñcate | pakṣāgre pañca patrāṇyevam cākṣṇā vidhīyate || vyatyāsākṣṇādvayam tunde pañcakone pratyaksthite | ardhākṣṇe kaṇṭhasamdhyośca pūrayedamitam siraḥ || dve pakṣasamdhyorardhākṣṇe pucchasamdhyostathāpare | daśa pañca ca pucchāgre pakṣāgra ekavimśatim85 || aupamāne cayane caiṣām vyatyāse karaṇeṣu ca | rajjvāścāvapanaṁ hrāso śyenasiddhiriti sthitiḥ || avakrapakṣamalajam ca pūrvapakṣe tathāyutam | madhyāt prasiddḥam puccham śyene dămnā prasidhyata iti || navamātprāgbhāge śañkū turīyasya karaṇam | alaje pakṣārdhamavakraṭāddhyevam bhavet ||
+15
+puruṣasya tṛtīyapañcamau bhāgau tatkaraṇam punaściteḥ | tasyārdhamathāparam bhavettricitikamagnicitiścet || aṣṭāvaṣṭau rammitā citiraṣṭaikādaśikā ca madhyamā | vyatyāsavatirupanya sedaṣṭau dvādaśa cottamā citiḥ || pañcadaśanaram kṣetram praugacittatastvardham | madhyāddaśake trikuṣṭhametattathā karaṇam || 15.4 bāhvorekavimsa ubhakarane tathārdho 'nyaśca |
+amsasronyośchedastasyobhayato bhavet praugaḥ ||
+15.3
+84 pucchamsamdhyo, N.
+85 pakṣāgre viŝavepṛthak, N.
+80 -triciti tairtamagnicitiścet, N.
+87 -rudanya-, N.
+88
+-Schedatasya-, N.
+71
+72
+21242
+15.5
+15.6
+15.7
+15.8
+15.9
+15.10
+15.11
+15.12
+MANAVA-SULBASUTRA
+cātvālebhyaścaturbhyastu samñhyo 'gniraniṣṭakaḥ | digbhyaḥ purīṣaiḥ samūhyo bhāgaśo yuktito vidhiḥ || maṇḍalacaturaśro 'dya parivāryaḥ śmaśānacit | dronacittsarumāneṣām daśabhāgo bhavettsaruḥ / maṇḍale caturasram tu kuryādgārhapatyavat | bāhvorvimśatibhāgena vāruṇam sārdhameva tu || prasiddham daśadhā kuryādbahirantaśca yuktitaḥ | trikuṣṭhaśca viṣāṇaḥ syātsamdhau vyatyāsa eva saḥ || caturaśrasya karaṇam bāhvordvātrimśadbhāgikam | caturaśramathādhyardham tābhyām gāyatravadvidhiḥ || sāhasrasya karaṇam bahvoḥ pañcadaśabhāgam caturaśram | adhyardhāstu tataḥ syurdviśatāścitayaḥ smṛtāḥ ||
+pañca pañcāśatamadhyardhāstisraḥ pañcāśatam caturaśrāḥ | sahasrācchatam pakṣāḥ syuruṣā sahasratami ||
+bāhvorekatrimśo bhāgaḥ karaṇam citistathottarayoḥ
+caturasrānām sāhasram savanike vyavāsyanti ||
+15.13 ardhaikādaśapuruṣam ghanam bhavedbhavenmaṇḍalam rathacakram | nābhirarā vivaradhā nemirarebhyo yadyatiriktam |
+15.14 tadardhāḥ puruṣāyāmāḥ puruṣāṣṭabhāgavistṛtāḥ caturvimśatistri- naranāyāḥ |
+15.15 vivarakaraṇamataḥ sampravakṣyāmi | dvisaptamena nemyasra- karaṇam bhavedarasyāṣṭabhāgena vaikṛtaścaturvimśatibhāgena nābhyāman- taramantaro 'stamabhāgena praugavadbhavet |
+15.16
+15.17
+15.18
+dviṣṭakām cinuyānnābhim89 caturbhiścinuyādarān | tribhirnemim yathābhāgam vyatyāsaḥ kūpavatoosmṛtaḥ || viskambhasya caturthena nābhyāstu vivaram likhet | tricatvārimśāngulām nemim sārdhacaturangulām || siddhamanyadyathā yuktiścayane yāśca sampadaḥ |
+15.19 ya idamapi yathātatham smṛtim vidhim yadādhītya mimīte rauravam samavati khalu kṛtsnasammato brajati ca sulbakṛtām salokatām ||
+16.1a
+16.1b
+16.2
+16
+rathacakrasya cityasya samkṣepoktasya viṣṇunā | atha dhāturnirviṣṭhasya triguṇānyam bahirbahiḥ || liyante mandale yasya sapta sārdhā narā budhaiḥ | mucyante vivareṣvanye kṣetrādabhyadhikāstrayaḥ |
+89 nābhiścaturbhi, N.
+90
+ktupava-, N.
+16.3
+16.4a
+16.4b
+16.5
+16.6
+16.7
+16.8
+MÄNAVA-SULBASUTRA
+tasya cakravidhānam tu nemirarebhyo vistaraḥ | maṇḍalānām ca viṣkambhaḥ tribhāgaḥ karaṇāni ca || narārdhenābhilikhennābhistataḥ prastāragocarā | arebhyo 'bhyadhikā nemistriṣaṣṭhenākṣarāgāram || trimśatena savimŝena adhikaiścārdhapañcamaiḥ | mimāyāngulairvā madhyam kuryādvimśena parilekhanam | prathame prastare rathacakrasya sṛnuteṣṭakaḥ | caturbhiradhikam vettha catvārimśacchatatrayam1 || dvitiye 'bhyadhika yāntu caturviṛśatiriṣṭakāḥ | pañcakoṇāstrikoṇāśca nemyarebhyaḥ ca samdhiṣu || iṣṭakānām sahasreņa sataiḥ saptabhireva ca | aṣṭaṣaṣṭyā ca cakrasya citayaḥ pañca pūritāḥ || iti sulbasūtram samaptam ||
+91 catvāriṛśattarayam, N.
+73
+
+## 2 ENGLISH TRANSLATION
+PART II
+ENGLISH TRANSLATION
+BAUDHAYANA-SULBASŪTRA
+1
+1.1
+The various constructions of sacrificial fires are now given.
+1.2
+We shall explain the methods of measuring areas of their (different) figures (drawn) on the ground.
+1.3. Now, the measure of an angula is 14 anus (grain of Panicum milliaceum); according to others, (it is) 34 tilas (sesamum indicum) placed broad side on. One small pada is 10 aǹgulas; one prādeśa 12 añgulas; one pṛthā and one uttara- yuga 13 angulas each; one (big) pada 15 añgulas. One îșă measures 188 angulas; one akṣa 104 añgulas; one juga 86 angulas; one jānu 32 añgulas; one samyā and one bāhu 36 añgulas each. One prakrama equals 2 padas (30 angulas); one aratni 2 prādeśas (24 añgulas). But there are also instances of pada, yuga, prakrama, aratni and śamyā having different measures when these (words) are used as units of measurement. 5 aratnis (120 añgulas) make one purușa; one vyāma also has the same measure (5 aratnis); and 4 aratnis (96 añgulas) make one vyāyāma.
+1.4
+1.5
+1.6
+Having desired (to construct) a square, one is to take a cord of length equal to the (side of the) given square, make ties at both ends and mark it at its middle. The (east-west) line (equal to the cord) is drawn and a pole is fixed at its middle. The two ties (of the cord) are fixed in it (pole) and a circle is drawn with the mark (in the middle of the cord). Two poles are fixed aɩ both ends of the diameter (east-west line). With one tie fastened to the eastern (pole), a circle is drawn with the other. A similar (circle) about the western (pole). The second diameter is obtained from the points of intersection of these two (circles); two poles are fixed at two ends of the diameter (thus obtained). With two ties fastened to the eastern (pole) a circle is drawn with the mark. The same (is to be done) with respect to the southern, the western and the northern (pole). The end points of intersection of these (four circles) produce the (required) square.
+Now another (method). Ties are made at both ends of a cord twice the measure and a mark is given at the middle. This (halving of the cord) is for the east-west line (that is, the side of the required square). In the other half (cord) at a point shorter by one-fourth, a mark is given; this is the nyañcana (mark). (Then) a mark is given at the middle (of the same half cord) for purposes of (fixing) the corners (of the square). With the two ties fastened to the two ends of the east-west line (pṛṣṭhyā), the cord is to be stretched towards the south by the nyañcana (mark); the middle mark (of the half cord) deter- mines the western and the eastern corners (of the square).
+When (the construction of) a rectangle is desired, two poles are fixed on the ground at a distance equal to the desired length. (This makes the east-west
+78
+1.7
+1.8
+1.9
+BAUDHAYANA-ŚULBASŪTRA
+line). Two poles one on each side of each of the (two above mentioned) poles are fixed at equal distances (along the east-west line). A cord equal in length to the breadth (of the rectangle) is taken, its two ends are tied and a mark is given at the middle. With the two ties fastened to the two end poles (on either side of the pole) in the east, the cord is stretched to the south by the mark; at the mark (where it touches the ground) a sign is given. Both the ties are now fastened to the middle (pole at the east end of the prăcî), the cord is stretched towards the south by the mark over the sign (previously obtained) and a pole is fixed at the mark. This is the south-east corner. In this way are explained the north-east and the two western corners (of the rectangle).
+When the eastern side is desired to be of shorter measure, a mark is given at half (the tiryaṁmāni).
+Now another (method). Ties are made at both ends of a cord of length equal to the measure increased by its half (so that the whole length of the cord is divided into three parts of half the measure each). In the third (extended) part on the western side a mark is given at a point shorter by one-sixth (of the third part); this is the nyañcana. Another mark is made at the desired point for fixing the corners. With the two ties fastened to the two ends of the east- west line (pṛṣṭhyā), the cord is stretched towards the south by the nyañcana, and the western and eastern corners (of the square) are fixed by the desired mark.
+The diagonal of a square produces double the area (of the square). 1.10 The breadth (of a rectangle) being the side of a given square (pramāņa) and the length the side of a square twice as large (dvikaraņi), the diagonal equals the side of a square thrice as large (tṛkaraņi).
+1.11
+1.12
+Thereby is explained the side of a square one-third the area of given square (trtiyakaraṇī). It is the side of a square one-ninth the area of the square (explained in the preceding rule, that is, of the square on the tṛkarani).
+The areas (of the squares) produced separately by the length and the breadth of a rectangle together equal the area (of the square) produced by the diagonal.
+1.13 This is observed in rectangles having sides 3 and 4, 12 and 5, 15 and 8, 7
+and 24, 12 and 35, 15 and 36.
+2
+21
+2.1
+If it is desired to combine two squares of different measures, a (rectangular) part is cut off from the larger (square) with the side of the smaller; the diagonal of the cut-off (rectangular) part is the side of the combined square. (Alternatively: If it is desired to combine two squares of different measures, a rectangle is formed with the side of the smaller (square)TRANSLATION-
+79
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+2.9
+(as breadth) and that of the larger (as length); the diagonal of the rectangle (thus formed) is the side of the combined square).
+If it is desired to remove a square from another, a (rectangular) part is cut off from the larger (square) with the side of the smaller one to be removed; the (longer) side of the cut-off (rectangular) part is placed across so as to touch the opposite side; by this contact (the side) is cut off. With the cut-off (part) the difference (of the two squares) is obtained.
+A square intended to be transformed into a rectangle is cut off by its diagonal. One portion is divided into two (equal) parts which are placed on the two sides (of the other portion) so as to fit (them exactly).
+Or else, if a square is to be transformed (into a rectangle), (a segment) of it is to be cut off by the side (of the rectangle); what is left out (of the square) is added to the other side. (Like Ã§l. 3.1, the rule is defective and does not lead to proper geometrical operation).
+If it is desired to transform a rectangle into a square, its breadth is taken as the side of a square (and this square on the breadth is cut off from the rectangle). The remainder (of the rectangle) is divided into two equal parts and placed on two sides (one part on each). The empty space (in the corner) is filled up with a (square) piece. The removal of it (of the square piece from the square thus formed to get the required square) has been stated.
+If it is desired to reduce one side of a square (that is, to make an isosceles trapezium) the reduced side is to be taken as the breadth (of a rectangular portion to be cut off from the square); the remaining part (of the square) is divided by the diagonal and (one half), after being inverted, is placed on the other side.
+If it is desired to transform a square into (an isosceles) triangle, the square whose area is to be so transformed is doubled and a pole fixed at the middle of its east side; two cords with their ties fastened to it (the pole) are stretched to south-western and north-western corners (of the square); portions lying outside the cords are cut off.
+If it is desired to transform a square into a double (isosceles) triangle (that is, rhombus), a rectangle twice as large as the square to be so transformed is made; a pole is fixed at the middle of its east side; two cords with their ties fastened to it (the pole) are stretched to the middle points of the southern and northern side (of the rectangle); portions lying outside the cords are cut off; thereby the (isosceles) triangle on the other side is explained.
+If it is desired to transform a square into a circle, (a cord of length) half the diagonal (of the square) is stretched from the centre to the east (a part of it lying outside the eastern side of the square); with one-third (of the part lying outside) added to the remainder (of the half diagonal), the (required) circle is drawn,
+80
+BAUDHĀYANA-ŚULBASŪTRA
+2.10 To transform a circle into a square, the diameter is divided into eight parts;
+one (such) part after being divided into twentynine parts is reduced by twentyeight of them and further by the sixth (of the part left) less the eighth (of the sixth part).
+2.11 Alternatively, divide (the diameter) into fifteen parts and reduce it by two of
+them; this gives the approximate side of the square (desired).
+2.12 The measure is to be increased by its third and this (third) again by its own fourth less the thirtyfourth part (of that fourth); this is (the value of) the diagonal of a square (whose side is the measure).
+3.1
+3.2
+3.3
+3.4
+3.5
+3.6
+3
+Now, the placement of the ahavaniya from the garhapatya in the arrangement for the laying of sacrificial fires (will be discussed). According to tradition, the Brāhmaṇa has to place this fire ( āhavaniya ) ( at a distance of) 8 prakramas, the prince 11 prakramas and the merchant 12 prakramas (from the gārhapatya towards east).
+Three squares of side one-third the distance (between the āhavaniya and the gārhapatya) are made so as to be in contact with each other (along the east- west line); the gārhapatya (fire) lies at the north-west and the dakṣiṇāgni (anvāhāryapacana) at the south-east corner of the western square; the north- east corner of the eastern square marks the place of the āhavanîya.
+Alternatively, the distance between the garhapatya and the ahavaniya is divided into five or six (equal) parts, a sixth or a seventh part is added, the whole (of the cord measuring the original distance plus the added part) is divided into three (equal) parts, and a mark is given at the end of the second part from the eastern extremity. (With two ties) fastened to (poles at) the two ends of (the distance between) the gārhapatya and the āhavanīja, the cord is stretched to the south by the mark and a pole fixed at (the spot reached by) the mark. This is the place of the dakṣiņāgni.
+Or else, the measure (between the āhavaniya and the gārhapatya) is increased by its fifth, the whole of it is divided into five parts, and a mark is given at the end of the second part from the western extremity. With two ties fastened to (poles at) the two ends of the east-west line (representing the distance between the two fires), the cord is stretched to the south by the mark and a a pole fixed at (the spot reached by) the mark. This is the place of the dakṣināgni.
+The utkara is explained by doing the opposite (that is, by reversing the cord and stretching it to the north).
+To the west of the āhavaniya, as per tradition, is the altar for the new and full moon sacrifice (dārśapaurṇamāsa), measuring 96 angulas (yajamānamātrī) (in the east-west direction).
+TRANSLATION
+81
+3.7
+3.8
+3.9
+This (measure) less its third (64 angulas) forms the western side (of the altar) and half the measure (48 angulas) the eastern side; after making in this way a rectangle shorter on one side, poles are fixed at the (four) corners.
+A tie is given at each end of a cord twice as long as the side (of the above altar) and a mark at the middle. With two ties fastened to (poles at the two ends of) the southern side, the cord is stretched to the south by the mark and a pole fixed at (the spot reached by) the mark. Fixing the two ties at this (pole), the southern side is circumscribed (with an arc of a circle from end to end) by the mark. Thereby the northern side is explained. The eastern side is circumscribed in the same way by a cord double its length, and likewise the western side.
+The tradition has it that the altar for animal sacrifice (pasubandha) has 10 padas on its western side, 12 padas as its east-west line (prācī) and 8 padas on its eastern side; how it is to be measured out has been explained. According to some, the altar is measured with the measures of a chariot (that is, with akṣa (104 angulas) for the western side, iṣā (188 angulas) for the prăci, and yuga (86 angulas) for the eastern side). According to others, the sides are 10 padas each.
+3.10 According to tradition, the uttara vedi is four-cornered and measured (on each side) by a śamyā (36 angulas); in the absence of any particular direction, it is a square.
+3.11
+According to tradition, the paitṛki vedi (used for performing pitr-rites) is formed with the third part. The third part of the mahāvedi is turned into a square; the side which produces one-third of this square makes that (of the paitṛki vedi). Therefore, it is one-ninth of the area (of the mahāvedi). According to others, its side measures 96 angulas (yajamānamātrī) and it is four-cornered, the corners being pointed to the four cardinal directions.
+3.12 For performing the sautrāmaṇī sacrifice, the altar is advised to have an area one-third of the mahāvedi. If a third part of the mahāvedi is turned into a square its side will be 18 padas. It can also have, if one so desires, a shape in which one side is shorter and the other larger.
+4
+4.1
+4.2
+4.3
+The sacrificial chamber (prāgvamsa) is 16 prakramas long by 12 prakramas broad, or else 12 prakramas long by 10 prakramas broad.
+(A length of) 12 prakramas is left in the middle between the sacrificial fires.
+According to tradition, the mahāvedi measures 30 padas or prakramas on its western side, 36 (padas or prakramas) along the east-west line and 24 (padas or prakramas) on its eastern side; how it is to be measured out has been explained. The mahāvedi is 6 prakramas from the āhavanīya (fire towards east).
+82
+4.4
+4.5
+4.6
+4.7
+4.8
+4.9
+4.10
+BAUDHAYANA-ŚULBASŪTRA
+The sadas (shed) lies 1 prakrama from there (east of the western edge of the mahāvedi) and is 10 prakramas wide (in the east-west direction) and 27 aratnis, according to another opinion, 18 aratnis long in the south-north direction.
+The havirdhāna (shed for the soma-vehicles) lies 4 prakramas (to the east) from there; it is a square of 10 or 12 prakramas; how it (such a square) is to be measured out has been explained.
+The uttara vedi is measured out at a distance of half a prakrama to the west of the pole of the yūpāvaṭa (sacrificial post fixed in pit). According to soma- sacrifice, the uttara vedi measures 10 padas; how it is to be measured has been explained.
+The cātvāla (pit in the ground) measures 36 añgulas, or it may have any undefined measure.
+The uparavas (holes over which the soma is ground) are each 1 prādeśa long, the distance between two of them being 1 prādeśa. A square of side equalling 1 aratni is made, poles are fixed at the (four) corners, and a circle of radius equal to half pradeśa is drawn (with each pole at the corner as centre).
+Situated at a distance of 2 prakramas from the eastern half of the sadas (shed), the dhiṣṇya (fires) are each 2 prādeśas in diameter and separated from each other by the same distance (of 2 prādesas).
+The side of the (covered) place for (kindling) the āgnīdhra (sacrificial fire) is 5 aratnis.
+4.11 Thereby the mārjāliya (covered place for cleansing sacrificial vessels) is
+explained; its door is made on the northern side.
+4.12
+4.13
+4.14
+The pits for sacrificial posts are (placed) at intervals of 1 akṣa (104 añgulas) and there are eleven of them as per tradition. The twentyfourth part of the sum of 10 akṣas, 11 padas and 8 añgulas is the prakrama. With this the altar is to be measured.
+For the asvamedha (horse sacrifice), the twentyfourth part of the sum of 20 aksas, 21 padas and 8 angulas is the prakrama. With this the altar is to
+be measured.
+For the making of 11 pits along the eastern side, a strip of breadth half a pada is cut off from the eastern half of the mahāvedi and placed east of it in the east-west direction. In this (operation) 8 angulas are not taken into account, and there is no mutual connection.
+4.15 The pits for the sacrificial posts are 1 pada (each) in diameter; the
+circumference of the base of the pits is 3 padas.
+5
+5.1
+The area of the fire-altar made for the first time is 7 square purușa; that for the second time 81 (square purușa); that for the third time 93 (square
+TRANSLATION
+83
+5.2
+5.3
+5.4
+5.5
+5.6
+5.7
+5.8
+5.9
+5.10
+5.11
+5.12
+5.13
+5.14
+puruşa). Thus by successively adding one-fold (1 square purușa), (one can go) upto 101-fold. Thus it begins with the 7-fold fire-altar (7 square purușa) and ends with the 101-fold.
+Thereafter, to continue further, the 101-fold (fire-altar) is to be repeated (that is, after reaching 101-fold, no further increase is to be made). Otherwise, the sacrificial rite is to be performed without a fire-altar.
+The aśvamedha (sacrifice) is an exception. If the aśvamedha (requiring a fire- altar of 21 square purușa) is performed without (the required agni) being reached, one fold is added to get the next higher fold (that is, 221⁄2 sq. puruşa agni); no other procedure is allowed.
+If (the required fire-altar is) surpassed, the fire-altar following the one surpassed is to be constructed.
+But how is one fold to be added ?
+The excess (to be added) to the original form (of the fire-altar) should be divided into 15 parts and two parts be added to each fold (of 1 sq. puruṣa; after 14 parts are in this way added to 7 folds of 7 sq. purușa, the remaining part is added to sq. puruşa). The (new) fire-altar is to be laid with such (increased) 7 folds.
+The height (of the fire-altar), according to some teaching, should be increased by the twenty-fourth part of the fifth of a jānu (32 añgulas).
+Some construct the fire-altar from one fold (11⁄2 sq. puruşa) upwards (upto 61⁄2 sq. purușa) without wings and tail.
+This is not justified because it contradicts earlier and later precepts.
+In this connection some Brāhmaṇas maintain that among the fire-altars the making of the falcon-shaped one is the first sacrificial ceremony.
+Other Brāhmaṇas maintain that after having constructed a larger fire-altar a smaller one should not be laid.
+Our Brāhmaṇa teaches as follows: he is winged for the unwinged cannot fly; the two wings are longer (than 1 purușa in each case) by 1 aratni, and this makes the birds strong in their wings; the two wings and the tail measure 1 vyāma (each).
+A falcon without wings and tail does not exist; so the fire-altar which is not seven-fold has neither wings nor tail; moreover, the construction of one-fold fire-altar after the seven-fold has been laid is inadmissible; for all this the seven-fold is the fire-altar to be made for the first time.
+The clefts are to be avoided; the meetings of edges (between bricks) in the upper and lower layer constitute these clefts, as per teachings. Such clefts, however, do not exist either in the peripheries or the two sides of a corner of the fire-altar.
+84
+5.15
+BAUDHĀYANA-ŚU LBASTŪRA
+One thousand bricks are to be used when (the fire-altar is) constructed for the first time. -
+5.16 This number is to be completed in the fifth layer.
+5.17
+Where two hundred bricks are desired (for cach layer), pañcacoḍā and nākasat (bricks) are to be counted together as one (that is, one of each type together to be considered as one brick).
+6.1
+6.2
+6.3
+6.4
+6.5
+6.6
+6.7
+6.8
+6.9
+6
+The fire-altar indeed possesses the characteristics of an animal. The southern bones of an animal are on its southern (right) side; likewise its northern bones lie on its northern (left) side and vice versa. That (part) which is below (on the western side) is the same as what is above (on the eastern side). In the same manner bricks of different forms are to be placed (in the fire-altar).
+(Bricks marked with) lines turned to the right are placed on the southern side, those with lines turned to the left on the northern side, those with straight lines on the east and the west side, and those with three lines in the middle (of the fire-altar). The placing (of the bricks) in the middle (along the east-west line of the fire-altar) is to be understood in the same way as the backbone of the animal which does not lie more on one side than the other (but passes strictly along the middle of its body).
+On this the Brāhmaṇa has it that Prajapati indeed is Atharvan and Agni is Dadhyan, son of Atharvan, and the bricks are his bones.
+(In a fire-altar) where exterior limbs (such as head, wings, tail, feet etc.) are to be fitted (to the body, that is, the ātman of the altar), the middle of the side of the limb (concerned) is to be joined to the middle of that side of the body with which it (the limb) is to be in contact.
+According to tradition, it (the fire-altar) is to be laid (with its head) towards the east.
+The number of bricks is not to be completed with those which are not made of clay or which are not bricks.
+As per teachings of this Brāhmaṇa, one fire-altar is laid with bricks, another with animals.
+For the fire-altar has the characteristics of an animal: the yoni of an animal is of different forms; before laying the bricks, the sacrificial formulas from the Yajus text are recited.
+Things occupying space are to be placed in holes (in the ground).
+6.10 By (diagrams in the form of) circle, bull, woman, signs made on the bricks
+are to be understood.
+TRANSLATION
+85
+6.11
+If the number of sacrificial formulas (recited) falls short of the number of bricks, the difference is to be made good by (the sacrificial formulas called) lokampṛņas because their number is unspecified.
+6.12 Types of bricks previously used are to be placed here.
+6.13 (There are) five lokampṛņas (in every fire-altar).
+6.14 If the number of sacrificial formulas exceeds (the number of bricks), anointed
+pebbles are to be placed in the interstices (between the bricks).
+6.15 By the statements 'he places (the bricks) to the east', 'he places (the bricks) to the west' are meant the placement of types of bricks in a straight line (towards the specified direction).
+6.16 By the statements 'he places (the bricks) to the east', 'he places (the bricks) to the west' are meant the directions faced by the constructor (of the fire- altar).
+6.17 (Bricks) in the east are to be placed oppositely towards west and those in the
+west oppositely towards east; such is the rule of restriction.
+6.18
+This sort (of arrangement) is suitable for a square (fire-altar with four corners).
+7
+7.1
+7.2
+7.3
+7.4
+7.5
+7.6
+7.7
+One should not use (for the laying of the fire-altar) a broken brick, a brick which is cleft, a blackened brick (due to over or under heating), a damaged brick and a brick with scratching marks. In the layer where a brick full of natural holes (svayamātṛṇṇa) is used it is not to be covered (by a brick).
+The height of the brick is to be made a fifth of the jānu (that is, 6% angula); that of the nākasat and the pañcacoḍā half of that measure (that is, 3 añgula).
+What is lost by drying and burning is to be made good by loose earth because of the flexibility of its quantity.
+According to tradition, the gārhapatya fire has the measure of 1 vyāyāma. It (gārhapatya fire) is a square by one tradition and a circle by another.
+The (garhapatya fire in the form of) square is to be divided into 7 parts (length- wise) and then into 3 parts transversely. In the second layer, bricks are to be placed towards north (that is, the division in the first layer as aforesaid is to be reversed).
+To place square bricks (instead of rectangular ones as indicated above), (square) bricks of sides one-sixth, one-fourth and one-third of 1 vyāyāma are made. Of them, 9 bricks of the first type and 12 of the second are placed in the first layer; 5 of the third type and 16 of the first are placed in the second layer.
+86
+7.8
+7.9
+7.10
+7.11
+7.12
+7.13
+7.14
+7.15
+BAUDHAYANA-ŚULBASŪTRA
+Within the (gārhapatya fire in the form of) circle a square of the maximum size possible is drawn and divided into 9 parts (squares). The segments of the circle (between the circumference and the square) are divided into 3 parts each. The second layer is placed in such a way that the corners (of the within the circle) lie at the centres of the segments (of the first layer).
+square
+The dhiṣnya fires are one-layered in the form of a square or a circle.
+Of these (dhisnya fires), the āgnīdhrīya is divided into 9 parts, and in one part a stone is to be placed (instead of a brick.)
+The dhisnya fire of the hoty priest is divided into 9 parts and the 3 parts on the eastern side are divided into 2 parts each.
+The others (dhiṣṇya fires) are each divided into 9 parts and then two parts, one in the centre and the other in the east, are combined.
+Now the mārjālīya fire is divided into 3 parts and then the eastern and the western parts (taken together) are divided into 5 parts.
+The bricks are to be made by mixing with ashes from the caldron.
+This applies to those whose consecration lasts a year and not to those under- going it for a smaller number of nights.
+7.16 Thus (the laying of) the fire-altar is completed with the sacrificial formulas
+(recited by the priest).
+7.17 After (a fire-altar made of) three thousand (bricks), a fire-altar to be piled with metres (of the sacred hymns) is to be laid. This is because of a difference in the wish. This (fire-altar) is falcon-shaped, as it is natural (for all such fire-altars).
 8.
 8.1
 8.2
@@ -3330,9 +3340,11 @@ circle and bricks used are made by the third part.
 bricks are (used) in the joints of the rim and spokes.
 16.7. The five layers of the chariot-wheel fire-altar are filled up with 1,768 bricks.
 The fulbasūtra is concluded.
+
+## 3 COMMENTARY
 PART III
 COMMENTARY
-BAUDHAYANA-SULBASŪTRA
+
 CHAPTER 1
 UNITS OF MEASUREMENTS, CONSTRUCTION OF SQUARES AND RECTANGLES, KNOWLEDGE OF SURD, THEOREM OF SQUARE
 ON THE DIAGONAL AND RELATED PROBLEMS.
@@ -3379,89 +3391,89 @@ I puruşa
 incha (approx.).
 Apastamba (Aśl. 6.5, 15.4) has prescribed the same values of Baudhāyana for iṣā, akṣa, yuga, puruṣa, vyāyāma, aratni and prādeśa. These units of Apastamba have been used by both Kâtyāyana (Kśl. 2.1, 5.9) and Mānava (Mśl. 2.1, 4.4). The unit pada has been made equal to 12 angulas by Kātyāyana (Kśl. 5.9). The term vitasti has been used in place of prādeśa by these two latter śulbakāras as well as by Kautilya in his Arthaśāstra”, while its value remains the same. Mānava (Mśl. 4.2- 4.4) has supplied some more units, e. g. 6 tuṇḍa=1 bāla of 3 years old calf; 3 bālas
 * Fleet, 233.
-  b Shamasastry (2), 117.
-  148
-  BAUDHAYANA-SULBASŪTRA
-  mustard seed; 2 mustard seeds=1 yavaa; 1 angula=6 yavas; and 1 prādeśa=10
-  vitastis.
-  The units like angula, pada, prakrama, prādeśa, bāhu, aratni carry a long tradition and have been used earlier in the Samhitas and Brāhmaṇic literature in the same. sense as these have been used in the Šulbasūtras.b
-  CONSTRUCTION of Squares and Rectangles
-  1.4-1.5. Square. Baudhāyana has described here two methods of construction of squares.
-  First Method. Let XY be the given cord and U a mark at its middle (Fig. 1 (a)); EW, the prăci of the figure = XY; O the middle point of EW obtained corresponding to U of XY, where a pole is fixed.
-  X
-  A
-  E
-  U
-  NI
-  Y
-  B
-  (a)
-  W
-  IS
-  S'
-  (b)
-  Fig.1. (a) Cord. (b) Square on a given length. hon
-  A circle with O as centre and OE as radius is drawn (Fig. 1(b)). Then EW is a diameter of the circle along east-west line. Two other circles with E and W as centres and EW as radius are separately drawn. The points of intersection of these two circles are denoted by N' and S' The line N'S' fixes the second diameter NS of the circle whose centre is 0. Again fastening the two ties once at E, W, N and S and drawing arcs, the points A, B, C, D are fixed. Then ABCD gives the required square. Second Method. Let XS, the given measure (pramāņa) be a and XY, the in- creased cord, 2a (Fig. 2(a)). S is the mark at the middle of XY; then XS measures the length for prāci.
-  T is the nyañcana mark, so that ST-a-la-la. U is another mark at the
-  middle of sr.
-  XT, the diagonal (akṣṇayā) = a+‡a={1
-  Tr, the breadth (tiryanmāni)
-  a Shamasastry (1), 153, 55.
-  b Macdonell and Keith, II, 577, 584.
-  =
-  2a-1-a
-  COMMENTARY
-  Clearly, a2 + ($a)2
-  ==
-  (81) 2
-  In other words, XY2 + rT2 = XT2.
-  ... XYT is a right-angled triangle (Fig.2(b)).
-  X
-  STU
-  N
-  E
-  M
-  AM
-  (b)
-  (0)
-  TK B
-  W
-  (c)
-  149
-  Fig. 2. (a) Cord. (b) Right-angled triangle.
-  (c) Square on a given length.
-  For the construction of any geometrical figure intended in the śulbasūtra XY is always stretched along east-west line, known as pārśvamāni, YT along north-south line, known as tiryañmānī, and XT along the diagonal known as akṣṇayārajju. Now it is easy to see how the right-angled triangle XYT has been used for the cons- truction of the square.
-  The corners L and K (śroņi points), M and N (amsa points) are fixed with the help of the point T of the triangle XYT [Fig.2(c)]. Then by using the half-cord Ur, the points C, B, D and A are marked such that WC-WB=ED=EA. The figure ABCD gives the required square.
-  1.6-1.7. Rectangle and isosceles trapezium. Baudhāyana's method of construction of rectangle with the help of a cord runs as follows:
-  Let XT be a piece of cord taken equal to the desired breadth of the rectangle
-  [Fig. 3 (a)];
-  S, a mark at the middle of XY;
-  Xx
-  S
-  A
-  (a)
-  W
-  H
-  (b)
-  Fig. 3. (a) Cord. (b) Rectangle having desired length and breadth.
-  150
-  BAUDHAYANA-ŚULBASŪTRA
-  E, W, the prăci poles;
-  P and Q, G and H, poles at equal distances apart on both sides of each of the
-  prăci poles.
-  O, the mark assigned by the middle mark S when ties at X and Y are fixed
-  at P and Q and stretched by S; and
-  A, the point designated by the middle mark S, when both ties at X and Y are
-  fixed at E and stretched!haling to
-  In a similar way, the other corner points, B, C, D, are traced [Fig. 3(b)]. Hence ABCD is the required rectangle.
-  In the rule (Bśl. 1.7), Baudhāyana hints at the method of construction of an isosceles trapezium shorter in one side. For this purpose, a mark on the cord accor- ding to desired length is to be given and the rest is similar to that of Bśl. 1.6. 1.8. Square. Baudhāyana describes here another method of construction of a square as follows:
-  Let XS be the cord of given measure a [Fig. 4(a)] ;
-  Xr=1a3a;
-  SY=1a;
-  T the nyañcana mark.
-  .. XT=a+ (}{} · {a} } a) = a + 12 a
-  :.
-  1
+b Shamasastry (2), 117.
+148
+BAUDHAYANA-SULBASŪTRA
+mustard seed; 2 mustard seeds=1 yavaa; 1 angula=6 yavas; and 1 prādeśa=10
+vitastis.
+The units like angula, pada, prakrama, prādeśa, bāhu, aratni carry a long tradition and have been used earlier in the Samhitas and Brāhmaṇic literature in the same. sense as these have been used in the Šulbasūtras.b
+CONSTRUCTION of Squares and Rectangles
+1.4-1.5. Square. Baudhāyana has described here two methods of construction of squares.
+First Method. Let XY be the given cord and U a mark at its middle (Fig. 1 (a)); EW, the prăci of the figure = XY; O the middle point of EW obtained corresponding to U of XY, where a pole is fixed.
+X
+A
+E
+U
+NI
+Y
+B
+(a)
+W
+IS
+S'
+(b)
+Fig.1. (a) Cord. (b) Square on a given length. hon
+A circle with O as centre and OE as radius is drawn (Fig. 1(b)). Then EW is a diameter of the circle along east-west line. Two other circles with E and W as centres and EW as radius are separately drawn. The points of intersection of these two circles are denoted by N' and S' The line N'S' fixes the second diameter NS of the circle whose centre is 0. Again fastening the two ties once at E, W, N and S and drawing arcs, the points A, B, C, D are fixed. Then ABCD gives the required square. Second Method. Let XS, the given measure (pramāņa) be a and XY, the in- creased cord, 2a (Fig. 2(a)). S is the mark at the middle of XY; then XS measures the length for prāci.
+T is the nyañcana mark, so that ST-a-la-la. U is another mark at the
+middle of sr.
+XT, the diagonal (akṣṇayā) = a+‡a={1
+Tr, the breadth (tiryanmāni)
+a Shamasastry (1), 153, 55.
+b Macdonell and Keith, II, 577, 584.
+=
+2a-1-a
+COMMENTARY
+Clearly, a2 + ($a)2
+==
+(81) 2
+In other words, XY2 + rT2 = XT2.
+... XYT is a right-angled triangle (Fig.2(b)).
+X
+STU
+N
+E
+M
+AM
+(b)
+(0)
+TK B
+W
+(c)
+149
+Fig. 2. (a) Cord. (b) Right-angled triangle.
+(c) Square on a given length.
+For the construction of any geometrical figure intended in the śulbasūtra XY is always stretched along east-west line, known as pārśvamāni, YT along north-south line, known as tiryañmānī, and XT along the diagonal known as akṣṇayārajju. Now it is easy to see how the right-angled triangle XYT has been used for the cons- truction of the square.
+The corners L and K (śroņi points), M and N (amsa points) are fixed with the help of the point T of the triangle XYT [Fig.2(c)]. Then by using the half-cord Ur, the points C, B, D and A are marked such that WC-WB=ED=EA. The figure ABCD gives the required square.
+1.6-1.7. Rectangle and isosceles trapezium. Baudhāyana's method of construction of rectangle with the help of a cord runs as follows:
+Let XT be a piece of cord taken equal to the desired breadth of the rectangle
+[Fig. 3 (a)];
+S, a mark at the middle of XY;
+Xx
+S
+A
+(a)
+W
+H
+(b)
+Fig. 3. (a) Cord. (b) Rectangle having desired length and breadth.
+150
+BAUDHAYANA-ŚULBASŪTRA
+E, W, the prăci poles;
+P and Q, G and H, poles at equal distances apart on both sides of each of the
+prăci poles.
+O, the mark assigned by the middle mark S when ties at X and Y are fixed
+at P and Q and stretched by S; and
+A, the point designated by the middle mark S, when both ties at X and Y are
+fixed at E and stretched!haling to
+In a similar way, the other corner points, B, C, D, are traced [Fig. 3(b)]. Hence ABCD is the required rectangle.
+In the rule (Bśl. 1.7), Baudhāyana hints at the method of construction of an isosceles trapezium shorter in one side. For this purpose, a mark on the cord accor- ding to desired length is to be given and the rest is similar to that of Bśl. 1.6. 1.8. Square. Baudhāyana describes here another method of construction of a square as follows:
+Let XS be the cord of given measure a [Fig. 4(a)] ;
+Xr=1a3a;
+SY=1a;
+T the nyañcana mark.
+.. XT=a+ (}{} · {a} } a) = a + 12 a
+:.
+1
 +
 and Tra&a= os a
 The relation a2+(a)2 =
@@ -3907,35 +3919,35 @@ d
 +
 8.29
 + (3.2.6-8.296.8)}]
-  d
-  d
-  (.
+d
+d
+(.
 + 8.29 - 12/04 (14-12-1/2)
-  8.29 6
-  6.8
-  3.12)
-  This result is also given by both Āpastamba (Āśl. 3.3) and Kātyāyana (Kśl.
-  Rationale.
-  (A) The rationale of the result obtained from the first method is given by Thi- baut, Cantor and Müller as follows:
-  (i) Thibautd has suggested that the result was possibly obtained from the previous result of circling a square, r = ÷ (2 + √2) by inversion.
-  a
-  3
-  For, 2a ===
-  d
-  2+√2
-  1224
-  577
-  d
-  :: √2 =
-  =
-  1393
-  408
-  = d
-  (
-  7
-  1
-  1
-  1
+8.29 6
+6.8
+3.12)
+This result is also given by both Āpastamba (Āśl. 3.3) and Kātyāyana (Kśl.
+Rationale.
+(A) The rationale of the result obtained from the first method is given by Thi- baut, Cantor and Müller as follows:
+(i) Thibautd has suggested that the result was possibly obtained from the previous result of circling a square, r = ÷ (2 + √2) by inversion.
+a
+3
+For, 2a ===
+d
+2+√2
+1224
+577
+d
+:: √2 =
+=
+1393
+408
+= d
+(
+7
+1
+1
+1
 +
 +
 8
@@ -3945,8 +3957,8 @@ d
 1741.
 since, 1) 1/8th of 1393 =
 2) 7/8th of 1393
-   12187 (less by 51⁄2 from 1224)
-   1
+12187 (less by 51⁄2 from 1224)
+1
 3)
 th of 1393 6 (approx)
 8.29
@@ -4132,26 +4144,26 @@ where 2a + 1 is the difference between the squares of c and the next positive in
 e
 VĀ =a+
 + e
-  2a + 1
-  Then squaring both sides and cancelling the value of e2, since it is very small, the value of e is obtained.
-  Here √3
-  =
+2a + 1
+Then squaring both sides and cancelling the value of e2, since it is very small, the value of e is obtained.
+Here √3
+=
 + e
-  Squaring and cancelling the value of e2 we get
-  10
-  25
-  et
-  3
-  3
-  9
-  1
-  or e =
-  15
-  Obviously,
-  then √3 1 + 3/3/3/3
-  a =
+Squaring and cancelling the value of e2 we get
+10
+25
+et
+3
+3
+9
+1
+or e =
+15
+Obviously,
+then √3 1 + 3/3/3/3
+a =
 22. √57
-    26
+26
 +
 15
 15
@@ -4192,42 +4204,42 @@ Thibaut, Rodet, Datta, and others gave possible methods of solution for arri- vi
 (i) Thibaut's proof.a
 Now, 172 2.122
 1. Thibaut argued, by how much the side 17 must be diminished in order that the square on it may be 2.122 exactly. Since 2 × 17 ×
-   1
-   1 1, he observed, two strips each of (approximately) are to be cut off from a square with 17 as side to obtain the square 2.122 (i.e. 12a2 + 122).
-   Hence, 17
-   1 2
-   34
-   2.122
-   1
-   17
-   34
-   or,
-   =
-   √2
-   12
-   1
-   1
-   Again, 17
-   12 +
-   34
-   34
-   1
-   or,
-   17
-   12
-   1+
-   34
-   1
-   1
-   3 + 34-3.4.34)
-   1
-   17
-   34
-   1
-   1
-   1
-   or,
-   1 +
+1
+1 1, he observed, two strips each of (approximately) are to be cut off from a square with 17 as side to obtain the square 2.122 (i.e. 12a2 + 122).
+Hence, 17
+1 2
+34
+2.122
+1
+17
+34
+or,
+=
+√2
+12
+1
+1
+Again, 17
+12 +
+34
+34
+1
+or,
+17
+12
+1+
+34
+1
+1
+3 + 34-3.4.34)
+1
+17
+34
+1
+1
+1
+or,
+1 +
 +
 12
 3
@@ -4239,97 +4251,97 @@ or, √/2
 =
 1+
 + 3
-  2.4
-  3.4.34
-  In Baudhāyana's selection of units of 12 angulas (= 1 pada) and 34 tilas 1 angula) Thibaut found justification for the choice of the arbitrary relation 172 = 2.122 (approx.) leading to the origin of the formula of √2, as given in the
-  text.
-  (ii) Rodet's approximation.b
-  According to Rodet, the approximation adopted by śulbakāras may be obtained by successive approximation.
-  a Thibaut (1) 239-41
-  b Rodet, 162-165
-  166
-  BAUDHAYANA-SULBASUTRA
-  r
-  r
-  r
-  2a +
-  2a + 1
-  Va2 +r=a+
+2.4
+3.4.34
+In Baudhāyana's selection of units of 12 angulas (= 1 pada) and 34 tilas 1 angula) Thibaut found justification for the choice of the arbitrary relation 172 = 2.122 (approx.) leading to the origin of the formula of √2, as given in the
+text.
+(ii) Rodet's approximation.b
+According to Rodet, the approximation adopted by śulbakāras may be obtained by successive approximation.
+a Thibaut (1) 239-41
+b Rodet, 162-165
+166
+BAUDHAYANA-SULBASUTRA
+r
+r
+r
+2a +
+2a + 1
+Va2 +r=a+
 +
 + e
-  2a + 1
-  r
-  2 1 +
-  2a + I
-  where e is a fourth term approximation.
-  Rodet might have obtained the result as follows:
-  √a2 + r = a +
-  r
-  2a + 1
-  [two term approximation] where 2a + 1 is the
-  difference of the squares of a and the next positive integer a + 1.
-  For third term approximation, assume
-  7"
-  √a2 + r = a +
-  +r
+2a + 1
+r
+2 1 +
+2a + I
+where e is a fourth term approximation.
+Rodet might have obtained the result as follows:
+√a2 + r = a +
+r
+2a + 1
+[two term approximation] where 2a + 1 is the
+difference of the squares of a and the next positive integer a + 1.
+For third term approximation, assume
+7"
+√a2 + r = a +
++r
 + ei
-  2a + 1
-  2a +r+ 1
-  +61
-  2a + 1
-  Squaring and neglecting e2, we get
-  2 (2a + r + 1) 2a + 1
-  e1
-  a2 + r
-  .. 1
-  2ar 1 2
-  2a + 1
-  =
-  r (2a+1 − r)
-  (2a + 1)2
-  2
-  r (2a + 1
-  2 (2a+1) (2a +
-  r)
-  1 + r)
-  r
-  r
-  I
-  2a + 1
-  2a + 1
-  r
-  2
-  1 +
-  2a + 1
-  Likewise, the fourth term approximation is obtained.
-  Obviously, following above, we write,
-  √2 = √I2 + 1
-  = 1 + 1/1/13
-  4
-  Let √2 = 1 +
-  +e
-  te
-  3
-  3
-  Squaring both sides and cancelling e2 from both sides, we get
-  8
-  16
-  2
-  e
-  2
-  3
-  9
-  9
-  3
-  1
-  1
-  .. e =
-  8
-  12
-  3.4
-  1
-  =
-  1 +
+2a + 1
+2a +r+ 1
++61
+2a + 1
+Squaring and neglecting e2, we get
+2 (2a + r + 1) 2a + 1
+e1
+a2 + r
+.. 1
+2ar 1 2
+2a + 1
+=
+r (2a+1 − r)
+(2a + 1)2
+2
+r (2a + 1
+2 (2a+1) (2a +
+r)
+1 + r)
+r
+r
+I
+2a + 1
+2a + 1
+r
+2
+1 +
+2a + 1
+Likewise, the fourth term approximation is obtained.
+Obviously, following above, we write,
+√2 = √I2 + 1
+= 1 + 1/1/13
+4
+Let √2 = 1 +
++e
+te
+3
+3
+Squaring both sides and cancelling e2 from both sides, we get
+8
+16
+2
+e
+2
+3
+9
+9
+3
+1
+1
+.. e =
+8
+12
+3.4
+1
+=
+1 +
 +
 3.4
 1
@@ -4342,34 +4354,34 @@ Let √2
 =
 17
 + e
-  12
-  COMMENTARY
-  Squaring both sides and cancelling e2 from both sides,
-  17
-  e = 2
-  6
-  12
-  (1)
-  2
-  1
-  144
-  1
-  6
-  1
-  e
-  Х
-  144
-  17
-  12.34
-  1
-  3.4.34
-  √2
-  =
-  1 +
-  1
-  3
-  1
-  1
+12
+COMMENTARY
+Squaring both sides and cancelling e2 from both sides,
+17
+e = 2
+6
+12
+(1)
+2
+1
+144
+1
+6
+1
+e
+Х
+144
+17
+12.34
+1
+3.4.34
+√2
+=
+1 +
+1
+3
+1
+1
 +
 (approx.)
 3.4
@@ -4454,99 +4466,99 @@ The garhapatya is the householder's fire received from his father and transmitte
 East of the prāgvaṛśa and separated by a narrow space, the mahāvedi or the saumiki vedi (the soma altar) is placed symmetrically about the east-west (prācī) line. This is a trapezium measuring 30 units on the western side, 24 on the eastern side and 36 units east-west along the spine. The setting up of the mahāvedi is descri- bed in the Satapatha Brāhmaṇa as follows (Eggeling's translation)b:
 "1. From the post which is the largest on the east side (of the hall) he now strides three steps forwards (to the east), and there drives in a peg,—this is the intermediate (peg).
 2. From the middle peg he strides fifteen steps to the right, and there drives
-   in a peg,-this is the right hip.
+in a peg,-this is the right hip.
 3. From the middle peg he strides fifteen steps northwards, and there drives
-   in a peg,—this is the left hip.
+in a peg,—this is the left hip.
 4. From that middle peg he strides thirty-six steps eastwards, and there drives
-   in a peg, this is the fore-part.
+in a peg, this is the fore-part.
 5. From the middle peg (in front) he strides twelve steps to the right, and
-   there drives in a peg,—this is the right shoulder.
+there drives in a peg,—this is the right shoulder.
 6. From the middle peg he strides twelve steps to the north, and there drives
-   in a peg, this is the left shoulder. This is the measure of the altar."
-   After the area of the mahāvedi is thus marked out, the sadas tent is erected near the western base of the mahāvedi. The tent is rectangular in area, the longer side lying south-north symmetrically about the east-west line, and is provided with doors on the western and the eastern side. This tent is reserved for the priests to sit
-   ■ Sat. Br., I. 1.2.23.
-   b III. 5.1.3-6.O
-   North
-   Āg
-   H
-   COMMENTARY
-   East
-   πλυν
-   o
-   JV
-   -prācī
-   Dh
-   Dh
-   S
-   •Ud
-   SAD A S
-   Mahāvedi
-   0 כ
-   о
-   ᄋᄆ
-   G
-   M
-   South
-   Pragvamsa
-   West
-   Fig. 26. Plan of the Sacrificial Ground.
-   171
-   172
-   BAUDHAYANA-SULBASŪTRA
-   and conduct various operations:- "And because all the gods sat (sad) in it there- fore it is called sadas—and so do these Brāhmaṇas of every family now sit therein.”a Clearly the tent is divided by the prăci line into two parts. In the middle of it, a post of udumbara wood (Fiscus glomerata) is fixed to the ground.
-   Inside the sadas, six dhiṣnya hearths, Dh, are prepared. These are subordinate or side altars, generally a heap of earth covered with sand on each of which a fire is placed. There are actually eight dhiṣnyas, of which two, e.g., the āgnidhra and the mārjālīya are placed outside the sadas as will be seen in what follows. Of these six hearths placed in the tent, five are placed on the northern part parallel to the east side and belong, in order from the south to the (1) Hoty, (2) Brāhmaṇācchamsi, (3) Potr, (4) Neştṛ, and (5) Acchāvāka. The dhiṣṇya hearth belonging to the Maitrā- varuṇa or Praśāstṛ priest is placed on the southern half of the tent near the east side.
-   The two other dhisnya hearths, e.g. the āgnidhra, Āg, and the mārjāliya, M, are placed in the middle part of the northern and the southern side respectively of the mahāvedi. Both these hearths are set up under square sheds with four posts erected over them, open on the east side and the side facing the havirdhāna cart-shed in the middle of the altar. The Brāhmaṇa says: "In the north-with regard to the back part of the Soma-carts-he then raises the āgnidhra (shed). One half of it should be inside the altar, and one half outside; or more than one half may be inside the altar and less outside; or the whole of it may be inside the altar... "e Āgnidhra is the sacred fire and is to be thrown up first. The mārjāliya is a heap of earth on which sacrificial vessels are cleansed and is the last to be thrown up.
-   In the middle region of the mahāvedi, east of the sadas and in line with the āgnidhra and the mārjāliya, the havirdhāna shed, H, is erected. This is the shed for the Soma-cart used for carrying soma plants to the sacrificial ground. Regarding the derivation of the name, the Brāhmaṇa says: ‘And because Soma is therein-Soma being havis (material for offering) for the gods-therefore it is called Havirdhāna (receptacle of havis)'.d The cart-shed is provided with doors on the eastern and the western side and possibly on the southern and northern sides. Regarding the construction of the cart-shed, Eggeling, following Sayana and Katyayana, explains that, in front of the carts and behind them, beams are driven into the ground, six on each side. The two middle ones, one cubit north and south of the prăci line respectively, forming a gateway on each side. On these two rows of beams other beams are laid, running from south to north, and forming, as it were, the lintels of the gates; the tie beams running west-east rest on them. This frame of timber is to form a square of nine (or ten) cubits. Mats of seed-grass are spread over the tie beams.
-   a Sat. Br. III. 5. 3. 5.
-   b Sat. Br. III. 6. 1. 2.
-   c Sat. Br. III. 6. I. 26.,
-   d Sat. Br. III. 5. 3. 2.
-   e Śat. Br. III. 5.3.9. Eggeling's notes, SBE, 27, 128.
-   COMMENTARY
-   173
-   Uparavas are sounding holes dug out in the ground near the havirdhāna. The soma plants are ground over this hole, emitting the sound of the grinding stone, which gave it the name. The exact location of these sounding holes is not clear. The Satapatha Brāhmaṇa says: 'He digs just beneath the fore-part of the shafts of the southern cart.'a Karavinda says that the uparavas are located in the south-west corner of the southern part of the cart-shed,—dakṣiṇahavirdhānasya dakṣiṇaśroṇyāmu- paravāḥ.
-   The uttara vedi, UV, is raised near the eastern side of the mahāvedi, with the prāci line passing through its middle. It literally means 'higher or upper altar' and so is likened to the nose of the sacrificer: 'That high altar (uttara vedi) is the nose oft he sacrificer; because they throw it up so as to be higher than the altar, therefore it is called 'high altar'. The altar is built with the earth dug out of the cātvāla pit. This cātvāla pit is dug out at a little distance towards north from the north-east corner of the mahāvedi. The Brāhmaṇa says: "....and from where the northern peg of the front side is, he strides three steps backwards and there marks off the pit (cātvāla).'¢ It is of the same measure as that of the uttara vedi. Karavinda's comments on the cātvāla is as follows: uttarasmādvedyamsādudakprakrame cātvāla uttaravedisammitaḥ. West of the cātvāla is the rubbish heap utkara, U. Eggeling has observed that the exact distance of the cātvāla is left to the discretion of the Adhvaryu priest, provided it is in front of the utkara and a narrow passage is left between them. He also says that the cātvāla pit should be contiguous to the north edge of the large altar, that is, the mahāvedi.
-   DISTANCE AND RELATIVE POSITION OF GARHAPATYA, AHAVANIYA, DAKṢIŅĀGNI
-   AND UTKARA
-   3.1-3.5 According to Baudhayana, the āhavaniya is constructed at a distance of 8 prakramas from the garhapatya fire, when it is made by 4 Brāhmaṇas. The distance is sometimes 11 or 12 prakramas for peoples other than the Brāhmaṇas and followed traditionally from the time of the Satapatha Brāhmaṇa (Śat. Br. I. 7.3. 23-25). For finding the relative positions of garhapatya, āhavaniya and dakṣiṇāgni fires, Baudhāyana has prescribed the following three methods :
-   First method.
-   Let A,G, and D stand for āhavaniya, gārhapatya and dakṣiņāgni fires. The distance AG is divided into three equal parts, and with each third part, three squares are drawn touching each other; then the north-west corner of the western square, south- east corner of the same square and north-east corner of the eastern square mark the places for gārhapatya, dakṣiṇāgni and āhavaniya fires respectively (Fig. 27). When A and G are interchanged the corresponding position of D i.e. U will denote the place for utkara. Kātyāyana has given a similar method for fixing the positions of A, G, D and U (vide Kśl. 1.11).
-   a Sat. Br. III. 5.4.3.
-   b Sat. Br. III. 5.1.12.
-   c Sat. Br. III. 5.1.26.
-   174
-   C
-   A
-   BAUDHAYANA-SULBASŪTRA
-   E
-   E
-   A
-   D
-   H
-   G
-   Fig. 27.
-   C
-   8
-   W
-   W
-   Fig. 29.
-   Fig. 28.
-   Here, if a be the distance between the gārhapatya and the āhavaniya, then
-   AD
-   √ ( a )
-   2
-   2
-   a
-   2
-   3
-   √5 3
-   a
-   2
-   a
-   a
-   2
-   √2
-   and GD
+in a peg, this is the left shoulder. This is the measure of the altar."
+After the area of the mahāvedi is thus marked out, the sadas tent is erected near the western base of the mahāvedi. The tent is rectangular in area, the longer side lying south-north symmetrically about the east-west line, and is provided with doors on the western and the eastern side. This tent is reserved for the priests to sit
+■ Sat. Br., I. 1.2.23.
+b III. 5.1.3-6.O
+North
+Āg
+H
+COMMENTARY
+East
+πλυν
+o
+JV
+-prācī
+Dh
+Dh
+S
+•Ud
+SAD A S
+Mahāvedi
+0 כ
+о
+ᄋᄆ
+G
+M
+South
+Pragvamsa
+West
+Fig. 26. Plan of the Sacrificial Ground.
+171
+172
+BAUDHAYANA-SULBASŪTRA
+and conduct various operations:- "And because all the gods sat (sad) in it there- fore it is called sadas—and so do these Brāhmaṇas of every family now sit therein.”a Clearly the tent is divided by the prăci line into two parts. In the middle of it, a post of udumbara wood (Fiscus glomerata) is fixed to the ground.
+Inside the sadas, six dhiṣnya hearths, Dh, are prepared. These are subordinate or side altars, generally a heap of earth covered with sand on each of which a fire is placed. There are actually eight dhiṣnyas, of which two, e.g., the āgnidhra and the mārjālīya are placed outside the sadas as will be seen in what follows. Of these six hearths placed in the tent, five are placed on the northern part parallel to the east side and belong, in order from the south to the (1) Hoty, (2) Brāhmaṇācchamsi, (3) Potr, (4) Neştṛ, and (5) Acchāvāka. The dhiṣṇya hearth belonging to the Maitrā- varuṇa or Praśāstṛ priest is placed on the southern half of the tent near the east side.
+The two other dhisnya hearths, e.g. the āgnidhra, Āg, and the mārjāliya, M, are placed in the middle part of the northern and the southern side respectively of the mahāvedi. Both these hearths are set up under square sheds with four posts erected over them, open on the east side and the side facing the havirdhāna cart-shed in the middle of the altar. The Brāhmaṇa says: "In the north-with regard to the back part of the Soma-carts-he then raises the āgnidhra (shed). One half of it should be inside the altar, and one half outside; or more than one half may be inside the altar and less outside; or the whole of it may be inside the altar... "e Āgnidhra is the sacred fire and is to be thrown up first. The mārjāliya is a heap of earth on which sacrificial vessels are cleansed and is the last to be thrown up.
+In the middle region of the mahāvedi, east of the sadas and in line with the āgnidhra and the mārjāliya, the havirdhāna shed, H, is erected. This is the shed for the Soma-cart used for carrying soma plants to the sacrificial ground. Regarding the derivation of the name, the Brāhmaṇa says: ‘And because Soma is therein-Soma being havis (material for offering) for the gods-therefore it is called Havirdhāna (receptacle of havis)'.d The cart-shed is provided with doors on the eastern and the western side and possibly on the southern and northern sides. Regarding the construction of the cart-shed, Eggeling, following Sayana and Katyayana, explains that, in front of the carts and behind them, beams are driven into the ground, six on each side. The two middle ones, one cubit north and south of the prăci line respectively, forming a gateway on each side. On these two rows of beams other beams are laid, running from south to north, and forming, as it were, the lintels of the gates; the tie beams running west-east rest on them. This frame of timber is to form a square of nine (or ten) cubits. Mats of seed-grass are spread over the tie beams.
+a Sat. Br. III. 5. 3. 5.
+b Sat. Br. III. 6. 1. 2.
+c Sat. Br. III. 6. I. 26.,
+d Sat. Br. III. 5. 3. 2.
+e Śat. Br. III. 5.3.9. Eggeling's notes, SBE, 27, 128.
+COMMENTARY
+173
+Uparavas are sounding holes dug out in the ground near the havirdhāna. The soma plants are ground over this hole, emitting the sound of the grinding stone, which gave it the name. The exact location of these sounding holes is not clear. The Satapatha Brāhmaṇa says: 'He digs just beneath the fore-part of the shafts of the southern cart.'a Karavinda says that the uparavas are located in the south-west corner of the southern part of the cart-shed,—dakṣiṇahavirdhānasya dakṣiṇaśroṇyāmu- paravāḥ.
+The uttara vedi, UV, is raised near the eastern side of the mahāvedi, with the prāci line passing through its middle. It literally means 'higher or upper altar' and so is likened to the nose of the sacrificer: 'That high altar (uttara vedi) is the nose oft he sacrificer; because they throw it up so as to be higher than the altar, therefore it is called 'high altar'. The altar is built with the earth dug out of the cātvāla pit. This cātvāla pit is dug out at a little distance towards north from the north-east corner of the mahāvedi. The Brāhmaṇa says: "....and from where the northern peg of the front side is, he strides three steps backwards and there marks off the pit (cātvāla).'¢ It is of the same measure as that of the uttara vedi. Karavinda's comments on the cātvāla is as follows: uttarasmādvedyamsādudakprakrame cātvāla uttaravedisammitaḥ. West of the cātvāla is the rubbish heap utkara, U. Eggeling has observed that the exact distance of the cātvāla is left to the discretion of the Adhvaryu priest, provided it is in front of the utkara and a narrow passage is left between them. He also says that the cātvāla pit should be contiguous to the north edge of the large altar, that is, the mahāvedi.
+DISTANCE AND RELATIVE POSITION OF GARHAPATYA, AHAVANIYA, DAKṢIŅĀGNI
+AND UTKARA
+3.1-3.5 According to Baudhayana, the āhavaniya is constructed at a distance of 8 prakramas from the garhapatya fire, when it is made by 4 Brāhmaṇas. The distance is sometimes 11 or 12 prakramas for peoples other than the Brāhmaṇas and followed traditionally from the time of the Satapatha Brāhmaṇa (Śat. Br. I. 7.3. 23-25). For finding the relative positions of garhapatya, āhavaniya and dakṣiṇāgni fires, Baudhāyana has prescribed the following three methods :
+First method.
+Let A,G, and D stand for āhavaniya, gārhapatya and dakṣiņāgni fires. The distance AG is divided into three equal parts, and with each third part, three squares are drawn touching each other; then the north-west corner of the western square, south- east corner of the same square and north-east corner of the eastern square mark the places for gārhapatya, dakṣiṇāgni and āhavaniya fires respectively (Fig. 27). When A and G are interchanged the corresponding position of D i.e. U will denote the place for utkara. Kātyāyana has given a similar method for fixing the positions of A, G, D and U (vide Kśl. 1.11).
+a Sat. Br. III. 5.4.3.
+b Sat. Br. III. 5.1.12.
+c Sat. Br. III. 5.1.26.
+174
+C
+A
+BAUDHAYANA-SULBASŪTRA
+E
+E
+A
+D
+H
+G
+Fig. 27.
+C
+8
+W
+W
+Fig. 29.
+Fig. 28.
+Here, if a be the distance between the gārhapatya and the āhavaniya, then
+AD
+√ ( a )
+2
+2
+a
+2
+3
+√5 3
+a
+2
+a
+a
+2
+√2
+and GD
 +
 3
 a
@@ -4885,36 +4897,36 @@ s+
 -)
 S
 + s
-  st -) = 71 + 1
-  10
-  ▲ saptavidhameva prathamam vidadhitāthathaikottaramaikaśatavidhādekaśatavidham (Śat. Br, X. 2.3. 17-18).COMMENTARY
-  181
-  12
-  11
-  or
-  452 +
-  s2 +
-  s2 = 71+p
-  10
-  15
-  or
-  73+ Þ
-  2
-  2
-  2p
-  or
-  15
-  (7 } + p)
-  1 +
-  15
-  2p
-  or s =
-  1 +
-  15
-  when p
-  ===
-  94, the maximum enlargement,
-  S
+st -) = 71 + 1
+10
+▲ saptavidhameva prathamam vidadhitāthathaikottaramaikaśatavidhādekaśatavidham (Śat. Br, X. 2.3. 17-18).COMMENTARY
+181
+12
+11
+or
+452 +
+s2 +
+s2 = 71+p
+10
+15
+or
+73+ Þ
+2
+2
+2p
+or
+15
+(7 } + p)
+1 +
+15
+2p
+or s =
+1 +
+15
+when p
+===
+94, the maximum enlargement,
+S
 -
 13
 8
@@ -4967,9 +4979,9 @@ p2
 Baudhāyana's solutions are :
 9, y
 (i) x (ii) x
--
+
 5, y
-= 
+
 www.
 16,
 12, p р
@@ -5324,173 +5336,173 @@ B3 — quarter brick (pādyā), obtained by cutting the one-fourth brick diagona
 four-sided quarter brick (caturaśra-pādyā), of which CD equals 10 angulas, BC 15 angulas, AB 22 angulas, AD 15 √2 angulas. 1 pada being 15 angulas, the measures are given here in angulas. padasaviseṣa means the diagonal of a square of side 1 pada or 15 angulas or the hypoteneuse of a right-isosceles triangle of side 15 angulas. Clearly, such a figure is obtained by joining the rectangle EBCD with the isosceles right triangle AED along the common side ED. Its
 15 x 15 15 × 15 area is
 + 2
-  2
-  as that of the quarter brick B3.
-  sq. angulas 15 x 15 sq. angulas, the same
-  =
-  B-half brick ABCDE obtained by joining 2 B1s along their common longest side
-  AF; this is also called swan-beaked, amsamukhi.
-  30 ang
-  A
-  D
-  A
-  30 ang
-  C
-  B
-  30√2 ang
-  1
-  -15√2 ang
-  1
-  15 ang
-  C
-  B
-  C
-  B
-  30 ang
-  B2
-  B3
-  B1
-  Α
-  15 √2 ang
-  ليا
-  E
-  15/2 ang
-  B
-  15
-  B1
-  4
-  A
-  E
-  F
-  B5
-  Fig. 37. Brick types.
-  Areas and Shapes of different parts of the Fire-ALTAR.
-  10.4-10.9. The body: A rectangle ABCD is drawn with AB equal to 2 pu. or 240 ang. and AD 10 padas or 150 ang. (Fig. 38 (a) ). FD, DG, HC, CI, BJ, BK, AL and AE are measured out such that each equals 45 ang. (=11⁄2 prakrama). Join FG, HI, JK and LE. EFGHIJKL is the body of the altar, with its four corners cut off as laid down in the rule. The area is (240 x 1802 × 45 × 45) sq. angulas or sq. pu.
-  11⁄2 The commentator measures the area in a unit of șoḍaśi which is 1/16 sq. pu. or 30 x 30 sq. angulas, also called a caturthi, the area of B1. In this unit, the area of the body reduces to 351 caturthis,—evamāṭmaśroṇyamseṣvardhapañcamāścaturthyo nirastā bhavanti | atha ŝiṣṭā ardhaṣaṣṭhāstriṛśaccaturthyo bhavanti |—D.
-  The head: A rectangle ABCD is formed with AB equal to 821⁄2 ang. and BC = 60 ang. (Fig. 38 (b)). From the centre E of AD, EF and EG are joined, AE, ED, AG, DF each being equal to 30 ang. EGBCF is the head measuring 41 caturthis or sq. pu. (itarā ardhapañcamāḥ śiro bhavanti—D.).
-  192
-  BAUDHAYANA-SULBASŪTRA
-  The tail: The tail is formed out of a rectangle ABCD, of which AB is 90 ang. and BC 240 ang., by cutting off the two triangles ABE and CDF, where AB = AE = CD FD = 90 ang. (Fig. 38 (c) ). The areas of the tail EBCF is 15 caturthis or 18 sq. pu.
-  The wings: A rectangle ABCD, of which AB is 150 ang. and BC 180 ang., is formed (Fig. 38 (d)). At the mid-point P of BC a perpendicular PE is drawn towards east so that PE is 90 ang. Then the triangle EBC is cut off and placed on the eastern side AD as the triangle FAD. The area of the figure ABECDF remains the same as the rectangle ABCD. In this way the wing is bent or curved (nirṇāma). That the area is not affected by bending in this way is clearly recognized in the Satapatha Brāhmaṇa: "He then makes the wings crooked, for a bird's wings are crooked.........he thus draws them out by just as much as he draws them in; and thus, indeed, he neither exceeds (its size) nor does he make it too small.""
-  For the construction of the plumages, five squares DGK11, L1K1KL2 etc. are drawn with side 30 ang. and intersected by the diagonals DK1, L1K, etc. The outer triangular halves DGK1, L1K1K2 etc. are cut off.
-  1 2
-  This is the construction of the southern wing; the northern wing is constructed in the same manner. The area of each wing is 32 caturthis and of two wings 65 caturthis or sq. pu.
-  150 ang
-  E
-  F
-  A
-  D
-  E30 ang
-  D
-  45ang-
-  G
-  F
-  Q
-  -822 ang 60 ang
-  240 ang
-  B
-  (b)
-  K
-  H
-  B
-  (a)
-  A
-  180 ang
-  G
-  90ang E
-  K1
-  K2
-  K3
-  KA
-  240 ang
-  C
-  B
-  B
-  P
-  (c)
-  (d)
-  Fig. 38. Different parts of the Falcon with curved wings and extended tail-(a) body,
-  (b) head, (c) tail, and (d) wing with plumages (patra)—first type.
-  a Śat. Br· X. 2·1.7; Eggeling's translation.
-  COMMENTARY
-  193
-  The total area of the fire-altar, including the body, the head, the tail and the two wings is (35+4 15+65) or 120 caturthis (or sodasis), that is, 10 =
-  7 sq. pu. (atra ātmani sārdhapañcatrimŝaccaturthyaḥ | sirasyardhapañcamāḥ pucche pañcadafa | dasasu patreşu pañca | pakṣayoḥ sastiḥ | evam vimsatyadhikam satam sodasyaḥ | puruşakşetre sodasa sodasyah serate |--D.)
-  10.10-10.14. Placement of bricks in the first layer. The placement of bricks is shown in Fig. 39 (a) and (b). Two methods are given for the head; the second method is shown in (b). In each case the number of bricks employed is 14. At the eastern and the western end of the body near the junctions with the head and the tail 5 B ̧s are placed. In the truncated parts, B2s and Bas are placed. Since the head has already been covered, this means placement in the 4 corners of the body, 2 sides of the wing (excluding the western end), eastern and western sides of the curved wings and the feathers at the end. The rest is filled with B1 bricks.
-  E
-  N
-  2
-  1
-  12
-  2
-  2
-  1
-  1
-  2
-  S
-  2
-  2
-  1
-  2
-  1
-  1
-  2
-  W
-  (a)
-  5
-  a
-  (b)
-  Fig. 39. (a) Arrangement of bricks in the fyenacit with curved wings and extended tail (north wing not shown); (b) alternative placement of bricks in the head. First layer.
-  As pointed out by Thibaut, the bricks specifically mentioned in the sūtras 10.10- 10.12 total 68; the remaining space, as per sūtra 10.13, can be filled with 91 B1 bricks thus giving a total number of 159 bricks which fall short of 200 bricksa.
-  The deficit is to be made good by using B2s and B ̧s as necessary. Dvārakānātha explains that there are 12 rows south-north in the tail and the body excluding the head and the wing (sirovarjam pucchena sahātmanyudicyo dvādaśa ritayaḥ). Starting from
-  Thibaut, 210-
-  194
-  1
-  BAUDHAYANA-SULBASUTRA
-  the end of the tail, 4 B1s in the 2nd row are replaced by 16 B2s, 2 B2s in the 3rd row by 4 B,s and the middle B1 in the 8th row by 2Bs. In each wing, excluding the feathers, there are 6 rows west-east. In each of the 3rd and the 4th row from the south, 3 B1s are replaced by 6 B2s and 1 B1 is substituted by 4 B ̧s. In the 5th row, at the bottom is replaced by 2 B2s. The total number and types of bricks used in the various parts of the fire-altar are shown in Table 5.
-  1 B1
-  1
-  TABLE 5. Number and types of bricks used in different parts of the fire-altar—first layer.
-  Parts of the citi
-  Head
-  Body
-  Wings
-  Tail
-  Total
-  Brick type
-  Total
-  Bi
-  B2
-  B3
-  Ᏼ .
-  B5
-  30
-  30
-  -888
-  1
-  6
-  6
-  1
-  14
-  46
-  6
-  10
-  108
-  62
-  16
-  32
-  4
-  20
-  69
-  72
-  52
-  6
-  1
-  200
-  D's enumeration is as follows: evam ṣaṭcatvārimŝadātmani | śirasi caturdaśa | dvātrim- Satpucche | pakṣayoraṣṭaŝatam | asminprastāre navaṣaṣṭiścaturthyaḥ | ardhā dvāsaptatiḥ pādyā dvipañcāśat | ṣaṭ caturaśrapādyā | ekā hamsamukhi |
-  10.15-10.20. Placement of bricks in the second layer. Svayamātṛṇṇā is the central place of the fire-altar. Here it means the centre of the body. To accommodate 4 B¿§, a
-  (9) (8) (7) (6) (5) (4) (3) (2) (1)
-  G
+2
+as that of the quarter brick B3.
+sq. angulas 15 x 15 sq. angulas, the same
+=
+B-half brick ABCDE obtained by joining 2 B1s along their common longest side
+AF; this is also called swan-beaked, amsamukhi.
+30 ang
+A
+D
+A
+30 ang
+C
+B
+30√2 ang
+1
+-15√2 ang
+1
+15 ang
+C
+B
+C
+B
+30 ang
+B2
+B3
+B1
+Α
+15 √2 ang
+ليا
+E
+15/2 ang
+B
+15
+B1
+4
+A
+E
+F
+B5
+Fig. 37. Brick types.
+Areas and Shapes of different parts of the Fire-ALTAR.
+10.4-10.9. The body: A rectangle ABCD is drawn with AB equal to 2 pu. or 240 ang. and AD 10 padas or 150 ang. (Fig. 38 (a) ). FD, DG, HC, CI, BJ, BK, AL and AE are measured out such that each equals 45 ang. (=11⁄2 prakrama). Join FG, HI, JK and LE. EFGHIJKL is the body of the altar, with its four corners cut off as laid down in the rule. The area is (240 x 1802 × 45 × 45) sq. angulas or sq. pu.
+11⁄2 The commentator measures the area in a unit of șoḍaśi which is 1/16 sq. pu. or 30 x 30 sq. angulas, also called a caturthi, the area of B1. In this unit, the area of the body reduces to 351 caturthis,—evamāṭmaśroṇyamseṣvardhapañcamāścaturthyo nirastā bhavanti | atha ŝiṣṭā ardhaṣaṣṭhāstriṛśaccaturthyo bhavanti |—D.
+The head: A rectangle ABCD is formed with AB equal to 821⁄2 ang. and BC = 60 ang. (Fig. 38 (b)). From the centre E of AD, EF and EG are joined, AE, ED, AG, DF each being equal to 30 ang. EGBCF is the head measuring 41 caturthis or sq. pu. (itarā ardhapañcamāḥ śiro bhavanti—D.).
+192
+BAUDHAYANA-SULBASŪTRA
+The tail: The tail is formed out of a rectangle ABCD, of which AB is 90 ang. and BC 240 ang., by cutting off the two triangles ABE and CDF, where AB = AE = CD FD = 90 ang. (Fig. 38 (c) ). The areas of the tail EBCF is 15 caturthis or 18 sq. pu.
+The wings: A rectangle ABCD, of which AB is 150 ang. and BC 180 ang., is formed (Fig. 38 (d)). At the mid-point P of BC a perpendicular PE is drawn towards east so that PE is 90 ang. Then the triangle EBC is cut off and placed on the eastern side AD as the triangle FAD. The area of the figure ABECDF remains the same as the rectangle ABCD. In this way the wing is bent or curved (nirṇāma). That the area is not affected by bending in this way is clearly recognized in the Satapatha Brāhmaṇa: "He then makes the wings crooked, for a bird's wings are crooked.........he thus draws them out by just as much as he draws them in; and thus, indeed, he neither exceeds (its size) nor does he make it too small.""
+For the construction of the plumages, five squares DGK11, L1K1KL2 etc. are drawn with side 30 ang. and intersected by the diagonals DK1, L1K, etc. The outer triangular halves DGK1, L1K1K2 etc. are cut off.
+1 2
+This is the construction of the southern wing; the northern wing is constructed in the same manner. The area of each wing is 32 caturthis and of two wings 65 caturthis or sq. pu.
+150 ang
+E
+F
+A
+D
+E30 ang
+D
+45ang-
+G
+F
+Q
+-822 ang 60 ang
+240 ang
+B
+(b)
+K
+H
+B
+(a)
+A
+180 ang
+G
+90ang E
+K1
+K2
+K3
+KA
+240 ang
+C
+B
+B
+P
+(c)
+(d)
+Fig. 38. Different parts of the Falcon with curved wings and extended tail-(a) body,
+(b) head, (c) tail, and (d) wing with plumages (patra)—first type.
+a Śat. Br· X. 2·1.7; Eggeling's translation.
+COMMENTARY
+193
+The total area of the fire-altar, including the body, the head, the tail and the two wings is (35+4 15+65) or 120 caturthis (or sodasis), that is, 10 =
+7 sq. pu. (atra ātmani sārdhapañcatrimŝaccaturthyaḥ | sirasyardhapañcamāḥ pucche pañcadafa | dasasu patreşu pañca | pakṣayoḥ sastiḥ | evam vimsatyadhikam satam sodasyaḥ | puruşakşetre sodasa sodasyah serate |--D.)
+10.10-10.14. Placement of bricks in the first layer. The placement of bricks is shown in Fig. 39 (a) and (b). Two methods are given for the head; the second method is shown in (b). In each case the number of bricks employed is 14. At the eastern and the western end of the body near the junctions with the head and the tail 5 B ̧s are placed. In the truncated parts, B2s and Bas are placed. Since the head has already been covered, this means placement in the 4 corners of the body, 2 sides of the wing (excluding the western end), eastern and western sides of the curved wings and the feathers at the end. The rest is filled with B1 bricks.
+E
+N
+2
+1
+12
+2
+2
+1
+1
+2
+S
+2
+2
+1
+2
+1
+1
+2
+W
+(a)
+5
+a
+(b)
+Fig. 39. (a) Arrangement of bricks in the fyenacit with curved wings and extended tail (north wing not shown); (b) alternative placement of bricks in the head. First layer.
+As pointed out by Thibaut, the bricks specifically mentioned in the sūtras 10.10- 10.12 total 68; the remaining space, as per sūtra 10.13, can be filled with 91 B1 bricks thus giving a total number of 159 bricks which fall short of 200 bricksa.
+The deficit is to be made good by using B2s and B ̧s as necessary. Dvārakānātha explains that there are 12 rows south-north in the tail and the body excluding the head and the wing (sirovarjam pucchena sahātmanyudicyo dvādaśa ritayaḥ). Starting from
+Thibaut, 210-
+194
+1
+BAUDHAYANA-SULBASUTRA
+the end of the tail, 4 B1s in the 2nd row are replaced by 16 B2s, 2 B2s in the 3rd row by 4 B,s and the middle B1 in the 8th row by 2Bs. In each wing, excluding the feathers, there are 6 rows west-east. In each of the 3rd and the 4th row from the south, 3 B1s are replaced by 6 B2s and 1 B1 is substituted by 4 B ̧s. In the 5th row, at the bottom is replaced by 2 B2s. The total number and types of bricks used in the various parts of the fire-altar are shown in Table 5.
+1 B1
+1
+TABLE 5. Number and types of bricks used in different parts of the fire-altar—first layer.
+Parts of the citi
+Head
+Body
+Wings
+Tail
+Total
+Brick type
+Total
+Bi
+B2
+B3
+Ᏼ .
+B5
+30
+30
+-888
+1
+6
+6
+1
+14
+46
+6
+10
+108
+62
+16
+32
+4
+20
+69
+72
+52
+6
+1
+200
+D's enumeration is as follows: evam ṣaṭcatvārimŝadātmani | śirasi caturdaśa | dvātrim- Satpucche | pakṣayoraṣṭaŝatam | asminprastāre navaṣaṣṭiścaturthyaḥ | ardhā dvāsaptatiḥ pādyā dvipañcāśat | ṣaṭ caturaśrapādyā | ekā hamsamukhi |
+10.15-10.20. Placement of bricks in the second layer. Svayamātṛṇṇā is the central place of the fire-altar. Here it means the centre of the body. To accommodate 4 B¿§, a
+(9) (8) (7) (6) (5) (4) (3) (2) (1)
+G
 -
 1 1
 5 5
@@ -7913,7 +7925,9 @@ a
 12 
 a Bag, 111-19. 
 238 
-APASTAMBA-SULBASŪTRA 
+
+### APASTAMBA-SULBASŪTRA 
+
 13 
 . XU 
 a 
@@ -9517,7 +9531,8 @@ CHAPTERS 15 AND 16
 PRAUGACIT, UBHAYATA PRAUGA, SAMŪHYA, 
 DRONA, RATHACAKRACIT 
 The descriptions are mostly inadequate for drawing the actual diagrams of ubhajata prauga, samūhya, droṇa and rathacakra fire-altars These can, however, be understood by reference to Baudhāyana and Apastamba. For praugacit a rectangle of 15 sq. pu. is to be drawn, and half of this area is required for the purpose. In the droṇacit of 1000 bricks, each layer is constructed with 200 bricks. Of two chariot wheels (rathacakracit) of different sizes, one has an area of 71 sq. pu. and the other three times as large. 
-ABBREVIATION 
+
+## ABBREVIATION 
 I. Manuscripts of sulba-texts and commentaries 
 Baudhayana-sulbasūtra 
 B 
@@ -9577,7 +9592,7 @@ Sacred Books of the East.
 Tait S 
 Taittiriya Samhitā. 
 Vāj. S Vājasaneyi Samhitā. 
-BIBLIOGRAPHY 
+## BIBLIOGRAPHY 
 ĀPASTAMBA SULBA-SUTRA with commentaries of Kapardisvāmin, Karavinda and Sundarāja, edited by D. Srinivasabhar and Vidwan S. Narasimhachar, 
 Mysore Sanskrit Series, no. 73, 1931. 
 APTE, R. N., 'Some points connected with the constructive geometry of the Vedic 
@@ -9671,8 +9686,8 @@ ZEUTHEN, H. G., (1) 'Sur l'arithmetique Geometrique des Grecs et des Indiens',
 Bibliotheca Mathematica, Series 3, 5, 97-112, 1904. 
 ZEUTHEN H. G., (2) ‘Theorem de Pythagore: Origine de la geometrie scientifique', 
 Comptes Rendus du 11 me Congress internationale du Philosophie, Gēnēve, 1904. 
-abhita --Bśl 9.7. 
-INDEX OF TECHNICAL TERMS IN TEXT 
+
+## INDEX OF TECHNICAL TERMS IN TEXT 
 abhyāsa—Ãśl 9.5, 21.7, 21.10; Kśl 1.4, 1.5. adhyardha Bśl 1.8, 9.2; Āśl 9.6, 10.1, 10.4, 
 13.11, 16.5 ;Mśl 11.4. 
 āgama -Kśl 1.11. 
@@ -9958,7 +9973,8 @@ vyāma―Bśl 1.3.
 vyāsa—Bśl 4.1, 10.4, 10.7; Kśl 3.4. vyāyāma—Bśl 1.3; Mśl 4.4b, 13.7. 
 yajamānamātra—Ãśl 4.5, 4.6, 6.2, 6.7, 6.9, 9.1. yava-Mśl 4.3, 4.40, 4.6. yoga-Aśl 1.1, 2.1; Kя 1.9. 
 yuga--Bśl 1.3; Ãśl 6.5; Kśl 2.1, 2.6; M§ 2.1. yupāvata—Bśl 4.15; Ã§ 9.1; Ks 6.10; Mśl 3,3. 
-INDEX OF INTRODUCTION, TRANSLATION AND COMMENTARY 
+
+## INDEX OF INTRODUCTION, TRANSLATION AND COMMENTARY 
 Adhvaryu, 5. 
 Agni, height of, 7. 
 Agnicit, construction of, 7. 
