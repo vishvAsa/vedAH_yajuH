@@ -1,5 +1,5 @@
 +++
-title = "MANAVA-SULBASŪTRA"
+title = "Commentary (Sen and Bag)"
 
 +++
 The Mānava-śulbasūtra, in 16 chapters, is a mere compilation, and its value as a technical text appears to be of dubious nature. In most places it is corrupt, and the same topics are discussed in different places. The materials on gārhapatya, for instance are dispersed in chapters 1, 6, 9, 13, on caturaśraśyenacit in chapters 4, 5, 6 and 13, on dhisnyas in chapters 6, 9 and 13 etc. It is full of paraphernelia about worship hardly of any consequence to altar construction. The arrangement is unsystematic. The text therefore bears no comparison with the three other sulba texts already commented upon. 
