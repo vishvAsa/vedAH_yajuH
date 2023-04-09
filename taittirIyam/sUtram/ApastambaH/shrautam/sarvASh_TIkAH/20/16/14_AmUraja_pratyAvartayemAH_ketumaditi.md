@@ -5,5 +5,7 @@ title = "14 आमूरज प्रत्यावर्तयेमाः क
 
 <details><summary>थिते</summary>
 
-आमूरज प्रत्यावर्तयेमाः केतुमदिति दुन्दुभीन्संह्रादयन्ति १४
+14. With āmūraja pratyāvartayemāḥ...[^1] (the assistants of the Adhvaryu) beat the drum.  
+
+[^1]: TS IV.6.6.u. 
 </details>

@@ -5,5 +5,6 @@ title = "07 तेषां विशेषः"
 
 <details><summary>थिते</summary>
 
-तेषां विशेषः ७
+7. The special features of them (are as follow):  
+
 </details>

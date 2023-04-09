@@ -5,5 +5,7 @@ title = "14 एतेन ह वै"
 
 <details><summary>थिते</summary>
 
-एतेन ह वै शाक्त्यो गौरिवीतिस्तरसपुरोडाश आर्ध्नोद्देवलोके च मनुष्यलोके चर्द्धिमृध्नुवन्ति १४
+14. Śāktya Gaurīvīti with flesh as sacrificial bread prospered by means of the performance of this (sacrificial session). (The performers of this session) prosper in the world of gods as well as in the world of men[^1].  
+
+[^1]: Cp. TMB XXV.7.2. 
 </details>

@@ -24,5 +24,5 @@ Here the rules (vidhis) are again the Aṅgas, which belong to a sacrifice, as t
 
 <details><summary>थिते</summary>
 
-प्रकरणेन विधयो बध्यन्ते २७
+27. The injunctions are limited by means of a chapter (i.e. an injunction is valid only upto the end of the context).
 </details>

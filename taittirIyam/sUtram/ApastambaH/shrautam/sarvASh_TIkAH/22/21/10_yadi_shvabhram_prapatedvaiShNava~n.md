@@ -5,5 +5,5 @@ title = "10 यदि श्वभ्रम् प्रपतेद्वैष
 
 <details><summary>थिते</summary>
 
-यदि श्वभ्रं प्रपतेद्वैष्णवं चरुम् १०
+10. If a bull falls in a pit he should offer a rice-pap to Viṣṇu.  
 </details>

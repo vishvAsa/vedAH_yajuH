@@ -5,5 +5,5 @@ title = "12 संवत्सरं व्यर्णे नैतन्धव
 
 <details><summary>थिते</summary>
 
-संवत्सरं व्यर्णे नैतन्धवे ऽग्निमिन्धीत १२
+12. (Everyone of the performers) should keep the fire enkindled at the (place called) Vyarṇa Naitandhava.  
 </details>

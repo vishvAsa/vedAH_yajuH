@@ -5,5 +5,5 @@ title = "19 इदमेव सारघम् मध्वयं"
 
 <details><summary>थिते</summary>
 
-इदमेव सारघं मध्वयं सोमः सुतो इह । तस्येह पिब तातृपुर्हैमहा इदं मध्विदं मध्वित्येव गायेयुरित्याश्मरथ्यः १९
+19. According to Āśmarathya they should sing idameva sāragham.... 
 </details>

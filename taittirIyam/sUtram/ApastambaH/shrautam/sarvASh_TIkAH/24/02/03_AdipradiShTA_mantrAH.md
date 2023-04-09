@@ -24,5 +24,5 @@ These first words are often called Pratīkas, and rules are given in Āśvalāya
 
 <details><summary>थिते</summary>
 
-आदिप्रदिष्टा मन्त्राः ३
+3. The formulae are prescribed by means of their beginnings.  
 </details>

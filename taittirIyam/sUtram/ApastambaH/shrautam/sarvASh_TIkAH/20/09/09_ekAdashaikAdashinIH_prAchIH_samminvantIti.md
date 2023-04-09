@@ -5,5 +5,7 @@ title = "09 एकादशैकादशिनीः प्राचीः स
 
 <details><summary>थिते</summary>
 
-एकादशैकादशिनीः प्राचीः सम्मिन्वन्तीति कालबविब्राह्मणं भवति ९
+9. According to the Brāhmaṇa-text of Kālabavins[^1] the fix eleven groups of eleven (posts) from the west to eastern direction.  
+
+[^1]: This text is not available.  
 </details>

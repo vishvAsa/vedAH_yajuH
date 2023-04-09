@@ -5,5 +5,7 @@ title = "11 इमेऽरात्सुरिमे सुभूतमक्�
 
 <details><summary>थिते</summary>
 
-इमेऽरात्सुरिमे सुभूतमक्रन्निति ब्राह्मणः । इम उद्वासीकारिण इमे दुर्भूतमक्रन्निति शूद्रः ११
+11. The Brahmin (speaks) “These (the performers of sacrificial (session) have succeeded, they have performed well"; the Śūdra (speaks) “They have produced devastation, they have performed badly.[^1]   
+
+[^1]: Cf. TB I.2.6.7.  
 </details>

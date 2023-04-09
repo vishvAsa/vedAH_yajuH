@@ -5,5 +5,7 @@ title = "11 एकान्नत्रिंशद्रात्रेणा�
 
 <details><summary>थिते</summary>
 
-एकान्नत्रिंशद्रात्रेणापरिमितां श्रियं जयन्ति ११
+11. (The performers) win unlimited glory by means of the performance of the twenty-nine-day-sacrificial-session.[^1]  
+
+[^1]: Cf. TMB XXIII.25.1. 
 </details>

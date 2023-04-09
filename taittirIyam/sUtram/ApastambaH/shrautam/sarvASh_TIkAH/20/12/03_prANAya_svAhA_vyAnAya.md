@@ -5,5 +5,7 @@ title = "03 प्राणाय स्वाहा व्यानाय"
 
 <details><summary>थिते</summary>
 
-प्राणाय स्वाहा व्यानाय स्वाहेति सन्ततिहोमान् ३
+3. (then the offerings called) Santati-homas with prāṇāyā svāhā..;[^3] 
+
+[^3]: TS VII.4.21.   
 </details>

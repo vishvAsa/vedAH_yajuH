@@ -5,5 +5,7 @@ title = "24 आर्भवे स्तूयमाने दक्षिणे
 
 <details><summary>थिते</summary>
 
-आर्भवे स्तूयमाने दक्षिणेनौदुम्बरीं पत्तोदशेनाहतेन वाससा दक्षिणाशिराः प्रावृतः संविशन्नाह ब्राह्मणाः समापयत मे यज्ञमिति २४
+24. When the Ārbhava-pavamāna (stotra) is being sung, (the sacrificer) lying down to the south of the Audumbarī (post) with his head to the south and being covered with a new garment the fringes of which should be towards the feet, says. “O Brahmins! Complete the sacrifice for me"[^1].  
+
+[^1]: Cp. TMB XVII.11.5.  
 </details>

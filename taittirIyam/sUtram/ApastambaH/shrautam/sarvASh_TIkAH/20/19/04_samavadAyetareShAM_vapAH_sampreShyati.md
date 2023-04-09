@@ -5,5 +5,5 @@ title = "04 समवदायेतरेषां वपाः सम्प्
 
 <details><summary>थिते</summary>
 
-समवदायेतरेषां वपाः सम्प्रेष्यति ४
+4. After having cut the omenta of the other animals he gives orders (to the Maitrāvaruṇa).  
 </details>

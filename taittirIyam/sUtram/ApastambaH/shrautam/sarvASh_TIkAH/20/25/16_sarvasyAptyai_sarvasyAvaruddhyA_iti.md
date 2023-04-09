@@ -5,5 +5,5 @@ title = "16 सर्वस्याप्त्यै सर्वस्या�
 
 <details><summary>थिते</summary>
 
-सर्वस्याप्त्यै सर्वस्यावरुद्ध्या इति विज्ञायते १६
+16. “For the sake of the obtainment of all; for the sake of possession of all"-it is known from a sacred text.  
 </details>

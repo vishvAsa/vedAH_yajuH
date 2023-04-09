@@ -5,5 +5,5 @@ title = "03 अथेतरेषान् नवानामैन्द्र�
 
 <details><summary>थिते</summary>
 
-अथेतरेषां नवानामैन्द्रवायवाग्रं प्रथममहः । अथ शुक्राग्रम् । अथाग्रयणाग्रम् ३
+3. Then out of the other nine days on the first day there should be scoop for Indra-Vāyu as the first; then (on the sec ond day) the scoop for Sukra should be the first ; then (on the third day) there should be the Āgrayaņa-scoop as the first and so on.  
 </details>

@@ -5,5 +5,5 @@ title = "07 प्रायणीयया प्रचर्य राजान
 
 <details><summary>थिते</summary>
 
-प्रायणीयया प्रचर्य राजानं क्रीत्वोपनह्य निदधति ७
+7. Then having performed the Prāyaṇīyā-offering, having purchased the king Soma, having tied it, they keep (i.e. preserve) it.  
 </details>

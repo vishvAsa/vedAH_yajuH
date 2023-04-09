@@ -20,5 +20,5 @@ When the two last are sliced off, he should say for each portion, vyāvartethām
 
 <details><summary>थिते</summary>
 
-पुरोडाशगणे यथाभागं व्यावर्तध्वमित्येकैकमपच्छिन्द्यात् १७
+17. When there are groups of the sacrificial breads he should separate each one from the dough with the formula vyāvartadhvam....  
 </details>

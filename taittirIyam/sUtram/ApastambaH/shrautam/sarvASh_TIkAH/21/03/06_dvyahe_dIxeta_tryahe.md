@@ -5,5 +5,5 @@ title = "06 द्व्यहे दीक्षेत त्र्यहे"
 
 <details><summary>थिते</summary>
 
-द्व्यहे दीक्षेत त्र्यहे दीक्षेतेत्येवं क्रामत्या द्वादशाहात् ६
+6. During the two-day-period one should get consecrated, during the three-day-period one should get consecrated etc, "this way one goes further upto the twelve-day-period.  
 </details>

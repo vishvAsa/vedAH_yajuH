@@ -5,5 +5,5 @@ title = "06 अथ पराशराणान् त्र्यार्षे
 
 <details><summary>थिते</summary>
 
-अथ पराशराणां त्र्यार्षेयः । वासिष्ठ शाक्त्य पाराशर्येति । पराशरवच्छक्तिवद्वसिष्ठवदिति ६
+6. Now there are three R̥ṣis of Parāśaras. (The Hotr̥ says): O Vāsiṣtha, Śāktya, Pārāśarya. (the Adhvaryu says): In the manner of Parāśara, Śakti, Vasiṣṭha.  
 </details>

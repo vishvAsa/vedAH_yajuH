@@ -24,5 +24,5 @@ The text should be pitṛyajñaḥ svakālavidhānād anaṅgaḥ syāt. This sa
 
 <details><summary>थिते</summary>
 
-पितृयज्ञः स्वकालविधानादनङ्गं स्यात् ३६
+36. The ancestral sacrifice should not be considered as a subsidiary (of the New-moon-sacrifice) because it is prescribed (to be performed) at its own time.  
 </details>

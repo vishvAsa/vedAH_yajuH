@@ -5,5 +5,4 @@ title = "08 तृक्षुमु हैकेऽङ्गिरसः स्
 
 <details><summary>थिते</summary>
 
-तृक्षुमु हैकेऽङ्गिरसः स्थाने । तार्क्ष्य भार्म्यश्व मौद्गल्येति । मुद्गलवद्भृम्यश्ववत्तृक्षुवदिति ८
-</details>
+8. According to some there should be Tr̥kṣu instead of Aṅgiras. (Then the Hotr̥ says:) O Tārkṣya, Bhārmyaśva, Maudgalya. (The Adhvaryu says:) In the manner of Mudgala, Bhr̥myaśva, Tr̥kṣu. </details>

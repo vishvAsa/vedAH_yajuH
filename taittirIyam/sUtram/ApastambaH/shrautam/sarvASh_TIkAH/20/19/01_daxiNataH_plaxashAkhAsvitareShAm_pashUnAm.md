@@ -5,5 +5,5 @@ title = "01 दक्षिणतः प्लक्षशाखास्वि�
 
 <details><summary>थिते</summary>
 
-दक्षिणतः प्लक्षशाखास्वितरेषां पशूनाम् १
+1. (The Adhvaryu places the omenta) of the other animals to the southern side, on the Plakṣa-branches. 
 </details>

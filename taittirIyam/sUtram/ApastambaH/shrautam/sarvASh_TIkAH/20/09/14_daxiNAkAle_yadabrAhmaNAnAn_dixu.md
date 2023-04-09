@@ -5,5 +5,10 @@ title = "14 दक्षिणाकाले यदब्राह्मणा�
 
 <details><summary>थिते</summary>
 
-दक्षिणाकाले यदब्राह्मणानां दिक्षु वित्तं तत्त्र्यहे समशः प्रतिविभज्यान्वहं ददाति १४
+14. At the time of giving gifts,[^1] (the sacrificer) gives the wealth of non- Brahmins in different directions dividing it into three equal parts, on each of the three Soma-days.[^2]  
+
+[^1]: For this see XIII.5.1.  
+
+[^2]: For details see the next Sūtra.  
+
 </details>

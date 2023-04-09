@@ -20,5 +20,5 @@ The Brāhmaṇas are the precepts for the sacrifice.
 
 <details><summary>थिते</summary>
 
-कर्मचोदना ब्राह्मणानि ३२
+32. The Brāhmaṇas are the injunctions of the ritual. 
 </details>

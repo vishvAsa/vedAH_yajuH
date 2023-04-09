@@ -5,5 +5,5 @@ title = "09 तदु तथा न"
 
 <details><summary>थिते</summary>
 
-तदु तथा न कुर्यात् । द्वादशैव ब्रह्मौदनान्संस्थिते निर्वपेत् । तेष्वन्वहं द्वादशानि शतानि ददाति ९
+9. But rather one should not do this. One should, after (the Aśvamedha sacrifice) has been completely established, prepare twelve rice-paps to be consumed by Brahmins. In connection with them (paps), every day one should give twelve hundred cows.  
 </details>

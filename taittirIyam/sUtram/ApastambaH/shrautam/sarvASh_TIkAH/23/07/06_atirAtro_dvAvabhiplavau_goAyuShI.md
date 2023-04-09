@@ -5,5 +5,7 @@ title = "06 अतिरात्रो द्वावभिप्लवौ ग
 
 <details><summary>थिते</summary>
 
-अतिरात्रो द्वावभिप्लवौ गोआयुषी द्वावभिप्लवावभिजिद्विश्वजिच्चातिरात्रावेकोऽभिप्लवः सर्वस्तोमो नवसप्तदशाश्चातिरात्रौ द्वादशाहस्य दशाहानि महाव्रतमतिरात्रश्च ६
+6. (The days in it are as follows:) an Atiratra, two Abhiplava-six-day-periods, Go, Āyus, two Abhiplava six-day periods, Abhijit and Viśvajit both as Atiratras, one Ahiplava six-day-period, a Sarvasoma day and a day with nine seventeen versed-stomas both as Atirātras, ten days of the Dvādaśāha, Mahāvrata and an Atirātra.[^1]  
+
+[^1]: cf. TMB XXIV.12.11.  
 </details>

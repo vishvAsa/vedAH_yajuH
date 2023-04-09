@@ -5,5 +5,5 @@ title = "18 अथ भरद्वाजानान् त्र्यार्
 
 <details><summary>थिते</summary>
 
-अथ भरद्वाजानां त्र्यार्षेयः । आङ्गिरस बार्हस्पत्य भारद्वाजेति । भरद्वाजवद्बृहस्पतिवदङ्गिरोवदिति १८
+18. Now the three R̥ṣis of the Bharadvājas. The Hotr̥ says: O Āṅgirasa, Bārhaspatya, Bhāradvāja. (The Adhvaryu says:) In the manner of Bharadvāja, Br̥haspati, Aṅgiras.  
 </details>

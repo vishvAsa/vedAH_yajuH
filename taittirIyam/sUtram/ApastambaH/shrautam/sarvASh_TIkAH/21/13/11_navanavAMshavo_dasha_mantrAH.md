@@ -5,5 +5,5 @@ title = "11 नवनवांशवो दश मन्त्राः"
 
 <details><summary>थिते</summary>
 
-नवनवांशवो दश मन्त्राः ११
+11. Every time there should be nine Soma-stalks and ten formulae. 
 </details>

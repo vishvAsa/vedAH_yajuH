@@ -5,5 +5,7 @@ title = "18 ततस्तन् नेष्टा दीक्षयित्
 
 <details><summary>थिते</summary>
 
-ततस्तं नेष्टा दीक्षयित्वा तृतीयिनो दीक्षयति १८
+18. Afetr the Neṣṭr̥ has consecrated him (=Pratiprasthātr̥), he (=Neṣr̥) consecrates the “One-thirders."[^1]   
+
+[^1]: viz. Āgnīdhra, Pratihartr̥ and Acchāvāka.  
 </details>

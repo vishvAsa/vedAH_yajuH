@@ -5,5 +5,5 @@ title = "01 यद्दशहोतारः सत्त्रमासत क
 
 <details><summary>थिते</summary>
 
-यद्दशहोतारः सत्त्रमासत केन ते गृहपतिनार्ध्नुवन्केन प्रजा असृजन्तेति १
+1. “When the Dasahotr-s performed a sacrificial session with whom as the Gṣhapati did they prosper (and) through whom did they create progeny?" 
 </details>

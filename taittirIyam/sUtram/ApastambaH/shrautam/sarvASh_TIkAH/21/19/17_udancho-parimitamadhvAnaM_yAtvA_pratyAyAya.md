@@ -5,5 +5,5 @@ title = "17 उदञ्चोऽपरिमितमध्वानं या�
 
 <details><summary>थिते</summary>
 
-उदञ्चोऽपरिमितमध्वानं यात्वा प्रत्यायाय विमुञ्चन्ति १७
+17. After they (the armoured persons) have moved an unspecified distance on the path towards the north, having returned, they unyoke (the horses).  
 </details>

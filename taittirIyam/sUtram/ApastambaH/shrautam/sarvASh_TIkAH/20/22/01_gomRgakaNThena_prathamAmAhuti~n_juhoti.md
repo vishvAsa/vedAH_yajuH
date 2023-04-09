@@ -5,5 +5,7 @@ title = "01 गोमृगकण्ठेन प्रथमामाहुत�
 
 <details><summary>थिते</summary>
 
-गोमृगकण्ठेन प्रथमामाहुतिं जुहोति । अश्वशफेन द्वितीयाम् । अयस्मयेन कमण्डलुना तृतीयाम् १
+1. (The Adhvaryu) makes this first libation by means of the throat of the Gomr̥ga, the second with a hoof of the horse; the third with a metal pitcher.[^1]  
+
+[^1]: Cf. TB III.9.11.3-4. See also Xx.19.10-11. 
 </details>

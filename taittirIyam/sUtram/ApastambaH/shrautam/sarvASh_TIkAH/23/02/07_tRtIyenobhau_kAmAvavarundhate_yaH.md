@@ -5,5 +5,5 @@ title = "07 तृतीयेनोभौ कामाववरुन्धत�
 
 <details><summary>थिते</summary>
 
-तृतीयेनोभौ कामाववरुन्धते यः सत्त्रे यश्चाहीने ७
+7. By means of the (performance of the third fifteen-day sacrificial-session) both the desires viz. whatever in a sacrfificial session and whatever in an Ahīna-sacrifice, are obtained. 
 </details>

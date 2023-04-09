@@ -5,5 +5,8 @@ title = "12 एता ऐन्द्राग्नाः प्राशृङ
 
 <details><summary>थिते</summary>
 
-एता ऐन्द्राग्नाः । प्राशृङ्गा ऐन्द्राः । बहुरूपा वैश्वकर्मणाः १२
+12. (Then there should be three he-goats) of variegated colour for Indra and Agni, (three he-goats) with long horns for Indra and (three he-goats) of many colours for Viśvakarman.[^1]  
+
+[^1]: VS XXIV.9. 
+
 </details>

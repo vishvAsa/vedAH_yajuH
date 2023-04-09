@@ -5,5 +5,6 @@ title = "05 बार्हस्पत्यञ् चरुं यदि"
 
 <details><summary>थिते</summary>
 
-बार्हस्पत्यं चरुं यदि श्लोणः कूटो वा ५
+5. If a bull becomes lame or loses its horn he should offer rice-pap to Br̥haspati.   
+
 </details>

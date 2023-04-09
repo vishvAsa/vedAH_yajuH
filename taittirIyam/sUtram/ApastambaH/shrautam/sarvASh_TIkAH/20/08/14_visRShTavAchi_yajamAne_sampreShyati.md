@@ -5,5 +5,9 @@ title = "14 विसृष्टवाचि यजमाने सम्प्
 
 <details><summary>थिते</summary>
 
-विसृष्टवाचि यजमाने सम्प्रेष्यति वीणागणकिनो देवैरिमं यजमानं सङ्गायतेति १४
+14. After the sacrificer has released his speach[^1] he orders: “O lute-players, Do you sing about this sacrificer along with the gods.[^2]   
+
+[^1]: See X.12.4.  
+
+[^2]: Cf. ŚB XIII.4.4.2. 
 </details>

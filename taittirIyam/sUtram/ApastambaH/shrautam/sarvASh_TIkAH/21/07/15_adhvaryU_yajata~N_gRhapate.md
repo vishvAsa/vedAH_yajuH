@@ -5,5 +5,5 @@ title = "15 अध्वर्यू यजतङ् गृहपते"
 
 <details><summary>थिते</summary>
 
-अध्वर्यू यजतं गृहपते यजेत्यभिज्ञायाध्वर्युर्हविर्धानं प्रविश्य प्रैषोत्तरयर्चा यजति । ऋगुत्तरेण वा प्रैषेण १५
+15. Having recognized the words adhvaryil yajatam gnet pate (being uttered by Hotr), having entered into the havirdhāna-shed, (the Adhvaryu) utters either the verse following the Praiṣa (order) or the Praiṣa followed by the verse as the offering-verse.  
 </details>

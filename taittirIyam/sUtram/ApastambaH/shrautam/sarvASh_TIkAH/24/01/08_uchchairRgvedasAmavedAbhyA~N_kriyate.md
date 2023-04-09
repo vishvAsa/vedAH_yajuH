@@ -24,5 +24,5 @@ Even lines of the Yajur-veda, if they are contained in the Ṛg-veda and Sāma-v
 
 <details><summary>थिते</summary>
 
-उच्चैरृग्वेदसामवेदाभ्यां क्रियते ८
+8. (The recitation) is done loudly with the R̥gveda and Sāmaveda. 
 </details>

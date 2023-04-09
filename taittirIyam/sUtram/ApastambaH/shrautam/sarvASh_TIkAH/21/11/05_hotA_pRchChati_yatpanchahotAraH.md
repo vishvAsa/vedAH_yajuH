@@ -5,5 +5,5 @@ title = "05 होता पृच्छति यत्पञ्चहोता
 
 <details><summary>थिते</summary>
 
-होता पृच्छति यत्पञ्चहोतारः सत्त्रमासत केन ते गृहपतिनार्ध्नुवन्केनैभ्यो लोकेभ्यो ऽसुरान्प्राणुदन्त केनैषां पशूनवृञ्जतेति ५
+5. The Hotr̥ asks, “When the Pañcahotr̥-s performed the sacrificial session with whom as the Gr̥hapati did they prosper with whom did they expel the Asuras form these worlds (and) with whom did they appropriate their cattle?” 
 </details>

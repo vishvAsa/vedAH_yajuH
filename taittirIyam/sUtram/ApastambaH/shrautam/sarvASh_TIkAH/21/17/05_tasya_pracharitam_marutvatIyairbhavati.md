@@ -5,5 +5,6 @@ title = "05 तस्य प्रचरितम् मरुत्वतीय
 
 <details><summary>थिते</summary>
 
-तस्य प्रचरितं मरुत्वतीयैर्भवति ५
+5. The performance of it (day) is completed with the scoops for Indra and Maruts.  
+
 </details>

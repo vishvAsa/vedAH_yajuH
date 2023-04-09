@@ -5,5 +5,6 @@ title = "03 दक्षिणेन मार्जालीयम् मात
 
 <details><summary>थिते</summary>
 
-दक्षिणेन मार्जालीयं मातॄरुपरुन्धन्ति ३
+3. To the south of the Mārjālīya-shed (the assistants) bind the mother (cow)s (of these calves).  
+
 </details>

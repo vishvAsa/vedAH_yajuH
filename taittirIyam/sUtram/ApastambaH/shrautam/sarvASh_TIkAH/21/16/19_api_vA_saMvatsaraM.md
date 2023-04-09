@@ -5,5 +5,5 @@ title = "19 अपि वा संवत्सरं"
 
 <details><summary>थिते</summary>
 
-अपि वा संवत्सरं सम्पाद्योत्तमे मासि द्वादशाहीये दशरात्रे सकृत्पृष्ठान्युपेयुः १९
+19. Or rather having (almost) completed the year in the last month they should perform once the Pr̥ṣṭha-Stotras at the time of the first midday stotra in the ten-day-period in the Dvādaśāha. 
 </details>

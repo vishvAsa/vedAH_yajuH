@@ -5,5 +5,5 @@ title = "17 अयुतम् प्रथमेऽहनि ददाति"
 
 <details><summary>थिते</summary>
 
-अयुतं प्रथमेऽहनि ददाति । नियुतं द्वितीये । अर्बुदं न्यर्बुदम् च तृतीये । यथा प्रथमयोरेवमुत्तरयोः १७
+17. (The sacrificer gives) Ayuta cows on the first day (as sacrificial gifts to the priests)... Niyuta (cows) on the second day... Arbuda (cows) on the third day and as many on the last two days as many on the first two days.  
 </details>

@@ -5,5 +5,6 @@ title = "21 वैभीतक इध्मः"
 
 <details><summary>थिते</summary>
 
-वैभीतक इध्मः २१
+21. The fuel should be of Vaibhītaka ( tree).   
+
 </details>

@@ -22,5 +22,5 @@ Commentary. This verse is gharmo'si.
 
 <details><summary>थिते</summary>
 
-पिष्टानामुत्पवनकाले तण्डुलानुत्पुनाति २६
+26. At the time of purification of the flour, he purifies the grains (for the rice-pap).  
 </details>

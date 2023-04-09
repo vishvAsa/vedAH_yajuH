@@ -5,5 +5,7 @@ title = "13 गौल्गुलवेन सुरभिरश्वो मे
 
 <details><summary>थिते</summary>
 
-गौल्गुलवेन सुरभिरश्वो मेधमुपाकृतः । देवाँ उपप्रेष्यन्वाजिन्वर्चोदा लोकजिद्भव । कासाम्बवेन सुरभिरश्वो मेधमुपाकृतः । देवाँ उपप्रेष्यन्वाजिन्वर्चोदा लोकजिद्भव । मौस्तकृतेन सुरभिरश्वो मेधमुपाकृतः । देवाँ उपप्रेष्यन्वाजिन्वर्चोदा लोकजिद्भवेत्येतैश्च प्रतिमन्त्रम् १३
+13. And (they anoint the horse respectively) with each of the (respective) formulae begining with gaulgulavena....[^1]   
+
+[^1]: These formulae are found only here.  
 </details>

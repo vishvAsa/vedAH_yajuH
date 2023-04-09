@@ -5,5 +5,7 @@ title = "05 आजुहोतेतीतरेषाङ् गोत्रा�
 
 <details><summary>थिते</summary>
 
-आजुहोतेतीतरेषां गोत्राणाम् ५
+5. For those performers belonging to the other families (the verse beginning with) ā juhota (should be used as the final verse in the Sāmidhenī-verses).  
+
+[^1]: TB III.5.2.3. 
 </details>

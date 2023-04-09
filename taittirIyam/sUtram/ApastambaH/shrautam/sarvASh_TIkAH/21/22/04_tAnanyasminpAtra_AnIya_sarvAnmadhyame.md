@@ -5,5 +5,7 @@ title = "04 तानन्यस्मिन्पात्र आनीय स
 
 <details><summary>थिते</summary>
 
-तानन्यस्मिन्पात्र आनीय सर्वान्मध्यमे गृह्णाति त्वे क्रतुमपि वृञ्जन्ति विश्व इति ४
+4. After having poured these scoops in another vessel, he takes all of them in the middle vessel with tve kratumapi vr̥ñjanti....[^1]   
+
+[^1]: TS III.5.10.  
 </details>

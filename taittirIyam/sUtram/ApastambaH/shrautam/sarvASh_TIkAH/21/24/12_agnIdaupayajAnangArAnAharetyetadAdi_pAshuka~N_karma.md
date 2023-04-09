@@ -5,5 +5,7 @@ title = "12 अग्नीदौपयजानङ्गारानाहर�
 
 <details><summary>थिते</summary>
 
-अग्नीदौपयजानङ्गारानाहरेत्येतदादि पाशुकं कर्म प्रतिपद्यते १२
+12. Then (the Adhvaryu) starts animal-sacrificial-ritual beginning with the order “Agnīdh, bring the burning coals for the by-offerings.”[^1]  
+
+[^1]: See VII.26.8ff.  
 </details>

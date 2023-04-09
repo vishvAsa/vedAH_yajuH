@@ -5,5 +5,11 @@ title = "01 दक्षिणेन वा वेदिन्"
 
 <details><summary>थिते</summary>
 
-दक्षिणेन वा वेदिं नीत्वान्तरा यूपमाहवनीयं च द्रोणकलशमवघ्रापयेदा जिघ्र कलशमिति । आग्नीध्रे हविर्धाने वा १
+1. Then having taken her to the north towards the Agnidhra (-shed).[^2] 
+
+[^1]: Cf. TS VII.1.6.7.  
+
+[^2]: TS VII.1.6.6.  
+
+
 </details>

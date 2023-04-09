@@ -5,5 +5,5 @@ title = "04 अग्नेर्मन्वे प्रथमस्य प्
 
 <details><summary>थिते</summary>
 
-अग्नेर्मन्वे प्रथमस्य प्रचेतस इति यथालिङ्गं याज्यानुवाक्याः ४
+4. The invitatory and offering verses of the Mr̥gāreṣṭi should be agner manve prathamasya... in accordance with the characteristic words.  
 </details>

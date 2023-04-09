@@ -5,5 +5,7 @@ title = "18 यद्यन्धः स्यात्सौर्यञ् च
 
 <details><summary>थिते</summary>
 
-यद्यन्धः स्यात्सौर्यं चरुमेककपालं वा १८
+18. If it will be blind, (then he should offer) a rice-pap or a sacrificial bread on one potsherd to Sūrya.[^1]  
+
+[^1]: Cf. TMB XXI.14.15. 
 </details>

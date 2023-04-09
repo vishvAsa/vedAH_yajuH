@@ -5,5 +5,5 @@ title = "21 आग्नेयेनाष्टाकपालेनान्�
 
 <details><summary>थिते</summary>
 
-आग्नेयेनाष्टाकपालेनान्तरालं प्रतिपद्यते २१
+21. In between, every day the sacrificer should offer a sacrificial bread on eight potsherds to Agni.  
 </details>

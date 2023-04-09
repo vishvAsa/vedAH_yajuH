@@ -5,5 +5,5 @@ title = "15 आदित्यानाम् प्रयतिरुक्थ�
 
 <details><summary>थिते</summary>
 
-आदित्यानां प्रयतिरुक्थ्यो नाकसदां प्रथमः १५
+15. The first belonging to Nākasads is called “the Adityānāṁ Prayati (effort of Ādityas)”, and is to be performed as an Ukthya.  
 </details>

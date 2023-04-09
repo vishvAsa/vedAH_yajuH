@@ -5,5 +5,5 @@ title = "15 यदि नश्येद्वायव्यञ् चरुम
 
 <details><summary>थिते</summary>
 
-यदि नश्येद्वायव्यं चरुम् १५
+15. If it is lost, (he should offer) a rice-pap to Vāyu. 
 </details>

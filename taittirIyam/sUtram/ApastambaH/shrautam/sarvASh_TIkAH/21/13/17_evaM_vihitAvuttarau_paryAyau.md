@@ -5,5 +5,5 @@ title = "17 एवं विहितावुत्तरौ पर्याय
 
 <details><summary>थिते</summary>
 
-एवं विहितावुत्तरौ पर्यायौ १७
+17. In the same manner the next two rounds are prescribed (to be done). 
 </details>

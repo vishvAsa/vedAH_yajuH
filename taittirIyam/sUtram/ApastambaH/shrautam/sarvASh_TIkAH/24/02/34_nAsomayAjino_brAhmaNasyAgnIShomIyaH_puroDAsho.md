@@ -24,5 +24,5 @@ This rule does not seem to be accepted by all schools. It is not found in Kāty�
 
 <details><summary>थिते</summary>
 
-नासोमयाजिनो ब्राह्मणस्याग्नीषोमीयः पुरोडाशो विद्यते ३४
+34. In the case of a Brahmin sacrificer who has not performed a Soma-sacrifice, there should not be a sacrificial bread for Agni-soma in the Full-moon-sacrifice.
 </details>

@@ -24,5 +24,5 @@ And again, because there is difference in the undertaking.
 
 <details><summary>थिते</summary>
 
-आरम्भविभागाच्च २१
+21. And because the beginning (of it) is separated (from the beginning of the paradigmatic rites viz. New and full-moon sacrifices as far as the time of it is concerned).  
 </details>

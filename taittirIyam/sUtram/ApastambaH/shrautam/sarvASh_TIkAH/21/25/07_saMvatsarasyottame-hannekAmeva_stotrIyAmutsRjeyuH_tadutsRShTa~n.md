@@ -5,5 +5,7 @@ title = "07 संवत्सरस्योत्तमेऽहन्ने�
 
 <details><summary>थिते</summary>
 
-संवत्सरस्योत्तमेऽहन्नेकामेव स्तोत्रीयामुत्सृजेयुः । तदुत्सृष्टं चानुत्सृष्टं च भवतीति ७
+7. Or on the last day of the year, they should abandon only one Stotriya-verse on the last day of the year; thereby it becomes abandoned and not abandoned.[^1]  
+
+[^1]: See TMB V.10.5. 
 </details>

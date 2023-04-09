@@ -20,5 +20,5 @@ All the rest are Mantras.
 
 <details><summary>थिते</summary>
 
-अतोऽन्ये मन्त्राः ३४
+34. (The texts) other than (these are) the Mantras (formulae).  
 </details>

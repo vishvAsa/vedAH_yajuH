@@ -5,5 +5,5 @@ title = "04 बर्हिःस्थाने ऽद्भिर्दूर�
 
 <details><summary>थिते</summary>
 
-बर्हिःस्थाने ऽद्भिर्दूर्वावास्ताभिर्माहेन्द्रस्य स्तोत्रमुपाकरोति ४
+4. Instead of two barhis (-grass-blades), the Adhvaryu bespeaks the Stotra for Mahendra by means of waters in which Dūrvā (grass) is thrown. 
 </details>

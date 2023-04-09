@@ -5,5 +5,5 @@ title = "17 तस्योदित आदित्ये प्रातरन
 
 <details><summary>थिते</summary>
 
-तस्योदित आदित्ये प्रातरनुवाकमुपाकरोति १७
+17. (The Adhvaryu) bespeaks the morning-litany (Prātaranuvāka) of it, after the sun is risen. 
 </details>

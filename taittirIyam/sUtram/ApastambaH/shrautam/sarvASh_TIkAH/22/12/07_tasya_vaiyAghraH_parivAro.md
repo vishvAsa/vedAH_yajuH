@@ -5,5 +5,5 @@ title = "07 तस्य वैयाघ्रः परिवारो"
 
 <details><summary>थिते</summary>
 
-तस्य वैयाघ्रः परिवारो द्वैपो धन्वधिरार्क्षः कवचः ७
+7. Its jacket should be made out of tiger skin; the bow cover out leopard-skin the armour out of bear skin. 
 </details>

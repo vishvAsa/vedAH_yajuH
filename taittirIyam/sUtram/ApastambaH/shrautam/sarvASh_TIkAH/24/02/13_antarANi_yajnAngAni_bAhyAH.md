@@ -24,5 +24,5 @@ The meaning is that the priest should carry such things is spoons, vessels, &c.,
 
 <details><summary>थिते</summary>
 
-अन्तराणि यज्ञाङ्गानि । बाह्याः कर्तारः १३
+13. The utensils of the sacrifice are inner (from the point of view of the sacrificial ritual); the men are outer.  
 </details>

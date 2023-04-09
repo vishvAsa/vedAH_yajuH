@@ -24,5 +24,5 @@ The sacrificial fires have to be arranged for the first time by a peculiar cerem
 
 <details><summary>थिते</summary>
 
-सर्वक्रतूनामग्नयः सकृदाहिताः २२
+22. For all the sacrifices fires are to be established only once.  
 </details>

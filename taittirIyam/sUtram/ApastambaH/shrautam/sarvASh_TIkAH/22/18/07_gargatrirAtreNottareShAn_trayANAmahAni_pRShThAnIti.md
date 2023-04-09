@@ -5,5 +5,7 @@ title = "07 गर्गत्रिरात्रेणोत्तरेष�
 
 <details><summary>थिते</summary>
 
-गर्गत्रिरात्रेणोत्तरेषां त्रयाणामहानि पृष्ठानीति व्याख्यातानि ७
+7. The days and the Pr̥ṣṭhastotras of the following three day sacrifices are (as good as) explained by the (description of the) Garga Trirātra.  
+
+[^1]: See XXII.15.4; 5. 
 </details>

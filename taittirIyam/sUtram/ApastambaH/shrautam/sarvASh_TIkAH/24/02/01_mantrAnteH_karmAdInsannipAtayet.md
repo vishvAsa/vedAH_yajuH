@@ -24,5 +24,5 @@ The mantra which indicates the nature and purpose of a sacrificial act should co
 
 <details><summary>थिते</summary>
 
-मन्त्रान्तेः कर्मादीन्सन्निपातयेत् १
+1. (A priest) should cause the end of the formulae coincide with the beginnings of each formula.  
 </details>

@@ -5,5 +5,5 @@ title = "01 अकुशलो वा अयम्"
 
 <details><summary>थिते</summary>
 
-अकुशलो वा अयं प्रजापतिर्यो दंशमशकान्ससृजे य स्तेनानिति प्रजापतिपरिवादः १
+1. The blame of Prajāpati is as follows, “Unskilled indeed is this Prajāpati who created gadflies and hornets, who created thieves." 
 </details>

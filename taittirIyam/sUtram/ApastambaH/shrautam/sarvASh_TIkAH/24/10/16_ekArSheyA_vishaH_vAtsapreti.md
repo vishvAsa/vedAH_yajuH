@@ -5,5 +5,5 @@ title = "16 एकार्षेया विशः वात्सप्रे
 
 <details><summary>थिते</summary>
 
-एकार्षेया विशः । वात्सप्रेति होता । वत्सप्रवदित्यध्वर्युः १६
+16. The Vaiśyas have one R̥ṣi. The Hotr̥ (says) O Vātsapra. The Adhvaryu (says). In the manner of Vatsapra.  
 </details>

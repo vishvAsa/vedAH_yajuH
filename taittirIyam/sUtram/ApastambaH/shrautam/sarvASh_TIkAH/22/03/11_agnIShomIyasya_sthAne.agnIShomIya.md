@@ -5,5 +5,7 @@ title = "11 अग्नीषोमीयस्य स्थाने ऽग्
 
 <details><summary>थिते</summary>
 
-अग्नीषोमीयस्य स्थाने ऽग्नीषोमीय एकादशकपालः । अनूबन्ध्यास्थाने मैत्रावरुण्यामिक्षा ११
+11. A sacrificial bread on eleven potsherds (should be offered) instead of the (he-goat) for Agni-and-Soma. A milk mess (should be offered) instead of Anūbandhyā (-cow).[^1]  
+
+[^1]: This appears to be an alternative to what has been prescribed in Sūtra 10.  
 </details>

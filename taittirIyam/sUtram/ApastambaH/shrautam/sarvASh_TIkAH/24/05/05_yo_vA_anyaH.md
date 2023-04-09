@@ -5,5 +5,5 @@ title = "05 यो वा अन्यः"
 
 <details><summary>थिते</summary>
 
-यो वा अन्यः सन्नथान्यस्यार्षेयेण प्रवृणीते स वा अस्य तदृषिरिष्टं वीतं वृङ्क्त इति विज्ञायते ५
+5. “The desired and loved things of him who being one mentions the series of ancestors of another R̥ṣi are taken away by that R̥ṣi"-Thus is known (from a Brāhmaṇa-text).  
 </details>

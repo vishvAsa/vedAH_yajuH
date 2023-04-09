@@ -26,5 +26,5 @@ When it is said that the Darśa-pūrṇamāsa should be performed during life, t
 
 <details><summary>थिते</summary>
 
-स्याद्वा कालस्याशेषभूतत्वात् २०
+20. Or (the Anvārambhaniyā-offering) may be (performed in the modificatory rites) because the time (of the New and Full-moon-sacrifices) does not form an integral part (of the ritual). 
 </details>

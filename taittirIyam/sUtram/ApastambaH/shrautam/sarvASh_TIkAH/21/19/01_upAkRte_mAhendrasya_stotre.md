@@ -5,5 +5,5 @@ title = "01 उपाकृते माहेन्द्रस्य स्त
 
 <details><summary>थिते</summary>
 
-उपाकृते माहेन्द्रस्य स्तोत्रे सर्वा वाचो वदन्ति १
+1. After the praise-song connected with Māhendra-scoop has been bespoken all the sounds resound.  
 </details>

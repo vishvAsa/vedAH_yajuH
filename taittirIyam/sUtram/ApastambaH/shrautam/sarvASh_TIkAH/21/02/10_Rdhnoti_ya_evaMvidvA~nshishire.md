@@ -5,5 +5,7 @@ title = "10 ऋध्नोति य एवंविद्वाञ्शिश
 
 <details><summary>थिते</summary>
 
-ऋध्नोति य एवंविद्वाञ्शिशिरे दीक्षते वसन्त उत्तिष्ठत इति विज्ञायते १०
+10. he prospers knowing thus gets himself consecrated in the cold season stands up (completes) in the spring”-thus is known for Brāhmaṇa-text.[^1]  
+
+[^1]: Cp. KS XXIV.9.  
 </details>

@@ -5,5 +5,5 @@ title = "06 त्रीन्वृणीते मन्त्रकृतो 
 
 <details><summary>थिते</summary>
 
-त्रीन्वृणीते । मन्त्रकृतो वृणीते । यथर्षि मन्त्रकृतो वृणीत इति विज्ञायते ६
+6. “He mentions three (R̥ṣi-ancestors); he mentions three (R̥ṣis who are the) composers of sacred formulae; he mentions the Mantra-composers in accordance with the R̥ṣis - thus is known (from a Brāhmaṇa-text).  
 </details>

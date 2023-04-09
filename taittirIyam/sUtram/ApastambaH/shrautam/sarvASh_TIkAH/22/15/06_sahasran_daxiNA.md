@@ -5,5 +5,7 @@ title = "06 सहस्रन् दक्षिणा"
 
 <details><summary>थिते</summary>
 
-सहस्रं दक्षिणा ६
+6. One thousand (cows should be given as) the sacrificial 
+gift.  
+
 </details>

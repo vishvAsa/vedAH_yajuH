@@ -5,5 +5,5 @@ title = "05 आरोहणे हविर्धाने"
 
 <details><summary>थिते</summary>
 
-आरोहणे हविर्धाने ५
+5. the carts... the Havirdhānas;  
 </details>

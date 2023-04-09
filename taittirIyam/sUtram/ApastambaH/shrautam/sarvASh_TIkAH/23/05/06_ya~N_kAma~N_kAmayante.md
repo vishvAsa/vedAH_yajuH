@@ -5,5 +5,6 @@ title = "06 यङ् कामङ् कामयन्ते"
 
 <details><summary>थिते</summary>
 
-यं कामं कामयन्ते तमभ्यश्नुवते ६
+6. (The performers) reach any thing which they desire, (by means of the performance of the first).  
+
 </details>

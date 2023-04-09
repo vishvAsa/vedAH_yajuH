@@ -5,5 +5,5 @@ title = "01 दश प्रथमेऽहन्नाशिरन् दुह
 
 <details><summary>थिते</summary>
 
-दश प्रथमेऽहन्नाशिरं दुहन्ति । विंशतिं द्वितीये । त्रिंशतं तृतीये १
+1. For the sake of Āśir (milk) they milk ten cows on the first day; twenty on the second; thirty on the third.  
 </details>

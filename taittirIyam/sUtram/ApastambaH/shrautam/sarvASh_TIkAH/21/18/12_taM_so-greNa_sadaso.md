@@ -5,5 +5,5 @@ title = "12 तं सोऽग्रेण सदसो"
 
 <details><summary>थिते</summary>
 
-तं सोऽग्रेण सदसो दक्षिणां द्वार्बाहुं प्रतिवादयन्नास्ते १२
+12. Playing it in front of the Sadas near the southern door post, he remains seated.  
 </details>

@@ -5,5 +5,5 @@ title = "02 प्रजापतिना वै ते"
 
 <details><summary>थिते</summary>
 
-प्रजापतिना वै ते गृहपतिनार्ध्नुवंस्तेन प्रजा असृजन्तेति प्रतिवचनः २
+2. The answer is, “Through Prajāpati indeed as the Gṣhapati did they prosper and through him did they create the progeny". 
 </details>

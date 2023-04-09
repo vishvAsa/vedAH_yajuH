@@ -5,5 +5,5 @@ title = "11 अथ हरितानान् त्र्यार्षेय
 
 <details><summary>थिते</summary>
 
-अथ हरितानां त्र्यार्षेयः । आङ्गिरसाम्बरीष यौवनाश्वेति । युवनाश्ववदम्बरीषवदङ्गिरोवदिति ११
+11. Now the three R̥ṣis of Haritas. (The Hotr̥ says:) O Aṅgirasa, Āmbarīṣa, Yauvanāśva. (The Adhvaryu says:) In the manner of Yuvanāśva, Ambarīṣa, Aṅgiras.  
 </details>

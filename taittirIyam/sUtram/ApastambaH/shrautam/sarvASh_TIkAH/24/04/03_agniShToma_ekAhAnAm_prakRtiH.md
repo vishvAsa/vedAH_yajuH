@@ -24,5 +24,5 @@ The Ekāha are sacrifices accomplished in one day.
 
 <details><summary>थिते</summary>
 
-अग्निष्टोम एकाहानां प्रकृतिः ३
+3. Agnistoma is the basic paradigm of the one day sacrifices.  
 </details>

@@ -5,5 +5,7 @@ title = "02 एवम् पुरस्तात्प्रत्यञ्च�
 
 <details><summary>थिते</summary>
 
-एवं पुरस्तात्प्रत्यञ्चं तूपरम् । पश्चात्प्राचीनं गोमृगम् २
+2. In the same manner (he does in connection with) the hornless he-goat (situated) to the east (of the horse) with its head to the west and the Gomr̥ga (situated to the west of the horse) with its head to the east.[^1]  
+
+[^1]: Cf. TB III.8.20.4. 
 </details>

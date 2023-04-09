@@ -5,5 +5,7 @@ title = "17 सन्तृणे अधिषवण फलके"
 
 <details><summary>थिते</summary>
 
-सन्तृणे अधिषवण फलके भवतः १७
+17. The pressing-boards should be bound together.[^1]  
+
+[^1]: Cp. XI.13.2. 
 </details>

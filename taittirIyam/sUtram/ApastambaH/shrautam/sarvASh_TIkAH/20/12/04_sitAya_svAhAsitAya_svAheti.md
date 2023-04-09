@@ -5,5 +5,7 @@ title = "04 सिताय स्वाहासिताय स्वाहे
 
 <details><summary>थिते</summary>
 
-सिताय स्वाहासिताय स्वाहेति प्रमुक्तीः ४
+4. (then the offering called) Pramukti with sitāya svāhāsitāya svāhā...;[^4]  
+
+[^4]: TS VII.4.22.  
 </details>

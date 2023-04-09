@@ -24,5 +24,7 @@ Uttarata-upacāraḥ has to be taken as a compound. Vihāra is explained as vihr
 
 <details><summary>थिते</summary>
 
-उत्तरतौपचारो विहारः १०
+10. On the Vihāra (sacrificial ground) the work is done towards the north.[^1]  
+
+[^1]: cf. ŚB III.4.3.19. See also XVI.21.13 
 </details>

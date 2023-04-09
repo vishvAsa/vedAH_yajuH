@@ -5,5 +5,8 @@ title = "01 कुक्काग्निवेश्योर्जायन�
 
 <details><summary>थिते</summary>
 
-कुक्काग्निवेश्योर्जायनानां सर्वेषां च स्तम्बस्तम्बशब्दानाम् १
+1. The Kukvas, Āgniveśyas, Urjāyanas, and all (the families the names of which contain) the word stambha or stamba.[^1]  
+
+[^1]: We should read stambhastambaśabdānām in stead of 
+stambastambaśabdānām.  
 </details>

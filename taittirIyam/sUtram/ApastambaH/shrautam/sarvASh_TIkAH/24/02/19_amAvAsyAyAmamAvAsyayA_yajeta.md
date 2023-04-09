@@ -39,5 +39,5 @@ Amā-vāsyā is the dwelling together, i.e. the conjunction, of sun and moon, an
 
 <details><summary>थिते</summary>
 
-अमावास्यायाममावास्यया यजेत १९
+19. One should perform the New-moon-sacrifice on the New-moon-day 
 </details>

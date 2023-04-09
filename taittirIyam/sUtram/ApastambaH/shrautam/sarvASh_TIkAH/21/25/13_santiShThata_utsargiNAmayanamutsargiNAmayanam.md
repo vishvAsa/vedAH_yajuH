@@ -5,5 +5,5 @@ title = "13 सन्तिष्ठत उत्सर्गिणामयन�
 
 <details><summary>थिते</summary>
 
-सन्तिष्ठत उत्सर्गिणामयनमुत्सर्गिणामयनम् १३
+13. The sacrificial session with abandoned days stands here established completely (i.e.concluded).  
 </details>

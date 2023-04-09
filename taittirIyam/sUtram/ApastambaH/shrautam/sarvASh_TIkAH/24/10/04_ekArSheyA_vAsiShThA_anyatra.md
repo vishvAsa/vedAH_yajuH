@@ -5,5 +5,5 @@ title = "04 एकार्षेया वासिष्ठा अन्यत
 
 <details><summary>थिते</summary>
 
-एकार्षेया वासिष्ठा अन्यत्र पराशरेभ्यः । वासिष्ठेति होता । वसिष्ठवदित्यध्वर्युः ४
+4. The Vāsiṣṭhas except the Parāśaras have one R̥ṣi. The Hotr̥ (says) O Vasiṣṭha. The Adhvaryu (says): In the manner of Vasiṣṭha. 
 </details>

@@ -5,5 +5,7 @@ title = "09 दक्षिणाकालेऽन्वहन् द्वा�
 
 <details><summary>थिते</summary>
 
-दक्षिणाकालेऽन्वहं द्वादशानि शतानि ददात्यहीने ९
+9. At the time of giving the sacrificial gifts,[^1] (the sacrificer) gives twelve hundred (cows), in case (the Dvādaśāha is) an Ahīna.  
+
+[^1]: See XIII.5.1. 
 </details>

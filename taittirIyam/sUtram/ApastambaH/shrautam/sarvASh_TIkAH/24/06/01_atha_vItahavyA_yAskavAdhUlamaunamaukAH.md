@@ -5,5 +5,5 @@ title = "01 अथ वीतहव्या यास्कवाधूलमौ
 
 <details><summary>थिते</summary>
 
-अथ वीतहव्या यास्कवाधूलमौनमौकाः १
+1. Now the Vītahavyas i.e. the Yāskas, Vādhūlas, Maunas, Maukas. 
 </details>

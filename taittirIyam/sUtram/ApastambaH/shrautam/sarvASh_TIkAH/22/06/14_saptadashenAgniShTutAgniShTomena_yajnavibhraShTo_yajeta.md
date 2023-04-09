@@ -5,5 +5,5 @@ title = "14 सप्तदशेनाग्निष्टुताग्न�
 
 <details><summary>थिते</summary>
 
-सप्तदशेनाग्निष्टुताग्निष्टोमेन यज्ञविभ्रष्टो यजेत यस्मिन्वा क्रतौ विभ्रंशेत १४
+14. The sacrificer who does not get any result of his sacrificial performance or fails in a sacrifice should perform Agniṣṭut Agniṣṭoma with seventeen versed-stoma. 
 </details>

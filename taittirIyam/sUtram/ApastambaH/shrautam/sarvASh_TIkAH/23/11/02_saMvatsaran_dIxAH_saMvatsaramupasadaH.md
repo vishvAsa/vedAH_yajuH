@@ -5,5 +5,7 @@ title = "02 संवत्सरन् दीक्षाः संवत्स
 
 <details><summary>थिते</summary>
 
-संवत्सरं दीक्षाः । संवत्सरमुपसदः २
+2. The Dīkṣā (period should be) one year; the Upasad period should be one year.[^1]  
+
+[^1]: Cp. XVII.26.4.  
 </details>

@@ -5,5 +5,7 @@ title = "06 चतुस्तनन् त्रिस्तनन् द्व
 
 <details><summary>थिते</summary>
 
-चतुस्तनं त्रिस्तनं द्विस्तनमेकस्तनमिति त्रींस्त्रीन्मासान्व्रतानि ६
+6. (Each of the performers consumes) the fast-food (milk) of four teats, three teats, two teats; and one teat for (each one of) the periods of three months (in sequence).[^1]  
+
+[^1]: Cp. XVII.26.7. 
 </details>

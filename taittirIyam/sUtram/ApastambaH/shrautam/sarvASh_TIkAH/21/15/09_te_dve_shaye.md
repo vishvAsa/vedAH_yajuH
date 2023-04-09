@@ -5,5 +5,5 @@ title = "09 ते द्वे शये"
 
 <details><summary>थिते</summary>
 
-ते द्वे शये अहनी भवतः ९
+9. Both these days remain reserved (at the time of calculation).  
 </details>

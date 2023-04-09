@@ -5,5 +5,9 @@ title = "11 अपि वा सवनीयानेव"
 
 <details><summary>थिते</summary>
 
-अपि वा सवनीयानेव पुरोडाशानेतेषां हविषां स्थाने । अध्वरकल्पान्वा ११
+11. Or instead of these offerings (one may offer) either the usual Savanīya-sacrificial breads[^1] or those mentioned in the Adhvarakalpa.[^2]  
+
+[^1]: See XII.3.18ff.  
+
+[^2]: TS II.2.9.4-7. 
 </details>

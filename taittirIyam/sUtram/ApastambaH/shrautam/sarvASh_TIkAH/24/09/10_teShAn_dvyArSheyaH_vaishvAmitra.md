@@ -5,5 +5,5 @@ title = "10 तेषान् द्व्यार्षेयः वैश्
 
 <details><summary>थिते</summary>
 
-तेषां द्व्यार्षेयः । वैश्वामित्र पौरणेति । पूरणवद्विश्वामित्रवदिति १०
+10. There are two R̥ṣis of them. (The Hotr̥ says) 0 Vaiśvāmitra, Pauraṇa. (The Adhvaryu says): In the manner of Pūraṇa, Viśvāmitra. 
 </details>

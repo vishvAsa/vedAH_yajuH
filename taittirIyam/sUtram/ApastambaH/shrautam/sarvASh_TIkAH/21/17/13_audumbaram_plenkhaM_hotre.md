@@ -5,5 +5,7 @@ title = "13 औदुम्बरम् प्लेङ्खं होत्र
 
 <details><summary>थिते</summary>
 
-औदुम्बरं प्लेङ्खं होत्रे प्रबध्नाति मौञ्ज्या रज्ज्वा १३
+13. In the place of the seat of the Hotr̥, he (the Adhvaryu) binds a swing made of Udumbara-wood by means of Muñja grass.[^1]  
+
+[^1]: Cf. TS VII.5.8.5.  
 </details>

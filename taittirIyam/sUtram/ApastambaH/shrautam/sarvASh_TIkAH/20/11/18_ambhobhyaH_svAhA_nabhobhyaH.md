@@ -5,5 +5,7 @@ title = "18 अम्भोभ्यः स्वाहा नभोभ्यः
 
 <details><summary>थिते</summary>
 
-अम्भोभ्यः स्वाहा नभोभ्यः स्वाहा महोभ्यः स्वाहेत्यम्भांसि नभांसि महांसि १८
+18. (then the offerings called) Ambhas, Nabhas and Mahas with ambhobhyaḥ svāhā, nabhobhyaḥ svāhā, mahobhyaḥ svāhā[^20].   
+
+[^20]: TS VII.4.14.a-e.  
 </details>

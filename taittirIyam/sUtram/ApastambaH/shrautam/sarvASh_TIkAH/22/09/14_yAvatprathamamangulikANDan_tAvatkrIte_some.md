@@ -5,5 +5,5 @@ title = "14 यावत्प्रथममङ्गुलिकाण्ड�
 
 <details><summary>थिते</summary>
 
-यावत्प्रथममङ्गुलिकाण्डं तावत्क्रीते सोमे व्रतम् १४
+14. After Soma is purchased he should consume as much ghee as would stick to the first finger-joint.  
 </details>

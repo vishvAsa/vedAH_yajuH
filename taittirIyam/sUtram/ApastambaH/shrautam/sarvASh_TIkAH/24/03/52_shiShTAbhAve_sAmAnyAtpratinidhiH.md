@@ -24,5 +24,5 @@ If in a caru of mudgas, kidney-beans, phaseolus mungo, these kidney-beans should
 
 <details><summary>थिते</summary>
 
-शिष्टाभावे सामान्यात्प्रतिनिधिः ५२
+52. In the absence of any direct mention, the substitute (should be decided) on the basis of similarity.  
 </details>

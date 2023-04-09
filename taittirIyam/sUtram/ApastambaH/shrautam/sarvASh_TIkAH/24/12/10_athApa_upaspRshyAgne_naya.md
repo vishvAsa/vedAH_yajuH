@@ -5,5 +5,9 @@ title = "10 अथाप उपस्पृश्याग्ने नय"
 
 <details><summary>थिते</summary>
 
-अथाप उपस्पृश्याग्ने नय सुपथा राये अस्मान् । एह्यग्न इह होता नि षीदादब्धः सु पुरएता भवा नः । अवतां मा रोदसी विश्वमिन्वे यजा महे सौमनसाय देवानित्येते ऋचौ जपन्होतृषदनाय प्रव्रजति १०
+10. Then having touched water, muttering these two verses beginning with agne naya supathā[^1] and ehyagna iha[^2] he goes towards the Hotr̥'s seat.  
+
+[^1]: TS I.1.14.i.  
+
+[^2]: R̥V I.76.2.  
 </details>

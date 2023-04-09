@@ -24,5 +24,5 @@ The juhū is a sruc, a spoon, the sruva, a ladle.
 
 <details><summary>थिते</summary>
 
-व्यापृतायां स्रुवेण २६
+26. When it is being used, then one should understand the Sruva (spoon) (to be the utensil). 
 </details>

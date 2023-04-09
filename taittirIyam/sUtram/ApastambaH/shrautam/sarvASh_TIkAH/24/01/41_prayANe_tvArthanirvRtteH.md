@@ -24,5 +24,7 @@ I read prayāṇe tu-ā-arthanirvṛtteḥ. Another reading is arthani*v*ritti�
 
 <details><summary>थिते</summary>
 
-प्रयाणे त्वार्थनिर्वृत्तेः ४१
+41. At the time of going[^1] (towards the sacrificial place), however, (the formula uttered once is valid) upto the completion of the purpose.  
+
+[^1]: See X.19.8. 
 </details>

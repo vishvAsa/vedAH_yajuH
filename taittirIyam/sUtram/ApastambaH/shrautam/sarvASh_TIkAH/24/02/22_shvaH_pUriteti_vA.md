@@ -35,5 +35,5 @@ In that case the day before should be observed as a day of abstinence. The real 
 
 <details><summary>थिते</summary>
 
-श्वः पूरितेति वा २२
+22. on the day before it will be full.  
 </details>

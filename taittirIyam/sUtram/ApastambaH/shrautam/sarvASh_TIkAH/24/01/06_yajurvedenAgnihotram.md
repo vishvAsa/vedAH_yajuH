@@ -20,5 +20,5 @@ The Agnihotra is prescribed by the Yajur-veda.
 
 <details><summary>थिते</summary>
 
-यजुर्वेदेनाग्निहोत्रम् ६
+6. The Agnihotra (is performed) with the help of Yajur-veda.  
 </details>

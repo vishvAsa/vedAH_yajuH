@@ -5,5 +5,5 @@ title = "07 समानमा प्रायणीयात्"
 
 <details><summary>थिते</summary>
 
-समानमा प्रायणीयात् ७
+7. (Everything) upto the Prāyaṇīya should be the same (as in the Dvādaśāha).  
 </details>

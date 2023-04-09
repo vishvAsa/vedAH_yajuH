@@ -5,5 +5,6 @@ title = "18 ऐन्द्रमारुता उक्षाणः मार
 
 <details><summary>थिते</summary>
 
-ऐन्द्रमारुता उक्षाणः । मारुत्यो वत्सतर्यः १८
-</details>
+18. The bulls are to be offered to Indra and Maruts, the calves to Maruts.[^1]  
+
+[^1]: Cf. TMB XXI.14.12. </details>

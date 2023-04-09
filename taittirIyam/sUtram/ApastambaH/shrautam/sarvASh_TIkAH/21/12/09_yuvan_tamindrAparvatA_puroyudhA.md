@@ -5,5 +5,13 @@ title = "09 युवन् तमिन्द्रापर्वता पु
 
 <details><summary>थिते</summary>
 
-युवं तमिन्द्रापर्वता पुरोयुधा यो नः पृतन्यादप तन्तमिद्धतं वज्रेण तन्तमिद्धतम् । दूरे चत्ताय छन्त्सद्गहनं यदिनक्षत् । अस्माकं शत्रून्परि शूर विश्वतो दर्मा दर्षीष्ट विश्वत इत्युत्तरेण हविर्धानं दक्षिणैर्हस्तैः कटांस्तेजनीर्वा निषेवमाणाः प्राञ्चो गत्वा पञ्च वचांसि व्याहरन्ति वाग्वागैतु वागुपैतु वाक् समैतूप मैतु वाग्भूर्भुवः सुवरिति ९
+9a. (They creep while reciting) yuvaṁ tamindrāparvatā....[^1]  
+
+[^1]: See ŚB IV.6.9.14.  
+
+9b. After they have gone to the north of Havirdhāna (-shed) while their faces are turned to the east, while they touch[^2] the mat or the reed wicwork (of the Havirdhāna), they utter the five expressions vāk, vāgaitu.[^3]  
+
+[^2] Cf. Tālavr̥tavāsin's commentary: avalambamānāḥ. According to Caland the word niṣevamāṇaḥ here is of doubtful meaning. He translates it to mean ‘loosen' (lockern).  
+
+[^3]: These formulae occur only here.  
 </details>

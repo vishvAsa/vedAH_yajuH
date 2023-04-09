@@ -5,5 +5,5 @@ title = "14 दीक्षिष्यमाणाः सन्निवपे�
 
 <details><summary>थिते</summary>
 
-दीक्षिष्यमाणाः सन्निवपेरन् १४
+14. When they are going to undergo consecration, they should bring (their fires) together.  
 </details>

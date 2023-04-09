@@ -5,5 +5,5 @@ title = "03 विष्णो स्थाने तिष्ठामीत्
 
 <details><summary>थिते</summary>
 
-विष्णो स्थाने तिष्ठामीत्यवतिष्ठते ३
+3. He stands with visnoh sthāne tiṣṭhāmi (II.15.1).  
 </details>

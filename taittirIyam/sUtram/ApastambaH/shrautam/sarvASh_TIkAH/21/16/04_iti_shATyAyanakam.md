@@ -5,5 +5,5 @@ title = "04 इति शाट्यायनकम्"
 
 <details><summary>थिते</summary>
 
-इति शाट्यायनकम् ४
+4. This is the Śāṭyāyanaka (view).  
 </details>

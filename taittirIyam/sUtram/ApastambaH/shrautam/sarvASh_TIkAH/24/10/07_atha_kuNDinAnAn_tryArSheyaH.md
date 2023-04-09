@@ -5,5 +5,5 @@ title = "07 अथ कुण्डिनानान् त्र्यार्
 
 <details><summary>थिते</summary>
 
-अथ कुण्डिनानां त्र्यार्षेयः । वासिष्ठ मैत्रावरुण कौण्डिन्येति । कुण्डिनवन्मित्रावरुणवद्वसिष्ठवदिति ७
+7. Now there are three R̥ṣis of Kuṇḍinas. (The Hotr̥ says): O Vāṣiṣtha, Maitrāvaruṇa, Kauṇḍinya. (The Adhvaryu says): In the manner of Kuṇḍina, Mitrāvaruṇa, Vasiṣṭha.  
 </details>

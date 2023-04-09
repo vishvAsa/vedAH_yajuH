@@ -5,5 +5,5 @@ title = "02 गायत्रेणाग्निष्टोमेन रथ�
 
 <details><summary>थिते</summary>
 
-गायत्रेणाग्निष्टोमेन रथन्तरसाम्ना ब्राह्मणो ब्रह्मवर्चसकामः २
+2. A Brāhmaṇa desirous of braman-splendor should perform the Gāyatra Agniṣṭoma with the Rathantara-sāman as the first Pr̥ṣṭha-stotra.  
 </details>

@@ -24,5 +24,5 @@ An example makes the meaning of this Sūtra quite clear. Generally the yūpa or 
 
 <details><summary>थिते</summary>
 
-द्रव्यसंस्कारविरोधे द्रव्यं बलीयः ४७
+47. In the conflict between the oblation-material and the sanctificiation of the oblation-material the oblation-material is stronger. 
 </details>

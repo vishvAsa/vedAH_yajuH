@@ -5,5 +5,5 @@ title = "08 ऋत्विजो यजमानञ् चाधिकृत्
 
 <details><summary>थिते</summary>
 
-ऋत्विजो यजमानं चाधिकृत्य वदति ८
+8. (Here the Brāhmaṇa-text) speaks about the priests and the sacrificer. 
 </details>

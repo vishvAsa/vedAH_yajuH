@@ -5,5 +5,5 @@ title = "09 एवमहरहः"
 
 <details><summary>थिते</summary>
 
-एवमहरहः ९
+9. Thus (happens) everyday. 
 </details>

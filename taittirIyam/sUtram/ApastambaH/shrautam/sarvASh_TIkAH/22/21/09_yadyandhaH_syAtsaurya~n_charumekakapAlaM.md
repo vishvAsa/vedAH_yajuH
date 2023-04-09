@@ -5,5 +5,5 @@ title = "09 यद्यन्धः स्यात्सौर्यञ् च
 
 <details><summary>थिते</summary>
 
-यद्यन्धः स्यात्सौर्यं चरुमेककपालं वा ९
+9. If a bulll becomes blind, he should offer rice-pap or a sacrificial bread prepared on one potsherd to Sūrya.  
 </details>

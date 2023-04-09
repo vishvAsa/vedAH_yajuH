@@ -30,5 +30,11 @@ This passage, quoted from some Āyur-vedic text, is still the only one which giv
 
 <details><summary>थिते</summary>
 
-क्रयपरिक्रयसंस्कारेषु द्रव्यसमुच्चयः ८
+8. For Soma-purchase,[^1] bargaining, the consecration,[^2] there should be aggregation of the things.  
+
+[^1]: See X.25.11-16.  
+
+[^2]: See X.25.4.  
+
+[^3]: See X.6.4. 
 </details>

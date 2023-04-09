@@ -5,5 +5,5 @@ title = "19 मरुत्स्तोमेन राजपुरोहित�
 
 <details><summary>थिते</summary>
 
-मरुत्स्तोमेन राजपुरोहितौ सायुज्यम् १९
+19. A king and his chaplain desirous of mutual harmony should perform the Marutstoma (-sacrifice). 
 </details>

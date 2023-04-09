@@ -5,5 +5,7 @@ title = "04 त्रीणि सारस्वतानि सत्त्र
 
 <details><summary>थिते</summary>
 
-त्रीणि सारस्वतानि सत्त्राणि । मित्रावरुणयोः प्रथममिन्द्राग्नियोर्द्वितीयमर्यम्णस्तृतीयम् ४
+4. There are three Sārasvata sacrificial-sessions, the first of Mitra and Varuṇa, the second of Indra and Agni, and the third of Aryaman.[^1]  
+
+[^1]: These three sessions are dealt with in TMB XXV.10.1-13.4.  
 </details>

@@ -5,5 +5,5 @@ title = "06 माघ्या इत्याश्मरथ्यः चैत
 
 <details><summary>थिते</summary>
 
-माघ्या इत्याश्मरथ्यः । चैत्त्र्या इत्यालेखनः ६
+6. According to Āśmarathya (this is in connection with the Full-moon-day) of Māgha; according to Ālekhana of Caitra.  
 </details>

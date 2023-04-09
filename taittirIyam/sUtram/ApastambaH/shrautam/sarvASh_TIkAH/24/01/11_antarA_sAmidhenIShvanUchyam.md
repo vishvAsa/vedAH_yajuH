@@ -24,5 +24,5 @@ The Sāmidhenīs are the hymns used for lighting the fire. One commentator expla
 
 <details><summary>थिते</summary>
 
-अन्तरा सामिधेनीष्वनूच्यम् ११
+11. At the time of the Sāmidheni-verses one should recite in the middle tone.  
 </details>

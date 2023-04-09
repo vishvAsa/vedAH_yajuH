@@ -29,5 +29,5 @@ In that case, when the real new moon takes place in the fore-noon, abstinence is
 
 <details><summary>थिते</summary>
 
-श्वो न द्रष्टार इति वा २५
+25. or the day before it on which they will not see it.  
 </details>

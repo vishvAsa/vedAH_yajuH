@@ -5,5 +5,7 @@ title = "10 उत्तमान् दक्षिणान् नीत्व
 
 <details><summary>थिते</summary>
 
-उत्तमां दक्षिणां नीत्वोदवसाय वा दक्षिणेनौदुम्बरीं प्राङ्निषद्य ब्रूयाद्यन्मेऽद ऋणं यददस्तत्सर्वं ददामीति १०
+10. After he has led the last gift (cow) or after he has got up[^1] (from the sacrifice) having sat to the south of the Audumbarī post with his face to the east he should say “Whatever debt I have to N.N. I give all that.”  
+
+[^1]: See XIII.25.3ff. 
 </details>

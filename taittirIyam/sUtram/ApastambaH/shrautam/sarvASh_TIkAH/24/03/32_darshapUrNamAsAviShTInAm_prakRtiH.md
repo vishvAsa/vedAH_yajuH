@@ -20,5 +20,5 @@ It is also the norm for the Agnīṣomīya Paśu, the animal sacrifice for Agnī
 
 <details><summary>थिते</summary>
 
-दर्शपूर्णमासाविष्टीनां प्रकृतिः ३२
+32. The New and Full-moon-sacrifices are the basic paradigm of the sacrifices called Iṣṭi (offering).  
 </details>

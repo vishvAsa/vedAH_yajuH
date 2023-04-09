@@ -5,5 +5,7 @@ title = "01 साध्यानां शतसंवत्सरेण सग
 
 <details><summary>थिते</summary>
 
-साध्यानां शतसंवत्सरेण सगवाः सपुरुषाः स्वर्गं लोकं यन्ति १
+1. By means (of the performance) of the one-hundred years-sacrificial-session of Sādhyas, (the performers) accompanied by the cattle, and accompanied by their men (servants) go to the heavenly world.[^1]  
+
+[^1]: Cf. TMB XXV.8.1-2.  
 </details>

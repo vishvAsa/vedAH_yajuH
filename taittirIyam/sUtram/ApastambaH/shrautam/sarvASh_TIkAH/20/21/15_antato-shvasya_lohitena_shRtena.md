@@ -5,5 +5,7 @@ title = "15 अन्ततोऽश्वस्य लोहितेन शृ
 
 <details><summary>थिते</summary>
 
-अन्ततोऽश्वस्य लोहितेन शृतेन स्तिष्टकृतं यजति १५
+15. With cooked blood of the horse he makes the Swiṣṭakr̥t-libation[^1].  
+
+[^1]: See VII.25.17-18. Cf. TB III.9.11.3-4. Cp.xx.19.10-16.  
 </details>

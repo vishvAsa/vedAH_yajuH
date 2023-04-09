@@ -5,5 +5,5 @@ title = "05 संवत्सरं सवनविधा इष्टीर्
 
 <details><summary>थिते</summary>
 
-संवत्सरं सवनविधा इष्टीर्निर्वपति । आग्नेयोऽष्टाकपाल ऐन्द्र एकादशकपालो वैश्वदेवो द्वादशकपालः ५
+5. One performs the Iṣṭis in the manner of Soma-pressings every day for one year: (Thus one should offer a sacrificial bread) prepared on eight potsherds to Agni (at the time of the morning pressing);... prepared on eleven potsherds to Indra (at the time of the midday pressing);... prepared on twelve potsherds to Viśvedevas (at the time of the third pressing).  
 </details>

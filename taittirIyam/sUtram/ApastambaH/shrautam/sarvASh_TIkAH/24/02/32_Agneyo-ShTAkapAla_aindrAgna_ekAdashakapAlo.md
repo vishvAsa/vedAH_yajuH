@@ -20,5 +20,5 @@ The Aṣṭā-kapāla for Agni, the Ekādaśa-kapāla or Dvādaśa-kapāla for I
 
 <details><summary>थिते</summary>
 
-आग्नेयोऽष्टाकपाल ऐन्द्राग्न एकादशकपालो द्वादशकपालो वा मावास्यायामसोमयाजिनः ३२
+32. In the case of a sacrificer who has not performed a Soma-sacrifce, a sacrificial bread prepared on eight potsherds for Agni, a sacrificial bread prepared on eleven or twelve potsherds for Indra-Agni are the principal things in the New moon-sacrifice.  
 </details>

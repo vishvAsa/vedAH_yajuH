@@ -5,5 +5,7 @@ title = "13 मासाः पुरस्तात्पृष्ठ्या 
 
 <details><summary>थिते</summary>
 
-मासाः पुरस्तात्पृष्ठ्या भवन्ति प्राग्विषुवतः । ऊर्ध्वं विषुवत उपरिष्टात्पृष्ठ्याः पञ्चदशिनः १३
+13. Before the Visuvat-day months have Pr̥ṣṭhya-six-day periods in the beginning. After the Viṣuvat-day they should have Pr̥ṣṭhya six-periods at the end and have fifteen-versed stoma.[^1]  
+
+[^1]: Contrast Sūtra 4 above.  
 </details>

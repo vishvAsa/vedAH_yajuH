@@ -5,5 +5,5 @@ title = "20 नियुनक्ति विअश्वदेवपात्�
 
 <details><summary>थिते</summary>
 
-नियुनक्ति विअश्वदेवपात्नीवतयोः २०
+20. He uses (the other verses addressed to Indra) for the Vaiśvadeva and Pātnīvata scoops. 
 </details>

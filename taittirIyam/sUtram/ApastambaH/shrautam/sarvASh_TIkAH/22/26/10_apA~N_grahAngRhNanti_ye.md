@@ -5,5 +5,7 @@ title = "10 अपाङ् ग्रहान्गृह्णन्ति य
 
 <details><summary>थिते</summary>
 
-अपां ग्रहान्गृह्णन्ति ये मन्थान्कल्पयन्त्यपां यो द्रवणे रस इत्येतैः प्रतिमन्त्रम् १०
+10. The same persons[^1] who prepare the stirred mixtures draw the scoops of water each with one of the formulae beginning with yo draviṇe rasaḥ... (TB II.1.7.7).  
+
+[^1]: See XXII.26.1. 
 </details>

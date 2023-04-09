@@ -5,5 +5,5 @@ title = "02 अथ होतृषदन उपविशति"
 
 <details><summary>थिते</summary>
 
-अथ होतृषदन उपविशति पातं मा द्यावापृथिवी उपस्थ इति दक्षिणपूर्विणं सव्योत्तरिणं वोपस्थं कृत्वा २
+2. Then having placed his right knee towards the east or having placed the left knee on the right knee, he sits down on the Hotr̥'s seat with pātam mā.... 
 </details>

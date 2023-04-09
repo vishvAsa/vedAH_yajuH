@@ -24,5 +24,8 @@ The exception applies to cases where the offering in a vikṛti sacrifice is mea
 
 <details><summary>थिते</summary>
 
-ऐन्द्राग्नविकारा वा ४४
+44. Or as the modifications of the offering to Indra-and 
+Agni.[^1]  
+
+[^1]: The second main offering in the New-Moon-sacrifice.  
 </details>

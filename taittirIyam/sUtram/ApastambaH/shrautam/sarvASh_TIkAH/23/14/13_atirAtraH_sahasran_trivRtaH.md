@@ -5,5 +5,7 @@ title = "13 अतिरात्रः सहस्रन् त्रिवृ
 
 <details><summary>थिते</summary>
 
-अतिरात्रः सहस्रं त्रिवृतः संवत्सरा अतिरात्रः १३
+13. (It consists) of an Atirātra, one thousand years of days on which nine-versed-stoma is used, and an Atirātra.[^1]  
+
+[^1]: Cf. TMB XXV.17.4. 
 </details>

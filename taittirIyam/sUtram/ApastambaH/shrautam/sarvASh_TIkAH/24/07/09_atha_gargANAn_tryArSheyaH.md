@@ -5,5 +5,5 @@ title = "09 अथ गर्गाणान् त्र्यार्षेय
 
 <details><summary>थिते</summary>
 
-अथ गर्गाणां त्र्यार्षेयः । आङ्गिरस गार्ग्य शैन्येति । शिनि वद्गर्गवदङ्गिरोवदिति ९
+9. Now there are three R̥ṣis of the Gargas. (The Hotr̥ says:) O Āṅgirasa, Gārgya, śainya. (The Adhvaryu says:) In the manner of Śini, Garga, Aṅgiras.  
 </details>

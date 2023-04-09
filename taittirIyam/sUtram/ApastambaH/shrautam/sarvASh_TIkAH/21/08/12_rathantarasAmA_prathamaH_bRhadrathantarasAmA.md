@@ -5,5 +5,5 @@ title = "12 रथन्तरसामा प्रथमः बृहद्र
 
 <details><summary>थिते</summary>
 
-रथन्तरसामा प्रथमः । बृहद्रथन्तरसामा द्वितीयः । बृहत्सामा तृतीयः १२
+12. The first (of these) has the Rathantara-sāman and the second the Br̥hat and Rathantara-Sāman and the third the Br̥hat sāman (as the first).  
 </details>

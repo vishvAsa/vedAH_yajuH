@@ -5,5 +5,7 @@ title = "14 राजीवा नवनीतपृश्नीररुणा�
 
 <details><summary>थिते</summary>
 
-राजीवा नवनीतपृश्नीररुणाः पिशङ्गीः सारङ्गीरुत्तमीरालभ्य दीक्षन्ते १४
+14. Stripped, with butter-yellow spots, reddish, (and) dappled[^1] ones. Having seized the last ones they consecrate themselves for the Soma-sacrifice.  
+
+[^1]: For these colours cp. TMB XXI. 14.8.  
 </details>

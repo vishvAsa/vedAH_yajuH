@@ -5,5 +5,5 @@ title = "09 श्यामूलेन क्षौमेण वाश्वं
 
 <details><summary>थिते</summary>
 
-श्यामूलेन क्षौमेण वाश्वं सञ्ज्ञपयन्ति । स्पन्द्याभिरितरान्पशून् ९
+9. They kill the horse (through suffocation) by means of a wollen or a linen cloth; and the other animals by means of strings. 
 </details>

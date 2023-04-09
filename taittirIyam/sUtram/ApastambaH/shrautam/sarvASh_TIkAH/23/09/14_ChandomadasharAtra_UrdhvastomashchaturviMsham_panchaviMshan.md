@@ -5,5 +5,7 @@ title = "14 छन्दोमदशरात्र ऊर्ध्वस्त�
 
 <details><summary>थिते</summary>
 
-छन्दोमदशरात्र ऊर्ध्वस्तोमश्चतुर्विंशं पञ्चविंशं द्वे अष्टाविंशे त्रिंशं द्वात्रिंशं षट्त्रिंशं चत्वारिंशं चतुश्चत्वारिंशमष्टाचत्वारिंशम् १४
+14. The Chandoma-ten-day-period should have increasing stomas in its days: twenty-four-versed, twenty-five-versed, two twenty-eight-versed-days, thirty-versed, thirty-two-versed, thirty-six-versed, forty-versed, forty-four-versed, forty-eight versed days.[^1]  
+
+[^1]: Cotrast Sūtra 8 above.  
 </details>

@@ -5,5 +5,5 @@ title = "13 शललीपिशङ्गेनान्नाद्यका�
 
 <details><summary>थिते</summary>
 
-शललीपिशङ्गेनान्नाद्यकामः १३
+13. (A sacrificer) desirous of food (should perform a nine day sacrifice called) Śalālīpiśaṅga (i.e. “porcupine-yellowish”).  
 </details>

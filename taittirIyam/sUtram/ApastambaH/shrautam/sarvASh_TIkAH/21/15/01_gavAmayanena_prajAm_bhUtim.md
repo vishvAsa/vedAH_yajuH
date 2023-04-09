@@ -5,5 +5,5 @@ title = "01 गवामयनेन प्रजाम् भूतिम्"
 
 <details><summary>थिते</summary>
 
-गवामयनेन प्रजां भूतिं भूमानं गच्छन्त्यभि स्वर्गं लोकं जयन्त्येषु लोकेषु प्रतितिष्ठन्ति १
+1. By means of Gavāmayana the performers reach (obtain) progeny, prosperity and amplitude; win the heaven; (and) become established in these worlds. 
 </details>

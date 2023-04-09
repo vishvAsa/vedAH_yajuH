@@ -5,5 +5,7 @@ title = "14 एतस्मिन्नेवाहन्यश्वमेध�
 
 <details><summary>थिते</summary>
 
-एतस्मिन्नेवाहन्यश्वमेधवदभिषेकः १४
+14. On the same day the sprinkling of water (Abhiṣeka) takes place as in the Aśvamedha-sacrifice.[^1]  
+
+[^1]: See XX.19.11. 
 </details>

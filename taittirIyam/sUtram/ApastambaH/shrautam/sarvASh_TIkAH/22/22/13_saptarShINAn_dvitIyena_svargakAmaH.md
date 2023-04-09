@@ -5,5 +5,7 @@ title = "13 सप्तर्षीणान् द्वितीयेन स
 
 <details><summary>थिते</summary>
 
-सप्तर्षीणां द्वितीयेन स्वर्गकामः १३
+13. A sacrificer desirous of heaven should perform the second seven-day-sacrifice of the seven R̥ṣis.[^1]   
+
+[^1]: For this sacrifice cp. TMB XXII.4.1ff; JB II.301-302. 
 </details>

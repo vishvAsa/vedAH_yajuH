@@ -5,5 +5,5 @@ title = "14 अथ कश्यपानान् त्र्यार्षे
 
 <details><summary>थिते</summary>
 
-अथ कश्यपानां त्र्यार्षेयः । काश्यपावत्सार नैध्रुवेति । निध्रुववदवत्सारवत्कश्यपवदिति १४
+14. Now there are three R̥ṣis of Kaśyapas. (The Hotr̥ says): O Kāśyapa, Āvatsāra, Naidhruva. (The Adhvaryu says): In the manner of Nidhruva, Avatśāra, Kaśyapa. 
 </details>

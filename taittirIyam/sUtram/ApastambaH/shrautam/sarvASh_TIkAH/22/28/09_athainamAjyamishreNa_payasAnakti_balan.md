@@ -5,5 +5,7 @@ title = "09 अथैनमाज्यमिश्रेण पयसानक�
 
 <details><summary>थिते</summary>
 
-अथैनमाज्यमिश्रेण पयसानक्ति । बलं ते बाहुवोरिति बाहू । यत्सीमन्तमिति शिरः ९
+9. Then he anoints him (the king) with milk mixed with ghee. (Thus he anoints his) arms with balaṁ te bāhuvoḥ... and the head with yat sīmantam....[^1]  
+
+[^1]: For the formulae see TB 11.7.17.3. 
 </details>

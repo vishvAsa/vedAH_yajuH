@@ -5,5 +5,7 @@ title = "13 सप्तदशरात्रमन्नाद्यकाम�
 
 <details><summary>थिते</summary>
 
-सप्तदशरात्रमन्नाद्यकामा उपेयुः १३
+13. (The performers) desirous of food should perform the seventeen-day-sacrificial-session.[^1]  
+
+[^1]: Cf. TS VII.3.8.1 
 </details>

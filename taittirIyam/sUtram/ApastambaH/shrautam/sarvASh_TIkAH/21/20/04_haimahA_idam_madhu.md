@@ -5,5 +5,5 @@ title = "04 हैमहा इदम् मधु"
 
 <details><summary>थिते</summary>
 
-हैमहा इदं मधु हिल्लु हिल्ल्विति सर्वासामृगन्तेषु समयः ४
+4. The exclamation haimahā idaṁ madhu... should be added at the end of each verse.  
 </details>

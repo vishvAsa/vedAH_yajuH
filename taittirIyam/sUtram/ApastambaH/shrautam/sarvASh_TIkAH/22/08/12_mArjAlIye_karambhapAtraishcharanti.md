@@ -5,5 +5,7 @@ title = "12 मार्जालीये करम्भपात्रैश�
 
 <details><summary>थिते</summary>
 
-मार्जालीये करम्भपात्रैश्चरन्ति १२
+12. The Karambha-pots should be offered in the Mārjālīya (fire).  
+
+[^1]: Instead of the fire on the Southern-altar (VIII.6.23). 
 </details>

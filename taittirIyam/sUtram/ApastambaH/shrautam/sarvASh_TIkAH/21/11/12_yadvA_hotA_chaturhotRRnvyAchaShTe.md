@@ -5,5 +5,5 @@ title = "12 यद्वा होता चतुर्होतॄन्व्
 
 <details><summary>थिते</summary>
 
-यद्वा होता चतुर्होतॄन्व्याचष्टे १२
+12. Or it consists of what the Hotr̥ declares as the Cāturhotr̥ (formula). 
 </details>

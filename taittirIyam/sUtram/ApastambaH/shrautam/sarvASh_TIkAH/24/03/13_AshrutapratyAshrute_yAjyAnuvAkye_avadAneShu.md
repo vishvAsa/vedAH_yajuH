@@ -24,5 +24,5 @@ The Vaṣaṭkāra consists in the word Vaṣaṭ, to be uttered by the Hotṛ-p
 
 <details><summary>थिते</summary>
 
-आश्रुतप्रत्याश्रुते याज्यानुवाक्ये अवदानेषु चोपस्तरणाभिघारणे चतुर्गृहीतं वषट्कारश्चादर्विहोमानाम् १३
+13. The Āśruta, Pratyāśruta, offering-verse, invitatory verse, cuttings of the portions, spreading the underlayer of ghee, pouring ghee, four times scooping and Vaṣaṭ-call are done in the offerings other than Darvihomas.  
 </details>

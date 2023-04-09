@@ -24,5 +24,5 @@ The Ekakapāla is a puroḍāśa cake, baked in one kapāla. It is fully describ
 
 <details><summary>थिते</summary>
 
-वैश्वदेवं वरुणप्रघाससाकमेधशुनासीरीयाणाम् ३७
+37. The Vaiśvadeva (part of the Cāturmāsya-sacrifices) (is the basic paradigm) of the Varuṇapraghāsa, Sākamedha, and Śunāsīrīya (parts of the Cāturmāsya-sacrifices).  
 </details>

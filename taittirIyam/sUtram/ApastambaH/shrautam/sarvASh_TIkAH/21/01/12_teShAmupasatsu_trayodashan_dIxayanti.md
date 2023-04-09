@@ -5,5 +5,7 @@ title = "12 तेषामुपसत्सु त्रयोदशन् द
 
 <details><summary>थिते</summary>
 
-तेषामुपसत्सु त्रयोदशं दीक्षयन्ति १२
+12. They consecrate the thirteenth one of these on the Upasad days.[^1]  
+
+[^1]: Cf. KS XXXIV.13.  
 </details>

@@ -5,5 +5,5 @@ title = "03 सत्त्रमहीनश्च"
 
 <details><summary>थिते</summary>
 
-सत्त्रमहीनश्च ३
+3. (It can be) a Sattra and an Ahīna (type of sacrifice). 
 </details>

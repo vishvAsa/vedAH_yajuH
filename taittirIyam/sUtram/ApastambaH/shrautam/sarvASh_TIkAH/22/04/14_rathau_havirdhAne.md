@@ -5,5 +5,5 @@ title = "14 रथौ हविर्धाने"
 
 <details><summary>थिते</summary>
 
-रथौ हविर्धाने १४
+14. (In it) two chariots (should be used as) the (two) Havirdhāna (-carts);  
 </details>

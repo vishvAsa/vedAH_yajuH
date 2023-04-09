@@ -24,5 +24,5 @@ A puroḍāśa may be made of vrīhi, rice, or of nīvāra, wild growing rice. T
 
 <details><summary>थिते</summary>
 
-हविर्देवतासामान्ये हविर्बलीयः ४६
+46. In the conflict between the oblation-material and deity, oblation-material is stronger.  
 </details>

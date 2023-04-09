@@ -5,5 +5,5 @@ title = "03 तदिदास भुवनेषु ज्येष्ठं"
 
 <details><summary>थिते</summary>
 
-तदिदास भुवनेषु ज्येष्ठं यतो यज्ञ उग्रस्त्वेषनृम्णः । सद्यो जज्ञानो नि रिणाति शत्रूननु यं विश्वे मदन्त्यूमा इति मध्यमे ३
+3. (He takes the scoop) in the middle (vessel) with tadidāsa...  
 </details>

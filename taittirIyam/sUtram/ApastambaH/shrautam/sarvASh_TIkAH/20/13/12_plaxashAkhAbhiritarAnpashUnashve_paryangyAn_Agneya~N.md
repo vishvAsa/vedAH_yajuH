@@ -5,5 +5,7 @@ title = "12 प्लक्षशाखाभिरितरान्पशू�
 
 <details><summary>थिते</summary>
 
-प्लक्षशाखाभिरितरान्पशूनश्वे पर्यङ्ग्यान् । आग्नेयं कृष्णग्रीवं पुरस्ताल्ललाटे । पौष्णमन्वञ्चम् । ऐन्द्रापौष्णमुपरिष्टाद्ग्रीवासु । आग्नेयौ कृष्णग्रीवौ बाहुवोः । त्वाष्ट्रौ लोमशसक्थौ सक्थ्योः । शितिपृष्ठौ बार्हस्पत्यौ पृष्ठे । सौर्ययामौ श्वेतं कृष्णं च पार्श्वयोः । धात्रे पृषोदरमधस्तात् । सौर्यं बलक्षं पुच्छे १२
+12. (He dedicates) other animals (which are going to be bound to) the different limbs of the horse by means of a Plakṣa-branch: (thus) the animal with black neck for Agni, in front on the forehead; (the animal) for Pūṣan behind it; (the animal for Indra and Pūṣan on the neck; the two (animals) with black neck on the arms (front legs); the two (animals) the in whom are very hairy for Tvaṣṭr̥, on the hind legs: two (animals) with their back white for Br̥haspati, on the back; two (animals) one white and one black for Sūrya and Yama (respectively), on the sides; an (animal) with its belly spotted for Dhātr̥, downwards; a white goat for Sūrya, on the tail.[^1]  
+
+[^1]: Cp. TB III.8.23.1-3; ŚB XIII.2.2.27.   
 </details>

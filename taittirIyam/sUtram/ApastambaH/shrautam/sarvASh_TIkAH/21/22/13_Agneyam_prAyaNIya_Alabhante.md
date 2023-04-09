@@ -5,5 +5,5 @@ title = "13 आग्नेयम् प्रायणीय आलभन्त
 
 <details><summary>थिते</summary>
 
-आग्नेयं प्रायणीय आलभन्ते । श्वो भूते सारस्वतीं मेषीम् १३
+13. On the Prāyaṇīya (-introductory) day he seizes the (he-goat) for Agni, on the next day a ewe for Sarasvatī. 
 </details>

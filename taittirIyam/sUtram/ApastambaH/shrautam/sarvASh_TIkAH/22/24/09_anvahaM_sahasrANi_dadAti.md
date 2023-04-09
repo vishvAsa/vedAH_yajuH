@@ -5,5 +5,5 @@ title = "09 अन्वहं सहस्राणि ददाति"
 
 <details><summary>थिते</summary>
 
-अन्वहं सहस्राणि ददाति । अश्वसहस्रमुत्तमेऽश्वशतं वा ९
+9. On every day he should give one thousand cows; on the last day he should give one thousand horses or one hundred horses. 
 </details>

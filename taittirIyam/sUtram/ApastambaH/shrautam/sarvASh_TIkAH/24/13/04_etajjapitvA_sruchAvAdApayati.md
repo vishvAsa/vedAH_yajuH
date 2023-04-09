@@ -5,5 +5,7 @@ title = "04 एतज्जपित्वा स्रुचावादाप�
 
 <details><summary>थिते</summary>
 
-एतज्जपित्वा स्रुचावादापयति ४
+4. After having muttered this he makes the Adhvaryu to hold both the ladles.[^1]  
+
+[^1]: Cp. II.17.1. 
 </details>

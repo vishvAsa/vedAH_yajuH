@@ -5,5 +5,5 @@ title = "13 इति द्वादश मासाः"
 
 <details><summary>थिते</summary>
 
-इति द्वादश मासाः १३
+13. This makes twelve months. 
 </details>

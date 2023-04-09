@@ -5,5 +5,5 @@ title = "09 बार्हस्पत्यः पशुरुपालम्�
 
 <details><summary>थिते</summary>
 
-बार्हस्पत्यः पशुरुपालम्भ्यः ९
+9. (In addition to the usual Savanīya-he-goat) there should be (a he-goat) for Br̥haspati.  
 </details>

@@ -24,5 +24,7 @@ The master is meant for the sacrificer himself and his wife. Their place cannot,
 
 <details><summary>थिते</summary>
 
-स्वामिनोऽग्नेर्देवतायाः शब्दात्कर्मणः प्रतिषेधाच्च प्रतिनिधिर्निवृत्तः १
+1. The substitute is stopped (i.e. not allowed) for the owner (i,e. the sacrificer), the fire, the word (i.e. the formula), the action, and for the prohibited.[^1]  
+
+[^1]: Thus for example when it is said that the beans should not be offered, this prohibition remains always valid.  
 </details>

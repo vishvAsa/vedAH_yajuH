@@ -24,5 +24,5 @@ This refers to such passages from the Brāhmaṇas as: There are four great sacr
 
 <details><summary>थिते</summary>
 
-तुल्यवच्च प्रसङ्ख्यानात् ३७
+37. And also because it is counted (in the vedic texts) in similar manner (to that of other independent sacrifices). 
 </details>

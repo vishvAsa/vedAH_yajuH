@@ -5,5 +5,5 @@ title = "08 माध्यन्दिनकाले पशुपुरोड�
 
 <details><summary>थिते</summary>
 
-माध्यन्दिनकाले पशुपुरोडाशेन प्रचर्येन्द्राय मरुत्वते पुरोडाशमेकादशकपालं निर्वपत्यैन्द्रं च चरुम् ८
+8. At the time of the mid-day (pressing), having performed (the offering of the animal-sacrificial bread he takes out the material of a sacrificial bread on the eleven potsherds for Indra Marutvat and rice-pap for Indra.  
 </details>

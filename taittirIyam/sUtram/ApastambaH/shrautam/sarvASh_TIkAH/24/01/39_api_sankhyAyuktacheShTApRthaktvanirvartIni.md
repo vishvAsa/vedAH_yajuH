@@ -24,5 +24,7 @@ If a rule is given, such as triḥ prokṣati, he sprinkles thrice, the mantra w
 
 <details><summary>थिते</summary>
 
-अपि संख्यायुक्तचेष्टापृथक्त्वनिर्वर्तीनि ३९
+39. Also those ritual acts in connection with which a number is given and those which require a separate movement (should be accompanied only by one formula).[^1]  
+
+[^1]: Thus for example the preparation of Veda (grass-brush) (I. 6.4) may require more time than what is required for uttering the formula. Still the formula is to be uttered only once. 
 </details>

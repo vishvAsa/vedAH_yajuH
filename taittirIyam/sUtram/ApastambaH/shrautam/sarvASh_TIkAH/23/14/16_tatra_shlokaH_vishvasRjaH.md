@@ -5,5 +5,5 @@ title = "16 तत्र श्लोकः विश्वसृजः"
 
 <details><summary>थिते</summary>
 
-तत्र श्लोकः । विश्वसृजः प्रथमा सत्त्रमासत सहस्रसमं प्रसुतेन यन्तः । ततो ह जज्ञे भुवनस्य गोपा हिरण्मयः शकुनिर्ब्रह्मनामेति १६
+16. There is a verse (in this connection:) The first All creaters performed a sacrificial-session consisting of thousand years, while peforming soma-pressing; then the protector of the world, the golden bird, called Brahman was born. 
 </details>

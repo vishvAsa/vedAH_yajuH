@@ -5,5 +5,5 @@ title = "12 अथौचथ्या गौतमाः"
 
 <details><summary>थिते</summary>
 
-अथौचथ्या गौतमाः १२
+12. Now the Aucathya-Gautamas. 
 </details>

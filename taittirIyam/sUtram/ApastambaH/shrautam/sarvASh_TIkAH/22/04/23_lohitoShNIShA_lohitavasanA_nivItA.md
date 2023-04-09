@@ -5,5 +5,5 @@ title = "23 लोहितोष्णीषा लोहितवसना न
 
 <details><summary>थिते</summary>
 
-लोहितोष्णीषा लोहितवसना निवीता ऋत्विजः प्रचरन्ति २३
+23. The priests carrying red turbans, red garments and holding their sacred threads around their necks should perform their duties. 
 </details>

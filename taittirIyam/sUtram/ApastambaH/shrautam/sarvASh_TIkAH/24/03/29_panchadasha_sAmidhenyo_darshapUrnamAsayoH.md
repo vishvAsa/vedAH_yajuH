@@ -20,5 +20,7 @@ At the Iṣṭi and Paśubandha sacrifices there are seventeen Sāmidhenīs, whe
 
 <details><summary>थिते</summary>
 
-पञ्चदश सामिधेन्यो दर्शपूर्नमासयोः २९
+29. For the New and Full moon sacrifices there should be fifteen Sāmidheni (enkindling-verses).  
+
+[^1]: Cp. II.12.2. 
 </details>

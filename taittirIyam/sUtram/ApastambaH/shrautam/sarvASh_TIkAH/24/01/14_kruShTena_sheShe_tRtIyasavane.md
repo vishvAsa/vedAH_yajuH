@@ -26,5 +26,5 @@ The remainder refers to the Darśa-pūrṇamāsa sacrifice, the three Savanas to
 
 <details><summary>थिते</summary>
 
-क्रुष्टेन शेषे तृतीयसवने च १४
+14. in the loud tone in the remaining part of an Iṣṭi and at the time of the third pressing in a Soma sacrifice.  
 </details>

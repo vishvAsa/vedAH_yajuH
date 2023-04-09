@@ -5,5 +5,5 @@ title = "18 विज्ञायते चेडोपहूतेति तत
 
 <details><summary>थिते</summary>
 
-विज्ञायते चेडोपहूतेति तत्पराची । उपहूतेति तत्प्रतीची १८
+18. And it is known from a Brāhmaṇa-text: The expression iḍā upahūtā (Iḍā is invoked) is away from himself; the expression upahutā invoked is (lḍā) is towards himself.   
 </details>

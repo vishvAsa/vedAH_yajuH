@@ -24,5 +24,5 @@ Some mantras remain the same in the Vikṛti as in the Prakṛti. Others have to
 
 <details><summary>थिते</summary>
 
-न प्रकृतावूहो विद्यते ४९
+49. There is no change in the formula in the basic paradigm.  
 </details>

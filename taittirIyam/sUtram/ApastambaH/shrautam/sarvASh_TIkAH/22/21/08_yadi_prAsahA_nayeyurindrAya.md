@@ -5,5 +5,5 @@ title = "08 यदि प्रासहा नयेयुरिन्द्र
 
 <details><summary>थिते</summary>
 
-यदि प्रासहा नयेयुरिन्द्राय प्रसह्वन एकादशकपालम् ८
+8. If enemies forcefully take a bull away he should offer a sacrificial bread prepared on eleven potsherds to Indra Prasahvan.  
 </details>

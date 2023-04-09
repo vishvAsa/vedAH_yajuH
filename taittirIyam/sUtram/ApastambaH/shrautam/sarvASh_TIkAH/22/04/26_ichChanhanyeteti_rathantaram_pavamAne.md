@@ -5,5 +5,7 @@ title = "26 इच्छन्हन्येतेति रथन्तरम�
 
 <details><summary>थिते</summary>
 
-इच्छन्हन्येतेति रथन्तरं पवमाने कुर्याद्बृहत्पृष्ठम् । जीयेतेत्येतद्विपरीतम् २६
+26. (If the sacrifice) desires (that the enemy) should be killed (then) he should use the Rathantara-sāman as the Pavamāna-laud (at the time of the midday-pressing) and should use the Br̥hat-sāman as the first Pr̥ṣṭha-stotra; if he desires (that the enemy) should be conquered, (then) he should do the reverse[^1].  
+
+[^1]: Cp. ṢaḍB III.8.12-13.  
 </details>

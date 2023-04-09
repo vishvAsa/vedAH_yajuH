@@ -5,5 +5,7 @@ title = "12 तम् ब्राह्मणः सञ्जित्याग
 
 <details><summary>थिते</summary>
 
-तं ब्राह्मणः सञ्जित्याग्नीध्रे चर्माध्यस्यति १२
+12. After the Brahmin has conquered the Śūdra, he throws the hide into the Āgnīdhra shed.[^1]  
+
+[^1]: Cf. TB I.2.6.7. 
 </details>

@@ -5,5 +5,8 @@ title = "02 साध्यानाम् प्रथमः"
 
 <details><summary>थिते</summary>
 
-साध्यानां प्रथमः २
+2. The first is that of the Sādhyas.[^1]  
+
+[^1]: Cf. TS VII.2.1.1ff. 
+
 </details>

@@ -5,5 +5,5 @@ title = "16 व्यावृत्तिम् पाप्मना भ्र
 
 <details><summary>थिते</summary>
 
-व्यावृत्तिं पाप्मना भ्रातृव्येण गच्छन्ति १६
+16. The performers (of it) get (reach) the exclusion (destrution) of the enemy. 
 </details>

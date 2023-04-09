@@ -24,5 +24,5 @@ This fire refers to the fire on the Uttara-vedi, mentioned in the preceding Sūt
 
 <details><summary>थिते</summary>
 
-उत्तरेषु क्रतुष्वग्निः ८
+8. In the next (sacrifices there is) the fire-altar-building (made with bricks).  
 </details>

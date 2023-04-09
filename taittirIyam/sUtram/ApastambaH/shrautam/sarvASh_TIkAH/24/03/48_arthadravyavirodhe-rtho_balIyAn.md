@@ -24,5 +24,5 @@ Certain mantras of the Veda have to be slightly altered, when their application 
 
 <details><summary>थिते</summary>
 
-अर्थद्रव्यविरोधेऽर्थो बलीयान् ४८
+48. In the conflict between the purpose and the offering material, the purpose is stronger. 
 </details>

@@ -24,5 +24,7 @@ This seems to mean that anything new, peculiar to a Vikṛti, and not mentioned 
 
 <details><summary>थिते</summary>
 
-प्रकृतेः पूर्वोक्तत्वादपूर्वमन्ते स्यात् १५
+15. Because the basic paradigm is mentioned first, the new (different detail) should be at the end.[^1]  
+
+[^1]: Thus e.g. in connection with the Nakṣetraṣṭi BaudhāśS XVIII.3. 4 the Upahomas (additional libations) are to be made at the end of the offering i.e. before the Samiṣṭayajus. (ApSS III. 13.2) According to BaudhāŚS XXVIII.3 they should be performed before the Sviṣṭakr̥t. Cp. ĀpŚS II.21.2.  
 </details>

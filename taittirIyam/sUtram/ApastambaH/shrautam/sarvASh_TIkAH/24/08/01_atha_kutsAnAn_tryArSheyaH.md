@@ -5,5 +5,5 @@ title = "01 अथ कुत्सानान् त्र्यार्षे
 
 <details><summary>थिते</summary>
 
-अथ कुत्सानां त्र्यार्षेयः । आङ्गिरस मान्धात्र कौत्सेति । कुत्सवन्मान्धातृवदङ्गिरोवदिति १
+1. Now there three R̥ṣis of the Kutsas. (The Hotr̥ says:) O Āṅgirasa, Māndhātra, Kautsa. (The Adhvaryu says:) In the manner of Kutsa, Mandhatr̥, Āṅgiras.  
 </details>

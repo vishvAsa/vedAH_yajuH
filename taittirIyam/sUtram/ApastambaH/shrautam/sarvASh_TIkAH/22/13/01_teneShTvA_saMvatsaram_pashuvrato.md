@@ -5,5 +5,5 @@ title = "01 तेनेष्ट्वा संवत्सरम् पशु
 
 <details><summary>थिते</summary>
 
-तेनेष्ट्वा संवत्सरं पशुव्रतो भवति १
+1. Having performed it (the Gosava-sacrifice) (the sacri ficer) should observe vow of (living like) an animal (i.e. a bull) for one year.  
 </details>

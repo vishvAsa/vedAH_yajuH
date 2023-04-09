@@ -5,5 +5,5 @@ title = "20 उद्भिदेष्ट्वा संवत्सरे व
 
 <details><summary>थिते</summary>
 
-उद्भिदेष्ट्वा संवत्सरे वलभिदा यजेत २०
+20. Having performed the Udbhid, one should perform the Valabhid after one year.  
 </details>

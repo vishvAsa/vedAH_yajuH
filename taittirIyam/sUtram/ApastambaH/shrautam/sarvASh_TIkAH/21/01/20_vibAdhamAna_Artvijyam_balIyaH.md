@@ -5,5 +5,5 @@ title = "20 विबाधमान आर्त्विज्यम् बल
 
 <details><summary>थिते</summary>
 
-विबाधमान आर्त्विज्यं बलीयः २०
+20. When there will be conflict, the duty as a priest (should be considered) as stronger.  
 </details>

@@ -5,5 +5,5 @@ title = "03 सर्वेऽभिप्लवाः"
 
 <details><summary>थिते</summary>
 
-सर्वेऽभिप्लवाः ३
+3. The days in all the Abhiplava (six-day-period)s 
 </details>

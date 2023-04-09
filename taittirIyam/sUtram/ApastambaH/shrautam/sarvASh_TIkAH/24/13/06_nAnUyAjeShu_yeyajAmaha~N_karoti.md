@@ -5,5 +5,5 @@ title = "06 नानूयाजेषु येयजामहङ् करो
 
 <details><summary>थिते</summary>
 
-नानूयाजेषु येयजामहं करोति ६
+6. He does not utter the words ye yajāmahe at the time of reciting the offering-verses of the after-offerings (Anūyājas).  
 </details>

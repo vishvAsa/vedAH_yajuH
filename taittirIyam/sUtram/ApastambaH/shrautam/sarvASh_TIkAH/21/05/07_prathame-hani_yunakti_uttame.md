@@ -5,5 +5,5 @@ title = "07 प्रथमेऽहनि युनक्ति उत्तम
 
 <details><summary>थिते</summary>
 
-प्रथमेऽहनि युनक्ति । उत्तमे विमुञ्चति ७
+7. He yokes (the fire) on the first day. He unyokes (it) on the last.  
 </details>

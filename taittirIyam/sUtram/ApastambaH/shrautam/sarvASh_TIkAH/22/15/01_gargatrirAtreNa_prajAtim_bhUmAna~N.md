@@ -5,5 +5,7 @@ title = "01 गर्गत्रिरात्रेण प्रजाति�
 
 <details><summary>थिते</summary>
 
-गर्गत्रिरात्रेण प्रजातिं भूमानं गच्छत्यभि स्वर्गं लोकं जयत्येषु लोकेषु प्रतितिष्ठति वसून्रुद्रानादित्यानन्वारोहति १
+1. The sacrificer gets progeny, goes to multiplication (of his race), goes to heaven, establishes himself firmly on these worlds, and asends on Vasus, Rudras and Adityas by (perform ing) the Garga-Trirātra (Ahīna-sacrifice).[^1]  
+
+[^1]: Cp. TMB XX.14.6; TS VII.1.5.7.  
 </details>

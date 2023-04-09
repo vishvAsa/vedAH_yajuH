@@ -5,5 +5,5 @@ title = "09 यद्यश्वमुपतपद्विन्देदा�
 
 <details><summary>थिते</summary>
 
-यद्यश्वमुपतपद्विन्देदाग्नेयमष्टाकपालं निर्वपेत्सौम्यं चरुं सावित्रमष्टाकपालम् ९
+9. If the horse gets fever, (thc Adhvaryu) should perform an offering of (a sacrificial bread) baked on eight potsherds and a rice-pap for Soma and a sacrificial bread on eight potsherds to Savitr̥.  
 </details>

@@ -24,5 +24,5 @@ These sounds, though serving for the sacrifice, are not to be considered as liab
 
 <details><summary>थिते</summary>
 
-रथशब्दो दुन्दुभिशब्दश्च ३६
+36. And (also) the sound of chariots and the sound of drums (are not to be considered as Mantra).  
 </details>

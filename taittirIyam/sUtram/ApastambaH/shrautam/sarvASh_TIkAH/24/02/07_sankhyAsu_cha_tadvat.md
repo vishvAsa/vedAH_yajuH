@@ -24,5 +24,6 @@ If we read that, as in the case of fees to be given to priests, two, seven, elev
 
 <details><summary>थिते</summary>
 
-सङ्ख्यासु च तद्वत् ७
+7. Similarly in connection with the number (of sacrificial 
+gifts). 
 </details>

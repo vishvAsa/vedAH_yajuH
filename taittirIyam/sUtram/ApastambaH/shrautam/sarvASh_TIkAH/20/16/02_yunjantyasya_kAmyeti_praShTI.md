@@ -5,5 +5,8 @@ title = "02 युञ्जन्त्यस्य काम्येति प
 
 <details><summary>थिते</summary>
 
-युञ्जन्त्यस्य काम्येति प्रष्टी २
+2. (He yokes) the two side-horses with yuñjantyasya....[^1]  
+
+[^1]: TS VII.4.20.g. 
+
 </details>

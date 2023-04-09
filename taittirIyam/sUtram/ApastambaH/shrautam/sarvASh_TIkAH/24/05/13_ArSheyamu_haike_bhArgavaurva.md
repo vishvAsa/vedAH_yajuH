@@ -5,5 +5,5 @@ title = "13 आर्षेयमु हैके भार्गवौर्व
 
 <details><summary>थिते</summary>
 
-आर्षेयमु हैके । भार्गवौर्व जामदग्न्येति । जमदग्निवदूर्ववद्भृगुवदिति १३
+13. According to some there are three R̥ṣis. (The Hotr̥ says:) O Bhārgava, Aurva, Jāmadgnya. (The Adhvaryu says:) In the manner of Jamadagni, Ūrva, Bhr̥gu.  
 </details>

@@ -5,5 +5,5 @@ title = "06 नाराशंसो द्वितीयः प्रयाज
 
 <details><summary>थिते</summary>
 
-नाराशंसो द्वितीयः प्रयाजो वसिष्ठशुनकानाम् ६
+6. The second fore-offering refers to the Narāśaṁsa if the performer belongs to Vasiṣṭha-family 
 </details>

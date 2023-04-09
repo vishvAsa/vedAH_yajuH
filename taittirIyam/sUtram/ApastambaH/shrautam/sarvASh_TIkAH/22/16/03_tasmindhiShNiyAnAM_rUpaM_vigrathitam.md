@@ -5,5 +5,5 @@ title = "03 तस्मिन्धिष्णियानां रूपं 
 
 <details><summary>थिते</summary>
 
-तस्मिन्धिष्णियानां रूपं विग्रथितं भवति ३
+3. In it (i.e. in that garment) the form of Dhiṣṇyas is bound. 
 </details>

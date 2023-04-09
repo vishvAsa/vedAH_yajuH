@@ -24,5 +24,9 @@ This refers again to the same subject, namely what has to be done if there are e
 
 <details><summary>थिते</summary>
 
-अन्ताल्लोपो विवृद्धिर्वा १४
+14. At the end there should be exclusion[^1] or addition.[^2]  
+
+[^1]: In the case of sacrificial bread prepared on five potsherds for Agni (e.g. XIII.25.5) while placing the potsherds there are eight formulae available in the basic paradigm (1.22.3-23.1). Here the last three are to be excluded.  
+
+[^2]: In the case of the sacrificial bread prepared on nine potsherds for Viṣṇu (see e.g. X.30.12). The last formula out of the eight in the basic paradigm is to be used twice.  
 </details>

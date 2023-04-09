@@ -24,5 +24,13 @@ With regard to the Ṣoḍaśin and its vikāra, the Vājapeya, the laying of th
 
 <details><summary>थिते</summary>
 
-अन्यत्र साद्यस्क्रेभ्यो वाजपेयात्षोडशिनः सारस्वताच्च सत्त्रात् ९
+9. Except in the (following sacrifices): Sādyaskas[^1], Vājapeya[^2], Ṣoḍaśin[^3], and Sārasvata-sacrificial-session[^4].  
+
+[^1]: XXII. 2.6ff.  
+
+[^2]: XVIII. 1.1ff.  
+
+[^3]: XIV. 2.2ff.  
+
+[^4]: XXIII. 12.4ff. 
 </details>

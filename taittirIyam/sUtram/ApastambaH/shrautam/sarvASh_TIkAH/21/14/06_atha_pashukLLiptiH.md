@@ -5,5 +5,5 @@ title = "06 अथ पशुकॢप्तिः"
 
 <details><summary>थिते</summary>
 
-अथ पशुकॢप्तिः ६
+6. Now the arrangement of victims. 
 </details>

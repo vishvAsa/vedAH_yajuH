@@ -5,5 +5,6 @@ title = "20 द्वादशमानं हिरण्यन् दीक्
 
 <details><summary>थिते</summary>
 
-द्वादशमानं हिरण्यं दीक्षणीयायां ददाति । द्विस्तावत्प्रायणीयायाम् २०
+20. At the time of the Dīkṣaṇīyā-offering (the sacrificer) gives gold weighing twelve Mānas; at the time of Prāyaṇīyā, double this.  
+
 </details>

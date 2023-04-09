@@ -5,5 +5,5 @@ title = "09 शिशिरे वा एतस्य"
 
 <details><summary>थिते</summary>
 
-शिशिरे वा एतस्य प्रयाणं वसन्त उत्थानम् ९
+9. “The forward-march of him is in the cold season; the stand up (completion) is in the spring;  
 </details>

@@ -24,5 +24,5 @@ All sacrificial vessels and instruments are to be kept, and most of them are bur
 
 <details><summary>थिते</summary>
 
-आधानप्रभृति यावज्जीवं पात्राणि धार्यन्ते २८
+28. From the time of establishment of fires, the utensils are preserved upto the end of the life (of the sacrificer).
 </details>

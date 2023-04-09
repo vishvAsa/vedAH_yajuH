@@ -20,5 +20,7 @@ Offerings for many deities are vikāras also of the Aindrāgna.
 
 <details><summary>थिते</summary>
 
-द्विदेवता अग्नीषोमीयविकाराः ४२
+42. (The offerings) having two deities (are to be understood as the modificatons of) offerings to Agni-and Soma;[^1]  
+
+[^1]: The second main offering in the Full-moon-sacrifice.  
 </details>

@@ -20,5 +20,5 @@ One pours out (juhoti) all āhutis, west of the Āhavanīya fire, passing (the a
 
 <details><summary>थिते</summary>
 
-अपरेणाहवनीयं दक्षिणातिक्रम्योदगावृत्तः सर्वा आहुतीर्जुहोति ११
+11. The Adhvaryu offers all the libations from the west of the Āhavanīya-fire having stepped towards the south and then having turned to the north.  
 </details>

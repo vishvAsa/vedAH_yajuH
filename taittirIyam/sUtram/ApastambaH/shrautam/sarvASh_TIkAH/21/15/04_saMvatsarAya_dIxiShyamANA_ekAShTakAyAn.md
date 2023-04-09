@@ -5,5 +5,9 @@ title = "04 संवत्सराय दीक्षिष्यमाणा 
 
 <details><summary>थिते</summary>
 
-संवत्सराय दीक्षिष्यमाणा एकाष्टकायां दीक्षेरन्नित्युक्तम् ४
+4. It has been said (in a Brāhmaṇa-text)[^1] "Those who are going to be consecrated for a year (i.e. for a year-long-sacrificial session) they should get themselves consecrated on the Ekāṣṭaka-day...."[^2]  
+
+[^1]: TS VII.4.8.1-2.  
+
+[^2]: the eight day in the Black Fortnight of the Māgha-month. 
 </details>

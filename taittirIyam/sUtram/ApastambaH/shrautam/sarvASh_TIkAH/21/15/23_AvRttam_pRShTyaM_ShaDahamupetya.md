@@ -5,5 +5,6 @@ title = "23 आवृत्तम् पृष्ट्यं षडहमुप
 
 <details><summary>थिते</summary>
 
-आवृत्तं पृष्ट्यं षडहमुपेत्य चतुरोऽभिप्लवानावृत्तान्समासे २३
+23. Then having performed the Pr̥ṣṭhya-ṣaḍaha in the reverse order, they perform four Abhiplava-ṣaḍahas also in the reverse order; that makes one month.  
+
 </details>

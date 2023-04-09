@@ -5,5 +5,5 @@ title = "17 निकल्पन्ते वीणावादाः शङ्
 
 <details><summary>थिते</summary>
 
-निकल्पन्ते वीणावादाः शङ्खान्नाळीस्तूणवानिति १७
+17. The lute-players arrange the conch-shells, reed-flutes and the wooden flutes.  
 </details>

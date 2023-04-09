@@ -5,5 +5,5 @@ title = "02 तेषान् त्र्यार्षेयः वैश्
 
 <details><summary>थिते</summary>
 
-तेषां त्र्यार्षेयः । वैश्वामित्र दैवरातौदलेति । उदलवद्देवरातवद्विश्वामित्रवदिति २
+2. There of three Rṣis of them. (the Hotr̥ says): O Vaiśvamitra, Daivarāta, Audala. (The Adhvaryu says): In the manner of Udala, Devatāta, Viśvāmitra. 
 </details>

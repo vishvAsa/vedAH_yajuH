@@ -5,5 +5,5 @@ title = "12 अथ गविष्ठिराणान् त्र्यार
 
 <details><summary>थिते</summary>
 
-अथ गविष्ठिराणां त्र्यार्षेयः । आत्रेयार्चनानस गाविष्ठिरेति । गविष्ठिरवदर्चनानस वदत्रिवदिति १२
+12. Now there are three R̥ṣis of the Gaviṣṭhiras. (The Hotr̥ says:) O Ātreya, Ārcanānasa, Gāviṣṭhira. (The Adhvaryu says:) In the manner of Gaviṣṭhira, Arcanānas, Atri.  
 </details>

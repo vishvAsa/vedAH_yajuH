@@ -5,5 +5,5 @@ title = "06 अग्रेणाहवनीयं रथेषु कवचि
 
 <details><summary>थिते</summary>
 
-अग्रेणाहवनीयं रथेषु कवचिनः सन्नह्यन्ते ६
+6. To the east of the Āhavanīya on the chariots the armoured (princes or sons of warriors) gird themselves.
 </details>

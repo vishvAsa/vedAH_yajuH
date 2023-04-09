@@ -5,5 +5,6 @@ title = "06 यदि नश्येद्वायव्यञ् चरुम
 
 <details><summary>थिते</summary>
 
-यदि नश्येद्वायव्यं चरुम् ६
+6. If a bull is lost, he should offer rice-pap to Vāyu. 
+
 </details>

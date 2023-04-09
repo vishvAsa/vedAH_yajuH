@@ -24,5 +24,5 @@ Here the full moon is called paurṇamāsī, the sacrifice paurṇamāsyā. Saty
 
 <details><summary>थिते</summary>
 
-पौणमास्यां पौर्णमास्या २०
+20. and the Full-moon-sacrifice on the Full moon-day. 
 </details>

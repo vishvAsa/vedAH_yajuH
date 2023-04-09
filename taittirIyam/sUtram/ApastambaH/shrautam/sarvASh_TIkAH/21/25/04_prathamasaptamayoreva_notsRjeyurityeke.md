@@ -5,5 +5,5 @@ title = "04 प्रथमसप्तमयोरेव नोत्सृज�
 
 <details><summary>थिते</summary>
 
-प्रथमसप्तमयोरेव नोत्सृजेयुरित्येके ४
+4. According to some in the first and seventh month only they should not abandon. 
 </details>

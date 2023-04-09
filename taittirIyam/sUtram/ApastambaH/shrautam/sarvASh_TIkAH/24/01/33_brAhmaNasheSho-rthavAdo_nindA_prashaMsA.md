@@ -24,5 +24,5 @@ It is difficult to find words corresponding to technical terms in Sanskrit. Arth
 
 <details><summary>थिते</summary>
 
-ब्राह्मणशेषोऽर्थवादो निन्दा प्रशंसा परकृतिः पुराकल्पश्च ३३
+33. The remainig part of the Brāhmaṇas (is called) Arthavāda (explanation) (consisting of) Nindā (blame) Praśaṁsā (praise), Parakr̥ti (activity of someone else), and Purākalpa (ancient happening).  
 </details>

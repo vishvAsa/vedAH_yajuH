@@ -5,5 +5,8 @@ title = "17 ऋतमुक्त्वा प्रसर्पन्ति ऋ
 
 <details><summary>थिते</summary>
 
-ऋतमुक्त्वा प्रसर्पन्ति । ऋतं वदन्तो भक्षयन्ति १७
+17. Having spoken the (or a) “truth” they creep towards the Sadas; while speaking the (or a) “truth” they consume the remnants of the scoops.[^1]  
+
+[^1]: Cp. TMB XVIII.2.9.  
+
 </details>

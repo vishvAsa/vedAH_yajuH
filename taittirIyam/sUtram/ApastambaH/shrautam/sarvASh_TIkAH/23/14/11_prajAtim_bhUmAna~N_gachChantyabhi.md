@@ -5,5 +5,7 @@ title = "11 प्रजातिम् भूमानङ् गच्छन्
 
 <details><summary>थिते</summary>
 
-प्रजातिं भूमानं गच्छन्त्यभि स्वर्गं लोकं जयन्त्येषु लोकेषु उप्रतितिष्ठन्ति ११
+11. (The performers) get progeny, become many, go to the heaven, become established in these worlds (by means of the performance of this sacrificial session).[^1]  
+
+[^1]: Cf. TMB XXV.16.2.  
 </details>

@@ -5,5 +5,7 @@ title = "04 अथ पुरस्तात्प्रतीच्यान् 
 
 <details><summary>थिते</summary>
 
-अथ पुरस्तात्प्रतीच्यां तिष्ठन्त्यां जुहुयादुभा जिग्यथुरिति ४
+4. Then while she is standing in the east with her face to the west he should offer (a libation of ghee in the Āgnīdhra fire) with ubhā jigyathuḥ....[^1]   
+
+[^1]: Cf. TS VII.1.6.7. 
 </details>

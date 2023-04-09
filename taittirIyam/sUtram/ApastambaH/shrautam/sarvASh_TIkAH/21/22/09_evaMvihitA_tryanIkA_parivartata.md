@@ -5,5 +5,5 @@ title = "09 एवंविहिता त्र्यनीका परिव
 
 <details><summary>थिते</summary>
 
-एवंविहिता त्र्यनीका परिवर्तत इत ऊर्ध्वा प्राग्विषुवतः ९
+9. In this way the group of three days rotates, hence forth upto the Viṣuvat (-day).  
 </details>

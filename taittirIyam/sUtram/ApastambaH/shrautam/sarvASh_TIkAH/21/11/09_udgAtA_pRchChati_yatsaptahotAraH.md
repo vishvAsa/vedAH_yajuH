@@ -5,5 +5,5 @@ title = "09 उद्गाता पृच्छति यत्सप्तह
 
 <details><summary>थिते</summary>
 
-उद्गाता पृच्छति यत्सप्तहोतारः सत्त्रमासत केन ते गृहपतिनार्ध्नुवन्केन सुवरायन्केनेमांल्लोकान्समतन्वन्निति ९
+9. The Udgatr̥ asks, “When the Saptahotr̥-s performed the sacrificial session with whom as Gṣhapati did they prosper, with whom did they reach heaven and with whom did they continue these worlds?"  
 </details>

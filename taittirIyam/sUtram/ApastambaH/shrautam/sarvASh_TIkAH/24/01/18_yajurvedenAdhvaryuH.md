@@ -20,5 +20,5 @@ The Adhvaryu-priest with the Yajur-veda.
 
 <details><summary>थिते</summary>
 
-यजुर्वेदेनाध्वर्युः १८
+18. the Adhvaryu with the Yajurveda; 
 </details>

@@ -5,5 +5,5 @@ title = "10 आश्वमेधिकम् मध्यमम् पञ्च
 
 <details><summary>थिते</summary>
 
-आश्वमेधिकं मध्यमं पञ्चममहः । तस्मिन्नश्वं मेध्यमालभते १०
+10. The fifth (day) should be the (same as the) middle day of the Aśvamedha. On it (the Adhvaryu) should seize a horse.  
 </details>

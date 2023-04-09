@@ -5,5 +5,5 @@ title = "03 ओजो वीर्यमाप्नोति सर्वा"
 
 <details><summary>थिते</summary>
 
-ओजो वीर्यमाप्नोति । सर्वा व्यष्टीर्व्यश्नुते ३
+3. He obtains strength and power; obtains all the obtainments. 
 </details>

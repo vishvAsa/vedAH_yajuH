@@ -5,5 +5,7 @@ title = "11 अथैकेषाम् रोहिणीरैन्द्र�
 
 <details><summary>थिते</summary>
 
-अथैकेषाम् । रोहिणीरैन्द्रीः सौरीः श्वेताः शितिपृष्ठा बार्हस्पत्याः ११
+11. According to some (ritualists)[^1] there should be (three) red ones for Indra, (three) white ones for Surya and three white backed ones for Br̥haspati (to be offered as Anūdandhyās).  
+
+[^1]: Unknown. 
 </details>

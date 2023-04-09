@@ -5,5 +5,5 @@ title = "04 यदि तत्र न"
 
 <details><summary>थिते</summary>
 
-यदि तत्र न विन्देयुरन्तःसदसाद्व्युच्यम् ४
+4. If they do not find any one there then the blame may be made from whithin the Sadas. 
 </details>

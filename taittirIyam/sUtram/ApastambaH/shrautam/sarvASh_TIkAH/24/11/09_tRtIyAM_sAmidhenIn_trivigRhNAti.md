@@ -5,5 +5,7 @@ title = "09 तृतीयां सामिधेनीन् त्रिव
 
 <details><summary>थिते</summary>
 
-तृतीयां सामिधेनीं त्रिविगृह्णाति । सन्ततमन्वाहेति सामिधेनीनामविशेषात् ९
+9. He divides the third Sāmidhenī (-verse) into three parts. It is said, “He recites interlinkingly[^1] because there is no difference in connection with the Sāmidhenī-verses”.  
+
+[^1]: TS II.5.7.2. 
 </details>

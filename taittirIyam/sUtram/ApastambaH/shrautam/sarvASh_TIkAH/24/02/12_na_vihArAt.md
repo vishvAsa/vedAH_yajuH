@@ -20,5 +20,5 @@ Nor from the Vihāra.
 
 <details><summary>थिते</summary>
 
-न विहारात् १२
+12. (Similarly one should not turn one's back) to the Vihāra (the place of performance).  
 </details>

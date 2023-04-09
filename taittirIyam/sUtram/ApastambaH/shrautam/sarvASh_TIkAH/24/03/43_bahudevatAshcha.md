@@ -24,5 +24,5 @@ Sometimes these two Sūtras are combined into one. The commentator, however, see
 
 <details><summary>थिते</summary>
 
-बहुदेवताश्च ४३
+43. and also (the offerings) having many deities (are to be understood).  
 </details>

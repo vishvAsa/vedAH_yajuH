@@ -5,5 +5,7 @@ title = "16 वसतीवरीषु परिहृतासु गृहम
 
 <details><summary>थिते</summary>
 
-वसतीवरीषु परिहृतासु गृहमेधीयेन चरन्ति १६
+16. They perform the offering (of rice-pap for Maruts) Gr̥hamedhins[^1] after the Vasatīvari-water has been brought.  
+
+[^1]: See VIII.9.8. 
 </details>

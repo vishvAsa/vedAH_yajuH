@@ -5,5 +5,9 @@ title = "05 पृथिव्यै स्वाहान्तरिक्ष�
 
 <details><summary>थिते</summary>
 
-पृथिव्यै स्वाहान्तरिक्षाय स्वाहेत्येतं हुत्वा दत्वते स्वाहादन्तकाय स्वाहेति शरीरहोमान् ५
+5. (then) having performed offerings with this (section beginning) with pr̥thivyai svāhā[^5] he offers the offerings (connected with body called) Śarīrahomas with datvate svāhā...;[^6]  
+
+[^5]: TS VII.5.11.  
+
+[^6]: TS VII.5.12.  
 </details>

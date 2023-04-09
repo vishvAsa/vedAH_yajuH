@@ -5,5 +5,5 @@ title = "18 नित्या मरुत्वतीयमाहेन्द�
 
 <details><summary>थिते</summary>
 
-नित्या मरुत्वतीयमाहेन्द्राणाम् १८
+18. For the scoop for Indra with Maruts and for the scoop for Mahendra (he uses) the usual verse. 
 </details>

@@ -5,5 +5,5 @@ title = "12 अपि वा नवभिर्नवभिर्मिमीत
 
 <details><summary>थिते</summary>
 
-अपि वा नवभिर्नवभिर्मिमीते १२
+12. Or rather he measures every time with the help of nine formulae. 
 </details>

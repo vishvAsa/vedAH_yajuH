@@ -5,5 +5,5 @@ title = "08 शते चानोयुक्ते चेत्येके"
 
 <details><summary>थिते</summary>
 
-शते चानोयुक्ते चेत्येके ८
+8. According to some two hundred (cows) and two yoked carts. 
 </details>

@@ -5,5 +5,5 @@ title = "02 द्वावभिप्लवौ गोआयुषी द्व
 
 <details><summary>थिते</summary>
 
-द्वावभिप्लवौ । गोआयुषी । द्वादशाहस्य दशाहानि । पराणि चत्वारि शयान्यहानि । महाव्रतमतिरात्रश्च २
+2. Two Abhiplava (-six-day-periods), the Āyus and Go-days, the ten days from the twelve-day-period, then the next four reserved days, the Mahāvrata and the Atirātra.  
 </details>

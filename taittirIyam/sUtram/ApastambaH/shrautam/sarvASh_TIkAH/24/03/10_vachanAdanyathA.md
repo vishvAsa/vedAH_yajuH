@@ -24,5 +24,7 @@ The vidhi, contained in Sūtra XCII, is therefore called autsargika, general, an
 
 <details><summary>थिते</summary>
 
-वचनादन्यथा १०
+10. Only when there is a specific statement, he offers the libation otherwise.[^1]  
+
+[^1]: As e.g. at the Samistayajus: III.13.2. 
 </details>

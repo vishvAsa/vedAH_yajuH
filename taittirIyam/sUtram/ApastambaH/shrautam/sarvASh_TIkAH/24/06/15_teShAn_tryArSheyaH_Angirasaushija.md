@@ -5,5 +5,5 @@ title = "15 तेषान् त्र्यार्षेयः आङ्ग
 
 <details><summary>थिते</summary>
 
-तेषां त्र्यार्षेयः । आङ्गिरसौशिज काक्षीवतेति । कक्षीवद्वदुशिजवदङ्गिरोवदिति १५
+15. They have three R̥ṣis. (The Hotr̥ says:) O Aṅgirasa, Auśija, Kākṣīvata. (The Adhvaryu says:) In the manner of Kakṣīvat, Uśij, Aṅgiras. 
 </details>

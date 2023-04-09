@@ -5,5 +5,7 @@ title = "08 तन् दक्षिणेन हिरण्यकशिघो
 
 <details><summary>थिते</summary>
 
-तं दक्षिणेन हिरण्यकशिघोर्ब्रह्मा यजमानश्च ८
+8. To the south of him the Brahman and the sacrificer (sit on) golden cushions; 
+
+
 </details>

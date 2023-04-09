@@ -5,5 +5,5 @@ title = "08 तूष्णीन् तूपरगोमृगयोरसि�
 
 <details><summary>थिते</summary>
 
-तूष्णीं तूपरगोमृगयोरसिपथान्कल्पयन्ति ८
+8. They prepare the paths of knife (in the bodies) of the hornless he-goat and of the Gomr̥ga silently.  
 </details>

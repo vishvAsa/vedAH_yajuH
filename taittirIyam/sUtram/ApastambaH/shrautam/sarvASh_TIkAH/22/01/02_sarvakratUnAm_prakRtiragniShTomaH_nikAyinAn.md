@@ -5,5 +5,8 @@ title = "02 सर्वक्रतूनाम् प्रकृतिरग�
 
 <details><summary>थिते</summary>
 
-सर्वक्रतूनां प्रकृतिरग्निष्टोमः । निकायिनां तु प्रथमः सर्वत्र । यथादिष्टं वा २
+2. The basic paradigm for all the sacrifices is Agniṣṭoma; that for the (sacrifices which) form group (and are mentioned under one name)[^1] the first (one is the basic paradigm); or as has been mentioned.  
+
+[^1]: c.g. the four Sāhasras (XXII.2.4), the four Sādyaskras,(XXI.2.16), or four Dvirātras (XXII 14.16).   
+
 </details>

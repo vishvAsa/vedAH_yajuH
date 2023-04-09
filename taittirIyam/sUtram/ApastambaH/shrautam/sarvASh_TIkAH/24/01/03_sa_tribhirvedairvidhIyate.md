@@ -24,5 +24,5 @@ In order to know the whole of the sacrifice, one Veda is not sufficient, still l
 
 <details><summary>थिते</summary>
 
-स त्रिभिर्वेदैर्विधीयते ३
+3. It is performed with the help of three Vedas. 
 </details>

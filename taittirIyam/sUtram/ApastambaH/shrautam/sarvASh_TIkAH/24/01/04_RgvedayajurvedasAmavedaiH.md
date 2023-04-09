@@ -20,5 +20,5 @@ By the Ṛg-veda, the Yajur-veda, the Sāma-veda (is the sacrifice prescribed).
 
 <details><summary>थिते</summary>
 
-ऋग्वेदयजुर्वेदसामवेदैः ४
+4. (It is performed) with the help of the R̥gveda, Yajurveda, Sāmaveda.  
 </details>

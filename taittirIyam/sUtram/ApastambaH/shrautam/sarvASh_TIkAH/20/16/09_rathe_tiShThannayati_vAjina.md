@@ -5,5 +5,7 @@ title = "09 रथे तिष्ठन्नयति वाजिन"
 
 <details><summary>थिते</summary>
 
-रथे तिष्ठन्नयति वाजिन इति सारथिमभिमन्त्रयते ९
+9. He addresses the charoiteer, with rathe tiṣṭhan....[^1]  
+
+[^1]: TS IV .6.6.f. 
 </details>

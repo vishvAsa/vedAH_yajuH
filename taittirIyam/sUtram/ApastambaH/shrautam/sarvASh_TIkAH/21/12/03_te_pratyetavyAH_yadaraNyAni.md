@@ -5,5 +5,4 @@ title = "03 ते प्रत्येतव्याः यदरण्या
 
 <details><summary>थिते</summary>
 
-ते प्रत्येतव्याः । यदरण्यानि प्रजापतिः पुरश्च ससृजे गिरीन् । कर्तानि च न तद्भद्रं यद्भद्रं तन्म आसुव । यदूषा तमसा युक्ता दिने तेक्ष्णिष्ठमातपत् । अम्भश्चात्यति घर्मश्च तथा तप्ते प्रजापतेः । यत्स्तेनान्यद्वृकान्दंशान्मशकान्यदघायवः । तदु ते वृजिनं त्वेतद्व्रतमेतन्न मे मतम् । प्रजापतिं दशममहर्भजध्वं मतिं कवीनामृषभं जनानाम् । स सुष्टुतिं सुद्रविणं दधानः पूतो विपाप्मा विजहाति लोक इति ३
-</details>
+3. They should be understood as follows: That Prajāpati created forests, mountains and the holes, it is not auspicious. Send for me that which is auspicious, that the dawn accompanied by darkness shone in the sharpest manner during the day so that there is water and heat that is (also the bad activity) of Prajāpati in the heat; that you (produced) thieves, wolves, gadflies, hornets, evil creatures; that is indeed your sin. I do not like this rule of yours. Do you share Prajāpati-on the tenth day which is the opinion of the wise-one who is the bull among the people. He holding good praise and good wealth being pure and free from sin removes (the sin) in the world.  

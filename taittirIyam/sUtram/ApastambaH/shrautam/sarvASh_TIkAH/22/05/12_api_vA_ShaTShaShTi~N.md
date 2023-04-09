@@ -5,5 +5,5 @@ title = "12 अपि वा षट्षष्टिङ्"
 
 <details><summary>थिते</summary>
 
-अपि वा षट्षष्टिं गा वन्वीरन् १२
+12. Or they may obtain sixty-six cows by begging. 
 </details>

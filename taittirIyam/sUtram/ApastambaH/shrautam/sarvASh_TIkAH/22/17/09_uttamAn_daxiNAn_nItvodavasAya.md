@@ -5,5 +5,5 @@ title = "09 उत्तमान् दक्षिणान् नीत्व
 
 <details><summary>थिते</summary>
 
-उत्तमां दक्षिणां नीत्वोदवसाय वा शबली ९
+9. After he has led the last (cow), or after he has concluded,
 </details>

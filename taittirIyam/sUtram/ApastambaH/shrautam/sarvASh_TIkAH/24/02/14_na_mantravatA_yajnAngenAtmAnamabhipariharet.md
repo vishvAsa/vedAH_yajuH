@@ -20,5 +20,5 @@ After a sacrificial object has been hallowed by a Mantra, the priest should not 
 
 <details><summary>थिते</summary>
 
-न मन्त्रवता यज्ञाङ्गेनात्मानमभिपरिहरेत् १४
+14. One should not toss about a sacrificial utensil on which formula has been recited.  
 </details>

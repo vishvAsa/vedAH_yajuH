@@ -5,5 +5,5 @@ title = "13 अथो खल्वाहुर्यदेवैषां सा
 
 <details><summary>थिते</summary>
 
-अथो खल्वाहुर्यदेवैषां सातं स्यात्तद्दद्युस्तद्धि व्रात्यधनमिति १३
+13. Now indeed they say, “They should give whatever is obtained by them that is the possession of the Vrātyas.  
 </details>

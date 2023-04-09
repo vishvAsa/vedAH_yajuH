@@ -5,5 +5,7 @@ title = "03 द्वादशाहन् दीक्षिता भवन्
 
 <details><summary>थिते</summary>
 
-द्वादशाहं दीक्षिता भवन्ति ३
+3. They are consecrated for twelve days.[^1]  
+
+[^1]: Cp. TS VII.2.10.3. 
 </details>

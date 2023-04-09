@@ -24,5 +24,5 @@ Hotrās are mantras recited by the Hotṛ-priest. Yājamānās are mantras recit
 
 <details><summary>थिते</summary>
 
-होत्रायाजमानेषु समुच्चयः ५
+5. In connection with the verses to be recited by the Hotr̥ and the verses to be recited by the sacrificer there should be aggregation. 
 </details>

@@ -5,5 +5,5 @@ title = "22 बाणवन्तः परिधयः"
 
 <details><summary>थिते</summary>
 
-बाणवन्तः परिधयः २२
+22. Arrows should be the enclosing sticks (Paridhi).  
 </details>

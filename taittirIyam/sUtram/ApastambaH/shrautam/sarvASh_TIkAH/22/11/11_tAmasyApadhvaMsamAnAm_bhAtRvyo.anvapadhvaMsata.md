@@ -5,5 +5,5 @@ title = "11 तामस्यापध्वंसमानाम् भात�
 
 <details><summary>थिते</summary>
 
-तामस्यापध्वंसमानां भातृव्यो ऽन्वपध्वंसत इति विज्ञायते ११
+11. It is known (from a Brāhmaṇa-text that) after every verse out of those which are being dropped, the enemy drops down (as it were). 
 </details>

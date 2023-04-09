@@ -5,5 +5,5 @@ title = "14 अथ येषां स्युरपुरोहितप्र
 
 <details><summary>थिते</summary>
 
-अथ येषां स्युरपुरोहितप्रवरास्ते १४
+14. (The Kṣatriyas) of whom (there are the composers of sacred formulae) they are "without the series of ancestors of the chaplain." 
 </details>

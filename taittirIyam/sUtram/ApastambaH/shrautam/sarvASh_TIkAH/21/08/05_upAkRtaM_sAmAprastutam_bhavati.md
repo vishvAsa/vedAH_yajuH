@@ -5,5 +5,5 @@ title = "05 उपाकृतं सामाप्रस्तुतम् भ
 
 <details><summary>थिते</summary>
 
-उपाकृतं सामाप्रस्तुतं भवति ५
+5. When the Stotra is bespoken but the Prastāva is not yet sung, 
 </details>

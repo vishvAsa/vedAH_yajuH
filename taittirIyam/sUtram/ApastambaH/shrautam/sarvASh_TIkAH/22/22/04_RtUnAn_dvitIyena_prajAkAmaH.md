@@ -5,5 +5,7 @@ title = "04 ऋतूनान् द्वितीयेन प्रजाक
 
 <details><summary>थिते</summary>
 
-ऋतूनां द्वितीयेन प्रजाकामः ४
+4. A sacrificer who desires progeny (should perform) the second six-day-sacrifice for the seasons.[^1]   
+
+[^1]: For this sacrifice cf. TMB XXII.1.1ff. 
 </details>

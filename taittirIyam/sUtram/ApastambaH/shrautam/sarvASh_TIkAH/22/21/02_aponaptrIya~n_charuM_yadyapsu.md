@@ -5,5 +5,5 @@ title = "02 अपोनप्त्रीयञ् चरुं यद्यप
 
 <details><summary>थिते</summary>
 
-अपोनप्त्रीयं चरुं यद्यप्सु पतेत् २
+2. If a bull falls in water, he should offer rice-pap to Apāṁ napāt.   
 </details>

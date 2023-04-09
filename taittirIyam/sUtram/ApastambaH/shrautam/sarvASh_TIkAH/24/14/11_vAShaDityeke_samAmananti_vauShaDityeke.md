@@ -5,5 +5,5 @@ title = "11 वाषडित्येके समामनन्ति वौ
 
 <details><summary>थिते</summary>
 
-वाषडित्येके समामनन्ति । वौषडित्येके । वौषाडित्येके । वाक्षडित्येके । वौक्षडित्येके । वौक्षाडित्येके ११
+11. Some think that (one should pronounce) Vāṣaṭ; some Vauṣaṭ; some Vaukṣaṭ; some Vākṣat; some Vaukṣaṭ; some Vaukṣāṭ.  
 </details>

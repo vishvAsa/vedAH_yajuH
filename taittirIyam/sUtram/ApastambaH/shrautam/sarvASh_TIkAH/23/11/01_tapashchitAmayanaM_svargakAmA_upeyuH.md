@@ -5,5 +5,5 @@ title = "01 तपश्चितामयनं स्वर्गकामा 
 
 <details><summary>थिते</summary>
 
-तपश्चितामयनं स्वर्गकामा उपेयुः १
+1. (The performers) desirous of heaven should perform (the sacrificial-session called) Tāpaścitām ayanam.  
 </details>

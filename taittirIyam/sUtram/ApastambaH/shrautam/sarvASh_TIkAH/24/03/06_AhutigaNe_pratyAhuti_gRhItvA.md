@@ -20,5 +20,5 @@ Or, if there are several Āhutis, taking (the butter) for each Āhuti.
 
 <details><summary>थिते</summary>
 
-आहुतिगणे प्रत्याहुति गृहीत्वा ६
+6. In the case of a group of libations, (they are made) after (the offering-material) has been taken for each libation. 
 </details>

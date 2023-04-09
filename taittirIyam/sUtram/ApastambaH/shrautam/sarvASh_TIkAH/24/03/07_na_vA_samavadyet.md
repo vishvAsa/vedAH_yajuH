@@ -24,5 +24,5 @@ These three Sūtras belong together. They teach that one slice (avadāna) of but
 
 <details><summary>थिते</summary>
 
-न वा समवद्येत् ७
+7. Or one should not take (the offering-material separately for each libation, but rather offer some portion of the material taken once only). 
 </details>

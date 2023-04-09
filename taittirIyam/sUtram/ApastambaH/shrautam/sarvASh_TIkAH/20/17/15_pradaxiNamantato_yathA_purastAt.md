@@ -5,5 +5,5 @@ title = "15 प्रदक्षिणमन्ततो यथा पुरस
 
 <details><summary>थिते</summary>
 
-प्रदक्षिणमन्ततो यथा पुरस्तात् १५
+15. Finally (they move) in clockwise manner as in the beginning. 
 </details>

@@ -5,5 +5,5 @@ title = "13 स यान्मृगान्हन्ति तेषान्
 
 <details><summary>थिते</summary>
 
-स यान्मृगान्हन्ति तेषां तरसाः पुरोडाशा भवन्ति १३
+13. The flesh of the animals which he hills is to be used as sacrificial bread. 
 </details>

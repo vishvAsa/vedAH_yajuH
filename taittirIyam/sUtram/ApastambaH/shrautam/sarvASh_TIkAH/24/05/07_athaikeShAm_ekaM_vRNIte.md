@@ -5,5 +5,5 @@ title = "07 अथैकेषाम् एकं वृणीते"
 
 <details><summary>थिते</summary>
 
-अथैकेषाम् । एकं वृणीते । द्वौ वृणीते । त्रीन्वृणीते । न चतुरो वृणीते । न पञ्चातिवृणीत इति विज्ञायते ७
+7. Now according to some “He mentions one; he mentions two, he mentions three, he does not mention four; he does not mention more than five (ancestors)”—thus is known (from a Brāhmaṇa-text).  
 </details>

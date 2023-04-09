@@ -5,5 +5,7 @@ title = "19 यद्युक्ष्णो रुद्रोऽभिमन�
 
 <details><summary>थिते</summary>
 
-यद्युक्ष्णो रुद्रोऽभिमन्येत १९
+19. If during those five years Rudra becomes angry with the bulls,  
+
+[^1]: This sentence is completed in the next Sūtra.  
 </details>

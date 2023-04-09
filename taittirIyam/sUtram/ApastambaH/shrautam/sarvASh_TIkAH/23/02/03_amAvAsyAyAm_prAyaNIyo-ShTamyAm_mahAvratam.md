@@ -5,5 +5,7 @@ title = "03 अमावास्यायाम् प्रायणीयो�
 
 <details><summary>थिते</summary>
 
-अमावास्यायां प्रायणीयोऽष्टम्यां महाव्रतं पौर्णमास्यामुदयनीयः । एतद्वा विपरीतम् ३
+3. The introductory day should fall on a new-moon-day; the Mahāvrata on the eighth and the concluding day on the full-moon-day. Or in the reverse order.[^1]  
+
+[^1]: Cf. TMB XXIII.6.4 where the second altarnative is considered to be the normal one.  
 </details>

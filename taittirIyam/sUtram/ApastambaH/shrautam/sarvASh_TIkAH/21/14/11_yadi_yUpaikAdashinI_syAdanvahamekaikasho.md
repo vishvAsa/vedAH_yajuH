@@ -5,5 +5,7 @@ title = "11 यदि यूपैकादशिनी स्यादन्व
 
 <details><summary>थिते</summary>
 
-यदि यूपैकादशिनी स्यादन्वहमेकैकशो यूपान्सम्मिनुयात् । सर्वान्वौपवसथ्ये ११
+11. If there is a group of eleven sacrificial posts, he should everyday fix them one by one; or on the Aupavasathya-day[^1] all of them (on the same day).  
+
+[^1]: i.e. theday which precedes the Soma-feast.  
 </details>

@@ -24,5 +24,23 @@ The touching of water is for the sake of purification. Nirasana is left out in s
 
 <details><summary>थिते</summary>
 
-रौद्रराक्षसनैरृतपैतृकच्छेदनभेदननिरसनात्माभिमर्शनानि च कृत्वाप उपस्पृशेत् ९
+9. Everytime after having done an act (or recited a form ula) connected with Rudra[^1], Rakṣas[^2] (evil beings) Nirr̥ti[^3] or ancestors,[^4] or having done an act of cutting,[^5] breaking,[^6] throwing[^7] and touching oneself,[^8] (the Adhvaryu) should touch water.[^9]  
+
+[^1]: See III.4.8.  
+
+[^2]: See e.g. I.21.2.  
+
+[^3]: See XVIII.8.15ff.  
+
+[^4]: See II.21.7.  
+
+[^5]: See e.g. IX.13.8; IX.16.2.  
+
+[^6]: See e.g. II.21.7.  
+
+[^7]: See e.g. III.18.4.  
+
+[^8]: See e.g. I.4.9.  
+
+[^9]: Cp. TĀ V.8.9.  
 </details>

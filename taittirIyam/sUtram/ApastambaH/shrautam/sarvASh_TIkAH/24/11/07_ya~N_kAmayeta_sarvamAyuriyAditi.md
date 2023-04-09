@@ -5,5 +5,7 @@ title = "07 यङ् कामयेत सर्वमायुरियाद
 
 <details><summary>थिते</summary>
 
-यं कामयेत सर्वमायुरियादिति तस्य त्रिरनवानं प्रथमोत्तमे अनुब्रूयात् ७
+7. (The sacrificer) in the case of whom he desires that he (the sacrificer) should get full life, he should recite the first and last (Sāmidhenī-verses) without breathing.[^1]  
+
+[^1]: Cp. TS. II.5.7.4-5.  
 </details>

@@ -5,5 +5,7 @@ title = "09 अष्टाविंशतिरात्रम् पशुक�
 
 <details><summary>थिते</summary>
 
-अष्टाविंशतिरात्रं पशुकामा उपेयुः ९
+9. The performers desirous of cattle should perform the twenty-eight-day-sacrificial-session.  
+
+[^1]: Cf. TMB XXIII.24.1.  
 </details>

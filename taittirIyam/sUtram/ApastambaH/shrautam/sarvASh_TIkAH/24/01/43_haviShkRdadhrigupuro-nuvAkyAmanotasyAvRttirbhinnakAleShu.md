@@ -26,5 +26,9 @@ The Havishkṛt hymn is an invocation when the havis is made. The Adhrigu hymn i
 
 <details><summary>थिते</summary>
 
-हविष्कृदध्रिगुपुरोऽनुवाक्यामनोतस्यावृत्तिर्भिन्नकालेषु ४३
+43. The Haviṣkr̥t call,[^1] the Adhrigu-formula[^2], the invitatory-verse, the Manotā-verse are to be repeated when they are separated by time.  
+
+[^1]: See I.19.8. It is to be repeated at the time of preparation of the sacrificial breads, in connection with the Soma-pressing (XXI.4.8).  
+
+[^2]: It is repeated at the time of the animal-sacrifices in the Vājapeya sacrifice (XVIII.6.7. Cp. XVIII.2.7).  
 </details>

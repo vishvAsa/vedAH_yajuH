@@ -5,5 +5,7 @@ title = "01 इमा नु कम्"
 
 <details><summary>थिते</summary>
 
-इमा नु कं भुवना सीषधेमेन्द्रश्च विश्वे च देवाः । यज्ञं च नस्तन्वं च प्रजां चादित्यैरिन्द्रः सह सीषधातु । आदित्यैरिन्द्रः सगणो मरुद्भिरस्मभ्यं भेषजा करदिति पश्चार्धे १
+1. (The Adhvaryu takes the scoop) in the western (vessel) with imā nu kam....[^1]  
+
+[^1]: Vs xxv.46.  
 </details>

@@ -20,5 +20,5 @@ The Darśa-pūrṇamāsau, the new and full-moon sacrifices, are prescribed by t
 
 <details><summary>थिते</summary>
 
-ऋग्वेदयजुर्वेदाभ्यां दर्शपूर्णमासौ ५
+5. The New and Full-moon-sacrifices are performed with the help R̥gveda and Yajurveda.  
 </details>

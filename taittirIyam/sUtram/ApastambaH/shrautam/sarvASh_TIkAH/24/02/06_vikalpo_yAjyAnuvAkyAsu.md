@@ -20,5 +20,5 @@ In the case of the Yājyās and Anuvākyās this (the aggregation) is optional.
 
 <details><summary>थिते</summary>
 
-विकल्पो याज्यानुवाक्यासु ६
+6. In the offering-verses and in the sacrificial verses there should be an option.  
 </details>

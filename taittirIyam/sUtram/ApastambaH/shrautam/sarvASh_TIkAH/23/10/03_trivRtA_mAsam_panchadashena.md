@@ -5,5 +5,7 @@ title = "03 त्रिवृता मासम् पञ्चदशेन"
 
 <details><summary>थिते</summary>
 
-त्रिवृता मासं पञ्चदशेन मासं सप्तदशेन मासमेकविंशेन मासं त्रिणवेन मासं त्रयस्त्रिंशेन मासम् ३
+2. There are Atirātras on both the sides.[^1]  
+
+[^1]: Cf. XXIII.1.3. 
 </details>

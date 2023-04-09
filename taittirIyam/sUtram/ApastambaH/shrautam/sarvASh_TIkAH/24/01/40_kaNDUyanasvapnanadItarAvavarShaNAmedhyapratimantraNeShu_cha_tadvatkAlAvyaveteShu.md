@@ -24,5 +24,17 @@ If several members of the body are to be rubbed, the verses required for the pur
 
 <details><summary>थिते</summary>
 
-कण्डूयनस्वप्ननदीतराववर्षणामेध्यप्रतिमन्त्रणेषु च तद्वत्कालाव्यवेतेषु ४०
+40. In (the cases of) scraching,[^1] sleeping,[^2] crossing a river,[^3] being showered upon,[^4] and addressing the unholy things[^5] and in those cases without any time-gap[^6] (between the first and the next occasion of the recitation of the formula) (the formula is to be uttered only once).  
+
+[^1]: See X. 10.2.  
+
+[^2]: See X.18.1.  
+
+[^3]: See X.19.9.  
+
+[^4]: See X. 15.8.  
+
+[^5]: sec X. 15.7.  
+
+[^6]: Thus if one scratches different parts of the body one immediately after another, one has to utter the formula only for once.  
 </details>

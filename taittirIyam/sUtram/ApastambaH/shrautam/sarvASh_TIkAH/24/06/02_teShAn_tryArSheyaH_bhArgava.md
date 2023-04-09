@@ -5,5 +5,6 @@ title = "02 तेषान् त्र्यार्षेयः भार्
 
 <details><summary>थिते</summary>
 
-तेषां त्र्यार्षेयः । भार्गव वैतहव्य सावेदसेति । सवेदोवद्वीतहव्यवद्भगुवदिति २
+2. These have three Rsis. (The Hotr says:) O Bhārgava, Vaitahavya, Sāvedasa. (The Adhvaryu says:) in the manner of Savedas, Vītahavya, B
+hr̥gu. 
 </details>

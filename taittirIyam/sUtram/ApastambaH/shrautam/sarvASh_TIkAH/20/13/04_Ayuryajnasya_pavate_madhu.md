@@ -5,5 +5,11 @@ title = "04 आयुर्यज्ञस्य पवते मधु"
 
 <details><summary>थिते</summary>
 
-आयुर्यज्ञस्य पवते मधु प्रियं पिता देवानां जनिता विभावसुः । दधाति रत्नं स्वधयोरपीच्यं मदिन्तमो मत्सर इन्द्रियो रस इत्यश्वस्य ग्रीवासु सौवर्णनिष्कं प्रतिमुच्याग्निस्ते वाजिन्युङ्ङनु त्वारभ इति वालधावश्वमन्वारभ्य बहिष्पवमानं सर्पन्त्यग्निर्मूर्धेति ४
+4. After (the Adhvaryu) has put a golden plate around the neck of the horse with āyur yajñasya pavate...[^1] and has held the horse at the tail[^2] with agniste vājiñ....[^3]; they creep out of the Sadas for the sake of Bahiṣpavamāna-Stotra.  
+
+[^1]: Cp. R̥V IX.86.10 where instead of the word āyuḤ we find the word jyotiḥ.  
+
+[^2]: Cp. TB III.8.22.2.  
+
+[^3]: TS VII.5.19.b.  
 </details>

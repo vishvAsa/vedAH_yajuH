@@ -5,5 +5,5 @@ title = "09 एकैकस्मिन्नतिमथिते दशदश 
 
 <details><summary>थिते</summary>
 
-एकैकस्मिन्नतिमथिते दशदश मौञ्जांस्तन्तून्प्रवयति ९
+9. In each hole he (the Adhvaryu) binds ten threads of Muñja(grass). 
 </details>

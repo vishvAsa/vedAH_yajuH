@@ -20,5 +20,5 @@ The offering is made in the Āhavanīya fire.
 
 <details><summary>थिते</summary>
 
-आहवनीये प्रदानम् २७
+27. The act of offering (should be done) in the Āhavanīya (fire) (except when stated otherwise). 
 </details>

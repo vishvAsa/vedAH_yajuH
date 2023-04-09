@@ -5,5 +5,5 @@ title = "04 परप्रधानानाम् परतन्त्रव�
 
 <details><summary>थिते</summary>
 
-परप्रधानानां परतन्त्रव्यवेतानां च प्रतिषेधः स्यात्तल्लिङ्गत्वाच्छब्दस्य ४
+4. There should be the prohibition of those (deities) when they are subordinate to other (deities) and (or) they are separated from the procedure of the other (deities) because the word (viz. Vājin etc.) is indicatory of it.  
 </details>

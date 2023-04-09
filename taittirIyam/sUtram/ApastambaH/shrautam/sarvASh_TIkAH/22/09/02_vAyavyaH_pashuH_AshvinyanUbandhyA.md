@@ -5,5 +5,5 @@ title = "02 वायव्यः पशुः आश्विन्यनूब
 
 <details><summary>थिते</summary>
 
-वायव्यः पशुः । आश्विन्यनूबन्ध्या २
+2. The sacrificial victim should be offered to Vāyu; the Anūbandhyā (cow) to Asvins. 
 </details>

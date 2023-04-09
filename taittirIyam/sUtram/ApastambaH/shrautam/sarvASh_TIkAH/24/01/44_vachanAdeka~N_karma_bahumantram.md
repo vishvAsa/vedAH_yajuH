@@ -24,5 +24,7 @@ Thus we read, 'He takes the Abhri, the hoe, with four Mantras.'
 
 <details><summary>थिते</summary>
 
-वचनादेकं कर्म बहुमन्त्रम् ४४
+44. When it has been expressedly mentioned, a ritual act should be accompanied by many formulae.[^1]  
+
+[^1]: See for example XVI.1.7. This Sūtra is in contrast with the 38th Sūtra above.  
 </details>

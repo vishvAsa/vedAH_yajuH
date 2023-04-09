@@ -5,5 +5,7 @@ title = "19 उत्तरस्यां वेदिश्रोण्या�
 
 <details><summary>थिते</summary>
 
-उत्तरस्यां वेदिश्रोण्यां पुंश्चल्यै मागधाय च परिश्रयन्ति १९
+19. On the north-western corner of the altar they make an enclosure for the harlot and a man born in Magadha-Country.  
+
+[^1]: See XXI.19.6.  
 </details>

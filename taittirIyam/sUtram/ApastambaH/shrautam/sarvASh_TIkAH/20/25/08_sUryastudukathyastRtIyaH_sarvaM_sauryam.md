@@ -5,5 +5,6 @@ title = "08 सूर्यस्तुदुकथ्यस्तृतीय�
 
 <details><summary>थिते</summary>
 
-सूर्यस्तुदुकथ्यस्तृतीयः । सर्वं सौर्यम् ८
+8. The third (day) should be Suryastut-Ukthya; everything should be connected with Sūrya. 
+
 </details>

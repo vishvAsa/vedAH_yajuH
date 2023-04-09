@@ -5,5 +5,5 @@ title = "11 दार्षद्वते संवत्सरम् ब्र
 
 <details><summary>थिते</summary>
 
-दार्षद्वते संवत्सरं ब्राह्मणस्य गा रक्षेदनष्टगुः ११
+11. In the (sacrificial-seesion called) Dārṣadvata (every one of the performers) should protect the cows of a Brāhmaṇa without losing his (own) cows for one year.  
 </details>

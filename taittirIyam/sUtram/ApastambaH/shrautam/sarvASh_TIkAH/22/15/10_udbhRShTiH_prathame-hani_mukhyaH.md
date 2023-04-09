@@ -5,5 +5,6 @@ title = "10 उद्भृष्टिः प्रथमेऽहनि मु
 
 <details><summary>थिते</summary>
 
-उद्भृष्टिः प्रथमेऽहनि मुख्यः १०
+10. A bull with high hump (udbhr̥ṣṭi) should be the chief (first of the three-hundred-thirty-three gifts) on the first day.  
+
 </details>

@@ -5,5 +5,5 @@ title = "07 त्र्यार्षेयमु हैके आङ्गि
 
 <details><summary>थिते</summary>
 
-त्र्यार्षेयमु हैके । आङ्गिरस वान्दन मा वचसेति । मतवचोवद्वन्दनवदङ्गिरोवदिति ७
+7. According to some there are three R̥ṣis. (The Hotr̥ says:) O Aṅgirasa, Vāndana, Mātavacasa. (The Adhvaryu says:) In the manner of Matavacas, Vandana, Aṅgiras.  
 </details>

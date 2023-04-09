@@ -20,5 +20,7 @@ One then marks the two (the materials for the Karus and the Puroḍāśas) accor
 
 <details><summary>थिते</summary>
 
-चरुपुरोडाशगणे चरुपुरोडाशीयान्प्रागधिवपनाद्विभजति २०
+20. When there is a group of rice-paps and sacrificial breads he separates the rice grains for the paps and for the breads before throwing them (on the black antelope-skin).[^1]   
+
+[^1]: See I.19.37. 
 </details>

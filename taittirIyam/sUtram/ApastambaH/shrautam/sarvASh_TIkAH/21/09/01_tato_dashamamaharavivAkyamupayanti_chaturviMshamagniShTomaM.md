@@ -5,5 +5,7 @@ title = "01 ततो दशममहरविवाक्यमुपयन्�
 
 <details><summary>थिते</summary>
 
-ततो दशममहरविवाक्यमुपयन्ति । चतुर्विंशमग्निष्टोमं रथन्तरसामनम् १
+1. Then they perform the tenth day, “unblameworthy”[^1]. (It should be) an Agniṣṭoma with Rathantara-sāman as the first Pr̥ṣṭha-stotra.  
+
+[^1]: avivākya. This is explained in the next Sūtra. 
 </details>

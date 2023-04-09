@@ -5,5 +5,7 @@ title = "01 पुरस्तात्सामिधेनीनां हो�
 
 <details><summary>थिते</summary>
 
-पुरस्तात्सामिधेनीनां होता हृदयदेश ऊर्ध्वं प्रादेशं धारयमाणो जपति मयि गृह्णाम्यग्रे अग्निं यो नो अग्निः पितर इति १
+1. Before (the ritual of) the Sāmidhenī (enkindling-verses,[^1] the Hotr̥, while holding his hand stretched up near the place of the heart, should mutter muyi gr̥hṇāmi.... (TS V.7.9a,b).  
+
+[^1]: i.e. after he has been ordered by the Adhvaryu to recite the Sāmidhenī-verses (see II.12.1). 
 </details>

@@ -5,5 +5,7 @@ title = "16 प्राच्येकादशिनी सम्मीयत�
 
 <details><summary>थिते</summary>
 
-प्राच्येकादशिनी सम्मीयते १६
+16. In this sacrifice eleven sacrificial victims are placed from west to east[^1].  
+
+[^1]: This is in constrast to the usual practice in which they are placed from north to south.  
 </details>

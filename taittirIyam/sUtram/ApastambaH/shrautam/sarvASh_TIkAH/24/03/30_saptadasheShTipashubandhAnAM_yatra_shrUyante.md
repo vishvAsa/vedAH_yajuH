@@ -20,5 +20,8 @@ When it is said that wishful iṣṭis are performed in a murmur, this means tha
 
 <details><summary>थिते</summary>
 
-सप्तदशेष्टिपशुबन्धानां यत्र श्रूयन्ते ३०
+30. Seventeen (Sāmidhenī-verses are prescribed) for the Iṣṭi type of offerings, and Paśubandha (animal-sacrifices) where they are heard (mentioned).[^1]  
+
+[^1]: Cp. XIX.18.2; KB I.1.  
+
 </details>
