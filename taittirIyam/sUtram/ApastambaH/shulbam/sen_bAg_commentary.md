@@ -1,11 +1,11 @@
 +++
-title = "ĀPASTAMBA-SULBASUTRA"
+title = "Sen Bag - commentary"
 
 +++
 CHAPTER 1 
 CONSTRUCTION OF SQUARE, THE THEOREM OF SQUARE ON THE 
 DIAGONAL AND THE VALUE OF √2 
-Apastamba summarized the knowledge of geometry and related problems in the first three chapters. The first chapter deals with various methods of construc- tion of square, the theorem of square on the diagonal of a square and rectangle, and the calculation of the value of √2. 
+Apastamba summarized the knowledge of geometry and related problems in the first three chapters. The first chapter deals with various methods of construction of square, the theorem of square on the diagonal of a square and rectangle, and the calculation of the value of √2. 
 1.2-1.3. Construction of a square. Two methods of construction of a square are discussed here. These rules are essentially the same as those of Baudhāyana (Bśl. 1.8 and 1.5). 
 1.4-1.5. Theorem of square on the diagonal. The rule says, AB2 + BC2 
 AC2, where AB and BC are the sides of a rectangle ABCD. We have discussed this sūtra in detail under B§l. 1.12 and 1.13. Only the last line of Ã§l. 1.4, which contains the term tābhirjñeyabhi requires to be explained. According to Bürka, "the construction (found in Ãśl. 1.2 and 1.3) has been taught by means of (the application of) these (akṣṇayārajju, pārśvamānī and tiryaṁmāni of a rectangle), of course, by means of such as are recognizable (i.e. which can be expressed in recognizable numbers).” jñā means 'to know'. Various terms like jñātumsakti, iti vijñāyate, tābhirjñeyābhi have been used by the sulbakāras. According to Datta ", these can be interpreted as "known from the ancient scriptures". 
