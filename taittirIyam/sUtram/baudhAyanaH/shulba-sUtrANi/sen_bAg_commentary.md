@@ -1,5 +1,5 @@
 +++
-title = "BAUDHĀYANA"
+title = "Sen, Bag - commentary"
 
 +++
 CHAPTER 1

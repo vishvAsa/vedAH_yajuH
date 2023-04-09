@@ -1,5 +1,5 @@
 +++
-title = "KĀTYĀYANA-ŚULBASŪTRA"
+title = "Sen, Bag - Commentary"
 
 +++
 CHAPTER 1 
