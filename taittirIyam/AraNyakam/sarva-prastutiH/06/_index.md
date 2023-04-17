@@ -166,36 +166,17 @@ unicode_script = "devanagari"
 
 ## 1.9
 
-ऋ॒तञ् च॑ स॒त्यञ् चा॒भी᳚द्धा॒त् तप॒सो ऽद्ध्य॑जायत । (8)  
-ततो॒ रात्रि॑र् अजायत॒।  
-तत॑स् समु॒द्रो अ॑र्ण॒वः ।  
-स॒मु॒द्राद् अ॑र्ण॒वाद् अधि॑ सव्ँवथ्स॒रो अ॑जायत ।  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarva-prastutiH/10/190_RtaM_cha_satyaM_cha/"  newLevelForH1="2" includeTitle="false"> </div>  
 
-अ॒हो॒रा॒त्राणि॑ वि॒दध॒द् विश्व॑स्य मिष॒तो व॒शी ।  
-सू॒र्या॒च॒न्द्र॒मसौ॑ धा॒ता य॑थापू॒र्वम् अ॑कल्पयत् । 
 
-दिव॑ञ् च पृथि॒वीञ् चा॒न्तरि॑क्ष॒म् अथो॒ सुवः॑ ।  
-यत् पृ॑थि॒व्याꣳ रज॑स्व॒ मान्तरि॑क्षे वि॒रोद॑सी । 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06/01_09_yat_pRthivyAm"  newLevelForH1="5" includeTitle="false"> </div>  
 
-इ॒माꣳस् तद् आ॒पो व॑रुणः पु॒नात्व् अ॑घमर्ष॒णः ।  
-ए॒ष भू॒तस्य॑ भ॒व्ये भुव॑नस्य गो॒प्ता ।  
-ए॒ष पु॒ण्यकृ॑ताल्ँ लो॒का॒न्, ए॒ष मृ॒त्योर् हि॑र॒ण्मय᳚म् ।  
-द्यावा॑-पृथि॒व्योर् हि॑र॒ण्मय॒ꣳ॒ सꣳश्रि॑त॒ꣳ॒ सुवः॑ । (9)
-स न॒स् सुव॒स् सꣳशि॑शाधि ।  
 
 
 ## 1.10
 
-आर्द्र॒ञ् ज्वल॑ति॒ ज्योति॑र् अ॒हम् अ॑स्मि ।  
-ज्योति॒र् ज्वल॑ति॒ ब्रह्मा॒हम् अ॑स्मि ।  
-यो॑ऽहम् अ॑स्मि॒  ब्रह्मा॒हम॑स्मि ।  
-अ॒हम् ए॒वाहं माञ् जु॑होमि॒ स्वाहा᳚ । 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06/01_10_ArdraM_jvalati/"  newLevelForH1="5" includeTitle="false"> </div>  
 
-अ॒का॒र्य॒-का॒र्य्॑-अवकी॒र्णी स्ते॒नो भ्रू॑ण॒हा गु॑रुत॒ल्पगः ।  
-वरु॑णो॒ऽपाम् अ॑घमर्ष॒णस् तस्मा᳚त् पा॒पात् प्रमु॑च्यते । 
-
-र॒जो भूमि॑स् त्व॒माꣳ रोद॑यस्व॒ प्रव॑दन्ति॒ धीराः᳚ ।  
-पु॒नन्तु॒ ऋष॑यः। पु॒नन्तु॒ वस॑वः। पु॒नातु॒ वरु॑णः। पु॒नात्व् अ॑घमर्ष॒णः । 
 
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/097/40_akrAntsamudraH_prathame.md">
 <details open><summary><h3>४० अक्रान्त्समुद्रः प्रथमे ...{Loading}...</h3></summary>
