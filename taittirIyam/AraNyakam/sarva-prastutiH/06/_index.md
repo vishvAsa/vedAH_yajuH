@@ -152,34 +152,14 @@ unicode_script = "devanagari"
 ई॒श्वरीꣳ॑ सर्व॑भूता॒ना॒न्  
 त्वामि॒होप॑ह्वये॒ श्रियम् ।  
 
-हिर॑ण्यशृङ्ग॒व्ँ वरु॑णं॒ प्रप॑द्ये  
-ती॒र्थं मे देहि॒ याचि॑तः ।  
-य॒न्मया॑ भु॒क्तम॒साधू॑नां  
-पा॒पेभ्य॑श्च प्र॒तिग्र॑हः ।  
-यन्मे॒ मन॑सा वा॒चा॒  
-क॒र्म॒णा वा दु॑ष्कृत॒ङ्कृतम् ।  
-तन्न॒ इन्द्रो॒ वरु॑णो॒ बृह॒स्पति॑स्  
-सवि॒ता च॑ पुनन्तु॒ पुनः॑ पुनः । (7)
-
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06/01_07_hiraNya-shRngam/"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 ## 1.8
 
-सु॒मि॒त्रा न॒ आप॒ ओष॑धयस् सन्तु, दुर्मि॒त्रास् तस्मै॑ भूयासु॒र् यो᳚ऽस्मान् द्वेष्टि॒ यञ् च॑ व॒यन् द्वि॒ष्मः । 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06/01_08_sumitrA/"  newLevelForH1="5" includeTitle="false"> </div>  
 
-नमो॒ऽग्नये᳚ऽफ्सु॒मते॒, नम॒  इन्द्रा॑य॒, नमो॒ वरु॑णाय॒, नमो वारुण्यै॑, नमो॒ऽद्भ्यः ।  
-यद॒पाङ् क्रू॒रय्ँ यद् अ॑मे॒द्ध्यय्ँ यद् अ॑शा॒न्तन् तद् अप॑गच्छतात् ।  
-
-अ॒त्या॒श॒नाद् अ॑तीपा॒ना॒द् य॒च् च उ॒ग्रात् प्र॑ति॒ग्रहा᳚त् ।  
-तन्मे॒ वरु॑णो रा॒जा॒ पा॒णिना᳚ ह्यव॒मर्श॑तु । 
-
-सो॑ऽहम् अ॑पा॒पो वि॒रजो॒ निर्मु॒क्तो मु॑क्त-कि॒ल्बिषः ।  
-नाक॑स्य पृ॒ष्ठम् आरु॑ह्य॒ गच्छे॒द् ब्रह्म॑-सलो॒कताम् । 
-
-इ॒मं मे॑ गङ्गे यमुने सरस्वति॒  
-शुतु॑द्रि॒ स्तोमꣳ॑ सचता॒ परु॒ष्णिया ।  
-अ॒सि॒क्नि॒या म॑रुद्-वृधे वि॒तस्त॒या  
-ऽऽर्जी॑कीये श्रुणु॒ह्या सु॒षोम॑या । 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06/01_08_imaM_me_gange/"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 
@@ -245,7 +225,7 @@ unicode_script = "devanagari"
 ## 1.11
 
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="11_jAtavedase_sunavAma_taittirIyam/"></div>  
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="01_11_jAtavedase_sunavAma_taittirIyam/"></div>  
 
 
 ## 2.1
@@ -327,7 +307,7 @@ unicode_script = "devanagari"
 
 
 ## 11.1
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/devaH/AryaH/hindukaH/brahma/Rk/sahasra-shIrSham/">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06/11_sahasrashIrSham/">
 <details open><summary><h2>सहस्रशीर्षं देवं ...{Loading}...</h2></summary>
 
 आन्ध्रपाठे- (१०.१३.१ १०.१३.२)

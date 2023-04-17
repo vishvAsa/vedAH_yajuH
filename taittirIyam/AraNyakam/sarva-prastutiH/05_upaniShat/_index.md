@@ -66,7 +66,7 @@ unicode_script = "devanagari"
 </details>
 </div>  
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/05_upaniShat/08_avahantI.md/"></div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/05_upaniShat/08_avahantI/"></div>
 
 आ मा॑ यन्तु ब्रह्मचा॒रिण॒स् स्वाहा᳚ ।  
 यशो॒ जने॑ ऽसानि॒+++(??)+++ स्वाहा᳚ ।  
