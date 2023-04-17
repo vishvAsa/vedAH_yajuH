@@ -50,7 +50,7 @@ unicode_script = "devanagari"
 य एवम् एता महासꣳहिता व्याख्या॑ता वे॒द, सन्धीयते प्रज॑या प॒शुभिः,, ब्रह्मवर्चसेनान्नाद्येन सुवर्ग्येण॑ लोके॒न ॥ (6)
 
 ## प्रकीर्णम्
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/devaH/AryaH/hindukaH/indraH/Rk/yash_ChandasAm/">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/05_upaniShat/07_yash_ChandasAm.md/">
 <details open><summary><h2>यश्छन्दसाम् ...{Loading}...</h2></summary>
 
 यश् छन्द॑साम् ऋष॒भो वि॒श्वरू॑पः।  
@@ -66,13 +66,7 @@ unicode_script = "devanagari"
 </details>
 </div>  
 
-आ॒वह॑न्ती वितन्वा॒ना,,  
-कु॒र्वा॒णा चीर॑म् आ॒त्मनः॑ ।  
-वासाꣳ॑सि॒ मम॒ गाव॑श् च,,  
-अ॒न्न॒पा॒ने च॑ सर्व॒दा ।  
-ततो॑ मे॒ श्रिय॒म् आव॑ह,,  
-लो॒म॒शां प॒शुभि॑स् स॒ह  
-स्वाहा᳚ ।
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/05_upaniShat/08_avahantI.md/"></div>
 
 आ मा॑ यन्तु ब्रह्मचा॒रिण॒स् स्वाहा᳚ ।  
 यशो॒ जने॑ ऽसानि॒+++(??)+++ स्वाहा᳚ ।  
