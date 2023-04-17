@@ -19,6 +19,10 @@ unicode_script = "devanagari"
 </div>
 </details>
 </div>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/1_02/01_hiraNyavarNAH_shuchayaH.md"></div>
+
+
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/02_hiraNyavarNAshshuchayaH_pAvakA.md">
 <details open><summary><h2>०२ हिरण्यवर्णाश्शुचयः पावका ...{Loading}...</h2></summary>
 
@@ -29,6 +33,11 @@ unicode_script = "devanagari"
 
 </details>
 </div>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/1_02/02_hiraNyavarNAshshuchayaH_pAvakA.md"></div>
+
+
+
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/03_yAsAM_rAjA.md">
 <details open><summary><h2>०३ यासां राजा ...{Loading}...</h2></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/033_ApaH/02_yAsAM_rAjA.md">
@@ -43,6 +52,10 @@ unicode_script = "devanagari"
 </div>
 </details>
 </div>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/1_02/03_yAsAM_rAjA.md"></div>
+
+
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/04_yAsAn_devA.md">
 <details open><summary><h2>०४ यासान् देवा ...{Loading}...</h2></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/033_ApaH/03_yAsAM_devA.md">
@@ -57,7 +70,21 @@ unicode_script = "devanagari"
 </div>
 </details>
 </div>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/1_02/04_yAsAn_devA.md"> </div>
+
+
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/05_shivena_tvA.md">
+<details open><summary><h2>०५ शिवेन त्वा ...{Loading}...</h2></summary>
+
+शि॒वेन॑ त्वा॒ चक्षु॑षा पश्यन्त्व् आपश्  
+शि॒वया॑ त॒न्वा+उ॒प॒स्पृ॒श॒न्तु॒ त्वच॑न् ते ।  
+घृ॒त॒श्-चुत॒श्+++(=दुहन्त्यः)+++ शुच॑यो॒ याः पा॑व॒कास्  
+तास् त॒ आप॒श् श२ꣳ स्यो॒ना भ॑वन्तु ।+++(५)+++
+
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/1_02/05_shivena_tvA.md">
 <details open><summary><h2>०५ शिवेन त्वा ...{Loading}...</h2></summary>
 
 शि॒वेन॑ त्वा॒ चक्षु॑षा पश्यन्त्व् आपश्  

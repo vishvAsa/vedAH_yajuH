@@ -43,7 +43,3 @@ The Ṛgveda is interesting with its historical Sūktas & deeply contemplative S
 
 Such is the Yajurvedī Prabhāva in the Dharma. //End
 Plus, we have Śatarudriyam, which has no equal & will have no equal. 😀
-
-• • •
-Missing some Tweet in this thread? You can try to force a refresh
-　
