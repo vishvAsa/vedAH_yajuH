@@ -159,7 +159,8 @@ script: grantha
 
 ममोपात्त + प्रीत्यर्थं ब्रह्मयज्ञेन यक्ष्ये। (इति सङ्कल्प्य)
 
-विद्यु॑दसि - विद्य॑मे - पा॒प्मानं॑॑ - ऋ॒तात् - स॒त्यमुपै॑मि॥
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/mantrAH/vidyudasi.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
 
 (अप उपस्पृश्य) (१) हस्तौ पादौ च आमणिबन्धनात् प्रक्षाल्य।
 त्रिरपः पीत्वा। द्विः परिमृज्य। सकृदुपस्पृश्य।
@@ -215,7 +216,8 @@ script: grantha
 
 ॐ तत्सत्। (इत्युक्त्वा)
 
-वृष्टि॑रसि - वृश्च॑मे - पा॒प्मानं॑॑ - ऋ॒तात् - स॒त्यमुपा॑गाम्॥
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/mantrAH/vRShTirasi.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
 
 (इति अप उपस्पृश्य आचामेत्)॥
 
