@@ -3,7 +3,7 @@ title: पाकयज्ञः
 unicode_script: devanagari
 
 ---
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhnirUpaNam/02_09_laukikAnAm_pAkayajnashabdaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhanirUpaNam/02_09_laukikAnAm_pAkayajnashabdaH.md">
 <details open><summary><h2>०२ ०९ लौकिकानाम् पाकयज्ञशब्दः ...{Loading}...</h2></summary>
 
 लौकिकानां पाकयज्ञशब्दः ॥  
@@ -15,7 +15,7 @@ unicode_script: devanagari
 
 ## तत्र ब्राह्मणावेक्षो विधिः
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhnirUpaNam/02_10_tatra_brAhmaNAvexo.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhanirUpaNam/02_10_tatra_brAhmaNAvexo.md">
 <details open><summary><h2>०२ १० तत्र ब्राह्मणावेक्षो ...{Loading}...</h2></summary>
 
 तत्र ब्राह्मणावेक्षो विधिः। 
@@ -24,7 +24,7 @@ unicode_script: devanagari
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhnirUpaNam/02_11_dvirjuhoti_dvirnimArShTi.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhanirUpaNam/02_11_dvirjuhoti_dvirnimArShTi.md">
 <details open><summary><h2>०२ ११ द्विर्जुहोति द्विर्निमार्ष्टि ...{Loading}...</h2></summary>
 
 
