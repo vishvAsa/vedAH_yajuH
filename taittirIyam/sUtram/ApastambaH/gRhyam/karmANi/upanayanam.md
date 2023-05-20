@@ -219,7 +219,7 @@ unicode_script: devanagari
 
 ## व्यवस्थापनम्
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhnirUpaNam/01_16_uttareNAgnin.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhanirUpaNam/01_16_uttareNAgnin.md">
 <details open><summary><h2>०१ १६ उत्तरेणाग्निन् ...{Loading}...</h2></summary>
 
 
