@@ -1,5 +1,5 @@
 +++
-title = "15 cāturhotram"
+title = "+१५ चातुर्होत्रम्"
 
 +++
 

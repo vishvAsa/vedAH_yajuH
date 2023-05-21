@@ -1,5 +1,5 @@
 +++
-title = "16 soma-prāyaścittayaḥ"
+title = "+१६ सोम-प्रायश्चित्तयः"
 
 +++
 

@@ -1,5 +1,5 @@
 +++
-title = "17 pravargyam"
+title = "+१७ प्रवर्ग्यम्"
 
 +++
 

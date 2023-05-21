@@ -1,5 +1,5 @@
 +++
-title = "07 Paśubandhaḥ"
+title = "+०७ पशुबन्धः"
 
 +++
 

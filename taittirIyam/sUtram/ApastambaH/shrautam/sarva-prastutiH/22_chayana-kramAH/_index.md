@@ -1,5 +1,5 @@
 +++
-title = "22 cayana-kramāḥ"
+title = "+२२ चयन-क्रमाः"
 
 +++
 

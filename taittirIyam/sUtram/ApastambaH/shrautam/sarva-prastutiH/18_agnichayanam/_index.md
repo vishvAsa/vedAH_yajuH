@@ -1,5 +1,5 @@
 +++
-title = "18 AGNICAYANAM"
+title = "+१८ अग्निचयनम्"
 
 +++
 

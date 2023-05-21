@@ -1,5 +1,5 @@
 +++
-title = "04 PUNARĀDHĀNAM"
+title = "+०४ पुनराधानम्"
 
 +++
 

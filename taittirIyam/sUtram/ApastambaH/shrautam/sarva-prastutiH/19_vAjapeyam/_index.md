@@ -1,5 +1,5 @@
 +++
-title = "19 VĀJAPEYAM"
+title = "+१९ वाजपेयम्"
 
 +++
 
