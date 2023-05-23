@@ -15,6 +15,6 @@ uttering speech on the occasion of the daily recitation of the Veda only. [^10]
 
 ## सूत्रम्
 स्वाध्याय एवोत्सृजमानो वाचम् २१
-### टिप्पनी
+## टिप्पनी
 +++(पूर्वसूत्रे द्रष्टव्यम्।)+++
 </details>
