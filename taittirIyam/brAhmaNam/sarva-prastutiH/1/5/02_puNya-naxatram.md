@@ -165,7 +165,7 @@ unicode_script: devanagari
 
 <details><summary>विश्वास-टिप्पनी</summary>
 
-{{< figure src="/devaH/AryaH/hindukaH/lokAntaram/images/naxatram/bce_2020-01-13_naxatra-prajApatiH.png" title="नक्षत्रियः प्रजापतिः" >}}
+{{< figure src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/bce_2020-01-13_naxatra-prajApatiH.png" title="नक्षत्रियः प्रजापतिः" >}}
 
 नाम - सूर्यपथि निष्ट्याम् आनेतुम् (projection) यो जानाति, (तथा प्रायेण विषुवस्थाने तस्यावस्थानं यो वेद), स हि नक्षत्रियं प्रजापतिं वेद, स हि उभयोर् लोकयोस् तं वेद।
 </details>
