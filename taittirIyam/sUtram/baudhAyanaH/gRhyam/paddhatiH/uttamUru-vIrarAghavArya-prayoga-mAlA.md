@@ -427,9 +427,6 @@ Source: [TW](https://archive.org/details/Vaishvadeva/prayogamAlA/page/n3/mode/2u
 
 [[190]]
 
-
-प्रयोगमालायां 
-
 ## श्राद्धप्रयोगः 
 
 प्रयोगमालायां बोधायनीयश्राद्धप्रयोगः
