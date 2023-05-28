@@ -68,7 +68,7 @@ title = "१८ उत्तरदीक्षामन्त्राः"
 [आ ऽहन् दी॒ख्षाम् अ॑रुहम् ऋ॒तस्य॒ पत्नी᳚म्।  
 **पाङ्क्ते॑न** छन्द॑सा॒ ब्रह्म॑णा च ऋ॒तम् स॒त्ये॑ऽधाम्, स॒त्यम् ऋ॒ते॑ऽधाम् ॥]  
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/devaH/AryaH/hindukaH/lokAntaram/Rk/mahIm_U_Shu/">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/devaH/AryaH/hindukaH/classes/lokAntaram/Rk/mahIm_U_Shu/">
 <details open><summary><h2>महीम् ऊ षु ...{Loading}...</h2></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/006_aditiH/02_mahImU_Shu.md">
 <details open=""><summary><h4>०२ महीमू षु ...{Loading}...</h4></summary>
