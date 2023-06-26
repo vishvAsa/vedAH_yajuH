@@ -1,5 +1,5 @@
 +++
-title = "०२ अपर-प्रयोगः"
+title = "वङ्गीपुर-श्रीनिवासानुक्रमणीका"
 +++
 
 Source: [TW](https://archive.org/details/prayoga-darpana)
