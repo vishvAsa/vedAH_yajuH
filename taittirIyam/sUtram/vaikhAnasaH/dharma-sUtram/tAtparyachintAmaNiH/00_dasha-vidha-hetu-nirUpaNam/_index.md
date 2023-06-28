@@ -120,3 +120,8 @@ Input by Ute Hüsken
 याज्ञवल्क्यध्श्- याज्नवल्क्य स्मृति।
 </details>
 
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+Source: [TW](https://archive.org/details/in.ernet.dli.2015.383063/page/n81/mode/2up)
+</details>
