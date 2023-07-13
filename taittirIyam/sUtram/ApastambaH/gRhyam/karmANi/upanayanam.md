@@ -692,9 +692,9 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/11_14_daNDamuttareNA-.adatte.md">
 <details open><summary><h2>११ १४ दण्डमुत्तरेणाऽऽदत्ते ...{Loading}...</h2></summary>
 
-+++(पलाश-)+++दण्डमुत्तरेणा +++("सुश्रवस्सुश्रवस"मित्यनेन)+++ ऽऽदत्ते १४  
++++(पलाश-)+++दण्डमुत्तरेणाऽऽदत्ते +++("सुश्रवस्सुश्रवस"मित्यनेन)+++ १४  
 
- <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/01_sushravassushravasam_mA.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/01_sushravassushravasam_mA.md">
 <details open=""><summary><h4>०१ सुश्रवस्सुश्रवसम् मा ...{Loading}...</h4></summary>
 
 
