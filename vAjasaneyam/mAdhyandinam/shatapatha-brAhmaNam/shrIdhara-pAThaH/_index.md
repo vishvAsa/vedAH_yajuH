@@ -1,5 +1,5 @@
 +++
-title = "+वंशीधर-पाठः"
+title = "+श्रीधर-पाठः"
 unicode_script = "devanagari"
 +++
 
