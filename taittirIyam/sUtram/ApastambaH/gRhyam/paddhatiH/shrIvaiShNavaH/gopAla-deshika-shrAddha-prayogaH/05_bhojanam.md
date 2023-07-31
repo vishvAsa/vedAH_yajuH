@@ -136,7 +136,7 @@ title = "०५ भोजनम्"
 
 **प्राचीनावीती**
 
-<div class="js_include" url="/devaH/AryaH/hindukaH/classes/raxAMsi/Rk/apahatA_asurA.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/devaH/AryaH/hindukaH/classes/raxAMsi/Rk/apahatA_asurA"  newLevelForH1="5" includeTitle="false"> </div>  
 
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/015/01_udIratAmavara_utparAsa.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
@@ -193,14 +193,14 @@ title = "०५ भोजनम्"
 (देवब्राह्मणोपचारं सर्वम् उदङ्मुखः कुर्यात् ।  
 पित्र्यं दक्षिणामुखः कुर्यात् ।)
 
-> ओष॑धयः॒ प्रति॑मोदध्वमेनं॒ पुष्पा॑वतीः सुपिप्प॒लाः ।  
-अ॒यं वो॒ गर्भ॑ ऋ॒त्वियः॑ प्र॒त्नँ स॒धस्थ॒मास॑दत् ॥
+<div class="js_include" url="/devaH/AryaH/hindukaH/classes/pAdapAH/Rk/oShadhayaH_pratimodadhvam"  newLevelForH1="5" includeTitle="false"> </div>  
+
 
 इति मन्त्रेण  
 पूर्ववत् ‘इमानि पुष्पाणि, श्रीतुलसीदलानि च’ इति दद्यात् ॥
 
-> धूर॑सि॒ धूर्व॒ धूर्व॑न्तं॒ धूर्व॒ तं यो᳚ऽस्मान्धूर्व॑ति॒ तं  
-धू᳚र्व॒ यं व॒यं धूर्वा॑म॒स्त्वं दे॒वाना॑मसि ॥ [[TODO:परिष्कार्यम्??]]
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/dhUr_asi_dhUpArtham.md"  newLevelForH1="5" includeTitle="false"> </div>  
+ 
 
 घ्राण-तृप्त्य्-अर्थम् अयं वो धूपः ।
 
