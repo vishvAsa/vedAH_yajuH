@@ -56,8 +56,16 @@ title = "०५ भोजनम्"
 आदित्याभिमुखम् आसने उपविश्य,  
 गो-घृत-मिश्र-गोमयेन पाद-पृष्ठम् अनुलिप्य,
 
-> शं नो॑ दे॒वीर॒भिष्ट॑य॒ आपो॑ भवन्तु पी॒तये᳚ ।  
-शं योर॒भि स्र॑वन्तु नः ॥ [[TODO:परिष्कार्यम्??]]
+<div  class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/Rk/vishvAsa-prastutiH/10/009/04_shaM_no.md">
+<details open=""><summary><h4>०४ शं नो ...{Loading}...</h4></summary>
+
+
+शं नो॑ दे॒वीर॒भिष्ट॑य॒  
+आपो॑ भवन्तु पी॒तये॑ ।  
+शं योर्+++(=[अ]मिश्रणाय)+++ अ॒भि स्र॑वन्तु नः ॥ ०४॥
+
+</details>
+</div>
 
 इति मन्त्रेण,  
 स-पुष्पाक्षत--स-दर्भाग्राभिर् अद्भिः
@@ -128,11 +136,9 @@ title = "०५ भोजनम्"
 
 **प्राचीनावीती**
 
-> अप॑हता॒ असु॑रा॒ रक्षाँ॑सि पिशा॒चा ये क्षय॑न्ति पृथि॒वीमनु॑ ।  
-अ॒न्यत्रेतो॑ गच्छन्तु॒ यत्रैषां᳚ गतं॒ मनः॑ ॥ [[TODO:परिष्कार्यम्??]]
+<div class="js_include" url="/devaH/AryaH/hindukaH/classes/raxAMsi/Rk/apahatA_asurA.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
-> उदी॑रता॑ता॒मव॑र उत्परा॑स॒ उन्म॑ध्य॒माः पि॒तरः॑ सो॒म्यासः॑ ।  
-असुं॒ य ई॒युर॑वृ॒का ऋ॑त॒ज्ञास्तेनो॑वन्तु॒ पि॒तरो॒ हवे॑षु ॥ [[TODO:परिष्कार्यम्??]]
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/015/01_udIratAmavara_utparAsa.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 इति भुक्ति-देशे तिलान् सिकतांश्च प्रकीर्य -
 
@@ -154,8 +160,18 @@ title = "०५ भोजनम्"
 
 ## अर्चनम्
 
-> अर्च॑त प्रार्च॑त॒ प्रिय॑मेधासो॒ अर्च॑त ।  
-अर्च᳚न्तु पुत्र॒का उ॒त पुरं॒ न धृ॒ष्ण्व॑र्चत ॥ (ऋ. ८-६९-८) [[TODO:परिष्कार्यम्??]]
+<div class="js_include" newlevelforh1="2" title="" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/069/08_archata_prArchata.md">
+<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+
+
+अर्च॑त॒ प्रार्च॑त +++(नराः)+++  
+प्रिय॑मेधासो॒ +++(=प्रियमेध-सम्बद्धाः)+++ अर्च॑त ।  
+अर्च॑न्तु पुत्र॒का उ॒त  
+पुरं न धृ॒ष्णु +++(=धर्षणशीलः)+++ +अ॑र्चत ।।
+
+</details>
+</div>
+
 
 इति मन्त्रेण ‘इदं वो अर्चनं’ 
 
