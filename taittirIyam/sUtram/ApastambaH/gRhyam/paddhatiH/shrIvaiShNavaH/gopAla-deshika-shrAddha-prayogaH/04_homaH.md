@@ -215,8 +215,8 @@ title = "०४ होमः"
 
 इति दत्वा
 
-> ऊर्जं॒ वह॑न्तीर॒मृतं᳚ घृ॒तं पयः॑ की॒लालं᳚ परि॒स्रुत᳚म् ।  
-स्व॒धा स्थ॑ त॒र्पय॑त मे पि॒तॄन् ॥ (शु.य. २-३४) [[TODO:परिष्कार्यम्??]]
+<div class="js_include" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/02/34_UrjaM_vahantIramRtam.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
 
 इति पितृतीर्थेन[^5] तिलोदकं उत्सिञ्चेत् ॥
 
@@ -230,8 +230,8 @@ title = "०४ होमः"
 ३. **उपवीती** - विष्ण्व्-अर्थब्राह्मणम् अपि पूर्ववत् आपृच्छ्य,  
 अनुज्ञातः
 
-> स॒हस्र॑शीर्षा॒ पुरु॑षः । स॒हस्रा॒क्षस्स॒हस्र॑पात् ।  
-स भूमिं॑ वि॒श्वतो॑ वृ॒त्वा । अत्य॑तिष्ठद्दशाङ्गु॒लम् ॥ [[TODO:परिष्कार्यम्??]]
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/01_sahasrashIrShA_puruShaH.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
 
 > ... गोत्रस्य …... शर्मणः पितुः प्रत्याब्दिकश्राद्धे  
 श्राद्ध-संरक्षकं श्रीविष्णुम् आवाहयामि 
@@ -282,33 +282,31 @@ title = "०४ होमः"
 
 [[114]]
 
-> (१) यन्मे॑ मा॒ता प्रलु॑लोभ॒ चर॒त्यन॑नु॒व्रता ।  
-तन्मे॒ रेतः॑ पि॒ता वृ॑ङ्क्ताम्, आ॒भुर॒न्योव॑पद्यताम् ॥ ....  [[TODO:परिष्कार्यम्??]]  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/01_yanme_mAtA.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
 
 > … शर्मणे अस्मत्पित्रे स्वाहा ॥ (पित्र इदं न मम)
 
-> (२) यास्तिष्ठ॑न्ति॒ या धाव॑न्ति॒ या आ᳚र्द्रो॒घ्नीः परि॑त॒स्थुषीः᳚ ।  
-अ॒द्भिविश्व॑स्य भ॒त्रीभि॑र॒न्तर॒न्यं पि॒तुर्द॑धे ॥.... [[TODO:परिष्कार्यम्??]]  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/02_yAstiShThanti_yA.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 > … शर्मणे अस्मत्पित्रे स्वाहा ॥ (पित्र इदं न मम)
 
-> (३) यन्मे॑ पिताम॒ही प्रलु॑लोभ॒ चर॒त्यन॑नुव्रता ।  
-तन्मे॒ रेतः॑ पिताम॒हो वृ॑ङ्क्ताम्, आ॒भुर॒न्योव॑पद्यताम् ॥ [[TODO:परिष्कार्यम्??]]  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/03_yanme_pitAmahI.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
 
 > … शर्मणे अस्मत् पितामहाय स्वाहा ॥ (पितामहाय इदं न मम)
 
-> (४) अ॒न्तर्द॑धे॒ पर्व॑तैर॒न्तर्मह्या॑ पृथि॒व्या ।  
-आ॒भिर्दि॒ग्भिर॑न॒न्ताभि॑र॒न्तर॒न्यं पि॑ताम॒हाद्द॑दे ॥ [[TODO:परिष्कार्यम्??]]  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/04_antardadhe_parvatairantarmahyA.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
 
 > … शर्मणे अस्मत् पितामहाय स्वाहा ॥ (पितामहाय इदं न मम)
 
-> (५) यन्मे᳚ प्रपिताम॒ही प्रलु॑लोभ॒ चर॒त्यन॑नुव्रता ।  
-तन्मे॒ रेतः॑ प्रपिताम॒हो वृ॑ङ्क्त्ताम्, आ॒भुर॒न्योव॑पद्यताम् ॥[[TODO:परिष्कार्यम्??]]
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/05_yanme_prapitAmahI.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 > … शर्मणे अस्मत्प्रपितामहाय स्वाहा ॥ (प्रपितामहाय इदं न मम)
 
-> (६) अ॒न्तर्द॑ध ऋ॒तुभि॑रहोरा॒त्रैश्च॑ स॒न्धिभिः॑ ।  
-अ॒र्ध॒मा॒सैश्च॒ मासै॑श्चा॒न्तर॒न्यं प्र॑पिताम॒हाद्द॑धे ॥[[TODO:परिष्कार्यम्??]]...    
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/06_antardadha_RtubhirahorAtraishcha.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
 
 > … शर्मणे अस्मत्प्रपितामहाय स्वाहा ॥ (प्रपितामहाय इदं न मम)
 
@@ -321,8 +319,8 @@ title = "०४ होमः"
 **उपवीती**, हविः प्रत्यभिघार्य,  
 **प्राचीनावीती** - सकृद् अभिघार्य
 
-> ये चे॒ह पि॒तरो॒ ये च नेह॒ याँश्च॑ वि॒द्म याँ उ॑ च॒न प्र॑वि॒द्म ।  
-अग्ने॒ तान्वे᳚त्थ॒ यदि॒ ते जा॑तवेद॒स्तया᳚ प्र॒त्थँस्व॒धया॑ मदन्तु॒ स्वाहा᳚ ॥[[TODO:परिष्कार्यम्??]]  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/07_ye_cheha.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
 
 इति हुत्वा, ‘ज्ञाताज्ञातपितृभ्य इदं न मम',
 
@@ -401,7 +399,7 @@ title = "०४ होमः"
 
 इति सङ्कल्प्य
 
-> ओं भूर्भुव॒स्सु॒व॒स्स्वाहा᳚ ॥ (प्रजापतय इदं न मम) ॥१॥
+> ओं भूर् भुव॒स् सु॒व॒स् स्वाहा᳚ ॥ (प्रजापतय इदं न मम) ॥१॥
 
 
 > ओम् अना᳚ज्ञातं॒ यदाज्ञा॑तम् । य॒ज्ञस्य॑ क्रि॒यते॒ मिथु॑ ।  
