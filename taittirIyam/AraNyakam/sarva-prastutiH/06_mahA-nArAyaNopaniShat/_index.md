@@ -293,9 +293,6 @@ unicode_script = "devanagari"
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/01_08_sumitrA/"  newLevelForH1="5" includeTitle="false"> </div>  
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/01_08_imaM_me_gange/"  newLevelForH1="5" includeTitle="false"> </div>  
-
-
 
 
 ## 1.9

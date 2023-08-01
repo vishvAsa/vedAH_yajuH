@@ -9,7 +9,7 @@ title = "०१ ०९ यत् पृथिव्याम्"
 </details>
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
 
 यत् पृ॑थि॒व्याꣳ रज॑स्व॒म्  
 आन्तरि॑क्षे वि॒रोद॑सी । 
