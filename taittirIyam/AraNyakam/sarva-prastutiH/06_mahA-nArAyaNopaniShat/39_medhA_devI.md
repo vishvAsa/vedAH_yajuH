@@ -98,5 +98,3 @@ unicode_script: devanagari
 +++(उपरि जुषन्ताम् इति दुष्टम् आन्ध्रपाठे।)+++
 </details>
 
-
-
