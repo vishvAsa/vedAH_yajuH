@@ -24,6 +24,7 @@ unicode_script = "devanagari"
 विप॑रीतं प्राचीनावी॒तꣳ स॒व्ँवीतं॑ मानु॒षम् । 1 ।
 </details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/02/02_sandhyA-vandanam/">
 <details open><summary><h2>सन्ध्या-वन्दनम् ...{Loading}...</h2></summary>
 
