@@ -85,6 +85,22 @@ unicode_script = "devanagari"
 </details>
 </div> 
 
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/09/097/40_akrAntsamudraH_prathame.md">
+<details open><summary><h3>४० अक्रान्त्समुद्रः प्रथमे ...{Loading}...</h3></summary>
+
+
+अक्रा॑न्+++(=अतिक्रामति)+++ त्समु॒द्रः+++(=सम् + उन्द क्लेदने + रा + क)+++ प्र॑थ॒मे विध॑र्मञ् +++(=विधाराः)+++  
+ज॒नय॑न् प्र॒जा+++(ः)+++, भुव॑नस्य॒ राजा॑ +++(गोपाः इति साम्नि)+++ ।  
+वृषा॑ प॒वित्रे॒ अधि॒ सानो॒ +++(=समुच्छ्रिते)+++ अव्ये॑  
+बृ॒हत् सोमो॑ वावृधे सुवा॒न इन्दुः॑ +++(=अद्रिः इति साम्नि?)+++ ४०
+
+अ꣡क्रा꣢न्त्समु꣣द्रः꣡ प्र꣢थ꣣मे꣡ वि꣢꣫धर्म꣣न्  
+ज꣡न꣢य꣣न्प्र꣡जा भु꣢꣯वनस्य꣣ गो꣢पाः।  
+वृ꣡षा꣢ प꣣वि꣢त्रे꣣ अ꣢धि꣣ सा꣢नो꣣  
+अ꣡व्ये꣢ बृ꣣ह꣡त्सोमो꣢꣯ वावृधे स्वा꣣नो꣡ अद्रिः꣢꣯ ॥1 ॥
+
+</details>
+</div> 
 
 
 ## 01.11
@@ -238,57 +254,15 @@ unicode_script = "devanagari"
 
 ## 12
 
-<div class="js_include" url="12_RtaM_satyam.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/12_RtaM_satyam.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/12_RtaM_satyam.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 
-## 13
-
-<div class="js_include" url="13"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="13-15_AdityaH"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
-## 14
-
-<div class="js_include" url="14"  newLevelForH1="5" includeTitle="false"> </div>  
-
-
-
-## 15
-
-<div class="js_include" url="15"  newLevelForH1="5" includeTitle="false"> </div>  
-
-
-
-## 16
-
-सर्वो॒ वै रु॒द्रस्तस्मै॑ रु॒द्राय॒ नमो॑ अस्तु ।  
-पुरु॑षो॒ वै रु॒द्रस्सन्म॒हो नमो॒ नमः॑ ।  
-विश्वं॑ भू॒तं  भुव॑नञ्चि॒त्रं ब॑हु॒धा जा॒तञ्जाय॑मानञ्च॒ यत् ।  
-सर्वो॒ ह्ये॑ष रु॒द्रस्तस्मै॑ रु॒द्राय॒ नमो॑ अस्तु ॥ (31)
-
-
-
-## 17
-
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/17_kad_rudrAya.md"  newLevelForH1="5" includeTitle="false"> </div>  
-
-
-सर्वो॒ ह्ये॑ष रु॒द्रस्  
-तस्मै॑ रु॒द्राय॒ नमो॑ अस्तु । (32)
-
-
-
-## 18
-
-नमो हिरण्यबाहवे हिरण्यपतये ऽम्बिकापतय उमापतये॑ नमो॒ नमः । (33)
-
-
-
-## 19
-
-यस्य॒ वैक॑ङ्कत्यग्निहोत्र॒हव॑णी भवति॒  
-प्रति॑ष्ठिताः॒ प्रत्ये॒वास्याहु॑तयस् तिष्ठ॒न्त्य्, अथो॒ प्रति॑ष्ठित्यै । (34)
-
+<div class="js_include" url="16-19_raudram"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 ## 20
@@ -381,20 +355,22 @@ unicode_script = "devanagari"
 
 ## 28
 
-ओं भूर्भुव॒स्सुव॒र्मह॒र्जन॒स्तप॑स्स॒त्यन् - तद्ब्रह्म॒, तदाप॒ आपो॒ ज्योती॒रसो॒ऽमृतं॒ ब्रह्म॒ भूर्भुव॒स्सुव॒रोम् । (43)
+ओं भूर् भुव॒स् सुव॒र् मह॒र् जन॒स् तप॑स् स॒त्यन् - तद् ब्रह्म॒,  
+तद् आप॒ आपो॒ ज्योती॒रसो॒ऽमृतं॒ ब्रह्म॒ भूर्भुव॒स्सुव॒रोम् । (43)
 
 
 
 ## 29
 
-ओ᳚न्तद्ब्र॒ह्म । ओ᳚न्तद्वा॒युः । ओ᳚न्तदा॒त्मा । ओ᳚न् तथ् सर्व᳚म् । ओ᳚न् तत् पुरो॒र्नमः॑ । (44)
+ओ᳚न्तद्ब्र॒ह्म । ओ᳚न्तद्वा॒युः । ओ᳚न्तदा॒त्मा । ओ᳚न् तथ् सर्व᳚म् । ओ᳚न् तत् पुरो॒र् नमः॑ । (44)
 
 
 
 ## 30
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/06_mahA-nArAyaNopaniShat/30_uttame_shikhare.md"></div>  
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/30_uttame_shikhare.md"></div>  
 
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/30_uttame_shikhare.md"></div>  
 
 
 
@@ -466,6 +442,7 @@ unicode_script = "devanagari"
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/38_anguSThamAtraH.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/38_anguSThamAtraH.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 
@@ -475,7 +452,7 @@ unicode_script = "devanagari"
 
 ## 43
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/06_mahA-nArAyaNopaniShat/43_sadyojAtam_prapadyAmi.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/43_sadyojAtam_prapadyAmi.md">
 <details open><summary><h2>४३ सद्योजातम् प्रपद्यामि ...{Loading}...</h2></summary>
 
 
@@ -483,34 +460,11 @@ unicode_script = "devanagari"
 स॒द्योजा॒ताय॒ वै नमः॑ ।  
 भ॒वेभ॑वे॒ नाति॑भवे  
 भजस्व॒ मां भ॒वोद्भ॑वाय॒ नमः॑ । (58)  
-+++(भवोद्भवेत्य् अन्तिमपादस्य साध्वन्ते सति। "भवोद्भवाय नम" इति कर्षणं रुचिरम्। भवोद्भवसुब्रह्मण्यपरम् अपीयम् इति केचित्।)+++
-
-### पाठान्तराणि
-लिङ्गपुराणादाव् एवम् एव तैत्तिरीयारण्यकवद् दृश्यते।
-क्वचित्तु "भवस्व" इत्यपि दृश्यते - तदयुक्ततमम् भाति।
-
-#### निःश्वासे
-सद्योजातं प्रपद्यामि  
-सद्योजाताय वै नमः ।  
-भवेनाति भवे भजस्व  
-मां भवोद्भवाय नमः ।
-
-सद्योजातं प्रपद्यामि  
-सद्योजाताय वै नमः ।  
-भवे ऽभवेनादिभवे  
-भजस्व मां भवोद्भवाय नमः ॥
-
-ॐ सद्योजातं प्रपद्यामि नमः । ॐ सद्योजाताय वै नमः ।  
-ॐ भवे नमः । ॐ अभवे नमः । ॐ अनादि भवे नमः ।  
-ॐ भजस्व मान्नमः । ॐ भव नमः । ॐ उद्भवाय नमः ।
-
-#### कौलावलीनिर्ण्यये
-सद्योजातं प्रपद्यामि सद्योजाताय वै नमः ।  
-भवेऽभवेऽनादिभवे भजस्व मां भवोद्भवाय नमः ॥
 </details>
 </div>  
 
-
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/43_sadyojAtam_prapadyAmi.md">
+</div>
 
 ## 44
 
@@ -537,68 +491,16 @@ unicode_script = "devanagari"
 
 ## 45
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/06_mahA-nArAyaNopaniShat/45_aghorebhyo_atha.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/45_aghorebhyo_atha.md">
 <details open><summary><h2>४५ अघोरेभ्यो ऽथ ...{Loading}...</h2></summary>
 
 अ॒घोरे᳚भ्योऽथ॒ घोरे᳚भ्यो॒  
 घोर॒ घोर॑तरेभ्यः ।+++(एकाक्षरनैयून्यम्।)+++   
 स॒र्वतः॑ शर्व॒! सर्वे᳚भ्यो॒  
 नम॑स् ते अस्तु रु॒द्ररू॑पेभ्यः +++(द्व्यक्षराधिक्यम्।)+++॥
-
-+++(इत्यस्य मन्त्रस्य तैत्तिरीयक-द्राविड-पाठः। आरण्यकस्वरा दत्ताः।)+++
-
-### परिचयः
-- बहुरूपीत्युच्यते।
-- नानासंहितासु नानारूपैर् दृश्यते। 
-- "bahurUpI was archaic but popular para-vedic mantra used outside of core saMhitA ritual, likely among the earliest shaiva-s. It was incorporated once, relatively late into the saMhitA of the maitrAyaNIya-s in the context of the raudra shrauta rituals and independently into mahAnArAyaNopaniShat traditions. In that later class of traditions, it was likely an independent transfer from the shaiva traditions (by now early pAshupata). The mantramArga inherited from pAshupata where it was already polymorphic with saiddhAntika-s and dakShiNa-s inheriting alternative variants." 
-
-#### रूपान्तराणि
-याज्ञिय्-उपनिषदि द्राविडपाठवत्।
-
-##### आन्ध्रपाठे तैत्तिरीयारण्यकस्य
-अ॒घोरे᳚भ्योऽथ॒ घोरे᳚भ्यो॒  
-घोर॒ घोर॑तरेभ्यः ।  
-सर्वे᳚भ्यस् सर्व॒ शर्वे᳚भ्यो॒  
-नम॑स्ते अस्तु रु॒द्ररू॑पेभ्यः ॥ 
-
-##### अथर्ववेद-महानारायणोपनिषदि
-अघोरेभ्योऽथ घोरेभ्यो  
-घोर घोरतरेभ्यः ।  
-सर्वतः शर्व सर्वशर्वेभ्यो  
-नमस्ते अस्तु रुद्ररूपेभ्यः ॥
-
-+++(क्वचित् सर्वसर्वेभ्य इति पाठः।)+++
-
-##### पाशुपतसूत्रेषु मेरुतन्त्रे कामरन्ततन्त्रे कालोत्तरे
-अघोरेभ्योऽथ घोरेभ्यो घोरघोरतरेभ्यः ।  
-सर्वतः सर्वशर्वेभ्यो नमस्तेऽस्तु रुद्ररूपेभ्यः ॥
-
-##### निःश्वासकारिकायाम् हहारवतन्त्रे
-अघोरेभ्योऽथ घोरेभ्यो घोरघोरतरेभ्यः।  
-सर्वतस् सर्वसर्वेभ्यो नमस्तेऽस्तु रुद्ररूपेभ्यः ।
-
-एवं यामुनाचार्यकृत आगमप्रामाण्ये ऽपि!
-
-##### लिङ्गपुराणे
-अघोरेभ्योऽथ घोरेभ्यो  
-घोरघोरतरेभ्यः।  
-शर्वेभ्यः सर्वशर्वेभ्यो  
-नमस्ते अस्तु रुद्ररूपेभ्यः  ॥ २,२६.६ ॥  
-
-
-##### मैत्रायणीय-संहितायाम्
-अघोरेभ्यो अथ घोरेभ्यो  
-अघोर-घोरतरेभ्यश् च ।  
-सर्वतः शर्वशर्वेभ्यो  
-नमस् ते रुद्र रूपेभ्यो नमः ॥  
-
-##### पश्चिमाम्नायसम्प्रदाये
-Used to invoke the bhairavI (as the shakti of navAtman bhairava), followed by the vyomavyApin & aghorAstra
-
-ॐ अघोरे-ऐम् अथ घोरे-ह्रीं घोरघोरतरे-श्रीं सर्वतः सर्वशर्वे-फ्रें रुद्ररूपे-ह्स्फ्रें नमस् ते ॥
-
 </details>
 </div>  
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/45_aghorebhyo_atha.md"></div>
 
 
 
@@ -614,6 +516,8 @@ Used to invoke the bhairavI (as the shakti of navAtman bhairava), followed by th
 </details>
 </div>  
 
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/06/tatpuruShAya_vidmahe_rudraH.md">
+</div>
 
 
 ## 47
@@ -640,46 +544,7 @@ Used to invoke the bhairavI (as the shakti of navAtman bhairava), followed by th
 
 
 
-## 51
-
-प्राणापानव्यानोदानसमाना मे॑ शुद्ध्य॒न्ता॒ञ्ज्योति॑र॒हव्ँ वि॒रजा॑ विपा॒प्मा भू॑यास॒ꣳ॒ स्वाहा᳚ । (66)
-
-
-
-## 52
-
-वाङ्मनश्चक्षुःश्रोत्रजिह्वाघ्राणरेतोबुद्ध्याकूतिसङ्कल्पा मे॑ शुद्ध्य॒न्ता॒ञ्,  
-ज्योति॑र॒हव्ँ वि॒रजा॑ विपा॒प्मा भू॑यास॒ꣳ॒ स्वाहा᳚ । (67)
-
-
-
-## 53
-
-शिरःपाणिपादपार्श्वपृष्ठोदरजङ्घशिश्ञोपस्थपायवो मे॑ शुद्ध्य॒न्ता॒ञ्ज्योति॑र॒हव्ँ वि॒रजा॑ विपा॒प्मा भू॑यास॒ꣳ॒ स्वाहा᳚ । (68)
-
-
-
-## 54
-
-त्वक्चर्ममाꣳसरुधिरमेदोऽस्थिमज्जा मे॑ शुद्ध्य॒न्ता॒ञ्ज्योति॑र॒हव्ँ वि॒रजा॑ विपा॒प्मा भू॑यास॒ꣳ॒ स्वाहा᳚ । (69)
-
-
-
-## 55
-
-शब्दस्पर्शरूपरसगन्धा मे॑ शुद्ध्य॒न्ता॒ञ्ज्योति॑र॒हव्ँ वि॒रजा॑ विपा॒प्मा भू॑यास॒ꣳ॒ स्वाहा᳚ । (70)
-
-
-
-## 56
-
-पृथिव्यप्तेजोवाय्वाकाशा मे॑ शुद्ध्य॒न्ता॒ञ्ज्योति॑र॒हव्ँ वि॒रजा॑ विपा॒प्मा भू॑यास॒ꣳ॒ स्वाहा᳚ । (71)
-
-
-
-## 57
-
-अन्नमय-प्राणमय-मनोमय-विज्ञानमयानन्दमया मे॑ शुद्ध्य॒न्ता॒ञ् ज्योति॑र् अ॒हव्ँ वि॒रजा॑ विपा॒प्मा भू॑यास॒ꣳ॒ स्वाहा᳚ । (72)
+<div class="js_include" url="51-57_vipApmA"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 

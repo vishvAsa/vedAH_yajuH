@@ -4,7 +4,16 @@ unicode_script = "devanagari"
 
 +++
 ## शिरः
-ओं भूः । ओं भुवः॑ । ओꣳ सुवः॑ । ओं महः॑ । ओञ्जनः॑ । ओं तपः॑ । ओꣳ स॒त्यम् ।  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ओं भूः । ओं भुवः॑ । ओꣳ सुवः॑ । ओं महः॑ । ओञ्जनः॑ । ओं तपः॑ । ओꣳ स॒त्यम् ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+ओं भूः । ओं भुवः॑ । ओꣳ सुवः॑ । ओं महः॑ । ओञ्जनः॑ । ओं तपः॑ । ओꣳ स॒त्यम् ।
+</details>
+  
 
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/062/10_tatsaviturvareNyaM_bhargo.md">
 <details open><summary><h3>१० तत्सवितुर्वरेण्यं भर्गो ...{Loading}...</h3></summary>
@@ -18,13 +27,26 @@ unicode_script = "devanagari"
 </details>
 </div>  
 
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/062/10_tatsaviturvareNyaM_bhargo.md"></div>
  
 ## पुच्छम्
-ओमापो॒ ज्योती॒रसो॒ ऽमृतं॒  ब्रह्म॒+++(=मन्त्राः)+++ भूर्भुव॒स्सुव॒रोम् । (42)
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+ओमापो॒ ज्योती॒रसो॒ ऽमृतं॒  ब्रह्म॒+++(=मन्त्राः)+++ भूर्भुव॒स्सुव॒रोम् । (42)
+</details>
+
+<details><summary>मूलम्</summary>
+
+ओमापो॒ ज्योती॒रसो॒ ऽमृतं॒  ब्रह्म॒ भूर्भुव॒स्सुव॒रोम् । (42)
+</details>
+
+
+
+
+<details><summary>विश्वास-टिप्पनी</summary>
 
 ## प्राणायामे विनियोगः
 - प्राणायामे पूरणे व्याहृतयः।  
 - कुम्भके गायत्रीमन्त्रः।
 - रेचके / ‌निःस्वासे पुच्छम्।
-
+</details>

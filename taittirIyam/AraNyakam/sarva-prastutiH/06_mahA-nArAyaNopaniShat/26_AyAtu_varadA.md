@@ -19,7 +19,7 @@ unicode_script = "devanagari"
 मा॒तेदं ब्र॑ह्म जु॒षस्व॑ नः । 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
 
 ओजो॑ऽसि।  
 सहो॑ऽसि।  
