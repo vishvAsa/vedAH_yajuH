@@ -31,7 +31,7 @@ unicode_script = "devanagari"
 अ॒भि॒भूर् [ओङ् गायत्रीम् आवा॑हयामि । (41)]
 </details>
 
-<details><summary>विश्वास-टिप्पनी</summary>
+<details><summary>विश्वास-टिप्पनी - यजुः</summary>
 
 श्येनरूपेणागताया आवाहने कल्पनम् -
 
