@@ -1,96 +1,119 @@
 +++
 title = "११ सहस्रशीर्षम्"
+
 +++
 
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-स॒ह॒स्र॒शीर्॑षन्दे॒व॒व्विँ॒श्वाक्ष॑व्विँ॒श्वशं॑भुवम् ।  
-विश्व॑न्ना॒राय॑णन्दे॒व॒म॒ख्षरं॑ पर॒मं प्र॒भुम् ।  
-वि॒श्वतः॒ पर॑मन्नि॒त्य॒व्विँ॒श्वन्ना॑राय॒णꣳ ह॑रिम् ।  
-विश्व॑मे॒वेदं पुरु॑ष॒स्तद्विश्व॒मुप॑जीवति ॥  
-</details>
-
-<details><summary>मूलम्</summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/11_sahasrashIrSham/01_sahasrashIrShandevavvi.NshvAxavvi.Nshvashambhuv.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 स॒ह॒स्र॒शीर्॑षन्दे॒व॒व्विँ॒श्वाक्ष॑व्विँ॒श्वशं॑भुवम् ।  
 विश्व॑न्ना॒राय॑णन्दे॒व॒म॒ख्षरं॑ पर॒मं प्र॒भुम् ।  
 वि॒श्वतः॒ पर॑मन्नि॒त्य॒व्विँ॒श्वन्ना॑राय॒णꣳ ह॑रिम् ।  
-विश्व॑मे॒वेदं पुरु॑ष॒स्तद्विश्व॒मुप॑जीवति ॥  
+विश्व॑मे॒वेदं पुरु॑ष॒स्तद्विश्व॒मुप॑जीवति ॥
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/11_sahasrashIrSham/01_sahasrashIrShandevavvi.NshvAxavvi.Nshvashambhuv.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details><summary>मूलम्</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+स॒ह॒स्र॒शीर्॑षन्दे॒व॒व्विँ॒श्वाक्ष॑व्विँ॒श्वशं॑भुवम् ।  
+विश्व॑न्ना॒राय॑णन्दे॒व॒म॒ख्षरं॑ पर॒मं प्र॒भुम् ।  
+वि॒श्वतः॒ पर॑मन्नि॒त्य॒व्विँ॒श्वन्ना॑राय॒णꣳ ह॑रिम् ।  
+विश्व॑मे॒वेदं पुरु॑ष॒स्तद्विश्व॒मुप॑जीवति ॥
+</details>
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/11_sahasrashIrSham/03_pativvi.NshvasyAtmeshvaraM_shAshvatam.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 पति॒व्विँश्व॑स्या॒त्मेश्व॑र॒ꣳ॒ शाश्व॑तꣳ शि॒वम॑च्युतम् ।  
 ना॒राय॒णं म॑हाज्ञे॒य॒व्विँ॒श्वात्मा॑नं प॒राय॑णम् ।  
 ना॒राय॒णप॑रं ब्र॒ह्म॒ त॒त्वन्ना॑राय॒णः प॑रः ।  
-ना॒राय॒णप॑रो ज्यो॒ति॒रा॒त्मा ना॑राय॒णः प॑रः ।  
+ना॒राय॒णप॑रो ज्यो॒ति॒रा॒त्मा ना॑राय॒णः प॑रः ।
 </details>
-
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/11_sahasrashIrSham/03_pativvi.NshvasyAtmeshvaraM_shAshvatam.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
 पति॒व्विँश्व॑स्या॒त्मेश्व॑र॒ꣳ॒ शाश्व॑तꣳ शि॒वम॑च्युतम् ।  
 ना॒राय॒णं म॑हाज्ञे॒य॒व्विँ॒श्वात्मा॑नं प॒राय॑णम् ।  
 ना॒राय॒णप॑रं ब्र॒ह्म॒ त॒त्वन्ना॑राय॒णः प॑रः ।  
-ना॒राय॒णप॑रो ज्यो॒ति॒रा॒त्मा ना॑राय॒णः प॑रः ।  
+ना॒राय॒णप॑रो ज्यो॒ति॒रा॒त्मा ना॑राय॒णः प॑रः ।
 </details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/11_sahasrashIrSham/05_yachcha_kinchijjagatyasmindRshyate.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 यच्च॑ कि॒ञ्चिज्ज॑गत्य॒स्मि॒न्दृ॒श्यते᳚ श्रूय॒तेऽपि॑ वा ।  
 अन्त॑र्ब॒हिश्च॑ तथ्स॒र्व॒व्ँव्या॒प्य ना॑राय॒णस्स्थि॑तः ।(25)
 अन॑न्त॒मव्य॑यङ्क॒विꣳ स॑मु॒द्रेन्त॑व्विँ॒श्वशं॑भुवम् ।  
-प॒द्म॒को॒शप्र॑तीका॒श॒ꣳ॒ हृ॒दय॑ञ्चाप्य॒धोमु॑खम् ।  
+प॒द्म॒को॒शप्र॑तीका॒श॒ꣳ॒ हृ॒दय॑ञ्चाप्य॒धोमु॑खम् ।
 </details>
-
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/11_sahasrashIrSham/05_yachcha_kinchijjagatyasmindRshyate.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
 यच्च॑ कि॒ञ्चिज्ज॑गत्य॒स्मि॒न्दृ॒श्यते᳚ श्रूय॒तेऽपि॑ वा ।  
 अन्त॑र्ब॒हिश्च॑ तथ्स॒र्व॒व्ँव्या॒प्य ना॑राय॒णस्स्थि॑तः ।(25)
 अन॑न्त॒मव्य॑यङ्क॒विꣳ स॑मु॒द्रेन्त॑व्विँ॒श्वशं॑भुवम् ।  
-प॒द्म॒को॒शप्र॑तीका॒श॒ꣳ॒ हृ॒दय॑ञ्चाप्य॒धोमु॑खम् ।  
+प॒द्म॒को॒शप्र॑तीका॒श॒ꣳ॒ हृ॒दय॑ञ्चाप्य॒धोमु॑खम् ।
 </details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/11_sahasrashIrSham/07_adho_niShTyA.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अधो॑ नि॒ष्ट्या वि॑तस्त्या॒न्तु॒ ना॒भ्यामु॑परि॒ तिष्ठ॑ति ।  
 हृ॒दय॑न्तद्वि॑जानी॒या॒द्वि॒श्वस्या॑यत॒नं म॑हत् ।  
 सन्त॑तꣳ सि॒राभि॑स्तु॒ लंब॑त्याकोश॒सन्नि॑भम् ।  
-तस्यान्ते॑ सुषि॒रꣳ सू॒क्ष्मं तस्मि᳚न्थ्स॒र्वं प्रति॑ष्ठितम् ।  
+तस्यान्ते॑ सुषि॒रꣳ सू॒क्ष्मं तस्मि᳚न्थ्स॒र्वं प्रति॑ष्ठितम् ।
 </details>
-
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/11_sahasrashIrSham/07_adho_niShTyA.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
 अधो॑ नि॒ष्ट्या वि॑तस्त्या॒न्तु॒ ना॒भ्यामु॑परि॒ तिष्ठ॑ति ।  
 हृ॒दय॑न्तद्वि॑जानी॒या॒द्वि॒श्वस्या॑यत॒नं म॑हत् ।  
 सन्त॑तꣳ सि॒राभि॑स्तु॒ लंब॑त्याकोश॒सन्नि॑भम् ।  
-तस्यान्ते॑ सुषि॒रꣳ सू॒क्ष्मं तस्मि᳚न्थ्स॒र्वं प्रति॑ष्ठितम् ।  
+तस्यान्ते॑ सुषि॒रꣳ सू॒क्ष्मं तस्मि᳚न्थ्स॒र्वं प्रति॑ष्ठितम् ।
 </details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/11_sahasrashIrSham/09_tasya_maddhye.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 तस्य॒ मद्ध्ये॑ म॒हान॑ग्निर्वि॒श्वार्चि॑र्वि॒श्वतो॑मुखः ।  
 सोऽग्र॑भु॒ग्विभ॑जन्ति॒ष्ठ॒न्नाहा॑रमज॒रः क॒विः ।  
 स॒न्ता॒पय॑ति स्वन्दे॒हमापा॑दतल॒मस्त॑कम् ।  
-तस्य॒ मद्ध्ये॒ वह्नि॑शिखा अ॒णीयो᳚र्द्ध्वा व्य॒वस्थि॑तः ।  
+तस्य॒ मद्ध्ये॒ वह्नि॑शिखा अ॒णीयो᳚र्द्ध्वा व्य॒वस्थि॑तः ।
 </details>
-
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/11_sahasrashIrSham/09_tasya_maddhye.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
 तस्य॒ मद्ध्ये॑ म॒हान॑ग्निर्वि॒श्वार्चि॑र्वि॒श्वतो॑मुखः ।  
 सोऽग्र॑भु॒ग्विभ॑जन्ति॒ष्ठ॒न्नाहा॑रमज॒रः क॒विः ।  
 स॒न्ता॒पय॑ति स्वन्दे॒हमापा॑दतल॒मस्त॑कम् ।  
-तस्य॒ मद्ध्ये॒ वह्नि॑शिखा अ॒णीयो᳚र्द्ध्वा व्य॒वस्थि॑तः ।  
+तस्य॒ मद्ध्ये॒ वह्नि॑शिखा अ॒णीयो᳚र्द्ध्वा व्य॒वस्थि॑तः ।
 </details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/11_sahasrashIrSham/11_nIlatoyadamaddhyasthA_vidyullekheva.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 नी॒लतो॑यद॑मद्ध्य॒स्था॒ वि॒द्युल्ले॑खेव॒ भास्व॑रा ।  
 नी॒वार॒शूक॑वत्त॒न्वी॒ पी॒ताभा᳚स्यात्त॒नूप॑मा ।  
 तस्या᳚श्शिखा॒या म॑द्ध्ये प॒रमा᳚त्मा व्य॒वस्थि॑तः ।  
 स ब्रह्मा॒ स शिव॒स्सेन्द्र॒स्सोऽक्ष॑रः पर॒मस्स्व॒राट् ।। (26)
 </details>
-
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/11_sahasrashIrSham/11_nIlatoyadamaddhyasthA_vidyullekheva.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
 नी॒लतो॑यद॑मद्ध्य॒स्था॒ वि॒द्युल्ले॑खेव॒ भास्व॑रा ।  
@@ -98,8 +121,8 @@ title = "११ सहस्रशीर्षम्"
 तस्या᳚श्शिखा॒या म॑द्ध्ये प॒रमा᳚त्मा व्य॒वस्थि॑तः ।  
 स ब्रह्मा॒ स शिव॒स्सेन्द्र॒स्सोऽक्ष॑रः पर॒मस्स्व॒राट् ।। (26)
 </details>
-
-
+</details>
+</div>
 <details><summary>आन्ध्रपाठः</summary>
 
 आन्ध्रपाठे- (१०.१३.१ १०.१३.२)
@@ -137,16 +160,21 @@ title = "११ सहस्रशीर्षम्"
 
 स ब्रह्म॒ स शिवः॒ स हरिः॒ सेन्द्रः॒ सोऽक्ष॑रः पर॒मः स्व॒राट् ॥
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/11_sahasrashIrSham/14_RtaM_satyam.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 ऋ॒तꣳ स॒त्यं प॑रं ब्र॒ह्म॒ पु॒रुषं॑ कृष्ण॒पिङ्ग॑लम् ।  
 ऊ॒र्ध्वरे॑तं वि॑रूपा॒क्षं॒ वि॒श्वरू॑पाय॒ वै नमो॒ नमः॑ ।
 </details>
-
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/11_sahasrashIrSham/14_RtaM_satyam.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
 ऋ॒तꣳ स॒त्यं प॑रं ब्र॒ह्म॒ पु॒रुषं॑ कृष्ण॒पिङ्ग॑लम् ।  
 ऊ॒र्ध्वरे॑तं वि॑रूपा॒क्षं॒ वि॒श्वरू॑पाय॒ वै नमो॒ नमः॑ ।
 </details>
-
+</details>
+</div>
 </details>
