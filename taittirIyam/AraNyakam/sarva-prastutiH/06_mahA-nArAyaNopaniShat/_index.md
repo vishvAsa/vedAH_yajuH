@@ -87,7 +87,7 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अतः॑ पर॒न्नान्य् अ॒दणी॑यसꣳ हि॒  
+अतः॑ पर॒न्नान्य॒द् अणी॑यसꣳ हि॒  
 परा᳚त्पर॒य्ँ यन् मह॑तो म॒हान्त᳚म् ।  
 यद् ए॑कम् अ॒व्यक्त॒म् अन॑न्तरूप॒व्ँ  
 विश्वं॑ पुरा॒णन् तम॑सः॒ पर॑स्तात् ॥ (1)
@@ -95,7 +95,7 @@ unicode_script = "devanagari"
 
 <details><summary>मूलम्</summary>
 
-अतः॑ पर॒न्नान्य् अ॒दणी॑यसꣳ हि॒  
+अतः॑ पर॒न्नान्य॒दणी॑यसꣳ हि॒  
 परा᳚त्पर॒य्ँ यन् मह॑तो म॒हान्त᳚म् ।  
 यद् ए॑कम् अ॒व्यक्त॒म् अन॑न्तरूप॒व्ँ  
 विश्वं॑ पुरा॒णन् तम॑सः॒ पर॑स्तात् ॥ (1)
@@ -178,9 +178,16 @@ unicode_script = "devanagari"
 प॒रीत्य॒  सर्वाः᳚ प्र॒दिशो॒ दिश॑श्च ।  
 प्र॒जाप॑तिः प्रथम॒जा ऋ॒तस्या॒त्मना॒ऽऽत्मान॑म् अ॒भिसं॑बभूव ॥   
 
-सद॑स॒स्पति॒मद्भु॑तं  
-प्रि॒यमिन्द्र॑स्य॒  काम्य᳚म् ।  
-सनिं॑ मे॒धाम॑यासिषम् । 
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/018/06_sadasaspatimadbhutaM_priyamindrasya.md">
+<details open><summary><h3>०६ सदसस्पतिमद्भुतं प्रियमिन्द्रस्य ...{Loading}...</h3></summary>
+
+
+सद॑स॒स्पति॒म् अद्भु॑तं  
+प्रि॒यम् इन्द्र॑स्य॒ काम्य॑म् ।  
+स॒निं +++(=दानरूपम्)+++ मे॒धाम् अ॑यासिषम् ६
+
+</details>
+</div>  
 
 (4)
 
@@ -191,68 +198,42 @@ unicode_script = "devanagari"
 उद्दी᳚प्यस्व जातवेदो  
 ऽप॒घ्नन्निर्ऋ॑तिं॒ मम॑ ।  
 प॒शूꣳश्च॒ मह्य॒म् आव॑ह॒  
-जीव॑नञ् च॒ दिशो॑ दिश ।  
+जीव॑नञ् च॒ दिशो॑ दिश ॥  
 
 मा नो॑ हिꣳसीज् जातवेदो॒  
 गामश्वं॒ पुरु॑ष॒ञ् जग॑त् । 
 अबि॑भ्र॒द् अग्न॒ आग॑हि  
-श्रि॒या मा॒ परि॑पातय ।  
+श्रि॒या मा॒ परि॑पातय ॥  
 
 पुरु॑षस्य विद्म सहस्रा॒ख्षस्य॑  
 महादे॒वस्य॑ धीमहि ।  
 तन्नो॑ रुद्रः प्रचो॒दया᳚त् ॥  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/06//tatpuruShAya_vidmahe_rudraH.md">
-<details open><summary><h2>तत्पुरुषाय विद्महे - रुद्रः ...{Loading}...</h2></summary>
-
-
 तत्पुरु॑षाय  वि॒द्महे॑  
 महादे॒वाय॑ धीमहि ।  
-तन्नो॑ रुद्रः प्रचो॒दया᳚त् । 
-</details>
-</div>
+तन्नो॑ रुद्रः प्रचो॒दया᳚त् ॥ 
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/06/dantiH_prachodayAt.md">
-<details open><summary><h2>दन्तिः प्रचोदयात् ...{Loading}...</h2></summary>
 
 तत्पुरु॑षाय वि॒द्महे॑  
 वक्रतु॒ण्डाय॑ धीमहि ।  
-तन्नो॑ दन्तिः  प्रचो॒दया᳚त् । 
-</details>
-</div>
-
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/06/garuDaH_prachodayAt.md">
-<details open><summary><h2>गरुडः प्रचोदयात् ...{Loading}...</h2></summary>
+तन्नो॑ दन्तिः  प्रचो॒दया᳚त् ॥ 
 
 
 तत् पुरु॑षाय वि॒द्महे॑  
 सुवर्ण-प॒ख्षाय॑ धीमहि । (5)  
-तन् नो॑ गरुडः प्रचो॒दया᳚त् । 
-</details>
-</div>   
+तन् नो॑ गरुडः प्रचो॒दया᳚त् ॥ 
 
 
 ## 01.06
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/06/kAtyAyanAya_vidmahe.md">
-<details open><summary><h2>कात्यायनाय विद्महे ...{Loading}...</h2></summary>
-
-
 का॒त्या॒य॒नाय॑ वि॒द्महे॑  
 कन्यकु॒मारि॑ धीमहि ।  
-तन्नो॑ दुर्गिः प्रचो॒दया᳚त् ।
-</details>
-</div>
-
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/06/nArAyaNAya_vidmahe.md">
-<details open><summary><h2>नारायणाय विद्महे ...{Loading}...</h2></summary>
+तन्नो॑ दुर्गिः प्रचो॒दया᳚त् ॥
 
 
 ना॒रा॒य॒णाय॑ वि॒द्महे॑  
 वासुदे॒वाय॑ धीमहि ।  
-तन्नो॑ विष्णुः प्रचो॒दया᳚त् । 
-</details>
-</div>  
+तन्नो॑ विष्णुः प्रचो॒दया᳚त् ॥ 
 
 
 
@@ -540,7 +521,7 @@ unicode_script = "devanagari"
 यद् वेदादौ स्व॑रः प्रो॒क्तो॒  
 वे॒दान्ते॑ च प्र॒तिष्ठि॑तः ।  
 तस्य॑ प्र॒कृति॑लीन॒स्य॒  
-यः॒ पर॑स्स म॒हेश्व॑रः । (24)
+यः॒ पर॑स्स म॒हेश्व॑रः ॥ (24)
 
 
 
