@@ -102,7 +102,7 @@ Injure him who injures us, injure him whom we injure.
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-धूर॑सि॒ धूर्व॒ धूर्व॑न्त॒न्धूर्व॒ तय्ँ यो᳚ऽस्मान्धूर्व॑ति॒ तन्धू᳚र्व॒ यव्वँ॒यन्धूर्वा॑मः
+धूर॑सि॒ धूर्व॒ धूर्व॑न्त॒न्धूर्व॒ तय्ँ यो᳚ऽस्मान्धूर्व॑ति॒ तन्धू᳚र्व॒ यव्ँ व॒यन्धूर्वा॑मः
 </details>
 
 <details><summary>मूलम्</summary>
@@ -120,7 +120,7 @@ Injure him who injures us, injure him whom we injure.
 <details><summary>मूलम्</summary>
 
 तं  +++(धूर्व)+++  योँ᳚ऽस्मान्धूर्व॑ति  ।   
-तन्धू᳚र्व॒ यव्वँ॒यन्धूर्वा॑मः ।
+तन्धू᳚र्व॒ यव्ँ व॒यन्धूर्वा॑मः ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

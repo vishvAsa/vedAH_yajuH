@@ -25,7 +25,7 @@ I pour together.
 
 <details><summary>मूलम्</summary>
 
-सव्वँ॑पामि ।
+सव्ँ व॑पामि ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
