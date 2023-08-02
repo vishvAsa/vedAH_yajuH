@@ -6,8 +6,29 @@ title = "०८ अभिश्रवणमन्त्राः"
 ॥ अभिश्रवणमन्त्राः ॥
 
 १. गायत्री (पु. १३२),  
-२. श्रीसूक्तम् (पु. २८) भूसूक्तम् (पु. ७२) नीलासूक्तम् (पु. ६९)  
+
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/062/10_tatsaviturvareNyaM_bhargo.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+
+२. श्रीसूक्तम् (पु. २८) 
+
+<div class="js_include" url="/vedAH_Rk/shAkalam/khilAni/2/06_shrI-sUktam/"  newLevelForH1="2" includeTitle="true"> </div>  
+
+
+भूसूक्तम् (पु. ७२) 
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantraH/bhU-sUktam"  newLevelForH1="5" includeTitle="false"> </div>  
+
+
+नीलासूक्तम् (पु. ६९)  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantraH/nIlA-sUktam"  newLevelForH1="5" includeTitle="false"> </div>  
+
+
 ३. पुरुषसूक्तम् (पु. ७१)
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/03/puruSha-sUktam"  newLevelForH1="5" includeTitle="false"> </div>  
+
 
 ## उत्तरनारायणानुवाकः
 ॥ ४. उत्तरनारायणानुवाकः (तै.आ. ३-१३) ॥

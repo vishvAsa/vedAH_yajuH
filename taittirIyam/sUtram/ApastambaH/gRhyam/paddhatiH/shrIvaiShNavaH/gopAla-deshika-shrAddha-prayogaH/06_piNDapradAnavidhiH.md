@@ -22,15 +22,25 @@ title = "०६ पिण्डप्रदानविधिः"
 ## मार्जनम्
 पूर्वेषु दर्भेषु -
 
-> १. मा॒र्जय॑न्तां॒ मम॑ पि॒तरो॑  
-मा॒र्जय॑न्तां॒ मम॑ पिताम॒हा  
-मा॒र्जय॑न्तां॒ मम॑ प्रपिताम॒हाः ॥
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/02-04_mArjayantAm_mama_pitaraH.md">
+<details open=""><summary><h5>०२-०७ मार्जयन्ताम् मम ...{Loading}...</h5></summary>
+
+
+मा॒र्जय॑न्तां॒ मम॑ पि॒तरो॑, मा॒र्जय॑न्तां॒ मम॑ पिताम॒हा मा॒र्जय॑न्तां॒ मम॑ प्रपिताम॒हाः ।
+</details>
+</div>
+
 
 अपरेषु दर्भेषु -
 
-> २. मा॒र्जय॑न्तां॒ मम॑ मा॒तरो॑  
-मार्जय॑न्तां॒ मम॑ पिताम॒ह्यो॑  
-मा॒र्जय॑न्तां॒ मम॑ प्रपिताम॒ह्यः॑ ॥ 
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/05-07_mArjayantAm_mama_mAtaraH.md">
+<details open=""><summary><h5>०२-०७ मार्जयन्ताम् मम ...{Loading}...</h5></summary>
+
+
+मा॒र्जय॑न्तां॒ मम॑ मा॒तरो॑, मा॒र्जय॑न्तां॒ मम॑ पिताम॒ह्यो॑, मा॒र्जय॑न्तां॒ मम॑ प्रपिताम॒ह्यः॑ ।
+</details>
+</div>
+
 
 इति च स-तिला अपः पितृतीर्थेन,  
 त्रिः दक्षिणापवर्गं निनीय,
@@ -38,6 +48,9 @@ title = "०६ पिण्डप्रदानविधिः"
 [[140]]
 
 ## पिण्ड-स्थापनम्
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/08-19_etatte_tatAsau.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+
 पूर्वेषु
 
 > ए॒तत्ते॑ तत! ...गोत्र! .... शर्मन् ! 
@@ -83,18 +96,27 @@ title = "०६ पिण्डप्रदानविधिः"
 
 पूर्वेषु दर्भेषु
 
-> १. मा॒र्जय॑न्तां॒ मम॑ पि॒तरो॑  
-मा॒र्जय॑न्तां॒ मम॑ पिताम॒हा  
-मा॒र्जय॑न्तां॒ मम॑ प्रपिताम॒हाः ॥
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/02-04_mArjayantAm_mama_pitaraH.md">
+<details open=""><summary><h5>०२-०७ मार्जयन्ताम् मम ...{Loading}...</h5></summary>
+
+
+मा॒र्जय॑न्तां॒ मम॑ पि॒तरो॑, मा॒र्जय॑न्तां॒ मम॑ पिताम॒हा मा॒र्जय॑न्तां॒ मम॑ प्रपिताम॒हाः ।
+</details>
+</div>
+
 
 इत्यादिक्रमेण त्रिः पूर्ववत् निनीय,  
 उत्थाय,
 
 अपरेषु दर्भेषु -
 
-> २. मा॒र्जय॑न्तां॒ मम॑ मा॒तरो॑  
-मार्जय॑न्तां॒ मम॑ पिताम॒ह्यो॑  
-मा॒र्जय॑न्तां॒ मम॑ प्रपिताम॒ह्यः॑ ॥
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/05-07_mArjayantAm_mama_mAtaraH.md">
+<details open=""><summary><h5>०२-०७ मार्जयन्ताम् मम ...{Loading}...</h5></summary>
+
+
+मा॒र्जय॑न्तां॒ मम॑ मा॒तरो॑, मा॒र्जय॑न्तां॒ मम॑ पिताम॒ह्यो॑, मा॒र्जय॑न्तां॒ मम॑ प्रपिताम॒ह्यः॑ ।
+</details>
+</div>
 
 इत्यादिक्रमेण त्रिः पूर्ववत् निनीय,  
 

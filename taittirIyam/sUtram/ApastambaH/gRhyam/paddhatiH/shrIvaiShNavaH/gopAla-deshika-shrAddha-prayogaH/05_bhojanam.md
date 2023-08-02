@@ -136,7 +136,7 @@ title = "०५ भोजनम्"
 
 **प्राचीनावीती**
 
-<div class="js_include" url="/devaH/AryaH/hindukaH/classes/raxAMsi/Rk/apahatA_asurA"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/prakIrNaH/devaH/classes/raxAMsi/Rk/apahatA_asurA"  newLevelForH1="5" includeTitle="false"> </div>  
 
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/015/01_udIratAmavara_utparAsa.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
@@ -791,7 +791,7 @@ title = "०५ भोजनम्"
 <div class="js_include" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/29/48_suparNaM_vaste.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
-<div class="js_include" url="/vedAH_yajuH/AryaH/hindukaH/classes/pitaraH/brAhmaNam/aShTAv_aSThAu"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/prakIrNaH/devaH/classes/pitaraH/brAhmaNam/aShTAv_aSThAu"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 इत्य् उपस्थाय -  
@@ -803,7 +803,19 @@ title = "०५ भोजनम्"
 
 भोक्तारः -
 
-> अ॒ग्निरायु॑ष्मा॒न्थ्स वन॒स्पति॑भि॒रायु॑ष्मा॒न् तेन॒ त्वाऽऽयु॒षाऽऽयु॑ष्मन्तं करोमि॒ सोम॒ आयु॑ष्मा॒न्थ्स ओष॑धीभि॒रायु॑ष्मा॒न् तेन॒ त्वाऽऽयु॒षाऽऽयु॑ष्मन्तं करोमि य॒ज्ञ आयु॑ष्मा॒न्थ्स दक्षि॑णाभि॒रायु॑ष्मा॒न् तेन॒ त्वाऽऽयु॒षाऽऽयु॑ष्मन्तं करोमि॒ ब्रह्मायु॑ष्म॒त्तद्ब्रा᳚ह्म॒णैरायु॑ष्म॒त् तेन॒ त्वाऽऽयु॒षाऽऽयु॑ष्मन्तं करोमि दे॒वा आयु॑ष्मन्त॒स्ते॑ऽमृते॒नायु॑ष्मन्त॒स्तेन॒ त्वाऽऽयु॒षाऽऽयु॑ष्मन्तं करोमि पि॒तर॒ आयु॑ष्मन्त॒स्ते स्व॒धयाऽऽयु॑ष्मन्त॒स्तेन॒ त्वाऽऽयु॒षाऽऽयु॑ष्मन्तं करोमि । [[TODO:परिष्कार्यम्]]
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/05-09_agnirAyuShmAntsa_vanaspatibhirAyuShmAntena.md">
+<details open><summary><h2>०५-०९ अग्निरायुष्मान्त्स वनस्पतिभिरायुष्मान्तेन ...{Loading}...</h2></summary>
+
+
+अ॒ग्निर् आयु॑ष्मा॒न्त्, स वन॒स्पति॑भि॒र् आयु॑ष्मा॒न्, तेन॒ त्वाऽऽयु॒षाऽऽयु॑ष्मन्तं करोमि ।  
+सोम॒ आयु॑ष्मा॒न्त्, स ओष॑धीभि॒र् आयु॑ष्मा॒न्, तेन॒ …।  
+य॒ज्ञ आयु॑ष्मा॒न्त्, स दक्षि॑णाभि॒र् आयु॑ष्मा॒न्, तेन॒ …।  
+ब्रह्मायु॑ष्मत्, तद् ब्रा॑ह्म॒णैर् आयु॑ष्म॒त्, तेन॒ …।  
+दे॒वा आयु॑ष्मन्त॒स्, ते॑ऽमृते॒नायु॑ष्मन्त॒स्, तेन॒ …।  
+[पि॒तर॒ आयु॑ष्मन्त॒स् ते स्व॒धयायु॑ष्मन्त॒स्, तेन॒ …।]
+
+</details>
+</div>
 
 इति आशीर्वचने कृते,  
 श्रीपाद-तीर्थं गृहीत्वा,  
@@ -833,8 +845,8 @@ title = "०५ भोजनम्"
 इत्युपचारान् उत्त्वा,  
 पादौ निपीड्य
 
-> वाजे॑वाजेऽवत वाजिनो नो॒ धने॑षु विप्रा अमृता ऋतज्ञाः ।  
-अ॒स्य मद्ध्वः॑ पिबत मा॒दय॑ध्वन्तृ॒प्ता या॑त प॒थिभि॑र्देव॒यानैः᳚ ॥ [[TODO:परिष्कार्यम्]]
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/038/08_vAjevAje_avata_vAjino.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
 
 इति प्रतिब्राह्मणम् उक्त्वा,
 
@@ -849,4 +861,6 @@ title = "०५ भोजनम्"
 
 विसृष्टाश्च ब्राह्मणाः,
 
-वा॒म॒दे॒वाय॒ नमो᳚ ज्ये॒ष्ठाय॒ नमो॑ रु॒द्राय॒ नमः॒ काला॑य॒ नमः॒ कल॑विकरणाय॒ नमो॒ बल॑विकरणाय॒ नमो॒ बल॑प्रमथनाय॒ नम॒स्सर्व॑भूतदमनाय॒ नमो॑ म॒नोन्म॑नाय॒ नमः॑ ॥ (इति मन्त्रं जपेयुः) [[TODO:परिष्कार्यम्]]
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/44_vAmadevAya_namaH/"  newLevelForH1="2" includeTitle="true"> </div>  
+
+(इति मन्त्रं जपेयुः)
