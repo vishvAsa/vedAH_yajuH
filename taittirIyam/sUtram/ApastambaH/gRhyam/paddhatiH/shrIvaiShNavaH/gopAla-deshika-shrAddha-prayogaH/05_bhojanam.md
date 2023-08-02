@@ -791,7 +791,7 @@ title = "०५ भोजनम्"
 <div class="js_include" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/29/48_suparNaM_vaste.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
-<div class="js_include" url="/vedAH/prakIrNaH/devaH/classes/pitaraH/brAhmaNam/aShTAv_aSThAu"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/brAhmaNam/sarva-prastutiH/5/4/11/aShTAv_aShTau.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 इत्य् उपस्थाय -  

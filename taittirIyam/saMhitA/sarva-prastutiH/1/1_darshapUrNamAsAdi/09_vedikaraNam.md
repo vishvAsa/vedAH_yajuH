@@ -126,7 +126,7 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अप॑हतो॒ ऽररु॑ᳶ पृथि॒व्यै  ।  
+अप॑हतो॒ ऽररुᳶ॑ पृथि॒व्यै  ।  
 +++('अररुर्वै नामासुर आसीत्' (तै.ब्रा. 3.2.9) इत्यादिब्राह्मणप्रसिद्धः असुरविशेषोऽररुः, अरणशीलः गूढचारी ।)+++
 </details>
 
@@ -137,7 +137,7 @@ Araru is smitten away from the earth.
 
 <details><summary>मूलम्</summary>
 
-अप॑हतो॒ऽररु॑ᳶ पृथि॒व्यै  ।
+अप॑हतो॒ऽररुᳶ॑ पृथि॒व्यै  ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -156,7 +156,7 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अप॑हतो॒ऽररु॑ᳶ पृथि॒व्यै दे॑व॒यज॑न्यै।  
+अप॑हतो॒ऽररुᳶ॑ पृथि॒व्यै दे॑व॒यज॑न्यै।  
 +++(प्रथमप्रहारेण देवयजनीकृता सा।)+++
 </details>
 
@@ -169,7 +169,7 @@ Araru is smitten away from the earth, the place of sacrifice.
 
 <details><summary>मूलम्</summary>
 
-अप॑हतो॒ऽररु॑ᳶ पृथि॒व्यै दे॑व॒यज॑न्यै ।
+अप॑हतो॒ऽररुᳶ॑ पृथि॒व्यै दे॑व॒यज॑न्यै ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -189,7 +189,7 @@ ____
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 
-अप॑हतो॒ऽररु॑ᳶ पृथि॒व्या+++(व्यै)+++ अदे॑वयजनः +++(असुरः)+++।  
+अप॑हतो॒ऽररुᳶ॑ पृथि॒व्या+++(व्यै)+++ अदे॑वयजनः +++(असुरः)+++।  
 </details>
 
 <details><summary>Keith</summary>
@@ -211,7 +211,7 @@ Araru is smitten away from the earth, he that sacrifices not to the gods.
 
 <details><summary>मूलम्</summary>
 
-अप॑हतो॒ऽररु॑ᳶ पृथि॒व्या  +++(व्यैै)+++ अदे॑वयजनः +++(असुरः)+++  ।
+अप॑हतो॒ऽररुᳶ॑ पृथि॒व्या  +++(व्यैै)+++ अदे॑वयजनः +++(असुरः)+++  ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

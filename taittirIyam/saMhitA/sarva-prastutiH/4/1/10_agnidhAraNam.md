@@ -341,12 +341,12 @@ title = "१० अग्निधारणम्"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दिव॑ङ्गच्छ॒ सुव॑ᳶ पत ॥ [42]  
+दिव॑ङ्गच्छ॒ सुवᳶ॑ पत ॥ [42]  
 </details>
 
 <details><summary>मूलम्</summary>
 
-दिव॑ङ्गच्छ॒ सुव॑ᳶ पत ॥ [42]  
+दिव॑ङ्गच्छ॒ सुवᳶ॑ पत ॥ [42]  
 </details>
 
 <details><summary>सायणटीका</summary>

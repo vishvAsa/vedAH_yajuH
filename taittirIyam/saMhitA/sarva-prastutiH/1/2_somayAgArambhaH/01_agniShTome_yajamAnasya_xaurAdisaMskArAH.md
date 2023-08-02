@@ -140,7 +140,7 @@ ________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आपो॑ अ॒स्मान् मा॒तर॑श् शुन्धन्तु।+++(र४)+++  
-घृ॒तेन॑ नो घृत॒-पुव॑ᳶ+++(→घृतपावकाः)+++ पुनन्तु ।
+घृ॒तेन॑ नो घृत॒-पुवᳶ॑+++(→घृतपावकाः)+++ पुनन्तु ।
 </details>
 
 <details><summary>Keith</summary>
@@ -152,7 +152,7 @@ With ghee let those that purify our ghee purify us.
 <details><summary>मूलम्</summary>
 
 आपो॑ अ॒स्मान्मा॒तर॑श्शुन्धन्तु।  
-घृ॒तेन॑ नो घृत॒पुव॑ᳶ पुनन्तु ।
+घृ॒तेन॑ नो घृत॒पुवᳶ॑ पुनन्तु ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

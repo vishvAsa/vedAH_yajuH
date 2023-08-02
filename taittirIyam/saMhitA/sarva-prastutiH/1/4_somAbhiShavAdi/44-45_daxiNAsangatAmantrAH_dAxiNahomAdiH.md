@@ -71,7 +71,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दिव॑ङ् गच्छ॒ सुव॑ᳶ पत ।
+दिव॑ङ् गच्छ॒ सुवᳶ॑ पत ।
 </details>
 
 <details><summary>Keith</summary>
@@ -81,7 +81,7 @@ Go to the sky, fly to heaven.
 
 <details><summary>मूलम्</summary>
 
-दिव॑ङ्गच्छ॒ सुव॑ᳶ पत ।
+दिव॑ङ्गच्छ॒ सुवᳶ॑ पत ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
