@@ -5,13 +5,20 @@ title = "२१ ०९ भुक्तवतोऽनुव्रज्य"
 तेषूत्तरैरपो दत्त्वा  
 
 +++(दर्भेष्व् अपो ददाति)+++  
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/02-07_mArjayantAm_mama.md">
-<details open><summary><h2>०२-०७ मार्जयन्ताम् मम ...{Loading}...</h2></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/02-04_mArjayantAm_mama_pitaraH.md">
+<details open=""><summary><h5>०२-०७ मार्जयन्ताम् मम ...{Loading}...</h5></summary>
 
 
-मा॒र्जय॑न्तां॒ मम॑ पि॒तरो॑, मा॒र्जय॑न्तां॒ मम॑ पिताम॒हा मा॒र्जय॑न्तां॒ मम॑ प्रपिताम॒हाः ।  
-मा॒र्जय॑न्तां॒ मम॑ मा॒तरो॑, मा॒र्जय॑न्तां॒ मम॑ पिताम॒ह्यो॑, मा॒र्जय॑न्तां॒ मम॑ प्रपिताम॒ह्यः॑ ।  
+मा॒र्जय॑न्तां॒ मम॑ पि॒तरो॑, मा॒र्जय॑न्तां॒ मम॑ पिताम॒हा मा॒र्जय॑न्तां॒ मम॑ प्रपिताम॒हाः ।
+</details>
+</div>
 
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/05-07_mArjayantAm_mama_mAtaraH.md">
+<details open=""><summary><h5>०२-०७ मार्जयन्ताम् मम ...{Loading}...</h5></summary>
+
+
+मा॒र्जय॑न्तां॒ मम॑ मा॒तरो॑, मा॒र्जय॑न्तां॒ मम॑ पिताम॒ह्यो॑, मा॒र्जय॑न्तां॒ मम॑ प्रपिताम॒ह्यः॑ ।
 </details>
 </div>
 
