@@ -412,7 +412,7 @@ title = "०५ भक्षानुवाकः"
 </details>
 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/taittirIyam/saMhitA/sarva-prastutiH/3/2/05_bhaxAnuvAkaH/namo_vaH.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sarva-prastutiH/3/2/05_bhaxAnuvAkaH/namo_vaH.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
