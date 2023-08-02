@@ -21,7 +21,7 @@ title = "०४ होमः"
 अन्यत् निदधाति,  
 उदग् वा ।
 
-<div class="js_include" url="/devaH/AryaH/hindukaH/classes/pitraH/Rk/ye_pArthivAsaH"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/devaH/AryaH/hindukaH/classes/pitaraH/Rk/ye_pArthivAsaH"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 इति सव्यानामिकाङ्गुष्ठाभ्यां दक्षिणतो भुवं स्पृष्ट्वा,
@@ -190,7 +190,7 @@ title = "०४ होमः"
 (इति पूर्ववद् आपृच्छ्य)  
 'आवाहय' (इत्य् अनुज्ञातः)
 
-<div class="js_include" url="/devaH/AryaH/hindukaH/classes/pitraH/Rk/AyAta_pitaraH/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/devaH/AryaH/hindukaH/classes/pitaraH/Rk/AyAta_pitaraH/"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 > ... गोत्रस्य ....शर्मणः पितुः प्रत्याब्दिकश्राद्धे   

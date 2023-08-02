@@ -783,14 +783,16 @@ title = "०५ भोजनम्"
 
 [[137]]
 
-> स्वा॒दुषँ॒सदः॑ पि॒तरो॑ वयो॒धाः कृ॑च्छ्रे॒श्रितः॒ शक्ती॑वन्तो गभी॒राः ।  
-चि॒त्रसे॑ना॒ इषु॑बला॒ अमृ॑द्ध्रास्स॒तोवी॑रा उ॒रवो᳚ व्रातसा॒हाः ।  
-ब्राह्म॑णासः॒ पित॑रः॒ सोम्या॑सः शि॒वे नो॒ द्यावा॑पृथि॒वी अ॑ने॒हसा᳚ ।  
-पू॒षा नः॑ पातु दुरि॒तादृ॑तावृधो॒ रक्षा॒ माकि॑र्नो अ॒घशँ॑स ईशत ।  
-सु॒प॒र्णं व॑स्ते मृ॒गो अ॑स्या॒ दन्तो॒ गोभिः॒ सन्न॑द्धा पतति॒ प्रसू॑ता ।  
-यत्रा॒ नरः॒ सञ्च॒ वि च॒ द्रव॑न्ति॒ तत्र॒स्मभ्य॒मिष॑वः॒ शर्म॑ यँसन्न् ॥ [[TODO:परिष्कार्यम्]]
->
-> अ॒ष्टाव॑ष्टाव॒न्येषु॒ धिष्णि॑ये॒षूप॑ दधात्य॒ष्टाश॑फाः प॒शवः॑ प॒शूने॒वाव॑रुन्धे॒ षण्मा᳚र्जा॒लीये॒ षड्वा ऋ॒तव॑ ऋ॒तवः॒ खलु॒ वै दे॒वाः पि॒तर॑ ऋ॒तूने॒व दे॒वान् पि॒तॄन् प्री॑णाति ॥
+<div class="js_include" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/29/46_svAduShaM_sadaH.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+
+<div class="js_include" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/29/47_brAhmaNAsaH_pitaraH.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/29/48_suparNaM_vaste.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+
+<div class="js_include" url="/vedAH_yajuH/AryaH/hindukaH/classes/pitaraH/brAhmaNam/aShTAv_aSThAu"  newLevelForH1="5" includeTitle="false"> </div>  
+
 
 इत्य् उपस्थाय -  
 **उपवीती** - प्रदक्षिणीकृत्य प्रणम्योत्थाय,
