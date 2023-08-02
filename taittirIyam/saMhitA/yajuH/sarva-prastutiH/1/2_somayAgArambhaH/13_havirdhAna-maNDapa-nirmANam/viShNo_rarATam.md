@@ -73,7 +73,7 @@ Ye two are the corners' of Visnu's mouth.
 
 <details><summary>मूलम्</summary>
 
-विष्णो॒श्श्नप्त्रे᳚ स्थः ।
+विष्णो॒श्श्ञप्त्रे᳚ स्थः ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
