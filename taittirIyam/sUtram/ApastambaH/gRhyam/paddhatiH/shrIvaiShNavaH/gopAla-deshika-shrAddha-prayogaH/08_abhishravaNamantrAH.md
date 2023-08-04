@@ -88,11 +88,28 @@ title = "०८ अभिश्रवणमन्त्राः"
 
 सोमभक्षमन्त्राः (तै. सं. ३-२-५)
 
-....आ॒पूर्या॒स्स्थाऽऽमा॑ पू॒रयत प्र॒जया॑ च॒ धने॑न च ॥  
-ए॒तत्ते॑ तत॒ ये च॒ त्वामन्वे॒तत्ते॑ पितामह प्रपितामह॒ ये च त्वाम॒न्वत्र॑ पितरो यथाभा॒गं म॑न्दद्ध्वं॒,  
-नमो॑ वः पितरो॒ रसा॑य॒ नमो॑ वः पितर॒श्शुष्मा॑य॒ नमो॑ वः पितरो जी॒वाय॒ नमो॑ वः पितरस्स्व॒धायै॒ नमो॑ वः पितरो म॒न्यवे॒ नमो॑ वः पित॑रो॒ घो॒राय॒ पित॑रो नमो॑ वो॒ य ए॒तस्मि॑न्ल्लो॒के स्थ यु॒ष्माँस्तेऽनु॒ ये᳚ऽस्मिन्ल्लो॒के मान्तेऽनु॒ य ए॒तस्मि॑न्ल्लो॒के स्थ यू॒यन्तेषां॒ वसि॑ष्ठा भूयास्त॒ ये᳚ऽस्मिन्ल्लो॒के॑ऽहन्तेषां॒ वसि॑ष्ठो भूयासं॒, प्रजा॑पते॒ न त्वदे॒तान्य॒न्यो विश्वा॑ जा॒तानि॒ परि॒ ता ब॑भूव ।  
-यत्का॑मास्ते जुहु॒मस्तन्नो॑ अस्तु॒ व॒यँस्या॑म॒ पत॑यो रयी॒णाम् ॥  
-देवकृ॑त॒स्यैन॑सोऽव॒यज॑न॒मसि, मनु॒ष्य॑कृत॒स्यैन॑सोऽव॒यज॑नमसि, पि॒तृकृ॑त॒स्यैन॑सोऽव॒यज॑न॒मस्य॒फ्सु धौ॒तस्य॑ सोमदेव ते॒ नृभि॑स्सु॒तस्ये॒ष्टजुषस्स्तु॒तस्तो॑म॒स्य श॒स्तोक्थ॑स्य॒ यो भ॒ख्षो अ॑श्व॒सनि॒र्यो गो॒सनि॒स्तस्य॑ ते पि॒तृभि॑र्भ॒ख्षङ्कृ॑त्त॒स्योप॑हूत॒स्योप॑हूतो भख्षयामि ॥ [[TODO:परिष्कार्यम्??]]
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आ॒पूर्या॑स् स्थ,  
++आ मा॑ पूरयत प्र॒जया॑ च॒ धने॑न च ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+आ॒पूर्या॒स्स्था मा॑ पूरयत प्र॒जया॑ च॒ धने॑न च ।
+</details>
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/etat_te_tata.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sarva-prastutiH/3/2/05_bhaxAnuvAkaH/namo_vaH.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_22/19_prajApate_na.md"  newLevelForH1="2" includeTitle="false"> </div>
+
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/3/2/05_bhaxAnuvAkaH/devakRtasyainasaH.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/3/2/05_bhaxAnuvAkaH/apsu_dhautasya.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 [[149]]
 
