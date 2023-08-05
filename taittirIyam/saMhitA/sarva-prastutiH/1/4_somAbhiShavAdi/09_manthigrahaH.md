@@ -54,7 +54,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ष ते᳚ योनि॑ᳶ, प्र॒जाᳶ पा॑हि ॥ [10]  
+ए॒ष ते᳚ योनिᳶ॑, प्र॒जाᳶ पा॑हि ॥ [10]  
 </details>
 
 <details><summary>Keith</summary>
@@ -65,7 +65,7 @@ This is thy birth place; guard offspring.
 
 <details><summary>मूलम्</summary>
 
-ए॒ष ते᳚ योनि॑ᳶ प्र॒जाᳶ पा॑हि ॥ [10]  
+ए॒ष ते᳚ योनिᳶ॑ प्र॒जाᳶ पा॑हि ॥ [10]  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

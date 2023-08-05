@@ -484,7 +484,7 @@ verily he becomes rich in cattle-
 </details>
 
 
-## सा न॑ᳶ प्रि॒या
+## सा नᳶ॑ प्रि॒या
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्र॒ह्म॒वा॒दिनो॑ वदन्ति -  
@@ -514,7 +514,7 @@ The theologians say, 'He would invoke the Ida indeed who in invoking the Ida sho
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"सा न॑ᳶ प्रि॒या, सु॒प्रतू᳚र्तिर्, म॒घोनी"त्य् आह।  
+"सा नᳶ॑ प्रि॒या, सु॒प्रतू᳚र्तिर्, म॒घोनी"त्य् आह।  
 इडा॑म् ए॒वोप॒हूया॒ऽऽत्मान॒म् इडा॑या॒म् उप॑ ह्वयते ।  
 </details>
 
@@ -526,7 +526,7 @@ The theologians say, 'He would invoke the Ida indeed who in invoking the Ida sho
 
 <details><summary>मूलम्</summary>
 
-सा न॑ᳶ प्रि॒या सु॒प्रतू᳚र्तिर्म॒घोनीत्याह।  
+सा नᳶ॑ प्रि॒या सु॒प्रतू᳚र्तिर्म॒घोनीत्याह।  
 इडा॑मे॒वोप॒हूया॒ऽऽत्मान॒मिडा॑या॒मुप॑ ह्वयते ।  
 </details>
 

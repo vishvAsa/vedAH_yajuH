@@ -426,7 +426,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पृ॒थि॒व्यास् स॒म्पृच॑ᳶ पाहि ।
+पृ॒थि॒व्यास् स॒म्पृचᳶ॑ पाहि ।
 </details>
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/pRthivyAH.md"  newLevelForH1="5" includeTitle="false"> </div>
@@ -434,7 +434,7 @@ _______
 
 <details><summary>मूलम्</summary>
 
-पृ॒थि॒व्यास्स॒म्पृच॑ᳶ पाहि ।
+पृ॒थि॒व्यास्स॒म्पृचᳶ॑ पाहि ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
