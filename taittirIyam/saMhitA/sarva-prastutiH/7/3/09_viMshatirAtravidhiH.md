@@ -58,20 +58,26 @@ title = "०९ विंशतिरात्रविधिः"
 
 ## विधानम्
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/brAhmaNam/sarva-prastutiH/7/3/05_anyash_chaturdasharAtraH/jyotir_gaur_AyuH.md">
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/brAhmaNam/sarva-prastutiH/7/3/09_viMshatirAtravidhiH/jyotir_gaur_Ayur_iti_tryahAH.md">
 <details open><summary><h3>ज्योतिर् गौर् आयुः ...{Loading}...</h3></summary>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ज्योति॒र् गौर् आयु॒र् इति॑ त्र्य॒हो भ॑वति ।  
-इ॒यव्ँ वाव ज्योति॑र्, अ॒न्तरि॑ख्ष॒ङ् गौर्, अ॒साव् आयुः॑ ।  
+ज्योति॒र् गौर् आयु॒र् इति॑ त्र्य॒हा भ॑वन्ति।  
+इ॒यव्ँ वाव ज्योति॑र्, अ॒न्तरि॑ख्ष॒ङ् गौर्, अ॒साव् आयुः॑।
 </details>
 
+<details><summary>मूलम्</summary>
 
+ज्योति॒र्गौरायु॒रिति॑ त्र्य॒हा भ॑वन्ती॒यव्ँवाव ज्योति॑र॒न्तरि॑ख्ष॒ङ्गौर॒सावायु॑
+</details>
 
-(ज्योतिस्स्वरूपम् ७.१ इत्यत्र प्रतिपादितम्। १९० स्तोत्रियम्।  
+<details><summary>विश्वास-टिप्पनी</summary>
+
+ज्योतिस्स्वरूपम् ७.१ इत्यत्र प्रतिपादितम्। १९० स्तोत्रियम्।  
 गौः - खलु पञ्चदशो बहिष्पवमानः, त्रिवृन्त्य् आज्यानि, सप्तदशं माध्यन्दिनं सवनं, सर्वैकविंशं तृतीयसवनं सोक्थ्यमिति । २४१-स्तोत्रिया। क्थम्??  
-आयुः - त्रिवृत् बहिष्पवमानं, पञ्चदशाज्यानि, सर्वसप्तदशं माध्यन्दिनं, सर्वैकविंशं तृतीयसवनं सोक्थ्यमिति । २५९-स्तोत्रियम्। कथम्??)
+आयुः - त्रिवृत् बहिष्पवमानं, पञ्चदशाज्यानि, सर्वसप्तदशं माध्यन्दिनं, सर्वैकविंशं तृतीयसवनं सोक्थ्यमिति । २५९-स्तोत्रियम्। कथम्??
+</details>
 </details>
 </div>  
 
