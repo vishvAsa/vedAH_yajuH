@@ -106,7 +106,7 @@ unicode_script = "devanagari"
 प्र॒ति॒वे॒शो॑सि॒, प्र मा॑ भाहि॒, प्र मा॑ पद्यस्व ॥
 
 ## व्याहृतिभावः
-सायणटीका [ऽत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_036_Taittiriya_Aranyakam_With_Sayana_Bhashya_Part_1_-_Babasastri_Phadke_1898#page/n505/mode/2up) ।
+सायण-टीका [ऽत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_036_Taittiriya_Aranyakam_With_Sayana_Bhashya_Part_1_-_Babasastri_Phadke_1898#page/n505/mode/2up) ।
 
 भूर् भुव॒स् सुव॒र् इति॒ वा ए॒तास् ति॒स्रो व्याहृ॑तयः ।  
 तासा॑म् उ ह स्मै॒ताञ् च॑तु॒र्थीम् माहा॑चमस्यः॒ प्रवे॑दयते । मह॒ इति॑ । तद्ब्रह्म॑ । स आ॒त्मा । अङ्गा॑न्य॒न्या दे॒वताः॑ । 

@@ -13,7 +13,7 @@ title = "०६ चित्यग्नौ होममन्त्राः"
 नमो᳚ ज्ये॒ष्ठाय॑ च कनि॒ष्ठाय॑ च ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 (अथ चतुर्थाष्ठके पञ्चमप्रपाठके षष्ठोऽनुवाकः)।  
 पञ्चमेऽनुवाके कानिचिदन्यतरतोनमस्काराणि यजूंष्युक्तानि।  
@@ -31,7 +31,7 @@ title = "०६ चित्यग्नौ होममन्त्राः"
 नमो᳚ ज्ये॒ष्ठाय॑ च
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 विद्यैश्वर्यादिभिरधिको ज्येष्ठः।  
 </details>
@@ -46,7 +46,7 @@ title = "०६ चित्यग्नौ होममन्त्राः"
 क॒नि॒ष्ठाय॑ च +++(नमः)+++।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 तै रहितोऽल्पः कनिष्ठः।    
 </details>
@@ -66,7 +66,7 @@ title = "०६ चित्यग्नौ होममन्त्राः"
 नमᳶ॑ पूर्व॒जाय॑ च  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 पूर्वं जगदादौ हिरण्यगर्भरूपेणोत्पन्नः पूर्वजः।   
 </details>
@@ -81,7 +81,7 @@ title = "०६ चित्यग्नौ होममन्त्राः"
 अ॒प॒र॒जाय॑ च  +++(नमः)+++।
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 अपरस्मिञ्जगदवसानकाले सहर्तुं कालाग्न्यादिरूपेणोत्पन्नोऽपरजः।   
 </details>
@@ -101,7 +101,7 @@ title = "०६ चित्यग्नौ होममन्त्राः"
 नमो॑ मध्य॒माय॑ च  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 मध्यकाले देवतिर्यगादिरूपेणोत्पन्नो मध्यमः ।
 </details>
@@ -116,7 +116,7 @@ title = "०६ चित्यग्नौ होममन्त्राः"
 अ॒प॒ग॒ल्भाय॑ च +++(नमः)+++।
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 अपगल्मोऽपरूढेन्द्गियो बालः।      
 </details>
@@ -136,7 +136,7 @@ title = "०६ चित्यग्नौ होममन्त्राः"
 नमो॑ जघ॒न्या॑य च
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 जघने गवादीनां पश्चाद्भागे वत्सादिरूपेण भवो जघन्यः।      
 </details>
@@ -151,7 +151,7 @@ title = "०६ चित्यग्नौ होममन्त्राः"
 बुध्नि॑याय च +++(नमः)+++।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 बुघ्ने वृक्षादीनां मूले शाखादिरूपेणोत्पन्नो बुघ्नियः।      
 </details>
@@ -171,7 +171,7 @@ title = "०६ चित्यग्नौ होममन्त्राः"
 नम॑स्सो॒भ्या॑य च
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 उभाम्यां पुण्यपापाभ्यां सह वर्तत इति सोमो मनुष्यलोकः।  
 अत एवाऽऽथर्वणिका आमनन्ति “पुण्येन पुण्यं लोकं जयति पापेन पापमुभाभ्यामेव मनुष्य लोकम्’ इति।  
@@ -188,7 +188,7 @@ title = "०६ चित्यग्नौ होममन्त्राः"
 प्र॒ति॒सर्या॑य च  +++(नमः)+++।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 प्रतिसरो विवाहादौ हस्ते धार्यमाणो रक्षा बन्धस्तमर्हतीति प्रतिसर्यः।   
 </details>
@@ -208,7 +208,7 @@ title = "०६ चित्यग्नौ होममन्त्राः"
 नमो॒  याम्या॑य च
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 यमलोके पापिशिक्षकरूपेणोत्पन्नो याम्यः।   
 </details>
@@ -223,7 +223,7 @@ title = "०६ चित्यग्नौ होममन्त्राः"
 ख्षेम्या॑य च +++(नमः)+++।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 क्षेमो  
 २१२७ मोक्षस्तमर्हतीति क्षेम्यः।
@@ -244,7 +244,7 @@ title = "०६ चित्यग्नौ होममन्त्राः"
 नम॑ उर्व॒र्या॑य च
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 उर्वरा सर्वसस्याढ्या भूमिस्तामर्हसि धान्यविशेषरूपेणे त्युर्वर्यः।      
 </details>
@@ -259,7 +259,7 @@ title = "०६ चित्यग्नौ होममन्त्राः"
 खल्या॑य च +++(नमः)+++।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 खला धान्यविवेचनदेशस्तमर्हसि मेढ्यादिरूदेणेति खेल्यः।     
 </details>
@@ -279,7 +279,7 @@ title = "०६ चित्यग्नौ होममन्त्राः"
 नम॒श्श्लोक्या॑य च
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 श्लोका वैदिकमन्त्रास्तत्प्रतिपाद्यत्वेन तत्र भवः श्लोक्यः।   
 </details>
@@ -294,7 +294,7 @@ title = "०६ चित्यग्नौ होममन्त्राः"
 अ॒व॒सा॒न्या॑य च +++(नमः)+++।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 अवसानं वेदान्तस्तत्प्रतिपाद्यत्वेन तत्र भवोऽवसान्यः।   
 </details>
@@ -304,12 +304,12 @@ title = "०६ चित्यग्नौ होममन्त्राः"
 नमो॒  वन्या॑य च॒ कख्ष्या॑य च  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 नमो॒  वन्या॑य च
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 वने वृक्षादिरूपेण भवो वन्यः।   
 </details>
@@ -324,7 +324,7 @@ title = "०६ चित्यग्नौ होममन्त्राः"
 कख्ष्या॑य च +++(नमः)+++।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 कक्षे लतादिरूपेण भवः कक्ष्यः।   
 </details>
@@ -344,7 +344,7 @@ title = "०६ चित्यग्नौ होममन्त्राः"
 नम॑श्श्र॒वाय॑ च
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 श्रूयत इति श्रवः शब्दः।   
 </details>
@@ -359,7 +359,7 @@ title = "०६ चित्यग्नौ होममन्त्राः"
 प्र॒ति॒श्र॒वाय॑ च  +++(नमः)+++।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 प्रतिश्रवः प्रतिध्वनिः।   
 </details>
@@ -379,7 +379,7 @@ title = "०६ चित्यग्नौ होममन्त्राः"
 नम॑ आ॒शुषे॑णाय च
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 आशुः शीघ्रं गामिनी सेना यस्यासावाशुषेणः।  
 </details>
@@ -394,7 +394,7 @@ title = "०६ चित्यग्नौ होममन्त्राः"
 आ॒शुर॑थाय च+++(नमः)+++।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 आशुः शीघ्रगामी रथो यस्यासावाशुरथः।   
 </details>
@@ -414,7 +414,7 @@ title = "०६ चित्यग्नौ होममन्त्राः"
 नम॒श्शूरा॑य च
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 शूरो युद्धे धैर्यवान्।   
 </details>
@@ -429,7 +429,7 @@ title = "०६ चित्यग्नौ होममन्त्राः"
 अ॒व॒भि॒न्द॒ते  च +++(नमः)+++।
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 अवभिन्दन्वैरिणां प्रहर्ता।   
 </details>
@@ -449,7 +449,7 @@ title = "०६ चित्यग्नौ होममन्त्राः"
 नमो॑ व॒र्मिणे॑ च
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 वर्मी कञ्चुकोपेतः।  
 </details>
@@ -464,7 +464,7 @@ title = "०६ चित्यग्नौ होममन्त्राः"
 व॒रू॒थिने॑ च  +++(नमः)+++।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 वरूथी गृहोपेतः।      
 </details>
@@ -484,7 +484,7 @@ title = "०६ चित्यग्नौ होममन्त्राः"
 नमो॑ बि॒ल्मिने॑ च
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 बिल्मं विलेपेतं युद्धे शिरोरक्षकं तदस्यास्तीति बिल्मी।  
 </details>
@@ -499,7 +499,7 @@ title = "०६ चित्यग्नौ होममन्त्राः"
 क॒व॒चिने॑ च +++(नमः)+++।
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 कवचः शरीररक्षकः सोऽस्यास्तीति कवची।      
 </details>
@@ -519,7 +519,7 @@ title = "०६ चित्यग्नौ होममन्त्राः"
 नम॑श्श्रु॒ताय॑ च
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 श्रुतो वेदेषु प्रसिद्धः।   
 </details>
@@ -534,7 +534,7 @@ title = "०६ चित्यग्नौ होममन्त्राः"
 श्रु॒त॒से॒नाय॑ च +++(नमः)+++॥   
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 श्रुता वेदेषु प्रसिद्धा सेना यस्यासै श्रुतसेनः॥
 

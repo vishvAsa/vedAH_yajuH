@@ -6,7 +6,7 @@ unicode_script = "devanagari"
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-सायणटीका [ऽत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_036_Taittiriya_Aranyakam_With_Sayana_Bhashya_Part_2_-_Babasastri_Phadke_1927#page/n361/mode/2up)। भास्करपाठो [ऽत्र](https://archive.org/details/taittiriya/taittiriya_aranyaka_bhaskara_02/page/n101/mode/2up?view=theater) ।
+सायण-टीका [ऽत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_036_Taittiriya_Aranyakam_With_Sayana_Bhashya_Part_2_-_Babasastri_Phadke_1927#page/n361/mode/2up)। भास्करपाठो [ऽत्र](https://archive.org/details/taittiriya/taittiriya_aranyaka_bhaskara_02/page/n101/mode/2up?view=theater) ।
 </details>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/099_jAtavedase">
 <details open><summary><h2>०९९ जातवेदसे ...{Loading}...</h2></summary>

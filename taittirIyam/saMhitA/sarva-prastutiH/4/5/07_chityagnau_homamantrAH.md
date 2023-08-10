@@ -23,7 +23,7 @@ title = "०७ चित्यग्नौ होममन्त्राः"
 नमो॑ दुन्दु॒भ्या॑य चाहन॒न्या॑य च +++(नमः)+++।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 (अथ चतुर्थाष्टके पञ्चमप्रपाठके सप्तमोऽनुवाकः)।  
 षष्ठेऽनुवाकि यान्यन्यतरतोनमस्काराणि यजूंष्युक्तानि तेभ्योऽन्यानि कानिचिद्यजूंषि सप्तमेऽभिधीयन्ते।  
@@ -47,7 +47,7 @@ title = "०७ चित्यग्नौ होममन्त्राः"
 नमो॑ धृ॒ष्णवे॑ च   
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 घृष्णुर्युद्धे पालयनरहितः।   
 </details>
@@ -62,7 +62,7 @@ title = "०७ चित्यग्नौ होममन्त्राः"
 प्र॒मृ॒शाय॑ च  +++(नमः)+++।
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 प्रमृशः परसैन्यवृत्तान्तपरामर्षकः।   
 </details>
@@ -82,7 +82,7 @@ title = "०७ चित्यग्नौ होममन्त्राः"
 नमो॑ दू॒ताय॑ च ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 दूतस्तद्वृत्तान्तज्ञापनकुशलः।   
 </details>
@@ -97,7 +97,7 @@ title = "०७ चित्यग्नौ होममन्त्राः"
 प्रहि॑ताय च +++(नमः)+++
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 प्रहितः स्वामिना प्रेषितः पुरुषः।   
 </details>
@@ -117,7 +117,7 @@ title = "०७ चित्यग्नौ होममन्त्राः"
 नमो॑ निष॒ङ्गिणे॑ च
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 निषङ्गी खड्गयुक्तः।
 </details>
@@ -132,7 +132,7 @@ title = "०७ चित्यग्नौ होममन्त्राः"
 इ॒षु॒धि॒मते॑ च +++(नमः)+++।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 इषुधि मान्बाणाधारयुक्तः।   
 </details>
@@ -152,7 +152,7 @@ title = "०७ चित्यग्नौ होममन्त्राः"
 नम॑स्ती॒ख्ष्णेष॑वे च
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 तीक्ष्णा इषवो यस्यासौ तीक्ष्णेषुः।   
 </details>
@@ -167,7 +167,7 @@ title = "०७ चित्यग्नौ होममन्त्राः"
 आ॒यु॒धिने॑ च +++(नमः)+++।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 बहून्यायुधानि यस्य सन्तीत्यायुधी।   
 </details>
@@ -187,7 +187,7 @@ title = "०७ चित्यग्नौ होममन्त्राः"
 नम॑स्स्वायु॒धाय॑ च ।
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 शोभनमायुधं त्रिशूलरूपं यस्यासौ स्वायुधः।   
 </details>
@@ -202,7 +202,7 @@ title = "०७ चित्यग्नौ होममन्त्राः"
 सु॒धन्व॑ने च +++(नमः)+++।
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 शोभनं धन्वपिनाकरूपं यस्यासौ सुधन्वा।   
 </details>
@@ -222,7 +222,7 @@ title = "०७ चित्यग्नौ होममन्त्राः"
 नम॒स्स्रुत्या॑य च  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 स्रुतिः पादसंचारमात्रयोग्यः क्षुद्रमार्गस्तमर्हतीति स्रुत्यः।   
 </details>
@@ -237,7 +237,7 @@ title = "०७ चित्यग्नौ होममन्त्राः"
 पथ्या॑य च +++(नमः)+++।
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 पन्या रथाश्वादिसंचारक्षमः प्रौढो मार्गस्तमर्हतीति पथ्यः।   
 </details>
@@ -258,7 +258,7 @@ title = "०७ चित्यग्नौ होममन्त्राः"
 नम॑ᳵ का॒ट्या॑य च +।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 कुत्सितमटति जलमत्रेति काटोऽल्पप्रवाहयोग्यः कुल्याप्रदेशस्तत्र जलरूपेण भवः काट्यः।
 </details>
@@ -273,7 +273,7 @@ title = "०७ चित्यग्नौ होममन्त्राः"
 नी॒प्या॑य च +++(नमः)+++
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 यस्मिंन्प्रदेशे पर्वताग्राज्जलं न्यग्भावेन पतति स प्रदेशो नीपस्तत्र जलरूपेणावस्थितो नीप्यः।   
 </details>
@@ -293,7 +293,7 @@ title = "०७ चित्यग्नौ होममन्त्राः"
 नम॒स्सूद्या॑य च ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 सूदः कर्दमप्रदेशस्तत्रत्यजलरूपः सूद्यः।
 </details>
@@ -308,7 +308,7 @@ title = "०७ चित्यग्नौ होममन्त्राः"
 स॒र॒स्या॑य च +++(नमः)+++
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 सरः प्रसिद्धं, तत्रत्य जलरूपः सरस्यः।   
 </details>
@@ -328,7 +328,7 @@ title = "०७ चित्यग्नौ होममन्त्राः"
 नमो॑ ना॒द्याय॑ च।   
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 नदीगतजलरूपो नाद्यः।   
 </details>
@@ -343,7 +343,7 @@ title = "०७ चित्यग्नौ होममन्त्राः"
 वै॒श॒न्ताय॑ च+++(नमः)+++
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 अल्पसरो वेशन्तस्तत्रत्यजलरूपो वैशन्तः।   
 </details>
@@ -363,7 +363,7 @@ title = "०७ चित्यग्नौ होममन्त्राः"
 नम॒ᳵ कूप्या॑य च।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 कूपस्थजलरूपः कूप्यः।   
 </details>
@@ -378,7 +378,7 @@ title = "०७ चित्यग्नौ होममन्त्राः"
 अ॒व॒ट्या॑य च +++(नमः)+++
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 अवटस्थजलरूपोऽवट्यः।   
 </details>
@@ -399,7 +399,7 @@ title = "०७ चित्यग्नौ होममन्त्राः"
 नमो॒  वर्ष्या॑य च
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 वर्षजलरूपो  
 २१२९ वर्ष्पः।   
@@ -415,7 +415,7 @@ title = "०७ चित्यग्नौ होममन्त्राः"
 अ॒व॒र्ष्याय॑ च +++(नमः)+++।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 वर्षनिरपेक्षजलरूपोऽवर्ष्यः।   
 </details>
@@ -435,7 +435,7 @@ title = "०७ चित्यग्नौ होममन्त्राः"
 नमो॑ मे॒घ्या॑य च ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 मेघेषु स्थितो मेघ्र्यः ।   
 </details>
@@ -450,7 +450,7 @@ title = "०७ चित्यग्नौ होममन्त्राः"
 वि॒द्यु॒त्या॑य च +++(नमः)+++
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 विद्युता सह चरतीति विद्युत्यः।   
 </details>
@@ -470,7 +470,7 @@ title = "०७ चित्यग्नौ होममन्त्राः"
 नम॑ ई॒ध्रिया॑य च ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 ईध्रं निर्मलत्वेन दीप्यमानं शरदभ्नं तत्र भव ईध्रियः।   
 </details>
@@ -485,7 +485,7 @@ title = "०७ चित्यग्नौ होममन्त्राः"
 आ॒त॒प्या॑य च +++(नमः)+++
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 आतपेन सह दृष्ट आतप्यः।   
 </details>
@@ -505,7 +505,7 @@ title = "०७ चित्यग्नौ होममन्त्राः"
 नमो॒  वात्या॑य च ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 वातेन सह वृष्टो वात्यः।   
 </details>
@@ -520,7 +520,7 @@ title = "०७ चित्यग्नौ होममन्त्राः"
 रेष्मि॑याय च +++(नमः)+++
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 रिष्यन्ति विनश्यन्ति भूतान्यत्रेति रेष्भः प्रलयकालस्तत्र भवः शर्करापाषाणादिसहितो वृष्टिजलविशेषो रेष्मियः।  
 </details>
@@ -540,7 +540,7 @@ title = "०७ चित्यग्नौ होममन्त्राः"
 नमो॑ वास्त॒व्या॑य च ।   
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 वस्तु धनं(न)गवाश्वदिपदार्थरूपं तत्र तत्कार्यरूपेणवास्थितो वास्तव्यः।  
 </details>
@@ -555,7 +555,7 @@ title = "०७ चित्यग्नौ होममन्त्राः"
 वा॒स्तु॒पाय॑ च  +++(नमः)+++
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 गृहनिर्माणार्था भूमिर्वास्तु तत्पालको वास्तुपः॥
 
