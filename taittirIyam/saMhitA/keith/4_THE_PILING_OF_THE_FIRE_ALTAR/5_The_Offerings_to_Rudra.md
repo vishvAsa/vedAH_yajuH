@@ -3,40 +3,11 @@ title = "5 The Offerings to Rudra"
 
 +++
 ## 01
-### a
-Homage to thy wrath, O Rudra,  
-To thine arrow homage also;  
-Homage to thy bow,  
-And homage to thine arms.
-### b
-With thy most kindly arrow,  
-And kindly bow,  
-With thy kindly missile,  
-Be gentle to us, O Rudra.
 ### c
-That body of thine, O Rudra, which is kindly, Not dread, with auspicious look,  
-With that body, most potent to heal,  
-O haunter of the mountains, do thou look on us.
 ### d
-The arrow which, O haunter of mountains,  
-In thy hand [1] thou bearest to shoot,  
-That make thou kindly, O guardian of mountains; Harm not the world of men.
 ### e
-With kindly utterance thee  
-We address, O liver on the mountains,  
-That all our folk  
-Be free from sickness and of good cheer.
 ### f
-The advocate hath spoken in advocacy,  
-The first divine leech,  
-Confounding all the serpents  
-And all sorceries.
 ### g
-The dusky, the ruddy,  
-The brown, the auspicious,  
-And the Rudras which in thousands  
-Lie around this (earth) in the quarters [2],  
-Their wrath do we deprecate.
 ### h
 He who creepeth away,  
 Blue-necked and ruddy,  
