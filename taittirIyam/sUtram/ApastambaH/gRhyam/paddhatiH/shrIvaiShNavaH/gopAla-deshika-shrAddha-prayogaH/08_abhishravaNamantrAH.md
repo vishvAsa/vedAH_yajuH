@@ -12,7 +12,7 @@ title = "०८ अभिश्रवणमन्त्राः"
 
 २. श्रीसूक्तम् (पु. २८) 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/khilAni/2/06_shrI-sUktam/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/khilam/2/06_shrI-sUktam/"  newLevelForH1="2" includeTitle="true"> </div>  
 
 
 भूसूक्तम् (पु. ७२) 
@@ -117,13 +117,13 @@ title = "०८ अभिश्रवणमन्त्राः"
 
 १३. एकविंशतिरात्रः (तै. सं. ७-३-१०)
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/7/3/10_ekaviMshatirAtravidhiH.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/7/3/10_ekaviMshatirAtravidhiH"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 ## १४. संवत्सरसत्र-मन्त्राः
 १४. संवत्सर सत्र मन्त्राः (तै. ब्रा. १-२-३)
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/1/2/3_viShuvad-Adi-grahAH.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/1/2/3_viShuvad-Adi-grahAH"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 
@@ -131,13 +131,13 @@ title = "०८ अभिश्रवणमन्त्राः"
 
 काठके (नाचिकेतानि ध्यानम्) (२ - ७, ८, ९)
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/kAThakam/sarva-prastutiH/2/07_1.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/kAThakam/sarva-prastutiH/2/07_1"  newLevelForH1="5" includeTitle="false"> </div>  
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/kAThakam/sarva-prastutiH/2/07_2.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/kAThakam/sarva-prastutiH/2/07_2"  newLevelForH1="5" includeTitle="false"> </div>  
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/kAThakam/sarva-prastutiH/2/07_3.md"  newLevelForH1="5" includeTitle="false"> </div>  
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/kAThakam/sarva-prastutiH/2/07_4.md"  newLevelForH1="5" includeTitle="false"> </div>  
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/kAThakam/sarva-prastutiH/2/07_5.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/kAThakam/sarva-prastutiH/2/07_3"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/kAThakam/sarva-prastutiH/2/07_4"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/kAThakam/sarva-prastutiH/2/07_5"  newLevelForH1="5" includeTitle="false"> </div>  
 
 [[152]]
 
@@ -145,33 +145,33 @@ title = "०८ अभिश्रवणमन्त्राः"
 
 नाचिकेतोपाख्यानम्
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/kAThakam/sarva-prastutiH/2/08_1.md"  newLevelForH1="5" includeTitle="false"> </div>  
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/kAThakam/sarva-prastutiH/2/08_2.md"  newLevelForH1="5" includeTitle="false"> </div>  
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/kAThakam/sarva-prastutiH/2/08_3.md"  newLevelForH1="5" includeTitle="false"> </div>  
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/kAThakam/sarva-prastutiH/2/08_4.md"  newLevelForH1="5" includeTitle="false"> </div>  
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/kAThakam/sarva-prastutiH/2/08_5.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/kAThakam/sarva-prastutiH/2/08_1"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/kAThakam/sarva-prastutiH/2/08_2"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/kAThakam/sarva-prastutiH/2/08_3"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/kAThakam/sarva-prastutiH/2/08_4"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/kAThakam/sarva-prastutiH/2/08_5"  newLevelForH1="5" includeTitle="false"> </div>  
 
 ## नाचिकेताग्नि-प्रयोगविधिः
 
 नाचिकेताग्निप्रयोगः
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/kAThakam/sarva-prastutiH/2/09_1.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/kAThakam/sarva-prastutiH/2/09_1"  newLevelForH1="5" includeTitle="false"> </div>  
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/kAThakam/sarva-prastutiH/2/09_2.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/kAThakam/sarva-prastutiH/2/09_2"  newLevelForH1="5" includeTitle="false"> </div>  
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/kAThakam/sarva-prastutiH/2/09_3.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/kAThakam/sarva-prastutiH/2/09_3"  newLevelForH1="5" includeTitle="false"> </div>  
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/kAThakam/sarva-prastutiH/2/09_4.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/kAThakam/sarva-prastutiH/2/09_4"  newLevelForH1="5" includeTitle="false"> </div>  
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/kAThakam/sarva-prastutiH/2/09_5.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/kAThakam/sarva-prastutiH/2/09_5"  newLevelForH1="5" includeTitle="false"> </div>  
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/kAThakam/sarva-prastutiH/2/09_6.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/kAThakam/sarva-prastutiH/2/09_6"  newLevelForH1="5" includeTitle="false"> </div>  
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/kAThakam/sarva-prastutiH/2/09_7.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/kAThakam/sarva-prastutiH/2/09_7"  newLevelForH1="5" includeTitle="false"> </div>  
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/kAThakam/sarva-prastutiH/2/09_8.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/kAThakam/sarva-prastutiH/2/09_8"  newLevelForH1="5" includeTitle="false"> </div>  
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/kAThakam/sarva-prastutiH/2/09_9.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/kAThakam/sarva-prastutiH/2/09_9"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 
@@ -188,7 +188,7 @@ title = "०८ अभिश्रवणमन्त्राः"
 
 ## २१. अन्नसूक्तम्
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/2/8/8_01-08_ahamasmi_prathamajA.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/2/8/8_01-08_ahamasmi_prathamajA"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 [[156]]
