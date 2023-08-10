@@ -82,7 +82,7 @@ title = "०८ अभिश्रवणमन्त्राः"
 
 ११. महापितृयज्ञे हौत्रमन्त्राः (तै. सं. २-६-१२)
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/2/6/12_pitRyajna-hautramantrAH.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/2/6/12_pitRyajna-hautramantrAH"  newLevelForH1="5" includeTitle="false"> </div>  
 
 ## १२. सोमभक्ष-मन्त्राः
 
@@ -102,7 +102,7 @@ title = "०८ अभिश्रवणमन्त्राः"
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/etat_te_tata.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sarva-prastutiH/3/2/05_bhaxAnuvAkaH/namo_vaH.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/3/2/05_bhaxAnuvAkaH/namo_vaH.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_22/19_prajApate_na.md"  newLevelForH1="2" includeTitle="false"> </div>
 

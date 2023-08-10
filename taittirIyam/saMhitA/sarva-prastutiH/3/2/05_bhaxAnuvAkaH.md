@@ -388,7 +388,7 @@ title = "०५ भक्षानुवाकः"
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/etat_te_tata.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sarva-prastutiH/3/2/05_bhaxAnuvAkaH/namo_vaH.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/taittirIyam/saMhitA/yajuH/sarva-prastutiH/3/2/05_bhaxAnuvAkaH/namo_vaH.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
