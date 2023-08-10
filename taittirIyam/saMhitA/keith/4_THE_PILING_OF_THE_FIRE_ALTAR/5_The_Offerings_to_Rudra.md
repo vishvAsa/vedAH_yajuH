@@ -2,11 +2,6 @@
 title = "5 The Offerings to Rudra"
 
 +++
-## 02
-
-### m
-
-### n
 
 ## 03
 ### a
