@@ -56,7 +56,7 @@ title = "०५ भोजनम्"
 आदित्याभिमुखम् आसने उपविश्य,  
 गो-घृत-मिश्र-गोमयेन पाद-पृष्ठम् अनुलिप्य,
 
-<div  class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/Rk/vishvAsa-prastutiH/10/009/04_shaM_no.md">
+<div  class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/04_shaM_no.md">
 <details open=""><summary><h4>०४ शं नो ...{Loading}...</h4></summary>
 
 
@@ -136,7 +136,7 @@ title = "०५ भोजनम्"
 
 **प्राचीनावीती**
 
-<div class="js_include" url="/vedAH/prakIrNaH/devaH/classes/raxAMsi/Rk/apahatA_asurA"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/prakIrNaH/devaH/classes/raxAMsi/Rk/apahatA_asurA.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/015/01_udIratAmavara_utparAsa.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
@@ -193,7 +193,7 @@ title = "०५ भोजनम्"
 (देवब्राह्मणोपचारं सर्वम् उदङ्मुखः कुर्यात् ।  
 पित्र्यं दक्षिणामुखः कुर्यात् ।)
 
-<div class="js_include" url="/devaH/AryaH/hindukaH/classes/pAdapAH/Rk/oShadhayaH_pratimodadhvam"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH/prakIrNaH/devaH/classes/pAdapAH/Rk/oShadhayaH_pratimodadhvam.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 इति मन्त्रेण  
@@ -334,7 +334,7 @@ title = "०५ भोजनम्"
 
 इति सव्येन पात्रमालभ्य दक्षिणेन ब्राह्मणहस्तं गृहीत्वा, अन्नं सर्वं स्पर्शयित्वा 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/022/17_idaM_viShNurvi.md"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/022/17_idaM_viShNurvi.md"  newLevelForH1="2" includetitle="false"> </div>  
 
 > विष्णो! हव्यँ रक्ष
 
@@ -558,7 +558,7 @@ title = "०५ भोजनम्"
 
 (मधुत्रयम्)
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/10_3_madhu.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/10_3_madhu"  newLevelForH1="5" includeTitle="false"> </div>  
 
 > (ओं मधु॒ मधु॒ मधु॑ ॥)
 
@@ -861,6 +861,6 @@ title = "०५ भोजनम्"
 
 विसृष्टाश्च ब्राह्मणाः,
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/44_vAmadevAya_namaH/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/44_vAmadevAya_namaH/"  newLevelForH1="2" includetitle="false"> </div>  
 
 (इति मन्त्रं जपेयुः)
