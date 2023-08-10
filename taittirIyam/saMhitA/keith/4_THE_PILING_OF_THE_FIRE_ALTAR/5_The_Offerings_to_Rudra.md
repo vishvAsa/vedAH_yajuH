@@ -2,79 +2,12 @@
 title = "5 The Offerings to Rudra"
 
 +++
-## 01
-### c
-### d
-### e
-### f
-### g
-### h
-He who creepeth away,  
-Blue-necked and ruddy,  
-Him the cowherds have seen,  
-Have seen the bearers of water  
-And him all creatures;  
-May be, seen, be gentle unto us.
-### i
-Homage to the blue-necked,  
-Thousand-eyed one, the bountiful  
-And to those that are his warriors  
-I have paid my homage.
-### k
-Unfasten from the two notches  
-Of thy bow the bowstring,  
-And cast thou down  
-The arrows in thy hand [3].  
-1 Unstringing thy bow,  
-Do thou of a thousand eyes and a hundred quivers, Destroying the points of thine arrows,  
-Be gentle and kindly to us.
+## 02
+
 ### m
-Unstrung is the bow of him of the braided hair And arrowless his quiver;  
-His arrows have departed,  
-Empty is his quiver.
 
 ### n
-O most bountiful one, the missile  
-That is in thy hand, thy bow,  
-With it on all sides do thou guard us,  
-Free from sickness.
-### o
-Homage to thy weapon,  
-Unstrung, dread;  
-And homage to thy two hands,  
-To thy bow.
-### p
-May the missile from thy bow  
-Avoid us on every side,  
-And do thou lay far from us  
-This quiver that is thine.
-## 02
-### a
-Homage to the golden-armed leader of hosts, and to the lord of the quarters homage!
-### b
-Homage to the trees with green tresses, to the lord of cattle homage!
-### c
-Homage to the one who is yellowish-red like young grass, to the radiant, to the lord of paths homage!
-### d
-Homage to the brown one, to the piercer, to the lord of food homage!
-### e
-Homage to the green-haired, wearer of the cord, to the lord of prosperity homage!
-### f
-Homage to the dart of Bhava, to the lord of the moving world homage!
-### g
-Homage to Rudra, with bent bow, to the lord of fields homage!
-### h
-Homage to the minstrel, the inviolate, to the lord of the woods homage!
-### i
-Homage [1] to the ruddy one, the ruler, to the lord of woods homage!
-### k
-Homage to the minister, the trader, to the lord of thickets homage!
-### l
-Homage to the extender of the world, the offspring of the maker of room, to the lord of plants homage!
-### m
-Homage to the loud calling, the screaming, to the lord of footmen homage!
-### n
-Homage to the wholly covered, to the running, to the lord of warriors homage!
+
 ## 03
 ### a
 Homage to the strong, the piercing, to the lord of assailers homage!
