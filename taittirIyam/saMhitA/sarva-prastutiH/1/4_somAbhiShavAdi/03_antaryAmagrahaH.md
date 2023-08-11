@@ -10,9 +10,32 @@ _______
 
 1उदित आदित्ये ऽन्तर्यामं गृह्णाति अतिधारया पवमानस्य राज्ञः - उपयामगृहीतोसि ॥ 
 </details>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
+<details open><summary><h5>उपयामगृहीतः ...{Loading}...</h5></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+उ॒प॒या॒म-गृ॑हीतो ऽसि।
+</details>
+<details><summary>Keith</summary>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md"  newLevelForH1="5" includeTitle="false"> </div>  
+Thou art taken with a support/ foundation.
+</details>
+<details><summary>मूलम्</summary>
+
+उ॒प॒या॒मगृ॑हीतोऽसि।
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+उपयम्यन्ते स्वात्मन्येव नियम्यन्ते भूतजातान्यस्मिन् अभिन्नेधिकरणे इत्युपयामः पृथ्वी । 'इयं वा उपयामः' इति ब्राह्मणम् । 'हलश्च' इति घञ्, थाथादिस्वरेणान्तोदात्तत्वम् । तेन गृहीतस्त्वमसि ; कोन्यस्त्वां गृहीतुं क्षम इति भावः ; पृथिव्यापो गृहीष्यामीतिवत् । 'तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् । यद्वा - उपयामार्थं पृथिव्यर्थं गृहीतोसीति ; हे सोम ।   
+
+ननु 'स्वाहा त्वा सुभवस्सूर्याय' इति मन्त्रवर्णनात् सूर्यदेवत्यः कथं पृथिवीदेवत्यः स्यात् ? नैतद्देवताभिधानं ; पृथिवीवासिनां प्रजानां यागद्वारेण स्थित्यर्थं गृहीतोसीति स्तूयते । यद्वा - पृथिव्यपि देवतैवास्य 'उपयामगृहीतोसीत्याहादितिदेवत्यास्तेन' इति, अदितिः पृथ्वी । 'चतुर्थी' इति योगविभागात्समासः । 'क्ते च' इति पूर्वपदप्रकृतिस्वरत्वम् । 'इयं वा उपयामस्तस्मादिमां प्रजा अनु प्रजायन्ते' इति ब्राह्मणम् ॥
+
+________________
+
+उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
+</details>
+</details>
+</div>  
 
 
 _______
@@ -20,14 +43,10 @@ _______
 
 2सम्प्रति सोमस्य स्वामिनं प्रार्थयते - 'अन्तर्यच्छ' इत्यादिकयाऽष्ट्या षट्पदया । 'अन्तरुर्वन्तरिक्षम्' इति चतुर्थः पादः, अन्य एकादशाक्षराः ।
 </details>
-
-
-
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अ॒न्तर्य॑च्छ मघवन्पा॒हि सोम॑मुरु॒ष्य राय॒स्समिषो॑ यजस्वा॒न्तस्ते॑ दधामि॒ द्यावा॑पृथि॒वी अ॒न्तरु॒र्व॑न्तरि॑ख्षꣳ स॒जोषा॑ दे॒वैरव॑रै॒ᳶ परै᳚श्चान्तर्या॒मे म॑घवन्मादयस्व 
 </details>
-
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 अ॒न्तर् **य॑च्छ**  मघवन् **पा॒हि++(=पिब)+++ सोम॑म्**   
@@ -39,7 +58,6 @@ _______
 स॒जोषा॑ दे॒वैर् अव॑रै॒ᳶ परै᳚श् च+   
 +अन्तर्या॒मे +++(ग्रहे)+++ म॑घवन् **मादयस्व** 
 </details>
-
 <details><summary>Keith</summary>
 
 O bounteous one, restrain (it), protect Soma,  
@@ -49,8 +67,6 @@ within thee the broad atmosphere;
 in unison with the gods, the lower and the higher,  
 O bounteous one, do thou rejoice in the Antaryama (cup).
 </details>
-
-
 <details><summary>मूलम्</summary>
 
 अ॒न्तर्य॑च्छ  मघवन्पा॒हि सोम॑म् ..   
@@ -59,7 +75,6 @@ O bounteous one, do thou rejoice in the Antaryama (cup).
 अ॒न्तरु॒र्व॑न्तरि॑ख्षम् ॥   
 स॒जोषा॑ दे॒वैरव॑रै॒ᳶ परै᳚श्चान्त॒र्या॒मे म॑घवन् मादयस्व
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ननु पुरस्ताद् उपयामत्वाद् यजुषानेन भवितव्यम्, यथा 'पुरस्तादुपयामा यजुषा गृह्यन्ते' इति । नैवम् ; वृत्तिसंयोगाद् ऋचैवानया भवितव्यम् ।  
@@ -86,24 +101,205 @@ _______
 
 3स्वां कृतोसीति ग्रहमादत्ते ॥
 </details>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/svAnkRtosi.md">
+<details open><summary><h5>स्वाङ्कृतोऽसि ...{Loading}...</h5></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/svAnkRtosi.md"  newLevelForH1="5" includeTitle="false"> </div>  
+स्वाङ्-कृ॑तोऽसि।
+</details>
+<details><summary>Keith</summary>
 
+Thou art he who is appropriated;
+</details>
+<details><summary>मूलम्</summary>
+
+स्वाङ्कृ॑तोऽसि।
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+स्वीकृतोसीत्यर्थः । अस्वस्स्वो भवतीति स्वाम्, च्विः, ईत्वापवाद आम्भावश्छान्दसः । 'ऊर्यादिच्विडाचश्च' इति गतित्वात् 'गतिरनन्तरः' इति पूर्वपदप्रकृतिस्वरत्वम् । 'प्राणमेव स्वमकृत' इति ब्राह्मणम् ॥
+</details>
+
+_______
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+'5ग्रहमवेक्षते - मधुमतीरिति ॥ '
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मधु॑मतीर् न॒ इष॑स् कृधि ।
+</details>
+<details><summary>Keith</summary>
+
+make our food full of sweetness for us;
+</details>
+<details><summary>मूलम्</summary>
+
+मधु॑मतीर्न॒ इष॑स्कृधि ।
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+5ग्रहमवेक्षते - मधुमतीरिति ॥ मधुमत्यः मधुररसाः इषः अन्नानि नः अस्माकं कृधि कुरु । मधुमतीः कुर्विति वा । प्राणात्मना ग्रह उच्यते, 'प्राणो वा एष यदुपांशुः' इति चाभेदं प्रतिपादयति । 'सर्वमेवास्मा इदं स्वदयति' इति ब्राह्मणम् । करोतेर्लोटि 'बहुलं छन्दसि' इति शपो लुक् । ' श्रुश्रुणुपॄकृवृभ्यश्छन्दसि' इति हेर्धिभावः । 'कः करत्' इत्यादिना विसर्जनीयस्य सत्वम् ॥
+</details>
+
+_______
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+6एनम् ऊर्ध्वम् उन्मार्ष्टि - विश्वेभ्य इति ॥
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विश्वे᳚भ्यस् त्वेन्द्रि॒येभ्यो॑ दि॒व्येभ्य॒ᳶ पार्थि॑वेभ्यः ।
+</details>
+<details><summary>Keith</summary>
+
+to all the powers of sky
+
+and earth thee!
+</details>
+<details><summary>मूलम्</summary>
+
+विश्वे᳚भ्यस्त्वेन्द्रि॒येभ्यो॑ दि॒व्येभ्य॒ᳶ पार्थि॑वेभ्यः ।
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+विश्वेभ्यः इन्द्रियेभ्य इन्द्रेणेश्वरेण सृष्टेभ्यः । 'इन्द्रियमिन्द्रलिङ्गम्' इत्यादौ निपात्यते । के पुनस्ते ? देवा मनुष्याश्च । 'उभयेष्वेव देवमनुष्येषु प्राणान्दधाति' इति ब्राह्मणम् । तानेवाह – दिव्येभ्यः पार्थिवेभ्य इति । दिवमर्हन्तीति दिव्याः । 'छन्दसि च' इति यत्प्रत्ययः । पृथिव्यां भवाः पार्थिवाः । 'पृथिव्या ञाञौ' इत्यञ्प्रत्ययः । एतेभ्यस्त्वामुपांशुग्रहं प्राणभूतमुन्मार्ज्मीति शेषः । एतेषां प्राणस्थित्यर्थं, यदाह 'उभयेष्वेव देवमनुष्येषु प्राणान्दधाति' इति । यद्वा - इन्द्रियशब्देन चक्षुरादीनामधिपतय आदित्यादय उच्यन्ते । तत्र दिव्यानि ज्ञानेन्द्रियाणि, पार्थिवानि कर्मेन्द्रियाणि, तदर्थं त्वामुन्मार्ज्मीति ॥
+</details>
+
+_______
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+7तम् आदायोत्तिष्ठति - मनस्त्वाष्ट्विति ॥
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मन॑स् त्वा ऽष्टु+++(←अश्)+++।
+</details>
+<details><summary>Keith</summary>
+
+May mind enter thee.
+
+</details>
+<details><summary>मूलम्</summary>
+
+मन॑स्त्वाष्टु।
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+7तम् आदायोत्तिष्ठति - मनस्त्वाष्ट्विति ॥ मननधर्मा प्राणो **मन** इत्युच्यते । सूर्यार्त्मना हे ग्रह **मनस् त्वा** त्वाम् **अष्टु** अश्नुभ्यां व्याप्नोतु ।
+
+अश्नोतेर्व्यत्ययेन परस्मैपदम्, 'बहुलं छन्दसि' इति शपो लुक्, व्रश्चादिना षत्वम् । 'मनस्त्वाष्ट्वित्याह मन एवाश्नुते' इत्यादि ब्राह्मणम्  ॥
+</details>
+
+_______
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+8आहवनीयं प्रति गच्छति - उर्विति ॥ व्याख्यातम् । 'अन्तरिक्षदेवत्यो हि प्राणः' इत्यादि ब्राह्मणम्  ॥
+
+</details>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/urvantarixam.md">
+<details open><summary><h10>उर्वन्तरिक्षम् ...{Loading}...</h10></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उ॒र्व् अ᳕न्तरि॑ख्ष॒म् अन्वि॑हि ।  
++++(महान् पन्थाः, सुखेन गच्छेति भावः ॥)+++
+</details>
+<details><summary>Keith</summary>
+
+Fare along the wide atmosphere.
+</details>
+<details><summary>मूलम्</summary>
+
+उ॒र्व॑न्तरि॑ख्ष॒मन्वि॑हि ।
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+18प्रत्यागच्छति - उर्विति गायत्र्यैकपदया ॥ उरु विस्तीर्णमन्तरिक्षं अन्विहि अनुगच्छ । महान् पन्थाः, सुखेन गच्छेति भावः ॥
+</details>
+</details>
+</div>  
+
+
+
+_______
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+9जुहोति - स्वाहा त्वेति ॥
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्वाहा᳚ त्वा सुभव॒स्! सूर्या॑य
+</details>
+<details><summary>Keith</summary>
+
+Hail! Thee, of kindly nature, to the sun!
+</details>
+<details><summary>मूलम्</summary>
+
+स्वाहा᳚ त्वा सुभव॒स्सूर्या॑य
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+हे ग्रह उपांशो **त्वा** त्वां **स्वाहा** स्वाहुतं करोमीति शेषः । हे **सुभवः** हे प्राणात्मक, उक्तं हि - 'प्राणो वा एष यदुपांशुः' इति । तत्र स्वस्मादात्मनो जाताः स्वभवसः प्राणाः । 'गतिकारकयोरपि' इति भवतेरसुन् । 'प्राणा वै स्वभवसो देवाः' ` इति च ब्राह्मणम् । तत्र स्वभवसो देवान् सुभव इत्याचष्टे परोक्षत्वाय । 'तेष्वेव परोक्षं जुहोति' इत्यादि ब्राह्माणम् । तत्र पूर्वपदस्य सम्प्रसारणं, उत्तरपदस्य विभक्तिव्यत्ययः कृतः । सूर्याय प्राणानामात्मभूताय त्वां स्वाहुतं करोमीति ॥
+</details>
+
+_______
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+10ग्रहलेपं पाणिना मध्यमे परिधौ निमार्ष्टि - देवेभ्यस्त्वेति ॥
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+दे॒वेभ्य॑स् त्वा मरीचि॒पेभ्यः॑।
+</details>
+<details><summary>Keith</summary>
+
+To the gods that drink the rays thee
+</details>
+<details><summary>मूलम्</summary>
+
+दे॒वेभ्य॑स्त्वा मरीचि॒पेभ्यः॑।
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+मरीचिशब्देन मरीचिमान् सूर्य उच्यते, यस्मै ग्रहः पूर्वं हुतः । 'लुगकारेकाररेफाश्च' इति मत्वर्थीयस्य लुक् । साहचर्याद्वोच्यते । मरीचिमत्सूर्यमण्डलं पान्ति रक्षन्तीति मरीचिपाः रश्मयः । 'आदित्यस्य वै रश्मयो देवा मरीचिपाः' इति ब्राह्मणम् । यद्वा - आदित्यस्य् मरीचिनैव विश्वं पान्ति तामेव पिबन्तीति वा मरीचिपाः देवविशेषाः । 'आदित्यस्व वै रश्मयः' इति च गुणभूतत्वमुच्यते । आदित्यस्य रश्मिस्थानीया इति यावत् । तेभ्यो देवेभ्यस्त्वां ग्रहलेपं निमार्ज्मीति शेषः ॥
+</details>
+
+_______
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+11आग्रयणस्थाल्याः ग्रहस्य संस्रावम् अपनयति - एष ते योनिरिति ॥
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ए॒ष ते॒ योनिः॑ ।
+</details>
+<details><summary>Keith</summary>
+
+This is thy birthplace;
+</details>
+<details><summary>मूलम्</summary>
+
+ए॒ष ते॒ योनिः॑ ।
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+हे उपांशुसंस्राव एष आग्रयणस्थाल्याख्यस्ते तव योनिः स्थानम्, यत्र निहितस्त्वं यागसिद्ध्यै सम्पत्स्यसे । अतस्तं प्रविशेति शेषः ॥
+</details>
+</details>
+</div>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ॒पा॒नाय॑ त्वा ॥ [4]  
 </details>
-
 <details><summary>Keith</summary>
 
 to inspiration thee!
 </details>
-
 <details><summary>मूलम्</summary>
 
 अ॒पा॒नाय॑ त्वा ॥ [4]  
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 11उत्तरत उपांशुसवनेन संस्पृष्टं सादयति - अपानाय त्वेति ॥ व्याख्याता मन्त्राः ॥

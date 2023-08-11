@@ -19,35 +19,23 @@ title = "०९ विंशतिरात्रविधिः"
 ते दे॒वा अ॑कामयन्त -
 उ॒भय॒ꣳ॒ सँव्-वृ॑ञ्जीमहि॒ ब्रह्म॒ चान्न॒ञ् चेति॑  ।
 </details>
-
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त ए॒ता विꣳ॑श॒तिꣳ रात्री॑रपश्यन् ।  
 ततो॒ वै त उ॒भय॒ꣳ॒ सम॑वृञ्जत॒ , ब्रह्म॒ चान्न॑ञ्च।  
 ब्र॒ह्म॒व॒र्च॒सिनो᳚ऽ॒न्ना॒दा अ॑भवन् ।  
 </details>
-
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य ए॒वव्ँ वि॒द्वाꣳस॑ ए॒ता आस॑त ,
 उ॒भय॑म् ए॒व सव्ँवृ॑ञ्जते॒ ब्रह्म॒ चान्न॑ञ् च [22] ।  
 ब्र॒ह्म॒व॒र्च॒सिनो᳚ ऽन्ना॒दा भ॑वन्ति ।
 </details>
-
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्वे +++(दिनदशके)+++ वा ए॒ते वि॒राजौ᳚ ।  
 तयो॑र् ए॒व नाना॒ प्रति॑ तिष्ठन्ति ।
 </details>
-
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि॒ꣳ॒शो वै पुरु॑षो॒ , दश॒ हस्त्या॑ अ॒ङ्गुल॑यो॒, दश॒ पद्याः᳚  ।  
@@ -59,19 +47,16 @@ title = "०९ विंशतिरात्रविधिः"
 ## विधानम्
 
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/brAhmaNam/sarva-prastutiH/7/3/09_viMshatirAtravidhiH/jyotir_gaur_Ayur_iti_tryahAH.md">
-<details open><summary><h3>ज्योतिर् गौर् आयुः ...{Loading}...</h3></summary>
-
+<details open><summary><h3>ज्योति॒र् गौर् आयु॒र् इति॑ त्र्य॒हाः ...{Loading}...</h3></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्योति॒र् गौर् आयु॒र् इति॑ त्र्य॒हा भ॑वन्ति।  
-इ॒यव्ँ वाव ज्योति॑र्, अ॒न्तरि॑ख्ष॒ङ् गौर्, अ॒साव् आयुः॑।
+इ॒यव्ँ वाव ज्योति॑र्, अ॒न्तरि॑ख्ष॒ङ् गौर्, अ॒साव् आयुः॑। 
 </details>
-
 <details><summary>मूलम्</summary>
 
 ज्योति॒र्गौरायु॒रिति॑ त्र्य॒हा भ॑वन्ती॒यव्ँवाव ज्योति॑र॒न्तरि॑ख्ष॒ङ्गौर॒सावायु॑
 </details>
-
 <details><summary>विश्वास-टिप्पनी</summary>
 
 ज्योतिस्स्वरूपम् ७.१ इत्यत्र प्रतिपादितम्। १९० स्तोत्रियम्।  
@@ -88,17 +73,23 @@ title = "०९ विंशतिरात्रविधिः"
 
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/brAhmaNam/sarva-prastutiH/7/3/05_anyash_chaturdasharAtraH/madhye_pRShThAni.md">
 <details open><summary><h3>मध्ये पृष्ठानि ...{Loading}...</h3></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-
-यद् अ॒न्यतᳶ॑ +++(पार्श्वे)+++ पृ॒ष्ठानि॒ स्युर् - वि+++(गत)+++-वि॑वधꣵ +++(=उभयतोवलम्ब-क्षीरादि-वहन-यन्त्र-विशेष)+++ स्यात् ।  
+यद् अ॒न्यत॑ᳶ +++(पार्श्वे)+++ पृ॒ष्ठानि॒ स्युर् - वि+++(गत)+++-वि॑वधꣵ +++(=उभयतोवलम्ब-क्षीरादि-वहन-यन्त्र-विशेष)+++ स्यात् ।  
 मध्ये॑ पृ॒ष्ठानि॑ भवन्ति सविवध॒त्वाय॑।  
 ओजो॒ वै वी॒र्य॑म् पृ॒ष्ठानि॑ ।
 ओज॑ ए॒व वी॒र्य॑म् मध्य॒तो द॑धते ।
 </details>
+</details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/brAhmaNam/sarva-prastutiH/7/3/05_anyash_chaturdasharAtraH/bRhad-rathantara-yAnam.md">
 <details open><summary><h3>बृहद्-रथन्तर-यानम् ...{Loading}...</h3></summary>
+<details><summary>मूलम् (संयुक्तम्)</summary>
 
+बृहद्रथन्त॒राभ्या᳚य्ँयन्ती॒यव्ँवाव र॑थन्त॒रम॒सौ बृ॒हदा॒भ्यामे॒व [2]  
+य॒न्त्यथो॑ अ॒नयो॑रे॒व प्रति॑ तिष्ठन्त्ये॒ते वै य॒ज्ञस्या᳚ञ्ज॒साय॑नी स्रु॒ती ताभ्या॑मे॒व सु॑व॒र्गल्ँलो॒कय्ँय॑न्ति
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(दिवसेषु एकान्तराभ्यां)+++ बृहद्रथन्त॒राभ्या᳚य्ँ यन्ति ।
 इ॒यव्ँ वाव र॑थन्त॒रम्, अ॒सौ बृ॒हत् +++(चास्ति)+++।  
@@ -107,26 +98,31 @@ title = "०९ विंशतिरात्रविधिः"
 अथो॑ अ॒नयो॑रे॒व प्रति॑ तिष्ठन्ति ।  
 ए॒ते वै य॒ज्ञस्या᳚ञ्ज॒साय॑नी स्रु॒ती+++(=मार्गौ)+++ ।  
 ताभ्या॑म् ए॒व सु॑व॒र्गल्ँ लो॒कय्ँ य॑न्ति ।
+</details>
+<details><summary>मूलम्</summary>
 
+बृ॒ह॒द्र॒थ॒न्त॒राभ्या᳚य्ँ यन्ति ।
+इ॒यव्ँ वाव र॑थन्त॒रम् अ॒सौ बृ॒हत् ।
+आ॒भ्यामे॒व य॒न्ति [2]।  
+अथो॑ अ॒नयो॑रे॒व प्रति॑ तिष्ठन्ति ।
+ए॒ते वै य॒ज्ञस्या᳚ञ्ज॒साय॑नी स्रु॒ती ।
+ताभ्या॑मे॒व सु॑व॒र्गल्ँ लो॒कय्ँ य॑न्ति ।
+</details>
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/brAhmaNam/sarva-prastutiH/7/3/05_anyash_chaturdasharAtraH/pratyaN_tryahaH.md">
 <details open><summary><h3>प्रत्यङ् त्र्यहः ...{Loading}...</h3></summary>
-
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परा᳚ञ्चो॒ +++(अपुनरावृत्ता एव)+++ वा ए॒ते सु॑व॒र्गल्ँ लो॒कम् अ॒भ्यारो॑हन्ति॒,
 ये प॑रा॒चीना॑नि पृ॒ष्ठान्य् उ॑प॒यन्ति॑ ।  
 प्र॒त्यङ् त्र्य॒हो भ॑वति प्र॒त्यव॑रूढ्या॒+++(य्)+++, अथो॒ प्रति॑ष्ठित्यै ।  
 उ॒भयो᳚र् लो॒कयोर्॑ ऋ॒द्ध्वोत्ति॑ष्ठन्ति ।
 </details>
-</div>  
-  
-
+</details>
+</div>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ॒ति॒रा॒त्राव् अ॒भितो॑ भवतः ।  
 ब्र॒ह्म॒व॒र्च॒सस्या॒न्नाद्य॑स्य परि॑गृहीत्यै ॥ [24]
 </details>
-
-
-

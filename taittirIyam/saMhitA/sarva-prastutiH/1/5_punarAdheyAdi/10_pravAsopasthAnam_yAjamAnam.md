@@ -21,8 +21,6 @@ _______
 
 1अग्निभ्यः प्रवत्स्यन्नाहवनीयमुपतिष्ठते - मम नामेति त्रिष्टुभा ॥ 
 </details>
-
-
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 **मम॒ नाम॑** प्रथ॒मञ् जा॑तवेदᳶ!  
@@ -30,7 +28,6 @@ _______
 तत् त्वम् **बि॑भृहि॒** पुन॒र् आ मद्-आ+एतो॒स्  
 तवा॒हन् **नाम॑ बिभराण्य्** अग्ने॥
 </details>
-
 <details><summary>Keith</summary>
 
 The name that first, O all-knower,  
@@ -38,14 +35,11 @@ My father and my mother bestowed upon me aforetime,
 Do thou bear it until I return;  
 O Agni, may I bear thy name.
 </details>
-
-
 <details><summary>मूलम्</summary>
 
 मम॒ नाम॑ प्रथ॒मञ्जा॑तवेदᳶ पि॒ता मा॒ता च॑ दधतु॒र्यदग्रे᳚ ।  
 तत्त्वम्बि॑भृहि॒ पुन॒रा मदैतो॒स्तवा॒हन्नाम॑ बिभराण्यग्ने॥
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हे अग्ने जातवेदः जातानां वेदितः, यद्वा - जातधनादिक । मम यत्प्रथममाद्यं गुह्यं; 'तस्माद्द्विनामा ब्राह्मणोर्धुकः' इति द्विनामत्वाद्विशेष्यते । किम्पुनस्तदित्याह - पिता माता चाग्रे जन्मकाले यद्दधतुः नाम मम चक्रतुः । सत्यपि यद्वृत्ते व्यत्ययेन निहन्यते । यद्वा - मम प्रथमं नाम माता च पिता च दधतुः तस्मादेवं नाम विशिष्टम् ।  
@@ -61,9 +55,6 @@ _______
 
 2आगत्य प्रवासात्पुनस्तमुपतिष्ठते - मम नाम तव चेति । 
 </details>
-
-
-
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 मम॒ **नाम॒** तव॑ च जातवेदो॒!  
@@ -71,7 +62,6 @@ _______
 आयु॑षे॒ त्वञ्, जी॒वसे॑ व॒यय्ँ  
 य॑थाय॒थव्ँ **वि परि॑ दधावहै॒** पुन॒स् ते  ॥
 </details>
-
 <details><summary>Keith</summary>
 
 My name and thine, O all-knower,  
@@ -79,15 +69,12 @@ Which like men changing garments we bear,
 Let us exchange again,  
 Thou for life, and we to live.
 </details>
-
-
 <details><summary>मूलम्</summary>
 
 मम॒ नाम॒ तव॑ च जातवेदो॒ वास॑सी इव वि॒वसा॑नौ॒ ये चरा॑वः ।  
 आयु॑षे॒ त्वञ्जी॒वसे॑ व॒यय्ँ ...  +++(विवृद्धपादः तृतीयपादः)+++    
 य॑थाय॒थव्ँवि परि॑ दधावहै॒ पुन॒स्ते  ॥
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अयञ्च जगतीप्रकारो विवृद्धपादः । 'आयुषे त्वं जीवसे वयम्' इति तृतीयः पादः ॥  
@@ -102,7 +89,6 @@ _______
 
 3गार्हपत्यमुपतिष्ठते - नमोग्नय इति त्रिष्टुभा ॥ 
 </details>
-
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 **नमो॒ ऽग्नये** ऽप्र॑तिविद्धाय॒,
@@ -110,7 +96,6 @@ _______
 अ-षा॑ढो+++(=सह्यः)+++ अ॒ग्निर् बृ॒हद्-व॑या+++(=अपरिमितान्नः)+++  
 विश्व॒जिथ् सह॑न्त्य॒श्+++(=अभिभवनशीलश्)+++ श्रेष्ठो॑ गन्ध॒र्वः  ॥
 </details>
-
 <details><summary>Keith</summary>
 
 Homage to Agni, the unpierced,  
@@ -118,14 +103,11 @@ Homage to the unapproachable, homage to the king!
 Irresistible is Agni [1], the very vigorous, all-conquering,  
 Powerful, the best, the Gandharva.
 </details>
-
-
 <details><summary>मूलम्</summary>
 
 नमो॒ऽग्नयेऽप्र॑तिविद्धाय॒ नमोऽना॑धृष्टाय॒ नम॑स्स॒म्राजे᳚ ।  
 अषा॑ढः [43]  +अ॒ग्निर्बृ॒हद्व॑या विश्व॒जिथ्सह॑न्त्य॒श्श्रेष्ठो॑ गन्ध॒र्वः  ॥
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 **नमोग्नये** पूजेयं क्रियते । **अप्रतिविद्धाय** केन न चिदप्यताडिताय । **नमो ऽनाधृष्टाय** केन चिदप्यपरिभूताय । **नमस्सम्राजे** सर्वदा सङ्गतदीप्तये । 'मो राजि समः क्वौ' इति मकारः ।
@@ -138,14 +120,12 @@ _______
 
 4अन्वाहार्यपचनम् उपतिष्ठते - त्वत्पितार इति ॥ 
 </details>
-
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 **त्वत्-पि॑तारो** अग्ने **दे॒वास्**  
 त्वाम्-आ॑हुतय॒स् त्वद्-वि॑वाचनाः ।  
 सम्-मामायु॑षा॒ सङ्-गौ॑प॒त्येन॒ **सुहि॑ते मा धाः**  ॥
 </details>
-
 <details><summary>Keith</summary>
 
 O Agni, the gods have thee for father,  
@@ -153,15 +133,11 @@ Offer to thee oblations, and have thee as an umpire
 With life, with lordship of cattle (endow) me  
 And bestow on me good fortune.
 </details>
-
-
-
 <details><summary>मूलम्</summary>
 
 त्वत्पि॑तारो अग्ने दे॒वास्त्वामा॑हुतय॒स्त्वद्वि॑वाचनाः ।  
 सम्मामायु॑षा॒ सङ्गौ॑प॒त्येन॒ सुहि॑ते मा धाः  ॥
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अयं कश्चिद्गायत्रीप्रकारः । 'सम्मामायुषा' इति तृतीयः । हे अग्ने त्वात्पितारस्त्वत्पितृकाः त्वं पिता पाता वा येषां तादृशा देवताः । छान्दसं दीर्घत्वम्, 'ऋतश्छन्दसि' इति कबभावः । 
@@ -178,14 +154,12 @@ _______
 
 5आहवनीयमुपतिष्ठते - अयमित्यनुष्टुभा+++(??)+++ ॥ 
 </details>
-
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 अ॒यम् अ॒ग्निश् श्रेष्ठ॑तमो॒, ऽयम्  
 भग॑वत्तमो॒ ऽयꣳ स॑हस्र॒-सा+++(त्)+++-त॑मः ।  
 अ॒स्मा अ॑स्तु सु॒वीर्य᳚म्  ॥
 </details>
-
 <details><summary>Keith</summary>
 
 Agni here is of all the best,  
@@ -193,14 +167,11 @@ He is most adorable,
 Must ready to win (us) a thousand;  
 To him be all good strength.
 </details>
-
-
 <details><summary>मूलम्</summary>
 
 अ॒यम॒ग्निश्श्रेष्ठ॑तमो॒ऽयम्भग॑वत्तमो॒ऽयꣳ स॑हस्र॒सात॑मः ।  
 अ॒स्मा अ॑स्तु सु॒वीर्य᳚म्  ॥
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 **अयम् अग्निर्** आहवनीयश् **श्रेष्ठतमः** अतिशयेन प्रशस्यतमः प्रशस्तानामपि प्रशस्ततमः । प्रकर्षवतामप्यतिशयविवक्षया द्वितीय आतिशायनिको भवत्येव, यथा 'श्रेष्ठतमाय कर्मणे' इति । अयं भगवत्तमः अतिशयेन धनवान् । तथाऽयं **सहस्रसातमः** सहस्रस्य बहुनो धनस्य ये सनितारस्सम्भक्तारो दातारो वा तानतिशेते । 'जनसन' इति विट् ,'विड्वनोरनुनासिकस्स्यात्' इत्यात्वम् । ईदृशोयमग्निरस्मै यजमानाय मह्यं सुवीर्यमस्तु शोभनवीर्यं धनमस्तु । ईदृशधनहेतुर्मामस्त्विति यावत् । 'वीरवीर्यौ च' इत्युत्तरपदाद्युदात्तत्वम् । एवं सहस्रपदोपात्तं धनं सुवीर्यशब्देन विशेप्यते ॥
@@ -211,9 +182,6 @@ _______
 
 6विच्छिन्ननिमित्तो होमः - मनो ज्योतिरिति । 
 </details>
-
-
-
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 मनो॒ ज्योति॑र् **जुषता॒म्**, आज्य॒व्ँ  
@@ -221,7 +189,6 @@ _______
 या +++(अन्यैर्)+++ **इ॒ष्टा उ॒षसो॑**, +++(मया तु)+++  नि॒-म्रुच॑श्+++(←स्तेये)+++ च॒  
 तास् **सन्द॑धामि** ह॒विषा॑ घृ॒तेन॑  ॥
 </details>
-
 <details><summary>Keith</summary>
 
 Mind, light, rejoice in the oblation  
@@ -229,8 +196,6 @@ May he unite the scattered sacrifice;
 The offerings at dawn and evening  
 I unite with oblation and ghee.
 </details>
-
-
 <details><summary>मूलम्</summary>
 
 मनो॒ ज्योति॑र् जुषता॒म् आज्य॒व्ँ  
@@ -238,7 +203,6 @@ I unite with oblation and ghee.
 या इ॒ष्टा उ॒षसो॑ नि॒म्रुच॑श् च॒   
 तास् सन्द॑धामि ह॒विषा॑ घृ॒तेन॑  ॥
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 त्रिष्टुबियं, विराड्वा ॥ पूर्वार्धर्चो व्याख्यातः ।
@@ -271,9 +235,6 @@ _______
 
 7अतः परम् इष्टि-याजमान-काण्डं प्राजापत्यम् । तत्राप आचामति - पयस्वतीरित्यनुष्टुभा ॥ 
 </details>
-
-
-
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 पय॑स्वती॒र् ओष॑धयः॒   
@@ -281,7 +242,6 @@ _______
 अ॒पाम् पय॑सो॒ यत् पय॒स्  
 तेन॒ माम् इ॑न्द्र॒ सꣳ सृ॑ज  ॥
 </details>
-
 <details><summary>Keith</summary>
 
 Rich in milk are the plants [2],  
@@ -290,14 +250,11 @@ With the milk of the milk of the waters,
 O Indra, do thou unite me.
 
 </details>
-
-
 <details><summary>मूलम्</summary>
 
 पय॑स्वती॒रोष॑धयः॒ [44] पय॑स्वद्वी॒रुधा॒म्पयः॑ ।    
 अ॒पाम्पय॑सो॒ यत्पय॒स्तेन॒ मामि॑न्द्र॒ सꣳ सृ॑ज  ॥
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 पयस्वतीः पयस्वत्यः क्षीरवत्यस्सारवत्यो वा । पानरसेन तद्वत्य ओषधय ओषध्यः फलपाकान्ताः । 'वा छन्दसि' पूर्वसवर्णदीर्घत्वम् । वीरुधां तु पयः पयस्वत् ओषधीनां पयोपि पयस्वत् सारवत् पेयत्वगुणवत् । विविधं रोहन्तीति वीरुधः लतादयः । पृषोदरादिः । अपां वा सम्बन्धि यत्पयः ईदृशं पयसोपि पयः, यत्किञ्चित्पय ओषधीनां वीरुधां वा तस्यापि पयस्ततोपि सारवत् । तेन मां संसृज योजय हे इन्द्र । एतदुक्तं भवति - ओषधयो न केवलं पयस्वत्यः वीरुधान्तु पयोपि पयस्वत्, अपान्तु ततोपि पयस्वत्पय इति ॥
@@ -308,69 +265,54 @@ _______
 
 8व्रतमुपैति - अग्ने व्रतपत इति यजुषा ॥ 
 </details>
-
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अग्ने᳚ व्रतपते व्र॒तञ्च॑रिष्यामि॒ तच्छ॑केय॒न्तन्मे॑ राध्यताम्  ॥ 
 </details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्ने᳚ व्रतपते व्र॒तञ् च॑रिष्यामि ।  
 </details>
-
 <details><summary>Keith</summary>
 
 O Agni, lord of vows, I shall perform this vow; 
 </details>
-
-
 <details><summary>मूलम्</summary>
 
 अग्ने᳚ व्रतपते व्र॒तञ्च॑रिष्यामि ।  
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हे अग्ने व्रतानां ब्रह्मचर्यादीनां पते पालयितः । 'नामन्त्रिते समानाधिकरणे सामान्यवचनम्' इति पूर्वस्याविद्यमानवत्वनिषेधाद्द्वितीयं निहन्यते । व्रतं यथोक्तं चरिष्यामि ।
 </details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच्छ॑केयम् ।  
 </details>
-
 <details><summary>Keith</summary>
 
 may I accomplish it; 
 </details>
-
-
 <details><summary>मूलम्</summary>
 
 तच्छ॑केयम् ।  
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तद्व्रतमहं शकेयं चरितुं समर्थो भूयासम् । लिङ्याशिष्यङ् ।
 </details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तन् मे॑ राध्यताम्+++(=सिद्ध्यतु)+++  ॥
 </details>
-
 <details><summary>Keith</summary>
 
 may it be successful for me.
 </details>
-
 <details><summary>मूलम्</summary>
 
 तन्मे॑ राध्यताम्  ॥
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 **तद्** व्रतं त्वत्प्रसादाच् चरितं **मे** मम **राध्यतां** सिद्ध्यतु । राध हिंसासिद्दयोः, दैवादिकः ॥
@@ -381,8 +323,6 @@ _______
 
 9हविर्निरुप्यमाणमभिमन्त्रयते - अग्निं होतारमिति । 
 </details>
-
-
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 **अ॒ग्निꣳ** होता॑रम् इ॒ह तꣳ **हु॑वे**  
@@ -390,7 +330,6 @@ _______
 **आ य॑न्तु दे॒वास्** सु॑मन॒स्यमा॑ना  
 **वि॒यन्तु॑ दे॒वा** ह॒विषो॑ मे अ॒स्य  ॥
 </details>
-
 <details><summary>Keith</summary>
 
 Agni, the priest, I summon hither;  
@@ -398,8 +337,6 @@ The gods worthy of sacrifice whom we invoke,
 Let these gods come in kindly mind;  
 Let the gods enjoy this oblation of me.
 </details>
-
-
 <details><summary>मूलम्</summary>
 
 अ॒ग्निꣳ होता॑रमि॒ह तꣳ हु॑वे दे॒वान् ..  
@@ -407,7 +344,6 @@ Let the gods enjoy this oblation of me.
 आ य॑न्तु दे॒वास्सु॑मन॒स्यमा॑ना ..  
 वि॒यन्तु॑ दे॒वा ह॒विषो॑ मे अ॒स्य  ॥
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अत्र वृत्तिद्वययोगात्संशये सङ्ख्यया त्रिष्टुबित्येके । 'आद्यात्सन्देहे । देवतादिभ्यश्च' इति जगतीत्यन्ये ॥   
@@ -420,25 +356,18 @@ _______
 
 10यज्ञं यज्ञयोगेन युनक्ति - कस्त्वेति यजुषा ॥ 
 </details>
-
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कस्+++(→प्रजापतिः पक्षे)+++ त्वा॑ युनक्ति॒ - स त्वा॑ युनक्तु ।
 </details>
-
 <details><summary>Keith</summary>
 
 Who yoketh thee? Let him yoke thee.
 </details>
-
-
 <details><summary>मूलम्</summary>
 
 कस्त्वा॑ युनक्ति॒ स त्वा॑ युनक्तु ।
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 **कः** प्रजापतिरेव हि त्वां युनक्ति योक्तुमर्हति, तस्मात्स त्वां युनक्तु हे यज्ञ युक्तात्मानं त्वां करोतु ॥
@@ -449,12 +378,42 @@ _______
 
 11कपालानि विमुञ्चति - यानि घर्म इत्यनुष्टुभा ॥ 
 </details>
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdiH/07_kapAlopadhAnam/yAni_gharme.md">
+<details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdiH/07_kapAlopadhAnam/yAni_gharme.md"  newLevelForH1="5" title="विश्वास-प्रस्तुतिः"> </div>  
+यानि॑ घ॒र्मे **क॒पाला᳚न्य्**  
+**उपचि॒न्वन्ति॑** वे॒धसः॑+++(=अध्वर्यवः)+++ ।  
+**पू॒ष्णस् तान्य्** अपि॑ +++(श्रपण-)+++व्र॒त+++(य् समाप्ते)+++  
+**इ॑न्द्र-वा॒यू वि मु॑ञ्चताम्** ॥ [11]   
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdiH/07_kapAlopadhAnam/yAni_gharme.md">
+<details open><summary><h5>यानि घर्मे ...{Loading}...</h5></summary>
+<details><summary>Keith</summary>
 
+The potsherds which wise men collect for the cauldron,  
+these are in Pusan's guardianship.  
+Let Indra and Vayu set them free.
+___________
+The potsherds for the cauldron [3],  
+Which wise men collect,  
+These are in Pusan's guardianship;  
+Indra and Vayu set them free.
+</details>
+<details><summary>मूलम्</summary>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdiH/07_kapAlopadhAnam/yAni_gharme.md"  newLevelForH1="5" includeTitle="false"> </div>  
+यानि॑ घ॒र्मे क॒पाला᳚न्युपचि॒न्वन्ति॑ वे॒धसः॑ ।  
+पू॒ष्णस्तान्यपि॑ व्र॒त इ॑न्द्रवा॒यू वि मु॑ञ्चताम् ॥ [11]
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
 
+इयं चतुष्पदानुष्टुप् ; यणादेशाकरणेन प्रथमतृतीयौ पूरणीयौ । विधायको वेधाः अध्वर्युः । विध विधाने, असुन्प्रत्ययः (उ.सू. 664) । उञ्छादित्वात् (पा.सू. 6.1.160) अन्तोदात्तः, व्यत्ययेन बहुवचनम्, एको ह्यध्वर्युरुपदधाति । यानि कपालानि घर्मे अङ्गारे वेधसः उपचिन्वन्ति उपहितवन्तः । वर्तमानसामीप्ये लट् (पा.सू. 3.3.131) । तानि कपालानि इन्द्रवायू विमुञ्चताम्; ध्रुवमसीत्यादिमन्त्रैरुपहितानां तावेव विमोचकाविति भावः ।  
+'नोत्तरपदेनुदात्तादौ' (पा.सू. 6.2.142) इत्युभयपदप्रकृतिस्वरत्वे निषिद्धे समासान्तोदात्तत्वम् । किमुपधानं विमोकार्थं ? इत्यत आह - पूष्णः पोषकस्याग्नेः । उदात्तनिवृत्तिस्वरेण (पा.सू. 6.1.161) विभक्तेरुदात्तत्वम् । तस्य व्रते हविश्श्रपणलक्षणे कर्मणि अपीते समाप्ते इदानीं विमुञ्चतामिति । 'सं ते मनसा मनः' (तै.सं. 1.3.10) इत्यादिवदपीत्युपसर्गश्रुतेर्योग्यं क्रियापदमध्याह्रियते । उपचिन्वन्तीत्यत्र 'सतिशिष्टेपि विकरणस्वरो लसार्वधातुकस्वरं न बाधते' इति वचनाल्लसार्वधातुकाद्युदात्तत्वम् । 'चतुष्पदयर्चा' (तै.ब्रा. 3.2.7) इत्यादि ब्राह्मणम् ॥
+______________
+**यानि कपालानि घर्मे** अग्नौ **वेधसो** ऽध्वर्यवः **उपचिन्वन्ति** उपदधति **तानि पूष्णः** पुष्टिकारणस्याग्नेर् **व्रते** कर्मणि **अपीते** समाप्ते । इदानीम् **इन्द्रवायू विमुञ्चताम्**; न ह्य् अन्यस्तानि विमोक्तुं शक्नोतीति ॥
+</details>
+</details>
+</div>
 <details><summary>भट्टभास्कर-टीका</summary>
 
 इयं चाध्वर्यवे व्याख्याता 'धृष्टिरसि' इत्यत्र ।
@@ -466,25 +425,20 @@ _______
 
 12भिन्नं कपालम् उत्कर उदस्यति - अभिन्न इति । 
 </details>
-
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 +++(भिन्ने ऽपि कपाले)+++ अभि॑न्नो घ॒र्मो +++(→यज्ञो)+++, जी॒र+++(=उदक)+++-दा॑नु॒र्  
 यत॒ आत्त॒स् तद् अ॑ग॒न् पुनः॑ ।  
 </details>
-
 <details><summary>Keith</summary>
 
 Unbroken is the cauldron, sprinkling abundantly,  
 It hath returned to that whence it came;  
 </details>
-
-
 <details><summary>मूलम्</summary>
 
 अभि॑न्नो घ॒र्मो जी॒रदा॑नु॒र्यत॒ आत्त॒स्तद॑ग॒न्पुनः॑ ।  
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 पङ्क्तिरियं चतुष्पदा ॥ **अभिन्नो** ऽविगुणोस्तु **घर्मो** यज्ञः; सत्यपि कपालभेदे तन्निमत्तं यज्ञस्य वैगुण्यं मा भूदित्यर्थः ।  
@@ -502,32 +456,24 @@ _______
 
 13आहवनीये सम्मीननीं जुहोति - इध्मो वेदिरित्युत्तरेणार्धर्चेन त्रयस्त्रिंशदिति त्रिष्टुभा च ॥ 
 </details>
-
-
-
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 इ॒ध्मो वेदिᳶ॑ परि॒धय॑श् च॒ सर्वे॑  
 य॒ज्ञस्याऽऽयु॒र् अनु॒ सञ्च॑रन्ति  ॥
 </details>
-
 <details><summary>Keith</summary>
 
 The kindling-wood, the Vedi, and all the enclosing-sticks  
 Attend the life of the sacrifice.
 </details>
-
-
 <details><summary>मूलम्</summary>
 
 इ॒ध्मो वेदिᳶ॑ परि॒धय॑श्च॒ सर्वे॑ य॒ज्ञस्याऽऽयु॒रनु॒ सञ्च॑रन्ति  ॥
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 इध्मो वेदिः परिधयश्च । चशब्दादन्येप्येवंजातीयास्सर्वे यज्ञस्यायुस्थानीयमिममनुसञ्चरन्ति अनुक्रमेण प्रत्यासन्ना भूत्वा चरन्ति इमं सेवमाना वर्तन्ते । ये च त्रयस्त्रिंशत्तन्तवः तन्तुस्थानीयाः पटमिव सूत्राणीमं यज्ञं वितत्निरे विस्तारयन्ति । के पुनस्ते? ये 'प्रजापतिर्मनसान्धोच्छेतः' इति आकूतिप्रभृतियज्ञस्य तनितारः प्रजापत्यादयः ते वेदितव्याः । आकूत्यादयो वा यज्ञावयवाः ।
 </details>
-
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 त्रय॑स्-त्रिꣳश॒त् +++(देवरूपा)+++ **तन्त॑वो॒** ये **वि॑तत्नि॒रे**,  
@@ -535,21 +481,17 @@ Attend the life of the sacrifice.
 तेषा᳚ञ् छि॒न्नम् प्रत्य् **ए॒तद् द॑धामि॒**  
 स्वाहा॑   ।
 </details>
-
 <details><summary>Keith</summary>
 
 The three and thirty threads that stretch,  
 That maintain in security the sacrifice,  
 Of these the broken one I restore; hail!  
 </details>
-
-
 <details><summary>मूलम्</summary>
 
 त्रय॑स्त्रिꣳश॒त्तन्त॑वो॒ ये वि॑तत्नि॒रे य इ॒मय्ँय॒ज्ञꣵ स्व॒धया॒ दद॑न्ते ।   
 तेषा᳚ञ्छि॒न्नम्प्रत्ये॒तद्द॑धामि॒ स्वाहा॑  +++(अत्र त्रिष्टुप्-छन्द इति व्याख्याने-। उत्तरविनियोगमन्त्रस्यापि योगेन त्रिष्टुप् ज्ञेया)+++  ।
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 **त्रयश्च त्रिंशच्** च । 'त्रेस्त्रयः' इति सूत्रेण त्रेस्त्रयसादेशः, 'सङ्क्या' इति पूर्वपदप्रर्कृतिस्वरत्वम् । विपूर्वात् तनोतेश् छान्दसे लिटि 'तनिपत्योश्छन्दसि' इत्युपधालोपः । अथ ये च इमं **यज्ञं** स्वधयान्नेन हविरात्मना **ददन्ते** उत्पादयन्ति, उत्पाद्य वा देवेभ्यो दधति । ददतिर् भौवादिकः । 
@@ -564,27 +506,21 @@ _______
 
 14अन्यं कपालं तेषु विसृजति - घर्म इति ॥ 
 </details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 घ॒र्मो दे॒वाꣳ अप्ये॑तु  ॥ [46]  
 </details>
-
 <details><summary>Keith</summary>
 
 Let the cauldron go to the gods.
 </details>
-
-
 <details><summary>मूलम्</summary>
 
 घ॒र्मो दे॒वाꣳ अप्ये॑तु  ॥ [46]  
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 घर्मो यज्ञः कपालं वा देवानप्येतु अनुप्रविशतु अन्वितगुणो भवतु ॥
 
 इति पञ्चमे दशमोनुवाकः ॥  
 </details>
-

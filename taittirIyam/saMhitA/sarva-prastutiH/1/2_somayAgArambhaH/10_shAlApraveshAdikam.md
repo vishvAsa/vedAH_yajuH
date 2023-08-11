@@ -12,24 +12,20 @@ ________
 
 आतिथ्यं निर्वपति।।
 </details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ॒ग्नेर् आ॑ति॒थ्यम् अ॑सि॒, +++(सर्वदेवतात्मने)+++ विष्ण॑वे त्वा +++(निर्वपामि)+++ ।  
 +++(सर्वदेवतात्मनो विष्णोर् अंशभूता एते अग्न्य्-आदयो राज्ञि गृहम् आगते आगता भवन्ति । 'यावद्भिर् वै राजानुचरैर् आगच्छति सर्वेभ्यो वै तेभ्य आतिथ्यं क्रियते' इति ब्राह्मणम्।)+++
 
 </details>
-
 <details><summary>Keith</summary>
 
 Thou art the hospitality of Agni. For Visnu thee!  
 </details>
-
 <details><summary>मूलम्</summary>
 
 अ॒ग्नेरा॑ति॒थ्यम॑सि॒, विष्ण॑वे त्वा  +++(निर्वपामि)+++  ।
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 1आतिथ्यं निर्वपति - अग्नेरातिथ्यमसीत्यादिभिः ॥  
@@ -38,89 +34,70 @@ Thou art the hospitality of Agni. For Visnu thee!
 ननु निर्वपणमन्त्रेष्वग्न्यादयोपि प्रतीयन्ते, तत्कथं केवलं विष्णुस्स्यात् हविषस्सम्बन्धी? उच्यते - अग्न्यादिग्रहणस्योपलक्षणार्थत्वादन्येषामपि राज्ञा सहागतानामतिथीनाम्, अत्रागतानां मध्ये कौश्चिन्निर्वापः क्रियत इति । अत्र हि ब्राह्मणम् 'यावद्भिर्वै राजानुचरैरागच्छति सर्वेभ्यो वै तेभ्य आतिथ्यं क्रियते' इत्युक्त्वा 'अग्नेरातिथ्यमसि विष्णवे त्वेत्याह गायत्रिया एवैतेन करोति' इत्यदिना अग्न्यादीनामुपलक्षणभूतानां हविषा सम्बन्धो नास्तीति प्रतिपादयति । तत्राग्न्यादयस्तिस्रो देवताः विष्णुना व्यधिकरणभूता निर्दिष्टाः; अन्ये तु सामानाधिकरण्येन, आतिथ्यपदं च तयोर्मन्त्रयोर्नास्ति । तत्र वैचित्र्यकारणं मृग्यम् ।   
 मन्त्रार्थस्तु - निरुप्यमाणं द्रव्यमुच्यते । अग्नेरग्न्यात्मनो विष्ण्वंशस्यातिथ्यमतिथिप्रयुक्तं निर्वाप्यं त्वमसि, तत्त्वां विष्णवे हविष्मते निर्वपामि ॥
 </details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोम॑स्याऽऽति॒थ्यम् अ॑सि॒, +++(सर्वदेवतात्मने)+++ विष्ण॑वे॒ त्वा +++(निर्वपामि)+++  ।
 </details>
-
 <details><summary>Keith</summary>
 
 Thou art the hospitality of Soma. For Visnu thee!
 </details>
-
-
 <details><summary>मूलम्</summary>
 
 सोम॑स्याऽऽति॒थ्यम॑सि॒ विष्ण॑वे॒ त्वा  +++(निर्वपामि)+++  ।
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 2सोमस्य सोमलतात्मनो विष्ण्वंशस्य । शेषं समानम् ॥
 
 - [आतिथ्यमतिथिप्रयुक्तं निर्वाप्यं त्वमसि, तत्त्वां विष्णवे हविष्मते निर्वपामि ॥]
 </details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अति॑थेर्+++(=अतनशीलस्य [सुर्यस्य वायोर् वा])+++ आति॒थ्यम॑सि॒, +++(सर्वदेवतात्मने)+++ विष्ण॑वे त्वा॒ऽग्नये᳚ त्वा +++(निर्वपामि)+++  ।
 </details>
-
 <details><summary>Keith</summary>
 
 Thou art the hospitality of the stranger. For Visnu thee!
 </details>
-
 <details><summary>मूलम्</summary>
 
 अति॑थेराति॒थ्यम॑सि॒, विष्ण॑वे त्वा॒ऽग्नये᳚ त्वा  +++(निर्वपामि)+++  ।
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अतिथिरतनशीलः यतस्सर्वदा गच्छति आदित्य उच्यते; वायुर्वा । समानमन्यत् ॥ [आतिथ्यमतिथिप्रयुक्तं निर्वाप्यं त्वमसि, तत्त्वां विष्णवे हविष्मते निर्वपामि ॥]
 </details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रा॒य॒स्-पो॒ष॒दाव्न्ने॒ +++(ऽग्नये)+++ +++(तदात्मने)+++ विष्ण॑वे +++(च)+++ त्वा +++(निर्वपामि)+++ ।
 </details>
-
 <details><summary>Keith</summary>
 
 For Agni thee, giver of wealth, for Visnu thee;
 
 </details>
-
-
 <details><summary>मूलम्</summary>
 
 रा॒य॒स्पो॒ष॒दाव्न्ने॒ विष्ण॑वे त्वा  +++(निर्वपामि)+++  ।
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 4रायस्पोषदावा नामाग्निविशेषः, तदात्मने विष्णवे त्वां निर्वपामि । रायो धनस्य पोषो रायस्पोषः । छान्दसष्षष्ठ्या अलुक्, 'षष्ठ्याः पतिपुत्र' इति सत्वम् । तं ददातीति । 'आतो मनिन्' इति वनिप्, कृदुत्तरपदप्रकृतिस्वरत्वम् ॥ [आतिथ्यमतिथिप्रयुक्तं निर्वाप्यं त्वमसि, तत्त्वां विष्णवे हविष्मते निर्वपामि ॥]
 </details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्ये॒नाय॑ त्वा सोम॒भृते॒ विष्ण॑वे +++(च)+++ त्वा +++(निर्वपामि)+++।
 </details>
-
 <details><summary>Keith</summary>
 
 for the eagle, bringer of the Soma, thee, for Visnu thee!
 
 </details>
-
-
 <details><summary>मूलम्</summary>
 
 श्ये॒नाय॑ त्वा सोम॒भृते॒ विष्ण॑वे त्वा  +++(निर्वपामि)+++ ।
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 5श्येनस्सोमभृद्देवताविशेषः । गायत्रीत्येके ॥ श्येनश्शंसनीय इत्याहुः । श्येनात्मा वा सोमं बिभर्तीति सोमभृत् । गायत्रीपक्षे सोमं हरतीति सोमभृत् । 'हृग्रहोर्भश्छन्दसि' इति भत्वम् ॥
@@ -132,29 +109,24 @@ ________
 
 यजमानस् सोमम् आदत्ते।
 </details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(हे सोम)+++ या ते॒ धामा॑नि ह॒विषा॒ यज॑न्ति॒  
 ता ते॒ विश्वा॑ परि॒-भूर् अ॑स्तु य॒ज्ञम्+++(स्य)+++ ।
 </details>
-
 <details><summary>Keith</summary>
 
 Thy powers which they honour with oblation,  
 May they all envelop the sacrifice!
 </details>
-
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 या ते॒ धामा॑नि ह॒विषा॒ यज॑न्ति॒ ता ते॒ विश्वा॑ परि॒भूर॑स्तु य॒ज्ञङ्ग॑य॒स्फानᳶ॑ प्र॒तर॑णस्सु॒वीरोऽवी॑रहा॒ प्र च॑रा सोम॒ दुर्या॒न्
 </details>
-
 <details><summary>मूलम्</summary>
 
 या ते॒ धामा॑नि ह॒विषा॒ यज॑न्ति॒ ता ते॒ विश्वा॑ परि॒भूर॑स्तु य॒ज्ञम् ।
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 6यजमानस्सोममादत्ते - या त इति त्रिष्टुभार्धर्चेन ॥  
@@ -167,25 +139,20 @@ ________
 
 शालां प्रवेशयति।
 </details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ग॒य॒+++(=गृह)+++स्फानᳶ॑+++(=वर्धयिता)+++ प्र॒तर॑णस् सु॒वीरो  
 ऽ+++(स्वपक्ष)+++वी॑रहा॒ प्र च॑रा सोम॒ दुर्यान्॑+++(=गृहान् [प्राग्वंशदीन्])+++ ॥
 </details>
-
 <details><summary>Keith</summary>
 
 Giver of wealth, impeller, rich in heroes,  
 Slaying not heroes, O Soma, enter the dwellings.  
 </details>
-
-
 <details><summary>मूलम्</summary>
 
 ग॒य॒स्फानᳶ॑ प्र॒तर॑णस्सु॒वीरोऽवी॑रहा॒ प्र च॑रा सोम॒ दुर्यान्॑ ॥
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 7शालां प्रवेशयति - गयस्फान इति द्वितीयेनार्धर्चेन ॥  
@@ -200,9 +167,26 @@ ________
 
 नीडे कृष्णाजिनम् आस्तृणाति।
 </details>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/adityAs_sadaH.md">
+<details open><summary><h5>अदित्यास् सदः ...{Loading}...</h5></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+अदि॑त्या॒स् सदो॑ऽसि ।
+</details>
+<details><summary>Keith</summary>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/adityAs_sadaH.md"  newLevelForH1="5" includeTitle="false"> </div>  
+Thou art the seat of Aditi.
+</details>
+<details><summary>मूलम्</summary>
+
+अदि॑त्या॒स्सदो॑ऽसि ।
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+3नीडे कृष्णाजिनमास्तृणाति - अदित्या इति ॥ अदित्याः देवमातुः सदः सदनं लोकलक्षणं त्वमसि ॥
+</details>
+</details>
+</div>  
 
 
 ________
@@ -210,15 +194,30 @@ ________
 
 तस्मिन् सोमं निदधाति।
 </details>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/adityAs_sada_AsIda.md">
+<details open><summary><h5>अदित्यास् सद आसीद ...{Loading}...</h5></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/adityAs_sada_AsIda.md"  newLevelForH1="5" includeTitle="false"> </div>  
+अदि॑त्या॒स् सद॒ आसीद ।
+</details>
+<details><summary>Keith</summary>
 
+Sit on the seat of Aditi.
+</details>
+<details><summary>मूलम्</summary>
 
+अदि॑त्या॒स्सद॒ आसीद ।
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+4तस्मिन्सोमं निदधाति - अदित्या इति ॥ अदित्यास्सदः सदन स्थानीयमेतत् कृष्णाजिनमासीद उपविश अस्मिन् ॥
+</details>
+</details>
+</div>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 －अदि॑त्या॒स्सदो॒ऽस्यदि॑त्या॒स्सद॒ आ [18]सी॒द
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 8-9कृष्णाजिनस्तरणसोमस्थापनमन्त्रौ व्याख्यातौ-अदित्यास्सद इति ॥
@@ -229,13 +228,11 @@ ________
 
 सोमम् उपतिष्ठते।।
 </details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(तादात्म्येनाऽधुना)+++ वरु॑णोऽसि धृ॒तव्र॑तो, वारु॒णम् अ॑सि ।  
 +++('वरुणो वा एष यजमानमभ्यैति यत्क्रीतस्सोम उपनद्धः' इति ब्राह्मणम् ।)+++
 </details>
-
 <details><summary>Keith</summary>
 
 Thou art Varuna who guardeth law; thou art of Varuna.
@@ -244,12 +241,10 @@ Thou art Varuna who guardeth law; thou art of Varuna.
 
 वरु॑णोऽसि धृ॒तव्र॑तो वारु॒णम॑सि श॒य्ँयोर्दे॒वानाꣳ॑ स॒ख्यान्मा दे॒वाना॑म॒पस॑श्छिथ्स्म॒ह्याप॑तये त्वा गृह्णामि
 </details>
-
 <details><summary>मूलम्</summary>
 
 वरु॑णोऽसि धृ॒तव्र॑तो, वारु॒णम॑सि ।
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 10सोममुपतिष्ठते - वरुणोसीति गायत्र्यैकपदया यजुरन्तया ॥ हे सोम वरुणस्त्वमसि वरणीयत्वात् । वृतत्वाद्वा; वाससा आच्छादितत्वात् । 'वरुणो वा एष यजमानमभ्यैति यत्क्रीतस्सोम उपनद्धः' इति ब्राह्मणम् । धृतव्रतः धृतकर्मा धारणत्वात्कर्मणाम् । वारुणं वरुणस्य तव यत्स्वभूतां द्रव्यमिति सर्वं त्वमेव त्वदधीनत्वात् ॥
@@ -260,22 +255,18 @@ ________
 
 वंशे बध्नाति।
 </details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श॒य्ँ+++(=शमनम्)+++ योर्+++(=बन्धनाद्)+++ दे॒वाना॑म् ।
 </details>
-
 <details><summary>Keith</summary>
 
 Be prosperity ours from our friendship with the gods.
 </details>
-
 <details><summary>मूलम्</summary>
 
 श॒य्ँयोर्दे॒वाना॑म्  +++(भव)+++ ।
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 11वंशे बध्नाति - शंयोरिति ॥ शं च योश्च देवानां भव । समाहारद्वन्द्वः, छान्दसं पुल्लिङ्गत्वम् । विद्यमानानां रोगादीनां शामनं शम् । आगामिनां यावनं पृथक्करणं उत्पत्तिनिरोधः योः । उभयत्रापि शाम्यतेर्यौतेश्च विच् ॥
@@ -287,22 +278,18 @@ ________
 
 सोमस्य पादौ प्रक्षालयति।
 </details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स॒ख्यान् मा दे॒वाना॑म् अ॒पस॑श्+++(=कर्मतः)+++ छिथ्स्महि ।
 </details>
-
 <details><summary>Keith</summary>
 
 May we be not severed from our service of the gods.
 </details>
-
 <details><summary>मूलम्</summary>
 
 स॒ख्यान्मा दे॒वाना॑म॒पस॑श्छिथ्स्महि ।
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 12सोमस्य पादौ प्रक्षालयति - सख्यान्मा देवानामिति ॥ देवानां सम्बन्धि यत् अपः कर्म ततः सख्याच्च तत एव हेतोः मा छिथ्स्महि विच्छिन्ना मा भूम । 'सख्युर्यः' ॥
@@ -315,12 +302,10 @@ ________
 
 तानूनप्त्रम् आज्यं गृह्णाति, यत् सर्वैः स्प्रक्ष्यत ऋत्विग्भिः। अयम् एक-कार्यानुवृत्त्य्-अर्थं समयः क्रियते तेषु।।
 </details>
-
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 आप॑तये त्वा गृह्णामि॒ परि॑पतये त्वा गृह्णामि॒ तनू॒नप्त्रे᳚ त्वा गृह्णामि शाक्व॒राय॑ त्वा गृह्णामि॒ शक्म॒न्नोजि॑ष्ठाय त्वा गृह्णा॒मि
 </details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(हे आज्य)+++ आप॑तये+++(आपतततीति→प्राणाय)+++ त्वा गृह्णामि ।
@@ -329,77 +314,62 @@ ________
 
 For him who rushes on I seize thee;
 </details>
-
 <details><summary>मूलम्</summary>
 
 आप॑तये त्वा गृह्णामि ।
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 13तानूनप्त्रं गृह्णाति - आपतय इति ॥ आवृत्त्या आभिमुख्येन वा पतति पातीति वा आपतिः प्राणः । 'प्राणो वा आपतिः' इति च ब्राह्मणम् । अव्ययपूर्वपदप्रकृतिस्वरत्वम् । तस्मै तदविनाशाय त्वां गह्णामि ध्रुवातः स्रुवेण गृह्णामि ॥
 </details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परि॑पतये+++(परिपततीति→मनसे)+++ त्वा गृह्णामि।
 </details>
-
 <details><summary>Keith</summary>
 
 for him who rushes around I seize thee;
 </details>
-
 <details><summary>मूलम्</summary>
 
 परि॑पतये त्वा गृह्णामि।
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 14हे आज्य परितः सवर्तः पाति पततीति वा परिपतिः मनः । पातेर्डतिः । पतेः 'इन् सर्वधातुभ्यः' इति इन् । 'मनो वै परिपतिः' इति च ब्राह्मणम् । तस्मै त्वां गृह्णामि ॥
 </details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तनू॒+++(=जल)+++नप्त्रे᳚+++(=शरीरस्थायाग्नये)+++ त्वा गृह्णामि।
 </details>
-
 <details><summary>Keith</summary>
 
 for Tanunapat I seize thee;
 </details>
-
 <details><summary>मूलम्</summary>
 
 तनू॒नप्त्रे᳚ त्वा गृह्णामि।
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 15तनूनामपां नप्ता चतुर्थः तनूनप्ता अग्निः शरीरस्थः । तस्मै गृह्णामि । वनस्पत्यादित्वात्पूर्वोत्तरपदयोः युगापत्प्रकृतिस्वरत्वम् ॥
 </details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शा॒क्व॒राय॑+++(=शक्त्यै)+++ त्वा गृह्णामि।
 </details>
-
 <details><summary>Keith</summary>
 
 for the mighty I seize thee;
 </details>
-
 <details><summary>मूलम्</summary>
 
 शा॒क्व॒राय॑ त्वा गृह्णामि।
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 16शाक्वराय शक्त्यै । शकनशीलः शक्वरः तस्य भावश्शाक्वरं शक्तिरेव । 'शक्त्यै हि ते तास्समवाद्यन्त' इति च ब्राह्मणम् । तस्मै गृह्णामि ॥
 </details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शक्म॒न्न्+++(=शक्तेषु)+++ ओजि॑ष्ठाय +++(प्राणाय)+++ त्वा गृह्णामि।
@@ -408,12 +378,10 @@ for the mighty I seize thee;
 
 for the mightiest in strength I seize thee.
 </details>
-
 <details><summary>मूलम्</summary>
 
 शक्म॒न्नोजि॑ष्ठाय त्वा गृह्णामि।
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 17शक्मन्न् शक्मेषु जातावेकवचनम् । शकेर्मनिन्, 'सुपां सुलुक्' इति ङेर्लुक्, 'न ङिसम्बुद्ध्योः' इति नलोपप्रतिषेधः । शक्तानां मध्ये ओजिष्ठाय अतिशयेन बलवते प्राणाय त्वां गृह्णामि । ओजस्विशब्दादिष्ठनि 'विन्मतोर्लुक्', 'टेः' इति टिलोपः । अयमेककार्यानुवृत्त्यर्थं समयः क्रियते । यद्येवं समयो न क्रियेत तदा परस्पराभिप्रायेणा द्रोहेण विप्रतिपद्यमाना यागं न कुर्युः । अतस्तन्मा भूदिति तानूनप्त्रं गृह्यते ॥
@@ -424,31 +392,25 @@ ________
 
 अव-मृशाति।।
 </details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अना॑धृष्टम् असि,   
 अनाधृ॒ष्यन् दे॒वाना॒म् ओजो॑, ऽभिशस्ति॒+++(=अभिशाप)+++पाः, अ॑नभिश॒स्ते॒न्यम्+++(=अभिषस्तेनाऽवेध्या)+++ +++(असि)+++।
 </details>
-
 <details><summary>Keith</summary>
 
 Thou art unapproached,  
 the unapproachable might of the gods, guarding from imprecations, impervious to imprecations.
 </details>
-
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अना॑धृष्टमसि,  अनाधृ॒ष्यम्  +++(असि)+++  दे॒वाना॒मोजोऽभिशस्ति॒पा अ॑नभिशस्ते॒ऽन्यम् ।
 </details>
-
-
 <details><summary>मूलम्</summary>
 
 अना॑धृष्टमसि,  अ॒ना॒धृ॒ष्यम्  +++(असि)+++  दे॒वाना॒मोजः॑ ,  
 अ॒भि॒श॒स्ति॒पाः  +++(असि) ,+++ अ॒न॒भि॒श॒स्ते॒न्यम् ।
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 18अवमृशाति - अनाधृष्टमसीति ॥ आज्यमुच्यते । अनाधृष्टं केनचिदप्यनभिमूतमसि ।  
@@ -463,7 +425,6 @@ ________
 
 यजमानं वाचयति।।
 </details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनु॑ मे दी॒ख्षान् दी॒ख्षाप॑तिर् मन्यताम्,  
@@ -471,7 +432,6 @@ ________
 अञ्ज॑सा+++(=ऋजुना)+++ स॒त्यम् +++(समयं तानूनप्त्राभिमर्शनेन)+++ उप॑ गेषम्+++(=अगच्छम्)+++।  
 सु॒वि॒ते+++(=सूताय)+++ मा॑ धाः ॥
 </details>
-
 <details><summary>Keith</summary>
 
 May the lord of consecration approve my consecration,  
@@ -480,13 +440,10 @@ Speedily may I attain truth.
 Place me in good fortune.
 
 </details>
-
-
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 － अनु॑ मे दी॒ख्षान्दी॒ख्षाप॑तिर्मन्यता॒मनु॒ तप॒स्तप॑स्पति॒रञ्ज॑सा स॒त्यमुप॑ गेषꣳ सुवि॒ते मा॑ धाः ॥ [19]
 </details>
-
 <details><summary>मूलम्</summary>
 
 अनु॑ मे दी॒ख्षान्दी॒ख्षाप॑तिर्मन्यताम् ।  
@@ -495,7 +452,6 @@ Place me in good fortune.
 अञ्ज॑सा स॒त्यमुप॑ गेषम् ।   
 सु॒वि॒ते मा॑ धाः ॥
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 19यजमानं वाचयति - अन्विति ॥ दीक्षापतिर्विष्णुस्स मम दीक्षामनुमन्यतां अनुजानातु । 'पत्यावैश्वर्ये' इति पूर्वपदप्रकृतिस्वरत्वम् । तपः उपसत् तस्य पतिस्तपस्पतिरग्निः । सोपि मम तपोनुमन्यताम् ।

@@ -9,135 +9,102 @@ title = "०९ यूपारोहणाभिधानम्"
 
 ख्ष॒त्रस्योल्ब॑म् असि ।  
 </details>
-
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1यजमानं तार्प्यं घृताक्तं वस्त्रं परिधापयति - क्षत्रस्येति ॥ 
 </details>
-
-
 <details><summary>मूलम्</summary>
 
 ख्ष॒त्रस्योल्ब॑म्+++(=जरायुर्)+++ असि ।  
 </details>
-
 <details><summary>Keith</summary>
 
 Thou art the caul of the kingly class.
 </details>
-
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 केचित्तरुत्वचं तार्प्यमाहुः । **क्षत्रस्य** धनस्य शरीरलक्षणस्य **उल्बं** रक्षाधिकरणस्थानीयं वा परिवासस्त्वमसि ॥
 </details>
-
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2दर्भमयं पत्नीं - क्षत्रस्येति ॥ 
 </details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ख्ष॒त्रस्य॒ योनि॑र् असि ।  
 </details>
-
 <details><summary>Keith</summary>
 
 thou art the womb of the kingly class
 </details>
-
-
 <details><summary>मूलम्</summary>
 
 ख्ष॒त्रस्य॒ योनि॑रसि ।  
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 क्षत्रस्य धनस्य योनिः कारणमसि । दर्भमूलत्वाद्धनसाधनानां कर्मणाम् ॥
 </details>
-
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3जायामामन्त्रयते - जाये इति ॥ 
 </details>
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जाय॒+++(य्)+++ एहि॒ सुवो॒ रोहा॑व ।  
 </details>
-
 <details><summary>Keith</summary>
 
 O wife, come hither to the heaven; let us two mount!
 </details>
-
-
 <details><summary>मूलम्</summary>
 
 जाय॒ एहि॒ सुवो॒ रोहा॑व ।  
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हे जाये एह्यागच्छ सुवः स्वर्गं स्वर्गहेतुं निश्रेणिं रोहाव त्वञ्चाहञ्च किं रोहावेति । 'चादिलोपे विभाषा' इति तिङन्तस्य निघातप्रतिषेधः । 'स्वरो रोहतौ छन्दसि' इत्युत्वम् ॥
 </details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रोहा॑व॒ हि सुवः॑ ।  
 </details>
-
 <details><summary>Keith</summary>
 
 Yes, let us two mount the heaven; 
 </details>
-
-
 <details><summary>मूलम्</summary>
 
 रोहा॑व॒ हि सुवः॑ ।  
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 4जाया पतिभ्यामा[पतिं प्रत्या]ह - रोहाव इति ॥ एवं भवत्या[त्वा] रोहाव सुवरावाम् । हिशब्दो यस्मादर्थे । यस्मात्सुवः तस्माद्रोहाव इति । अपदात्परत्वान्न निहन्यते, हियोगाच्च ॥
 </details>
-
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5यजमान आह - अहमिति ॥ 
 </details>
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ॒हन् ना॑व् उ॒भयो॒स् +++(कृते)+++ सुवो॑ रोख्ष्यामि ।  
 </details>
-
 <details><summary>Keith</summary>
 
 I will mount the heaven for us both.
 </details>
-
 <details><summary>मूलम्</summary>
 
 अ॒हन्ना॑वु॒भयो॒स्सुवो॑ रोख्ष्यामि ।  
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तर्हि नौ आवयोरुभयोरहं सुवो रोक्ष्यामि । पूर्ववदुत्वम् ॥
 </details>
-
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 6वाजप्रसवीया द्वादश स्रुवाहुतीर्जुहोति - वाजश्चेत्यादि ॥ 
 </details>
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वाज॑श् च  +++(अस्तु)+++  ।
@@ -153,7 +120,6 @@ I will mount the heaven for us both.
 भुव॑न॒श् च  +++(अस्तु)+++ ।   
 अधि॑पतिश् च  +++(अस्तु)+++।  
 </details>
-
 <details><summary>मूलम्</summary>
 
 वाज॑श्च  +++(अस्तु)+++  ।
@@ -169,13 +135,10 @@ I will mount the heaven for us both.
 भुव॑न॒श्+++(←भवत्य् अस्माद् इति)+++ च  +++(अस्तु)+++ ।   
 अधि॑पतिश् च  +++(अस्तु)+++।
 </details>
-
 <details><summary>Keith</summary>
 
 Strength, instigation, the later born, inspiration, heaven, the head, the Vyaśniya, the offspring of the last, the last, the offspring of being, being, the overlord.
 </details>
-
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 प्राजापत्यास् सर्वाः ; तस्य सर्वमयत्वात् ।  
@@ -193,13 +156,10 @@ Strength, instigation, the later born, inspiration, heaven, the head, the Vyaśn
 भवत्यस्माद्विश्वम् इति **भुवनः** । औणादिकः क्युन्प्रत्ययः ।  
 **आधिपतिः** ततोप्यधिको विश्वस्य पतिः विश्वाधिको देवः । एते वाजादयो मम सन्तु इति शेषः ॥
 </details>
-
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 7-16दशभिः कल्पै रोहति - आयुर्यज्ञेनेति ॥ 
 </details>
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आयु॑र् य॒ज्ञेन॑ कल्पताम् ।  
@@ -213,13 +173,10 @@ Strength, instigation, the later born, inspiration, heaven, the head, the Vyaśn
 आ॒त्मा य॒ज्ञेन॑ कल्पताम्  ।  
 य॒ज्ञो य॒ज्ञेन॑ कल्पताम्  ।  
 </details>
-
 <details><summary>Keith</summary>
 
 May life accord with the sacrifice, may expiration accord with the sacrifice, may inspiration accord with the sacrifice [1], may cross-breathing accord with the sacrifice, may eye accord with the sacrifice, may ear accord with the sacrifice, may mind accord with the sacrifice, may the body accord with the sacrifice, may the sacrifice accord with the sacrifice.
 </details>
-
-
 <details><summary>मूलम्</summary>
 
 आयु॑र्य॒ज्ञेन॑ कल्पताम् ।  
@@ -233,78 +190,61 @@ May life accord with the sacrifice, may expiration accord with the sacrifice, ma
 आ॒त्मा य॒ज्ञेन॑ कल्पताम्  ।  
 य॒ज्ञो य॒ज्ञेन॑ कल्पताम्  ।  
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 आयुर्जीवनमन्नं वा । तद् **यज्ञेनानेन कल्पतां** मम सम्पद्यतां यथाश्रुतं भूयात् । प्राणादीनां कल्पनं स्वकार्यकरणसामर्थ्यम् । पदानि व्याख्यातानि । यज्ञस्य कल्पनं अविच्छेदेन प्रवर्तनम् ॥
 </details>
-
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 सुव॑र्दे॒वाꣳ अ॑गन्मा॒मृता॑ अभूम प्र॒जाप॑तेᳶ प्र॒जा अ॑भूम॒ सम॒हम्प्र॒जया॒ सम्मया᳚ प्र॒जा </details>
-
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 17आरुह्य बाहू उद्गृह्णाति - सुवरिति ॥ 
 </details>
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुव॑र् दे॒वाꣳ अ॑गन् ।  
 </details>
-
 <details><summary>Keith</summary>
 
 We have come to the heaven, to the gods; 
 </details>
-
 <details><summary>मूलम्</summary>
 
 सुव॑र्दे॒वाꣳ अ॑गन् ।  
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 सुवः स्वर्गं देवांश्च तत्रस्थान् सर्वान् अगन्म गतवन्तो वयम् । 'अस्मदो द्वयोश्च' इत्येकस्मिन् बहुवचनम् । अनेन निश्रेण्यारोहेन स्वर्गं देवांश्च प्राप्ता वयमिति । छान्दसो भविष्यति लङ् । अनेनारोहणेन स्वर्गं देवांश्च गमिष्यामो वयमिति । 'आशंसायां भूतवच्च' इति वा भविष्यति भूतप्रत्ययः । सांहितिकौ रुत्वानुनासिकौ ।  
 </details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मा॒मृता॑ अभूम ।  
 </details>
-
 <details><summary>Keith</summary>
 
 we have become immortal; 
 </details>
-
-
 <details><summary>मूलम्</summary>
 
 मा॒मृता॑ अभूम ।  
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अमृता अमरणा अभूम भविष्यामो वा । 'न ञो जरमर' इत्युत्तरपदाद्युत्तम् ।  
 </details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र॒जाप॑तेᳶ प्र॒जा अ॑भूम ।  
 </details>
-
 <details><summary>Keith</summary>
 
 we have become the offspring of Prajapati.
 </details>
-
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑तेᳶ प्र॒जा अ॑भूम ।  
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 प्रजापतेः सर्वस्य पितुः प्रजा अभूम।  
@@ -314,27 +254,96 @@ we have become the offspring of Prajapati.
 
   - ससाधनां क्रियामुपसर्ग आहेति योग्यभूतगमनक्रियोपस्थानात् प्रजया सङ्गसीयेति लाभादेवमुक्तम् ॥
 </details>
-
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 18इमं लोकं प्रत्यवेक्षते -   समहमिति ॥ 
 </details>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/06_AhavanIyopasthAnAdimantrAH/samaham_prajayA.md">
+<details open><summary><h5>समहम् प्रजया ...{Loading}...</h5></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/06_AhavanIyopasthAnAdimantrAH/samaham_prajayA.md"  newLevelForH1="5" includeTitle="false"> </div>  
+सम् अ॒हम् प्र॒जया᳚  +++(भूयासम्)+++  ।
+</details>
+<details><summary>Keith</summary>
 
+May I be united with offspring,
+</details>
+<details><summary>मूलम्</summary>
 
+सम॒हम्प्र॒जया᳚  +++(भूयासम्)+++  ।
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
 
+ससाधनां क्रियामुपसर्ग आह । सा 'सं ज्योतिषाभूवम्' इति मन्त्रान्तरेऽनन्तरप्रकृतत्वात्भवतिक्रियेति विज्ञायते, गमनक्रिया वा । अहं प्रजया सम्भूयासम्, सङ्गंसीय वा ।
 
+___________
+
+ससाधनां क्रियामुपसर्ग आह । अहं प्रजया अपत्यादिना सङ्गच्छेय । 
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सम् मया᳚ प्र॒जा  +++(भूयात्)+++ ।
+</details>
+<details><summary>Keith</summary>
+
+offspring with me.
+</details>
+<details><summary>मूलम्</summary>
+
+सम्मया᳚ प्र॒जा  +++(भूयात्)+++ ।
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+प्रजा च मया सह सम्भूयात्, सङ्गंसीष्ट वा ।
+__________
+प्रजा मया सञ्जच्छताम् । 
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सम॒हꣳ रा॒यस्पोषे॑ण  +++(भूयासम्)+++  ।
+</details>
+<details><summary>Keith</summary>
+
+May I be united with increase of wealth,
+</details>
+<details><summary>मूलम्</summary>
+
+सम॒हꣳ रा॒यस्पोषे॑ण  +++(भूयासम्)+++  ।
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+रायो धनस्य क्षेत्रपश्वादेः पोषेण पुष्ट्याहं सम्भूयासं, सङ्गंसीय वा ।
+_______________
+तथा रायो धनस्य पोषेणाहं सञ्गच्छेय । 
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सम्मया॑ रा॒यस्पोषः॑   +++(भूयात्)+++  ।
+</details>
+<details><summary>Keith</summary>
+
+increase of wealth with me.
+</details>
+<details><summary>मूलम्</summary>
+
+सम्मया॑ रा॒यस्पोषः॑   +++(भूयात्)+++  ।
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+रायस्पोषश्च मया सह सम्भूयात् सङ्गंसीष्ट वा ॥
+_____________
+रायश्च पोषश्च मया सङ्गच्छताम् । रायो विभक्त्युदात्तत्वं सत्वं चोक्तम् ॥
+</details>
+</details>
+</div>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अन्ना॑य त्वा॒ऽन्नाद्या॑य त्वा॒ वाजा॑य त्वा वाजजि॒त्यायै᳚ त्वा॒ऽमृत॑मसि॒ पुष्टि॑रसि प्र॒जन॑नमसि ॥
 </details>
-
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 19-22 यजमानमासपुटैर् घ्नन्ति ऋत्विजः - अन्नाय त्वेत्यादिभिः ॥ प्राच्यादिषु अध्वर्युब्रह्महोत्रुद्गातारः ।  
 </details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्ना॑य त्वा  +++(हन्मि)+++ ।  
@@ -342,7 +351,6 @@ we have become the offspring of Prajapati.
 वाजा॑य त्वा  +++(हन्मि)+++ ।  
 वाज-जि॒त्यायै᳚ त्वा  +++(हन्मि)+++ ।  
 </details>
-
 <details><summary>Keith</summary>
 
 For food thee!  
@@ -350,8 +358,6 @@ For proper food thee!
 For strength thee!  
 For the conquering of strength thee!
 </details>
-
-
 <details><summary>मूलम्</summary>
 
 अन्ना॑य त्वा  +++(हन्मि)+++ ।  
@@ -359,59 +365,46 @@ For the conquering of strength thee!
 वाजा॑य त्वा  +++(हन्मि)+++ ।  
 वाजजि॒त्यायै᳚ त्वा  +++(हन्मि)+++ ।  
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अन्नाय अन्नार्थं अन्नं तव स्यादिति, त्वामहं हन्मीति शेषः । हननं ताडनम् । अन्नाद्यं अन्नादनसामर्थ्यम् । छान्दसो यत् । वाजः सङ्ग्रामसामर्थ्यम् । अन्नमेव वा । वाजयित्या सङ्ग्रामे विजयः । अन्नविजयो वा । छान्दसः क्यप् । व्यत्ययेनान्तोदात्तत्वम् पित्त्वस्य वा तुगर्थत्वात् ॥
 </details>
-
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 23दक्षिणं पादं हिरण्य उपावहरति - अमृतमिति ॥ 
 </details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अमृत॑म् असि ।  
 </details>
-
 <details><summary>Keith</summary>
 
 Thou art ambrosia, 
 </details>
-
-
 <details><summary>मूलम्</summary>
 
 अमृत॑मसि ।  
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अमृतममरणहेतुस्त्वमसि ॥
 </details>
-
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 24सयं बस्ताजिने - पुष्टिरिति ॥ 
 </details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुष्टि॑रसि, प्र॒जन॑नमसि ॥ [39]
 </details>
-
 <details><summary>Keith</summary>
 
 thou art prospering, thou art begetting.
 </details>
-
-
 <details><summary>मूलम्</summary>
 
 पुष्टि॑रसि प्र॒जन॑नमसि ॥ [39]
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 पुष्टिः पुष्टिहेतुः असि । प्रजननं प्रजहेतुरसि ॥
