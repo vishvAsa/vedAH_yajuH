@@ -51,7 +51,7 @@ unicode_script = "devanagari"
 
 ## प्रकीर्णम्
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/05_upaniShat/07_yash_ChandasAm"></div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/05_taittirIyopaniShat/07_yash_ChandasAm"></div>
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/05_taittirIyopaniShat/_index/02_AvahantI_vitanvAnA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 

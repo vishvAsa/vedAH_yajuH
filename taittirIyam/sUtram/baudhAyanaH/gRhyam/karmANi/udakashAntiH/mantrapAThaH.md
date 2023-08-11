@@ -33,4 +33,99 @@ unicode_script = "devanagari"
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/3/2/04/apaH_praNayati.md"></div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/3/2/04/apaH_praNayati">
+<details open><summary><h3>अपः प्रणयति ...{Loading}...</h3></summary>
+<details open><summary>विश्वास-प्रसुतिः</summary>
+
+अ॒पᳶ प्रण॑यति ।  
+श्र॒द्धा वा आपः॑ ।  
+श्र॒द्धामे॒वारभ्य॑ प्र॒णीय॒ प्रच॑रति ।
+</details>
+<details><summary>मूलम्</summary>
+
+अ॒पᳶ प्रण॑यति ।  
+श्र॒द्धा वा आपः॑ ।  
+श्र॒द्धामे॒वारभ्य॑ प्र॒णीय॒ प्रच॑रति ।
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+2अपः प्रणयतीत्यसकृद्विधानं फलविशेषार्थम् ।
+</details>
+
+सर्वैः श्रद्धेयत्वादपां श्रद्धात्वम् ।
+<details open><summary>विश्वास-प्रसुतिः</summary>
+
+अ॒पᳶ प्रण॑यति ।  
+य॒ज्ञो वा आपः॑ ॥ 28॥  
+य॒ज्ञमे॒वारभ्य॑ प्र॒णीय॒ प्रच॑रति ।
+</details>
+<details><summary>मूलम्</summary>
+
+अ॒पᳶ प्रण॑यति ।  
+य॒ज्ञो वा आपः॑ ॥ 28॥  
+य॒ज्ञमे॒वारभ्य॑ प्र॒णीय॒ प्रच॑रति ।
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+इष्टसाधनत्वात् यज्ञत्वमपाम् ।
+</details>
+
+प्रचरणं प्रयोगः ।
+<details open><summary>विश्वास-प्रसुतिः</summary>
+
+अ॒पᳶ प्रण॑यति ।  
+वज्रो॒ वा आपः॑ ।  
+वज्र॑मे॒व भ्रातृ॑व्येभ्यᳶ प्र॒हृत्य॑ प्र॒णीय॒ प्रच॑रति ।
+</details>
+<details><summary>मूलम्</summary>
+
+अ॒पᳶ प्रण॑यति ।  
+वज्रो॒ वा आपः॑ ।  
+वज्र॑मे॒व भ्रातृ॑व्येभ्यᳶ प्र॒हृत्य॑ प्र॒णीय॒ प्रच॑रति ।
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+अरिष्टशमनत्वाद्वज्रत्वम् ।
+</details>
+<details open><summary>विश्वास-प्रसुतिः</summary>
+
+अ॒पᳶ प्रण॑यति ।    
+आपो॒ वै र॑ख्षो॒घ्नीः ।  
+रख्ष॑सा॒मप॑हत्यै ।
+
+अ॒पᳶ प्रण॑यति ।  
+आपो॒ वै दे॒वाना᳚म्प्रि॒यन्धाम॑ ।  
+दे॒वाना॑मे॒व प्रि॒यन्धाम॑ प्र॒णीय॒ प्रच॑रति ॥29॥
+
+अ॒पᳶ प्रण॑यति ।  
+आपो॒ वै सर्वा॑ दे॒वताः᳚ ।   
+दे॒वता॑ ए॒वारभ्य॑ प्र॒णीय॒ प्रच॑रति ।
+</details>
+<details><summary>मूलम्</summary>
+
+अ॒पᳶ प्रण॑यति ।    
+आपो॒ वै र॑ख्षो॒घ्नीः ।  
+रख्ष॑सा॒मप॑हत्यै ।
+
+अ॒पᳶ प्रण॑यति ।  
+आपो॒ वै दे॒वाना᳚म्प्रि॒यन्धाम॑ ।  
+दे॒वाना॑मे॒व प्रि॒यन्धाम॑ प्र॒णीय॒ प्रच॑रति ॥29॥
+
+अ॒पᳶ प्रण॑यति ।  
+आपो॒ वै सर्वा॑ दे॒वताः᳚ ।   
+दे॒वता॑ ए॒वारभ्य॑ प्र॒णीय॒ प्रच॑रति ।
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+सर्व देवताप्रीणनत्वात् सर्व देवतात्वम् ॥
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+(आपो॒वैशा॒न्ताः । शा॒न्ताभि॑रे॒वास्य॑ शुचꣳ॑शमयति ॥)
+</details>
+<details><summary>मूलम्</summary>
+
+(आपो॒वैशा॒न्ताः । शा॒न्ताभि॑रे॒वास्य॑ शुचꣳ॑शमयति ॥)
+</details>
+</details>
+</div>

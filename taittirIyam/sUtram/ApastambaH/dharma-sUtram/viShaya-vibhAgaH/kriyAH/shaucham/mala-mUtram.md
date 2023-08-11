@@ -55,10 +55,10 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/31/01_prA~Nmukho-nnAni_bhunjIta_uchchareddaxiNAmukhaH.md">
 <details open><summary><h4>01 प्राङ्मुखोऽन्नानि भुञ्जीत उच्चरेद्दक्षिणामुखः ...{Loading}...</h4></summary>
 
-&gt; प्राङ्-मुखो ऽन्नानि भुञ्जीत   
-&gt; उच्चरेद् दक्षिणा-मुखः ।  
-&gt; उदङ्-मुखो मूत्रं कुर्यात्  
-&gt; प्रत्यक्-पादावनेजनम् 
+> प्राङ्-मुखो ऽन्नानि भुञ्जीत   
+> उच्चरेद् दक्षिणा-मुखः ।  
+> उदङ्-मुखो मूत्रं कुर्यात्  
+> प्रत्यक्-पादावनेजनम् 
 
 इति १
 </details>

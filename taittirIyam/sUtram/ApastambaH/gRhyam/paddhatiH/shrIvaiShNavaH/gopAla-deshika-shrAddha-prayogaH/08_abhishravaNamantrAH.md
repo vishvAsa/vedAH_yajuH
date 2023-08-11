@@ -43,9 +43,9 @@ Original R^ivedic version is often termed the kAshmIra-pATha because it appears 
 ### द्राविडपाठः
 <details><summary>परिचयः</summary>
 
-&gt; This pAtha is from the book 'yAjusha mantra ratnakaram' in grantha script, re-printed by Sri Krishnamurti Shastrigal.  
-&gt; It's original print is likely by vaidhika vardhini press from Kumbhakonam.  
-&gt; What you see in this pAtha (as opposed to the more popular patha) is that it doesn't have multiple anudAttas in a row in the middle of phrases.
+> This pAtha is from the book 'yAjusha mantra ratnakaram' in grantha script, re-printed by Sri Krishnamurti Shastrigal.  
+> It's original print is likely by vaidhika vardhini press from Kumbhakonam.  
+> What you see in this pAtha (as opposed to the more popular patha) is that it doesn't have multiple anudAttas in a row in the middle of phrases.
 
 इत्यजितः। तथापि क्वचित् स्वरः सन्देहास्पदम्। बहुत्र +अर्वाचीनछन्दोरागानुकरणम् इवैव भाति।   
 </details>
@@ -1658,10 +1658,10 @@ u ← u (invariable)
 विष्वङ् व्यक्रामद् इति यदुक्तं तद् एवात्र प्रपञ्च्यते । **तस्मात्** आदिपुरुषात् **विराट्** ब्रह्माण्ड-देहः **अजायत** उत्पन्नः । विविधानि राजन्ते वस्तून्यत्रेति विराट् । **विराजोऽधि** विराड्-देहस्योपरि - तम् एव देहम् अधिकरणं कृत्वा **पुरुषः** तद्देहाभिमानी कश्चित् पुमान् अजायत ।  
 सोऽयं सर्ववेदान्तवेद्यः परमात्मा स्वयम् एव स्वकीयया मायया विराड्-देहं ब्रह्माण्ड-रूपं सृष्ट्वा तत्र जीव-रूपेण प्रविश्य ब्रह्माण्डाभिमानी देवतात्मा जीवोऽभवत् ।+++(4)+++ एतच् चाथर्वणिका उत्तर-तापनीये विस्पष्टम् आमनन्ति---- 
 
-&gt; स वा एष  
-&gt; भूतानीन्द्रियाणि विराजं देवताः कोशांश्च सृष्ट्वा  
-&gt; प्रविश्यामूढो मूढ इव व्यवहरन्न् आस्ते माययैव  
-&gt; (नृ. ता. २. १, ९) 
+> स वा एष  
+> भूतानीन्द्रियाणि विराजं देवताः कोशांश्च सृष्ट्वा  
+> प्रविश्यामूढो मूढ इव व्यवहरन्न् आस्ते माययैव  
+> (नृ. ता. २. १, ९) 
 
 इति । **स** **जातः** विराट् पुरुषः **अत्यरिच्यत** अतिरिक्तोऽभूत् । विराड्-व्यतिरिक्तो देव-तिर्यङ्-मनुष्यादिरूपोऽभूत् ।  
 **पश्चात्** देवादि-जीव-भावाद् ऊर्ध्वं **भूमिं** ससर्जेति शेषः । **अथो** भूमिसृष्टेर् अनन्तरं तेषां जीवानां **पुरः** ससर्ज ।  
@@ -2557,49 +2557,49 @@ yájuḥ ← yájus- (nominal stem)
 
 - १. **पृषदाज्य**-शब्दार्थं विवृणोति श्रुत्यन्तरे - 
   
-&gt; ओषध्यः पशवो वृक्षाः  
-&gt; वीरुदाज्यं पयोदधि ।  
-&gt; हविर्भूमिर्दिशश्श्रद्धा  
-&gt; कालश्चैतानि द्वादश ।।  
-&gt; (म.भा.शां.प.२६०-१६) 
+> ओषध्यः पशवो वृक्षाः  
+> वीरुदाज्यं पयोदधि ।  
+> हविर्भूमिर्दिशश्श्रद्धा  
+> कालश्चैतानि द्वादश ।।  
+> (म.भा.शां.प.२६०-१६) 
 
-&gt; अन्नं हि पृषदाज्यम्, प्राणो हि पृषदाज्यम् (श.ब्रा.३-८-४-८) 
+> अन्नं हि पृषदाज्यम्, प्राणो हि पृषदाज्यम् (श.ब्रा.३-८-४-८) 
 
 ग्राम्याऽरण्यादि पशुभेदान् वर्ण्यते - 
 
-&gt; गौरजः पुरुषो मेषश्  
-&gt; चाश्वातरगर्दभाः ।  
-&gt; एतान् ग्राम्यान् पशूनाहुः  
-&gt; आरण्यांश्च निबोध मे ।।  
-&gt; (वि.पु.१-५-५१)  
-&gt; श्वापदा द्विखरा हस्ति  
-&gt; वानराः पक्षिपञ्चमाः ।  
-&gt; औदकाः पशवः षष्ठाः  
-&gt; सप्तमास्तु सरीसृपाः ।।  
-&gt; (वि.पु.१-५-५२) 
+> गौरजः पुरुषो मेषश्  
+> चाश्वातरगर्दभाः ।  
+> एतान् ग्राम्यान् पशूनाहुः  
+> आरण्यांश्च निबोध मे ।।  
+> (वि.पु.१-५-५१)  
+> श्वापदा द्विखरा हस्ति  
+> वानराः पक्षिपञ्चमाः ।  
+> औदकाः पशवः षष्ठाः  
+> सप्तमास्तु सरीसृपाः ।।  
+> (वि.पु.१-५-५२) 
 
 ऋगादि वेदानां सृष्टिर् अनुवर्ण्यते श्रुतिस्मृतिषु - 
 
-&gt; 'ऋचः सामानि छन्दांसि  
-&gt; पुराणं यजुषा सह ।  
-&gt; उच्छिष्टाज् जज्ञिरे सर्वे  
-&gt; दिवि देवा दिवि श्रिताः ।'  
-&gt; (अथर्व.११-७-२४) 
+> 'ऋचः सामानि छन्दांसि  
+> पुराणं यजुषा सह ।  
+> उच्छिष्टाज् जज्ञिरे सर्वे  
+> दिवि देवा दिवि श्रिताः ।'  
+> (अथर्व.११-७-२४) 
 
 वेदानां गायत्र्यादिछन्दोन्वितत्वात् पुनश्छन्दांसीति पदं चतुर्थस्याथर्ववेदस्योत्पत्तिं ज्ञापयतीत्यवधेयम् । (ऋ.भा.भू.) 
 
-&gt; सर्वेषां तु स नामानि  
-&gt; कर्माणि च पृथक् पृथक् ।  
-&gt; वेदशब्देभ्य एवादौ  
-&gt; पृथक् संस्थाश्च निर्ममे ।।  
-&gt; (म.स्मृ.१-२१)
+> सर्वेषां तु स नामानि  
+> कर्माणि च पृथक् पृथक् ।  
+> वेदशब्देभ्य एवादौ  
+> पृथक् संस्थाश्च निर्ममे ।।  
+> (म.स्मृ.१-२१)
 
  
-&gt; अग्निवायु-रविभ्यस् तु  
-&gt; त्रयं ब्रह्म सनातनम् ।  
-&gt; दुदोह यज्ञसिद्ध्यर्थम्  
-&gt; ऋग्यजुः सामलक्षणम् ।।  
-&gt; (म.स्मृ.१-२३)
+> अग्निवायु-रविभ्यस् तु  
+> त्रयं ब्रह्म सनातनम् ।  
+> दुदोह यज्ञसिद्ध्यर्थम्  
+> ऋग्यजुः सामलक्षणम् ।।  
+> (म.स्मृ.१-२३)
 
 </details>
 <details><summary>सायण-भाष्यम्</summary>
@@ -4284,15 +4284,15 @@ The verse is RV. i. 164. 50,\* found also in VS. (xxxi. 16), TS. (iii.
    comment); ⌊*Kaṭha-hss.*, p. 83;⌋ the only variant is *sacante* for  
    *sacanta* in TS.TA. 
    
-&gt; "This passage and vii. 79. 2 cast light upon the idea of *sādhya;* there are two kinds of gods: 
-&gt; 
-&gt; - those with Indra at their head and 
-&gt; - the *sādhya* 'they who are to be won' (*sādhya* 'what is to be  
+> "This passage and vii. 79. 2 cast light upon the idea of *sādhya;* there are two kinds of gods: 
+> 
+> - those with Indra at their head and 
+> - the *sādhya* 'they who are to be won' (*sādhya* 'what is to be  
    brought into order, under control, or into comprehension'). 
 
-&gt; They are thus the unknown, conceived as preceding the known. Later they are worked into the ordinary classification of Vasus, Rudras, etc.; and what was formerly a serious religious problem, a hierarchy conceived as possible before the now-accepted gods (something like the pre-Olympians with the Greeks), has become an empty name." 
-&gt; 
-&gt; R. \*⌊Also RV. x. 90. 16.⌋
+> They are thus the unknown, conceived as preceding the known. Later they are worked into the ordinary classification of Vasus, Rudras, etc.; and what was formerly a serious religious problem, a hierarchy conceived as possible before the now-accepted gods (something like the pre-Olympians with the Greeks), has become an empty name." 
+> 
+> R. \*⌊Also RV. x. 90. 16.⌋
 </details>
 <details><summary>Griffith</summary>
 
@@ -4401,8 +4401,26 @@ Durch Opfer opferten die Götter das Opfer; das waren die ersten Bräuche; sie, 
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/11_sahasrashIrSham">
 <details open><summary><h5>११ सहस्रशीर्षम् ...{Loading}...</h5></summary>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/11_sahasrashIrSham/01_sahasrashIrShaM_devaM.md"></div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/11_sahasrashIrSham/01_sahasrashIrShandevavvi.NshvAxavvi.Nshvashambhuv.md"></div>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/11_sahasrashIrSham/01_sahasrashIrShaM_devaM.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+स॒ह॒स्र॒-शीर्॑षन् दे॒व॒व्ँ वि॒श्वाक्ष॑व्ँ वि॒श्वशं॑भुवम् ।  
+विश्व॑न् ना॒राय॑णन् दे॒व॒म् अ॒ख्षरं॑ पर॒मं प्र॒भुम् ।  
+वि॒श्वतः॒ पर॑मन् नि॒त्य॒व्ँ वि॒श्वन् ना॑राय॒णꣳ ह॑रिम् ।  
+विश्व॑म् ए॒वेदं पुरु॑ष॒स् तद्विश्व॒म् उप॑जीवति ॥
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/11_sahasrashIrSham/01_sahasrashIrShaM_devaM.md">
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+<details><summary>मूलम्</summary>
+
+स॒ह॒स्र॒शीर्॑षन्दे॒व॒व्ँ वि॒श्वाक्ष॑व् विँ॒श्वशं॑भुवम् ।  
+विश्व॑न्ना॒राय॑णन्दे॒व॒म॒ख्षरं॑ पर॒मं प्र॒भुम् ।  
+वि॒श्वतः॒ पर॑मन्नि॒त्य॒व्ँ वि॒श्वन्ना॑राय॒णꣳ ह॑रिम् ।  
+विश्व॑मे॒वेदं पुरु॑ष॒स्तद्विश्व॒मुप॑जीवति ॥
+</details>
+</details>
+</div>
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/11_sahasrashIrSham/03_pativvi.NshvasyAtmeshvaraM_shAshvatam.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
@@ -7200,22 +7218,22 @@ O bountiful one, fair to see;
 
 "तव्ँ वै प्र॒वस॑न्तङ् ग॒न्ताऽसी"ति॑ होवाच -  
 
-&gt; तस्य॑ स्म ति॒स्रो रात्री॒रना᳚श्वान्गृ॒हे व॑सतात् ।  
+> तस्य॑ स्म ति॒स्रो रात्री॒रना᳚श्वान्गृ॒हे व॑सतात् ।  
 स यदि॑ त्वा पृ॒च्छेत् -  
 "कुमा॑र॒ कति॒ रात्री॑र् अवाथ्सी॒र्" इति॑,  
 "ति॒स्र" इति॒ प्रति॑ ब्रूतात् ।  
-&gt; 
-&gt; +++(स यदि॑ त्वा पृ॒च्छेत् -)+++  
-&gt; "किं प्र॑थ॒माꣳ रात्रि॑म् आश्ना॒" इति॑ ॥ 43 ॥  
+> 
+> +++(स यदि॑ त्वा पृ॒च्छेत् -)+++  
+> "किं प्र॑थ॒माꣳ रात्रि॑म् आश्ना॒" इति॑ ॥ 43 ॥  
 "प्र॒जां त॒" इति॑ +++(प्रति॑ ब्रूतात्)+++।  
-&gt;
-&gt; +++(स यदि॑ त्वा पृ॒च्छेत् -)+++  
+>
+> +++(स यदि॑ त्वा पृ॒च्छेत् -)+++  
 "किन् द्वि॒तीया॒म्" इति॑ ।  
-&gt; "प॒शूꣳस् त॒" इति॑ +++(प्रति॑ ब्रूतात्)+++।  
-&gt;
-&gt; +++(स यदि॑ त्वा पृ॒च्छेत् -)+++  
-&gt; किन्तृ॒तीया॒म् इति॑ -  
-&gt; सा॒धु॒कृ॒त्यां त॒ इति॑ +++(प्रति॑ ब्रूतात्)+++।
+> "प॒शूꣳस् त॒" इति॑ +++(प्रति॑ ब्रूतात्)+++।  
+>
+> +++(स यदि॑ त्वा पृ॒च्छेत् -)+++  
+> किन्तृ॒तीया॒म् इति॑ -  
+> सा॒धु॒कृ॒त्यां त॒ इति॑ +++(प्रति॑ ब्रूतात्)+++।
 </details>
 <details><summary>मूलम्</summary>
 
@@ -7783,7 +7801,7 @@ O bountiful one, fair to see;
 "भूयि॑ष्ठं मे॒ श्रद्द॑धीरन्न् । भूयि॑ष्ठा॒ दख्षि॑णा नयेयु॒र्" इति॑ -  
 दख्षि॑णासु नी॒यमा॑नासु॒  
 
-&gt; प्राच्येहि॒ प्राच्ये॒हीति॒ +++(प्रेर्यमाणा)+++,  
+> प्राच्येहि॒ प्राच्ये॒हीति॒ +++(प्रेर्यमाणा)+++,  
 प्राची॑ जुषा॒णा,  
 वेत्व् आज्य॑स्य॒ स्वाहा॑
 
