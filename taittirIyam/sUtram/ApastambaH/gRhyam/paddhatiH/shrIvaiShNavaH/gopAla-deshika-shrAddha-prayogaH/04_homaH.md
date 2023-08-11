@@ -153,7 +153,7 @@ title = "०४ होमः"
 अग्नेर् उतरत्तः,  
 युग्मेषु दर्भेषु प्राङ्मुखः
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/052/13_vishve_devAH/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/052/13_vishve_devAH.md"  newLevelForH1="5" includeTitle="false"> </div>  
  
 
 > आगच्छन्तु महाभागा  
