@@ -43,9 +43,9 @@ Original R^ivedic version is often termed the kAshmIra-pATha because it appears 
 ### द्राविडपाठः
 <details><summary>परिचयः</summary>
 
-< This pAtha is from the book 'yAjusha mantra ratnakaram' in grantha script, re-printed by Sri Krishnamurti Shastrigal.  
-< It's original print is likely by vaidhika vardhini press from Kumbhakonam.  
-< What you see in this pAtha (as opposed to the more popular patha) is that it doesn't have multiple anudAttas in a row in the middle of phrases.
+> This pAtha is from the book 'yAjusha mantra ratnakaram' in grantha script, re-printed by Sri Krishnamurti Shastrigal.  
+> It's original print is likely by vaidhika vardhini press from Kumbhakonam.  
+> What you see in this pAtha (as opposed to the more popular patha) is that it doesn't have multiple anudAttas in a row in the middle of phrases.
 
 इत्यजितः। तथापि क्वचित् स्वरः सन्देहास्पदम्। बहुत्र +अर्वाचीनछन्दोरागानुकरणम् इवैव भाति।   
 </details>
@@ -7218,22 +7218,22 @@ O bountiful one, fair to see;
 
 "तव्ँ वै प्र॒वस॑न्तङ् ग॒न्ताऽसी"ति॑ होवाच -  
 
-< तस्य॑ स्म ति॒स्रो रात्री॒रना᳚श्वान्गृ॒हे व॑सतात् ।  
+> तस्य॑ स्म ति॒स्रो रात्री॒रना᳚श्वान्गृ॒हे व॑सतात् ।  
 स यदि॑ त्वा पृ॒च्छेत् -  
 "कुमा॑र॒ कति॒ रात्री॑र् अवाथ्सी॒र्" इति॑,  
 "ति॒स्र" इति॒ प्रति॑ ब्रूतात् ।  
-< 
-< +++(स यदि॑ त्वा पृ॒च्छेत् -)+++  
-< "किं प्र॑थ॒माꣳ रात्रि॑म् आश्ना॒" इति॑ ॥ 43 ॥  
+> 
+> +++(स यदि॑ त्वा पृ॒च्छेत् -)+++  
+> "किं प्र॑थ॒माꣳ रात्रि॑म् आश्ना॒" इति॑ ॥ 43 ॥  
 "प्र॒जां त॒" इति॑ +++(प्रति॑ ब्रूतात्)+++।  
 <
-< +++(स यदि॑ त्वा पृ॒च्छेत् -)+++  
+> +++(स यदि॑ त्वा पृ॒च्छेत् -)+++  
 "किन् द्वि॒तीया॒म्" इति॑ ।  
-< "प॒शूꣳस् त॒" इति॑ +++(प्रति॑ ब्रूतात्)+++।  
+> "प॒शूꣳस् त॒" इति॑ +++(प्रति॑ ब्रूतात्)+++।  
 <
-< +++(स यदि॑ त्वा पृ॒च्छेत् -)+++  
-< किन्तृ॒तीया॒म् इति॑ -  
-< सा॒धु॒कृ॒त्यां त॒ इति॑ +++(प्रति॑ ब्रूतात्)+++।
+> +++(स यदि॑ त्वा पृ॒च्छेत् -)+++  
+> किन्तृ॒तीया॒म् इति॑ -  
+> सा॒धु॒कृ॒त्यां त॒ इति॑ +++(प्रति॑ ब्रूतात्)+++।
 </details>
 <details><summary>मूलम्</summary>
 
@@ -7801,7 +7801,7 @@ O bountiful one, fair to see;
 "भूयि॑ष्ठं मे॒ श्रद्द॑धीरन्न् । भूयि॑ष्ठा॒ दख्षि॑णा नयेयु॒र्" इति॑ -  
 दख्षि॑णासु नी॒यमा॑नासु॒  
 
-< प्राच्येहि॒ प्राच्ये॒हीति॒ +++(प्रेर्यमाणा)+++,  
+> प्राच्येहि॒ प्राच्ये॒हीति॒ +++(प्रेर्यमाणा)+++,  
 प्राची॑ जुषा॒णा,  
 वेत्व् आज्य॑स्य॒ स्वाहा॑
 

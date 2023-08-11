@@ -385,7 +385,7 @@ The sq. ABCD is broken into a rect. ABEF making its side BE ( 4 units) equal to 
 The commentators Dvārakānātha Yajvā and Sundararāja have described a general method as follows: yāvadicchaṇ pārśvamānyau prācyau vardhayiṭvā uttarapūrvām karṇarajjumāyacchet sā dirgha caturaśramadhyasthāyām samacaturaśra tiryanmānyām yatra nipatati tata uttaraṁ hitvā dakṣiṇāṇsam tiryanmānīm kuryāt taddirghacaturaśram bhavati This means: Having increased upto the desired length the two sides (pārŝvamāni)
 a Thibaut (1), 246.
 b Bürk, 56, 334.
-< Thibaut (1), 247.
+> Thibaut (1), 247.
 158
 BAUDHAYANA-SULBASŪTRA
 towards east, the diagonal-cord is stretched towards north-east corner. The (diago- nal) line cuts the breadth (tiryanmāni) of the square lying inside the rectangle; the northern portion is cut off (by drawing a line through this point parallel to prāci); the southern side becomes the breadth (tiryanmāni) of the (desired) rectangle.

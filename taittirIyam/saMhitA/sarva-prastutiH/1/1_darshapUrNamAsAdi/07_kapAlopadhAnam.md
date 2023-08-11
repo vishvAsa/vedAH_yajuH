@@ -124,7 +124,15 @@ The Raksas is burnt, the evil spirits are burnt.
 प्रत्युष्टादिना व्याख्यातम् (तै.सं. 1.1.2) ।  
 'अग्निवत्युपदधाति' (तै.ब्रा. 3.2.7) इत्यादि ब्राह्मणम् ॥
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/bhaTTa-bhAskara-TIkA/1/2_somayAgArambhaH/02_barhirAstaraNam/raxorAtI.md"></div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/bhaTTa-bhAskara-TIkA/1/2_somayAgArambhaH/02_barhirAstaraNam/raxorAtI.md">
+<details open><summary><h5>रक्षोऽराती ...{Loading}...</h5></summary>
+
+
+रक्षेर् असुनि अर्थविपर्यासः । 'क्षर मूर्छने' इत्यस्य वर्णविपर्यासो वा ।
+
+रातयो धनस्य दातारस्सुहृदः । 'कृत्यल्युटो बहुळम्' (पा.सू. 3.3.113) इति बहुलवचनात्कर्तरि क्तिन् । अतोन्येऽरातयः । अव्ययपूर्वपदप्रकृतिस्वरत्वम् (पा.सू. 6.2.2) ॥
+</details>
+</div>
 </details>
 
 ____

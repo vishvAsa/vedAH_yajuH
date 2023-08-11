@@ -171,7 +171,14 @@ title = "०४ श्राद्धप्रयोगः"
 
 तीर्थमुद्धृत्य, अवोक्ष्य,
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH/prakIrNaH/devaH/classes/raxAMsi/Rk/apahatA_asurA.md"></div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH/prakIrNaH/devaH/classes/raxAMsi/Rk/apahatA_asurA.md">
+<details open><summary><h5>अप॑हता॒ असु॑रा॒ ...{Loading}...</h5></summary>
+
+अप॑हता॒ असु॑रा॒ रक्षाँ॑सि  
+पिशा॒चा ये क्षय॑न्ति पृथि॒वीम् अनु॑ ।  
+अ॒न्यत्रेतो॑ गच्छन्तु॒ यत्रैषां॑ गतं॒ मनः॑ ॥
+</details>
+</div>  
 
 
 इति सिकतान् (अक्षतान्?) विकीर्य ।
