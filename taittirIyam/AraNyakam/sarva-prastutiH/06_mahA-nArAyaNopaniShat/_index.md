@@ -1433,6 +1433,14 @@ bahurUpI was archaic but popular para-vedic mantra used outside of core saMhitA 
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_05/07_tatpuruShAya_vidmahe.md">
 <details open><summary><h2>07 तत्पुरुषाय विद्महे ...{Loading}...</h2></summary>
+
+तत्पुरु॑षाय  वि॒द्महे॑  
+महादे॒वाय॑ धीमहि ।  
+तन्नो॑ रुद्रः प्रचो॒दया᳚त् ॥
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_05/07_tatpuruShAya_vidmahe.md">
+<details open><summary><h2>07 तत्पुरुषाय विद्महे ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
 तत्पुरु॑षाय  वि॒द्महे॑  
@@ -1441,7 +1449,6 @@ bahurUpI was archaic but popular para-vedic mantra used outside of core saMhitA 
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_05/07_tatpuruShAya_vidmahe.md"></div>
 
 
 ## 47
