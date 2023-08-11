@@ -370,7 +370,16 @@ Source: [TW](https://archive.org/details/prayoga-darpana)
 
 आत्मारूढाग्निमरणे (कर्ता) प्रेतस्य दक्षिणं हस्तं लौकिकाग्नौ अभितप्य 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/5/8/21_upAvaroha_jAtavedapH.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/5/8/21_upAvaroha_jAtavedapH.md">
+<details open><summary><h5>21 उपावरोह जातवेदᳶ ...{Loading}...</h5></summary>
+
+उ॒पाव॑रोह जातवेद॒ᳶ पुन॒स् त्वम् ॥41॥  
+दे॒वेभ्यो॑ ह॒व्यव्ँ व॑ह नᳶ प्रजा॒नन्न् ।  
+आयु॑ᳶ प्र॒जाꣳ र॒यिम् अ॒स्मासु॑ धेहि ।  
+अज॑स्रो दीदिहि नो दुरो॒णे ।  
+
+</details>
+</div>  
 
 इत्युपावरोहमन्त्रं जपित्वा, 'उपघातप्रायश्चित्तं करिष्ये' इति सङ्कल्प्य, परिस्तीर्य, आज्यं दर्वीञ्च संस्कृत्य 'पुनस्त्वादित्याः' इत्यग्निं प्रज्वाल्य सर्वप्रायश्चित्तम् अनाज्ञातत्रयेण (त्रयं च) हुत्वा संस्कुर्यात् ।
 

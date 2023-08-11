@@ -108,7 +108,7 @@ title = "२३ ईशानबलिः"
 
 उत्तरया दक्षिणस्याम् ईशानम् आवाहयति १  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/10_A_tvA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/10_A_tvA.md">
 <details open><summary><h5>१० आ त्वा ...{Loading}...</h5></summary>
 
 
@@ -232,7 +232,7 @@ title = "२३ ईशानबलिः"
 उत्तरैर् यथास्वम् ओदनेभ्यो हुत्वा  
 सर्वतस् समवदायोत्तरेण यजुषाग्निं स्विष्टकृतम् ।  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/11_-30_upaspRshatu_mIDhvAnmIDhuShe.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/11_-30_upaspRshatu_mIDhvAnmIDhuShe.md">
 <details open><summary><h5>११ -३० उपस्पृशतु मीढ्वान्मीढुषे ...{Loading}...</h5></summary>
 
 
@@ -263,7 +263,7 @@ title = "२३ ईशानबलिः"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/31_agnaye_sviShTakRte.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/31_agnaye_sviShTakRte.md">
 <details open><summary><h5>३१ अग्नये स्विष्टकृते ...{Loading}...</h5></summary>
 
 
@@ -337,7 +337,7 @@ title = "२३ ईशानबलिः"
 
 उत्तरेण यजुषोपस्थाय  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/32_svasti_naH.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/32_svasti_naH.md">
 <details open><summary><h5>३२ स्वस्ति नः ...{Loading}...</h5></summary>
 
 
@@ -349,7 +349,7 @@ title = "२३ ईशानबलिः"
 उत्तरैस् सहोदनानि पर्णान्य् एकैकेन द्वे द्वे दत्त्वा  
 देवसेनाभ्यो दशोत्तराभ्यः ५
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/33_-41_gRhapopaspRsha_gRhapAya.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/33_-41_gRhapopaspRsha_gRhapAya.md">
 <details open><summary><h5>३३ -४५ गृहपोपस्पृश गृहपाय ...{Loading}...</h5></summary>
 
 
@@ -429,7 +429,7 @@ title = "२३ ईशानबलिः"
 
 पूर्ववद् उत्तरैः ६  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/42_-45_dvArApopaspRsha.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/42_-45_dvArApopaspRsha.md">
 <details open><summary><h5>३३ -४५ गृहपोपस्पृश गृहपाय ...{Loading}...</h5></summary>
 
 - द्वा॒रा॒पोप॑स्पृश। द्वारा॒पाय॒ स्वाहा॑ ।  
@@ -510,7 +510,7 @@ title = "२३ ईशानबलिः"
 ओदनपिण्डं संवृत्य  
 पर्ण-पुटे ऽवधायोत्तरेण यजुषा वृक्ष आसजति+++(=अवलम्बयति)+++ ७  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/46_namo_niShangiNe.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/46_namo_niShangiNe.md">
 <details open><summary><h5>४६ नमो निषङ्गिणे ...{Loading}...</h5></summary>
 
 
@@ -758,7 +758,7 @@ title = "२३ ईशानबलिः"
 
 ईशानवद् आवाहनम् १३  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/10_A_tvA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/10_A_tvA.md">
 <details open><summary><h5>१० आ त्वा ...{Loading}...</h5></summary>
 
 
@@ -883,7 +883,7 @@ title = "२३ ईशानबलिः"
 
 उत्तराभ्याम् उपतिष्ठते १६  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/47_-48_xetrasya_patinA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/47_-48_xetrasya_patinA.md">
 <details open><summary><h5>४७ -४८ क्षेत्रस्य पतिना ...{Loading}...</h5></summary>
 
 

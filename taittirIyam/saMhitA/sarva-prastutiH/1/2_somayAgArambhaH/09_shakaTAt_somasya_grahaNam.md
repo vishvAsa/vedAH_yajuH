@@ -13,7 +13,6 @@ ________
 
 1शकटेन सोमं प्रच्यावयति - प्रच्यवस्वेति तिसृभिः । तत्र प्रथमा षट्पदा अतिजगती ॥
 </details>
-
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 प्रच्य॑वस्व भुवस्पते॒ +++(सोम!)+++  
@@ -23,7 +22,6 @@ ________
 मा त्वा॒ वृका॑ अघा॒यवः॑।      
 मा ग॑न्ध॒र्वो वि॒श्वाव॑सु॒र् आ द॑घत्+++(=आत्मसात् कार्षुः)+++ ।
 </details>
-
 <details><summary>Keith</summary>
 
 Move forward, O lord of the world,  
@@ -33,14 +31,10 @@ Let not robbers find thee;
 Let not the evil-working wolves (find) thee;  
 Nor the Gandharva, Viçvavasu, injure thee.
 </details>
-
-
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 प्रच्य॑वस्व भुवस्पते॒ विश्वा᳚न्य॒भि धामा॑नि॒ मा त्वा॑ परिप॒री वि॑द॒न्मा त्वा॑ परिप॒न्थिनो॑ विद॒न्मा त्वा॒ वृका॑ अघा॒यवो॒ मा ग॑न्ध॒र्वो वि॒श्वाव॑सु॒रा द॑घत्
 </details>
-
-
 <details><summary>मूलम्</summary>
 
 +++(अतिजगतीछन्दोनुगुणः मन्त्रः)+++  
@@ -52,7 +46,6 @@ Nor the Gandharva, Viçvavasu, injure thee.
 मा त्वा॒ वृका॑ अघा॒यवः॑।   +++(८ अक्षराणि)+++     
 मा ग॑न्ध॒र्वो वि॒श्वाव॑सु॒रा द॑घत् ।  +++(११ अक्षराणि - चतुर्थपादः विवृद्धाक्षरः)+++
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 
@@ -71,15 +64,12 @@ Nor the Gandharva, Viçvavasu, injure thee.
 
 किच्च - विश्वावसुनामा गन्धर्वः त्वां मा दघत् परिपरी च मा भूत् आदघिता च मा भूत् इति द्वयमस्य निषिध्यते । चतुर्थपादो विवृद्धाक्षरः ॥
 </details>
-
-
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 श्ये॒नो भू॒त्वा परा॑ पत  
 यज॑मानस्य नो गृ॒हे +++(प्राग्वंशे)+++ ।  
 +++(ऋत्विक्प्रेरित)+++दे॒वैस् सꣵ॑स्कृ॒तम् +++(आसनम्)+++ ।  
 </details>
-
 <details><summary>Keith</summary>
 
 Become an eagle and fly away   
@@ -87,7 +77,6 @@ to the place in the house of the sacrificer
 which we have prepared with the gods (for thee). 
 
 </details>
-
 <details><summary>मूलम्</summary>
 
 श्ये॒नो भू॒त्वा परा॑ पत  
@@ -95,7 +84,6 @@ which we have prepared with the gods (for thee).
 दे॒वैस्सꣵ॑स्कृ॒तम् ।    
 +++(अत्र तृतीयपादः ह्रसिष्ठः चतुर्थो वर्षिष्ठः इति व्याख्याने । अयं न स्पष्टः मूले ।)+++
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 2अथ द्वितीया श्येन इत्यनुष्टुप् । अत्र तृतीयः पादो ह्रसिष्ठः, चतुर्थो वर्षिष्ठः ॥  
@@ -110,35 +98,27 @@ ________
 
 अध्वर्यु-यजमानौ गच्छतः।।
 </details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(हे सोम!)+++ यज॑मानस्य स्व॒स्त्यय॑न्य् अ॒सि  ।  
 </details>
-
 <details><summary>Keith</summary>
 
 Thou art the good luck of the sacrificer.
 </details>
-
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 －यज॑मानस्य स्व॒स्त्यय॑न्य॒स्यपि॒ पन्था॑मगस्महि स्वस्ति॒गाम॑ने॒हस॒य्ँयेन॒ विश्वा॒ᳶ परि॒ द्विषो॑ वृ॒णक्ति॑ वि॒न्दते॒ वसु॒
 </details>
-
 <details><summary>मूलम्</summary>
 
 यज॑मानस्य स्व॒स्त्यय॑न्य॒सि  ।
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 3अध्वर्युयजमानौ गच्छतः - यजमानस्य स्वस्त्ययनीति ॥  
 स्वस्त्ययनमविनाशप्रापणं तद्वानसि यजमानस्य स्वस्त्ययनकार्यसि हे सोम । यद्वा - स्वस्तिमदयनमाश्रयस्तद्वान् अविनश्वराश्रयत्वात् यजमानस्याविनश्वराश्रयोसीति यावत् । सर्वथा 'परादिश्छन्दसि बहुलम्' इत्युत्तरपदाद्युदात्तत्वम् ।
 </details>
-
-
-
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 अपि॒ पन्था॑म् अगस्महि  
@@ -146,7 +126,6 @@ Thou art the good luck of the sacrificer.
 येन॒ विश्वा॒ᳶ परि॒ द्विषो॑  
 वृ॒णक्ति॑, वि॒न्दते॒ वसु॑ ।
 </details>
-
 <details><summary>Keith</summary>
 
 We have reached the path  
@@ -154,7 +133,6 @@ Which leadeth to bliss, without a foe,
 Whereby a man defeateth all his foes  
 and winneth wealth.
 </details>
-
 <details><summary>मूलम्</summary>
 
 अपि॒ पन्था॑मगस्महि  
@@ -162,7 +140,6 @@ and winneth wealth.
 येन॒ विश्वा॒ᳶ परि॒ द्विषो॑  
 वृ॒णक्ति॑ वि॒न्दते॒ वसु॑ ।
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 सतिशिष्टत्वादीनि[दि] प्वरस्य अथ तृतीया - अपिपन्थामित्यनुष्टुप् ।  
@@ -181,7 +158,6 @@ ________
 
 राजानं प्रत्य् उपतिष्ठते। ।
 </details>
-
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 नमो॑ मि॒त्रस्य॒ वरु॑णस्य॒ चख्ष॑से+++(!)+++  
@@ -190,7 +166,6 @@ ________
 दि॒वस्-पु॒त्राय॒ सूर्या॑य शꣳसत ॥  
 +++(वरणात्मा कदाचित् सोम उपयाति - 'वरुणो वा एष यजमानमभ्यैति यत्क्रीतस्सोम उपनद्धः' इति। मित्रवान् अपि - 'मित्रो न एहि' इति सोम उच्यते ।)+++
 </details>
-
 <details><summary>Keith</summary>
 
 Honour to the radiance of Mitra and Varuna.  
@@ -198,12 +173,10 @@ This worship, this reverence offer to the god;
 To the far seeing, god-born, the banner,  
 The son of the sky, the sun, do ye sing.
 </details>
-
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 －नमो॑ मि॒त्रस्य॒ वरु॑णस्य॒ चख्ष॑से म॒हो दे॒वाय॒ तदृ॒तꣳ स॑पर्यत दूरे॒दृशे॑ दे॒वजा॑ताय के॒तवे॑ दि॒वस्पु॒त्राय॒ सूर्या॑य शꣳसत॒
 </details>
-
 <details><summary>मूलम्</summary>
 
 नमो॑ मि॒त्रस्य॒ वरु॑णस्य॒ चख्ष॑से  
@@ -212,7 +185,6 @@ The son of the sky, the sun, do ye sing.
 दि॒वस्पु॒त्राय॒ सूर्या॑य शꣳसत ॥
 
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 5राजानं प्रत्युपतिष्ठते - नमो मित्रस्येति जगत्या ॥
@@ -230,14 +202,30 @@ ________
 शकटम् उदग्-ईषम् उपस्तम्भयति।  
 +++(इषा = शकटस्य महादण्डो यस्यैकस्मिन् भागे वृषो युज्यते, अपरस्मिन् च शकटम्।)+++
 </details>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/varuNasya_skambhanam.md">
+<details open><summary><h5>वरुणस्य स्कम्भनम् ...{Loading}...</h5></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/varuNasya_skambhanam.md"  newLevelForH1="5" includeTitle="false"> </div>  
+वरु॑णस्य॒ +++(सोमस्य च)+++ स्कम्भ॑नम्+++(=धारयिता)+++ असि ।
+</details>
+<details><summary>Keith</summary>
 
+Thou art the pillar of Varuna.
+</details>
+<details><summary>मूलम्</summary>
+
+वरु॑णस्य॒ स्कम्भ॑नमसि ।
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+वरुणस्य स्कम्भनं स्तम्भनमुत्पादयिता त्वमसि यागद्वारेण । यद्वा - वरुणस्य वरणीयस्य वारयितुर्वा सोमस्य स्कम्भनं धारायिता असि ॥
+</details>
+</details>
+</div>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 वरु॑णस्य॒ स्कम्भ॑नमसि॒ वरु॑णस्य स्कम्भ॒सर्ज॑नम॒स्युन्मु॑क्तो॒ वरु॑णस्य॒ पाशः॑ ॥ [17]
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 6शकटमुदगीषमुपस्तम्भयति - वरुणस्य स्कम्भनमसीति ॥ व्याख्यातम् । इह त्वयं विशेषः - ईषाया उपस्कम्भनमभिधेयम्, तत्र तु गौः ॥
@@ -249,9 +237,26 @@ ________
 
 शम्याम् उद्-वृहति।
 </details>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/varuNasya_skambhanam.md">
+<details open><summary><h5>वरुणस्य स्कम्भनम् ...{Loading}...</h5></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/varuNasya_skambhanam.md"  newLevelForH1="5" includeTitle="false"> </div>  
+वरु॑णस्य॒ +++(सोमस्य च)+++ स्कम्भ॑नम्+++(=धारयिता)+++ असि ।
+</details>
+<details><summary>Keith</summary>
 
+Thou art the pillar of Varuna.
+</details>
+<details><summary>मूलम्</summary>
+
+वरु॑णस्य॒ स्कम्भ॑नमसि ।
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+वरुणस्य स्कम्भनं स्तम्भनमुत्पादयिता त्वमसि यागद्वारेण । यद्वा - वरुणस्य वरणीयस्य वारयितुर्वा सोमस्य स्कम्भनं धारायिता असि ॥
+</details>
+</details>
+</div>
 <details><summary>भट्टभास्कर-टीका</summary>
 
 7शम्यामुद्वृहति - वरुणस्य स्कम्भसर्जनमसीति ॥ व्याख्यातमेतत् । अत्रापि स एवार्थः । सर्जनं विसर्जनं वेदितव्यम् ॥
@@ -262,24 +267,18 @@ ________
 
 योक्त्रम् अपनयति।
 </details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उन् मु॑क्तो॒ वरु॑णस्य॒ पाशः॑ ॥
 </details>
-
 <details><summary>Keith</summary>
 
 Varuna's noose is loosened.
 </details>
-
-
-
 <details><summary>मूलम्</summary>
 
 उन्मु॑क्तो॒ वरु॑णस्य॒ पाशः॑ ॥
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 8योक्त्रमपनयति - उन्मुक्तो वरुणस्य पाश इति ॥ अपनीतोसीत्यर्थः । यद्वा - त्वय्यपनीते वरुणस्य पाशः उन्मुक्तो भवतीति ॥

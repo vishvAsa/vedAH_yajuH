@@ -226,7 +226,7 @@ title = "१४ नामकरणम्"
 
 प्रवासादेत्य पुत्रस्योत्तराभ्यामभिमन्त्रणं +++(=अङ्गादङ्गात्)+++  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/03_angAdangAtsambhavasi_hRdayAdadhi.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/03_angAdangAtsambhavasi_hRdayAdadhi.md">
 <details open><summary><h5>०३ अङ्गादङ्गात्सम्भवसि हृदयादधि ...{Loading}...</h5></summary>
 
 
@@ -239,7 +239,7 @@ title = "१४ नामकरणम्"
 मूर्धन्यवघ्राणं +++(=अश्मा भव)+++  दक्षिणे कर्ण  
 
 मूर्धन्यवघ्राणम् -
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/04_ashmA_bhavetyeShA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/04_ashmA_bhavetyeShA.md">
 <details open><summary><h5>०४ अश्मा भवेत्येषा ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_12/01_ashmA_bhava.md">
 <details open><summary><h7>०१ अश्मा भव ...{Loading}...</h7></summary>
@@ -257,7 +257,7 @@ title = "१४ नामकरणम्"
 
 ##### कर्णे जपः  
 उत्तरान्मन्त्रान् +++(=अग्निरायुष्मान् स वनस्पतिभिः)+++ जपेत् १२  
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/05-09_agnirAyuShmAntsa_vanaspatibhirAyuShmAntena.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/05-09_agnirAyuShmAntsa_vanaspatibhirAyuShmAntena.md">
 <details open><summary><h5>०५-०९ अग्निरायुष्मान्त्स वनस्पतिभिरायुष्मान्तेन ...{Loading}...</h5></summary>
 
 
@@ -320,7 +320,7 @@ title = "१४ नामकरणम्"
 
 कुमारीमुत्तरेण यजुषा +++("सर्व॑स्मादा॒त्मन॒स्संभू॑ताऽसि॒ सा जी॑व श॒रद॑श्श॒तम् । ")+++ ऽभिमन्त्रयते १३  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/10_sarvasmAdAtmanassambhUtA-si_sA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/10_sarvasmAdAtmanassambhUtA-si_sA.md">
 <details open><summary><h5>१० सर्वस्मादात्मनस्सम्भूताऽसि सा ...{Loading}...</h5></summary>
 
 

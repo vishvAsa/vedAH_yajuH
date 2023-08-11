@@ -8,7 +8,7 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_18/01_axIbhyAnte_nAsikAbhyAm.md">
 <details open><summary><h2>०१ अक्षीभ्यान्ते नासिकाभ्याम् ...{Loading}...</h2></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/163/01_axIbhyAM_te.md">
-<details open=""><summary><h4>०१ अक्षीभ्यां ते ...{Loading}...</h4></summary>
+<details open><summary><h4>०१ अक्षीभ्यां ते ...{Loading}...</h4></summary>
 
 
 अ॒क्षीभ्या॑न् ते॒ नासि॑काभ्यां॒  
@@ -23,7 +23,7 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_18/02_grIvAbhyasta_uShNihAbhyaH.md">
 <details open><summary><h2>०२ ग्रीवाभ्यस्त उष्णिहाभ्यः ...{Loading}...</h2></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/163/02_grIvAbhyasta_uShNihAbhyaH.md">
-<details open=""><summary><h4>०२ ग्रीवाभ्यस्त उष्णिहाभ्यः ...{Loading}...</h4></summary>
+<details open><summary><h4>०२ ग्रीवाभ्यस्त उष्णिहाभ्यः ...{Loading}...</h4></summary>
 
 
 ग्री॒वाभ्य॑स्+++(→पर्वभेदेन बहुवचनम्)+++ त उ॒ष्णिहा॑भ्यः॒+++(=ग्रीवापृष्ठमूलभ्यः)+++  
@@ -38,7 +38,7 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_18/03_Antrebhyaste_gudAbhyo.md">
 <details open><summary><h2>०३ आन्त्रेभ्यस्ते गुदाभ्यो ...{Loading}...</h2></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/163/03_Antrebhyaste_gudAbhyo.md">
-<details open=""><summary><h4>०३ आन्त्रेभ्यस्ते गुदाभ्यो ...{Loading}...</h4></summary>
+<details open><summary><h4>०३ आन्त्रेभ्यस्ते गुदाभ्यो ...{Loading}...</h4></summary>
 
 
 आ॒न्त्रेभ्य॑स् ते॒ गुदा॑भ्यो  
@@ -53,7 +53,7 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_18/04_UrubhyAnte-ShThIvadbhyA~n_janghAbhyAm.md">
 <details open><summary><h2>०४ ऊरुभ्यान्तेऽष्ठीवद्भ्याञ् जङ्घाभ्याम् ...{Loading}...</h2></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/163/04_UrubhyAM_te.md">
-<details open=""><summary><h4>०४ ऊरुभ्यां ते ...{Loading}...</h4></summary>
+<details open><summary><h4>०४ ऊरुभ्यां ते ...{Loading}...</h4></summary>
 
 
 ऊ॒रुभ्या॑न् ते ऽष्ठी॒वद्भ्यां॒+++(=ऊरुजान्वोः सन्धिभ्याम्)+++  
@@ -76,7 +76,7 @@ unicode_script: devanagari
 
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/163/05_mehanAdvanaMkaraNAllomabhyaste_nakhebhyaH.md">
-<details open=""><summary><h4>०५ मेहनाद्वनंकरणाल्लोमभ्यस्ते नखेभ्यः ...{Loading}...</h4></summary>
+<details open><summary><h4>०५ मेहनाद्वनंकरणाल्लोमभ्यस्ते नखेभ्यः ...{Loading}...</h4></summary>
 
 
 मेह॑नाद्वनं॒कर॑णा॒ल्लोम॑भ्यस्ते न॒खेभ्यः॑ ।  
@@ -97,7 +97,7 @@ unicode_script: devanagari
 
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/163/06_angAdangAllomnolomno_jAtaM.md">
-<details open=""><summary><h4>०६ अङ्गादङ्गाल्लोम्नोलोम्नो जातं ...{Loading}...</h4></summary>
+<details open><summary><h4>०६ अङ्गादङ्गाल्लोम्नोलोम्नो जातं ...{Loading}...</h4></summary>
 
 
 अङ्गा॑दङ्गा॒ल्लोम्नो॑लोम्नो जा॒तं पर्व॑णिपर्वणि ।  

@@ -21,11 +21,20 @@ title = "१० प्रायणीयम् अहः"
 ज्योति॑ष्टोमो॒ वै स्तोमा॑ना॒म् मुख॑म् ।
 मु॒ख॒त ए॒व स्तोमा॒न् प्र यु॑ञ्जते ।
 </details>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/7/4/10_prAyaNIyam_ahaH/jyotir-virAT-tvam.md">
+<details open><summary><h3>ज्योतिर्-विराट्-त्वम् ...{Loading}...</h3></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+ते +++(ज्योतिर्गौरायुरिति त्रयः)+++ सꣵस्तु॑ता वि॒राज॑म् +++(दशाक्षरां)+++ अ॒भि सम्प॑द्यन्ते ।[32]
++++(गोआयुषी)+++ द्वे च + ऋचा॒व् अति॑ रिच्येते - एक॑या॒ +++(२४१-स्तोत्रिया)+++ गौर् अति॑रिक्त॒ , एक॒या +++(२५९-स्तोत्रिया??)+++ ऽऽयु॑र् ऊ॒नः ।  
++++(ज्योतिरतिरात्रस्य १९०*२ = ३७० स्तोत्रिया / ज्योतिष्टोमस्य १९० स्तोत्रिया इति कृत्वा, तस्यैव तु दशकपूरणम् भवति। ततो हि ज्योतिर् गृह्यते प्रथमं गोआयुषी परित्यज्य।)+++
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/7/4/10_prAyaNIyam_ahaH/jyotir-virAT-tvam.md"></div>  
-
+सु॒व॒र्गो वै लो॒को ज्योति॒र्, +++(यत)+++ ऊर्ग्+++(=अन्नं)+++ वि॒राट् ।
+</details>
+</details>
+</div>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सु॒व॒र्गम् ए॒व तेन॑ लो॒कय्ँ य॑न्ति ।
@@ -42,5 +51,3 @@ title = "१० प्रायणीयम् अहः"
 +++(बृहत् बृहता गेयः,)+++ तन् म॑ध्य॒तो द॑धति॒ विधृ॑त्यै ।
 तेनाजा॑मि ॥ [33]  
 </details>
-
-

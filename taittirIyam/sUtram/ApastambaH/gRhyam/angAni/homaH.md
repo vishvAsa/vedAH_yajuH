@@ -50,8 +50,21 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhanirUpaNam/01_19_pavitrayossa.NskAra_AyAmataH.md">
 <details open><summary><h2>०१ १९ पवित्रयोस्सँस्कार आयामतः ...{Loading}...</h2></summary>
 
-पवित्रसृष्टिः - पवित्रयोस्संस्कारः, आयामतः +++(=दीर्घ्यतः)+++ परीमाणम्, … इति दर्शपूर्णमासवत्तूष्णीम्। +++(तयोरायामतो यत्परिमाणं दीर्घप्रमाणं प्रादेशमात्रौ।[आप.श्रौ.१११९.] )+++ +++(समावप्रच्छिन्नाग्रौ दर्भौ प्रादेशमात्रौ पवित्रे कुरुते, तृणं काष्ठं वान्तर्धाय छिनत्ति, न नखेन। ततोऽप उपस्पृशेत् - "रौद्रराक्षस" इति परिशिष्टवचना। ततस्तयोर्मूलादारभ्या ऽग्रादद्भिर्मार्जनम् ।)+++ +++(आज्यसंस्काराय प्रोक्षणीसंस्काराय प्रणीताप्रणयनाय च पवित्रयुगलौ अपेक्षितौ। अन्तत एकम् अग्नौ प्रह्रियते, अपरम् पाणौ ध्रियते।)+++
+(पवित्रसृष्टिः -) 
 
+पवित्रयोस् संस्कारः, आयामतः +++(=दीर्घ्यतः [प्रादेशमात्रं])+++ परीमाणम्,  
+… इति दर्शपूर्णमासवत्तूष्णीम्।  
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+> तयोर् आयामतो यत्परिमाणं दीर्घप्रमाणं प्रादेशमात्रौ।[आप.श्रौ.१११९.] 
+> समावप्रच्छिन्नाग्रौ दर्भौ प्रादेशमात्रौ पवित्रे कुरुते, तृणं काष्ठं वान्तर्धाय छिनत्ति, न नखेन।
+
+ततोऽप उपस्पृशेत् - "रौद्रराक्षस" इति परिशिष्टवचनात्। ततस्तयोर्मूलाद् आरभ्याऽग्राद् अद्भिर्मार्जनम् ।
+
+
+आज्यसंस्काराय प्रोक्षणीसंस्काराय प्रणीताप्रणयनाय च प्रयुज्यते।
+</details>
 </details>
 </div>
 
@@ -64,7 +77,8 @@ unicode_script: devanagari
 <details open><summary><h2>०१ २० अपरेणाग्निम् पवित्रान्तर्हिते ...{Loading}...</h2></summary>
 
 
-अपाम् प्रणयनम् - अपरेणाग्निं पवित्रान्तर्हिते पात्रेऽप आनीयोदगग्राभ्यां पवित्राभ्यां त्रिरुत्पूय, समं प्राणैर्हृत्वोत्तरेणाग्निं दर्भेषु सादयित्वा, दर्भैः प्रच्छाद्य २०
+अपरेणाग्निं पवित्रान्तर्हिते पात्रेऽप आनीयोदगग्राभ्यां पवित्राभ्यां त्रिर् उत्पूय,  
+समं प्राणैर् हृत्वोत्तरेणाग्निं दर्भेषु सादयित्वा, दर्भैः प्रच्छाद्य २०
 
 </details>
 </div>  
@@ -112,7 +126,7 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhanirUpaNam/02_02_shamyAH_paridhyarthe.md">
 <details open><summary><h2>०२ ०२ शम्याः परिध्यर्थे ...{Loading}...</h2></summary>
 
-शम्याः परिध्यर्थे परिधिः - शम्याः परिध्यर्थे विवाह+उपनयन-समावर्तन-सीमन्त-चौल-गोदान-प्रायश्चित्तेषु २ +++(अथ परिधीन् परिदधाति। तत आघारसमिधौ।)+++
+शम्याः+++(=युगकीलाः)+++ परिध्यर्थे विवाह+उपनयन-समावर्तन-सीमन्त-चौल-गोदान-प्रायश्चित्तेषु २ +++(अथ परिधीन् परिदधाति। तत आघारसमिधौ।)+++
 
 </details>
 </div>
@@ -121,30 +135,30 @@ unicode_script: devanagari
 
 परिषेचनम् - अग्निं परिषिञ्चत्य् - अदितेऽनुमन्यस्वेति दक्षिणतः प्राचीनम्, अनुमते ऽमुमन्यस्वेति पश्चादुदीचीनं, सरस्वतेऽनुमन्यस्वेत्युत्तरतः प्राचीनं, देव सवितः प्रसुवेति समन्तम् ३  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/01_adite-nu_manyasva.md">
-<details open=""><summary><h4>०१ अदितेऽनु मन्यस्व ...{Loading}...</h4></summary>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/01_adite-nu_manyasva.md">
+<details open><summary><h4>०१ अदितेऽनु मन्यस्व ...{Loading}...</h4></summary>
 
 अदि॒तेऽनु॑ मन्यस्व।
 
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/02_anumate-nu_manyasva.md">
-<details open=""><summary><h4>०२ अनुमतेऽनु मन्यस्व ...{Loading}...</h4></summary>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/02_anumate-nu_manyasva.md">
+<details open><summary><h4>०२ अनुमतेऽनु मन्यस्व ...{Loading}...</h4></summary>
 
 अनु॑म॒ते+++(=ऊनचन्द्रे पूर्णमासि)+++ ऽनु॑ मन्यस्व।
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/03_saras-vate-nu_manyasva.md">
-<details open=""><summary><h4>०३ सरस्-वतेऽनु मन्यस्व ...{Loading}...</h4></summary>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/03_saras-vate-nu_manyasva.md">
+<details open><summary><h4>०३ सरस्-वतेऽनु मन्यस्व ...{Loading}...</h4></summary>
 
 सर॑स्-वते+++(छान्दसो गुणः)+++ ऽनु॑ मन्यस्व।
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/04_deva_savitaH.md">
-<details open=""><summary><h4>०४ देव सवितः ...{Loading}...</h4></summary>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/04_deva_savitaH.md">
+<details open><summary><h4>०४ देव सवितः ...{Loading}...</h4></summary>
 
 देव सवितः॒ प्रसु॑व।
 

@@ -94,7 +94,7 @@ ___________________
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_10/02_AmAgannityeShA.md">
 <details open><summary><h2>०२ आमागन्नित्येषा ...{Loading}...</h2></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_09/16_AmA-gan_yashasA.md">
-<details open=""><summary><h4>१६ आमाऽगन् यशसा ...{Loading}...</h4></summary>
+<details open><summary><h4>१६ आमाऽगन् यशसा ...{Loading}...</h4></summary>
 
 
 +++(उदक!)+++ आ मा॑ ऽग॒न्॒ यश॑सा॒ वर्च॑सा॒  

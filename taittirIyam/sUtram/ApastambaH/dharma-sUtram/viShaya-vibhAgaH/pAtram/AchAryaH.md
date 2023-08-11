@@ -199,24 +199,24 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/01_pravachanayukto_varShAsharadam_maithunaM.md">
 <details open><summary><h4>01 प्रवचनयुक्तो वर्षाशरदम् मैथुनं ...{Loading}...</h4></summary>
 
-प्रवचनयुक्तो वर्षाशरदं मैथुनं वर्जयेत् १
+प्रवचन-युक्तो वर्षा-शरदं मैथुनं वर्जयेत् १
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/03_shayAnashchAdhyApanaM_varjayet.md">
 <details open><summary><h4>03 शयानश्चाध्यापनं वर्जयेत् ...{Loading}...</h4></summary>
 
-शयानश्चाध्यापनं वर्जयेत् ३
+शयानश् चाध्यापनं वर्जयेत् ३
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/04_na_cha_tasyAM.md">
 <details open><summary><h4>04 न च तस्यां ...{Loading}...</h4></summary>
 
-न च तस्यां शय्यायामध्यापयेद्यस्यां शयीत ४
+न च तस्यां शय्यायाम् अध्यापयेद् यस्यां शयीत ४
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/05_anAviHsraganulepaNaH_syAt.md">
 <details open><summary><h4>05 अनाविःस्रगनुलेपणः स्यात् ...{Loading}...</h4></summary>
 
-अनाविःस्रगनुलेपणः स्यात् ५
+अन्-आविः+++(भूत)+++-स्रग्-अनुलेपणः स्यात् ५
 </details>
 </div>

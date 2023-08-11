@@ -221,14 +221,17 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/03/05_udagagraiH_prAgagraishcha_darbhaistRNairvAgnInparistRNAtyagnimagnI.md">
 <details open><summary><h2>05 उदगग्रैः प्रागग्रैश्च दर्भैस्तृणैर्वाग्नीन्परिस्तृणात्यग्निमग्नी ...{Loading}...</h2></summary>
 
-उदगग्रैः प्रागग्रैश्च दर्भैस् तृणैर् वाग्नीन् परिस्तृणात्यग्निमग्नी वा ५  
+उदगग्रैः प्रागग्रैश्च दर्भैस् तृणैर् वाग्नीन् परिस्तृणात्य्,  
+अग्निम् अग्नी वा ५  
 
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/03/06_khAdiraH_sruvo_vaikankatyagnihotrahavaNI.md">
 <details open><summary><h2>06 खादिरः स्रुवो वैकङ्कत्यग्निहोत्रहवणी ...{Loading}...</h2></summary>
 
-खादिरः स्रुवो वैकङ्कत्य् अग्निहोत्रहवणी बाहुमात्र्य् अरत्निमात्री वा ६  
+खादिरः स्रुवो,  
+वैकङ्कत्य् अग्नि-होत्र-हवणी+++(←स्रुक् इव)+++,  
+बाहुमात्र्य् अरत्निमात्री+++(=कूर्परात् कनिष्ठिकान्तं यावत्)+++ वा ६  
 
 </details>
 </div>  

@@ -21,7 +21,7 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/09_pAlAshamAsanam_pAduke_dantapraxAlanamiti.md">
 <details open><summary><h4>09 पालाशमासनम् पादुके दन्तप्रक्षालनमिति ...{Loading}...</h4></summary>
 
-पालाशमासनं पादुके दन्तप्रक्षालनमिति च वर्जयेत् ९
+पालाशम् {आसनं, पादुके, दन्त-प्रक्षालनम्} इति च वर्जयेत् ९
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/04/21_nityamuttaraM_vAsaH_kAryam.md">

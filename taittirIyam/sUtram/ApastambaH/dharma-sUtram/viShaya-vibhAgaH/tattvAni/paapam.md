@@ -131,7 +131,7 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/31/23_krodhAdIMshcha_bhUtadAhIyAndoShAnvarjayet.md">
 <details open><summary><h4>23 क्रोधादींश्च भूतदाहीयान्दोषान्वर्जयेत् ...{Loading}...</h4></summary>
 
-क्रोधादींश्च भूतदाहीयान्दोषान्वर्जयेत् २३
+क्रोधादींश् च भूत-दाहीयान् दोषान् वर्जयेत् २३
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/18/03_ahaviShyamanRta~N_krodhaM_yena.md">

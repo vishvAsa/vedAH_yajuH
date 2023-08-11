@@ -20,8 +20,9 @@ title = "१४ कृणुष्व पाजः"
 
 ## आह्वानम्
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/01_kRNuShva_pAjaH.md">
-<details open><summary><h2>०१ कृणुष्व पाजः ...{Loading}...</h2></summary>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/01_kRNuShva_pAjaH.md">
+<details open><summary><h2>विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
+
 
 कृ॒णु॒ष्व पाजः॒ +++(=तेजः)+++ प्रसि॑ति॒न् +++(=जालं)+++ न पृ॒थ्वीं  
 या॒हि राजे॒वाम॑वा॒ꣳ॒ +++(=सहवान्)+++ इभे॑न ।  
@@ -30,8 +31,7 @@ title = "१४ कृणुष्व पाजः"
 
 </details>
 </div>
-
-<div class="js_include" url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/01_kRNuShva_pAjaH.md"  newLevelForH1="5" includeTitle="false"> </div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/01_kRNuShva_pAjaH.md"></div>
 
 
 
@@ -39,8 +39,9 @@ title = "१४ कृणुष्व पाजः"
 
 ## युद्धप्रार्थना
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/02_tava_bhramAsa.md">
-<details open><summary><h2>०२ तव भ्रमास ...{Loading}...</h2></summary>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/02_tava_bhramAsa.md">
+<details open><summary><h2>विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
+
 
 तव॑ भ्र॒मास॑ आशु॒या प॑त॒न्त्य् अनु॑  
 स्पृश धृष॒ता +++(=अभिभवता)+++ शोशु॑चानः ।  
@@ -49,13 +50,10 @@ title = "१४ कृणुष्व पाजः"
 
 </details>
 </div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/02_tava_bhramAsa.md"></div>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/03_prati_spasho.md">
+<details open><summary><h2>विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-<div class="js_include" url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/02_tava_bhramAsa.md"  newLevelForH1="5" includeTitle="false"> </div>
-
-
-
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/03_prati_spasho.md">
-<details open><summary><h2>०३ प्रति स्पशो ...{Loading}...</h2></summary>
 
 प्रति॒ स्पशो॒ वि सृ॑ज॒ तूर्णि॑तमो॒  
 भवा॑ पा॒युर् वि॒शो अ॒स्या अद॑ब्धः ।  
@@ -64,13 +62,10 @@ title = "१४ कृणुष्व पाजः"
 
 </details>
 </div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/03_prati_spasho.md"></div>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/04_udagne_tiShTha.md">
+<details open><summary><h2>विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-<div class="js_include" url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/03_prati_spasho.md"  newLevelForH1="5" includeTitle="false"> </div>
-
-
-
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/04_udagne_tiShTha.md">
-<details open><summary><h2>०४ उदग्ने तिष्ठ ...{Loading}...</h2></summary>
 
 उद् अ॑ग्ने तिष्ठ॒ प्रत्याऽऽत॑नुष्व॒  
 न्य् अ॑मित्राꣳ॑ ओषतात् +++(=प्रदह)+++ तिग्म-हेते ।  
@@ -79,29 +74,27 @@ title = "१४ कृणुष्व पाजः"
 
 </details>
 </div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/04_udagne_tiShTha.md"></div>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/05_Urdhvo_bhava.md">
+<details open><summary><h2>विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-<div class="js_include" url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/04_udagne_tiShTha.md"  newLevelForH1="5" includeTitle="false"> </div>
-
-
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/05_Urdhvo_bhava.md">
-<details open><summary><h2>०५ ऊर्ध्वो भव ...{Loading}...</h2></summary>
 
 ऊ॒र्ध्वो भ॑व प्रति॑ विध्या-  
 +ध्य् अ॒स्मद् आ॒विष् कृ॑णुष्व॒ दैव्या॑न्य् अग्ने ।  
-अव॑ स्थि॒रा त॑नुहि यातु॒जूनां॑  
+अव॑ स्थि॒रा त॑नुहि यातु॒-जूनां॑+++(=प्रेरकाणां)+++  
 जा॒मिम् +++(=ज्ञातिं)+++ अजा॑मिं॒ प्र मृ॑णीहि॒ +++(=जहि)+++ शत्रून्॑ ॥
 
 </details>
 </div>
-
-<div class="js_include" url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/05_Urdhvo_bhava.md"  newLevelForH1="5" includeTitle="false"> </div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/05_Urdhvo_bhava.md"></div>
 
 
 
 ## उपासकसौभाग्यम्
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/06_sa_te.md">
-<details open><summary><h2>०६ स ते ...{Loading}...</h2></summary>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/06_sa_te.md">
+<details open><summary><h2>विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
+
 
 स ते॑ जानाति सुम॒तिं य॑विष्ठ॒  
 य ईव॑ते॒+++(=गमनशीलाय)+++ ब्रह्म॑णे +++(=पुष्टाय)+++ गा॒तुम् ऐर॑त् +++(=प्रेरयति)+++ ।  
@@ -110,13 +103,10 @@ title = "१४ कृणुष्व पाजः"
 
 </details>
 </div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/06_sa_te.md"></div>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/07_sedagne_astu.md">
+<details open><summary><h2>विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-<div class="js_include" url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/06_sa_te.md"  newLevelForH1="5" includeTitle="false"> </div>
-
-
-
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/07_sedagne_astu.md">
-<details open><summary><h2>०७ सेदग्ने अस्तु ...{Loading}...</h2></summary>
 
 सेद्+++(=स+इत्)+++ अ॑ग्ने अस्तु सु॒भग॑स् सु॒दानु॒र्  
 यस् त्वा॒ नित्ये॑न ह॒विषा॒ य उ॒क्थैः ।  
@@ -125,15 +115,15 @@ title = "१४ कृणुष्व पाजः"
 
 </details>
 </div>
-
-<div class="js_include" url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/07_sedagne_astu.md"  newLevelForH1="5" includeTitle="false"> </div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/07_sedagne_astu.md"></div>
 
 
 
 ## प्रतिज्ञा
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/08_archAmi_te.md">
-<details open><summary><h2>०८ अर्चामि ते ...{Loading}...</h2></summary>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/08_archAmi_te.md">
+<details open><summary><h2>विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
+
 
 अर्चा॑मि ते सुम॒तिं, घोष्य् +++(=घोषवती)+++ अ॒र्वाक्+++(=पुरतः)+++  
 सम्+ ते॑ वा॒वाता॑+++(=पुनः पुनः)+++ जरताम् +++(=स्तौतु)+++ इ॒यं गीः ।  
@@ -142,13 +132,10 @@ title = "१४ कृणुष्व पाजः"
 
 </details>
 </div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/08_archAmi_te.md"></div>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/09_iha_tvA.md">
+<details open><summary><h2>विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-<div class="js_include" url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/08_archAmi_te.md"  newLevelForH1="5" includeTitle="false"> </div>
-
-
-
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/09_iha_tvA.md">
-<details open><summary><h2>०९ इह त्वा ...{Loading}...</h2></summary>
 
 इ॒ह त्वा॒ भूर्या च॑रे॒द् उप॒ +++(आ)+++त्मन्  
 दोषा॑वस्तर् +++(=रात्रावहः)+++ दीदि॒वाꣳस॒म् अनु॒ द्यून्+++(=अन्वहम्)+++ ।  
@@ -157,13 +144,10 @@ title = "१४ कृणुष्व पाजः"
 
 </details>
 </div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/09_iha_tvA.md"></div>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/10_yastvA_svashvaH.md">
+<details open><summary><h2>विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-<div class="js_include" url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/09_iha_tvA.md"  newLevelForH1="5" includeTitle="false"> </div>
-
-
-
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/10_yastvA_svashvaH.md">
-<details open><summary><h2>१० यस्त्वा स्वश्वः ...{Loading}...</h2></summary>
 
 यस् त्वा॒ स्व्-अश्व॑स् सुहिर॒ण्यो अ॑ग्न  
 उप॒याति॒ वसु॑मता॒ रथे॑न ।  
@@ -172,13 +156,10 @@ title = "१४ कृणुष्व पाजः"
 
 </details>
 </div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/10_yastvA_svashvaH.md"></div>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/11_maho_rujAmi.md">
+<details open><summary><h2>विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-<div class="js_include" url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/10_yastvA_svashvaH.md"  newLevelForH1="5" includeTitle="false"> </div>
-
-
-
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/11_maho_rujAmi.md">
-<details open><summary><h2>११ महो रुजामि ...{Loading}...</h2></summary>
 
 म॒हो +++(=महद्राक्षसान्)+++ रु॑जामि +++(=भनज्मि)+++ ब॒न्धुता॒+++(~बन्धुतया)+++  
 वचो॑भि॒स् तन् मा॑ पि॒तुर् गोत॑मा॒द् अन्वि॑याय ।  
@@ -187,15 +168,15 @@ title = "१४ कृणुष्व पाजः"
 
 </details>
 </div>
-
-<div class="js_include" url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/11_maho_rujAmi.md"  newLevelForH1="5" includeTitle="false"> </div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/11_maho_rujAmi.md"></div>
 
 
 
 ### किरणकीर्तिः
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/12_asvapnajastaraNayaH_sushevA.md">
-<details open><summary><h2>१२ अस्वप्नजस्तरणयः सुशेवा ...{Loading}...</h2></summary>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/12_asvapnajastaraNayaH_sushevA.md">
+<details open><summary><h2>विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
+
 
 अस्व॑प्नजस् त॒रण॑यस् सु॒शेवा॒ +++(=सुमुखाः)+++  
 अत॑न्द्रासो ऽवृ॒का+++(=अहिंसका)+++ अश्र॑मिष्ठाः ।  
@@ -204,13 +185,11 @@ title = "१४ कृणुष्व पाजः"
 
 </details>
 </div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/12_asvapnajastaraNayaH_sushevA.md"></div>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/13_ye_pAyavo.md">
+<details open><summary><h2>विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-<div class="js_include" url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/12_asvapnajastaraNayaH_sushevA.md"  newLevelForH1="5" includeTitle="false"> </div>
 
-
-
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/13_ye_pAyavo.md">
-<details open><summary><h2>१३ ये पायवो ...{Loading}...</h2></summary>
 
 +++(उतथ्यभार्या ममता। तस्याम् बृहस्पतिर् रेतः स्थापयितुम् अयतत। तत्र वर्तमानं रेतोऽन्तरम् आक्षिपत्। बृहस्पतिर् अशपत् तम् दीर्घतमा भवेति। सोऽ अग्नेर् अलभत चक्षुः।)+++
 
@@ -221,15 +200,15 @@ title = "१४ कृणुष्व पाजः"
 
 </details>
 </div>
-
-<div class="js_include" url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/13_ye_pAyavo.md"  newLevelForH1="5" includeTitle="false"> </div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/13_ye_pAyavo.md"></div>
 
 
 
 ## प्रतिज्ञानुवर्तनम्
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/14_tvayA_vayaM.md">
-<details open><summary><h2>१४ त्वया वयं ...{Loading}...</h2></summary>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/14_tvayA_vayaM.md">
+<details open><summary><h2>विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
+
 
 त्वया॑ व॒यꣳ स॑ध॒न्य॑स् त्वोता॒स् +++(त्वया +अविताः=रक्षिताः)+++  
 तव॒ प्रणी॑त्याऽश्याम॒ वाजान्॑ +++(=अन्नानि)+++ ।  
@@ -238,12 +217,10 @@ title = "१४ कृणुष्व पाजः"
 
 </details>
 </div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/14_tvayA_vayaM.md"></div>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/15_ayA_te.md">
+<details open><summary><h2>विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-<div class="js_include" url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/14_tvayA_vayaM.md"  newLevelForH1="5" includeTitle="false"> </div>
-
-
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/15_ayA_te.md">
-<details open><summary><h2>१५ अया ते ...{Loading}...</h2></summary>
 
 अ॒या +++(=अनया)+++ ते॑ अग्ने स॒मिधा॑ विधेम॒  
 प्रति॒ स्तोमꣳ॑ श॒स्यमा॑नं गृभाय +++(=गृहाण)+++ ।  
@@ -252,12 +229,10 @@ title = "१४ कृणुष्व पाजः"
 
 </details>
 </div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/15_ayA_te.md"></div>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/087/01_raxohaNaM_vAjinamA.md">
+<details open><summary><h2>विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-<div class="js_include" url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/15_ayA_te.md"  newLevelForH1="5" includeTitle="false"> </div>
-
-
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/087/01_raxohaNaM_vAjinamA.md">
-<details open><summary><h2>०१ रक्षोहणं वाजिनमा ...{Loading}...</h2></summary>
 
 र॒क्षो॒हणं॑ वा॒जिन॒म् +++(=अन्नवन्तम्)+++ आऽऽजि॑घर्मि +++(=दीपयामि)+++  
 मि॒त्रं प्रथि॑ष्ठ॒म् +++(=विस्तीर्णतमम्)+++ उप॑यामि॒ शर्म॑ ।  
@@ -266,15 +241,15 @@ title = "१४ कृणुष्व पाजः"
 
 </details>
 </div>
-
-<div class="js_include" url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/087/01_raxohaNaM_vAjinamA.md"  newLevelForH1="5" includeTitle="false"> </div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/087/01_raxohaNaM_vAjinamA.md"></div>
 
 
 
 ## रक्षोहाग्निध्यानम्
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/002/09_vi_jyotiShA.md">
-<details open><summary><h2>०९ वि ज्योतिषा ...{Loading}...</h2></summary>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/002/09_vi_jyotiShA.md">
+<details open><summary><h2>विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
+
 
 वि ज्योति॑षा बृह॒ता भा॑त्य् अ॒ग्निर्  
 आ॒विर् विश्वा॑नि कृणुते महि॒त्वा +++(=महत्तया)+++ ।  
@@ -283,12 +258,10 @@ title = "१४ कृणुष्व पाजः"
 
 </details>
 </div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/002/09_vi_jyotiShA.md"></div>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/002/10_uta_svAnAso.md">
+<details open><summary><h2>विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-<div class="js_include" url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/002/09_vi_jyotiShA.md"  newLevelForH1="5" includeTitle="false"> </div>
-
-
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/002/10_uta_svAnAso.md">
-<details open><summary><h2>१० उत स्वानासो ...{Loading}...</h2></summary>
 
 उ॒त स्वा॒नासो॑ +++(=सस्वनाः)+++ दि॒वि ष॑न्त्व् अ॒ग्नेस्  
 ति॒ग्मायु॑धा॒ रक्ष॑से॒ हन्त॒ वा उ॑ ।  
@@ -297,8 +270,7 @@ title = "१४ कृणुष्व पाजः"
 
 </details>
 </div>
-
-<div class="js_include" url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/002/10_uta_svAnAso.md"  newLevelForH1="5" includeTitle="false"> </div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/002/10_uta_svAnAso.md"></div>
 
 
 इति श्रीभट्टभास्करमिश्रविरेचिते यजुर्वेदभाष्ये ज्ञानयज्ञाख्ये प्रथमे काण्डे द्वितीयप्रपाठके चतुर्दशोनुवाकः ॥

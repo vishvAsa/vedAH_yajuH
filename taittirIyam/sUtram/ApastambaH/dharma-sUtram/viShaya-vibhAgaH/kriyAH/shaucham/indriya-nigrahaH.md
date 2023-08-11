@@ -8,7 +8,7 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/31/18_udyantamastaM_yanta~n_chAdityan.md">
 <details open><summary><h4>18 उद्यन्तमस्तं यन्तञ् चादित्यन् ...{Loading}...</h4></summary>
 
-उद्यन्तमस्तं यन्तं चादित्यं दर्शने वर्जयेत् १८
+उद्यन्तम् अस्तं यन्तं चादित्यं दर्शने वर्जयेत् १८
 </details>
 </div>
   
@@ -17,7 +17,7 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/31/06_brAhmaNasya_goriti_padopasparshanaM.md">
 <details open><summary><h4>06 ब्राह्मणस्य गोरिति पदोपस्पर्शनं ...{Loading}...</h4></summary>
 
-ब्राह्मणस्य गोरिति पदोपस्पर्शनं वर्जयेत् ६
+ब्राह्मणस्य गोर् इति पदोपस्पर्शनं वर्जयेत् ६
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/31/07_hastena_chAkAraNAt.md">
@@ -32,13 +32,13 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/31/13_vatsatantI~n_cha_nopari.md">
 <details open><summary><h4>13 वत्सतन्तीञ् च नोपरि ...{Loading}...</h4></summary>
 
-वत्सतन्तीं च नोपरि गच्छेत् १३
+वत्स-तन्तीं च नोपरि गच्छेत् १३
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/31/14_prenkhAvantareNa_DolAstambhau_cha.md">
 <details open><summary><h4>14 प्रेङ्खावन्तरेण (डोलास्तम्भौ) च ...{Loading}...</h4></summary>
 
-प्रेङ्खावन्तरेण (डोलास्तम्भौ) च नातीयात् १४
+प्रेङ्खाव्+++(=डोलास्तम्भौ)+++ अन्तरेण च नातीयात् १४
 </details>
 </div>
    
@@ -49,7 +49,8 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/22_agnimapo_brAhmaNa~N_gA.md">
 <details open><summary><h4>22 अग्निमपो ब्राह्मणङ् गा ...{Loading}...</h4></summary>
 
-अग्निमपो ब्राह्मणं गा देवता द्वारं प्रतीवातं च शक्तिविषये नाभिप्रसारयीत २२
+अग्निम्, अपो, ब्राह्मणं, गा, देवता, द्वारं, प्रतीवातं च  
+शक्ति-विषये नाभिप्रसारयीत +++(पादौ)+++२२
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/20/11_bhasmatuShAdhiShThAnam.md">
@@ -82,13 +83,13 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/28_tRNachChedanaloShTavimardanAShThevanAni_chAkAraNAt.md">
 <details open><summary><h4>28 तृणच्छेदनलोष्टविमर्दनाष्ठेवनानि चाकारणात् ...{Loading}...</h4></summary>
 
-तृणच्छेदनलोष्टविमर्दनाष्ठेवनानि चाकारणात् २८
+तृण-च्छेदन-लोष्ट-विमर्दनाष्ठेवनानि चाकारणात् २८
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/29_yachchAnyatparichaxate_yachchAnyatparichaxate.md">
 <details open><summary><h4>29 यच्चान्यत्परिचक्षते यच्चान्यत्परिचक्षते ...{Loading}...</h4></summary>
 
-यच्चान्यत्परिचक्षते यच्चान्यत्परिचक्षते २९
+यच् चान्यत् परिचक्षते, यच् चान्यत् परिचक्षते २९
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/12_pRShThatash_chAtmanaH.md">

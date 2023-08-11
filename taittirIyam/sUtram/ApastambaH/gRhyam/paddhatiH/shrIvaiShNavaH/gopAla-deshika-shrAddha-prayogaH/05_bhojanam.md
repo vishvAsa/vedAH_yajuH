@@ -56,8 +56,8 @@ title = "०५ भोजनम्"
 आदित्याभिमुखम् आसने उपविश्य,  
 गो-घृत-मिश्र-गोमयेन पाद-पृष्ठम् अनुलिप्य,
 
-<div  class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/Rk/vishvAsa-prastutiH/10/009/04_shaM_no.md">
-<details open=""><summary><h4>०४ शं नो ...{Loading}...</h4></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/04_shaM_no.md">
+<details open><summary><h2>०४ शं नो ...{Loading}...</h2></summary>
 
 
 शं नो॑ दे॒वीर॒भिष्ट॑य॒  
@@ -136,9 +136,25 @@ title = "०५ भोजनम्"
 
 **प्राचीनावीती**
 
-<div class="js_include" url="/vedAH/prakIrNaH/devaH/classes/raxAMsi/Rk/apahatA_asurA"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH/prakIrNaH/devaH/classes/raxAMsi/Rk/apahatA_asurA.md">
+<details open><summary><h5>अप॑हता॒ असु॑रा॒ ...{Loading}...</h5></summary>
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/015/01_udIratAmavara_utparAsa.md"  newLevelForH1="5" includeTitle="false"> </div>  
+अप॑हता॒ असु॑रा॒ रक्षाँ॑सि  
+पिशा॒चा ये क्षय॑न्ति पृथि॒वीम् अनु॑ ।  
+अ॒न्यत्रेतो॑ गच्छन्तु॒ यत्रैषां॑ गतं॒ मनः॑ ॥
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/015/01_udIratAmavara_utparAsa.md">
+<details open><summary><h5>०१ उदीरतामवर उत्परास ...{Loading}...</h5></summary>
+
+
+उदी॑रता॒म् अव॑र॒ उत् परा॑स॒  
+उन् म॑ध्य॒माः पि॒तरः॑ सो॒म्यासः॑ ।  
+असुं॒ य ई॒युर् अ॑वृ॒का ऋ॑त॒ज्ञास्  
+ते नो॑ऽवन्तु पि॒तरो॒ हवे॑षु ॥
+
+</details>
+</div>  
 
 इति भुक्ति-देशे तिलान् सिकतांश्च प्रकीर्य -
 
@@ -160,14 +176,14 @@ title = "०५ भोजनम्"
 
 ## अर्चनम्
 
-<div class="js_include" newlevelforh1="2" title="" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/069/08_archata_prArchata.md">
-<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+<div class="js_include" newlevelforh1="2" title="" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/069/08_archata_prArchata.md">
+<details open><summary><h2> ...{Loading}...</h2></summary>
 
 
 अर्च॑त॒ प्रार्च॑त +++(नराः)+++  
 प्रिय॑मेधासो॒ +++(=प्रियमेध-सम्बद्धाः)+++ अर्च॑त ।  
 अर्च॑न्तु पुत्र॒का उ॒त  
-पुरं न धृ॒ष्णु +++(=धर्षणशीलः)+++ +अ॑र्चत ।।
+पुरं न धृ॒ष्णु +++(=धर्षणशीलः)+++ +अ॑र्चत ।।  
 
 </details>
 </div>
@@ -193,23 +209,61 @@ title = "०५ भोजनम्"
 (देवब्राह्मणोपचारं सर्वम् उदङ्मुखः कुर्यात् ।  
 पित्र्यं दक्षिणामुखः कुर्यात् ।)
 
-<div class="js_include" url="/devaH/AryaH/hindukaH/classes/pAdapAH/Rk/oShadhayaH_pratimodadhvam"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH/prakIrNaH/devaH/classes/pAdapAH/Rk/oShadhayaH_pratimodadhvam.md">
+<details open><summary><h5>ओष॑धयः॒ प्रति॑मोदध्वम् ...{Loading}...</h5></summary>
+
+ओष॑धयः॒ प्रति॑मोदध्वम्  
+एनं॒ पुष्पा॑वतीः सुपिप्प॒लाः ।  
+अ॒यं वो॒ गर्भ॑ ऋ॒त्वियः॑  
+प्र॒त्नँ स॒धस्थ॒म् आस॑दत् ॥
+</details>
+</div>  
 
 
 इति मन्त्रेण  
 पूर्ववत् ‘इमानि पुष्पाणि, श्रीतुलसीदलानि च’ इति दद्यात् ॥
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/dhUr_asi_dhUpArtham.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/dhUr_asi_dhUpArtham.md">
+<details open><summary><h5>धूर् असि ...{Loading}...</h5></summary>
+
+धूर्+++(=धूस्स्थ हिंसको ऽग्निः)+++ अ॑सि  ।  
++++('एष वै धुर्योग्निः' (तै.ब्रा. 3.2.4) इति ब्राह्मणम्)+++
+
+धूर्व॒+++(=नाशय)+++ धूर्व॑न्त॒म्+++(=हिंसकं)+++।  
+धूर्व॑+++(=नाशय)+++ तं यो᳚ ऽस्मान् धूर्व॑ति।  
+तन् धू᳚र्व॒ यव्ँ व॒यन् धूर्वा॑मः ।
+त्वन् दे॒वाना॑मसि  ।   
+
+</details>
+</div>  
  
 
 घ्राण-तृप्त्य्-अर्थम् अयं वो धूपः ।
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_05/01_uddIpyasva_jAtavedo.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_05/01_uddIpyasva_jAtavedo.md">
+<details open><summary><h5>01 उद्दीप्यस्व जातवेदो ...{Loading}...</h5></summary>
+
+उद्दी᳚प्यस्व जातवेदो  
+ऽप॒घ्नन्निर्ऋ॑तिं॒ मम॑ ।  
+प॒शूꣳश्च॒ मह्य॒म् आव॑ह॒  
+जीव॑नञ् च॒ दिशो॑ दिश ॥
+</details>
+</div>  
 
 
 ‘अवलोकनार्थम् अयं वो दीपः'
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/008/04_yuvA_suvAsAH.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/008/04_yuvA_suvAsAH.md">
+<details open><summary><h5>०४ युवा सुवासाः ...{Loading}...</h5></summary>
+
+
+युवा॑ सु॒वासाः॒ परि॑वीत॒ +++(यूप)+++ **आगा॒त्**  
+स उ॒ **श्रेया॑न् भवति॒** जाय॑मानः ।  
+तं धीरा॑सः क॒वय॒ **उन्न॑यन्ति**  
+स्वा॒ध्यो॒३॒॑+++(=सु+आ+धियः)+++ मन॑सा देव॒यन्तः॑+++(=देवकामाः)+++ ॥
+
+</details>
+</div>  
 
 
 आच्छादनार्थम् इदं वस्त्रं  
@@ -260,29 +314,167 @@ title = "०५ भोजनम्"
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/02/01_niyata-yajJNa-prashaMsA/">
 <details open><summary><h2>०१ नियत-यज्ञ-प्रशंसा ...{Loading}...</h2></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सह॒ वै दे॒वाना॒ञ् चासु॑राणाञ् च य॒ज्ञौ प्रत॑तावास्ताव्ँ, "व॒य२ꣳ स्व॒र्गल्ँ लो॒कम् ए॑ष्यामो, व॒यम् ए॑ष्याम॒" इति।  
+सह॒ वै दे॒वाना॒ञ् चासु॑राणाञ् च य॒ज्ञौ प्रत॑ताव् आस्ताव्ँ,  
+"व॒य२ꣳ स्व॒र्गल्ँ लो॒कम् ए॑ष्यामो, व॒यम् ए॑ष्याम॒" इति।  
+</details>
+<details><summary>मूलम्</summary>
+
+सह॒ वै दे॒वाना॒ञ् चासु॑राणाञ् च य॒ज्ञौ प्रत॑ताव् आस्ताव्ँ,  
+"व॒य२ꣳ स्व॒र्गल्ँ लो॒कम् ए॑ष्यामो, व॒यम् ए॑ष्याम॒" इति।  
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ते ऽसु॑रास् स॒न्नह्य॒ सह॑सै॒वाच॑रन्।  
 ब्रह्म॒चर्ये॑ण॒ तप॑सैव दे॒वाः।  
+</details>
+<details><summary>मूलम्</summary>
+
+ते ऽसु॑रास् स॒न्नह्य॒ सह॑सै॒वाच॑रन्।  
+ब्रह्म॒चर्ये॑ण॒ तप॑सैव दे॒वाः।  
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तेऽसु॑रा अमुह्य॒२ꣳ॒स्, ते न प्राजा॑न॒२ꣳ॒स्, ते परा॑ऽभव॒न्, ते न स्व॒र्गल्ँ लो॒कमा॑य॒न्।  
-प्रसृ॑तेन॒ वै य॒ज्ञेन॑ दे॒वास् स्व॒र्गल्ँ लो॒कमा॑य॒न्।  
-न प्रसृ॑ते॒नासु॑रा॒न् परा॑भावय॒न्।
+</details>
+<details><summary>मूलम्</summary>
+
+तेऽसु॑रा अमुह्य॒२ꣳ॒स्, ते न प्राजा॑न॒२ꣳ॒स्, ते परा॑ऽभव॒न्, ते न स्व॒र्गल्ँ लो॒कमा॑य॒न्।  
+</details>
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/02/01_yajJNopavItam/">
-<details open><summary><h2>यज्ञोपवीतम् ...{Loading}...</h2></summary>
+<details open><summary><h2>०१ यज्ञोपवीतम् ...{Loading}...</h2></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रसृ॑तेन॒ वै य॒ज्ञेन॑ दे॒वास् स्व॒र्गल्ँ लो॒कम् आ॑य॒न्।  
+अप्रसृ॑ते॒नासु॑रा॒न् परा॑भावय॒न्।  
+</details>
+<details><summary>मूलम्</summary>
+
+प्रसृ॑तेन॒ वै य॒ज्ञेन॑ दे॒वास् स्व॒र्गल्ँ लो॒कम् आ॑य॒न्।  
+अप्रसृ॑ते॒नासु॑रा॒न् परा॑भावय॒न्।  
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रसृ॑तो ह॒ वै य॑ज्ञोपवी॒तिनो॑ य॒ज्ञो, ऽप्र॑सृ॒तो ऽनु॑पवी॒तिनः।  
 यत्किञ् च॑ ब्राह्म॒णो य॑ज्ञोपवी॒त्य् अधी॑ते॒ यज॑त ए॒व तत्।  
 तस्मा॑द् यज्ञोपवी॒त्य् ए॑वाधी॑यीत या॒जये॒द् यजे॑त वा।  
-य॒ज्ञस्य॒ प्रसृ॑त्या॒ अजि॑न॒व्ँ वासो॑ वा दक्षिण॒त उ॑प॒वीय॒ दक्षि॑णं बा॒हुम् उद्-ध॑र॒ते, ऽव॑ धत्ते स॒व्यमिति॑ यज्ञोपवी॒तम् ए॒तद् ए॒व।  
-विप॑रीतं प्राचीनावी॒तꣳ स॒व्ँवीतं॑ मानु॒षम् । 1 ।
+</details>
+<details><summary>मूलम्</summary>
+
+प्रसृ॑तो ह॒ वै य॑ज्ञोपवी॒तिनो॑ य॒ज्ञो, ऽप्र॑सृ॒तो ऽनु॑पवी॒तिनः।  
+यत्किञ् च॑ ब्राह्म॒णो य॑ज्ञोपवी॒त्य् अधी॑ते॒ यज॑त ए॒व तत्।  
+तस्मा॑द् यज्ञोपवी॒त्य् ए॑वाधी॑यीत या॒जये॒द् यजे॑त वा।  
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+य॒ज्ञस्य॒ प्रसृ॑त्या॒  
+अजि॑न॒व्ँ वासो॑ वा  
+दक्षिण॒त उ॑प॒वीय॒  
+दक्षि॑णं बा॒हुम् उद्-ध॑र॒ते,  
+ऽव॑ धत्ते स॒व्यम्  
+इति॑ यज्ञोपवी॒तम् ए॒तद् ए॒व।  
+</details>
+<details><summary>मूलम्</summary>
+
+य॒ज्ञस्य॒ प्रसृ॑त्या॒  
+अजि॑न॒व्ँ वासो॑ वा  
+दक्षिण॒त उ॑प॒वीय॒  
+दक्षि॑णं बा॒हुम् उद्-ध॑र॒ते,  
+ऽव॑ धत्ते स॒व्यम्  
+इति॑ यज्ञोपवी॒तम् ए॒तद् ए॒व।  
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विप॑रीतं प्राचीनावी॒तꣳ  
+स॒व्ँवीतं॑ मानु॒षम् । 1 ।
+</details>
+<details><summary>मूलम्</summary>
+
+विप॑रीतं प्राचीनावी॒तꣳ  
+स॒व्ँवीतं॑ मानु॒षम् । 1 ।
+</details>
 </details>
 </div>
 
 [[124]]
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/02/02_sandhyA-vandanam/"></div>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/02/02_sandhyA-vandanam/">
+<details open><summary><h2>०२ सन्ध्या-वन्दनम् ...{Loading}...</h2></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+रक्षाꣳ॑सि॒ ह वा॑ पुरोऽनुवा॒के तपोग्र॑म् अतिष्ठन्त।  
+तान् प्र॒जाप॑तिर् व॒रेणो॒पाम॑न्त्रयत।  
+तानि॒ वर॑म् अवृणीत - "आदि॒त्यो नो॒ योद्धा॒" इति।  
+तान् प्र॒जाप॑तिर् अब्रवी॒द् - "योध॑य॒ध्वमि"ति।  
+तस्मा॒द् उत्ति॑ष्ठन्त॒ꣳ॒ ह वा॒ तानि॒ रक्षाꣳ॑स्यादि॒त्यय्ँ योध॑यन्ति॒ याव॑दस्त॒मन्व॑गा॒त्।  
+</details>
+<details><summary>मूलम्</summary>
+
+रक्षाꣳ॑सि॒ ह वा॑ पुरोऽनुवा॒के तपोग्र॑म् अतिष्ठन्त।  
+तान् प्र॒जाप॑तिर् व॒रेणो॒पाम॑न्त्रयत।  
+तानि॒ वर॑म् अवृणीत - "आदि॒त्यो नो॒ योद्धा॒" इति।  
+तान् प्र॒जाप॑तिर् अब्रवी॒द् - "योध॑य॒ध्वमि"ति।  
+तस्मा॒द् उत्ति॑ष्ठन्त॒ꣳ॒ ह वा॒ तानि॒ रक्षाꣳ॑स्यादि॒त्यय्ँ योध॑यन्ति॒ याव॑दस्त॒मन्व॑गा॒त्।  
+</details>
+
+### अर्घ्यम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तानि॑ ह॒ वा ए॒तानि॒ रक्षाꣳ॑सि  
+गायत्रि॒याऽभि॑मन्त्रिते॒नाम्भ॑सा शाम्यन्ति।  
+</details>
+<details><summary>मूलम्</summary>
+
+तानि॑ ह॒ वा ए॒तानि॒ रक्षाꣳ॑सि  
+गायत्रि॒याऽभि॑मन्त्रिते॒नाम्भ॑सा शाम्यन्ति।  
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तदु॑ ह॒ वा ए॒ते ब्र॑ह्मवा॒दिनः॑ पू॒र्वाभि॑मु॒खाः स॒न्ध्याया॑ङ्  
+गायत्रि॒या ऽभि॑मन्त्रिता॒ आप॑ ऊ॒र्ध्वं विक्षि॑पन्ति।  
+ता ए॒ता आपो॑ व॒ज्रीभू॒त्वा तानि॒ रक्षाꣳ॑सि म॒न्देहारु॑णे द्वी॒पे प्रक्षि॑पन्ति।
+</details>
+<details><summary>मूलम्</summary>
+
+तदु॑ ह॒ वा ए॒ते ब्र॑ह्मवा॒दिनः॑ पू॒र्वाभि॑मु॒खाः स॒न्ध्याया॑ङ्  
+गायत्रि॒या ऽभि॑मन्त्रिता॒ आप॑ ऊ॒र्ध्वं विक्षि॑पन्ति।  
+ता ए॒ता आपो॑ व॒ज्रीभू॒त्वा तानि॒ रक्षाꣳ॑सि म॒न्देहारु॑णे द्वी॒पे प्रक्षि॑पन्ति।
+</details>
+
+
+### प्रदक्षिणीकरणम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यत् प्र॑दक्षि॒णं प्रक्र॑मन्ति॒, तेन॑ पा॒प्मान॒म् अव॑धून्वन्ति।  
+</details>
+<details><summary>मूलम्</summary>
+
+यत् प्र॑दक्षि॒णं प्रक्र॑मन्ति॒, तेन॑ पा॒प्मान॒म् अव॑धून्वन्ति।  
+</details>
+
+
+### ब्रह्म-भावनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उ॒द्यन्त॑म् अस्त॒य्ँ यन्त॑म् आदि॒त्यम् अ॑भिध्या॒यन्  
+कु॒र्वन् ब्रा॑ह्म॒णो वि॒द्वान्थ् स॒कलं॑ भ॒द्रम् अ॑श्नुते -  
+असाव् आ॑दि॒त्यो ब्र॒ह्मेति॒ -  
+ब्रह्मै॒व सन् ब्रह्मा॒प्येति॒-  
+य ए॒वव्ँ वेद॑ ।2।
+</details>
+<details><summary>मूलम्</summary>
+
+उ॒द्यन्त॑म् अस्त॒य्ँ यन्त॑म् आदि॒त्यम् अ॑भिध्या॒यन्  
+कु॒र्वन् ब्रा॑ह्म॒णो वि॒द्वान्थ् स॒कलं॑ भ॒द्रम् अ॑श्नुते -  
+असाव् आ॑दि॒त्यो ब्र॒ह्मेति॒ -  
+ब्रह्मै॒व सन् ब्रह्मा॒प्येति॒-  
+य ए॒वव्ँ वेद॑ ।2।
+</details>
+</details>
+</div>
 
 इति जपित्वा,  
 अन्नम् अभिधार्य,  
@@ -298,7 +490,30 @@ title = "०५ भोजनम्"
 
 (कर्त्रा हुतशिष्टान्नस्य जपः [^8])
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/16_eSha_te.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/16_eSha_te.md">
+<details open><summary><h5>१६ एष ते ...{Loading}...</h5></summary>
+
+
+ए॒ष ते॑ तत॒ +++(स्वधासमुद्रः)+++ मधु॑माꣳ ऊ॒र्मिस् सर॑स्वा॒न्।  
+यावा॑न् अ॒ग्निश् च॑ पृथि॒वी च॒ ताव॑त्य् अस्य मा॒त्रा।  
+ताव॑तीन् त ए॒तां मात्रा॑न् ददामि।  
+यथा॒ ऽग्निर् अक्षि॒तो ऽनु॑पदस्त+++(=उपक्षयरहितः)+++, ए॒वं मह्यं॑+++(→मम)+++ पि॒त्रे ऽक्षि॒तो ऽनु॑पदस्तः स्व॒धा भ॑व॒
+तां त्व२ꣳ स्व॒धां तैस् स॒होप॑जीव॒, +र्चस् ते॑ महिमा।
+
+ए॒ष ते॑॑ प्रपितामह॒ +++(स्वधासमुद्रः)+++ मधु॑माꣳ ऊ॒र्मिस् सर॑स्वा॒न्।  
+यावा॑न् वा॒युश् चा॒न्तरि॑क्षञ् च॒ ताव॑त्य् अस्य मा॒त्रा।  
+ताव॑तीन् त ए॒तां मात्रा॑न् ददामि।  
+यथा॑ वा॒युर् अक्षि॒तो ऽनु॑पदस्त+++(=उपक्षयरहितः)+++, ए॒वं मह्यं॑+++(→मम)+++ पिताम॒हायाक्षि॒तोऽनु॑पदस्तः स्व॒धा भ॑व।  
+तां त्व२ꣳ स्व॒धां तैस् स॒होप॑जीव॒, सामा॑नि ते महिमा।
+
+ए॒ष ते॑॑ प्रपितामह॒ +++(स्वधासमुद्रः)+++ मधु॑माꣳ ऊ॒र्मिस् सर॑स्वा॒न्।  
+यावा॑न् आदि॒त्यश्च॒ द्यौश्च॒ ताव॑त्यस्य मा॒त्रा।  
+ताव॑तीन् त ए॒तां मात्रा॑न् ददामि।  
+यथा॑ ऽऽदि॒त्यो ऽक्षि॒तो ऽनु॑पदस्त+++(=उपक्षयरहितः)+++, ए॒वं मह्यं॑ प्रपिताम॒हायाऽक्षि॒तोऽनु॑पदस्तः स्व॒धा भ॑व।  
+तां त्व२ꣳ स्व॒धां तैस् स॒होप॑जीव॒, यजूꣳ॑षि ते महि॒मा ॥ (19)
+
+</details>
+</div>  
 
 
 [^8]:
@@ -329,12 +544,36 @@ title = "०५ भोजनम्"
 (विश्वेदेवहस्ते शुद्धोदकं दत्वा,)
 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/01_pRthivI_te.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/01_pRthivI_te.md">
+<details open><summary><h5>०१ पृथिवी ते ...{Loading}...</h5></summary>
+
+
++++(हे अन्न -)+++ पृ॒थि॒वी ते॒ पात्रं॒,   
+द्यौर् अ॑पि॒धानम्।   
+ब्रह्म॑णस् त्वा॒ मुखे॑ जुहोमि।  
+ब्राह्म॒णाना॑॑न् त्वा प्राणापा॒नयो॑॑र् जुहोमि।  
+
+भुक्तवतो ऽनुव्रज्य प्रदक्षिणीकृत्य  
+द्वैधं दक्षिणाग्रान् दर्भान् संस्तीर्य  
++++(भुञ्जानानामपि तृप्तिरस्त्वित्याह -)+++ अक्षि॑तम् असि॒।  
+मैषां॑॑ क्षेष्ठा+++(←क्षी क्षये)+++ अ॒मुत्रा॒+++(→परलोके)+++ऽमुष्मि॑ल्ँ लो॒के +++(च ब्राह्मणानाम्)+++ ।
+
+</details>
+</div>  
 
 
 इति सव्येन पात्रमालभ्य दक्षिणेन ब्राह्मणहस्तं गृहीत्वा, अन्नं सर्वं स्पर्शयित्वा 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/022/17_idaM_viShNurvi.md"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/022/17_idaM_viShNurvi.md">
+<details open><summary><h2>१७ इदं विष्णुर्वि ...{Loading}...</h2></summary>
+
+
+इ॒दव्ँ विष्णु॒र् +++(अग्नि-विद्युत्-सूर्यात्मना)+++ वि च॑क्रमे  
++++(पृथिव्याम् अन्तरिक्षे दिवि च)+++ त्रे॒धा नि द॑धे प॒दम् ।  
++++(तैर् आधारैर् जगत्)+++ सम् ऊ॑ढम् अस्य पाꣳसु॒रे +++(ले इति साम्नि, पांसुमति [पादे])+++ ॥
+
+</details>
+</div>  
 
 > विष्णो! हव्यँ रक्ष
 
@@ -442,9 +681,66 @@ title = "०५ भोजनम्"
 
 [[128]]
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/yajuH/sarva-prastutiH/06_mahA-nArAyaNopaniShat/32-36_prANe_niviShTaH/03_prANAhutir_dIrghaH.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/yajuH/sarva-prastutiH/06_mahA-nArAyaNopaniShat/32-36_prANe_niviShTaH/03_prANAhutir_dIrghaH.md">
+<details open><summary><h5>०३ प्राणाहुतिर् दीर्घः ...{Loading}...</h5></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/yajuH/sarva-prastutiH/06_mahA-nArAyaNopaniShat/32-36_prANe_niviShTaH/04_brahmaNi_ma.md"  newLevelForH1="5" includeTitle="false"> </div>  
+प्रा॒णे निवि॑ष्टो॒ ऽमृत॑ञ्जुहोमि।  
+शि॒वो मा॑ ऽऽवि॒शाऽप्र॑दाहाय।  
+प्रा॒णाय॒ स्वाहा᳚ ।
+
+अ॒पा॒ने निवि॑ष्टो॒ऽमृत॑ञ्जुहोमि।  
+शि॒वो मा॑ ऽऽवि॒शाऽप्र॑दाहाय।  
+अ॒पा॒नाय॒ स्वाहा᳚ ।
+
+व्या॒ने निवि॑ष्टो॒ऽमृत॑ञ्जुहोमि।  
+शि॒वो मा॑ ऽऽवि॒शाऽप्र॑दाहाय।  
+व्या॒नाय॒ स्वाहा᳚ ।
+
+उ॒दा॒ने निवि॑ष्टो॒ऽमृत॑ञ्जुहोमि।  
+शि॒वो मा॑ ऽऽवि॒शाऽप्र॑दाहाय।  
+उ॒दा॒नाय॒ स्वाहा᳚ ।
+
+स॒मा॒ने निवि॑ष्टो॒ऽमृत॑ञ्जुहोमि।  
+शि॒वो मा॑ ऽऽवि॒शाऽप्र॑दाहाय।  
+समा॒नाय॒ स्वाहा᳚ ।
+</details>
+<details><summary>मूलम्</summary>
+
+प्रा॒णे निवि॑ष्टो॒ ऽमृत॑ञ्जुहोमि।  
+शि॒वो मा॑ ऽऽवि॒शाऽप्र॑दाहाय।  
+प्रा॒णाय॒ स्वाहा᳚ ।
+
+अ॒पा॒ने निवि॑ष्टो॒ऽमृत॑ञ्जुहोमि।  
+शि॒वो मा॑ ऽऽवि॒शाऽप्र॑दाहाय।  
+अ॒पा॒नाय॒ स्वाहा᳚ ।
+
+व्या॒ने निवि॑ष्टो॒ऽमृत॑ञ्जुहोमि।  
+शि॒वो मा॑ ऽऽवि॒शाऽप्र॑दाहाय।  
+व्या॒नाय॒ स्वाहा᳚ ।
+
+उ॒दा॒ने निवि॑ष्टो॒ऽमृत॑ञ्जुहोमि।  
+शि॒वो मा॑ ऽऽवि॒शाऽप्र॑दाहाय।  
+उ॒दा॒नाय॒ स्वाहा᳚ ।
+
+स॒मा॒ने निवि॑ष्टो॒ऽमृत॑ञ्जुहोमि।  
+शि॒वो मा॑ ऽऽवि॒शाऽप्र॑दाहाय।  
+समा॒नाय॒ स्वाहा᳚ ।
+</details>
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/yajuH/sarva-prastutiH/06_mahA-nArAyaNopaniShat/32-36_prANe_niviShTaH/04_brahmaNi_ma.md">
+<details open><summary><h5>०४ ब्रह्मणि म ...{Loading}...</h5></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ब्रह्म॑णि म आ॒त्माऽमृ॑त॒त्वाय॑ । (48)
+</details>
+<details><summary>मूलम्</summary>
+
+ब्रह्म॑णि म आ॒त्माऽमृ॑त॒त्वाय॑ । (48)
+</details>
+</details>
+</div>  
 
 इति जपन् प्राणाहुतीः कारयित्वा, 
 
@@ -558,11 +854,77 @@ title = "०५ भोजनम्"
 
 (मधुत्रयम्)
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/10_3_madhu.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/10_3_madhu">
+<details open><summary><h5>10 3 ...{Loading}...</h5></summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_3/01_madhu_vAtA.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+मधु॒ वाता॑ ऋताय॒ते  
+मधु॑ ख्षरन्ति॒ सिन्ध॑वः ।  
+माद्ध्वी᳚र् नस् स॒न्त्व् ओष॑धीः ॥
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/10_3/01_madhu_vAtA.md">
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+<details><summary>मूलम्</summary>
+
+मधु॒ वाता॑ ऋताय॒ते  
+मधु॑ ख्षरन्ति॒ सिन्ध॑वः ।  
+माद्ध्वी᳚र् नस् स॒न्त्व् ओष॑धीः ॥
+</details>
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_3/03_madhu_naktam.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+मधु॒ नक्त॑म् उ॒तोषसि॒  
+मधु॑म॒त् पार्थि॑व॒ꣳ॒ रजः॑ ।   
+मधु॒ द्यौर॑स्तु नः पि॒ता ॥
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/10_3/03_madhu_naktam.md">
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+<details><summary>मूलम्</summary>
+
+मधु॒ नक्त॑म् उ॒तोषसि॒  
+मधु॑म॒त् पार्थि॑व॒ꣳ॒ रजः॑ ।   
+मधु॒ द्यौर॑स्तु नः पि॒ता ॥
+</details>
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_3/05_madhumAn_no.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+मधु॑मान् नो॒ वन॒स्पति॒र्  
+मधु॑माꣳ अस्तु॒ सूर्यः॑ ।  
+माद्ध्वी॒र् गावो॑ भवन्तु नः ॥
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/10_3/05_madhumAn_no.md">
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+<details><summary>मूलम्</summary>
+
+मधु॑मान् नो॒ वन॒स्पति॒र्  
+मधु॑माꣳ अस्तु॒ सूर्यः॑ ।  
+माद्ध्वी॒र् गावो॑ भवन्तु नः ॥
+</details>
+</details>
+</div>
+</details>
+</div>  
 
 > (ओं मधु॒ मधु॒ मधु॑ ॥)
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/082/02_axannamImadanta_hyava.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/082/02_axannamImadanta_hyava.md">
+<details open><summary><h5>०२ अक्षन्नमीमदन्त ह्यव ...{Loading}...</h5></summary>
+
+
+**अक्ष॒न्न्**+++(=भुक्तवन्तः)+++, **अमी॑मदन्त॒** ह्य् अव॑ प्रि॒या **अ॑धूषत**+++(=अकम्पयन् [=वक्तुम् अशक्नुवन्])+++ ।  
+**अस्तो॑षत॒**+++(=अस्तुवन्)+++ स्वभा॑नवो॒ विप्रा॒   
+नवि॑ष्ठया म॒ती+++(त्या)+++, +++(अतो रथे)+++ **योजा॒**+++(=योजय)+++ न्वि् इ॑न्द्र ते॒ हरी॑ ॥  
+
+</details>
+</div>  
 
 
 इति च जपित्वा
@@ -779,19 +1141,203 @@ title = "०५ भोजनम्"
 
 (उपस्थानम्)
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sarva-prastutiH/3/2/05_bhaxAnuvAkaH/namo_vaH.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/3/2/05_bhaxAnuvAkaH/namo_vaH.md">
+<details open><summary><h5>नमो वः ...{Loading}...</h5></summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+18षद्भिर्नमस्कारैरुपतिष्ठते - नमो व इति ॥ 
+</details>
+<details><summary>मूलम् (संयुक्तम्)</summary>
+
+नमो॑ वᳶ पितरो॒ रसा॑य॒ नमो॑ वᳶ पितर॒श्शुष्मा॑य॒ नमो॑ वᳶ पितरो जी॒वाय॒ नमो॑ वᳶ पितरः [20]  स्व॒धायै॒ नमो॑ वᳶ पितरो म॒न्यवे॒ नमो॑ वᳶ पितरो घो॒राय॒ पित॑रो॒ नमो॑ वो॒ य ए॒तस्मि॑ल्ँलो॒के स्थ यु॒ष्माꣳस्तेऽनु॒ ये᳚ऽस्मिल्ँ लो॒के मान्तेऽनु॒ य ए॒तस्मि॑ल्ँलो॒के स्थ यू॒यन्तेषा॒व्ँवसि॑ष्ठा भूयास्त॒ ये᳚ऽस्मिल्ँ लो॒के॑ऽहन्तेषा॒व्ँवसि॑ष्ठो भूयासम्
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नमो॑ वᳶ पितरो॒ रसा॑य । [पित॑रो॒ नमो॑ वः।],
+</details>
+<details><summary>मूलम्</summary>
+
+नमो॑ वᳶ पितरो॒ रसा॑य । [पित॑रो॒ नमो॑ वः।],
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+हे पितरः युष्मभ्यं नमः नमस्करोमि रसाय रसार्थं रसवान् भूयासमिति । 'पितरो नमो वः' इत्यादिकं षट्स्वप्यजुषज्यते ।
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नमो॑ वᳶ पितर॒श्शुष्मा॑य +++(पित॑रो॒ नमो॑ वः )+++,,
+</details>
+<details><summary>मूलम्</summary>
+
+नमो॑ वᳶ पितर॒श्शुष्मा॑य +++(पित॑रो॒ नमो॑ वः )+++,,
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+शुष्मो बलम् ।
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नमो॑ वᳶ पितरो जी॒वाय । [पित॑रो॒ नमो॑ वः।],
+</details>
+<details><summary>मूलम्</summary>
+
+नमो॑ वᳶ पितरो जी॒वाय । [पित॑रो॒ नमो॑ वः।],
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+जीवः प्राणः ।
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नमो॑ वᳶ पि॒त॒र॒स्स्व॒धायै॑ । [पित॑रो॒ नमो॑ वः।],,
+</details>
+<details><summary>मूलम्</summary>
+
+नमो॑ वᳶ पि॒त॒र॒स्स्व॒धायै॑ । [पित॑रो॒ नमो॑ वः।],,
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+स्वधा अन्नम् ।
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नमो॑ वᳶ पितरो म॒न्यवे॑ । [पित॑रो॒ नमो॑ वः।],,
+</details>
+<details><summary>मूलम्</summary>
+
+नमो॑ वᳶ पितरो म॒न्यवे॑ । [पित॑रो॒ नमो॑ वः।],,
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+मन्युर्दीप्तिः, क्रोधो वा ।
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नमो॑ वᳶ पितरो घो॒राय॑ ,  
+पित॑रो॒ नमो॑ वः ।
+</details>
+<details><summary>मूलम्</summary>
+
+नमो॑ वᳶ पितरो घो॒राय॑ ,  
+पित॑रो॒ नमो॑ वः ।
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+घोरः क्रूरम् । एतयोः स्थाने प्राधान्यं प्रार्थ्यते ।
+हे पितरः युष्मभ्यं नमः । फलमनपेक्ष्य सप्तमोयं नमस्कारः क्रियते । पुनर्वचनं फलनिरपेक्षया नमस्कारार्थम् । अन्य आहुः - पितृसंबन्धिभ्यो रसादिभ्यः प्रथमं षण्णमस्काराः, ततः पितृभ्य एव सप्तम इति ।
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+य ए॒तस्मि॑ल्ँलो॒के स्थ यु॒ष्माꣳस्तेऽनु॑ ।
+</details>
+<details><summary>मूलम्</summary>
+
+य ए॒तस्मि॑ल्ँलो॒के स्थ यु॒ष्माꣳस्तेऽनु॑ ।
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+ये एतस्मिन् लोके पितरः स्थ । एतस्मिन्निति पितृलोकं व्यपदिशति । स्थेति सर्वपित्रभिप्रायेणोक्तम् । ते सर्वे युष्माननुसन्तु युष्मत्प्रधाना भवन्तु । 'हीने' इत्यनोः कर्मप्रवचनीयत्वम् । युष्मानिति पित्रादित्रयं व्यपदिशति ।
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ये᳚ऽस्मिल्ँ लो॒के मान्तेऽनु॑ ।
+</details>
+<details><summary>मूलम्</summary>
+
+ये᳚ऽस्मिल्ँ लो॒के मान्तेऽनु॑ ।
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+अस्मिन् मनुष्यलोके मनुष्याः स्थ, ते सर्वे मामनु सन्तु मत्प्रधाना भवन्तु ।
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+य ए॒तस्मि॑ल्ँलो॒के स्थ यू॒यन्तेषा॒व्ँवसि॑ष्ठा भूयास्त ।
+</details>
+<details><summary>मूलम्</summary>
+
+य ए॒तस्मि॑ल्ँलो॒के स्थ यू॒यन्तेषा॒व्ँवसि॑ष्ठा भूयास्त ।
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+ये यूयमेतस्मिन् लोके स्थ तेषां पितॄणां यूयं वसिष्ठाः वसुमत्तमा भूयास्त ।
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ये᳚ऽस्मिल्ँ लो॒के॑ऽहन्तेषा॒व्ँवसि॑ष्ठो भूयासम् ।
+</details>
+<details><summary>मूलम्</summary>
+
+ये᳚ऽस्मिल्ँ लो॒के॑ऽहन्तेषा॒व्ँवसि॑ष्ठो भूयासम् ।
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+येऽस्मिन् लोके सन्ति मनुष्यास्तेषां मनुष्याणामहं वसिष्ठो वसुमत्तमो भूयासम् । वसुशब्दादिष्ठनि 'विन्मतोर्लुक्' इति लुक्, 'टेः' इति टिलोपः ॥
+</details>
+</details>
+</div>  
 
 [[137]]
 
-<div class="js_include" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/29/46_svAduShaM_sadaH.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/29/46_svAduShaM_sadaH.md">
+<details open><summary><h5>४६ स्वादुषं सदः ...{Loading}...</h5></summary>
 
+स्वा॒दु॒-ष॒ꣳसदः॑ पि॒तरो॑ वयो॒-धाः  
+कृ॑च्छ्रे॒-श्रितः॒ शक्ती॑वन्तो गभी॒राः।  
+चि॒त्रसे॑ना॒ ऽइषु॑-बला॒ ऽअमृ॑ध्राः+++(=अयोध्याः)+++  
+स॒तो+++(ऽधिक)+++-वी॑रा ऽउ॒रवो॑ व्रात-सा॒हाः ॥४६ ॥
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/29/47_brAhmaNAsaH_pitaraH.md">
+<details open><summary><h5>४७ ब्राह्मणासः पितरः ...{Loading}...</h5></summary>
 
-<div class="js_include" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/29/47_brAhmaNAsaH_pitaraH.md"  newLevelForH1="5" includeTitle="false"> </div>  
+ब्राह्म॑णासः॒ पित॑रः॒ सोम्या॑सः  
+शि॒वे नो॒ द्यावा॑-पृथि॒वी ऽअ॑ने॒हसा॑।  
+पू॒षा नः॑ **पातु** दुरि॒ताद् ऋ॑ता-वृधो॒  
+रक्षा॒ माकि॑र् **नो ऽअ॒घश॑ꣳस ऽईशत** ॥४७ ॥
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/29/48_suparNaM_vaste.md">
+<details open><summary><h5>४८ सुपर्णं वस्ते ...{Loading}...</h5></summary>
 
-<div class="js_include" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/29/48_suparNaM_vaste.md"  newLevelForH1="5" includeTitle="false"> </div>  
++++(इषोः पुच्छे)+++ सु॒प॒र्णं व॑स्ते+++(=आच्छादयति)+++, मृ॒गो ऽअ॑स्या॒ दन्तो॒  
++++(शल्ययोजने)+++ गोभिः॒ सन्न॑द्धा, पतति॒ प्रसू॑ता।  
+यत्रा॒ नरः॒ सं च॒ वि च॒ द्रव॑न्ति॒  
+तत्रा॒स्माभ्य॒म् इष॑वः॒ शर्म॑ यꣳसन् ॥४८ ॥+++(5)+++
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/brAhmaNam/sarva-prastutiH/5/4/11/aShTAv_aShTau.md">
+<details open><summary><h5>अ॒ष्टाव् अ॑ष्टाव् ...{Loading}...</h5></summary>
+<details><summary>मूलम् (संयुक्तम्)</summary>
 
+ऽष्टाव॑ष्टाव॒न्येषु॒ धिष्णि॑ये॒षूप॑ दधात्य॒ष्टाश॑फाᳶ प॒शवᳶ॑ प॒शूने॒वाव॑ रुन्द्धे॒ षण्मा᳚र्जा॒लीये॒ षड्वा ऋ॒तव॑ ऋ॒तव॒ᳵ खलु॒ वै दे॒वाᳶ पि॒तर॑ ऋ॒तूने॒व दे॒वान्पि॒तॄन्प्री॑णाति ॥ [55]
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/brAhmaNam/sarva-prastutiH/5/4/11/aShTAv_aShTau.md"  newLevelForH1="5" includeTitle="false"> </div>  
+अष्टाव् अ॑ष्टाव॒न्येषु॒ धिष्णि॑ये॒षूप॑ दधाति ।  
+अ॒ष्टाश॑फाᳶ प॒शवᳶ॑, प॒शूने॒वाव॑ रुन्धे ।  
+षण्मा᳚र्जा॒लीये॒ , षड्वा ऋ॒तवः॑ ।  
+ऋ॒तव॒ᳵ खलु॒ वै दे॒वाᳶ पि॒तरः॑ ।  
+ऋ॒तूने॒व दे॒वान्पि॒तॄन्प्री॑णाति ॥ [55]
+</details>
+<details><summary>मूलम्</summary>
+
+अष्टाव॑ष्टाव॒न्येषु॒ धिष्णि॑ये॒षूप॑ दधाति ।  
+अ॒ष्टाश॑फाᳶ प॒शवᳶ॑, प॒शूने॒वाव॑ रुन्धे ।  
+षण्मा᳚र्जा॒लीये॒ , षड्वा ऋ॒तवः॑ ।  
+ऋ॒तव॒ᳵ खलु॒ वै दे॒वाᳶ पि॒तरः॑ ।  
+ऋ॒तूने॒व दे॒वान्पि॒तॄन्प्री॑णाति ॥ [55]
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+14अष्टाविति ॥ एकां याजुषीम् । सप्त च लोकंपृणाः ।  
+अन्येषु धिष्ण्येषु आग्नीध्रीयादिषु षडिति । एकां याजुषीं पञ्च लोकंपृणाः ।  
+ऋतव एव खलु पितृरूपेण वर्तन्ते । तस्माद् उभयान्प्रीणातीति ॥
+
+इति पञ्चमे चतुर्थे एकादशोनुवाकः ॥
+</details>
+</details>
+</div>  
 
 
 इत्य् उपस्थाय -  
@@ -845,7 +1391,17 @@ title = "०५ भोजनम्"
 इत्युपचारान् उत्त्वा,  
 पादौ निपीड्य
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/038/08_vAjevAje_avata_vAjino.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/038/08_vAjevAje_avata_vAjino.md">
+<details open><summary><h5>०८ वाजेवाजेऽवत वाजिनो ...{Loading}...</h5></summary>
+
+
+वाजे॑वाजे ऽवत वाजिनो! नो॒  
+धने॑षु, विप्रा! अमृता! ऋत-ज्ञाः ।  
+अ॒स्य मध्वः॑ पिबत मा॒दय॑ध्वं  
+तृ॒प्ता या॑त प॒थिभि॑र् देव॒-यानैः॑ ॥
+
+</details>
+</div>  
 
 
 इति प्रतिब्राह्मणम् उक्त्वा,
@@ -861,6 +1417,34 @@ title = "०५ भोजनम्"
 
 विसृष्टाश्च ब्राह्मणाः,
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/44_vAmadevAya_namaH/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/44_vAmadevAya_namaH/">
+<details open><summary><h2>४४ वामदेवाय नमः ...{Loading}...</h2></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वा॒म॒दे॒वाय॒ नमो᳚  
+ज्ये॒ष्ठाय॒ नमो॑  
+रु॒द्राय॒ नमः॒  
+काला॑य॒ नमः॒  
+कल॑-विकरणाय॒ नमो॒  
+बल॑-विकरणाय॒ नमो॒  
+बल॑-प्रमथनाय॒ नम॒स्  
+सर्व॑-भूत-दमनाय॒ नमो॑  
+म॒नोन्म॑नाय॒ नमः॑ । (59)
+</details>
+<details><summary>मूलम्</summary>
+
+वा॒म॒दे॒वाय॒ नमो᳚  
+ज्ये॒ष्ठाय॒ नमो॑  
+रु॒द्राय॒ नमः॒  
+काला॑य॒ नमः॒  
+कल॑विकरणाय॒ नमो॒  
+बल॑विकरणाय॒ नमो॒  
+बल॑प्रमथनाय॒ नम॒स्  
+सर्व॑भूतदमनाय॒ नमो॑  
+म॒नोन्म॑नाय॒ नमः॑ । (59)
+
+</details>
+</details>
+</div>  
 
 (इति मन्त्रं जपेयुः)

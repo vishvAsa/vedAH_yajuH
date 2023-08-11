@@ -12,9 +12,11 @@ unicode_script: devanagari
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/brAhmaNam/sarva-prastutiH/02/vara-prashaMsA.md">
 <details open><summary><h2>वरः ...{Loading}...</h2></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वरो॒+++(=महार्हो गौरिव)+++ दक्षि॑णा। वरे॑णै॒व वर२ꣳ॑+++(=श्रेष्ठं)+++ स्पृणोति+++(=प्रीणाति)+++।  
 आ॒त्मा हि वरः॑ +++(अत आत्मैव दत्तः)+++ । 
+</details>
 </details>
 </div>
 

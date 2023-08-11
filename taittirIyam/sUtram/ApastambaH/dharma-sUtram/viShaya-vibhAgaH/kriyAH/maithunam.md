@@ -14,7 +14,7 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/02_mithunIbhUya_cha_na.md">
 <details open><summary><h4>02 मिथुनीभूय च न ...{Loading}...</h4></summary>
 
-मिथुनीभूय च न तया सह सर्वां रात्रिं शयीत २
+मिथुनी-भूय च, न तया सह सर्वां रात्रिं शयीत २
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/21_yAvatsannipAta~n_chaiva_sahashayyA.md">
@@ -53,7 +53,7 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/19_tathA_ShThevanamaithunayoH_karmApsu.md">
 <details open><summary><h4>19 तथा ष्ठेवनमैथुनयोः कर्माप्सु ...{Loading}...</h4></summary>
 
-तथा ष्ठेवनमैथुनयोः कर्माप्सु वर्जयेत् १९
+तथा ष्ठेवन-मैथुनयोः कर्माप्सु वर्जयेत् १९
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/16_ahanyasaMveshanam.md">
@@ -65,7 +65,7 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/01_pravachanayukto_varShAsharadam_maithunaM.md">
 <details open><summary><h4>01 प्रवचनयुक्तो वर्षाशरदम् मैथुनं ...{Loading}...</h4></summary>
 
-प्रवचनयुक्तो वर्षाशरदं मैथुनं वर्जयेत् १
+प्रवचन-युक्तो वर्षा-शरदं मैथुनं वर्जयेत् १
 </details>
 </div>
   
@@ -75,7 +75,7 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/06_sadA_nishAyAn_dAram.md">
 <details open><summary><h4>06 सदा निशायान् दारम् ...{Loading}...</h4></summary>
 
-सदा निशायां दारं प्रत्यलंकुर्वीत ६
+सदा निशायां दारं प्रत्य् अलंकुर्वीत ६
 </details>
 </div>
   
@@ -84,7 +84,7 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/05_anAviHsraganulepaNaH_syAt.md">
 <details open><summary><h4>05 अनाविःस्रगनुलेपणः स्यात् ...{Loading}...</h4></summary>
 
-अनाविःस्रगनुलेपणः स्यात् ५
+अन्-आविः+++(भूत)+++-स्रग्-अनुलेपणः स्यात् ५
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/17_Rtau_cha_sannipAto.md">

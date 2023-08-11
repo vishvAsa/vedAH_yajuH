@@ -1,11 +1,131 @@
 +++
 title = "मन्त्रपाठः"
 unicode_script = "devanagari"
+
 +++
 
 ## कलशस्थापनम्
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/22_Apo_vA_idam/"  newLevelForH1="3" includeTitle="true"> </div>  
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/22_Apo_vA_idam/">
+<details open><summary><h3>२२ आपो वा इदं सर्वम् ...{Loading}...</h3></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/3/2/04/apaH_praNayati.md"  newLevelForH1="3" includeTitle="true"> </div>  
+आपो॒ वा इ॒दꣳ सर्वं॒  
+विश्वा॑ भू॒तान्य् आपः॑  
+प्रा॒णा वा आपः॑  
+प॒शव॒ आपो, ऽन्न॒म् आपो, ऽमृ॑त॒म् आपः॑  
+स॒म्राड् आपो॑, वि॒राड् आपः॑, स्व॒राड् आप॒श्  
+छन्दा॒ꣳ॒स्य् आपो॒, ज्योती॒ꣳ॒ष्य् आपो॒, यजू॒ꣳ॒ष्य् आप॑स्,  
+स॒त्यम् आप॒स्, सर्वा॑ दे॒वता॒ आपो॒,  
+भूर् भुव॒स् सुव॒र् आप॒  
+ॐ ॥
+</details>
+<details><summary>मूलम्</summary>
 
+आपो॒ वा इ॒दꣳ सर्वं॒  
+विश्वा॑ भू॒तान्यापः॑  
+प्रा॒णा वा आपः॑  
+प॒शव॒ आपो ऽन्न॒मापो ऽमृ॑त॒म् आपः॑  
+स॒म्राडापो॑ वि॒राडापः॑ स्व॒राडाप॒श्  
+छन्दा॒ꣳ॒स्यापो॒ ज्योती॒ꣳ॒ष्यापो॒ यजू॒ꣳ॒ष्याप॑स्  
+स॒त्यमाप॒स् सर्वा॑ दे॒वता॒ आपो॒  
+भूर्भुव॒स्सुव॒राप॒ ॐ ॥
+</details>
+</details>
+</div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/3/2/04/apaH_praNayati">
+<details open><summary><h3>अपः प्रणयति ...{Loading}...</h3></summary>
+<details open><summary>विश्वास-प्रसुतिः</summary>
+
+अ॒पᳶ प्रण॑यति ।  
+श्र॒द्धा वा आपः॑ ।  
+श्र॒द्धामे॒वारभ्य॑ प्र॒णीय॒ प्रच॑रति ।
+</details>
+<details><summary>मूलम्</summary>
+
+अ॒पᳶ प्रण॑यति ।  
+श्र॒द्धा वा आपः॑ ।  
+श्र॒द्धामे॒वारभ्य॑ प्र॒णीय॒ प्रच॑रति ।
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+2अपः प्रणयतीत्यसकृद्विधानं फलविशेषार्थम् ।
+</details>
+
+सर्वैः श्रद्धेयत्वादपां श्रद्धात्वम् ।
+<details open><summary>विश्वास-प्रसुतिः</summary>
+
+अ॒पᳶ प्रण॑यति ।  
+य॒ज्ञो वा आपः॑ ॥ 28॥  
+य॒ज्ञमे॒वारभ्य॑ प्र॒णीय॒ प्रच॑रति ।
+</details>
+<details><summary>मूलम्</summary>
+
+अ॒पᳶ प्रण॑यति ।  
+य॒ज्ञो वा आपः॑ ॥ 28॥  
+य॒ज्ञमे॒वारभ्य॑ प्र॒णीय॒ प्रच॑रति ।
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+इष्टसाधनत्वात् यज्ञत्वमपाम् ।
+</details>
+
+प्रचरणं प्रयोगः ।
+<details open><summary>विश्वास-प्रसुतिः</summary>
+
+अ॒पᳶ प्रण॑यति ।  
+वज्रो॒ वा आपः॑ ।  
+वज्र॑मे॒व भ्रातृ॑व्येभ्यᳶ प्र॒हृत्य॑ प्र॒णीय॒ प्रच॑रति ।
+</details>
+<details><summary>मूलम्</summary>
+
+अ॒पᳶ प्रण॑यति ।  
+वज्रो॒ वा आपः॑ ।  
+वज्र॑मे॒व भ्रातृ॑व्येभ्यᳶ प्र॒हृत्य॑ प्र॒णीय॒ प्रच॑रति ।
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+अरिष्टशमनत्वाद्वज्रत्वम् ।
+</details>
+<details open><summary>विश्वास-प्रसुतिः</summary>
+
+अ॒पᳶ प्रण॑यति ।    
+आपो॒ वै र॑ख्षो॒घ्नीः ।  
+रख्ष॑सा॒मप॑हत्यै ।
+
+अ॒पᳶ प्रण॑यति ।  
+आपो॒ वै दे॒वाना᳚म्प्रि॒यन्धाम॑ ।  
+दे॒वाना॑मे॒व प्रि॒यन्धाम॑ प्र॒णीय॒ प्रच॑रति ॥29॥
+
+अ॒पᳶ प्रण॑यति ।  
+आपो॒ वै सर्वा॑ दे॒वताः᳚ ।   
+दे॒वता॑ ए॒वारभ्य॑ प्र॒णीय॒ प्रच॑रति ।
+</details>
+<details><summary>मूलम्</summary>
+
+अ॒पᳶ प्रण॑यति ।    
+आपो॒ वै र॑ख्षो॒घ्नीः ।  
+रख्ष॑सा॒मप॑हत्यै ।
+
+अ॒पᳶ प्रण॑यति ।  
+आपो॒ वै दे॒वाना᳚म्प्रि॒यन्धाम॑ ।  
+दे॒वाना॑मे॒व प्रि॒यन्धाम॑ प्र॒णीय॒ प्रच॑रति ॥29॥
+
+अ॒पᳶ प्रण॑यति ।  
+आपो॒ वै सर्वा॑ दे॒वताः᳚ ।   
+दे॒वता॑ ए॒वारभ्य॑ प्र॒णीय॒ प्रच॑रति ।
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+सर्व देवताप्रीणनत्वात् सर्व देवतात्वम् ॥
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+(आपो॒वैशा॒न्ताः । शा॒न्ताभि॑रे॒वास्य॑ शुचꣳ॑शमयति ॥)
+</details>
+<details><summary>मूलम्</summary>
+
+(आपो॒वैशा॒न्ताः । शा॒न्ताभि॑रे॒वास्य॑ शुचꣳ॑शमयति ॥)
+</details>
+</details>
+</div>

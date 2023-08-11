@@ -19,7 +19,6 @@ title = "०१ षड्रात्रविधिः"
 सा॒ध्या+++(=देवविशेषाः)+++ वै दे॒वास् सु॑व॒र्गका॑मा ए॒तꣳ ष॑ड्रा॒त्रम् अ॑पश्य॒न् । तमाह॑र॒न् । तेना॑यजन्त । ततो॒ वै ते सु॑व॒र्गल्ँ लो॒कम् आ॑यन्।  
 य ए॒वव्ँ वि॒द्वाꣳसष् षड्रा॒त्रम् आस॑ते , सुव॒र्गमे॒व लो॒कय्ँ य॑न्ति ।
 </details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दे॒व॒स॒त्त्रव्ँ वै ष॑ड्रा॒त्रः । प्र॒त्यख्ष॒ꣵ॒ ह्य् ए॑तानि॑ पृ॒ष्ठानि॑ +++(रथन्तरादीनि देवतुल्यानि)+++ ।  
@@ -37,70 +36,66 @@ title = "०१ षड्रात्रविधिः"
 पृ॒ष्ठैर् ए॒व ऋ॒र्तून् अ॒न्वारो॑हन्ति +ऋ॒तुभि॑स् सव्ँवथ्स॒रम् ।  
 ते स॑व्ँवथ्स॒र ए॒व प्रति॑ तिष्ठन्ति ।
 </details>
-
-
-
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/brAhmaNam/sarva-prastutiH/7/3/05_anyash_chaturdasharAtraH/bRhad-rathantara-yAnam.md">
 <details open><summary><h3>बृहद्-रथन्तर-यानम् ...{Loading}...</h3></summary>
+<details><summary>मूलम् (संयुक्तम्)</summary>
 
+बृहद्रथन्त॒राभ्या᳚य्ँयन्ती॒यव्ँवाव र॑थन्त॒रम॒सौ बृ॒हदा॒भ्यामे॒व [2]  
+य॒न्त्यथो॑ अ॒नयो॑रे॒व प्रति॑ तिष्ठन्त्ये॒ते वै य॒ज्ञस्या᳚ञ्ज॒साय॑नी स्रु॒ती ताभ्या॑मे॒व सु॑व॒र्गल्ँलो॒कय्ँय॑न्ति
+</details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(दिवसेषु एकान्तराभ्यां)+++ बृहद्रथन्त॒राभ्या᳚य्ँ यन्ति ।
 इ॒यव्ँ वाव र॑थन्त॒रम्, अ॒सौ बृ॒हत् +++(चास्ति)+++।  
 आ॒भ्यामे॒व य॒न्ति +++(प्रथमदिनयोः)+++ ।  
-</details>
-
-
 
 अथो॑ अ॒नयो॑रे॒व प्रति॑ तिष्ठन्ति ।  
 ए॒ते वै य॒ज्ञस्या᳚ञ्ज॒साय॑नी स्रु॒ती+++(=मार्गौ)+++ ।  
 ताभ्या॑म् ए॒व सु॑व॒र्गल्ँ लो॒कय्ँ य॑न्ति ।
+</details>
+<details><summary>मूलम्</summary>
 
+बृ॒ह॒द्र॒थ॒न्त॒राभ्या᳚य्ँ यन्ति ।
+इ॒यव्ँ वाव र॑थन्त॒रम् अ॒सौ बृ॒हत् ।
+आ॒भ्यामे॒व य॒न्ति [2]।  
+अथो॑ अ॒नयो॑रे॒व प्रति॑ तिष्ठन्ति ।
+ए॒ते वै य॒ज्ञस्या᳚ञ्ज॒साय॑नी स्रु॒ती ।
+ताभ्या॑मे॒व सु॑व॒र्गल्ँ लो॒कय्ँ य॑न्ति ।
+</details>
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/brAhmaNam/sarva-prastutiH/7/1/10_pancharAtravidhiH/9-15-17-vidhAnam.md">
 <details open><summary><h3>९-१५-१७-विधानम् ...{Loading}...</h3></summary>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रि॒वृद्+++(=त्र्यवयवास् तिस्रो वृत्तयो ऽस्येति)+++ अ॑ग्निष्टो॒मो +++(यागो रथन्तरसामा)+++ भ॑वति +++("अग्न॒ आ या॑हि" इत्यादेस् त्र्यर्चस्य)+++ । तेज॑ ए॒वाव॑ रुन्धते ।  
 प॒ञ्च॒द॒शो +++(बृहत्सामा +उक्थ्यो?)+++ भ॑वति । इ॒न्द्रि॒यम् ए॒वाव॑ रुन्धते ।  
 स॒प्त॒द॒शो +++(वैरूपसामा +उक्थ्यो?)+++ भवति। [2] अ॒न्नाद्य॒स्याव॑रुद्ध्यै । अथो॒ प्रैव तेन॑ जायन्ते ।  
 </details>
-
-
-
 <details><summary>Keith</summary>
 
 There is an Agnistoma characterized by the Trivrt (Stoma); verily he wins brilliance.  
-There is a Pañcadaça (Stoma); verily he wins power.  
-There is a Saptadaça (Stoma), for the obtainment of food; verily also he gains offspring by reason of it.
+There is a Pañcadaśa (Stoma); verily he wins power.  
+There is a Saptadaśa (Stoma), for the obtainment of food; verily also he gains offspring by reason of it.
 </details>
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/brAhmaNam/sarva-prastutiH/7/2/01_ShaDrAtravidhiH/21-27-vidhAnam.md">
 <details open><summary><h3>२१-२७ विधानम् ...{Loading}...</h3></summary>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ए॒क॒वि॒ꣳ॒शो +++(वैराजसामा षोडशी यागः)+++ भ॑वति॒ प्रति॑ष्ठित्यै । अथो॒ रुच॑म् ए॒वात्मन् द॑धते ।  
-त्रि॒ण॒वो +++(शाक्वरसामा उक्थ्यः)+++ भ॑वति॒, विजि॑त्यै ।  
+त्रि॒ण॒वो +++(शाक्वरसामा उक्थ्यः)+++ भ॑वति॒, विजि॑त्यै । 
 </details>
-
-
-
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/brAhmaNam/sarva-prastutiH/7/2/01_ShaDrAtravidhiH/33-vidhAnam.md">
 <details open><summary><h3>३३-विधानम् ...{Loading}...</h3></summary>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्र॒य॒स्त्रि॒ꣳ॒शो +++( रैवतसामा षष्ठम्)+++ भ॑वति, प्रति॑ष्ठित्यै ।
+
 </details>
-
-
-
 </details>
 </div>  
 
@@ -146,20 +141,14 @@ There is a Saptadaça (Stoma), for the obtainment of food; verily also he gains 
 श॒तायु॒ᳶ पुरु॑षश् श॒तेन्द्रि॑यः।
 आयु॑ष्य् ए॒वेन्द्रि॒ये प्रति॑ तिष्ठन्ति ।
 </details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य॒दा श॒तꣳ स॒हस्र॑ङ् कु॒र्वन्त्य् अथ + एक॑म् उ॒त्थान᳚म् +++(→सत्रसमापनम् पक्षान्तरे)+++ ।  
 स॒हस्र॑-सम्मितो॒ वा अ॒सौ लो॒कः ।  
 अ॒मुम् ए॒व लो॒कम् अ॒भि ज॑यन्ति ।
 </details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य॒दैषा᳚म् प्र॒मीये॑त, य॒दा वा॒ जीये॑रन्न् +++(→सर्वस्वमपि ह्रियेरन्)+++ अथैक॑म् उ॒त्थान᳚म् ।  
 तद्धि ती॒र्थम्+++(=तारकम्)+++ ॥ [4]
 </details>
-
-
-
-

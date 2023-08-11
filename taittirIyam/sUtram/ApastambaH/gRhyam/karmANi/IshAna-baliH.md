@@ -36,8 +36,8 @@ unicode_script: devanagari
 
 उत्तरया दक्षिणस्याम् ईशानम् आवाहयति १  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/10_A_tvA.md">
-<details open=""><summary><h4>१० आ त्वा ...{Loading}...</h4></summary>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/10_A_tvA.md">
+<details open><summary><h4>१० आ त्वा ...{Loading}...</h4></summary>
 
 
 आ त्वा॑ वहन्तु॒ हर॑य॒स्+++(=हरितवर्णाश्वाः)+++ सचे॑तसश्  
@@ -73,8 +73,8 @@ unicode_script: devanagari
 उत्तरैर् यथास्वम् ओदनेभ्यो हुत्वा  
 सर्वतस् समवदायोत्तरेण यजुषाग्निं स्विष्टकृतम् ।  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/11_-30_upaspRshatu_mIDhvAnmIDhuShe.md">
-<details open=""><summary><h4>११ -३० उपस्पृशतु मीढ्वान्मीढुषे ...{Loading}...</h4></summary>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/11_-30_upaspRshatu_mIDhvAnmIDhuShe.md">
+<details open><summary><h4>११ -३० उपस्पृशतु मीढ्वान्मीढुषे ...{Loading}...</h4></summary>
 
 
 उप॑स्पृशतु मी॒ढ्वान्, मी॒ढुषे॒ स्वाहा।  
@@ -104,8 +104,8 @@ unicode_script: devanagari
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/31_agnaye_sviShTakRte.md">
-<details open=""><summary><h4>३१ अग्नये स्विष्टकृते ...{Loading}...</h4></summary>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/31_agnaye_sviShTakRte.md">
+<details open><summary><h4>३१ अग्नये स्विष्टकृते ...{Loading}...</h4></summary>
 
 
 अ॒ग्नये॑ स्विष्ट॒कृते॒ सुहु॑तहुत॒ आहु॑तीनां॒ कामा॑नाꣳ समर्द्धयि॒त्रे स्वाहा॑ ।  
@@ -122,8 +122,8 @@ unicode_script: devanagari
 
 उत्तरेण यजुषोपस्थाय  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/32_svasti_naH.md">
-<details open=""><summary><h4>३२ स्वस्ति नः ...{Loading}...</h4></summary>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/32_svasti_naH.md">
+<details open><summary><h4>३२ स्वस्ति नः ...{Loading}...</h4></summary>
 
 
 स्व॒स्ति नः॑ पूर्ण॒मुखः॒ परि॑क्रामतु ।  
@@ -134,8 +134,8 @@ unicode_script: devanagari
 उत्तरैस् सहोदनानि पर्णान्य् एकैकेन द्वे द्वे दत्त्वा  
 देवसेनाभ्यो दशोत्तराभ्यः ५
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/33_-41_gRhapopaspRsha_gRhapAya.md">
-<details open=""><summary><h4>३३ -४५ गृहपोपस्पृश गृहपाय ...{Loading}...</h4></summary>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/33_-41_gRhapopaspRsha_gRhapAya.md">
+<details open><summary><h4>३३ -४५ गृहपोपस्पृश गृहपाय ...{Loading}...</h4></summary>
 
 
 - उत्तरस्याम्
@@ -165,8 +165,8 @@ unicode_script: devanagari
 
 पूर्ववद् उत्तरैः ६  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/42_-45_dvArApopaspRsha.md">
-<details open=""><summary><h4>३३ -४५ गृहपोपस्पृश गृहपाय ...{Loading}...</h4></summary>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/42_-45_dvArApopaspRsha.md">
+<details open><summary><h4>३३ -४५ गृहपोपस्पृश गृहपाय ...{Loading}...</h4></summary>
 
 - द्वा॒रा॒पोप॑स्पृश। द्वारा॒पाय॒ स्वाहा॑ ।  
 - द्वा॒रा॒प्युप॑स्पृश द्वारा॒प्यै स्वाहा॑ ।
@@ -184,8 +184,8 @@ unicode_script: devanagari
 ओदनपिण्डं संवृत्य  
 पर्ण-पुटे ऽवधायोत्तरेण यजुषा वृक्ष आसजति+++(=अवलम्बयति)+++ ७  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/46_namo_niShangiNe.md">
-<details open=""><summary><h4>४६ नमो निषङ्गिणे ...{Loading}...</h4></summary>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/46_namo_niShangiNe.md">
+<details open><summary><h4>४६ नमो निषङ्गिणे ...{Loading}...</h4></summary>
 
 
 नमो॑ निष॒ङ्गिणे+++(→ इषुव्यतिरिक्तानां शस्त्राणाम् आवासस्थानवते ।)+++
@@ -242,8 +242,8 @@ unicode_script: devanagari
 
 ईशानवद् आवाहनम् १३  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/10_A_tvA.md">
-<details open=""><summary><h4>१० आ त्वा ...{Loading}...</h4></summary>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/10_A_tvA.md">
+<details open><summary><h4>१० आ त्वा ...{Loading}...</h4></summary>
 
 
 आ त्वा॑ वहन्तु॒ हर॑य॒स्+++(=हरितवर्णाश्वाः)+++ सचे॑तसश्  
@@ -273,8 +273,8 @@ unicode_script: devanagari
 
 उत्तराभ्याम् उपतिष्ठते १६  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/47_-48_xetrasya_patinA.md">
-<details open=""><summary><h4>४७ -४८ क्षेत्रस्य पतिना ...{Loading}...</h4></summary>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/47_-48_xetrasya_patinA.md">
+<details open><summary><h4>४७ -४८ क्षेत्रस्य पतिना ...{Loading}...</h4></summary>
 
 
 क्षेत्र॑स्य॒ पति॑ना व॒यँ हि॒तेने॑व जयामसि ।  

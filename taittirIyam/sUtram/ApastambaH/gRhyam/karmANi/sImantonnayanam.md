@@ -8,7 +8,7 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhanirUpaNam/02_02_shamyAH_paridhyarthe.md">
 <details open><summary><h2>०२ ०२ शम्याः परिध्यर्थे ...{Loading}...</h2></summary>
 
-शम्याः परिध्यर्थे परिधिः - शम्याः परिध्यर्थे विवाह+उपनयन-समावर्तन-सीमन्त-चौल-गोदान-प्रायश्चित्तेषु २ +++(अथ परिधीन् परिदधाति। तत आघारसमिधौ।)+++
+शम्याः+++(=युगकीलाः)+++ परिध्यर्थे विवाह+उपनयन-समावर्तन-सीमन्त-चौल-गोदान-प्रायश्चित्तेषु २ +++(अथ परिधीन् परिदधाति। तत आघारसमिधौ।)+++
 
 </details>
 </div>
@@ -32,8 +32,8 @@ unicode_script: devanagari
    
 
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/01_dhAtA_dadAtu.md">
-<details open=""><summary><h4>०१ धाता ददातु ...{Loading}...</h4></summary>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/01_dhAtA_dadAtu.md">
+<details open><summary><h4>०१ धाता ददातु ...{Loading}...</h4></summary>
 
 
 धा॒ता द॑दातु नो र॒यिम्  
@@ -42,8 +42,8 @@ unicode_script: devanagari
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/02_dhAtA_prajAyA.md">
-<details open=""><summary><h4>०२ धाता प्रजाया ...{Loading}...</h4></summary>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/02_dhAtA_prajAyA.md">
+<details open><summary><h4>०२ धाता प्रजाया ...{Loading}...</h4></summary>
 
 
 धा॒ता प्र॒जाया॑ उ॒त रा॒य ई॑शे +++(=ईष्टे)+++   
@@ -53,8 +53,8 @@ unicode_script: devanagari
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/03_dhAtA_dadAtu.md">
-<details open=""><summary><h4>०३ धाता ददातु ...{Loading}...</h4></summary>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/03_dhAtA_dadAtu.md">
+<details open><summary><h4>०३ धाता ददातु ...{Loading}...</h4></summary>
 
 
 धा॒ता द॑दातु नो र॒यिम्  
@@ -64,8 +64,8 @@ unicode_script: devanagari
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/04_dhAtA_dadAtu.md">
-<details open=""><summary><h4>०४ धाता ददातु ...{Loading}...</h4></summary>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/04_dhAtA_dadAtu.md">
+<details open><summary><h4>०४ धाता ददातु ...{Loading}...</h4></summary>
 
 
 धा॒ता द॑दातु दा॒शुषे॒ वसू॑नि  
@@ -75,25 +75,25 @@ unicode_script: devanagari
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/05_yastvA_hRdA.md">
-<details open=""><summary><h4>०५ यस्त्वा हृदा ...{Loading}...</h4></summary>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/05_yastvA_hRdA.md">
+<details open><summary><h4>०५ यस्त्वा हृदा ...{Loading}...</h4></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/004/10_yastvA_hRdA.md">
-<details open=""><summary><h6>१० यस्त्वा हृदा ...{Loading}...</h6></summary>
+<details open><summary><h6>१० यस्त्वा हृदा ...{Loading}...</h6></summary>
 
 
-यस् त्वा॑ हृ॒दा की॒रिणा॒ +++(=स्तत्रिणा)+++ मन्य॑मा॒नो  
-ऽम॑र्त्यं॒ मर्त्यो॒ जोह॑वीमि ।  
-जात॑वेदो॒ यशो॑ अ॒स्मासु॑ धेहि  
-प्र॒जाभि॑र् अग्ने अमृत॒त्वम् अ॑श्याम् ॥
+यस् **त्वा॑** हृ॒दा की॒रिणा॒ +++(=स्तोत्रिणा)+++ मन्य॑मा॒नो  
+ऽम॑र्त्यं॒ मर्त्यो॒ **जोह॑वीमि** ।  
+जात॑वेदो॒ **यशो॑** अ॒स्मासु॑ **धेहि**  
+प्र॒जाभि॑र् अग्ने **अमृत॒त्वम् अ॑श्याम्** ॥
 
 </details>
 </div>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/06_yasmai_tvam.md">
-<details open=""><summary><h4>०६ यस्मै त्वम् ...{Loading}...</h4></summary>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/06_yasmai_tvam.md">
+<details open><summary><h4>०६ यस्मै त्वम् ...{Loading}...</h4></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/004/11_yasmai_tvaM.md">
-<details open=""><summary><h6>११ यस्मै त्वं ...{Loading}...</h6></summary>
+<details open><summary><h6>११ यस्मै त्वं ...{Loading}...</h6></summary>
 
 
 यस्मै॒ त्वꣳ सु॒कृते॑ जातवेद॒ उ  
@@ -105,10 +105,10 @@ unicode_script: devanagari
 </div>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/07_tve_su.md">
-<details open=""><summary><h4>०७ त्वे सु ...{Loading}...</h4></summary>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/07_tve_su.md">
+<details open><summary><h4>०७ त्वे सु ...{Loading}...</h4></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/092/14_tve_su.md">
-<details open=""><summary><h6>१४ त्वे सु ...{Loading}...</h6></summary>
+<details open><summary><h6>१४ त्वे सु ...{Loading}...</h6></summary>
 
 
 त्वे सु पु॑त्त्र शव॒सो  
@@ -119,10 +119,10 @@ unicode_script: devanagari
 </div>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/08_ukthaukthe_soma.md">
-<details open=""><summary><h4>०८ उक्थउक्थे सोम ...{Loading}...</h4></summary>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/08_ukthaukthe_soma.md">
+<details open><summary><h4>०८ उक्थउक्थे सोम ...{Loading}...</h4></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/026/02_ukthaukthe_soma.md">
-<details open=""><summary><h6>०२ उक्थौक्थे सोम ...{Loading}...</h6></summary>
+<details open><summary><h6>०२ उक्थौक्थे सोम ...{Loading}...</h6></summary>
 
 
 
@@ -168,8 +168,8 @@ unicode_script: devanagari
 
 उत्तरयोः पूर्वा साल्वानां ब्राह्मणानामितरा ।
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/12_yaugandharireva_no.md">
-<details open=""><summary><h4>१२ यौगन्धरिरेव नो ...{Loading}...</h4></summary>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/12_yaugandharireva_no.md">
+<details open><summary><h4>१२ यौगन्धरिरेव नो ...{Loading}...</h4></summary>
 
 
 यौग॑न्धरिर् ए॒व नो॒ राजेति॒ साल्वी॑र् अवादिषुः ।  
@@ -186,8 +186,8 @@ unicode_script: devanagari
 
 +++(अन्येषाम् - "सोम एव नो राजा" इत्येषा।)+++ नदी-निर्देशश्च यस्यां वसन्ति ॥  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/13_soma_eva.md">
-<details open=""><summary><h4>१३ सोम एव ...{Loading}...</h4></summary>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/13_soma_eva.md">
+<details open><summary><h4>१३ सोम एव ...{Loading}...</h4></summary>
 
 
 सोम॑ ए॒व नो॒ राजेत्य्  
