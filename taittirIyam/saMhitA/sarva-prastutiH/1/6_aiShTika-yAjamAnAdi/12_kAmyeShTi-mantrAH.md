@@ -33,7 +33,7 @@ title = "१२ काम्येष्टिमन्त्राः"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvaSh_TIkAH/01/007/10_indraM_vo.md"></div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/007/10_indraM_vo.md"></div>  
 
 ### याज्या
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -52,7 +52,7 @@ title = "१२ काम्येष्टिमन्त्राः"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvaSh_TIkAH/07/027/01_indraM_naro.md"></div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/027/01_indraM_naro.md"></div>  
 
 ## इन्द्रियावद्यागे 
 ### पुरोनुवाक्या
@@ -70,7 +70,7 @@ title = "१२ काम्येष्टिमन्त्राः"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvaSh_TIkAH/03/037/09_indriyANi_shatakrato.md"></div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/037/09_indriyANi_shatakrato.md"></div>  
 
 ### याज्या
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -454,7 +454,7 @@ The glowing pot is the guest of Indra.
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvaSh_TIkAH/08/089/07_AmAsu_pakvamairaya.md"></div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/089/07_AmAsu_pakvamairaya.md"></div>  
 
 
 ## अर्कवद्-यागे 
@@ -473,7 +473,7 @@ The glowing pot is the guest of Indra.
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvaSh_TIkAH/01/007/01_indramidgAthino_bRhadindramarkebhirarkiNaH.md"></div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/007/01_indramidgAthino_bRhadindramarkebhirarkiNaH.md"></div>  
 
 
 ### याज्या
@@ -492,7 +492,7 @@ The glowing pot is the guest of Indra.
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvaSh_TIkAH/01/010/01_gAyanti_tvA.md"></div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/010/01_gAyanti_tvA.md"></div>  
 
 ## अंहोमुग्यागे 
 ### पुरोनुवाक्या

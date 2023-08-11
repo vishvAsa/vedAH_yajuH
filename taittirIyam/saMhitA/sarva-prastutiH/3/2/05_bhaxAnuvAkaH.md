@@ -396,7 +396,7 @@ O bountiful one, fair to see;
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvaSh_TIkAH/2_22/19_prajApate_na.md"></div>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_22/19_prajApate_na.md"></div>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/3/2/05_bhaxAnuvAkaH/devakRtasyainasaH.md">
 <details open><summary><h5>दे॒वकृ॑त॒स्यैन॑सोऽव॒यज॑नमसि ...{Loading}...</h5></summary>
 <details><summary>भास्करोक्त-विनियोगः</summary>

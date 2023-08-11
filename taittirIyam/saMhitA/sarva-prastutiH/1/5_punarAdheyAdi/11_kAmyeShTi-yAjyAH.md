@@ -53,8 +53,8 @@ _______
 
 2'वैश्वानरं द्वादशकपालं निर्वपेद् विद्विषाणयोर् अन्नं जग्ध्वा' इत्यस्य याज्या - ऋतावानमिति गायत्री ॥ 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/036_vaishvAnaraH/01_vaRtAvAnaM_vaishvAnaramRtasya.md"></div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/036_vaishvAnaraH/01_vaRtAvAnaM_vaishvAnaramRtasya.md"></div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/036_vaishvAnaraH/01_RtAvAnaM_vaishvAnaramRtasya.md"></div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/036_vaishvAnaraH/01_RtAvAnaM_vaishvAnaramRtasya.md"></div>  
 
 ## जातेष्टिरूपे वैश्वानरयागे पुरोनुवाक्या
 
@@ -3342,7 +3342,7 @@ _______
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/shAkalam/saMhitA/vishvAsa-prastutiH/01/085/12_yA_vaH.md"></div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/085/12_yA_vaH.md"></div>
 
 
 ## सङ्ग्राममुपप्रयायास्यतः आदित्ये
