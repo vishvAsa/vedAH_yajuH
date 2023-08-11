@@ -9,14 +9,12 @@ unicode_script: devanagari
 
 खादिरं पालाशं वैकविंशतिदारुम् +++(तेष्वाघारौ २, परिध्यर्थाः ३, अनूयाज-समिच्च १)+++ इध्मं करोति ६  
 
-
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/01/05/07_trayaH_paridhayaH.md">
 <details open><summary><h2>07 त्रयः परिधयः ...{Loading}...</h2></summary>
 
 +++(तेषु)+++ त्रयः परिधयः ७  
-
 
 </details>
 </div>
@@ -25,14 +23,12 @@ unicode_script: devanagari
 
 +++(परिध्यर्थे -)+++ पलाश-कार्ष्मर्य-खदिर+उदुम्बर-बिल्व-रोहीतक+++(=वटजातीयो)+++-विकङ्कतानां ये वा यज्ञिया वृक्षाः ८  
 
-
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/01/05/09_ArdrAH_shuShkA_vA.md">
 <details open><summary><h2>09 आर्द्राः शुष्का वा ...{Loading}...</h2></summary>
 
-आर्द्राः शुष्का वा सत्वक्काः ९  
-
+आर्द्राः शुष्का वा सत्वक्काः ९ 
 
 </details>
 </div>
@@ -43,14 +39,12 @@ unicode_script: devanagari
 ऽणीयान् द्राघीयान् दक्षिणार्ध्यो,  
 ऽणिष्ठो ह्रसिष्ठ उत्तरार्ध्यः १०  
 
-
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/01/05/11_dve_AghArasamidhAvanUyAjasamidekaviMshIti.md">
 <details open><summary><h2>11 द्वे आघारसमिधावनूयाजसमिदेकविंशीति ...{Loading}...</h2></summary>
 
 +++(पूर्वोक्त इध्मे)+++ द्वे आघारसमिधाव् अनूयाजसमिद् एकविंशीति ११  
-
 
 </details>
 </div>  
@@ -60,7 +54,6 @@ unicode_script: devanagari
 <details open><summary><h2>12 समूलानामृतेमूलानां वा दर्भाणाम् ...{Loading}...</h2></summary>
 
 समूलानामृते ऽमूलानां वा दर्भाणां पूर्ववच् +++(तूष्णीं)+++ छुल्बं कृत्वा, उदगग्रं वितत्य १२  
-
 
 </details>
 </div>
@@ -72,7 +65,6 @@ unicode_script: devanagari
 त्रीन् परिधींस् तिस्रः समिधो यज्ञायुर् अनुसंचरान् ।  
 उपवेषं+++(=लक्षणावृत्त्या +इध्मं)+++ मेक्षणं+++(=लक्षणावृत्त्या +इध्मं)+++  धृष्टिं+++(=लक्षणावृत्त्या +इध्मं)+++  संभरामि सुसंभृते"ति शुल्ब इध्मं संभरति १  
 
-
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/01/06/02_kRShNo.asyAkhareShTho_deva.md">
@@ -83,14 +75,12 @@ unicode_script: devanagari
 
 अनधो निदधाति +++(अगारे)+++२  
 
-
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/01/06/03_idhmapravashchanAni_nidadhAti.md">
 <details open><summary><h2>03 इध्मप्रवश्चनानि निदधाति ...{Loading}...</h2></summary>
 
 इध्मप्रवश्चनानि +++(=इध्मच्छेदनप्रभवान् शकलान्)+++ निदधाति +++(क्व?)+++ ३  
-
 
 </details>
 </div>
