@@ -171,12 +171,22 @@ title = "०४ श्राद्धप्रयोगः"
 
 तीर्थमुद्धृत्य, अवोक्ष्य,
 
-<div class="js_include" url="/devaH/AryaH/hindukaH/classes/raxAMsi/Rk/apahatA_asurA.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/devaH/AryaH/hindukaH/classes/raxAMsi/Rk/apahatA_asurA.md"></div>  
 
 
 इति सिकतान् (अक्षतान्?) विकीर्य ।
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/015/01_udIratAmavara_utparAsa.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/015/01_udIratAmavara_utparAsa.md">
+<details open><summary><h5>०१ उदीरतामवर उत्परास ...{Loading}...</h5></summary>
+
+
+उदी॑रता॒म् अव॑र॒ उत् परा॑स॒  
+उन् म॑ध्य॒माः पि॒तरः॑ सो॒म्यासः॑ ।  
+असुं॒ य ई॒युर् अ॑वृ॒का ऋ॑त॒ज्ञास्  
+ते नो॑ऽवन्तु पि॒तरो॒ हवे॑षु ॥
+
+</details>
+</div>  
 
 
 इति तिलान् विकीर्य
@@ -212,7 +222,17 @@ title = "०४ श्राद्धप्रयोगः"
 
 प्राचीनावीती - वसुरुद्राऽऽदित्यस्वरूपान् अस्मत्पितृपितामहप्रपितामहान् भवत्सु आवाहयिष्ये । (आवाहय) ।
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/016/12_ushantastvA_ni.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/016/12_ushantastvA_ni.md">
+<details open><summary><h5>१२ उशन्तस्त्वा नि ...{Loading}...</h5></summary>
+
+
+उ॒शन्त॑स्त्वा॒ नि धी॑मह्य्  
+उ॒शन्तः॒ समि॑धीमहि ।  
+उ॒शन्न् उ॑श॒त आ व॑ह  
+पि॒तॄन् ह॒विषे॒ अत्त॑वे ॥
+
+</details>
+</div>  
 
 
 [[201]]

@@ -6,26 +6,133 @@ title = "०२ प्रातःस्मरणम्"
 
 अथ रात्रेरुपान्त्ययामे तल्पादुत्थाय श्रीमहागणपतिं स्मृत्वा हस्तपादं प्रक्षाल्य तूष्णीमाचम्य पठेत्- 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_15/01_prAtaragnim_prAtarindram.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_15/01_prAtaragnim_prAtarindram.md">
+<details open><summary><h2>०१ प्रातरग्निम् प्रातरिन्द्रम् ...{Loading}...</h2></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/041/01_prAtaragniM_prAtarindraM.md">
+<details open><summary><h4>०१ प्रातरग्निं प्रातरिन्द्रं ...{Loading}...</h4></summary>
 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_15/02_prAtarjitam_bhagamugram.md"  newLevelForH1="2" includeTitle="false"> </div>
+प्रा॒तर् अ॒ग्निं, प्रा॒तर् इन्द्रं॑ **हवामहे**  
+प्रा॒तर् मि॒त्रावरु॑णा, प्रा॒तर् अ॒श्विना॑ ।  
+प्रा॒तर् भगं॑, पू॒षणं॒, ब्रह्म॑ण॒स्पतिं॑  
+प्रा॒तः सोम॑म्, उ॒त रु॒द्रं **हु॑वेम** ॥१॥
+
+</details>
+</div>
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_15/02_prAtarjitam_bhagamugram.md">
+<details open><summary><h2>०२ प्रातर्जितम् भगमुग्रम् ...{Loading}...</h2></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/041/02_prAtarjitaM_bhagamugraM.md">
+<details open><summary><h4>०२ प्रातर्जितं भगमुग्रं ...{Loading}...</h4></summary>
 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_15/03_bhaga_praNetarbhaga.md"  newLevelForH1="2" includeTitle="false"> </div>
+प्रा॒त॒र्-जितं॒ +++(=जयशीलं)+++ भग॑म् उ॒ग्रं **हु॑वेम**  
+व॒यं पु॒त्रम् अदि॑ते॒र् यो वि॑ध॒र्ता।  
+आ॒ध्रश् +++(=दरिद्रश्)+++ चि॒द् यं मन्य॑मानस् तु॒रश्+++(=त्वरमाणो)+++-चि॒द्   
+राजा॑ चि॒द् यं **भगं॑ भ॒क्षी+++(=भजामी)+++त्याह॑** ॥२॥  
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_15/04_utedAnIm_bhagavantassyAmota.md"  newLevelForH1="2" includeTitle="false"> </div>
+</details>
+</div>
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_15/03_bhaga_praNetarbhaga.md">
+<details open><summary><h2>०३ भग प्रणेतर्भग ...{Loading}...</h2></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/041/03_bhaga_praNetarbhaga.md">
+<details open><summary><h4>०३ भग प्रणेतर्भग ...{Loading}...</h4></summary>
 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_15/05_bhaga_eva.md"  newLevelForH1="2" includeTitle="false"> </div>
+भग॒ प्रणे॑त॒र्, भग॒ सत्य॑राधो॒!  
+भगे॒मां धिय॒म् **उद॑वा॒** +++(=रक्ष)+++ दद॑न् नः ।  
+भग॒ प्र णो॑ **जनय॒** गोभि॒र् अश्वै॒र्  
+भग॒ प्र नृभि॑र् **नृ॒वन्तः॑ स्याम** ॥३॥  
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_15/06_samadhvarAyoShaso_namanta.md"  newLevelForH1="2" includeTitle="false"> </div>
+</details>
+</div>
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_15/04_utedAnIm_bhagavantassyAmota.md">
+<details open><summary><h2>०४ उतेदानीम् भगवन्तस्स्यामोत ...{Loading}...</h2></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/041/04_utedAnIM_bhagavantaH.md">
+<details open><summary><h4>०४ उतेदानीं भगवन्तः ...{Loading}...</h4></summary>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_15/07_ashvAvatIrgomatIrna_uShAso.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/082/04_adyA_no.md"  newLevelForH1="5" includeTitle="false"> </div>  
+उ॒तेदानीं॒ **भग॑वन्तः स्याम॒॒**+  
++उ॒त प्र॑पि॒त्व +++(=सायङ्काले)+++ उ॒त मध्ये॒ अह्ना॑म् ।  
+उ॒तोदि॑ता मघ-व॒न्त्! सूर्य॑स्य  
+व॒यं दे॒वानां॑ **सुम॒तौ स्या॑म** ॥४॥  
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/082/05_vishvAni_deva.md"  newLevelForH1="5" includeTitle="false"> </div>  
+</details>
+</div>
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_15/05_bhaga_eva.md">
+<details open><summary><h2>०५ भग एव ...{Loading}...</h2></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/041/05_bhaga_eva.md">
+<details open><summary><h4>०५ भग एव ...{Loading}...</h4></summary>
+
+
+भग॑ ए॒व भग॑-वाँ अस्तु देवा॒स्  
+तेन॑ व॒यं **भग॑वन्तः स्याम** ।  
+तं त्वा॑ भग॒ सर्व॒ इज् **जो॑हवीति॒** +++(←जोहवीमीति तैत्तिरीये)+++  
+स नो॑ भग **पुर ए॒ता भ॑वे॒ह** ॥५॥  
+
+</details>
+</div>
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_15/06_samadhvarAyoShaso_namanta.md">
+<details open><summary><h2>०६ समध्वरायोषसो नमन्त ...{Loading}...</h2></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/041/06_samadhvarAyoShaso_namanta.md">
+<details open><summary><h4>०६ समध्वरायोषसो नमन्त ...{Loading}...</h4></summary>
+
+
+सम् अ॑ध्व॒रायो॒षसो॑ **नमन्त**,  
+दधि॒क्रावे॑व॒ +++(=pegasus-अश्व इव खे)+++ शुच॑ये प॒दाय॑ +++(प्रोष्ठ-पदरूपेण खे, आधाने ऽश्वक्रमवद् भुवि)+++।  
++++(खचक्रे विपरीतदिशि स्वनक्षत्रय् उत्तर-फाल्गुने वर्त्तित्वाद्)+++  
+अ॒र्वा॒ची॒नं व॑सु॒-विदं॒ +++(=धनलब्धारं)+++ भगं॑ नो॒  
+रथ॑म् इ॒वाश्वा॑ वा॒जिन॒ **आ व॑हन्तु** ॥६॥  
++++(३००० BCE इति काले फाल्गुनीषु प्रोष्ठपदासु च सौरायनवर्तनम् अदृश्यतेति प्रासङ्गिकं स्यात्।)+++
+
+</details>
+</div>
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_15/07_ashvAvatIrgomatIrna_uShAso.md">
+<details open><summary><h2>०७ अश्वावतीर्गोमतीर्न उषासो ...{Loading}...</h2></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/041/07_ashvAvatIrgomatIrna_uShAso.md">
+<details open><summary><h4>०७ अश्वावतीर्गोमतीर्न उषासो ...{Loading}...</h4></summary>
+
+
+अश्वा॑वती॒र् गोम॑तीर् न उ॒षासो॑  
+वी॒रव॑ती॒स् **सद॑म् उच्छन्तु** +++(=प्रभातं कुर्वन्तु)+++ भ॒द्राः ।   
+घृ॒तं दुहा॑ना वि॒श्वतः॒ प्रपी॑ना +++(=आप्यायन्त्यः)+++  
+**यू॒यं पा॑त** स्व॒स्तिभि॒स् सदा॑ नः ॥७॥
+
+</details>
+</div>
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/082/04_adyA_no.md">
+<details open><summary><h5>०४ अद्या नो ...{Loading}...</h5></summary>
+
+
+अ॒द्या नो॑ देव सवितः  
+प्र॒जाव॑त्सावीः॒ सौभ॑गम् ।  
+परा॑ दु॒ष्ष्वप्न्यं॑ सुव ॥
+
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/082/05_vishvAni_deva.md">
+<details open><summary><h5>०५ विश्वानि देव ...{Loading}...</h5></summary>
+
+
+विश्वा॑नि देव सवितर्  
+दुरि॒तानि॒ परा॑ सुव ।  
+यद् भ॒द्रं तन् न॒ आ सु॑व ॥
+
+</details>
+</div>  
 
 
 [[वेदमन्त्रादिः]]
