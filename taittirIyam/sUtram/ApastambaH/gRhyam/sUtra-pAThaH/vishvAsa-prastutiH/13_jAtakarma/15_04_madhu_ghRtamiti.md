@@ -85,7 +85,7 @@ title = "१५ ०४ मधु घृतमिति"
 <details open><summary><h4>१० सूर्यमृतन्तमसो ग्राह्या ...{Loading}...</h4></summary>
 
 
-{{&lt; figure src="/devaH/lokAntaram/images/solar_eclipse_receeding.jpg" class="thumbnail"&gt;}}
+< figure src="/devaH/lokAntaram/images/solar_eclipse_receeding.jpg" class="thumbnail"&gt;}}
 
 
 सूर्य॑म् ऋ॒तन् +++(=प्राप्तम्)+++ तम॑सो॒ ग्राह्या॒  
