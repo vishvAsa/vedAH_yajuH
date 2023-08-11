@@ -64,14 +64,14 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/12_anadhyAyo_nishAyAmanyatra_dharmopadeshAchChiShyebhyaH.md">
 <details open><summary><h4>12 अनध्यायो निशायामन्यत्र धर्मोपदेशाच्छिष्येभ्यः ...{Loading}...</h4></summary>
 
-अनध्यायो निशायामन्यत्र धर्मोपदेशाच्छिष्येभ्यः +++(निशा रात्रेर् मध्यभागः)+++१२   
+अनध्यायो निशायाम् +++(=रात्रेर् मध्यभागः)+++ - अन्यत्र धर्मोपदेशाच् छिष्येभ्यः १२   
 
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/13_manasA_vA.md">
 <details open><summary><h4>13 मनसा वा स्वयम् ...{Loading}...</h4></summary>
 
-मनसा वा स्वयम् ॥ १३ ॥  
+मनसा वा स्वयम् +++(अधीयीत)+++॥ १३ ॥  
 
 </details>
 </div>
@@ -84,13 +84,13 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/15_nApararAtramutthAyAnadhyAya_iti_saMvishet.md">
 <details open><summary><h4>15 नापररात्रमुत्थायानध्याय इति संविशेत् ...{Loading}...</h4></summary>
 
-नापररात्रमुत्थायानध्याय इति संविशेत् १५
+नापररात्रम् उत्थायानध्याय इति संविशेत् १५
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/16_kAmamapash_shayIta.md">
 <details open><summary><h4>16 काममपश् शयीत ...{Loading}...</h4></summary>
 
-काममपश् शयीत १६
+कामम् +++(स्तम्बादिषु लीनः)+++ अपश्-शयीत १६
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/17_manasA_vAdhIyIta.md">

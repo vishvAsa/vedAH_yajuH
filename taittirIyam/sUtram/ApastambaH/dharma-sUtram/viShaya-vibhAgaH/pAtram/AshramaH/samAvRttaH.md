@@ -45,31 +45,31 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/07_pUrveNa_grAmAnniShkramaNapraveshanAni_shIlayeduttareNa.md">
 <details open><summary><h4>07 पूर्वेण ग्रामान्निष्क्रमणप्रवेशनानि शीलयेदुत्तरेण ...{Loading}...</h4></summary>
 
-पूर्वेण ग्रामान्निष्क्रमणप्रवेशनानि शीलयेदुत्तरेण वा ७
+पूर्वेण ग्रामान् निष्क्रमण-प्रवेशनानि शीलयेद्, उत्तरेण वा ७
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/08_sandhyoshcha_bahirgrAmAdAsanaM_vAgyatashcha.md">
 <details open><summary><h4>08 सन्ध्योश्च बहिर्ग्रामादासनं वाग्यतश्च ...{Loading}...</h4></summary>
 
-संध्योश्च बहिर्ग्रामादासनं वाग्यतश्च ८
+संध्योश् च बहिर्ग्रामाद् आसनं, वाग्-यतश् च ८
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/09_vipratiShedhe_shrutilaxaNam_balIyaH.md">
 <details open><summary><h4>09 विप्रतिषेधे श्रुतिलक्षणम् बलीयः ...{Loading}...</h4></summary>
 
-विप्रतिषेधे श्रुतिलक्षणं बलीयः ९
+विप्रतिषेधे श्रुतिलक्षणं +++(सन्ध्याग्निहोत्रादिचोदकम्)+++ बलीयः ९
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/10_sarvAnrAgAnvAsasi_varjayet.md">
 <details open><summary><h4>10 सर्वान्रागान्वाससि वर्जयेत् ...{Loading}...</h4></summary>
 
-सर्वान्रागान्वाससि वर्जयेत् १०
+सर्वान् रागान् वाससि वर्जयेत् १०
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/11_kRShNa~n_cha_svAbhAvikam.md">
 <details open><summary><h4>11 कृष्णञ् च स्वाभाविकम् ...{Loading}...</h4></summary>
 
-कृष्णं च स्वाभाविकम् ११
++++(वस्त्रं यत्)+++ कृष्णं च स्वाभाविकम् ११
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/12_anUdbhAsi_vAso_vasIta.md">
@@ -81,19 +81,19 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/13_apratikRShTa~n_cha_shaktiviShaye.md">
 <details open><summary><h4>13 अप्रतिकृष्टञ् च शक्तिविषये ...{Loading}...</h4></summary>
 
-अप्रतिकृष्टं च शक्तिविषये १३
+अ-प्रतिकृष्टं +++(जीर्णत्वादेः)+++ च शक्तिविषये १३
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/14_divA_cha_shirasaH.md">
 <details open><summary><h4>14 दिवा च शिरसः ...{Loading}...</h4></summary>
 
-दिवा च शिरसः प्रावरणं वर्जयेन्मूत्रपुरीषयोः कर्म परिहाप्य १४
+दिवा च शिरसः प्रावरणं वर्जयेन् - मूत्र-पुरीषयोः कर्म परिहाप्य १४
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/15_shirastu_prAvRtya_mUtrapurIShe.md">
 <details open><summary><h4>15 शिरस्तु प्रावृत्य मूत्रपुरीषे ...{Loading}...</h4></summary>
 
-शिरस्तु प्रावृत्य मूत्रपुरीषे कुर्याद्भूम्यां किंचिदन्तर्धाय १५
+शिरस् तु प्रावृत्य मूत्र-पुरीषे कुर्याद् - भूम्यां किंचिद् +++(तृणादि)+++ अन्तर्धाय १५
 </details>
 </div>
   

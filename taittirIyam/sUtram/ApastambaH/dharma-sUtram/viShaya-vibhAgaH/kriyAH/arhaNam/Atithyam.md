@@ -133,7 +133,7 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/04/12_balAn_vRddhAn_rogasambandhAn.md">
 <details open><summary><h4>12 बलान् वृद्धान् रोगसम्बन्धान् ...{Loading}...</h4></summary>
 
-बलान् वृद्धान् रोग-संबन्धान् स्त्रीश् चान्तर्वत्नीः १२
+बालान् वृद्धान् रोग-संबन्धान् स्त्रीश् चान्तर्वत्नीः १२
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/04/13_kAle_svAminAvannArthinan_na.md">
@@ -308,7 +308,7 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/04/08/06_AchArya_Rtvik_snAtako.md">
 <details open><summary><h4>06 आचार्य ऋत्विक् स्नातको ...{Loading}...</h4></summary>
 
-आचार्य ऋत्विक् स्नातको राजा वा धर्मयुक्तः ६
+आचार्य, ऋत्विक्, स्नातको, राजा वा धर्मयुक्तः +++(मधुपर्कार्हाः)+++६
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/04/08/07_AchAryAyartvije_shvashurAya_rAjna.md">
