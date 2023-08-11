@@ -171,7 +171,7 @@ title = "०४ श्राद्धप्रयोगः"
 
 तीर्थमुद्धृत्य, अवोक्ष्य,
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/devaH/AryaH/hindukaH/classes/raxAMsi/Rk/apahatA_asurA.md"></div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH/prakIrNaH/devaH/classes/raxAMsi/Rk/apahatA_asurA.md"></div>  
 
 
 इति सिकतान् (अक्षतान्?) विकीर्य ।

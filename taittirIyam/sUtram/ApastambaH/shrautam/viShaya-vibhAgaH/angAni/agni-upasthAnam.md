@@ -9,7 +9,12 @@ unicode_script: devanagari
 [तत्र](../../../../../../brAhmaNam/taittirIyam/kriyA/agni-upasthAna/) ब्राह्मणम्।
 
 ## चोदनम्
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/19/04_upastheyo-gnI.md"></div>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/19/04_upastheyo-gnI.md">
+<details open><summary><h2>04 इत्युक्तम् ...{Loading}...</h2></summary>
+
+उपस्थेयोऽग्नी३र्नोपस्थेया३ इत्युक्तम् ४
+</details>
+</div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/19/05_naktamupatiShThate_na_prAtaH.md">
 <details open><summary><h2>05 नक्तमुपतिष्ठते न प्रातः ...{Loading}...</h2></summary>
 

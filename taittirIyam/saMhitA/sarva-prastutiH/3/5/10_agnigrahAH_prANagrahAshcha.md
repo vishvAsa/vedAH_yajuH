@@ -49,7 +49,7 @@ ________________
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/12_atigrAhyamantrAbhidhAnam/prajApataye_tvA.md"></div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/12_atigrAhyamantrAbhidhAnam/prajApataye_tvA.md"></div>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रा॒ण॒ग्र॒हान्गृ॑ह्णाति  ।   

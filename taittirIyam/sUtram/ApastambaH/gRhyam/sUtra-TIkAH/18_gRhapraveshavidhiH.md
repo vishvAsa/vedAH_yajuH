@@ -481,9 +481,6 @@ ________________________
 **ब्राह्मणान्** युग्मान् **भोजये**दपूपादिभिः ।
 इतिशब्दः समुच्चयार्थः ॥१३॥
 इति हरदत्तविरचितायां गृह्यसूत्रवृत्तावनाकुलायां सप्तदशः खण्डः ॥
-________________________
-
-<div class="js_include collapsed" newlevelforh1="4" title="सुदर्शनः" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sudarshana-sUriH/18_gRhapraveshavidhiH/17_13_pariShechanAnta~N_kRtvottareNa.md"></div>
 </details>
 <details><summary>सुदर्शनः</summary>
 

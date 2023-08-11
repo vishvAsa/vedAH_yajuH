@@ -380,7 +380,7 @@ O bountiful one, fair to see;
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/taittirIyam/saMhitA/yajuH/sarva-prastutiH/3/2/05_bhaxAnuvAkaH/namo_vaH.md"></div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/3/2/05_bhaxAnuvAkaH/namo_vaH.md"></div>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 19प्राजापत्यया त्रैष्टुभा गार्हपत्यमुपतिष्ठते - प्रजापत इति ॥ व्याख्याता चेयं 'सोमस्य त्विषिरसि' इत्यत्र । 
@@ -396,7 +396,22 @@ O bountiful one, fair to see;
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_22/19_prajApate_na.md"></div>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_22/19_prajApate_na.md">
+<details open><summary><h2>१९ प्रजापते न ...{Loading}...</h2></summary>
+<details><summary>मूलम्</summary>
+
+प्रजा॑पते॒ न त्वदे॒तान्य॒न्यः । विश्वा॑ जा॒तानि॒ परि॒ ता ब॑भूव । यत्का॑मास्ते जुहु॒मस्तन्नो॑ अस्तु । व॒यꣵ स्या॑म॒ पत॑यो रयी॒णाम्॥
+</details>
+<details><summary>हरदत्तः</summary>
+
+प्रजापत इति ॥ हे प्रजापते त्वत् त्वत्तः अन्यः एतानि विश्वा विश्वानि जातानि जनिमन्ति वस्तूनि कश्चिदपि न परिबभूव । परिपूर्वो भवतिः परिग्रहे वर्तते । वर्तमाने लिट्, परिगृह्वाति । न त्वदन्यः परिग्रहीतुं समर्थ इत्यर्थःस । ता तान्येतानि प्रसिद्धानि भुवनादीनीत्यर्थः यत्कामा यत् कामयमाना वयं ते तुभ्यं जुहुमः तन्नः अस्माकं अस्तु संपद्यताम् । कि पुनस्तत्? वयं रयीणां पतयः स्याम ॥
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+हे प्रजापते तान्येतानि विश्वानि जातानि भूतानि त्वत्तोन्यः कश्चिदपि परिभवति निजेन महिम्ना व्याप्नोति । यत्कामास्ते जुहुमो वयं तदस्माकमस्तु । किं च - वयं रयीणां पतयः स्याम भूयास्मेति ॥
+</details>
+</details>
+</div>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/3/2/05_bhaxAnuvAkaH/devakRtasyainasaH.md">
 <details open><summary><h5>दे॒वकृ॑त॒स्यैन॑सोऽव॒यज॑नमसि ...{Loading}...</h5></summary>
 <details><summary>भास्करोक्त-विनियोगः</summary>

@@ -8,9 +8,9 @@ unicode_script = "devanagari"
 
 आन्ध्रपाठोऽत्र बहुधा लक्षणाद् अपेत इति ज्ञायते - यथा विशिष्य मेधासूक्ते। 
 
-> रङ्गरामानुजभाष्येण साकं भट्टभास्करभाष्यमपि दृष्ट्वा द्राविडपाठः ग्राह्यः इति मम धारणा ।… मुख्यतया गुरुमुखोच्चारणानूच्चारणपूर्वकाक्षरराशिग्रहणफलमध्ययनमिति हि श्रीभाष्यकाराः । अतः परम्परयाऽधीतवतां सन्देहः न स्यात् । 
-> 
-> - इति रामानुजार्यः
+< रङ्गरामानुजभाष्येण साकं भट्टभास्करभाष्यमपि दृष्ट्वा द्राविडपाठः ग्राह्यः इति मम धारणा ।… मुख्यतया गुरुमुखोच्चारणानूच्चारणपूर्वकाक्षरराशिग्रहणफलमध्ययनमिति हि श्रीभाष्यकाराः । अतः परम्परयाऽधीतवतां सन्देहः न स्यात् । 
+< 
+< - इति रामानुजार्यः
 </details>
 
 
@@ -1431,8 +1431,17 @@ bahurUpI was archaic but popular para-vedic mantra used outside of core saMhitA 
 
 ## 46
 
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_05/07_tatpuruShAya_vidmahe.md">
+<details open><summary><h2>07 तत्पुरुषाय विद्महे ...{Loading}...</h2></summary>
+<details><summary>मूलम्</summary>
+
+तत्पुरु॑षाय  वि॒द्महे॑  
+महादे॒वाय॑ धीमहि ।  
+तन्नो॑ रुद्रः प्रचो॒दया᳚त् ॥
+</details>
+</details>
+</div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_05/07_tatpuruShAya_vidmahe.md"></div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/06/07_tatpuruShAya_vidmahe.md"></div>
 
 
 ## 47
