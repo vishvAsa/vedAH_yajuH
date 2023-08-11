@@ -16,7 +16,7 @@ The glowing pot is the guest of Indra.
 ऋषि॑र्ह दीर्घ॒श्रुत्त॑म॒ इन्द्र॑स्य घ॒र्मो अति॑थिः  ॥
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 **सप्त**, सृप्तारः, सप्त सङ्ख्या वा ।  
 **वासवाः** जगतां वास-हेतवः ।  

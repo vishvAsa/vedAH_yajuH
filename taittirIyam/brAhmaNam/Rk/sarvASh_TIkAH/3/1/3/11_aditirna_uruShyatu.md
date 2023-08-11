@@ -17,7 +17,7 @@ Let Aditi guard us from tribulation.
 अदि॑तिᳶ पा॒त्वꣳह॑सः  ॥
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 अदितिरस्मानुरुष्यतु शर्म सुखं चादितिर्नो यच्छतु ददातु । अंहसः बुद्ध्यबुद्धिकृतात्पापाच्चास्मानदितिः पातु निवारयतु ॥
 </details>

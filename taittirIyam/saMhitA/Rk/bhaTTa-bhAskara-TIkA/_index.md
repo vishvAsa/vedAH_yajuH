@@ -1,5 +1,5 @@
 +++
-title = "+भट्टभास्करटीका"
+title = "+भट्टभास्कर-टीका"
 unicode_script = "devanagari"
 +++
 

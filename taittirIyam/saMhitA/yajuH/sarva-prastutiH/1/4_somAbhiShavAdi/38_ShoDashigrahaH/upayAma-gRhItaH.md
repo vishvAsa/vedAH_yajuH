@@ -34,7 +34,7 @@ to Indra of the Sodaśin thee!
 
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 2-3ग्रहणसादने व्याख्याते ।  
 षोडशिनः षोडशेन स्तोत्रेण शस्त्रेण च तद्-वान् इन्द्रष् **षोदशी** ।   

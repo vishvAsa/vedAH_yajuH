@@ -16,7 +16,7 @@ thou art kindling; (may we prosper;)
 समिदसीति ॥ निगदव्याख्यातमेतत् ॥
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 समित्समिन्धनी सन्दीपनी त्वमग्नेरसि । 
 </details>

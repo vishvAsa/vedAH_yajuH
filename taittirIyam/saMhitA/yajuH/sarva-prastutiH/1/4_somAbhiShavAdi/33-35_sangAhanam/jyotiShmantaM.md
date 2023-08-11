@@ -25,7 +25,7 @@ I place thee that hast light.
 </details>
 
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 आत्मज्योतिषो वृत्तिभेदाः ते इष्टकावेन स्तूयन्ते - ज्योतिष्मती प्रशस्तज्योतिः ।
 </details>
@@ -49,7 +49,7 @@ I place thee that makest light.
 </details>
 
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 ज्योतिष्कृत् ज्योतिरन्तरस्य कर्त्रीं ज्योतिषां लम्भयित्री ।
 </details>
@@ -73,7 +73,7 @@ I place thee that findest light.
 </details>
 
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 ज्योतिषां लम्भयित्री ।
 </details>
@@ -97,7 +97,7 @@ I place thee that shinest.
 </details>
 
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 भास्वती बहुप्रकाशा ।
 </details>
@@ -120,7 +120,7 @@ I place thee that burnest.
 </details>
 
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 ज्वलन्ती अविच्छिन्नप्रकाशा ।
 </details>
@@ -144,7 +144,7 @@ I place thee that flashest.
 </details>
 
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 मल्मलाभवन्ती महाघोषवती । 'अव्यक्तानुकरणात्' इति डाच् ।
 </details>
@@ -166,7 +166,7 @@ I place thee that art aflame.
 </details>
 
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 दीप्यमाना हृदये आविर्भवन्ती ।
 </details>
@@ -187,7 +187,7 @@ I place thee that blazest.
 रोच॑मानान्त्वा सादया॒मि।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 रोचमाना गगने आविर्भवन्ती ।
 </details>
@@ -210,7 +210,7 @@ I place thee that art immortal.
 </details>
 
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 अजस्रा अनुपहिंस्या केनचिदपि ।
 </details>
@@ -232,7 +232,7 @@ I place thee that hast great light.
 </details>
 
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 बृहज्ज्योतिः बृंहितज्योतिः ।
 </details>
@@ -254,7 +254,7 @@ I place thee that awakenest.
 </details>
 
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 बोधयन्ती दृश्यं प्रकाशयन्ती ।
 </details>
@@ -276,7 +276,7 @@ I place thee that art awake.
 </details>
 
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 जाग्रती स्वयंप्रकाशात्मना ॥
 </details>

@@ -18,7 +18,7 @@ May the desires of the sacrificer be fulfilled.
 </details>
 
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 अंहसः पापाद् विमोक्त्रे, **ओषिष्ठ-दाव्ने** दावेनोषिष्ठः दग्धृतमः आदित्यः  
 तस्मै उदकस्य दात्रे, वर्षार्थं वा तस्य दापयित्रे ;  

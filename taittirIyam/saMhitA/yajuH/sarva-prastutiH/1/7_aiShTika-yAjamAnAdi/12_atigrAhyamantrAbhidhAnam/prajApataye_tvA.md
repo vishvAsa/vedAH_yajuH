@@ -18,7 +18,7 @@ agreeable to Prajapati I take thee
 प्र॒जाप॑तये त्वा॒ जुष्ट॑ङ्गृह्णामि ।
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 प्रजापतये जुष्टं प्रियं गृह्णामि  । गृहीत्वा यथायतनं सादयति एष ते योनिः कारणं प्रजापतये सादयामि
 
@@ -49,7 +49,7 @@ this is thy birthplace; to Prajapati thee!
 ए॒ष ते॒ योनि॑ᳶ प्र॒जाप॑तये त्वा ॥ [46]
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 'पत्यावैश्वर्ये' इति पूर्वपदप्रकृतिस्वरत्वम् ॥
 </details>

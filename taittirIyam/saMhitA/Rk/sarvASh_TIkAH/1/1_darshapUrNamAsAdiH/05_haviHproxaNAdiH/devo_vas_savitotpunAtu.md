@@ -17,7 +17,7 @@ with the rays of the bright sun.
 वसो॒स्सूर्य॑स्य र॒श्मिभिः॑  ॥
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 हे आपः **देवस्सविता** सर्वस्य प्रेरकः, **वः** युष्मान् **उत्पुनातु** ऊर्ध्वं शोधयतु । 
 

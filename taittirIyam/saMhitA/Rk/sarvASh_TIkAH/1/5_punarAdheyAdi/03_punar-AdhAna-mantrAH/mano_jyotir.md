@@ -18,7 +18,7 @@ May the All-gods rejoice herein.
 बृह॒स्पति॑स्तनुतामि॒मन्नो॒ विश्वे॑ दे॒वा इ॒ह मा॑दयन्ताम्  ॥
 </details>
 
-<details><summary>भट्टभास्करटीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 हे अग्ने तव **ज्योतिः** कीदृशं मननीयम् ।  
 
