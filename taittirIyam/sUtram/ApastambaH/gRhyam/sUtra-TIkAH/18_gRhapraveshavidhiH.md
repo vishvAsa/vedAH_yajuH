@@ -12,7 +12,7 @@ title = "१८ गृहप्रवेशविधिः"
 
 पालाशं शमीमयं वेध्मम् +++(पाकाग्वाव्)+++ आदीप्योत्तरयर्चा +++("उद्ध्रियमाण"इत्येतया पञ्चपादया)+++ ऽग्निम् उद्धृत्य  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/12_uddhriyamANa_uddhara.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/12_uddhriyamANa_uddhara.md">
 <details open><summary><h5>१२ उद्ध्रियमाण उद्धर ...{Loading}...</h5></summary>
 
 
@@ -30,7 +30,7 @@ __________________
 ###### अगारप्रतिपादनम्
 उत्तरेण यजुषा +++("इन्द्र स्य गृहा वसुमन्तो वरूथिनः")+++ ऽगारं प्रपाद्य  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/13_indrasya_gRhA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/13_indrasya_gRhA.md">
 <details open><summary><h5>१३ इन्द्रस्य गृहा ...{Loading}...</h5></summary>
 
 
@@ -44,7 +44,7 @@ __________________
 ###### प्रतिष्ठापनम्
 उत्तरपूर्वदेशे ऽगारस्योत्तरया +++("अमृताहुति"मित्यनया)+++ ऽग्निं प्रतिष्ठापयति ७
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/14_amRtAhutimamRtAyAnjuhomyagnim_pRthivyAmamRtasya.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/14_amRtAhutimamRtAyAnjuhomyagnim_pRthivyAmamRtasya.md">
 <details open><summary><h5>१४ अमृताहुतिममृतायाञ्जुहोम्यग्निम् पृथिव्याममृतस्य ...{Loading}...</h5></summary>
 
 
@@ -196,7 +196,7 @@ ________________________
 
 तस्मिन् विषूचीन् आग्रान्+++(=सर्वतो-दिक्कान्)+++ दर्भान् संस्तीर्य तेषूत्तरया +++("अन्नपत"इत्येतया)+++ व्रीहियवान् न्युप्य तत्रोदधानं प्रतिष्ठापयति ९  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/15_annapate-nnasya_no.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/15_annapate-nnasya_no.md">
 <details open><summary><h5>१५ अन्नपतेऽन्नस्य नो ...{Loading}...</h5></summary>
 
 
@@ -241,7 +241,7 @@ ________________________
 
 तस्मिन्न् उत्तरेण यजुषा+++("अरिष्टा अस्माक"मित्यनेन)+++ चतुर उद-कुम्भान् आनयति १०  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/16_ariShTA_asmAkam.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/16_ariShTA_asmAkam.md">
 <details open><summary><h5>१६ अरिष्टा अस्माकम् ...{Loading}...</h5></summary>
 
 
@@ -288,7 +288,7 @@ ________________________
 
 +++(यदि उदधानं दीर्णम्,)+++ दीर्णम् उत्तरया +++("भूमिर्भूमिम् अगात्"इत्येतया)+++ ऽनुमन्त्रयते ११  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/17_bhUmirbhUmimagAnmAtA_mAtaramapyagAt.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/17_bhUmirbhUmimagAnmAtA_mAtaramapyagAt.md">
 <details open><summary><h5>१७ भूमिर्भूमिमगान्माता मातरमप्यगात् ...{Loading}...</h5></summary>
 
 
@@ -335,7 +335,7 @@ ________________________
 
 अग्नेर् उपसमाधानाद्य्-आज्यभागान्ते उत्तरा आहुतीर् +++("वास्तोष्पते प्रतिजानीहि, वास्तोष्पते शग्मया, वास्तोष्पते प्रतरणो न एधि, अमीवहा वास्तोष्पत")+++ हुत्वा जयादि प्रतिपद्यते १२  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/18_vAstoShpate_prati.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/18_vAstoShpate_prati.md">
 <details open><summary><h5>१८ वास्तोष्पते प्रति ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/054/01_vAstoShpate_prati.md">
 <details open><summary><h7>०१ वास्तोष्पते प्रति ...{Loading}...</h7></summary>
@@ -350,7 +350,7 @@ ________________________
 </div>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/19_vAstoShpate_shagmayA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/19_vAstoShpate_shagmayA.md">
 <details open><summary><h5>१९ वास्तोष्पते शग्मया ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/054/03_vAstoShpate_shagmayA.md">
 <details open><summary><h7>०३ वास्तोष्पते शग्मया ...{Loading}...</h7></summary>
@@ -365,7 +365,7 @@ ________________________
 </div>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/20_vAstoShpate_prataraNo.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/20_vAstoShpate_prataraNo.md">
 <details open><summary><h5>२० वास्तोष्पते प्रतरणो ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/054/02_vAstoShpate_prataraNo.md">
 <details open><summary><h7>०२ वास्तोष्पते प्रतरणो ...{Loading}...</h7></summary>
@@ -380,7 +380,7 @@ ________________________
 </div>
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/21_amIvahA_vAstoShpate.md">
+<div class="js_include bg-light-yellow" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/21_amIvahA_vAstoShpate.md">
 <details open><summary><h5>२१ अमीवहा वास्तोष्पते ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/055/01_amIvahA_vAstoShpate.md">
 <details open><summary><h7>०१ अमीवहा वास्तोष्पते ...{Loading}...</h7></summary>
@@ -443,7 +443,7 @@ ________________________
 
 परिषेचनान्तं कृत्वोत्तरेण +++("शिवं शिव"मित्यनेन)+++ यजुषोदकुम्भेन +++(न हस्तेन)+++ त्रिः प्रदक्षिणम् अन्तरतो+++(=न बहिः)+++ ऽगारं निवेशनं+++(=शयनदेशः)+++ वा परिषिच्य
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/22_shivaM_shivam.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/22_shivaM_shivam.md">
 <details open><summary><h5>२२ शिवं शिवम् ...{Loading}...</h5></summary>
 
 

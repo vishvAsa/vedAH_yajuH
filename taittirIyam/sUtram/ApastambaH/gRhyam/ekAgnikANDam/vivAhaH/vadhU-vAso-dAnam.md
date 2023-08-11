@@ -19,7 +19,7 @@ unicode_script: devanagari
 
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/29_parA_dehi.md">
-<details open=""><summary><h4>२९ परा देहि ...{Loading}...</h4></summary>
+<details open><summary><h4>२९ परा देहि ...{Loading}...</h4></summary>
 
 
 परा॑ देहि शामु॒ल्यं॑ ब्र॒ह्मभ्यो॒ वि भ॑जा॒ वसु॑ ।  

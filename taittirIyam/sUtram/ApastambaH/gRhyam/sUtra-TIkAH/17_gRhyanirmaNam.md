@@ -11,7 +11,7 @@ title = "१७ गृह्यनिर्मणम्"
 
 दक्षिणा-प्रत्यक्+++(=पश्चिम)+++-प्रवणम्+++(=निम्नम्)+++ अगरावकाशम् +++(खनित्रेण)+++ उद्धत्य, पालाशेन शमीमयेन वोदूहेनैतामेव दिशम् उत्तरया+++(="यद्भूमेः क्रूर"मित्येतया)+++ +उदूहति ॥
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/01_yadbhUmeH_krUram.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/01_yadbhUmeH_krUram.md">
 <details open><summary><h5>०१ यद्भूमेः क्रूरम् ...{Loading}...</h5></summary>
 
 
@@ -113,7 +113,7 @@ title = "१७ गृह्यनिर्मणम्"
 प्रदक्षिणं स्थूणागर्तान् खानयित्वा+++(नकारस्छान्दसः)+++  
 ऽभ्यन्तरं+++(=बहिरारभ्य मध्ये यथा समाप्यत इति हरदत्तः, विपरीतम् इति सुदर्शनसूरिः)+++ पाँसून् उदुप्य +++(=उद्धत्य)+++  
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/02_syonA_pRthivi.md">
+<div class="js_include bg-light-yellow" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/02_syonA_pRthivi.md">
 <details open><summary><h5>०२ स्योना पृथिवि ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/022/15_syonA_pRthivi.md">
 <details open><summary><h7>१५ स्योना पृथिवि ...{Loading}...</h7></summary>
@@ -133,7 +133,7 @@ title = "१७ गृह्यनिर्मणम्"
 उत्तराभ्यां+++(=इहैव तिष्ठे)+++ दक्षिणं द्वारस्थूणाम् अवदधाति ३  
 
 __________________
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/03_ihaiva_tiShTha.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/03_ihaiva_tiShTha.md">
 <details open><summary><h5>०३ इहैव तिष्ठ ...{Loading}...</h5></summary>
 
 
@@ -144,7 +144,7 @@ __________________
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/04_A_tvA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/04_A_tvA.md">
 <details open><summary><h5>०४ आ त्वा ...{Loading}...</h5></summary>
 
 
@@ -230,7 +230,7 @@ __________________
 यथाखातम् इतरा +++(वंशस्तम्भान्)+++ अन्ववधाय  
 वँशम् आधीयमानम् उत्तरेण यजुषा +++(="ऋतेन स्थूणौ")+++ ऽभिमन्त्रयते ५
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/05_Rtena_sthUNAvadhiroha.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/05_Rtena_sthUNAvadhiroha.md">
 <details open><summary><h5>०५ ऋतेन स्थूणावधिरोह ...{Loading}...</h5></summary>
 
 
@@ -279,7 +279,7 @@ __________________
 
 +++(अगारम्)+++ सम्मितम्+++(=संकॢप्तं)+++ उत्तरैर्+++(="ब्रह्म च ते क्षत्रम्")+++ यथालिङ्गम् +++(अभिमन्त्रयते)+++६
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/06-11_brahma_cha.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/06-11_brahma_cha.md">
 <details open><summary><h5>०६-११ ब्रह्म च ...{Loading}...</h5></summary>
 
 

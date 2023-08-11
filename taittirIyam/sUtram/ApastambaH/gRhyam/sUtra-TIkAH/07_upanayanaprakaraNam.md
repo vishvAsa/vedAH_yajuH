@@ -215,7 +215,7 @@ title = "०७ उपनयनप्रकरणम्"
 
 हरदत्तो [ऽत्र](https://archive.org/stream/EKAGNIKANDABHASHYAMSAMSKRUTHAM/EKAGNIKANDA%20BHASHYAM%20SAMSKRUTHAM#page/n89/mode/2up)।
 
-- <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_01/01_uShNena_vAyavudakenehyaditiH.md">
+- <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_01/01_uShNena_vAyavudakenehyaditiH.md">
 <details open><summary><h5>०१ उष्णेन वायवुदकेनेह्यदितिः ...{Loading}...</h5></summary>
 
 
@@ -226,7 +226,7 @@ title = "०७ उपनयनप्रकरणम्"
 
 
 उत्तरया +++(आप उन्दन्त्विऽत्येतया)+++ शिर उनत्ति ५  
-- <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_01/02_Apa_undantu.md">
+- <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_01/02_Apa_undantu.md">
 <details open><summary><h5>०२ आप उन्दन्तु ...{Loading}...</h5></summary>
 
 
@@ -302,7 +302,7 @@ title = "०७ उपनयनप्रकरणम्"
 त्रींस्त्रीन् दर्भान् अन्तर्धायोत्तराभिश् चतसृभिः +++("येनावपत्"इत्यादिभिः)+++ प्रतिमन्त्रं प्रतिदिशं प्रवपति ६  
 
 
-- <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_01/03_yenAvapatsavitA_xureNa.md">
+- <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_01/03_yenAvapatsavitA_xureNa.md">
 <details open><summary><h5>०३ येनावपत्सविता क्षुरेण ...{Loading}...</h5></summary>
 
 
@@ -314,7 +314,7 @@ title = "०७ उपनयनप्रकरणम्"
 </details>
 </div>
 
-- <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_01/04_yena_pUShA.md">
+- <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_01/04_yena_pUShA.md">
 <details open><summary><h5>०४ येन पूषा ...{Loading}...</h5></summary>
 
 
@@ -326,7 +326,7 @@ title = "०७ उपनयनप्रकरणम्"
 </details>
 </div>
 
-- <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_01/05_yena_bhUyashcharAtyayanjyokcha.md">
+- <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_01/05_yena_bhUyashcharAtyayanjyokcha.md">
 <details open><summary><h5>०५ येन भूयश्चरात्ययञ्ज्योक्च ...{Loading}...</h5></summary>
 
 
@@ -338,7 +338,7 @@ title = "०७ उपनयनप्रकरणम्"
 </details>
 </div>
 
-- <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_01/06_yena_pUShA.md">
+- <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_01/06_yena_pUShA.md">
 <details open><summary><h5>०६ येन पूषा ...{Loading}...</h5></summary>
 
 
@@ -367,7 +367,8 @@ title = "०७ उपनयनप्रकरणम्"
 
 तत्रायं प्रयोगः – कुमारस्य शिरसि प्राच्यां दिशि त्रीन् दर्भान् अन्तर्धाय "येनावपद्" इत्येतया प्रच्छिनत्ति क्षुरेण ।
 
-असाव् इत्यस्य स्थाने तस्य नाम प्रथमया विभक्त्या गृह्णाति । यथा असाव् अयं यज्ञदत्तशर्मा ।
+असाव् इत्यस्य स्थाने तस्य नाम प्रथमया विभक्त्या गृह्णाति -  
+यथा - "असाव् अयं यज्ञदत्तशर्मा" ।
 एवं सर्वत्रादसः प्रयोगे नाम निर्देष्टव्यम् ।
 
 प्रच्छिद्य् **आनडुहे शकृत्-पिण्डे** यवमति केशान् प्रक्षिपति ।
@@ -401,7 +402,7 @@ title = "०७ उपनयनप्रकरणम्"
 
 वपन्तम् उत्तरया +++("यत् क्षुरेण" इत्य् एतया)+++ ऽनुमन्त्रयते दक्षिणतो माता ब्रह्मचारी वा ७  
 
-- <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_01/07_yatxureNa_marchayatA.md">
+- <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_01/07_yatxureNa_marchayatA.md">
 <details open><summary><h5>०७ यत्क्षुरेण मर्चयता ...{Loading}...</h5></summary>
 
 
@@ -451,7 +452,7 @@ title = "०७ उपनयनप्रकरणम्"
 
 आनडुहे शकृत्पिण्डे यवान् निधाय तस्मिन् केशान् उपयम्योत्तरया +++("उप्त्वाय केशा"नित्येतया)+++ उम्बर-मूले दर्भ-स्तम्बे वा निदधाति ८  
 
-- <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_01/08_uptvAya_keshAn.md">
+- <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_01/08_uptvAya_keshAn.md">
 <details open><summary><h5>०८ उप्त्वाय केशान् ...{Loading}...</h5></summary>
 
 
@@ -504,7 +505,7 @@ title = "०७ उपनयनप्रकरणम्"
 स्नातम् +++(शुचि-वाससं बद्ध-शिखं यज्ञोपवीतिनम्)+++ अग्नेर् उपसमाधानाद्य् आज्य-भागान्ते +++(शम्याः परिध्यर्थे, सकृत्पात्रप्रयोगः)+++  
 पालाशीं समिधम् उत्तरया +++("आयुर्दा देव"इत्येतया ऽऽचार्योक्तया)+++ ऽऽधाप्य  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/01_AyurdA_deva.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/01_AyurdA_deva.md">
 <details open><summary><h5>०१ आयुर्दा देव ...{Loading}...</h5></summary>
 
 
@@ -518,7 +519,7 @@ title = "०७ उपनयनप्रकरणम्"
 
 उत्तरेण अग्निं, दक्षिणेन पदा ऽश्मानम् आस्थापयत्य् - आतिष्ठेति ९  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/02_AtiShThemamashmAnamashmeva_tva2m.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/02_AtiShThemamashmAnamashmeva_tva2m.md">
 <details open><summary><h5>०२ आतिष्ठेममश्मानमश्मेव त्व२म् ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/01_AtiShThemamashmAnamashmeva_tva2m.md">
 <details open><summary><h7>०१ आतिष्ठेममश्मानमश्मेव त्व२म् ...{Loading}...</h7></summary>
@@ -592,7 +593,7 @@ title = "०७ उपनयनप्रकरणम्"
 
 वासः सद्यःकृत्तोतम् +++(=सद्यः कृत्तम् ऊतं च - विनूतनम्)+++ उत्तराभ्याम् +++("रेवतीस्त्वे"त्येताभ्यां)+++ अभिमन्त्र्य  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/03-04_revatIstvA_vyaxNankRttikAshchAkRnta2m.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/03-04_revatIstvA_vyaxNankRttikAshchAkRnta2m.md">
 <details open><summary><h5>०३-०४ रेवतीस्त्वा व्यक्ष्णन्कृत्तिकाश्चाकृन्त२म् ...{Loading}...</h5></summary>
 
 +++(नक्षत्रेषु)+++ रे॒वती॑स् त्वा॒ व्य॑क्ष्ण॒न्+++(=व्यध्वंसयन् [मेषादिभ्यः])+++  
@@ -613,7 +614,7 @@ title = "०७ उपनयनप्रकरणम्"
 उत्तराभिस्तिसृभिः +++("या अकृन्त"न्नित्येताभिः)+++ परिधाप्य  
 
 +++(पूर्वमन्त्रस्योल्लेखो ऽत्र)+++  
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/05_yA_akRntannavayan.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/05_yA_akRntannavayan.md">
 <details open><summary><h5>०५ या अकृन्तन्नवयन् ...{Loading}...</h5></summary>
 
 
@@ -624,7 +625,7 @@ title = "०७ उपनयनप्रकरणम्"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/06_paridhatta_dhatta.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/06_paridhatta_dhatta.md">
 <details open><summary><h5>०६ परिधत्त धत्त ...{Loading}...</h5></summary>
 
 
@@ -635,7 +636,7 @@ title = "०७ उपनयनप्रकरणम्"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/07_jarA~N_gachChAsi.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/07_jarA~N_gachChAsi.md">
 <details open><summary><h5>०७ जराङ् गच्छासि ...{Loading}...</h5></summary>
 
 
@@ -651,7 +652,7 @@ title = "०७ उपनयनप्रकरणम्"
 परिहितम् उत्तरयानुमन्त्रयते +++("परीदं वास")+++ १०  
 
 +++(परिहितवन्तं कुमारम् उत्तरयानुमन्त्रयते)+++  
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/08_parIdaM_vAso.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/08_parIdaM_vAso.md">
 <details open><summary><h5>०८ परीदं वासो ...{Loading}...</h5></summary>
 
 
@@ -707,7 +708,7 @@ title = "०७ उपनयनप्रकरणम्"
 ##### मौञ्जी
 मौञ्जीं मेखलां त्रिवृतां+++(तं)+++ त्रिःप्रदक्षिणम् उत्तराभ्यां +++("इयं दुरुक्ता"दित्येताभ्यां कुमारोक्ताभ्यां)+++ परिवीय  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/09_iyan_duruktAtparibAdhamAnA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/09_iyan_duruktAtparibAdhamAnA.md">
 <details open><summary><h5>०९ इयन् दुरुक्तात्परिबाधमाना ...{Loading}...</h5></summary>
 
 
@@ -718,7 +719,7 @@ title = "०७ उपनयनप्रकरणम्"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/10_Rtasya_goptrI.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/10_Rtasya_goptrI.md">
 <details open><summary><h5>१० ऋतस्य गोप्त्री ...{Loading}...</h5></summary>
 
 ऋ॒तस्य॑ गो॒प्त्री तप॑सः पर॒स्+++(=प्र)+++पी+++(=पात्री)+++  
@@ -736,7 +737,7 @@ title = "०७ उपनयनप्रकरणम्"
 
 +++(धर्मसूत्रेषु - "क्षत्र-वृद्धिम् इच्छन् वस्त्राण्य्, एवोभय-वृद्धिम् इच्छन्न् उभयमिति हि ब्राह्मणम् ९" इत्यादि विकल्पा उक्ताः। तस्मिन् पक्षे ऽजिनप्रतिनिधित्वेन प्रायेण ग्राह्यं वस्त्रम्। )+++
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/11_mitrasya_chaxurdharuNam.md">
+<div class="js_include bg-light-yellow" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/11_mitrasya_chaxurdharuNam.md">
 <details open><summary><h5>११ मित्रस्य चक्षुर्धरुणम् ...{Loading}...</h5></summary>
 
 
@@ -802,7 +803,7 @@ title = "०७ उपनयनप्रकरणम्"
 
 
 +++(प्रोक्षणमन्त्रः)+++  
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/02_samudrAdUrmirmadhumAM_udAradupAMshunA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/02_samudrAdUrmirmadhumAM_udAradupAMshunA.md">
 <details open><summary><h5>०२ समुद्रादूर्मिर्मधुमां उदारदुपांशुना ...{Loading}...</h5></summary>
 
 
@@ -820,7 +821,7 @@ title = "०७ उपनयनप्रकरणम्"
 ##### हस्तग्रहणम्
 उत्तरैर् +++(अग्निष्टे हस्तमग्रमीदित्यादिभिः)+++ दक्षिणे हस्ते गृहीत्वा +++(- प्रतिमन्त्रं ग्रहणावृत्तिः)+++  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/03-12_agniShTe_hastamagrabhItsomaste.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/03-12_agniShTe_hastamagrabhItsomaste.md">
 <details open><summary><h5>०३-१२ अग्निष्टे हस्तमग्रभीत्सोमस्ते ...{Loading}...</h5></summary>
 
 
@@ -845,7 +846,7 @@ title = "०७ उपनयनप्रकरणम्"
 उत्तरैर् +++("अग्नये त्वा परिददामी"त्यादिभिः)+++ देवताभ्यः परीदाय  
 
 +++(असौशब्दस्य स्थाने माणवकस्य नाम निर्देशः संबुद्ध्या ॥)+++  
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/13_-23_agnaye_tvA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/13_-23_agnaye_tvA.md">
 <details open><summary><h5>१३ -२३ अग्नये त्वा ...{Loading}...</h5></summary>
 
 
@@ -868,7 +869,7 @@ title = "०७ उपनयनप्रकरणम्"
 #### उपनयनम्
 उत्तरेण यजुषा +++("देवस्य त्वा सवितुः" इत्येतेन स्वसमीपं)+++ +उपनीय  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/24_devasya_tvA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/24_devasya_tvA.md">
 <details open><summary><h5>२४ देवस्य त्वा ...{Loading}...</h5></summary>
 
 
@@ -881,7 +882,7 @@ title = "०७ उपनयनप्रकरणम्"
 सुप्रजा इति +++("सुपोषः पोषै"रित्येवमन्तम्)+++ दक्षिणे कर्णे जपति १२  
 
 +++(कर्णे जपः)+++
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/25_suprajAH_prajayA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/25_suprajAH_prajayA.md">
 <details open><summary><h5>२५ सुप्रजाः प्रजया ...{Loading}...</h5></summary>
 
 
@@ -959,7 +960,7 @@ title = "०७ उपनयनप्रकरणम्"
 "ब्रह्मचर्यम् आगाम्" इति +++(सवित्रा प्रसूत इत्येवमन्तो मन्त्रः)+++ कुमार आह १  
 
 +++(कुमारस्य मन्त्रः)+++  
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/26_brahmacharyamAgAmupa_mAnayasva.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/26_brahmacharyamAgAmupa_mAnayasva.md">
 <details open><summary><h5>२६ ब्रह्मचर्यमागामुप मानयस्व ...{Loading}...</h5></summary>
 
 
@@ -1000,7 +1001,7 @@ title = "०७ उपनयनप्रकरणम्"
 
 प्रष्टं परस्य प्रतिवचनं कुमारस्य २  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/27_ko_nAmAsi.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/27_ko_nAmAsi.md">
 <details open><summary><h5>२७ को नामासि ...{Loading}...</h5></summary>
 
 
@@ -1060,7 +1061,7 @@ title = "०७ उपनयनप्रकरणम्"
 
 शेषं +++("एष ते देव सूर्ये")+++ परो +++(आचार्यः)+++ जपति ३  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/28_eSha_te.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/28_eSha_te.md">
 <details open><summary><h5>२८ एष ते ...{Loading}...</h5></summary>
 
 
@@ -1105,7 +1106,7 @@ title = "०७ उपनयनप्रकरणम्"
 
 प्रत्यगाशिषं +++(आत्मगाम्याशीःफलं यस्मिन्मन्त्रे,अध्वनामित्यारभ्य आ उपनयनसमाप्तेर्ये प्रत्यगाशिषो मन्त्राः"योगे"इत्यादयः )+++ चैनं वाचयति ४  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/29_addhvanAmaddhvapate_shreShThasyAddhvanaH.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/29_addhvanAmaddhvapate_shreShThasyAddhvanaH.md">
 <details open><summary><h5>२९ अद्ध्वनामद्ध्वपते श्रेष्ठस्याद्ध्वनः ...{Loading}...</h5></summary>
 
 
@@ -1188,7 +1189,7 @@ title = "०७ उपनयनप्रकरणम्"
 
 +++(ते च सर्वे माणवकस्यैव । द्वितीयचतुर्थाव् आचार्यस्येत्येके ।)+++
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/01_yogeyoge_tavastaram.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/01_yogeyoge_tavastaram.md">
 <details open><summary><h5>०१ योगेयोगे तवस्तरम् ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/030/07_yogeyoge_tavastaraM.md">
 <details open><summary><h7>०७ योगेयोगे तवस्तरं ...{Loading}...</h7></summary>
@@ -1202,7 +1203,7 @@ title = "०७ उपनयनप्रकरणम्"
 </div>
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/02_imamagna_AyuShe.md">
+<div class="js_include bg-light-yellow" includetitle="true" newlevelforh1="3" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/02_imamagna_AyuShe.md">
 <details open><summary><h6>०२ इममग्न आयुषे ...{Loading}...</h6></summary>
 
 इ॒मम् अ॑ग्न॒ आयु॑षे॒ वर्च॑से कृधि  
@@ -1211,7 +1212,7 @@ title = "०७ उपनयनप्रकरणम्"
 विश्वे॑ देवा॒ जर॑दष्टि॒र् यथाऽस॑त् +++(जनः)+++॥ 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/03_shataminnu_sharado.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/03_shataminnu_sharado.md">
 <details open><summary><h5>०३ शतमिन्नु शरदो ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/089/09_shataminnu_sharado.md">
 <details open><summary><h7>०९ शतमिन्नु शरदो ...{Loading}...</h7></summary>
@@ -1226,7 +1227,7 @@ title = "०७ उपनयनप्रकरणम्"
 </div>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/04_agniShTa_AyuH.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/04_agniShTa_AyuH.md">
 <details open><summary><h5>०४ अग्निष्ट आयुः ...{Loading}...</h5></summary>
 
 
@@ -1237,7 +1238,7 @@ title = "०७ उपनयनप्रकरणम्"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/05_medhAm_mahyamangiraso.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/05_medhAm_mahyamangiraso.md">
 <details open><summary><h5>०५ मेधाम् मह्यमङ्गिरसो ...{Loading}...</h5></summary>
 
 
@@ -1248,7 +1249,7 @@ title = "०७ उपनयनप्रकरणम्"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/06_apsarAsu_yA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/06_apsarAsu_yA.md">
 <details open><summary><h5>०६ अप्सरासु या ...{Loading}...</h5></summary>
 
 
@@ -1259,14 +1260,14 @@ title = "०७ उपनयनप्रकरणम्"
 
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/07-11_imam_me.md">
+<div class="js_include bg-light-yellow" includetitle="true" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/07-11_imam_me.md">
 <details open><summary><h7>०७-११ इमम् मे ...{Loading}...</h7></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/025/19_imaM_me.md">
 <details open><summary><h9>१९ इमं मे ...{Loading}...</h9></summary>
 
 इ॒मं मे॑ वरुण श्रुधी॒ +++(=श्रुणु)+++  
 हव॑म्+++(=आह्वानम्)+++ अ॒द्या च॑ मृळय +++(=सुखय)+++।  
-त्वाम॑व॒स्युरा च॑के +++(=अवदन्)+++॥  
+त्वाम् अ॑व॒स्युर् आ च॑के +++(=अवदन्)+++॥  
 
 </details>
 </div>
@@ -1371,7 +1372,7 @@ title = "०७ उपनयनप्रकरणम्"
 ऽपरेणाग्निम् उदग्-अग्रं कूर्चं निधाय  
 तस्मिन्न् उत्तरेण +++("राष्ट्रभृदसि"इत्यनेन)+++ यजुषोपनेता +++(आचार्यः)+++ +उपविशति ७  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/12_rAShTrabhRdasyAchAryAsandI_mA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/12_rAShTrabhRdasyAchAryAsandI_mA.md">
 <details open><summary><h5>१२ राष्ट्रभृदस्याचार्यासन्दी मा ...{Loading}...</h5></summary>
 
 
@@ -1457,17 +1458,22 @@ title = "०७ उपनयनप्रकरणम्"
 
 तस्मा अन्वाह - "तत् सवितुर्" इति ९  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/13_tatsaviturvareNyamityeShA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/13_tatsaviturvareNyamityeShA.md">
 <details open><summary><h5>१३ तत्सवितुर्वरेण्यमित्येषा ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/062/10_tatsaviturvareNyaM_bhargo.md">
 <details open><summary><h9>१० तत्सवितुर्वरेण्यं भर्गो ...{Loading}...</h9></summary>
 
 तत् सवि॒तुर् वरे॑ण्य+++(णिय)+++म्  
-+++(पापादि)+++भर्गो॑+++(=भर्जनम्)+++ दे॒वस्य॑ धीमहि+++(←ध्यै ध्याने / धी आराधने)+++ ।  
+भर्गो॑+++(=भर्जनम्)+++ दे॒वस्य॑ धीमहि+++(←धा धारणे/ ध्यै ध्याने / धी आराधने)+++ ।  
 धियो॒ यो नः॑ प्रचो॒दया॑त् ॥  
+(प॒रो-र॑जसे॒ ऽसाव॒द् ओ३म् ॥)
 
-+++(सवित्राभ्यनुज्ञातो हि सर्वोपि कर्म करोति। सविता वै प्रसवानामीशे इति ब्राह्मणम् ॥  ऋचस्सामानि यजूंषि । सा हि श्रीरमृता सताम् । सर्वेभ्यो वै वेदेभ्यः सावित्र्यनूच्यते इति च ब्राह्मणम् ।)+++
+<details><summary>प्रचोदयात्-स्वरः</summary>
 
+प्र + चुद् + णिच् उदात्तः + शप् अनुदात्तः पित्त्वात् + [लेट् → आट् + तिप् अनुदात्तः पित्त्वात्]।  
+
+प्रानुदात्तत्वं तिङन्तस्योदात्तवत्त्वात्। तच्च यत्कारसद्भावात्।
+</details>
 </details>
 </div>
 </details>
@@ -1570,17 +1576,22 @@ title = "०७ उपनयनप्रकरणम्"
 
 ओं सुवः॑
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/13_tatsaviturvareNyamityeShA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/13_tatsaviturvareNyamityeShA.md">
 <details open><summary><h5>१३ तत्सवितुर्वरेण्यमित्येषा ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/062/10_tatsaviturvareNyaM_bhargo.md">
 <details open><summary><h9>१० तत्सवितुर्वरेण्यं भर्गो ...{Loading}...</h9></summary>
 
 तत् सवि॒तुर् वरे॑ण्य+++(णिय)+++म्  
-+++(पापादि)+++भर्गो॑+++(=भर्जनम्)+++ दे॒वस्य॑ धीमहि+++(←ध्यै ध्याने / धी आराधने)+++ ।  
+भर्गो॑+++(=भर्जनम्)+++ दे॒वस्य॑ धीमहि+++(←धा धारणे/ ध्यै ध्याने / धी आराधने)+++ ।  
 धियो॒ यो नः॑ प्रचो॒दया॑त् ॥  
+(प॒रो-र॑जसे॒ ऽसाव॒द् ओ३म् ॥)
 
-+++(सवित्राभ्यनुज्ञातो हि सर्वोपि कर्म करोति। सविता वै प्रसवानामीशे इति ब्राह्मणम् ॥  ऋचस्सामानि यजूंषि । सा हि श्रीरमृता सताम् । सर्वेभ्यो वै वेदेभ्यः सावित्र्यनूच्यते इति च ब्राह्मणम् ।)+++
+<details><summary>प्रचोदयात्-स्वरः</summary>
 
+प्र + चुद् + णिच् उदात्तः + शप् अनुदात्तः पित्त्वात् + [लेट् → आट् + तिप् अनुदात्तः पित्त्वात्]।  
+
+प्रानुदात्तत्वं तिङन्तस्योदात्तवत्त्वात्। तच्च यत्कारसद्भावात्।
+</details>
 </details>
 </div>
 </details>
@@ -1650,7 +1661,7 @@ title = "०७ उपनयनप्रकरणम्"
 
 कुमार उत्तरेण +++("वृधमसौ सोभ्ये"त्यनेन, असावित्यनेन प्राणोऽभिधीयते)+++ मन्त्रेणोत्तरमोष्ठम् उपस्पृशते १२  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/14_avRdhamasau_saumya.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/14_avRdhamasau_saumya.md">
 <details open><summary><h5>१४ अवृधमसौ सौम्य ...{Loading}...</h5></summary>
 
 
@@ -1700,7 +1711,7 @@ title = "०७ उपनयनप्रकरणम्"
 
 कर्णावुत्तरेण +++("ब्रह्मण आणी स्थ"इत्यनेन)+++ १३  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/15_brahmaNa_ANI.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/15_brahmaNa_ANI.md">
 <details open><summary><h5>१५ ब्रह्मण आणी ...{Loading}...</h5></summary>
 
 
@@ -1742,9 +1753,9 @@ title = "०७ उपनयनप्रकरणम्"
 <div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/11_14_daNDamuttareNA-.adatte.md">
 <details open><summary><h3>११ १४ दण्डमुत्तरेणाऽऽदत्ते ...{Loading}...</h3></summary>
 
-+++(पलाश-)+++दण्डमुत्तरेणा +++("सुश्रवस्सुश्रवस"मित्यनेन)+++ ऽऽदत्ते १४  
++++(पलाश-)+++दण्डमुत्तरेणाऽऽदत्ते +++("सुश्रवस्सुश्रवस"मित्यनेन)+++१४  
 
- <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/01_sushravassushravasam_mA.md">
+ <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/01_sushravassushravasam_mA.md">
 <details open><summary><h5>०१ सुश्रवस्सुश्रवसम् मा ...{Loading}...</h5></summary>
 
 
@@ -1879,7 +1890,7 @@ title = "०७ उपनयनप्रकरणम्"
 
 "स्मृतं च म" इत्य् एतद्वाचयित्वा
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/02-10_smRtancha_me.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/02-10_smRtancha_me.md">
 <details open><summary><h5>०२-१० स्मृतञ्च मे ...{Loading}...</h5></summary>
 
 
@@ -1909,7 +1920,7 @@ title = "०७ उपनयनप्रकरणम्"
 
 +++(कुमारो वदति -)+++  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/11_udAyuShA_svAyuShodoShadhInAm.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/11_udAyuShA_svAyuShodoShadhInAm.md">
 <details open><summary><h5>११ उदायुषा स्वायुषोदोषधीनाम् ...{Loading}...</h5></summary>
 
 
@@ -1926,7 +1937,7 @@ title = "०७ उपनयनप्रकरणम्"
 #### आदित्योपस्थानम्
 उत्तरैर् +++("तच्चक्षुर्देव हितम्")+++ आदित्यम् उपतिष्ठते १७  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/12_tachchaxurdevahitam_purastAchChukramuchcharat.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/12_tachchaxurdevahitam_purastAchChukramuchcharat.md">
 <details open><summary><h5>१२ तच्चक्षुर्देवहितम् पुरस्ताच्छुक्रमुच्चरत् ...{Loading}...</h5></summary>
 
 
@@ -1998,7 +2009,7 @@ title = "०७ उपनयनप्रकरणम्"
 
 यं कामयेत +++(मत्)+++ नायमाच्छिद्येतेति, तम् उत्तरया +++("यस्मिन् भूतमि"त्येतया)+++ दक्षिणे हस्ते गृह्णीयात् १८  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/13_yasminbhUtancha_bhavyancha.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/13_yasminbhUtancha_bhavyancha.md">
 <details open><summary><h5>१३ यस्मिन्भूतञ्च भव्यञ्च ...{Loading}...</h5></summary>
 
 
@@ -2119,7 +2130,7 @@ title = "०७ उपनयनप्रकरणम्"
 
 परि त्वेति परिमृज्य  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/01_pari_tvA-gne.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/01_pari_tvA-gne.md">
 <details open><summary><h5>०१ परि त्वाऽग्ने ...{Loading}...</h5></summary>
 
 
@@ -2133,7 +2144,7 @@ title = "०७ उपनयनप्रकरणम्"
 #### समिदाधानम्
 तस्मिन्न् उत्तरैर् मन्त्रैस् +++("अग्नये समिध"मित्यादिभिः द्वादशभिः प्रतिमन्त्रं)+++ समिध आदध्यात् २१  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/02_agnaye_samidhamAhArSham.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/02_agnaye_samidhamAhArSham.md">
 <details open><summary><h5>०२ अग्नये समिधमाहार्षम् ...{Loading}...</h5></summary>
 
 
@@ -2143,7 +2154,7 @@ title = "०७ उपनयनप्रकरणम्"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/03_edho-syedhiShImahi_svAhA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/03_edho-syedhiShImahi_svAhA.md">
 <details open><summary><h5>०३ एधोऽस्येधिषीमहि स्वाहा ...{Loading}...</h5></summary>
 
 
@@ -2151,7 +2162,7 @@ title = "०७ उपनयनप्रकरणम्"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/04_samidasi_samedhiShImahi.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/04_samidasi_samedhiShImahi.md">
 <details open><summary><h5>०४ समिदसि समेधिषीमहि ...{Loading}...</h5></summary>
 
 
@@ -2159,7 +2170,7 @@ title = "०७ उपनयनप्रकरणम्"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/05_tejosi_tejo.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/05_tejosi_tejo.md">
 <details open><summary><h5>०५ तेजोसि तेजो ...{Loading}...</h5></summary>
 
 
@@ -2167,18 +2178,18 @@ title = "०७ उपनयनप्रकरणम्"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/06_apo_adyAnvachAriSham.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/06_apo_adyAnvachAriSham.md">
 <details open><summary><h5>०६ अपो अद्यान्वचारिषम् ...{Loading}...</h5></summary>
 
 
-अपो॑+++(=कर्म)+++ अ॒द्यान्व॑चारिष॒ꣳ॒  
-+++(श्रद्धा)+++रसे॑न॒ सम॑सृक्ष्महि+++(=संसृष्टो भवेयम्)+++ ।  
+**अपो॑**+++(=कर्म)+++ अ॒द्य +**अन्व॑चारिष॒ꣳ॒**  
++++(श्रद्धा)+++**रसे॑न॒ सम॑सृक्ष्महि**+++(=संसृष्टो भवेयम्। समगन्महीति शाकले)+++ ।  
 पय॑स्वाꣳ+++(→हविष्मान्)+++ अग्न॒ आग॑म॒न्  
 तं मा॒ सꣳसृ॑ज॒ वर्च॑सा॒ स्वाहा॑ ।  
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/07_sam_mA-gne.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/07_sam_mA-gne.md">
 <details open><summary><h5>०७ सम् माऽग्ने ...{Loading}...</h5></summary>
 
 
@@ -2187,7 +2198,7 @@ title = "०७ उपनयनप्रकरणम्"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/08_vidyunme_asya.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/08_vidyunme_asya.md">
 <details open><summary><h5>०८ विद्युन्मे अस्य ...{Loading}...</h5></summary>
 
 
@@ -2196,7 +2207,7 @@ title = "०७ उपनयनप्रकरणम्"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/09_agnaye_bRhate.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/09_agnaye_bRhate.md">
 <details open><summary><h5>०९ अग्नये बृहते ...{Loading}...</h5></summary>
 
 
@@ -2205,7 +2216,7 @@ title = "०७ उपनयनप्रकरणम्"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/10_dyAvApRthivIbhyAM_svAhA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/10_dyAvApRthivIbhyAM_svAhA.md">
 <details open><summary><h5>१० द्यावापृथिवीभ्यां स्वाहा ...{Loading}...</h5></summary>
 
 
@@ -2213,7 +2224,7 @@ title = "०७ उपनयनप्रकरणम्"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/11_eShA_te.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/11_eShA_te.md">
 <details open><summary><h5>११ एषा ते ...{Loading}...</h5></summary>
 
 
@@ -2221,7 +2232,7 @@ title = "०७ उपनयनप्रकरणम्"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/12_yo_mA-gne.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/12_yo_mA-gne.md">
 <details open><summary><h5>१२ यो माऽग्ने ...{Loading}...</h5></summary>
 
 
@@ -2232,7 +2243,7 @@ title = "०७ उपनयनप्रकरणम्"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/13_samidhamAdhAyAgne_sarvavrato.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/13_samidhamAdhAyAgne_sarvavrato.md">
 <details open><summary><h5>१३ समिधमाधायाग्ने सर्वव्रतो ...{Loading}...</h5></summary>
 
 
@@ -2346,7 +2357,7 @@ title = "०७ उपनयनप्रकरणम्"
 
 उत्तरया +++("ब्रह्मचार्यसी"त्येतया)+++ सँशास्ति २३ +++(बाढमिति प्रतिवचनम् ।)+++  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/14_brahmachAryasy_apo-shAna.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/14_brahmachAryasy_apo-shAna.md">
 <details open><summary><h5>१४ ब्रह्मचार्यस्य्, अपोऽशान ...{Loading}...</h5></summary>
 
 
@@ -2415,7 +2426,7 @@ title = "०७ उपनयनप्रकरणम्"
 
 +++(त्र्यहं मन्त्रवत्-परिहितमेव)+++ वासश् चतुर्थीम्+++(चतुर्थाहोरात्रे अहन्येव)+++ उत्तरया +++("यस्य ते प्रथमवास्य"मित्येतया)+++ ऽऽदत्ते +++(स्वीकरोति)+++  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/15_yasya_te.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/15_yasya_te.md">
 <details open><summary><h5>१५ यस्य ते ...{Loading}...</h5></summary>
 
 

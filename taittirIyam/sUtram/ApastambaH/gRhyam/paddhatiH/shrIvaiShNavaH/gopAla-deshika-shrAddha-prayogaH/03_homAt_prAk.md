@@ -155,7 +155,15 @@ title = "०३ होमात् प्राक्"
 
 इति मन्त्रम् अनुसन्धाय,
 
-<div class="js_include" url="/devaH/AryaH/hindukaH/misc-devas/padyam/devatAbhyaH_pitRbhyaH/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/devaH/AryaH/hindukaH/misc-devas/padyam/devatAbhyaH_pitRbhyaH/">
+<details open><summary><h5>देवताभ्यः पितृभ्यश्च ...{Loading}...</h5></summary>
+
+देवताभ्यः पितृभ्यश्च  
+महायोगिभ्य एव च ।  
+नमः स्वधायै स्वाहायै  
+नित्यम् एव नमो नमः ॥ 
+</details>
+</div>  
 
 
 इति श्लोकं (त्रिः) सङ्कीर्त्य सात्त्विकत्यागं कुर्यात् ।

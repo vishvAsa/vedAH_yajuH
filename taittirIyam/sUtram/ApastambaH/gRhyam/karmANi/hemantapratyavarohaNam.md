@@ -16,8 +16,8 @@ unicode_script: devanagari
 
 उत्तरेण यजुषा +++("प्रत्यवरूढो नो हेमन्तः"इत्यनेन)+++ प्रत्यवरुह्य  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/02_pratyavarUDho_no.md">
-<details open=""><summary><h4>०२ प्रत्यवरूढो नो ...{Loading}...</h4></summary>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/02_pratyavarUDho_no.md">
+<details open><summary><h4>०२ प्रत्यवरूढो नो ...{Loading}...</h4></summary>
 
 
 प्र॒त्यव॑रूढो नो हेम॒न्तः ।  
@@ -29,8 +29,8 @@ unicode_script: devanagari
 उत्तरैर् +++("प्रतिक्षत्र"इत्यादिभिः पञ्चभिः)+++ दक्षिणैः पार्श्वैः नवस्वस्तरे+++(=तृणशय्यायाम्)+++ संविशन्ति ९  
 
 +++(नवस्वस्तरे संविशन् )+++  
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/03-07_pratixatre_pratitiShThAmi.md">
-<details open=""><summary><h4>०३-०७ प्रतिक्षत्रे प्रतितिष्ठामि ...{Loading}...</h4></summary>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/03-07_pratixatre_pratitiShThAmi.md">
+<details open><summary><h4>०३-०७ प्रतिक्षत्रे प्रतितिष्ठामि ...{Loading}...</h4></summary>
 
 
 प्रति॑ क्ष॒त्रे, प्रति॑तिष्ठामि रा॒ष्ट्रे ।  
@@ -55,10 +55,10 @@ unicode_script: devanagari
 
 +++(किञ्चित्सुप्त्वा)+++ सं-हाय  
 उत्तराभ्यां +++("स्योना पृथिवि" "बडित्थे"त्येताभ्यां)+++ पृथिवीमभिमृशन्ति ११  
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/08_syonA_pRthivi.md">
-<details open=""><summary><h4>०८ स्योना पृथिवि ...{Loading}...</h4></summary>
+<div class="js_include bg-light-yellow" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/08_syonA_pRthivi.md">
+<details open><summary><h4>०८ स्योना पृथिवि ...{Loading}...</h4></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/022/15_syonA_pRthivi.md">
-<details open=""><summary><h6>१५ स्योना पृथिवि ...{Loading}...</h6></summary>
+<details open><summary><h6>१५ स्योना पृथिवि ...{Loading}...</h6></summary>
 
 
 +++(अभिमृशति)+++  
@@ -70,8 +70,8 @@ unicode_script: devanagari
 </div>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/09_baDitthA_parvatAnAnkhidrambibharShi.md">
-<details open=""><summary><h4>०९ बडित्था पर्वतानाङ्खिद्रम्बिभर्षि ...{Loading}...</h4></summary>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/09_baDitthA_parvatAnAnkhidrambibharShi.md">
+<details open><summary><h4>०९ बडित्था पर्वतानाङ्खिद्रम्बिभर्षि ...{Loading}...</h4></summary>
 
 
 

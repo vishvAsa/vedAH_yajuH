@@ -1,7 +1,7 @@
 ---
 title: अनन्तराम-शास्त्र्य्-उपाकर्मप्रयोगः
----
 
+---
 source: आपस्तम्बीयोपाकर्मप्रयोगः   
 author: मु॰ अ॰ वै॰ अनन्तरामशास्त्री  
 publisher: वैदिकवर्धिनीमुद्रणालयः (kumbakonam)   
@@ -159,7 +159,24 @@ script: grantha
 
 ममोपात्त + प्रीत्यर्थं ब्रह्मयज्ञेन यक्ष्ये। (इति सङ्कल्प्य)
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/mantrAH/vidyudasi.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/mantrAH/vidyudasi.md">
+<details open><summary><h5>वृष्टि॑रसि॒ ...{Loading}...</h5></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विद्यु॑द् असि॒,  
+विद्य॑ मे पा॒प्मान॑म्, 
+ऋ॒तात् स॒त्यम् उपै॑मि॥  
+मयि॑ श्र॒द्धा। 
+</details>
+<details><summary>मूलम्</summary>
+
+विद्यु॑द् असि॒,  
+विद्य॑ मे पा॒प्मान॑म्, 
+ऋ॒तात् स॒त्यम् उपै॑मि॥
+मयि॑ श्र॒द्धा।
+</details>
+</details>
+</div>  
 
 
 (अप उपस्पृश्य) (१) हस्तौ पादौ च आमणिबन्धनात् प्रक्षाल्य।
@@ -216,7 +233,22 @@ script: grantha
 
 ॐ तत्सत्। (इत्युक्त्वा)
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/mantrAH/vRShTirasi.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/mantrAH/vRShTirasi.md">
+<details open><summary><h5>वृष्टि॑रसि॒ ...{Loading}...</h5></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वृष्टि॑रसि॒,  
+वृश्च॑ मे पा॒प्मा॑नम्,  
+ऋ॒तात् स॒त्यम् उपा॑गाम्।  
+अ॒प्सु श्र॒द्धा। 
+</details>
+<details><summary>मूलम्</summary>
+
+वृष्टि॑रसि॒,  वृश्च॑ मे पा॒प्मा॑नम्, ऋ॒तात् स॒त्यम् उपा॑गाम्।  
+अ॒प्सु श्र॒द्धा।
+</details>
+</details>
+</div>  
 
 
 (इति अप उपस्पृश्य आचामेत्)॥

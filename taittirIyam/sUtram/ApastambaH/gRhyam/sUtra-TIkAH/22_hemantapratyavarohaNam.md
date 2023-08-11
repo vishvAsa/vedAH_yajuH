@@ -47,7 +47,7 @@ title = "२२ हेमन्तप्रत्यवरोहणम्"
 
 उत्तरेण यजुषा +++("प्रत्यवरूढो नो हेमन्तः"इत्यनेन)+++ प्रत्यवरुह्य  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/02_pratyavarUDho_no.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/02_pratyavarUDho_no.md">
 <details open><summary><h5>०२ प्रत्यवरूढो नो ...{Loading}...</h5></summary>
 
 
@@ -60,7 +60,7 @@ title = "२२ हेमन्तप्रत्यवरोहणम्"
 उत्तरैर् +++("प्रतिक्षत्र"इत्यादिभिः पञ्चभिः)+++ दक्षिणैः पार्श्वैः नवस्वस्तरे+++(=तृणशय्यायाम्)+++ संविशन्ति ९  
 
 +++(नवस्वस्तरे संविशन् )+++  
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/03-07_pratixatre_pratitiShThAmi.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/03-07_pratixatre_pratitiShThAmi.md">
 <details open><summary><h5>०३-०७ प्रतिक्षत्रे प्रतितिष्ठामि ...{Loading}...</h5></summary>
 
 
@@ -168,7 +168,7 @@ title = "२२ हेमन्तप्रत्यवरोहणम्"
 
 +++(किञ्चित्सुप्त्वा)+++ सं-हाय  
 उत्तराभ्यां +++("स्योना पृथिवि" "बडित्थे"त्येताभ्यां)+++ पृथिवीमभिमृशन्ति ११  
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/08_syonA_pRthivi.md">
+<div class="js_include bg-light-yellow" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/08_syonA_pRthivi.md">
 <details open><summary><h5>०८ स्योना पृथिवि ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/022/15_syonA_pRthivi.md">
 <details open><summary><h7>१५ स्योना पृथिवि ...{Loading}...</h7></summary>
@@ -183,7 +183,7 @@ title = "२२ हेमन्तप्रत्यवरोहणम्"
 </div>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/09_baDitthA_parvatAnAnkhidrambibharShi.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/09_baDitthA_parvatAnAnkhidrambibharShi.md">
 <details open><summary><h5>०९ बडित्था पर्वतानाङ्खिद्रम्बिभर्षि ...{Loading}...</h5></summary>
 
 

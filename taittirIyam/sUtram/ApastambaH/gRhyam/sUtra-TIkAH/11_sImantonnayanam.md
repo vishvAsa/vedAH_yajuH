@@ -72,7 +72,7 @@ title = "११ सीमन्तोन्नयनम्"
    
 
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/01_dhAtA_dadAtu.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/01_dhAtA_dadAtu.md">
 <details open><summary><h5>०१ धाता ददातु ...{Loading}...</h5></summary>
 
 
@@ -82,7 +82,7 @@ title = "११ सीमन्तोन्नयनम्"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/02_dhAtA_prajAyA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/02_dhAtA_prajAyA.md">
 <details open><summary><h5>०२ धाता प्रजाया ...{Loading}...</h5></summary>
 
 
@@ -93,7 +93,7 @@ title = "११ सीमन्तोन्नयनम्"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/03_dhAtA_dadAtu.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/03_dhAtA_dadAtu.md">
 <details open><summary><h5>०३ धाता ददातु ...{Loading}...</h5></summary>
 
 
@@ -104,7 +104,7 @@ title = "११ सीमन्तोन्नयनम्"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/04_dhAtA_dadAtu.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/04_dhAtA_dadAtu.md">
 <details open><summary><h5>०४ धाता ददातु ...{Loading}...</h5></summary>
 
 
@@ -115,22 +115,22 @@ title = "११ सीमन्तोन्नयनम्"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/05_yastvA_hRdA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/05_yastvA_hRdA.md">
 <details open><summary><h5>०५ यस्त्वा हृदा ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/004/10_yastvA_hRdA.md">
 <details open><summary><h7>१० यस्त्वा हृदा ...{Loading}...</h7></summary>
 
 
-यस् त्वा॑ हृ॒दा की॒रिणा॒ +++(=स्तत्रिणा)+++ मन्य॑मा॒नो  
-ऽम॑र्त्यं॒ मर्त्यो॒ जोह॑वीमि ।  
-जात॑वेदो॒ यशो॑ अ॒स्मासु॑ धेहि  
-प्र॒जाभि॑र् अग्ने अमृत॒त्वम् अ॑श्याम् ॥
+यस् **त्वा॑** हृ॒दा की॒रिणा॒ +++(=स्तोत्रिणा)+++ मन्य॑मा॒नो  
+ऽम॑र्त्यं॒ मर्त्यो॒ **जोह॑वीमि** ।  
+जात॑वेदो॒ **यशो॑** अ॒स्मासु॑ **धेहि**  
+प्र॒जाभि॑र् अग्ने **अमृत॒त्वम् अ॑श्याम्** ॥
 
 </details>
 </div>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/06_yasmai_tvam.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/06_yasmai_tvam.md">
 <details open><summary><h5>०६ यस्मै त्वम् ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/004/11_yasmai_tvaM.md">
 <details open><summary><h7>११ यस्मै त्वं ...{Loading}...</h7></summary>
@@ -145,7 +145,7 @@ title = "११ सीमन्तोन्नयनम्"
 </div>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/07_tve_su.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/07_tve_su.md">
 <details open><summary><h5>०७ त्वे सु ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/092/14_tve_su.md">
 <details open><summary><h7>१४ त्वे सु ...{Loading}...</h7></summary>
@@ -159,7 +159,7 @@ title = "११ सीमन्तोन्नयनम्"
 </div>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/08_ukthaukthe_soma.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/08_ukthaukthe_soma.md">
 <details open><summary><h5>०८ उक्थउक्थे सोम ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/026/02_ukthaukthe_soma.md">
 <details open><summary><h7>०२ उक्थौक्थे सोम ...{Loading}...</h7></summary>
@@ -320,7 +320,7 @@ title = "११ सीमन्तोन्नयनम्"
 
 उत्तरयोः पूर्वा साल्वानां ब्राह्मणानामितरा ।
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/12_yaugandharireva_no.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/12_yaugandharireva_no.md">
 <details open><summary><h5>१२ यौगन्धरिरेव नो ...{Loading}...</h5></summary>
 
 
@@ -376,7 +376,7 @@ title = "११ सीमन्तोन्नयनम्"
 
 +++(अन्येषाम् - "सोम एव नो राजा" इत्येषा।)+++ नदी-निर्देशश्च यस्यां वसन्ति ॥  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/13_soma_eva.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/13_soma_eva.md">
 <details open><summary><h5>१३ सोम एव ...{Loading}...</h5></summary>
 
 
