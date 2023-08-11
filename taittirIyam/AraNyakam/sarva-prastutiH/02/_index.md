@@ -5,53 +5,166 @@ unicode_script = "devanagari"
 +++
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/02/01_niyata-yajJNa-prashaMsA/">
 <details open><summary><h2>०१ नियत-यज्ञ-प्रशंसा ...{Loading}...</h2></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सह॒ वै दे॒वाना॒ञ् चासु॑राणाञ् च य॒ज्ञौ प्रत॑तावास्ताव्ँ, "व॒य२ꣳ स्व॒र्गल्ँ लो॒कम् ए॑ष्यामो, व॒यम् ए॑ष्याम॒" इति।  
+सह॒ वै दे॒वाना॒ञ् चासु॑राणाञ् च य॒ज्ञौ प्रत॑ताव् आस्ताव्ँ,  
+"व॒य२ꣳ स्व॒र्गल्ँ लो॒कम् ए॑ष्यामो, व॒यम् ए॑ष्याम॒" इति।  
+</details>
+<details><summary>मूलम्</summary>
+
+सह॒ वै दे॒वाना॒ञ् चासु॑राणाञ् च य॒ज्ञौ प्रत॑ताव् आस्ताव्ँ,  
+"व॒य२ꣳ स्व॒र्गल्ँ लो॒कम् ए॑ष्यामो, व॒यम् ए॑ष्याम॒" इति।  
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ते ऽसु॑रास् स॒न्नह्य॒ सह॑सै॒वाच॑रन्।  
 ब्रह्म॒चर्ये॑ण॒ तप॑सैव दे॒वाः।  
+</details>
+<details><summary>मूलम्</summary>
+
+ते ऽसु॑रास् स॒न्नह्य॒ सह॑सै॒वाच॑रन्।  
+ब्रह्म॒चर्ये॑ण॒ तप॑सैव दे॒वाः।  
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तेऽसु॑रा अमुह्य॒२ꣳ॒स्, ते न प्राजा॑न॒२ꣳ॒स्, ते परा॑ऽभव॒न्, ते न स्व॒र्गल्ँ लो॒कमा॑य॒न्।  
-प्रसृ॑तेन॒ वै य॒ज्ञेन॑ दे॒वास् स्व॒र्गल्ँ लो॒कमा॑य॒न्।  
-न प्रसृ॑ते॒नासु॑रा॒न् परा॑भावय॒न्।  
+</details>
+<details><summary>मूलम्</summary>
+
+तेऽसु॑रा अमुह्य॒२ꣳ॒स्, ते न प्राजा॑न॒२ꣳ॒स्, ते परा॑ऽभव॒न्, ते न स्व॒र्गल्ँ लो॒कमा॑य॒न्।  
+</details>
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/02/01_yajJNopavItam/">
-<details open><summary><h2>यज्ञोपवीतम् ...{Loading}...</h2></summary>
+<details open><summary><h2>०१ यज्ञोपवीतम् ...{Loading}...</h2></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रसृ॑तेन॒ वै य॒ज्ञेन॑ दे॒वास् स्व॒र्गल्ँ लो॒कम् आ॑य॒न्।  
+अप्रसृ॑ते॒नासु॑रा॒न् परा॑भावय॒न्।  
+</details>
+<details><summary>मूलम्</summary>
+
+प्रसृ॑तेन॒ वै य॒ज्ञेन॑ दे॒वास् स्व॒र्गल्ँ लो॒कम् आ॑य॒न्।  
+अप्रसृ॑ते॒नासु॑रा॒न् परा॑भावय॒न्।  
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रसृ॑तो ह॒ वै य॑ज्ञोपवी॒तिनो॑ य॒ज्ञो, ऽप्र॑सृ॒तो ऽनु॑पवी॒तिनः।  
 यत्किञ् च॑ ब्राह्म॒णो य॑ज्ञोपवी॒त्य् अधी॑ते॒ यज॑त ए॒व तत्।  
 तस्मा॑द् यज्ञोपवी॒त्य् ए॑वाधी॑यीत या॒जये॒द् यजे॑त वा।  
-य॒ज्ञस्य॒ प्रसृ॑त्या॒ अजि॑न॒व्ँ वासो॑ वा दक्षिण॒त उ॑प॒वीय॒ दक्षि॑णं बा॒हुम् उद्-ध॑र॒ते, ऽव॑ धत्ते स॒व्यमिति॑ यज्ञोपवी॒तम् ए॒तद् ए॒व।  
-विप॑रीतं प्राचीनावी॒तꣳ स॒व्ँवीतं॑ मानु॒षम् । 1 ।
+</details>
+<details><summary>मूलम्</summary>
+
+प्रसृ॑तो ह॒ वै य॑ज्ञोपवी॒तिनो॑ य॒ज्ञो, ऽप्र॑सृ॒तो ऽनु॑पवी॒तिनः।  
+यत्किञ् च॑ ब्राह्म॒णो य॑ज्ञोपवी॒त्य् अधी॑ते॒ यज॑त ए॒व तत्।  
+तस्मा॑द् यज्ञोपवी॒त्य् ए॑वाधी॑यीत या॒जये॒द् यजे॑त वा।  
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+य॒ज्ञस्य॒ प्रसृ॑त्या॒  
+अजि॑न॒व्ँ वासो॑ वा  
+दक्षिण॒त उ॑प॒वीय॒  
+दक्षि॑णं बा॒हुम् उद्-ध॑र॒ते,  
+ऽव॑ धत्ते स॒व्यम्  
+इति॑ यज्ञोपवी॒तम् ए॒तद् ए॒व।  
+</details>
+<details><summary>मूलम्</summary>
+
+य॒ज्ञस्य॒ प्रसृ॑त्या॒  
+अजि॑न॒व्ँ वासो॑ वा  
+दक्षिण॒त उ॑प॒वीय॒  
+दक्षि॑णं बा॒हुम् उद्-ध॑र॒ते,  
+ऽव॑ धत्ते स॒व्यम्  
+इति॑ यज्ञोपवी॒तम् ए॒तद् ए॒व।  
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विप॑रीतं प्राचीनावी॒तꣳ  
+स॒व्ँवीतं॑ मानु॒षम् । 1 ।
+</details>
+<details><summary>मूलम्</summary>
+
+विप॑रीतं प्राचीनावी॒तꣳ  
+स॒व्ँवीतं॑ मानु॒षम् । 1 ।
+</details>
 </details>
 </div>
-
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/02/02_sandhyA-vandanam/">
-<details open><summary><h2>सन्ध्या-वन्दनम् ...{Loading}...</h2></summary>
+<details open><summary><h2>०२ सन्ध्या-वन्दनम् ...{Loading}...</h2></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रक्षाꣳ॑सि॒ ह वा॑ पुरोऽनुवा॒के तपोग्र॑मतिष्ठन्त।  
+रक्षाꣳ॑सि॒ ह वा॑ पुरोऽनुवा॒के तपोग्र॑म् अतिष्ठन्त।  
 तान् प्र॒जाप॑तिर् व॒रेणो॒पाम॑न्त्रयत।  
-तानि॒ वर॑मवृणीत - "आदि॒त्यो नो॒ योद्धा॒" इति।  
+तानि॒ वर॑म् अवृणीत - "आदि॒त्यो नो॒ योद्धा॒" इति।  
 तान् प्र॒जाप॑तिर् अब्रवी॒द् - "योध॑य॒ध्वमि"ति।  
 तस्मा॒द् उत्ति॑ष्ठन्त॒ꣳ॒ ह वा॒ तानि॒ रक्षाꣳ॑स्यादि॒त्यय्ँ योध॑यन्ति॒ याव॑दस्त॒मन्व॑गा॒त्।  
+</details>
+<details><summary>मूलम्</summary>
+
+रक्षाꣳ॑सि॒ ह वा॑ पुरोऽनुवा॒के तपोग्र॑म् अतिष्ठन्त।  
+तान् प्र॒जाप॑तिर् व॒रेणो॒पाम॑न्त्रयत।  
+तानि॒ वर॑म् अवृणीत - "आदि॒त्यो नो॒ योद्धा॒" इति।  
+तान् प्र॒जाप॑तिर् अब्रवी॒द् - "योध॑य॒ध्वमि"ति।  
+तस्मा॒द् उत्ति॑ष्ठन्त॒ꣳ॒ ह वा॒ तानि॒ रक्षाꣳ॑स्यादि॒त्यय्ँ योध॑यन्ति॒ याव॑दस्त॒मन्व॑गा॒त्।  
+</details>
 
 ### अर्घ्यम्
-तानि॑ ह॒ वा ए॒तानि॒ रक्षाꣳ॑सि गायत्रि॒याऽभि॑मन्त्रिते॒नाम्भ॑सा शाम्यन्ति।  
-तदु॑ ह॒ वा ए॒ते ब्र॑ह्मवा॒दिनः॑ पू॒र्वाभि॑मु॒खाः स॒न्ध्याया॑ङ्गायत्रि॒याऽभि॑मन्त्रिता॒ आप॑ ऊ॒र्ध्वं विक्षि॑पन्ति।  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तानि॑ ह॒ वा ए॒तानि॒ रक्षाꣳ॑सि  
+गायत्रि॒याऽभि॑मन्त्रिते॒नाम्भ॑सा शाम्यन्ति।  
+</details>
+<details><summary>मूलम्</summary>
+
+तानि॑ ह॒ वा ए॒तानि॒ रक्षाꣳ॑सि  
+गायत्रि॒याऽभि॑मन्त्रिते॒नाम्भ॑सा शाम्यन्ति।  
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तदु॑ ह॒ वा ए॒ते ब्र॑ह्मवा॒दिनः॑ पू॒र्वाभि॑मु॒खाः स॒न्ध्याया॑ङ्  
+गायत्रि॒या ऽभि॑मन्त्रिता॒ आप॑ ऊ॒र्ध्वं विक्षि॑पन्ति।  
 ता ए॒ता आपो॑ व॒ज्रीभू॒त्वा तानि॒ रक्षाꣳ॑सि म॒न्देहारु॑णे द्वी॒पे प्रक्षि॑पन्ति।
+</details>
+<details><summary>मूलम्</summary>
+
+तदु॑ ह॒ वा ए॒ते ब्र॑ह्मवा॒दिनः॑ पू॒र्वाभि॑मु॒खाः स॒न्ध्याया॑ङ्  
+गायत्रि॒या ऽभि॑मन्त्रिता॒ आप॑ ऊ॒र्ध्वं विक्षि॑पन्ति।  
+ता ए॒ता आपो॑ व॒ज्रीभू॒त्वा तानि॒ रक्षाꣳ॑सि म॒न्देहारु॑णे द्वी॒पे प्रक्षि॑पन्ति।
+</details>
+
 
 ### प्रदक्षिणीकरणम्
-यत् प्र॑दक्षि॒णं प्रक्र॑मन्ति॒, तेन॑ पा॒प्मान॒मव॑धून्वन्ति।  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यत् प्र॑दक्षि॒णं प्रक्र॑मन्ति॒, तेन॑ पा॒प्मान॒म् अव॑धून्वन्ति।  
+</details>
+<details><summary>मूलम्</summary>
+
+यत् प्र॑दक्षि॒णं प्रक्र॑मन्ति॒, तेन॑ पा॒प्मान॒म् अव॑धून्वन्ति।  
+</details>
+
 
 ### ब्रह्म-भावनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 उ॒द्यन्त॑म् अस्त॒य्ँ यन्त॑म् आदि॒त्यम् अ॑भिध्या॒यन्  
-कु॒र्वन् ब्रा॑ह्म॒णो वि॒द्वान्थ् स॒कलं॑ भ॒द्रम् अ॑श्नुते।  
+कु॒र्वन् ब्रा॑ह्म॒णो वि॒द्वान्थ् स॒कलं॑ भ॒द्रम् अ॑श्नुते -  
 असाव् आ॑दि॒त्यो ब्र॒ह्मेति॒ -  
 ब्रह्मै॒व सन् ब्रह्मा॒प्येति॒-  
 य ए॒वव्ँ वेद॑ ।2।
 </details>
+<details><summary>मूलम्</summary>
+
+उ॒द्यन्त॑म् अस्त॒य्ँ यन्त॑म् आदि॒त्यम् अ॑भिध्या॒यन्  
+कु॒र्वन् ब्रा॑ह्म॒णो वि॒द्वान्थ् स॒कलं॑ भ॒द्रम् अ॑श्नुते -  
+असाव् आ॑दि॒त्यो ब्र॒ह्मेति॒ -  
+ब्रह्मै॒व सन् ब्रह्मा॒प्येति॒-  
+य ए॒वव्ँ वेद॑ ।2।
+</details>
+</details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/02/03-09_kUShmANDa-homa-mantrAH/">
-<details open><summary><h2>कूष्माण्ड-होम-मन्त्राः ...{Loading}...</h2></summary>
+<details open><summary><h2>०३-०९ कूष्माण्ड-होम-मन्त्राः ...{Loading}...</h2></summary>
 
 यद्दे॑वा देव॒हेळ॑न॒न्देवा॑सश्चकृ॒मा व॒यम् । आदि॑त्या॒स्तस्मा॑न्मा मुञ्चत॒र्तस्य॒र्तेन॒ मामि॒त ॥
 
@@ -252,7 +365,7 @@ unicode_script = "devanagari"
 ओमिति॒ प्रति॑पद्यत - ए॒तद् वै यजु॑स्, त्रयीव्ँ वि॒द्यां प्रत्य् ए॒षा वाग्, ए॒तत् प॑र॒मम् अ॒क्षर॒न्, तद् ए॒तद् ऋ॒चा ऽभ्यु॑क्तम् -  
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/164/39_Rcho_axare.md">
-<details open=""><summary><h4>३९ ऋचो अक्षरे ...{Loading}...</h4></summary>
+<details open><summary><h4>३९ ऋचो अक्षरे ...{Loading}...</h4></summary>
 
 
 ऋ॒चो अ॒क्षरे॑ पर॒मे व्यो॑म॒न्॒  
@@ -279,8 +392,9 @@ unicode_script = "devanagari"
 स वा ए॒ष य॒ज्ञस्, स॒द्यः प्रता॑यते स॒द्यस् सन्ति॑ष्ठते। तस्य॒ प्राक् सा॒यम् अ॑वभृ॒थो -
 
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/02/namo_brahmaNe.md">
-<details open=""><summary><h5>नमो ब्रह्मणे ...{Loading}...</h5></summary>
+<details open><summary><h5>नमो ब्रह्मणे ...{Loading}...</h5></summary>
 
+(ॐ)  
 नमो॒ ब्रह्म॑णे॒+++(=वेदाय)+++, नमो॑ अस्त्व॒ग्नये॒  
 नमः॑ पृथि॒व्यै, नम॒ ओष॑धीभ्यः ।  
 नमो॑ वा॒चे, नमो॑ वा॒चस्पत॑ये॒,  
@@ -318,7 +432,8 @@ unicode_script = "devanagari"
 तस्मा॑त् स्वाध्या॒यो ऽध्ये॑त॒व्यो॑ - यय्ँय॑ड्क्र॒तुमधी॑ते॒ तेन॑ तेनास्ये॒ष्टं भ॑वत्य्, अ॒ग्नेर्वा॒योरा॑दि॒त्यस्य॒ सायु॑ज्यङ्गच्छति॒ तदे॒षाऽभ्यु॑क्ता -
 
 <div class="js_include" includetitle="true" newlevelforh1="3" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/brAhmaNam/sarva-prastutiH/02/brAhmaNa-vandanam.md">
-<details open=""><summary><h5>ये अर्वाङुत वा पुराणे ...{Loading}...</h5></summary>
+<details open><summary><h5>ये अर्वाङुत वा पुराणे ...{Loading}...</h5></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये अ॒र्वाङु॒त वा॑ पुरा॒णे  
 वे॒दव्ँ वि॒द्वाँस॑म् अ॒भितो॑ वदन्त्य्,  
@@ -328,6 +443,7 @@ unicode_script = "devanagari"
 याव॑ती॒र् वै दे॒वता॒स् - तास् सर्वा॑ वेद॒विदि॑ ब्राह्म॒णे व॑सन्ति।  
 तस्मा॑ ब्राह्म॒णेभ्यो॑ वेद॒-विद्भ्यो॑ दि॒वे-दि॑वे॒ नम॑स्-कुर्या॒त्।  
 नाश्ली॒लङ् की॑र्तयेत्। ए॒ता ए॒व दे॒वताः॑ प्रीणाति ।
+</details>
 </details>
 </div>
 </details>
@@ -343,10 +459,12 @@ unicode_script = "devanagari"
 त्रिरा॒त्रव्ँ वा॑ सावि॒त्रीङ् गा॑य॒त्रीम् अ॒न्वाति॑रेचयति।  
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/brAhmaNam/sarva-prastutiH/02/vara-prashaMsA.md">
-<details open=""><summary><h4>वरः ...{Loading}...</h4></summary>
+<details open><summary><h4>वरः ...{Loading}...</h4></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वरो॒+++(=महार्हो गौरिव)+++ दक्षि॑णा। वरे॑णै॒व वर२ꣳ॑+++(=श्रेष्ठं)+++ स्पृणोति+++(=प्रीणाति)+++।  
 आ॒त्मा हि वरः॑ +++(अत आत्मैव दत्तः)+++ । 
+</details>
 </details>
 </div>
 
@@ -385,9 +503,9 @@ unicode_script = "devanagari"
 </details>
 </div>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/02/22_2_dhruva-vandanam/">
-<details open><summary><h2>ध्रुव-वन्दनम् ...{Loading}...</h2></summary>
+<details open><summary><h2>२२-२ ध्रुव-वन्दनम् ...{Loading}...</h2></summary>
 
-{{&lt; figure src="http://en.es-static.us/upl/2010/06/precession_sky_chart_3751-e1336864495341.jpg"  class="thumbnail"&gt;}}
+{{< figure src="/jyotiSham/images/precession_sky_chart.jpg"  class="thumbnail">}}
 
 ध्रु॒वस्त्वम॑सि। ध्रु॒वस्य क्षि॑तमसि।
 
@@ -397,10 +515,10 @@ unicode_script = "devanagari"
 </details>
 </div>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/02/22_3_shiMshumAra-vandanam/">
-<details open><summary><h2>शिंशुमार-वन्दनम् ...{Loading}...</h2></summary>
+<details open><summary><h2>२२-३ शिंशुमार-वन्दनम् ...{Loading}...</h2></summary>
 
-{{&lt; figure src="../../images/dolphin.jpg"  class="thumbnail"&gt;}}
-{{&lt; figure src="../../images/precession_sky_chart.jpg"  class="thumbnail"&gt;}}
+{{< figure src="../../images/dolphin.jpg"  class="thumbnail">}}
+{{< figure src="../../images/precession_sky_chart.jpg"  class="thumbnail">}}
 
 यस्मै॒ नम॒स्  
 तच्छिरो॒ धर्मो॑ मू॒र्धानं॑  

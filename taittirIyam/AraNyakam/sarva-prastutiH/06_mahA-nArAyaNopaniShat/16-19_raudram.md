@@ -1,5 +1,6 @@
 +++
 title = "१६-१९ रौद्रम्"
+
 +++
 
 ## 16
@@ -13,7 +14,15 @@ title = "१६-१९ रौद्रम्"
 
 ## 17
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/17_kad_rudrAya.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/17_kad_rudrAya.md">
+<details open><summary><h5>१७ कद् रुद्राय ...{Loading}...</h5></summary>
+
+
+कद्रु॒द्राय॒ प्रचे॑तसे  
+मी॒ढुष्ट॑माय॒ तव्य॑से ।  
+वो॒चेम॒ शन्त॑मꣳ हृ॒दे ।  
+</details>
+</div>  
 
 
 सर्वो॒ ह्ये॑ष रु॒द्रस्  
