@@ -27,7 +27,7 @@ title = "०८ अभिश्रवणमन्त्राः"
 
 २. श्रीसूक्तम् (पु. २८) 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/khilam/2/06_shrI-sUktam/">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/khilam/2/06_shrI-sUktam/">
 <details open><summary><h2>०६ श्री-सूक्तम् ...{Loading}...</h2></summary>
 <details><summary>मानसतरङ्गिणीकृत्-परिचयः</summary>
 
