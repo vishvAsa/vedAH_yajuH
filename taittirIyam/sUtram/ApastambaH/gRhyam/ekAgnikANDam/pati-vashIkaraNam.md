@@ -124,7 +124,7 @@ ___________________
 
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/159/04_yenendro_haviShA.md">
-<details open=""><summary><h4>०४ येनेन्द्रो हविषा ...{Loading}...</h4></summary>
+<details open><summary><h4>०४ येनेन्द्रो हविषा ...{Loading}...</h4></summary>
 
 
 येनेन्द्रो॑ ह॒विषा॑ कृ॒त्व्यभ॑वद्द्यु॒म्न्यु॑त्त॒मः ।  
@@ -133,7 +133,7 @@ ___________________
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/174/04_yenendro_haviShA.md">
-<details open=""><summary><h4>०४ येनेन्द्रो हविषा ...{Loading}...</h4></summary>
+<details open><summary><h4>०४ येनेन्द्रो हविषा ...{Loading}...</h4></summary>
 
 
 येनेन्द्रो॑ ह॒विषा॑ कृ॒त्व्यभ॑वद्द्यु॒म्न्यु॑त्त॒मः ।  

@@ -27,7 +27,7 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhanirUpaNam/02_02_shamyAH_paridhyarthe.md">
 <details open><summary><h2>०२ ०२ शम्याः परिध्यर्थे ...{Loading}...</h2></summary>
 
-शम्याः परिध्यर्थे परिधिः - शम्याः परिध्यर्थे विवाह+उपनयन-समावर्तन-सीमन्त-चौल-गोदान-प्रायश्चित्तेषु २ +++(अथ परिधीन् परिदधाति। तत आघारसमिधौ।)+++
+शम्याः+++(=युगकीलाः)+++ परिध्यर्थे विवाह+उपनयन-समावर्तन-सीमन्त-चौल-गोदान-प्रायश्चित्तेषु २ +++(अथ परिधीन् परिदधाति। तत आघारसमिधौ।)+++
 
 </details>
 </div>

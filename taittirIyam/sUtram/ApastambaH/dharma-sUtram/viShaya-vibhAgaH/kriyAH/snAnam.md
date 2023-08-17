@@ -9,13 +9,13 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/07_sashirAvamajjanamapsu_varjayet.md">
 <details open><summary><h4>07 सशिरावमज्जनमप्सु वर्जयेत् ...{Loading}...</h4></summary>
 
-सशिरावमज्जनमप्सु वर्जयेत् ७
++++(नित्य-स्नाने स्नातकोचिते)+++ सशिरा वमज्जनम् अप्सु वर्जयेत् ७
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/08_astamite_cha_snAnam.md">
 <details open><summary><h4>08 अस्तमिते च स्नानम् ...{Loading}...</h4></summary>
 
-अस्तमिते च स्नानम् ८
+अस्तम् इते च स्नानम्  +++(वर्जयेत्)+++८
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/22/13_shanairapo-bhyaveyAdabhighnann_abhimukhamAdityamudakamupaspRshet.md">

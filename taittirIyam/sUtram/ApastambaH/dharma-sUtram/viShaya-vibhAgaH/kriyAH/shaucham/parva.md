@@ -10,13 +10,16 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/31/19_divAdityaH_sattvAni_gopAyati.md">
 <details open><summary><h4>19 दिवादित्यः सत्त्वानि गोपायति ...{Loading}...</h4></summary>
 
-दिवादित्यः सत्त्वानि गोपायति नक्तं चन्द्रमास्तस्मादमावास्यायां निशायां स्वाधीय आत्मनो गुप्तिमिच्छेत्प्रायत्य ब्रह्मचर्यकाले चर्यया च १९
+दिवादित्यः सत्त्वानि गोपायति,  
+नक्तं चन्द्रमास्,  
+तस्माद् अमावास्यायां निशायां स्वाधीय+++(=साधीय)+++ आत्मनो गुप्तिम् इच्छेत्  
+प्रायत्य-ब्रह्मचर्य-काले चर्यया च १९
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/31/20_saha_hyetAM_rAtriM.md">
 <details open><summary><h4>20 सह ह्येतां रात्रिं ...{Loading}...</h4></summary>
 
-सह ह्येतां रात्रिं सूर्याचन्द्रमसौ वसतः २०
+सह ह्य् एतां रात्रिं सूर्याचन्द्रमसौ वसतः २०
 </details>
 </div>
   

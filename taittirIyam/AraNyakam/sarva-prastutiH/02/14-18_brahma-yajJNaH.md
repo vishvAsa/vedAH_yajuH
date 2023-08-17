@@ -61,6 +61,7 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/02/namo_brahmaNe.md">
 <details open><summary><h3>नमो ब्रह्मणे ...{Loading}...</h3></summary>
 
+(ॐ)  
 नमो॒ ब्रह्म॑णे॒+++(=वेदाय)+++, नमो॑ अस्त्व॒ग्नये॒  
 नमः॑ पृथि॒व्यै, नम॒ ओष॑धीभ्यः ।  
 नमो॑ वा॒चे, नमो॑ वा॒चस्पत॑ये॒,  
@@ -99,6 +100,7 @@ unicode_script: devanagari
 
 <div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/brAhmaNam/sarva-prastutiH/02/brAhmaNa-vandanam.md">
 <details open><summary><h3>ये अर्वाङुत वा पुराणे ...{Loading}...</h3></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये अ॒र्वाङु॒त वा॑ पुरा॒णे  
 वे॒दव्ँ वि॒द्वाँस॑म् अ॒भितो॑ वदन्त्य्,  
@@ -108,5 +110,6 @@ unicode_script: devanagari
 याव॑ती॒र् वै दे॒वता॒स् - तास् सर्वा॑ वेद॒विदि॑ ब्राह्म॒णे व॑सन्ति।  
 तस्मा॑ ब्राह्म॒णेभ्यो॑ वेद॒-विद्भ्यो॑ दि॒वे-दि॑वे॒ नम॑स्-कुर्या॒त्।  
 नाश्ली॒लङ् की॑र्तयेत्। ए॒ता ए॒व दे॒वताः॑ प्रीणाति ।
+</details>
 </details>
 </div>

@@ -11,7 +11,7 @@ title = "१२ पुंसुवनम्"
 
 पुँसवनं व्यक्ते गर्भे तिष्येण ।
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/14_puMsuvanamasi.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/14_puMsuvanamasi.md">
 <details open><summary><h5>१४ पुंसुवनमसि ...{Loading}...</h5></summary>
 
 
@@ -268,7 +268,7 @@ title = "१२ पुंसुवनम्"
 
 अनाप्रीतेन शरावेणानुस्रोतसम् उदकम् आहृत्य, पत्तस् +++(=पादयोः)+++ तूर्यन्तीं +++(=ओषधिविशेषं)+++ निधाय, मूर्धञ् +शोष्यन्तीम् उत्तरेण यजुषा+++(आभिष्ट्वाहं दशभिरभिमृशामि)+++ ऽऽभिमृश्य+, एताभिर् अद्भिरुत्तराभिर्+++(यथैव सोमः पवते)+++ अवोक्षेत् ॥
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/15_AbhiShTvAhan_dashabhirabhimRshAmi.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/15_AbhiShTvAhan_dashabhirabhimRshAmi.md">
 <details open><summary><h5>१५ आभिष्ट्वाहन् दशभिरभिमृशामि ...{Loading}...</h5></summary>
 
 
@@ -276,7 +276,7 @@ title = "१२ पुंसुवनम्"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/16_yathaiva_somaH.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/16_yathaiva_somaH.md">
 <details open><summary><h5>१६ यथैव सोमः ...{Loading}...</h5></summary>
 
 ###### मन्त्रः
@@ -292,7 +292,7 @@ title = "१२ पुंसुवनम्"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/17_dasha_mAsAnChashayAno.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/17_dasha_mAsAnChashayAno.md">
 <details open><summary><h5>१७ दश मासाञ्छशयानो ...{Loading}...</h5></summary>
 
 
@@ -303,7 +303,7 @@ title = "१२ पुंसुवनम्"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/18_AyamanIryamayata_garbhamApo.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/18_AyamanIryamayata_garbhamApo.md">
 <details open><summary><h5>१८ आयमनीर्यमयत गर्भमापो ...{Loading}...</h5></summary>
 
 
@@ -377,7 +377,7 @@ title = "१२ पुंसुवनम्"
 
 यदि जरायु न पतेदेवंविहिताभिरेवाद्भिरुत्तराभ्यामवोक्षेत् ।
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/19_tilade-vapadyasva_na.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/19_tilade-vapadyasva_na.md">
 <details open><summary><h5>१९ तिलदेऽवपद्यस्व न ...{Loading}...</h5></summary>
 
 
@@ -385,7 +385,7 @@ title = "१२ पुंसुवनम्"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/20_sthavitryavapadyasva_na.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/20_sthavitryavapadyasva_na.md">
 <details open><summary><h5>२० स्थवित्र्यवपद्यस्व न ...{Loading}...</h5></summary>
 
 

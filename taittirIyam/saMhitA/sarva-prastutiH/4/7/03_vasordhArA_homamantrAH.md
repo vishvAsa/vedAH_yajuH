@@ -21,7 +21,7 @@ title = "०३ वसोर्धारा होममन्त्राः"
 शञ्च॑ मे॒  +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 ९ अथ चतुर्थाष्टके सप्तमप्रपाठके तृतीयोऽनुवाकः ।  
 तृतीयमाह— शं च म इति ।  
@@ -38,7 +38,7 @@ title = "०३ वसोर्धारा होममन्त्राः"
 मय॑श्च मे +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 मयःशब्द आमुष्मिकसुख वाची।  
 </details>
@@ -53,7 +53,7 @@ title = "०३ वसोर्धारा होममन्त्राः"
 प्रि॒यञ्च॑ मे +++(कल्पताम्)+++ ।
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 प्रियं प्रीतिकारणं वस्तु ।  
 </details>
@@ -68,7 +68,7 @@ title = "०३ वसोर्धारा होममन्त्राः"
 अ॒नु॒ का॒मश्च॑  मे॒  +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 अनुकामोऽनुकूलत्वनिमित्तेन काम्यमानः पदार्थः।  एतदुभयमैहिकामेव तारतम्योपेतम् ।  
 </details>
@@ -83,7 +83,7 @@ title = "०३ वसोर्धारा होममन्त्राः"
 काम॑श्च मे +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 काम आमुष्मिकः स्वर्गादिः ।  
 </details>
@@ -98,7 +98,7 @@ title = "०३ वसोर्धारा होममन्त्राः"
 सौ॒म॒न॒सश्च॑  मे +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 सौमनसो मनःस्वास्थ्य करो बन्धुवर्गः ।  
 </details>
@@ -113,7 +113,7 @@ title = "०३ वसोर्धारा होममन्त्राः"
 भ॒द्रञ्च॑ मे॒  +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 भद्रं कल्याणमिह लोके रमणीयम् ।  
 </details>
@@ -128,7 +128,7 @@ title = "०३ वसोर्धारा होममन्त्राः"
 श्रेय॑श्च मे॒  +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 श्रेय परलोकहितम् ।  
 </details>
@@ -143,7 +143,7 @@ title = "०३ वसोर्धारा होममन्त्राः"
 वस्य॑श्च मे॒  +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 वस्यो निवासहेतुर्गृहादिः ।  
 </details>
@@ -158,7 +158,7 @@ title = "०३ वसोर्धारा होममन्त्राः"
 यश॑श्च मे॒  +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 यशः कीर्तिः ।  
 </details>
@@ -173,7 +173,7 @@ title = "०३ वसोर्धारा होममन्त्राः"
 भग॑श्च मे॒  +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 भगः सौभाग्यम् ।  
 </details>
@@ -188,7 +188,7 @@ title = "०३ वसोर्धारा होममन्त्राः"
 द्रवि॑णञ्च मे +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 द्रविणं धनम् ।  
 </details>
@@ -203,7 +203,7 @@ title = "०३ वसोर्धारा होममन्त्राः"
 य॒न्ता च॑ मे +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 यन्ता नियामक आचार्यदिः ।  
 </details>
@@ -218,7 +218,7 @@ title = "०३ वसोर्धारा होममन्त्राः"
 ध॒र्ता च॑ मे॒  +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 धर्ता पोषकः पित्रादिः ।  
 </details>
@@ -233,7 +233,7 @@ title = "०३ वसोर्धारा होममन्त्राः"
 ख्षेम॑श्च मे॒  +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 क्षेमो  
 २२३० विद्यमानधनस्य रक्षणशक्तिः ।  
@@ -249,7 +249,7 @@ title = "०३ वसोर्धारा होममन्त्राः"
 धृति॑श्च मे॒  +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 घृतिर्धैर्यमापद्यपि निश्चलत्वम् ।  
 </details>
@@ -264,7 +264,7 @@ title = "०३ वसोर्धारा होममन्त्राः"
 विश्व॑ञ्च मे॒ +++(कल्पताम्)+++ ।   
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 विश्वं सर्वजना नुकूल्यम् ।  
 </details>
@@ -279,7 +279,7 @@ title = "०३ वसोर्धारा होममन्त्राः"
 मह॑श्च मे +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 महः पूजा ।  
 </details>
@@ -294,7 +294,7 @@ title = "०३ वसोर्धारा होममन्त्राः"
 स॒व्ँविच्च॑ मे॒  +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 संविद्वेदशास्त्रादिविज्ञानम् ।  
 </details>
@@ -309,7 +309,7 @@ title = "०३ वसोर्धारा होममन्त्राः"
 ज्ञात्र॑ञ्च मे॒  +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 शात्रं ज्ञापयितृत्वसामर्थ्यम् ।  
 </details>
@@ -324,7 +324,7 @@ title = "०३ वसोर्धारा होममन्त्राः"
 सूश्च॑ मे +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 सूः पुत्रादिप्रेरणसामर्थ्यम् ।  
 </details>
@@ -339,7 +339,7 @@ title = "०३ वसोर्धारा होममन्त्राः"
 प्र॒सूश्च॑ मे॒  +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 प्रसूर्भृत्यादिप्रेरणसामर्थ्यम् ।  
 </details>
@@ -354,7 +354,7 @@ title = "०३ वसोर्धारा होममन्त्राः"
 सीर॑ञ्च मे +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 सीरं लाङ्गलादिकृषि साधनसंपत्तिः ।  
 </details>
@@ -369,7 +369,7 @@ title = "०३ वसोर्धारा होममन्त्राः"
 ल॒यश्च॑ म +++(कल्पताम्)+++ ।
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 लयस्तत्प्रतिबन्धनिवृत्तिः ।  
 </details>
@@ -384,7 +384,7 @@ title = "०३ वसोर्धारा होममन्त्राः"
 ऋ॒तञ्च॑ मे॒ +++(कल्पताम्)+++ ।
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 ऋतं यज्ञादिकर्म ।  
 </details>
@@ -399,7 +399,7 @@ title = "०३ वसोर्धारा होममन्त्राः"
 अ॒मृत॑ञ्च मे +++(कल्पताम्)+++ ।
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 अमृतं तत्फलम् ।  
 </details>
@@ -414,7 +414,7 @@ title = "०३ वसोर्धारा होममन्त्राः"
 अ॒य॒ख्ष्मञ्च॒ मे +++(कल्पताम्)+++ ।
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 अयक्ष्मं राजयक्ष्मादिप्रबलव्याधिराहित्यम् ।  
 </details>
@@ -429,7 +429,7 @@ title = "०३ वसोर्धारा होममन्त्राः"
 अना॑मयच्च मे +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 अनामयज्ज्वराद्यल्पव्याधिराहित्यम् ।  
 </details>
@@ -444,7 +444,7 @@ title = "०३ वसोर्धारा होममन्त्राः"
 जी॒वातु॑श्च मे +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 जीवातुर्जीवनकारणं व्याधिपरिहारार्थमौषधम् ।  
 </details>
@@ -459,7 +459,7 @@ title = "०३ वसोर्धारा होममन्त्राः"
 दी॒र्घा॒यु॒त्वञ्च॑  मे +++(कल्पताम्)+++ ।
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 दीर्घायुत्वमपमृत्सुराहित्यम् ।  
 </details>
@@ -474,7 +474,7 @@ title = "०३ वसोर्धारा होममन्त्राः"
 अ॒न॒मि॒त्रञ्च॑ मे +++(कल्पताम्)+++ ।
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 अनमित्रं वैरिराहित्यम् ।  
 </details>
@@ -489,7 +489,7 @@ title = "०३ वसोर्धारा होममन्त्राः"
 अभ॑यञ्च मे +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 अभयं भयराहित्यम् ।  
 </details>
@@ -504,7 +504,7 @@ title = "०३ वसोर्धारा होममन्त्राः"
 सु॒गञ्च॑ मे॒  +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 सुगं शोभनगमनं सर्वैरङ्गीकृताचरणमित्यर्थः ।  
 </details>
@@ -519,7 +519,7 @@ title = "०३ वसोर्धारा होममन्त्राः"
 शय॑नञ्च मे +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 शयनं शय्योपधानदिसंपत्तिः ।  
 </details>
@@ -534,7 +534,7 @@ title = "०३ वसोर्धारा होममन्त्राः"
 सू॒षा च॑ मे +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 सूषा स्नानसंध्यावन्दनादियुक्तः शोभनः प्रातःकालः ।  
 </details>
@@ -549,7 +549,7 @@ title = "०३ वसोर्धारा होममन्त्राः"
 सु॒दिन॑ञ्च मे +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 सुदिनं यज्ञदानाध्ययनादियुक्तं कृत्स्नं दिनम् ॥  
 इति श्रीमत्सायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे कृष्णयजुर्वेदीयतैत्तिरीयसंहिताभाष्ये चतुर्थकाण्डे सप्तमप्रपाठके  तृतीयोऽनुवाकः ॥  

@@ -55,7 +55,7 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/27/21_AchArya_Rtvik_snAtako.md">
 <details open><summary><h4>21 आचार्य ऋत्विक् स्नातको ...{Loading}...</h4></summary>
 
-आचार्य ऋत्विक् स्नातको राजेति त्राणं +++(=दण्डनह्रासनम् "अहं वारयामीमम्" इति)+++ स्युरन्यत्र वध्यात् २१
+आचार्य, ऋत्विक्, स्नातको, राजेति त्राणं +++(=दण्डन-ह्रासनम् "अहं वारयामीमम्" इति)+++ स्युर् - अन्यत्र वध्यात् २१
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/28/12_adaNDyaH_kAmakRte_tathA.md">

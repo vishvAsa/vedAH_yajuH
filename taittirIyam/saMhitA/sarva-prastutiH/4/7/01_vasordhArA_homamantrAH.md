@@ -15,7 +15,7 @@ title = "०१ वसोर्धारा होममन्त्राः"
 अग्ना॑विष्णू स॒जोष॑से॒मा व॑र्धन्तु वा॒ङ्गिरः॑ । द्यु॒म्नैर्वाजे॑भि॒राग॑तम् ।
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 (अथ चतुर्थकाण्डे सप्तमः प्रपाठकः) (तत्र प्रथमोऽनुवाकः)
 यस्य निःश्वसितं वेदा यो वेदेभ्योऽखिलं जगत् ।  
@@ -47,7 +47,7 @@ title = "०१ वसोर्धारा होममन्त्राः"
 वाज॑श्च मे +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 तत्र प्रथमानुवाकपाठस्तु– वाजश्च म इति।  
 वाजोऽन्नम् ।  
@@ -65,7 +65,7 @@ title = "०१ वसोर्धारा होममन्त्राः"
 प्र॒स॒वश्च॑  मे॒  +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 प्रसवोऽन्नस्यानुज्ञानम् ।  
 </details>
@@ -80,7 +80,7 @@ title = "०१ वसोर्धारा होममन्त्राः"
 प्रय॑तिश्च मे॒  +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 प्रयतिः शुद्धिः ।
 </details>
@@ -95,7 +95,7 @@ title = "०१ वसोर्धारा होममन्त्राः"
 प्रसि॑तिश्च मे +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 प्रसितिर्बन्धनमन्नविषयकमौत्सुक्यम् ।   
 </details>
@@ -110,7 +110,7 @@ title = "०१ वसोर्धारा होममन्त्राः"
 धी॒तिश्च॑ मे॒  +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 धीतिरन्नधारणम् ।   
 </details>
@@ -125,7 +125,7 @@ title = "०१ वसोर्धारा होममन्त्राः"
 क्रतु॑श्च मे॒  +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 क्रतुरन्नहेतुर्यज्ञः ।   
 </details>
@@ -140,7 +140,7 @@ title = "०१ वसोर्धारा होममन्त्राः"
 स्वर॑श्च मे॒  +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 स्वरो मन्त्रगत उदात्तादिः ।   
 </details>
@@ -155,7 +155,7 @@ title = "०१ वसोर्धारा होममन्त्राः"
 श्लोक॑श्च मे +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 श्लोकः स्तुतिः ।   
 </details>
@@ -170,7 +170,7 @@ title = "०१ वसोर्धारा होममन्त्राः"
 श्रा॒वश्च॑ मे॒  +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 श्रावः श्रावयितृत्वसामर्थ्यम् ।   
 </details>
@@ -185,7 +185,7 @@ title = "०१ वसोर्धारा होममन्त्राः"
 श्रुति॑श्च मे॒  +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 श्रुतिः श्रवणसामर्थ्यम् ।   
 </details>
@@ -200,7 +200,7 @@ title = "०१ वसोर्धारा होममन्त्राः"
 ज्योति॑श्च मे॒  +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 ज्योतिः प्रकाशः ।   
 </details>
@@ -215,7 +215,7 @@ title = "०१ वसोर्धारा होममन्त्राः"
 सुव॑श्च मे +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 सुवः स्वर्गः ।   
 </details>
@@ -234,7 +234,7 @@ title = "०१ वसोर्धारा होममन्त्राः"
 व्या॒नश्च मे +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 प्राणापानव्याना वायुवृत्तिविशेषाः ।  
 असस्तद्वृत्तिमा *व्याममात्रिमिति भवितव्य ।  
@@ -250,7 +250,7 @@ title = "०१ वसोर्धारा होममन्त्राः"
 असु॑श्च मे +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 ७ न्वायुः ।   
 </details>
@@ -265,7 +265,7 @@ title = "०१ वसोर्धारा होममन्त्राः"
 चि॒त्तञ्च॑ मे॒  +++(कल्पताम्)+++ ।    
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 चित्तं मनोजन्यं ज्ञानय ।   
 </details>
@@ -280,7 +280,7 @@ title = "०१ वसोर्धारा होममन्त्राः"
 आधी॑तञ्च मे॒  +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 आधितं तेन ज्ञानेन सर्वदा विषयीकृतं द्रव्यम् ।
 </details>
@@ -301,7 +301,7 @@ title = "०१ वसोर्धारा होममन्त्राः"
 श्रोत्र॑ञ्च मे॒  +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 वागादयश्चत्वारः प्रसिद्धाः ।   
 </details>
@@ -316,7 +316,7 @@ title = "०१ वसोर्धारा होममन्त्राः"
 दख्ष॑श्च मे॒  +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 दक्षो ज्ञानेन्द्रियगतं कौशलम् ।   
 </details>
@@ -331,7 +331,7 @@ title = "०१ वसोर्धारा होममन्त्राः"
 बल॑ञ्च मे॒  +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 बलं कर्मेद्रियगतं सामर्थ्यम् ।   
 </details>
@@ -346,7 +346,7 @@ title = "०१ वसोर्धारा होममन्त्राः"
 ओज॑श्च मे॒  +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 ओजो बलहेतुरष्टमो धातुः ।   
 </details>
@@ -361,7 +361,7 @@ title = "०१ वसोर्धारा होममन्त्राः"
 सह॑श्च मे॒  +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 सहो वैरिविषयमभिभवितृत्वम् ।   
 </details>
@@ -376,7 +376,7 @@ title = "०१ वसोर्धारा होममन्त्राः"
 आयु॑श्च मे +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 आयुः प्रसिद्धम्।   
 </details>
@@ -391,7 +391,7 @@ title = "०१ वसोर्धारा होममन्त्राः"
 ज॒रा च॑ मे  +++(कल्पताम्)+++ ।
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 जराऽऽयुषो वलीपलितादिपर्यन्तत्वम् ।   
 </details>
@@ -406,7 +406,7 @@ title = "०१ वसोर्धारा होममन्त्राः"
 आ॒त्मा च॑ मे +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 आत्मा शास्त्रप्रसिद्धः परमात्मा ।  
 </details>
@@ -421,7 +421,7 @@ title = "०१ वसोर्धारा होममन्त्राः"
 त॒नूश्च॑ मे॒  +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 तनूः शोभनसंनिवेशं वपुः ।   
 </details>
@@ -436,7 +436,7 @@ title = "०१ वसोर्धारा होममन्त्राः"
 शर्म॑ च मे॒  +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 शर्म सुखम् ।   
 </details>
@@ -451,7 +451,7 @@ title = "०१ वसोर्धारा होममन्त्राः"
 वर्म॑ च॒ मे +++(कल्पताम्)+++ ।
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 वर्म शरीररक्षकं कवचादि ।   
 </details>
@@ -466,7 +466,7 @@ title = "०१ वसोर्धारा होममन्त्राः"
 अङ्गा॑नि च मे॒ +++(कल्पताम्)+++ ।
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 अङ्गानि संपूर्णावयवाः ।   
 </details>
@@ -481,7 +481,7 @@ title = "०१ वसोर्धारा होममन्त्राः"
 अ॒स्थानि॑  च मे॒  +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 अस्थानि यथास्थानं स्थितान्यस्थीनि ।   
 </details>
@@ -496,7 +496,7 @@ title = "०१ वसोर्धारा होममन्त्राः"
 परूꣳ॑षि च मे॒  +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 परूंषि अङ्गुल्यादिपर्वाणि ।   
 </details>
@@ -511,7 +511,7 @@ title = "०१ वसोर्धारा होममन्त्राः"
 शरी॑राणि च मे +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 शरीराणि पूर्वमनुक्ताः शरीरावयवाः ॥  
 

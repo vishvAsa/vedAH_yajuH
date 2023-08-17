@@ -19,7 +19,7 @@ title = "१० वसोर्धारा होममन्त्राः"
 गर्भा᳚श्च मे +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 (अथ चतुर्थकाण्डे सप्तमप्रपाठके दशमोऽनुवाकः)
 दशममाह– 		गर्भाश्च म इति ।  
@@ -36,7 +36,7 @@ title = "१० वसोर्धारा होममन्त्राः"
 व॒थ्साश्च॑ मे॒  +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 सार्धसंमत्सरो वत्सरूपः पुंगवख्यविः ।  
 </details>
@@ -53,7 +53,7 @@ title = "१० वसोर्धारा होममन्त्राः"
 त्र्य॒वी च॑ मे +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 तथाविधा गौस्त्र्यवी ।  
 </details>
@@ -68,7 +68,7 @@ title = "१० वसोर्धारा होममन्त्राः"
 दि॒त्य॒वाट्च॑ मे +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 द्विसंवत्सर ऋषभो दित्यवाट् ।  
 </details>
@@ -83,7 +83,7 @@ title = "१० वसोर्धारा होममन्त्राः"
 दि॒त्यौ॒ही च॑ मे॒  +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 तथाविधा गौर्दित्यौही ।  
 </details>
@@ -98,7 +98,7 @@ title = "१० वसोर्धारा होममन्त्राः"
 पञ्चा॑विश्च मे +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 सार्धद्विसंवत्सर क्रषभः पञ्चबिः ।  
 </details>
@@ -113,7 +113,7 @@ title = "१० वसोर्धारा होममन्त्राः"
 प॒ञ्चा॒वी च॑ मे +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 तश्चाविधा गौः पञ्चावी ।  
 </details>
@@ -128,7 +128,7 @@ title = "१० वसोर्धारा होममन्त्राः"
 त्रि॒व॒थ्सश्च॑  मे +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 संवत्सरत्रयोपेत ऋषभस्त्रिवत्सः ।  
 </details>
@@ -143,7 +143,7 @@ title = "१० वसोर्धारा होममन्त्राः"
 त्रि॒व॒थ्सा  च॑ मे +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 तथाविधा गौस्त्रिवत्सा ।  
 </details>
@@ -158,7 +158,7 @@ title = "१० वसोर्धारा होममन्त्राः"
 तु॒र्य॒वाट्च॑ मे +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 सार्धत्रिवत्सर ऋषभस्तुर्यवाट् ।  
 </details>
@@ -173,7 +173,7 @@ title = "१० वसोर्धारा होममन्त्राः"
 तु॒र्यौ॒ही च॑ मे +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 तथाविधा नौस्तुर्यौहि ।  
 </details>
@@ -188,7 +188,7 @@ title = "१० वसोर्धारा होममन्त्राः"
 प॒ष्ठ॒वाच्च॑  मे +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 चतुःसंवत्सर ऋषभः षष्ठवात् ।  
 </details>
@@ -203,7 +203,7 @@ title = "१० वसोर्धारा होममन्त्राः"
 प॒ष्ठौ॒ही च॑  मे +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 तथाविधा गौः पष्ठौही ।  
 </details>
@@ -218,7 +218,7 @@ title = "१० वसोर्धारा होममन्त्राः"
 उ॒ख्षा च॑ मे +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 सेचनसमर्थ ऋषभ उक्षा ।  
 </details>
@@ -233,7 +233,7 @@ title = "१० वसोर्धारा होममन्त्राः"
 व॒शा च॑  मे +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 वन्ध्या गौर्वशा ।  
 </details>
@@ -248,7 +248,7 @@ title = "१० वसोर्धारा होममन्त्राः"
 ऋ॒ष॒भश्च॑  मे +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 उक्ष्णोऽप्याधिकवयस्क ऋषभः।  
 </details>
@@ -263,7 +263,7 @@ title = "१० वसोर्धारा होममन्त्राः"
 वे॒हच्च मे +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 गर्भघातिनी गोर्वेहत् ।  
 </details>
@@ -278,7 +278,7 @@ title = "१० वसोर्धारा होममन्त्राः"
 अ॒न॒ड्वाञ्च॑ मे +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 शकटस्य वाहकोऽनड्वान् ।  
 </details>
@@ -293,7 +293,7 @@ title = "१० वसोर्धारा होममन्त्राः"
 धे॒नुश्च॑ मे॒  +++(कल्पताम्)+++ ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 नवप्रसूता गौर्धेनुः
 </details>
@@ -322,7 +322,7 @@ title = "१० वसोर्धारा होममन्त्राः"
 वाग्य॒ज्ञेन॑ कल्पताम् ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 आयुरादयः प्रसिद्धाः ।   
 </details>
@@ -337,7 +337,7 @@ title = "१० वसोर्धारा होममन्त्राः"
 आ॒त्मा य॒ज्ञेन॑ कल्पताम् ।  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 आत्मा शरीरम् ।  
 उक्ता आयुरादयो मदीयेन यज्ञेन कार्यक्षमा भवन्तु ।   
@@ -353,7 +353,7 @@ title = "१० वसोर्धारा होममन्त्राः"
 य॒ज्ञो य॒ज्ञेन॑ कल्पताम् ॥  
 </details>
 
-<details><summary>सायणटीका</summary>
+<details><summary>सायण-टीका</summary>
 
 यज्ञः करिष्यमाणोऽश्वगेधादिः ।  
 सोऽप्यनेनानुष्ठीयमानेन यज्ञेन स्वकार्यक्षमो भवतु ॥  

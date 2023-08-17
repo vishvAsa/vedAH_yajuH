@@ -170,7 +170,7 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/26/13_kAmamanyubhyAM_vA_juhuyAtkAmo-kArShInmanyurakArShIditi.md">
 <details open><summary><h4>13 काममन्युभ्यां वा जुहुयात्कामोऽकार्षीन्मन्युरकार्षीदिति ...{Loading}...</h4></summary>
 
-काममन्युभ्यां वा जुहुयात् -  
+काम-मन्युभ्यां वा जुहुयात् -  
 कामोऽकार्षीन् मन्युर् अकार्षीद् इति जपेद् वा १३
 </details>
 </div>

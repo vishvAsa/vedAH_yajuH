@@ -3,7 +3,57 @@ title = "०१.०८ सुमित्रा"
 
 +++
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/yajuH/sarva-prastutiH/06_mahA-nArAyaNopaniShat/01_08_sumitrA/sumitrA.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/yajuH/sarva-prastutiH/06_mahA-nArAyaNopaniShat/01_08_sumitrA/sumitrA.md">
+<details open><summary><h5>sumitrA ...{Loading}...</h5></summary>
+<details><summary>गोपालदेशिकोक्त-विनियोगः</summary>
+
+इत्यात्मानमभिषिच्य,
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
+
+सु॒मि॒त्रा न॒ आप॒ ओष॑धयस् सन्तु,
+</details>
+<details><summary>मूलम्</summary>
+
+सु॒मि॒त्रा न॒ आप॒ ओष॑धयस् सन्तु,
+</details>
+
+
+_________________
+<details><summary>गोपालदेशिकोक्त-विनियोगः</summary>
+
+इति जलं हस्ताभ्यां तीरे त्रिर्निक्षिप्य,
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
+
+दुर्मि॒त्रास् तस्मै॑ भूयासु॒र्  
+यो᳚ऽस्मान् द्वेष्टि॒ यञ् च॑ व॒यन् द्वि॒ष्मः ।
+</details>
+<details><summary>मूलम्</summary>
+
+दुर्मि॒त्रास् तस्मै॑ भूयासु॒र्  
+यो᳚ऽस्मान् द्वेष्टि॒ यञ् च॑ व॒यन् द्वि॒ष्मः ।
+</details>
+
+_________________
+<details><summary>गोपालदेशिकोक्त-विनियोगः</summary>
+
+इति तीर्थाधिदैवतं श्रियः पतिं प्रणम्य,
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
+
+नमो॒ऽग्नये᳚ऽफ्सु॒मते॒,  
+नम॒  इन्द्रा॑य॒,  
+नमो॒ वरु॑णाय॒,  
+नमो वारुण्यै॑,  
+नमो॒ऽद्भ्यः ।
+</details>
+<details><summary>मूलम्</summary>
+
+नमो॒ऽग्नये᳚ऽफ्सु॒मते॒, नम॒  इन्द्रा॑य॒, नमो॒ वरु॑णाय॒, नमो वारुण्यै॑, नमो॒ऽद्भ्यः ।
+</details>
+</details>
+</div>  
 
 
 ______________

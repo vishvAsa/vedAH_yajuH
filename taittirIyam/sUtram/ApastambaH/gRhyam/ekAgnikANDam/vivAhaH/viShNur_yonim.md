@@ -6,7 +6,7 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_13/01_viShNuryoninkalpayatu_tvaShTA.md">
 <details open><summary><h2>०१ विष्णुर्योनिङ्कल्पयतु त्वष्टा ...{Loading}...</h2></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/184/01_viShNuryoniM_kalpayatu.md">
-<details open=""><summary><h4>०१ विष्णुर्योनिं कल्पयतु ...{Loading}...</h4></summary>
+<details open><summary><h4>०१ विष्णुर्योनिं कल्पयतु ...{Loading}...</h4></summary>
 
 
 विष्णु॒र् योनि॑ङ् कल्पयतु॒  
@@ -21,7 +21,7 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_13/02_garbhandhehi_sinIvAli.md">
 <details open><summary><h2>०२ गर्भन्धेहि सिनीवालि ...{Loading}...</h2></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/184/02_garbhaM_dhehi.md">
-<details open=""><summary><h4>०२ गर्भं धेहि ...{Loading}...</h4></summary>
+<details open><summary><h4>०२ गर्भं धेहि ...{Loading}...</h4></summary>
 
 
 
@@ -37,7 +37,7 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_13/03_hiraNyayI_araNI.md">
 <details open><summary><h2>०३ हिरण्ययी अरणी ...{Loading}...</h2></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/184/03_hiraNyayI_araNI.md">
-<details open=""><summary><h4>०३ हिरण्ययी अरणी ...{Loading}...</h4></summary>
+<details open><summary><h4>०३ हिरण्ययी अरणी ...{Loading}...</h4></summary>
 
 
 हि॒र॒ण्ययी॑ अ॒रणी॒ यन्  

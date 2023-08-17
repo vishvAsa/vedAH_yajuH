@@ -1,5 +1,6 @@
 +++
 title = "सतीसर-विधिः"
+
 +++
 
 सन्ध्या विधि
@@ -147,7 +148,17 @@ title = "सतीसर-विधिः"
 ## उपस्थानम्
 (उपस्थान करना)
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/170/01_vibhrADbRhatpibatu_somyaM.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/170/01_vibhrADbRhatpibatu_somyaM.md">
+<details open><summary><h5>०१ विभ्राड्बृहत्पिबतु सोम्यं ...{Loading}...</h5></summary>
+
+
++++(सूर्यो)+++ वि॒भ्राड् बृ॒हत् पि॑बतु सो॒म्यं+++(=सोममयं)+++ मध्व्  
+आयु॒र् दध॑द् य॒ज्ञप॑ता॒व् अवि॑ह्रुतम्+++(=अकुटिलम्)+++ ।  
+वात॑-जूतो॒+++(=प्रेरितो)+++ यो अ॑भि॒रक्ष॑ति॒ त्मना॑ प्र॒जाः  
+पु॑पोष पुरु॒+++(=बहु)+++-धा वि रा॑जति ॥ १
+
+</details>
+</div>  
 
 (विष्णु का ध्यान करें। समयानुसार यहाँ वेदों की 16 ऋचायें पढ़े)  
 सहस्रशीर्षं च सहस्रनेत्रम्,  

@@ -42,10 +42,10 @@ title = "२१ आग्रयणस्थालीपाकः"
 
 "सोऽयम् एवं-विहित एवानाहिताग्नेर् औपासने" (आप.श्रौ.६-२८.) इति वचनात्,  
 
-&gt; पितृयज्ञं तु निर्वर्त्य  
-&gt; विप्रश् चन्द्र-क्षयेऽग्निमान् ।  
-&gt; पिण्डान्वाहार्यकं श्राद्धं  
-&gt; कुर्यान् मासानु-मासिकम् ॥ (म.स्मृ.३-१२२) 
+> पितृयज्ञं तु निर्वर्त्य  
+> विप्रश् चन्द्र-क्षयेऽग्निमान् ।  
+> पिण्डान्वाहार्यकं श्राद्धं  
+> कुर्यान् मासानु-मासिकम् ॥ (म.स्मृ.३-१२२) 
 
 इति मनुवचनाच् च ।  
 सर्वाधानिनोऽपि मासि-श्राद्धं होम-वर्जं कर्तव्यम् एव । 
@@ -78,7 +78,7 @@ title = "२१ आग्रयणस्थालीपाकः"
 +ओदन-पिण्डं संवृत्त्य +++(यथा+उत्क्षेपे न विशीर्येत)+++  
 +उत्तरेण यजुषा+++(प॒र॒मे॒ष्ठ्य् असि॑ पर॒मां मा॒ꣳ॒ श्रियं॑ गमय ।)+++ ऽऽगार-स्तूप उद्विद्धेत्+++(=उद्-विध्येत्)+++ ७  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/01_parameShThyasi_paramAm.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/01_parameShThyasi_paramAm.md">
 <details open><summary><h5>०१ परमेष्ठ्यसि परमाम् ...{Loading}...</h5></summary>
 
 

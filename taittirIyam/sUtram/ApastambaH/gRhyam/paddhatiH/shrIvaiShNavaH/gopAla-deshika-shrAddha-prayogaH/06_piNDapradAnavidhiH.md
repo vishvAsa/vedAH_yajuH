@@ -22,22 +22,24 @@ title = "०६ पिण्डप्रदानविधिः"
 ## मार्जनम्
 पूर्वेषु दर्भेषु -
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/02-04_mArjayantAm_mama_pitaraH.md">
-<details open=""><summary><h5>०२-०७ मार्जयन्ताम् मम ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/02-04_mArjayantAm_mama_pitaraH.md">
+<details open><summary><h2>०२-०७ मार्जयन्ताम् मम ...{Loading}...</h2></summary>
 
 
-मा॒र्जय॑न्तां॒ मम॑ पि॒तरो॑, मा॒र्जय॑न्तां॒ मम॑ पिताम॒हा मा॒र्जय॑न्तां॒ मम॑ प्रपिताम॒हाः ।
+मा॒र्जय॑न्तां॒ मम॑ पि॒तरो॑, मा॒र्जय॑न्तां॒ मम॑ पिताम॒हा मा॒र्जय॑न्तां॒ मम॑ प्रपिताम॒हाः ।  
+
 </details>
 </div>
 
 
 अपरेषु दर्भेषु -
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/05-07_mArjayantAm_mama_mAtaraH.md">
-<details open=""><summary><h5>०२-०७ मार्जयन्ताम् मम ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/05-07_mArjayantAm_mama_mAtaraH.md">
+<details open><summary><h2>०२-०७ मार्जयन्ताम् मम ...{Loading}...</h2></summary>
 
 
-मा॒र्जय॑न्तां॒ मम॑ मा॒तरो॑, मा॒र्जय॑न्तां॒ मम॑ पिताम॒ह्यो॑, मा॒र्जय॑न्तां॒ मम॑ प्रपिताम॒ह्यः॑ ।
+मा॒र्जय॑न्तां॒ मम॑ मा॒तरो॑, मा॒र्जय॑न्तां॒ मम॑ पिताम॒ह्यो॑, मा॒र्जय॑न्तां॒ मम॑ प्रपिताम॒ह्यः॑ ।  
+
 </details>
 </div>
 
@@ -48,7 +50,19 @@ title = "०६ पिण्डप्रदानविधिः"
 [[140]]
 
 ## पिण्ड-स्थापनम्
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/08-19_etatte_tatAsau.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/08-19_etatte_tatAsau.md">
+<details open><summary><h5>०८-१९ एतत्ते ततासौ ...{Loading}...</h5></summary>
+
+
+ए॒तत्ते॑ तताऽसौ॒+++(←नामनिर्देशः)+++, ये च॒ त्वाम् अनु॑ +++(जीवन्ति)+++।  
+ए॒तत्ते॑ पितामहाऽसौ॒+++(←नामनिर्देशः)+++, ये च॒ त्वाम् अनु॑ +++(जीवन्ति)+++।  
+ए॒तत्ते॑ प्रपितामहाऽसौ॒+++(←नामनिर्देशः)+++, ये च॒ त्वाम् अनु॑ +++(जीवन्ति)+++।  
+ए॒तत्ते॑ मातर् असौ॒+++(←नामनिर्देशः)+++, याश् च॒ त्वाम् अनु॑ +++(जीवन्ति)+++।  
+ए॒तत्ते॑ पितामह्य् असौ॒+++(←नामनिर्देशः)+++, याश् च॒ त्वाम् अनु॑ +++(जीवन्ति)+++।  
+ए॒तत्ते॑ प्रपितामह्य् असौ॒+++(←नामनिर्देशः)+++, याश् च॒ त्वाम् अनु॑ +++(जीवन्ति)+++।
+
+</details>
+</div>  
 
 
 पूर्वेषु
@@ -96,11 +110,12 @@ title = "०६ पिण्डप्रदानविधिः"
 
 पूर्वेषु दर्भेषु
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/02-04_mArjayantAm_mama_pitaraH.md">
-<details open=""><summary><h5>०२-०७ मार्जयन्ताम् मम ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/02-04_mArjayantAm_mama_pitaraH.md">
+<details open><summary><h2>०२-०७ मार्जयन्ताम् मम ...{Loading}...</h2></summary>
 
 
-मा॒र्जय॑न्तां॒ मम॑ पि॒तरो॑, मा॒र्जय॑न्तां॒ मम॑ पिताम॒हा मा॒र्जय॑न्तां॒ मम॑ प्रपिताम॒हाः ।
+मा॒र्जय॑न्तां॒ मम॑ पि॒तरो॑, मा॒र्जय॑न्तां॒ मम॑ पिताम॒हा मा॒र्जय॑न्तां॒ मम॑ प्रपिताम॒हाः ।  
+
 </details>
 </div>
 
@@ -110,11 +125,12 @@ title = "०६ पिण्डप्रदानविधिः"
 
 अपरेषु दर्भेषु -
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/05-07_mArjayantAm_mama_mAtaraH.md">
-<details open=""><summary><h5>०२-०७ मार्जयन्ताम् मम ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/05-07_mArjayantAm_mama_mAtaraH.md">
+<details open><summary><h2>०२-०७ मार्जयन्ताम् मम ...{Loading}...</h2></summary>
 
 
-मा॒र्जय॑न्तां॒ मम॑ मा॒तरो॑, मा॒र्जय॑न्तां॒ मम॑ पिताम॒ह्यो॑, मा॒र्जय॑न्तां॒ मम॑ प्रपिताम॒ह्यः॑ ।
+मा॒र्जय॑न्तां॒ मम॑ मा॒तरो॑, मा॒र्जय॑न्तां॒ मम॑ पिताम॒ह्यो॑, मा॒र्जय॑न्तां॒ मम॑ प्रपिताम॒ह्यः॑ ।  
+
 </details>
 </div>
 
