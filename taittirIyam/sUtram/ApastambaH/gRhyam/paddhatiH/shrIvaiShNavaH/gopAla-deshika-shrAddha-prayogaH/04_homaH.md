@@ -96,12 +96,10 @@ title = "०४ होमः"
 
 ### दर्वी-संस्कारः
 येन जुहोति, तद् अग्नौ प्रतितप्य, 
+जुहूम्  
 
-> जुहूम्  
-अग्रैर् अन्तर् अतो ऽभ्यागारं सर्वतो बिलम्  
-अभिसमाहारं प्राचीं  
-मध्ये+++(मध्यैः??)+++ प्रतीचीं  
-बाह्यतः मूलैः दण्डम् 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/02/04/05_vAcham_prANamiti_juhUmagrairantarato-bhyAkAram.md"  newLevelForH1="5" includeTitle="false"> </div>  
+ 
 
 इत्य्-आदि-प्रकारेण प्रत्येकं संमृज्य,  
 पुनः प्रतितप्य,  
