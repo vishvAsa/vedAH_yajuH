@@ -1454,7 +1454,13 @@ bahurUpI was archaic but popular para-vedic mantra used outside of core saMhitA 
 ## 47
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="47_IshAnas_sarvabhUtAnAm"></div>
+
+## 48-50
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="48-50_brahmam_etu_trisuparNAH"></div>
+
+## 51-57
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="51-57_vipApmA"></div>  
 
 
