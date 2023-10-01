@@ -5,7 +5,7 @@ title = "13 शनैरपोऽभ्यवेयादभिघ्नन्�
 
 <details><summary>Bühler</summary>
 
-13. He shall enter the water slowly, and bathe without beating it (with his hand), his face turned towards the sun.
+13. He shall enter the water slowly, and bathe without+++(??)+++ beating it (with his hand), his face turned towards the sun.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
