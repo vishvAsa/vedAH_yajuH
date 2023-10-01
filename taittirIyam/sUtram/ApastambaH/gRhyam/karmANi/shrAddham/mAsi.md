@@ -4,7 +4,7 @@ title: मासिश्राद्धम्
 unicode_script: devanagari
 
 ---
-अस्य विस्तारो [ऽत्र](../TippanI/mAsi/)।
+अस्य विस्तारो धर्मशास्त्रे [ऽत्र](/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/viShaya-vibhAgaH/kriyAH/arhaNam/shrAddham)।
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/24_mAsishrAddhaprakaraNam/21_01_mAsishrAddhasyAparapaxe.md">
 <details open><summary><h2>२१ ०१ मासिश्राद्धस्यापरपक्षे ...{Loading}...</h2></summary>

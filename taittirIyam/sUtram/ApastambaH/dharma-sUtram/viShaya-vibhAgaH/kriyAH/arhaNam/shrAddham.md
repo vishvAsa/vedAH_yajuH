@@ -449,7 +449,7 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/18/16_ubhayAnpashyati_brAhmaNAMshcha_bhunjAnAnmAne.md">
 <details open><summary><h4>16 उभयान्पश्यति ब्राह्मणांश्च भुञ्जानान्माने ...{Loading}...</h4></summary>
 
-उभयान्पश्यति ब्राह्मणांश्च भुञ्जानान्माने च पितृऋनित्युपदिशन्ति १६
+उभयान्पश्यति ब्राह्मणांश्च भुञ्जानान्माने च पितॄनित्युपदिशन्ति १६
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/18/17_kRtAkRtamata_Urdhvam.md">
