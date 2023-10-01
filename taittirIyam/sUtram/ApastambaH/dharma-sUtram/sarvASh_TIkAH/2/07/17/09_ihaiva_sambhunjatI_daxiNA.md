@@ -5,13 +5,13 @@ title = "09 इहैव सम्भुञ्जती दक्षिणा"
 
 <details><summary>Bühler</summary>
 
-9. The meaning (of the verse) is, that gifts which are eaten (and offered) mutually by relations, (and thus go) from one house to the other, peṛṣ in this world.
+9. The meaning (of the verse) is, that gifts which are eaten (and offered) mutually by relations, (and thus go) from one house to the other, perish in this world.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
 
 ## सूत्रम्
-इहैव सम्भुञ्जतीति दक्षिणा कुलात्कुलं विनश्यति ॥९॥  
+इहैव सम्भुञ्जतीति दक्षिणा कुलात् कुलं विनश्यति ॥९॥  
 ### प्रस्तावः
 तद्व्याचष्टे—  
 ## टिप्पनी
