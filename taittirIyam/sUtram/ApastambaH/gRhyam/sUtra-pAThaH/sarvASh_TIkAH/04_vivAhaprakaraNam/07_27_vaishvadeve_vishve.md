@@ -86,7 +86,20 @@ title = "०७ २७ वैश्वदेवे विश्वे"
 प्रकरणान्तरात् संज्ञा-भेदाच् च कर्म-भेदावगतेः ।  
 न च कर्मभेदे तेषां प्रयोगो दुरुपपाद  
 इति प्रमित-भेदापह्नवो युक्तः,  
-यतो भाष्ये वैश्वदेवस्य, तेषां च प्रयोगः पृथग् एवोपपादितः ॥
+यतो +++(कपर्दि??-)+++भाष्ये वैश्वदेवस्य, तेषां च प्रयोगः पृथग् एवोपपादितः ॥
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अत्रानुवादः - 
+
+प्रकरणान्तरात् संज्ञा-भेदाच् च कर्म-भेदावगतेः = due to understanding in difference in the karma-s based on  chapter/context -difference, name-difference.
+
+न च कर्मभेदे तेषां प्रयोगो दुरुपपाद  
+इति प्रमित-भेदापह्नवो युक्तः = not proper to hide the evidenced difference (in the karmas) by saying that the procedures are unclarifiable.
+
+भाष्ये वैश्वदेवस्य, तेषां च प्रयोगः पृथग् एवोपपादितः = the procedures are described separately in the bhAShya (अधुना नोपलभ्यते कपर्दिभाष्यम्। कारिकास् तु काश्चन लभ्यन्ते।  )
+</details>
+
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/sudarshana-sUriH/pancha-mahA-yajJNAH"  newLevelForH1="5" includeTitle="false"> </div>  
 
