@@ -140,7 +140,7 @@ Source: [TW](https://archive.org/details/apastambiya-apara-prayogah)
 
 Srimate Ranga Ramanuja Mahadesikaya Namaha Srimate Nigamanta Mahadesikaya Namaha Sri Ranganatha Divya Mani Padukabhyam Namaha
 
-Purva Prayoga
+## Purva Prayoga
 
 It is common knowledge that we hindu perform religious functions and rituals from the birth of a child. The functions and ceremonies are conducted and performed at the various stages of life at appropriate time till death and thereafter also upto the first death anniversary. After this annual ceremony is performed on the fafe in the month of death, in the relevant paksha, most of us perform these mechanically without knowing the real significance. If we know the significance we shall be able to know why we are doing it in the particular manner and take keen interest.
 
@@ -150,7 +150,7 @@ I deem it a great honour and privilege to be allotted the difficult task of subm
 
 While elaborating the manner of performing the function the vedic text has given with. The meaning and significance thereof have been clearly stated neither too elaborately nor very concisely. This is amply borne out by the preface in both sanskrit and tamil. Now let us appreciate and spot light the salient features.
 
-Paribasha परिभाषा
+## Paribasha परिभाषा
 
 This part explains how the performer should get himself ready to perform the function and what materials he should
 
@@ -177,7 +177,7 @@ The materials to be used the quality, size, quantity, length etc have been very 
 
 16
 
-Udagashanti
+## Udagashanti
 
 This is the first item to be observed during choula, punasuvanam, seemantham, upanayanam, marriage and other auspicious functions.
 
@@ -186,19 +186,19 @@ It is observed that in practice that the mantra starting with ब्रह्म
 It is noted that the mantra ³ etc are not uttered at the time of prasanam by Sri Vaishanavas (Smarthas chant this). The adorable author has recommended the ohanting of this which invokes the blessings of God against untimely death.
 
 
-Ankurarpanam
+## Ankurarpanam
 
 This ritual is conducted in marriage, choula, upanayana after guars. The seeds specified for the function are sown in five specially made earthern vessels and allowed to grow. This is intended to propitiate Brahma, Indra, Yama, Varuna and Soma. The seeds to be avoided, mantras to be chanted are indicated clearly, odd numbers of eligible ladies (sumangalis only) are asked to water the seeds.
 
-Raksha Bhandanam
+## Raksha Bhandanam
 
 Two different methods of observance are indicated. It is noted that while colouring the thread with wet turmeric powder, the mantra should be chanted.
 
-Nandi Sraddha
+## Nandi Sraddha
 
 This is known also as 34. It is intended to propitiate the forefathers in a special manner for seeking their blessings. Though it is called Sraddha it is to be performed with upavita only. Prachinavita is not indicated. The difference between 3 and has been clearly stated in page 23. Instead of gingely seeds (f) only yava (Rice Akshata) is used.
 
-Agnimukha Prayoga
+## Agnimukha Prayoga
 
 Agni pratishta is a very vital and important item in all our functions. The Agni kunta is to be surrounded in the four directions east, south, west and north by 16 darbhas (B). These are called paristharanas. To the north of the north paristharana 12 darbhas are to be kept with their ends pointing to the east. These are for keeping the vessels. It is generally noted that no Brahaspati adheres to the prescribed number of darbhas. This should be noted and followed hereafter.
 
@@ -213,15 +213,15 @@ note has been made regarding how parishechanam () (பரிசேஷனம்) 
 
 The "uparishtat thantra" and "parithrayodasatha" homa (पाहित्रयोदशक) have been described very lucidly.
 
-Garbhadhanam
+## Garbhadhanam
 
 The function of Thas become obsolete now owing to various changes in our society. Consequently priests have no opportunity to use the mantras. However, this portion is useful for reference.
 
-Pumsuvanam and Seemantham
+## Pumsuvanam and Seemantham
 
 The sequence of the various actions and the mantras to be chanted are clearly stated one after another from the start to finish. Seemanthannonayana follows Pumsavana starting with and the sequences are clearly explained. After the mantra portion is completed the part relating to veena ganam, the uttering the name of the holy river nearby, the couple going silently and touching the male calf are well mentioned. The silence is broken after uttering the "Vyahrutis".
 
-Jatakarma
+## Jatakarma
 
 This portion deals with the function of purifying the child with Vedic mantras anuvaka commencing with fear. The action to be done and relevant portions are explained. One of the items is that the mother keeps the child at her hips and feeds the child from her right breast while chanting the mantras माते कुमारम् and अयं कुमारः Perhaps this would avoid the need for bottle feeding.
 
@@ -234,11 +234,11 @@ The next topic is dealt with is "upanish kramanam" and "annaprasanam". The mantr
 
 with a special note that this an exception to the general principle that in the case of ladies mantras are not chanted. सर्वस्मात् आत्मनः is the mantra. Annaprasana mantras are only a few.
 
-Choulam
+## Choulam
 
 Choulam is described elaborately in these five pages. It is interesting to study the various mantras. Now a days choulam is not conducted as separate function. It is now performed as a part of upanayanam.
 
-Upanayanam
+## Upanayanam
 
 The function starts with udagashanti, ankurarpanam, rakshabandanam, abyudayam, punyaham and then upanayanam.
 
@@ -251,7 +251,7 @@ The Upanayana mantras and the procedure have been given very elaborately and luc
 
 The contents of page 90 and 91 till the end of palasa karma (பலாச கர்மா) has not been adequately explained in the Tamil version below and does not mention what palasa karma is.
 
-Prajapatyakanda Vrataupakarma and Utsarjana
+## Prajapatyakanda Vrataupakarma and Utsarjana
 
 The Prajapatyakandvata part of the rituals has been explained very nicely and clearly. In these pages the Vratotsarjanam has been clearly dealt with in page 94. It is mentioned that Matandhi () is boiled water. This expression for hot water has not been generally in use so far as known. This portion of the Tamil writeup is not found in the sanskrit portion. From ech: Terenci jufa in page 104 is not contained in the Tamil portion. This is likely to cause confusion in the minds of beginners and inexperienced.
 
@@ -259,20 +259,20 @@ Sowmyakanda Vrata, Ageneyakanda Vrata, Vaiswadeva Kanda Vrata has been exhaustiv
 
 Pages 106 to 118 containing the common tantra observances (ılcıfe Edici tur) and pages 119 to 124 containing समावर्तनम् (समान कर्मा) does not have any writeup or guiding notes in Tamil. The value of these pages 106 to 124 would have been doubly enhanced with the suitable writeup in Tamil. The reason for not providing the Tamil commentary writeup is not clear. The newly initiated and interesting learners have been denied the benefit.
 
-Marriage (उद्वाह )
+## Marriage (उद्वाह )
 
 Before bath the bridegroom has to perform Sankalpa, offer one , twice with Samanta Parishechana, perform upasthana chanting Agneya Mantra. He bathes silently and gets ready for the marriage. The sanskrit portion says that he wears two punals (3). But this point is not specified in the Tamil version.
 
 
-Jatakarma for the bride
+## Jatakarma for the bride
 
 The functions to be performed to get the bride ready for the marriage are: Jata Karana, Nama Karma, Upanishkramana, Annaprasana, Chuda Karma (f) etc are explained in page 125 and first half of page 126. This portion also sadly lacks Tamil commentary. The marriage function actually starts from this page commencing with exchange of Garlands between the bride and the bridegroom. In the context of Rakshabandhanam (Kankana dharanam) it has been clarified that both for the bride and bridegroom the same mantra "Brihat Sama" should be used. The thread is dipped in turmeric paste. The vadyar ties it on the varas right hand. Some utter the mantra "visvittade" which is not correct. The thread is tied on the left wrist of the girl by the groom while the vadyar utters the mantra "Brihat sama". As the Apasthamba does not specify any other mantra, the use of the same mantra is appropriate. It may be noted that the functions called Nischayatartam on the eve of the marriage day and Kashi yatra on the morning of the wedding day are not mentioned in the book presumably because they are only in the nature of social functions.
 
-Varapreshanam
+## Varapreshanam
 
 It is known that in practice Varapreshanam is done thrice by mentioning the three generations of both the sides viz father, grand father and the great-grand father of the boy and the girl. But in the text of the gothras and the name of the boy and the girl are only mentioned. The author opines that there is nothing wrong in the present practice. This difference is not known to many. In this context the name of the text referred to is "Grihya Ratna"
 
-The steps of Kanyadana
+## The steps of Kanyadana
 
 The father of the girl prepares himself for gifting the girl to the varan and offers to the varan considering him as the incarnation of Lord Vishnu.
 
@@ -297,7 +297,7 @@ girl's father. actice both the legs are simultaneously washed. This pot correct 
 
 7. The yoke or the miniature of a yoke that is kept on the head of the girl should have a hole through which water is to be poured chanting a This is the bathing of the girl with mantra. (Rikh)
 
-Mangalya Dharana
+## Mangalya Dharana
 
 The two slokas ‘‘माङ्गल्यं तन्तुनानेन", "मङ्गलं भगवान् विष्णुः” are prominently recited in Andhra Pradesh, Karnataka, Maharashtra etc. These are not heard being recited in the Sri Vaishnava Marriages. These are excellent slokas to shower blessings of the lord on the couple. Presentation of "Koorai Sari", Panigrahanam and Saptapadi have been exquisitely described. The priests should make the best use of this 3&T chapter. The
 
@@ -306,19 +306,19 @@ The two slokas ‘‘माङ्गल्यं तन्तुनानेन"
 
 laja-homa is described in page 149. It is mentioned that srivatsa gotra varan should perform three times and varans of other gotras should perform two times only.
 
-Pravisya Homa
+## Pravisya Homa
 
 At the end of this homa the boy and the girl are seated side by side. The boy sits on the northern side and the girl on the southern side. A male child (whose parents have not lost any child either before or after him) should be seated on the lap of the girl chanting the mantra somenadhitya (सोमेनादित्या) (see page 155) the child should be given fruits. This is also unheard of.
 
-Agneya Sthalipaka
+## Agneya Sthalipaka
 
 It seems that this is not in vogue. The author has explained this very well.
 
-Aupasana औपासन
+## Aupasana औपासन
 
 The performance of Aupasana is well explained from pages 159 to 161.
 
-Sesha Homa (शेष होम)
+## Sesha Homa (शेष होम)
 
 The reason why this is called Sesha Homa (the left over) Homa is explained in page 163 by the words Aupasana Sesha Homa : This is to be performed in the very early morning on 5th day of the marriage (see page 161) at 3: कालः
 
@@ -329,11 +329,11 @@ Now adays marriage are one day function of about 4 to 5 hours. The girl is seate
 
 girl's chest (with the ghee on his thumb) and then on his own chest. He utters the manthraf etc. Samanjanthu Dhidestuthow given at page 164. The Tamil portion for this is given at page 162 is not exact. The mantras for the marriage end with taking தாம்பூலம் and offering Paladana பலதானம்.
 
-Agneya Sthalipaka
+## Agneya Sthalipaka
 
 This does not seem to be observed by many and this name is not generally heard of.
 
-Griha Pravesam
+## Griha Pravesam
 
 This is the last section dealt within the book Purva Prayoga. The procedure for house building and grihapravesa is explained. As has been stated in the book itself, because of the trend of building land purchasing flats certain items cannot be followed. This can be followed only if individual own a house or constructed. There are mantras for Bhumi Puja and separate mantra for each pillar when it is erected.
 
@@ -346,7 +346,7 @@ It is noticed that a separate mantra is to be chanted if the muhurtam is in the 
 
 are given leave ie, sent Water in the kumbha is sprinkled in प्रदक्षिणा manner in the house three times uttering शिवं शिवं. The tamil rendering in page 172 states that the water should be poured in continuous RT (streak) without break three rounds. The function ends with an and you and asirvadam. This is the end of Purva Prayoga.
 
-Conclusion
+## Conclusion
 
 These days where sanskrit is not studied by many as it is not career building. In this world of competition and spiralling prices our boys are fully engaged in their respective occupations. Accordingly, many of us have no time, let alone interest in learning about vedas and rituals connected with our religious tradition. We cannot also blame our vadyars for having become more commercial and costly. It is a million dollar question how many youngsters will come forward with interest in taking this priest's profession (of vedic vadyar) as career. In these circumstances Shri ubhave Ganapati Swamigal's purva and apara prayoga books with vedic quotations, sutras and a Tamil writeup is a great boon to our society for the pamaras and priests alike. It is like a gentle rain dropping from heaven. It blesses the priests, the learners and those who desire to know. We are all bound to be immensely grateful to the learned author. The books are in fact (i) a mobile encyclopaedia, (ii) good reference books and (iii) valuable text books for learners. I wish that everyone should make good use of these volumes and become knowledgeable in the samskaras which are vital and which we are required to perform according to our tradition.
 
@@ -361,26 +361,26 @@ V R Srinivasan
 
 Srimate Ranga Ramanuja Mahadesikaya Namaha Srimate Nigamanta Mahadesikaya Namaha Sri Ranganatha Divya Mani Padukabhyam Namaha
 
-Apara Prayoga
+## Apara Prayoga
 
 Now we start the review to get a birds' eye view appreciation of the Apara Prayoga. Because of the inauspicious nature of the Karma and the sentiments, it is a subject shunned by the public at large. Most of the loukika public have little knowledge as the utterence of the word "Karma" is deemed as inauspicious. This subject has thus remained the exclusive domain of the Vadyars. The general feeling is that the Vadyars exploit the Karta taking advantage of this ignorance.
 
 Ganapati Sri U.Ve. Swami has made the subject easily understandable. If a religions function or karma is performed with a family with a good knowledge of why and what for, the satisfaction and dividend of beneficial results are high. The author has thus done us great favour by making the difficult easy to understand. This field being not too familiar, the reviewer is in the risk of either overstepping or making erroneous comments.
 
-Paribhasa (परिभाषा)
+## Paribhasa (परिभाषा)
 
 The first sloka "R" is itself pregnant with meaning and as serves an appropriate threshold to the subject matter. The paribasha portion given in the Purva prayoga is equally applicable to this Apara part also with difference or changes required for this part. A few such differences are mentioned below: The functions of the first ten days have to be done by the Karta wearing wet clothes and with the Prachinavita position of the holy-thread (y). The items lika achamana, pranayama and pradakshina should be performed only with upavita. Every rule has some exceptions. This rule also has a few exceptions which should be carefully noted and followed. When the dead-body is carried to the burning ghat, at three places pradakshina and apradakshina are prescribed. On this occasion even pradakshina should be made with prachinavita only.
 
 
-Jiva Prayaschita
+## Jiva Prayaschita
 
 This is a ceremony which a person can do it for himself when he is fit, well and sturdy. This comprises mantra snana, krichra, kaveri snana, dasa dana (10 gifts). The benefit is that the person will be able to take full bath in the river. If it has not been possible to do so, he can have it performed through his son as proxy. The Tamil write up in page 3 is incomplete and continued at page 5. The process is well explained.
 
-Utkranti "Go-danam" (CD)
+## Utkranti "Go-danam" (CD)
 
 It is evident that all these, if done when one is healthy, the benefits to be achieved will be enormous. But if not earlier, then it may be done when the death is shortly expected, by the son at the stage the breath is gurgling (making noise) at the throat. After the godana is done, prana mantra should be said in the right ear, keeping the head of the dying person (male or female) on the right lap of the son. The karnamantra should be followed by Dwaya, ie, ‘‘श्रीमन् नारायण चरणौ शरणं प्रपद्ये । श्रीमते नारायणाय नमः ॥
 
-Consuming to the fire (दहन)
+## Consuming to the fire (दहन)
 
 " The karta with his brothers and paternal cousins, takes bath in the river or tank in "prachinaviti" facing southern direction. He then wears "Thiruman" (urdva pundra) without Sri Churna. In sankalpa he says only तिथौ and does not say "शुभ" or "पुण्य' before Thithi. The pavitra is made of only one darbha. While doing achamana he should be in "upaviti". Then with prachinaviti tuft without knot (if he has a tuft) takes a pot of water and reaches home silently, with his veshti only (344). He should not wear angavastra or towel (उत्तरीय).
 
@@ -389,15 +389,15 @@ In practice ladies wash the dead body by pouring water. But as mentioned ‘“�
 (xx)
 
 
-Sri Churna Paripalanam
+## Sri Churna Paripalanam
 
 This is a special observance by Sri Vaishnavas. It has been mentioned that this is a function specified in the "Vriddha Haritha Smriti". The elderly Sri Vaishnava Swamigal present there are requested to initiate the function (3). The swamigals recite Azhwar's pasurangal i.e. Kovil Thiruvaimozhi. The kalasa sthapana japa etc., mentioned in the sruti is not followed. Turmeric powder prepared on the spot ponuding with wooden-ural and ulakkai (உரல், உலக்கை) is put in the thiruman which is already on the forehead of the corpse. In the cases of Sanyasis this is performed as specified in the smruti vide page 10 of part.
 
-Pretagni Sandhanam ப்ரேதாக்நி ஸந்தானம்
+## Pretagni Sandhanam ப்ரேதாக்நி ஸந்தானம்
 
 This being an it has been clearly stated at each stage, that the actions are to be done differently and in directions opposite to the . This should be carefully analysed and borne in mind. It has been stated that paristharanam is an exception. As will be seen in page 14, 3gp, anfaacu pranayamam has to be done in "upavitam". The position of in the various stages of religious function should be meticulously followed as the benefits depend on this. The Tamil portion in pages 11 and 12 should be studied and noted.
 
-Agni Nirnaya
+## Agni Nirnaya
 
 The names given to the various types of "Agnis", their significance, the occasions in which these are to be used are clearly specified from page 14. It is observed that the Tamil version on pages 13 and 14 are very helpful. The various Agnis are (i) pretagni, (ii) uttamagni, (iii) kapalagni and (iv) tushagni. In pages 15 to 18 the steps by which the above types of Agnis should be prepared are mentioned. The Tamil rendering is very useful. The store of information is very interesting even for the unfamiliar reader. The method of preparing the Tushagni is! surprising. "Yekarcha" vidhi is a separate method for unmarried girls and boys mentioned in page 19.
 
@@ -414,7 +414,7 @@ The prayaschittas continue, (xii) death by ladies in monthly period or during pr
 
 Our rishis and sages have thought of the possible doshas, picked up suitable vedic mantras and designed the tantras so that the soul will reach the Lord without any obstruction. It is the duty of the son to do the karma sincerely to help the soul of his parent to reach Vaikunta.
 
-Paithrumedikam
+## Paithrumedikam
 
 The procedure mentioned in pages 28 to 32 of the Tamil writeup is not observed in practice. After leaving the house the dead body is taken to the ghat without any stoppage. The further rites are conducted only in the ghat. The thumbs and toes are already tied soon after death. It is not done again. After chanting the mantra "T" (page 29) the new cloth is put on the dead body. It is not customary that the old cloth is taken by the karta and kept for use.
 
@@ -423,19 +423,19 @@ The procedure mentioned in pages 28 to 32 of the Tamil writeup is not observed i
 
 The practice of dividing the route to the ghat into four parts, repeating the process from times is not in vogue. In these days the municipal hearse car is used for carrying the body. All the rites are done at the ghat only.
 
-Chitikaranam
+## Chitikaranam
 
 This is regarding preparing the pyre. In towns and cities the pyre is prepared by the servants in the smashanam (Rudra Bhoomi). In Maharashtra and other northern parts where our population is limited, the pyre is prepared by the relatives and friends under the guidance of the priest. In the case of electric cremetorium the question does not arise.
 
-Agni pradanam and Anusamsanam
+## Agni pradanam and Anusamsanam
 
 After describing Agnipradanam (lighting the pyre), Anusamsanam () is described. The posture in which the karta should sit, the position of his hands, legs, as given is strange. ie, such as we do not generally adopt. The nine mantras to be chanted in udatta (ஸ்வரம்) only in continuous strain (page 37 Tamil portion) one after another. When the first "Rikh" is over, pranava is to be uttered with three matras (HET) and without break the first half of the second mantra should be chanted and then have a stop. Similarly the rest should be chanted (vide page 37 of Tamil and pages 46 & 47 of Sanskrit portion). Presumably because of the rigour in posture and utterance this part has dropped off by itself. It is not in vogue.
 
-Nagnaprachachadanam
+## Nagnaprachachadanam
 
 This is of the nature of Sraddha and is done Ama/Hiranya rupa. But chewing of neem leaves, using white mustard, using of gomayam is not in vogue (page 41 of Tamil portion).
 
-Nadi Thataka Kunda (நதீ தடாக குண்டம்)
+## Nadi Thataka Kunda (நதீ தடாக குண்டம்)
 
 Pashana sthapana and ekothra vrita are explained in these pages. There is an important note that the pashana (stones), vasudaka cloth, the vessel for water, the cooking vessel etc. should all be preserved very carefully. If any of them is lost
 
@@ -444,19 +444,19 @@ Pashana sthapana and ekothra vrita are explained in these pages. There is an imp
 
 or misplaced, the loss entails redoing the karma again from the first day. Obviously every one is careful in this respect and avoid loss or misplacement.
 
-Asthi Sanchayana
+## Asthi Sanchayana
 
 From this page the aligment between the Sanskrit and the Tamil portions has been restored. Asthi sanchayana is done on the day following the dahana. There is a note that the bones may be collected on the 3rd, 5th or 7th day. One cannot envisage for what reason this is to be delayed. All are very eager and anxious to collect the bones on the next day especially in the cities. The version saying fourth, sixth and eighth day is confusing. The procedure is clearly described. It is stated that in olden days ladies (who had reached menopause) who have passed the child-bearing stage used to be involved in picking bones. This practice has ceased. The pot of bones after chanting the mantras and doing the tantras is consigned to water chanting the mantra "Dada punatu" (Tamil page 64).
 
-Prabhuta Bali
+## Prabhuta Bali
 
 The offering of "Prabhuta Bali" is explained in page 71 and 72. After this, the karta disposes of the Bali and other items in the prescribed manner. He takes bath and gets ready for Skanta Homa. This is colloquially called "Ananda Homa".
 
-Shanti Homa
+## Shanti Homa
 
 The karta wears dried clothes, thiruman with srichurnam and pavitram made of two darbhas. It is practically not possible to procure the things mentioned in page 73 for this homa. Strangely one of the items is skin of a bull (see page 74). It is interesting that the ahuti should be performed through the stalk of the leaf used as "Dharvi". The Ananda Homa is described in pages 79 and 80.
 
-11th day rites (VENGET ETTE)
+## 11th day rites (एकादश अह्नि)
 
 On the 11th day the karta should take bath after 6 ghatikas of sunrise and perform the preliminaries such as stated at pages
 
@@ -467,13 +467,13 @@ I
 
 80 and 81. The vrishabothsarjanam is described in pages 80 and 81, it is said that the right ear of the male-calf chakra and in the left ear sankha should be drawn (written) with turmeric powder and sandal paste. Further the mantras "pisanga rupa" पिशङ्गरुपसुभरः is to be recited in its right ear and in the left ear "Tannas Turipa" is to be recited. It is to be worshipped with "Shodasoparchana" (16 upachanas) (page 82). The danas mentioned here are given during Ananda Homa of the 10th day function. The writing of chakra and shanka are not done.
 
-Adya Masikam
+## Adya Masikam
 
 This part deals with Adya masikam, Argya grahanam and conducting of the Shradda on the 11th day under 24 sub-headings. The clear description of each part should be studied closely and carefully. The performance of 11th day shradda being very important, it should be given due regard and attention.
 
 It is significant that "anna sesha" the balance of eatables should be thrown in water, in a river or tank. It is not specified whether it can be burried under earth if no river or tank available (see page 154 Tamil).
 
-12th day function
+## 12th day function
 
 The 12th day function is commonly spoken of as "Sapindi Karana". As purvanga, nithya karmanushtana is to be observed. Then Agni Sandana, Aaupasana, Pancha dasa (or shodasa) is performed. If convenient Panchadasa (Shodasa) may be first performed and then Agni Sandhanam Anupasana. The details are given at page 106. The sankalpa is given at page 107 and 108. The sapindikarana sraddha details start from page 109. Two slokas called Pithru gatha in Vishnupuranam are given in page 110. यूयं तेभ्योऽवसीदत''. These slokas are recommended for being recited not only on this occasion but also in Ts. This is not heard of and hence not familiar. The procedure for sapindikarana is described under the headings, "Varanam, pada prakshalanam, patra sandanam, ( ...
 
@@ -492,14 +492,14 @@ It will be noted the Sraddha portion is the same as for the annual ceremony with
 
 The rites regarding Pindapradana, Argya Samyojana, Treta Karanam, Danas, Pinda Samyojanam and list of items that may be given as dana in these pages.
 
-Brahmamedham
+## Brahmamedham
 
 
 (xxvii)
 
 It is specified that Brahmamedham can be performed only if the dead person, the karta and vadyar have studied the vedas in the system and are very desirous of reaching Purushottaman. The pitrumeda and brahmameda go hand in hand. For example, the karnamantra kriya should be first performed according to pitrumeda and immediately according to brahmameda also.
 
-Garbhini Samskara
+## Garbhini Samskara
 
 This part requires special attention and has to be studied carefully as this is a very delicate topic.
 
@@ -513,7 +513,7 @@ These pages deal with
 
 4. Prati Kriti Samskaram: (ff) As his won't the author swami has dealt with these topics also in a vivid manner with a view to educate the learners.
 
-Conclusion
+## Conclusion
 
 The book fulfils the long felt need of decades. As already stated these two books will serve as concise encyclopaedia, reference book, handy guide and text book for learners. These will bridge the gap between the karta, performer and the vadyars. The performaer will be able to take more interest and involve himself more closely with knowledge of the significance of what he is doing. While I am not competent to compliment on the astornding and amazing erudition of sri u bha ve Srinivasa Desikacharya Ganapatigal, I cannot but mention the same. The style adopted is simple and all the items explained in detail without being too elaborate or too short. The intricate ideas have
 
@@ -726,7 +726,7 @@ H-H
 
 
 
-आपस्तम्बीयोऽपरप्रयोगः
+## आपस्तम्बीयोऽपरप्रयोगः
 
 1
 
@@ -740,7 +740,7 @@ H-H
 
 அபரப்ரயோகம்
 
-1. LILITGNO¥
+## 1. LILITGNO¥
 
 பூர்வ ப்ரயோகத்தில் சொல்லப்பட்ட பரிபாஷா விஷயங்கள் யாவும் இங்கேயும் கொள்ளத் தக்கவை. சில இடங்களில் மாறுதல் ப்ரேத காரியங்களில். அதிலும் பத்தாவது தினம் பாஷாண உத்தாபனம் வரையில் எல்லாக் காரியங்களையும் ஈரத் துணியுடன்தான் செய்ய வேண்டும். ப்ரேத காரியங்களையும், பித்ரு காரியங்களையும் ப்ராசீநாவீதத்துடன் தான் செய்ய வேண்டும். அதிலும் அதற்குட்பட்ட ஆசமனம், ப்ராணாயாமம், ப்ரதக்ஷிணம், ப்ரணாமம் இவைகளை உபவீதத்துடன் செய்ய வேண்டும். ஓரிரு
 
@@ -759,18 +759,11 @@ H-H
 
 1
 
-2
-
-
-3
-
-जीव प्रायश्चित्तम्
-
 ततो रात्रिँरजायत॒ ततॅस्समुद्रो अर्णवः । समुद्रादर्णवा दधिँसंवथ्स॒रो ॲजायत । अहोरात्राणि विदधद्विश्वस्य मिषतोवशी सूर्याचन्द्रमस धाता यॅथा पूर्वमॅकल्पयत्। दिवॅञ्च पृथि॒वीञ्चा॒न्तरि॑क्षमथोसुवॅः। यत्पृ॑थि॒व्या रजॅस्स्वमान्तरिक्षे विरोदसी । इमाऽस्तदापो वरुणः पुनात्वॅघमर्षणः । एष भूतस्यँ भ॒व्ये भुवनस्य गोप्ता । एष पुण्य कृताँल्लोका नेषमृत्योहि॑र॒ण्मय॑म् ।
 
 द्यावॉ पृथि॒व्यो ह्ये॑ण्मय॒सऽत॒िसुवॅः ।। सन॒स्सुव॒स्सशिँशाधि। आर्द्रं ज्वलॅति ज्योति॑िरहमस्मि । ज्योतिर्ज्वलॅति ब्रह्माहमस्मि । योऽहमॅस्मि ब्रह्म॒ाहमॅस्मि। अ॒हमे॒वाह॑ माञ्जुहोमि॒स्वाहा॑ । अकार्य॒ कार्य॑वकीर्णीस्ते॒नो भ्रूणहा गुँरुतल्पगः। वरु॑णोऽपामँघमर्षण स्तस्मा॑त्पा॒ापात्प्रमुच्यते। र॒जोभूमि॑स्त्व॒मारोदॅयस्व प्रवे॑दन्ति॒धीरा॑ः। पु॒नन्तु॒ 4: पुनन्तु qúq: : ழிர் என்: g-|-440T: ||
 
-2. ஜீவ ப்ராயச்சித்தம்
+## 2. ஜீவ ப்ராயச்சித்தம்
 
 ஜீவ ப்ராயச்சித்தத்தில் மந்த்ர ஸ்னானம், க்ருச்ராசரணம், காவேரீ ஸ்னானம் இதற்கு அங்கமாக தசதானம். இவைகளை ஒருவன் தனக்குத் தானே செய்து கொள்ளலாம். அப்போது மந்த்ர ஸ்னானத்தைக் காட்டிலும் அவகாஹ ஸ்னானம் செய்து கொண்டும் செய்யலாம். அசக்தனாகில் மந்த்ர ஸ்னானத்தைச் செய்து தானே மற்றக் காரியங்களைச் செய்து கொள்ளலாம். விஷயத்தில் புத்ராதிகளும், செய்விக்கலாம். அதில் ஸ்னானமாவது கும்பத்தில் வருணனை ஆவாஹநம் செய்து, சன்னோ தேவீ:, ஆபோவாஇதம், த்ருபதாத், ஆபோஹிஷ்ட, அகமர்ஷண ஸூக்தம் இவைகளை ஜபித்து அல்லது ஜபிக்கச் சொல்லி, வருணனை உத்வாஸனம் செய்து ஒன்பது பாதங்கள் கொண்ட ஆபோஹிஷ்ட என்கிற மந்திரத்தை கால்-தலை-வயிறு, தலை-வயிறு-கால், வயிறு -கால்-தலை என்பதாக ஒவ்வொரு பாதமாகச் சொல்லி ப்ரோக்ஷிக்க வேண்டும். முடியாதவன் மந்த்ர
 
@@ -789,7 +782,7 @@ H-H
 
 अयं मन्त्र स्नान विधिः आवश्यके शरीर शुद्धयादिके सर्वत्र प्रयोज्यः ।।
 
-कृच्छ्राचरणम्
+## कृच्छ्राचरणम्
 
 प्रीत्यर्थं, गोत्रस्य शर्मणः मम पितुः प्राणानायम्य (गोत्राया नाम्या मम मातुः ) उपायानुष्ठाने अनुष्ठिते इति उपायानुष्ठान प्रभृति एतत्क्षण पर्यन्तं उपायानुष्ठानेऽननुष्ठिते सति जन्म प्रभृति एतत्क्षणपर्यन्तं बाल्ये वयसि कौमारे यौवने वार्धकेच जाग्रत्स्वप्न सुषुप्ति अवस्थासु मनोवाक्काय, कर्मेन्द्रिय ज्ञानेन्द्रियव्या पारैः ज्ञानतः, अज्ञानतश्च ...
 
@@ -800,11 +793,10 @@ C
 
 5
 
-जीव प्रायश्चित्तम्
 
 कृतानां सम्भावितानां, अभोज्य भक्षण, अपेय पान, अस्पृश्य स्पर्शन, अपाङ्गेय सहभोजनादिजनितानां भगवदपचार भागवतापचार, असह्यापचारादिरूपाणां सर्वेषां पापानां सद्यः अप नोदन द्वारा समस्त भगवन्निग्रह शान्त्यर्थं अब्द कृच्छ्राद्यनुष्ठानमपि मुख्यतः कर्तुमशक्तः प्राजापत्यकृच्छ्र प्रत्याम्नायत्वेन यत्किञ्चिद्धिरण्यदानं करिष्ये गर्भ + प्रयच्छमे गोत्रस्य शर्मणः मम पितुः उपायानुष्ठान प्रभृति + यत्किञ्चिद्धिरण्यं नाना गोत्रेभ्यः श्रीवैष्णवेभ्यस्तेभ्यस्तेभ्यस्सम्प्रददे” इति कृच्छ्रं चरित्वाब्राह्मणेभ्योदद्यात् ॥ हिरण्य —
 
-कावेरीस्नानम्
+## कावेरीस्नानम्
 
 गोत्रस्य ... शर्मणः मम पितुः कावेरीनानं मुख्यतः कारयितु मशक्तः, तत्प्रतिनिधित्वेन यत्किञ्चिद्धिरण्यदानं करिष्ये ।
 
@@ -825,7 +817,9 @@ C
 
 गोभूतिल हिरण्याज्य वासोधान्य गुलानिच । रौप्यं लवण मित्याहुर्दशदानान्यनुक्रमात् ॥ दशद्रव्यप्रत्याम्नायं यत्किञ्चिद्धिरण्यं नाना गोत्रेभ्यः श्री वैष्णवेभ्यः, तेभ्यस्तेभ्यः सम्प्रददे ॥ मुख्य कल्प दशदान विषय श्लोकाः सपिण्डीकरण प्रयोगे पिण्ड संयोजन प्रकरणे व्यक्ता भविष्यन्ति । "
 
-सालग्राम तीर्थं श्रीपाद तीर्थञ्च प्राशयेत् । अष्टाक्षरादिमन्त्रान् भगवद्विष्य श्रीसूक्तीः, द्राविड गाथाश्च यथाशक्ति श्रावयेत् । एतावत्पर्यन्तं मन्त्र स्नान (अवगाहस्नान) कृच्छ्रा चरण कावेरीस्नान दशदान पर्यन्तानि मुमूर्षुः पिता स्वयमेववा कुर्यात् । इतः परं विधीय मानं कर्मद्वयं मुमूर्षौ पितरि कण्ठगत प्राणेसति पुत्रादिरेव कुर्यात् । उत्क्रान्ति गोदानम्
+सालग्राम तीर्थं श्रीपाद तीर्थञ्च प्राशयेत् । अष्टाक्षरादिमन्त्रान् भगवद्विष्य श्रीसूक्तीः, द्राविड गाथाश्च यथाशक्ति श्रावयेत् । एतावत्पर्यन्तं मन्त्र स्नान (अवगाहस्नान) कृच्छ्रा चरण कावेरीस्नान दशदान पर्यन्तानि मुमूर्षुः पिता स्वयमेववा कुर्यात् । इतः परं विधीय मानं कर्मद्वयं मुमूर्षौ पितरि कण्ठगत प्राणेसति पुत्रादिरेव कुर्यात् । 
+
+## उत्क्रान्ति गोदानम्
 
 पुत्रः अन्यः सन्निहितबन्धुर्वासुहद्धा आचम्य प्राणानायम्य ... प्रीत्यर्थं .. गोत्रस्य ... शर्मणः मम पितुः प्राणानां सुखोत्क्रमण सिद्धयर्थं उत्क्रान्ति संज्ञक गोदानं करिष्ये । गो प्रतिनिधि यत्किञ्चिद्धिरण्यदानं वा करिष्ये।
 
@@ -835,10 +829,9 @@ C
 
 6
 
+तस्मादस्याः प्रदानेन अतः शान्तिं प्रयच्छ । हिरण्यगर्भ गर्भस्थं + प्रयच्छमे॥ मम पितुः (मातुः) प्राणानां सुखोत्क्रमण सिद्ध्यर्थं उत्क्रान्ति संज्ञकां इमांगां सवत्सां सदोहन पात्रां सदक्षिणाकां भगवत्प्रीतिं कामयमानः गोत्राय शर्मणे श्रीवैष्णवाय तुभ्यमहं सम्प्रददे । (उत्क्रान्ति संज्ञक गोप्रतिनिधिभूतं यत्किञ्चिद्धिरण्यंवा) 
 
-जीव प्रायश्चित्तम्
-
-तस्मादस्याः प्रदानेन अतः शान्तिं प्रयच्छ । हिरण्यगर्भ गर्भस्थं + प्रयच्छमे॥ मम पितुः (मातुः) प्राणानां सुखोत्क्रमण सिद्ध्यर्थं उत्क्रान्ति संज्ञकां इमांगां सवत्सां सदोहन पात्रां सदक्षिणाकां भगवत्प्रीतिं कामयमानः गोत्राय शर्मणे श्रीवैष्णवाय तुभ्यमहं सम्प्रददे । (उत्क्रान्ति संज्ञक गोप्रतिनिधिभूतं यत्किञ्चिद्धिरण्यंवा) कर्णमन्त्रः
+## कर्णमन्त्रः
 
 7
 
@@ -846,7 +839,7 @@ C
 
 आयुषः, प्राणं, सन्तँनु । प्राणात्, अपानं, सन्तँनु। अपानात्, व्या॒नं, सन्तॆनु। व्या॒नात्, चक्षुः, सन्तनु । चक्षुषः, श्रोत्रं, सन्तँनु। श्रोत्रा॑त्, मनॅः, सन्तँनु। मनॅसः, वाचें, सन्तँनु । वाचः, आत्मानं॑, सन्तँनु। आ॒त्मनॊः, पृथिवीं, सन्तनु । पृथि॒व्याः, अ॒न्तरि॑क्षं, सन्तनु । अ॒न्तरि॑क्षात्, दिवं, सन्तँनु । दिवॅः, सुवॅः, सन्तँनु॥ ।
 
-3. தஹந தின க்ருத்யம்
+## 3. தஹந தின க்ருத்யம்
 
 ஆரம்ப கார்யம்
 
@@ -859,7 +852,7 @@ C
 
 ## ०३. दहन-दिन-कृत्यम्
 
-(१) आरम्भकार्यम्
+### (१) आरम्भकार्यम्
 
 मृतेपितरि पुत्रः पुत्रौ पुत्रावा (सज्ञातिः) प्राचीनावीती नदीं तटाकं जलाशयं वा गत्वा दक्षिणाभिमुखः स्नात्वा उत्तीर्य उपवीती द्वादश – एकं वा श्वेत मृक्तिका पुण्ड्रमात्रं धृत्वा सन्ध्या मुपास्य (तत्रापि गायत्र्या दशवारमेव जपः) एक दर्भकृतपवित्रं धृत्वा प्राणानायम्य प्राचीनावीती श्रीगोविन्देत्यादि सङ्कल्प्य संवत्सरे, अयने, ऋतौ, मासे पक्षे तिथौ, वासरे नक्षत्रे योगे करणे, एवं गुणविशिष्टायामस्यां तिथौ (प्रेतकार्ये अस्यां शुभतिथौ इति वा, अस्यां पुण्यतिथौ इति वा नवक्तव्यं । तात्कालिक तिथि मुच्चारयेत् ) श्रीभगवदाज्ञया श्रीमन्नारायण प्रीत्यर्थं ( श्री भगवदाज्ञाकैमर्यं) ... गोत्रस्य, ... ... ... ... शर्मणः, मम, पितुः (गोत्राया ... नाम्न्याः मम मातुः ) पैतृमेधिक संस्कार कर्मणि और्ध्वंदैहिककर्मसु च मम योग्यता सिद्ध्यर्थं प्राजापत्य कृच्छ्रप्रत्याम्नायं यत्किञ्चिद्धिरण्यदानं करिष्ये। हिरण्यगर्भ गर्भस्थं+प्रयच्छमे।
 
@@ -869,9 +862,6 @@ C
 
 8
 
-
-दहनदिनकृत्यम्
-
 9
 
 पूर्वव दुक्त्वा यत्किञ्चिद्धिरण्यं श्रीवैष्णवाय सम्प्रददे । नमः, नमम अच्युतः प्रीयताम् ।।
@@ -880,13 +870,13 @@ C
 
 गत्वा हरिद्रा चूर्ण सहित स्रानं कृत्वा (अविस्रस्तकेशाः) गृहमागच्छेयुः । घृतादिभिः लिंगादीनि विशोध्य पादादि मूर्धान्तं शवं स्रापयेयुः । पुरुषाः शवस्य श्वेत मृत्तिकापुण्डू मात्रं धारयेयुः । श्रीचूर्ण परिपालनानन्तरं श्रीचूर्णमपिधारयेयुः ।
 
-(२) श्रीचूर्ण परिपालनम्
+### (२) श्रीचूर्णपरिपालनम्
 
 इदं श्रीचूर्णपरिपालनमपि स्मार्त कर्मैव । वृद्ध हारीत स्मृतौ षष्ठाध्याये दर्शनात्। तथापि तत्रोक्तोलूखलमुसल स्थापन मेवात्रापि दृश्यते । परन्तु तत्रोक्त कलशस्थापन वैदिकमन्त्रजपाः न क्रियते । अद्यापि कलशस्थापनं विना तत्रोक्तमन्त्र जपस्थाने द्राविडगाथा आल्वार् श्रीसूक्तयः पठ्यन्ते । तथाऽपि तत्प्रकार
 
 கோமயம் இவைகளைத் தொட்டு லிங்காதிகளைச் சுத்தம் செய்து ஸ்னானம் செய்விப்பார்கள்.
 
-2. ஸ்ரீ சூர்ண பரிபாலனம்
+### 2. ஸ்ரீ சூர்ண பரிபாலனம்
 
 கிருஹத்தின் வாசலில் நடுவில் ஜலத்தினால் சுத்தம் (ப்ரோக்ஷணம்) செய்யப்பட்ட இடத்தில் (இவ்விடங்களில் மூன்று இழை கோலம் கூடப் போடுவதுண்டு) உரல், உலக்கை இவைகளை வைத்து, உரலுக்குள் மஞ்சளைத் துகள் செய்வதற்காக வைத்து, ஸ்வாமிகளை ஸ்ரீ சூர்ண பரிபாலனம் ஸாதித்தருள வேணும் என்பதாகப் பிரார்த்திக்க வேண்டும். அவர்களும் தற்போதைய ஆசாரப்படி (வழக்கப்படி) ஆழ்வார் ஸ்ரீ ஸூக்திகளை ஸேவிப்பர்.
 
@@ -907,7 +897,7 @@ C
 
 அது முடிந்ததும் அந்த ஸ்ரீ சூர்ணத்தை எடுத்து ப்ரேதத்திற்கு இட வேண்டும். அதாவது ஸ்னானம் செய்வித்த பொழுதே திருமண் இடப்பட்டிருக்கும். இது (ஸ்ரீ சூர்ண பரிபாலனம்) முடிந்ததும் ஸ்ரீ சூர்ணத்தை இட வேண்டியது ஸம்பிரதாயம்.
 
-3. ப்ரேதாக்நி ஸந்தானம்
+### 3. ப்ரேதாக்நி ஸந்தானம்
 
 அனுஜ்ஞை, ஸங்கல்ப்பம். அக்நி ப்ரதிஷ்டை சுபங்களில் செய்யப்படுகிறதை இங்கு விபரீதமாக (அதாவது வடக்காக முடிக்கப்படுவதை தெற்காக முடிக்க வேண்டும்) செய்ய வேண்டும்.
 
@@ -920,7 +910,7 @@ C
 
 इमां गाथां गायेयुः । मुख्यतमः श्रीवैष्णवः मुसलेनो लूखलस्थितां हरिद्रां चूर्णी कुर्यात् । धूलितं तच्छ्रीचूर्णमादाय शवस्य श्वेत पुण्ड्रमध्ये समर्पयेत् || रेखांकुर्यात् ।। अध्यापकानां श्रीवैष्णवानां यथाशक्तिदक्षिणां समर्पयेत् ||
 
-(३) प्रेताग्नि सन्धानम्
+### (३) प्रेताग्निसन्धानम्
 
 प्रणम्य, प्राचीनावीती अशेषे + स्वीकृत्य गोत्रस्य शर्मणः ममपितुः प्रेतस्य (... गोत्रायाः नाम्याः मम मातुः प्रेतायाः अद्य .. अहनि पैतृमेधिक संस्कारार्थं प्रेताग्निसन्धानं कर्तुं योग्यता सिद्धिमनु गृहाण । उपवीती उपविश्य प्राणानायम्य प्राचीनाबीती सङ्कल्य... प्रीत्यर्थं गोत्रस्य + पैतृमेधिक पैतृमेधिक संस्कारार्थं प्रेताग्निसन्धानं करिष्ये। उपवीती सात्विकत्यागं कुर्यात् ।। ... ... ...
 
@@ -950,7 +940,7 @@ C
 
 ममपितुः औपासन विच्छेद प्रभृति प्राणवियोगकाल पर्यन्तं कर्तव्य, औपासन द्रव्य स्थालीपाक द्रव्य, आज्य द्रव्यकृच्छ्र द्रव्याणां प्रतिनिधित्वेन यत्किञ्चिद्धिरण्यदानं, करिष्ये । हिरण्यगर्भ गर्भस्थं + प्रयच्छमे ।
 
-4. அக்நி நிர்ணயம்
+### 4. அக்நி நிர்ணயம்
 
 ஆஹிதாக்னியை த்ரேதாக்னியினாலும், ஜீவித்திருக்கும் யதியினுடைய பார்யை, ஜீவித்திருக்கும் புருஷனுடைய பார்யை, பார்யை ஜீவித்திருக்கும் இவர்களை ஔபாஸனாக்னியினாலும், விதுரன் (மனைவியை இழந்தவன்), விதவை, ஸித்தி அடைந்த யதியின் பார்யை இவர்களை உத்தபனாக்னியினாலும் பிரம்மச்சாரியை கபாலாக்னியினாலும், விவாஹமாகாத கன்யை, உபநயனமாகாத பாலன் இவர்களை துஷாக்னியினாலும் ஸம்ஸ்காரம் செய்ய வேண்டும். கணவன்
 
@@ -965,7 +955,7 @@ C
 
 उपबीती प्राणानायम्य प्राचीनाबीती, पूर्वेयुः सायं, औपासनेन सह अद्यप्रातरौपासन होमं होष्यामि । अप्रदक्षिणं परिषिच्य। एकांसमिध माधाय हस्ते तण्डुल मादाय प्रोक्ष्य द्वेधा विभज्य दक्षिण हस्तस्थं तण्डुलं अ॒ग्नये॒ स्वाहा॑। अग्नये इदन्नमम। अन्यं भागं दक्षिणहस्ते, आदाय, अ॒ग्नये॑, स्वि॑ष्ट॒कृते॒स्वाहा॑। अग्नये स्विष्टकृते इदन्नमम । एकां समिधमाधाय । पुनः एकां समिधमाधाय। हस्ते तण्डुलमादाय । द्वेधा विभज्य दक्षिण हस्तस्थं सूर्याय स्वाहा। सूर्याय इदन्नमम । अग्नये स्विष्टकृते स्वाहा । अग्नमे स्विष्टकृते इदन्नमम एकां समिधमाधाय । समन्तमप्रदक्षिणं परिषिञ्चेत् । अस्मिन्नेवाग्नौ पैतृमेधिकंकुर्यात् ।।
 
-## ०४. अग्नि-निर्णयः
+### ०४. अग्नि-निर्णयः
 
 , आहिताग्नेः त्रेताग्निः, अनाहिताग्नेः औपासनाग्निः, यति भार्यायाः, यतौ जीबतिचेत् औपासनाग्निः, यतौ सिद्धिङ्गते चेत् उत्तपनाग्निः, तथा विधुर विधवयोः उत्तपनाग्निः ब्रह्मचारिणः कपालाग्निः, कन्याबालयोः, तुषाग्निः। अत्र कन्या शब्दः अनूढायाः स्त्रिया विषयः । एवं बालशब्दः. अनुपनीतस्य पुरुषस्यविषयः । अत्र “उत्तपनेनेतरान्' । इति आपस्तम्ब वचनात् विधुरविधवा बालकन्यानामुत्तपनाग्निः । तथापि बौधायनीये கொண்டிருக்கும்போது இருவரில் (6) ஒருவர்
 
@@ -982,7 +972,7 @@ C
 
 व्यक्तिभेदेन अग्नि भेदस्य उक्तत्वात् यथाऽऽचारं निर्णेतव्यः । कश्चित्प्रतिदिनं सायं प्रातरौपासनहोमं जुहोति तादृशस्य महापुरुषस्य मरणे तेनैवॊौपासनाग्निना संस्कारः कर्तव्यः । औपासनाग्नावनुगते पूर्वोक्त प्रकारेण प्रेताग्निसन्धानं कृत्वा तेनाग्निना कार्यः संस्कारः ॥
 
-## ०५. उत्तपनाग्नि-सन्धानम्
+### ०५. उत्तपनाग्नि-सन्धानम्
 
 प्रणम्य प्राचीनावीती, अशेषे + स्वीकृत्य गोत्रस्य शर्मणः ममपितुः प्रेतस्य (गोत्राया नाम्या मम मांतुः प्रेतायाः) पैतृ मेधिक संस्कारार्थं उत्तपनाग्नि सन्धानं कर्तुं योग्यता सिद्धिमनुगृहाण। उपवीती प्राणानायम्य। प्राचीनावीती | गोत्रस्य शर्मणः ममपितुः प्रेतस्य पैतृमेधिकसंस्कारार्थं उत्तपनाग्निसन्धानं करिष्ये ॥ दर्भेष्वग्निं समारोप्य पुनर्दर्भेषु संस्थितः । पुनर्मुष्टचन्तरारूढो वह्निरुत्तपनाह्वयः । इत्युक्त प्रकारेण मुष्टित्रय दहनात्सम्पादितोऽग्निः उत्तपनाग्निः । तमग्निमुत्पाद्य स्थण्डिलकल्पनादि प्रेताग्निसन्धानवत् दर्वी संस्कारान्तं कृत्वा, अप्रदक्षिणं परिषिच्य द्वादशगृहीतेनाज्येन जुहोति अयाॲ, अ॒ग्नेऽसिँ, अ॒न॒भि॒ शस्तीचॅ, स॒त्यमॅत्वं, अया अॅसि । असा, मनॅसा, धृतः, अ॒यसा॑, 5. உத்தபனாக்னி ஸந்தானம்
 
@@ -997,7 +987,7 @@ C
 
 ஹோமம் செய்ய வேண்டும். அதற்கு முடியாதவர்கள் நான்கு தடவை மட்டும் நெய்யை எடுத்துக் கொண்டு புருஷ ஸூக்தம் முழுவதையும் சொல்லி, ஒரே ஆஹுதியாகச் செய்யலாம். அநாஜ்ஞாத த்ரயம், வ்யாஹ்ருதி சதுஷ்டயம், பூர்ணாஹுதி இதுதான் உத்தபனாக்னி. இதைக் கொண்டு ஸம்ஸ்காரம் செய்ய வேண்டியர்களுக்குச் செய்யலாம்.
 
-6. கபாலாக்னி ஸந்தானம்
+### 6. கபாலாக்னி ஸந்தானம்
 
 அனுஜ்ஞை, ஸங்கல்ப்பம். மண் வாணலியை அக்நியில் காய்ச்சி, அதற்குள் கரித் தூளைப் போட்டு அந்தத் தூள் அக்நியாகக் கனிந்தவுடன் அதை விரட்டியில் சேர்த்து, விருத்தி செய்து ஹோமத்தைச் உத்தபனாக்னி ஸந்தானத்தில் சொல்லப்பட்ட செய்தால் அது கபாலாக்னி எனப்படும்.
 
@@ -1012,7 +1002,7 @@ C
 
 चक्षौः, ब्राह्मणो॑ऽस्य, मुखमासीत् । बाहू, राजन्य: कृतः । ऊरू, तदस्य, यद्वैश्यॅः। प॒द्भयां, शूद्रः, अ॒जा॑य॒त॒ स्वाहा॑ । च॒न्द्रमा॑ः, मनॅसः, जा॒तः। सूर्य॑ः, अ॒जा॒ाय॒त। मुखा॑त्, इन्द्र॒श्च, अ॒ग्निश् । प्रा॒णात्, वायुः, अ॒जा॒ाय॒त॒ स्वाहा॑। नाभ्या॑ः, आ॒सी॒ीत्, अ॒न्तरि॑क्षम् । शीर्ष्णः, द्यौः, समँवर्तत। प॒द्भ्यां, भूमिँः, दिशॅः, श्रोत्रा॑त् । तथॉलो॒कान्, अ॒क॒ल्प॒य॒न् स्वाहा॑ वेद॒दा॒हं, ए॒तं, पुरु॑षं, म॒हान्त॑म्। आ॒दि॒त्यवॅर्णं, तस॒स्तु, पारे। सर्वांणि, रूपाणि, विचित्ī, धीरॅः। नामॉनि कृत्वा, अभिवदन्, यदास्ते॑ स्वाहा॑ पु॒रस्ता॑त्, यमुॅदाज॒हारॆ । श॒क्रः, प्रवि॒िद्वान्, प्रदिशः, चतॅस्रः । तमे॒वं, वि॒द्वान्, अ॒मृते॑ इ॒ह, भवति॒। नान्यः पन्था॑ः, अयॅनाय, वि॒िद्य॒ते, स्वाहा॑ य॒ज्ञेनँ, यज्ञं, अयजन्त, देवाः। तानिँ, धमाँणि, प्रथमानिँ, आसन् । तेनाकै, धा॒ता, " "
 
-7. துஷாக்னி ஸந்தானம்
+### 7. துஷாக்னி ஸந்தானம்
 
 அனுஜ்ஞை, ஸங்கல்ப்பம். மண் வாணலிய்ை அக்நியில் காய்ச்சி, அதற்குள் உமியைச் சேர்த்து, அந்த உமி அக்நியாகக் கனிந்தவுடன் அந்த அக்நியை விரட்டியில் சேர்த்து விருத்தி செய்து, உத்தபனாக்னி-ஸந்தான ஹோமத்தைச் செய்து அந்த அக்நியினால் ஸம்ஸ்காரம் செய்ய வேண்டியவர்களுக்கு உபயோகித்துக் கொள்ள வேண்டும்.
 
@@ -1025,15 +1015,15 @@ C
 
 अथवा चतुर्गृहीतं गृहीत्वा पुरुषसूक्तं समग्रमुक्त्ता अन्ते सन्तँदे॒वास्स्वाहा॑ इत्येकामाहुतिं वा जुहुयात् ॥ अनाज्ञातादित्रयं, भूरादि चतुष्टयञ्चहुत्वाऽप्रदक्षिणं परिषिञ्चेत् । अनेनाग्निनासंस्कुर्यात् ।।
 
-## ०६. कपालाग्नि-सन्धानम्
+### ०६. कपालाग्नि-सन्धानम्
 
 गोत्रस्य शर्मणः अस्य पैतृमेधिक संस्कारार्थं कपालाग्निमुत्पादयितुं कपालाग्निमुत्पादयिष्ये। मृच्छारावं अग्नौ निष्टप्य तस्मिन्करीष शकलान् क्षिप्त्व करिषो यदाज्वलति तदा गोमयशुष्कान् करीषेषु प्रक्षिप्य अग्निं वृद्धीकृत्य तस्मिन्नन्नौ उत्तपनाग्नि सन्धाने विहितान् होमान् हुत्वा तेनाग्निना पैतृमेधिक विधिना ब्रह्मचारिणं दहेत् ।।
 
-## ०७. तुषाग्नि-सन्धानम्
+### ०७. तुषाग्नि-सन्धानम्
 
 अमुकस्य, अमुकायावा दहन संस्कारार्थं तुषाग्निमुत्पादयितुं तुषाऽग्निमुत्पादयिष्ये।
 
-8. தேசாந்தரம் சென்றுள்ள மனைவி-கணவன் இவர்களின் மரணத்தில் ப்ராயச்சித்தம்
+### 8. தேசாந்தரம் சென்றுள்ள மனைவி-கணவன் இவர்களின் மரணத்தில் ப்ராயச்சித்தம்
 
 ஸங்கல்ப்பம் ப்ரேதாக்னி ஸந்தானத்திற்கு அனுஜ்ஞை, இவைகளைச் செய்து, க்ரமமாக, “அயாச்ச ஹோமம் ஆனதும் சதுர் க்ருஹீதத்தினால் “ஸப்ததே அக்னே'' ஸப்த வ்யாஹ்ருதி ஹோமம், பூர்வம் தேவா:, ப்ராணாபாநௌ, மாத்வா விருக்ஷெள, மாத்வா விருக்ஷெள, அக்னேப்யாவர்த்திந், அக்நே அங்கிர:, புநரூர்ஜா, ஸஹரய்யா, அநாஜ்ஞாத த்ரயம் வ்யாஹ்ருதி சதுஷ்டயம், பூர்ணாஹுதி, பரிஷேசனம், ஔபாஸன த்ரவ்ய தானம், ஔபாஸன ஹோமம்.
 
@@ -1048,7 +1038,7 @@ C
 
 कन्याबालौ एकर्चविधिना दहेत् ॥ सविधिरनुबन्धे लिखिष्यते ॥
 
-## ०८. प्रोषित-भार्या-भर्तृक-प्रायश्चित्तम्
+### ०८. प्रोषित-भार्या-भर्तृक-प्रायश्चित्तम्
 
 " " प्रोषित भार्यस्य प्रोषित भर्तृकायावामरणे प्रेताग्निसन्धानं करिष्ये इति अनुज्ञापूर्वकं सङ्कल्प्य यथाक्रमं, अयाश्चेति होमान्तंहुत्वा, चतुर्गृहीतेन, स॒प्तते॑, अ॒ग्ने॒, स॒मिधॊः, स॒प्त जिह्वाः, सप्तर्षयः, सप्तधामॅ, प्रियाणि। स॒प्तहोत्रा॑ः स॒प्त॒धात्वा॑ य॒ज॒न्त, स॒प्त योनी॑ः, आपृ॑णस्व, घृ॒तेन॒ स्वाहा॑ । अग्नये सप्तवते इदन्नमम। ओं भूः स्वाहा॑ अग्नये, इदन्नमम। ओं भुवः स्वाहा॑। वायवे, इ॒द॒न्न॒म॒म। ओसुव॒स्स्वाहा॑ सूर्याय, इदन्नमम। ओं मह॒स्स्वाहा॑। ब्रह्मणे इ॒द॒न्न॒मम | ओं ज॒न॒स्स्वाहा॑ । वरुणाय इदन्नमम। ओं तप॒स्स्वाहा॑। इन्द्राय, इद॒न्न॒मम, ओं स॒त्यम् स्वाहा॑। वि॒श्वेभ्यः॑ दे॒वेभ्यः॒ इदन्नमम । पूर्वंन्देवा:, अपरेण, अनुपश्यॅन्, जन्मॅभिः । जन्मा॑नि, अवरैः, परॉणि। वेदॉनि देवाः, अयं, अ॒स्मीति, माम्। अ॒हं, हि॒त्वा, शरीरं, ज॒रसॅः, प॒रस्ता॑त्, स्वाहा॑। देवेभ्यः॒ इदन्नमम। 9. ரஜஸ்வலை, ப்ரஸவித்தவள் இவர்களின் >
 
@@ -1063,7 +1053,7 @@ C
 
 இதுவரை எல்லாமே சதுர்க்ருஹீதம். ப்ராயச்சித்த ஹோமத்திற்காக அநாஜ்நாதத்ரயம்-வ்யாஹ்ருதி சதுஷ்டயம் ஒளபாஸன த்ரவ்ய தானம், ஔபாஸன ஹோமம். Him .
 
-10. பர்யுஷித ப்ராயச்சித்தம்
+### 10. பர்யுஷித ப்ராயச்சித்தம்
 
 மரணத்திற்கும் தஹநத்திற்கும் 25 நாழிகை (அதாவது 10 மணி) இடைவெளி ஏற்படுமாகில் பர்யுஷித ப்ராயச்சித்தம் செய்ய வேண்டும். அவ்விதம் விடியற்காலையில் "பிராம்ம முஹுர்த்தம்' என்று சொல்லப்படுகிற (விடியற்காலை 4 மணி அளவில்) நேரத்திற்கு முன்னதாக மரணம் ஸம்பவித்திருக்குமாகில் மேலே குறிப்பிட்டுள்ள இடைவெளிக்கு முன்பாகவே ஸம்ஸ்காரம் நடக்குமாகிலும் பர்யுஷித ப்ராயச்சித்தம் உண்டு. ஸங்கல்ப்பம், கிருச்ரத்ரயம், பஞ்சகவ்ய ஸம்மேளனம் செய்து, தொன்னை ஜலத்தில் 'பவமாந:' என்கிற அநுவாகத்தை ஜபித்து எடுத்துக் கொண்டு பஞ்ச கவ்யத்தினால் சவத்தை நன்றாக நனைத்து பவமாந
 
@@ -1074,7 +1064,7 @@ C
 
 21
 
-## ०९. रजस्वला-सूतिका-भर्तृ-मरण-प्रायश्चित्तम्
+### ०९. रजस्वला-सूतिका-भर्तृ-मरण-प्रायश्चित्तम्
 
 ‘‘म्रियमाणस्य चेद्भार्या सूतिकर्तुमतीतुवा । दुर्गां मनस्वतीं हुत्वा ततस्तन्तुमतीमृचम् । उद्बुध्यस्व त्रयस्त्रिंश द्वयाहृत्याच समस्तया । व्याहत्या त्रिरनाज्ञातं महाव्याहृतिभिस्तथा । अप पाप्मानमिति द्वाभ्यां जुहुयाच्च विशेषतः । हुत्वा चतुर्गृहीतेन सर्पिषाऽथास्य संस्क्रिया |
 
@@ -1082,7 +1072,7 @@ C
 
 " जा॒तवे॑दसे, सु॒न॒वा॒ाम॒, सोम॑, अ॒रातीय॒तः, निहाति (निजॅहाति) वेदॅः। सनॅः पर्षत्, अतिँ दुर्गाणि, विश्वा॑ नि॒वेबॅ, सिन्धु॑, दुरि॒तात्य॒ग्निः स्वाहा॑। अग्नये जातवेदसे इदन्नमम । मनोज्योतिँ;, जुषंतां, आज्यं, विच्छिन्नं, य॒ज्ञं, समि॒मं, धातु । याइष्टाः, उषसॅः, निम्रुचॆश्च, तास्सन्दॆधामि, ह॒विषा॑, घृ॒तेन॒ स्वाहा॑। मनसे, ज्योतिषे इदन्नमम | तन्तुं, त॒न्वन्, रजॅसः, भानुं, अन्विँहि, ज्योतिष्मतः, प॒थो रॅक्ष, धि॒याकृतान्। अनुल्व॒णं, व॒यत॒, செய்வித்து, மந்திர ஜலத்தினால் அபிஷேகம் அக்நியில் (அப்ரதக்ஷிண பரிஷேசனம்) யமோ தாதார, உசந்த:, விச்வேதேவஸ்ய, வ்யாஹ்ருதி சதுஷ்டயம் இந்த ஏழு ஆஹுதிகளையும் திலத்தினால் ஹோமம் செய்து அப்ரதக்ஷிண பரிஷேசனம் செய்ய வேண்டும்.
 
-11. மரண சமயத்தில் பயத்தினால் மூத்திரம், மலம் இவைகளை விட்டிருந்தாலும், இயற்கையினாலேயே வியாதியினால் துர்நாற்றம் எடுக்கப்பட்டிருந்தாலும் அதற்கான பிராயச்சித்தம்
+### 11. மரண சமயத்தில் பயத்தினால் மூத்திரம், மலம் இவைகளை விட்டிருந்தாலும், இயற்கையினாலேயே வியாதியினால் துர்நாற்றம் எடுக்கப்பட்டிருந்தாலும் அதற்கான பிராயச்சித்தம்
 
 பசும் சாணி ஜலத்தினால் ஸ்னானம் செய்வித்து நல்ல ஜலத்தினால் அலம்ப, சந்தன ஜலத்தினால் தெளிக்கப்பட்டு இதற்குப்
 
@@ -1093,7 +1083,7 @@ C
 
 பிராயச்சித்தமாக கோதானம் க்ருச்ரங்களையும் செய்து கர்மாவைத் தொடர வேண்டும்.
 
-12. தக்ஷிணாயந, கிருஷ்ணபக்ஷ நிசி மரணத்தில் பிராயச்சித்தம்
+### 12. தக்ஷிணாயந, கிருஷ்ணபக்ஷ நிசி மரணத்தில் பிராயச்சித்தம்
 
 தக்ஷிணாயநே மரணேந யோதோஷ: ஸமஜநி என்பதாக கிருச்ரம், ப்ரத்யேகம் சதுர்க்ருஹத்தினால் தாஸூர்யா சந்த்ரமஸா என்கிற ஆறு ஆஹுதிகள். இதுவேதான் கிருஷ்ண பக்ஷ மரணத்திலும், ராத்ரி மரணத்திலும்.
 
@@ -1104,79 +1094,77 @@ C
 
 23
 
-## १०. पर्युषित-प्रायश्चित्तम्
+### १०. पर्युषित-प्रायश्चित्तम्
 
 मरण दहनयोरन्तरा पञ्चविंशति घटिका व्यवधाने पर्युषितत्वम् । रात्रौ ब्राह्म मुहूर्तात्पूर्वं मृतस्य पूर्वोक्तव्यवधानाभावेऽपि पर्युषितत्वम् ।।
 
 याम्य पैतृकमन्त्राभ्यां वैश्वदेवेन वैतिलान् । व्यस्ताभिश्च समस्ताभिर्हुत्वा व्याहृतिभिर्दहेत् ॥ कृच्छ्राचरणं चरित्वा, पञ्चगव्येन प्रक्षाल्य पावमानेन, अभिषिच्य तिलहोमं कुर्यात् ॥
 
-प्राणानायम्य, प्राचीनावीती, सङ्कल्प्य प्रीत्यर्थं गोत्रस्य शर्मणः ममपितुः प्रेतस्य पर्युषितत्वेन, यो दोषः समजनि तद्दोष परिहारार्थं पर्युषितप्रायश्चित्तं, करिष्ये । तत्काले कृच्छ्राचरणञ्च करिष्ये । कृच्छ्रत्रयं चरित्वा, पञ्चगव्य सम्मेलनं कृत्वा, कलशे (पत्र पुटे) वरुण मावाह्य पवॅमान॒स्सुव॒र्जनः। प॒वित्रे॑ण॒ विचॅर्षणिः । यः पोता सपुँनातुमा । पुनन्तु॒मादेव ज॒नाः। पुनन्तुमनॅबोधिया । पुनन्तुविश्वे॑ आ॒यवॅः। जातँवेदः प॒वित्रे॑वत्। प॒वित्रे॑ण पुनाहिमा । शुक्रेण देव दीत् । अग्ने॒क्रत्वा॒ क्रतूनँ । यते॑ पवित्रमर्चिर्षि। अग्ने विततमन्तरा । ब्रह्म॒तेनॅ पुनीमहे । उ॒भाभ्या॑न्देवसवितः। प॒वित्रे॑ण सवेनॅ च। इ॒दं ब्रह्म पुनीमहे। वैश्वदेवीपुँनती 13. ஸர்ப்ப ஹதத்தில்
+प्राणानायम्य, प्राचीनावीती, सङ्कल्प्य प्रीत्यर्थं गोत्रस्य शर्मणः ममपितुः प्रेतस्य पर्युषितत्वेन, यो दोषः समजनि तद्दोष परिहारार्थं पर्युषितप्रायश्चित्तं, करिष्ये । तत्काले कृच्छ्राचरणञ्च करिष्ये । कृच्छ्रत्रयं चरित्वा, पञ्चगव्य सम्मेलनं कृत्वा, कलशे (पत्र पुटे) वरुण मावाह्य पवॅमान॒स्सुव॒र्जनः। प॒वित्रे॑ण॒ विचॅर्षणिः । यः पोता सपुँनातुमा । पुनन्तु॒मादेव ज॒नाः। पुनन्तुमनॅबोधिया । पुनन्तुविश्वे॑ आ॒यवॅः। जातँवेदः प॒वित्रे॑वत्। प॒वित्रे॑ण पुनाहिमा । शुक्रेण देव दीत् । अग्ने॒क्रत्वा॒ क्रतूनँ । यते॑ पवित्रमर्चिर्षि। अग्ने विततमन्तरा । ब्रह्म॒तेनॅ पुनीमहे । उ॒भाभ्या॑न्देवसवितः। प॒वित्रे॑ण सवेनॅ च। इ॒दं ब्रह्म पुनीमहे। वैश्वदेवीपुँनती 
+
+### 13. ஸர்ப்ப ஹதத்தில்
 
 பாம்பு கடித்து இறக்க நேரிட்டால், க்ருச்ர தானம் செய்து, ஹோமத்திற்கு ஸங்கல்ப்பம் செய்து கொண்டு அப்ரதக்ஷிண பரிஷேசனம் செய்து ப்ரத்யேகம் சதுர்க்ருஹீதத்தினால் நமோ அஸ்து ஸர்ப்பேப்ய:, யேத:, யா இஷவ: என்கிற 3 ஆஹுதிகள் ஹோமம், பரிஷேசனம், ஸர்ப்ப ப்ரதிமா தானம் அல்லது அதற்குப் பிரதிநிதியாக ஹிரண்யதானம், அவ்விதமே கோதானம் அல்லது அதற்குப் பிரதிநிதியாக ஹிரண்யதானம்.
 
-14. பசு அல்லது பசுக்கள் இவைகளால் மரணம் நேரிட்டால்
+### 14. பசு அல்லது பசுக்கள் இவைகளால் மரணம் நேரிட்டால்
 
 க்ருச்ரம், ஸங்கல்ப்பம், இதற்காக ப்ரத்யேகம் சதுர்க்ருஹீதத்தினால் ஆகாவோ அக்மந், இந்த்ரோயஜ்வநே என்கிற இரண்டு ஆஹுதிகள் ஹோமம்.
 
 
 
 
-दे॒व्यागा॑त्। यस्मै॑ ब॒ह्वीस्तनुवों वीतपृष्ठाः । तया मदन्तस्सध॒माद्ये॑षु । वयस्यॉम पतॅयो रयीणाम् । वैश्वानरोरश्मिभिँर्मा पुनातु । वातः प्रा॒ाणेने॑षि॒रोमॅयो॒ो भूः। द्यावॉ पृथिवी पयसापयोंभिः । ऋतावॅरी यज्ञ मा पुनीताम्। बृहद्भिस्सवि॒ितस्तृभिः । वर्षिष्ठैर्देवमन्मॅभिः। अग्नेदक्षैः पुनाहिमा। येनॅ दे॒वाअपुँनत। येनापो॑दि॒व्यङ्कशॅः। तेनँ दि॒व्येन॒ ब्रह्म॑णा। इ॒दं ब्रह्मं पुनीमहे। यः पवमानीर॒ध्येति । ऋषि॑भि॒स्सम्भृत॒रस॑म्। सर्व॒स पूत मॅइज्ञाति। स्व॒दि॒तं त॒रिश्वे॑ना । पावमानीर्योअध्येति । ऋषि॑भि॒स्सम्भृ॑त॒रस॑म्। तस्मै सरस्वतीदुहे। क्षीरसर्पिर्मधूँदकम्। पाव॒मानीस्स्व॒स्त्ययॅनीः । सुदुघाहि पयॅस्वतीः । ऋषि॑भि॒स्सम्भृतो रसॅः। ब्राह्मणेष्वमृतँऽहितम् । पावमानीदिँशन्तुनः । इमल्लोकमथ अमुम् । कामान्थ्समॅर्धयन्तुनः। देवीदें वैस्समाभृताः । पा॒ाव॒मानीस्स्व॒स्त्ययॅनी:। सुदुघाहिद्घृत॒श्च॒तँः। ऋषि॑भि॒स्सम्भृतो रसॅः । ब्राह्म॒णेष्व॒मृते॑हि॒तम् । येनँ दे॒वाः प॒वित्रे॑ण। आ॒त्मानँ पुनते॒ सदा॑ । तेनँ स॒हस्रं धारेण । पाव॒मान्य: पुँनन्तुमा। प्र॒ाजा॒प॒त्यं प॒वित्र॑म्। श॒तोद्यम हिर॒ण्मय॑म् । तेनँब्रह्म विदो॑ व॒यम्। पूतं ब्रह्मं पुनीमहे। इन्द्र॑स्सुनीती स॒हमाॅपुनातु । सोमॅस्स्व॒स्त्या वरु॑णस्स॒मीच्या॑। य॒मो राजा॑ प्र॒मृ॒णाभि॑पुनातु मा । जात बेंदा मोर्जयँन्त्या पुनातु ॥ वरुणमुद्वास्य शबसमीपं गत्वा पञ्चगव्येन प्रक्षाल्य पावमान घटजलेन कुशाग्रै 15. கொம்பு உள்ள பிராணிகள் குத்தி கொலை செய்யப்பட்ட விஷயத்தில்
+दे॒व्यागा॑त्। यस्मै॑ ब॒ह्वीस्तनुवों वीतपृष्ठाः । तया मदन्तस्सध॒माद्ये॑षु । वयस्यॉम पतॅयो रयीणाम् । वैश्वानरोरश्मिभिँर्मा पुनातु । वातः प्रा॒ाणेने॑षि॒रोमॅयो॒ो भूः। द्यावॉ पृथिवी पयसापयोंभिः । ऋतावॅरी यज्ञ मा पुनीताम्। बृहद्भिस्सवि॒ितस्तृभिः । वर्षिष्ठैर्देवमन्मॅभिः। अग्नेदक्षैः पुनाहिमा। येनॅ दे॒वाअपुँनत। येनापो॑दि॒व्यङ्कशॅः। तेनँ दि॒व्येन॒ ब्रह्म॑णा। इ॒दं ब्रह्मं पुनीमहे। यः पवमानीर॒ध्येति । ऋषि॑भि॒स्सम्भृत॒रस॑म्। सर्व॒स पूत मॅइज्ञाति। स्व॒दि॒तं त॒रिश्वे॑ना । पावमानीर्योअध्येति । ऋषि॑भि॒स्सम्भृ॑त॒रस॑म्। तस्मै सरस्वतीदुहे। क्षीरसर्पिर्मधूँदकम्। पाव॒मानीस्स्व॒स्त्ययॅनीः । सुदुघाहि पयॅस्वतीः । ऋषि॑भि॒स्सम्भृतो रसॅः। ब्राह्मणेष्वमृतँऽहितम् । पावमानीदिँशन्तुनः । इमल्लोकमथ अमुम् । कामान्थ्समॅर्धयन्तुनः। देवीदें वैस्समाभृताः । पा॒ाव॒मानीस्स्व॒स्त्ययॅनी:। सुदुघाहिद्घृत॒श्च॒तँः। ऋषि॑भि॒स्सम्भृतो रसॅः । ब्राह्म॒णेष्व॒मृते॑हि॒तम् । येनँ दे॒वाः प॒वित्रे॑ण। आ॒त्मानँ पुनते॒ सदा॑ । तेनँ स॒हस्रं धारेण । पाव॒मान्य: पुँनन्तुमा। प्र॒ाजा॒प॒त्यं प॒वित्र॑म्। श॒तोद्यम हिर॒ण्मय॑म् । तेनँब्रह्म विदो॑ व॒यम्। पूतं ब्रह्मं पुनीमहे। इन्द्र॑स्सुनीती स॒हमाॅपुनातु । सोमॅस्स्व॒स्त्या वरु॑णस्स॒मीच्या॑। य॒मो राजा॑ प्र॒मृ॒णाभि॑पुनातु मा । जात बेंदा मोर्जयँन्त्या पुनातु ॥ वरुणमुद्वास्य शबसमीपं गत्वा पञ्चगव्येन प्रक्षाल्य पावमान घटजलेन कुशाग्रै 
+
+### 15. கொம்பு உள்ள பிராணிகள் குத்தி கொலை செய்யப்பட்ட விஷயத்தில்
 
 ஹிரண்ய தானம். ஸங்கல்ப்பம். ப்ரத்யேகம் சதுர் க்ருஹீதத்தினால் “தம்ஷ்ட்ராப்யாம் மலிம்லூந்”, “யே ஜநேஷு” என்கிற இரு மந்திரங்களால் ஹோமம்.
 
-16. ஜலத்தில் மரணம் நேர்ந்தால்
+### 16. ஜலத்தில் மரணம் நேர்ந்தால்
 
 ஸங்கல்ப்பம். க்ருச்ரம். ப்ரத்யேகம் சதுர்க்ருஹீதேந ஹோமம். இமம் மே வருண, தத்வயாமி என்ற இரு ஆஹுதிகள்.
 
 24
 
 
-दहनदिनकत्यं
-
 " रभिषिच्य, अपरेणाग्निमुपविश्या प्रदक्षिणं परिषिच्य | तिलैर्जुहुयात् ॥ यमः, दाधार, पृथिवीं, यमोद्यां, उत सूर्य: । यमः सर्वमृत्युः, तेन, प्राणानां, वायूनां, स्वाहा । यमाय इदन्नमम | उशन्तस्त्वा, निधीमहि, उशन्तः, समिँधीमहि। उ॒शन्, उशतः, आवॅह, पि॒तॄन्, ह॒विषै, अत्तँवे, स्व॒धा नॅमः, स्वाहा॑। पि॒ितृभ्यः, इदन्नमम उप अपउपस्पृश्य प्राची विश्वे॑दे॒वस्यॅ, " " " ने॒तुः, मर्तं:, वृणीत॒, स॒ख्यं, विश्वे॑, रायः इ॒षुध्यस, द्यु॒म्नं, वृ॑णी॒ीत॒, पुष्यसि॑, स्वाहा॑ । विश्वेभ्यः देवेभ्यः॒ इदं नमम | ओं भूः स्वाहा॑ । अग्नये इदन्नमम । ओं भुव॒स्स्वाहा॑ । वायवे इदन्नमम | ओ५ सुव॒स्स्वाहा॑ । सूर्याय इदन्नमम | ओंभूभुवस्सुवस्स्वाहा॑ । प्रजापतये इदन्नमम अप्रदक्षिणं परिषिञ्चेत् ।।
 
-## ११. मरण-समये भयाज् जलमलोत्सर्गे पूतीगन्धे वा प्रायश्चित्तम्
+### ११. मरण-समये भयाज् जलमलोत्सर्गे पूतीगन्धे वा प्रायश्चित्तम्
 
-मरण समये भयादिना जल मलोत्सर्गेण आर्द्रा भूते रोगादिना पूतीगन्धेवा गोमयवारिणा स्नापयित्वा शुद्धजलेन, प्रक्षाल्य गन्धोदकेन सेचयित्वा गोदानं कृच्छ्रत्रयञ्चकुर्यात् । प्रतिनिमित्तं कृच्छ्रत्रयं कुर्यात्। 17. இடியினால் மரணம் நேர்ந்தால்
+मरण समये भयादिना जल मलोत्सर्गेण आर्द्रा भूते रोगादिना पूतीगन्धेवा गोमयवारिणा स्नापयित्वा शुद्धजलेन, प्रक्षाल्य गन्धोदकेन सेचयित्वा गोदानं कृच्छ्रत्रयञ्चकुर्यात् । प्रतिनिमित्तं कृच्छ्रत्रयं कुर्यात्। 
+
+### 17. இடியினால் மரணம் நேர்ந்தால்
 
 ஸங்கல்ப்பம். கிருச்ரம். சதுர் க்ருஹீதத்தினால் “மூர்த்தாநம்'' என்கிற ஒரு மந்திரத்தினால் ஹோமம்.
 
-18. ரஜஸ்வலை, ஸூதிகை இவர்களின் மரணத்தில்
+### 18. ரஜஸ்வலை, ஸூதிகை இவர்களின் மரணத்தில்
 
 1, ஸங்கல்ப்பம். சாந்த்ராயண த்ரயம். ப்ராஜாபத்யம். வாருணம். தீர்த்த க்ருச்ரம் இவைகளையோ, இதற்குப் பிரதிநிதியாக கோதானம், புண்ய மந்த்ரங்களால் ஸ்னானம் செய்வித்தல், "யதந்தியச்ச" என்கிற 7 மந்திரங்கள். கயாந: 1, ஆபோ அஸ்மாந் ஆபோஹிஷ்டா - 3, ஹிரண்யவர்ணா: 4, பவமாந: என்கிற அநுவாகம், உதுத்தமம் 6, புருஷ ஸூக்தம் இவ்வாறு மந்திரங்களால் அபிமந்த்ரணம் செய்யப்பட்ட ஜலத்தினால் ஸ்னானம் செய்வித்து பஞ்ச கவ்யத்தினால் யோநியையும் சுத்தம் செய்து வேறு வஸ்திரத்தினால் போர்த்தி, மேலேயுள்ள க்ருச்ரங்களை - -
 
 25
 
-
-
-
-## १२. दक्षिणायन-कृष्ण-पक्ष--निशि-मरण-प्रायश्चित्तम्
+### १२. दक्षिणायन-कृष्ण-पक्ष--निशि-मरण-प्रायश्चित्तम्
 
 दक्षिणायने कृष्ण पक्षे निशिवा मरणे सति तत्प्रायश्चित्तार्थं कृच्छ्रा चरणं करिष्ये। तासूर्या चन्द्रमसेति षश्चिोष्यामि । दक्षिणायने मरण सम्भवेन यो दोषः, समजनि तद्दोष परिहारार्थं प्राजापत्य कृच्छ्रप्रत्याम्नायं यत्किञ्चिद्धिरण्यं श्रीवैष्णवाय सम्प्रददे ||
 
 अग्निमप्रदक्षिणं परिषिच्य। प्रत्येकं चतुगृहीतेन जुहुयात्। तासूर्यां चन्द्रमसा॑, वि॒श्व॒भृत्तँमा, म॒हत् । तेजॅः, वसुमत्, राजतः, दि॒वि | सामा॑त्माना, च॒र॒तः, स॒म॒ च॒रिणा॑। ययो॑ः, व्र॒तं, न म॒मे, जातु॒, दे॒वयो॑ः, स्वाहा॑ । सूर्या चन्द्रमोभ्यां इदं न मम । उभावन्तौ परियातः, अभ्यो॑ दि॒वो न, र॒श्मीन्, त॒नुतः, व्यँर्णवे। उभा भुवन्ती, भुइँना, कविक्रेत् । सूर्यान, च॒न्द्रा, चरतः, ह॒तामॅती, स्वाहा॑ । सूर्या चन्द्रमोभ्यां, इदन्नमम। पती॑द्यु॒मत् वि॒िश्वविदा॑, उ॒भा, दि॒वः सूर्यांाँ उभा, चन्द्रमॅसा, विचक्षणा। विश्ववाँरा, वरिवोभा, वरे॑ण्या। तानऽवतं, मति॒मन्त, महि॑व्र॒ता, स्वाहा॑ । सूर्या चन्द्रमोभ्यां, इदन्नमम। वि॒श्ववपॅरी, प्रतरॅणा, तरन्ता। सुव॒र्विदा॑ ह॒शये॑, भूरिँरश्मी । सूर्याहि, च॒न्द्रा, बसुँ, त्वेष दर्शता । मनस्विनोभा, अनॅचरतः, नु॒सन्दवं, स्वाहा॑। सूर्या चन्द्रमोभ्यां, इदन्नमम । अ॒स्यश्रवॅः न॒घँः, स॒प्त, முன்போ இப்பொழுதோ செய்து, அக்நியில் ஜாதவேதஸே, தாமக்நி வர்ணாம், அக்நேத்வம், விச்வாநிந:, ப்ருதநாஜிதம், மநோஜ்யோதி:, தத்ஸவிது:, பூரக்நயேச 4, "யோஸ்ய கௌஷ்ட்ய” யமங்காய இவைகளால் ஹோமம் செய்ய வேண்டும்.
 
-19. ஆசௌசிகளின் மரணத்தில்
+### 19. ஆசௌசிகளின் மரணத்தில்
 
 அக்நி ஸந்தானத்திற்கு முன்பாகவே தனக்கு யோக்யதா க்ருச்ரம், ஆசௌச சமயத்தில் மரணம் ஸம்பவித்ததற்கு க்ருச்ரம், மந்த்ரங்களாலும் பஞ்ச கவ்யத்தினாலும் ப்ரோக்ஷணம் செய்வதாக ஸங்கல்ப்பித்துக் கொண்டு பஞ்ச கவ்யத்தை சேர்த்து வைத்துக் கொண்டு ஒரு கும்பத்தில் ஜலத்தை வைத்துக் கொண்டு, ததிக்ராவ்ண்ண:, ஆபோஹிஷ்ட உதுத்தமம் 3,
 
 26
 
-
-दहनदिनकत्यं
-
 27
 
 बभ्रति॒। द्यावा॑, क्षामाॅ पृथिवी, दर्शतं वपुः । अ॒स्मे, सूर्या च॒न्द्र॒मसा॑, अ॒भि चक्षै। श्र॒द्धे, कमि॑न्द्र चरतः, वि॒च॒र्तुरम्, स्वाहा॑ । सूर्या चन्द्रमोभ्यां इदन्नमम । पूर्वाप॒रं, चरतः, मा॒ययै॒तौ । शिश॑, क्रीडॅन्तौ, परियातः, अ॒ध्व॒रम्। विश्वा॑न्य॒न्य, भुवॅना, अ॒भिष्टि॑ ऋ॒तून॒न्यः वि॒दत्, जा॒ाय॒ते॒, पुनँः, स्वाहा॑। सूर्या चन्द्रमोभ्यां इदन्नमम || अप्रदक्षिणं परिषिञ्चेत्। एवमेव कृष्णपक्षे मरणे, निशि मरणेऽपि च कृच्छ्राचरणं प्रायश्चित्त होमञ्चकुर्यात् ।। "
 
-## १३. सर्पहत-प्रायश्चित्तम्
+### १३. सर्पहत-प्रायश्चित्तम्
 
 सर्पहते- – प्राणानायम्य, प्राचीनावीती, ममपितुः प्रेतस्य मरण काले सर्प (दंश) हतत्वेन यो दोषस्समजनि, तद्दोष परिहारार्थं प्राजापत्य कृच्छ्र प्रत्याम्नायं यत्किञ्चिद्धिरण्य दानं करिष्ये । हिरण्यदानं कृत्वा उपवीती प्राणायामं कृत्वा प्राचीनावीती प्रीत्यर्थं ... गोत्रस्य शर्मणः ममपितुः प्रेतस्य सर्प दंश प्रायश्चित्तहोमं करिष्ये अग्नि मप्रदक्षिणं परिषिच्य प्रत्येकं चतुर्गृहीतेन जुहोति । नमो॑ अस्तु, सर्पेभ्यः, येकेचॅ, पृथि॒वी मनँ । ये अ॒न्तरि॑क्षे, येदि॒वि, तेभ्यः॑ः, स॒र्पेभ्यः॒ः, नम॒स्स्वाहा॑। सर्पेभ्यः॑ इ॒द॒न्न॑म॒म। येँऽदः, रोचने, दिवः, येवा॑, सूर्य॑स्य, रश्मिधुँ। येषॉ म॒फ्सु, सदः, कृतं, तेभ्यँः, सर्पेभ्यॅः, नम॒स्स्वाहा॑ । सर्पेभ्यः इदन्नमम। या इषँवः, यातु ஹிரண்யவர்ணீயா
 
 4, 4, பலமாந: அநுவாகம் வ்யாஹ்ருதி தர்ப்பங்களைக் கொண்டு பஞ்ச கவ்யத்தினாலும் அபிமந்த்ரணம் செய்யப்பட்ட ஜலத்தினாலும் ப்ரோக்ஷித்து வேறு வஸ்திரத்தினால் போர்த்தி ப்ரேதாக்னி ஸந்தானம் ஆரம்பித்துச் செய்ய வேண்டும்.
 
-20. ஊர்த்வோச்சிஷ்டாதி ப்ராயச்சித்தம்
+### 20. ஊர்த்வோச்சிஷ்டாதி ப்ராயச்சித்தம்
 
 ஊர்த்வ உச்சிஷ்டம் (வாய்வழியாகக் கொப்புளித்தல்) அத உச்சிஷ்டம் கட்டில் முதலானவைகளில் மரணம், தொடக் கூடாததைத் தொடுதல், நியம லோபம் என்று சொல்லப்படுகிற ஐந்து வகையான தோஷங்களுக்கும் ப்ரத்யேகம் மும்மூன்று க்ருச்ரங்கள் செய்ய வேண்டும்.
 
@@ -1185,13 +1173,13 @@ C
 
 धानॉनां, ये॒वा॑, वन॒स्पती॑न्, अनूँ। ये वा॑, अव॒टेषु, शेरॅते, तेभ्यः, सर्पेभ्यः, नम॒स्स्वा॑हा॒। सर्पेभ्यः इ॒द॒न्नमम । अप्रदक्षिणं परिषिञ्चेत् । सर्पहत दोष निवृत्त्यर्थं सर्प प्रतिमादानं करिष्ये । तत्प्रतिनिधित्वेन वा यत्किञ्चिद्यात् सर्पहत दोष निवृत्यर्थं गोदानं गोप्रतिनिधियत्किञ्चिद्धिरण्यदानं वा कुर्यात् ।।
 
-## १४. पशुभिर् हते प्रायश्चित्तम्
+### १४. पशुभिर्हते प्रायश्चित्तम्
 
 उपवीती, प्राणानायम्य, प्राचीनावीती गोत्रस्य शर्मणः, मम पितुः प्रेतस्य पशुना, पशुभिर्वा हतत्वेनं यो दोषस्समजनि तद्दोष परिहारार्थं यत्किञ्चिद्धिरण्यदानं प्रायश्चित्त होमञ्चकरिष्ये। हिरण्यदानं कृत्वा, अप्रदक्षिणं परिषिच्य प्रत्येकं चतुर्गृहीतेन आगावॅः अ॒ग्मन्, उत, भ॒द्रं, अक्रन्। सीदॅन्तु, गोष्ठे, र॒णयॅन्तु, अ॒स्मे । प्र॒जावॅतीः, पुरुरूपा॑ः, इ॒हस्युः। इन्द्रॉय, पूर्वीः, उ॒षसॅः, दुहॉनाः । स्वाहा॑ । गोभ्यः इ॒द॒न्नमम। ...
 
 इन्द्रो॑ः, यज्चँने, पृण॒ते चॅ, शिक्षति॒ । उपेदाति, नस्वं मुँषायति । भूर्यो भूयः, रयिमिदॅस्य, वर्धयॅन्, अभिँन्ने, खिल्ले, निदधाति, देवयुं स्वाहा॑। गोभ्यः॒ इदन्नमम ।। अप्रदक्षिणं परिषिञ्चेत् ।।
 
-21. பைத்ருமேதிகம் ஆரம்பம்
+### 21. பைத்ருமேதிகம் ஆரம்பம்
 
 அனுஜ்ஞை. ஸங்கல்ப்பம். இன்னாரை இன்ன அக்நியைக் கொண்டு பைத்ருமேத விதியினால் ஸம்ஸ்காரம் செய்யப் போகிறேன் என்பதாக ஸங்கல்ப்பம். தென் பக்கத்தில் பாத்ர ஸாதனம், தர்வீ ஸம்ஸ்காரம் வரை முன்பு போல் செய்ய வேண்டும். "ஸர்வஸ்ய ப்ரதிசீவரீ" என்கிற மந்திரத்தினால் ஆஸனம் ஸமர்ப்பித்து அதில் சவத்தைப் படுக்கச் செய்ய வேண்டும். இது முதல் எந்தெந்த இடத்தில் சவம் வைக்கப்படுகிறதோ அங்கெல்லாம் இந்த மந்திரத்தைச் சொல்லி, தர்ப்பங்களில் படுக்க வைக்கப்படுகிறதாகச் செய்ய வேண்டும். அந்வாரம்பணம் செய்யப்படுகிற சமயத்தில் "பரேயுவாம்ஸம்" என்கிற மந்திரத்தையும் சொல்லி, இதர தர்வியினால் ஒரு ஆஹுதி ஹோமம் செய்ய வேண்டும்.
 
@@ -1200,11 +1188,11 @@ C
 
 दहनदिन कृत्यं
 
-## १५. दंष्ट्रिभिर् हते प्रायश्चित्तम्
+### १५. दंष्ट्रिभिर्हते प्रायश्चित्तम्
 
 उपवीती प्राणानायम्य प्राचीनावीती गोत्रस्य शर्मणः, मम पितुः प्रेतस्य मरण काले दंष्टिभिः, हतत्वेन योदोषस्समजनि तद्दोष परिहारार्थं यत्किञ्चिद्धिरण्यदानं, प्रायश्चित्तहोमञ्च करिष्ये । हिरण्यं दत्वा, अप्रदक्षिणं परिषिच्य प्रत्येकं चतुर्गृहीतेन जुहुयात् । दष्ट्राभ्यां मलिम्लॅन्, जंभ्यैः, तस्कॅरान्, उ॒त । हर्नुभ्यां, स्ते॒नान्, स्ते॒नान्, भगव:, तास्त्ववाद, सुखॉदितान्, स्वाहा॑ । अग्नये इदन्नमम। ये जने॑षु, मलिम्लॅवः, स्तेनासॅः, तस्कराः, वने॑। ये कर्क्षेषु, अघायवॅः, तास्ते दधामि, जम्भॊयोः स्वाहा॑ । अग्नये इदन्नमम । अप्रदक्षिणं परिषिञ्चेत् ।। ... ...
 
-## १६. अप्सुमृते प्रायश्चित्तम्
+### १६. अफ्सुमृते प्रायश्चित्तम्
 
 उपवीती प्राणानायम्य, प्राचीनावीती गोत्रस्य शर्मणः, मम पितुः प्रेतस्य अफ्सु मरण सम्भवेन योदोषः समजनि तद्दोष परिहारार्थं यत्किञ्चिद्धिरण्यदानं प्रायश्चित्त होमञ्च करिष्ये । हिरण्यं दत्वा, अग्निमप्रदक्षिणं परिषिच्य प्रत्येकं चतुर्गृहीतेन जुहुयात् । इ॒मम्मे॑, व॒रुण॒, श्रुधि॒ हवं, अ॒द्याचॅ, मृडय। त्वामे॑व॒स्युः, आचॅके स्वाहा॑ । वरुणाय इ॒दन्नमम ।
 
@@ -1217,17 +1205,17 @@ C
 
 " तत्त्वॉयामि, ब्रह्मणा, वन्दमानः तदाशा॑स्ते, यजॅमानः हविर्भिः । । अर्हेडमान:, वरुण, इ॒हबोंधि, उरुँ शट्स, मानः, आयुः, प्रमोषी:, स्वाहा॑। वरुणाय॒ इदन्नमम । अप्रदक्षिणं परिषिञ्चेत् ।। 
 
-## १७. अशनि-हत-प्रायश्चित्तम्
+### १७. अशनि-हत-प्रायश्चित्तम्
 
 ... उपवीती प्राणानायम्य प्राचीनावीती गोत्रस्य शर्मणः मम पितुः प्रेतस्य अशनिहतात्, मरण सम्भवेन योदोषः समजनि तद्दोष परिहारार्थं यत्किञ्चिद्धिरण्यदानं प्रायश्चित्तहोमं च करिष्ये। हिरण्यदानं कृत्वाऽग्निमप्रदक्षिणं परिषिच्य चतुर्गृहीतेनाज्येन, मूर्धानं, दि॒वः, अर॒तं, पृथि॒व्याः, वैश्वानरं, ऋ॒तायें, जातं, अग्निं । ह॒विं, स॒म्राज॑, अतििथं, जनॉनां, आसन्ना, पात्रं, ज॒नय॒न्त॒, दे॒वाः स्वाहा॑ । अग्नये वैश्वानराय, इदन्नमम। अप्रदक्षिणं परिषिञ्चेत् ।। f ...
 
-## १८. रजस्वला-सूतिकयोर् मरणे प्रायश्चित्तम्
+### १८. रजस्वला-सूतिकयोर् मरणे प्रायश्चित्तम्
 
 रजस्वला सूतिकयोर्मरणे ब्राह्मणानुज्ञापूर्वकं प्रायश्चित्तं कुर्यात् । गोत्रायाः नाम्न्या: मम मातुः प्रेतायाः सूतिकात्वे (रजस्वलात्वे) मरणेन
 
 योदोष: समजनि तद्दोष परिहारार्थं चान्द्रायण त्रय, प्राजापत्य, वारुण, என்கிற மந்திரத்தினால் வாஹகர்களை அனுமந்த்ரணம் செய்ய வேண்டும். முக்கியமாக அக்நி, ஹோமத்திற்கான உபகரண பாத்திரங்கள் (அதாவது நெய் வைத்துக் கொள்ளும் தொன்னை, ப்ரோக்ஷணீ, தர்விகள், தர்ப்பம், எள், அரிசி, பாதி சமைக்கப்பட்ட சரு, பலாசக் கொத்து, தங்கத் துகள்கள், நெய்-அச்ம-மணல்கள் இவைகளை அனுப்பி வைக்க வேண்டும்.
 
-22. எடுத்துச் செல்லப்படுகிற சவத்தை அநுமந்த்ரணம்
+### 22. எடுத்துச் செல்லப்படுகிற சவத்தை அநுமந்த்ரணம்
 
 "பூஷாத்வே தச்ச்யாவது" என்கிற மந்திரத்தினால் எடுத்துச் செல்லப்படுகிற சவத்தை அநுமந்த்ரணம் செய்ய வேண்டும். க்ராமத்திற்கும் ச்மசானத்திற்கும் இடையில் உள்ள தூரத்தை நான்காகப் பிரித்து முதல் பாகத்தில் தெற்குத் தலையாக சவத்தை
 
@@ -1277,7 +1265,7 @@ C
 
 भूरग्नये॑च, पृथिव्यैचॅ, महतेचॅ- स्वाहा॑ । अग्नये मह॒ते इदन्नमम । भुवः, वायवे॑ च, अ॒न्तरि॑क्षाय च, म॒ह॒ते चॅ, स्वाहा॑ । वायवे महते इदन्नमम । सुबॅरादित्यायॅ च, दिवेचॅ, मह॒ते चॅ, स्वाहा॑ । आदित्याय महते इदन्नमम । ,,,, प्रजापतये महते इदन्नमम । योस्यँ, कौष्ठ्यॅ, जगतः, पार्थि॑िवस्य, एकॅइद्वशी । சச், புஜூவு :, 14, kளர், 3-ன்:, 16,41CS4H| 44579, 4Fவு 8€:, akist, 3-9: 919: , , येन॒द्यौः, पृथि॒वी, दृ॒ढा स्वाहा॑ य॒माय॒ इदन्नमम । अप्रदक्षिणंपरिषिञ्चेत् ।।
 
-23. சிதிகரணம்
+### 23. சிதிகரணம்
 
 “அபேதவீத” என்கிற மந்திரத்தினால் சிதை அமையப் பெறும் இடத்தை வடக்கிலிருந்து தென்புறமாக பலாச சாகையினாலோ சமீசாகை (வன்னி) யினாலோ துடைத்து தென் புறத்திலேயே எறிந்து உபவீதம் பண்ணிக் கொண்டு ஜலத்தைத் தொட வேண்டும். ப்ராசீனாவிதம் அந்த இடத்தில் சிதையைச் செய்ய வேண்டும். அக்நிக்குத் தென் புறத்தில் பாத்ர ஸாதனம் செய்து ப்ரோக்ஷணீ ஸம்ஸ்கார ஸமயத்தில் ஹோம பாத்ரங்கள், சவம், சிதை இவைகளையும் தனித் தனியாக ப்ரோக்ஷிக்க வேண்டும். ஆஸந்தியின் கயிறுக் கட்டுகளை அறுத்து விட்டு விட வேண்டும்.
 
@@ -1288,26 +1276,23 @@ C
 
 दहनदिन कृत्यं
 
-## १९. आशौचि-मरण-प्रायश्चित्तम्
+### १९. आशौचि-मरण-प्रायश्चित्तम्
 
 आशौचिनो मरणे कर्ता अग्निसन्धानात्पूर्वं स्वस्याधिकार सिद्धयर्थं कृच्छ्राचरणं कृत्वा ... गोत्रस्य ... शर्मणः, मम पितुः प्रेतस्य आशौचिनः शुद्धयर्थं सुरभिमत्यादिमन्त्रैः पञ्चगव्येन प्रोक्षणं करिष्ये । मन्त्रैः पञ्चगव्यसम्मेलनं कृत्वा सुरभिमतीं (दधिक्रावण: अकारिषं, जिष्णोः, अश्वॅस्य, वाजिनँः। सुरभिनॅः, मुखॉकरत्, प्रणः, आयूँषि, तारिषत् ॥ अब्लिङ्गाः (आपोहिष्ठेति तिस्रः) वारुणी: ( उदुत्तममिति षट्) हिरण्य वर्णीयाः, पावमानी:, व्याहृतीश्चजपन् पञ्चगव्येन कुशैः प्रोक्ष्य अन्येन वाससाऽऽच्छाद्य प्रेताग्नि सन्धानं कुर्यात् ॥
 
-## २०. ऊर्ध्वाच्छिष्टादि-प्रायश्चित्तम्
+### २०. ऊर्ध्वाच्छिष्टादि-प्रायश्चित्तम्
 
 गोत्रस्य शर्मणः, मम पितुः प्रेतस्य अद्य, अहनि, मरण काले ऊर्ध्वाच्छिष्ट, अध उच्छिष्ट खड्दादि मरण, अशुचिस्पर्शन, नियमलोपाख्य निमित्त पञ्चकसम्भवेन यो दोष: समजनि तद्दोष परिहारार्थं प्रत्येकं कृच्छ्रत्रय प्रत्याम्नायत्वेन यत्किञ्चिद्धिरण्यदानं करिष्ये।। हिरण्यदानं कुर्यात् ॥
 
 ப்ரேதத்தின் வாயில் எள் கலந்த அரிசியை - வேண்டும். கர்த்தா கடைசியாக இட வேண்டும்.
 
-24. அக்நி ப்ரதானம்
+### 24. அக்நி ப்ரதானம்
 
 சவத்தின் மார்பில் அக்நியைச் சேர்க்க வேண்டும். ஸூர்யனுக்கு எதிர்முகமாக நின்று கொண்டு, அதாவது முற் பகலாகில் கிழக்கு முகமாகவும், பிற் பகலாகில் மேற்கு முகமாகவும் இரவு நேரத்தில் கிழக்கு முகமாகவும் நின்று கொண்டு "மைநமக்நே" என்கிற இரு மந்திரங்களைச் சொல்லி, அக்நி ப்ரதானம் செய்ய வேண்டும். ப்ரதக்ஷிணகதியாகச் சென்று பாத தேசத்தில் நின்று கொண்டு “ஸூர்யந்தே” என்கிற மந்திரத்தினால் உபஸ்தானம் செய்ய வேண்டும். அப்படியே ப்ரதக்ஷிண கதியாக
 
 35
 
-
-
-
-## २१. पैतृमेधिकारम्भः
+### २१. पैतृमेधिकारम्भः
 
 शर्माणं, नाम्या: उपवीती, प्रणम्य, प्राचीनावीती अशेषे + स्वीकृत्य ... गोत्रस्य शर्मणः, मम पितुः प्रेतस्य अद्य ... अहनि, गोत्रं मम पितरं प्रेतं औपासनाग्निना (उत्तपनाग्निना वा ) गोत्रायाः मम मातु: प्रेतायाः, अद्य, अहनि, गोत्रां नाम्नीं मम मातरं प्रेतां औपासनाग्निना (उत्तपनाग्निनावा) पैतृमेधविधिना संस्कर्तुं योग्यतासिद्धि मनुगृहाण ।।
 
@@ -1319,7 +1304,7 @@ C
 
 மேற்புரம் வந்து கிழக்கு முகமாக நின்று கொண்டு, அக்நியை அப்ரதக்ஷிணமாக பரிஷேசனம் செய்து, `ய ஏதஸ்ய பத:" என்கிற ஒன்பது ஆஹுதிகளைச் சிறிய தர்வியினால் ஹோமம் செ அப்ரதக்ஷிணமாகப் பரிஷேசனம் செய்ய வேண்டும்.
 
-25. அநுசம்ஸநம்
+### 25. அநுசம்ஸநம்
 
 அக்நிக்குச் சற்று மேற்புறத்தில் எங்கு உட்கார்ந்தால் ஜ்வலிக்கும் அக்நியின் பாதிப்பு இராதோ, அவ்வளவு கிட்டத்தில் கிழக்கு முகமாக உட்கார்ந்து இந்த ப்ரேதத்தை அநுசம்ஸநம் செய்ய வேண்டும். வலது தொடையின் மேல் இடது காலைப் போட்டுக் கொள்ள வேண்டும். இடது முழங்காலின் மேல் வலது கை கீழேயும் இடது கை மேலேயும் அமையும் படிக்கும் இடது கைக் கட்டை விரலினால் வலது கட்டை விரலையும் அதற்கு
 
@@ -1351,7 +1336,7 @@ C
 
 - " वाहकाननुमन्त्रयते — ana க4ர், ஒ-ரியர், எனி, - याभ्यां॑, य॒मस्यँ, सादॅनं, सु॒कृता॑ञ्च, अपिंगच्छतात् ।। इति
 
-## २२. आदीयमानस्यानुमन्त्रणम्
+### २२. आदीयमानस्यानुमन्त्रणम्
 
 सू-आदीममान मनुमन्त्रयते, पूषा, त्वे॒तच्यवयतु, प्रवि॒द्वान्, அ-ப்பு:, g-4, 41: Raiஈ, புறன்:, 1
 
@@ -1385,7 +1370,7 @@ C
 
 கர்த்தா பிராம்மணர்களைப் பிரதக்ஷிணம் செய்து ப்ராணாயாமம் செய்து இந்த பைத்ருமேதிக ஸம்ஸ்கார கர்மாவில் மந்த்ர லோபத்ரவ்ய லோபாதிகள் இருந்தாலும் சாஸ்திரப்படி நடந்ததாக அனுக்ரஹிக்க வேண்டும் என்று பிரார்த்திக்க வேண்டும். அவர்களும் அதை அப்படியே ஆகட்டும் என்று சொல்லுவார்கள். கர்த்தா ஸ்னானம் செய்து கழுத்துக்கு மேலாக க்ஷெளரம் செய்து அதற்கான ஸ்னானத்தையும் செய்ய வேண்டும்.
 
-26. நக்ன ப்ரச்சாதனம்
+### 26. நக்ன ப்ரச்சாதனம்
 
 திருமண் மட்டும் தரித்து ஒரு பில் பவித்ரத்தை போட்டுக் கொண்டு “நக்ன ப்ரச்சாதனம்" என்கிற ச்ராத்தத்தை ஆம
 
@@ -1415,9 +1400,12 @@ C
 
 भागेषु मौन मविवक्षितम्। चतुर्थ भागेतु अवश्यं मौन मनुष्ठेयमिति नियमार्थं तूष्णीमितिबिधिः। ‘‘अन्ताल्लोपोवृद्धिर्वा' इति न्यायेन आयुर्विश्वायुरिति मन्त्रस्यावृत्तिः। इत्युक्तम् आयुर्विश्वायुरिति आदीयमानमनुमन्त्रयते ॥ ततोवाहका: प्रेतं श्मशानं नीत्वा दहन देशस्य पश्चाद्भागे निधाय कर्त्रा सहोदीचीं दिशं गच्छेयुः। ए॒षावै, देव मनुष्याणां, शान्ता दिक्, तामे॒वैना॑न्, अनूत्क्रॉमन्ति ॥ इति
 
-## २३. चितीकरणम्
+### २३. चितीकरणम्
 
-सू - प्रत्येत्य हरिण्या पलाशशाखया शमीशाखया वा श्मशानायतनं सम्मार्ष्टि अपेतवीतेति। कतिपय पदानिगत्वा प्रतिनिवृत्य, ऊषर, अमेध्य, अन्यदाहरहितं श्मशान देशमार्द्रया पलाश शाखया शमी शाखया वारण शाखयावा (तासामभावे बहुपर्ण शाखया यया कयाऽपि शाखया अपेत वीतेति संहिता पाठमनुसृत्य दहन देशं सम्मृज्य अर्पेत वीतँ, विचॅसर्पत, अतः, येऽत्र॒स्थ, पुराणाः, येचॅ, नूतनाः । अदि॒िदं य॒मः, अव॒सानं, पृथि॒व्याः, अक्रॅन्नि॒मं, पि॒तरः लोकमॅस्मै ॥ इति सम्मृज्य दक्षिणतरशाखां निरस्य, उपवीती अप उपस्पृश्य, प्राचीनावीती उद्धत्यावोक्ष्य, हिरण्य 27. நதீ (தடாக) தீர குண்ட பாஷாண ஸ்தாபனம் "" " -
+सू - प्रत्येत्य हरिण्या पलाशशाखया शमीशाखया वा श्मशानायतनं सम्मार्ष्टि अपेतवीतेति। कतिपय पदानिगत्वा प्रतिनिवृत्य, ऊषर, अमेध्य, अन्यदाहरहितं श्मशान देशमार्द्रया पलाश शाखया शमी शाखया वारण शाखयावा (तासामभावे बहुपर्ण शाखया यया कयाऽपि शाखया अपेत वीतेति संहिता पाठमनुसृत्य दहन देशं सम्मृज्य अर्पेत वीतँ, विचॅसर्पत, अतः, येऽत्र॒स्थ, पुराणाः, येचॅ, नूतनाः । अदि॒िदं य॒मः, अव॒सानं, पृथि॒व्याः, अक्रॅन्नि॒मं, पि॒तरः लोकमॅस्मै ॥ इति सम्मृज्य दक्षिणतरशाखां निरस्य, उपवीती अप उपस्पृश्य, प्राचीनावीती उद्धत्यावोक्ष्य, हिरण्य 
+
+
+### 27. நதீ (தடாக) தீர குண்ட பாஷாண ஸ்தாபனம் "" " -
 
 உதகதானம்
 
@@ -1444,7 +1432,7 @@ C
 
 எழுந்து நின்று ஸம்போதநத்தினால் அழைத்து (கோத்ர-சர்மன்-பித:, ப்ரேத) இந்த வாஸோதக திலோதகங்களை ஏற்றுக் கொள் என்பதாகப் பிரார்த்தனை முடிந்ததும் உபவீதம், ஆசமனம், ஸாத்விக த்யாகம், உடல்நிலை இடம் கொடுத்தால் ஸ்னானம், புண்ட்ரதாரனம், ஆசமனம், ஆசமனம், உதக கும்பத்துடன் ப்ராசீநாவீதமாக கிருஹத்திற்கு வரவேண்டும்.
 
-28.கிருஹத்வார குண்டத்தில் பாஷாண ஸ்தாபனம், வாஸ உதக தான பிண்ட பலி ப்ரதானம்
+### 28.கிருஹத்வார குண்டத்தில் பாஷாண ஸ்தாபனம், வாஸ உதக தான பிண்ட பலி ப்ரதானம்
 
 கிருஹத்வாரத்தில் குண்டம் தயார் செய்து க்ராம முறைப்படி தென்னைக் குறுத்து, விரியாத பாளை இவைகளால் அலங்கரிக்க
 
@@ -1459,7 +1447,7 @@ C
 
 आस्ये तिलतण्डुलान्दद्यात् ।। आस्ये दधिमधुघृततण्डुलान् दद्यादिति बोधायनः। तथा आस्ये तिल तण्डुलदानं स्त्रीभिः प्रथमं कारयित्वाऽनन्तरं पुमांसः कुर्वन्ति । केचित् आस्ये स्त्रीणां तण्डुलदानं परिहरन्ति । यथाचारं व्यवस्था ।
 
-## २४. अग्निप्रदानम्
+### २४. अग्निप्रदानम्
 
 सू - अथैनमुपोषतिमैन मग्ने विदह इति।
 
@@ -1467,8 +1455,6 @@ C
 
 44
 
-
-दहनदिन कृत्यं
 
 जातवेदः, अथॅमेनं, प्रहिँणुतात् पि॒तृभ्यः । शृ॒तं य॒दा, करसिँ, जातवेदः, अर्थेमेनं, परिंदत्तात्, पितृभ्यः । यदागच्छाँति, असुँनीतिं, ए॒तां, अथो॑दे॒वानां॑, व॒श॒नी, भवाति । इति प्रेतस्योरसि अग्निं निक्षिपेत्। प्रेतस्य दहन कार्यं रात्रौ चेत् प्राङ्मुखोभूत्वा अग्निं सपर्ययेत् । “पश्चिमाभिमुखोभूत्वा गृहीत्वात्वनलंबुधः" इति स्मृत्यन्तरवचनात् अपराहे पश्चिमाभिमुखः । ‘‘अग्निमप आदित्यमभिविपश्यति' इतिश्रुतेः, अपराह्ने आदित्याभिमुखत्वं इति व्यवस्थितिः। न नग्नं दहेत् || किञ्चि द्वस्त्रावृतं दहेत्। निरवशेषमग्निं समर्प्य प्रेताभिमुख:स्थित्वा (प्रेतस्य पाद देशस्थित्वा) प्रेत मुपतिष्ठते ।
 
@@ -1489,11 +1475,11 @@ C
 
 सू - अत्रोभयं प्रहरति येन जुहोति । आज्यस्थालीं दवञ्च (दय च) अत्रास्मिन्नन्नौ प्रहरेत् ॥ समन्तमप्रदक्षिणं परिषिञ्चति ।
 
-## २५. अनुशंसनम्
+### २५. अनुशंसनम्
 
 सू- अपरेणाग्निं प्राङ्मुख उपविश्य अथैनं याम्येन सूक्तेन नवर्चेन पराचाऽनुशसति प्रकेतुनेति । अथाग्ने: पश्चात् प्राङ्मुख उपविश्य दक्षिण जान्वोरुपरि सव्यं पादं विनिवेश्य तत्पाद जङ्घोपरि दक्षिणं हस्तमुत्तानं निवेश्य तदुपरि सव्यं पाणिं विनिवेश्य दक्षिण पाण्यङ्गुष्ठं सव्यपाण्यङ्गुष्ठेन निपीड्यानुशंसनं कुर्यात् ॥ अर्धर्चेऽवसाय, ऋगन्तस्याचस्तत्परयो र्व्यञ्जनविसर्जनीययोश्चस्थाने त्रिमात्रं प्रणवमुक्त्वा तेनोत्तरार्धर्चं सन्धाय शंसेत् ।।
 
-29. ஏகோத்தர விருத்தி
+### 29. ஏகோத்தர விருத்தி
 
 ப்ரேதத்தை உத்தேசித்துச் செய்யப்படும் சிராத்தங்களில் ஏகோத்தரவிருத்தி என்பது 75 எண்ணிக்கை கொண்டது. முதல் தினத்தன்று 3. 2வது தினத்தன்று 4. இப்படியாக 10வது தினத்தன்று 12 வரும். ஆக மொத்தம் 75 ஆகும். அதை ஆம் ரூபமாகவோ, ஹிரண்ய ரூபமாகவோ அன்றாடம் செய்து வர வேண்டும்.
 
@@ -1514,13 +1500,9 @@ C
 
 பிறகு பிண்டத்தை எடுத்துக் கொண்டு நதியிலோ, தடாகத்திலோ இறங்கி, தெற்கு முகமாக நின்று, மேல் நோக்கி எறிந்து, அப்படியே ஸ்னானம் செய்து, பவித்ர விஸர்ஜனம், உபவீதம், ஆசமனம், ஸாத்விகத்யாகம் இவைகளைச் செய்து நன்றாக ஸ்னானம் செய்து நித்யவிதி வஸ்திரத்தை ஜாக்கிரதைப்படுத்த வேண்டும்.
 
-30. சிலாதிகள் மாறினால் செய்ய வேண்டியவை மிக கவனத்தில் கொள்ள வேண்டிய விஷயங்கள் —
+### 30. சிலாதிகள் மாறினால் செய்ய வேண்டியவை மிக கவனத்தில் கொள்ள வேண்டிய விஷயங்கள் —
 
 பிரதம தினம் ஆரம்பித்து, பத்தாவது தினம் பிண்ட பலி விஸர்ஜன பர்யந்தம், வாஸோதக வஸ்திரம், ஜல பாத்ரம், பாக பாத்திரம் இவைகளில் மாறுதல் கூடாது. எதிர்பாராத விதமாக எந்த
-
-,
-
-
 
 
 अनाधृष्याः, तपसा ये, सुवर्गताः । तपोये, चक्रिरे, महत्, ताङश्चित्, एवापिगच्छतों (३)
@@ -1559,16 +1541,13 @@ C
 
 २राभ्याश्च यथाशास्त्रं प्रायश्चित्तं वदेयुः । दिवोपवास: । अशक्ताश्चेत् घृतं प्राश्य गोभ्यश्शष्पाणिदत्वा भोजनादीकुर्युः । इति । कर्ता नात्वा, उपवीती, आचम्य सभ्यान्प्रदक्षिणीकृत्य प्राचीनावीती, अशेषे + स्वीकृत्य गोत्रस्य + अद्य = अहनि पैतृ मेधिक संस्कार कर्मणिमन्त्र लोप क्रियालोप, द्रव्य लोपेषु सत्स्वपि सर्वं यथाशास्त्रानुष्ठितं भूयात् इति भवन्तः, अनुगृह्णन्तु इति प्रार्थयेत् । तेऽपि, तथास्तु यथा शास्त्रानुष्ठितमस्तु इति प्रतिवदेयुः ।। उपवीती, आचम्य - सात्विक त्यागं कुर्यात् । कर्ता दहनाङ्गत्वेन कण्ठादुपरि वापयेत् क्षौरबिधिबत्स्नायात् । सू मुदकमुत्सिच्याप्रतीक्षा ग्राममेत्य यत्स्त्रिय आहुस्तत्कुर्वन्ति ॥ तत्प्रत्यय
 
-## २६ नग्नप्रच्छादनम्
+### २६ नग्नप्रच्छादनम्
 
 कर्ताश्वेत मृत्तिकामात्रपुण्ड्रान् धृत्वा आचम्य पवित्रंधृत्वा प्राणानायम्य प्राचीनाबीती सङ्कक्ल्य्य प्रीत्यर्थं गोत्रस्य + अद्य अहनि पितुः प्रेतस्य नग्नत्व बिमोचनार्थं नग्नप्रच्छादन श्राद्धं मुख्यतः कर्तु मशक्तः तत्प्रतिनिधित्वेन कांस्यपात्र, उदकपात्र, दीप, वस्त्र, तण्डुल सहितं यत्किञ्चिद्धिरण्य दानं करिष्ये ।
 
 வாஸோதக திலோதகங்களை ஆகர்ஷித்துச் செய்து, பிறகு கிரமப்படி செய்து வர வேண்டும். இவ்விதமே கிருஹத்வார குண்டத்தில் பாஷாணம் தொலைந்திருந்தாலும் இப்படித் தான் செய்ய வேண்டும். ஆனால் அங்கு கீழே செய்யப்பட்டிருந்த வாஸோதக, பிண்ட, பலி ஏகாத்தர விருத்தி, நவச்ராத்தம் இவைகளை அன்றைய தினம் பர்யந்தத்திற்கு ஆகர்ஷித்துச் செய்ய வேண்டும். இதற்குள் தொலைந்த பாஷாணம் கிடைக்கப் பெறுமாகில் "யமே இவ + இந்தவேந:'' என்கிற மந்திரத்தினால் கிடைத்த பாஷாணத்தையும் இடையில் ஸ்தாபிக்கப்பட்டிருந்ததுடன் சேர்த்து ஊன்றி விடவும். உத்தாபன ஸமயத்தில் சேர்ந்தாற்போல் எடுத்து விடவும்.
 
 50
-
-
-दहनदिन कृत्यं
 
 उप, सात्विक त्यागः । प्राचीनावीतीहिरण्य गर्भ गर्भस्थं - प्रयच्छमे शीत वातोष्ण सन्त्राणं लज्जायारक्षणं परं । देहालङ्करणं वस्त्रं - अतश्शान्तिं प्रयच्छमे । वारिणापूरितः कुम्भ: दाहताप निवर्तकः तस्मादस्य प्रदानेनातश्शन्तिं प्रयच्छमे । परमात्मतनो दीप परमार्थप्रकाशक । आत्मानात्म विवेको मे जायतां त्वत्प्रसादतः । नग्न प्रच्छादनं वस्त्रं लज्जादु:ख विमोचकम् । प्रेत तृप्तिकरं नित्य मतश्शान्तिं प्रयच्छमे । गोत्रस्य + अहनिनग्नत्वविमोचनार्थं
 
@@ -1583,7 +1562,7 @@ C
 
 यस्मिन्देशे प्राणा उत्क्रान्ताः तंदेशं गोमयेनोपलिप्य स्वस्ति वोऽस्तु गृहाणां, शेषे शिवञ्चास्तु इति दूर्वा तण्डुलानुदक मिश्रानवकीर्य फलं समभिमृश्य बहिर्गृहद्वार पार्श्वेकुण्डं खात्वा गोमयेनोपलिप्य प्रावृत्य माल्याद्यैरलङ्कुर्यात् ।।
 
-## २७. तीर-कुण्डे पाषाण-स्थापनम्
+### २७. तीर-कुण्डे पाषाण-स्थापनम्
 
 नदीतीर-(तटाकतीर)-कुण्डे पाषाणस्थापनम् ॥
 
@@ -1604,18 +1583,15 @@ C
 
 आचम्य कलशे जलं गृहीत्वा मुक्तशिखः प्राचीनावीती दक्षिणहस्तेपूर्णं कलशं पृष्ठ आदाय गृहमेत्य शुद्धस्थले कलशं निधाय उपवीती शिखा बन्धनं कृत्वा श्रोत्राचमं कुर्यात् ।
 
-## २८. गृह-द्वार-कुण्डे पाषाणस्थापनम्
+### २८. गृह-द्वार-कुण्डे पाषाणस्थापनम्
 
 प्राणम्य प्राचीनावीती अशेषे + स्वीकृत्य स्वीकृत्य = पूर्ववदनुज्ञा गृहद्वार कुण्डे वासोदक पिण्डबलिप्रदानार्थं पाषाणस्थापनं कर्तुं - पाषाणा स्थापनं करिष्ये । पूर्ववत् कृच्छञ्च चरेत् ।
 
 53
 
-
-
-
 कुण्डे दर्भवेष्टितं पाषाणं निदध्यात् मृद्भिः प्रच्छादयेत् । आयाहि पितः प्रेत - मातः प्रेते - इति तत्रोक्तं मन्त्रं यथाव दुच्चार्य आवाहयेत् । गोत्रस्यशर्मणः पितुः प्रेतस्य इदमासनं । इदमर्चनं इदन्ते तिलोदकम् ॥
 
-## २९. वासोदक--पिण्ड-बलि--प्रदानम्
+### २९. वासोदक--पिण्ड-बलि--प्रदानम्
 
 उपवीती प्राणानायम्य प्राचीनावीती - गोत्रस्य अद्य - अहनि दहन जनित + प्रेत तृप्त्यर्थं गृहद्वार कुण्डे वासोदक पिण्डबलि प्रदानं करिष्ये । पूर्ववत् वासोदक त्रयं कुर्यात्। कुण्डस्य पुरतः दक्षिणाग्रं दर्भं निधाय, "मार्जयतां मम पिता प्रेतः, " इति दर्भेतिलोदकं निनयेत् । पक्वादन्ना दश्वखुरप्रमाणं पिण्डं अङ्गुष्ठ पर्व मात्रं बलिञ्च सज्जीकृत्य गोत्रस्य + अहनि दहन + तृप्त्यर्थं गोत्राय शर्मणे पित्रे प्रेताय प्रातरेतं - पिण्डं ददामि । इति पितृतीर्थेन पिण्डं दद्यात् तस्य दक्षिणतः सायमेतं बलिं ददामि इति बलिं दद्यात् । “दधि ददामि”, “घृतं ददामि”, “गुलं ददामि’’ इति तत्तद्वस्तु पिण्डस्योपरि निदध्यात् । दाहोप शमानार्थं नालिकेरोदकं ददामि, इति नालिकेरोदकं कुण्डे दद्यात् । उत्थाय... गोत्र शर्मन् ... पितः प्रेत (... गोत्रे नाम्नि मात:, प्रेते) अमूनि वासोदक पिण्ड बलि प्रदानानि उपतिष्ठ, दधिघृत गुल, प्रदानानि, उपतिष्ठ, नालिकेरोदकं, उपतिष्ठ, उपविश्य किञ्चित्किञ्चिज्जलं अत्रस्नाहि, जलं पिब, शीतो भव, तृप्तो भव (शीता भव, तृप्ता भव) इति दद्यात् । हविः पात्रे तिलोदक मादाय, "मार्जयतां मम पिता प्रेत:" (मार्जायतां मम माता प्रेता) इति तिलोदक युक्त हविः पात्रेण पिण्डं अप्रदक्षिणं परिषिच्य दक्षिणत: अघोबिलं यथाभवति तथा कुर्यात् । उपवीती हविः पात्र मुत्तानं कृत्वा प्रोक्षेत् । वासोदकार्थ वस्त्रे पिण्डं बलिञ्चादायान्यत्रस्थापयेत् । सात्विकत्यागः । " ... ( ( ... - ...
 
@@ -1624,7 +1600,7 @@ C
 
 दहनदिन कृत्यं
 
-## ३०. एकोत्तर-वृत्तिः
+### ३०. एकोत्तर-वृत्तिः
 
 उप प्राणानायम्य प्राचीनावीती- प्रीत्यर्थं गोत्रस्य अद्य अहनि पितृप्रेत तृप्त्यर्थं त्रिसङ्कयाकानि एकोत्तरवृद्धि श्राद्धानि मुख्यतः कर्तुमशक्तः तत्प्रतिनिधित्वेन यत्किञ्चिद्धिरण्य सहित तण्डुलदानं करिष्ये । -
 
@@ -1632,17 +1608,13 @@ C
 
 एकोविष्णुः + अव्ययः । एभिः त्रिसङ्ख्याकैः यत्किञ्चिद्धिरण्य सहितैः, आमरूपैः, एकोत्तरवृद्धिश्राद्धैः मम पितृ प्रेत रूपी भगवान् सदेवः श्रीजनार्दनः प्रींयतां । श्रीविष्णुपादेदत्तम् इति एकस्मिन्दक्षिणाग्रे दर्भेतिलोदकं निनयेत् । उपवीती, उदङ्मुखः, गयगय गय गया श्राद्धं गया श्राद्धं गया श्राद्धम् । प्रातीनावीती दक्षिणाभिमुखः अक्षय्यवटः अक्षय्यवटः अक्षय्यवटः ॥ -
 
-## ३१. नव-श्राद्धं
+### ३१. नव-श्राद्धम्
 
 प्रथम दिन मारभ्य एकादश दिन पर्यन्तं अयुग्मेषु दिनेषु नव श्राद्धं कर्तव्यं ।। उपवीती, प्राणानायम्य, प्राचीनावीती, प्रीत्यर्थं गोत्रस्य + अद्य - अहनि, मम पितृ प्रेत - तृप्त्यर्थं नव श्राद्धं मुख्यतः कर्तुमशक्तः तत्प्रतिनिधित्वेन यत्किञ्चिद्धिरण्य सहित तण्डुलदानं करिष्ये ।
 
 - तण्डुला वैश्वदेवत्याः + प्रयच्छमे हिरण्यगर्भ + प्रयच्छमे ॥
 
 55
-
-
-56
-
 
 
 गोत्रस्य अद्य अहनि मम पितृ प्रेत तृप्त्यर्थं नव श्राद्धं मुख्यतः कर्तुमशक्त: तत्प्रतिनिधित्वेन यत्किञ्चिद्धिरण्य सहितं तण्डुलं श्रीवैष्णवाय (ब्राह्मणाय) सम्प्रददे । नमः, न मम अच्युतः प्रीयताम् ।
@@ -1656,8 +1628,6 @@ C
 दशम दिन पिण्डदान पर्यन्तं, प्रथम दिने नित्यविधौ उपयुक्तानि वासोदकदानार्थं वासः, तिलोदक प्रदानार्थकलश:, पिण्डबलिपाकार्थं पात्रं, पिण्डबलि विसर्जन स्थलं इत्येतानि विपर्यासरहितानि यथा भवन्ति कुर्यात् । अनवधानेन विपर्यासे सति पुनश्च साधनान्तरं प्राप्य तेन साधनेन प्रथम दिनमारभ्य तत्तत्कर्म कर्तव्यम् ।
 
 
-दहनदिनकृत्यम्
-
 57
 
 एवं दशम दिन पर्यन्तं नदीतीर कुण्डे गृहद्वार कुण्डे च नित्यविधिः कर्तव्यः । प्रतिदिनं, नदीतीरकुण्डे, गृहद्वारे च वासोदकानित्रीण्येव । आहत्य तत्र तत्रत्रिंशत् त्रिंशत् || तिलोदकानितु प्रतिदिनं प्रथम दिनापेक्षया द्वितीयदिने एकोत्तरं (अधिकं) स्यात्, तथा तृतीयदिने द्वितीय दिनापेक्षया एकमधिकं स्यात् ॥ तद्वत् गृहद्वारेच एकोत्तरवृद्धि श्राद्धेषु तावत्यः सङ्ख्या: । आहत्य पञ्चसप्ततिः ॥
@@ -1669,13 +1639,13 @@ C
 
 
 
-४ ॥ अस्थिसञ्चयनम् ॥
+## ४ ॥ अस्थिसञ्चयनम् ॥
 
 (सू - अपरेद्युस्तृतीयस्यां पञ्चम्यां सप्तम्यां वाऽस्थीनिसञ्चिन्वन्ति सू - क्षीरोत्सिक्तेनोदकेनोदुम्बर शाखयाऽप्रक्वाथयन् शरीराण्यवोक्षति, यन्ते अग्नि ममन्थामेति पञ्चभिः ।) द्वितीये दिवसे तुरीये षष्ठेऽष्ठमेवा दिवसे प्रातरस्थि सञ्चयनं) क्षीर मुदुम्बर शाखा माज्यं बृहतीफलं, नील लोहित सूत्रे अश्मनः सिकताः, कुम्भौ पालाशशाखेच सङ्गृह्य ज्येष्ठक्रमेण श्मशानं गच्छेत् । प्रस्थानात्पूर्वं वा मध्ये मार्गवाऽन्ततः श्मशाश परिसरेस्थित नदीतटाकयोर्वास्नात्वा पुण्ड्राणि धृत्वा प्रातस्सन्ध्यामुपास्य पवित्रं धृत्वा। सभ्यान्प्रणम्य प्राचीनावीती अशेषे + स्वीकृत्य गोत्रस्य + अद्य अहनि अस्थि सञ्चयनं कर्तुं + अनुगृहाण | -
 
 उपविश्य, उपवीती, प्राणानायम्य प्राचीनावीती सङक्ल्प्य प्रीत्यर्थं, गोत्रस्य + अद्य अहनि अस्थि सञ्चयनं करिष्ये । उपवीती सात्विकत्यागः। प्राचीनावीती, अस्थिसञ्चयन काले तिथिवारेति कृच्छ्राचरणञ्च कुर्यात् । उपवीती प्राणानायम्य प्राचीनावीती प्रीत्यर्थं चितौ भस्मना मस्थ्नाञ्चश्व सूकर सृगाल चण्डालदिस्पर्शनेन योदोष: समजनि तद्दोष परिहारार्थं प्राजापत्य कृच्छ्रप्रत्याम्नायं यत्किञ्चिद्धिरण्यदानं करिष्ये।
 
-4. (1) அஸ்தி ஸஞ்சயநம்
+## 4. (1) அஸ்தி ஸஞ்சயநம்
 
 தஹந தினத்திற்கு மறுதினம், நான்காவது, ஆறாவது, எட்டாவது தினத்தில் அஸ்தி ஸஞ்சயனம் செய்யலாம்.
 
@@ -1688,15 +1658,15 @@ C
 
 59
 
-अस्थिसञ्चयनं
-
 कृच्छ्रं चरित्वा । दक्षिणाभिमुखः
 
 पाददेशेस्थित्वा
 
 क्षीरोत्सिक्तेनोदकेनोदुम्बरशाखया अवोक्षति।
 
-यन्ते॑, अ॒ग्निं, अमॅन्थाम, वृषभार्येव, पक्तवे। इ॒मन्तं, शमयामसि, क्षीरेनॅच, उदकेनॅ च। यन्त्वमॅग्ने, स॒मदॆहः, त्वमुँ, निर्वांपय, पुनः । क्याम्बूः, अत्रें जायतां, पाकदूर्वा, व्हॅल्कशा । शीर्तिके, शीर्तिकावति, ह्लादुके, ह्लादुकावति । म॒ण्डूक्यॉ सु, सङ्गमयॅ, इ॒मं, स्वॅग्निं, श॒मयॅ। शन्ते॑, ध॒न्व॒न्याः, आपॅः, शर्म॑ते, स॒न्तु,अ॒नूक्या॑ः। शन्ते॑, स॒मु॒द्रिया॑ः, आपॅः, शमुँते, स॒न्तु, वर्ष्याः ॥ शन्ते॑, स्रवॅन्ती:, त॒नुवे॑, शमु॒ते, स॒न्तु, कूप्या॑ः। शन्तै, नी॒हा॒रः, वर्षतु॒, शमु॒ पृष्वँ, अवॅशीयताम्। अन्ते सकृदवोक्षणं कुर्यात् ।। अस्थिग्रहणं
+यन्ते॑, अ॒ग्निं, अमॅन्थाम, वृषभार्येव, पक्तवे। इ॒मन्तं, शमयामसि, क्षीरेनॅच, उदकेनॅ च। यन्त्वमॅग्ने, स॒मदॆहः, त्वमुँ, निर्वांपय, पुनः । क्याम्बूः, अत्रें जायतां, पाकदूर्वा, व्हॅल्कशा । शीर्तिके, शीर्तिकावति, ह्लादुके, ह्लादुकावति । म॒ण्डूक्यॉ सु, सङ्गमयॅ, इ॒मं, स्वॅग्निं, श॒मयॅ। शन्ते॑, ध॒न्व॒न्याः, आपॅः, शर्म॑ते, स॒न्तु,अ॒नूक्या॑ः। शन्ते॑, स॒मु॒द्रिया॑ः, आपॅः, शमुँते, स॒न्तु, वर्ष्याः ॥ शन्ते॑, स्रवॅन्ती:, त॒नुवे॑, शमु॒ते, स॒न्तु, कूप्या॑ः। शन्तै, नी॒हा॒रः, वर्षतु॒, शमु॒ पृष्वँ, अवॅशीयताम्। अन्ते सकृदवोक्षणं कुर्यात् ॥ 
+
+## अस्थिग्रहणम्
 
 - (सू अतएवाङ्गारान्दक्षिणान्निर्वर्त्य तिस्रस्खुवाहुतीर्जुहोति अवसृजेति प्रतिमन्त्रम्॥ चितायाः दक्षिणतः प्रदेशात्, अङ्गारान्निर्वर्त्य दक्षिणेन चितिं, यत्रक्वचाग्निमिति विधिनाऽग्निं प्रतिष्ठाप्य दर्वीसंस्कारान्तं வேண்டும். அங்கு ஒரு பில் பவித்ரத்தைத் தரித்து அனுஜ்ஞை, அஸ்தி ஸஞ்சயனம், கரிஷ்யே என்று ஸங்கல்ப்பம், கிருச்ரம், சிதையில் சண்டாளன், நாய், பன்றி, குள்ள நரி இவைகளின் ஸ்பர்சத்தினால் ஏற்பட்டுள்ள தோஷ பரிஹாரமாக கிருச்ர தானம் செய்ய வேண்டும். பால் கலந்த ஜலத்தை எடுத்துக் கொண்டு பாத ப்ரதேசம் சென்று பலாச சாகையினாலோ, வன்னி சாகையினா லோ "யந்தே அக்நிம் + அவசீயதாம்" என்கிற மந்திரங்களினால் கடைசியாக ஒரு அவோக்ஷணம் செய்ய வேண்டும்.
 
@@ -1717,14 +1687,12 @@ C
 
 ஒற்றைப் படை ஜல கும்பங்களால் அந்தச் சிதையைத் தெளிக்க வேண்டும். கொப்புளிக்கும்படி தெளிக்கக் கூடாது. சிதையில் அக்நி இல்லாதபடிக்கு அணைத்து விட வேண்டும்.
 
-2. அஸ்தி க்ரஹணம்
+### 2. அஸ்தி க்ரஹணம்
 
 அனுஜ்ஞை, ஸங்கல்ப்பம், கிருச்ரம். முன் காலத்தில் ஸ்த்ரீகளைக் கொண்டுதான் அஸ்தி க்ரஹணம் செய்துள்ளார்கள். அதிலும் எவளுக்கு இதற்குமேல் ஸந்ததி ஏற்படாதோ அவளைக் கொண்டு அஸ்தி க்ரஹணம் செய்ய வேண்டும் என்கிறார் ஸுத்ரகாரர்.
 
 60
 
-
-अस्थिसञ्चयनं
 
 उपविश्य, उपवीती, प्राणानायम्य प्राचीनावीती, प्रीत्यर्थं गोत्रस्य + अद्य अहनि अस्थि ग्रहणं करिष्ये कृच्छ्रा चरणञ्च कुर्यात् ।। -
 
@@ -1780,7 +1748,7 @@ C
 
 பாகத்தினால் குத்தினாற்போல் உடைத்து விட்டு, "உத்திஷ்ட ப்ரேஹி" என்கிற மந்திரத்தினால் அஸ்தி குடத்தை எடுத்துக் கொண்டு அஸ்தியை வைக்கும் இடம் சேர வேண்டும்.
 
-3. அஸ்தி நிக்ஷேபணம்
+### 3. அஸ்தி நிக்ஷேபணம்
 
 அனுஜ்ஞை, ஸங்கல்ப்பம், க்ருச்ரம். ஆழமான குழி தோண்டி, அதில் அஸ்திக் கும்பத்தை வைத்து பிராம்மணர்களைக் கொண்டு “அகமர்ஷணம்" ஜபிக்கச் சொல்லி, பால், நெய், சந்தன ஜலம் இவைகளையும் அஸ்தி கும்பத்தில் சேர்த்து, கைகளையும் பாலால் அலம்பி, குடத்தைப் புதைத்து மண்களால் மூடி விட்டு அப்படியே மூழ்கி எழுந்து, தஹநஸம் ஸ்காரத்தில் அனுசம்ஸநத்திற்குப் பிறகு
 
@@ -1828,6 +1796,9 @@ C
 
 अपरप्रयोगः
 
+## अग्निनष्टप्रायश्चित्तम्
+
+
 ॥ अग्निनष्ट प्रायश्चित्तम् ॥
 
 अत्र बोधायनः अथ यद्यपनयनाग्निर्विवाहाग्निर्जातकाग्निश्श्मशानाग्निराचतुर्थादापञ्चमाहादास्थि सञ्चयनाद्वाऽनुगतस्यादपहता असुरा इति प्रोक्ष्यक्षिप्रं भस्म समारापणं अयन्ते योनिरिति समिधि समारोप्य लौकिकाग्नि माहृत्य समिधमादधाति, आजुह्वान उद्बुध्यस्व इति द्वाभ्यां, सम्परिस्तीर्य प्रायश्चित्तञ्जुहोति, अयाश्चाग्ने, पञ्चहोता, ब्राह्मण एकहोता, मनस्वती मिन्दाहुतीमहाव्याहृती र्व्याहृतीश्च प्रायश्चित्तञ्जुहुयात् ॥ तदनुसृत्य पितृमेधसारे सूत्रं । यदि श्मशानग्यनुगतः स्यात्ततस्सङ्कल्प्य अपहता असुरा इति तद्भस्म प्रोक्ष्य अयन्ते योनिरिति समिध्यग्निं समारोप्य लौकिकमग्निं प्रतिष्ठाप्य, आजुह्वान उद्बुध्यस्वेति द्वाभ्यां समिध माधाय परिस्तीर्य, आज्यं दर्वीञ्च संस्कृत्य, परिषिच्य, अयाश्च, अग्निर्होता इति द्वाभ्यां, ब्राह्मण एकहोतेत्यनुवाकेन, प्रति वाक्य चतुष्टयं, मनोज्योतिर्जुषतां, यन्म आत्मनः, पुनरग्निरिति त्रयेण, भूरग्नयेचेति चतुर्भिर्व्याहृतीश्च हुत्वा, अग्निं परिषिच्य ततः कर्म प्रति पद्यते ॥
@@ -1847,17 +1818,11 @@ C
 
 68
 
-
-अस्थि सञ्चयन
-
 अग्निः, द्विता । सभर्ता । सर्मेददातु, प्रजां, पशून्, पुष्टिं यशॅः । भ॒र्ताचॅमे, भू॒यात्, स्वाहा॑। अग्नये इदन्नमम । पृथि॒वी, त्रिहो॑ता। सप्रॆति॒ष्ठा। सददातु, प्र॒जां, पशून्, पुष्टिं यशॅः । प्रतिष्ठाचॅमे, भूयात् स्वाहा॑ । पृथिव्यै इदन्नमम। अ॒न्तरि॑क्षं, चतुर्होता । सवि॒ष्ठाः । सर्मेददातु, प्र॒जां प॒शून्, पुष्टं यशॅः । वि॒ष्टाश्चॅमे, भुयात् स्वाहा॑ । अन्तरिक्षाय इदन्नमम। वायुः, पञ्चॅहोता। सप्राणः । सर्मेददातु, प्र॒जां, प॒शून्, पुष्टिं यशः । प्राणश्चमे, भूयात् स्वाहा॑ । वाय॒वे॒ इदन्नमम। च॒न्द्रमा॑ः, षड्ढता । सऋ॒तूनू, क॒ल्प॒याति॒। समे॑ददातु, प्र॒जां, प॒शून्, पुष्टिं यशॅः । ऋ॒तवँश्चमे, कल्पन्तां स्वाहा॑। चन्द्रमसे इदन्नमम । अन्न॑ स॒प्तहो॑ता । सप्राणस्य, प्राणः । सर्मेददातु, प्र॒जां, प॒शून्, पुष्टिं यशॅः । प्राणस्यॅचमे, प्रा॒णो भूयात् स्वाहा॑ । अन्नाय इदन्नमम, द्यौर॒ष्टहो॑ता । सो॑ऽनाधृष्यः । सर्मेददातु, प्र॒जां प॒शून्, पुष्टं यशॅः । अनाधृष्यॲ, भूयासं स्वाहा॑ । दिवे इदन्नमम । आदित्यः, नवॅहोता। सतेजस्वी समे॑ददातु प्रजां पशून्, पुष्टिं यशः । तेजस्वीचॅ, भूयासं स्वाहा॑ । आदित्याय इदन्नमम। प्र॒जापॅति: दशॅहोता । सइ॒दं सर्वं । सददातु, प्र॒जां, प॒शून्, पुष्टं यशॅः। सर्व॑ञ्चमे, भूयात् स्वाहा॑ । प्रजापतये इदन्नमम। मनो॒ज्योति॑, जुषतां, आज्यं॑, विच्छिन्नं, य॒ज्ञं, समि॒मं, दधातु। याइ॒ष्टाः, उ॒षसॅः, निम्रुचॅश्च, तास्सन्दधामि, ह॒विषा॑ घृ॒तेनँ, स्वाहा॑। मनसे, ज्योतिषे " " " इदन्नमम ।। -
 
 यन्मे॑, आत्मनः॑ः मि॒न्दा, अर्भूत् अ॒ग्निस्तत्, पुनराहा॑ जा॒तवे॑दाः, विचॅर्षणिः, स्वाहा॑। अग्नये जातवेदसे इदन्नमम | पुनॅर॒ग्निः चक्षुरदात्, पुन॒रिन्द्रैः बृहस्पतिः। पुनॅर्मे, अश्विना, युवं, चक्षुः, आर्धेत्तं, अ॒क्ष्योः, स्वाहा॑। अग्नीन्द्राबृहस्पति, अश्विभ्यः, इदन्नमम | भूरग्नये॑ च, पृथि॒व्यै चॅ, म॒ह॒ते चॅ, स्वाहा॑। अग्नये, महते, इदन्नमम । भुववायवे॑च, अ॒न्तरि॑क्षायच, म॒ह॒तेचँ, स्वाहा॑। वायवे महते इदन्नमम । सुवँरादि॒त्यायॅ च, दि॒वेचँ, मह॒तेचॆं, स्वाहा॑। आदि॒त्याय॒ मह॒ते इदन्नमम । भूर्भुवस्सुवॅः, चन्द्रमॅसेच, नक्षॆत्रेभ्यश्च,
 
 69
-
-
-
 
 दि॒ग्भ्यश्ă, म॒ह॒ते चॅ, स्वाहा॑ । प्रजापतये महते इदन्नमम, अनाज्ञात त्र्यं व्याहृति चतुष्टयञ्च हुत्वा, श्री वि॒ष्ण॑वे॒ स्वाहा॑ । विष्णवे परमात्मने इदन्नमम। समन्तं, अप्रदक्षिणं परिषिच्य तस्मिन्नग्नौ सञ्चयन होमं कुर्यात् ।।
 
@@ -1865,13 +1830,16 @@ C
 
 तेषां सर्वेषां त्रिंशद्वासोदकदानानि । पञ्च सप्तति तिलोदक प्रदानानि । एतत्सर्वं कर्तृकरणात्पूर्वमेव ।।
 
-५. दशम दिन कृत्यम्
+## ५. दशम दिन कृत्यम्
 
 कर्ता यथाक्रमं नित्य विधिं एकोत्तर वृद्धि पर्यन्तं कुर्यात् ।
 
-१. प्रभूत बलिः
+### १. प्रभूतबलिः
 
-उपवीती, सभ्यान्प्रणम्य, प्राचीनाबीती अशेषे + स्वीकृत्य गोत्रस्य + अद्य दशमेऽहनि महाक्षुन्निवारणार्थं प्रभूत बलिप्रदानं कर्तुं योग्यता 5. தசம தின க்ருத்யம்
+उपवीती, सभ्यान्प्रणम्य, प्राचीनाबीती अशेषे + स्वीकृत्य गोत्रस्य + अद्य दशमेऽहनि महाक्षुन्निवारणार्थं प्रभूत बलिप्रदानं कर्तुं योग्यता 
+
+
+### 5. தசம தின க்ருத்யம்
 
 கர்த்தா இன்றும் நித்ய விதி, ஏகோத்தர விருத்திகளை செய்து முடிக்க வேண்டும்.
 
@@ -1884,7 +1852,7 @@ C
 
 दशमदिन कृत्यं
 
-सिद्धि मनुगृहाण । उपवीती, प्राणानायम्य प्राचीनावीती, सङक्ल्प्य प्रीत्यर्थं गोत्रस्य + अद्य दशमेऽहनि महाक्षुन्निवारणार्थं प्रभूत बलि प्रदानं करिष्ये उपवीती (सात्विकत्यागः ) प्राचीनावीती कृच्छ्राचरणं कृत्वा, कुण्डस्य पुरस्तात् दक्षिणाग्रं वस्त्रं निधाय तस्मिन्दक्षिणाग्रं दर्भं निधाय दक्षिणञ्जन्वाच्य तस्मिन् “मार्जयतां मम पिताप्रेत:" (मार्जयतां मम माता प्रेता) इति तिलोदकं निनीय प्रभूत बल्यर्थ मन्न मादाय, गोत्रस्य + अद्य दशमेऽहनि गोत्राय शर्मणे पित्रे प्रेताय (गोत्रायै नाम्यै मात्रे प्रेतायै) महाक्षुन्निवारणार्थं‘‘एतं प्रभूत बलिं ददामि " इति समर्प्य, एतानि नानाव्यञ्जन, घृतगुल पायस सूपापूपानि ददामि, दधि ददामि, घृतं ददामि, गुलं ददामि इति यथा सम्प्रदायं दत्वा, उत्थाय, गोत्र शर्मन् पितः, प्रेत (गोत्रे, नाम्नि, मात:, प्रेते) एतं प्रभूत बलिमुपतिष्ठ। एतानि नानाव्यञ्जन घृत गुल पायस सूपापूपानि उपतिष्ठ । इत्युपस्थाय प्रकृतचरुस्थाल्यां तिलोदकमादाय “मार्जयतां मम पिता प्रेतः " (मार्जयतां मम माता प्रेता) इति बलिमप्रदक्षिणं परिषिञ्चेत् । दक्षिणतः चारुस्थालीं न्युजच उपवीती चरुस्थाली मुत्तानां कृत्वा प्रोक्षेत् ॥ अस्मिन्नवसरे बन्धुभूताः स्त्रियोऽपि रोदनंकुर्युः । केनचित्कालेन स्त्रीणा मपगमनानन्तरं कर्ता उपवीती प्रणम्य प्राचीनावीती - गोत्रस्य + दशमेहनि गृहद्वार कुण्डात् पाषाणोत्थापनं ''மஹாக்ஷுத்'' "பெரிய பசி" ஏற்படுவது ஸஹஜம் தானே. அந்தப் பெரிய பசியைப் போக்கத்தான் ப்ரபூத பலி. அனுஜ்ஞை, ஸங்கல்ப்பம், கிருச்ரம். பெரிய துணியை மடித்து தெற்கு நுனியாகச் சேர்த்து அதில் தெற்கு நுனியாக ஒரு தர்ப்பத்தைச் சேர்த்து அதன் மையத்தில் ப்ரபூத பலிக்கான அந்நத்தைச் சேர்க்க வேண்டும். ஆங்காங்கு உள்ள ஸம்பிரதாயப்படி ஐந்து - ஐந்து பக்ஷ்ய வகையறாக்களைச் செய்திருப்பார்கள். அதை ஒவ்வொன்றாக - " 4
+सिद्धिमनुगृहाण । उपवीती, प्राणानायम्य प्राचीनावीती, सङक्ल्प्य प्रीत्यर्थं गोत्रस्य + अद्य दशमेऽहनि महाक्षुन्निवारणार्थं प्रभूत बलि प्रदानं करिष्ये उपवीती (सात्विकत्यागः ) प्राचीनावीती कृच्छ्राचरणं कृत्वा, कुण्डस्य पुरस्तात् दक्षिणाग्रं वस्त्रं निधाय तस्मिन्दक्षिणाग्रं दर्भं निधाय दक्षिणञ्जन्वाच्य तस्मिन् “मार्जयतां मम पिताप्रेत:" (मार्जयतां मम माता प्रेता) इति तिलोदकं निनीय प्रभूत बल्यर्थ मन्न मादाय, गोत्रस्य + अद्य दशमेऽहनि गोत्राय शर्मणे पित्रे प्रेताय (गोत्रायै नाम्यै मात्रे प्रेतायै) महाक्षुन्निवारणार्थं‘‘एतं प्रभूत बलिं ददामि " इति समर्प्य, एतानि नानाव्यञ्जन, घृतगुल पायस सूपापूपानि ददामि, दधि ददामि, घृतं ददामि, गुलं ददामि इति यथा सम्प्रदायं दत्वा, उत्थाय, गोत्र शर्मन् पितः, प्रेत (गोत्रे, नाम्नि, मात:, प्रेते) एतं प्रभूत बलिमुपतिष्ठ। एतानि नानाव्यञ्जन घृत गुल पायस सूपापूपानि उपतिष्ठ । इत्युपस्थाय प्रकृतचरुस्थाल्यां तिलोदकमादाय “मार्जयतां मम पिता प्रेतः " (मार्जयतां मम माता प्रेता) इति बलिमप्रदक्षिणं परिषिञ्चेत् । दक्षिणतः चारुस्थालीं न्युजच उपवीती चरुस्थाली मुत्तानां कृत्वा प्रोक्षेत् ॥ अस्मिन्नवसरे बन्धुभूताः स्त्रियोऽपि रोदनंकुर्युः । केनचित्कालेन स्त्रीणा मपगमनानन्तरं कर्ता उपवीती प्रणम्य प्राचीनावीती - गोत्रस्य + दशमेहनि गृहद्वार कुण्डात् पाषाणोत्थापनं ''மஹாக்ஷுத்'' "பெரிய பசி" ஏற்படுவது ஸஹஜம் தானே. அந்தப் பெரிய பசியைப் போக்கத்தான் ப்ரபூத பலி. அனுஜ்ஞை, ஸங்கல்ப்பம், கிருச்ரம். பெரிய துணியை மடித்து தெற்கு நுனியாகச் சேர்த்து அதில் தெற்கு நுனியாக ஒரு தர்ப்பத்தைச் சேர்த்து அதன் மையத்தில் ப்ரபூத பலிக்கான அந்நத்தைச் சேர்க்க வேண்டும். ஆங்காங்கு உள்ள ஸம்பிரதாயப்படி ஐந்து - ஐந்து பக்ஷ்ய வகையறாக்களைச் செய்திருப்பார்கள். அதை ஒவ்வொன்றாக - " 4
 
 நடு, கிழக்கு, வடக்கு, மேற்கு, தெற்கு என்பதாகச் சேர்க்க வேண்டும். பருப்பு, பாயஸம் முதலியவைகளை அப்படியே கொட்டி விட வேண்டும். பரிஷேசனம் எழுந்து நின்று உபஸ்தானம்.
 
@@ -1904,13 +1872,15 @@ C
 
 73
 
-तत्रैवास्मिन्दिनेऽपि दक्षिणाभिमुखः पिण्डमूर्ध्व मुत्क्षिप्य स्नात्वा पाषाणे च विसृज्य वासोदक वस्त्रञ्च शतधा प्रच्छिद्यासुक्षिप्त्वाऽऽचम्यपवित्रं विसृज्य सात्विकत्यागञ्चकृत्वाऽऽचामेत् | उत्तीर्य सर्वाङ्गानि वापयित्वा वपन विधिवत्स्नात्वा वस्त्रेच शुष्कीकृत्य धृत्वा श्रीचूर्ण सहितान् पुण्ड्रान्धृत्वा माध्याह्निकं कुर्यात् । इतः परं श्रीचूर्ण सहित पुण्ड्र एवधार्यः ॥ २. शान्ति होमः
+तत्रैवास्मिन्दिनेऽपि दक्षिणाभिमुखः पिण्डमूर्ध्व मुत्क्षिप्य स्नात्वा पाषाणे च विसृज्य वासोदक वस्त्रञ्च शतधा प्रच्छिद्यासुक्षिप्त्वाऽऽचम्यपवित्रं विसृज्य सात्विकत्यागञ्चकृत्वाऽऽचामेत् | उत्तीर्य सर्वाङ्गानि वापयित्वा वपन विधिवत्स्नात्वा वस्त्रेच शुष्कीकृत्य धृत्वा श्रीचूर्ण सहितान् पुण्ड्रान्धृत्वा माध्याह्निकं कुर्यात् । इतः परं श्रीचूर्ण सहित पुण्ड्र एवधार्यः ॥ 
+
+### २. शान्तिहोमः
 
 कर्ता दर्भद्वय कृत पवित्रं धृत्वा सभ्यान्प्रणम्य अशेषे + स्वीकृत्य मम (भ्रातु:) (भ्रात्रो:) (भ्रातॄणां ) ज्ञातीनाञ्च अघनिर्हरणार्थं शान्तिहोमं कर्तुं योग्यता सिद्धिमनुगृहाण उपविश्य प्राणानायम्य सङक्ल्प्य प्रीत्यर्थं मम (भ्रातुः) (भ्रात्रो:) (भ्रातॄणां ) ज्ञातीनाञ्च अघनिर्हरणार्थं शान्तिहोमं करिष्ये। सात्विकत्यागः । "
 
 यत्रक्कचेति विधिना लौकिकाग्निं प्रतिष्ठाप्य प्रागग्रैरुदगग्रैश्च दर्भैः संपरिस्तीर्य उत्तरेणाग्निं, यवानोषधिस्तम्बं अइमान मनड्डाहमवका वेतसशाखा वेतसमाला आनडुहंचर्म संपात पात्रं प्रतिलोम कृतौ वारणस्रुचौ आज्यस्थालीं प्रोक्षणीं इति द्वन्द्वं न्यञ्चि सादयित्वा (सू नवम्यां व्युष्टायां > புநஸ்நானம் இவைகளைச் செய்து, துணியை உலர்த்திக் கட்டிக் கொண்டு ஸ்ரீ சூர்ண ஸஹிதமான ஊர்த்வ புண்ட்ரங்களைத் தரித்துக் கொண்டு, மாத்யான்னிகம் செய்து சாந்தி ஹோமத்திற்கு வரவேண்டும்.
 
-2.சாந்திஹோமம்
+### 2.சாந்திஹோமம்
 
 ஆசமனம், இரண்டு தர்ப்பங்களால் செய்யப்பட்ட பவித்ரத்தைத் தரித்துக் கொண்டு, ஜ்ஞாதிகளுக்கும் தனக்கும் அகநிர்ஹரணார்த்தம், சாந்தி ஹோமம், கர்த்தும் என்பதாக அனுஜ்ஞை. ஸங்கல்ப்பம். அக்நி ப்ரதிஷ்னட, கிழக்கு நுனிகளாகவும், வடக்கு நுனிகளாகவும் பரிஸ்தரணங்கள். அக்நிக்கு வடக்கில் பாத்ர ஸாதனம். யவம் ஓஷதிஸ்தம்பம் (அந்த ஸ்தானத்திலான நெல்) பாறாங்கல், வண்டி மாடு, பாசி, நீர் நொச்சிக் கிளை, மாவலிங்க மாலை, காளை மாட்டுத் தோல், ஹோம ஸம்பாதத்திற்கான தொன்னை, மாவலிங்க இலைகள், ஆஜ்ய ஸ்தாலீ, ப்ரோக்ஷணி இவைகளை இரண்டு-இரண்டாக ஸாதனம் செய்ய -
 
@@ -1989,7 +1959,7 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 
 (सू - यदाञ्जनं त्रैककुदमिति त्रैककुदेनाञ्जनेनाञ्जीरन् ।) (सू यदित्रैककुदं नाधिगच्छेयुर्येनैवाकेनचाञ्जनेनाञ्जीरन्) यदाञ्जनं, त्रैककुदं, जातं, हि॒मवॅत॒स्परि॑। तेनामृतँस्यॅ, मूलॅन, अरॉतीः, जम्भयाम॒सि॥ इति येन केनचाञ्जनेनाञ्जीरन्।।
 
-3. ஆனந்த ஹோமம்
+### 3. ஆனந்த ஹோமம்
 
 அனுஜ்ஞை, ஸங்கல்ப்பம். அக்நிப்ரதிஷ்டை கிழக்காகவும், படக்காகவும், பரிஸ்தரணம். வடக்கில் பாத்ர ஸாதனம். எப்போதும்போல் நுனியினால்தான் ஹோமம். தர்வீ ஸம்ஸ்காரம் வரை செய்து ஸமந்தம் ப்ரதக்ஷிண பரிஷேசனம். பெரிய இலையில் சிறிய இலையினால் நான்கு தடவை நெய் எடுத்து "ஆநந்தாய" என்கிற ஹோமத்தையும் மறுபடி நான்கு தடவை எடுத்துக் கொண்டு 'நவைதத்ர" என்கிற ஹோமத்தைச் செய்து ப்ராயச்சித்த ஹோமம் பூர்ணாஹுதி, ப்ராணாயாமம், ஸமந்த ப்ரதக்ஷிண பரிஷேசனம், அக்னி உபஸ்தானம், சுத்யர்த்த புண்யாஹம், பொறியைத் தயார் செய்து "யவோஸி" என்கிற மந்திரத்தினால் ஞாதிகளுடன் சாப்பிட வேண்டும். பிரம்ம தண்டம், ஸர்வத்ர தக்ஷிணை, பிராம்மணர்கள் ஸ்வஸ்தி வாசனம் சொல்லி வர, கிருஹத்தை ப்ரவேசிக்க வேண்டும். மங்கள த்ரவ்யங்களை பார்க்க வேண்டும்.
 
@@ -2002,7 +1972,7 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 
 (सू पृथिव्या मोषधिस्तम्भं प्रतिष्ठापयति । यथात्व मुद्भिनथ्स्योषध इति । पृथिव्यामोषधिस्तम्भं प्रतिष्ठापयति यथात्वं, उद्भिनसि, ओषधे, पृथि॒व्याः, अधिँ । एवं, इमे, उद्भिन्दन्तु, कीर्त्या, यशँसा, ब्रह्मवर्चसेनँ । अथवा ओषधि स्तम्बप्रादुर्भावाय ब्रीहिबीजानि निवपन्ति। इतः परं वेतस मालां विमुच्याचम्यागच्छेयुः ॥ सात्विकत्यागः -
 
-३. आनन्दहोमः ।
+### ३. आनन्दहोमः ।
 
 कर्ता प्रणम्य अशेषे + स्वीकृत्य मम ज्ञातीनाञ्च आनन्दावाप्त्यर्थं आनन्द होमं कर्तुं योग्यता सिद्धिमनुगृहाण उपविश्य प्राणानायम्य, सङक्लप्य प्रीत्यर्थं मम, ज्ञातीनाञ्च आनन्दावाप्त्यर्थं आनन्द होमं करिष्ये । सात्विकत्यागः । यत्र क्वचेति विधिना लौकिकाग्निं प्रतिष्ठाप्य यथाक्रमं प्रागुदगग्रान् दर्भान्परिस्तरणेषु संस्तीर्य, प्रोक्षणी संस्कार आज्य संस्कार दर्वी संकारान् यथाक्रमं कृत्वा तूष्णीं समन्तं प्रदक्षिणं परिषिञ्चति । ९ सू प्रत्येत्य गृहानुत्तर पूर्वे देशेऽगारस्याग्निमुपसमाधाय संपरिस्तीर्य अनुलोम कृतया वारण्या सुचा द्वेचतुर्गृहीते जुहोति आनन्दाय नवैतत्रेति ॥ - - ...
 
@@ -2019,11 +1989,11 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 
 9 प्रणम्य प्राचीनावीती अशेषे + स्वीकृत्य गोत्रस्य शर्मणः मम पितुः प्रेतस्य अद्य दशमेऽहनि और्ध्वदैहिक कर्मसु मन्त्रलोप क्रिया लोप द्रव्यलोपेषु सत्स्वपि, सर्वं यथाशास्त्रानुष्ठितं भूयादिति भवन्तोऽनुगृह्णन्तु ॥ उपबीती सात्विकत्यागः। ब्राह्मणानां स्वस्त्रि वाचन पूर्वकं गृहं गच्छेत् । तत्र विनिहितानिमङ्गलद्रव्याणि संपश्येयुः ॥
 
-६. एकादशाहेकर्तव्यम्
+## ६. एकादशाहेकर्तव्यम्
 
 कर्ता प्रात: षण्णाडिका समनन्तरं स्नात्वा धौतं परिधाय श्रीचूर्ण सहितान् ऊर्ध्वपुण्ड्रान् धृत्वा सन्ध्या मुपास्य नव्यमुपवीतञ्चधृत्वा ( प्रतिदिनं अनुस्यूतं ब्रह्म यज्ञ मनुष्टीयमानस्य अद्यैव ब्रह्मयज्ञस्यावकाश इति प्रतिभाति ।
 
-6. ஏகாதசாஹே கர்த்தவ்யம்
+## 6. ஏகாதசாஹே கர்த்தவ்யம்
 
 பதினோராவது தினம் காலை ஆறு நாழிகைக்குப் பிறகு, கர்த்தா ஸ்னானம் செய்து உலர்ந்த வஸ்திரத்தைத் தரித்து ஊர்த்வ புண்ட்ரங்களைத் தரித்து ஸந்த்யா வந்தனம் செய்ததும் யஜ்ஞோபவீத தாரணம் செய்து கொள்ள வேண்டும்.
 
@@ -2042,7 +2012,7 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 
 ஆசமனம். ஒரு பில் பவித்ர தாரணம், நவச்ராத்தம் முன்பு போலச் செய்ய வேண்டும். ஆசமனம் செய்ய வேண்டும்.
 
-2. விருஷ போத்ஸர்ஜனம்
+### 2. விருஷ போத்ஸர்ஜனம்
 
 ஒரு பில் தர்ப்ப பவித்ரம், அனுஜ்ஞை, ஸங்கல்ப்பம். காளைக் கன்றைக் குளிப்பாட்டி, அலங்கரித்து வலது காதின் உட் புறத்தில் சக்கரத்தையும் இடது காதின் உட் புறத்தில் சங்கையும் மஞ்சள் பொடியினாலோ, சந்தனத்தினாலோ எழுத வேண்டும். "பிசங்கரூப:'' என்கிற மந்திரத்தை வலது காதிலும், "தந்நஸ் துரீபம்" என்கிற மந்திரத்தை இடது காதிலும் சொல்ல வேண்டும்.
 
@@ -2053,7 +2023,7 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 
 प्रायश्चित्तप्रकरणे मन्त्रस्नाने वर्तते पइयत) तज्जलं स्वस्व सर्वांगेषु च स्पृष्टं यथा भवति तथा कुर्यात् ।। ( इदमम्भस्पर्शन कार्यं चोलदेशे आचारे वर्तते। ग्रन्थान्तरेषु एतस्याधारो न दृश्यते । यथा देशाचारं कुरुत ।) पवित्रं विसृज्या चामेत्। एकदर्भ कृत पवित्रं धृत्वा नव श्राद्धं कुर्यात् ॥ उपवीती आचमनं -
 
-२. वृषभोत्सर्जनं
+### २. वृषभोत्सर्जनं
 
 - प्रणम्य प्राचीनावीती अशेषे + स्वीकृत्य गोत्रस्य अद्यएकादशेऽहनि मम पितुः प्रेतस्य पैशाचाबाधा निवृत्यर्थं वृषभोत्सर्जनं कर्तुं योग्यता सिद्धिमनुगृहाण । उपवीती - उपविश्य प्राणानायम्य प्राचीनाबीती पूर्वबदुक्त्वा पैशाचा बाधानिवृत्यर्थं वृषभोत्सर्जनं करिष्ये। उपवीती सात्विकत्यागः। प्राचीनावीती वृषभं स्नापयित्वा आच्छाद्य, अलङ्कृत्य, तस्यदक्षिणे कर्णे चक्रं सव्ये शङ्खञ्चविलिखेत् ।। -
 
@@ -2068,7 +2038,7 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 
 ஸமர்ப்பிக்க வேண்டும். ஆசமனம்.
 
-3. ஆத்யமாஸிகம்
+### 3. ஆத்யமாஸிகம்
 
 ஆசமனம், ப்ராசீநாவீதம், அனுஜ்ஞை. அசேஷே ஸ்வீகிருத்ய கோத்ரஸ்ய + அத்ய ஏகாதசேஹநி ஆத்ய மாஸிக மஹைகோத்திஷ்ட ச்ராத்தம் அக்நௌ கர்த்தும் ... உபவீதம் +
 
@@ -2086,8 +2056,6 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 84
 
 
-एकादशाहे कर्तव्यं
-
 हे वृषभ राज सहिरण्य तिलोदकं पिब, इति किञ्चित्पाययेत् ॥ एतं, சி சச், சினிே: ா " " in, புரி: ஞர்,:, | சா: சி, 4:சரின், उत புார், fu:, ரி அஞ்ஏp, Ran-, sa,,, அர், ; அர்ப்ழு, க: சின, , ஜூர், 34, 34-16:, அாஜிர, , , 267, ✓ af, annad, ac, ரி; அரி4-ர், அ, fௗ, புகார், ச| :, எஞ், சரிழுக, அள்:, அாரிகர், , , , j: ர், ஈ:, , கவுனன:, எர்வு:, ஏே:, 4க:, 9:14 | " " , , , , , - , " "
 
 हेवृषभ राज प्राच्यां दिशि दक्षिणस्यां दिशि प्रतीच्यां दिशि, उदीच्यां दिशि, सर्वस्यां दिशि देव ब्राह्मण भूमिं विहाय तृणं खात्वा जलं पीत्वा यथेच्छं विहर इति विसृजेत् ॥ यथास्थानमुपविश्य गोत्रस्य + अद्य एकादशेऽहनि वृषभोत्सर्जन कर्मांगं, एकादश ब्राह्मण भोजन திலா:, ஸகலாராதநை: ஸ்வர்ச்சிதம், பித: ப்ரேத ஸ்வாகதம், இதந்தே பாத்யம் என்பதாக ஒரு உத்தரணி ஜலத்தை ஸமர்ப்பிக்க வேண்டும். ஆசமனம் ஸமர்ப்பித்து பித: ப்ரேத அந்த: சுத்யர்த்தம் அயம் தே க்ருஸர: என்பதாக எள் கலந்த வெல்லத்தை ஸமர்ப்பித்து, "ஆஸ்ய சுத்யர்த்தம் இதம் தே தாம்பூலம்" என்பதாகத் தாம்பூலத்தையும் சரீர சுத்யர்த்தம் ''இதம் தே அப்யஞ்ஜனம்' என்பதாக அக்நியை ஜ்வலிப்பித்து அதில் எண்ணையை சேர்க்க வேண்டும். அக்நி ப்ரதிஷ்டாதி தெற்குப் பக்கத்தில் பாத்திர ஸாதனம். ஒரு தர்ப்பத்தில் ஆயாமத பவித்ரம். தர்வீ ஸம்ஸ்காராந்தம் செய்ய வேண்டும். பாத்ர தர்ப்பத்திற்குக் கீழண்டையில் ஆவாஹனத்திற்கான தர்ப்ப ஸாதன ஸ்தானம். அதற்குக் கீழண்டையில் அர்க்ய ஸ்தானம்.
@@ -2099,11 +2067,11 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 
 प्रत्याम्नायं यत्किञ्चिद्धिरण्यसहित तण्डुलदानं करिष्ये। तण्डुलाः + प्रयच्छमे। हिरण्यगर्भ + प्रयच्छमे गोत्रस्य + एकादशेहनि वृषभोत्सर्जन कर्मागं एकादश ब्राह्मण भोजन प्रत्याम्नायं यत्किञ्चिद्धिरण्यसहितं तण्डुलं नाना गोत्रेभ्यः श्रीवैष्णवेभ्यस्तेभ्यस्तेभ्यः सम्प्रददे ॥ नमः, नमम, अच्युतः प्रीयताम् । प्रत्येकं समर्पयेत् ॥ उपवीती, आचमनं सात्विकत्यागः ।।
 
-३. आद्यमासिकं
+### ३. आद्यमासिकं
 
 आचम्य एकदर्भकृत पवित्रं धृत्वा प्रणम्य । प्राचीनावीती - अशेषे + स्वीकृत्य - गोत्रस्य + अद्य एकादशेऽहनि, आद्यमासिक महैकोद्दिष्ट श्राद्धमग्नौ कर्तु, योग्यता सिद्धिमनुगृहाण ॥ पुरतः लौकिकाग्निं प्रतिष्ठाप्य अस्मिन्नेवाग्नौ प्रेतरूपी पिता वर्तते, इत्येवं रूपेण, अस्मिन्नाद्यमासिके ध्यात्वा अग्नौ प्रक्षेप योग्यं वस्तु अग्नौ प्रक्षिपेत् । प्रक्षेपे, अयोग्यं जलादिकं तत्समीपे समर्पयेत्॥ तिलानादाय, गोत्रस्य + अद्य एकादशेऽहनि आद्यमासिक महैकोद्दिष्ट श्राद्धे गोत्राय शर्मणे पित्रे प्रेतायनमः इति अग्निं अप्रदक्षिणेनार्चयेत्। (गोत्रायै, नाम्यै, मात्रे प्रेतायै नमः) उपविश्य उपवीती दर्भेष्वासीनः, दर्भान्धारयमाणः, प्राणानायम्य, प्राचीनावीती, सङ्कल्प्य
 
-4.அர்க்ய க்ரஹணம்
+### 4.அர்க்ய க்ரஹணம்
 
 கீழே சொல்லப்பட்ட இடத்தில் அர்க்ய க்ரஹணத்திற்கான வைக்க தொன்னையை வேண்டும். ப்ராணாயாமம், ஒரு ஸங்கல்ப்பம். “ப்ரேத த்ருப்த்யர்த்தம் அர்க்ய க்ரஹணம் கரிஷ்யே” என்பதாக ஸங்கல்ப்பம் க்ருச்ராசரணம்.
 
@@ -2116,11 +2084,11 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 
 ( प्रीत्यर्थं, गोत्रस्य + अद्य एकादशेऽहनि आद्य मासिकमकोद्दिष्ठ श्राद्धं, अनौकरिष्ये । तृणं निरस्य । उपवीती, अप उपस्पृश्य सात्विकत्यागं कृत्वा, प्राचीनावीती। अप: प्रदाय पितुः प्रेतस्य " इदमासनं" इति आसनार्थं दर्भं दत्वा, पुनरपः प्रदाय, पितृ प्रेतार्थे भवता क्षणः कर्तव्यः प्राप्नोतु भवान् । पितुः प्रेतस्य पाद्यस्थाने, इदमासनं । इदमर्चनं इमे तिलाः, सकलाराघनैः स्वर्चितं । पितः प्रेत स्वागतं, इदन्तेपाद्यं पितः प्रेत, अन्तरशुद्धयर्थं अयं ते कृसर: । आस्यशुद्धयर्थं इदन्ते ताम्बूलम् । शरीर शुद्धयर्थं इदन्ते अभ्यञ्जनं ।। इति ज्वलिते अग्नौ तैलं समर्पयेत् ।। स्थण्डिलादि, अग्निप्रतिष्ठा । परिस्तीर्य, दक्षिणत: पात्र सादनं । दर्वीमाज्यस्थालीं प्रोक्षणी मितर दव, चरु पात्रमिति, एकैकशः सादयित्वा तत्पुरस्ताद्दर्भे प्रेतस्य आवाहनस्थानं । तत्पुरस्तादर्घ्य पात्रस्थानं। प्रोक्षणीसंस्कारः, आज्यसंस्कारः, दर्वी संस्कारश्चेति क्रमेण कुर्यात् ॥
 
-४. अर्घ्य ग्रहणं
+### ४. अर्घ्यग्रहणम्
 
 पूर्वं निरूपितेस्थले दक्षिणाग्रं दर्भं निधाय तस्मिन्मुष्टि प्रमाणां मृदं निधाय तदुपरि अर्घ्य ग्रहणार्थं पत्र पुटं सादयेत्। अन्यस्मिन्पत्रपुटे மது த்ரயத்தினால் ஒவ்வொரு 'ரிக்' தோறும் ஒவ்வொரு சொட்டுத் தேனைச் சேர்க்க வேண்டும். ஸோமஸ்ய த்விஷி: + என்கிறதினால் அந்த ஜலத்தைக் கலக்கி, அதில் ஏதாவது தூசி விழுந்திருக்குமாகில் கை விரல்களால் எடுத்து "நிரஸ்தம் நமுசேச்சிர:'' என்பதனால் எடுக்கப்பட்ட அசுத்த வஸ்துவை நிர்ருதி திக்கில் போட்டு விட்டு, அப உப ஸ்பர்சனம் செய்ய வேண்டும். ''சந்நோதேவீ:'' என்கிற மந்திரத்தினால் அபிமந்த்ரணம் செய்து, எள்ளைப் போட்டு கந்தாதிகளால் அர்ச்சித்து புஷ்பத்தைச் சேர்த்து, அத்தி இலையினால் மூடி, மேலே தர்ப்பங்களாலும் மூட வேண்டும்.
 
-5. போஜன ஸ்தல ஸம்மார்ஜனம்
+### 5. போஜன ஸ்தல ஸம்மார்ஜனம்
 
 கையில் எள், மணல் இவைகளை எடுத்துக் கொண்டு ''அபஹதா:'' என்கிற மந்திரங்களால் அக்நிக்குத் தென் புறத்தை ப்ரோக்ஷிக்க வேண்டும்.
 
@@ -2133,7 +2101,7 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 
 “பிதரம் ப்ரேதம் ஆவாஹயிஷ்யே" என்று பிரார்த்தித்து, “ஆயாஹி பித: ப்ரேத ஸோம்ய ... ததத் ரயிஞ்ச ... சத 'சாரதஞ்ச’’ என்கிற மந்திரத்தினால் பாத்ர ஸாதனத்திற்குக் கீழண்டை போடப்பட்டுள்ள ஒரு தர்ப்பத்தில் கோத்ரம் சர்மாணம், பிதரம், ப்ரேதம் ஆவாஹயாமி என்பதாக ஆவாஹநம். பிது: ப்ரேதஸ்ய இதமாஸநம் இதமர்ச்சனம் இதம் தே திலோதகம்.
 
-7. பாத ப்ரக்ஷாளநம்
+### 7. பாத ப்ரக்ஷாளநம்
 
 முன்பு போல் பாத ப்ரக்ஷாளநம் கர்த்தாவிற்கு முதலில் ஆசமனம்
 
@@ -2142,15 +2110,15 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 
 एकादशाहे कर्तव्यं
 
-५. भोजन स्थल सम्मार्जनं
+### ५. भोजनस्थलसम्मार्जनं
 
 तिलान् मृदश्चादाय, अपहताः, असुराः, रक्षॉसि, पिशाचा:, येक्षयॅन्ति, पृथि॒वीमनु॒, अ॒न्यत्रेतः, गच्छन्तु, यत्रास्य, (यत्रास्मा॑ः) गतं मनॅः । इति उद्धृत्य। उदौर्ता, अवरः, उत्परॅः, उन्मॅध्यमः, पिता प्रेतः, सोम्यः। असुं यः, इयाय, अवृकः, ऋतज्ञः, सनो॑ऽवतु, पि॒ता, प्रेतः हवे॑षु । (उदर्ता, अवॅरा, उत्पॅरा, उन्मध्यमा, माता प्रेता, सोम्या । असुं या, इयाय, अवृका, ऋ॒तज्ञा, सानोऽवतु, माता प्रेता, हर्वेषु ।।) इत्यवोक्ष्य, अपवित्रः पवित्रो वा सर्वावस्थां गतोऽपिवा | यः स्मरेत् पुण्डरीकाक्षं, सबाह्याभ्यन्तर:शुचिः । इति प्रोक्षेत् ॥
 
-६. आवाहनं
+### ६. आवाहनं
 
 पितरं प्रेत मावाहयिष्ये । ( मातरं प्रेता मावाहयिष्ये) उत्थाय आयहि, पितः, प्रेत (मात: प्रेते) सोम्य (सोम्ये) गम्भीरैः पथिभिः, पू॒र्व्वैः प्र॒ज, अ॒स्मभ्यं॑ द॒दत् (ददती) र॒यिञ्चॅ, दीर्घायुत्वञ्चॅ, शतशॉरदञ्च। गोत्रं शर्माणं पितरं प्रेतं (गोत्रां नाम्नीं, मातरं प्रेतां) आवाहयामि । इति पूर्वमेवनिरूपिते स्थले दर्भे आवाहयेत् । गोत्रस्य, शर्मणः, पितुः, प्रेतस्य (गोत्रायाः नाम्न्या: मातुः प्रेतायाः) इदमासनं। इद मर्चनं। इदन्ते तिलोदकम् ।
 
-8. வரணம்
+### 8. வரணம்
 
 அப: ப்ரதாய பிது: ப்ரேதஸ்ய இத மாஸநம் புந ரப: ப்ரதாய பித்ரு ப்ரேதார்த்தே பவதாக்ஷண: கர்த்தவ்ய: ப்ராப்நோது பவாந் 9. அர்க்ய தானம்
 
@@ -2161,17 +2129,23 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 
 
 
-७. पाद प्रक्षालनं
+### ७. पादप्रक्षालनं
 
-7 गोत्र शर्मन् पितः प्रेत (गोत्रे नानि मातः प्रेते) स्वागतं । इदन्ते पाद्यं । ८. वरणं
+7 गोत्र शर्मन् पितः प्रेत (गोत्रे नानि मातः प्रेते) स्वागतं । इदन्ते पाद्यं । 
 
-अपः प्रदाय पितुः प्रेतस्य इद मासनं । पुनरपः प्रदाय, पितृ प्रेतार्थे, भवताक्षणः कर्तव्यः । प्राप्नोतु भवान् ॥ ९. अर्घ्यदानं
+### ८. वरणम्
 
-अपः प्रदाय, अर्घ्य पात्रस्थित पवित्र मादाय हस्तस्थाने पत्रपुटे पवित्रं निधांय, यादिव्याः, आपः, पयसा, सम्बभूवुः, याः, अंन्तरिक्षे उत पार्थिवीर्याः। हिरण्य वर्णाः, यज्ञियाः, तान आपः, शस्योनाः भवन्तु । गोत्र शर्मन् पितः प्रेत ( गोत्रे नाम्नि, मातः प्रेते) इदन्ते अर्घ्यम् । इति अर्घ्य जलात् किश्चित् औदुम्बरदर्ज्या, उद्धरण्यावाऽऽदाय दद्यात् । पुनश्शुद्धोदकं दद्यात्। पवित्रं पात्रे निदध्यात् ।। १०. अर्चनाद्युपचारः
+अपः प्रदाय पितुः प्रेतस्य इद मासनं । पुनरपः प्रदाय, पितृ प्रेतार्थे, भवताक्षणः कर्तव्यः । प्राप्नोतु भवान् ॥ 
+
+### ९. अर्घ्यदानम्
+
+अपः प्रदाय, अर्घ्य पात्रस्थित पवित्र मादाय हस्तस्थाने पत्रपुटे पवित्रं निधांय, यादिव्याः, आपः, पयसा, सम्बभूवुः, याः, अंन्तरिक्षे उत पार्थिवीर्याः। हिरण्य वर्णाः, यज्ञियाः, तान आपः, शस्योनाः भवन्तु । गोत्र शर्मन् पितः प्रेत ( गोत्रे नाम्नि, मातः प्रेते) इदन्ते अर्घ्यम् । इति अर्घ्य जलात् किश्चित् औदुम्बरदर्ज्या, उद्धरण्यावाऽऽदाय दद्यात् । पुनश्शुद्धोदकं दद्यात्। पवित्रं पात्रे निदध्यात् ।। 
+
+### १०. अर्चनाद्युपचारः
 
 , अर्चत, प्रार्चत, प्रियमेधासः, अर्चत, अर्चन्तु पुत्रकाः, उतपुनर्नु धिष्ण्वर्चत, इदन्ते अर्चनं । इति तिलैरभ्यर्च्य । गन्धद्वारां, दुराधर्षां, नि॒त्यपृ॒ष्ट, क॒री॒षिणी॑म्। ईश्वरीं, सवँभूतानां त्वामि॒ह, उपॅह्नये, श्रियम्। अलङ्करणार्थे अमीते गन्धाः । ओषधयः, प्रतिमोदध्वं, एनं, पुष्पॉवती:, सु॒पि॒प्प॒ला:। अ॒यं वॅः, गर्भ, ऋ॒त्वियँः प्र॒त्नं, स॒धस्थं, आसॅदत्। इमानि पुष्पाणि । (धूप दीपौ न स्तः) युवॉ सुवासः, परिबीतः, आगा॑त्। सउश्रेयॉन्, भवति, जायँमानः । तन्धीरॉसः, क॒वयॅः, उन्नॅयन्ति, स्वाधियॅः, मनॅसा, देवयन्तः । आच्छादनार्थं पवित्रार्थं अयं दर्भः । शेषोपचारार्थे इमेतिला: । सकलाराधनैः स्वर्चितम् ॥ "
 
-10. भOLD
+### 10. भOLD
 
 ''அர்ச்சத ப்ரார்ச்சத" என்கிற மந்திரத்தினால் அர்ச்சனம். "கந்தத்வாராம்" என்கிற மந்திரத்தினால் சந்தனம். "ஓஷதய:'' (அல்லது ''ஆயநேதே" என்கிற மந்திரத்தினால்) மந்திரத்தினால் புஷ்பம், துளசீ (தூப தீபங்கள் கிடையாது). “யுவாஸுவாஸா:" என்கிற மந்திரத்தினால் வஸ்திரம், உத்தரீயம், உதகும்பங்கள், ஆபரணம், போஜன பவித்ரத்திற்கான தர்ப்பம், அதனடியாக
 
@@ -2180,21 +2154,21 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 
 एकादशाहे कर्तव्यं
 
-११. पुनरर्घ्यदानं
+### ११. पुनरर्घ्यदानं
 
 - - अपः प्रदाय पवित्र मादाय எரினா: அபி: + எ भवन्तु पितः प्रेत इयन्ते दक्षिणा तृप्तिः ॥ पुनश्शुद्धोदकं । पवित्रं पात्रे निदध्यात् ||
 
-83.74:
+### १२. प्रधानहोमः
 
 पत्रपुटेकञ्चिच्चरुमादाय, श्रपयित्वाऽभिघार्य, दक्षिणत उद्वासयेत् । पुनरभिघारयेत् ॥ अग्निमप्रदक्षिणं परिषिच्य, दर्ज्या मुपस्तीर्य, मेक्षणेन, चरोस्सकृदवदाय सकृदभिघार्य, दक्षिण हस्ते कृत्वा गोत्रस्य + श्राद्धे, गोत्राय शर्मणे पित्रे प्रेताय यमाय च स्वाहा इति दक्षिणतः जुहुयात् गोत्राय शर्मणे पित्रे प्रेताय यमाय च इदन्नमम (गोत्रायैनाम्यै मात्रे प्रेतायै यमाय च स्वाहा। गोत्रायै नाम्यै मात्रे प्रेतायै यमाय च इदन्न मम ।) एवमेव आज्याहुतिः तथैवोद्देश्य त्यागश्च ॥ मेक्षण मन्नौ प्रहरेत् । समन्तमप्रदक्षिणं परिषिञ्चेत् ॥
 
 க மிகுதி உபசாரத்திற்காக எள் இவைகளை ஸமர்ப்பிக்க வேண்டும். உபவீதம் ஒரு ஆசமனம்.
 
-11. புநரர்க்யம்
+### 11. புநரர்க்யம்
 
 ப்ராசீநாவிதீ முன்பு போல “அப: ப்ரதாய" செய்து அர்க்ய பவித்ரத்தை கை ஸ்தானத்தில் வைத்து, "யாதிவ்யா:' என்ற மந்திரத்தைச் சொல்லி, "இயம் தே தக்ஷிணாத்ருப்தி:" என்பதாக அர்க்யம் ஸமர்ப்பித்து மேலே சுத்தோதகம் ஸமர்ப்பித்து பவித்ரத்தை அர்க்ய பாத்திரத்தில் வைத்து, அத்தி இலையினால் மூடி தர்ப்பங்களால் மூட வேண்டும். "
 
-12. ப்ரதான ஹோமம்
+### 12. ப்ரதான ஹோமம்
 
 இதற்கான சருவிலிருந்து தொன்னையில் ஹோமத்திற்கான சருவை எடுத்து வந்து, அக்நிக்கு மேலே காட்டி, நெய் சேர்த்து, தென்னண்டையில். 'பாத்ர ஸாதனத்தில் வைத்து, மேலேயும் ஒரு தடவை நெய் சேர்க்க வேண்டும். அக்நியை அப்ரதக்ஷிணமாக பரிஷேசனம் செய்ய செய்ய வேண்டும். பெரிய தர்வியில் சிறிய தர்வியினால் ஒரு தடவை நெய்யைத் தடவி ஹோமத்திற்கான சருவிலிருந்து ஒரே ஒரு தடவை பிரஸாதத்தை மேக்ஷணத்தினால் எடுத்து வைத்து மேலேயும் ஒரு தடவை நெய்யினால் அபிகாரணம் செய்து, "கோத்ரஸ்ய + ச்ராத்தே கோத்ராய சர்மணே பித்ரே ப்ரேதாய யமாய ச ஸ்வாஹா". இதுவே உத்தேச்ய த்யாகமும்,
 
@@ -2203,17 +2177,17 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 
 
 
-१३. भोजनं
+### १३. भोजनम्
 
 गोत्रस्य शर्मणः पितुः प्रेतस्य भोजन स्थाने इद मासनं । इदं पात्रासनं ॥ पात्र सादनाद्दक्षिणतः कार्यं ॥ दक्षिणाग्रं कदलीपत्रं निधाय, पिण्ड दानार्थं किञ्चिदन्नं शेषीकृत्य, अवशिष्टं सर्वं कदलीपत्रे निधाय हुतशिष्टमन्नं भोजनार्थं स्थापिते पत्रे तथा पिण्डदानार्थं पृथक्कृतेऽन्ने च संसृजेत् ।। अन्ने आज्यञ्च देयम् ।।
 
-१४. दत्तम् (समर्पणं)
+### १४. दत्तम् (समर्पणं)
 
 परिविष्ट मन्नं ओं भूर्भुवस्सुवॅः इति प्रोक्ष्य तत्सॅवि॒तुः, वरे॑ण्यं, भर्गंः, देवस्यॅ, धीमहि, धियोयोनँः प्रचोदया॑त् ॥ इत्यभिमन्त्रच देवॅसवितः, प्रसुँव इति अप्रदक्षिणं परिषिच्य शुद्धोदकं प्रदाय, भोजन पत्रस्याग्रभागं हस्तद्वयेन (सव्य: अधस्तात्, दक्षिणः उपरिष्टाच्च यथा भवति तथा कृत्वा) संस्पृदय, पृथि॒िवीते॒ पात्रं द्यौरॅपि॒धानं॑, ब्रह्म॒णस्त्वा, ? मुर्खेजु॒होम, ब्र॒ह्म॒णाना॑न्त्वा, प्रा॒ाणा॒ापा॒ानयो॑ः, जुहोमि॒, अक्षॆितमसि, मास्यॆ क्षेष्ठाः, (मास्या॑ः क्षेष्ठाः) अमुā, अमुष्मिन्, लोके। इत्युपस्पर्शयित्वा, इ॒दं विष्णुः, विचॅक्रमे, त्रेधा, निदधे, पदम् । समूँढं, अ॒स्य॒ पासुरे। द्विजाङ्गुष्ठमन्ने निवेश्य इति (अत्र
 
 இதே மந்திரத்தினால் ஆஜ்யாஹுதி செய்ய வேண்டும். அதுவே உத்தேச்ய த்யாகமும், மேக்ஷணத்தை அக்நியில் சேர்த்து அப்ரதக்ஷிண பரிஷேசனம் செய்ய வேண்டும்.
 
-13. Gungomb
+### 13. Gungomb
 
 "மம பிது: ப்ரேதஸ்ய போஜன ஸ்தாநே இதமாஸநம்' என்று அக்நியிலும், "இதம் பாத்ராஸநம்" என்று அக்நிக்குத் தென் புறத்தில் இலை சேர்க்கும் இடத்திலும் சேர்க்க வேண்டும்.
 
@@ -2224,13 +2198,11 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 
 93
 
-एकादशाहे कर्तव्यं
-
 द्विजाङ्गुष्ठस्य अभावेपि तद्भावनं कर्तव्यं) इदमनं रक्ष। गोत्रस्य + श्राद्धे गोत्राय शर्मणे, पित्रेप्रेताय इदमनं नमः - नमम | गोत्रायै, नाम्यै, मात्रे, प्रेतायै नमः नमम इति तुलसी मिश्रिततिलोदकं निनयेत् । -
 
 दक्षिणाग्रे दर्भे एको विष्णु: + अव्ययः, अनेन ममपितुः प्रेतस्य आद्य मासिक मह्रैकोद्दिष्ठ श्राद्धेन मम पितृप्रेतरूपी भगवान् सदेवः श्रीजनार्दनः प्रीयताम् इति तुलसी मिश्रित तिलोदकं निनयेत् श्रीविष्णु पादे दत्तं इति ब्रूयात् । उपवीती उत्थाय उत्तराभिमुखः गय गय गय गयाश्राद्धं, गयाश्राद्धं, गया श्राद्धं । प्राचीनावीती दक्षिणाभिमुखः अक्षय्य वटः, अक्षय्य वटः, अक्षय्य वटः ॥ इति वदेत् ॥
 
-१५. भोजनं
+### १५. भोजनं
 
 परिषिञ्चामि । यथा सौकर्यं परिषेचनं । ओं भूर्भुवस्सुवः । स॒त्यन्त्व॒र्तेन॒अ॒मृतोप॒स्तरॅणमसि । इति परिषेचनं कारयित्वा आपोशनञ्चदद्यात् । प्रणाय स्वाहा॑ प्राणाय इदन्नमम । अ॒पा॒नाय॒ स्वाहा॑ । अपानाय इदं न मम व्या॒नाय॒ स्वाहा॑ स्वाहा॑ व्यानाय इदन्नमम । उदानाय उदानाय इदं न मम । समानाय स्वाहा॑ । समानाय इदं न ஒதுக்கப்பட்டுள்ள அந்நத்துடனும் சேர்க்க வேண்டும். இலையில் சேர்த்த அந்நத்தை ஆஜ்யத்தினால் அபிகாரணம் செய்து தத்தம் செய்ய வேண்டும். - - -
 
@@ -2241,11 +2213,11 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 
 मम- ब्रह्मणि मे, आत्माऽमृतत्वायें यथासुखं जुषध्वम् । प्रथमं, दत्तमन्नं, चतुर्धा विभज्य, पूर्वभागे द्वौ, पश्चिमभागे द्वाविति । तत्रापि आग्नेय कोणस्थमन्नं अष्टधा विभज्य पूर्वपश्चिम भागयोः चत्वार : - चत्वारः इति कृत्वा तत्रापि पूर्वभागस्य दक्षिणतः स्थितं पिण्डमादाय यमायँ, सोमं, सुनुत, यमायँ, जुहुत, ह॒विः । यम, यज्ञोगॅच्छति, अग्नितः, अरॅत:, स्वाहा॑। इत्य॒ग्नौ जुहुयात् य॒मायेदन्नमम इत्युद्देश्यत्यागः । एवमेवा प्रदक्षिण क्रमेण शेषान् सप्तहुत्वा मध्येपानीयं समर्पयेत् ॥ अनन्तरं पूर्वभागे उत्तरतः स्थिताद्भागात् अष्टौ होमाः । अनन्तरं पश्चिमतः उत्तरतस्थितात् अष्टोमा। अन्ततः पश्चिमतः, दक्षिणतः स्थितात् अष्टौ होमाः। आहत्य द्वात्रिंशद्धोमा: । पानीयं समर्पयामि । पितः प्रेतसम्पन्नं । पितः प्रेत, तृप्तोऽसि। पितः प्रेत, अ॒मृता पि॒धानमॅसि । इति जल मुद्धरण्यादद्यात्।। हस्तप्रक्षालनं समर्पयामि, आचमनं समर्पयामि ॥
 
-१६. पुनरर्घ्यं
+### १६. पुनरर्घ्यं
 
 अपः प्रदाय । अर्घ्यपवित्रमादाय हस्ते निधाय । यादिव्याः + स्योना: भवन्तु। गोत्रशर्मन् पितः प्रेत, इयन्ते भुक्तितृप्तिः । पुनश्शुद्धोदकं ஸமீபம் பூமியில் விட வேண்டும். ஒரு தர்ப்பத்தை தெற்கு நுனியாகச் சேர்த்து அதில் 'ஏகோவிஷ்ணு: + அவ்யய: அநேந மம பிது: ப்ரேதஸ்ய ஆத்ய மாஸிக மஹைகோத்திஷ்ட ச்ராத்தேந மம பித்ரு ப்ரேத ரூபீ பகவாந் ஸதேவ: ச்ரீஜநார்தந: ப்ரீயதாம் விஷ்ணுபாதே தத்தம்” என்று துளசி கலந்த எள் ஜலத்தை பித்ரு தீர்த்தமாக விட வேண்டும். உபவீதம் வடக்கு திரும்பி கய – கய கய கயாச்ராத்தம் கயாச்ராத்தம் கயாச்ராத்தம் ப்ராசீநாவீதம். தெற்கு முகமாக “அக்ஷய்யவட:" என்று மூன்று தடவை சொல்ல வேண்டும்.
 
-15. Gungonis
+### 15. Gungonis
 
 "யதாஸௌகர்யம் பரிஷேசனம்" என்று பரிஷேசனம் செய்து வைத்து, “அம்ருதோபஸ்தரணமஸி" என்று ஆபோசனம் செய்து
 
@@ -2256,7 +2228,7 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 
 पवित्रं अर्घ्यपात्रे निदध्यात् ॥ पितः प्रेत यत्किञ्चिदक्षिणासहितं ताम्बूलं समर्पयामि। उपवीती आर्द्राक्षितान् दत्वा साष्टाङ्गं प्रणमेत् । प्राचीनावीती। तिलानादाय, गोत्र शर्मन् पितः प्रेत उत्तिष्ठ इति आवाहितात् दर्भात्, उत्थापनं, तथाऽग्नेश्वोत्थापनं कुर्यात् ॥ उपवीती शुष्क गोमय शकलान् ब्रीहीं श्वादाय अस्म कुल मभिवर्धतामिति पाद्यस्थाने प्रक्षिपेत् । प्राणानायम्य प्राचीनावीती प्रीत्यर्थं, गोत्रस्य + श्राद्धे पितृप्रेत तृप्त्यर्थं पिण्डप्रदानं करिष्ये । दक्षिणा दर्भे मार्जयतां मम पिता प्रेतः इति तिलोदकं निनीय। पिण्डार्थं पृथक्कृतं अन्नं हुतशिष्टान्नञ्च एकीकृत्य अश्वखुरप्रमाणमेकं पिण्डंकृत्वा, गोत्रस्य + श्राद्धे - गोत्राय शर्मणे पित्रे प्रेताय एतं पिण्डं ददामि। उत्थाय, गोत्र शर्मन् पितः प्रेत एतं पिण्डमुपतिष्ठ॥ उपविश्य अर्घ्यजलेन चरुस्थालीं पूरयन् मार्जयतां ममपिताप्रेतः, इति पिण्डमप्रदक्षिणं परिषिच्य दक्षिणतः अघो बिलं कुर्यात्। उपवीती पात्रमुत्तानं कृत्वा प्रोक्ष्यान्यत्रनिदध्यात् ।। उपवीती आचम्य सात्विक त्यागं कुर्यात् ॥ मन्त्र स्नानं कृत्वा माध्याह्निकं कुर्यात् ।। ...
 
-१७. आवृत्ताद्यमासिकं
+### १७. आवृत्ताद्यमासिकं
 
 निमन्त्रित ब्राह्मण माहूय तस्य पादौ प्रक्षालयित्वा, आचमय्य स्वयमपि पादौ प्रक्षाल्य आचम्य पवित्रं धृत्वा प्रणम्य। प्राचीनावीती। வைத்து, “ப்ராணாய ஸ்வாஹா ப்ராணாய இதம் ந மம" என்பதாக பஞ்ச ப்ராணாஹுதிகளையும் செய்து வைத்து, "ப்ரம்மணி மே ஆத்மாம்ருதத்வாய!', "யதாஸுகம் ஜுஷத்வம்" என்று ப்ரார்த்திக்கவும். -
 
@@ -2271,7 +2243,7 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 
 கடைசியாக நிர்ருதியில் உள்ளது. ஆக மொத்தம் முப்பத்திரண்டு ஆஹுதிகள். மந்த்ரமாவது "யமாய் ஸோமம் + आशंकंकड़: ஸ்வாஹா யமாய இதம் ந மம" என்பதாகும். இப்படியாக முதல் எட்டு ஆஹுதி ஆனதும், “மத்யே பாநீயம் ஸமர்ப்பயாமி" என்று பாநீயம் ஸமர்ப்பித்து அடுத்த பாகத்தை எட்டு ஆகப் பிரித்து ஹோமம் செய்து பாநீயம் ஸமர்ப்பிக்க வேண்டும். இப்படியாக முப்பத்திரண்டு ஆஹுதிகள் ஆனதும் “பித: ப்ரேத ஸம்பந்நம் பித: ப்ரேத த்ருப்தோஸி பித: பரேத அம்ருதா பிதா- நமஸி" என்று ஆபோசனம் ஸமர்ப்பித்து, “ஹஸ்த ப்ரக்ஷாளநம் ஸமர்ப்பயாமி, ஆசமனம் ஸமர்ப்பயாமி" எனக் கூறவும். "
 
-164
+### 16
 
 “அப: ப்ரதாய” அர்க்ய பவித்ரத்தை எடுத்து கை ஸ்தானத்தில் வைத்து, “யாதிவ்யா ஆப: + பவந்து, பித: ப்ரேத இயந்தே புக்தி த்ருப்தி: புநச்சுத்தோதகம்" பவித்ரத்தை அர்க்ய பாத்ரத்தில் வைக்க வேண்டும்.
 
@@ -2280,7 +2252,7 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 
 एकादशाहे कर्तव्यं
 
-१८. पादप्रक्षालनं
+### १८. पादप्रक्षालनं
 
 वर्तुलाकारं कुण्डं खात्वा गोत्रस्य शर्मणः पितुः प्रेतस्य ‘‘पाद्यस्थाने इदमासनं" इति दक्षिणाग्रं दर्भ निधाय, इदमर्चनं । इमे तिला: । सकलाराधनैः स्वर्चितं | गोत्र शर्मन् पितः प्रेत स्वागतं, इति प्रार्थयेत् । (सुस्वागतं), इदन्ते पाद्यं इति तिलमिश्रेण जलेन ब्राह्मणस्य पादौ प्रक्षालयेत् । तत्रापि दक्षिणं पादं प्रथमं प्रक्षाल्य सव्यं प्रक्षालयेत् । (सुपाद्यं ।) उपवीती कर्तास्वयं पादौ प्रक्षाल्य द्विराचमनं कुर्यात् ।। कुण्डस्य ईशान दिग्भागे स्वस्य पादप्रक्षालनं कर्तव्यं आचमनंच । अनन्तरं भोक्ताऽऽचमनं कुर्यात्।
 
@@ -2295,17 +2267,19 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 
 यथा स्थान मुपविश्य प्राचीनावीती यत्र क्वचाग्निमिति विधिना अग्निं प्रतिष्ठाप्य, आद्यमासिक प्रयोगवत् दव संस्कारान्तं कुर्यात् तथैवार्घ्यग्रहणं । तथैव भोजन स्थल सम्मार्जनञ्च (अत्रभोजनकाले भोत्तु प्रत्यङ्मुखत्वं यथाभवेत् तथैव सौकर्येण कल्पनीयम् )
 
-१९. आवाहनं
+### १९. आवाहनं
 
 गोत्रं शर्माणं पितरं प्रेतमावाहयिष्ये । (आवाहय ।) उत्थाय आयाहि, पित: प्रेत सोम्यगम्भीरैः पथिभिः पूर्व्येः प्रजामस्मभ्यं ददद्रयिञ्च (ददती) दीर्घायुत्वञ्च शतशारदञ्च | गोत्रं शर्माणं पितरं प्रेतमावाहयामि । इति आद्य मासिकवत् दर्भे आवाहयेत् । गोत्रस्य शर्मणः पितुः प्रेतस्य इदमासनं इति दर्भं समर्प्य इदमर्चनं । इदन्ते तिलोदकम् ।। इदमर्चनं । पूर्ववत्पादप्रक्षालनम् ।।
 
-पूर्ववद्वरणम् २०. अर्घ्यदानं
+पूर्ववद्वरणम् 
+
+### २०. अर्घ्यदानं
 
 हस्तेऽप:प्रदाय अर्घ्य पवित्रमादाय ब्राह्मणस्य हस्ते निधाय, यादिव्या आपः + स्योनाः भवन्तु । गोत्र, शर्मन् पितः प्रेत, इदन्ते अर्घ्यं । (अस्त्वर्घ्यं ।) पुनश्शुद्धोदकं । पवित्रं पात्रे निदध्यात् ॥
 
 ததாமி என்று பிண்டத்தை வைத்து எழுந்திருந்து, 'கோத்ர, சர்மந், பித: ப்ரேத ஏதம் பிண்டம் உபதிஷ்ட" என்று உபஸ்தானம் செய்து பிண்டம் இருந்த பாத்ரத்தில் எள் சேர்த்து அர்க்ய தீர்த்தத்தையும் சேர்த்து, அந்த பவித்ரத்தையும் அவிழ்த்து, ''மார்ஜயதாம் மம பிதா ப்ரேத:'' என்று அப்ரதக்ஷிணமாக பரிஷேசனம் செய்து, தென்னண்டை கவிழ்த்து உபவீதம் செய்து கொண்டு, பாத்திரத்தை நிமிர்த்தி ப்ரோக்ஷித்து பிண்டத்தை எடுத்து வைக்க வேண்டும். அல்லது நகர்த்தி வைக்க வேண்டும். உபவீதம், ஆசமனம், ஸாத்விக த்யாகம், மந்த்ர ஸ்னானம், மாத்யான்னிகம்.
 
-17. ஆவ்ருத்த ஆத்யமாஸிகம்
+### 17. ஆவ்ருத்த ஆத்யமாஸிகம்
 
 ப்ராம்மணனை நிமந்த்ரித பாதப்ரக்ஷாளநம் ப்ராம்மணனை வரவழைத்து, ஸாதாரணமாக செய்து கொள்ளச் சொல்லி, ஆசமனத்தையும்
 
@@ -2316,15 +2290,14 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 
 एकादशाहे कर्तव्यं
 
-२१. अर्चनाद्यलङ्कारः
+### २१. अर्चनाद्यलङ्कारः
 
 " अर्चत प्रार्चत प्रियमेधास: अर्चत, अर्चन्तु पुत्रका, उत पुनर्मुधिष्णवर्चत । इदन्ते अर्चनं । गन्धद्वारां + श्रियं । अलङ्करणार्थे अमीते गन्धाः। ओपॅधयः, प्रतिमोदध्वं, एनं, पुष्पॉवती: सुपप्प॒लाः। अयं वॅः, गर्भं: ऋत्वियः, प्रत्नं सधस्थं आसॅदत् ।। (आयनेते, परायणे, दूर्वारोहन्तु, पुष्पिणी: । हृदाश्च, पुण्डरीकाणि समुद्रस्य, गृहा: इमे ।।) इमानि पुष्पाणि ।। धूप दीपौ न स्तः । युवाँसु॒वासः, परिवीतः, आगा॑त्, सउ॒श्रेया॑न्, भवति, जायँमानः। तन्धीरॉसः, कवयॅः, उन्नॅयन्ति, स्वाधियॅः, मनॅसा, देवयन्तः। आच्छादनार्थं इदं वस्त्रं । उत्तरीयार्थं, इदमुत्तरीयं । पानीयार्थं, इमौ, उदकुम्भौ। आभरणार्थं ( धारणार्थं) इदं सुवर्णमङ्गलीयकं। पवित्रार्थं अयं दर्भः। शेषोपचारार्थे इमेतिलाः । सकलाराधनैः स्वर्चितम् ॥ उपवीतं । सकृदाचमनं ।। "
 
-२२. पुनरर्घ्यं
+### २२. पुनरर्घ्यं
 
 प्राचीनावीतं । हस्तेऽपः प्रदाय ब्राह्मणहस्तेनिधाय, यादिव्याः + स्योनाः भवन्तु - गोत्र शर्मन्, पितः,
 
-अर्ध्य पवित्रमादाय
 
 செய்து கொள்ளச் சொல்லி, ஆஸனத்தில் உட்கார வைக்க வேண்டும். அவ்விதம் கர்த்தாவும் பாத ப்ரக்ஷாளனம், ஆசமனம் செய்து ஒரு பில் பவித்ரத்தை தரித்து, 'ப்ராசீநாவீதி – அசேஷே + ஸ்வீக்ருத்ய - கோத்ரஸ்ய + அத்ய ஏகாதசேஹநி ஆவ்ருத்தாத்ய மாஸிக மஹைகோத்திஷ்ட ச்ராத்தம் கர்த்தும் யோக்யதாஸித்தி மநுக்ருஹாண கோத்ராய சர்மணே பித்ரே ப்ரேதாய நம:' என்று எள்ளினால் அர்ச்சித்து உட்கார்ந்து உபவீதம், ப்ராணாயாமம், ப்ராசீநாவீதம் செய்து கொண்டு ஸங்கல்ப்பம் முழுவதையும் சொல்லி, "கோத்ரஸ்ய + அத்ய ஏகாதசேஹநி ஆவ்ருத்த ஆத்யமாஸிக மஹைகோத்திஷ்ட ச்ராத்தம் கரிஷ்யே" (குருஷ்வ என்று ப்ரதிவசனம்) உபவீதம், ஸாத்விக த்யாகம், வரணம், பாதப்ரக்ஷாளநம், க்ருஸரம், தாம்பூலம், அப்யஞ்ஜனம் இவைகளை ஆத்யமாஸிகத்தில் போல் சொல்லியது இங்கும் ப்ராம்மணனிடத்தில் செய்ய வேண்டும்.
 
@@ -2335,11 +2308,11 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 
 प्रेत, इयन्ते दक्षिणातृप्तिः । ( अस्तु दक्षिणातृप्तिः ।) पुनश्शुद्धोदकम् । पवित्रं पात्रेनिदध्यात् ॥
 
-२३. प्रधान होमः
+### २३. प्रधानहोमः
 
 उद्भियतामग्नौचक्रियतां। (काममुद्रियतां काममग्नौ च क्रियताम् ॥ ) समन्त मप्रदक्षिणं परिषिच्य, हविः पात्रे चरुमादाय श्रपयित्वाऽभिघार्य, दक्षिणत उद्वास्य प्रतिष्ठितमभिघारयति । दर्व्यामुपस्तीर्य, मेक्षणेन चरुं सकृदवदाय सकृदभिधार्य, दर्ज्या अधस्तात् मेक्षणं निधाय, गोत्रस्य + आवृत्ताद्यमासिकमहैकोद्दिष्ट श्राद्धे गोत्राय शर्मणे पित्रे प्रेताय यमाय च स्वाहा । गोत्राय शर्मणे पित्रे प्रेताय यमाय च इदन्नमम | मेक्षणं निधाय, दर्व्यामाज्य मादाय गोत्राय शर्मणे पित्रे प्रेताय यमाय च स्वाहा । (इत्याज्याहुतिः) गोत्राय शर्मणे पित्रे प्रेताययमाय च इदन्नमम। मेक्षण मग्नौप्रहृत्य समन्त मप्रदक्षिणं परिषिञ्चेत् ।। .
 
-२४. भोजनार्थं परिवेषणं, दत्तं - भोजनं
+### २४. भोजनार्थं परिवेषणं, दत्तं - भोजनं
 
 गोत्रस्य शर्मणः पितुः प्रेतस्य भोजन स्थाने इदमासनं। इदं पात्रासनम्। निमन्त्रितः ब्राह्मण: भोजनाय प्रत्यङ्मुखत्वेनावस्थितो भवति । இருவரும் ஸ்னானம் செய்து உலர்ந்த வஸ்திரத்தைத் தரித்து புண்ட்ரதாரணத்தையும் செய்து கொள்ள வேண்டும். அக்நிப்ரதிஷ்டை ஆத்ய மாஸிகத்தில் உள்ளதுபோல் தர்வீ ஸம்ஸ்காரம் வரை செய்ய வேண்டும்.
 
@@ -2392,17 +2365,17 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 
 105
 
-७. द्वादशाहकृत्यम्
+## ७. द्वादशाहकृत्यम्
 
 द्वादशाहे प्रात: स्नात्वा सन्ध्योपासनादि प्रातराह्निकमनुष्ठाय शुद्धयर्थ पुण्याहञ्चकुर्यात् ।
 
-पञ्चदश (षोडश) एकोद्दिष्ट श्राद्धानि
+## पञ्चदश (षोडश) एकोद्दिष्ट श्राद्धानि
 
 एकदर्भकृत पवित्रं धृत्वा प्रणम्य प्राचीनावीती, अशेषे + स्वीकृत्य गोत्रस्य शर्मणः मम पितुः प्रेतस्य अद्य द्वादशेऽहनि सपिण्डीकरण श्राद्धं करिष्यन् तत्पूर्व भावीनि, ऊनमासिक, आदीनि, ऊनाब्दिकपर्यन्तानि पञ्चदश (षोडश) एकोद्दिष्टश्राद्धानि तत्तत्कालादाकृष्य मुख्यतः कर्तु मशक्तः तत्प्रतिनिधितया यत्किञ्चिद्धिरण्य रूपेणकर्तुं योग्यता सिद्धिमनुगृहाण।
 
 अत्रायं विवेक: । सौरमासे त्रयोदश तारीकात्परं मृतानां नाधिमासः सम्भवति । तथा दशम तारीक पर्यन्तं मृताना मधिमासस्सम्भवत्येव ।
 
-7. த்வாதசாஹக்கு த்யம்
+## 7. த்வாதசாஹக்கு த்யம்
 
 “ப்ராத ஸ்னானம், ஸந்த்யோபாஸநம், ப்ரம்ம யஜ்ஞம்” வரையான ஆஹ்நிகத்தை அனுஷ்டித்து சரீர சுத்யர்த்தமாகவும், ஸ்தல சுத்யர்த்தமாகவும், புண்யாஹவாசனம் செய்ய வேண்டும்.
 
@@ -2437,13 +2410,13 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 
 सदेवः श्री जनार्दनः प्रीयतां । श्री विष्णु पादे दत्तम् इति दक्षिणाग्रे दर्भे तुलसीमिश्रित तिलोदकं ( स्वस्यहस्ते स्वधर्मपत्न्यासमर्पितं) निनयेत् । उपवीती उत्तराभिमुखः गय गय गय गयाश्राद्धं गयाश्राद्धं गयाश्राद्धं । प्राचीनाबीती, दक्षिणाभिमुखः, अक्षय्य वटः, अक्षय्य वटः, अक्षय्य वटः । इत्युच्चार्य, पञ्चदश एकोद्दिष्टश्राद्ध द्रव्यं नाना गोत्रेभ्यः श्रीवैष्णवेभ्यस्तेभ्य स्तेभ्यः सम्प्रददे, नमः नमम अच्युतः प्रीयताम् । मुख्यकल्पे अत्र स्नात्वा धौत वस्त्रं पुण्ड्रादिकञ्चधृत्वा पुण्याहं वाचयेत् । तथा कर्तु मशक्त: मन्त्रस्नानं कृत्वा पुण्याहं वाचयेत्। अत्रावश्यं पुण्याहवाचनं कार्यं। केचित् प्रातः कृत पुण्याह तीर्थ प्रोक्षणेनैवालमिति साधयन्ति । तन्न साधु। एतावत्पर्यन्तं असकृदुच्चारित अपशब्ददोष परिहाराय ब्राह्मणमुखात् स्वस्त्यृद्धी अवश्यं वाचयेत् इति विशेषेण पितृमेधसारे उपदिष्टत्वात् इदानीमपि अवश्यं पुण्याहवाचनं कर्तव्यमेव ॥ -
 
-२. सपिण्डीकरणश्राद्धारम्भः
+### २. सपिण्डीकरणश्राद्धारम्भः
 
 अग्निसन्धानमौपासन होमञ्चकृत्वा माध्याह्निकं, इज्याराधनं पञ्चमहायज्ञञ्चानुष्ठाय निमन्त्रितब्राह्मणांश्चाहूयासनेषूपवेश्य स्वयं पादौ
 
 தெற்காகத் திரும்பி, "ப்ராசீநாவீதம், அக்ஷய்யவட:'' என்று மூன்று தடவை சொல்ல வேண்டும். "பஞ்சதச ஏகோத்திஷ்ட ச்ராத்த த்ரவ்யம் நாநாகோத்ரேப்ய: ஸம்ப்ரததே" என்று ஸமர்ப்பித்து விட்டு, உபவீதம், ஆசமனம், ஸாத்விக த்யாகம், ஸ்னானம் அல்லது (கௌணரீதியாக) மந்த்ர ஸ்னானம், புண்யாஹவாசனம், அக்நி ஸந்தானம், ஔபாஸந ஹோமம், மாத்யாஹ்நிகம், இஜ்யாராதனம், பஞ்ச மஹா யக்ஞம் செய்ய வேண்டும்.
 
-2. ஸபிண்டீகரண ச்ராத்தாரம்பம்
+### 2. ஸபிண்டீகரண ச்ராத்தாரம்பம்
 
 நிமர்ந்த்ரித ப்ராம்மணர்களை அழைத்து ஆஸனங்களில் உட்கார வைத்து, கர்த்தா ஸ்வயம் பாதப்ரக்ஷாளனம், ஆசமன த்வயம் செய்து மூன்று தர்ப்பங்களால் செய்யப்பட்ட பவித்ரத்தைத் தரித்து,
 
@@ -2482,7 +2455,7 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 
 उपवीती। दर्भेष्वासीनः दर्भान्धारयमाणः प्राणानायम्य गुरुपरंपरा ध्यानपूर्वकं सङ्कल्पं कुर्यात्, विष्वक्सेनं तमाश्रये। प्राचीनावीती श्री गोविन्देत्यादि अस्यां पुण्यतिथौ, श्रीभगवदाज्ञया श्रीमन्नारायण प्रीत्यर्थं गोत्रस्य + द्वादशेऽहनि पार्वणैकोद्दिष्ट समुच्चय विधानेन सपिण्डीकरण श्राद्धं करिष्ये। (कुरुष्व) उपवीती अपउपस्पृश्य सात्विकत्यागं कुर्यात्।
 
-३. वरणं
+### ३. वरणं
 
 विश्वेदेव हस्तेऽपः प्रदाय । ऋतु दक्ष संज्ञकानां विश्वेषां देवानामिदमासनं । पुनरपःप्रदाय। विश्वेदेवार्थे भवताक्षणःकर्तव्यः । कर्तास्वपाणिभ्यां प्रत्येकं दर्भ द्वय मादाय स्वस्य दक्षिणकराग्रेण, ब्राह्मणस्य दक्षिण पाणे रङ्गुल्यग्रान्, तथा स्वस्य सव्यहस्तेन ब्राह्मणस्य दक्षिण हस्त
 
@@ -2505,7 +2478,7 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 
 “தர்ப்பேஷு ஆஸீந: தர்ப்பாந்தாரயமாண: ப்ராணாநாயம்ய”. பரிபாஷையில் சொன்னபடி ஸங்கல்பித்து விஷ்வக்ஸேநம் தமாச்ரயே ஆனவுடன் ப்ராசீநாவீதம், 'ஸ்ரீ கோவிந்த + அஸ்யாம் புண்ய திதௌ ஸ்ரீ பகவதாஜ்ஞயா ச்ரீமந் நாராயண ப்ரீத்யர்த்தம் கோத்ரஸ்ய + த்வாதசேஹநி பார்வண ஏகோத்திஷ்ட ஸமுச்சய விதாநேந ஸபிண்டீகரண ச்ராத்தம் கரிஷ்யே" (குருஷ்வ என்று ப்ரதிவசனம்) உபவீதம், அப உபஸ்ப்ருச்ய, ஸாத்விகத்யாகம்.
 
-3.வரணம்
+### 3.வரணம்
 
 விச்வே தேவரிடத்தில், "அப: ப்ரதாய ஆஸநம். புநரப்: ப்ரதாய விச்வே தேவார்த்தே பவதாக்ஷண: கர்த்தவ்ய:' என்று இரு கைகளிலும் தர்ப்பங்களைக் கொண்டு வலது கையினால் ப்ராம்மணனின் வலது கை நுனியையும், இடது கையினால் பிராம்மணனின் முழங்கையையும் பிடிக்க வேண்டும். கீழே சொன்ன, 'க்ஷண: கர்த்தவ்ய:' என்றவுடன் ப்ராம்மணன்
 
@@ -2514,7 +2487,7 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 
 द्वादशाह कृत्यं
 
-४. पाद प्रक्षालनम्
+### ४. पाद प्रक्षालनम्
 
 उत्तरत: चतुरश्रं, मध्ये त्रिकोणं, दक्षिणत: वर्तुलाकारमितिकुण्डत्रयं खात्वा, विश्वेषां देवानां विष्णोच, पाद्यस्थाने इदमासनं इति दर्भद्वयं दर्भद्वयं आसनत्वेन चतुरकुण्डे समर्पयेत् । इमे अक्षताः। सकलाराधनैः स्वर्चितम् । प्राचीनावीती, पितुः पितृ पितामह प्रपितामहानां पाद्यस्थाने इदमासनं इति त्रिकोणाकार कुण्डेभुग्नं समर्पयेत् । इमेतिला: | सकला राधनैः स्वर्चितम्।। पितुः प्रेतस्य पाद्यस्थाने इदमासनं इति एकं दर्भं वर्तुलाकार कुण्डे समर्पयेत् । इमेतिला: | सकलाराधनैः स्वर्चितम् ॥
 
@@ -2524,7 +2497,7 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 
 ''ஓம் த்தா” என்ற பிரதிவசனம் கூற வேண்டும். அப்படியிருந்தபடியே, "ப்ராப்நோது பவாந்டப்ராப்நவாநி' என்று பதில் உரைக்க வேண்டும். இவ்விதமே ப்ராசீநாவீத, உபவீதங்களுடன் மற்ற மூவரின் வரணமும் செய்யப்பட வேண்டும்.
 
-4. பாத ப்ரக்ஷாளநம்
+### 4. பாத ப்ரக்ஷாளநம்
 
 வடவண்டை நான்கு மூலைகள் கொண்டதும் நடுவில் முக்கோணம் கொண்டதும் தென்னண்டையில் வர்த்துலமாகவும் (ரவுண்டாகவும்) குண்டங்கள் அமைய வேண்டும். விச்வே தேவருக்கும் விஷ்ணுற்கும் நான்கு மூலைப் படக்குகளில்
 
@@ -2539,7 +2512,7 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 
 उपवीती आज्यं, गोमयञ्चादाय, शुक्रमसि, गन्धद्वारां श्राद्ध संरक्षक श्रीविष्णो स्वागतं, इदन्ते पाद्यं ॥ तद्विष्णोः परमं + परमं पदम् ॥ कुण्डाना मीशान दिग्भागे स्वस्य पादौ प्रक्षाल्य द्विराचामेत् । अनन्तरं भोक्तारश्चाचमनं कुर्युः ।
 
-५. कृसरादिदानम्
+### ५. कृसरादिदानम्
 
 क्रतु दक्ष संज्ञकाः विश्वेदेवाः, अन्तः शुद्धयर्थं, अयं वः कृसरः । (तिल मिश्रितस्य गुडस्य कृसर इति नाम) आस्यशुद्धयर्थं, इदं वः ताम्बूलम्। शरीर शुद्धयर्थं इदं वः अभ्यञ्जनं एषां उपयोगः आवृत्ताद्यमासिक प्रयोगे लिखित: ।। प्राचीनावीती, वसुरुद्रादित्य स्वरूपाः पितुः, पितृपितामह प्रपितामहाः, अन्तः शुद्धयर्थं अयं वः कृसरः । आस्य शुद्धयर्थं, इदं वस्ताम्बूलम्, शरीरशुद्धयर्थं, इदं वो अभ्यञ्जनम् ||
 
@@ -2547,7 +2520,7 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 
 க்ரமப்படி உபவீத, ப்ராசீநாவீதங்களுடன் அக்ஷதை, எள் இவைகளைச் சேர்த்து அவரவர்களுக்குத் தக்கவாறு பாதப்ரளாக்ஷநம் செய்ய வேண்டும். குண்டங்களின் ஈசான்ய பாகத்தில் ஸ்வயம் பாதப்ரக்ஷாளநம் செய்து இரு ஆசமனங்கள் செய்ததும் பிராம்மணர்களையும் ஆசமனம் செய்யச் சொல்ல வேண்டும்.
 
-5. க்ருஸராதி தானம்
+### 5. க்ருஸராதி தானம்
 
 க்ரமப்படி உபவீத, ப்ராசீநாவீதத்துடன் க்ருஸரம், தாம்பூலம் அப்யஞ்ஜனம் இவைகளை ஆவ்ருத்தத்தில் சொல்லப்பட்டப்
 
@@ -2558,13 +2531,13 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 
 दर्शयेत् || निमन्त्रितान स्रापयित्वा स्वयञ्चनात्वा धौतं परिधाय, ऊर्ध्वपुण्ड्रांश्च धृत्वा प्रकृत कार्यं प्रक्रमेत ॥
 
-६. पात्रसादनादि
+### ६. पात्रसादनादि
 
 आचम्य यथास्थानमुपविश्य स्थण्डिलकल्पनादि प्राक्तोय निधानान्तं कृत्वा प्राचीनावीती, दक्षिणाभिमुखः सव्यञ्जान्वाच्य सव्यहस्तस्याङ्गुष्ठः उदगग्र: तथाऽङ्गुलय: दक्षिणाग्रायथा भवन्ति तथा भूमिंस्पृष्ट्वा दक्षिण हस्तः आह्वानमुद्रकश्च यथा भवति तथा चकृत्वा ये पार्थिवासः पितुः पितरः, ये अन्तरिक्षे, ये दिवि येवा मृताः बभूवुः, ते अस्मिन्, यज्ञे, समवयन्तां । ( सुसमवयन्तां । इति पितृवरण ब्राह्मण: प्रति वदेत् । ) अग्नेरुत्तरत: पात्रसादनार्थं दर्भान्संस्तीर्य, दर्वीमाज्यस्थालीं प्रोक्षणीमितरदव प्रणीता मिध्ममिति द्वन्द्वन्यञ्चिसादयित्वा, हवि: पात्रं, अहविः पात्रञ्च एकैकशः सादयित्वा अग्नेर्दक्षिणत: मेक्षणं प्रेत होमार्थ हविः पात्रञ्च एकैकशस्सादयित्वा तथा, अर्घ्य पात्राणि सादयित्वा, अग्नेर्दक्षिणत एव सर्वस्मात् पश्चिम स्थाने उदगग्रौदर्भों निधाय तयोः विश्वेदेवार्घ्यं विष्ण्वर्घ्यं च दक्षिणोत्तरत्वेन पृथक्पृथक् सादयित्वा तयोः पुरतः पितुः पितॄणामाबाहनार्थं भुग्न निधान स्थानं, तत्पुरतः पितुः पितॄणा मर्ध्यस्थानं । तत्पुरत: प्रेतावाहनार्थ दर्भनिधानस्थानं तत्पुरतः तार्घ्य स्थान मितिव्यवस्थितिः । "
 
 பிரகாரம் பெயர்களை நிர்தேசித்து ஸமர்ப்பிக்க வேண்டும். "இதம் உத்வர்த்தனம்'" என்று சீயக்காய்த் தூள் முதலானவைகளையும் ஸமர்ப்பித்து அப்யஞ்ஜன ஸ்னானம் செய்விக்க வேண்டும். கர்த்தாவும் ஸ்வயம் ஸ்னானம் செய்து தௌத வஸ்திரம் தரித்து, புண்ட்ரதாரணங்களை செய்து யதா ஸ்தானத்தில் (அக்நிக்கு மேலண்டையில்) அமர வேண்டும்.
 
-6. பாத்ர ஸாதனாதி
+### 6. பாத்ர ஸாதனாதி
 
 கர்த்தா ஆசமனம் செய்து அக்நிக்கு மேலண்டையில் உட்கார்ந்து ஸ்தண்டில கல்ப்பநம் ஆரம்பித்து ''அக்நிம் இத்வா" வரையில் செய்ய வேண்டும். ப்ராசீநாவீதம். இடது முழங்காலை கீழே இட்டுக் கொண்டு தென்புறம் பார்த்து, வலது கையை கூப்பிடும் முத்ரையில் வைத்து, "யே பார்த்திவாஸ: பிது: பிதர:
 
@@ -2575,7 +2548,7 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 
 प्रोक्षणी पात्र मादाय दर्भ द्वयकृत पवित्रान्तर्हिते प्रोक्षणीप आनीय, प्राचीस्त्रिरुत्पूय उत्तानानि पात्राणि कृत्वा सर्वाभिरद्भिः त्रिः प्र पैतृकं हविः पात्रं अह॒विः पांत्रञ्च एकैकश: सकृत्सकृत्प्रोक्ष्य तथा प्रेत पात्रञ्च सकृत्प्रोक्ष्य प्रोक्षणीपात्रं दक्षिणतो निधाय, अद्भिः पूरयि पवित्रान्तर्हिते प्रणीतिपात्रेऽप आनीय, प्राचीस्त्रिरुत्पूय समं प्राणै उत्तरेणाग्निं दर्भेषु सादयित्वा, दर्भे: प्रच्छाद्य । उपवीती ब्राह्मणं दक्षिण दर्भेषुनिषाद्य, अस्मिन्ममपितुः प्रेतस्य पार्वणैकोद्दिष्टसमुच्चय विधान सपिण्डीकरण श्राद्ध होम कर्मणि ब्राह्मणस्य इदमासनं । आसनार्थं त्रयं समर्प्य, समस्तोपचारान्समर्पयामि । प्राचीनावीती, आज्यसंस्कार संस्कारौच पूर्वप्रयोगोक्तवत्कुर्यात् ॥
 
-७. अर्घ्य ग्रहणं
+### ७. अर्घ्यग्रहणं
 
 उपवीती प्राणानायम्य प्राचीनावीती प्रीत्यर्थं, गोत्रस्य सपिण्डीकरण श्राद्धे पितुः पितृणां, अक्षय्यतृप्त्यर्थं पितृ प्रेततृप्त्यर्थञ्च अघ
 
@@ -2601,7 +2574,7 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 
 सोमस्यत्विषिरसि + दम्दशूका: । निरस्तं नमुचे: शिरः पूर्वोक्तवत्सर्वं कुर्यात् । दर्भत्रयकृत पवित्रं तस्मिन्स्थापयेत् । गन्धादिभिश्र अभ्यर्चयेत् । औदुम्बरदर्व्याऽपिदध्यात् । पत्रपुटं गन्धोदकेन पूरयित्वा, आम आगच्छतु, पिता प्रेतः देवयानान् + अस्मिन्यज्ञे सर्वकामान् लभते, अक्षय्यमाणं उप दुह्यता मिमान् । पितः प्रेत ते अर्घ्यं गृह्णामि । तिलोऽसि + प्रत्नवद्भिः प्रत्तएहि पितरं प्रेतं इमान् लोकान् प्रीणयाहिनः । मधुत्रयं सोमस्यत्विषिः निरस्तं नमुचेः शिरः । शन्नो देवी: एकदर्भकृत पवित्रं तस्मिन्सादयेत् । औदुम्बर दर्व्याऽपिदध्यात् ।। उपवीती पत्र पुटं गन्धोदकेन पूरयित्वा शन्नो देवी: + स्रवन्तुतः - श्राद्ध संरक्षक श्रीविष्णो ते अर्घ्यं गृह्णामि । यवोऽसि, धान्य राजानः वारुणः, मधुसंयुतः । निर्णोदः, सर्व पापानां, पवित्रं, ऋषिभिः, स्मृतं । यवान् निक्षिप्य मधुवाता इति मधुत्रयं । सोमस्यत्विषिः + निरस्तं नमुचे:, शिरः । शन्नोदेवी: शिरः। शन्नोदेवीः + स्रवन्तुनः । यवान्निक्षिप्य गन्धादिभि रभ्यर्च्य, पुष्पै रवकीर्य, पलाश पर्णेन पिधाय, दर्भैः प्रच्छादयेत् ।। " -
 
-7. அர்க்ய க்ரஹணம்
+### 7. அர்க்ய க்ரஹணம்
 
 உபவீதம், ப்ராணாயாமம், ப்ராசீநாவீதம், பிது: பித்ரூணாம் அக்ஷய்ய த்ருப்த்யர்த்தம், பித்ரு ப்ரேத த்ருப்த்யர்த்தஞ்ச அர்க்ய க்ரஹணம் கரிஷ்யே, கிருச்ரம்.
 
@@ -2612,11 +2585,11 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 
 द्वादशाह कृत्यं
 
-८. भोजनस्थल शुद्धिः
+### ८. भोजनस्थलशुद्धिः
 
 तिलाक्षतान्गृहीत्वा, अपहताः, असुराः, रक्षॉसि, पि॒शाचा:, येक्षयॅन्ति, पृथि॒वीमनु॒, अ॒न्यत्रेतः, ग॒च्छ॒न्तु, यत्रैषां, ग॒तं मनः॑ः । उर्दीरतां, अवँरे, उत्परॉस:, उन्मॅध्य॒माः पि॒तरः, सोम्यासः । असुंये, ईयुः, अवृकाः, ऋ॒त॒ज्ञाः, तेनो॑ऽवन्तु, पि॒तुः पि॒तरो हवे॑षु । अपहताः, असुरा:, रक्षॉसि, पिशाचा:, येक्षयॅन्ति, पृथिवीमनु, अन्यत्रेतः गच्छन्तु, यत्रास्यँ, गत॑मः । उदर्ता, अवॅरः, उत्पर: उन्मॅध्यमः, पिता प्रेतः, सोम्यः । असुं यः । इयाय, अवृकः, ऋतज्ञः, सनो॑ऽवतु, पि॒ता प्रेतः, हवेंषु। अपवित्रः, पवित्रो सर्वावस्थांगतोऽपिवा॥ यः स्मरेत्पुण्डरीकाक्षं सबाह्याभ्यन्तरदशुचिः। भूर्भुवस्सुवोभूर्भुवस्सुवो भूर्भुवस्सुवः॥ इति भोजन स्थल मुद्धत्यावोक्षेत् ॥ (प्रोक्षेत्) वा, "
 
-९. आवाहनम्
+### ९. आवाहनम्
 
 उत्थाय उपवीती, क्रतुदक्ष संज्ञकान् विश्वान्देवानावाहयिष्ये ।। आवाहय इति प्रति वचनम् ॥ विश्वे देवाः, शृणत, इ॒मं, हवँमे, ये
 
@@ -2646,15 +2619,15 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 
 पूर्णैः प्र॒जां, अ॒स्मभ्यं, दत्, रयिँञ्च, दीर्घायु॑त्वञ्च, शत शॉरदञ्च। गोत्रं शर्माणं पितरं प्रेतमावाहयामि इति पूर्वं सादिते दर्भे आवाहयति । पितुः प्रेतस्य इदमासनं । इद मर्चनं । इदन्ते तिलोदकम् ॥ उपवीती श्राद्ध संरक्षक श्री विष्णु मावाहयिष्ये । आवाहय इति प्रतिवचनं स॒हस्र॑शीर्षा, पुरुषः, स॒ह॒स्राक्षः स॒हस्र॑पात्। सभूमं वि॒श्वः वृ॒त्वा । अत्पॅतिष्ठत्, दशाङ्गुलम्।। श्राद्धसंरक्षक श्रीविष्णु मावाहयामि इति विश्वेषां देवानां आवाहन दर्भाणामुत्तरतः दर्भेषु आवाहयेत् ॥ विष्णोः इदमासनं। इदमर्चनं यवोदकमुत्सृजेत् ।।
 
-१०. पादप्रक्षालनम् वरणञ्च
+### १०. पादप्रक्षालनम् वरणञ्च
 
 पूर्ववत् आज्यगोमय लेपनपूर्वकं पाद प्रक्षालनं वरणञ्च कुर्यात् ।। कर्ता प्रथमतः स्वस्यपादौ प्रक्षाल्य आचमनं कुर्यात् । अनन्तरं भोक्तॄणामाचमनं विहितम् ॥ वरणञ्च पूर्वोक्तम् कुर्यात् । निमत्रिता: नमस्स हमानाय, नमोदुन्दु भ्याय वदेयुः,
 
-११. अर्घ्यदानम्
+### ११. अर्घ्यदानम्
 
 उपवीती विश्वेदेव हस्तेऽपः प्रदाय, अर्घ्य पवित्रमादाय हस्ते निधाय यादिव्या आपः पयसा सम्बभूवुः, या अन्तरिक्षे, उत, पार्थिवीर्याः । ? பவித்ரம் இவைகளைச் சேர்க்க வேண்டும். மதுத்ரயத்தினால் மூன்று தடவை மதுவைச் சேர்க்க வேண்டும். "ஸோமஸ்ய த்விஷி:'' என்பதனால் முன்பு போல விரல்களால் கலக்கி, நிரஸ்தம் என்பதால் அசடுகளை அகற்ற வேண்டும். ஜலத்தைத் தொட்டு விட்டு “சந்நோதேவீ:'' என்று எள்ளினால் அர்ச்சித்து, கந்தம், புஷ்பம் இவைகளைச் சேர்த்து, அத்தி இலையினால் மூடி தர்ப்பங்களால் மூட வேண்டும். உபவீதம். விச்வே தேவருடைய மந்திரம் போல்தான் விஷ்ணு அர்க்ய க்ரஹண மந்த்ரமும்.
 
-8. போஜன ஸ்தல சுத்தி
+### 8. போஜன ஸ்தல சுத்தி
 
 ப்ராசீநாவீதம். 'அபஹதா: + யத்ரைஷாம் கதம் மந: உதீரதாம் அவரே + ஹவேஷு. அபஹ்தா" | + ஆத்யமாஸிகத்தில் உள்ளதை உபயோகிக்கவும். ''அபவித்ர: + சுசி: பூர்புவஸ்ஸுவ:' என்று
 
@@ -2663,13 +2636,13 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 
 । हिरण्य वर्णाः, यज्ञियाः, तान आपः, शस्योनाः भवन्तु, ऋतु दक्ष संज्ञका विश्वेदेवाः इदंव: अर्घ्यं पुनश्शुद्धोदकं । पवित्रं अर्ध्य पात्रे निदध्यात् || प्राचीनावीती, पितृवरण ब्राह्मण हस्तेऽपः प्रदाय, अर्घ्य पवित्र मादाय, हस्ते निधाय यादिव्याः + भवन्तु पितुः पितृ पितामह प्रपितामहाः, इदं वः, अर्घ्यं । पुनश्शुद्धोदकं । पवित्रं, अर्घ्यपात्रे निदध्यात् ।। प्रेत वरण ब्राह्मण हस्तेऽपः प्रदाय अर्घ्य पवित्रमादाय, यादिव्याः + स्योनाः, भवन्तु, गोत्र शर्मन्, पितः, प्रेत इदं, ते अर्घ्यं । पुनश्शुद्धोदकं । पबित्रमर्घ्यपात्रे निदध्यात्।। उपवीती, विष्णु वरण ब्राह्मण हस्तेऽपः प्रदाय, पवित्रमादाय, हस्तेनिधाय, यादिव्याः + स्योनाः भवन्तु। श्राद्ध संरक्षक श्री विष्णो इदन्ते अर्घ्यं । पुनश्शुद्धोदकं पवित्रं पात्रे निदध्यात् ।। -
 
-१२. अर्चन गन्धाधुपचारः
+### १२. अर्चनगन्धाद्युपचारः
 
 अर्चत, प्रार्चत, प्रियमेधासो अर्चत, अर्चन्तु, पुत्रकाः, उतपुनर्नु, धिष्ण्वर्चत। विश्वेदेवाः इदं वः, अर्चनं (प्रा) पितुः पितृ पितामह, प्रपितामहाः इदंव: अर्चनं । पितः प्रेत इदन्ते अर्चनं । ( उप ) श्राद्ध संरक्षक श्रीविष्णो इदं ते अर्चनं ।
 
 மூன்று தடவைச் சொல்லி போஜன ஸ்தலத்தை ப்ரோக்ஷிக்க வேண்டும்.
 
-9. ஆவாஹநம்
+### 9. ஆவாஹநம்
 
 எழுந்து நின்று, “க்ரது தக்ஷ ஸம்ஜ்ஞகாந் விச்வாந் தேவாந் ஆவாஹயிஷ்யே" என்று விச்வேதேவ ப்ராம்மணனைப் பிரார்த்திக்க, அவரும் "ஆவாஹய" என்று சொல்ல, "விச்வே தேவா: + மாதயத்வம் - ஆகச்சந்து ஆகச்சந்து + பவந்துதே க்ரதுதக்ஷ ஸம்ஜ்ஞகாந் விச்வாந் தேவாந் ஆவாஹயாமி" என்று பாத்ர ஸாதந தர்ப்பங்களுக்கு வடவண்டையில் கிழக்கு நுனியாகப் போடப்பட்டிருக்கும், தர்ப்பங்களில் ஆவாஹனம் செய்து தர்ப்பாஸனத்தை இதமாஸநம் என்று ஸமர்ப்பித்து அக்ஷதையினால் அர்ச்சித்து யவோதகத்தை மேலே விட வேண்டும். ப்ராசீநாவீதம்.
 
@@ -2701,7 +2674,7 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 
 उपवीती श्री विष्णो, आच्छादनार्थं, इदं वस्त्रं उत्तरीयार्थं इद मुत्तरीयं, पानीयार्थं, इमौ उद कुम्भौ । धारणार्थं इदं सुवर्ण मङ्गुलीयकं । पवित्रार्थं इमौ दर्भों। शेषोपचारार्थे इमे अक्षताः । सकलाराधनैः स्वर्चितम् । सकृदाचमनं ।
 
-10. பாத ப்ரக்ஷாளநம்
+### 10. பாத ப்ரக்ஷாளநம்
 
 விச்வே தேவரின் குண்டத்தில் விச்வே தேவரை நிற்கச் செய்து, பவித்ரத்தைக் காதில் தரித்து, சுக்ரமஸி கந்தத்வாராம் இரு மந்திரங்களால் நெய்யினாலும் கோமயத்தினாலும் பிராம்மணனின் பாதங்களைத் தடவி, கையைச் சுத்தி செய்து, உள்ளங்கையில் பத்னியினாலோ, அன்யனாலோ விடப்பட்ட அக்ஷதை (யவம்) கலந்த ஜலத்தை "இதம் வ: பாத்யம்" என்று திருவடிகளில் பூர்ணமாகச் சேர்த்து சோதனம் செய்ய வேண்டும் "ஸமஸ்த ஸம்பத் + LITLUGU:'",
 
@@ -2712,11 +2685,11 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 
 द्वादशाह कृत्यं
 
-१३. पुनः स्वधा दानं (पुनरर्घ्यं )
+### १३. पुनः स्वधा दानं (पुनरर्घ्यं )
 
 विश्वेदेव हस्तेऽपः प्रदाय अर्घ्य पवित्रमादाय हस्तेनिधाय, यादिव्या आपः + स्योना भवन्तु | ऋतु दक्ष संज्ञका विश्वे देवाः, इयं वो दक्षिणा तृप्तिः । पुनश्शुद्धोदकं । पवित्रं पात्रे निदध्यात् । प्राचीनावीती। पितृवरण ब्राह्मण हस्तेऽपः प्रदाय, पवित्रमादाय, हस्तेनिधाय, यादिव्याः + स्योना भवन्तु। वसुरुद्रादित्यस्वरूपाः पितुः, पितृपितामह प्रपितामहाः इयं वः स्वधा । पुनश्शुद्धोदकं । पवित्रं पात्रे निदध्यात् । प्रेत वरण ब्राह्मण हस्तेऽपः प्रदाय, पवित्र मादाय हस्ते, निधाय, यादिव्याः + स्योनाभवन्तु । गोत्र शर्मन् पितः, प्रेत इयन्ते दक्षिणा तृप्तिः । पुनः शुद्धोदकं । पवित्रं पात्रे निदध्यात् । उपवीती विष्णुवरण ब्राह्मण हस्तेऽपः प्रदाय पवित्र मादाय हस्ते निधाय यादिव्याः + स्योना भवन्तु । श्राद्ध संरक्षक श्री विष्णो इयन्ते दक्षिणा तृप्तिः । पुनशुद्धोदकं । पवित्रं पात्रे निदध्यात्।
 
-१४. प्रधानहोमादि कार्याणि
+### १४. प्रधानहोमादिकार्याणि
 
 प्राचीनावीती ‘‘उद्भियतामग्नौ च क्रियतां" इति पितृवरण ब्राह्मणं प्रार्थेयेत् । काम मुद्भियतां, काममग्नौ च क्रियताम्। इति तस्मिन्ब्राह्मणे கால்களில் தடவி "இதம் வ: பாத்யம்'' என்று திருவடிகளில் சேர்த்து சோதிக்க வேண்டும். 'சந்நோதேவீ: + அபிஸ்ரவந்துந:''.
 
@@ -2735,7 +2708,7 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 
 ஆரம்பித்து ஆஸனம் ஸமர்ப்பித்து “ப்ராப்நோது பவாந்'' வரை க்ரமமாகச் செய்ய வேண்டும். நிமந்த்ரிதர்கள் நமஸ் ஸஹமாநாய -நமோ - துந்துப்யாய சொல்லவேண்டும்.
 
-11. भकं groomi
+### 11. भकं groomi
 
 உபவீதம். விச்வே தேவரின் கையில் அப: ப்ரதாய அர்க்ய பவித்ரத்தை வைத்து, "யாதிவ்யா ஆப:' என்கிற மந்திரத்தினால் அர்க்யம் ஸமர்ப்பித்து புநச் சுத்தோதகம் ஸமர்ப்பித்து அர்க்ய பவித்ரத்தை அர்க்ய பாத்ரத்தில் வைக்க வேண்டும். இவ்விதமே ப்ராசீநாவீதத்துடன், பித்ரு வரணத்திற்கும் நிமித்த வரணத்திற்கும் அர்க்யம் ஸமர்ப்பித்து உபவீதத்துடன் விஷ்ணு வரணத்திற்கு ஸமர்ப்பிக்க வேண்டும்.
 
@@ -2750,7 +2723,9 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 
 अन्तर्दघे, ऋतुभिः, अहोरात्रैॲ, सन्धिभिः । अर्धमासैश्च, मासैश्च, अ॒न्तर॒न्यं, पितुः प्रपिताम॒हात्, धे, शर्मर्णे, स्वाहा॑। शर्मणे इदन्नमम।
 
-अवदान धर्मेणावदाय, उपवीतीस्विष्टकृदर्थं हविः प्रत्यभिघार्य प्राचीनावीती येचेह पितुः पितरॅः, येचनेहॅ, याँर्श्वे, वि॒द्म, यान्, उचन 12. அர்ச்சனாதிகள்
+अवदान धर्मेणावदाय, उपवीतीस्विष्टकृदर्थं हविः प्रत्यभिघार्य प्राचीनावीती येचेह पितुः पितरॅः, येचनेहॅ, याँर्श्वे, वि॒द्म, यान्, उचन 
+
+### 12. அர்ச்சனாதிகள்
 
 முதலில் அர்ச்சனம். ''அர்ச்சத ப்ரார்ச்சத' என்கிற மந்திரத்தினால் யவத்தினாலும், திலத்தினாலும் செய்ய வேண்டும். “கந்தத்வாராம்" என்கிற மந்திரத்தினால் கந்தம் ஸமர்ப்பிக்க வேண்டும். "@zu:" அல்லது "श्रुwCnGz" என்கிற மந்திரத்தினால் புஷ்பம், துளசி, தூரஸி என்கிற மந்திரத்தினால் தூபம், உத்தீப்யஸ்வ என்கிற மந்திரத்தினால் தீபம் அல்லது ஜலத்தினாலேயே தூப தீபங்களை ஸமர்ப்பிக்க வேண்டும். “யுவாஸுவாஸா?'' என்கிற மந்திரத்தினால் வஸ்திரம், தொடர்ந்து உதக பாத்திரங்கள், ஆபரணங்கள், பவித்ரத்திற்காக தர்ப்பங்கள், கடைசியாக யவம் (அக்ஷதை) திலம் இவைகளைக் கொண்டு அர்ச்சிக்க வேண்டும். முடிந்ததும் ஒரு ஆசமனம்.
 
@@ -2765,7 +2740,7 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 
 गोत्राय शर्मणे पित्रे प्रेताय यमाय च स्वाहा । गोत्राय शर्मणे पित्रे प्रेताय यमाय च इदन्नमम | उपवीती, दर्व्यामुपस्तीर्य पैतृकहविष:, उत्तरार्धात् सकृदवदाय (वत्सानांद्विरवदानं) द्विरभिघार्य अ॒ग्नये॑ स्व॒ष्ट॒कृते॑,
 
-13. புந: ஸ்வதா தானம் (புநரர்க்யம்)
+### 13. புந: ஸ்வதா தானம் (புநரர்க்யம்)
 
 முன்பு போல் நால்வருக்கும் அதே மந்திரத்தைச் சொல்லி, அர்க்யம் ஸமர்ப்பிக்க வேண்டும். ''இதம் வோ அர்க்யம்" என்கிற இடத்தில் விச்வே தேவருக்கும், விஷ்ணுவிற்கும், 'இயந்வோ தக்ஷிணா த்ருப்தி: இயந்தே தக்ஷிணா த்ருப்தி:' என்றும், பித்ரு வரணத்திற்கு 'இயம் வ: ஸ்வதா'' என்றும் நிமித்த வரணத்திற்கு, "இயம் தே தக்ஷிணா த்ருப்தி:'' என்றும் ஸமர்ப்பிக்க வேண்டும். இதர காரியங்கள் முன்பு போல ப்ராசீநாவீதம். பித்ரு வரணத்தைப் பார்த்து '"உத்த்ரியதாம், அக்நௌச க்ரியதாம்" என்று கேட்க அவரும், 'காமம் உத்த்ரியதாம், காமம் அக்நௌ ச க்ரியதாம்" என்று பதில் சொல்ல வேண்டும். இவ்விதம் நிமித்த வரணத்தையும் ப்ரச்னம் பண்ணி, அதே பதிலையும் பெற வேண்டும்.
 
@@ -2774,7 +2749,9 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 
 द्वादशाह कृत्यं
 
-स्वाहा॑ अग्नये, स्विष्टकृते, इदन्नमम । प्राचीनावीती दर्व्यामुपस्तीर्य, अहविष्यमादाय, अभिघार्य (अहविष्यं) स्वाहा॑, हुतदेवताभ्यः, इदन्नमम ।। मेक्षण मनौ प्रहरति । परिध्यञ्जनं । लेपकार्यं । आज्यस्थालीमुत्तरतः । प्रधानां दक्षिणतः । इतरां मध्ये | पात्रप्रयुक्तं तृण मत्र बर्हिः । दर्व्यामग्रं, मध्ये मध्यं, आज्यस्थाल्यांमूलमिति अक्का, एवं द्विः (आहत्य त्रिरक्त्वा ) एकदर्भ प्रज्ञातं निधाय आज्यस्थाल्यां पाणिभ्यां अक्तान् दर्भान् प्रतिष्ठाप्य सव्यं निरस्य, तिर्यञ्चं सव्यं हस्तं धारयन् दक्षिणेनाग्रं उद्युत्य प्रहृत्य पुनः, उद्युत्य, मध्यमं प्रहृत्य पुनः उद्युत्य मूलं प्रहरेत् । उपवीती, अपउपस्पृश्य, प्राचीनावीती, अवशिष्ठमेकं दर्मंच एवमेव प्रहरेत् । तर्जन्याऽग्निं त्रि: निर्दिशेत् । अग्निमभिमन्त्रच भूमौ निमार्टि: । मध्यमं परिधिं प्रहृत्य अन्यौ परिघीचयुगपत्प्रहृत्य दवद्वयेन सस्रावहोमं तूष्णीं जुहुयात्। वसुभ्यः, रुद्रेभ्यः, आदित्येभ्यः, सस्राव भागेभ्यः इदन्नमम । उपवीती अपउपस्पर्शनं कुर्यात्, प्राणायामः। प्रायश्चित्तहोमः । प्राणायामः। प्राचीनावीती। तूष्णीमप्रदक्षिणं परिषिञ्चेत् । प्रणीता अप आनीय, अन्यज्जलं पूरयित्वा, प्राच्यां दक्षिणायां, प्रतीच्यां, उदीच्यां ऊर्ध्वायामिति किञ्चित्किञ्चिज्जलं निनीय अवशिष्टा अपः पुरतः भूमौनिनीय समुद्रवः + मत्पयः इति स्वशिरसि प्रोक्ष्य उपवीती, ब्राह्मणाय नमः दक्षिणा ताम्बूलं समर्पयामि 14. ப்ரதான ஹோமம் முதலியவைகள் -
+स्वाहा॑ अग्नये, स्विष्टकृते, इदन्नमम । प्राचीनावीती दर्व्यामुपस्तीर्य, अहविष्यमादाय, अभिघार्य (अहविष्यं) स्वाहा॑, हुतदेवताभ्यः, इदन्नमम ।। मेक्षण मनौ प्रहरति । परिध्यञ्जनं । लेपकार्यं । आज्यस्थालीमुत्तरतः । प्रधानां दक्षिणतः । इतरां मध्ये | पात्रप्रयुक्तं तृण मत्र बर्हिः । दर्व्यामग्रं, मध्ये मध्यं, आज्यस्थाल्यांमूलमिति अक्का, एवं द्विः (आहत्य त्रिरक्त्वा ) एकदर्भ प्रज्ञातं निधाय आज्यस्थाल्यां पाणिभ्यां अक्तान् दर्भान् प्रतिष्ठाप्य सव्यं निरस्य, तिर्यञ्चं सव्यं हस्तं धारयन् दक्षिणेनाग्रं उद्युत्य प्रहृत्य पुनः, उद्युत्य, मध्यमं प्रहृत्य पुनः उद्युत्य मूलं प्रहरेत् । उपवीती, अपउपस्पृश्य, प्राचीनावीती, अवशिष्ठमेकं दर्मंच एवमेव प्रहरेत् । तर्जन्याऽग्निं त्रि: निर्दिशेत् । अग्निमभिमन्त्रच भूमौ निमार्टि: । मध्यमं परिधिं प्रहृत्य अन्यौ परिघीचयुगपत्प्रहृत्य दवद्वयेन सस्रावहोमं तूष्णीं जुहुयात्। वसुभ्यः, रुद्रेभ्यः, आदित्येभ्यः, सस्राव भागेभ्यः इदन्नमम । उपवीती अपउपस्पर्शनं कुर्यात्, प्राणायामः। प्रायश्चित्तहोमः । प्राणायामः। प्राचीनावीती। तूष्णीमप्रदक्षिणं परिषिञ्चेत् । प्रणीता अप आनीय, अन्यज्जलं पूरयित्वा, प्राच्यां दक्षिणायां, प्रतीच्यां, उदीच्यां ऊर्ध्वायामिति किञ्चित्किञ्चिज्जलं निनीय अवशिष्टा अपः पुरतः भूमौनिनीय समुद्रवः + मत्पयः इति स्वशिरसि प्रोक्ष्य उपवीती, ब्राह्मणाय नमः दक्षिणा ताम्बूलं समर्पयामि 
+
+### 14. ப்ரதான ஹோமம் முதலியவைகள் -
 
 பரிதிகளை வைக்க வேண்டும். உபவீதத்துடன் உபவீதத்துடன் ஆகார ஸமித்துக்களை வைக்க வேண்டும். ப்ராசீநாவீதம். அப்ரதக்ஷிண பரிஷேசனம் செய்து இத்மாதானம் செய்ய வேண்டும். உபவீதம், ஆகார ஹோமம், ஆஜ்ய பாகம், முகாஹுதி, ஸர்வ ப்ராயச்சித்த ஹோமம், ப்ராசீநாவீதம், ச்ரபயித்வா, அபிகார்ய, உதீசீநமுத்வாஸ்ய, ப்ரதிஷ்டிதம், அபிகாரயதி. அவ்விதம் ப்ரேத சருவையும் "ச்ரபயித்வா, தக்ஷிணத உத்வாஸ்ய ப்ரதிஷ்டித மபிகாரயதி, தர்வ்யாமுபஸ்தீர்ய, பித்ருக்களின் சருவிலிருந்து த்விரவதாய த்ரிரவதாநம்) ஸக்ருதபிகார்ய". இவ்விதமாக ஏழு ஆஹுதிகளுக்கும் ஒரே க்ரமம் தான். முதல் மந்திரம், "யந்மே பிதுர் மாதா - மேரேத: பிது: பிதா'. இப்படியாக (வத்ஸாநாம்
 
@@ -2817,7 +2794,7 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 
 
 
-१५. भोजनम्
+### १५. भोजनम्
 
 " भोजनकाले विश्वेदेवाः प्राङ्मुखाः पितुः पितृ पितामह प्रपितामहा उढङ्मुखाः पिताप्रेतः प्रत्यङ्मुख विष्णुस्सर्वमुखः । यन्मुखत्वे सर्वेषामपि सौकर्यं भवेत् तन्मुखो भवतु ।।
 
@@ -2849,7 +2826,7 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 
 அத்யாநுஷ்டிதே மம பிது: ப்ரேதஸ்ய பார்வண ஏகோத்திஷ்ட ஸமுச்சய விதாநரூப ஸபிண்டீகரண ச்ராத்த ஹோமாக்யே கர்மணி மந்த்ரலோப க்ரியா லோப த்ரவ்ய லோபேஷு ஸத்ஸ்வபி ஸர்வம் யதாசாஸ்திரம் அநுஷ்டிதம் பூயாதிதி பவந்த: அநுகிருஹ்ணந்து. (ததாஸ்து) (யதாசாஸ்த்ராநுஷ்டிதமஸ்து'') என்று ஒவ்வொருவரும் ப்ரதிவசனம் சொல்லவேண்டும். உபவீதம்.
 
-15. Guragonis
+### 15. Guragonis
 
 விச்வேதேவர், கிழக்கு முகம் பித்ரு வர்ணம் வடக்கு முகம், நிமித்த வரணம், மேற்கு முகம், விஷ்ணுவிற்கு இடத்தை அனுஸரித்து
 
@@ -2969,7 +2946,7 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 
 उभय पक्षस्यापि समानमेव । उपवीती विश्वेदेवा अ॒मृतापि॒धानमॅसि । पितु पितृपितामह प्रपितामहा अ॒मृतापि॒धानमॅसि । fg: अ॒मृतापि॒धानमॅसि। उपवीती श्राद्ध संरक्षक श्री विष्णो अ॒मृतो॑पि॒धानमॅसि। प्राचीनाबीती सर्वत्र अमृता पिधानमॅसि । निमन्त्रिता: समकाले, उत्तरापोशनंपीत्वा पितृपूर्वमुत्थाय स्वस्वहस्तादीन्प्रक्षाल्य द्विराचम्य, स्वस्व स्थाने उपविशेयुः ।
 
-१६. पुनरर्घ्यम्
+### १६. पुनरर्घ्यम्
 
 उपवीती, विश्वेदेव हस्तेऽप: प्रदाय अर्घ्य पवित्रमादाय, हस्ते निधाय यादिव्या आपः + स्योनाभवन्तु । ऋतु दक्ष संज्ञकाः विश्वेदेवाः इयं எ ரிரிA: (TA:) fA ர पुनश्शुद्धोदकं दत्वा पवित्रं पात्रे निदध्यात् । प्राचीनावीती, पितृहस्तेऽप: प्रदाय, अर्घ्यपवित्र मादाय हस्ते निधाय, या दिव्या आपः + स्योना 44 / 9: 9 f9:| (H) पुनश्शुद्धोदकं । पवित्रं पात्रे निदध्यात् ।।
 
@@ -2986,7 +2963,7 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 
 भुक्तितृप्ति: । (सुतृप्तिः) पुनश्शुद्धोदकं पवित्रं पात्रे निदध्यात्॥ उपवीती विष्णु हस्तेऽपः प्रदाय अर्घ्य पवित्र मादाय, हस्ते निधाय, यादिव्याः + Åசா புஈனு | அக விரிவுனர் ள் பூரA: (ர:) पुनः शुद्धोदकं । पवित्रं पात्रे निदध्यात् ।। दक्षिणा दानं
 
-१७. ताम्बूल
+### १७. ताम्बूलदक्षिणादानम्
 
 क्रतु दक्ष संज्ञकाः विश्वे देवा: रोचयत - (सुरोचयत) प्राचीनावीती पितुः पितृ पितामह प्रपितामहाः स्वदितं (अस्तु स्वदितं ) उपवीती, क्रतुदक्ष संज्ञका: विश्वेदेवाः भोजनान्ते यत्किञ्चित् सदक्षिणाकं, इदं वस्ताम्बूलं । (அரரிகன், அ) -, அருகி) वसुरुद्रादित्यस्वरूपाः पितृ पितामह यत्किञ्चित्सदक्षिणाकमिदं वस्ताम्बूलं । f9g: प्रपितामहाः
 
@@ -3019,7 +2996,7 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 
 : निमन्त्रिता: अग्निरायुष्मानिति षद्भिः सर्वस्याप्त्यै ऋध्यास्म, नवो नवो भवति इत्यादिभिः आशीर्वादं कुर्युः । "
 
-१८. उत्थापनम्
+### १८. उत्थापनम्
 
 प्राचीनावीती, वाजे वाजे + देवयानैः गोत्रान् शर्मण: वसुरुद्रादित्य स्वरूपान् पितुः पितृपितामह प्रपितामहान् यथास्थानं प्रतिष्ठापयामि इति दक्षिणतः भुग्ने, आवाहितान् पितृनुत्थापयेत् । तथा भुग्नान्तरेण पितृवरण ब्राह्मणमपि ‘“उत्तिष्ठत पितुः पितृपितामह प्रपितामहाः' इत्युत्थापयेत्। तथा गोत्र शर्मन् पितः, प्रेत उत्तिष्ठ इति दक्षिणतः दर्भे आवाहितं प्रेतमुत्थापयेत् । तथा ‘‘उत्तिष्ठ पितः प्रेत'' इति निमित्तत्वेन वृतं ब्राह्मणमपि, उत्थापयेत्। उपवीती ऋतु दक्ष संज्ञकान् विश्वान्देवान् यथास्थानं (உதிரி ப்ரஸாதத்தை) இறைத்து ஆசமனம் செய்து (ஏகதத்தம் பண்ணிய இடத்திற்குப் பக்கத்தில் தெற்கு நுனியான புக்நத்தில் பிண்டத்தை வைத்து முடிவில் காகங்களுக்கு இட வேண்டும்.
 
@@ -3036,7 +3013,7 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 
 प्रतिष्ठापयामि इति अनेरुत्तरत: दर्भेष्वावाहितान् यथास्थानं प्रतिष्ठापयेत् । तथा दर्भै: देवार्थं निमन्त्रितं ब्राह्मणं “उत्तिष्ठत विश्वेदेवाः" इति उत्थापयेत् । श्राद्ध संरक्षक श्री विष्णुं यथा स्थानं प्रतिष्ठापयामि इति उत्तरतः दर्भेष्वावाहितं विष्णुं यथास्थानं प्रतिष्ठापयेत् । तथा विष्णवर्थ ब्राह्मणमपि "उत्तिष्ठ विष्णो" इति उत्थापयेत् ।। "
 
-१९. ब्राह्मण विसर्जनम्
+## १९. ब्राह्मणविसर्जनम्
 
 प्रथमं निमित्तवरण ब्राह्मणं सकृत्प्रदक्षिणीकृत्य प्रणम्य तद्धस्ते गोमय शुष्कधूलीन् ब्रीहीं दत्वा 'अस्मत्कुल मभिवर्धतां' इति प्रार्थयेत् । सोऽपि तीत्वा वर्तुलाकार कुण्डे प्रक्षिप्य, "अभिवर्धतां युष्मत्कुलम् ।” तद्गृहीत्वा इति प्रतिब्रूय कुण्डमेकीकुर्यात् । तं ब्राह्मणमाद्वारमनुव्रजेत्। अनन्तरं इतरान्ब्राह्मणान् कनिष्ठपूर्वंत्रिः प्रदक्षिणीकुर्यात्।
 
@@ -3051,7 +3028,7 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 
 अद्यमे सफलं जन्मभवत्पादाब्जवन्दनात् । अद्यमे वंशजास्सर्वे याता वोऽनुग्रहाद्दिवम् । धन्यावयं, भवत्पादरजः पूतमिदं गृहम् । अनुग्रहश्च युष्माभिः कृतोऽस्मासुदयालुभिः ।। प्रणम्य तत्तद्धस्तेषु गोमय शुष्क धूलीन्, व्रीहींश्च दद्यात् । ‘अस्मत्कुलमभिवर्धतां'' इति चतान्प्रार्थयेत् । तेऽपि स्वस्व पादप्रक्षालन कुण्डसमीपं गत्वा कुण्डेषु गोमयशुष्क सहित ब्रीहीन्निक्षिप्य ‘‘अभिवर्धतां युष्मत्कुलं'' इति प्रतिब्रूयुः । कुण्डौच भेदीकुर्युः । तांश्चाद्वार मनुव्रजेत् ।। (
 
-२०. पिण्डप्रदानम्
+## २०. पिण्डप्रदानम्
 
 (सू द्वैधं दक्षिणाग्रान्दर्भान्संस्तीर्य तेषूत्तरै रपोदत्वा उत्तरैर्दक्षिणापवर्गान्पिण्डान्दत्वा, पूर्ववदुत्तरै रपोदत्वा उत्तरै रुपस्थायोत्तरयोद पात्रेणत्रिः प्रसव्यं परिषिच्य उत्तरं यजुरनवानं त्र्यवरार्ध्यमावर्तयित्वा न्युजय पात्राणि द्वन्द्वमभ्युदाहृत्योत्तरेण यजुषा शेषस्यग्रासवरार्ध्यं प्राज्ञीयात् ।) -
 
@@ -3070,7 +3047,7 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 
 उभय दर्भ मध्ये दक्षिणाग्रं दर्भं निधाय तस्मिन् “मार्जयँतां ममॅ पिता प्रेत:'' इति तिलोदकं निनयेत् । दक्षिणापवर्गान्पिण्डान्ददाति । एततॆपितुस्तत, शर्मन्, येच॒त्वामनु । एततॆपितुः पितामह, शर्मन् ये, च॒त्वामनँ । एतते॑ पितुः प्रपितामह, शर्मन् येच॒त्वामनु॒, एतत्ते पितु मतः दे, याश्चत्वामनु, एतत्ते पितुः पितामहि.... दे, याश्च॒त्वामă । एतत्ते॑ पितु: प्रपितामहि ... दे याश्च॒त्वामă। प्रेतार्थपिण्डमादाय - गोत्राय शर्मणे पित्रेप्रेताय एतं पिण्डं ददामि, उत्थाय, “गोत्र शर्मन् पितः, प्रेत, एतं पिण्डमुपतिष्ठ'' इति प्रेतपिण्डमुपतिष्ठेत ।। 4 "
 
-२१. अर्घ्यसंयोजनम्
+## २१. अर्घ्यसंयोजनम्
 
 उपवीती, उत्थाय प्रणम्य प्राचीनावीती अशेषे + स्वीकृत्य गोत्रस्य + श्राद्धे पितुः प्रेतस्य प्रेतत्व विमोचनार्थं, वस्वादि पितृत्व
 
@@ -3081,7 +3058,7 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 
 र्थं, गोत्रस्य सिद्धयर्थं समानोदकतासिद्धयर्थं अक्षय्यपरमपद प्राप्त्यर्थं, अर्घ्यसंयोजनं कर्तुं उपवीती, उपविश्य, प्राणानायम्य प्राचीनावीती + श्राद्धे पितुः प्रेतस्य प्रेतत्व विमोचनार्थं वस्वादि पितृत्व सिद्धयर्थं समानोदकता सिद्ध्यर्थं, अक्षय्यपरमपद प्राप्त्यर्थं, अर्घ्यसंयोजनं करिष्ये । अर्घ्यसंयोजनकाले तिथि + यत्किञ्चिद्धिरण्यदानं करिष्ये। हिरण्यगर्भ + यत्किञ्चिद्धिरण्यं नानागोत्रेभ्यः सव्यञ्जान्वाच्य प्रेतार्घ्यमादाय समानोमन्नँः, समितिः, समानी। समानं, मनॅः, सहचि॒ित्तं, एषां । समानं केलॅः, अभिसरॅभध्वम् । संज्ञानेनवः । ह॒विषा॑, य॒जा॒ाम॒ः । स॒मा॒ानीबॅः, आकूँतिः । समाना, हृदयानिवः । स॒मानमॅस्तु, वो मनँः। यथॉव:, सुसहासति ॥ (श्रीमते नारायणाय नमः) इति प्रेतार्घ्यं पित्राद्यर्घ्येणसंयोजयेत् ।। प्रयच्छमे सम्प्रददे ।। ... — ...
 
-२२. प्रेतपिण्डस्य त्रेधाकरणं
+## २२. प्रेतपिण्डस्य त्रेधाकरणं
 
 दर्भैः प्रेतपिण्डं त्रेधाकृत्य पितुः पित्रादिपिण्डानां अभिमुखत्वेन परिवर्तयेत् ।।
 
@@ -3089,7 +3066,7 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 
 விச்வே தேவர் ஆரம்பித்து முன்புபோல் நால்வருக்கும் அர்க்யம் ஸமர்ப்பிக்க வேண்டும். "விச்வே தேவா: இயம்வோ புக்தித்ருப்தி:1 அவ்விதம் பிது: பித்ரு பிதாமஹ ப்ரபிதாமஹா: இயம் வஸ்த்ருப்தி" ப்ரேத வரணத்திற்கு "இயம் தே புக்தி த்ருப்தி:''. விஷ்ணுவிற்கு "இயம் தே புக்தி த்ருப்தி:" என்பதாக அவரவர்களின் அர்க்ய ஜலத்திலிருந்து ஸமர்ப்பிக்க வேண்டும்.
 
-17. தாம்பூல தக்ஷிணாதாநம்
+## 17. தாம்பூல தக்ஷிணாதாநம்
 
 உபவீதம்."விச்வே தேவா: ரோசயத. ஸுரோசயத' என்று ப்ரதிவசனம். ப்ராசீநாவீதம். "பிது: பித்ரு பிதாமஹ ப்ரபிதாமஹா: ஸ்வதிதம் (அஸ்து ஸ்வதிதம்)" என்று ப்ரதிவசனம். உபவீத, ப்ராசீநாவீதங்களுடன் விச்வே தேவர் ஆரம்பித்து நால்வருக்கும் தாம்பூல தக்ஷிணை ஸமர்ப்பிக்க வேண்டும். "விச்வே தேவா:
 
@@ -3098,7 +3075,7 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 
 द्वादशाहकृत्यं
 
-२३. दानादीनि
+## २३. दानादीनि
 
 उपवीती प्राणानायम्य प्राचीनावीती र्थं गोत्रस्य + श्राद्धे मम पितुः प्रेतस्य वैतरणीनद्या: उत्तारणार्थं वैतरणी संज्ञक गोदानं करिष्ये (अथवा, वैतरणी संज्ञकगोप्रतिनिधि यत्किञ्चिद्धिरण्यदानं करिष्ये) सवत्सांगां स्नापयित्वा, अलंकृत्य प्रकृतस्थलमानीय प्रतिग्रहीतारं ब्राह्मणं पूजयित्वा प्रदद्यात् । महा विष्णु स्वरूपस्य (ब्राह्मणस्य ) श्री वैष्णवस्य इदमासनं। इमे गन्धा: । सकलाराधनैः स्वर्चितं । यमद्वारे पुरेघोरे तप्ता वैतरणी नदी | तांतर्तुं गां प्रदास्यामि ब्रह्मलोक जिगीषया । गवामंगेषु तिष्ठन्ति भुवनानि चतुर्दश । तस्मादस्याः प्रदानेनातः शान्तिं प्रयच्छमे ॥ हिरण्यगर्भ गर्भस्थं + प्रयच्छमे ।।
 
@@ -3149,7 +3126,7 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 
 संकल्पितेषु दानेषु लवणदानं करिष्ये । रसानां, अग्रजं श्रेष्ठं लवणं बलवर्धनम्। तस्मादस्य, प्रदानेन, अतश्शान्तिं प्रयच्छमे + हिरण्य + | ...
 
-ऐच्छिकदानानि
+### ऐच्छिकदानानि
 
 मम पितुः प्रेतस्य पिण्डसंयोजनकाले दीपदानं करिष्ये । परमात्मतनो, दीप, परमार्थप्रकाशक । आत्मानात्मविवेकोमे जायतां Hig: |1s cன் 3
 
@@ -3163,7 +3140,7 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 
 உபவிதத்துடன் குடும்பத்தில் அனைவருடனும் ஸாஷ்டாங்கமாக ப்ராணாமங்கள் செய்ய வேண்டும். பிராம்மணர்களும் ‘‘அக்நி ராயுஷ்மாந்'' என்று ஆரம்பித்து மந்திரங்களைச் சொல்லி, அக்ஷதையைச் சேர்க்க வேண்டும்.
 
-18. உத்தாபநம்
+## 18. உத்தாபநம்
 
 ப்ராசீநாவீதம் “வாஜே வாஜே + தேவயாநை: | கோத்ராந் சர்மண: வஸுருத்ராதித்ய ஸ்வரூபாந் அஸ்மத் பிது: பித்ரு பிதாமஹ ப்ரபிதாமஹாந் யதாஸ்தாநம் ப்ரதிஷ்டாபயாமி". அக்நிக்குத் தென்னண்டைப் புக்நத்தில் ஆவாஹநம் செய்யப்பட்டுள்ளவர்களை யதா ஸ்தானம் செல்லச் சொல்லி, அவ்விதம் வரிக்கப்பட்ட ப்ராம்மணனை தர்ப்பங்களினால் தூக்கிவிட (எழுப்பிவிட வேண்டும்.
 
@@ -3195,13 +3172,13 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 
 फलं मनो रथ फलं प्रददाति सदा नृणाम् । पुत्र पौत्राभिवृद्धयर्थं, अतश्शान्तिं प्रयच्छमे। इदं फलं सम्प्रददे । उपवीती मम पितुः अक्षय्य परमपदप्राप्त्यर्थं सालग्रावदानं करिष्ये । सालग्रावशिलाचक्रे भुननानि चर्तुर्दश । तस्मादस्याः, प्रदानेनातश्शान्तिं प्रयच्छमे। इमां श्रीमूर्तिं मम पितुः अक्षय्यपरमपदप्राप्तिं कामयमानस्तुभ्यमहं सम्प्रददे।
 
-२४. पिण्डसंयोजनम्
+## २४. पिण्डसंयोजनम्
 
 प्रणम्य प्राचीनावीती - अशेषे + स्वीकृत्य गोत्रस्य + श्राद्धे पितुः प्रेतस्य प्रेतत्व विमोचनार्थं वस्वादिपितृत्वसिद्ध्यर्थं सपिण्डतासिद्धयर्थं अक्षय्य परमपदप्राप्त्यर्थं पिण्डसंयोजनं कर्तुं योग्यता सिद्धिमनुगृहाण |
 
 उपवीती उपविश्य - प्राणानायम्य प्राचीनावीती अद्यपूर्वोक्त एवं गुण विशेषण विशिष्टायामस्यां पुण्यतिथौ... र्थं, गोत्रस्य + श्राद्धे पितुः प्रेतस्य प्रेतत्व - विमोचनार्थं वस्वादि पितृत्वसिद्ध्यर्थं -
 
-19. ப்ராம்மண விஸர்ஜநம்
+## 19. ப்ராம்மண விஸர்ஜநம்
 
 ஒரு வரண ப்ராம்மணனை உபவீதம். முதலில் நிமித்த ப்ரதக்ஷிணம் செய்து, ஸாஷ்டாங்க ப்ரணாமங்களைச் செய்து, அவர் கையில் காய்ந்த கோமயத் தூளுடன் நெல்லையும் சேர்த்து, "அஸ்மத் குலமபி வர்த்ததாம்" என்பதாக அவர் கையில் கொடுக்க, அவரும் அதை வர்த்துலமான குண்டத்தில் சேர்த்து அபிவர்த்ததாம் யுஷ்மத்குலம் என்று சொல்லி கால்களாலேயே கலைத்து விட்டு தன்னுடைய ஸாமான்களுடன் புறப்பட வேண்டும். கர்த்தாவும் வாசற்படி வரை சென்று வழியனுப்பி வைக்க வேண்டும். 4
 
@@ -3229,11 +3206,11 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 
 उपवीती प्राणानायम्य प्राचीनावीती र्थं वृद्धप्रपितामहप्रीत्यर्थं पाथेयदानं करिष्ये। देशाद्देशं प्रयातूणां अध्वश्रमहरं परम् । पाथेयं पुण्डरीकाक्ष, तृप्तिं शर्म प्रयच्छमे। हिरण्य + प्रयच्छमे इदं पाथेयं वृद्ध प्रपितामह प्रीतिं कामयमानः तुभ्यमहं संप्रददे ।।
 
-२५. पिण्डप्रदानशेष कार्यम्
+## २५. पिण्डप्रदानशेष कार्यम्
 
 पूर्ववत् पिण्डानामुपरि तिलोदकं दद्यात् । मार्जयन्तां पि॒तरॅः । मार्जयॅन्तां, पितामहाः। मार्जयन्तां प्रपितामहाः । मार्जयन्तां पितुर्मातरॅ: । मार्जयॅन्तां पितुः पिताम॒हॊः । मार्जयॅन्तां, पितुः प्रपिताम॒हॊः इति तिलोदकं निनयेत्। उत्थाय, येच॒वोऽī, येचास्मासु, आशॅसन्ते, याश्चवोऽī, याश्चास्मासुँ, आशॅसन्ते, तेचॅ वहन्तां, ताचवहन्तां, तृप्यन्तु, भवन्त:, तृप्यँन्तु, भवत्य:,तृप्यँत तृप्यँत तृप्यँत।
 
-20. பிண்ட ப்ரதானம்
+## 20. பிண்ட ப்ரதானம்
 
 ப்ராணாயாமம். ப்ராசீநாவீதம். 'கோத்ரஸ்ய + ச்ராத்தே பிது: பித்ரூணா மய்ய த்ருப்த்யர்த்தம், பித்ரு ப்ரேத த்ருப்த்யர்த்தஞ்ச பிண்ட ப்ரதானம் கரிஷ்யே'. அக்நிக்குத் தென் புறத்தில் (விச்வே தேவ விஷ்ணு அர்க்யங்களுக்கு மேல் புறத்தில்) இரு பாகமாக தெற்கு நுனிகளாக தர்ப்பங்களைப் பரப்ப வேண்டும். இரண்டிற்கும் நடுவில் ப்ரேத பிண்டம் வைப்பதற்கு ஒரு தர்ப்பத்தை தெற்கு நுனியாகவே சேர்க்க வேண்டும். ஒரு தொன்னையில் எள்ளைச் சேர்த்து ஜலத்தையும் சேர்த்து அந்த ஜலத்தை “மார்ஜயதாம் பிது: பிதர:, மார்ஜயந்தாம் பிது: பிதாமஹா:, மார்ஜயந்தா பிது: வடக்கே ப்ரபிதாமஹா:" என்று கீழண்டை பரப்பினதில் ஆரம்பித்து மூன்று இடங்களில் தெற்கே முடிக்க வேண்டும்.
 
@@ -3255,11 +3232,11 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 
 उपवीती आचम्य सात्विकत्यागं कुर्यात् । अत्रोपयुक्त समस्त पदार्थान् (अग्निंविहाय) आदाय नद्यादौ साधारणतः क्षिप्त्वा पवित्रञ्च विसृज्याचम्य स्नात्वा गृहमागच्छेत्। धौतवस्त्रं परिधाय पुण्ड्राणिच धृत्वाऽऽचम्य पुण्याहं वाचयेत्। मम पितरमुद्दिश्य अनुष्ठित सपिण्डीकरण श्राद्धस्थल शुद्धयर्थं, सोदकुम्भश्राद्धोपकरण द्रव्य शुद्धयर्थं सर्वोपकरण शुद्धयर्थं शुद्धयर्थ शुद्धि पुण्याहवाचनं करिष्ये। पुण्याहं वाचयित्वा कर्तारं स्थलादिकञ्चप्रोक्षेत् । सोदकुम्भ श्राद्धार्थं यथाक्रमं भगवन्तमाराध्य हविरादिकं भगवते निवेद्यच सोदकुम्भश्राद्धं यथाविधि कुर्यात् ॥
 
-२६. सपिण्डीकरण कारिका
+## २६. सपिण्डीकरण कारिका
 
 अनुज्ञाक्रतुदक्षाख्य वरणं वैश्व देविकम्। पितुः पितृभ्यः प्रेताय विष्णवेच नमोन्तकम्। सङ्क्ल्पस्सात्विकत्यागोदेवाद्यासनपूर्वकम् । सर्वेषामेव वरणं कुण्डेष्ववयव नेजनम्।
 
-21. அர்க்ய ஸம்யோஜநம்
+## 21. அர்க்ய ஸம்யோஜநம்
 
 உபவீதம். ப்ராணாயாமம். ப்ராசீநாவீதம். ''அசேஷே ஸ்வீக்ருத்ய கோத்ரஸ்ய + ச்ராத்தே பிது: ப்ரேதஸ்ய ப்ரேதத்வ விமோசநார்த்தம் வஸ்வாதி பித்ருத்வ ஸித்யர்த்தம், ஸமாநோதகதா ஸித்யர்த்தம், அக்ஷய்ய பரம்பத் ப்ராப்த்யர்த்தம் அர்க்ய ஸம்யோஜநம் கர்த்தும்.... உபவீதம் ப்ராணாயாமம் ப்ராசீநாவீதம் அனுஜ்ஞை, ஸங்கல்ப்பம், அர்க்ய ஸம்யோஜநம் கரிஷ்யே”. க்ருச்ராசரணம். இடது முழங்காலிட்டுக் கொண்டு ப்ரேதார்க்யத்தைக் கைகளில் எடுத்துக் கொண்டு (பித்ரர்க்யத்தின் இலை மூடியை விலக்கி விட்டு) மந்த்ர: + "ஸமாநோ +
 
@@ -3281,11 +3258,11 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 
 சொல்லி, சேர்க்க ஸுஸஹாஸதி” என்று பித்ரர்க்யத்தில் வேண்டும்."ஸ்ரீமதே நாராயணாய நம:' என்றும் மூன்று தடவை சொல்ல வேண்டும்.
 
-22. த்ரேதாகரணம்
+## 22. த்ரேதாகரணம்
 
 ஏழு தர்ப்பங்களை நனைத்து முறுக்கி இரு கைகளிலும் கொண்டு ப்ரேத பிண்டத்தை மூன்றாக (இரண்டு துண்டம்) போட்டு அதனதன் முகப்பைப் பித்ரு பிண்டங்களைப் பார்ப்பதாகத் திருப்பி வைக்க வேண்டும்.
 
-23. தாநாதிகள்
+## 23. தாநாதிகள்
 
 காமய உபவீதம், ப்ராணாயாமம், ப்ராசீநாவீதம், ப்ரீத்யர்த்தம். ''கோத்ரஸ்ய + ச்ராத்தே மம பிது: வைதரணீ நதி உத்தாரணார்த்தம் வைதரணீ ஸம்ஜ்ஞக கோதாநம் கரிஷ்யே” என்று கன்றுடன் கூடிய பசுவைக் குளிப்பாட்டி அலங்கரித்து, ''யமத்வாரே + ஜிகீஷயா கவாமங்கேஷு + ப்ரயச்சமே - ஹிரண்ய கர்ப்ப + ப்ரயச்சமே மம பிது: ப்ரேதஸ்ய வைதரணீ நத்யுத் தாரணார்த்தம் வைதரணீ ஸம்ஜ்ஞகாம் இமாம் காம் ஸவத்ஸாம் ஸதோஹந பாத்ராம் ஸதக்ஷிணாகாம் பகவத் ப்ரீதிம் மாந: துப்யமஹம் ஸம்ப்ரததே” என்று வாலில் ஜலத்தை விட்டுப் பிடித்துக் கொடுக்க வேண்டும். பிறகு, “பிண்ட ஸம்யோஜந காலே தசதாநாநி மநஸோத்திஷ்டதாநாநி ச கரிஷ்யே". தச தானத்தில் கோ தானம், பூ தானம், திலதானம் ஹிரண்ய தானம், வஸ்திர தானம், தான்ய தானம், வெல்லம்-வெள்ளி-உப்பு இவைகள் முக்யங்கள். மேலும் ஸௌகர்யத்திற்குத் தக்கவாறு தீப தானம், புஸ்தகம், உதகும்பம், குடை, பாதரக்ஷை, ஆஸனப் பலகை, யஷ்டி (ஊன்றுகோல்), விசிறி, கம்பளம், பலம் இவைகளில் எதைக் கொடுக்கலாமோ, அவைகளை அததற்கான தாந ச்லோகங்களைச் சொல்லி ஸமர்ப்பிக்கலாம். கடைசியாக ஸாளக்ராம தானம்.
 
@@ -3294,13 +3271,13 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 
 द्वादशाह कृत्यं:
 
-24. பிண்ட ஸம்யோஜநம்
+## 24. பிண்ட ஸம்யோஜநம்
 
 ப்ரேதத்வ ஸபிண்டதா ஸித்யர்த்தம் பரம்பத ஸேவித்தல், அனுஜ்ஞை. “கோத்ரஸ்ய + ச்ராத்தே மம பிது: ப்ரேதஸ்ய விமோசநார்த்தம் வஸ்வாதி பித்ருத்வ ஸித்யர்த்தம் அக்ஷய்ய ப்ராப்த்யர்த்தம் பிண்ட ஸம்யோஜநம் கர்த்தும்". உபவீதம், ப்ராணாயாமம், ப்ராசீநாவீதம். அனுஜ்ஞையில் சொன்னது போலச் சொல்லி, பிண்ட ஸம்யோஜநம் கரிஷ்யே, க்ருச்ராசரணம். இடது முழங்காலிட்டுக் கொண்டு தெற்கு முகமாக இருந்து வலது கையை ப்ரேத பிண்ட துண்டங்களின் மேல் புறத்திலும் இடது கையை பிது: பித்ராதி பிண்டங்களின் கீழ்ப் புறத்திலுமாக வைத்து, மந்திரங்களைச் சொல்லி, முடியும் பொழுது, ப்ரேத பிண்ட கண்டங்களை பிது: பித்ராதி பிண்டங்களுடன் ஒன்று சேர்க்க வேண்டும். முதலில் மதுத்ரயம். "ஸங்கச்சத்வம் உபாஸத. ஸமாநோமந்த்ர: + ஸுஸுஹாஸதி - ஸ்ரீமதே நாராயணாய நம:" என்று சொல்லி ஒன்று சேர்த்து பிறகு ஒவ்வொரு பிண்டமாக பெரிய பிண்டமும் சிறிய பிண்டமும் தனிப்படத் தெரியாதவாறு அந்தந்தப் பிண்டங்களுடன் பிடித்து - பிடித்து வைத்துவிட வேண்டும் (மேலே தூக்கி உருட்டி வைக்கக் கூடாது. தரையில் வைத்தபடியே ஒன்று சேர்க்க வேண்டும்). பிறகு எழுந்திருந்து நின்று இறைந்து "யேஸமாநா: + சஸமா:" எனச் சொல்ல வேண்டும்.
 
 - உபவீதம். உட்கார்ந்து ப்ராணாயாமம். ப்ராசீநாவீதம். ''விருத்த ப்ரபிதாமஹ ப்ரீத்யர்த்தம் பாதேய தாநம் கரிஷ்யே — தேசாத் தேசம் + சர்ம ப்ரயச்சமே இதம் பாதேயம் விருத்த ப்ரபிதாமஹ ப்ரீதிம் காமயமாந: துப்யமஹம் ஸம்ப்ரததே' எனச் சொல்ல வேண்டும்.
 
-25. பிண்ட ப்ரதான சேஷ கார்யம்
+## 25. பிண்ட ப்ரதான சேஷ கார்யம்
 
 பிண்ட ப்ரதான ஆரம்பத்தில் சேர்க்கப்பட்ட திலோதக சேஷத்தைக் கொண்டு (அவச்யமாகில் விருத்தி பண்ணிக் கொண்டு) “மார்ஜயந்தாம் பிதர:, மார்ஜயந்தாம் பிதாமஹா:, மார்ஜயந்தாம் ப்ரபிதாமஹா:, மார்ஜயந்தாம் பிதுர் மாதர:, மார்ஜயந்தாம் பிது: பிதாமஹ்ய:, மார்ஜயந்தாம் பிது: ப்ரபிதாமஹ்ய:" என்று பிண்டங்களின் மேல் திலோதகத்தை விட்டு எழுந்து நின்று 'யே ச வோத்ர + த்ருப்யத த்ருப்யத - த்ருப்யத" என்ற மந்திரங்களால் உபஸ்தானம் செய்து உட்கார வேண்டும். -
 
@@ -3316,7 +3293,7 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 
 ब्रह्म मेधः
 
-८. ब्रह्ममेधः
+## ८. ब्रह्ममेधः
 
 सू इत्याचक्षते। अथात उत्तरं पितृ मेधं व्याख्या स्यामः । अयं ब्रह्ममेध अथाप्युदाहरन्ति । द्विजातीनामपवर्गोऽर्थः अर्थतस्तत्व दर्शिभिः । ऋषिभिस्तपसोयोगाद्वेष्टितुं पुरुषोत्तमम् । होतूंश्च पितृमेधञ्च संसृज्य विधिरुत्तरः । विहितस्तु समासेन क्रतूनामुत्तमः क्रतुः ॥
 
@@ -3324,13 +3301,13 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 
 मुमूर्षो र्ब्रह्मविदः प्रायश्चित्तादिकं यथाक्रमं कृत्वा प्राण संशये उत्क्रान्ति गोदानञ्चकुर्यात् । कर्ता प्राणानायम्य गोत्रस्य शर्मणः ममपितुः प्राणानां सुखोत्क्रमण सिद्धयर्थं कर्णसूत्रमन्त्रपठनं करिष्ये । आयुषः प्राणुसन्तॆनु + दिव॒स्सुव॒स्सन्तॆनु ॥
 
-ब्र॒ह्म॒विदा॑प्नोति॒ पर॑म् ।
+### ब्र॒ह्म॒विदा॑प्नोति॒ पर॑म् ।
 
 तदे॒षाऽभ्यु॑क्ता। स॒त्यं ज्ञानमॅन॒न्तं ब्रह्म । योवेद् नितिं गुहायां पर॒मे व्यो॑मन् । सो॑ऽश्ज्ञुते॒ सर्वान्कामा॑न्त्स॒ह । ब्रह्म॑णा विप॒श्रितेति। तस्मा॒द्वा
 
 ஸோத கும்ப ச்ராத்த்திற்காக ஸங்க்ரஹ ரூபத்துடன் பகவானை ஆராதித்து ச்ராத்த பதார்த்தங்களை நிவேதனம் செய்து க்ரமபடி ஸோதகும்ப ச்ராத்தத்தை அனுஷ்டித்து பந்துக்களுடன் பித்ரு சேஷத்தை அமுது செய்ய வேண்டும்.
 
-8. ப்ரஹ்ம மேதம்
+## 8. ப்ரஹ்ம மேதம்
 
 அஸாதாரணமான ப்ரஹ்மமேதம் எழுதப்படுகிறது. (பார்ஹஸ்பத்யம் பரமபதித்தவன், க்ரியை செய்கின்ற கர்த்தா செய்விக்கின்ற புரோஹிதன்) இவர்கள் பூர்ண அத்யேதாக்களாக இருந்தால்தான் இந்த க்ரியையைச் செய்ய முடியும், செய்து வைக்க முடியும். தோழப்பர் ஒரு படி மேலே சென்று புருஷோத்தமனை அடைய விரும்புகிறவர்கள்தான் இதை அனுஷ்டிக்கலாம் என்று
 
@@ -3525,11 +3502,11 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 
 
 
-गर्भिणीसंस्कारः
+## गर्भिणीसंस्कारः
 
 , गर्भिण्याष्षण्मासादूर्ध्वं मरणे यथा क्रमं प्रेताग्निसन्धानादिकृत्वा प्रधान सङ्कल्पे गोत्रां नाम्नीं गर्भिणीं प्रेतां मम मातरं (...) गर्भिणी संस्कार पूर्वकं औपासनाग्निना पैतृमेधविधिना संस्करिष्यामि । क्रमेण तां श्मशानं नीत्वा हस्त सम्मार्जनान्तं कृत्वा तस्या उदरं वामतः स्वधितिना ‘‘हिरण्यगर्भः, समॅवर्तत, अग्रै, भूतस्यें, जा॒ात:, पति॒रेकॅः आसीत् । सदाँधार, पृथिवींद्यां, उतेमां, कस्मै॑ दे॒वायॅ, ह॒विषॉ विधेम॥ “इति उल्लिख्य गर्भ मुद्धृत्य, यदि जीवतिशिशुः “जीवतु मम पुत्रो दीर्घायुत्वाय चर्चसे " इति तमभि मन्त्रच हिरण्य शकलमन्तर्धाय जलेनाभिषिव्य ग्रामं नीत्वा, यस्ते॒ स्तनँः, श॒श॒यः, योमे॑यो॒भूः। येन॒विश्वा॑, पुष्पॅसि, वायणि। यो रॅत्न॒धा, वसुवित्, यस्सुदः । सरॅवति, तमिह, धातवेकः" इति मन्त्रेण स्तनं प्रदाप्य सुरक्षितं कृत्वा, श्मशानं गत्वा तदुदरे, शतायु॑धाय, श॒तवी॑र्याय, शतोतॅये, अ॒भिमाति॒षार्है। शतं योनँः, शरदः, अर्जीतान्, इन्द्रो॑ोंनेषत्, अतँ दुरि॒तानँ, विश्वा॒ स्वाहा॑ । इन्द्रा॑य॒ इ॒द॒न्नमम। ये च॒त्वारॅः प॒थयॅः, देव॒याना॑ः, अ॒न्तरा, द्यावापृथिवी, वियन्ति । तेषांयः, अज्यॉनिं, अर्जीतिं, आ॒वहा॑त्, तस्मै॑ नोदे॒वाः, परि॑द॒त्ते॒ह सर्वे॒ स्वाहा॑ । देवेभ्यः॒ इदन्नमम। ग्रीष्मो हॅमन्तः, उतनो॑ बसन्तः, शरद्वर्षाः सुवि॒तन्नँः, अस्तु । तेषॉ मृतूनां, "
 
-9. கர்ப்பிணீ ஸம்ஸ்காரம்
+## 9. கர்ப்பிணீ ஸம்ஸ்காரம்
 
 ஆறு மாதம் நிறைந்த கர்ப்பிணியின் மரணத்தில் ப்ரேதாக்நி ஸந்தானம் முதலியவைகளைச் செய்து ப்ரதான ஸங்கல்ப்ப காலத்தில், "கோத்ராம் நாம்நீம் இமாம் மம மாதரம் கர்ப்பிணீம் ப்ரேதாம் கர்ப்பிணீ ஸம்ஸ்கார பூர்வகம் ஔபாஸநா க்நிநாபைத்ருமேத விதிநா ஸம்ஸ்கரிஷ்யாமி" என்று ஸங்கல்ப்பம். க்ரமமாக ச்மசாநம் வரை சென்று செய்ய வேண்டியவைகளைச் செய்து ஹஸ்த ஸம்மார்ஜநம் ஆனதும் அவள் வயிற்றின் இடது பாகத்தை கத்தியினால் “ஹிரண்ய கர்ப்ப:'' என்ற மந்திரத்தினால் கீறி, கர்ப்பத்தில் உள்ள சிசுவை எடுத்து அந்தச் சிசு பிழைத்திருக்கிறது ஆகில் "ஜீவது மம புத்ரோ தீர்காயுத்வாய வர்ச்சஸே' என்று அதை அபிமந்திரித்து தங்கத் துண்டை வைத்து
 
@@ -3551,11 +3528,11 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 
 स्वाहा॑, पू॒ष्णे प्र॒पध्याय॒ इदन्नमम, पूष्णे न॒रन्धॊषाय॒ स्वाहा॑, पूष्णे नरन्धिषाय इदन्नमम, पूष्णे, अहॅणये, स्वाहा॑, पूष्णे अछृणये इदन्नमम। पूष्णे न॒रुणॉय स्वाहा॑, पूष्णे नरुणाय इदन्नमम । पूष्णे पॉके॒तायँ, स्वाहा॑, पूष्णे साकेतायँ, इदन्नमम। इति हुत्वा सूच्या सूत्रेण, जठरं सन्धाय मृद्भस्म कुशगोमूत्र सहितैः जलैः संस्त्राप्य वस्त्रेणाच्छाद्य चिति मारोप्य, अष्टकाधेनुं, तिलधेनुं, भूमि धेनुञ्च दत्वा, उत्तरं कर्मकुर्यात् । यदि शिशुर्मृतस्स्यात्, गोघृतेनाभ्यज्यालङ्कृत्य तस्याः पाद प्रदेशे व्याहत्या निखनेत् । पश्चाच्च यथावत्कर्मशेषं कुर्यात्।।
 
-१०. खनन संस्कार विधि:
+## १०. खननसंस्कारविधि:
 
 जनन मारभ्य पञ्च विंश मासात्पूर्वं बाल कन्ययोर्मरणे, खननमेव संस्कारः। प्रेतं संस्नाप्य, गोघृतेनाभ्यज्य, अलङ्कृत्य ग्रामाद्वहिर्नीत्वा, अस्थ्यादिरहित शुद्धभूमौ अबटं खात्वा स्वयं स्नात्वा प्राणानायम्य प्राचीनाबीती गोत्रं नामानं मम पुत्रं बालं प्रेतं खनन विधिना संस्करिष्यामि। यम सूक्तं परेयुवा समिति षडृचः, योस्यकौष्ठयेति षड्वाक्यानि यम गाथाः। इत्येतान्मन्त्रान् जपित्वा, अबटे दक्षिणाग्रान्दर्भान्संस्तीर्य तेषु शवं
 
-10. கனன ஸம்ஸ்காரம்
+## 10. கனன ஸம்ஸ்காரம்
 
 கன்யை பிறந்து 25வது மாதம் பிறப்பற்கு முன் பாலன் இவர்கள் மரணத்தில் “புதைத்தல்" தான் ஸம்ஸ்காரம் அதன் ப்ரகாரமாவது, ப்ரேதத்தைக் குளிப்பாட்டி பசு நெய்யினால் அப்யஞ்ஜனம் செய்து அலங்கரித்து க்ராமத்திற்கு வெளியில் கொண்டு வந்து எலும்பு முதலிய வஸ்துக்கள் இல்லாத சுத்தமான இடத்தில் குழியைத் தோண்டி தானும் ஸ்னானம் செய்து ப்ராசீநாவீதம் கோத்ரம் நாமகம் (சர்மாணம்) `இமம் மம புத்ரம் பாலம் ப்ரேதம் கநந விதிநா ஸம்ஸ்கரிஷ்யாமி யம ஸூக்தம்'' என்று சொல்லப்படுகிற "ப்ரேயுவாம்ஸம்" என்று ஆரம்பிக்கிற 12 வாக்யங்கள் "யோஸ்ய கௌஷ்ட்ய" என்று ஆரம்பிக்கும் 6 வாக்யங்கள் இவைகளை ஜபித்து குழியில் தெற்கு நுனிகளாக தர்ப்பங்களை பரப்பி அவைகளில் தெற்குத் தலையாக ப்ரணவத்தினால் சவத்தைப் போட்டு தர்ப்பங்களாலும் மண்களாலும் PL வேண்டும். ஸ்னானம் செய்து கிருஹம் திரும்ப வேண்டும் (மறு
 
@@ -3568,13 +3545,13 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 
 दक्षिणा शिरसं प्रणवेन प्रक्षिप्य, दर्भे: प्रच्छाद्यमृद्भिः प्रच्छादयेत् । स्नात्वा गृह मागच्छेत् । (श्वः तस्मिन्नवटेक्षीर सेचनमिच्छन्ति। यथा देशाचारं कुर्यात् ।। नोदकपिण्डदाने। पित्रोर्दशहमाशौचं।
 
-११. एकर्च विधिसंस्कारः
+## ११. एकर्च विधिसंस्कारः
 
 जनन मारभ्य पञ्च विंश मासप्रभृति कन्या बालमृतौ दाह एव संस्कारः । एकर्च विधिनातुषाऽग्निनादाहः । दशवं संत्राप्यालङ्कृत्य श्मशानं नीत्वा तत्र तुषाऽग्निमुत्पाद्य दहेत् ।
 
 गोत्रस्य नामकस्य मम बालकस्य प्रेतस्य एकर्च विधिना संस्कारार्थं तुषाग्निमुत्पादयितुं तुषाग्निमुत्पादयिष्ये॥ तुषाऽग्नेरुत्पादनं आदित एव कथितं । अत्र निशादि मरण प्रायश्चित्तादिकं न भवति । अशेषे + स्वीकृत्य गोत्रं नामकं बालं प्रेतं तुषाऽग्निना एकर्च विधिना संस्करिष्यामि। तूष्णीं श्रमशानायतनं सम्मृज्य उद्धत्याबोक्ष्य, हिरण्य शकलन्निधाय दक्षिणाग्रान्दर्भान्संस्तीर्य तेषुचितिं कल्पयित्वा पात्र सादनादिदव संस्कारान्तं कृत्वा प्रेतं चिताया मारोप्य आस्य नेत्र नासा श्रोत्रेषु हिरण्य शकला नाज्य विन्दुन्वा निक्षिप्य आस्ये तिलतण्डुलान्प्रक्षिप्य தினம் அந்தக் குழியில் பால் விட்டு வருவதை சிலர் விரும்புகின்றனர். தேசாசார குலாசாரப்படி செய்து கொள்வது). உதக பிண்ட தானங்கள் கிடையாது. தாய் தகப்பனாருக்கு மட்டும் கநந ஸம்ஸ்கார தினம் முதல் 10 தினங்கள் ஆசௌசம். " ... ...
 
-11. ஏகர்ச்ச விதி ஸம்ஸ்காரம்
+## 11. ஏகர்ச்ச விதி ஸம்ஸ்காரம்
 
 பிறப்பு முதல் 25வது மாஸம் முதல் பாலன், கன்யா இவர்களின் மரணத்தில் தஹந ஸம்ஸ்காரம் உண்டு. ஏகர்ச்ச விதி ஸம்ஸ்காரம் என்கிற க்ரமத்தில் தஹநம் துஷாக்னியினால் தஹநம். துஷாக்னியை எப்படி உண்டு பண்ணுவது என்பதை ப்ரதம தின க்ருத்யத்திலேயே விவரித்துள்ளோம்.
 
@@ -3592,7 +3569,7 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 190
 
 
-एकर्च विधिसंस्कारः
+## एकर्चविधिसंस्कारः
 
 191
 
@@ -3621,22 +3598,20 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 
 எத்தனை வயது ஆனாலும், உபநயநமற்ற புருஷன் விஷயத்திலும, விவாஹமாகாத கன்யை விஷயத்திலும் 12வது தினம் ஸபிண்டீகரணம் கிடையாது. நாராயண பலி மட்டும் உண்டு.
 
-12. அஸ்தி தாஹம்
+## 12. அஸ்தி தாஹம்
 
 விஹிதமான அக்நியல்லாமல் வேறு அக்நியினால் தஹநம் நடந்தவனுக்கும், மந்த்ரமற்ற தஹநம் ஆனதிற்கும், ஸஞ்சயநம் செய்யப்படாமலோ, 10வது தினத்தில் உதக தானமோ பிண்ட தானமோ செய்யப்படாமல் இருந்தாலோ, 11வது தினம் ஏகோத்திஷ்டம் செய்யப்படாமல் இருந்தாலோ துர் மரணம் அடைந்திருந்தாலோ அவனுக்கு புநர் தஹநம் உண்டு. அவனுடைய அஸ்தி இருக்கும் பக்ஷத்தில் தலயிலிருந்து 5, மார்பிலிருந்து 5, வயிற்றிலிருந்து 5, கைகளிலிருந்து மும்மூன்று, துடைகளிலிருந்து மும்மூன்று, கால்களிலிருந்து மும்மூன்று, அல்லது கிடைத்த அளவை எடுத்து பாலினால் அலம்பி, தெற்கு நுனியாக தர்ப்பங்களைப் பரப்பி அதில் முன்பு எடுத்த ஸங்கையை
 
 192
 
 
-एकर्च विधिसंस्कारः
-
-१३. प्रतिकृति संस्कारः
+## १३. प्रतिकृतिसंस्कारः
 
 अस्थ्यभावे विधिवद्दहेत् । यथाः पलाश वृन्तैः कुशैर्वा प्रतिकृतिं कृत्वा विहिताग्निना अपिवा अशीत्यधिक त्रिशत पलाश वृन्तैः पुरुषाकृतिं कुर्वन्ति । “चत्वारिंशता शिरः प्रकल्पयते, दशभिग्रवां, विंशत्योरः, त्रिंशतोदरं, पञ्चाशता पञ्चाशता, एकैकं बाहुं, ताभ्यामेव पञ्चभिः पञ्चभिरङ्गुलीरुपकल्पयेत्, सप्तत्या सप्तत्या एकैकं पादं, ताभ्यामेव पञ्चभिः पञ्चभिरङ्गुलीः अष्टाभिरिशनं द्वादशभिर्वृषणं। पलादावलकैः कुशैर्वा, सन्धिषु संवेष्टच" इत्युक्तरीत्या प्रतिकृतिं कृत्वा स्नापयित्वाऽलङ्कृत्य दक्षिणाग्रान्दर्भान्संस्तीर्य, तेष्वेनं दक्षिणा शिरस मुत्तानं निपात्य पत्तो दशेनाहतेन वाससा प्रच्छाद्य बान्धवाः पर्युप विशन्ति । कर्ता, नमस्कृत्य ‘‘प्रति कृति संस्कारं करिष्ये' इति सङक्ल्प्य’’ आयाहि (पित:) प्रेत'' इत्यारभ्य सर्वस्य प्रतिशीवरीत्यादिकं परेयुवा समिति प्रधान होमं हुत्वा (चरु प्रदक्षिणसिग्वातपादबन्धनानि न भवन्ति।) अपेत वीतेति प्रतिपद्य, सर्वं कुर्यात् । सद्यस्सञ्चयनं । अस्थ्नामभावे सञ्चयन मन्त्र जप एव ।। "
 
 அனுஸரித்து இதர அஸ்திகளாலும் புருஷாக்ருதியைச் செய்து விஹிதமான அக்நியைக் கொண்டு தஹநம் செய்ய வேண்டும். ''ஆயாஹி பித: ப்ரேத" என்று ப்ரதிக்ருதியில் ஆவாஹநம் செய்து பித்ருமேத ஸம்ஸ்காரத்தை முறைப்படி செய்ய வேண்டும். சரு - ப்ரதக்ஷிணா ப்ரதக்ஷிண ஸிக்வாதம், பாதபந்தநம் இவைகள் கிடையாது. அபிப்பிராயம் மைநமக்நே மந்திரத்தினாலேயே தஹநம் என்று. சிலர் அஸ்மாத்த்வமஸி என்கிற புநர் தஹந மந்திரத்தினால்தான் தஹநம் செய்ய வேண்டும் என்று அபிப்பிராயப்படுகிறார்கள். ஸத்ய: ஸஞ்சயநம். சிலரின்
 
-13. பிரதிகிருதி ஸம்ஸ்காரம்
+## 13. பிரதிகிருதி ஸம்ஸ்காரம்
 
 அஸ்தி கிடைக்கப் பெறாத விஷயத்தில் பலாச விருந்தங்களாலோ தர்ப்பங்களாலோ பிரதிகிருதியைச் செய்து விஹிதமானஅக்நியைக் கொண்டு சாஸ்திரப்படி தஹநம் செய்ய
 
@@ -3645,13 +3620,13 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 
 अपरप्रयोगः
 
-१४. अङ्गवैकल्यनिमित्त पुनर्दाहः
+## १४. अङ्गवैकल्यनिमित्तपुनर्दाहः
 
 मन्त्र वद्दाहे कृतेऽपि अदग्धस्य कंस्यचिदङ्गस्य दर्शने, तस्याङ्गस्य पुनर्दाहः कर्तव्यः । चिताग्निसद्भावे तेन दहेत् । अभावे, अनुगत प्रायश्चित्तविधिना, अग्निमुत्पाद्य तेन दहेत् । गोत्रस्य + अद्य अहनि, अनग्निदग्धमङ्गं पुनर्दहन विधिना संस्करिष्यामि । कृच्छ्रं चरित्वा, अस्मात्त्वमिति मन्त्रेणतदङ्गंदहेत् । “सूर्यन्ते' इत्यादिसमानम्। तूष्णीमेव दहेदिति केचित् । सद्यस्सञ्चयनं यथावत्कुर्यात् ॥ (
 
 கால் வேண்டும். 380 பலாச . விருந்தங்களை (ஸமித்)க் கொண்டு புருஷாக்ருதியைச் செய்ய வேண்டும். அல்லது அந்த அளவு தர்ப்பங்களைக் கொண்டும் செய்யலாம். தலைக்கு 40, கழுத்துக்கு 10, மார்பிற்கு 20, வயிற்றிற்கு 30, ஒவ்வொரு கைக்கும் 50-50, விரல்களுக்கு 5-5, ஒவ்வொரு பாதங்களுக்கும் 70-70, விரல்களுக்கு 5-5, லிங்கத்திற்கு 8, விருஷணத்திற்கு 12. இப்படியாக ஸம்பாதித்து தர்ப்பங்களால் அந்தந்த ஸந்தியைக் கட்டி ப்ரதிக்ருதியைச் செய்து ஸ்னானம் அலங்காரம் செய்வித்து தெற்கு நுனியாக தர்ப்பங்களைப் பரப்பி, அதில் தெற்கு தலையாக படுக்க வைத்து, பாதத்தில் நுனி வரும்படியாக புதிய வஸ்திரத்தினால் போர்த்தி பந்துக்கள் சூழ்ந்திருக்க வேண்டும். கர்த்தா ஸ்னானம் செய்து,புண்ட்ரதாரனம்செய்து “ப்ரதிக்ருதி ஸம்ஸ்காரம் கரிஷ்யே" என்பதாக ஸங்கல்ப்பித்து "ஆயாஹிபித: ப்ரேத" என்பதாக ஆவாஹநம், செய்து ஸர்வஸ்ய ப்ரதிசீவரீ ஆரம்பித்து "பரேயுவாம்ஸம்" பிரதான ஹோமத்தைச் செய்து அபேதவீத ஆரம்பித்து எல்லாவற்றையும் செய்ய வேண்டும் (சரு - பிரதக்ஷிண ஸிக்வாத பாதபந்தனங்கள் கிடையாது) ஸத்ய: ஸஞ்சயநம் மந்த்ர ஜபம்தான்.
 
-14. அங்க வைகல்ய தாஹம்
+## 14. அங்க வைகல்ய தாஹம்
 
 மந்த்ரவத்தாக தஹநம் செய்யப்பட்டிருந்தும் ஏதாவது ஒரு அங்கம் தஹநத்திலிருந்து விடப்பட்டிருந்து தென்பட்டால் அந்த அங்கத்திற்கு புநர் தஹநம் அவச்யம் செய்ய வேண்டும். சிதையில் அக்நி இருக்குமாகில் அதைக் கொண்டு தஹநம் செய்யலாம். ச்மசாநாக்நி இல்லாவிடில் அக்நி நஷ்ட ப்ராயச்சித்தம் செய்து அந்த அக்நியினால் புநர் தஹந மந்த்ரத்தினால் தஹநம் செய்து “ஸூர்யம் தே" என்று ஆரம்பித்து எல்லாம் செய்து பூர்ணமாக தஹநம் ஆனதும் க்ரமப்படி ஸஞ்சயநம் செய்ய வேண்டும்.
 
@@ -3660,13 +3635,13 @@ zf|| ताः स्त्रियः तैस्सम्पाताज्�
 
 अपरप्रयोगः
 
-१५. प्रोषित कृत्य विषयः
+## १५. प्रोषितकृत्यविषयः
 
 प्रोषितयोर्मातापित्रोः पञ्चदशवर्ष पर्यन्तं वार्ताऽनाकर्णने, षोडशे सम्प्राप्ते आषाढादि पैतृकमासेषु चतुर्षु अन्यतमे मासे कृष्णाष्टमी, कृष्णै कादशी दर्शेषु अन्यतरस्यां तिथ्यां नारायण बलिं कृत्वा प्रतिकृति दाहेन संस्कृत्य दशरात्रमुदकदानाद्यानन्दहोमान्तं कृत्वा एकादशाहे, एकोद्दिष्टं, द्वादशाहे सापिण्ड्यं, तथा तत्तत्काले ऊनमासिकादीनि अनुष्ठाय यस्मिन्मासि, यस्यां तिथ्यां कर्म आरब्धं, सैवतस्य (तस्याः) तिथिरिति निश्चित्य आब्दिकप्रत्याब्दिकानि अनुतिष्ठेत् ॥
 
 मातृपितृ व्यतिरिक्त बन्धु वर्गेषु प्रोषित विषये त्रयोदशे वर्षे पूर्वोक्त पैतृकमासेषु नारायण बलिं कृत्वा प्रतिकृतिदाहं कुर्यात् । अत्र तृतीये दिन एव उदकदान पिण्डबलि प्रभूत बलि समाप्ति: । आनन्द होमश्च । तुरीयेऽहनि एकोद्दिष्टं । पञ्चमेऽहनि सापिण्ड्यमिति निर्णयः । ततः यथाक्रमं मासिकाद्यनुष्ठानम् ॥
 
-15. ப்ரோஷித க்ருத்ய விஷயம்
+## 15. ப்ரோஷித க்ருத்ய விஷயம்
 
 தேசாந்தரம் சென்றிருந்த தாய், தகப்பன் இவர்களின் இருப்பிடம் அறிய முடியாதபடி ஆகிவிட்டால் பதினைந்து வருடங்களுக்குப் பிறகு 16வது வருடத்தில் ஆடி, புரட்டாசி, மார்கழி, மாசி மாதங்களில் கிருஷ்ண அஷ்டமி, கிருஷ்ண ஏகாதசி, அமாவாஸ்யை இவைகளில் ஏதாவது ஒரு திதியை அவர்களின் மரண திதியாகக் கொண்டு முதலில் நாராயண பலியைச் செய்து பிரதிகிருதி தாஹத்தினால் ஸம்ஸ்காரம் செய்து, தசராத்ரம், ஆசௌசம் அனுஷ்டித்து க்ரமப்படி பிரதம தினத்திலேயே பாஷாண ஸ்தாபனாதிகளைச் செய்து, 11வது தினம், ஏகாஹம், 12வது தினம் ஸபிண்டீகரணம் செய்ய வேண்டும். பிறகு மாதாந்த்ர ஊன மாஸிகாதிகள்; அடுத்த வருடம் அதே திதியில் ஆப்திகம்; க்ரமமாக ப்ரத்யாப்திகாதிகளை அனுஷ்டித்து வர வேண்டும்.
 
@@ -3687,7 +3662,7 @@ R मार्कण्डेयः दंष्ट्रिभिर्नख�
 
 திதிகளில் நாராயண பலி, பிரதிகிருதி ஸம்ஸ்காரம் இவைகளைச் செய்து மூன்றாவது தினத்தில் தசம தின க்ருத்யம், நான்காவது தினத்தில் ஏகாஹம், ஐந்தாவது தினத்தில் ஸபிண்டீகரணம் செய்ய வேண்டும். பிறகு க்ரமப்படி ஊன மாஸாதிகளைச் செய்து ஆப்திக ப்ரத்யாப்திகங்களைச் செய்ய வேண்டும்.
 
-16. நாராயண பலி
+## 16. நாராயண பலி
 
 நாராயண பலி ப்ரயோகமானது பலவிதமாகச் சொல்லப்படுகிறது. ஆயினும் "ஹேமாத்ரி" என்கிற க்ரந்தத்தில் சொல்லப்பட்டுள்ளதை இங்கு சுருக்கமாக விஜ்ஞாபித்துக் கொள்கிறேன்.
 
@@ -3729,7 +3704,7 @@ R मार्कण्डेयः दंष्ट्रिभिर्नख�
 अपरप्रयोगः परिसमाप्तः
 
 
-अशौच विषये
+## अशौचविषये
 
 ஜநநாசௌசம்
 
@@ -4044,7 +4019,7 @@ R मार्कण्डेयः दंष्ट्रिभिर्नख�
 
 पुटं पङ्क्तिः
 
-शुद्धाशुद्ध पत्रिका
+## शुद्धाशुद्धपत्रिका
 
 अशुद्धं
 
