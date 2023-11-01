@@ -518,7 +518,7 @@ These pages deal with
 
 The book fulfils the long felt need of decades. As already stated these two books will serve as concise encyclopaedia, reference book, handy guide and text book for learners. These will bridge the gap between the karta, performer and the vadyars. The performaer will be able to take more interest and involve himself more closely with knowledge of the significance of what he is doing. While I am not competent to compliment on the astornding and amazing erudition of sri u bha ve Srinivasa Desikacharya Ganapatigal, I cannot but mention the same. The style adopted is simple and all the items explained in detail without being too elaborate or too short. The intricate ideas have
 
-## विषयस्सूचितः
+## विषयसूचिका
 
 (xxviii)
 
