@@ -9,7 +9,7 @@ unicode_script = "devanagari"
 तैत्तिरीयोपनिषत् २, वारुण्युपनिषत् १, ब्रह्मानन्दवल्ली  
 तैत्तिरीयोपनिषत् ३, वारुण्युपनिषत् २, भृगुवल्ली  
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="01_shanno_mitraH_prArambhe.md"></div>  
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="01_shanno_mitraH_prArambhe"></div>  
 
 
 ## शिक्षा
@@ -96,7 +96,7 @@ unicode_script = "devanagari"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/05_taittirIyopaniShat/_index/02_AvahantI_vitanvAnA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/05_taittirIyopaniShat/02_AvahantI_vitanvAnA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 आ॒वह॑न्ती वितन्वा॒ना,,  
@@ -108,7 +108,7 @@ unicode_script = "devanagari"
 स्वाहा᳚ ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/05_taittirIyopaniShat/_index/02_AvahantI_vitanvAnA.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/05_taittirIyopaniShat/02_AvahantI_vitanvAnA.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
