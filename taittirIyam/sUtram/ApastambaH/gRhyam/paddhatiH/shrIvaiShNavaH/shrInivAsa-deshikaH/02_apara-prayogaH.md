@@ -4,8 +4,8 @@ title = "अपर-प्रयोगः"
 
 Source: [TW](https://archive.org/details/apastambiya-apara-prayogah)
 
-## 
-### 
+## ००
+### आमुखम्
 श्रीः
 
 श्री सीता लक्ष्मण हनुमत्समेत श्रीरघुनन्दनपरब्रह्मणे नमः
