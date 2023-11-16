@@ -1,9 +1,9 @@
 ---
-title: शन्नो मित्रः
+title: शन्नो मित्रः प्रारम्भे
 unicode_script: devanagari
 
 ---
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="../shanno_mitraH"></div>  
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="../shanno_mitraH.md"></div>  
 
 त्वाम् ए॒व प्र॒त्यक्षं॒ ब्रह्म॑ वदिष्यामि ।  
 ऋ॒तव्ँ व॑दिष्यामि। स॒त्यव्ँ व॑दिष्यामि । 
