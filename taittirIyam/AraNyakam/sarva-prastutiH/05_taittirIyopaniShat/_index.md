@@ -246,7 +246,7 @@ unicode_script = "devanagari"
 
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="18-21_veda-sAraH/"></div>
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="22_shanno_mitraH_samApanam.md"></div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="22_shanno_mitraH_samApanam/"></div>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="23_sahanAvavatu/"></div>  
 
 ## ब्रह्मविद् आप्नोति
