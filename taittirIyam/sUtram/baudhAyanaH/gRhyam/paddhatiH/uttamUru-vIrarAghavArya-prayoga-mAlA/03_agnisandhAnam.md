@@ -5,7 +5,39 @@ title = "०३ अग्निसन्धानम्"
 
 अग्निसन्धानम् ( बोधायनीयम्)
 
-> ओं नमः सदसे.... पृथिव्यै ।  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/3/2/04_sphyAdyupasthAnamantrAH_vidhishcha/namas_sadase.md"  newLevelForH1="5" includeTitle="false"> 
+
+<details><summary>मूलम् (संयुक्तम्)</summary>
+
+नम॒स्सद॑से॒ नम॒स्सद॑स॒स्पत॑ये॒ नम॒स्सखी॑नाम्पुरो॒गाणा॒ञ्चख्षु॑षे॒ नमो॑ दि॒वे नमᳶ॑ पृथि॒व्यै
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नम॒स्सद॑से  
+नम॒स्सद॑स॒स्पत॑ये    
+नम॒स्सखी॑नाम्पुरो॒गाणा॒ञ्चख्षु॑षे    
+नमो॑ दि॒वे   
+नमᳶ॑ पृथि॒व्यै
+</details>
+
+<details><summary>मूलम्</summary>
+
+नम॒स्सद॑से  
+नम॒स्सद॑स॒स्पत॑ये    
+नम॒स्सखी॑नाम्पुरो॒गाणा॒ञ्चख्षु॑षे    
+नमो॑ दि॒वे   
+नमᳶ॑ पृथि॒व्यै
+</details>
+
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+'ऐन्द्रं हि देवतया सदः' इति इन्द्रः सदसस्पतिः पालयिता तस्मै नमः । 'षष्ठयाः पतिपुत्र' इति सत्वम् । सखीनां समानख्यानानामृत्विजां पुरोगाणामग्रतो गन्तृणां प्रधानानां सर्वेषामपि चक्षुषे चक्षुसथानीयाय दर्शनहेतवे सवित्रे च नमः । गतमन्यत् ॥
+</details>
+
+</div>  
+
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/2/1/267_sapratha_sabhAm.md"  newLevelForH1="5" includeTitle="false"> 
 
