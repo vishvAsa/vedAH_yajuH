@@ -9,209 +9,479 @@ Source: [here](https://manasataramgini.wordpress.com/2023/11/19/a-prayoga-of-the
 
 A prayoga of the Hiraṇyakeśin-s
 
-## Intro
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
 To our knowledge, the Hiraṇyakeśin branch of the Taittirīyaka-s is today only found in pockets in Mahārāṣṭra and the Drāviḍa states. While they follow the Taittirīya-śruti like other Taittirīyaka-s, they additionally have their own unique mantrapāṭha furnished with its own little Ṛksaṃhitā.+++(5)+++ 
 
 They have a unique procedure for the gṛhya rite of Puṇyāhavācana, which combines both Vaidika and laukika, i.e., Paurāṇika elements. A Hiraṇyakeśin from the Marahaṭṭa country, who was unaware of their mantrapāṭha, wanted advice on performance of the Puṇyāhavācana and Mātṛkā- and laghu-deva-pujā-s for which he had a short prayoga-paddhati handed down in his family, but did not know some of the mantra-s specified only by pratīka therein. Hence, we used his paddhati to spell out all the mantra-s (without svara-s for the Vaidika ones). We present it here as it has some notable features. 
 
-## Overview
+</details>
+
+
+<details><summary>Overview (द्रष्टुं नोद्यम्)</summary>
+
 The paddhati itself is similar to a longer version we had seen in the manual of a learned brāhmaṇa from the same region (it borrows from Bodhāyana in multiple places where evidently the Hiraṇyakeśin counterpart was either absent or sketchy). The longer version differs from the below in packing several additional Vaidika mantra-s into the Puṇyāha recitation. At the end of the rite, both this short paddhati and the long one I had seen earlier provide a Mātṛkā-pujā without details of essentials such as prāṇapratiṣṭhā and ṣoḍaśopacāra-pūjā (the longer manual has prāṇapratiṣṭhā independently as a section later in the text). The long manual follows this up with a nāndī-prayoga and an aṅkurāropaṇa. Our interlocutor’s short manual used mantra-s corresponding to aṅkurāropaṇa for a laghu-deva-pūjā to the five gods Prajāpati, Indra, Yama, Varuṇa and Soma, followed by a tarpaṇa to longer list of deities. This longer list of deities is offered āhuti-s as part of the Grahamakha (the planetary fire-rite of the Hiraṇyakeśin-s) in the longer manual. His objective was to perform the Puṇyāhavācana and the subsequent Mātṛkā- and laghu-deva-pujā-s, which we were able to successfully advise him on. More generally, we believe that this could be a model for a generic deva-pujā by a non-sectarian lay Hindu.
 
 [PDF of Devanagari script encoding of the text.](https://manasataramgini.files.wordpress.com/2023/11/hiranyakeshin_punyahetyadi_skt.pdf)
 
-## विधिः
+</details>
+
+
+
 अथ हिरण्यकेशिनाम् पुण्याहवाचन-विधिः॥  
 
+## गणपति-स्थापनम्
 हरिद्रा-बिम्बे गणपति-स्थापनम् -  
 
-> गणानां त्वा गणपतिꣲ हवामहे  
-कविं कवीनाम् उपमश्रवस्तमम् ।  
-ज्येष्ठराजम् ब्रह्मणाम् ब्रह्मणस्पत आ नः  
-शृण्वन्न् ऊतिभिः सीद सादनम् ॥
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/023/01_gaNAnAM_tvA.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
 
 पुष्पाञ्जलिं दत्वा सर्वोपचारैः संपूज्य -  
 मन्त्र-हीनं क्रिया-हीनं भक्ति-हीनं गजानन ।  
 यत् पूजितं मया देव परिपूर्णं तद् अस्तु मे ॥
 
-विघ्नेश्वराय वरदाय सुर-प्रियाय  
+> विघ्नेश्वराय वरदाय सुर-प्रियाय  
 लम्बोदराय विकटाय गजाननाय ।  
 विनायकाय श्रुति-यज्ञ-विभूषिताय  
 गौरी-सुताय गण-नाथा नमो नमस् ते ॥
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
 Notes: This section is the classic invocation of Vināyaka in a clod of turmeric. It became a staple opening for smārta rites with the rise of the Paurāṇika register of the religion. Hence, this part can be assigned to the classic Paurāṇika period.
+</details>
 
-कलष-स्थापनम् :  
-कलशत्रयं स्थापयेत् ।
+## कलष-स्थापनम्  
+कलश-त्रयं स्थापयेत् ।
 
-मही द्यौः पृथिवी च न इमं यज्ञम् मिमिक्षताम् ।  
-पिपृतां नो भरीमभिः ॥
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/022/13_mahI_dyauH.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
-तयोः पञ्चरत्नानि प्रक्षिपेत् :  
-युवा सुवासाः परिवीत आगात् । स उ श्रेयान् भवति जायमानः । तं धीरासः कवय उन्नयन्ति । स्वाधियो मनसा देवयन्तः ।
 
-कलशोपरि वस्त्रवेष्टनं कृत्वा :  
-पूर्णा दर्वि परा पत सुपूर्णा पुनर् आ पत ।  
-वस्नेव वि क्रीणावहा इषम् ऊर्जꣲ शतक्रतो ॥
+तयोः पञ्चरत्नानि प्रक्षिपेत् -  
 
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/008/04_yuvA_suvAsAH.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+
+कलशोपरि वस्त्रवेष्टनं कृत्वा -  
+
+<div class="js_include" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/03/49_pUrNA_darvi.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+
+### आवाहनम्
 कलशे वरुणस्यावाहनम् :  
-तत् त्वा यामि ब्रह्मणा वन्दमानस् तद् आ शास्ते यजमानो हविर्भिः ।  
-अहेडमानो वरुणेह बोध्य् उरुशꣲस मा न आयुः प्र मोषीः ॥
 
-कलश-मुखे अप आवाहयेत् :  
-सर्वे समुद्राः सरितस् तीर्थानि जलदा नदाः ।  
-आयान्तु मम शान्त्य् अर्थं दुरित-क्षय-कारकाः ॥
-
-अभिमन्त्रणम् :  
-द्रविणोदा द्रविणसस् तुरस्य द्रविणोदाः सनरस्य प्र यंसत् ।  
-द्रविणोदा वीरवतीम् इषं नो द्रविणोदा रासते दीर्घम् आयुः ॥
-
-नवोनवो भवति जायमानो ‘ह्नां केतुर् उषसाम् एत्य् अग्रे ।  
-भागं देवेभ्यो वि दधात्य् आयन् प्र चन्द्रमास् तिरति दीर्घम् आयुः ॥
-
-उच्चा दिवि दक्षिणावन्तो अस्थुर् ये अश्वदाः सह ते सूर्येण ।  
-हिरण्यदा अमृतत्वम् भजन्ते वासोदाः सोम प्र तिरन्त आयुः ॥
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/11_tattvA_yAmi.md">
+<details open><summary><h2>११ तत्त्वा यामि ...{Loading}...</h2></summary>
 
 
+तत् त्वा॑ यामि॒ ब्रह्म॑णा॒ वन्द॑मान॒स्  
+तद् आ शा॑स्ते॒ यज॑मानो ह॒विर्भिः॑ ।  
+अहे॑ळमानो +++(=अक्रुध्यन्)+++ वरुणे॒ह बो॒ध्य् उरु॑शंस॒  
+मा न॒ आयुः॒ प्र मो॑षीः ॥
+
+</details>
+</div>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 Notes: This part features the installation of the pitchers and the invocation of the god Varuṇa in them. It follows the general pattern seen across smārta rites of other traditions. Given the importance of the god Varuṇa in the Indo-Iranian tradition, some version of it could have gone back to an early predecessor of smārta household rites.
 
-pradhānāṅgam :  
-śāntir astu 1 । puṣṭir astu 2 । tuṣṭir astu 3 । vṛddhir astu 4 । avighnam astu 5 । āyuṣyam astu 6 । ārogyam astu 7 । śivaṃ karmāstu 8 ।karma-saṃṛddhir astu 9 । dharma-saṃṛddhir astu 10 । veda-saṃṛddhir astu 11 ।śāstra-saṃṛddhir astu 12 । putra-saṃṛddhir astu 13 । dhana-dhānya-saṃṛddhir astu 14 । iṣṭa-saṃpad astu 15 । ariṣṭa-nirasanam astu 16 । yat pāpaṃ tat pratihatam astu 17 । yac chreyas tad astu 18 । uttare karmaṇy avighnam astu 19 । uttarottaram ahar ahar abhivṛddhir astu 20 । uttarottarāḥ kriyāḥ śubhāḥ śobhanāḥ sampadyantām 21 । tithi-karaṇa-muhūrta-nakṣatra-sampad astu 22 । tithi-karaṇa-muhūrta-nakṣatra-graha-lagnādhi-devatāḥ prīyantām 23 । tithi-karaṇe muhūrta-nakṣatre sagrahe sadaivate prīyetām 24 । durgā-pāñcālyau prīyetām 25 । agni-purogā viśve devāḥ prīyantām 26 । indra-purogā marudgaṇāḥ prīyantām 27 । brahmapurogāḥ sarve vedāḥ prīyantām 28 । viṣṇu-purogāḥ sarve devaḥ prīyantām 29 । māheśvarī-purogā umā-mātaraḥ prīyantām 30 । vasiṣṭha-purogā ṛṣi-gaṇāḥ prīyantām 31 । arundhatī-purogā ekapatnyaḥ prīyantām 32 । ṛṣayaś chandāṃsy ācāryā devā vedā yajñāś ca prīyantām 33 । brahma ca brāhmaṇāś ca prīyantām 34 । śrī-sarasvatyau prīyetām 35 । śraddhā-medhe prīyetām 36 । bhagavatī kātyāyanī prīyatām 37 । bhagavatī māheśvarī prīyatām 38 । bhagavatī puṣṭikarī prīyatām 39 । bhagavatī tuṣṭikarī prīyatām 40 । bhagavatī ṛddhikarī prīyatām 41 । bhagavatī vṛddhikarī prīyatām 42 । bhagavantau vighna-vināyakau priyetām 43 । bhagavān svāmī mahāsenaḥ sapatnīkaḥ sasutaḥ sapārṣadaḥ sarva-sthāna-gataḥ prīyatām 44 । hari-hara-hiraṇyagarbhāḥ prīyantām 45 । sarvā grama-devatāḥ prīyantām 46 । sarvā kula-devatāḥ prīyantām 47 । sarvā iṣṭa-devatāḥ prīyantām 48 । hatā brahma-dviṣaḥ 49 । hatāḥ paripanthinaḥ 50 । hatā asya karṃaṇo vighna-kartāraḥ 51 । śatravaḥ parābhavaṃ yāntu 52 । śāmyantu ghorāṇi 53 । śāmyantu pāpāni 54 । śāmyantv ītayaḥ 55 । śubhāni vardhantām 56 । śivā āpaḥ santu 57 । śivā ṛtavaḥ santu 58 । śivā agnayaḥ santu 59 । śivā āhutayaḥ santu 60 । śivā oṣadhyaḥ santu 61 । śivā vanaspatayaḥ santu 62 । śivā atithayaḥ santu 63 । ahorātre śive syātām 64 । nikāme nikāme naḥ parjanyo varṣatu 65 । phalinyo na oṣadhayaḥ pacyantām 66 । yoga-kṣemo naḥ kalpatām 67 । āditya-purogāḥ sarve grahāḥ prīyantām 68 । bhagavān nārāyaṇaḥ prīyatām 69 । bhagavān parjanyaḥ prīyatām 70 । bhagavān svāmī mahāsenaḥ prīyatām 71 ॥
+</details>
 
-prativākyam pātre jalam pātayet । tatra+ariṣṭa-nirasanam astu, yat pāpaṃ tat pratihatam astu iti dvābhyāṃ vākyābhyāṃ hatā brahma-dviṣa ity ādibhiḥ saptabhir vākyaiś ca pātrād bahir uttarato jalam pātanīyam ।
+
+कलश-मुखे अप आवाहयेत् :  
+
+> सर्वे समुद्राः सरितस्  
+तीर्थानि जलदा नदाः ।  
+आयान्तु मम शान्त्य्-अर्थं  
+दुरित-क्षय-कारकाः ॥
+
+### अभिमन्त्रणम्   
+
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/096/08_draviNodA_draviNasasturasya.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/19_navonavo_bhavati.md">
+<details open><summary><h2>१९ नवोनवो भवति ...{Loading}...</h2></summary>
+
+
+नवो॑नवो भवति॒ जाय॑मा॒नो  
+ऽह्नां॑ के॒तुर् उ॒षसा॑म् ए॒त्य् अग्र॑म् +++(कृष्णपक्षे)+++।  
+भा॒गं +++(सोमपाभ्यो)+++ दे॒वेभ्यो॒ वि द॑धात्य् आ॒यन्  
+प्र च॒न्द्रमा॑स् तिरते+++(=वर्धयति)+++ दी॒र्घम् आयुः॑ ॥१९
+
+</details>
+</div> 
+
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/096/08_draviNodA_draviNasasturasya.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+
+
+
+## प्रधानाङ्गम्  
+शान्तिर् अस्तु १ ।  
+पुष्टिर् अस्तु २ ।  
+तुष्टिर् अस्तु ३ ।  
+वृद्धिर् अस्तु ४ ।  
+अविघ्नम् अस्तु ५ ।  
+आयुष्यम् अस्तु ६ ।  
+आरोग्यम् अस्तु ७ ।  
+शिवं कर्मास्तु ८ ।  
+
+कर्म-समृद्धिर् अस्तु ९ ।  
+धर्म-समृद्धिर् अस्तु १० ।  
+वेद-समृद्धिर् अस्तु ११ ।  
+शास्त्र-समृद्धिर् अस्तु १२ ।  
+पुत्र-समृद्धिर् अस्तु १३ ।  
+धन-धान्य-समृद्धिर् अस्तु १४ ।  
+
+इष्ट-संपद् अस्तु १५ ।  
+अरिष्ट-निरसनम् अस्तु १६ ।  
+
+यत् पापं तत् प्रतिहतम् अस्तु १७ ।  
+यच् छ्रेयस् तद् अस्तु १८ ।  
+
+उत्तरे कर्मण्य् अविघ्नम् अस्तु १९ ।  
+उत्तरोत्तरम् अहर् अहर् अभिवृद्धिर् अस्तु २० ।  
+उत्तरोत्तराः क्रियाः शुभाः शोभनाः सम्पद्यन्ताम् २१ ।  
+
+तिथि-करण-मुहूर्त-नक्षत्र-सम्पद् अस्तु २२ ।  
+तिथि-करण-मुहूर्त-नक्षत्र-ग्रह-लग्नाधि-देवताः प्रीयन्ताम् २३ ।  
+तिथि-करणे मुहूर्त-नक्षत्रे स-ग्रहे स-दैवते प्रीयेताम् २४ ।  
+
+दुर्गा-पाञ्चाल्यौ प्रीयेताम् २५ ।  
+अग्नि-पुरोगा विश्वे देवाः प्रीयन्ताम् २६ ।  
+इन्द्र-पुरोगा मरुद्गणाः प्रीयन्ताम् २७ ।  
+ब्रह्मपुरोगाः सर्वे वेदाः प्रीयन्ताम् २८ ।  
+विष्णु-पुरोगाः सर्वे देवः प्रीयन्ताम् २९ ।  
+माहेश्वरी-पुरोगा उमा-मातरः प्रीयन्ताम् ३० ।  
+वसिष्ठ-पुरोगा ऋषि-गणाः प्रीयन्ताम् ३१ ।  
+अरुन्धती-पुरोगा एकपत्न्यः प्रीयन्ताम् ३२ ।  
+ऋषयश् छन्दांस्य् आचार्या देवा वेदा यज्ञाश् च प्रीयन्ताम् ३३ ।  
+ब्रह्म च ब्राह्मणाश् च प्रीयन्ताम् ३४ ।  
+
+श्री-सरस्वत्यौ प्रीयेताम् ३५ ।  
+श्रद्धा-मेधे प्रीयेताम् ३६ ।  
+भगवती कात्यायनी प्रीयताम् ३७ ।  
+भगवती माहेश्वरी प्रीयताम् ३८ ।  
+भगवती पुष्टिकरी प्रीयताम् ३९ ।  
+भगवती तुष्टिकरी प्रीयताम् ४० ।  
+भगवती ऋद्धिकरी प्रीयताम् ४१ ।  
+भगवती वृद्धिकरी प्रीयताम् ४२ ।  
+
+भगवन्तौ विघ्न-विनायकौ प्रियेताम् ४३ ।  
+भगवान् स्वामी महासेनः  
+सपत्नीकः ससुतः सपार्षदः सर्व-स्थान-गतः प्रीयताम् ४४ ।  
+हरि-हर--हिरण्य-गर्भाः प्रीयन्ताम् ४५ ।  
+
+सर्वा ग्रम-देवताः प्रीयन्ताम् ४६ ।  
+सर्वा कुल-देवताः प्रीयन्ताम् ४७ ।  
+सर्वा इष्ट-देवताः प्रीयन्ताम् ४८ ।  
+
+हता ब्रह्म-द्विषः ४९ ।  
+हताः परिपन्थिनः ५० ।  
+हता अस्य कर्मणो विघ्न-कर्तारः ५१ ।  
+
+शत्रवः पराभवं यान्तु ५२ ।  
+शाम्यन्तु घोराणि ५३ ।  
+शाम्यन्तु पापानि ५४ ।  
+शाम्यन्त्व् ईतयः ५५ ।  
+
+शुभानि वर्धन्ताम् ५६ ।  
+शिवा आपः सन्तु ५७ ।  
+शिवा ऋतवः सन्तु ५८ ।  
+शिवा अग्नयः सन्तु ५९ ।  
+शिवा आहुतयः सन्तु ६० ।  
+शिवा ओषध्यः सन्तु ६१ ।  
+शिवा वनस्पतयः सन्तु ६२ ।  
+शिवा अतिथयः सन्तु ६३ ।  
+
+अहोरात्रे शिवे स्याताम् ६४ ।  
+निकामे निकामे नः पर्जन्यो वर्षतु ६५ ।  
+फलिन्यो न ओषधयः पच्यन्ताम् ६६ ।  
+
+योग-क्षेमो नः कल्पताम् ६७ ।  
+आदित्य-पुरोगाः सर्वे ग्रहाः प्रीयन्ताम् ६८ ।  
+भगवान् नारायणः प्रीयताम् ६९ ।  
+भगवान् पर्जन्यः प्रीयताम् ७० ।  
+भगवान् स्वामी महासेनः प्रीयताम् ७१ ॥
+
+प्रतिवाक्यम् पात्रे जलम् पातयेत् ।  
+तत्र+ "अरिष्ट-निरसनम् अस्तु,  
+यत् पापं तत् प्रतिहतम् अस्तु"  
+इति द्वाभ्यां वाक्याभ्यां  
+"हता ब्रह्म-द्विष" इत्य् आदिभिः सप्तभिर् वाक्यैश् च  
+पात्राद् बहिर् उत्तरतो जलम् पातनीयम् ।
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 Notes: This section relates to the gratification of various deities with water offerings, which is related to what in other traditions is called the Paurāṇika-puṇyāhavacana. However, it differs from that in having a longer list of statements, including several unique ones. Despite its apparently Paurāṇika origins, we believe it has elements from a “transitional” period of the tradition as it includes certain Vaidika tendencies like the invocation of Agni and Indra with the Marut-s at the opening of the list of gods. It is also notable in multiple ways. It invokes Durgā together with Pāñcālī. This is a unique combination that is not seen elsewhere. It also seems to be the first mention of the Draupadī cult that still survives in popular form in pockets of the Drāviḍa country (e.g., among the Vahniyar-s). Interestingly, this Drāviḍa cult of Pāñcālī also intersects with their popular cult of Durgā. Also notable are the mentions of Skanda (and his parivāra). While the worship of Kumāra faded away in the Marahaṭṭa country, some remnants of it survived among the brāhmaṇa-s of the Koṅkaṇa-s, like the Peśva-s of the Marahaṭṭa empire. Given that many of these were Hiraṇyakeśin-s, it is possible that rites such as this kept the memory of his worship alive. The dual Vināyaka-s are also an interesting peculiarity of this ritual.
+</details>
 
-svasti-vacanam :  
-svasti na indro vṛddhaśravāḥ svasti naḥ pūṣā viśvavedāḥ ।  
-svasti nas tārkṣyo ariṣṭanemiḥ svasti no bṛhaspatir dadhātu ॥
+## स्वस्ति-वचनम्  
 
-svasti no mimītām aśvinā bhagaḥ svasti devy aditir anarvaṇaḥ ।  
-svasti pūṣā asuro dadhātu naḥ svasti dyāvāpṛthivī sucetunā ॥  
-svastaye vāyum upa bravāmahai somaṃ svasti bhuvanasya yas patiḥ ।  
-bṛhaspatiṃ sarvagaṇaṃ svastaye svastaya ādityāso bhavantu naḥ ॥  
-viśve devā no adyā svastaye vaiśvānaro vasur agniḥ svastaye ।  
-devā avantv ṛbhavaḥ svastaye svasti no rudraḥ pātv aṃhasaḥ ॥  
-svasti mitrāvaruṇā svasti pathye revati ।  
-svasti na indraś cāgniś ca svasti no adite kṛdhi ॥  
-svasti panthām anu carema sūryācandramasāv iva ।  
-punar dadatāghnatā jānatā saṃ gamemahi ॥
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/089/06_svasti_na.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
-śriye jātaḥ śriya ā nir iyāya śriyaṃ vayo jaritṛbhyo dadhāti ।  
-śriyaṃ vasānā amṛtatvam āyan bhavanti satyā samithā mitadrau ॥
 
-śrīr astu (![\times](https://s0.wp.com/latex.php?latex=%5Ctimes&bg=ffffff&fg=333333&s=0&c=20201002) 3) । varṣa-śatam pūrṇam astu । maṅgalāni bhavantu । śivaṃ karmāstu ।
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/05/051/11_svasti_no.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/05/051/12_svastaye_vAyumupa.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/05/051/13_vishve_devA.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/05/051/14_svasti_mitrAvaruNA.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/05/051/15_svasti_panthAmanu.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/094/04_shriye_jAtaH.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+
+श्रीर् अस्तु (त्रिः) ।  
+वर्ष-शतम् पूर्णम् अस्तु ।  
+मङ्गलानि भवन्तु ।  
+शिवं कर्मास्तु ।
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 Notes: This section is entirely Vedic illustrating the hybrid nature of the Hiraṇyakeśin ritual.
+</details>
 
-dakṣiṇa-haste uttara-kalaśaṃ dakṣiṇa-haste dakṣiṇa-kalaśaṃ vāma-haste gṛhītvā tābhyāṃ dhārādvayaṃ satatam patre niṣiñcet ।
+## धारापातः
 
-vāstoṣ pate prati jānīhy asmānt svāveśo anamīvo bhavā naḥ ।  
-yat tvemahe prati tan no juṣasva śaṃ na edhi dvipade śaṃ catuṣpade ॥
+दक्षिण-हस्ते उत्तर-कलशं  
+दक्षिण-कलशं वाम-हस्ते गृहीत्वा  
+ताभ्यां धाराद्वयं सततम् पत्रे निषिञ्चेत् ।
 
-vāstoṣ pate śagmayā saꣲsadā te sakṣīmahi raṇvayā gātumatyā ।  
-āvaḥ kṣema uta yoge varaṃ no yūyam pāta svastibhiḥ sadā naḥ ॥
+वास्तोष् पते प्रति जानीह्य् अस्मान्त् स्वावेशो अनमीवो भवा नः ।  
+यत् त्वेमहे प्रति तन् नो जुषस्व शं न एधि द्विपदे शं चतुष्पदे ॥
 
-amīvahā vāstoṣ pate viśvā rūpāṇy āviśan ।  
-sakhā suśeva edhi naḥ ॥
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/055_vAstoShpate_pratijAnIhi/">
+<details open><summary><h2>०५५ वास्तोष्पते प्रतिजानीहि ...{Loading}...</h2></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/054/01_vAstoShpate_prati.md">
+<details open><summary><h4>०१ वास्तोष्पते प्रति ...{Loading}...</h4></summary>
 
-namo rudrāya vāstoṣpataye ॥
 
-śivaṃ śivaṃ śivam ॥
+वास्तो॑ष्पते॒ प्रति॑ जानीह्य् अ॒स्मान्त्  
+स्व्-आ॑वे॒शो+++(=सुगमो)+++ अ॑नमी॒वो+++(=आरोग्यकरः)+++ भ॑वा नः ।  
+यत् त्वेम॑हे॒ प्रति॒ तन् नो॑ जुषस्व॒  
+शं न॑ एधि द्वि॒पदे॒ शं चतु॑ष्पदे ।
+
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/054/03_vAstoShpate_shagmayA.md">
+<details open><summary><h4>०३ वास्तोष्पते शग्मया ...{Loading}...</h4></summary>
+
+
+वास्तो॑ष्पते श॒ग्मया॑+++(=सुखया)+++ स॒ꣳ॒सदा॑ ते  
+सक्षी॒महि॑+++(←सच समवाये)+++ र॒ण्वया॑+++(=रममाणया)+++ गातु॒मत्या॑+++(=गामिन्या)+++) ।  
+आवः॒ क्षेम॑+++(य्=लब्धस्य रक्षणे)+++ उ॒त योगे॒+++(=अलब्धस्य लाभे)+++ वरं॑ नो  
++++(हे विश्वेदेवाः)+++ यू॒यम् पा॑त स्व॒स्तिभिः॒ सदा॑ नः ।
+
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/054/02_vAstoShpate_prataraNo.md">
+<details open><summary><h4>०२ वास्तोष्पते प्रतरणो ...{Loading}...</h4></summary>
+
+
+वास्तो॑ष्पते प्र॒तर॑णो न एधि॒  
+गोभि॒र् अश्वे॑भिर् इन्दो+++(←इन्दिर् ऐश्वर्यकर्मा/ उदिर्वा क्लेदकर्मा)+++ ।  
+अ॒जरा॑सस् ते स॒ख्ये स्या॑म  
+पि॒तेव॑ पु॒त्रान् प्रति॑ नो जुषस्व ।
+
+</details>
+</div>
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/056_01_amIvahA_vAstoShpate/">
+<details open><summary><h2>०५६ ०१ अमीवहा वास्तोष्पते ...{Loading}...</h2></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/055/01_amIvahA_vAstoShpate.md">
+<details open><summary><h4>०१ अमीवहा वास्तोष्पते ...{Loading}...</h4></summary>
+
+
+अ॒मी॒व॒हा+++(=व्याधिहा)+++ वास्तो॑ष्पते॒  
+विश्वा॑ रू॒पाण्य् आ॑ वि॒शन्न् ।  
+सखा॑ सु॒शेव॑+++(फ)+++ एधि नः ।
+
+</details>
+</div>
+</details>
+</div>
+
+नमो रुद्राय वास्तोष्पतये ॥
+
+शिवं शिवं शिवम् ॥
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 Notes: the worship of Rudra Vāstoṣpati in this context is a distinctive aspect of this tradition.
 
-pātre pātitena jalena pallava-dūrvābhir udaṅ mukhās tiṣṭhanta upaviṣṭā vā parivāram abhiṣiñceyaḥ ।
+</details>
 
-samudrajyeṣṭhāḥ salilasya madhyāt punānā yanty aniviśamānāḥ ।  
-indro yā vajrī vṛṣabho rarāda tā āpo devīr iha mām avantu ॥
+## अभिषेकः
+पात्रे पातितेन जलेन  
+पल्लव-दूर्वाभिर्  
+उदङ् मुखास् तिष्ठन्त उपविष्टा वा  
+परिवारम् अभिषिञ्चेयुः ।
 
-devasya tvā savituḥ prasave ‘śvinor bāhubhyām pūṣṇo hastābhyāꣲ sarasvatyai vāco yantur yantreṇāgnes tvā sāmrājyenābhi ṣiñcāmīndrasya bṛhaspates tvā sāmrājyenābhi ṣiñcāmi ॥  
-devasya tvā savituḥ prasave । aśvinor bāhubhyām । pūṣṇo hastābhyām । aśvinor bhaiṣajyena । tejase brahmavarcasāya+abhiṣiñcāmi । devasya tvā savituḥ prasave । aśvinor bāhubhyām । pūṣṇo hastābhyām । sarasvatyai bhaiṣajyena ॥  
-devasya tvā savituḥ prasave । aśvinor bahubhyām । pūṣṇo hastābhyām । indrasyendriyeṇa । śriyai yaśase balāyābhiṣiñcāmi ॥
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/049/01_samudrajyeShThAH_salilasya.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
-oṁ varuṇāya namaḥ । varuṇam udvāsayāmi । yathā sthānam pratiṣṭhāpayāmi śobhanārthāya kṣemāya punar āgamanāya ca ॥
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
-bhūr bhuvaḥ suvaḥ ।  
-tac chaṃyor āvṛṇīmahe gātuṃ yajñāya gātuṃ yajñapataye ।  
-daivī svastir astu naḥ svastir mānuṣebhyaḥ ।  
-ūrdhvaṃ jigātu bheṣajaṃ śaṃ no astu dvipade śaṃ catuṣpade ॥
+
+सरस्वत्यै वाचो यन्तुर् यन्त्रेणाग्नेस् त्वा साम्राज्येनाभि षिञ्चामीन्द्रस्य  
+बृहस्पतेस् त्वा साम्राज्येनाभि षिञ्चामि ॥  
+
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+
+अश्विनोर् भैषज्येन । तेजसे ब्रह्मवर्चसाय+अभिषिञ्चामि । 
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+सरस्वत्यै भैषज्येन ॥  
+
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+इन्द्रस्येन्द्रियेण । श्रियै यशसे बलायाभिषिञ्चामि ॥
+
+## उद्वासनम्
+ॐ वरुणाय नमः । वरुणम् उद्वासयामि । यथा स्थानम् प्रतिष्ठापयामि शोभनार्थाय क्षेमाय पुनर् आगमनाय च ॥
+
+भूर् भुवः॒ सुवः॑ ।  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/3/5/11"  newLevelForH1="5" includeTitle="false"> </div>  
 
 Notes: This Vaidika section largely follows the pattern seen in other smārta traditions.
 
-atha mātṛkā-pūjā :  
-śucau raṅgavallyādy alaṃkṛte deśe kṛtagny uttāraṇa-prāṇa-pratiṣṭhāsu prathimāsu abhāve ‘kṣata-puñjeṣu vā gauryādi-devatā āvāhayet ।  
-gauryai namaḥ । gaurīm āvāhayāmi । padmāvatyai namaḥ । padmāvatīm āvāhayāmi । śacyai namaḥ । śacīm āvāhayāmi । medhāyai namaḥ । medhām āvāhayāmi । sāvitryai namaḥ । sāvitrīm āvāhayāmi । vijayāyai namaḥ । vijayām āvāhayāmi । jayāyaī namaḥ । jayām āvāhayāmi । devasenāyai namaḥ । devasenām āvāhayāmi । svadhāyai namaḥ । svadhām āvāhayāmi । svāhāyai namaḥ । svāhām āvāhayāmi । mātṛbhyo namaḥ । mātṝr āvāhayāmi । lokamātṛbhyo namaḥ । lokamātṝr āvāhayāmi । dhṛtyai namaḥ । dhṛtim āvāhayāmi । puṣṭyai namaḥ । puṣṭim āvāhayāmi । tuṣṭyai namaḥ । tuṣṭim āvāhayāmi । kuladevatāyai । kuladevatām āvāhayāmi । brāhmyai namaḥ । brāhmīm āvāhayāmi । māheśvaryai namaḥ । māheśvarīm āvāhayāmi । kaumāryai namaḥ । kaumārīm āvāhayāmi । vaiṣṇavyai namaḥ । vaiṣṇavīm āvāhayāmi । vārāhyai namaḥ । vārāhīm āvāhayāmi । indrāṇyai namaḥ । indrāṇīm āvāhayāmi । cāmuṇḍāyai namaḥ । cāmuṇḍām āvāhayāmi । gaṇādhipāya namaḥ । gaṇādhipam āvāhayāmi । durgāyai namaḥ । durgām āvāhayāmi । kṣetrapālāya namaḥ । kṣetrapālam āvāhayāmi । vāstoṣpataye namaḥ । vāstoṣpatim āvāhayāmi ॥
+## मातृका-पूजा
 
-ity āvāhayet । tato gauryādy āvāhita-devatābhyo namo nama iti ṣoḍaśopacāraiḥ prapūjayet ॥
+### आवाहनम्
+शुचौ रङ्गवल्ल्याद्य्-अलंकृते देशे  
+कृताग्न्य्-उत्तारण-प्राण-प्रतिष्ठासु प्रतिमासु  
+अभावे ऽक्षत-पुञ्जेषु वा  
+गौर्यादि-देवता आवाहयेत् ।  
+
+गौर्यै नमः । गौरीम् आवाहयामि ।   
+पद्मावत्यै नमः । पद्मावतीम् आवाहयामि ।   
+शच्यै नमः । शचीम् आवाहयामि ।   
+मेधायै नमः । मेधाम् आवाहयामि ।   
+सावित्र्यै नमः । सावित्रीम् आवाहयामि ।   
+विजयायै नमः । विजयाम् आवाहयामि ।   
+जयायै नमः । जयाम् आवाहयामि ।   
+देवसेनायै नमः । देवसेनाम् आवाहयामि ।   
+स्वधायै नमः । स्वधाम् आवाहयामि ।   
+स्वाहायै नमः । स्वाहाम् आवाहयामि ।   
+मातृभ्यो नमः । मातॄर् आवाहयामि ।   
+लोकमातृभ्यो नमः । लोकमातॄर् आवाहयामि ।   
+धृत्यै नमः । धृतिम् आवाहयामि ।   
+पुष्ट्यै नमः । पुष्टिम् आवाहयामि ।   
+तुष्ट्यै नमः । तुष्टिम् आवाहयामि ।   
+कुलदेवतायै । कुलदेवताम् आवाहयामि ।   
+
+
+ब्राह्म्यै नमः । ब्राह्मीम् आवाहयामि ।   
+माहेश्वर्यै नमः । माहेश्वरीम् आवाहयामि ।   
+कौमार्यै नमः । कौमारीम् आवाहयामि ।   
+वैष्णव्यै नमः । वैष्णवीम् आवाहयामि ।   
+वाराह्यै नमः । वाराहीम् आवाहयामि ।   
+इन्द्राण्यै नमः । इन्द्राणीम् आवाहयामि ।   
+चामुण्डायै नमः । चामुण्डाम् आवाहयामि ।   
+
+गणाधिपाय नमः । गणाधिपम् आवाहयामि ।   
+दुर्गायै नमः । दुर्गाम् आवाहयामि ।   
+क्षेत्रपालाय नमः । क्षेत्रपालम् आवाहयामि ।   
+वास्तोष्पतये नमः । वास्तोष्पतिम् आवाहयामि ॥
+
+इत्य् आवाहयेत् ।  
+ततो "गौर्याद्य्-आवाहित-देवताभ्यो नमो नम" इति षोडशोपचारैः प्रपूजयेत् ॥
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 Notes: The Mātṛ-s invoked here belong to two groups. The first are set of goddesses similar to a list seen in the Śuklayajurvedīya gṛhya-pariśiṣṭa tradition. They include consorts of Rudra, Viṣṇu, Indra, Prajāpati, Kumāra, Agni and Puṣan among others. The second set is comprised of the classical Saptamātṛ-s accompanied by Gaṇeśa, Kṣetrapāla and Rudra Vāstoṣpati. That pattern is mimicked in iconography where the Saptamātṛ-s are typically accompanied by Gaṇeśa and Rudra/Vīrabhadra.
 
-atha laghu-deva-pūjā :  
-brahmādi-devatāḥ priyantām iti pātrāt jalaṃ kṣiptvā śucau deśe caturaśraṃ maṇḍalaṃ vidhāya raṅgavallyādibhir alaṃkṛtya śvetākṣatān saṃprakīrya+adbhir abhyukṣya prāṇa-pratiṣṭhāsu prathimāsu abhāve ‘kṣata-puñjeṣu vā brahmādi-devatā āvāhayet ।  
-oṃ bhūr brahmāṇam āvāhayāmi । oṃ bhuvaś caturmukhaṃ brahmāṇam āvāhayāmi । oṃ suvaḥ prajāpatiṃ brahmāṇam āvāhayāmi । oṃ bhūr bhuvaḥ suvar hiraṇyagarbhaṃ brahmāṇam āvāhayāmi ।  
-iti madhyame sthāne brahmāṇam āvāhayāmi ॥
+</details>
 
-hiraṇyagarbhaḥ sam avartatāgre bhūtasya jātaḥ patir eka āsīt ।  
-sa dādhāra pṛthivīṃ dyām utemāṃ kasmai devāya haviṣā vidhema ॥  
-prajāpate āgaccha ।
 
-prajāpate na tvad etāny anyo viśvā jātāni pari tā babhūva ।  
-yat kāmās te juhumas tan no astu vayaꣲ syāma patayo rayīṇām ॥  
-prajāpatiṃ tarpayāmi ॥
+## लघु-देव-पूजा  
+ब्रह्मादि-देवताः प्रियन्ताम्  
+इति पात्रात् जलं क्षिप्त्वा  
+शुचौ देशे चतुरश्रं मण्डलं विधाय  
+रङ्गवल्ल्य्-आदिभिर् अलंकृत्य  
+श्वेताक्षतान् संप्रकीर्य+  
+अद्भिर् अभ्युक्ष्य  
+प्राण-प्रतिष्ठासु प्रतिमासु  
+अभावे ऽक्षत-पुञ्जेषु वा  
+ब्रह्मादि-देवता आवाहयेत् ।  
 
-oṃ bhūr vajriṇam āvāhayāmi । oṃ bhuvaḥ śacīpatim āvāhayāmi । oṃ suvar indram āvāhayāmi । oṃ bhūr bhuvaḥ suvaḥ śatakratum āvāhayāmi ।  
-iti pūrvasyāṃ diśi vajriṇam āvāhayāmi ॥
+ॐ भूर् ब्रह्माणम् आवाहयामि । ॐ भुवश् चतुर्मुखं ब्रह्माणम् आवाहयामि । ॐ सुवः प्रजापतिं ब्रह्माणम् आवाहयामि । ॐ भूर् भुवः सुवर् हिरण्यगर्भं ब्रह्माणम् आवाहयामि ।  
+इति मध्यमे स्थाने ब्रह्माणम् आवाहयामि ॥
 
-yata indra bhayāmahe tato no abhayaṃ kṛdhi ।  
-maghavan chagdhi tava tan na ūtaye vi dviṣo vi mṛdho jahi ॥  
-indra āgaccha ।
+हिरण्यगर्भः सम् अवर्तताग्रे भूतस्य जातः पतिर् एक आसीत् ।  
+स दाधार पृथिवीं द्याम् उतेमां कस्मै देवाय हविषा विधेम ॥  
+प्रजापते आगच्छ ।
 
-svastidā viśas patir vṛtrahā vimṛdho vaśī ।  
-vṛṣendraḥ pura etu naḥ svastidā abhayaṃkaraḥ ॥  
-indraṃ tarpayāmi ॥
+प्रजापते न त्वद् एतान्य् अन्यो विश्वा जातानि परि ता बभूव ।  
+यत् कामास् ते जुहुमस् तन् नो अस्तु वयꣲ स्याम पतयो रयीणाम् ॥  
+प्रजापतिं तर्पयामि ॥
 
-oṃ bhūr yamam āvāhayāmi । oṃ bhuvo vaivasvatam āvāhayāmi । oṃ suvaḥ pitṛpatim āvāhayāmi । oṃ bhūr bhuvaḥ suvaḥ pretapatim āvāhayāmi ।  
-iti dakṣiṇasyāṃ diśi yamam āvāhayāmi ॥
+ॐ भूर् वज्रिणम् आवाहयामि । ॐ भुवः शचीपतिम् आवाहयामि । ॐ सुवर् इन्द्रम् आवाहयामि । ॐ भूर् भुवः सुवः शतक्रतुम् आवाहयामि ।  
+इति पूर्वस्यां दिशि वज्रिणम् आवाहयामि ॥
 
-trikadrukebhiḥ patati ṣaḍ urvīr ekam id bṛhat ।  
-triṣṭub gāyatrī chandāꣲsi sarvā tā yama āhitā ॥  
-yama āgaccha ।
+यत इन्द्र भयामहे ततो नो अभयं कृधि ।  
+मघवन् छग्धि तव तन् न ऊतये वि द्विषो वि मृधो जहि ॥  
+इन्द्र आगच्छ ।
 
-yad ulūko vadati mogham etad yat kapotaḥ padam agnau kṛṇoti ।  
-yasya dūtaḥ prahita eṣa etat tasmai yamāya namo astu mṛtyave ॥  
-yamaṃ tarpayāmi ॥
+स्वस्तिदा विशस् पतिर् वृत्रहा विमृधो वशी ।  
+वृषेन्द्रः पुर एतु नः स्वस्तिदा अभयंकरः ॥  
+इन्द्रं तर्पयामि ॥
 
-oṃ bhūr varuṇam āvāhayāmi । oṃ bhuvaḥ pracetasam āvāhayāmi । oṃ suvaḥ surūpiṇam āvāhayāmi । oṃ bhūr bhuvaḥ suvar apāmpatim āvāhayāmi ।  
-iti paścimāyām diśi varuṇam āvāhayāmi ॥
+ॐ भूर् यमम् आवाहयामि । ॐ भुवो वैवस्वतम् आवाहयामि । ॐ सुवः पितृपतिम् आवाहयामि । ॐ भूर् भुवः सुवः प्रेतपतिम् आवाहयामि ।  
+इति दक्षिणस्यां दिशि यमम् आवाहयामि ॥
 
-imam me varuṇa śrudhī havam adyā ca mṛḍaya । tvām avasyur ā cake ॥  
-varuṇa āgaccha ।
+त्रिकद्रुकेभिः पतति षड् उर्वीर् एकम् इद् बृहत् ।  
+त्रिष्टुब् गायत्री छन्दाꣲसि सर्वा ता यम आहिता ॥  
+यम आगच्छ ।
 
-tat tvā yāmi brahmaṇā vandamānas tad ā śāste yajamāno havirbhiḥ ।  
-aheḍamāno varuṇeha bodhy uruśaꣲsa mā na āyuḥ pra moṣīḥ ॥  
-varuṇaṃ tarpayāmi ॥
+यद् उलूको वदति मोघम् एतद् यत् कपोतः पदम् अग्नौ कृणोति ।  
+यस्य दूतः प्रहित एष एतत् तस्मै यमाय नमो अस्तु मृत्यवे ॥  
+यमं तर्पयामि ॥
 
-oṃ bhūḥ somam āvāhayāmi āvāhayāmi । oṃ bhuva indum āvāhayāmi । oṃ suvar niśākaram āvāhayāmi । oṃ bhūr bhuvaḥ suvaḥ śaśinam āvāhayāmi ।  
-ity uttarasyaṃ diśi somam āvāhayāmi ॥
+ॐ भूर् वरुणम् आवाहयामि । ॐ भुवः प्रचेतसम् आवाहयामि । ॐ सुवः सुरूपिणम् आवाहयामि । ॐ भूर् भुवः सुवर् अपाम्पतिम् आवाहयामि ।  
+इति पश्चिमायाम् दिशि वरुणम् आवाहयामि ॥
 
-somo dhenuꣲ somo arvantam āśuṃ somo vīraṃ karmaṇyaṃ dadātu ।  
-sādanyaṃ vidathyaꣲ sabheyam pituḥśravaṇaṃ yo dadāśad asmai ॥  
-soma āgaccha ।
+इमम् मे वरुण श्रुधी हवम् अद्या च मृडय । त्वाम् अवस्युर् आ चके ॥  
+वरुण आगच्छ ।
 
-aṣāḍhaṃ yutsu pṛtanāsu papriꣲ svarṣām apsāṃ vṛjanasya gopām ।  
-bhareṣujāꣲ sukṣitiꣲ suśravasaṃ jayantaṃ tvām anu madema soma ॥  
-somaṃ tarpayāmi ॥
+तत् त्वा यामि ब्रह्मणा वन्दमानस् तद् आ शास्ते यजमानो हविर्भिः ।  
+अहेडमानो वरुणेह बोध्य् उरुशꣲस मा न आयुः प्र मोषीः ॥  
+वरुणं तर्पयामि ॥
 
-oṃ āpo hi ṣṭā mayobhuvaḥ … । hiraṇyavarṇāḥ śucayaḥ … morjayantyā punātu ।
+ॐ भूः सोमम् आवाहयामि आवाहयामि । ॐ भुव इन्दुम् आवाहयामि । ॐ सुवर् निशाकरम् आवाहयामि । ॐ भूर् भुवः सुवः शशिनम् आवाहयामि ।  
+इत्य् उत्तरस्यं दिशि सोमम् आवाहयामि ॥
 
-brahmādīn saṃsnāpayet । puṣpāñjali-samarpaṇam ॥
+सोमो धेनुꣲ सोमो अर्वन्तम् आशुं सोमो वीरं कर्मण्यं ददातु ।  
+सादन्यं विदथ्यꣲ सभेयम् पितुःश्रवणं यो ददाशद् अस्मै ॥  
+सोम आगच्छ ।
 
-diśām patīn namasyāmi sarvakāma-phala-pradān ।  
-kurvantu saphalaṃ karṃ kuvantu satataṃ śubham ॥
+अषाढं युत्सु पृतनासु पप्रिꣲ स्वर्षाम् अप्सां वृजनस्य गोपाम् ।  
+भरेषुजाꣲ सुक्षितिꣲ सुश्रवसं जयन्तं त्वाम् अनु मदेम सोम ॥  
+सोमं तर्पयामि ॥
 
-īśvaraṃ tarpayāmi । umāṃ tarpayāmi । skandaṃ tarpayāmi । viṣṇuṃ tarpayāmi । brahmāṇaꣲ svayabhuvaṃ tarpayāmi । indraṃ tarpayāmi । yamaṃ tarpayāmi । kālaṃ tarpayāmi । citraguptaṃ tarpayāmi । apas tarpayāmi । bhūmiṃ tarpayāmi । viṣṇuṃ tarpayāmi । indraṃ tarpayāmi । indrāṇīṃ tarpayāmi । prajāpatiṃ tarpayāmi । sarpān tarpayāmi । brahmāṇaṃ tarpayāmi । gaṇapatiṃ tarpayāmi । durgāṃ tarpayāmi । vāyuṃ tarpayāmi । ākāśaṃ tarpayāmi । aśvinau tarpayāmi । vāstoṣpatiṃ tarpayāmi । kṣetrapālaṃ tarpayāmi । indraṃ tarpayāmi । agniṃ tarpayāmi । yamaṃ tarpayāmi । nirṛttiṃ tarpayāmi । varuṇaṃ tarpayāmi । vāyuṃ tarpayāmi । somaṃ tarpayāmi । īśānaṃ tarpayāmi । vasūn tarpayāmi । rudrān tarpayāmi । ādityān tarpayāmi । aśvinau tarpayāmi । viśvān devān tarpayāmi । yakṣān tarpayāmi । sarpān tarpayāmi । gandharvāpsarasas tarpayāmi । skandaṃ tarpayāmi । nandīśvaraṃ tarpayāmi । mahākālaṃ tarpayāmi । dakṣaṃ tarpayāmi । durgāṃ tarpayāmi । viṣṇuṃ tarpayāmi । mṛtyu-rogān tarpayāmi । gaṇapatiṃ tarpayāmi । apas tarpayāmi । marutas tarpayāmi । pṛthivīṃ tarpayāmi । nadīn tarpayāmi । sāgarān tarpayāmi । meruṃ tarpayāmi । aindrīṃ tarpayāmi । kaumārīṃ tarpayāmi । brāhmīṃ tarpayāmi । vārāhīṃ tarpayāmi । cāmuṇḍāṃ tarpayāmi । vaiṣṇavīṃ tarpayāmi । maheśvarīṃ tarpayāmi । vaināyakīṃ tarpayāmi ॥
+ॐ आपो हि ष्टा मयोभुवः … । हिरण्यवर्णाः शुचयः … मोर्जयन्त्या पुनातु ।
 
-pūrvoktair oṃ bhūr brahmāṇam ity ādyair mantrair udvāsayāmi+ity ūhitair yathākramaṃ devatā udvāsayet ॥
+ब्रह्मादीन् संस्नापयेत् । पुष्पाञ्जलि-समर्पणम् ॥
+
+दिशाम् पतीन् नमस्यामि सर्वकाम-फल-प्रदान् ।  
+कुर्वन्तु सफलं कर्ं कुवन्तु सततं शुभम् ॥
+
+ईश्वरं तर्पयामि । उमां तर्पयामि । स्कन्दं तर्पयामि । विष्णुं तर्पयामि । ब्रह्माणꣲ स्वयभुवं तर्पयामि । इन्द्रं तर्पयामि । यमं तर्पयामि । कालं तर्पयामि । चित्रगुप्तं तर्पयामि । अपस् तर्पयामि । भूमिं तर्पयामि । विष्णुं तर्पयामि । इन्द्रं तर्पयामि । इन्द्राणीं तर्पयामि । प्रजापतिं तर्पयामि । सर्पान् तर्पयामि । ब्रह्माणं तर्पयामि । गणपतिं तर्पयामि । दुर्गां तर्पयामि । वायुं तर्पयामि । आकाशं तर्पयामि । अश्विनौ तर्पयामि । वास्तोष्पतिं तर्पयामि । क्षेत्रपालं तर्पयामि । इन्द्रं तर्पयामि । अग्निं तर्पयामि । यमं तर्पयामि । निरृत्तिं तर्पयामि । वरुणं तर्पयामि । वायुं तर्पयामि । सोमं तर्पयामि । ईशानं तर्पयामि । वसून् तर्पयामि । रुद्रान् तर्पयामि । आदित्यान् तर्पयामि । अश्विनौ तर्पयामि । विश्वान् देवान् तर्पयामि । यक्षान् तर्पयामि । सर्पान् तर्पयामि । गन्धर्वाप्सरसस् तर्पयामि । स्कन्दं तर्पयामि । नन्दीश्वरं तर्पयामि । महाकालं तर्पयामि । दक्षं तर्पयामि । दुर्गां तर्पयामि । विष्णुं तर्पयामि । मृत्यु-रोगान् तर्पयामि । गणपतिं तर्पयामि । अपस् तर्पयामि । मरुतस् तर्पयामि । पृथिवीं तर्पयामि । नदीन् तर्पयामि । सागरान् तर्पयामि । मेरुं तर्पयामि । ऐन्द्रीं तर्पयामि । कौमारीं तर्पयामि । ब्राह्मीं तर्पयामि । वाराहीं तर्पयामि । चामुण्डां तर्पयामि । वैष्णवीं तर्पयामि । महेश्वरीं तर्पयामि । वैनायकीं तर्पयामि ॥
+
+पूर्वोक्तैर् ॐ भूर् ब्रह्माणम् इत्य् आद्यैर् मन्त्रैर् उद्वासयामि+इत्य् ऊहितैर् यथाक्रमं देवता उद्वासयेत् ॥
 
 Notes: The initial invocation of Prajāpati, Indra, Yama, Varuṇa and Soma in a maṇdala reminds one of the early maṇḍala worship seen in the Atharvavedīya pariśiṣṭa-s. It is notable that, as in certain early texts, Soma takes the northern position, unlike Kubera in the later texts. This and the Mātṛ-pujā provide glimpses of the early iconic worship of the Hindus. The longer tarpaṇa list at the end of this section includes deities from both the old Vedic and Paurāṇika pantheons. Some notable features include the worship of Nandin and Mahākāla, which probably marks one of the early instances of the worship of these deities unique to the Śaiva pantheon in a smārta context. The Mātṛ-s in this list differ from the above ritual in being an Aṣṭamātṛkā group via the inclusion of Vaināyakī. The inclusion of Vaināyakī in the Aṣṭamātṛkā is uncommon but is iconographically attested in some Mātṛ depictions, such as in Bhūleśvara, Mahārāṣṭra. One again wonders if the presence of this tradition in the region influenced the local iconographic depictions of this goddess.
