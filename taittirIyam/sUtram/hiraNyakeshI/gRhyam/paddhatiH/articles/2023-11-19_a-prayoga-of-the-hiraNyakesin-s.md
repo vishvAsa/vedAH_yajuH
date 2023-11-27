@@ -409,7 +409,8 @@ Notes: The Mātṛ-s invoked here belong to two groups. The first are set of god
 
 
 ## लघु-देव-पूजा  
-ब्रह्मादि-देवताः प्रियन्ताम्  
+
+"ब्रह्मादि-देवताः प्रियन्ताम्"  
 इति पात्रात् जलं क्षिप्त्वा  
 शुचौ देशे चतुरश्रं मण्डलं विधाय  
 रङ्गवल्ल्य्-आदिभिर् अलंकृत्य  
@@ -419,69 +420,269 @@ Notes: The Mātṛ-s invoked here belong to two groups. The first are set of god
 अभावे ऽक्षत-पुञ्जेषु वा  
 ब्रह्मादि-देवता आवाहयेत् ।  
 
-ॐ भूर् ब्रह्माणम् आवाहयामि । ॐ भुवश् चतुर्मुखं ब्रह्माणम् आवाहयामि । ॐ सुवः प्रजापतिं ब्रह्माणम् आवाहयामि । ॐ भूर् भुवः सुवर् हिरण्यगर्भं ब्रह्माणम् आवाहयामि ।  
+### प्रजापतिः
+
+ॐ भूर् ब्रह्माणम् आवाहयामि ।  
+ॐ भुवश् चतुर्मुखं ब्रह्माणम् आवाहयामि ।  
+ॐ सुवः प्रजापतिं ब्रह्माणम् आवाहयामि ।  
+ॐ भूर् भुवः सुवर् हिरण्यगर्भं ब्रह्माणम् आवाहयामि ।  
+
 इति मध्यमे स्थाने ब्रह्माणम् आवाहयामि ॥
 
-हिरण्यगर्भः सम् अवर्तताग्रे भूतस्य जातः पतिर् एक आसीत् ।  
-स दाधार पृथिवीं द्याम् उतेमां कस्मै देवाय हविषा विधेम ॥  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/121/01_hiraNyagarbhaH_samavartatAgre.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
 प्रजापते आगच्छ ।
 
-प्रजापते न त्वद् एतान्य् अन्यो विश्वा जातानि परि ता बभूव ।  
-यत् कामास् ते जुहुमस् तन् नो अस्तु वयꣲ स्याम पतयो रयीणाम् ॥  
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_22/19_prajApate_na.md">
+<details open><summary><h2>१९ प्रजापते न ...{Loading}...</h2></summary>
+
+
+प्रजा॑पते॒ न त्वद् ए॒तान्य् अ॒न्यो  
+विश्वा॑ जा॒तानि॒ परि॒ ता ब॑भूव+++(→गृह्णाति)+++ ।  
+यत्-का॑मास् ते जुहु॒मस् तन् नो॑ अस्तु  
+व॒यꣵ स्या॑म॒ पत॑यो रयी॒णाम्॥
+
+</details>
+</div>
+
 प्रजापतिं तर्पयामि ॥
 
-ॐ भूर् वज्रिणम् आवाहयामि । ॐ भुवः शचीपतिम् आवाहयामि । ॐ सुवर् इन्द्रम् आवाहयामि । ॐ भूर् भुवः सुवः शतक्रतुम् आवाहयामि ।  
+### इन्द्रः
+
+ॐ भूर् वज्रिणम् आवाहयामि ।  
+ॐ भुवः शचीपतिम् आवाहयामि ।  
+ॐ सुवर् इन्द्रम् आवाहयामि ।  
+ॐ भूर् भुवः सुवः शतक्रतुम् आवाहयामि ।  
+
 इति पूर्वस्यां दिशि वज्रिणम् आवाहयामि ॥
 
-यत इन्द्र भयामहे ततो नो अभयं कृधि ।  
-मघवन् छग्धि तव तन् न ऊतये वि द्विषो वि मृधो जहि ॥  
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/061/13_yata_indra.md">
+<details open><summary><h2>१३ यत इन्द्र ...{Loading}...</h2></summary>
+
+
+यत॑ इन्द्र॒ भया॑महे॒  
+ततो॑ नो॒ अभ॑यं कृधि ।  
+मघ॑वञ् छ॒ग्धि +++(=शक्तो वर्तस्व)+++ तव॒ तन् न॑+++(ः)+++ ऊ॒तिभि॑र्+++(=रक्षाभिः, ऊ॒तये॒ इति तैत्तिरीयपाठः)+++  
+वि द्विषो॒ वि मृधो॑+++(=सङ्ग्रामान्)+++ जहि ।।
+
+</details>
+</div>
+
 इन्द्र आगच्छ ।
 
-स्वस्तिदा विशस् पतिर् वृत्रहा विमृधो वशी ।  
-वृषेन्द्रः पुर एतु नः स्वस्तिदा अभयंकरः ॥  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/152/02_svastidA_vishaspatirvRtrahA.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
 इन्द्रं तर्पयामि ॥
 
-ॐ भूर् यमम् आवाहयामि । ॐ भुवो वैवस्वतम् आवाहयामि । ॐ सुवः पितृपतिम् आवाहयामि । ॐ भूर् भुवः सुवः प्रेतपतिम् आवाहयामि ।  
+### यमः
+ॐ भूर् यमम् आवाहयामि ।   
+ॐ भुवो वैवस्वतम् आवाहयामि ।   
+ॐ सुवः पितृपतिम् आवाहयामि ।   
+ॐ भूर् भुवः सुवः प्रेतपतिम् आवाहयामि ।    
+
 इति दक्षिणस्यां दिशि यमम् आवाहयामि ॥
 
-त्रिकद्रुकेभिः पतति षड् उर्वीर् एकम् इद् बृहत् ।  
-त्रिष्टुब् गायत्री छन्दाꣲसि सर्वा ता यम आहिता ॥  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/014/16_trikadrukebhiH_patati.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
 यम आगच्छ ।
 
-यद् उलूको वदति मोघम् एतद् यत् कपोतः पदम् अग्नौ कृणोति ।  
-यस्य दूतः प्रहित एष एतत् तस्मै यमाय नमो अस्तु मृत्यवे ॥  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/165/04_yadulUko_vadati.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+
 यमं तर्पयामि ॥
 
-ॐ भूर् वरुणम् आवाहयामि । ॐ भुवः प्रचेतसम् आवाहयामि । ॐ सुवः सुरूपिणम् आवाहयामि । ॐ भूर् भुवः सुवर् अपाम्पतिम् आवाहयामि ।  
+ॐ भूर् वरुणम् आवाहयामि ।   
+ॐ भुवः प्रचेतसम् आवाहयामि ।   
+ॐ सुवः सुरूपिणम् आवाहयामि ।   
+ॐ भूर् भुवः सुवर् अपाम्पतिम् आवाहयामि ।    
+
 इति पश्चिमायाम् दिशि वरुणम् आवाहयामि ॥
 
-इमम् मे वरुण श्रुधी हवम् अद्या च मृडय । त्वाम् अवस्युर् आ चके ॥  
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/025/19_imaM_me.md">
+<details open><summary><h2>१९ इमं मे ...{Loading}...</h2></summary>
+
+इ॒मं मे॑ वरुण श्रुधी॒ +++(=श्रुणु)+++  
+हव॑म्+++(=आह्वानम्)+++ अ॒द्या च॑ मृळय +++(=सुखय)+++।  
+त्वाम् अ॑व॒स्युर् आ च॑के +++(=अवदन्)+++॥
+
+</details>
+</div>
+
 वरुण आगच्छ ।
 
-तत् त्वा यामि ब्रह्मणा वन्दमानस् तद् आ शास्ते यजमानो हविर्भिः ।  
-अहेडमानो वरुणेह बोध्य् उरुशꣲस मा न आयुः प्र मोषीः ॥  
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/11_tattvA_yAmi.md">
+<details open><summary><h2>११ तत्त्वा यामि ...{Loading}...</h2></summary>
+
+
+तत् त्वा॑ यामि॒ ब्रह्म॑णा॒ वन्द॑मान॒स्  
+तद् आ शा॑स्ते॒ यज॑मानो ह॒विर्भिः॑ ।  
+अहे॑ळमानो +++(=अक्रुध्यन्)+++ वरुणे॒ह बो॒ध्य् उरु॑शंस॒  
+मा न॒ आयुः॒ प्र मो॑षीः ॥
+
+</details>
+</div>
+
 वरुणं तर्पयामि ॥
 
-ॐ भूः सोमम् आवाहयामि आवाहयामि । ॐ भुव इन्दुम् आवाहयामि । ॐ सुवर् निशाकरम् आवाहयामि । ॐ भूर् भुवः सुवः शशिनम् आवाहयामि ।  
+### सोमः 
+ॐ भूः सोमम् आवाहयामि आवाहयामि ।   
+ॐ भुव इन्दुम् आवाहयामि ।   
+ॐ सुवर् निशाकरम् आवाहयामि ।   
+ॐ भूर् भुवः सुवः शशिनम् आवाहयामि ।    
+
 इत्य् उत्तरस्यं दिशि सोमम् आवाहयामि ॥
 
-सोमो धेनुꣲ सोमो अर्वन्तम् आशुं सोमो वीरं कर्मण्यं ददातु ।  
-सादन्यं विदथ्यꣲ सभेयम् पितुःश्रवणं यो ददाशद् अस्मै ॥  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/091/20_somo_dhenuM.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+
 सोम आगच्छ ।
 
-अषाढं युत्सु पृतनासु पप्रिꣲ स्वर्षाम् अप्सां वृजनस्य गोपाम् ।  
-भरेषुजाꣲ सुक्षितिꣲ सुश्रवसं जयन्तं त्वाम् अनु मदेम सोम ॥  
+<div class="js_include" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/34/20_aShADhaM_yutsu.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+
 सोमं तर्पयामि ॥
 
-ॐ आपो हि ष्टा मयोभुवः … । हिरण्यवर्णाः शुचयः … मोर्जयन्त्या पुनातु ।
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/01_Apo_hi.md">
+<details open><summary><h2>०१ आपो हि ...{Loading}...</h2></summary>
 
-ब्रह्मादीन् संस्नापयेत् । पुष्पाञ्जलि-समर्पणम् ॥
+आपो॒ हि ष्ठा म॑यो॒भुव॑स्  
+ता न॑ ऊ॒र्जे+++(जाः)+++ द॑धातन ।  
+म॒हे रणा॑य॒+++(=रमणीयाय)+++ चक्ष॑से+++(=दर्शनाय)+++ ॥
 
-दिशाम् पतीन् नमस्यामि सर्वकाम-फल-प्रदान् ।  
-कुर्वन्तु सफलं कर्ं कुवन्तु सततं शुभम् ॥
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/02_yo_vaH.md">
+<details open><summary><h2>०२ यो वः ...{Loading}...</h2></summary>
+
+
+यो वः॑ शि॒वत॑मो॒ रस॑स्  
+तस्य॑ भाजयते॒ह नः॑ ।  
+उ॑श॒तीर्+++(=कामयमाना)+++ इ॑व मा॒तरः॑ ॥
+
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/03_tasmA_araM.md">
+<details open><summary><h2>०३ तस्मा अरं ...{Loading}...</h2></summary>
+
+
++++(रसाय)+++ तस्मा॒ अरं॑+++(=शीघ्रम्)+++ गमाम वो  
+यस्य॒ +++(प्रभावेण)+++ क्षया॑य॒+++(=निवासाय)+++ जिन्व॑थ+++(=प्रीणयथ)+++ ।  
+आपो॑ +++(प्रजा)+++ ज॒नय॑था च नः ॥
+
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/">
+<details open><summary><h5>०१ हिरण्यवर्णाश् शुचयः ...{Loading}...</h5></summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+1अतः परमग्निकाण्डमेवाग्न्यार्षेयम् ॥ तत्र कुम्भेष्टकोपधानमन्त्राः - हिरण्यवर्णा इत्याद्याः ॥
+</details>
+<details><summary>मूलम् (संयुक्तम्)</summary>
+
+हिर॑ण्यवर्णा॒श्शुच॑यᳶ पाव॒का यासु॑ जा॒तᳵ क॒श्यपो॒ यास्विन्द्रः॑ । अ॒ग्निय्ँया गर्भ॑न्दधि॒रे विरू॑पा॒स्ता न॒ आप॒श्शꣳ स्यो॒ना भ॑वन्तु ।
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+हिर॑ण्यवर्णा॒श् शुच॑यᳶ पाव॒का, यासु॑ जा॒तᳵ क॒श्यपो॒, यास्विन्द्रः॑ ।
+
+अ॒ग्निय्ँ या गर्भ॑न् दधि॒रे, विरू॑पा॒स् - ता न॒ आप॒श्शꣳ स्यो॒ना भ॑वन्तु ।
+</details>
+<details><summary>मूलम्</summary>
+
+हिर॑ण्यवर्णा॒श् शुच॑यᳶ पाव॒का, यासु॑ जा॒तᳵ क॒श्यपो॒, यास्विन्द्रः॑ ।
+
+अ॒ग्निय्ँ या गर्भ॑न् दधि॒रे, विरू॑पा॒स् - ता न॒ आप॒श्शꣳ स्यो॒ना भ॑वन्तु ।
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+प्रथमा त्रिष्टुप् । हिरण्यवर्णाः हितरमणीयवर्णाः, हिरण्यसदृशवर्णा वा स्वच्छत्वात् । शुचयश्शुद्धाः । पावकाः शोधयित्र्यः । 'पावकादीनां छन्दसि' इतीत्वाभावः । यासु जातः कश्यपः प्रजापतिः 'तद्दशहोताऽन्वसृज्यत । प्रजापतिर्वै दशहोता' इति । यासु चेन्द्रोजातः मध्यमो विद्युदात्मा, याश्चाग्निं गर्भं दधिरे धारयन्ति, यथा 'अग्ने गर्भो अपामसि' इति । ता आपः विरूपाः नः अस्माकं शान्तिहेतवः स्योनास्सुखहेतवश्च भवन्तु ॥
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+प्रथमा त्रिष्टुप् । हिरण्यवर्णाः हितरमणीयवर्णाः, हिरण्यसदृशवर्णा वा स्वच्छत्वात् । शुचयश्शुद्धाः । पावकाः शोधयित्र्यः । 'पावकादीनां छन्दसि' इतीत्वाभावः । यासु जातः कश्यपः प्रजापतिः 'तद्दशहोताऽन्वसृज्यत । प्रजापतिर्वै दशहोता' इति । यासु चेन्द्रोजातः मध्यमो विद्युदात्मा, याश्चाग्निं गर्भं दधिरे धारयन्ति, यथा 'अग्ने गर्भो अपामसि' इति । ता आपः विरूपाः नः अस्माकं शान्तिहेतवः स्योनास्सुखहेतवश्च भवन्तु ॥
+</details>
+<details><summary>मूलम् (संयुक्तम्)</summary>
+
+यासा॒ꣳ॒ राजा॒ वरु॑णो॒ याति॒ मध्ये॑ सत्यानृ॒ते अ॑व॒पश्य॒ञ्जना॑नाम् । म॒धु॒श्चुत॒श्शुच॑यो॒ याᳶ पा॑व॒कास्ता न॒ आप॒श्शꣳ स्यो॒ना भ॑वन्तु ।
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यासा॒ꣳ॒ राजा॒ वरु॑णो॒ याति॒ मध्ये॑, सत्यानृ॒ते अ॑व॒पश्य॒ञ् जना॑नाम् ।
+
+म॒धु॒श्चुत॒श् शुच॑यो॒ याᳶ पा॑व॒कास् - ता न॒ आप॒श् शꣳ स्यो॒ना भ॑वन्तु ।
+</details>
+<details><summary>मूलम्</summary>
+
+यासा॒ꣳ॒ राजा॒ वरु॑णो॒ याति॒ मध्ये॑, सत्यानृ॒ते अ॑व॒पश्य॒ञ् जना॑नाम् ।
+
+म॒धु॒श्चुत॒श् शुच॑यो॒ याᳶ पा॑व॒कास् - ता न॒ आप॒श् शꣳ स्यो॒ना भ॑वन्तु ।
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+2द्वितीया - यासां राजेति त्रिष्टुप् ॥ यासां मध्ये वरुणो राजा वरणीयो वा आदित्यो याति सत्यानृते जनानामवपश्यन् अवहितः पश्यन् मधुश्चुतः मधुरसस्य क्षारयित्र्यः शुचय इत्यादि । गतम् ॥
+</details>
+<details><summary>मूलम् (संयुक्तम्)</summary>
+
+यासा᳚न्दे॒वा दि॒वि कृ॒ण्वन्ति॑ भ॒ख्षय्ँया अ॒न्तरि॑ख्षे बहु॒धा भव॑न्ति । याᳶ पृ॑थि॒वीम्पय॑सो॒न्दन्ति॑ [1]  
+शु॒क्रास्ता न॒ आप॒श्शꣳ स्यो॒ना भ॑वन्तु ।
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यासा᳚न् दे॒वा दि॒वि कृ॒ण्वन्ति॑ भ॒ख्षय्ँ - या अ॒न्तरि॑ख्षे बहु॒धा भव॑न्ति ।
+
+याᳶ पृ॑थि॒वीम् पय॑सो॒न्दन्ति॑ शु॒क्रास् - ता न॒ आप॒श् शꣳ स्यो॒ना भ॑वन्तु ।
+</details>
+<details><summary>मूलम्</summary>
+
+यासा᳚न् दे॒वा दि॒वि कृ॒ण्वन्ति॑ भ॒ख्षय्ँ - या अ॒न्तरि॑ख्षे बहु॒धा भव॑न्ति ।
+
+याᳶ पृ॑थि॒वीम् पय॑सो॒न्दन्ति॑ शु॒क्रास् - ता न॒ आप॒श् शꣳ स्यो॒ना भ॑वन्तु ।
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+3यासां देवा इत्यादि ॥ तृतीया त्रिष्टुम् । यासामेकदेशममृतं सोमं वा देवा अपि भक्षं कृण्वन्ति । यद्वा - देवा आदित्यरश्मयः दिवि आदित्यमण्डले या भक्षं कुर्वन्ति स्थापयन्ति । कर्मणः संप्रदानत्वाच्चतुर्थ्यर्थे षष्ठी, 'धिन्विकृण्व्योरच' इत्युप्रत्ययः । याश्रान्तरिक्षे बहुधा भवन्ति बहुप्रकारा आविर्भवन्ति वर्षासु ॥ याश्च पृथिवीं पयसा स्वेनेत्यंशेन स्वेनैवांशेन, ओदनेन वा हेतुना उन्दन्ति क्लेदयन्ति शुक्रा निर्मलाः । ता न इत्यादि । गतम् ॥
+</details>
+<details><summary>मूलम् (संयुक्तम्)</summary>
+
+शि॒वेन॑ मा॒ चख्षु॑षा पश्यतापश्शि॒वया॑ त॒नुवोप॑ स्पृशत॒ त्वच॑म्मे । सर्वाꣳ॑ अ॒ग्नीꣳ र॑फ्सु॒षदो॑ हुवे वो॒ मयि॒ वर्चो॒ बल॒मोजो॒ नि ध॑त्त ।
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शि॒वेन॑ मा॒ चख्षु॑षा पश्यतापश् - शि॒वया॑ त॒नुवोप॑ स्पृशत॒ त्वच॑म् मे ।
+
+सर्वाꣳ॑ अ॒ग्नीꣳर् अ॑फ्सु॒षदो॑ हुवे वो॒, मयि॒ वर्चो॒ बल॒मोजो॒ नि ध॑त्त ।
+</details>
+<details><summary>मूलम्</summary>
+
+शि॒वेन॑ मा॒ चख्षु॑षा पश्यतापश् - शि॒वया॑ त॒नुवोप॑ स्पृशत॒ त्वच॑म् मे ।
+
+सर्वाꣳ॑ अ॒ग्नीꣳ र॑फ्सु॒षदो॑ हुवे वो॒, मयि॒ वर्चो॒ बल॒मोजो॒ नि ध॑त्त ।
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+4चतुर्थी - शिवेनेति त्रिष्टुप् ॥ आप इति प्रथमपादान्तः । हे आपः! शिवेन शान्तेन चक्षुषा मां पश्यत । किञ्च - शिवया तनुवा शरीरेण मे त्वचमुपस्पृशत । तथा कृते अहमासादितात्मा सर्वानग्नीनप्सुषदः ये अप्सु युष्मासु सीदन्ति तान्युष्मत्सम्बन्धिनः युष्मदर्थं वा हुवे आह्वयामि । 'दीर्घादटि समानपादे' इत्युभयत्र रुत्वम्, 'तत्पुरुषे कृति बहुलम्' इति सप्तम्या अलुक् । यूयमपि मयि वर्चं अन्नं वलं सामर्थ्यं ओजस्तेजश्च निधत्त नियमेन स्था- पयत ॥
+</details>
+</details>
+</div> 
+
+मोर्जयन्त्या पुनातु ।
+
+ब्रह्मादीन् संस्नापयेत् ।  
+पुष्पाञ्जलि-समर्पणम् ॥
+
+> दिशाम् पतीन् नमस्यामि  
+सर्वकाम-फल-प्रदान् ।  
+कुर्वन्तु सफलं कर्म  
+कुवन्तु सततं शुभम् ॥
 
 ईश्वरं तर्पयामि । उमां तर्पयामि । स्कन्दं तर्पयामि । विष्णुं तर्पयामि । ब्रह्माणꣲ स्वयभुवं तर्पयामि । इन्द्रं तर्पयामि । यमं तर्पयामि । कालं तर्पयामि । चित्रगुप्तं तर्पयामि । अपस् तर्पयामि । भूमिं तर्पयामि । विष्णुं तर्पयामि । इन्द्रं तर्पयामि । इन्द्राणीं तर्पयामि । प्रजापतिं तर्पयामि । सर्पान् तर्पयामि । ब्रह्माणं तर्पयामि । गणपतिं तर्पयामि । दुर्गां तर्पयामि । वायुं तर्पयामि । आकाशं तर्पयामि । अश्विनौ तर्पयामि । वास्तोष्पतिं तर्पयामि । क्षेत्रपालं तर्पयामि । इन्द्रं तर्पयामि । अग्निं तर्पयामि । यमं तर्पयामि । निरृत्तिं तर्पयामि । वरुणं तर्पयामि । वायुं तर्पयामि । सोमं तर्पयामि । ईशानं तर्पयामि । वसून् तर्पयामि । रुद्रान् तर्पयामि । आदित्यान् तर्पयामि । अश्विनौ तर्पयामि । विश्वान् देवान् तर्पयामि । यक्षान् तर्पयामि । सर्पान् तर्पयामि । गन्धर्वाप्सरसस् तर्पयामि । स्कन्दं तर्पयामि । नन्दीश्वरं तर्पयामि । महाकालं तर्पयामि । दक्षं तर्पयामि । दुर्गां तर्पयामि । विष्णुं तर्पयामि । मृत्यु-रोगान् तर्पयामि । गणपतिं तर्पयामि । अपस् तर्पयामि । मरुतस् तर्पयामि । पृथिवीं तर्पयामि । नदीन् तर्पयामि । सागरान् तर्पयामि । मेरुं तर्पयामि । ऐन्द्रीं तर्पयामि । कौमारीं तर्पयामि । ब्राह्मीं तर्पयामि । वाराहीं तर्पयामि । चामुण्डां तर्पयामि । वैष्णवीं तर्पयामि । महेश्वरीं तर्पयामि । वैनायकीं तर्पयामि ॥
 
 पूर्वोक्तैर् ॐ भूर् ब्रह्माणम् इत्य् आद्यैर् मन्त्रैर् उद्वासयामि+इत्य् ऊहितैर् यथाक्रमं देवता उद्वासयेत् ॥
 
-Notes: The initial invocation of Prajāpati, Indra, Yama, Varuṇa and Soma in a maṇdala reminds one of the early maṇḍala worship seen in the Atharvavedīya pariśiṣṭa-s. It is notable that, as in certain early texts, Soma takes the northern position, unlike Kubera in the later texts. This and the Mātṛ-pujā provide glimpses of the early iconic worship of the Hindus. The longer tarpaṇa list at the end of this section includes deities from both the old Vedic and Paurāṇika pantheons. Some notable features include the worship of Nandin and Mahākāla, which probably marks one of the early instances of the worship of these deities unique to the Śaiva pantheon in a smārta context. The Mātṛ-s in this list differ from the above ritual in being an Aṣṭamātṛkā group via the inclusion of Vaināyakī. The inclusion of Vaināyakī in the Aṣṭamātṛkā is uncommon but is iconographically attested in some Mātṛ depictions, such as in Bhūleśvara, Mahārāṣṭra. One again wonders if the presence of this tradition in the region influenced the local iconographic depictions of this goddess.
+Notes: The initial invocation of Prajāpati, Indra, Yama, Varuṇa and Soma in a maṇdala reminds one of the early maṇḍala worship seen in the Atharvavedīya pariśiṣṭa-s. It is notable that, as in certain early texts, Soma takes the northern position, unlike Kubera in the later texts. This and the Mātṛ-pujā provide glimpses of the early iconic worship of the Hindus. 
+
+The longer tarpaṇa list at the end of this section includes deities from both the old Vedic and Paurāṇika pantheons. Some notable features include the worship of Nandin and Mahākāla, which probably marks one of the early instances of the worship of these deities unique to the Śaiva pantheon in a smārta context. 
+
+The Mātṛ-s in this list differ from the above ritual in being an Aṣṭamātṛkā group via the inclusion of Vaināyakī. The inclusion of Vaināyakī in the Aṣṭamātṛkā is uncommon but is iconographically attested in some Mātṛ depictions, such as in Bhūleśvara, Mahārāṣṭra. One again wonders if the presence of this tradition in the region influenced the local iconographic depictions of this goddess.
