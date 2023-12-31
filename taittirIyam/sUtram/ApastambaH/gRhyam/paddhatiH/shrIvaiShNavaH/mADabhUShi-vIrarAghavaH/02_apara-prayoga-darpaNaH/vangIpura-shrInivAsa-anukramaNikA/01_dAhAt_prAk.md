@@ -463,7 +463,9 @@ title = "०१ दाहात् प्राक्"
 पशुभिर्हते कृच्छ्रं कृत्वा, "आगावो अग्मन् इन्द्रो यज्वन", इति द्वाभ्यां चतुर्गृहीतं जुहुयात् । उपवीती प्राणानायम्य, प्राचीनावीती सङ्कल्प्य, 
 
 > गोत्रस्य शर्मणः प्रेतस्य पशुभिर्हतप्रायश्चित्तार्थं प्राजापत्यकृच्छ्रप्रतिनिधि यत्किञ्चित् हिरण्यरूपेण करिष्ये ।  
-हिरण्यगर्भगर्भस्थं प्रयच्छ मे इदं हिरण्यं 
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/hiraNya-garbha-garbhasthaM_sapradade/"  newLevelForH1="5" includeTitle="false"> </div>  
+
 
 विप्राय दत्वा,
 

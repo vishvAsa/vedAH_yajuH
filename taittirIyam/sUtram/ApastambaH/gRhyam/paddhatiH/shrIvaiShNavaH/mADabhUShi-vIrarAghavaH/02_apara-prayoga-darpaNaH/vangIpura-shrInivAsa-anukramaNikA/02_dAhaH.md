@@ -18,7 +18,9 @@ title = "०२ दाहः"
 
 इति सङ्कल्प्य, 
 
-> हिरण्यगर्भगर्भस्थं - प्रयच्छ मे । संस्कारकरणयोग्यतासिद्ध्यर्थं यत्किञ्चिद्धिरण्यं तुभ्यमहं सम्प्रददे न मम 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/hiraNya-garbha-garbhasthaM_sapradade/"  newLevelForH1="5" includeTitle="false"> </div>  
+
+> संस्कारकरणयोग्यतासिद्ध्यर्थं यत्किञ्चिद्धिरण्यं तुभ्यमहं सम्प्रददे न मम 
 
 इति दत्वा, उपवीती प्राणानायम्य, प्राचीनावीती सङ्कल्प्य 
 
