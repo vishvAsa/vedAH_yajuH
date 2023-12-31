@@ -120,7 +120,7 @@ _______________________
 
 [[44]]
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/mantrAH/Rk/ye_te_shatam.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/mantraH/Rk/ye_te_shatam.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 प्रायश्चित्तहोमः,  

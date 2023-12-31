@@ -85,7 +85,7 @@ title = "०९ प्रायश्चित्तम्"
 
 > वरुणाय इदन्न मम ।
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/mantrAH/Rk/ye_te_shatam.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/mantraH/Rk/ye_te_shatam.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 इत्येतैश्च हुत्वा  
 सर्व-प्रायश्-चित्तम्  
@@ -162,16 +162,69 @@ title = "०९ प्रायश्चित्तम्"
 **यदि** प्रणीताः प्रणीयमाना वा सर्वा आपः **परासिच्येरन्**  
 ‘अक्षितोस्यक्षित्यै त्वा मा मे क्षेष्ठा अमुत्रामुष्मिन्लोके' इत्यभिमन्त्र्य  
 
-'आपोहिष्ठे'त्यन्याद्भिः पूरयित्वा 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/03_bhaxyAnumantraNAdi/axitosi.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
+'आपोहिष्ठे'त्य् अन्याद्भिः पूरयित्वा 
 
-> आयुर्मे धारयत प्राणं मे धारयत, प्रजां मे धारयत, पशून्मे धारयत ममायुः प्राणाः प्रजाः पशवः परासिच्येरन् 
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/01_Apo_hi.md">
+<details open><summary><h2>०१ आपो हि ...{Loading}...</h2></summary>
 
-इत्युपतिष्ठेत । 'ततं म आपः' इति जुहुयात् । 
+आपो॒ हि ष्ठा म॑यो॒भुव॑स्  
+ता न॑ ऊ॒र्जे+++(जाः)+++ द॑धातन ।  
+म॒हे रणा॑य॒+++(=रमणीयाय)+++ चक्ष॑से+++(=दर्शनाय)+++ ॥
+
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/02_yo_vaH.md">
+<details open><summary><h2>०२ यो वः ...{Loading}...</h2></summary>
+
+
+यो वः॑ शि॒वत॑मो॒ रस॑स्  
+तस्य॑ भाजयते॒ह नः॑ ।  
+उ॑श॒तीर्+++(=कामयमाना)+++ इ॑व मा॒तरः॑ ॥
+
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/03_tasmA_araM.md">
+<details open><summary><h2>०३ तस्मा अरं ...{Loading}...</h2></summary>
+
+
++++(रसाय)+++ तस्मा॒ अरं॑+++(=शीघ्रम्)+++ गमाम वो  
+यस्य॒ +++(प्रभावेण)+++ क्षया॑य॒+++(=निवासाय)+++ जिन्व॑थ+++(=प्रीणयथ)+++ ।  
+आपो॑ +++(प्रजा)+++ ज॒नय॑था च नः ॥
+
+</details>
+</div>
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/baudhAyanaH/shrautam/mantraH/yajuH/bhUr_Ayur_me_dhArayata.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+इत्य् उपतिष्ठेत ।  
+
+'ततं म आपः' इति जुहुयात् । 
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/7/11/11_tatamma_Apastadu.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+त॒तम्म॒ आप॒स्तदु॑ तायते॒ पुनः॑ ।  
+स्वादि॑ष्ठा धी॒तिरु॒चथा॑य शस्यते ।  
+अ॒यꣳ स॑मु॒द्र उ॒त वि॒श्वभे॑षजः ।  
+स्वाहा॑कृतस्य॒ समु॑तृप्णुतर्भुवः ।
+</details>
+</div>
+
 
 ## परिस्तरणदाहे
-परिस्तरणदाहे ‘अग्नये क्षामवते स्वाहा' ‘इन्द्रं वो विश्वतस्परीन्द्रं नरः' इति द्वाभ्यामन्यान् दर्भान् परिस्तीर्य ‘इन्द्राय स्वाहा' इति जुहुयात् । 
+परिस्तरणदाहे ‘अ॒ग्नये॒ क्षाम॑वते॒ स्वाहा॑'
+
+‘इन्द्रं वो विश्वतस्परीन्द्रं नरः' इति द्वाभ्यामन्यान् दर्भान् परिस्तीर्य  
+
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/007/10_indraM_vo.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/027/01_indraM_naro.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+
+‘इन्द्रा॑य॒ स्वाहा॑' इति जुहुयात् । 
 
 ## परिधिदाहे
 परिधिदाहे 'परित्वाग्ने पुरं वयम्' इति जुहुयात् । 

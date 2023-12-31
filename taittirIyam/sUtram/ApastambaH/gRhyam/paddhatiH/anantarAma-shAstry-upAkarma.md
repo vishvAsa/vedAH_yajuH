@@ -159,7 +159,7 @@ script: grantha
 
 ममोपात्त + प्रीत्यर्थं ब्रह्मयज्ञेन यक्ष्ये। (इति सङ्कल्प्य)
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/mantrAH/yajuH/vidyudasi.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/mantraH/yajuH/vidyudasi.md">
 <details open><summary><h5>वृष्टि॑रसि॒ ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -233,7 +233,7 @@ script: grantha
 
 ॐ तत्सत्। (इत्युक्त्वा)
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/mantrAH/yajuH/vRShTirasi.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/mantraH/yajuH/vRShTirasi.md">
 <details open><summary><h5>वृष्टि॑रसि॒ ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
