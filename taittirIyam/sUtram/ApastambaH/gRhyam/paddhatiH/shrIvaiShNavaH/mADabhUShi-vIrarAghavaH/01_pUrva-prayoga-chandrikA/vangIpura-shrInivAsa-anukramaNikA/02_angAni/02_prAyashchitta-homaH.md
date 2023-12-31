@@ -21,7 +21,7 @@ title = "०२ प्रायश्चित्त-होमः"
 
 अग्नये अयस इदम् । उदुत्तममं वरुणपाशमस्मदवाधमं विमध्यमँ श्रथाय । अथा वयमादित्यव्रते तवानागसो अदितये स्याम स्वाहा”, वरुणायेदम् । 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/mantrAH/ye_te_shatam.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/mantrAH/Rk/ye_te_shatam.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 एताः षड्विंशाहुतीर्जुहुयात् ॥

@@ -91,7 +91,9 @@ _______________________
 </details>
 </div>
 
-> (त्वम् अग्ने अयासि TODO)
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/4/1/68_tvamagne_ayAsi.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
 > 
 > अग्नये अयसे इदन्न मम । 
 
@@ -118,7 +120,7 @@ _______________________
 
 [[44]]
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/mantrAH/ye_te_shatam.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/mantrAH/Rk/ye_te_shatam.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 प्रायश्चित्तहोमः,  
