@@ -9,9 +9,13 @@ title = "०३ पुंसुवनम्"
 
 उदकशान्तिं निर्वर्त्य, प्राणानायम्य, अस्या मम धर्मपत्न्याः पुंसुवनकर्माङ्गं प्रतिसरबन्धकर्म करिष्यामि । यथोक्तं रक्षाबन्धनं कुर्यात् ।
 
-वैदिकाग्निं सिद्धीकृत्य प्रकृतपुंसुवनकर्मारभेत । नमस्सदसे 
+वैदिकाग्निं सिद्धीकृत्य प्रकृतपुंसुवनकर्मारभेत ।
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantraH/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>   
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/namas_sadase_sabhAM_gopAya/"  newLevelForH1="5" includeTitle="false"> </div> 
+
+
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>   
 
 > ... नक्षत्रे ... राशौ जातां गोत्रां .... नाम्नीम्, इमां मम धर्मपत्नीं पुंसुवनकर्मणा संस्कर्तुं ..... 
 

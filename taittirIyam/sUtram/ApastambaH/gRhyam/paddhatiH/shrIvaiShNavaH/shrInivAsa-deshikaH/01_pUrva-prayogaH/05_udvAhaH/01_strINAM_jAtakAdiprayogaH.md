@@ -5,9 +5,13 @@ title = "०१ स्त्रीणां जातकादिप्रयो
 
 कन्यापिता ताम्बूलदक्षिणां गृहीत्वा - 
 
-> नमस्सदसे 
+
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/namas_sadase_sabhAM_gopAya/"  newLevelForH1="5" includeTitle="false"> </div> 
+
+
 >
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantraH/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
 
 > 
 > नक्षत्रे राशौ जाताम् इमां मम कुमारीं जातकर्म नामकरण, उपनिष्क्रामण, अन्नप्राशन, चूडाकर्मभिः - संस्कर्तुं योग्यतासिद्धिमनुगृहाण । 

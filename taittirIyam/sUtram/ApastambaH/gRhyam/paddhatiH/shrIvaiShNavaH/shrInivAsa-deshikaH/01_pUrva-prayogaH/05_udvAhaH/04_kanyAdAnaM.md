@@ -3,9 +3,13 @@ title = "०४ कन्यादानं"
 
 +++
 
-कन्यादाता, आचम्य पवित्रं धृत्वा ताम्बूलं दक्षिणां च गृहीत्वा नमस्सदसे 
+कन्यादाता, आचम्य पवित्रं धृत्वा ताम्बूलं दक्षिणां च गृहीत्वा
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantraH/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/namas_sadase_sabhAM_gopAya/"  newLevelForH1="5" includeTitle="false"> </div> 
+
+
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
 
 आवयोः दशानां
 

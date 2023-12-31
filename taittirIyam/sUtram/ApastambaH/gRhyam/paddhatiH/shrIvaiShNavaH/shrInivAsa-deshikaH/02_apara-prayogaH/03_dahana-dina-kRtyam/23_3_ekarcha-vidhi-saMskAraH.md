@@ -7,7 +7,7 @@ title = "२३ ३ एकर्च-विधि-संस्कारः"
 
 गोत्रस्य नामकस्य मम बालकस्य प्रेतस्य एकर्च विधिना संस्कारार्थं तुषाग्निमुत्पादयितुं तुषाग्निमुत्पादयिष्ये॥ तुषाऽग्नेरुत्पादनं आदित एव कथितं । अत्र निशादि मरण प्रायश्चित्तादिकं न भवति । 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantraH/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
 
 गोत्रं नामकं बालं प्रेतं तुषाऽग्निना एकर्च विधिना संस्करिष्यामि। तूष्णीं श्रमशानायतनं सम्मृज्य उद्धत्याबोक्ष्य, हिरण्य शकलन्निधाय दक्षिणाग्रान्दर्भान्संस्तीर्य तेषुचितिं कल्पयित्वा पात्र सादनादिदव संस्कारान्तं कृत्वा प्रेतं चिताया मारोप्य आस्य नेत्र नासा श्रोत्रेषु हिरण्य शकला नाज्य विन्दुन्वा निक्षिप्य आस्ये तिलतण्डुलान्प्रक्षिप्य
 

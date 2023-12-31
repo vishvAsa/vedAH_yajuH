@@ -8,9 +8,11 @@ title = "०२ प्राजापत्य-व्रतम्"
 
 माणवकः, प्रातस्स्नानसन्ध्यावन्दनब्रह्मयज्ञसमिदाधानानि कृत्वा ब्रह्मचर्यव्रतनियमलोपप्रायश्चित्तार्थं यत्किञ्चिद्धिरण्यदानं च कुर्यात् ।
 
-आचार्यः नमस्सदसे 
+आचार्यः 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantraH/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/namas_sadase_sabhAM_gopAya/"  newLevelForH1="5" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
 
 नक्षत्रे राशौ जातं गोत्रं शर्माणं, इमं माणवकं प्राजापत्यं व्रतं चारयितुं योग्यतासिद्धिमनुगृहाण । विष्वक्सेनं सम्पूज्य उभावपि सङ्कल्प्यप्रीत्यर्थम्, आचार्यः नक्षत्रे.... राशौ जातम् इमं माणवकं प्राजापत्यं व्रतं चारयिष्ये । 
 
@@ -81,9 +83,9 @@ title = "०२ प्राजापत्य-व्रतम्"
 
 उपक्रमवत् कृच्छ्रानुष्ठानपर्यन्तं कृत्वा आचार्यः 
 
-> नमस्सदसे 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/namas_sadase_sabhAM_gopAya/"  newLevelForH1="5" includeTitle="false"> </div>  
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantraH/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
 
  इमं माणवकं प्राजापत्यव्रतोत्सर्जनं चारयितुं... सङ्कल्प्य इमं माणवकं प्राजापत्यव्रतोत्सर्जनं चारयिष्ये । 
 

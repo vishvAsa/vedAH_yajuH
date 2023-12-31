@@ -3,9 +3,13 @@ title = "०२ जीव-प्रायश्चित्तम्"
 
 +++
 
-कर्तास्वयं स्नात्वाऽहतं वासः परिधाय धृतोर्ध्व पुण्ड्रः पादौ प्रक्षाल्य द्विराचम्य ब्राह्मणपरिषदि ताम्बूलं दक्षिणाञ्च गृहीत्वा नमस्सदसे प्रणम्य 
+कर्तास्वयं स्नात्वाऽहतं वासः परिधाय धृतोर्ध्व पुण्ड्रः पादौ प्रक्षाल्य द्विराचम्य ब्राह्मणपरिषदि ताम्बूलं दक्षिणाञ्च गृहीत्वा
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantraH/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/namas_sadase_sabhAM_gopAya/"  newLevelForH1="5" includeTitle="false"> </div> 
+
+प्रणम्य 
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
 
 गोत्रस्य शर्मणः मम पितुः शरीर शुद्धयर्थं मन्त्रस्नानं ऋत्विङ्मुखेन कारयितुं योग्यता सिद्धिमनुगृहाण ॥ उपविश्य प्राणानायम्य श्रीमान्वेङ्कटेत्यादि + प्रीत्यर्थं, श्री भगवदाज्ञाकैङ्कर्यं गोत्रस्य शर्मणः, मम पितुः शरीर शुद्धयर्थं मन्त्रस्नानं ऋत्विङ्मुखेन कारयिष्ये। सात्विकत्यागं कृत्वा तण्डुले कुम्भं संस्थाप्य इमम्मे वरुणेति कुम्भे वरुणमाबाह्य षोडशोपचारान्समर्प्य कुम्भं स्पृष्ट्वा ब्राह्मणैस्सह जपति । (‘‘शन्न आपस्तु द्रुपदा दापो हिष्ठाघमर्षणः ।'') शन्नो॑ देवी रभिष्टय आपो॑ भवन्तु पी॒तये॑। शंय्यो॒ो र॒भि सॅवन्तुनः । ... ... ...
 

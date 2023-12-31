@@ -13,9 +13,13 @@ title = "०६ प्राजापत्यादिव्रतानां 
 
 आचार्यः ताम्बूलदक्षिणां गृहीत्वा 
 
-नमस्सदसे 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantraH/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>   
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/namas_sadase_sabhAM_gopAya/"  newLevelForH1="5" includeTitle="false"> </div> 
+
+
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>   
 
 > नक्षत्रे राशौ जातं गोत्रं शर्माणम् इमं मम माणवकं प्राजापत्यसौम्यआग्नेयवैश्वदेवव्रतानि तत्तदुत्सर्जनानि च समानतन्त्रेण चारयितुं योग्यतासिद्धिमनुगृहाण 
 

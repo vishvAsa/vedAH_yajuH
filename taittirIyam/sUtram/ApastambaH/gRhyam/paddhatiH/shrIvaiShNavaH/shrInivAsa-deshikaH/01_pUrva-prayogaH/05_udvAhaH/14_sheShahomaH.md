@@ -20,9 +20,13 @@ title = "१४ शेषहोमः"
 उदीर्ष्वातःँ, पतीँवती, ह्ये॑षा, वि॒श्वावॅसुं, नमॅसा, गीर्भिरीट्टे ।  
 अ॒न्याम्, इच्छ, पि॒तृ॒षदं, व्यँक्तां, सतेँ भागः, जनुषा, तस्यँ विद्धि ॥ [[TODO::परिष्कार्यम्??]]
 
-विश्वावसुं गन्धर्वराजं यथास्थानं प्रतिष्ठापयामि । इत्युद्वास्य दण्डं (समिधं वा) प्रक्षाल्य निधाय अनुज्ञां प्रार्थयेत् । ताम्बूलं दक्षिणां च गृहीत्वा, उत्थाय, नमस्सदसे 
+विश्वावसुं गन्धर्वराजं यथास्थानं प्रतिष्ठापयामि । इत्युद्वास्य दण्डं (समिधं वा) प्रक्षाल्य निधाय अनुज्ञां प्रार्थयेत् । ताम्बूलं दक्षिणां च गृहीत्वा, उत्थाय,
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantraH/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/namas_sadase_sabhAM_gopAya/"  newLevelForH1="5" includeTitle="false"> </div> 
+
+
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
 
 उद्वाहे शेषहोमं कर्तुं योग्यतासिद्धिमनुगृहाण । विष्वक्सेनं सम्पूज्य । प्राणानायम्य सङ्कल्प्य, उद्वाहे शेषहोमं करिष्ये । तत्प्रसादं स्वीकृत्य ।
 

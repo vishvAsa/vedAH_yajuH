@@ -5,7 +5,7 @@ title = "२ शान्ति-होमः"
 
 कर्ता दर्भद्वय कृत पवित्रं धृत्वा सभ्यान्प्रणम्य 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantraH/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
 
  मम (भ्रातु:) (भ्रात्रो:) (भ्रातॄणां ) ज्ञातीनाञ्च अघनिर्हरणार्थं शान्तिहोमं कर्तुं योग्यता सिद्धिमनुगृहाण उपविश्य प्राणानायम्य सङक्ल्प्य प्रीत्यर्थं मम (भ्रातुः) (भ्रात्रो:) (भ्रातॄणां ) ज्ञातीनाञ्च अघनिर्हरणार्थं शान्तिहोमं करिष्ये। सात्विकत्यागः । "
 

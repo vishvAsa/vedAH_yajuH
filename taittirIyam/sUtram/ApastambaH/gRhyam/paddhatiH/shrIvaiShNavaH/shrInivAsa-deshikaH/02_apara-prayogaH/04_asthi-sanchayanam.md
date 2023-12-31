@@ -5,7 +5,7 @@ title = "०४ अस्थि-सञ्चयनम्"
 
 (सू - अपरेद्युस्तृतीयस्यां पञ्चम्यां सप्तम्यां वाऽस्थीनिसञ्चिन्वन्ति सू - क्षीरोत्सिक्तेनोदकेनोदुम्बर शाखयाऽप्रक्वाथयन् शरीराण्यवोक्षति, यन्ते अग्नि ममन्थामेति पञ्चभिः ।) द्वितीये दिवसे तुरीये षष्ठेऽष्ठमेवा दिवसे प्रातरस्थि सञ्चयनं) क्षीर मुदुम्बर शाखा माज्यं बृहतीफलं, नील लोहित सूत्रे अश्मनः सिकताः, कुम्भौ पालाशशाखेच सङ्गृह्य ज्येष्ठक्रमेण श्मशानं गच्छेत् । प्रस्थानात्पूर्वं वा मध्ये मार्गवाऽन्ततः श्मशाश परिसरेस्थित नदीतटाकयोर्वास्नात्वा पुण्ड्राणि धृत्वा प्रातस्सन्ध्यामुपास्य पवित्रं धृत्वा। सभ्यान्प्रणम्य प्राचीनावीती 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantraH/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
 
 गोत्रस्य + अद्य अहनि अस्थि सञ्चयनं कर्तुं + अनुगृहाण | -
 
@@ -57,7 +57,7 @@ title = "०४ अस्थि-सञ्चयनम्"
 
 इतरे जना: अयुग्भिरुदकुम्भैरप्रक्वाथयन्तः स्ववोक्षित मवोक्ष्य अग्निं निइशेषं शमयन्ति। कर्ता उपवीती प्रणम्य प्राचीनावीती, 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantraH/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
 
  गोत्रस्य + अद्य . अहनि, अस्थि ग्रहणं कर्तुं योग्यता सिद्धिमनुगृहाण। 
 
@@ -120,7 +120,7 @@ title = "०४ अस्थि-सञ्चयनम्"
 
 । (सू शरीराण्यादायोत्तिष्ठति उत्तिष्ठप्रेहीति । अस्थीन्यादाय, उत्तिष्ठ, प्रेहि, प्रद्रवौक, कृणुष्व, परमे, व्योमन् । यमेनत्वं, य॒म्या॑, संविदाना, उत्तमं, नाकै, अधिरोहेमम् ॥ इति उत्तिष्ठति । अस्थिस्थापनदेशं गत्वा कुम्भं निधाय गर्तं खात्वा क्षीरेणाज्येन गन्ध तोयेन च अस्थीनि सेचयित्वा ब्राह्मणानुज्ञां प्रार्थयेत्। उपवीती प्रणम्य प्राचीनावीती 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantraH/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
 
 गोत्रस्य + अद्य अहनि अस्थिनिक्षेपणं कर्तुं योग्यता सिद्धिमनुगृहाग । उपवीती, उपविश्य, प्राणानायम्य प्राचीनावीती, प्रीत्यर्थं गोत्रस्य + अहनि, अस्थिनिक्षेपणं करिष्ये । निक्षेपण काले तिथिवार + हिरण्यदानं करिष्ये हिरण्य + यत्किञ्चिद्धिरण्यं श्रीवैष्णवायसम्प्रददे। नमः, नमम अच्युतः प्रीयतां ।
 
@@ -185,7 +185,7 @@ title = "०४ अस्थि-सञ्चयनम्"
 
 प्राचीनावीती 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantraH/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
 
 , गोत्रस्य + अद्य अहनि श्मशानाम्न्यनुगत ஸங்கல்ப்பம், க்ருச்ரம் செய்து கொண்டு “அபஹதா அஸுரா:’’ என்கிற மந்திரத்தினால் பஸ்மாவை ப்ரோக்ஷித்து "அயந்தேயோநி:'' என்கிற மந்திரத்தினால் ஒரு ஸமித்தில் பஸ்மாவை ஏற்றி லௌகிகமான அக்நியில் அந்த ஸமித்தை “ஆஜுஹ்வாந:", ‘“உத்புத்யஸ்வ” என்கிற மந்திரங்களால் சேர்த்து அக்நி ப்ரதிஷ்டாதி தர்வீ ஸம்ஸ்காரம் வரை செய்து பரிஷேசனம் செய்து, "அயாச்ச”, "अकेलli Coming", "Goming 10"GhagGunn:" "ww शुक्रं", "45ऊंगी", "पुकं Gua" 4 Groin சதுஷ்டய ஹோமம். ஸ்ரீ விஷ்ணவே ஸ்வாஹா என்கிற பூர்ணாஹுதி. அப்ரதக்ஷிண பரிஷேசனம் செய்து இந்த அக்நியில் ஸஞ்சயன ஹோமம் செய்ய வேண்டும்.
 

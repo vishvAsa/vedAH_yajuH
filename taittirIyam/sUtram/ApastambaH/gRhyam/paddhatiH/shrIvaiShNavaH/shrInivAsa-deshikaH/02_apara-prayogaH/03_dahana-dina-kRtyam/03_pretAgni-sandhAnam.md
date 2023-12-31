@@ -5,7 +5,7 @@ title = "०३ प्रेताग्नि-सन्धानम्"
 
 प्रणम्य, प्राचीनावीती 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantraH/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
 
 गोत्रस्य शर्मणः ममपितुः प्रेतस्य (... गोत्रायाः नाम्याः मम मातुः प्रेतायाः अद्य .. अहनि पैतृमेधिक संस्कारार्थं प्रेताग्निसन्धानं कर्तुं योग्यता सिद्धिमनु गृहाण । उपवीती उपविश्य प्राणानायम्य प्राचीनाबीती सङ्कल्य... प्रीत्यर्थं गोत्रस्य + पैतृमेधिक पैतृमेधिक संस्कारार्थं प्रेताग्निसन्धानं करिष्ये। उपवीती सात्विकत्यागं कुर्यात् ।। ... ... ...
 

@@ -5,7 +5,7 @@ title = "२ वृषभोत्सर्जनं"
 
 - प्रणम्य प्राचीनावीती 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantraH/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
 
  गोत्रस्य अद्यएकादशेऽहनि मम पितुः प्रेतस्य पैशाचाबाधा निवृत्यर्थं वृषभोत्सर्जनं कर्तुं योग्यता सिद्धिमनुगृहाण । उपवीती - उपविश्य प्राणानायम्य प्राचीनाबीती पूर्वबदुक्त्वा पैशाचा बाधानिवृत्यर्थं वृषभोत्सर्जनं करिष्ये। उपवीती सात्विकत्यागः। प्राचीनावीती वृषभं स्नापयित्वा आच्छाद्य, अलङ्कृत्य, तस्यदक्षिणे कर्णे चक्रं सव्ये शङ्खञ्चविलिखेत् ।। -
 

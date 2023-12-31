@@ -5,7 +5,7 @@ title = "२४ पिण्डसंयोजनम्"
 
 प्रणम्य प्राचीनावीती - 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantraH/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
 
  गोत्रस्य + श्राद्धे पितुः प्रेतस्य प्रेतत्व विमोचनार्थं वस्वादिपितृत्वसिद्ध्यर्थं सपिण्डतासिद्धयर्थं अक्षय्य परमपदप्राप्त्यर्थं पिण्डसंयोजनं कर्तुं योग्यता सिद्धिमनुगृहाण |
 

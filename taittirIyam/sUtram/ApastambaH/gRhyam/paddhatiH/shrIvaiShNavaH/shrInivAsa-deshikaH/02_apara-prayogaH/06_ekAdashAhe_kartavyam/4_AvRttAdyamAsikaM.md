@@ -10,7 +10,7 @@ title = "४ आवृत्ताद्यमासिकं"
 
 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantraH/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
 
  गोत्रस्य + एकादशेऽहनि आवृत्ताद्य मासिक मह्रैकोद्दिष्टश्राद्धं कर्तुं योग्यता सिद्धिमनुगृहाण | गोत्रस्य - शर्मणः पितुः प्रेतस्य अद्य एकादशेऽहनि आवृत्ताद्य मासिकमहैकोद्दिष्टश्राद्धं भवति तत्र भवद्भिः प्रसादः करणीयः । करिष्यामः । गोत्राय शर्मणे पित्रे प्रेताय नमः इति तिलैस्सव्यपादादि मूर्धपर्यन्तं गत्वाऽप्रदक्षिण गत्या दक्षिणपादान्तं अभ्यर्चयेत्। उपवीती उपविश्य दर्भेष्वासीन: दर्भान्धारयमाणः प्राणानायम्य प्राचीनावीती - श्रीगोविन्देत्यादि श्रीगोविन्देत्यादि + अस्यां तिथौ श्रीभगवदाज्ञया श्रीमन्नारायण प्रीत्यर्थं गोत्रस्य - शर्मणः पितुः प्रेतस्य अद्य एकादशेऽहनि आवृत्ताद्य मासिक महैकोद्दिष्टश्राद्धं करिष्ये । (कुरुष्व ।) उपवीती अपउपस्पृश्य सात्विकत्यागः ॥ 
 

@@ -3,9 +3,11 @@ title = "०१ गर्भाधानम्"
 
 +++
 
-प्रथमतः आर्तवशान्तिं कृत्वा (प्रातस्सङ्गवे वा) रात्र्यां शुभे मुहूर्ते समावेशनं कुर्यात् । अत्र केचित् ऋतुशान्तिस्थाने उदकशान्तिमेव कुर्वन्ति । तथापि ऋतुशान्तिप्रयोगश्च सङ्ग्रहेण लिख्यते । बोधायनगृह्ये अष्टमे प्रश्वे[[??]] चतुर्विंशे खण्डे विस्तरेणोक्तम् । नमस्सदसे - 
+प्रथमतः आर्तवशान्तिं कृत्वा (प्रातस्सङ्गवे वा) रात्र्यां शुभे मुहूर्ते समावेशनं कुर्यात् । अत्र केचित् ऋतुशान्तिस्थाने उदकशान्तिमेव कुर्वन्ति । तथापि ऋतुशान्तिप्रयोगश्च सङ्ग्रहेण लिख्यते । बोधायनगृह्ये अष्टमे प्रश्वे[[??]] चतुर्विंशे खण्डे विस्तरेणोक्तम् । 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantraH/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>   
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/namas_sadase_sabhAM_gopAya/"  newLevelForH1="5" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>   
 
 > नक्षत्रे राशौ जातायाः गोत्रायाः नाम्न्याः, अस्या मम धर्मपत्न्याः प्रथमरजसः प्रादुर्भावकाले लग्नयोगकरणैः यो दोषः समजनि तद्दोषपरिहारार्थम् ऋतुशान्तिजप(होम)आख्यं कर्म कर्तुम् .... अनुगृहाण ।
 

@@ -221,9 +221,13 @@ title = "०१ उपनयनम्"
 
 अथब्रह्मोपदेशः ।
 
-> नमस्सदसे 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantraH/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/namas_sadase_sabhAM_gopAya/"  newLevelForH1="5" includeTitle="false"> </div> 
+
+
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
 
 > .... नक्षत्रे .... राशौ जातस्य .... गोत्रस्य शर्मणः अस्य मम कुमारस्य सावित्रीस्वीकरणे मम च गायत्रीम् उपदेष्टुं योग्यतासिद्धिमनुगृहाण ।
 
@@ -384,9 +388,13 @@ title = "०१ उपनयनम्"
 
 [[89]]
 
-प्रथमोपाकृतिपर्यन्तं ब्रह्मयज्ञे वेदपठने गायत्र्येव । तदनन्तरं यावदधीतं तावदावर्तनीयम् । प्रश्वं नातिक्रामेत् । त्र्यहमेतमग्निं धारयन्तीत्युक्तत्वात् चतुर्थदिने सायमारभ्य तदा तदा लौकिकाग्नौ समिदाधानं कुर्यात् । (सू - वासश्चतुर्थीमुत्तरयाऽऽदत्तेऽन्यत्परिधाप्य ।) चतुर्थदिने यथा सम्प्रदायं प्रातः कुमारस्य मङ्गलस्नानं कारयित्वा, सन्ध्योपासनं, प्रातस्समिदाधानञ्च कारयित्वा, अनन्तरं, आचार्यः नमस्सदसे - 
+प्रथमोपाकृतिपर्यन्तं ब्रह्मयज्ञे वेदपठने गायत्र्येव । तदनन्तरं यावदधीतं तावदावर्तनीयम् । प्रश्वं नातिक्रामेत् । त्र्यहमेतमग्निं धारयन्तीत्युक्तत्वात् चतुर्थदिने सायमारभ्य तदा तदा लौकिकाग्नौ समिदाधानं कुर्यात् । (सू - वासश्चतुर्थीमुत्तरयाऽऽदत्तेऽन्यत्परिधाप्य ।) चतुर्थदिने यथा सम्प्रदायं प्रातः कुमारस्य मङ्गलस्नानं कारयित्वा, सन्ध्योपासनं, प्रातस्समिदाधानञ्च कारयित्वा, अनन्तरं, आचार्यः
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantraH/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/namas_sadase_sabhAM_gopAya/"  newLevelForH1="5" includeTitle="false"> </div> 
+
+
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
 
 अस्य मम कुमारस्यान्यत्परिधापनं कर्तुं... अन्यत्परिधापनं करिष्ये । ग्रहप्रीतिः । 
 

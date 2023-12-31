@@ -5,7 +5,7 @@ title = "२१ अर्घ्यसंयोजनम्"
 
 उपवीती, उत्थाय प्रणम्य प्राचीनावीती 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantraH/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
 
  गोत्रस्य + श्राद्धे पितुः प्रेतस्य प्रेतत्व विमोचनार्थं, वस्वादि पितृत्व
 

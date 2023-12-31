@@ -6,7 +6,7 @@ title = "०२ दाहः"
 
 कर्ता स्नात्वा आर्द्रवासाः धृतोर्ध्वपुण्ड्रः, प्राचीनावीती 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantraH/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
 
 > गोत्रं शर्माणं, प्रेतम् अमुकाग्निना पैतृमेधिकविधिना संस्कर्तुं योग्यतासिद्धिरस्त्विति भवन्तो महान्तोनुगृह्णणन्तु 
 
@@ -156,7 +156,7 @@ title = "०२ दाहः"
 
 अथ - प्रवाहोदकेन स्नानं कुर्युः । यद्यज्ञातयः प्रेतं वहेयुः तं सभां प्रदक्षिणीकृत्य दण्डवत् प्रणम्य ब्रह्मदण्डं गृहीत्वा 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantraH/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>   
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>   
 
 > गोत्रस्य शर्मणः पितुः प्रेतस्य अद्यप्रथमेऽहनि, पैतृमेधिकसंस्कारकर्मणि मन्त्रलोपे क्रियालोपे द्रव्यलोपे नियमलोपे सत्यपि सर्वं यथाशास्त्रानुष्ठितं भूयादिति भवन्तो महान्तोऽनुगृह्णन्तु ।
 

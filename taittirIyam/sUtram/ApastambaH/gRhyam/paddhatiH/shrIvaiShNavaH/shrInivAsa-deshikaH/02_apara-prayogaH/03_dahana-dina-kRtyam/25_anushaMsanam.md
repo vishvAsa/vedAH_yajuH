@@ -67,7 +67,7 @@ title = "२५ अनुशंसनम्"
 
 २राभ्याश्च यथाशास्त्रं प्रायश्चित्तं वदेयुः । दिवोपवास: । अशक्ताश्चेत् घृतं प्राश्य गोभ्यश्शष्पाणिदत्वा भोजनादीकुर्युः । इति । कर्ता नात्वा, उपवीती, आचम्य सभ्यान्प्रदक्षिणीकृत्य प्राचीनावीती, 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantraH/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
 
 गोत्रस्य + अद्य = अहनि पैतृ मेधिक संस्कार कर्मणिमन्त्र लोप क्रियालोप, द्रव्य लोपेषु सत्स्वपि सर्वं यथाशास्त्रानुष्ठितं भूयात् इति भवन्तः, अनुगृह्णन्तु इति प्रार्थयेत् । तेऽपि, तथास्तु यथा शास्त्रानुष्ठितमस्तु इति प्रतिवदेयुः ।। उपवीती, आचम्य - सात्विक त्यागं कुर्यात् । कर्ता दहनाङ्गत्वेन कण्ठादुपरि वापयेत् क्षौरबिधिबत्स्नायात् । सू मुदकमुत्सिच्याप्रतीक्षा ग्राममेत्य यत्स्त्रिय आहुस्तत्कुर्वन्ति ॥ तत्प्रत्यय
 

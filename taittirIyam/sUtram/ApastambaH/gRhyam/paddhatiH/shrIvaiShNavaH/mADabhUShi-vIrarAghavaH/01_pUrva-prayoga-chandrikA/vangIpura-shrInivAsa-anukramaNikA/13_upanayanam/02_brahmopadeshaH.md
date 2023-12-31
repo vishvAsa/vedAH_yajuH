@@ -5,7 +5,7 @@ title = "०२ ब्रह्मोपदेशः"
 
 नमस्सदस इति सदस्यान् प्रणम्य, दक्षिणां दत्वा, 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantraH/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
 
 > मम गायत्रीप्रदाने (उपदेष्टृत्वे) अस्योपनीतस्य गायत्रीस्वीकरणे च योग्यता-सिद्धिमनुगृहाण
 

@@ -35,7 +35,7 @@ title = "०४ अग्निः"
 
 प्रणम्य प्राचीनावीती, 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantraH/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
 
 गोत्रस्य शर्मणः ममपितुः प्रेतस्य (गोत्राया नाम्या मम मांतुः प्रेतायाः) पैतृ मेधिक संस्कारार्थं उत्तपनाग्नि सन्धानं कर्तुं योग्यता सिद्धिमनुगृहाण। उपवीती प्राणानायम्य। प्राचीनावीती | गोत्रस्य शर्मणः ममपितुः प्रेतस्य पैतृमेधिकसंस्कारार्थं उत्तपनाग्निसन्धानं करिष्ये ॥ दर्भेष्वग्निं समारोप्य पुनर्दर्भेषु संस्थितः । पुनर्मुष्टचन्तरारूढो वह्निरुत्तपनाह्वयः । इत्युक्त प्रकारेण मुष्टित्रय दहनात्सम्पादितोऽग्निः उत्तपनाग्निः । तमग्निमुत्पाद्य स्थण्डिलकल्पनादि प्रेताग्निसन्धानवत् दर्वी संस्कारान्तं कृत्वा, अप्रदक्षिणं परिषिच्य द्वादशगृहीतेनाज्येन जुहोति अयाॲ, अ॒ग्नेऽसिँ, अ॒न॒भि॒ शस्तीचॅ, स॒त्यमॅत्वं, अया अॅसि । असा, मनॅसा, धृतः, अ॒यसा॑, 
 
