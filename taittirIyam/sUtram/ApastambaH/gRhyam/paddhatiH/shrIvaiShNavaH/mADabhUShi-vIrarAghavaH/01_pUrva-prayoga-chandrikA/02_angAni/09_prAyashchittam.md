@@ -88,7 +88,7 @@ title = "०९ प्रायश्चित्तम्"
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/mantrAH/Rk/ye_te_shatam.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 इत्येतैश्च हुत्वा  
-सर्व-प्रायश्चित्तम्  
+सर्व-प्रायश्-चित्तम्  
 अनाज्ञातादिभिश् च हुत्वा  
 परिषिच्य अतीतं कर्म कृत्वा तात्कालिकं कर्म कुर्यात् ।
 
@@ -97,7 +97,12 @@ title = "०९ प्रायश्चित्तम्"
 
 
 ## अग्नौ जलबिन्दुनिपातने
-अग्नौ जलबिन्दुनिपातने ‘पुनस्त्वादित्या' इत्यग्निं प्रज्वाल्य सर्वप्रायश्चित्तं जुहुयात् ।
+अग्नौ जलबिन्दुनिपातने  
+‘पुनस्त्वादित्या' इत्यग्निं प्रज्वाल्य  
+सर्व-प्रायश्-चित्तं जुहुयात् ।
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/bhUr_bhuvas_suvas_svAhA.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
 
 ## प्रयत्नम् अन्तरेण अग्नौ प्रज्वलिते
 सर्वत्र प्रयत्नम् अन्तरेण अग्नौ प्रज्वलिते 'उद्दीप्यस्व जातवेदः' 'मानो हिँसीज्जातवेदः' इति द्वाभ्यां समिधौ आदध्यात् । 

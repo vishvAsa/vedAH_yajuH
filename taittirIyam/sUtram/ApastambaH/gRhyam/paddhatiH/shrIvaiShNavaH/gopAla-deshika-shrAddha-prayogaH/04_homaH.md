@@ -517,7 +517,8 @@ title = "०४ होमः"
 
 इति सङ्कल्प्य
 
-> ओं भूर् भुव॒स् सु॒व॒स् स्वाहा᳚ ॥ (प्रजापतय इदं न मम) ॥१॥
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/bhUr_bhuvas_suvas_svAhA.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
 
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/7/11/35_anAjnAtay.NyadAjnAtam_yajnasya.md">
