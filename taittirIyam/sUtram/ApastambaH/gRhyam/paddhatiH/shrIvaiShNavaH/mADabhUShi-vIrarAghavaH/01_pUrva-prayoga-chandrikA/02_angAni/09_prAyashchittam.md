@@ -99,6 +99,18 @@ title = "०९ प्रायश्चित्तम्"
 ## अग्नौ जलबिन्दुनिपातने
 अग्नौ जलबिन्दुनिपातने  
 ‘पुनस्त्वादित्या' इत्यग्निं प्रज्वाल्य  
+
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/49_punas_tvA.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+पुन॑स् त्वा ऽऽदि॒त्या रु॒द्रा वस॑वः॒ समि॑न्धतां॒,  
+पुन॑र् ब्र॒ह्माणो॑ वसुनीथ! य॒ज्ञैः ।  
+घृ॒तेन॒ त्वं त॒नुवो॑ वर्धयस्व,  
+स॒त्याः स॑न्तु॒ यज॑मानस्य॒ कामाः᳚ ॥
+</details>
+</div>
+
+
 सर्व-प्रायश्-चित्तं जुहुयात् ।
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/bhUr_bhuvas_suvas_svAhA.md"  newLevelForH1="5" includeTitle="false"> </div>  
@@ -106,6 +118,32 @@ title = "०९ प्रायश्चित्तम्"
 
 ## प्रयत्नम् अन्तरेण अग्नौ प्रज्वलिते
 सर्वत्र प्रयत्नम् अन्तरेण अग्नौ प्रज्वलिते 'उद्दीप्यस्व जातवेदः' 'मानो हिँसीज्जातवेदः' इति द्वाभ्यां समिधौ आदध्यात् । 
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_09/09_uddIpyasva_jAtavedo-paghnannirRtim.md">
+<details open><summary><h4>०९ उद्दीप्यस्व जातवेदोऽपघ्नन्निर्ऋतिम् ...{Loading}...</h4></summary>
+
+
+उद्दी॑प्यस्व जातवेदो  
+ऽप॒घ्नन् निर्ऋ॑तिं॒ मम॑ ।  
+प॒शूꣳश् च॒ मह्य॒म् आ व॑ह॒  
+जीव॑नञ् च॒ दिशो॑ दश ।+++(र५)+++
+
+</details>
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_09/10_mA_no.md">
+<details open><summary><h4>१० मा नो ...{Loading}...</h4></summary>
+
+
+मा नो॑ हिꣳसीज् जातवेदो॒  
+गाम् अश्वं॒ पुरु॑ष॒ञ् जग॑त् ।  
++++(परहवींष्य्)+++ अबि॑भ्र॒द्+++(न्)+++ अग्न॒ आग॑हि+++(=आगच्छ)+++,  
+श्रि॒या मा॒ परि॑पातय ॥ (9)
+
+</details>
+</div>
+
+
 
 ## प्रणीतिपात्रम्
 प्रणीतिपात्रं भिन्नं चेत् 'अभिन्नो घर्मो जीरदानुः यत आत्तस्तदगन्पुनः' इत्यभिमन्त्र्य 'घर्मो देवाँ अप्येतु' इति अन्यपात्रम् आनीय तस्मिन् पात्रे जलं पूरयित्वा व्याहृतिभिरुपतिष्ठेत । 
