@@ -7,11 +7,11 @@ title: समारोपणम् अवारोपणम् च
 
 समिाधि समारोपयति- पालाशीमाश्वत्थीं खादिरीमौदुम्बरीं शमीमयी वा समिधमादाय समारोपयति-
 
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
-
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/5/8/19_ayante_yonir.md"  newLevelForH1="5" includeTitle="false">
 अ॒यन्ते॒ योनि॑र्ऋ॒त्वियो॒ यतो॑ जा॒तो अरो॑चथाः ।   
 तञ्जा॒नन्न॑ग्न॒ आ रो॒हाथा॑ नो वर्धया र॒यिम् ॥ [28]
-</details>
+</div>  
+
 
 इति ॥ 
 

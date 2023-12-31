@@ -608,21 +608,13 @@ Das Meer erbrauste in dem ersten Himmel, des Weltalls König, die Geschöpfe zeu
 
 ## 03
 
-भूरन्न॑म॒ग्नये॑ पृथि॒व्यै स्वाहा॑॥  
-भुवोऽन्न॑व्ँ वा॒यवे॒ऽन्तरि॑ख्षाय॒ स्वाहा॑॥  
-सुव॒रन्न॑मादि॒त्याय॑ दि॒वे स्वाहा॑॥  
-भूर्भुव॒स्सुव॒रन्न॑ञ्च॒न्द्रम॑से दि॒ग्भ्यस्स्वाहा॑॥  
-नमो॑ दे॒वेभ्य॑स् स्व॒धा पि॒तृभ्यो॒ भूर्भुव॒स्सुव॒रन्न॒मोम् । (13) - । 3 ।
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/03_bhUr_annam/"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 
 ## 04
 
-भूर॒ग्नये॑ च पृथि॒व्यै च॑ मह॒ते च॒ स्वाहा॑॥  
-भुवो॑ वा॒यवे॑ चा॒न्तरि॑ख्षाय च मह॒ते च॒ स्वाहा॑॥  
-सुव॑रादि॒त्याय॑ च दि॒वे च॑ मह॒ते च॒ स्वाहा॑॥  
-भूर्भुव॒स्सुव॑श्च॒न्द्रम॑से च॒ नक्ष॑त्रेभ्यश्च दि॒ग्भ्यश्च॑ मह॒ते  च॒ स्वाहा॑॥  
-नमो॑ दे॒वेभ्य॑स् स्व॒धा पि॒तृभ्यो॒, भूर्भुव॒स्सुव॒र्मह॒रोम् । (14) - । 4 ।
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/04_bhUr_agnaye/"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 
