@@ -628,10 +628,8 @@ Das Meer erbrauste in dem ersten Himmel, des Weltalls König, die Geschöpfe zeu
 
 ## 05
 
-पाहि नो अग्न एन॑से स्वा॒हा ।  
-पाहि नो विश्ववेद॑से स्वा॒हा ।  
-यज्ञं पाहि विभाव॑सो स्वा॒हा ।  
-सर्वं पाहि शतक्र॑तो स्वा॒हा । (15)
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/05_pAhi_no_agne/"  newLevelForH1="5" includeTitle="false"> </div>  
+
 
 
 
