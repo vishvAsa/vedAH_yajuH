@@ -67,7 +67,15 @@ title = "११ उद्वाहे प्रविश्यहोमः"
 
 ताम्बूलं दक्षिणां च गृहीत्वा, उत्थाय -
 
-> नमस्सदसे अशेषे + स्वीकृत्य, उद्वाहे प्रविश्य होमं कर्तुं योग्यतासिद्धिमनुगृहाण । 
+
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/namas_sadase_sabhAM_gopAya/"  newLevelForH1="5" includeTitle="false"> </div> 
+
+
+>
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
+
+> उद्वाहे प्रविश्य होमं कर्तुं योग्यतासिद्धिमनुगृहाण । 
 
 विष्वक्सेनं सम्पूज्य सङ्कल्प्य "उद्वाहे प्रविश्यहोमं करिष्ये" प्रसादं स्वीकुर्यात् । विष्वक्सेनप्रसादं स्वीकुर्यात् ।
 

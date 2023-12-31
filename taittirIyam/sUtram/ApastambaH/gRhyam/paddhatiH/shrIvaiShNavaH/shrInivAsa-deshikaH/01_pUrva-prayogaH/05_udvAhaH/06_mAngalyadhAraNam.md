@@ -43,4 +43,12 @@ title = "०६ माङ्गल्यधारणम्"
 
 > पुत्राँश्चाँदात्, अ॒ग्निर्मह्यम्, अर्थो इमाम् । [[TODO::परिष्कार्यम्??]] 
 
-इति एनामभिमन्त्रयते । ताम्बूलं दक्षिणां च गृहीत्वा स्थित्वा नमस्सदसे अशेषे + स्वीकृत्य अस्याः पाणिग्रहणं कर्तुं योग्यतासिद्धिमनुगृहाण) ग्रहप्रीतिं च कुर्यात् ।
+इति एनामभिमन्त्रयते । ताम्बूलं दक्षिणां च गृहीत्वा स्थित्वा
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/namas_sadase_sabhAM_gopAya/"  newLevelForH1="5" includeTitle="false"> </div> 
+
+
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
+
+अस्याः पाणिग्रहणं कर्तुं योग्यतासिद्धिमनुगृहाण) ग्रहप्रीतिं च कुर्यात् ।

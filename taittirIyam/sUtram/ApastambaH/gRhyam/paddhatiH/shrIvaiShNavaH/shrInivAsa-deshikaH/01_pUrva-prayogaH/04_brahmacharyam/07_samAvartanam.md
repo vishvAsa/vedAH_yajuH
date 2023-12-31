@@ -7,7 +7,15 @@ title = "०७ समावर्तनम्"
 
 व्रती समिदाधानं कृत्वा ताम्बूलं दक्षिणां च गृहीत्वा 
 
-> नमस्सदसे अशेषे + स्वीकृत्य स्नान (समावर्तन) कर्म कर्तुं योग्यतासिद्धिमनुगृहाण । 
+
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/namas_sadase_sabhAM_gopAya/"  newLevelForH1="5" includeTitle="false"> </div> 
+
+
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
+
+> स्नान (समावर्तन) कर्म कर्तुं योग्यतासिद्धिमनुगृहाण । 
 
 विष्वक्सेनं सम्पूज्य स्नानकर्म करिष्ये । इति सङ्कल्पं कुर्यात्।
 

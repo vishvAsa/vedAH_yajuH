@@ -517,7 +517,8 @@ title = "०४ होमः"
 
 इति सङ्कल्प्य
 
-> ओं भूर् भुव॒स् सु॒व॒स् स्वाहा᳚ ॥ (प्रजापतय इदं न मम) ॥१॥
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/bhUr_bhuvas_suvas_svAhA.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
 
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/7/11/35_anAjnAtay.NyadAjnAtam_yajnasya.md">
@@ -547,6 +548,7 @@ title = "०४ होमः"
 यजि॑ष्ठो दे॒वाꣳ ऋ॑तु॒शो य॑जाति ॥115॥
 </details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/001/04_tvaM_no.md">
 <details open><summary><h2>०४ त्वं नो ...{Loading}...</h2></summary>
 
@@ -556,6 +558,7 @@ title = "०४ होमः"
 विश्वा॒ द्वेषाँ॑सि॒ प्र मु॑मुग्ध्य् अ॒स्मत् ।
 </details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/001/05_sa_tvaM.md">
 <details open><summary><h2>०५ स त्वं ...{Loading}...</h2></summary>
 
@@ -570,10 +573,7 @@ title = "०४ होमः"
 
 
 ### व्याहृतिहोमाः
-> ओं भूस्स्वाहा᳚ ॥ (अग्नय इदं न मम) ॥७॥ 
-ओं भुव॒स्स्वाहा᳚ ॥ (वायव इदं न मम) ॥८॥  
-ओँ सुव॒स्स्वाहा᳚ ॥ (सूर्याय इदं न मम) ॥९॥  
-ओं भूर्भुव॒स्सुव॒स्स्वाहा᳚ ॥ (प्रजापतय इदं न मम) ॥१०॥  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/vyAhRti-homAH_4"  newLevelForH1="5" includeTitle="false"> </div>  
 
 ### पूर्णाहुति-प्राणायामौ
 

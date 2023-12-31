@@ -3,7 +3,11 @@ title = "१ प्रभूत-बलिः"
 
 +++
 
-उपवीती, सभ्यान्प्रणम्य, प्राचीनाबीती अशेषे + स्वीकृत्य गोत्रस्य + अद्य दशमेऽहनि महाक्षुन्निवारणार्थं प्रभूत बलिप्रदानं कर्तुं योग्यता 
+उपवीती, सभ्यान्प्रणम्य, प्राचीनावीती 
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
+
+ गोत्रस्य + अद्य दशमेऽहनि महाक्षुन्निवारणार्थं प्रभूत बलिप्रदानं कर्तुं योग्यता 
 
 
 
