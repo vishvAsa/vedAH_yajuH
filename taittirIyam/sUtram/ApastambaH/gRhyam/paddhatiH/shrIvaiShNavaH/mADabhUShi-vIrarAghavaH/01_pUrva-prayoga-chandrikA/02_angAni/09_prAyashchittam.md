@@ -6,6 +6,14 @@ title = "०९ प्रायश्चित्तम्"
 अथ प्रायश्चित्तम्
 
 
+## पुंसुवन-सीमन्ताकरणे
+पुंसुवन-सीमन्ताकरणे  
+स्त्रियां प्रसूतायां  
+प्राजापत्य-कृच्छ्रं  
+पाहित्रयोदशकहोमं कृत्वा  
+तस्या अङ्के शिशुं निधाय  
+पुंसुवनं सीमन्तं च कुर्यात् ।
+
 ## जातकर्मादीनां स्व-स्व-कालेषु +अकरणे
 जातकर्मादीनां स्व-स्व-कालेषु +अकरणे  
 प्राजापत्य-कृच्छ्रं कृत्वा  
@@ -57,17 +65,7 @@ title = "०९ प्रायश्चित्तम्"
 </div>
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/18_ayAshchAgne-syanabhishastIshcha_satyamittvamayA.md">
-<details open><summary><h2>१८ अयाश्चाग्नेऽस्यनभिशस्तीश्च सत्यमित्त्वमया ...{Loading}...</h2></summary>
-
-अ॒याश्+++(=एतुम् योग्यः, गमनशीलो वा)+++ चा॒ग्ने ऽस्य् अ॑नभिश॒स्तीश्च॑+++(=अनवद्यः)+++  
-स॒त्यम् इ॑त् त्वम् अ॒या अ॑सि ।  
-अय॑सा॒+++(=प्रतिगन्त्रा)+++ मन॑सा धृ॒तो॑  
-ऽयसा॑ ह॒व्यम् ऊ॑हिषे॒+++(=वहस्व)+++  
-ऽया नो॑ धेहि भेष॒जम् ।।+++(५)+++
-
-</details>
-</div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/4/1/68_tvamagne_ayAsi.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 > अग्नये अयसे इदन्न मम ।
 
@@ -87,7 +85,7 @@ title = "०९ प्रायश्चित्तम्"
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/mantraH/Rk/ye_te_shatam.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
-इत्येतैश्च हुत्वा  
+इत्येतैश् च हुत्वा  
 सर्व-प्रायश्-चित्तम्  
 अनाज्ञातादिभिश् च हुत्वा  
 परिषिच्य अतीतं कर्म कृत्वा तात्कालिकं कर्म कुर्यात् ।
@@ -242,12 +240,52 @@ title = "०९ प्रायश्चित्तम्"
 
 
 ## दर्वीकूर्चपवित्रेध्मद्रव्यसम्भाराणां च दाहे
-दर्वीकूर्चपवित्रेध्मद्रव्यसम्भाराणां च दाहे उपघातविनाशेषु अन्यं यथालिङ्गं सादयित्वा संस्कृत्य 'त्वन्नो अग्ने' 'सत्वन्नो अग्ने' 'त्वमग्ने अयासि' 'प्रजापते नत्वदेतानि' इति जुहुयात् ।
+दर्वी-कूर्च-पवित्रेध्म-द्रव्य-सम्भाराणां च दाहे उपघात-विनाशेषु  
+अन्यं यथालिङ्गं सादयित्वा  
+संस्कृत्य  
+'त्वन्नो अग्ने' 'सत्वन्नो अग्ने' 'त्वमग्ने अयासि' 'प्रजापते नत्वदेतानि' इति जुहुयात् ।
+
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/001/04_tvaM_no.md">
+<details open><summary><h2>०४ त्वं नो ...{Loading}...</h2></summary>
+
+त्वन् नो॑ अग्ने॒ वरु॑णस्य वि॒द्वान्  
+दे॒वस्य॒ हेडो+++(=क्रोधो )+++ ऽव॑ यासिसीष्ठाः+++(=यक्षीष्ठाः)+++ ।  
+यजि॑ष्ठो॒ +++(हविर्)+++वह्नि॑तम॒श् शोशु॑चानो॒+++(=देदीप्यमानः)+++  
+विश्वा॒ द्वेषाँ॑सि॒ प्र मु॑मुग्ध्य् अ॒स्मत् ।
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/001/05_sa_tvaM.md">
+<details open><summary><h2>०५ स त्वं ...{Loading}...</h2></summary>
+
+स त्वन् नो॑ अग्ने ऽव॒मो+++(=मूलभूतो)+++ भ॑व॒+ऊ॒ती+++(त्या)+++  
++++(“अग्निरवमो देवतानां विष्णुः परमः” इति ब्राह्मणम्)+++  
+नेदि॑ष्ठो+++(=अन्तिकतमो)+++ अ॒स्या उ॒षसो॒ व्यु॑ष्टौ+++(=व्युष्टायाम्)+++ ।  
+अव॑ यक्ष्व नो॒ वरु॑णँ ररा॑णो  
+वी॒हि+++(=खाद)+++ मृ॑डी॒कँ+++(=सुखयितारं [हविः])+++ सु॒हवो॑ न एधि ।
+
+</details>
+</div>
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/4/1/68_tvamagne_ayAsi.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_22/19_prajApate_na.md">
+<details open><summary><h2>१९ प्रजापते न ...{Loading}...</h2></summary>
+
+
+प्रजा॑पते॒ न त्वद् ए॒तान्य् अ॒न्यो  
+विश्वा॑ जा॒तानि॒ परि॒ ता ब॑भूव+++(→गृह्णाति)+++ ।  
+यत्-का॑मास् ते जुहु॒मस् तन् नो॑ अस्तु  
+व॒यꣵ स्या॑म॒ पत॑यो रयी॒णाम्॥
+
+</details>
+</div>
 
 [[11]]
 
 ## प्रोक्षितानां वस्त्रादीनां छेदनादिषु
-प्रोक्षितानां वस्त्रादीनां छेदनादिषु ‘सोमाय स्वाहा' इति जुहुयात् । 
+प्रोक्षितानां वस्त्रादीनां छेदनादिषु ‘सोमा॑य॒ स्वाहा॑' इति जुहुयात् । 
 
 ## कर्ममध्येऽग्निनाशे
 कर्ममध्येऽग्निनाशे 'अयं ते योनिः' इति समिधि भस्म समारोप्य 
