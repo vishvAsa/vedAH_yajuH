@@ -59,11 +59,13 @@ title = "०२ प्रायश्चित्त-होमः"
 
 अग्नये अभ्यावर्तिन इदम् । 
 
-> पाहि नो अग्न एनसे स्वाहा, अग्नय इदम् । पाहि नो विश्ववेदसे स्वाहा, 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/05_pAhi_no_agne/"  newLevelForH1="5" includeTitle="false"> 
 
-विश्ववेदस इदम् । “यज्ञं पाहि विभावसो स्वाहा”, विभावसव इदम् । “सर्वं पाहि शतक्रतो स्वाहा”, शतक्रतव इदम् । 
+(विश्ववेदस इदम् । “यज्ञं पाहि विभावसो स्वाहा”, विभावसव इदम् । “सर्वं पाहि शतक्रतो स्वाहा”, शतक्रतव इदम् । )
 
-> पाहि नो अग्न एकया पाह्युत द्वितीयया, पाह्यूर्जं तृतीयया, पाहि गीर्भिः तिसृभिरूर्जां पतये पाहि चतसृभिर्वसो स्वाहा, 
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/060/09_pAhi_no.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+> स्वाहा, 
 
 अग्नय इदम् । 
 
