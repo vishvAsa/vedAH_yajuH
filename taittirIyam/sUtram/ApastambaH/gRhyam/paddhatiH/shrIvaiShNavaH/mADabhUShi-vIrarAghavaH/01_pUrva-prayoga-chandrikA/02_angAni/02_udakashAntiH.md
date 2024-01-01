@@ -15,10 +15,52 @@ title = "०२ उदकशान्तिः"
 ‘आप्यायस्वे’त्य् उत्तरतः  
 प्राचीस् तिस्रो रेखाः  
 
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/13/03_brahma_jajnAnam.md">
+<details open><summary><h5>०३ ब्रह्म जज्ञानम् ...{Loading}...</h5></summary>
+
+ब्रह्म॑ +++(=मन्त्रः ([सौरमण्डलयज्ञे]))+++ जज्ञा॒नं +++(=उत्पन्नम्)+++ प्र॑थ॒मं पु॒रस्ता॑द्  
+वि सी॑म॒तस् सु॒रुचो॑ वे॒न आ॑वः ।  
+स बु॒ध्न्या॑ +++(=मूले भवः ([खस्य सूर्यः]))+++ उप॒मा अ॑स्य वि॒ष्ठाः +++(=विस्थितः)+++,  
+स॒तश्च॒ योनि॒म् +++(सूर्यम्)+++ अस॑तश्च॒ विवः॑ +++(=विवृतवान्)+++  ।
+
+{{< figure src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/venus_morning_star.jpg"  class="thumbnail">}}
+
+</details>
+</div>  
+
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/123/06_nAke_suparNamupa.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/091/17_A_pyAyasva.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+
 'यो रुद्रो अग्नौ’ इति मध्ये,  
 'इदं विष्णु'रिति पश्चात्,  
 'इन्द्रं विश्वा अवीवृधन्' इति पुरस्ताद्  
 उदीचीः तिस्रो रेखा विलिख्य 
+
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/5/5/09/38_yo_rudro.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+यो रु॒द्रो अ॒ग्नौ , यो अ॒फ्सु ,  
+य ओष॑धीषु॒, यो रु॒द्रो  
+विश्वा॒ भुव॑ना वि॒वेश॒   
+तस्मै॑ रु॒द्राय॒ नमो॑ अ॒स्तु ।
+</details>
+</div>
+
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/022/17_idaM_viShNurvi.md">
+<details open><summary><h2>१७ इदं विष्णुर्वि ...{Loading}...</h2></summary>
+
+
+इ॒दव्ँ विष्णु॒र् +++(अग्नि-विद्युत्-सूर्यात्मना)+++ वि च॑क्रमे  
++++(पृथिव्याम् अन्तरिक्षे दिवि च)+++ त्रे॒धा नि द॑धे प॒दम् ।  
++++(तैर् आधारैर् जगत्)+++ सम् ऊ॑ढम् अस्य पाꣳसु॒रे +++(ले इति साम्नि, पांसुमति [पादे])+++ ॥
+
+</details>
+</div>
+
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/011/01_indraM_vishvA.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
 
 ## कुम्भः
 अद्भिर् अवोक्ष्य  
@@ -41,6 +83,23 @@ title = "०२ उदकशान्तिः"
 
 
 तस्मिन् गायत्र्या तिरः-पवित्रं निधाय  
+
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/062/10_tatsaviturvareNyaM_bhargo.md">
+<details open><summary><h2>१० तत्सवितुर्वरेण्यं भर्गो ...{Loading}...</h2></summary>
+
+तत् सवि॒तुर् वरे॑ण्य+++(णिय)+++म्  
+भर्गो॑+++(=भर्जनम्)+++ दे॒वस्य॑ धीमहि+++(←धा धारणे/ ध्यै ध्याने / धी आराधने)+++ ।  
+धियो॒ यो नः॑ प्रचो॒दया॑त् ॥  
+(प॒रो-र॑जसे॒ ऽसाव॒द् ओ३म् ॥)
+
+<details><summary>प्रचोदयात्-स्वरः</summary>
+
+प्र + चुद् + णिच् उदात्तः + शप् अनुदात्तः पित्त्वात् + [लेट् → आट् + तिप् अनुदात्तः पित्त्वात्]।
+
+प्रानुदात्तत्वं तिङन्तस्योदात्तवत्त्वात्। तच्च यत्कारसद्भावात्।
+</details>
+</details>
+</div> 
 
 ‘आपो वा इदं सर्वम्' इत्यद्भिरापूर्य ऊर्ध्वाग्रं कूर्चं निधाय 
 
@@ -73,7 +132,7 @@ title = "०२ उदकशान्तिः"
 </div>
 
 
-'भूर्भुवस्सुवरोम्' इति अक्षतां निक्षिप्य  
+'भूर् भुव॒स् सुव॒र् ओम्' इति अक्षतां निक्षिप्य  
 
 गन्ध-पुष्पैर् अलङ्-कृत्य  
 
@@ -82,6 +141,18 @@ title = "०२ उदकशान्तिः"
 दूर्वा-दर्भैः प्रच्छाद्य 
 
 'शन्नो देवी'र् इत्य् अभिमृश्य 
+
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/Rk/vishvAsa-prastutiH/10/009/04_shaM_no.md">
+<details open=""><summary><h4>०४ शं नो ...{Loading}...</h4></summary>
+
+
+शं नो॑ दे॒वीर॒भिष्ट॑य॒  
+आपो॑ भवन्तु पी॒तये॑ ।  
+शं योर्+++(=[अ]मिश्रणाय)+++ अ॒भि स्र॑वन्तु नः ॥ ०४॥
+
+</details>
+</div>
+
 
 चतुर्-दिक्षु आसनेषु निषण्णैश् चतुर्भिर् ब्राह्मणैस् सह  
 कुम्भम् अन्वारभ्य 
