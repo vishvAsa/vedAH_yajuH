@@ -142,7 +142,7 @@ title = "०२ उदकशान्तिः"
 
 'शन्नो देवी'र् इत्य् अभिमृश्य 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/Rk/vishvAsa-prastutiH/10/009/04_shaM_no.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/04_shaM_no.md">
 <details open=""><summary><h4>०४ शं नो ...{Loading}...</h4></summary>
 
 
