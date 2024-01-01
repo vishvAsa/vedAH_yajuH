@@ -2,15 +2,21 @@
 title = "४२ षोडशिग्रहः"
 
 +++
- स्वराडनुष्टुप्
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+स्वराडनुष्टुप्
+
+
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/42_ShoDashigrahaH/01_mahAM_indro.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 म॒हाꣳ इन्द्रो॒ वज्र॑बाहुष्  
 षोड॒शी **शर्म॑ यच्छतु** ।  
 **स्व॒स्ति** नो॑ म॒घवा॑ **करोतु॒**  
 **हन्तु॑** पा॒प्मान॒य्ँ यो᳚ऽस्मान् द्वेष्टि॑ ॥
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/42_ShoDashigrahaH/01_mahAM_indro.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 Great is Indra of the Sodaśin,  
@@ -26,12 +32,20 @@ May he smite him who hateth us.
 <details><summary>भट्टभास्कर-टीका</summary>
 
 1महाꣳ इन्द्र इत्यादि । इयमप्यनुष्टुप् ॥ महत्त्वादिगुणविशिष्ट इन्द्रः अस्मभ्यं शर्म सुखं यच्छतु ददातु । स्वस्ति अविनाशं चास्माकं करोतु । हन्तु चास्माकं पाप्मानं पापम् । योस्मान्द्वेष्टि तं च हन्तु । यद्वा - योस्मान्द्वेष्टि तं पाप्मानं हन्तु ॥
-
-
 </details>
+<details><summary>मूलम् (संयुक्तम्)</summary>
+
+उ॒प॒या॒मगृ॑हीतो॒ऽसीन्द्रा॑य त्वा षोड॒शिन॑ ए॒ष ते॒ योनि॒रिन्द्रा॑य त्वा षोड॒शिने᳚ ॥
+</details>
+</details>
+</div>
+
+
+
 
 
 _______
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/38_ShoDashigrahaH/upayAma-gRhItaH.md">
 <details open><summary><h5>उपयाम-गृहीतः ...{Loading}...</h5></summary>
 <details><summary>मूलम् (संयुक्तम्)</summary>
