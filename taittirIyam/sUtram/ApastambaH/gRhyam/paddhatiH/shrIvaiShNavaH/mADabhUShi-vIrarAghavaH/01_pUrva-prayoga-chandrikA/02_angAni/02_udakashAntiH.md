@@ -886,6 +886,7 @@ title = "०२ उदकशान्तिः"
 
 ‘ममाग्ने’, 
 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/4/7/14_vihavyAkhyeShTakopadhAnam"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 ‘अग्नेर्मन्वे’ इत्यनुवाकान्, 
