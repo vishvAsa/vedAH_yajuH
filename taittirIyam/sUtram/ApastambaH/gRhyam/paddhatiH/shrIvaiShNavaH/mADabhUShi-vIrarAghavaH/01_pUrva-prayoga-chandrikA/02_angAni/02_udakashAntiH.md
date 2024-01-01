@@ -876,7 +876,7 @@ title = "०२ उदकशान्तिः"
 
 'आशुश्शिशानः' 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/4/6/04_agnipraNayanAngamapratirathasUktam"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/4/6/04_agni-praNayanAngam_apratiratha-sUktam"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 'शञ्च मे’, 
