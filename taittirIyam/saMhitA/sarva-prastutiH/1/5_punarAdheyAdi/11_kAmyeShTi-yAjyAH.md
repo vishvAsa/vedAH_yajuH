@@ -20,12 +20,16 @@ _______
 
 
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/02_vaishvAnaro_na.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 **वै॒श्वा॒न॒रो** न॑ ऊ॒त्या  
 **ऽऽप्र या॑तु** परा॒वतः॑ ।  
 अ॒ग्निर् उ॒क्थेन॒ वाह॑सा  ॥
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/02_vaishvAnaro_na.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 Let Vaiśvanara with succour for us  
@@ -45,6 +49,11 @@ Agni through the hymn which brings (him).
 
 यद्वा - प्रापणसमर्थेन मार्गेण । 'वहिहाधाञ्भ्यश्छन्दसि' इत्यसुन्, 'णित्' इति हि तत्रानुवर्तते । आगत्य चास्मानभिशस्तेर्मुञ्चन्पापं वर्णमपहन्त्विति शेषः ॥
 </details>
+</details>
+</div>
+
+
+
 
 ## विद्विषाणान्नादने वैश्वानरयागे याज्या
 
@@ -3599,25 +3608,30 @@ _______
 इति भट्टभास्करमिश्रविरचिते यजुर्वेदभाष्ये ज्ञानयज्ञाख्ये प्रथमकाण्डे पञ्चमप्रपाठके एकादशोनुवाकः ॥
 समाप्तश्च प्रपाठकः ॥
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/375_imAM_su.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 इ॒माꣳ सु **नाव॒म् आऽरु॑हꣳ**  
 श॒तारि॑त्राꣳ श॒त-स्फ्या᳚म् ।  
-अच्छि॑द्राम् पारयि॒ष्णुम्  ॥  [51]  
+अच्छि॑द्राम् पारयि॒ष्णुम्  ॥  [51]
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/375_imAM_su.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 Happily have I mounted this ship  
 With a hundred oars and a hundred spars,  
 Without leak, able to convey across.
-
 </details>
 <details><summary>मूलम्</summary>
 
 इ॒माꣳ सु नाव॒माऽरु॑हꣳ श॒तारि॑त्राꣳ श॒तस्फ्या᳚म् ।  
-अच्छि॑द्राम्पारयि॒ष्णुम्  ॥  [51]  
+अच्छि॑द्राम्पारयि॒ष्णुम्  ॥  [51]
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
 इमां पृथिवीं नावं नौस्थानीयां **शतारित्रां शतस्फ्यां** बहुतरण-दण्डां **अच्छिद्राम्** अरन्ध्राम् । अछिद्रामिति तत्पुरुषः । अव्ययपूर्वपदप्रकृतिस्वरत्वम् । पारयिष्णुं पारप्रापणसमर्थाम् । पार तीर कर्मसमाप्तौ, 'णेश्छन्दसि' इतीष्णुच् । ईदृशीं पृथिवीं देवीं स्वारुहं सुष्ठु आरोहामि । छान्दसे लुङि 'कृमृदृरुहिभ्यः' इत्यङ् ॥
 </details>
+</details>
+</div>
