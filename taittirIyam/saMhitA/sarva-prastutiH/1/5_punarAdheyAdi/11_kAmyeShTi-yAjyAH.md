@@ -3161,6 +3161,7 @@ Agni, the head.
 </details>
 </details>
 </div>
+
 <details><summary>मूलम्</summary>
 
 भुवः॑।
