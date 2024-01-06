@@ -1317,6 +1317,7 @@ title = "०२ उदकशान्तिः"
 
 'सि ँहे व्याघ्रे' 
 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/2/7/07_odana-savaH_siMhe-vyAghre.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 'अहमस्मि', 
