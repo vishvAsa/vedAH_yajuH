@@ -37,7 +37,7 @@ Fig. 75. Arrangement of bricks in the circular kürmacit,–
 In the first layer, there are 144 square bricks inside the inscribed square, 24 square bricks in the segments and 28 bricks of different types in the remaining space of the pradhi. This makes 196 bricks. Now the pradhi-madhyama is pushed into the head and the vacant space thus created is filled with 2 bricks. The four feet are filled with 8 bricks of two types obtained in the process of cutting the ṣoḍaśi square bricks by the circle of the body as referred to before. The total now becomes 206, that is, 6 bricks in excess of the required number of 200. This is adjusted by replacing 18 square bricks by 12 1 square bricks. (aṣṭādaŝa caturaśra uddhṛtya dvādaśādhyardheṣṭakā upadadhyāt). 
 In the second layer, the inscribed square is turned so that its four corners now point towards east, south, west and north. The placing of the bricks is the same as in the first layer with the difference that the placement of bricks in the feet is as in the case of the head of the first layer and that in the head as in the feet of the first layer. The adjustment is made as before. 
 The remaining sūtras 21.10-21.13 do not call for much comment. 
--'' COMMENTARY 
+-" COMMENTARY 
 235* 
 obtained when both ties at X and Y of the cord are fixed at M and stretched over K. The south-east corner point D is obtained when ties at X and Y are fixed at E and S respectively and stretched by the middle mark T. 
 Similarly, the other corner points A, B, C are obtained. Hence ABCD is the required square. 
