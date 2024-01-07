@@ -288,6 +288,8 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 </details>
 </details>
 </div>
+
+
 <details><summary>मूलम्</summary>
 
 नवो॑नवो भवति॒ जाय॑मानो॒ …     
