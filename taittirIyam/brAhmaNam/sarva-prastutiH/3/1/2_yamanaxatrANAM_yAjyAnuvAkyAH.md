@@ -922,7 +922,7 @@ unicode_script = "devanagari"
 
 
 
-## रेवती
+## रेवती - पूषा
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/2/23_pUShA_revatyanveti.md">
 <details open><summary><h2>23 पूषा रेवत्यन्वेति ...{Loading}...</h2></summary>
