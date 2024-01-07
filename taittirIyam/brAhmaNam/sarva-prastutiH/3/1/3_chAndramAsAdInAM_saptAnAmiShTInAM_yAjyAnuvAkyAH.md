@@ -5,6 +5,8 @@ unicode_script = "devanagari"
 +++
 
 _______
+
+## चन्द्रमाः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1-2अथ 'चन्द्रमा वा अकामयत' इत्यादीनां सप्तानां क्रमेण याज्यानुवाक्याः द्वेद्वे । तत्र चन्द्रमसः (ननु 'नक्षत्रेष्टका उपदधात्येतानि वै दिवो ज्योतीꣳषि तान्येवावरुन्धे' इति ब्राह्मणे 'कृत्तिका नक्षत्रमग्निर्देवता' इत्यादीनामष्टाविंशतिनक्षत्रा दर्शपूर्णमासयोश्च त्रिंशतामेवोपधानमुक्तम् । किञ्च - 'अभिचरन् श्येनचिता यजेत' इत्यत्र 'अग्नेः कृत्तिकाः' इति त्रिंशतामेवोपधानम् । अत्र नक्षत्रेष्ट्यां चन्द्रादिसप्तानां यजनं किमर्थमित्यत आह - चन्द्रमा वा अकामयत इत्यादि । चन्द्रादीनामपि नक्षत्राधीनत्वात् चन्द्रसूर्ययोर्नक्षत्रेषु गमनं प्रसिद्धम् । अवशिष्टानां त्रयाणां तद्विभागतत्सन्धानतदात्मत्वेन अदितेर्विष्णोश्च यजनं नक्षत्रसत्रकर्तुः यजमानस्य ज्योतिष्ट्वावाप्तये प्रतिष्ठायै च भवति । तेषां द्वेद्वे याज्यानुऽवाक्ये) । नवोनवो भवति, यमादित्या अंशुमिति । व्याख्याते चैते द्वितीयकाण्डस्य चतुर्थान्त्ये ॥
@@ -290,6 +292,8 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 
 नवो॑नवो भवति॒ जाय॑मानो॒ …     
 </details>
+
+
 <div class="js_include" includetitle="false" newlevelforh1="2" open unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/3/02_yamAdityA.md">
 <details open><summary><h2>02 यमादित्या ...{Loading}...</h2></summary>
 
@@ -315,6 +319,15 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 </details>
 </details>
 </div>
+
+
+## अहोरात्रे
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+3अहोरात्रयोः - ये विरूपे इति ॥ 
+</details>
+
+
 <div class="js_include" includetitle="false" newlevelforh1="2" open unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/3/03_ye_virUpe.md">
 <details open><summary><h2>03 ये विरूपे ...{Loading}...</h2></summary>
 
@@ -335,12 +348,14 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
-3अहोरात्रयोः - ये विरूपे इति ॥ अहोरात्रे विरूपे विविधरूपे शुक्लकृष्णरूपे समनसा समानमनस्के ऐकमत्यं गते । पूर्ववदाकारः । संव्ययन्ती समन्तादाच्छादयन्ती शुक्लकृष्णे इव वस्त्रे संव्ययन्ती । औङश्शीभावः, न स्त्रीप्रत्ययः । समानं एकं तन्तुं तायमानं संवत्सरं यज्ञं वा परि तातनाते परितो विस्तारयन्तः । तनोतेः छन्दसि लिटि एत्वाभ्यासलोपाभावे 'तुजादीनाम्' इत्यभ्यासस्य दीर्घत्वम् । विभू व्याप्तिमती अविच्छेदेन प्रवृत्तत्वात् । 'सुपां सुलुक्' इति पूर्वसवर्णदीर्घत्वम् । प्रभू पर्याप्ते भावानां निष्पत्तौ । अनुभू अनुक्रमेण भवन्ती । लोकस्य वा कृताकृते अनुभवन्ती । पूर्ववत् सवर्णदीर्धत्वम् । ते अहं विश्वतो हुवे सर्वेण प्रकारेणाह्वयामि ते चाहोरात्रे नक्षत्रे नक्षत्रविशेषयूक्ते अस्मिन्वा नक्षत्रेऽहनि वा नः हवं यज्ञं आगमेतं युवामागच्छतम् । लिङ्याशिष्यङ् ॥
+अहोरात्रे विरूपे विविधरूपे शुक्लकृष्णरूपे समनसा समानमनस्के ऐकमत्यं गते । पूर्ववदाकारः । संव्ययन्ती समन्तादाच्छादयन्ती शुक्लकृष्णे इव वस्त्रे संव्ययन्ती । औङश्शीभावः, न स्त्रीप्रत्ययः । समानं एकं तन्तुं तायमानं संवत्सरं यज्ञं वा परि तातनाते परितो विस्तारयन्तः । तनोतेः छन्दसि लिटि एत्वाभ्यासलोपाभावे 'तुजादीनाम्' इत्यभ्यासस्य दीर्घत्वम् । विभू व्याप्तिमती अविच्छेदेन प्रवृत्तत्वात् । 'सुपां सुलुक्' इति पूर्वसवर्णदीर्घत्वम् । प्रभू पर्याप्ते भावानां निष्पत्तौ । अनुभू अनुक्रमेण भवन्ती । लोकस्य वा कृताकृते अनुभवन्ती । पूर्ववत् सवर्णदीर्धत्वम् । ते अहं विश्वतो हुवे सर्वेण प्रकारेणाह्वयामि ते चाहोरात्रे नक्षत्रे नक्षत्रविशेषयूक्ते अस्मिन्वा नक्षत्रेऽहनि वा नः हवं यज्ञं आगमेतं युवामागच्छतम् । लिङ्याशिष्यङ् ॥
 
 
 </details>
 </details>
 </div>
+
+
 <div class="js_include" includetitle="false" newlevelforh1="2" open unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/3/04_vayandevI_brahmaNA.md">
 <details open><summary><h2>04 वयन्देवी ब्रह्मणा ...{Loading}...</h2></summary>
 
@@ -370,6 +385,14 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 </details>
 </details>
 </div>
+
+
+## उषाः
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+5उषसः - प्रतीति परोष्णिक् ॥ 
+</details>
+
 <div class="js_include" includetitle="false" newlevelforh1="2" open unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/3/05_pratyuvadRshyAyatI_24.md">
 <details open><summary><h2>05 प्रत्युवदृश्यायती 24 ...{Loading}...</h2></summary>
 
@@ -390,19 +413,20 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
-5उषसः - प्रतीति परोष्णिक् ॥ उ इत्यवधारणे । व्युच्छन्ती प्रभान्ती उषा आयती आगच्छन्त्येव प्रत्यदृशि प्रत्येकं सर्वैर्दृश्यते । आत्माभिमुखं वा दृश्यते । 'सर्वे विधयश्छन्दसि विकल्पन्ते' इति लघूपधगुणाभावः । दिवो दुहिता दुहितृस्थानीया तत उपलब्धेः । अपः कर्माणि उदकानि वा वृणुते छादयति चक्षुषा प्रकाशेन विवृणोतीत्यर्थः । प्रकाशावरणं विवरणमेव । मही महनीया सर्वैः ॥
+उ इत्यवधारणे । व्युच्छन्ती प्रभान्ती उषा आयती आगच्छन्त्येव प्रत्यदृशि प्रत्येकं सर्वैर्दृश्यते । आत्माभिमुखं वा दृश्यते । 'सर्वे विधयश्छन्दसि विकल्पन्ते' इति लघूपधगुणाभावः । दिवो दुहिता दुहितृस्थानीया तत उपलब्धेः । अपः कर्माणि उदकानि वा वृणुते छादयति चक्षुषा प्रकाशेन विवृणोतीत्यर्थः । प्रकाशावरणं विवरणमेव । मही महनीया सर्वैः ॥
 
 
 </details>
 </details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="2" open unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/3/06_tamo_jyotiShkRNoti.md">
 <details open><summary><h2>06 तमो ज्योतिष्कृणोति ...{Loading}...</h2></summary>
 
 तमो॒ ज्योति॑ष्कृणोति सू॒नरी᳚ ।  
 उदु॒स्रिया᳚स्सचते॒ सूर्यः॑ ।  
 सचा॑ उ॒द्यन्नख्ष॑त्रमर्चि॒मत् ।  
-तवेदु॑षो॒ व्युषि॒ सूर्य॑स्य च ।  
+तवेदु॑षो॒ व्युषि॒ सूर्य॑स्य च ।
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1/3/06_tamo_jyotiShkRNoti.md">
@@ -412,19 +436,24 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 तमो॒ ज्योति॑ष्कृणोति सू॒नरी᳚ ।  
 उदु॒स्रिया᳚स्सचते॒ सूर्यः॑ ।  
 सचा॑ उ॒द्यन्नख्ष॑त्रमर्चि॒मत् ।  
-तवेदु॑षो॒ व्युषि॒ सूर्य॑स्य च ।  
+तवेदु॑षो॒ व्युषि॒ सूर्य॑स्य च ।
 
 
 
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
-6तम इति जगती ॥ तमोभूतमिदं जगत् ज्योतिष्कृणोति प्रकाशवत्करोति उषा सूनरी सुष्ठु नेत्री प्रजानां शोभननरा वा, सर्वे हि तत्र प्रबुध्यन्ते । किञ्च - तस्मिन् काले सूर्यः उस्रियाः रश्मीन् उत्सचते उच्छ्रितं भजते । किञ्च - हे उषः । तवेत् तवैव व्युषि व्युष्टौ । उञ्छतेः क्विपि अन्त्यविकारः छान्दसः वसेर्वा संप्रसारणे 'शासिवसि' इत्यादिना षत्वम् । तव सूर्यस्य च व्युष्टौ उदये सत्येव युवाभ्यां सचा सह उद्यन्नक्षत्रं दिवसस्य संज्ञाकारि अर्चिमत् दीप्तिमत् भवति पूजितं भवति, अस्माकं कर्मयोग्यं जायते ॥
+6तम इति जगती ॥ तमोभूतमिदं जगत् ज्योतिष्कृणोति प्रकाशवत्करोति उषा सूनरी सुष्ठु नेत्री प्रजानां शोभननरा वा, सर्वे हि तत्र प्रबुध्यन्ते । किञ्च - तस्मिन् काले सूर्यः उस्रियाः रश्मीन् उत्सचते उच्छ्रितं भजते ।
+
+किञ्च - हे उषः । तवेत् तवैव व्युषि व्युष्टौ । उञ्छतेः क्विपि अन्त्यविकारः छान्दसः वसेर्वा संप्रसारणे 'शासिवसि' इत्यादिना षत्वम् । तव सूर्यस्य च व्युष्टौ उदये सत्येव युवाभ्यां सचा सह उद्यन्नक्षत्रं दिवसस्य संज्ञाकारि अर्चिमत् दीप्तिमत् भवति पूजितं भवति, अस्माकं कर्मयोग्यं जायते ॥
 
 
 </details>
 </details>
 </div>
+
+## नक्षत्रम्
+
 <div class="js_include" includetitle="false" newlevelforh1="2" open unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/3/07_sambhaktena_gamemahi.md">
 <details open><summary><h2>07 सम्भक्तेन गमेमहि ...{Loading}...</h2></summary>
 
@@ -453,6 +482,7 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 </details>
 </details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="2" open unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/3/08_pra_nakhShatrAya.md">
 <details open><summary><h2>08 प्र नख्षत्राय ...{Loading}...</h2></summary>
 
@@ -493,6 +523,7 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 उदु॒ त्यञ्   
 </details>
 
+## सूर्यः
 <details><summary>भट्टभास्कर-टीका</summary>
 
 9-10सूर्यस्य - उदुत्यं, चित्रमिति ॥ व्याख्याते ग्रहपक्षे ॥
@@ -503,12 +534,15 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/115/01_chitraM_devAnAmudagAdanIkaM.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
-
 _______
+
+## अदितिः
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 11-12अदितेः - अदितिर्नः, महीमूष्विति ॥ व्याख्याते 'वैश्वानरो नः' इत्यत्र ॥
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="2" open unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/3/11_aditirna_uruShyatu.md">
 <details open><summary><h2>11 अदितिर्न उरुष्यतु ...{Loading}...</h2></summary>
 
@@ -536,6 +570,8 @@ Let Aditi guard us from tribulation.
 </details>
 </details>
 </div>
+
+
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/mahImU_Shu.md">
 <details open><summary><h2>महीम् ऊ षु ...{Loading}...</h2></summary>
 
@@ -545,6 +581,7 @@ Let Aditi guard us from tribulation.
 सु॒शर्मा॑ण॒म् अदि॑तिꣳ+++(=अखण्डनीयां)+++ सु॒प्रणी॑तिम् ॥ 
 </details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/mahImU_Shu.md">
 <details open><summary><h2>महीम् ऊ षु ...{Loading}...</h2></summary>
 <details><summary>Keith</summary>
@@ -572,12 +609,12 @@ Aditi, who giveth good protection and good guidance.
 </details>
 </div>
 
+## विष्णुः
 <details><summary>मूलम्</summary>
 
 इ॒दव्ँ विष्णु॒ᳶ  
 प्रतद्विष्णुः॑ ।
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -610,6 +647,12 @@ Aditi, who giveth good protection and good guidance.
 
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/154/02_pra_tadviShNuH.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
+## अग्निः
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+15-16अग्नेः - अग्निर्मूर्धा, भुव इति ॥ अग्निकाण्डे व्याख्याते ॥
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/044/16_agnirmUrdhA_divaH.md">
 <details open><summary><h5>१६ अग्निर्मूर्धा दिवः ...{Loading}...</h5></summary>
@@ -809,12 +852,6 @@ Agni, des Himmels Haupt und Höh', und er, der Erde Oberherr, Erregt der Wasser 
 अ॒ग्निर्मू॒र्धा ।
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
-
-15-16अग्नेः - अग्निर्मूर्धा, भुव इति ॥ अग्निकाण्डे व्याख्याते ॥
-
-</details>
-
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/4/04_ChandobhidheShTakopadhAnam/bhuvo_yaJNasya.md">
 <details open><summary><h5>भुवो यज्ञस्य ...{Loading}...</h5></summary>
@@ -845,13 +882,15 @@ Agni, des Himmels Haupt und Höh', und er, der Erde Oberherr, Erregt der Wasser 
 </details>
 </div>
 
+## अनुमतिः
 
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
-<details><summary>भट्टभास्कर-टीका</summary>
-
-17-18अनुमतेः - अनुनोऽद्य, अन्विदनुमत इति ॥ 'इदं वामास्ये' इत्यत्र व्याख्याते । अग्न्यनुमती सप्तस्वेवेति केचित् । सर्वत्र कृत्तिकादिष्वित्यपरे ॥
-
+17-18अनुमतेः - अनुनोऽद्य, अन्विदनुमत इति ॥  
+'इदं वामास्ये' इत्यत्र व्याख्याते । अग्न्यनुमती सप्तस्वेवेति केचित् । सर्वत्र कृत्तिकादिष्वित्यपरे ॥
 </details>
+
+
 
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/3/3/11_yAjyApuronuvAkyAH/19_anu_no-dyAnumatir.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
@@ -920,6 +959,7 @@ Lengthen our days for us.
 </div>
 
 
+## संयाज्ये
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 19-20अथ संयाज्ये - हव्यवाहं, स्विष्टमिति ॥ व्याख्याते 'जुष्टः' इत्यत्र ॥
@@ -951,6 +991,7 @@ Lengthen our days for us.
 </details>
 </details>
 </div>
+
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/4/1/29_sviShTamagne_abhi.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
