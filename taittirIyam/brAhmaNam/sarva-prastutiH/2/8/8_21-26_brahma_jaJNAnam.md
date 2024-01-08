@@ -83,6 +83,7 @@ title = "८ २१-२६ ब्रह्म जज्ञानम्"
 </details>
 </details>
 </div>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 22अथ वपाया याज्यामाह - 
