@@ -296,31 +296,35 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 </details>
 
 
-<div class="js_include" includetitle="false" newlevelforh1="2" open unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/3/02_yamAdityA.md">
-<details open><summary><h2>02 यमादित्या ...{Loading}...</h2></summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/2/4/14_kAmyeShTiyAjyApuronuvAkyAH/23_yam_AdityA.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-यमा॑दि॒त्या अ॒ꣳ॒शुमा᳚प्या॒यय॑न्ति ।
+यम् +++(सोमं)+++ आ॑दि॒त्या अ॒ꣳ॒शुम् **आ᳚प्या॒यय॑न्ति॒**  
+यम् अख्षि॑त॒म् अख्षि॑तय॒ᳶ **पिब॑न्ति** ।  
+तेन॑ नो॒ राजा॒ वरु॑णो॒ बृह॒स्-पति॒र्  
+**आ प्या॑ययन्तु॒** भुव॑नस्य गो॒पाः ।
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1/3/02_yamAdityA.md">
-<details open><summary><h2>02 यमादित्या ...{Loading}...</h2></summary>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/2/4/14_kAmyeShTiyAjyApuronuvAkyAH/23_yam_AdityA.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
-यमा॑दि॒त्या अ॒ꣳ॒शुमा᳚प्या॒यय॑न्ति ।
-
-
+यमा॑दि॒त्या अ॒ꣳ॒शुमा᳚प्या॒यय॑न्ति॒ यमख्षि॑त॒मख्षि॑तय॒ᳶ पिब॑न्ति ।  
+तेन॑ नो॒ राजा॒ वरु॑णो॒ बृह॒स्पति॒रा प्या॑ययन्तु॒ भुव॑नस्य गो॒पाः ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
--  मन्त्रः यमा॑दि॒त्या अ॒ꣳ॒शुमा᳚प्या॒यय॑न्ति॒ यमख्षि॑त॒मख्षि॑तय॒ᳶ पिब॑न्ति ।  
-तेन॑ नो॒ राजा॒ वरु॑णो॒ बृह॒स्पति॒रा प्या॑ययन्तु॒ भुव॑नस्य गो॒पाः ।   
+यमंशुं रश्मिं आत्मीयरश्मिभूतं सोमम् आदित्या आप्याययन्ति वर्धयन्ति, यं च सोममक्षितमविच्छिन्नं सर्वेष्वपि पर्वसु अक्षितयोऽक्षीणाः पित्रादयः पिबन्ति, तेन सोमेन सह राजा देवराजः वरुणश्च बृहस्मतिश्चाप्याययन्तु इममक्षीणं यजमानं वर्धयन्तु भुवनस्य भूतजातस्य गोपाः प्रवृत्तिप्रदाः ॥
+</details>
+<details><summary>मूलम् (संयुक्तम्)</summary>
 
-   - टीका      2तत्रैव याज्या - यमिति त्रिष्टुप् ॥ यमंशुं रश्मिं आत्मीयरश्मिभूतं सोममादित्या आप्याययन्ति वर्धयन्ति, यं च सोममक्षितमविच्छिन्नं सर्वेष्वपि पर्वसु अक्षितयोऽक्षीणाः पित्रादयः पिबन्ति, तेन सोमेन सह राजा देवराजः वरुणश्च बृहस्मतिश्चाप्याययन्तु इममक्षीणं यजमानं वर्धयन्तु भुवनस्य भूतजातस्य गोपाः प्रवृत्तिप्रदाः ॥
-
-
+प्राच्या᳚न्दि॒शि त्वमि॑न्द्रासि॒ राजो॒तोदी᳚च्याव्ँवृत्रहन्वृत्र॒हासि॑ ।   
+यत्र॒ यन्ति॑ स्रो॒त्यास्तत् [44] जि॒तन्ते॑  दख्षिण॒तो वृ॑ष॒भ ए॑धि॒ हव्यः॑ ।
 </details>
 </details>
 </div>
+
+
 
 
 ## अहोरात्रे

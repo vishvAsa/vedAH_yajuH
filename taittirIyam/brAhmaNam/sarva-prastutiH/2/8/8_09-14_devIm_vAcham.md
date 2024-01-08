@@ -8,6 +8,12 @@ unicode_script: devanagari
 
 9यदुक्तं सूत्रकारेण - 'वाचे वेहतम्' इति, गर्भघातिनी गौर्वेहदित्युच्यते, तस्य पशोः सूक्ते प्रतीकद्वयं दर्शयति - 'देवीं वाचमजनयन्त देवाः' इति वपायाः पुरोनुवाक्या ।
 </details>
+
+<details><summary>मूलम्</summary>
+
+दे॒वीव्ँ वाच॑मजनयन्त॒ यद्वाग्वद॑न्ती ।
+</details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/100/11_devIM_vAchamajanayanta.md">
 <details open><summary><h5>११ देवीं वाचमजनयन्त ...{Loading}...</h5></summary>
 

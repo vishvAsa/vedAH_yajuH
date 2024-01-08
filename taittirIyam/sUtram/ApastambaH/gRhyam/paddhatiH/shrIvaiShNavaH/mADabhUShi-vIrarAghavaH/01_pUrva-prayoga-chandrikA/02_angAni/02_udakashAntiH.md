@@ -1326,7 +1326,7 @@ title = "०२ उदकशान्तिः"
 
 ### 'अहमस्मि', 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/2/8/8_01-08_ahamasmi_prathamajA"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/2/8/8"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 ### ‘ता सूर्या चन्द्रमसा’, 
