@@ -1331,7 +1331,7 @@ title = "०२ उदकशान्तिः"
 
 ### ‘ता सूर्या चन्द्रमसा’, 
 
-
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/2/8/9"  newLevelForH1="5" includeTitle="false"> </div>  
 
 ### ‘अग्निर्नःपातु',  
 
