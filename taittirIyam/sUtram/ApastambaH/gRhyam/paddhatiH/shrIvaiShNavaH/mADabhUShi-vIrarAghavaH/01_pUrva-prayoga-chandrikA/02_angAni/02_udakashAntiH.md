@@ -3918,10 +3918,70 @@ Corvus- α , β , γ , δ , ε Corvi.
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/3/1/naxatra-upahomAH"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
-'दधिक्राव्ण्ण' इत्यृचम्, 
+### 'दधिक्राव्ण्ण' इत्यृचम्, 
+
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/039/06_dadhikrAvNo_akAriShaM.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+
+### 'आपो हिष्ठा मयोभुव' इति त्रिस्रः, 
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/01_Apo_hi.md">
+<details open><summary><h2>०१ आपो हि ...{Loading}...</h2></summary>
+
+आपो॒ हि ष्ठा म॑यो॒भुव॑स्  
+ता न॑ ऊ॒र्जे+++(जाः)+++ द॑धातन ।  
+म॒हे रणा॑य॒+++(=रमणीयाय)+++ चक्ष॑से+++(=दर्शनाय)+++ ॥
+
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/02_yo_vaH.md">
+<details open><summary><h2>०२ यो वः ...{Loading}...</h2></summary>
+
+
+यो वः॑ शि॒वत॑मो॒ रस॑स्  
+तस्य॑ भाजयते॒ह नः॑ ।  
+उ॑श॒तीर्+++(=कामयमाना)+++ इ॑व मा॒तरः॑ ॥
+
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/03_tasmA_araM.md">
+<details open><summary><h2>०३ तस्मा अरं ...{Loading}...</h2></summary>
+
+
++++(रसाय)+++ तस्मा॒ अरं॑+++(=शीघ्रम्)+++ गमाम वो  
+यस्य॒ +++(प्रभावेण)+++ क्षया॑य॒+++(=निवासाय)+++ जिन्व॑थ+++(=प्रीणयथ)+++ ।  
+आपो॑ +++(प्रजा)+++ ज॒नय॑था च नः ॥
+
+</details>
+</div>
+
+### वारुणम्
+'उदुत्तमं वरुण’, ‘अस्तभ्नाद् द्यां’, ‘यत्किञ्चेदं’, ‘कितवासो', ‘अवते हेडः,' 'तत्त्वायामि' इति वरुण-सूक्तं
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/varuNa-sUktam"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 
-'आपो हिष्ठा मयोभुव' इति त्रिस्रः, 'उदुत्तमं वरुण’, ‘अस्तभ्नाद्यां’ ‘यत्किञ्चेदं’, ‘कितवासो', ‘अवते हेडः,' 'तत्त्वायामि' इति वरुणसूक्तं ‘हिरण्यवर्णाः’ ‘पवमानः’ ‘तच्छंयोः' इत्यनुवाकान्, 'यो ब्रह्मा ब्रह्मण' इति घृतसूक्तं च जपित्वा, 'नमो ब्रह्मण' इति परिधानीयां त्रिः जपित्वा प्रणवेन कुम्भम् उत्थाप्य 'देवस्य' इत्यादिव्याहृतिभिश्च यजमानं प्रोक्षयेत् । अथ यजमानः पुरस्तादुपविशते हिरण्यं, दक्षिणत उपविशते रजतं, पश्चादुपविशते कांस्यमुत्तरत उपविशते वासश्च दक्षिणां दत्वा कुम्भजलेन स्नायात् ॥
+‘हिरण्यवर्णाः’ ‘पवमानः’ 
+
+‘तच्छंयोः' इत्यनुवाकान्, 
+
+'यो ब्रह्मा ब्रह्मण' इति घृतसूक्तं च जपित्वा, 
+
+'नमो ब्रह्मण' इति परिधानीयां त्रिः जपित्वा 
+
+## प्रोक्षणम्
+प्रणवेन कुम्भम् उत्थाप्य 'देवस्य' इत्यादि  
+
+
+व्याहृतिभिश्च यजमानं प्रोक्षयेत् । 
+
+## दक्षिणादानादि
+अथ यजमानः पुरस्ताद् उपविशते हिरण्यं,  
+दक्षिणत उपविशते रजतं,  
+पश्चादुपविशते कांस्यम्  
+उत्तरत उपविशते वासश् च  
+दक्षिणां **दत्वा**  
+कुम्भजलेन **स्नायात्** ॥
 
 ॥ इति प्रयोगचन्द्रिकायां द्वितीयः खण्डः ॥
