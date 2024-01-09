@@ -1132,7 +1132,7 @@ title = "०२ उदकशान्तिः"
 
 ### 'चक्षुषो हेत' इत्यारभ्य ‘भ्रातृव्यं पादयामसि' इत्यन्तं 
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/2/4/aMshAH/chaxuSho_hete">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/2/4/2_01-09_chaxuSho_hete">
 <details open><summary><h2>चक्षुषो हेते ...{Loading}...</h2></summary>
 
 #### मेनिवारणम्
