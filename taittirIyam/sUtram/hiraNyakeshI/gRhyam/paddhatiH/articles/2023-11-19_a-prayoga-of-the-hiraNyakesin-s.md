@@ -336,7 +336,7 @@ Notes: the worship of Rudra Vāstoṣpati in this context is a distinctive aspec
 
 भूर् भुवः॒ सुवः॑ ।  
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/3/5/11"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/3/5/11/11_shaMyu-vAkaH_tach_ChaMyoH"  newLevelForH1="5" includeTitle="false"> </div>  
 
 Notes: This Vaidika section largely follows the pattern seen in other smārta traditions.
 

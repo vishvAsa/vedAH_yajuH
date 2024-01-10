@@ -82,7 +82,7 @@ unicode_script: devanagari
   - हव्यवाहम् अभिमातिषाहम् इत्यादिः [अत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_042_Krishna_Yajurvediya_Taittiriya_Samhita_Part_5_-_Kasinath_Sastri_Agase_1946#page/n261/mode/2up)। (स्विष्टम् अग्ने इति अपि।) TB.2.4.1.4a;  TB.3.1.3.3; 12.1.1; 3.4.
 - सुरभिमत्या ऽब्लिङ्गाभिर् वारुणीभिर् हिरण्यवर्णाभिः पावमानीभिर् व्याहृतीभिः। 
   - सुरभिमती [अत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_042_Krishna_Yajurvediya_Taittiriya_Samhita_Part_2_-_Kasinath_Sastri_Agase_1940#page/n241/mode/2up)। (दधिक्राव्ण्णो इत्यादिः।)
-  - अब्लिङ्गा [अत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_042_Krishna_Yajurvediya_Taittiriya_Samhita_Part_6_-_Kasinath_Sastri_Agase_1949#page/n95/mode/2up)। (अपोहिष्ठा इत्यादिः।)
+  - अब्-लिङ्गा [अत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_042_Krishna_Yajurvediya_Taittiriya_Samhita_Part_6_-_Kasinath_Sastri_Agase_1949#page/n95/mode/2up)। (अपोहिष्ठा इत्यादिः।)
   - वारुणी [अत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_042_Krishna_Yajurvediya_Taittiriya_Samhita_Part_2_-_Kasinath_Sastri_Agase_1940#page/n241/mode/2up)।
   - हिरण्यवर्णा [अत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_042_Krishna_Yajurvediya_Taittiriya_Samhita_Part_7_-_Kasinath_Sastri_Agase_1949#page/n151/mode/2up)।
   - अन्यपाठेऽपि बौधायनसूत्रेषु [अत्र](http://i.imgur.com/sELCqW9.jpg)
@@ -94,6 +94,7 @@ unicode_script: devanagari
 
 ## वरुणस्योद्वासनम्
 - प्रणवेन कुम्भस्योत्थापनम् \- चित्रम् [अत्र](https://youtu.be/6Em2vPCMlyQ?t=865)।
+
 ## प्रोक्षणमन्त्राः (प्रयोगेभ्य अभिज्ञाताः।)
 - देवस्य त्वा सवितुः इत्यादिर् [अत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_037_Taittiriya_Brahmanam_with_Sayanabhashya_Part_2_-_Narayanasastri_Godbole_1898#page/n23/mode/2up)। २.६.५.२।
 - च वाजिनम् इत्यादिर् [अत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_042_Krishna_Yajurvediya_Taittiriya_Samhita_Part_3_-_Kasinath_Sastri_Agase_1947#page/n1/mode/2up)। सं १.७.१०.३।
