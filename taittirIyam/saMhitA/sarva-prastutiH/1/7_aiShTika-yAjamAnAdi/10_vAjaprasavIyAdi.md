@@ -152,7 +152,7 @@ May the goddess speech be bountiful to us.
 अ॒र्य॒मण॒म् बृह॒स्पति॒म्  
 इन्द्र॒न् **दाना॑य चोदय** ।  
 वाच॒व्ँ विष्णु॒ꣳ॒ सर॑स्वतीꣳ  
-सवि॒तार᳚म् [41] च॒ वा॒जिन᳚म्  ॥
+सवि॒तार᳚म् [41] च वा॒जिन᳚म्  ॥
 </details>
 <details><summary>Keith</summary>
 

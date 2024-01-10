@@ -1,10 +1,19 @@
 +++
-title = "मन्त्रपाठः"
+title = "कलश-स्थापनम् (प्रयोगानुमितम्)"
 unicode_script = "devanagari"
 
 +++
 
-## कलशस्थापनम्
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+- चलच्चित्रम् [अत्र](https://youtu.be/ge_Chw7MeJo?t=345)।
+- आपो वा इदम् इत्यादिः [अत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_036_Taittiriya_Aranyakam_With_Sayana_Bhashya_Part_2_-_Babasastri_Phadke_1927#page/n287/mode/2up)।
+- अपः प्रणयति। इत्यादिः [अत्र](https://archive.org/stream/taittiriya/taittiriya_brahmana_bhaskara_03_1-7#page/n77/mode/2up)। [अत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_037_Taittiriya_Brahmanam_with_Sayanabhashya_Part_2_-_Narayanasastri_Godbole_1898#page/n305/mode/2up) भाष्यं विना।
+- देवो वः सवितोत्पुनातु इत्यादिः [अत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_042_Krishna_Yajurvediya_Taittiriya_Samhita_Part_1_-_Kasinath_Sastri_Agase_1940#page/n73/mode/2up)। TS.1.1.5.1 TB.3.2.5.2
+- स हि रत्नानि दाशुषे इत्यादिः [अत्र](https://archive.org/stream/RgVedaWithSayanasCommentaryPart2/rv_sayanabhasya_part2#page/n1035/mode/2up)। RV.5.82.3a
+- इमं मे वरुण इत्यादिः [अत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_042_Krishna_Yajurvediya_Taittiriya_Samhita_Part_4_-_Kasinath_Sastri_Agase_1946#page/n57/mode/2up)।  TS.2.1.11.6a
+</details>
+
 
 <div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/22_Apo_vA_idam/">
 <details open><summary><h3>२२ आपो वा इदं सर्वम् ...{Loading}...</h3></summary>
@@ -127,5 +136,30 @@ unicode_script = "devanagari"
 
 (आपो॒वैशा॒न्ताः । शा॒न्ताभि॑रे॒वास्य॑ शुचꣳ॑शमयति ॥)
 </details>
+</details>
+</div>
+
+<div class="js_include" url="/vedAH_yajuH.taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdiH/05_haviHproxaNAdiH/devo_vas_savitotpunAtu.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/082/03_sa_hi.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/025/19_imaM_me.md">
+<details open><summary><h2>१९ इमं मे ...{Loading}...</h2></summary>
+
+इ॒मं मे॑ वरुण श्रुधी॒ +++(=श्रुणु)+++  
+हव॑म्+++(=आह्वानम्)+++ अ॒द्या च॑ मृळय +++(=सुखय)+++।  
+त्वाम् अ॑व॒स्युर् आ च॑के +++(=अवदन्)+++॥
+
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/11_tattvA_yAmi.md">
+<details open><summary><h2>११ तत्त्वा यामि ...{Loading}...</h2></summary>
+
+
+तत् त्वा॑ यामि॒ ब्रह्म॑णा॒ वन्द॑मान॒स्  
+तद् आ शा॑स्ते॒ यज॑मानो ह॒विर्भिः॑ ।  
+अहे॑ळमानो +++(=अक्रुध्यन्)+++ वरुणे॒ह बो॒ध्य् उरु॑शंस॒  
+मा न॒ आयुः॒ प्र मो॑षीः ॥
+
 </details>
 </div>
