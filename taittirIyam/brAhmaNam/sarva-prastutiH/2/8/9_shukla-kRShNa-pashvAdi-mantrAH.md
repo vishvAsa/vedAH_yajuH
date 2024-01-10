@@ -140,6 +140,8 @@ unicode_script: devanagari
 अथवा अध्वरमस्माभिरनुष्ठीयमानं यज्ञं प्राप्नुतः ।  
 उभयोर्मध्येऽन्य एक आदित्यो विश्वानि भुवनानिअभिचष्टे सर्वतः प्रकाशयति । अन्यश्चन्द्रः प्रतिपदादितिथिशुक्लकृष्णपक्षचैत्रादिमासद्वारा ऋतून्विदधत्पुनः पुनर्जायत उदयं गच्छतीत्यर्थः ॥
 </details>
+
+## पावमान्यः - अद्भ्यो वेहतम्
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 7यदुक्तं सूत्रकारेण - 'अद्भ्यो वेहतम्' इति । तस्य पशोः सूक्ते षण्णामृचां प्रतीकानि दर्शयति - 'हिरण्यवर्णाः शुचयः पावकाः' इति वपायाः पुरोनुवाक्या ।
@@ -240,6 +242,9 @@ unicode_script: devanagari
 </details>
 </div>
 
+
+## आपः
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 'आपो भद्रा घृतमिदाप आसुः' हति हविषः पुरोनुवाक्या ।
@@ -290,6 +295,7 @@ unicode_script: devanagari
 हिर॑ण्य-वर्णा॒ **अतृ॑पय्ँ** य॒दा वः॑ ।
 </details>
 </div>
+
 <div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/5/6/01_kumbheShTakopAdhAna-mantrAH/41_Ad_it.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
@@ -302,13 +308,36 @@ unicode_script: devanagari
 10दशमी - आदिति त्रिष्टुप् ॥ प्राणेन सहागन् इत्युक्तम् । तदिदानीं समर्थयते - **आदित्** अनन्तरमेवाहं **पश्यामि** । **उत** अपि **वा शृणोमि** । घोषश्च माम् **आगच्छति** ।  
 अस्माकं **वाग्** रूपः **आसां** युष्माकम् आगमनेन रसेन वा । किं बहुना - तर्हि तदानीं अमृतस्य **भेजान** अमृतमेव भजन् अहं मन्ये तर्कयामि । पूर्ववत्कर्मणस्संप्रदानत्वाच्चतुर्थ्यर्थे षष्ठी । कदा - यदाहि हे हिरण्यवर्णाः! **वः** युष्माकम् **अतृपं** युष्मत्पानेन सुहितोभवम् । तृप तृंप तृप्तौ, तौदादिकः । मुहितार्थयोगे षष्ठी ॥
 </details>
+</details>
+</div>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 आपो॒ हि ष्ठा म॑यो॒भुव॒स्ता न॑ ऊ॒र्जे द॑धातन । म॒हे रणा॑य॒ चख्ष॑से ।
 </details>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/01_Apo_hi.md">
+<details open><summary><h2>०१ आपो हि ...{Loading}...</h2></summary>
+
+आपो॒ हि ष्ठा म॑यो॒भुव॑स्  
+ता न॑ ऊ॒र्जे+++(जाः)+++ द॑धातन ।  
+म॒हे रणा॑य॒+++(=रमणीयाय)+++ चक्ष॑से+++(=दर्शनाय)+++ ॥
+
 </details>
 </div>
 
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/009/01_Apo_hi.md">
+<details open><summary><h2>०१ आपो हि ...{Loading}...</h2></summary>
+
+आपो॒ हि ष्ठा म॑यो॒भुव॑स्  
+ता न॑ ऊ॒र्जे+++(जाः)+++ द॑धातन ।  
+म॒हे रणा॑य॒+++(=रमणीयाय)+++ चक्ष॑से+++(=दर्शनाय)+++ ॥
+
+</details>
+</div>
+
+
+## नासदीयम्
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/2/8/9_08-16_nAsadIyam">
 <details open><summary><h5>९ ०८-१६ नासदीयम् ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129_nAsadIyam/">
@@ -652,6 +681,9 @@ Was war der Wald, und was war jener Baum doch, aus dem sie Erd' und Himmel schö
 </details>
 </details>
 </div>
+
+## भाग्य-सूक्तम् - प्रातर् अग्निम्
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/2/8/9_17_prAtar_agnim">
 <details open><summary><h5>९ १७ प्रातर् अग्निम् ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_15/01_prAtaragnim_prAtarindram.md">

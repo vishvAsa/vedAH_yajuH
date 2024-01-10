@@ -3,7 +3,7 @@ title = "९ ०८-१६ नासदीयम्"
 
 +++
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129_nAsadIyam/">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarva-prastutiH/10/129_nAsadIyam/">
 <details open><summary><h2>१२५ नासदीयम् ...{Loading}...</h2></summary>
 
 
@@ -18,6 +18,7 @@ title = "९ ०८-१६ नासदीयम्"
 
 </details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129/02_na_mRtyurAsIdamRtaM.md">
 <details open><summary><h4>०२ न मृत्युरासीदमृतं ...{Loading}...</h4></summary>
 
@@ -27,6 +28,7 @@ title = "९ ०८-१६ नासदीयम्"
 
 </details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129/03_tama_AsIttamasA.md">
 <details open><summary><h4>०३ तम आसीत्तमसा ...{Loading}...</h4></summary>
 
@@ -45,6 +47,7 @@ title = "९ ०८-१६ नासदीयम्"
 
 </details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129/05_tirashchIno_vitato.md">
 <details open><summary><h4>०५ तिरश्चीनो विततो ...{Loading}...</h4></summary>
 
@@ -75,6 +78,9 @@ title = "९ ०८-१६ नासदीयम्"
 </div>
 </details>
 </div>
+
+
+
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/081/04_kiM_svidvanaM.md">
 <details open><summary><h2>०४ किं स्विद्वनं ...{Loading}...</h2></summary>
 
@@ -324,12 +330,13 @@ Was war der Wald, und was war jener Baum doch, aus dem sie Erd' und Himmel schö
 </details>
 </details>
 </div>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्रह्म॒ वन॒म्ब्रह्म॒ स वृ॒ख्ष आ॑सीत् ॥ 76 ॥  
-यतो॒ द्यावा॑पृथि॒वी नि॑ष्टत॒ख्षुः ।   
-मनी॑षिणो॒ मन॑सा॒ विब्र॑वीमि वः ।  
-ब्रह्मा॒ध्यति॑ष्ठ॒द्भुव॑नानि धा॒रयन्न्॑ ।
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+
+ब्रह्म॒ वन॒म् ब्रह्म॒ स वृ॒ख्ष **आ॑सीत्** ॥ 76 ॥  
+यतो॒ द्यावा॑पृथि॒वी **नि॑ष्टत॒ख्षुः**+++(←तक्ष्)+++ ।   
+मनी॑षिणो॒ मन॑सा॒ **विब्र॑वीमि** वः ।  
+**ब्रह्मा॒ध्यति॑ष्ठ॒द्** भुव॑नानि **धा॒रयन्न्॑** ।
 </details>
 <details><summary>मूलम्</summary>
 
