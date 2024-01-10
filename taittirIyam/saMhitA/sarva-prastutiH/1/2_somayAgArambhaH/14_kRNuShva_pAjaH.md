@@ -3,7 +3,6 @@ title = "१४ कृणुष्व पाजः"
 
 +++
 
-
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 काम्य(सामिधेनी)इष्टियाज्यापुरोनुवाक्याः।  
@@ -15,8 +14,6 @@ title = "१४ कृणुष्व पाजः"
   - याज्ये द्वे १७-१८  मन्त्रौ
 
 </details>
-
-
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 14'अग्नये रक्षोघ्ने पुरोडाशमष्टाकपालं निर्वपेद्यं रक्षांसि सचेरन्' इत्यस्या इष्टेः पञ्चदश सामिधेन्यः । ततः परे याज्यानुवाक्ये । उपहोमार्था ततः परा याज्याविकल्पो वा । सर्वा अग्निदेवत्याः, 'तपूष्यग्ने' इत्यादिदर्शनात् । वैश्वदेवं काण्डम् । त्रैष्टुभस्सर्वोनुवाकः । तत्र प्रथमा - कृणुम्ष्व पाज इति ॥   
@@ -192,9 +189,6 @@ title = "१४ कृणुष्व पाजः"
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/12_asvapnajastaraNayaH_sushevA.md"></div>
-
-
-
 <div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/13_ye_pAyavo.md">
 <details open><summary><h2>विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
@@ -219,8 +213,6 @@ title = "१४ कृणुष्व पाजः"
 
 14अथ चतुर्दशी - त्वयेति ॥ 
 </details>
-
-
 <div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/14_tvayA_vayaM.md">
 <details open><summary><h2>विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
@@ -233,13 +225,10 @@ title = "१४ कृणुष्व पाजः"
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/14_tvayA_vayaM.md"></div>
-
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 15।अथ पञ्चदशी - अयेति ॥ 
 </details>
-
-
 <div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/15_ayA_te.md">
 <details open><summary><h2>विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
@@ -252,13 +241,10 @@ title = "१४ कृणुष्व पाजः"
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/15_ayA_te.md"></div>
-
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 16अथ पुरोनुवाक्या - रक्षोहणमिति ॥ 'रक्षोघ्नी याज्यानुवाक्ये भवतः' इति च ब्राह्मणम् । 
 </details>
-
-
 <div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/087/01_raxohaNaM_vAjinamA.md">
 <details open><summary><h2>विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
@@ -280,27 +266,22 @@ title = "१४ कृणुष्व पाजः"
 
 17अथ याज्या - वीति ॥
 </details>
-
 <div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/002/09_vi_jyotiShA.md">
 <details open><summary><h2>विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
 
-वि ज्योति॑षा बृह॒ता भा॑त्य् अ॒ग्निर्  
-आ॒विर् विश्वा॑नि कृणुते महि॒त्वा +++(=महत्तया)+++ ।  
-प्रादे॑वीर् मा॒यास् स॑हते दु॒रेवाः॒ +++(=दुरत्ययः)+++  
-शिशी॑ते॒ +++(=तीक्ष्णीकरोति)+++ शृङ्गे॒ रक्ष॑से वि॒निक्षे॑ +++(=विनाशाय)+++ ॥
+वि ज्योति॑षा बृह॒ता **भा॑त्य्** अ॒ग्निर्  
+आ॒विर् विश्वा॑नि **कृणुते** महि॒त्वा +++(=महत्तया)+++ ।  
+प्रादे॑वीर् मा॒यास् **स॑हते** दु॒रेवाः॒ +++(=दुरत्ययः)+++  
+**शिशी॑ते॒** +++(=तीक्ष्णीकरोति)+++ शृङ्गे॒ रक्ष॑से वि॒निक्षे॑ +++(=विनाशाय)+++ ॥
 
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/002/09_vi_jyotiShA.md"></div>
-
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 18अथ याज्याविकल्पः, उपहोमार्था वा - उतेति ॥ 
 </details>
-
-
-
 <div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/002/10_uta_svAnAso.md">
 <details open><summary><h2>विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 

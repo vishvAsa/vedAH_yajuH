@@ -273,7 +273,7 @@ title = "०३ चयनार्थथं देवयजनस्य पर�
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ द्वितीयामाह— पुनरासद्येति।   
-</details> 
+</details>
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/38_punarAsadya_sadanamapashcha.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 

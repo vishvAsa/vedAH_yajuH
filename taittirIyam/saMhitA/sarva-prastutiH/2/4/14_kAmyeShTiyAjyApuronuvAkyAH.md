@@ -3365,7 +3365,7 @@ Die heil'gen Götter mögen all' zur Festzeit hörend unsern Ruf, Geniessen den 
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-वि꣡श्वे देवाः शृणुते꣡मं꣡ ह꣡वम् मे  
+वि꣡श्वेदेवाः शृणुते꣡मं꣡ ह꣡वम् मे  
 ये꣡ अन्त꣡रिक्षे य꣡ उ꣡प द्य꣡वि ष्ठ꣡  
 ये꣡ अग्निजिह्वा꣡ उत꣡ वा य꣡जत्रा  
 आस꣡द्यास्मि꣡न् बर्हि꣡षि मादयध्वम्
