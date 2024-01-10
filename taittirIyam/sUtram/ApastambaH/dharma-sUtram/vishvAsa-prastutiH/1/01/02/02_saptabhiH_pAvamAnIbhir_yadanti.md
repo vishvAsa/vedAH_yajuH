@@ -18,7 +18,7 @@ title = "02 सप्तभिः पावमानीभिर् यदन्
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/067__22-27__pavamAnas_so/">
 <details open><summary><h3>०६७ २२-२७ ...{Loading}...</h3></summary>
 <div class="js_include" newlevelforh1="3" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/067/22_pavamAnaH_so.md">
-<details open=""><summary><h6>२२ पवमानः सो ...{Loading}...</h6></summary>
+<details open><summary><h6>२२ पवमानः सो ...{Loading}...</h6></summary>
 
 
 पव॑मानः॒ सो अ॒द्य नः॑  
@@ -28,7 +28,7 @@ title = "02 सप्तभिः पावमानीभिर् यदन्
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/067/23_yatte_pavitramarchiShyagne.md">
-<details open=""><summary><h6>२३ यत्ते पवित्रमर्चिष्यग्ने ...{Loading}...</h6></summary>
+<details open><summary><h6>२३ यत्ते पवित्रमर्चिष्यग्ने ...{Loading}...</h6></summary>
 
 
 यत् ते॑ प॒वित्र॑म् अ॒र्चिष्य्  
@@ -38,7 +38,7 @@ title = "02 सप्तभिः पावमानीभिर् यदन्
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/067/24_yatte_pavitramarchivadagne.md">
-<details open=""><summary><h6>२४ यत्ते पवित्रमर्चिवदग्ने ...{Loading}...</h6></summary>
+<details open><summary><h6>२४ यत्ते पवित्रमर्चिवदग्ने ...{Loading}...</h6></summary>
 
 
 यत् ते॑ प॒वित्र॑म् अर्चि॒वद्+++(=अर्चिष्मत्)+++  
@@ -48,7 +48,7 @@ title = "02 सप्तभिः पावमानीभिर् यदन्
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/067/25_ubhAbhyAM_deva.md">
-<details open=""><summary><h6>२५ उभाभ्यां देव ...{Loading}...</h6></summary>
+<details open><summary><h6>२५ उभाभ्यां देव ...{Loading}...</h6></summary>
 
 
 उ॒भाभ्यां॑ देव सवितः  
@@ -58,7 +58,7 @@ title = "02 सप्तभिः पावमानीभिर् यदन्
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/067/26_tribhiShTvaM_deva.md">
-<details open=""><summary><h6>२६ त्रिभिष्ट्वं देव ...{Loading}...</h6></summary>
+<details open><summary><h6>२६ त्रिभिष्ट्वं देव ...{Loading}...</h6></summary>
 
 
 त्रि॒भिष् - ट्वं दे॑व सवित॒र्  
@@ -68,7 +68,7 @@ title = "02 सप्तभिः पावमानीभिर् यदन्
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/067/27_punantu_mAM.md">
-<details open=""><summary><h6>२७ पुनन्तु मां ...{Loading}...</h6></summary>
+<details open><summary><h6>२७ पुनन्तु मां ...{Loading}...</h6></summary>
 
 
 पु॒नन्तु॒ मां दे॑व-ज॒नाः  
@@ -91,12 +91,12 @@ title = "02 सप्तभिः पावमानीभिर् यदन्
 ## ऋक्
 
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/1/1/12-1_0682_kayA_nashchitra.md">
-<details open=""><summary><h4>12-1_0682 कया नश्चित्र ...{Loading}...</h4></summary>
+<details open><summary><h4>12-1_0682 कया नश्चित्र ...{Loading}...</h4></summary>
 
 क꣡या꣢ नश्चि꣣त्र꣡ आ भुव꣢꣯दू꣣ती꣢ स꣣दा꣢वृ꣣धः꣢ स꣡खा꣢। क꣢या꣣ श꣡चि꣢ष्ठया वृ꣣ता꣢ ॥ 12-1:0682 ॥
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/031/01_kayA_nashchitra.md">
-<details open=""><summary><h6>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h6></summary>
+<details open><summary><h6>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h6></summary>
 
 
 कया॑ नश्चि॒त्र +++(=चयनीयः)+++ आ भु॑वद्  
@@ -108,16 +108,16 @@ title = "02 सप्तभिः पावमानीभिर् यदन्
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/1/1/12-2_0683_kastvA_satyo.md">
-<details open=""><summary><h3>12-2_0683 कस्त्वा सत्यो ...{Loading}...</h3></summary>
+<details open><summary><h3>12-2_0683 कस्त्वा सत्यो ...{Loading}...</h3></summary>
 
 क꣡स्त्वा꣢ स꣣त्यो꣡ मदा꣢꣯नां꣣ म꣡ꣳहि꣢ष्ठो मत्स꣣द꣡न्ध꣢सः। दृ꣣ढा꣡ चि꣢दा꣣रु꣢जे꣣ व꣡सु꣢ ॥ 12-2:0683 ॥
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/031/02_kastvA_satyo.md">
-<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+<details open><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 
 कस्त्वा॑ स॒त्यो मदा॑नां॒  
-मंहि॑ष्ठो +++(=पूज्यः)+++ मत्स॒द् +++(=मादयेद्)+++ अन्ध॑सः+++(= भोज्यः [सोमः])+++ ।  
+मंहि॑ष्ठो +++(=पूज्यः)+++ मत्स॒द् +++(=मादयेद्)+++ अन्ध॑सः+++(= भोज्यः ([सोमः])+++) ।  
 दृ॒ऴा +++(=ढम्)+++ चि॑दा॒रुजे॒ +++(=सम्भङ्क्तुम्)+++ वसु॑ २
 
 </details>
@@ -125,12 +125,12 @@ title = "02 सप्तभिः पावमानीभिर् यदन्
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/1/1/12-3_0684_abhI_Shu.md">
-<details open=""><summary><h3>12-3_0684 अभी षु ...{Loading}...</h3></summary>
+<details open><summary><h3>12-3_0684 अभी षु ...{Loading}...</h3></summary>
 
 अ꣣भी꣢꣫ षु णः꣣ स꣡खी꣢नामवि꣣ता꣡ ज꣢रितृ꣣णा꣢म्। श꣣तं꣡ भ꣢वास्यू꣣त꣡ये꣢ ॥ 12-3:0684 ॥॥12(टा)॥
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/031/03_abhI_Shu.md">
-<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+<details open><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 
 अ॒भी षु णः॒ सखी॑नाम्  
