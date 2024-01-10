@@ -8,7 +8,6 @@ unicode_script = "devanagari"
 
 'अनारभ्याधीतानां प्रकृतिगामित्वम्'इति न्यायात् दर्शपूर्णमासयोश् चाविनियोगात् ज्योतिष्ठेम एकाहानां प्रकृतौ एकविंशत्या दर्भपुञ्जीलैः पाव्यमानो यजमानो जपति। अन्यत्र च स्मार्ते स्नानादौ मार्जनार्थोऽयमनुवाकः । सोमः काण्डऋषिः ॥
 </details>
-
 <div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4/08_pAvamAnyaH/01_pavamAnas_suvarjanaH.md">
 <details><summary><h4>01 पवमानस् सुवर्जनः ...{Loading}...</h4></summary>
 

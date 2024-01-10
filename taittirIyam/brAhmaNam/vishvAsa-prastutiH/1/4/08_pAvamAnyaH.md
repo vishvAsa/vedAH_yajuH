@@ -8,8 +8,6 @@ unicode_script = "devanagari"
 
 स्मार्ते स्नानादौ मार्जनार्थाश्च।
 </details>
-
-
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4/08_pAvamAnyaH/01_pavamAnas_suvarjanaH.md">
 <details open><summary><h4>01 पवमानस् सुवर्जनः ...{Loading}...</h4></summary>
 
@@ -28,7 +26,7 @@ unicode_script = "devanagari"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/`brAhmaNam/Rk/vishvAsa-prastutiH/1/4/08_pAvamAnyaH/03_jAtavedapH_pavitravat.md">
+<div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4/08_pAvamAnyaH/03_jAtavedapH_pavitravat.md">
 <details open><summary><h4>03 जातवेदᳶ पवित्रवत् ...{Loading}...</h4></summary>
 
 जात॑वेदᳶ प॒वित्र॑वत् ।  
