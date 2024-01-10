@@ -4,7 +4,9 @@ title = "वरुण-सूक्तम्"
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-'उदुत्तमं वरुण’, ‘अस्तभ्नाद् द्यां’, ‘यत्किञ्चेदं’, ‘कितवासो', ‘अवते हेडः,' 'तत्त्वायामि' इति वरुण-सूक्तं
+> 'उदुत्तमं वरुण’, ‘अस्तभ्नाद् द्यां’, ‘यत्किञ्चेदं’, ‘कितवासो', ‘अवते हेडः,' 'तत्त्वायामि' इति वरुण-सूक्तं 
+
+इति माडभूषी वीरराघवः। 
 </details>
 
 
@@ -13,3 +15,49 @@ title = "वरुण-सूक्तम्"
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/astabhnAd_dyAm.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/089/05_yatkiM_chedaM.md">
+<details open><summary><h2>०५ यत्किं चेदं ...{Loading}...</h2></summary>
+
+
+यत् किं चे॒दं व॑रुण॒ दैव्ये॒+++(←देव+यञ्)+++ जने॑+++(देवेषु)+++,  
+ऽभिद्रो॒हं म॑नु॒ष्या॑श् चरा॑मसि।   
+अचि॑त्ती॒ यत् तव॒ धर्मा॑ युयोपि॒म+++(विनाशयामः)+++,  
+मा न॒स् तस्मा॒द् एन॑सो देव रीरिषः ॥
+
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/085/08_kitavAso_yadriripurna.md">
+<details open><summary><h2>०८ कितवासो यद्रिरिपुर्न ...{Loading}...</h2></summary>
+
+
++++(ऋत्विजः)+++ कि॒त॒वासो॒ यद् रि॑रि॒पुर्+++(=लिलिपुः)+++ न दी॒वि+++(देवकर्मणि)+++,  
+यद् वा॑ ऽघा स॒त्यम् उ॒त यन् न वि॒द्म ।  
+सर्वा॒ ता विष्य॑+++(=विनाशय)+++ शिथि॒रेव॑+++(=शिथिला +इव)+++  
+दे॒वाथा॑ ते स्याम वरुण प्रि॒यासः॑ ॥
+
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/14_ava_te.md">
+<details open><summary><h2>१४ अव ते ...{Loading}...</h2></summary>
+
+
+अव॑ ते॒ **हेळो॑**+++(←हेड् अवज्ञायां)+++ वरुण॒ नमो॑भि॒र्  
+**अव॑** य॒ज्ञेभि॑र् **ईमहे**+++(→नयामः)+++ ह॒विर्भिः॑ ।  
+**क्षय॑न्न्**+++(=निवसन्)+++ अ॒स्मभ्य॑म् असुर प्रचेता॒  
+राज॒न्न् **एनां॑सि शिश्रथः**+++(=शिथिलीकुरु)+++ कृ॒तानि॑ ॥
+
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/11_tattvA_yAmi.md">
+<details open><summary><h2>११ तत्त्वा यामि ...{Loading}...</h2></summary>
+
+
+तत् त्वा॑ यामि॒ ब्रह्म॑णा॒ वन्द॑मान॒स्  
+तद् आ शा॑स्ते॒ यज॑मानो ह॒विर्भिः॑ ।  
+अहे॑ळमानो +++(=अक्रुध्यन्)+++ वरुणे॒ह बो॒ध्य् उरु॑शंस॒  
+मा न॒ आयुः॒ प्र मो॑षीः ॥
+
+</details>
+</div>
