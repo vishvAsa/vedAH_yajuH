@@ -152,7 +152,7 @@ _______
 
 2एवमनेनार्धर्चेन दक्षिणेन जुहूमुद्गृह्य अर्धर्चान्तरेण सव्येनोपभृतं निगृह्णाति
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथा॑ स॒पत्ना॒ꣳ॒ इन्द्रो॑ मे  
 निग्रा॒भेणाध॑राꣳ अकः+++(=करोतु)+++ ॥
@@ -210,7 +210,7 @@ _______
 
 4एवं च प्रतीचीमुपभृतं प्रत्यूहति - अथेति ॥
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथा॑ स॒पत्ना॑न् इन्द्रा॒ग्नी  
 मे॑ विषू॒चीना॒न्+++(=विष्वग्-गतान्)+++ व्य॑स्यताम् ॥
@@ -245,12 +245,16 @@ _______
 
 एमा अ॑ग्मन्ना॒शिषो॒ दोह॑कामा॒ इन्द्र॑वन्तः [12]व॒ना॒म॒हे॒ धु॒ख्षी॒महि॑ प्र॒जामिष᳚म् ॥ 
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/04_anuyAjAnumantraNAdi/06_AimA_agmann.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 आ+इ॒मा अ॑ग्मन्न् आ॒शिषो॒ दोह॑-कामा  
 इन्द्र॑वन्तो  व॒ना॒म॒हे ।    
 धु॒ख्षी॒महि॑ प्र॒जाम् इष᳚म्  ॥
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/04_anuyAjAnumantraNAdi/06_AimA_agmann.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 Hither these blessings have come, fain for milking,  
@@ -267,6 +271,11 @@ May we milk offspring and food.
 
 इयं पुरउष्णिक्, प्रथमस्य द्वादशाक्षरत्वात् ॥ +++(अत्र मन्त्रविभागः विचारणीयः भाष्ये द्वादशाक्षरत्वमुक्तम् । अत्र एकादशाक्षराणि)+++ अत्र 'यर्हि होता यजमानस्य नाम गृह्णीयात् तर्हि ब्रूयादेमा अग्मन्नाशिषो दोहकामाः' इति ब्राह्मण दर्शनात् । 'आशास्तेयं यजमानोसौ' इत्यत्र यजमानेनाशासनीयाः 'आयुराशास्ते' इत्यायुरादय इमा आशिष उच्यन्ते । इमा आशिष आग्मन्नागच्छन्तु । छान्दसे लुङि 'मन्त्रे घस' इत्यादिना च्लेर्लुक्, 'गमहन' इत्युपधालोपः । लङि वा शपो लुक् । दोहकामाः मया दुह्यमानं कामयमानाः । 'शीलिकामिभिक्षाचरिभ्यो णः पूर्वपदप्रकृतिस्वरत्वं च' इत्यणोपवादो णः । अत आगता वयमपीन्द्रवन्तः इन्द्रेण स्वामिना सहिता वनामहे । वन षण सम्भक्तौ, व्यत्ययेनात्मनेपदम् । यद्वा - वनु याचने, अनुदात्तेत् तानादिकः, विकरणव्यत्ययेन शप् । इन्द्रवन्तो वयं याचामहे प्रजामिषमन्नं च वो धुक्षीमहि । यद्वा - दोहकामा वयं वनामहे प्रजामिषं च धुक्षीमहीति । 'लिङ्सिचावात्मनेपदेषु' इति सिचः कित्त्वम् । पादादित्वान्न निहन्यते ॥
 </details>
+</details>
+</div>
+
+
+
 
 
 ## प्रस्तरप्रहारे
@@ -339,13 +348,17 @@ _______
 
 वि ते॑ मुञ्चामि रश॒ना वि र॒श्मीन् वि योक्त्रा॒ यानि॑ परि॒चर्त॑नानि ध॒त्ताद॒स्मासु॒ द्रवि॑ण॒य्ँयच्च॑ भ॒द्रम्प्र णो᳚ ब्रूताद्भाग॒धान्दे॒वता॑सु ॥ 
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/04_anuyAjAnumantraNAdi/07_vi_te.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 +++(अश्वीकृताग्ने!)+++ वि ते॑ **मुञ्चामि** रश॒ना, वि र॒श्मीन्,  
 वि योक्त्रा॒, यानि॑ परि॒चर्त॑नानि+++(←चृती हिंसादौ)+++ ।  
 **ध॒त्ताद्** अ॒स्मासु॒ द्रवि॑ण॒य्ँ यच् च॑ भ॒द्रम्,  
 +++(तेषु)+++ प्र णो᳚ **ब्रूताद्** भाग॒-धान् दे॒वता॑सु  ॥
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/04_anuyAjAnumantraNAdi/07_vi_te.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 I unyoke thy head ropes, thy reins,  
@@ -365,8 +378,13 @@ Proclaim us sharers among the gods.
 
 अधुना कार्ये समाप्ते परिधिविमोकेन एतैरेव विमुक्तो निर्यन्त्रणो भव यथाऽश्वः कार्यसमाप्तौ विमुक्तरशनादिकस्स्वैरं धावति । ततश्च त्वमस्मासु द्रविणं धनं यच्चान्यद्भद्रं कल्याणमभीष्टं तत्तत्सर्वं धत्तात् धेहि स्थापय ।  
 
-किञ्च - नः अस्मान्देवतासु प्रब्रूतात्प्रब्रूहि । भागधान्भगस्य धातृन् दातॄन् युष्मभ्यमेतैर्भागा दत्ता भुङ्ध्वमिति देवतासु ख्यापयेति । 'उपसर्गाद्बहुलम्' इति नसो णत्वम् ॥  
+किञ्च - नः अस्मान्देवतासु प्रब्रूतात्प्रब्रूहि । भागधान्भगस्य धातृन् दातॄन् युष्मभ्यमेतैर्भागा दत्ता भुङ्ध्वमिति देवतासु ख्यापयेति । 'उपसर्गाद्बहुलम्' इति नसो णत्वम् ॥
 </details>
+</details>
+</div>
+
+
+
 
 ## शंयुवाकानुमन्त्रणम्
 _______
@@ -532,12 +550,16 @@ Thou art winning, thou art the winner, may I win.
 
 **सनिस्** संविभागः त्वमसि सनितासि संविभक्ता चासि, तादृशेन त्वयाहं सनेयं विन्देयं सांविभजेयम् ।
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/04_anuyAjAnumantraNAdi/08_ghRtavanta~N_kulAyinam.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 घृ॒तव॑न्तङ् कुला॒यिनं॑+++(=नीडवन्तं)+++   
 रा॒यस्पोषꣳ॑ सह॒स्रिणं॑   
 **वे॒दो द॑दातु** वा॒जिन᳚म् ॥
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/04_anuyAjAnumantraNAdi/08_ghRtavanta~N_kulAyinam.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 May the bundle bestow increase of wealth,  
@@ -557,3 +579,5 @@ A thousandfold, strong.
 
 इति षष्ठे चतुर्थोनुवाकः ॥
 </details>
+</details>
+</div>

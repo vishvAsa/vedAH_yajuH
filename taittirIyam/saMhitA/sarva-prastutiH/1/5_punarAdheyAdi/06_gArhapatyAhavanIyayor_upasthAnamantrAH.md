@@ -2088,6 +2088,7 @@ Destroyer of that which may be broken.
 
 _______
 
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/agne_gRhapate.md">
 <details open><summary><h5>अग्ने गृहपते ...{Loading}...</h5></summary>
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -2120,9 +2121,9 @@ ____________
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-श॒तꣳ हिमा॑स् ताम् आ॒शिष॒म् **आशा॑से** ।
+श॒तꣳ हिमा॑स् ताम् आ॒शिष॒म् आशा॑से ।
 
-+++(अजातपुत्र-पक्षे - )+++ तन्त॑वे॒ ज्योति॑ष्मती॒न् ताम् आ॒शिष॒म् **आशा॑से** ।  
++++(अजातपुत्र-पक्षे - )+++ तन्त॑वे॒ ज्योति॑ष्मती॒न् ताम् आ॒शिष॒म् आशा॑से ।  
 +++(जातपुत्र-पक्षे -)+++ [ताम् आ॒शिष॒म् आशा॑से] अ॒मुष्मै॒+++(→अपत्य-नाम-निर्देशः)+++ ज्योति॑ष्मतीम् ॥  [24]
 </details>
 <details><summary>Keith</summary>

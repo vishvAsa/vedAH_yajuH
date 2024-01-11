@@ -2317,13 +2317,17 @@ Wenn mich der Trunk ergriffen und erregt hat, dann preis' ich Indra vor dem Tag 
 
 11तत्रैव याज्या विकल्प्यते - प्र सम्राजमिति त्रिष्टुप् ॥ 
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/12_kAmyeShTi-mantrAH/02_pra_samrAjam.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 प्र स॒म्राज॑म्, प्रथ॒मम् अ॑ध्व॒राणा᳚म्, [48]   
 अꣳहो॒मुच॑व्ँ, वृष॒भय्ँ य॒ज्ञिया॑नाम् ।  
 अ॒पान् नपा॑तम्, अश्विना॒ हय॑न्तम्+++(←हय गतौ)+++  
 अ॒स्मिन् न॑र इन्द्रि॒यन् ध॑त्त॒म् ओजः॑  ॥
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/12_kAmyeShTi-mantrAH/02_pra_samrAjam.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 First lord of sacrifices [3],  
@@ -2351,6 +2355,11 @@ Do ye confer power and strength on this one.
 हे **अश्विनौ** युवामपि **अस्मिन्** यजमाने **इन्द्रियं** चक्षुरादि-दार्ढ्यं **ओजः** बलं च **प्रधत्तं** प्रकर्षेण स्थापयतम् ।  
 अत्रापि विशेषाकाङ्क्षायां प्रेति प्रकृतं सम्बध्यते, अंहसश्च मुक्तोस्त्विति ॥
 </details>
+</details>
+</div>
+
+
+
 
 ## वैमृधयागे  
 ### पुरोनुवाक्या
@@ -2358,13 +2367,17 @@ Do ye confer power and strength on this one.
 
 12इन्द्राय वैमृधाय पुरोडाशमेकादशकपालं निर्वपेद्यम्मृधोभि प्रवेपेरन्राष्ट्राणि वाभि समियुरिन्द्रमेव वैमृधम्' इत्यस्य पुरोनुवाक्या - वि न इन्द्रेत्यनुष्टुप् ॥ 
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/12_kAmyeShTi-mantrAH/03_vi_na.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 वि न॑ इन्द्र॒ मृधो॑+++(=योद्धॄन्)+++ जहि  
 नी॒चा य॑च्छ पृतन्य॒तः+++(←पृतना + क्यच्)+++ ।   
 अ॒ध॒स्-प॒दन् तम् ई᳚ङ् कृधि॒  
 यो अ॒स्माꣳ अ॑भि॒दास॑ति+++(←दसु उपक्षये)+++  ॥
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/12_kAmyeShTi-mantrAH/03_vi_na.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 Smite away our foes, O Indra;  
@@ -2385,6 +2398,11 @@ Who is hostile to us.
 किञ्च - **यो ऽस्मान् अभिदासति** अभिदासयति उपक्षयति । दसु उपक्षये, ण्यन्ताल्लेट्, 'छन्दस्युभयथा' इति शप आर्धधातुकत्वाण्णिलोपः, उदात्तनिवृत्तिस्वरो व्यत्ययेन न प्रवर्तते ।  
 **तम्** उपक्षय-कारीणम् **अधस् पदम्** एव **कृधि** कुरु । **ईम्** इत्यवधारणे । अस्मत्पादयोरधः प्रणिपतितशिरस्कं कुर्विति यावत् । 'बहुलं छन्दसि' इति शपो लुक्', श्रुशृणुपॄकृवृभ्यश्छन्दसि' इति धिभावः । 'अधश्शिरसी पदे' इत्यधश्शब्दस्य संहितायां सत्वम् ॥
 </details>
+</details>
+</div>
+
+
+
 
 ### याज्या
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -2639,13 +2657,17 @@ Zu grosser Macht und Herrschaft bist du, Indra, geboren als der Lebenden Gebiete
 
 14याज्याविकल्पः - मृगो नेति त्रिष्टुप् । 
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/12_kAmyeShTi-mantrAH/04_mRgo_na.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 **मृ॒गो** न भी॒मᳵ कु॑च॒रो गि॑रि॒ष्ठाᳶ  
 प॑रा॒वतः॒ [49] **आ ज॑गामा॒** पर॑स्याः ।  
 सृ॒कꣳ+++(←सृ|सृक्)+++ **स॒ꣳ॒शाय॑** प॒विम् इ॑न्द्र ति॒ग्मव्ँ  
 वि शत्रू᳚न् ताढि॒ वि मृधो॑+++(=योद्धॄन्)+++ **नुदस्व**  ॥
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/12_kAmyeShTi-mantrAH/04_mRgo_na.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 Like a dread beast, evil, roaming the mountains, He hath come from the furthest place [4];  
@@ -2670,19 +2692,28 @@ Smite the foes, drive away the enemy.
 
 स **त्वम्** इत्थमागत्य हे इन्द्र **सृकं** परशरीरादिषु सराशीलं **तिग्मं** प्राग् एव तीक्षणं **पविं** वज्रं **संशाय** निशिती-कृत्य तेनातितीक्ष्णेन शत्रून् **विताढि** विविधं ताडय । ताडयतेर् लोटि शपो लुक्, 'छन्दस्युभयथा' इत्यार्धधातुकत्वाण्णिलोपः । **मृधो** योद्धॄंश् च **विनुदस्व** विविधं नुद विनाशय ॥
 </details>
+</details>
+</div>
+
+
+
 
 ### याज्या
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 15अतश्च विकल्पः - वि शत्रूनित्यनुष्टुप् ॥ 
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/12_kAmyeShTi-mantrAH/05_vi_shatrUn.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 वि शत्रू॒न् वि मृधो॑ नुद॒  
 वि वृ॒त्रस्य॒ हनू॑ रुज ।   
 वि म॒न्युम् इ॑न्द्र भामि॒तो॑  
 ऽमित्र॑स्याभि॒दास॑तः  ॥
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/12_kAmyeShTi-mantrAH/05_vi_shatrUn.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 Drive away the foe, the enemy,  
@@ -2699,6 +2730,11 @@ Of him who is hostile to us.
 
 शत्रून् विविधं नाशय । मृधश्च योद्धॄन्विनुद विशेषतो नाशय । वृत्रस्यासुरस्य हनू विरुज विभिन्धि । वृत्रस्य वा मेघस्य हनुस्थानीये पार्श्वे विरुज विदारय वर्षार्थं याभ्यां वर्षन्ति मेघाः । हे इन्द्र अस्मानभिदासतः उपक्षयतः अमित्रस्य शत्रोर्मन्युं क्रोधं विनुद विनाशय भामितः अमित्रविषये क्रुद्धस्त्वम् ॥
 </details>
+</details>
+</div>
+
+
+
 
 ## त्रातृयागे 
 ### पुरोनुवाक्या
@@ -2706,13 +2742,17 @@ Of him who is hostile to us.
 
 16 'इन्द्राय त्रात्रे पुरोडाशमेकादशकपालं निर्वपेद्बद्धो वा परियत्तो वा' इत्यस्य पुरोनुवाक्या - त्रातारमिन्द्रमिति त्रिष्टुप् ॥ 
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/12_kAmyeShTi-mantrAH/06_trAtAram_indram.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 त्रा॒तार॒म् इन्द्र॑म् अवि॒तार॒म् इन्द्र॒ꣳ॒  
 हवे॑हवे सु॒हव॒ꣳ॒ शूर॒म् इन्द्र᳚म् ।   
 **हु॒वे** नु श॒क्रम् पु॑रुहू॒तम् इन्द्रꣵ॑  
 स्व॒स्ति नो॑ म॒घवा॑ **धा॒त्व्** इन्द्रः॑  ॥
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/12_kAmyeShTi-mantrAH/06_trAtAram_indram.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 The guardian Indra, the helper Indra,  
@@ -2729,19 +2769,28 @@ May Indra in his bounty bestow on us prosperity
 
 इदि परमैश्वर्ये, इन्द्रः । ऐश्वर्यहेतून्बहून्दर्शयति - त्रातारमवितारं देवानाम् ; 'तस्मादिन्द्रव्यपदेशभाजं अवितारं सर्वेषामपि तर्पयितारं इन्द्रं इतोपीन्द्रव्पदेशभाजम्, हवेहवे सुहवं सर्वेष्वाह्वानेषु सुखेनाह्वातव्यं निर्भयैः । 'भावेनुपसर्गस्य' इत्यप्सम्प्रसारणं च, 'बहुलं छन्दसि' इति सम्प्रसारणे आकारान्तत्वाभावात्खलेव भतति । शूरं महाबलं सर्वजेतारं तथाप्याहूतमात्र एवागच्छन्तं इन्द्रं इतोपीन्द्रशब्दाभिधेयं शक्रं सर्वार्थसाधनशक्तं पुरुहूतं बहुभिर्यजमानैराहूतं अतोप्यासादितेन्द्रत्वं देवेश्वरं हुवे आह्वयामि । शपो लुक्, 'पूर्ववत्सम्प्रसारणम् । नु इति पादपूरणे । स मघवाप्रशस्तैर्धनैः अन्नादिभिर्हविरादिभिश्च तद्वान् अतश्चेन्द्रपदाभिधानार्हः नोस्मभ्यं स्वस्ति अविनाशं धातु ददातु । शपो लुक् । 'मघवा बहुलम्' इति निपात्यते । 'इत्थम्भूतेन कृतमिति च' इति पुरुहूतशब्दोन्तोदात्तः । यद्वा - पुरुषु स्थानेषु दूतः पुरुहूतः । 'तृतीया कर्मणि' इति प्राप्त्यभावात् कृदुत्तरपदप्रकृतिस्वरत्वमेव निपात्यते । अत्र पुनःपुनः इन्द्रोक्तिरस्माकं सर्वार्थेषु त्वमेव शरणं नान्य इत्यादरसूचनार्था ॥
 </details>
+</details>
+</div>
+
+
+
 
 ### याज्या
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 17तत्रैव याज्या - मा ते अस्यामिति त्रिष्टुप् ॥ 
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/12_kAmyeShTi-mantrAH/07_mA_te.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 **मा** ते॑ अ॒स्याम् [50] सहसाव॒न्+++(←सहः)+++  
 परि॑ष्टाव्+++(=परितः)+++ अ॒घाय॑ **भूम** हरिवᳶ, परा॒दै+++(=परादातुम्)+++ ।   
 **त्राय॑स्व** नो ऽवृ॒केभि॒र् वरू॑थै॒स्+++(=गृहैः)+++  
 तव॑ **प्रि॒यास॑स्** सू॒रिषु॑ **स्याम**  ॥
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/12_kAmyeShTi-mantrAH/07_mA_te.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 May we not [5], O strong one, in this distress,  
@@ -2773,6 +2822,11 @@ May we be dear to you among the princes.
 
 किम्बहुना - **सूरिषु** मेधाविषु मध्ये वयम् एव तव **प्रियासः** प्रियास् स्याम भवेम । आज्जसेरसुक् । 'युष्मदस्मदोर्ङसि' इति तवशब्द आद्युदात्तः ॥
 </details>
+</details>
+</div>
+
+
+
 
 ## अर्काश्वमेधवद्यागे 
 ### पुरोनुवाक्या

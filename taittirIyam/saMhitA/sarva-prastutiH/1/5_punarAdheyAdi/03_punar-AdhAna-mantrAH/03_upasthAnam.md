@@ -51,13 +51,17 @@ _______
 
 8द्वितीया - सप्त त इति त्रिष्टुप्॥ 
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/03_upasthAnam/02_sapta_te.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 स॒प्त ते॑ अग्ने स॒मिध॑स्, स॒प्त जि॒ह्वास्  
 स॒प्त [11]  ऋष॑यस्, स॒प्त धाम॑ प्रि॒याणि॑ ।   
 स॒प्त होत्राः᳚, सप्त॒धा त्वा॑ यजन्ति,  
 स॒प्त **योनी॒र् आ पृ॑णस्वा घृ॒तेन॑**  ॥
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/03_upasthAnam/02_sapta_te.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 Seven are thy kindling-sticks, O Agni, seven thy tongues;  
@@ -74,3 +78,5 @@ Seven birthplaces with ghee do thou fill.
 
 हे **अग्ने** तव प्रियाणि **सप्त धामानि** स्थानानि भूरादयो लोकाः । 'सुपां सुलुक्' इति धाम्नो जसो लुक् । तेषु सप्तसु धामसु तव **सप्त समिधः** सम्यगिद्धास्तनवः । **सप्त जिह्वा** ज्याला याभिस्सप्तसु रसनास्वदनाय स्वादयसि **सप्त ऋषयः** दर्शयित्र्यः प्रकाशशक्तयः । यद्वा - **सप्तर्षयो** मन्त्राः सप्त धिष्ण्यविषयाः । **सप्त होत्राः** होत्रादयो वषट्-कर्तारः । ते त्वामेकं **सप्तधा यजन्ति** । स त्वं तथेष्टः **सप्त योनीः** स्थानानि भूरादीनि सप्त कारणानि घृतेनाज्येन उदकेन वा फलभूतेन **आपृणस्व** आप्रीणय । **पृण** प्रीणने ॥
 </details>
+</details>
+</div>

@@ -333,13 +333,17 @@ The path that leadeth to the gods, along it may the sacrifice go to the gods.
 
 इदनीं यज्ञस्य मार्ग उपदिश्यते - यो देवयानः पन्थाः येन पथा देवान् गच्छति देवत्वं वा प्राप्यते तेन पथायं यज्ञो देवानप्येतु तेन मार्गेण गत्वा देवाननुप्रविशतु ॥
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/03_bhaxyAnumantraNAdi/02_asmAsv_indra.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अ॒स्मास्व् इन्द्र॑ **इन्द्रि॒यन् द॑धात्व्**  
 अ॒स्मान् **राय॑** उ॒त +++(उत्तरा)+++ य॒ज्ञास् **स॑चन्ताम्** +++(←समवाये)+++ ।   
 अ॒स्मासु॑ **सन्त्व् आ॒शिष॒स्**,  
 सा नᳶ॑ प्रि॒या सु॒प्रतू᳚र्तिर् म॒घोनी॒॥
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/03_bhaxyAnumantraNAdi/02_asmAsv_indra.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 On us may Indra bestow power;  
@@ -359,6 +363,8 @@ To us be she dear, victorious, bountiful.
 
 यद्वा - सुष्ठु प्रकर्षेण च हिंसिका शत्रूणाम् । 'नसत्तनिषत्त' इति निपातनं निष्ठावद्भावात्क्तिनोपि भवति, 'क्रत्वादयश्च' इत्युत्तरपदाद्युदात्तत्वम् । मघोनी धनवती । 'छन्दसीवनिपौ' इति मत्वर्थीयो वनिः, 'ऋन्नेभ्यः' इति ङीप्, 'श्वयुवमघोनाम्' इति सम्प्रसारणम् । एवङ्गुणोस्माकं भव ॥
 </details>
+</details>
+</div>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जुष्टि॑र् असि - जु॒षस्व॑ नः।  
