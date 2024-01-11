@@ -74,7 +74,7 @@ Bestowing great radiance upon the Ksatriya.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अनि॑भृष्टमसि वा॒चो बन्धु॑स्तपो॒जाः ।
+अनि॑भृष्टम् असि वा॒चो बन्धु॑स् तपो॒जाः ।
 </details>
 
 <details><summary>मूलम्</summary>
