@@ -4,15 +4,7 @@ title = "8 The Rajasuya"
 +++
 
 ## 12
-### k
-
-
-### l
 ### m
-Gold hued in the glowing of the dawns,  
-Bronze pillared at the rising of the sun,  
-O Varuna, O Mitra, mount your chariot seat,  
-And thence behold ye Aditi and Diti.
 ## 13
 ### a
 Do I thou mount the kindling (quarter); let the Gayatri of metres help thee; the Trivrt Stoma, the Rathantara Saman, the deity Agni, the treasure the Brahman class.

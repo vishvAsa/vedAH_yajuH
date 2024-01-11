@@ -497,12 +497,20 @@ Protect me in front, protect me at the side, protect me from behind; from the qu
 </details>
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
-हिर॑ण्यवर्णाव् उ॒षसा᳚व्ँ विरो॒के  
-ऽय॑स् स्थूणा॒व् उदि॑तौ॒ सूर्य॒स्य ।   
-आरो॑हतव्ँ वरुण मित्र॒ गर्त॒न्  
+हिर॑ण्य-वर्णाव् उ॒षसा᳚व्ँ विरो॒के  
+ऽय॑स्-स्थूणा॒व् **उदि॑तौ॒** सूर्य॒स्य ।   
+**आरो॑हतव्ँ** वरुण मित्र॒ गर्त॒न्  
 तत॑श् चख्षाथा॒म् अदि॑ति॒न् दिति॑ञ् च ॥ [23]
+</details>
+
+<details><summary>Keith</summary>
+
+Gold hued in the glowing of the dawns,  
+Bronze pillared at the rising of the sun,  
+O Varuna, O Mitra, mount your chariot seat,  
+And thence behold ye Aditi and Diti.
 </details>
 
 <details><summary>मूलम्</summary>
