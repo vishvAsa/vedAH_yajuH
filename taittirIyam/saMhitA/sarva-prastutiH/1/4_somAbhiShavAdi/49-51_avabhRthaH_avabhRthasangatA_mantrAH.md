@@ -336,17 +336,21 @@ _______
 
 4अप्सु बर्हिः प्रास्यति - अग्नेरनीकमिति त्रिपदया विराजा ॥ 
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/49-51_avabhRthaH_avabhRthasangatA_mantrAH/02_agner_anIkam.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अग्नेर् अनी॑कम् **अ॒प आ वि॑वेश** ।  
 अपा᳚न्नपात्! प्रति॒-रख्ष॑न्न् +++(वरुणस्य)+++ असु॒र्य॑न्+++(=असुरस्वं)+++ ....    
 दमे॑+++(=यज्ञागारे)+++-दमे [49] **स॒मिध॑य्ँ यख्ष्य्** अग्ने  ॥
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/49-51_avabhRthaH_avabhRthasangatA_mantrAH/02_agner_anIkam.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 The face of Agni hath entered the waters,  
 The child of the waters guarding against the demons' power,  
-In each home [1] do thou offer the kindling-stick, O Agni;  
+In each home [1] do thou offer the kindling-stick, O Agni;
 </details>
 <details><summary>मूलम्</summary>
 
@@ -360,6 +364,11 @@ In each home [1] do thou offer the kindling-stick, O Agni;
 
 **अग्नेस्** तवानीकं सुखं **अपः** अब्रूपं आविवेश । तस्माद् **असुर्यं** असुरस्य स्वं असुरैः क्रियमाणं यज्ञविघातं **प्रतिरक्षन्** प्रतिनिवारयन् तत्प्रतिनोदेनास्मान् रक्षन् **दमेदमे** यज्ञगृहेयज्ञगृहे यागेयाग इत्यर्थः । समिधं समित्स्थानीयं तव समिन्धनं इदं बार्हिः हे अग्ने यक्षि स्वीकुरु तेन सङ्गतो भव । सङ्गतिकरणे यजिः, लेटि 'बहुलं च्छन्दसि' इति शपो लुक् ॥
 </details>
+</details>
+</div>
+
+
+
 
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -432,11 +441,15 @@ _______
 
 8ता अप्सु जुहोति - यज्ञस्येति द्विपदया त्रिष्टुभा ॥ 
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/49-51_avabhRthaH_avabhRthasangatA_mantrAH/03_yajnasya_tvA.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 य॒ज्ञस्य॑ त्वा यज्ञपते ह॒विर्भिः॑  
 सूक्तवा॒के न॑मोवा॒के वि॑धे॒म ॥
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/49-51_avabhRthaH_avabhRthasangatA_mantrAH/03_yajnasya_tvA.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 With the offerings of the sacrifice, O lord of the sacrifice,  
@@ -451,6 +464,11 @@ Let us worship at the utterance of the hymn, at the utterance of homage.
 
 हे यज्ञपते यजमान यज्ञस्य सूक्तवाके सूक्तवाकप्रतिष्ठे फले नमोवाके नमोवाकप्रतिष्ठे फले त्वां विधेम स्थापयामः । स्थापनकर्मात्र विदधातिः । हविर्भिराभिरद्बिः अप्सु हूयमानाभिः विधेमेति ॥
 </details>
+</details>
+</div>
+
+
+
 
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -481,20 +499,23 @@ O bath, O flood, thou glidest
 
 **निचेरुर् असि** निभृतं चरसीति, निभृतं वा चरत्य् अस्मिन्नित्यौणादिके उप्रत्यये छान्दसमेत्वम् । अत्वरं क्रियमाणोसीत्यर्थः, निगूढचरद्रव्याभिप्रायं वा ।  
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/49-51_avabhRthaH_avabhRthasangatA_mantrAH/04_nichankuNa_ava.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 नि॒च॒ङ्कु॒ण! **+अव॑** दे॒वैर्  
 दे॒व-कृ॑त॒म् **एनो॑ ऽया॒ड्**+++(←[अव]यज् = विनाशयेः)+++  
 **अव॒** मर्त्यै॒र् मर्त्य॑-कृतम् ।
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/49-51_avabhRthaH_avabhRthasangatA_mantrAH/04_nichankuNa_ava.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
-O flood; thou hast removed by sacrifice the sin committed by the gods, through the gods, the sin committed by mortals, through mortals; 
+O flood; thou hast removed by sacrifice the sin committed by the gods, through the gods, the sin committed by mortals, through mortals;
 </details>
 <details><summary>मूलम्</summary>
 
 नि॒च॒ङ्कु॒णाव॑  दे॒वैर्दे॒वकृ॑त॒मेनो॑ऽया॒डव॒ मर्त्यै॒र्मर्त्य॑कृतम् ।
-
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -502,6 +523,8 @@ O flood; thou hast removed by sacrifice the sin committed by the gods, through t
 
 तिरोहितद्रव्याभिप्रायम् । यद्वा - कण निमीलने, छान्दसमुत्वम् । कण गतौ वा । यन्नाम किञ्चिद्देवकृतं देवेषु कृतमस्माभिरेनः पापं सम्यगनुष्ठानाभावनिमित्तम् । सप्तमीपूर्वपदप्रकृतिस्वरत्वम् । तत्सर्वं देवैस्सह **अवायाट्** अवाक्षीः अवयज विनाशयेत्यर्थः । अवयजिर्विनाशे वर्तते । यच्च मर्त्यकृतं मर्त्येष्पु कृतं पापम् । पूर्ववत्स्वरः । तच्च मर्त्यैस्सहावयज । यजेश्छान्दसे लुङि सिचिवृद्धौ 'बहुळं छन्दसि' इति तदभावः ।
 </details>
+</details>
+</div>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ॒रोर् आ नो॑ देव रि॒षस्+++(←रिष् हिंसायां)+++ पा॑हि ।
@@ -570,12 +593,16 @@ _______
 
 12ऋजीषम् अप्सु प्लावयति - देवीराप इति ॥
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/49-51_avabhRthaH_avabhRthasangatA_mantrAH/05_devIr_Apa.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 देवी॑र् आप **ए॒ष वो॒ गर्भ॒स्** -  
 तव्ँ व॒स् सुप्री॑त॒ꣳ॒ **सुभृ॑तम् अकर्म**।  
 दे॒वेषु॑ नस् **सु॒कृतो᳚ ब्रूतात्** ।
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/49-51_avabhRthaH_avabhRthasangatA_mantrAH/05_devIr_Apa.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 Ye divine waters, this is thy foetus, glad and well tended have we made it for you; proclaim us as doers of good deeds among the gods.
@@ -588,6 +615,11 @@ Ye divine waters, this is thy foetus, glad and well tended have we made it for y
 
 हे देवीः देव्यः पः । पूर्ववद्दीर्घः, 'विभाषितं विशेषवचने बहुवचनम्' इति प्रथमस्याविद्यमानवत्त्वनिषेधाद्द्वितीयं निहन्यते । एष ऋजीषाख्यो वो युष्माकं गर्भः युष्मत्प्रभवः । अतस्तं वः युष्मदर्थं सुप्रीतं युष्माकं सर्वलोकस्य अतिशयेन प्रीतिकरं सुभृतं सुष्ठु गुप्तं च अकर्म कृतवन्तो वयम् । 'मन्त्रे घस' इति च्लेर्लुक्, 'गतिरनन्तरः' इति गतेः प्रकृतिस्वरत्वम् । अतोस्मानपि यूयं देवेषु सुकृतस्स्ष्ठुकर्म कृतवन्तो ब्रूतात् ब्रूत । 'तस्य तात्' इति तादादेशः ॥
 </details>
+</details>
+</div>
+
+
+
 
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>

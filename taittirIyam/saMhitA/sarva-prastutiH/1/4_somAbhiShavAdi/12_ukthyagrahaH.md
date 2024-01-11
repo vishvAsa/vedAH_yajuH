@@ -95,9 +95,9 @@ quicken the lord of the sacrifice;
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒भि सव॑ना **पाहि** ।  
-विष्णु॒स् त्वाम् **पा॑तु** ।  
-विश॒न् त्वम् **पा॑हीन्द्रि॒येण॑**।
+अ॒भि सव॑ना पाहि ।  
+विष्णु॒स् त्वाम् पा॑तु ।  
+विश॒न् त्वम् पा॑हीन्द्रि॒येण॑।
 </details>
 <details><summary>Keith</summary>
 
@@ -144,19 +144,23 @@ this is thy birthplace; to the All-gods thee!
 </details>
 </details>
 </div>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/12_ukthyagrahaH/02_indrAya_tvA.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 इन्द्रा॑य त्वा +++(बृहता साम्ना पृष्ठाख्येन)+++ बृ॒हद्-व॑ते॒  
 वय॑स्वत उक्था॒युवे॑+++(=उक्थ-कामाय)+++ ।   
 यत् त॑ इन्द्र बृ॒हद्-वय॒स्  
 तस्मै᳚ त्वा॒ विष्ण॑वे त्वा ॥
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/12_ukthyagrahaH/02_indrAya_tvA.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 To Indra thee, to him of the Brhat (Saman),  
 The strong, eager for praise.  
 Thy great strength, O Indra,  
-To that thee! To Visnu thee! 
+To that thee! To Visnu thee!
 </details>
 <details><summary>मूलम्</summary>
 
@@ -169,6 +173,11 @@ To that thee! To Visnu thee!
 **वयस्वते** अन्नवते ।  
 **उक्थायुवे** उक्थं शस्त्रं कामयमानाय । 'क्याच्छन्दसि' इत्युप्रत्ययः, 'न च्छन्दस्यपुत्रस्य' इतीत्वाभावः । 'जसादिषु वा वचनम्' इति 'घेर्ङिति' इति गुणाभावः । हे इन्द्र तव बृहत् प्रभूतं यद्वयः अन्नं सोमलक्षणं गृह्यमाणं तस्मै तदर्थं तत्पानार्थं त्वां प्रार्थयामह इति शेषः । विष्णवे व्यापकाय तस्मै वयसे त्वां प्रार्थयामह इति । यद्वा - हे सोम विष्णवे भगवते च त्वां गृह्णामीत्येव शेषः । अत्र विष्णुर्ग्रहणकाल एव देवता । यागकाले तु मित्रावरुणाविन्द्राग्नी च । विष्णुर्हि वृत्रवधे साहाय्यकमिन्द्रस्याचरत् । 'यदेव विष्णुरन्वतिष्ठत जहीति तस्माद्विष्णुमन्वाभजति' इति ब्राह्मणम् । इन्द्रस्य सखा विष्णुः तस्मै तदर्थं तत्प्रीत्यर्थं इन्द्राय त्वां गृह्णामीति ॥
 </details>
+</details>
+</div>
+
+
+
 
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>

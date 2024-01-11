@@ -1047,12 +1047,16 @@ _______
 
 5'अग्नये रसवतेजक्षीरे चरुं निर्वपेद्यः कामयेत रसवान् स्याम्' इत्यस्य पुरोनुवाक्या- अग्ने रसेनेति गायत्री ॥ 
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/52_kAmyeShTiyAjyApuronuvAkyAH/02_agne_rasena.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अग्ने॒ रसे॑न॒ तेज॑सा॒  
 जात॑वेदो॒ वि रो॑चसे ।  
 र॒ख्षो॒हा ऽमी॑व॒+++(=आभ्यन्तर-रोग)+++-चात॑नः+++(=शातनः)+++  ॥
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/52_kAmyeShTiyAjyApuronuvAkyAH/02_agne_rasena.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 O Agni, O wise one, with sap,  
@@ -1070,6 +1074,11 @@ Slayer of Raksases, suppressor of demons.
 
 इदं चास्त्वित्याह - **रक्षोहा** रक्षसां **हन्ता अमीव-चातनः** अमीवानाम् आभ्यन्तर-रोगाणां च नाशयितास्माकं भव । क्षीरादिरससमृद्धिमस्माकं कुरु तद्भोगविघ्नहेतूंश्च रक्षःप्रभृतीन् सर्वांश्च रोगान्नाशयेत्यभिप्रायः ॥
 </details>
+</details>
+</div>
+
+
+
 
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -1122,12 +1131,16 @@ _______
 
 7'अग्नये वसुमते पुरोडाशमष्टाकपालं निर्वपेद्यः कामयेत वसुमान् स्याम्' इत्यस्य पुरोनुवाक्या - वसुर्वसुपतिरिति गायत्री ॥ 
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/52_kAmyeShTiyAjyApuronuvAkyAH/03_vasur_vasupatir.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 **वसु॒र्** वसु॑पति॒र् हिक॒म्+++(=यस्मादेवम्??)+++  
 **अस्य्** अ॑ग्ने वि॒-भा-व॑सुः ।  
 **स्याम॑** ते **सुम॒ताव्** अपि॑  ॥
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/52_kAmyeShTiyAjyApuronuvAkyAH/03_vasur_vasupatir.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 Rich art thou, lord of riches,  
@@ -1143,6 +1156,11 @@ May we enjoy thy loving kindness.
 
 हे **अग्ने** वसुर्वासयिता सर्वस्य लोकस्य **वसुपतिः** धनानां स्वामी चात एव वासयिता इर्दृशस्त्वमसि । किञ्च - **विभावसुस्** तेजोधनश् च त्वम् **असि** दातासि धनानाम् इत्य् अर्थः । **हिकं** यस्माद् एवं तस्मात् **ते** तव **सुमतौ** कल्याण्यामनुग्रहबुद्धौ वयं **स्याम** भूयास्म । अपिशब्दाद्वसुमन्तश्च स्याम । 'मन्क्तिन्व्याख्यान' इत्युत्तरपदान्तोदात्तत्वम् । यद्वा - क्तिचि कृदुत्तरपदप्रकृतिस्वरत्वम् । क्तिन्येव वा 'तादौच निति' इत्येतद्बाधित्वाकृदुत्तरपदप्रकृतिस्वरत्वम् । उत्तरपदे वा 'मन्त्रे वृष्' इति क्तिन उदात्तत्वम् ॥
 </details>
+</details>
+</div>
+
+
+
 
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -1656,13 +1674,17 @@ _______
 
 10तत्रैव याज्या - अयं न इति त्रिष्टुप् ॥ व्याख्याता चेयं 'त्वं सोम' इत्यत्र । 
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/52_kAmyeShTiyAjyApuronuvAkyAH/04_ayan_no.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अ॒यन् नो॑ अ॒ग्निर् **वरि॑वᳵ+++(=अवकाशं)+++ कृणोत्व्**  
 अ॒यम् **मृधᳶ॑ पु॒र ए॑तु** प्रभि॒न्दन्न् ।  
 अ॒यꣳ **शत्रू᳚ञ् जयतु॒** जर्हृ॑षाणो॒  
 ऽयव्ँ **वाज॑ञ् जयतु॒** वाज॑-सातौ+++(←सन् दाने)+++  ॥
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/52_kAmyeShTiyAjyApuronuvAkyAH/04_ayan_no.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 May Agni here make room for us;  
@@ -1679,6 +1701,11 @@ May he win booty in the contest for booty.
 
 अयमग्निरस्माकं वरिवो धनं कृणोतु । अयं मृधस्सङ्ग्रामान् प्रभिन्दन् पुरस्तादेतु । अयं जर्हृषाणस्सङ्ग्रामजयेन हृष्टान्तःकरणश्शत्रून् जयतु । अयं वाजमन्नं नयतु वाजसातौ वाजलाभहेतौ सङ्ग्रामे इति ॥
 </details>
+</details>
+</div>
+
+
+
 
 ## अग्निवद्यागे
 _______
@@ -1686,12 +1713,16 @@ _______
 
 11'अग्नयेग्निवते पुरोडाशमष्टाकपालं निर्वपेद्यस्याग्नावग्निमभ्युद्धरेयुः' इत्यस्य पुरोनुवाक्या - अग्निनाग्निरिति गायत्री ॥
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/52_kAmyeShTiyAjyApuronuvAkyAH/05_agninAgnis_samidhyate.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अ॒ग्निना॒ग्निस् **समि॑ध्यते**  
 क॒विर् गृ॒हप॑ति॒र् युवा᳚ ।    
 ह॒व्य॒-वाड्+++(←वह्)+++ जु॒ह्वा᳚स्यः  ॥
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/52_kAmyeShTiyAjyApuronuvAkyAH/05_agninAgnis_samidhyate.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 By Agni is Agni kindled,  
@@ -1707,6 +1738,11 @@ The bearer of the oblation, with ladle in his mouth.
 
 अग्निनाभ्युद्दृतेनायमग्निः पूर्वोद्धृतः समिध्यते सम्यगेव इध्म उद्वायते [सम्यगेव इध्यते] । कविर्मेधावी गृहपतिर्गृहस्य पतिस्स्वामी । युवा नित्यतरुणः, हविर्भिर्वा देवानामात्मनश्च मिश्रयिता । हव्यवाट् हविषां वोढा । 'वहश्च' इति ण्विः । जुह्वास्यः जुहूरास्यस्थानीया यस्य । सोयमेवं गुणोग्निरभ्युद्धरणदोषमुपशमयत्विति शेषः ॥
 </details>
+</details>
+</div>
+
+
+
 
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>

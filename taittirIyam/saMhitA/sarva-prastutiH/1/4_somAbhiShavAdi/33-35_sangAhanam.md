@@ -47,6 +47,7 @@ Be fullest of help for us.
 ## अवगाहनम्
 
 गायत्री। सोमऋषिः
+
 <div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/113/11_IyuShTe_ye.md">
 <details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
 
@@ -359,6 +360,7 @@ Verschwunden sind die Menschen, welche schauten die Morgenröthe, die da früher
 ## ओषणम्
 
 सोमऋषिः
+
 
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/33-35_sangAhanam/jyotiShmantaM.md">

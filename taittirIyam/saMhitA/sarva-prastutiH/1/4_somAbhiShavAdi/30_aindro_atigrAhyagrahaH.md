@@ -9,12 +9,16 @@ _______
 
 1अथैन्द्रं गृह्णाति - उत्तिष्ठन्निति गायत्र्या ॥ 
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/30_aindro_atigrAhyagrahaH/02_uttiShThann_ojasA.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 उ॒त्तिष्ठ॒न्न् ओज॑सा स॒ह  
 पी॒त्वा, **शिप्रे॑+++(=हनू)+++ अवेपयः** ।  
 सोम॑म् इन्द्र च॒मू+++(←चमु अदने)+++ सु॒तम् ॥
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/30_aindro_atigrAhyagrahaH/02_uttiShThann_ojasA.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 Arising in might,  
@@ -32,6 +36,8 @@ When thou hadst drunk the cup-pressed Soma.
 
 चमु छमु अदने, औणादिक ऊप्रत्ययः ॥
 </details>
+</details>
+</div>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/10_AgrayaNagrahaH/upayAmagRhItaH.md">
 <details open><summary><h5>उपयामगृहीतः ...{Loading}...</h5></summary>
 <details><summary>भास्करोक्त-विनियोगः</summary>

@@ -9,13 +9,17 @@ _______
 
 1अतः परं षोडशिग्रहणमन्त्राः पूर्वैस्सह विकल्प्यन्ते । तत्र प्रथमा - सर्वस्येत्यनुष्टुप् ॥ 
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/41_ShoDashigrahaH/02_sarvasya_pratishIvarI.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 सर्व॑स्य प्रति॒शीव॑री॒+++(←शी शयने)+++  
 **भूमि॑स् +++(इन्द्र!)+++ त्वो॒पस्थ॒ आऽधि॑त**+++(←धा)+++ ।  
 +++(पृथिवि!)+++ स्यो॒नास्मै॑ **सु॒-षदा॑ भव॒**  
 **यच्छा᳚स्मै॒ शर्म॑** स॒-प्रथाः᳚+++(=विस्तारा)+++ ॥
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/41_ShoDashigrahaH/02_sarvasya_pratishIvarI.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 Earth, covering all,  
@@ -37,10 +41,20 @@ Grant him protection, extending wide.
 
 किञ्च - अस्मै **शर्म** शरणं सुखं वा यच्छ देहि । **सप्रथाः** सर्वत्र प्रथिता विस्तीर्णा । छान्दसस्सवर्स्य सभावः । प्रथया सहितेति वा । बहुव्रीहौ 'परादिश्छन्दसि बहुलम्' इत्युत्तरपदाद्युदात्तत्वम् ॥
 </details>
+<details><summary>मूलम् (संयुक्तम्)</summary>
+
+उ॒प॒या॒मगृ॑हीतो॒ऽसीन्द्रा॑य त्वा षोड॒शिन॑ ए॒ष ते॒ योनि॒रिन्द्रा॑य त्वा षोड॒शिने᳚ ॥
+</details>
+</details>
+</div>
+
+
+
 
 
 
 _______
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/38_ShoDashigrahaH/upayAma-gRhItaH.md">
 <details open><summary><h5>उपयाम-गृहीतः ...{Loading}...</h5></summary>
 <details><summary>मूलम् (संयुक्तम्)</summary>
