@@ -636,13 +636,17 @@ _______
 
 3'अग्नये सुरभिमते पुरोडाशम् अष्टाकपालं निर्वपेद् यस्य गावो वा पूरुषा वा प्रमीयेरन् यो वा बिभीयात्' इत्यस्य पुरोनुवाक्या - अग्निर्होतेति त्रिष्टुप् ॥
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/14_kAmyeShTiyAjyApuronuvAkyAH/02_agnir_hotA.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अ॒ग्निर् होता॒ निष॑सादा॒ यजी॑यान्  
 उ॒पस्थे॑ मा॒तुस् सु॑र॒भाव् उ॑ लो॒के ।  
 युवा॑ क॒विᳶ पु॑रुनि॒ष्ठ ऋ॒तावा॑  
 ध॒र्ता कृ॑ष्टी॒नाम् उ॒त मध्य॑ इ॒द्धः ॥
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/14_kAmyeShTiyAjyApuronuvAkyAH/02_agnir_hotA.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 Agni hath set him down as priest, good sacrificer,  
@@ -659,6 +663,11 @@ Supporter of the folk in whose midst he is kindled.
 
 होता देवानामाह्वाता । पूर्ववत्सम्प्रसारणम् । यजीयान् यष्टृतमः मानुषाद्धोतुः । ' तुश्छन्दसि' इति यष्टृशब्दादीयसुन्प्रत्ययः, 'तुरिष्ठेमेयस्सु' इति टिलोपः । युवा नित्यतरुणः । कविर्मेधावी । पुरुनिष्ठः प्रुषु बहुषु स्थानेषु स्थितः । 'आतश्चोपसर्गे' इति कः, थाथादिस्वरेणोत्तरपदान्तोदात्तत्वम् । ऋतावा ऋतवान् यज्ञवान् । 'छन्दसीवनिपौ' इति वनिप्प्रत्ययः, 'अन्येषामपि दृश्यते' इति दीर्घः । धर्ता धारयिता कृष्टीनां मनुष्याणाम् । 'नामन्यतरस्याम्` इति नाम उदात्तत्वम् । उत अपि च मध्ये तेषां मनुष्याणां हृदये इद्धः दीप्तः । एवं सर्वोपकारी सर्वसद्गुणान्वितोऽयमग्निः मातुः मातृस्थानीयाया वेदेः, निर्मात्र्या वा श्रेयसामुपस्थे उपस्थस्थानीये उत्सङ्गसदृशे सुरभौ शोभनहविर्गन्धयुक्ते लोके आलोकवति अस्मिन्प्रदेशे निषसाद निषीदति । 'छन्दसि लुङ्लङ्लिटः' इति लिट् । सोयमस्माकं भेषजं करोत्विति भावः । 'एषा वा अस्य भेषज्या तनूर्यत्सुरभिमती' इति ब्रह्मणम् ॥
 </details>
+</details>
+</div>
+
+
+
 
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -1529,12 +1538,16 @@ _______
 
 7'अग्नये कामाय पुरोडाशम् अष्टाकपालं निर्वपेद् यं कामो नोपनमेत्' इत्यस्य पुरोनुवाक्या - तुभ्यं ता इति गायत्री ॥ 
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/14_kAmyeShTiyAjyApuronuvAkyAH/03_tubhyan_tA.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 तुभ्य॒न् ता अ॑ङ्गिरस्तम॒  
 विश्वाः᳚ सुख्षि॒तय॒ᳶ पृथ॑क् ।      
 अग्ने॒ कामा॑य येमिरे+++(←यम्)+++ ॥
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/14_kAmyeShTiyAjyApuronuvAkyAH/03_tubhyan_tA.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 To thee, best of Angirases,  
@@ -1552,6 +1565,11 @@ O Agni, have turned to gain their wish.
 
 हे अग्ने तुभ्यं ताः प्रसिद्धाः विश्वास्तुक्षितयः शोभना क्षितिर्गतिर्यासां ताः प्रजाः । 'नञ्सुभ्याम्' इत्युत्तरपदान्तोदात्तत्वम् । यद्वा - शोभनं क्षयन्ति वसन्तीति सुक्षितयो मनुष्याः । 'मन्क्तिन्व्याख्यान' इत्युत्तरपदान्तोदात्तत्वम् । पृथक्कामाय नानाविधेभ्यः कामेभ्यः कामसिद्धये **येमिरे** यमन्ति त्वामाराधयितुमात्मानं विषयेभ्यो व्यावर्तयन्ति । व्यत्ययेनात्मनेपदम् । यद्वा - पृथग्यमयन्ति नानाविधैरुपायैरात्मानं यमयन्ति त्वामाराधयितुम् । तस्माद्वयमप्यस्मत्कामसिद्धये त्वामेव भजामह इति भावः । 'स एवैनं कामेन समर्धयत्युपैनं कामो नमति' `इति ब्राह्मणम् ॥
 </details>
+</details>
+</div>
+
+
+
 
 
 _______
@@ -2369,20 +2387,23 @@ _______
 
 11'अग्नय आयुष्मते पुरोडाशम् अष्टाकपालं निर्वपेद् - यः कामयेत सर्वम् आयुर् इयाम्' इत्य् अस्य पुरोनुवाक्या - आयुष्ट इत्यनुष्टुप् ॥ 
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/14_kAmyeShTiyAjyApuronuvAkyAH/04_AyuShTe_vishvato.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 आयु॑ष्टे वि॒श्वतो॑ दधद्  
 अ॒यम् अ॒ग्निर् वरे᳚ण्यः ।  
 पुन॑स् ते प्रा॒ण आय॑ति॒  
 परा॒ यख्ष्मꣳ॑ सुवामि ते ॥
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/14_kAmyeShTiyAjyApuronuvAkyAH/04_AyuShTe_vishvato.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 May he give thee life on every side,  
 Agni here, the desirable.  
 Let thy breath come back to thee;  
 I drive away the disease from thee.
-
 </details>
 <details><summary>मूलम्</summary>
 
@@ -2393,6 +2414,11 @@ I drive away the disease from thee.
 
 हे यजमान अयमग्निर्वरेण्यः वरणीयः । 'वृञ एण्यः', वृषादित्वादाद्युदात्तत्वम् । ते तुभ्यं विश्वतः विश्वमायुर्दधत् दधातु । 'इतराभ्योपि दृश्यन्ते' इति द्वितीयान्तात्तसिल् । दधातेर्लेटि 'लेटोडाटौ' इत्यडागमः, 'घोर्लोपो लेटि वा' इत्याकारलोपः । 'युष्मत्तत्ततक्षुष्वन्तःपादम्' इति संहितायां आयुस्सकारस्य षत्वम् । यदायं प्रसीदति तदानीं गतोपि प्राणः पुनरायति पुनराभिमुख्येनास्मान्प्राप्नोति । इ गतौ भौवादिक उदात्तेत् । यद्वा - पुनरपि त्वदीयः प्राण आयात्वस्य प्रसादेन । अहमपि तदर्थं त्वदीयं शत्रुपक्षं परासुवामि नाशयामि । षू प्रेरणे तौदादिक उदात्तेत् । 'स एवास्मिन्नायुर्दधाति' `इति ब्राह्मणम् ॥
 </details>
+</details>
+</div>
+
+
+
 
 ##  आयुष्मद्यागः
 
@@ -2458,18 +2484,21 @@ _______
 
 13'अग्नये जातवेदसे पुरोडाशम् अष्टाकपालं निर्वपेद् भूतिकामः' इत्यस्य पुरोनुवाक्या - तस्मै त इति गायत्री ॥ 
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/14_kAmyeShTiyAjyApuronuvAkyAH/05_tasmai_te.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 तस्मै॑ ते प्रति॒हर्य॑ते॒  
 जात॑वेदो॒ विच॑र्षणे ।  
 अग्ने॒ जना॑मि सुष्टु॒तिम् ॥
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/14_kAmyeShTiyAjyApuronuvAkyAH/05_tasmai_te.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 To thee, the eager one,  
 O knower of all, O active one,  
 Agni, I offer this fair praise.
-
 </details>
 <details><summary>मूलम्</summary>
 
@@ -2486,6 +2515,11 @@ Agni, I offer this fair praise.
 
 **जातवेद** इत्यस्यामन्त्रितस्याप्यविद्यमानवत्त्वात् **विचर्षण** इत्येतदपि न निहन्येत् । अग्ने इत्यस्याविद्यमामत्वात् जनामीति तिङन्तं न निहन्यते । 'मन् क्तिन् व्याख्यान' इति । सुष्टुतिशब्दस्यान्तोदात्तत्वम् । अन्ये खलु दुराराधाः स्तुतिमपि न गृह्णन्ति, त्वं तु स्तुतिं च प्रतिगृह्णासि, ददासि चेप्सितानि । तस्मात् स्तुतिप्रियाय ते स्तुतिं जनयामि । त्वं च तां प्रतिगृह्य यजमानं भूतिं गमयेति भावः । 'स एवैनं भूतिं गमयति भवत्येव' `इति ब्राह्मणम् ॥
 </details>
+</details>
+</div>
+
+
+
 
 
 _______
@@ -2746,6 +2780,7 @@ Erzeugt zuerst ward Agni aus dem Himmel, von uns zum zweiten als der Wesenkenner
 
 
 ## रुक्मवद्-यागः
+
 
 
 <div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/007/04_shuchiH_pAvaka.md">
@@ -4534,13 +4569,17 @@ _______
 
 22तत्रैव याज्या - वद्मा हीति त्रिष्टुप् ॥ 
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/14_kAmyeShTiyAjyApuronuvAkyAH/06_vadmA_hi.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 **व॒द्मा**+++(←वद्)+++ हि सू॑नो॒ **अस्य्** अ॑द्म॒+++(←अद्)+++-सद्वा॑+++(←सद् + वनिप्)=+++  
 **च॒क्रे अ॒ग्निर्** ज॒नुषा ऽज्म+++(←गतौ)++++अन्न᳚म् ।   
 स त्वन् न॑ ऊर्ज-सन॒ **ऊर्ज॑न् धा॒**  
 राजे॑व **जेर्** अवृ॒के, **ख्षे᳚ष्य्** अ॒न्तः ॥
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/14_kAmyeShTiyAjyApuronuvAkyAH/06_vadmA_hi.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 For thou art, O son, a singer, seated at the feast;  
@@ -4575,6 +4614,11 @@ Be victorious like a king; thou rulest within without a foe.
 
 किञ्च - **अवृके**, वृका हिंसकाः कामक्रोधादयः, तद्रहिते पुरुषे स्वात्मनिरते **अन्तः** मध्ये तदीये हृदये **क्षेषि** क्षयसि निवससि तमनुगृहीतुम् । क्षि निवासगत्योः, पूर्ववच्छपो लुक् । स त्वं यजमानमन्नवन्तं कुर्विति ॥
 </details>
+</details>
+</div>
+
+
+
 
 ## पवमानयागः
 

@@ -313,13 +313,17 @@ Ye wealthy ones, do ye kindly resort to the lord of the sacrifice.
 यद्वा - व्यत्ययेन असङ्ख्याया अपि विधार्थे धाप्रत्ययः । प्रियप्रकारेणेत्यर्थः । यज्ञदेवता वा यज्ञपतिस्तां प्रीतिर्पूवकं भक्ष्यत्वेन सयुग्भावेन वा आविशत ।   
 यद्वा - सर्वे पशव उच्यन्ते - वयमस्माकमेको हन्तुं नीयत इति उद्वेगं मा कार्ष्ट । यजमानस्योपभोगाय प्रीतिपूर्वकं तस्मिन्वर्तध्वम् ।
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/08_pashu-vishasanAdi/02_uro_antarikhSha.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 उरो॑ अन्तरिख्ष!  
 स॒जूर् दे॒वेन॑ वाते॑ना॒  
 ऽस्य ह॒विष॒स् त्मना॑+++(=जीवेन)+++ यज।  
 सम् अ॑स्य त॒नुवा॑ भव।
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/08_pashu-vishasanAdi/02_uro_antarikhSha.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 O broad atmosphere,  
@@ -331,7 +335,6 @@ be united with its body
 
 उरो॑ अन्तरिख्ष स॒जूर्दे॒वेन॑  +++(रुद्र -११ अक्षराणि)+++  ।  वाते॑ना॒ऽस्य ह॒विष॒स्त्मना॑ यज  +++( ईश- ११ अक्षराणि)+++  
 सम॑स्य त॒नुवा॑ भव  +++(वसु ८ अक्षराणि)+++ ।
-
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -343,6 +346,8 @@ be united with its body
 
 किञ्च - अस्य पशोस्तन्वा शरीरेण सम्भव संयुजस्व । देवभूयस्याप्यस्य पशोश्शरीरं मा हिंसीः ।
 </details>
+</details>
+</div>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वर्षी॑यो॒ वर्षी॑यसि य॒ज्ञे य॒ज्ञप॑तिन्धाः ।  
@@ -461,13 +466,17 @@ _______
 
 15अपोवेक्षमाणां पत्नीं वाचयति - आपो देवीरिति चतुष्पदयानुष्टुभा विद्युन्मालया ॥ 
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/08_pashu-vishasanAdi/03_Apo_devIsh.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 आपो॑ देवीश् शुद्धायुवश्  
 शु॒द्धा यू॒यन् दे॒वाꣳ ऊ᳚ड्ढ्वम् ।    
 शु॒द्धा व॒यम् +++(भवतीभिः)+++ परि॑विष्टाᳶ  
 +++(युष्मत्-)+++परिवे॒ष्टारो॑ वो भूयास्म ॥ [15]
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/08_pashu-vishasanAdi/03_Apo_devIsh.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 O ye waters, goddesses, purifying and pure, do ye bring the gods;  
@@ -478,6 +487,8 @@ may we, pure and served (by you), be servers upon you.
 आपो॑ देवीश्शुद्धायुवश्शु॒द्धा यू॒यन्दे॒वाꣳ ऊ᳚ड्ढ्वम् ।    
 शु॒द्धा व॒यम्परि॑विष्टाᳶ परिवे॒ष्टारो॑ वो भूयास्म ॥ [15]
 </details>
+</details>
+</div>
 <details><summary>प्रदीपसिंहः</summary>
 
 अत्र विद्युन्माला इति व्याख्याने- मो मो गो गो इति तल्लक्षणम् । अत्र  तल्लक्षणं न स्पष्टम् ।श्रद्धा युवम् इत्यत्र यू इति दीर्धेण भवितव्यमिति भाति । द्वितीयार्धे लक्षणं कथम् ?-विचारणीयोयं भागः
