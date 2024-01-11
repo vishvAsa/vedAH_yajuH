@@ -4,29 +4,10 @@ title = "8 The Rajasuya"
 +++
 
 ## 12
-### b
-### c
-Friend of speech, born of heat, thou art undefeated; thou art the share of Soma.
-### d
-The pure I purify you with the pure, the bright with the bright, the immortal with ambrosia, hail! caring for the royal consecration.
-### e
-Clothed in these (waters), sharing joy, glorious in strength,  
-Undefeated and busy,  
-In the waters hath Varuna made his abode,  
-The child [1] of the waters in those most motherly.
-### f
-Thou art the caul of kingly power, thou art the womb of kingly power.
-### g
-Notified is Agni, lord of the house; notified is Indra, of ancient fame; notified is Pusan, all knower; notified are Mitra and Varuna, increasing holy order; notified are sky and earth, of sure vows; notified is the goddess Aditi, of all forms; notified is he, N. N., descendant of N. N., in this folk, this kingdom, for great lordship, for great overlordship, for great rule over the people.
-### h
-This is your king, O Bharatas; Soma is the king of us Brahmans.
-### i
-Thou art the bolt of Indra [2] slaying foes; with thee may he slay his foe.
 ### k
-Ye are overcomers of foes.
+
 
 ### l
-Protect me in front, protect me at the side, protect me from behind; from the quarters protect me; from all deadly things protect me.
 ### m
 Gold hued in the glowing of the dawns,  
 Bronze pillared at the rising of the sun,  

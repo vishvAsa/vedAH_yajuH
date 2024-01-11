@@ -191,16 +191,12 @@ Varuna of lords of right.
 
 ये दे॑वा देव॒सुव॒स् **स्थ**  
 त इ॒मम् आ॑मुष्याय॒णम्  
-अ॑नमि॒त्राय॑  **सुवध्वम्**     
-मह॒ते ख्ष॒त्त्राय॑
-मह॒त आधि॑पत्याय  
-मह॒ते जान॑राज्यायै
+अ॑नमि॒त्राय॑  **सुवध्वम्** …     
 </details>
 <details><summary>Keith</summary>
 
 O ye gods that instigate the gods,  
 do ye instigate him, descendant of N. N., to freedom from foes,  
-to great lordship, to great overlordship, to great rule over the people.
 </details>
 <details><summary>मूलम्</summary>
 
@@ -210,49 +206,20 @@ to great lordship, to great overlordship, to great rule over the people.
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हे देवा अग्न्यादयो वरुणान्ताः ये यूयं देवसुवस्स्थ देवस्य दानादिगुणयुक्तस्य यजमानस्य सवितारः प्रेरकास्स्थ ते यूयं यस्मादेवं प्रसवादीनामनुज्ञातारः तस्मादिममामुष्यायणं सिंहवर्मणः पुत्रं नन्दिवर्माणम् अनमित्रायानमित्रत्वाय अविद्यमानशत्रुत्वाय सुवध्वम् । अनुजानीत अशत्रुमेनं कुरुतेत्यर्थः । इममामुष्यायणमिति सर्वनामद्वयं विशेषार्थमुपादीयते । अमुष्यशब्दान्नडादित्वात्फक् ।
-
-किञ्च - महते च क्षत्राय बलाय महते चाधिपत्याय स्वामित्वाय महते अविच्छिन्नाय च **जानराज्याय** जनानां राजा जनराजः तद्भावाय । उभयत्रापि गुणवचनत्वात् ष्यञ् । इममायुष्यायणं सुवध्वमित्येव । 'बृहन्महतोरुपसङ्ख्यानम्' इति महतो विभक्तेरुदात्तत्वम् ॥
 </details>
+
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/10_devasU-havirAdi/mahate_xatrAya.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3यजमानायतने तिष्ठन् रत्निभ्यो जानपदेभ्यो ऽध्वर्युर् आवेदयते - एष व इति ॥ 
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ष वो॑ भरता॒ राजा॑ ।
-</details>
-<details><summary>Keith</summary>
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/10_devasU-havirAdi/eSha_vo_bharatA_rAjA.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
-This is your king, O Bharatas; 
-</details>
-<details><summary>मूलम्</summary>
 
-ए॒ष वो॑ भरता॒ राजा॑ ।
-</details>
-<details><summary>भट्टभास्कर-टीका</summary>
-
-भरतानां निवासो जनपदो भरताः । 'जनपदे लुप्' । भरतानां राजानोपि भरताः । 'तस्य राजन्यपत्यवत्' इति 'जनपदशब्दात् क्षत्रियादञ्', 'यञिञोश्च' इति बहुषु लुक् । हे भरताः एष वो युष्माकं राजा, योयं राजसूयेन यजते । एवमयं व्याख्यातिगतो भवति, राज्यं चास्मिन् प्रतिहितम् । यद्यसौ भरतानामेव राजा तदानीमेवं, नान्यदा । यथाजनपदमिति केचित् ॥
-</details>
-<details><summary>भास्करोक्त-विनियोगः</summary>
-
-4बह्मा जपति - सोम इति ॥ 
-</details>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-सोमो॒ऽस्माक॑म् ब्राह्म॒णाना॒ꣳ॒ राजा॑ ।+++(5)+++
-</details>
-<details><summary>Keith</summary>
-
-Soma is the king of us Brahmans.
-</details>
-<details><summary>मूलम्</summary>
-
-सोमो॒ऽस्माक॑म्ब्राह्म॒णाना॒ꣳ॒ राजा॑ ।
-</details>
-<details><summary>भट्टभास्कर-टीका</summary>
-
-अस्माकं ब्राह्मणानां सोमो राजा, अधुना अयञ्चेति । सर्वदा सराजका एव वयमित्यभिप्रायः ॥
-</details>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5यजमानो मुखं विमृष्टे - प्रति त्यदिति द्वाभ्यां वारुणीभ्यां त्रिष्टुब्भ्याम् ॥ 'महत ऋतस्य नाम' इति प्रथमाया अन्तः । द्वे अप्यनवसाने । 
