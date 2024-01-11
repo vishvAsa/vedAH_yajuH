@@ -20,13 +20,17 @@ ________
 
 मध्यरात्रे प्रबुद्धो यजमान आचामति- दैवीं धियमित्यनुष्टुभा चतुष्पदया ।
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/03_vratagrahaNAd_devayajana-prAptiM_yAvat/02_daivIn_dhiyam.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 दैवी॒न् धिय॑म् मनामहे +++(=अभ्यस्यामः)+++  
 सुमृडी॒काम्+++(=सुसुखयितारम्)+++ अ॒भि+++(भी)+++ष्ट॑ये ।  
 वर्चो॒धाय्ँ य॒ज्ञवा॑हसꣳ,  
-सुपा॒रा+++(=स्ववसाना)+++ नो॑ अस॒द् वशे᳚ ॥+++(र५)+++   
+सुपा॒रा+++(=स्ववसाना)+++ नो॑ अस॒द् वशे᳚ ॥+++(र५)+++
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/03_vratagrahaNAd_devayajana-prAptiM_yAvat/02_daivIn_dhiyam.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 The thought divine we meditate,  
@@ -46,6 +50,11 @@ May it guide us safely according as we will.
 किमर्थं मनामहे? अभिष्टये आभिमुख्येन या इष्टिः देवानां तदर्थम् । 'एमन्नादिषु पररूपं वक्तव्यम्' इति पररूपत्वम्, वर्णव्यत्ययेन वा ह्रस्वः, 'तादौ च निति कृत्यतौ' इति पूर्वपदप्रकृतिस्वरत्वम्, 'उपसर्गाश्चाभिवर्जम्' इत्यभिशब्दोन्तोदात्तः, व्युत्पत्त्यनवधारणान्नावगृह्यते । 'आभिमुख्येन देवान् यष्टुं दैवीं धियं मनामहे । सा च धीः सुपारा शोभनावसाना सुष्ठु कर्मणां समाप्तिसाधनभूता । 'नञ्सुभ्याम्' इत्युत्तरपदान्तोदात्तत्वम् ।   
 यद्वा - पार तीर कर्मसमाप्तौ, सुष्ठु पारयित्री कर्मणः । पचाद्यच्, कृदुत्तरपदप्रकृतिस्वरत्वम्, थाथादिस्वरो वा । ईदृशी भूत्वा नोऽस्माकं वशे असत् अस्तु अस्मद्वशे वर्तताम् । अस्तेर्लेटि । 'लेटोडाटौ' इत्यडागमः, 'इतश्च लोपः परस्मैपदेषु' ॥
 </details>
+</details>
+</div>
+
+
+
 
 ________
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -53,13 +62,17 @@ ________
 2व्रतयति - ये देवा इति ॥ 
 (सुप्त्वा प्रबुद्ध्य चाचम्य व्रतयितव्यम् इति क्रमः ।)  +++(र५।)+++
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/03_vratagrahaNAd_devayajana-prAptiM_yAvat/03_ye_devA.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 ये दे॒वा मनो॑जाता मनो॒युज॑स्  
 सु॒दख्षा॒ दख्ष॑-पितार॒स्+++(←बहुव्रीहिः)+++  
 ते नᳶ॑ पान्तु॒, ते नो॑ऽवन्तु॒   
 तेभ्यो॒ नम॒स्, तेभ्य॒स् स्वाहा॑ ।
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/03_vratagrahaNAd_devayajana-prAptiM_yAvat/03_ye_devA.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 The gods, mind-born, mind-using,  
@@ -90,6 +103,14 @@ To them honour! to them hail!
 किञ्च, ते नः अस्मान् अवन्तु रक्षन्तु अनुप्रविशन्तु सदा अस्मासु तिष्ठन्तु । अव रक्षणगतिकान्तिप्रीतितृप्त्यवगमप्रवेशस्वाम्यर्थश्रवणयाचनक्रियेच्छावाप्त्यालिङ्गनहिम्सादानभाववृद्धिषु। तेभ्यो नमः नमस्कुर्मः ।  
 किञ्च, तेभ्यस्स्वाहा स्वाहुतं इदं पीतं पयोस्तु । एतौ चाचमनमन्त्रौ पातुस्सामर्थ्यादिति संवेशनप्रबुद्धयजुर्भ्यां उत्तरौ द्रष्टव्यौ । सुप्त्वा प्रबुद्ध्वा चाचम्य व्रतयितव्यमिति क्रमः । 'ब्रह्मवादिनो वदन्ति होतव्यं दीक्षितस्य गृहाः' इत्यादि ब्राह्मणम् ॥
 </details>
+</details>
+</div>
+
+
+
+
+
+
 
 
 ________
@@ -97,13 +118,17 @@ ________
 
 संविशति।
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/03_vratagrahaNAd_devayajana-prAptiM_yAvat/04_agne_tvam.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अग्ने॒ त्वꣳ सु जा॑गृहि।  
 व॒यꣳ सु म॑न्दिषीमहि+++(=स्वप्स्यामः)+++।  
 गोपा॒य न॑स् स्व॒स्तये᳚  
-प्र॒बुधे॑+++(=प्रबोधनाय)+++ न॒ᳶ पुन॑र् ददः ॥+++(र५)+++   
+प्र॒बुधे॑+++(=प्रबोधनाय)+++ न॒ᳶ पुन॑र् ददः ॥+++(र५)+++
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/03_vratagrahaNAd_devayajana-prAptiM_yAvat/04_agne_tvam.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 O Agni, be thou wakeful;  
@@ -125,6 +150,12 @@ Grant to us to wake again.
 3संविशति - अग्ने त्वमित्यनुष्टुभा चतुष्पदया ॥ हे अग्ने त्वं सुजागृहि अनिद्र आस्स्व । त्वयि तथाकारिणि सति वयं सुमन्दिषीमहि सुष्ठु निर्भयास्स्वप्यास्म । मदि स्तुतिमोदमदस्वप्नकान्तिगतिषु । 'स्वपन्तं वै दीक्षितम्' इत्यादि ब्राह्मणम् । त्वं चास्मान्स्वपतो गोपाय रक्ष । 'सनाद्यन्ता धातवः' इति धातुत्वात्, धातोरित्यन्तोदात्तत्वम्, पादादित्वान्न निहन्यते । स्वस्तये अविनाशार्थम् । विभक्त्यन्तप्रतिरूपको निपातः । यद्वा - अस गतावित्यस्मात्सुपूर्वात् 'क्तिच्क्तौ च संज्ञायाम्' इति क्तिच्, कृदुत्तरपदप्रकृतिस्वरत्वम्, व्युत्पत्त्यनवधारणान्नावगृह्यते । शोभनगत्यर्थं गोपाय, यथा रक्षोभिर्न बाध्यामहे ।  
 किञ्च – नो ऽस्मान् पुनः पश्चान्मध्यरात्रे प्रबुधे प्रबोधनाय । सम्पदादित्वात्क्विप्, कृदुत्तरपदप्रकृतिस्वरत्वम् । प्रबोधार्थं ददः देहि, प्रबुद्धान्कुर्विति यावत् । ददातेर्लेटि 'लेटोडाटौ' इत्यडागमः । 'घोर्लोपो लेटि वा' इत्याकारलोपः । 'इतश्च लोपः' इतीकारलोपः ॥
 </details>
+</details>
+</div>
+
+
+
+
 
 
 
@@ -377,12 +408,16 @@ ________
 
 सनि-हारान् वक्ष्यमाणान् प्रहिणोति।
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/03_vratagrahaNAd_devayajana-prAptiM_yAvat/05_vishve_devA.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 विश्वे॑ दे॒वा अ॒भि मामा ऽव॑वृत्रन्+++(=अववर्तन्ताम्)+++ +++(- अपि तु प्रत्यावर्तन्ताम्)+++ -  
 पू॒षा स॒न्या +++(=याच्ञालब्धेन हिरण्यादि-धनेन)+++ सोमो॒ राध॑सा +++(=देहप्रसाधकेन क्षौम-दुकूलादि-धनेन)+++,     
 दे॒वस् स॑वि॒ता वसो᳚र् +++(सकाशात्)+++ +++(जीवद्धनात्मक-)+++वसु॒-दावा᳚+++(=दाता)+++। +++(र४)+++
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/03_vratagrahaNAd_devayajana-prAptiM_yAvat/05_vishve_devA.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 All the gods have surrounded me,  
@@ -410,6 +445,12 @@ The god Savitr the giver of brightness.
 
 यश्च देवस्सविता सर्वस्य प्रेरकः वसुदावा वसूनां प्रशस्तानां उस्रादिचेतनपदार्थानां दाता । 'आतो मनिन्' इति वनिपि, कृदुत्तरपदप्रकृतिस्वरत्वम् । सोपि वसोर्वसुनागच्छतु । सुपां सुपो भवन्तीति तृतीयैकवचनस्य षष्ठ्येकवचनम् । यद्वा - वसोर्वसुसमुदायात् कां चिदुस्रां हयं छागं वादायागच्छतु । 'चन्द्रमसि मम भोगाय भव' इत्यादि ग्रहणमन्त्रानुसारेण च एतेषां विशिष्टविषयत्वं द्रष्टव्यम् । 'अप वै दीक्षितात्सुषुपुषः' इत्यादि ब्राह्मणम् ॥
 </details>
+</details>
+</div>
+
+
+
+
 
 
 ________
@@ -417,12 +458,16 @@ ________
 
 आहरन्तं दृष्ट्वा जपति।
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/03_vratagrahaNAd_devayajana-prAptiM_yAvat/06_rAsveyat_somA.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 रास्वेय॑त् सो॒मा ऽऽभूयो॑  
 भर॒ मा पृ॒णन्+++(=पूरयन्)+++ पू॒र्त्या ।  
 विरा॑धि॒+++(=वियुक्तो ऽकारि)+++ मा ऽहम् आयु॑षा ॥
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/03_vratagrahaNAd_devayajana-prAptiM_yAvat/06_rAsveyat_somA.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 O Soma, give so much, and bear more hither.  
@@ -449,6 +494,12 @@ Let me not be parted with life.
 किञ्च - इतोपि भूयः बहुतरं धनमाभर । 'हृग्रहोर्भः' इति भत्वम् । 'यावत एव पशूनभि दीक्षेत' इति ब्राह्मणम् ।  
 किञ्च - इदं चाप्यस्तु - अस्मान् पृणन् धनेन पूरयन् पुर[न?]स्स्वयमपि पूर्त्या धनपोषेण मा विराधि धनपोषेण वियुक्तो मा कारि । अहं चायुषा मा विरात्सि वियुक्तो माकार्षि । पॄ पालनपूरणयोः क्रैयादिकः; प्वादित्वाद्ध्रस्वः, शतरि कृते विकरणस्वरस्तु लसार्वधातुकस्वरेण न बाध्यत इति शतुरेवोदात्तत्वम्, सत्यामपि सतिशिष्टेन बाधायां 'श्नाभ्यस्तयोरातः' इत्याकारलोपे उदात्तनिवृत्तिस्वरेण शतुरेवोदात्तत्वम्, ततः क्तिनि तु सति 'ऋकारल्वादिभ्यः' इति निष्ठावद्भावे प्राप्ते 'न ध्याख्यापृमूर्छिमदाम्' इति प्रतिषिद्ध्यते, तत्र व्यत्ययेन विभक्तेरुदात्तत्वम् । यद्वा - पूर्यते पुरुषोनयेति पूर्तिः, धनस्येयं संज्ञा । 'क्तिच्क्तौ च संज्ञायाम्' इति क्तिचि । 'उदात्तयणो हर्ल्पूवात्' इति विभक्तेरुदात्तत्वम् ॥
 </details>
+</details>
+</div>
+
+
+
+
 
 
 
@@ -744,19 +795,25 @@ ________
 
 दीक्षितो ऽप उत्तरति।
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/03_vratagrahaNAd_devayajana-prAptiM_yAvat/07_devIr_Apo.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 देवी॑र् आपो! **अपान्नपा॒द्**+++(=जलाग्निः, अपां नप्ता)+++  
 य ऊ॒र्मि-ह॑वि॒ष्यः॑ ।  
 इन्द्रि॒यावा᳚न्+++(=वीर्यवान्)+++ म॒दिन्त॑म॒स्+++(=मादयितृतमः)+++  
 **तव्ँ** वो॒ **माऽव॑क्रमिषम्**॥+++(4)+++
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/03_vratagrahaNAd_devayajana-prAptiM_yAvat/07_devIr_Apo.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 O divine waters, son of the waters, the stream  
 Fit for oblation, mighty, most exhilarating,
 That stream of yours may I not step upon.
 </details>
+</details>
+</div>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(युष्मत्प्रसादाद् अहं यज्ञारूपम्)+++ अच्छि॑न्न॒न् तन्तु॑म् पृथि॒व्या +++(सेतुम्)+++ अनु॑ गेषम्+++(=गच्छेयम्)+++।  
@@ -883,13 +940,17 @@ ________
 
 यत्र यक्ष्यमाणो भवति तद्-अभिप्रेतं देव-यजनम् अधितिष्ठति।
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/03_vratagrahaNAd_devayajana-prAptiM_yAvat/08_Aidam_aganma.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 आ+इ॒दम् **अ॑गन्म** देव॒यज॑नम् +++(स्थानं)+++ पृथि॒व्या   
 विश्वे॑ दे॒वा यद् **अजु॑षन्त॒**+++(=असेवन्त)+++ पूर्वे॑।   
 ऋ॒ख्-सा॒माभ्या॒य्ँ यजु॑षा +++(च यागं)+++ **स॒न्तर॑न्तो**  
 रा॒यस्-पोषे॑ण॒+++(=धनपुष्टिभ्यां)+++ सम् इ॒षा **म॑देम** ॥ [8]
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/03_vratagrahaNAd_devayajana-prAptiM_yAvat/08_Aidam_aganma.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 We have come to the place on earth for sacrifice to the gods,  
@@ -912,7 +973,12 @@ Let us rejoice in fullness of wealth, in sustenance.
 
 21यत्र यक्ष्यमाणो भवति तदभिप्रेतं देवयजनमधितिष्ठति - एदमिति त्रिष्टुभा चतुष्पदया ॥ देवा इज्यन्ते अस्मिन्निति देवयजनम् । अधिकरणे ल्युट्, कृदुत्तरपदप्रकृतिस्वरत्वम् । ईदृशमिदं स्थानमगन्म अगन्महि आगता वयम् । गमेर्लुङि 'बहुळं छन्दसि' इति शपो लुक् । यद्वा - लुङि 'मन्त्रे घस' इत्यादिना च्लेर्लुक्, 'म्वोश्च' इति मकारस्य नकारः । कीदृशं? पृथिव्यास्सम्बन्धि । यद्वा - पृथिवीमात्रात् प्रदेशान्तरात् इदं देवयजनमागताः । 'उदात्तयणः' इति विभक्तेरुदात्तत्वम् ।   
 पुनश्च विशेष्यते - विश्वे पूर्वे अस्मदीयाः पित्रादयो देवाः भूमिदेवाः यदजुषन्त यादृशमसेवन्त । आद्युदात्तत्वम् । अत्र चागता वयं ऋक्सामाभ्यां यजुषा सन्तरन्तः सम्यग्यागं निर्वर्तयन्तः । कृदुत्तरपदप्रकृतिस्वरत्वम् । अचतुरादिसूत्रेण ऋक्सामशब्दोच्प्रत्ययान्तो निपातितः । रायः धनस्य पोषेण पुष्ट्या इषा अन्नेन च सम्यङ्मदेम हृष्टा भवेम । मदी हर्षग्लपनयोरिति भौवादिक उदात्तेत्, 'षष्ठ्याः पतिपुत्र' इत्यादिना पोषे विसर्जनीयस्य सत्वम् । 'सावेकाचः' इतीषः परस्यास्तृतीयाया उदात्तत्वम् । 'ऋक्सामाभ्यां ह्येष यजुषा सन्तरति यो यजते' इति ब्राह्मणम् ॥
-
 </details>
+</details>
+</div>
+
+
+
+
 इति द्वितीये तृतीयोनुवाकः
 

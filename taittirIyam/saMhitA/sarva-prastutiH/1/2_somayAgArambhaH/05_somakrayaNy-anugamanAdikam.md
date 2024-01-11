@@ -272,23 +272,27 @@ ________
 
 14पत्नी यजमानमीक्षते - त्वष्टीमतीति अस्तारबृहत्या वस्वष्टदशपङ्क्त्यक्षरया  +++(वसु८-अष्ट-८, दश-१०,पङ्क्ति-१० अक्षराणीत्यर्थः)+++ ॥
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/05_somakrayaNy-anugamanAdikam/02_tvaShTImatI_te.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 त्वष्टी॑+++(=प्रजनन-नैशित्य)+++मती ते सपेय+++(=मिथुनीभवेयम्)+++  
 सु॒रेता॒ रेतो॒ दधा॑ना ।   
-वी॒रव्ँ वि॑देय॒ तव॑ स॒न्दृशि॑+++(=सन्दर्शने)+++  
+वी॒रव्ँ वि॑देय॒ तव॑ स॒न्दृशि॑+++(=सन्दर्शने)+++
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/05_somakrayaNy-anugamanAdikam/02_tvaShTImatI_te.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 Let me attend on thee, with Tvastr's aid;  
 rich in seed, bearing seed,  
-may I find a hero in thy presence.  
+may I find a hero in thy presence.
 </details>
 <details><summary>मूलम्</summary>
 
 त्वष्टी॑मती ते सपेय +++(वसु ८ अक्षराणि)+++  
 सु॒रेता॒ रेतो॒ दधा॑ना +++(अष्ट ८ अक्षराणि)+++  ।  +++(वसु+अष्ट=१६ अक्षराणि)+++   
-वी॒रव्ँवि॑देय॒ तव॑ स॒न्दृशि॑ ।  +++(१०अक्षराणि)+++   
+वी॒रव्ँवि॑देय॒ तव॑ स॒न्दृशि॑ ।  +++(१०अक्षराणि)+++
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -300,6 +304,11 @@ may I find a hero in thy presence.
 अहमीदृशीभूत्वा वीरं पुत्रं विदेय लभेय । वेतेः प्रनननवृत्तेः औणादिको रक्प्रत्ययः । विदिर्लाभे, स्वरितेत्, 'आशिषि लिङि' 'लिङ्याशिष्यङ्', सीयुट्, 'छन्दस्युभयथा' इति सार्वधातुकत्वात् सलोपः, अतो लोपाभावश्छान्दसः ।   
 तव संदृशि संदर्शने सस्नेहदृष्टिलाभे । सम्पदादित्वात्क्विप्, कृदुत्तरपदप्रकृतिस्वरत्वम् ॥
 </details>
+</details>
+</div>
+
+
+
 
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>

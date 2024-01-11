@@ -93,14 +93,18 @@ ________
 
 आपो॑ देवीर्बृहतीर्विश्वशम्भुवो॒ द्यावा॑पृथि॒वी उ॒र्व॑न्तरि॑ख्षम्बृह॒स्पति॑र्नो ह॒विषा॑ वृधातु॒ स्वाहा
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/02_dIxA/02_Apo_devIr.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 आपो॑ देवीर् बृहतीर् विश्व-शम्-भुवो॒!  
 द्यावा॑-पृथि॒वी उ॒र्व् अ॑न्तरि॑ख्षम्, बृह॒स्पति॑र्  
 नो ह॒विषा॑ वृधातु। 
 
-(… स्वाहा᳚।)  
+(… स्वाहा᳚।)
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/02_dIxA/02_Apo_devIr.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 O ye divine, vast, all-sootbing waters!  
@@ -120,6 +124,8 @@ May Brhaspati rejoice in our oblation,
 हे एवंविधा आपः येषां लोकानां भवत्यश्शं भावयन्ति तान् लोकान् द्यावापृथिवी दिवं च पृथिवीं च । 'दिवो द्यावा', इति द्यावादेशः । पृथिवीशब्दो डीषन्तोन्तोदात्तः, 'देवताद्वन्द्वे च' इति पूर्वोत्तरपदयोः प्रकृतिस्वरत्वम् । उरु चान्तरिक्षमसि । त्रीनपि लोकान्नोऽस्माकं अन्नेन हविषा बृहस्पतिर्ब्रह्मा वृधातु वर्धयतु । 'ब्रह्म वै देवानां बृहस्पतिः' इति ब्राह्मणम् । वृधेर्ण्यन्ताल्लोट्, 'बहुलमन्यत्रापि' इति णिलुक् । विकरणव्यत्ययेन शः, आगमव्यत्ययेनाडागम उत्तमस्योक्तः प्रथमस्यापि भवति । यद्वा - लेट उक्तो लोटोपि भवति ।  
 एवं यज्ञस्यैव वृद्ध्यर्थं तदाधाराणां लोकानां वृद्धिः प्रार्थ्यते । 'द्यावापृथिव्योर्हि यज्ञः' इत्यादि ब्राह्मणम् । वनस्पत्यादित्वाद्बृहस्पतिशब्दे पूर्वोत्तरपदयोर्युगपत्प्रकृतिस्वरत्वम्, बृहच्छब्दो वृत्तावाद्युदात्तः ।
 </details>
+</details>
+</div>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 … स्वाहा᳚।
@@ -147,7 +153,8 @@ ________
 
 6स्रुचैवोद्ग्रहणं जुहोति - विश्वेदेवस्येत्यनुष्टुभा चतुष्पदया यजुरन्तया । 'सा वा एषर्गनुष्टुक्' इत्यादि ब्राह्मणम् ।
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/02_dIxA/03_vishve_devasya.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 विश्वे॑ +++(सवितुः)+++ दे॒वस्य॑ ने॒तुर्,  
 +++(अतो ऽयम्)+++ मर्तो॑ ऽवृणीत +++(तस्य सवितुः)+++ स॒ख्यम्।  
@@ -156,6 +163,9 @@ ________
  
 (… स्वाहा᳚ ।)
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/02_dIxA/03_vishve_devasya.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 Let every man choose the companionship  
@@ -197,6 +207,8 @@ Let him choose glory that he may prosper,
 
 यद्वा - तस्य पुरुषस्य **द्युम्नं** त्वया **पुष्यते** । पुरुषव्यत्ययेन मध्यमः, स च तिङः परत्वान्न निहन्यते, 'अदुपदेशात्' इति लसार्वधातुकत्वानुदात्तत्वे कृते विकरणस्यैव स्वरः, श्यनस्तु स्वरव्यत्ययेनोदात्तत्वम् ।
 </details>
+</details>
+</div>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वाहा॑॑।
@@ -263,13 +275,17 @@ ________
 
 कृष्णाजिनम् अभिसर्पति।
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/02_dIxA/04_imAn_dhiyam.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 इ॒मान् धिय॒ꣳ॒ शिख्ष॑माणस्य देव॒  
 +++(अग्निष्टोम-)+++ क्रतु॒न् दख्ष॑व्ँ वरुण॒ सꣳशि॑शाधि+++(=शितं कुरु)+++ ।  
 यया ऽति॒ विश्वा॑ दुरि॒ता तरे॑म  
 सु॒तर्मा॑ण॒म्+++(=सुतारकम्)+++ अधि॒ नावꣳ॑ रुहेम॥+++(५)+++
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/02_dIxA/04_imAn_dhiyam.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 O god,Varuna, do thou sharpen this prayer of him who implores thee,  
@@ -294,6 +310,12 @@ Whereby we' may pass over all our difficulties.
 इदानीं धीर्विशेष्यते - यया धिया विश्वा दुरिता विश्वानि दुरितानि । 'शेश्छन्दसि बहुलम्' इति शलोपः । दुःखेन यन्ति एतेष्विति दुरितानि । 'क्तोधिकरणे च' इत्यधिकरणे निष्ठा, थाथादिस्वरेणोत्तरपदान्तोदात्तत्वम् । श्रेयसो विघातकानि कर्माण्युच्यन्ते । तानि सर्वाणि ययाऽतितरेम अतिक्रम्य गच्छेम तामिमां धियमिति सम्बध्यते ।  
 ननु दुरितसागरं तितीर्षूणां सम्यक्प्रज्ञावतामपि कया चिन्नावा भवितव्यमित्यत आह - सुतर्माणमिति, सुष्ठु दुरितानां तारणकुशलाम् । 'अन्येभ्योपि दृश्यते' इति तरतेर्मनिन्प्रत्ययः, कृदुत्तरपदप्रकृतिस्वरत्वम् । इदृशीं नावमग्निष्टोमात्मिकाम् वयमधिरुहेम अधिरूढा भूयास्म अनेन चर्माधिरोहणेनेति । रुहेराशिषि लिङ्, 'लिङ्याशिष्यङ्' । 'यज्ञो वै सुतर्माणम्' इति ब्राह्मणम् । 'कृष्णाजिनेन दीक्षयति ब्रह्मणो वा एतद्रूपं यत्कृष्णाजिनम्' इति ब्राह्मणम् ॥
 </details>
+</details>
+</div>
+
+
+
+
 
 
 ________

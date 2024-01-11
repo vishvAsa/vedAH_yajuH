@@ -23,6 +23,7 @@ title = "१४ कृणुष्व पाजः"
 
 ## आह्वानम्
 
+
 <div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/01_kRNuShva_pAjaH.md">
 <details open><summary><h2>विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
@@ -41,6 +42,7 @@ title = "१४ कृणुष्व पाजः"
 
 
 ## युद्धप्रार्थना
+
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/02_tava_bhramAsa.md">
 <details open><summary><h2>विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
@@ -95,6 +97,7 @@ title = "१४ कृणुष्व पाजः"
 
 ## उपासकसौभाग्यम्
 
+
 <div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/06_sa_te.md">
 <details open><summary><h2>विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
@@ -123,6 +126,7 @@ title = "१४ कृणुष्व पाजः"
 
 
 ## प्रतिज्ञा
+
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/08_archAmi_te.md">
 <details open><summary><h2>विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
@@ -176,6 +180,7 @@ title = "१४ कृणुष्व पाजः"
 
 
 ### किरणकीर्तिः
+
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/12_asvapnajastaraNayaH_sushevA.md">
 <details open><summary><h2>विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
