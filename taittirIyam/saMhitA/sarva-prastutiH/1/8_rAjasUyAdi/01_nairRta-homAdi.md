@@ -158,7 +158,7 @@ Go away, hail! rejoicing in the oblation.
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 ए॒ष ते॑ निर्ऋते भा॒गो,  
-भूते॑! ह॒विष्म॑त्य् असि।  
+भूते॑! ह॒विष्म॑त्य् **असि**।  
 **मु॒ञ्चेमम्** अꣳह॑सः॥   
 </details>
 
@@ -169,11 +169,9 @@ O thou who hast prospered, thou art rich in oblation;
 Free him from evil. Hail!  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-ए॒ष ते॑ निर्ऋते भा॒गो भूते॑ ह॒विष्म॑ति ।  
-अ॒सि॒ मु॒ञ्चेममꣳह॑सः॥   
+ए॒ष ते॑ निर्‌ऋते भा॒गो भूते॑ ह॒विष्म॑त्यसि मु॒ञ्चेममꣳह॑सः
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
