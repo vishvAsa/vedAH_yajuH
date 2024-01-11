@@ -124,6 +124,7 @@ The Raksas is burnt, the evil spirits are burnt.
 प्रत्युष्टादिना व्याख्यातम् (तै.सं. 1.1.2) ।  
 'अग्निवत्युपदधाति' (तै.ब्रा. 3.2.7) इत्यादि ब्राह्मणम् ॥
 
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/bhaTTa-bhAskara-TIkA/1/2_somayAgArambhaH/02_barhirAstaraNam/raxorAtI.md">
 <details open><summary><h5>रक्षोऽराती ...{Loading}...</h5></summary>
 

@@ -100,6 +100,7 @@ Thou art the all-supporting with the highest support.
 
 
 ____
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/03_sAnnAyyaM_-_pAtraproxaNAdi/dRMhasva.md">
 <details open><summary><h5>दृंहस्व ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -299,12 +300,16 @@ ____
 
 9गोदोहनसक्षालनीया अपः पयस्यानयति - संपृच्यध्वमिति गायत्र्या ॥
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/03_sAnnAyyaM_-_pAtraproxaNAdi/57_sampRchyadhvam_RtAvarIr.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 +++(पयसा)+++ सम्पृ॑च्यध्वम् ऋतावरीर्+++(=ऋतवत्यः)+++  
 उ॒र्मिणी॒र् मधु॑मत्तमाः +++(आपः)+++।  
 म॒न्द्रा+++(=मादयित्र्यः)+++ धन॑स्य सा॒तये॑+++(=लाभाय)+++ ।
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/03_sAnnAyyaM_-_pAtraproxaNAdi/57_sampRchyadhvam_RtAvarIr.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 I Be ye united, that follow holy orders,  
@@ -321,6 +326,11 @@ Delightful for the gaining of wealth.
 हे ऋतावरीः ऋतेन सत्येन यज्ञेन वा तद्वत्यः, ऋतसम्पादिका आपः ययूं पयसा सम्पृच्यध्वं सम्पृक्ता भवत । कर्मणि लकारः । 'छन्दसीवनिपौ' (पा.सू. 5.2.109 वा 2) इति वनिप् । 'वनो र च' (पा.सू. 4.1.7) इति ङीप् रेफौ । 'अन्येषामपि दृश्यते' (पा.सू. 6.3.137) इति दीर्घः । 'वा छन्दसि' (पा.सू. 6.1.106) इति पूर्वसवर्णदीर्घत्वं । आष्टमिकमामन्त्रितानुदात्तत्वम् (पा.सू. 8.1.19) । ऊर्मिमत्त्वादिगुणयुक्तास्सत्यस्सम्पृच्यध्वम् । एतेषामामन्त्रितत्वाभावाद्यथायथं स्वरा भवन्ति । पयस्सम्पर्केण वा ह्येते गुणाः अपामुपजायन्ते । महद्भिरूर्मिभिस्तद्वत्यः ऊर्मिण्यः । 'तुन्दादिषु स्वाङ्गाद्विवृद्धौ' (पा.सू. 5.2.117 गणसूत्रम्) इति पाठादिनिप्रत्ययः । स्वमङ्गं स्वाङ्गम् । पूर्ववद्दीर्घत्वम् (पा.सू. 6.1.106) । मधुमत्तमाः मधुरतमाः । मन्द्राः मादयित्र्यः । मदि स्तुतिमोदमदस्वप्नकान्तिगतिषु । 'स्फायितञ्चि' (उ.सू. 170) इत्यादिना रक्प्रत्ययः ।  
 किमर्थं सम्पृच्यत इत्याह धनस्येति । धनस्य सान्नाय्यलक्षणस्य । सातये लाभाय । धनवनषणसम्भक्तौ, 'जनसनखनां सञ्झलोः' (पा.सू. 6.4.42) इत्यात्वम् । 'ऊतियूति' (पा.सू. 3.3.97) इत्यादिना क्तिन्प्रत्ययान्तोऽन्तोदात्तो निपातितः । युष्मत्सम्पर्के हि तत्सिद्धिरिति भावः ॥
 </details>
+</details>
+</div>
+
+
+
 
 ____
 

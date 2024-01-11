@@ -36,13 +36,17 @@ ____
 
 प्रणीता मदन्तीरानीयमानाः प्रतिमन्त्रयते
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/08_saMvApAdiH/07_sam_Apo.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 सम् +++(प्रणीता-)+++आपो॑ +++(मदन्ती/क्वथित)+++अ॒द्भिर्॑ अग्मत॒  
 सम् +++(पिष्टरूपा)+++ ओष॑धयो॒ रसे॑न ।  
 सꣳ रे॒वती॒र्+++(=धनवत्यः)+++ जग॑तीभि॒र्+++(=जङ्गमाभिः)+++  
 मधु॑मती॒र् मधु॑मतीभिस् सृज्यध्वम्  ॥
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/08_saMvApAdiH/07_sam_Apo.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 The waters have joined with the waters, the plants with sap.  
@@ -63,6 +67,11 @@ Join ye rich ones with the moving ones, sweet ones with the sweet.
 ईदृश्यो यूयं जगतीभिस्संसृज्यध्वं संसृष्टा भवत । कर्मणि लकारः । जगतीभिः जङ्गमस्वभावाभिः । 'वर्तमाने पृषद्बृहन्महज्जगच्छतृवत्' (उ.सू. 241) इति गमेरतिप्रत्ययः, मकारलोपः, द्विर्वचनं च निपात्यते, 'उगितश्च' (पा.सू. 4.1.6) इति ङीप्, 'अभ्यस्तानामादिः' (पा.सू. 6.1.189) इत्याद्युदात्तत्वम् । शतृवद्भावेन लसार्वधातुकत्वात् (पा.सू. 6.1.186) प्रत्ययस्यानुदात्तत्वम् । तथा मधुमतीः मधुमत्यः मधुरा यूयं मधुमतीभिस्संसृज्यध्वम् ।   
 एतदुक्तं भवति - हे आपः रेवत्यो मधुमत्यश्च यूयं जगतीभिर्मधुमतीभिश्च ओषधीभिस्संसृज्यध्वम्, इति । 'आपो वा ओषधीर्जिन्वन्ति' (तै.ब्रा. 3.2.8) इत्यादि, 'आपो वै रेवतीः' (तै.ब्रा. 3.2.8) इत्यादि च ब्राह्मणम् ॥
 </details>
+</details>
+</div>
+
+
+
 
 
 ____
