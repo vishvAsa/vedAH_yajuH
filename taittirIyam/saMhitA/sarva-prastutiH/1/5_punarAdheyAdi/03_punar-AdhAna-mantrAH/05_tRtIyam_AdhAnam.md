@@ -54,10 +54,10 @@ Keta, Saketa, Suketa, may these Adityas rejoicing partake of our oblation;
 कित ज्ञाने, सर्वैर्ज्ञायते इति केतः सर्वैरुपासनीयः । सकेतसुकेतौ गतौ ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 विव॑स्वा॒ꣳ॒ अदि॑ति॒र् देव॑जूति॒स् ते  
-न॑ आदि॒त्या आज्य॑ञ् जुषा॒णा वि॑यन्तु+++(=पिबन्तु)+++ ॥ [12]
+न॑ आदि॒त्या आज्य॑ञ् जुषा॒णा **वि॑यन्तु**+++(=पिबन्तु)+++ ॥ [12]
 </details>
 
 <details><summary>Keith</summary>

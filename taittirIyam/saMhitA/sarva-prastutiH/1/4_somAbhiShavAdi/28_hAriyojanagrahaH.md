@@ -45,7 +45,7 @@ mounter on the bays, bearer of the bolt, lover of Prśni;
 
 तस्य॑ ते देव सोम  
 +इ॒ष्ट-य॑जुषस्, स्तु॒त-स्तो॑मस्य, श॒स्तोक्थ॑स्य॒,  
-हरि॑वन्त॒ङ् ग्रह॑ङ् गृह्णामि  ।
+हरि॑वन्त॒ङ् **ग्रह॑ङ् गृह्णामि**  ।
 </details>
 
 <details><summary>Keith</summary>

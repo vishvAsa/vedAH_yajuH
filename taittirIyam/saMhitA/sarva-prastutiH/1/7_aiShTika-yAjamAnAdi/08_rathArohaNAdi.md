@@ -994,8 +994,8 @@ O ye steeds, prize winning, that have run for the prize, that have won the prize
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒यव्ँ व॒स् सा स॒त्या स॒न्धा ऽभू॒त्  
-याम् इन्द्रे॑ण स॒म्-अध॑ध्व॒म् ।
+इ॒यव्ँ व॒स् सा स॒त्या **स॒न्धा ऽभू॒त्**  
+याम् इन्द्रे॑ण **स॒म्-अध॑ध्व॒म्**+++(=कृतवन्तः)+++ ।
 </details>
 <details><summary>Keith</summary>
 

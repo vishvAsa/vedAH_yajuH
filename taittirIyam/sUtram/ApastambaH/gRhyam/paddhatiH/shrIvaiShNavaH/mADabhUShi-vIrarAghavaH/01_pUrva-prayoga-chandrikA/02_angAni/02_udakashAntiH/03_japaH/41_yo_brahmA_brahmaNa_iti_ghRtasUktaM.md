@@ -4,7 +4,7 @@ title = "४१ 'यो ब्रह्मा ब्रह्मण' इति �
 +++
 च जपित्वा, 
 
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/AyuShya-ghRta-sUktam__yo_brahmA">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/baudhAyanaH/gRhyam/mantrAdi/AyuShya-ghRta-sUktam__yo_brahmA"  newLevelForH1="5" includeTitle="false">   
 <details open><summary><h4>आयुष्य‌/घृत-सूक्तम् ...{Loading}...</h4></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

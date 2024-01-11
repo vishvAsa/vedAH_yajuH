@@ -95,9 +95,9 @@ quicken the lord of the sacrifice;
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒भि सव॑ना पाहि ।  
-विष्णु॒स् त्वाम् पा॑तु ।  
-विश॒न् त्वम् पा॑हीन्द्रि॒येण॑।
+अ॒भि सव॑ना **पाहि** ।  
+विष्णु॒स् त्वाम् **पा॑तु** ।  
+विश॒न् त्वम् **पा॑हीन्द्रि॒येण॑**।
 </details>
 <details><summary>Keith</summary>
 

@@ -219,7 +219,7 @@ title = "०१ प्रतिसरः"
 
 [[57]]
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/AyuShya-ghRta-sUktam__yo_brahmA"  newLevelForH1="5" includeTitle="false">   
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/baudhAyanaH/gRhyam/mantrAdi/AyuShya-ghRta-sUktam__yo_brahmA"  newLevelForH1="5" includeTitle="false">   
 
 > यो ब्रह्मा ब्रह्मण उज्जहार प्राणैशिरः कृत्तिवासाः पिनाकी ।  
 ईशानो देवस्स न आयुर्दधातु तस्मै जुहोमि हविषा घृतेन ।  

@@ -96,7 +96,7 @@ Do ye Pitrs rejoice in your portions.
 
 3आहवनीयमुपतिष्ठते - सुसन्दृशमिति पञ्चपदया ऐन्द्रापङ्क्त्या ॥
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 सु॒स॒न्दृश॑न् त्वा व॒यम्  
 मघ॑वन् मन्दिषी॒महि॑  ॥

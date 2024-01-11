@@ -48,14 +48,14 @@ The gods and the Asuras were in conflict;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते दे॒वा वि॑ज॒यम् उ॑प॒यन्तो॒  
-ऽग्नौ वा॒मव्ँ वसु॒ सन्-न्य्-अ॑दधत -  
+ते दे॒वा वि॑ज॒यम् **उ॑प॒यन्तो॒**  
+ऽग्नौ वा॒मव्ँ वसु॒ **सन्-न्य्-अ॑दधत** -  
 इ॒दमु॑ नो भविष्यति॒ यदि॑ +++(ते)+++ नो जे॒ष्यन्तीति॑  ।
 </details>
 
 <details><summary>Keith</summary>
 
- the gods, in anticipation of the contest, deposited in Agni their desirable riches (thinking),'This will still be ours, if they defeat us.
+the gods, in anticipation of the contest, deposited in Agni their desirable riches (thinking), 'This will still be ours, if they defeat us.
 </details>
 
 
