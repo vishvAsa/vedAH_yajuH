@@ -352,7 +352,7 @@ With the rays of the bright sun.
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-－चि॒त्पति॑स्त्वा पुनातु वा॒क्पति॑स्त्वा पुनातु दे॒वस्त्वा॑ सवि॒ता पु॑ना॒त्वच्छि॑द्रेण प॒वित्रे॑ण॒ वसो॒स्सूर्य॑स्य र॒श्मिभिः
+चि॒त्पति॑स्त्वा पुनातु वा॒क्पति॑स्त्वा पुनातु दे॒वस्त्वा॑ सवि॒ता पु॑ना॒त्वच्छि॑द्रेण प॒वित्रे॑ण॒ वसो॒स्सूर्य॑स्य र॒श्मिभिः
 </details>
 <details><summary>मूलम्</summary>
 
@@ -363,7 +363,7 @@ With the rays of the bright sun.
 
 अच्छिद्रेणेति सर्वत्रानुषज्यते । चित् चैतन्यं ज्ञानम् । चेतयतेः 'अन्येभ्योपि दृश्यन्ते' इति क्विप् । तस्य पतिरुत्पादकः पालकः चित्पतिः मनइन्द्रियमुच्यते । 'मनो वै चित्पतिः' इति ब्राह्मणम् । स त्वां पुनातु मानसा दोषा यथा न स्युस्तथा करोतु ।
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/bhaTTa-bhAskara-TIkA/1/1_darshapUrNamAsAdiH/05_haviHproxaNAdiH/achChidreNa.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/bhaTTa-bhAskara-TIkA/1/1_darshapUrNamAsAdi/05_haviHproxaNAdiH/achChidreNa.md">
 <details open><summary><h5>अच्छिद्रेण ...{Loading}...</h5></summary>
 
 **अच्छिद्रेण पवित्रेण** जगतां पावनेन आदित्यात्मनानेन;  
@@ -395,7 +395,7 @@ With the rays of the bright sun.
 
 किञ्च - वाचः शब्दस्य पतिरुत्पादकः वाक्पतिर्वागिन्द्रियमुच्यते, मनसोनन्तरं यस्य प्रवृत्तिः । 'यद्धि मनसा ध्यायति तद्वाचा वदति' इति ब्राह्मणम् । स च त्वां पुनातु वाचिकेभ्यो दोषेभ्यो निवृत्तिं करोतु । 'वाचैवैनं पवयति' इति ब्राह्मणम् । अत्र 'न भूवाक्चिद्दिधिषु' इत्युत्तरपदलक्षणे पूर्वपदप्रकृतिस्वरे निषिद्धे 'परादिश्छन्दसि बहुलम्' इत्युत्तरपदाद्युदात्तत्वम् ।
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/bhaTTa-bhAskara-TIkA/1/1_darshapUrNamAsAdiH/05_haviHproxaNAdiH/achChidreNa.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/bhaTTa-bhAskara-TIkA/1/1_darshapUrNamAsAdi/05_haviHproxaNAdiH/achChidreNa.md">
 <details open><summary><h5>अच्छिद्रेण ...{Loading}...</h5></summary>
 
 **अच्छिद्रेण पवित्रेण** जगतां पावनेन आदित्यात्मनानेन;  
@@ -426,7 +426,7 @@ With the rays of the bright sun.
 
 किञ्च - देवस्सविता सर्वस्य प्रेरकः मनःप्रभृतेश्च प्रेरकः, स च त्वां पुनातु । अच्छिद्रेणेति व्याख्यातं 'देवो वस्सवितोत्पुनातु' इत्यत्र । 'इन्द्रो वृत्रमहन् सोपोभ्यम्रियत' इति ब्राह्मणम् ॥
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/bhaTTa-bhAskara-TIkA/1/1_darshapUrNamAsAdiH/05_haviHproxaNAdiH/achChidreNa.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/bhaTTa-bhAskara-TIkA/1/1_darshapUrNamAsAdi/05_haviHproxaNAdiH/achChidreNa.md">
 <details open><summary><h5>अच्छिद्रेण ...{Loading}...</h5></summary>
 
 **अच्छिद्रेण पवित्रेण** जगतां पावनेन आदित्यात्मनानेन;  
