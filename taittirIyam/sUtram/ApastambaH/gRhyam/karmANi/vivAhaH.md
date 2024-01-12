@@ -748,7 +748,7 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 
 </details>
 </div>
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/12_imam_me.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/025/19_imaM_me.md">
 <details open><summary><h4>१२ इमम् मे ...{Loading}...</h4></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/025/19_imaM_me.md">
 <details open><summary><h6>१९ इमं मे ...{Loading}...</h6></summary>
@@ -761,7 +761,7 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 </div>
 </details>
 </div>
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/13_tattvA_yAmi.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/11_tattvA_yAmi.md">
 <details open><summary><h4>१३ तत्त्वा यामि ...{Loading}...</h4></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/11_tattvA_yAmi.md">
 <details open><summary><h6>११ तत्त्वा यामि ...{Loading}...</h6></summary>
@@ -1488,7 +1488,7 @@ ___________
 
 </details>
 </div>
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_07/06-10_imam_me.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/025/19_imaM_me.md">
 <details open><summary><h4>०६-१० इमम् मे ...{Loading}...</h4></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/025/19_imaM_me.md">
 <details open><summary><h6>१९ इमं मे ...{Loading}...</h6></summary>
@@ -1775,7 +1775,7 @@ _____________
 
 </details>
 </div>
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_08/11_-15_imam_me.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/025/19_imaM_me.md">
 <details open><summary><h4>११ -१५ इमम् मे ...{Loading}...</h4></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/025/19_imaM_me.md">
 <details open><summary><h6>१९ इमं मे ...{Loading}...</h6></summary>

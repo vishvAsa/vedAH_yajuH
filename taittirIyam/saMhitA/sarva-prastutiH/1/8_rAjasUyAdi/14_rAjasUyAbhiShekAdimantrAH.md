@@ -316,7 +316,7 @@ O Rudra, that highest active name of thee, to that thou art offered, thou art of
 </details>
 
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_22/19_prajApate_na.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/121/10_prajApate_na.md">
 <details open><summary><h2>१९ प्रजापते न ...{Loading}...</h2></summary>
 
 
@@ -328,7 +328,7 @@ O Rudra, that highest active name of thee, to that thou art offered, thou art of
 </details>
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_22/19_prajApate_na.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/121/10_prajApate_na.md">
 <details open><summary><h2>१९ प्रजापते न ...{Loading}...</h2></summary>
 
 
