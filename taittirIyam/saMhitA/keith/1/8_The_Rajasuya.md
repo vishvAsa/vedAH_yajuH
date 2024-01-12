@@ -5,29 +5,7 @@ title = "8 The Rajasuya"
 
 ## 15
 
-### a
-Thou art the bolt of Indra, slaying foes; with thee may he slay his foe.
-### b
-By the precept of Mitra and Varuna, the directors, I yoke thee with the yoking of the sacrifice.
-### c
-Thou art the stepping of Visnu, thou art the step of Visnu, thou art the stride of Visnu
-### d
-On the instigation of the Maruts may I conquer.
-### e
-Be mind ready.
-### f
-May I be united with power and strength.
-### g
-Thou art the spirit of cattle; like them may my spirit be.
-### h
-Homage to mother earth; may I not harm mother earth [1]; may mother earth harm me not.
-### i
-So great art thou, thou art life, bestow life upon me; thou art strength, bestow strength upon me; thou art the yoker; thou art radiance, bestow radiance upon me.
 ### k
-To Agni, lord of the house, hail! To Soma, lord of the forest, hail! To Indra's strength hail! To the Maruts' force hail!  
-I The gander seated in purity, the bright one seated in the atmosphere,  
-The Hotr seated at the altar, the guest seated in the house,  
-Seated among men, seated in the highest, seated in holy order, seated in the firmament, Born of the waters, born of the cows, born of holy order, born of the mountain, the great holy order.
 ## 16
 ### a
 Thou art Mitra, thou art Varuna.
