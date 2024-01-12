@@ -3,20 +3,11 @@ title = "8 The Rajasuya"
 
 +++
 
-## 15
-
-### k
-## 16
-### a
-Thou art Mitra, thou art Varuna.
 ### b
-May I be united with the All-gods.
+
 ### c
-Thou art the navel of kingly power, thou are the womb of kingly power.
+
 ### d
-Sit thou on the smooth, sit thou on the pleasant seat.
-### e
-May she hurt thee not; may she hurt me not.
 ### f
 Varuna, of sure vows, hath set him down  
 In the waters, with keen insight, for lordship.
