@@ -3,60 +3,6 @@ title = "8 The Rajasuya"
 
 +++
 
-## 12
-### m
-## 13
-### a
-Do I thou mount the kindling (quarter); let the Gayatri of metres help thee; the Trivrt Stoma, the Rathantara Saman, the deity Agni, the treasure the Brahman class.
-### b
-Do thou mount the dread (quarter); let the Tristubh of metres help thee, the Pañcadaśa Stoma, the Brhat Saman, the deity Indra, the treasure the ruling class.
-### c
-Do thou mount the shining (quarter); let the Jagati of metres help thee, the Saptadaśa Stoma, the Vairapa Saman, the deity the Maruts, the treasure the peasant class.
-### d
-Do thou mount the northern (quarter); let the Anustubh of metres help thee [1], the Ekavinśa Stoma, the Vairaja Saman, the deity Mitra and Varuna, the treasure the host.
-### e
-Do thou mount the zenith; let the Pañkti of metres help thee, the Trinava, and Trayastrinśa Stomas, the Śakvara and Raivata Samans, the deity Brhaspati, the treasure radiance.
-### f
-Such like, other like, thus like, similar, the measured, commensurate, harmonious,
-### g
-Of pure radiance, of varied radiance, of true radiance, the radiant, true, protector of holy order [2], beyond distress.
-### h
-To Agni hail! To Soma hail! To Savitr hail! To Sarasvati hail!  
-To Pusan hail! To Brhaspati hail! To Indra hail! To sound hail!  
-To verse hail! To Anśa hail! To Bhaga hail! To the lord of the field hail!
-### i
-To earth hail! To atmosphere hail! To sky hail! To the sun hail! To the moon hail! To the Naksatras hail! To the waters hail! To plants hail! To trees hail! To moving creatures hail! To swimming creatures hail! To creeping creatures hail!
-## 14
-### a
-Thou art the glittering of Soma; as thine may my glittering be.
-### b
-Thou art ambrosia; from death protect me.
-### c
-From the thunderbolt protect me.
-### d
-Propitiated are biting flies.
-### e
-Cast away is Namuci's head.
-### f
-Soma, king Varuna, and the gods which instigate righteousness, may they instigate thy speech, may they instigate thy breath, may they instigate thy sight, may they instigate thine ear.
-### g
-With the glory of Soma I besprinkle thee, with the brilliance of Agni [1], with the radiance of the sun, with the power of Indra, with the strength of Mitra and Varuna, with the force of the Maruts.
-### h
-Thou art the lord of kingly powers.
-### i
-Protect from the sky.
-### k
-Out from below have they come,  
-Following the serpent of the deep;  
-On the back of the mountain, the hill,  
-The ships that pour spontaneously go ever.
-### l
-O Rudra, that highest active name of thee, to that thou art offered, thou art offered to Yama.
-### m
-O Prajapati, none other than thou  
-Hath encompassed all these beings;  
-Be that ours for which we sacrifice to thee  
-May we be lords of wealth.
 ## 15
 
 ### a
