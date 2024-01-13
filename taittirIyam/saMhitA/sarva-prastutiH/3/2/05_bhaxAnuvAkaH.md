@@ -519,7 +519,7 @@ O bountiful one, fair to see;
 
 19प्राजापत्यया त्रैष्टुभा गार्हपत्यमुपतिष्ठते - प्रजापत इति ॥ व्याख्याता चेयं 'सोमस्य त्विषिरसि' इत्यत्र । 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_22/19_prajApate_na.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/121/10_prajApate_na.md">
 <details open><summary><h2>१९ प्रजापते न ...{Loading}...</h2></summary>
 
 
@@ -530,7 +530,7 @@ O bountiful one, fair to see;
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_22/19_prajApate_na.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/121/10_prajApate_na.md">
 <details open><summary><h2>१९ प्रजापते न ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 

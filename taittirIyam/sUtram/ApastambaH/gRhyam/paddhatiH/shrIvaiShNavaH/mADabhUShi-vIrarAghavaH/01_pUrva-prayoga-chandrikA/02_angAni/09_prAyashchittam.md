@@ -270,7 +270,7 @@ title = "०९ प्रायश्चित्तम्"
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/4/1/68_tvamagne_ayAsi.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_22/19_prajApate_na.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/121/10_prajApate_na.md">
 <details open><summary><h2>१९ प्रजापते न ...{Loading}...</h2></summary>
 
 
