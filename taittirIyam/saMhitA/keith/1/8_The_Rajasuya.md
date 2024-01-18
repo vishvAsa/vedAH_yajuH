@@ -4,8 +4,6 @@ title = "8 The Rajasuya"
 +++
 
 
-## 19
-To Agni he offers on eight potsherds; the sacrificial fee is gold. To Indra (he offers) on eleven potsherds; the sacrificial fee is a bull. To the All-gods (he offers) an oblation; the sacrificial fee is a tawny heifer. To Mitra and Varuna (he offers) clotted curds; the sacrificial fee is a cow. To Brhaspati (he offers) an oblation; the sacrificial fee is a white-backed (ox). To the Adityas he sacrifices a sheep in young, to the Maruts a dappled heifer. To the Aśvins and Pusan he offers a cake on twelve potsherds; to Sarasvati of true speech an oblation; to Savitr of true instigation a cake on twelve potsherds; the sacrificial fee is a dry skin bag and a bow with three arrows.
 ## 20
 To Agni he offers on eight potsherds; to Soma, an oblation; to Savitr on twelve potsherds; to Brhaspati an oblation; to Tvastr on eight potsherds; to (Agni) Vaiśvanara on twelve potsherds; the sacrificial fee is the southern drawer of the chariot stand. To Sarasvati he offers an oblation; to Pusan an oblation; to Mitra an oblation; to Varuna an oblation; to the lord of the fields an oblation; to the Adityas an oblation; the sacrificial fee is the northern drawer of the chariot stand.
 ## 21
