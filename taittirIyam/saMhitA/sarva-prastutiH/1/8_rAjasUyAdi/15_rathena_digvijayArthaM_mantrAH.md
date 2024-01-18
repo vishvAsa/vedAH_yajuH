@@ -282,10 +282,12 @@ thou art the yoker; thou art radiance, bestow radiance upon me.
 14-17रथविमोचनीयं जुहोति - अग्नय इत्याद्याः ॥ 
 </details>
 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/15_rathena_digvijayArthaM_mantrAH/agnaye_gRhapataye_svAhA.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्नये॑ गृ॒ह-प॑तये॒ स्वाहा᳚ ।   
 सोमा॑य॒ वन॒स्-पत॑ये॒ स्वाहा᳚ ।   
 इन्द्र॑स्य॒ बला॑य॒ स्वाहा॑ ।  
 म॒रुता॒म् ओज॑से॒ स्वाहा॑।   
@@ -293,13 +295,12 @@ thou art the yoker; thou art radiance, bestow radiance upon me.
 
 <details><summary>Keith</summary>
 
-To Agni, lord of the house, hail! To Soma, lord of the forest, hail! To Indra's strength hail! To the Maruts' force hail!  
+To Soma, lord of the forest, hail! To Indra's strength hail! To the Maruts' force hail!  
 </details>
 
 
 <details><summary>मूलम्</summary>
 
-अ॒ग्नये॑ गृ॒हप॑तये॒ स्वाहा᳚ ।   
 सोमा॑य॒ वन॒स्पत॑ये॒ स्वाहा᳚ ।   
 इन्द्र॑स्य॒ बला॑य॒ स्वाहा॑ ।  
 म॒रुता॒मोज॑से॒ स्वाहा॑।   
@@ -307,7 +308,7 @@ To Agni, lord of the house, hail! To Soma, lord of the forest, hail! To Indra's 
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-अग्नये गृहाणां निवासाधाराणां पात्रे । सोमाय वनानां वनप्रभवानां दारूणां पात्रे । 'इन्द्रस्य वज्रोसि' इत्युक्तं, तदात्मने मरुतामोजसे वेगाय ॥
+सोमाय वनानां वनप्रभवानां दारूणां पात्रे । 'इन्द्रस्य वज्रोसि' इत्युक्तं, तदात्मने मरुतामोजसे वेगाय ॥
 </details>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
