@@ -3,21 +3,7 @@ title = "8 The Rajasuya"
 
 +++
 
-### b
-### c
-### d
-What then? As men who have barley  
-Reap the barley in order, removing it,  
-Hither bring the food of those  
-Who have not gone to the reverential cutting of the straw.
-### e
-To the Aśvins he sacrifices a dusky (ox), to Sarasvati a ram, to Indra a bull.
-### f
-To Indra he offers on eleven potsherds, to Savitr on twelve potsherds, to Varuna on ten potsherds.
-### g
-O Pitrs, beaded by Soma, rejoice.
-### h
-The sacrificial fee is a mare.
+
 ## 22
 ### a
 O Agni and Visnu, great is your greatness;  
