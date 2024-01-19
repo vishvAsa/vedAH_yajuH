@@ -3,20 +3,8 @@ title = "8 The Rajasuya"
 
 +++
 
-
-## 20
-To Agni he offers on eight potsherds; to Soma, an oblation; to Savitr on twelve potsherds; to Brhaspati an oblation; to Tvastr on eight potsherds; to (Agni) Vaiśvanara on twelve potsherds; the sacrificial fee is the southern drawer of the chariot stand. To Sarasvati he offers an oblation; to Pusan an oblation; to Mitra an oblation; to Varuna an oblation; to the lord of the fields an oblation; to the Adityas an oblation; the sacrificial fee is the northern drawer of the chariot stand.
-## 21
-### a
-The sweet with the sweet, bitter with the bitter, immortal with the immortal, with the Soma I unite thee; thou art Soma; be ready for the Aśvins, be ready for Sarasvati, be ready for Indra, the good protector.
 ### b
-Let the daughter of the Sun  
-Purify for thee the flowing Soma  
-With the eternal sieve.
 ### c
-Vayu purified by the strainer,  
-Soma hath sped away,  
-Indra's dear friend.
 ### d
 What then? As men who have barley  
 Reap the barley in order, removing it,  
