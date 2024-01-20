@@ -3,14 +3,6 @@ title = "8 The Rajasuya"
 
 +++
 
-### f
-Then to the father, with the All-gods, to the strong one, Let us pay honour with sacrifices, with reverence, with oblations; O Brhaspati, with good offspring, with heroes,  
-May we be lords of wealth.
-### g
-That various wealth bestow upon us,  
-O Brhaspati, that shall surpass the enemy,  
-That shall shine glorious, with insight among men,  
-That shall be resplendent in glory, O thou who art born of holy order [2].
 ### h
 O Mitra and Varuna,  
 Bedew our pasturage with ghee  
