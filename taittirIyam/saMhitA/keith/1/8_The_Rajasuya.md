@@ -6,25 +6,9 @@ title = "8 The Rajasuya"
 ### h
 ### i
 ### k
-Agni for you I honour in song,  
-The god first of the bright ones;  
-Honouring him who prospereth the fields  
-Like a much loved friend.
 ### l
-Swiftly (goeth) the chariot of the worshipper [3]  
-Like a hero in every contest;  
-He who by sacrifice is fain to win the mind of the gods Shall prevail over those who sacrifice not.
-### m
-Thou art not harmed, O sacrificer,  
-Nor thou, O pourer, nor thou, O pious one;  
-There shall be wealth of heroes,  
-And plenteousness of swift steeds;  
-No one shall in act approach him,  
-No one shall anticipate him nor stay him.
+### m 
 ### n
-Streams, health-bringing, like milch cows,  
-Pour up to the man who hath sacrificed and shall sacrifice; Him who filleth and satiateth [4], bringing fame,  
-Streams of ghee approach on all sides.
 ### o
 O Soma and Rudra, do ye drive away  
 The evil spirit that hath entered our abode;  
