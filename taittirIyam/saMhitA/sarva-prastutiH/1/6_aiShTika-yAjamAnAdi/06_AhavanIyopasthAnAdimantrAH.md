@@ -1066,13 +1066,17 @@ _______
 
 15प्राङुत्क्रम्य गोमतीं जपति - गोमानिति त्रिष्टुभा ॥ 
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/06_AhavanIyopasthAnAdimantrAH/02_gomAM_agne.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 गोमाꣳ॑ अ॒ग्ने, ऽवि॑माꣳ, अ॒श्वी **य॒ज्ञो**  
 नृ॒वथ्+++(→देव)+++-स॑खा॒ सद॒म्+++(=सदा)+++ इद् अ॑प्रमृ॒ष्यः ।  
 इडा॑वाꣳ ए॒षो +++(→य॒ज्ञो)+++ अ॑सुर प्र॒जावा᳚न्  
 दी॒र्घो र॒यिᳶ पृ॑थु-बु॒ध्नस्+++(=मूलः)+++ स॒भावान्॑ ॥ [20]
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/06_AhavanIyopasthAnAdimantrAH/02_gomAM_agne.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 Rich in cattle, in sheep, O Agni, in horses, is the sacrifice,  
@@ -1089,7 +1093,11 @@ Enduring wealth, deep based and rich in houses.
 
 यज्ञः पुनराभवत्वित्युक्तं, कीदृशः स आभवत्विति स विशेष्यते।  
 हे **अग्ने** गोभिर्बहुभिः अविभिर् अश्वैश् च तद्-वान् **नृवत्-सखा** मनुष्यवन्तो देवास् सखायो यस्य तादृशः । छान्दसम्मतुपो वत्वम् । **सदम् इत्** सदैवाप्रमृष्यः अनभिभवनीयः । 'ऋदुपधाच्चाकॢपिचृतेः' इति क्यप्, 'ययतोश्चातदर्थे' इत्युत्तरपदान्तोदात्तत्वम् । **इडावान्** अन्नवान् । 'दीर्घादटि समानपादे' इति नकारस्य संहितायां रुत्वम् । **प्रजावान्** दीर्घः सन्ततिमान् अविछिन्नः **पृथु-बुध्नः** विस्तीर्ण-मूलः **रयिः** साक्षाद्धनं च सभावान् गृहवान् **एष** ईदृशो यज्ञः पुनःपुनराभवतु आगच्च्छतु कालेकाले **असुर** असुमान् प्राणवान् । मत्वर्थीयो रः, सूलुक् ॥
- 
 </details>
+</details>
+</div>
+
+
+
 
 इति षष्ठे षष्ठोनुवाकः ॥ 

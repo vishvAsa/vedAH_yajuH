@@ -232,7 +232,8 @@ this is thy birthplace; to Indra thee!
 
 7अथ चतुर्थम् - ये ग्रहा इति पञ्चपदया पङ्क्त्या ॥ 
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/12_atigrAhyamantrAbhidhAnam/02_ye_grahAH.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 ये ग्रहाः᳚ पञ्चज॒नीना॒  
 येषा᳚न् ति॒स्रᳶ प॑रम॒जाः ।  
@@ -240,13 +241,16 @@ this is thy birthplace; to Indra thee!
 तेषा॒व्ँ विशि॑-प्रियाणा॒म्  
 इष॒म् ऊर्ज॒ꣳ॒ **सम॑ग्रभीम्**+++(←स्वरः??)+++ ।
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/12_atigrAhyamantrAbhidhAnam/02_ye_grahAH.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 The cups of the five folk,  
 Of which three are of highest birth,  
 (And for which) the divine cask [1] has been forced out  
 Of these that have no handles  
-The food and strength have I seized;  
+The food and strength have I seized;
 </details>
 <details><summary>मूलम्</summary>
 
@@ -262,6 +266,8 @@ The food and strength have I seized;
 
 तेषां तेभ्यः । तादर्थ्यचतुर्थ्याष्षष्ठी । विशिप्रियाणां विविधहनुपर्यन्तानां इषमन्नमूर्जं रसं च समग्रभीं सङ्गृह्णामि । उपयामगृहीतोसीति गृह्णाति । छान्दसे लुङि 'अमो मश्' 'हृग्रहोर्भः' ॥
 </details>
+</details>
+</div>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/12_atigrAhyamantrAbhidhAnam/eSha_te_yonir_indrAya.md">
 <details open><summary><h5>एष ते योनीः ...{Loading}...</h5></summary>
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -294,31 +300,37 @@ this is thy birthplace; to Indra thee!
 
 9-10अथ पञ्चमम् - अपां रसमित्यनुष्टुप् ॥ 
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/12_atigrAhyamantrAbhidhAnam/03_apAM_rasam.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अ॒पाꣳ रस॒म्, उद्-व॑यस॒ꣳ॒+++(=उज्जीवनम्)+++,  
 सूर्य॑-रश्मिꣳ स॒माभृ॑तम् ।  
 अ॒पाꣳ रस॑स्य॒ यो रस॒स्  
-तव्ँ वो॑ **गृह्णाम्य्** उत्त॒मम् ॥  
+तव्ँ वो॑ **गृह्णाम्य्** उत्त॒मम् ॥
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/12_atigrAhyamantrAbhidhAnam/03_apAM_rasam.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 The sap of the waters, the vigorous,  
 The ray of the sun that has been gathered,  
 The sap of the sap of the waters,  
-That of you I take which is the best;  
+That of you I take which is the best;
 </details>
 <details><summary>मूलम्</summary>
 
 अ॒पाꣳ रस॒मुद्व॑यस॒ꣳ॒ सूर्य॑रश्मिꣳ स॒माभृ॑तम् ।  
-अ॒पाꣳ रस॑स्य॒ यो रस॒स्तव्ँवो॑ गृह्णाम्युत्त॒मम् ॥  
+अ॒पाꣳ रस॑स्य॒ यो रस॒स्तव्ँवो॑ गृह्णाम्युत्त॒मम् ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
 **अपां रसं** सारं **उद्वयसं** उद्भूतान्नं उद्भूतजीवनं वा । सूर्यरश्मिं पावकरश्मिम् । यद्वा - सूर्यो रश्मिस्थानीयो यस्य । यद्वा - तृतीयबहुवचनस्य स्थाने व्यत्ययेन द्वितीयैकवचनम् । सूर्यरश्मिभिस्समाभृतं सम्यक्समन्ताच्च घृतं सम्यगाहृतं वा । 'हृग्रहोर्भः' ।   
 किञ्च – तस्यापां रसस्य यो रसः अन्नं तदुत्तमं तस्मादुत्तमाय प्रशस्ताय जलरसायान्नाय च वो युष्मान्गृह्णामीति ।   
-उपयामगृहीतोसीति गृह्णाति । क्रियाविशेषणं वा, उत्तमं गृह्णामीति । तादर्थ्यात्ताच्छब्द्यम् । उत्तमशब्द उञ्छादिः । 'ऊडिदम्' इत्यद्भ्यष्षष्ठ्या उदात्तत्वम् ।  
+उपयामगृहीतोसीति गृह्णाति । क्रियाविशेषणं वा, उत्तमं गृह्णामीति । तादर्थ्यात्ताच्छब्द्यम् । उत्तमशब्द उञ्छादिः । 'ऊडिदम्' इत्यद्भ्यष्षष्ठ्या उदात्तत्वम् ।
 </details>
+</details>
+</div>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/12_atigrAhyamantrAbhidhAnam/eSha_te_yonir_indrAya.md">
 <details open><summary><h5>एष ते योनीः ...{Loading}...</h5></summary>
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -351,13 +363,17 @@ this is thy birthplace; to Indra thee!
 
 11-12सुराग्रहान् गृह्णाति - अया विष्ठा इति त्रिष्टुभा यजुरन्तया ॥
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/12_atigrAhyamantrAbhidhAnam/04_ayA_viShThA.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अ॒या+++(=अनया)+++ वि॒-ष्ठा ज॒नय॒न् कर्व॑राणि॒+++(=कर्माणि)+++  
 स हि घृणि॑र्+++(←घृ सेके छादने वा)+++ उ॒रुर् वरा॑य गा॒तुः+++(=मार्गः)+++ ।  
 स **प्रत्य्-उदै᳚द्** ध॒रुणो॒ मध्वो॒ अग्र॒ꣵ॒  
-स्वाया॒य्ँ यत् त॒नुवा᳚न् +++(काम् अपि)+++ त॒नूम् **ऐर॑यत** ।  
+स्वाया॒य्ँ यत् त॒नुवा᳚न् +++(काम् अपि)+++ त॒नूम् **ऐर॑यत** ।
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/12_atigrAhyamantrAbhidhAnam/04_ayA_viShThA.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 By this shape producing mighty deeds,  
@@ -368,7 +384,7 @@ What time he moved a body in his own body.
 <details><summary>मूलम्</summary>
 
 अ॒या वि॒ष्ठा ज॒नय॒न्कर्व॑राणि॒ स हि घृणि॑रु॒रुर्वरा॑य गा॒तुः ।  
-स प्रत्युदै᳚द्ध॒रुणो॒ मध्वो॒ अग्र॒ꣵ॒ स्वाया॒य्ँयत्त॒नुवा᳚न्त॒नूमैर॑यत ।  
+स प्रत्युदै᳚द्ध॒रुणो॒ मध्वो॒ अग्र॒ꣵ॒ स्वाया॒य्ँयत्त॒नुवा᳚न्त॒नूमैर॑यत ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -378,8 +394,10 @@ What time he moved a body in his own body.
 **कर्वराणि** कर्माणि कार्यजातानि वा  
 य एवं करोति प्रजापतिः स हि **घृणिः** दीप्यमानः । घृणि दीप्तौ 'इन् सर्वधातुभ्यः' इतीन् । हेतौ हिः ।  
 घृणिमान्वा **घृणिः**, मत्वर्थीयो लुप्यते ।  
-**उरुर्** महान् **वराय** वरिष्ठाय फलाय **गातुर्** मार्गः प्राप्तेः पुरुषार्थप्राप्तिरित्यर्थः । तादर्थ्ये चतुर्थी । स तादृशः प्रत्युदैत् प्रत्युद्गच्छतु । छान्दसो लुङ् । किम् ? **मध्वः** उदकस्य अग्रं सारम् । नुमभावच्छान्दसः, 'जसादिषु वा वचनं प्राङ्णौ चङ्युपधायाः' इति गुणाभावः । धरुणो धारयिता स तादृशः मदुनोग्रं प्राप्नोतु । यद्यस्मात्स्वायामात्मीयायां तनुवां शरीरभूतेस्मिन् ग्रहे तनुं स्वशरीरमैरयत प्रेरयति ; तस्मादेतद्ग्रहात्मा अस्मदभिमतं साधयत्विति ।  
+**उरुर्** महान् **वराय** वरिष्ठाय फलाय **गातुर्** मार्गः प्राप्तेः पुरुषार्थप्राप्तिरित्यर्थः । तादर्थ्ये चतुर्थी । स तादृशः प्रत्युदैत् प्रत्युद्गच्छतु । छान्दसो लुङ् । किम् ? **मध्वः** उदकस्य अग्रं सारम् । नुमभावच्छान्दसः, 'जसादिषु वा वचनं प्राङ्णौ चङ्युपधायाः' इति गुणाभावः । धरुणो धारयिता स तादृशः मदुनोग्रं प्राप्नोतु । यद्यस्मात्स्वायामात्मीयायां तनुवां शरीरभूतेस्मिन् ग्रहे तनुं स्वशरीरमैरयत प्रेरयति ; तस्मादेतद्ग्रहात्मा अस्मदभिमतं साधयत्विति ।
 </details>
+</details>
+</div>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
 <details open><summary><h5>उपयामगृहीतः ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

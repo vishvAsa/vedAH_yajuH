@@ -336,7 +336,7 @@ Notes: the worship of Rudra Vāstoṣpati in this context is a distinctive aspec
 
 भूर् भुवः॒ सुवः॑ ।  
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/3/5/11"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/3/5/11/11_shaMyu-vAkaH_tach_ChaMyoH"  newLevelForH1="5" includeTitle="false"> </div>  
 
 Notes: This Vaidika section largely follows the pattern seen in other smārta traditions.
 
@@ -415,7 +415,7 @@ Notes: The Mātṛ-s invoked here belong to two groups. The first are set of god
 प्रजापते आगच्छ ।
 
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_22/19_prajApate_na.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/121/10_prajApate_na.md">
 <details open><summary><h2>१९ प्रजापते न ...{Loading}...</h2></summary>
 
 

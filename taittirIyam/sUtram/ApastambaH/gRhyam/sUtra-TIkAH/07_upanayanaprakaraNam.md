@@ -1260,7 +1260,7 @@ title = "०७ उपनयनप्रकरणम्"
 
 </details>
 </div>
-<div class="js_include bg-light-yellow" includetitle="true" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/07-11_imam_me.md">
+<div class="js_include bg-light-yellow" includetitle="true" newlevelforh1="4" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/025/19_imaM_me.md">
 <details open><summary><h7>०७-११ इमम् मे ...{Loading}...</h7></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/025/19_imaM_me.md">
 <details open><summary><h9>१९ इमं मे ...{Loading}...</h9></summary>

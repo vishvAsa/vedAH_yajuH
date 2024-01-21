@@ -144,6 +144,9 @@ víśvāya ← víśva- (nominal stem)
 
 ____________
 **त्यं** तं इमं **देवं जातवेदसं** जातप्रज्ञं जातानां वेदितारं **केतवो** रश्मय **उद्वहन्ति** ऊर्ध्वं वहन्ति **दृशे** द्रष्टुं **विश्वाय** विश्वार्थं, विश्वो लोको यथैनं पश्येदिति ।
+___________
+देवं सूर्यं जातवेदसं जातानां वेदितारं देवं केतवो रश्मयः उद्वहन्ति विस्वस्य लोकस्य दृशे दर्शनार्थमिति ॥
+
 </details>
 <details><summary>Wilson</summary>
 
@@ -250,7 +253,7 @@ _______
 
 चि॒त्रं दे॒वाना॒म् **उद॑गा॒द्** अनी॑कं॒  
 चक्षु॑र् मि॒त्रस्य॒ वरु॑णस्या॒ग्नेः ।  
-**आ-प्रा॒** द्यावा॑-पृथि॒वी अ॒न्तरि॑क्षं॒  
+**आ-प्रा॒**+++(←पूरणे)+++ द्यावा॑-पृथि॒वी अ॒न्तरि॑क्षं॒  
 **सूर्य॑** आ॒त्मा जग॑तस् त॒स्थुष॑श् च ॥
 
 </details>
@@ -428,6 +431,10 @@ tasthúṣaḥ ← √sthā- (root)
 <details><summary>भट्टभास्कर-टीका</summary>
 
 चित्रं चायनीयं देवानामनीकं सङ्घातरूपम्मण्डलम् । यद्वा - देवानां रश्मीनां अनीकं मुखं समुदायस्थानं वा । मित्रादीनां देवानामपि चक्षुस्स्थानं , तेपि हि तेन प्रकाशितं पश्यन्ति । यद्वा - मित्रत्वादिपदप्राप्तिहेतुत्वाच्चक्षुरित्युपचर्यते । उपलक्षणं चैतत्, सर्वदेवतापदलाभहेतुत्वात्; भवति मण्डलोपासनमिति । इर्दृशमण्डलमुदगात् उदेति । छान्दसो लुङ्, 'गातिस्था' इति सिचो लुक् । यदा ईदृशम्मण्डलमुदेति तदा तन्मण्डलान्तर्गतो भगवान् सूर्यः जगतो जङ्गमस्य तस्थुषः स्थावरस्य च विश्वस्यात्मा द्यावापृथिवी द्यावापृथिव्यौ अन्तरिक्षं च रश्मिभिराप्राः आपूरयति । प्रा पूरणे पुरुषव्यत्ययः, अदादित्वाच्छपो लुक् । द्यौश्च पृथिवी च द्यावापृथिव्यौ । 'दिवो द्यावा' इति द्यावादेशः, 'वा छन्दसि' इति पूर्वसवर्णदीर्घः', 'देवताद्वन्द्वे च' इति पूर्वोत्तरयोर्युगपत्प्रकृतिस्वरत्वम्, पृथिवीशब्दो ङीषन्तोन्तोदात्तः ।
+
+_____________
+चित्रं चायनीयं सर्वलोकपूजितं देवानां रश्मीनामिन्द्रादीनां वा ऋत्विजां अनीकं मुखस्थानीयं समूहस्थानीयं वा उदगादुद्गच्छति सर्वात्मकसमष्टिरूपत्वात् । किं च – चक्षुस्थानीयं ख्यातिकरं वा मित्रादीनां । अयं देवो द्यावापृथिवी द्यावापृथिव्यौ अन्तरिक्षं च आप्राः आ (प्रागाः) पूरयति तेजसा । प्रा पूरणे, पूरुषव्यत्ययः । जगतः जङ्गमस्य सर्वस्य तस्थुषः स्थावरस्य सर्वस्यात्मा सूर्यः एकः प्रेरको वा सर्वस्य तस्मादात्मा ; सर्वोपकारकत्वात् । यद्वा - 'स यश्चायं पूरुषे । यश्चासावादित्ये । स एकः' इति दर्शनात् आत्मा सर्वस्य । अत्राचार्येण 'समानी याज्यानुवाक्ये भवतः' इत्येतदनुसारेण 'उदग्ने शुचयस्तव' 'विज्योतिषा' 'उदु त्यं जातवेदसम्' 'चित्रं देवानाम्' इति हविषां याज्यानुवाक्याः 'उदुत्यं जातवेदसम्' 'सप्त त्वा हरितो रथे' 'चित्रं देवानाम्' इति पिण्डान् प्रयच्छति इति ॥
+
 </details>
 <details><summary>Wilson</summary>
 
@@ -832,7 +839,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दिव॑ङ् गच्छ॒ सुवᳶ॑ पत ।
+दिव॑ङ् **गच्छ॒** सुवᳶ॑ **पत** ।
 </details>
 <details><summary>Keith</summary>
 
@@ -852,11 +859,15 @@ _______
 
 5दक्षिणा अभ्येति - रूपेणेति प्रथमया चतुर्दशाक्षरया ॥ 'अभ्यैमि वयसा वयः' इति द्वितीयः पादः । 
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/44-45_daxiNAsangatAmantrAH_dAxiNahomAdiH/02_rUpeNa_vo.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 रू॒पेण॑ [44] वो रू॒पम् ..  
-अ॒भ्यैमि॒ वय॑सा॒ वयः॑ ।  
+**अ॒भ्यैमि॒** वय॑सा॒ वयः॑ ।
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/44-45_daxiNAsangatAmantrAH_dAxiNahomAdiH/02_rUpeNa_vo.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 With my form [1] I approach your form; with my age your age.
@@ -864,13 +875,18 @@ With my form [1] I approach your form; with my age your age.
 <details><summary>मूलम्</summary>
 
 रू॒पेण॑ [44] वो रू॒पम् ..  
-अ॒भ्यैमि॒ वय॑सा॒ वयः॑ ।  
+अ॒भ्यैमि॒ वय॑सा॒ वयः॑ ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हे दक्षिणाः वः युष्माकं रूपं मदीयेन रूपेण अभ्यैमि आभिमुख्येन मर्यादया च एमि प्राप्नोमि ।   
 किञ्च - मदीयेन वयसा युष्मदीयं वय अभ्यैमीत्येव । गमनं वा वयः । मदीयेन गमनेन यूष्मदीयम् गमनमभ्यैमि, युष्माभिस्तुल्यरूपस्तुल्यगतिश्च भूयासामिति ॥
 </details>
+</details>
+</div>
+
+
+
 
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -904,13 +920,17 @@ _______
 
 7सदोऽभ्येति - एतत्ते अग्ने इति मध्येज्योतिषा जगत्या । 
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/44-45_daxiNAsangatAmantrAH_dAxiNahomAdiH/03_etat_te.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 ए॒तत् ते॑ अग्ने॒ **राध॒ ऐति॒** सोम॑-च्युतम् ..   
 तन् **मि॒त्रस्य॑ प॒था न॑य** ।   
 ऋ॒तस्य॑ प॒था **प्रेत॑ च॒न्द्र+++(=भ्राजमद्)+++-द॑ख्षिणा** ..   
 य॒ज्ञस्य॑ प॒था सु॑वि॒ता+++(=सु+इता)+++ नय॑न्तीः ॥
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/44-45_daxiNAsangatAmantrAH_dAxiNahomAdiH/03_etat_te.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 This gift of thine, Agni, cometh, impelled by the Soma.  
@@ -936,18 +956,27 @@ Leading prosperity by the path of the sacrifice.
 
 किञ्च - **यज्ञस्य पथा** 'द्वाभ्यां गार्हपत्ये जुहोति' इत्यादिप्रसिद्धेन मागेण सुविता **सुवितेन** स्वितेन सुगमेन । 'सुपां सुलुक्' इति तृतीयाया आकारः ,'सूपमानात्कः' इत्युत्तरपदान्तोदात्तत्वम्, तन्वादित्वात्सोरुवङादेशः, विकृतित्वादनवग्रहः । ईडृशेन मार्गेण नयन्तीः नयन्त्यः नीयमानाः प्रवर्तमाना वा । 'वा छन्दसि' इति पूर्वसवर्णदीर्घः ॥
 </details>
+</details>
+</div>
+
+
+
 
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8आत्रेयमभ्यर्थयति - ब्राह्मणमिति ॥ 
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/44-45_daxiNAsangatAmantrAH_dAxiNahomAdiH/04_brAhmaNam_adya.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 **ब्रा॒ह्म॒णम्** अ॒द्य **रा᳚ध्यास॒म्**+++(=साधयेयं)+++  
-ऋषि॑म् आर्षे॒यम् पि॑तृ॒मन्त॑म् पैतृम॒त्यꣳ+++(←पितृमत् + ण्यः)+++  
-सु॒-धातु॑-दख्षिणम् ।
+ऋषि॑म् आर्षे॒यम् पि॑तृ॒मन्त॑म्  
+पैतृम॒त्यꣳ+++(←पितृमत् + ण्यः)+++ सु॒-धातु॑-दख्षिणम् ।
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/44-45_daxiNAsangatAmantrAH_dAxiNahomAdiH/04_brAhmaNam_adya.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 May I win a Brahman to-day, a seer and sprung from seers, of (famous) father and grandfather, fit for the sacrificial gift.
@@ -963,6 +992,11 @@ May I win a Brahman to-day, a seer and sprung from seers, of (famous) father and
 **पैतृमत्यं** पितृमतः पितुरपत्यम् । 'वाङ्मतिपितृमतां छन्दसि ण्यः' ।  
 **सुधातुदक्षिणं** शोभनो धातुस्सुधातुः, धातूनामुत्तमं हिरण्यमुच्यते । तद्दक्षिणा यस्मै स **सुधातुदक्षिणः** । पूर्वपदप्रकृतिस्वरत्वम् । तत्र च 'आद्युदात्तं द्व्यच्छन्दसि' इत्युत्तरपदाद्युदात्तत्वम् ॥
 </details>
+</details>
+</div>
+
+
+
 
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>

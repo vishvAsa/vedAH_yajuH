@@ -10,12 +10,16 @@ _______
 
 1पुनरप्याश्विनग्रहणमन्त्रः - प्रातर्युजाविति गायत्री त्रिपदा । पूर्वेण सहास्य विकल्पः ॥
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/07_AshvinagrahaH/02_prAtaryujau_vi.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 +++(आश्विनशस्त्रादिभिः)+++ प्रा॒त॒र्-युजौ॒ **वि मु॑च्येथा॒म्**  
 अश्वि॑ना॒व् **एह ग॑च्छतम्** ।  
 अ॒स्य सोम॑स्य पी॒तये᳚ ॥
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/07_AshvinagrahaH/02_prAtaryujau_vi.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 Ye that yoke early be unloosed  
@@ -31,6 +35,11 @@ To drink this Soma.
 
 हे **अश्विनौ** यौ युवां **प्रातर्-युजौ** प्रातर्-योक्तारौ तौ **विमुच्येथाम्** यजमानान्तरैर् विमुक्तौ भवतं अन्य-यजमानान् विहाय इहास्मिन्कर्मण्य् आगच्छतम् । किमर्थम् ? - **अस्य सोमस्य पीतये** पानाय । 'क्तिच्कौ च संज्ञायाम्' इति क्तिच्, पानविशेषस्य संज्ञात्वात् ॥
 </details>
+</details>
+</div>
+
+
+
 
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>

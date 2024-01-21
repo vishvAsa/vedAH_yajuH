@@ -14,30 +14,22 @@ title = "०९ अग्निहोत्रब्राह्मणम्"
 
 1अथाग्निहोत्र-ब्राह्मणम् अग्न्यार्षेयम् । 
 </details>
-
-
-
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अ॒ग्नि॒हो॒त्रञ्जु॑होति॒ यदे॒व किञ्च॒ यज॑मानस्य॒ स्वन्तस्यै॒व तद्रेत॑स्सिञ्चति प्र॒जन॑ने प्र॒जन॑न॒ꣳ॒ हि वा अ॒ग्निरथौष॑धी॒रन्त॑गता दहति॒ तास्ततो॒ भूय॑सी॒ᳶ प्रजा॑यन्ते 
 </details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ॒ग्नि॒हो॒त्रञ् जु॑होति॒ - यद् ए॒व किञ्च॒ यज॑मानस्य॒ स्वन् +++(हुतम्)+++, तस्यै॒व तत् +++(तिष्ठति)+++ ।
 </details>
-
 <details><summary>Keith</summary>
 
 He offers the Agnihotra; whatever there is of the Sacrificer's own, that is (still) his. 
 </details>
-
-
 <details><summary>मूलम्</summary>
 
 अ॒ग्नि॒हो॒त्रञ्जु॑होति॒ यदे॒व किञ्च॒ यज॑मानस्य॒ स्वन्तस्यै॒व तत् ।
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तत्र 'अग्निहोत्रं जुहोति' इति विधिः ।  
@@ -57,68 +49,53 @@ He offers the Agnihotra; whatever there is of the Sacrificer's own, that is (sti
 
 **यद् एव किञ्च** यत् किञ्चिद् अपि पयो वा दधि वा यवागूं वा **जुहोति** द्रव्यं **तत् तस्यैव** यजमानस्य स्वम् अविनष्टम् एव तिष्ठति - तं च न मुञ्चति ।
 </details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रेत॑स् सिञ्चति प्र॒जन॑ने ।
 </details>
-
 <details><summary>Keith</summary>
 
 In the generative organ he pours seed, 
 </details>
-
-
 <details><summary>मूलम्</summary>
 
 रेत॑स्सिञ्चति प्र॒जन॑ने ।
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ननु दग्धमविनष्टं तिष्ठतीत्यसमीचीनम् । तत्राह - रेत इत्यादि । सदृशप्रधानो निर्देशः । यथा प्रजनने योनौ रेतास्सिक्तमविनष्टं तिष्ठति तत्सदृशमिदमिति जानीयादित्यर्थः । प्रजायन्ते प्रजा अस्मिन्निति प्रजननम् । 'करणाधिकरणयोश्च' इत्यधिकर्णे ल्युट् ।
 </details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र॒जन॑न॒ꣳ॒ हि वा अ॒ग्निः ।
 </details>
-
 <details><summary>Keith</summary>
 
 for Agni is the generative organ. 
 </details>
-
-
 <details><summary>मूलम्</summary>
 
 प्र॒जन॑न॒ꣳ॒ हि वा अ॒ग्निः ।
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अथाग्नेः प्रजननत्वं समर्थयते - प्रजननं हीति । ताद्धर्म्यात्ताच्छब्द्यम् । प्रजननसदृशोयमग्निरिति । नन्वग्निर्नाम सर्वं दहति, तत्कीदृशमस्य प्रजननसामर्थ्यमिति पर्यनुयोगावसरे प्रजननसामर्थ्यं दर्शयितुमाह - अथौषधीरन्तगता दहतीति ।
 </details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथौष॑धी॒र् अन्त॑गता दहति ।  
 तास् ततो॒ भूय॑सी॒ᳶ प्रजा॑यन्ते।
 </details>
-
 <details><summary>Keith</summary>
 
 Then he burns at the end the plants;  
 they then grow more numerous. 
 </details>
-
-
 <details><summary>मूलम्</summary>
 
 अथौष॑धी॒रन्त॑गता दहति ।  
 तास्ततो॒ भूय॑सी॒ᳶ प्रजा॑यन्ते।
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अथेति प्रस्तावे । अन्तं समीपं गता अन्तगताः । 'द्वितीयाश्रित' इति समासः, द्वितीयापूर्वपदप्रकृतिस्वरत्वम् । अयमग्निरेव समीपे निपतिता ओषधीर्दहति, ता यदृच्छानिपतिताः अमन्त्रहुता अपि ततः पूर्वं दग्ध स्वरूपेभ्यो भूयसीः भूयस्यः बहुतराः प्रजायन्ते । यदैवमिदं पश्यामः, तदा किं पुनर्मन्त्रहुता इति । 'वा छन्दसि' इति पूर्वसवर्णदीर्घत्वत् । तस्मादुपपन्नमग्नेः प्रजननत्वम् । अतस्तत्र हु[हुतं] तस्यैव स्वं भूयिष्ठं च प्रथते इति । उक्तञ्च - ' यावदेका देवता' इत्यादि । तस्मादग्निहोत्रं जुहोतीति ॥
@@ -130,27 +107,20 @@ they then grow more numerous.
 यथ् सा॒यञ् जु॒होति॒ - रेत॑ ए॒व तथ् सि॑ञ्चति।   
 प्रैव प्रा॑त॒स्तने॑न जनयति ।
 </details>
-
 <details><summary>Keith</summary>
 
 In that he offers in the evening, he thus pours seed,  
 and makes it productive by the morning (offering). 
 </details>
-
-
 <details><summary>मूलम्</summary>
 
 यथ्सा॒यञ्जु॒होति॒ रेत॑ ए॒व तथ्सि॑ञ्चति।   
 प्रैव प्रा॑त॒स्तने॑न जनयति ।
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 2अथ सायम्प्रातश्च होमं विधातुमाह - यत्सायमित्यादि ॥ गतम् ॥
 </details>
-
-
-
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 तद्रेत॑स्सि॒क्तन्न त्वष्ट्राऽवि॑कृत॒म्प्रजा॑यते याव॒च्छो वै रेत॑सस्सि॒क्तस्य॑ [36]त्वष्टा॑ रू॒पाणि॑ विक॒रोति॑ ताव॒च्छो वै तत्प्रजा॑यत ए॒ष वै दैव्य॒स्त्वष्टा॒ यो यज॑ते ब॒ह्वीभि॒रुप॑ तिष्ठते॒ रेत॑स ए॒व सि॒क्तस्य॑ बहु॒शो रू॒पाणि॒ वि क॑रोति॒ स प्रैव जा॑यते॒ श्वश्श्वो॒ भूया᳚न्भवति॒ य ए॒वव्ँवि॒द्वान॒ग्निमु॑प॒तिष्ठ॒ते  ऽह॑र्दे॒वाना॒मासी॒द्रात्रि॒रसु॑राणा॒न् तेऽसु॑रा॒ यद्दे॒वाना᳚व्ँवि॒त्तव्ँवेद्य॒मासी॒त्तेन॑ स॒ह [37]रात्रि॒म्प्रावि॑श॒न्ते दे॒वा ही॒ना अ॑मन्यन्त॒ ते॑ऽपश्यन्नाग्ने॒यी रात्रि॑राग्ने॒याᳶ प॒शव॑ इ॒ममे॒वाग्निꣵ स्त॑वाम॒ स न॑स्स्तु॒तᳶ प॒शून्पुन॑र्दास्य॒तीति॒ ते᳚ऽग्निम॑स्तुव॒न्थ्स ए᳚भ्यस्स्तु॒तो रात्रि॑या॒ अध्यह॑र॒भि प॒शून्निरा᳚र्ज॒त् ते दे॒वाᳶ प॒शून् वि॒त्वा कामाꣳ॑ अकुर्वत॒ य ए॒वव्ँवि॒द्वान॒ग्निमु॑प॒तिष्ठ॑ते पशु॒मान्भ॑वति [38]  आ॒दि॒त्यो वा अ॒स्माल्लो॒काद॒मुल्ँलो॒कमै॒त् सो॑ऽमुल्ँलो॒कङ्ग॒त्वा पुन॑रि॒मल्ँलो॒कम॒भ्य॑ध्याय॒त् स इ॒मल्ँलो॒कमा॒गत्य॑ मृ॒त्योर॑बिभेन्मृ॒त्युस॑य्ँयुत इव॒ ह्य॑यल्ँलो॒कस्सो॑ऽमन्यते॒ममे॒वाग्निꣵ स्त॑वानि॒ स मा᳚ स्तु॒तस्सु॑व॒र्गल्ँलो॒कङ्ग॑मयिष्य॒तीति॒ सो᳚ऽग्निम॑स्तौ॒त् स ए॑नꣵ स्तु॒तस्सु॑व॒र्गल्ँलो॒कम॑गमय॒द्यः [39] ए॒वव्ँवि॒द्वान॒ग्निमु॑प॒तिष्ठ॑ते सुव॒र्गमे॒व लो॒कमे॑ति॒ सर्व॒मायु॑रेत्य॒भि वा ए॒षो᳚ऽग्नी आ रो॑हति॒ य ए॑नावुप॒तिष्ठ॑ते॒ यथा॒ खलु॒ वै श्रेया॑न॒भ्यारू॑ढᳵ का॒मय॑ते॒ तथा॑ करोति॒ नक्त॒मुप॑ तिष्ठते॒ न प्रा॒तस्सꣳ हि नक्त॑व्ँव्र॒तानि॑ सृ॒ज्यन्ते॑ स॒ह श्रेयाꣳ॑श्च॒ पापी॑याꣳश्चासाते॒ ज्योति॒र्वा अ॒ग्निस्तमो॒ रात्रि॒र्यत् [40]  नक्त॑मुप॒तिष्ठ॑ते॒ ज्योति॑षै॒व तम॑स्तरत्युप॒स्थेयो॒ऽग्नी ३ र्नोप॒स्थेया ३ इत्या॑हुर्मनु॒ष्या॑येन्न्वै योऽह॑रहरा॒हृत्याथै॑न॒य्ँयाच॑ति॒ स इन्न्वै तमुपा᳚र्च्छ॒त्यथ॒ को दे॒वानह॑रहर्याचिष्य॒तीति॒ तस्मा॒न्नोप॒स्थेयोऽथो॒ खल्वा॑हुरा॒शिषे॒ वै कय्ँयज॑मानो यजत॒ इत्ये॒षा खलु॒ वै [41]  आहि॑ताग्नेरा॒शीर्यद॒ग्निमु॑प॒तिष्ठ॑ते॒ तस्मा॑दुप॒स्थेयᳶ॑ प्र॒जाप॑तिᳶ प॒शून॑सृजत॒ ते सृ॒ष्टा अ॑होरा॒त्रे प्रावि॑श॒न्ताञ्छन्दो॑भि॒रन्व॑विन्द॒द्यच्छन्दो॑भिरुप॒तिष्ठ॑ते॒ स्वमे॒व तदन्वि॑च्छति॒ न तत्र॑ जा॒म्य॑स्तीत्या॑हु॒र्योऽह॑रहरुप॒तिष्ठ॑त॒ इति॒ यो वा अ॒ग्निम्प्र॒त्यङ्ङु॑प॒तिष्ठ॑ते॒ प्रत्ये॑नमोषति॒ यᳶ परा॒ङ्॒विष्व॑ङ्प्र॒जया॑ प॒शुभि॑रेति॒ कवा॑तिर्यङ्ङि॒वोप॑ तिष्ठेत॒ नैन॑म्प्र॒त्योष॑ति॒ न विष्व॑ङ्प्र॒जया॑ प॒शुभि॑रेति ॥ [42] 
@@ -166,110 +136,85 @@ and makes it productive by the morning (offering).
 याव॒च्छो वै रेत॑सस्-सि॒क्तस्य॑ त्वष्टा॑ रू॒पाणि॑ विक॒रोति॑,  
 ताव॒च्छो वै तत्प्रजा॑यते ।
 </details>
-
 <details><summary>Keith</summary>
 
 Seed when poured does not prove fruitful unless modified by Tvastr;  
 as many modifications of seed when poured [1] as Tvastr makes, in so many shapes does it become fruitful; 
 </details>
-
-
 <details><summary>मूलम्</summary>
 
 तद्रेत॑स्सि॒क्तन्न त्वष्ट्राऽवि॑कृत॒म्प्रजा॑यते ।  
 याव॒च्छो वै रेत॑सस्सि॒क्तस्य॑ त्वष्टा॑ रू॒पाणि॑ विक॒रोति॑ 
 ताव॒च्छो वै तत्प्रजा॑यते ।
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 3अग्नेरुपस्थानं विधातुमाह - तद्रेत इत्यादि ॥ तदुक्तम् - 'रेतस्सिञ्चति प्रजनने' इति । तद्रेतस्सिक्तमपि यदि त्वष्टा न विक्रियते नैव प्रजायते, त्वष्टा वै रूपाणि विकरोतीति । तद्विकुर्वंस्त्वष्टा यावन्ति रूपाणि विकरोति तावद्रूपं तत्प्रजायते । 'सङ्ख्यैकवचनाच्च' इति शत् ।
 </details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ए॒ष वै दैव्य॒स् त्वष्टा॒, यो यज॑ते। 
 </details>
-
 <details><summary>Keith</summary>
 
 the sacrificer is the divine Tvastr. 
 </details>
-
-
 <details><summary>मूलम्</summary>
 
 ए॒ष वै दैव्य॒स्त्वष्टा॒ यो यज॑ते।
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 एष वा इत्यादि । देवेषु भवो दैव्यः सामन्त इत्यर्थः । 'देवाद्यञञौ' । 
 </details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब॒ह्वीभि॒र् उप॑ तिष्ठते ।
 </details>
-
 <details><summary>Keith</summary>
 
 He pays reverence with many (verses); 
 </details>
-
-
 <details><summary>मूलम्</summary>
 
 ब॒ह्वीभि॒र् उप॑ तिष्ठते ।
 </details>
-
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 बह्वीभिरुपतिष्ठत इति विधिः । उत्तराहुत्यनन्तरं 'उपप्रयन्तः' इत्येतत्प्रभृतिभिः ऋग्भिः बह्वीभिरुपतिष्ठते । 'नित्यं छन्दसि' इति ङीप् । 'उपान्मन्त्रकरणे' इत्यात्मनेपदम् ।
 </details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रेत॑स ए॒व सि॒क्तस्य॑ बहु॒शो रू॒पाणि॒ वि क॑रोति ।   
 स प्रैव जा॑यते ।
 </details>
-
 <details><summary>Keith</summary>
 
 verily he makes many modifications of the seed when poured.  
 He is fruitful 
 </details>
-
-
 <details><summary>मूलम्</summary>
 
 रेत॑स ए॒व सि॒क्तस्य॑ बहु॒शो रू॒पाणि॒ वि क॑रोति ।   
 स प्रैव जा॑यते ।
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 रेतस एवेत्यादि । बहुशः बहूनि । 'बह्वल्पार्थात्' इति शस् ।
 </details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्वश्-श्वो॒ भूया᳚न् भवति॒, य ए॒वव्ँ वि॒द्वान् अ॒ग्निम् उ॑प॒तिष्ठ॒ते ।
 </details>
-
 <details><summary>Keith</summary>
 
 and day by day becomes greater,  
 who knowing thus pays reverence to the fire. 
 </details>
-
-
 <details><summary>मूलम्</summary>
 
 श्वश्श्वो॒ भूया᳚न्भवति॒ य ए॒वव्ँवि॒द्वान॒ग्निमु॑प॒तिष्ठ॒ते ।
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 भूयानिति । अद्यतनापेक्षया श्वस्तनः प्रकृष्यते ।
@@ -282,13 +227,10 @@ who knowing thus pays reverence to the fire.
 तेऽसु॑रा॒ यद् दे॒वाना᳚व्ँ वि॒त्तव्ँ वेद्य॒म् आसी॒त्, तेन॑ स॒ह रात्रि॒म् प्रावि॑शन् ।  
 ते॒ दे॒वा ही॒ना अ॑मन्यन्त ।
 </details>
-
 <details><summary>Keith</summary>
 
 The day was the gods', the night the Asuras'. The Asuras entered night with all the precious wealth of the gods [2]; the gods thought that they were abandoned; 
 </details>
-
-
 <details><summary>मूलम्</summary>
 
 अह॑र्दे॒वाना॒मासी॒द्   
@@ -296,12 +238,10 @@ The day was the gods', the night the Asuras'. The Asuras entered night with all 
 तेऽसु॑रा॒ यद्दे॒वाना᳚व्ँवि॒त्तव्ँवेद्य॒मासी॒त्तेन॑ स॒ह रात्रि॒म्प्रावि॑शन् ।  
 ते॒ दे॒वा ही॒ना अ॑मन्यन्त ।
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 पुनर् अप्य् उपस्थान-गुणान् विधातुमाह - अहरित्यादि । वित्तं लब्धं वेद्यं लब्धुं योग्यं धनं पशुलक्षणं यदासीत्तत्सर्वमादाय तेन सह रात्रिं प्राविशन्, तत्र देवां अपहृतपशवो हीनास्स्मः इत्यमन्यन्त ।
 </details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते॑ऽपश्यन् -  
@@ -311,13 +251,10 @@ The day was the gods', the night the Asuras'. The Asuras entered night with all 
 ते᳚ ऽग्निम् अ॑स्तुवन् ।  
 स ए᳚भ्यस् स्तु॒तो रात्रि॑या॒ अध्य् अह॑र् अ॒भि प॒शून् निरा᳚र्जत् ।
 </details>
-
 <details><summary>Keith</summary>
 
 they perceived, 'The night is Agni's, cattle are Agni's; verily let us praise Agni here; he being praised by us will restore our cattle.' They praised Agni; be praised by them delivered their cattle from night to day; 
 </details>
-
-
 <details><summary>मूलम्</summary>
 
 ते॑ऽपश्यन् ।  
@@ -327,30 +264,24 @@ they perceived, 'The night is Agni's, cattle are Agni's; verily let us praise Ag
 ते᳚ऽग्निम॑स्तुवन् ।  
 स ए᳚भ्यस्स्तु॒तो रात्रि॑या॒ अध्यह॑र॒भि प॒शून्निरा᳚र्जत् ।
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ते पश्यन्नित्यादि । अधिरनर्थकः । अहरभि अहर्लक्षीकृत्य रात्र्या पशून्निरार्जत् निरगमयत् । ऋजु गत्यादिषु, भौवादिकः । 'अभिरभागे' इत्यभेर्लक्षणे कर्मप्रवचनीयत्वम् ।
 </details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते दे॒वाᳶ प॒शून् वि॒त्वा कामाꣳ॑ अकुर्वत ।  
 य ए॒वव्ँ वि॒द्वान् अ॒ग्निम् उ॑प॒तिष्ठ॑ते  - पशु॒मान् भ॑वति ।
 </details>
-
 <details><summary>Keith</summary>
 
 the gods having gained their cattle per formed their desires. He who knowing thus pays reverence to the fire becomes possessed of cattle [3]. 
 </details>
-
-
 <details><summary>मूलम्</summary>
 
 ते दे॒वाᳶ प॒शून् वि॒त्वा कामाꣳ॑ अकुर्वत ।  
 य ए॒वव्ँवि॒द्वान॒ग्निमु॑प॒तिष्ठ॑ते पशु॒मान्भ॑वति ।
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ते देवा इत्यादि । गतम् ।
@@ -374,15 +305,12 @@ the gods having gained their cattle per formed their desires. He who knowing thu
 सुव॒र्गम् ए॒व लो॒कम् ए॑ति॒, सर्व॒म् आयु॑र् एति ।
 
 </details>
-
 <details><summary>Keith</summary>
 
 The sun went from this world to yonder world; he having gone to yonder world bethought him again of this world; having returned to this world he had fear of death, for this world is, as it were, yoked with death. He reflected, 'Let me praise Agni here; he, praised, will make me go to the world of heaven.' He praised Agni; he, praised, made him go to the world of heaven. 
 
 He who [4] knowing thus pays reverence to the fire, goes to the world of heaven and lives all his days. 
 </details>
-
-
 <details><summary>मूलम्</summary>
 
 आ॒दि॒त्यो वा अ॒स्माल् लो॒काद् अ॒मुल्ँ लो॒कम् ऐत् ।  
@@ -399,7 +327,6 @@ He who [4] knowing thus pays reverence to the fire, goes to the world of heaven 
 ए॒वव्ँ वि॒द्वान् अ॒ग्निम् उ॑प॒तिष्ठ॑ते -  
 सुव॒र्गम् ए॒व लो॒कम् ए॑ति॒, सर्व॒म् आयु॑र् एति ।
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 आदित्यो वा इत्यादि । अस्मान्मनुष्यलोकादमुं लोकमैत् अगच्छत् । गतमन्यत् ।
@@ -412,21 +339,17 @@ He who [4] knowing thus pays reverence to the fire, goes to the world of heaven 
 य ए॑नाव् उप॒तिष्ठ॑ते ।  
 यथा॒ खलु॒ वै श्रेया॑न् अ॒भ्यारू॑ढᳵ का॒मय॑ते॒ - तथा॑ करोति ।
 </details>
-
 <details><summary>Keith</summary>
 
 He mounts these two fires who pays reverence to them;  
 he acts according to the desires of one who has attained a higher place.
 </details>
-
-
 <details><summary>मूलम्</summary>
 
 अ॒भि वा ए॒षो᳚ऽग्नी आ रो॑हति॒   
 य ए॑नावुप॒तिष्ठ॑ते ।  
 यथा॒ खलु॒ वै श्रेया॑न् अ॒भ्यारू॑ढᳵ का॒मय॑ते॒ - तथा॑ करोति ।
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अभि वा इत्यादि । अभ्यारोहणमभिमुखेन रोहणमुच्छ्रिताधिष्ठानम् ।
@@ -437,24 +360,19 @@ he acts according to the desires of one who has attained a higher place.
 
 नक्त॒म् उप॑ तिष्ठते॒ - न प्रा॒तः ।
 </details>
-
 <details><summary>Keith</summary>
 
 He pays reverence at night, not in the morning, 
 </details>
-
-
 <details><summary>मूलम्</summary>
 
 यथा॒ खलु॒ वै श्रेया॑न॒भ्यारू॑ढᳵ का॒मय॑ते॒ तथा॑ करोति ।   
 नक्त॒मुप॑ तिष्ठते॒ न प्रा॒तः ।
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 यथा खलु श्रेयान् श्रेयसाभिमुखमारूढो भवितुं कामयते एवमयमुपस्थाता करोति । तथापि नक्तमुपतिष्ठते प्रयोजनान्तरार्थमिति भावः । नैव प्रातरुपस्थानं कर्तव्यं तादृशस्य प्रयोजनस्याभावात् ।
 </details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सꣳ हि नक्त॑व्ँ व्र॒तानि॑ सृ॒ज्यन्ते॑ ।  
@@ -462,13 +380,10 @@ He pays reverence at night, not in the morning,
 ज्योति॒र् वा अ॒ग्निस्, तमो॒ रात्रिः॑।  
 यन् नक्त॑मुप॒तिष्ठ॑ते - ज्योति॑षै॒व तम॑स्तरति ।
 </details>
-
 <details><summary>Keith</summary>
 
 for vows are mingled at night, the bad and the good are on the same level, the fire is the light, the evening is the darkness; in that [5] he pays reverence by night, he overcomes the darkness by light. 
 </details>
-
-
 <details><summary>मूलम्</summary>
 
 सꣳ हि नक्त॑व्ँव्र॒तानि॑ सृ॒ज्यन्ते॑ ।  
@@ -476,7 +391,6 @@ for vows are mingled at night, the bad and the good are on the same level, the f
 ज्योति॒र् वा अ॒ग्निस्, तमो॒ रात्रिः॑।  
 यन् नक्त॑मुप॒तिष्ठ॑ते - ज्योति॑षै॒व तम॑स्तरति ।
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 किम्पुनस्तत्प्रयोजनमित्याह - सं हीत्यादि । हिशब्दो यस्मादित्यर्थे वर्तते । यस्मान्नक्तं व्रतानि कर्माणि शुभाशुभलक्षणानि संसृज्यन्ते अविभक्तानि भवन्ति, श्रेयसां पापीयसां च विशेषप्रतिपत्तिर्नास्ति तस्मादेतद्दोषपरिहारार्थमुपस्थातव्यं; उपस्थानेन तमस्स्वरूपां रात्रिं ज्योतिषा सन्तरति । अथ पूर्वपक्षावतारं संशयपूर्वं प्रस्तौति ।
@@ -487,18 +401,14 @@ for vows are mingled at night, the bad and the good are on the same level, the f
 
 "उप॒स्थेयो॒ ऽग्नी३र् नोप॒स्थेया३"+++(प्लुतिर् विचारार्था)+++ इत्या॑हुः।
 </details>
-
 <details><summary>Keith</summary>
 
 'Should reverence be paid to the fire or not?' they say; 
 </details>
-
-
 <details><summary>मूलम्</summary>
 
 उप॒स्थेयो॒ऽग्नी ३ र्नोप॒स्थेया ३ इत्या॑हुः ।
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 उपस्थेय इति । 'विचार्यमाणानाम्' इत्युभयत्रोदात्तप्लुतः । उपस्थेया इत्यत्र पूर्वं परत्वात् प्लुतोदात्तत्वं, ततस्तस्यासिद्धत्वात्कृदुत्तरपदप्रकृतिस्वरत्वम्, 'यतोऽनावः' इत्याद्युदात्तत्वम्, तेन द्वयोरुदात्तयोश्श्रवणं भवति ।
@@ -509,43 +419,33 @@ for vows are mingled at night, the bad and the good are on the same level, the f
 
 मनु॒ष्या॑येन् न्वै यो ऽह॑र्-अहर् आ॒हृत्याथै॑न॒य्ँ याच॑ति॒ - स इन् न्वै तमुपा॑र्च्छ॒ति+++(=पीडयति)+++।
 </details>
-
 <details><summary>Keith</summary>
 
 he who day by day makes a present to a man and then begs of him assuredly molests him;
 </details>
-
-
-
 <details><summary>मूलम्</summary>
 
 मनु॒ष्या॑येन्न्वै योऽह॑रहरा॒हृत्याथै॑न॒य्ँयाच॑ति ।  
 स इन्न्वै तमुपा᳚र्च्छति ।
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 मनुष्यायेत्यादि । इदित्यवधारणे, नु इति वितर्के, वै इति प्रसिद्धौ । मनुष्यायाहरहः फलादिकमाहृत्यैवाथैनं यो याचति सोपि **तम् उपार्च्छति** उपरुध्य पीडयत्येव । एवं खल्वेतत् । 'उपसर्गादृति धातौ' इति वृद्धिः । 'तुनुपूर्व उदात्तयोर्वकारः' इति वचनात् ।
 </details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ॒ को दे॒वान् अह॑र् अहर् याचिष्य॒तीति॑ ।  
 तस्मा॒न् नोप॒स्थेयः॑ ।
 </details>
-
 <details><summary>Keith</summary>
 
 and who then will day by day beg of the gods? …
 </details>
-
-
 <details><summary>मूलम्</summary>
 
 अथ॒ को दे॒वानह॑रहर्याचिष्य॒तीति॑ ।  
 तस्मा॒न्नोप॒स्थेयः॑ ।
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 यदा मनुष्यविषयेप्येवं भवति अथेदानीं को देवान् महानुभावान् अहरहर्याचिष्यति तस्मात्कदाचिदप्यग्निर्नोपस्थेय इति ।
@@ -559,13 +459,10 @@ and who then will day by day beg of the gods? …
 ए॒षा खलु॒ वै आहि॑ताग्नेर् आ॒शीर् - यद् अ॒ग्निम् उ॑प॒तिष्ठ॑ते।  
 तस्मा॑द् +++(रात्रौ प्रातश् चाप्य्)+++ उप॒स्थेयः॑।
 </details>
-
 <details><summary>Keith</summary>
 
 Then they say, 'The sacrificer sacrifices for the sake of the benediction.' The reverence of the fire is [6] the benediction of him who has established a fire; therefore reverence should be paid to the fire. 
 </details>
-
-
 <details><summary>मूलम्</summary>
 
 अथो॒ खल्वा॑हुरा॒शिषे॒ वै कय्ँयज॑मानो यजत॒ इति॑ ।  
@@ -573,7 +470,6 @@ Then they say, 'The sacrificer sacrifices for the sake of the benediction.' The 
 आहि॑ताग्नेरा॒शीर्यद॒ग्निमु॑प॒तिष्ठ॑ते  
 तस्मा॑दुप॒स्थेयः॑ ।
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अथ समाधत्ते - अथो खल्वाहुरिति । 
@@ -590,13 +486,10 @@ Then they say, 'The sacrificer sacrifices for the sake of the benediction.' The 
 ताञ् छन्दो॑भि॒र् अन्व॑विन्दत् ।  
 यच् छन्दो॑भिर् उप॒तिष्ठ॑ते॒ - स्वम् ए॒व तद् अन्वि॑च्छति ।   
 </details>
-
 <details><summary>Keith</summary>
 
 Prajapati created cattle; being created they entered day and night; he recovered them by means of the metres. In that he pays reverence with the metres, he seeks to recover his own. 
 </details>
-
-
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑तिᳶ प॒शून॑सृजत ।  
@@ -604,7 +497,6 @@ Prajapati created cattle; being created they entered day and night; he recovered
 ताञ्छन्दो॑भि॒रन्व॑विन्दत् ।  
 यच्छन्दो॑भिरुप॒तिष्ठ॑ते॒ स्वमे॒व तदन्वि॑च्छति ।   
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 प्रजापतिः पशूनित्यादि । पश्ववगमनमेव यजमानोन्विच्छति ।    
@@ -615,18 +507,14 @@ Prajapati created cattle; being created they entered day and night; he recovered
 
 "न तत्र॑  जा॒म्य्+++(=पुनरुक्तदोषः)+++ अ॑स्ती"त्या॑हु॒र् "योऽह॑र्-अहर् उप॒तिष्ठ॑त॒" इति॑ ।
 </details>
-
 <details><summary>Keith</summary>
 
 'There is not monotony then', they say, 'if one pays reverence day by day.' 
 </details>
-
-
 <details><summary>मूलम्</summary>
 
 न तत्र॑  जा॒म्य॑स्तीत्या॑हु॒र्योऽह॑रहरुप॒तिष्ठ॑त॒ इति॑ ।
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 जामि आलस्यम् । गतमन्यत् ।
@@ -638,69 +526,52 @@ Prajapati created cattle; being created they entered day and night; he recovered
 
 यो वा अ॒ग्निम् प्र॒त्यङ्ङ् उ॑प॒तिष्ठ॑ते॒ - प्रत्य् ए॑नम् ओषति॒ +++(=दहति)+++।  
 </details>
-
 <details><summary>Keith</summary>
 
 If a man pays reverence to the fire facing it, it burns him; 
 </details>
-
-
-
 <details><summary>मूलम्</summary>
 
 यो वा  अ॒ग्निम्प्र॒त्यङ्ङु॑प॒तिष्ठ॑ते॒ प्रत्ये॑नमोषति ।  
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 यो वा इत्यादि । प्रत्यङ्प्रातिमुखेयेन । ओषति दहति ।
 </details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यᳶ पराङ्॑   +++(उपतिष्ठते)+++  विष्व॑ङ्  प्र॒जया॑ प॒शुभि॑र् +++(हीन)+++ एति ।
 </details>
-
 <details><summary>Keith</summary>
 
 if with averted (face), he is deprived of offspring and cattle; 
 </details>
-
-
 <details><summary>मूलम्</summary>
 
 यᳶ पराङ्॑   +++(उपतिष्ठते)+++  विष्व॑ङ्  प्र॒जया॑ प॒शुभि॑र् +++(हीन)+++ एति ।
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 यः पराङ्मुख उपतिष्ठते इत्येव । विष्वङ् नानागमनः प्रजया पशुभिश्च विष्वङेति विगच्छति नष्टो भवति ।
 </details>
-
-
-
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 कवा॑तिर्यङ्ङि॒वोप॑ तिष्ठेत॒ नैन॑म्प्र॒त्योष॑ति॒ न विष्व॑ङ्प्र॒जया॑ प॒शुभि॑रेति ॥ [42]
 </details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कवा॑तिर्यङ्ङ् इ॒वोप॑ तिष्ठेत॒ - नैन॑म् प्र॒त्योष॑ति॒, न विष्व॑ङ् प्र॒जया॑ प॒शुभि॑र् +++(हीन)+++ एति ॥ [42]
 </details>
-
 <details><summary>Keith</summary>
 
 he should pay reverence with (face) somewhat to the side, then (the fire) does not burn him, he is not deprived of offspring or cattle.
 </details>
-
 <details><summary>मूलम्</summary>
 
 कवा॑तिर्यङ्ङि॒वोप॑ तिष्ठेत ।  
 नैन॑म्प्र॒त्योष॑ति ।  
 न विष्व॑ङ्प्र॒जया॑ प॒शुभि॑रेति ॥
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तस्मात्कवातिर्यङ् ईषत्तिरश्चीन इव भूत्वा उपतिष्ठेति । छान्दसः कुशब्दस्य कवादेशः ॥

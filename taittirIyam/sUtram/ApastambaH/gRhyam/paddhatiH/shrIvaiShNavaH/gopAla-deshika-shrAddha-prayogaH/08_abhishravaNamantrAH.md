@@ -6279,7 +6279,7 @@ O bountiful one, fair to see;
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_22/19_prajApate_na.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/121/10_prajApate_na.md">
 <details open><summary><h2>१९ प्रजापते न ...{Loading}...</h2></summary>
 
 
@@ -8139,24 +8139,11 @@ O schaffe heut, Gott Savitar, uns kinderreichen Segen her; Fort schaffe böses T
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_2/07_vishvAni_deva.md">
-<details open><summary><h10>07 विश्वानि देव ...{Loading}...</h10></summary>
 
-विश्वा॑नि देव सवितर्  
-दुरि॒तानि॒ परा॑ सुव ।  
-यद्भ॒द्रन्तन्म॒ आ सु॑व ॥ (21)
-</details>
-</div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/10_2/07_vishvAni_deva.md">
-<details open><summary><h10>07 विश्वानि देव ...{Loading}...</h10></summary>
-<details><summary>मूलम्</summary>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/082/05_vishvAni_deva.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
-विश्वा॑नि देव सवितर्  
-दुरि॒तानि॒ परा॑ सुव ।  
-यद्भ॒द्रन्तन्म॒ आ सु॑व ॥ (21)
-</details>
-</details>
-</div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/082/05_vishvAni_deva.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_3/03_madhu_naktam.md">
 <details open><summary><h10>03 मधु नक्तम् ...{Loading}...</h10></summary>
 

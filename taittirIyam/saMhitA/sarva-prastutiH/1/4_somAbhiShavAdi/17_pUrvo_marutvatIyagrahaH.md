@@ -290,6 +290,7 @@ Den Marutherrscher Indra, den erstarkten, der nimmer geizt, den himmlischen Gebi
 
 _______
 
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/17_pUrvo_marutvatIyagrahaH/upayAmagRhItaH.md">
 <details open><summary><h5>उपयामगृहीतः ...{Loading}...</h5></summary>
 <details><summary>भास्करोक्त-विनियोगः</summary>

@@ -222,15 +222,19 @@ ____
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-पत्नी गार्हपत्यम् उपसीदति
+7पत्नी गार्हपत्यमुपसीदति - सुप्रजस इति चतुष्पदयानुष्टुभा ॥   
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/41_suprajasas_tvA.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-सु॒प्र॒जस॑स् त्वा व॒यꣳ  
-सु॒पत्नी॒र् उप॑ [16] सेदिम ।  
-अग्ने॑ सपत्न॒-दम्भ॑न॒म्  
-अद॑ब्धासो॒ अदा॑᳚भ्यम् ॥  
+सु॒-प्र॒जस॑स् त्वा व॒यꣳ  
+सु॒-पत्नी॒र् **उप॑ सेदिम** ।  
+अग्ने॑ सपत्न॒-दम्भ॑न॒म् +++(त्वां)+++  
+**अ-द॑ब्धासो॒** अ-दा॑᳚भ्यम् ॥
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/41_suprajasas_tvA.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 With fair offspring, with noble husbands,  
@@ -245,25 +249,33 @@ The undeceivable, we that are not deceived.
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
-7पत्नी गार्हपत्यमुपसीदति - सुप्रजस इति चतुष्पदयानुष्टुभा ॥   
 सुप्रजसः शोभनापत्याः । 'नित्यमसिच्प्रजामेधयोः' (पा.सू. 5.4.122) इति समासान्तः । सुपत्नीः सुपत्न्यः । 'वा छन्दसि' (पा.सू. 6.1.106) इति पूर्वसवर्णदीर्घः, शोभनः पतिर्यासामिति बहुव्रीहौ 'विभाषा सपूर्वस्य' (पा.सू. 4.1.34) इति नकारोन्तादेशः, 'ऋन्नेभ्यो ङीप्', (पा.सू. 4.1.5) 'आद्युदात्तं द्व्यच्छन्दसि' (पा.सू. 6.2.119) इत्युत्तरपदाद्युदात्तत्वम् पतिशब्दस्याद्युदात्तत्वात् । ईदृश्यो वयं हे अग्ने त्वामुपसेदिम उपसीदामः । 'छन्दसि लुङ्लङ्लिटः' (पा.सू. 3.4.6) इति वर्तमाने लिङ् ।  
 कीदृशं - सपत्नदम्भनं शत्रूणां विनाशसाधनम् । करणे ल्युटि, कृदुत्तरपदप्रकृतिस्वरत्वम् (पा.सू. 6.2.139) । यस्मादीदृशस्त्वं तस्मात् त्वामुपसीदामः । अदब्धासः त्वत्प्रसादेन केनाप्यहिंसिताः । 'आज्जसेरसुक्' (पा.सू. 7.1.50) । अदाभ्यं केनचिदप्यनभिभवनीयं त्वाम् । दभिः प्रकृत्यन्तरमस्तीति केचिदाहुः । 'दभेश्चेति वक्तव्यम्' (पा.सू. 3.1.124 वा 3) इति ण्यत्, उभयत्राप्यव्ययपूर्वपदप्रकृतिस्वरत्वम् (पा.सू. 6.2.139) ॥
 </details>
+</details>
+</div>
+
+
+
 
 
 ____
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-योक्त्रं पत्नी विमुञ्चति यदा तदा -
+8योक्त्रं पत्नी विमुञ्चति - इममिति त्रिष्टुभा चतुष्पदया ॥
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/46_imav.N_viShyAmi.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 इ॒मव्ँ विष्या॑मि॒+++(=प्रमुञ्चामि)+++ वरु॑णस्य॒+++(=छादकस्य [वस्त्रस्य/ वरुणस्य वा])+++ पाश॒य्ँ +++(योक्त्ररूपम्)+++  
 यम् अब॑ध्नीत सवि॒ता सु॒केतः॑ ।   
 धा॒तुश्+++(=प्रजापतेश्)+++ च॒ योनौ॑ सुकृ॒तस्य॑ लो॒के  
-स्यो॒नम् मे॑ स॒ह पत्या॑ करोमि ॥   
+स्यो॒नम् मे॑ स॒ह पत्या॑ करोमि ॥
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/46_imav.N_viShyAmi.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 I loosen this bond of Varuna,  
@@ -278,10 +290,14 @@ I make it pleasant for me with my husband.
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
-8योक्त्रं पत्नी विमुञ्चति - इममिति त्रिष्टुभा चतुष्पदया ॥
 सन्नहन-प्रसङ्गादिहाम्नातोप्ययं मन्त्रः सामर्थ्यादुत्कृष्यते । वृणोति छादयतीति **वरुणं** वस्त्रम् । 'कृवृतृदारिभ्य उनन्' (उ.सू. 340) इत्युनन्प्रत्ययः । तस्य धारण-हेतुर् यः **पाशस्** तम् **इमं** योक्त्रं **विष्यामि** प्रमुञ्चामि । षोऽन्तकर्मणि, 'उपसर्गात्सुनोति' (पा.सू. 8.3.65) इत्यादिना षत्वम् । कीदृशं पाशं? - सविता सर्वस्य प्रेरकः यमबध्नीत बद्धवान् । बध्नाते(र्व्यत्ययेना)रात्मनेपदम् (पा.सू. 3.1.85) । सुकेतः सुज्ञानः । कित ज्ञाने, घञ्, 'आद्युदात्तं द्व्यच्छन्दसि' (पा.सू. 6.2.119) इत्युत्तरपदाद्युदात्तत्वम् । यद्वा - अनेन योक्त्रविमोकेन मम वरुणपाशं तमोरूपं ईश्वरेण बद्धं विमुञ्चामि ।  
 किञ्च - धातुः प्रजापतेरपि योनौ स्थाने सुकृतस्य लोके शोभनकर्मसम्बन्धिनि लोके पत्या सह मे स्योनं सुखं करोमि, योक्त्रविमोकेन सम्यग्यज्ञनिष्पत्तेः । सुकृतशब्दोऽन्तोदात्तस्वरः ॥
 </details>
+</details>
+</div>
+
+
+
 
 
 ____
@@ -290,13 +306,17 @@ ____
 
 सयोक्त्रे ऽञ्जलौ उद-पात्र आनीयमाने पत्नी गार्हपत्यम् उपतिष्ठते
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/51_samAyuShA_samprajayA.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 समायु॑षा॒ सम्प्र॒जया॒  
 सम् अ॑ग्ने॒ वर्च॑सा॒ पुनः॑ ।  
 सम्पत्नी॒ पत्या॒ ऽहङ् ग॑च्छे॒  
 सम् आ॒त्मा त॒नुवा॒ मम॑ ॥
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/51_samAyuShA_samprajayA.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 With life, with offspring,  
@@ -316,6 +336,11 @@ United be my spirit with my body.
 किञ्च - अहं पत्नी भूत्वा पत्या सह संगच्छे न वियोक्ष्ये ।  
 किञ्च - ममात्मा क्षेत्रज्ञस्तनुवा अविकलेन्द्रियेण शरीरेण संगच्च्छताम् । अनेन कर्मणा एतत्सर्वं ममास्त्विति । तनुवेति 'तन्वादीनां छन्दसि बहुलम्' (पा.सू. 6.4.77 वा 1) इत्युवङादेशः । ममेति 'युष्मदस्मदोर्ङसि' (पा.सू. 6.1.211) इत्याद्युदात्तत्वम् ॥
 </details>
+</details>
+</div>
+
+
+
 
 
 ____
@@ -587,7 +612,7 @@ ____
 
 प्रोक्षणीरुत्पुनाति
 </details>
-<div class="js_include" includetitle="plain" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdiH/05_haviHproxaNAdiH/devo_vas_savitotpunAtu.md">
+<div class="js_include" includetitle="plain" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/05_haviHproxaNAdiH/devo_vas_savitotpunAtu.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 दे॒वो व॑स् सवि॒तोत्पु॑ना॒त्व्  
@@ -597,7 +622,7 @@ ____
 +++('असौ वा आदित्योच्छिद्रं पवित्रम्' (तै.ब्रा. 3.2.5) इत्यादि ब्राह्मणम् ।)+++
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdiH/05_haviHproxaNAdiH/devo_vas_savitotpunAtu.md">
+<div class="js_include" includetitle="true" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/05_haviHproxaNAdiH/devo_vas_savitotpunAtu.md">
 <details open><summary><h4>देवो वस् सविता ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -615,7 +640,7 @@ with the rays of the bright sun.
 हे आपः **देवस्सविता** सर्वस्य प्रेरकः, **वः** युष्मान् **उत्पुनातु** ऊर्ध्वं शोधयतु । 
 
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/bhaTTa-bhAskara-TIkA/1/1_darshapUrNamAsAdiH/05_haviHproxaNAdiH/achChidreNa.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/bhaTTa-bhAskara-TIkA/1/1_darshapUrNamAsAdi/05_haviHproxaNAdiH/achChidreNa.md">
 <details open><summary><h9>अच्छिद्रेण ...{Loading}...</h9></summary>
 
 **अच्छिद्रेण पवित्रेण** जगतां पावनेन आदित्यात्मनानेन;  

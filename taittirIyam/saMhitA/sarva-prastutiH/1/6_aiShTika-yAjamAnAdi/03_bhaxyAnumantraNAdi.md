@@ -333,13 +333,17 @@ The path that leadeth to the gods, along it may the sacrifice go to the gods.
 
 इदनीं यज्ञस्य मार्ग उपदिश्यते - यो देवयानः पन्थाः येन पथा देवान् गच्छति देवत्वं वा प्राप्यते तेन पथायं यज्ञो देवानप्येतु तेन मार्गेण गत्वा देवाननुप्रविशतु ॥
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/03_bhaxyAnumantraNAdi/02_asmAsv_indra.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अ॒स्मास्व् इन्द्र॑ **इन्द्रि॒यन् द॑धात्व्**  
 अ॒स्मान् **राय॑** उ॒त +++(उत्तरा)+++ य॒ज्ञास् **स॑चन्ताम्** +++(←समवाये)+++ ।   
 अ॒स्मासु॑ **सन्त्व् आ॒शिष॒स्**,  
 सा नᳶ॑ प्रि॒या सु॒प्रतू᳚र्तिर् म॒घोनी॒॥
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/03_bhaxyAnumantraNAdi/02_asmAsv_indra.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 On us may Indra bestow power;  
@@ -359,6 +363,8 @@ To us be she dear, victorious, bountiful.
 
 यद्वा - सुष्ठु प्रकर्षेण च हिंसिका शत्रूणाम् । 'नसत्तनिषत्त' इति निपातनं निष्ठावद्भावात्क्तिनोपि भवति, 'क्रत्वादयश्च' इत्युत्तरपदाद्युदात्तत्वम् । मघोनी धनवती । 'छन्दसीवनिपौ' इति मत्वर्थीयो वनिः, 'ऋन्नेभ्यः' इति ङीप्, 'श्वयुवमघोनाम्' इति सम्प्रसारणम् । एवङ्गुणोस्माकं भव ॥
 </details>
+</details>
+</div>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जुष्टि॑र् असि - जु॒षस्व॑ नः।  
@@ -529,6 +535,61 @@ protect my out-breathing and cross-breathing.
 
 उदान ऊर्ध्वगमनः शब्दस्योत्पादयिता । पुनर्व्यानग्रहणमनुक्तजीववृत्तिप्रकारोपसङ्ग्रहार्थम्, विविधनानात्मकत्वात्तेषाम् ।
 </details>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/03_bhaxyAnumantraNAdi/axitosi.md">
+<details open><summary><h5>अक्षितोऽसि ...{Loading}...</h5></summary>
+<details><summary>मूलम् (संयुक्तम्)</summary>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/03_bhaxyAnumantraNAdi/axitosi.md"  newLevelForH1="5" includeTitle="false"> </div>  
+अख्षि॑तो॒ऽस्यख्षि॑त्यै त्वा॒ मा मे᳚ ख्षेष्ठा अ॒मुत्रा॒मुष्मि॑न्लो॒के  ॥
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+अख्षि॑तो॒ऽसि ।
+</details>
+<details><summary>Keith</summary>
+
+Thou art imperishable,
+</details>
+<details><summary>मूलम्</summary>
+
+अख्षि॑तो॒ऽसि ।
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+अक्षितः अक्षीणोसि ।
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अख्षि॑त्यै त्वा +++(ददामि)+++।
+</details>
+<details><summary>Keith</summary>
+
+for imperishableness thee;
+</details>
+<details><summary>मूलम्</summary>
+
+अख्षि॑त्यै त्वा ।
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+अक्षित्यै इह चामुत्र चाक्षयाय त्वां ददामीति सामर्थ्यात् ।
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मा मे᳚ ख्षेष्ठा अ॒मुत्रा॒मुष्मि॑न् लो॒के  ॥  [10]
+</details>
+<details><summary>Keith</summary>
+
+mayst thou not perish for me, yonder, in yonder world.
+</details>
+<details><summary>मूलम्</summary>
+
+मा मे᳚ ख्षेष्ठा अ॒मुत्रा॒मुष्मि॑न्लो॒के  ॥  [10]
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+स त्वममुत्र परलोके अस्मि[मुष्मि]न्नैन्द्रे ब्राह्मे प्राजापत्ये वा मा क्षेष्ठाः परलोके क्षयं मा गमः । यद्वा - मे ममामुष्मिन् लोके यदाहं परलोके भविष्यामि तदा तत्र ममोपभोगार्थम् । इह हि कृत्वा परत्र भुञ्जते । 'क्षीयते वा अमुष्मिन्लोके' इत्यादि ब्राह्मणम् ॥
+
+इति षष्ठे तृतीयोनुवाकः ॥
+</details>
+</details>
+</div>

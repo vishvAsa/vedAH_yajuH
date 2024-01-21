@@ -2088,6 +2088,7 @@ Destroyer of that which may be broken.
 
 _______
 
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/agne_gRhapate.md">
 <details open><summary><h5>अग्ने गृहपते ...{Loading}...</h5></summary>
 <details><summary>भास्करोक्त-विनियोगः</summary>

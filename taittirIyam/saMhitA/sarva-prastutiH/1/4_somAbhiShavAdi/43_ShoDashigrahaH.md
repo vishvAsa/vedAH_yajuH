@@ -5,6 +5,7 @@ title = "४३ षोडशिग्रहः"
 
 त्रिष्टुप्
 
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/047/02_sajoShA_indra.md">
 <details open><summary><h5>०२ सजोषा इन्द्र ...{Loading}...</h5></summary>
 
@@ -297,6 +298,7 @@ Vereint, o Indra, mit den Marutscharen trink Soma, Held, du kund'ger Vritratödt
 </div>  
 
 _______
+
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/38_ShoDashigrahaH/upayAma-gRhItaH.md">
 <details open><summary><h5>उपयाम-गृहीतः ...{Loading}...</h5></summary>

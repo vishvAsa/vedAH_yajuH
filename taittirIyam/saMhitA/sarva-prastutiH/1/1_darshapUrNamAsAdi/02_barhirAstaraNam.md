@@ -72,13 +72,17 @@ ____
 3गार्हपत्यप्रदेशादाहवनीयं गच्छति - प्रेयमिति त्रिष्टुभा ॥  
 वेदिं प्रत्यवेक्षमाणो मन्त्रशेषं ब्रवीति - "इह बह्रिर् आसदे"। 
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/14_praiyam_agAd.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 प्र+इ॒यम् +++(अश्वपर्शोर् धारा)+++ **अ॑गाद्**, धि॒षणा॑+++(=धृष्टा [लवने])+++ ब॒र्हिर् अच्छ॒ +++(आप्तुं)+++  
 मनु॑ना कृ॒ता, स्व॒धया॒+++(=अश्वमांसेन)+++ वित॑ष्टा॒+++(=वितनूकृता)+++।  
 त +++(कवयो बर्हिर्)+++ **आव॑हन्ति** क॒वयᳶ॑ पु॒रस्ता᳚द्  
 दे॒वेभ्यो॒ जुष्ट॑म्, इ॒ह +++(वेद्यां)+++ ब॒र्हिर् आ॒सदे॑+++(=आसादयितव्यम्)+++।
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/14_praiyam_agAd.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 The Vedi hath come to the sacrificial straw,  
@@ -123,8 +127,13 @@ The delightful straw for the gods to sit on here.
 वेदिं प्रत्यवेक्षमाणो मन्त्रशेषं ब्रवीति - **इह** अस्यां खलु वेद्यां, तत् लविष्यमाणं **बर्हिः**, **आसदे** आसादयितव्यम् । एवम् इदम् अर्हति । 
 
 सदेर्ण्यन्तात् 'कृत्यार्थे तवैकेन्' (पा.सू. 3.4.14) इति केन्प्रत्ययः । 'बहुळं संज्ञाछन्दसोः' (उ.सू. 190) इति णेर्लुक् । 'न लुमता' (पा.सू. 1.1.63) इति वृद्ध्यभावः । कृदुत्तरपदप्रकृतिस्वरेण ('ञ्नित्यादिः' (पा.सू. 6.1.197) इति) नित्त्वात् आद्युदात्तः ॥
-
 </details>
+</details>
+</div>
+
+
+
+
 
 
 ____

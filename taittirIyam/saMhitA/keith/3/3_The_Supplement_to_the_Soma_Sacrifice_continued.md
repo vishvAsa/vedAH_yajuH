@@ -265,25 +265,9 @@ Desiring offspring, generous in his home;
 Let all the immortal gods roll themselves up for him,  
 The All-gods and Aditi in unison.
 ### l
-For us to-day may Anumati  
-Among the gods favour our sacrifice,  
-And be she and Agni, bearer of the oblation,  
-A joy to the giver.
 ### m
-Accord thy favour, O Anumati [3],  
-And grant us wealth;  
-For inspiration, for insight impel us,  
-Lengthen our days for us.
 ### n
-May she favouring, favour (us)  
-With wealth, undecaying, rich in offspring;  
-In her disfavour may we not fall;  
-May the goddess easy to invoke grant us protection.
 ### o
-Anumati men reverence in the quarter  
-Wherein is that which shineth;  
-May she in whose lap is the broad atmosphere,  
-The goddess, easy to invoke, grant us protection [4].
 ### p
 Raka, easy to invoke, I invoke with fair praise;  
 May the fortunate one hear us and be aware of us  

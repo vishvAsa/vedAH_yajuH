@@ -13,7 +13,8 @@ ________
 
 1शकटेन सोमं प्रच्यावयति - प्रच्यवस्वेति तिसृभिः । तत्र प्रथमा षट्पदा अतिजगती ॥
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/09_shakaTAt_somasya_grahaNam/02_prachyavasva_bhuvaspate.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 प्रच्य॑वस्व भुवस्पते॒ +++(सोम!)+++  
 विश्वा᳚न्य् अ॒भि+++(लक्ष्य)+++ धामा॑नि  ।  
@@ -22,6 +23,9 @@ ________
 मा त्वा॒ वृका॑ अघा॒यवः॑।      
 मा ग॑न्ध॒र्वो वि॒श्वाव॑सु॒र् आ द॑घत्+++(=आत्मसात् कार्षुः)+++ ।
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/09_shakaTAt_somasya_grahaNam/02_prachyavasva_bhuvaspate.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 Move forward, O lord of the world,  
@@ -48,8 +52,6 @@ Nor the Gandharva, Viçvavasu, injure thee.
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
-
-
 प्रच्यवस्व प्रकर्षेणास्माद्देशाद्गच्छ भुवः भुवनस्य पते सोम । 'षष्ठ्याः पतिपुत्र' इत्यादिना सत्वं, 'सुबामन्त्रिते' इति पराङ्गवद्भावात् षष्ठ्यामन्त्रितसमुदायो निहन्यते ।
 
 विश्वानि धामानि गन्तव्यानि स्थानानि अभि लक्षीकृत्य गच्छ । 'अभिरभागे' इति कर्मप्रवचनीयत्वम् ।
@@ -64,18 +66,23 @@ Nor the Gandharva, Viçvavasu, injure thee.
 
 किच्च - विश्वावसुनामा गन्धर्वः त्वां मा दघत् परिपरी च मा भूत् आदघिता च मा भूत् इति द्वयमस्य निषिध्यते । चतुर्थपादो विवृद्धाक्षरः ॥
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/09_shakaTAt_somasya_grahaNam/03_shyeno_bhUtvA.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 श्ये॒नो भू॒त्वा परा॑ पत  
 यज॑मानस्य नो गृ॒हे +++(प्राग्वंशे)+++ ।  
-+++(ऋत्विक्प्रेरित)+++दे॒वैस् सꣵ॑स्कृ॒तम् +++(आसनम्)+++ ।  
++++(ऋत्विक्प्रेरित)+++दे॒वैस् सꣵ॑स्कृ॒तम् +++(आसनम्)+++ ।
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/09_shakaTAt_somasya_grahaNam/03_shyeno_bhUtvA.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 Become an eagle and fly away   
 to the place in the house of the sacrificer  
-which we have prepared with the gods (for thee). 
-
+which we have prepared with the gods (for thee).
 </details>
 <details><summary>मूलम्</summary>
 
@@ -89,6 +96,11 @@ which we have prepared with the gods (for thee).
 2अथ द्वितीया श्येन इत्यनुष्टुप् । अत्र तृतीयः पादो ह्रसिष्ठः, चतुर्थो वर्षिष्ठः ॥  
 श्येन इव शीघ्रो भूत्वा परापत निस्सङ्कटं गच्छ अस्मदीयस्य यजमानस्य गृहे प्राग्वंशे । तत्र ऋत्विग्भिर्देवैस्संस्कृंतं आसन्दीस्थानम् । प्रवृद्धादित्वादुत्तरपदान्तोदात्तत्वम् ॥
 </details>
+</details>
+</div>
+
+
+
 
 
 
@@ -119,13 +131,17 @@ Thou art the good luck of the sacrificer.
 3अध्वर्युयजमानौ गच्छतः - यजमानस्य स्वस्त्ययनीति ॥  
 स्वस्त्ययनमविनाशप्रापणं तद्वानसि यजमानस्य स्वस्त्ययनकार्यसि हे सोम । यद्वा - स्वस्तिमदयनमाश्रयस्तद्वान् अविनश्वराश्रयत्वात् यजमानस्याविनश्वराश्रयोसीति यावत् । सर्वथा 'परादिश्छन्दसि बहुलम्' इत्युत्तरपदाद्युदात्तत्वम् ।
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/09_shakaTAt_somasya_grahaNam/04_api_panthAm.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अपि॒ पन्था॑म् अगस्महि  
 स्व॒स्ति॒गाम् अ॑ने॒हस᳚म्+++(=अस्पर्धिनम्)+++,  
 येन॒ विश्वा॒ᳶ परि॒ द्विषो॑  
 वृ॒णक्ति॑, वि॒न्दते॒ वसु॑ ।
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/09_shakaTAt_somasya_grahaNam/04_api_panthAm.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 We have reached the path  
@@ -151,6 +167,11 @@ and winneth wealth.
 
 किञ्च - विन्दते लभते च वसु धनं तमगमाम गम्यास्म वा ॥
 </details>
+</details>
+</div>
+
+
+
 
 
 ________
@@ -158,7 +179,8 @@ ________
 
 राजानं प्रत्य् उपतिष्ठते। ।
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/09_shakaTAt_somasya_grahaNam/05_namo_mitrasya.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 नमो॑ मि॒त्रस्य॒ वरु॑णस्य॒ चख्ष॑से+++(!)+++  
 म॒हो दे॒वाय॒ तद् ऋ॒तꣳ स॑पर्यत ।  
@@ -166,6 +188,9 @@ ________
 दि॒वस्-पु॒त्राय॒ सूर्या॑य शꣳसत ॥  
 +++(वरणात्मा कदाचित् सोम उपयाति - 'वरुणो वा एष यजमानमभ्यैति यत्क्रीतस्सोम उपनद्धः' इति। मित्रवान् अपि - 'मित्रो न एहि' इति सोम उच्यते ।)+++
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/09_shakaTAt_somasya_grahaNam/05_namo_mitrasya.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 Honour to the radiance of Mitra and Varuna.  
@@ -183,7 +208,6 @@ The son of the sky, the sun, do ye sing.
 म॒हो दे॒वाय॒ तदृ॒तꣳ स॑पर्यत ।  
 दू॒रे॒दृशे॑ दे॒वजा॑ताय के॒तवे॑   
 दि॒वस्पु॒त्राय॒ सूर्या॑य शꣳसत ॥
-
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -195,6 +219,12 @@ The son of the sky, the sun, do ye sing.
 एवं लिङ्गात्सूर्योपस्थानमिदं प्रतीयते, सोमोपस्थाने तु विनियुज्यते 'राजानं प्रत्युपतिष्ठते' इति । तत्र चक्षुस्स्थनीयस्य सूर्यस्य नमस्कारादिना चक्षुष्मान्देव आराधितो भवतीत्याचार्यस्याभिप्रायः । इयं चोपपत्तिः - अत्र प्रकरणे मित्रवरुणशब्दौ सोमवचनौ मन्त्रेषु प्रसिद्धौ, यथा 'मित्रो न एहि' इति सोम उच्यते । मितेः त्रायते इति मित्रः । 'वरुणो वा एष यजमानमभ्यैति यत्क्रीतस्सोम उपनद्धः' इति च । वरुण इतीदानीं सोमाभिधानम् । वरणीयैस्सर्वैर्भवतीति वरुणः । देवायेति षष्ट्यर्थे चतुर्थी ।   
 अयं भावः - मित्रत्वादिगुणविशिष्टस्य महतो देवस्यास्य त्व(मस्य) [म्] चक्षुस्स्थानीय [इति] सूर्याय नमस्कारादिकं कुरुतेति । अनेनैवाभिप्रायेण 'राजानं प्रत्युपतिष्ठते' इति प्रतिशब्दः प्रयुक्तः; राजानं प्रति राजानमुद्दिश्य सूर्यमुपतिष्ठत इति लिङ्गमप्यविरुद्धम् ॥
 </details>
+</details>
+</div>
+
+
+
+
 
 ________
 <details><summary>भास्करोक्त-विनियोगः</summary>

@@ -287,13 +287,17 @@ _______
 
 11यूपं वैष्णवीभ्यामृग्भ्यां कल्प्यति स्थापयति - ते ते धामानि ... विष्णोः कर्माणि पश्यतेति ॥
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/06_yUpasya_avaTe_sthApanam/02_te_te.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 ते ते॒ धामा᳚न्य् उश्मसि+++(=इच्छामो)+++ ग॒मध्ये॒+++(=गन्तुं)+++  
 गावो॒+++(→रश्मयः)+++ यत्र॒ भूरि॑-शृङ्गा अ॒यासः॑+++(=गमनशीलाः)+++ ।   
 अत्राह॒ तद्-उ॑रुगा॒यस्य॒ विष्णोः᳚  
 पर॒मम् प॒दम् अव॑ भाति॒ भूरेः᳚ ॥
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/06_yUpasya_avaTe_sthApanam/02_te_te.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 To these dwellings of thine are we fain+++(=apt)+++ to go,  
@@ -320,6 +324,8 @@ Of the wide-stepping Visnu, the mighty!
 
 धामानि पुनर्विशेष्यन्ते - अत्राह अत्रैव । अहेत्यवधारणे । येष्वेव धामसु उरुगायस्य उरुभिर्महात्माभिर्गीयत इत्युरिगायः । गायतेः कर्मणि घञ्, थाथादिस्वरेणोत्तरपदान्तोदात्तत्वम् । भूरेः महतो महाबलस्य विष्णोः विश्वं व्याप्नुवतः । 'विशेः किच्च' इति नुप्रत्ययः, तत्र हि निदिति वर्तते । यस्त्वं महाबलो महात्मभिस्स्तूयमानो विश्वं व्याप्नुवन्नभूः 'विचक्रमाणस्त्रेधोरुगायः' इति मन्त्रप्रसिद्धः तस्य तव तत्तादृशविक्रमकृत् परममुत्तमं पदंम् तदप्येष्वेव धामसु अवभाति दीप्यते, तस्मात्तानि धामानि गन्तुमुश्म इति । एवं प्रत्यक्षकृतोयं मन्त्रः । द्वितीयस्तेशब्दोस्मिन्पक्षे युष्मदादेशः । यद्वा - परोक्षकृत एवायम् । ते ते इति वीप्सा । तानि तानि धामानि गन्तुमुश्मः । 'नित्यवीप्सयोः' इति शेप्रत्ययान्तस्य द्विर्व- चनम्, ' अनुदात्तं च` इति द्वितीयस्यानुदात्तत्वम् । स्पष्टमन्यत् ॥
 </details>
+</details>
+</div>
 <div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/022/19_viShNoH_karmANi.md">
 <details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
 

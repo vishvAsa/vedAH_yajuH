@@ -101,7 +101,8 @@ _______
 
 5पुनर् वागादीन् अभिमृशति - या ते प्राणानिति बृहत्या पञ्चपदया अष्टर्तुवसुषडष्टाक्षरया ॥ 
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/09_pashu-prANApyAyanAdi/02_yA_te.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 या ते᳚ प्रा॒णाञ् **छुग्** ज॒गाम    
 या चख्षु॒र्, या श्रोत्र᳚म्   
@@ -109,6 +110,9 @@ _______
 तत् त॒ **आ प्या॑यताम्**,      
 तत् त॑ ए॒तेन॑ **शुन्धताम्**।
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/09_pashu-prANApyAyanAdi/02_yA_te.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 The pain that hath reached thy vital airs,  
@@ -135,6 +139,12 @@ let that hereby be pure.
 
 5पुनर् वागादीन् अभिमृशति - या ते प्राणानिति बृहत्या पञ्चपदया अष्टर्तुवसुषडष्टाक्षरया ॥ हे पशो त्वदीयान्प्राणान् या शुक् जगाम प्राप या चक्षुर्जगाम या च श्रोत्रं जगाम, यच्च ते क्रूरमस्माभिः कृतम् । किं पुनस्तत्? निकर्तनमेव । यच्चान्यद्रक्षःप्रभृति मांसलोभेन त्वामास्थितं आश्रित्य स्थितम् । 'गतिरनन्तरः' इति पूर्वपदप्रकृतिस्वरत्वम् । तत्ततः । 'सुपां सुलुक्' इति पञ्चम्या लुक् । ततश्शुचः क्रूरादास्थातुश्च त्वदीय प्राणादिकं सर्वमाप्यायतां तस्मादनिष्टरूपान्निर्मुक्तं वर्धताम् । किञ्च – तस्मादेव निर्मुक्तमेतेन प्रक्षालनेन शुन्धतां शुद्धं भवतु । व्यत्ययेनात्मनेपदम् ॥
 </details>
+</details>
+</div>
+
+
+
+
 
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>

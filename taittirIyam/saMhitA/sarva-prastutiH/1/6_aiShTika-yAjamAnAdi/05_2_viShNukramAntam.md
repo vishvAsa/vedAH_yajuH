@@ -68,7 +68,7 @@ excluded is he whom we hate.
 ## विष्णुक्रममन्त्रः २
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विष्णो॒ᳵ क्रमो᳚ऽस्य् अभिशस्ति॒हा।
+विष्णो॒ᳵ **क्रमो᳚ ऽस्य् अभिशस्ति॒हा**।
 त्रैष्टु॑भेन॒ छन्द॑सान्तरि॑ख्ष॒म् अनु॒ वि क्र॑मे।
 </details>
 <details><summary>Keith</summary>

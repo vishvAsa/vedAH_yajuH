@@ -38,24 +38,30 @@ On the instigation of the god Savitr, through Brhaspati, winner of the prize, ma
 
 2चात्वाले रथचक्रं निमितं ब्रह्माधिरोहति तमभिमन्त्रयते - देवस्येति ॥ 
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/02_devasyAhaM_savitupH.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 दे॒वस्या॒हꣳ स॑वि॒तुᳶ प्र॑स॒वे  
 बृह॒स्पति॑ना वाज॒जिता॒  
-वर्षि॑ष्ठ॒न् नाकꣳ॑ रुहेयम् ।  
+वर्षि॑ष्ठ॒न् नाकꣳ॑ रुहेयम् ।
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/02_devasyAhaM_savitupH.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 On the instigation of the god Savitr, through Brhaspati, winner of the prize, may I mount the highest vault.
 </details>
 <details><summary>मूलम्</summary>
 
-दे॒वस्या॒हꣳ स॑वि॒तुᳶ प्र॑स॒वे बृह॒स्पति॑ना वाज॒जिता॒ वर्षि॑ष्ठ॒न्नाकꣳ॑ रुहेयम् ।  
+दे॒वस्या॒हꣳ स॑वि॒तुᳶ प्र॑स॒वे बृह॒स्पति॑ना वाज॒जिता॒ वर्षि॑ष्ठ॒न्नाकꣳ॑ रुहेयम् ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
 गतम् । वर्षिष्ठं वृद्धतमं नाकं स्वर्गं स्वर्गस्थनीयं चक्रं रुहेयमारोहामि नाकमेव वानेन निमित्तेनारुहेयम् । 'लिङ्याशिष्यङ्' ॥
 </details>
+</details>
+</div>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3दुन्दुभिं संह्रादयति - इन्द्रायेति ॥ 
@@ -88,12 +94,16 @@ To Indra utter your voices, make Indra win the prize, Indra hath won the prize.
 
 4अश्वाजनीं प्रयच्छति - अश्वाजनीति गायत्र्या ॥ 
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/03_ashvAjani_vAjini.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अश्वा॑जनि+++(=कशा)+++ वाजिनि॒  
 वाजे॑षु वाजिनीव॒ति ।  
 अश्वा᳚न्थ् स॒मथ्सु॑+++(=सङ्ग्रामेषु)+++ वाजय  ॥
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/03_ashvAjani_vAjini.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 O whip, strong, having strength for the prizes,  
@@ -108,6 +118,8 @@ Do thou in the contests strengthen the steeds.
 
 याऽश्वानाजयति गमयति साश्वाजनी कशोच्यते । वाजिनी अन्नवीती यज्ञसाधनद्वारेण । यद्वा - वेगवती ; अश्वानां वेगहेतुत्वात् । वाजेषु अन्नेषु साध्येषु वाजिनीवती वेगवत्या गत्या तद्वती । यद्वा - वेगवत्याश्वपङ्क्त्या तद्वती । सा त्वमश्वान् **समत्सु** सङ्ग्रामेषु वाजय गमय । सह माद्यन्त्यास्विति समदः ॥
 </details>
+</details>
+</div>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5-7तयाश्वान् समवक्षिणोति - अर्वासीति ॥ 
@@ -185,12 +197,16 @@ conquer on the instigation of the Maruts:
 
 मरुतां प्रसवेऽनुज्ञायां जयतान्नम् । ते हि युष्मानाज्ञापयन्ति ; यूयं चास्माकं जयत ।  
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/04_vi_yojanA.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 वि योज॑ना मिमीध्वम् ।+++(5)+++  
 अध्व॑नस्स्कभ्नीत [34] ।  
 काष्ठा᳚ङ्गच्छत ।
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/04_vi_yojanA.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 measure ye the leagues;  
@@ -211,6 +227,8 @@ attain the goal.
 
 काष्ठामध्वसमाप्तिं आजिशिरो गच्छत । गन्तव्यमध्वानं शीघ्रं लङ्घयतेति यावत् ॥
 </details>
+</details>
+</div>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 10अश्वान् धावतोनुमन्त्रयते - वाजेवाज इत्यादिभिश्चतसृभिः । आद्या त्रिष्टुप् । 
@@ -492,11 +510,15 @@ In jeder Schlacht helft uns, o Rosse, in Wettkämpfen, o unsterbliche Priester, 
 </details>
 </details>
 </div>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/05_te_no.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 ते नो॒ अर्व॑न्तो+++(=वेगवन्तो)+++, हवन॒+++(=ह्वान)+++-श्रुतो॒ हव॒व्ँ  
 विश्वे॑ **शृण्वन्तु** वा॒जिनः॑  ॥
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/05_te_no.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 May the swift coursers, who hear the call,  
@@ -510,21 +532,27 @@ All hearken to our cry.
 
 11 ते नो अर्वन्त इति द्विपदा विराट् । 'विराड्जागतगायत्राभ्याम्' इति ॥ हे **अर्वन्तः** अरणकुशलाः । अर्तेः 'अन्येभ्योपि दृश्यन्ते' इति वनिप् । 'अर्वणस्त्रसावनयः' । **हवनश्रुतः** आह्वानस्य श्रोतारः ते वाजिनोश्वाः अस्माकं हवं आह्वानं शृण्वन्तु विश्वे सर्वेपि । 'भावेनुपसर्गस्य' इति अप्, सम्प्रसारणं च ॥
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/06_mitadravas_sahasrasA.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 मि॒त-द्र॑वस् सहस्र॒-सा+++(←सन् दाने)+++ मे॒ध-सा॑ता सनि॒ष्यवः॑ ।  
-म॒हो ये रत्नꣳ॑ समि॒थेषु॑+++(=सङ्ग्रामेषु)+++ जभ्रि॒रे ॥  
+म॒हो ये रत्नꣳ॑ समि॒थेषु॑+++(=सङ्ग्रामेषु)+++ जभ्रि॒रे ॥
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/06_mitadravas_sahasrasA.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 Strong limbed, winning a thousand,  
 Eager to gain in the gaining of praise,  
-The steeds, which have won in the contests great prizes.  
+The steeds, which have won in the contests great prizes.
 </details>
 <details><summary>मूलम्</summary>
 
 मि॒तद्र॑वस्सहस्र॒सा मे॒धसा॑ता सनि॒ष्यवः॑ ।  
-म॒हो ये रत्नꣳ॑ समि॒थेषु॑ जभ्रि॒रे ॥  
+म॒हो ये रत्नꣳ॑ समि॒थेषु॑ जभ्रि॒रे ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -538,13 +566,19 @@ The steeds, which have won in the contests great prizes.
 **सनिष्यवः** सनिस्सननीयं धनं वा संविभजनम् । सनेरिसिप्रत्ययः, तदन्तात् 'सुप आत्मनः' इति क्यच् । इप्रत्ययान्ताद्वा क्यचि छान्दसस्सुडागमः ।   
 किञ्च - ये वाजिनस् **समिथेषु** सङ्ग्रामेषु । 'समीणः' इति ढक्प्रत्ययः । महः महतः महाबलस्य शत्रोः रत्नं धनं **जभ्रिरे** हरन्ति । छान्दसो लिट् । 'हृग्रहोर्भः' इति भत्वम् ॥
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/07_shan_no.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 शन् नो॑ भवन्तु वा॒जिनो॒ हवे॑षु  
 दे॒व-ता॑ता+++(=विस्तारे [यज्ञे])+++ मि॒त-द्र॑वस् स्व्-अ॒र्काः ।  
 ज॒म्भय॒न्तो ऽहि॒व्ँ वृक॒ꣳ॒ रख्षाꣳ॑सि॒  
 सने᳚म्य्+++(→सदा)+++ अ॒स्मद् यु॑यवन्न्+++(←यु पृथक्करणे)+++ [35] अमी॑वाः+++(=रोगान्)+++  ॥
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/07_shan_no.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 May they be propitious to us when we call,  
@@ -569,17 +603,23 @@ Forever may they remove from us evil [2].
 
 किञ्च - **अमीवाः** रोगांश्च युयवन्नित्येव । आगत्य हिंसन्तीत्यमीवाः । मीयतेराङ्पूर्वाद्वप्रत्ययः, उपसर्गस्य च ह्रस्वत्वं निपात्यते । यौतेर्लेटि शपश्लुः, 'छन्दस्युभयथा' इत्यार्धधातुकत्वात् ङित्त्वाभावे गुणः ॥
 </details>
+</details>
+</div>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 14प्रत्याधावतोनुमन्त्रयते - एष स्य इति जगती ॥ 
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/08_eSha_sya.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 ए॒ष स्य+++(=स)+++ वा॒जी ख्षि॑प॒णिन्+++(=कशां)+++ तु॑रण्यति+++(←तुरण् त्वरायाम्)+++   
 ग्री॒वाया᳚म् ब॒द्धो, अ॑पिक॒ख्ष +++(=भुजे)+++ आ॒सनि॑+++(=आस्ये)+++ ।  
 क्रतु॑न् दधि॒+++(←धा)+++-क्रा+++(←क्रम्)+++ अनु॑ स॒न्तवी᳚त्वत्+++(←तु वृद्धौ)+++   
 प॒थाम् अङ्का॒ꣳ॒स्य् अन्व् आ॒पनी॑फणत्+++(← फण् गतौ?)+++   ॥
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/08_eSha_sya.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 This steed speedeth his swift course,  
@@ -605,6 +645,8 @@ Springeth along the bends of the ways.
 
  पुनश्च विशेष्यते - **पथां** मार्गाणां **अङ्कांसि** लक्ष्मस्थानीयानि कुटिलानि निम्नोन्नतत्वादीनि वा । अकि लक्षणे, असुन् । **अन्वापनीफणत्** अनुक्रमेण ऋजुत्वं समत्वं च पथाम् आपादयन् । दाधर्त्यादौ निपात्यते, पूर्ववत्स्वरः । एवं कुर्वन् तुरण्यति ॥
 </details>
+</details>
+</div>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/040/03_uta_smAsya.md">
 <details open><summary><h5>०३ उत स्मास्य ...{Loading}...</h5></summary>
 
@@ -916,13 +958,17 @@ Und dieses schnellen Läufers Fittich fliegt dahin, wie eines Vogels, der begehr
 
 16रथविमोचनीयं जुहोति - आ मा वाजस्येति त्रिष्टुभा ॥ 
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/09_A_mA.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 **आ** मा॒ वाज॑स्य प्रस॒वो **ज॑गम्या॒द्**  
 आ द्यावा॑पृथि॒वी वि॒श्व-श॑म्-भू ।  
 **आ** मा॑ **गन्ताम्** पि॒तरा᳚ [36] मा॒तरा॒  
-**चा** ऽऽमा॒ सोमो॑ अमृत॒त्वाय॑ **गम्यात्**  ॥  
+**चा** ऽऽमा॒ सोमो॑ अमृत॒त्वाय॑ **गम्यात्**  ॥
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/09_A_mA.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 May there come to me the instigation of strength;  
@@ -933,7 +979,7 @@ May Soma come to me for immortality.
 <details><summary>मूलम्</summary>
 
 आ मा॒ वाज॑स्य प्रस॒वो ज॑गम्या॒दा द्यावा॑पृथि॒वी वि॒श्वश॑म्भू ।  
-आ मा॑ गन्ताम्पि॒तरा᳚ [36] मा॒तरा॒ चाऽऽमा॒ सोमो॑ अमृत॒त्वाय॑ गम्यात्  ॥  
+आ मा॑ गन्ताम्पि॒तरा᳚ [36] मा॒तरा॒ चाऽऽमा॒ सोमो॑ अमृत॒त्वाय॑ गम्यात्  ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -942,6 +988,8 @@ May Soma come to me for immortality.
 किञ्च - पितरा मातरा च पिता माता च मामागच्छेताम् । लेटि शपो लुक्, 'पितरा मातरा च छन्दसि' इति निपात्यते । यद्वा - उभयत्रापि 'सुपां सुलुक्', इति सोराकारः ।   
 किञ्च - सोमश्च मामृतत्वाय अमरणत्वाय गम्यादागच्छेत् । लिङि शपो लुक् । आशिषि लिङ्वा ॥
 </details>
+</details>
+</div>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 17रथयुजोश्वान्नैवारं चरुमवघ्रापयति - वाजिन इति यजुषा ॥ 
@@ -994,8 +1042,8 @@ O ye steeds, prize winning, that have run for the prize, that have won the prize
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒यव्ँ व॒स् सा स॒त्या स॒न्धा ऽभू॒त्  
-याम् इन्द्रे॑ण स॒म्-अध॑ध्व॒म् ।
+इ॒यव्ँ व॒स् सा स॒त्या **स॒न्धा ऽभू॒त्**  
+याम् इन्द्रे॑ण **स॒म्-अध॑ध्व॒म्**+++(=कृतवन्तः)+++ ।
 </details>
 <details><summary>Keith</summary>
 

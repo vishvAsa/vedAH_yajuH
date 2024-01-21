@@ -268,6 +268,7 @@ Besteig' den Wagen, Vritrafeind; die Rosse hat Gebet geschirrt; Der Pressstein l
 </div>  
 
 _______
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/38_ShoDashigrahaH/upayAma-gRhItaH.md">
 <details open><summary><h5>उपयाम-गृहीतः ...{Loading}...</h5></summary>
 <details><summary>मूलम् (संयुक्तम्)</summary>

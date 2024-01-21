@@ -33,7 +33,7 @@ Be fullest of help for us.
 आ प्या॑यस्व मदिन्तम॒ सोम॒ विश्वा॑भिरू॒तिभिः॑ ।  
 भवा॑ नस्स॒प्रथ॑स्तमः ॥ 
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>भट्टभास्कर-टीका</summary>
 
 **सोम! मदिन्तम!** मादयितृतम! ।  
 यद्वा - माद्यतम आत्मानन्दमय । 'शमित्यष्टाभ्यो घिनुण्' 'नाद्घस्य' इति नुट् । **आप्यायस्व** वर्धस्व **विश्वाभिर् ऊतिभिः** रक्षणैस् तर्पणैर्वा अस्माकं **सप्रथस्तमो** भव अतिशयेन प्रथा-समन्वितः सप्रथस्तमः । त्वमस्मद्विषयाभिस्सर्वाभिरूतिभिः भृशं प्रथितो भव अस्माभिस्सह वर्धस्व ॥
@@ -47,6 +47,7 @@ Be fullest of help for us.
 ## अवगाहनम्
 
 गायत्री। सोमऋषिः
+
 <div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/113/11_IyuShTe_ye.md">
 <details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
 
@@ -359,6 +360,7 @@ Verschwunden sind die Menschen, welche schauten die Morgenröthe, die da früher
 ## ओषणम्
 
 सोमऋषिः
+
 
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/33-35_sangAhanam/jyotiShmantaM.md">

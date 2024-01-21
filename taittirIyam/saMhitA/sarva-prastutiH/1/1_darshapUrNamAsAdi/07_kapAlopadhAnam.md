@@ -124,6 +124,7 @@ The Raksas is burnt, the evil spirits are burnt.
 प्रत्युष्टादिना व्याख्यातम् (तै.सं. 1.1.2) ।  
 'अग्निवत्युपदधाति' (तै.ब्रा. 3.2.7) इत्यादि ब्राह्मणम् ॥
 
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/bhaTTa-bhAskara-TIkA/1/2_somayAgArambhaH/02_barhirAstaraNam/raxorAtI.md">
 <details open><summary><h5>रक्षोऽराती ...{Loading}...</h5></summary>
 
@@ -456,7 +457,7 @@ ____
 
 12कपालानि विमुञ्चति - यानीति ॥ इष्टिसंस्थानकालभाविनोपि विमोकमन्त्रस्य प्रासङ्गिकमिहाम्नानम् ।
 </details>
-<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdiH/07_kapAlopadhAnam/yAni_gharme.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/07_kapAlopadhAnam/yAni_gharme.md">
 <details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 यानि॑ घ॒र्मे **क॒पाला᳚न्य्**  
@@ -465,7 +466,7 @@ ____
 **इ॑न्द्र-वा॒यू वि मु॑ञ्चताम्** ॥ [11]   
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdiH/07_kapAlopadhAnam/yAni_gharme.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/07_kapAlopadhAnam/yAni_gharme.md">
 <details open><summary><h5>यानि घर्मे ...{Loading}...</h5></summary>
 <details><summary>Keith</summary>
 

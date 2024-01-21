@@ -66,7 +66,8 @@ _______
 
 ग्रावा᳚स्यध्वर॒कृद्दे॒वेभ्यो॑ गम्भी॒रमि॒मम॑ध्व॒रङ्कृ॑ध्युत्त॒मेन॑ प॒विनेन्द्रा॑य॒ सोम॒ꣳ॒ सुषु॑त॒म्मधु॑मन्त॒म्पय॑स्वन्तव्ँवृष्टि॒वनिम् 
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/01_somAbhiShavaH/02_grAvAsy_adhvarakRd.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 **ग्रावा᳚स्य्** अध्वर॒कृद् - दे॒वेभ्यो॑  
 **गम्भी॒रम्** इ॒मम् अ॑ध्व॒रङ्,  
@@ -74,6 +75,9 @@ _______
 +इन्द्रा॑य॒ सोम॒ꣳ॒ **सुषु॑त॒म्**  
 मधु॑मन्त॒म् पय॑स्वन्तव्ँ वृष्टि॒-वनिम्
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/01_somAbhiShavaH/02_grAvAsy_adhvarakRd.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 Thou art the stone which maketh the sacrifice for the gods;  
@@ -97,6 +101,11 @@ rich in sweetness, in milk, bringing rain.
 
 सोमो विशेष्यते - मधुमन्तं मधुररसवन्तं स्वादुभूतम् पयस्वन्तं क्षीरवन्तम्, 'पयसा श्रीणाति' इति श्रवणात् । यद्वा - 'पयः पिबतेः प्यायतेर्वा' इति निर्वचनात् सेचनवन्तं वृद्धिमन्तं वा । उभयत्राप्यसुनि पीभावः । वृष्टिवनिं यागसाधनद्वारेण वृष्टेर्दातारं सम्भक्तारं वा । 'छन्दसि वनसन' इतीन्प्रत्ययः, कृदुत्तरपदप्रकृतिस्वरत्वम् ॥
 </details>
+</details>
+</div>
+
+
+
 
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -217,7 +226,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-श्वा॒त्रास्+++(=आशु-त्राः)+++ स्थ॑,  
+श्वा॒त्रास्+++(=आशु-त्राः)+++ **स्थ॑**,  
 वृत्र॒-तुरो॒ राधो॑+++(=अन्न)+++-गूर्ता+++(←गुरी उद्यमने)+++ अ॒मृत॑स्य॒ पत्नीः᳚।  
 </details>
 <details><summary>Keith</summary>
@@ -286,13 +295,17 @@ _______
 
 यत्ते॑ सोम दि॒वि ज्योति॒र्यत्पृ॑थि॒व्याय्ँ यदु॒राव॒न्तरि॑ख्षे । तेना॒स्मै यज॑मानायो॒रु रा॒या कृ॒ध्यधि॑ दा॒त्रे वो॑चः ।
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/01_somAbhiShavaH/03_yat_te.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 यत् ते॑ सोम दि॒वि ज्योति॒र्  
 यत् पृ॑थि॒व्याय्ँ, यद् उ॒राव् अ॒न्तरि॑ख्षे  ।  
 तेना॒स्मै यज॑मानायो॒रु  
 रा॒या **कृ॒ध्य्**, अधि॑ दा॒त्रे **वो॑चः**+++(←वच्)+++।
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/01_somAbhiShavaH/03_yat_te.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 With thy light which is in the sky,  
@@ -306,8 +319,9 @@ be favourable to the giver.
 यत् पृ॑थि॒व्याय्ँ यदु॒राव॒न्तरि॑ख्षे  ।  
 तेना॒स्मै यज॑मानायो॒-  
 रु रा॒या कृ॒ध्यधि॑ दा॒त्रे वो॑चः।
-
 </details>
+</details>
+</div>
 <details><summary>प्रदीपसिंहः</summary>
 
 सतोबृहत्यां साधारणत एवम् भवति - ८ + ८ + १२ + ८ ।  
@@ -452,7 +466,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत् ते॑ सो॒म +अदा᳚भ्य॒न्+++(←दभ हिंसायाम्)+++ नाम॒ जागृ॑वि॒  
+यत् ते॑ सो॒म +अदा᳚भ्य॒न्+++(←दभ हिंसायाम्)+++ नाम॒ +++(←)+++जागृ॑वि॒  
 तस्मै॑ ते सोम॒, सोमा॑य॒ +++(नाम्ने)+++ स्वाहा᳚ ॥ [2]  
 </details>
 <details><summary>Keith</summary>

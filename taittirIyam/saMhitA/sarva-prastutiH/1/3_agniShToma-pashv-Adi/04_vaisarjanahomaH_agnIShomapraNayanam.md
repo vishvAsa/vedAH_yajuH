@@ -270,13 +270,17 @@ _______
 
 3पूर्वया द्वारा शालाया उपनिष्क्रामति- अयं न इति चतुष्पदया त्रिष्टुभा ॥ 
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/04_vaisarjanahomaH_agnIShomapraNayanam/02_ayan_no.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अ॒यन् नो॑ अ॒ग्निर् **वरि॑वᳵ+++(=अवकशं)+++ कृणोत्व्**  
 अ॒यम् मृधᳶ॑+++(=सङ्ग्रामस्य)+++ **पु॒र ए॑तु** प्रभि॒न्दन् ।   
 अ॒यꣳ **शत्रू᳚ञ् जयतु॒** जर्हृ॑षाणो॒ +++(←हृष् + यङ् + लुक्)+++  
 ऽयव्ँ **वाज॑ञ् जयतु॒** वाज॑-सातौ+++(←सन् लाभे+क्तिन्)+++ ॥
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/04_vaisarjanahomaH_agnIShomapraNayanam/02_ayan_no.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 May Agni here make room for us;
@@ -298,19 +302,28 @@ May he win booty in the contest for booty.
 
 किञ्च - **अयम्** अग्निर् **वाजम्** अन्नं जयतु अस्मदर्थम् आत्मवशं करोतु । क्व ? **वाजसातौ** । 'ऊतियूति' इत्यादिना निपातनात् सनोतेः कर्मणि क्तिन्, 'जनसन' इत्यात्वम् । वाजो लभ्यते यस्मिन् तस्मिन् **वाज-सातौ** सङ्गामे वाजं जयतु । वाजशब्दो वृषादित्वादाद्युदात्तः ॥
 </details>
+</details>
+</div>
+
+
+
 
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4आह्वनीये स्रुवाहुतिं जुहोति - उरु विष्णो इति चतुष्पदयानुष्टुभा ॥
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/04_vaisarjanahomaH_agnIShomapraNayanam/03_uru_viShNo.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 उ॒रु वि॑ष्णो॒ वि क्र॑मस्व  
 +उ॒रु ख्षया॑य नᳵ कृधि ।  
 घृ॒तङ् घृ॑त-योने पिब॒  
 प्रप्र॑ य॒ज्ञ-प॑तिन् +++(प्र)+++तिर+++(=वर्धय)+++ ॥
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/04_vaisarjanahomaH_agnIShomapraNayanam/03_uru_viShNo.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 Step widely, O Visnu;  
@@ -324,7 +337,7 @@ Lengthen (the years) of the lord of the sacrifice.
 घृ॒तङ्घृ॑तयोने पिब॒ प्रप्र॑ य॒ज्ञप॑तिन्तिर ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
- 
+
 हे अग्ने **विष्णो** व्यापक । 'विषेः किच्च' इति नुप्रत्ययः । **उरु विक्र्मस्व** महाविक्रमो भव सर्वत्राप्रतिहतो भव । 'वृत्तिसर्गतायनेषु क्रमः' इत्यात्मनेपदम् ।  
 
 किञ्च – **नः** अस्माकं **क्षयाय** निवासाय निवासस्य । 'षष्ठ्यर्थे चतुर्थी वक्तव्या', क्षयो निवासे' इत्याद्युदात्तत्वम् । **उरु कृधि** बहुधनादिकं देहि, अरिक्तमस्माकं निवासं कुर्वित्यर्यः । 'कः करत्करतिकृधिकृतेष्वनदितेः' इति संहितायां नसस्सकारस्य सकारो   व्यत्ययेन न प्रवर्तते । उक्तं च प्रातिशाख्ये 'न सक्रघकारपरे' इति ।  
@@ -336,6 +349,11 @@ Lengthen (the years) of the lord of the sacrifice.
 प्रपूर्वस् तिरतिर् वृद्धिकर्मा । 'प्रसमुपोदः पादपूरणे' इति प्रशब्दस्य द्विर्वचनम्, 'अनुदात्तं च' इति द्वितीयः प्रशब्दोनुदात्तः ।  
 'पत्यावैश्वर्ये' इति प्रकृतिस्वरत्वेन यज्ञशबोन्तोदात्तः, 'यजयाच' इति नञ्प्रत्ययान्तत्वात् ॥
 </details>
+</details>
+</div>
+
+
+
 
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -638,12 +656,16 @@ _______
 
 ए॒तत्त्वꣳ सो॑म दे॒वो दे॒वानुपा॑गा इ॒दम॒हम्म॑नु॒ष्यो॑ मनु॒ष्या᳚न्थ्स॒ह प्र॒जया॑ स॒ह रा॒यस्पोषे॑ण।
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/04_vaisarjanahomaH_agnIShomapraNayanam/04_etat_tvam.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 ए॒तत् त्वम् सो॑म दे॒वो दे॒वान् उपा॑गाः,  
 इ॒दम् अ॒हम् म॑नु॒ष्यो॑ मनु॒ष्या᳚न्  +++(उपागाम्)+++।   
 स॒ह प्र॒जया॑ स॒ह रा॒यस्पोषे॑ण॥
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/04_vaisarjanahomaH_agnIShomapraNayanam/04_etat_tvam.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 So, O Soma, god to the gods, hast thou gone, and I here man to man, with offspring, with increase of wealth.
@@ -659,6 +681,11 @@ So, O Soma, god to the gods, hast thou gone, and I here man to man, with offspri
 9राजानमुपतिष्ठते - एतत्त्वमिति ॥ एतत् एतस्मिन्काले । इदमित्यपि तथा । उभयत्र 'सुपाम् सुलुक्' इति सप्तम्या लुक् । हे सोम एतस्मिन्काले देवस्त्वं देवानुपागाः उपसंप्राप्तोसि । अस्मिन्कालेहमपि मनुष्यो मनुष्यानुपागाम् । क्रियाविशेषणं चोभयम् । सर्वत्र प्रायेणास्मद्विषय इदं शब्दः, युष्मद्विषय एतच्छब्दः, यथा - 'एषा सा त्वयि' 'इयं सा मयि' इति । उपागामित्यत्र 'गातिस्था' इति सिचो लुक् । 'देवो ह्येष सन्' इत्यादि ब्राह्मणम् ।   
 किं केवलं एव मनुष्यानुपैति । नेत्याह - प्रजया सह रायो धनस्य पोषेण च सह मनुष्यानुपागामिति । 'यदेतद्यजुर्न ब्रूयादप्रजा अपशुर्यजमानस्यात्' इत्यादि ब्राह्मणम् । प्रजाशब्दः कृदुत्तरपदप्रकृतिस्वरेणान्तोदात्तः, 'उपसर्गे च संज्ञायाम्' इति डप्रत्ययः । 'ऊडिदम्' इत्यादिना रैशब्दात् षष्ठ्या उदात्तत्वम् ॥
 </details>
+</details>
+</div>
+
+
+
 
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>

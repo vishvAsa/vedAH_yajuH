@@ -449,7 +449,7 @@ _______
 
 11कपालानि विमुञ्चति - यानि घर्म इत्यनुष्टुभा ॥ 
 </details>
-<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdiH/07_kapAlopadhAnam/yAni_gharme.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/07_kapAlopadhAnam/yAni_gharme.md">
 <details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 यानि॑ घ॒र्मे **क॒पाला᳚न्य्**  
@@ -458,7 +458,7 @@ _______
 **इ॑न्द्र-वा॒यू वि मु॑ञ्चताम्** ॥ [11]   
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdiH/07_kapAlopadhAnam/yAni_gharme.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/07_kapAlopadhAnam/yAni_gharme.md">
 <details open><summary><h5>यानि घर्मे ...{Loading}...</h5></summary>
 <details><summary>Keith</summary>
 

@@ -2307,6 +2307,8 @@ _____________
 हे अग्ने तव शुक्रास्तेजोविशेषाः शुचयश्शुद्धाः भ्राजन्तः दीप्यमानाः उदीरते उद्गच्छन्ति । किञ्च - तवैव स्वभूतानि ज्योतींष्य्ष्दित्यादीनि अर्चयोर्चींषि च । यद्वा - तव अर्चयोर्चयितारो यजमानाः ज्योतींषि ज्योतीरूपा भवन्ति स त्वमेवं महानुभावः उद्वापदोषमुपशमयेति ॥
 __________
 हे अग्ने तव शुचयः तेजांसि शुक्राः निर्मलाः भ्राजन्तः दीप्यमानाः उदीरते उद्गच्छन्ति तवैव स्वभूतानि सर्वाण्यादित्यादीनि ज्योतींषि । अर्चयः अर्चयितारः यागादिभिराराधयितारः ज्योतींषि भवन्ति ज्योतीरूपास्सम्पद्यन्ते । एवम्महानुभावस्त्वमस्मदभिमतं क्षिप्रं प्रयच्छेति भावः ॥
+___________
+हे अग्ने ते तव शुक्राः निर्मलाः शुचयः रश्मयः भ्राजन्तः राजन्तः उदीरते उद्गच्छन्ति तव । किं च - तवार्चयः तेजांसि ज्योतींषि ग्रहनक्षत्राणि भवन्ति । यद्वा - तवार्चयितारः ज्योतींषि भवन्तीति ॥
 </details>
 <details><summary>Wilson</summary>
 
@@ -2461,7 +2463,8 @@ ___________
 
 15आहवनीये समिधमादधाति - इन्धाना इति सप्तपदया शक्वर्या ॥
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/05_AhavanIyopasthAnamantrAH/02_indhAnAs_tvA.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 **इन्धा॑नास् त्वा** श॒तꣳ हिमा᳚  
 द्यु॒मन्त॒स् +++(स्वयं)+++ **समि॑धीमहि॒**  
@@ -2471,6 +2474,9 @@ ___________
 अग्ने॑ सपत्न॒दम्भ॑न॒व्ँ  
 वर्षि॑ष्ठे॒ अधि॒ नाके᳚ ॥
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/05_AhavanIyopasthAnamantrAH/02_indhAnAs_tvA.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 Kindling thee may we kindle thee  
@@ -2493,21 +2499,28 @@ in the highest firmament.
 
 वर्षिष्ठे वृद्धतमे नाके सुखैकरूपे अस्मिन् स्थाने स्वर्गसदृशे अधि उपरि त्वामिन्धाना वयमीदृशा भूयास्मेति । प्रियस्थिरादिना वृद्धशब्दस्य वर्षादेशः ॥
 </details>
+</details>
+</div>
+
+
+
 
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 16पुनरुपतिष्ठते - सं त्वमग्न इति । 
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/05_AhavanIyopasthAnamantrAH/03_san_tvam.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 सन् त्वम् अ॑ग्ने॒ **सूर्य॑स्य॒ वर्च॑सा ऽगथा॒स्**+++(=अगच्छः)+++,  
 सम् ऋषी॑णाꣳ स्तु॒तेन॒, सम् प्रि॒येण॒ धाम्ना᳚ ।  
-
-
 त्वम् अ॑ग्ने॒ **सूर्य॑-वर्चा असि॒**,  
-सम् माम् आयु॑षा॒ वर्च॑सा **प्र॒जया॑ सृज** ॥ [20]  
+सम् माम् आयु॑षा॒ वर्च॑सा **प्र॒जया॑ सृज** ॥ [20]
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/05_AhavanIyopasthAnamantrAH/03_san_tvam.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 Thou, O Agni, hast attained the radiance of the sun, the praises of the Rsis, thy beloved abode.  
@@ -2516,11 +2529,13 @@ Thou, O Agni, hast the radiance of the sun; grant me life, radiance, and offspri
 <details><summary>मूलम्</summary>
 
 सन्त्वम॑ग्ने॒ सूर्य॑स्य॒ वर्च॑साऽगथा॒स्समृषी॑णाꣳ स्तु॒तेन॒ सम्प्रि॒येण॒ धाम्ना᳚ ।  
-त्वम॑ग्ने॒ सूर्य॑वर्चा असि॒ सम्मामायु॑षा॒ वर्च॑सा प्र॒जया॑ सृज ॥ [20]  
+त्वम॑ग्ने॒ सूर्य॑वर्चा असि॒ सम्मामायु॑षा॒ वर्च॑सा प्र॒जया॑ सृज ॥ [20]
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
 इयं जगती वृद्धपदा ॥ हे **अग्ने** त्वं **सूर्यस्य वर्चसा** दीप्त्या **समगथाः** सङ्गच्छसे । छान्दसो लुङ्, 'समो गमृच्छि' इत्यात्मनेपदम् 'मन्त्रे घस' इति च्लेर्लुक्, 'वागमः' इति सिचः कित्त्वम् । ऋषीणां मन्त्रद्रष्टॄणां मन्त्राणां वा स्तुतेन स्तुत्या च समगथाः इत्येव । प्रियेण च धाम्ना स्थानेनाहवनीयेन समगथाः सम्पृक्तोसि । यस्मादेवं तस्मात् हे अग्ने त्वं सूर्यवर्चाः सूर्येण तुल्यतेजा असि । यद्वा - सूर्यस्य वर्चस्त्वमसि । स त्वं मां त्वाम्प्रपन्नमायुषा शतायुष्ट्वेन वर्चसा प्रजया च सत्पुत्रपौत्रादिपरम्परया संसृज सङ्गमय ॥
 
-इति पञ्चमे अग्न्युपस्थानन्नाम पञ्चमोनुवाकः ॥  
+इति पञ्चमे अग्न्युपस्थानन्नाम पञ्चमोनुवाकः ॥
 </details>
+</details>
+</div>

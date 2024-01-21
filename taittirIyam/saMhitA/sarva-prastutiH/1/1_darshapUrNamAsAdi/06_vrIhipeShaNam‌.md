@@ -6,6 +6,7 @@ title: ०६ व्रीहिपेषणम्
 
 ____
 
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/05_haviHproxaNAdiH/avadhUtaM.md">
 <details open><summary><h5>अवधूतम् ...{Loading}...</h5></summary>
 <details><summary>भास्करोक्त-विनियोगः</summary>

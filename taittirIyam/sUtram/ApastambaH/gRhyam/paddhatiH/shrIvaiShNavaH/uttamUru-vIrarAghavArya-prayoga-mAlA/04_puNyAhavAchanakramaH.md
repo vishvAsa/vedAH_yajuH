@@ -366,7 +366,7 @@ title = "०४ पुण्याहवाचनक्रमः"
 
 > ओं भूर्भुव॒स्सु॒वः॑ ॥  
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/3/5/11"  newLevelForH1="5" includeTitle="false">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/3/5/11/11_shaMyu-vAkaH_tach_ChaMyoH"  newLevelForH1="5" includeTitle="false">
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

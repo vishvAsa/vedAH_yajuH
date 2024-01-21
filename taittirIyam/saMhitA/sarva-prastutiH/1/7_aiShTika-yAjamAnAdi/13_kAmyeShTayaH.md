@@ -577,13 +577,17 @@ Dir räumten alles ein die Götter alle, der grossen Indramacht beim Vritrakampf
 
 3'इन्द्राण्यै चरुं निर्वपेद्यस्य सेनाऽसंशितेव स्यात्' इत्यस्य पुरोनुवाक्या - इन्द्राणीमित्यनुष्टुप् ॥ 
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/13_kAmyeShTayaH/02_indrANImAsu_nAriShu.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 इ॒न्द्रा॒णीमा॒सु नारि॑षु  
 सु॒पत्नी॑म् अ॒हम् अ॑श्रवम् ।   
 न ह्य् अ॒स्या अप॒रञ् च॒न +++(→किम् अन्यत्!)+++  
 ज॒रसा᳚ [47]मर॑ते॒ पतिः॑  ॥
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/13_kAmyeShTayaH/02_indrANImAsu_nAriShu.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 Indrani beyond other women  
@@ -600,6 +604,8 @@ Shall her husband die of old age.
 
 इन्द्रणीमिन्द्रस्य पत्नीम् । 'इन्द्रवरुण' इति ङीष् । आसु नारिषु मध्ये । छान्दसं ह्रस्वत्वम् । सुपत्नीं शोभनपतिकाम् । 'विभाषा सपूर्वस्य' इति ङीष्, 'आद्युदात्तं द्व्यच्छन्दसि' इत्युत्तरपदाद्युदात्तत्वम् । अहमश्रवं श्रुतवानस्मि । शृणोतेर्लङि व्यत्ययेन शप् । लुग्वा शपः । **अपरञ्चन** किञ्चन किञ्चान्यदित्यर्थः अयमस्मा अन्यो विशेषः । चनेति समुच्चये । **न ह्यस्याः पतिः जरसा** वयोहान्या **मरते** म्रियते । व्यत्ययेन शप्, 'हि च' इति निघातप्रतिषेधः । सैव महाभागा इन्द्राणी अस्मत्सेनामुत्साहवतीं करोत्वित्यर्थः ॥
 </details>
+</details>
+</div>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4तत्रैव याज्या - नाहम् इत्य् अनुष्टुप् ॥ 
@@ -2111,13 +2117,17 @@ So bring doch her, lass niemand es verhindern, da wir dich kennen als den Herrn 
 
 9'इन्द्राय प्रदात्रे पुरोदाशमेकादशकपालं निर्वपेद् यस्मै प्रत्तम् इव सन्नप्रदीयेत' इत्यस्य पुरोनुवाक्या - प्रदातारमिति बृहती ॥
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/13_kAmyeShTayaH/03_pradAtAraM_havAmaha.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 प्र॒दा॒तारꣳ॑ **हवामह॒**  
 इन्द्र॒म् आ ह॒विषा॑ व॒यम् ।    
 उ॒भा हि हस्ता॒  वसु॑ना पृ॒णस्वा  
 **ऽऽप्र य॑च्छ॒** दख्षि॑णा॒द् ओत स॒व्यात्  ॥
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/13_kAmyeShTayaH/03_pradAtAraM_havAmaha.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 With our oblation we summon  
@@ -2136,17 +2146,23 @@ Give to us from the left and the right.
 
 द्वाभ्यमष्टाक्षराभ्यां दशाक्षराभ्यां च बृहती । प्रदातारमिन्द्रमिति त्वामनेन हविषा वयं हवामहे आह्वयामहे । 'बहुलं छन्दसि' इति सम्प्रसारणम् । स त्वमुभौ हस्तौ वसुना धनेन पृणस्व पूरय । पृण प्रीणने, तौदादिकः, व्यत्ययेनात्मनेपदम्, 'हि च' इति निघातप्रतिषेधः । पूरयित्वा चास्मभ्यं प्रयच्छ देहीति यावत् । आ दक्षिणादा च सव्यात्प्रसारिताद्धस्तात् ताभ्यां प्रसारिताभ्यां यावद्गृह्यते तावद्देहीति यावत् ॥
 </details>
+</details>
+</div>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 10तत्रैव याज्या - प्रदातेति त्रिष्टुप् ॥ 
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/13_kAmyeShTayaH/04_pradAtA_vajrI.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 प्र॒दा॒ता व॒ज्री वृ॑ष॒भस् +++(आ)+++तु॑रा॒-षाट्+++(←सह्)+++  
 छु॒ष्मी राजा॑ वृत्र॒-हा सो॑म॒पावा᳚ ।   
 अ॒स्मिन् य॒ज्ञे ब॒र्हिष्य् आ **नि॒षद्य॑** +  
 +अथा॑ **भव॒** यज॑मानाय॒ शय्ँ योः+++(←यु मिश्रणामिश्रणयोः)+++  ॥
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/13_kAmyeShTayaH/04_pradAtA_vajrI.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 The giver, the bolt-bearer, the bull, the overpowering,  
@@ -2163,6 +2179,8 @@ Be thou health and wealth to the sacrificer.
 
 **प्रदाता** प्रकर्षेण दाता **वज्री** वज्रवान् **वृषभः** वर्षिताभिमतानां धनानां, **तुराषाट्** तूर्णम् अभिभविता शत्रूणां । तुर त्वरासम्भ्रमयोः, भिदादिलक्षणोङ्, 'छन्दसि सहः' इति ण्विः, सहेस्साढस्सः' इति षत्वम् । **शुष्मी** बलवान् **राजा** दीप्यमानः **वृत्रहा** वृत्रं हतवान् **सोमपावा** सोमस्य पाता । 'अतो मनिन्' इति वनिप् । ईदृशस्त्वमस्मिन् **यज्ञे बर्हिषि** सीदसि । आगत्य **निषद्य** आसित्वा, अथ अनन्तरं यजमानाय **शं** च **योश्** च **भव** रोगाणां शमयिता भयानां च यावयीता । शाम्यतेर् यौतेश् च विच् । 'निपातस्य च' इति संहितायामथशब्दस्य दीर्घत्वम् ॥
 </details>
+</details>
+</div>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 11'इन्द्राय सुत्राम्णे पुरोडाशमेकादशकपालं निर्वपेदपरुद्धो वापरुद्ध्यमानो वा' इत्यस्य पुरोनुवाक्या - इन्द्रस्सुत्रामेति त्रिष्टुप् ॥ 

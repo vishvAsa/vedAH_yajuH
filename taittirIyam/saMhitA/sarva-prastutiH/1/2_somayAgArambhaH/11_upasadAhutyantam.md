@@ -122,7 +122,7 @@ ________
 ## अवान्तरदीक्षा
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-यजमानम् अवान्तर-दीक्षाम् उपनयति।।
+4यजमानम् अवान्तर-दीक्षाम् उपनयति- अग्न इति । 
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -151,7 +151,7 @@ Together, O lord of vows, be the vows of us two that keep vows.
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
-4यजमानमवान्तरदीक्षामुपनयति- अग्न इति । हे अग्ने व्रतपते व्रतानां पते त्वं व्रतानां सर्वेषां सम्बन्धिनां व्रतपतिरसि; न पुनरेकस्य व्रतस्य पतित्वाद्व्रतपतिरुच्यते । समासे सङ्ख्याविशेषस्याप्रतिपत्तेः बहुत्वप्रतिपादनाय व्रतानामित्युक्तम् । नित्यसम्बन्धाविप्रतिपत्त्यर्थं वृत्तिश्च कृता । पतिः पालयिता स्वामी वा । सर्वेषां व्रतानां सर्वदा सर्वात्मना च पतिस्त्वमसि ।
+हे अग्ने व्रतपते व्रतानां पते त्वं व्रतानां सर्वेषां सम्बन्धिनां व्रतपतिरसि; न पुनरेकस्य व्रतस्य पतित्वाद्व्रतपतिरुच्यते । समासे सङ्ख्याविशेषस्याप्रतिपत्तेः बहुत्वप्रतिपादनाय व्रतानामित्युक्तम् । नित्यसम्बन्धाविप्रतिपत्त्यर्थं वृत्तिश्च कृता । पतिः पालयिता स्वामी वा । सर्वेषां व्रतानां सर्वदा सर्वात्मना च पतिस्त्वमसि ।
 
 या मम यजमानस्य तनूश्शररिं सा त्वयि मया निवेशिता । एषा इत्यङ्गुल्या अग्नेस्तनूं दर्शयति ।
 
@@ -201,12 +201,16 @@ ________
 6उपसदाहुतीर्जुहोति - तिसृषूपसत्सु अनुक्रमेण या त इति तिसृभिरनुष्टुग्भिः । तत्र प्रथमायां 'या ते अग्नेयाशया' इति ॥  
 'तनूर्वर्षिष्ठा' इत्यादि तिसृष्वपि सम्बध्यते ।
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/11_upasadAhutyantam/02_yA_te.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 या ते॑ अग्ने ऽया+++(=अयसि/अस्यां [भुवि])+++श॒या [ त॒नूर्  
 वर्षि॑ष्ठा+++(=वृद्धतमा)+++ गह्वरे॒ष्ठोग्रव्ँ वचो॒ अपा॑वधीम्+++(→अपहन्मि)+++,,  
 त्वे॒षव्ँ+++(=दीप्तं/ क्रूरं)+++ वचो॒ अपा॑वधी॒ꣳ॒ स्वाहा᳚ ॥ ] ।
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/11_upasadAhutyantam/02_yA_te.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 That form of thine, O Agni, which rests in iron  
@@ -222,23 +226,26 @@ the highest, that dwells in the cleft,
 
 हे अग्ने या ते त्वदीयां तनूः अयाशया अस्यां पृथिव्यां शेत इत्ययाशया । इदमस्सप्तम्येकवचनस्य `सुपां सुलुक्' इति यादेशः, 'हलि लोपः' इतीद्रूपस्य लोपः, त्यदाद्यत्वम्, अस्यां शेत इति 'अधिकरणे शेतेः' इत्यच्, 'शवासवासिष्वकालात्' इत्यलुक्, कृदुत्तरपदप्रकृतिस्वरत्वम् । 
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/bhaTTa-bhAskara-TIkA/1/2_somayAgArambhaH/11_upasadAhutyantam/varshiShThA.md">
-<details open><summary><h5>वर्षिष्ठा … ...{Loading}...</h5></summary>
+
+वर्षिष्ठा … ...{Loading}...
 
 
 वर्षिष्ठा वृद्धतमा । प्रियस्थिरादिसूत्रेण वृद्धशब्दस्य वर्षादेशः । गह्वरे गहने तिष्ठतीति गह्वरेष्ठा । 'सुपि स्थः' इति कः, 'तत्पुरुषे कृति बहुळम्' इत्यलुक् । तयेत्यध्याह्रियते । तया तन्वा उग्रं उद्गूर्णमधिक्षेपं वचोपावधीमप हन्मि, तस्य प्रयोक्तारमपहन्मीति यावत् । 'अशनयापिपासेहवा उग्रं वचः' इत्यादि ब्राह्मणम् । तन्निमित्तत्वात्तादृशवचनश्रुतेः । छान्दसो लुङ्, 'हनो वध लुङि' इति वधा देशः, 'आमो मश्' इति मशादेशः ।
 
 त्वेषं दीप्तं क्रूरं राक्षसादिसमीरितं श्रुत्याभीतिजनकम् । 'एनश्च वैरहत्यं च त्वेषं वचः' इत्यादिब्राह्मणम् । एनस्विभिर्वीरहादिभिश्च प्रयोज्यत्वात् । तच्च वचोपावधीम् । तस्य प्रयोक्तारं च अपहन्मि त्वत्प्रसादान्नाशयेयम् । इदमुभयं तदर्थं तस्यै तन्वै स्वाहा सुहुतमिदमस्तु ॥
-
+</details>
 </details>
 </div>
-</details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/11_upasadAhutyantam/03_rajAshayA.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 [या ते॑ अग्ने] रजा+++(=रजते/ऽन्तरिक्षे)+++-श॒या [ त॒नूर्  
 वर्षि॑ष्ठा+++(=वृद्धतमा)+++ गह्वरे॒ष्ठोग्रव्ँ वचो॒ अपा॑वधीम्+++(→अपहन्मि)+++,,  
 त्वे॒षव्ँ+++(=दीप्तं/ क्रूरं)+++ वचो॒ अपा॑वधी॒ꣳ॒ स्वाहा᳚ ॥ ] ।
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/11_upasadAhutyantam/03_rajAshayA.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 That form of thine, O Agni, which rests in silver  
@@ -255,23 +262,26 @@ the highest, that dwells in the cleft,
 7द्वितीयस्यां जुहोति - या ते अग्ने रजाशया तनूरित्यादि ॥  
 रजोन्तरिक्षं तस्मिन् शेत इति रजाशया मध्यमात्मिका । रजश्शब्दात्परस्यास्सप्तम्या डादेशः, पूर्ववदलुक् । शेषं समानम् ॥
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/bhaTTa-bhAskara-TIkA/1/2_somayAgArambhaH/11_upasadAhutyantam/varshiShThA.md">
-<details open><summary><h5>वर्षिष्ठा … ...{Loading}...</h5></summary>
+
+वर्षिष्ठा … ...{Loading}...
 
 
 वर्षिष्ठा वृद्धतमा । प्रियस्थिरादिसूत्रेण वृद्धशब्दस्य वर्षादेशः । गह्वरे गहने तिष्ठतीति गह्वरेष्ठा । 'सुपि स्थः' इति कः, 'तत्पुरुषे कृति बहुळम्' इत्यलुक् । तयेत्यध्याह्रियते । तया तन्वा उग्रं उद्गूर्णमधिक्षेपं वचोपावधीमप हन्मि, तस्य प्रयोक्तारमपहन्मीति यावत् । 'अशनयापिपासेहवा उग्रं वचः' इत्यादि ब्राह्मणम् । तन्निमित्तत्वात्तादृशवचनश्रुतेः । छान्दसो लुङ्, 'हनो वध लुङि' इति वधा देशः, 'आमो मश्' इति मशादेशः ।
 
 त्वेषं दीप्तं क्रूरं राक्षसादिसमीरितं श्रुत्याभीतिजनकम् । 'एनश्च वैरहत्यं च त्वेषं वचः' इत्यादिब्राह्मणम् । एनस्विभिर्वीरहादिभिश्च प्रयोज्यत्वात् । तच्च वचोपावधीम् । तस्य प्रयोक्तारं च अपहन्मि त्वत्प्रसादान्नाशयेयम् । इदमुभयं तदर्थं तस्यै तन्वै स्वाहा सुहुतमिदमस्तु ॥
-
+</details>
 </details>
 </div>
-</details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/11_upasadAhutyantam/04_harAshayA.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 [या ते॑ अग्ने] हरा+++(=हिरण्ये‌/द्यवि)+++श॒या [ त॒नूर्  
 वर्षि॑ष्ठा+++(=वृद्धतमा)+++ गह्वरे॒ष्ठोग्रव्ँ वचो॒ अपा॑वधीम्+++(→अपहन्मि)+++,,  
 त्वे॒षव्ँ+++(=दीप्तं/ क्रूरं)+++ वचो॒ अपा॑वधी॒ꣳ॒ स्वाहा᳚ ॥ ] ।
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/11_upasadAhutyantam/04_harAshayA.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 That form of thine, O Agni, which rests in gold  
@@ -295,17 +305,20 @@ the highest, that dwells in the cleft,
 शाखान्तरे च अपावधीदिति पाठः ।   
 'तेषामसुराणां तिस्रः पुरआसन्नयस्मय्यवमाथ रजताऽथ हरिणी' इति ब्राह्मणानुसारेणान्यथा व्याख्यायते । अयसि अयस्मय्यां पुरि शेत इत्ययाशया । डादेशादि समानम् । रजतं रजस्तन्मय्यां पुरि शेत इति रजाशया । हरितं हरस्तन्मय्यां पुरि शेत इति हराशया । गतमन्यत् ॥
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/bhaTTa-bhAskara-TIkA/1/2_somayAgArambhaH/11_upasadAhutyantam/varshiShThA.md">
-<details open><summary><h5>वर्षिष्ठा … ...{Loading}...</h5></summary>
+
+वर्षिष्ठा … ...{Loading}...
 
 
 वर्षिष्ठा वृद्धतमा । प्रियस्थिरादिसूत्रेण वृद्धशब्दस्य वर्षादेशः । गह्वरे गहने तिष्ठतीति गह्वरेष्ठा । 'सुपि स्थः' इति कः, 'तत्पुरुषे कृति बहुळम्' इत्यलुक् । तयेत्यध्याह्रियते । तया तन्वा उग्रं उद्गूर्णमधिक्षेपं वचोपावधीमप हन्मि, तस्य प्रयोक्तारमपहन्मीति यावत् । 'अशनयापिपासेहवा उग्रं वचः' इत्यादि ब्राह्मणम् । तन्निमित्तत्वात्तादृशवचनश्रुतेः । छान्दसो लुङ्, 'हनो वध लुङि' इति वधा देशः, 'आमो मश्' इति मशादेशः ।
 
 त्वेषं दीप्तं क्रूरं राक्षसादिसमीरितं श्रुत्याभीतिजनकम् । 'एनश्च वैरहत्यं च त्वेषं वचः' इत्यादिब्राह्मणम् । एनस्विभिर्वीरहादिभिश्च प्रयोज्यत्वात् । तच्च वचोपावधीम् । तस्य प्रयोक्तारं च अपहन्मि त्वत्प्रसादान्नाशयेयम् । इदमुभयं तदर्थं तस्यै तन्वै स्वाहा सुहुतमिदमस्तु ॥
-
+</details>
 </details>
 </div>
-</details>
+
+
+
+
 
 
 

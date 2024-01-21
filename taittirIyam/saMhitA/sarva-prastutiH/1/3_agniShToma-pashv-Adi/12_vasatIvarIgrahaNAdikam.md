@@ -15,20 +15,21 @@ _______
 
 1वसतीवरीर्गृह्णाति - हविष्मतीरिति चतुष्पदया ॥
 </details>
-
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ह॒विष्म॑तीरि॒मा आपो॑ ह॒विष्मा᳚न्दे॒वो अ॑ध्व॒रो ह॒विष्मा॒ꣳ॒ आ वि॑वासति ह॒विष्माꣳ॑ अस्तु॒ सूर्यः॑ ॥ 
 </details>
-
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/12_vasatIvarIgrahaNAdikam/02_haviShmatIr_imA.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 ह॒विष्म॑तीर् इ॒मा +++(वसतीवरीसंज्ञा)+++ आपो॑  
 ह॒विष्मा᳚न् दे॒वो अ॑ध्व॒रः ।   
 ह॒विष्मा॒ꣳ॒ आ **वि॑वासति** +++(←वा गतिगन्धनयोः)+++   
 **ह॒विष्माꣳ॑ अस्तु॒** सूर्यः॑ ॥
 </details>
-
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/12_vasatIvarIgrahaNAdikam/02_haviShmatIr_imA.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 These waters are rich in oblation,  
@@ -36,14 +37,11 @@ Rich in oblation is the divine sacrifice,
 Rich in oblation he seeks to win (the gods?),  
 Rich in oblation be the sun.
 </details>
-
-
 <details><summary>मूलम्</summary>
 
 ह॒विष्म॑तीरि॒मा आपो॑ ह॒विष्मा᳚न्दे॒वो अ॑ध्व॒रः ।   
 ह॒विष्मा॒ꣳ॒ आ वि॑वासति ह॒विष्माꣳ॑ अस्तु॒ सूर्यः॑ ॥
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 1वसतीवरीर्गृह्णाति - हविष्मतीरिति चतुष्पदया ॥ 'अनुष्टुभा गृह्णाति' इत्यादि ब्राह्मणम् । 
@@ -54,37 +52,35 @@ Rich in oblation be the sun.
 
 तदर्थम् एताभिर्गृह्यमाणाभिः हविष्मान्भगवान् सूर्योस्तु । एतासां हविष्ट्वसम्पादनाय यावद्ग्रहणमस्तं नेयादित्यर्थः । 'यस्यागृहीता अभि निम्रोचेत्' इत्यादि ब्राह्मणम् । पूर्ववत्संहितायां रुत्वम् । 'देवा वै यज्ञमाग्नीध्रे व्यभजन्त ततो यदत्यशिष्यत' इत्यादि ब्राह्मणं समस्तोनुवाकः ॥
 </details>
+</details>
+</div>
+
+
+
 
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2ता जघनेन शालामुखीयं वेद्यां संसृष्टास् सादयति - अग्नेर्व इति ॥
 </details>
-
-
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अ॒ग्नेर्वोऽप॑न्नगृहस्य॒ सद॑सि सादयामि सु॒म्नाय॑ सुम्निनीस्सु॒म्ने मा॑ धत्त 
 </details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ॒ग्नेर् वो ऽप॑न्न-गृहस्य॒ सद॑सि सादयामि सु॒म्नाय॑+++(=सुखाय)+++।  
 सुम्निनीस् सु॒म्ने मा॑ धत्त ।
 </details>
-
 <details><summary>Keith</summary>
 
 In the seat of Agni whose home is abiding I set you down, kindly for kindness, accord to me kindness.
 </details>
-
-
 <details><summary>मूलम्</summary>
 
 अ॒ग्नेर्वोऽप॑न्नगृहस्य॒ सद॑सि सादयामि सु॒म्नाय॑।  
 सुम्निनीस्सु॒म्ने मा॑ धत्त ।
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 2ता जघनेन शालामुखीयं वेद्यां संसृष्टास्सादयति - अग्नेर्व इति ॥
@@ -100,24 +96,18 @@ _______
 
 3ता आदाय दक्षिणया द्वारोपनिर्हृत्य सव्ये ऽंसे निधाय दक्षिणेन परीत्य दक्षिणतो यूपेन संस्पृष्टास् सादयति - इन्द्राग्नियोरिति ॥ 
 </details>
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ॒न्द्रा॒ग्नि॒योर् भा॑ग॒धेयीः᳚ स्थ ।
 </details>
-
 <details><summary>Keith</summary>
 
 Ye are the share of Indra and Agni; 
 </details>
-
-
 <details><summary>मूलम्</summary>
 
 इ॒न्द्रा॒ग्नि॒योर्भा॑ग॒धेयीः᳚ स्थ ।
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 3ता आदाय दक्षिणया द्वारोपनिर्हृत्य सव्ये ऽंसे निधाय दक्षिणेन परीत्य दक्षिणतो यूपेन संस्पृष्टास् सादयति - इन्द्राग्नियोरिति ॥ 
@@ -130,24 +120,18 @@ _______
 
 4दक्षिणेंसे निधाय एतेनैव यथोक्तमेत्य जघनेन गार्हपत्यं पूर्ववत्सादयति - मित्रावरुणयोर्भागधेयीस्स्थेति ॥ 
 </details>
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मि॒त्रावरु॑णयोर् भाग॒धेयीः᳚ स्थ ।
 </details>
-
 <details><summary>Keith</summary>
 
 ye are the share of Mitra and Varuna; 
 </details>
-
-
 <details><summary>मूलम्</summary>
 
 मि॒त्रावरु॑णयोर्भाग॒धेयीः᳚ स्थ ।
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 4दक्षिणेंसे निधाय एतेनैव यथोक्तमेत्य जघनेन गार्हपत्यं पूर्ववत्सादयति - मित्रावरुणयोर्भागधेयीस्स्थेति ॥ सुबोधम् । 'मित्रावरुणौ वा अपां नेतारौ' `इति ब्राह्मणम् ।'देयताद्वन्द्वे च' इति पूवोत्तरपदयोः प्रकृतिस्वरत्वम् ॥
@@ -159,24 +143,18 @@ _______
 5पूर्वया द्वारोपनिर्हृत्य दक्षिणे अंसे निधायोत्तरतः परीत्य  
 उत्तरतो यूपेन संसृष्टास्सादयति - विश्वेशां देवानां भागधेयीस्स्थेति ॥
 </details>
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विश्वे॑षान्दे॒वाना᳚म्भाग॒धेयीः᳚ स्थ ।
 </details>
-
 <details><summary>Keith</summary>
 
 ye are the share of the all-gods.
 </details>
-
-
 <details><summary>मूलम्</summary>
 
 विश्वे॑षान्दे॒वाना᳚म्भाग॒धेयीः᳚ स्थ ।
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 5पूर्वया द्वारोपनिर्हृत्य दक्षिणे अंसे निधायोत्तरतः परीत्य  
@@ -190,24 +168,18 @@ _______
 जघनेनैवाग्नीध्रियं धिष्ण्यं संसृष्टास् सादयति - यज्ञे जागृतेति ॥  
 
 </details>
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य॒ज्ञे जा॑गृत ॥ [21]
 </details>
-
 <details><summary>Keith</summary>
 
 Be watchful over the sacrifice.
 </details>
-
-
 <details><summary>मूलम्</summary>
 
 य॒ज्ञे जा॑गृत ॥ [21]
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 6सव्येंसे निधायैतेनैव यथेतम् एत्य  

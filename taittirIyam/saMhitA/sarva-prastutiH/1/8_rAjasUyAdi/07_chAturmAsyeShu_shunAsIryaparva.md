@@ -149,21 +149,23 @@ the sacrificial fee is a cow for draught purposes.
 आज्येनैतान् व्याघारयतीति केचित् - ये देवाः पुरस्सद इत्यादिभिः ॥
 तत्र ये देवा इति पदद्वयं रक्षोहण इत्यादि च पूर्वत्र परत्र च पञ्चस्वप्य् अनुषज्यते ।
 </details>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/07_chAturmAsyeShu_shunAsIryaparva/ye_devAH_purassadaH.md">
+<details open><summary><h5>ये दे॒वाᳶ पु॑र॒स्-सदो॒ ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ये दे॒वाᳶ पु॑र॒स्सदो॒ऽग्निने᳚त्राः [रख्षो॒हण॒स्,  
+ये दे॒वाᳶ पु॑र॒स्-सदो॒ऽग्नि-ने᳚त्राः [रख्षो॒-हण॒स्,  
 ते नᳶ॑ पान्तु॒,  
 ते नो॑ऽवन्तु॒,  
 तेभ्यो॑ नम॒स्,  
-तेभ्य॒स् स्वाहा᳚ ] 
+तेभ्य॒स् स्वाहा᳚ ]
 </details>
 <details><summary>Keith</summary>
 
-The gods that sit in the east, led by Agni; 
+The gods that sit in the east, led by Agni;
 </details>
 <details><summary>मूलम्</summary>
 
-ये दे॒वाᳶ पु॑र॒स्सदो॒ऽग्निने᳚त्राः [रख्षो॒हण॒स्ते नᳶ॑ पान्तु॒ ते नो॑ऽवन्तु॒ तेभ्यो॑  नम॒स्तेभ्य॒स्स्वाहा᳚ ]  
+ये दे॒वाᳶ पु॑र॒स्सदो॒ऽग्निने᳚त्राः [रख्षो॒हण॒स्ते नᳶ॑ पान्तु॒ ते नो॑ऽवन्तु॒ तेभ्यो॑  नम॒स्तेभ्य॒स्स्वाहा᳚ ]
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -177,7 +179,7 @@ The gods that sit in the east, led by Agni;
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[ये दे॒वाः] दख्षिण॒सदो॑ य॒मने᳚त्राः [रख्षो॒हण॒स्,  
+[ये दे॒वाः] दख्षिण॒-सदो॑ य॒म-ने᳚त्राः [रख्षो॒-हण॒स्,  
 ते नᳶ॑ पान्तु॒,  
 ते नो॑ऽवन्तु॒,  
 तेभ्यो॑ नम॒स्,  
@@ -185,19 +187,19 @@ The gods that sit in the east, led by Agni;
 </details>
 <details><summary>Keith</summary>
 
-that sit in the south, led by Yama; 
+that sit in the south, led by Yama;
 </details>
 <details><summary>मूलम्</summary>
 
-[ये दे॒वाः] दख्षिण॒सदो॑ य॒मने᳚त्राः [रख्षो॒हण॒स्ते नᳶ॑ पान्तु॒ ते नो॑ऽवन्तु॒ तेभ्यो॑  नम॒स्तेभ्य॒स्स्वाहा᳚ ]  
+[ये दे॒वाः] दख्षिण॒सदो॑ य॒मने᳚त्राः [रख्षो॒हण॒स्ते नᳶ॑ पान्तु॒ ते नो॑ऽवन्तु॒ तेभ्यो॑  नम॒स्तेभ्य॒स्स्वाहा᳚ ]
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
-एवं ये देवाः दक्षिणसदः यमनेत्रा रक्षोहणः ते नः पान्तु ते नोवन्त्वित्यादि ।  
+एवं ये देवाः दक्षिणसदः यमनेत्रा रक्षोहणः ते नः पान्तु ते नोवन्त्वित्यादि ।
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[ये दे॒वाः] पश्चा॒थ्सद॑स्सवि॒तृने᳚त्राः [रख्षो॒हण॒स्,  
+[ये दे॒वाः] पश्चा॒थ्-सद॑स् सवि॒तृ-ने᳚त्राः [रख्षो॒-हण॒स्,  
 ते नᳶ॑ पान्तु॒,  
 ते नो॑ऽवन्तु॒,  
 तेभ्यो॑ नम॒स्,  
@@ -205,19 +207,19 @@ that sit in the south, led by Yama;
 </details>
 <details><summary>Keith</summary>
 
-that sit in the west, led by Savitr; 
+that sit in the west, led by Savitr;
 </details>
 <details><summary>मूलम्</summary>
 
-[ये दे॒वाः] पश्चा॒थ्सद॑स्सवि॒तृने᳚त्राः [रख्षो॒हण॒स्ते नᳶ॑ पान्तु॒ ते नो॑ऽवन्तु॒ तेभ्यो॑ नम॒स्तेभ्य॒स्स्वाहा᳚]  
+[ये दे॒वाः] पश्चा॒थ्सद॑स्सवि॒तृने᳚त्राः [रख्षो॒हण॒स्ते नᳶ॑ पान्तु॒ ते नो॑ऽवन्तु॒ तेभ्यो॑ नम॒स्तेभ्य॒स्स्वाहा᳚]
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
-तथा ये देवाः पश्चात्सदः सवितृनेत्राः रक्षोहण इत्यादि ।  
+तथा ये देवाः पश्चात्सदः सवितृनेत्राः रक्षोहण इत्यादि ।
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[ये दे॒वाः] उत्तर॒सदो॒ वरु॑णनेत्राः [रख्षो॒हण॒स्,  
+[ये दे॒वाः] उत्तर॒-सदो॒ वरु॑ण-नेत्राः [रख्षो॒-हण॒स्,  
 ते नᳶ॑ पान्तु॒,  
 ते नो॑ऽवन्तु॒,  
 तेभ्यो॑ नम॒स्,  
@@ -225,11 +227,11 @@ that sit in the west, led by Savitr;
 </details>
 <details><summary>Keith</summary>
 
-that sit in the north, led by Varuna; 
+that sit in the north, led by Varuna;
 </details>
 <details><summary>मूलम्</summary>
 
-[ये दे॒वाः] उत्तर॒सदो॒ वरु॑णनेत्राः [रख्षो॒हण॒स्ते नᳶ॑ पान्तु॒ ते नो॑ऽवन्तु॒ तेभ्यो॑  नम॒स्तेभ्य॒स्स्वाहा᳚ ]  
+[ये दे॒वाः] उत्तर॒सदो॒ वरु॑णनेत्राः [रख्षो॒हण॒स्ते नᳶ॑ पान्तु॒ ते नो॑ऽवन्तु॒ तेभ्यो॑  नम॒स्तेभ्य॒स्स्वाहा᳚ ]
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -237,7 +239,7 @@ that sit in the north, led by Varuna;
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[ये दे॒वाः] उपरि॒षदो॒ बृह॒स्पति॑नेत्राः रख्षो॒हण॒स्,  
+[ये दे॒वाः] उपरि॒-षदो॒ बृह॒स्-पति॑-नेत्राः रख्षो॒-हण॒स्,  
 ते नᳶ॑ पान्तु॒,  
 ते नो॑ऽवन्तु॒,  
 तेभ्यो॑ नम॒स्,  
@@ -253,10 +255,12 @@ that sit above, led by Brhaspati; that slay the Raksases; may they protect us, m
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
-ये देवा उपरिषदो बृहस्पतिनेत्राः ।  
+ये देवा उपरिषदो बृहस्पतिनेत्राः ।
 
-रक्षोहण इत्यादि । वनस्पत्यादित्वात् बृहस्पतिशब्दे पूर्वोत्तरयोः पदयोर्युगपत्प्रकृतिस्वरत्वम् ॥  
+रक्षोहण इत्यादि । वनस्पत्यादित्वात् बृहस्पतिशब्दे पूर्वोत्तरयोः पदयोर्युगपत्प्रकृतिस्वरत्वम् ॥
 </details>
+</details>
+</div>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8उदवेषेण सर्वान् आहवनीयाङ्गारान्  
@@ -304,6 +308,8 @@ here do I burn up the Raksases.
 
 9-13अपरं पञ्चगृहीतं गृहीत्वा पञ्च स्रुवाहुतीरभिजुहोति - अग्नये रक्षोघ्ने स्वाहेति ॥ यमादिष्वपि चतुर्ष्वनुषज्यते । 
 </details>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/07_chAturmAsyeShu_shunAsIryaparva/agnaye_raxoghne_5.md">
+<details open><summary><h5>अ॒ग्नये॑ रख्षो॒घ्ने 5 ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ॒ग्नये॑ रख्षो॒घ्ने स्वाहा॑   ।  
@@ -311,7 +317,7 @@ here do I burn up the Raksases.
 </details>
 <details><summary>Keith</summary>
 
-To Agni, slayer of Raksases, hail!  To Yama, 
+To Agni, slayer of Raksases, hail!  To Yama,
 </details>
 <details><summary>मूलम्</summary>
 
@@ -347,6 +353,8 @@ Savitr, Varuna, Brhaspati, the worshipful, the slayer of Raksases, hail!
 रक्षोघ्ने रक्षसां हन्त्रे । उदात्तनिवृत्तिस्वरेण चतुर्थ्या उदात्तत्वम् ।
 सवित्रे इति 'उदात्तयणः' इति विभक्त्य्-उदात्तत्वम् । बृहस्पतिरुक्तस्वरः ॥
 </details>
+</details>
+</div>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रष्टि+++(=त्र्यश्व)+++-वा॒ही रथो॒ दख्षि॑णा ।
