@@ -3,48 +3,8 @@ title = "8 The Rajasuya"
 
 +++
 
-
-## 22
-### a
-O Agni and Visnu, great is your greatness;  
-Rejoice ye in the secret names of the ghee;  
-Placing in every house seven treasures,  
-May your tongue move forth to the ghee.
-### b
-O Agni and Visnu, great is your dear abode;  
-Ye taste the ghee, rejoicing in its secrets;  
-In every home increasing lauds,  
-May your tongue move forth to the ghee.
-### c
-May the goddess Sarasvati  
-With strength, rich in mares,  
-Further us, she that aideth prayer.
-### d
-To us from the sky, from the great [1] mountain;  
-May Sarasvati, the worshipful, come to the sacrifice
-  
-May the goddess rejoicing in our supplication, rich in ghee, May she hearken gladly to our effectual speech.
-### e
-O Brhaspati, with the All-gods,  
-Do thou rejoice in our oblations;  
-Grant riches to the generous giver.
-### f
-Then to the father, with the All-gods, to the strong one, Let us pay honour with sacrifices, with reverence, with oblations; O Brhaspati, with good offspring, with heroes,  
-May we be lords of wealth.
-### g
-That various wealth bestow upon us,  
-O Brhaspati, that shall surpass the enemy,  
-That shall shine glorious, with insight among men,  
-That shall be resplendent in glory, O thou who art born of holy order [2].
 ### h
-O Mitra and Varuna,  
-Bedew our pasturage with ghee  
-With mead the regions, O ye wise ones.
 ### i
-Do ye unloose your arms for us to live;  
-Do ye bedew our pasturage with ghee;  
-Make us famous among the folk, O ye young ones;  
-Hearken, O Mitra and Varuna, to these my supplications.
 ### k
 Agni for you I honour in song,  
 The god first of the bright ones;  
