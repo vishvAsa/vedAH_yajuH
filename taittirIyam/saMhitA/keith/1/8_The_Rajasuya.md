@@ -4,14 +4,7 @@ title = "8 The Rajasuya"
 +++
 
 ### h
-O Mitra and Varuna,  
-Bedew our pasturage with ghee  
-With mead the regions, O ye wise ones.
 ### i
-Do ye unloose your arms for us to live;  
-Do ye bedew our pasturage with ghee;  
-Make us famous among the folk, O ye young ones;  
-Hearken, O Mitra and Varuna, to these my supplications.
 ### k
 Agni for you I honour in song,  
 The god first of the bright ones;  
