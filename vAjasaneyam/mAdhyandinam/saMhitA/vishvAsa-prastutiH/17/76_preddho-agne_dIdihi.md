@@ -2,4 +2,4 @@
 title = "७६ प्रेद्धोऽअग्ने दीदिहि"
 
 +++
-प्रेद्धो॑ऽअग्ने दीदिहि पु॒रो नोऽज॑स्रया सू॒र्म्या᳖ यविष्ठ। त्वाꣳ शश्व॑न्त॒ऽउप॑यन्ति॒ वाजाः॑ ॥७६ ॥
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/001/03_preddho_agne.md"  newLevelForH1="5" includeTitle="false"> </div>  

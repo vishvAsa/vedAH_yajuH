@@ -2,4 +2,4 @@
 title = "७० नक्तोषासा समनसा"
 
 +++
-नक्तो॒षासा॒ सम॑नसा॒ विरू॑पे धा॒पये॑ते॒ शिशु॒मेक॑ꣳ समी॒ची। द्यावा॒क्षामा॑ रु॒क्मोऽअ॒न्तर्विभा॑ति दे॒वाऽअ॒ग्निं॑ धा॑रयन् द्रविणो॒दाः ॥७० ॥
+<div class="js_include" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/12/02_naktoShAsA_samanasA.md"  newLevelForH1="5" includeTitle="false"> </div>  
