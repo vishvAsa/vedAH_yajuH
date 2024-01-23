@@ -303,56 +303,17 @@ Then may Indra, slayer of foes,
 Accord us protection for ever.
 ## 05
 ### a
-Along the eastern quarter do thou advance, wise one;  
-Be thou, O Agni, of Agni the harbinger here;  
-Illumine with thy radiance all the regions;  
-Confer strength on our bipeds and quadrupeds.
 ### b
-Mount ye, with Agni, to the vault,  
-Bearing him of the pan in your hands;  
-Having gone to the ridge of the sky, to the heaven,  
-Do ye eat, mingled with the gods.
 ### c
-From earth have I mounted to the atmosphere;  
-From the atmosphere have I mounted to the sky;  
-From the ridge of the vault of the sky  
-Have I attained the heaven, the light [1].
+
 ### d
-Going to the heaven, they look not away;  
-They mount the sky, the two worlds,  
-They who extended, wisely,  
-The sacrifice, streaming on every side.
 ### e
-O Agni, advance, first of worshippers,  
-Eye of gods and mortals;  
-Pressing on in unison with the Bhrgus,  
-Let the sacrificers go to heaven, to prosperity.
 ### f
-Night and the dawn, one-minded, but of various form,  
-United suckle one child;  
-The radiant one shineth between sky and earth;  
-The gods, granters of wealth, support Agni.
 ### g
-O Agni, of a thousand eyes [2], of a hundred heads,  
-A hundred are thy expirations, a thousand thine inspirations;  
-Thou art lord of wealth a thousandfold;  
-To thee as such let us pay homage for strength, hail!
 ### h
-Thou art the winged bird, sit on the earth; sit on the ridge of earth; with thy blaze fill the atmosphere, with thy light establish the sky, with thy brilliance make firm the quarters.
+
 ### i
-Receiving offering, fair of face, O Agni;  
-Sit down in front in thine own birthplace, in due order;  
-In this higher place,  
-O All-gods [3], do ye sit with the sacrificer.
 ### k
-Enkindled, O Agni, shine before us,
-  
-O most youthful, with unfailing beam;  
-Ever upon thee strength awaiteth.  
-I Let us pay homage to thee in thy highest birth, O Agni;  
-Let us pay homage with praises in thy lower abode;  
-The place of birth whence thou didst come, to that I offer;  
-In thee when kindled they offered the oblations.
 ### m
 That various lovingkindness given to all men,  
 Of Savitr the adorable, I choose,  
