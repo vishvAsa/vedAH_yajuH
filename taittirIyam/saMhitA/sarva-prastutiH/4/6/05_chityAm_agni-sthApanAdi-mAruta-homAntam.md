@@ -369,53 +369,30 @@ Thou art the winged bird, sit on the earth; sit on the ridge of earth;
 <details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
 
 भा॒सा ऽन्तरि॑ख्ष॒म् **आ पृ॑ण** ,
+तेज॑सा॒ दिश॒ **उद्दृꣳ॑ह** ।  
+ज्योति॑षा॒ दिव॒म् **उत्त॑भान**
 </details>
 <details><summary>Keith</summary>
 
-with thy blaze fill the atmosphere, 
+with thy blaze fill the atmosphere,  
+with thy light establish the sky,  
+with thy brilliance make firm the quarters.
 </details>
 <details><summary>मूलम्</summary>
 
-भा॒साऽन्तरि॑ख्ष॒मा पृ॑ण ,
+भा॒साऽन्तरि॑ख्ष॒मा पृ॑ण ,  
+तेज॑सा॒ दिश॒ उद्दृꣳ॑ह ।  
+ज्योति॑षा॒ दिव॒मुत्त॑भान
 </details>
 <details><summary>सायण-टीका</summary>
 
 अथ द्विदीयामाह— मासाऽन्तरिक्षमिति।  
 भासा स्वकीयेन प्रकाशेनान्तरिक्षमापृण सर्वत।  
-षूरय।  
-</details>
-<details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
-
-तेज॑सा॒ दिश॒ **उद्दृꣳ॑ह** ।  
-</details>
-<details><summary>Keith</summary>
-
-with thy light establish the sky, 
-</details>
-<details><summary>मूलम्</summary>
-
-तेज॑सा॒ दिश॒ उद्दृꣳ॑ह ।  
-</details>
-<details><summary>सायण-टीका</summary>
-
+पूरय।  
 ज्योतिषा स्वकीयेन सामर्थ्येन दिवं द्युलोकमुत्तभानोर्ध्वं स्तम्भितं कुरु।  
-</details>
-<details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
-
-ज्योति॑षा॒ दिव॒म् **उत्त॑भान**
-</details>
-<details><summary>Keith</summary>
-
-with thy brilliance make firm the quarters.
-</details>
-<details><summary>मूलम्</summary>
-
-ज्योति॑षा॒ दिव॒मुत्त॑भान
-</details>
-<details><summary>सायण-टीका</summary>
-
 तथा तेजसा स्वकीयेन सामर्थ्थेन दिशः प्राच्यादिका उद्दृंहोत्कर्षेण दृढी कुरु।  
 </details>
+
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/6/05_chityAm_agni-sthApanAdi-mAruta-homAntam/07_AjuhvAnas_supratIkapH.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 

@@ -3,39 +3,458 @@ title = "+०३"
 unicode_script = "devanagari"
 
 +++
-  
-चित्ति॒स्स्रुक् । चि॒त्तमाज्य᳚म् । वाग्वेदिः॑ । आधी॑तं ब॒र्हिः । केतो॑ अ॒ग्निः । विज्ञा॑तम॒ग्निः । वाक्प॑ति॒र्होता᳚ । मन॑ उपव॒क्ता । प्रा॒णो ह॒विः । सामा᳚ध्व॒र्युः । वाच॑स्पते विधे नामन्न् । वि॒धेम॑ ते॒ नाम॑ । वि॒धेस्त्वम॒स्माक॒न्नाम॑ । वा॒चस्पति॒स्सोमं॑ पिबतु । आऽस्मासु॑ नृ॒म्णन्धा॒त्स्वाहा᳚ ॥ (1)  
-पृ॒थि॒वी होता᳚ । द्यौर॑ध्व॒र्युः । रु॒द्रो᳚ऽग्नीत् । बृह॒स्पति॑रुपव॒क्ता । वाच॑स्पते वा॒चो वी॒र्ये॑ण । संभृ॑ततमे॒नाय॑क्ष्यसे । यज॑मानाय॒ वार्य᳚म् । आसुव॒स्कर॑स्मै । वा॒चस्पति॒स्सोमं॑ पिबतु । ज॒जन॒दिन्द्र॑मिन्द्रि॒याय॒ स्वाहा᳚ ॥ (2) ।  
-अ॒ग्निर्होता᳚ । अ॒श्विना᳚ऽध्व॒र्यू । त्वष्टा॒ऽग्नीत् । मि॒त्र उ॑पव॒क्ता । सोम॒स्सोम॑स्य पुरो॒गाः । शु॒क्रश्शु॒क्रस्य॑ पुरो॒गाः । श्रा॒तास्त॑ इन्द्र॒ सोमाः᳚ । वाता॑पेर्हवन॒श्रुत॒स्स्वाहा᳚ । (3) ।  
-सूर्य॑न्ते॒ चक्षुः॑ । वातं॑ प्रा॒णः । द्यां पृ॒ष्ठम् । अ॒न्तरि॑ख्षमा॒त्मा । अङ्गै᳚र्य॒ज्ञम् । पृ॒थि॒वीꣳ शरी॑रैः । वाच॑स्प॒तेऽच्छि॑द्रया वा॒चा । अच्छि॑द्रया जु॒ह्वा᳚ । दि॒वि दे॑वा॒वृध॒ꣳ॒ होत्रा॒ मेर॑यस्व॒ स्वाहा᳚ । (4)  
-म॒हाह॑वि॒र्होता᳚ । स॒त्यह॑विरध्व॒र्युः । अच्यु॑तपाजा अ॒ग्नीत् । अच्यु॑तमना उपव॒क्ता । अ॒ना॒धृ॒ष्यश्चा᳚प्रतिधृ॒ष्यश्च॑ य॒ज्ञस्या॑भिग॒रौ । अ॒यास्य॑ उद्गा॒ता । वाच॑स्पते हृद्विधे नामन्न् । वि॒धेम॑ ते॒ नाम॑ । वि॒धेस्त्वम॒स्माक॒न्नाम॑ । वा॒चस्पति॒स्सोम॑मपात् । मा दैव्य॒स्तन्तु॒श्छेदि॒ मा म॑नु॒ष्यः॑ । नमो॑ दि॒वे । नमः॑ पृथि॒व्यै स्वाहा᳚ । (5) ।  
-वाग्घोता᳚ । दी॒ख्षा पत्नी᳚ । वातो᳚ऽध्व॒र्युः । आपो॑ऽभिग॒रः । मनो॑ ह॒विः । तप॑सि जुहोमि । भूर्भुव॒स्सुवः॑ । ब्रह्म॑ स्वयं॒भु । ब्रह्म॑णे स्वयं॒भुवे॒ स्वाहा᳚ । (6)  
-ब्रा॒ह्म॒ण एक॑होता । स य॒ज्ञः । स मे॑ ददातु प्र॒जां प॒शून्पुष्टि॒य्ँयशः॑ । य॒ज्ञश्च॑ मे भूयात् । अ॒ग्निर्द्विहो॑ता । स भ॒र्ता । स मे॑ ददातु प्र॒जां प॒शून्पुष्टि॒य्ँयशः॑ । भ॒र्ता च॑ मे भूयात् । पृ॒थि॒वी त्रिहो॑ता । स प्र॑ति॒ष्ठा । (7) ।  
-स मे॑ ददातु प्र॒जां प॒शून्पुष्टि॒य्ँयशः॑ । प्र॒ति॒ष्ठा च॑ मे भूयात् । अ॒न्तरि॑क्ष॒ञ्चतु॑र्होता । स वि॒ष्ठाः । स मे॑ ददातु प्र॒जां प॒शून्पुष्टि॒य्ँयशः॑ । वि॒ष्ठाश्च॑ मे भूयात् । वा॒युः पञ्च॑होता । स प्रा॒णः । स मे॑ ददातु प्र॒जां प॒शून्पुष्टि॒य्ँयशः॑ । प्रा॒णश्च॑ मे भूयात् । (8)  
-च॒न्द्रमा॒ष्षड्ढो॑ता । स ऋ॒तून्क॑ल्पयाति । स मे॑ ददातु प्र॒जां प॒शून्पुष्टि॒य्ँयशः॑ । ऋ॒तव॑श्च मे कल्पन्ताम् । अन्नꣳ॑ स॒प्तहो॑ता । स प्रा॒णस्य॑ प्रा॒णः । स मे॑ ददातु प्र॒जां प॒शून्पुष्टि॒य्ँयशः॑ । प्रा॒णस्य॑ च मे प्रा॒णो भू॑यात् । द्यौर॒ष्टहो॑ता । सो॑ऽनाधृ॒ष्यः । (9) ।  
-स मे॑ ददातु प्र॒जां प॒शून्पुष्टि॒य्ँयशः॑ । अ॒ना॒धृ॒ष्यश्च॑ भूयासम् । आ॒दि॒त्यो नव॑होता । स ते॑ज॒स्वी । स मे॑ ददातु प्र॒जां प॒शून्पुष्टि॒य्ँयशः॑ । ते॒ज॒स्वी च॑ भूयासम् । प्र॒जाप॑ति॒र्दश॑होता । स इ॒दꣳ सर्वम्᳚ । स मे॑ ददातु प्र॒जां प॒शून्पुष्टि॒य्ँयशः॑ । सर्व॑ञ्च मे भूयात् । (10) ।  
-अ॒ग्निर्यजु॑र्भिः । स॒वि॒ता स्तोमैः᳚ । इन्द्र॑ उक्थाम॒दैः । मि॒त्रावरु॑णावा॒शिषा᳚ । अङ्गि॑रसो॒ धिष्णि॑यैर॒ग्निभिः॑ । म॒रुत॑स्सदोहविर्धा॒नाभ्या᳚म् । आपः॒ प्रोक्ष॑णीभिः । ओष॑धयो ब॒र्हि॒षा᳚ । अदि॑ति॒र्वेद्या᳚ । सोमो॑ दी॒ख्षया᳚ । (11)  
-त्वष्टे॒ध्मेन॑ । विष्णु॑र्य॒ज्ञेन॑ । वस॑व॒ आज्ये॑न । आ॒दि॒त्या दख्षि॑णाभिः । विश्वे॑ दे॒वा ऊ॒र्जा । पू॒षा स्व॑गाका॒रेण॑ । बृह॒स्पतिः॑ पुरो॒धया᳚ । प्र॒जाप॑तिरुद्गी॒थेन॑ । अ॒न्तरि॑क्षं प॒वित्रे॑ण । वा॒युः पात्रैः᳚ । अ॒हꣵ श्र॒द्धया᳚ । (12)  
-सेनेन्द्र॑स्य । धेना॒ बृह॒स्पतेः᳚ । प॒त्थ्या॑ पू॒ष्णः । वाग्वा॒योः । दी॒ख्षा सोम॑स्य । पृ॒थि॒व्य॑ग्नेः । वसू॑नाङ्गाय॒त्री । रु॒द्राणा᳚न्त्रि॒ष्टुक् । आ॒दि॒त्याना॒ञ्जग॑ती । विष्णो॑रनु॒ष्टुक् । (13) ।  
-वरु॑णस्य वि॒राट् । य॒ज्ञस्य॑ प॒ङ्क्तिः । प्र॒जाप॑ते॒रनु॑मतिः । मि॒त्रस्य॑ श्र॒द्धा । स॒वि॒तुः प्रसू॑तिः । सूर्य॑स्य॒ मरी॑चिः । च॒न्द्रम॑सो रोहि॒णी । ऋषी॑णामरुन्ध॒ती । प॒र्जन्य॑स्य वि॒द्युत् । चत॑स्रो॒ दिशः॑ । चत॑स्रोऽवान्तरदि॒शाः । अह॑श्च॒ रात्रि॑श्च । कृ॒षिश्च॒ वृष्टि॑श्च । त्विषि॒श्चाप॑चितिश्च । आप॒श्चौष॑धयश्च । ऊर्क्च॑ सू॒नृता॑ च दे॒वानां॒ पत्न॑यः । (14) ।  
-दे॒वस्य॑ त्वा सवि॒तुः प्र॑स॒वे । अ॒श्विनो᳚र्बा॒हुभ्या᳚म् । पू॒ष्णो हस्ता᳚भ्यां॒ प्रति॑गृह्णामि । राजा᳚ त्वा॒ वरु॑णो नयतु देवि दख्षिणे॒ऽग्नये॒ हिर॑ण्यम् । तेना॑मृत॒त्वम॑श्याम् । वयो॑ दा॒त्रे । मयो॒ मह्य॑मस्तु प्रतिग्रही॒त्रे । क इ॒दङ्कस्मा॑ अदात् । कामः॒ कामा॑य । कामो॑ दा॒ता । (15)  
-कामः॑ प्रतिग्रही॒ता । कामꣳ॑ समु॒द्रमावि॑श । कामे॑न त्वा॒ प्रति॑गृह्णामि । कामै॒तत्ते᳚ । ए॒षा ते॑ काम॒ दख्षि॑णा । उ॒त्ता॒नस्त्वा᳚ङ्गीर॒सः प्रति॑गृह्णातु । सोमा॑य॒ वासः॑ । रु॒द्राय॒ गाम् । वरु॑णा॒याश्व᳚म् । प्र॒जाप॑तये॒ पुरु॑षम् । (16) ।  
-मन॑वे॒ तल्प᳚म् । त्वष्ट्रे॒ऽजाम् । पू॒ष्णेऽवि᳚म् । निर्ऋ॑त्या अश्वतरगर्द॒भौ । हि॒मव॑तो ह॒स्तिन᳚म् । ग॒न्ध॒र्वा॒फ्स॒राभ्य॑स्स्रगलङ्कर॒णे । विश्वे᳚भ्यो दे॒वेभ्यो॑ धा॒न्यम् । वा॒चेऽन्न᳚म् । ब्रह्म॑ण ओद॒नम् । स॒मु॒द्रायापः॑ । (17)  
-उ॒त्ता॒नाया᳚ङ्गीर॒सायानः॑ । वै॒श्वा॒न॒राय॒ रथ᳚म् । वै॒श्वा॒न॒रः प्र॒त्नथा॒ नाक॒मारु॑हत् । दि॒वः पृ॒ष्ठम्भन्द॑मानस्सु॒मन्म॑भिः । स पू᳚र्व॒वज्ज॒नय॑ज्ज॒न्तवे॒ धन᳚म् । स॒मा॒नम॑ज्मा॒ परि॑याति॒ जागृ॑विः । राजा᳚ त्वा॒ वरु॑णो नयतु देविदख्षिणे वैश्वान॒राय॒ रथ᳚म् । तेना॑मृत॒त्वम॑श्याम् । वयो॑ दा॒त्रे । मयो॒ मह्य॑मस्तु प्रतिग्रही॒त्रे । (18)  
-क इ॒दङ्कस्मा॑ अदात् । कामः॒ कामा॑य । कामो॑ दा॒ता । कामः॑ प्रतिग्रही॒ता । कामꣳ॑ समु॒द्रमा वि॑श । कामे॑न त्वा॒ प्रति॑गृह्णामि । कामै॒तत्ते᳚ । ए॒षा ते॑ काम॒ दख्षि॑णा । उ॒त्ता॒नस्त्वा᳚ङ्गीर॒सः प्रति॑गृह्णातु । (19)  
-सु॒वर्ण॑ङ्घ॒र्मं परि॑वेद वे॒नम् । इन्द्र॑स्या॒त्मान॑न्दश॒धा चर॑न्तम् । अ॒न्तस्स॑मु॒द्रे मन॑सा॒ चर॑न्तम् । ब्रह्मान्व॑विन्द॒द्दश॑होतार॒मर्णे᳚ । अ॒न्तः प्रवि॑ष्टश्शा॒स्ता जना॑नाम् । एक॒स्सन्ब॑हु॒धा वि॑चारः । श॒तꣳ शु॒क्राणि॒ यत्रैकं॒ भव॑न्ति । सर्वे॒ वेदा॒ यत्रैकं॒ भव॑न्ति । सर्वे॒ होता॑रो॒ यत्रैकं॒ भव॑न्ति । स॒मान॑सीन आ॒त्माH जना॑नाम् । (20) ।  
-अ॒न्तः प्रवि॑ष्टश्शा॒स्ता जना॑ना॒ꣳ॒ सर्वा᳚त्मा । सर्वाः᳚ प्र॒जा यत्रैकं॒ भव॑न्ति । चतु॑र्होतारो॒ यत्र॑ सं॒पद॒ङ्गच्छ॑न्ति दे॒वैः । स॒मान॑सीन आ॒त्मा जना॑नाम् । ब्रह्मेन्द्र॑म॒ग्निञ्जग॑तः प्रति॒ष्ठाम् । दि॒व आ॒त्मानꣳ॑ सवि॒तारं॒ बृह॒स्पति᳚म् । चतु॑र्होतारं प्र॒दिशोऽनु॑ कॢ॒प्तम् । वा॒चो वी॒र्य॑न्तप॒साऽन्व॑विन्दत् । अ॒न्तः प्रवि॑ष्टङ्क॒र्तार॑मे॒तम् । त्वष्टा॑रꣳ रू॒पाणि॑ विकु॒र्वन्तं॑ विप॒श्चिम् । (21)  
-अ॒मृत॑स्य प्रा॒णय्ँय॒ज्ञमे॒तम् । चतु॑र्होतृणामा॒त्मान॑ङ्क॒वयो॒ निचि॑क्युः । अ॒न्तः प्रवि॑ष्टङ्क॒र्तार॑मे॒तम् । दे॒वानां॒ बन्धु॒ निहि॑त॒ङ्गुहा॑सु । अ॒मृते॑न कॢ॒प्तय्ँय॒ज्ञमे॒तम् । चतु॑र्होतृणामा॒त्मान॑ङ्क॒वयो॒ निचि॑क्युः । श॒तन्नि॒युतः॒ परि॑वेद॒ विश्वा॑ वि॒श्ववा॑रः । विश्व॑मि॒दव्वृं॑णाति । इन्द्र॑स्या॒त्मा निहि॑तः॒ पञ्च॑होता । अ॒मृत॑न्दे॒वाना॒मायुः॑ प्र॒जाना᳚म् । (22) ।  
-इन्द्र॒ꣳ॒ राजा॑नꣳ सवि॒तार॑मे॒तम् । वा॒योरा॒त्मान॑ङ्क॒वयो॒ निचि॑क्युः । र॒श्मिꣳ र॑श्मी॒नां मध्ये॒ तप॑न्तम् । ऋ॒तस्य॑ प॒दे क॒वयो॒ निपा᳚न्ति । य आ᳚ण्डको॒शे भुव॑नं बि॒भर्ति॑ । अनि॑र्भिण्ण॒स्सन्नथ॑ लो॒कान् वि॒चष्टे᳚ । यस्या᳚ण्डको॒शꣳ शुष्म॑मा॒हुः प्रा॒णमुल्ब᳚म् । तेन॑ कॢ॒प्तो॑ऽमृते॑ना॒हम॑स्मि । सु॒वर्ण॒ङ्कोश॒ꣳ॒ रज॑सा॒ परी॑वृतम् । दे॒वाना᳚व्ँवसु॒धानी᳚व्ँ वि॒राज᳚म् । (23) ।  
-अ॒मृत॑स्य पू॒र्णान्तामु॑ क॒लाव्ँ विच॑ख्षते । पाद॒ꣳ॒ षड्ढो॑तु॒र्न किला॑विविथ्से । येन॒र्तवः॑ पञ्च॒धोत कॢ॒प्ताः । उ॒त वा॑ ष॒ड्धा मन॒सोत कॢ॒प्ताः । तꣳ षड्ढो॑तारमृ॒तुभिः॒ कल्प॑मानम् । ऋ॒तस्य॑ प॒दे क॒वयो॒ निपा᳚न्ति । अ॒न्तः प्रवि॑ष्टङ्क॒र्तार॑मे॒तम् । अ॒न्तश्च॒न्द्रम॑सि॒ मन॑सा॒ चर॑न्तम् । स॒हैव सन्त॒न्न विजा॑नन्ति दे॒वाः । इन्द्र॑स्या॒त्मानꣳ॑ शत॒धा चर॑न्तम् । (24) ।  
-इन्द्रो॒ राजा॒ जग॑तो॒ य ईशे᳚ । स॒प्तहो॑ता सप्त॒धा विकॢ॑प्तः । परे॑ण॒ तन्तुं॑ परिषि॒च्यमा॑नम् । अ॒न्तरा॑दि॒त्ये मन॑सा॒ चर॑न्तम् । दे॒वाना॒ꣳ॒ हृद॑यं॒ ब्रह्मान्व॑विन्दत् । ब्रह्मै॒तद्ब्रह्म॑ण॒ उज्ज॑भार । अ॒र्कꣵ श्चोत॑न्तꣳ सरि॒रस्य॒ मध्ये᳚ । आ यस्मि᳚न्थ्स॒प्त पेर॑वः । मेह॑न्ति बहु॒लाꣳ श्रिय᳚म् । ब॒ह्व॒श्वामि॑न्द्र॒ गोम॑तीम् । (25) ।  
-अच्यु॑तां बहु॒लाꣳ श्रिय᳚म् । स हरि॑र्वसु॒वित्त॑मः । पे॒रुरिन्द्रा॑य पिन्वते । ब॒ह्व॒श्वामि॑न्द्र॒ गोम॑तीम् । अच्यु॑तां बहु॒लाꣳ श्रिय᳚म् । मह्य॒मिन्द्रो॒ निय॑च्छतु । श॒तꣳ श॒ता अ॑स्य यु॒क्ता हरी॑णाम् । अ॒र्वाङा या॑तु॒ वसु॑भी र॒श्मिरिन्द्रः॑ । प्रमꣳह॑माणो बहु॒लाꣳ श्रिय᳚म् । र॒श्मिरिन्द्र॑स्सवि॒ता मे॒ निय॑च्छतु । (26) ।  
-घृ॒तन्तेजो॒ मधु॑मदिन्द्रि॒यम् । मय्य॒यम॒ग्निर्द॑धातु । हरिः॑ पत॒ङ्गः प॑ट॒री सु॑प॒र्णः । दि॒वि॒ख्षयो॒ नभ॑सा॒ य एति॑ । स न॒ इन्द्रः॑ कामव॒रन्द॑दातु । पञ्चा॑रञ्च॒क्रं परि॑वर्तते पृ॒थु । हिर॑ण्यज्योतिस्सरि॒रस्य॒ मद्ध्ये᳚ । अज॑स्र॒ञ्ज्योति॒र्नभ॑सा॒ सर्प॑देति । स न॒ इन्द्रः॑ कामव॒रन्द॑दातु । स॒प्त यु॑ञ्जन्ति॒ रथ॒मेक॑चक्रम् । (27) ।  
-एको॒ अश्वो॑ वहति सप्तना॒मा । त्रि॒णाभि॑ च॒क्रम॒जर॒मन॑र्वम् । येने॒मा विश्वा॒ भुव॑नानि तस्थुः । भ॒द्रं पश्य॑न्त॒ उप॑सेदु॒रग्रे᳚ । तपो॑ दी॒ख्षामृष॑यस्सुव॒र्विदः॑ । ततः॑ क्ष॒त्रं बल॒मोज॑श्च जा॒तम् । तद॒स्मै दे॒वा अ॒भि सन्न॑मन्तु । श्वे॒तꣳ र॒श्मिं बो॑भु॒ज्यमा॑नम् । अ॒पान्ने॒तारं॒ भुव॑नस्य गो॒पाम् । इन्द्र॒न्निचि॑क्युः पर॒मे व्यो॑मन्न् । (28)  
-रोहि॑णीः पिङ्ग॒ला एक॑रूपाः । ख्षर॑न्तीः पिङ्ग॒ला एक॑रूपाः । श॒तꣳ स॒हस्रा॑णि प्र॒युता॑नि॒ नाव्या॑नाम् । अ॒यय्ँयश्श्वे॒तो र॒श्मिः । परि॒ सर्व॑मि॒दञ्जग॑त् । प्र॒जां प॒शून्धना॑नि । अ॒स्माक॑न्ददातु । श्वे॒तो र॒श्मिः परि॒ सर्वं॑ बभूव । सुव॒न्मह्यं॑ प॒शून् वि॒श्वरू॑पान् । प॒त॒ङ्गम॒क्तमसु॑रस्य मा॒यया᳚ । (29) ।  
-हृ॒दा प॑श्यन्ति॒ मन॑सा मनी॒षिणः॑ । स॒मु॒द्रे अ॒न्तः क॒वयो॒ विच॑ख्षते । मरी॑चीनां प॒दमि॑च्छन्ति वे॒धसः॑ । प॒त॒ङ्गो वाचं॒ मन॑सा बिभर्ति । ताङ्ग॑न्ध॒र्वो॑ऽवद॒द्गर्भे॑ अ॒न्तः । तान्द्योत॑मानाꣳ स्व॒र्यं॑ मनी॒षाम् । ऋ॒तस्य॑ प॒दे क॒वयो॒ निपा᳚न्ति । ये ग्रा॒म्याः प॒शवो॑ वि॒श्वरू॑पाः । विरू॑पा॒स्सन्तो॑ बहु॒धैक॑रूपाः । अ॒ग्निस्ताꣳ अग्रे॒ प्रमु॑मोक्तु दे॒वः । (30)  
-प्र॒जाप॑तिः प्र॒जया॑ सव्ँ विदा॒नः । वी॒तꣵ स्तु॑केस्तुके । यु॒वम॒स्मासु॒ निय॑च्छतम् । प्रप्र॑ य॒ज्ञप॑तिन्तिर । ये ग्रा॒म्याः प॒शवो॑ वि॒श्वरू॑पाः । विरू॑पा॒स्सन्तो॑ बहु॒धैक॑रूपाः । तेषाꣳ॑ सप्ता॒नामि॒ह रन्ति॑रस्तु । रा॒यस्पोषा॑य सुप्रजा॒स्त्वाय॑ सु॒वीर्या॑य । य आ॑र॒ण्याः प॒शवो॑ वि॒श्वरू॑पाः । विरू॑पा॒स्सन्तो॑ बहु॒धैक॑रूपाः । वा॒युस्ताꣳ अग्रे॒ प्रमु॑मोक्तु दे॒वः । प्र॒जाप॑तिः प्र॒जया॑ सव्ँ विदा॒नः । इडा॑यै सृ॒प्तङ्घृ॒तव॑च्चराच॒रम् । दे॒वा अन्व॑विन्द॒न्गुहा॑ हि॒तम् । य आ॑र॒ण्याः प॒शवो॑ वि॒श्वरू॑पाः । विरू॑पा॒स्सन्तो॑ बहु॒धैक॑रूपाः । तेषाꣳ॑ सप्ता॒नामि॒ह रन्ति॑रस्तु । रा॒यस्पोषा॑य सुप्रजा॒स्त्वाय॑ सु॒वीर्या॑य ॥ (31)  
 
+Source: [भास्करः](https://archive.org/details/taittiriya/taittiriya_aranyaka_bhaskara_01/page/n259/mode/1up?view=theater)
+
+## ०१ 
+चित्ति॒स्स्रुक् ।  
+चि॒त्तमाज्य᳚म् ।  
+वाग्वेदिः॑ ।  
+आधी॑तं ब॒र्हिः ।  
+केतो॑ अ॒ग्निः ।  
+विज्ञा॑तम॒ग्निः ।  
+वाक्प॑ति॒र्होता᳚ ।  
+मन॑ उपव॒क्ता ।  
+प्रा॒णो ह॒विः ।  
+सामा᳚ध्व॒र्युः ।  
+वाच॑स्पते विधे नामन्न् ।  
+वि॒धेम॑ ते॒ नाम॑ ।  
+वि॒धेस्त्वम॒स्माक॒न्नाम॑ ।  
+वा॒चस्पति॒स्सोमं॑ पिबतु ।  
+आऽस्मासु॑ नृ॒म्णन्धा॒त्स्वाहा᳚ ॥ (1)  
+
+## ०२ 
+
+पृ॒थि॒वी होता᳚ ।  
+द्यौर॑ध्व॒र्युः ।  
+रु॒द्रो᳚ऽग्नीत् ।  
+बृह॒स्पति॑रुपव॒क्ता ।  
+वाच॑स्पते वा॒चो वी॒र्ये॑ण ।  
+संभृ॑ततमे॒नाय॑क्ष्यसे ।  
+यज॑मानाय॒ वार्य᳚म् ।  
+आसुव॒स्कर॑स्मै ।  
+वा॒चस्पति॒स्सोमं॑ पिबतु ।  
+ज॒जन॒दिन्द्र॑मिन्द्रि॒याय॒ स्वाहा᳚ ॥ (2) 
+
+## ०३ 
+
+अ॒ग्निर्होता᳚ ।  
+अ॒श्विना᳚ऽध्व॒र्यू ।  
+त्वष्टा॒ऽग्नीत् ।  
+मि॒त्र उ॑पव॒क्ता ।  
+सोम॒स्सोम॑स्य पुरो॒गाः ।  
+शु॒क्रश्शु॒क्रस्य॑ पुरो॒गाः ।  
+श्रा॒तास्त॑ इन्द्र॒ सोमाः᳚ ।  
+वाता॑पेर्हवन॒श्रुत॒स्स्वाहा᳚ ।  
+(3) 
+
+## ०४ 
+
+सूर्य॑न्ते॒ चक्षुः॑ ।  
+वातं॑ प्रा॒णः ।  
+द्यां पृ॒ष्ठम् ।  
+अ॒न्तरि॑ख्षमा॒त्मा ।  
+अङ्गै᳚र्य॒ज्ञम् ।  
+पृ॒थि॒वीꣳ शरी॑रैः ।  
+वाच॑स्प॒तेऽच्छि॑द्रया वा॒चा ।  
+अच्छि॑द्रया जु॒ह्वा᳚ ।  
+दि॒वि दे॑वा॒वृध॒ꣳ॒ होत्रा॒ मेर॑यस्व॒ स्वाहा᳚ ।  
+(4)  
+
+## ०५ 
+
+म॒हाह॑वि॒र्होता᳚ ।  
+स॒त्यह॑विरध्व॒र्युः ।  
+अच्यु॑तपाजा अ॒ग्नीत् ।  
+अच्यु॑तमना उपव॒क्ता ।  
+अ॒ना॒धृ॒ष्यश्चा᳚प्रतिधृ॒ष्यश्च॑ य॒ज्ञस्या॑भिग॒रौ ।  
+अ॒यास्य॑ उद्गा॒ता ।  
+वाच॑स्पते हृद्विधे नामन्न् ।  
+वि॒धेम॑ ते॒ नाम॑ ।  
+वि॒धेस्त्वम॒स्माक॒न्नाम॑ ।  
+वा॒चस्पति॒स्सोम॑मपात् ।  
+मा दैव्य॒स्तन्तु॒श्छेदि॒ मा म॑नु॒ष्यः॑ ।  
+नमो॑ दि॒वे ।  
+नमः॑ पृथि॒व्यै स्वाहा᳚ ।  
+(5) 
+
+## ०६ 
+
+वाग्घोता᳚ ।  
+दी॒ख्षा पत्नी᳚ ।  
+वातो᳚ऽध्व॒र्युः ।  
+आपो॑ऽभिग॒रः ।  
+मनो॑ ह॒विः ।  
+तप॑सि जुहोमि ।  
+भूर्भुव॒स्सुवः॑ ।  
+ब्रह्म॑ स्वयं॒भु ।  
+ब्रह्म॑णे स्वयं॒भुवे॒ स्वाहा᳚ ।  
+(6)  
+
+## ०७ 
+
+ब्रा॒ह्म॒ण एक॑होता ।  
+स य॒ज्ञः ।  
+स मे॑ ददातु प्र॒जां प॒शून्पुष्टि॒य्ँयशः॑ ।  
+य॒ज्ञश्च॑ मे भूयात् ।  
+अ॒ग्निर्द्विहो॑ता ।  
+स भ॒र्ता ।  
+स मे॑ ददातु प्र॒जां प॒शून्पुष्टि॒य्ँयशः॑ ।  
+भ॒र्ता च॑ मे भूयात् ।  
+पृ॒थि॒वी त्रिहो॑ता ।  
+स प्र॑ति॒ष्ठा ।  
+(7) 
+
+## ०८ 
+
+स मे॑ ददातु प्र॒जां प॒शून्पुष्टि॒य्ँयशः॑ ।  
+प्र॒ति॒ष्ठा च॑ मे भूयात् ।  
+अ॒न्तरि॑क्ष॒ञ्चतु॑र्होता ।  
+स वि॒ष्ठाः ।  
+स मे॑ ददातु प्र॒जां प॒शून्पुष्टि॒य्ँयशः॑ ।  
+वि॒ष्ठाश्च॑ मे भूयात् ।  
+वा॒युः पञ्च॑होता ।  
+स प्रा॒णः ।  
+स मे॑ ददातु प्र॒जां प॒शून्पुष्टि॒य्ँयशः॑ ।  
+प्रा॒णश्च॑ मे भूयात् ।  
+(8)  
+
+## ०९ 
+
+च॒न्द्रमा॒ष्षड्ढो॑ता ।  
+स ऋ॒तून्क॑ल्पयाति ।  
+स मे॑ ददातु प्र॒जां प॒शून्पुष्टि॒य्ँयशः॑ ।  
+ऋ॒तव॑श्च मे कल्पन्ताम् ।  
+अन्नꣳ॑ स॒प्तहो॑ता ।  
+स प्रा॒णस्य॑ प्रा॒णः ।  
+स मे॑ ददातु प्र॒जां प॒शून्पुष्टि॒य्ँयशः॑ ।  
+प्रा॒णस्य॑ च मे प्रा॒णो भू॑यात् ।  
+द्यौर॒ष्टहो॑ता ।  
+सो॑ऽनाधृ॒ष्यः ।  
+(9) 
+
+## १० 
+
+स मे॑ ददातु प्र॒जां प॒शून्पुष्टि॒य्ँयशः॑ ।  
+अ॒ना॒धृ॒ष्यश्च॑ भूयासम् ।  
+आ॒दि॒त्यो नव॑होता ।  
+स ते॑ज॒स्वी ।  
+स मे॑ ददातु प्र॒जां प॒शून्पुष्टि॒य्ँयशः॑ ।  
+ते॒ज॒स्वी च॑ भूयासम् ।  
+प्र॒जाप॑ति॒र्दश॑होता ।  
+स इ॒दꣳ सर्वम्᳚ ।  
+स मे॑ ददातु प्र॒जां प॒शून्पुष्टि॒य्ँयशः॑ ।  
+सर्व॑ञ्च मे भूयात् ।  
+(10) 
+
+## ११ 
+
+अ॒ग्निर्यजु॑र्भिः ।  
+स॒वि॒ता स्तोमैः᳚ ।  
+इन्द्र॑ उक्थाम॒दैः ।  
+मि॒त्रावरु॑णावा॒शिषा᳚ ।  
+अङ्गि॑रसो॒ धिष्णि॑यैर॒ग्निभिः॑ ।  
+म॒रुत॑स्सदोहविर्धा॒नाभ्या᳚म् ।  
+आपः॒ प्रोक्ष॑णीभिः ।  
+ओष॑धयो ब॒र्हि॒षा᳚ ।  
+अदि॑ति॒र्वेद्या᳚ ।  
+सोमो॑ दी॒ख्षया᳚ ।  
+(11)  
+
+## १२ 
+
+त्वष्टे॒ध्मेन॑ ।  
+विष्णु॑र्य॒ज्ञेन॑ ।  
+वस॑व॒ आज्ये॑न ।  
+आ॒दि॒त्या दख्षि॑णाभिः ।  
+विश्वे॑ दे॒वा ऊ॒र्जा ।  
+पू॒षा स्व॑गाका॒रेण॑ ।  
+बृह॒स्पतिः॑ पुरो॒धया᳚ ।  
+प्र॒जाप॑तिरुद्गी॒थेन॑ ।  
+अ॒न्तरि॑क्षं प॒वित्रे॑ण ।  
+वा॒युः पात्रैः᳚ ।  
+अ॒हꣵ श्र॒द्धया᳚ ।  
+(12)  
+
+## १३ 
+
+सेनेन्द्र॑स्य ।  
+धेना॒ बृह॒स्पतेः᳚ ।  
+प॒त्थ्या॑ पू॒ष्णः ।  
+वाग्वा॒योः ।  
+दी॒ख्षा सोम॑स्य ।  
+पृ॒थि॒व्य॑ग्नेः ।  
+वसू॑नाङ्गाय॒त्री ।  
+रु॒द्राणा᳚न्त्रि॒ष्टुक् ।  
+आ॒दि॒त्याना॒ञ्जग॑ती ।  
+विष्णो॑रनु॒ष्टुक् ।  
+(13) 
+
+## १४ 
+
+वरु॑णस्य वि॒राट् ।  
+य॒ज्ञस्य॑ प॒ङ्क्तिः ।  
+प्र॒जाप॑ते॒रनु॑मतिः ।  
+मि॒त्रस्य॑ श्र॒द्धा ।  
+स॒वि॒तुः प्रसू॑तिः ।  
+सूर्य॑स्य॒ मरी॑चिः ।  
+च॒न्द्रम॑सो रोहि॒णी ।  
+ऋषी॑णामरुन्ध॒ती ।  
+प॒र्जन्य॑स्य वि॒द्युत् ।  
+चत॑स्रो॒ दिशः॑ ।  
+चत॑स्रोऽवान्तरदि॒शाः ।  
+अह॑श्च॒ रात्रि॑श्च ।  
+कृ॒षिश्च॒ वृष्टि॑श्च ।  
+त्विषि॒श्चाप॑चितिश्च ।  
+आप॒श्चौष॑धयश्च ।  
+ऊर्क्च॑ सू॒नृता॑ च दे॒वानां॒ पत्न॑यः ।  
+(14) 
+
+## १५ 
+
+दे॒वस्य॑ त्वा सवि॒तुः प्र॑स॒वे ।  
+अ॒श्विनो᳚र्बा॒हुभ्या᳚म् ।  
+पू॒ष्णो हस्ता᳚भ्यां॒ प्रति॑गृह्णामि ।  
+राजा᳚ त्वा॒ वरु॑णो नयतु देवि दख्षिणे॒ऽग्नये॒ हिर॑ण्यम् ।  
+तेना॑मृत॒त्वम॑श्याम् ।  
+वयो॑ दा॒त्रे ।  
+मयो॒ मह्य॑मस्तु प्रतिग्रही॒त्रे ।  
+क इ॒दङ्कस्मा॑ अदात् ।  
+कामः॒ कामा॑य ।  
+कामो॑ दा॒ता ।  
+(15)  
+
+## १६ 
+
+कामः॑ प्रतिग्रही॒ता ।  
+कामꣳ॑ समु॒द्रमावि॑श ।  
+कामे॑न त्वा॒ प्रति॑गृह्णामि ।  
+कामै॒तत्ते᳚ ।  
+ए॒षा ते॑ काम॒ दख्षि॑णा ।  
+उ॒त्ता॒नस्त्वा᳚ङ्गीर॒सः प्रति॑गृह्णातु ।  
+सोमा॑य॒ वासः॑ ।  
+रु॒द्राय॒ गाम् ।  
+वरु॑णा॒याश्व᳚म् ।  
+प्र॒जाप॑तये॒ पुरु॑षम् ।  
+(16) 
+
+## १७ 
+
+मन॑वे॒ तल्प᳚म् ।  
+त्वष्ट्रे॒ऽजाम् ।  
+पू॒ष्णेऽवि᳚म् ।  
+निर्ऋ॑त्या अश्वतरगर्द॒भौ ।  
+हि॒मव॑तो ह॒स्तिन᳚म् ।  
+ग॒न्ध॒र्वा॒फ्स॒राभ्य॑स्स्रगलङ्कर॒णे ।  
+विश्वे᳚भ्यो दे॒वेभ्यो॑ धा॒न्यम् ।  
+वा॒चेऽन्न᳚म् ।  
+ब्रह्म॑ण ओद॒नम् ।  
+स॒मु॒द्रायापः॑ ।  
+(17)  
+
+## १८ 
+
+उ॒त्ता॒नाया᳚ङ्गीर॒सायानः॑ ।  
+वै॒श्वा॒न॒राय॒ रथ᳚म् ।  
+वै॒श्वा॒न॒रः प्र॒त्नथा॒ नाक॒मारु॑हत् ।  
+दि॒वः पृ॒ष्ठम्भन्द॑मानस्सु॒मन्म॑भिः ।  
+स पू᳚र्व॒वज्ज॒नय॑ज्ज॒न्तवे॒ धन᳚म् ।  
+स॒मा॒नम॑ज्मा॒ परि॑याति॒ जागृ॑विः ।  
+राजा᳚ त्वा॒ वरु॑णो नयतु देविदख्षिणे वैश्वान॒राय॒ रथ᳚म् ।  
+तेना॑मृत॒त्वम॑श्याम् ।  
+वयो॑ दा॒त्रे ।  
+मयो॒ मह्य॑मस्तु प्रतिग्रही॒त्रे ।  
+(18)  
+
+## १९ 
+
+क इ॒दङ्कस्मा॑ अदात् ।  
+कामः॒ कामा॑य ।  
+कामो॑ दा॒ता ।  
+कामः॑ प्रतिग्रही॒ता ।  
+कामꣳ॑ समु॒द्रमा वि॑श ।  
+कामे॑न त्वा॒ प्रति॑गृह्णामि ।  
+कामै॒तत्ते᳚ ।  
+ए॒षा ते॑ काम॒ दख्षि॑णा ।  
+उ॒त्ता॒नस्त्वा᳚ङ्गीर॒सः प्रति॑गृह्णातु ।  
+(19)  
+
+## २० 
+
+सु॒वर्ण॑ङ्घ॒र्मं परि॑वेद वे॒नम् ।  
+इन्द्र॑स्या॒त्मान॑न्दश॒धा चर॑न्तम् ।  
+अ॒न्तस्स॑मु॒द्रे मन॑सा॒ चर॑न्तम् ।  
+ब्रह्मान्व॑विन्द॒द्दश॑होतार॒मर्णे᳚ ।  
+अ॒न्तः प्रवि॑ष्टश्शा॒स्ता जना॑नाम् ।  
+एक॒स्सन्ब॑हु॒धा वि॑चारः ।  
+श॒तꣳ शु॒क्राणि॒ यत्रैकं॒ भव॑न्ति ।  
+सर्वे॒ वेदा॒ यत्रैकं॒ भव॑न्ति ।  
+सर्वे॒ होता॑रो॒ यत्रैकं॒ भव॑न्ति ।  
+स॒मान॑सीन आ॒त्माH जना॑नाम् ।  
+(20) 
+
+## २१ 
+
+अ॒न्तः प्रवि॑ष्टश्शा॒स्ता जना॑ना॒ꣳ॒ सर्वा᳚त्मा ।  
+सर्वाः᳚ प्र॒जा यत्रैकं॒ भव॑न्ति ।  
+चतु॑र्होतारो॒ यत्र॑ सं॒पद॒ङ्गच्छ॑न्ति दे॒वैः ।  
+स॒मान॑सीन आ॒त्मा जना॑नाम् ।  
+ब्रह्मेन्द्र॑म॒ग्निञ्जग॑तः प्रति॒ष्ठाम् ।  
+दि॒व आ॒त्मानꣳ॑ सवि॒तारं॒ बृह॒स्पति᳚म् ।  
+चतु॑र्होतारं प्र॒दिशोऽनु॑ कॢ॒प्तम् ।  
+वा॒चो वी॒र्य॑न्तप॒साऽन्व॑विन्दत् ।  
+अ॒न्तः प्रवि॑ष्टङ्क॒र्तार॑मे॒तम् ।  
+त्वष्टा॑रꣳ रू॒पाणि॑ विकु॒र्वन्तं॑ विप॒श्चिम् ।  
+(21)  
+
+## २२ 
+
+अ॒मृत॑स्य प्रा॒णय्ँय॒ज्ञमे॒तम् ।  
+चतु॑र्होतृणामा॒त्मान॑ङ्क॒वयो॒ निचि॑क्युः ।  
+अ॒न्तः प्रवि॑ष्टङ्क॒र्तार॑मे॒तम् ।  
+दे॒वानां॒ बन्धु॒ निहि॑त॒ङ्गुहा॑सु ।  
+अ॒मृते॑न कॢ॒प्तय्ँय॒ज्ञमे॒तम् ।  
+चतु॑र्होतृणामा॒त्मान॑ङ्क॒वयो॒ निचि॑क्युः ।  
+श॒तन्नि॒युतः॒ परि॑वेद॒ विश्वा॑ वि॒श्ववा॑रः ।  
+विश्व॑मि॒दव्वृं॑णाति ।  
+इन्द्र॑स्या॒त्मा निहि॑तः॒ पञ्च॑होता ।  
+अ॒मृत॑न्दे॒वाना॒मायुः॑ प्र॒जाना᳚म् ।  
+(22) 
+
+## २३ 
+
+इन्द्र॒ꣳ॒ राजा॑नꣳ सवि॒तार॑मे॒तम् ।  
+वा॒योरा॒त्मान॑ङ्क॒वयो॒ निचि॑क्युः ।  
+र॒श्मिꣳ र॑श्मी॒नां मध्ये॒ तप॑न्तम् ।  
+ऋ॒तस्य॑ प॒दे क॒वयो॒ निपा᳚न्ति ।  
+य आ᳚ण्डको॒शे भुव॑नं बि॒भर्ति॑ ।  
+अनि॑र्भिण्ण॒स्सन्नथ॑ लो॒कान् वि॒चष्टे᳚ ।  
+यस्या᳚ण्डको॒शꣳ शुष्म॑मा॒हुः प्रा॒णमुल्ब᳚म् ।  
+तेन॑ कॢ॒प्तो॑ऽमृते॑ना॒हम॑स्मि ।  
+सु॒वर्ण॒ङ्कोश॒ꣳ॒ रज॑सा॒ परी॑वृतम् ।  
+दे॒वाना᳚व्ँवसु॒धानी᳚व्ँ वि॒राज᳚म् ।  
+(23) 
+
+## २४ 
+
+अ॒मृत॑स्य पू॒र्णान्तामु॑ क॒लाव्ँ विच॑ख्षते ।  
+पाद॒ꣳ॒ षड्ढो॑तु॒र्न किला॑विविथ्से ।  
+येन॒र्तवः॑ पञ्च॒धोत कॢ॒प्ताः ।  
+उ॒त वा॑ ष॒ड्धा मन॒सोत कॢ॒प्ताः ।  
+तꣳ षड्ढो॑तारमृ॒तुभिः॒ कल्प॑मानम् ।  
+ऋ॒तस्य॑ प॒दे क॒वयो॒ निपा᳚न्ति ।  
+अ॒न्तः प्रवि॑ष्टङ्क॒र्तार॑मे॒तम् ।  
+अ॒न्तश्च॒न्द्रम॑सि॒ मन॑सा॒ चर॑न्तम् ।  
+स॒हैव सन्त॒न्न विजा॑नन्ति दे॒वाः ।  
+इन्द्र॑स्या॒त्मानꣳ॑ शत॒धा चर॑न्तम् ।  
+(24) 
+
+## २५ 
+
+इन्द्रो॒ राजा॒ जग॑तो॒ य ईशे᳚ ।  
+स॒प्तहो॑ता सप्त॒धा विकॢ॑प्तः ।  
+परे॑ण॒ तन्तुं॑ परिषि॒च्यमा॑नम् ।  
+अ॒न्तरा॑दि॒त्ये मन॑सा॒ चर॑न्तम् ।  
+दे॒वाना॒ꣳ॒ हृद॑यं॒ ब्रह्मान्व॑विन्दत् ।  
+ब्रह्मै॒तद्ब्रह्म॑ण॒ उज्ज॑भार ।  
+अ॒र्कꣵ श्चोत॑न्तꣳ सरि॒रस्य॒ मध्ये᳚ ।  
+आ यस्मि᳚न्थ्स॒प्त पेर॑वः ।  
+मेह॑न्ति बहु॒लाꣳ श्रिय᳚म् ।  
+ब॒ह्व॒श्वामि॑न्द्र॒ गोम॑तीम् ।  
+(25) 
+
+## २६ 
+
+अच्यु॑तां बहु॒लाꣳ श्रिय᳚म् ।  
+स हरि॑र्वसु॒वित्त॑मः ।  
+पे॒रुरिन्द्रा॑य पिन्वते ।  
+ब॒ह्व॒श्वामि॑न्द्र॒ गोम॑तीम् ।  
+अच्यु॑तां बहु॒लाꣳ श्रिय᳚म् ।  
+मह्य॒मिन्द्रो॒ निय॑च्छतु ।  
+श॒तꣳ श॒ता अ॑स्य यु॒क्ता हरी॑णाम् ।  
+अ॒र्वाङा या॑तु॒ वसु॑भी र॒श्मिरिन्द्रः॑ ।  
+प्रमꣳह॑माणो बहु॒लाꣳ श्रिय᳚म् ।  
+र॒श्मिरिन्द्र॑स्सवि॒ता मे॒ निय॑च्छतु ।  
+(26) 
+
+## २७ 
+
+घृ॒तन्तेजो॒ मधु॑मदिन्द्रि॒यम् ।  
+मय्य॒यम॒ग्निर्द॑धातु ।  
+हरिः॑ पत॒ङ्गः प॑ट॒री सु॑प॒र्णः ।  
+दि॒वि॒ख्षयो॒ नभ॑सा॒ य एति॑ ।  
+स न॒ इन्द्रः॑ कामव॒रन्द॑दातु ।  
+पञ्चा॑रञ्च॒क्रं परि॑वर्तते पृ॒थु ।  
+हिर॑ण्यज्योतिस्सरि॒रस्य॒ मद्ध्ये᳚ ।  
+अज॑स्र॒ञ्ज्योति॒र्नभ॑सा॒ सर्प॑देति ।  
+स न॒ इन्द्रः॑ कामव॒रन्द॑दातु ।  
+स॒प्त यु॑ञ्जन्ति॒ रथ॒मेक॑चक्रम् ।  
+(27) 
+
+## २८ 
+
+एको॒ अश्वो॑ वहति सप्तना॒मा ।  
+त्रि॒णाभि॑ च॒क्रम॒जर॒मन॑र्वम् ।  
+येने॒मा विश्वा॒ भुव॑नानि तस्थुः ।  
+भ॒द्रं पश्य॑न्त॒ उप॑सेदु॒रग्रे᳚ ।  
+तपो॑ दी॒ख्षामृष॑यस्सुव॒र्विदः॑ ।  
+ततः॑ क्ष॒त्रं बल॒मोज॑श्च जा॒तम् ।  
+तद॒स्मै दे॒वा अ॒भि सन्न॑मन्तु ।  
+श्वे॒तꣳ र॒श्मिं बो॑भु॒ज्यमा॑नम् ।  
+अ॒पान्ने॒तारं॒ भुव॑नस्य गो॒पाम् ।  
+इन्द्र॒न्निचि॑क्युः पर॒मे व्यो॑मन्न् ।  
+(28)  
+
+## २९ 
+
+रोहि॑णीः पिङ्ग॒ला एक॑रूपाः ।  
+ख्षर॑न्तीः पिङ्ग॒ला एक॑रूपाः ।  
+श॒तꣳ स॒हस्रा॑णि प्र॒युता॑नि॒ नाव्या॑नाम् ।  
+अ॒यय्ँयश्श्वे॒तो र॒श्मिः ।  
+परि॒ सर्व॑मि॒दञ्जग॑त् ।  
+प्र॒जां प॒शून्धना॑नि ।  
+अ॒स्माक॑न्ददातु ।  
+श्वे॒तो र॒श्मिः परि॒ सर्वं॑ बभूव ।  
+सुव॒न्मह्यं॑ प॒शून् वि॒श्वरू॑पान् ।  
+प॒त॒ङ्गम॒क्तमसु॑रस्य मा॒यया᳚ ।  
+(29) 
+
+## ३० 
+
+हृ॒दा प॑श्यन्ति॒ मन॑सा मनी॒षिणः॑ ।  
+स॒मु॒द्रे अ॒न्तः क॒वयो॒ विच॑ख्षते ।  
+मरी॑चीनां प॒दमि॑च्छन्ति वे॒धसः॑ ।  
+प॒त॒ङ्गो वाचं॒ मन॑सा बिभर्ति ।  
+ताङ्ग॑न्ध॒र्वो॑ऽवद॒द्गर्भे॑ अ॒न्तः ।  
+तान्द्योत॑मानाꣳ स्व॒र्यं॑ मनी॒षाम् ।  
+ऋ॒तस्य॑ प॒दे क॒वयो॒ निपा᳚न्ति ।  
+ये ग्रा॒म्याः प॒शवो॑ वि॒श्वरू॑पाः ।  
+विरू॑पा॒स्सन्तो॑ बहु॒धैक॑रूपाः ।  
+अ॒ग्निस्ताꣳ अग्रे॒ प्रमु॑मोक्तु दे॒वः ।  
+(30)  
+
+## ३१ 
+
+प्र॒जाप॑तिः प्र॒जया॑ सव्ँ विदा॒नः ।  
+वी॒तꣵ स्तु॑केस्तुके ।  
+यु॒वम॒स्मासु॒ निय॑च्छतम् ।  
+प्रप्र॑ य॒ज्ञप॑तिन्तिर ।  
+ये ग्रा॒म्याः प॒शवो॑ वि॒श्वरू॑पाः ।  
+विरू॑पा॒स्सन्तो॑ बहु॒धैक॑रूपाः ।  
+तेषाꣳ॑ सप्ता॒नामि॒ह रन्ति॑रस्तु ।  
+रा॒यस्पोषा॑य सुप्रजा॒स्त्वाय॑ सु॒वीर्या॑य ।  
+य आ॑र॒ण्याः प॒शवो॑ वि॒श्वरू॑पाः ।  
+विरू॑पा॒स्सन्तो॑ बहु॒धैक॑रूपाः ।  
+वा॒युस्ताꣳ अग्रे॒ प्रमु॑मोक्तु दे॒वः ।  
+प्र॒जाप॑तिः प्र॒जया॑ सव्ँ विदा॒नः ।  
+इडा॑यै सृ॒प्तङ्घृ॒तव॑च्चराच॒रम् ।  
+दे॒वा अन्व॑विन्द॒न्गुहा॑ हि॒तम् ।  
+य आ॑र॒ण्याः प॒शवो॑ वि॒श्वरू॑पाः ।  
+विरू॑पा॒स्सन्तो॑ बहु॒धैक॑रूपाः ।  
+तेषाꣳ॑ सप्ता॒नामि॒ह रन्ति॑रस्तु ।  
+रा॒यस्पोषा॑य सुप्रजा॒स्त्वाय॑ सु॒वीर्या॑य ॥ (31)  
+
+## ३२-४०
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/03/32-38_sahasra-shIrShA">
 <details open><summary><h2>सहस्र शीर्षा ...{Loading}...</h2></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarva-prastutiH/10/090">
@@ -46,10 +465,10 @@ unicode_script = "devanagari"
 
 ‘सहस्रशीर्षा' इति षोडशर्चं षष्ठं सूक्तम् ।  
 नारायण नामर्षिर्  
-अन्त्या त्रिष्टुप् शिष्टा अनुष्टुभः । 
+अन्त्या त्रिष्टुप् शिष्टा अनुष्टुभः ।
 
 अव्यक्त-महद्-आदि-विलक्षणश् चेतनो यः पुरुषः  
-‘पुरुषाश् च परं किंचित् ' ( क. उ. ३. ११) इत्य्-आदि-श्रुतिषु प्रसिद्धः स देवता । 
+‘पुरुषाश् च परं किंचित् ' ( क. उ. ३. ११) इत्य्-आदि-श्रुतिषु प्रसिद्धः स देवता ।
 
 तथा चानुक्रान्तं--- सहस्रशीर्षा षोळश नारायणः पौरुषमानुष्टुभं त्रिष्टुबन्तं तु' इति । गतो विनियोगः ।।
 </details>
@@ -58,23 +477,23 @@ unicode_script = "devanagari"
 90 (916)  
 Purusạ  
 Nārāyaṇa  
-16 verses: anuṣṭubh, except triṣṭubh 16  
+16 verses: anuṣṭubh, except triṣṭubh 16
 
-This is one of the best-known and most influential hymns of the R̥gveda. Its central  symbol is the púruṣa, the “man,” “person,” or “human being.” 
+This is one of the best-known and most influential hymns of the R̥gveda. Its central  symbol is the púruṣa, the “man,” “person,” or “human being.”
 
-On the surface, this hymn tells of the sacrifice of a giant man, from whose parts the world was created.  The theme of creation through a cosmic sacrifice is widespread, but this hymn is  not simply the retelling of an ancient tradition. The púruṣa here serves as a symbol  of the sacrifice itself, which especially in the middle Vedic tradition is a locus of creative power. The púruṣa is thus similar to the later divine figure Prajāpati, who in the  Brāhmaṇas personifies the sacrifice. 
+On the surface, this hymn tells of the sacrifice of a giant man, from whose parts the world was created.  The theme of creation through a cosmic sacrifice is widespread, but this hymn is  not simply the retelling of an ancient tradition. The púruṣa here serves as a symbol  of the sacrifice itself, which especially in the middle Vedic tradition is a locus of creative power. The púruṣa is thus similar to the later divine figure Prajāpati, who in the  Brāhmaṇas personifies the sacrifice.
 
-Indeed this late hymn represents a verse commentary on the sacrifice that prefigures the prose commentaries of the Brāhmaṇas.+++(5)+++  
+Indeed this late hymn represents a verse commentary on the sacrifice that prefigures the prose commentaries of the Brāhmaṇas.+++(5)+++
 
-This hymn is also notable because it is the only R̥gvedic mention of the four varṇas,  the hierarchical division of the social order that forms the theoretical basis for the  caste system. One reason that the hymn may have been included in the R̥gveda to  provide a R̥gvedic charter for such a division of society.  
+This hymn is also notable because it is the only R̥gvedic mention of the four varṇas,  the hierarchical division of the social order that forms the theoretical basis for the  caste system. One reason that the hymn may have been included in the R̥gveda to  provide a R̥gvedic charter for such a division of society.
 
-The identity of the Man and the sacrifice is established in the opening verse, for  his thousand heads, eyes, and feet recall Agni, the sacrificial fire, and his macro cosmic equivalent, the Sun (cf. Brown 1931: 109–10). The Man comprehends the  earth and extends beyond it. As Mus (1968: 549) has pointed out, the “ten-fingers’  breadth” by which he exceeds the world measures from the Man’s hairline to his  mouth.+++(4)+++ The Man’s mouth represents speech, which marks the boundary between  the imperceptible world of thought and the perceptible world created by speech.+++(5)+++ 
+The identity of the Man and the sacrifice is established in the opening verse, for  his thousand heads, eyes, and feet recall Agni, the sacrificial fire, and his macro cosmic equivalent, the Sun (cf. Brown 1931: 109–10). The Man comprehends the  earth and extends beyond it. As Mus (1968: 549) has pointed out, the “ten-fingers’  breadth” by which he exceeds the world measures from the Man’s hairline to his  mouth.+++(4)+++ The Man’s mouth represents speech, which marks the boundary between  the imperceptible world of thought and the perceptible world created by speech.+++(5)+++
 
 His  mouth is also associated with eating, and in verse 2 the Man rises beyond the world  “through food,” that is, by making the world his food. In later texts the “eater” is the  master and the “eaten” is one who benefits the master (cf. Rau 1957: 34–35). The  image may therefore reflect the Man’s dominance over the world.+++(4)+++ See also X.125,  in which the mouth is similarly both the locus of speech and the locus of eating.
 
-This theme of dominance or rule continues also in verse 5 in the mutual generation of the Man and the Virāj. The word virā́j can mean either “brilliant” or “ruling,  rule.” The latter is the more likely sense here, and therefore this word connects the  hymn to Vedic ideals of the king, who in his consecration encompasses the world in  a similar way that the Man does here (Proferes 2007: esp. ch. 3). Since the term virā́j is grammatically feminine, it complements púruṣa, which is masculine in grammar  and connotation.+++(4)+++  
+This theme of dominance or rule continues also in verse 5 in the mutual generation of the Man and the Virāj. The word virā́j can mean either “brilliant” or “ruling,  rule.” The latter is the more likely sense here, and therefore this word connects the  hymn to Vedic ideals of the king, who in his consecration encompasses the world in  a similar way that the Man does here (Proferes 2007: esp. ch. 3). Since the term virā́j is grammatically feminine, it complements púruṣa, which is masculine in grammar  and connotation.+++(4)+++
 
-The Man is the “offering” (vs. 6), the sacrificial victim (vs. 15), but more especially he is the sacrifice itself that the gods, the Sādhyas, and seers performed  (vs. 7). Through this sacrifice the elements of subsequent sacrifices emerged: the  “clotted-mixture” (vs. 8), the verses, chants, meters, and sacrificial formulae (vs.  9), and the sacrificial animals (vs. 10). The parts of the sacrifice also became the  three upper varṇas (vss. 11–12): his mouth the brahmins, masters of knowledge and  speech; his arms the rulers, the possessors of power; and his thighs the freemen or  clansmen, who are the productive support of society. These three classes form parts  of the sacrifice because they can participate in the sacrifice. The śūdras or “servants”  are not part of the sacrifice but rather emerge from the feet of the Man, a symbol  of their low social status and their exclusion from the sacrifice. Finally, the elements  of the cosmos and gods themselves come forth from the sacrifice (vss. 13–14). This  primeval sacrifice thus establishes the “first foundations” for the performance of the sacrifice or even for the ritual, social, divine, and visible worlds more generally (vs.  16ab), and it creates access to heaven (16cd).  
+The Man is the “offering” (vs. 6), the sacrificial victim (vs. 15), but more especially he is the sacrifice itself that the gods, the Sādhyas, and seers performed  (vs. 7). Through this sacrifice the elements of subsequent sacrifices emerged: the  “clotted-mixture” (vs. 8), the verses, chants, meters, and sacrificial formulae (vs.  9), and the sacrificial animals (vs. 10). The parts of the sacrifice also became the  three upper varṇas (vss. 11–12): his mouth the brahmins, masters of knowledge and  speech; his arms the rulers, the possessors of power; and his thighs the freemen or  clansmen, who are the productive support of society. These three classes form parts  of the sacrifice because they can participate in the sacrifice. The śūdras or “servants”  are not part of the sacrifice but rather emerge from the feet of the Man, a symbol  of their low social status and their exclusion from the sacrifice. Finally, the elements  of the cosmos and gods themselves come forth from the sacrifice (vss. 13–14). This  primeval sacrifice thus establishes the “first foundations” for the performance of the sacrifice or even for the ritual, social, divine, and visible worlds more generally (vs.  16ab), and it creates access to heaven (16cd).
 
 The identity of the Sādhyas (in vss. 7 and 16) is not clear. Their name means  “those to be brought to success,” and they appear to be ancient sacrificers whose  proper ritual performance has “perfected” them and who have attained god-like  status or the status of gods.+++(4)+++
 </details>
@@ -180,7 +599,7 @@ daśāṅgulám ← daśāṅgulá- (nominal stem)
 - *puruṣaḥ* ← *puruṣa*
 - \[noun\], nominative, singular, masculine
 - “man; man; Puruṣa; puṃvajra; puruṣa; servant; puruṣa \[word\];
-    assistant; soldier; soul; commoner; generation; people; doll.”
+  assistant; soldier; soul; commoner; generation; people; doll.”
 ------------------------------------------------------------------------
 - *sahasrākṣaḥ* ← *sahasra*
 - \[noun\], neuter
@@ -201,14 +620,14 @@ daśāṅgulám ← daśāṅgulá- (nominal stem)
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
-    then; particular(a); genitive; instrumental; accusative; there; tad
-    \[word\]; dative; once; same.”
+  then; particular(a); genitive; instrumental; accusative; there; tad
+  \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
 - *bhūmiṃ* ← *bhūmim* ← *bhūmi*
 - \[noun\], accusative, singular, feminine
 - “floor; earth; Earth; real property; region; pṛthivī; location;
-    Earth; place; bhūja; floor; pit; bhūmi \[word\]; one; hole; shop;
-    distance; country; space; land; territory; topographic point.”
+  Earth; place; bhūja; floor; pit; bhūmi \[word\]; one; hole; shop;
+  distance; country; space; land; territory; topographic point.”
 ------------------------------------------------------------------------
 - *viśvato* ← *viśvatas*
 - \[adverb\]
@@ -217,7 +636,7 @@ daśāṅgulám ← daśāṅgulá- (nominal stem)
 - *vṛtvāty* ← *vṛtvā* ← *vṛ*
 - \[verb noun\]
 - “surround; accompany; cover; cover; obstruct; check; spread;
-    envelop.”
+  envelop.”
 ------------------------------------------------------------------------
 - *vṛtvāty* ← *ati*
 - \[adverb\]
@@ -226,8 +645,8 @@ daśāṅgulám ← daśāṅgulá- (nominal stem)
 - *atiṣṭhad* ← *atiṣṭhat* ← *sthā*
 - \[verb\], singular, Imperfect
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
-    stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
-    last; dwell; lie; stand; stop.”
+  stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
+  last; dwell; lie; stand; stop.”
 ------------------------------------------------------------------------
 - *daśāṅgulam* ← *daśa* ← *daśan*
 - \[noun\], accusative, singular, neuter
@@ -259,7 +678,7 @@ The Man has a thousand heads, a thousand eyes, and a thousand feet. Having cover
 <details><summary>Griffith</summary>
 
 A THOUSAND heads hath Purusa, a thousand eyes, a thousand feet.  
-     On every side pervading earth he fills a space ten fingers wide.
+On every side pervading earth he fills a space ten fingers wide.
 </details>
 <details><summary>Geldner</summary>
 
@@ -408,12 +827,12 @@ yát ← yá- (pronoun)
 -   *puruṣa* ← *puruṣaḥ* ← *puruṣa*
 - \[noun\], nominative, singular, masculine
 - “man; man; Puruṣa; puṃvajra; puruṣa; servant; puruṣa \[word\];
-    assistant; soldier; soul; commoner; generation; people; doll.”
+  assistant; soldier; soul; commoner; generation; people; doll.”
 ------------------------------------------------------------------------
 - *evedaṃ* ← *evā* ← *eva*
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
-    successively; immediately; in truth.”
+  successively; immediately; in truth.”
 ------------------------------------------------------------------------
 - *evedaṃ* ← *idam*
 - \[noun\], nominative, singular, neuter
@@ -422,8 +841,8 @@ yát ← yá- (pronoun)
 - *sarvaṃ* ← *sarvam* ← *sarva*
 - \[noun\], nominative, singular, neuter
 - “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
-    entire; sāṃnipātika; manifold; complete; all the(a); different;
-    overall.”
+  entire; sāṃnipātika; manifold; complete; all the(a); different;
+  overall.”
 ------------------------------------------------------------------------
 - *yad* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
@@ -432,9 +851,9 @@ yát ← yá- (pronoun)
 - *bhūtaṃ* ← *bhūtam* ← *bhū*
 - \[verb noun\], nominative, singular
 - “become; be; originate; transform; happen; result; exist; be born;
-    be; be; come to life; grow; elapse; come to mind; thrive; become;
-    impend; show; conceive; understand; stand; constitute; serve; apply;
-    behave.”
+  be; be; come to life; grow; elapse; come to mind; thrive; become;
+  impend; show; conceive; understand; stand; constitute; serve; apply;
+  behave.”
 ------------------------------------------------------------------------
 - *yac* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
@@ -447,9 +866,9 @@ yát ← yá- (pronoun)
 - *bhavyam* ← *bhū*
 - \[verb noun\], nominative, singular
 - “become; be; originate; transform; happen; result; exist; be born;
-    be; be; come to life; grow; elapse; come to mind; thrive; become;
-    impend; show; conceive; understand; stand; constitute; serve; apply;
-    behave.”
+  be; be; come to life; grow; elapse; come to mind; thrive; become;
+  impend; show; conceive; understand; stand; constitute; serve; apply;
+  behave.”
 ------------------------------------------------------------------------
 - *utāmṛtatvasyeśāno* ← *uta*
 - \[adverb\]
@@ -509,7 +928,7 @@ world) through food.
 <details><summary>Griffith</summary>
 
 This Purusa is all that yet hath been and all that is to be;  
-     The Lord of Immortality which waxes greater still by food.
+The Lord of Immortality which waxes greater still by food.
 </details>
 <details><summary>Geldner</summary>
 
@@ -557,7 +976,7 @@ Der Urmensch ist alles dies, was gewesen ist, und was sein wird; er gebietet üb
 अतो॒+++(→ततोऽपि)+++ ज्यायाꣳ॑श् च॒ पूरु॑षः ।   
 +++(कथम् इति चेत्-)+++  
 **पादो॑ऽस्य॒ विश्वा॑ भू॒तानि॑** ।  
-+++(अवशिष्टस्)+++ **त्रि॒पाद्** +++(अंशः पर-देवतापूर्णः)+++ **अ॑स्या॒मृतं॑** +++(=अविनाशी)+++ दि॒वि+++(=परमे व्योम्नि→Platonic ideal realm)+++ । 
++++(अवशिष्टस्)+++ **त्रि॒पाद्** +++(अंशः पर-देवतापूर्णः)+++ **अ॑स्या॒मृतं॑** +++(=अविनाशी)+++ दि॒वि+++(=परमे व्योम्नि→Platonic ideal realm)+++ ।
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/090/03_etAvAnasya_mahimAto.md">
@@ -661,7 +1080,7 @@ tripā́t ← tripád- (nominal stem)
 - *mahimāto* ← *atas*
 - \[adverb\]
 - “now; therefore; then; from there; hence; consequently; then; hence;
-    henceforth.”
+  henceforth.”
 ------------------------------------------------------------------------
 - *jyāyāṃś* ← *jyāyān* ← *jyāyas*
 - \[noun\], nominative, singular, masculine
@@ -678,7 +1097,7 @@ tripā́t ← tripád- (nominal stem)
 - *pādo* ← *pādaḥ* ← *pāda*
 - \[noun\], nominative, singular, masculine
 - “foot; one-fourth; beam; pāda; foot; foundation; pāda \[word\]; leg;
-    leg; animal foot; step; foot; footfall; verse.”
+  leg; animal foot; step; foot; footfall; verse.”
 ------------------------------------------------------------------------
 - *'sya* ← *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
@@ -687,12 +1106,12 @@ tripā́t ← tripád- (nominal stem)
 - *viśvā* ← *viśva*
 - \[noun\], nominative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
-    wholly.”
+  wholly.”
 ------------------------------------------------------------------------
 - *bhūtāni* ← *bhūta*
 - \[noun\], nominative, plural, neuter
 - “being; ghost; mahābhūta; monster; past; Bhūta; world; bhūta
-    \[word\]; being; mythical monster; animal; entity.”
+  \[word\]; being; mythical monster; animal; entity.”
 ------------------------------------------------------------------------
 - *tripād* ← *tri*
 - \[noun\]
@@ -737,7 +1156,7 @@ a quarter of him is all living beings; three quarters are the immortal in  heave
 <details><summary>Griffith</summary>
 
 So mighty is his greatness; yea, greater than this is Purusa.  
-     All creatures are one-fourth of him, three-fourths eternal life in heaven.
+All creatures are one-fourth of him, three-fourths eternal life in heaven.
 </details>
 <details><summary>Geldner</summary>
 
@@ -888,7 +1307,7 @@ sāśanānaśané ← sāśanānaśaná- (nominal stem)
 - *ūrdhva* ← *ūrdhvaḥ* ← *ūrdhva*
 - \[noun\], nominative, singular, masculine
 - “upper; up(a); upper; upward; erect; more(a); raised; ūrdhva
-    \[word\]; acclivitous; overturned; loud; eminent; high.”
+  \[word\]; acclivitous; overturned; loud; eminent; high.”
 ------------------------------------------------------------------------
 - *ud*
 - \[adverb\]
@@ -901,12 +1320,12 @@ sāśanānaśané ← sāśanānaśaná- (nominal stem)
 - *puruṣaḥ* ← *puruṣa*
 - \[noun\], nominative, singular, masculine
 - “man; man; Puruṣa; puṃvajra; puruṣa; servant; puruṣa \[word\];
-    assistant; soldier; soul; commoner; generation; people; doll.”
+  assistant; soldier; soul; commoner; generation; people; doll.”
 ------------------------------------------------------------------------
 - *pādo* ← *pādaḥ* ← *pāda*
 - \[noun\], nominative, singular, masculine
 - “foot; one-fourth; beam; pāda; foot; foundation; pāda \[word\]; leg;
-    leg; animal foot; step; foot; footfall; verse.”
+  leg; animal foot; step; foot; footfall; verse.”
 ------------------------------------------------------------------------
 - *'syehābhavat* ← *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
@@ -919,20 +1338,20 @@ sāśanānaśané ← sāśanānaśaná- (nominal stem)
 - *'syehābhavat* ← *abhavat* ← *bhū*
 - \[verb\], singular, Imperfect
 - “become; be; originate; transform; happen; result; exist; be born;
-    be; be; come to life; grow; elapse; come to mind; thrive; become;
-    impend; show; conceive; understand; stand; constitute; serve; apply;
-    behave.”
+  be; be; come to life; grow; elapse; come to mind; thrive; become;
+  impend; show; conceive; understand; stand; constitute; serve; apply;
+  behave.”
 ------------------------------------------------------------------------
 - *punaḥ* ← *punar*
 - \[adverb\]
 - “again; further; now; over and over; subsequently; repeatedly;
-    however; besides.”
+  however; besides.”
 ------------------------------------------------------------------------
 - *tato* ← *tatas*
 - \[adverb\]
 - “then; therefore; now; then; from there; subsequently; consequently;
-    then; there; from that; for that reason; alternatively;
-    consequently; furthermore.”
+  then; there; from that; for that reason; alternatively;
+  consequently; furthermore.”
 ------------------------------------------------------------------------
 - *viṣvaṅ* ← *viṣvañc*
 - \[noun\], nominative, singular, masculine
@@ -987,7 +1406,7 @@ From there he strode out in different directions toward what eats and  what does
 <details><summary>Griffith</summary>
 
 With three-fourths Purusa went up: onefourth of him again was here.  
-     Thence he strode out to every side over what cats not and what cats.
+Thence he strode out to every side over what cats not and what cats.
 </details>
 <details><summary>Geldner</summary>
 
@@ -1128,8 +1547,8 @@ u ← u (invariable)
 -   *tasmād* ← *tasmāt* ← *tad*
 - \[noun\], ablative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
-    then; particular(a); genitive; instrumental; accusative; there; tad
-    \[word\]; dative; once; same.”
+  then; particular(a); genitive; instrumental; accusative; there; tad
+  \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
 - *virāḍ* ← *virāj*
 - \[noun\], nominative, singular, feminine
@@ -1138,8 +1557,8 @@ u ← u (invariable)
 - *ajāyata* ← *jan*
 - \[verb\], singular, Imperfect
 - “become; originate; be born; transform; happen; result; grow; beget;
-    produce; create; conceive; separate; cause; give birth; grow;
-    produce; generate; be; become; arise; come on.”
+  produce; create; conceive; separate; cause; give birth; grow;
+  produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
 - *virājo* ← *virājaḥ* ← *virāj*
 - \[noun\], ablative, singular, feminine
@@ -1156,14 +1575,14 @@ u ← u (invariable)
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
-    then; particular(a); genitive; instrumental; accusative; there; tad
-    \[word\]; dative; once; same.”
+  then; particular(a); genitive; instrumental; accusative; there; tad
+  \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
 - *jāto* ← *jātaḥ* ← *jan*
 - \[verb noun\], nominative, singular
 - “become; originate; be born; transform; happen; result; grow; beget;
-    produce; create; conceive; separate; cause; give birth; grow;
-    produce; generate; be; become; arise; come on.”
+  produce; create; conceive; separate; cause; give birth; grow;
+  produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
 - *aty* ← *ati*
 - \[adverb\]
@@ -1180,8 +1599,8 @@ u ← u (invariable)
 - *bhūmim* ← *bhūmi*
 - \[noun\], accusative, singular, feminine
 - “floor; earth; Earth; real property; region; pṛthivī; location;
-    Earth; place; bhūja; floor; pit; bhūmi \[word\]; one; hole; shop;
-    distance; country; space; land; territory; topographic point.”
+  Earth; place; bhūja; floor; pit; bhūmi \[word\]; one; hole; shop;
+  distance; country; space; land; territory; topographic point.”
 ------------------------------------------------------------------------
 - *atho* ← *atha*
 - \[adverb\]
@@ -1199,12 +1618,12 @@ u ← u (invariable)
 <details><summary>सायण-भाष्यम्</summary>
 
 विष्वङ् व्यक्रामद् इति यदुक्तं तद् एवात्र प्रपञ्च्यते । **तस्मात्** आदिपुरुषात् **विराट्** ब्रह्माण्ड-देहः **अजायत** उत्पन्नः । विविधानि राजन्ते वस्तून्यत्रेति विराट् । **विराजोऽधि** विराड्-देहस्योपरि - तम् एव देहम् अधिकरणं कृत्वा **पुरुषः** तद्देहाभिमानी कश्चित् पुमान् अजायत ।  
-सोऽयं सर्ववेदान्तवेद्यः परमात्मा स्वयम् एव स्वकीयया मायया विराड्-देहं ब्रह्माण्ड-रूपं सृष्ट्वा तत्र जीव-रूपेण प्रविश्य ब्रह्माण्डाभिमानी देवतात्मा जीवोऽभवत् ।+++(4)+++ एतच् चाथर्वणिका उत्तर-तापनीये विस्पष्टम् आमनन्ति---- 
+सोऽयं सर्ववेदान्तवेद्यः परमात्मा स्वयम् एव स्वकीयया मायया विराड्-देहं ब्रह्माण्ड-रूपं सृष्ट्वा तत्र जीव-रूपेण प्रविश्य ब्रह्माण्डाभिमानी देवतात्मा जीवोऽभवत् ।+++(4)+++ एतच् चाथर्वणिका उत्तर-तापनीये विस्पष्टम् आमनन्ति----
 
 > स वा एष  
 > भूतानीन्द्रियाणि विराजं देवताः कोशांश्च सृष्ट्वा  
 > प्रविश्यामूढो मूढ इव व्यवहरन्न् आस्ते माययैव  
-> (नृ. ता. २. १, ९) 
+> (नृ. ता. २. १, ९)
 
 इति । **स** **जातः** विराट् पुरुषः **अत्यरिच्यत** अतिरिक्तोऽभूत् । विराड्-व्यतिरिक्तो देव-तिर्यङ्-मनुष्यादिरूपोऽभूत् ।  
 **पश्चात्** देवादि-जीव-भावाद् ऊर्ध्वं **भूमिं** ससर्जेति शेषः । **अथो** भूमिसृष्टेर् अनन्तरं तेषां जीवानां **पुरः** ससर्ज ।  
@@ -1374,7 +1793,7 @@ idhmáḥ ← idhmá- (nominal stem)
 - *puruṣeṇa* ← *puruṣa*
 - \[noun\], instrumental, singular, masculine
 - “man; man; Puruṣa; puṃvajra; puruṣa; servant; puruṣa \[word\];
-    assistant; soldier; soul; commoner; generation; people; doll.”
+  assistant; soldier; soul; commoner; generation; people; doll.”
 ------------------------------------------------------------------------
 - *haviṣā* ← *havis*
 - \[noun\], instrumental, singular, neuter
@@ -1383,7 +1802,7 @@ idhmáḥ ← idhmá- (nominal stem)
 - *devā* ← *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
-    Viśvedevās; mercury; natural phenomenon; gambling.”
+  Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
 - *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
@@ -1392,7 +1811,7 @@ idhmáḥ ← idhmá- (nominal stem)
 - *atanvata* ← *tan*
 - \[verb\], plural, Imperfect
 - “expand; perform; cause; increase; write; spread; produce; spread;
-    speak; propagate.”
+  speak; propagate.”
 ------------------------------------------------------------------------
 - *vasanto* ← *vasantaḥ* ← *vasanta*
 - \[noun\], nominative, singular, masculine
@@ -1405,7 +1824,7 @@ idhmáḥ ← idhmá- (nominal stem)
 - *asyāsīd* ← *āsīt* ← *as*
 - \[verb\], singular, Imperfect
 - “be; exist; become; originate; happen; result; be; dwell; be born;
-    stay; be; equal; exist; transform.”
+  stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
 - *ājyaṃ* ← *ājyam* ← *ājya*
 - \[noun\], nominative, singular, neuter
@@ -1449,7 +1868,7 @@ When, with the Man as the offering, the gods extended the sacrifice, spring was 
 <details><summary>Griffith</summary>
 
 When Gods prepared the sacrifice with Purusa as their offering,  
-     Its oil was spring, the holy gift was autumn; summer was the wood.
+Its oil was spring, the holy gift was autumn; summer was the wood.
 </details>
 <details><summary>Geldner</summary>
 
@@ -1590,8 +2009,8 @@ yé ← yá- (pronoun)
 -   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
-    then; particular(a); genitive; instrumental; accusative; there; tad
-    \[word\]; dative; once; same.”
+  then; particular(a); genitive; instrumental; accusative; there; tad
+  \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
 - *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
@@ -1608,13 +2027,13 @@ yé ← yá- (pronoun)
 - *puruṣaṃ* ← *puruṣam* ← *puruṣa*
 - \[noun\], accusative, singular, masculine
 - “man; man; Puruṣa; puṃvajra; puruṣa; servant; puruṣa \[word\];
-    assistant; soldier; soul; commoner; generation; people; doll.”
+  assistant; soldier; soul; commoner; generation; people; doll.”
 ------------------------------------------------------------------------
 - *jātam* ← *jan*
 - \[verb noun\], accusative, singular
 - “become; originate; be born; transform; happen; result; grow; beget;
-    produce; create; conceive; separate; cause; give birth; grow;
-    produce; generate; be; become; arise; come on.”
+  produce; create; conceive; separate; cause; give birth; grow;
+  produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
 - *agrataḥ* ← *agratas*
 - \[adverb\]
@@ -1623,13 +2042,13 @@ yé ← yá- (pronoun)
 - *tena* ← *tad*
 - \[noun\], instrumental, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
-    then; particular(a); genitive; instrumental; accusative; there; tad
-    \[word\]; dative; once; same.”
+  then; particular(a); genitive; instrumental; accusative; there; tad
+  \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
 - *devā* ← *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
-    Viśvedevās; mercury; natural phenomenon; gambling.”
+  Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
 - *ayajanta* ← *yaj*
 - \[verb\], plural, Imperfect
@@ -1675,7 +2094,7 @@ when the gods, extending the sacrifice, bound the Man as the
 <details><summary>Griffith</summary>
 
 Seven fencing-sticks had he, thrice seven layers of fuel were prepared,  
-     When the Gods, offering sacrifice, bound, as their victim, Purusa.
+When the Gods, offering sacrifice, bound, as their victim, Purusa.
 </details>
 <details><summary>Geldner</summary>
 
@@ -1807,8 +2226,8 @@ yé ← yá- (pronoun)
 -   *tasmād* ← *tasmāt* ← *tad*
 - \[noun\], ablative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
-    then; particular(a); genitive; instrumental; accusative; there; tad
-    \[word\]; dative; once; same.”
+  then; particular(a); genitive; instrumental; accusative; there; tad
+  \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
 - *yajñāt* ← *yajña*
 - \[noun\], ablative, singular, masculine
@@ -1817,8 +2236,8 @@ yé ← yá- (pronoun)
 - *sarvahutaḥ* ← *sarva*
 - \[noun\]
 - “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
-    entire; sāṃnipātika; manifold; complete; all the(a); different;
-    overall.”
+  entire; sāṃnipātika; manifold; complete; all the(a); different;
+  overall.”
 ------------------------------------------------------------------------
 - *sarvahutaḥ* ← *hutaḥ* ← *hu*
 - \[verb noun\], nominative, singular
@@ -1834,24 +2253,24 @@ yé ← yá- (pronoun)
 - *paśūn* ← *paśu*
 - \[noun\], accusative, plural, masculine
 - “domestic animal; sacrificial animal; animal; cattle; Paśu; stupid;
-    Paśu; herd; goat.”
+  Paśu; herd; goat.”
 ------------------------------------------------------------------------
 - *tāṃś* ← *tān* ← *tad*
 - \[noun\], accusative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
-    then; particular(a); genitive; instrumental; accusative; there; tad
-    \[word\]; dative; once; same.”
+  then; particular(a); genitive; instrumental; accusative; there; tad
+  \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
 - *cakre* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
-    into; use; fuel; transform; bore; act; write; create; prepare;
-    administer; dig; prepare; treat; take effect; add; trace; put on;
-    process; treat; heed; hire; act; produce; assume; eat; ignite; chop;
-    treat; obey; manufacture; appoint; evacuate; choose; understand;
-    insert; happen; envelop; weigh; observe; practice; lend; bring;
-    duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
-    utter; compose.”
+  into; use; fuel; transform; bore; act; write; create; prepare;
+  administer; dig; prepare; treat; take effect; add; trace; put on;
+  process; treat; heed; hire; act; produce; assume; eat; ignite; chop;
+  treat; obey; manufacture; appoint; evacuate; choose; understand;
+  insert; happen; envelop; weigh; observe; practice; lend; bring;
+  duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
+  utter; compose.”
 ------------------------------------------------------------------------
 - *vāyavyān* ← *vāyavya*
 - \[noun\], accusative, plural, masculine
@@ -1897,7 +2316,7 @@ were seers.
 <details><summary>Griffith</summary>
 
 They balmed as victim on the grass Purusa born in earliest time.  
-     With him the Deities and all Sadhyas and Rsis sacrificed.
+With him the Deities and all Sadhyas and Rsis sacrificed.
 </details>
 <details><summary>Geldner</summary>
 
@@ -1942,7 +2361,7 @@ Aus diesem vollständig dargebrachten Opfer sammelte sich das triefende Opfersch
 
 
 तस्मा॑द् य॒ज्ञात् स॑र्व॒हुतः॑ । +++(पशुनिर्माणाय तज्-जातकर्मणे वापि)+++ संभृ॑तं +++(हविश्शेषं घनीभवद् दधिमिश्रं वा)+++ पृषद्+++(=बिन्द्व्)+++-आ॒ज्यम् ।  
-प॒शूꣳस् ताꣳश् +++(सूच्यमानान्)+++ च॑क्रे - वाय॒व्यान्॑ । आ॒र॒ण्यान् ग्रा॒म्याँश् च॒ ये । ९  
+प॒शूꣳस् ताꣳश् +++(सूच्यमानान्)+++ च॑क्रे - वाय॒व्यान्॑ । आ॒र॒ण्यान् ग्रा॒म्याँश् च॒ ये । ९
 
 </details>
 </div>
@@ -2026,8 +2445,8 @@ yájuḥ ← yájus- (nominal stem)
 -   *tasmād* ← *tasmāt* ← *tad*
 - \[noun\], ablative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
-    then; particular(a); genitive; instrumental; accusative; there; tad
-    \[word\]; dative; once; same.”
+  then; particular(a); genitive; instrumental; accusative; there; tad
+  \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
 - *yajñāt* ← *yajña*
 - \[noun\], ablative, singular, masculine
@@ -2036,8 +2455,8 @@ yájuḥ ← yájus- (nominal stem)
 - *sarvahuta* ← *sarva*
 - \[noun\]
 - “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
-    entire; sāṃnipātika; manifold; complete; all the(a); different;
-    overall.”
+  entire; sāṃnipātika; manifold; complete; all the(a); different;
+  overall.”
 ------------------------------------------------------------------------
 - *sarvahuta* ← *hutaḥ* ← *hu*
 - \[verb noun\], nominative, singular
@@ -2054,8 +2473,8 @@ yájuḥ ← yájus- (nominal stem)
 - *jajñire* ← *jan*
 - \[verb\], plural, Perfect indicative
 - “become; originate; be born; transform; happen; result; grow; beget;
-    produce; create; conceive; separate; cause; give birth; grow;
-    produce; generate; be; become; arise; come on.”
+  produce; create; conceive; separate; cause; give birth; grow;
+  produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
 - *chandāṃsi* ← *chandas*
 - \[noun\], nominative, plural, neuter
@@ -2064,14 +2483,14 @@ yájuḥ ← yájus- (nominal stem)
 - *jajñire* ← *jan*
 - \[verb\], plural, Perfect indicative
 - “become; originate; be born; transform; happen; result; grow; beget;
-    produce; create; conceive; separate; cause; give birth; grow;
-    produce; generate; be; become; arise; come on.”
+  produce; create; conceive; separate; cause; give birth; grow;
+  produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
 - *tasmād* ← *tasmāt* ← *tad*
 - \[noun\], ablative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
-    then; particular(a); genitive; instrumental; accusative; there; tad
-    \[word\]; dative; once; same.”
+  then; particular(a); genitive; instrumental; accusative; there; tad
+  \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
 - *yajus* ← *yajuḥ* ← *yajus*
 - \[noun\], nominative, singular, neuter
@@ -2080,35 +2499,35 @@ yájuḥ ← yájus- (nominal stem)
 - *tasmād* ← *tasmāt* ← *tad*
 - \[noun\], ablative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
-    then; particular(a); genitive; instrumental; accusative; there; tad
-    \[word\]; dative; once; same.”
+  then; particular(a); genitive; instrumental; accusative; there; tad
+  \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
 - *ajāyata* ← *jan*
 - \[verb\], singular, Imperfect
 - “become; originate; be born; transform; happen; result; grow; beget;
-    produce; create; conceive; separate; cause; give birth; grow;
-    produce; generate; be; become; arise; come on.”
+  produce; create; conceive; separate; cause; give birth; grow;
+  produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
 </details>
 <details><summary>ASR प्रतिपदार्थः</summary>
 
-**सर्वहुतः** - ब्रह्मणः, **तस्मात्-यज्ञात्** - पुरुषात् यागात्, **पृषदाज्यं** - दधिमिश्रं आज्यं (जगत्कारणं वीर्यं), **संभृतम्** - संपादितं भवति, **वायव्यान्** - सः ब्रह्मा अन्तरिक्षचरान् पक्षीन् , **आरण्यान्** - सिंहादीन् , ये च ग्राम्याः, ग्रामेषु ये गवादयः सन्ति, **तान् पशून**, - तादृशान् पशूनपि, **चक्रे** - ससर्ज ।।। 
+**सर्वहुतः** - ब्रह्मणः, **तस्मात्-यज्ञात्** - पुरुषात् यागात्, **पृषदाज्यं** - दधिमिश्रं आज्यं (जगत्कारणं वीर्यं), **संभृतम्** - संपादितं भवति, **वायव्यान्** - सः ब्रह्मा अन्तरिक्षचरान् पक्षीन् , **आरण्यान्** - सिंहादीन् , ये च ग्राम्याः, ग्रामेषु ये गवादयः सन्ति, **तान् पशून**, - तादृशान् पशूनपि, **चक्रे** - ससर्ज ।।।
 </details>
 <details><summary>ASR तात्पर्यम्</summary>
 
 सर्वं जहोतीति - सर्वहत तस्मात् सर्वं भगवते समर्पितवतः ब्रह्मणः इत्यर्थः । **तस्मात्** एतादृशात् चतुर्मुखात् **यज्ञात्** यजनीयात् **पृषदाज्यं** दधिसंयुक्तमाज्यं दधिमिश्रम् आज्यस्थानीयं विचित्ररूपं सृज्यवस्तु जननहेतुभूतं वस्तु **संभृतम्** - उत्पन्नं भवति । 'सृज्यप्राणिजनन-हेतुभूतं विचित्रवर्णवीर्यं पृषदाज्यं भवति' इति योगरत्ने उक्तम् । अथ ब्रह्मा वायुमार्गसंचरणशीलान् पक्षिरूपान् पशून् ससर्ज । अरण्येभवान् मृगादीन् ग्रामे भवाः ताञ्च चक्रेत्यर्थः ।।
 
-- १. **पृषदाज्य**-शब्दार्थं विवृणोति श्रुत्यन्तरे - 
-  
+- १. **पृषदाज्य**-शब्दार्थं विवृणोति श्रुत्यन्तरे -
+
 > ओषध्यः पशवो वृक्षाः  
 > वीरुदाज्यं पयोदधि ।  
 > हविर्भूमिर्दिशश्श्रद्धा  
 > कालश्चैतानि द्वादश ।।  
-> (म.भा.शां.प.२६०-१६) 
+> (म.भा.शां.प.२६०-१६)
 
-> अन्नं हि पृषदाज्यम्, प्राणो हि पृषदाज्यम् (श.ब्रा.३-८-४-८) 
+> अन्नं हि पृषदाज्यम्, प्राणो हि पृषदाज्यम् (श.ब्रा.३-८-४-८)
 
-ग्राम्याऽरण्यादि पशुभेदान् वर्ण्यते - 
+ग्राम्याऽरण्यादि पशुभेदान् वर्ण्यते -
 
 > गौरजः पुरुषो मेषश्  
 > चाश्वातरगर्दभाः ।  
@@ -2119,17 +2538,17 @@ yájuḥ ← yájus- (nominal stem)
 > वानराः पक्षिपञ्चमाः ।  
 > औदकाः पशवः षष्ठाः  
 > सप्तमास्तु सरीसृपाः ।।  
-> (वि.पु.१-५-५२) 
+> (वि.पु.१-५-५२)
 
-ऋगादि वेदानां सृष्टिर् अनुवर्ण्यते श्रुतिस्मृतिषु - 
+ऋगादि वेदानां सृष्टिर् अनुवर्ण्यते श्रुतिस्मृतिषु -
 
 > 'ऋचः सामानि छन्दांसि  
 > पुराणं यजुषा सह ।  
 > उच्छिष्टाज् जज्ञिरे सर्वे  
 > दिवि देवा दिवि श्रिताः ।'  
-> (अथर्व.११-७-२४) 
+> (अथर्व.११-७-२४)
 
-वेदानां गायत्र्यादिछन्दोन्वितत्वात् पुनश्छन्दांसीति पदं चतुर्थस्याथर्ववेदस्योत्पत्तिं ज्ञापयतीत्यवधेयम् । (ऋ.भा.भू.) 
+वेदानां गायत्र्यादिछन्दोन्वितत्वात् पुनश्छन्दांसीति पदं चतुर्थस्याथर्ववेदस्योत्पत्तिं ज्ञापयतीत्यवधेयम् । (ऋ.भा.भू.)
 
 > सर्वेषां तु स नामानि  
 > कर्माणि च पृथक् पृथक् ।  
@@ -2137,7 +2556,7 @@ yájuḥ ← yájus- (nominal stem)
 > पृथक् संस्थाश्च निर्ममे ।।  
 > (म.स्मृ.१-२१)
 
- 
+
 > अग्निवायु-रविभ्यस् तु  
 > त्रयं ब्रह्म सनातनम् ।  
 > दुदोह यज्ञसिद्ध्यर्थम्  
@@ -2162,30 +2581,30 @@ yájuḥ ← yájus- (nominal stem)
 एवं यज्ञं निर्वर्तितवन्तः, अथ **तस्माद्यज्ञात् सर्वहुतः** सर्वात्मा पुरुषः पशुत्वेन हूयते अस्मिन्निति सर्वहुत् । अधिकरणे क्विप्।   
 **सम्भृतं** समुत्पन्नं **पृषदाज्यं** पृषत् विचित्रं आज्यं  
 पश्वादिभावेन पानीयं पृषदाज्यं अपां परिणामात्मा द्रव्यविशेषः ।  
-पशव्यः आज्यस्यैव अवस्थाविशेष इत्येके । 
+पशव्यः आज्यस्यैव अवस्थाविशेष इत्येके ।
 
 अथ तत् **पृषदाज्यं** पशंश् **चक्रे** प्राणेन्द्रिय-समष्टिरूपः प्रजापतिः, **वायव्यान्** वायुदेवत्यान् - वायव्य-ग्रहणं तिर्यगर्थं तद्-देवत्यत्वात् तेषाम् । **ये आरण्याः** ये च **ग्राम्यास्** तान् सर्वांश् **चक्रे** ।। ९ ।।
 </details>
 <details><summary>रङ्गरामानुजः</summary>
 
 प्रकृतम् अनुसरामः - **तस्माद्यज्ञात् सर्वहुत** इति ।  
-सर्वं जुहोति त्यजतीति - अङ्गयागो न भवतीति गार्ग्यायणाः - सर्वहुत् पशुः । **सर्वहुतो** यज्ञाख्यात् ब्रह्मणः **पृषदाज्यं संभृतम्** अभूत् । **पृष्टदाज्यं** याज्ञिका दधिमिश्राज्यं प्रचक्षते । अत्र तु सृज्य-प्राणि-जनन-हेतुभूतं वीर्यं **पृषदाज्यं** भवतीति प्रोच्यते । तद्यथा चित्ररूपं भवति, एवमेव पशोर् नीलादि विचित्रभूतं वस्तु जातं भूतमित्यर्थः । 
+सर्वं जुहोति त्यजतीति - अङ्गयागो न भवतीति गार्ग्यायणाः - सर्वहुत् पशुः । **सर्वहुतो** यज्ञाख्यात् ब्रह्मणः **पृषदाज्यं संभृतम्** अभूत् । **पृष्टदाज्यं** याज्ञिका दधिमिश्राज्यं प्रचक्षते । अत्र तु सृज्य-प्राणि-जनन-हेतुभूतं वीर्यं **पृषदाज्यं** भवतीति प्रोच्यते । तद्यथा चित्ररूपं भवति, एवमेव पशोर् नीलादि विचित्रभूतं वस्तु जातं भूतमित्यर्थः ।
 
-**पशूंस् ताँश्चक्रे वायव्यान्** । वायुशब्देन वायुमताऽन्तरिक्षण गतिर् लक्ष्यते । **वायव्यान् पशून्** पुरुषश् **चक्रे** ससर्ज । **आरण्यान्** व्याघ्रादीन् । आरण्यशब्दः पशुविशेषणम् । ग्राम्यशब्दश्च । **ग्राम्याश्च ये** पशवः मार्जारादयः, वराहादयो वा, तान् चक्रे; वायव्या ये आरण्याः, तानपि **चक्रे** ।। ९ ।। 
+**पशूंस् ताँश्चक्रे वायव्यान्** । वायुशब्देन वायुमताऽन्तरिक्षण गतिर् लक्ष्यते । **वायव्यान् पशून्** पुरुषश् **चक्रे** ससर्ज । **आरण्यान्** व्याघ्रादीन् । आरण्यशब्दः पशुविशेषणम् । ग्राम्यशब्दश्च । **ग्राम्याश्च ये** पशवः मार्जारादयः, वराहादयो वा, तान् चक्रे; वायव्या ये आरण्याः, तानपि **चक्रे** ।। ९ ।।
 </details>
 <details><summary>शौनक-संहिता-भाष्यम्</summary>
 
-**सर्वहुतस् तस्माद् यज्ञात्** - **यज्ञात्** अश्वभूताद् यज्ञपुरुषात् **संभृतम्** संपादितं यत् किंचिद् द्रव्यजातं तत् **पृषदाज्यम्** । दधिमिश्रम् आज्यं **पृषदाज्यम्** इत्युच्यते । तद् आसीत् । 
+**सर्वहुतस् तस्माद् यज्ञात्** - **यज्ञात्** अश्वभूताद् यज्ञपुरुषात् **संभृतम्** संपादितं यत् किंचिद् द्रव्यजातं तत् **पृषदाज्यम्** । दधिमिश्रम् आज्यं **पृषदाज्यम्** इत्युच्यते । तद् आसीत् ।
 
-अथ तत् **पृषदाज्यम्** कर्म ते देवाः साध्यनामकाः **वायव्यान्** वायुदेवत्यान् **आरण्यान्** अरण्योद्भवान् द्वि-खुर--श्वापद-पक्षि-सरीसृप-हस्ति-मर्कट-नादेयाख्यान् सप्त-संख्याकान् एवम्-आदिकान् अन्यान् **आरण्यान्** **पशूंश् चक्रे** चक्रिरे । 'तिडां तिडो भवन्ति' (पा.सू.) इति झस्य तादेशः । 
+अथ तत् **पृषदाज्यम्** कर्म ते देवाः साध्यनामकाः **वायव्यान्** वायुदेवत्यान् **आरण्यान्** अरण्योद्भवान् द्वि-खुर--श्वापद-पक्षि-सरीसृप-हस्ति-मर्कट-नादेयाख्यान् सप्त-संख्याकान् एवम्-आदिकान् अन्यान् **आरण्यान्** **पशूंश् चक्रे** चक्रिरे । 'तिडां तिडो भवन्ति' (पा.सू.) इति झस्य तादेशः ।
 
-**ये च ग्राम्याः** ग्रामोद्भवा गोऽश्वाजाविपुरुषगर्दभोष्ट्रा एवमादिका अन्ये ग्राम्याश्च ये सन्ति तान् **पशूंश्चक्रिरे** । अरण्ये भवा **आरण्याः** । 'तत्र भवः' (पा.सू.४-३-५३) इति अण् प्रत्ययः । 'ग्रामाद् यखो ' (पा.सू.४-२-९४) इति ग्रामशब्दात् शैषिको यञ् प्रत्ययः । आरण्यपशुविशेषणे तच्छब्दस्य प्रसिद्धिवाचकत्वम् । ग्राम्यविशेषणे यच्छब्दयोगात् तच्छब्दस्य प्रतिनिर्देशः । 
+**ये च ग्राम्याः** ग्रामोद्भवा गोऽश्वाजाविपुरुषगर्दभोष्ट्रा एवमादिका अन्ये ग्राम्याश्च ये सन्ति तान् **पशूंश्चक्रिरे** । अरण्ये भवा **आरण्याः** । 'तत्र भवः' (पा.सू.४-३-५३) इति अण् प्रत्ययः । 'ग्रामाद् यखो ' (पा.सू.४-२-९४) इति ग्रामशब्दात् शैषिको यञ् प्रत्ययः । आरण्यपशुविशेषणे तच्छब्दस्य प्रसिद्धिवाचकत्वम् । ग्राम्यविशेषणे यच्छब्दयोगात् तच्छब्दस्य प्रतिनिर्देशः ।
 
-पशूनाम् अन्तरिक्षद्वारा वायुदेवत्यत्वं मन्त्रान्तरव्याख्याने तैत्तिरीयाः समामनन्ति । 'वायवः स्थेत्याह । वायुर्वा अन्तरिक्षस्याध्यक्षाः । अन्तरिक्षदेवत्याः खलु वै पशवः । वायव एवैनान् परिददाति' इति (तै.ब्रा.३-२-१-४) । आरण्यानामेव वायुरधिपतिरिति केचित् । 
+पशूनाम् अन्तरिक्षद्वारा वायुदेवत्यत्वं मन्त्रान्तरव्याख्याने तैत्तिरीयाः समामनन्ति । 'वायवः स्थेत्याह । वायुर्वा अन्तरिक्षस्याध्यक्षाः । अन्तरिक्षदेवत्याः खलु वै पशवः । वायव एवैनान् परिददाति' इति (तै.ब्रा.३-२-१-४) । आरण्यानामेव वायुरधिपतिरिति केचित् ।
 
-अध्यात्मपक्षे **- सर्वहुतस् तस्माद् यज्ञात्** पूर्वोक्ताद् मानसाद् **यज्ञात् संभृतम्** समुत्पन्नं **पृषदाज्यं** - पृषत् = विचित्रं, बिन्दुमद् आज्यम् । 
+अध्यात्मपक्षे **- सर्वहुतस् तस्माद् यज्ञात्** पूर्वोक्ताद् मानसाद् **यज्ञात् संभृतम्** समुत्पन्नं **पृषदाज्यं** - पृषत् = विचित्रं, बिन्दुमद् आज्यम् ।
 
-अथ तत् **पृषदाज्यम्** कर्म आरण्यान् ग्राम्यांश्च द्विविधान् **पशुंश्चक्रे** प्राणेन्द्रिय-समष्टिरूपः प्रजापतिः । 
+अथ तत् **पृषदाज्यम्** कर्म आरण्यान् ग्राम्यांश्च द्विविधान् **पशुंश्चक्रे** प्राणेन्द्रिय-समष्टिरूपः प्रजापतिः ।
 
 तत्रैव अर्थान्तरम् । **पृषदाज्यम्** दधिमिश्रम् आज्यं संभृतम् संपादितम् । दधि च आज्यं च इत्येवमादि भोग्यजातं सर्वं संपादितम् इत्यर्थः । तथा द्विविधान् **पशुंश्चक्रे** प्राणेन्द्रियसमष्टिरूपः प्रजापतिर् एवेति ।। १४ ।।
 </details>
@@ -2208,7 +2627,7 @@ It [=the sacrifice] was made into the animals: those of the air (and both) those
 <details><summary>Griffith</summary>
 
 From that great general sacrifice the dripping fat was gathered up.  
-     He formed the creatures of-the air, and animals both wild and tame.
+He formed the creatures of-the air, and animals both wild and tame.
 </details>
 <details><summary>Geldner</summary>
 
@@ -2345,8 +2764,8 @@ tásmāt ← sá- ~ tá- (pronoun)
 -   *tasmād* ← *tasmāt* ← *tad*
 - \[noun\], ablative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
-    then; particular(a); genitive; instrumental; accusative; there; tad
-    \[word\]; dative; once; same.”
+  then; particular(a); genitive; instrumental; accusative; there; tad
+  \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
 - *aśvā* ← *aśvāḥ* ← *aśva*
 - \[noun\], nominative, plural, masculine
@@ -2355,8 +2774,8 @@ tásmāt ← sá- ~ tá- (pronoun)
 - *ajāyanta* ← *jan*
 - \[verb\], plural, Imperfect
 - “become; originate; be born; transform; happen; result; grow; beget;
-    produce; create; conceive; separate; cause; give birth; grow;
-    produce; generate; be; become; arise; come on.”
+  produce; create; conceive; separate; cause; give birth; grow;
+  produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
 - *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
@@ -2381,7 +2800,7 @@ tásmāt ← sá- ~ tá- (pronoun)
 - *gāvo* ← *gāvaḥ* ← *go*
 - \[noun\], nominative, plural
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
-    leather; hide; horn; language; bowstring; earth; ox; Svarga.”
+  leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
 - *ha*
 - \[adverb\]
@@ -2390,31 +2809,31 @@ tásmāt ← sá- ~ tá- (pronoun)
 - *jajñire* ← *jan*
 - \[verb\], plural, Perfect indicative
 - “become; originate; be born; transform; happen; result; grow; beget;
-    produce; create; conceive; separate; cause; give birth; grow;
-    produce; generate; be; become; arise; come on.”
+  produce; create; conceive; separate; cause; give birth; grow;
+  produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
 - *tasmāt* ← *tad*
 - \[noun\], ablative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
-    then; particular(a); genitive; instrumental; accusative; there; tad
-    \[word\]; dative; once; same.”
+  then; particular(a); genitive; instrumental; accusative; there; tad
+  \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
 - *tasmāj* ← *tasmāt* ← *tad*
 - \[noun\], ablative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
-    then; particular(a); genitive; instrumental; accusative; there; tad
-    \[word\]; dative; once; same.”
+  then; particular(a); genitive; instrumental; accusative; there; tad
+  \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
 - *jātā* ← *jātāḥ* ← *jan*
 - \[verb noun\], nominative, plural
 - “become; originate; be born; transform; happen; result; grow; beget;
-    produce; create; conceive; separate; cause; give birth; grow;
-    produce; generate; be; become; arise; come on.”
+  produce; create; conceive; separate; cause; give birth; grow;
+  produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
 - *ajāvayaḥ* ← *aja*
 - \[noun\], masculine
 - “goat; Vishnu; Brahma; Shiva; Aja; aja \[word\]; Aja; aj; Ocimum
-    gratissimum; Puruṣa.”
+  gratissimum; Puruṣa.”
 ------------------------------------------------------------------------
 - *ajāvayaḥ* ← *avayaḥ* ← *avi*
 - \[noun\], nominative, plural, masculine
@@ -2427,7 +2846,7 @@ tásmāt ← sá- ~ tá- (pronoun)
 </details>
 <details><summary>उवटः</summary>
 
-तस्मादेव यज्ञात्सर्वहुतः प्रज्वालितात् यथा ऋचः सामानि यजूंषि च देवा उत्पादयन्ति छन्दांसि च । एवम् आत्मयज्ञे प्रणवेन दीपिते स्वयमेव ज्ञानात् अधिष्ठितानि भवन्ति । एवं येन परमात्मनि ज्ञायते सर्वे जग्धा(?) सर्वं वाङ्मयं ज्ञानं भवतीति ।। ७ ।। 
+तस्मादेव यज्ञात्सर्वहुतः प्रज्वालितात् यथा ऋचः सामानि यजूंषि च देवा उत्पादयन्ति छन्दांसि च । एवम् आत्मयज्ञे प्रणवेन दीपिते स्वयमेव ज्ञानात् अधिष्ठितानि भवन्ति । एवं येन परमात्मनि ज्ञायते सर्वे जग्धा(?) सर्वं वाङ्मयं ज्ञानं भवतीति ।। ७ ।।
 </details>
 <details><summary>मध्वः</summary>
 
@@ -2439,14 +2858,14 @@ tásmāt ← sá- ~ tá- (pronoun)
 </details>
 <details><summary>शौनक-संहिता-भाष्यम्</summary>
 
-**सर्वहुतः** । 'सुपां सुलुक्' (पा.सू.७-१-३९) इति पञ्चम्येकवचनस्य सुः । सर्वहुतात् । आश्वमेधिकोऽश्वः सर्वहुत: । पुरुषस्य अश्वमेधत्वम् उक्तम् । यद्वा सर्वः अश्वभूतात् **तस्माद् यज्ञात्** पुरुषाद् **ऋचः** पादबद्धा मन्त्राः **सामानि** गीत्यात्मकानि **जज्ञिरे** । 
+**सर्वहुतः** । 'सुपां सुलुक्' (पा.सू.७-१-३९) इति पञ्चम्येकवचनस्य सुः । सर्वहुतात् । आश्वमेधिकोऽश्वः सर्वहुत: । पुरुषस्य अश्वमेधत्वम् उक्तम् । यद्वा सर्वः अश्वभूतात् **तस्माद् यज्ञात्** पुरुषाद् **ऋचः** पादबद्धा मन्त्राः **सामानि** गीत्यात्मकानि **जज्ञिरे** ।
 
-**तस्मात् यज्ञात्** पुरुषात् **छन्दः** । जसो लुक् । **छन्दांसि** । 
-**ह**-शब्दश् चार्थे । छन्दांसि च ऋगाद्यधिष्ठानानि जज्ञिरे । तस्मादेव पुरुषाद् **यजुः** प्रश्लिष्टपाठात्मको मन्त्रः अजायत । 
+**तस्मात् यज्ञात्** पुरुषात् **छन्दः** । जसो लुक् । **छन्दांसि** ।
+**ह**-शब्दश् चार्थे । छन्दांसि च ऋगाद्यधिष्ठानानि जज्ञिरे । तस्मादेव पुरुषाद् **यजुः** प्रश्लिष्टपाठात्मको मन्त्रः अजायत ।
 
-ऋगादीनां लक्षणं जैमिनिना सूत्रितम् । 'तचोदकेषु मन्त्राख्या' (जै.सू.२-१-३२) । 'तेषाम् ऋग् यत्रार्थवशेन पादव्यवस्था' (जै.सू.२-१-३५) । 'गीतिषु सामाख्या' (जै.सू.२-१-३६) । ‘शेषे यजुःशब्दः' (जै.सू.२-१-३७) इति । 
+ऋगादीनां लक्षणं जैमिनिना सूत्रितम् । 'तचोदकेषु मन्त्राख्या' (जै.सू.२-१-३२) । 'तेषाम् ऋग् यत्रार्थवशेन पादव्यवस्था' (जै.सू.२-१-३५) । 'गीतिषु सामाख्या' (जै.सू.२-१-३६) । ‘शेषे यजुःशब्दः' (जै.सू.२-१-३७) इति ।
 
-अध्यात्मपक्षे **सर्वहुतः** सर्वात्मा पुरुषः पशुत्वेन हूयते ऽस्मिन्निति सोऽयं **सर्वहुत्** तस्मात् पूर्वोक्ताद् मानसाद् **यज्ञात्** । शिष्टं समानम् ।। १३ ।। 
+अध्यात्मपक्षे **सर्वहुतः** सर्वात्मा पुरुषः पशुत्वेन हूयते ऽस्मिन्निति सोऽयं **सर्वहुत्** तस्मात् पूर्वोक्ताद् मानसाद् **यज्ञात्** । शिष्टं समानम् ।। १३ ।।
 </details>
 <details><summary>Wilson</summary>
 
@@ -2468,7 +2887,7 @@ Meters were born from it. The sacrificial formula—from it that was born.
 <details><summary>Griffith</summary>
 
 From that great general sacrifice Rcas and Sama-hymns were born:  
-     Therefrom were spells and charms produced; the Yajus had its birth from it.
+Therefrom were spells and charms produced; the Yajus had its birth from it.
 </details>
 <details><summary>Geldner</summary>
 
@@ -2601,7 +3020,7 @@ ucyete ← √vac- (root)
 - *puruṣaṃ* ← *puruṣam* ← *puruṣa*
 - \[noun\], accusative, singular, masculine
 - “man; man; Puruṣa; puṃvajra; puruṣa; servant; puruṣa \[word\];
-    assistant; soldier; soul; commoner; generation; people; doll.”
+  assistant; soldier; soul; commoner; generation; people; doll.”
 ------------------------------------------------------------------------
 - *vy* ← *vi*
 - \[adverb\]
@@ -2610,7 +3029,7 @@ ucyete ← √vac- (root)
 - *adadhuḥ* ← *dhā*
 - \[verb\], plural, Imperfect
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
-    have; enter (a state); supply; hold; take; show.”
+  have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
 - *katidhā*
 - \[adverb\]
@@ -2622,14 +3041,14 @@ ucyete ← √vac- (root)
 - *akalpayan* ← *kalpay* ← *√kﾱp*
 - \[verb\], plural, Imperfect
 - “prepare; assign; create; produce; fix; restore; order; prepare;
-    imitate; restore; make; treat.”
+  imitate; restore; make; treat.”
 ------------------------------------------------------------------------
 - *mukhaṃ* ← *mukham* ← *mukha*
 - \[noun\], nominative, singular, neuter
 - “mouth; mouth; mukha; face; aperture; tip; beginning; etc.; mukha;
-    battlefront; teaching; head; orifice; mukha \[word\]; beginning;
-    mouth; expression; direction; information; surface; best; head;
-    quarter; first; end.”
+  battlefront; teaching; head; orifice; mukha \[word\]; beginning;
+  mouth; expression; direction; information; surface; best; head;
+  quarter; first; end.”
 ------------------------------------------------------------------------
 - *kim* ← *ka*
 - \[noun\], nominative, singular, neuter
@@ -2658,14 +3077,14 @@ ucyete ← √vac- (root)
 - *pādā* ← *pādau* ← *pāda*
 - \[noun\], nominative, dual, masculine
 - “foot; one-fourth; beam; pāda; foot; foundation; pāda \[word\]; leg;
-    leg; animal foot; step; foot; footfall; verse.”
+  leg; animal foot; step; foot; footfall; verse.”
 ------------------------------------------------------------------------
 - *ucyete* ← *vac*
 - \[verb\], dual, Indikativ Pr￤s. Passiv
 - “say; describe; name; tell; address; enumerate; call; state; teach;
-    explain; say; declare; speak; define; declare; order; address;
-    recommend; answer; deem; recite; approve; proclaim; indicate;
-    determine; mention; designate.”
+  explain; say; declare; speak; define; declare; order; address;
+  recommend; answer; deem; recite; approve; proclaim; indicate;
+  determine; mention; designate.”
 ------------------------------------------------------------------------
 </details>
 <details><summary>सायण-भाष्यम्</summary>
@@ -2681,7 +3100,7 @@ From it horses were born and whatever animals have teeth in both jaws. Cows were
 <details><summary>Griffith</summary>
 
 From it were horses born, from it all cattle with two rows of teeth:  
-     From it were generated kine, from it the goats and sheep were born.
+From it were generated kine, from it the goats and sheep were born.
 </details>
 <details><summary>Geldner</summary>
 
@@ -2815,14 +3234,14 @@ padbhyā́m ← pád- (nominal stem)
 - *mukham* ← *mukha*
 - \[noun\], nominative, singular, neuter
 - “mouth; mouth; mukha; face; aperture; tip; beginning; etc.; mukha;
-    battlefront; teaching; head; orifice; mukha \[word\]; beginning;
-    mouth; expression; direction; information; surface; best; head;
-    quarter; first; end.”
+  battlefront; teaching; head; orifice; mukha \[word\]; beginning;
+  mouth; expression; direction; information; surface; best; head;
+  quarter; first; end.”
 ------------------------------------------------------------------------
 - *āsīd* ← *āsīt* ← *as*
 - \[verb\], singular, Imperfect
 - “be; exist; become; originate; happen; result; be; dwell; be born;
-    stay; be; equal; exist; transform.”
+  stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
 - *bāhū* ← *bāhuḥ* ← *bāhu*
 - \[noun\], nominative, singular, masculine
@@ -2835,13 +3254,13 @@ padbhyā́m ← pád- (nominal stem)
 - *kṛtaḥ* ← *kṛ*
 - \[verb noun\], nominative, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
-    into; use; fuel; transform; bore; act; write; create; prepare;
-    administer; dig; prepare; treat; take effect; add; trace; put on;
-    process; treat; heed; hire; act; produce; assume; eat; ignite; chop;
-    treat; obey; manufacture; appoint; evacuate; choose; understand;
-    insert; happen; envelop; weigh; observe; practice; lend; bring;
-    duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
-    utter; compose.”
+  into; use; fuel; transform; bore; act; write; create; prepare;
+  administer; dig; prepare; treat; take effect; add; trace; put on;
+  process; treat; heed; hire; act; produce; assume; eat; ignite; chop;
+  treat; obey; manufacture; appoint; evacuate; choose; understand;
+  insert; happen; envelop; weigh; observe; practice; lend; bring;
+  duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
+  utter; compose.”
 ------------------------------------------------------------------------
 - *ūrū* ← *ūru*
 - \[noun\], nominative, dual, masculine
@@ -2850,8 +3269,8 @@ padbhyā́m ← pád- (nominal stem)
 - *tad* ← *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
-    then; particular(a); genitive; instrumental; accusative; there; tad
-    \[word\]; dative; once; same.”
+  then; particular(a); genitive; instrumental; accusative; there; tad
+  \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
@@ -2876,8 +3295,8 @@ padbhyā́m ← pád- (nominal stem)
 - *ajāyata* ← *jan*
 - \[verb\], singular, Imperfect
 - “become; originate; be born; transform; happen; result; grow; beget;
-    produce; create; conceive; separate; cause; give birth; grow;
-    produce; generate; be; become; arise; come on.”
+  produce; create; conceive; separate; cause; give birth; grow;
+  produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
 </details>
 <details><summary>सायण-भाष्यम्</summary>
@@ -2898,7 +3317,7 @@ What was his mouth? What his two arms? What are said to be his two  thighs, his 
 <details><summary>Griffith</summary>
 
 When they divided Purusa how many portions did they make?  
-     What do they call his mouth, his arms? What do they call his thighs and feet?
+What do they call his mouth, his arms? What do they call his thighs and feet?
 </details>
 <details><summary>Geldner</summary>
 
@@ -3026,13 +3445,13 @@ vāyúḥ ← vāyú- (nominal stem)
 - *manaso* ← *manasaḥ* ← *manas*
 - \[noun\], ablative, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
-    \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
+  \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 ------------------------------------------------------------------------
 - *jātaś* ← *jātaḥ* ← *jan*
 - \[verb noun\], nominative, singular
 - “become; originate; be born; transform; happen; result; grow; beget;
-    produce; create; conceive; separate; cause; give birth; grow;
-    produce; generate; be; become; arise; come on.”
+  produce; create; conceive; separate; cause; give birth; grow;
+  produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
 - *cakṣoḥ* ← *cakṣu*
 - \[noun\], ablative, singular, masculine
@@ -3041,25 +3460,25 @@ vāyúḥ ← vāyú- (nominal stem)
 - *sūryo* ← *sūryaḥ* ← *sūrya*
 - \[noun\], nominative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
-    gigantea Beng.; sūryakānta; sunlight; best.”
+  gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
 - *ajāyata* ← *jan*
 - \[verb\], singular, Imperfect
 - “become; originate; be born; transform; happen; result; grow; beget;
-    produce; create; conceive; separate; cause; give birth; grow;
-    produce; generate; be; become; arise; come on.”
+  produce; create; conceive; separate; cause; give birth; grow;
+  produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
 - *mukhād* ← *mukhāt* ← *mukha*
 - \[noun\], ablative, singular, neuter
 - “mouth; mouth; mukha; face; aperture; tip; beginning; etc.; mukha;
-    battlefront; teaching; head; orifice; mukha \[word\]; beginning;
-    mouth; expression; direction; information; surface; best; head;
-    quarter; first; end.”
+  battlefront; teaching; head; orifice; mukha \[word\]; beginning;
+  mouth; expression; direction; information; surface; best; head;
+  quarter; first; end.”
 ------------------------------------------------------------------------
 - *indraś* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
-    Indra; sapphire; fourteen; guru.”
+  Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
 - *cāgniś* ← *ca*
 - \[adverb\]
@@ -3068,8 +3487,8 @@ vāyúḥ ← vāyú- (nominal stem)
 - *cāgniś* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
-    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
-    jāraṇa; pyre; fireplace; heating.”
+  zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+  jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
 - *ca*
 - \[adverb\]
@@ -3078,18 +3497,18 @@ vāyúḥ ← vāyú- (nominal stem)
 - *prāṇād* ← *prāṇāt* ← *prāṇa*
 - \[noun\], ablative, singular, masculine
 - “life; prāṇa (coll.); breath; breath; prāṇa (indiv.); inhalation;
-    Prāṇa; might; myrrh; energy; survival.”
+  Prāṇa; might; myrrh; energy; survival.”
 ------------------------------------------------------------------------
 - *vāyur* ← *vāyuḥ* ← *vāyu*
 - \[noun\], nominative, singular, masculine
 - “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
-    draft; vāyu \[word\]; Vāyu; Marut.”
+  draft; vāyu \[word\]; Vāyu; Marut.”
 ------------------------------------------------------------------------
 - *ajāyata* ← *jan*
 - \[verb\], singular, Imperfect
 - “become; originate; be born; transform; happen; result; grow; beget;
-    produce; create; conceive; separate; cause; give birth; grow;
-    produce; generate; be; become; arise; come on.”
+  produce; create; conceive; separate; cause; give birth; grow;
+  produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
 </details>
 <details><summary>सायण-भाष्यम्</summary>
@@ -3114,7 +3533,7 @@ As to his thighs—that is what the freeman was. From his two feet the  servant 
 <details><summary>Griffith</summary>
 
 The Brahman was his mouth, of both his arms was the Rajanya made.  
-     His thighs became the Vaisya, from his feet the Sudra was produced.
+His thighs became the Vaisya, from his feet the Sudra was produced.
 </details>
 <details><summary>Geldner</summary>
 
@@ -3159,7 +3578,7 @@ Aus seinem Geiste entsprang der Mond, aus seinem Auge die Sonne, aus seinem Mund
 
 
 च॒न्द्रमा॒ मन॑सो जा॒तः । चक्षोः॒+++(=चक्षुषः)+++ सूर्यो॑ अजायत ।  
-मुखा॒द् इन्द्र॑श् चा॒ग्निश् च॑ ।  प्रा॒णाद् वा॒युर् अ॑जायत । १४  
+मुखा॒द् इन्द्र॑श् चा॒ग्निश् च॑ ।  प्रा॒णाद् वा॒युर् अ॑जायत । १४
 
 </details>
 </div>
@@ -3249,12 +3668,12 @@ táthā ← táthā (invariable)
 -   *nābhyā* ← *nābhyāḥ* ← *nābhi*
 - \[noun\], ablative, singular, feminine
 - “navel; hub; kinship; beginning; origin; umbilical cord; nābhi
-    \[word\]; friendship; center.”
+  \[word\]; friendship; center.”
 ------------------------------------------------------------------------
 - *āsīd* ← *āsīt* ← *as*
 - \[verb\], singular, Imperfect
 - “be; exist; become; originate; happen; result; be; dwell; be born;
-    stay; be; equal; exist; transform.”
+  stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
 - *antarikṣaṃ* ← *antarikṣam* ← *antarikṣa*
 - \[noun\], nominative, singular, neuter
@@ -3275,8 +3694,8 @@ táthā ← táthā (invariable)
 - *avartata* ← *vṛt*
 - \[verb\], singular, Imperfect
 - “behave; happen; exist; return; dwell; die; roll; continue; act;
-    exist; feed on; issue; move; travel; proceed; turn; situate; drive;
-    account for; begin; do; inhere; revolve.”
+  exist; feed on; issue; move; travel; proceed; turn; situate; drive;
+  account for; begin; do; inhere; revolve.”
 ------------------------------------------------------------------------
 - *padbhyām* ← *pad*
 - \[noun\], ablative, dual, masculine
@@ -3285,13 +3704,13 @@ táthā ← táthā (invariable)
 - *bhūmir* ← *bhūmiḥ* ← *bhūmi*
 - \[noun\], nominative, singular, feminine
 - “floor; earth; Earth; real property; region; pṛthivī; location;
-    Earth; place; bhūja; floor; pit; bhūmi \[word\]; one; hole; shop;
-    distance; country; space; land; territory; topographic point.”
+  Earth; place; bhūja; floor; pit; bhūmi \[word\]; one; hole; shop;
+  distance; country; space; land; territory; topographic point.”
 ------------------------------------------------------------------------
 - *diśaḥ* ← *diś*
 - \[noun\], nominative, plural, feminine
 - “quarter; direction; region; diś \[word\]; Aṣṭādhyāyī, 5.3.27;
-    distant region; Diś; four; example; method; space.”
+  distant region; Diś; four; example; method; space.”
 ------------------------------------------------------------------------
 - *śrotrāt* ← *śrotra*
 - \[noun\], ablative, singular, neuter
@@ -3300,17 +3719,17 @@ táthā ← táthā (invariable)
 - *tathā*
 - \[adverb\]
 - “and; thus; besides; very well; so; then; in that manner; now;
-    therefore; however; so.”
+  therefore; however; so.”
 ------------------------------------------------------------------------
 - *lokāṃ* ← *loka*
 - \[noun\], accusative, plural, masculine
 - “Loka; Earth; world; vernacular; people; room; world; Earth; loka
-    \[word\]; space; Loka; topographic point; region; common sense.”
+  \[word\]; space; Loka; topographic point; region; common sense.”
 ------------------------------------------------------------------------
 - *akalpayan* ← *kalpay* ← *√kﾱp*
 - \[verb\], plural, Imperfect
 - “prepare; assign; create; produce; fix; restore; order; prepare;
-    imitate; restore; make; treat.”
+  imitate; restore; make; treat.”
 ------------------------------------------------------------------------
 </details>
 <details><summary>सायण-भाष्यम्</summary>
@@ -3334,7 +3753,7 @@ The moon was born from his mind. From his eye the sun was born. From his mouth I
 <details><summary>Griffith</summary>
 
 The Moon was gendered from his mind, and from his eye the Sun had birth;  
-     Indra and Agni from his mouth were born, and Vayu from his breath.
+Indra and Agni from his mouth were born, and Vayu from his breath.
 </details>
 <details><summary>Geldner</summary>
 
@@ -3480,7 +3899,7 @@ púruṣam ← púruṣa- (nominal stem)
 - *saptāsyāsan* ← *āsan* ← *as*
 - \[verb\], plural, Imperfect
 - “be; exist; become; originate; happen; result; be; dwell; be born;
-    stay; be; equal; exist; transform.”
+  stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
 - *paridhayas* ← *paridhayaḥ* ← *paridhi*
 - \[noun\], nominative, plural, masculine
@@ -3501,18 +3920,18 @@ púruṣam ← púruṣa- (nominal stem)
 - *kṛtāḥ* ← *kṛ*
 - \[verb noun\], nominative, plural
 - “make; perform; cause; produce; shape; construct; do; put; fill
-    into; use; fuel; transform; bore; act; write; create; prepare;
-    administer; dig; prepare; treat; take effect; add; trace; put on;
-    process; treat; heed; hire; act; produce; assume; eat; ignite; chop;
-    treat; obey; manufacture; appoint; evacuate; choose; understand;
-    insert; happen; envelop; weigh; observe; practice; lend; bring;
-    duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
-    utter; compose.”
+  into; use; fuel; transform; bore; act; write; create; prepare;
+  administer; dig; prepare; treat; take effect; add; trace; put on;
+  process; treat; heed; hire; act; produce; assume; eat; ignite; chop;
+  treat; obey; manufacture; appoint; evacuate; choose; understand;
+  insert; happen; envelop; weigh; observe; practice; lend; bring;
+  duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
+  utter; compose.”
 ------------------------------------------------------------------------
 - *devā* ← *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
-    Viśvedevās; mercury; natural phenomenon; gambling.”
+  Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
 - *yad* ← *yat*
 - \[adverb\]
@@ -3525,25 +3944,25 @@ púruṣam ← púruṣa- (nominal stem)
 - *tanvānā* ← *tanvānāḥ* ← *tan*
 - \[verb noun\], nominative, plural
 - “expand; perform; cause; increase; write; spread; produce; spread;
-    speak; propagate.”
+  speak; propagate.”
 ------------------------------------------------------------------------
 - *abadhnan* ← *bandh*
 - \[verb\], plural, Imperfect
 - “bandh; tie; envelop; close; dress; wrap; bind; constipate; fixate;
-    shape; paralyze; construct; bandage; compress; beset; oblige; strap;
-    restrain; bind; gesticulate; wear; bar; bandh; connect; stud; mix;
-    obstruct; write; restrain; bind; persecute; enclose; ligature; fill
-    into; fasten.”
+  shape; paralyze; construct; bandage; compress; beset; oblige; strap;
+  restrain; bind; gesticulate; wear; bar; bandh; connect; stud; mix;
+  obstruct; write; restrain; bind; persecute; enclose; ligature; fill
+  into; fasten.”
 ------------------------------------------------------------------------
 - *puruṣam* ← *puruṣa*
 - \[noun\], accusative, singular, masculine
 - “man; man; Puruṣa; puṃvajra; puruṣa; servant; puruṣa \[word\];
-    assistant; soldier; soul; commoner; generation; people; doll.”
+  assistant; soldier; soul; commoner; generation; people; doll.”
 ------------------------------------------------------------------------
 - *paśum* ← *paśu*
 - \[noun\], accusative, singular, masculine
 - “domestic animal; sacrificial animal; animal; cattle; Paśu; stupid;
-    Paśu; herd; goat.”
+  Paśu; herd; goat.”
 ------------------------------------------------------------------------
 </details>
 <details><summary>सायण-भाष्यम्</summary>
@@ -3563,7 +3982,7 @@ From his navel was the midspace. From his head the heaven developed. From his tw
 <details><summary>Griffith</summary>
 
 Forth from his navel came mid-air the sky was fashioned from his head  
-     Earth from his feet, and from his car the regions. Thus they formed the worlds.
+Earth from his feet, and from his car the regions. Thus they formed the worlds.
 </details>
 <details><summary>Geldner</summary>
 
@@ -3724,34 +4143,34 @@ yátra ← yátra (invariable)
 - *devās* ← *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
-    Viśvedevās; mercury; natural phenomenon; gambling.”
+  Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
 - *tāni* ← *tad*
 - \[noun\], nominative, plural, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
-    then; particular(a); genitive; instrumental; accusative; there; tad
-    \[word\]; dative; once; same.”
+  then; particular(a); genitive; instrumental; accusative; there; tad
+  \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
 - *dharmāṇi* ← *dharma*
 - \[noun\], nominative, plural, neuter
 - “Dharma; custom; dharma \[word\]; regulation; duty; Dharma; Dharma;
-    Dharma; Dharma; law; law; peculiarity; justice.”
+  Dharma; Dharma; law; law; peculiarity; justice.”
 ------------------------------------------------------------------------
 - *prathamāny* ← *prathamāni* ← *prathama*
 - \[noun\], nominative, plural, neuter
 - “first; prathama \[word\]; third; young; chief(a); best;
-    antecedent.”
+  antecedent.”
 ------------------------------------------------------------------------
 - *āsan* ← *as*
 - \[verb\], plural, Imperfect
 - “be; exist; become; originate; happen; result; be; dwell; be born;
-    stay; be; equal; exist; transform.”
+  stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
 - *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
-    then; particular(a); genitive; instrumental; accusative; there; tad
-    \[word\]; dative; once; same.”
+  then; particular(a); genitive; instrumental; accusative; there; tad
+  \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
 - *ha*
 - \[adverb\]
@@ -3776,8 +4195,8 @@ yátra ← yátra (invariable)
 - *pūrve* ← *pūrva*
 - \[noun\], nominative, plural, masculine
 - “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
-    pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
-    firstborn; easterly; instrumental.”
+  pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
+  firstborn; easterly; instrumental.”
 ------------------------------------------------------------------------
 - *sādhyāḥ* ← *sādhya*
 - \[noun\], nominative, plural, masculine
@@ -3786,17 +4205,17 @@ yátra ← yátra (invariable)
 - *santi* ← *as*
 - \[verb\], plural, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
-    stay; be; equal; exist; transform.”
+  stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
 - *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
-    Viśvedevās; mercury; natural phenomenon; gambling.”
+  Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
 </details>
 <details><summary>सायण-भाष्यम्</summary>
 
-पूर्व प्रपञ्चेनोक्तमर्थं संक्षिप्यात्र दर्शयति । **देवाः** प्रजापतिप्राणरूपाः **यज्ञेन** यथोक्तेन मानसेन संकल्पेन यज्ञं यथोक्तयज्ञस्वरूपं प्रजापतिम् **अयजन्त** पूजितवन्तः । तस्मात्पूजनात् **तानि** प्रसिद्धानि **धर्माणि** जगद्-रूप-विकाराणां धारकाणि **प्रथमानि** मुख्यानि **आसन्** । एतावता सृष्टि-प्रतिपादक-सूक्त-भागार्थः संगृहीतः । 
+पूर्व प्रपञ्चेनोक्तमर्थं संक्षिप्यात्र दर्शयति । **देवाः** प्रजापतिप्राणरूपाः **यज्ञेन** यथोक्तेन मानसेन संकल्पेन यज्ञं यथोक्तयज्ञस्वरूपं प्रजापतिम् **अयजन्त** पूजितवन्तः । तस्मात्पूजनात् **तानि** प्रसिद्धानि **धर्माणि** जगद्-रूप-विकाराणां धारकाणि **प्रथमानि** मुख्यानि **आसन्** । एतावता सृष्टि-प्रतिपादक-सूक्त-भागार्थः संगृहीतः ।
 
 अथोपासन-तत्-फलानुवादक-भागार्थः संगृह्यते ।  
 **यत्र** यस्मिन् विराट्प्राप्ति-रूपे नाके **पूर्वे** **साध्याः** पुरातना विराड्-उपास्ति-साधकाः **देवाः** **सन्ति** तिष्ठन्ति तत् **नाकं** विराट्-प्राप्ति-रूपं स्वर्गं **ते** **महिमानः** तद्-उपासका महात्मानः **सचन्त** समवयन्ति प्राप्नुवन्ति ॥ ॥ १९ ॥ ॥ ७ ॥
@@ -3825,22 +4244,22 @@ where the ancient Sādhyas and the gods are.
 The verse is RV. i. 164. 50,\* found also in VS. (xxxi. 16), TS. (iii.
 5. 11⁵), TA. (iii. 12. 7), MS. (iv. 10. 3), CB. (x. 2. 2³, with  
    comment); ⌊*Kaṭha-hss.*, p. 83;⌋ the only variant is *sacante* for  
-   *sacanta* in TS.TA. 
-   
-> "This passage and vii. 79. 2 cast light upon the idea of *sādhya;* there are two kinds of gods: 
-> 
-> - those with Indra at their head and 
-> - the *sādhya* 'they who are to be won' (*sādhya* 'what is to be  
-   brought into order, under control, or into comprehension'). 
+   *sacanta* in TS.TA.
 
-> They are thus the unknown, conceived as preceding the known. Later they are worked into the ordinary classification of Vasus, Rudras, etc.; and what was formerly a serious religious problem, a hierarchy conceived as possible before the now-accepted gods (something like the pre-Olympians with the Greeks), has become an empty name." 
-> 
+> "This passage and vii. 79. 2 cast light upon the idea of *sādhya;* there are two kinds of gods:
+>
+> - those with Indra at their head and
+> - the *sādhya* 'they who are to be won' (*sādhya* 'what is to be  
+    brought into order, under control, or into comprehension').
+
+> They are thus the unknown, conceived as preceding the known. Later they are worked into the ordinary classification of Vasus, Rudras, etc.; and what was formerly a serious religious problem, a hierarchy conceived as possible before the now-accepted gods (something like the pre-Olympians with the Greeks), has become an empty name."
+>
 > R. \*⌊Also RV. x. 90. 16.⌋
 </details>
 <details><summary>Griffith</summary>
 
 Gods, sacrificing, sacrificed the victim these were the earliest holy ordinances.  
-     The Mighty Ones attained the height of heaven, there where the Sidhyas, Gods of old, are dwelling.
+The Mighty Ones attained the height of heaven, there where the Sidhyas, Gods of old, are dwelling.
 </details>
 <details><summary>Griffith - AV</summary>
 
@@ -3925,27 +4344,26 @@ Durch Opfer opferten die Götter das Opfer; das waren die ersten Bräuche; sie, 
 अ॒हो॒रा॒त्रे पा॒र्श्वे ।  
 नक्ष॑त्राणि रू॒पम् ।  
 अ॒श्विनौ॒ व्यात्त॑म् +++(=मुखम्)+++ ।  
-+++(अश्विनयोः खल्ववर्तत विशुवस्थानम् पुरा।)+++  
++++(अश्विनयोः खल्ववर्तत विशुवस्थानम् पुरा।)+++
 
 इ॒ष्टम् म॑निषाण+++(=यच्छ)+++ । अ॒मुं +++(स्वर्लोकं)+++ म॑निषाण ।  सर्व॑म्  मनिषाण । ६
 </details>
 </div>  
 
 
- 
+
 भ॒र्ता सन्भ्रि॒यमा॑णो बिभर्ति । एको॑ दे॒वो ब॑हु॒धा निवि॑ष्टः । य॒दा भा॒रन्त॒न्द्रय॑ते॒ स भर्तु᳚म् । नि॒धाय॑ भा॒रं पुन॒रस्त॑मेति । तमे॒व मृ॒त्युम॒मृत॒न्तमा॑हुः । तं भ॒र्तार॒न्तमु॑ गो॒प्तार॑माहुः । स भृ॒तो भ्रि॒यमा॑णो बिभर्ति । य ए॑न॒व्ँ वेद॑ स॒त्येन॒ भर्तु᳚म् । स॒द्यो जा॒तमु॒त ज॑हात्ये॒षः । उ॒तो जर॑न्त॒न्न ज॑हा॒त्येक᳚म् । (41)  
 उ॒तो ब॒हूनेक॒मह॑र्जहार । अत॑न्द्रो दे॒वस्सद॑मे॒व प्रार्थः॑ । यस्तद्वेद॒ यत॑ आब॒भूव॑ । स॒न्धाञ्च॒ याꣳ स॑न्द॒धे ब्रह्म॑णै॒षः । रम॑ते॒ तस्मि॑न्नु॒त जी॒र्णे शया॑ने । नैन॑ञ्जहा॒त्यह॑स्सु पू॒र्व्येषु॑ । त्वामापो॒ अनु॒ सर्वा᳚श्चरन्ति जान॒तीः । व॒थ्सं पय॑सा पुना॒नाः । त्वम॒ग्निꣳ ह॑व्य॒वाह॒ꣳ॒ समि᳚न्थ्से । त्वं भ॒र्ता मा॑त॒रिश्वा᳚ प्र॒जाना᳚म् । (42)  
 त्वय्ँय॒ज्ञस्त्वमु॑वे॒वासि॒ सोमः॑ । तव॑ दे॒वा हव॒माय॑न्ति॒ सर्वे᳚ । त्वमेको॑ऽसि ब॒हूननु॒प्रवि॑ष्टः । नम॑स्ते अस्तु सु॒हवो॑ म एधि । नमो॑ वामस्तु शृणु॒तꣳ हवं॑ मे । प्राणा॑पानावजि॒रꣳ स॒ञ्चर॑न्तौ । ह्वया॑मि वां॒ ब्रह्म॑णा तू॒र्तमेत᳚म् । यो मान्द्वेष्टि॒ तञ्ज॑हितय्ँ युवाना । प्राणा॑पानौ सव्ँ विदा॒नौ ज॑हितम् । अ॒मुष्यासु॑ना॒मा सङ्ग॑साथाम् । (43)  
 तं मे॑ देवा॒ ब्रह्म॑णा सव्ँ विदा॒नौ । व॒धाय॑ दत्त॒न्तम॒हꣳ ह॑नामि । अस॑ज्जजान स॒त आब॑भूव । यय्ँय॑ञ्ज॒जान॒ स उ॑ गो॒पो अ॑स्य । य॒दा भा॒रन्त॒न्द्रय॑ते॒ स भर्तु᳚म् । प॒रास्य॑ भा॒रं पुन॒रस्त॑मेति । तद्वै त्वं प्रा॒णो अ॑भवः । म॒हान्भोगः॑ प्र॒जाप॑तेः । भुजः॑ करि॒ष्यमा॑णः । यद्दे॒वान्प्राण॑यो॒ नव॑ ॥ (44)  
 हरि॒ꣳ॒ हर॑न्त॒मनु॑यन्ति दे॒वाः । विश्व॒स्येशा॑नव्ँ वृष॒भं म॑ती॒नाम् । ब्रह्म॒ सरू॑प॒मनु॑मे॒दमागा᳚त् । अय॑नं॒ मा विव॑धी॒र्विक्र॑मस्व । मा छि॑दो मृत्यो॒ मा व॑धीः । मा मे॒ बल॒व्ँ विवृ॑हो॒ मा प्रमो॑षीः । प्र॒जां मा मे॑ रीरिष॒ आयु॑रुग्र । नृ॒चक्ष॑सन्त्वा ह॒विषा॑ विधेम । स॒द्यश्च॑कमा॒नाय॑ । प्र॒वे॒पा॒नाय॑ मृ॒त्यवे᳚ । (45)  
 प्रास्मा॒ आशा॑ अशृण्वन्न् । कामे॑नाजनय॒न्पुनः॑ । कामे॑न मे॒ काम॒ आगा᳚त् । हृद॑या॒द्धृद॑यं मृ॒त्योः । यद॒मीषा॑म॒दः प्रि॒यम् । तदैतूप॒माम॒भि । परं॑ मृत्यो॒ अनु॒ परे॑हि॒ पन्था᳚म् । यस्ते॒ स्व इत॑रो देव॒याना᳚त् । चक्षु॑ष्मते शृण्व॒ते ते᳚ ब्रवीमि । मा नः॑ प्र॒जाꣳ री॑रिषो॒ मोत वी॒रान् । प्र पू॒र्व्यं मन॑सा॒ वन्द॑मानः । नाध॑मानो वृष॒भञ्च॑र्षणी॒नाम् । यः प्र॒जाना॑मेक॒राण्मानु॑षीणाम् । मृ॒त्युय्ँय॑जे प्रथम॒जामृ॒तस्य॑ ॥ (46)  
-त॒रणि॑र्वि॒श्वद॑र्शतो ज्योति॒ष्कृद॑सि सूर्य । विश्व॒मा भा॑सि रोच॒नम् । उ॒प॒या॒मगृ॑हीतोऽसि॒ सूर्या॑य त्वा॒ भ्राज॑स्वत ए॒ष ते॒ योनिः॒ सूर्या॑य त्वा॒ भ्राज॑स्वते ॥ (47) ॥ 16 ॥  
+त॒रणि॑र्वि॒श्वद॑र्शतो ज्योति॒ष्कृद॑सि सूर्य । विश्व॒मा भा॑सि रोच॒नम् । उ॒प॒या॒मगृ॑हीतोऽसि॒ सूर्या॑य त्वा॒ भ्राज॑स्वत ए॒ष ते॒ योनिः॒ सूर्या॑य त्वा॒ भ्राज॑स्वते ॥ (47) ॥ 16 ॥
 
-## 17
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-चमसोपदंसने प्रायश्चित्तं - आप्यायस्वेति गायत्री ॥ 
+चमसोपदंसने प्रायश्चित्तं - आप्यायस्वेति गायत्री ॥
 </details>
 <div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/33-35_sangAhanam/ApyAyasva.md">
 <details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
@@ -3953,7 +4371,7 @@ _______
 
 **आ प्या॑यस्व** मदिन्-तम॒  
 सोम॒ विश्वा॑भिर् ऊ॒तिभिः॑ ।  
-भवा॑ नस् स॒प्रथ॑स्तमः ॥ 
+भवा॑ नस् स॒प्रथ॑स्तमः ॥
 
 </details>
 </div>
@@ -3968,7 +4386,7 @@ Be fullest of help for us.
 <details><summary>मूलम्</summary>
 
 आ प्या॑यस्व मदिन्तम॒ सोम॒ विश्वा॑भिरू॒तिभिः॑ ।  
-भवा॑ नस्स॒प्रथ॑स्तमः ॥ 
+भवा॑ नस्स॒प्रथ॑स्तमः ॥
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3979,11 +4397,10 @@ Be fullest of help for us.
 </div>
 
 
-## 18
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-1 सन्ति वृष्टयो नाम षोडशेष्टकाः 'इयमेव सा या' इत्याद्याः । तासामियं षोडशी ईयुष्ट इति त्रिष्टुप् ॥ 
+1 सन्ति वृष्टयो नाम षोडशेष्टकाः 'इयमेव सा या' इत्याद्याः । तासामियं षोडशी ईयुष्ट इति त्रिष्टुप् ॥
 </details>
 <div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/113/11_IyuShTe_ye.md">
 <details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
@@ -4022,6 +4439,385 @@ genre M
 genre M  
 genre M
 ######## Morph
+ápaśyan ← √paś- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+īyúḥ ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+pū́rvatarām ← pū́rvatara- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+mártyāsaḥ ← mártya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+uṣásam ← uṣás- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vyuchántīm ← √vas- 1 (root)  
+{case:ACC, gender:F, number:SG, tense:PRS, voice:ACT}
+
+abhūt ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+asmā́bhiḥ ← ahám (pronoun)  
+{case:INS, number:PL}
+
+nú ← nú (invariable)  
+{}
+
+praticákṣyā ← praticákṣya- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+u ← u (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+aparī́ṣu ← aparī́- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+páśyān ← √paś- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+u ← u (invariable)  
+{}
+
+yanti ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yé ← yá- (pronoun)  
+{}
+
+</details>
+<details><summary>पद-पाठः</summary>
+
+ई॒युः । ते । ये । पूर्व॑ऽतराम् । अप॑श्यन् । वि॒ऽउ॒च्छन्ती॑म् । उ॒षस॑म् । मर्त्या॑सः ।  
+अ॒स्माभिः॑ । ऊं॒ इति॑ । नु । प्र॒ति॒ऽचक्ष्या॑ । अ॒भू॒त् । ओ इति॑ । ते । य॒न्ति॒ । ये । अ॒प॒रीषु॑ । पश्या॑न् ॥
+</details>
+<details><summary>Hellwig Grammar</summary>
+
+-   *īyuṣ* ← *īyuḥ* ← *i*
+- \[verb\], plural, Perfect indicative
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+------------------------------------------------------------------------
+- *ṭe* ← *tad*
+- \[noun\], nominative, plural, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+  then; particular(a); genitive; instrumental; accusative; there; tad
+  \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *ye* ← *yad*
+- \[noun\], nominative, plural, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *pūrvatarām* ← *pūrvatara*
+- \[noun\], accusative, singular, feminine
+------------------------------------------------------------------------
+- *apaśyan* ← *paś*
+- \[verb\], plural, Imperfect
+- “see; view; watch; meet; observe; think of; look; examine; behold;
+  visit; understand.”
+------------------------------------------------------------------------
+- *vyucchantīm* ← *vivas* ← *√vas*
+- \[verb noun\], accusative, singular
+- “dawn.”
+------------------------------------------------------------------------
+- *uṣasam* ← *uṣas*
+- \[noun\], accusative, singular, feminine
+- “Ushas; dawn; uṣas \[word\]; morning.”
+------------------------------------------------------------------------
+- *martyāsaḥ* ← *martya*
+- \[noun\], nominative, plural, masculine
+- “man; people; martya \[word\]; Earth.”
+------------------------------------------------------------------------
+- *asmābhir* ← *asmābhiḥ* ← *mad*
+- \[noun\], instrumental, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *ū* ← *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *nu*
+- \[adverb\]
+- “now; already.”
+------------------------------------------------------------------------
+- *praticakṣyābhūd* ← *praticakṣya* ← *praticakṣ* ← *√cakṣ*
+- \[verb noun\]
+------------------------------------------------------------------------
+- *praticakṣyābhūd* ← *abhūt* ← *bhū*
+- \[verb\], singular, Root aorist (Ind.)
+- “become; be; originate; transform; happen; result; exist; be born;
+  be; be; come to life; grow; elapse; come to mind; thrive; become;
+  impend; show; conceive; understand; stand; constitute; serve; apply;
+  behave.”
+------------------------------------------------------------------------
+- *o* ← *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *o* ← *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *te* ← *tad*
+- \[noun\], nominative, plural, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+  then; particular(a); genitive; instrumental; accusative; there; tad
+  \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *yanti* ← *i*
+- \[verb\], plural, Present indikative
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+------------------------------------------------------------------------
+- *ye* ← *yad*
+- \[noun\], nominative, plural, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *aparīṣu* ← *aparī*
+- \[noun\], locative, plural, feminine
+- “future.”
+------------------------------------------------------------------------
+- *paśyān* ← *paś*
+- \[verb\], plural, Present conjunctive (subjunctive)
+- “see; view; watch; meet; observe; think of; look; examine; behold;
+  visit; understand.”
+------------------------------------------------------------------------
+</details>
+<details><summary>सायण-भाष्यम्</summary>
+
+**ये** **मर्त्यासः** मरणधर्माणो मनुष्याः **व्युच्छन्तीं** विवासयन्तीं **पूर्वतराम्** अतिशयेन पूर्वां विप्रकृष्टाम् **उषसम्** **अपश्यन्** दृष्टवन्तः **ते** मनुष्याः **ईयुः** गताः। तथा **अस्माभिः** अपि **नु** इदानीं **प्रतिचक्ष्या** प्रकर्षेण द्रष्टव्या **अभूत्** जाता । तथा **अपरीषु** भाविनीषु रात्रिषु **ये** मनुष्याः एतामुषसं **पश्यान्** पश्यन्ति **ते** । आ उ इति निपातद्वयसमुदायः । तत्र उ इत्येतदवधारणे । एव **यन्ति** आगच्छन्त्येव । कालत्रयेऽप्येषा व्याप्य वर्तते इत्यर्थः ॥
+
+**ईयुः** ।  ‘ इण् गतौ '। 'लिटि उसि इणो यण्' इति यणादेशः ।  ‘द्विर्वचनेऽचि' इति तस्य स्थानिवद्भावात् द्विर्भावे 'दीर्घ इणः किति' (पा. सू. . ७. ४. ६९ ) इति अभ्यासस्य दीर्घत्वम् ।
+
+**ते** ।  ‘ युष्मत्-तत्-ततक्षुःष्वन्तःपादम्' इति सकारस्य षत्वं ष्टुत्वं च ।
+
+**मर्त्यासः** ।  ‘ आज्जसेरसुक्' ॥
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+**ईयुः** गताः **ते** माः **ये पूर्वतरां** पुराणतरां अतीतां **व्युच्छन्तीं** विवसन्तीं उषसं अपश्यन् दृष्टवन्तः । अस्माभिर् एव त्व् इदानीं **प्रतिचक्ष्या** प्रतिदिनं द्रष्टव्या **अभूत्** । ख्याञादेशाभावश्छान्दसः । **ये** पुनः **अपरीषु** परासु अनागतासु उपस्सु **पश्यान्** पश्येयुः द्रष्टारः स्युः । लेट्याडागमः ।  
+तेऽप्यायन्त्येव आगमिष्यन्त्येव । एवं त्रैकाल्येऽपि सर्वैः प्रतीक्ष्यते उषसो महिमा ।
+
+आ उ **ओ** इति निपातसमुदायात्मा निपातः । अपरशब्दात् छन्दसो ङीष् । एवमात्मज्योतिर् एव व्याप्य तिष्ठतीति उषसस्-स्तुतिः ॥
+</details>
+<details><summary>Wilson</summary>
+
+####### English translation:
+
+“Those mortals who beheld the pristine Uṣās dawning have passed away; to us she is now visible, and they approach who may behold her in after times.”
+</details>
+<details><summary>Jamison Brereton</summary>
+
+They have gone, the mortals who saw the earlier dawn dawning forth. (This dawn) has now come to be gazed upon by us. And there are those  coming hither who will see (the dawn) in the future.
+</details>
+<details><summary>Jamison Brereton Notes</summary>
+
+With Grassmann (et al.) I take praticákṣyā as the gerundive; cf. I.124.8.
+
+
+
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/113/07-13.md">
+<details open><summary><h7>07-13 ...{Loading}...</h7></summary>
+<details><summary>Jamison Brereton Notes</summary>
+
+These verses have a surprising density of forms of ví √vas ‘dawn forth’ (7b, d, 8c, 9b, 10b [2x], 11b, 12d, 13a, b, c), whereas vss. 1-6 lack any such forms -- though there’s a teasing echo in 4b ví … āvaḥ ‘She opened, uncovered’, belonging, however, to √vṛ. See also comments on vs. 14.
+</details>
+</details>
+</div>
+</details>
+<details><summary>Griffith</summary>
+
+Gone are the men who in the days before us looked on the rising of the earlier Morning.  
+We, we the living, now behold her brightness and they come nigh who shall hereafter see her.
+</details>
+<details><summary>Macdonell</summary>
+
+Gone are those mortals who in former ages Beheld the flushing of the early morning; We living men now look upon her shining: Those will be born who shall hereafter see her.
+</details>
+<details><summary>Keith</summary>
+
+Departed are those mortals who in days gone by behold  
+An earlier dawn of morning;  
+Dawn now hath become visible to us;  
+They come who shall behold her in days to come.
+</details>
+<details><summary>Geldner</summary>
+
+Vergangen sind die Sterblichen, welche die früheren Usas´ aufgehen sahen, jetzt hat sie sich von uns beschauen lassen; es kommen die, welche sie in Zukunft sehen werden.
+</details>
+<details><summary>Grassmann</summary>
+
+Verschwunden sind die Menschen, welche schauten die Morgenröthe, die da früher strahlte; Jetzt hat sie sich von uns erblicken lassen, es kommen noch, die sie in Zukunft schauen.
+</details>
+<details><summary>Elizarenkova</summary>
+
+Ушли те смертные, что видели,  
+Как зажигается более древняя Ушас.  
+Это нам теперь она явилась воочию.  
+Идут и те, кто увидит ее в будущие времена.
+</details>
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- उषाः द्वितीयस्यार्द्धर्चस्य रात्रिरपि
+- कुत्स आङ्गिरसः
+- भुरिक्पङ्क्ति
+- पञ्चमः
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+फिर प्रभात विषय को अगले मन्त्र में कहा है ।
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (ये) जो (मर्त्यासः) मनुष्य लोग (व्युच्छन्तीम्) जगाती हुई (पूर्वतराम्) अति प्राचीन (उषसम्) प्रभात वेला को (ईयुः) प्राप्त होवें (ते) वे (अस्माभिः) हम लोगों के साथ सुख को (अपश्यन्) देखते हैं, जो प्रभात वेला हमारे साथ (प्रतिचक्ष्या) प्रत्यक्ष से देखने योग्य (अभूत्) होती है वह (नु) शीघ्र सुख देनेवाली होती है। (उ) और (ये) जो (अपरीषु) आनेवाली उषाओं में व्यतीत हुई उषा को (पश्यान्) देखें (ते) वे (ओ) ही सुख को (यन्ति) प्राप्त होते हैं ॥ ११ ॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  जो मनुष्य उषा के पहिले शयन से उठ आवश्यक कर्म करके परमेश्वर का ध्यान करते हैं, वे बुद्धिमान् और धार्मिक होते हैं। जो स्त्री-पुरुष परमेश्वर का ध्यान करके प्रीति से आपस में बोलते-चालते हैं, वे अनेकविध सुखों को प्राप्त होते हैं ॥ ११ ॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
+
+अन्वय:  ये मर्त्यासो व्युच्छन्ती पूर्वतरामुषसमीयुस्तेऽस्माभिः सह सुखमपश्यन् योषा अस्माभिः प्रतिचक्ष्याभूद् भवति सा नु सुखप्रदा भवति। उ ये अपरीषु पूर्वतरां पश्यान् त ओ एव सुखं यन्ति प्राप्नुवन्ति ॥ ११ ॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+पुनः प्रभातविषयं प्राह ।
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (ईयुः) प्राप्नुयुः (ते) (ये) (पूर्वतराम्) अतिशयेन पूर्वाम् (अपश्यन्) पश्येयुः (व्युच्छन्तीम्) निद्रां विवासयन्तीम् (उषसम्) प्रभातसमयम् (मर्त्यासः) मनुष्याः (अस्माभिः) (उ) वितर्के (नु) शीघ्रम् (प्रतिचक्ष्या) प्रत्यक्षेण द्रष्टुं योग्या (अभूत्) भवति (ओ) अवधारणे (ते) (यन्ति) (ये) (अपरीषु) आगामिनीषूषस्सु (पश्यान्) पश्येयुः ॥ ११ ॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  हे मनुष्या उषसः प्राक् शयनादुत्थायावश्यकं कृत्वा परमेश्वरं ध्यायन्ति ते धीमन्तो धार्मिको जायन्ते। ये स्त्री पुरुषा जगदीश्वरं ध्यात्वा प्रीत्या संवदते तेऽनेकविधानि सुखानि प्राप्नुवन्ति ॥ ११ ॥
+</details>
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  जी माणसे उषेचे आगमन होण्यापूर्वी जागे होऊन आवश्यक कार्य करतात व नंतर परमेश्वराचे ध्यान करतात ती बुद्धिमान व धार्मिक असतात. जे स्त्री-पुरुष परमेश्वराचे ध्यान करून प्रेमाने आपापसात बोलतात. त्यांना अनेक प्रकारचे सुख प्राप्त होते. ॥ ११ ॥
+</details>
+</details>
+</div>  
+
+
+
+## ४१ 
+भ॒र्ता सन्भ्रि॒यमा॑णो बिभर्ति । एको॑ दे॒वो ब॑हु॒धा निवि॑ष्टः । य॒दा भा॒रन्त॒न्द्रय॑ते॒ स भर्तु᳚म् । नि॒धाय॑ भा॒रं पुन॒रस्त॑मेति । तमे॒व मृ॒त्युम॒मृत॒न्तमा॑हुः । तं भ॒र्तार॒न्तमु॑ गो॒प्तार॑माहुः । स भृ॒तो भ्रि॒यमा॑णो बिभर्ति । य ए॑न॒व्ँ वेद॑ स॒त्येन॒ भर्तु᳚म् । स॒द्यो जा॒तमु॒त ज॑हात्ये॒षः । उ॒तो जर॑न्त॒न्न ज॑हा॒त्येक᳚म् । (41)  
+
+## ४२ 
+
+उ॒तो ब॒हूनेक॒मह॑र्जहार । अत॑न्द्रो दे॒वस्सद॑मे॒व प्रार्थः॑ । यस्तद्वेद॒ यत॑ आब॒भूव॑ । स॒न्धाञ्च॒ याꣳ स॑न्द॒धे ब्रह्म॑णै॒षः । रम॑ते॒ तस्मि॑न्नु॒त जी॒र्णे शया॑ने । नैन॑ञ्जहा॒त्यह॑स्सु पू॒र्व्येषु॑ । त्वामापो॒ अनु॒ सर्वा᳚श्चरन्ति जान॒तीः । व॒थ्सं पय॑सा पुना॒नाः । त्वम॒ग्निꣳ ह॑व्य॒वाह॒ꣳ॒ समि᳚न्थ्से । त्वं भ॒र्ता मा॑त॒रिश्वा᳚ प्र॒जाना᳚म् । (42)  
+
+## ४३ 
+
+त्वय्ँय॒ज्ञस्त्वमु॑वे॒वासि॒ सोमः॑ । तव॑ दे॒वा हव॒माय॑न्ति॒ सर्वे᳚ । त्वमेको॑ऽसि ब॒हूननु॒प्रवि॑ष्टः । नम॑स्ते अस्तु सु॒हवो॑ म एधि । नमो॑ वामस्तु शृणु॒तꣳ हवं॑ मे । प्राणा॑पानावजि॒रꣳ स॒ञ्चर॑न्तौ । ह्वया॑मि वां॒ ब्रह्म॑णा तू॒र्तमेत᳚म् । यो मान्द्वेष्टि॒ तञ्ज॑हितय्ँ युवाना । प्राणा॑पानौ सव्ँ विदा॒नौ ज॑हितम् । अ॒मुष्यासु॑ना॒मा सङ्ग॑साथाम् । (43)  
+
+## ४४ 
+
+तं मे॑ देवा॒ ब्रह्म॑णा सव्ँ विदा॒नौ । व॒धाय॑ दत्त॒न्तम॒हꣳ ह॑नामि । अस॑ज्जजान स॒त आब॑भूव । यय्ँय॑ञ्ज॒जान॒ स उ॑ गो॒पो अ॑स्य । य॒दा भा॒रन्त॒न्द्रय॑ते॒ स भर्तु᳚म् । प॒रास्य॑ भा॒रं पुन॒रस्त॑मेति । तद्वै त्वं प्रा॒णो अ॑भवः । म॒हान्भोगः॑ प्र॒जाप॑तेः । भुजः॑ करि॒ष्यमा॑णः । यद्दे॒वान्प्राण॑यो॒ नव॑ ॥ (44)  
+
+## ४५ 
+
+हरि॒ꣳ॒ हर॑न्त॒मनु॑यन्ति दे॒वाः । विश्व॒स्येशा॑नव्ँ वृष॒भं म॑ती॒नाम् । ब्रह्म॒ सरू॑प॒मनु॑मे॒दमागा᳚त् । अय॑नं॒ मा विव॑धी॒र्विक्र॑मस्व । मा छि॑दो मृत्यो॒ मा व॑धीः । मा मे॒ बल॒व्ँ विवृ॑हो॒ मा प्रमो॑षीः । प्र॒जां मा मे॑ रीरिष॒ आयु॑रुग्र । नृ॒चक्ष॑सन्त्वा ह॒विषा॑ विधेम । स॒द्यश्च॑कमा॒नाय॑ । प्र॒वे॒पा॒नाय॑ मृ॒त्यवे᳚ । (45)  
+
+## ४६ 
+
+प्रास्मा॒ आशा॑ अशृण्वन्न् । कामे॑नाजनय॒न्पुनः॑ । कामे॑न मे॒ काम॒ आगा᳚त् । हृद॑या॒द्धृद॑यं मृ॒त्योः । यद॒मीषा॑म॒दः प्रि॒यम् । तदैतूप॒माम॒भि । परं॑ मृत्यो॒ अनु॒ परे॑हि॒ पन्था᳚म् । यस्ते॒ स्व इत॑रो देव॒याना᳚त् । चक्षु॑ष्मते शृण्व॒ते ते᳚ ब्रवीमि । मा नः॑ प्र॒जाꣳ री॑रिषो॒ मोत वी॒रान् । प्र पू॒र्व्यं मन॑सा॒ वन्द॑मानः । नाध॑मानो वृष॒भञ्च॑र्षणी॒नाम् । यः प्र॒जाना॑मेक॒राण्मानु॑षीणाम् । मृ॒त्युय्ँय॑जे प्रथम॒जामृ॒तस्य॑ ॥ (46)  
+
+## ४७ 
+
+त॒रणि॑र्वि॒श्वद॑र्शतो ज्योति॒ष्कृद॑सि सूर्य । विश्व॒मा भा॑सि रोच॒नम् । उ॒प॒या॒मगृ॑हीतोऽसि॒ सूर्या॑य त्वा॒ भ्राज॑स्वत ए॒ष ते॒ योनिः॒ सूर्या॑य त्वा॒ भ्राज॑स्वते ॥ (47) ॥ 16 ॥  
+
+## ४८ 
+_______
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+चमसोपदंसने प्रायश्चित्तं - आप्यायस्वेति गायत्री ॥ 
+</details>
+<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/33-35_sangAhanam/ApyAyasva.md">
+<details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
+
+**आ प्या॑यस्व** मदिन्-तम॒  
+सोम॒ विश्वा॑भिर् ऊ॒तिभिः॑ ।  
+भवा॑ नस् स॒प्रथ॑स्तमः ॥ 
+
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/33-35_sangAhanam/ApyAyasva.md">
+<details open><summary><h5>आप्यायस्व ...{Loading}...</h5></summary>
+<details><summary>Keith</summary>
+
+Swell, O sweetest Soma,  
+With all thy aids,  
+Be fullest of help for us.
+</details>
+<details><summary>मूलम्</summary>
+
+आ प्या॑यस्व मदिन्तम॒ सोम॒ विश्वा॑भिरू॒तिभिः॑ ।  
+भवा॑ नस्स॒प्रथ॑स्तमः ॥ 
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**सोम! मदिन्तम!** मादयितृतम! ।  
+यद्वा - माद्यतम आत्मानन्दमय । 'शमित्यष्टाभ्यो घिनुण्' 'नाद्घस्य' इति नुट् । **आप्यायस्व** वर्धस्व **विश्वाभिर् ऊतिभिः** रक्षणैस् तर्पणैर्वा अस्माकं **सप्रथस्तमो** भव अतिशयेन प्रथा-समन्वितः सप्रथस्तमः । त्वमस्मद्विषयाभिस्सर्वाभिरूतिभिः भृशं प्रथितो भव अस्माभिस्सह वर्धस्व ॥
+</details>
+</details>
+</div>
+
+## ४९ 
+_______
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+1 सन्ति वृष्टयो नाम षोडशेष्टकाः 'इयमेव सा या' इत्याद्याः । तासामियं षोडशी ईयुष्ट इति त्रिष्टुप् ॥ 
+</details>
+<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/113/11_IyuShTe_ye.md">
+<details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
+
++++(पूर्वजाः)+++ **ई॒युष् टे ये** पूर्व॑तरा॒म् **अप॑श्यन्**  
+व्यु॒च्छन्ती॑म् **उ॒षसं॒** मर्त्या॑सः ।  
+अ॒स्माभि॑र् ऊ॒ नु **प्र॑ति॒चक्ष्या॑ ऽभू॒द्**  
+आ+उ ते +++(प्रजाः)+++ **य॑न्ति॒ ये अ॑प॒रीषु॒+++(=अनागतासु)+++ पश्या॑न्** ॥
+
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/113/11_IyuShTe_ye.md">
+<details open><summary><h5>011 ...{Loading}...</h5></summary>
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - उषाः
+- ऋषिः - कुत्स आङ्गिरसः
+- छन्दः - त्रिष्टुप्
+</details>
+<details><summary>Thomson & Solcum</summary>
+
+ईयु꣡ष् टे꣡ ये꣡ पू꣡र्वतराम् अ꣡पश्यन्  
+विउछ꣡न्तीम् उष꣡सम् म꣡र्तियासः  
+अस्मा꣡भिर् ऊ नु꣡ प्रतिच꣡क्षियाभूद्  
+ओ꣡ ते꣡ यन्ति ये꣡ अपरी꣡षु प꣡श्यान्
+</details>
+<details><summary>Vedaweb annotation</summary>
+
+######## १  Strata
+Cretic
+
+######## २  Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+
+######## ३  Morph
 ápaśyan ← √paś- (root)  
 {number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
 
@@ -4197,7 +4993,7 @@ yé ← yá- (pronoun)
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+####### १  English translation:
 
 “Those mortals who beheld the pristine Uṣās dawning have passed away; to us she is now visible, and they approach who may behold her in after times.”
 </details>
@@ -4208,8 +5004,6 @@ They have gone, the mortals who saw the earlier dawn dawning forth. (This dawn) 
 <details><summary>Jamison Brereton Notes</summary>
 
 With Grassmann (et al.) I take praticákṣyā as the gerundive; cf. I.124.8.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/113/07-13.md">
 <details open><summary><h7>07-13 ...{Loading}...</h7></summary>
@@ -4293,10 +5087,10 @@ Verschwunden sind die Menschen, welche schauten die Morgenröthe, die da früher
 </details>
 </div>  
 
-## 19
+## ५० 
 <div class="js_include" includetitle="plain" newlevelforh1="5" title="19" unfilled url="19/"></div>
 
-## 20
+## ५१ 
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -4305,9 +5099,7 @@ _______
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/4_somAbhiShavAdi/36_sruvAhutayaH">
 <details open><summary><h5>३६ स्रुवाहुतयः ...{Loading}...</h5></summary>
 
-
 विश्वेदेवा ऋषयः
-
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -4508,9 +5300,7 @@ To all hail!
 </details>
 </div>  
 
-
-
-## 21
+## ५२ 
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -4519,9 +5309,7 @@ _______
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/4_somAbhiShavAdi/36_sruvAhutayaH">
 <details open><summary><h5>३६ स्रुवाहुतयः ...{Loading}...</h5></summary>
 
-
 विश्वेदेवा ऋषयः
-
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
