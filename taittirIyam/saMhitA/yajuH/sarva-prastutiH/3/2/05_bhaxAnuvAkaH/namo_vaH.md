@@ -18,6 +18,12 @@ title = "नमो वः"
 नमो॑ वᳶ पितरो॒ रसा॑य । [पित॑रो॒ नमो॑ वः।],
 </details>
 
+<details><summary>Keith</summary>
+
+Homage to your taste, O fathers; 
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 नमो॑ वᳶ पितरो॒ रसा॑य । [पित॑रो॒ नमो॑ वः।],
@@ -30,8 +36,14 @@ title = "नमो वः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नमो॑ वᳶ पितर॒श्शुष्मा॑य +++(पित॑रो॒ नमो॑ वः )+++,,
+नमो॑ वᳶ पितर॒श् शुष्मा॑य +++(पित॑रो॒ नमो॑ वः )+++,,
 </details>
+
+<details><summary>Keith</summary>
+
+homage to your birth, O fathers; 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -48,6 +60,12 @@ title = "नमो वः"
 नमो॑ वᳶ पितरो जी॒वाय । [पित॑रो॒ नमो॑ वः।],
 </details>
 
+<details><summary>Keith</summary>
+
+homage to your life, O fathers; 
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 नमो॑ वᳶ पितरो जी॒वाय । [पित॑रो॒ नमो॑ वः।],
@@ -60,7 +78,12 @@ title = "नमो वः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नमो॑ वᳶ पि॒त॒र॒स्स्व॒धायै॑ । [पित॑रो॒ नमो॑ वः।],,
+नमो॑ वᳶ पि॒त॒र॒स् स्व॒धायै॑ । [पित॑रो॒ नमो॑ वः।],,
+</details>
+
+<details><summary>Keith</summary>
+
+homage to your [5] custom, O fathers; 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -78,6 +101,12 @@ title = "नमो वः"
 नमो॑ वᳶ पितरो म॒न्यवे॑ । [पित॑रो॒ नमो॑ वः।],,
 </details>
 
+<details><summary>Keith</summary>
+
+homage to your anger, O fathers; 
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 नमो॑ वᳶ पितरो म॒न्यवे॑ । [पित॑रो॒ नमो॑ वः।],,
@@ -94,6 +123,12 @@ title = "नमो वः"
 पित॑रो॒ नमो॑ वः ।
 </details>
 
+<details><summary>Keith</summary>
+
+homage to your terrors, O fathers; O fathers, homage to you.
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 नमो॑ वᳶ पितरो घो॒राय॑ ,  
@@ -108,8 +143,14 @@ title = "नमो वः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य ए॒तस्मि॑ल्ँलो॒के स्थ यु॒ष्माꣳस्तेऽनु॑ ।
+य ए॒तस्मि॑ल्ँ लो॒के स्थ यु॒ष्माꣳस्तेऽनु॑ ।
 </details>
+
+<details><summary>Keith</summary>
+
+Ye that are in that world, may they follow you;
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -123,8 +164,14 @@ title = "नमो वः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ये᳚ऽस्मिल्ँ लो॒के मान्तेऽनु॑ ।
+ये᳚ऽस्मिल्ँ लो॒के मान् तेऽनु॑ ।
 </details>
+
+<details><summary>Keith</summary>
+
+ye that are in this world, may they follow me.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -138,8 +185,14 @@ title = "नमो वः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य ए॒तस्मि॑ल्ँलो॒के स्थ यू॒यन्तेषा॒व्ँवसि॑ष्ठा भूयास्त ।
+य ए॒तस्मि॑ल्ँलो॒के स्थ यू॒यन् तेषा॒व्ँ वसि॑ष्ठा भूयास्त ।
 </details>
+
+<details><summary>Keith</summary>
+
+Ye that are in that world, of them be ye the most fortunate; 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -153,8 +206,14 @@ title = "नमो वः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ये᳚ऽस्मिल्ँ लो॒के॑ऽहन्तेषा॒व्ँवसि॑ष्ठो भूयासम् ।
+ये᳚ऽस्मिल्ँ लो॒के॑ ऽहन् तेषा॒व्ँवसि॑ष्ठो भूयासम् ।
 </details>
+
+<details><summary>Keith</summary>
+
+ye that are in this world, of these may I be the most fortunate.
+</details>
+
 
 <details><summary>मूलम्</summary>
 

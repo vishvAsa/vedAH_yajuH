@@ -14,12 +14,18 @@ title = "अ॒फ्सु धौ॒तस्य॑"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒फ्सु धौ॒तस्य॑ सोम देव ते॒  
-नृभि॑स् सु॒तस्य॑+  
-इ॒ष्ट-य॑जुषस् स्तु॒त-स्तो॑मस्य श॒स्तोक्थ॑स्य॒  
-यो भ॒ख्षो अ॑श्व॒-सनि॒र् यो गो॒सनि॒स्  
-तस्य॑ ते पि॒तृभि॑र् भ॒ख्षङ् कृ॑त॒स्योप॑हूत॒स्योप॑हूतो भख्षयामि ॥
+अ॒फ्सु **धौ॒तस्य॑** सोम देव ते॒  
+नृभि॑स् **सु॒तस्य॑**+  
+**इ॒ष्ट**-य॑जुषस् **स्तु॒त**-स्तो॑मस्य श॒स्तोक्थ॑स्य॒  
+यो भ॒ख्षो अ॑श्व॒-सनि॒र् यो गो॒-सनि॒स्  
+तस्य॑ ते पि॒तृभि॑र् **भ॒ख्षङ् कृ॑त॒स्योप॑हूत॒स्योप॑हूतो भख्षयामि** ॥
 </details>
+
+<details><summary>Keith</summary>
+
+Of thee, O god Soma, that art purified in the waters, that art pressed by men, over whom the Yajus is spoken, the Stoma sung, the Śastra recited, who art made by the fathers into food to win horses and cows, and who art invited, I invited eat.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
