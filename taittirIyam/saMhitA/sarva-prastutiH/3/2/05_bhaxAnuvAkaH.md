@@ -204,7 +204,7 @@ Terrify me not, O king, pierce not my heart with thy radiance, for manly strengt
 
 वसु॑मद्-गणस्य सोम देव  
 ते मति॒-विदᳶ॑  
-प्रातस्-सव॒नस्य॑ गाय॒त्र-छ॑न्दस॒  
+प्रातस्-सव॒नस्य॑ गाय॒त्र-छ॑न्दस॒ …
 </details>
 
 <details><summary>Keith</summary>
@@ -235,17 +235,20 @@ Of thee, O god Soma, who hast the Vasus for thy troop, who knowest the mind, who
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रु॒द्रव॑द्-गणस्य सोम देव  
-ते मति॒विदो॒ माध्य॑न्दिनस्य॒ सव॑नस्य त्रि॒ष्टुप्-छ॑न्दस॒  
+ते मति॒विदो॒ माध्य॑न्दिनस्य॒ सव॑नस्य त्रि॒ष्टुप्-छ॑न्दस॒ …
 </details>
 
 <details><summary>Keith</summary>
 
-Of thee, O god Soma, who hast the Rudras for thy troop, who knowest the mind, who belongest to the midday pressing, who hast the Tristubh for thy metre, </details>
+Of thee, O god Soma, who hast the Rudras for thy troop, who knowest the mind, who belongest to the midday pressing, who hast the Tristubh for thy metre, 
+</details>
 
 
 <details><summary>मूलम्</summary>
 
-रु॒द्रव॑द्गणस्य सोम देव ते मति॒विदो॒ माध्य॑न्दिनस्य॒ सव॑नस्य त्रि॒ष्टुप्छ॑न्दस॒ </details>
+रु॒द्रव॑द्गणस्य सोम देव ते मति॒विदो॒ माध्य॑न्दिनस्य॒ सव॑नस्य त्रि॒ष्टुप्छ॑न्दस॒ 
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 माध्यन्दिनस्येति । दिनस्य मध्यं मध्यन्दिनम् 'मध्यो मध्यन्दिनं चास्मात्' इति । तत्र भवं माध्यन्दिनम् । तस्य सवनस्य सूयमानस्य सोमस्य तव भक्षयामीति । एवमेतादृशसोमसंबन्धात् प्रातस्सवनादयश्शब्दाः कर्मणि वर्तन्ते । गतमन्यत् ॥
@@ -263,11 +266,19 @@ Of thee, O god Soma, who hast the Rudras for thy troop, who knowest the mind, wh
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ॒दि॒त्यव॑द्-गणस्य सोम देव ते  
-मति॒-विद॑स् तृ॒तीय॑स्य॒ सव॑नस्य॒ जग॑ती-छन्दस॒  
+मति॒-विद॑स् तृ॒तीय॑स्य॒ सव॑नस्य॒ जग॑ती-छन्दस॒ … 
 </details>
+
+<details><summary>Keith</summary>
+
+Of thee, O god Soma, who hast the Adityas for thy troop, who knowest the heart, who belongest to the third pressing, who hast the Jagati for thy metre, 
+</details>
+
 <details><summary>मूलम्</summary>
 
-आ॒दि॒त्यव॑द्गणस्य सोम देव ते मति॒विद॑स्तृ॒तीय॑स्य॒ सव॑नस्य॒ जग॑तीछन्दस॒ </details>
+आ॒दि॒त्यव॑द्गणस्य सोम देव ते मति॒विद॑स्तृ॒तीय॑स्य॒ सव॑नस्य॒ जग॑तीछन्दस॒ 
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तृतीयस्य सवनस्य सूयमानस्य तव भक्षयामीति । एवं सोमविशेषणतया नीतानि दश पदानि षष्ठ्यन्तानि । इतरथा इन्द्रपीतस्येत्याद्यघटमान् स्यात् । वैयधिकरण्यं तु क्लिष्टमिति ॥
@@ -291,19 +302,31 @@ Of thee, O god Soma, who hast the Rudras for thy troop, who knowest the mind, wh
 </details>
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
-हिन्व॑ मे॒ गात्रा॑ हरिवो ग॒णान्मे॒ मा वि ती॑तृषः ।  
-शि॒वो मे॑ सप्त॒र्षीनुप॑ तिष्ठस्व॒ मा मेऽवा॒ङ्नाभि॒मति॑ [18]  गाः॒ ।
+**हिन्व॑**+++(=प्रीणय)+++ मे॒ गात्रा॑ हरिवो +++(सोम)+++  
+ग॒णान् मे॒ **मा वि ती॑तृषः** +++(पुनः पानैः)+++ ।  
+शि॒वो मे॑ सप्त॒-र्षीन् +++(शिरो-विवर-प्राणान्)+++ **उप॑ तिष्ठस्व॒**  
+मा मेऽवा॒ङ्नाभि॒म् **अति॑  गाः** ।
 </details>
+
+<details><summary>Keith</summary>
+
+Impel my limbs, O thou with tawny steeds,  
+Do not distress my troops;  
+Propitious do thou honour for me the seven sages;  
+Do not go below my navel [3].
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 हिन्व॑ मे॒ गात्रा॑ हरिवो ग॒णान्मे॒ मा वि ती॑तृषः ।  
-शि॒वो मे॑ सप्त॒र्षीनुप॑ तिष्ठस्व॒ मा मेऽवा॒ङ्नाभि॒मति॑ [18]  गाः॒ ।
+शि॒वो मे॑ सप्त॒र्षीनुप॑ तिष्ठस्व॒ मा मेऽवा॒ङ्नाभि॒मति॑ [18]  गाः ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
-हे हरिवः हरितवर्ण । 'मतुवसोः' इति रुत्वम् । मे मम गात्रा गात्राणि हिन्व प्रीणय । हिवि प्रीणने, इदित्वान्नुम् । मे मदीयान् गणान् पुत्रादीन् मा वितीतृषः वितृष्णान् मा कार्षीः पुनःपुनः पातॄन् कुरु । किंच - शिवो भूत्वा मे मदीयान् सप्त ऋषीन् अरिषितॄन् प्राणान् शीर्षण्यान् द्वेद्वे चक्षुषी श्रोत्रे नासिके एकमास्यमिति, तानुपतिठस्व । ऋषि गतौ, औणादिक इनिप्रत्ययः । उपस्थानमुपेत्य तर्पणं तदर्थं मे मम नाभिमतीत्य अवाक् अधस्तात् मा गाः मा गमः । अवपूर्वादञ्चतेः क्विनि 'अनिगन्तोञ्चतौ' इति गतेः प्रकृतिस्वरत्वम् ॥
+हे **हरिवः** हरितवर्ण । 'मतुवसोः' इति रुत्वम् । मे मम गात्रा गात्राणि **हिन्व** प्रीणय । हिवि प्रीणने, इदित्वान्नुम् । मे मदीयान् **गणान्** पुत्रादीन् मा वितीतृषः **वितृष्णान्** मा कार्षीः पुनःपुनः पातॄन् कुरु । किंच - शिवो भूत्वा मे मदीयान् **सप्त ऋषीन्** अरिषितॄन् प्राणान् शीर्षण्यान् द्वेद्वे चक्षुषी श्रोत्रे नासिके एकमास्यमिति, तानुपतिठस्व । ऋषि गतौ, औणादिक इनिप्रत्ययः । उपस्थानमुपेत्य तर्पणं तदर्थं **मे** मम नाभिमतीत्य **अवाक्** अधस्तात् **मा गाः** मा गमः । अवपूर्वादञ्चतेः क्विनि 'अनिगन्तोञ्चतौ' इति गतेः प्रकृतिस्वरत्वम् ॥
 </details>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -316,6 +339,14 @@ Of thee, O god Soma, who hast the Rudras for thy troop, who knowest the mind, wh
 **अद॑र्श्म॒** ज्योति॒र्, **अवि॑दाम** दे॒वान् ।    
 किम् अ॒स्मान् **कृ॑णव॒द्** अरा॑ति॒ᳵ  
 किम् उ॑ धू॒र्तिर् अ॑मृत॒! मर्त्य॑स्य ।
+</details>
+
+<details><summary>Keith</summary>
+
+We have drunk the Soma, we have become immortal,  
+We have seen the light, we have found the gods;  
+What can the enmity, what the treachery,  
+Of mortal man do to us, O immortal?
 </details>
 
 
@@ -350,10 +381,13 @@ Of thee, O god Soma, who hast the Rudras for thy troop, who knowest the mind, wh
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
-यन् म॑ आ॒त्मनो॑ मि॒न्दा+++(=हिंसा)+++ ऽऽभू॑द्,  
-अ॒ग्निस् तत् पुन॒र् आहाः॑ +++(=आहर)+++।  
+यन् म॑ आ॒त्मनो॑ मि॒न्दा+++(=हिंसा)+++ **ऽऽभू॑द्**,  
+अ॒ग्निस् तत् पुन॒र् **आहाः॑** +++(=आहर)+++।  
 जा॒तवे॑दा॒ विच॑र्षणिः+++(विचक्षणः)+++॥
 </details>
+
+
+
 <details><summary>मूलम्</summary>
 
 यन्म॑ आ॒त्मनो॑ मि॒न्दाभू॑द॒ग्निस्तत्पुन॒राहा᳚र्जा॒तवे॑दा॒ विच॑र्षणिः ।   
@@ -364,11 +398,24 @@ Of thee, O god Soma, who hast the Rudras for thy troop, who knowest the mind, wh
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पुन॑र् अ॒ग्निश् चक्षु॑र् अदा॒त्  
+पुन॑र् अ॒ग्निश् चक्षु॑र् **अदा॒त्**  
 पुन॒र् इन्द्रो॒ बृह॒स्पतिः॑।  
 पुन॑र् मे अश्विना यु॒वं  
-चक्षु॑र्+++(=दर्शनशक्तिम्)+++ आ धत्तम् अ॒क्ष्योः ॥
+चक्षु॑र्+++(=दर्शनशक्तिम्)+++ **आ धत्तम्** अ॒क्ष्योः ॥
 </details>
+
+<details><summary>Keith</summary>
+
+Whatever fault has been mine,  
+Agni hath put that right, all-knower, he who belongeth to all men;  
+Agni hath given back the eye,  
+Indra and Brhaspati have given it back;  
+Do ye two, O Aśvins,  
+Replace my eye within its sockets.
+
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 पुन॑र॒ग्निश्चख्षु॑रदा॒त्पुन॒रिन्द्रो॒ बृह॒स्पतिः॑ ।
@@ -382,10 +429,22 @@ Of thee, O god Soma, who hast the Rudras for thy troop, who knowest the mind, wh
 
 13अथ हारियोजने धानानां भक्षणमन्त्रः - इष्टयजुष इत्यादि यजुः ॥ 
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒ष्टय॑जुषस्ते देव सोम स्तु॒तस्तो॑मस्य श॒स्तोक्थ॑स्य॒ हरि॑वत॒ इन्द्र॑पीतस्य॒ मधु॑मत॒ उप॑हूत॒स्योप॑हूतो भख्षयामि ।
+इ॒ष्ट-य॑जुषस् ते देव सोम  
+स्तु॒त-स्तो॑मस्य श॒स्तोक्थ॑स्य॒  
+हरि॑वत॒ इन्द्र॑-पीतस्य॒ मधु॑मत॒  
+**उप॑हूत॒स्योप॑हूतो भख्षयामि ।**
 </details>
+
+<details><summary>Keith</summary>
+
+Of thee, O god Soma, over whom the Yajus is spoken, the Stoma sung [4], the Uktha recited, who hast tawny steeds, who art drunk by Indra, who hast sweetness, and who art invited, I invited eat.
+
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 इ॒ष्टय॑जुषस्ते देव सोम स्तु॒तस्तो॑मस्य श॒स्तोक्थ॑स्य॒ हरि॑वत॒ इन्द्र॑पीतस्य॒ मधु॑मत॒ उप॑हूत॒स्योप॑हूतो भख्षयामि ।
@@ -403,6 +462,14 @@ Of thee, O god Soma, who hast the Rudras for thy troop, who knowest the mind, wh
 **आ॒पूर्या॑स्** स्थ,  
 +आ मा॑ **पूरयत** प्र॒जया॑ च॒ धने॑न च ।
 </details>
+
+<details><summary>Keith</summary>
+
+Ye are to be filled; fill me  
+With offspring and wealth.
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 आ॒पूर्या॒स्स्था मा॑ पूरयत प्र॒जया॑ च॒ धने॑न च ।

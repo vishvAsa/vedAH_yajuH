@@ -86,58 +86,8 @@ O sky and earth protect me from this day to-day.
 ### o
 When he creeps forward to the seat [4], the fathers creep along after him; they have power to injure him; having crept to the seat he should look along the south side (saying), 'Come, O ye fathers; through you may I possess the fathers; may ye have good offspring in me'; verily paying reverence to them he creeps to the Sadas, for his own safety.
 ## 05
-### e
-### f
-### g
-### h
-### i
-Of thee, O god Soma, who hast the Adityas for thy troop, who knowest the heart, who belongest to the third pressing, who hast the Jagati for thy metre, who art drunk by Indra, who art drunk by Naraśansa, who art drunk by the fathers, who hast sweetness, and who art invited, I invited eat.
-### k
-Swell up, lot thy strength be gathered  
-From all sides, O Soma;  
-Be strong in the gathering of might.
-### l
-Impel my limbs, O thou with tawny steeds,  
-Do not distress my troops;  
-Propitious do thou honour for me the seven sages;  
-Do not go below my navel [3].
-### m
-We have drunk the Soma, we have become immortal,  
-We have seen the light, we have found the gods;  
-What can the enmity, what the treachery,
-
-Of mortal man do to us, O immortal?
-### n
-Whatever fault has been mine,  
-Agni hath put that right, all-knower, he who belongeth to all men;  
-Agni hath given back the eye,  
-Indra and Brhaspati have given it back;  
-Do ye two, O Aśvins,  
-Replace my eye within its sockets.
-### o
-Of thee, O god Soma, over whom the Yajus is spoken, the Stoma sung [4], the Uktha recited, who hast tawny steeds, who art drunk by Indra, who hast sweetness, and who art invited, I invited eat.
-### p
-Ye are to be filled; fill me  
-With offspring and wealth.
-### q
-That is thine, O father, and those that are after thee. That is thine, O grandfather, O great grandfather, and those that are after thee.
-### r
-Rejoice therein, O fathers, according to your shares.
-### s
-Homage to your taste, O fathers; homage to your birth, O fathers; homage to your life, O fathers; homage to your [5] custom, O fathers; homage to your anger, O fathers; homage to your terrors, O fathers; O fathers, homage to you.
-### t
-Ye that are in that world, may they follow you; ye that are in this world, may they follow me.
-### u
-Ye that are in that world, of them be ye the most fortunate; ye that are in this world, of these may I be the most fortunate.
-### v
-O Prajapati, none other than thou  
-Comprehendeth all these creatures [6].  
-What we seek when we sacrifice to thee, let that be ours;  
-May we be lords of riches.
 ### w
-Thou art the expiation of sin committed by the gods, thou art the expiation of sin committed by men, thou art the expiation of sin committed by the fathers.
 ### x
-Of thee, O god Soma, that art purified in the waters, that art pressed by men, over whom the Yajus is spoken, the Stoma sung, the Śastra recited, who art made by the fathers into food to win horses and cows, and who art invited, I invited eat.
 ## 06
 ### a
 Thou art the milk of the great ones, the body of the All-gods; may I to-day accomplish the cup of the speckled ones; thou art the cup of the speckled ones; thou art the heart of Visnu, once hath Visnu stepped apart along thee, O vigorous one; with curds and ghee may prosperity be increased; may wealth come to me from this which is offered and enjoyed thou art the light for all men, milked from the dappled one.
