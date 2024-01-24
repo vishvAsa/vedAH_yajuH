@@ -87,13 +87,9 @@ O sky and earth protect me from this day to-day.
 When he creeps forward to the seat [4], the fathers creep along after him; they have power to injure him; having crept to the seat he should look along the south side (saying), 'Come, O ye fathers; through you may I possess the fathers; may ye have good offspring in me'; verily paying reverence to them he creeps to the Sadas, for his own safety.
 ## 05
 ### e
-Come hither, O thou who art of all men [1], with healing and favour; with safety come to me, O tawny-coloured, for skill, for strength, for increase of wealth, for good heroes.
 ### f
-Terrify me not, O king, pierce not my heart with thy radiance, for manly strength, for life, for splendour.
 ### g
-Of thee, O god Soma, who hast the Vasus for thy troop, who knowest the mind, who belongest to the first pressing, who hast the Gayatri as thy metre, who art drunk by Indra, who art drunk by Naraśansa, who art drunk by the fathers, who hast sweetness, and who art invited, I invited eat.
 ### h
-Of thee, O god Soma, who hast the Rudras for thy troop, who knowest the mind, who belongest to the midday pressing, who hast the Tristubh for thy metre, who art drunk by Indra, who art drunk by Naraśansa [2], who art drunk by the fathers, who hast sweetness, and who art invited, I invited eat.
 ### i
 Of thee, O god Soma, who hast the Adityas for thy troop, who knowest the heart, who belongest to the third pressing, who hast the Jagati for thy metre, who art drunk by Indra, who art drunk by Naraśansa, who art drunk by the fathers, who hast sweetness, and who art invited, I invited eat.
 ### k
