@@ -207,19 +207,73 @@ do ye instigate him, descendant of N. N., to freedom from foes,
 
 हे देवा अग्न्यादयो वरुणान्ताः ये यूयं देवसुवस्स्थ देवस्य दानादिगुणयुक्तस्य यजमानस्य सवितारः प्रेरकास्स्थ ते यूयं यस्मादेवं प्रसवादीनामनुज्ञातारः तस्मादिममामुष्यायणं सिंहवर्मणः पुत्रं नन्दिवर्माणम् अनमित्रायानमित्रत्वाय अविद्यमानशत्रुत्वाय सुवध्वम् । अनुजानीत अशत्रुमेनं कुरुतेत्यर्थः । इममामुष्यायणमिति सर्वनामद्वयं विशेषार्थमुपादीयते । अमुष्यशब्दान्नडादित्वात्फक् ।
 </details>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/10_devasU-havirAdi/mahate_xatrAya.md">
+<details open><summary><h5>म॒ह॒ते ख्ष॒त्त्राय॑ ...{Loading}...</h5></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
 
+… म॒ह॒ते ख्ष॒त्त्राय॑
+मह॒त आधि॑पत्याय  
+मह॒ते जान॑राज्यायै
+</details>
+<details><summary>Keith</summary>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/10_devasU-havirAdi/mahate_xatrAya.md"  newLevelForH1="5" includeTitle="false"> </div>  
+to great lordship, to great overlordship, to great rule over the people.
 
+</details>
+<details><summary>मूलम्</summary>
 
+म॒ह॒ते ख्ष॒त्राय॑ मह॒त आधि॑पत्याय मह॒ते जान॑राज्याय॥
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+किञ्च - महते च क्षत्राय बलाय महते चाधिपत्याय स्वामित्वाय महते अविच्छिन्नाय च **जानराज्याय** जनानां राजा जनराजः तद्भावाय । उभयत्रापि गुणवचनत्वात् ष्यञ् । इममायुष्यायणं सुवध्वमित्येव । 'बृहन्महतोरुपसङ्ख्यानम्' इति महतो विभक्तेरुदात्तत्वम् ॥
+</details>
+</details>
+</div>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3यजमानायतने तिष्ठन् रत्निभ्यो जानपदेभ्यो ऽध्वर्युर् आवेदयते - एष व इति ॥ 
 </details>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/10_devasU-havirAdi/eSha_vo_bharatA_rAjA.md">
+<details open><summary><h5>ए॒ष वो॑ भरता॒ राजा॑ ...{Loading}...</h5></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/10_devasU-havirAdi/eSha_vo_bharatA_rAjA.md"  newLevelForH1="5" includeTitle="false"> </div>  
+ए॒ष वो॑ भरता॒ राजा॑ ।
+</details>
+<details><summary>Keith</summary>
 
+This is your king, O Bharatas;
+</details>
+<details><summary>मूलम्</summary>
 
+ए॒ष वो॑ भरता॒ राजा॑ ।
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+भरतानां निवासो जनपदो भरताः । 'जनपदे लुप्' । भरतानां राजानोपि भरताः । 'तस्य राजन्यपत्यवत्' इति 'जनपदशब्दात् क्षत्रियादञ्', 'यञिञोश्च' इति बहुषु लुक् । हे भरताः एष वो युष्माकं राजा, योयं राजसूयेन यजते । एवमयं व्याख्यातिगतो भवति, राज्यं चास्मिन् प्रतिहितम् । यद्यसौ भरतानामेव राजा तदानीमेवं, नान्यदा । यथाजनपदमिति केचित् ॥
+</details>
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+4बह्मा जपति - सोम इति ॥
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सोमो॒ऽस्माक॑म् ब्राह्म॒णाना॒ꣳ॒ राजा॑ ।+++(5)+++
+</details>
+<details><summary>Keith</summary>
+
+Soma is the king of us Brahmans.
+</details>
+<details><summary>मूलम्</summary>
+
+सोमो॒ऽस्माक॑म्ब्राह्म॒णाना॒ꣳ॒ राजा॑ ।
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+अस्माकं ब्राह्मणानां सोमो राजा, अधुना अयञ्चेति । सर्वदा सराजका एव वयमित्यभिप्रायः ॥
+</details>
+</details>
+</div>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5यजमानो मुखं विमृष्टे - प्रति त्यदिति द्वाभ्यां वारुणीभ्यां त्रिष्टुब्भ्याम् ॥ 'महत ऋतस्य नाम' इति प्रथमाया अन्तः । द्वे अप्यनवसाने । 
@@ -228,13 +282,17 @@ do ye instigate him, descendant of N. N., to freedom from foes,
 
 प्रति॒ त्यन्नाम॑ रा॒ज्यम॑धायि॒ स्वान्त॒नुव॒व्ँवरु॑णो अशिश्रे॒च्छुचे᳚र्मि॒त्रस्य॒ व्रत्या॑ अभू॒माम॑न्महि मह॒त ऋ॒तस्य॒ नाम॒ सर्वे॒ व्राता॒ वरु॑णस्याभूव॒न्वि मि॒त्र एवै॒ररा॑तिमतारी॒दसू॑षुदन्त य॒ज्ञिया॑ ऋ॒तेन॒ व्यु॑ त्रि॒तो ज॑रि॒माण॑न्न आनड् 
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/10_devasU-havirAdi/02_prati_tyan.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 प्रति॒ त्यन् नाम॑ रा॒ज्यम् **अ॑धायि॒**  
 स्वान् त॒नुव॒व्ँ वरु॑णो **अशिश्रेत्** ।   
 शुचे᳚र् मि॒त्रस्य॒ व्रत्या॑ **अभू॒म**  
 +**अम॑न्महि** मह॒त ऋ॒तस्य॒ नाम॑ ॥
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/10_devasU-havirAdi/02_prati_tyan.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 This kingdom hath verily been conferred,  
@@ -245,20 +303,26 @@ We have magnified the name of the great holy order.
 <details><summary>मूलम्</summary>
 
 प्रति॒ त्यन्नाम॑ रा॒ज्यम॑धायि॒ स्वान्त॒नुव॒व्ँवरु॑णो अशिश्रेत् ।   
-शुचे᳚र्मि॒त्रस्य॒ व्रत्या॑ अभू॒माम॑न्महि मह॒त ऋ॒तस्य॒ नाम॑ ॥ 
+शुचे᳚र्मि॒त्रस्य॒ व्रत्या॑ अभू॒माम॑न्महि मह॒त ऋ॒तस्य॒ नाम॑ ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
 त्यत् एतद्राज्यं नाम नमनीयं प्रत्यधायि मयि प्रतिहितं प्रतिष्ठितमभूत् । यद्वा - छान्दसो लुङ् । प्रतिधीयताम् । 'राज्यमेवास्मिन् प्रतीदधाति' इति ब्राह्मणम् । हेतुमाह - स्वामात्मीयां तनुवं शरीरं अनुज्ञातृस्वभावत्वं यस्माद्वरुणोशिश्रेत् आश्रितवानसीत् मम धर्मपतित्वाभ्यनुज्ञानं कृतवान् । तेन राज्यं प्रत्यधायीति । 'वरुणसवमेवावरुन्धे' इत्यादि ब्राह्मणम् । उदाहरणमात्रं वरुणग्रहणं सवित्रादीनां सर्वेषामपि देवसुवां यथा प्रसूतं राज्यं प्रत्यधायीति वेदितव्यम् । श्रयतेर्लुङि 'बहुलं छन्दसि' इति शपश्श्लुः ।   
 किञ्च ; शुचेर्मित्रस्य व्रत्याः कर्मयोग्याः अभूम । 'तत्र साधुः' इति यत् । अत एव महत ऋतस्य च सत्यस्य यज्ञस्य वा नाम नमनं अमन्महि ज्ञातवन्तः । मनुतेर्लङि, शपो लुक् । यद्वा - न केवलं मित्रस्य व्रत्या अभूम ; अपि तु ऋतस्य च नामाअमन्महीति ॥
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/10_devasU-havirAdi/03_sarve_vrAtA.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 सर्वे॒ व्राता॒ वरु॑णस्याभूव॒न्  
 वि मि॒त्र एवै॒र्+++(=आगमनैः)+++ अरा॑तिम् **अतारीत्** ।   
 **असू॑षुदन्त**+++(←षूद द्रववत् क्षरणे)+++ य॒ज्ञिया॑ ऋ॒तेन॒  
-**व्य्** उ॑ त्रि॒तो +++(ऽग्निः)+++ ज॑रि॒माण॑न् न+++(ः)+++ **आन॑ट्** +++(=प्रापयतु)+++॥  
+**व्य्** उ॑ त्रि॒तो +++(ऽग्निः)+++ ज॑रि॒माण॑न् न+++(ः)+++ **आन॑ट्** +++(=प्रापयतु)+++॥
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/10_devasU-havirAdi/03_sarve_vrAtA.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 These have become all the hosts of Varuna,  
@@ -278,6 +342,8 @@ Trita hath taken possession of our old age.
 
 किञ्च ; उ इति समुच्चये । त्रितोग्निः त्रिभ्यो लोकेभ्य उत्पन्नः, त्रिभ्यो वातिवातेभ्यः, त्रिभिर्वा ब्राह्मणादिभिः, लौकिकैर्वा कृतप्राप्तिः । स त्रितः अस्माकं जरिमाणं स्तोत्रम् । जीर्यतेरौणादिक इमनिच् । जनित्रशब्दाद्वा भावे छान्दस इमनिच्, 'तुरिष्ठेमेयस्सु' इति तृशब्दलोपः । **जरिमा** स्तोतृत्वं तत् अग्निः, व्यानट् व्याप्नोतु अस्माकं स्तुतिं गृहीत्वा स्तोत्रफलं ददावित्यर्थः । अश्नोतेर्लिङि व्यत्ययेन परस्मैपदं, विकरणव्यत्ययेन श्नम् । नशेर्वा गत्यर्थाल्लुङि 'मन्त्रे घस' इति च्लेर्लुक्, 'छन्दस्यपि दृश्यते' इत्याडागमः । यद्वा - उक्तं ऋतेनास्मानसूषुदन्तेति तदिदमस्माकं जरिमाणं जरां दीर्घायुष्ट्वं **व्यानट्** प्रापयतु । अन्तर्भावितण्य्-अर्थाल् लुङ् । कियच्चिरमित्याह - उ इत्यप्यर्थे । त्रितोपि त्रिभ्योपि वयोभ्यः पुरस्तात् जरिमाणं नः प्रापयतु सर्वम् आयुर् जीवयत्व् इत्यर्थः ॥
 </details>
+</details>
+</div>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 7-9त्रीन्विष्णुक्रमान् प्राचः क्रामति - विष्णोः क्रमोसीति ॥ व्याख्यातम् ॥
