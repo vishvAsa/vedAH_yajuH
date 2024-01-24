@@ -86,14 +86,6 @@ O sky and earth protect me from this day to-day.
 ### o
 When he creeps forward to the seat [4], the fathers creep along after him; they have power to injure him; having crept to the seat he should look along the south side (saying), 'Come, O ye fathers; through you may I possess the fathers; may ye have good offspring in me'; verily paying reverence to them he creeps to the Sadas, for his own safety.
 ## 05
-### a
-Food come hither, enter me for long life, for health, for increase of wealth, for splendour, for good offspring. Come hither, O Vasu, preceded by wealth; thou art dear to my heart.
-### b
-May I grasp thee with the arms of the Aśvins.
-### c
-With clear sight may I gaze' upon thee, O god Soma, who regardest men.
-### d
-Gentle control, banner of the sacrifices, may speech accept and delight in the Soma; I may Aditi, gentle, propitious, with head inviolable, as speech, accept and delight in the Soma.
 ### e
 Come hither, O thou who art of all men [1], with healing and favour; with safety come to me, O tawny-coloured, for skill, for strength, for increase of wealth, for good heroes.
 ### f
