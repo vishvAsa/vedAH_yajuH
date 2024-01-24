@@ -189,7 +189,7 @@ Soma, king Varuna, and the gods which instigate righteousness, may they instigat
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सोम॑स्य त्वा द्यु॒म्नेना॒भिषि॑ञ्चाम्य्  
+सोम॑स्य त्वा **द्यु॒म्नेना॒भिषि॑ञ्चाम्य्**  
 अ॒ग्नेस् तेज॑सा॒  
 सूर्य॑स्य॒ वर्च॒सेन्द्र॑स्येन्द्रि॒येण॑  
 मि॒त्रावरु॑णयोर् वी॒र्ये॑ण  
@@ -215,7 +215,7 @@ With the glory of Soma I besprinkle thee, with the brilliance of Agni [1], with 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ख्ष॒त्त्राणा᳚ङ् ख्ष॒त्त्र-प॑तिर् अ॒सि  ।  
+ख्ष॒त्त्राणा᳚ङ् ख्ष॒त्त्र-प॑तिर् असि  ।  
 अति॑ दि॒वस् पा॑हि   ।
 </details>
 
@@ -228,8 +228,7 @@ Protect from the sky.
 
 <details><summary>मूलम्</summary>
 
-ख्ष॒त्त्राणा᳚ङ्ख्ष॒त्त्रप॑तिर॒सि  ।  
-अति॑ दि॒वस्पा॑हि   ।
+ख्ष॒त्त्राणा᳚ङ्ख्ष॒त्त्रप॑तिर॒स्यति॑ दि॒वस्पा॑हि
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

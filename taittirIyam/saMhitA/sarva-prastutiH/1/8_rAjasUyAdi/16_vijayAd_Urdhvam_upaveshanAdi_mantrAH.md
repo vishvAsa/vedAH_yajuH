@@ -185,7 +185,7 @@ May she hurt thee not; may she hurt me not.
 </details>
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 **निष॑साद** धृ॒त-व्र॑तो॒  
 वरु॑णᳶ प॒स्त्या᳚स्व्+++(=गृहेषु|अप्सु)+++ आ ।  
