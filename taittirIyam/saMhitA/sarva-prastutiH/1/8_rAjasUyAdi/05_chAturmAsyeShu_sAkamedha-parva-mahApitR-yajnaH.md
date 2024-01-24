@@ -96,7 +96,7 @@ Do ye Pitrs rejoice in your portions.
 
 3आहवनीयमुपतिष्ठते - सुसन्दृशमिति पञ्चपदया ऐन्द्रापङ्क्त्या ॥
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सु॒स॒न्दृश॑न् त्वा व॒यम्  
 मघ॑वन् मन्दिषी॒महि॑  ॥
@@ -113,19 +113,16 @@ O bountiful one, fair to see;
 </details>
 </details>
 </div>
-<details><summary>भट्टभास्कर-टीका</summary>
-
-इन्द्रात्मना स्तूयते । हे **मघवन्** इन्द्र **सुसन्दृशं** सुष्ट्वनुग्रहदृष्ट्या सर्वस्य द्रष्टारम् ।  
-यद्वा - शोभना सन्दृष्टिर्यस्य द्रष्टॄणां तादृशं **त्वां** वयं **मन्दिषीमहि** तर्पयामः ।  
-आमन्त्रितस्याविद्यमानवत्त्वान् निघाताभावः,  
-'लिङ्याशिषि' इत्यार्धधातुकत्वाल् लसार्वधातुकानुदात्तत्वाभावः ।  
-</details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/03_pra_nUnam.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 **प्र** नू॒नम् पू॒र्ण-व॑न्धुरस्+++(=रथाग्रः)+++  
 स्तु॒तो **या॑सि॒** वशा॒ꣳ॒ अनु॑  ॥    
 **योजा॒** न्व् इ॑न्द्र ते॒ हरी᳚ ॥ [7]
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/03_pra_nUnam.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 Forth now with full chariot seat  
@@ -146,6 +143,8 @@ Yoke, O Indra, thy two bay steeds [1].
 
 कथं याहीत्याह - **योजा** योजयित्वा । निपातोयं योजयित्वेति समानार्थः । ते हरितावश्वौ । न्विति क्षिप्रनाम । पुराणवचनो वा, पुरातनी या तव पुराणप्रक्रियेति द्योत्यते । यद्वा - योजा योजनी योगकरी [योजनीयौ गत्वरौ] क्षिप्रं वाहनार्थं रथे । ण्यन्तात्कर्मणि घञ्, 'सुपां सुलुक्' इत्याकारः । लोटि वा विकरणव्यत्ययेन शप्, वर्णव्यत्ययेन तस्याकारः । क्षिप्रं हरी यानार्थं योजयेत्यर्थः ॥
 </details>
+</details>
+</div>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4गार्हपत्यमुपतिष्ठते - अक्षन्नमीमदन्तेति पञ्चपदया पङ्क्त्या । ह्यन्तः प्रथमः पादः ॥ 
@@ -447,13 +446,17 @@ The Pitrs have eaten, the Pitrs have rejoiced, the Pitrs have been glad, the Pit
 
 6पितॄन् प्रवाहयति - परेतेति । पञ्चपदा बृहती ॥ 
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/04_pareta_pitaras.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 **परे॑त** पितरस् सोम्या  
 गम्भी॒रैᳶ प॒थिभिᳶ॑ पू॒र्व्यैः  ।   
 अथा॑ पि॒तॄन्थ् सु॑वि॒दत्रा॒ꣳ॒  
-**अपी॑त** य॒मेन॒ ये स॑ध॒माद॒म् **मद॑न्ति**  ॥  
+**अपी॑त** य॒मेन॒ ये स॑ध॒माद॒म् **मद॑न्ति**  ॥
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/04_pareta_pitaras.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 Go away, O ye Pitrs, Soma loving,  
@@ -464,24 +467,30 @@ Who carouse in company with Yama.
 <details><summary>मूलम्</summary>
 
 परे॑त पितरस्सोम्या गम्भी॒रैᳶ प॒थिभिᳶ॑ पू॒र्व्यैः  ।   
-अथा॑ पि॒तॄन्थ्सु॑वि॒दत्रा॒ꣳ॒ अपी॑त य॒मेन॒ ये स॑ध॒माद॒म्मद॑न्ति  ॥  
+अथा॑ पि॒तॄन्थ्सु॑वि॒दत्रा॒ꣳ॒ अपी॑त य॒मेन॒ ये स॑ध॒माद॒म्मद॑न्ति  ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हे पितरः ते यूयं परेत सम्प्रति गृहान् प्रति गच्छत । सोम्यास्सोमार्हाः । 'सोममर्हति' इति यः । गम्भीरः सुलभान्नतोयैः पथिभिः मार्गैः पूर्व्यैः पूर्वकृतैः प्रहतैरित्यर्थः । 'पूर्वैः कृतमिनयौ च' इति यः । अथ तथा गत्वा ते यूयं पितृन् अस्मत्पूर्वपुरुषान् सुविदत्रान् शोभनज्ञानान् कल्याणमतीनिति यावत् । सुष्ठु विन्दतीति सुविदत्राः । 'सुञि विदेः कत्रन्' इति कत्रन्प्रत्ययः, कृदुत्तरपदप्रकृतिस्वरत्वम्, 'दीर्घादटि समानपादे' इति संहितायां रुत्वम् । 'निपातस्य च' इत्यथेत्यस्य दीर्घत्वम् । तानपीत अनुप्राप्नुत एकीभवत ।   
 पुनश्च ते विशेष्यन्ते - यमेन ये सधमादं सहस्थानस्थं मदं यथा तथा मदन्ति माद्यन्ति तेन सह मोदन्ते, तानपीतेति । 'सधमादस्थयोः' इति सधादेशः, चौरादिकान्मदेर्ण्यन्तात्क्विप्, क्रियाविशेषणत्वेपि व्यत्ययेन नपुंसकत्वाभावः, णमुलन्तो वा । यमेन सहाभीक्ष्णं मदन्तीति माद्यतेर्व्यत्ययेन शप् । मादयतेर्वा व्यत्ययेन परस्मैपदम्, 'छन्दस्युभयथा' इति सार्वधातुकत्वाण्णिलोपः ॥
 </details>
+</details>
+</div>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 7अथ तैस्सह तं देशं गतम् इव कृत्वा मन आह्वयति - मन इति तिसृभिर्गायत्रीभिः ॥ 
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/05_mano_nv.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 +++(पितॄन् अनु प्रेषितम्)+++  
 मनो॒ न्व् **आ हु॑वामहे**  
 नाराश॒ꣳ॒सेन॒ स्तोमे॑न +++(←शाकले "सोमेन")+++ ।    
 पितृ॒णाञ् +++(←६.४.५ छन्दस्युभयथा)+++ च॒ च॒ मन्म॑भिः+++(=मननीयैः)+++  ॥
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/05_mano_nv.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 Mind let us summon hither  
@@ -500,16 +509,22 @@ And the reverence of the Pitrs.
 **नाराशंसेन** नराणां सर्वेषामपि शंसनीयेन मनोहरेण स्तोमेन स्तोत्रेण शस्यन्ते स्तूयन्ते तेन वाचिकेन **स्तोमेन** मानसेन  
 **पितॄणाञ्च मन्मभिः** मननीयैर् इष्टतमैः स्वधादिभिः पदैर्युक्तेन स्तोमेनाह्वयामहे ॥
 </details>
+</details>
+</div>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8अथ द्वितीया ॥ 
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/06_A_na.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 **आ** [8] न **एतु** मन॒ᳶ पुन॒ᳵ  
 क्रत्वे॒ दख्षा॑य जी॒वसे᳚ ॥   
 ज्योक् च॒ सूर्य॑न् दृ॒शे  ॥
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/06_A_na.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 Let mind return to us [2]  
@@ -525,6 +540,8 @@ And that long we may see the sun.
 
 तस्मान्नः अस्मान् पुनरैतु । किं प्रयोजनं ? क्रत्वे कर्मणे कर्मानुष्ठानार्थम् । 'जसादिषु वा वचनं प्राङ्णौ चङ्युपधायाः' इति गुणाभावः । दक्षाय क्रियानुष्ठानसामर्थ्याय । तदपि किमर्थं ? इत्याह - जीवसे जीवितुं दीर्घमायुर्यथा स्यात् । 'तुमर्थे सेसेन्' इति सेप्रत्ययः । किमेतावदेव प्रयोजनम् ? ज्योक् चिरं सूर्यं दृशे द्रष्टुं मोक्षार्थञ्चेत्यर्थः । स ह्यात्मेत्युक्तं, आत्मदर्शनाच्च मोक्ष इति, यथा - 'आत्मा वा अरे द्रष्टव्यः' इति । 'दृशे विख्ये च' इति केप्रत्ययान्तो निपात्यते ॥
 </details>
+</details>
+</div>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 9अथ तृतीया ॥ 
@@ -560,7 +577,8 @@ May we belong to the band of the living.
 
 10गार्हपत्यसमीपं गच्छन् जपति - यदन्तरिक्षमिति षट्पदा शक्वरी । केचित् पङ्क्तिमाहुः ॥ 
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/07_yad_antarikhSham.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 यद् अ॒न्तरि॑ख्षम् पृथि॒वीम् उ॒त द्याय्ँ  
 यन् मा॒तर॑म् पि॒तर॑व्ँ वा **जिहिꣳसि॒म**  ॥    
@@ -569,6 +587,9 @@ May we belong to the band of the living.
 दुरि॒ता यानि॑ **चकृ॒म** ..  
 **क॒रोतु॒** माम् अ॑ने॒नस᳚म् ॥
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/07_yad_antarikhSham.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
 Whatever hurt we have done to atmosphere, to earth, to sky,  
@@ -590,5 +611,7 @@ In respect of all the ill we have wrought.
 
 यत् यस्मिन् कर्मणि येन प्रतिषिद्धकरणेन कर्मलोपेन वा यदन्तरिक्षं पृथिवीं अपि च द्यां द्युलोकञ्च जिहिंसिम, येन वा मातरं पितरं वा जिहिंसिम हिंसितवन्तः हिंसितारस्तेषां सम्भवेम । छान्दसो लिट् । अयमग्निर्गार्हपत्यः तस्मात्तन्निमित्तादेनसः पापात्प्रमुञ्चतु । आत्माधीनत्वात्सर्वासामात्मन्येक वचनम् । यानि चान्यानि अज्ञातस्वरूपाणि दुश्चरितानि दुःखादिसाधनानि पापानि वयं चकृम यैर्वयं सर्वस्य लोकस्य हिंसितारस्सम्भवाम ; तस्माच्चैनसो मामग्निः प्रमुञ्चत्वेव । 'शेश्छन्दसि बहुलम्' इति शेर्लोपः । एवं सर्वप्रकाराणां मया मदीयैश्च कृतानां पापानां विमोचनेन मामननेसं करोत्वयमग्निरिति ॥
 
-इत्यष्टमे पञ्चमोनुवाकः ॥  
+इत्यष्टमे पञ्चमोनुवाकः ॥
 </details>
+</details>
+</div>
