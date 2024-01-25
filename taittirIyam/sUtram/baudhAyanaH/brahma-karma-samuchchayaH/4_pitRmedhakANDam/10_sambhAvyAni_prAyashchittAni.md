@@ -260,11 +260,15 @@ title = "१० सम्भाव्यानि प्रायश्चित
 </div>
 
 
-महाव्याहृतीः, व्याहृतीश्च हुत्वा ।।  
+महाव्याहृतीः, 
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/02_bhUr_agnaye_mahAvyAhRtayaH/"  newLevelForH1="5" includeTitle="false"> </div>  
+
+व्याहृतीश्च **हुत्वा** ।।  
 
 > भूर्भुवः सुवः स्वाहा ॥ 
 
 इति सर्वप्रायश्चित्तं हुत्वा 
 
-पुनरपसव्यं परिषिच्य  
+पुनर् अपसव्यं परिषिच्य  
 होम-शेषं समापयेत् ॥

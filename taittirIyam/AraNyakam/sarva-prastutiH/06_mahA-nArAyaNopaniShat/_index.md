@@ -597,12 +597,8 @@ Das Meer erbrauste in dem ersten Himmel, des Weltalls König, die Geschöpfe zeu
 
 ## 02
 
-भूर॒ग्नये॑ पृथि॒व्यै स्वाहा॑॥    
-भुवो॑ वा॒यवे॒ऽन्तरि॑ख्षाय॒ स्वाहा॑॥    
-सुव॑रादि॒त्याय॑ दि॒वे स्वाहा॑॥     
-भूर्भुव॒स्सुव॑श् च॒न्द्रम॑से दि॒ग्भ्यस् स्वाहा॑॥    
-नमो॑ दे॒वेभ्य॑स्, स्व॒धा पि॒तृभ्यो॒,  
-भूर्भुव॒स्सुव॒रोम् । (12) - । 2 ।
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/02_bhUr_agnaye_mahAvyAhRtayaH.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
 
 
 
