@@ -320,15 +320,50 @@ title = "०३ अङ्कुरार्पणम्"
 
 'या जाता' इत्यनुवाकेन **अभिमन्त्र्य**  
 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 ## वपनादि
 
 'ब्रह्मजज्ञानं' 'पिता विराजाम्' इति द्वाभ्यां मध्यपालिकायां,  
 
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/13/03_brahma_jajnAnam.md">
+<details open><summary><h5>०३ ब्रह्म जज्ञानम् ...{Loading}...</h5></summary>
+
+ब्रह्म॑ +++(=मन्त्रः ([सौरमण्डलयज्ञे]))+++ जज्ञा॒नं +++(=उत्पन्नम्)+++ प्र॑थ॒मं पु॒रस्ता॑द्  
+वि सी॑म॒तस् सु॒रुचो॑ वे॒न आ॑वः ।  
+स बु॒ध्न्या॑ +++(=मूले भवः ([खस्य सूर्यः]))+++ उप॒मा अ॑स्य वि॒ष्ठाः +++(=विस्थितः)+++,  
+स॒तश्च॒ योनि॒म् +++(सूर्यम्)+++ अस॑तश्च॒ विवः॑ +++(=विवृतवान्)+++  ।
+
+{{< figure src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/venus_morning_star.jpg"  class="thumbnail">}}
+
+</details>
+</div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/8/8_21-26_brahma_jaJNAnam/17_pitA_virAjAm.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+
 'यत इन्द्र' 'स्वस्तिदा' इति द्वाभ्यां प्राच्यां, 
 
+
+<div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/061/13_yata_indra.md">
+<details open><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+
+
+यत॑ इन्द्र॒ भया॑महे॒  
+ततो॑ नो॒ अभ॑यं कृधि ।  
+मघ॑वञ् छ॒ग्धि +++(=शक्तो वर्तस्व)+++ तव॒ तन् न॑+++(ः)+++ ऊ॒तिभि॑र्+++(=रक्षाभिः, ऊ॒तये॒ इति तैत्तिरीयपाठः)+++  
+वि द्विषो॒ वि मृधो॑+++(=सङ्ग्रामान्)+++ जहि ।।
+
+</details>
+</div>
+
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/152/02_svastidA_vishaspatirvRtrahA.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+
 'योऽस्य कौष्ठ्य' 'यमङ्गाय' इति द्वाभ्यां दक्षिणस्याम्, 
+
+
 
 ‘इमं मे वरुण' 'तत्त्वा यामि' इति प्रतीच्यां, 
 
