@@ -515,26 +515,8 @@ Or those that are among the trees,
 Or those that lie in the wells,  
 To those serpents honour.
 ## 09
-### a
-Thou art firm, supporting, unoverpowered,  
-Well wrought by Viśvakarman;  
-Let not the ocean smite thee, nor the eagle;  
-Unshaking do thou make firm the earth.
-### b
-May Prajapati seat thee on the back of earth, capacious, extending; thou art extent, thou art earth, thou art the world, thou art the earth, thou art Aditi all-sustaining, sustainer of all the world; sustain the earth, make firm the earth, harm not the earth, for all expiration, cross-breathing, up-breathing,  
-for support [1], for motion; may Agni protect thee with great prosperity, with most auspicious covering; with that deity, in the manner of Angiras, do thou sit firm.
-### c
-Arising from every stem,  
-From every joint,  
-Do thou, O Durva, extend us  
-With a thousand, a hundred.
-### d
-Thou that extendest with a hundred,  
-That arisest with a thousand,  
-To thee, O goddess, O brick,  
-Let us sacrifice with oblation.
 ### e
-Unovercomable art thou, overcoming, overcome our enemies, over come those that practise enmity.
+
 ### f
 Overcome the foe, overcome the foemen of a thousandfold strength [2] art thou; do thou inspirit me.
 ### g

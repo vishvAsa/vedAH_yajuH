@@ -583,7 +583,7 @@ _____________________________
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/08_upAkarmotsarjanaprakaraNam/11u_25.md">
 <details open><summary><h2>११उ २५ ...{Loading}...</h2></summary>
 
-प्रत्येत्य ब्राह्मणभोजनादि कर्म प्रतिपद्यते २५
++++(पारायण-समाप्तौ)+++ प्रत्येत्य ब्राह्मणभोजनादि कर्म प्रतिपद्यते २५
 
 </details>
 </div>
