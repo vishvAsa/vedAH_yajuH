@@ -92,6 +92,11 @@ Do ye Pitrs rejoice in your portions.
 
 अधुना सर्वेपि सामान्येनोच्यन्ते । अत्र अस्मिन् कर्मणि हे पितरः पातारः पितृप्रभृतयो वा पितृपितामहप्रपितामहाः यथाभागं योयो यस्य भागः तेनतेन । 'यथाऽसादृश्ये' इत्यव्ययीभावः । यूयं मन्दध्वं मोदध्वम् । मदि स्तुतिमोदमदस्वप्नगतिषु ॥
 </details>
+</details>
+</div>
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/02_susandRshan_tvA.md"  newLevelForH1="5" includeTitle="false">
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3आहवनीयमुपतिष्ठते - सुसन्दृशमिति पञ्चपदया ऐन्द्रापङ्क्त्या ॥
@@ -111,8 +116,10 @@ Do ye Pitrs rejoice in your portions.
 May we gladden thee,  
 O bountiful one, fair to see;
 </details>
-</details>
-</div>
+
+</div>  
+
+
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/03_pra_nUnam.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
