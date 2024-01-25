@@ -323,56 +323,14 @@ Full of strength, swelling with milk,
 Do thou, O furrow, turn towards us with milk.
 
 ## 06
-### a
-The plants born  
-Three generations before the gods, Of the brown ones I celebrate  
-The seven and a hundred abodes.
-### b
-A hundred, O mother, are your abodes, A thousand too your shoots,  
-Therefore do ye, with a hundred powers, Make him whole for me.
-### c
-With flowers, with shoots,  
-Fruit-bearing and without fruit,  
-Like steeds victorious  
-The plants are strong to help.
 ### d
-'Plants', O ye mothers,  
-I hail you, O goddesses;  
-Go bearing away defilement,  
-Defilement [1] destroying.
 ### e
-In the Aśvattha is your seat,  
-In the Parna is your dwelling made; Cows shall in truth be your share  
-If ye shall gain this man.
 ### f
-In that in strength I seize  
-These plants in my hand,  
-The soul of the disease perisheth,  
-As before one that taketh alive.
 ### g
-When the plants come together  
-Like princes at the assembly,  
-Sage is the physician called,  
-Slayer of Raksases, overpowerer of diseases.
 ### h
-Remover is your mother by name, And ye are helpers;  
-Ye are winged streams [2];  
-Remove whatever is unwell.
 ### i
-Let one of you aid another,  
-Let one be of assistance to another; All the plants in unison  
-Do ye further this speech of mine.
 ### k
-The strength of the plants hath arisen Like cows from the pasturage,  
-Of them that are fain to win gain,  
-To the self of thee, O man.  
-I Beyond all obstacles,  
-Like the thief the pen, they have strode, The plants have shaken away  
-Every defilement in the body.
 ### m
-Those [3] that have mounted thy self, That have entered every limb,  
-May they repel thy disease,  
-Like a dread intercessor.
 ### n
 O disease, do thou fly forth  
 With the eagle, the blue jay (kikidivi) With the rush of the wind,  
