@@ -322,55 +322,6 @@ The furrow anointed with ghee, with honey, Approved by the All-gods, the Maruts,
 Full of strength, swelling with milk,  
 Do thou, O furrow, turn towards us with milk.
 
-## 06
-### d
-### e
-### f
-### g
-### h
-### i
-### k
-### m
-### n
-O disease, do thou fly forth  
-With the eagle, the blue jay (kikidivi) With the rush of the wind,  
-With the whirlwind do thou disappear.
-
-### o
-Rich in steeds, rich in Soma,  
-Full of strength, full of power,  
-I have found all the plants  
-For his safety.
-### p
-The fruitful, the fruitless,  
-The flowering, the flowerless,  
-Impelled by Brhaspati,  
-May they free us from tribulation.
-### q
-The [4] plants whose king is Soma,  
-And which have entered the earth,  
-Of them thou art the highest,  
-Impel us to long life.
-### r
-Falling from the sky  
-The plants said,  
-'He, whom we reach while in life,  
-Shall not come to ill.'
-### s
-Those that hear now  
-And those that are gone far away,  
-Coming all together here  
-Give ye him healing.
-### t
-May the digger of you come to no ill,  
-Nor he for whom I dig you;  
-May all our bipeds and quadrupeds  
-Be free from disease.
-### u
-The plants hold converse  
-With Soma, the king,  
-'The man for whom the Brahman prepares (us),  
-We, O king, bring to safety.'
 ## 07
 ### a
 May I be harm us not who is father of earth  
