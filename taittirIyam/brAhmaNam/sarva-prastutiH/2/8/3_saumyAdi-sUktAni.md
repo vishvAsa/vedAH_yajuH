@@ -1,5 +1,5 @@
 ---
-title: ०३, सौम्यादीनां  सूक्तानि
+title: ०३, सौम्यादि-सूक्तानि
 unicode_script: devanagari
 
 ---
