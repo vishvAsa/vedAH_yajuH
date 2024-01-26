@@ -237,12 +237,3 @@ Homage to the intelligent.
 Homage to the unconquerable.
 ### t
 Homage to the destroyers.
-## 11
-### h
-### i
-### k
-The Rudras that so many and yet more  
-Occupy the quarters, their bows we unstring  
-At a thousand leagues.
-### l,m,n
-Homage to the Rudras on the earth, in the atmosphere, in the sky, whose arrows are food, wind, and rain, to them ten eastwards, ten to the south, ten to the west, ten to the north, ten upwards; to them homage, be they merciful to us, him whom we hate and him who hateth us, I place him within your jaws.
