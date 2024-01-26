@@ -322,97 +322,6 @@ The furrow anointed with ghee, with honey, Approved by the All-gods, the Maruts,
 Full of strength, swelling with milk,  
 Do thou, O furrow, turn towards us with milk.
 
-## 06
-### a
-The plants born  
-Three generations before the gods, Of the brown ones I celebrate  
-The seven and a hundred abodes.
-### b
-A hundred, O mother, are your abodes, A thousand too your shoots,  
-Therefore do ye, with a hundred powers, Make him whole for me.
-### c
-With flowers, with shoots,  
-Fruit-bearing and without fruit,  
-Like steeds victorious  
-The plants are strong to help.
-### d
-'Plants', O ye mothers,  
-I hail you, O goddesses;  
-Go bearing away defilement,  
-Defilement [1] destroying.
-### e
-In the Aśvattha is your seat,  
-In the Parna is your dwelling made; Cows shall in truth be your share  
-If ye shall gain this man.
-### f
-In that in strength I seize  
-These plants in my hand,  
-The soul of the disease perisheth,  
-As before one that taketh alive.
-### g
-When the plants come together  
-Like princes at the assembly,  
-Sage is the physician called,  
-Slayer of Raksases, overpowerer of diseases.
-### h
-Remover is your mother by name, And ye are helpers;  
-Ye are winged streams [2];  
-Remove whatever is unwell.
-### i
-Let one of you aid another,  
-Let one be of assistance to another; All the plants in unison  
-Do ye further this speech of mine.
-### k
-The strength of the plants hath arisen Like cows from the pasturage,  
-Of them that are fain to win gain,  
-To the self of thee, O man.  
-I Beyond all obstacles,  
-Like the thief the pen, they have strode, The plants have shaken away  
-Every defilement in the body.
-### m
-Those [3] that have mounted thy self, That have entered every limb,  
-May they repel thy disease,  
-Like a dread intercessor.
-### n
-O disease, do thou fly forth  
-With the eagle, the blue jay (kikidivi) With the rush of the wind,  
-With the whirlwind do thou disappear.
-
-### o
-Rich in steeds, rich in Soma,  
-Full of strength, full of power,  
-I have found all the plants  
-For his safety.
-### p
-The fruitful, the fruitless,  
-The flowering, the flowerless,  
-Impelled by Brhaspati,  
-May they free us from tribulation.
-### q
-The [4] plants whose king is Soma,  
-And which have entered the earth,  
-Of them thou art the highest,  
-Impel us to long life.
-### r
-Falling from the sky  
-The plants said,  
-'He, whom we reach while in life,  
-Shall not come to ill.'
-### s
-Those that hear now  
-And those that are gone far away,  
-Coming all together here  
-Give ye him healing.
-### t
-May the digger of you come to no ill,  
-Nor he for whom I dig you;  
-May all our bipeds and quadrupeds  
-Be free from disease.
-### u
-The plants hold converse  
-With Soma, the king,  
-'The man for whom the Brahman prepares (us),  
-We, O king, bring to safety.'
 ## 07
 ### a
 May I be harm us not who is father of earth  
@@ -515,26 +424,8 @@ Or those that are among the trees,
 Or those that lie in the wells,  
 To those serpents honour.
 ## 09
-### a
-Thou art firm, supporting, unoverpowered,  
-Well wrought by Viśvakarman;  
-Let not the ocean smite thee, nor the eagle;  
-Unshaking do thou make firm the earth.
-### b
-May Prajapati seat thee on the back of earth, capacious, extending; thou art extent, thou art earth, thou art the world, thou art the earth, thou art Aditi all-sustaining, sustainer of all the world; sustain the earth, make firm the earth, harm not the earth, for all expiration, cross-breathing, up-breathing,  
-for support [1], for motion; may Agni protect thee with great prosperity, with most auspicious covering; with that deity, in the manner of Angiras, do thou sit firm.
-### c
-Arising from every stem,  
-From every joint,  
-Do thou, O Durva, extend us  
-With a thousand, a hundred.
-### d
-Thou that extendest with a hundred,  
-That arisest with a thousand,  
-To thee, O goddess, O brick,  
-Let us sacrifice with oblation.
 ### e
-Unovercomable art thou, overcoming, overcome our enemies, over come those that practise enmity.
+
 ### f
 Overcome the foe, overcome the foemen of a thousandfold strength [2] art thou; do thou inspirit me.
 ### g

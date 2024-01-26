@@ -589,7 +589,7 @@ unicode_script = "devanagari"
 
 
 {विष्ण॑वे॒ स्वाहा॑ श्रो॒णायै॒ स्वाहा॑।  
-श्लोका॑य॒ स्वाहा॑ श्रु॒ताय॒स्स्वाहा॑।}
+श्लोका॑य॒ स्वाहा॑ श्रु॒ताय॒ स्वाहा॑।}
 
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/20_shroNA/">

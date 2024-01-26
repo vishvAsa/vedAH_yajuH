@@ -298,9 +298,12 @@ title = "०९ प्रायश्चित्तम्"
 
 अन्यस्मिन् अग्नौ तां समिधं 'आजुह्वानः' ‘उद्बुध्यस्व' इति द्वाभ्याम् आधाय  
 
-<div class="js_include" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/29/28_AjuhvAna-IDyo_vandyashchAyAhyagne.md"  newLevelForH1="5" includeTitle="false"> 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/6/05_chityAm_agni-sthApanAdi-mAruta-homAntam/07_AjuhvAnas_supratIkapH.md"  newLevelForH1="5" includeTitle="false"> 
 
-आ॒जुह्वा॑न॒ ईड्यो॒ वन्द्य॑श्च । आया॑ह्यग्ने॒ वसु॑भिस्स॒जोषाः॑ । त्वं दे॒वाना॑मसि यह्व॒ होता॑ । स ए॑नान् यक्षीषि॒तो यजी॑यान् ।
+**आ॒जुह्वा॑नस्**+++(=हूयमानः)+++ सु॒-प्रती॑कᳶ पु॒रस्ता॒द्  
+अग्ने॒ स्वाय्ँ योनि॒म् **आ सी॑द** सा॒ध्या+++(→ साधु॒या माध्यन्दिने)+++ ।  
+अ॒स्मिन्थ् स॒ध-स्थे॒, अध्युत्त॑रस्मि॒न्   
+विश्वे॑ देवाः यज॑मानश् च **सीदत** ।
 </div>  
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/45_udbudhyasvAgne_prati.md"  newLevelForH1="5" includeTitle="false"> 

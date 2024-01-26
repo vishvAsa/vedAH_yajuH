@@ -353,7 +353,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 **हे॒ती** रु॒द्रस्य॒ **परि॑ णो वृणक्तु**।  
 आ॒र्द्रा नक्ष॑त्रञ् **जुषताꣳ ह॒विर्** नः॑।  
 **प्र॒मु॒ञ्चमा॑नौ**** दुरि॒तानि॒ विश्वा॑।  
-अपा॒घशꣳसन् नुदता॒म् **अरा॑तिम्**।॥  
+अपा॒घशꣳ॑सन् नुदता॒म् **अरा॑तिम्**।॥  
 
 </details>
 </div>
@@ -469,8 +469,8 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 
 
-अदि॑त्यै॒ स्वाहा॒ पुन॑र्वसुभ्याम् स्वाहा।  
-{भू॑त्यै॒ स्वाहा॒ प्रजा॑त्यै॒ स्वाहा॑।}
+{अदि॑त्यै॒ स्वाहा॒ पुन॑र्वसुभ्याम् स्वाहा।  
+भूत्यै॒ स्वाहा॒ प्रजा᳚त्यै॒ स्वाहा॑।}
 
 
 
@@ -729,7 +729,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 
 
-{पि॒तृभ्यः॒ स्वाहा॑ म॒घाभ्यः॑ स्वाह ा॑ऽन॒घाभ्यः॒ स्वाहा॑  
+{पि॒तृभ्यः॒ स्वाहा॑ म॒घाभ्यः॑ स्वाहा॑ऽन॒घाभ्यः॒ स्वाहा॑  
 अग॒दाभ्यः॑ स्वाहा॑ ऽरुन्ध॒तीभ्यः॒ स्वाहा॑।}
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/08_maghAH/">
