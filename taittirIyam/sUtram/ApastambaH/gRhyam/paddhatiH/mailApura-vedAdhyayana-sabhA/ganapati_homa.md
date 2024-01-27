@@ -1,5 +1,4 @@
 ---
-
 title: महागणपतिहोमप्रयोगः
 ---
 
@@ -1912,7 +1911,10 @@ Now take the kumba tīrtha in an uddarini (left hand) and pour it into the righ
 ṭake the Raksha from the north-eastern side of the homa and apply it on the forehead
 
 
-बृ॒हत्साम॑ - क्ष॒त्र॒भृत् - वृ॒द्धवृ॑ष्णियम्। त्रि॒ष्टुभौज॑ - शु॒भि॒तं - उ॒ग्रवी॑रम्। इन्द्र॒ स्तोमे॑न - प॒ञ्च॒द॒शेन॑। मध्य॑मि॒दं - वाते॑न - सग॑रेण रक्ष॥
+बृ॒हत्साम॑ - क्ष॒त्र॒भृत् - वृ॒द्धवृ॑ष्णियम्।  
+त्रि॒ष्टुभौजः॑ - शु॒भि॒तं - उ॒ग्रवी॑रम्।  
+इन्द्र॒ स्तोमे॑न - प॒ञ्च॒द॒शेन॑।  
+मध्य॑मि॒दं - वाते॑न - सग॑रेण रक्ष॥
 
 Then offer daksina to the priests/Brahmin who performed the puja. (when is it self?). Then take akṣatā and water in hand, recite the following and pour it on the ground.
 

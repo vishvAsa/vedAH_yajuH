@@ -1,5 +1,5 @@
 ---
-title: ०७, सौर्यादिपशूनां  सूक्तानि
+title: ०७, सौर्यादि-पशु-सूक्तानि
 unicode_script: devanagari
 ---
 

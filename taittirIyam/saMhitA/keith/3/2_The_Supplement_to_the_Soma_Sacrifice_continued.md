@@ -85,9 +85,6 @@ From the low, from the high may I go.
 O sky and earth protect me from this day to-day.
 ### o
 When he creeps forward to the seat [4], the fathers creep along after him; they have power to injure him; having crept to the seat he should look along the south side (saying), 'Come, O ye fathers; through you may I possess the fathers; may ye have good offspring in me'; verily paying reverence to them he creeps to the Sadas, for his own safety.
-## 05
-### w
-### x
 ## 06
 ### a
 Thou art the milk of the great ones, the body of the All-gods; may I to-day accomplish the cup of the speckled ones; thou art the cup of the speckled ones; thou art the heart of Visnu, once hath Visnu stepped apart along thee, O vigorous one; with curds and ghee may prosperity be increased; may wealth come to me from this which is offered and enjoyed thou art the light for all men, milked from the dappled one.

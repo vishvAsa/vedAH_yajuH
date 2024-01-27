@@ -3,317 +3,528 @@ title = "११ स॒हस्रा॑णि सहस्र॒शो"
 
 +++
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
 १-१० अनुष्टुप्, अग्निर्ऋषिः
-
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-स॒हस्रा॑णि सहस्र॒शो ये रु॒द्रा अधि॒ भूम्या᳚म् ।   
-तेषाꣳ॑ सहस्रयोज॒नेऽव॒ धन्वा॑नि तन्मसि ।   
 </details>
-
-<details><summary>मूलम्</summary>
-
-स॒हस्रा॑णि सहस्र॒शो ये रु॒द्रा अधि॒ भूम्या᳚म् ।   
-तेषाꣳ॑ सहस्रयोज॒नेऽव॒ धन्वा॑नि तन्मसि ।   
-</details>
-
-<details><summary>सायण-टीका</summary>
+<details><summary>सायणोक्त-विनियोगः</summary>
 
 २१३९ (अथ चतुर्थकाण्डे पञ्चमप्रपाठके एकादशोऽनुवाकः)।  
 दशमेऽनुवाक ऋग्रूपाः केचिन्मन्त्रा उक्ताः ।  
 
 अथैकादशे शिष्टा ऋचः शिष्ठानि यजूषि चोच्यन्ते।  
 तत्राऽऽदौ दशसंख्याका ऋचः।  
+
+</details>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/02_sahasrANi_sahasrasho.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+स॒हस्रा॑णि सहस्र॒शो  
+ये **रु॒द्रा** अधि॒ भूम्या᳚म् ।   
+तेषाꣳ॑ सहस्र-योज॒ने **ऽव॒**  
+धन्वा॑नि **तन्मसि** ।+++(4)+++
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/02_sahasrANi_sahasrasho.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details><summary>Keith</summary>
+
+The Rudras that are over the earth  
+In thousands by thousands,  
+Their bows we unstring  
+At a thousand leagues.
+</details>
+<details><summary>मूलम्</summary>
+
+स॒हस्रा॑णि सहस्र॒शो ये रु॒द्रा अधि॒ भूम्या᳚म् ।   
+तेषाꣳ॑ सहस्रयोज॒नेऽव॒ धन्वा॑नि तन्मसि ।
+</details>
+<details><summary>सायण-टीका</summary>
+
 तासु प्रथमामाह– सहस्राणीनि।  
-भूम्यामधि भूमेरुपरि मे रुद्राः सहस्रशः सहस्रप्रकाराः  सहस्राणि सहस्रसंख्याकाः सन्ति।  
+भूम्याम् अधि भूमेरुपरि मे रुद्राः सहस्रशः सहस्रप्रकाराः  सहस्राणि सहस्रसंख्याकाः सन्ति।  
 सहस्रश इति जात्युक्तिः।  
 विनायकप्रथम (मथ) शैलादयो जातिभेदाः, ते सर्वेऽपि रुद्रविशेषाः।  
 तत्राप्येकस्यां जातौ बहुभिः सहस्रैः संख्याता मूर्तिविशेषाः।  
-तेषां सर्वेषां धन्वानि धनूंषि सहस्रयो जनेऽस्मत्तः सहस्रयोजनव्यवहितदेशेऽवतन्मसि, अवततज्याकानि स्थापयामः।  
+तेषां सर्वेषां धन्वानि धनूंषि सहस्रयो जनेऽस्मत्तः सहस्रयोजनव्यवहितदेशेऽवतन्मसि, अवततज्याकानि स्थापयामः।
 </details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-अ॒स्मिन्म॑ह॒त्य॑र्ण॒वे᳚ऽन्तरि॑ख्षे भ॒वा अधि॑ ।   
-{तेषाꣳ॑ सहस्रयोज॒नेऽव॒ धन्वा॑नि तन्मसि }
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/03_asmin_mahaty.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
+अ॒स्मिन् म॑ह॒त्य् अ॑र्ण॒वे᳚  
+ऽन्तरि॑ख्षे **भ॒वा** अधि॑ ।   
+{तेषाꣳ॑ सहस्र-योज॒ने **ऽव॒**  
+धन्वा॑नि **तन्मसि** ।}
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/03_asmin_mahaty.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details><summary>Keith</summary>
+
+The Bhavas in this great ocean,  
+The atmosphere--
+{Their bows we unstring  
+At a thousand leagues.}
+</details>
 <details><summary>मूलम्</summary>
 
 अ॒स्मिन्म॑ह॒त्य॑र्ण॒वे᳚ऽन्तरि॑ख्षे भ॒वा अधि॑ ।   
 {तेषाꣳ॑ सहस्रयोज॒नेऽव॒ धन्वा॑नि तन्मसि }
 </details>
-
 <details><summary>सायण-टीका</summary>
 
 अथ द्वितीयामाह— अस्मिन्निति।  
 अस्मिदृश्यमाने महत्यर्णये महासमुद्रसदृशे प्रौढेऽन्तरिक्षेऽधिश्रित्य वर्तमाना भवा रुद्रमूर्तिविशेषा ये सन्ति, तेषां सहस्रयोजन इत्याद्युक्ता  २१४१ र्थमुत्तरार्थं द्वितीयादिषु नवप्रान्तास्वृक्ष, अनुषज्जते।  
-तदनुषङ्गद्योतनायैव दशम्यामृचि पुनः पठितम्।  
+तदनुषङ्गद्योतनायैव दशम्यामृचि पुनः पठितम्।
 </details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-नील॑ग्रीवाश्शिति॒कण्ठा᳚श्श॒र्वा अ॒धः ख्ष॑माच॒राः ।  
-{तेषाꣳ॑ सहस्रयोज॒नेऽव॒ धन्वा॑नि तन्मसि }
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/04_nIlagrIvAsh_shitikaNThAsh.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
++++(एकदेशे)+++ नील॑-ग्रीवाश् +++(अपरत्र)+++ शिति॒-कण्ठा᳚श्  
+**श॒र्वा** अ॒धः ख्ष॑मा-च॒राः ।  
+तेषाꣳ॑ सहस्र-योज॒ने **ऽव॒**  
+धन्वा॑नि **तन्मसि** ।
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/04_nIlagrIvAsh_shitikaNThAsh.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details><summary>Keith</summary>
+
+The Śarvas of black necks, and white throats,  
+Who wander below on the earth--
+{Their bows we unstring  
+At a thousand leagues.}
+</details>
 <details><summary>मूलम्</summary>
 
 नील॑ग्रीवाश्शिति॒कण्ठा᳚श्श॒र्वा अ॒धः ख्ष॑माच॒राः ।  
 {तेषाꣳ॑ सहस्रयोज॒नेऽव॒ धन्वा॑नि तन्मसि }
 </details>
-
 <details><summary>सायण-टीका</summary>
 
 अथ तृतीयामाह– नीलग्रीवा इति।  
-ग्रीवायामेकस्मिन्प्रदेशे नीलवर्णा नीलग्रीवाः प्रदेशान्तरे श्वेतवर्णाः शितिकण्ठाः।  
+ग्रीवायाम् एकस्मिन् प्रदेशे नीलवर्णा नीलग्रीवाः प्रदेशान्तरे श्वेतवर्णाः शितिकण्ठाः।  
 तादृशाः शर्वा रुद्रमूर्तिविशेषाः।  
 कीदृशाः अधः क्षमाचरा भूमेरधस्तात्पातालेषु संचरन्ति।  
-तेषामित्यादि पूर्ववत्।  
+तेषामित्यादि पूर्ववत्।
 </details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-नील॑ग्रीवाश्शिति॒कण्ठा॒ दिवꣳ॑ रु॒द्रा उप॑श्रिताः ।   
-{तेषाꣳ॑ सहस्रयोज॒नेऽव॒ धन्वा॑नि तन्मसि }
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/05_nIlagrIvAsh_shitikaNThA.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
+नील॑-ग्रीवाश् शिति॒-कण्ठा॒  
+दिवꣳ॑ **रु॒द्रा** उप॑श्रिताः ।   
+तेषाꣳ॑ सहस्र-योज॒ने **ऽव॒**  
+धन्वा॑नि **तन्मसि** ।
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/05_nIlagrIvAsh_shitikaNThA.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details><summary>Keith</summary>
+
+The Rudras who abide in the sky,  
+Of black necks and white throats--
+{Their bows we unstring  
+At a thousand leagues.}
+</details>
 <details><summary>मूलम्</summary>
 
 नील॑ग्रीवाश्शिति॒कण्ठा॒ दिवꣳ॑ रु॒द्रा उप॑श्रिताः ।   
 {तेषाꣳ॑ सहस्रयोज॒नेऽव॒ धन्वा॑नि तन्मसि }
 </details>
-
 <details><summary>सायण-टीका</summary>
 
 अथ चतुर्थीमाह— नीलग्रीवा इति।  
-दिवमुपश्रिताः स्वर्गे वर्तमानाः।  
+दिवमुपश्रिताः स्वर्गे वर्तमानाः।
 </details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-ये वृ॒ख्षेषु॑ स॒स्पिञ्ज॑रा॒ नील॑ग्रीवा॒ विलो॑हिताः ।   
-{तेषाꣳ॑ सहस्रयोज॒नेऽव॒ धन्वा॑नि तन्मसि }
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/06_ye_vRkhSheShu.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
+ये वृ॒ख्षेषु॑ स॒स्+++(←सस्य)+++-पिञ्ज॑रा॒+++(=पीत-रक्ता)+++  
+नील॑-ग्रीवा॒ विलो॑हिताः ।   
+तेषाꣳ॑ सहस्र-योज॒ने **ऽव॒**  
+धन्वा॑नि **तन्मसि** ।
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/06_ye_vRkhSheShu.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details><summary>Keith</summary>
+
+Those who of black necks and ruddy,  
+Grass green, are in the trees--
+{Their bows we unstring  
+At a thousand leagues.}
+</details>
 <details><summary>मूलम्</summary>
 
 ये वृ॒ख्षेषु॑ स॒स्पिञ्ज॑रा॒ नील॑ग्रीवा॒ विलो॑हिताः ।   
 {तेषाꣳ॑ सहस्रयोज॒नेऽव॒ धन्वा॑नि तन्मसि }
 </details>
-
 <details><summary>सायण-टीका</summary>
 
 अथ पञ्चमीमाह— ये वृक्षेष्विति।  
 यथा लोकेष्ववस्थिता रुद्रास्तथा वृक्षेष्ववस्थिताः।  
-तेषु केचित्सास्पिञ्जराः शष्पवद्वालतृणवित्पिञ्जरवर्णाः।  
+तेषु केचित्सास्पिञ्जराः शष्पवद् बालतृणवित् पिञ्जर-वर्णाः।  
 नीलग्रीवा नीलवर्णग्रीवाः।  
 केचिद्ग्रीवादेशे नीलवर्णोपेताः।  
 अपरे पुनर्विलोहिता विशेषेण रक्तवर्णाः।  
-ईदृशा ये सन्ति तेषामित्यादि।  
+ईदृशा ये सन्ति तेषामित्यादि।
 </details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-ये भू॒ताना॒मधि॑पतयो विशि॒खास॑ᳵ कप॒र्दिनः॑ ।   
-{तेषाꣳ॑ सहस्रयोज॒नेऽव॒ धन्वा॑नि तन्मसि }
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/07_ye_bhUtAnAm.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
+ये **भू॒ताना॒म् अधि॑पतयो**  
+विशि॒खास॑ᳵ कप॒र्दिनः॑ ।   
+तेषाꣳ॑ सहस्र-योज॒ने **ऽव॒**  
+धन्वा॑नि **तन्मसि** ।
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/07_ye_bhUtAnAm.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details><summary>Keith</summary>
+
+The overlords of creatures,  
+Without top-knot, with braided hair--
+{Their bows we unstring  
+At a thousand leagues.}
+</details>
 <details><summary>मूलम्</summary>
 
 ये भू॒ताना॒मधि॑पतयो विशि॒खास॑ᳵ कप॒र्दिनः॑ ।   
 {तेषाꣳ॑ सहस्रयोज॒नेऽव॒ धन्वा॑नि तन्मसि }
 </details>
-
 <details><summary>सायण-टीका</summary>
 
 अथ षष्ठीमाह— ये भूतानामिति।  
 भूतशब्देनान्तर्हितशरीराः सन्तो मनुष्योपद्रवकारिणो गणविशेषा उच्यन्ते।  
 तेषामधिपतयो ये रुद्रास्तेषु केचिद्विशिखासो युण्डिमूर्धानः।  
-अपरे कपर्दिनो जटाबन्धोपेतास्तेषा मित्यादि।  
+अपरे कपर्दिनो जटाबन्धोपेतास्तेषा मित्यादि।
 </details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-ये अन्ने॑षु वि॒विध्य॑न्ति॒ पात्रे॑षु॒ पिब॑तो॒ जनान्॑ ।  
-{तेषाꣳ॑ सहस्रयोज॒नेऽव॒ धन्वा॑नि तन्मसि }
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/08_ye_anneShu.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
+ये अन्ने॑षु **वि॒विध्य॑न्ति॒**+++(←विध्)+++  
+पात्रे॑षु॒ पिब॑तो॒ जनान्॑ ।  
+तेषाꣳ॑ सहस्र-योज॒ने **ऽव॒**  
+धन्वा॑नि **तन्मसि** ।
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/08_ye_anneShu.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details><summary>Keith</summary>
+
+Those that assault men in their food  
+And in their cups as they drink--
+{Their bows we unstring  
+At a thousand leagues.}
+</details>
 <details><summary>मूलम्</summary>
 
 ये अन्ने॑षु वि॒विध्य॑न्ति॒ पात्रे॑षु॒ पिब॑तो॒ जनान्॑ ।  
 {तेषाꣳ॑ सहस्रयोज॒नेऽव॒ धन्वा॑नि तन्मसि }
 </details>
-
 <details><summary>सायण-टीका</summary>
 
 अथ सप्तमीमाह- ये अन्नेष्विति।  
 ये रुद्रा अन्नेषु भुज्यमानेषु गूढत्वेनावस्थिताः सन्तो जनान्विविघ्यन्ति विशेषेण धातुवैषम्यादिना बाधन्ते।  
-तथा पात्रेषु पातव्येषु क्षीरोदकादिषु गूढत्वेनावस्थिताः पिबतो जनान्विविध्यन्ति, तेषुमित्यादि।  
+तथा पात्रेषु पातव्येषु क्षीरोदकादिषु गूढत्वेनावस्थिताः पिबतो जनान्विविध्यन्ति, तेषुमित्यादि।
 </details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-ये प॒थाम्प॑थि॒रख्ष॑य ऐलबृ॒दा य॒व्युधः॑ ।   
-- {तेषाꣳ॑ सहस्रयोज॒नेऽव॒ धन्वा॑नि तन्मसि }
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/09_ye_pathAm.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
+ये प॒थाम् प॑थि॒र् अख्ष॑य  
+ऐल+++(=आन्न)+++-बृ॒दा+++(=भृतः)+++ य॒व्+++(=यु मिश्रणामिश्रणयोः)+++-युधः॑ ।   
+- तेषाꣳ॑ सहस्र-योज॒ने **ऽव॒**  
+धन्वा॑नि **तन्मसि** ।
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/09_ye_pathAm.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details><summary>Keith</summary>
+
+Those that guard the paths,  
+Bearing food, warriors--
+{Their bows we unstring  
+At a thousand leagues.}
+</details>
 <details><summary>मूलम्</summary>
 
 ये प॒थाम्प॑थि॒रख्ष॑य ऐलबृ॒दा य॒व्युधः॑ ।   
 - {तेषाꣳ॑ सहस्रयोज॒नेऽव॒ धन्वा॑नि तन्मसि }
 </details>
-
 <details><summary>सायण-टीका</summary>
 
-अथाष्ठमीमाह ये पथामिति।  ये रुद्राः पथिरक्षयो लौकिकवैदिकमार्गाणां रक्षकाः।  
+अथाष्ठमीमाह ये पथामिति।  ये रुद्राः **पथिरक्षयो** लौकिकवैदिकमार्गाणां रक्षकाः।  
 नात्र केषांचिदेव मार्गाणां किंतु सर्वेषां पथां ते च रक्षकाः।  
-ऐलबृदा इराऽन्नं तस्य समूह ऐरम्।  
-एरेमेवैलं तद्विभ्रतीत्यैलभृतः।  
-ऐलभृत एवैलबृदा अन्नप्रदानेन पोषका इत्यर्थः।  
+**ऐलबृदा** इराऽन्नं तस्य समूह ऐरम्।  
+एरेमेव् **ऐलं** तद्बिभ्रतीत्यैलभृतः।  
+**ऐलभृत** एवैलबृदा अन्नप्रदानेन पोषका इत्यर्थः।  
 ते च यव्युधः, यौति मिश्री भवति विरोधं करोतीति यु, शत्रुः।  
-युभिः शत्रुभिः सह युध्यन्तीति यव्युधः।  
+युभिः शत्रुभिः सह युध्यन्तीति **यव्युधः**।  
 अस्मदनिष्ठनिवारका इत्यर्थः।  
-तेषामित्यादि ।  
+तेषामित्यादि ।
 </details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-ये ती॒र्थानि॑ [26]  प्र॒चर॑न्ति सृ॒काव॑न्तो निष॒ङ्गिणः॑ ।
-- {तेषाꣳ॑ सहस्रयोज॒नेऽव॒ धन्वा॑नि तन्मसि }
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/10_ye_tIrthAni.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
+ये ती॒र्थानि॑ प्र॒चर॑न्ति  
+सृ॒काव॑न्तो+++(=छुरिकावन्तः)+++ निष॒ङ्गिणः॑+++(=खड्गयुक्ताः)+++ ।
+तेषाꣳ॑ सहस्र-योज॒ने **ऽव॒**  
+धन्वा॑नि **तन्मसि** ।
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/10_ye_tIrthAni.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details><summary>Keith</summary>
+
+Those that resort to fords [1],  
+With spears and quivers--
+{Their bows we unstring  
+At a thousand leagues.}
+</details>
 <details><summary>मूलम्</summary>
 
 ये ती॒र्थानि॑ [26]  प्र॒चर॑न्ति सृ॒काव॑न्तो निष॒ङ्गिणः॑ ।
 - {तेषाꣳ॑ सहस्रयोज॒नेऽव॒ धन्वा॑नि तन्मसि }
 </details>
-
 <details><summary>सायण-टीका</summary>
 
 अथ नवमीमाह— ये तीर्थानिति।  
-ये रुद्रास्तीर्थानि काशीप्रयागत्दीनि रक्षितुं प्रचरन्ति।      Page no.२१४२ कीदृशा रुद्राः सृकावन्तः सृकाश्छुरिका हस्ते धार्यमाणास्तीक्ष्णाग्रा आयुधत्रिशेषास्तद्युक्ताः केचित्।  
-अपरे निषङ्गिणः खड्गयुक्तास्तेषामित्यादि।  
+ये रुद्रास्तीर्थानि काशीप्रयागत्दीनि रक्षितुं प्रचरन्ति।      Page no.२१४२ कीदृशा रुद्राः **सृकावन्तः** सृकाश् छुरिका हस्ते धार्यमाणास्  
+तीक्ष्णाग्रा आयुधत्रिशेषास्तद्युक्ताः केचित्।  
+अपरे निषङ्गिणः खड्ग-युक्तास्तेषामित्यादि।
 </details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-य ए॒ताव॑न्तश्च॒ भूयाꣳ॑सश्च॒ दिशो॑ रु॒द्रा वि॑तस्थि॒रे ।   
-तेषाꣳ॑ सहस्रयोज॒नेऽव॒ धन्वा॑नि तन्मसि ।   
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/11_ya_etAvantash.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
+य ए॒ताव॑न्तश् च॒ भूयाꣳ॑सश् च॒  
+दिशो॑ रु॒द्रा **वि॑तस्थि॒रे** ।   
+तेषाꣳ॑ सहस्र-योज॒नेऽव॒ धन्वा॑नि तन्मसि ।
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/11_ya_etAvantash.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details><summary>Keith</summary>
+
+The Rudras that so many and yet more  
+Occupy the quarters,  
+their bows we unstring  
+At a thousand leagues.
+</details>
 <details><summary>मूलम्</summary>
 
 य ए॒ताव॑न्तश्च॒ भूयाꣳ॑सश्च॒ दिशो॑ रु॒द्रा वि॑तस्थि॒रे ।   
-तेषाꣳ॑ सहस्रयोज॒नेऽव॒ धन्वा॑नि तन्मसि ।   
+तेषाꣳ॑ सहस्रयोज॒नेऽव॒ धन्वा॑नि तन्मसि ।
 </details>
-
 <details><summary>सायण-टीका</summary>
 
 अथ दशमीमाह— य एतावभ्तश्चेति।  
-ये रुद्रा एतावन्तश्च सहस्राणि सहस्रश दत्याद्यृग्भि र्यावन्त उक्तास्तावन्तोऽपि भूयांसश्चतोऽप्यधिका अन्ये बहवोऽपि दिशो वितस्थिरे सर्वा दिशः प्रविश्य स्थितास्तेषामित्यादि।  
-
-इत्थं द्वादशसंख्याका ऋच उक्ताः।  
+ये रुद्रा एतावन्तश्च सहस्राणि सहस्रश दत्याद्यृग्भि र्यावन्त उक्तास्तावन्तोऽपि भूयांसश्चतोऽप्यधिका अन्ये बहवोऽपि दिशो वितस्थिरे सर्वा दिशः प्रविश्य स्थितास्तेषामित्यादि।
 </details>
-
-<details><summary>मूलम् (संयुक्तम्)</summary>
-
-नमो॑ रु॒द्रेभ्यो॒ ये पृ॑थि॒व्याय्ँये᳚ऽन्तरि॑ख्षे॒ ये दि॒वि येषा॒मन्न॒व्ँवातो॑ व॒र्षमिष॑व॒स्तेभ्यो॒ दश॒ प्राची॒र्दश॑ दख्षि॒णा दश॑ प्र॒तीची॒र्दशोदी॑ची॒र्दशो॒र्ध्वास्तेभ्यो॒ नम॒स्ते नो॑ मृडयन्तु॒ ते यन्द्वि॒ष्मो यश्च॑ नो॒ द्वेष्टि॒ तव्ँवो॒ जम्भे॑ दधामि ॥ [27]   
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-नमो॑ रु॒द्रेभ्यो॒ ये पृ॑थि॒व्याम्  {येषा॒मन्न᳚मिष॑वः - येषामन्नमिषवः}  
-+++(तेभ्यो॒ दश॒ प्राची॒र्दश॑ दख्षि॒णा दश॑ प्र॒तीची॒र्दशोदी॑ची॒र्दशो॒र्ध्वास्तेभ्यो॒ नम॒स्ते नो॑ मृडयन्तु॒ ते यन्द्वि॒ष्मो यश्च॑ नो॒ द्वेष्टि॒ तव्ँवो॒ जम्भे॑ दधामि ॥)+++
-</details>
-
-<details><summary>मूलम्</summary>
-
-नमो॑ रु॒द्रेभ्यो॒ ये पृ॑थि॒व्याम्  {येषा॒मन्न᳚मिष॑वः - येषामन्नमिषवः}  
-+++(तेभ्यो॒ दश॒ प्राची॒र्दश॑ दख्षि॒णा दश॑ प्र॒तीची॒र्दशोदी॑ची॒र्दशो॒र्ध्वास्तेभ्यो॒ नम॒स्ते नो॑ मृडयन्तु॒ ते यन्द्वि॒ष्मो यश्च॑ नो॒ द्वेष्टि॒ तव्ँवो॒ जम्भे॑ दधामि ॥)+++
-</details>
-
 <details><summary>सायण-टीका</summary>
 
-अथ त्रीणि यर्जष्युच्यन्ते— नमो रुद्रेभ्य इति।  
-अत्र पृथिव्यादिलोकभेदादिषुभेदाच्च यचुस्त्रयं द्रष्टव्यम्।  
-तदैवं पाठः संपद्यतेनमो रुद्रेभ्य इत्युपक्रम्य ये पृथिव्यां येषामन्नमिषव इत्याद्यो मन्त्रः।  
+इत्थं द्वादशसंख्याका ऋच उक्ताः।  
 
-येऽन्तरिक्षे येषां वात इषव इति द्वितीयो मन्त्रः।   
+अथ त्रीणि यजूंष्य् उच्यन्ते— नमो रुद्रेभ्य इति।  
+अत्र पृथिव्यादिलोकभेदादिषुभेदाच्च यजुस्त्रयं द्रष्टव्यम्।  
+तदैवं पाठः संपद्यतेनमो रुद्रेभ्य इत्युपक्रम्य ये पृथिव्यां येषामन्नमिषव इत्याद्यो मन्त्रः।
+
+येऽन्तरिक्षे येषां वात इषव इति द्वितीयो मन्त्रः।
 
 ये दिवि येषां वर्षमिषव इति तृतीयो मन्त्रः ।  
-तेभ्यो दश प्राचीरित्यादि सर्वत्र समानम्।   
+तेभ्यो दश प्राचीरित्यादि सर्वत्र समानम्।
+</details>
+<details><summary>मूलम् (संयुक्तम्)</summary>
 
+नमो॑ रु॒द्रेभ्यो॒ ये पृ॑थि॒व्याय्ँये᳚ऽन्तरि॑ख्षे॒ ये दि॒वि येषा॒मन्न॒व्ँवातो॑ व॒र्षमिष॑व॒स्तेभ्यो॒ दश॒ प्राची॒र्दश॑ दख्षि॒णा दश॑ प्र॒तीची॒र्दशोदी॑ची॒र्दशो॒र्ध्वास्तेभ्यो॒ नम॒स्ते नो॑ मृडयन्तु॒ ते यन्द्वि॒ष्मो यश्च॑ नो॒ द्वेष्टि॒ तव्ँवो॒ जम्भे॑ दधामि ॥ [27]
+</details>
+</details>
+</div>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नमो॑ रु॒द्रेभ्यो॒ ये पृ॑थि॒व्याम्   
+{येषा॒म् अन्न᳚म् इष॑वस्}  
+</details>
+<details><summary>Keith</summary>
+
+Homage to the Rudras on the earth,
+whose arrows are food,
+</details>
+<details><summary>मूलम्</summary>
+
+नमो॑ रु॒द्रेभ्यो॒ ये पृ॑थि॒व्याम्  {येषा॒मन्न᳚मिष॑वः}  
+</details>
+<details><summary>सायण-टीका</summary>
 
 ये रुद्राः पृथिव्यां वर्तन्ते तेष्वपि रुद्रेषु येषां रुद्रविशेषाणामन्नमेवेषवो बाणाः, अपथ्यान्नभक्षणे प्रवर्त्य वाऽन्नर्थं चौर्यं कारयित्वा वा यान्हिंसन्ति तान्प्रति हिंसकानां रुद्राणावन्नमेवेषवस्तेभ्यः।  
 पृथिव्यां स्थितेभ्योऽन्नबाणकेभ्यश्च रुद्रेभ्यो नमोऽस्तु।  
 </details>
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/tebhyo_dasha_namas_te_no_mRDayantu.md">
+<details open><summary><h5>तेभ्यो॒ नम॒स्ते नो॑ मृडयन्तु ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(नमो॑ रु॒द्रेभ्यो॒ )+++ ये᳚ऽन्तरि॑ख्षे { येषां॒व्वात॒ इष॑वः - येषां वात इषवः}  
-+++(तेभ्यो॒ दश॒ प्राची॒र्दश॑ दख्षि॒णा दश॑ प्र॒तीची॒र्दशोदी॑ची॒र्दशो॒र्ध्वास्तेभ्यो॒ नम॒स्ते नो॑ मृडयन्तु॒ ते यन्द्वि॒ष्मो यश्च॑ नो॒ द्वेष्टि॒ तव्ँवो॒ जम्भे॑ दधामि ॥)+++
+तेभ्यो॒ दश॒ प्राची॒र्  
+दश॑ दख्षि॒णा  
+दश॑ प्र॒तीची॒र्   
+दशोदी॑ची॒र्  
+दशो॒र्ध्वास्,  
+तेभ्यो॒ नम॒स्ते नो॑ मृडयन्तु
 </details>
+<details><summary>Keith</summary>
 
+to them ten eastwards, ten to the south, ten to the west, ten to the north, ten upwards;   
+to them homage, be they merciful to us,
+</details>
 <details><summary>मूलम्</summary>
 
-+++(नमो॑ रु॒द्रेभ्यो॒ )+++ ये᳚ऽन्तरि॑ख्षे { येषां॒व्वात॒ इष॑वः - येषां वात इषवः}  
-+++(तेभ्यो॒ दश॒ प्राची॒र्दश॑ दख्षि॒णा दश॑ प्र॒तीची॒र्दशोदी॑ची॒र्दशो॒र्ध्वास्तेभ्यो॒ नम॒स्ते नो॑ मृडयन्तु॒ ते यन्द्वि॒ष्मो यश्च॑ नो॒ द्वेष्टि॒ तव्ँवो॒ जम्भे॑ दधामि ॥)+++
+तेभ्यो॒ दश॒ प्राची॒र्  
+दश॑ दख्षि॒णा  
+दश॑ प्र॒तीची॒र्   
+दशोदी॑ची॒र्  
+दशो॒र्ध्वास्,  
+तेभ्यो॒ नम॒स्ते नो॑ मृडयन्तु
 </details>
-
 <details><summary>सायण-टीका</summary>
 
-तथा ये रुद्रा अन्तरिक्षे वर्तन्ते तेषामपि मध्ये येषां वात इषवस्तीव्रेण वायुना रोगानुत्पाद्य हिंसन्ति तभ्योऽन्तरिक्षवर्तिभ्यो वातेषुभ्यश्च रुद्रेभ्यो नमोऽस्तु।   
+(ईदृशैरञ्जलिविशेषैस्) तेभ्यो (रुद्रेभ्यो) नमोऽस्तु। ते च (रुद्रा) नोऽस्मान्मृडयन्तु सुखयन्तु।
 </details>
-
+</details>
+</div>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(नमो॑ रु॒द्रेभ्यो॒ )+++ ये दि॒वि { येषा॒व्ँव॒र्षमिष॑वः  - येषां वर्षमिषवः }   
-+++(तेभ्यो॒ दश॒ प्राची॒र्दश॑ दख्षि॒णा दश॑ प्र॒तीची॒र्दशोदी॑ची॒र्दशो॒र्ध्वास्तेभ्यो॒ नम॒स्ते नो॑ मृडयन्तु॒ ते यन्द्वि॒ष्मो यश्च॑ नो॒ द्वेष्टि॒ तव्ँवो॒ जम्भे॑ दधामि ॥)+++
++++(नमो॑ रु॒द्रेभ्यो॒ )+++ ये᳚ऽन्तरि॑ख्षे { येषा॒व्ँ वात॒ इष॑वः}  
 </details>
+<details><summary>Keith</summary>
 
+… in the atmosphere, … wind,
+</details>
 <details><summary>मूलम्</summary>
 
-+++(नमो॑ रु॒द्रेभ्यो॒ )+++ ये दि॒वि { येषा॒व्ँव॒र्षमिष॑वः  - येषां वर्षमिषवः }   
-+++(तेभ्यो॒ दश॒ प्राची॒र्दश॑ दख्षि॒णा दश॑ प्र॒तीची॒र्दशोदी॑ची॒र्दशो॒र्ध्वास्तेभ्यो॒ नम॒स्ते नो॑ मृडयन्तु॒ ते यन्द्वि॒ष्मो यश्च॑ नो॒ द्वेष्टि॒ तव्ँवो॒ जम्भे॑ दधामि ॥)+++
++++(नमो॑ रु॒द्रेभ्यो॒ )+++ ये᳚ऽन्तरि॑ख्षे { येषा॒व्ँवात॒ इष॑वः}  
 </details>
+<details><summary>सायण-टीका</summary>
 
+तथा ये रुद्रा अन्तरिक्षे वर्तन्ते तेषामपि मध्ये येषां वात इषवस्तीव्रेण वायुना रोगानुत्पाद्य हिंसन्ति तभ्योऽन्तरिक्षवर्तिभ्यो वातेषुभ्यश्च रुद्रेभ्यो नमोऽस्तु। </details>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/tebhyo_dasha_namas_te_no_mRDayantu.md">
+<details open><summary><h5>तेभ्यो॒ नम॒स्ते नो॑ मृडयन्तु ...{Loading}...</h5></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तेभ्यो॒ दश॒ प्राची॒र्  
+दश॑ दख्षि॒णा  
+दश॑ प्र॒तीची॒र्   
+दशोदी॑ची॒र्  
+दशो॒र्ध्वास्,  
+तेभ्यो॒ नम॒स्ते नो॑ मृडयन्तु
+</details>
+<details><summary>Keith</summary>
+
+to them ten eastwards, ten to the south, ten to the west, ten to the north, ten upwards;   
+to them homage, be they merciful to us,
+</details>
+<details><summary>मूलम्</summary>
+
+तेभ्यो॒ दश॒ प्राची॒र्  
+दश॑ दख्षि॒णा  
+दश॑ प्र॒तीची॒र्   
+दशोदी॑ची॒र्  
+दशो॒र्ध्वास्,  
+तेभ्यो॒ नम॒स्ते नो॑ मृडयन्तु
+</details>
+<details><summary>सायण-टीका</summary>
+
+(ईदृशैरञ्जलिविशेषैस्) तेभ्यो (रुद्रेभ्यो) नमोऽस्तु। ते च (रुद्रा) नोऽस्मान्मृडयन्तु सुखयन्तु।
+</details>
+</details>
+</div>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(नमो॑ रु॒द्रेभ्यो॒ )+++ ये दि॒वि { येषा॒व्ँ व॒र्षम् इष॑वः}
+</details>
+<details><summary>Keith</summary>
+
+… in the sky, … rain,
+</details>
+<details><summary>मूलम्</summary>
+
++++(नमो॑ रु॒द्रेभ्यो॒ )+++ ये दि॒वि { येषा॒व्ँव॒र्षमिष॑वः} 
+</details>
 <details><summary>सायण-टीका</summary>
 
 तथा ये रुद्रा दिवि वर्तन्ते तेष्वपि येषां रुद्रविशेषाणां वर्षमेवेषवोऽतिवृष्ट्यनावृष्टिभ्यां प्राणिनो हिंसन्ति तेभ्यो दिवि स्थितेभ्यो वर्षेषुभ्यो रुद्रेभ्यो नमोऽस्तु।  
 कीदृशो नमस्कार इति स एव विशेष्यते दश प्राचीः, प्राङ्मुखत्वेनाञ्चलिकरणे दशाङ्गुलयः प्रागग्रा भवन्ति एवं दक्षिणादिषूर्ध्वाभ्तेषु योज्यम्।  
-ईदृशैरञ्जलिविशेषैस्तेभ्यो रुद्रेभ्यो नमोऽस्तु।  
 </details>
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/tebhyo_dasha_namas_te_no_mRDayantu.md">
+<details open><summary><h5>तेभ्यो॒ नम॒स्ते नो॑ मृडयन्तु ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते नो॑ मृडयन्तु  
+तेभ्यो॒ दश॒ प्राची॒र्  
+दश॑ दख्षि॒णा  
+दश॑ प्र॒तीची॒र्   
+दशोदी॑ची॒र्  
+दशो॒र्ध्वास्,  
+तेभ्यो॒ नम॒स्ते नो॑ मृडयन्तु
 </details>
+<details><summary>Keith</summary>
 
+to them ten eastwards, ten to the south, ten to the west, ten to the north, ten upwards;   
+to them homage, be they merciful to us,
+</details>
 <details><summary>मूलम्</summary>
 
-ते नो॑ मृडयन्तु  
+तेभ्यो॒ दश॒ प्राची॒र्  
+दश॑ दख्षि॒णा  
+दश॑ प्र॒तीची॒र्   
+दशोदी॑ची॒र्  
+दशो॒र्ध्वास्,  
+तेभ्यो॒ नम॒स्ते नो॑ मृडयन्तु
 </details>
-
 <details><summary>सायण-टीका</summary>
 
-ते च  रुद्रा नोऽस्मान्मृडयन्तु सुखयन्तु।  
+(ईदृशैरञ्जलिविशेषैस्) तेभ्यो (रुद्रेभ्यो) नमोऽस्तु। ते च (रुद्रा) नोऽस्मान्मृडयन्तु सुखयन्तु।
 </details>
-
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/te_yaM_dviShmaH.md">
+<details open><summary><h5>ते यं द्विष्मः ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ते यन् **द्वि॒ष्मो**  
+यश्च॑ नो॒ **द्वेष्टि॒**  
+तव्ँ वो॒ **जम्भे॑ दधामि** ॥
+</details>
+<details><summary>Keith</summary>
+
+him whom we hate and him who hateth us, I place him within your jaws.
+</details>
+<details><summary>मूलम्</summary>
 
 ते यन्द्वि॒ष्मो यश्च॑ नो॒ द्वेष्टि॒ तव्ँवो॒ जम्भे॑ दधामि
 </details>
-
-<details><summary>मूलम्</summary>
-
-ते यन्द्वि॒ष्मो यश्च॑ नो॒ द्वेष्टि॒ तव्ँवो॒ जम्भे॑ दधामि
-</details>
-
 <details><summary>सायण-टीका</summary>
 
-ते च वयं नगस्कृतरुद्राः सन्तो यं वैरिणं तूष्णीमवस्थितमपि द्विष्मः, यश्च वैरी नोऽस्मांस्तुष्णीमवस्थितानपि द्वेष्टि तमुभयविधं वैरिणं हे रुद्रा वो युष्माकं जम्मे विदारितास्ये दधामि स्थापबामि।  
+ते च वयं नगस्कृतरुद्राः सन्तो यं वैरिणं तूष्णीमवस्थितमपि द्विष्मः, यश्च वैरी नोऽस्मांस्तुष्णीमवस्थितानपि द्वेष्टि तमुभयविधं वैरिणं हे रुद्रा वो युष्माकं जम्मे विदारितास्ये दधामि स्थापयामि।
+</details>
+</details>
+</div>
+<details><summary>सायणोक्त-विनियोगः</summary>
+
 तमिममेकादशानुवाकत्मकं रुद्राध्यायं विनियुङ्क्ते—  
 २१४३ “रुद्रो वा एष यदग्निः स एतार्हि जातो यर्हि सर्षश्चितः स यथा वत्सो जातः स्तनं प्रेप्सत्येवं वा एप एतर्हि भागधेयं प्रेप्सति तस्मै यदाहुतिं न जुहुया दध्वर्युं च यजमानं च ध्वायेच्छतरुद्रीयं जुहोति भागधेयेनैबैनꣳ शमयति नाऽऽर्तिमार्छत्पध्वर्युर्न यजमानः” (सं. का.  ५  प्र. ४  अ. ३)  इति।  
 यस्मिन्काले चीयमानोऽग्निरशेषचितिनिष्पादनेन सर्वश्चितो भवति, एतस्मि न्कालेऽयमग्निरुत्पन्नो भवति।  
@@ -414,5 +625,4 @@ title = "११ स॒हस्रा॑णि सहस्र॒शो"
 पुमर्थांश्चतुरो देयाद्विद्यातीर्थमहेश्वरः॥
 
 इति श्रीमद्विद्यातीर्थमहेश्वरपरावतारस्य श्रीमद्राजाधिराजपरमेश्वरस्य श्रीवीरबुक्कमहाराजस्याऽऽज्ञापरिपालकेन माधावाचार्येण विरचिते  वेदार्थप्रकाशे कृष्णयजुर्वेदीयतैत्तिरीयसंहिताभाष्ये  चतुर्थकाण्डे पञ्चमः प्रपाठकः ॥  ५ ॥
-
 </details>

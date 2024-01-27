@@ -4,7 +4,7 @@ title = "३७ वारुणम्"
 +++
 'उदुत्तमं वरुण’, ‘अस्तभ्नाद् द्यां’, ‘यत्किञ्चेदं’, ‘कितवासो', ‘अवते हेडः,' 'तत्त्वायामि' इति वरुण-सूक्तं
 
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/varuNa-sUktam">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/2/8/1_vAyavyAdi-pashu-sUktAni/04_vAruNam">
 <details open><summary><h4>वरुण-सूक्तम् ...{Loading}...</h4></summary>
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 

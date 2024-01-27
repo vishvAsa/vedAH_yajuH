@@ -1,100 +1,21 @@
----
-title: ०३, सौम्यादीनां  सूक्तानि
-unicode_script: devanagari
++++
+title = "०२ विष्णुः"
 
----
++++
+
 <details><summary>सायणोक्त-विनियोगः</summary>
-
-(SB) 1द्वितीये वशादीनां पशूनां सूक्तान्यभिहितानि । तृतीये सौम्यादीनां सूक्तान्युच्यन्ते । तत्र 'आग्रेयं कृष्णग्रीवमालभेत सौम्यं बभ्रुं ज्योगामयावी' इत्येतस्य पशोः सूक्ते वपायाः पुरोनुवाक्यामाह - 
-</details>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-सोमो॑ धे॒नुꣳ सोमो॒ अर्व॑न्तमा॒शुम् ।  
-सोमो॑ वी॒रङ्क॑र्म॒ण्य॑न्ददातु ।  
-सा॒द॒न्य॑व्ँविद॒थ्यꣳ॑ स॒भेय᳚म् ।  
-पि॒तु॒श्श्रव॑ण॒य्ँयो ददा॑शदस्मै ।  
-</details>
-<details><summary>मूलम्</summary>
-
-सोमो॑ धे॒नुꣳ सोमो॒ अर्व॑न्तमा॒शुम् ।  
-सोमो॑ वी॒रङ्क॑र्म॒ण्य॑न्ददातु ।  
-सा॒द॒न्य॑व्ँविद॒थ्यꣳ॑ स॒भेय᳚म् ।  
-पि॒तु॒श्श्रव॑ण॒य्ँयो ददा॑शदस्मै ।  
-</details>
-<details><summary>सायण-टीका</summary>
-
-योऽयं सोमो देवः सोऽयमस्मै यजमानाय धेनुं ददातु । तथा स सोमः आशुं शीघ्रगामिनमर्वन्तमश्वं ददातु । तथा स सोमः कर्मण्यं श्रौतस्मार्तकर्मयोग्यं वीरं पुत्रं ददातु । कीदृशं वीरं? सदनं गृहं तत्र साधुः सादन्यस्तं गृहनिर्वाहकमित्यर्थः । विदथे यज्ञे कुशलं विदथ्यम् । सभायां साधुः सभेयस्तं सभेयम् । स्वकीयस्य पितुः श्रवणं कीर्तिः संपाद्यते येन सोऽयं पितुःश्रवणस्तम् । यो यजमानः सोमाय देवाय ददाशत् चरु पुरोडाशादिकं ददाति । अस्मै यजमानायेति पूर्वत्रान्वयः ॥
-</details>
-<details><summary>सायणोक्त-विनियोगः</summary>
-
-2अथ वपाया याज्यायाः पुरोडाशस्य पुरोनुवाक्यायाश्च प्रतीके दर्शयति - 'अषाढं युत्सु पृतनासु' इति वपाया याज्या । 'त्वꣳ सोम क्रतुभिः' इति पुरोडाशस्य पुरोनुवाक्या । एतच्चोभयं 'जुष्टी नरः' इत्यत्र व्याख्यातम् ॥
-</details>
-<details><summary>मूलम् (संयुक्तम्)</summary>
-
-अषा॑ढय्ँ यु॒थ्सु त्वꣳ सो॑म॒ क्रतु॑भिः ।  
-</details>
-<details><summary>सायणोक्त-विनियोगः</summary>
-
-3अथ पुरोडाशस्य याज्यायाः प्रतीकं दर्शयति । सा च 'अग्नेरातिथ्यमसि' इत्यत्र व्याख्याता ।
-</details>
-<details><summary>मूलम् (संयुक्तम्)</summary>
-
-या ते॒ धामा॑नि ह॒विषा॒ यज॑न्ति ।
-</details>
-<details><summary>सायणोक्त-विनियोगः</summary>
-
-अथ हविषः पुरोनुवाक्यामाह - 
-</details>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-त्वमि॒मा ओष॑धीस्सोम॒ विश्वाः᳚ ।  
-त्वम॒पो अ॑जनय॒स्त्वङ्गाः ।   
-त्वमात॑तन्थो॒र्व॑न्तरि॑ख्षम् ।  
-त्वञ्ज्योति॑षा॒ वि तमो॑ ववर्थ ॥ 15 ॥  
-</details>
-<details><summary>मूलम्</summary>
-
-त्वमि॒मा ओष॑धीस्सोम॒ विश्वाः᳚ ।  
-त्वम॒पो अ॑जनय॒स्त्वङ्गाः ।   
-त्वमात॑तन्थो॒र्व॑न्तरि॑ख्षम् ।  
-त्वञ्ज्योति॑षा॒ वि तमो॑ ववर्थ ॥ 15 ॥  
-</details>
-<details><summary>सायण-टीका</summary>
-
-हे सोम त्वं विश्वा: सर्वा इमा ओषधीः अजनयः उत्पादितवानसि । तथा त्वमपो जलान्यजनयः । तथा त्वं गाः गवादिपशूनजनयः । तथा त्वमुरु विस्तीर्णमन्तरिक्षं आततन्थ विस्तारितवानसि । तथा त्वं ज्योतिषा तेजसा तमोऽन्धकारं ववर्थ निवारितवानसि ॥
-</details>
-<details><summary>सायणोक्त-विनियोगः</summary>
-
-4अथ हविषो याज्यामाह - 
-</details>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-या ते॒ धामा॑नि दि॒वि या पृ॑थि॒व्याम् ।  
-या पर्व॑ते॒ष्वोष॑धीष्व॒फ्सु ।    
-तेभि॑र्नो॒ विश्वै᳚स्सु॒मना॒ अहे॑डन्न् ।   
-राज᳚न्थ्सोम॒ प्रति॑ ह॒व्या गृ॑भाय ।
-</details>
-<details><summary>मूलम्</summary>
-
-या ते॒ धामा॑नि दि॒वि या पृ॑थि॒व्याम् ।  
-या पर्व॑ते॒ष्वोष॑धीष्व॒फ्सु ।    
-तेभि॑र्नो॒ विश्वै᳚स्सु॒मना॒ अहे॑डन्न् ।   
-राज᳚न्थ्सोम॒ प्रति॑ ह॒व्या गृ॑भाय ।
-</details>
-<details><summary>सायण-टीका</summary>
-
-हे सोम राजन् ते तव द्युलोके या धामानि यानि स्थानानि सन्ति तथा पृथिव्यां यानि सन्ति पर्वतेष्वोषधीष्वप्सु यानि सन्ति सुमना अस्माभिः सह सौमनस्ययुक्तस्त्वं तेभिर्विश्चैस्तैः सर्वैः स्थानैर्युक्तो नोऽस्मान्प्रति हेडन्क्रोधमकुर्वन् हव्या प्रतिगृभाय हवींषि प्रतिगृहाण ॥
-</details>
-<details open><summary>मूलम् (संयुक्तम्)</summary>
-
-विष्णो॒र्नुक॒न्, तद॑स्य प्रि॒यम् । प्र तद्विष्णुः॑ ।
-</details>
-<details><summary>सायण-टीका</summary>
 
 5अथ 'वैष्णवं वामनमालभेत स्पर्धमानः' इत्यस्य पशोः सूक्ते प्रतीकत्रयं दर्शयति - 'विष्णोर्नु कं वीर्याणि' इति वपायाः पुरोनुवाक्या ।
 सेयं 'युञ्जते मनः' इत्यत्र व्याख्याता ।
 'प्र तद्विष्णुस्तवते' इति पुरोडाशस्य पुरोनुवाक्या । सेयं 'जुष्टो नरः' इत्यत्र व्याख्याता ॥
 </details>
+
+
+<details open><summary>मूलम् (संयुक्तम्)</summary>
+
+विष्णो॒र्नुक॒न्, तद॑स्य प्रि॒यम् । प्र तद्विष्णुः॑ ।
+</details>
+
 <div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/154/01_viShNornu_kaM.md">
 <details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
 
@@ -123,15 +44,15 @@ unicode_script: devanagari
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+####### Strata
 Strophic
 
-######## Pāda-label
+####### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-######## Morph
+####### Morph
 kam ← kam (invariable)  
 {}
 
@@ -194,82 +115,64 @@ vicakramāṇáḥ ← √kramⁱ- (root)
 -   *viṣṇor* ← *viṣṇoḥ* ← *viṣṇu*
 - \[noun\], genitive, singular, masculine
 - “Vishnu; Krishna; Viṣṇu; Om; Shiva.”
-------------------------------------------------------------------------
 - *nu*
 - \[adverb\]
 - “now; already.”
-------------------------------------------------------------------------
 - *kaṃ* ← *kam* ← *kaṃ*
 - \[adverb\]
 - “kaṃ \[word\].”
-------------------------------------------------------------------------
 - *vīryāṇi* ← *vīrya*
 - \[noun\], accusative, plural, neuter
 - “potency; vīrya; heroism; potency; strength; semen; power; deed;
     active agent; efficacy; vīryapāramitā; gold; vigor; vīrya \[word\];
     virility; manfulness; jewel; force.”
-------------------------------------------------------------------------
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
 - *vocaṃ* ← *vocam* ← *vac*
 - \[verb\], singular, Aorist inj. (proh.)
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
     recommend; answer; deem; recite; approve; proclaim; indicate;
     determine; mention; designate.”
-------------------------------------------------------------------------
 - *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
 - *pārthivāni* ← *pārthiva*
 - \[noun\], accusative, plural, neuter
 - “earthly; earthen; mundane; royal; tellurian; sublunar.”
-------------------------------------------------------------------------
 - *vimame* ← *vimā* ← *√mā*
 - \[verb\], singular, Perfect indicative
 - “arrange; distribute; barter; measure; fixate.”
-------------------------------------------------------------------------
 - *rajāṃsi* ← *rajas*
 - \[noun\], accusative, plural, neuter
 - “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
-------------------------------------------------------------------------
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
 - *askabhāyad* ← *askabhāyat* ← *skabhāy* ← *√skambh*
 - \[verb\], singular, Imperfect
-------------------------------------------------------------------------
 - *uttaraṃ* ← *uttaram* ← *uttara*
 - \[noun\], accusative, singular, neuter
 - “northern; following; upper; additional; better; more(a); last;
     concluding; superior; later(a); uttara \[word\]; prevailing; future;
     left; northerly; northerly; higher; second; dominant; excellent;
     chief(a).”
-------------------------------------------------------------------------
 - *sadhasthaṃ* ← *sadhastham* ← *sadhastha*
 - \[noun\], accusative, singular, neuter
 - “dwelling; location; home.”
-------------------------------------------------------------------------
 - *vicakramāṇas* ← *vicakramāṇaḥ* ← *vikram* ← *√kram*
 - \[verb noun\], nominative, singular
 - “act heroicly; stride.”
-------------------------------------------------------------------------
 - *tredhorugāyaḥ* ← *tredhā*
 - \[adverb\]
 - “threefold.”
-------------------------------------------------------------------------
 - *tredhorugāyaḥ* ← *uru*
 - \[noun\]
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
-------------------------------------------------------------------------
 - *tredhorugāyaḥ* ← *gāyaḥ* ← *gāya*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
 </details>
 <details><summary>सायण-भाष्यम्</summary>
 
@@ -285,11 +188,11 @@ vicakramāṇáḥ ← √kramⁱ- (root)
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+###### English translation:
 
 “Earnetly I glorify the exploits of **Viṣṇu**, who made the **three worlds**; who sustained the lofty aggregate site (of the spheres); thrice traversing (the whole); who is praised by the exalted.”
 
-####### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Pārthivāni vimame rajāṃsi = lit. he made the earthly regions;
 
@@ -382,6 +285,33 @@ Des Vischnu grosse Thaten will ich preisen, der weit durchmessen hat der Erde R�
 </details>
 </details>
 </div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/154/05_tadasya_priyamabhi.md">
+<details open><summary><h5>०५ तदस्य प्रियमभि ...{Loading}...</h5></summary>
+
+
+तद् अ॑स्य प्रि॒यम् अ॒भि पाथो॑ **अश्यां॒**  
+नरो॒ यत्र॑ देव॒यवो॒+++(=देवकामा)+++ **मद॑न्ति** ।  
+उ॒रु॒-क्र॒मस्य॒ स हि बन्धु॑र् इ॒त्था+++(=इत्थं)+++  
+**विष्णोः॑ प॒दे** प॑र॒मे **मध्व॒ उत्सः॑** ॥
+
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/154/05_tadasya_priyamabhi.md">
+<details open><summary><h5>०५ तदस्य प्रियमभि ...{Loading}...</h5></summary>
+
+
+तद् अ॑स्य प्रि॒यम् अ॒भि पाथो॑ **अश्यां॒**  
+नरो॒ यत्र॑ देव॒यवो॒+++(=देवकामा)+++ **मद॑न्ति** ।  
+उ॒रु॒-क्र॒मस्य॒ स हि बन्धु॑र् इ॒त्था+++(=इत्थं)+++  
+**विष्णोः॑ प॒दे** प॑र॒मे **मध्व॒ उत्सः॑** ॥
+
+</details>
+</div>
+
+
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/154/02_pra_tadviShNuH.md">
 <details open><summary><h5>०२ प्र तद्विष्णुः ...{Loading}...</h5></summary>
 
@@ -410,15 +340,15 @@ Des Vischnu grosse Thaten will ich preisen, der weit durchmessen hat der Erde R�
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+####### Strata
 Strophic
 
-######## Pāda-label
+####### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-######## Morph
+####### Morph
 prá ← prá (invariable)  
 {}
 
@@ -481,72 +411,55 @@ víśvā ← víśva- (nominal stem)
 -   *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
 - *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
 - *viṣṇu* ← *viṣṇuḥ* ← *viṣṇu*
 - \[noun\], nominative, singular, masculine
 - “Vishnu; Krishna; Viṣṇu; Om; Shiva.”
-------------------------------------------------------------------------
 - *stavate* ← *stu*
 - \[verb\], singular, Present indikative
 - “laud; praise; declare; stu.”
-------------------------------------------------------------------------
 - *vīryeṇa* ← *vīrya*
 - \[noun\], instrumental, singular, neuter
 - “potency; vīrya; heroism; potency; strength; semen; power; deed;
     active agent; efficacy; vīryapāramitā; gold; vigor; vīrya \[word\];
     virility; manfulness; jewel; force.”
-------------------------------------------------------------------------
 - *mṛgo* ← *mṛgaḥ* ← *mṛga*
 - \[noun\], nominative, singular, masculine
 - “game; deer; animal; antelope; mṛga \[word\]; Mṛgaśiras.”
-------------------------------------------------------------------------
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
 - *bhīmaḥ* ← *bhīma*
 - \[noun\], nominative, singular, masculine
 - “awful; amazing; terrific; enormous; bhīma \[word\]; fearful.”
-------------------------------------------------------------------------
 - *kucaro* ← *kucaraḥ* ← *kucara*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
 - *giriṣṭhāḥ* ← *giriṣṭhā*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
 - *yasyoruṣu* ← *yasya* ← *yad*
 - \[noun\], genitive, singular, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
 - *yasyoruṣu* ← *uruṣu* ← *uru*
 - \[noun\], locative, plural, neuter
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
-------------------------------------------------------------------------
 - *triṣu* ← *tri*
 - \[noun\], locative, plural, neuter
 - “three; tri/tisṛ \[word\].”
-------------------------------------------------------------------------
 - *vikramaṇeṣv* ← *vikramaṇeṣu* ← *vikramaṇa*
 - \[noun\], locative, plural, neuter
-------------------------------------------------------------------------
 - *adhikṣiyanti* ← *adhikṣi* ← *√kṣi*
 - \[verb\], plural, Present indikative
-------------------------------------------------------------------------
 - *bhuvanāni* ← *bhuvana*
 - \[noun\], nominative, plural, neuter
 - “Earth; being; world; bhuvana \[word\].”
-------------------------------------------------------------------------
 - *viśvā* ← *viśva*
 - \[noun\], nominative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
 </details>
 <details><summary>सायण-भाष्यम्</summary>
 
@@ -557,11 +470,11 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+###### English translation:
 
 “**Viṣṇu** is therefore glorified, that by his prowess he is like a fearful, ravenous, and mountain-haunting wild beast, and because of that in his three paces all worlds abide.”
 
-####### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Mountain-haunting wild beast: **mṛga** or **siṃha**, a lion, as applicable to Viṣṇu: one who seeks for his enemies to inflict punishment on them, and is therefore, fearful and fierce;
 
@@ -680,15 +593,15 @@ Gerühmt wird Vischnu wegen dieser Grossthat, gleich wildem Löwen, der durch Be
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+####### Strata
 Strophic
 
-######## Pāda-label
+####### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-######## Morph
+####### Morph
 mā́trayā ← mā́trā- (nominal stem)  
 {case:INS, gender:F, number:SG}
 
@@ -757,87 +670,68 @@ vitse ← √vid- 2 (root)
 -   *paro* ← *paras*
 - \[adverb\]
 - “beyond; away; farther.”
-------------------------------------------------------------------------
 - *mātrayā* ← *mātrā*
 - \[noun\], instrumental, singular, feminine
 - “measure; weight; quantity; syllable; mātrā; property; part;
     particle; mātrā \[word\]; household effects; morsel; mirror;
     substance.”
-------------------------------------------------------------------------
 - *tanvā* ← *tanū*
 - \[noun\], instrumental, singular, feminine
 - “body; self; own(a); person; form.”
-------------------------------------------------------------------------
 - *vṛdhāna* ← *vṛdh*
 - \[verb noun\], vocative, singular
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
-------------------------------------------------------------------------
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
 - *mahitvam* ← *mahitva*
 - \[noun\], accusative, singular, neuter
 - “greatness.”
-------------------------------------------------------------------------
 - *anv* ← *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
 - *aśnuvanti* ← *aś*
 - \[verb\], plural, Present indikative
 - “get; reach; enter (a state).”
-------------------------------------------------------------------------
 - *ubhe* ← *ubh*
 - \[noun\], accusative, dual, neuter
 - “both(a).”
-------------------------------------------------------------------------
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
 - *vidma* ← *vid*
 - \[verb\], plural, Perfect indicative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
 - *rajasī* ← *rajas*
 - \[noun\], accusative, dual, neuter
 - “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
-------------------------------------------------------------------------
 - *pṛthivyā* ← *pṛthivyāḥ* ← *pṛthivī*
 - \[noun\], genitive, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
-------------------------------------------------------------------------
 - *viṣṇo* ← *viṣṇu*
 - \[noun\], vocative, singular, masculine
 - “Vishnu; Krishna; Viṣṇu; Om; Shiva.”
-------------------------------------------------------------------------
 - *deva*
 - \[noun\], vocative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
 - *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
 - *paramasya* ← *parama*
 - \[noun\], genitive, singular, masculine
 - “extreme; best; excellent; highest; highest; devoted(p); maximal;
     distant; parama \[word\]; very; farthermost.”
-------------------------------------------------------------------------
 - *vitse* ← *vid*
 - \[verb\], singular, Present indikative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
 </details>
 <details><summary>सायण-भाष्यम्</summary>
 
@@ -849,11 +743,11 @@ __________________
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+###### English translation:
 
 “Expanding with a body beyond all measure, **Viṣṇu** men comprehend not your magnitude; we knowthese your two worlds (computing) from the earth, but you, divine Viṣṇu, are cognisant of the highest.”
 
-####### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Your twoworlds: i.e. the earth and the firmament, which are visible; cf. RV. 10.082.05
 </details>
@@ -955,15 +849,15 @@ Am Leibe wachsend über alle Maasse hast Grösse du erlangt, der keiner gleichko
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+####### Strata
 Strophic
 
-######## Pāda-label
+####### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-######## Morph
+####### Morph
 cakrame ← √kramⁱ- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:MED}
 
@@ -1023,74 +917,57 @@ urukṣitím ← urukṣití- (nominal stem)
 -   *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
 - *cakrame* ← *kram*
 - \[verb\], singular, Perfect indicative
 - “kram; step; go; continue; proceed; traverse; heat.”
-------------------------------------------------------------------------
 - *pṛthivīm* ← *pṛthivī*
 - \[noun\], accusative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
-------------------------------------------------------------------------
 - *eṣa* ← *eṣaḥ* ← *etad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
 - *etāṃ* ← *etām* ← *etad*
 - \[noun\], accusative, singular, feminine
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
 - *kṣetrāya* ← *kṣetra*
 - \[noun\], dative, singular, neuter
 - “field; location; habitat; country; area; earth; region; estate;
     body; kṣetra \[word\]; kṣetradoṣa; seat; reincarnation; uterus.”
-------------------------------------------------------------------------
 - *viṣṇur* ← *viṣṇuḥ* ← *viṣṇu*
 - \[noun\], nominative, singular, masculine
 - “Vishnu; Krishna; Viṣṇu; Om; Shiva.”
-------------------------------------------------------------------------
 - *manuṣe* ← *manus*
 - \[noun\], dative, singular, masculine
 - “Manu; man.”
-------------------------------------------------------------------------
 - *daśasyan* ← *daśasy*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
 - *dhruvāso* ← *dhruvāsaḥ* ← *dhruva*
 - \[noun\], nominative, plural, masculine
 - “certain; fixed; permanent; changeless; firm; safe; resident;
     immovable; fixed; fixed; vital; faithful.”
-------------------------------------------------------------------------
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
 - *kīrayo* ← *kīrayaḥ* ← *kīri*
 - \[noun\], nominative, plural, masculine
 - “pauper.”
-------------------------------------------------------------------------
 - *janāsa* ← *janāsaḥ* ← *jana*
 - \[noun\], nominative, plural, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
-------------------------------------------------------------------------
 - *urukṣitiṃ* ← *uru*
 - \[noun\]
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
-------------------------------------------------------------------------
 - *urukṣitiṃ* ← *kṣitim* ← *kṣiti*
 - \[noun\], accusative, singular, feminine
 - “floor; Earth; earth; pṛthivī; people; dwelling; battlefield; Earth;
     estate; colony; house.”
-------------------------------------------------------------------------
 - *sujanimā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
 - *sujanimā* ← *janimā* ← *janiman*
 - \[noun\], nominative, singular, masculine
 - “birth; offspring; origin; kind; being.”
-------------------------------------------------------------------------
 - *cakāra* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -1101,7 +978,6 @@ urukṣitím ← urukṣití- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
 </details>
 <details><summary>सायण-भाष्यम्</summary>
 
@@ -1109,11 +985,11 @@ urukṣitím ← urukṣití- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+###### English translation:
 
 “This **Viṣṇu** traversed the earth for a dwelling which he was desirous of giving to his eulogist; firm arethe people who are his praisers; he who is the engenderer of good has made a spacious dwelling (for hisworshippers).”
 
-####### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Which he was desirous of giving: manuṣe daśasyan = stuvate devagaṇāya, to the company ofgods praising him-- Viṣṇu having taken the **three worlds** from the **Asuras** to give to them; the engenderer ofgood: or, to whom belong fortunate births
 </details>
@@ -1216,15 +1092,15 @@ Hinschreitend ging durch diese Erde Vischnu, der Gott dem Menschen sie zur Wohnu
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+####### Strata
 Strophic
 
-######## Pāda-label
+####### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-######## Morph
+####### Morph
 deváḥ ← devá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -1293,81 +1169,62 @@ tveṣám ← tveṣá- (nominal stem)
 -   *trir* ← *tris*
 - \[adverb\]
 - “thrice; tris \[word\].”
-------------------------------------------------------------------------
 - *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
 - *pṛthivīm* ← *pṛthivī*
 - \[noun\], accusative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
-------------------------------------------------------------------------
 - *eṣa* ← *eṣaḥ* ← *etad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
 - *etāṃ* ← *etām* ← *etad*
 - \[noun\], accusative, singular, feminine
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
 - *cakrame* ← *kram*
 - \[verb\], singular, Perfect indicative
 - “kram; step; go; continue; proceed; traverse; heat.”
-------------------------------------------------------------------------
 - *śatarcasam* ← *śatarcas*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
 - *mahitvā* ← *mahitva*
 - \[noun\], instrumental, singular, neuter
 - “greatness.”
-------------------------------------------------------------------------
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
 - *viṣṇur* ← *viṣṇuḥ* ← *viṣṇu*
 - \[noun\], nominative, singular, masculine
 - “Vishnu; Krishna; Viṣṇu; Om; Shiva.”
-------------------------------------------------------------------------
 - *astu* ← *as*
 - \[verb\], singular, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
 - *tavasas* ← *tavasaḥ* ← *tavas*
 - \[noun\], ablative, singular, masculine
 - “strong; energetic.”
-------------------------------------------------------------------------
 - *tavīyān* ← *tavīyas*
 - \[noun\], nominative, singular, masculine
 - “stronger.”
-------------------------------------------------------------------------
 - *tveṣaṃ* ← *tveṣam* ← *tveṣa*
 - \[noun\], nominative, singular, neuter
 - “awful; brilliant; aglitter(p); bright.”
-------------------------------------------------------------------------
 - *hy* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
 - *sthavirasya* ← *sthavira*
 - \[noun\], genitive, singular, masculine
 - “old; strong; hardy; firm; firm.”
-------------------------------------------------------------------------
 - *nāma* ← *nāman*
 - \[noun\], nominative, singular, neuter
 - “name; appellation; nāman \[word\]; nāmakaraṇa; surname; noun;
     word.”
-------------------------------------------------------------------------
 </details>
 <details><summary>सायण-भाष्यम्</summary>
 
@@ -1375,11 +1232,11 @@ tveṣám ← tveṣá- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+###### English translation:
 
 “This deity, by his great power, traversed with three (steps) the many- lustrous earth; may **Viṣṇu**, themost powerful of the powerful rule over us, for illustrious is the name of the mighty one.”
 
-####### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Earth: **pṛthivī** =pṛthivyādīn, or the **three worlds**
 </details>
@@ -1450,350 +1307,3 @@ Dreimal schritt aus der Gott mit seiner Grösse, durch diese Erd' die hundertfac
 </details>
 </details>
 </div>
-<details><summary>सायणोक्त-विनियोगः</summary>
-
-8अथ 'इन्द्राय मन्युमते मनस्वते ललाम प्राशृङ्गमालभेत' इत्यस्य पशोः सूक्ते प्रतीकत्रयं दर्शयति - 'आ ते मह इन्द्र' इति वपायाः पुरोनुवाक्या । 'यो जात एव प्रथमो मनस्वान्' इति याज्या । एतच्चोभयमन्वहमासा इत्यत्र व्याख्यातम् ।
-</details>
-<details><summary>मूलम् (संयुक्तम्)</summary>
-
-आ ते॑ म॒हो, यो जा॒त ए॒व ।
-</details>
-<details><summary>सायणोक्त-विनियोगः</summary>
-
-'अभि गोत्राणि सहसा गाहमानः' इहि पुरोडाशस्य पुरोनुवाक्या । सा च 'आशुः शिशानः' इत्यत्र व्याख्याता ॥
-</details>
-<details><summary>मूलम् (संयुक्तम्)</summary>
-
-अ॒भि गो॒त्राणि॑ ।
-</details>
-<details><summary>सायणोक्त-विनियोगः</summary>
-
-9अथ पुरोडाशस्य याज्यामाह - 
-</details>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-आभि॒स्स्पृधो॑ मिथ॒तीररि॑षण्यन्न् ।  
-अ॒मित्र॑स्य व्यथया म॒न्युमि॑न्द्र ।  
-आभि॒र्विश्वा॑ अभि॒युजो॒ विषू॑चीः ।  
-आर्या॑य॒ विशोव॑तारी॒र्दासीः᳚ ।  
-</details>
-<details><summary>मूलम्</summary>
-
-आभि॒स्स्पृधो॑ मिथ॒तीररि॑षण्यन्न् ।  
-अ॒मित्र॑स्य व्यथया म॒न्युमि॑न्द्र ।  
-आभि॒र्विश्वा॑ अभि॒युजो॒ विषू॑चीः ।  
-आर्या॑य॒ विशोव॑तारी॒र्दासीः᳚ ।  
-</details>
-<details><summary>सायण-टीका</summary>
-
-हे इन्द्र, अमित्रस्य अस्मद्वैरिणः मन्युं क्रोधं व्यथय व्यथितं निष्फलं कुरु । अस्मासु क्रुद्धः शत्रुर्यदाऽस्मान् हन्तुं न क्षमते तदा तदीयः क्रोधो निष्कलो भवेत्तथा त्वं कुर्वित्यर्थः । किं कुर्वन्? स्पृधः शत्रूणां स्पर्धमाना अस्मदीयाः सेना मिथतीः त्वां प्रत्यभयं याचमाना आभिरस्मदीयाभिः स्तुतिभिः अरिषण्यन् अहिंसिताः कुर्वन् । अस्मदीयस्तुतिभिस्तुष्टस्त्वमस्मदीयाः सेना यथा न हिंसिता भवन्ति तथा कुर्वित्यर्थः । किंच विश्वा परकीयाः सर्वाः सेना अभियुजः अस्मद्वधमभिलक्ष्य प्रयुज्यमाना विषूचीः नानागतीर्दासीरुपक्षयं प्राप्ता विशः सर्वाः प्रजा अभितुष्टस्सन्नवतारीः विनाशय । यथा अस्मदयिस्तुत्या तुष्टं त्वां प्रत्यभयं याचमानानामस्मत्सेनानां न हिंसां कृतवानसि तथैवास्मदीयस्तुत्या तुष्टस्सन्परकीयसेनां विनाशयेत्यर्थः ॥
-</details>
-<details><summary>सायणोक्त-विनियोगः</summary>
-
-10अथ हविषः पुरोनुवाक्यामाह - 
-</details>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-अ॒यꣳ शृ॑ण्वे॒ अध॒ जय॑न्नु॒त घ्नन्न् ।  
-अ॒यमु॒त प्र कृ॑णुते यु॒धा गाः ।  
-य॒दा स॒त्यङ्कृ॑णु॒ते म॒न्युमिन्द्रः॑ ॥ 17 ॥  
-विश्व॑न्दृ॒ढम्भ॑यत॒ एज॑दस्मात् ।  
-</details>
-<details><summary>मूलम्</summary>
-
-अ॒यꣳ शृ॑ण्वे॒ अध॒ जय॑न्नु॒त घ्नन्न् ।  
-अ॒यमु॒त प्र कृ॑णुते यु॒धा गाः ।  
-य॒दा स॒त्यङ्कृ॑णु॒ते म॒न्युमिन्द्रः॑ ॥ 17 ॥  
-विश्व॑न्दृ॒ढम्भ॑यत॒ एज॑दस्मात् ।  
-</details>
-<details><summary>सायण-टीका</summary>
-
-अयमिन्द्वः अध कदाचिज्जयन्वर्तते, उत अथवा घ्नन् वर्तत इत्यहं शृण्वे । अयमर्थः - यदा यदेन्द्रस्य वार्तां शृणोमि तदा तदा जयतीति वा वैरिणं हन्तीति वा शृणोमि । उत अपिच अयमिन्द्रः युधा युद्धेन गाः परकीयाः प्रकृणुते प्रकर्षेण स्वाधीनाः करोति । किंच यदाऽयमिन्द्रः स्वकीयं मन्युं सत्यमवश्यंभाविनं कृणुते करोति तदानीं दृढं क्वचिदेवावस्थितं स्थावरं एजत् कम्पमानं जङ्गमं च विश्वं सर्वं जगदस्मादिन्द्रात् भयते बिभेति । अयमर्थः - परिहासार्थो यः कोपस्तमन्तरेण यदा हृदयपूर्वकं कोपं करोति तदा सर्वं जगद्विभेतीति ।
-</details>
-<details><summary>सायणोक्त-विनियोगः</summary>
-
-11अथ हविषो याज्यामाह - 
-</details>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-अनु॑ स्व॒धाम॑ख्षर॒न्नापो॑ अस्य ।  
-अव॑र्धत॒ मध्य॒ आ ना॒व्या॑नाम् ।  
-स॒ध्री॒चीने॑न॒ मन॑सा॒ तमि॑न्द्र॒ ओजि॑ष्ठेन ।  
-हन्म॑नाहन्न॒भिद्यून् ।  
-</details>
-<details><summary>मूलम्</summary>
-
-अनु॑ स्व॒धाम॑ख्षर॒न्नापो॑ अस्य ।  
-अव॑र्धत॒ मध्य॒ आ ना॒व्या॑नाम् ।  
-स॒ध्री॒चीने॑न॒ मन॑सा॒ तमि॑न्द्र॒ ओजि॑ष्ठेन ।  
-हन्म॑नाहन्न॒भिद्यून् ।  
-</details>
-<details><summary>सायण-टीका</summary>
-
-अस्येन्द्रस्य स्वधां हविर्लक्षणमनु आपः वृष्टिलक्षणा अक्षरन् स्रवन्ति । नाव्यानां नावा तरणीयानां नदीनां मध्य आऽवर्धत जलं सर्वतोऽभिवृद्धमभूत् । अयमिन्द्रः ओजिष्ठेनात्यन्तबलयुक्तेन सध्रीचीनेन सह वर्तमानेन मनसा युक्तस्तं प्रसिद्धं मेघमभिद्यून् प्रतिदिनं हन्मना हननसाधनेन स्वायुधेन वज्रेण अहन् ताडयति । अयमर्थः - यदाऽयं स्वेच्छया मेधं भिनत्ति तदा वृष्ट्या नदीपूरणक्षमं जलं वर्धत इति ॥
-</details>
-<details><summary>सायणोक्त-विनियोगः</summary>
-
-12अथ 'इन्द्राय मरुत्वते पृश्निसक्थमालभेत' इत्यस्य पशोः सूक्ते वपायाः पुरोनुवाक्यामाह -
-</details>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-म॒रुत्व॑न्तव्ँ वृष॒भव्ँ वा॑वृधा॒नम् ।  
-अक॑वारिन्दि॒व्यꣳ शा॒समिन्द्र᳚म् ।  
-वि॒श्वा॒साह॒मव॑से॒ नूत॑नाय ।  
-उ॒ग्रꣳ स॑हो॒दामि॒ह तꣳ हु॑वेम ।  
-</details>
-<details><summary>मूलम्</summary>
-
-म॒रुत्व॑न्तव्ँ वृष॒भव्ँ वा॑वृधा॒नम् ।  
-अक॑वारिन्दि॒व्यꣳ शा॒समिन्द्र᳚म् ।  
-वि॒श्वा॒साह॒मव॑से॒ नूत॑नाय ।  
-उ॒ग्रꣳ स॑हो॒दामि॒ह तꣳ हु॑वेम ।  
-</details>
-<details><summary>सायण-टीका</summary>
-
-इह कर्मणि तमिन्द्रं हुवेम आह्वयामः । किमर्थं? नूतनाय अवसे अन्यैरकृतपूर्वाय रक्षणाय । कीदृशमिन्द्रं? मरुत्वन्तं मरुद्भिः संयुतम् । वृषभं कामानां वर्षितारम् । वावृधानं अतिशयेन वर्धमानम् । अकवारिं अकुत्सितारिम् । कुत्सितेनातिस्वल्पेन वैरिणा सह स्पर्धा लज्जायै भवति । दिव्यं दिवि भवम् । शासं शासितारम् । विश्वासाहं विश्वस्याभिभवितारम् । उग्रं अनभिभवनीयम् । सहोदां बलप्रदम् ॥
-</details>
-<details><summary>सायणोक्त-विनियोगः</summary>
-
-13अथ वपाया याज्यामाह - 
-</details>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-जनि॑ष्ठा उ॒ग्रस्सह॑से तु॒राय॑ ॥ 18 ॥  
-म॒न्द्र ओजि॑ष्ठो बहु॒लाभि॑मानः ।   
-अव॑र्ध॒न्निन्द्र॑म्म॒रुत॑श्चि॒दत्र॑ ।  
-मा॒ता यद्वी॒रन्द॒धन॒द्धनि॑ष्ठा ।  
-</details>
-<details><summary>मूलम्</summary>
-
-जनि॑ष्ठा उ॒ग्रस्सह॑से तु॒राय॑ ॥ 18 ॥  
-म॒न्द्र ओजि॑ष्ठो बहु॒लाभि॑मानः ।   
-अव॑र्ध॒न्निन्द्र॑म्म॒रुत॑श्चि॒दत्र॑ ।  
-मा॒ता यद्वी॒रन्द॒धन॒द्धनि॑ष्ठा ।  
-</details>
-<details><summary>सायण-टीका</summary>
-
-हे इन्द्र त्वमुग्रः परैरप्रधृष्यः जनिष्ठ उत्पन्नोऽसि । किमर्थं? सहसे वैरिबलस्य तुराय हिंसार्थम् । कीदृश इन्द्रः? मन्द्रो हर्षयुक्तः । ओजिष्ठो बलवत्तरः । बहुलाभिमानः प्रभूताहंकारः । मरुतश्चित् मरुतोऽपि बलकर्मणि वृत्रवधादिके इन्द्रमवर्धन् वर्धितवन्तः । किंच धनिष्ठा अतिशयेन धनवती माता अदितिरूपा यद्वीरं यमिन्द्रं शूरं दधनत् धारितवती तमिन्द्रमवर्धन्नित्यन्वयः ॥
-</details>
-<details><summary>सायणोक्त-विनियोगः</summary>
-
-14अथ पुरोडाशस्य पुरोनुवाक्यामाह - 
-</details>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-क्व॑स्यावो॑ मरुतस्स्व॒धाऽऽसी᳚त् ।  
-यन्मामेकꣳ॑ स॒मध॑त्ताहि॒हत्ये᳚ ।  
-अ॒हꣵ ह्यु॑ग्रस्त॑वि॒षस्तुवि॑ष्मान् ।  
-विश्व॑स्य॒ शत्रो॒रन॑मव्ँवध॒स्नैः ।  
-</details>
-<details><summary>मूलम्</summary>
-
-क्व॑स्यावो॑ मरुतस्स्व॒धाऽऽसी᳚त् ।  
-यन्मामेकꣳ॑ स॒मध॑त्ताहि॒हत्ये᳚ ।  
-अ॒हꣵ ह्यु॑ग्रस्त॑वि॒षस्तुवि॑ष्मान् ।  
-विश्व॑स्य॒ शत्रो॒रन॑मव्ँवध॒स्नैः ।  
-</details>
-<details><summary>सायण-टीका</summary>
-
-इन्द्रस्य मरुतां च परस्परसंवादोऽयम् । अहिनामकस्यामुरस्य वधे मरुत इन्द्रस्य साहाय्यमकृत्वा पलायिता अतस्तान्प्रतीन्द्रः कुपित एवं ब्रवीति - हे मरुतः यद्यस्मात्काराणादहिहत्ये अहिनामकशत्रोर्वधे मामेकमेव यूयं समधत्त संयोजितवन्तः तदानीं वो युष्माकं स्वधा साऽन्ननिमित्ता शक्तिः क्वासीत् कुत्र गता । अथवा किं मे युष्माभिः, अहं ह्युग्रः अहमेवातितीव्रः तविषः महान् तुविष्मान् बलवान् तादृशस्सन्विश्वस्य सर्वस्यापि शत्रोर्वधस्नैः वधबन्धनैः अनमं वशीकरणे शक्तोऽस्मि ॥
-</details>
-<details><summary>सायणोक्त-विनियोगः</summary>
-
-15अथ पुरोडाशस्य याज्यामाह - 
-</details>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-वृ॒त्रस्य॑ त्वा श्व॒सथा॒ दीष॑माणाः ।  
-विश्वे॑ दे॒वा अ॑जहु॒र्ये सखा॑यः ।  
-म॒रुद्भि॑रिन्द्र स॒ख्यन्ते॑ अस्तु ॥ 19 ॥  
-अथे॒मा विश्वा॒ᳶ पृत॑ना जयासि ।  
-</details>
-<details><summary>मूलम्</summary>
-
-वृ॒त्रस्य॑ त्वा श्व॒सथा॒ दीष॑माणाः ।  
-विश्वे॑ दे॒वा अ॑जहु॒र्ये सखा॑यः ।  
-म॒रुद्भि॑रिन्द्र स॒ख्यन्ते॑ अस्तु ॥ 19 ॥  
-अथे॒मा विश्वा॒ᳶ पृत॑ना जयासि ।  
-</details>
-<details><summary>सायण-टीका</summary>
-
-पुरा वृत्रवधार्थमिन्द्रः सर्वेषां देवानां सहायमपेक्षमाणस्तैस्सह युद्धार्थमागतः । तदा सर्वे देवा वृत्रस्य श्वासमात्रेण निराकृताः सन्तो गताः । मरुतस्तु पलायनमकृत्वेन्द्रस्य सख्यमाचरन् । सोऽयं वृत्तान्तो बह्वृचब्राह्मणस्थोऽस्मिन्मन्त्रे सूच्यते । तमेतमर्थमिन्द्रं संबोध्य होता कथयति । हे इन्द्र विश्वे सर्वे देवा वृत्रस्य श्वसथात् तदुच्छ्वासादीषमाणाः पलायमानास्सन्तस्त्वामजहुः परित्यक्तवन्तः । ये तु सखायो मरुतो न पलायन्ते तैर्मरुद्भिः सख्यं तवास्तु । अथानन्तरमिमा विश्वाः सर्वाः पृतनाः सेना जयसि जेष्यसि ॥
-</details>
-<details><summary>सायणोक्त-विनियोगः</summary>
-
-16अथ हविषः पुरोनुवाक्यामाह - 
-</details>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-वधी᳚व्ँ वृ॒त्रम्म॑रुत इन्द्रि॒येण॑ ।  
-स्वेन॒ भामे॑न तवि॒षो ब॑भू॒वान् ।  
-अ॒हमे॒ता मन॑वे वि॒श्वश्च॑न्द्राः ।  
-सु॒गा अ॒पश्च॑कर॒ वज्र॑बाहुः ।  
-</details>
-<details><summary>मूलम्</summary>
-
-वधी᳚व्ँ वृ॒त्रम्म॑रुत इन्द्रि॒येण॑ ।  
-स्वेन॒ भामे॑न तवि॒षो ब॑भू॒वान् ।  
-अ॒हमे॒ता मन॑वे वि॒श्वश्च॑न्द्राः ।  
-सु॒गा अ॒पश्च॑कर॒ वज्र॑बाहुः ।  
-</details>
-<details><summary>सायण-टीका</summary>
-
-हे मरुतः इन्द्रोऽहं स्वेनेन्द्रियेण हस्तेन स्वेन भामेन स्वकीयेन कोपेन वृत्रं वधीं अवधिषम् । अतः तविषो बभूवान् महानभवम् । इन्द्रो महानित्येवं लोके कीर्तिर्जातेत्यर्थः । अहमिन्द्रो वज्रबाहुस्सन् विश्वश्चन्द्राः सर्वस्य जगत आह्लादकराः सुगाः सुखेन गन्तुं प्राप्तुं शक्या एता दृश्यमाना वृष्टिलक्षणा अपो मनवे मनुष्यार्थं चकर कृतवानस्मि । सर्वस्य लोकस्यानिष्ठनिवारणाय वृत्रं हत्वेष्टप्राप्तये वृष्टिमुत्पादितवानस्मीत्यर्थः ॥
-</details>
-<details><summary>सायणोक्त-विनियोगः</summary>
-
-17अथ हविषो याज्यामाह - 
-</details>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-स यो वृषा॒ वृष्णि॑येभि॒स्समो॑काः ।  
-म॒हो दि॒वᳶ पृ॑थि॒व्याश्च॑ स॒म्राट् ।  
-स॒ती॒नस॑त्वा॒ हव्यो॒ भरे॑षु ।  
-म॒रुत्वा᳚न्नो भव॒त्विन्द्र॑ ऊ॒ती ।  
-</details>
-<details><summary>मूलम्</summary>
-
-स यो वृषा॒ वृष्णि॑येभि॒स्समो॑काः ।  
-म॒हो दि॒वᳶ पृ॑थि॒व्याश्च॑ स॒म्राट् ।  
-स॒ती॒नस॑त्वा॒ हव्यो॒ भरे॑षु ।  
-म॒रुत्वा᳚न्नो भव॒त्विन्द्र॑ ऊ॒ती ।  
-</details>
-<details><summary>सायण-टीका</summary>
-
-य इन्द्रो वृषत्वादिगुणकः स इन्द्रो नोऽस्मान्प्रति मरुत्वान् मरुद्भिर्युक्त ऊती रक्षणहेतुर्भवतु । के ते गुणा इति तेऽभिधीयन्ते - वृषा कामानां वर्षयिता । वृष्णियशब्दो बलनामसु पठितः । वृष्णियैर्बलैः समोकाः संयुक्तः । महो महत्या दिवः पृथिव्याश्च सम्राट् स्वामी सन् सम्यग्राजमानः । सतीनशब्दो जलनामसु पठितः । सतीनसत्त्वा वृष्ट्यात्मकजलप्रदः । भ्रियन्ते संपाद्यन्ते हवींषि येषु यागेष्विति भरा यागाः तेषु हव्यः आह्वानार्हः ॥
-</details>
-<details><summary>सायणोक्त-विनियोगः</summary>
-
-18अथ 'इन्द्राय वृत्रतुरे ललामं प्राशृङ्गमालभेत' इत्यस्य पशोः सूक्ते वपायाः पुरोनुवाक्यामाह - 
-</details>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-इन्द्रो॑ वृ॒त्रम॑तरद्वृत्र॒तूर्ये᳚ ॥ 20 ॥  
-अ॒ना॒धृ॒ष्यो म॒घवा॒ शूर॒ इन्द्रः॑ ।  
-अन्वे॑न॒व्ँविशो॑ अमदन्त पू॒र्वीः ।  
-अ॒यꣳ राजा॒ जग॑तश्चर्षणी॒नाम् ।  
-</details>
-<details><summary>मूलम्</summary>
-
-इन्द्रो॑ वृ॒त्रम॑तरद्वृत्र॒तूर्ये᳚ ॥ 20 ॥  
-अ॒ना॒धृ॒ष्यो म॒घवा॒ शूर॒ इन्द्रः॑ ।  
-अन्वे॑न॒व्ँविशो॑ अमदन्त पू॒र्वीः ।  
-अ॒यꣳ राजा॒ जग॑तश्चर्षणी॒नाम् ।  
-</details>
-<details><summary>सायण-टीका</summary>
-
-अयमिन्द्रो वृत्रतूर्ये वृत्रवधनिमित्ते युजे वृत्रमतरत् विनाशितवान् । स इन्द्रोऽनाधृष्यः केनापि तिरस्कर्तुमशक्यः । मघवा धनवान् । शूरो विक्रमयुक्तः । पूर्वीः पूर्वकालोना विशः प्रजा एनमिन्द्रं अन्वमदन्त बृत्रवधेनेन्द्रे हृष्टे सति प्रजा अपि हृष्टवत्यः । अयमिन्द्रः चर्षणीनां मनुष्याणां कृत्स्नस्य जगतश्च राजा भूत्वा वर्तते ॥
-</details>
-<details><summary>सायणोक्त-विनियोगः</summary>
-
-19अथ वपाया याज्यामाह - 
-</details>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-स ए॒व वी॒रस्स उ॑ वी॒र्या॑वान् ।  
-स ए॑करा॒जो जग॑तᳶ पर॒स्पाः ।  
-य॒दा वृ॒त्रमत॑र॒च्छूर॒ इन्द्रः॑ ।  
-अथा॑भवद्दमि॒ताभिक्र॑तूनाम् ।   
-</details>
-<details><summary>मूलम्</summary>
-
-स ए॒व वी॒रस्स उ॑ वी॒र्या॑वान् ।  
-स ए॑करा॒जो जग॑तᳶ पर॒स्पाः ।  
-य॒दा वृ॒त्रमत॑र॒च्छूर॒ इन्द्रः॑ ।  
-अथा॑भवद्दमि॒ताभिक्र॑तूनाम् ।   
-</details>
-<details><summary>सायण-टीका</summary>
-
-योऽयमिन्द्रः स एव वीरो युद्धेषु शूरः । स उ वीर्यवान् स एवोत्साहयुक्तः । स एकराजः कृत्स्नस्य जगत एक एव राजा । परस्पा अतिशयेन पाता । सोऽयं शूर इन्द्रो यदा वृत्रमतरत् विनाशितवान् अय अनन्तरमभिक्रतूनां अभिप्राप्तविरोधाचरणलक्षणकर्मणां दमिता दमनहेतुरभवत् ॥
-</details>
-<details><summary>सायणोक्त-विनियोगः</summary>
-
-20अथ पुरोडाशस्य पुरोनुवाक्यामाह - 
-</details>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-इन्द्रो॑ य॒ज्ञव्ँव॒र्धय॑न्वि॒श्ववे॑दाः ।   
-पु॒रो॒डाश॑स्य जुषताꣳ ह॒विर्नः॑ ।  
-वृ॒त्रन्ती॒र्त्वा दा॑न॒वव्ँवज्र॑बाहुः ॥ 21 ॥  
-</details>
-<details><summary>मूलम्</summary>
-
-इन्द्रो॑ य॒ज्ञव्ँव॒र्धय॑न्वि॒श्ववे॑दाः ।   
-पु॒रो॒डाश॑स्य जुषताꣳ ह॒विर्नः॑ ।  
-वृ॒त्रन्ती॒र्त्वा दा॑न॒वव्ँवज्र॑बाहुः ॥ 21 ॥  
-</details>
-<details><summary>सायण-टीका</summary>
-
-विश्ववेदाः सर्वज्ञोऽयमिन्द्रः यज्ञमस्मदीयं वर्धयन् नः अस्मदीयस्य पुरोडाशस्य सारांशं हविर्जुषताम् । वज्रबाहुरयं वत्राख्यं दानवं तीर्त्वा हत्वा दृंहणेन दृढीकरणसाधनेन दृंहिता दृढीकर्तुमुद्यतस्सन्दिशोऽदृंहत् वृत्रकृतोपद्रवेण प्रचलितानां सर्वदिग्वर्तिप्रजानां स्थैर्यं कृतवानित्यर्थः ॥
-</details>
-<details><summary>सायणोक्त-विनियोगः</summary>
-
-21अथ पुरोडाशस्य याज्यामाह - स्पष्टोऽर्थः ॥
-</details>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-पु॒रो॒डाश॒म्प्रति॑ गृभ्णा॒त्विन्द्रः॑ ।  
-य॒दा वृ॒त्रमत॑र॒च्छूर॒ इन्द्रः॑ ।  
-अथै॑करा॒जो अ॑भव॒ज्जना॑नाम् ।  
-</details>
-<details><summary>मूलम्</summary>
-
-पु॒रो॒डाश॒म्प्रति॑ गृभ्णा॒त्विन्द्रः॑ ।  
-य॒दा वृ॒त्रमत॑र॒च्छूर॒ इन्द्रः॑ ।  
-अथै॑करा॒जो अ॑भव॒ज्जना॑नाम् ।  
-</details>
-<details><summary>सायणोक्त-विनियोगः</summary>
-
-22अथ हविषः पुरोनुवाक्यामाह - 
-</details>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-इन्द्रो॑ दे॒वाञ्छ॑म्बर॒हत्य॑ आवत् ।  
-इन्द्रो॑ दे॒वाना॑मभवत्पुरो॒गाः ।  
-इन्द्रो॑ य॒ज्ञे ह॒विषा॑ वावृधा॒नः ।  
-वृ॒त्र॒तूर्नो॒ अभ॑य॒ꣳ॒ शर्म॑ यꣳसत् ।  
-</details>
-<details><summary>मूलम्</summary>
-
-इन्द्रो॑ दे॒वाञ्छ॑म्बर॒हत्य॑ आवत् ।  
-इन्द्रो॑ दे॒वाना॑मभवत्पुरो॒गाः ।  
-इन्द्रो॑ य॒ज्ञे ह॒विषा॑ वावृधा॒नः ।  
-वृ॒त्र॒तूर्नो॒ अभ॑य॒ꣳ॒ शर्म॑ यꣳसत् ।  
-</details>
-<details><summary>सायण-टीका</summary>
-
-शम्बरहत्ये शम्बराख्यस्यासुरस्य हत्थे वधे निष्पन्ने सति स इन्द्रो देवानावत् रक्षितवान् । स चेन्द्रो देवानां मध्ये पुरोगा मुख्योऽभवत् । इन्द्रोऽस्मितयज्ञे हविषा वावृधानोऽतिशयेन वर्धते । वृत्रतूः वृत्रघाती स इन्द्रो नोऽस्मभ्यमभयं भयरहितं शर्म सुखं यंसत् यच्छतु ॥
-</details>
-<details><summary>सायणोक्त-विनियोगः</summary>
-
-23अथ हविषो याज्यामाह - 
-</details>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-यस्स॒प्त सिन्धू॒ꣳ॒ रद॑धात्पृथि॒व्याम् ।  
-यस्स॒प्त लो॒कानकृ॑णो॒द्दिश॑श्च ।  
-इन्द्रो॑ ह॒विष्मा॒न्थ्सग॑णो म॒रुद्भिः॑ ।  
-वृ॒त्र॒तूर्नो॑ य॒ज्ञमि॒होप॑ यासत् ॥ 22 ॥  
-</details>
-<details><summary>मूलम्</summary>
-
-यस्स॒प्त सिन्धू॒ꣳ॒ रद॑धात्पृथि॒व्याम् ।  
-यस्स॒प्त लो॒कानकृ॑णो॒द्दिश॑श्च ।  
-इन्द्रो॑ ह॒विष्मा॒न्थ्सग॑णो म॒रुद्भिः॑ ।  
-वृ॒त्र॒तूर्नो॑ य॒ज्ञमि॒होप॑ यासत् ॥ 22 ॥  
-</details>
-<details><summary>सायण-टीका</summary>
-
-योऽयमिन्द्रः पृथिव्यां सप्त सिन्धून् समुद्रानदधात् स्थापितवान् । य इन्द्रः सप्त लोकान् भूरादीन्दिशश्चाकृष्णोत् कृतवान् । मरुद्भिर्देवैर्युक्तत्वेन सगणो गणसहित इन्द्रो हविष्मान् हविर्युक्तोऽभूत् । वृत्रतूः वृत्रघाती स इन्द्रः इह लोके नोऽस्मदीयं यज्ञमुपयासत् उपागच्छतु ।   
-</details>
-<details><summary>सायणोक्त-विनियोगः</summary>
-
-अत्र विनियोगसंग्रहः -  
-सोमो धेनुऽमिति प्रोक्तं सौम्ये विष्णोर्नु वामने ।   
-आ ते महो य ऐन्द्रे स्यान्मरुत्वत्यैन्द्रके मरुत् ।  
-इद्रो वृत्रतुरैन्द्रे स्याद्वर्णितं सूक्तपञ्चकम् ॥ १ ॥
-
-इति श्रमित्सायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे कृष्णयजुर्वेदीयतैत्तिरीयब्राह्मणभाष्ये द्वितीयाष्टकेऽष्टमेप्रपाठके तृतीयोऽनुवाकः ॥  
-</details>
