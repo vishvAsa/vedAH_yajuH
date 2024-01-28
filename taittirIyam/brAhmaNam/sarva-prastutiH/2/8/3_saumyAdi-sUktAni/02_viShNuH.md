@@ -285,6 +285,33 @@ Des Vischnu grosse Thaten will ich preisen, der weit durchmessen hat der Erde R�
 </details>
 </details>
 </div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/154/05_tadasya_priyamabhi.md">
+<details open><summary><h5>०५ तदस्य प्रियमभि ...{Loading}...</h5></summary>
+
+
+तद् अ॑स्य प्रि॒यम् अ॒भि पाथो॑ **अश्यां॒**  
+नरो॒ यत्र॑ देव॒यवो॒+++(=देवकामा)+++ **मद॑न्ति** ।  
+उ॒रु॒-क्र॒मस्य॒ स हि बन्धु॑र् इ॒त्था+++(=इत्थं)+++  
+**विष्णोः॑ प॒दे** प॑र॒मे **मध्व॒ उत्सः॑** ॥
+
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/154/05_tadasya_priyamabhi.md">
+<details open><summary><h5>०५ तदस्य प्रियमभि ...{Loading}...</h5></summary>
+
+
+तद् अ॑स्य प्रि॒यम् अ॒भि पाथो॑ **अश्यां॒**  
+नरो॒ यत्र॑ देव॒यवो॒+++(=देवकामा)+++ **मद॑न्ति** ।  
+उ॒रु॒-क्र॒मस्य॒ स हि बन्धु॑र् इ॒त्था+++(=इत्थं)+++  
+**विष्णोः॑ प॒दे** प॑र॒मे **मध्व॒ उत्सः॑** ॥
+
+</details>
+</div>
+
+
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/154/02_pra_tadviShNuH.md">
 <details open><summary><h5>०२ प्र तद्विष्णुः ...{Loading}...</h5></summary>
 
