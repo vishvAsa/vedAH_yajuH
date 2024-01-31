@@ -280,10 +280,6 @@ The Horse Sacrifice
 ## 12
 ### a
 ### b
-May the Rathantara with the Samans protect us,  
-The Gayatri with every form of metres,  
-The Trivrt Stoma with the order of the days,  
-The ocean, the wind, make full this strength.
 ### c
 (May) the dread among the quarters, the overpowering, giver of strength,  
 Pure, full of might on a bright day (protect us);

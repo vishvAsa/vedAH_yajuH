@@ -75,6 +75,15 @@ May he guard our kingly power, may he protect us.
 समु॒द्रो वात॑ इ॒दम् ओजᳶ॑ **पिपर्तु**+++(←पूरणे)+++ ।   
 </details>
 
+<details><summary>Keith</summary>
+
+May the Rathantara with the Samans protect us,  
+The Gayatri with every form of metres,  
+The Trivrt Stoma with the order of the days,  
+The ocean, the wind, make full this strength.
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 र॒थ॒न्त॒रꣳ साम॑भिᳶ पात्व॒स्मान्गा॑य॒त्री छन्द॑साव्ँवि॒श्वरू॑पा ।    
@@ -98,8 +107,8 @@ May he guard our kingly power, may he protect us.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒ग्रा दि॒शाम् अ॒भिभू॑तिर् वयो॒धाश्शुचि॑श्शु॒क्रे अह॑न्योज॒सीना᳚ ।    
-इन्द्राधि॑पतिᳶ पिपृता॒दतो॑ नो॒ महि॑ [33]  ख्ष॒त्रव्ँवि॒श्वतो॑ धारये॒दम् ।    
+उ॒ग्रा दि॒शाम् अ॒भिभू॑तिर् वयो॒धाश् शुचि॑श् शु॒क्रे अह॑न्योज॒सीना᳚ ।    
+इन्द्राधि॑पतिᳶ पिपृता॒दतो॑ नो॒ महि॑ ख्ष॒त्रव्ँवि॒श्वतो॑ धारये॒दम् ।    
 </details>
 
 <details><summary>मूलम्</summary>
