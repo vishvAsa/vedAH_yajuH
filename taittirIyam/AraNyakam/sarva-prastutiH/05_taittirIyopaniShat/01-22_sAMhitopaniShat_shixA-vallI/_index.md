@@ -45,7 +45,7 @@ title = "+०१-२२ सांहितोपनिषत् शिक्ष�
 
 ## प्रकीर्णम्
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/05_taittirIyopaniShat/07_yash_ChandasAm">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/05_taittirIyopaniShat/01-22_sAMhitopaniShat_shixA-vallI/07_yash_ChandasAm">
 <details open><summary><h2>०७ यश् छन्दसाम् ...{Loading}...</h2></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
