@@ -279,9 +279,6 @@ May these bricks, O Agni, be milch cows for me, one, and a hundred, and a thousa
 The Horse Sacrifice
 ## 12
 ### a
-May the kindling-stick of the quarters, that winneth the heaven, (Guard us) according to our hopes; from Madhu may Madhava protect us;  
-Agni, the god, hard to overcome, the undeceivable,  
-May he guard our kingly power, may he protect us.
 ### b
 May the Rathantara with the Samans protect us,  
 The Gayatri with every form of metres,  
