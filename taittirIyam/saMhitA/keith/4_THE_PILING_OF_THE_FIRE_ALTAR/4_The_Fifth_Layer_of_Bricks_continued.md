@@ -278,25 +278,11 @@ Thou art the measure of a thousand, thou art the image of a thousand, thou art t
 May these bricks, O Agni, be milch cows for me, one, and a hundred, and a thousand, and ten thousand [3], and a hundred thousand, and a million, and ten million, and a hundred million, and a thousand million, and ten thousand million, and a hundred thousand million, and ten hundred thousand million, and a hundred hundred thousand million; may these bricks, O Agni, be for me milch cows, sixty, a thousand, ten thousand unperishing; ye are standing on holy order, increasing holy order, dripping ghee, dripping honey, full of strength, full of power; may these bricks, O Agni, be for me milkers of desires named the glorious yonder in yon world.  
 The Horse Sacrifice
 ## 12
-### a
-### b
-### c
-### d
-### e
-### f
-Here in the Vairupa Saman may we have strength for this; With the Jagati we place him in the people;  
-O ye All-gods [2] through the seventeenfold (Stoma) this radiance, This kingly power with the ocean wind (be) dread.
-### g
-The supporter among the quarters doth support this lordly power, The stay of the regions; may force rich in friends be ours;  
-O Mitra and Varuna, ye wise ones with the autumn of the days, Do ye accord great protection to this kingdom.
-### h
-In the Vairaja Saman is my devotion;  
-By the Anustubh (be) manly strength collected;  
-This kingly power rich in friends, with dripping wet,  
-Do ye, O Mitra and Varuna, guard through your overlordship.
 ### i
-May the victorious among quarters, with the Saman, the strong one, The season winter in order make us full;  
-May the great ones, the Śakvari (verses), with favouring winds [8] Aid this sacrifice, full of ghee.
+May the victorious among quarters, with the Saman, the strong one,  
+The season winter in order make us full;  
+May the great ones, the Śakvari (verses), with favouring winds [8]  
+Aid this sacrifice, full of ghee.
 ### k
 May the heavenly of the quarters, the easily milked, the rich in milk, The goddess aid us, full of ghee;  
 Thou art the protector, who goest in front and behind;  
