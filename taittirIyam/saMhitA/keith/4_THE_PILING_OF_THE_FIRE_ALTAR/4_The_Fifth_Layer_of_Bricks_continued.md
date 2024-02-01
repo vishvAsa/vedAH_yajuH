@@ -279,38 +279,14 @@ May these bricks, O Agni, be milch cows for me, one, and a hundred, and a thousa
 The Horse Sacrifice
 ## 12
 ### i
-May the victorious among quarters, with the Saman, the strong one,  
-The season winter in order make us full;  
-May the great ones, the Śakvari (verses), with favouring winds [8]  
-Aid this sacrifice, full of ghee.
 ### k
-May the heavenly of the quarters, the easily milked, the rich in milk, The goddess aid us, full of ghee;  
-Thou art the protector, who goest in front and behind;  
-O Brhaspati, yoke a voice in the south.  
-1 (May) the upright of the quarters, the bounteous region of the plants, And Savitr with the year of the days (aid us);  
-The Revat Saman, and the Atichandas metre;  
-Without a foe, be kindly to us.
 ### m
-O thou of the three-and-thirtyfold Stoma, lady of the world, Breathed on by Vivasvant, do thou be gracious to us [4];  
-Rich in ghee, O Savitr, through thy overlordship,  
-Be the bounteous region rich in milk, for us.  
-The firm among the quarters, lady of Visnu, the mild,  
-Ruling over this strength, the desirable,  
-Brhaspati, Matariśvan, Vayu,  
-The winds blowing together be gracious to us.
 ### o
-Prop of the sky, supporter of the earth,  
-Ruling this world, lady of Visnu,  
-All-extending, seeking food, with prosperity,  
-May Aditi be auspicious to us in her life.
 ### p
-Vaiśvanara to our help.
-### q
-Present in the sky.
 ### r
-Us to-day Anumati.
+
 ### s
-O Anumati, thou.
+
 ### t
 With what to us radiant shall he be?
 ### u
