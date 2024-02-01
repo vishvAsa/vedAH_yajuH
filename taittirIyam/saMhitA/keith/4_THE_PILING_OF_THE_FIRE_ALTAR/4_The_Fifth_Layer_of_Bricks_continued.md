@@ -281,17 +281,8 @@ The Horse Sacrifice
 ### a
 ### b
 ### c
-(May) the dread among the quarters, the overpowering, giver of strength,  
-Pure, full of might on a bright day (protect us);
-  
-O Indra, as overlord, make full,  
-And for us [1] on all sides do thou preserve this great kingly power.
 ### d
-(May) the Brhat Saman, which supporteth kingly power, with vast strength, The force made beautiful by the Tristubh, that of fierce strength (protect us); O Indra, with the fifteenfold Stoma  
-Do thou guard this in the midst with the wind, with the ocean.
 ### e
-(May) the eastern among the quarters, famous and renowned, O ye All-gods, heavenly with the rain of the days (protect us); Let this kingly power be unassailable,  
-Force unoverpowerable, a thousandfold and mighty.
 ### f
 Here in the Vairupa Saman may we have strength for this; With the Jagati we place him in the people;  
 O ye All-gods [2] through the seventeenfold (Stoma) this radiance, This kingly power with the ocean wind (be) dread.
