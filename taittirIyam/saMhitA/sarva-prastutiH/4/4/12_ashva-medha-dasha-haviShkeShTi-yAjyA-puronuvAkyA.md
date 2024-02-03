@@ -671,6 +671,8 @@ Lengthen our days for us.
 </details>
 </details>
 </div>
+
+## कः
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ काय एककपाल इत्यस्य याज्यानुवाक्योः प्रतीके दर्शयति— कया नश्चित्र इति।   कया निश्चित्र आ भुवादिति पुरोनुवाक्या।
@@ -679,6 +681,12 @@ Lengthen our days for us.
 
 कया॑ नश्चि॒त्र आ भु॑व॒त्
 </details>
+
+<details><summary>Keith</summary>
+
+With what to us radiant shall he be?
+</details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/031/01_kayA_nashchitra.md">
 <details open><summary><h5>०१ कया नश्चित्र ...{Loading}...</h5></summary>
 
@@ -893,6 +901,13 @@ Mit welcher Hülfe steht uns bei der lichte Freund, der stets erquickt? Mit welc
 
 को अ॒द्य यु॑ङ्क्ते ॥   [37]  
 </details>
+
+<details><summary>Keith</summary>
+
+Who to-day yoketh?
+</details>
+
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/084/16_ko_adya.md">
 <details open><summary><h5>१६ को अद्य ...{Loading}...</h5></summary>
 

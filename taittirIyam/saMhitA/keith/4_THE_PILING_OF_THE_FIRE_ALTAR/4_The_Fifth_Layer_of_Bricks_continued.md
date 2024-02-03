@@ -276,18 +276,4 @@ These are thine overlords, to them honour, be they gracious to us, him whom we h
 Thou art the measure of a thousand, thou art the image of a thousand, thou art the size of a thousand, thou art the replica of a thousand, thou art of a thousand, for a thousand thee!
 ### p
 May these bricks, O Agni, be milch cows for me, one, and a hundred, and a thousand, and ten thousand [3], and a hundred thousand, and a million, and ten million, and a hundred million, and a thousand million, and ten thousand million, and a hundred thousand million, and ten hundred thousand million, and a hundred hundred thousand million; may these bricks, O Agni, be for me milch cows, sixty, a thousand, ten thousand unperishing; ye are standing on holy order, increasing holy order, dripping ghee, dripping honey, full of strength, full of power; may these bricks, O Agni, be for me milkers of desires named the glorious yonder in yon world.  
-The Horse Sacrifice
-## 12
-### i
-### k
-### m
-### o
-### p
-### r
 
-### s
-
-### t
-With what to us radiant shall he be?
-### u
-Who to-day yoketh?
