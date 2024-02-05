@@ -1,5 +1,5 @@
 +++
-title = "७"
+title = "७ स्वाध्याय-प्रशंसा"
 
 +++
 
@@ -9,8 +9,18 @@ title = "७"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथा᳘तः स्वाध्यायप्रशᳫँ᳭सा᳘॥  
-प्रिये᳘ स्वाध्यायप्रवचने᳘ भवतो युक्त᳘मना भवत्यपराधीनो᳘ ऽहरहर᳘र्थान्त्साधयते[[!!]] सुख᳘ᳫँ᳘ स्वपिति परमचिकित्सक᳘ ऽआत्म᳘नो भवतीन्द्रियसंयम᳘श्चैकाराम᳘ता[[!!]] च प्रज्ञाव्वृद्धिर्य्य᳘शोलोकपक्तिः᳘[[!!]] प्रज्ञा[[!!]] व्व᳘र्द्धमाना च᳘तुरो[[!!]] ध᳘र्म्मान्ब्राह्मण᳘मभि नि᳘ष्पादयति ब्रा᳘ह्मण्यम्प्रतिरूपचर्य्यां य᳘शोलोकपक्तिं᳘ लोकः प᳘च्यमानश्चतु᳘र्भिर्द्धर्म्मैर्ब्राह्मणं᳘ भुनक्त्यर्च्च᳘या च दा᳘नेन चाज्येय᳘तया चावध्य᳘तया च॥
+अथा꣡तः स्वाध्यायप्रशंसा꣡॥
+
+प्रिये꣡ स्वाध्याय-प्रवचने꣡ भवतो,  
+युक्त꣡-मना भवत्य्,  
+अ꣡पराधीनो꣡ ऽहर्-अहर् अ꣡र्थान्त् साधयते,  
+सुखं꣡ **स्वपिति**।+++(5)+++  
+परमचिकित्सक꣡ आत्म꣡नो भवति,  
++इन्द्रिय-संयम꣡श् चैकाराम꣡ता च, प्रज्ञा꣡, वृद्धि꣡र्, य꣡शो, लोक-पक्तिः꣡।  
+प्र꣡ज्ञा व꣡र्धमाना चतु꣡रो ध꣡र्मान् ब्राह्मण꣡म् अभिनि꣡ष्पादयति -  
+ब्रा꣡ह्मण्यम् प्रतिरूपचर्यां꣡, य꣡शो, लोक-पक्ति꣡म्।  
+लोकः꣡ प꣡च्यमानश् चतु꣡र्भिर् ध꣡र्मैर् ब्राह्मण꣡म् भुनक्त्य् -  
+अर्च꣡या च दा꣡नेन चाज्येय꣡तया चावध्य꣡तया च॥
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -34,7 +44,7 @@ title = "७"
 
 <details><summary>Eggeling</summary>
 
-1. Now, then, the praise of the study (of the scriptures). The study and teaching (of the Veda) are a source of pleasure to him, he becomes ready-minded [^egg_323], and independent of others, and day by day he acquires wealth. He sleeps peacefully; he is the best physician for himself; and (peculiar) to him are restraint of the senses, delight in the one thing [^egg_324], growth of intelligence, fame, and the (task of) perfecting the people [^egg_325]. The growing
+1. Now, then, the praise of the study (of the scriptures). The study and teaching (of the Veda) are a source of pleasure to him, he becomes ready-minded [^egg_323], and independent of others, and day by day he acquires wealth. He sleeps peacefully; he is the best physician for himself; and (peculiar) to him are restraint of the senses, delight in the one thing [^egg_324], growth of intelligence, fame, and the (task of) perfecting the people [^egg_325].
 
 [^egg_323]: 99:5 Or, as Sāyaṇa takes it to mean, of intent, undistracted mind,--yuktam avikshiptam ekāgraṁ mano yasya sa yuktamanāḥ.
 
@@ -42,7 +52,7 @@ title = "७"
 
 [^egg_325]: 99:7 Or, perfecting the world,--tadyukto yo lokas tasya paktiḥ paripāko bhavati, Sāy.
 
-intelligence gives rise to four duties attaching to the Brāhmaṇa--Brāhmaṇical descent, a befitting deportment, fame, and the perfecting of the people; and the people that are being perfected guard the Brāhmaṇa by four duties--by (showing him) respect, and liberality, (and by granting him) security against oppression, and security against capital punishment.
+The growing intelligence gives rise to four duties attaching to the Brāhmaṇa--Brāhmaṇical descent, a befitting deportment, fame, and the perfecting of the people; and the people that are being perfected guard the Brāhmaṇa by four duties--by (showing him) respect, and liberality, (and by granting him) security against oppression, and security against capital punishment.
 </details>
 
 
@@ -51,8 +61,11 @@ intelligence gives rise to four duties attaching to the Brāhmaṇa--Brāhmaṇi
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ये᳘ ह वै के᳘ च श्र᳘माः॥  
-(ऽ) इमे द्या᳘वापृथिवी ऽअ᳘न्तरेण स्वाध्यायो᳘ हैव ते᳘षां परम᳘ताका᳘ष्ठा य᳘ ऽएवं᳘ व्विद्वा᳘न्त्स्वाध्याय᳘मधीते त᳘स्मात्स्वाध्या᳘यो ऽध्येत᳘व्व्यः॥
+ये꣡ ह वै꣡ के꣡ च श्र꣡मा  
+इमे꣡ द्या꣡वापृथिवी अ꣡न्तरेण,  
+स्वाध्यायो꣡ हैव꣡ ते꣡षाम् परम꣡ता का꣡ष्ठा।  
+य꣡ एवं꣡ विद्वा꣡न्त् स्वाध्याय꣡म् अधीते꣡ …  
+त꣡स्मात् स्वाध्यायो꣡ ऽध्येत꣡व्यः॥
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -85,8 +98,9 @@ intelligence gives rise to four duties attaching to the Brāhmaṇa--Brāhmaṇi
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-(व्व्यो) य᳘द्यद्ध वा᳘ ऽअयं छ᳘न्दसः॥  
-स्वाध्याय᳘मधीते ते᳘न तेन है᳘वास्य यज्ञक्रतु᳘नेष्टं᳘ भवति य᳘ ऽएवं᳘ व्विद्वा᳘न्त्स्वाध्याय᳘मधीते त᳘स्मात्स्वाध्या᳘यो ऽध्येत᳘व्व्यः॥
+य꣡द् यद् ध वा꣡ अयं꣡ छ꣡न्दसः॥  
+स्वाध्याय꣡म् अधीते ते꣡न-तेन हैवा꣡स्य यज्ञक्रतु꣡नेष्ट꣡म् भवति।  
+य꣡ एवं꣡ विद्वा꣡न्त् स्वाध्याय꣡मधीते। त꣡स्मात् स्वाध्यायो꣡ ऽध्येत꣡व्यः॥
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
