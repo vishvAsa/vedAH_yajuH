@@ -10,7 +10,8 @@ title = "२ सोमाहारणादि"
 
 विजा꣡मानो+++(=भ्रातरः)+++ हैवा꣡स्य +++(यज्ञस्य)+++ धि꣡ष्ण्याः +++(धाना-कपालानि)+++॥  
 +++(कुत इति चेत्-)+++ इमे꣡ समङ्का꣡+++(=समानचिह्नाः)+++।  
-ये꣡ वै꣡ समङ्का꣡स् ते꣡ विजा꣡मान,, एत꣡ उ हैवा꣡स्यैत꣡ आत्म꣡नः॥
+ये꣡ वै꣡ समङ्का꣡स् ते꣡ विजा꣡मान।  
+एत꣡+++(→धिष्ण्याः)+++ उ हैवा꣡स्यैत꣡+++(→विजामाना अङ्गानि)+++ आत्म꣡नः॥
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -34,11 +35,10 @@ title = "२ सोमाहारणादि"
 
 <details><summary>Eggeling</summary>
 
-1. The Dhishṇya-hearths [^egg_392], forsooth, are no other
+1. The Dhishṇya-hearths [^egg_392], forsooth, are no other than its (the sacrifice's) congeners [^egg_393]. They have the same marks, and those which have the same marks are congeners; and these, then, are those (corresponding limbs) of its trunk.
 
 [^egg_392]: 148:4 There are altogether eight dhishṇyas, two of which, viz. the Āgnīdhra and the Mārjālīya, are raised north and south of the back part of the cart-shed (havirdhāna) respectively; while the other six are raised inside the Sadas along the east side of it, viz. five of them north of the 'spine,' belonging (from south to north) to the Hotr̥, Brāhmaṇāchaṁsi, Potr̥, Neshṭr̥, and Achāvāka respectively; and one south of the spine, exactly south-east of the Udumbara post, for the Maitrāvaruṇa (or Praśāstr̥) priest. These six priests, together with the Āgnīdhra, are called the 'seven Hotr̥s.' The Āgnīdhra and Mārjālīya have square sheds with four posts erected over them, open on the east side and on the side facing the cart-shed. The Āgnīdhra hearth is thrown up first, and the Mārjālīya last of all; and the Maitrāvaruṇa's immediately after that of the Hotr̥. For the formulas by which they are consecrated, see Vāj. S. V, 32, 32.
 
-than its (the sacrifice's) congeners [^egg_393]. They have the same marks, and those which have the same marks are congeners; and these, then, are those (corresponding limbs) of its trunk.
 
 [^egg_393]: 149:1 That is, the parts of the body corresponding to one another, as arms, loins, &c.
 </details>
@@ -49,8 +49,15 @@ than its (the sacrifice's) congeners [^egg_393]. They have the same marks, and t
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-(नो) दिवि वै सो᳘म ऽआ᳘सीत्॥  
-(द᳘) अ᳘थेह᳘ देवास्ते᳘ देवा᳘ ऽअकामयन्ता᳘ नः सो᳘मो गच्छेत्तेना᳘गतेन यजेमही᳘ति त᳘ ऽएते᳘ माये᳘ ऽअसृजन्त सुपर्णीं᳘ च कद्रूं᳘ च व्वा᳘गेव᳘ सुप᳘र्णीयं᳘ कद्रूस्ता᳘भ्याᳫं᳭ सम᳘दं चक्रुः॥
+दिवि꣡ वै꣡ सो꣡म आ꣡सीत्॥  
+अ꣡थेह꣡ देवाः꣡।  
+ते꣡ देवा꣡ अकामयन्त -  
+> आ꣡ नः सो꣡मो गच्छेत्,  
+ते꣡ना꣡गतेन यजेमहि 
+
+इ꣡ति।  
+त꣡ एते꣡ माये꣡ असृजन्त - सुपर्णीं꣡ च कद्रूं꣡ च।  
+वा꣡ग् एव꣡ सुपर्णी꣡यं꣡ कद्रू꣡स्,, ता꣡भ्यां सम꣡दं चक्रुः॥
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
