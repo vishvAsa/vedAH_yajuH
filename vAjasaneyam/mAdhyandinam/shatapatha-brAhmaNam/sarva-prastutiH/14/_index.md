@@ -2,6 +2,8 @@
 title = "+१४"
 
 +++
+
+
 <details><summary>मूलम् - Weber</summary>
 
 To Mr. Thomann of Zürich I am indebted for a collation of E. I. H. 309 (E) concerning several passages in the two first प्रपाठकाः, and to my dear and learned friend Dr. W. Pertsch for a very minute collation of M., which beautiful ms. does however not exhibit the whole काण्ड - as I have in the Preface (p. IX) erroneously stated--but contains only the बृहदारण्यक portion, beginning with the third प्रपाठक.
@@ -12,3 +14,4 @@ The reason of this strange circumstance may be sought for either in a less caref
 
 In consequence of the constant fluctuation of these readings some of which bear the appearence of having been produced by a mingling of the different systems of denotation of the संहितस्वरः and the ब्राह्मणस्वरः I have generally thought myself authorized to remove all evident blunders from my text, yet carefully recording as follows all those anomalies from the common mode of accentuation as might be more than mere mistakes of the copists. The exceptions I have made occur in the वंश-s which I have given throughout in their original form - in some words which in the same passages are constantly accentuated in the same way, though differently from their usual accentuation, as for instance पा᳘प वेद᳘ -- and finally in a few others which are also likely to have really fluctuated between different accents.
 </details>
+

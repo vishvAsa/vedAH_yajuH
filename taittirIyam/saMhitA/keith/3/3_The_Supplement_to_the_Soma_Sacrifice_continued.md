@@ -20,7 +20,7 @@ Thou dost win the light; may the light forsake me not, may I not forsake the lig
 On me wisdom, on me offspring, on me brilliance may Agni bestow; on me wisdom, on me offspring, on me power may Indra bestow; on me wisdom, on me offspring, on me blazing may Surya bestow.
 ## 02
 ### a
-The maker of the sound 'Him' is Vayu, the Prastotr is Agni, the Saman is Prajapati, the Udgatr is Brhaspati, the subordinate singers are the All-gods, the Pratihartrs are the Maruts, the finale is Indra; may these gods who support breath bestow breath upon me.
+
 ### b
 All this the Adhvaryu, as he begins, begins for the Udgatrs; 'May these gods who support breath bestow breath upon me', he says; verily he bestows all this on himself.
 ### c

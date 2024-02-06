@@ -641,6 +641,8 @@ title = "०५ भोजनम्"
 **प्राचीनावीती** -  
 दक्षिणामुखः सव्यं जान्व् आच्य,
 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/yaJNeshvaraH__eko_viShNuH/"  newLevelForH1="5" includeTitle="false"> 
+
 > यज्ञेश्वरो हव्य-समस्त-कव्य-  
 भोक्ता ऽव्ययात्मा हरिर् ईश्वरो ऽत्र ।  
 तत्-सन्निधानाद् अपयान्तु सद्यो  
@@ -649,7 +651,9 @@ title = "०५ भोजनम्"
 > एको विष्णुर् महद्भूतं  
 पृथक् भूतान्य् अनेकशः ।  
 त्रीन् लोकान् व्याप्य भूतात्मा  
-भुङ्क्ते विश्व-भुग् अव्ययः ॥ 
+भुङ्क्ते विश्व-भुग् अव्ययः ॥
+</div>  
+
 
 इति +उच्चार्य
 
