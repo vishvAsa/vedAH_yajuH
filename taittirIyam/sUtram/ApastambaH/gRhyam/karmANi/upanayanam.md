@@ -875,7 +875,7 @@ unicode_script: devanagari
 </div>  
 
 ## भिक्षा
-+++(अत्र बोधायनः "अथास्मा अरिक्तं पात्रं प्रयच्छात्राह मातरम् एवाग्रे भिक्षस्वेति" ।)+++  
++++(अत्र बोधायनः "अथास्मा अरिक्तं पात्रं प्रयच्छन्नाह मातरम् एवाग्रे भिक्षस्वेति" ।)+++  
 
 ## वासस आदानम्
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/11_24_vAsashchaturthImuttarayAdatte-nyatparidhApya.md">
