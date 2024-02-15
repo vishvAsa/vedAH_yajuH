@@ -1211,8 +1211,8 @@ unicode_script = "devanagari"
 
 
 
-{य॒माय॒ स्वाहा॑ ऽपभ॒रणीभ्यः॒ स्वाहा॑।  
-रा॒ज्याय॒ स्वाहा॒ ऽभिजि॑त्यै॒ स्वाहा॑।}
+{य॒माय॒ स्वाहा॑ ऽप॒भर॑णीभ्य॒स् स्वाहा᳚ ।  
+रा॒ज्याय॒ स्वाहा॒ ऽभिजि॑त्यै॒ स्वाहा᳚ ॥55॥}
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/27_bharaNI/">
 <details open><summary><h5>२७ भरणी ...{Loading}...</h5></summary>
