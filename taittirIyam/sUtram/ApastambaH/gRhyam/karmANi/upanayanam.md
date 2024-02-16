@@ -10,14 +10,14 @@ unicode_script: devanagari
 उपनयनं व्याख्यास्यामः १  
 
 </details>
-</div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/10_03_garbhaikAdasheShu_rAjanyam.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/10_02_garbhAShTameShu_brAhmaNamupanayIta.md">
 <details open><summary><h2>१० ०३ गर्भैकादशेषु राजन्यम् ...{Loading}...</h2></summary>
 
-गर्भैकादशेषु राजन्यं  
-गर्भद्वादशेषु वैश्यम् ३  
+गर्भाष्टमेषु+++(=गर्भवर्षाद्य्-अष्टमं येषां तेषु [वर्षेषु])+++ ब्राह्मणम् उपनयीत २
+
 
 </details>
+</div>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/10_03_garbhaikAdasheShu_rAjanyam.md">
 <details open><summary><h2>१० ०३ गर्भैकादशेषु राजन्यम् ...{Loading}...</h2></summary>
@@ -46,6 +46,15 @@ unicode_script: devanagari
 > स्नातं कुमारं शुचि-वाससं बद्ध-शिखं यज्ञोपवीतम् आसञ्जति - "यज्ञोपवीतं परमं पवित्रम्" इति ।
 ततस् तं यज्ञोपवीतिनं देव-यजनम् उदानयति
 > (बौ.गृ.२५) इति बौधायनः ।  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/baudhAyanaH/gRhyam/mantraH/Rk/vishvAsa-prastutiH/yajnopavItam_paramam.md" newLevelForH1="5" includeTitle="false"> 
+
+> यज्ञोपवीतं परमं पवित्रं  
+प्रजापतेर्यत्सहजं पुरस्तात् ।  
+आयुष्यमग्र्यं प्रतिमुञ्च शुभ्रं  
+यज्ञोपवीतं बलमस्तु तेजः ।  
+</div>
+
 
 
 ## समिदाधानम् अश्मन्य् आस्थापनं च  
@@ -875,7 +884,7 @@ unicode_script: devanagari
 </div>  
 
 ## भिक्षा
-+++(अत्र बोधायनः "अथास्मा अरिक्तं पात्रं प्रयच्छात्राह मातरम् एवाग्रे भिक्षस्वेति" ।)+++  
++++(अत्र बोधायनः "अथास्मा अरिक्तं पात्रं प्रयच्छन्नाह मातरम् एवाग्रे भिक्षस्वेति" ।)+++  
 
 ## वासस आदानम्
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/11_24_vAsashchaturthImuttarayAdatte-nyatparidhApya.md">
