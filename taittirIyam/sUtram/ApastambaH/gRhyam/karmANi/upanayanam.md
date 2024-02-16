@@ -47,6 +47,15 @@ unicode_script: devanagari
 ततस् तं यज्ञोपवीतिनं देव-यजनम् उदानयति
 > (बौ.गृ.२५) इति बौधायनः ।  
 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/baudhAyanaH/gRhyam/mantraH/Rk/vishvAsa-prastutiH/yajnopavItam_paramam.md" newLevelForH1="5" includeTitle="false"> 
+
+> यज्ञोपवीतं परमं पवित्रं  
+प्रजापतेर्यत्सहजं पुरस्तात् ।  
+आयुष्यमग्र्यं प्रतिमुञ्च शुभ्रं  
+यज्ञोपवीतं बलमस्तु तेजः ।  
+</div>
+
+
 
 ## समिदाधानम् अश्मन्य् आस्थापनं च  
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/10_09_snAtam_agner.md">
