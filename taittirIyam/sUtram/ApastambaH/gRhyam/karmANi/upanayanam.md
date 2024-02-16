@@ -10,7 +10,7 @@ unicode_script: devanagari
 उपनयनं व्याख्यास्यामः १  
 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/10_02_garbhAShTameShu_brAhmaNamupanayIta.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/10_02_garbhAShTameShu_brAhmaNamupanayIta.md">
 <details open><summary><h2>१० ०३ गर्भैकादशेषु राजन्यम् ...{Loading}...</h2></summary>
 
 गर्भाष्टमेषु+++(=गर्भवर्षाद्य्-अष्टमं येषां तेषु [वर्षेषु])+++ ब्राह्मणम् उपनयीत २
