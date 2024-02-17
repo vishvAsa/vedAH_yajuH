@@ -49,10 +49,10 @@ unicode_script: devanagari
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/baudhAyanaH/gRhyam/mantraH/Rk/vishvAsa-prastutiH/yajnopavItam_paramam.md" newLevelForH1="5" includeTitle="false"> 
 
-> यज्ञोपवीतं परमं पवित्रं  
-प्रजापतेर्यत्सहजं पुरस्तात् ।  
-आयुष्यमग्र्यं प्रतिमुञ्च शुभ्रं  
-यज्ञोपवीतं बलमस्तु तेजः ।  
+य॒ज्ञो॒प॒वी॒तं प॑र॒मं प॒वित्रं॑  
+प्र॒जाप॑ति॒र् यत् स॑ह॒जं पु॒रस्ता᳚त् ।  
+आ॒यु॒ष्य॑म् अ॒ग्र्यं॑ प्रति॑मुञ्च शु॒भ्रं  
+य॑ज्ञोपवी॒तं बल॑म् अस्तु॒ तेजः॑ ॥
 </div>
 
 
