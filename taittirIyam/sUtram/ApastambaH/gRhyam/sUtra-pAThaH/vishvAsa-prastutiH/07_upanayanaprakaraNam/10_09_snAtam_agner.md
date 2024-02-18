@@ -18,6 +18,7 @@ title = "१० ०९ स्नातम् अग्नेर्"
 </div>  
 
 उत्तरेण अग्निं, दक्षिणेन पदा ऽश्मानम् आस्थापयत्य् - आतिष्ठेति ९  
++++(तत्रैव चावस्थापनं यावत् तिष्ठति। )+++
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/02_AtiShThemamashmAnamashmeva_tva2m.md">
 <details open><summary><h2>०२ आतिष्ठेममश्मानमश्मेव त्व२म् ...{Loading}...</h2></summary>
