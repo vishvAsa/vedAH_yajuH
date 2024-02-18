@@ -226,7 +226,7 @@ unicode_script: devanagari
 </details>
 </div>  
 
-## अवस्थापनम्
+## अवस्थापनादि
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhanirUpaNam/01_16_uttareNAgnin.md">
 <details open><summary><h2>०१ १६ उत्तरेणाग्निन् ...{Loading}...</h2></summary>
@@ -423,7 +423,7 @@ unicode_script: devanagari
 </div>  
 
 
-## प्रधानहोमः
+## प्रदानहोमः
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/11_05_uktamAjyabhAgAntam.md">
 <details open><summary><h2>११ ०५ उक्तमाज्यभागान्तम् ...{Loading}...</h2></summary>
 
