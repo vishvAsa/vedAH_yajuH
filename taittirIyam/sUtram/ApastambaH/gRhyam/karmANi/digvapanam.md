@@ -3,7 +3,8 @@ title: दिग्वपनम्
 unicode_script: devanagari
 
 ---
-## कल्पः
+
+## शिरस उन्दनम्
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/10_05_brAhmaNAn_bhojayitvAshiSho.md">
 <details open><summary><h2>१० ०५ ब्राह्मणान् भोजयित्वाशिषो ...{Loading}...</h2></summary>
 
@@ -23,7 +24,6 @@ unicode_script: devanagari
 </details>
 </div>
 
-
 उत्तरया +++(आप उन्दन्त्विऽत्येतया)+++ शिर उनत्ति ५  
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_01/02_Apa_undantu.md">
 <details open><summary><h4>०२ आप उन्दन्तु ...{Loading}...</h4></summary>
@@ -35,6 +35,10 @@ unicode_script: devanagari
 </div>
 </details>
 </div>
+
++++(तत्राचार्यस्संसर्जनोन्दने कृत्वा क्षुरं नापितादपादाय प्रतिदिशं प्रवाप्य पुनस्तस्मै प्रदाय तं च वपन्तमुत्तरयानुमन्त्रयते । इति स्नातकसंस्कारे हरदत्तः। नाचार्यः - अन्योऽपि ब्राह्मण इति सुदर्शनसूरिः।)+++
+
+## प्रवपनम्
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/10_06_trIMstrIn.md">
 <details open><summary><h2>१० ०६ त्रींस्त्रीन् ...{Loading}...</h2></summary>
 
@@ -91,6 +95,8 @@ unicode_script: devanagari
 </div>
 </details>
 </div>
+
+## क्षुर-शोधन-मन्त्रणम्
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/10_07_vapantamuttarayAnumantrayate.md">
 <details open><summary><h2>१० ०७ वपन्तमुत्तरयानुमन्त्रयते ...{Loading}...</h2></summary>
 
@@ -108,6 +114,8 @@ unicode_script: devanagari
 </div>
 </details>
 </div>
+
+## केश-दर्भ-निक्षेपः
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/10_08_AnaDuhe_shakRtpiNDe.md">
 <details open><summary><h2>१० ०८ आनडुहे शकृत्पिण्डे ...{Loading}...</h2></summary>
 
@@ -127,4 +135,3 @@ unicode_script: devanagari
 </details>
 </div>
 
-+++(तत्राचार्यस्संसर्जनोन्दने कृत्वा क्षुरं नापितादपादाय प्रतिदिशं प्रवाप्य पुनस्तस्मै प्रदाय तं च वपन्तमुत्तरयानुमन्त्रयते । इति स्नातकसंस्कारे हरदत्तः। नाचार्यः - अन्योऽपि ब्राह्मण इति सुदर्शनसूरिः।)+++

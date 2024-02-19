@@ -14,7 +14,7 @@ title = "०८ पाहित्रयोदशकहोमः"
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
-> नक्षत्रे राशौ जातस्य  
+> … नक्षत्रे … राशौ जातस्य  
 > अमुकगोत्रस्य अस्य (मम) कुमारस्य  
 > जात-कर्म--नाम-करण--अन्न-प्राशन--चौलोपनयनकर्मणां  
 > स्व-स्व-मुख्य-कालातिक्रमणेन यो दोषः **समजनि**  
