@@ -3,6 +3,11 @@ title = "१५"
 
 +++
 
+<details><summary>मूलम्</summary>
+
+वरु॑णा॒याश्व᳚म् ।
+</details>
+
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/yajuH/sarva-prastutiH/03/15-17_pratigrahAH/devasya_tvA_savituH__pratigRhNAmi.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
@@ -10,18 +15,18 @@ title = "१५"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राजा᳚ त्वा॒ वरु॑णो नयतु  
-देवि दख्षिणे॒ऽग्नये॒ हिर॑ण्यम् ।  
+देवि दख्षिणे॒ वरु॑णा॒याश्व᳚म् ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
 राजा᳚ त्वा॒ वरु॑णो नयतु  
-देवि दख्षिणे॒ऽग्नये॒ हिर॑ण्यम् ।  
+देवि दख्षिणे॒ वरु॑णा॒याश्व᳚म् ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-हे हिरण्यात्मिके ! देवि! दक्षिणे! राजा वरुणः त्वां हिरण्यं अग्नये नयतु । तच्चेयमिष्टकाऽस्ति ।  
+हे हिरण्यात्मिके ! देवि! दक्षिणे! राजा वरुणः त्वां ... नयतु । तच्चेयमिष्टकाऽस्ति ।
 </details>
 
 
