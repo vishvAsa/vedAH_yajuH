@@ -636,18 +636,18 @@ unicode_script: devanagari
 
 व्याहृतीर् विहृताः - पादादिष्व् अन्तेषु वा, तथार्धर्चयोर्, उत्तमां कृत्स्नायाम् ११
 
-#### आद्युच्चारणपक्षे
+(आद्युच्चारणपक्षे)
 
 ##### पादशः
-ओं भूः तत् सवि॒तुर् वरे॑ण्य+++(णिय)+++म्।  
-ओं भुवः॑ +++(पापादि)+++भर्गो॑+++(=भर्जनम्)+++ दे॒वस्य॑ धीमहि+++(←ध्यै ध्याने / धी आराधने)+++ ।  
-ओं सुवः॑ धियो॒ यो नः॑ प्रचो॒दया॑त् ॥  
+ओं भूस् तत् सवि॒तुर् वरे॑ण्य+++(णिय)+++म्।  
+ओं भुव॑र् +++(पापादि)+++भर्गो॑+++(=भर्जनम्)+++ दे॒वस्य॑ धीमहि+++(←ध्यै ध्याने / धी आराधने)+++ ।  
+ओं सुव॑र् धियो॒ यो नः॑ प्रचो॒दया॑त् ॥  
 
 ##### अर्धशः पूर्णश्श्च
-ओं भूर् तत् सवि॒तुर् वरे॑ण्य+++(णिय)+++म् +++(पापादि)+++भर्गो॑+++(=भर्जनम्)+++ दे॒वस्य॑ धीमहि+++(←ध्यै ध्याने / धी आराधने)+++ ।  
-ओं भुवः॑ धियो॒ यो नः॑ प्रचो॒दया॑त् ॥  
+ओं भूस् तत् सवि॒तुर् वरे॑ण्य+++(णिय)+++म् +++(पापादि)+++भर्गो॑+++(=भर्जनम्)+++ दे॒वस्य॑ धीमहि+++(←ध्यै ध्याने / धी आराधने)+++ ।  
+ओं भुव॑र् धियो॒ यो नः॑ प्रचो॒दया॑त् ॥  
 
-ओं सुवः॑
+ओं सुव॑स्
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/13_tatsaviturvareNyamityeShA.md">
 <details open><summary><h4>१३ तत्सवितुर्वरेण्यमित्येषा ...{Loading}...</h4></summary>
@@ -715,7 +715,7 @@ unicode_script: devanagari
 
 +++(पलाश-)+++दण्डमुत्तरेणाऽऽदत्ते +++("सुश्रवस्सुश्रवस"मित्यनेन)+++१४  
 
- <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/01_sushravassushravasam_mA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/01_sushravassushravasam_mA.md">
 <details open><summary><h4>०१ सुश्रवस्सुश्रवसम् मा ...{Loading}...</h4></summary>
 
 
@@ -775,10 +775,10 @@ unicode_script: devanagari
 </div>
 
 
-### वरदानम्
+## वरदानम्
 गुरवे वरं +++(अग्न्याधाने "गौर्वै वरः"(आप.श्रौ.४११४))+++ दत्त्वा  
 
-#### उत्थापनमन्त्रः  
+### उत्थापनमन्त्रः  
 +उदायुषेत्य् उत्थाप्य
 
 +++(कुमारो वदति -)+++  
