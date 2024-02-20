@@ -26,12 +26,9 @@ title = "२८ गायत्रीजपः"
 
 इति सङ्कल्प्य, श्रोत्रियागारात् अग्निम् आहृत्य, अग्निं प्रतिष्ठाप्य, परिस्तीर्य, परिषिच्य, प्रणवव्याहृतिपूर्वया सावित्र्या आज्याभ्यक्तं समित्सहस्रम् एकैकश आधाय, परिषिच्य,
 
-ओम् अग्नये नमः, 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/mantrahInam_hutAshana.md" newLevelForH1="5" includeTitle="false"> </div>
 
-> मन्त्रहीनं क्रियाहीनं भक्तिहीनं हुताशन ।  
-यद्धुतं तु मया देव परिपूर्णं तदस्तु ते ॥  
-प्रायश्चित्तान्यशेषाणि तपः कर्मात्मकानि वै ।  
-यानि तेषामशेषाणां कृष्णानुस्मरणं परम् ॥ 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/prAyashcittAny_asheShANi.md" newLevelForH1="5" includeTitle="false"> </div>
 
 इति प्रणम्य, अभिवाद्य, आचम्य, इत्यग्निमुपतिष्ठेत ॥
 

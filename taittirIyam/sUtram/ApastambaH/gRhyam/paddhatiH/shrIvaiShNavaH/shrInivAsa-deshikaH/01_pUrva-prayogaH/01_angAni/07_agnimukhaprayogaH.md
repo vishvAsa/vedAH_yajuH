@@ -214,10 +214,11 @@ title = "०७ अग्निमुखप्रयोगः"
 
 > अग्ने नयँ, सुपथा॑ रा॒ये, अ॒स्मान्, विश्वॉनि, देव, वमुनॉनि, वि॒द्वान् । युयोधि, अस्मत्, जुहुराणं, एनॅः, भूयिँष्ठां ते, नमँ उक्तिं, विधेम ॥ अग्नये नमः ।
 >
-> मन्त्रहीनं क्रियाहीनं, भक्तिहीनं, हुताशन ।  
-यद्धुतं तु मया देव परिपूर्णं तदस्तु ते ।  
-प्रायश्चित्तानि अशेषाणि तपःकर्मात्मकानि वै ।  
-यानि तेषाम्, अशेषाणां कृष्णानुस्मरणं परम् ॥ 
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/mantrahInam_hutAshana.md" newLevelForH1="5" includeTitle="false"> </div>
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/prAyashcittAny_asheShANi.md" newLevelForH1="5" includeTitle="false"> </div>
+
 
 प्रणम्याभिवादयेत् । जयादिप्रभृति, उपस्थानपर्यन्तम्उ उपरिष्टात्तन्त्रमिति च संज्ञा ॥
 

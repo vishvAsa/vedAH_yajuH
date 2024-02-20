@@ -1355,7 +1355,9 @@ title = "०१ उपनयनम्"
 
 [[88]]
 
-> श्रीविष्ण॑वे॒ स्वाहा॑ विष्णवे परमात्मने इदन्न मम 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/shrI-viShNave_svAhA.md" newLevelForH1="5" includeTitle="false"> </div>
+
+
 
 उत्थाय 
 
@@ -1408,7 +1410,13 @@ title = "०१ उपनयनम्"
 </details>
 </div> 
 
-मयिँमेघां, मयिँप्रजां, मय्य॒ग्निः, तेजॅः, दधातु । मयिँ मे॒धां, मयिँ प्र॒जां, मयीन्द्रः, इ॒न्द्रि॒यं, दधातु । मयिँ मे॒धां, मयिँप्र॒जां, मयिँ, सूर्यःँ, भ्राजॅः दधातु ॥ अग्नये नमः मन्त्रहीनं + कृष्णानुस्मरणं परम् । [[TODO::परिष्कार्यम्??]] 
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/3/3/01_atigrAhyamantrAH/mayi_medhAm.md" newLevelForH1="5" includeTitle="false"> </div>
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/mantrahInam_hutAshana.md" newLevelForH1="5" includeTitle="false"> </div>
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/prAyashcittAny_asheShANi.md" newLevelForH1="5" includeTitle="false"> </div>
+
 
 <details><summary>तमिऴ्</summary>
 

@@ -307,7 +307,11 @@ script: grantha
 
 यत्ते॑ अग्ने॒ तेज॒स्तेना॒हं ते॑ज॒स्वी भू॑यासं॒ यत्ते॑ अग्ने॒ वर्च॒स्तेना॒हं व॑र्च॒स्वी भू॑यासं॒ यत्ते॑ अग्ने॒ हर॒स्तेना॒ह ह॑र॒स्वी भू॑यासम्॥ मयि॑ मे॒धां मयि॑ प्र॒जां मय्य॒ग्निस्तेजो॑ दधातु॒ मयि॑ मे॒धां मयि॑ प्र॒जां मयीन्द्र॑ इन्द्रि॒यं द॑धातु॒ मयि॑ मे॒धां मयि॑ प्र॒जां मयि॒ सूर्यो॒ भ्राजो॑ दधातु॥ 
 
-अग्नये नमः॥ मन्त्रहीनं क्रियाहीनं भक्तिहीतं हुताशन। यद्धुतन्तु मया देव परिपूर्णं तदस्तु ते॥ प्रायश्चित्तान्यशेषाणि तपः कर्मात्मकानि वै। यानि तेषामशेषाणां कृष्णानुस्मरणं परम्॥ अभिवादये। नमस्कारः। 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/mantrahInam_hutAshana.md" newLevelForH1="5" includeTitle="false"> </div>
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/prAyashcittAny_asheShANi.md" newLevelForH1="5" includeTitle="false"> </div>
+
+अभिवादये। नमस्कारः। 
 म
 ान॑स्तो॒के तन॑ये॒ मा न॒ आयु॑षि॒ मा नो॒ गोषु॒ मा नो॒ अश्वे॑षु रीरिषः। वी॒रान्मा नो॑ रुद्रभामि॒तो व॑धीर् ह॒विष्म॑न्तो॒ नम॑सा विधेम ते॥
 
