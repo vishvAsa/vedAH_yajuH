@@ -209,7 +209,7 @@ title = "०८ समिदाधानम्"
 उत्थाय 
 
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/taittirIyam/saMhitA/3/5/03_viShNvatikramAH/yat_te_agne.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/3/5/03_viShNvatikramAH/yat_te_agne.md">
 <details open><summary><h5>यत्ते॑ अग्ने॒  ...{Loading}...</h5></summary>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
