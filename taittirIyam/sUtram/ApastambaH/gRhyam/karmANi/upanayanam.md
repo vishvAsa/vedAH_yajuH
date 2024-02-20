@@ -37,12 +37,12 @@ unicode_script: devanagari
 
 +++(धर्मसूत्रोक्तनियमा [अन्यत्र](/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/pAtram/AshramaH/upanayanam/)।)+++
 
+## प्राक्तन-कर्माणि
 +++(अधो यथापेक्षं लिङ्गपरिवर्तनं स्यात्।)+++  
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="../digvapanam"></div>  
 
 
-
-## यज्ञोपवीतधारणम्
+### यज्ञोपवीतधारणम्
 > स्नातं कुमारं शुचि-वाससं बद्ध-शिखं यज्ञोपवीतम् आसञ्जति - "यज्ञोपवीतं परमं पवित्रम्" इति ।
 ततस् तं यज्ञोपवीतिनं देव-यजनम् उदानयति
 > (बौ.गृ.२५) इति बौधायनः ।  
@@ -57,7 +57,7 @@ unicode_script: devanagari
 
 
 
-## समिदाधानम् अश्मन्य् आस्थापनं च  
+## समिद्-होमः अश्मन्य् आस्थापनं च  
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/10_09_snAtam_agner.md">
 <details open><summary><h2>१० ०९ स्नातम् अग्नेर् ...{Loading}...</h2></summary>
 
@@ -748,7 +748,7 @@ unicode_script: devanagari
 
 
 ## व्रतसङ्कल्पः कुमारेण
-"<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/11_17_smRta~n_cha.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/11_17_smRta~n_cha.md">
 <details open><summary><h2>११ १७ स्मृतञ् च ...{Loading}...</h2></summary>
 
 "स्मृतं च म" इत्य् एतद्वाचयित्वा
@@ -876,10 +876,24 @@ unicode_script: devanagari
 <details open><summary><h4>१४ ब्रह्मचार्यस्य्, अपोऽशान ...{Loading}...</h4></summary>
 
 
-ब्र॒ह्म॒चा॒र्य् अ॑स्य्, अपो॑ऽशान॒ +++(नानिवेदितम् अन्नम्)+++, कर्म॑ कुरु॒, मा सुषु॑प्थाः।  
-+++(अथ यः पूर्वोत्थायी जघन्यसंवेशी तमाहुर्न स्वपितीति एवंविधो वा स्वापाभावः ।)+++  
-भि॒क्षा॒च॒र्य॑ञ् चराऽऽचार्याधी॒नो भ॑व ।  
+ब्र॒ह्म॒चा॒र्य् अ॑सि।   
+(वटुः - बाढम्।) 
 
+अपो॑ऽशान +++(नानिवेदितम् अन्नम्)+++।  
+(वटुः - बाढम्।) 
+
+कर्म॑ कुरु।  
+(वटुः - बाढम्।) 
+
+मा सुषु॑प्थाः।  
++++(अथ यः पूर्वोत्थायी जघन्यसंवेशी तमाहुर्न स्वपितीति एवंविधो वा स्वापाभावः ।)+++  
+(वटुः - बाढम्।) 
+
+भि॒क्षा॒च॒र्य॑ञ् चर।
+(वटुः - बाढम्।) 
+
+आ॒चा॒र्या॒धी॒नो भ॑व ।  
+(वटुः - बाढम्।) 
 </details>
 </div>
 </details>
@@ -892,7 +906,7 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/11_24_vAsashchaturthImuttarayAdatte-nyatparidhApya.md">
 <details open><summary><h2>११ २४ वासश्चतुर्थीमुत्तरयादत्तेऽन्यत्परिधाप्य  ...{Loading}...</h2></summary>
 
-+++(त्र्यहं मन्त्रवत्-परिहितमेव)+++ वासश् चतुर्थीम्+++(चतुर्थाहोरात्रे अहन्येव)+++ उत्तरया +++("यस्य ते प्रथमवास्य"मित्येतया)+++ ऽऽदत्ते +++(स्वीकरोति)+++  
++++(त्र्यहं मन्त्रवत्-परिहितमेव)+++ वासश् चतुर्थीम्+++(चतुर्थाहोरात्रे अहन्येव)+++ उत्तरया +++("यस्य ते प्रथमवास्य"मित्येतया)+++ ऽऽदत्ते +++(=स्वीकरोति)+++  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/15_yasya_te.md">
 <details open><summary><h4>१५ यस्य ते ...{Loading}...</h4></summary>

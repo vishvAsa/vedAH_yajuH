@@ -1638,12 +1638,9 @@ Stand up and recite the following.
 
 अग्ने॒ नय॑ सु॒पथा॑ रा॒ये अ॒स्मान् विश्वा॑नि देव व॒युना॑नि वि॒द्वान्। यु॒यो॒ध्य॑स्मज्जु॑हुरा॒णमेनो॒ भूयि॑ष्ठां ते॒ नम॑उक्तिं विधेम॥ अग्नये नमः।
 
-मन्त्रहीनं क्रियाहीनं भक्तिहीनं हुताशन।  
-यद्धुतं तु मया देव परिपूर्णं तदस्तु ते॥
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/mantrahInam_hutAshana.md" newLevelForH1="5" includeTitle="false"> </div>
 
-प्रायश्चित्तान्यशेषाणि तपःकर्मात्मकानि वै।  
-यानि तेषामशेषाणां कृष्णानुस्मरणं परम्॥  
-कृष्ण कृष्ण कृष्ण॥
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/prAyashcittAny_asheShANi.md" newLevelForH1="5" includeTitle="false"> </div>
 
 नमस्ते गार्हपत्याय नमस्ते दक्षिणाग्नये।  
 नम आहवनीयाय महावेद्यै नमो नमः॥

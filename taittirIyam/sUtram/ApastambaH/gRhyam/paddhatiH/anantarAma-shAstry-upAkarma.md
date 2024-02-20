@@ -81,12 +81,10 @@ script: grantha
 मयि॑ मे॒धां - मयि॑ प्र॒जां - मयीन्द्रः॑ - इ॒न्द्रि॒यं द॑धातु -  
 मयि॑ मे॒धां - मयि॑ प्र॒जां - मयि॒ सूर्यः॑ - भ्राजो॑ दधातु॥
 
-अग्नये नमः॥  
-मन्त्रहीनं क्रियाहीनं भक्तिहीनं हुताशन।  
-यद्धुतं तु मया देव परिपूर्णं तदस्तु ते॥
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/mantrahInam_hutAshana.md" newLevelForH1="5" includeTitle="false"> </div>
 
-प्रायश्चित्तान्यशेषाणि तपःकर्मात्मकानि वै।  
-यानि तेषामशेषाणां कृष्णानुस्मरणं परम्॥  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/prAyashcittAny_asheShANi.md" newLevelForH1="5" includeTitle="false"> </div>
+
 (इत्युपस्थाय)
 
 अभिवादये + अस्मि भोः॥  
@@ -1139,11 +1137,9 @@ script: grantha
 जु॒हु॒रा॒णं - एनः॑ - भूयि॑ष्ठान्ते - नम॑ उक्तिं -
 वि॒धे॒म॥ अग्नये नमः॥
 
-मन्त्रहीनं क्रियाहीनं भक्तिहीनं हुताशन।  
-यद्धुतं तु मया देव परिपूर्णं तदस्तु ते॥
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/mantrahInam_hutAshana.md" newLevelForH1="5" includeTitle="false"> </div>
 
-प्रायश्चित्तान्यशेषाणि तपःकर्मात्मकानि वै।  
-यानि तेषामशेषाणां कृष्णानुस्मरणं परम्॥
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/prAyashcittAny_asheShANi.md" newLevelForH1="5" includeTitle="false"> </div>
 
 अभिवादये + भोः॥
 (अग्निं नमस्कुर्यात्)

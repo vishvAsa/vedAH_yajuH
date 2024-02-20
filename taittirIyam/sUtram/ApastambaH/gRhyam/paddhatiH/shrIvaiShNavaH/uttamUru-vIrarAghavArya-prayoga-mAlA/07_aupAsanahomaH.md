@@ -46,12 +46,9 @@ title = "०७ औपासनहोमः"
 
 इत्युपस्थाय,
 
-अग्नये नमः, 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/mantrahInam_hutAshana.md" newLevelForH1="5" includeTitle="false"> </div>
 
-> मन्त्रहीनं क्रियाहीनं भक्तिहीनं हुताशन ।  
-यद्धुतं तु मया देव परिपूर्णं तदस्तु ते ॥  
-प्रायश्चित्तान्यशेषाणि तपः कर्मात्मकानि वै ।  
-यानि तेषामशेषाणां कृष्णानुस्मरणं परम् ॥ 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/prAyashcittAny_asheShANi.md" newLevelForH1="5" includeTitle="false"> </div>
 
 इत्युक्त्वा प्रणम्य, अभिवाद्य, आचम्य,
 
@@ -142,12 +139,9 @@ title = "०७ औपासनहोमः"
 > अग्ने॒ नय॑ सु॒पथा॑ रा॒ये अ॒स्मान् विश्वा॑नि देव व॒युना॑नि वि॒द्वान् ।  
 यु॒यो॒ध्य॑स्मज्जु॑हु॒रा॒णमेनो॒ भूयि॑ष्ठां ते॒ नम॑उक्तिं विधेम ॥ [[TODO:परिष्कार्यम्??]]
 
-ओम् अग्नये नमः, 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/mantrahInam_hutAshana.md" newLevelForH1="5" includeTitle="false"> </div>
 
-> मन्त्रहीनं क्रियाहीनं भक्तिहीनं हुताशन ।  
-यद्धुतं तु मया देव परिपूर्णं तदस्तु ते ॥  
-प्रायश्चित्तान्यशेषाणि तपः कर्मात्मकानि वै ।  
-यानि तेषामशेषाणां कृष्णानुस्मरणं परम् ॥ 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/prAyashcittAny_asheShANi.md" newLevelForH1="5" includeTitle="false"> </div>
 
 इति प्रणम्य, अभिवाद्य, आचम्य,
 

@@ -2,22 +2,6 @@
 title = "3 The Supplement to the Soma Sacrifice (continued)"
 
 +++
-## 01
-### a
-O Agni, brilliant, be thou brilliant among the gods; make me brilliant, of long life, radiant among men; for the brilliance of consecration and of penance do I offer to thee.
-### b
-Thou dost win brilliance; may brilliance forsake me not, may I forsake not brilliance, may brilliance forsake me not.
-### c
-O Indra, full of force, be thou full of force among the gods, make me full of force, of long life, radiant among men; for the force of the Brahmanhood and royalty [1] do I offer to thee.
-### d
-Thou dost win force; may force forsake me not, may I forsake not force, may force forsake me not.
-### e
-O sun, blazing, be thou blazing among the gods; make me blazing, of long life, radiant among men; for the blazing of the wind and of the waters do I offer to thee.
-
-### f
-Thou dost win the light; may the light forsake me not, may I not forsake the light, may the light forsake me not.
-### g
-On me wisdom, on me offspring, on me brilliance may Agni bestow; on me wisdom, on me offspring, on me power may Indra bestow; on me wisdom, on me offspring, on me blazing may Surya bestow.
 ## 02
 ### a
 

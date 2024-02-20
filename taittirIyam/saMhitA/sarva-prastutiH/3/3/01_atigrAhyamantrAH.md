@@ -140,8 +140,14 @@ may I forsake not brilliance, may brilliance forsake me not.
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-इदानीं तदहानं द्वेधा प्रार्थयते - माऽहमिति । तेजः तेजोविषया जिहासा मम मा भूत्, तेजसोपि मद्विषया जिहासा मा भूदिति ॥
+इदानीं तद्-अहानं द्वेधा प्रार्थयते - माऽहमिति । तेजः तेजोविषया जिहासा मम मा भूत्, तेजसोपि मद्विषया जिहासा मा भूदिति ॥
 </details>
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+4ऐन्द्रमवेक्षते - इन्द्रेति ॥ 
+</details>
+
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -150,9 +156,15 @@ may I forsake not brilliance, may brilliance forsake me not.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रौ॑जस्विन्नोज॒स्वी त्वन्दे॒वेषु॑ भूयाः ।  
-ओज॑स्वन्त॒म्मामायु॑ष्मन्त॒व्ँवर्च॑स्वन्तम् मनु॒ष्ये॑षु कुरु ।  
+इन्द्रौ॑जस्विन्न् ओज॒स्वी त्वन् दे॒वेषु॑ भूयाः ।  
+ओज॑स्वन्त॒म् माम् आयु॑ष्मन्त॒व्ँ वर्च॑स्वन्तम् मनु॒ष्ये॑षु कुरु ।  
 </details>
+
+<details><summary>Keith</summary>
+
+O Indra, full of force, be thou full of force among the gods, make me full of force, of long life, radiant among men; for 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -162,13 +174,19 @@ may I forsake not brilliance, may brilliance forsake me not.
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-4ऐन्द्रमवेक्षते - इन्द्रेति ॥ ओजो बलम् । गतमन्यत् ॥
+ओजो बलम् । गतमन्यत् ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्रह्म॑णश्च त्वा ख्ष॒त्रस्य॑ चौज॑से जुहोमि ।  
+ब्रह्म॑णश् च त्वा ख्ष॒त्रस्य॑ चौज॑से जुहोमि ।  
 </details>
+
+<details><summary>Keith</summary>
+
+the force of the Brahmanhood and royalty [1] do I offer to thee.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -185,13 +203,25 @@ may I forsake not brilliance, may brilliance forsake me not.
 ओजो॒विद॒स्योजो॑ मा॒ मा हा॑सी॒न्माहमोजो॑ हासिष॒म्मा मामोजो॑ हासी॒त्
 </details>
 
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+6हुत्वा वाचयति - 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ओ॒जो॒विद॑सि ।  
+ओ॒जो॒-विद् अ॑सि ।  
 ओजो॑ मा॒ मा हा॑सीत् ।  
-माहमोजो॑ हासिष॒म् ।  
-मा मामोजो॑ हासीत् ।  
+मा ऽहम् ओजो॑ हासिष॒म् ।  
+मा माम् ओजो॑ हासीत् ।  
 </details>
+
+<details><summary>Keith</summary>
+
+Thou dost win force; may force forsake me not, may I forsake not force, may force forsake me not.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -203,8 +233,14 @@ may I forsake not brilliance, may brilliance forsake me not.
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-6हुत्वा वाचयति - ओजोविदिति ॥ गतम् ॥
+ओजोविदिति ॥ गतम् ॥
 </details>
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+7अथ सौर्यमवेक्षते - सूर्य इति ॥ 
+</details>
+
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -213,9 +249,15 @@ may I forsake not brilliance, may brilliance forsake me not.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सूर्य॑ भ्राजस्विन्भ्राज॒स्वी त्वन्दे॒वेषु॑ भूयाः ।
-भ्राज॑स्वन्त॒म् मामायु॑ष्मन्त॒व्ँवर्च॑स्वन्तम्मनु॒ष्ये॑षु कुरु ।  
+सूर्य॑ भ्राजस्विन्भ् राज॒स्वी त्वन् दे॒वेषु॑ भूयाः ।
+भ्राज॑स्वन्त॒म् माम् आयु॑ष्मन्त॒व्ँ वर्च॑स्वन्तम् मनु॒ष्ये॑षु कुरु ।  
 </details>
+
+<details><summary>Keith</summary>
+
+O sun, blazing, be thou blazing among the gods; make me blazing, of long life, radiant among men; 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -225,12 +267,23 @@ may I forsake not brilliance, may brilliance forsake me not.
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-7अथ सौर्यमवेक्षते - सूर्य इति ॥ भ्राजो दीप्तिः समानमन्यत् ॥
+भ्राजो दीप्तिः समानमन्यत् ॥
 </details>
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+8जुहोति - वायोरिति ॥ 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वा॒योश्च॑ त्वा॒ऽपाञ्च॒ भ्राज॑से जुहोमि ।
+वा॒योश् च॑ त्वा॒ ऽपाञ् च॒ भ्राज॑से जुहोमि ।
+</details>
+
+<details><summary>Keith</summary>
+
+for the blazing of the wind and of the waters do I offer to thee.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -240,8 +293,14 @@ may I forsake not brilliance, may brilliance forsake me not.
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-8जुहोति - वायोरिति ॥ वायुना अद्भिश्च यद्वाजस्संपद्यते तन्मे भूयादिति त्वां जुहोमि ॥
+वायुना अद्भिश्च यद्वाजस्संपद्यते तन्मे भूयादिति त्वां जुहोमि ॥
 </details>
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+9हुत्वा वाचयति - सुवर्विदिति ॥ 
+</details>
+
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -250,11 +309,17 @@ may I forsake not brilliance, may brilliance forsake me not.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सु॒व॒र्विद॑सि ।  
-सुव॑र्मा॒ मा हा॑सीत्  ।  
-माहꣳ सुव॑र्हासिष॒म् ।  
-मा माꣳ सुव॑र्हासीत् ।  
+सु॒व॒र्-विद् अ॑सि ।  
+सुव॑र् मा॒ मा हा॑सीत्  ।  
+माहꣳ सुव॑र् हासिष॒म् ।  
+मा माꣳ सुव॑र् हासीत् ।  
 </details>
+
+<details><summary>Keith</summary>
+
+Thou dost win the light; may the light forsake me not, may I not forsake the light, may the light forsake me not.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -266,35 +331,13 @@ may I forsake not brilliance, may brilliance forsake me not.
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-9हुत्वा वाचयति - सुवर्विदिति ॥ गतम् । सुवः स्वर्गम् ॥
+गतम् । सुवः स्वर्गम् ॥
 </details>
 
-<details><summary>मूलम् (संयुक्तम्)</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
-मयि॑ मे॒धाम्मयि॑ प्र॒जाम्मय्य॒ग्निस्तेजो॑ दधातु॒ मयि॑ मे॒धाम्मयि॑ प्र॒जाम्मयीन्द्र॑ इन्द्रि॒यन्द॑धातु॒ मयि॑ मे॒धाम्मयि॑ प्र॒जाम्मयि॒ सूर्यो॒ भ्राजो॑ दधातु ॥ [2]  
+10-12त्रयाणां क्रमेण भक्षमन्त्राः - मयि मेधामित्याद्याः ॥ 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मयि॑ मे॒धाम्मयि॑ प्र॒जाम्मय्य॒ग्निस्तेजो॑ दधातु ।  
-
-मयि॑ मे॒धाम्मयि॑ प्र॒जाम्मयीन्द्र॑ इन्द्रि॒यन्द॑धातु ।  
-
-मयि॑ मे॒धाम्मयि॑ प्र॒जाम्मयि॒ सूर्यो॒ भ्राजो॑ दधातु  ॥ [2]  
-</details>
-
-<details><summary>मूलम्</summary>
-
-मयि॑ मे॒धाम्मयि॑ प्र॒जाम्मय्य॒ग्निस्तेजो॑ दधातु ।  
-
-मयि॑ मे॒धाम्मयि॑ प्र॒जाम्मयीन्द्र॑ इन्द्रि॒यन्द॑धातु ।  
-
-मयि॑ मे॒धाम्मयि॑ प्र॒जाम्मयि॒ सूर्यो॒ भ्राजो॑ दधातु  ॥ [2]  
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-10-12त्रयाणां क्रमेण भक्षमन्त्राः - मयि मेधामित्याद्याः ॥ मेधा ग्रन्थार्थधारणसामर्थ्यम् । प्रजा पुत्रादिः । इन्द्रियं चक्षुरादिशक्तिः । दधातु स्थापयतु । गतमन्यत् ॥
-
-इति तृतीये तृतीये प्रथमोनुवाकः ॥  
-</details>
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/3/3/01_atigrAhyamantrAH/mayi_medhAm.md" newLevelForH1="5" includeTitle="false"> </div>
