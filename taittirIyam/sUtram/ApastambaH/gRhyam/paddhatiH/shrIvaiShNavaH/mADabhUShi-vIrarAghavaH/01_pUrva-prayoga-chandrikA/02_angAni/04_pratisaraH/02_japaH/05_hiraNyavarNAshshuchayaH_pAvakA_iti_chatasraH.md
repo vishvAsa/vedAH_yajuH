@@ -3,7 +3,7 @@ title = "०५ 'हिरण्यवर्णाश्शुचयः पा�
 
 +++
 
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/5/6/01_kumbheShTakA__01-04_hiraNyavarNAsh_shuchayaH/">
 <details open><summary><h4>०१ हिरण्यवर्णाश् शुचयः ...{Loading}...</h4></summary>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 

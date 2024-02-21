@@ -1,5 +1,5 @@
 +++
-title = "०१ हिरण्यवर्णाश् शुचयः"
+title = "०१ कुम्भेष्टकाः - ०१ हिरण्यवर्णाश् शुचयः"
 
 +++
 
@@ -96,6 +96,10 @@ title = "०१ हिरण्यवर्णाश् शुचयः"
 </details>
 </details>
 </div>
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/5/6/01_kumbheShTakA__05-13_yad_adas"  newLevelForH1="5" includeTitle="false"> </div>  
+
+
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/16_shivena_mA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
