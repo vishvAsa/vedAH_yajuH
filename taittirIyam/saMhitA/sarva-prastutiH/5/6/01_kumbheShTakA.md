@@ -130,9 +130,9 @@ title = "०१ कुम्भेष्टकाः"
 </details>
 </div>
 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/5/6/01_kumbheShTakA__05-13_yad_adas/"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvaSh_TIkAH/10/009/03_tasmA_araM.md"></div>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 14बार्हस्पत्ये उपदधाति - दिवि श्रयस्वेति यजुषा ॥ 

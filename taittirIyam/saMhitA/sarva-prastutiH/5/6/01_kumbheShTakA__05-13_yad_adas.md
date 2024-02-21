@@ -209,3 +209,5 @@ title = "०१ कुम्भेष्टकाः - ०५-१३ यद् �
 
 </details>
 </div>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvaSh_TIkAH/10/009/03_tasmA_araM.md"></div>
