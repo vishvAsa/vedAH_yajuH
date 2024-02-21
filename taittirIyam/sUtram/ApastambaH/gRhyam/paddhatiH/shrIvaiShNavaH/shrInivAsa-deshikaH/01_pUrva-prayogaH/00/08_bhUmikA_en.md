@@ -213,10 +213,20 @@ are given leave ie, sent Water in the kumbha is sprinkled in प्रदक्�
 
 ## Conclusion
 
-These days where sanskrit is not studied by many as it is not career building. In this world of competition and spiralling prices our boys are fully engaged in their respective occupations. Accordingly, many of us have no time, let alone interest in learning about vedas and rituals connected with our religious tradition. We cannot also blame our vadyars for having become more commercial and costly. It is a million dollar question how many youngsters will come forward with interest in taking this priest's profession (of vedic vadyar) as career. In these circumstances Shri ubhave Ganapati Swamigal's purva and apara prayoga books with vedic quotations, sutras and a Tamil writeup is a great boon to our society for the pamaras and priests alike. It is like a gentle rain dropping from heaven. It blesses the priests, the learners and those who desire to know. We are all bound to be immensely grateful to the learned author. The books are in fact (i) a mobile encyclopaedia, (ii) good reference books and (iii) valuable text books for learners. I wish that everyone should make good use of these volumes and become knowledgeable in the samskaras which are vital and which we are required to perform according to our tradition.
+These days where sanskrit is not studied by many as it is not career building. In this world of competition and spiralling prices our boys are fully engaged in their respective occupations. Accordingly, many of us have no time, let alone interest in learning about vedas and rituals connected with our religious tradition. 
 
-सर्वे जनाः सुखिनो भवन्तु । समस्तसन् मङ्गलानि सन्तु । श्री कृष्णार्पणमस्तु।
+We cannot also blame our vadyars for having become more commercial and costly. It is a million dollar question how many youngsters will come forward with interest in taking this priest's profession (of vedic vadyar) as career. In these circumstances Shri ubhave Ganapati Swamigal's purva and apara prayoga books with vedic quotations, sutras and a Tamil writeup is a great boon to our society for the pamaras and priests alike. 
 
-VR Srinivassa Dikshitar East Valuthoor Valuthoor Post Thanjavur District 26.12.1996
+It is like a gentle rain dropping from heaven. It blesses the priests, the learners and those who desire to know. We are all bound to be immensely grateful to the learned author.  
+The books are in fact (i) a mobile encyclopaedia, (ii) good reference books and (iii) valuable text books for learners. I wish that everyone should make good use of these volumes and become knowledgeable in the samskaras which are vital and which we are required to perform according to our tradition.
+
+सर्वे जनाः सुखिनो भवन्तु ।  
+समस्तसन् मङ्गलानि सन्तु ।  
+श्री कृष्णार्पणमस्तु।
+
+VR Srinivassa Dikshitar  
+East Valuthoor  
+Valuthoor Post  
+Thanjavur District 26.12.1996
 
 V R Srinivasan
