@@ -392,7 +392,7 @@ title = "०८ उपाकर्मोत्सर्जनप्रकरण�
 </div>
 <div class="js_include bg-light-yellow" includetitle="true" newlevelforh1="5" unfilled="" url="/devaH/AryaH/hindukaH/jalam/Rk/hiraNyavarNAsh_shuchayaH/">
 <details open><summary><h8>हिरण्यवर्णाश् शुचयः ...{Loading}...</h8></summary>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/5/6/01_kumbheShTakA__01-04_hiraNyavarNAsh_shuchayaH/">
 <details open><summary><h13>०१ हिरण्यवर्णाश् शुचयः ...{Loading}...</h13></summary>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 

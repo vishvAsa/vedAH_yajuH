@@ -1,8 +1,16 @@
 +++
-title = "०१ हिरण्यवर्णाश् शुचयः"
+title = "०१ कुम्भेष्टकाः"
 
 +++
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+कुम्भेष्टकोपधानमन्त्राः
+</details>
+
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/5/6/01_kumbheShTakA__01-04_hiraNyavarNAsh_shuchayaH">
+<details open><summary><h5>०१ हिरण्यवर्णाश् शुचयः ...{Loading}...</h5></summary>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1अतः परमग्निकाण्डमेवाग्न्यार्षेयम् ॥ तत्र कुम्भेष्टकोपधानमन्त्राः - हिरण्यवर्णा इत्याद्याः ॥
@@ -11,8 +19,8 @@ title = "०१ हिरण्यवर्णाश् शुचयः"
 
 हिर॑ण्यवर्णा॒श्शुच॑यᳶ पाव॒का यासु॑ जा॒तᳵ क॒श्यपो॒ यास्विन्द्रः॑ । अ॒ग्निय्ँया गर्भ॑न्दधि॒रे विरू॑पा॒स्ता न॒ आप॒श्शꣳ स्यो॒ना भ॑वन्तु ।
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/03_hiraNyavarNAsh_shuchayapH.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/03_hiraNyavarNAsh_shuchayapH.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
 हिर॑ण्यवर्णा॒श् शुच॑यᳶ पाव॒का,  
 यासु॑ जा॒तᳵ क॒श्यपो॒, यास्विन्द्रः॑ ।  
@@ -20,8 +28,8 @@ title = "०१ हिरण्यवर्णाश् शुचयः"
 ता न॒ आप॒श्शꣳ स्यो॒ना भ॑वन्तु ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/5/6/01_hiraNyavarNAsh_shuchayaH/03_hiraNyavarNAsh_shuchayapH.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/5/6/01_hiraNyavarNAsh_shuchayaH/03_hiraNyavarNAsh_shuchayapH.md">
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
 <details><summary>मूलम्</summary>
 
 हिर॑ण्यवर्णा॒श् शुच॑यᳶ पाव॒का, यासु॑ जा॒तᳵ क॒श्यपो॒, यास्विन्द्रः॑ ।
@@ -42,8 +50,8 @@ title = "०१ हिरण्यवर्णाश् शुचयः"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/08_yAsAM_rAjA.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/08_yAsAM_rAjA.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
 यासा॒ꣳ॒ राजा॒ वरु॑णो॒ याति॒ मध्ये॑,  
 सत्यानृ॒ते अ॑व॒पश्य॒ञ् जना॑नाम् ।
@@ -51,8 +59,8 @@ title = "०१ हिरण्यवर्णाश् शुचयः"
 ता न॒ आप॒श् शꣳ स्यो॒ना भ॑वन्तु ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/5/6/01_hiraNyavarNAsh_shuchayaH/08_yAsAM_rAjA.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/5/6/01_hiraNyavarNAsh_shuchayaH/08_yAsAM_rAjA.md">
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
 <details><summary>मूलम्</summary>
 
 यासा॒ꣳ॒ राजा॒ वरु॑णो॒ याति॒ मध्ये॑, सत्यानृ॒ते अ॑व॒पश्य॒ञ् जना॑नाम् ।
@@ -70,8 +78,8 @@ title = "०१ हिरण्यवर्णाश् शुचयः"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/12_yAsAn_devA.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/12_yAsAn_devA.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
 यासा᳚न् दे॒वा दि॒वि कृ॒ण्वन्ति॑ भ॒ख्षय्ँ -  
 या अ॒न्तरि॑ख्षे बहु॒धा भव॑न्ति ।
@@ -79,8 +87,8 @@ title = "०१ हिरण्यवर्णाश् शुचयः"
 ता न॒ आप॒श् शꣳ स्यो॒ना भ॑वन्तु ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/5/6/01_hiraNyavarNAsh_shuchayaH/12_yAsAn_devA.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/5/6/01_hiraNyavarNAsh_shuchayaH/12_yAsAn_devA.md">
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
 <details><summary>मूलम्</summary>
 
 यासा᳚न् दे॒वा दि॒वि कृ॒ण्वन्ति॑ भ॒ख्षय्ँ - या अ॒न्तरि॑ख्षे बहु॒धा भव॑न्ति ।  
@@ -96,8 +104,8 @@ title = "०१ हिरण्यवर्णाश् शुचयः"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/16_shivena_mA.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/16_shivena_mA.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
 शि॒वेन॑ मा॒ चख्षु॑षा पश्यतापश् -  
 शि॒वया॑ त॒नुवोप॑ स्पृशत॒ त्वच॑म् मे ।
@@ -105,8 +113,8 @@ title = "०१ हिरण्यवर्णाश् शुचयः"
 मयि॒ वर्चो॒ बल॒म् ओजो॒ नि ध॑त्त ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/5/6/01_hiraNyavarNAsh_shuchayaH/16_shivena_mA.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/5/6/01_hiraNyavarNAsh_shuchayaH/16_shivena_mA.md">
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
 <details><summary>मूलम्</summary>
 
 शि॒वेन॑ मा॒ चख्षु॑षा पश्यतापश् - शि॒वया॑ त॒नुवोप॑ स्पृशत॒ त्वच॑म् मे ।
@@ -119,3 +127,34 @@ title = "०१ हिरण्यवर्णाश् शुचयः"
 </details>
 </details>
 </div>
+</details>
+</div>
+
+
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvaSh_TIkAH/10/009/03_tasmA_araM.md"></div>
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+14बार्हस्पत्ये उपदधाति - दिवि श्रयस्वेति यजुषा ॥ 
+</details>
+<details><summary>मूलम् (संयुक्तम्)</summary>
+
+दि॒वि श्र॑यस्वा॒न्तरि॑ख्षे यतस्व पृथि॒व्या सम्भ॑व ब्रह्मवर्च॒सम॑सि ब्रह्मवर्च॒साय॑ त्वा ॥ [4]  
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
+
+दि॒वि **श्र॑यस्व** + अ॒न्तरि॑ख्षे **यतस्व** ,  
+पृथि॒व्या **सम्भ॑व** ,  
+ब्रह्म-वर्च॒सम् **अ॑सि** , ब्रह्मवर्च॒साय॑ त्वा …॥ [4]  
+</details>
+<details><summary>मूलम्</summary>
+
+दि॒वि श्र॑यस्व + अ॒न्तरि॑ख्षे यतस्व , पृथि॒व्या सम्भ॑व ,  
+ब्रह्मवर्च॒सम॑सि , ब्रह्मवर्च॒साय॑ त्वा ॥ [4]  
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+दिवि द्युलोके श्रयस्व धारकत्वेनास्व । अन्तरिक्षे च यतस्व धारकत्वेन व्याप्रियस्व । पृथिव्या च सह सम्भव एकीभव । एवं त्रीनपि लोकान्धारय ब्रह्मवर्चसमेव त्वमसि । तद्धेतुत्वात्ताच्छव्द्यम् । त्वा त्वां ब्रह्मवर्चसाय उपदधामीति शेषः ॥
+
+इति पञ्चमे षष्ठे प्रथमोनुवाकः ॥  
+</details>
