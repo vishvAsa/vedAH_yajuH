@@ -329,7 +329,7 @@ title = "१० ब्रह्मकूर्चपञ्चगव्यवि�
 
 [[55]]
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/vyAhRti-homAH_4"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/baudhAyanaH/gRhyam/mantraH/yajuH/sarva-prastutiH/vyAhRti-homAH_4.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 > ओं विष्ण॑वे॒ स्वाहा᳚ ॥ [[TODO:परिष्कार्यम्??]] 
 (विष्णवे परमात्मन इदं न मम)

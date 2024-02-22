@@ -24,7 +24,7 @@ title = "०९ प्रायश्चित्तम्"
 
 व्यस्ताभिः, समस्ताभिर् व्याहृतिभिः
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/vyAhRti-homAH_4"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/baudhAyanaH/gRhyam/mantraH/yajuH/sarva-prastutiH/vyAhRti-homAH_4.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/05_pAhi_no_agne/"  newLevelForH1="5" includeTitle="false"> </div>  
@@ -36,7 +36,7 @@ title = "०९ प्रायश्चित्तम्"
 इति पाहिपञ्चकेन,  
 पुनर् व्यस्ताभिः समस्ताभिः व्याहृतिभिः
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/vyAhRti-homAH_4"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/baudhAyanaH/gRhyam/mantraH/yajuH/sarva-prastutiH/vyAhRti-homAH_4.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 
@@ -111,7 +111,9 @@ title = "०९ प्रायश्चित्तम्"
 
 सर्व-प्रायश्-चित्तं जुहुयात् ।
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/bhUr_bhuvas_suvas_svAhA.md"  newLevelForH1="5" includeTitle="false"> </div>  
+("सर्वप्रायश्चित्तं जुहोमी"ति सङ्कल्प्य)
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/baudhAyanaH/gRhyam/mantraH/yajuH/sarva-prastutiH/bhUr_bhuvas_suvas_svAhA.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 ## प्रयत्नम् अन्तरेण अग्नौ प्रज्वलिते

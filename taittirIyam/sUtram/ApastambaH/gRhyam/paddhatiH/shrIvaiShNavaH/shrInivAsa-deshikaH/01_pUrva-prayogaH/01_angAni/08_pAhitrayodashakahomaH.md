@@ -54,7 +54,7 @@ title = "०८ पाहित्रयोदशकहोमः"
 अग्नि-प्रतिष्ठादि--दर्वी-संस्कारान्तं कृत्वा  
 "अदितेऽनुमन्यस्वे"ति परिषिच्य ।
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/vyAhRti-homAH_4"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/baudhAyanaH/gRhyam/mantraH/yajuH/sarva-prastutiH/vyAhRti-homAH_4.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/05_pAhi_no_agne/"  newLevelForH1="5" includeTitle="false"> </div>  
@@ -65,7 +65,7 @@ title = "०८ पाहित्रयोदशकहोमः"
 (अग्नये इदन्न मम)  
 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/vyAhRti-homAH_4"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/baudhAyanaH/gRhyam/mantraH/yajuH/sarva-prastutiH/vyAhRti-homAH_4.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 _______________________
 

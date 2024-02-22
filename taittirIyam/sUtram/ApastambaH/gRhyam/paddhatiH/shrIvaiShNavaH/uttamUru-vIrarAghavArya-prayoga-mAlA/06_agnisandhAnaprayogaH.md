@@ -272,9 +272,14 @@ title = "०६ अग्नि-सन्धान-प्रयोगः"
 ## आहुतयः
 प्रधानदर्व्या चतुर्गृहीतेन आज्येन,
 
-“ओं भूर्भुव॒स्सुव॒स्स्वाहा᳚” इति हुत्वा, (प्रजापतय इदं न मम)
+### व्याहृतयः
 
-### अनाज्ञातादि-प्रायश्चित्तम्
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/baudhAyanaH/gRhyam/mantraH/yajuH/sarva-prastutiH/bhUr_bhuvas_suvas_svAhA.md" newLevelForH1="5" includeTitle="false"> </div>
+
+
+इति हुत्वा, (प्रजापतय इदं न मम)
+
+#### अनाज्ञातादि-प्रायश्चित्तम्
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/7/11/35_anAjnAtay.NyadAjnAtam_yajnasya.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
@@ -307,7 +312,7 @@ title = "०६ अग्नि-सन्धान-प्रयोगः"
 
 प्राणान् आयम्य, 
 
-### प्रधानाहुतिः
+### अयाश्चेत्यादि
 > श्रीभगवदाज्ञया भगवत्प्रीत्यर्थम् अग्न्य्-अनुगति [^1] (उपवासाकरण) प्रायश्चितार्थम्  
 > ‘अयाश्च’ होमं करिष्ये 
 
@@ -379,17 +384,23 @@ title = "०६ अग्नि-सन्धान-प्रयोगः"
 
 </div>  
 
-
+### सर्व-प्रायश्-चित्तम्
 प्राणान् आयम्य, 
 
-> श्रीभगवदाज्ञया भगवत्प्रीत्यर्थम् अग्निसन्धानहोमकर्मणि मध्ये सम्भावितमन्त्रतन्त्रदेवताविपर्यासन्यूनातिरेक(रिक्त)स्वराक्षरपदभ्रेषप्रायश्चित्तार्थं सर्वप्रायश्चित्ताहुतीर्होष्यामि; प्राणायामञ्च करिष्ये 
+> श्री-भगवद्-आज्ञया भगवत्-प्रीत्य्-अर्थम्  
+अग्नि-सन्धान-होम-कर्मणि  
+मध्ये सम्भावित-मन्त्र-तन्त्र-देवता-विपर्यास-न्यूनातिरेक(रिक्त)--स्वराक्षर-पद-भ्रेष--प्रायश्-चित्तार्थं  
+सर्वप्रायश्चित्ताहुतीर् होष्यामि;  
+प्राणायामञ्च करिष्ये 
 
 इति सङ्कल्प्य, 
 
 [[13]]
 
-> ओं भूर्भुव॒स्सुव॒स्स्वाहा᳚ ॥ (प्रजापतय इदं न मम)
 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/baudhAyanaH/gRhyam/mantraH/yajuH/sarva-prastutiH/bhUr_bhuvas_suvas_svAhA.md" newLevelForH1="5" includeTitle="false"> </div>
+
+#### अनाज्ञातादि-प्रायश्चित्तम्
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/7/11/35_anAjnAtay.NyadAjnAtam_yajnasya.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
@@ -419,26 +430,40 @@ title = "०६ अग्नि-सन्धान-प्रयोगः"
 </div>
 
 
->
-> ओं सत्वन्नो॑ अग्नेऽव॒मो भ॑वो॒ती नेदि॑ष्ठो अ॒स्या उ॒षसो॒ व्यु॑ष्टौ ।  
-अव॑ यक्ष्वनो॒ वरु॑णँ॒ ररा॑णो वी॒हि मृ॑डी॒कँ सु॒हवो॑ न एधि॒ स्वाहा᳚ ॥ (अग्नीवरुणाभ्याम् इदं न मम) ॥६॥
->
-> ओं भूस्स्वाहा᳚ ॥ (अग्नय॒ इदं न मम) ॥७॥
->
-> ओं भुव॒स्स्वाहा᳚ ॥ (वायव इदं न मम) ॥८॥
->
-> ओं सु॒व॒स्स्वाहा᳚ ॥ (सूर्याय इदं न मम) ॥९॥
->
-> ओं भूर्भुव॒स्सु॒व॒स्स्वाहा᳚ ॥ (प्रजापतय इदं न मम) ॥१०॥
->
-> [[14]]
->
-> ओं विष्ण॑वे॒ स्वाहा᳚ ॥ (श्रीविष्णवे परमात्मन इदं न मम) 
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/001/05_sa_tvaM.md">
+<details open><summary><h2>०५ स त्वं ...{Loading}...</h2></summary>
+
+स त्वन् नो॑ अग्ने ऽव॒मो+++(=मूलभूतो)+++ भ॑व॒+ऊ॒ती+++(त्या)+++  
++++(“अग्निरवमो देवतानां विष्णुः परमः” इति ब्राह्मणम्)+++  
+नेदि॑ष्ठो+++(=अन्तिकतमो)+++ अ॒स्या उ॒षसो॒ व्यु॑ष्टौ+++(=व्युष्टायाम्)+++ ।  
+अव॑ यक्ष्व नो॒ वरु॑णँ ररा॑णो  
+वी॒हि+++(=खाद)+++ मृ॑डी॒कँ+++(=सुखयितारं [हविः])+++ सु॒हवो॑ न एधि ।
+
+</details>
+</div>
+
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/baudhAyanaH/gRhyam/mantraH/yajuH/sarva-prastutiH/vyAhRti-homAH_4.md" newLevelForH1="5" includeTitle="false"> </div>
+
+
+[[14]]
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/shrI-viShNave_svAhA.md" newLevelForH1="5" includeTitle="false"> </div>
 
 इति हुत्वा, प्राणायामञ्च कुर्यात् ।
 
-> ओम् अदि॒तेऽन्व॑मँस्थाः । ओम् अनु॑म॒तेन्व॑मँस्थाः ।  
-ओं सर॑स्व॒तेन्व॑मँस्थाः । ओं देव॑ सवितः॒ प्रासा॑वीः ॥ 
+## समाप्तिः
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/12_adite-nvama.NsthAH_anumate-nvama.NsthAH.md" newLevelForH1="5" includeTitle="false"> 
+
+अदि॒तेऽन्व॑मँस्थाः।
+
+अनु॑म॒तेऽन्व॑मँस्थाः।
+
+सर॑स्व॒ते ऽन्व॑मँस्थाः।
+
+देव॑ सवितः॒ प्रासा॑वीः।
+
+</div>
 
 इति पूर्ववत् परिषिच्य, 
 
@@ -450,6 +475,7 @@ title = "०६ अग्नि-सन्धान-प्रयोगः"
 
 इति कृतं कर्म भगवति समर्पयेत् ।
 
+## औपासनाकरण-प्रायश्चित्तम् - हिरण्येन
 पुनः प्राणान् आयम्य 
 
 > श्रीभगवदाज्ञया भगवत्प्रीत्यर्थम् अनेककालसायम्प्रातराहुतीनाम् अकरणप्रायश्चित्तार्थं प्राजापत्यकृच्छ्रप्रतिनिधि यत्किञ्चिद्धिरण्यदानं करिष्ये 
