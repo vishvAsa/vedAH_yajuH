@@ -201,24 +201,24 @@ title = "०८ समिदाधानम्"
 
 </details>
 </div>
-</details>
-</div>
 
 [[88]]
 
 इति प्रतिमन्त्रं समिधः आदध्यात् ।
 
 ## परिषेचनम्
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/uttara-pariShechanam/01_adite.md" newLevelForH1="5" includeTitle="false"> </div>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/uttara-pariShechanam/02_anumate.md" newLevelForH1="5" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/12_adite-nvama.NsthAH_anumate-nvama.NsthAH.md" newLevelForH1="5" includeTitle="false"> 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/uttara-pariShechanam/03_saras-vate.md" newLevelForH1="5" includeTitle="false"> </div>
+अदि॒तेऽन्व॑मँस्थाः।
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/uttara-pariShechanam/04_deva_savitaH" newLevelForH1="5" includeTitle="false"> </div>
+अनु॑म॒तेऽन्व॑मँस्थाः।
 
+सर॑स्व॒ते ऽन्व॑मँस्थाः।
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/shrI-viShNave_svAhA.md" newLevelForH1="5" includeTitle="false"> </div>
+देव॑ सवितः॒ प्रासा॑वीः।
+
+</div>
 
 
 ## उपस्थानम्
