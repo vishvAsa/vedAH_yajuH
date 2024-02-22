@@ -23,7 +23,56 @@ title = "०६ अग्नि-सन्धान-प्रयोगः"
 
 दर्भेष्व् आसीनः  
 पवित्रेण सह दर्भान् धारयमाणः,  
-त्रिः प्राणान् आयम्य, ‘श्रीमान् ... सदा हृदि । ‘गुरुभ्यः... जगतां पती ।' 'स्वशेष... प्रक्रमते स्वयम् । शुक्लाम्बर ... विष्वक्सेनं तमाश्रये' इति साञ्जलिबन्धमुक्त्वा दक्षिणोरूपरि सङ्कल्पार्थे हस्ततले संमेल्य, हरिरोन्तत् (सत्) श्रीगोविन्द इत्यादि, अस्यां .. शुभतिथौ श्रीभगवदाज्ञया भगवत्प्रीत्यर्थं विच्छिन्नौपासनाग्निसन्धानं करिष्ये इति, सङ्कल्प्य, पत्न्यर्थं पुनः प्राणान् आयम्य, 
+त्रिः प्राणान् आयम्य, 
+
+
+<div class="js_include" url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/vyakti-shlokAdi/venkaTanAthaH/shrImAn_venkaTanAthAryaH.md" newLevelForH1="5" includeTitle="false"> </div>
+
+<div class="js_include" url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/vyakti-shlokAdi/gurubhyas_tad-gurubhyaH.md"  newLevelForH1="5" includeTitle="false"> 
+
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
+
+गुरुभ्यस् तद्-गुरुभ्यश् च  
+नमो-वाकम् अधीमहे+++(→वीप्सायाम्)+++ ।  
+वृणीमहे च तत्राद्यौ  
+दं-पती जगतां पती+++(→शेषिणौ)+++ ॥ १ ॥
+</details>
+
+<details><summary>मूलम् (सं॰प॰)</summary>
+
+गुरुभ्यस्तद्गुरुभ्यश्च नमोवाकमधीमहे ।  
+वृणीमहे च तत्राद्यौ दंपती जगतां पती ॥ १ ॥
+</details>
+
+<details><summary>English</summary>
+
+(With due devotion) we repeat the expression of adoration to our gurus and likewise to their gurus; and among these (latter), we pray for the grace of the  Primaeval Couple (Nārāyaṇa  and Lakṣmī ), the twin śeṣīs[^1] of all the worlds (so that they may be both the end to be attained by us and the means of attaining it).
+
+[^1]: A śeṣa is one who exists solely for the purposes of another. That other is śeṣī .
+</details>
+</div>  
+
+
+<div class="js_include" url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/prakIrNa-mantrAdi/padyam/svasheSha-bhUtena.md"  newLevelForH1="5" includeTitle="false"> 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्वशेषभूतेन मया  
+स्वीयैस् सर्व-परिच्छेदैः ।  
+**विधातुं** प्रीतमात्मानं  
+देवः **प्रक्रमते** स्वयम् ॥ (१२)
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्वशेषभूतेन मया स्वीयैस्सर्वपरिच्छेदैः ।  
+विधातुं प्रीतमात्मानं देवः प्रक्रमते स्वयम् ॥ (१२)
+</details>
+</div>  
+
+
+
+शुक्लाम्बर ... विष्वक्सेनं तमाश्रये' इति साञ्जलिबन्धमुक्त्वा दक्षिणोरूपरि सङ्कल्पार्थे हस्ततले संमेल्य, हरिरोन्तत् (सत्) श्रीगोविन्द इत्यादि, अस्यां .. शुभतिथौ श्रीभगवदाज्ञया भगवत्प्रीत्यर्थं विच्छिन्नौपासनाग्निसन्धानं करिष्ये इति, सङ्कल्प्य, पत्न्यर्थं पुनः प्राणान् आयम्य, 
 
 > आवयोः औपासनाग्निमाधास्ये विच्छिन्नसन्धानार्थम् 
 
