@@ -26,7 +26,7 @@ title = "१४ शेषहोमः"
 
 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 उद्वाहे शेषहोमं कर्तुं योग्यतासिद्धिमनुगृहाण । विष्वक्सेनं सम्पूज्य । प्राणानायम्य सङ्कल्प्य, उद्वाहे शेषहोमं करिष्ये । तत्प्रसादं स्वीकृत्य ।
 

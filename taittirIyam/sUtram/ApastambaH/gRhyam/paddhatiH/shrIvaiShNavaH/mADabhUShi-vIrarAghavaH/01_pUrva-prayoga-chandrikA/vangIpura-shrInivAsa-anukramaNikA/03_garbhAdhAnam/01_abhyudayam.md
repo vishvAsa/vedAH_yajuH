@@ -5,7 +5,7 @@ title = "०१ अभ्युदयम्"
 
 परेद्युः प्रातःकालिकनित्यकर्माणि औपासनान्तं कृत्वा, पत्न्या सह प्राणानायम्य, गर्भाधानकर्माङ्गमभ्युदयश्राद्धं करिष्य इति सङ्कल्प्य, अन्नेन आमेन हिरण्येन वा कुर्यात् । हिरण्यपक्षे - 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/hiraNya-garbha-garbhasthaM_sapradade/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/hiraNya-garbha-garbhasthaM_sampradade/"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 इत्युक्त्वा, वसुसत्याख्यविश्वेभ्यो देवेभ्यः नान्दीमुखाभ्यः मातृपितामहीप्रपितामहीभ्यः, नान्दीमुखेभ्यः पितृपितामहप्रपितामहेभ्यः, नान्दीमुखेभ्यः मातामहमातुःपितामहमातुःप्रपितामहेभ्यः, नान्दीश्राद्धसंरक्षकश्रीमहाविष्णवे च इदं हिरण्यम् इति हिरण्यं निधाय । 

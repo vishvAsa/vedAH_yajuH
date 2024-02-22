@@ -12,7 +12,7 @@ title = "०६ ब्रह्मोपदेशः"
 
 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 > .... नक्षत्रे .... राशौ जातस्य .... गोत्रस्य शर्मणः  
 > अस्य मम कुमारस्य सावित्री-स्वीकरणे  

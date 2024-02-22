@@ -11,7 +11,7 @@ title = "०१ स्त्रीणां जातकादिप्रयो
 
 
 >
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 > 
 > … नक्षत्रे … राशौ जाताम् इमां मम कुमारीं जातकर्म नामकरण, उपनिष्क्रामण, अन्नप्राशन, चूडाकर्मभिः - संस्कर्तुं योग्यतासिद्धिमनुगृहाण । 
@@ -21,7 +21,7 @@ title = "०१ स्त्रीणां जातकादिप्रयो
 > अस्या मम कुमार्याः जातकर्म नामकरण, उपनिष्क्रामण, अन्नप्राशनचूडाकर्मणां स्व-स्वमुख्यकालेषु अकरणेन यो दोषः समजनि तद्दोषपरिहारार्थं प्राजापत्यकृच्छ्रप्रत्याम्नायं यत्किञ्चिद्धिरण्यदानं करिष्ये ।  
 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/hiraNya-garbha-garbhasthaM_sapradade/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/hiraNya-garbha-garbhasthaM_sampradade/"  newLevelForH1="5" includeTitle="false"> </div>  
 
   
 प्राणानायम्य

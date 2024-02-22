@@ -55,7 +55,7 @@ title = "०६ नान्दीश्राद्धम्"
 (१०) एवमन्यस्यापि । एवं दशब्राह्मणान्वृत्वा यथास्थानमुपविश्य हिरण्यं निधाय्ये 
 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/hiraNya-garbha-garbhasthaM_sapradade/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/hiraNya-garbha-garbhasthaM_sampradade/"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 अमुककर्माङ्गभूते अस्मिन्नभ्युदये सत्यवसुसंज्ञिकेभ्यो विश्वेभ्यो देवेभ्यः, सत्यवसुसंज्ञिकेभ्यो विश्वेभ्यो देवेभ्यः, नान्दीमुखाभ्यः प्रपितामहीपितामहीमातृभ्यः, नान्दीमुखाभ्यः प्रपितामहीपितामहीमातृभ्यः नान्दीमुखेभ्यः प्रपितामहपितामहपितृभ्यः, नान्दीमुखेभ्यः प्रपितामहपितामहपितृभ्यः नान्दीमुखेभ्यः सपत्नीकमातृप्रपितामहमातृपितामहमातामहेभ्यः, नान्दीमुखेभ्यः

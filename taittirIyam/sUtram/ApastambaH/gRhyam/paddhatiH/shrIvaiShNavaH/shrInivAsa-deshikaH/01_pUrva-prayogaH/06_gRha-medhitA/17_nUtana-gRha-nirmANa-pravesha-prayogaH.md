@@ -11,7 +11,7 @@ title = "१७ नूतन-गृह-निर्माण-प्रवेश-
 
 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 > … नक्षत्रे … राशौ जातस्य गोत्रस्य शर्मणः मम … नक्षत्रे … राशौ जातायाः गोत्रायाः नाम्न्याः अस्या मम धर्मपत्न्याः, (अपि च सन्ततिश्चेत् तेषां पुत्रपौत्राणां नक्षत्रराशिनामानि चोक्त्वा आवयोः, अस्माकं वा, क्षेमस्थैर्यवीर्यविजयायुरारोग्य, ऐश्वर्याणां अभिवृद्ध्यर्थं नूतनगृहनिर्माणं कर्तुं योग्यतासिद्धिमनुगृहाण । 
 

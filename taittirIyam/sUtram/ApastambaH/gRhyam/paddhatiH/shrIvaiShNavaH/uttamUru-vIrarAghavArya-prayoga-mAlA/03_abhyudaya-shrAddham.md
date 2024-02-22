@@ -44,10 +44,15 @@ title = "०३ अभ्युदय-श्राद्धम्"
 
 इयञ् च वृद्धिः ।
 
-> इडा॑ देव॒हूर्मनु॑र्यज्ञ॒नीर्बृह॒स्पति॑रुक्थाम॒दानि॑ शँसिषदविश्वे॑दे॒वाः सू᳚क्त॒वाचः॒ पृथि॑वि मात॒र्मा मा॑ हिँसी॒र्मधु॑ मनिष्ये॒ मधु॑ जनिष्ये॒ मधु॑ वक्ष्यामि॒ मधु॑ वदिष्यामि॒ मधु॑मतीं दे॒वेभ्यो॒ वाच॑मु॒द्यासँ शुश्रू॒षेण्यां᳚ मनु॒ष्ये᳚भ्य॒स्तं मा॑ दे॒वा अ॑वन्तु शो॒भायै॑ पि॒तरोऽनु॑मदन्तु ॥  
-इड॒ एहि॑, अदि॑त॒ एहि॑, सर॑स्व॒त्येहि॑, [[TODO:परिष्कार्यम्??]]
 
-शोभनं, शोभनं, शोभनम् इति साक्षतं जलं  
+<div class="js_include" url="/vedAH_yajuH//saMhitA/yajuH/sarva-prastutiH/3/3/02_stotropAkaraNam_pratigarAngamantrAshcha/iDA_devahUH.md" newLevelForH1="5" includeTitle="false"> </div>
+
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/03_bhaxyAnumantraNAdi/iDa_ehi.md" newLevelForH1="5" includeTitle="false"> </div>
+
+> शोभनं, शोभनं, शोभनम्  
+
+इति साक्षतं जलं  
 हिरण्योपरि निनीय 
 
 > इदं हिरण्यं नानागोत्रेभ्यः श्रीवैष्णवेभ्यस्तेभ्यः तेभ्यः सम्प्रददे न मम 

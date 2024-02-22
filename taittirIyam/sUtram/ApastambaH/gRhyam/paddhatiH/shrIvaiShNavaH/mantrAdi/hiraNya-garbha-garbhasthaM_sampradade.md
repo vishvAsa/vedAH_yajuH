@@ -1,5 +1,5 @@
 +++
-title = "Hira Nya garbha garbhastha M sapradade"
+title = "Hira Nya garbha garbhastha M sampradade"
 +++
 
 <div class="js_include" url="/devaH/AryaH/hindukaH/misc-devas/padyam/hiraNya-garbha-garbhastham/"  newLevelForH1="5" includeTitle="false"> 

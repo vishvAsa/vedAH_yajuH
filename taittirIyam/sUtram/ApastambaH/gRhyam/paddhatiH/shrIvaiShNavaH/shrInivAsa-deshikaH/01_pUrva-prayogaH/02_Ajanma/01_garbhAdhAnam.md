@@ -7,7 +7,7 @@ title = "०१ गर्भाधानम्"
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/namas_sadase_sabhAM_gopAya/"  newLevelForH1="5" includeTitle="false"> </div>  
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>   
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya.md"  newLevelForH1="5" includeTitle="false"> </div>   
 
 > … नक्षत्रे … राशौ जातायाः गोत्रायाः नाम्न्याः, अस्या मम धर्मपत्न्याः प्रथमरजसः प्रादुर्भावकाले लग्नयोगकरणैः यो दोषः समजनि तद्दोषपरिहारार्थम् ऋतुशान्तिजप(होम)आख्यं कर्म कर्तुम् .... अनुगृहाण ।
 
