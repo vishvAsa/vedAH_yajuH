@@ -469,20 +469,47 @@ title = "०६ अग्नि-सन्धान-प्रयोगः"
 
 > भगवानेव... विच्छिन्नौपासनाग्निसन्धानाख्यं कर्म... कारितवान् 
 
-इति सात्त्विकत्यागं कृत्वा, 
+इति [सात्त्विकत्यागं](/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/prakIrNa-mantrAdi/gadyam/karma-parva-stham/sAttvika-tyAgaH_bhagavAn_eva/) कृत्वा, 
 
-> कृतञ्च करिष्यामि ..... प्रीयतां वासुदेवः 
+<div class="js_include" url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/prakIrNa-mantrAdi/gadyam/karma-parva-stham/prINana-mantraH_kRtaM_cha/" newLevelForH1="5" includeTitle="false"> </div>
 
 इति कृतं कर्म भगवति समर्पयेत् ।
 
 ## औपासनाकरण-प्रायश्चित्तम् - हिरण्येन
 पुनः प्राणान् आयम्य 
 
-> श्रीभगवदाज्ञया भगवत्प्रीत्यर्थम् अनेककालसायम्प्रातराहुतीनाम् अकरणप्रायश्चित्तार्थं प्राजापत्यकृच्छ्रप्रतिनिधि यत्किञ्चिद्धिरण्यदानं करिष्ये 
+> श्रीभगवद्-आज्ञया भगवत्-प्रीत्यर्थम्  
+अनेक-काल-सायम्--प्रातर्-आहुतीनाम्  
+अ-करण-प्रायश्चित्तार्थं प्राजापत्य-कृच्छ्र-प्रतिनिधि  
+यत् किञ्चिद् **+धिरण्य-दानं करिष्ये** 
 
 इति सङ्कल्प्य,
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/hiraNya-garbha-garbhasthaM_sampradade/"  newLevelForH1="5" includeTitle="false"> </div>
+<div class="js_include" url="/purANam/agni-purANam/sarva-prastutiH/167_ayutalaxakoTihomAH/hiraNya-garbha-garbhastham.md"  newLevelForH1="5" includeTitle="false"> 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+हिरण्य-गर्भ-गर्भ-स्थं  
+हेमबीजं विभावसोः ।  
+अनन्त-पुण्य-फल-दम्  
+अदश्-शान्ति प्रयच्छ मे॥
+</details>
+
+<details><summary>मूलम्</summary>
+
+हिरण्यगर्भगर्भस्थं  
+हेमबीजं विभावसोः ।  
+अनन्तपुण्यफलदम्  
+अदश्शान्ति प्रयच्छ मे॥
+_________
+हिरण्यगर्भगर्भस्थं  
+हेमबीजं विभावसोः ।  
+अनन्तपुण्यफलदम्  
+अतश्शान्ति प्रयच्छ मे॥
+
+</details>
+
+</div>  
 
 
 > इदम् अनेककालसायम्प्रातराहुतीनाम् अकरणप्रायश्चित्तार्थं प्राजापत्यकृच्छ्रप्रतिनिधि यत्किञ्चिद्धिरण्यं नानागोत्रेभ्यः श्रीवैष्णवेभ्यः सम्प्रददे (नमः) न मम 
