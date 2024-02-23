@@ -6,19 +6,12 @@ title = "3 The Supplement to the Soma Sacrifice (continued)"
 ### a
 
 ### b
-All this the Adhvaryu, as he begins, begins for the Udgatrs; 'May these gods who support breath bestow breath upon me', he says; verily he bestows all this on himself.
 ### c
-May Ida who summoneth the gods, Manu who leadeth the sacrifice,
-### d
-May Brhaspati recite the hymns and acclamations.
-### e
-The All-gods [1] are reciters of the hymns.
 ### f
-O earth mother, do not harm me.
+
 ### g
-Of honey shall I think, honey shall I produce, honey shall I proclaim, honey shall I speak, may I utter speech full of honey for the gods, and acceptable to men.
+
 ### h
-May the gods aid me to radiance, may the Pitrs rejoice in me.
 ## 03
 ### a
 Let the Vasus press thee with the Gayatri metre; go thou to the dear place of Agni.

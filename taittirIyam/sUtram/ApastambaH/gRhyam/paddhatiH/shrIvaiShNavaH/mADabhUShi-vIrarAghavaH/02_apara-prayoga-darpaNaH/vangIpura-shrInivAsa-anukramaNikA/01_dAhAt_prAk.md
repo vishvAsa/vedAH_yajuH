@@ -19,7 +19,7 @@ title = "०१ दाहात् प्राक्"
 
 प्रणम्य 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 > … गोत्रस्य … शर्मणः पितुः सुखोत्क्रमण-सिद्ध्य्-अर्थं  
 जन्म-प्रभृति एतत्-क्षणपर्यन्तं बाल्य-यौवन-कौमार-वार्द्धकेषु  
@@ -39,7 +39,7 @@ title = "०१ दाहात् प्राक्"
 
 इति सङ्कल्प्य हिरण्यं हस्ते गृहीत्वा 
 
-<div class="js_include" url="/devaH/AryaH/hindukaH/misc-devas/padyam/hiraNya-garbha-garbhastham.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/purANam/agni-purANam/sarva-prastutiH/167_ayutalaxakoTihomAH/hiraNya-garbha-garbhastham.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 > तद्धिरण्यम् अक्षतासहितं तुभ्यमहं सम्प्रददे न मम
@@ -108,7 +108,7 @@ title = "०१ दाहात् प्राक्"
 श्रीचूर्ण-परिपालनं कृत्वा  
 सभ्यान् प्रदक्षिणी-कृत्य, प्रणम्य 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 > … गोत्रस्य … शर्मणः यजमानस्य पितुः परम-पद-प्राप्तौ सत्यां, 
 >
@@ -148,7 +148,7 @@ title = "०१ दाहात् प्राक्"
 
 सभां प्रणम्य प्राचीनावीती - 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 > … गोत्रस्य … शर्मणः पितुः प्रेतस्य  
 अद्य प्रथमे अहनि पैतृमेधिकसंस्कारार्थं  
@@ -262,7 +262,7 @@ title = "०१ दाहात् प्राक्"
 
 इति सङ्कल्प्य, 
 
-<div class="js_include" url="/devaH/AryaH/hindukaH/misc-devas/padyam/hiraNya-garbha-garbhastham.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/purANam/agni-purANam/sarva-prastutiH/167_ayutalaxakoTihomAH/hiraNya-garbha-garbhastham.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 > इदमौपासनयोग्यतासिद्ध्यर्थं यत्किञ्चित् हिरण्यं तुभ्यमहं सम्प्रददे न मम उपवीती प्राणानायम्य प्राचीनावीती अनेककालसायम्प्रातराहुतीनामकरणप्रायश्चित्तार्थम् औपासनहोमद्रव्यतण्डुलदानं करिष्ये
@@ -295,7 +295,7 @@ title = "०१ दाहात् प्राक्"
 
 विधुरस्य विधवायाश्च उत्तपनाग्निः दर्भमुष्टित्रयेण क्रमात् प्रवर्तित उत्तपनाग्निः प्राचीनावीती 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya.md"  newLevelForH1="5" includeTitle="false"> </div>  
 > …  
 > गोत्रायाः नाम्न्याः मम मातुः प्रेतायाः अद्य प्रथमेऽहनि पैतृमेधिकसंस्कारार्थम् उत्तपनाग्निसन्धानं कर्तुं योग्यतासिद्धिमनुगृहाण 
 
@@ -387,7 +387,7 @@ title = "०१ दाहात् प्राक्"
 
 इति सङ्कल्प्य हिरण्यं गृहीत्वा, 
 
-<div class="js_include" url="/devaH/AryaH/hindukaH/misc-devas/padyam/hiraNya-garbha-garbhastham.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/purANam/agni-purANam/sarva-prastutiH/167_ayutalaxakoTihomAH/hiraNya-garbha-garbhastham.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 > गोत्रस्य शर्मणः प्रेतस्य मरणसमये भयात् जलमलोत्सर्गप्रायश्चित्तार्थं, पूतीगन्धदोषनिवृत्त्यर्थं वा प्राजापत्यकृच्छ्रत्रयप्रत्याम्नायं यत्किञ्चिद्धिरण्यं नानागोत्रेभ्यः विप्रेभ्यः सम्प्रददे न मम 
@@ -464,7 +464,7 @@ title = "०१ दाहात् प्राक्"
 
 > गोत्रस्य शर्मणः प्रेतस्य पशुभिर्हतप्रायश्चित्तार्थं प्राजापत्यकृच्छ्रप्रतिनिधि यत्किञ्चित् हिरण्यरूपेण करिष्ये ।  
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/hiraNya-garbha-garbhasthaM_sapradade/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/hiraNya-garbha-garbhasthaM_sampradade/"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 विप्राय दत्वा,
@@ -545,7 +545,7 @@ title = "०१ दाहात् प्राक्"
 
 प्राचीनावीती 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 > गोत्रायाः नाम्न्याः प्रेतायाः सूतको मरणप्रायश्चित्तं रजस्वलामरणप्रायश्चित्तं वा कर्तुं योग्यतासिद्धिम् अनुगृहाण
 
@@ -614,7 +614,7 @@ title = "०१ दाहात् प्राक्"
 
 अथ कर्ता स्नात्वा, ऊर्ध्वपुण्ड्रादिकं धृत्वा, सप्त पञ्च त्रीणि वा कृच्छ्राणि कृत्वा प्राचीनावीती
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 > अमुकगोत्रस्य अमुकशर्मणः अमुकशर्मण अमुकप्रेतस्य अमुकाग्निना पैतृमेधविधिना सह ब्रह्ममेधविधिना संस्कारं कर्तुं योग्यतासिद्धिम् अनुगृहाण 
 

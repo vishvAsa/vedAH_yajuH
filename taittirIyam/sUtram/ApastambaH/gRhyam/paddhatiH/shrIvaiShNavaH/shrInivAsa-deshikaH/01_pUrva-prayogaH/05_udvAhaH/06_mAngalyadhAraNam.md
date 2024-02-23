@@ -49,6 +49,6 @@ title = "०६ माङ्गल्यधारणम्"
 
 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 अस्याः पाणिग्रहणं कर्तुं योग्यतासिद्धिमनुगृहाण) ग्रहप्रीतिं च कुर्यात् ।

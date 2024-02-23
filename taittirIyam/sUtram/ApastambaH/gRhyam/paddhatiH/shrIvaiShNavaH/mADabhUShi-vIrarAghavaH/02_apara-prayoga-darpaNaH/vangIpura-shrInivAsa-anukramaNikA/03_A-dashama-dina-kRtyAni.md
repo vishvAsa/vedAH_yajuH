@@ -6,7 +6,7 @@ title = "०३ आ-दशम-दिन-कृत्यानि"
 
 अथ कर्ता त्रयोदशवारं निमज्य घृतप्राशनादि पुनःस्नानान्तं कृत्वा कण्ठादुपरि वापयित्वा, स्नात्वा आर्द्रवासाः कनिष्ठपूर्वं ग्रामं प्रविश्य, गृहं गत्वा पादौ प्रक्षाल्य, पवित्रं गृहीत्वा, प्राचीनावीती, 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 > … गोत्रस्य … शर्मणः पितुः प्रेतस्य नग्नप्रच्छादनश्राद्धं कर्तुं योग्यतासिद्धिमनुगृहाण । तथास्तु - योग्यतासिद्धिरस्तु 
 
@@ -51,7 +51,7 @@ title = "०३ आ-दशम-दिन-कृत्यानि"
 
 इति सङ्कल्प्य, हिरण्यं हस्ते निधाय, 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/hiraNya-garbha-garbhasthaM_sapradade/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/hiraNya-garbha-garbhasthaM_sampradade/"  newLevelForH1="5" includeTitle="false"> </div>  
 
 > इदं हिरण्यं पाषाणस्थापनकाले तिथिवारपरिहारार्थं तुभ्यमहं सम्प्रददे न मम 
 
@@ -84,7 +84,7 @@ title = "०३ आ-दशम-दिन-कृत्यानि"
 
 अथ कर्ता स्नात्वा जलपूर्णकुम्भम् आदाय गृहं गत्वा चरुं श्रपयित्वा अभिघार्य उद्वास्य, कुण्डसमीपं गत्वा, दण्डवत् प्रणम्य, प्राचीनावीती, 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>   
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya.md"  newLevelForH1="5" includeTitle="false"> </div>   
 
 > … गोत्रस्य … शर्मणः पितुः प्रेतस्य अद्य प्रथमेऽहनि गृहद्वारे कुण्डे वासोदकपिण्डबलिप्रदानार्थं पाषाणस्थापनं कर्तुं योग्यतासिद्धिम् अनुगृहाण । 
 
@@ -253,7 +253,7 @@ title = "०३ आ-दशम-दिन-कृत्यानि"
 
 अथ कर्ता स्नात्वा, ऊर्ध्वपुण्ड्रादिकं धृत्वा यथाशक्ति दक्षिणां गृहीत्वा, दण्डवत् प्रणम्य, प्राचीनावीती, 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 > गोत्रस्य शर्मंणः पितुः प्रेतस्य अग्निनष्टप्रायश्चित्तं कर्तुं योग्यतासिद्धिमनुगृहाण 
 
@@ -265,7 +265,7 @@ title = "०३ आ-दशम-दिन-कृत्यानि"
 
 > श्रीभगवदाज्ञया भगवत्प्रीत्यर्थं मम पितुः प्रेतस्य श्मशानाग्निनाशप्रायश्चित्तार्थं प्राजापत्यकृच्छ्रत्रयं यत्किञ्चिद्धिरण्यरूपेण करिष्ये 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/hiraNya-garbha-garbhasthaM_sapradade/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/hiraNya-garbha-garbhasthaM_sampradade/"  newLevelForH1="5" includeTitle="false"> </div>  
 
 > इदं कृच्छ्रत्रयप्रत्याम्नायं यत्किञ्चिद्धिरण्यं तुभ्यमहं सम्प्रददे न मम 
 

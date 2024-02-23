@@ -1,15 +1,15 @@
 +++
-title = "Hira Nya garbha garbhastha M sapradade"
+title = "Hira Nya garbha garbhastha M sampradade"
 +++
 
-<div class="js_include" url="/devaH/AryaH/hindukaH/misc-devas/padyam/hiraNya-garbha-garbhastham/"  newLevelForH1="5" includeTitle="false"> 
+<div class="js_include" url="/purANam/agni-purANam/sarva-prastutiH/167_ayutalaxakoTihomAH/hiraNya-garbha-garbhastham.md"  newLevelForH1="5" includeTitle="false"> 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-हिरण्य-गर्भ-गर्भ-स्थं  
-हेमबीजं विभावसोः ।  
++++(हिरण्य!)+++ हिरण्य-गर्भ--गर्भ-स्थं  
+हेम-बीजं विभावसोः ।  
 अनन्त-पुण्य-फल-दम्  
-अदश्-शान्ति प्रयच्छ मे॥
+अतश् शान्तिं प्रयच्छ मे॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -17,15 +17,13 @@ title = "Hira Nya garbha garbhastha M sapradade"
 हिरण्यगर्भगर्भस्थं  
 हेमबीजं विभावसोः ।  
 अनन्तपुण्यफलदम्  
-अदश्शान्ति प्रयच्छ मे॥
+अदश्शान्तिं प्रयच्छ मे॥
 _________
 हिरण्यगर्भगर्भस्थं  
 हेमबीजं विभावसोः ।  
 अनन्तपुण्यफलदम्  
-अतश्शान्ति प्रयच्छ मे॥
-
+अतश्शान्तिं प्रयच्छ मे॥
 </details>
-
 </div>  
 
 <details open><summary>दानम्, त्यागः</summary>

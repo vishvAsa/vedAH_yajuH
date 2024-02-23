@@ -6,12 +6,14 @@ title = "०८ समिदाधानम्"
 परित्वेति परिमृज्य,  
 तस्मिन्न् उतरैर् मन्त्रैस् समिध आदध्यात् ।) 
 
+## सङ्कल्पः
 कुमारः, प्राणानायम्य 
 
 > प्रातस्-समिध आधास्यामि । 
 
 इति सङ्कल्प्य 
 
+## परिमार्जनम्
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/01_pari_tvA-gne.md">
 <details open><summary><h4>०१ परि त्वाऽग्ने ...{Loading}...</h4></summary>
 
@@ -25,6 +27,7 @@ title = "०८ समिदाधानम्"
 
 इति परिमृज्य (परिसमूह्य) ।
 
+## परिषेचनम्
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/01_adite-nu_manyasva.md">
 <details open><summary><h4>०१ अदितेऽनु मन्यस्व ...{Loading}...</h4></summary>
 
@@ -68,6 +71,7 @@ title = "०८ समिदाधानम्"
 
 [[86]]
 
+## आधानम्
 अथ द्वादशभिर् मन्त्रैस् समिध आदध्यात् ।  
 नोद्देश्यत्यागः ।  
 अत्रेयं सामान्यतः व्यवस्था क्रियते ।  
@@ -197,15 +201,28 @@ title = "०८ समिदाधानम्"
 
 </details>
 </div>
-</details>
-</div>
 
 [[88]]
 
+इति प्रतिमन्त्रं समिधः आदध्यात् ।
+
+## परिषेचनम्
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/12_adite-nvama.NsthAH_anumate-nvama.NsthAH.md" newLevelForH1="5" includeTitle="false"> 
+
+अदि॒तेऽन्व॑मँस्थाः।
+
+अनु॑म॒तेऽन्व॑मँस्थाः।
+
+सर॑स्व॒ते ऽन्व॑मँस्थाः।
+
+देव॑ सवितः॒ प्रासा॑वीः।
+
+</div>
+
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/shrI-viShNave_svAhA.md" newLevelForH1="5" includeTitle="false"> </div>
 
-
-
+## उपस्थानम्
 उत्थाय 
 
 
@@ -260,6 +277,7 @@ title = "०८ समिदाधानम्"
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/3/3/01_atigrAhyamantrAH/mayi_medhAm.md" newLevelForH1="5" includeTitle="false"> </div>
 
+## प्रायश्चित्तादि
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/mantrahInam_hutAshana.md" newLevelForH1="5" includeTitle="false"> </div>
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/prAyashcittAny_asheShANi.md" newLevelForH1="5" includeTitle="false"> </div>
