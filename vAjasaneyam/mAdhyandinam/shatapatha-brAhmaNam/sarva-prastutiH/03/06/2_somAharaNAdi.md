@@ -33,6 +33,11 @@ title = "२ सोमाहारणादि"
 [^wbr_1]: आत्मानः Sây. (?)
 </details>
 
+<details><summary>मूलम् - विस्वरम्</summary>
+
+
+</details>
+
 <details><summary>सायणः</summary>
 
 …
@@ -77,6 +82,11 @@ title = "२ सोमाहारणादि"
 अ᳘थेह᳘ देवास्ते᳘ देवा᳘ अकामयन्ता᳘ नः सोमो गछेत्तेना᳘गतेन यजेमही᳘ति त᳘ एते᳘ माये᳘ असृजन्त सुपर्णीं च कद्रूं᳘ च वा᳘गेव᳘ सुपॗर्णीयं᳘ कद्रूस्ता᳘भ्याᳫं सम᳘दं चक्रुः॥
 </details>
 
+<details><summary>मूलम् - विस्वरम्</summary>
+
+
+</details>
+
 <details><summary>सायणः</summary>
 
 …
@@ -119,6 +129,11 @@ title = "२ सोमाहारणादि"
 यतरा᳘ नौ द᳘वीयः पराप᳘श्यादात्मा᳘नं नौ सा᳘ जयादि᳘ति तथे᳘ति सा᳘ ह कद्रू᳘रुवाच प᳘रेक्षस्वेति॥
 </details>
 
+<details><summary>मूलम् - विस्वरम्</summary>
+
+
+</details>
+
 <details><summary>सायणः</summary>
 
 …
@@ -157,6 +172,11 @@ title = "२ सोमाहारणादि"
 
 सा᳘ ह सुपॗर्ण्युवाच॥  
 अ᳘स्य सलिल᳘स्य पारे᳘ ऽश्वः श्वेत᳘ स्थाणौ᳘ सेवते त᳘मह᳘म् पश्यामी᳘ति त᳘मेव त्व᳘म् पश्यसी᳘ति तᳫं हीत्य᳘थ ह कद्रू᳘रुवाच त᳘स्य वा᳘लो न्य᳘षञ्जि त᳘ममुं वा᳘तो धूनोति त᳘मह᳘म् पश्यामी᳘ति॥
+</details>
+
+<details><summary>मूलम् - विस्वरम्</summary>
+
+
 </details>
 
 <details><summary>सायणः</summary>
@@ -198,6 +218,11 @@ title = "२ सोमाहारणादि"
 अस्य᳘ सलिल᳘स्य पार इ᳘ति वे᳘दिॗर्वै सलिलं वे᳘दिमेव सा त᳘दुवाचा᳘श्वः श्वेत᳘ स्थाणौ᳘ सेवत इ᳘त्यग्निर्वा अ᳘श्वः श्वेतो यू᳘प स्थाणुर᳘थ य᳘त्कद्रू᳘रुवा᳘च त᳘स्य वालो᳘ न्य᳘षञ्जि त᳘ममुं वा᳘तो धूनोति त᳘मह᳘म् पश्यामी᳘ति रशना हैव सा᳟॥
 </details>
 
+<details><summary>मूलम् - विस्वरम्</summary>
+
+
+</details>
+
 <details><summary>सायणः</summary>
 
 …
@@ -235,6 +260,11 @@ there, now the wind tosses it, that I see;' this is nothing else than the rope.
 ए᳘हीदम् प᳘ताव वे᳘दितुं यतरा᳘ नौ ज᳘यती᳘ति सा᳘ ह कद्रू᳘रुवाच त्व᳘मेव᳘ पत त्वं वै᳘ न आख्यास्यसि य᳘तरा नौ ज᳘यती᳘ति॥
 </details>
 
+<details><summary>मूलम् - विस्वरम्</summary>
+
+
+</details>
+
 <details><summary>सायणः</summary>
 
 …
@@ -269,6 +299,11 @@ there, now the wind tosses it, that I see;' this is nothing else than the rope.
 
 सा᳘ ह सुपर्णी᳘ पपात॥  
 त᳘द्ध त᳘थैवास य᳘था कद्रू᳘रुवा᳘च तामा᳘गता᳘मॗभ्युवाद त्व᳘मजैषी᳘रहामि᳘ति त्वमि᳘ति होवाचैत᳘द्व्याख्या᳘नᳫं सौ᳘पर्णीकाद्रवमि᳘ति॥
+</details>
+
+<details><summary>मूलम् - विस्वरम्</summary>
+
+
 </details>
 
 <details><summary>सायणः</summary>
@@ -315,6 +350,11 @@ there, now the wind tosses it, that I see;' this is nothing else than the rope.
 [^wbr_2]: नि᳘ष्क्रिणीष्वे᳘ति AB.
 </details>
 
+<details><summary>मूलम् - विस्वरम्</summary>
+
+
+</details>
+
 <details><summary>सायणः</summary>
 
 …
@@ -355,6 +395,11 @@ there, now the wind tosses it, that I see;' this is nothing else than the rope.
 [^wbr_3]: इमे होत्रकाः Sây.
 </details>
 
+<details><summary>मूलम् - विस्वरम्</summary>
+
+
+</details>
+
 <details><summary>सायणः</summary>
 
 …
@@ -391,6 +436,11 @@ there, now the wind tosses it, that I see;' this is nothing else than the rope.
 तां᳘ देवे᳘भ्यः प्र᳘ददौ सा᳘ दीक्षा त᳘या देवा᳘ अदीक्षन्त॥
 </details>
 
+<details><summary>मूलम् - विस्वरम्</summary>
+
+
+</details>
+
 <details><summary>सायणः</summary>
 
 …
@@ -422,6 +472,11 @@ there, now the wind tosses it, that I see;' this is nothing else than the rope.
 
 अ᳘थ द्विती᳘यां कुशीमा᳘चिछेद॥  
 तां᳘ देवे᳘भ्यः प्र᳘ददौ तत्त᳘पस्त᳘या देवास्त᳘प उ᳘पायन्नुपस᳘दस्त᳘पोॗ ह्युपस᳘दः॥
+</details>
+
+<details><summary>मूलम् - विस्वरम्</summary>
+
+
 </details>
 
 <details><summary>सायणः</summary>
@@ -457,6 +512,11 @@ there, now the wind tosses it, that I see;' this is nothing else than the rope.
 
 खदिरे᳘ण ह सो᳘ममा᳘चखाद॥  
 त᳘स्मात्खदिरो य᳘देनेना᳘खिदत्त᳘स्मात्खादिरो यू᳘पो भवति खादिरॗ स्फ्यो ऽछावाक᳘स्य हैनं गोपना᳘यां जहारॗ सो ऽछावाॗको ऽहीयत॥
+</details>
+
+<details><summary>मूलम् - विस्वरम्</summary>
+
+
 </details>
 
 <details><summary>सायणः</summary>
@@ -495,6 +555,11 @@ She then carried him off while he was under the charge of the Achāvāka, wheref
 प्रजा᳘नाम् प्र᳘जात्यै त᳘स्मादैन्द्राॗग्नो ऽछावाकः᳟॥
 </details>
 
+<details><summary>मूलम् - विस्वरम्</summary>
+
+
+</details>
+
 <details><summary>सायणः</summary>
 
 …
@@ -527,6 +592,11 @@ She then carried him off while he was under the charge of the Achāvāka, wheref
 
 त᳘स्माद्दीक्षिता रा᳘जानं गोपायन्ति॥  
 ने᳘न्नो ऽपह᳘रानि᳘ति त᳘स्मात्त᳘त्र सु᳘गुप्तं चिकीर्षेद्य᳘स्य ह गोपना᳘यामपह᳘रन्ति ही᳘यते ह॥
+</details>
+
+<details><summary>मूलम् - विस्वरम्</summary>
+
+
 </details>
 
 <details><summary>सायणः</summary>
@@ -566,6 +636,11 @@ She then carried him off while he was under the charge of the Achāvāka, wheref
 गृहा᳘न्पशून्ने᳘न्नो ऽपह᳘रानि᳘ति त᳘स्मात्त᳘त्र सु᳘गुप्तं चिकीर्षेद्य᳘स्य ह गोपना᳘यामपह᳘रन्ति ही᳘यते ह ते᳘नैते᳘न सुपर्णी᳘ देवे᳘भ्य आत्मा᳘नं नि᳘रक्रीणीत त᳘स्मादाहुः पु᳘ण्यलोक ईजान इ᳘ति॥
 </details>
 
+<details><summary>मूलम् - विस्वरम्</summary>
+
+
+</details>
+
 <details><summary>सायणः</summary>
 
 …
@@ -596,6 +671,11 @@ She then carried him off while he was under the charge of the Achāvāka, wheref
 
 ऋण᳘ᳫं᳘ ह वै पु᳘रुषो जा᳘यमान एव᳟॥  
 मृत्यो᳘रात्म᳘ना जायते सयद्य᳘जते य᳘थैव त᳘त्सुपर्णी᳘ देवे᳘भ्य आत्मा᳘नं निर᳘क्रीणीतैव᳘मेॗवैष᳘ एत᳘न्मृत्यो᳘रात्मा᳘नं नि᳘ष्क्रीणीते॥
+</details>
+
+<details><summary>मूलम् - विस्वरम्</summary>
+
+
 </details>
 
 <details><summary>सायणः</summary>
@@ -630,6 +710,11 @@ She then carried him off while he was under the charge of the Achāvāka, wheref
 त᳘मेते᳘ गन्धर्वाः᳘ सोमरक्षा᳘ अन्वा᳘जग्मुॗस्ते ऽन्वाग᳘त्याब्रुवन्न᳘नु नो यज्ञ आ᳘भजत मा᳘ नो यज्ञा᳘दन्त᳘र्गाता᳘स्त्वेव नो᳘ ऽपि यज्ञे᳘ भाग इ᳘ति॥
 </details>
 
+<details><summary>मूलम् - विस्वरम्</summary>
+
+
+</details>
+
 <details><summary>सायणः</summary>
 
 …
@@ -662,6 +747,11 @@ She then carried him off while he was under the charge of the Achāvāka, wheref
 किं᳘ नस्त᳘तः स्यादि᳘ति य᳘थैॗवास्यामु᳘त्र गोप्तारो᳘ ऽभूमैव᳘मेॗवास्या᳘पीह᳘ गोप्ता᳘रो भविष्याम इ᳘ति॥
 </details>
 
+<details><summary>मूलम् - विस्वरम्</summary>
+
+
+</details>
+
 <details><summary>सायणः</summary>
 
 …
@@ -692,6 +782,11 @@ She then carried him off while he was under the charge of the Achāvāka, wheref
 
 तथे᳘ति देवा᳘ अब्रुवन्॥  
 सोमक्र᳘यणा व इ᳘ति ता᳘नेभ्य एत᳘त्सोमक्र᳘यणान᳘नुदिशत्य᳘थैनानब्रुवंस्तृतीयसवने᳘ वो घृत्या᳘हुतिः प्रा᳘प्स्यति न᳘ सौम्या᳘पहृतो हि᳘ युष्म᳘त्सोमपीथस्ते᳘न सोमाहुतिंॗ नार्हथे᳘तिॗ सैनानेषा᳘ तृतीयसवन᳘ एव᳘ घृत्या᳘हुतिः प्रा᳘प्नोति न᳘ सौम्या य᳘छालाकैर्धि᳘ष्ण्यान्व्याघार᳘यति॥
+</details>
+
+<details><summary>मूलम् - विस्वरम्</summary>
+
+
 </details>
 
 <details><summary>सायणः</summary>
@@ -728,6 +823,11 @@ She then carried him off while he was under the charge of the Achāvāka, wheref
 
 अ᳘थ य᳘दग्नौ᳘ होष्य᳘न्ति॥  
 त᳘द्वो विष्यती᳘ति स य᳘दग्नौ जु᳘ह्वति त᳘देनानवत्य᳘थ य᳘द्वः सो᳘मम् बि᳘भ्रत उप᳘र्युपरि चरिष्य᳘न्ति त᳘द्वो विष्यती᳘ति स य᳘देनान्त्सो᳘मम् बि᳘भ्रत उप᳘र्युपरि च᳘रन्ति त᳘देनानवति त᳘स्मादध्वर्युः᳘ सम᳘या धि᳘ष्ण्यान्ना᳘तीयादध्वर्युर्हि सो᳘मम् बिभ᳘र्ति त᳘मेते व्या᳘त्तेन प्र᳘त्यासते स᳘ एते᳘षां व्या᳘त्तमा᳘पद्येत त᳘मग्नि᳘र्वाभिद᳘हेद्यो᳘ वायं᳘ देवः᳘ पशूनामी᳘ष्टे स᳘ वा हैनमभि᳘मन्येत त᳘स्माद्य᳘द्यध्वर्योः शा᳘लायाम᳘र्थः स्यादु᳘त्तरेणैॗवाग्नीध्री᳘यᳫं सं᳘चरेत्॥
+</details>
+
+<details><summary>मूलम् - विस्वरम्</summary>
+
+
 </details>
 
 <details><summary>सायणः</summary>
@@ -768,6 +868,11 @@ She then carried him off while he was under the charge of the Achāvāka, wheref
 सो᳘मस्यैव गु᳘प्त्यैॗ न्युप्यन्त आहवनी᳘यः पुर᳘स्तान्मार्जाली᳘यो दक्षिणत᳘ आग्नीध्री᳘य उत्तरतो᳘ ऽथ ये स᳘दसि ते᳘ पश्चा᳘त्॥
 </details>
 
+<details><summary>मूलम् - विस्वरम्</summary>
+
+
+</details>
+
 <details><summary>सायणः</summary>
 
 …
@@ -800,6 +905,11 @@ She then carried him off while he was under the charge of the Achāvāka, wheref
 अर्धान᳘नुदिशन्त्येत᳘ उ हैॗवैत᳘द्दध्रिरे ऽर्धा᳘न्न उपकिर᳘न्त्वर्धान᳘नुदिशन्तु त᳘था य᳘स्माल्लोकादा᳘गताः स्मो᳘ दिवस्त᳘था तं᳘ लो᳘कम् प्रतिप्र᳘ज्ञास्यामस्त᳘था न᳘ जिह्मा᳘ [^wbr_4] एष्याम इ᳘ति॥  
 
 [^wbr_4]: जिह्या A.
+</details>
+
+<details><summary>मूलम् - विस्वरम्</summary>
+
+
 </details>
 
 <details><summary>सायणः</summary>
@@ -838,6 +948,11 @@ She then carried him off while he was under the charge of the Achāvāka, wheref
 ते᳘नास्मिं᳘लो᳘के प्रत्य᳘क्षम् भवन्त्य᳘थ या᳘ननुदिश᳘न्ति ते᳘नामु᳘ष्मिंलोके᳘ प्रत्य᳘क्षम् भवन्ति॥
 </details>
 
+<details><summary>मूलम् - विस्वरम्</summary>
+
+
+</details>
+
 <details><summary>सायणः</summary>
 
 …
@@ -872,6 +987,11 @@ thereby visibly in this world; but whichever of them are assigned they are there
 एत᳘ उ हैॗवैत᳘द्दध्रिरे न वा᳘ एभिर्नामभिररात्स्म ये᳘षां नः सो᳘ममपा᳘हार्षुर्ह᳘न्ति द्विती᳘यानि ना᳘मानि कर᳘वामहा इ᳘ति ते᳘ द्विती᳘यानि ना᳘मान्यकुर्वत तै᳘रराध्नुवन्यान᳘पहृतसोमपीथान्त्सतो᳘ ऽथ यज्ञ आ᳘भजंस्त᳘स्माद्द्वि᳘नामानस्त᳘स्माद्ब्राह्मणो᳘ ऽनृध्यमाने द्विती᳘यं ना᳘म कुर्वीत राध्नो᳘ति हैव य᳘ एवं᳘ विद्वा᳘न्द्विती᳘यं ना᳘म कुरु᳘ते॥
 </details>
 
+<details><summary>मूलम् - विस्वरम्</summary>
+
+
+</details>
+
 <details><summary>सायणः</summary>
 
 …
@@ -902,6 +1022,11 @@ thereby visibly in this world; but whichever of them are assigned they are there
 
 स य᳘दग्नौ᳘ जुहो᳘ति॥  
 त᳘द्देवे᳘षु जुहोति त᳘स्माद्देवाः᳘ सन्त्य᳘थ यत्स᳘दसि भक्षयन्ति त᳘न्मनुॗष्येषु जुहोति त᳘स्मान्मनुॗष्याः सन्त्य᳘थ य᳘द्धविर्धा᳘नयोर्नाराशंसाः सी᳘दन्ति त᳘त्पितृ᳘षु जुहोति त᳘स्मात्पित᳘रः सन्ति॥
+</details>
+
+<details><summary>मूलम् - विस्वरम्</summary>
+
+
 </details>
 
 <details><summary>सायणः</summary>
@@ -936,6 +1061,11 @@ thereby visibly in this world; but whichever of them are assigned they are there
 
 या वै प्रजा᳘ यज्ञे᳘ ऽनन्वाभक्ताः॥  
 प᳘राभूता वै ता᳘ एव᳘मेॗवैतद्या᳘ इमाः᳘ प्रजा अ᳘पराभूतास्ता᳘ यज्ञ आ᳘भजति मनुॗष्यान᳘नु पश᳘वो देवान᳘नु व᳘यांस्यो᳘षधयो व᳘नस्प᳘तयो य᳘दिदं किं᳘ चैव᳘मु तत्स᳘र्वं यज्ञ आ᳘भक्तं ते᳘ ह स्मैत᳘ उभ᳘ये देवमनुष्याः᳘ पित᳘रः स᳘म्पिबन्तेॗ सैषा᳘ सम्पा ते᳘ ह स्म दृश्य᳘माना एव᳘ पुरा स᳘म्पिबन्त उॗतैतर्ह्य᳘दृश्यमानाः॥
+</details>
+
+<details><summary>मूलम् - विस्वरम्</summary>
+
+
 </details>
 
 <details><summary>सायणः</summary>

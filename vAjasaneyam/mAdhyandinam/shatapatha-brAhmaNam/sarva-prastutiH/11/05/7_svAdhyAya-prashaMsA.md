@@ -37,6 +37,11 @@ title = "७ स्वाध्याय-प्रशंसा"
 [^wbr_1]: यशोलोकपक्ति Sây. as a compound, against the accent. - ibid. The accent shows, that प᳘च्यमानः is to be taken as a medium of the fourth class!
 </details>
 
+<details><summary>मूलम् - विस्वरम्</summary>
+
+
+</details>
+
 <details><summary>सायणः</summary>
 
 …
@@ -82,6 +87,11 @@ The growing intelligence gives rise to four duties attaching to the Brāhmaṇa-
 [^wbr_2]: परमताकाष्ठा Sây. as a compound, against the accent.
 </details>
 
+<details><summary>मूलम् - विस्वरम्</summary>
+
+
+</details>
+
 <details><summary>सायणः</summary>
 
 …
@@ -114,6 +124,11 @@ The growing intelligence gives rise to four duties attaching to the Brāhmaṇa-
 
 य᳘द्यद्ध वा᳘ अयं छ᳘न्दसः॥  
 स्वाध्याय᳘मधीते ते᳘न-तेन हैॗवास्य यज्ञक्रतु᳘नेष्ट᳘म् भवति य᳘ एवं᳘ विद्वा᳘न्त्स्वाध्याय᳘मधीते त᳘स्मात्स्वाध्याॗयोऽध्येत᳘व्यः॥
+</details>
+
+<details><summary>मूलम् - विस्वरम्</summary>
+
+
 </details>
 
 <details><summary>सायणः</summary>
@@ -150,6 +165,11 @@ The growing intelligence gives rise to four duties attaching to the Brāhmaṇa-
 
 य᳘दि ह वा अ᳘प्यभ्य᳘क्तः॥  
 अ᳘लंकृतः सु᳘हितः सुखे श᳘यने श᳘यानः स्वाध्याय᳘मधीत आ᳘ हैव स᳘ नखाग्रे᳘भ्यस्तप्यते य᳘ एवं᳘ विद्वा᳘न्त्स्वाध्याय᳘मधीते त᳘स्मात्स्वाध्याॗयोऽध्येत᳘व्यः॥
+</details>
+
+<details><summary>मूलम् - विस्वरम्</summary>
+
+
 </details>
 
 <details><summary>सायणः</summary>
@@ -189,6 +209,11 @@ The growing intelligence gives rise to four duties attaching to the Brāhmaṇa-
 घृत᳘ᳫं᳘ ह सा᳘मान्यमृ᳘तं य᳘जूंषि य᳘द्ध वा᳘ अयं᳘ वाकोवाक्य᳘मधीते᳘ क्षीरौदनमांसौदनौ᳘ हैव तौ᳟॥
 </details>
 
+<details><summary>मूलम् - विस्वरम्</summary>
+
+
+</details>
+
 <details><summary>सायणः</summary>
 
 …
@@ -221,6 +246,11 @@ The growing intelligence gives rise to four duties attaching to the Brāhmaṇa-
 
 म᳘धुना ह वा᳘ एष᳘ देवा᳘ᳫं᳘स्तर्पयति॥  
 य᳘ एवं᳘ विद्वानृचो᳘ऽहरहः स्वाध्याय᳘मधीते त᳘ एनं तृप्ता᳘स्तर्पयन्ति स᳘र्वैः का᳘मैः स᳘र्वैर्भो᳘गैः॥
+</details>
+
+<details><summary>मूलम् - विस्वरम्</summary>
+
+
 </details>
 
 <details><summary>सायणः</summary>
@@ -257,6 +287,11 @@ The growing intelligence gives rise to four duties attaching to the Brāhmaṇa-
 य᳘ एवं᳘ विद्वान्त्सा᳘मान्य᳘हरहः स्वाध्याय᳘मधीते त᳘ एनं तृप्ता᳟…॥
 </details>
 
+<details><summary>मूलम् - विस्वरम्</summary>
+
+
+</details>
+
 <details><summary>सायणः</summary>
 
 …
@@ -291,6 +326,11 @@ The growing intelligence gives rise to four duties attaching to the Brāhmaṇa-
 य᳘ एवं᳘ विद्वान्य᳘जूंष्य᳘हरहः स्वाध्याय᳘मधीते त᳘ एनं तृप्ता᳟॥
 </details>
 
+<details><summary>मूलम् - विस्वरम्</summary>
+
+
+</details>
+
 <details><summary>सायणः</summary>
 
 …
@@ -323,6 +363,11 @@ The growing intelligence gives rise to four duties attaching to the Brāhmaṇa-
 
 क्षीरौदनमांसौदना᳘भ्याᳫं ह वा᳘ एष᳘ देवा᳘ᳫं᳘स्तर्पयति॥  
 य᳘ एवं᳘ विद्वा᳘न्वाकोवाक्य᳘मितिहासपुराणमित्य᳘हरहः स्वाध्याय᳘मधीते त᳘ एनं तृप्ता᳟॥
+</details>
+
+<details><summary>मूलम् - विस्वरम्</summary>
+
+
 </details>
 
 <details><summary>सायणः</summary>
@@ -365,6 +410,11 @@ The growing intelligence gives rise to four duties attaching to the Brāhmaṇa-
 ए᳘त्यादित्य ए᳘ति चन्द्र᳘मा य᳘न्ति न᳘क्षत्राणि य᳘था ह वा᳘ एता᳘ देव᳘ताॗ नेयुर्न᳘ कुर्युरेव᳘ᳫं᳘ हैव तद᳘हर्ब्राह्मणो᳘ भवति यद᳘हः स्वाध्याॗयं नाधीते त᳘स्मात्स्वाध्याॗयोऽध्येत᳘व्यस्त᳘स्मादप्यृ᳘चं वा य᳘जुर्वा सा᳘म वा गा᳘थां वा कुं᳘व्यां [^wbr_3]  वाभिव्या᳘हरेद्व्रतस्या᳘व्यवछेदाय॥  
 
 [^wbr_3]: कुं᳘ब्यां A. sec. manu. कुंद्यां Sây.
+</details>
+
+<details><summary>मूलम् - विस्वरम्</summary>
+
+
 </details>
 
 <details><summary>सायणः</summary>
