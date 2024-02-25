@@ -2,10 +2,28 @@
 title = "०१ गायत्रीं"
 
 +++
-पच्छो ऽर्धर्चशो ऽनवानम् उक्त्वा 
+गायत्रीं पच्छो ऽर्धर्चशो ऽनवानम् उक्त्वा 
 
-<div class="js_include" includetitle="true" newlevelforh1="4" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/062/10_tatsaviturvareNyaM_bhargo.md">
-<details open><summary><h4>१० तत्सवितुर्वरेण्यं भर्गो ...{Loading}...</h4></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/11_11_vyAhRtIrvihRtAH.md">
+<details open><summary><h2>११ ११ व्याहृतीर्विहृताः ...{Loading}...</h2></summary>
+
+व्याहृतीर् विहृताः - पादादिष्व् अन्तेषु वा, तथार्धर्चयोर्, उत्तमां कृत्स्नायाम् ११
+
+(आद्युच्चारणपक्षे)
+
+#### पादशः
+ओं भूस् तत् सवि॒तुर् वरे॑ण्य+++(णिय)+++म्।  
+ओं भुव॑र् +++(पापादि)+++भर्गो॑+++(=भर्जनम्)+++ दे॒वस्य॑ धीमहि+++(←ध्यै ध्याने / धी आराधने)+++ ।  
+ओं सुव॑र् धियो॒ यो नः॑ प्रचो॒दया॑त् ॥  
+
+#### अर्धशः पूर्णश्श्च
+ओं भूस् तत् सवि॒तुर् वरे॑ण्य+++(णिय)+++म् +++(पापादि)+++भर्गो॑+++(=भर्जनम्)+++ दे॒वस्य॑ धीमहि+++(←ध्यै ध्याने / धी आराधने)+++ ।  
+ओं भुव॑र् धियो॒ यो नः॑ प्रचो॒दया॑त् ॥  
+
+ओं सुव॑स्
+
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/062/10_tatsaviturvareNyaM_bhargo.md">
+<details open><summary><h8>१० तत्सवितुर्वरेण्यं भर्गो ...{Loading}...</h8></summary>
 
 तत् सवि॒तुर् वरे॑ण्य+++(णिय)+++म्  
 भर्गो॑+++(=भर्जनम्)+++ दे॒वस्य॑ धीमहि+++(←धा धारणे/ ध्यै ध्याने / धी आराधने)+++ ।  
@@ -19,5 +37,6 @@ title = "०१ गायत्रीं"
 प्रानुदात्तत्वं तिङन्तस्योदात्तवत्त्वात्। तच्च यत्कारसद्भावात्।
 </details>
 </details>
-</div> 
-
+</div>
+</details>
+</div>

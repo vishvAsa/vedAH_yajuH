@@ -715,26 +715,26 @@ Now take 2 darbhas between the two hands (with tips facing north). With the thre
 With the mantras above, a gold or silver coin should be placed in the kumbha.
 
 
-कूर्चाग्रैः राक्षसान् घोरान् छिन्धि कर्म-विघातिनः।  
-त्वामर्पयामि कुम्भेऽस्मिन् साफल्यं कुरु कर्मणि॥
+<div class="js_include" url="/vedAH_yajuH.taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/kUrchAgrai_rAxasAn.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
 
 Then with the mantras above, a kūrca should be placed on top of the kalaśa.
 
 
-वृक्षराज-समुद्भूताः शाखायाः पल्लवत्वचः।  
-युष्मान् कुम्भेष्वर्पयामि सर्वदोषापनुत्तये॥
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/vRxarAja-samudbhUtAH.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
 
 Saying this, a mango leaf bunch should be placed at the neck.
 
 
-नालिकेर-समुद्भूत त्रिनेत्र हरसम्मित।  
-शिखया दुरितं सर्वं पापं पीडां च मे नुद॥
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/nAlikera-samudbhUta.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
 
 Saying this, a coconut smeared with haldi should be placed on top.
 
 
-सर्वे समुद्राः सरितस्तीर्थानि च नदा ह्रदाः।  
-आयान्तु मम सहकुटुम्बस्य दुरितक्षयकारकाः॥
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/sarve_samudrAH.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
 
 Saying this, the kalaśa should be touched.
 

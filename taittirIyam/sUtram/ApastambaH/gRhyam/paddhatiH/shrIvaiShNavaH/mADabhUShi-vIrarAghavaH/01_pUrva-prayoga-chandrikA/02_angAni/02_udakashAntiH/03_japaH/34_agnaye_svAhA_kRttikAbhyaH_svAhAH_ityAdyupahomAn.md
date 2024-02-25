@@ -3,6 +3,12 @@ title = "३४ ‘अग्नये स्वाहा कृत्तिक�
 
 +++
 
+<details open><summary>व्याहृति-त्रयम् (श्रीनिवास-देशिकोक्तम्)</summary>
+
+व्याहृतित्रयं
+</details>
+
+
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/3/1/naxatra-upahomAH">
 <details open><summary><h4>UNKNOWN_TITLE ...{Loading}...</h4></summary>
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
