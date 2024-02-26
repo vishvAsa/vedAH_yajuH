@@ -24,15 +24,15 @@ title = "०३ भग प्रणेतर्भग"
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+############ Strata
 Cretic
 
-######## Pāda-label
+############ Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-######## Morph
+############ Morph
 bhága ← bhága- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -230,7 +230,7 @@ _____________
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+########### English translation:
 
 “**Bhaga**, chief leader of rites, Bhaga, faithful granting (our wishes), fructify ceremony, enrich us withcattle and horses; may we Bhaga, be eminent with **male** descendants and followers.”
 </details>

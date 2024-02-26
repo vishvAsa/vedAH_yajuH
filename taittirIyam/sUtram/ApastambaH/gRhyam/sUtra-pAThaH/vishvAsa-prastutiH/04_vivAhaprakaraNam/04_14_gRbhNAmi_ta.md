@@ -7,8 +7,8 @@ title = "०४ १४ गृभ्णामि त"
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_03/03_gRbhNAmi_te.md">
 <details open><summary><h2>०३ गृभ्णामि ते ...{Loading}...</h2></summary>
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/36_gRbhNAmi_te.md">
-<details open=""><summary><h4>३६ गृभ्णामि ते ...{Loading}...</h4></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/36_gRbhNAmi_te.md">
+<details open><summary><h4>३६ गृभ्णामि ते ...{Loading}...</h4></summary>
 
 गृ॒भ्णा+++(ह्णा)+++मि॑ ते सुप्रजा॒स्त्वाय॒ हस्तं॒  
 मया॒ पत्या॑ ज॒रद॑ष्टि॒र् यथा ऽसः॑ ।  

@@ -57,14 +57,14 @@ title = "१४ ०२ ब्राह्मणान् भोजयित्�
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/05_yastvA_hRdA.md">
 <details open><summary><h2>०५ यस्त्वा हृदा ...{Loading}...</h2></summary>
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/004/10_yastvA_hRdA.md">
-<details open=""><summary><h4>१० यस्त्वा हृदा ...{Loading}...</h4></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/004/10_yastvA_hRdA.md">
+<details open><summary><h4>१० यस्त्वा हृदा ...{Loading}...</h4></summary>
 
 
-यस् त्वा॑ हृ॒दा की॒रिणा॒ +++(=स्तत्रिणा)+++ मन्य॑मा॒नो  
-ऽम॑र्त्यं॒ मर्त्यो॒ जोह॑वीमि ।  
-जात॑वेदो॒ यशो॑ अ॒स्मासु॑ धेहि  
-प्र॒जाभि॑र् अग्ने अमृत॒त्वम् अ॑श्याम् ॥
+यस् **त्वा॑** हृ॒दा की॒रिणा॒ +++(=स्तोत्रिणा)+++ मन्य॑मा॒नो  
+ऽम॑र्त्यं॒ मर्त्यो॒ **जोह॑वीमि** ।  
+जात॑वेदो॒ **यशो॑** अ॒स्मासु॑ **धेहि**  
+प्र॒जाभि॑र् अग्ने **अमृत॒त्वम् अ॑श्याम्** ॥
 
 </details>
 </div>
@@ -72,8 +72,8 @@ title = "१४ ०२ ब्राह्मणान् भोजयित्�
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/06_yasmai_tvam.md">
 <details open><summary><h2>०६ यस्मै त्वम् ...{Loading}...</h2></summary>
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/004/11_yasmai_tvaM.md">
-<details open=""><summary><h4>११ यस्मै त्वं ...{Loading}...</h4></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/004/11_yasmai_tvaM.md">
+<details open><summary><h4>११ यस्मै त्वं ...{Loading}...</h4></summary>
 
 
 यस्मै॒ त्वꣳ सु॒कृते॑ जातवेद॒ उ  
@@ -87,8 +87,8 @@ title = "१४ ०२ ब्राह्मणान् भोजयित्�
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/07_tve_su.md">
 <details open><summary><h2>०७ त्वे सु ...{Loading}...</h2></summary>
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/092/14_tve_su.md">
-<details open=""><summary><h4>१४ त्वे सु ...{Loading}...</h4></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/092/14_tve_su.md">
+<details open><summary><h4>१४ त्वे सु ...{Loading}...</h4></summary>
 
 
 त्वे सु पु॑त्त्र शव॒सो  
@@ -101,8 +101,8 @@ title = "१४ ०२ ब्राह्मणान् भोजयित्�
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/08_ukthaukthe_soma.md">
 <details open><summary><h2>०८ उक्थउक्थे सोम ...{Loading}...</h2></summary>
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/026/02_ukthaukthe_soma.md">
-<details open=""><summary><h4>०२ उक्थौक्थे सोम ...{Loading}...</h4></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/026/02_ukthaukthe_soma.md">
+<details open><summary><h4>०२ उक्थौक्थे सोम ...{Loading}...</h4></summary>
 
 
 

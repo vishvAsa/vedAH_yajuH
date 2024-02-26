@@ -13,18 +13,19 @@ title = "१८ १२ उत्तरैरुपस्थायापः"
 
 
 
-तक्ष॑क॒ वैशा॑लेय- धृ॒तरा॑ष्ट्रैरावत॒स् ते जी॑वा॒स्,  
-त्वयि॑ नस्स॒तस्+++(=आश्रितान्)+++, त्वयि॑ स॒द्भ्यो +++(सर्पेभ्यो)+++, व॒र्षाभ्यो॑ नः॒ परि॑देहि ।  
-धृ॒तरा॑ष्ट्रैरावत॒ तक्ष॑क॒स्ते वै॑शाले॒यो जी॑वा॒स् …।  
-
+तक्ष॑क॒, वैशा॑लेय- धृ॒तरा॑ष्ट्रैरावतस् ते जी॑वा॒स्,  
+त्वयि॑ नस् स॒तस्, त्वयि॑ स॒द्भ्यो +++(सर्पेभ्यो)+++, व॒र्षाभ्यो॑ नः॒ परि॑देहि ।  
+धृ॒तरा॑ष्ट्रैरावत॒ तक्ष॑कस् ते वै॑शाले॒यो जी॑वा॒स् …।  
++++(स्वरः शोधितः।)+++
 </details>
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/11_-12_ahiMsAtibalaste_jIvAstvayi.md">
 <details open><summary><h2>११ -१२ अहिंसातिबलस्ते जीवास्त्वयि ...{Loading}...</h2></summary>
 
 
-अ॒हि॒ꣳ॒सा॒ति॒ब॒लस्ते जी॑वा॒स् …।  
-अ॒ति॒ब॒ला॒हि॒ꣳ॒सस्ते जी॑वा॒स्  …।  
+अहि॑ꣳसातिब॒लस्ते जी॑वा॒स् …।  
+अति॑बलाहि॒ꣳ॒सस्ते जी॑वा॒स्  …।  
++++(व्यस्तप्रयोगे सम्बोधन इह स्वरव्यत्ययः।)+++
 
 </details>
 </div>
@@ -45,9 +46,14 @@ title = "१८ १२ उत्तरैरुपस्थायापः"
 
 
 स॒मीची॒ नामा॑सि॒ प्राची॒ दिक्। तस्या॑स् ते॒ ऽग्निर् अधि॑पतिर्, असि॒तो र॑क्षि॒ता।  
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/yash_chAdhipatiH.md">
+<details open><summary><h7>यश् चाधि॑पति॒र् ...{Loading}...</h7></summary>
+
 यश् चाधि॑पति॒र्, यश् च॑ गो॒प्ता - ताभ्यां॒ नम॒स्, तौ नो॑ मृडयताम्।  
 ते यं द्वि॒ष्मो, यश् च॑ नो॒ द्वेष्टि॒ - तं वां॒ जंभे॑ दधामि ।
-
+</details>
+</div>
 </details>
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/15_-19_ojasvinI_nAmAsi.md">
@@ -56,27 +62,62 @@ title = "१८ १२ उत्तरैरुपस्थायापः"
 ### मन्त्रः
 
 
-ओ॒ज॒स्विनी॒ नामा॑सि दक्षि॒णा दिक्तस्या॑स्त॒ इन्द्रोऽधि॑पतिः पृदा॑कू र॑क्षि॒ता  
+ओ॒ज॒स्विनी॒ नामा॑सि दक्षि॒णा दिक्।  
+तस्या॑स् त॒ इन्द्रोऽधि॑पतिः, पृदा॑कू र॑क्षि॒ता  
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/yash_chAdhipatiH.md">
+<details open><summary><h7>यश् चाधि॑पति॒र् ...{Loading}...</h7></summary>
+
 यश् चाधि॑पति॒र्, यश् च॑ गो॒प्ता - ताभ्यां॒ नम॒स्, तौ नो॑ मृडयताम्।  
 ते यं द्वि॒ष्मो, यश् च॑ नो॒ द्वेष्टि॒ - तं वां॒ जंभे॑ दधामि ।
+</details>
+</div>  
 
-प्राची॒ नामा॑सि प्र॒तीची॒ दिक्तस्या॑स्ते॒ सोमोऽधि॑पतिः स्व॒जो र॑क्षि॒ता  
+
+प्राची॒ नामा॑सि प्र॒तीची॒ दिक्।  
+तस्या॑स् ते॒ सोमोऽधि॑पतिः स्व॒जो र॑क्षि॒ता  
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/yash_chAdhipatiH.md">
+<details open><summary><h7>यश् चाधि॑पति॒र् ...{Loading}...</h7></summary>
+
 यश् चाधि॑पति॒र्, यश् च॑ गो॒प्ता - ताभ्यां॒ नम॒स्, तौ नो॑ मृडयताम्।  
 ते यं द्वि॒ष्मो, यश् च॑ नो॒ द्वेष्टि॒ - तं वां॒ जंभे॑ दधामि ।
+</details>
+</div>  
 
-अ॒व॒स्थावा॒ नामा॒स्युदी॑ची॒ दिक्तस्या॑स्ते॒ वरु॑णोऽधि॑पतिस्ति॒रश्च॑राजी र॑क्षि॒ता  
+अ॒व॒स्थावा॒ नामा॒स्युदी॑ची॒ दिक्।  
+तस्या॑स् ते॒ वरु॑णोऽधि॑पतिस् ति॒रश्च॑राजी र॑क्षि॒ता  
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/yash_chAdhipatiH.md">
+<details open><summary><h7>यश् चाधि॑पति॒र् ...{Loading}...</h7></summary>
+
 यश् चाधि॑पति॒र्, यश् च॑ गो॒प्ता - ताभ्यां॒ नम॒स्, तौ नो॑ मृडयताम्।  
 ते यं द्वि॒ष्मो, यश् च॑ नो॒ द्वेष्टि॒ - तं वां॒ जंभे॑ दधामि ।
+</details>
+</div>  
 
 
-अधि॑पत्नी॒ नामा॑सि बृह॒ती दिक्तस्या॑स्ते॒ बृह॒स्पति॒रधि॑पतिः श्वि॒त्रो र॑क्षि॒ता  
+अधि॑पत्नी॒ नामा॑सि बृह॒ती दिक्।  
+तस्या॑स् ते॒ बृह॒स्पति॒र् अधि॑पतिः श्वि॒त्रो र॑क्षि॒ता  
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/yash_chAdhipatiH.md">
+<details open><summary><h7>यश् चाधि॑पति॒र् ...{Loading}...</h7></summary>
+
 यश् चाधि॑पति॒र्, यश् च॑ गो॒प्ता - ताभ्यां॒ नम॒स्, तौ नो॑ मृडयताम्।  
 ते यं द्वि॒ष्मो, यश् च॑ नो॒ द्वेष्टि॒ - तं वां॒ जंभे॑ दधामि ।
+</details>
+</div>  
 
-व॒शिनी॒ नामा॑सी॒यं दिक्तस्या॑स्ते॒ य॒मोऽधि॑पतिः क॒ल्माष॑ग्रीवो र॑क्षि॒ता  
+व॒शिनी॒ नामा॑सी॒यं दिक्।  
+तस्या॑स् ते॒ य॒मो ऽधि॑पतिः क॒ल्माष॑-ग्रीवो र॑क्षि॒ता  
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/yash_chAdhipatiH.md">
+<details open><summary><h7>यश् चाधि॑पति॒र् ...{Loading}...</h7></summary>
+
 यश् चाधि॑पति॒र्, यश् च॑ गो॒प्ता - ताभ्यां॒ नम॒स्, तौ नो॑ मृडयताम्।  
-ते यं द्वि॒ष्मो, यश् च॑ नो॒ द्वेष्टि॒ - तं वां॒ जंभे॑ दधामि ॥
-
+ते यं द्वि॒ष्मो, यश् च॑ नो॒ द्वेष्टि॒ - तं वां॒ जंभे॑ दधामि ।
+</details>
+</div>
 </details>
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/20_-25_hetayo_nAmastha.md">
@@ -85,23 +126,201 @@ title = "१८ १२ उत्तरैरुपस्थायापः"
 
 हे॒तयो॒ नाम॑ स्थ॒, तेषां॑ वः पु॒रो गृ॒हा, अ॒ग्निर् व॒ इष॑वः, सलि॒लो वा॑त-ना॒मम्।  
 +++(वाताशिनो हि सर्पाः। तस्य वातस्य नमयिता = उपस्थापयिता। नपुंसकलिङ्गं सामान्यविवक्षायाः।)+++  
-तेभ्यो॑ वो॒ नम॒स्, ते नो॑ मृडयत॒, ते यं द्वि॒ष्मो यश्च॑ नो॒ द्वेष्टि॒ तं वो॒ जंभे॑ दधमि।  
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/tebhyo_vo_namaH.md">
+<details open><summary><h9>Tebhyo vo nama H ...{Loading}...</h9></summary>
+
+
+तेभ्यो॑ वो॒ नम॒स्, ते नो॑ मृडयत।
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/te_yaM_dviShmaH.md">
+<details open><summary><h14>ते यं द्विष्मः ...{Loading}...</h14></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ते यन् **द्वि॒ष्मो**  
+यश्च॑ नो॒ **द्वेष्टि॒**  
+तव्ँ वो॒ **जम्भे॑ दधामि** ॥
+</details>
+<details><summary>Keith</summary>
+
+him whom we hate and him who hateth us, I place him within your jaws.
+</details>
+<details><summary>मूलम्</summary>
+
+ते यन्द्वि॒ष्मो यश्च॑ नो॒ द्वेष्टि॒ तव्ँवो॒ जम्भे॑ दधामि
+</details>
+<details><summary>सायण-टीका</summary>
+
+ते च वयं नगस्कृतरुद्राः सन्तो यं वैरिणं तूष्णीमवस्थितमपि द्विष्मः, यश्च वैरी नोऽस्मांस्तुष्णीमवस्थितानपि द्वेष्टि तमुभयविधं वैरिणं हे रुद्रा वो युष्माकं जम्मे विदारितास्ये दधामि स्थापयामि।
+</details>
+</details>
+</div>
+</details>
+</div>  
+
+
 
 नि॒लि॒म्पा नाम॑ स्थ॒, तेषां॑ वो दक्षि॒णा गृ॒हा, पि॒तरो॑ व॒ इष॑वः॒, सग॑रो वात-ना॒मम्।  
-तेभ्यो॑ वो॒ नम॒स्, ते नो॑ मृडयत॒, ते यं द्वि॒ष्मो यश्च॑ नो॒ द्वेष्टि॒ तं वो॒ जंभे॑ दधमि  ।
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/tebhyo_vo_namaH.md">
+<details open><summary><h9>Tebhyo vo nama H ...{Loading}...</h9></summary>
+
+
+तेभ्यो॑ वो॒ नम॒स्, ते नो॑ मृडयत।
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/te_yaM_dviShmaH.md">
+<details open><summary><h14>ते यं द्विष्मः ...{Loading}...</h14></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ते यन् **द्वि॒ष्मो**  
+यश्च॑ नो॒ **द्वेष्टि॒**  
+तव्ँ वो॒ **जम्भे॑ दधामि** ॥
+</details>
+<details><summary>Keith</summary>
+
+him whom we hate and him who hateth us, I place him within your jaws.
+</details>
+<details><summary>मूलम्</summary>
+
+ते यन्द्वि॒ष्मो यश्च॑ नो॒ द्वेष्टि॒ तव्ँवो॒ जम्भे॑ दधामि
+</details>
+<details><summary>सायण-टीका</summary>
+
+ते च वयं नगस्कृतरुद्राः सन्तो यं वैरिणं तूष्णीमवस्थितमपि द्विष्मः, यश्च वैरी नोऽस्मांस्तुष्णीमवस्थितानपि द्वेष्टि तमुभयविधं वैरिणं हे रुद्रा वो युष्माकं जम्मे विदारितास्ये दधामि स्थापयामि।
+</details>
+</details>
+</div>
+</details>
+</div>  
 
 व॒ज्रिणो॒ नाम॑ स्थ॒, तेषां॑ वः प॒श्चाद् गृ॒हा, स्वप्नो॑ व॒ इष॑वो॒, गह्व॑रो वात-ना॒मम्।  
-तेभ्यो॑ वो॒ नम॒स्, ते नो॑ मृडयत॒, ते यं द्वि॒ष्मो यश्च॑ नो॒ द्वेष्टि॒ तं वो॒ जंभे॑ दधमि  ।
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/tebhyo_vo_namaH.md">
+<details open><summary><h9>Tebhyo vo nama H ...{Loading}...</h9></summary>
+
+
+तेभ्यो॑ वो॒ नम॒स्, ते नो॑ मृडयत।
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/te_yaM_dviShmaH.md">
+<details open><summary><h14>ते यं द्विष्मः ...{Loading}...</h14></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ते यन् **द्वि॒ष्मो**  
+यश्च॑ नो॒ **द्वेष्टि॒**  
+तव्ँ वो॒ **जम्भे॑ दधामि** ॥
+</details>
+<details><summary>Keith</summary>
+
+him whom we hate and him who hateth us, I place him within your jaws.
+</details>
+<details><summary>मूलम्</summary>
+
+ते यन्द्वि॒ष्मो यश्च॑ नो॒ द्वेष्टि॒ तव्ँवो॒ जम्भे॑ दधामि
+</details>
+<details><summary>सायण-टीका</summary>
+
+ते च वयं नगस्कृतरुद्राः सन्तो यं वैरिणं तूष्णीमवस्थितमपि द्विष्मः, यश्च वैरी नोऽस्मांस्तुष्णीमवस्थितानपि द्वेष्टि तमुभयविधं वैरिणं हे रुद्रा वो युष्माकं जम्मे विदारितास्ये दधामि स्थापयामि।
+</details>
+</details>
+</div>
+</details>
+</div>  
 
 अ॒वस्थावा॑नो॒ नाम॑ स्थ॒, तेषां॑ व उत्त॒रद् गृ॒हा, आपो॑ व॒ इषवः॒, समु॒द्रो वा॑तना॒मम्।  
-तेभ्यो॑ वो॒ नम॒स्, ते नो॑ मृडयत॒, ते यं द्वि॒ष्मो यश्च॑ नो॒ द्वेष्टि॒ तं वो॒ जंभे॑ दधमि  ।
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/tebhyo_vo_namaH.md">
+<details open><summary><h9>Tebhyo vo nama H ...{Loading}...</h9></summary>
+
+
+तेभ्यो॑ वो॒ नम॒स्, ते नो॑ मृडयत।
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/te_yaM_dviShmaH.md">
+<details open><summary><h14>ते यं द्विष्मः ...{Loading}...</h14></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ते यन् **द्वि॒ष्मो**  
+यश्च॑ नो॒ **द्वेष्टि॒**  
+तव्ँ वो॒ **जम्भे॑ दधामि** ॥
+</details>
+<details><summary>Keith</summary>
+
+him whom we hate and him who hateth us, I place him within your jaws.
+</details>
+<details><summary>मूलम्</summary>
+
+ते यन्द्वि॒ष्मो यश्च॑ नो॒ द्वेष्टि॒ तव्ँवो॒ जम्भे॑ दधामि
+</details>
+<details><summary>सायण-टीका</summary>
+
+ते च वयं नगस्कृतरुद्राः सन्तो यं वैरिणं तूष्णीमवस्थितमपि द्विष्मः, यश्च वैरी नोऽस्मांस्तुष्णीमवस्थितानपि द्वेष्टि तमुभयविधं वैरिणं हे रुद्रा वो युष्माकं जम्मे विदारितास्ये दधामि स्थापयामि।
+</details>
+</details>
+</div>
+</details>
+</div>  
 
 अधि॑पतयो॒ नाम॑ स्थ॒, तेषां॑ व उ॒परि॑ गृ॒हा, व॒र्षं व॒ इष॒वो, ऽव॑स्वान् वात-ना॒मम्।  
-तेभ्यो॑ वो॒ नम॒स्, ते नो॑ मृडयत॒, ते यं द्वि॒ष्मो यश्च॑ नो॒ द्वेष्टि॒ तं वो॒ जंभे॑ दधमि  ।
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/tebhyo_vo_namaH.md">
+<details open><summary><h9>Tebhyo vo nama H ...{Loading}...</h9></summary>
+
+
+तेभ्यो॑ वो॒ नम॒स्, ते नो॑ मृडयत।
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/te_yaM_dviShmaH.md">
+<details open><summary><h14>ते यं द्विष्मः ...{Loading}...</h14></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ते यन् **द्वि॒ष्मो**  
+यश्च॑ नो॒ **द्वेष्टि॒**  
+तव्ँ वो॒ **जम्भे॑ दधामि** ॥
+</details>
+<details><summary>Keith</summary>
+
+him whom we hate and him who hateth us, I place him within your jaws.
+</details>
+<details><summary>मूलम्</summary>
+
+ते यन्द्वि॒ष्मो यश्च॑ नो॒ द्वेष्टि॒ तव्ँवो॒ जम्भे॑ दधामि
+</details>
+<details><summary>सायण-टीका</summary>
+
+ते च वयं नगस्कृतरुद्राः सन्तो यं वैरिणं तूष्णीमवस्थितमपि द्विष्मः, यश्च वैरी नोऽस्मांस्तुष्णीमवस्थितानपि द्वेष्टि तमुभयविधं वैरिणं हे रुद्रा वो युष्माकं जम्मे विदारितास्ये दधामि स्थापयामि।
+</details>
+</details>
+</div>
+</details>
+</div>  
 
 क्र॒व्या नाम॑ स्थ॒ पार्थि॑वास्, तेषां॑ व इ॒ह गृ॒हा, अन्नं॑ व॒ इष॑वो, निमि॒षो वा॑तना॒मम्।  
-तेभ्यो॑ वो॒ नम॒स्, ते नो॑ मृडयत॒, ते यं द्वि॒ष्मो यश्च॑ नो॒ द्वेष्टि॒ तं वो॒ जंभे॑ दधमि  ।
 
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/tebhyo_vo_namaH.md">
+<details open><summary><h9>Tebhyo vo nama H ...{Loading}...</h9></summary>
+
+
+तेभ्यो॑ वो॒ नम॒स्, ते नो॑ मृडयत।
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/te_yaM_dviShmaH.md">
+<details open><summary><h14>ते यं द्विष्मः ...{Loading}...</h14></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ते यन् **द्वि॒ष्मो**  
+यश्च॑ नो॒ **द्वेष्टि॒**  
+तव्ँ वो॒ **जम्भे॑ दधामि** ॥
+</details>
+<details><summary>Keith</summary>
+
+him whom we hate and him who hateth us, I place him within your jaws.
+</details>
+<details><summary>मूलम्</summary>
+
+ते यन्द्वि॒ष्मो यश्च॑ नो॒ द्वेष्टि॒ तव्ँवो॒ जम्भे॑ दधामि
+</details>
+<details><summary>सायण-टीका</summary>
+
+ते च वयं नगस्कृतरुद्राः सन्तो यं वैरिणं तूष्णीमवस्थितमपि द्विष्मः, यश्च वैरी नोऽस्मांस्तुष्णीमवस्थितानपि द्वेष्टि तमुभयविधं वैरिणं हे रुद्रा वो युष्माकं जम्मे विदारितास्ये दधामि स्थापयामि।
+</details>
+</details>
+</div>
+</details>
+</div>
 </details>
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/26_apashvetapadA_jahi.md">

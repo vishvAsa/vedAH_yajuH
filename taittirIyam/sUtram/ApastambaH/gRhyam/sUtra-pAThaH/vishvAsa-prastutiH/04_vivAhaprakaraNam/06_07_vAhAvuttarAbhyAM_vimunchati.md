@@ -7,8 +7,8 @@ title = "०६ ०७ वाहावुत्तराभ्यां वि�
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_07/14_A_vAmagantsumatirvAjinI.md">
 <details open><summary><h2>१४ आ वामगन्त्सुमतिर्वाजिनी ...{Loading}...</h2></summary>
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/040/12_A_vAmagantsumatirvAjinIvasU.md">
-<details open=""><summary><h4>१२ आ वामगन्त्सुमतिर्वाजिनीवसू ...{Loading}...</h4></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/040/12_A_vAmagantsumatirvAjinIvasU.md">
+<details open><summary><h4>१२ आ वामगन्त्सुमतिर्वाजिनीवसू ...{Loading}...</h4></summary>
 
 
 आ वा॑म् अगन्त् सुम॒तिर्, वा॑जिनी+++(=अश्वी)+++वसू॒  

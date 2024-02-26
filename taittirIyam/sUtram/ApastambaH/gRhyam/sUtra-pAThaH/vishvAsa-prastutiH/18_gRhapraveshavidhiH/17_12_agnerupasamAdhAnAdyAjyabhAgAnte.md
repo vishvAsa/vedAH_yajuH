@@ -6,8 +6,8 @@ title = "१७ १२ अग्नेरुपसमाधानाद्या
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/18_vAstoShpate_prati.md">
 <details open><summary><h2>१८ वास्तोष्पते प्रति ...{Loading}...</h2></summary>
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/054/01_vAstoShpate_prati.md">
-<details open=""><summary><h4>०१ वास्तोष्पते प्रति ...{Loading}...</h4></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/054/01_vAstoShpate_prati.md">
+<details open><summary><h4>०१ वास्तोष्पते प्रति ...{Loading}...</h4></summary>
 
 
 वास्तो॑ष्पते॒ प्रति॑ जानीह्य् अ॒स्मान्त्  
@@ -21,12 +21,12 @@ title = "१७ १२ अग्नेरुपसमाधानाद्या
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/19_vAstoShpate_shagmayA.md">
 <details open><summary><h2>१९ वास्तोष्पते शग्मया ...{Loading}...</h2></summary>
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/054/03_vAstoShpate_shagmayA.md">
-<details open=""><summary><h4>०३ वास्तोष्पते शग्मया ...{Loading}...</h4></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/054/03_vAstoShpate_shagmayA.md">
+<details open><summary><h4>०३ वास्तोष्पते शग्मया ...{Loading}...</h4></summary>
 
 
 वास्तो॑ष्पते श॒ग्मया॑+++(=सुखया)+++ स॒ꣳ॒सदा॑ ते  
-सक्षी॒महि॑+++(←सच समवाये)+++ र॒ण्वया॑+++(=रममाणया)+++ गातु॒मत्या॑+++(=गामिन्या)+++ ।  
+सक्षी॒महि॑+++(←सच समवाये)+++ र॒ण्वया॑+++(=रममाणया)+++ गातु॒मत्या॑+++(=गामिन्या)+++) ।  
 आवः॒ क्षेम॑+++(य्=लब्धस्य रक्षणे)+++ उ॒त योगे॒+++(=अलब्धस्य लाभे)+++ वरं॑ नो  
 +++(हे विश्वेदेवाः)+++ यू॒यम् पा॑त स्व॒स्तिभिः॒ सदा॑ नः ।  
 
@@ -36,8 +36,8 @@ title = "१७ १२ अग्नेरुपसमाधानाद्या
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/20_vAstoShpate_prataraNo.md">
 <details open><summary><h2>२० वास्तोष्पते प्रतरणो ...{Loading}...</h2></summary>
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/054/02_vAstoShpate_prataraNo.md">
-<details open=""><summary><h4>०२ वास्तोष्पते प्रतरणो ...{Loading}...</h4></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/054/02_vAstoShpate_prataraNo.md">
+<details open><summary><h4>०२ वास्तोष्पते प्रतरणो ...{Loading}...</h4></summary>
 
 
 वास्तो॑ष्पते प्र॒तर॑णो न एधि॒  
@@ -51,8 +51,8 @@ title = "१७ १२ अग्नेरुपसमाधानाद्या
 </div>
 <div class="js_include bg-light-yellow" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/21_amIvahA_vAstoShpate.md">
 <details open><summary><h2>२१ अमीवहा वास्तोष्पते ...{Loading}...</h2></summary>
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/055/01_amIvahA_vAstoShpate.md">
-<details open=""><summary><h4>०१ अमीवहा वास्तोष्पते ...{Loading}...</h4></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/055/01_amIvahA_vAstoShpate.md">
+<details open><summary><h4>०१ अमीवहा वास्तोष्पते ...{Loading}...</h4></summary>
 
 
 अ॒मी॒व॒हा+++(=व्याधिहा)+++ वास्तो॑ष्पते॒  

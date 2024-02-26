@@ -22,8 +22,8 @@ title = "०५ २३ आरोहतीमुत्तराभिरभिम
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_06/06_samrAjnI_shvashure.md">
 <details open><summary><h2>०६ सम्राज्ञी श्वशुरे ...{Loading}...</h2></summary>
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/46_samrAjnI_shvashure.md">
-<details open=""><summary><h4>४६ सम्राज्ञी श्वशुरे ...{Loading}...</h4></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/46_samrAjnI_shvashure.md">
+<details open><summary><h4>४६ सम्राज्ञी श्वशुरे ...{Loading}...</h4></summary>
 
 
 स॒म्राज्ञी॒ श्वशु॑रे भव  

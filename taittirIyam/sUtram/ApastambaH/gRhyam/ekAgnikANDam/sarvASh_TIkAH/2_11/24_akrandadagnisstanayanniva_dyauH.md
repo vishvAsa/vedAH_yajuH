@@ -24,15 +24,15 @@ title = "२४ अक्रन्ददग्निस्स्तनयन्�
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+############ Strata
 Cretic
 
-######## Pāda-label
+############ Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-######## Morph
+############ Morph
 agníḥ ← agní- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -217,7 +217,7 @@ ródasī ← ródasī- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+########### English translation:
 
 “**Agni** cries aloud like the thundering heaven; he licks the earth burning the plural nts; as soon asgenerated, he contemplates this (conflagration); when kindled he blazes with his (own) radiance between heavenand earth.”
 </details>

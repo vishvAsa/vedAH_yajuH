@@ -11,12 +11,12 @@ title = "०१ हिरण्यवर्णाश्शुचयः पाव
 <details open><summary><h2>०१ हिरण्यवर्णाः शुचयः ...{Loading}...</h2></summary>
 <details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Of golden color, clean (*śúci*), purifying, in whom \[was\] born  
 Savitar, in whom Agni; who, of beauteous color, assumed Agni as  
 embryo—let those waters be weal, pleasant to us.
 
-#### Notes
+##### Notes
 ⌊in c, for *dadhiré,* better, 'conceived'?⌋ TS. and MS. read in **b**  
 *jātáḥ kaśyápo yā́sv índraḥ;* and Ppp. agrees with them; MP. has *agníḥ*  
 instead of *índraḥ*. In **c** TS. MS. give *vírūpās* for *suvarṇās;* and  

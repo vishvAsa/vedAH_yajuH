@@ -7,8 +7,8 @@ title = "०५ २६ तीर्थस्थाणुचतुष्पथव
 ## तीर्थादिव्यतिक्रमे जपः  
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_07/01_tAmandasAnA_manuSho.md">
 <details open><summary><h2>०१ तामन्दसाना मनुषो ...{Loading}...</h2></summary>
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/040/13_tA_mandasAnA.md">
-<details open=""><summary><h4>१३ ता मन्दसाना ...{Loading}...</h4></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/040/13_tA_mandasAnA.md">
+<details open><summary><h4>१३ ता मन्दसाना ...{Loading}...</h4></summary>
 
 
 ता+++(=तौ)+++ म॑न्दसा॒ना+++(=स्तूयमानौ)+++ मनु॑षो दुरो॒ण+++(=गृहे)+++  

@@ -5,24 +5,24 @@ title = "१५ ०१ जातं वात्सप्रेणाभिम�
 जातं +++(=जातमात्रम्, "प्राङ्नाभिवर्धनात्पुंसो जातकर्म विधीयते")+++ वात्सप्रेण +++(=दिवसस्परीत्येषः)+++ +अभिमृश्य,  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/21_divas_pari.md">
-<details open><summary><h2>२१ दिवस् परि ...{Loading}...</h2></summary>
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/01_divaspari_prathamaM.md">
-<details open=""><summary><h4>०१ दिवस्परि प्रथमं ...{Loading}...</h4></summary>
+<details open><summary><h5>२१ दिवस् परि ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/01_divaspari_prathamaM.md">
+<details open><summary><h7>०१ दिवस्परि प्रथमं ...{Loading}...</h7></summary>
 
 
 दि॒वस् परि॑ प्रथ॒मं ज॑ज्ञे अ॒ग्निर्  
 अ॒स्मद् द्वि॒तीय॒म् परि॑ जा॒तवे॑दाः ।  
-तृ॒तीय॑म॒प्सु नृ॒मणा॒ अज॑स्र॒म्  
-इन्धा॑न एनं जरते स्वा॒धीः ।  
+तृ॒तीय॑म् अ॒प्सु नृ॒-मणा॒ अज॑स्र॒म्  
+इन्धा॑न एनं जरते+++(=स्तौति)+++ स्वा॒धीः+++(=सुप्रज्ञाता)+++ ।  
 
 </details>
 </div>
 </details>
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/22_vidmA_te.md">
-<details open><summary><h2>२२ विद्मा ते ...{Loading}...</h2></summary>
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/02_vidmA_te.md">
-<details open=""><summary><h4>०२ विद्मा ते ...{Loading}...</h4></summary>
+<details open><summary><h5>२२ विद्मा ते ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/02_vidmA_te.md">
+<details open><summary><h7>०२ विद्मा ते ...{Loading}...</h7></summary>
 
 
 +++(प्रतिज्ञा+ऋक्। अग्रिमायाम् उत्तरम्।)+++  
@@ -36,9 +36,9 @@ title = "१५ ०१ जातं वात्सप्रेणाभिम�
 </details>
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/23_samudre_tvA.md">
-<details open><summary><h2>२३ समुद्रे त्वा ...{Loading}...</h2></summary>
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/03_samudre_tvA.md">
-<details open=""><summary><h4>०३ समुद्रे त्वा ...{Loading}...</h4></summary>
+<details open><summary><h5>२३ समुद्रे त्वा ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/03_samudre_tvA.md">
+<details open><summary><h7>०३ समुद्रे त्वा ...{Loading}...</h7></summary>
 
 
 +++(प्राक्तनाया विस्तारः!)+++
@@ -52,9 +52,9 @@ title = "१५ ०१ जातं वात्सप्रेणाभिम�
 </details>
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/24_akrandadagnisstanayanniva_dyauH.md">
-<details open><summary><h2>२४ अक्रन्ददग्निस्स्तनयन्निव द्यौः ...{Loading}...</h2></summary>
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/04_akrandadagniH_stanayanniva.md">
-<details open=""><summary><h4>०४ अक्रन्ददग्निः स्तनयन्निव ...{Loading}...</h4></summary>
+<details open><summary><h5>२४ अक्रन्ददग्निस्स्तनयन्निव द्यौः ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/04_akrandadagniH_stanayanniva.md">
+<details open><summary><h7>०४ अक्रन्ददग्निः स्तनयन्निव ...{Loading}...</h7></summary>
 
 
 अक्र॑न्दद् अ॒ग्निः स्त॒नय॑न्निव॒ द्यौः  
@@ -67,28 +67,23 @@ title = "१५ ०१ जातं वात्सप्रेणाभिम�
 </details>
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/25_ushikpAvako_aratissumedhA.md">
-<details open><summary><h2>२५ उशिक्पावको अरतिस्सुमेधा ...{Loading}...</h2></summary>
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/07_ushikpAvako_aratiH.md">
-<details open=""><summary><h4>०७ उशिक्पावको अरतिः ...{Loading}...</h4></summary>
+<details open><summary><h5>२५ उशिक्पावको अरतिस्सुमेधा ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/07_ushikpAvako_aratiH.md">
+<details open><summary><h7>०७ उशिक्पावको अरतिः ...{Loading}...</h7></summary>
 
-
-उ॒शिक्पा॑व॒को अ॑र॒तिः सु॑मे॒धा मर्ते॑ष्व॒ग्निर॒मृतो॒ नि धा॑यि ।  
-इय॑र्ति धू॒मम॑रु॒षं भरि॑भ्र॒दुच्छु॒क्रेण॑ शो॒चिषा॒ द्यामिन॑क्षन् ॥
-
-
--  उ॒शिक् +++(=कामयिता)+++ पा॑व॒को अ॑र॒तिः +++(=गन्ता)+++ सु॑मे॒धा  
-   मर्ते॑ष्व् अ॒ग्निर् अ॒मृतो॒ निधा॑यि ।  
-   इय॑र्ति +++(=गमयति)+++ धू॒मम् अ॑रु॒षम् +++(=महत्)+++ भरि॑भ्र॒द्  
-   उच् छु॒क्रेण॑ शो॒चिषा॒ द्याम् इन॑क्षत् +++(=दीपयत्)+++।  
+उ॒शिक् +++(=कामयिता)+++ पा॑व॒को अ॑र॒तिः +++(=गन्ता)+++ सु॑मे॒धा  
+मर्ते॑ष्व् अ॒ग्निर् अ॒मृतो॒ निधा॑यि ।  
+इय॑र्ति +++(=गमयति)+++ धू॒मम् अ॑रु॒षम् +++(=महत्)+++ भरि॑भ्र॒द्  
+उच् छु॒क्रेण॑ शो॒चिषा॒ द्याम् इन॑क्षत् +++(=दीपयत्)+++।  
 
 </details>
 </div>
 </details>
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/26_vishvasya_keturbhuvanasya.md">
-<details open><summary><h2>२६ विश्वस्य केतुर्भुवनस्य ...{Loading}...</h2></summary>
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/06_vishvasya_keturbhuvanasya.md">
-<details open=""><summary><h4>०६ विश्वस्य केतुर्भुवनस्य ...{Loading}...</h4></summary>
+<details open><summary><h5>२६ विश्वस्य केतुर्भुवनस्य ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/06_vishvasya_keturbhuvanasya.md">
+<details open><summary><h7>०६ विश्वस्य केतुर्भुवनस्य ...{Loading}...</h7></summary>
 
 
 विश्व॑स्य के॒तुर् भुव॑नस्य॒ गर्भ॒  
@@ -101,9 +96,9 @@ title = "१५ ०१ जातं वात्सप्रेणाभिम�
 </details>
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/27_shrINAmudAro_dharuNo.md">
-<details open><summary><h2>२७ श्रीणामुदारो धरुणो ...{Loading}...</h2></summary>
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/05_shrINAmudAro_dharuNo.md">
-<details open=""><summary><h4>०५ श्रीणामुदारो धरुणो ...{Loading}...</h4></summary>
+<details open><summary><h5>२७ श्रीणामुदारो धरुणो ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/05_shrINAmudAro_dharuNo.md">
+<details open><summary><h7>०५ श्रीणामुदारो धरुणो ...{Loading}...</h7></summary>
 
 
 श्री॒णाम् उ॑दा॒रो ध॒रुणो॑ रयी॒णाम्  
@@ -116,9 +111,9 @@ title = "१५ ०१ जातं वात्सप्रेणाभिम�
 </details>
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/28_yaste_adya.md">
-<details open><summary><h2>२८ यस्ते अद्य ...{Loading}...</h2></summary>
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/09_yaste_adya.md">
-<details open=""><summary><h4>०९ यस्ते अद्य ...{Loading}...</h4></summary>
+<details open><summary><h5>२८ यस्ते अद्य ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/09_yaste_adya.md">
+<details open><summary><h7>०९ यस्ते अद्य ...{Loading}...</h7></summary>
 
 
 यस् ते॑ अ॒द्य कृ॒णव॑द् भद्रशोचे  
@@ -131,9 +126,9 @@ title = "१५ ०१ जातं वात्सप्रेणाभिम�
 </details>
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/29_tambhaja_saushravaseShvagna.md">
-<details open><summary><h2>२९ तम्भज सौश्रवसेष्वग्न ...{Loading}...</h2></summary>
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/10_A_taM.md">
-<details open=""><summary><h4>१० आ तं ...{Loading}...</h4></summary>
+<details open><summary><h5>२९ तम्भज सौश्रवसेष्वग्न ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/10_A_taM.md">
+<details open><summary><h7>१० आ तं ...{Loading}...</h7></summary>
 
 
 आ तम् भ॑ज सौश्रव॒सेष्व् +++(स्वन्नेषु [यागेषु])+++ अ॑ग्न  
@@ -146,9 +141,9 @@ title = "१५ ०१ जातं वात्सप्रेणाभिम�
 </details>
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/30_tvAmagne_yajamAnA.md">
-<details open><summary><h2>३० त्वामग्ने यजमाना ...{Loading}...</h2></summary>
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/11_tvAmagne_yajamAnA.md">
-<details open=""><summary><h4>११ त्वामग्ने यजमाना ...{Loading}...</h4></summary>
+<details open><summary><h5>३० त्वामग्ने यजमाना ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/11_tvAmagne_yajamAnA.md">
+<details open><summary><h7>११ त्वामग्ने यजमाना ...{Loading}...</h7></summary>
 
 
 त्वाम् अ॑ग्ने॒ यज॑माना॒ अनु॒ द्यून्  
@@ -161,9 +156,9 @@ title = "१५ ०१ जातं वात्सप्रेणाभिम�
 </details>
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/31_dRshAno_rukma.md">
-<details open><summary><h2>३१ दृशानो रुक्म ...{Loading}...</h2></summary>
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/08_dRshAno_rukma.md">
-<details open=""><summary><h4>०८ दृशानो रुक्म ...{Loading}...</h4></summary>
+<details open><summary><h5>३१ दृशानो रुक्म ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/08_dRshAno_rukma.md">
+<details open><summary><h7>०८ दृशानो रुक्म ...{Loading}...</h7></summary>
 
 
 दृ॒शा॒नो रु॒क्म +++(=रोचमानः)+++ उ॒र्व्या +++(=महत्या)+++ व्य॑द्यौद्,  
@@ -181,7 +176,7 @@ title = "१५ ०१ जातं वात्सप्रेणाभिम�
 उत्तरेण यजुषोपस्थ आधाय +++(="अस्मिन्नह"मित्यनेन)+++,  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/32_asminnahaM_sahasram.md">
-<details open><summary><h2>३२ अस्मिन्नहं सहस्रम् ...{Loading}...</h2></summary>
+<details open><summary><h5>३२ अस्मिन्नहं सहस्रम् ...{Loading}...</h5></summary>
 
 
 अ॒स्मिन्न॒हँस॒हस्रं॑ पुष्या॒म्येध॑मान॒स् स्वे वशे॑ ।
@@ -193,7 +188,7 @@ title = "१५ ०१ जातं वात्सप्रेणाभिम�
 उत्तराभ्याम् +++("अङ्गादङ्गाद्" इति)+++ अभिमन्त्रणं ,  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/33_angAdangAtsambhavasi_hRdayAdadhi.md">
-<details open><summary><h2>३३ अङ्गादङ्गात्सम्भवसि हृदयादधि ...{Loading}...</h2></summary>
+<details open><summary><h5>३३ अङ्गादङ्गात्सम्भवसि हृदयादधि ...{Loading}...</h5></summary>
 
 
 अङ्गा॑दङ्गा॒त्संभ॑वसि॒ हृद॑या॒दधि॑ जायसे ।  
@@ -207,7 +202,7 @@ title = "१५ ०१ जातं वात्सप्रेणाभिम�
 +++("अश्मा भवे"ति)+++  मूर्धन्यवघ्राणं,  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_12/01_ashmA_bhava.md">
-<details open><summary><h2>०१ अश्मा भव ...{Loading}...</h2></summary>
+<details open><summary><h5>०१ अश्मा भव ...{Loading}...</h5></summary>
 
 
 
@@ -222,7 +217,7 @@ title = "१५ ०१ जातं वात्सप्रेणाभिम�
 +++("मेधां त" इति)+++ दक्षिणे कर्णे जापः १  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_12/02_medhAnte_devassavitA.md">
-<details open><summary><h2>०२ मेधान्ते देवस्सविता ...{Loading}...</h2></summary>
+<details open><summary><h5>०२ मेधान्ते देवस्सविता ...{Loading}...</h5></summary>
 
 
 मे॒धान् ते॑ दे॒वस् स॑वि॒ता  

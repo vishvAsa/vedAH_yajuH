@@ -24,15 +24,15 @@ title = "२६ विश्वस्य केतुर्भुवनस्य
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+############ Strata
 Cretic
 
-######## Pāda-label
+############ Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
-######## Morph
+############ Morph
 bhúvanasya ← bhúvana- (nominal stem)  
 {case:GEN, gender:N, number:SG}
 
@@ -191,11 +191,11 @@ yát ← yá- (pronoun)
 ꣡</details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+########### English translation:
 
 “The manifester of all, the germ of the world, **Agni**, as soon as born fills heaven and earth (with light);he fractures as he advances the solid cloud, for which the classes of men praise him.”
 
-####### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+########### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Five classes: pañcajanāḥ = five men; or, the four chief priests and the **yajamāna**
 </details>

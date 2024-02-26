@@ -8,8 +8,8 @@ title = "१७ ०३ कॢप्तमुत्तरयाभिमृश्
 
 <div class="js_include bg-light-yellow" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/02_syonA_pRthivi.md">
 <details open><summary><h2>०२ स्योना पृथिवि ...{Loading}...</h2></summary>
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/022/15_syonA_pRthivi.md">
-<details open=""><summary><h4>१५ स्योना पृथिवि ...{Loading}...</h4></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/022/15_syonA_pRthivi.md">
+<details open><summary><h4>१५ स्योना पृथिवि ...{Loading}...</h4></summary>
 
 
 +++(अभिमृशति)+++  

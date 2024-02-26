@@ -7,8 +7,8 @@ title = "०५ ०९ आस्थापनम् पुनरपि"
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/08-11_tubhyamagre_paryavahanpunaH.md">
 <details open><summary><h2>०८-११ तुभ्यमग्रे पर्यवहन्पुनः ...{Loading}...</h2></summary>
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/38_tubhyamagre_paryavahantsUryAM.md">
-<details open=""><summary><h4>३८ तुभ्यमग्रे पर्यवहन्त्सूर्यां ...{Loading}...</h4></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/38_tubhyamagre_paryavahantsUryAM.md">
+<details open><summary><h4>३८ तुभ्यमग्रे पर्यवहन्त्सूर्यां ...{Loading}...</h4></summary>
 
 
 +++(सूर्या नाम सवितुर्दुहिता विवाहस्य अधिष्ठात्री देवता -  [सूर्यासूक्ते](../../AdityaH/Rk/raibhy_AsId_anudeyI/) दृश्या।)+++  
@@ -20,8 +20,8 @@ title = "०५ ०९ आस्थापनम् पुनरपि"
 
 </details>
 </div>
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/39_punaH_patnImagniradAdAyuShA.md">
-<details open=""><summary><h4>३९ पुनः पत्नीमग्निरदादायुषा ...{Loading}...</h4></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/39_punaH_patnImagniradAdAyuShA.md">
+<details open><summary><h4>३९ पुनः पत्नीमग्निरदादायुषा ...{Loading}...</h4></summary>
 
 पुनः॒ पत्नी॑म् अ॒ग्निर् अ॑दा॒द्  
 आयु॑षा स॒ह वर्च॑सा ।  
@@ -30,8 +30,8 @@ title = "०५ ०९ आस्थापनम् पुनरपि"
 
 </details>
 </div>
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/007/03_vishvA_uta.md">
-<details open=""><summary><h4>०३ विश्वा उत ...{Loading}...</h4></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/007/03_vishvA_uta.md">
+<details open><summary><h4>०३ विश्वा उत ...{Loading}...</h4></summary>
 
 विश्वा॑ उ॒त त्वया॑ व॒यं  
 धारा॑ उद॒न्या॑+++(=उदक-सम्बन्धिनीः)+++ इव ।  

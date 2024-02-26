@@ -22,8 +22,8 @@ title = "१० ०९ स्नातम् अग्नेर्"
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/02_AtiShThemamashmAnamashmeva_tva2m.md">
 <details open><summary><h2>०२ आतिष्ठेममश्मानमश्मेव त्व२म् ...{Loading}...</h2></summary>
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/01_AtiShThemamashmAnamashmeva_tva2m.md">
-<details open=""><summary><h4>०१ आतिष्ठेममश्मानमश्मेव त्व२म् ...{Loading}...</h4></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/01_AtiShThemamashmAnamashmeva_tva2m.md">
+<details open><summary><h4>०१ आतिष्ठेममश्मानमश्मेव त्व२म् ...{Loading}...</h4></summary>
 
 आति॑ष्ठे॒मम् अश्मा॑न॒म्  
 अश्मे॑व॒ त्व२ꣳ स्थि॒रा+++(रो पुंसि)+++ भ॑व ।  
