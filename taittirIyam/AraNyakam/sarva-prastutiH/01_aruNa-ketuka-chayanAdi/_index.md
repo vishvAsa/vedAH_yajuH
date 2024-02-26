@@ -1,5 +1,5 @@
 +++
-title = "+०१"
+title = "+०१ अरुण-केतुक-चयनादि"
 unicode_script = "devanagari"
 
 +++

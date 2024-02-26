@@ -1,6 +1,7 @@
 +++
-title = "+०७"
+title = "+०७ प्रवर्ग्यादि"
 unicode_script = "devanagari"
+
 +++
 
   

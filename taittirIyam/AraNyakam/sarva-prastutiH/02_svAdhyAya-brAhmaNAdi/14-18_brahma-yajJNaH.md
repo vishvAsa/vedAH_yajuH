@@ -1,5 +1,5 @@
 ---
-title: ब्रह्म-यज्ञः
+title: १४-१८ ब्रह्म-यज्ञः
 unicode_script: devanagari
 
 ---

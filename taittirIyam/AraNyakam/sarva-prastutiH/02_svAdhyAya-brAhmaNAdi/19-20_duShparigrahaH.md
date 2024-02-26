@@ -1,5 +1,5 @@
 ---
-title: १९-२० दुष्परिग्रहः दुर्याजनम्
+title: १९-२० दुष्परिग्रहः
 unicode_script: devanagari
 
 ---

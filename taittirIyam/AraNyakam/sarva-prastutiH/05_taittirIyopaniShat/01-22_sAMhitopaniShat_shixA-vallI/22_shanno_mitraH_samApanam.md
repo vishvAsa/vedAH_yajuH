@@ -1,5 +1,5 @@
 ---
-title: शन्नो मित्रः (समाप्तौ)
+title: २२ शन्नो मित्रः समापनम्
 unicode_script: devanagari
 
 ---

@@ -1,8 +1,8 @@
 ---
-title: अद्भ्यस् सम्भूतः
+title: ३९-४० अद्भ्यस् सम्भूतः
 unicode_script: devanagari
----
 
+---
 - सायणो [ऽत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_036_Taittiriya_Aranyakam_With_Sayana_Bhashya_Part_1_-_Babasastri_Phadke_1898#page/n197/mode/1up) ।
 
 ॥ उत्तरनारायणम् ॥
@@ -42,4 +42,3 @@ unicode_script: devanagari
 +++(अश्विनयोः खल्ववर्तत विशुवस्थानम् पुरा।)+++  
 
 इ॒ष्टम् म॑निषाण+++(=यच्छ)+++ । अ॒मुं +++(स्वर्लोकं)+++ म॑निषाण ।  सर्व॑म्  मनिषाण । ६
-

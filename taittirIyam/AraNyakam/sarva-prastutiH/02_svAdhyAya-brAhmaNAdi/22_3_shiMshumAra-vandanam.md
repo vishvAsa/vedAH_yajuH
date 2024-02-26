@@ -1,9 +1,9 @@
 ---
-title: २२-३ शिंशुमार-वन्दनम्
-unicode_script: devanagari
 practice_weight: 0
----
+title: २२ ३ शिंशुमार-वन्दनम्
+unicode_script: devanagari
 
+---
 {{< figure src="../../images/dolphin.jpg"  class="thumbnail">}}
 {{< figure src="../../images/precession_sky_chart.jpg"  class="thumbnail">}}
 
