@@ -99,7 +99,7 @@ title = "०५ भोजनम्"
 दक्षिणे पित्रर्थं ब्राह्मणं पूर्ववत् उपवेश्य,  
 गोमयेन अनुलिप्य
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/2/1/06_shan_no.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/06_shan_no.md">
 <details open><summary><h5>06 शन् नो ...{Loading}...</h5></summary>
 
 शन् नो॑ दे॒वीर् अ॒भिष्ट॑ये ।  

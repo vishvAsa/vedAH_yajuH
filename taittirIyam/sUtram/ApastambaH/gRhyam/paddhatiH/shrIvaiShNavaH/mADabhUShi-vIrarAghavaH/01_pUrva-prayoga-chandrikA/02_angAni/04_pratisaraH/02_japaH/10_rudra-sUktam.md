@@ -5,7 +5,7 @@ title = "१० रुद्र-सूक्तम्"
 ‘परिणो रुद्रस्य हेतिः’ ‘स्तुहि श्रुतं' 'मीढुष्टम' 'अर्हन् बिभर्षि' 'त्वमग्ने रुद्रः' 'आ वो राजानम्' इति रुद्रसूक्तं,
 
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/2/8/6_sAvitrAdi-pashu-sUktAni/05_rudraH_-_pari_No">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/2/8_kAmya-pashavaH/6_sAvitrAdi-pashu-sUktAni/05_rudraH_-_pari_No">
 <details open><summary><h5>०५ रुद्रः - परि णो ...{Loading}...</h5></summary>
 <details><summary>सायणोक्त-विनियोगः</summary>
 

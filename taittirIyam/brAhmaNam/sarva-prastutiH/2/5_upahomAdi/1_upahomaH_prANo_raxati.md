@@ -15,7 +15,7 @@ unicode_script = "devanagari"
 प्रपाठके पञ्चमेऽस्मिंस्तच्छेष उपवर्ण्यते ॥॥  २ ॥॥
 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="2" open unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/5/1/01_prANo_rakhShati.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" open unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/1/01_prANo_rakhShati.md">
 <details open><summary><h2>01 प्राणो रख्षति ...{Loading}...</h2></summary>
 
 प्रा॒णो **र॑ख्षति॒** विश्व॒म् **एज॑त्** ।  
@@ -24,7 +24,7 @@ unicode_script = "devanagari"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/2/5/1/01_prANo_rakhShati.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/2/5_upahomAdi/1/01_prANo_rakhShati.md">
 <details open><summary><h2>01 प्राणो रख्षति ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
@@ -41,7 +41,7 @@ unicode_script = "devanagari"
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" open unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/5/1/02_yo_devo.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" open unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/1/02_yo_devo.md">
 <details open><summary><h2>02 यो देवो ...{Loading}...</h2></summary>
 
 यो दे॒वो दे॒वेषु॑ वि॒भूर् अ॒न्तः ।  
@@ -55,7 +55,7 @@ unicode_script = "devanagari"
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/2/5/1/02_yo_devo.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/2/5_upahomAdi/1/02_yo_devo.md">
 <details open><summary><h2>02 यो देवो ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
@@ -73,7 +73,7 @@ unicode_script = "devanagari"
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" open unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/5/1/03_manasashchittedam.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" open unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/1/03_manasashchittedam.md">
 <details open><summary><h2>03 मनसश्चित्तेदम् ...{Loading}...</h2></summary>
 
 मन॑स॒श् चित्ता॑+इ॒दम् ।  
@@ -82,7 +82,7 @@ unicode_script = "devanagari"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/2/5/1/03_manasashchittedam.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/2/5_upahomAdi/1/03_manasashchittedam.md">
 <details open><summary><h2>03 मनसश्चित्तेदम् ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
@@ -99,7 +99,7 @@ unicode_script = "devanagari"
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" open unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/5/1/04_A_na.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" open unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/1/04_A_na.md">
 <details open><summary><h2>04 आ न ...{Loading}...</h2></summary>
 
 आ न॑ **एतु** पुरश् च॒रम् ।  
@@ -109,7 +109,7 @@ unicode_script = "devanagari"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/2/5/1/04_A_na.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/2/5_upahomAdi/1/04_A_na.md">
 <details open><summary><h2>04 आ न ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
@@ -128,7 +128,7 @@ unicode_script = "devanagari"
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" open unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/5/1/05_juShatAmme_vAgidam.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" open unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/1/05_juShatAmme_vAgidam.md">
 <details open><summary><h2>05 जुषताम्मे वागिदम् ...{Loading}...</h2></summary>
 
 **जु॒षता᳚म्** मे॒ वाग् इ॒दꣳ ह॒विः ।  
@@ -137,7 +137,7 @@ unicode_script = "devanagari"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/2/5/1/05_juShatAmme_vAgidam.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/2/5_upahomAdi/1/05_juShatAmme_vAgidam.md">
 <details open><summary><h2>05 जुषताम्मे वागिदम् ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
@@ -155,7 +155,7 @@ unicode_script = "devanagari"
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" open unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/5/1/06_yayA_rUpANi.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" open unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/1/06_yayA_rUpANi.md">
 <details open><summary><h2>06 यया रूपाणि ...{Loading}...</h2></summary>
 
 यया॑ रू॒पाणि॑ बहु॒धा **वद॑न्ति** ।  
@@ -165,7 +165,7 @@ unicode_script = "devanagari"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/2/5/1/06_yayA_rUpANi.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/2/5_upahomAdi/1/06_yayA_rUpANi.md">
 <details open><summary><h2>06 यया रूपाणि ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
@@ -183,7 +183,7 @@ unicode_script = "devanagari"
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" open unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/5/1/07_chakhShurdevAnAnjyotiramRte.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" open unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/1/07_chakhShurdevAnAnjyotiramRte.md">
 <details open><summary><h2>07 चख्षुर्देवानाञ्ज्योतिरमृते ...{Loading}...</h2></summary>
 
 चख्षु॑र् दे॒वाना॒ञ् +++(→सूर्यः)+++ ज्योति॑र् अ॒मृते॒ **न्य॑क्तम्** ।  
@@ -193,7 +193,7 @@ unicode_script = "devanagari"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/2/5/1/07_chakhShurdevAnAnjyotiramRte.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/2/5_upahomAdi/1/07_chakhShurdevAnAnjyotiramRte.md">
 <details open><summary><h2>07 चख्षुर्देवानाञ्ज्योतिरमृते ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
@@ -213,7 +213,7 @@ unicode_script = "devanagari"
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" open unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/5/1/08_AyurinnapH_pratIryatAm.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" open unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/1/08_AyurinnapH_pratIryatAm.md">
 <details open><summary><h2>08 आयुरिन्नᳶ प्रतीर्यताम् ...{Loading}...</h2></summary>
 
 आयु॒र् इन् न॒ᳶ **प्रती᳚र्यताम्** ।  
@@ -223,7 +223,7 @@ unicode_script = "devanagari"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/2/5/1/08_AyurinnapH_pratIryatAm.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/2/5_upahomAdi/1/08_AyurinnapH_pratIryatAm.md">
 <details open><summary><h2>08 आयुरिन्नᳶ प्रतीर्यताम् ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
@@ -241,7 +241,7 @@ unicode_script = "devanagari"
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" open unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/5/1/09_shrotreNa_bhadramuta.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" open unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/1/09_shrotreNa_bhadramuta.md">
 <details open><summary><h2>09 श्रोत्रेण भद्रमुत ...{Loading}...</h2></summary>
 
 श्रोत्रे॑ण भ॒द्रम् उ॒त **शृ॑ण्वन्ति** स॒त्यम् ।  
@@ -251,7 +251,7 @@ unicode_script = "devanagari"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/2/5/1/09_shrotreNa_bhadramuta.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/2/5_upahomAdi/1/09_shrotreNa_bhadramuta.md">
 <details open><summary><h2>09 श्रोत्रेण भद्रमुत ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
@@ -270,7 +270,7 @@ unicode_script = "devanagari"
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" open unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/5/1/10_yena_prAchyA.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" open unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/1/10_yena_prAchyA.md">
 <details open><summary><h2>10 येन प्राच्या ...{Loading}...</h2></summary>
 
 येन॒ प्राच्या॑ उ॒त द॑ख्षि॒णा ।
@@ -280,7 +280,7 @@ unicode_script = "devanagari"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/2/5/1/10_yena_prAchyA.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/2/5_upahomAdi/1/10_yena_prAchyA.md">
 <details open><summary><h2>10 येन प्राच्या ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 

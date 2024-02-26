@@ -4,7 +4,7 @@ title = "१२ विष्णु-सूक्तं"
 +++
 'विष्णोर्नुकं,' 'तदस्य प्रियं', 'प्रतद्विष्णुः,' ‘परोमात्रया’, ‘विचक्रमे’, ‘त्रिर्देवः' इति विष्णुसूक्तं,
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/2/8/3_saumyAdi-sUktAni/02_viShNuH">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/2/8_kAmya-pashavaH/3_saumyAdi-sUktAni/02_viShNuH">
 <details open><summary><h5>०२ विष्णुः ...{Loading}...</h5></summary>
 <details><summary>सायणोक्त-विनियोगः</summary>
 

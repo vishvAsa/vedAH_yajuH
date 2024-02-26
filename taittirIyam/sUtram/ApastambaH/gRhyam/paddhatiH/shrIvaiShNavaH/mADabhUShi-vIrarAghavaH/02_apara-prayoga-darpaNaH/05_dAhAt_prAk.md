@@ -7,7 +7,7 @@ title = "०५ दाहात् प्राक्"
 
 आत्मारूढाग्निमरणे (कर्ता) प्रेतस्य दक्षिणं हस्तं लौकिकाग्नौ अभितप्य 
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/5/8/21_upAvaroha_jAtavedapH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/8/21_upAvaroha_jAtavedapH.md">
 <details open><summary><h5>21 उपावरोह जातवेदᳶ ...{Loading}...</h5></summary>
 
 उ॒पाव॑रोह जातवेद॒ᳶ पुन॒स् त्वम् ॥41॥  
@@ -230,7 +230,7 @@ title = "०५ दाहात् प्राक्"
 तेषु मुमूर्षुं दक्षिणा-शिरसं शाययित्वा,  
 'आयुषः प्राणं सन्तनु' इत्य् अनुवाकं तस्य दक्षिणे कर्णे जपेत् ।+++(5)+++  
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/1/5/07_AyuShaH_prANam">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/1/5_nAxatrAdi/07_AyuShaH_prANam">
 <details open><summary><h5>०७ सन्तत्याख्येष्टकामन्त्राः ...{Loading}...</h5></summary>
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 

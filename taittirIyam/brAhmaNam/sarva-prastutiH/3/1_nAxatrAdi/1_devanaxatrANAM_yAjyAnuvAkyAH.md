@@ -20,7 +20,7 @@ unicode_script = "devanagari"
 ## कृत्तिकाः - अग्निः
 
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/1/01_agnirnapH_pAtu.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/01_agnirnapH_pAtu.md">
 <details open><summary><h2>01 अग्निर्नᳶ पातु ...{Loading}...</h2></summary>
 
 
@@ -29,7 +29,7 @@ unicode_script = "devanagari"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1/1/01_agnirnapH_pAtu.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/01_agnirnapH_pAtu.md">
 <details open><summary><h2>01 अग्निर्नᳶ पातु ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
@@ -45,7 +45,7 @@ unicode_script = "devanagari"
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/1/02_yasya_bhAnti.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/02_yasya_bhAnti.md">
 <details open><summary><h2>02 यस्य भान्ति ...{Loading}...</h2></summary>
 
 
@@ -60,7 +60,7 @@ unicode_script = "devanagari"
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1/1/02_yasya_bhAnti.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/02_yasya_bhAnti.md">
 <details open><summary><h2>02 यस्य भान्ति ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
@@ -112,7 +112,7 @@ unicode_script = "devanagari"
 ## रोहिणी - प्रजापतिः
 
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/1/03_prajApate_rohiNI.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/03_prajApate_rohiNI.md">
 <details open><summary><h2>03 प्रजापते रोहिणी ...{Loading}...</h2></summary>
 
 
@@ -125,7 +125,7 @@ unicode_script = "devanagari"
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1/1/03_prajApate_rohiNI.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/03_prajApate_rohiNI.md">
 <details open><summary><h2>03 प्रजापते रोहिणी ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
@@ -143,7 +143,7 @@ unicode_script = "devanagari"
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/1/04_rohiNI.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/04_rohiNI.md">
 <details open><summary><h2>04 रोहिणी ...{Loading}...</h2></summary>
 
 
@@ -155,7 +155,7 @@ unicode_script = "devanagari"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1/1/04_rohiNI.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/04_rohiNI.md">
 <details open><summary><h2>04 रोहिणी ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
@@ -207,7 +207,7 @@ unicode_script = "devanagari"
 ## मृगशीर्षम् - सोमः
 
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/1/05_somo_rAjA.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/05_somo_rAjA.md">
 <details open><summary><h2>05 सोमो राजा ...{Loading}...</h2></summary>
 
 
@@ -219,7 +219,7 @@ unicode_script = "devanagari"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1/1/05_somo_rAjA.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/05_somo_rAjA.md">
 <details open><summary><h2>05 सोमो राजा ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
@@ -239,7 +239,7 @@ unicode_script = "devanagari"
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/1/06_yatte.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/06_yatte.md">
 <details open><summary><h2>06 यत्ते ...{Loading}...</h2></summary>
 
 
@@ -254,7 +254,7 @@ unicode_script = "devanagari"
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1/1/06_yatte.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/06_yatte.md">
 <details open><summary><h2>06 यत्ते ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
@@ -318,7 +318,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 ## आर्द्रा - रुद्रः
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/1/07_ArdrayA_rudrapH.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/07_ArdrayA_rudrapH.md">
 <details open><summary><h2>07 आर्द्रया रुद्रᳶ ...{Loading}...</h2></summary>
 
 
@@ -328,7 +328,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1/1/07_ArdrayA_rudrapH.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/07_ArdrayA_rudrapH.md">
 <details open><summary><h2>07 आर्द्रया रुद्रᳶ ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
@@ -346,7 +346,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/1/08_hetI_rudrasya.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/08_hetI_rudrasya.md">
 <details open><summary><h2>08 हेती रुद्रस्य ...{Loading}...</h2></summary>
 
 
@@ -357,7 +357,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1/1/08_hetI_rudrasya.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/08_hetI_rudrasya.md">
 <details open><summary><h2>08 हेती रुद्रस्य ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
@@ -406,7 +406,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 ## पुनर्वसू - अदितिः
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/1/09_punarno.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/09_punarno.md">
 <details open><summary><h2>09 पुनर्नो ...{Loading}...</h2></summary>
 
 
@@ -418,7 +418,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1/1/09_punarno.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/09_punarno.md">
 <details open><summary><h2>09 पुनर्नो ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
@@ -438,7 +438,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/1/10_evA_na.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/10_evA_na.md">
 <details open><summary><h2>10 एवा न ...{Loading}...</h2></summary>
 
 
@@ -447,7 +447,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1/1/10_evA_na.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/10_evA_na.md">
 <details open><summary><h2>10 एवा न ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
@@ -499,7 +499,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 ## तिष्यम् / पुष्यम् - बृहस्पतिः
 
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/1/11_bRhaspatipH_prathamanjAyamAnaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/11_bRhaspatipH_prathamanjAyamAnaH.md">
 <details open><summary><h2>11 बृहस्पतिᳶ प्रथमञ्जायमानः ...{Loading}...</h2></summary>
 
 
@@ -509,7 +509,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1/1/11_bRhaspatipH_prathamanjAyamAnaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/11_bRhaspatipH_prathamanjAyamAnaH.md">
 <details open><summary><h2>11 बृहस्पतिᳶ प्रथमञ्जायमानः ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
@@ -527,7 +527,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/1/12_tiShyapH_purastAduta.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/12_tiShyapH_purastAduta.md">
 <details open><summary><h2>12 तिष्यᳶ पुरस्तादुत ...{Loading}...</h2></summary>
 
 
@@ -537,7 +537,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1/1/12_tiShyapH_purastAduta.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/12_tiShyapH_purastAduta.md">
 <details open><summary><h2>12 तिष्यᳶ पुरस्तादुत ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
@@ -586,7 +586,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 ## आश्रेषाः - सर्पाः
 
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/1/13_idaM_sarpebhyo.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/13_idaM_sarpebhyo.md">
 <details open><summary><h2>13 इदं सर्पेभ्यो ...{Loading}...</h2></summary>
 
 
@@ -596,7 +596,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1/1/13_idaM_sarpebhyo.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/13_idaM_sarpebhyo.md">
 <details open><summary><h2>13 इदं सर्पेभ्यो ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
@@ -615,7 +615,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/1/14_ye_rochane.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/14_ye_rochane.md">
 <details open><summary><h2>14 ये रोचने ...{Loading}...</h2></summary>
 
 
@@ -624,7 +624,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1/1/14_ye_rochane.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/14_ye_rochane.md">
 <details open><summary><h2>14 ये रोचने ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
@@ -671,7 +671,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 ## मघाः - पितरः
 
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/1/15_upahUtApH_pitaro.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/15_upahUtApH_pitaro.md">
 <details open><summary><h2>15 उपहूताᳶ पितरो ...{Loading}...</h2></summary>
 
 
@@ -680,7 +680,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1/1/15_upahUtApH_pitaro.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/15_upahUtApH_pitaro.md">
 <details open><summary><h2>15 उपहूताᳶ पितरो ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
@@ -697,7 +697,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/1/16_ye_agnidagdhA.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/16_ye_agnidagdhA.md">
 <details open><summary><h2>16 ये अग्निदग्धा ...{Loading}...</h2></summary>
 
 
@@ -706,7 +706,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1/1/16_ye_agnidagdhA.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/16_ye_agnidagdhA.md">
 <details open><summary><h2>16 ये अग्निदग्धा ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
@@ -752,7 +752,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 ## पूर्व-फल्गुन्यः  - अर्यमा
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/1/17_gavAmpatipH_phalgunInAmasi.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/17_gavAmpatipH_phalgunInAmasi.md">
 <details open><summary><h2>17 गवाम्पतिᳶ फल्गुनीनामसि ...{Loading}...</h2></summary>
 
 
@@ -763,7 +763,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1/1/17_gavAmpatipH_phalgunInAmasi.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/17_gavAmpatipH_phalgunInAmasi.md">
 <details open><summary><h2>17 गवाम्पतिᳶ फल्गुनीनामसि ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
@@ -778,7 +778,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/1/18_yenemA_vishvA.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/18_yenemA_vishvA.md">
 <details open><summary><h2>18 येनेमा विश्वा ...{Loading}...</h2></summary>
 
 
@@ -787,7 +787,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1/1/18_yenemA_vishvA.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/18_yenemA_vishvA.md">
 <details open><summary><h2>18 येनेमा विश्वा ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
@@ -831,7 +831,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 ## उत्तर-फल्गुन्यः - भगः
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/1/19_shreShTho_devAnAmbhagavo.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/19_shreShTho_devAnAmbhagavo.md">
 <details open><summary><h2>19 श्रेष्ठो देवानाम्भगवो ...{Loading}...</h2></summary>
 
 
@@ -840,7 +840,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1/1/19_shreShTho_devAnAmbhagavo.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/19_shreShTho_devAnAmbhagavo.md">
 <details open><summary><h2>19 श्रेष्ठो देवानाम्भगवो ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
@@ -860,7 +860,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/1/20_bhago_ha.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/20_bhago_ha.md">
 <details open><summary><h2>20 भगो ह ...{Loading}...</h2></summary>
 
 
@@ -869,7 +869,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1/1/20_bhago_ha.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/20_bhago_ha.md">
 <details open><summary><h2>20 भगो ह ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
@@ -913,7 +913,7 @@ Denebola - β, 93 Leonis
 ## हस्तः - सविता
 
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/1/21_AyAtu_devassavitopayAtu.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/21_AyAtu_devassavitopayAtu.md">
 <details open><summary><h2>21 आयातु देवस्सवितोपयातु ...{Loading}...</h2></summary>
 
 
@@ -922,7 +922,7 @@ Denebola - β, 93 Leonis
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1/1/21_AyAtu_devassavitopayAtu.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/21_AyAtu_devassavitopayAtu.md">
 <details open><summary><h2>21 आयातु देवस्सवितोपयातु ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
@@ -942,7 +942,7 @@ Denebola - β, 93 Leonis
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/1/22_hastapH.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/22_hastapH.md">
 <details open><summary><h2>22 हस्तᳶ ...{Loading}...</h2></summary>
 
 
@@ -952,7 +952,7 @@ Denebola - β, 93 Leonis
 यो नो॒ हस्ता॑य **प्रसु॒वाति॑** य॒ज्ञम्॥  
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1/1/22_hastapH.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/22_hastapH.md">
 <details open><summary><h2>22 हस्तᳶ ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
@@ -993,7 +993,7 @@ Corvus- α , β , γ , δ , ε Corvi.
 
 ## चित्रा - त्वष्टा
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/1/23_tvaShTA_nakhShatramabhyeti.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/23_tvaShTA_nakhShatramabhyeti.md">
 <details open><summary><h2>23 त्वष्टा नख्षत्रमभ्येति ...{Loading}...</h2></summary>
 
 
@@ -1004,7 +1004,7 @@ Corvus- α , β , γ , δ , ε Corvi.
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1/1/23_tvaShTA_nakhShatramabhyeti.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/23_tvaShTA_nakhShatramabhyeti.md">
 <details open><summary><h2>23 त्वष्टा नख्षत्रमभ्येति ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
@@ -1024,7 +1024,7 @@ Corvus- α , β , γ , δ , ε Corvi.
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/1/24_tannastvaShTA_tadu.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/24_tannastvaShTA_tadu.md">
 <details open><summary><h2>24 तन्नस्त्वष्टा तदु ...{Loading}...</h2></summary>
 
 
@@ -1035,7 +1035,7 @@ Corvus- α , β , γ , δ , ε Corvi.
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1/1/24_tannastvaShTA_tadu.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/24_tannastvaShTA_tadu.md">
 <details open><summary><h2>24 तन्नस्त्वष्टा तदु ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
@@ -1083,7 +1083,7 @@ Corvus- α , β , γ , δ , ε Corvi.
 
 ## निष्ट्या, स्वातिः - वायुः
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/1/25_vAyurnakhShattramabhyeti.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/25_vAyurnakhShattramabhyeti.md">
 <details open><summary><h2>25 वायुर्नख्षत्त्रमभ्येति ...{Loading}...</h2></summary>
 
 
@@ -1094,7 +1094,7 @@ Corvus- α , β , γ , δ , ε Corvi.
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1/1/25_vAyurnakhShattramabhyeti.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/25_vAyurnakhShattramabhyeti.md">
 <details open><summary><h2>25 वायुर्नख्षत्त्रमभ्येति ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
@@ -1114,7 +1114,7 @@ Corvus- α , β , γ , δ , ε Corvi.
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/1/26_tanno_vAyustadu.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/26_tanno_vAyustadu.md">
 <details open><summary><h2>26 तन्नो वायुस्तदु ...{Loading}...</h2></summary>
 
 
@@ -1125,7 +1125,7 @@ Corvus- α , β , γ , δ , ε Corvi.
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1/1/26_tanno_vAyustadu.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/26_tanno_vAyustadu.md">
 <details open><summary><h2>26 तन्नो वायुस्तदु ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
@@ -1165,7 +1165,7 @@ Corvus- α , β , γ , δ , ε Corvi.
 
 ## विशाखे - इन्द्राग्नी
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/1/27_dUramasmachChatravo_yantu.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/27_dUramasmachChatravo_yantu.md">
 <details open><summary><h2>27 दूरमस्मच्छत्रवो यन्तु ...{Loading}...</h2></summary>
 
 
@@ -1176,7 +1176,7 @@ Corvus- α , β , γ , δ , ε Corvi.
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1/1/27_dUramasmachChatravo_yantu.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/27_dUramasmachChatravo_yantu.md">
 <details open><summary><h2>27 दूरमस्मच्छत्रवो यन्तु ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
@@ -1196,7 +1196,7 @@ Corvus- α , β , γ , δ , ε Corvi.
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/1/28_nakhShatrANAmadhipatnI.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/28_nakhShatrANAmadhipatnI.md">
 <details open><summary><h2>28 नख्षत्राणामधिपत्नी ...{Loading}...</h2></summary>
 
 
@@ -1207,7 +1207,7 @@ Corvus- α , β , γ , δ , ε Corvi.
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1/1/28_nakhShatrANAmadhipatnI.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/28_nakhShatrANAmadhipatnI.md">
 <details open><summary><h2>28 नख्षत्राणामधिपत्नी ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
@@ -1253,7 +1253,7 @@ Corvus- α , β , γ , δ , ε Corvi.
 
 ## पूर्णिमा
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/1/29_pUrNA_pashchAduta.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/29_pUrNA_pashchAduta.md">
 <details open><summary><h2>29 पूर्णा पश्चादुत ...{Loading}...</h2></summary>
 
 
@@ -1264,7 +1264,7 @@ Corvus- α , β , γ , δ , ε Corvi.
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1/1/29_pUrNA_pashchAduta.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/29_pUrNA_pashchAduta.md">
 <details open><summary><h2>29 पूर्णा पश्चादुत ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
@@ -1285,7 +1285,7 @@ _________________
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/1/30_pRthvI_suvarchA.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/30_pRthvI_suvarchA.md">
 <details open><summary><h2>30 पृथ्वी सुवर्चा ...{Loading}...</h2></summary>
 
 
@@ -1296,7 +1296,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1/1/30_pRthvI_suvarchA.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/30_pRthvI_suvarchA.md">
 <details open><summary><h2>30 पृथ्वी सुवर्चा ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 

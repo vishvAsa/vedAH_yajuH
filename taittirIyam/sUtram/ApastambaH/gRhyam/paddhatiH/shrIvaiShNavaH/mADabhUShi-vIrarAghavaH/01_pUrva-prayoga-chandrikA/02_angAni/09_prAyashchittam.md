@@ -151,7 +151,7 @@ title = "०९ प्रायश्चित्तम्"
 +++(अग्नीवरुणाभ्याम् इदं न मम)+++
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/4/1/68_tvamagne_ayAsi.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/1/68_tvamagne_ayAsi.md">
 <details open><summary><h5>68 त्वमग्ने अयासि ...{Loading}...</h5></summary>
 
 त्वम॑ग्ने अ॒यासि॑ ।   
@@ -494,7 +494,7 @@ mayst thou not perish for me, yonder, in yonder world.
 +++(अग्नीवरुणाभ्याम् इदं न मम)+++
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/4/1/68_tvamagne_ayAsi.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/1/68_tvamagne_ayAsi.md">
 <details open><summary><h5>68 त्वमग्ने अयासि ...{Loading}...</h5></summary>
 
 त्वम॑ग्ने अ॒यासि॑ ।   
@@ -523,7 +523,7 @@ mayst thou not perish for me, yonder, in yonder world.
 कर्ममध्येऽग्निनाशे 'अयं ते योनिः' इति समिधि भस्म समारोप्य 
 
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/5/8/19_ayante_yonir.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/8/19_ayante_yonir.md">
 <details open><summary><h5>19 अयन्ते योनिर् ...{Loading}...</h5></summary>
 
 अ॒यन् ते॒ **योनि॑र्** ऋ॒त्वियः॑ ।  

@@ -3432,7 +3432,7 @@ _______
 
 17आदित्यं चरुं निर्वपेत्सङ्ग्राममुपप्रयास्यन्' इत्यत्र पुरोनुवाक्या - अदितिर्न इति गायत्री ॥ 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="2" open unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/3/11_aditirna_uruShyatu.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" open unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/3/11_aditirna_uruShyatu.md">
 <details open><summary><h2>11 अदितिर्न उरुष्यतु ...{Loading}...</h2></summary>
 
 अदि॑तिर् न उरुष्य॒त्व्  
@@ -3440,7 +3440,7 @@ _______
 अदि॑तिᳶ पा॒त्व् अꣳह॑सः  ॥
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" open unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/3/11_aditirna_uruShyatu.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" open unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/3/11_aditirna_uruShyatu.md">
 <details open><summary><h2>11 अदितिर्न उरुष्यतु ...{Loading}...</h2></summary>
 
 अदि॑तिर् न उरुष्य॒त्व्  
@@ -3448,7 +3448,7 @@ _______
 अदि॑तिᳶ पा॒त्व् अꣳह॑सः  ॥
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1/3/11_aditirna_uruShyatu.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/3/11_aditirna_uruShyatu.md">
 <details open><summary><h2>11 अदितिर्न उरुष्यतु ...{Loading}...</h2></summary>
 <details><summary>Keith</summary>
 
