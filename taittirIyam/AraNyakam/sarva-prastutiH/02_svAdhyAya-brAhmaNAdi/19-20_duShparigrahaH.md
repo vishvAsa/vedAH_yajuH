@@ -10,7 +10,7 @@ unicode_script: devanagari
 या॒जयि॑त्वा प्रतिगृ॒ह्य वा ऽन॑श्न॒न् त्रिः स्वा॑ध्या॒यव्ँ वे॒दम् अधी॑यीत।  
 त्रिरा॒त्रव्ँ वा॑ सावि॒त्रीङ् गा॑य॒त्रीम् अ॒न्वाति॑रेचयति।  
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/brAhmaNam/sarva-prastutiH/02/vara-prashaMsA.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/brAhmaNam/sarva-prastutiH/02_svAdhyAya-brAhmaNAdi/vara-prashaMsA.md">
 <details open><summary><h2>वरः ...{Loading}...</h2></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

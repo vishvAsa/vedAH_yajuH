@@ -330,7 +330,7 @@ Notes: This section relates to the gratification of various deities with water o
 <details open><summary><h5>०४ श्रिये जातः ...{Loading}...</h5></summary>
 
 
-श्रि॒ये जा॒तः श्रि॒य आ निरि॑याय॒  
+श्रि॒ये **जा॒तः**, श्रि॒य आ **निरि॑याय॒**  
 श्रियं॒ वयो॑+++(=अन्नम्)+++ जरि॒तृभ्यो॑ **दधाति** ।  
 श्रियं॒ वसा॑ना अ-मृत॒त्वम् **आ॑य॒न्**  
 **भव॑न्ति** स॒त्या स॑मि॒था+++(=युद्धानि)+++ मि॒त-द्रौ॑+++(←द्रु)+++ +++(सोमे)+++ ॥
@@ -598,7 +598,7 @@ with the lordship of Indra, of Brhaspati, I anoint thee.
 
 भूर् भुवः॒ सुवः॑ ।  
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/3/5/11_shaMyu-vAkaH_tach_ChaMyoH">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/3/5_iShTi-hautrAdi/11_shaMyu-vAkaH_tach_ChaMyoH">
 <details open><summary><h5>११, शंयुवाकः ...{Loading}...</h5></summary>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 

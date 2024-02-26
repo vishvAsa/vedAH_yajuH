@@ -231,7 +231,7 @@ title = "१० सम्भाव्यानि प्रायश्चित
 
 "अग्नये अयस इदं॰" । स्रुचि चतुर्ग्रहीत गृहीत्वा जुहोति 
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/03/01-03_chAtuH-pancha-dasha-hotR-mantrAdi/03_pashchAt">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/01-03_chAtuH-pancha-dasha-hotR-mantrAdi/03_pashchAt">
 <details open><summary><h5>०३ ...{Loading}...</h5></summary>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 

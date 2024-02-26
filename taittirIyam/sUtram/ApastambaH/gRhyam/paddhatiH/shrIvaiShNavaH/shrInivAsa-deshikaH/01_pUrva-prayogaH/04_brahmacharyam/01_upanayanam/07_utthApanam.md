@@ -61,7 +61,7 @@ title = "०७ उत्थापनम्"
 इति गां दक्षिणां वा दद्यात्,  
 प्रतिग्रहीताऽऽचार्यः सप्त-दश-कृत्वो ऽपान्य, 
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/03/15-17_pratigrahAH/01_agnaye_hiraNyam/">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/15-17_pratigrahAH/01_agnaye_hiraNyam/">
 <details open><summary><h5>०१ अग्नये हिरण्यम् ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/yajuH/sarva-prastutiH/03_chAturhotra-chayanAdi/15-17_pratigrahAH/devasya_tvA_savituH__pratigRhNAmi.md">
 <details open><summary><h10>दे॒वस्य॑ त्वा सवि॒तुः प्रति॑गृह्णामि ...{Loading}...</h10></summary>
