@@ -266,14 +266,14 @@ ________
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+############ Strata
 Cretic
 
-######## Pāda-label
+############ Pāda-label
 genre M  
 genre M  
 genre M
-######## Morph
+############ Morph
 jātávedasam ← jātávedas- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -375,7 +375,7 @@ ___________
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+########### English translation:
 
 “His coursers bear on high the divine all-knowing Sun, that he may be seen by all (the worlds).”
 </details>

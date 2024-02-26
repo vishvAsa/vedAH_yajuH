@@ -44,15 +44,15 @@ title = "०४ अग्निप्रणयनाङ्गमप्रति�
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+######## Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+######## Pāda-label
 popular  
 popular  
 popular  
 popular
-###### Morph
+######## Morph
 āśúḥ ← āśú- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -197,7 +197,7 @@ _______________
 </details>
 <details><summary>Wilson</summary>
 
-##### English translation:
+####### English translation:
 
 “The fleet-going **Indra**, like a formidable bull sharpening (his horns), the slayer of foes, the exciter ofmen, loud-shouting, ever-vigilant, the chief of heroes overthrew at once a hundred hosts.”
 </details>
@@ -289,15 +289,15 @@ Der schnelle, der gleich wildem Stier erregt ist, der starke Kämpfer, der die M
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+######## Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+######## Pāda-label
 popular  
 popular  
 popular  
 popular
-###### Morph
+######## Morph
 animiṣéṇa ← animiṣá- (nominal stem)  
 {case:INS, gender:M, number:SG}
 
@@ -435,7 +435,7 @@ _______________
 </details>
 <details><summary>Wilson</summary>
 
-##### English translation:
+####### English translation:
 
 “With **Indra** the loud-shouting, the vigilant, the vigtorious, the warlike, the unconquerable, the daring,the hurler of arrows, the showerer, (as your ally) conquer you warriors, you leaders, that (hostile host) andovercome it.”
 </details>
@@ -517,15 +517,15 @@ Mit ihm, dem Donnrer, der nicht schlummernd Sieg gewinnt, der Schlacht erregt vo
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+######## Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+######## Pāda-label
 popular  
 popular  
 popular  
 popular
-###### Morph
+######## Morph
 íṣuhastaiḥ ← íṣuhasta- (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -683,7 +683,7 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-##### English translation:
+####### English translation:
 
 “**Indra**, with the arrow-bearing (**maruts**), armed with swords, the subduer, the warrior, who encountershim, the drinker of the **Soma**, the strong- armed, having a powerful bow, who shoots with well-aimed arrows(conquer with his help).”
 </details>
@@ -765,15 +765,15 @@ Mit seiner Schar, die Pfeile trägt und Köcher, theilt seine Kämpfe der gewalt
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+######## Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+######## Pāda-label
 popular  
 popular  
 popular  
 popular
-###### Morph
+######## Morph
 bŕ̥haspate ← bŕ̥haspáti- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -915,7 +915,7 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-##### English translation:
+####### English translation:
 
 “Come with your chariot, **Bṛhaspati**, who are the slayer of **Rākṣasas**, discomfiting your enemies,”
 </details>
@@ -997,15 +997,15 @@ Brihaspati, flieg' her mit deinem Wagen, Gespenster tödtend, jeden Feind verjag
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+######## Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+######## Pāda-label
 popular  
 popular  
 popular  
 popular
-###### Morph
+######## Morph
 gotrabhídam ← gotrabhíd- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -1154,11 +1154,11 @@ ____________
 </details>
 <details><summary>Wilson</summary>
 
-##### English translation:
+####### English translation:
 
 “Imitate in heroism, you kindred warriors, follow, friends, in prowess this **Indra**, who is the breaker ofmountains, the acquirer of water, armed with the thunderbolt, conquering the swift (foe), destroying (the enemy)by his might.”
 
-##### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+####### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Breaker of mountains: or of clouds; or of **gotras** (a race of **asuras**);
 
@@ -1243,15 +1243,15 @@ Der blitzbewehrt den Stall erschliesst, die Kühe erringt und Bahn sich bricht m
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+######## Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+######## Pāda-label
 popular  
 popular  
 popular  
 popular
-###### Morph
+######## Morph
 balavijñāyáḥ ← balavijñāyá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -1411,11 +1411,11 @@ _______________
 </details>
 <details><summary>Wilson</summary>
 
-##### English translation:
+####### English translation:
 
 “Known by his strength mighty, heroic, overpowering, vigorous, enduring, fierce, attended by heroes,attended by mighty men, the offspring of strength, the possessor of water, do you, **Indra**, ascend your triumphantchariot.”
 
-##### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+####### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Water: govit, knowing or accepting the song of praise
 </details>
@@ -1499,15 +1499,15 @@ Durch Stärke kenntlich, fest, der Helden kühnster, siegreich, gewaltig, stark 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+######## Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+######## Pāda-label
 popular;; 12 = 5+7, ending LHX  
 popular  
 popular  
 popular
-###### Morph
+######## Morph
 abhí ← abhí (invariable)  
 {}
 
@@ -1645,7 +1645,7 @@ ____________________
 </details>
 <details><summary>Wilson</summary>
 
-##### English translation:
+####### English translation:
 
 “May **Indra**, bursting open the clouds with force; pitiless, heroic, with hundredfold anger, invincible, theoverthrower of armies, irresistible, protect our armies in battles.”
 </details>
@@ -1727,15 +1727,15 @@ Der mit Gewalt sich in die Ställe eintaucht, Held Indra ohne Mitleid vielfach z
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+######## Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+######## Pāda-label
 popular;; 11 = 4+7, ending HLX  
 popular  
 popular  
 popular
-###### Morph
+######## Morph
 āsām ← ayám (pronoun)  
 {case:GEN, gender:F, number:PL}
 
@@ -1867,11 +1867,11 @@ _______________
 </details>
 <details><summary>Wilson</summary>
 
-##### English translation:
+####### English translation:
 
 “May **Indra** be the leader of these (hosts), may **Bṛhaspati**, **Dakṣiṇā**, **Yajña**, and **Soma** go before, letthe **Maruts** march in the van of the destroying and victorious armies of the gods.”
 
-##### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+####### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Dakṣiṇā: not a proper name;may the **yajña- puruṣa** (i.e., **Viṣṇu**) go on the right and Soma go before
 </details>
@@ -1954,15 +1954,15 @@ Ihr Führer sei uns Indra und Brihaspati, vor dringe Opfer, Opferlohn und Soma, 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+######## Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+######## Pāda-label
 popular  
 popular  
 popular  
 popular
-###### Morph
+######## Morph
 índrasya ← índra- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -2095,7 +2095,7 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-##### English translation:
+####### English translation:
 
 “(May) the mighty force of the showerer **Indra**, of the royal **Varuṇa**, of the **Ādityas** and **Maruts** (beours). The shout of the magnanimous and victorious deities, the subverters of the worlds, has arisen.”
 </details>
@@ -2177,15 +2177,15 @@ Des Königs Varuna, des Helden Indra, der Maruts, der Aditja's Schar ist mächti
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+######## Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+######## Pāda-label
 popular;; 12 = 5+7, ending LHX  
 popular  
 popular  
 popular
-###### Morph
+######## Morph
 asmā́kam ← ahám (pronoun)  
 {case:GEN, number:PL}
 
@@ -2343,7 +2343,7 @@ _____________
 </details>
 <details><summary>Wilson</summary>
 
-##### English translation:
+####### English translation:
 
 “When the banners are intermingled, may **Indra** be our (defender), may those arrows which are ours bevictorious may our warriors be triumphant; gods, protect us in battles.”
 </details>
@@ -2425,15 +2425,15 @@ Es schirme unsre Kämpf' und Fahnen Indra; es seien unsre Pfeile, die da siegen,
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+######## Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+######## Pāda-label
 popular  
 popular  
 popular  
 popular
-###### Morph
+######## Morph
 ā́yudhāni ← ā́yudha- (nominal stem)  
 {case:NOM, gender:N, number:PL}
 
@@ -2578,7 +2578,7 @@ ___________________
 </details>
 <details><summary>Wilson</summary>
 
-##### English translation:
+####### English translation:
 
 “Excite, **Maghavan**, my weapons, (excite) the spirits of my heroes; slayer of **Vṛtra**, let the speed of thehorses be accelerated, let the noises of the chariots be increased.”
 </details>

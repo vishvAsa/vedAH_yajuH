@@ -19,7 +19,16 @@ title = "०१ दाहात् प्राक्"
 
 प्रणम्य 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya.md">
+<details open><summary><h5>अशेषे हे परिषत् ...{Loading}...</h5></summary>
+
+> स्वामिनः!  
+अशेषे हे परिषत्  
+भवत्-पादमूले मया समर्पिताम् इमां सौवर्णीं यत्-किञ्चिद्-दक्षिणां  
+यथोक्तदक्षिणामिव स्वीकृत्य  
+
+</details>
+</div>  
 
 > … गोत्रस्य … शर्मणः पितुः सुखोत्क्रमण-सिद्ध्य्-अर्थं  
 जन्म-प्रभृति एतत्-क्षणपर्यन्तं बाल्य-यौवन-कौमार-वार्द्धकेषु  
@@ -39,7 +48,29 @@ title = "०१ दाहात् प्राक्"
 
 इति सङ्कल्प्य हिरण्यं हस्ते गृहीत्वा 
 
-<div class="js_include" url="/purANam/agni-purANam/sarva-prastutiH/167_ayutalaxakoTihomAH/hiraNya-garbha-garbhastham.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/purANam/agni-purANam/sarva-prastutiH/167_ayutalaxakoTihomAH/hiraNya-garbha-garbhastham.md">
+<details open><summary><h5>हिरण्य-गर्भ--गर्भ-स्थं ...{Loading}...</h5></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(हिरण्य!)+++ हिरण्य-गर्भ--गर्भ-स्थं  
+हेम-बीजं विभावसोः ।  
+अनन्त-पुण्य-फल-दम्  
+अतश् शान्तिं प्रयच्छ मे॥
+</details>
+<details><summary>मूलम्</summary>
+
+हिरण्यगर्भगर्भस्थं  
+हेमबीजं विभावसोः ।  
+अनन्तपुण्यफलदम्  
+अदश्शान्तिं प्रयच्छ मे॥
+_________
+हिरण्यगर्भगर्भस्थं  
+हेमबीजं विभावसोः ।  
+अनन्तपुण्यफलदम्  
+अतश्शान्तिं प्रयच्छ मे॥
+</details>
+</details>
+</div>  
 
 
 > तद्धिरण्यम् अक्षतासहितं तुभ्यमहं सम्प्रददे न मम
@@ -97,7 +128,138 @@ title = "०१ दाहात् प्राक्"
 [[2]]
 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/1/5/07_AyuShaH_prANam"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/1/5/07_AyuShaH_prANam">
+<details open><summary><h5>०७ सन्तत्याख्येष्टकामन्त्राः ...{Loading}...</h5></summary>
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अग्निचयनशेषा इष्टकोपधानमन्त्राः, तत्र सन्तत्याख्येष्टकामन्त्राः
+</details>
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+1-12 अतः परं द्वावनुवाकाव् अग्निकाण्डम् अग्न्यार्षेयम् । तत्र प्रथमायां चितौ द्वादश-संततीर् उपदधाति आयुषः प्राणं इत्याद्याः ॥ 
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आयु॑षᳶ प्रा॒णꣳ सन्त॑नु ।
+</details>
+<details><summary>मूलम्</summary>
+
+आयु॑षᳶ प्रा॒णꣳ सन्त॑नु ।
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+**आयुषो** वयसो ऽवस्थितत्वाद्धेतोः **प्राणं संतनु**, संततमविच्छिन्नं कुरु । सति ह्यायुषि प्राणास्सन्तन्यन्ते तस्मादायुरेव तावत्संतनु ततः प्राणादिकमिति गम्यते ।
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रा॒णाद् अ॑पा॒नꣳ सन्त॑नु ।
+</details>
+<details><summary>मूलम्</summary>
+
+प्रा॒णाद् अ॑पा॒नꣳ सन्त॑नु ।
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+सत्यपि प्राणे निश्शेषनिष्क्रमणभयादपानाविच्छेदः प्रार्थ्यते ।
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ॒पा॒नाद् व्या॒नꣳ सन्त॑नु ।
+</details>
+<details><summary>मूलम्</summary>
+
+अ॒पा॒नाद् व्या॒नꣳ सन्त॑नु ।
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+तदुभयसद्भावे रसव्यापनाय व्यानप्रार्थना, अन्यथा शरीरधारणासिद्धेः ।
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+व्या॒नाच् चख्षु॒स् सन्त॑नु ।
+</details>
+<details><summary>मूलम्</summary>
+
+व्या॒नाच् चख्षु॒स् सन्त॑नु ।
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+ध्रियमाणेऽपि शरीरे चक्षुः प्रधानं करणमिति प्रार्थ्यते रूपग्रहणार्थम् ।
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+चख्षु॑ष॒श् श्रोत्र॒ꣳ॒ सन्त॑नु ।
+</details>
+<details><summary>मूलम्</summary>
+
+चख्षु॑ष॒श् श्रोत्र॒ꣳ॒ सन्त॑नु ।
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+नामग्रहणार्थं श्रोत्रप्रार्थना ।
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+श्रोत्रा॒न् मन॒स् सन्त॑नु ।
+
+मन॑सो॒ वाच॒ꣳ॒ सन्त॑नु ।
+</details>
+<details><summary>मूलम्</summary>
+
+श्रोत्रा॒न् मन॒स् सन्त॑नु ।
+
+मन॑सो॒ वाच॒ꣳ॒ सन्त॑नु ।
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+एतेष्ववस्थितेष्वपि वाङ्मनसाधीना व्यवहारस्थिति रिति प्रार्थ्यते ।
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वा॒च आ॒त्मान॒ꣳ॒ सन्त॑नु ।
+</details>
+<details><summary>मूलम्</summary>
+
+वा॒च आ॒त्मान॒ꣳ॒ सन्त॑नु ।
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+सर्वेषामेषामवस्थितौ आत्मा तन्त्रं इत्यत्र तस्य सन्तानप्रार्थना ।
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आ॒त्मन॑ᳶ पृथि॒वीꣳ सन्त॑नु ।
+पृ॒थि॒व्या अ॒न्तरि॑ख्ष॒ꣳ॒ सन्त॑नु ।
+</details>
+<details><summary>मूलम्</summary>
+
+आ॒त्मन॑ᳶ पृथि॒वीꣳ सन्त॑नु ।
+पृ॒थि॒व्या अ॒न्तरि॑ख्ष॒ꣳ॒ सन्त॑नु ।
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+तस्य सन्ततस्य उपकारकत्वात् पृथिव्यादिसन्तानं प्रार्थयते ।
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ॒न्तरि॑ख्षा॒द् दिव॒ ꣳ॒सन्त॑नु ।
+दिव॒स् सुव॒स् सन्त॑नु ॥ 32 ॥  
+</details>
+<details><summary>मूलम्</summary>
+
+अ॒न्तरि॑ख्षा॒द् दिव॒ ꣳ॒सन्त॑नु ।
+दिव॒स् सुव॒स् सन्त॑नु ॥ 32 ॥  
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+एतेषां सर्वेषां उपकाराय सुवः आदित्यः प्रवर्तत इति
+तत्संतानमिति प्रार्थयते । देवानामपि संसारित्वात् । एवं अयं जीवादिरादित्यपर्यन्तः संसारप्रवाहोऽविच्छेदेन प्रवर्ततामिति प्रार्थयते ॥
+
+इति पञ्चमे सप्तमोऽनुवाकः ॥  
+
+</details>
+</details>
+</div>  
 
 नारायणशब्दं जपन् । 
 
@@ -108,7 +270,16 @@ title = "०१ दाहात् प्राक्"
 श्रीचूर्ण-परिपालनं कृत्वा  
 सभ्यान् प्रदक्षिणी-कृत्य, प्रणम्य 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya.md">
+<details open><summary><h5>अशेषे हे परिषत् ...{Loading}...</h5></summary>
+
+> स्वामिनः!  
+अशेषे हे परिषत्  
+भवत्-पादमूले मया समर्पिताम् इमां सौवर्णीं यत्-किञ्चिद्-दक्षिणां  
+यथोक्तदक्षिणामिव स्वीकृत्य  
+
+</details>
+</div>  
 
 > … गोत्रस्य … शर्मणः यजमानस्य पितुः परम-पद-प्राप्तौ सत्यां, 
 >
@@ -148,7 +319,16 @@ title = "०१ दाहात् प्राक्"
 
 सभां प्रणम्य प्राचीनावीती - 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya.md">
+<details open><summary><h5>अशेषे हे परिषत् ...{Loading}...</h5></summary>
+
+> स्वामिनः!  
+अशेषे हे परिषत्  
+भवत्-पादमूले मया समर्पिताम् इमां सौवर्णीं यत्-किञ्चिद्-दक्षिणां  
+यथोक्तदक्षिणामिव स्वीकृत्य  
+
+</details>
+</div>  
 
 > … गोत्रस्य … शर्मणः पितुः प्रेतस्य  
 अद्य प्रथमे अहनि पैतृमेधिकसंस्कारार्थं  
@@ -262,7 +442,29 @@ title = "०१ दाहात् प्राक्"
 
 इति सङ्कल्प्य, 
 
-<div class="js_include" url="/purANam/agni-purANam/sarva-prastutiH/167_ayutalaxakoTihomAH/hiraNya-garbha-garbhastham.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/purANam/agni-purANam/sarva-prastutiH/167_ayutalaxakoTihomAH/hiraNya-garbha-garbhastham.md">
+<details open><summary><h5>हिरण्य-गर्भ--गर्भ-स्थं ...{Loading}...</h5></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(हिरण्य!)+++ हिरण्य-गर्भ--गर्भ-स्थं  
+हेम-बीजं विभावसोः ।  
+अनन्त-पुण्य-फल-दम्  
+अतश् शान्तिं प्रयच्छ मे॥
+</details>
+<details><summary>मूलम्</summary>
+
+हिरण्यगर्भगर्भस्थं  
+हेमबीजं विभावसोः ।  
+अनन्तपुण्यफलदम्  
+अदश्शान्तिं प्रयच्छ मे॥
+_________
+हिरण्यगर्भगर्भस्थं  
+हेमबीजं विभावसोः ।  
+अनन्तपुण्यफलदम्  
+अतश्शान्तिं प्रयच्छ मे॥
+</details>
+</details>
+</div>  
 
 
 > इदमौपासनयोग्यतासिद्ध्यर्थं यत्किञ्चित् हिरण्यं तुभ्यमहं सम्प्रददे न मम उपवीती प्राणानायम्य प्राचीनावीती अनेककालसायम्प्रातराहुतीनामकरणप्रायश्चित्तार्थम् औपासनहोमद्रव्यतण्डुलदानं करिष्ये
@@ -295,7 +497,16 @@ title = "०१ दाहात् प्राक्"
 
 विधुरस्य विधवायाश्च उत्तपनाग्निः दर्भमुष्टित्रयेण क्रमात् प्रवर्तित उत्तपनाग्निः प्राचीनावीती 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya.md">
+<details open><summary><h5>अशेषे हे परिषत् ...{Loading}...</h5></summary>
+
+> स्वामिनः!  
+अशेषे हे परिषत्  
+भवत्-पादमूले मया समर्पिताम् इमां सौवर्णीं यत्-किञ्चिद्-दक्षिणां  
+यथोक्तदक्षिणामिव स्वीकृत्य  
+
+</details>
+</div>  
 > …  
 > गोत्रायाः नाम्न्याः मम मातुः प्रेतायाः अद्य प्रथमेऽहनि पैतृमेधिकसंस्कारार्थम् उत्तपनाग्निसन्धानं कर्तुं योग्यतासिद्धिमनुगृहाण 
 
@@ -387,7 +598,29 @@ title = "०१ दाहात् प्राक्"
 
 इति सङ्कल्प्य हिरण्यं गृहीत्वा, 
 
-<div class="js_include" url="/purANam/agni-purANam/sarva-prastutiH/167_ayutalaxakoTihomAH/hiraNya-garbha-garbhastham.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/purANam/agni-purANam/sarva-prastutiH/167_ayutalaxakoTihomAH/hiraNya-garbha-garbhastham.md">
+<details open><summary><h5>हिरण्य-गर्भ--गर्भ-स्थं ...{Loading}...</h5></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(हिरण्य!)+++ हिरण्य-गर्भ--गर्भ-स्थं  
+हेम-बीजं विभावसोः ।  
+अनन्त-पुण्य-फल-दम्  
+अतश् शान्तिं प्रयच्छ मे॥
+</details>
+<details><summary>मूलम्</summary>
+
+हिरण्यगर्भगर्भस्थं  
+हेमबीजं विभावसोः ।  
+अनन्तपुण्यफलदम्  
+अदश्शान्तिं प्रयच्छ मे॥
+_________
+हिरण्यगर्भगर्भस्थं  
+हेमबीजं विभावसोः ।  
+अनन्तपुण्यफलदम्  
+अतश्शान्तिं प्रयच्छ मे॥
+</details>
+</details>
+</div>  
 
 
 > गोत्रस्य शर्मणः प्रेतस्य मरणसमये भयात् जलमलोत्सर्गप्रायश्चित्तार्थं, पूतीगन्धदोषनिवृत्त्यर्थं वा प्राजापत्यकृच्छ्रत्रयप्रत्याम्नायं यत्किञ्चिद्धिरण्यं नानागोत्रेभ्यः विप्रेभ्यः सम्प्रददे न मम 
@@ -464,7 +697,41 @@ title = "०१ दाहात् प्राक्"
 
 > गोत्रस्य शर्मणः प्रेतस्य पशुभिर्हतप्रायश्चित्तार्थं प्राजापत्यकृच्छ्रप्रतिनिधि यत्किञ्चित् हिरण्यरूपेण करिष्ये ।  
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/hiraNya-garbha-garbhasthaM_sampradade/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/hiraNya-garbha-garbhasthaM_sampradade/">
+<details open><summary><h5>Hira Nya garbha garbhastha M sampradade ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/purANam/agni-purANam/sarva-prastutiH/167_ayutalaxakoTihomAH/hiraNya-garbha-garbhastham.md">
+<details open><summary><h10>हिरण्य-गर्भ--गर्भ-स्थं ...{Loading}...</h10></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(हिरण्य!)+++ हिरण्य-गर्भ--गर्भ-स्थं  
+हेम-बीजं विभावसोः ।  
+अनन्त-पुण्य-फल-दम्  
+अतश् शान्तिं प्रयच्छ मे॥
+</details>
+<details><summary>मूलम्</summary>
+
+हिरण्यगर्भगर्भस्थं  
+हेमबीजं विभावसोः ।  
+अनन्तपुण्यफलदम्  
+अदश्शान्तिं प्रयच्छ मे॥
+_________
+हिरण्यगर्भगर्भस्थं  
+हेमबीजं विभावसोः ।  
+अनन्तपुण्यफलदम्  
+अतश्शान्तिं प्रयच्छ मे॥
+</details>
+</details>
+</div>
+<details open><summary>दानम्, त्यागः</summary>
+
+… यत्किञ्चिद्धिरण्यानि  
+नानागोत्रेभ्यः श्रीवैष्णवेभ्यः येभ्यस् तेभ्यः/ तुभ्यम् अहं  
+**सम्प्रददे**॥  
+
+(न मम॥)
+</details>
+</details>
+</div>  
 
 
 विप्राय दत्वा,
@@ -545,7 +812,16 @@ title = "०१ दाहात् प्राक्"
 
 प्राचीनावीती 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya.md">
+<details open><summary><h5>अशेषे हे परिषत् ...{Loading}...</h5></summary>
+
+> स्वामिनः!  
+अशेषे हे परिषत्  
+भवत्-पादमूले मया समर्पिताम् इमां सौवर्णीं यत्-किञ्चिद्-दक्षिणां  
+यथोक्तदक्षिणामिव स्वीकृत्य  
+
+</details>
+</div>  
 
 > गोत्रायाः नाम्न्याः प्रेतायाः सूतको मरणप्रायश्चित्तं रजस्वलामरणप्रायश्चित्तं वा कर्तुं योग्यतासिद्धिम् अनुगृहाण
 
@@ -614,7 +890,16 @@ title = "०१ दाहात् प्राक्"
 
 अथ कर्ता स्नात्वा, ऊर्ध्वपुण्ड्रादिकं धृत्वा, सप्त पञ्च त्रीणि वा कृच्छ्राणि कृत्वा प्राचीनावीती
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya.md">
+<details open><summary><h5>अशेषे हे परिषत् ...{Loading}...</h5></summary>
+
+> स्वामिनः!  
+अशेषे हे परिषत्  
+भवत्-पादमूले मया समर्पिताम् इमां सौवर्णीं यत्-किञ्चिद्-दक्षिणां  
+यथोक्तदक्षिणामिव स्वीकृत्य  
+
+</details>
+</div>  
 
 > अमुकगोत्रस्य अमुकशर्मणः अमुकशर्मण अमुकप्रेतस्य अमुकाग्निना पैतृमेधविधिना सह ब्रह्ममेधविधिना संस्कारं कर्तुं योग्यतासिद्धिम् अनुगृहाण 
 

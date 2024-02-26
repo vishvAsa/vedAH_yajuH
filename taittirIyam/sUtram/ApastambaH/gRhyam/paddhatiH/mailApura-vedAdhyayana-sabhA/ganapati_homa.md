@@ -1,9 +1,7 @@
 ---
 title: महागणपतिहोमप्रयोगः
+
 ---
-
-
-
 source: महागणपतिहोमः  
 publisher: a. subbaraman. mylapore veda adhyayana sabha  
 authors: e. balasubrahmanya sastri, janbunatha sastri, n.v. nataraja dikshitar  
@@ -281,7 +279,7 @@ I pray day and night to the Gaṇeśa – the one who is the reason behind the 
 
 ध्याने मनसि मे जातः पुत्रत्वं पालय प्रभो।  
 मम पुत्र इति ख्यातो लोकेऽस्मिन् भगवान् भव॥
-</div>
+
 
 # महागणपतिहोमप्रयोगः
 
@@ -715,25 +713,85 @@ Now take 2 darbhas between the two hands (with tips facing north). With the thre
 With the mantras above, a gold or silver coin should be placed in the kumbha.
 
 
-<div class="js_include" url="/vedAH_yajuH.taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/kUrchAgrai_rAxasAn.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/kUrchAgrai_rAxasAn.md">
+<details open><summary><h5>कूर्चाग्रैः राक्षसान् ...{Loading}...</h5></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कूर्चाग्रैः राक्षसान् घोरान्  
+छिन्धि कर्म-विघातिनः।  
+त्वाम् अर्पयामि कुम्भेऽस्मिन्  
+साफल्यं कुरु कर्मणि॥
+</details>
+<details><summary>मूलम्</summary>
+
+कूर्चाग्रैः राक्षसान् घोरान्  
+छिन्धि कर्म-विघातिनः।  
+त्वाम् अर्पयामि कुम्भेऽस्मिन्  
+साफल्यं कुरु कर्मणि॥
+</details>
+</details>
+</div>  
 
 
 Then with the mantras above, a kūrca should be placed on top of the kalaśa.
 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/vRxarAja-samudbhUtAH.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/vRxarAja-samudbhUtAH.md">
+<details open><summary><h5>वृक्षराज-समुद्भूताः ...{Loading}...</h5></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वृक्ष-राज-समुद्भूताः  
+शाखायाः पल्लव-त्वचः।  
+युष्मान् कुम्भेष्व् अर्पयामि  
+सर्व-दोषापनुत्तये॥
+</details>
+<details><summary>मूलम्</summary>
+
+वृक्षराज-समुद्भूताः शाखायाः पल्लवत्वचः।  
+युष्मान् कुम्भेष्वर्पयामि सर्वदोषापनुत्तये॥
+</details>
+</details>
+</div>  
 
 
 Saying this, a mango leaf bunch should be placed at the neck.
 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/nAlikera-samudbhUta.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/nAlikera-samudbhUta.md">
+<details open><summary><h5>नालिकेर-समुद्भूत ...{Loading}...</h5></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नालिकेर-समुद्भूत  
+त्रि-नेत्र हर-सम्मित।  
+शिखया दुरितं सर्वं  
+पापं पीडां च मे **नुद**॥
+</details>
+<details><summary>मूलम्</summary>
+
+नालिकेर-समुद्भूत त्रिनेत्र हरसम्मित।  
+शिखया दुरितं सर्वं पापं पीडां च मे नुद॥
+</details>
+</details>
+</div>  
 
 
 Saying this, a coconut smeared with haldi should be placed on top.
 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/sarve_samudrAH.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/sarve_samudrAH.md">
+<details open><summary><h5>सर्वे समुद्राः ...{Loading}...</h5></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्वे समुद्राः सरितस्तीर्थानि च नदा ह्रदाः।  
+आयान्तु मम सहकुटुम्बस्य दुरितक्षयकारकाः॥
+</details>
+<details><summary>मूलम्</summary>
+
+सर्वे समुद्राः सरितस्तीर्थानि च नदा ह्रदाः।  
+आयान्तु मम सहकुटुम्बस्य दुरितक्षयकारकाः॥
+</details>
+</details>
+</div>  
 
 
 Saying this, the kalaśa should be touched.
@@ -1660,9 +1718,48 @@ Stand up and recite the following.
 
 अग्ने॒ नय॑ सु॒पथा॑ रा॒ये अ॒स्मान् विश्वा॑नि देव व॒युना॑नि वि॒द्वान्। यु॒यो॒ध्य॑स्मज्जु॑हुरा॒णमेनो॒ भूयि॑ष्ठां ते॒ नम॑उक्तिं विधेम॥ अग्नये नमः।
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/mantrahInam_hutAshana.md" newLevelForH1="5" includeTitle="false"> </div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/mantrahInam_hutAshana.md">
+<details open><summary><h5>मन्त्रहीनं - हुताशन ...{Loading}...</h5></summary>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/prAyashcittAny_asheShANi.md" newLevelForH1="5" includeTitle="false"> </div>
+
+(अग्नये नमः)
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मन्त्रहीनं क्रियाहीनं  
+भक्तिहीनं हुताशन ।  
+यद्धुतं तु मया देव  
+परिपूर्णं तदस्तु ते ॥  
+</details>
+<details><summary>मूलम्</summary>
+
+मन्त्रहीनं क्रियाहीनं  
+भक्तिहीनं हुताशन ।  
+यद्धुतं तु मया देव  
+परिपूर्णं तदस्तु ते ॥
+</details>
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/prAyashcittAny_asheShANi.md">
+<details open><summary><h5>प्रायश्चित्तान्यशेषाणि ...{Loading}...</h5></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रायश्चित्तान्य् अशेषाणि  
+तपः कर्मात्मकानि वै ।  
+यानि तेषाम् अशेषाणां  
+कृष्णानुस्मरणं परम् ॥
+</details>
+<details><summary>मूलम्</summary>
+
+प्रायश्चित्तान्यशेषाणि  
+तपः कर्मात्मकानि वै ।  
+यानि तेषामशेषाणां  
+कृष्णानुस्मरणं परम्॥
+</details>
+
+(कृष्ण कृष्ण कृष्ण॥)
+</details>
+</div>
 
 नमस्ते गार्हपत्याय नमस्ते दक्षिणाग्नये।  
 नम आहवनीयाय महावेद्यै नमो नमः॥

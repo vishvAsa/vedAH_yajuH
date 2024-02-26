@@ -1,7 +1,7 @@
 +++
 title = "०६ अग्नि-सन्धान-प्रयोगः"
 
-+++ 
++++
 
 अग्निसन्धानप्रयोगः
 (औपासनहोमश्च)
@@ -9,11 +9,63 @@ title = "०६ अग्नि-सन्धान-प्रयोगः"
 ## अनुज्ञा
 पादौ प्रक्षाल्य द्विराचम्य सपवित्रपाणिः दक्षिणाताम्बूलशोभनाक्षतान् गृहीत्वा, 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/namas_sadase_sabhAM_gopAya/"  newLevelForH1="5" includeTitle="false"> </div> 
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/namas_sadase_sabhAM_gopAya/">
+<details open><summary><h5>नम॒स् सद॑से …स॒भाम् मे॑ गोपाय ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/3/2/04_sphyAdyupasthAnamantrAH_vidhishcha/namas_sadase.md">
+<details open><summary><h10>नमस् सदसे ...{Loading}...</h10></summary>
+<details><summary>मूलम् (संयुक्तम्)</summary>
+
+नम॒स्सद॑से॒ नम॒स्सद॑स॒स्पत॑ये॒ नम॒स्सखी॑नाम्पुरो॒गाणा॒ञ्चख्षु॑षे॒ नमो॑ दि॒वे नमᳶ॑ पृथि॒व्यै
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नम॒स् सद॑से॥  
+नम॒स् सद॑स॒स्-पत॑ये॥    
+नम॒स् सखी॑नाम् पुरो॒गाणा॒ञ् चख्षु॑षे॥    
+नमो॑ दि॒वे॥   
+नमᳶ॑ पृथि॒व्यै॥
+</details>
+<details><summary>मूलम्</summary>
+
+नम॒स्सद॑से  
+नम॒स्सद॑स॒स्पत॑ये    
+नम॒स्सखी॑नाम्पुरो॒गाणा॒ञ्चख्षु॑षे    
+नमो॑ दि॒वे   
+नमᳶ॑ पृथि॒व्यै
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+'ऐन्द्रं हि देवतया सदः' इति इन्द्रः सदसस्पतिः पालयिता तस्मै नमः । 'षष्ठयाः पतिपुत्र' इति सत्वम् । सखीनां समानख्यानानामृत्विजां पुरोगाणामग्रतो गन्तृणां प्रधानानां सर्वेषामपि चक्षुषे चक्षुसथानीयाय दर्शनहेतवे सवित्रे च नमः । गतमन्यत् ॥
+</details>
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/2/1/267_sapratha_sabhAm.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+सप्र॑थ स॒भाम् मे॑ गोपाय ।  
+ये च॒ सभ्या᳚स् सभा॒सदः॑ ।  
+तानि॑न्द्रि॒याव॑तᳵ कुरु ।  
+सर्व॒म् आयु॒र् उपा॑सताम् ।
+</details>
+</div>
+
+(सर्वे॑भ्यः श्रीवैष्ण॒वेभ्यो॒ नमः॑॥)
+
+</details>
+</div> 
 
 इति ब्राह्मणान् अक्षतैरभ्यर्च्य, सदक्षिणं ताम्बूलं दत्वा, प्रणम्य, 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya.md">
+<details open><summary><h5>अशेषे हे परिषत् ...{Loading}...</h5></summary>
+
+> स्वामिनः!  
+अशेषे हे परिषत्  
+भवत्-पादमूले मया समर्पिताम् इमां सौवर्णीं यत्-किञ्चिद्-दक्षिणां  
+यथोक्तदक्षिणामिव स्वीकृत्य  
+
+</details>
+</div>  
 
 > आवयोः विच्छिन्न-औपासन-अग्निसन्धानं कर्तुं  
 > योग्यता-सिद्धिर् अस्त्व् इति  
@@ -28,10 +80,24 @@ title = "०६ अग्नि-सन्धान-प्रयोगः"
 त्रिः प्राणान् आयम्य, 
 
 
-<div class="js_include" url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/vyakti-shlokAdi/venkaTanAthaH/shrImAn_venkaTanAthAryaH.md" newLevelForH1="5" includeTitle="false"> </div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/vyakti-shlokAdi/venkaTanAthaH/shrImAn_venkaTanAthAryaH.md">
+<details open><summary><h5>shrImAn_venkaTanAthAryaH ...{Loading}...</h5></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<div class="js_include" url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/vyakti-shlokAdi/gurubhyas_tad-gurubhyaH.md"  newLevelForH1="5" includeTitle="false"> 
+श्रीमान् वेङ्कटनाथार्यः  
+कवितार्किककेसरी ।  
+वेदान्ताचार्यवर्यो मे  
+सन्निधत्तां सदा हृदि ॥  
+</details>
+<details><summary>मूलम्</summary>
 
+श्रीमान् वेङ्कटनाथार्यः कवितार्किककेसरी ।  
+वेदान्ताचार्यवर्यो मे सन्निधत्तां सदा हृदि ॥  
+</details>
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/vyakti-shlokAdi/gurubhyas_tad-gurubhyaH.md">
+<details open><summary><h5>गुरुभ्यस् तद्-गुरुभ्यश् च ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 गुरुभ्यस् तद्-गुरुभ्यश् च  
@@ -39,24 +105,21 @@ title = "०६ अग्नि-सन्धान-प्रयोगः"
 वृणीमहे च तत्राद्यौ  
 दं-पती जगतां पती+++(→शेषिणौ)+++ ॥ १ ॥
 </details>
-
 <details><summary>मूलम् (सं॰प॰)</summary>
 
 गुरुभ्यस्तद्गुरुभ्यश्च नमोवाकमधीमहे ।  
 वृणीमहे च तत्राद्यौ दंपती जगतां पती ॥ १ ॥
 </details>
-
 <details><summary>English</summary>
 
 (With due devotion) we repeat the expression of adoration to our gurus and likewise to their gurus; and among these (latter), we pray for the grace of the  Primaeval Couple (Nārāyaṇa  and Lakṣmī ), the twin śeṣīs[^1] of all the worlds (so that they may be both the end to be attained by us and the means of attaining it).
 
 [^1]: A śeṣa is one who exists solely for the purposes of another. That other is śeṣī .
 </details>
-</div>  
-
-
-<div class="js_include" url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/prakIrNa-mantrAdi/padyam/svasheSha-bhUtena.md"  newLevelForH1="5" includeTitle="false"> 
-
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/prakIrNa-mantrAdi/padyam/svasheSha-bhUtena.md">
+<details open><summary><h5>स्वशेषभूतेन मया ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वशेषभूतेन मया  
@@ -64,28 +127,48 @@ title = "०६ अग्नि-सन्धान-प्रयोगः"
 **विधातुं** प्रीतमात्मानं  
 देवः **प्रक्रमते** स्वयम् ॥ (१२)
 </details>
-
 <details><summary>मूलम्</summary>
 
 स्वशेषभूतेन मया स्वीयैस्सर्वपरिच्छेदैः ।  
 विधातुं प्रीतमात्मानं देवः प्रक्रमते स्वयम् ॥ (१२)
 </details>
-</div>  
-
-<div class="js_include" url="/devaH/AryaH/hindukaH/viShNuH/padyam/shuklAmbara-dharaM.md" newLevelForH1="5" includeTitle="false"> 
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/devaH/AryaH/hindukaH/viShNuH/padyam/shuklAmbara-dharaM.md">
+<details open><summary><h5>शुक्लाम्बरधरं ...{Loading}...</h5></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शुक्लाम्बरधरं विष्णुं  
 शशिवर्णं चतुर्भजम् ।  
 प्रसन्नवदनं द्यायेत्  
 सर्वविघ्नोपशान्तये ॥
-</div>
+</details>
+<details><summary>मूलम्</summary>
 
-<div class="js_include" url="/devaH/AryaH/hindukaH/viShvaksenaH/padyam/yasya_dvirada-vaktrAdyAH.md"  newLevelForH1="5" includeTitle="false">   
+शुक्लाम्बरधरं विष्णुं  
+शशिवर्णं चतुर्भजम् ।  
+प्रसन्नवदनं द्यायेत्  
+सर्वविघ्नोपशान्तये ॥
+</details>
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/devaH/AryaH/hindukaH/viShvaksenaH/padyam/yasya_dvirada-vaktrAdyAH.md">
+<details open><summary><h5>यस्य द्वि-रद-वक्त्राद्याः ...{Loading}...</h5></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यस्य द्वि-रद-वक्त्राद्याः  
+पारिषद्याः परश्शतम् ।  
+विघ्नं निघ्नन्ति सततं  
+विष्वक्सेनं तमाश्रये ॥
+</details>
+<details><summary>मूलम्</summary>
 
 यस्य द्विरदवक्त्राद्याः  
 पारिषद्याः परश्शतम् ।  
 विघ्नं निघ्नन्ति सततं  
 विष्वक्सेनं तमाश्रये ॥
+</details>
+</details>
 </div>
 
 
@@ -94,7 +177,13 @@ title = "०६ अग्नि-सन्धान-प्रयोगः"
 दक्षिणोरूपरि सङ्कल्पार्थे हस्त-तले संमेल्य,  
 
 
-<div class="js_include" url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/prakIrNa-mantrAdi/gadyam/harir_OM_tat_govinda.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/prakIrNa-mantrAdi/gadyam/harir_OM_tat_govinda.md">
+<details open><summary><h5>हरिर् ओं तत् - श्रीगोविन्द ...{Loading}...</h5></summary>
+
+
+हरिर् ओं तत् - श्रीगोविन्द गोविन्द गोविन्द!
+</details>
+</div>  
 
 
 > अस्यां .. शुभतिथौ श्रीभगवदाज्ञया भगवत्प्रीत्यर्थं   
@@ -108,12 +197,39 @@ title = "०६ अग्नि-सन्धान-प्रयोगः"
 
 इति सङ्कल्प्य, 
 
-<div class="js_include" url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/prakIrNa-mantrAdi/gadyam/karma-parva-stham/prINana-mantraH_kRtaM_cha/" newLevelForH1="5" includeTitle="false"> </div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/prakIrNa-mantrAdi/gadyam/karma-parva-stham/prINana-mantraH_kRtaM_cha/">
+<details open><summary><h5>प्रीणन-मन्त्रः - कृतं च ...{Loading}...</h5></summary>
+
+
+कृतञ् च करिष्यामि भगवन्। +++(इति समाप्ताव् अपि।)+++  
+
+नित्येन भगवत्-प्रीत्य्-अर्थेन  
+महा-विभूति-चातुरात्म्य-भगवद्-वासुदेव-पादारविन्दार्चनेन  
+???? भगवत्कर्मणा  
+भगवन्तं वासुदेवम् अर्चयिष्यामि  +++(इत्य् आदौ)+++/ भगवान् प्रीयतां वासुदेवः +++(इत्य् अन्ते)+++।   
+
+
+
+</details>
+</div>
 
 
 इत्यनुसन्धाय 
 
-<div class="js_include" url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/prakIrNa-mantrAdi/gadyam/karma-parva-stham/bala-mantraH.md" newLevelForH1="5" includeTitle="false"> </div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/prakIrNa-mantrAdi/gadyam/karma-parva-stham/bala-mantraH">
+<details open><summary><h5>बल-मन्त्रः ...{Loading}...</h5></summary>
+
+
+भग॑वतो॒ बले॑न॒, भग॑वतो वी॒र्ये᳕ण॒, भग॑वत॒स् तेज॑सा॒, भग॑वतः॒ कर्म॑णा॒+++(=कर्तुर् ईप्सिततमेन)+++, भग॑वतः॒ कर्म॑+++(=क्रियां)+++ करिष्यामि॒ - भग॑वतो वासुदे॒वस्य॑
+
+<details><summary>विस्वरः</summary>
+
+भगवतो बलेन, भगवतो वीर्येण, भगवतस् तेजसा, भगवतः कर्मणा,  
+भगवतः कर्म करिष्यामि -  
+भगवतो वासुदेवस्य।
+</details>
+</details>
+</div>
 
 
 +++(इति)+++ बलमन्त्रम् अनुसन्धाय  
@@ -237,32 +353,32 @@ title = "०६ अग्नि-सन्धान-प्रयोगः"
 अग्नौ प्रहरति । 
 
 ## परिषेचनम्
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/01_adite-nu_manyasva.md">
-<details open><summary><h4>०१ अदितेऽनु मन्यस्व ...{Loading}...</h4></summary>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/01_adite-nu_manyasva.md">
+<details open><summary><h2>०१ अदितेऽनु मन्यस्व ...{Loading}...</h2></summary>
 
-अदि॒तेऽनु॑ मन्यस्व।
+अदि॒तेऽनु॑ मन्यस्व। +++(इति दक्षिणतः, प्राचीनम्)+++
 
-
-</details>
-</div>
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/02_anumate-nu_manyasva.md">
-<details open><summary><h4>०२ अनुमतेऽनु मन्यस्व ...{Loading}...</h4></summary>
-
-अनु॑म॒ते+++(=ऊनचन्द्रे पूर्णमासि)+++ ऽनु॑ मन्यस्व।
 
 </details>
 </div>
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/03_saras-vate-nu_manyasva.md">
-<details open><summary><h4>०३ सरस्-वतेऽनु मन्यस्व ...{Loading}...</h4></summary>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/02_anumate-nu_manyasva.md">
+<details open><summary><h2>०२ अनुमतेऽनु मन्यस्व ...{Loading}...</h2></summary>
 
-सर॑स्-वते+++(छान्दसो गुणः)+++ ऽनु॑ मन्यस्व।
+अनु॑म॒ते+++(=ऊनचन्द्रे पूर्णमासि)+++ ऽनु॑ मन्यस्व। +++(इति पश्चिमाद् उदीचीनम्)+++
 
 </details>
 </div>
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/04_deva_savitaH.md">
-<details open><summary><h4>०४ देव सवितः ...{Loading}...</h4></summary>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/03_saras-vate-nu_manyasva.md">
+<details open><summary><h2>०३ सरस्-वतेऽनु मन्यस्व ...{Loading}...</h2></summary>
 
-देव सवितः॒ प्रसु॑व।
+सर॑स्-वते+++(छान्दसो गुणः)+++ ऽनु॑ मन्यस्व। +++(इति उत्तरतः प्राचीनम्)+++
+
+</details>
+</div>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/04_deva_savitaH.md">
+<details open><summary><h2>०४ देव सवितः ...{Loading}...</h2></summary>
+
+देव सवितः॒ प्रसु॑व। +++(इति प्रागारम्भं प्रदक्षिणं)+++
 
 </details>
 </div>
@@ -274,7 +390,20 @@ title = "०६ अग्नि-सन्धान-प्रयोगः"
 
 ### व्याहृतयः
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/baudhAyanaH/gRhyam/mantraH/yajuH/sarva-prastutiH/bhUr_bhuvas_suvas_svAhA.md" newLevelForH1="5" includeTitle="false"> </div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/baudhAyanaH/gRhyam/mantraH/yajuH/sarva-prastutiH/bhUr_bhuvas_suvas_svAhA.md">
+<details open><summary><h5>भूर् भुव॒स् सु॒व॒स् स्वाहा᳚ ...{Loading}...</h5></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ओं भूर् भुव॒स् सुव॒स् स्वाहा᳚ ॥  
+(प्रजापतय इदं न मम) ॥१॥
+</details>
+<details><summary>मूलम्</summary>
+
+ओं भूर् भुव॒स् सुव॒स् स्वाहा᳚ ॥  
+(प्रजापतय इदं न मम) ॥१॥
+</details>
+</details>
+</div>
 
 
 इति हुत्वा, (प्रजापतय इदं न मम)
@@ -323,26 +452,25 @@ title = "०६ अग्नि-सन्धान-प्रयोगः"
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/18_ayAshchAgne-syanabhishastIshcha_satyamittvamayA.md">
 <details open><summary><h2>१८ अयाश्चाग्नेऽस्यनभिशस्तीश्च सत्यमित्त्वमया ...{Loading}...</h2></summary>
 
-अ॒याश्+++(=एतुम् योग्यः, गमनशीलो वा)+++ चा॒ग्ने ऽस्य् अ॑नभिश॒स्तीश्च॑+++(=अनवद्यः)+++
-स॒त्यम् इ॑त् त्वम् अ॒या अ॑सि ।
-अय॑सा॒+++(=प्रतिगन्त्रा)+++ मन॑सा धृ॒तो॑
-ऽयसा॑ ह॒व्यम् ऊ॑हिषे॒+++(=वहस्व)+++
+अ॒याश्+++(=एतुम् योग्यः, गमनशीलो वा)+++ चा॒ग्ने ऽस्य् अ॑नभिश॒स्तीश्च॑+++(=अनवद्यः)+++  
+स॒त्यम् इ॑त् त्वम् अ॒या अ॑सि ।  
+अय॑सा॒+++(=प्रतिगन्त्रा)+++ मन॑सा धृ॒तो॑  
+ऽयसा॑ ह॒व्यम् ऊ॑हिषे॒+++(=वहस्व)+++  
 ऽया नो॑ धेहि भेष॒जम् ।।+++(५)+++
 
 </details>
 </div>
-
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/49_punas_tvA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-पुन॑स् त्वा ऽऽदि॒त्या रु॒द्रा वस॑वः॒ समि॑न्धतां॒,  
+पुन॑स् त्वा ऽऽदि॒त्या रु॒द्रा वस॑वः॒ **समि॑न्धतां॒**,  
 पुन॑र् ब्र॒ह्माणो॑ वसुनीथ! य॒ज्ञैः ।  
-घृ॒तेन॒ त्वं त॒नुवो॑ वर्धयस्व,  
-स॒त्याः स॑न्तु॒ यज॑मानस्य॒ कामाः᳚ ॥
+घृ॒तेन॒ त्वं त॒नुवो॑ **वर्धयस्व**,  
+स॒त्याः **स॑न्तु॒** यज॑मानस्य॒ कामाः᳚ ॥
+
++++(अग्नये वसुनीथायेदं न मम॥)+++
 </details>
 </div>
-
-
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/27_mano_jyotir.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
@@ -350,9 +478,10 @@ title = "०६ अग्नि-सन्धान-प्रयोगः"
 विच्छि॑न्नय्ँ **य॒ज्ञꣳ सम्** इ॒मन् **द॑धातु** ।  
 या +++(अन्यैर्)+++ **इ॒ष्टा उ॒षसो॑**, +++(मया तु)+++  नि॒-म्रुच॑श्+++(←स्तेये)+++ च॒  
 तास् **सन्द॑धामि** ह॒विषा॑ घृ॒तेन॑  ॥
+
++++(मनसे ज्योतिषे इदं न मम॥)+++
 </details>
 </div>
-
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/3/2/05_bhaxAnuvAkaH/07_yan_ma.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
@@ -361,8 +490,6 @@ title = "०६ अग्नि-सन्धान-प्रयोगः"
 जा॒तवे॑दा॒ विच॑र्षणिः+++(विचक्षणः)+++॥
 </details>
 </div>
-
-
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/3/2/05_bhaxAnuvAkaH/08_punar_agnish.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
@@ -370,11 +497,13 @@ title = "०६ अग्नि-सन्धान-प्रयोगः"
 पुन॒र् इन्द्रो॒ बृह॒स्पतिः॑।  
 पुन॑र् मे अश्विना यु॒वं  
 चक्षु॑र्+++(=दर्शनशक्तिम्)+++ **आ धत्तम्** अ॒क्ष्योः ॥
+
++++(अग्नीन्द्राबृहस्पत्यश्विभ्य इदं न मम॥)+++
 </details>
 </div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/053/06_tantuM_tanvanrajaso.md">
+<details open><summary><h5>०६ तन्तुं तन्वन्रजसो ...{Loading}...</h5></summary>
 
-
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/053/06_tantuM_tanvanrajaso.md"  newLevelForH1="5" includeTitle="false"> 
 
 तन्तुं॑ त॒न्वन् रज॑सो+++(=दिवः)+++ भा॒नुम् **अन्वि॑हि॒**  
 ज्योति॑ष्मतः प॒थो **र॑क्ष** धि॒या कृ॒तान् ।  
@@ -382,6 +511,8 @@ title = "०६ अग्नि-सन्धान-प्रयोगः"
 अ॒न्-उ॒ल्ब॒णं+++(=उत्कटम् [ग्रन्थ्या])+++ **व॑यत॒** जोगु॑वा॒म्+++(=स्तोतॄणाम्)+++ अपो॒+++(=कर्म)+++  
 +++(विषुव-स्थानीय! अग्ने)+++ मनु॑र् **भव**, **ज॒नया॒** दैव्यं॒ जन॑म् ॥६
 
++++(अग्नये तन्तुमत इदं न मम)+++
+</details>
 </div>  
 
 ### सर्व-प्रायश्-चित्तम्
@@ -398,71 +529,123 @@ title = "०६ अग्नि-सन्धान-प्रयोगः"
 [[13]]
 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/baudhAyanaH/gRhyam/mantraH/yajuH/sarva-prastutiH/bhUr_bhuvas_suvas_svAhA.md" newLevelForH1="5" includeTitle="false"> </div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/baudhAyanaH/gRhyam/mantraH/yajuH/sarva-prastutiH/bhUr_bhuvas_suvas_svAhA.md">
+<details open><summary><h5>भूर् भुव॒स् सु॒व॒स् स्वाहा᳚ ...{Loading}...</h5></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ओं भूर् भुव॒स् सुव॒स् स्वाहा᳚ ॥  
+(प्रजापतय इदं न मम) ॥१॥
+</details>
+<details><summary>मूलम्</summary>
+
+ओं भूर् भुव॒स् सुव॒स् स्वाहा᳚ ॥  
+(प्रजापतय इदं न मम) ॥१॥
+</details>
+</details>
+</div>
 
 #### अनाज्ञातादि-प्रायश्चित्तम्
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/7/11/35_anAjnAtay.NyadAjnAtam_yajnasya.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-अना᳚ज्ञात॒य्ँयदाज्ञा॑तम् ।
-य॒ज्ञस्य॑ क्रि॒यते॒ मिथु॑ ।
-अग्ने॒ तद॑स्य कल्पय ।
+अना᳚ज्ञात॒य्ँयदाज्ञा॑तम् ।  
+य॒ज्ञस्य॑ क्रि॒यते॒ मिथु॑ ।  
+अग्ने॒ तद॑स्य कल्पय ।  
 त्वꣳ हि वेत्थ॑ यथात॒थम् ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/7/11/38_puruShasammito_yajnaH.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-पुरु॑षसम्मितो य॒ज्ञः ।
-य॒ज्ञᳶ पुरु॑षसम्मितः ।
-अग्ने॒ तद॑स्य कल्पय ।
+पुरु॑षसम्मितो य॒ज्ञः ।  
+य॒ज्ञᳶ पुरु॑षसम्मितः ।  
+अग्ने॒ तद॑स्य कल्पय ।  
 त्वꣳ हि वेत्थ॑ यथात॒थम् ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/7/11/41_yatpAkatrA_manasA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-यत्पा॑क॒त्रा मन॑सा दी॒नद॑ख्षा॒ न ।
-य॒ज्ञस्य॑ म॒न्वते॒ मर्ता॑सः ।
-अ॒ग्निष्टद्धोता॑ क्रतु॒विद्वि॑जा॒नन्न् ।
+यत्पा॑क॒त्रा मन॑सा दी॒नद॑ख्षा॒ न ।  
+य॒ज्ञस्य॑ म॒न्वते॒ मर्ता॑सः ।  
+अ॒ग्निष्टद्धोता॑ क्रतु॒विद्वि॑जा॒नन्न् ।  
 यजि॑ष्ठो दे॒वाꣳ ऋ॑तु॒शो य॑जाति ॥115॥
 </details>
 </div>
-
-
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/001/05_sa_tvaM.md">
 <details open><summary><h2>०५ स त्वं ...{Loading}...</h2></summary>
 
-स त्वन् नो॑ अग्ने ऽव॒मो+++(=मूलभूतो)+++ भ॑व॒+ऊ॒ती+++(त्या)+++  
+स त्वन् नो॑ अग्ने ऽव॒मो+++(=मूलभूतो)+++ **भ॑व॒**+ऊ॒ती+++(त्या)+++  
 +++(“अग्निरवमो देवतानां विष्णुः परमः” इति ब्राह्मणम्)+++  
 नेदि॑ष्ठो+++(=अन्तिकतमो)+++ अ॒स्या उ॒षसो॒ व्यु॑ष्टौ+++(=व्युष्टायाम्)+++ ।  
-अव॑ यक्ष्व नो॒ वरु॑णँ ररा॑णो  
-वी॒हि+++(=खाद)+++ मृ॑डी॒कँ+++(=सुखयितारं [हविः])+++ सु॒हवो॑ न एधि ।
+**अव॑ यक्ष्व** नो॒ वरु॑णँ॒, **ररा॑णो**  
+**वी॒हि**+++(=खाद)+++ मृ॑डी॒कँ+++(=सुखयितारं [हविः])+++ सु॒हवो॑ न **एधि** ।
 
++++(अग्नीवरुणाभ्याम् इदं न मम)+++
 </details>
 </div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/baudhAyanaH/gRhyam/mantraH/yajuH/sarva-prastutiH/vyAhRti-homAH_4.md">
+<details open><summary><h5>व्याहृति-होमाः ४ ...{Loading}...</h5></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+(ओं) भूस्स्वाहा᳚ ॥
+(अग्नय इदं न मम)
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/baudhAyanaH/gRhyam/mantraH/yajuH/sarva-prastutiH/vyAhRti-homAH_4.md" newLevelForH1="5" includeTitle="false"> </div>
+(ओं) भुव॒स्स्वाहा᳚ ॥
+(वायव इदं न मम)
+
+(ओं) सुव॒स्स्वाहा᳚ ॥  
+(सूर्याय इदं न मम)
+
+(ओं) भूर्भुव॒स्सुव॒स्स्वाहा᳚ ॥  
+(प्रजापतय इदं न मम)  
+</details>
+<details><summary>मूलम्</summary>
+
+(ओं) भूस्स्वाहा᳚ ॥
+(अग्नय इदं न मम)
+
+(ओं) भुव॒स्स्वाहा᳚ ॥
+(वायव इदं न मम)
+
+(ओं) सुव॒स्स्वाहा᳚ ॥  
+(सूर्याय इदं न मम)
+
+(ओं) भूर्भुव॒स्सुव॒स्स्वाहा᳚ ॥  
+(प्रजापतय इदं न मम)  
+
+</details>
+</details>
+</div>
 
 
 [[14]]
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/shrI-viShNave_svAhA.md" newLevelForH1="5" includeTitle="false"> </div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/shrI-viShNave_svAhA.md">
+<details open><summary><h5>shrI-viShNave_svAhA ...{Loading}...</h5></summary>
+
+
+(ॐ) श्रीवि॒ष्णवे॒ / विष्ण॑वे॒ स्वाहा॑  
+
+(विष्णवे परमात्मने इदन्न मम) 
+</details>
+</div>
 
 इति हुत्वा, प्राणायामञ्च कुर्यात् ।
 
 ## समाप्तिः
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/12_adite-nvama.NsthAH_anumate-nvama.NsthAH.md" newLevelForH1="5" includeTitle="false"> 
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/12_adite-nvama.NsthAH_anumate-nvama.NsthAH.md">
+<details open><summary><h5>१२ अदितेऽन्वमँस्थाः अनुमतेऽन्वमँस्थाः ...{Loading}...</h5></summary>
 
-अदि॒तेऽन्व॑मँस्थाः।
+अदि॒तेऽन्व॑मँस्थाः। +++(इति दक्षिणतः, प्राचीनम्)+++ 
 
-अनु॑म॒तेऽन्व॑मँस्थाः।
+अनु॑म॒तेऽन्व॑मँस्थाः।  +++(इति पश्चिमाद् उदीचीनम्)+++
 
-सर॑स्व॒ते ऽन्व॑मँस्थाः।
+सर॑स्व॒ते ऽन्व॑मँस्थाः।  +++(इति उत्तरतः प्राचीनम्)+++
 
-देव॑ सवितः॒ प्रासा॑वीः।
+देव॑ सवितः॒ प्रासा॑वीः।  +++(इति प्रागारम्भं प्रदक्षिणं)+++
 
+</details>
 </div>
 
 इति पूर्ववत् परिषिच्य, 
@@ -471,7 +654,21 @@ title = "०६ अग्नि-सन्धान-प्रयोगः"
 
 इति [सात्त्विकत्यागं](/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/prakIrNa-mantrAdi/gadyam/karma-parva-stham/sAttvika-tyAgaH_bhagavAn_eva/) कृत्वा, 
 
-<div class="js_include" url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/prakIrNa-mantrAdi/gadyam/karma-parva-stham/prINana-mantraH_kRtaM_cha/" newLevelForH1="5" includeTitle="false"> </div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/prakIrNa-mantrAdi/gadyam/karma-parva-stham/prINana-mantraH_kRtaM_cha/">
+<details open><summary><h5>प्रीणन-मन्त्रः - कृतं च ...{Loading}...</h5></summary>
+
+
+कृतञ् च करिष्यामि भगवन्। +++(इति समाप्ताव् अपि।)+++  
+
+नित्येन भगवत्-प्रीत्य्-अर्थेन  
+महा-विभूति-चातुरात्म्य-भगवद्-वासुदेव-पादारविन्दार्चनेन  
+???? भगवत्कर्मणा  
+भगवन्तं वासुदेवम् अर्चयिष्यामि  +++(इत्य् आदौ)+++/ भगवान् प्रीयतां वासुदेवः +++(इत्य् अन्ते)+++।   
+
+
+
+</details>
+</div>
 
 इति कृतं कर्म भगवति समर्पयेत् ।
 
@@ -485,30 +682,28 @@ title = "०६ अग्नि-सन्धान-प्रयोगः"
 
 इति सङ्कल्प्य,
 
-<div class="js_include" url="/purANam/agni-purANam/sarva-prastutiH/167_ayutalaxakoTihomAH/hiraNya-garbha-garbhastham.md"  newLevelForH1="5" includeTitle="false"> 
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/purANam/agni-purANam/sarva-prastutiH/167_ayutalaxakoTihomAH/hiraNya-garbha-garbhastham.md">
+<details open><summary><h5>हिरण्य-गर्भ--गर्भ-स्थं ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-हिरण्य-गर्भ-गर्भ-स्थं  
-हेमबीजं विभावसोः ।  
++++(हिरण्य!)+++ हिरण्य-गर्भ--गर्भ-स्थं  
+हेम-बीजं विभावसोः ।  
 अनन्त-पुण्य-फल-दम्  
-अदश्-शान्ति प्रयच्छ मे॥
+अतश् शान्तिं प्रयच्छ मे॥
 </details>
-
 <details><summary>मूलम्</summary>
 
 हिरण्यगर्भगर्भस्थं  
 हेमबीजं विभावसोः ।  
 अनन्तपुण्यफलदम्  
-अदश्शान्ति प्रयच्छ मे॥
+अदश्शान्तिं प्रयच्छ मे॥
 _________
 हिरण्यगर्भगर्भस्थं  
 हेमबीजं विभावसोः ।  
 अनन्तपुण्यफलदम्  
-अतश्शान्ति प्रयच्छ मे॥
-
+अतश्शान्तिं प्रयच्छ मे॥
 </details>
-
+</details>
 </div>  
 
 

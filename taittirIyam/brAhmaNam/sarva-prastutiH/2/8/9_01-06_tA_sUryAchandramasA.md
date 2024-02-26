@@ -148,15 +148,15 @@ title = "९ ०१-०६ ता सूर्याचन्द्रमसा"
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+############ Strata
 Cretic
 
-######## Pāda-label
+############ Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-######## Morph
+############ Morph
 asyá ← ayám (pronoun)  
 {case:GEN, gender:M, number:SG}
 
@@ -298,11 +298,11 @@ ____________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+########## English translation:
 
 “The seven rivers display his glory; heaven, and earth, and sky display his visible form; the sun and moon, **Indra**,perform their revolution, that we may see, and have faith in what we see.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+########## Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Ahi and **Vṛtra** are differently-formed clouds. **Rauhina** = an **asura**, possibly, a red cloud
 </details>

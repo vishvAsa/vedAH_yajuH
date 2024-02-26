@@ -35,14 +35,14 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+############ Strata
 Normal
 
-######## Pāda-label
+############ Pāda-label
 genre M  
 genre M;; repeated line  
 genre M
-######## Morph
+############ Morph
 ayám ← ayám (pronoun)  
 {case:NOM, gender:M, number:SG}
 
@@ -140,7 +140,7 @@ máma ← ahám (pronoun)
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+########### English translation:
 
 “This libation is offered to you, **Mitra** and **Varuṇa**, cherishers of truth; hear, verily, this my present invocatioṇ”
 </details>

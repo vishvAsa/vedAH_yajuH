@@ -57,15 +57,15 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+############ Strata
 Cretic
 
-######## Pāda-label
+############ Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-######## Morph
+############ Morph
 hr̥dā́ ← hā́rdi ~ hr̥d- (nominal stem)  
 {case:INS, gender:N, number:SG}
 
@@ -214,11 +214,11 @@ prajā́bhiḥ ← prajā́- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+########### English translation:
 
 “Inasmuch as I who am a mortal earnestly invoke you who are an immortal, praising you with a devoted heart; therefore, **Jātavedas**, grant us food, and may I obtain immortality through my posterity.”
 
-####### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+########### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Immortality: an unbroken succession of descendants, amṛtatvam santatyaviccheda lakṣaṇam (amṛtatvam = tadu te partyāmṛtam : **Taittirīya** **Brāhmaṇa** 1.5.5.6); another text may be cited: prajām anu prajāyate tad u te martyamṛtam, when progeny is born after progeny, that verily is the immortality of your mortality
 </details>
@@ -333,15 +333,15 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+############ Strata
 Cretic
 
-######## Pāda-label
+############ Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-######## Morph
+############ Morph
 jātavedaḥ ← jātávedas- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -498,7 +498,7 @@ svastí ← svastí- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+########### English translation:
 
 “Upon whatsoever performer of good works you, **Agni**, who are **Jātavedas**, cast a favourable regard, he enjoys welfare, and riches, comprehending horses, cattle, sons and **male** descendants.”
 </details>
@@ -613,14 +613,14 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+############ Strata
 Strophic
 
-######## Pāda-label
+############ Pāda-label
 genre M  
 genre M  
 genre M
-######## Morph
+############ Morph
 putra ← putrá- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -729,7 +729,7 @@ tvā́m ← tvám (pronoun)
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+########### English translation:
 
 “O son of strength, men, uttering their desires, abide happily in you, none, **Indra**, surpasses you.”
 </details>
@@ -800,15 +800,15 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+############ Strata
 Strophic
 
-######## Pāda-label
+############ Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-######## Morph
+############ Morph
 índram ← índra- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -960,7 +960,7 @@ samānádakṣāḥ ← samānádakṣa- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+########### English translation:
 
 “The **Soma** effused with reiterated prayer delights **Indra**; the effused juices, (offered) with repeatedpraise, (exhilarate) **Maghavan**; therefore, (the priests), combining together and making like exertion, invoke Indrafor protection, as sons (apply) to a father.”
 </details>
@@ -1195,15 +1195,15 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+############ Strata
 Cretic
 
-######## Pāda-label
+############ Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-######## Morph
+############ Morph
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -1357,7 +1357,7 @@ syāma ← √as- 1 (root)
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+########### English translation:
 
 “Royal **Agni**, I glorify at sacrifices you who are the lord of vast riches; may we who are in want of food obtain food through you, and (through you) may we overcome hosts of (hostile) men.”
 </details>
@@ -1475,14 +1475,14 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+############ Strata
 Normal
 
-######## Pāda-label
+############ Pāda-label
 genre M  
 genre M  
 genre M
-######## Morph
+############ Morph
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -1589,7 +1589,7 @@ suvī́ryam ← suvī́rya- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+########### English translation:
 
 “Wise worshippers exalt you, **Agni**, the bountiful giver of food, the deservedly lauded; do you bestow upon us excellent strength.”
 </details>
@@ -1775,14 +1775,14 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+############ Strata
 Normal on metrical evidence alone
 
-######## Pāda-label
+############ Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-######## Morph
+############ Morph
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -1885,11 +1885,11 @@ samidhyáse ← √idh- 1 (root)
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+########### English translation:
 
 “You, **Agni**, are kindled by Agni; a sage by a sage, saint by a saint, a friend by a friend.”
 
-####### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+########### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 A saint by asaint: San, satā = vidyamānaḥ, vidyamānena; **Aitareya** **Brāhmaṇa** 1.16: the fire was produced by frictionfrom the two **araṇis** and was thrown into the **āhavanīya** fire, in the atithyeṣṭi ceremony; in the verse tvamhyagne..., the one **vipra** (a sage) means one Agni, the other vipra the other Agni; the one san (being, existing)means the one, the other san (in satā) the other Agni (Haug)
 </details>
@@ -1997,14 +1997,14 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+############ Strata
 Normal on metrical evidence alone
 
-######## Pāda-label
+############ Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-######## Morph
+############ Morph
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -2106,7 +2106,7 @@ ___________
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+########### English translation:
 
 “**Agni**, your pure, bright, shining flames send forth your splendours.”
 </details>
@@ -2207,15 +2207,15 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+############ Strata
 Strophic on metrical evidence alone
 
-######## Pāda-label
+############ Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-######## Morph
+############ Morph
 agníḥ ← agní- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -2383,7 +2383,7 @@ _______________
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+########### English translation:
 
 “**Agni**, shines with great and varied radiance; he makes all things manifest by his might; he overcomes undivine malignant delusions; he sharpens his horns for the destruction of the **rākṣasas**.”
 </details>

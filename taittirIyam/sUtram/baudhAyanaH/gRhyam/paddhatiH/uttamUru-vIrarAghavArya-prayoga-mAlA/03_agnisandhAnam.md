@@ -5,22 +5,20 @@ title = "०३ अग्निसन्धानम्"
 
 अग्निसन्धानम् ( बोधायनीयम्)
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/3/2/04_sphyAdyupasthAnamantrAH_vidhishcha/namas_sadase.md"  newLevelForH1="5" includeTitle="false"> 
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/3/2/04_sphyAdyupasthAnamantrAH_vidhishcha/namas_sadase.md">
+<details open><summary><h5>नमस् सदसे ...{Loading}...</h5></summary>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 नम॒स्सद॑से॒ नम॒स्सद॑स॒स्पत॑ये॒ नम॒स्सखी॑नाम्पुरो॒गाणा॒ञ्चख्षु॑षे॒ नमो॑ दि॒वे नमᳶ॑ पृथि॒व्यै
 </details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नम॒स्सद॑से  
-नम॒स्सद॑स॒स्पत॑ये    
-नम॒स्सखी॑नाम्पुरो॒गाणा॒ञ्चख्षु॑षे    
-नमो॑ दि॒वे   
-नमᳶ॑ पृथि॒व्यै
+नम॒स् सद॑से॥  
+नम॒स् सद॑स॒स्-पत॑ये॥    
+नम॒स् सखी॑नाम् पुरो॒गाणा॒ञ् चख्षु॑षे॥    
+नमो॑ दि॒वे॥   
+नमᳶ॑ पृथि॒व्यै॥
 </details>
-
 <details><summary>मूलम्</summary>
 
 नम॒स्सद॑से  
@@ -29,22 +27,20 @@ title = "०३ अग्निसन्धानम्"
 नमो॑ दि॒वे   
 नमᳶ॑ पृथि॒व्यै
 </details>
-
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 'ऐन्द्रं हि देवतया सदः' इति इन्द्रः सदसस्पतिः पालयिता तस्मै नमः । 'षष्ठयाः पतिपुत्र' इति सत्वम् । सखीनां समानख्यानानामृत्विजां पुरोगाणामग्रतो गन्तृणां प्रधानानां सर्वेषामपि चक्षुषे चक्षुसथानीयाय दर्शनहेतवे सवित्रे च नमः । गतमन्यत् ॥
 </details>
-
-</div>  
-
-
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/2/1/267_sapratha_sabhAm.md"  newLevelForH1="5" includeTitle="false"> 
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/2/1/267_sapratha_sabhAm.md">
+<details open><summary><h5>267 सप्रथ सभाम् ...{Loading}...</h5></summary>
 
 सप्र॑थ स॒भाम् मे॑ गोपाय ।  
 ये च॒ सभ्या᳚स् सभा॒सदः॑ ।  
 तानि॑न्द्रि॒याव॑तᳵ कुरु ।  
 सर्व॒म् आयु॒र् उपा॑सताम् ।
+</details>
 </div>  
 
 
@@ -278,9 +274,48 @@ title = "०३ अग्निसन्धानम्"
 
 इति ।
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/mantrahInam_hutAshana.md" newLevelForH1="5" includeTitle="false"> </div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/mantrahInam_hutAshana.md">
+<details open><summary><h5>मन्त्रहीनं - हुताशन ...{Loading}...</h5></summary>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/prAyashcittAny_asheShANi.md" newLevelForH1="5" includeTitle="false"> </div>
+
+(अग्नये नमः)
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मन्त्रहीनं क्रियाहीनं  
+भक्तिहीनं हुताशन ।  
+यद्धुतं तु मया देव  
+परिपूर्णं तदस्तु ते ॥  
+</details>
+<details><summary>मूलम्</summary>
+
+मन्त्रहीनं क्रियाहीनं  
+भक्तिहीनं हुताशन ।  
+यद्धुतं तु मया देव  
+परिपूर्णं तदस्तु ते ॥
+</details>
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/prAyashcittAny_asheShANi.md">
+<details open><summary><h5>प्रायश्चित्तान्यशेषाणि ...{Loading}...</h5></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रायश्चित्तान्य् अशेषाणि  
+तपः कर्मात्मकानि वै ।  
+यानि तेषाम् अशेषाणां  
+कृष्णानुस्मरणं परम् ॥
+</details>
+<details><summary>मूलम्</summary>
+
+प्रायश्चित्तान्यशेषाणि  
+तपः कर्मात्मकानि वै ।  
+यानि तेषामशेषाणां  
+कृष्णानुस्मरणं परम्॥
+</details>
+
+(कृष्ण कृष्ण कृष्ण॥)
+</details>
+</div>
 
 प्रणम्य, अभिवाद्य, पवित्रं, विस्रस्य आचामेत् ॥
 

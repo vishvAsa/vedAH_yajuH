@@ -25,7 +25,7 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/20/18_yoktA_cha_dharmayukteShu.md">
 <details open><summary><h4>18 योक्ता च धर्मयुक्तेषु ...{Loading}...</h4></summary>
 
-योक्ता च धर्मयुक्तेषु द्रव्यपरिग्रहेषु च १८
+योक्ता च धर्म-युक्तेषु द्रव्य-परिग्रहेषु च १८
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/20/19_pratipAdayitA_cha_tIrthe.md">
@@ -92,13 +92,14 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/07/17/10_tulyaguNeShu_vayovRddhaH_shreyAn.md">
 <details open><summary><h4>10 तुल्यगुणेषु वयोवृद्धः श्रेयान्, ...{Loading}...</h4></summary>
 
-तुल्यगुणेषु वयोवृद्धः श्रेयान्, द्रव्यकृशश्चेप्सन् १०
+तुल्य-गुणेषु वयो-वृद्धः श्रेयान्,  
+द्रव्य-कृशश् चेप्सन् १०
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/20/18_yoktA_cha_dharmayukteShu.md">
 <details open><summary><h4>18 योक्ता च धर्मयुक्तेषु ...{Loading}...</h4></summary>
 
-योक्ता च धर्मयुक्तेषु द्रव्यपरिग्रहेषु च १८
+योक्ता च धर्म-युक्तेषु द्रव्य-परिग्रहेषु च १८
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/20/19_pratipAdayitA_cha_tIrthe.md">
@@ -110,7 +111,7 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/20/20_yantA_chAtIrthe_yato.md">
 <details open><summary><h4>20 यन्ता चातीर्थे यतो ...{Loading}...</h4></summary>
 
-+++(दानस्य नि)+++यन्ता चातीर्थे यतो न भयं स्यात् २०
++++(दानस्य नि)+++यन्ता चातीर्थे - यतो न भयं स्यात् २०
 </details>
 </div>
   

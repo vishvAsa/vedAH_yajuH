@@ -135,7 +135,16 @@ title = "११ स-पिण्डी-करणम्"
 श्वोभूतो(ते) ब्राह्मणान् आहूय  
 तेषां पुरतः यथाशक्ति दक्षिणां निधाय, प्रणम्य,  
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya.md.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya.md">
+<details open><summary><h5>अशेषे हे परिषत् ...{Loading}...</h5></summary>
+
+> स्वामिनः!  
+अशेषे हे परिषत्  
+भवत्-पादमूले मया समर्पिताम् इमां सौवर्णीं यत्-किञ्चिद्-दक्षिणां  
+यथोक्तदक्षिणामिव स्वीकृत्य  
+
+</details>
+</div>  
 
 > अमुक-गोत्रस्य अमुक-शर्मणः अमुष्य प्रेतस्य स-पिण्डी-करणश्राद्धं करिष्यन्  
 ऊनमासिकादीनि ऊनाब्दिक-पर्यन्तानि पञ्च-दशैकोद्दिष्ट-श्राद्धानि  

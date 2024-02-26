@@ -28,8 +28,6 @@ title = "१४ 'ऋताषा'डिति सानुषङ्गम् अ
 इति कपर्दि-मतानुसारेण पन्थाः सूचितः ॥
 </details>
 </details>
-
-
 <div class="js_include" includetitle="true" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/3/4/07_rAShTrabhRnmantrAH">
 <details open><summary><h4>०७ राष्ट्रभृन्मन्त्राः ...{Loading}...</h4></summary>
 
@@ -333,4 +331,4 @@ title = "१४ 'ऋताषा'डिति सानुषङ्गम् अ
 इति तृतीये चतुर्थे सप्तमोनुवाकः ॥  
 </details>
 </details>
-</div> 
+</div>

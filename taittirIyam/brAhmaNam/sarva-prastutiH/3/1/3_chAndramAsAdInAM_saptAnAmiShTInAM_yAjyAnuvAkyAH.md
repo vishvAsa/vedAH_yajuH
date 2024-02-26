@@ -39,15 +39,15 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+############ Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-######## Pāda-label
+############ Pāda-label
 popular  
 popular  
 popular  
 popular
-######## Morph
+############ Morph
 bhavati ← √bhū- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -233,11 +233,11 @@ _______________________
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+########### English translation:
 
 “New every day (the moon) is born; the manifester of days he goes on front of the Dawns; hedistributes their portion to the gods as he goes; the moon protracts a long existence.”
 
-####### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+########### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 The first half othe verse isaddressed to the sun; but, the moon is the manifester of days in regulating the time of **tithis** (lunar days)
 </details>
@@ -534,14 +534,14 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+############ Strata
 Cretic
 
-######## Pāda-label
+############ Pāda-label
 genre M  
 genre M  
 genre M
-######## Morph
+############ Morph
 jātávedasam ← jātávedas- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -643,7 +643,7 @@ ___________
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+########### English translation:
 
 “His coursers bear on high the divine all-knowing Sun, that he may be seen by all (the worlds).”
 </details>
@@ -768,15 +768,15 @@ Den Wesenkenner führen schon empor die Strahlen, ihn, den Gott, Dass jedermann 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+############ Strata
 Cretic
 
-######## Pāda-label
+############ Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
-######## Morph
+############ Morph
 agāt ← √gā- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -931,11 +931,11 @@ _____________
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+########### English translation:
 
 “Thewonderful hostof rays has risen; th eye of **Mitra**, **Varuṇa** and **Agni**; the sun, the **soul** of all that moves or is immoveable, has filled (with his glory) the heaven, the earth, and the firmament.”
 
-####### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+########### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Agni: cākṣus = the enlightener. Mitra, Varuṇa and Agni are typical of the world, or of the seasons, perhaps, over which they preside. **ātmā** jagataḥ = the soul of the world, from his pervading and animating all things; jagataḥ, of what is moveable; tathuṣaḥ, of that which is fixed. The sun is the cause of all effects, whether moveableor immoveable: sa hi sarvasya sthāvarajaṅgamātmakasya kāryavargasya kāraṇam
 </details>
@@ -1107,9 +1107,9 @@ Aditi, who giveth good protection and good guidance.
 <details open><summary><h2>१७ इदं विष्णुर्वि ...{Loading}...</h2></summary>
 
 
-इ॒दव्ँ विष्णु॒र् +++(अग्नि-विद्युत्-सूर्यात्मना)+++ वि च॑क्रमे  
-+++(पृथिव्याम् अन्तरिक्षे दिवि च)+++ त्रे॒धा नि द॑धे प॒दम् ।  
-+++(तैर् आधारैर् जगत्)+++ सम् ऊ॑ढम् अस्य पाꣳसु॒रे +++(ले इति साम्नि, पांसुमति [पादे])+++ ॥
+इ॒दव्ँ विष्णु॒र् +++(अग्नि-विद्युत्-सूर्यात्मना)+++ **वि च॑क्रमे**  
++++(पृथिव्याम् अन्तरिक्षे दिवि च)+++ त्रे॒धा **नि द॑धे** प॒दम् ।  
++++(तैर् आधारैर् जगत्)+++ **सम् ऊ॑ढम्** अस्य पाꣳसु॒रे +++(ले इति साम्नि, पांसुमति [पादे])+++ ॥
 
 </details>
 </div>
@@ -1129,14 +1129,14 @@ Aditi, who giveth good protection and good guidance.
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-##### Strata
+###### Strata
 Normal
 
-##### Pāda-label
+###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-##### Morph
+###### Morph
 cakrame ← √kramⁱ- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:MED}
 
@@ -1248,11 +1248,11 @@ sámūḷham ← √vah- (root)
 </details>
 <details><summary>Wilson</summary>
 
-#### English translation:
+##### English translation:
 
 “**Viṣṇu** traversed this (world); three times he plural nted his foot and the whole (world) was collected in the dust of his (footstep).”
 
-#### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+##### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Tredhā nidhadhe padam: the three paces of Viṣṇu imply the presence of Viṣṇu in the three regions of earth, air and heaven, in the forms of **Agni**, **Vāyu** and **Sūrya**, fire, wind and the sun. According to **Śākapūṇi**, the step was on earth, in the firmament, in heaven; according to Aurṇavābha on Samārohaṇa or the eastern mountain, on **Viṣṇupada** the meridian sky and **Gayaśiras** the western mountain, thus identifiying Viṣṇu with the Sun, and his three paces with the rise, culmination, and setting of that luminary
 </details>
@@ -1359,15 +1359,15 @@ Vischnu durchschritt die ganze Welt, trat dreimal nieder mit dem Fuss, An seinem
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+############ Strata
 Strophic
 
-######## Pāda-label
+############ Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-######## Morph
+############ Morph
 prá ← prá (invariable)  
 {}
 
@@ -1506,11 +1506,11 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+########### English translation:
 
 “**Viṣṇu** is therefore glorified, that by his prowess he is like a fearful, ravenous, and mountain-haunting wild beast, and because of that in his three paces all worlds abide.”
 
-####### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+########### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Mountain-haunting wild beast: **mṛga** or **siṃha**, a lion, as applicable to Viṣṇu: one who seeks for his enemies to inflict punishment on them, and is therefore, fearful and fierce;
 
@@ -1623,14 +1623,14 @@ Gerühmt wird Vischnu wegen dieser Grossthat, gleich wildem Löwen, der durch Be
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+############ Strata
 Normal on metrical evidence alone
 
-######## Pāda-label
+############ Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-######## Morph
+############ Morph
 agníḥ ← agní- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -1727,11 +1727,11 @@ _____________
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+########### English translation:
 
 “**Agni**, the head (of the gods), the summit of heaven-- he the lord of the earth-- gladdens the seed of thewaters.”
 
-####### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+########### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Seed: retāṃsi, the moveable andimmovable productions of the creative waters
 </details>

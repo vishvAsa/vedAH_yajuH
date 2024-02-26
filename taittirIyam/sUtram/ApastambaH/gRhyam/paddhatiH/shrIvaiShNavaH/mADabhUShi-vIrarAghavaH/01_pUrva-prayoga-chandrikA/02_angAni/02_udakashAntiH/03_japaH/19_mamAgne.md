@@ -49,15 +49,15 @@ title = "१९ ‘ममाग्ने’,"
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-########### Strata
+###################### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-########### Pāda-label
+###################### Pāda-label
 popular  
 popular  
 popular  
 popular
-########### Morph
+###################### Morph
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -210,7 +210,7 @@ _________________
 </details>
 <details><summary>Wilson</summary>
 
-########## English translation:
+##################### English translation:
 
 “May glory **Agni**, be mine in battle, may we, kindling you, cherish your person n, may the (inhabitants ofthe) four quarters bow down before me, may we with you for our leader overcome (hostile) armies.”
 </details>
@@ -374,15 +374,15 @@ Glück werde mir, wenn ich dich, Agni, rufe, Heil sei den Leibern, wenn wir dich
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-########### Strata
+###################### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-########### Pāda-label
+###################### Pāda-label
 popular  
 popular  
 popular  
 popular
-########### Morph
+###################### Morph
 dévīḥ ← devī́- (nominal stem)  
 {case:VOC, gender:F, number:PL}
 
@@ -554,11 +554,11 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-########## English translation:
+##################### English translation:
 
 “You six mighty goddesses, bestow upon us ample (wealth); universal gods, display prowess here; letus not be bereft of our offspring, or be harmed in our bodies, may we not become subject to our enemy, royalSoma.”
 
-########## Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+##################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 You six: heaven, earth, day, night, water and plural nts
 </details>
@@ -687,15 +687,15 @@ Ihr weiten sechs Göttinnen schaffet Raum uns, ihr Götter alle, zeigt euch hier
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-########### Strata
+###################### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-########### Pāda-label
+###################### Pāda-label
 popular;; 12 = 5+7, ending LHX  
 popular  
 popular  
 popular
-########### Morph
+###################### Morph
 mahiṣáḥ ← mahiṣá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -881,7 +881,7 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-########## English translation:
+##################### English translation:
 
 “May the omnipresent (**Indra**), the mighty one, who is invoked by many, and lauded by many, bestow ablessing on this our sacrifice; be gracious to our offspring, Indra, lord of bay horses; harm us not, desert us not.”
 </details>
@@ -966,15 +966,15 @@ Der umfangsreiche Stier verleihe Schutz uns, bei diesem Ruf der vielgerufne Näh
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-########### Strata
+###################### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-########### Pāda-label
+###################### Pāda-label
 popular  
 popular  
 popular  
 popular
-########### Morph
+###################### Morph
 ápa ← ápa (invariable)  
 {}
 
@@ -1147,7 +1147,7 @@ _____________________
 </details>
 <details><summary>Wilson</summary>
 
-########## English translation:
+##################### English translation:
 
 “May those who are our foes be driven off; may we through **Indra** and **Agni** destroy them; may theVasus, the **Rudras**, and the **Ādityas** make me the high- reaching, fierce, intelligent, supreme ruler.”
 </details>
@@ -1268,5 +1268,4 @@ Es mögen fern von uns die Feinde bleiben, durch Indra, Agni stossen wir zurück
 
 </details>
 </details>
-</div>  
-
+</div>

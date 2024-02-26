@@ -99,7 +99,14 @@ title = "०५ भोजनम्"
 दक्षिणे पित्रर्थं ब्राह्मणं पूर्ववत् उपवेश्य,  
 गोमयेन अनुलिप्य
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/2/1/06_shan_no.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/2/1/06_shan_no.md">
+<details open><summary><h5>06 शन् नो ...{Loading}...</h5></summary>
+
+शन् नो॑ दे॒वीर् अ॒भिष्ट॑ये ।  
+आपो॑ भवन्तु पी॒तये᳚ ।  
+शय्ँयोर् अ॒भि स्र॑वन्तु नः ।
+</details>
+</div>  
 
 
 इति मन्त्रेण,  
@@ -420,7 +427,7 @@ title = "०५ भोजनम्"
 तस्मा॒द् उत्ति॑ष्ठन्त॒ꣳ॒ ह वा॒ तानि॒ रक्षाꣳ॑स्यादि॒त्यय्ँ योध॑यन्ति॒ याव॑दस्त॒मन्व॑गा॒त्।  
 </details>
 
-### अर्घ्यम्
+#### अर्घ्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तानि॑ ह॒ वा ए॒तानि॒ रक्षाꣳ॑सि  
@@ -445,7 +452,7 @@ title = "०५ भोजनम्"
 </details>
 
 
-### प्रदक्षिणीकरणम्
+#### प्रदक्षिणीकरणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत् प्र॑दक्षि॒णं प्रक्र॑मन्ति॒, तेन॑ पा॒प्मान॒म् अव॑धून्वन्ति।  
@@ -456,7 +463,7 @@ title = "०५ भोजनम्"
 </details>
 
 
-### ब्रह्म-भावनम्
+#### ब्रह्म-भावनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ॒द्यन्त॑म् अस्त॒य्ँ यन्त॑म् आदि॒त्यम् अ॑भिध्या॒यन्  
@@ -568,9 +575,9 @@ title = "०५ भोजनम्"
 <details open><summary><h2>१७ इदं विष्णुर्वि ...{Loading}...</h2></summary>
 
 
-इ॒दव्ँ विष्णु॒र् +++(अग्नि-विद्युत्-सूर्यात्मना)+++ वि च॑क्रमे  
-+++(पृथिव्याम् अन्तरिक्षे दिवि च)+++ त्रे॒धा नि द॑धे प॒दम् ।  
-+++(तैर् आधारैर् जगत्)+++ सम् ऊ॑ढम् अस्य पाꣳसु॒रे +++(ले इति साम्नि, पांसुमति [पादे])+++ ॥
+इ॒दव्ँ विष्णु॒र् +++(अग्नि-विद्युत्-सूर्यात्मना)+++ **वि च॑क्रमे**  
++++(पृथिव्याम् अन्तरिक्षे दिवि च)+++ त्रे॒धा **नि द॑धे** प॒दम् ।  
++++(तैर् आधारैर् जगत्)+++ **सम् ऊ॑ढम्** अस्य पाꣳसु॒रे +++(ले इति साम्नि, पांसुमति [पादे])+++ ॥
 
 </details>
 </div>  
@@ -641,17 +648,20 @@ title = "०५ भोजनम्"
 **प्राचीनावीती** -  
 दक्षिणामुखः सव्यं जान्व् आच्य,
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/yaJNeshvaraH__eko_viShNuH/"  newLevelForH1="5" includeTitle="false"> 
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/yaJNeshvaraH__eko_viShNuH/">
+<details open><summary><h5>यज्ञेश्वरो … एको विष्णुः ...{Loading}...</h5></summary>
 
-> यज्ञेश्वरो हव्य-समस्त-कव्य-  
+
+यज्ञेश्वरो हव्य-समस्त-कव्य-  
 भोक्ता ऽव्ययात्मा हरिर् ईश्वरो ऽत्र ।  
 तत्-सन्निधानाद् अपयान्तु सद्यो  
 रक्षांस्य् अशेषाण्य् असुराश् च सर्वे ॥
->
-> एको विष्णुर् महद्भूतं  
+
+एको विष्णुर् महद्भूतं  
 पृथक् भूतान्य् अनेकशः ।  
 त्रीन् लोकान् व्याप्य भूतात्मा  
-भुङ्क्ते विश्व-भुग् अव्ययः ॥
+भुङ्क्ते विश्व-भुग् अव्ययः ॥ 
+</details>
 </div>  
 
 
@@ -1159,6 +1169,10 @@ title = "०५ भोजनम्"
 
 नमो॑ वᳶ पितरो॒ रसा॑य । [पित॑रो॒ नमो॑ वः।],
 </details>
+<details><summary>Keith</summary>
+
+Homage to your taste, O fathers; 
+</details>
 <details><summary>मूलम्</summary>
 
 नमो॑ वᳶ पितरो॒ रसा॑य । [पित॑रो॒ नमो॑ वः।],
@@ -1169,7 +1183,11 @@ title = "०५ भोजनम्"
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नमो॑ वᳶ पितर॒श्शुष्मा॑य +++(पित॑रो॒ नमो॑ वः )+++,,
+नमो॑ वᳶ पितर॒श् शुष्मा॑य +++(पित॑रो॒ नमो॑ वः )+++,,
+</details>
+<details><summary>Keith</summary>
+
+homage to your birth, O fathers; 
 </details>
 <details><summary>मूलम्</summary>
 
@@ -1183,6 +1201,10 @@ title = "०५ भोजनम्"
 
 नमो॑ वᳶ पितरो जी॒वाय । [पित॑रो॒ नमो॑ वः।],
 </details>
+<details><summary>Keith</summary>
+
+homage to your life, O fathers; 
+</details>
 <details><summary>मूलम्</summary>
 
 नमो॑ वᳶ पितरो जी॒वाय । [पित॑रो॒ नमो॑ वः।],
@@ -1193,7 +1215,11 @@ title = "०५ भोजनम्"
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नमो॑ वᳶ पि॒त॒र॒स्स्व॒धायै॑ । [पित॑रो॒ नमो॑ वः।],,
+नमो॑ वᳶ पि॒त॒र॒स् स्व॒धायै॑ । [पित॑रो॒ नमो॑ वः।],,
+</details>
+<details><summary>Keith</summary>
+
+homage to your [5] custom, O fathers; 
 </details>
 <details><summary>मूलम्</summary>
 
@@ -1206,6 +1232,10 @@ title = "०५ भोजनम्"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नमो॑ वᳶ पितरो म॒न्यवे॑ । [पित॑रो॒ नमो॑ वः।],,
+</details>
+<details><summary>Keith</summary>
+
+homage to your anger, O fathers; 
 </details>
 <details><summary>मूलम्</summary>
 
@@ -1220,6 +1250,10 @@ title = "०५ भोजनम्"
 नमो॑ वᳶ पितरो घो॒राय॑ ,  
 पित॑रो॒ नमो॑ वः ।
 </details>
+<details><summary>Keith</summary>
+
+homage to your terrors, O fathers; O fathers, homage to you.
+</details>
 <details><summary>मूलम्</summary>
 
 नमो॑ वᳶ पितरो घो॒राय॑ ,  
@@ -1232,7 +1266,11 @@ title = "०५ भोजनम्"
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य ए॒तस्मि॑ल्ँलो॒के स्थ यु॒ष्माꣳस्तेऽनु॑ ।
+य ए॒तस्मि॑ल्ँ लो॒के स्थ यु॒ष्माꣳस्तेऽनु॑ ।
+</details>
+<details><summary>Keith</summary>
+
+Ye that are in that world, may they follow you;
 </details>
 <details><summary>मूलम्</summary>
 
@@ -1244,7 +1282,11 @@ title = "०५ भोजनम्"
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ये᳚ऽस्मिल्ँ लो॒के मान्तेऽनु॑ ।
+ये᳚ऽस्मिल्ँ लो॒के मान् तेऽनु॑ ।
+</details>
+<details><summary>Keith</summary>
+
+ye that are in this world, may they follow me.
 </details>
 <details><summary>मूलम्</summary>
 
@@ -1256,7 +1298,11 @@ title = "०५ भोजनम्"
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य ए॒तस्मि॑ल्ँलो॒के स्थ यू॒यन्तेषा॒व्ँवसि॑ष्ठा भूयास्त ।
+य ए॒तस्मि॑ल्ँलो॒के स्थ यू॒यन् तेषा॒व्ँ वसि॑ष्ठा भूयास्त ।
+</details>
+<details><summary>Keith</summary>
+
+Ye that are in that world, of them be ye the most fortunate; 
 </details>
 <details><summary>मूलम्</summary>
 
@@ -1268,7 +1314,11 @@ title = "०५ भोजनम्"
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ये᳚ऽस्मिल्ँ लो॒के॑ऽहन्तेषा॒व्ँवसि॑ष्ठो भूयासम् ।
+ये᳚ऽस्मिल्ँ लो॒के॑ ऽहन् तेषा॒व्ँवसि॑ष्ठो भूयासम् ।
+</details>
+<details><summary>Keith</summary>
+
+ye that are in this world, of these may I be the most fortunate.
 </details>
 <details><summary>मूलम्</summary>
 
@@ -1375,7 +1425,66 @@ title = "०५ भोजनम्"
 
 [[138]]
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/dhanyA_vayam__patra-shAkAdi__mantrahInam__adya_me"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/dhanyA_vayam__patra-shAkAdi__mantrahInam__adya_me">
+<details open><summary><h5>धन्या वयं, पत्र-शाकादि, मन्त्रहीनं, अद्य मे ...{Loading}...</h5></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+धन्या वयं भवत्पाद-  
+रजः पूतम् इदं गृहम् ।  
+अनुग्रहश् च युष्माभिः  
+कृतोऽस्मासु दयालुभिः ॥  
+</details>
+<details><summary>मूलम्</summary>
+
+धन्या वयं भवत्पाद-  
+रजः पूतम् इदं गृहम् ।  
+अनुग्रहश् च युष्माभिः  
+कृतोऽस्मासु दयालुभिः ॥  
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पत्र-शाकादि-दानेन  
+क्लेशिता यूयम् ईदृशाः ।  
+तत्-क्लेश-जातं चित्तेषु  
+विस्मृत्य क्षन्तुम् अर्हथ ॥  
+</details>
+<details><summary>मूलम्</summary>
+
+पत्र-शाकादि-दानेन  
+क्लेशिता यूयम् ईदृशाः ।  
+तत्-क्लेश-जातं चित्तेषु  
+विस्मृत्य क्षन्तुम् अर्हथ ॥
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मन्त्र-हीनं क्रिया-हीनं  
+भक्तिहीनं द्विजोत्तमाः !  
+श्राद्धं सम्पूर्णतां यातु  
+प्रसादात् भवतां मम ॥  
+</details>
+<details><summary>मूलम्</summary>
+
+मन्त्र-हीनं क्रिया-हीनं  
+भक्तिहीनं द्विजोत्तमाः !  
+श्राद्धं सम्पूर्णतां यातु  
+प्रसादात् भवतां मम ॥
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अद्य मे सफलं जन्म  
+भवत्-पादाब्ज-वन्दनात् ।  
+अद्य मे वंशजाः सर्वे  
+याता वोऽनुग्रहात् दिवम् 
+</details>
+<details><summary>मूलम्</summary>
+
+अद्य मे सफलं जन्म  
+भवत्-पादाब्ज-वन्दनात् ।  
+अद्य मे वंशजाः सर्वे  
+याता वोऽनुग्रहात् दिवम् 
+</details>
+</details>
+</div>  
 
 
 इत्युपचारान् उत्त्वा,  

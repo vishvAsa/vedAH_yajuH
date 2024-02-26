@@ -39,15 +39,42 @@ title = "०३ उल्लेखनादि"
 
 [[10]]
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/123/06_nAke_suparNamupa.md" newLevelForH1="5" includeTitle="false"> </div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/123/06_nAke_suparNamupa.md">
+<details open><summary><h5>०६ नाके सुपर्णमुप ...{Loading}...</h5></summary>
+
+
+नाके॑ सुप॒र्णम् +++(→सूर्यं)+++ उप॒ यत् पत॑न्तं  
+हृ॒दा **वेन॑न्तो अ॒भ्यच॑क्षत** त्वा ।  
+हिर॑ण्य-पक्षं॒ +++(शतभिषक्-स्थ-)+++वरु॑णस्य दू॒तं  
+य॒मस्य॒ योनौ॑ +++(→भरण्यां)+++ शकु॒नं भु॑र॒ण्युम्+++(←भृ)+++ ॥
+
+</details>
+</div>
 
 इति दक्षिणतः पश्चिमादारभ्य प्रागवसानम् । 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/091/16_A_pyAyasva.md" newLevelForH1="5" includeTitle="false"> </div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/091/16_A_pyAyasva.md">
+<details open><summary><h5>१६ आ प्यायस्व ...{Loading}...</h5></summary>
+
+
+**आ प्या॑यस्व॒ समे॑तु** ते  
+वि॒श्वतः॑ सोम॒ वृष्ण्य॑म् ।  
+**भवा॒** वाज॑स्य **सङ्ग॒थे**+++(=संगमने)+++ ॥
+
+</details>
+</div>
 
 इति उत्तरतः पश्चिमादारभ्य प्रागवसानम् । 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/5/5/09/38_yo_rudro.md" newLevelForH1="5" includeTitle="false"> </div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/5/5/09/38_yo_rudro.md">
+<details open><summary><h5>38 यो रुद्रो ...{Loading}...</h5></summary>
+
+यो रु॒द्रो अ॒ग्नौ , यो अ॒फ्सु ,  
+य ओष॑धीषु॒, यो रु॒द्रो  
+विश्वा॒ भुव॑ना **वि॒वेश॒**   
+तस्मै॑ रु॒द्राय॒ **नमो॑ अ॒स्तु** ।
+</details>
+</div>
 
 इति मध्ये दक्षिणत आरभ्य उदगवसानमुल्लिखेत् । अप उपस्पृश्य । 
 
@@ -55,16 +82,26 @@ title = "०३ उल्लेखनादि"
 <details open><summary><h2>१७ इदं विष्णुर्वि ...{Loading}...</h2></summary>
 
 
-इ॒दव्ँ विष्णु॒र् +++(अग्नि-विद्युत्-सूर्यात्मना)+++ वि च॑क्रमे  
-+++(पृथिव्याम् अन्तरिक्षे दिवि च)+++ त्रे॒धा नि द॑धे प॒दम् ।  
-+++(तैर् आधारैर् जगत्)+++ सम् ऊ॑ढम् अस्य पाꣳसु॒रे +++(ले इति साम्नि, पांसुमति [पादे])+++ ॥
+इ॒दव्ँ विष्णु॒र् +++(अग्नि-विद्युत्-सूर्यात्मना)+++ **वि च॑क्रमे**  
++++(पृथिव्याम् अन्तरिक्षे दिवि च)+++ त्रे॒धा **नि द॑धे** प॒दम् ।  
++++(तैर् आधारैर् जगत्)+++ **सम् ऊ॑ढम्** अस्य पाꣳसु॒रे +++(ले इति साम्नि, पांसुमति [पादे])+++ ॥
 
 </details>
 </div>
 
 इति पश्चात् दक्षिणत आरभ्य उदगवसानम् । 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/011/01_indraM_vishvA.md" newLevelForH1="5" includeTitle="false"> </div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/011/01_indraM_vishvA.md">
+<details open><summary><h5>०१ इन्द्रं विश्वा ...{Loading}...</h5></summary>
+
+
+इन्द्रं॒ विश्वा॑ **अवीवृधन्त्**  
+समु॒द्र+++(वत्)+++-व्य॑चसं॒ गिरः॑ ।  
+र॒थीत॑मं र॒थीनां॒,  
+वाजा॑नां॒ सत्-प॑तिं॒ पति॑म् ॥
+
+</details>
+</div>
 
 
 

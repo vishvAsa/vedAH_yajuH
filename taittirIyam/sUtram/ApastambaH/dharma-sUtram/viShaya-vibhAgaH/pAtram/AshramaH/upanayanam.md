@@ -156,7 +156,7 @@ unicode_script: devanagari
 
 सप्तभिः पावमानीभिर् "यदन्ति यच् च दूरक" इति एताभिर्, यजुष्-पवित्रेण, साम-पवित्रेणाङ्गिरसेणेति+++(→ वामदेव्यम्)+++ २
 
-##### पावमान्यः
+######## पावमान्यः
 <div class="js_include" newlevelforh1="3" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/067/21_yadanti_yachcha.md">
 <details open><summary><h7>२१ यदन्ति यच्च ...{Loading}...</h7></summary>
 
@@ -233,10 +233,10 @@ unicode_script: devanagari
 </details>
 </div>
 
-##### यजुष्-पवित्रम्
+######## यजुष्-पवित्रम्
 'आपो अस्मान्मातरः शुन्धन्त्वि'त्यनेन Taitt. Saṃh. I, 2, 1, 1 +++(पूरणीयम्??)+++
 
-##### साम-पवित्रम्
+######## साम-पवित्रम्
 <div class="js_include" includetitle="false" newlevelforh1="1" unfilled="" url="/vedAH_sAma/paravastu-saama/devaH/indraH/vAmadevyam/">
 <details open><summary><h5>वामदेव्यम् ...{Loading}...</h5></summary>
 
@@ -251,8 +251,8 @@ unicode_script: devanagari
 <details open><summary><h10>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h10></summary>
 
 
-कया॑ नश्चि॒त्र +++(=चयनीयः)+++ आ भु॑वद्  
-ऊ॒ती +++(=रक्षणम्/ तर्पणम् [तेन])+++ स॒दा-वृ॑धः॒ +++(=वर्धमानः)+++ सखा॑ ।  
+कया॑ नश् चि॒त्र +++(=चयनीयः)+++ **आ भु॑वद्**  
+**ऊ॒ती** +++(=रक्षणम्/ तर्पणम् [तेन])+++, स॒दा-वृ॑धः॒ +++(=वर्धमानः)+++ सखा॑ ।  
 कया॒ शचि॑ष्ठया +++(=प्रज्ञावता)+++ वृ॒ता +++(=वर्तनेन)+++ १
 
 </details>
@@ -296,7 +296,7 @@ unicode_script: devanagari
 </div>  
 
 
-###### साम - वामदेव्यम्।
+########## साम - वामदेव्यम्।
 
 - पारम्परिक-गान-मूलम् [अत्र](https://sanskritdocuments.org/sites/pssramanujaswamy/VIVAAHA%20UPANAYANA%20SAAMAANI.pdf&sa=D&ust=1542425956221000)।
 

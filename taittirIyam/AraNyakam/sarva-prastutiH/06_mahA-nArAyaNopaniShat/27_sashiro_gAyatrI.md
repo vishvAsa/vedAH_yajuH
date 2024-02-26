@@ -44,14 +44,14 @@ unicode_script = "devanagari"
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+######## Strata
 Strophic on metrical evidence alone
 
-###### Pāda-label
+######## Pāda-label
 genre M  
 genre M  
 genre M
-###### Morph
+######## Morph
 savitúḥ ← savitár- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -428,13 +428,13 @@ _भर्गयत्य्_ अपि तत्-कष्टं
 प्र + चुद सञ्चोदने (चुरादिगण १०.४९) + णिच् + लेट् (शप् + तिप्) = प्रचोदयात्। लेटि छान्दसरूपमिदम्।
 
 
-##### निष्पत्तिः 
+####### निष्पत्तिः 
 
 प्र चुद → अनुबन्धलोपः → प्र चुद् → सत्यापपाशरूपवीणातूलश्लोकसेनालोमत्वचवर्मवर्णचूर्णचुरादिभ्यो णिच् (३.१.२५) → प्र चुद् णिच् → अनुबन्धलोपः → प्र चुद् इ → पुगन्तलघूपधस्य च (७.३.८६) → प्र चोद् इ → प्र चोदि → सनाद्यन्ता धातवः (३.१.३२) → लः कर्मणि च भावे चाकर्मकेभ्यः (३.४.६९) → विधिनिमन्त्रणामन्त्रणाधीष्टसंप्रश्नप्रार्थनेषु लिङ् (३.३.१६१) → लिङर्थे लेट् (३.४.७) → शेषात्कर्तरि परस्मैपदम् (१.३.७८) → प्र चोदि तिप् → कर्तरि शप् (३.१.६८) → प्र चोदि शप् तिप् → अनुबन्धलोपः → प्र चोदि अ ति → सार्वधातुकार्धधातुकयोः (७.३.८४) → प्र चोदे अ ति → लेटोऽडाटौ (३.४.९४) → आद्यन्तौ टकितौ (१.१.४६) → प्र चोदे अ आट् ति → अनुबन्धलोपः → प्र चोदे अ आ ति → एचोऽयवायावः (६.१.७८) → प्र चोदय् अ आ ति → अकः सवर्णे दीर्घः (६.१.१०१) → प्र चोदय् आ ति → इतश्च लोपः परस्मैपदेषु (३.४.९७) → प्र चोदय् आ त् →  प्रचोदयात्।
 
 
 
-##### अर्थः 
+####### अर्थः 
 
 यदि प्रार्थने लिङ् स्वीक्रियते तर्हि ‘लिङर्थे लेट्’ (३.४.७) इत्यनेन लेटि सिद्धस्य ‘प्रचोदयात्’ इत्यस्य “प्रकर्षेण सञ्चोदनं कुर्यात्” इत्यर्थः। यदि लडर्थे बहुलव्यत्ययाल्लेट् स्वीक्रियते तर्हि ‘प्रचोदयात्’ इत्यस्य “प्रकर्षेण सञ्चोदनं करोति” इत्यर्थः। 
 </details>
@@ -492,11 +492,11 @@ May we focus on the excellent radiance of the deva Savitṛ who will inspire our
 </details>
 <details><summary>Wilson</summary>
 
-##### English translation:
+####### English translation:
 
 “We meditate on that desirable light of the divine **Savitā**, who influences our pious rites.”
 
-##### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+####### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 **Yajus**. 3.35;
 
@@ -552,7 +552,7 @@ Dass wir des Gottes Savitar begehrtes Licht erlangten doch, Der unsre Bitten fö
 </details>
 <details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
 
-##### The mantra-s
+####### The mantra-s
 
 The Sāvitrī is the core mantra used in Savitrupāsanā. It also has other notable deployments, which will be described later. Its ṛṣi is Viśvāmitra of the clan of Gāthin, the chandas is nicṛd gāyatrī and the devatā is Savitṛ. It is from the 3_r__d_ maṇḍala of the Ṛgveda (RV 3.62.10). The meter is termed nicṛd gāyatrī because the syllable count is 23, one short of the usual 24 for a gāyatrī. This arises due to the intrinsic saṃdhi, which creates वरेण्यम् from वरेणियम् . The Sāvitrī goes thus:  
 
@@ -576,7 +576,7 @@ Thus, we get,
 
 May we focus on the excellent radiance of the deva Savitṛ who will inspire our insights.  
 
-##### Adjuncts
+####### Adjuncts
 The Sāvitrī is prefixed with the three vyāhṛti-s for the actual japa.  
 
 >  भूर् भुवः सुवः ।  
@@ -633,7 +633,7 @@ A variant inverse deployment involves merely inverting the three feet.
 
 > धियो॒ यो नः॑ प्रचो॒दया॑त् । भर्गो॑ दे॒वस्य॑ धीमहि । तत् स॑वि॒तुर् वरे॑णि॒यों ॥
 
-##### The mysteries
+####### The mysteries
 
 The śruti of the the Vājasaneyin-s provides a mystery teaching regarding the Sāvitrī, which associates the 3 feet of the core mantra with a triad of triads, which is summarized below.
 

@@ -1,9 +1,10 @@
 +++
 title = "Hira Nya garbha garbhastha M sampradade"
+
 +++
 
-<div class="js_include" url="/purANam/agni-purANam/sarva-prastutiH/167_ayutalaxakoTihomAH/hiraNya-garbha-garbhastham.md"  newLevelForH1="5" includeTitle="false"> 
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/purANam/agni-purANam/sarva-prastutiH/167_ayutalaxakoTihomAH/hiraNya-garbha-garbhastham.md">
+<details open><summary><h5>हिरण्य-गर्भ--गर्भ-स्थं ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(हिरण्य!)+++ हिरण्य-गर्भ--गर्भ-स्थं  
@@ -11,7 +12,6 @@ title = "Hira Nya garbha garbhastha M sampradade"
 अनन्त-पुण्य-फल-दम्  
 अतश् शान्तिं प्रयच्छ मे॥
 </details>
-
 <details><summary>मूलम्</summary>
 
 हिरण्यगर्भगर्भस्थं  
@@ -24,8 +24,8 @@ _________
 अनन्तपुण्यफलदम्  
 अतश्शान्तिं प्रयच्छ मे॥
 </details>
-</div>  
-
+</details>
+</div>
 <details open><summary>दानम्, त्यागः</summary>
 
 … यत्किञ्चिद्धिरण्यानि  

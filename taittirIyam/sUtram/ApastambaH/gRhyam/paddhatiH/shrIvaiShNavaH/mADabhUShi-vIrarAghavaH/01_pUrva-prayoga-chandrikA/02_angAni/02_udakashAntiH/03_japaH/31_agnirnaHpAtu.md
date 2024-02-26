@@ -18,7 +18,7 @@ title = "३१ ‘अग्निर्नःपातु',"
 
 
 
-### कृत्तिकाः - अग्निः
+######## कृत्तिकाः - अग्निः
 
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/1/01_agnirnapH_pAtu.md">
@@ -110,7 +110,7 @@ title = "३१ ‘अग्निर्नःपातु',"
 </details>
 </div>  
 
-### रोहिणी - प्रजापतिः
+######## रोहिणी - प्रजापतिः
 
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/1/03_prajApate_rohiNI.md">
@@ -205,7 +205,7 @@ title = "३१ ‘अग्निर्नःपातु',"
 
 
 
-### मृगशीर्षम् - सोमः
+######## मृगशीर्षम् - सोमः
 
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/1/05_somo_rAjA.md">
@@ -317,7 +317,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 
 
-### आर्द्रा - रुद्रः
+######## आर्द्रा - रुद्रः
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/1/07_ArdrayA_rudrapH.md">
 <details open><summary><h6>07 आर्द्रया रुद्रᳶ ...{Loading}...</h6></summary>
@@ -354,7 +354,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 **हे॒ती** रु॒द्रस्य॒ **परि॑ णो वृणक्तु**।  
 आ॒र्द्रा नक्ष॑त्रञ् **जुषताꣳ ह॒विर्** नः॑।  
 **प्र॒मु॒ञ्चमा॑नौ**** दुरि॒तानि॒ विश्वा॑।  
-अपा॒घशꣳसन् नुदता॒म् **अरा॑तिम्**।॥  
+अपा॒घशꣳ॑सन् नुदता॒म् **अरा॑तिम्**।॥  
 
 </details>
 </div>
@@ -405,7 +405,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 
 
-### पुनर्वसू - अदितिः
+######## पुनर्वसू - अदितिः
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/1/09_punarno.md">
 <details open><summary><h6>09 पुनर्नो ...{Loading}...</h6></summary>
@@ -470,8 +470,8 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 
 
-अदि॑त्यै॒ स्वाहा॒ पुन॑र्वसुभ्याम् स्वाहा।  
-{भू॑त्यै॒ स्वाहा॒ प्रजा॑त्यै॒ स्वाहा॑।}
+{अदि॑त्यै॒ स्वाहा॒ पुन॑र्वसुभ्याम् स्वाहा।  
+भूत्यै॒ स्वाहा॒ प्रजा᳚त्यै॒ स्वाहा॑।}
 
 
 
@@ -497,7 +497,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 
 
-### तिष्यम् / पुष्यम् - बृहस्पतिः
+######## तिष्यम् / पुष्यम् - बृहस्पतिः
 
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/1/11_bRhaspatipH_prathamanjAyamAnaH.md">
@@ -584,7 +584,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 
 
-### आश्रेषाः - सर्पाः
+######## आश्रेषाः - सर्पाः
 
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/1/13_idaM_sarpebhyo.md">
@@ -669,7 +669,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 
 
-### मघाः - पितरः
+######## मघाः - पितरः
 
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/1/15_upahUtApH_pitaro.md">
@@ -730,7 +730,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 
 
-{पि॒तृभ्यः॒ स्वाहा॑ म॒घाभ्यः॑ स्वाह ा॑ऽन॒घाभ्यः॒ स्वाहा॑  
+{पि॒तृभ्यः॒ स्वाहा॑ म॒घाभ्यः॑ स्वाहा॑ऽन॒घाभ्यः॒ स्वाहा॑  
 अग॒दाभ्यः॑ स्वाहा॑ ऽरुन्ध॒तीभ्यः॒ स्वाहा॑।}
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/08_maghAH/">
@@ -751,14 +751,16 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 
 
-### पूर्व-फल्गुन्यः  - अर्यमा
+######## पूर्व-फल्गुन्यः  - अर्यमा
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/1/17_gavAmpatipH_phalgunInAmasi.md">
 <details open><summary><h6>17 गवाम्पतिᳶ फल्गुनीनामसि ...{Loading}...</h6></summary>
 
 
-गवा॒म् पतिः॒ फल्गु॑नीनाम् **असि॒** त्वम्। तद् अ॑र्यमन् वरुण-मित्र॒ चारु॑।  
-तन् त्वा॑ व॒यꣳ स॑नि॒तारꣳ॑ +++(=दातारं)+++ सनी॒नाम् +++(=दातव्यानाम्)+++। जी॒वा जीव॑न्त॒म् उप॒ **सव्ँवि॑शेम**।  
+गवा॒म् पतिः॒ फल्गु॑नीनाम् **असि॒** त्वम्।  
+तद् अ॑र्यमन् वरुण-मित्र॒ चारु॑।  
+तन् त्वा॑ व॒यꣳ स॑नि॒तारꣳ॑ +++(=दातारं)+++ सनी॒नाम् +++(=दातव्यानाम्)+++ +++(←नाम् अन्यतरस्याम् इत्य् अन्तोदात्तत्वात् स्वरः)+++।  
+जी॒वा जीव॑न्त॒म् उप॒ **सव्ँवि॑शेम**।  
 
 </details>
 </div>
@@ -770,15 +772,10 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 तद॑र्यमन्वरुण मित्र॒ चारु॑ ।  
 तन्त्वा॑ व॒यꣳ स॑नि॒तारꣳ॑ सनी॒नाम् ।  
 जी॒वा जीव॑न्त॒मुप॒सव्ँ वि॑शेम ।  
-
-
-
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
 17फल्गुन्योः - वां पतिरिति ॥ गवां गोमतीनां फल्गुनीनां फल्गुन्योश्च नक्षत्रस्य पतिः स्वामी त्वमसि । यद्वा - फल्पुन्योः देवताभूतः गवां उदकानां गवामेव वा पतिः पालयिता असि । 'फल्गुनीप्रोष्ठपदानां च नक्षत्रे' इति बडुवचनम् । यस्मादेवं तस्मात् हे अर्यमन्! वरुण! वारक! दुरितानां, हे मित्र! प्रमितेरपि त्रायक! तं तादृशं त्वां सनितारं संविभक्तारं सनीनां धनानां जीवन्तं नित्यजीविनं वयं जीवाः सम्यक् जीवन्तः चारु शोभनं उपसंविशेम उपसंप्राप्नुयाम ॥
-
-
 </details>
 </details>
 </div>
@@ -833,7 +830,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 
 
-### उत्तर-फल्गुन्यः - भगः
+######## उत्तर-फल्गुन्यः - भगः
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/1/19_shreShTho_devAnAmbhagavo.md">
 <details open><summary><h6>19 श्रेष्ठो देवानाम्भगवो ...{Loading}...</h6></summary>
@@ -914,14 +911,14 @@ Denebola - β, 93 Leonis
 
 
 
-### हस्तः - सविता
+######## हस्तः - सविता
 
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/1/21_AyAtu_devassavitopayAtu.md">
 <details open><summary><h6>21 आयातु देवस्सवितोपयातु ...{Loading}...</h6></summary>
 
 
-आया॒तु दे॒वस् **स॑वि॒तोप॑यातु**। हि॒र॒ण्यये॑न सु॒वृता॒ रथे॒न।  
+आया॒तु दे॒वस् **स॑वि॒तोप॑यातु**। हि॒र॒ण्यये॑न सु॒वृता॒ रथे॑न।  
 **वह॒न्॒** हस्तꣳ॑ सु॒भग॑व्ँ विद्म॒नाप॑सम् +++(=विदितकर्मणा युक्तम्)+++। **प्र॒यच्छ॑न्त॒म्** पपु॑रि॒म् +++(=पूरयितारम्)+++ पुण्य॒म् अच्छ॑ +++(=अभिमुखं वर्तमानम्)+++।
 
 </details>
@@ -995,7 +992,7 @@ Corvus- α , β , γ , δ , ε Corvi.
 
 
 
-### चित्रा - त्वष्टा
+######## चित्रा - त्वष्टा
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/1/23_tvaShTA_nakhShatramabhyeti.md">
 <details open><summary><h6>23 त्वष्टा नख्षत्रमभ्येति ...{Loading}...</h6></summary>
@@ -1085,7 +1082,7 @@ Corvus- α , β , γ , δ , ε Corvi.
 
 
 
-### निष्ट्या, स्वातिः - वायुः
+######## निष्ट्या, स्वातिः - वायुः
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/1/25_vAyurnakhShattramabhyeti.md">
 <details open><summary><h6>25 वायुर्नख्षत्त्रमभ्येति ...{Loading}...</h6></summary>
@@ -1167,7 +1164,7 @@ Corvus- α , β , γ , δ , ε Corvi.
 
 
 
-### विशाखे - इन्द्राग्नी
+######## विशाखे - इन्द्राग्नी
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/1/27_dUramasmachChatravo_yantu.md">
 <details open><summary><h6>27 दूरमस्मच्छत्रवो यन्तु ...{Loading}...</h6></summary>
@@ -1255,7 +1252,7 @@ Corvus- α , β , γ , δ , ε Corvi.
 
 
 
-### पूर्णिमा
+######## पूर्णिमा
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/1/29_pUrNA_pashchAduta.md">
 <details open><summary><h6>29 पूर्णा पश्चादुत ...{Loading}...</h6></summary>
@@ -1280,6 +1277,8 @@ Corvus- α , β , γ , δ , ε Corvi.
 <details><summary>भट्टभास्कर-टीका</summary>
 
 पूर्णा पूरिता पूर्णचन्द्रसंबन्धात् पञ्चदशी तिथिः (पूर्णेति स्थितिः) पूर्णेत्युच्यते । सा पश्चात् तिथेरन्ते पूर्णा, उत अपि च पुरस्तादादौ च पूर्णा, मध्यतश्च पूर्णा । तस्यां हि तिथौ सर्वसवितृकरणामनुप्रवेशेन भासमानाशेषमण्डलश्चन्द्रो भवति । यद्यपि परमार्थतः तिथ्यन्ते सर्वात्मना चन्द्रः पूर्यते । तथाप्युपलद्भयभिप्रायेणैवमुक्तं, आरम्भात्प्रभृति तस्यां मण्डलं पूर्णमुपलभामहे न तिथ्यन्तरवत् न्यूनमुपलभ्यते । 'वा दान्तशान्त' इति ण्यन्तस्य पूर्णेति निपात्यते । एवं त्रिष्वपि कालेषु पूर्णचन्द्रोस्यामिति पूर्णमासी तिथिः । मसी परिमाणे, ण्यन्तात्क्विप् । मित्रः परिमितिहेतुः । मिमीतेर्वा असुनि माः, पूर्णश्चासौ माश्च पूर्णमाः, तस्येयं पौणर्मासी पञ्चदशी । यद्वा - पूर्णो मा अस्मिन्निति पूर्णमासः पर्वान्तः कर्मविशेषो वा । अच्समासान्तः । यद्वा - करणे घञ्, मासः चन्द्रः, तत्सम्बन्धिनी पौणर्मासी । उदात्तनिवृत्तिस्वरेण ङीप उदात्तत्वम् । सा उज्जिगाय उज्जयत्यन्याः तिथीः । उत्कृष्टा भवतीति यावत् । छान्दसे लिटि 'सन् लिटोर्जेः' इति कुत्वम् । तस्यां तादृश्यां देवा अधिसंवसन्त एकीभूय वर्तमाना उत्तमे उद्गततमे नाके सुखैकरूपे इहास्मिन् लोके मादयन्ताम् । मद तृप्तियोगे, चौरादिकः, उत्तमशब्द उञ्छादिरन्तोदात्तः ॥
+_________________
+पूर्णा पश्चात् । पुरस्ताच्च पूर्णा । मध्यतश्च पूर्णा । तस्मात् पौर्णमासी पूर्णेन च चद्रमसा योगात् सेयं पौर्णमासी उज्जिगाय अन्याः स्थितीरुज्जयति, तस्यामधिसंवसन्तो देवा उत्तमे नाकस्थानीये अस्मिन् स्थाने मादयन्तां माद्यन्तु ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

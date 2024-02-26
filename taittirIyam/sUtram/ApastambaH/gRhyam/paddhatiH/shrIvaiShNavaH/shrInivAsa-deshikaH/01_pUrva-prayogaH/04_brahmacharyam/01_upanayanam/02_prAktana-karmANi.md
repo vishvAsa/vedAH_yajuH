@@ -47,12 +47,24 @@ title = "०२ प्राक्तन-कर्माणि"
 एवं स्वस्य दक्षिण-हस्तस्य अधः कुमारस्य दक्षिण-हस्तः,  स्वस्य सव्य-हस्तस्योपरि कुमारस्यावाङ्-मुख--सव्य-हस्तश् च यथा स्यातां  
 तथा कृत्वा,
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/baudhAyanaH/gRhyam/mantraH/Rk/vishvAsa-prastutiH/yajnopavItam_paramam.md" newLevelForH1="5" includeTitle="false"> 
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/baudhAyanaH/gRhyam/mantraH/Rk/vishvAsa-prastutiH/yajnopavItam_paramam.md">
+<details open><summary><h5>यज्ञोपवीतं परमं पवित्रं ...{Loading}...</h5></summary>
 
 य॒ज्ञो॒प॒वी॒तं प॑र॒मं प॒वित्रं॑  
 प्र॒जाप॑ति॒र् यत् स॑ह॒जं पु॒रस्ता᳚त् ।  
 आ॒यु॒ष्य॑म् अ॒ग्र्यं॑ प्रति॑मुञ्च शु॒भ्रं  
 य॑ज्ञोपवी॒तं बल॑म् अस्तु॒ तेजः॑ ॥
+
+<details><summary>छन्द-आदि (द्रष्टुं नोद्यम्)</summary>
+
+> यज्ञोपवीत-धारण-महा-मन्त्रस्य  
+ब्रह्म र्षिः,  
+त्रिष्टुप् च्छन्दः  
+त्रयी विद्या देवता ।  
+यज्ञोपवीतधारणे विनियोगः । 
+
+</details>
+</details>
 </div>
 
 

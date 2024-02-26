@@ -5,11 +5,60 @@ title = "०२ उद्वाहप्रयोगः"
 
 वधूवरयोः परस्परं पुष्पमालापरिवर्तनं, डोलारोहणं, सुमङ्गलीभिः स्त्रीभिः, क्षीरेण पादस्पर्शनादीनि कार्याणि यथादेशाचारं कारयित्वा वधूवरौ मण्टपं प्रवेशयेत् । वरः, आचम्य पवित्रं धृत्वा ताम्बूलं दक्षिणां च गृहीत्वा -
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/namas_sadase_sabhAM_gopAya/"  newLevelForH1="5" includeTitle="false"> </div> 
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/namas_sadase_sabhAM_gopAya/">
+<details open><summary><h5>नम॒स् सद॑से …स॒भाम् मे॑ गोपाय ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/3/2/04_sphyAdyupasthAnamantrAH_vidhishcha/namas_sadase.md">
+<details open><summary><h10>नमस् सदसे ...{Loading}...</h10></summary>
+<details><summary>मूलम् (संयुक्तम्)</summary>
 
+नम॒स्सद॑से॒ नम॒स्सद॑स॒स्पत॑ये॒ नम॒स्सखी॑नाम्पुरो॒गाणा॒ञ्चख्षु॑षे॒ नमो॑ दि॒वे नमᳶ॑ पृथि॒व्यै
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+नम॒स् सद॑से॥  
+नम॒स् सद॑स॒स्-पत॑ये॥    
+नम॒स् सखी॑नाम् पुरो॒गाणा॒ञ् चख्षु॑षे॥    
+नमो॑ दि॒वे॥   
+नमᳶ॑ पृथि॒व्यै॥
+</details>
+<details><summary>मूलम्</summary>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya.md"  newLevelForH1="5" includeTitle="false"> </div>  
+नम॒स्सद॑से  
+नम॒स्सद॑स॒स्पत॑ये    
+नम॒स्सखी॑नाम्पुरो॒गाणा॒ञ्चख्षु॑षे    
+नमो॑ दि॒वे   
+नमᳶ॑ पृथि॒व्यै
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+'ऐन्द्रं हि देवतया सदः' इति इन्द्रः सदसस्पतिः पालयिता तस्मै नमः । 'षष्ठयाः पतिपुत्र' इति सत्वम् । सखीनां समानख्यानानामृत्विजां पुरोगाणामग्रतो गन्तृणां प्रधानानां सर्वेषामपि चक्षुषे चक्षुसथानीयाय दर्शनहेतवे सवित्रे च नमः । गतमन्यत् ॥
+</details>
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/2/1/267_sapratha_sabhAm.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+सप्र॑थ स॒भाम् मे॑ गोपाय ।  
+ये च॒ सभ्या᳚स् सभा॒सदः॑ ।  
+तानि॑न्द्रि॒याव॑तᳵ कुरु ।  
+सर्व॒म् आयु॒र् उपा॑सताम् ।
+</details>
+</div>
+
+(सर्वे॑भ्यः श्रीवैष्ण॒वेभ्यो॒ नमः॑॥)
+
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya.md">
+<details open><summary><h5>अशेषे हे परिषत् ...{Loading}...</h5></summary>
+
+> स्वामिनः!  
+अशेषे हे परिषत्  
+भवत्-पादमूले मया समर्पिताम् इमां सौवर्णीं यत्-किञ्चिद्-दक्षिणां  
+यथोक्तदक्षिणामिव स्वीकृत्य  
+
+</details>
+</div>  
 
 ## விவாஹம்
 

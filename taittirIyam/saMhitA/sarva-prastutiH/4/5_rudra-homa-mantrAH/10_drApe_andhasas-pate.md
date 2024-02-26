@@ -286,15 +286,15 @@ And grant us protection in abundance.
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+############ Strata
 Normal
 
-######## Pāda-label
+############ Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-######## Morph
+############ Morph
 gartasádam ← gartasád- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -459,7 +459,7 @@ vapantu ← √vap- 2 (root)
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+########### English translation:
 
 “Glorify the renowned **Rudra**, riding in his car, ever youthful, destructive, fierce like a formidable wild beast; Rudra, propitiated by praise, grant happiness to him who praises (you), and let your hosts destroy him who is our adversary.”
 </details>

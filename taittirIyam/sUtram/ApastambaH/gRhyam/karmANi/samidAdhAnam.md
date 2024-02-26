@@ -20,7 +20,7 @@ unicode_script = "devanagari"
 </details>
 </div>
 
-## समिदाधानम्
+#### समिदाधानम्
 तस्मिन्न् उत्तरैर् मन्त्रैस् +++("अग्नये समिध"मित्यादिभिः द्वादशभिः प्रतिमन्त्रं)+++ समिध आदध्यात् २१  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/02_agnaye_samidhamAhArSham.md">
@@ -49,7 +49,6 @@ unicode_script = "devanagari"
 
 </details>
 </div>
-
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/05_tejosi_tejo.md">
 <details open><summary><h4>०५ तेजोसि तेजो ...{Loading}...</h4></summary>
 

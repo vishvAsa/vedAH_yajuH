@@ -69,7 +69,6 @@ unicode_script: devanagari
 
 4कल्पः - 'निषसाद धृतव्रत इत्यासीनमनुमन्त्रयते' इति । अयं यजमानो धृतव्रतः स्वीकृतनियमः वरुणः फलप्रतिबन्धकपापनिवारको भूत्वा साम्राज्यं कर्तुं सुक्रतुः शोभनसंकल्पस्सन् पस्त्यासु गृहसमानेषु आसन्दीस्थानेपु आनिषसाद सर्वत उपविष्टवान् ॥
 </details>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/yajuH/2/6/05_abhiShekaH/devasya_tvA_tejo-vIrya-shrIbhyaH.md">
 <details open><summary><h5>देवस्य त्वा - तेजोवीर्य-श्रीभ्यः ...{Loading}...</h5></summary>
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -142,7 +141,6 @@ unicode_script: devanagari
 </details>
 </details>
 </div>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 को॑ऽसि कत॒मो॑ऽसि ।  

@@ -7,14 +7,10 @@ title = "०५ रुद्रः - परि णो"
 
 24अस्मिन्नेव रौद्रे पशौ विकल्पिते सूक्ते षण्णामृचां प्रतीकानि दर्शयति - 'परि णो रुद्रस्य हेतिर्वृणक्तु' इति वपाया पुरोनुवाक्या ।
 </details>
-
-
 <details><summary>मूलम्</summary>
 
 परि॑ णो रु॒द्रस्य॑ हे॒तिस्स्तु॒हि श्रु॒तम् ।   
 </details>
-
-
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/09_pari_No.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
@@ -49,7 +45,6 @@ O bounteous one, be merciful to our children and descendants.
 </details>
 </details>
 </div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/033/11_stuhi_shrutaM.md">
 <details open><summary><h5>११ स्तुहि श्रुतं ...{Loading}...</h5></summary>
 
@@ -57,7 +52,7 @@ O bounteous one, be merciful to our children and descendants.
 **स्तु॒हि श्रु॒तङ्** +++(रथ-)+++ग॑र्त॒-सद॒य्ँ युवा॑नम्  
 मृ॒गन् न भी॒मम्, उ॑पह॒त्नुम् उ॒ग्रम् ।   
 **मृ॒डा** ज॑रि॒त्रे+++(=गायकाय)+++ रु॑द्र॒ **स्तवा॑नो**+++(=स्तुतो)+++  
-अ॒न्यन् ते॑ अ॒स्मन् **नि व॑पन्तु॒** सेनाः᳚ ।
+अ॒न्यन् ते॑ अ॒स्मन् **नि व॑पन्तु॒** सेनाः᳚ ।   
 
 </details>
 </div>
@@ -78,15 +73,15 @@ O bounteous one, be merciful to our children and descendants.
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+############ Strata
 Normal
 
-######## Pāda-label
+############ Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-######## Morph
+############ Morph
 gartasádam ← gartasád- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -190,7 +185,7 @@ vapantu ← √vap- 2 (root)
 - *ugram* ← *ugra*
 - \[noun\], accusative, singular, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
-  atrocious.”
+    atrocious.”
 ------------------------------------------------------------------------
 - *mṛḍā* ← *mṛḍ*
 - \[verb\], singular, Present imperative
@@ -211,7 +206,7 @@ vapantu ← √vap- 2 (root)
 - *'nyaṃ* ← *anyam* ← *anya*
 - \[noun\], accusative, singular, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
-  more(a); fresh; any(a).”
+    more(a); fresh; any(a).”
 ------------------------------------------------------------------------
 - *te* ← *tvad*
 - \[noun\], genitive, singular
@@ -251,7 +246,7 @@ vapantu ← √vap- 2 (root)
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+########### English translation:
 
 “Glorify the renowned **Rudra**, riding in his car, ever youthful, destructive, fierce like a formidable wild beast; Rudra, propitiated by praise, grant happiness to him who praises (you), and let your hosts destroy him who is our adversary.”
 </details>
@@ -268,7 +263,7 @@ Being praised, O Rudra, be merciful to the singer; Let thy missiles smite down a
 <details><summary>Griffith</summary>
 
 Praise him the chariot-borne, the young, the famous, fierce, slaying like a dread beast of the forest.  
-O Rudra, praised, be gracious to the singer. let thy hosts spare us and smite down another.
+     O Rudra, praised, be gracious to the singer. let thy hosts spare us and smite down another.
 </details>
 <details><summary>Macdonell</summary>
 
@@ -330,23 +325,18 @@ Sing' dem berühmten, jungen Wagenkämpfer, der kräftig angreift, wie ein grimm
 </details>
 </details>
 </div>
-
-
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 'मीढुष्टम शिवतम' इति पुरोडाशस्य पुरोनुवाक्या । एतत्त्रयं रुद्राध्याये व्याख्यातम् ।  
 </details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मीढु॑ष्ट॒मार्ह॑न्बिभर्षि ।  
 </details>
-
 <details><summary>मूलम्</summary>
 
 मीढु॑ष्ट॒मार्ह॑न्बिभर्षि ।  
 </details>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/16/51_mIDhuShTama_shivatama.md">
 <details open><summary><h5>५१ मीढुष्टम शिवतम ...{Loading}...</h5></summary>
 
@@ -354,7 +344,7 @@ Sing' dem berühmten, jungen Wagenkämpfer, der kräftig angreift, wie ein grimm
 शि॒वो न॑स् **सु॒मना॑ भव** ।   
 प॒र॒मे वृ॒ख्ष आयु॑धन् **नि॒धाय॒**  
 कृत्ति॒व्ँ **वसा॑न॒ आ च॑र॒**  
-पिना॑कम् **बिभ्र॒द् आ ग॑हि** ।
+पिना॑कम् **बिभ्र॒द् आ ग॑हि** ।  
 
 </details>
 </div>
@@ -417,21 +407,16 @@ And approach us bearing the spear [4].
 </details>
 </details>
 </div>
-
-
-
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 'त्वमग्ने रुद्रो असुरः' इति हविषः पुरोनुवाक्या ।  
 'अवो राजानमध्वरस्य' इति याज्या ।  
 एतच्चोभयं 'त्वमग्ने रुद्र' इत्यनुवाके व्याख्यातम् ॥
 </details>
-
 <details><summary>मूलम्</summary>
 
 त्वम॑ग्ने रु॒द्र आ वो॒ राजा॑नम् ॥ 48 ॥  
 </details>
-
 <div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/001/06_tvamagne_rudro.md">
 <details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
 
@@ -460,15 +445,15 @@ And approach us bearing the spear [4].
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+############ Strata
 Normal
 
-######## Pāda-label
+############ Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-######## Morph
+############ Morph
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -550,8 +535,8 @@ vidhatáḥ ← √vidh- (root)
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
-  zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
-  jāraṇa; pyre; fireplace; heating.”
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
 - *rudro* ← *rudraḥ* ← *rudra*
 - \[noun\], nominative, singular, masculine
@@ -596,7 +581,7 @@ vidhatáḥ ← √vidh- (root)
 - *vātair* ← *vātaiḥ* ← *vāta*
 - \[noun\], instrumental, plural, masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
-  rheumatism; Marut.”
+    rheumatism; Marut.”
 ------------------------------------------------------------------------
 - *aruṇair* ← *aruṇaiḥ* ← *aruṇa*
 - \[noun\], instrumental, plural, masculine
@@ -605,7 +590,7 @@ vidhatáḥ ← √vidh- (root)
 - *yāsi* ← *yā*
 - \[verb\], singular, Present indikative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
-  elapse; arrive; drive; reach; leave; run; depart; ride.”
+    elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
 - *śaṅgayas* ← *śaṅgayaḥ* ← *śaṃgaya*
 - \[noun\], nominative, singular, masculine
@@ -641,18 +626,18 @@ vidhatáḥ ← √vidh- (root)
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
-हे भगवन्न् **अग्ने** स्वयं **रुद्र** एव त्वं, यो रोदयिता सर्वेषामुपसंहारे । 'रोदेर्णिलुक्च' इति रक्प्रत्ययः ।
+हे भगवन्न् **अग्ने** स्वयं **रुद्र** एव त्वं, यो रोदयिता सर्वेषामुपसंहारे । 'रोदेर्णिलुक्च' इति रक्प्रत्ययः । 
 
-रोदनहेतुमाह - **असुरः** निरसिता सर्वाधिकाराणां - 'असेरुरन्' इत्य् उरन्-प्रत्ययः । एवं संहारमूर्तिरूपेणाग्निस्स्तूयते, शत्रुमारणादौ रुद्रवद्भावात् । यथा 'एषा वा अस्य घोरा तनूः' इति ।
+रोदनहेतुमाह - **असुरः** निरसिता सर्वाधिकाराणां - 'असेरुरन्' इत्य् उरन्-प्रत्ययः । एवं संहारमूर्तिरूपेणाग्निस्स्तूयते, शत्रुमारणादौ रुद्रवद्भावात् । यथा 'एषा वा अस्य घोरा तनूः' इति ।  
 
-यद्वा - रुद्रवान् **रुद्रः** मत्वर्थीयोकारः, रुद्रपराक्रमवान् इत्यर्थः ।
+यद्वा - रुद्रवान् **रुद्रः** मत्वर्थीयोकारः, रुद्रपराक्रमवान् इत्यर्थः ।  
 
 **दिवो** द्युलोकस्य **महः** उत्सवकारी त्वं हविषां प्रदानेन । 'ऊडिदम्' इति विभक्तेरुदात्तत्वम् ।  
-यद्वा - देव उच्यते । **दिवः** द्युलोकवासिनां देवनां **महः** महान् महादेव इत्यर्थः । महतीति महः, पचाद्यच् ।
+यद्वा - देव उच्यते । **दिवः** द्युलोकवासिनां देवनां **महः** महान् महादेव इत्यर्थः । महतीति महः, पचाद्यच् । 
 
 त्वमेव **पृक्षः** अन्नस्य **ईशिषे** ।  
 'ईशस्से' इतीडागमः ।  
-पृड् इत्य् अन्न-नाम । पृक्षतिश् छान्दसः पृणक्ति-पर्यायः, ततः क्विप् । 'सावेकाचः' इति विभक्तेरुदात्तत्वम् ।
+पृड् इत्य् अन्न-नाम । पृक्षतिश् छान्दसः पृणक्ति-पर्यायः, ततः क्विप् । 'सावेकाचः' इति विभक्तेरुदात्तत्वम् ।   
 
 यस्मादन्नस्येशिषे, तस्मात् त्वमेव **मारुतं** मरुतां सम्बन्धि **शर्धः** बलं च, त्वदायत्तत्वात् । त्व **वातैर्** वाततुल्यैः वातजवैः **अरुणैः** सन्ध्यावर्णैः अश्वैर् यासि । **शंगयः** सुख-गृहं त्वमेव **पूषा** पोषको भूत्वा **विधतः** परिचरतः **पासि** चरुपुरोडाशादिभिस् त्वाम् अर्चयतो रक्षसि । 'श्वन्नुक्षन्पूषन्' इति षुषेः कनिन्प्रत्ययो निपातितः । विध विधाने तौदादिकः, 'शतुरनुमः' इति विभक्तेरुदात्त त्वम् । नु क्षिप्रं त्मना आत्मना स्वयमेव । 'मन्त्रेष्वाङ्यादेरात्मनः' इत्याकारलोपः ।
 
@@ -660,7 +645,7 @@ vidhatáḥ ← √vidh- (root)
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+########### English translation:
 
 “You, **Agni**, are **Rudra**, the expeller (of foes) from the expanse of heaven; you are the strength of the **Maruts**; you are supreme over (sacrificial) food; you, who are plural asantly domiciled (in the hall of sacrifice), go with ruddy horses, (fleet as) the wind; as **Pūṣan**, you cherish, of yours own will, those who offer worship.”
 </details>
@@ -676,7 +661,7 @@ I do not understand the cmpd śaṃgayá-. Wackernagel (AIG II.1.309) classifies
 <details><summary>Griffith</summary>
 
 Rudra art thou, the Asura of mighty heaven: thou art the Maruts' host, thou art the Lord of food,  
-Thou goest with red winds: bliss hast thou in thine home. As Pusan thou thyself protectest worshippers.
+     Thou goest with red winds: bliss hast thou in thine home. As Pusan thou thyself protectest worshippers.
 </details>
 <details><summary>Oldenberg</summary>
 
@@ -747,8 +732,7 @@ Und Rudra bist du, des erhabnen Himmels Geist, die Marutschar, o Agni, Labung wo
 भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. जी माणसे बलाची इच्छा करतात, दुष्टांची ताडना करतात, धर्माचरण करणाऱ्यांना सुखी ठेवतात व सर्वांची उन्नती इच्छितात, ती अतुल ऐश्वर्य प्राप्त करतात. ॥ ६ ॥
 </details>
 </details>
-</div>  
-
+</div>
 <div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/003/01_A_vo.md">
 <details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
 
@@ -777,15 +761,15 @@ Und Rudra bist du, des erhabnen Himmels Geist, die Marutschar, o Agni, Labung wo
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+############ Strata
 Strophic
 
-######## Pāda-label
+############ Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-######## Morph
+############ Morph
 ā́ ← ā́ (invariable)  
 {}
 
@@ -878,8 +862,8 @@ kr̥ṇudhvam ← √kr̥- (root)
 - *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
-  zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
-  jāraṇa; pyre; fireplace; heating.”
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
 - *purā*
 - \[adverb\]
@@ -899,9 +883,9 @@ kr̥ṇudhvam ← √kr̥- (root)
 - *acittāddhiraṇyarūpam* ← *rūpam* ← *rūpa*
 - \[noun\], accusative, singular, masculine
 - “form; appearance; beauty; look; shape; shape; symptom; feature;
-  nature; guise; rūpa \[word\]; one; appearance; likeness; color;
-  kind; vowel; type; disguise; aspect; form; derivative; omen;
-  vision.”
+    nature; guise; rūpa \[word\]; one; appearance; likeness; color;
+    kind; vowel; type; disguise; aspect; form; derivative; omen;
+    vision.”
 ------------------------------------------------------------------------
 - *avase* ← *av*
 - \[verb noun\]
@@ -910,13 +894,13 @@ kr̥ṇudhvam ← √kr̥- (root)
 - *kṛṇudhvam* ← *kṛ*
 - \[verb\], plural, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
-  into; use; fuel; transform; bore; act; write; create; prepare;
-  administer; dig; prepare; treat; take effect; add; trace; put on;
-  process; treat; heed; hire; act; produce; assume; eat; ignite; chop;
-  treat; obey; manufacture; appoint; evacuate; choose; understand;
-  insert; happen; envelop; weigh; observe; practice; lend; bring;
-  duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
-  utter; compose.”
+    into; use; fuel; transform; bore; act; write; create; prepare;
+    administer; dig; prepare; treat; take effect; add; trace; put on;
+    process; treat; heed; hire; act; produce; assume; eat; ignite; chop;
+    treat; obey; manufacture; appoint; evacuate; choose; understand;
+    insert; happen; envelop; weigh; observe; practice; lend; bring;
+    duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
+    utter; compose.”
 ------------------------------------------------------------------------
 </details>
 <details><summary>सायण-भाष्यम्</summary>
@@ -925,11 +909,11 @@ kr̥ṇudhvam ← √kr̥- (root)
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+########### English translation:
 
 “Secure **Agni**, the king of sacrifice, the afflicter (of foes), the invoker (of the gods), the distributor of food through heaven and earth, the golden-formed, for your protection before (surprised by) sudden death.”
 
-####### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+########### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 **Purā** tanayitnor acittāt = liṭ, before the unconsciousness of the thunderbolt; this implies a state of unconsciousness, or death as sudden as if the work of the thunderbolt
 </details>
@@ -952,8 +936,8 @@ As most interpr. take it, “unexpected thundering” is probably a reference to
 <details><summary>Griffith</summary>
 
 WIN, to assist you, Rudra, Lord of worship, Priest of both worlds, effectual  
-Sacrificer,  
-Agni, invested with his golden colours, before the thunder strike and lay you senseless.
+     Sacrificer,  
+     Agni, invested with his golden colours, before the thunder strike and lay you senseless.
 </details>
 <details><summary>Oldenberg</summary>
 
@@ -1018,6 +1002,4 @@ Des Opfers König, ihn den hehren Agni, der recht verehrt, den Priester beider W
 भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. हे विद्वानांनो! जसे ईश्वराने ब्रह्मांडात सूर्य स्थित करून सर्वांचे प्रिय सुख साधन निर्माण केलेले आहे. तसे राजा व प्रजा यांच्या संमतीने आमच्यातील गुणकर्मस्वभाव उत्तम असेल त्याला राजा करून आमचे हित साधा. ज्यामुळे तुमचेही हित व्हावे ॥ १ ॥
 </details>
 </details>
-</div>  
-
-
+</div>

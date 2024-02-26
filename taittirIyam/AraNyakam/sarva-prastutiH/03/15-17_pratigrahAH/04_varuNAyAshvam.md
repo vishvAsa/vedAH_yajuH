@@ -73,7 +73,6 @@ ______________
 
 हे हिरण्यात्मिके ! देवि! दक्षिणे! राजा वरुणः त्वां ... नयतु । तच्चेयमिष्टकाऽस्ति ।
 </details>
-
 <details><summary>विश्वास-टिप्पनी</summary>
 
 राजा᳚ त्वा॒ वरु॑णो नयतु  
@@ -86,8 +85,6 @@ ______________
 
 इति वा स्वाभाविकतरम् अभविष्यत् …
 </details>
-
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/yajuH/sarva-prastutiH/03/15-17_pratigrahAH/tenAmRtatvam_ashyAm.md">
 <details open><summary><h5>तेना॑मृत॒त्वम॑श्याम् ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

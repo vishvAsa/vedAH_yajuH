@@ -71,7 +71,13 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/12_adite-nvama.NsthAH_anumate-nvama.NsthAH.md">
 <details open><summary><h4>१२ अदितेऽन्वमँस्थाः अनुमतेऽन्वमँस्थाः ...{Loading}...</h4></summary>
 
-अदि॒तेऽन्व॑मँस्थाः। अनु॑म॒तेऽन्व॑मँस्थाः। सर॑स्-व॒तेऽन्व॑मँस्थाः। देव॑ सवितः॒ प्रासा॑वीः।  
+अदि॒तेऽन्व॑मँस्थाः। +++(इति दक्षिणतः, प्राचीनम्)+++ 
+
+अनु॑म॒तेऽन्व॑मँस्थाः।  +++(इति पश्चिमाद् उदीचीनम्)+++
+
+सर॑स्व॒ते ऽन्व॑मँस्थाः।  +++(इति उत्तरतः प्राचीनम्)+++
+
+देव॑ सवितः॒ प्रासा॑वीः।  +++(इति प्रागारम्भं प्रदक्षिणं)+++
 
 </details>
 </div>
@@ -158,7 +164,7 @@ unicode_script: devanagari
 </div>
   
 
-### व्रतग्रहणम्
+#### व्रतग्रहणम्
 <div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/03/13_teShAm_mantrANAmupayoge_dvAdashAhamadhaHshayyA.md">
 <details open><summary><h6>13 तेषाम् मन्त्राणामुपयोगे द्वादशाहमधःशय्या ...{Loading}...</h6></summary>
 
@@ -173,7 +179,7 @@ unicode_script: devanagari
 </div>
   
 
-### विधिः
+#### विधिः
 +++(साधारणो ऽन्नसंस्कारविचारोऽन्यत्रोक्तः।)+++  
 
 <div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/03/09_paroxamannaM_saMskRtamagnAvadhishrityAdbhiH_proxet.md">
@@ -265,7 +271,13 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/12_adite-nvama.NsthAH_anumate-nvama.NsthAH.md">
 <details open><summary><h8>१२ अदितेऽन्वमँस्थाः अनुमतेऽन्वमँस्थाः ...{Loading}...</h8></summary>
 
-अदि॒तेऽन्व॑मँस्थाः। अनु॑म॒तेऽन्व॑मँस्थाः। सर॑स्-व॒तेऽन्व॑मँस्थाः। देव॑ सवितः॒ प्रासा॑वीः।  
+अदि॒तेऽन्व॑मँस्थाः। +++(इति दक्षिणतः, प्राचीनम्)+++ 
+
+अनु॑म॒तेऽन्व॑मँस्थाः।  +++(इति पश्चिमाद् उदीचीनम्)+++
+
+सर॑स्व॒ते ऽन्व॑मँस्थाः।  +++(इति उत्तरतः प्राचीनम्)+++
+
+देव॑ सवितः॒ प्रासा॑वीः।  +++(इति प्रागारम्भं प्रदक्षिणं)+++
 
 </details>
 </div>
@@ -443,7 +455,7 @@ unicode_script: devanagari
 </div>
   
 
-#### आतिथ्यम्
+##### आतिथ्यम्
 <div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/04/11_atithInevAgre_bhojayet.md">
 <details open><summary><h6>11 अतिथीनेवाग्रे भोजयेत् ...{Loading}...</h6></summary>
 

@@ -13,8 +13,6 @@ unicode_script = "devanagari"
 - स हि रत्नानि दाशुषे इत्यादिः [अत्र](https://archive.org/stream/RgVedaWithSayanasCommentaryPart2/rv_sayanabhasya_part2#page/n1035/mode/2up)। RV.5.82.3a
 - इमं मे वरुण इत्यादिः [अत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_042_Krishna_Yajurvediya_Taittiriya_Samhita_Part_4_-_Kasinath_Sastri_Agase_1946#page/n57/mode/2up)।  TS.2.1.11.6a
 </details>
-
-
 <div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/22_Apo_vA_idam/">
 <details open><summary><h3>२२ आपो वा इदं सर्वम् ...{Loading}...</h3></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -138,17 +136,32 @@ unicode_script = "devanagari"
 </details>
 </details>
 </div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/05_haviHproxaNAdiH/devo_vas_savitotpunAtu.md">
+<details open><summary><h5>देवो वस् सविता ...{Loading}...</h5></summary>
 
-<div class="js_include" url="/vedAH_yajuH.taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdiH/05_haviHproxaNAdiH/devo_vas_savitotpunAtu.md"  newLevelForH1="5" includeTitle="false"> </div>  
+दे॒वो व॑स् सवि॒तोत्पु॑ना॒त्व्  
+अच्छि॑द्रेण प॒वित्रे॑ण +++(सूर्येण)+++ ।   
+वसो॒स्+++(=वासहेतोः)+++ सूर्य॑स्य र॒श्मिभिः॑  ॥+++(५)+++
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/082/03_sa_hi.md"  newLevelForH1="5" includeTitle="false"> </div>  
++++('असौ वा आदित्योच्छिद्रं पवित्रम्' (तै.ब्रा. 3.2.5) इत्यादि ब्राह्मणम् ।)+++
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/082/03_sa_hi.md">
+<details open><summary><h5>०३ स हि ...{Loading}...</h5></summary>
 
+
+स हि रत्ना॑नि **दा॒शुषे॑**  
+**सु॒वाति॑** सवि॒ता भगः॑ ।  
+तं भा॒गं चि॒त्रम् **ई॑महे** ॥
+
+</details>
+</div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/025/19_imaM_me.md">
 <details open><summary><h2>१९ इमं मे ...{Loading}...</h2></summary>
 
 इ॒मं मे॑ वरुण श्रुधी॒ +++(=श्रुणु)+++  
 हव॑म्+++(=आह्वानम्)+++ अ॒द्या च॑ मृळय +++(=सुखय)+++।  
-त्वाम् अ॑व॒स्युर् आ च॑के +++(=अवदन्)+++॥
+त्वाम् अ॑व॒स्युर् आ च॑के +++(=अवदन्)+++॥  
 
 </details>
 </div>
@@ -156,10 +169,10 @@ unicode_script = "devanagari"
 <details open><summary><h2>११ तत्त्वा यामि ...{Loading}...</h2></summary>
 
 
-तत् त्वा॑ यामि॒ ब्रह्म॑णा॒ वन्द॑मान॒स्  
-तद् आ शा॑स्ते॒ यज॑मानो ह॒विर्भिः॑ ।  
-अहे॑ळमानो +++(=अक्रुध्यन्)+++ वरुणे॒ह बो॒ध्य् उरु॑शंस॒  
-मा न॒ आयुः॒ प्र मो॑षीः ॥
+तत् त्वा॑ **यामि॒** ब्रह्म॑णा॒ **वन्द॑मान॒स्**  
+तद् **आ शा॑स्ते॒** यज॑मानो ह॒विर्भिः॑ ।  
+अहे॑ळमानो +++(=अक्रुध्यन्)+++ वरुणे॒ह **बो॒ध्य्** उरु॑शंस॒  
+मा न॒ आयुः॒ **प्र मो॑षीः** ॥
 
 </details>
 </div>

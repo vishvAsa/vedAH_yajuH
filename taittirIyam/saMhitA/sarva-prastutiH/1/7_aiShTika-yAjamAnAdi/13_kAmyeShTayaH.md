@@ -47,15 +47,15 @@ title = "१३ काम्येष्टयः"
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+############ Strata
 Normal
 
-######## Pāda-label
+############ Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-######## Morph
+############ Morph
 áha ← áha (invariable)  
 {}
 
@@ -210,7 +210,7 @@ jā́yamānam ← √janⁱ- (root)
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+########### English translation:
 
 “The months attend upon **Indra** as soon as born, the forests attend upon him, the plural nts, themountains, the affectionate heaven and earth, and the waters (attend upon) him.”
 </details>
@@ -299,15 +299,15 @@ Dem Indra gaben Monde nach und Wälder, dem Indra die Gewächse und die Berge, D
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+############ Strata
 Archaic
 
-######## Pāda-label
+############ Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-######## Morph
+############ Morph
 ánu ← ánu (invariable)  
 {}
 
@@ -496,7 +496,7 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+########### English translation:
 
 “All (power) has been successively conceded verily to you, **Indra**, who are mighty, for the destruction of the foe; suitable vigour, suitable strength in battle (has been given) to you, adorable Indra, by the gods.”
 </details>
@@ -640,16 +640,16 @@ Shall her husband die of old age.
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+############ Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-######## Pāda-label
+############ Pāda-label
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line
-######## Morph
+############ Morph
 ahám ← ahám (pronoun)  
 {case:NOM, number:SG}
 
@@ -806,7 +806,7 @@ Indra says "O Indrāṇī! I am not delighted without my friend Vriṣākapi, of
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+########### English translation:
 
 “I am not happy, **Indrāṇi**, without my friend **Vṛṣākapi**; whose acceptable oblation here, purified withwater, proceeds to the gods; **Indra** is above all (the world).”
 </details>
@@ -893,15 +893,15 @@ Doch, o Indrānī, ich habe keine Freude ohne diesen Genossen, den Vrischākapi,
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+############ Strata
 Cretic
 
-######## Pāda-label
+############ Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-######## Morph
+############ Morph
 evá ← evá (invariable)  
 {}
 
@@ -1056,11 +1056,11 @@ sá ← sá- ~ tá- (pronoun)
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+########### English translation:
 
 “He, who as soon as born,is the first (of the deities); who has done honour to the gods by his exploits; he, at whose might heaven and earth are alarmed, and (who is known) by the greatness of his strength, he, men, is **Indra**.”
 
-####### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+########### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Who has done honour to the gods by his exploits: who has preserved or protected them, or has surpassed them: prayarakṣad atyakrāmad iti vā (**Nirukta** 10.10); **Atharvaveda** 20.34; he, men, is Indra: sa janāsa Indra = **janā**, he **asurāḥ**; the legend: **Gṛtsamada**,by his devotions, acquired a form as vast as that of Indra, visible at once in heaven, in the firmament, and on earth; the two **asuras**, **Dhuni** and Cumuri \[Bṛhaddevatā 4.66-67), mistaking him, therefore, for Indra, were proceeding to attack him, when he arrested their advance by repearing this hymn, intimating that he was not Indra; another legend: when Indra and the gods were present at a sacrifice celebrated by **Vainya**, Gṛtsamada was one of the officiating priests; the asuras came to the spot to kill Indra, who, assuming the likeness of Gṛtsamada, went away without question; when the assembly broke up, and Gṛtsamada went out, the asuras, who had been lying in wait, considered him to be Indra, and were about to fall upon him, when he diverted from their purpose by reciting this hymn, showing that Indra was a different person n; another legend: Indra came alone to the sacrifice of Gṛtsamada, and being, as before away laid by the asuras, asumed the person n of the ṛṣi and coming forth, returned to **svarga**; after waiting sometime, the asuras entered the chamber of sacrifice, and laid hold of Gṛtasamads, conceving that Indra had assumed his person n until they were person aded of their mistake by the repetition of the entire **sūkta** (**Mahābhārata**)
 </details>
@@ -1177,15 +1177,15 @@ Der kaum geboren, kühngesinnt die Götter der Gott zuerst mit Muth und Kraft be
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+############ Strata
 Strophic
 
-######## Pāda-label
+############ Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-######## Morph
+############ Morph
 ā́ ← ā́ (invariable)  
 {}
 
@@ -1353,7 +1353,7 @@ viṣvadryàk ← viṣvadryàñc- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+########### English translation:
 
 “Fierce **Indra**, when animated by like fierce armies, encounter them; let the bright (weapon) wielded bythe arms of you who are mighty and the friend of man descend for our protection; let not your all-pervading mindwander (away from us).”
 </details>
@@ -1481,15 +1481,15 @@ Zur Hülfe flieg' aus deinen Armen, Indra, dein Blitz herbei, des grossen, kühn
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+############ Strata
 Strophic
 
-######## Pāda-label
+############ Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-######## Morph
+############ Morph
 ā́ ← ā́ (invariable)  
 {}
 
@@ -1700,7 +1700,7 @@ vayám ← ahám (pronoun)
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+########### English translation:
 
 “Harm us not, but cherish us, **Indra**; bestow upon us that abundant wealth which it is yours to give to the donor (of the oblation); praising you, we celebrate you at this sacred rite, which is new and excellent, and (at which the oblation) is proper to be presented.”
 </details>
@@ -1815,15 +1815,15 @@ Versäume nicht uns, bringe her das viele, was dein ja ist, dem Frommen es zu sc
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+############ Strata
 Cretic on metrical evidence alone
 
-######## Pāda-label
+############ Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-######## Morph
+############ Morph
 ā́ ← ā́ (invariable)  
 {}
 
@@ -2018,7 +2018,7 @@ yandhi ← √yam- (root)
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+########### English translation:
 
 “Quickly, **Indra**, bring (wealth); let no one impede you, for we know you to be the lord of wealth, of all treasures; and since, Indra, your greatness is munificence, therefore, lord of the tawny steeds, grant us (riches).”
 </details>
@@ -2203,15 +2203,15 @@ Be thou health and wealth to the sacrificer.
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+############ Strata
 Normal on metrical evidence alone
 
-######## Pāda-label
+############ Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-######## Morph
+############ Morph
 ávobhiḥ ← ávas- (nominal stem)  
 {case:INS, gender:N, number:PL}
 
@@ -2358,7 +2358,7 @@ syāma ← √as- 1 (root)
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+########### English translation:
 
 “May the protecting, opulent **Indra** be the bestower of felicity by his protections; may he, who is all-knower of felicity by his protections; may he, who is all-knowing, foil our adversaries; may he keep us out of danger, and may we be the possessors of excellent posterity.”
 </details>
@@ -2384,12 +2384,12 @@ The first pāda of 12 recasts that of 11: with sutrā́mā matching trātā́ram
 </details>
 <details><summary>Whitney</summary>
 
-####### Translation
+########### Translation
 1. Let Indra be well-saving, well-aiding with aids, very gracious,  
    all-possessing; let him put down (*bādh*) hatred, let him make for us  
    fearlessness; may we be lords of wealth in heroes.
 
-####### Notes
+########### Notes
 This hymn and the following are two successive verses in RV. (x. 131. 6,  
 7, or vi. 47. 12, 13), and are also found together in VS. (xx. 51, 52),  
 TS. (i. 7. 13⁴⁻⁵), and MS. (iv. 12. 5). All these agree in leaving out  
@@ -2529,15 +2529,15 @@ Schönschirmend sei, der alles kennet, Indra, und gnadenreich, mit Hülfen kräf
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+############ Strata
 Normal on metrical evidence alone
 
-######## Pāda-label
+############ Pāda-label
 genre M;; repeated line  
 genre M;; repeated line  
 genre M  
 genre M
-######## Morph
+############ Morph
 sumataú ← sumatí- (nominal stem)  
 {case:LOC, gender:F, number:SG}
 
@@ -2693,7 +2693,7 @@ yuyotu ← √yu- 2 (root)
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+########### English translation:
 
 “May we continue in the favour of that adorable (deity) even in his auspicious good-will; may that protecting and opulent **Indra** drive far from us, into extinction, all those who hate us.”
 </details>

@@ -42,11 +42,60 @@ title = "१० दिनान्तर-कर्माणि"
 सन्ध्योपासनं, प्रातस्-समिदाधानञ् च कारयित्वा,  
 अनन्तरम् आचार्यः
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/namas_sadase_sabhAM_gopAya/"  newLevelForH1="5" includeTitle="false"> </div> 
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/namas_sadase_sabhAM_gopAya/">
+<details open><summary><h5>नम॒स् सद॑से …स॒भाम् मे॑ गोपाय ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/3/2/04_sphyAdyupasthAnamantrAH_vidhishcha/namas_sadase.md">
+<details open><summary><h10>नमस् सदसे ...{Loading}...</h10></summary>
+<details><summary>मूलम् (संयुक्तम्)</summary>
 
+नम॒स्सद॑से॒ नम॒स्सद॑स॒स्पत॑ये॒ नम॒स्सखी॑नाम्पुरो॒गाणा॒ञ्चख्षु॑षे॒ नमो॑ दि॒वे नमᳶ॑ पृथि॒व्यै
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+नम॒स् सद॑से॥  
+नम॒स् सद॑स॒स्-पत॑ये॥    
+नम॒स् सखी॑नाम् पुरो॒गाणा॒ञ् चख्षु॑षे॥    
+नमो॑ दि॒वे॥   
+नमᳶ॑ पृथि॒व्यै॥
+</details>
+<details><summary>मूलम्</summary>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya.md"  newLevelForH1="5" includeTitle="false"> </div>  
+नम॒स्सद॑से  
+नम॒स्सद॑स॒स्पत॑ये    
+नम॒स्सखी॑नाम्पुरो॒गाणा॒ञ्चख्षु॑षे    
+नमो॑ दि॒वे   
+नमᳶ॑ पृथि॒व्यै
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+'ऐन्द्रं हि देवतया सदः' इति इन्द्रः सदसस्पतिः पालयिता तस्मै नमः । 'षष्ठयाः पतिपुत्र' इति सत्वम् । सखीनां समानख्यानानामृत्विजां पुरोगाणामग्रतो गन्तृणां प्रधानानां सर्वेषामपि चक्षुषे चक्षुसथानीयाय दर्शनहेतवे सवित्रे च नमः । गतमन्यत् ॥
+</details>
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/2/1/267_sapratha_sabhAm.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+सप्र॑थ स॒भाम् मे॑ गोपाय ।  
+ये च॒ सभ्या᳚स् सभा॒सदः॑ ।  
+तानि॑न्द्रि॒याव॑तᳵ कुरु ।  
+सर्व॒म् आयु॒र् उपा॑सताम् ।
+</details>
+</div>
+
+(सर्वे॑भ्यः श्रीवैष्ण॒वेभ्यो॒ नमः॑॥)
+
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya.md">
+<details open><summary><h5>अशेषे हे परिषत् ...{Loading}...</h5></summary>
+
+> स्वामिनः!  
+अशेषे हे परिषत्  
+भवत्-पादमूले मया समर्पिताम् इमां सौवर्णीं यत्-किञ्चिद्-दक्षिणां  
+यथोक्तदक्षिणामिव स्वीकृत्य  
+
+</details>
+</div>  
 
 > अस्य मम कुमारस्यान्यत्-परिधापनं कर्तुं … 
 
@@ -60,17 +109,18 @@ title = "१० दिनान्तर-कर्माणि"
 "रेवतीस् त्वा",  
 इति द्वाभ्याम् अभिमन्त्र्य,  
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/03-04_revatIstvA_vyaxNankRttikAshchAkRnta2m.md">
-<details open><summary><h4>०३-०४ रेवतीस्त्वा व्यक्ष्णन्कृत्तिकाश्चाकृन्त२म् ...{Loading}...</h4></summary>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/03-04_revatIstvA_vyaxNankRttikAshchAkRnta2m.md">
+<details open><summary><h2>०३-०४ रेवतीस्त्वा व्यक्ष्णन्कृत्तिकाश्चाकृन्त२म् ...{Loading}...</h2></summary>
 
-+++(नक्षत्रेषु)+++ रे॒वती॑स् त्वा॒ व्य॑क्ष्ण॒न्+++(=व्यध्वंसयन् [मेषादिभ्यः])+++  
-कृत्ति॑का॒श् चाकृ॑न्त२ꣳस् त्वा ।  
-धियो॑ ऽवय॒न्न् अव॒ ग्न+++(=देवता)+++ आ॑वृञ्जन्त्  
-स॒हस्र॒म् अन्ताꣳ॑+++(=दशासूत्राणि)+++ अ॒भितो॑ अयच्छन्न् ।  
++++(नक्षत्रेषु)+++ रे॒वती॑स् त्वा॒ **व्य॑क्ष्ण॒न्**+++(=व्यध्वंसयन् [मेषादिभ्यः])+++  
+कृत्ति॑का॒श् **चाकृ॑न्त२ꣳस्** त्वा ।  
+धियो॑ **ऽवय॒न्न्**, अव॒ ग्न+++(=देवता)+++ **आ॑वृञ्जन्त्**  
+स॒हस्र॒म् अन्ताꣳ॑+++(=दशासूत्राणि)+++ अ॒भितो॑ **अयच्छन्न्** ।  
 
 
 दे॒वीर् दे॒वाय॑ +++(वस्त्र)+++परि॒धी+++(धौ)+++ स॑वि॒त्रे ।  
-म॒हत् तद् आ॑साम् अभवन् महित्व॒नम्+++(=महत्वम्)+++ ।+++(र४)+++  
+म॒हत् तद् आ॑साम् **अभवन्** महित्व॒नम्+++(=महत्वम्)+++ ।+++(र४)+++  
+
 </details>
 </div>  
 
@@ -78,51 +128,50 @@ title = "१० दिनान्तर-कर्माणि"
 "अकृन्तन्न् अवयन्न्" इति तिसृभिः परिधाप्य,  
 
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/05_yA_akRntannavayan.md">
-<details open><summary><h4>०५ या अकृन्तन्नवयन् ...{Loading}...</h4></summary>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/05_yA_akRntannavayan.md">
+<details open><summary><h2>०५ या अकृन्तन्नवयन् ...{Loading}...</h2></summary>
 
 
-या अकृ॑न्त॒न्न् अव॑य॒न्॒ या अत॑न्वत॒  
-याश् च॑ दे॒वीर् +++(वस्त्रस्य)+++ अन्ता॑न् अ॒भितो॑ ऽददन्त+++(←दद् दाने)+++ ।  
-तास् त्वा॑ दे॒वीर् ज॒रसे॒ संव्य॑य॒न्त्व्  
-आयु॑ष्मान् इ॒दं परि॑धत्स्व॒ वासः॑ ।  
-
-</details>
-</div>
-
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/06_paridhatta_dhatta.md">
-<details open><summary><h4>०६ परिधत्त धत्त ...{Loading}...</h4></summary>
-
-
-परि॑धत्त धत्त॒ वास॑सैनꣳ  
-श॒तायु॑षं कृणुत दी॒र्घम् आयुः॑ ।  
-बृह॒स्पतिः॒ प्राय॑च्छ॒द् वास॑ ए॒तत्  
-सोमा॑य॒ राज्ञे॒ परि॑धात॒वा उ॑ ।  
+या **अकृ॑न्त॒न्न् अव॑य॒न्॒** या **अत॑न्वत॒**  
+याश् च॑ दे॒वीर् +++(वस्त्रस्य)+++ अन्ता॑न् अ॒भितो॑ **ऽददन्त**+++(←दद् दाने)+++ ।  
+तास् त्वा॑ दे॒वीर् ज॒रसे॒ **संव्य॑य॒न्त्व्**  
+आयु॑ष्मान् इ॒दं **परि॑धत्स्व॒** वासः॑ ।  
 
 </details>
 </div>
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/07_jarA~N_gachChAsi.md">
-<details open><summary><h4>०७ जराङ् गच्छासि ...{Loading}...</h4></summary>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/06_paridhatta_dhatta.md">
+<details open><summary><h2>०६ परिधत्त धत्त ...{Loading}...</h2></summary>
 
 
-ज॒रां ग॑च्छासि॒ परि॑धत्स्व॒ वासो॒  
-भवा॑ कृष्टी॒नाम्+++(=मनुष्याणां)+++ अ॑भिशस्ति॒-पावा॑+++(ता)+++ ।  
-श॒तञ् च॑ जीव श॒रद॑स् सु॒वर्चा॑  
-रा॒यश् च॒ पोष॒म् उप॒ संव्य॑यस्व +++(वासो यथा रायस्पोषं भवति तथा)+++।  
+**परि॑धत्त धत्त॒** वास॑सैनꣳ  
+श॒तायु॑षं **कृणुत** दी॒र्घम् आयुः॑ ।  
+बृह॒स्पतिः॒ **प्राय॑च्छ॒द्** वास॑ ए॒तत्  
+सोमा॑य॒ राज्ञे॒ **परि॑धात॒वा** उ॑ ।  
+
+</details>
+</div>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/07_jarA~N_gachChAsi.md">
+<details open><summary><h2>०७ जराङ् गच्छासि ...{Loading}...</h2></summary>
+
+
+ज॒रां **ग॑च्छासि॒, परि॑धत्स्व॒** वासो॒  
+**भवा॑** कृष्टी॒नाम्+++(=मनुष्याणां)+++ अ॑भिशस्ति॒-पावा॑+++(ता)+++ ।  
+श॒तञ् च॑ **जीव** श॒रद॑स् सु॒वर्चा॑  
+रा॒यश् च॒ पोष॒म् उप॒ **संव्य॑यस्व** +++(वासो यथा रायस्पोषं भवति तथा)+++।  
 
 </details>
 </div>
 
 परिहितं "परीदं वास" इत्येतयाऽनुमन्त्रयते । 
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/08_parIdaM_vAso.md">
-<details open><summary><h4>०८ परीदं वासो ...{Loading}...</h4></summary>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/08_parIdaM_vAso.md">
+<details open><summary><h2>०८ परीदं वासो ...{Loading}...</h2></summary>
 
 
-परी॒दं वासो॒ अधि॑+++(+अ)+++धास् स्व॒स्तये  
-ऽभू॑र् आपी॒नाम्+++(=आप्तानां)+++ अ॑भिशस्ति॒-पावा॑+++(ता!)+++ ।  
-श॒तञ् च॑ जीव श॒रदः॑ पुरू॒चीर्+++(=बहुगतीः)+++  
-वसू॑नि चा॒र्यो वि॑भजासि॒ जीवन्न्॑ ।  
+परी॒दं वासो॒ **अधि॑+++(+अ)+++धास्** स्व॒स्तये  
+**ऽभू॑र्** आपी॒नाम्+++(=आप्तानां)+++ अ॑भिशस्ति॒-पावा॑+++(ता!)+++ ।  
+श॒तञ् च॑ **जीव** श॒रदः॑ पुरू॒चीर्+++(=बहुगतीः)+++  
+वसू॑नि चा॒र्यो **वि॑भजासि॒ जीवन्न्॑** ।  
 
 </details>
 </div>
@@ -136,14 +185,15 @@ title = "१० दिनान्तर-कर्माणि"
 
 > "हे गुरो वासस्ते ददामि" इति दद्यात्, स च गुरुः । 
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/15_yasya_te.md">
-<details open><summary><h4>१५ यस्य ते ...{Loading}...</h4></summary>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/15_yasya_te.md">
+<details open><summary><h2>१५ यस्य ते ...{Loading}...</h2></summary>
 
 
 यस्य॑ ते प्रथमवा॒स्यꣳ॑+++(=प्रथमाच्छादितं)+++ हरा॑म॒स्  
 तं त्वा॒ विश्वे॑ अवन्तु दे॒वाः ।  
 तन् त्वा॒ भ्रात॑रस् सु॒वृधो॒ वर्ध॑मान॒म्  
 अनु॑ जायन्तां ब॒हव॒स् सुजा॑तम् ॥
+
 </details>
 </div>
 

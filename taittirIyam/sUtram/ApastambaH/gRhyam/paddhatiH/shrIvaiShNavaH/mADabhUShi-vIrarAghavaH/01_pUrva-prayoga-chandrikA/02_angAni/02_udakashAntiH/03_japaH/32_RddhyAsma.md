@@ -7,7 +7,7 @@ title = "३२ ‘ऋद्ध्यास्म',"
 <details open><summary><h4>२, यमनक्षत्राणां याज्यानुवाक्याः ...{Loading}...</h4></summary>
 
 
-### अनूराधाः - मित्रः
+######## अनूराधाः - मित्रः
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/2/01_RddhyAsma.md">
 <details open><summary><h6>01 ऋद्ध्यास्म ...{Loading}...</h6></summary>
@@ -91,7 +91,7 @@ title = "३२ ‘ऋद्ध्यास्म',"
 
 
 
-### ज्येष्ठा - इन्द्रः
+######## ज्येष्ठा - इन्द्रः
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/2/03_indro_jyeShThAmanu.md">
 <details open><summary><h6>03 इन्द्रो ज्येष्ठामनु ...{Loading}...</h6></summary>
@@ -178,7 +178,7 @@ title = "३२ ‘ऋद्ध्यास्म',"
 
 
 
-### मूलम् - निरृतिः
+######## मूलम् - निरृतिः
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/2/05_mUlamprajAv.N_vIravatIv.N.md">
 <details open><summary><h6>05 मूलम्प्रजाव्ँ वीरवतीव्ँ ...{Loading}...</h6></summary>
@@ -264,7 +264,7 @@ title = "३२ ‘ऋद्ध्यास्म',"
 
 
 
-### अषाढाः पूर्वाः - आपः
+######## अषाढाः पूर्वाः - आपः
 
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/2/07_yA_divyA.md">
@@ -304,7 +304,7 @@ title = "३२ ‘ऋद्ध्यास्म',"
 
 
 याश् च॒ कूप्या॒ याश् च॑ ना॒द्या॑स् समु॒द्रियाः॑।  
-याश् च॑ वैश॒न्तीर् +++(=पल्वलभवाः)+++ उत प्रा॑स॒चीर् +++(=प्रागता)+++ याः।  
+याश् च॑ वैश॒न्तीर् +++(=पल्वलभवाः)+++ उ॒त प्रा॑स॒चीर् +++(=प्रागता)+++ याः।  
 यासा॑म् अषा॒ढा मधु॑ **भ॒क्षय॑न्ति**।  
 ता न॒ आपः॒ शꣳ स्यो॒ना +++(=सुखहेतवः)+++ **भ॑वन्तु**॥  
 
@@ -353,7 +353,7 @@ title = "३२ ‘ऋद्ध्यास्म',"
 
 
 
-### अषाढाः उत्तराः - विश्वे देवाः
+######## अषाढाः उत्तराः - विश्वे देवाः
 
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/2/09_tanno_vishve.md">
@@ -437,7 +437,7 @@ title = "३२ ‘ऋद्ध्यास्म',"
 
 
 
-### अभिजित्
+######## अभिजित्
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/2/11_yasminbrahmA-bhyajayathsarvametat.md">
 <details open><summary><h6>11 यस्मिन्ब्रह्माऽभ्यजयथ्सर्वमेतत् ...{Loading}...</h6></summary>
@@ -524,7 +524,7 @@ title = "३२ ‘ऋद्ध्यास्म',"
 
 
 
-### श्रोणा / श्रवणम् - विष्णुः
+######## श्रोणा / श्रवणम् - विष्णुः
 
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/2/13_shRNvanti_shroNAmamRtasya.md">
@@ -592,7 +592,7 @@ title = "३२ ‘ऋद्ध्यास्म',"
 
 
 {विष्ण॑वे॒ स्वाहा॑ श्रो॒णायै॒ स्वाहा॑।  
-श्लोका॑य॒ स्वाहा॑ श्रु॒ताय॒स्स्वाहा॑।}
+श्लोका॑य॒ स्वाहा॑ श्रु॒ताय॒ स्वाहा॑।}
 
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/20_shroNA/">
@@ -612,7 +612,7 @@ title = "३२ ‘ऋद्ध्यास्म',"
 
 
 
-### धनिष्ठाः/ श्रविष्ठाः - वसवः
+######## धनिष्ठाः/ श्रविष्ठाः - वसवः
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/2/15_aShTau_devA.md">
 <details open><summary><h6>15 अष्टौ देवा ...{Loading}...</h6></summary>
@@ -621,7 +621,7 @@ title = "३२ ‘ऋद्ध्यास्म',"
 अ॒ष्टौ दे॒वा वस॑वस् सो॒म्यासः॑।  
 चत॑स्रो दे॒वीर् अ॒जराः॒ श्रवि॑ष्ठाः।  
 ते य॒ज्ञम् **पा॑न्तु॒** रज॑सᳶ पु॒रस्ता॑त्।  
-सव्ँव॒त्स॒रीण॑म् अ॒मृतꣳ॑ स्व॒स्ति।  
+स॒व्ँव॒त्स॒रीण॑म् अ॒मृतꣳ॑ स्व॒स्ति।  
 
 </details>
 </div>
@@ -698,7 +698,7 @@ title = "३२ ‘ऋद्ध्यास्म',"
 
 
 
-### शतभिषग् - वरुणः
+######## शतभिषग् - वरुणः
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/2/17_khShatrasya_rAjA.md">
 <details open><summary><h6>17 ख्षत्रस्य राजा ...{Loading}...</h6></summary>
@@ -735,7 +735,7 @@ title = "३२ ‘ऋद्ध्यास्म',"
 <details open><summary><h6>18 यज्ञन्नो राजा ...{Loading}...</h6></summary>
 
 
-य॒ज्ञन् नो॒ राजा॒ वरु॑ण॒ **उप॒यातु**।  
+य॒ज्ञन् नो॒ राजा॒ वरु॑ण॒ **उप॑यातु**।  
 तन् नो॒ विश्वे॑ **अ॒भि संय॑न्तु** दे॒वाः।  
 तन् नो॒ नक्ष॑त्रꣳ श॒तभि॑षग् **जुषा॒णम्**।  
 दी॒र्घम् आयुᳶ॒ **प्रति॑ रद्**+++(=दद्यात्)+++ भेष॒जानि॑॥  
@@ -788,7 +788,7 @@ title = "३२ ‘ऋद्ध्यास्म',"
 
 
 
-### प्रोष्ठपदाः/ भाद्रपदाः पूर्वाः - अज एकपात्
+######## प्रोष्ठपदाः/ भाद्रपदाः पूर्वाः - अज एकपात्
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/2/19_aja_ekapAdudagAtpurastAt.md">
 <details open><summary><h6>19 अज एकपादुदगात्पुरस्तात् ...{Loading}...</h6></summary>
@@ -825,7 +825,7 @@ title = "३२ ‘ऋद्ध्यास्म',"
 
 
 वि॒भ्राज॑मानस् समिधा॒न उ॒ग्रः।  
-आन्तरि॑क्षम् **अरुह॒द् अग॒न्**+++(=प्राप्नोत्)+++ द्याम्।  
+आ ऽन्तरि॑क्षम् **अरुह॒द् अग॒न्**+++(=प्राप्नोत्)+++ द्याम्।  
 तꣳ सूर्य॑न् दे॒वम् अ॒जम् एक॑पादम्।  
 प्रो॒ष्ठ॒प॒दासो॒ **अनु॑यन्ति॒** सर्वे॑॥  
 
@@ -876,7 +876,7 @@ title = "३२ ‘ऋद्ध्यास्म',"
 
 
 
-### प्रोष्ठपदाः/ भाद्रपदाः उत्तराः  - अहिर् बिध्नियः
+######## प्रोष्ठपदाः/ भाद्रपदाः उत्तराः  - अहिर् बिध्नियः
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/2/21_ahirbudhniyapH_prathamAna.md">
 <details open><summary><h6>21 अहिर्बुध्नियᳶ प्रथमान ...{Loading}...</h6></summary>
@@ -967,7 +967,7 @@ title = "३२ ‘ऋद्ध्यास्म',"
 
 
 
-### रेवती - पूषा
+######## रेवती - पूषा
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/2/23_pUShA_revatyanveti.md">
 <details open><summary><h6>23 पूषा रेवत्यन्वेति ...{Loading}...</h6></summary>
@@ -1053,7 +1053,7 @@ title = "३२ ‘ऋद्ध्यास्म',"
 
 
 
-### अश्विनौ
+######## अश्विनौ
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/2/25_tadashvinAvashvayujopayAtAm.md">
 <details open><summary><h6>25 तदश्विनावश्वयुजोपयाताम् ...{Loading}...</h6></summary>
@@ -1092,7 +1092,7 @@ title = "३२ ‘ऋद्ध्यास्म',"
 
 यौ दे॒वाना॑म् भि॒षजौ॑ हव्यवा॒हौ।  
 विश्व॑स्य दू॒ताव् अ॒मृत॑स्य गो॒पौ।  
-तौ नक्ष॒त्रञ् **जुजुषा॒णोप॑याताम्**।  
+तौ नक्ष॑त्रञ् **जुजुषा॒णोप॑याताम्**।  
 नमो॒ ऽश्विभ्या॑ङ् **कृणुमो** ऽश्व॒युग्भ्या॑म्॥  
 
 </details>
@@ -1138,7 +1138,7 @@ title = "३२ ‘ऋद्ध्यास्म',"
 
 
 
-### भरणी - यमः
+######## भरणी - यमः
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/2/27_apa_pApmAnambharaNIrbharantu.md">
 <details open><summary><h6>27 अप पाप्मानम्भरणीर्भरन्तु ...{Loading}...</h6></summary>
@@ -1214,8 +1214,8 @@ title = "३२ ‘ऋद्ध्यास्म',"
 
 
 
-{य॒माय॒ स्वाहा॑ ऽपभ॒रणीभ्यः॒ स्वाहा॑।  
-रा॒ज्याय॒ स्वाहा॒ ऽभिजि॑त्यै॒ स्वाहा॑।}
+{य॒माय॒ स्वाहा॑ ऽप॒भर॑णीभ्य॒स् स्वाहा᳚ ।  
+रा॒ज्याय॒ स्वाहा॒ ऽभिजि॑त्यै॒ स्वाहा᳚ ॥55॥}
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/27_bharaNI/">
 <details open><summary><h9>२७ भरणी ...{Loading}...</h9></summary>
@@ -1230,7 +1230,7 @@ title = "३२ ‘ऋद्ध्यास्म',"
 
 
 
-### अमावास्या
+######## अमावास्या
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/2/29_niveshanI.md">
 <details open><summary><h6>29 निवेशनी ...{Loading}...</h6></summary>
@@ -1290,6 +1290,9 @@ title = "३२ ‘ऋद्ध्यास्म',"
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हे अमावास्ये ते तव देवाः भागधेयं इमं होमं यत् यस्मात् अदधुः दत्तवन्तः । अमा सह सूर्याचन्द्रमसावस्यां संवसत इत्यमावास्या । 'अमावस्यदन्यतरस्याम्' इति निपात्यते, पादादित्वादामन्त्रिताद्युदात्तत्वम् । देवा विशेष्यन्ते - संवसन्तः संभूयैकत्र वसन्तमहित्वा तव माहात्म्येन । यस्मात्तव भागमिमं होममदधुः, तस्मात् हे **विश्ववारे** विश्वकालवति विश्वैर्वा वरणीये सा तादृशी देवैर्दत्तभागा नोस्माकमिमं यज्ञं होमात्मकं पिपृहि पूरय कामैः, पालय वा । पॄ पालनपूरणयोः, शपः श्लुः, धातोर्ह्रस्वत्वम्, अभ्यासस्य चेत्वम् । यद्वा - पृ प्रीतौ, प्रीत्या गृहाणेत्यर्थः । महित्वशब्दात्तृतीयैकवचनस्याजादेशः । किंच - हे सुभगे कल्याणधने अनेन हविषा प्रीता त्वं नः अस्मभ्यं रयिं धनं सुवीरं कल्याणवीरयुक्तं धेहि धनं देहीति । 'वीरवीर्यौ च` इत्युत्तर पदात्तत्वम् ॥
+________________
+अथ द्वितीया - हे अमावास्ये! तुभ्यं देवाः यस्माद्भागधेयमादधुः संवसन्तः सहासीना महिम्ना माहात्म्येन, सा त्वं हे विश्ववारे! विश्वकाले नोऽस्माकं यज्ञं पिपृहि पालय, हे सुभगे नोऽस्मभ्यं सुवीरं शोभनपुत्रादिकं धनं धेहि इति ॥
+
 </details>
 </details>
 </div>
@@ -1299,5 +1302,4 @@ title = "३२ ‘ऋद्ध्यास्म',"
 {अ॒मा॒वा॒स्या॑यै॒ स्वाहा॒ कामा॑य॒ स्वाहा ग॑त्यै॒ स्वाहा॑।}
 
 </details>
-</div> 
-
+</div>

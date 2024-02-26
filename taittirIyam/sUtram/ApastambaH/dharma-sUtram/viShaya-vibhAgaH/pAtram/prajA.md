@@ -10,7 +10,8 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/24/01_athApyasya_prajAtim_amRtam.md">
 <details open><summary><h4>01 अथाप्यस्य प्रजातिम् अमृतम् ...{Loading}...</h4></summary>
 
-अथाप्यस्य प्रजातिम् अमृतम् आम्नाय आह । प्रजामनु प्रजायसे तदु ते मर्त्यामृतमिति १
+अथाप्यस्य प्रजातिम्  
+अमृतम् आम्नाय आह । प्रजामनु प्रजायसे तदु ते मर्त्यामृतमिति १
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/24/02_athApi_sa_evAyaM.md">

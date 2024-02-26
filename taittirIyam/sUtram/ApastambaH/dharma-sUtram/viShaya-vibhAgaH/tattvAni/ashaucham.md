@@ -11,7 +11,7 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/15/19_AnnaprAshanAdgarbhA_nAprayatA_bhavanti.md">
 <details open><summary><h4>19 आन्नप्राशनाद्गर्भा नाप्रयता भवन्ति ...{Loading}...</h4></summary>
 
-आन्नप्राशनाद्गर्भा नाप्रयता भवन्ति १९
+आऽन्न-प्राशनाद् गर्भा नाप्रयता भवन्ति १९
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/15/20_A_parisaMvatsarAd_ityeke.md">
@@ -113,7 +113,8 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/15/02_mAtush_cha_yonisambandhebhyaH.md">
 <details open><summary><h4>02 मातुश् च योनिसम्बन्धेभ्यः ...{Loading}...</h4></summary>
 
-मातुश् च योनि-संबन्धेभ्यः पितुश् +++(स्वेन साकं)+++ चासप्तमात् पुरुषाद् यावता वा संबन्धो ज्ञायते  
+मातुश् च योनि-संबन्धेभ्यः पितुश् +++(स्वेन साकं)+++ चासप्तमात् पुरुषाद्  
+यावता वा संबन्धो ज्ञायते  
 तेषां प्रेतेषूदकोपस्पर्शनं  
 +++(मृतान्)+++ गर्भान्+++(=बालान्)+++ परिहाप्यापरिसंवत्सरान् २
 </details>

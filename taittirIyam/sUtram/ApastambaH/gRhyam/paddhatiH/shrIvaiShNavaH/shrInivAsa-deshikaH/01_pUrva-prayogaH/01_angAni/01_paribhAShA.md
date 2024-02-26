@@ -60,10 +60,24 @@ title = "०१ परिभाषा"
 
 श्रीमान्वेङ्कटेत्यादि + देवः प्रक्रमते स्वयम् ॥ 
 
-<div class="js_include" url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/vyakti-shlokAdi/venkaTanAthaH/shrImAn_venkaTanAthAryaH.md" newLevelForH1="5" includeTitle="false"> </div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/vyakti-shlokAdi/venkaTanAthaH/shrImAn_venkaTanAthAryaH.md">
+<details open><summary><h5>shrImAn_venkaTanAthAryaH ...{Loading}...</h5></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<div class="js_include" url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/prakIrNa-mantrAdi/padyam/svasheSha-bhUtena.md"  newLevelForH1="5" includeTitle="false"> 
+श्रीमान् वेङ्कटनाथार्यः  
+कवितार्किककेसरी ।  
+वेदान्ताचार्यवर्यो मे  
+सन्निधत्तां सदा हृदि ॥  
+</details>
+<details><summary>मूलम्</summary>
 
+श्रीमान् वेङ्कटनाथार्यः कवितार्किककेसरी ।  
+वेदान्ताचार्यवर्यो मे सन्निधत्तां सदा हृदि ॥  
+</details>
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/prakIrNa-mantrAdi/padyam/svasheSha-bhUtena.md">
+<details open><summary><h5>स्वशेषभूतेन मया ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वशेषभूतेन मया  
@@ -71,30 +85,48 @@ title = "०१ परिभाषा"
 **विधातुं** प्रीतमात्मानं  
 देवः **प्रक्रमते** स्वयम् ॥ (१२)
 </details>
-
 <details><summary>मूलम्</summary>
 
 स्वशेषभूतेन मया स्वीयैस्सर्वपरिच्छेदैः ।  
 विधातुं प्रीतमात्मानं देवः प्रक्रमते स्वयम् ॥ (१२)
 </details>
-</div>  
-
-
-<div class="js_include" url="/devaH/AryaH/hindukaH/viShNuH/padyam/shuklAmbara-dharaM.md" newLevelForH1="5" includeTitle="false"> 
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/devaH/AryaH/hindukaH/viShNuH/padyam/shuklAmbara-dharaM.md">
+<details open><summary><h5>शुक्लाम्बरधरं ...{Loading}...</h5></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शुक्लाम्बरधरं विष्णुं  
 शशिवर्णं चतुर्भजम् ।  
 प्रसन्नवदनं द्यायेत्  
 सर्वविघ्नोपशान्तये ॥
+</details>
+<details><summary>मूलम्</summary>
+
+शुक्लाम्बरधरं विष्णुं  
+शशिवर्णं चतुर्भजम् ।  
+प्रसन्नवदनं द्यायेत्  
+सर्वविघ्नोपशान्तये ॥
+</details>
+</details>
 </div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/devaH/AryaH/hindukaH/viShvaksenaH/padyam/yasya_dvirada-vaktrAdyAH.md">
+<details open><summary><h5>यस्य द्वि-रद-वक्त्राद्याः ...{Loading}...</h5></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-
-<div class="js_include" url="/devaH/AryaH/hindukaH/viShvaksenaH/padyam/yasya_dvirada-vaktrAdyAH.md"  newLevelForH1="5" includeTitle="false">   
+यस्य द्वि-रद-वक्त्राद्याः  
+पारिषद्याः परश्शतम् ।  
+विघ्नं निघ्नन्ति सततं  
+विष्वक्सेनं तमाश्रये ॥
+</details>
+<details><summary>मूलम्</summary>
 
 यस्य द्विरदवक्त्राद्याः  
 पारिषद्याः परश्शतम् ।  
 विघ्नं निघ्नन्ति सततं  
 विष्वक्सेनं तमाश्रये ॥
+</details>
+</details>
 </div>
 
 इत्य्-अन्तम् उक्त्वा  
@@ -115,7 +147,13 @@ title = "०१ परिभाषा"
 "श्रीगोविन्द-गोविन्दे"त्य्-आदि--यथा-क्रमम् अनुसन्धाय  
 
 
-<div class="js_include" url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/prakIrNa-mantrAdi/gadyam/harir_OM_tat_govinda.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/prakIrNa-mantrAdi/gadyam/harir_OM_tat_govinda.md">
+<details open><summary><h5>हरिर् ओं तत् - श्रीगोविन्द ...{Loading}...</h5></summary>
+
+
+हरिर् ओं तत् - श्रीगोविन्द गोविन्द गोविन्द!
+</details>
+</div>  
 
 
 वर्तमान-संवत्सर-अयन-ऋतु-मास-पक्ष-तिथि-वार-नक्षत्र-योग-करणानि   
@@ -217,9 +255,9 @@ title = "०१ परिभाषा"
 <details open><summary><h2>१७ इदं विष्णुर्वि ...{Loading}...</h2></summary>
 
 
-इ॒दव्ँ विष्णु॒र् +++(अग्नि-विद्युत्-सूर्यात्मना)+++ वि च॑क्रमे  
-+++(पृथिव्याम् अन्तरिक्षे दिवि च)+++ त्रे॒धा नि द॑धे प॒दम् ।  
-+++(तैर् आधारैर् जगत्)+++ सम् ऊ॑ढम् अस्य पाꣳसु॒रे +++(ले इति साम्नि, पांसुमति [पादे])+++ ॥
+इ॒दव्ँ विष्णु॒र् +++(अग्नि-विद्युत्-सूर्यात्मना)+++ **वि च॑क्रमे**  
++++(पृथिव्याम् अन्तरिक्षे दिवि च)+++ त्रे॒धा **नि द॑धे** प॒दम् ।  
++++(तैर् आधारैर् जगत्)+++ **सम् ऊ॑ढम्** अस्य पाꣳसु॒रे +++(ले इति साम्नि, पांसुमति [पादे])+++ ॥
 
 </details>
 </div>
@@ -229,7 +267,20 @@ title = "०१ परिभाषा"
 पुनः करणं,  
 अङ्ग-लोपे  
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/baudhAyanaH/gRhyam/mantraH/yajuH/sarva-prastutiH/bhUr_bhuvas_suvas_svAhA.md" newLevelForH1="5" includeTitle="false"> </div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/baudhAyanaH/gRhyam/mantraH/yajuH/sarva-prastutiH/bhUr_bhuvas_suvas_svAhA.md">
+<details open><summary><h5>भूर् भुव॒स् सु॒व॒स् स्वाहा᳚ ...{Loading}...</h5></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ओं भूर् भुव॒स् सुव॒स् स्वाहा᳚ ॥  
+(प्रजापतय इदं न मम) ॥१॥
+</details>
+<details><summary>मूलम्</summary>
+
+ओं भूर् भुव॒स् सुव॒स् स्वाहा᳚ ॥  
+(प्रजापतय इदं न मम) ॥१॥
+</details>
+</details>
+</div>
 
 
 इति सर्वप्रायश्चित्तहोमः  
@@ -399,4 +450,3 @@ title = "०१ परिभाषा"
 [[9]]
 
 </details>
-
