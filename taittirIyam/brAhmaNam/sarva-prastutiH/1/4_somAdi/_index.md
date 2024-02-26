@@ -1,4 +1,5 @@
 +++
-title = "+४"
+title = "+४ सोमादि"
 unicode_script = "devanagari"
+
 +++
