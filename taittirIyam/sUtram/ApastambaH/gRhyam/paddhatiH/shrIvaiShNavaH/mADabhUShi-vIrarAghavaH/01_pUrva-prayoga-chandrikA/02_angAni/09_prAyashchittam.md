@@ -409,7 +409,7 @@ mayst thou not perish for me, yonder, in yonder world.
 
 'ततं म आपः' इति जुहुयात् । 
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/7/11/11_tatamma_Apastadu.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/11_tatamma_Apastadu.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 त॒तम् म॒ आप॒स् तद् उ॑ तायते॒ पुनः॑ ।  
