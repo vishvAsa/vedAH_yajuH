@@ -319,7 +319,7 @@ title = "०५ भोजनम्"
 
 'रक्षोघ्नमन्त्रपठनं करिष्ये' इति सङ्कल्प्य,
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/02/01_niyata-yajJNa-prashaMsA/">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/02_svAdhyAya-brAhmaNAdi/01_niyata-yajJNa-prashaMsA/">
 <details open><summary><h2>०१ नियत-यज्ञ-प्रशंसा ...{Loading}...</h2></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -351,7 +351,7 @@ title = "०५ भोजनम्"
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/02/01_yajJNopavItam/">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/02_svAdhyAya-brAhmaNAdi/01_yajJNopavItam/">
 <details open><summary><h2>०१ यज्ञोपवीतम् ...{Loading}...</h2></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -408,7 +408,7 @@ title = "०५ भोजनम्"
 
 [[124]]
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/02/02_sandhyA-vandanam/">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/02_svAdhyAya-brAhmaNAdi/02_sandhyA-vandanam/">
 <details open><summary><h2>०२ सन्ध्या-वन्दनम् ...{Loading}...</h2></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

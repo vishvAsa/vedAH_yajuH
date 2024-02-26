@@ -3,7 +3,7 @@ title = "+०२"
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/02/01_niyata-yajJNa-prashaMsA/">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/02_svAdhyAya-brAhmaNAdi/01_niyata-yajJNa-prashaMsA/">
 <details open><summary><h2>०१ नियत-यज्ञ-प्रशंसा ...{Loading}...</h2></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -35,7 +35,7 @@ unicode_script = "devanagari"
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/02/01_yajJNopavItam/">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/02_svAdhyAya-brAhmaNAdi/01_yajJNopavItam/">
 <details open><summary><h2>०१ यज्ञोपवीतम् ...{Loading}...</h2></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -89,7 +89,7 @@ unicode_script = "devanagari"
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/02/02_sandhyA-vandanam/">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/02_svAdhyAya-brAhmaNAdi/02_sandhyA-vandanam/">
 <details open><summary><h2>०२ सन्ध्या-वन्दनम् ...{Loading}...</h2></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -163,7 +163,7 @@ unicode_script = "devanagari"
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/02/03-09_kUShmANDa-homa-mantrAH/">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/02_svAdhyAya-brAhmaNAdi/03-09_kUShmANDa-homa-mantrAH/">
 <details open><summary><h2>०३-०९ कूष्माण्ड-होम-मन्त्राः ...{Loading}...</h2></summary>
 
 यद्दे॑वा देव॒हेळ॑न॒न्देवा॑सश्चकृ॒मा व॒यम् । आदि॑त्या॒स्तस्मा॑न्मा मुञ्चत॒र्तस्य॒र्तेन॒ मामि॒त ॥
@@ -260,7 +260,7 @@ unicode_script = "devanagari"
 यन्मे॒ मन॑सा वा॒चा॒ कृ॒त॒मेनः॑ कदा॒चन । सर्वस्मा॑न्मेळि॑तो मो॒ग्धि॒ त्वꣳ हि वेत्थ॑ यथात॒थम् । 9 ।
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/02/10-11_kUShmANDam_vratAni_cha/">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/02_svAdhyAya-brAhmaNAdi/10-11_kUShmANDam_vratAni_cha/">
 <details open><summary><h2>कूष्माण्ड-विधानम् ...{Loading}...</h2></summary>
 
 वात॑रशना ह॒ वा ऋष॑यश् श्रम॒णा ऊ॒र्ध्वम॑न्थि॒नो ब॑भूवु॒स्,  
@@ -298,7 +298,7 @@ unicode_script = "devanagari"
 यदि॒ मन्ये॑तोप॒दस्या॒मीत्य् - ओ॑द॒नन् धा॒नास् सक्तू᳚न् घृ॒तम् इत्य् अनु॑व्रतयेद् आ॒त्मनो ऽनु॑पदासाय । 11 ॥ 8 ।  
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/02/12_brahma-yajJNa-phalam/">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/02_svAdhyAya-brAhmaNAdi/12_brahma-yajJNa-phalam/">
 <details open><summary><h2>१२ ब्रह्म-यज्ञ-फलम् ...{Loading}...</h2></summary>
 
 अ॒जान् ह॒ वै पृश्नीꣳ॑स् +++(=शुक्लान्)+++ तप॒स्यमा॑ना॒न् ब्रह्म॑ स्वय॒म्भ्व॑भ्यान॑र्ष॒त्+++(=अभ्यागच्छत्)+++। त ऋष॑यो ऽभव॒न्। +++(ब्रह्माभ्यानर्षद् इति)+++ तदृषी॑णाम् ऋषि॒त्वम्।  
@@ -310,7 +310,7 @@ unicode_script = "devanagari"
 दे॒वाना॑मभव॒न्। ताभिः॒ क्षुधं॑ पा॒प्मान॒म् अपा॑घ्न॒न्। अप॑हतपाप्मानो दे॒वास् स्व॒र्गल्ँ लो॒कमा॑य॒न्। ब्रह्म॑ण॒स् सायु॑ज्य॒म् ऋष॑यो ऽगच्छन्न् । 12 ॥ 9 ।
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/02/13_pancha-mahA-yajJNaH/">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/02_svAdhyAya-brAhmaNAdi/13_pancha-mahA-yajJNaH/">
 <details open><summary><h2>पञ्च-महा-यज्ञाः ...{Loading}...</h2></summary>
 
 पञ्च॒ वा ए॒ते म॑हाय॒ज्ञास्, स॑त॒ति+++(=प्रतिदिनम्)+++ प्रता॑यन्ते+++(=अनुष्ठीयन्ते)+++, सत॒ति सन्ति॑ष्ठन्ते+++(=समाप्यन्ते)+++।  
@@ -333,7 +333,7 @@ unicode_script = "devanagari"
 त ए॑नन् तृ॒प्ता आयु॑षा॒ तेज॑सा॒ वर्च॑सा श्रि॒या यश॑सा ब्रह्मवर्च॒सेना॒न्नाद्ये॑न च तर्पयन्ति ॥ 13 ॥ । 10 ॥
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/02/14-18_brahma-yajJNaH/">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/02_svAdhyAya-brAhmaNAdi/14-18_brahma-yajJNaH/">
 <details open><summary><h2>ब्रह्म-यज्ञः ...{Loading}...</h2></summary>
 
 [तैत्तिरियारण्यके अत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_036_Taittiriya_Aranyakam_With_Sayana_Bhashya_Part_1_-_Babasastri_Phadke_1898#page/n145/mode/2up)।
@@ -395,7 +395,7 @@ unicode_script = "devanagari"
 ##### पर्यवसानम्
 स वा ए॒ष य॒ज्ञस्, स॒द्यः प्रता॑यते स॒द्यस् सन्ति॑ष्ठते। तस्य॒ प्राक् सा॒यम् अ॑वभृ॒थो -
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/02/namo_brahmaNe.md">
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/02_svAdhyAya-brAhmaNAdi/namo_brahmaNe.md">
 <details open><summary><h5>नमो ब्रह्मणे ...{Loading}...</h5></summary>
 
 (ॐ)  
@@ -452,7 +452,7 @@ unicode_script = "devanagari"
 </div>
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/02/19-20_duShparigrahaH/">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/02_svAdhyAya-brAhmaNAdi/19-20_duShparigrahaH/">
 <details open><summary><h2>१९-२० दुष्परिग्रहः दुर्याजनम् ...{Loading}...</h2></summary>
 
 ### अनापदि
@@ -491,7 +491,7 @@ unicode_script = "devanagari"
 स वा ए॒ष य॒ज्ञः प्रा॒ण-द॑क्षि॒णो ऽन॑न्त-दक्षिण॒स् समृ॑द्धतरः। (20) ॥ 17 ।
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/02/22_1_bhUH_prapadye/">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/02_svAdhyAya-brAhmaNAdi/22_1_bhUH_prapadye/">
 <details open><summary><h2>२२.१ भूः प्रपद्ये ...{Loading}...</h2></summary>
 
 +++(आरण्यकस्वरा अत्र।)+++
@@ -506,7 +506,7 @@ unicode_script = "devanagari"
 
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/02/22_2_dhruva-vandanam/">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/02_svAdhyAya-brAhmaNAdi/22_2_dhruva-vandanam/">
 <details open><summary><h2>२२-२ ध्रुव-वन्दनम् ...{Loading}...</h2></summary>
 
 {{< figure src="/jyotiSham/images/precession_sky_chart.jpg"  class="thumbnail">}}
@@ -518,7 +518,7 @@ unicode_script = "devanagari"
 त्वां भू॒तान्युप॑ प॒र्याव॑र्तन्ते॒। नम॑स्ते॒ नम॒स्सर्व॑न्ते॒ नमः॑ । (22) ॥ 19 ।
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/02/22_3_shiMshumAra-vandanam/">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/02_svAdhyAya-brAhmaNAdi/22_3_shiMshumAra-vandanam/">
 <details open><summary><h2>२२-३ शिंशुमार-वन्दनम् ...{Loading}...</h2></summary>
 
 {{< figure src="../../images/dolphin.jpg"  class="thumbnail">}}

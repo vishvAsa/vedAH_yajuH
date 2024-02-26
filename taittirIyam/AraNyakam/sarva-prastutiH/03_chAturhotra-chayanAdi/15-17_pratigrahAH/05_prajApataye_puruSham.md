@@ -1,13 +1,13 @@
 +++
-title = "०९ निरृत्या अश्वतर-गर्दभौ"
+title = "०५ प्रजापतये पुरुषम्"
 
 +++
 
 <details><summary>मूलम्</summary>
 
-निर्ऋ॑त्या अश्वतरगर्द॒भौ ।
+प्र॒जाप॑तये॒ पुरु॑षम् ।
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/yajuH/sarva-prastutiH/03/15-17_pratigrahAH/devasya_tvA_savituH__pratigRhNAmi.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/yajuH/sarva-prastutiH/03_chAturhotra-chayanAdi/15-17_pratigrahAH/devasya_tvA_savituH__pratigRhNAmi.md">
 <details open><summary><h5>दे॒वस्य॑ त्वा सवि॒तुः प्रति॑गृह्णामि ...{Loading}...</h5></summary>
 <details><summary>मूलम् (संयुक्तम् आरण्यके)</summary>
 
@@ -62,18 +62,18 @@ ______________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राजा᳚ त्वा॒ वरु॑णो नयतु  
-देवि दख्षिणे॒ निर्ऋ॑त्या अश्वतरगर्द॒भौ ।
+देवि दख्षिणे प्र॒जाप॑तये॒ पुरु॑षम् ।   
 </details>
 <details><summary>मूलम्</summary>
 
 राजा᳚ त्वा॒ वरु॑णो नयतु  
-देवि दख्षिणे॒ निर्ऋ॑त्या अश्वतरगर्द॒भौ ।
+देवि दख्षिणे प्र॒जाप॑तये॒ पुरु॑षम् ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हे हिरण्यात्मिके ! देवि! दक्षिणे! राजा वरुणः त्वां ... नयतु । तच्चेयमिष्टकाऽस्ति ।
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/yajuH/sarva-prastutiH/03/15-17_pratigrahAH/tenAmRtatvam_ashyAm.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/yajuH/sarva-prastutiH/03_chAturhotra-chayanAdi/15-17_pratigrahAH/tenAmRtatvam_ashyAm.md">
 <details open><summary><h5>तेना॑मृत॒त्वम॑श्याम् ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

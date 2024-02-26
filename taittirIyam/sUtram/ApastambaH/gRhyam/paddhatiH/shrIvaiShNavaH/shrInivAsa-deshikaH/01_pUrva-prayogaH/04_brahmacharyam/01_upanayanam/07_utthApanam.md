@@ -63,7 +63,7 @@ title = "०७ उत्थापनम्"
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/03/15-17_pratigrahAH/01_agnaye_hiraNyam/">
 <details open><summary><h5>०१ अग्नये हिरण्यम् ...{Loading}...</h5></summary>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/yajuH/sarva-prastutiH/03/15-17_pratigrahAH/devasya_tvA_savituH__pratigRhNAmi.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/yajuH/sarva-prastutiH/03_chAturhotra-chayanAdi/15-17_pratigrahAH/devasya_tvA_savituH__pratigRhNAmi.md">
 <details open><summary><h10>दे॒वस्य॑ त्वा सवि॒तुः प्रति॑गृह्णामि ...{Loading}...</h10></summary>
 <details><summary>मूलम् (संयुक्तम् आरण्यके)</summary>
 
@@ -129,7 +129,7 @@ ______________
 
 हे हिरण्यात्मिके ! देवि! दक्षिणे! राजा वरुणः त्वां हिरण्यं अग्नये नयतु । तच्चेयमिष्टकाऽस्ति ।  
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/yajuH/sarva-prastutiH/03/15-17_pratigrahAH/tenAmRtatvam_ashyAm.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/yajuH/sarva-prastutiH/03_chAturhotra-chayanAdi/15-17_pratigrahAH/tenAmRtatvam_ashyAm.md">
 <details open><summary><h10>तेना॑मृत॒त्वम॑श्याम् ...{Loading}...</h10></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

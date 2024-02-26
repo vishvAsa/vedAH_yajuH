@@ -62,7 +62,7 @@ unicode_script: devanagari
 ### पर्यवसानम्
 स वा ए॒ष य॒ज्ञस्, स॒द्यः प्रता॑यते स॒द्यस् सन्ति॑ष्ठते। तस्य॒ प्राक् सा॒यम् अ॑वभृ॒थो -
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/02/namo_brahmaNe.md">
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/02_svAdhyAya-brAhmaNAdi/namo_brahmaNe.md">
 <details open><summary><h3>नमो ब्रह्मणे ...{Loading}...</h3></summary>
 
 (ॐ)  

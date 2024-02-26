@@ -3,7 +3,8 @@ title = "०१ गायत्रीं"
 
 +++
 
-<div class="js_include" includetitle="true" newlevelforh1="4" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/062/10_tatsaviturvareNyaM_bhargo.md">
+<div class="js_include" includetitle="true" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mADabhUShi-vIrarAghavaH/01_pUrva-prayoga-chandrikA/02_angAni/02_udakashAntiH/03_japaH/01_gAyatrIM/">
+
 <details open><summary><h4>१० तत्सवितुर्वरेण्यं भर्गो ...{Loading}...</h4></summary>
 
 तत् सवि॒तुर् वरे॑ण्य+++(णिय)+++म्  

@@ -6,7 +6,7 @@ title = "४३ 'नमो ब्रह्मण'"
 +++(पच्छो ऽर्धर्क्शः पूर्णम् इति  
 +उत्तरोत्तरस्वरैः जप्यमानं श्रूयते)+++
 
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/02/namo_brahmaNe.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/02_svAdhyAya-brAhmaNAdi/namo_brahmaNe.md">
 <details open><summary><h4>नमो ब्रह्मणे ...{Loading}...</h4></summary>
 
 (ॐ)  
