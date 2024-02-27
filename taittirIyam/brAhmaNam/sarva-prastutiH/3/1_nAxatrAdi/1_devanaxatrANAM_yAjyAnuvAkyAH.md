@@ -912,13 +912,13 @@ Denebola - β, 93 Leonis
 
 ## हस्तः - सविता
 
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/21_AyAtu_devassavitopayAtu.md">
+<details open><summary><h7>21 आयातु देवस्सवितोपयातु ...{Loading}...</h7></summary>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/21_AyAtu_devassavitopayAtu.md">
-<details open><summary><h2>21 आयातु देवस्सवितोपयातु ...{Loading}...</h2></summary>
 
-
-आया॒तु दे॒वस् **स॑वि॒तोप॑यातु**। हि॒र॒ण्यये॑न सु॒वृता॒ रथे॑न।  
-**वह॒न्॒** हस्तꣳ॑ सु॒भग॑व्ँ विद्म॒नाप॑सम् +++(=विदितकर्मणा युक्तम्)+++। **प्र॒यच्छ॑न्त॒म्** पपु॑रि॒म् +++(=पूरयितारम्)+++ पुण्य॒म् अच्छ॑ +++(=अभिमुखं वर्तमानम्)+++।
+आया॑तु दे॒वस् **स॑वि॒तोप॑यातु**।  
+हि॒र॒ण्यये॑न सु॒वृता॒ रथे॑न।  **वह॒न्॒** हस्तꣳ॑ सु॒भग॑व्ँ विद्म॒नाप॑सम् +++(=विदितकर्मणा युक्तम्)+++।  
+**प्र॒यच्छ॑न्त॒म्** पपु॑रि॒म् +++(=पूरयितारम्)+++ पुण्य॒म् अच्छ॑ +++(=अभिमुखं वर्तमानम्)+++।
 
 </details>
 </div>
@@ -948,7 +948,7 @@ Denebola - β, 93 Leonis
 
 हस्तᳶ॒ **प्रय॑च्छत्व्** अ॒मृत॒व्ँ वसी॑यः।  
 दक्षि॑णेन॒ **प्रति॑गृभ्णीम** एनत्।  
-दा॒तार॑म् अ॒द्य +++([यः])+++ स॑वि॑ता **वि॑देय** +++(=लभेय)+++।  
+दा॒तार॑म् अ॒द्य +++([यः])+++ स॑वि॒ता **वि॑देय** +++(=लभेय)+++।  
 यो नो॒ हस्ता॑य **प्रसु॒वाति॑** य॒ज्ञम्॥  
 </details>
 </div>
@@ -960,9 +960,6 @@ Denebola - β, 93 Leonis
 दख्षि॑णेन॒ प्रति॑गृभ्णीम एनत् ।  
 दा॒तार॑म॒द्य स॑वि॒ता वि॑देय ।  
 यो नो॒ हस्ता॑य प्रसु॒वाति॑ य॒ज्ञम् ।
-
-
-
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -974,9 +971,10 @@ Denebola - β, 93 Leonis
 
 
 
-{स॒वि॒त्रेस्वाहा॒ हस्ता॑य स्वाहा॑  
+{स॒वि॒त्रे स्वाहा॒ हस्ता॑य स्वाहा॑  
 ऽऽदद॒ते स्वाहा॑ पृण॒ते स्वाहा॑  
 प्र॒यच्छ॑ते॒ स्वाहा॑ प्रतिगृभ्ण॒ते स्वाहा॑।}
+
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/11_hastaH/">
 <details open><summary><h5>११ हस्तः ...{Loading}...</h5></summary>
