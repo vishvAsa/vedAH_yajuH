@@ -27,10 +27,7 @@ script: grantha
 
 शुक्लाम्बरधरं + शान्तये। ॐ भूः + भूर्भुवः॒सुव॒रोम्। ममोपात्त + प्रीत्यर्थं तदेव लग्नं + स्मरामि। करिष्यमाणस्य कर्मणः अविघ्नेन परिसमाप्त्यर्थं, आदौ गणपतिपूजां करिष्ये। इति सङ्कल्प्य, गणपतिपूजां कृत्वा,
 
-<div class="skt-extra">
-{% capture my_include %}{% include puja/ganapati_puja.md %}{% endcapture %}
-{{ my_include | markdownify }}
-</div>
+<div class="js_include" url="../gaNapati-pUjA/" newLevelForH1="5" includeTitle="false"> </div>
 
 ## सङ्कल्पः
 
@@ -38,16 +35,14 @@ script: grantha
 
 >  शान्त्यर्थं चेद्दिवा कुर्याद्रात्रौ चेत् कर्मशुद्धये॥
 
-{% capture my_include %}{% include puja/kumbha_karya.md %}{% endcapture %}
-{{ my_include | markdownify }}
+<div class="js_include" url="../kumbha-kAryam/" newLevelForH1="5" includeTitle="false"> </div>
 
 ## वरुणपूजा  
 इ॒मं मे॑ वरुण, तत्त्वा॑यामीति द्वाभ्यां कुम्भे वरुणमावह्य, आसनादिषोडशोपचारान् कुर्यात्।
 
-<div class="skt-extra">
-{% capture my_include %}{% include puja/varuna_puja.md %}{% endcapture %}
-{{ my_include | markdownify }}
-</div>
+<div class="js_include" url="../varuNa-pUjA/" newLevelForH1="5" includeTitle="false"> </div>
+
+
 
 ## उदकशान्तिजपः
 उदकशान्तिजपकर्मणि ऋत्विजं त्वां वृणे। इत्यृत्विजो वृत्वा, (उदकशान्तिजपं कुरुध्वम्)
