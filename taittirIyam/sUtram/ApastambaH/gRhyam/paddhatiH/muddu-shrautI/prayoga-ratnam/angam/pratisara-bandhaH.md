@@ -23,13 +23,13 @@ script: grantha
 
 > अमुकनक्षत्रे ऽमुकराशौ जातस्यामुकशर्मणो ऽमुकस्य अमुककर्माङ्गं बोधायनोक्तप्रकारेण प्रतिसरबन्धकर्म करिष्ये। उदकशान्तिवच्छुचौ समे देश इत्यादि कुम्भं प्रतिष्ठाप्यालङ्कृत्य 
 
-<div class="js_include" url="../kumbha-kAryam" newLevelForH1="5" includeTitle="false"> </div>
+<div class="js_include" url="../upAngam/kumbha-kAryam" newLevelForH1="5" includeTitle="false"> </div>
 
 ## वरुणपूजादि
 
 इ॒मं मे॑ वरुण, तत्त्वा॑यामीति द्वाभ्यां कुम्भे वरुणमावाह्य, आसनं दत्वा, पाद्यादि-निवेदनान्तं कृत्वा,
 
-<div class="js_include" url="../varuNa-pUjA" newLevelForH1="5" includeTitle="false"> </div>
+<div class="js_include" url="../upAngam/varuNa-pUjA" newLevelForH1="5" includeTitle="false"> </div>
 
 
 

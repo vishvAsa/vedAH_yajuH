@@ -17,11 +17,6 @@ script: grantha
 
 चौलकर्माङ्गं [उदकशान्तिं][udaka], [अङ्कुरं][ankur], [प्रतिसरं][pratisara], [अभ्युदयं][nandi], [पुण्याहं][punya] च कुर्यात्॥ 
 
-[udaka]:{{ site.baseurl }}{% link prayoga/ratna/udaka_shanti.md %}
-[ankur]:{{ site.baseurl }}{% link prayoga/ratna/ankurarpana.md %} 
-[pratisara]:{{ site.baseurl }}{% link prayoga/ratna/pratisarabandha.md %} 
-[nandi]:{{ site.baseurl }}{% link prayoga/ratna/nandi.md %} 
-[punya]:{{ site.baseurl }}{% link prayoga/ratna/punyahavachana.md %} 
 
 ## सङ्कल्पः
 
