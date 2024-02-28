@@ -8,6 +8,7 @@ title = "०३ अभ्युदय-श्राद्धम्"
 इति सङ्कल्प्य,  
 अन्नेन, आमेन, हिरण्येन वा कुर्यात् । 
 
+## हिरण्य-निधानम्
 > वसु-सत्याख्य-विश्वेभ्यो देवेभ्यः  
 > नान्दी-मुखाभ्यः मातृ-पितामही-प्रपितामहीभ्यः,  
 > नान्दी-मुखेभ्यः पितृ-पितामह-प्रपितामहेभ्यः/  
@@ -16,6 +17,8 @@ title = "०३ अभ्युदय-श्राद्धम्"
 > इदं हिरण्यम् 
 
 इति हिरण्यं निधाय,
+
+## प्रीणनम्
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/yaJNeshvaraH__eko_viShNuH/">
 <details open><summary><h5>यज्ञेश्वरो … एको विष्णुः ...{Loading}...</h5></summary>
@@ -45,9 +48,10 @@ title = "०३ अभ्युदय-श्राद्धम्"
 नान्दी-श्राद्ध-संरक्षक-श्री-महा-विष्णु-स्वरूपी,  
 सर्वाकारो भगवान् स एव श्री-जनार्दनः प्रीयताम् ।  
 नान्दीशेभनदेवताः पितरः प्रीयन्ताम् ।
+>
+> इयञ् च वृद्धिः ।
 
-इयञ् च वृद्धिः ।
-
+## दानम्
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/3/3/02_stotropAkaraNam_pratigarAngamantrAshcha/iDA_devahUH.md">
 <details open><summary><h5>इडा॑ देव॒हूः ...{Loading}...</h5></summary>
