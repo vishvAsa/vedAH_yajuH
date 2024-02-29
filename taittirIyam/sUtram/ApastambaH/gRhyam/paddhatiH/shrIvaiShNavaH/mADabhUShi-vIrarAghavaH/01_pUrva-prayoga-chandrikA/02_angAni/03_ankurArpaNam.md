@@ -1084,7 +1084,6 @@ We, O king, bring to safety.'
 सोमो॑ वी॒रं क॑र्म॒ण्यं॑ **ददाति** ।  
 सा॒द॒न्यं॑+++(←सदन)+++ विद॒थ्यं॑ स॒भेयं॑  
 पितृ॒-श्रव॑णं॒ यो **ददा॑शद्**+++(=दद्यात्)+++ अस्मै +++(यजमानाय)+++ ॥
-
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/031/04_A_pyAyasva.md">
@@ -1094,7 +1093,6 @@ We, O king, bring to safety.'
 **आ प्या॑यस्व॒ समे॑तु** ते  
 वि॒श्वतः॑ सोम॒ वृष्ण्य॑म् ।  
 **भवा॒** वाज॑स्य **सङ्ग॒थे**+++(=संगमने)+++ ॥
-
 </details>
 </div>  
 
