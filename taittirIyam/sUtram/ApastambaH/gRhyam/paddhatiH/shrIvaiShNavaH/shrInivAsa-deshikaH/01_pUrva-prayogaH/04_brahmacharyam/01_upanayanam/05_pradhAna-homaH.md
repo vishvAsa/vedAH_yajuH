@@ -191,7 +191,15 @@ title = "०५ प्रधान-होमः"
 
 (स् - जयादि प्रतिपद्यते - परिषेचनान्तं कृत्वा)
 
-आचार्यः (पिता) जयादि प्रतिपद्यते,  
+आचार्यः (पिता) - जयादि प्रतिपद्यते,  
+
+
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/3/4/05_abhyAtAnamantrAH/" newLevelForH1="5" includeTitle="false"> </div>
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/3/4/07_rAShTrabhRnmantrAH/" newLevelForH1="5" includeTitle="false"> </div>
+
+
 (शम्या अपोह्य),  
 प्राणान् आयम्य 
 
