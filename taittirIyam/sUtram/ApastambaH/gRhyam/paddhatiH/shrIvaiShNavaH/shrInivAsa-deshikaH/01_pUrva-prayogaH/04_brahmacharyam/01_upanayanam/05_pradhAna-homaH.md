@@ -193,11 +193,8 @@ title = "०५ प्रधान-होमः"
 
 आचार्यः (पिता) - जयादि प्रतिपद्यते,  
 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/jayAdy-abhyAtAna-rAShTrabhRtaH.md" newLevelForH1="5" includeTitle="false"> </div>
 
-
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/3/4/05_abhyAtAnamantrAH/" newLevelForH1="5" includeTitle="false"> </div>
-
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/3/4/07_rAShTrabhRnmantrAH/" newLevelForH1="5" includeTitle="false"> </div>
 
 
 (शम्या अपोह्य),  
