@@ -204,6 +204,22 @@ title = "०७ होमः"
 व्यस्ताभिः व्याहृतिभिः  
 'यदस्य कर्मण' इत्य् एतया च अष्टौ पञ्चाशद् आहुतीः (अष्टाचत्वारिंशद् आहुतीः) हुत्वा  
 
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/121/10_prajApate_na.md">
+<details open><summary><h2>१० प्रजापते न ...{Loading}...</h2></summary>
+
+
+प्रजा॑पते॒ न त्वद् +++(विश्वा जातानि→)+++ ए॒तान्य् अ॒न्यो  
+विश्वा॑ जा॒तानि॒ **परि॒** ता **ब॑भूव** ।  
+यत्-का॑मास् ते जुहु॒मस् तन् नो॑ **अस्तु**  
+व॒यꣵ **स्या॑म॒** पत॑यो रयी॒णाम्॥
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/baudhAyanaH/gRhyam/mantraH/yajuH/sarva-prastutiH/vyAhRti-homAH.md"></div>
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/yad_asya_karmaNaH.md" newLevelForH1="5" includeTitle="false"> </div>
+
+
 ## परिधि-प्रहारः, संस्रावः
 पुं-सुवनादिषु परिधीन्  
 आज्येन निधान-क्रमेण **अभ्यज्य**  
@@ -231,17 +247,106 @@ title = "०७ होमः"
 
 [[10]]
 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/baudhAyanaH/gRhyam/mantraH/yajuH/sarva-prastutiH/bhUr_bhuvas_suvas_svAhA.md" newLevelForH1="5" includeTitle="false"> </div>
+
+
+
 अनाज्ञात-त्रयेण,  
 'त्वन्नो अग्ने'  
 'सत्वन्नो अग्ने' इत्येताभ्याम्  
 
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/001/04_tvaM_no.md">
+<details open><summary><h2>०४ त्वं नो ...{Loading}...</h2></summary>
+
+त्वन् नो॑ अग्ने॒ वरु॑णस्य वि॒द्वान्  
+दे॒वस्य॒ हेडो+++(=क्रोधो )+++ ऽव॑ यासिसीष्ठाः+++(=यक्षीष्ठाः)+++ ।  
+यजि॑ष्ठो॒ +++(हविर्)+++वह्नि॑तम॒श् शोशु॑चानो॒+++(=देदीप्यमानः)+++  
+विश्वा॒ द्वेषाँ॑सि॒ प्र मु॑मुग्ध्य् अ॒स्मत् ।
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/001/05_sa_tvaM.md">
+<details open><summary><h2>०५ स त्वं ...{Loading}...</h2></summary>
+
+स त्वन् नो॑ अग्ने ऽव॒मो+++(=मूलभूतो)+++ **भ॑व॒**+ऊ॒ती+++(त्या)+++  
++++(“अग्निरवमो देवतानां विष्णुः परमः” इति ब्राह्मणम्)+++  
+नेदि॑ष्ठो+++(=अन्तिकतमो)+++ अ॒स्या उ॒षसो॒ व्यु॑ष्टौ+++(=व्युष्टायाम्)+++ ।  
+**अव॑ यक्ष्व** नो॒ वरु॑णँ॒, **ररा॑णो**  
+**वी॒हि**+++(=खाद)+++ मृ॑डी॒कँ+++(=सुखयितारं [हविः])+++ सु॒हवो॑ न **एधि** ।
+
++++(अग्नीवरुणाभ्याम् इदं न मम)+++
+</details>
+</div>
+
+
 'आभिर्गीर्भिः'  
 'इदं विष्णुर्'  
 इत्य् एताभ्यां  
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/32_Abhir_gIrbhir.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+आ॒भिर् गी॒र्भिर् यद् अतो॑ न **ऊ॒नम्**   
+**आप्या॑यय** हरिवो॒ +++(=अश्ववान्, स्वर्णवान् वा [इन्द्रः])+++ **वर्द्ध॑मानः**।  
+य॒दा स्तो॒तृभ्यो॒ महि॑ गो॒त्रा +++(=मेघान्)+++ **रु॒जासि॑** +++(=भिनक्षि)+++  
+**भूयिष्ठ॒भाजो॒** अध॑+++(=अत)+++ ते **स्याम**॥
+</details>
+</div>
+
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/022/17_idaM_viShNurvi.md">
+<details open><summary><h2>१७ इदं विष्णुर्वि ...{Loading}...</h2></summary>
+
+
+इ॒दव्ँ विष्णु॒र् +++(अग्नि-विद्युत्-सूर्यात्मना)+++ **वि च॑क्रमे**  
++++(पृथिव्याम् अन्तरिक्षे दिवि च)+++ त्रे॒धा **नि द॑धे** प॒दम् ।  
++++(तैर् आधारैर् जगत्)+++ **सम् ऊ॑ढम्** अस्य पाꣳसु॒रे +++(ले इति साम्नि, पांसुमति [पादे])+++ ॥
+
+</details>
+</div>
+
+
 व्यस्ताभिः समस्ताभिः व्याहृतिभिश् च हुत्वा 
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/baudhAyanaH/gRhyam/mantraH/yajuH/sarva-prastutiH/vyAhRti-homAH_4.md">
+<details open><summary><h5>व्याहृति-होमाः ४ ...{Loading}...</h5></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+(ओं) भूस्स्वाहा᳚ ॥
+(अग्नय इदं न मम)
+
+(ओं) भुव॒स्स्वाहा᳚ ॥
+(वायव इदं न मम)
+
+(ओं) सुव॒स्स्वाहा᳚ ॥  
+(सूर्याय इदं न मम)
+
+(ओं) भूर्भुव॒स्सुव॒स्स्वाहा᳚ ॥  
+(प्रजापतय इदं न मम)  
+</details>
+<details><summary>मूलम्</summary>
+
+(ओं) भूस्स्वाहा᳚ ॥
+(अग्नय इदं न मम)
+
+(ओं) भुव॒स्स्वाहा᳚ ॥
+(वायव इदं न मम)
+
+(ओं) सुव॒स्स्वाहा᳚ ॥  
+(सूर्याय इदं न मम)
+
+(ओं) भूर्भुव॒स्सुव॒स्स्वाहा᳚ ॥  
+(प्रजापतय इदं न मम)  
+
+</details>
+</details>
+</div>  
+
 
 ## पूर्णाहुतिः
 "श्रीविष्णवे स्वाहे"ति पूर्णाहुतिं हुत्वा  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/shrI-viShNave_svAhA.md" newLevelForH1="5" includeTitle="false"> </div>
+
+
 
 ## परिषेचनम्
 पूर्ववत् परिषिञ्चेत् -  

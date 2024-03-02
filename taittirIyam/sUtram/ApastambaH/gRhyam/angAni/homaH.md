@@ -201,6 +201,7 @@ unicode_script: devanagari
 
 परिधिप्रहरणम् - (आज्यहोमेषु जयाद्यनन्तरं श्रौतवत्तूष्णीं परिधीनग्नौ प्रहृत्य, तान् दर्वीसंस्रावेणाभिजुहोति। परिधितत्संस्काराणां श्रौतवदभ्यनुज्ञानस्योक्तत्वात्, कृतकार्याणां प्रतिपत्त्यपेक्षत्वाद् आचाराच्च । शम्याश्चेत्, अस्मिन् काले अपोह्या "अथ शम्या उपोद्य"
 [बौ.गृ.१४३७] इति बोधायनवचनात्, आचाराच्च ॥)  
+
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhanirUpaNam/02_08_pUrvavat_pariShechanamanvama.NsthAH.md">
 <details open><summary><h2>०२ ०८ पूर्ववत् परिषेचनमन्वमँस्थाः ...{Loading}...</h2></summary>
 
