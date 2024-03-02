@@ -2,10 +2,10 @@
 title = "०२ कुम्भः"
 
 +++
-अद्भिर् अवोक्ष्य  
-व्रीहीन् तत्र निक्षिप्य  
+अद्भिर् **अवोक्ष्य**  
+व्रीहीन् तत्र **निक्षिप्य**  
 
-तत्र ‘ब्रह्मजज्ञानम्' इति कुम्भं निधाय  
+तत्र ‘ब्रह्मजज्ञानम्' इति कुम्भं **निधाय**  
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/13/03_brahma_jajnAnam.md">
 <details open><summary><h4>०३ ब्रह्म जज्ञानम् ...{Loading}...</h4></summary>
@@ -21,7 +21,7 @@ title = "०२ कुम्भः"
 </div>  
 
 
-तस्मिन् गायत्र्या तिरः-पवित्रं निधाय  
+तस्मिन् गायत्र्या तिरः-पवित्रं **निधाय**  
 
 <div class="js_include" includetitle="true" newlevelforh1="4" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/062/10_tatsaviturvareNyaM_bhargo.md">
 <details open><summary><h4>१० तत्सवितुर्वरेण्यं भर्गो ...{Loading}...</h4></summary>
@@ -71,15 +71,15 @@ title = "०२ कुम्भः"
 </div>
 
 
-'भूर् भुव॒स् सुव॒र् ओम्' इति अक्षतां निक्षिप्य  
+'भूर् भुव॒स् सुव॒र् ओम्' इति **अक्षतां** निक्षिप्य  
 
-गन्ध-पुष्पैर् अलङ्-कृत्य  
+गन्ध-पुष्पैर् **अलङ्-कृत्य**  
 
-दूर्वा-पुष्प-फलैर् अवकीर्य 
+दूर्वा-पुष्प-फलैर् **अवकीर्य** 
 
-दूर्वा-दर्भैः प्रच्छाद्य 
+दूर्वा-दर्भैः **प्रच्छाद्य** 
 
-'शन्नो देवी'र् इत्य् अभिमृश्य 
+'शन्नो देवी'र् इत्य् **अभिमृश्य** 
 
 <div class="js_include" includetitle="true" newlevelforh1="4" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/04_shaM_no.md">
 <details open><summary><h4>०४ शं नो ...{Loading}...</h4></summary>
@@ -94,4 +94,4 @@ title = "०२ कुम्भः"
 
 
 चतुर्-दिक्षु आसनेषु निषण्णैश् चतुर्भिर् ब्राह्मणैस् सह  
-कुम्भम् अन्वारभ्य 
+कुम्भम् **अन्वारभ्य** 

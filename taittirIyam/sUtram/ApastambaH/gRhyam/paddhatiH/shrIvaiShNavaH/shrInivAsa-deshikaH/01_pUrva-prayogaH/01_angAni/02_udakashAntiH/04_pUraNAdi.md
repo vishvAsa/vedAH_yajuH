@@ -2,6 +2,7 @@
 title = "०४ पूरणादि"
 
 +++
+## आपः
 <div class="js_include" includetitle="true" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/22_Apo_vA_idam/">
 <details open><summary><h4>२२ आपो वा इदं सर्वम् ...{Loading}...</h4></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -69,6 +70,7 @@ title = "०४ पूरणादि"
 
 इत्यादिभिः कुम्भे जलमापूर्य, 
 
+## उत्पवनम्
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/05_haviHproxaNAdiH/devo_vas_savitotpunAtu.md">
 <details open><summary><h2>देवो वस् सविता ...{Loading}...</h2></summary>
 
@@ -83,6 +85,7 @@ title = "०४ पूरणादि"
 इति तिरः पवित्रेण  
 प्राचीस् त्रिर् उत्पूय, 
 
+## सुवर्ण-निक्षेपः
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/082/03_sa_hi.md">
 <details open><summary><h5>०३ स हि ...{Loading}...</h5></summary>
 
@@ -96,6 +99,7 @@ title = "०४ पूरणादि"
 
 इति कुम्भे सुवर्णं निक्षिप्य, 
 
+## कूर्चम्
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/kUrchAgrai_rAxasAn.md">
 <details open><summary><h5>कूर्चाग्रैः राक्षसान् ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -117,6 +121,7 @@ title = "०४ पूरणादि"
 
 इति ऊर्ध्वाग्रं कूर्चन्निधाय, 
 
+## चूत-पत्त्राणि
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/vRxarAja-samudbhUtAH.md">
 <details open><summary><h5>वृक्षराज-समुद्भूताः ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -136,6 +141,7 @@ title = "०४ पूरणादि"
 
 इति चूतपल्लवगुच्छानिघाय, 
 
+## नारिकेलम्
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/nAlikera-samudbhUta.md">
 <details open><summary><h5>नालिकेर-समुद्भूत ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -155,12 +161,3 @@ title = "०४ पूरणादि"
 
 इति नालिकेरं निधाय अलङ्कृत्य, 
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/025/19_imaM_me.md">
-<details open><summary><h2>१९ इमं मे ...{Loading}...</h2></summary>
-
-इ॒मं मे॑ वरुण श्रुधी॒ +++(=श्रुणु)+++  
-हव॑म्+++(=आह्वानम्)+++ अ॒द्या च॑ मृळय +++(=सुखय)+++।  
-त्वाम् अ॑व॒स्युर् आ च॑के +++(=अवदन्)+++॥  
-
-</details>
-</div>
