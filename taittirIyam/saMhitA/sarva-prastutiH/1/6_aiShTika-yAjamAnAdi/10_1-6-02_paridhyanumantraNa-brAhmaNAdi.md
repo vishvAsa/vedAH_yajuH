@@ -14,7 +14,7 @@ title = "१० १-०६-९२ परिध्यनुमन्त्रण-
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-&gt; ध्रु॒वो॑ऽसि ।  
+> ध्रु॒वो॑ऽसि ।  
 ध्रु॒वो॑ऽहꣳ स॑जा॒तेषु॑ भूयास॒म् 
 
 इत्या॑ह ।   
@@ -37,7 +37,7 @@ verily he makes them secure.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-&gt; उ॒ग्रो᳚ऽसि ।
+> उ॒ग्रो᳚ऽसि ।
 उ॒ग्रो॑ऽहꣳ स॑जा॒तेषु॑ भूयास॒म् 
 
 इत्य् आ॒ह ।  
@@ -60,7 +60,7 @@ verily he makes them harmonious.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-&gt; अभि॒भूर् अ॑सि ।  
+> अभि॒भूर् अ॑सि ।  
 अभि॒भूर॒हꣳ स॑जा॒तेषु॑ भूयास॒म्
 
 इत्य् आ॑ह ।  
