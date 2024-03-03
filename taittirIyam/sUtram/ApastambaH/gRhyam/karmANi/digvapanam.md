@@ -3,7 +3,6 @@ title: दिग्वपनम्
 unicode_script: devanagari
 
 ---
-
 ## शिरस उन्दनम्
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/10_05_brAhmaNAn_bhojayitvAshiSho.md">
 <details open><summary><h2>१० ०५ ब्राह्मणान् भोजयित्वाशिषो ...{Loading}...</h2></summary>
@@ -19,17 +18,20 @@ unicode_script: devanagari
 <details open><summary><h4>०१ उष्णेन वायवुदकेनेह्यदितिः ...{Loading}...</h4></summary>
 
 
-+++(उष्णा आपः शीतास्वानयति)+++ उ॒ष्णेन॑ वायवुद॒केनेह्य्, अदि॑तिः॒ केशान्॑ वपतु ।
++++(उष्णा आपः शीतास्वानयति)+++ उ॒ष्णेन॑ वायवुद॒केनेह्य्, अदि॑तिः॒ केशान्॑ **वपतु** ।
 
 </details>
 </div>
+
 
 उत्तरया +++(आप उन्दन्त्विऽत्येतया)+++ शिर उनत्ति ५  
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_01/02_Apa_undantu.md">
 <details open><summary><h4>०२ आप उन्दन्तु ...{Loading}...</h4></summary>
 
 
-+++(शिरस उन्दनम् = आर्द्रीकरणम्)+++ आप॑ उन्दन्तु जी॒वसे॑ दीर्घायु॒त्वाय॒ वर्च॑से । ज्योक् च॒ सूर्यं॑ दृ॒शे ।
++++(शिरस उन्दनम् = आर्द्रीकरणम्)+++ आप॑ **उन्दन्तु** जी॒वसे॑  
+दीर्घायु॒त्वाय॒ वर्च॑से ।  
+ज्योक् च॒ सूर्यं॑ दृ॒शे ।
 
 </details>
 </div>
@@ -50,46 +52,44 @@ unicode_script: devanagari
 <details open><summary><h4>०३ येनावपत्सविता क्षुरेण ...{Loading}...</h4></summary>
 
 
-+++(प्राच्यान्दिशि)+++ येनाव॑पत् सवि॒ता क्षु॒रेण॒  
++++(प्राच्यान्दिशि)+++ **येनाव॑पत्** सवि॒ता क्षु॒रेण॒  
 सोम॑स्य॒ राज्ञो॒ वरु॑णस्य वि॒द्वान् ।  
-तेन॑ ब्रह्माणो वपते॒दम् अ॒स्या-  
-ऽऽयु॑ष्मा॒ञ् जर॑दष्टि॒र् यथाऽस॑द् अ॒यम् अ॒सौ +++(←अत्रोहः)+++।
+तेन॑ ब्रह्माणो! **वपते॒दम्** अ॒स्या-  
+ऽऽयु॑ष्मा॒ञ् जर॑दष्टि॒र् यथा **ऽस॑द्** अ॒यम्  
+अ॒सौ +++(←अत्रोहः)+++।
 
 </details>
 </div>
-
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_01/04_yena_pUShA.md">
 <details open><summary><h4>०४ येन पूषा ...{Loading}...</h4></summary>
 
 
 +++(दक्षिणतः)+++ येन॑ पू॒षा बृह॒स्पते॑र् अ॒ग्नेर्  
-इन्द्र॑स्य॒ चाऽऽयु॒षे ऽव॑पत् ।  
-तेना॒स्याऽऽयु॑षे वप॒  
+इन्द्र॑स्य॒ चाऽऽयु॒षे **ऽव॑पत्** ।  
+तेना॒स्याऽऽयु॑षे **वप॒**  
 सौश्लो॑क्याय स्व॒स्तये॑ ।
 
 </details>
 </div>
-
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_01/05_yena_bhUyashcharAtyayanjyokcha.md">
 <details open><summary><h4>०५ येन भूयश्चरात्ययञ्ज्योक्च ...{Loading}...</h4></summary>
 
 
-+++(पश्चात्)+++ येन॒ भूय॒श् चरा॑त्य् अ॒यञ्,  
-ज्योक् च॒ पश्या॑ति॒ सूर्य॑म् ।  
-तेना॒स्याऽऽयु॑षे वप॒  
++++(पश्चात्)+++ येन॒ भूय॒श् **चरा॑त्य्** अ॒यञ्,  
+ज्योक् च॒ **पश्या॑ति॒** सूर्य॑म् ।  
+तेना॒स्याऽऽयु॑षे **वप॒**  
 सौश्लो॑क्याय स्व॒स्तये॑ ।
 
 </details>
 </div>
-
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_01/06_yena_pUShA.md">
 <details open><summary><h4>०६ येन पूषा ...{Loading}...</h4></summary>
 
 
 +++(उत्तरे)+++ येन॑ पू॒षा बृह॒स्पते॑र् अ॒ग्नेर्  
-इन्द्र॑स्य॒ चाऽऽयु॒षे ऽव॑पत् ।  
-तेन॑ ते वपाम्य् असा॒व्+++(←अत्रोहः)+++  
-आयु॑षा॒ वर्च॑सा॒ यथा॒ ज्योक् सु॒मना॒ असाः॑ ।
+इन्द्र॑स्य॒ चाऽऽयु॒षे **ऽव॑पत्** ।  
+तेन॑ ते **वपाम्य्** असा॒व्+++(←अत्रोहः)+++  
+आयु॑षा॒ वर्च॑सा॒ यथा॒ ज्योक् सु॒मना॒ **असाः॑** ।
 
 </details>
 </div>
@@ -107,8 +107,8 @@ unicode_script: devanagari
 
 
 +++(नापितम् अनुमन्त्रयति-)+++ यत् क्षु॒रेण॑ म॒र्चय॑ता +++(=तीक्ष्णेन)+++  
-सुपे॒शसा॒ वप्त्रा॒ वप॑सि॒ केशान्॑ ।  
-शुन्धि॒ शिरो॒ मास्यायुः॒ प्रमो॑षीः ।
+सुपे॒शसा॒ वप्त्रा॒ **वप॑सि॒** केशान्॑ ।  
+**शुन्धि॒** शिरो॒, मास्यायुः॒ **प्रमो॑षीः** ।
 
 </details>
 </div>
@@ -125,13 +125,12 @@ unicode_script: devanagari
 <details open><summary><h4>०८ उप्त्वाय केशान् ...{Loading}...</h4></summary>
 
 
-उ॒प्त्वास्य॒ केशा॒न्॒ वरु॑णस्य॒ राज्ञो॒,  
+**उ॒प्त्वास्य॒** केशा॒न्॒ वरु॑णस्य॒ राज्ञो॒,  
 बृह॒स्पति॑स् सवि॒ता सोमो॑ अ॒ग्निः ।  
-तेभ्यो॑ +++(=केशेभ्यः)+++ नि॒धानं॑ बहु॒धा ऽन्व॑विन्दन्न्  
+तेभ्यो॑ +++(=केशेभ्यः)+++ नि॒धानं॑ बहु॒धा **ऽन्व॑विन्दन्न्**  
 अन्त॒रा द्यावा॑पृथि॒वी अ॒पस् सुवः॑ ॥  
 
 </details>
 </div>
 </details>
 </div>
-

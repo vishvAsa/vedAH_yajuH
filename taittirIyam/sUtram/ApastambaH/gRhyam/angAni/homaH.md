@@ -138,7 +138,7 @@ unicode_script: devanagari
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/01_adite-nu_manyasva.md">
 <details open><summary><h4>०१ अदितेऽनु मन्यस्व ...{Loading}...</h4></summary>
 
-अदि॒तेऽनु॑ मन्यस्व।
+अदि॒तेऽनु॑ मन्यस्व। +++(इति दक्षिणतः, प्राचीनम्)+++
 
 
 </details>
@@ -146,21 +146,21 @@ unicode_script: devanagari
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/02_anumate-nu_manyasva.md">
 <details open><summary><h4>०२ अनुमतेऽनु मन्यस्व ...{Loading}...</h4></summary>
 
-अनु॑म॒ते+++(=ऊनचन्द्रे पूर्णमासि)+++ ऽनु॑ मन्यस्व।
+अनु॑म॒ते+++(=ऊनचन्द्रे पूर्णमासि)+++ ऽनु॑ मन्यस्व। +++(इति पश्चिमाद् उदीचीनम्)+++
 
 </details>
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/03_saras-vate-nu_manyasva.md">
 <details open><summary><h4>०३ सरस्-वतेऽनु मन्यस्व ...{Loading}...</h4></summary>
 
-सर॑स्-वते+++(छान्दसो गुणः)+++ ऽनु॑ मन्यस्व।
+सर॑स्-वते+++(छान्दसो गुणः)+++ ऽनु॑ मन्यस्व। +++(इति उत्तरतः प्राचीनम्)+++
 
 </details>
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/04_deva_savitaH.md">
 <details open><summary><h4>०४ देव सवितः ...{Loading}...</h4></summary>
 
-देव सवितः॒ प्रसु॑व।
+देव सवितः॒ प्रसु॑व। +++(इति प्रागारम्भं प्रदक्षिणं)+++
 
 </details>
 </div>
@@ -201,6 +201,7 @@ unicode_script: devanagari
 
 परिधिप्रहरणम् - (आज्यहोमेषु जयाद्यनन्तरं श्रौतवत्तूष्णीं परिधीनग्नौ प्रहृत्य, तान् दर्वीसंस्रावेणाभिजुहोति। परिधितत्संस्काराणां श्रौतवदभ्यनुज्ञानस्योक्तत्वात्, कृतकार्याणां प्रतिपत्त्यपेक्षत्वाद् आचाराच्च । शम्याश्चेत्, अस्मिन् काले अपोह्या "अथ शम्या उपोद्य"
 [बौ.गृ.१४३७] इति बोधायनवचनात्, आचाराच्च ॥)  
+
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhanirUpaNam/02_08_pUrvavat_pariShechanamanvama.NsthAH.md">
 <details open><summary><h2>०२ ०८ पूर्ववत् परिषेचनमन्वमँस्थाः ...{Loading}...</h2></summary>
 

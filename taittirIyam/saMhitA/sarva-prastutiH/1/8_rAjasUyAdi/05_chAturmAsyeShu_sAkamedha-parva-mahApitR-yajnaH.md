@@ -83,6 +83,9 @@ _____________
 <details><summary>Keith</summary>
 
 Do ye Pitrs rejoice in your portions.
+___________
+Rejoice therein, O fathers, according to your shares.
+
 </details>
 <details><summary>मूलम्</summary>
 
@@ -94,18 +97,8 @@ Do ye Pitrs rejoice in your portions.
 </details>
 </details>
 </div>
-
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/02_susandRshan_tvA.md"  newLevelForH1="5" includeTitle="false">
-
-<details><summary>भास्करोक्त-विनियोगः</summary>
-
-3आहवनीयमुपतिष्ठते - सुसन्दृशमिति पञ्चपदया ऐन्द्रापङ्क्त्या ॥
-</details>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-सु॒स॒न्दृश॑न् त्वा व॒यम्  
-मघ॑वन् मन्दिषी॒महि॑  ॥
-</details>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/02_susandRshan_tvA.md">
+<details open><summary><h5>02 सुसन्दृशन् त्वा ...{Loading}...</h5></summary>
 <details><summary>मूलम्</summary>
 
 सु॒स॒न्दृश॑न् त्वा व॒यम्  
@@ -116,10 +109,15 @@ Do ye Pitrs rejoice in your portions.
 May we gladden thee,  
 O bountiful one, fair to see;
 </details>
+<details><summary>भट्टभास्कर-टीका</summary>
 
-</div>  
-
-
+इन्द्रात्मना स्तूयते । हे **मघवन्** इन्द्र **सुसन्दृशं** सुष्ट्वनुग्रहदृष्ट्या सर्वस्य द्रष्टारम् ।  
+यद्वा - शोभना सन्दृष्टिर्यस्य द्रष्टॄणां तादृशं **त्वां** वयं **मन्दिषीमहि** तर्पयामः ।  
+आमन्त्रितस्याविद्यमानवत्त्वान् निघाताभावः,  
+'लिङ्याशिषि' इत्यार्धधातुकत्वाल् लसार्वधातुकानुदात्तत्वाभावः ।
+</details>
+</details>
+</div>
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/03_pra_nUnam.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
@@ -184,16 +182,16 @@ Yoke, O Indra, thy two bay steeds [1].
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+############ Strata
 Normal on metrical evidence alone
 
-######## Pāda-label
+############ Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-######## Morph
+############ Morph
 ákṣan ← √ghas- (root)  
 {number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -342,7 +340,7 @@ yójā ← √yuj- (root)
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+########### English translation:
 
 “(Your worshippers) have eaten the food which you had given, and have rejoiced, and have trembled through their precious (bodies); self-illuminated sages have glorified you with commendable thoughts; therefore, **Indra**, quickly yoke your horses.”
 </details>

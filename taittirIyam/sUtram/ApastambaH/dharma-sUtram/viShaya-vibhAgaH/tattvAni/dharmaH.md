@@ -12,25 +12,29 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/20/01_nemaM_laukikamartham_puraskRtya.md">
 <details open><summary><h4>01 नेमं लौकिकमर्थम् पुरस्कृत्य ...{Loading}...</h4></summary>
 
-नेमं लौकिकमर्थं पुरस्कृत्य धर्मांश्चरेत् १
+नेमं लौकिकम्-अर्थं पुरस्कृत्य  
+धर्मांश् चरेत् १
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/20/02_niShphalA_hyabhyudaye_bhavanti.md">
 <details open><summary><h4>02 निष्फला ह्यभ्युदये भवन्ति ...{Loading}...</h4></summary>
 
-निष्फला ह्यभ्युदये भवन्ति २
+निष्फला ह्य् अभ्युदये भवन्ति २
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/20/03_tadyathAmre_phalArthe_nirmite.md">
 <details open><summary><h4>03 तद्यथाम्रे फलार्थे निर्मिते ...{Loading}...</h4></summary>
 
-तद्यथाम्रे फलार्थे निर्मिते छाया गन्ध इत्यनूत्पद्येते । एवं धर्मं चर्यमाणमर्था अनूत्पद्यन्ते ३
+तद् यथा ऽऽम्रे फलार्थे निर्मिते  
+छाया गन्ध इत्य् अनूत्पद्येते,  
+एवं धर्मं चर्यमाणम् अर्था अनूत्पद्यन्ते ३
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/20/04_no_chedanUtpadyante_na.md">
 <details open><summary><h4>04 नो चेदनूत्पद्यन्ते न ...{Loading}...</h4></summary>
 
-नो चेदनूत्पद्यन्ते न धर्महानिर् भवति ४
+नो चेद् अनूत्पद्यन्ते,  
+न धर्म-हानिर् भवति ४
 </details>
 </div>
   
@@ -45,25 +49,27 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/03_sarveShAmupanayanaprabhRti_samAna_AchAryakule.md">
 <details open><summary><h4>03 सर्वेषामुपनयनप्रभृति समान आचार्यकुले ...{Loading}...</h4></summary>
 
-सर्वेषामुपनयनप्रभृति समान आचार्यकुले वासः ३
+सर्वेषाम् उपनयन-प्रभृति समान आचार्य-कुले वासः ३
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/04_sarveShAmanUtsargo_vidyAyAH.md">
 <details open><summary><h4>04 सर्वेषामनूत्सर्गो विद्यायाः ...{Loading}...</h4></summary>
 
-सर्वेषामनूत्सर्गो विद्यायाः ४
+सर्वेषाम् अनूत्सर्गो विद्यायाः ४
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/05_buddhvA_karmANi_yatkAmayeta.md">
 <details open><summary><h4>05 बुद्ध्वा कर्माणि यत्कामयेत ...{Loading}...</h4></summary>
 
-बुद्ध्वा कर्माणि यत्कामयेत तदारभेत ५
+बुद्ध्वा कर्माणि यत् कामयेत तद् आरभेत ५
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/06_yathA_vidyArthasya_niyama.md">
 <details open><summary><h4>06 यथा विद्यार्थस्य नियम ...{Loading}...</h4></summary>
 
-यथा विद्यार्थस्य नियम एतेनैवान्तमनूपसीदत आचार्यकुले शरीरन्यासो ब्रह्मचारिणः ६
+यथा विद्यार्थस्य नियम,  
+एतेनैवान्तम् अनूपसीदत+++(ः= उपसदनतः)+++  
+आचार्य-कुले शरीर-न्यासो ब्रह्मचारिणः +++(नैष्ठिकस्य)+++६
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/24/07_athApi_prajApatervachanam.md">
@@ -90,13 +96,13 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/01_chatvAra_AshramA_gArhasthyamAchAryakulam.md">
 <details open><summary><h4>01 चत्वार आश्रमा गार्हस्थ्यमाचार्यकुलम् ...{Loading}...</h4></summary>
 
-चत्वार आश्रमा गार्हस्थ्यमाचार्यकुलं मौनं +++(=मुनिता/ सन्यासः)+++ वानप्रस्थ्यमिति १
+चत्वार आश्रमा गार्हस्थ्यम् आचार्यकुलं मौनं +++(=मुनिता/ सन्यासः)+++ वानप्रस्थ्यम् इति १
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/02_teShu_sarveShu_yathopadeshamavyagro.md">
 <details open><summary><h4>02 तेषु सर्वेषु यथोपदेशमव्यग्रो ...{Loading}...</h4></summary>
 
-तेषु सर्वेषु यथोपदेशमव्यग्रो वर्तमानः क्षेमं गच्छति २
+तेषु सर्वेषु यथोपदेशम् अव्यग्रो वर्तमानः क्षेमं गच्छति २
 </details>
 </div>
   
@@ -159,7 +165,8 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/20/11_Apadi_vyavahareta_paNyAnAmapaNyAni.md">
 <details open><summary><h4>11 आपदि व्यवहरेत पण्यानामपण्यानि ...{Loading}...</h4></summary>
 
-आपदि व्यवहरेत पण्यानामपण्यानि व्युदस्यन् +++(=वर्जयन्)+++ ११
+आपदि व्यवहरेत पण्यानाम्  
+अपण्यानि व्युदस्यन् +++(=वर्जयन् [वक्ष्यमाणानि] …)+++ ११
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/03_nAtyantamanvavasyet.md">

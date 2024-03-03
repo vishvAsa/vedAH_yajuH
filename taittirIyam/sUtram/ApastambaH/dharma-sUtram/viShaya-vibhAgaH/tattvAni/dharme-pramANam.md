@@ -61,25 +61,36 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/20/05_anasUyurduShpralambhaH_syAtkuhakashaThanAstikabAlavAdeShu.md">
 <details open><summary><h4>05 अनसूयुर्दुष्प्रलम्भः स्यात्कुहकशठनास्तिकबालवादेषु ...{Loading}...</h4></summary>
 
-अनसूयुर्दुष्प्रलम्भः स्यात्कुहक-शठ-नास्तिक-बालवादेषु ५
+अन्-असूयुर्, दुष्-प्रलम्भः स्यात्  
+कुहक-शठ-नास्तिक-बाल-वादेषु ५
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/20/06_na_dharmAdharmau_charata.md">
 <details open><summary><h4>06 न धर्माधर्मौ चरत ...{Loading}...</h4></summary>
 
-न धर्माधर्मौ चरत आवं स्व इति । न देवगन्धर्वा न पितर इत्याचक्षतेऽयं धर्मोऽयमधर्म इति ६
+न धर्माधर्मौ चरत  
+"आवं स्व" इति ।  
+न देव-गन्धर्वा, न पितर +++(पुर आगत्य)+++ इत्य् आचक्षते  
+"ऽयं धर्मो ऽयम् अधर्म" इति ६
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/20/07_yattvAryAH_kriyamANam_prashaMsanti.md">
 <details open><summary><h4>07 यत्त्वार्याः क्रियमाणम् प्रशंसन्ति ...{Loading}...</h4></summary>
 
-यत्त्वार्याः क्रियमाणं प्रशंसन्ति स धर्मो यद्गर्हन्ते सोऽधर्मः ७
+यत् त्व् आर्याः  
+क्रियमाणं प्रशंसन्ति  
+स धर्मो,  
+यद् गर्हन्ते  
+सोऽधर्मः ७
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/20/08_sarvajanapadeShvekAntasamAhitamAryANAmvRttaM_samyagvinItAnAM_vRddhAnAmAtmavatAmalolupAnAmadAmbhikAnAM.md">
-<details open><summary><h4>08 सर्वजनपदेष्वेकान्तसमाहितमार्याणाम्वृत्तं सम्यग्विनीतानां वृद्धानामात्मवतामलोलुपानामदाम्भिकानां ...{Loading}...</h4></summary>
+<details open><summary><h4>08 सर्व-जन-पदेष्व् एकान्त-समाहितम् ...{Loading}...</h4></summary>
 
-सर्वजनपदेष्वेकान्तसमाहितमार्याणाम्वृत्तं सम्यग्विनीतानां वृद्धानामात्मवतामलोलुपानामदाम्भिकानां वृत्तसादृश्यं भजेत ८
+सर्व-जन-पदेष्व् एकान्त-समाहितम्  
+आर्याणाम् वृत्तं  
+सम्यग् विनीतानां वृद्धानाम्  
+आत्मवताम्, अलोलुपानाम्, अदाम्भिकानां वृत्त-सादृश्यं भजेत ८
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/09_vipratiShedhe_shrutilaxaNam_balIyaH.md">
@@ -97,7 +108,7 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/20/17_yachchAnyatparichaxate.md">
 <details open><summary><h4>17 यच्चान्यत्परिचक्षते ...{Loading}...</h4></summary>
 
-यच्चान्यत्परिचक्षते १७
+यच् चान्यत् परिचक्षते १७
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/13/07_dRShTo_dharmavyatikramas_sAhasam.md">

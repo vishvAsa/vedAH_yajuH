@@ -234,6 +234,8 @@ _______
 विच्छि॑न्नय्ँ **य॒ज्ञꣳ सम्** इ॒मन् **द॑धातु** ।  
 या +++(अन्यैर्)+++ **इ॒ष्टा उ॒षसो॑**, +++(मया तु)+++  नि॒-म्रुच॑श्+++(←स्तेये)+++ च॒  
 तास् **सन्द॑धामि** ह॒विषा॑ घृ॒तेन॑  ॥
+
++++(मनसे ज्योतिषे इदं न मम॥)+++
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/27_mano_jyotir.md">

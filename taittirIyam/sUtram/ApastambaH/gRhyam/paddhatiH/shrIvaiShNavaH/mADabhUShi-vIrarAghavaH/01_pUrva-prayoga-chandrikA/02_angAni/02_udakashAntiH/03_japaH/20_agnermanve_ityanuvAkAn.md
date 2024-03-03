@@ -29,7 +29,7 @@ title = "२० ‘अग्नेर्मन्वे’ इत्यनुव
 </details>
 
 
-### अग्निः
+######## अग्निः
 
 
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/02_agner_manve.md">
@@ -84,7 +84,7 @@ title = "२० ‘अग्नेर्मन्वे’ इत्यनुव
 
 
 
-### इन्द्रः
+######## इन्द्रः
 
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/08_indrasya_manye.md">
 <details open><summary><h8>विश्वास-प्रस्तुतिः ...{Loading}...</h8></summary>
@@ -133,7 +133,7 @@ title = "२० ‘अग्नेर्मन्वे’ इत्यनुव
 
 
 
-### मित्रावरुणौ
+######## मित्रावरुणौ
 
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/14_manve_vAm.md">
 <details open><summary><h8>विश्वास-प्रस्तुतिः ...{Loading}...</h8></summary>
@@ -182,7 +182,7 @@ title = "२० ‘अग्नेर्मन्वे’ इत्यनुव
 
 
 
-### वायुः, सविता च
+######## वायुः, सविता च
 
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/20_vAyos_savitur.md">
 <details open><summary><h8>विश्वास-प्रस्तुतिः ...{Loading}...</h8></summary>
@@ -231,7 +231,7 @@ title = "२० ‘अग्नेर्मन्वे’ इत्यनुव
 
 
 
-### अश्विनौ
+######## अश्विनौ
 
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/26_rathItamau_rathInAm.md">
 <details open><summary><h8>विश्वास-प्रस्तुतिः ...{Loading}...</h8></summary>
@@ -280,7 +280,7 @@ title = "२० ‘अग्नेर्मन्वे’ इत्यनुव
 
 
 
-### मरुतः
+######## मरुतः
 
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/32_marutAM_manve.md">
 <details open><summary><h8>विश्वास-प्रस्तुतिः ...{Loading}...</h8></summary>
@@ -329,7 +329,7 @@ title = "२० ‘अग्नेर्मन्वे’ इत्यनुव
 
 
 
-### विश्वे देवाः
+######## विश्वे देवाः
 
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/38_devAnAM_manve.md">
 <details open><summary><h8>विश्वास-प्रस्तुतिः ...{Loading}...</h8></summary>
@@ -455,7 +455,7 @@ Agni through the hymn which brings (him).
 
 
 
-### अनुमतिः
+######## अनुमतिः
 
 
 
@@ -523,7 +523,7 @@ Lengthen our days for us.
 </details>
 </div>
 
-### वैश्वानरः
+######## वैश्वानरः
 
 
 
@@ -586,15 +586,15 @@ Agni through the hymn which brings (him).
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-########## Strata
+#################### Strata
 Cretic
 
-########## Pāda-label
+#################### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-########## Morph
+#################### Morph
 agníḥ ← agní- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -773,11 +773,11 @@ sá ← sá- ~ tá- (pronoun)
 </details>
 <details><summary>Wilson</summary>
 
-######### English translation:
+################### English translation:
 
 “**Agni**, who is present in the sky, and present upon earth, and who, present, has pervaded all herbs; may the Agni **Vaiśvānara**, who is present in vigour, guard us night and day, against our enemies”
 
-######### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 **Pṛṣṭa** = **saṃspṛṣṭa** = in contact with, or **nihita**, plural ced or present inth esky: Agni is in contact with, or present, in the sun; on earth, in sacred and domestic fire, and in herbs, or annuals, as the cause of their coming to maturity
 </details>
@@ -864,7 +864,7 @@ Begehrt im Himmel Agni und auf Erden, begehrt auch ging er ein in alle Pflanzen,
 </div>  
 
 
-### द्यावा-पृथि॒वी
+######## द्यावा-पृथि॒वी
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ द्यावापृथिवीभ्यामꣳहोमुग्भ्यां द्विकपाल इत्यस्य पुरोनुवाक्यामाह– ये अप्रथेतामिति।   
@@ -920,7 +920,7 @@ Begehrt im Himmel Agni und auf Erden, begehrt auch ging er ein in alle Pflanzen,
 
 
 
-### स्विष्टकृत्
+######## स्विष्टकृत्
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ स्विष्टकृतः पुरोनुवाक्यामाह– यत्ते वयमिति।   
@@ -1005,4 +1005,4 @@ Begehrt im Himmel Agni und auf Erden, begehrt auch ging er ein in alle Pflanzen,
 
 </details>
 </details>
-</div> 
+</div>

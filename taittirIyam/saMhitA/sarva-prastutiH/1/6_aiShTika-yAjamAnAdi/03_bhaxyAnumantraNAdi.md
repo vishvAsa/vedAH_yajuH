@@ -122,15 +122,38 @@ Touch the heads.
 
 **निमृढ्वम्** इति च एकवचनस्य स्थाने व्यत्ययेन बहुवचनम्, पूजार्थं वा वक्ष्यमाण-गो-भेदापेक्षम् । **उ** इति समुच्चयेवधारणार्थे वा ।
 </details>
-
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 इड॒ एह्यदि॑त॒ एहि॒ सर॑स्व॒त्येहि॒ रन्ति॑रसि॒ रम॑तिरसि सू॒नर्य॑सि 
 </details>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/03_bhaxyAnumantraNAdi/iDa_ehi.md">
+<details open><summary><h5>इड॒ एहि॑ ...{Loading}...</h5></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/03_bhaxyAnumantraNAdi/iDa_ehi.md" newLevelForH1="5" includeTitle="false"> </div>
+इड॒ एहि॑+++(=आ+इ॑हि)+++ ।  
+अदि॑त॒ एहि॑ ।  
+सर॑स्व॒त्य् एहि॑+++(=आ+इ॑हि)+++ ।
+</details>
+<details><summary>Keith</summary>
 
+O Ida, come hither; O Aditi, come hither; 
+O Sarasvati, come hither.
+</details>
+<details><summary>मूलम्</summary>
 
+इड॒ एहि॑ ।  
+अदि॑त॒  एहि॑ ।  
+सर॑स्व॒त्येहि॑ ।
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+**इडादयश्** शब्दा गवां नामानि, यथा - 'इडे रन्तेदिते सरस्वति प्रिये प्रेयसि महि विश्रुत्येतनि ते अघ्निये नामानि' इति । ताच्-छब्द्येनेडा स्तूयते । 
+
+तत्र गवां भेदान् **निमृढ्वम्** इति बहुवचनम् उपपद्यते, हे इडादयो यूयमागत्य मां निमृढ्वमिति ।  यदा तु गोभिर् अभेदेनेडोच्यते हे इडादिरूपे इड इति तदा त्वेकवचनम् एव न्याय्यम् । **इडा** पशुसाधनीड्या वा । **अदितिर्** अदीना अखण्डनीया ।  
+सरस्वती सरणवती सरस्वतीसदृशा वा ।
+</details>
+</details>
+</div>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रन्ति॑र् असि ।

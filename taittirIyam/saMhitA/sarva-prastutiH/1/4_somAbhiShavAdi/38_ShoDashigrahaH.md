@@ -38,15 +38,15 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+############ Strata
 Normal on metrical evidence alone
 
-######## Pāda-label
+############ Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-######## Morph
+############ Morph
 ā́ ← ā́ (invariable)  
 {}
 
@@ -189,7 +189,7 @@ vagnúnā ← vagnú- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+########### English translation:
 
 “Slayer of **Vṛtra**, ascend your chariot, for your horses have been yoked by prayer; may the stone (that bruises the **Soma**) attract, by its sound, your mind towards us.”
 </details>

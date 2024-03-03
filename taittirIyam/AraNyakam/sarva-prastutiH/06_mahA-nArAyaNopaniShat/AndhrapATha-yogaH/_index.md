@@ -1,4 +1,5 @@
 +++
-title = "+आन्द्रपाठयोगः"
+title = "+आन्ध्रपाठ-योगः"
 unicode_script = "devanagari"
+
 +++

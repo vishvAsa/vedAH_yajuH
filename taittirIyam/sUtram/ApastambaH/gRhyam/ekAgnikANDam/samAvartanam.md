@@ -50,7 +50,7 @@ ____________
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/karmANi/digvapanam/">
 <details open><summary><h5>दिग्वपनम् ...{Loading}...</h5></summary>
 
-###### कल्पः
+###### शिरस उन्दनम्
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/10_05_brAhmaNAn_bhojayitvAshiSho.md">
 <details open><summary><h7>१० ०५ ब्राह्मणान् भोजयित्वाशिषो ...{Loading}...</h7></summary>
 
@@ -65,7 +65,7 @@ ____________
 <details open><summary><h9>०१ उष्णेन वायवुदकेनेह्यदितिः ...{Loading}...</h9></summary>
 
 
-+++(उष्णा आपः शीतास्वानयति)+++ उ॒ष्णेन॑ वायवुद॒केनेह्य्, अदि॑तिः॒ केशान्॑ वपतु ।
++++(उष्णा आपः शीतास्वानयति)+++ उ॒ष्णेन॑ वायवुद॒केनेह्य्, अदि॑तिः॒ केशान्॑ **वपतु** ।
 
 </details>
 </div>
@@ -76,12 +76,18 @@ ____________
 <details open><summary><h9>०२ आप उन्दन्तु ...{Loading}...</h9></summary>
 
 
-+++(शिरस उन्दनम् = आर्द्रीकरणम्)+++ आप॑ उन्दन्तु जी॒वसे॑ दीर्घायु॒त्वाय॒ वर्च॑से । ज्योक् च॒ सूर्यं॑ दृ॒शे ।
++++(शिरस उन्दनम् = आर्द्रीकरणम्)+++ आप॑ **उन्दन्तु** जी॒वसे॑  
+दीर्घायु॒त्वाय॒ वर्च॑से ।  
+ज्योक् च॒ सूर्यं॑ दृ॒शे ।
 
 </details>
 </div>
 </details>
 </div>
+
++++(तत्राचार्यस्संसर्जनोन्दने कृत्वा क्षुरं नापितादपादाय प्रतिदिशं प्रवाप्य पुनस्तस्मै प्रदाय तं च वपन्तमुत्तरयानुमन्त्रयते । इति स्नातकसंस्कारे हरदत्तः। नाचार्यः - अन्योऽपि ब्राह्मण इति सुदर्शनसूरिः।)+++
+
+########## प्रवपनम्
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/10_06_trIMstrIn.md">
 <details open><summary><h7>१० ०६ त्रींस्त्रीन् ...{Loading}...</h7></summary>
 
@@ -93,51 +99,51 @@ ____________
 <details open><summary><h9>०३ येनावपत्सविता क्षुरेण ...{Loading}...</h9></summary>
 
 
-+++(प्राच्यान्दिशि)+++ येनाव॑पत् सवि॒ता क्षु॒रेण॒  
++++(प्राच्यान्दिशि)+++ **येनाव॑पत्** सवि॒ता क्षु॒रेण॒  
 सोम॑स्य॒ राज्ञो॒ वरु॑णस्य वि॒द्वान् ।  
-तेन॑ ब्रह्माणो वपते॒दम् अ॒स्या-  
-ऽऽयु॑ष्मा॒ञ् जर॑दष्टि॒र् यथाऽस॑द् अ॒यम् अ॒सौ +++(←अत्रोहः)+++।
+तेन॑ ब्रह्माणो! **वपते॒दम्** अ॒स्या-  
+ऽऽयु॑ष्मा॒ञ् जर॑दष्टि॒र् यथा **ऽस॑द्** अ॒यम्  
+अ॒सौ +++(←अत्रोहः)+++।
 
 </details>
 </div>
-
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_01/04_yena_pUShA.md">
 <details open><summary><h9>०४ येन पूषा ...{Loading}...</h9></summary>
 
 
 +++(दक्षिणतः)+++ येन॑ पू॒षा बृह॒स्पते॑र् अ॒ग्नेर्  
-इन्द्र॑स्य॒ चाऽऽयु॒षे ऽव॑पत् ।  
-तेना॒स्याऽऽयु॑षे वप॒  
+इन्द्र॑स्य॒ चाऽऽयु॒षे **ऽव॑पत्** ।  
+तेना॒स्याऽऽयु॑षे **वप॒**  
 सौश्लो॑क्याय स्व॒स्तये॑ ।
 
 </details>
 </div>
-
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_01/05_yena_bhUyashcharAtyayanjyokcha.md">
 <details open><summary><h9>०५ येन भूयश्चरात्ययञ्ज्योक्च ...{Loading}...</h9></summary>
 
 
-+++(पश्चात्)+++ येन॒ भूय॒श् चरा॑त्य् अ॒यञ्,  
-ज्योक् च॒ पश्या॑ति॒ सूर्य॑म् ।  
-तेना॒स्याऽऽयु॑षे वप॒  
++++(पश्चात्)+++ येन॒ भूय॒श् **चरा॑त्य्** अ॒यञ्,  
+ज्योक् च॒ **पश्या॑ति॒** सूर्य॑म् ।  
+तेना॒स्याऽऽयु॑षे **वप॒**  
 सौश्लो॑क्याय स्व॒स्तये॑ ।
 
 </details>
 </div>
-
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_01/06_yena_pUShA.md">
 <details open><summary><h9>०६ येन पूषा ...{Loading}...</h9></summary>
 
 
 +++(उत्तरे)+++ येन॑ पू॒षा बृह॒स्पते॑र् अ॒ग्नेर्  
-इन्द्र॑स्य॒ चाऽऽयु॒षे ऽव॑पत् ।  
-तेन॑ ते वपाम्य् असा॒व्+++(←अत्रोहः)+++  
-आयु॑षा॒ वर्च॑सा॒ यथा॒ ज्योक् सु॒मना॒ असाः॑ ।
+इन्द्र॑स्य॒ चाऽऽयु॒षे **ऽव॑पत्** ।  
+तेन॑ ते **वपाम्य्** असा॒व्+++(←अत्रोहः)+++  
+आयु॑षा॒ वर्च॑सा॒ यथा॒ ज्योक् सु॒मना॒ **असाः॑** ।
 
 </details>
 </div>
 </details>
 </div>
+
+########## क्षुर-शोधन-मन्त्रणम्
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/10_07_vapantamuttarayAnumantrayate.md">
 <details open><summary><h7>१० ०७ वपन्तमुत्तरयानुमन्त्रयते ...{Loading}...</h7></summary>
 
@@ -148,13 +154,15 @@ ____________
 
 
 +++(नापितम् अनुमन्त्रयति-)+++ यत् क्षु॒रेण॑ म॒र्चय॑ता +++(=तीक्ष्णेन)+++  
-सुपे॒शसा॒ वप्त्रा॒ वप॑सि॒ केशान्॑ ।  
-शुन्धि॒ शिरो॒ मास्यायुः॒ प्रमो॑षीः ।
+सुपे॒शसा॒ वप्त्रा॒ **वप॑सि॒** केशान्॑ ।  
+**शुन्धि॒** शिरो॒, मास्यायुः॒ **प्रमो॑षीः** ।
 
 </details>
 </div>
 </details>
 </div>
+
+########## केश-दर्भ-निक्षेपः
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/10_08_AnaDuhe_shakRtpiNDe.md">
 <details open><summary><h7>१० ०८ आनडुहे शकृत्पिण्डे ...{Loading}...</h7></summary>
 
@@ -164,17 +172,15 @@ ____________
 <details open><summary><h9>०८ उप्त्वाय केशान् ...{Loading}...</h9></summary>
 
 
-उ॒प्त्वास्य॒ केशा॒न्॒ वरु॑णस्य॒ राज्ञो॒,  
+**उ॒प्त्वास्य॒** केशा॒न्॒ वरु॑णस्य॒ राज्ञो॒,  
 बृह॒स्पति॑स् सवि॒ता सोमो॑ अ॒ग्निः ।  
-तेभ्यो॑ +++(=केशेभ्यः)+++ नि॒धानं॑ बहु॒धा ऽन्व॑विन्दन्न्  
+तेभ्यो॑ +++(=केशेभ्यः)+++ नि॒धानं॑ बहु॒धा **ऽन्व॑विन्दन्न्**  
 अन्त॒रा द्यावा॑पृथि॒वी अ॒पस् सुवः॑ ॥  
 
 </details>
 </div>
 </details>
 </div>
-
-+++(तत्राचार्यस्संसर्जनोन्दने कृत्वा क्षुरं नापितादपादाय प्रतिदिशं प्रवाप्य पुनस्तस्मै प्रदाय तं च वपन्तमुत्तरयानुमन्त्रयते । इति स्नातकसंस्कारे हरदत्तः। नाचार्यः - अन्योऽपि ब्राह्मण इति सुदर्शनसूरिः।)+++
 </details>
 </div>
 </details>
@@ -259,8 +265,11 @@ ____________
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/033_ApaH/02_yAsAM_rAjA.md">
 <details open><summary><h4>०२ यासां राजा ...{Loading}...</h4></summary>
 
-यासां॒ राजा॒ वरु॑णो॒ याति॒ मध्ये॑ सत्यानृ॒ते अ॑व॒पश्य॒ञ्जना॑नाम्।  
-या अ॒ग्निं गर्भं॑ दधि॒रे सु॒वर्णा॒स्ता न॒ आपः॒ शं स्यो॒ना भ॑वन्तु ॥
+यासा॒ꣳ॒ राजा॒ वरु॑णो॒ **याति॒** मद्ध्ये॑  
+सत्यानृ॒ते **अ॑व॒पश्य॒ञ्** जना॑नाम् ।  
+या अ॒ग्निं गर्भं॑ **दधि॒रे** सु॒वर्णा॒स्  
+तास् त॒ आप॒श् श२ꣳ स्यो॒ना **भ॑वन्तु** ।+++(५)+++ 
+
 </details>
 </div>
 </details>
@@ -353,14 +362,14 @@ __________________
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/03-04_revatIstvA_vyaxNankRttikAshchAkRnta2m.md">
 <details open><summary><h4>०३-०४ रेवतीस्त्वा व्यक्ष्णन्कृत्तिकाश्चाकृन्त२म् ...{Loading}...</h4></summary>
 
-+++(नक्षत्रेषु)+++ रे॒वती॑स् त्वा॒ व्य॑क्ष्ण॒न्+++(=व्यध्वंसयन् [मेषादिभ्यः])+++  
-कृत्ति॑का॒श् चाकृ॑न्त२ꣳस् त्वा ।  
-धियो॑ ऽवय॒न्न् अव॒ ग्न+++(=देवता)+++ आ॑वृञ्जन्त्  
-स॒हस्र॒म् अन्ताꣳ॑+++(=दशासूत्राणि)+++ अ॒भितो॑ अयच्छन्न् ।  
++++(नक्षत्रेषु)+++ रे॒वती॑स् त्वा॒ **व्य॑क्ष्ण॒न्**+++(=व्यध्वंसयन् [मेषादिभ्यः])+++  
+कृत्ति॑का॒श् **चाकृ॑न्त२ꣳस्** त्वा ।  
+धियो॑ **ऽवय॒न्न्**, अव॒ ग्न+++(=देवता)+++ **आ॑वृञ्जन्त्**  
+स॒हस्र॒म् अन्ताꣳ॑+++(=दशासूत्राणि)+++ अ॒भितो॑ **अयच्छन्न्** ।  
 
 
 दे॒वीर् दे॒वाय॑ +++(वस्त्र)+++परि॒धी+++(धौ)+++ स॑वि॒त्रे ।  
-म॒हत् तद् आ॑साम् अभवन् महित्व॒नम्+++(=महत्वम्)+++ ।+++(र४)+++  
+म॒हत् तद् आ॑साम् **अभवन्** महित्व॒नम्+++(=महत्वम्)+++ ।+++(र४)+++  
 
 </details>
 </div>

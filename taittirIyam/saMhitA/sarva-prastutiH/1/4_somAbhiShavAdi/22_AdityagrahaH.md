@@ -39,15 +39,15 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+############ Strata
 Strophic
 
-######## Pāda-label
+############ Pāda-label
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
-######## Morph
+############ Morph
 asi ← √as- 1 (root)  
 {number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
 
@@ -225,7 +225,7 @@ ___________
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+########### English translation:
 
 “Never are you niggardly,  
 **Indra**, and give not to the worshipper;  
@@ -360,15 +360,15 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+############ Strata
 Strophic
 
-######## Pāda-label
+############ Pāda-label
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
-######## Morph
+############ Morph
 asi ← √as- 1 (root)  
 {number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
 
@@ -546,7 +546,7 @@ ___________
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+########### English translation:
 
 “Never are you niggardly,  
 **Indra**, and give not to the worshipper;  
@@ -682,15 +682,15 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+############ Strata
 Cretic
 
-######## Pāda-label
+############ Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-######## Morph
+############ Morph
 devā́nām ← devá- (nominal stem)  
 {case:GEN, gender:M, number:PL}
 
@@ -884,7 +884,7 @@ yā́ ← yá- (pronoun)
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+########### English translation:
 
 “May our sacrifice give satisfaction to the gods; **Ādityas**, be gracious, and may your good intentions be directed towards us, so as to be abundant source of affliction to the poor.”
 </details>

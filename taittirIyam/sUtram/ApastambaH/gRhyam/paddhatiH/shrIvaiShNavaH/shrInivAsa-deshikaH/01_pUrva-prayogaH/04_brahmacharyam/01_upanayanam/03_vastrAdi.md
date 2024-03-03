@@ -25,8 +25,8 @@ title = "०३ वस्त्रादि"
 आज्य-भागान्ते,  
 उपनेता आज्याभ्यक्तां पालाशीं समिधम् आदाय 
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/01_AyurdA_deva.md">
-<details open><summary><h4>०१ आयुर्दा देव ...{Loading}...</h4></summary>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/01_AyurdA_deva.md">
+<details open><summary><h2>०१ आयुर्दा देव ...{Loading}...</h2></summary>
 
 
 आ॒यु॒र्दा दे॑व ज॒रसं॑ गृणा॒नो  
@@ -56,8 +56,8 @@ title = "०३ वस्त्रादि"
 (सू - उत्तरेणाग्निं  
 दक्षिणेन पदा ऽश्मानम् आस्थापयति, आतिष्ठेति ।) 
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/01_AtiShThemamashmAnamashmeva_tva2m.md">
-<details open><summary><h6>०१ आतिष्ठेममश्मानमश्मेव त्व२म् ...{Loading}...</h6></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/01_AtiShThemamashmAnamashmeva_tva2m.md">
+<details open><summary><h2>०१ आतिष्ठेममश्मानमश्मेव त्व२म् ...{Loading}...</h2></summary>
 
 आति॑ष्ठे॒मम् अश्मा॑न॒म्  
 अश्मे॑व॒ त्व२ꣳ स्थि॒रा+++(रो पुंसि)+++ भ॑व ।  
@@ -91,17 +91,17 @@ title = "०३ वस्त्रादि"
 
 दीक्षा-वस्त्रम् आदाय, 
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/03-04_revatIstvA_vyaxNankRttikAshchAkRnta2m.md">
-<details open><summary><h4>०३-०४ रेवतीस्त्वा व्यक्ष्णन्कृत्तिकाश्चाकृन्त२म् ...{Loading}...</h4></summary>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/03-04_revatIstvA_vyaxNankRttikAshchAkRnta2m.md">
+<details open><summary><h2>०३-०४ रेवतीस्त्वा व्यक्ष्णन्कृत्तिकाश्चाकृन्त२म् ...{Loading}...</h2></summary>
 
-+++(नक्षत्रेषु)+++ रे॒वती॑स् त्वा॒ व्य॑क्ष्ण॒न्+++(=व्यध्वंसयन् [मेषादिभ्यः])+++  
-कृत्ति॑का॒श् चाकृ॑न्त२ꣳस् त्वा ।  
-धियो॑ ऽवय॒न्न् अव॒ ग्न+++(=देवता)+++ आ॑वृञ्जन्त्  
-स॒हस्र॒म् अन्ताꣳ॑+++(=दशासूत्राणि)+++ अ॒भितो॑ अयच्छन्न् ।  
++++(नक्षत्रेषु)+++ रे॒वती॑स् त्वा॒ **व्य॑क्ष्ण॒न्**+++(=व्यध्वंसयन् [मेषादिभ्यः])+++  
+कृत्ति॑का॒श् **चाकृ॑न्त२ꣳस्** त्वा ।  
+धियो॑ **ऽवय॒न्न्**, अव॒ ग्न+++(=देवता)+++ **आ॑वृञ्जन्त्**  
+स॒हस्र॒म् अन्ताꣳ॑+++(=दशासूत्राणि)+++ अ॒भितो॑ **अयच्छन्न्** ।  
 
 
 दे॒वीर् दे॒वाय॑ +++(वस्त्र)+++परि॒धी+++(धौ)+++ स॑वि॒त्रे ।  
-म॒हत् तद् आ॑साम् अभवन् महित्व॒नम्+++(=महत्वम्)+++ ।+++(र४)+++  
+म॒हत् तद् आ॑साम् **अभवन्** महित्व॒नम्+++(=महत्वम्)+++ ।+++(र४)+++  
 
 </details>
 </div>  
@@ -119,37 +119,36 @@ title = "०३ वस्त्रादि"
 
 [[73]]
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/05_yA_akRntannavayan.md">
-<details open><summary><h4>०५ या अकृन्तन्नवयन् ...{Loading}...</h4></summary>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/05_yA_akRntannavayan.md">
+<details open><summary><h2>०५ या अकृन्तन्नवयन् ...{Loading}...</h2></summary>
 
 
-या अकृ॑न्त॒न्न् अव॑य॒न्॒ या अत॑न्वत॒  
-याश् च॑ दे॒वीर् +++(वस्त्रस्य)+++ अन्ता॑न् अ॒भितो॑ ऽददन्त+++(←दद् दाने)+++ ।  
-तास् त्वा॑ दे॒वीर् ज॒रसे॒ संव्य॑य॒न्त्व्  
-आयु॑ष्मान् इ॒दं परि॑धत्स्व॒ वासः॑ ।  
-
-</details>
-</div>
-
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/06_paridhatta_dhatta.md">
-<details open><summary><h4>०६ परिधत्त धत्त ...{Loading}...</h4></summary>
-
-
-परि॑धत्त धत्त॒ वास॑सैनꣳ  
-श॒तायु॑षं कृणुत दी॒र्घम् आयुः॑ ।  
-बृह॒स्पतिः॒ प्राय॑च्छ॒द् वास॑ ए॒तत्  
-सोमा॑य॒ राज्ञे॒ परि॑धात॒वा उ॑ ।  
+या **अकृ॑न्त॒न्न् अव॑य॒न्॒** या **अत॑न्वत॒**  
+याश् च॑ दे॒वीर् +++(वस्त्रस्य)+++ अन्ता॑न् अ॒भितो॑ **ऽददन्त**+++(←दद् दाने)+++ ।  
+तास् त्वा॑ दे॒वीर् ज॒रसे॒ **संव्य॑य॒न्त्व्**  
+आयु॑ष्मान् इ॒दं **परि॑धत्स्व॒** वासः॑ ।  
 
 </details>
 </div>
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/07_jarA~N_gachChAsi.md">
-<details open><summary><h4>०७ जराङ् गच्छासि ...{Loading}...</h4></summary>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/06_paridhatta_dhatta.md">
+<details open><summary><h2>०६ परिधत्त धत्त ...{Loading}...</h2></summary>
 
 
-ज॒रां ग॑च्छासि॒ परि॑धत्स्व॒ वासो॒  
-भवा॑ कृष्टी॒नाम्+++(=मनुष्याणां)+++ अ॑भिशस्ति॒-पावा॑+++(ता)+++ ।  
-श॒तञ् च॑ जीव श॒रद॑स् सु॒वर्चा॑  
-रा॒यश् च॒ पोष॒म् उप॒ संव्य॑यस्व +++(वासो यथा रायस्पोषं भवति तथा)+++।  
+**परि॑धत्त धत्त॒** वास॑सैनꣳ  
+श॒तायु॑षं **कृणुत** दी॒र्घम् आयुः॑ ।  
+बृह॒स्पतिः॒ **प्राय॑च्छ॒द्** वास॑ ए॒तत्  
+सोमा॑य॒ राज्ञे॒ **परि॑धात॒वा** उ॑ ।  
+
+</details>
+</div>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/07_jarA~N_gachChAsi.md">
+<details open><summary><h2>०७ जराङ् गच्छासि ...{Loading}...</h2></summary>
+
+
+ज॒रां **ग॑च्छासि॒, परि॑धत्स्व॒** वासो॒  
+**भवा॑** कृष्टी॒नाम्+++(=मनुष्याणां)+++ अ॑भिशस्ति॒-पावा॑+++(ता)+++ ।  
+श॒तञ् च॑ **जीव** श॒रद॑स् सु॒वर्चा॑  
+रा॒यश् च॒ पोष॒म् उप॒ **संव्य॑यस्व** +++(वासो यथा रायस्पोषं भवति तथा)+++।  
 
 </details>
 </div>
@@ -158,14 +157,14 @@ title = "०३ वस्त्रादि"
 
 (सू परिहितम् उत्तरया **ऽनुमन्त्रयते**)
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/08_parIdaM_vAso.md">
-<details open><summary><h4>०८ परीदं वासो ...{Loading}...</h4></summary>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/08_parIdaM_vAso.md">
+<details open><summary><h2>०८ परीदं वासो ...{Loading}...</h2></summary>
 
 
-परी॒दं वासो॒ अधि॑+++(+अ)+++धास् स्व॒स्तये  
-ऽभू॑र् आपी॒नाम्+++(=आप्तानां)+++ अ॑भिशस्ति॒-पावा॑+++(ता!)+++ ।  
-श॒तञ् च॑ जीव श॒रदः॑ पुरू॒चीर्+++(=बहुगतीः)+++  
-वसू॑नि चा॒र्यो वि॑भजासि॒ जीवन्न्॑ ।  
+परी॒दं वासो॒ **अधि॑+++(+अ)+++धास्** स्व॒स्तये  
+**ऽभू॑र्** आपी॒नाम्+++(=आप्तानां)+++ अ॑भिशस्ति॒-पावा॑+++(ता!)+++ ।  
+श॒तञ् च॑ **जीव** श॒रदः॑ पुरू॒चीर्+++(=बहुगतीः)+++  
+वसू॑नि चा॒र्यो **वि॑भजासि॒ जीवन्न्॑** ।  
 
 </details>
 </div>
@@ -175,25 +174,26 @@ title = "०३ वस्त्रादि"
 ## मेखला
 (सू - मौञ्जीं मेखलां तृवृतां त्रिः प्रदक्षिणं परिवीय) 
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/09_iyan_duruktAtparibAdhamAnA.md">
-<details open><summary><h4>०९ इयन् दुरुक्तात्परिबाधमाना ...{Loading}...</h4></summary>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/09_iyan_duruktAtparibAdhamAnA.md">
+<details open><summary><h2>०९ इयन् दुरुक्तात्परिबाधमाना ...{Loading}...</h2></summary>
 
 
-इ॒यं दुरु॑क्तात् परि॒बाध॑माना॒  
-शर्म॒ वरू॑थं+++(=वरणीयं)+++ पुन॒ती न॒ आगा॑त् ।  
-प्रा॒णा॒पा॒नाभ्यां॒ बल॑म् आ॒भर॑न्ती  
+इ॒यं दुरु॑क्तात् **परि॒बाध॑माना॒**  
+शर्म॒ वरू॑थं+++(=वरणीयं)+++ **पुन॒ती** न॒ **आगा॑त्** ।  
+प्रा॒णा॒पा॒नाभ्यां॒ बल॑म् **आ॒भर॑न्ती**  
 प्रि॒या दे॒वानाꣳ॑ सु॒भगा॒ मेख॑ले॒यम् ।  
 
 </details>
 </div>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/10_Rtasya_goptrI.md">
+<details open><summary><h2>१० ऋतस्य गोप्त्री ...{Loading}...</h2></summary>
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/10_Rtasya_goptrI.md">
-<details open><summary><h4>१० ऋतस्य गोप्त्री ...{Loading}...</h4></summary>
-
-ऋ॒तस्य॑ गो॒प्त्री तप॑सः पर॒स्+++(=प्र)+++पी+++(=पात्री)+++  
-घ्न॒ती रक्ष॒स् सह॑माना॒ अरा॑तीः ।  
-सा न॑स् सम॒न्तम् अनु॒ परी॑हि भ॒द्रया॑  
+ऋ॒तस्य॑ **गो॒प्त्री**, तप॑सः **पर॒स्+++(=प्र)+++पी**+++(=पात्री)+++  
+घ्न॒ती रक्ष॒स् **सह॑माना॒** अरा॑तीः ।  
+सा न॑स् सम॒न्तम् अनु॒ **परी॑हि** भ॒द्रया॑  
 भ॒र्तार॑स्+++(=बिभ्राणाः)+++ ते मेखले॒ मा रि॑षाम ।
+
+
 
 </details>
 </div>  
@@ -223,14 +223,14 @@ title = "०३ वस्त्रादि"
 ## अजिनम्
 (सू - अजिनम् उत्तरमुत्तरया) 
 
-<div class="js_include bg-light-yellow" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/11_mitrasya_chaxurdharuNam.md">
-<details open><summary><h4>११ मित्रस्य चक्षुर्धरुणम् ...{Loading}...</h4></summary>
+<div class="js_include bg-light-yellow" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/11_mitrasya_chaxurdharuNam.md">
+<details open><summary><h2>११ मित्रस्य चक्षुर्धरुणम् ...{Loading}...</h2></summary>
 
 
-मि॒त्रस्य॒ चक्षु॒र् धरु॑णं॒ बली॑य॒स्  
+मि॒त्रस्य॒ चक्षु॒र्, धरु॑णं॒ बली॑य॒स्  
 तेजो॑ यश॒स्वि स्थवि॑र॒ꣳ॒ समि॑द्धम् ।  
 अ॒ना॒ह॒न॒स्यं+++(=अधूर्तयोग्यं)+++ वस॑नञ् जरि॒ष्णु  
-परी॒दं वा॒ज्य्+++(=अन्नवत्)+++ अजिन॑न् दधे॒ ऽहम् ॥ (२)
+परी॒दं वा॒ज्य्+++(=अन्नवत्)+++ अजिन॑न् **दधे॒** ऽहम् ॥ (२)
 
 </details>
 </div>

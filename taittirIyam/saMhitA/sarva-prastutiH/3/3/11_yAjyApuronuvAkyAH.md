@@ -49,14 +49,14 @@ title = "११ याज्यापुरोनुवाक्याः"
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######### Strata
+############## Strata
 Normal
 
-######### Pāda-label
+############## Pāda-label
 genre M  
 genre M  
 genre M;; repeated line
-######### Morph
+############## Morph
 āsyè ← āsyà- (nominal stem)  
 {case:LOC, gender:N, number:SG}
 
@@ -150,7 +150,7 @@ ukthám ← ukthá- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-######## English translation:
+############# English translation:
 
 “(I present) the agreeable oblation to your mouths, **Indra** and **Bṛhaspati**, and the hymn and the exhilarating beverage are offered.”
 </details>
@@ -260,14 +260,14 @@ Hier steht der liebe Opfertrank vor euch, Indra-Brihaspati, Verkündet wird euch
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######### Strata
+############## Strata
 Normal
 
-######### Pāda-label
+############## Pāda-label
 genre M  
 genre M  
 genre M
-######### Morph
+############## Morph
 ayám ← ayám (pronoun)  
 {case:NOM, gender:M, number:SG}
 
@@ -352,7 +352,7 @@ pītáye ← pītí- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-######## English translation:
+############# English translation:
 
 “This delicious **Soma** is effused, **Indra** and **Bṛhaspati**, for you, (your) drinking and exhilaration.”
 </details>
@@ -457,14 +457,14 @@ Euch wird, Indra-Brihaspati, ergossen dieser Somasaft, Der schön zum Trunk und 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######### Strata
+############## Strata
 Normal
 
-######### Pāda-label
+############## Pāda-label
 genre M  
 genre M  
 genre M
-######### Morph
+############## Morph
 asmé ← ahám (pronoun)  
 {case:DAT, number:PL}
 
@@ -533,7 +533,7 @@ sahasríṇam ← sahasrín- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-######## English translation:
+############# English translation:
 
 “Grant to us, **Indra** and **Bṛhaspati** riches comprising a hundred (cattle), a thousand horses.”
 </details>
@@ -641,15 +641,15 @@ O gebt, Indra-Brihaspati, den Reichthum uns, der hundertfach, An Rossen reich is
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######### Strata
+############## Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-######### Pāda-label
+############## Pāda-label
 popular  
 popular  
 popular  
 popular
-######### Morph
+############## Morph
 bŕ̥haspátiḥ ← bŕ̥haspáti- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -806,7 +806,7 @@ várivaḥ ← várivas- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-######## English translation:
+############# English translation:
 
 “May **Bṛhaspati** defend us from a malignant (foe) coming from behind, from above, or from below; mayIndra defend us from foes in front and in the middle; may he, our friend, bestow wealth upon (us) his friends.”
 </details>
@@ -901,15 +901,15 @@ Brihaspati beschütze uns von Westen von Norden und von Süden vor dem Frevler, 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######### Strata
+############## Strata
 Cretic
 
-######### Pāda-label
+############## Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-######### Morph
+############## Morph
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -1062,7 +1062,7 @@ vananti ← √vanⁱ- (root)
 </details>
 <details><summary>Wilson</summary>
 
-######## English translation:
+############# English translation:
 
 “Pure **Agni**, your bright flames, fanned by the wind, spread wide in every diection, consuming abundant (fuel); divine, fresh-rising, they plural y upon the woods, enveloping them in lustre.”
 </details>
@@ -1507,15 +1507,15 @@ The goddess, easy to invoke, grant us protection [4].
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######### Strata
+############## Strata
 Popular for non-linguistic reasons
 
-######### Pāda-label
+############## Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
-######### Morph
+############## Morph
 ahám ← ahám (pronoun)  
 {case:NOM, number:SG}
 
@@ -1678,11 +1678,11 @@ vīrám ← vīrá- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-######## English translation:
+############# English translation:
 
 “I invoke, with suitable praise, **Rākā**, who is worthily invoked; may she, who is auspicious of good fortune, hear us, and spontaneously understand (our purpose); may she sew her work with an infallible needle; may she grant us excellent and opulent descendants.”
 
-######## Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+############# Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 May she sew her work: sīvyatu **apaḥ** sūcyācchidyamānayā = may she sew the work with a needle that is not capable of being cut or broken; with one, of which the stitches will endure, in like manner as clothes and th elike wrought with a needle last a long time
 </details>
@@ -1795,15 +1795,15 @@ Die gern erhört, die Rākā ruf' ich mit Gesang, es höre uns die reiche und be
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######### Strata
+############## Strata
 Popular for non-linguistic reasons
 
-######### Pāda-label
+############## Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
-######### Morph
+############## Morph
 rāke ← rākā́- (nominal stem)  
 {case:VOC, gender:F, number:SG}
 
@@ -1952,7 +1952,7 @@ subhage ← subhága- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-######## English translation:
+############# English translation:
 
 “**Rākā**, with those your kind and gracious intentions, wherewith you grant riches to the donor (of oblations), approach us today; you who are auspicious of good fortune, favourably inclined, and bestowing a thousand blessings.”
 </details>
@@ -2066,15 +2066,15 @@ Mit reichen Gaben, die dir, Rākā, eigen sind, durch die du Güter dem Verehren
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######### Strata
+############## Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-######### Pāda-label
+############## Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
-######### Morph
+############## Morph
 pŕ̥thuṣṭuke ← pr̥thuṣṭuka- (nominal stem)  
 {case:VOC, gender:F, number:SG}
 
@@ -2188,11 +2188,11 @@ prajā́m ← prajā́- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-######## English translation:
+############# English translation:
 
 “Wide-hipped **Sinivālī**, who are the sister of the gods, accept the offered oblation, and grant us, goddess, progeny.”
 
-######## Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+############# Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 **Yajus**. 34.10; **Sinīvālī** is the moon on the first day on which it is visible; she is devānām **svasā**, either the sister of the gods, or one who is independent of them;
 

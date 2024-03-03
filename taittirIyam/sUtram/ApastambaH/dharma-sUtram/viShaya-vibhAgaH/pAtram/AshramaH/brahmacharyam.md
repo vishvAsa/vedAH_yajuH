@@ -89,7 +89,10 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/38_pAlAsho_daNDo_brAhmaNasya.md">
 <details open><summary><h4>38 पालाशो दण्डो ब्राह्मणस्य, ...{Loading}...</h4></summary>
 
-- पालाशो दण्डो ब्राह्मणस्य, नैय्यग्रोध-स्कन्धजो ऽवाङ्ग्रो राजन्यस्य, बादर औदुम्बरो वा वैश्यस्य। वार्क्षो दण्ड इत्य् अवर्ण-संयोगेनैक उपदिशन्ति ३८
+पालाशो दण्डो ब्राह्मणस्य,  
+नैय्यग्रोध-स्कन्धजो ऽवाङ्ग्रो राजन्यस्य,  
+बादर औदुम्बरो वा वैश्यस्य।  
++++(यज्ञियो)+++ वार्क्षो दण्ड इत्य् अवर्ण-संयोगेनैक उपदिशन्ति ३८
 </details>
 </div>
   
@@ -104,7 +107,7 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/40_shANIxaumA-jinAni.md">
 <details open><summary><h4>40 शाणीक्षौमाऽजिनानि ...{Loading}...</h4></summary>
 
-शाणी+++(=hemp)+++-क्षौमा+++(=linen/ flax)+++ऽजिनानि ४०
+शाणी+++(=hemp)+++-क्षौमा+++(=linen/ flax)+++ऽजिनानि  +++(ब्राह्मण-क्षत्रिय-वैश्यानाम्)+++४०
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/41_kaShAya~n_chaike_vastram.md">

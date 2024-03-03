@@ -54,7 +54,11 @@ title = "१६ चौलम्"
 <div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/16_chaulam/16_04_brAhmaNAnAm_bhojanam.md">
 <details open><summary><h3>१६ ०४ ब्राह्मणानाम् भोजनम् ...{Loading}...</h3></summary>
 
-ब्राह्मणानां भोजनम् +++(इत्यादिकम्)+++ उपायनवत्॥ +++(ब्राह्मण-भोजनादीति ब्राह्मणान् भोजयित्वा ऽशिषो वाचयित्वा कुमारं भोजयित्वेत्य् एतावद् इह द्रष्टव्यम् ।)+++
+ब्राह्मणानां भोजनम् +++(इत्यादिकम्)+++ उपायनवत्॥  
++++(ब्राह्मणान् भोजयित्वा  
+ऽशिषो वाचयित्वा  
+कुमारं भोजयित्वेत्य् एतावद् इह द्रष्टव्यम् ।)+++
+
 
 </details>
 </div>

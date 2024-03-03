@@ -118,18 +118,18 @@ title = "०२ प्रातःस्मरणम्"
 
 
 अ॒द्या नो॑ देव सवितः  
-प्र॒जाव॑त्सावीः॒ सौभ॑गम् ।  
-परा॑ दु॒ष्ष्वप्न्यं॑ सुव ॥
+प्र॒जाव॑त् **सावीः॒** सौभ॑गम् ।  
+परा॑ दु॒ष्-ष्वप्न्यं॑ **सुव** ॥
 
 </details>
 </div>
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/082/05_vishvAni_deva.md"  newLevelForH1="5" includeTitle="false"> 
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/082/05_vishvAni_deva.md">
 <details open><summary><h5>०५ विश्वानि देव ...{Loading}...</h5></summary>
 
 
 विश्वा॑नि देव सवितर्  
-दुरि॒तानि॒ परा॑ सुव ।  
-यद् भ॒द्रं तन् न॒ आ सु॑व ॥
+दुरि॒तानि॒ **परा॑ सुव** ।  
+यद् भ॒द्रं तन् न॒ **आ सु॑व** ॥
 
 </details>
 </div>  

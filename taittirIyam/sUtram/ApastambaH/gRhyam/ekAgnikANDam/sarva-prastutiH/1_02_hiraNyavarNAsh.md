@@ -1,3 +1,4 @@
++++
 title = "०६ हिरण्यवर्णाश् शुचयः"
 unicode_script = "devanagari"
 
@@ -30,12 +31,12 @@ unicode_script = "devanagari"
 <details open><summary><h5>०१ हिरण्यवर्णाः शुचयः ...{Loading}...</h5></summary>
 <details><summary>Whitney</summary>
 
-####### Translation
+########### Translation
 1. Of golden color, clean (*śúci*), purifying, in whom \[was\] born  
 Savitar, in whom Agni; who, of beauteous color, assumed Agni as  
 embryo—let those waters be weal, pleasant to us.
 
-####### Notes
+########### Notes
 ⌊in c, for *dadhiré,* better, 'conceived'?⌋ TS. and MS. read in **b**  
 *jātáḥ kaśyápo yā́sv índraḥ;* and Ppp. agrees with them; MP. has *agníḥ*  
 instead of *índraḥ*. In **c** TS. MS. give *vírūpās* for *suvarṇās;* and  
@@ -114,8 +115,11 @@ May they, the golden-hued, the bright, the splendid, they wherein Savitar was bo
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/033_ApaH/02_yAsAM_rAjA.md">
 <details open><summary><h4>०२ यासां राजा ...{Loading}...</h4></summary>
 
-यासां॒ राजा॒ वरु॑णो॒ याति॒ मध्ये॑ सत्यानृ॒ते अ॑व॒पश्य॒ञ्जना॑नाम्।  
-या अ॒ग्निं गर्भं॑ दधि॒रे सु॒वर्णा॒स्ता न॒ आपः॒ शं स्यो॒ना भ॑वन्तु ॥
+यासा॒ꣳ॒ राजा॒ वरु॑णो॒ **याति॒** मद्ध्ये॑  
+सत्यानृ॒ते **अ॑व॒पश्य॒ञ्** जना॑नाम् ।  
+या अ॒ग्निं गर्भं॑ **दधि॒रे** सु॒वर्णा॒स्  
+तास् त॒ आप॒श् श२ꣳ स्यो॒ना **भ॑वन्तु** ।+++(५)+++ 
+
 </details>
 </div>
 </details>
@@ -131,11 +135,11 @@ May they, the golden-hued, the bright, the splendid, they wherein Savitar was bo
 <details open><summary><h5>०२ यासां राजा ...{Loading}...</h5></summary>
 <details><summary>Whitney</summary>
 
-####### Translation
+########### Translation
 2. In the midst of whom goes king Varuṇa, looking down at the  
 truth-and-falsehood of men; who, of beauteous color, etc. etc.
 
-####### Notes
+########### Notes
 The first half-verse is found also in RV. (vii. 49. 3 **a, b**), without  
 difference of reading; MP. agrees through the whole verse ⌊except in  
 **d**, *te* for *nas*⌋; TS. MS. have a wholly different *c*. The comment  
@@ -205,12 +209,12 @@ They in the midst whereof King Varuna moveth, viewing men's righteous and unrigh
 <details open><summary><h5>०३ यासां देवा ...{Loading}...</h5></summary>
 <details><summary>Whitney</summary>
 
-####### Translation
+########### Translation
  3. They of whom the gods in heaven make \[their\] draught (*bhakṣá*);  
 they that come to be abundantly in the atmosphere; who, of beauteous  
 color, etc. etc.
 
-####### Notes
+########### Notes
 Again TS. MS. have a different **c** (*yā́ḥ pṛthivī́m páyaso 'ndáanti  
 śukrā́ḥ*). Our O. has at end of **c** *vírupāḥ* (as TS. MS. in 1 **c**).  
 MP. substitutes *níviṣṭās* for *bhavantī* in **b**. The comm. renders  

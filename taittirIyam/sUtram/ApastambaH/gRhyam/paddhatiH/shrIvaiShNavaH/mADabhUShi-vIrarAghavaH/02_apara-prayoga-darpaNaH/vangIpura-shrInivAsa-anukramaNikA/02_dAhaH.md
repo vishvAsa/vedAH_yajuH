@@ -6,7 +6,16 @@ title = "०२ दाहः"
 
 कर्ता स्नात्वा आर्द्रवासाः धृतोर्ध्वपुण्ड्रः, प्राचीनावीती 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya.md">
+<details open><summary><h5>अशेषे हे परिषत् ...{Loading}...</h5></summary>
+
+> स्वामिनः!  
+अशेषे हे परिषत्  
+भवत्-पादमूले मया समर्पिताम् इमां सौवर्णीं यत्-किञ्चिद्-दक्षिणां  
+यथोक्तदक्षिणामिव स्वीकृत्य  
+
+</details>
+</div>  
 
 > गोत्रं शर्माणं, प्रेतम् अमुकाग्निना पैतृमेधिकविधिना संस्कर्तुं योग्यतासिद्धिरस्त्विति भवन्तो महान्तोनुगृह्णणन्तु 
 
@@ -18,7 +27,41 @@ title = "०२ दाहः"
 
 इति सङ्कल्प्य, 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/hiraNya-garbha-garbhasthaM_sampradade/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/hiraNya-garbha-garbhasthaM_sampradade/">
+<details open><summary><h5>Hira Nya garbha garbhastha M sampradade ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/purANam/agni-purANam/sarva-prastutiH/167_ayutalaxakoTihomAH/hiraNya-garbha-garbhastham.md">
+<details open><summary><h10>हिरण्य-गर्भ--गर्भ-स्थं ...{Loading}...</h10></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(हिरण्य!)+++ हिरण्य-गर्भ--गर्भ-स्थं  
+हेम-बीजं विभावसोः ।  
+अनन्त-पुण्य-फल-दम्  
+अतश् शान्तिं प्रयच्छ मे॥
+</details>
+<details><summary>मूलम्</summary>
+
+हिरण्यगर्भगर्भस्थं  
+हेमबीजं विभावसोः ।  
+अनन्तपुण्यफलदम्  
+अदश्शान्तिं प्रयच्छ मे॥
+_________
+हिरण्यगर्भगर्भस्थं  
+हेमबीजं विभावसोः ।  
+अनन्तपुण्यफलदम्  
+अतश्शान्तिं प्रयच्छ मे॥
+</details>
+</details>
+</div>
+<details open><summary>दानम्, त्यागः</summary>
+
+… यत्किञ्चिद्धिरण्यानि  
+नानागोत्रेभ्यः श्रीवैष्णवेभ्यः येभ्यस् तेभ्यः/ तुभ्यम् अहं  
+**सम्प्रददे**॥  
+
+(न मम॥)
+</details>
+</details>
+</div>  
 
 > संस्कारकरणयोग्यतासिद्ध्यर्थं यत्किञ्चिद्धिरण्यं तुभ्यमहं सम्प्रददे न मम 
 
@@ -158,7 +201,16 @@ title = "०२ दाहः"
 
 अथ - प्रवाहोदकेन स्नानं कुर्युः । यद्यज्ञातयः प्रेतं वहेयुः तं सभां प्रदक्षिणीकृत्य दण्डवत् प्रणम्य ब्रह्मदण्डं गृहीत्वा 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya.md"  newLevelForH1="5" includeTitle="false"> </div>   
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya.md">
+<details open><summary><h5>अशेषे हे परिषत् ...{Loading}...</h5></summary>
+
+> स्वामिनः!  
+अशेषे हे परिषत्  
+भवत्-पादमूले मया समर्पिताम् इमां सौवर्णीं यत्-किञ्चिद्-दक्षिणां  
+यथोक्तदक्षिणामिव स्वीकृत्य  
+
+</details>
+</div>   
 
 > गोत्रस्य शर्मणः पितुः प्रेतस्य अद्यप्रथमेऽहनि, पैतृमेधिकसंस्कारकर्मणि मन्त्रलोपे क्रियालोपे द्रव्यलोपे नियमलोपे सत्यपि सर्वं यथाशास्त्रानुष्ठितं भूयादिति भवन्तो महान्तोऽनुगृह्णन्तु ।
 

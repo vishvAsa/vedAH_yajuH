@@ -111,6 +111,7 @@ title = "०३ विष्ण्वतिक्रमाः"
 4अथ शुक्रामन्थिनः - इन्द्रेणेति गायत्री ॥ इन्द्रेण सयुजः संयुक्ता वयं सासह्याम भृशमभिभवेम । यङन्ताद्व्यत्ययेन परस्मैपदम् । पृतन्यतः पृअतनां सङ्ग्राममस्माभिस्सह कर्तुमिच्छतः । क्यचि 'कव्यध्वरपृतनस्य' इति लोपः । घ्नन्तो वृत्राणि वारकाणि परबलानि पापानि वा । अप्रति अप्रतिबलं यथा भवति तथा । 'नञ्सुभ्याम् इत्युत्तरपदान्तोदात्तत्वम् ॥
 </details>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/3/5/03_viShNvatikramAH/yat_te_agne.md">
+<details open><summary><h5>यत् ते अग्ने ...{Loading}...</h5></summary>
 <details open><summary><h5>यत्ते॑ अग्ने॒  ...{Loading}...</h5></summary>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -154,6 +155,7 @@ title = "०३ विष्ण्वतिक्रमाः"
 
 
 इति तृतीये पञ्चमे तृतीयोनुवाकः ॥
+</details>
 </details>
 </details>
 </div>

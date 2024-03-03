@@ -212,19 +212,21 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/18/01_vilayanam_mathitam_piNyAkam.md">
 <details open><summary><h4>01 विलयनम् मथितम् पिण्याकम् ...{Loading}...</h4></summary>
 
-विलयनं +++(=नवनीतमलम्)+++, मथितं, पिण्याकं, +++(=तैलोत्पादनावशेषः)+++ मधु, मांसं च वर्जयेत् १
+विलयनं +++(=नवनीत-मलम्)+++, मथितं, पिण्याकं, +++(=तैलोत्पादनावशेषः)+++ मधु, मांसं च वर्जयेत् १
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/18/02_kRShNadhAnyaM_shUdrAnnaM_ye.md">
 <details open><summary><h4>02 कृष्णधान्यं शूद्रान्नं ये ...{Loading}...</h4></summary>
 
-कृष्ण-धान्यं, शूद्रान्नं, ये चान्येनाश्य-संमताः २
+कृष्ण-धान्यं, शूद्रान्नं, ये चान्ये नाश्य-संमताः २
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/18/03_ahaviShyamanRta~N_krodhaM_yena.md">
 <details open><summary><h4>03 अहविष्यमनृतङ् क्रोधं येन ...{Loading}...</h4></summary>
 
-अहविष्यम्, अनृतं, क्रोधं, येन च क्रोधयेत् । स्मृतिम् इच्छन् यशो मेधां स्वर्गं पुष्टिं द्वादशैतानि +++(प्राक्तनसूत्रोक्त-सहितानि)+++ वर्जयेत् ३
+अहविष्यम्, अनृतं, क्रोधं,  
+येन च क्रोधयेत् ।  
+स्मृतिम् इच्छन् यशो मेधां स्वर्गं पुष्टिं द्वादशैतानि +++(प्राक्तनसूत्रोक्त-सहितानि)+++ वर्जयेत् ३
 </details>
 </div>
   
@@ -383,7 +385,7 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/36_krunchakrauncha_vArdhrANasalaxmaNavarjam.md">
 <details open><summary><h4>36 क्रुञ्चक्रौञ्च वार्ध्राणसलक्ष्मणवर्जम् ...{Loading}...</h4></summary>
 
-क्रुञ्च-क्रौञ्च +++(एतेषु)+++ वार्ध्राणस-लक्ष्मण-वर्जम् +++(अभक्ष्यम्)+++ ३६
+क्रुञ्च-क्रौञ्च-वार्ध्राणस-लक्ष्मण-वर्जम् +++(अभक्ष्यम्)+++ ३६
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/37_panchanakhAnA~N_godhAkachChapashvAviTshalyakakhaNgashashapUtikhaShavarjam.md">
@@ -401,7 +403,7 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/20/10_AttatejasAm_bhojanaM_varjayet.md">
 <details open><summary><h4>10 आत्ततेजसाम् भोजनं वर्जयेत् ...{Loading}...</h4></summary>
 
-आत्ततेजसां भोजनं वर्जयेत् १०
+आत्त-तेजसां भोजनं वर्जयेत् १०
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/04/09/07_upetaH_strINAmanupetasya_chochChiShTaM.md">

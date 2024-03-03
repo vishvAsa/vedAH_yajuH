@@ -38,15 +38,15 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+############ Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-######## Pāda-label
+############ Pāda-label
 popular  
 popular  
 popular  
 popular
-######## Morph
+############ Morph
 cakā́ra ← √kr̥- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
 
@@ -208,11 +208,11 @@ utá ← utá (invariable)
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+########### English translation:
 
 “The regal **Varuṇa** verily made with the path of the sun, (by which) to travel on his daily course; a path to traverse in pathless (space); may he be the repeller of every afflicter of the heart.”
 
-####### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+########### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Cf. sun's course north and south of the equator
 </details>

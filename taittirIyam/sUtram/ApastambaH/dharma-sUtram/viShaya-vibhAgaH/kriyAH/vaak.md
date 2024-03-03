@@ -125,7 +125,8 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/20/05_anasUyurduShpralambhaH_syAtkuhakashaThanAstikabAlavAdeShu.md">
 <details open><summary><h4>05 अनसूयुर्दुष्प्रलम्भः स्यात्कुहकशठनास्तिकबालवादेषु ...{Loading}...</h4></summary>
 
-अनसूयुर्दुष्प्रलम्भः स्यात्कुहक-शठ-नास्तिक-बालवादेषु ५
+अन्-असूयुर्, दुष्-प्रलम्भः स्यात्  
+कुहक-शठ-नास्तिक-बाल-वादेषु ५
 </details>
 </div>
   

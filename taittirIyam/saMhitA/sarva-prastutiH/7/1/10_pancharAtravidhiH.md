@@ -111,7 +111,7 @@ The (sacrifices) last five nights
 <details open><summary><h3>पञ्चता-महिमा ...{Loading}...</h3></summary>
 
 
-##### वाक्यानि
+####### वाक्यानि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पञ्च॒ वा ऋ॒तव॑स् सव्ँवथ्स॒रः +++(हेमन्त-शिशिरयोर् एकत्वात्, अथवा ऽन्धसि वर्षर्तोर् अभावात्)+++।[38]  
@@ -125,7 +125,7 @@ verily he stands firm in the year with its five seasons.
 
 
 
-##### वाक्यानि
+####### वाक्यानि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथो॒ पञ्चा᳚ख्षरा प॒ङ्क्तिः ।
@@ -161,7 +161,7 @@ There is a Saptadaśa (Stoma), for the obtainment of food; verily also he gains 
 <details open><summary><h3>२५-विधानम् ...{Loading}...</h3></summary>
 
 
-##### वाक्यानि
+####### वाक्यानि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प॒ञ्च॒वि॒ꣳ॒शो᳚ ऽग्निष्टो॒मो +++(यागः)+++ भ॑वति॒ प्र॒जाप॑ते॒र् आप्त्यै॑ ।  

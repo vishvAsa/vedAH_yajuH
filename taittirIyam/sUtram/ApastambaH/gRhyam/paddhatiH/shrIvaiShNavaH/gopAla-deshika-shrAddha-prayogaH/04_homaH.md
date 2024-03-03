@@ -98,7 +98,15 @@ title = "०४ होमः"
 येन जुहोति, तद् अग्नौ प्रतितप्य, 
 जुहूम्  
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/02/04/05_vAcham_prANamiti_juhUmagrairantarato-bhyAkAram.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/02/04/05_vAcham_prANamiti_juhUmagrairantarato-bhyAkAram.md">
+<details open><summary><h5>05 वाचम् प्राणमिति जुहूमग्रैरन्तरतोऽभ्याकारम् ...{Loading}...</h5></summary>
+
+"वाचं प्राणम्" इति  
+जुहूम् अग्रैर् अन्तरतो ऽभ्याकारं+++(=पुनः पुनः)+++ प्राचीं,  
+मध्यैर् बाह्यतः प्रतीचीम्,  
+मूलैर् दण्डम् ५
+</details>
+</div>  
  
 
 इत्य्-आदि-प्रकारेण प्रत्येकं संमृज्य,  
@@ -163,10 +171,10 @@ title = "०४ होमः"
 
 
 
-विश्व॑देवाश् शृणु॒तेमँ हवं॑ मे॒  
-ये अ॒न्तरि॑क्षे य उप॒ द्यवि॒ ष्ठ ।  
+विश्व॑देवाश् **शृणु॒तेमँ** हवं॑ मे॒  
+ये अ॒न्तरि॑क्षे य उप॒ द्यवि॒ **ष्ठ** ।  
 ये अ॑ग्नि-जि॒ह्वा उ॒त वा॒ यज॑त्रा  
-आ॒सद्या॒स्मिन् ब॒र्हिषि॑ मादयध्वम् ॥
+**आ॒सद्या॒स्मिन्** ब॒र्हिषि॑ **मादयध्वम्** ॥
 
 </details>
 </div>  
@@ -224,7 +232,7 @@ title = "०४ होमः"
 
 इति तिलैः पितृतीर्थेन आवाह्य,
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/7/04/90_sakRdAchChinnaM_barhir.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/04/90_sakRdAchChinnaM_barhir.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 स॒कृ॒दा॒च्छि॒न्नं ब॒र्हिर् ऊर्णा॑-मृदु ।  
@@ -517,11 +525,21 @@ title = "०४ होमः"
 
 इति सङ्कल्प्य
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/baudhAyanaH/gRhyam/mantraH/yajuH/sarva-prastutiH/bhUr_bhuvas_suvas_svAhA.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/baudhAyanaH/gRhyam/mantraH/yajuH/sarva-prastutiH/bhUr_bhuvas_suvas_svAhA.md">
+<details open><summary><h5>भूर् भुव॒स् सु॒व॒स् स्वाहा᳚ ...{Loading}...</h5></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+ओं भूर् भुव॒स् सुव॒स् स्वाहा᳚ ॥  
+(प्रजापतय इदं न मम) ॥१॥
+</details>
+<details><summary>मूलम्</summary>
 
-
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/7/11/35_anAjnAtay.NyadAjnAtam_yajnasya.md">
+ओं भूर् भुव॒स् सुव॒स् स्वाहा᳚ ॥  
+(प्रजापतय इदं न मम) ॥१॥
+</details>
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/35_anAjnAtay.NyadAjnAtam_yajnasya.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अना᳚ज्ञात॒य्ँयदाज्ञा॑तम् ।  
@@ -530,7 +548,7 @@ title = "०४ होमः"
 त्वꣳ हि वेत्थ॑ यथात॒थम् ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/7/11/38_puruShasammito_yajnaH.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/38_puruShasammito_yajnaH.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 पुरु॑षसम्मितो य॒ज्ञः ।  
@@ -539,7 +557,7 @@ title = "०४ होमः"
 त्वꣳ हि वेत्थ॑ यथात॒थम् ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/7/11/41_yatpAkatrA_manasA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/41_yatpAkatrA_manasA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 यत्पा॑क॒त्रा मन॑सा दी॒नद॑ख्षा॒ न ।  
@@ -548,7 +566,6 @@ title = "०४ होमः"
 यजि॑ष्ठो दे॒वाꣳ ऋ॑तु॒शो य॑जाति ॥115॥
 </details>
 </div>
-
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/001/04_tvaM_no.md">
 <details open><summary><h2>०४ त्वं नो ...{Loading}...</h2></summary>
 
@@ -558,22 +575,54 @@ title = "०४ होमः"
 विश्वा॒ द्वेषाँ॑सि॒ प्र मु॑मुग्ध्य् अ॒स्मत् ।
 </details>
 </div>
-
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/001/05_sa_tvaM.md">
 <details open><summary><h2>०५ स त्वं ...{Loading}...</h2></summary>
 
-स त्वन् नो॑ अग्ने ऽव॒मो+++(=मूलभूतो)+++ भ॑व॒+ऊ॒ती+++(त्या)+++  
+स त्वन् नो॑ अग्ने ऽव॒मो+++(=मूलभूतो)+++ **भ॑व॒**+ऊ॒ती+++(त्या)+++  
 +++(“अग्निरवमो देवतानां विष्णुः परमः” इति ब्राह्मणम्)+++  
 नेदि॑ष्ठो+++(=अन्तिकतमो)+++ अ॒स्या उ॒षसो॒ व्यु॑ष्टौ+++(=व्युष्टायाम्)+++ ।  
-अव॑ यक्ष्व नो॒ वरु॑णँ ररा॑णो  
-वी॒हि+++(=खाद)+++ मृ॑डी॒कँ+++(=सुखयितारं [हविः])+++ सु॒हवो॑ न एधि ।
+**अव॑ यक्ष्व** नो॒ वरु॑णँ॒, **ररा॑णो**  
+**वी॒हि**+++(=खाद)+++ मृ॑डी॒कँ+++(=सुखयितारं [हविः])+++ सु॒हवो॑ न **एधि** ।
 
++++(अग्नीवरुणाभ्याम् इदं न मम)+++
 </details>
 </div>
 
 
 ### व्याहृतिहोमाः
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/baudhAyanaH/gRhyam/mantraH/yajuH/sarva-prastutiH/vyAhRti-homAH_4.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/baudhAyanaH/gRhyam/mantraH/yajuH/sarva-prastutiH/vyAhRti-homAH_4.md">
+<details open><summary><h5>व्याहृति-होमाः ४ ...{Loading}...</h5></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+(ओं) भूस्स्वाहा᳚ ॥
+(अग्नय इदं न मम)
+
+(ओं) भुव॒स्स्वाहा᳚ ॥
+(वायव इदं न मम)
+
+(ओं) सुव॒स्स्वाहा᳚ ॥  
+(सूर्याय इदं न मम)
+
+(ओं) भूर्भुव॒स्सुव॒स्स्वाहा᳚ ॥  
+(प्रजापतय इदं न मम)  
+</details>
+<details><summary>मूलम्</summary>
+
+(ओं) भूस्स्वाहा᳚ ॥
+(अग्नय इदं न मम)
+
+(ओं) भुव॒स्स्वाहा᳚ ॥
+(वायव इदं न मम)
+
+(ओं) सुव॒स्स्वाहा᳚ ॥  
+(सूर्याय इदं न मम)
+
+(ओं) भूर्भुव॒स्सुव॒स्स्वाहा᳚ ॥  
+(प्रजापतय इदं न मम)  
+
+</details>
+</details>
+</div>  
 
 ### पूर्णाहुति-प्राणायामौ
 
@@ -623,12 +672,49 @@ title = "०४ होमः"
 भूयि॑ष्ठान् ते॒ **नम॑-उक्तिव्ँ विधेम** ॥
 
 </details>
-</div>  
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/mantrahInam_hutAshana.md">
+<details open><summary><h5>मन्त्रहीनं - हुताशन ...{Loading}...</h5></summary>
 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/mantrahInam_hutAshana.md" newLevelForH1="5" includeTitle="false"> </div>
+(अग्नये नमः)
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/prAyashcittAny_asheShANi.md" newLevelForH1="5" includeTitle="false"> </div>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मन्त्रहीनं क्रियाहीनं  
+भक्तिहीनं हुताशन ।  
+यद्धुतं तु मया देव  
+परिपूर्णं तदस्तु ते ॥  
+</details>
+<details><summary>मूलम्</summary>
+
+मन्त्रहीनं क्रियाहीनं  
+भक्तिहीनं हुताशन ।  
+यद्धुतं तु मया देव  
+परिपूर्णं तदस्तु ते ॥
+</details>
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/prAyashcittAny_asheShANi.md">
+<details open><summary><h5>प्रायश्चित्तान्यशेषाणि ...{Loading}...</h5></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रायश्चित्तान्य् अशेषाणि  
+तपः कर्मात्मकानि वै ।  
+यानि तेषाम् अशेषाणां  
+कृष्णानुस्मरणं परम् ॥
+</details>
+<details><summary>मूलम्</summary>
+
+प्रायश्चित्तान्यशेषाणि  
+तपः कर्मात्मकानि वै ।  
+यानि तेषामशेषाणां  
+कृष्णानुस्मरणं परम्॥
+</details>
+
+(कृष्ण कृष्ण कृष्ण॥)
+</details>
+</div>
 
 इत्युक्त्वा, प्रणम्य अभिवाद्य,
 

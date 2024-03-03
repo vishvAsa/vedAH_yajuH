@@ -1,5 +1,6 @@
 +++
-title = "23-32 आनन्द-वल्ली - ब्रह्मविद् आप्नोति"
+title = "२३-३२ आनन्द-वल्ली ब्रह्मविद् आप्नोति"
+
 +++
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="../23_sahanAvavatu/"></div>  
 

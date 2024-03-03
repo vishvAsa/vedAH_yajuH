@@ -1,8 +1,8 @@
 ---
-title: सत्यं वद, धर्मञ्चर॥
+title: १८-२१ वेद-सारः
 unicode_script: devanagari
----
 
+---
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 ॥ शीक्षावल्ली तैत्तिरीयोपनिषदि ॥ आङ्ग्लानुवादस् सरसो [ऽत्र](https://sanskritdocuments.org/doc_upanishhat/shikshaavalii.html)।

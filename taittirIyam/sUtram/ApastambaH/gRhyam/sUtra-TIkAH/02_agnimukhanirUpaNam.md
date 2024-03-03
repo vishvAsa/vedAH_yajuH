@@ -215,10 +215,10 @@ title = "०२ अग्निमुखनिरूपणम्"
 
 
 
-आ॒ग॒न्त्रा +++(छात्रेण)+++ सम॑गन्महि॒  
-प्र सु॑ मृ॒त्युं यु॑योतन+++(←यौतिः पृथग्भावे)+++ ।  
-अरि॑ष्टा॒स् सञ्च॑रेमहि स्व॒स्ति,  
-+++(ब्रह्मचर्यं)+++ च॑रताद् इ॒ह स्व॒स्त्या गृ॒हेभ्यः॑+++(→आगृहस्थाश्रमम्)+++ ।+++(५)+++  
+आ॒ग॒न्त्रा +++(छात्रेण)+++ **सम॑गन्महि॒**  
+प्र सु॑ मृ॒त्युं **यु॑योतन**+++(←यौतिः पृथग्भावे)+++ ।  
+अरि॑ष्टा॒स् **सञ्च॑रेमहि** स्व॒स्ति,  
++++(ब्रह्मचर्यं)+++ **च॑रताद्** इ॒ह स्व॒स्त्य् आ गृ॒हेभ्यः॑+++(→आगृहस्थाश्रमम्)+++ ।+++(५)+++  
 
 </details>
 </div>
@@ -747,7 +747,7 @@ title = "०२ अग्निमुखनिरूपणम्"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/01_adite-nu_manyasva.md">
 <details open><summary><h5>०१ अदितेऽनु मन्यस्व ...{Loading}...</h5></summary>
 
-अदि॒तेऽनु॑ मन्यस्व।
+अदि॒तेऽनु॑ मन्यस्व। +++(इति दक्षिणतः, प्राचीनम्)+++
 
 
 </details>
@@ -755,21 +755,21 @@ title = "०२ अग्निमुखनिरूपणम्"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/02_anumate-nu_manyasva.md">
 <details open><summary><h5>०२ अनुमतेऽनु मन्यस्व ...{Loading}...</h5></summary>
 
-अनु॑म॒ते+++(=ऊनचन्द्रे पूर्णमासि)+++ ऽनु॑ मन्यस्व।
+अनु॑म॒ते+++(=ऊनचन्द्रे पूर्णमासि)+++ ऽनु॑ मन्यस्व। +++(इति पश्चिमाद् उदीचीनम्)+++
 
 </details>
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/03_saras-vate-nu_manyasva.md">
 <details open><summary><h5>०३ सरस्-वतेऽनु मन्यस्व ...{Loading}...</h5></summary>
 
-सर॑स्-वते+++(छान्दसो गुणः)+++ ऽनु॑ मन्यस्व।
+सर॑स्-वते+++(छान्दसो गुणः)+++ ऽनु॑ मन्यस्व। +++(इति उत्तरतः प्राचीनम्)+++
 
 </details>
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/04_deva_savitaH.md">
 <details open><summary><h5>०४ देव सवितः ...{Loading}...</h5></summary>
 
-देव सवितः॒ प्रसु॑व।
+देव सवितः॒ प्रसु॑व। +++(इति प्रागारम्भं प्रदक्षिणं)+++
 
 </details>
 </div>
@@ -1168,7 +1168,7 @@ title = "०२ अग्निमुखनिरूपणम्"
 
 लौकिकानां पाकयज्ञशब्दः ॥  
 +++(लोकशब्देन शिष्टा उच्यन्ते ।  
-केचित् - पाकयज्ञ इति विवाहादीनां संज्ञा विधीयते । पाकशब्दोऽल्पवचनः, यथाक्षिप्रं यजेत पाको देव (आप.गृ.२०१५) इति ।  पाकगुणको यज्ञः पाकयज्ञ इति निर्वचने आज्यहोमेषु संज्ञा न स्यात् । )+++  +++(अपरे -  सप्तानां औपासनहोमादीनां&lt;पाकयज्ञशब्दः&gt; संज्ञात्वेन प्रसिद्धः, नतु श्रौतानां विवाहादीनां च, तत्र लोकानामप्रयोगात् । )+++
+केचित् - पाकयज्ञ इति विवाहादीनां संज्ञा विधीयते । पाकशब्दोऽल्पवचनः, यथाक्षिप्रं यजेत पाको देव (आप.गृ.२०१५) इति ।  पाकगुणको यज्ञः पाकयज्ञ इति निर्वचने आज्यहोमेषु संज्ञा न स्यात् । )+++  +++(अपरे -  सप्तानां औपासनहोमादीनां "पाकयज्ञशब्दः"; संज्ञात्वेन प्रसिद्धः, नतु श्रौतानां विवाहादीनां च, तत्र लोकानामप्रयोगात् । )+++
 
 </details>
 </div>

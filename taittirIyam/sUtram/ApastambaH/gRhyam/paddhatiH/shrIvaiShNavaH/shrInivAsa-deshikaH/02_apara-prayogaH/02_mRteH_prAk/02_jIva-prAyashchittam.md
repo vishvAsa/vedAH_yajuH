@@ -5,11 +5,63 @@ title = "०२ जीव-प्रायश्चित्तम्"
 
 कर्तास्वयं स्नात्वाऽहतं वासः परिधाय धृतोर्ध्व पुण्ड्रः पादौ प्रक्षाल्य द्विराचम्य ब्राह्मणपरिषदि ताम्बूलं दक्षिणाञ्च गृहीत्वा
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/namas_sadase_sabhAM_gopAya/"  newLevelForH1="5" includeTitle="false"> </div> 
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/namas_sadase_sabhAM_gopAya/">
+<details open><summary><h5>नम॒स् सद॑से …स॒भाम् मे॑ गोपाय ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/3/2/04_sphyAdyupasthAnamantrAH_vidhishcha/namas_sadase.md">
+<details open><summary><h10>नमस् सदसे ...{Loading}...</h10></summary>
+<details><summary>मूलम् (संयुक्तम्)</summary>
+
+नम॒स्सद॑से॒ नम॒स्सद॑स॒स्पत॑ये॒ नम॒स्सखी॑नाम्पुरो॒गाणा॒ञ्चख्षु॑षे॒ नमो॑ दि॒वे नमᳶ॑ पृथि॒व्यै
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नम॒स् सद॑से॥  
+नम॒स् सद॑स॒स्-पत॑ये॥    
+नम॒स् सखी॑नाम् पुरो॒गाणा॒ञ् चख्षु॑षे॥    
+नमो॑ दि॒वे॥   
+नमᳶ॑ पृथि॒व्यै॥
+</details>
+<details><summary>मूलम्</summary>
+
+नम॒स्सद॑से  
+नम॒स्सद॑स॒स्पत॑ये    
+नम॒स्सखी॑नाम्पुरो॒गाणा॒ञ्चख्षु॑षे    
+नमो॑ दि॒वे   
+नमᳶ॑ पृथि॒व्यै
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+'ऐन्द्रं हि देवतया सदः' इति इन्द्रः सदसस्पतिः पालयिता तस्मै नमः । 'षष्ठयाः पतिपुत्र' इति सत्वम् । सखीनां समानख्यानानामृत्विजां पुरोगाणामग्रतो गन्तृणां प्रधानानां सर्वेषामपि चक्षुषे चक्षुसथानीयाय दर्शनहेतवे सवित्रे च नमः । गतमन्यत् ॥
+</details>
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/267_sapratha_sabhAm.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+सप्र॑थ स॒भाम् मे॑ गोपाय ।  
+ये च॒ सभ्या᳚स् सभा॒सदः॑ ।  
+तानि॑न्द्रि॒याव॑तᳵ कुरु ।  
+सर्व॒म् आयु॒र् उपा॑सताम् ।
+</details>
+</div>
+
+(सर्वे॑भ्यः श्रीवैष्ण॒वेभ्यो॒ नमः॑॥)
+
+</details>
+</div> 
 
 प्रणम्य 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya.md">
+<details open><summary><h5>अशेषे हे परिषत् ...{Loading}...</h5></summary>
+
+> स्वामिनः!  
+अशेषे हे परिषत्  
+भवत्-पादमूले मया समर्पिताम् इमां सौवर्णीं यत्-किञ्चिद्-दक्षिणां  
+यथोक्तदक्षिणामिव स्वीकृत्य  
+
+</details>
+</div>  
 
 गोत्रस्य शर्मणः मम पितुः शरीर शुद्धयर्थं मन्त्रस्नानं ऋत्विङ्मुखेन कारयितुं योग्यता सिद्धिमनुगृहाण ॥ उपविश्य प्राणानायम्य श्रीमान्वेङ्कटेत्यादि + प्रीत्यर्थं, श्री भगवदाज्ञाकैङ्कर्यं गोत्रस्य शर्मणः, मम पितुः शरीर शुद्धयर्थं मन्त्रस्नानं ऋत्विङ्मुखेन कारयिष्ये। सात्विकत्यागं कृत्वा तण्डुले कुम्भं संस्थाप्य इमम्मे वरुणेति कुम्भे वरुणमाबाह्य षोडशोपचारान्समर्प्य कुम्भं स्पृष्ट्वा ब्राह्मणैस्सह जपति । (‘‘शन्न आपस्तु द्रुपदा दापो हिष्ठाघमर्षणः ।") शन्नो॑ देवी रभिष्टय आपो॑ भवन्तु पी॒तये॑। शंय्यो॒ो र॒भि सॅवन्तुनः । ... ... ...
 

@@ -2,7 +2,7 @@
 title = "०५ 'यत इन्द्र'"
 
 +++
-
+## यत॑ इन्द्र॒
 <div class="js_include" newlevelforh1="4" title="विश्वास-शाकल-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/061/13_yata_indra.md">
 <details open><summary><h4>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h4></summary>
 
@@ -22,8 +22,8 @@ title = "०५ 'यत इन्द्र'"
 
 स्व॒स्ति॒दा वि॒शस्-पति॑र्  
 वृत्र॒हा वि॑मृ॒धो व॒शी ।  
-वृषेन्द्रः॑ पु॒र ए॑तु नः  
-सोम॒पा अ॑भयङ्क॒रः ॥
+वृषेन्द्रः॑ पु॒र **ए॑तु** नः  
+सोम॒-पा **अ॑भयङ्-क॒रः** ॥
 
 </details>
 </div>  
@@ -54,4 +54,3 @@ title = "०५ 'यत इन्द्र'"
 
 </details>
 </div>
-

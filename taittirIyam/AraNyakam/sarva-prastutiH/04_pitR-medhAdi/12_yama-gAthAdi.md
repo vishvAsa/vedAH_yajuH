@@ -24,7 +24,6 @@ Source: [भास्करः](https://archive.org/details/taittiriya/taittiriy
 </details>
 </details>
 </div>
-
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/12_yama-gAthAdi/03_yama~N_gAya.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 

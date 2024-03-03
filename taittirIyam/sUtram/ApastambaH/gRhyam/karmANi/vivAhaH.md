@@ -378,7 +378,7 @@ unicode_script: devanagari
 </div>
 
 
-#### स्नानम्  
+##### स्नानम्  
 उत्तराभिः पञ्चभिस् +++(=हिरण्यवर्णा)+++ स्नापयित्वा,  
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/01_hiraNyavarNAshshuchayaH_pAvakAH.md">
 <details open><summary><h4>०१ हिरण्यवर्णाश्शुचयः पावकाः ...{Loading}...</h4></summary>
@@ -411,8 +411,11 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/033_ApaH/02_yAsAM_rAjA.md">
 <details open><summary><h6>०२ यासां राजा ...{Loading}...</h6></summary>
 
-यासां॒ राजा॒ वरु॑णो॒ याति॒ मध्ये॑ सत्यानृ॒ते अ॑व॒पश्य॒ञ्जना॑नाम्।  
-या अ॒ग्निं गर्भं॑ दधि॒रे सु॒वर्णा॒स्ता न॒ आपः॒ शं स्यो॒ना भ॑वन्तु ॥
+यासा॒ꣳ॒ राजा॒ वरु॑णो॒ **याति॒** मद्ध्ये॑  
+सत्यानृ॒ते **अ॑व॒पश्य॒ञ्** जना॑नाम् ।  
+या अ॒ग्निं गर्भं॑ **दधि॒रे** सु॒वर्णा॒स्  
+तास् त॒ आप॒श् श२ꣳ स्यो॒ना **भ॑वन्तु** ।+++(५)+++ 
+
 </details>
 </div>
 </details>
@@ -444,7 +447,7 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 </details>
 </div>
 
-#### अहतस्य वाससः परिधानम्  
+##### अहतस्य वाससः परिधानम्  
 उत्तरया +++(=परि त्वा गिर्वणो गिरः)+++ ऽहतेन वाससाच्छाद्य,  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/06_pari_tvA.md">
@@ -463,7 +466,7 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 </div>
 
 
-### योक्त्रबन्धनम्  
+#### योक्त्रबन्धनम्  
 उत्तरया +++(=आशासाना सौमनसम्)+++ योक्त्रेण सन्नह्यति ८  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/07_AshAsAnA_saumanasam.md">
@@ -655,7 +658,7 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 
 प्राग्घोमात् प्रदक्षिणमग्निं कृत्वा, यथास्थानम् उपविश्यान्वारब्धायाम् उत्तरा +++(१६)+++ आहुतीर् जुहोति - "सोमाय जनिविदे स्वाहे"त्येतैः प्रतिमन्त्रम् ॥  
 
-### षोडश प्रधानाहुतिमन्त्राः
+#### षोडश प्रधानाहुतिमन्त्राः
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/01-03_somAya_janivide.md">
 <details open><summary><h4>०१-०३ सोमाय जनिविदे ...{Loading}...</h4></summary>
 
@@ -749,9 +752,7 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 </details>
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/025/19_imaM_me.md">
-<details open><summary><h4>१२ इमम् मे ...{Loading}...</h4></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/025/19_imaM_me.md">
-<details open><summary><h6>१९ इमं मे ...{Loading}...</h6></summary>
+<details open><summary><h4>१९ इमं मे ...{Loading}...</h4></summary>
 
 इ॒मं मे॑ वरुण श्रुधी॒ +++(=श्रुणु)+++  
 हव॑म्+++(=आह्वानम्)+++ अ॒द्या च॑ मृळय +++(=सुखय)+++।  
@@ -759,21 +760,15 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 
 </details>
 </div>
-</details>
-</div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/11_tattvA_yAmi.md">
-<details open><summary><h4>१३ तत्त्वा यामि ...{Loading}...</h4></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/11_tattvA_yAmi.md">
-<details open><summary><h6>११ तत्त्वा यामि ...{Loading}...</h6></summary>
+<details open><summary><h4>११ तत्त्वा यामि ...{Loading}...</h4></summary>
 
 
-तत् त्वा॑ यामि॒ ब्रह्म॑णा॒ वन्द॑मान॒स्  
-तद् आ शा॑स्ते॒ यज॑मानो ह॒विर्भिः॑ ।  
-अहे॑ळमानो +++(=अक्रुध्यन्)+++ वरुणे॒ह बो॒ध्य् उरु॑शंस॒  
-मा न॒ आयुः॒ प्र मो॑षीः ॥
+तत् त्वा॑ **यामि॒** ब्रह्म॑णा॒ **वन्द॑मान॒स्**  
+तद् **आ शा॑स्ते॒** यज॑मानो ह॒विर्भिः॑ ।  
+अहे॑ळमानो +++(=अक्रुध्यन्)+++ वरुणे॒ह **बो॒ध्य्** उरु॑शंस॒  
+मा न॒ आयुः॒ **प्र मो॑षीः** ॥
 
-</details>
-</div>
 </details>
 </div>
 <div class="js_include bg-light-yellow" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/14_tvanno_agne.md">
@@ -794,12 +789,13 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/001/05_sa_tvaM.md">
 <details open><summary><h6>०५ स त्वं ...{Loading}...</h6></summary>
 
-स त्वन् नो॑ अग्ने ऽव॒मो+++(=मूलभूतो)+++ भ॑व॒+ऊ॒ती+++(त्या)+++  
+स त्वन् नो॑ अग्ने ऽव॒मो+++(=मूलभूतो)+++ **भ॑व॒**+ऊ॒ती+++(त्या)+++  
 +++(“अग्निरवमो देवतानां विष्णुः परमः” इति ब्राह्मणम्)+++  
 नेदि॑ष्ठो+++(=अन्तिकतमो)+++ अ॒स्या उ॒षसो॒ व्यु॑ष्टौ+++(=व्युष्टायाम्)+++ ।  
-अव॑ यक्ष्व नो॒ वरु॑णँ ररा॑णो  
-वी॒हि+++(=खाद)+++ मृ॑डी॒कँ+++(=सुखयितारं [हविः])+++ सु॒हवो॑ न एधि ।
+**अव॑ यक्ष्व** नो॒ वरु॑णँ॒, **ररा॑णो**  
+**वी॒हि**+++(=खाद)+++ मृ॑डी॒कँ+++(=सुखयितारं [हविः])+++ सु॒हवो॑ न **एधि** ।
 
++++(अग्नीवरुणाभ्याम् इदं न मम)+++
 </details>
 </div>
 </details>
@@ -808,10 +804,10 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 <details open><summary><h4>१६ त्वमग्ने अयाऽस्यया ...{Loading}...</h4></summary>
 
 
-त्वम् अ॑ग्ने अ॒या+++(=एतव्यः/ प्रत्येता)+++ ऽस्य्  
-अ॒या सन् मन॑सा हि॒तः ।  
-अ॒या सन् ह॒व्यम् ऊ॑हिषे॒  
-ऽया नो॑ धेहि भेष॒जम् ॥ (4)
+त्वम् अ॑ग्ने अ॒या+++(=एतव्यः/ प्रत्येता)+++ **ऽस्य्**  
+अ॒या **सन्** मन॑सा **हि॒तः** ।  
+अ॒या **सन्** ह॒व्यम् **ऊ॑हिषे॒**  
+ऽया नो॑ **धेहि** भेष॒जम् ॥ (4)
 
 </details>
 </div>
@@ -1396,7 +1392,7 @@ ___________
 
 तीर्थ-स्थाणु+++(=गवां कण्डूयनार्थ निखातः स्तम्भः)+++-चतुष्पथव्यतिक्रमे चोत्तरां +++(=ता मन्दसाना)+++ जपेत् ॥   
 
-### तीर्थादिव्यतिक्रमे जपः  
+#### तीर्थादिव्यतिक्रमे जपः  
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_07/01_tAmandasAnA_manuSho.md">
 <details open><summary><h4>०१ तामन्दसाना मनुषो ...{Loading}...</h4></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/040/13_tA_mandasAnA.md">
@@ -1489,54 +1485,11 @@ ___________
 </details>
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/025/19_imaM_me.md">
-<details open><summary><h4>०६-१० इमम् मे ...{Loading}...</h4></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/025/19_imaM_me.md">
-<details open><summary><h6>१९ इमं मे ...{Loading}...</h6></summary>
+<details open><summary><h4>१९ इमं मे ...{Loading}...</h4></summary>
 
 इ॒मं मे॑ वरुण श्रुधी॒ +++(=श्रुणु)+++  
 हव॑म्+++(=आह्वानम्)+++ अ॒द्या च॑ मृळय +++(=सुखय)+++।  
 त्वाम् अ॑व॒स्युर् आ च॑के +++(=अवदन्)+++॥  
-
-</details>
-</div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/11_tattvA_yAmi.md">
-<details open><summary><h6>११ तत्त्वा यामि ...{Loading}...</h6></summary>
-
-
-तत् त्वा॑ यामि॒ ब्रह्म॑णा॒ वन्द॑मान॒स्  
-तद् आ शा॑स्ते॒ यज॑मानो ह॒विर्भिः॑ ।  
-अहे॑ळमानो +++(=अक्रुध्यन्)+++ वरुणे॒ह बो॒ध्य् उरु॑शंस॒  
-मा न॒ आयुः॒ प्र मो॑षीः ॥
-
-</details>
-</div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/001/04_tvaM_no.md">
-<details open><summary><h6>०४ त्वं नो ...{Loading}...</h6></summary>
-
-त्वन् नो॑ अग्ने॒ वरु॑णस्य वि॒द्वान्  
-दे॒वस्य॒ हेडो+++(=क्रोधो )+++ ऽव॑ यासिसीष्ठाः+++(=यक्षीष्ठाः)+++ ।  
-यजि॑ष्ठो॒ +++(हविर्)+++वह्नि॑तम॒श् शोशु॑चानो॒+++(=देदीप्यमानः)+++  
-विश्वा॒ द्वेषाँ॑सि॒ प्र मु॑मुग्ध्य् अ॒स्मत् ।
-</details>
-</div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/001/05_sa_tvaM.md">
-<details open><summary><h6>०५ स त्वं ...{Loading}...</h6></summary>
-
-स त्वन् नो॑ अग्ने ऽव॒मो+++(=मूलभूतो)+++ भ॑व॒+ऊ॒ती+++(त्या)+++  
-+++(“अग्निरवमो देवतानां विष्णुः परमः” इति ब्राह्मणम्)+++  
-नेदि॑ष्ठो+++(=अन्तिकतमो)+++ अ॒स्या उ॒षसो॒ व्यु॑ष्टौ+++(=व्युष्टायाम्)+++ ।  
-अव॑ यक्ष्व नो॒ वरु॑णँ ररा॑णो  
-वी॒हि+++(=खाद)+++ मृ॑डी॒कँ+++(=सुखयितारं [हविः])+++ सु॒हवो॑ न एधि ।
-
-</details>
-</div>
-
-
-
-त्वम् अ॑ग्ने अ॒या+++(=एतव्यः/ प्रत्येता)+++ ऽस्य्  
-अ॒या सन् मन॑सा हि॒तः ।  
-अ॒या सन् ह॒व्यम् ऊ॑हिषे॒  
-ऽया नो॑ धेहि भेष॒जम् ॥ (4)
 
 </details>
 </div>
@@ -1562,7 +1515,7 @@ ___________
 </div>  
 
 
-### नद्याद्यतिक्रमे जपः
+#### नद्याद्यतिक्रमे जपः
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_07/12_yA_oShadhayo.md">
 <details open><summary><h4>१२ या ओषधयो ...{Loading}...</h4></summary>
 
@@ -1776,54 +1729,11 @@ _____________
 </details>
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/025/19_imaM_me.md">
-<details open><summary><h4>११ -१५ इमम् मे ...{Loading}...</h4></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/025/19_imaM_me.md">
-<details open><summary><h6>१९ इमं मे ...{Loading}...</h6></summary>
+<details open><summary><h4>१९ इमं मे ...{Loading}...</h4></summary>
 
 इ॒मं मे॑ वरुण श्रुधी॒ +++(=श्रुणु)+++  
 हव॑म्+++(=आह्वानम्)+++ अ॒द्या च॑ मृळय +++(=सुखय)+++।  
 त्वाम् अ॑व॒स्युर् आ च॑के +++(=अवदन्)+++॥  
-
-</details>
-</div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/11_tattvA_yAmi.md">
-<details open><summary><h6>११ तत्त्वा यामि ...{Loading}...</h6></summary>
-
-
-तत् त्वा॑ यामि॒ ब्रह्म॑णा॒ वन्द॑मान॒स्  
-तद् आ शा॑स्ते॒ यज॑मानो ह॒विर्भिः॑ ।  
-अहे॑ळमानो +++(=अक्रुध्यन्)+++ वरुणे॒ह बो॒ध्य् उरु॑शंस॒  
-मा न॒ आयुः॒ प्र मो॑षीः ॥
-
-</details>
-</div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/001/04_tvaM_no.md">
-<details open><summary><h6>०४ त्वं नो ...{Loading}...</h6></summary>
-
-त्वन् नो॑ अग्ने॒ वरु॑णस्य वि॒द्वान्  
-दे॒वस्य॒ हेडो+++(=क्रोधो )+++ ऽव॑ यासिसीष्ठाः+++(=यक्षीष्ठाः)+++ ।  
-यजि॑ष्ठो॒ +++(हविर्)+++वह्नि॑तम॒श् शोशु॑चानो॒+++(=देदीप्यमानः)+++  
-विश्वा॒ द्वेषाँ॑सि॒ प्र मु॑मुग्ध्य् अ॒स्मत् ।
-</details>
-</div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/001/05_sa_tvaM.md">
-<details open><summary><h6>०५ स त्वं ...{Loading}...</h6></summary>
-
-स त्वन् नो॑ अग्ने ऽव॒मो+++(=मूलभूतो)+++ भ॑व॒+ऊ॒ती+++(त्या)+++  
-+++(“अग्निरवमो देवतानां विष्णुः परमः” इति ब्राह्मणम्)+++  
-नेदि॑ष्ठो+++(=अन्तिकतमो)+++ अ॒स्या उ॒षसो॒ व्यु॑ष्टौ+++(=व्युष्टायाम्)+++ ।  
-अव॑ यक्ष्व नो॒ वरु॑णँ ररा॑णो  
-वी॒हि+++(=खाद)+++ मृ॑डी॒कँ+++(=सुखयितारं [हविः])+++ सु॒हवो॑ न एधि ।
-
-</details>
-</div>
-
-
-
-त्वम् अ॑ग्ने अ॒या+++(=एतव्यः/ प्रत्येता)+++ ऽस्य्  
-अ॒या सन् मन॑सा हि॒तः ।  
-अ॒या सन् ह॒व्यम् ऊ॑हिषे॒  
-ऽया नो॑ धेहि भेष॒जम् ॥ (4)
 
 </details>
 </div>
@@ -1834,7 +1744,7 @@ _____________
 इति श्रीहरदत्तविरचिते एकाग्निकाण्डमन्त्रव्याख्याने अष्टमः खण्डः ॥  
 
 
-### उपवेषनम्
+#### उपवेषनम्
 परिषेचनान्तं कृत्वोत्तरया +++(=इह गावः प्रजायध्वम्)+++ चर्मण्युपविशत उत्तरो वरः +++(प्राङ्मुखौ)+++ ।  
 
 +++(उत्तरया चर्मण्युपविशतः। आमन्त्रितनिघातः छान्दसत्वान्नभवति ।)+++  
@@ -2000,7 +1910,7 @@ __________________
 </details>
 </div>
 
-#### स्वयं प्रज्वलिते ऽग्नौ समिदाधानम्
+##### स्वयं प्रज्वलिते ऽग्नौ समिदाधानम्
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/08_05_sarvatra_svayam.md">
 <details open><summary><h4>०८ ०५ सर्वत्र स्वयम् ...{Loading}...</h4></summary>
@@ -2133,7 +2043,7 @@ __________________
 </details>
 </div>
 
-### शेष-होम-मन्त्राः  
+#### शेष-होम-मन्त्राः  
 अग्नेरुपसमाधानाद्याज्यभागान्ते ऽन्वारब्धायाम् उत्तरा आहुतीर् +++(=सप्त प्रधानाहुतीर्जुहोति "अग्ने प्रायश्चित्ते"इत्येवमाद्याः)+++ हुत्वा जयादि प्रतिपद्यते।  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_10/03-06_agne_prAyashchitte.md">
@@ -2209,7 +2119,7 @@ __________________
 </details>
 </div>
 
-#### वध्वाश् शिरस्य् आज्यशेषानयनम्
+##### वध्वाश् शिरस्य् आज्यशेषानयनम्
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_10/10_bhUssvAhA_bhuvassvAhA.md">
 <details open><summary><h4>१० भूस्स्वाहा भुवस्स्वाहा ...{Loading}...</h4></summary>
@@ -2226,7 +2136,7 @@ __________________
 
 
 
-#### परस्परवीक्षणम्
+##### परस्परवीक्षणम्
 परिषेचनान्तं कृत्वा,
 अपरेणाग्निं प्राचीम् उपवेश्य तस्याश् शिरस्याज्यशेषाद् व्याहृतिभिर् ओङ्कारचतुर्थाभिरानीयोत्तराभ्यां +++(="अपश्यं त्वे"त्येताभ्यां)+++ यथालिङ्गं +++(=पूर्वया वधूः उत्तरया वरः)+++ मिथस्समीक्ष्य,  
 
@@ -2287,7 +2197,7 @@ ______________
 
 
 
-#### अथ जपः  
+##### अथ जपः  
 उत्तरास् तिस्रो +++(="प्रजापते तन्व"मित्याद्याः)+++ जपित्वा,  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_11/04_prajApate_tanvam.md">

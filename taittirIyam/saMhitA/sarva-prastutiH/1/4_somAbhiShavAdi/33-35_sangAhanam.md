@@ -76,15 +76,15 @@ Be fullest of help for us.
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+############ Strata
 Cretic
 
-######## Pāda-label
+############ Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-######## Morph
+############ Morph
 ápaśyan ← √paś- (root)  
 {number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
 
@@ -260,7 +260,7 @@ yé ← yá- (pronoun)
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+########### English translation:
 
 “Those mortals who beheld the pristine Uṣās dawning have passed away; to us she is now visible, and they approach who may behold her in after times.”
 </details>

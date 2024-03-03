@@ -290,15 +290,15 @@ O Rudra, that highest active name of thee, to that thou art offered, thou art of
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-##### Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-##### Pāda-label
+###### Pāda-label
 popular  
 popular  
 popular  
 popular;; repeated line
-##### Morph
+###### Morph
 anyáḥ ← anyá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -471,6 +471,8 @@ vayám ← ahám (pronoun)
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **प्रजापते** **त्वत्** त्वत्तोऽन्यः कश्चित् **एतानि** इदानीं वर्तमानानि **विश्वा** विश्वानि सर्वाणि ॥  ‘ शेश्छन्दसि बहुलम् ' इति शेर्लोपः ॥ **जातानि** प्रथमविकारभाञ्जि **ता** तानि सर्वाणि भूतजातानि **न** **परि** **बभूव**  न परिगृह्णाति । न व्याप्नोति । त्वमेवैतानि परिगृह्य स्रष्टुं शक्नोषीति भावः । परिपूर्वो भवतिः परिग्रहार्थः । वयं च **यत्कामाः** यत्फलं कामयमानाः **ते** तुभ्यं जुहुमः हवींषि प्रयच्छामः **तत्** फलं **नः** अस्माकम् **अस्तु** भवतु । तथा **वयं** च **रयीणां** धनानां **पतयः** ईश्वराः **स्याम** भवेम ॥ नामन्यतरस्याम् ' इति नाम उदात्तत्वम् ॥ ॥ ४ ॥
+________________
+हे प्रजापते! त्वदन्यः कश्चिदपि जातानि उत्पन्नानि यान्येतानि विश्वानि लोकजातानि सन्ति ता तानि परिबभूव परितो व्याप्तुं त्वत् त्वत्तोऽन्यः कोऽपि न समर्थः । वयं यत्कामा येन फलकामेन युक्ताः सन्तस्ते तुभ्यं जुहुमः तत्फलं नोऽस्माकमस्तु सिध्यतु । वयं त्यत्प्रसादाद्रयीणां धनानां पतयः स्याम ॥
 </details>
 <details><summary>हरदत्तः</summary>
 
@@ -488,11 +490,11 @@ ______________
 </details>
 <details><summary>Wilson</summary>
 
-#### English translation:
+##### English translation:
 
 “No other than you, **Prajāpati**, has given existence to all these beings; may that object of our desiresfor which we sacrifice to you be ours, may we be the possessors of riches.”
 
-#### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+##### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 **Yajus**. 10.20; **Nirukta** 10.43
 </details>
@@ -507,6 +509,12 @@ O Prajapati, none other than thou
 Hath encompassed all these beings;  
 Be that ours for which we sacrifice to thee  
 May we be lords of wealth.
+________________
+O Prajapati, none other than thou  
+Comprehendeth all these creatures [6].  
+What we seek when we sacrifice to thee, let that be ours;  
+May we be lords of riches.
+
 </details>
 <details><summary>Griffith</summary>
 

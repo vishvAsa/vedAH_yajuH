@@ -48,43 +48,45 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/13_shUdragamanamAryastrINAm.md">
 <details open><summary><h4>13 शूद्रगमनमार्यस्त्रीणाम् ...{Loading}...</h4></summary>
 
-शूद्र-गमनमार्यस्त्रीणाम् १३
+शूद्र-गमनम् आर्य-स्त्रीणाम् १३
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/14_pratiShiddhAnAm_mAMsabhaxaNam.md">
 <details open><summary><h4>14 प्रतिषिद्धानाम् मांसभक्षणम् ...{Loading}...</h4></summary>
 
-प्रतिषिद्धानां मांसभक्षणम् १४
+प्रतिषिद्धानां मांस-भक्षणम् १४
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/15_shuno_manuShyasya_cha.md">
 <details open><summary><h4>15 शुनो मनुष्यस्य च ...{Loading}...</h4></summary>
 
-+++(यथा -)+++ शुनो मनुष्यस्य च कुक्कुटसूकराणां ग्राम्याणां क्रव्यादसाम् १५
++++(यथा -)+++ शुनो मनुष्यस्य च  
+कुक्कुट-सूकराणां ग्राम्याणां, क्रव्यादसाम् १५
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/16_manuShyANAm_mUtrapurIShaprAshanam.md">
 <details open><summary><h4>16 मनुष्याणाम् मूत्रपुरीषप्राशनम् ...{Loading}...</h4></summary>
 
-मनुष्याणां मूत्रपुरीषप्राशनम् १६
+मनुष्याणां मूत्र-पुरीष-प्राशनम् १६
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/17_shUdrochChiShTamapapAtrAgamana~n_chAryANAm.md">
 <details open><summary><h4>17 शूद्रोच्छिष्टमपपात्रागमनञ् चार्याणाम् ...{Loading}...</h4></summary>
 
-शूद्रोच्छिष्टमपपात्रागमनं चार्याणाम् १७
+शूद्रोच्छिष्टम्,  
++++(प्रतिलोमाद्य्-)+++अपपात्रा-गमनं चार्याणाम् १७
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/18_etAnyapi_patanIyAnItyeke.md">
 <details open><summary><h4>18 एतान्यपि पतनीयानीत्येके ...{Loading}...</h4></summary>
 
-एतान्यपि पतनीयानीत्येके १८
+एतान्यपि पतनीयानीत्य् एके १८
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/19_ato-nyAni_doShavantyashuchikarANi_bhavanti.md">
 <details open><summary><h4>19 अतोऽन्यानि दोषवन्त्यशुचिकराणि भवन्ति ...{Loading}...</h4></summary>
 
-अतोऽन्यानि दोषवन्त्यशुचिकराणि भवन्ति १९
+अतोऽन्यानि दोषवन्त्य् अशुचिकराणि भवन्ति १९
 </details>
 </div>
   
@@ -137,7 +139,9 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/18/03_ahaviShyamanRta~N_krodhaM_yena.md">
 <details open><summary><h4>03 अहविष्यमनृतङ् क्रोधं येन ...{Loading}...</h4></summary>
 
-अहविष्यम्, अनृतं, क्रोधं, येन च क्रोधयेत् । स्मृतिम् इच्छन् यशो मेधां स्वर्गं पुष्टिं द्वादशैतानि +++(प्राक्तनसूत्रोक्त-सहितानि)+++ वर्जयेत् ३
+अहविष्यम्, अनृतं, क्रोधं,  
+येन च क्रोधयेत् ।  
+स्मृतिम् इच्छन् यशो मेधां स्वर्गं पुष्टिं द्वादशैतानि +++(प्राक्तनसूत्रोक्त-सहितानि)+++ वर्जयेत् ३
 </details>
 </div>
   
@@ -185,19 +189,24 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/07_atha_patanIyAni.md">
 <details open><summary><h4>07 अथ पतनीयानि ...{Loading}...</h4></summary>
 
-अथ पतनीयानि ७
+अथ पतनीयानि+++(←द्विजातिकर्मभ्यो हानिः पतनम्)+++ ७
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/08_steyam_AbhishastyaM_.md">
 <details open><summary><h4>08 स्तेयम्, आभिशस्त्यं , ...{Loading}...</h4></summary>
 
-स्तेयम्, आभिशस्त्यं +++(=ब्रह्महत्या)+++, पुरुषवधो, ब्रह्मोज्झं, गर्भशातनम्, मातुः पितुरिति योनिसंबन्धे सहापत्ये स्त्रीगमनं, सुरापानम्, असंयोग-संयोगः ८
+स्तेयम्, आभिशस्त्यं +++(←ब्रह्महत्यादिभिर् वक्ष्यमाणैः)+++,  
+पुरुष-वधो, ब्रह्मोज्झं+++(=वेद-त्यागः)+++,  
+गर्भ-शातनम्,  
+मातुः पितुर् इति योनि-संबन्धे सहापत्ये स्त्री-गमनं,  
+सुरा-पानम्, असंयोग-संयोगः ८
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/09_gurvIsakhi~N_gurusakhi~n_cha.md">
 <details open><summary><h4>09 गुर्वीसखिङ् गुरुसखिञ् च ...{Loading}...</h4></summary>
 
-गुर्वीसखिं गुरुसखिं च गत्वा ऽन्यांश् च परतल्पान् ९
+गुर्वी-सखिं गुरु-सखिं च गत्वा  
+ऽन्यांश् च पर-तल्पान् ९
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/10_nAgurutalpe_patatItyeke.md">
@@ -272,6 +281,11 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/07/16/01_saha_devamanuShyA_asmiMl.md">
 <details open><summary><h4>01 सह देवमनुष्या अस्मिंल् ...{Loading}...</h4></summary>
 
-सह देवमनुष्या अस्मिंल् लोके पुरा बभूवुः । अथ देवाः कर्मभिर्दिवं जग्मुरहीयन्त मनुष्याः । तेषां ये तथा कर्माण्यारभन्ते सह देवैर्ब्रह्मणा चामुष्मिंल् लोके भवन्ति । अथैतन्मनुः श्राद्धशब्दं कर्म प्रोवाच १
+सह देवमनुष्या अस्मिंल् लोके पुरा बभूवुः ।  
+अथ देवाः कर्मभिर् दिवं जग्मुर्,  
+अहीयन्त मनुष्याः ।  
+तेषां ये तथा कर्माण्य् आरभन्ते  
+सह देवैर् ब्रह्मणा चामुष्मिंल् लोके भवन्ति ।  
+अथैतन् मनुः श्राद्ध-शब्दं कर्म प्रोवाच १
 </details>
 </div>

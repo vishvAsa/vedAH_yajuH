@@ -1,4 +1,5 @@
 +++
-title = "+आरण्यकम् द्राविडपाठे"
+title = "+आरण्यकम्"
 unicode_script = "devanagari"
+
 +++

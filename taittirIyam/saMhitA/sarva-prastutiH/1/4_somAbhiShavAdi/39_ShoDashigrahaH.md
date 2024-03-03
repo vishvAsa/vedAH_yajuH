@@ -36,15 +36,15 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+############ Strata
 Normal on metrical evidence alone
 
-######## Pāda-label
+############ Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-######## Morph
+############ Morph
 hárī ← hári- (nominal stem)  
 {case:NOM, gender:M, number:DU}
 
@@ -154,7 +154,7 @@ yajñám ← yajñá- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+########## English translation:
 
 “May his horses bear **Indra**, who is of irresistible prowess, to the praises and sacrifices of sages and of men.”
 </details>

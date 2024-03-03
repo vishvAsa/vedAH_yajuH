@@ -56,13 +56,13 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/20/11_bhasmatuShAdhiShThAnam.md">
 <details open><summary><h4>11 भस्मतुषाधिष्ठानम् ...{Loading}...</h4></summary>
 
-भस्मतुषाधिष्ठानम् ११
+भस्म-तुषाधिष्ठानम् ११
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/20/12_padA_pAdasya_praxAlanamadhiShThAna~n.md">
 <details open><summary><h4>12 पदा पादस्य प्रक्षालनमधिष्ठानञ् ...{Loading}...</h4></summary>
 
-पदा पादस्य प्रक्षालनमधिष्ठानं च वर्जयेत् १२
+पदा पादस्य प्रक्षालनम् अधिष्ठानं च वर्जयेत् १२
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/20/13_prenkholana~n_cha_pAdayoH.md">
@@ -103,7 +103,7 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/20/15_nakhaishcha_nakhavAdanam.md">
 <details open><summary><h4>15 नखैश्च नखवादनम् ...{Loading}...</h4></summary>
 
-नखैश्च नखवादनम् १५
+नखैश् च नखवादनम् १५
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/20/16_sphoTanAni_chAkAraNAt.md">
@@ -115,6 +115,6 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/20/17_yachchAnyatparichaxate.md">
 <details open><summary><h4>17 यच्चान्यत्परिचक्षते ...{Loading}...</h4></summary>
 
-यच्चान्यत्परिचक्षते १७
+यच् चान्यत् परिचक्षते १७
 </details>
 </div>

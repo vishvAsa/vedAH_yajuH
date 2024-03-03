@@ -84,10 +84,10 @@ title = "०३ बन्धनम्"
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/05_bRhathsAma_khShatrabhRd.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-बृ॒हथ्-साम॑ ख्षत्र॒-भृद् वृ॒द्ध-वृ॑ष्णियन्   
-त्रि॒ष्टुभौज॑श् शुभि॒तम् उ॒ग्र-वी॑रम् ।    
+बृ॒हथ्-साम॑ ख्षत्र॒-भृद् वृ॒द्ध-वृ॑ष्णियन्,   
+त्रि॒ष्टुभौज॑श् शुभि॒तम् उ॒ग्र-वी॑रम् +++(इति सन्ति, तैः)+++।    
 इन्द्र॒ स्तोमे॑न पञ्च-द॒शेन॒ मध्य॑म्  
-इ॒दव्ँ वाते॑न॒ सग॑रेण **रख्ष** ।
+इ॒दव्ँ वाते॑न॒ सग॑रेण +++(च)+++ **रख्ष** ।
 </details>
 </div>
 

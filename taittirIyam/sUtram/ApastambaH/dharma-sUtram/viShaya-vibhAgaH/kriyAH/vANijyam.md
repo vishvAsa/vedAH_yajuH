@@ -12,31 +12,44 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/20/12_yAnrasAnrAgAngandhAnanna~n_charma_gavAM.md">
 <details open><summary><h4>12 यान्रसान्रागान्गन्धानन्नञ् चर्म गवां ...{Loading}...</h4></summary>
 
-यान्रसान्रागान्गन्धानन्नं चर्म गवां वशां श्लेष्मोदके तोक्मकिण्वे पिप्पलिमरीचे धान्यं मांसमायुधं सुकृताशां च १२
+… मनुष्यान्,  
+रसान्, रागान्, गन्धान्,  
+अन्नं,  
+चर्म, गवां वशां+++(=वन्ध्य-गाम्)+++  
+श्लेष्म+++(=glue)++++उदके,  
+तोक्म+++(=अङ्कुराणि)+++-किण्वे+++(=सुरादि)+++  
+पिप्पलि+++(=रक्त-मरीच)+++-मरीचे  
+धान्यं, मांसम्,  
+आयुधं, सुकृताशां च १२+++(5)+++
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/20/13_manuSh_tilataNDulAMstveva_dhAnyasya.md">
-<details open><summary><h4>13 मनुष् तिलतण्डुलांस्त्वेव धान्यस्य ...{Loading}...</h4></summary>
+<details open><summary><h4>13 तिलतण्डुलांस्त्वेव धान्यस्य ...{Loading}...</h4></summary>
 
-मनुष् तिलतण्डुलांस्त्वेव धान्यस्य विशेषेण न विक्रीणीयात् १३
+तिल-तण्डुलांस् त्व् एव धान्यस्य  
+विशेषेण न विक्रीणीयात् १३
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/20/14_avihitashchaiteShAm_mitho_vinimayaH.md">
 <details open><summary><h4>14 अविहितश्चैतेषाम् मिथो विनिमयः ...{Loading}...</h4></summary>
 
-अविहितश्चैतेषां मिथो विनिमयः १४
+अविहितश् चैतेषां मिथो विनिमयः १४
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/20/15_annena_chAnnasya_manuShyANA~n.md">
 <details open><summary><h4>15 अन्नेन चान्नस्य मनुष्याणाञ् ...{Loading}...</h4></summary>
 
-अन्नेन चान्नस्य मनुष्याणां च मनुस्यै रसानां च रसैर्गन्धानां च गन्धैर्विद्यया च विद्यानाम् १५
+अन्नेन चान्नस्य,  
+मनुष्याणां च मनुष्यैः,  
+रसानां च रसैर्,  
+गन्धानां च गन्धैर्,  
+विद्यया च विद्यानाम् १५
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/20/16_akrItapaNyairvyavahareta.md">
 <details open><summary><h4>16 अक्रीतपण्यैर्व्यवहरेत ...{Loading}...</h4></summary>
 
-अक्रीतपण्यैर्व्यवहरेत १६
+अ-क्रीतपण्यैर् व्यवहरेत १६
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/01_munjabalbajairmUlaphalaiH.md">
