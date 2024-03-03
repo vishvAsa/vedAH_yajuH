@@ -167,3 +167,4 @@ with the lordship of Indra, of Brhaspati, I anoint thee.
 
 
 व्याहृतिभिश्च यजमानं प्रोक्षयेत् । 
+
