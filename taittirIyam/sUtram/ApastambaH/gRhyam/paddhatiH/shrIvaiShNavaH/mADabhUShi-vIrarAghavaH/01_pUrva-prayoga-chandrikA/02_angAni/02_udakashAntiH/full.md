@@ -270,10 +270,7 @@ title = "+०२ उदकशान्तिः (पूर्णपाठः)"
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/016/10_agna_A.md">
 <details open><summary><h10>१० अग्न आ ...{Loading}...</h10></summary>
 
-
-+++([सायणो [ऽत्र](https://archive.org/stream/RgVedaWithSayanasCommentaryPart3/rv_sayanabhasya_part3#page/n145/mode/2up&sa=D&ust=1542425956351000)। भरद्वाजः। गायत्री। अग्निः।])+++
-
-अग्न आ या॑हि वी॒तये +++(=हविर्भक्षणाय)+++  
+अग्न॒ आ या॑हि वी॒तये॑ +++(=हविर्भक्षणाय)+++  
 गृणा॒नो +++(=स्तूयमानः)+++ ह॒व्यदा॑तये +++(देवेभ्यः)+++ ।  
 नि होता॑ सत्सि ब॒र्हिषि॑ ।।
 
