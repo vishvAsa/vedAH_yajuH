@@ -22,8 +22,6 @@ title = "०१ रेखा-कर्षः"
 स बु॒ध्न्या॑ +++(=मूले भवः ([खस्य सूर्यः]))+++ उप॒मा अ॑स्य वि॒ष्ठाः +++(=विस्थितः)+++,  
 स॒तश्च॒ योनि॒म् +++(सूर्यम्)+++ अस॑तश्च॒ विवः॑ +++(=विवृतवान्)+++  ।
 
-{{< figure src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/venus_morning_star.jpg"  class="thumbnail">}}
-
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/123/06_nAke_suparNamupa.md">
@@ -48,7 +46,7 @@ title = "०१ रेखा-कर्षः"
 </details>
 </div>  
 
-## इदीचीः
+## उदीचीः
 'यो रुद्रो अग्नौ’ इति मध्ये,  
 'इदं विष्णु'रिति पश्चात्,  
 'इन्द्रं विश्वा अवीवृधन्' इति पुरस्ताद्  

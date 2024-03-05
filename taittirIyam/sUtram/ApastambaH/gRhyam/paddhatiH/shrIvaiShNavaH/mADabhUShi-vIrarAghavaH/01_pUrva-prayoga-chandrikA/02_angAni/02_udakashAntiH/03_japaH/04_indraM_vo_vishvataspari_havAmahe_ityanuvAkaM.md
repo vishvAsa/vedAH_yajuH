@@ -18,9 +18,9 @@ title = "०४ ‘इन्द्रं वो विश्वतस्पर�
 </details>
 
 
-########  पशुकामस्यैन्द्रेष्टेः  
+#####  पशुकामस्यैन्द्रेष्टेः  
 
-######### पुरोनुवाक्या
+###### पुरोनुवाक्या
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1'ऐन्द्रं चरुं निर्वपेत्पशुकामः' इत्यस्य पुरोनुवाक्या - इन्द्रं व इति गायत्री ॥ याजमानब्राह्मणमध्ये याज्याकाण्डं वैश्वदेवम् ।
@@ -51,14 +51,14 @@ title = "०४ ‘इन्द्रं वो विश्वतस्पर�
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-#################### Strata
+###### Strata
 Strophic on metrical evidence alone
 
-#################### Pāda-label
+###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#################### Morph
+###### Morph
 índram ← índra- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -147,7 +147,7 @@ kévalaḥ ← kévala- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-################### English translation:
+###### English translation:
 
 “We invoke for you, **Indra**, who is everywhere among men; may he be exclusively our own.”
 </details>
@@ -227,7 +227,7 @@ Wir rufen euch den Indra her von allen Orten, jedem Volk; Uns sei er eigen, kein
 </details>
 </div>  
 
-######### याज्या
+###### याज्या
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2तत्रैव याज्या - इन्द्रं नर इति त्रिष्टुप् ॥ 
@@ -261,15 +261,15 @@ Wir rufen euch den Indra her von allen Orten, jedem Volk; Uns sei er eigen, kein
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-#################### Strata
+###### Strata
 Strophic
 
-#################### Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-#################### Morph
+###### Morph
 havante ← √hū- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:MED}
 
@@ -463,7 +463,7 @@ vrajé ← vrajá- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-################### English translation:
+###### English translation:
 
 “Men invoke **Indra** in battle when those actions which lead to victory are performed; do you who are hero, the benefactor of man, the desirer of prowess, plural ce us in possession of pastures abounding with cattle.”
 </details>
@@ -547,8 +547,8 @@ Den Indra rufen im Gefecht die Männer, dass er erfolgreich diese Bitten mache; 
 </details>
 </div>  
 
-######## इन्द्रियावद्यागे 
-######### पुरोनुवाक्या
+##### इन्द्रियावद्यागे 
+###### पुरोनुवाक्या
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3'इन्द्रायेन्द्रियावते पुरोडाशमेकादशकपालं निर्वपेत्' इत्यस्य पुरोनुवाक्या - इन्द्रियाणीति गायत्री ॥ 
@@ -579,14 +579,14 @@ Den Indra rufen im Gefecht die Männer, dass er erfolgreich diese Bitten mache; 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-#################### Strata
+###### Strata
 Strophic on metrical evidence alone
 
-#################### Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M
-#################### Morph
+###### Morph
 indriyā́ṇi ← indriyá- (nominal stem)  
 {case:NOM, gender:N, number:PL}
 
@@ -688,7 +688,7 @@ vr̥ṇe ← √vr̥- ~ vr̥̄- (root)
 </details>
 <details><summary>Wilson</summary>
 
-################### English translation:
+###### English translation:
 
 “**Indra**, object of many rites, I regard the organs of sense, that exist in the five races (of beings dependent) on you as yours.”
 </details>
@@ -768,7 +768,7 @@ Die Indrakräfte wünsch' ich her, die, Indra, hundertwirkender, Du bei den fün
 </details>
 </div>  
 
-######### याज्या
+###### याज्या
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4तत्रैव याज्या - अनु त इति त्रिष्टुप् ॥
@@ -801,15 +801,15 @@ Die Indrakräfte wünsch' ich her, die, Indra, hundertwirkender, Du bei den fün
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-#################### Strata
+###### Strata
 Archaic
 
-#################### Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-#################### Morph
+###### Morph
 ánu ← ánu (invariable)  
 {}
 
@@ -998,7 +998,7 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-################### English translation:
+###### English translation:
 
 “All (power) has been successively conceded verily to you, **Indra**, who are mighty, for the destruction of the foe; suitable vigour, suitable strength in battle (has been given) to you, adorable Indra, by the gods.”
 </details>
@@ -1077,8 +1077,8 @@ Dir räumten alles ein die Götter alle, der grossen Indramacht beim Vritrakampf
 </div>  
 
 
-######## घर्मवद्यागे 
-######### पुरोनुवाक्या
+##### घर्मवद्यागे 
+###### पुरोनुवाक्या
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5'इन्द्राय घर्मवते पुरोडाशमेकादशकपालं निर्वपेद्ब्रह्मवर्चसकामः' इत्यस्य पुरोनुवाक्या - आ यस्मिन्नित्यनुष्टुप् ॥ 
@@ -1134,7 +1134,7 @@ The glowing pot is the guest of Indra.
 </div>  
 
 
-######### याज्या
+###### याज्या
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 6तत्रैव याज्या - आमास्विति पथ्याबृहती, तृतीयपादस्य द्वादशाक्षरत्वात् ॥ 
@@ -1167,15 +1167,15 @@ The glowing pot is the guest of Indra.
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-#################### Strata
+###### Strata
 Strophic
 
-#################### Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-#################### Morph
+###### Morph
 aírayaḥ ← √īr- (root)  
 {number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
 
@@ -1339,14 +1339,14 @@ júṣṭam ← júṣṭa- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-################### English translation:
+###### English translation:
 
 “In the immature (cows) you produced the mature (milk),  
 you caused the sun to arise in heaven,(priests),  
 excite (**Indra**) with your praises  
 as men heat the **gharma** with **sāman** hymns. (sing) the acceptableBṛhat sāman to him who is to be honoure dby song.”
 
-################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 You caused the sun to arise in heaven: repetition of the legend of he **paṇis** and the stolen cows of the **Aṅgirasas**. The Ṛṣis implored Indra for help, who, seeing that the stronghold of the **asuras** was enveloped in thick darkness, set the sun in the sky to dispel it; as men heat the gharma: for the hymns of the ceremony of heating the **mahāvīra** or gharma pot, used in the pravargya ceremony; cf. **Aitareya** **Brāhmaṇa** 1.21
 </details>
@@ -1394,8 +1394,8 @@ In rohen schufst du gare Milch, erhobst die Sonn' am Himmelsraum, Entflammt wie 
 </div>  
 
 
-######## अर्कवद्-यागे 
-######### पुरोनुवाक्या
+##### अर्कवद्-यागे 
+###### पुरोनुवाक्या
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 7'इन्द्रायार्कवते पुरोडाशमेकादशकपालं निर्वपेदन्नकामः' इत्यस्य पुरोनुवाक्या - इन्द्रमिदिति गायत्री ॥ 
@@ -1426,14 +1426,14 @@ In rohen schufst du gare Milch, erhobst die Sonn' am Himmelsraum, Entflammt wie 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-#################### Strata
+###### Strata
 Strophic on metrical evidence alone
 
-#################### Pāda-label
+###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#################### Morph
+###### Morph
 br̥hát ← br̥hánt- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -1551,11 +1551,11 @@ vā́ṇīḥ ← vā́ṇī- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-################### English translation:
+###### English translation:
 
 “The chanters (of the **Soma**) extol **Indra** with songs, the reciters of the Ṛk with prayers, the priests of the **Yajuṣ**, with texts.”
 
-################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Gāthina = singers; gīyamānasāma-**yuktā** udgātāraḥ, the **udgatās** with **sāmas** to be chanted;
 
@@ -1646,7 +1646,7 @@ Den Indra preist der Sänger Schar, mit Preisgesang die preisenden, Den Indra la
 </div>  
 
 
-######### याज्या
+###### याज्या
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8तत्रैव याज्या - गायन्तीत्यनुष्टुप् ॥ 
@@ -1679,15 +1679,15 @@ Den Indra preist der Sänger Schar, mit Preisgesang die preisenden, Den Indra la
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-#################### Strata
+###### Strata
 Normal
 
-#################### Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-#################### Morph
+###### Morph
 gā́yanti ← √gā(y)- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -1848,11 +1848,11 @@ yemire ← √yam- (root)
 </details>
 <details><summary>Wilson</summary>
 
-################### English translation:
+###### English translation:
 
 “The chanters (of the **Soma**) hymn you, **Śatakratu**; the reciters of the Ṛk praise you, who are worthy of praise; the Bra-hmaṇas raise you aloft, like a bamboo pole.”
 
-################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Gāyatriṇaḥ = lit. those who use **gāyatrī** metre: **udgātā**, chanter of **Sāma** hymns;
 
@@ -1946,8 +1946,8 @@ Die Sänger singen dir ein Lied und Preisgesang die preisenden; Die Beter haben 
 </details>
 </div>  
 
-######## अंहोमुग्यागे 
-######### पुरोनुवाक्या
+##### अंहोमुग्यागे 
+###### पुरोनुवाक्या
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 9'इन्द्रायांहोमुचे पुरोडाशमेकादशकपालं निर्वपेद् यः पाप्मना गृहीतस् स्यात्' इत्यस्य पुरोनुवाक्या - अंहोमुच इति त्रिष्टुप् ॥ 
@@ -1998,7 +1998,7 @@ May the desires of the sacrificer be fulfilled.
 </details>
 </div>  
 
-######### याज्या
+###### याज्या
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 10तत्रैव याज्या - विवेषेति त्रिष्टुप् ॥ 
@@ -2031,15 +2031,15 @@ May the desires of the sacrificer be fulfilled.
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-#################### Strata
+###### Strata
 Normal
 
-#################### Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-#################### Morph
+###### Morph
 dhiṣáṇā ← dhiṣáṇā- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -2223,7 +2223,7 @@ yā́ntam ← √yā- 1 (root)
 </details>
 <details><summary>Wilson</summary>
 
-################### English translation:
+###### English translation:
 
 “When the thought of glorifying **Indra** entered my mind, then I gave birth (to his praises); may I laud him before encountering distant (evil) days, whereby he may guide us beyond sin; for those on both sides of us invoke him, as (those on either bank of a river hail) a passenger in a boat.”
 </details>
@@ -2314,7 +2314,7 @@ Wenn mich der Trunk ergriffen und erregt hat, dann preis' ich Indra vor dem Tag 
 
 
 
-######### याज्या
+###### याज्या
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 11तत्रैव याज्या विकल्प्यते - प्र सम्राजमिति त्रिष्टुप् ॥ 
@@ -2363,8 +2363,8 @@ Do ye confer power and strength on this one.
 
 
 
-######## वैमृधयागे  
-######### पुरोनुवाक्या
+##### वैमृधयागे  
+###### पुरोनुवाक्या
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 12इन्द्राय वैमृधाय पुरोडाशमेकादशकपालं निर्वपेद्यम्मृधोभि प्रवेपेरन्राष्ट्राणि वाभि समियुरिन्द्रमेव वैमृधम्' इत्यस्य पुरोनुवाक्या - वि न इन्द्रेत्यनुष्टुप् ॥ 
@@ -2406,7 +2406,7 @@ Who is hostile to us.
 
 
 
-######### याज्या
+###### याज्या
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 13तत्रैव याज्या - इन्द्र क्षत्रमिति त्रिष्टुप् ॥ 
@@ -2439,15 +2439,15 @@ Who is hostile to us.
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-#################### Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#################### Pāda-label
+###### Pāda-label
 popular  
 popular  
 popular  
 popular
-#################### Morph
+###### Morph
 abhí ← abhí (invariable)  
 {}
 
@@ -2593,7 +2593,7 @@ urúm ← urú- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-################### English translation:
+###### English translation:
 
 “You have been born, **Indra**, endowed with protecting and desirable vigour; benefactor of mankind, youdid drive away the man who was unfriendly(to us), you prepared a spacious region for the gods.”
 </details>
@@ -2654,7 +2654,7 @@ Zu grosser Macht und Herrschaft bist du, Indra, geboren als der Lebenden Gebiete
 </div>  
 
 
-######### याज्या
+###### याज्या
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 14याज्याविकल्पः - मृगो नेति त्रिष्टुप् । 
@@ -2700,7 +2700,7 @@ Smite the foes, drive away the enemy.
 
 
 
-######### याज्या
+###### याज्या
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 15अतश्च विकल्पः - वि शत्रूनित्यनुष्टुप् ॥ 
@@ -2738,8 +2738,8 @@ Of him who is hostile to us.
 
 
 
-######## त्रातृयागे 
-######### पुरोनुवाक्या
+##### त्रातृयागे 
+###### पुरोनुवाक्या
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 16 'इन्द्राय त्रात्रे पुरोडाशमेकादशकपालं निर्वपेद्बद्धो वा परियत्तो वा' इत्यस्य पुरोनुवाक्या - त्रातारमिन्द्रमिति त्रिष्टुप् ॥ 
@@ -2777,7 +2777,7 @@ May Indra in his bounty bestow on us prosperity
 
 
 
-######### याज्या
+###### याज्या
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 17तत्रैव याज्या - मा ते अस्यामिति त्रिष्टुप् ॥ 
@@ -2830,8 +2830,8 @@ May we be dear to you among the princes.
 
 
 
-######## अर्काश्वमेधवद्यागे 
-######### पुरोनुवाक्या
+##### अर्काश्वमेधवद्यागे 
+###### पुरोनुवाक्या
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 18'इन्द्रायार्काश्वमेधवते पुरोडाशमेकादशकपालं निर्वपेद्यं महायज्ञो नोपनमेत्' इत्यस्य पुरोनुवाक्या - अनवस्त इति त्रिष्टुप् ॥ 
@@ -2864,15 +2864,15 @@ May we be dear to you among the princes.
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-#################### Strata
+###### Strata
 Normal
 
-#################### Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-#################### Morph
+###### Morph
 ánavaḥ ← ánu- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -3024,11 +3024,11 @@ u ← u (invariable)
 </details>
 <details><summary>Wilson</summary>
 
-################### English translation:
+###### English translation:
 
 “The **Ṛbhus** have fabricated your car, **Indra**, the invoked of many, adapted to its horses; **Tvaṣṭā** (had made) your radiant thunderbolt; the venerable (**Aṅgirasas**), praising Indra with hymns, have given him vigour for the destruction of Ahi.”
 
-################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 The Ṛbhus: **anavaḥ** is the text, explained **manuṣyaḥ** and applied to **ṛbhavaḥ**; the venerable aṅgirasas: brāhmaṇāḥ, **brāhmaṇas** is the text, explained as **aṅgirasaḥ**
 </details>
@@ -3119,7 +3119,7 @@ Die Menschen machten für dein Ross den Wagen Tvaschtar den lichten Blitz, o vie
 </div>  
 
 
-######### याज्या
+###### याज्या
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 19तत्रैव याज्या - वृष्ण इति त्रिष्टुप् ॥ 

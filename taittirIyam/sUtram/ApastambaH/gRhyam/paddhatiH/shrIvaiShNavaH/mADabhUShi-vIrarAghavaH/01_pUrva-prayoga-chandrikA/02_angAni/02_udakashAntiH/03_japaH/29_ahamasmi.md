@@ -272,7 +272,7 @@ title = "२९ 'अहमस्मि',"
 </details>
 </div>
 
-######## वाक्
+##### वाक्
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/2/8_kAmya-pashavaH/8_09-14_devIm_vAcham/">
 <details open><summary><h9>०९-१४ देवीं वाचम् ...{Loading}...</h9></summary>
@@ -311,15 +311,15 @@ title = "२९ 'अहमस्मि',"
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############################## Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-############################## Pāda-label
+###### Pāda-label
 popular  
 popular  
 popular  
 popular
-############################## Morph
+###### Morph
 ajanayanta ← √janⁱ- (root)  
 {number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
 
@@ -501,11 +501,11 @@ ______________
 </details>
 <details><summary>Wilson</summary>
 
-############################# English translation:
+###### English translation:
 
 “The gods produced the goddess Vāk; her do animals of every kind utter; may she, Vāk, theall-gladdening cow, yielding meat and drink, come to us, worthily praised.”
 
-############################# Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 The thunder entering into all beings,becomes the speaker of moral truth, eṣā **mādhyamikā** vāk sarvaprāṇyantargatā dharmābhivādinībhavati; animals of every kind: whether their utterance be articulare or inarticulate
 </details>
@@ -581,15 +581,15 @@ Die Göttin Vāk haben die Götter erzeugt, die vielgestaltigen Thieren reden si
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############################## Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-############################## Pāda-label
+###### Pāda-label
 popular  
 popular  
 popular  
 popular
-############################## Morph
+###### Morph
 avicetanā́ni ← avicetaná- (nominal stem)  
 {case:NOM, gender:N, number:PL}
 
@@ -739,11 +739,11 @@ _________________
 </details>
 <details><summary>Wilson</summary>
 
-############################# English translation:
+###### English translation:
 
 “When Vāk, the **queen**, the gladdener of the gods, sits down (in the sacrifice) uttering things not to beunderstood, she milks water and food for the four quarters (of the earth); whither now is her best portion gone?”
 
-############################# Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 **Nirukta** 11.28: Vāk here is the thunder; cf. RV 8.69.14; best portion = the rain, which sinks in the earth or istaken up by the sun's rays
 </details>
@@ -943,15 +943,15 @@ Wenn Vāk [die Stimme], die Königin der Götter, unverständliche Worte [den Do
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############################## Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-############################## Pāda-label
+###### Pāda-label
 popular  
 popular  
 popular  
 popular
-############################## Morph
+###### Morph
 catvā́ri ← catúr- (nominal stem)  
 {case:ACC, gender:N, number:PL}
 
@@ -1124,11 +1124,11 @@ ______________
 </details>
 <details><summary>Wilson</summary>
 
-############################# English translation:
+###### English translation:
 
 “Four are the definite grades of spech; those **Brahmaṇas** who are wise know them; three, deposited in secret, indicate no meaning; men speak the fourth grade of speech.”
 
-############################# Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Four are: catvāri vākparimitā padāni: the language of the **mantras**, the **kalpa**, the **brāhmaṇa** and **laukika**, or current speech (**Taittirīya** Samhitā 1.31.2); those **brāhmaṇas**: brāhmaṇā ye manīṣiṇaḥ: brāhmaṇā = those acquainted with the **śabdabrahma**, **brahma** as the word, or, the **yogis**, mystics; fourth grad eof speech: vāk, speech, was created fourfold, three kinds of which are in the three regions, the fourth amongst the **paśus**; the form on earth, associated with **Agni** is in the **rathantara**; the form in the firmament, associated with **Vāyu**, is in the **Vāmadevya** mantras; that which is in heaven, with **Āditya**, is **Bṛhatī**, or in the thunder (stanayitnau); whatever else was more than this was plural ced amongst the paśus, liṭ, animals; here the brāhmaṇas are implied: **atha** paśuṣu tato yā vāg atiricyate tām brāhmaṇeṣu adaduḥ; thus, the brāhmaṇas speak both languages, that of the gods and that of man (tasmād brāhmaṇā ubharyo vācam vadanti yā ca devānām yā ca manuṣyāṇa(m (**Nirukta** 13.9)
 </details>
@@ -1201,7 +1201,7 @@ Die Rede hat vier abgegrenzte Gattungen; die sind bekannt den Brahmanen, welche 
 </details>
 </div>
 
-######## श्रद्धा
+##### श्रद्धा
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/2/8_kAmya-pashavaH/8_15-20_shraddhayA/">
 <details open><summary><h9>८ १५-२० श्रद्धया ...{Loading}...</h9></summary>
@@ -1237,15 +1237,15 @@ Die Rede hat vier abgegrenzte Gattungen; die sind bekannt den Brahmanen, welche 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############################## Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-############################## Pāda-label
+###### Pāda-label
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
-############################## Morph
+###### Morph
 agníḥ ← agní- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -1354,7 +1354,7 @@ ______________
 </details>
 <details><summary>Wilson</summary>
 
-############################# English translation:
+###### English translation:
 
 “**Agni** is kindled by **Śraddhā**, by Śraddhā is the oblation offered; with our praise we glorifyFaith, of the family of Love; cf. **Nirukta** 9.31\].”
 </details>
@@ -1444,15 +1444,15 @@ Durch Glauben wird das Feu'r entflammt, durch Glauben Opferguss geweiht; Auch au
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############################## Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-############################## Pāda-label
+###### Pāda-label
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
-############################## Morph
+###### Morph
 dádataḥ ← √dā- 1 (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
 
@@ -1574,7 +1574,7 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-############################# English translation:
+###### English translation:
 
 “O Śraddhā\_, grant the desire of the donor (of the oblation), grant, O **Śraddhā**, the desire of himwho wishes to give, grant this boon which I have mentioned to my sacrificers who solicit happiness.”
 </details>
@@ -1656,15 +1656,15 @@ O Glaube, lieb mach dieses Wort des Spenders, der noch spenden will, Mach lieb e
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############################## Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-############################## Pāda-label
+###### Pāda-label
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
-############################## Morph
+###### Morph
 ásureṣu ← ásura- (nominal stem)  
 {case:LOC, gender:M, number:PL}
 
@@ -1783,7 +1783,7 @@ __________
 </details>
 <details><summary>Wilson</summary>
 
-############################# English translation:
+###### English translation:
 
 “As the gods had faith in (their fight with) the **Asuras**, so grant the boon which has been asked for toour sacrificers who solicit happiness.”
 </details>
@@ -1864,15 +1864,15 @@ Wie Götter der Asurenschar, der starken, schenkten ihr Vertraun, So mache du au
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############################## Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-############################## Pāda-label
+###### Pāda-label
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
-############################## Morph
+###### Morph
 devā́ḥ ← devá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -1977,11 +1977,11 @@ ___________________
 </details>
 <details><summary>Wilson</summary>
 
-############################# English translation:
+###### English translation:
 
 “Gods, worshippers, and those who are protected by **Vāyu**, solicit **Śraddhā**, (they cherish) Śraddhāwith heartfelt desire, through Śraddhā a man acquires wealth.”
 
-############################# Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 **Yajus**. 8.44; **Nirukta** 7.2
 </details>
@@ -2063,15 +2063,15 @@ Den Glauben ehren andachtsvoll die Götter, die der Wind beschirmt; Der Glaube w
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############################## Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-############################## Pāda-label
+###### Pāda-label
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
-############################## Morph
+###### Morph
 havāmahe ← √hū- (root)  
 {number:PL, person:1, mood:IND, tense:PRS, voice:MED}
 
@@ -2188,7 +2188,7 @@ _________________
 </details>
 <details><summary>Wilson</summary>
 
-############################# English translation:
+###### English translation:
 
 “We invoke **Śraddhā** at dawn, and again at midday, and also at the setting of the sun; inspire us inthis world, Śraddhā, with faith.”
 </details>
@@ -2270,7 +2270,7 @@ Den Glauben rufen Morgens wir, den Glauben in der Mittagszeit Den Glauben, wenn 
 </details>
 </div>
 
-######## ब्रह्म
+##### ब्रह्म
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam">
 <details open><summary><h9>८ २१-२६ ब्रह्म जज्ञानम् ...{Loading}...</h9></summary>
@@ -2288,8 +2288,6 @@ Den Glauben rufen Morgens wir, den Glauben in der Mittagszeit Den Glauben, wenn 
 वि सी॑म॒तस् सु॒रुचो॑ वे॒न आ॑वः ।  
 स बु॒ध्न्या॑ +++(=मूले भवः ([खस्य सूर्यः]))+++ उप॒मा अ॑स्य वि॒ष्ठाः +++(=विस्थितः)+++,  
 स॒तश्च॒ योनि॒म् +++(सूर्यम्)+++ अस॑तश्च॒ विवः॑ +++(=विवृतवान्)+++  ।
-
-{{< figure src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/venus_morning_star.jpg"  class="thumbnail">}}
 
 </details>
 </div>
@@ -2497,7 +2495,7 @@ Den Glauben rufen Morgens wir, den Glauben in der Mittagszeit Den Glauben, wenn 
 </details>
 </div>
 
-######## गौः
+##### गौः
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/2/8_kAmya-pashavaH/8_27-33_A_gAvo">
 <details open><summary><h9>८ २७-३३ आ गावो अग्मन् ...{Loading}...</h9></summary>
@@ -2533,15 +2531,15 @@ Den Glauben rufen Morgens wir, den Glauben in der Mittagszeit Den Glauben, wenn 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############################## Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-############################## Pāda-label
+###### Pāda-label
 popular  
 popular  
 popular  
 popular
-############################## Morph
+###### Morph
 ā́ ← ā́ (invariable)  
 {}
 
@@ -2705,7 +2703,7 @@ uṣásaḥ ← uṣás- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-############################# English translation:
+###### English translation:
 
 “May the cows come and bring good fortune; let them lie down in (our) stalls and be plural ased with us; may the many-coloured kine here be parboiled milk for **Indra** on many dawns.”
 </details>
@@ -2816,15 +2814,15 @@ Gekommen sind die Kühe, Holdes wirkend, sie mögen ruhn im Stall, bei uns sich 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############################## Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-############################## Pāda-label
+###### Pāda-label
 popular  
 popular  
 popular  
 popular
-############################## Morph
+###### Morph
 ca ← ca (invariable)  
 {}
 
@@ -2995,11 +2993,11 @@ ní ← ní (invariable)
 </details>
 <details><summary>Wilson</summary>
 
-############################# English translation:
+###### English translation:
 
 “**Indra** grants the desires of the man who offers to him sacrifice and praise; he ever bestows upon him wealth, and deprives him not of that which is his own; again and again increasing his riches, he plural ces the devout man in an inaccessible fortress.”
 
-############################# Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Abhinna khilye: śatrubhirabhetavye, not to be breached by enemies;
 
@@ -3153,15 +3151,15 @@ Indra schenkt Gut dem opfernden und spendenden; er theilt ihm mit und entzieht i
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############################## Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-############################## Pāda-label
+###### Pāda-label
 popular  
 popular  
 popular  
 popular
-############################## Morph
+###### Morph
 árvā ← árvan- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -3346,11 +3344,11 @@ ___________________
 </details>
 <details><summary>Wilson</summary>
 
-############################# English translation:
+###### English translation:
 
 “Let not the dust-spurning (war) horse reach them nor let them fall in the way of sacrificial consecration let the cattle of the man who offers sacrifice wander about at large and without fear.”
 
-############################# Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Not let them fall: na saṃskṛtatram abhyupayanti = viśasanādisaṃskādisaṃskāram nābhyupagacchantu, let them not go right to the consecration of immolation; as metonymy, perhaps the cows means their produce, milk and butter, which are constantly offered
 </details>
@@ -3492,15 +3490,15 @@ Nicht holt ein Kriegsross mit bestäubtem Kopf sie ein, noch werden je sie zu de
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############################## Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-############################## Pāda-label
+###### Pāda-label
 popular  
 popular  
 popular  
 popular
-############################## Morph
+###### Morph
 cit ← cit (invariable)  
 {}
 
@@ -3669,11 +3667,11 @@ váyaḥ ← váyas- 2 (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-############################# English translation:
+###### English translation:
 
 “Do you, cows, give us nourisment; render the emaciated, the unlovely body the reverse; do you, whose lowing is auspicious, make my dwelling prosperous; great is the abundance that is attributed to you in religious assemblies.”
 
-############################# Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Bṛhad vo **vaya** ucyate sabhāsu, great of you the food is said in assemblies; or, great is the food given to you in assemblies, it is given by all, sarvair dīyate ityarthaḥ
 </details>

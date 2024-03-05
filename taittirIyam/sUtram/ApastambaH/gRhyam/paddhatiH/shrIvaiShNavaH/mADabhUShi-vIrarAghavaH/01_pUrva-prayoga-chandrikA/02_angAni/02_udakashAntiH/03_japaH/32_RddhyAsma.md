@@ -7,7 +7,7 @@ title = "३२ ‘ऋद्ध्यास्म',"
 <details open><summary><h4>२, यमनक्षत्राणां याज्यानुवाक्याः ...{Loading}...</h4></summary>
 
 
-######## अनूराधाः - मित्रः
+##### अनूराधाः - मित्रः
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/01_RddhyAsma.md">
 <details open><summary><h6>01 ऋद्ध्यास्म ...{Loading}...</h6></summary>
@@ -91,7 +91,7 @@ title = "३२ ‘ऋद्ध्यास्म',"
 
 
 
-######## ज्येष्ठा - इन्द्रः
+##### ज्येष्ठा - इन्द्रः
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/03_indro_jyeShThAmanu.md">
 <details open><summary><h6>03 इन्द्रो ज्येष्ठामनु ...{Loading}...</h6></summary>
@@ -159,7 +159,7 @@ title = "३२ ‘ऋद्ध्यास्म',"
 
 
 {इन्द्रा॑य॒ स्वाहा॑ ज्ये॒ष्ठायै॒ स्वाहा॑।  
-ज्ये॒ष्ठया॑य॒ स्वाहा॒ ऽभिजि॑त्यै॒ स्वाहा॑।}
+ज्यैष्ठ्या॑य॒ स्वाहा॒ ऽभिजि॑त्यै॒ स्वाहा॑।}
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/16_jyeShThA/">
 <details open><summary><h9>१६ ज्येष्ठा ...{Loading}...</h9></summary>
@@ -178,7 +178,7 @@ title = "३२ ‘ऋद्ध्यास्म',"
 
 
 
-######## मूलम् - निरृतिः
+##### मूलम् - निरृतिः
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/05_mUlamprajAv.N_vIravatIv.N.md">
 <details open><summary><h6>05 मूलम्प्रजाव्ँ वीरवतीव्ँ ...{Loading}...</h6></summary>
@@ -264,7 +264,7 @@ title = "३२ ‘ऋद्ध्यास्म',"
 
 
 
-######## अषाढाः पूर्वाः - आपः
+##### अषाढाः पूर्वाः - आपः
 
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/07_yA_divyA.md">
@@ -353,7 +353,7 @@ title = "३२ ‘ऋद्ध्यास्म',"
 
 
 
-######## अषाढाः उत्तराः - विश्वे देवाः
+##### अषाढाः उत्तराः - विश्वे देवाः
 
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/09_tanno_vishve.md">
@@ -437,7 +437,7 @@ title = "३२ ‘ऋद्ध्यास्म',"
 
 
 
-######## अभिजित्
+##### अभिजित्
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/11_yasminbrahmA-bhyajayathsarvametat.md">
 <details open><summary><h6>11 यस्मिन्ब्रह्माऽभ्यजयथ्सर्वमेतत् ...{Loading}...</h6></summary>
@@ -524,7 +524,7 @@ title = "३२ ‘ऋद्ध्यास्म',"
 
 
 
-######## श्रोणा / श्रवणम् - विष्णुः
+##### श्रोणा / श्रवणम् - विष्णुः
 
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/13_shRNvanti_shroNAmamRtasya.md">
@@ -612,7 +612,7 @@ title = "३२ ‘ऋद्ध्यास्म',"
 
 
 
-######## धनिष्ठाः/ श्रविष्ठाः - वसवः
+##### धनिष्ठाः/ श्रविष्ठाः - वसवः
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/15_aShTau_devA.md">
 <details open><summary><h6>15 अष्टौ देवा ...{Loading}...</h6></summary>
@@ -698,7 +698,7 @@ title = "३२ ‘ऋद्ध्यास्म',"
 
 
 
-######## शतभिषग् - वरुणः
+##### शतभिषग् - वरुणः
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/17_khShatrasya_rAjA.md">
 <details open><summary><h6>17 ख्षत्रस्य राजा ...{Loading}...</h6></summary>
@@ -788,7 +788,7 @@ title = "३२ ‘ऋद्ध्यास्म',"
 
 
 
-######## प्रोष्ठपदाः/ भाद्रपदाः पूर्वाः - अज एकपात्
+##### प्रोष्ठपदाः/ भाद्रपदाः पूर्वाः - अज एकपात्
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/19_aja_ekapAdudagAtpurastAt.md">
 <details open><summary><h6>19 अज एकपादुदगात्पुरस्तात् ...{Loading}...</h6></summary>
@@ -876,7 +876,7 @@ title = "३२ ‘ऋद्ध्यास्म',"
 
 
 
-######## प्रोष्ठपदाः/ भाद्रपदाः उत्तराः  - अहिर् बिध्नियः
+##### प्रोष्ठपदाः/ भाद्रपदाः उत्तराः  - अहिर् बिध्नियः
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/21_ahirbudhniyapH_prathamAna.md">
 <details open><summary><h6>21 अहिर्बुध्नियᳶ प्रथमान ...{Loading}...</h6></summary>
@@ -967,7 +967,7 @@ title = "३२ ‘ऋद्ध्यास्म',"
 
 
 
-######## रेवती - पूषा
+##### रेवती - पूषा
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/23_pUShA_revatyanveti.md">
 <details open><summary><h6>23 पूषा रेवत्यन्वेति ...{Loading}...</h6></summary>
@@ -1053,7 +1053,7 @@ title = "३२ ‘ऋद्ध्यास्म',"
 
 
 
-######## अश्विनौ
+##### अश्विनौ
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/25_tadashvinAvashvayujopayAtAm.md">
 <details open><summary><h6>25 तदश्विनावश्वयुजोपयाताम् ...{Loading}...</h6></summary>
@@ -1138,7 +1138,7 @@ title = "३२ ‘ऋद्ध्यास्म',"
 
 
 
-######## भरणी - यमः
+##### भरणी - यमः
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/27_apa_pApmAnambharaNIrbharantu.md">
 <details open><summary><h6>27 अप पाप्मानम्भरणीर्भरन्तु ...{Loading}...</h6></summary>
@@ -1230,7 +1230,7 @@ title = "३२ ‘ऋद्ध्यास्म',"
 
 
 
-######## अमावास्या
+##### अमावास्या
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/29_niveshanI.md">
 <details open><summary><h6>29 निवेशनी ...{Loading}...</h6></summary>
