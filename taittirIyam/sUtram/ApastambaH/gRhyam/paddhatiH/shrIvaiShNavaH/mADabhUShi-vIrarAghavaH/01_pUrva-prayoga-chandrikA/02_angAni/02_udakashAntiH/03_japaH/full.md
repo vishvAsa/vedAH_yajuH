@@ -19,12 +19,12 @@ title = "+०३ जपः (पूर्णपाठः)"
 
 (आद्युच्चारणपक्षे)
 
-######### पादशः
+###### पादशः
 ओं भूस् तत् सवि॒तुर् वरे॑ण्य+++(णिय)+++म्।  
 ओं भुव॒र् +++(पापादि)+++भर्गो॑+++(=भर्जनम्)+++ दे॒वस्य॑ धीमहि+++(←ध्यै ध्याने / धी आराधने)+++ ।  
 ओं सुव॒र् धियो॒ यो नः॑ प्रचो॒दया॑त् ॥  
 
-######### अर्धशः पूर्णश्श्च
+###### अर्धशः पूर्णश्श्च
 ओं भूस् तत् सवि॒तुर् वरे॑ण्य+++(णिय)+++म् +++(पापादि)+++भर्गो॑+++(=भर्जनम्)+++ दे॒वस्य॑ धीमहि+++(←ध्यै ध्याने / धी आराधने)+++ ।  
 ओं भुव॒र् धियो॒ यो नः॑ प्रचो॒दया॑त् ॥  
 
@@ -47,7 +47,7 @@ title = "+०३ जपः (पूर्णपाठः)"
 </details>
 </div>
 
-######### पुनः पूर्णोच्यते कैश्चित्
+###### पुनः पूर्णोच्यते कैश्चित्
 ॐ भूर्-भुव॒स्-सुव॒स्
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/062/10_tatsaviturvareNyaM_bhargo.md">
@@ -115,11 +115,11 @@ title = "+०३ जपः (पूर्णपाठः)"
 
 
 
-########## परिचयः
+###### परिचयः
 - सायणः /- तैत्तिरीयभाष्ये [ऽत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_042_Krishna_Yajurvediya_Taittiriya_Samhita_Part_1_-_Kasinath_Sastri_Agase_1940#page/n325/mode/2up)। ऋग्भाष्ये [ऽत्र](https://archive.org/stream/RgVedaWithSayanasCommentaryPart2/rv_sayanabhasya_part2#page/n573/mode/2up)।
 - तत्रैव 'मदे चिदस्य ’ इत्यर्धर्चम् एवोद्धृत्य। तैत्तिरीयभाष्ये [ऽत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_042_Krishna_Yajurvediya_Taittiriya_Samhita_Part_1_-_Kasinath_Sastri_Agase_1940#page/n327/mode/2up)।
 
-########## आह्वानम्
+###### आह्वानम्
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/01_kRNuShva_pAjaH.md">
 <details open><summary><h7>०१ कृणुष्व पाजः ...{Loading}...</h7></summary>
 
@@ -132,7 +132,7 @@ title = "+०३ जपः (पूर्णपाठः)"
 </details>
 </div>
 
-########## युद्धप्रार्थना
+###### युद्धप्रार्थना
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/02_tava_bhramAsa.md">
 <details open><summary><h7>०२ तव भ्रमास ...{Loading}...</h7></summary>
 
@@ -178,7 +178,7 @@ title = "+०३ जपः (पूर्णपाठः)"
 </details>
 </div>
 
-########## उपासकसौभाग्यम्
+###### उपासकसौभाग्यम्
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/06_sa_te.md">
 <details open><summary><h7>०६ स ते ...{Loading}...</h7></summary>
 
@@ -202,7 +202,7 @@ title = "+०३ जपः (पूर्णपाठः)"
 </details>
 </div>
 
-########## प्रतिज्ञा
+###### प्रतिज्ञा
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/08_archAmi_te.md">
 <details open><summary><h7>०८ अर्चामि ते ...{Loading}...</h7></summary>
 
@@ -248,7 +248,7 @@ title = "+०३ जपः (पूर्णपाठः)"
 </details>
 </div>
 
-########### किरणकीर्तिः
+###### किरणकीर्तिः
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/12_asvapnajastaraNayaH_sushevA.md">
 <details open><summary><h7>१२ अस्वप्नजस्तरणयः सुशेवा ...{Loading}...</h7></summary>
 
@@ -275,7 +275,7 @@ title = "+०३ जपः (पूर्णपाठः)"
 </details>
 </div>
 
-########## प्रतिज्ञानुवर्तनम्
+###### प्रतिज्ञानुवर्तनम्
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/14_tvayA_vayaM.md">
 <details open><summary><h7>१४ त्वया वयं ...{Loading}...</h7></summary>
 
@@ -310,7 +310,7 @@ title = "+०३ जपः (पूर्णपाठः)"
 </details>
 </div>
 
-########## रक्षोहाग्निध्यानम्
+###### रक्षोहाग्निध्यानम्
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/002/09_vi_jyotiShA.md">
 <details open><summary><h7>०९ वि ज्योतिषा ...{Loading}...</h7></summary>
 
@@ -354,9 +354,9 @@ title = "+०३ जपः (पूर्णपाठः)"
 </details>
 
 
-##########  पशुकामस्यैन्द्रेष्टेः  
+######  पशुकामस्यैन्द्रेष्टेः  
 
-########### पुरोनुवाक्या
+###### पुरोनुवाक्या
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1'ऐन्द्रं चरुं निर्वपेत्पशुकामः' इत्यस्य पुरोनुवाक्या - इन्द्रं व इति गायत्री ॥ याजमानब्राह्मणमध्ये याज्याकाण्डं वैश्वदेवम् ।
@@ -387,14 +387,14 @@ title = "+०३ जपः (पूर्णपाठः)"
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###################### Strata
+###### Strata
 Strophic on metrical evidence alone
 
-###################### Pāda-label
+###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-###################### Morph
+###### Morph
 índram ← índra- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -483,7 +483,7 @@ kévalaḥ ← kévala- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-##################### English translation:
+###### English translation:
 
 “We invoke for you, **Indra**, who is everywhere among men; may he be exclusively our own.”
 </details>
@@ -563,7 +563,7 @@ Wir rufen euch den Indra her von allen Orten, jedem Volk; Uns sei er eigen, kein
 </details>
 </div>  
 
-########### याज्या
+###### याज्या
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2तत्रैव याज्या - इन्द्रं नर इति त्रिष्टुप् ॥ 
@@ -597,15 +597,15 @@ Wir rufen euch den Indra her von allen Orten, jedem Volk; Uns sei er eigen, kein
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###################### Strata
+###### Strata
 Strophic
 
-###################### Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-###################### Morph
+###### Morph
 havante ← √hū- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:MED}
 
@@ -799,7 +799,7 @@ vrajé ← vrajá- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-##################### English translation:
+###### English translation:
 
 “Men invoke **Indra** in battle when those actions which lead to victory are performed; do you who are hero, the benefactor of man, the desirer of prowess, plural ce us in possession of pastures abounding with cattle.”
 </details>
@@ -883,8 +883,8 @@ Den Indra rufen im Gefecht die Männer, dass er erfolgreich diese Bitten mache; 
 </details>
 </div>  
 
-########## इन्द्रियावद्यागे 
-########### पुरोनुवाक्या
+###### इन्द्रियावद्यागे 
+###### पुरोनुवाक्या
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3'इन्द्रायेन्द्रियावते पुरोडाशमेकादशकपालं निर्वपेत्' इत्यस्य पुरोनुवाक्या - इन्द्रियाणीति गायत्री ॥ 
@@ -915,14 +915,14 @@ Den Indra rufen im Gefecht die Männer, dass er erfolgreich diese Bitten mache; 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###################### Strata
+###### Strata
 Strophic on metrical evidence alone
 
-###################### Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M
-###################### Morph
+###### Morph
 indriyā́ṇi ← indriyá- (nominal stem)  
 {case:NOM, gender:N, number:PL}
 
@@ -1024,7 +1024,7 @@ vr̥ṇe ← √vr̥- ~ vr̥̄- (root)
 </details>
 <details><summary>Wilson</summary>
 
-##################### English translation:
+###### English translation:
 
 “**Indra**, object of many rites, I regard the organs of sense, that exist in the five races (of beings dependent) on you as yours.”
 </details>
@@ -1104,7 +1104,7 @@ Die Indrakräfte wünsch' ich her, die, Indra, hundertwirkender, Du bei den fün
 </details>
 </div>  
 
-########### याज्या
+###### याज्या
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4तत्रैव याज्या - अनु त इति त्रिष्टुप् ॥
@@ -1137,15 +1137,15 @@ Die Indrakräfte wünsch' ich her, die, Indra, hundertwirkender, Du bei den fün
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###################### Strata
+###### Strata
 Archaic
 
-###################### Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-###################### Morph
+###### Morph
 ánu ← ánu (invariable)  
 {}
 
@@ -1334,7 +1334,7 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-##################### English translation:
+###### English translation:
 
 “All (power) has been successively conceded verily to you, **Indra**, who are mighty, for the destruction of the foe; suitable vigour, suitable strength in battle (has been given) to you, adorable Indra, by the gods.”
 </details>
@@ -1413,8 +1413,8 @@ Dir räumten alles ein die Götter alle, der grossen Indramacht beim Vritrakampf
 </div>  
 
 
-########## घर्मवद्यागे 
-########### पुरोनुवाक्या
+###### घर्मवद्यागे 
+###### पुरोनुवाक्या
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5'इन्द्राय घर्मवते पुरोडाशमेकादशकपालं निर्वपेद्ब्रह्मवर्चसकामः' इत्यस्य पुरोनुवाक्या - आ यस्मिन्नित्यनुष्टुप् ॥ 
@@ -1470,7 +1470,7 @@ The glowing pot is the guest of Indra.
 </div>  
 
 
-########### याज्या
+###### याज्या
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 6तत्रैव याज्या - आमास्विति पथ्याबृहती, तृतीयपादस्य द्वादशाक्षरत्वात् ॥ 
@@ -1503,15 +1503,15 @@ The glowing pot is the guest of Indra.
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###################### Strata
+###### Strata
 Strophic
 
-###################### Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-###################### Morph
+###### Morph
 aírayaḥ ← √īr- (root)  
 {number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
 
@@ -1675,14 +1675,14 @@ júṣṭam ← júṣṭa- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-##################### English translation:
+###### English translation:
 
 “In the immature (cows) you produced the mature (milk),  
 you caused the sun to arise in heaven,(priests),  
 excite (**Indra**) with your praises  
 as men heat the **gharma** with **sāman** hymns. (sing) the acceptableBṛhat sāman to him who is to be honoure dby song.”
 
-##################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 You caused the sun to arise in heaven: repetition of the legend of he **paṇis** and the stolen cows of the **Aṅgirasas**. The Ṛṣis implored Indra for help, who, seeing that the stronghold of the **asuras** was enveloped in thick darkness, set the sun in the sky to dispel it; as men heat the gharma: for the hymns of the ceremony of heating the **mahāvīra** or gharma pot, used in the pravargya ceremony; cf. **Aitareya** **Brāhmaṇa** 1.21
 </details>
@@ -1730,8 +1730,8 @@ In rohen schufst du gare Milch, erhobst die Sonn' am Himmelsraum, Entflammt wie 
 </div>  
 
 
-########## अर्कवद्-यागे 
-########### पुरोनुवाक्या
+###### अर्कवद्-यागे 
+###### पुरोनुवाक्या
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 7'इन्द्रायार्कवते पुरोडाशमेकादशकपालं निर्वपेदन्नकामः' इत्यस्य पुरोनुवाक्या - इन्द्रमिदिति गायत्री ॥ 
@@ -1762,14 +1762,14 @@ In rohen schufst du gare Milch, erhobst die Sonn' am Himmelsraum, Entflammt wie 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###################### Strata
+###### Strata
 Strophic on metrical evidence alone
 
-###################### Pāda-label
+###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-###################### Morph
+###### Morph
 br̥hát ← br̥hánt- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -1887,11 +1887,11 @@ vā́ṇīḥ ← vā́ṇī- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-##################### English translation:
+###### English translation:
 
 “The chanters (of the **Soma**) extol **Indra** with songs, the reciters of the Ṛk with prayers, the priests of the **Yajuṣ**, with texts.”
 
-##################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Gāthina = singers; gīyamānasāma-**yuktā** udgātāraḥ, the **udgatās** with **sāmas** to be chanted;
 
@@ -1982,7 +1982,7 @@ Den Indra preist der Sänger Schar, mit Preisgesang die preisenden, Den Indra la
 </div>  
 
 
-########### याज्या
+###### याज्या
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8तत्रैव याज्या - गायन्तीत्यनुष्टुप् ॥ 
@@ -2015,15 +2015,15 @@ Den Indra preist der Sänger Schar, mit Preisgesang die preisenden, Den Indra la
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###################### Strata
+###### Strata
 Normal
 
-###################### Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-###################### Morph
+###### Morph
 gā́yanti ← √gā(y)- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -2184,11 +2184,11 @@ yemire ← √yam- (root)
 </details>
 <details><summary>Wilson</summary>
 
-##################### English translation:
+###### English translation:
 
 “The chanters (of the **Soma**) hymn you, **Śatakratu**; the reciters of the Ṛk praise you, who are worthy of praise; the Bra-hmaṇas raise you aloft, like a bamboo pole.”
 
-##################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Gāyatriṇaḥ = lit. those who use **gāyatrī** metre: **udgātā**, chanter of **Sāma** hymns;
 
@@ -2282,8 +2282,8 @@ Die Sänger singen dir ein Lied und Preisgesang die preisenden; Die Beter haben 
 </details>
 </div>  
 
-########## अंहोमुग्यागे 
-########### पुरोनुवाक्या
+###### अंहोमुग्यागे 
+###### पुरोनुवाक्या
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 9'इन्द्रायांहोमुचे पुरोडाशमेकादशकपालं निर्वपेद् यः पाप्मना गृहीतस् स्यात्' इत्यस्य पुरोनुवाक्या - अंहोमुच इति त्रिष्टुप् ॥ 
@@ -2334,7 +2334,7 @@ May the desires of the sacrificer be fulfilled.
 </details>
 </div>  
 
-########### याज्या
+###### याज्या
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 10तत्रैव याज्या - विवेषेति त्रिष्टुप् ॥ 
@@ -2367,15 +2367,15 @@ May the desires of the sacrificer be fulfilled.
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###################### Strata
+###### Strata
 Normal
 
-###################### Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-###################### Morph
+###### Morph
 dhiṣáṇā ← dhiṣáṇā- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -2559,7 +2559,7 @@ yā́ntam ← √yā- 1 (root)
 </details>
 <details><summary>Wilson</summary>
 
-##################### English translation:
+###### English translation:
 
 “When the thought of glorifying **Indra** entered my mind, then I gave birth (to his praises); may I laud him before encountering distant (evil) days, whereby he may guide us beyond sin; for those on both sides of us invoke him, as (those on either bank of a river hail) a passenger in a boat.”
 </details>
@@ -2650,7 +2650,7 @@ Wenn mich der Trunk ergriffen und erregt hat, dann preis' ich Indra vor dem Tag 
 
 
 
-########### याज्या
+###### याज्या
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 11तत्रैव याज्या विकल्प्यते - प्र सम्राजमिति त्रिष्टुप् ॥ 
@@ -2699,8 +2699,8 @@ Do ye confer power and strength on this one.
 
 
 
-########## वैमृधयागे  
-########### पुरोनुवाक्या
+###### वैमृधयागे  
+###### पुरोनुवाक्या
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 12इन्द्राय वैमृधाय पुरोडाशमेकादशकपालं निर्वपेद्यम्मृधोभि प्रवेपेरन्राष्ट्राणि वाभि समियुरिन्द्रमेव वैमृधम्' इत्यस्य पुरोनुवाक्या - वि न इन्द्रेत्यनुष्टुप् ॥ 
@@ -2742,7 +2742,7 @@ Who is hostile to us.
 
 
 
-########### याज्या
+###### याज्या
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 13तत्रैव याज्या - इन्द्र क्षत्रमिति त्रिष्टुप् ॥ 
@@ -2775,15 +2775,15 @@ Who is hostile to us.
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###################### Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###################### Pāda-label
+###### Pāda-label
 popular  
 popular  
 popular  
 popular
-###################### Morph
+###### Morph
 abhí ← abhí (invariable)  
 {}
 
@@ -2929,7 +2929,7 @@ urúm ← urú- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-##################### English translation:
+###### English translation:
 
 “You have been born, **Indra**, endowed with protecting and desirable vigour; benefactor of mankind, youdid drive away the man who was unfriendly(to us), you prepared a spacious region for the gods.”
 </details>
@@ -2990,7 +2990,7 @@ Zu grosser Macht und Herrschaft bist du, Indra, geboren als der Lebenden Gebiete
 </div>  
 
 
-########### याज्या
+###### याज्या
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 14याज्याविकल्पः - मृगो नेति त्रिष्टुप् । 
@@ -3036,7 +3036,7 @@ Smite the foes, drive away the enemy.
 
 
 
-########### याज्या
+###### याज्या
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 15अतश्च विकल्पः - वि शत्रूनित्यनुष्टुप् ॥ 
@@ -3074,8 +3074,8 @@ Of him who is hostile to us.
 
 
 
-########## त्रातृयागे 
-########### पुरोनुवाक्या
+###### त्रातृयागे 
+###### पुरोनुवाक्या
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 16 'इन्द्राय त्रात्रे पुरोडाशमेकादशकपालं निर्वपेद्बद्धो वा परियत्तो वा' इत्यस्य पुरोनुवाक्या - त्रातारमिन्द्रमिति त्रिष्टुप् ॥ 
@@ -3113,7 +3113,7 @@ May Indra in his bounty bestow on us prosperity
 
 
 
-########### याज्या
+###### याज्या
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 17तत्रैव याज्या - मा ते अस्यामिति त्रिष्टुप् ॥ 
@@ -3166,8 +3166,8 @@ May we be dear to you among the princes.
 
 
 
-########## अर्काश्वमेधवद्यागे 
-########### पुरोनुवाक्या
+###### अर्काश्वमेधवद्यागे 
+###### पुरोनुवाक्या
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 18'इन्द्रायार्काश्वमेधवते पुरोडाशमेकादशकपालं निर्वपेद्यं महायज्ञो नोपनमेत्' इत्यस्य पुरोनुवाक्या - अनवस्त इति त्रिष्टुप् ॥ 
@@ -3200,15 +3200,15 @@ May we be dear to you among the princes.
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###################### Strata
+###### Strata
 Normal
 
-###################### Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-###################### Morph
+###### Morph
 ánavaḥ ← ánu- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -3360,11 +3360,11 @@ u ← u (invariable)
 </details>
 <details><summary>Wilson</summary>
 
-##################### English translation:
+###### English translation:
 
 “The **Ṛbhus** have fabricated your car, **Indra**, the invoked of many, adapted to its horses; **Tvaṣṭā** (had made) your radiant thunderbolt; the venerable (**Aṅgirasas**), praising Indra with hymns, have given him vigour for the destruction of Ahi.”
 
-##################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 The Ṛbhus: **anavaḥ** is the text, explained **manuṣyaḥ** and applied to **ṛbhavaḥ**; the venerable aṅgirasas: brāhmaṇāḥ, **brāhmaṇas** is the text, explained as **aṅgirasaḥ**
 </details>
@@ -3455,7 +3455,7 @@ Die Menschen machten für dein Ross den Wagen Tvaschtar den lichten Blitz, o vie
 </div>  
 
 
-########### याज्या
+###### याज्या
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 19तत्रैव याज्या - वृष्ण इति त्रिष्टुप् ॥ 
@@ -4494,7 +4494,7 @@ Savitr, Varuna, Brhaspati, the worshipful, the slayer of Raksases, hail!
 १५ अनुष्टुप ।  
 अग्निर्ऋषिः
 चतुर्थकाण्डे षष्ठप्रपाठके चतुर्थोऽनुवाकः
-########## 01 आशुः शिशानो - त्रिष्टुप्
+###### 01 आशुः शिशानो - त्रिष्टुप्
 
 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/01_AshuH_shishAno.md">
@@ -4532,15 +4532,15 @@ Savitr, Varuna, Brhaspati, the worshipful, the slayer of Raksases, hail!
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-################## Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-################## Pāda-label
+###### Pāda-label
 popular  
 popular  
 popular  
 popular
-################## Morph
+###### Morph
 āśúḥ ← āśú- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -4685,7 +4685,7 @@ _______________
 </details>
 <details><summary>Wilson</summary>
 
-################# English translation:
+###### English translation:
 
 “The fleet-going **Indra**, like a formidable bull sharpening (his horns), the slayer of foes, the exciter ofmen, loud-shouting, ever-vigilant, the chief of heroes overthrew at once a hundred hosts.”
 </details>
@@ -4739,7 +4739,7 @@ Der schnelle, der gleich wildem Stier erregt ist, der starke Kämpfer, der die M
 
 
 
-########## 02 सङ्क्रन्दनेनानिमिषेण जिष्णुना - त्रिष्टुप्
+###### 02 सङ्क्रन्दनेनानिमिषेण जिष्णुना - त्रिष्टुप्
 
 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/02_saMkrandanenAnimiSheNa_jiShNunA.md">
@@ -4777,15 +4777,15 @@ Der schnelle, der gleich wildem Stier erregt ist, der starke Kämpfer, der die M
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-################## Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-################## Pāda-label
+###### Pāda-label
 popular  
 popular  
 popular  
 popular
-################## Morph
+###### Morph
 animiṣéṇa ← animiṣá- (nominal stem)  
 {case:INS, gender:M, number:SG}
 
@@ -4923,7 +4923,7 @@ _______________
 </details>
 <details><summary>Wilson</summary>
 
-################# English translation:
+###### English translation:
 
 “With **Indra** the loud-shouting, the vigilant, the vigtorious, the warlike, the unconquerable, the daring,the hurler of arrows, the showerer, (as your ally) conquer you warriors, you leaders, that (hostile host) andovercome it.”
 </details>
@@ -4967,7 +4967,7 @@ Mit ihm, dem Donnrer, der nicht schlummernd Sieg gewinnt, der Schlacht erregt vo
 </details>
 </div>
 
-########## 03 स इषुहस्तैः - त्रिष्टुप्
+###### 03 स इषुहस्तैः - त्रिष्टुप्
 
 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/03_sa_iShuhastaiH.md">
@@ -5005,15 +5005,15 @@ Mit ihm, dem Donnrer, der nicht schlummernd Sieg gewinnt, der Schlacht erregt vo
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-################## Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-################## Pāda-label
+###### Pāda-label
 popular  
 popular  
 popular  
 popular
-################## Morph
+###### Morph
 íṣuhastaiḥ ← íṣuhasta- (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -5171,7 +5171,7 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-################# English translation:
+###### English translation:
 
 “**Indra**, with the arrow-bearing (**maruts**), armed with swords, the subduer, the warrior, who encountershim, the drinker of the **Soma**, the strong- armed, having a powerful bow, who shoots with well-aimed arrows(conquer with his help).”
 </details>
@@ -5215,7 +5215,7 @@ Mit seiner Schar, die Pfeile trägt und Köcher, theilt seine Kämpfe der gewalt
 </details>
 </div>
 
-########## 04 बृहस्पते परि - त्रिष्टुप्
+###### 04 बृहस्पते परि - त्रिष्टुप्
 
 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/04_bRhaspate_pari.md">
@@ -5253,15 +5253,15 @@ Mit seiner Schar, die Pfeile trägt und Köcher, theilt seine Kämpfe der gewalt
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-################## Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-################## Pāda-label
+###### Pāda-label
 popular  
 popular  
 popular  
 popular
-################## Morph
+###### Morph
 bŕ̥haspate ← bŕ̥haspáti- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -5403,7 +5403,7 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-################# English translation:
+###### English translation:
 
 “Come with your chariot, **Bṛhaspati**, who are the slayer of **Rākṣasas**, discomfiting your enemies,”
 </details>
@@ -5447,7 +5447,7 @@ Brihaspati, flieg' her mit deinem Wagen, Gespenster tödtend, jeden Feind verjag
 </details>
 </div>
 
-########## 05 गोत्रभिदं गोविदम् - त्रिष्टुप्
+###### 05 गोत्रभिदं गोविदम् - त्रिष्टुप्
 
 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/06_gotrabhidaM_govidaM.md">
@@ -5485,15 +5485,15 @@ Brihaspati, flieg' her mit deinem Wagen, Gespenster tödtend, jeden Feind verjag
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-################## Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-################## Pāda-label
+###### Pāda-label
 popular  
 popular  
 popular  
 popular
-################## Morph
+###### Morph
 gotrabhídam ← gotrabhíd- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -5642,11 +5642,11 @@ ____________
 </details>
 <details><summary>Wilson</summary>
 
-################# English translation:
+###### English translation:
 
 “Imitate in heroism, you kindred warriors, follow, friends, in prowess this **Indra**, who is the breaker ofmountains, the acquirer of water, armed with the thunderbolt, conquering the swift (foe), destroying (the enemy)by his might.”
 
-################# Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Breaker of mountains: or of clouds; or of **gotras** (a race of **asuras**);
 
@@ -5693,7 +5693,7 @@ Der blitzbewehrt den Stall erschliesst, die Kühe erringt und Bahn sich bricht m
 </details>
 </div>
 
-########## 06 बलविज्ञाय स्थविरः - त्रिष्टुप्
+###### 06 बलविज्ञाय स्थविरः - त्रिष्टुप्
 
 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/05_balavijnAyaH_sthaviraH.md">
@@ -5731,15 +5731,15 @@ Der blitzbewehrt den Stall erschliesst, die Kühe erringt und Bahn sich bricht m
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-################## Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-################## Pāda-label
+###### Pāda-label
 popular  
 popular  
 popular  
 popular
-################## Morph
+###### Morph
 balavijñāyáḥ ← balavijñāyá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -5899,11 +5899,11 @@ _______________
 </details>
 <details><summary>Wilson</summary>
 
-################# English translation:
+###### English translation:
 
 “Known by his strength mighty, heroic, overpowering, vigorous, enduring, fierce, attended by heroes,attended by mighty men, the offspring of strength, the possessor of water, do you, **Indra**, ascend your triumphantchariot.”
 
-################# Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Water: govit, knowing or accepting the song of praise
 </details>
@@ -5949,7 +5949,7 @@ Durch Stärke kenntlich, fest, der Helden kühnster, siegreich, gewaltig, stark 
 </details>
 </div>
 
-########## 07 अभि गोत्राणि - त्रिष्टुप्
+###### 07 अभि गोत्राणि - त्रिष्टुप्
 
 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/07_abhi_gotrANi.md">
@@ -5987,15 +5987,15 @@ Durch Stärke kenntlich, fest, der Helden kühnster, siegreich, gewaltig, stark 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-################## Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-################## Pāda-label
+###### Pāda-label
 popular;; 12 = 5+7, ending LHX  
 popular  
 popular  
 popular
-################## Morph
+###### Morph
 abhí ← abhí (invariable)  
 {}
 
@@ -6133,7 +6133,7 @@ ____________________
 </details>
 <details><summary>Wilson</summary>
 
-################# English translation:
+###### English translation:
 
 “May **Indra**, bursting open the clouds with force; pitiless, heroic, with hundredfold anger, invincible, theoverthrower of armies, irresistible, protect our armies in battles.”
 </details>
@@ -6177,7 +6177,7 @@ Der mit Gewalt sich in die Ställe eintaucht, Held Indra ohne Mitleid vielfach z
 </details>
 </div>
 
-########## 08 इन्द्र आसाम् - त्रिष्टुप्
+###### 08 इन्द्र आसाम् - त्रिष्टुप्
 
 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/08_indra_AsAM.md">
@@ -6215,15 +6215,15 @@ Der mit Gewalt sich in die Ställe eintaucht, Held Indra ohne Mitleid vielfach z
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-################## Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-################## Pāda-label
+###### Pāda-label
 popular;; 11 = 4+7, ending HLX  
 popular  
 popular  
 popular
-################## Morph
+###### Morph
 āsām ← ayám (pronoun)  
 {case:GEN, gender:F, number:PL}
 
@@ -6355,11 +6355,11 @@ _______________
 </details>
 <details><summary>Wilson</summary>
 
-################# English translation:
+###### English translation:
 
 “May **Indra** be the leader of these (hosts), may **Bṛhaspati**, **Dakṣiṇā**, **Yajña**, and **Soma** go before, letthe **Maruts** march in the van of the destroying and victorious armies of the gods.”
 
-################# Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Dakṣiṇā: not a proper name;may the **yajña- puruṣa** (i.e., **Viṣṇu**) go on the right and Soma go before
 </details>
@@ -6404,7 +6404,7 @@ Ihr Führer sei uns Indra und Brihaspati, vor dringe Opfer, Opferlohn und Soma, 
 </div>
 
 
-########## 09 इन्द्रस्य वृष्णो - त्रिष्टुप्
+###### 09 इन्द्रस्य वृष्णो - त्रिष्टुप्
 
 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/09_indrasya_vRShNo.md">
@@ -6442,15 +6442,15 @@ Ihr Führer sei uns Indra und Brihaspati, vor dringe Opfer, Opferlohn und Soma, 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-################## Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-################## Pāda-label
+###### Pāda-label
 popular  
 popular  
 popular  
 popular
-################## Morph
+###### Morph
 índrasya ← índra- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -6583,7 +6583,7 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-################# English translation:
+###### English translation:
 
 “(May) the mighty force of the showerer **Indra**, of the royal **Varuṇa**, of the **Ādityas** and **Maruts** (beours). The shout of the magnanimous and victorious deities, the subverters of the worlds, has arisen.”
 </details>
@@ -6627,7 +6627,7 @@ Des Königs Varuna, des Helden Indra, der Maruts, der Aditja's Schar ist mächti
 </details>
 </div>
 
-########## 10 अस्माकमिन्द्रः समृतेषु - त्रिष्टुप्
+###### 10 अस्माकमिन्द्रः समृतेषु - त्रिष्टुप्
 
 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/11_asmAkamindraH_samRteShu.md">
@@ -6665,15 +6665,15 @@ Des Königs Varuna, des Helden Indra, der Maruts, der Aditja's Schar ist mächti
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-################## Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-################## Pāda-label
+###### Pāda-label
 popular;; 12 = 5+7, ending LHX  
 popular  
 popular  
 popular
-################## Morph
+###### Morph
 asmā́kam ← ahám (pronoun)  
 {case:GEN, number:PL}
 
@@ -6831,7 +6831,7 @@ _____________
 </details>
 <details><summary>Wilson</summary>
 
-################# English translation:
+###### English translation:
 
 “When the banners are intermingled, may **Indra** be our (defender), may those arrows which are ours bevictorious may our warriors be triumphant; gods, protect us in battles.”
 </details>
@@ -6875,7 +6875,7 @@ Es schirme unsre Kämpf' und Fahnen Indra; es seien unsre Pfeile, die da siegen,
 </div>
 
 
-########## 11 उद्धर्षय मघवन्नायुधान्युत्सत्वनाम् - त्रिष्टुप्
+###### 11 उद्धर्षय मघवन्नायुधान्युत्सत्वनाम् - त्रिष्टुप्
 
 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/103/10_uddharShaya_maghavannAyudhAnyutsatvanAM.md">
@@ -6913,15 +6913,15 @@ Es schirme unsre Kämpf' und Fahnen Indra; es seien unsre Pfeile, die da siegen,
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-################## Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-################## Pāda-label
+###### Pāda-label
 popular  
 popular  
 popular  
 popular
-################## Morph
+###### Morph
 ā́yudhāni ← ā́yudha- (nominal stem)  
 {case:NOM, gender:N, number:PL}
 
@@ -7066,7 +7066,7 @@ ___________________
 </details>
 <details><summary>Wilson</summary>
 
-################# English translation:
+###### English translation:
 
 “Excite, **Maghavan**, my weapons, (excite) the spirits of my heroes; slayer of **Vṛtra**, let the speed of thehorses be accelerated, let the noises of the chariots be increased.”
 </details>
@@ -7110,7 +7110,7 @@ Empor, o mächt'ger, richte unsre Waffen, empor die Geister meiner tapfern Helde
 </details>
 </div>
 
-########## 12 उप प्रेत
+###### 12 उप प्रेत
 
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/6/04_agni-praNayanAngam_apratiratha-sUktam/201_upa_preta.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
@@ -7141,7 +7141,7 @@ Empor, o mächt'ger, richte unsre Waffen, empor die Geister meiner tapfern Helde
 
 
 
-########## 13 अव॑सृष्टा॒ परा॑ पत॒
+###### 13 अव॑सृष्टा॒ परा॑ पत॒
 
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/6/04_agni-praNayanAngam_apratiratha-sUktam/204_avasRShTA_parA.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
@@ -7174,7 +7174,7 @@ Empor, o mächt'ger, richte unsre Waffen, empor die Geister meiner tapfern Helde
 
 
 
-########## 14 मर्मा॑णि ते॒
+###### 14 मर्मा॑णि ते॒
 
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/6/04_agni-praNayanAngam_apratiratha-sUktam/207_marmANi_te.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
@@ -7785,15 +7785,15 @@ Empor, o mächt'ger, richte unsre Waffen, empor die Geister meiner tapfern Helde
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######################## Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-######################## Pāda-label
+###### Pāda-label
 popular  
 popular  
 popular  
 popular
-######################## Morph
+###### Morph
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -7946,7 +7946,7 @@ _________________
 </details>
 <details><summary>Wilson</summary>
 
-####################### English translation:
+###### English translation:
 
 “May glory **Agni**, be mine in battle, may we, kindling you, cherish your person n, may the (inhabitants ofthe) four quarters bow down before me, may we with you for our leader overcome (hostile) armies.”
 </details>
@@ -8110,15 +8110,15 @@ Glück werde mir, wenn ich dich, Agni, rufe, Heil sei den Leibern, wenn wir dich
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######################## Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-######################## Pāda-label
+###### Pāda-label
 popular  
 popular  
 popular  
 popular
-######################## Morph
+###### Morph
 dévīḥ ← devī́- (nominal stem)  
 {case:VOC, gender:F, number:PL}
 
@@ -8290,11 +8290,11 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-####################### English translation:
+###### English translation:
 
 “You six mighty goddesses, bestow upon us ample (wealth); universal gods, display prowess here; letus not be bereft of our offspring, or be harmed in our bodies, may we not become subject to our enemy, royalSoma.”
 
-####################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 You six: heaven, earth, day, night, water and plural nts
 </details>
@@ -8423,15 +8423,15 @@ Ihr weiten sechs Göttinnen schaffet Raum uns, ihr Götter alle, zeigt euch hier
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######################## Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-######################## Pāda-label
+###### Pāda-label
 popular;; 12 = 5+7, ending LHX  
 popular  
 popular  
 popular
-######################## Morph
+###### Morph
 mahiṣáḥ ← mahiṣá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -8617,7 +8617,7 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-####################### English translation:
+###### English translation:
 
 “May the omnipresent (**Indra**), the mighty one, who is invoked by many, and lauded by many, bestow ablessing on this our sacrifice; be gracious to our offspring, Indra, lord of bay horses; harm us not, desert us not.”
 </details>
@@ -8702,15 +8702,15 @@ Der umfangsreiche Stier verleihe Schutz uns, bei diesem Ruf der vielgerufne Näh
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######################## Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-######################## Pāda-label
+###### Pāda-label
 popular  
 popular  
 popular  
 popular
-######################## Morph
+###### Morph
 ápa ← ápa (invariable)  
 {}
 
@@ -8883,7 +8883,7 @@ _____________________
 </details>
 <details><summary>Wilson</summary>
 
-####################### English translation:
+###### English translation:
 
 “May those who are our foes be driven off; may we through **Indra** and **Agni** destroy them; may theVasus, the **Rudras**, and the **Ādityas** make me the high- reaching, fierce, intelligent, supreme ruler.”
 </details>
@@ -9035,7 +9035,7 @@ Es mögen fern von uns die Feinde bleiben, durch Indra, Agni stossen wir zurück
 </details>
 
 
-########## अग्निः
+###### अग्निः
 
 
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/02_agner_manve.md">
@@ -9090,7 +9090,7 @@ Es mögen fern von uns die Feinde bleiben, durch Indra, Agni stossen wir zurück
 
 
 
-########## इन्द्रः
+###### इन्द्रः
 
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/08_indrasya_manye.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
@@ -9139,7 +9139,7 @@ Es mögen fern von uns die Feinde bleiben, durch Indra, Agni stossen wir zurück
 
 
 
-########## मित्रावरुणौ
+###### मित्रावरुणौ
 
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/14_manve_vAm.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
@@ -9188,7 +9188,7 @@ Es mögen fern von uns die Feinde bleiben, durch Indra, Agni stossen wir zurück
 
 
 
-########## वायुः, सविता च
+###### वायुः, सविता च
 
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/20_vAyos_savitur.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
@@ -9237,7 +9237,7 @@ Es mögen fern von uns die Feinde bleiben, durch Indra, Agni stossen wir zurück
 
 
 
-########## अश्विनौ
+###### अश्विनौ
 
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/26_rathItamau_rathInAm.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
@@ -9286,7 +9286,7 @@ Es mögen fern von uns die Feinde bleiben, durch Indra, Agni stossen wir zurück
 
 
 
-########## मरुतः
+###### मरुतः
 
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/32_marutAM_manve.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
@@ -9335,7 +9335,7 @@ Es mögen fern von uns die Feinde bleiben, durch Indra, Agni stossen wir zurück
 
 
 
-########## विश्वे देवाः
+###### विश्वे देवाः
 
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/38_devAnAM_manve.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
@@ -9461,7 +9461,7 @@ Agni through the hymn which brings (him).
 
 
 
-########## अनुमतिः
+###### अनुमतिः
 
 
 
@@ -9529,7 +9529,7 @@ Lengthen our days for us.
 </details>
 </div>
 
-########## वैश्वानरः
+###### वैश्वानरः
 
 
 
@@ -9592,15 +9592,15 @@ Agni through the hymn which brings (him).
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###################### Strata
+###### Strata
 Cretic
 
-###################### Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-###################### Morph
+###### Morph
 agníḥ ← agní- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -9779,11 +9779,11 @@ sá ← sá- ~ tá- (pronoun)
 </details>
 <details><summary>Wilson</summary>
 
-##################### English translation:
+###### English translation:
 
 “**Agni**, who is present in the sky, and present upon earth, and who, present, has pervaded all herbs; may the Agni **Vaiśvānara**, who is present in vigour, guard us night and day, against our enemies”
 
-##################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 **Pṛṣṭa** = **saṃspṛṣṭa** = in contact with, or **nihita**, plural ced or present inth esky: Agni is in contact with, or present, in the sun; on earth, in sacred and domestic fire, and in herbs, or annuals, as the cause of their coming to maturity
 </details>
@@ -9870,7 +9870,7 @@ Begehrt im Himmel Agni und auf Erden, begehrt auch ging er ein in alle Pflanzen,
 </div>  
 
 
-########## द्यावा-पृथि॒वी
+###### द्यावा-पृथि॒वी
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ द्यावापृथिवीभ्यामꣳहोमुग्भ्यां द्विकपाल इत्यस्य पुरोनुवाक्यामाह– ये अप्रथेतामिति।   
@@ -9926,7 +9926,7 @@ Begehrt im Himmel Agni und auf Erden, begehrt auch ging er ein in alle Pflanzen,
 
 
 
-########## स्विष्टकृत्
+###### स्विष्टकृत्
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ स्विष्टकृतः पुरोनुवाक्यामाह– यत्ते वयमिति।   
@@ -10412,14 +10412,14 @@ him whom we hate and him who hateth us, I place him within your jaws.
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######################## Strata
+###### Strata
 Normal on metrical evidence alone
 
-######################## Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M
-######################## Morph
+###### Morph
 asthábhiḥ ← asthán- (nominal stem)  
 {case:INS, gender:N, number:PL}
 
@@ -10500,11 +10500,11 @@ navatī́ḥ ← navatí- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-####################### English translation:
+###### English translation:
 
 “**Indra**, with the bones of **Dadhīci**, slew ninety times nine **Vṛtras**.”
 
-####################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Dadhyañc = **Dadhīca** and Dadhīci, a sage. His bones formed the thunderbolt of Indra. dadhyañc, son of **Atharvan**, like the **asuras**, was intimidated and tranquilized by his appearance; but, when he went to **svarga**, the asuras overspread the whole earth. Indra, inquiring what had become of him and if something of him was left behind, was told that the horse's head with which he had at one time taught the **madhuvidyā** to the **aśvins**, was somewhere in existence, but no one knew where. After a searth, it was found in the lake Śaryaṇāvat, near **Kurukṣetra**. With the bones of the skull, Indra slew the asuras (i.e. foiled the nine times ninety or eight hundred and ten, strategems or devices of the asuras or Vṛtras\]. The number is accounted for by the legend that in the beginning, the **āsurī** **māyā** (demoniac illusion) was practised in the **three worlds**, for three periods (past, present, and future), thus becoming nine-fold; each was exerted with three **śaktis** or energies, thus becoming twenty seven; each was again modified by the three **guṇas**, thus becoming eighty-one; the scene of their display extended to each of the ten regions of space, thus becoming the nine times ninety of the text, or 810
 </details>
@@ -10611,14 +10611,14 @@ Mit Dadhiank's Gebeinen schlug, Indra, dem niemand widersteht, Die neunundneunzi
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######################## Strata
+###### Strata
 Normal on metrical evidence alone
 
-######################## Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M
-######################## Morph
+###### Morph
 áśvasya ← áśva- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -10704,7 +10704,7 @@ vidat ← √vid- 1 (root)
 </details>
 <details><summary>Wilson</summary>
 
-###################### English translation:
+###### English translation:
 
 “Wishing for the horse's head hidden in the mountains, he found is Śaryaṇāvat.”
 </details>
@@ -10809,14 +10809,14 @@ Verlangend nach des Rosses Haupt, das in den Bergen sich versteckt, Fand er's am
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######################## Strata
+###### Strata
 Normal on metrical evidence alone
 
-######################## Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M
-######################## Morph
+###### Morph
 áha ← áha (invariable)  
 {}
 
@@ -10964,11 +10964,11 @@ itthā́ ← itthā́ (invariable)
 </details>
 <details><summary>Wilson</summary>
 
-###################### English translation:
+###### English translation:
 
 “The (solar rays) found on this occasion the light of **Tvaṣṭā** verily concealed in the mansion of the moving moon.”
 
-###################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 The text has only 'they found'; **Āditya**-raśmayaḥ, rays of the sun is added. Tvaṣṭā = the Sun, an Āditya; also, identified with **Indra**, to whom the hymn is addressed. 'The rays of the sun are reflected back in the bright watery orb of the moon'; 'the solar radiance, concealed by the night, enters into the moon, and thus dispels darkness by night, as well as by day'. One ray of the sun (that named śuṣumnā lights up the moon; therefore, moon's light is derived from the sun (**Nirukta** 2,6)(cf. **Viṣṇu Purāṇa** 36)
 </details>
@@ -11073,14 +11073,14 @@ Dort fanden sie das Wesen auf des Stiers, den Tvaschtar hielt versteckt. Dort en
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######################## Strata
+###### Strata
 Strophic on metrical evidence alone
 
-######################## Pāda-label
+###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-######################## Morph
+###### Morph
 br̥hát ← br̥hánt- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -11198,11 +11198,11 @@ vā́ṇīḥ ← vā́ṇī- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-####################### English translation:
+###### English translation:
 
 “The chanters (of the **Soma**) extol **Indra** with songs, the reciters of the Ṛk with prayers, the priests of the **Yajuṣ**, with texts.”
 
-####################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Gāthina = singers; gīyamānasāma-**yuktā** udgātāraḥ, the **udgatās** with **sāmas** to be chanted;
 
@@ -11324,14 +11324,14 @@ Den Indra preist der Sänger Schar, mit Preisgesang die preisenden, Den Indra la
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######################## Strata
+###### Strata
 Strophic on metrical evidence alone
 
-######################## Pāda-label
+###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-######################## Morph
+###### Morph
 háryoḥ ← hári- (nominal stem)  
 {case:LOC, gender:M, number:DU}
 
@@ -11426,11 +11426,11 @@ vajrī́ ← vajrín- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-####################### English translation:
+###### English translation:
 
 “**Indra**, the blender of all things, comes verily with his steeds that are harnessed at his word; Indra, the richly-decorated, the wielder of the thunderbolt.”
 
-####################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Richly-decorated: **hiraṇyaya** = lit. golden, or made of gold
 </details>
@@ -11542,14 +11542,14 @@ Indra mit seiner Füchse Paar, dem Wagen, der aufs Wort sich schirrt, der goldne
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######################## Strata
+###### Strata
 Strophic on metrical evidence alone
 
-######################## Pāda-label
+###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-######################## Morph
+###### Morph
 cákṣase ← cákṣas- (nominal stem)  
 {case:DAT, gender:N, number:SG}
 
@@ -11649,11 +11649,11 @@ ví ← ví (invariable)
 </details>
 <details><summary>Wilson</summary>
 
-####################### English translation:
+###### English translation:
 
 “**Indra**, to render all things visible, elevated the sun in the sky, and charged the cloud with (abundant) waters.”
 
-####################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 **Vṛtra** envelopes the world in darkness; to remove darkness, Indra elevated the sun (ā-rohayat = sthāpitavān, plural ced) in the dyu-**loka** (heaven)
 </details>
@@ -11761,14 +11761,14 @@ Die Sonne liess er, weit zu schaun, am Himmel steigen, er zerschlug Den Fels und
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######################## Strata
+###### Strata
 Strophic on metrical evidence alone
 
-######################## Pāda-label
+###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-######################## Morph
+###### Morph
 ava ← √avⁱ- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
 
@@ -11857,7 +11857,7 @@ ugráḥ ← ugrá- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-####################### English translation:
+###### English translation:
 
 “Invincible **Indra**, protect us in battles abounding in spoil, with insuperable defenceṣ”
 </details>
@@ -11959,14 +11959,14 @@ Hilf in den Schlachten, Indra, uns, im Kampf, der tausend Schätze bringt, Mit m
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######################## Strata
+###### Strata
 Strophic
 
-######################## Pāda-label
+###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-######################## Morph
+###### Morph
 índram ← índra- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -12065,7 +12065,7 @@ vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-####################### English translation:
+###### English translation:
 
 “We invigorate that (great) **Indra** for the slaying of mighty **Vṛtra**, may he be a bounteous showerer (ofwealth).”
 </details>
@@ -12164,7 +12164,7 @@ Ihm, diesem Indra, geben wir zum Mord des grossen Vritra Kraft; Der Held erweise
 </details>
 
 
-########## मेनिवारणम्
+###### मेनिवारणम्
 
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_01-09_chaxuSho_hete/02_chaxuSho_hete.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
@@ -12219,7 +12219,7 @@ Ihm, diesem Indra, geben wir zum Mord des grossen Vritra Kraft; Der Held erweise
 
 
 
-########## अभिचार-प्रतीकारः
+###### अभिचार-प्रतीकारः
 
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_01-09_chaxuSho_hete/08_yat_kinchAsau.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
@@ -12274,7 +12274,7 @@ Ihm, diesem Indra, geben wir zum Mord des grossen Vritra Kraft; Der Held erweise
 
 
 
-########## प्रतिज्ञा
+###### प्रतिज्ञा
 
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_01-09_chaxuSho_hete/14_hanmi_te-ham.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
@@ -12329,7 +12329,7 @@ Ihm, diesem Indra, geben wir zum Mord des grossen Vritra Kraft; Der Held erweise
 
 
 
-########## अभिचार-प्रतीकारः
+###### अभिचार-प्रतीकारः
 
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_01-09_chaxuSho_hete/20_purA.amuShya.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
@@ -13520,7 +13520,7 @@ Ihm, diesem Indra, geben wir zum Mord des grossen Vritra Kraft; Der Held erweise
 </details>
 </div>
 
-########## वाक्
+###### वाक्
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/2/8_kAmya-pashavaH/8_09-14_devIm_vAcham/">
 <details open><summary><h10>०९-१४ देवीं वाचम् ...{Loading}...</h10></summary>
@@ -13559,15 +13559,15 @@ Ihm, diesem Indra, geben wir zum Mord des grossen Vritra Kraft; Der Held erweise
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-################################ Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-################################ Pāda-label
+###### Pāda-label
 popular  
 popular  
 popular  
 popular
-################################ Morph
+###### Morph
 ajanayanta ← √janⁱ- (root)  
 {number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
 
@@ -13749,11 +13749,11 @@ ______________
 </details>
 <details><summary>Wilson</summary>
 
-############################### English translation:
+###### English translation:
 
 “The gods produced the goddess Vāk; her do animals of every kind utter; may she, Vāk, theall-gladdening cow, yielding meat and drink, come to us, worthily praised.”
 
-############################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 The thunder entering into all beings,becomes the speaker of moral truth, eṣā **mādhyamikā** vāk sarvaprāṇyantargatā dharmābhivādinībhavati; animals of every kind: whether their utterance be articulare or inarticulate
 </details>
@@ -13829,15 +13829,15 @@ Die Göttin Vāk haben die Götter erzeugt, die vielgestaltigen Thieren reden si
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-################################ Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-################################ Pāda-label
+###### Pāda-label
 popular  
 popular  
 popular  
 popular
-################################ Morph
+###### Morph
 avicetanā́ni ← avicetaná- (nominal stem)  
 {case:NOM, gender:N, number:PL}
 
@@ -13987,11 +13987,11 @@ _________________
 </details>
 <details><summary>Wilson</summary>
 
-############################### English translation:
+###### English translation:
 
 “When Vāk, the **queen**, the gladdener of the gods, sits down (in the sacrifice) uttering things not to beunderstood, she milks water and food for the four quarters (of the earth); whither now is her best portion gone?”
 
-############################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 **Nirukta** 11.28: Vāk here is the thunder; cf. RV 8.69.14; best portion = the rain, which sinks in the earth or istaken up by the sun's rays
 </details>
@@ -14191,15 +14191,15 @@ Wenn Vāk [die Stimme], die Königin der Götter, unverständliche Worte [den Do
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-################################ Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-################################ Pāda-label
+###### Pāda-label
 popular  
 popular  
 popular  
 popular
-################################ Morph
+###### Morph
 catvā́ri ← catúr- (nominal stem)  
 {case:ACC, gender:N, number:PL}
 
@@ -14372,11 +14372,11 @@ ______________
 </details>
 <details><summary>Wilson</summary>
 
-############################### English translation:
+###### English translation:
 
 “Four are the definite grades of spech; those **Brahmaṇas** who are wise know them; three, deposited in secret, indicate no meaning; men speak the fourth grade of speech.”
 
-############################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Four are: catvāri vākparimitā padāni: the language of the **mantras**, the **kalpa**, the **brāhmaṇa** and **laukika**, or current speech (**Taittirīya** Samhitā 1.31.2); those **brāhmaṇas**: brāhmaṇā ye manīṣiṇaḥ: brāhmaṇā = those acquainted with the **śabdabrahma**, **brahma** as the word, or, the **yogis**, mystics; fourth grad eof speech: vāk, speech, was created fourfold, three kinds of which are in the three regions, the fourth amongst the **paśus**; the form on earth, associated with **Agni** is in the **rathantara**; the form in the firmament, associated with **Vāyu**, is in the **Vāmadevya** mantras; that which is in heaven, with **Āditya**, is **Bṛhatī**, or in the thunder (stanayitnau); whatever else was more than this was plural ced amongst the paśus, liṭ, animals; here the brāhmaṇas are implied: **atha** paśuṣu tato yā vāg atiricyate tām brāhmaṇeṣu adaduḥ; thus, the brāhmaṇas speak both languages, that of the gods and that of man (tasmād brāhmaṇā ubharyo vācam vadanti yā ca devānām yā ca manuṣyāṇa(m (**Nirukta** 13.9)
 </details>
@@ -14449,7 +14449,7 @@ Die Rede hat vier abgegrenzte Gattungen; die sind bekannt den Brahmanen, welche 
 </details>
 </div>
 
-########## श्रद्धा
+###### श्रद्धा
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/2/8_kAmya-pashavaH/8_15-20_shraddhayA/">
 <details open><summary><h10>८ १५-२० श्रद्धया ...{Loading}...</h10></summary>
@@ -14485,15 +14485,15 @@ Die Rede hat vier abgegrenzte Gattungen; die sind bekannt den Brahmanen, welche 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-################################ Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-################################ Pāda-label
+###### Pāda-label
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
-################################ Morph
+###### Morph
 agníḥ ← agní- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -14602,7 +14602,7 @@ ______________
 </details>
 <details><summary>Wilson</summary>
 
-############################### English translation:
+###### English translation:
 
 “**Agni** is kindled by **Śraddhā**, by Śraddhā is the oblation offered; with our praise we glorifyFaith, of the family of Love; cf. **Nirukta** 9.31\].”
 </details>
@@ -14692,15 +14692,15 @@ Durch Glauben wird das Feu'r entflammt, durch Glauben Opferguss geweiht; Auch au
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-################################ Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-################################ Pāda-label
+###### Pāda-label
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
-################################ Morph
+###### Morph
 dádataḥ ← √dā- 1 (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
 
@@ -14822,7 +14822,7 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-############################### English translation:
+###### English translation:
 
 “O Śraddhā\_, grant the desire of the donor (of the oblation), grant, O **Śraddhā**, the desire of himwho wishes to give, grant this boon which I have mentioned to my sacrificers who solicit happiness.”
 </details>
@@ -14904,15 +14904,15 @@ O Glaube, lieb mach dieses Wort des Spenders, der noch spenden will, Mach lieb e
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-################################ Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-################################ Pāda-label
+###### Pāda-label
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
-################################ Morph
+###### Morph
 ásureṣu ← ásura- (nominal stem)  
 {case:LOC, gender:M, number:PL}
 
@@ -15031,7 +15031,7 @@ __________
 </details>
 <details><summary>Wilson</summary>
 
-############################### English translation:
+###### English translation:
 
 “As the gods had faith in (their fight with) the **Asuras**, so grant the boon which has been asked for toour sacrificers who solicit happiness.”
 </details>
@@ -15112,15 +15112,15 @@ Wie Götter der Asurenschar, der starken, schenkten ihr Vertraun, So mache du au
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-################################ Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-################################ Pāda-label
+###### Pāda-label
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
-################################ Morph
+###### Morph
 devā́ḥ ← devá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -15225,11 +15225,11 @@ ___________________
 </details>
 <details><summary>Wilson</summary>
 
-############################### English translation:
+###### English translation:
 
 “Gods, worshippers, and those who are protected by **Vāyu**, solicit **Śraddhā**, (they cherish) Śraddhāwith heartfelt desire, through Śraddhā a man acquires wealth.”
 
-############################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 **Yajus**. 8.44; **Nirukta** 7.2
 </details>
@@ -15311,15 +15311,15 @@ Den Glauben ehren andachtsvoll die Götter, die der Wind beschirmt; Der Glaube w
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-################################ Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-################################ Pāda-label
+###### Pāda-label
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
-################################ Morph
+###### Morph
 havāmahe ← √hū- (root)  
 {number:PL, person:1, mood:IND, tense:PRS, voice:MED}
 
@@ -15436,7 +15436,7 @@ _________________
 </details>
 <details><summary>Wilson</summary>
 
-############################### English translation:
+###### English translation:
 
 “We invoke **Śraddhā** at dawn, and again at midday, and also at the setting of the sun; inspire us inthis world, Śraddhā, with faith.”
 </details>
@@ -15518,7 +15518,7 @@ Den Glauben rufen Morgens wir, den Glauben in der Mittagszeit Den Glauben, wenn 
 </details>
 </div>
 
-########## ब्रह्म
+###### ब्रह्म
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam">
 <details open><summary><h10>८ २१-२६ ब्रह्म जज्ञानम् ...{Loading}...</h10></summary>
@@ -15743,7 +15743,7 @@ Den Glauben rufen Morgens wir, den Glauben in der Mittagszeit Den Glauben, wenn 
 </details>
 </div>
 
-########## गौः
+###### गौः
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/2/8_kAmya-pashavaH/8_27-33_A_gAvo">
 <details open><summary><h10>८ २७-३३ आ गावो अग्मन् ...{Loading}...</h10></summary>
@@ -15779,15 +15779,15 @@ Den Glauben rufen Morgens wir, den Glauben in der Mittagszeit Den Glauben, wenn 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-################################ Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-################################ Pāda-label
+###### Pāda-label
 popular  
 popular  
 popular  
 popular
-################################ Morph
+###### Morph
 ā́ ← ā́ (invariable)  
 {}
 
@@ -15951,7 +15951,7 @@ uṣásaḥ ← uṣás- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-############################### English translation:
+###### English translation:
 
 “May the cows come and bring good fortune; let them lie down in (our) stalls and be plural ased with us; may the many-coloured kine here be parboiled milk for **Indra** on many dawns.”
 </details>
@@ -16062,15 +16062,15 @@ Gekommen sind die Kühe, Holdes wirkend, sie mögen ruhn im Stall, bei uns sich 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-################################ Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-################################ Pāda-label
+###### Pāda-label
 popular  
 popular  
 popular  
 popular
-################################ Morph
+###### Morph
 ca ← ca (invariable)  
 {}
 
@@ -16241,11 +16241,11 @@ ní ← ní (invariable)
 </details>
 <details><summary>Wilson</summary>
 
-############################### English translation:
+###### English translation:
 
 “**Indra** grants the desires of the man who offers to him sacrifice and praise; he ever bestows upon him wealth, and deprives him not of that which is his own; again and again increasing his riches, he plural ces the devout man in an inaccessible fortress.”
 
-############################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Abhinna khilye: śatrubhirabhetavye, not to be breached by enemies;
 
@@ -16399,15 +16399,15 @@ Indra schenkt Gut dem opfernden und spendenden; er theilt ihm mit und entzieht i
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-################################ Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-################################ Pāda-label
+###### Pāda-label
 popular  
 popular  
 popular  
 popular
-################################ Morph
+###### Morph
 árvā ← árvan- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -16592,11 +16592,11 @@ ___________________
 </details>
 <details><summary>Wilson</summary>
 
-############################### English translation:
+###### English translation:
 
 “Let not the dust-spurning (war) horse reach them nor let them fall in the way of sacrificial consecration let the cattle of the man who offers sacrifice wander about at large and without fear.”
 
-############################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Not let them fall: na saṃskṛtatram abhyupayanti = viśasanādisaṃskādisaṃskāram nābhyupagacchantu, let them not go right to the consecration of immolation; as metonymy, perhaps the cows means their produce, milk and butter, which are constantly offered
 </details>
@@ -16738,15 +16738,15 @@ Nicht holt ein Kriegsross mit bestäubtem Kopf sie ein, noch werden je sie zu de
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-################################ Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-################################ Pāda-label
+###### Pāda-label
 popular  
 popular  
 popular  
 popular
-################################ Morph
+###### Morph
 cit ← cit (invariable)  
 {}
 
@@ -16915,11 +16915,11 @@ váyaḥ ← váyas- 2 (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-############################### English translation:
+###### English translation:
 
 “Do you, cows, give us nourisment; render the emaciated, the unlovely body the reverse; do you, whose lowing is auspicious, make my dwelling prosperous; great is the abundance that is attributed to you in religious assemblies.”
 
-############################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Bṛhad vo **vaya** ucyate sabhāsu, great of you the food is said in assemblies; or, great is the food given to you in assemblies, it is given by all, sarvair dīyate ityarthaḥ
 </details>
@@ -17220,15 +17220,15 @@ Ihr Kühe machet fett sogar den magern, den hässlichen auch macht ihr schön vo
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-################################ Strata
+###### Strata
 Cretic
 
-################################ Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-################################ Morph
+###### Morph
 asyá ← ayám (pronoun)  
 {case:GEN, gender:M, number:SG}
 
@@ -17370,11 +17370,11 @@ ____________
 </details>
 <details><summary>Wilson</summary>
 
-############################## English translation:
+###### English translation:
 
 “The seven rivers display his glory; heaven, and earth, and sky display his visible form; the sun and moon, **Indra**,perform their revolution, that we may see, and have faith in what we see.”
 
-############################## Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Ahi and **Vṛtra** are differently-formed clouds. **Rauhina** = an **asura**, possibly, a red cloud
 </details>
@@ -17485,7 +17485,7 @@ Die sieben Ströme wahren schutzreich seinen Ruhm, die weiten Erd' und Himmel se
 
 
 
-########## पावमान्यः - अद्भ्यो वेहतम्
+###### पावमान्यः - अद्भ्यो वेहतम्
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 7यदुक्तं सूत्रकारेण - 'अद्भ्यो वेहतम्' इति । तस्य पशोः सूक्ते षण्णामृचां प्रतीकानि दर्शयति - 'हिरण्यवर्णाः शुचयः पावकाः' इति वपायाः पुरोनुवाक्या ।
@@ -17609,7 +17609,7 @@ Die sieben Ströme wahren schutzreich seinen Ruhm, die weiten Erd' und Himmel se
 </div>
 
 
-########## आपः
+###### आपः
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
@@ -17700,14 +17700,14 @@ Die sieben Ströme wahren schutzreich seinen Ruhm, die weiten Erd' und Himmel se
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-################ Strata
+###### Strata
 Cretic
 
-################ Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M
-################ Morph
+###### Morph
 ā́paḥ ← áp- (nominal stem)  
 {case:VOC, gender:F, number:PL}
 
@@ -17819,11 +17819,11 @@ ráṇāya ← ráṇa- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-############### English translation:
+###### English translation:
 
 “Since, waters, you are the sources of happiness, grant to us to enjoy abundance, and great anddelightful perception.”
 
-############### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Great and delightful perception: mahe raṇāya cakṣase = samyajñānam, perfectknowledge of **brahman**; the ṛca solicits happiness both in this world and in the next; the rapturous sight of thesupreme god; to behold great joy
 </details>
@@ -17881,7 +17881,7 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 </div>
 
 
-########## नासदीयम्
+###### नासदीयम्
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/2/8_kAmya-pashavaH/9_08-16_nAsadIyam">
 <details open><summary><h10>९ ०८-१६ नासदीयम् ...{Loading}...</h10></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarva-prastutiH/10/129_nAsadIyam/">
@@ -17911,7 +17911,7 @@ But even if thought is the ultimate and primal creative act, the origin of the  
 </div>
 
 
-######################## 01 नासदासीन्नो सदासीत्तदानीम् - त्रिष्टुप्
+###### 01 नासदासीन्नो सदासीत्तदानीम् - त्रिष्टुप्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129/01_nAsadAsInno_sadAsIttadAnIM.md">
 <details open><summary><h15>विश्वास-प्रस्तुतिः ...{Loading}...</h15></summary>
 
@@ -17945,15 +17945,15 @@ But even if thought is the ultimate and primal creative act, the origin of the  
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-################################ Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-################################ Pāda-label
+###### Pāda-label
 popular  
 popular  
 popular  
 popular
-################################ Morph
+###### Morph
 ásat ← ásant- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -18166,11 +18166,11 @@ ___________
 </details>
 <details><summary>Wilson</summary>
 
-############################### English translation:
+###### English translation:
 
 “The non-existent was not, the existent was not; then the world was not, not the firmament, nor thatwhich is above (the firmament). How could there by any investing envelope, and where? Of what (could there be)felicity? How (could there be) the deep unfathomable water?”
 
-############################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 The non-existent: sat, asat: visible and invisibleexistence (asat śaśaviṣāṇavatrirupākhyam nāsīt: **Taittirīya** **Saṃhitā** 7.1.5.1); matter and spirit, prakṛtiand **puruṣa**; the First Cause or **Brahmā** was in the beginning undeveloped in its effects, and existed beforeboth; investing envelope: each element as created or developed is invested by its rudiment; of what could therebe felicity: i.e., of whom or of what living being could enjoyment, or fruition, whether of pain or plural asure, bepredicated, there being no life?
 </details>
@@ -18233,7 +18233,7 @@ Zu jener Zeit war weder Sein, noch Nichtsein, nicht war der Luftraum, noch der H
 </details>
 </div>
 
-######################## 02 न मृत्युरासीदमृतम् - त्रिष्टुप्
+###### 02 न मृत्युरासीदमृतम् - त्रिष्टुप्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129/02_na_mRtyurAsIdamRtaM.md">
 <details open><summary><h15>विश्वास-प्रस्तुतिः ...{Loading}...</h15></summary>
 
@@ -18267,15 +18267,15 @@ Zu jener Zeit war weder Sein, noch Nichtsein, nicht war der Luftraum, noch der H
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-################################ Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-################################ Pāda-label
+###### Pāda-label
 popular  
 popular  
 popular  
 popular
-################################ Morph
+###### Morph
 amŕ̥tam ← amŕ̥ta- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -18479,11 +18479,11 @@ ___________
 </details>
 <details><summary>Wilson</summary>
 
-############################### English translation:
+###### English translation:
 
 “Death was not nor at that period immortality, there was no indication of day, of night; That Oneunbreathed upon breathed of his own strength, other than That there was nothing else whatever.”
 
-############################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Breathed:**svadhā** = **māyā**, or **prakṛti** (illusion or nature), the source of the world of phenomena;
 
@@ -18540,7 +18540,7 @@ Nicht Tod und nicht Unsterblichkeit war damals, nicht gab's des Tages noch der N
 </details>
 </div>
 
-######################## 03 तम आसीत्तमसा - त्रिष्टुप्
+###### 03 तम आसीत्तमसा - त्रिष्टुप्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129/03_tama_AsIttamasA.md">
 <details open><summary><h15>विश्वास-प्रस्तुतिः ...{Loading}...</h15></summary>
 
@@ -18574,15 +18574,15 @@ Nicht Tod und nicht Unsterblichkeit war damals, nicht gab's des Tages noch der N
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-################################ Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-################################ Pāda-label
+###### Pāda-label
 popular  
 popular  
 popular  
 popular
-################################ Morph
+###### Morph
 ágre ← ágra- (nominal stem)  
 {case:LOC, gender:N, number:SG}
 
@@ -18768,11 +18768,11 @@ _______________
 </details>
 <details><summary>Wilson</summary>
 
-############################### English translation:
+###### English translation:
 
 “There was darkness covered by darkness in the beginning, all this (world) was undistinguishablewater; that empty united (world) which was covered by a mere nothing, was produced through the power ofausterity.”
 
-############################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Austerity: **tapas** = not penance, but the contemplation of things which were to be created: yahsarvajñaḥ sarvavit yasya jñānamayam **tapaḥ**: **Muṇḍa**.ka **Upaniṣad** 1.1.9
 </details>
@@ -18827,7 +18827,7 @@ Nur Dunkel war, verhüllt von Dunkel, anfangs und unerkennbar wogte dieses alles
 </details>
 </div>
 
-######################## 04 कामस्तदग्रे समवर्तताधि - त्रिष्टुप्
+###### 04 कामस्तदग्रे समवर्तताधि - त्रिष्टुप्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129/04_kAmastadagre_samavartatAdhi.md">
 <details open><summary><h15>विश्वास-प्रस्तुतिः ...{Loading}...</h15></summary>
 
@@ -18861,15 +18861,15 @@ Nur Dunkel war, verhüllt von Dunkel, anfangs und unerkennbar wogte dieses alles
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-################################ Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-################################ Pāda-label
+###### Pāda-label
 popular  
 popular  
 popular  
 popular
-################################ Morph
+###### Morph
 ádhi ← ádhi (invariable)  
 {}
 
@@ -19045,11 +19045,11 @@ _______________
 </details>
 <details><summary>Wilson</summary>
 
-############################### English translation:
+###### English translation:
 
 “In the beginning there was desire, which was the first seed of mind; sages having meditated in theirhearts have discovered by their wisdom the connexion of the existent with te non-existent.”
 
-############################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Desire: i.e., in themind of the Supreme Being
 </details>
@@ -19105,7 +19105,7 @@ Da regte sich zuerst in ihm Begierde, als sich des Geistes erster Same zeigte; E
 </details>
 </div>
 
-######################## 05 तिरश्चीनो विततो - त्रिष्टुप्
+###### 05 तिरश्चीनो विततो - त्रिष्टुप्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129/05_tirashchIno_vitato.md">
 <details open><summary><h15>विश्वास-प्रस्तुतिः ...{Loading}...</h15></summary>
 
@@ -19140,15 +19140,15 @@ Da regte sich zuerst in ihm Begierde, als sich des Geistes erster Same zeigte; E
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-################################ Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-################################ Pāda-label
+###### Pāda-label
 popular  
 popular  
 popular  
 popular
-################################ Morph
+###### Morph
 eṣām ← ayám (pronoun)  
 {case:GEN, gender:M, number:PL}
 
@@ -19304,11 +19304,11 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-############################### English translation:
+###### English translation:
 
 “Their ray was stretched out, whether across, or below, or above; (some) were shedders of seed,(others) were mighty; food was inferior; the eater was superior.”
 
-############################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Their ray was stretched out: a reference to thesuddenness of creation, which was developed in the twinkling of an eye, like the flash of the sun's ray. It was soquick that it was doubtful whether the things in the central space (across) were created first, or those above orthose below; i.e., creation took plural ce simultaneously in all three portions of the universe. This was the order inwhich things were created, but the development of the world was like a flash of lightning, so that the series couldnot be distinguished (tatsṛṣṭvā tadevānuprāviṣat: **Taittirīya** **Āraṇyaka** 8.6). Thus the notion of a series,viz., from **ātmā** came the **ākāśa**, from the ākāśa the wind, from the wind fire etc., is reconciled: ātmanaākāśaḥ **sambhūta** ākāśādvāyurvāyoragniḥ: Taittirīya Āraṇyaka 8.1; whether across, or below, orabove: tiraścinaḥ = across, **tiryaksrotas**, that in which the stream of life is horizontal, i.e., the animal world;among the created objects some were living creatures, others were great, as the sky etc., the former being theenjoyers (bhoktāraḥ), the latter the things to be enjoyed (**bhojyaḥ**), so the creation was distinguished as thefood and the feeder
 </details>
@@ -19363,7 +19363,7 @@ Und quer hindurch, war ihre Schnur gezogen, was war darunter? und was war darüb
 </details>
 </div>
 
-######################## 06 को अद्धा - त्रिष्टुप्
+###### 06 को अद्धा - त्रिष्टुप्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129/06_ko_addhA.md">
 <details open><summary><h15>विश्वास-प्रस्तुतिः ...{Loading}...</h15></summary>
 
@@ -19397,15 +19397,15 @@ Und quer hindurch, war ihre Schnur gezogen, was war darunter? und was war darüb
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-################################ Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-################################ Pāda-label
+###### Pāda-label
 popular;; repeated line  
 popular;; 12 = 5+7, ending LHX  
 popular  
 popular
-################################ Morph
+###### Morph
 addhā́ ← addhā́ (invariable)  
 {}
 
@@ -19578,11 +19578,11 @@ ____________________
 </details>
 <details><summary>Wilson</summary>
 
-############################### English translation:
+###### English translation:
 
 “Who really knows? Who in this world may declare it! whence was this creation, whence was itengendered? The gods (were) subsequent to the (world's) creation; so who knows whence it arose?”
 
-############################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Whencewas it engendered: i.e., from what material cause, and from what creative cause, did it arise?
 </details>
@@ -19637,7 +19637,7 @@ Wer weiss es recht? wer mag es hier verkünden? woher entstand, woher sie kam di
 </details>
 </div>
 
-######################## 07 इयं विसृष्थिर्यत - त्रिष्टुप्
+###### 07 इयं विसृष्थिर्यत - त्रिष्टुप्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129/07_iyaM_visRShTiryata.md">
 <details open><summary><h15>विश्वास-प्रस्तुतिः ...{Loading}...</h15></summary>
 
@@ -19671,15 +19671,15 @@ Wer weiss es recht? wer mag es hier verkünden? woher entstand, woher sie kam di
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-################################ Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-################################ Pāda-label
+###### Pāda-label
 popular  
 popular  
 popular  
 popular
-################################ Morph
+###### Morph
 ābabhū́va ← √bhū- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
 
@@ -19862,11 +19862,11 @@ _________________
 </details>
 <details><summary>Wilson</summary>
 
-############################### English translation:
+###### English translation:
 
 “He from whom this creation arose, he may uphold it, or he may not (no one else can); he who is itssuperintendent in the highest heaven, he assuredly knows, or if he knows not (no one else does).”
 
-############################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Sa bhagavahkasmin **pratiṣṭhita**: **Chāndogya Upaniṣad** 7.24.1
 </details>
@@ -19949,15 +19949,15 @@ Von wannen diese Schöpfung sei gekommen, ob sie geschaffen oder unerschaffen, D
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-########################## Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-########################## Pāda-label
+###### Pāda-label
 popular;; repeated line  
 popular;; repeated line  
 popular  
 popular
-########################## Morph
+###### Morph
 āsa ← √as- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
 
@@ -20130,11 +20130,11 @@ ____________
 </details>
 <details><summary>Wilson</summary>
 
-######################### English translation:
+###### English translation:
 
 “Which was the forest, which the tree, from which they fabricated heaven and earth? Inquire, sages, inyour minds what (plural ce) he was stationed in when holding the worlds.”
 
-######################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 They: i.e., the makers of the world,directed by **Parameśvara**
 </details>
@@ -20199,7 +20199,7 @@ Was war der Wald, und was war jener Baum doch, aus dem sie Erd' und Himmel schö
 </details>
 </div>
 
-########## भाग्य-सूक्तम् - प्रातर् अग्निम्
+###### भाग्य-सूक्तम् - प्रातर् अग्निम्
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/2/8_kAmya-pashavaH/9_17_prAtar_agnim">
 <details open><summary><h10>९ १७ प्रातर् अग्निम् ...{Loading}...</h10></summary>
@@ -20242,15 +20242,15 @@ Was war der Wald, und was war jener Baum doch, aus dem sie Erd' und Himmel schö
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-#################################### Strata
+###### Strata
 Cretic
 
-#################################### Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-#################################### Morph
+###### Morph
 agním ← agní- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -20421,7 +20421,7 @@ _____________
 </details>
 <details><summary>Wilson</summary>
 
-################################### English translation:
+###### English translation:
 
 “We invoke at dawn **Agni**; at dawn **Indra**; at dawn **Mitra** and **Varuṇa**; at dawn the **Aśvins**; at dawnBhaga, **Pūṣan**, **Brahmaṇaspati**; at dawn **Soma** and **Rudra**.”
 </details>
@@ -20542,15 +20542,15 @@ Frühmorgens laden Agni wir und Indra ein, frühmorgens Mitra-Varuna, die Ritter
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-#################################### Strata
+###### Strata
 Cretic
 
-#################################### Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-#################################### Morph
+###### Morph
 bhágam ← bhága- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -20746,11 +20746,11 @@ _______________
 </details>
 <details><summary>Wilson</summary>
 
-################################### English translation:
+###### English translation:
 
 “We invoke at dawn fierce **Bhaga**, the son of **Aditi**, who is the sustainer (of the world), to whom the poorman praising him applies, saying, give (me wealth), to whom the opulent prince (addresses the same prayer).”
 
-################################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Towhom the poor man: ādhraścid yam **manya** **mānas** turascid **rājā** cid yam bhagam bhakṣity aha: the ādhra= unsatisfied, hungry, or poor;
 
@@ -20875,15 +20875,15 @@ Wir wollen den, der früh gewinnt und austheilt, den mächt'gen Bhaga, den Aditj
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-#################################### Strata
+###### Strata
 Cretic
 
-#################################### Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-#################################### Morph
+###### Morph
 bhága ← bhága- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -21081,7 +21081,7 @@ _____________
 </details>
 <details><summary>Wilson</summary>
 
-################################### English translation:
+###### English translation:
 
 “**Bhaga**, chief leader of rites, Bhaga, faithful granting (our wishes), fructify ceremony, enrich us withcattle and horses; may we Bhaga, be eminent with **male** descendants and followers.”
 </details>
@@ -21206,15 +21206,15 @@ O Bhaga, Führer, Bhaga, wahrhaft reicher, begünst'ge, Bhaga, dieses Lied, uns 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-#################################### Strata
+###### Strata
 Cretic
 
-#################################### Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-#################################### Morph
+###### Morph
 bhágavantaḥ ← bhágavant- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -21366,11 +21366,11 @@ _______________
 </details>
 <details><summary>Wilson</summary>
 
-################################### English translation:
+###### English translation:
 
 “May we now have **Bhaga** (for our lord), whether in the forenoon or mid- day, or at sun-rise; may we,**Maghavan**, enjoy the favour of the gods.”
 
-################################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Bhaga: utedanim bhagavantaḥ **syāma**, may we be now possessors ofBhaga; or, may we be possessors of wealth;
 
@@ -21499,15 +21499,15 @@ Auch jetzt versorge uns mit reichem Antheil beim Tages Anbruch und in Tages Mitt
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-#################################### Strata
+###### Strata
 Cretic
 
-#################################### Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-#################################### Morph
+###### Morph
 astu ← √as- 1 (root)  
 {number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
 
@@ -21701,11 +21701,11 @@ _________________
 </details>
 <details><summary>Wilson</summary>
 
-################################### English translation:
+###### English translation:
 
 “May **Bhaga**, gods, be the possessor of opulence, and, through him, may we be possessed of wealth,every one verily repeatedly invokes you, Bhaga; do you, Bhaga, be our preceder at this solemnity.”
 
-################################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Bhaga:Bhaga eva **bhagavān** **astu** dhanavān, having wealth; **pura** eta = **puro** ganta, one who goes before; may mean,**purohita**, or family priest
 </details>
@@ -21834,15 +21834,15 @@ Ja reich an Gaben sei, o Götter, Bhaga, durch ihn auch mögen wir an Gaben reic
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-#################################### Strata
+###### Strata
 Cretic
 
-#################################### Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-#################################### Morph
+###### Morph
 adhvarā́ya ← adhvará- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -22005,11 +22005,11 @@ ____________
 </details>
 <details><summary>Wilson</summary>
 
-################################### English translation:
+###### English translation:
 
 “May the dawn come to our sacrifice as a horse to a suitable station; as rapid steeds convey a chariot,so may the dawns bring to us **Bhaga**, down- descending, charged with riches.”
 
-################################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Station: śucaye padāya =gamanayogyāya sthānāya; or, agnyādhanārtham śucai padam, a pure plural ce for the receptacle of the fire;
 
@@ -22131,15 +22131,15 @@ Zum Opfer mögen sich die Morgenröthen, wie Dadhikra zum hellen Orte wenden; Si
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-#################################### Strata
+###### Strata
 Cretic
 
-#################################### Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#################################### Morph
+###### Morph
 áśvāvatīḥ ← áśvāvant- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -22286,7 +22286,7 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-################################### English translation:
+###### English translation:
 
 “{Text is missing}”
 </details>
@@ -22408,7 +22408,7 @@ Stets mögen uns die Morgenröthen leuchten die schönen, reich an Rossen, Rinde
 
 
 
-########## कृत्तिकाः - अग्निः
+###### कृत्तिकाः - अग्निः
 
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/01_agnirnapH_pAtu.md">
@@ -22500,7 +22500,7 @@ Stets mögen uns die Morgenröthen leuchten die schönen, reich an Rossen, Rinde
 </details>
 </div>  
 
-########## रोहिणी - प्रजापतिः
+###### रोहिणी - प्रजापतिः
 
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/03_prajApate_rohiNI.md">
@@ -22595,7 +22595,7 @@ Stets mögen uns die Morgenröthen leuchten die schönen, reich an Rossen, Rinde
 
 
 
-########## मृगशीर्षम् - सोमः
+###### मृगशीर्षम् - सोमः
 
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/05_somo_rAjA.md">
@@ -22707,7 +22707,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 
 
-########## आर्द्रा - रुद्रः
+###### आर्द्रा - रुद्रः
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/07_ArdrayA_rudrapH.md">
 <details open><summary><h7>07 आर्द्रया रुद्रᳶ ...{Loading}...</h7></summary>
@@ -22795,7 +22795,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 
 
-########## पुनर्वसू - अदितिः
+###### पुनर्वसू - अदितिः
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/09_punarno.md">
 <details open><summary><h7>09 पुनर्नो ...{Loading}...</h7></summary>
@@ -22887,7 +22887,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 
 
-########## तिष्यम् / पुष्यम् - बृहस्पतिः
+###### तिष्यम् / पुष्यम् - बृहस्पतिः
 
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/11_bRhaspatipH_prathamanjAyamAnaH.md">
@@ -22974,7 +22974,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 
 
-########## आश्रेषाः - सर्पाः
+###### आश्रेषाः - सर्पाः
 
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/13_idaM_sarpebhyo.md">
@@ -23059,7 +23059,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 
 
-########## मघाः - पितरः
+###### मघाः - पितरः
 
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/15_upahUtApH_pitaro.md">
@@ -23141,7 +23141,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 
 
-########## पूर्व-फल्गुन्यः  - अर्यमा
+###### पूर्व-फल्गुन्यः  - अर्यमा
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/17_gavAmpatipH_phalgunInAmasi.md">
 <details open><summary><h7>17 गवाम्पतिᳶ फल्गुनीनामसि ...{Loading}...</h7></summary>
@@ -23220,7 +23220,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 
 
-########## उत्तर-फल्गुन्यः - भगः
+###### उत्तर-फल्गुन्यः - भगः
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/19_shreShTho_devAnAmbhagavo.md">
 <details open><summary><h7>19 श्रेष्ठो देवानाम्भगवो ...{Loading}...</h7></summary>
@@ -23301,7 +23301,7 @@ Denebola - β, 93 Leonis
 
 
 
-########## हस्तः - सविता
+###### हस्तः - सविता
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/21_AyAtu_devassavitopayAtu.md">
 <details open><summary><h7>21 आयातु देवस्सवितोपयातु ...{Loading}...</h7></summary>
@@ -23384,7 +23384,7 @@ Corvus- α , β , γ , δ , ε Corvi.
 
 
 
-########## चित्रा - त्वष्टा
+###### चित्रा - त्वष्टा
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/23_tvaShTA_nakhShatramabhyeti.md">
 <details open><summary><h7>23 त्वष्टा नख्षत्रमभ्येति ...{Loading}...</h7></summary>
@@ -23474,7 +23474,7 @@ Corvus- α , β , γ , δ , ε Corvi.
 
 
 
-########## निष्ट्या, स्वातिः - वायुः
+###### निष्ट्या, स्वातिः - वायुः
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/25_vAyurnakhShattramabhyeti.md">
 <details open><summary><h7>25 वायुर्नख्षत्त्रमभ्येति ...{Loading}...</h7></summary>
@@ -23556,7 +23556,7 @@ Corvus- α , β , γ , δ , ε Corvi.
 
 
 
-########## विशाखे - इन्द्राग्नी
+###### विशाखे - इन्द्राग्नी
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/27_dUramasmachChatravo_yantu.md">
 <details open><summary><h7>27 दूरमस्मच्छत्रवो यन्तु ...{Loading}...</h7></summary>
@@ -23644,7 +23644,7 @@ Corvus- α , β , γ , δ , ε Corvi.
 
 
 
-########## पूर्णिमा
+###### पूर्णिमा
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/29_pUrNA_pashchAduta.md">
 <details open><summary><h7>29 पूर्णा पश्चादुत ...{Loading}...</h7></summary>
@@ -23726,7 +23726,7 @@ _________________
 <details open><summary><h5>२, यमनक्षत्राणां याज्यानुवाक्याः ...{Loading}...</h5></summary>
 
 
-########## अनूराधाः - मित्रः
+###### अनूराधाः - मित्रः
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/01_RddhyAsma.md">
 <details open><summary><h7>01 ऋद्ध्यास्म ...{Loading}...</h7></summary>
@@ -23810,7 +23810,7 @@ _________________
 
 
 
-########## ज्येष्ठा - इन्द्रः
+###### ज्येष्ठा - इन्द्रः
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/03_indro_jyeShThAmanu.md">
 <details open><summary><h7>03 इन्द्रो ज्येष्ठामनु ...{Loading}...</h7></summary>
@@ -23897,7 +23897,7 @@ _________________
 
 
 
-########## मूलम् - निरृतिः
+###### मूलम् - निरृतिः
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/05_mUlamprajAv.N_vIravatIv.N.md">
 <details open><summary><h7>05 मूलम्प्रजाव्ँ वीरवतीव्ँ ...{Loading}...</h7></summary>
@@ -23983,7 +23983,7 @@ _________________
 
 
 
-########## अषाढाः पूर्वाः - आपः
+###### अषाढाः पूर्वाः - आपः
 
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/07_yA_divyA.md">
@@ -24072,7 +24072,7 @@ _________________
 
 
 
-########## अषाढाः उत्तराः - विश्वे देवाः
+###### अषाढाः उत्तराः - विश्वे देवाः
 
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/09_tanno_vishve.md">
@@ -24156,7 +24156,7 @@ _________________
 
 
 
-########## अभिजित्
+###### अभिजित्
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/11_yasminbrahmA-bhyajayathsarvametat.md">
 <details open><summary><h7>11 यस्मिन्ब्रह्माऽभ्यजयथ्सर्वमेतत् ...{Loading}...</h7></summary>
@@ -24243,7 +24243,7 @@ _________________
 
 
 
-########## श्रोणा / श्रवणम् - विष्णुः
+###### श्रोणा / श्रवणम् - विष्णुः
 
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/13_shRNvanti_shroNAmamRtasya.md">
@@ -24331,7 +24331,7 @@ _________________
 
 
 
-########## धनिष्ठाः/ श्रविष्ठाः - वसवः
+###### धनिष्ठाः/ श्रविष्ठाः - वसवः
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/15_aShTau_devA.md">
 <details open><summary><h7>15 अष्टौ देवा ...{Loading}...</h7></summary>
@@ -24417,7 +24417,7 @@ _________________
 
 
 
-########## शतभिषग् - वरुणः
+###### शतभिषग् - वरुणः
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/17_khShatrasya_rAjA.md">
 <details open><summary><h7>17 ख्षत्रस्य राजा ...{Loading}...</h7></summary>
@@ -24507,7 +24507,7 @@ _________________
 
 
 
-########## प्रोष्ठपदाः/ भाद्रपदाः पूर्वाः - अज एकपात्
+###### प्रोष्ठपदाः/ भाद्रपदाः पूर्वाः - अज एकपात्
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/19_aja_ekapAdudagAtpurastAt.md">
 <details open><summary><h7>19 अज एकपादुदगात्पुरस्तात् ...{Loading}...</h7></summary>
@@ -24595,7 +24595,7 @@ _________________
 
 
 
-########## प्रोष्ठपदाः/ भाद्रपदाः उत्तराः  - अहिर् बिध्नियः
+###### प्रोष्ठपदाः/ भाद्रपदाः उत्तराः  - अहिर् बिध्नियः
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/21_ahirbudhniyapH_prathamAna.md">
 <details open><summary><h7>21 अहिर्बुध्नियᳶ प्रथमान ...{Loading}...</h7></summary>
@@ -24686,7 +24686,7 @@ _________________
 
 
 
-########## रेवती - पूषा
+###### रेवती - पूषा
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/23_pUShA_revatyanveti.md">
 <details open><summary><h7>23 पूषा रेवत्यन्वेति ...{Loading}...</h7></summary>
@@ -24772,7 +24772,7 @@ _________________
 
 
 
-########## अश्विनौ
+###### अश्विनौ
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/25_tadashvinAvashvayujopayAtAm.md">
 <details open><summary><h7>25 तदश्विनावश्वयुजोपयाताम् ...{Loading}...</h7></summary>
@@ -24857,7 +24857,7 @@ _________________
 
 
 
-########## भरणी - यमः
+###### भरणी - यमः
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/27_apa_pApmAnambharaNIrbharantu.md">
 <details open><summary><h7>27 अप पाप्मानम्भरणीर्भरन्तु ...{Loading}...</h7></summary>
@@ -24949,7 +24949,7 @@ _________________
 
 
 
-########## अमावास्या
+###### अमावास्या
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/29_niveshanI.md">
 <details open><summary><h7>29 निवेशनी ...{Loading}...</h7></summary>
@@ -25032,7 +25032,7 @@ ________________
 
 _______
 
-########## चन्द्रमाः
+###### चन्द्रमाः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1-2अथ 'चन्द्रमा वा अकामयत' इत्यादीनां सप्तानां क्रमेण याज्यानुवाक्याः द्वेद्वे । तत्र चन्द्रमसः (ननु 'नक्षत्रेष्टका उपदधात्येतानि वै दिवो ज्योतीꣳषि तान्येवावरुन्धे' इति ब्राह्मणे 'कृत्तिका नक्षत्रमग्निर्देवता' इत्यादीनामष्टाविंशतिनक्षत्रा दर्शपूर्णमासयोश्च त्रिंशतामेवोपधानमुक्तम् । किञ्च - 'अभिचरन् श्येनचिता यजेत' इत्यत्र 'अग्नेः कृत्तिकाः' इति त्रिंशतामेवोपधानम् । अत्र नक्षत्रेष्ट्यां चन्द्रादिसप्तानां यजनं किमर्थमित्यत आह - चन्द्रमा वा अकामयत इत्यादि । चन्द्रादीनामपि नक्षत्राधीनत्वात् चन्द्रसूर्ययोर्नक्षत्रेषु गमनं प्रसिद्धम् । अवशिष्टानां त्रयाणां तद्विभागतत्सन्धानतदात्मत्वेन अदितेर्विष्णोश्च यजनं नक्षत्रसत्रकर्तुः यजमानस्य ज्योतिष्ट्वावाप्तये प्रतिष्ठायै च भवति । तेषां द्वेद्वे याज्यानुऽवाक्ये) । नवोनवो भवति, यमादित्या अंशुमिति । व्याख्याते चैते द्वितीयकाण्डस्य चतुर्थान्त्ये ॥
@@ -25065,15 +25065,15 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###################### Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###################### Pāda-label
+###### Pāda-label
 popular  
 popular  
 popular  
 popular
-###################### Morph
+###### Morph
 bhavati ← √bhū- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -25259,11 +25259,11 @@ _______________________
 </details>
 <details><summary>Wilson</summary>
 
-##################### English translation:
+###### English translation:
 
 “New every day (the moon) is born; the manifester of days he goes on front of the Dawns; hedistributes their portion to the gods as he goes; the moon protracts a long existence.”
 
-##################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 The first half othe verse isaddressed to the sun; but, the moon is the manifester of days in regulating the time of **tithis** (lunar days)
 </details>
@@ -25352,7 +25352,7 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 
 
 
-########## अहोरात्रे
+###### अहोरात्रे
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3अहोरात्रयोः - ये विरूपे इति ॥ 
@@ -25414,7 +25414,7 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 </div>
 
 
-########## उषाः
+###### उषाः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5उषसः - प्रतीति परोष्णिक् ॥ 
@@ -25475,7 +25475,7 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 </details>
 </div>
 
-########## नक्षत्रम्
+###### नक्षत्रम्
 
 <div class="js_include" includetitle="false" newlevelforh1="2" open unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/3/07_sambhaktena_gamemahi.md">
 <details open><summary><h7>07 सम्भक्तेन गमेमहि ...{Loading}...</h7></summary>
@@ -25560,14 +25560,14 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###################### Strata
+###### Strata
 Cretic
 
-###################### Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M
-###################### Morph
+###### Morph
 jātávedasam ← jātávedas- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -25669,7 +25669,7 @@ ___________
 </details>
 <details><summary>Wilson</summary>
 
-##################### English translation:
+###### English translation:
 
 “His coursers bear on high the divine all-knowing Sun, that he may be seen by all (the worlds).”
 </details>
@@ -25761,7 +25761,7 @@ Den Wesenkenner führen schon empor die Strahlen, ihn, den Gott, Dass jedermann 
 उदु॒ त्यञ्   
 </details>
 
-########## सूर्यः
+###### सूर्यः
 <details><summary>भट्टभास्कर-टीका</summary>
 
 9-10सूर्यस्य - उदुत्यं, चित्रमिति ॥ व्याख्याते ग्रहपक्षे ॥
@@ -25794,15 +25794,15 @@ Den Wesenkenner führen schon empor die Strahlen, ihn, den Gott, Dass jedermann 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###################### Strata
+###### Strata
 Cretic
 
-###################### Pāda-label
+###### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
-###################### Morph
+###### Morph
 agāt ← √gā- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -25957,11 +25957,11 @@ _____________
 </details>
 <details><summary>Wilson</summary>
 
-##################### English translation:
+###### English translation:
 
 “Thewonderful hostof rays has risen; th eye of **Mitra**, **Varuṇa** and **Agni**; the sun, the **soul** of all that moves or is immoveable, has filled (with his glory) the heaven, the earth, and the firmament.”
 
-##################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Agni: cākṣus = the enlightener. Mitra, Varuṇa and Agni are typical of the world, or of the seasons, perhaps, over which they preside. **ātmā** jagataḥ = the soul of the world, from his pervading and animating all things; jagataḥ, of what is moveable; tathuṣaḥ, of that which is fixed. The sun is the cause of all effects, whether moveableor immoveable: sa hi sarvasya sthāvarajaṅgamātmakasya kāryavargasya kāraṇam
 </details>
@@ -26050,7 +26050,7 @@ Es stieg empor der Götter lichtes Antlitz, das Auge Mitra's, Varuna's und Agni'
 
 _______
 
-########## अदितिः
+###### अदितिः
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -26119,7 +26119,7 @@ Aditi, who giveth good protection and good guidance.
 </details>
 </div>
 
-########## विष्णुः
+###### विष्णुः
 <details><summary>मूलम्</summary>
 
 इ॒दव्ँ विष्णु॒ᳶ  
@@ -26155,14 +26155,14 @@ Aditi, who giveth good protection and good guidance.
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-################ Strata
+###### Strata
 Normal
 
-################ Pāda-label
+###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-################ Morph
+###### Morph
 cakrame ← √kramⁱ- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:MED}
 
@@ -26274,11 +26274,11 @@ sámūḷham ← √vah- (root)
 </details>
 <details><summary>Wilson</summary>
 
-############### English translation:
+###### English translation:
 
 “**Viṣṇu** traversed this (world); three times he plural nted his foot and the whole (world) was collected in the dust of his (footstep).”
 
-############### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Tredhā nidhadhe padam: the three paces of Viṣṇu imply the presence of Viṣṇu in the three regions of earth, air and heaven, in the forms of **Agni**, **Vāyu** and **Sūrya**, fire, wind and the sun. According to **Śākapūṇi**, the step was on earth, in the firmament, in heaven; according to Aurṇavābha on Samārohaṇa or the eastern mountain, on **Viṣṇupada** the meridian sky and **Gayaśiras** the western mountain, thus identifiying Viṣṇu with the Sun, and his three paces with the rise, culmination, and setting of that luminary
 </details>
@@ -26385,15 +26385,15 @@ Vischnu durchschritt die ganze Welt, trat dreimal nieder mit dem Fuss, An seinem
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###################### Strata
+###### Strata
 Strophic
 
-###################### Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-###################### Morph
+###### Morph
 prá ← prá (invariable)  
 {}
 
@@ -26532,11 +26532,11 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-##################### English translation:
+###### English translation:
 
 “**Viṣṇu** is therefore glorified, that by his prowess he is like a fearful, ravenous, and mountain-haunting wild beast, and because of that in his three paces all worlds abide.”
 
-##################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Mountain-haunting wild beast: **mṛga** or **siṃha**, a lion, as applicable to Viṣṇu: one who seeks for his enemies to inflict punishment on them, and is therefore, fearful and fierce;
 
@@ -26617,7 +26617,7 @@ Gerühmt wird Vischnu wegen dieser Grossthat, gleich wildem Löwen, der durch Be
 </details>
 </div>  
 
-########## अग्निः
+###### अग्निः
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -26649,14 +26649,14 @@ Gerühmt wird Vischnu wegen dieser Grossthat, gleich wildem Löwen, der durch Be
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###################### Strata
+###### Strata
 Normal on metrical evidence alone
 
-###################### Pāda-label
+###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-###################### Morph
+###### Morph
 agníḥ ← agní- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -26753,11 +26753,11 @@ _____________
 </details>
 <details><summary>Wilson</summary>
 
-##################### English translation:
+###### English translation:
 
 “**Agni**, the head (of the gods), the summit of heaven-- he the lord of the earth-- gladdens the seed of thewaters.”
 
-##################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Seed: retāṃsi, the moveable andimmovable productions of the creative waters
 </details>
@@ -26848,7 +26848,7 @@ Agni, des Himmels Haupt und Höh', und er, der Erde Oberherr, Erregt der Wasser 
 </details>
 </div>
 
-########## अनुमतिः
+###### अनुमतिः
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -26920,7 +26920,7 @@ Lengthen our days for us.
 </div>
 
 
-########## संयाज्ये
+###### संयाज्ये
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 19-20अथ संयाज्ये - हव्यवाहं, स्विष्टमिति ॥ व्याख्याते 'जुष्टः' इत्यत्र ॥
@@ -26991,7 +26991,7 @@ Lengthen our days for us.
 ब्राह्मणाभ्याम् उद्धृतम्। 
 </details>
 
-########## कृत्तिकाः - अग्निः
+###### कृत्तिकाः - अग्निः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -27018,7 +27018,7 @@ Lengthen our days for us.
 चु॒पु॒णीका॑यै॒ स्वाहा॑
 </details>
 
-########## रोहिणी - प्रजापतिः
+###### रोहिणी - प्रजापतिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र॒जाप॑तये॒ स्वाहा॑ रोहि॒ण्यै स्वाहा᳚ । रोच॑मानायै॒ स्वाहा᳚ प्र॒जाभ्य॒स् स्वाहा᳚ ॥28॥
@@ -27028,7 +27028,7 @@ Lengthen our days for us.
 प्र॒जाप॑तये॒ स्वाहा॑ रोहि॒ण्यै स्वाहा᳚ । रोच॑मानायै॒ स्वाहा᳚ प्र॒जाभ्य॒स्स्वाहा᳚ ॥28॥
 </details>
 
-########## मृगशीर्षम् - सोमः
+###### मृगशीर्षम् - सोमः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोमा॑य॒ स्वाहा॑ मृगशी॒र्षाय॒ स्वाहा᳚ ,  
@@ -27042,7 +27042,7 @@ Lengthen our days for us.
 रा॒ज्याय॒ स्वाहा॒ऽभिजि॑त्यै॒ स्वाहा᳚ ॥29॥
 </details>
 
-########## आर्द्रा - रुद्रः
+###### आर्द्रा - रुद्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रु॒द्राय॒ स्वाहा॒ ऽर्द्रायै॒ स्वाहा᳚ , पिन्व॑मानायै॒ स्वाहा॑ प॒शुभ्य॒स्स्वाहा᳚ ॥30॥
@@ -27053,7 +27053,7 @@ Lengthen our days for us.
 
 </details>
 
-########## पुनर्वसू - अदितिः
+###### पुनर्वसू - अदितिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अदि॑त्यै॒ स्वाहा॒ पुन॑र्वसुभ्यां॒ स्वाहा॑,  
@@ -27064,7 +27064,7 @@ Lengthen our days for us.
 अदि॑त्यै॒ स्वाहा॒ पुन॑र्वसुभ्यां॒ स्वाहा॑, भूत्यै॒ स्वाहा॒ प्रजा᳚त्यै॒ स्वाहा᳚ ॥31॥
 </details>
 
-########## तिष्यम् / पुष्यम् - बृहस्पतिः
+###### तिष्यम् / पुष्यम् - बृहस्पतिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बृह॒स्पत॑ये॒ स्वाहा॑ ति॒ष्या॑य॒ स्वाहा᳚ । ब्र॒ह्म॒व॒र्च॒साय॒ स्वाहा᳚ ॥32॥
@@ -27074,7 +27074,7 @@ Lengthen our days for us.
 बृह॒स्पत॑ये॒ स्वाहा॑ ति॒ष्या॑य॒ स्वाहा᳚ । ब्र॒ह्म॒व॒र्च॒साय॒ स्वाहा᳚ ॥32॥
 </details>
 
-########## आश्रेषाः - सर्पाः
+###### आश्रेषाः - सर्पाः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary> 
 
@@ -27088,7 +27088,7 @@ Lengthen our days for us.
 द॒न्द॒शूके᳚भ्य॒स्स्वाहा᳚ ॥33॥
 </details>
 
-########## मघाः - पितरः
+###### मघाः - पितरः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पि॒तृभ्य॒स् स्वाहा॑ म॒घाभ्य॒स् स्वाहा॑  
@@ -27102,7 +27102,7 @@ Lengthen our days for us.
 </details>
 
 
-########## पूर्व-फल्गुन्यः  - अर्यमा
+###### पूर्व-फल्गुन्यः  - अर्यमा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ॒र्य॒म्णे स्वाहा॒ फल्गु॑नीभ्या॒ꣳ॒ स्वाहा᳚ ,  
@@ -27115,7 +27115,7 @@ Lengthen our days for us.
 </details>
 
 
-########## उत्तर-फल्गुन्यः - भगः
+###### उत्तर-फल्गुन्यः - भगः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भगा॑य॒ स्वाहा॒ फल्गु॑नीभ्या॒ꣳ॒ स्वाहा᳚ । श्रैष्ठ्या॑य॒ स्वाहा᳚ ॥36॥
@@ -27126,7 +27126,7 @@ Lengthen our days for us.
 </details>
 
 
-########## हस्तः - सविता
+###### हस्तः - सविता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स॒वि॒त्रे स्वाहा॒ हस्ता॑य॒ स्वाहा॑  
@@ -27140,7 +27140,7 @@ Lengthen our days for us.
 </details>
 
 
-########## चित्रा - त्वष्टा
+###### चित्रा - त्वष्टा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वष्ट्रे॒ स्वाहा॑ चि॒त्रायै॒ स्वाहा᳚ ।  
@@ -27152,7 +27152,7 @@ Lengthen our days for us.
 </details>
 
 
-########## निष्ट्या, स्वातिः - वायुः
+###### निष्ट्या, स्वातिः - वायुः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वा॒यवे॒ स्वाहा॒ निष्ट्या॑यै॒ स्वाहा᳚ ।  
@@ -27165,7 +27165,7 @@ Lengthen our days for us.
 </details>
 
 
-########## विशाखे - इन्द्राग्नी
+###### विशाखे - इन्द्राग्नी
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ॒न्द्रा॒ग्निभ्या॒ꣳ॒ स्वाहा॒ विशा॑खाभ्या॒ꣳ॒ स्वाहा᳚ ।  
@@ -27178,7 +27178,7 @@ Lengthen our days for us.
 </details>
 
 
-########## पूर्णिमा
+###### पूर्णिमा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पौ॒र्ण॒मा॒स्यै स्वाहा॒ कामा॑य॒ स्वाहा ऽऽग॑त्यै॒ स्वाहा᳚ ॥41॥
@@ -27189,7 +27189,7 @@ Lengthen our days for us.
 
 </details>
 
-########## अनूराधाः - मित्रः
+###### अनूराधाः - मित्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मि॒त्राय॒ स्वाहा॑ ऽनूरा॒धेभ्य॒स् स्वाहा᳚ ।  
@@ -27200,7 +27200,7 @@ Lengthen our days for us.
 मि॒त्राय॒ स्वाहा॑ऽनूरा॒धेभ्य॒स्स्वाहा᳚ । मि॒त्र॒धेया॑य॒ स्वाहा॒ऽभिजि॑त्यै॒ स्वाहा᳚ ॥42॥
 </details>
 
-########## ज्येष्ठा - इन्द्रः
+###### ज्येष्ठा - इन्द्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन्द्रा॑य॒ स्वाहा᳚ ज्ये॒ष्ठायै॒ स्वाहा᳚ ।  
@@ -27213,7 +27213,7 @@ Lengthen our days for us.
 </details>
 
 
-########## मूलम् - निरृतिः
+###### मूलम् - निरृतिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र॒जाप॑तये॒ स्वाहा॒ मूला॑य॒ स्वाहा᳚ । प्र॒जायै॒ स्वाहा᳚ ॥44॥
@@ -27225,7 +27225,7 @@ Lengthen our days for us.
 </details>
 
 
-########## अषाढाः पूर्वाः - आपः
+###### अषाढाः पूर्वाः - आपः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ॒द्भ्यस् स्वाहा॑ ऽषा॒ढाभ्य॒स् स्वाहा᳚ ।  
@@ -27239,7 +27239,7 @@ Lengthen our days for us.
 </details>
 
 
-########## अषाढाः उत्तराः - विश्वे देवाः
+###### अषाढाः उत्तराः - विश्वे देवाः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विश्वे᳚भ्यो दे॒वेभ्य॒स् स्वाहा॑ ऽषा॒ढाभ्य॒स् स्वाहा᳚ । अ॒न॒प॒ज॒य्याय॒ स्वाहा॒ जित्यै॒ स्वाहा᳚ ॥46॥
@@ -27251,7 +27251,7 @@ Lengthen our days for us.
 </details>
 
 
-########## अभिजित्
+###### अभिजित्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रह्म॑णे॒ स्वाहा॑ ऽभि॒जिते॒ स्वाहा᳚ । ब्र॒ह्म॒लो॒काय॒ स्वाहा॒ ऽभिजि॑त्यै॒ स्वाहा᳚ ॥47॥
@@ -27263,7 +27263,7 @@ Lengthen our days for us.
 </details>
 
 
-########## श्रोणा / श्रवणम् - विष्णुः
+###### श्रोणा / श्रवणम् - विष्णुः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विष्ण॑वे॒ स्वाहा᳚ श्रो॒णायै॒ स्वाहा᳚ ।  
@@ -27275,7 +27275,7 @@ Lengthen our days for us.
 </details>
 
 
-########## धनिष्ठाः/ श्रविष्ठाः - वसवः
+###### धनिष्ठाः/ श्रविष्ठाः - वसवः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वसु॑भ्य॒स् स्वाहा॒ श्रवि॑ष्ठाभ्य॒स् स्वाहा᳚ ।  
@@ -27288,7 +27288,7 @@ Lengthen our days for us.
 </details>
 
 
-########## शतभिषग् - वरुणः
+###### शतभिषग् - वरुणः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वरु॑णाय॒ स्वाहा॑ श॒तभि॑षजे॒ स्वाहा᳚ । भे॒ष॒जेभ्य॒स् स्वाहा᳚ ॥50॥
@@ -27301,7 +27301,7 @@ Lengthen our days for us.
 </details>
 
 
-########## प्रोष्ठपदाः/ भाद्रपदाः पूर्वाः - अज एकपात्
+###### प्रोष्ठपदाः/ भाद्रपदाः पूर्वाः - अज एकपात्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ॒जायैक॑पदे॒ स्वाहा᳚ प्रोष्ठप॒देभ्य॒स् स्वाहा᳚ ।  
@@ -27315,7 +27315,7 @@ Lengthen our days for us.
 </details>
 
 
-########## प्रोष्ठपदाः/ भाद्रपदाः उत्तराः  - अहिर् बिध्नियः
+###### प्रोष्ठपदाः/ भाद्रपदाः उत्तराः  - अहिर् बिध्नियः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अह॑ये बु॒ध्निया॑य॒ स्वाहा᳚  
@@ -27326,7 +27326,7 @@ Lengthen our days for us.
 अह॑ये बु॒ध्निया॑य॒ स्वाहा᳚ प्रोष्ठप॒देभ्य॒स्स्वाहा᳚ । प्र॒ति॒ष्ठायै॒ स्वाहा᳚ ॥52॥
 </details>
 
-########## रेवती - पूषा
+###### रेवती - पूषा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पू॒ष्णे स्वाहा॑ रे॒वत्यै॒ स्वाहा᳚ । प॒शुभ्य॒स् स्वाहा᳚ ॥53॥
@@ -27347,7 +27347,7 @@ Lengthen our days for us.
 
 </details>
 
-########## भरणी - यमः
+###### भरणी - यमः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य॒माय॒ स्वाहा॑ ऽप॒भर॑णीभ्य॒स् स्वाहा᳚ ।  
@@ -27360,7 +27360,7 @@ Lengthen our days for us.
 
 </details>
 
-########## अमावास्या
+###### अमावास्या
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ॒मा॒वा॒स्या॑यै॒ स्वाहा॒ कामा॑य॒ स्वाहा ऽऽग॑त्यै॒ स्वाहा᳚ ॥56॥
@@ -27465,15 +27465,15 @@ Lengthen our days for us.
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###################### Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###################### Pāda-label
+###### Pāda-label
 popular  
 popular  
 popular  
 popular
-###################### Morph
+###### Morph
 asmát ← ahám (pronoun)  
 {case:ABL, number:PL}
 
@@ -27631,11 +27631,11 @@ _______________
 </details>
 <details><summary>Wilson</summary>
 
-##################### English translation:
+###### English translation:
 
 “**Varuṇa**, loosen for me the upper, the middle, the lower band; so, son of **Aditi**, shall we, through faultlessness in the worship, become freed from siṇ”
 
-##################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Reference to the ligature fastening the head, the feet, and the waist; resulting in loosening from the bonds of sin: anāgasaḥ **syāma**, may we be sinless
 </details>
@@ -27786,15 +27786,15 @@ All these are Varuna's ordinances.
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-################ Strata
+###### Strata
 Cretic
 
-################ Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-################ Morph
+###### Morph
 ca ← ca (invariable)  
 {}
 
@@ -27963,7 +27963,7 @@ tásmāt ← sá- ~ tá- (pronoun)
 </details>
 <details><summary>Wilson</summary>
 
-############### English translation:
+###### English translation:
 
 “Whatever the offence which we men commit **Varuṇa** against divine beings, whatever law of yours wemay through ignorance violate, do not you, divine Varuṇa, punish us on account of that iniquity.”
 </details>
@@ -28042,15 +28042,15 @@ Was wir auch hier, o Varuna, nach Menschen Art für Unrecht üben am Geschlecht 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-################ Strata
+###### Strata
 Cretic
 
-################ Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-################ Morph
+###### Morph
 dīví ← dī́v- (nominal stem)  
 {case:LOC, gender:F, number:SG}
 
@@ -28255,7 +28255,7 @@ varuṇa ← váruṇa- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-############### English translation:
+###### English translation:
 
 “If, like gamesters, who cheat at plural y, (we commit offences) knowingly, or (those) of which we know not, do you divine **Varuṇa**, extricate us from them all, as if from loosened (bonds), so that we may be dear, Varuṇa, to you.”
 </details>
@@ -28361,15 +28361,15 @@ Wenn wir getäuscht beim Spiel wie falsche Spieler, wenn wir gefehlt, unwissend 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-################ Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-################ Pāda-label
+###### Pāda-label
 popular  
 popular  
 popular  
 popular
-################ Morph
+###### Morph
 áva ← áva (invariable)  
 {}
 
@@ -28527,11 +28527,11 @@ _______________
 </details>
 <details><summary>Wilson</summary>
 
-############### English translation:
+###### English translation:
 
 “**Varuṇa**, we deprecate your wrath with prostrations, with sacrifices, with oblations; averter of misfortune, wise and illustrious, be present amongst us, and mitigate the evils we have committed.”
 
-############### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 **asura** = **aniṣṭa**-**kṣepaṇa**-**śila**, accusative tomed to cast off what is undesired; from seme, to throw
 </details>
@@ -28636,15 +28636,15 @@ O Varuna, wir wenden deinen Zorn ab, durch Opfer, durch Gebet, durch Trankesspen
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-################ Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-################ Pāda-label
+###### Pāda-label
 popular  
 popular  
 popular  
 popular
-################ Morph
+###### Morph
 bráhmaṇā ← bráhman- (nominal stem)  
 {case:INS, gender:N, number:SG}
 
@@ -28819,11 +28819,11 @@ prá ← prá (invariable)
 </details>
 <details><summary>Wilson</summary>
 
-############### English translation:
+###### English translation:
 
 “Praising you with (devout) prayer, I implore you for that (life) which the instrumental tutor of the sacrifice solicits with oblations; **Varuṇa**, undisdainful, bestow a thought upon us; much-lauded, take not away our existence.”
 
-############### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 The term, tadāyus is supplied in the context of **māna** āyuḥ pramoṣiḥ = do not take away our life
 </details>
@@ -29213,14 +29213,14 @@ Dies bitt' ich dich, verehrend mit Gebeten, und darum wirbt mit Opfertrank der O
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-########################## Strata
+###### Strata
 Cretic
 
-########################## Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M
-########################## Morph
+###### Morph
 ā́paḥ ← áp- (nominal stem)  
 {case:VOC, gender:F, number:PL}
 
@@ -29332,11 +29332,11 @@ ráṇāya ← ráṇa- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-######################### English translation:
+###### English translation:
 
 “Since, waters, you are the sources of happiness, grant to us to enjoy abundance, and great anddelightful perception.”
 
-######################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Great and delightful perception: mahe raṇāya cakṣase = samyajñānam, perfectknowledge of **brahman**; the ṛca solicits happiness both in this world and in the next; the rapturous sight of thesupreme god; to behold great joy
 </details>
@@ -29418,14 +29418,14 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-########################## Strata
+###### Strata
 Cretic
 
-########################## Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M
-########################## Morph
+###### Morph
 rásaḥ ← rása- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -29531,7 +29531,7 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-######################### English translation:
+###### English translation:
 
 “Give us to partake in this world of your most auspicious **Soma**, like affectionate mothers.”
 </details>
@@ -29606,14 +29606,14 @@ Welch segenreichster Saft euch ist, an dem lasst Theil uns haben hier, Den liebe
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-########################## Strata
+###### Strata
 Cretic
 
-########################## Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M
-########################## Morph
+###### Morph
 áram ← áram (invariable)  
 {}
 
@@ -29719,11 +29719,11 @@ _____________
 </details>
 <details><summary>Wilson</summary>
 
-######################### English translation:
+###### English translation:
 
 “Let us quickly have recourse to you, for that your (faculty) of removing (sin) by which you gladden us;waters, bestow upon us progeny.”
 
-######################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Let us go to you at once for him to whose house you are hastening; waters,reinvogorate us; faculty of removing sin: **kṣaya** = nivāsa, abode;
 
@@ -30003,14 +30003,14 @@ Für solchen gehn wir euch zur Hand, zu dessen Sitz ihr eilend naht, Ihr Wasser 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-################## Strata
+###### Strata
 Cretic
 
-################## Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M
-################## Morph
+###### Morph
 ā́paḥ ← áp- (nominal stem)  
 {case:VOC, gender:F, number:PL}
 
@@ -30122,11 +30122,11 @@ ráṇāya ← ráṇa- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-################# English translation:
+###### English translation:
 
 “Since, waters, you are the sources of happiness, grant to us to enjoy abundance, and great anddelightful perception.”
 
-################# Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Great and delightful perception: mahe raṇāya cakṣase = samyajñānam, perfectknowledge of **brahman**; the ṛca solicits happiness both in this world and in the next; the rapturous sight of thesupreme god; to behold great joy
 </details>
@@ -30208,14 +30208,14 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-################## Strata
+###### Strata
 Cretic
 
-################## Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M
-################## Morph
+###### Morph
 rásaḥ ← rása- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -30321,7 +30321,7 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-################# English translation:
+###### English translation:
 
 “Give us to partake in this world of your most auspicious **Soma**, like affectionate mothers.”
 </details>
@@ -30396,14 +30396,14 @@ Welch segenreichster Saft euch ist, an dem lasst Theil uns haben hier, Den liebe
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-################## Strata
+###### Strata
 Cretic
 
-################## Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M
-################## Morph
+###### Morph
 áram ← áram (invariable)  
 {}
 
@@ -30509,11 +30509,11 @@ _____________
 </details>
 <details><summary>Wilson</summary>
 
-################# English translation:
+###### English translation:
 
 “Let us quickly have recourse to you, for that your (faculty) of removing (sin) by which you gladden us;waters, bestow upon us progeny.”
 
-################# Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Let us go to you at once for him to whose house you are hastening; waters,reinvogorate us; faculty of removing sin: **kṣaya** = nivāsa, abode;
 
