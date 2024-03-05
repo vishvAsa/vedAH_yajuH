@@ -156,7 +156,7 @@ unicode_script = "devanagari"
 
 
 {इन्द्रा॑य॒ स्वाहा॑ ज्ये॒ष्ठायै॒ स्वाहा॑।  
-ज्ये॒ष्ठया॑य॒ स्वाहा॒ ऽभिजि॑त्यै॒ स्वाहा॑।}
+ज्यैष्ठ्या॑य॒ स्वाहा॒ ऽभिजि॑त्यै॒ स्वाहा॑।}
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/16_jyeShThA/">
 <details open><summary><h5>१६ ज्येष्ठा ...{Loading}...</h5></summary>
