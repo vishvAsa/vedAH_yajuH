@@ -35,13 +35,13 @@ title = "०१ रेखा-कर्षः"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/091/17_A_pyAyasva.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/031/04_A_pyAyasva.md">
 <details open><summary><h4>१७ आ प्यायस्व ...{Loading}...</h4></summary>
 
 
-आ प्या॑यस्व मदिन्तम॒  
-सोम॒ विश्वे॑भिर् अं॒शुभिः॑ ।  
-भवा॑ नः सु॒श्रव॑स्तमः॒ सखा॑ वृ॒धे ॥
+**आ प्या॑यस्व॒ समे॑तु** ते  
+वि॒श्वतः॑ सोम॒ वृष्ण्य॑म् ।  
+**भवा॒** वाज॑स्य **सङ्ग॒थे**+++(=संगमने)+++ ॥
 
 </details>
 </div>  
