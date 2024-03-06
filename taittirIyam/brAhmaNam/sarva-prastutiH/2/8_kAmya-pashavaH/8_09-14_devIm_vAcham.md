@@ -39,15 +39,15 @@ unicode_script: devanagari
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-############ Pāda-label
+###### Pāda-label
 popular  
 popular  
 popular  
 popular
-############ Morph
+###### Morph
 ajanayanta ← √janⁱ- (root)  
 {number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
 
@@ -229,11 +229,11 @@ ______________
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “The gods produced the goddess Vāk; her do animals of every kind utter; may she, Vāk, theall-gladdening cow, yielding meat and drink, come to us, worthily praised.”
 
-########### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 The thunder entering into all beings,becomes the speaker of moral truth, eṣā **mādhyamikā** vāk sarvaprāṇyantargatā dharmābhivādinībhavati; animals of every kind: whether their utterance be articulare or inarticulate
 </details>
@@ -309,15 +309,15 @@ Die Göttin Vāk haben die Götter erzeugt, die vielgestaltigen Thieren reden si
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-############ Pāda-label
+###### Pāda-label
 popular  
 popular  
 popular  
 popular
-############ Morph
+###### Morph
 avicetanā́ni ← avicetaná- (nominal stem)  
 {case:NOM, gender:N, number:PL}
 
@@ -467,11 +467,11 @@ _________________
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “When Vāk, the **queen**, the gladdener of the gods, sits down (in the sacrifice) uttering things not to beunderstood, she milks water and food for the four quarters (of the earth); whither now is her best portion gone?”
 
-########### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 **Nirukta** 11.28: Vāk here is the thunder; cf. RV 8.69.14; best portion = the rain, which sinks in the earth or istaken up by the sun's rays
 </details>
@@ -671,15 +671,15 @@ Wenn Vāk [die Stimme], die Königin der Götter, unverständliche Worte [den Do
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-############ Pāda-label
+###### Pāda-label
 popular  
 popular  
 popular  
 popular
-############ Morph
+###### Morph
 catvā́ri ← catúr- (nominal stem)  
 {case:ACC, gender:N, number:PL}
 
@@ -852,11 +852,11 @@ ______________
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “Four are the definite grades of spech; those **Brahmaṇas** who are wise know them; three, deposited in secret, indicate no meaning; men speak the fourth grade of speech.”
 
-########### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Four are: catvāri vākparimitā padāni: the language of the **mantras**, the **kalpa**, the **brāhmaṇa** and **laukika**, or current speech (**Taittirīya** Samhitā 1.31.2); those **brāhmaṇas**: brāhmaṇā ye manīṣiṇaḥ: brāhmaṇā = those acquainted with the **śabdabrahma**, **brahma** as the word, or, the **yogis**, mystics; fourth grad eof speech: vāk, speech, was created fourfold, three kinds of which are in the three regions, the fourth amongst the **paśus**; the form on earth, associated with **Agni** is in the **rathantara**; the form in the firmament, associated with **Vāyu**, is in the **Vāmadevya** mantras; that which is in heaven, with **Āditya**, is **Bṛhatī**, or in the thunder (stanayitnau); whatever else was more than this was plural ced amongst the paśus, liṭ, animals; here the brāhmaṇas are implied: **atha** paśuṣu tato yā vāg atiricyate tām brāhmaṇeṣu adaduḥ; thus, the brāhmaṇas speak both languages, that of the gods and that of man (tasmād brāhmaṇā ubharyo vācam vadanti yā ca devānām yā ca manuṣyāṇa(m (**Nirukta** 13.9)
 </details>

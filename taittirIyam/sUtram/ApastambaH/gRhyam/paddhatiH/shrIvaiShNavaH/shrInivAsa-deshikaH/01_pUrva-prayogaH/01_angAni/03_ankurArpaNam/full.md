@@ -812,9 +812,8 @@ We, O king, bring to safety.'
 
 
 
-<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/26_yata_indra.md">
-<details open><summary><h2>विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
-
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/26_yata_indra.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 यत॑ इन्द्र॒ भया॑महे॒  
 ततो॑ नो॒ अभ॑यं कृधि ।  

@@ -352,14 +352,14 @@ who art drunk by Indra, who art drunk by Naraśansa, who art drunk by the father
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Normal
 
-############ Pāda-label
+###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
-############ Morph
+###### Morph
 ā́ ← ā́ (invariable)  
 {}
 
@@ -469,7 +469,7 @@ _______________________
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “Be well nourished, **Soma**; may vigour come to you from all sides, be (the giver) of strength in battle.”
 </details>
@@ -979,15 +979,15 @@ ye that are in this world, of these may I be the most fortunate.
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+##### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+##### Pāda-label
 popular  
 popular  
 popular  
 popular;; repeated line
-###### Morph
+##### Morph
 anyáḥ ← anyá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -1179,11 +1179,11 @@ ______________
 </details>
 <details><summary>Wilson</summary>
 
-##### English translation:
+#### English translation:
 
 “No other than you, **Prajāpati**, has given existence to all these beings; may that object of our desiresfor which we sacrifice to you be ours, may we be the possessors of riches.”
 
-##### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+#### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 **Yajus**. 10.20; **Nirukta** 10.43
 </details>

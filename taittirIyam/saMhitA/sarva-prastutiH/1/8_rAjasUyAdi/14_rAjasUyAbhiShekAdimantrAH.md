@@ -290,15 +290,15 @@ O Rudra, that highest active name of thee, to that thou art offered, thou art of
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+##### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+##### Pāda-label
 popular  
 popular  
 popular  
 popular;; repeated line
-###### Morph
+##### Morph
 anyáḥ ← anyá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -490,11 +490,11 @@ ______________
 </details>
 <details><summary>Wilson</summary>
 
-##### English translation:
+#### English translation:
 
 “No other than you, **Prajāpati**, has given existence to all these beings; may that object of our desiresfor which we sacrifice to you be ours, may we be the possessors of riches.”
 
-##### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+#### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 **Yajus**. 10.20; **Nirukta** 10.43
 </details>

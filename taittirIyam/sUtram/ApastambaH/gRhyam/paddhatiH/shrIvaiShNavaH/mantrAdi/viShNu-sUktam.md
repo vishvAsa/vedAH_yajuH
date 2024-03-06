@@ -195,15 +195,15 @@ Thou art of Vishu; to Visnu thee!
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###################### Strata
+###### Strata
 Strophic
 
-###################### Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-###################### Morph
+###### Morph
 kam ← kam (invariable)  
 {}
 
@@ -357,11 +357,11 @@ vicakramāṇáḥ ← √kramⁱ- (root)
 </details>
 <details><summary>Wilson</summary>
 
-##################### English translation:
+###### English translation:
 
 “Earnetly I glorify the exploits of **Viṣṇu**, who made the **three worlds**; who sustained the lofty aggregate site (of the spheres); thrice traversing (the whole); who is praised by the exalted.”
 
-##################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Pārthivāni vimame rajāṃsi = lit. he made the earthly regions;
 
@@ -482,15 +482,15 @@ Des Vischnu grosse Thaten will ich preisen, der weit durchmessen hat der Erde R�
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###################### Strata
+###### Strata
 Strophic
 
-###################### Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-###################### Morph
+###### Morph
 abhí ← abhí (invariable)  
 {}
 
@@ -660,11 +660,11 @@ __________________
 </details>
 <details><summary>Wilson</summary>
 
-##################### English translation:
+###### English translation:
 
 “May I attain his favourite path, in which god-seeking men delight; (the path) of that wide-stepping **Viṣṇu**, in whose exalted station there is a (perpetual) flow of felicity; for to such a degree is he the friend (of the pious).”
 
-##################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 His favourite path: the firmament: patho anatarikṣam
 </details>
@@ -766,15 +766,15 @@ O möcht' ich seinen lieben Sitz erreichen, in dem die frommen Männer selig leb
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###################### Strata
+###### Strata
 Strophic
 
-###################### Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-###################### Morph
+###### Morph
 prá ← prá (invariable)  
 {}
 
@@ -913,11 +913,11 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-##################### English translation:
+###### English translation:
 
 “**Viṣṇu** is therefore glorified, that by his prowess he is like a fearful, ravenous, and mountain-haunting wild beast, and because of that in his three paces all worlds abide.”
 
-##################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Mountain-haunting wild beast: **mṛga** or **siṃha**, a lion, as applicable to Viṣṇu: one who seeks for his enemies to inflict punishment on them, and is therefore, fearful and fierce;
 
@@ -1036,15 +1036,15 @@ Gerühmt wird Vischnu wegen dieser Grossthat, gleich wildem Löwen, der durch Be
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###################### Strata
+###### Strata
 Strophic
 
-###################### Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-###################### Morph
+###### Morph
 mā́trayā ← mā́trā- (nominal stem)  
 {case:INS, gender:F, number:SG}
 
@@ -1205,11 +1205,11 @@ __________________
 </details>
 <details><summary>Wilson</summary>
 
-##################### English translation:
+###### English translation:
 
 “Expanding with a body beyond all measure, **Viṣṇu** men comprehend not your magnitude; we knowthese your two worlds (computing) from the earth, but you, divine Viṣṇu, are cognisant of the highest.”
 
-##################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Your twoworlds: i.e. the earth and the firmament, which are visible; cf. RV. 10.082.05
 </details>
@@ -1311,15 +1311,15 @@ Am Leibe wachsend über alle Maasse hast Grösse du erlangt, der keiner gleichko
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###################### Strata
+###### Strata
 Strophic
 
-###################### Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-###################### Morph
+###### Morph
 cakrame ← √kramⁱ- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:MED}
 
@@ -1465,11 +1465,11 @@ urukṣitím ← urukṣití- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-##################### English translation:
+###### English translation:
 
 “This **Viṣṇu** traversed the earth for a dwelling which he was desirous of giving to his eulogist; firm arethe people who are his praisers; he who is the engenderer of good has made a spacious dwelling (for hisworshippers).”
 
-##################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Which he was desirous of giving: manuṣe daśasyan = stuvate devagaṇāya, to the company ofgods praising him-- Viṣṇu having taken the **three worlds** from the **Asuras** to give to them; the engenderer ofgood: or, to whom belong fortunate births
 </details>
@@ -1572,15 +1572,15 @@ Hinschreitend ging durch diese Erde Vischnu, der Gott dem Menschen sie zur Wohnu
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###################### Strata
+###### Strata
 Strophic
 
-###################### Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-###################### Morph
+###### Morph
 deváḥ ← devá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -1731,11 +1731,11 @@ tveṣám ← tveṣá- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-##################### English translation:
+###### English translation:
 
 “This deity, by his great power, traversed with three (steps) the many- lustrous earth; may **Viṣṇu**, themost powerful of the powerful rule over us, for illustrious is the name of the mighty one.”
 
-##################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Earth: **pṛthivī** =pṛthivyādīn, or the **three worlds**
 </details>

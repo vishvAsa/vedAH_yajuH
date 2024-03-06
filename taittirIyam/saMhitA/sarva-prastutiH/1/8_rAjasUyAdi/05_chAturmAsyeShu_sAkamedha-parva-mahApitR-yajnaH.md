@@ -182,16 +182,16 @@ Yoke, O Indra, thy two bay steeds [1].
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Normal on metrical evidence alone
 
-############ Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-############ Morph
+###### Morph
 ákṣan ← √ghas- (root)  
 {number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -340,7 +340,7 @@ yójā ← √yuj- (root)
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “(Your worshippers) have eaten the food which you had given, and have rejoiced, and have trembled through their precious (bodies); self-illuminated sages have glorified you with commendable thoughts; therefore, **Indra**, quickly yoke your horses.”
 </details>

@@ -1,10 +1,7 @@
 ---
-
 title: प्रतिसरबन्धः
+
 ---
-
-
-
 source: āpastambīya pūrvāpara prayoga  
 author: muddu śroutigal  
 publisher: rāja veda kāvya pāṭhaśālā (kumbakonam)  
@@ -23,13 +20,140 @@ script: grantha
 
 > अमुकनक्षत्रे ऽमुकराशौ जातस्यामुकशर्मणो ऽमुकस्य अमुककर्माङ्गं बोधायनोक्तप्रकारेण प्रतिसरबन्धकर्म करिष्ये। उदकशान्तिवच्छुचौ समे देश इत्यादि कुम्भं प्रतिष्ठाप्यालङ्कृत्य 
 
-<div class="js_include" url="../upAngam/kumbha-kAryam" newLevelForH1="5" includeTitle="false"> </div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="../upAngam/kumbha-kAryam">
+<details open><summary><h5>कुम्भ-कार्यम् ...{Loading}...</h5></summary>
+
+
+शुचौ समे देशे गोमयेन गोचर्ममात्रं चतुरश्रं स्थण्डिलमुपलिप्य, सैकतवद्द्रोणपरिमित-व्रीहिभिः स्थण्डिलं कृत्वा, तदुपरि तण्डुलराशिं निक्षिप्य,
+
+###### उल्लेखनम्
+
+तस्मिन् प्रादेशमात्रं चतुरश्रं दर्भैस्त्रिः प्राचीनमुल्लेखेत्।
+
+(मध्ये)  
+ब्रह्म॑ जज्ञा॒नं प्र॑थ॒मं पु॒रस्ता॒द्वि सी॑म॒तः सु॒रुचो॑ वे॒न आ॑वः।  
+स बु॒ध्निया॑ उप॒मा अ॑स्य वि॒ष्ठाः स॒तश्च॒ योनि॒मस॑तश्च॒ विवः॑॥
+
+(ब्रह्म॑ - ज॒ज्ञा॒न॒म् - प्र॒थ॒मम् - पु॒रस्ता॒॑॑त् - वि सी॑म॒तः - सु॒रुचः॑ - वे॒न आ॑वः।  
+स बु॒ध्नियाः॑॑ - उ॒प॒माः - अ॒स्य॒ वि॒ष्ठाः - स॒तश्च॑ - योनि॑॑म् - अस॑तश्च - विवः॑॥)
+
+(दक्षिणतः)  
+नाके॑ सुप॒र्णमु॑प॒यत्पत॑न्तꣳ हृ॒दा वेन॑न्तो अ॒भ्यच॑क्षतत्वा।  
+हिर॑ण्यपक्षं॒ वरु॑णस्य दू॒तं य॒मस्य॒ योनौ॑ शकु॒नं भु॑र॒ण्युम्॥
+
+(नाके॑ - सु॒प॒र्णम् - उप॒यत् - पत॑न्तम् - हृ॒दा - वेन॑न्तः - अ॒भ्यच॑क्षतत्वा।  
+हिर॑ण्यपक्षम् - वरु॑णस्य - दू॒तं - य॒मस्य॑ - योनौ॑ - शकु॒नम् - भु॒र॒ण्युम्॥)
+
+(उत्तरतः)  
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/031/04_A_pyAyasva.md">
+<details open><summary><h4>१७ आ प्यायस्व ...{Loading}...</h4></summary>
+
+
+**आ प्या॑यस्व॒ समे॑तु** ते  
+वि॒श्वतः॑ सोम॒ वृष्ण्य॑म् ।  
+**भवा॒** वाज॑स्य **सङ्ग॒थे**+++(=संगमने)+++ ॥
+
+</details>
+</div>  
+
+(आ प्या॑यस्व - समे॑तु ते - वि॒श्वतः॑ - सो॒म॒ - वृ॒ष्णि॑यम्।  
+भवा॒ वाज॑स्य - स॒ङ्ग॒थे॥)
+
+अथ त्रिरुदीचीनमुल्लिखेत्। (मध्ये)  
+यो रु॒द्रो अ॒ग्नौ यो अ॒प्सु य ओष॑धीषु॒ यो रु॒द्रो विश्वा॒ भुव॑ना वि॒वेश॒ तस्मै॑ रु॒द्राय॒ नमो॑ अस्तु॥  
+
+यो रु॒द्रः - अ॒ग्नौ - यो अ॒प्सु - य ओष॑धीषु - यो रु॒द्रः - विश्वा॑॑ - भुव॑ना - आ॒वि॒वेश॑ - तस्मै॑ - रु॒द्राय॑ - नमो॑ अस्तु॥  
+
+अप उपस्पृश्य,
+
+(पश्चिमतः)  
+इ॒दं विष्णु॒र्विच॑क्रमे त्रे॒धा नि द॑धे प॒दम्। समू॑ढमस्य पाꣳसु॒रे॥
+
+(इ॒दम् - विष्णुः॑ - विच॑क्रमे - त्रे॒धा - नि द॑धे - प॒दम्। समू॑ढम् - अ॒स्य॒ - पा॒ꣳ॒सु॒रे॥)
+
+(पुरस्तात्)  
+इन्द्रं॒ विश्वा॑ अवीवृधन् समु॒द्र व्य॑चसं॒ गिरः॑। र॒थीत॑मꣳ रथी॒नां वाजा॑ना॒ꣳ सत्प॑तिं॒ पति॑॑म्।
+
+इन्द्र॑॑म् - विश्वाः॑॑ - अ॒वी॒वृ॒ध॒न् - स॒मु॒॒द्र॒ व्य॑चसम् - गिरः॑। र॒थीत॑मम् - र॒थी॒नाम् - वाजा॑नाम् - सत्प॑तिम् - पति॑॑म्।
+
+दर्भान्निरस्य, अप उपस्पृश्य 
+  
+###### कुम्भस्थापनम्
+
+दूर्वाक्षतफलैरवकीर्य, गन्धोदकेनाभ्युक्ष्य, पुष्पैरवकीर्य, प्रागग्रान् दर्भान् संस्तीर्य, तन्तुवेष्टितं सुधूपितं कुम्भमद्भिः प्रोक्ष्य, ब्रह्म॑ जज्ञा॒नमित्यृचा स्थण्डिले कुम्भं निधाय, तस्मिन् गायत्र्या तिरःपवित्रमुदगग्रं निधाय, व्याहृतीभिः शुद्धोदकैः पूरयित्वा,
+
+###### अभिमन्त्रणम्
+
+आपो॒ वा इ॒दꣳ सर्वं॒ विश्वा॑ भू॒तान्यापः॑ प्रा॒णा वा आपः॑ प॒शव॒ आपो ऽन्न॒मापो ऽमृ॑त॒मापः॑ स॒म्राडापो॑ वि॒राडापः॑ 
+स्व॒राडाप॒श्छन्दा॒ꣴ॒स्यापो॒ ज्योती॒ꣴष्यापो॒ यजू॒ꣴष्यापः॑ स॒त्यमापः॒ सर्वा॑ दे॒वता॒ आपो॒ भूर्भुवः॒सुव॒राप॒ ओम्॥
+
+आपो॒ वै - इ॒दम् - सर्व॑॑म् - विश्वा॑ भू॒तानि॑ - आपः॑ - प्रा॒णा वै - आपः॑ - प॒शव॒ आपः॑ - अन्न॒मापः॑ - 
+अ॒मृत॒मापः॑ - स॒म्राडापः॑ - वि॒राडापः॑ - स्व॒राडापः॑ - छन्दाꣳ॑सि - आपः॑ - ज्योतीꣳ॑सि - आपः॑ - 
+स॒त्यमापः॑ - सर्वाः॑॑ - दे॒वता॒ आपः॑ - भूर्भुवः॒सुवः॑ आप॒ ओम्॥
+
+(१) अ॒पः प्रण॑यति। श्र॒द्धा वा आपः॑। श्र॒द्धामे॒वारभ्य॑ प्र॒णीय॒ प्रच॑रति।  
+(२) अ॒पः प्रण॑यति। य॒ज्ञो वा आपः॑। य॒ज्ञमे॒वारभ्य॑ प्र॒णीय॒ प्रच॑रति।  
+(३) अ॒पः प्रण॑यति। वज्रो॒ वा आपः॑। वज्र॑मे॒व भ्रातृ॑व्येभ्यः प्र॒हृत्य॑ प्र॒णीय॒ प्रच॑रति।  
+(४) अ॒पः प्रण॑यति। आपो॒ वै र॑क्षो॒घ्नीः। रक्ष॑सा॒मप॑हत्यै।  
+(५) अ॒पः प्रण॑यति। आपो॒ वै द॒वानां॑॑ प्रि॒यं धाम॑। दे॒वाना॑मे॒व प्रि॒यं धाम॑ प्र॒णीय॒ प्रच॑रति।  
+(६) अ॒पः प्रण॑यति। आपो॒ वै सर्वा॑ दे॒वताः॑॑। दे॒वता॑ ए॒वारभ्य॑ प्र॒णीय॒ प्रच॑रति। अ॒पः प्रण॑यति।  
+(७) आपो॒ वै शा॒न्ताः। शा॒न्ताभि॑रे॒वास्य॒ शुच॑ꣳ शमयति॥  
+इत्यभिमन्त्र्य,
+
+उत्पवनम्  
+त्रिः प्रागुत्पुनाति।  
+दे॒वो वः॑ सवि॒तोत्पु॑नातु। अच्छि॑द्रेण प॒वित्रे॑ण।  वसोः॒ सूर्य॑स्य र॒श्मिभिः॑॥
+
+(दे॒वो वः॑ - स॒वि॒ता - उत्पु॑नातु - अच्छि॑द्रेण - प॒वित्रे॑ण - वसोः॒ - सूर्य॑स्य - र॒श्मिभिः॑॥)
+
+रत्ननिक्षेपणम्  
+[ऋ] स हि रत्ना॑॑नि दा॒शुषे॑॑ सु॒वाति॑ सवि॒ता भगः॑।  
+तं भा॒गं चि॒त्रमी॑॑महे॥  
+
+(स हि - रत्ना॑॑नि - दा॒शुषे॑॑ - सु॒वाति॑ - स॒वि॒ता भगः॑।  
+तं भा॒गम् - चि॒त्रम् - ई॒म॒हे॒॥)
+कुम्भरत्नं निक्षिप्य,
+
+कूर्चनिधानम्  
+कूर्चाग्रै राक्षसान् घोरान् छिन्धि कर्मविघातिनः।  
+त्वामर्पयामि कुम्भेऽस्मिन् साफल्यं कुरु कर्मणि॥  
+कूर्चं निधाय
+
+पल्लवैरवकीरणम्  
+वृक्षराजसमुद्भूताः शाखायाः पल्लवत्त्वचः।  
+युष्मान् कुम्भेष्वर्पयामि सर्वदोषापनुत्तये॥  
+चूतपल्लवैर्बिल्वपल्लवैर्वाऽवकीर्य।
+
+अपिधानम्  
+नालिकेरसमुद्भूत त्रिणेत्र हरसंमत।  
+शिखया दुरितं सर्वं पापं पीडां च मे नुद॥  
+नालिकेरफलेनापिधाय। (ऊर्ध्वकूर्चं च निधाय)
+</details>
+</div>
 
 ## वरुणपूजादि
 
 इ॒मं मे॑ वरुण, तत्त्वा॑यामीति द्वाभ्यां कुम्भे वरुणमावाह्य, आसनं दत्वा, पाद्यादि-निवेदनान्तं कृत्वा,
 
-<div class="js_include" url="../upAngam/varuNa-pUjA" newLevelForH1="5" includeTitle="false"> </div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="../upAngam/varuNa-pUjA">
+<details open><summary><h5>वरुण-पूजा ...{Loading}...</h5></summary>
+
+
+इ॒मं मे॑ वरुण श्रुधी॒ हव॑म॒द्या च॑ मृडय। त्वाम॑व॒स्युराच॑के॥
+
+तत्त्वा॑यामि॒ ब्रह्म॑णा॒ वन्द॑मान॒स्तदाशा॑॑स्ते॒ यज॑मानो ह॒विर्भिः॑।  
+अहे॑डमानो वरुणे॒ह बो॒ध्युरु॑शꣳ स॒मान॒ आयुः॒ प्रमो॑षीः॥ 
+
+अस्मिन् कुम्भे वरुणं ध्यायामि। वरुणं आवाहयामि।  
+वरुणाय नमः। आसनं समर्पयामि।
+
+पाद्यं, अर्घ्यं, आचमनीयं, स्नानं, स्नानानन्तरमाचमनीयं, वस्त्रं, उपवीतं, गन्धं, गन्धोपरि अक्षतान्, पुष्पाणि समर्पयामि।
+
+वरुणाय नमः। प्रचेतसे नमः। सुरूपिणे नमः। अपां पतये नमः। मकरवाहनाय नमः। जलाधिपतये नमः। पाशहस्ताय नमः। वरुणाय नमः। नानाविधपत्रपुष्पाणि समर्पयामि॥
+
+धूपं, दीपं, नैवेद्यं, गुडोपहारं निवेदयामि। ताम्बूलं, मन्त्रपुष्पं, सुवर्णपुष्पम्। एवं षोडशोपचारान् कृत्वा।
+</details>
+</div>
 
 
 
@@ -67,11 +191,11 @@ script: grantha
 
 
 
-###### परिचयः
+##### परिचयः
 - सायणः /- तैत्तिरीयभाष्ये [ऽत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_042_Krishna_Yajurvediya_Taittiriya_Samhita_Part_1_-_Kasinath_Sastri_Agase_1940#page/n325/mode/2up)। ऋग्भाष्ये [ऽत्र](https://archive.org/stream/RgVedaWithSayanasCommentaryPart2/rv_sayanabhasya_part2#page/n573/mode/2up)।
 - तत्रैव 'मदे चिदस्य ’ इत्यर्धर्चम् एवोद्धृत्य। तैत्तिरीयभाष्ये [ऽत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_042_Krishna_Yajurvediya_Taittiriya_Samhita_Part_1_-_Kasinath_Sastri_Agase_1940#page/n327/mode/2up)।
 
-###### आह्वानम्
+##### आह्वानम्
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/01_kRNuShva_pAjaH.md">
 <details open><summary><h6>०१ कृणुष्व पाजः ...{Loading}...</h6></summary>
 
@@ -84,7 +208,7 @@ script: grantha
 </details>
 </div>
 
-###### युद्धप्रार्थना
+##### युद्धप्रार्थना
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/02_tava_bhramAsa.md">
 <details open><summary><h6>०२ तव भ्रमास ...{Loading}...</h6></summary>
 
@@ -130,7 +254,7 @@ script: grantha
 </details>
 </div>
 
-###### उपासकसौभाग्यम्
+##### उपासकसौभाग्यम्
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/06_sa_te.md">
 <details open><summary><h6>०६ स ते ...{Loading}...</h6></summary>
 
@@ -154,7 +278,7 @@ script: grantha
 </details>
 </div>
 
-###### प्रतिज्ञा
+##### प्रतिज्ञा
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/08_archAmi_te.md">
 <details open><summary><h6>०८ अर्चामि ते ...{Loading}...</h6></summary>
 
@@ -200,7 +324,7 @@ script: grantha
 </details>
 </div>
 
-####### किरणकीर्तिः
+###### किरणकीर्तिः
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/12_asvapnajastaraNayaH_sushevA.md">
 <details open><summary><h6>१२ अस्वप्नजस्तरणयः सुशेवा ...{Loading}...</h6></summary>
 
@@ -227,7 +351,7 @@ script: grantha
 </details>
 </div>
 
-###### प्रतिज्ञानुवर्तनम्
+##### प्रतिज्ञानुवर्तनम्
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/14_tvayA_vayaM.md">
 <details open><summary><h6>१४ त्वया वयं ...{Loading}...</h6></summary>
 
@@ -262,7 +386,7 @@ script: grantha
 </details>
 </div>
 
-###### रक्षोहाग्निध्यानम्
+##### रक्षोहाग्निध्यानम्
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/002/09_vi_jyotiShA.md">
 <details open><summary><h6>०९ वि ज्योतिषा ...{Loading}...</h6></summary>
 
@@ -349,9 +473,9 @@ script: grantha
 <details open><summary><h8>विश्वास-प्रस्तुतिः ...{Loading}...</h8></summary>
 
 हिर॑ण्यवर्णा॒श् शुच॑यᳶ पाव॒का,  
-यासु॑ जा॒तᳵ क॒श्यपो॒, यास्विन्द्रः॑ ।  
-अ॒ग्निय्ँ या गर्भ॑न् दधि॒रे, विरू॑पा॒स् -  
-ता न॒ आप॒श्शꣳ स्यो॒ना भ॑वन्तु ।
+यासु॑ **जा॒तᳵ** क॒श्यपो॒, यास्व् इन्द्रः॑ ।  
+अ॒ग्निय्ँ या गर्भ॑न् **दधि॒रे**, विरू॑पा॒स् -  
+ता न॒ आप॒श् शꣳ स्यो॒ना **भ॑वन्तु** ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/5/6/01_hiraNyavarNAsh_shuchayaH/03_hiraNyavarNAsh_shuchayapH.md">
@@ -379,10 +503,10 @@ script: grantha
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/08_yAsAM_rAjA.md">
 <details open><summary><h8>विश्वास-प्रस्तुतिः ...{Loading}...</h8></summary>
 
-यासा॒ꣳ॒ राजा॒ वरु॑णो॒ याति॒ मध्ये॑,  
-सत्यानृ॒ते अ॑व॒पश्य॒ञ् जना॑नाम् ।
-म॒धु॒श्चुत॒श् शुच॑यो॒ याᳶ पा॑व॒कास् -  
-ता न॒ आप॒श् शꣳ स्यो॒ना भ॑वन्तु ।
+यासा॒ꣳ॒ राजा॒ वरु॑णो॒ **याति॒** मध्ये॑,  
+सत्यानृ॒ते **अ॑व॒पश्य॒ञ्** जना॑नाम् ।
+म॒धु॒श्-**चुत॒श्** शुच॑यो॒ याᳶ पा॑व॒कास् -  
+ता न॒ आप॒श् शꣳ स्यो॒ना **भ॑वन्तु** ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/5/6/01_hiraNyavarNAsh_shuchayaH/08_yAsAM_rAjA.md">
@@ -407,10 +531,10 @@ script: grantha
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/12_yAsAn_devA.md">
 <details open><summary><h8>विश्वास-प्रस्तुतिः ...{Loading}...</h8></summary>
 
-यासा᳚न् दे॒वा दि॒वि कृ॒ण्वन्ति॑ भ॒ख्षय्ँ -  
-या अ॒न्तरि॑ख्षे बहु॒धा भव॑न्ति ।
-याᳶ पृ॑थि॒वीम् पय॑सो॒न्दन्ति॑ शु॒क्रास् -  
-ता न॒ आप॒श् शꣳ स्यो॒ना भ॑वन्तु ।
+यासा᳚न् दे॒वा दि॒वि **कृ॒ण्वन्ति॑** भ॒ख्षय्ँ -  
+या अ॒न्तरि॑ख्षे बहु॒धा **भव॑न्ति** ।
+याᳶ पृ॑थि॒वीम् **पय॑सो॒न्दन्ति॑** शु॒क्रास् -  
+ता न॒ आप॒श् शꣳ स्यो॒ना **भ॑वन्तु** ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/5/6/01_hiraNyavarNAsh_shuchayaH/12_yAsAn_devA.md">
@@ -632,14 +756,14 @@ script: grantha
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###################### Strata
+###### Strata
 Cretic
 
-###################### Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M
-###################### Morph
+###### Morph
 ā́paḥ ← áp- (nominal stem)  
 {case:VOC, gender:F, number:PL}
 
@@ -751,11 +875,11 @@ ráṇāya ← ráṇa- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-##################### English translation:
+###### English translation:
 
 “Since, waters, you are the sources of happiness, grant to us to enjoy abundance, and great anddelightful perception.”
 
-##################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Great and delightful perception: mahe raṇāya cakṣase = samyajñānam, perfectknowledge of **brahman**; the ṛca solicits happiness both in this world and in the next; the rapturous sight of thesupreme god; to behold great joy
 </details>
@@ -837,14 +961,14 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###################### Strata
+###### Strata
 Cretic
 
-###################### Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M
-###################### Morph
+###### Morph
 rásaḥ ← rása- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -950,7 +1074,7 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-##################### English translation:
+###### English translation:
 
 “Give us to partake in this world of your most auspicious **Soma**, like affectionate mothers.”
 </details>
@@ -1025,14 +1149,14 @@ Welch segenreichster Saft euch ist, an dem lasst Theil uns haben hier, Den liebe
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###################### Strata
+###### Strata
 Cretic
 
-###################### Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M
-###################### Morph
+###### Morph
 áram ← áram (invariable)  
 {}
 
@@ -1138,11 +1262,11 @@ _____________
 </details>
 <details><summary>Wilson</summary>
 
-##################### English translation:
+###### English translation:
 
 “Let us quickly have recourse to you, for that your (faculty) of removing (sin) by which you gladden us;waters, bestow upon us progeny.”
 
-##################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Let us go to you at once for him to whose house you are hastening; waters,reinvogorate us; faculty of removing sin: **kṣaya** = nivāsa, abode;
 
@@ -1198,10 +1322,10 @@ Für solchen gehn wir euch zur Hand, zu dessen Sitz ihr eilend naht, Ihr Wasser 
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/16_shivena_mA.md">
 <details open><summary><h8>विश्वास-प्रस्तुतिः ...{Loading}...</h8></summary>
 
-शि॒वेन॑ मा॒ चख्षु॑षा पश्यतापश् -  
-शि॒वया॑ त॒नुवोप॑ स्पृशत॒ त्वच॑म् मे ।
-सर्वाꣳ॑ अ॒ग्नीꣳर् अ॑फ्सु॒-षदो॑ हुवे वो॒,  
-मयि॒ वर्चो॒ बल॒म् ओजो॒ नि ध॑त्त ।
+शि॒वेन॑ मा॒ चख्षु॑षा **पश्यतापश्** -  
+शि॒वया॑ त॒नुवोप॑ **स्पृशत॒** त्वच॑म् मे ।
+सर्वाꣳ॑ अ॒ग्नीꣳर् अ॑फ्सु॒-षदो॑ **हुवे** वो॒,  
+मयि॒ वर्चो॒ बल॒म् ओजो॒ **नि ध॑त्त** ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/5/6/01_hiraNyavarNAsh_shuchayaH/16_shivena_mA.md">
@@ -1233,16 +1357,16 @@ Für solchen gehn wir euch zur Hand, zu dessen Sitz ihr eilend naht, Ihr Wasser 
 <div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/01_pavamAnas_suvarjanaH.md">
 <details open><summary><h8>01 पवमानस् सुवर्जनः ...{Loading}...</h8></summary>
 
-पव॑मान॒स् **सुव॒र्-जनः॑** ।  
+पव॑मान॒स् सुव॒र्-जनः॑ ।  
 प॒वित्रे॑ण॒ +++(नाना-विषयेषु)+++ विच॑र्षणिः ।  
-यᳶ पोता॒ स पु॑नातु मा ।  
+यᳶ पोता॒ स **पु॑नातु** मा ।  
 
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/02_punantu_mA.md">
 <details open><summary><h8>02 पुनन्तु मा ...{Loading}...</h8></summary>
 
-पु॒नन्तु॑ मा **देवज॒नाः** ।  
+**पु॒नन्तु॑** मा **देवज॒नाः** ।  
 पु॒नन्तु॒ **मन॑वो** धि॒या ।  
 पु॒नन्तु॒ **विश्व॑ आ॒यवः॑**+++(=मनुष्याः)+++ ।  
 
@@ -1252,8 +1376,8 @@ Für solchen gehn wir euch zur Hand, zu dessen Sitz ihr eilend naht, Ihr Wasser 
 <details open><summary><h8>03 जातवेदᳶ पवित्रवत् ...{Loading}...</h8></summary>
 
 जात॑वेदᳶ प॒वित्र॑वत् ।  
-प॒वित्रे॑ण पुनाहि+++(=पुनीहि)+++ मा ।  
-शु॒क्रेण॑ देव॒ दीद्य॑त् ।  
+प॒वित्रे॑ण **पुनाहि**+++(=पुनीहि)+++ मा ।  
+शु॒क्रेण॑ देव॒ **दीद्य॑त्** ।  
 **अग्ने॒** क्रत्वा॒+++(=प्रज्ञया)+++ क्रतू॒ꣳर् अनु॑ ॥46॥  
 
 </details>
@@ -1263,7 +1387,7 @@ Für solchen gehn wir euch zur Hand, zu dessen Sitz ihr eilend naht, Ihr Wasser 
 
 यत् ते॑ **प॒वित्र॑म् अ॒र्चिषि॑** ।  
 अग्ने॒ वित॑तम् अन्त॒रा ।  
-ब्रह्म॒ तेन॑ पुनीमहे ।  
+ब्रह्म॒ तेन॑ **पुनीमहे** ।  
 
 </details>
 </div>
@@ -1272,17 +1396,17 @@ Für solchen gehn wir euch zur Hand, zu dessen Sitz ihr eilend naht, Ihr Wasser 
 
 उ॒भाभ्या᳚न् देव **सवितः** ।  
 प॒वित्रे॑ण स॒वेन॑ च ।  
-इ॒दम् ब्रह्म॑ पुनीमहे ।+++(5)+++  
+इ॒दम् ब्रह्म॑ **पुनीमहे** ।+++(5)+++  
 
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/06_vaishvadevI_punatI.md">
 <details open><summary><h8>06 वैश्वदेवी पुनती ...{Loading}...</h8></summary>
 
-**वै॒श्व॒दे॒वी** पु॑न॒ती दे॒व्य् आगा᳚त्+++(=आगच्छतु)+++ ।  
+वै॒श्व॒दे॒वी **पु॑न॒ती** दे॒व्य् **आगा᳚त्**+++(=आगच्छतु)+++ ।  
 यस्यै॑ ब॒ह्वीस् त॒नुवो॑ वी॒त-पृ॑ष्ठाः+++(=कान्त-स्तुतयः)+++ ।  
-तया॒ मद॑न्तस् सध॒-माद्ये॑षु +++(=सह माद्यन्ति येषु सवनेषु)+++ ।  
-व॒यꣵ स्या॑म॒ पत॑यो रयी॒णाम् ॥47॥  
+तया॒ **मद॑न्तस्** सध॒-माद्ये॑षु +++(=सह माद्यन्ति येषु सवनेषु)+++ ।  
+व॒यꣵ **स्या॑म॒** पत॑यो रयी॒णाम् ॥47॥  
 
 
 </details>
@@ -1290,10 +1414,10 @@ Für solchen gehn wir euch zur Hand, zu dessen Sitz ihr eilend naht, Ihr Wasser 
 <div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/07_vaishvAnaro_rashmibhir.md">
 <details open><summary><h8>07 वैश्वानरो रश्मिभिर् ...{Loading}...</h8></summary>
 
-**वै॒श्वा॒न॒रो** र॒श्मिभि॑र् मा पुनातु ।   
+**वै॒श्वा॒न॒रो** र॒श्मिभि॑र् मा **पुनातु** ।   
 **वात॑ᳶ** प्रा॒णेने॑षि॒रो+++(←इष गतौ)+++ म॑यो॒भूः ।  
 **द्यावा॑पृथि॒वी** पय॑सा॒ पयो॑भिः +++(इति क्रमशः)+++ ।   
-ऋ॒ताव॑री+++(=ऋतवत्यौ)+++ य॒ज्ञिये॑ मा पुनीताम् ।  
+ऋ॒ताव॑री+++(=ऋतवत्यौ)+++ य॒ज्ञिये॑ मा **पुनीताम्** ।  
 
 
 </details>
@@ -1301,38 +1425,38 @@ Für solchen gehn wir euch zur Hand, zu dessen Sitz ihr eilend naht, Ihr Wasser 
 <div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/08_bRhadbhis_savitas.md">
 <details open><summary><h8>08 बृहद्भिस् सवितस् ...{Loading}...</h8></summary>
 
-बृ॒हद्भि॑स् **सवित॒स्** तृभिः॑+++(=त्रिभिः [लोकगणनया]/ तृप्यतेः करणे क्विप्)+++ ।   
+बृ॒हद्भि॑स् सवित॒स् तृभिः॑+++(=त्रिभिः [लोकगणनया]/ तृप्यतेः करणे क्विप्)+++ ।   
 वर्षि॑ष्ठैर्+++(=प्रवृद्ध-धर्मैः)+++ देव॒ मन्म॑भिः+++(=मननीयैः)+++ ।  
-अग्ने॒ दख्षै᳚ᳶ पुनाहि मा ।  
+अग्ने॒ दख्षै᳚ᳶ **पुनाहि** मा ।  
 
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/09_yena_devA.md">
 <details open><summary><h8>09 येन देवा ...{Loading}...</h8></summary>
 
-येन॑ दे॒वा अपु॑नत ।   
-येनापो॑ दि॒व्यङ् कशः॑+++(←कशेर् गतिकर्मणो ऽसुन्)+++ ।  
-तेन॑ **दि॒व्येन॒ ब्रह्म॑णा** ॥48॥  
-इ॒दम् ब्रह्म॑ पुनीमहे ।  
+येन॑ दे॒वा **अपु॑नत** ।   
+येनापो॑ दि॒व्यङ् **कशः॑**+++(←कशेर् गतिकर्मणो ऽसुन्)+++ ।  
+तेन॑ दि॒व्येन॒ ब्रह्म॑णा ॥48॥  
+इ॒दम् ब्रह्म॑ **पुनीमहे** ।  
 
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/10_yapH_pAvamAnIr.md">
 <details open><summary><h8>10 यᳶ पावमानीर् ...{Loading}...</h8></summary>
 
-यᳶ पा॑वमा॒नीर् अ॒ध्येति॑ ।  
+यᳶ पा॑वमा॒नीर् **अ॒ध्येति॑** ।  
 **ऋषि॑भि॒स् सम्भृ॑त॒ꣳ॒** रस᳚म् ।  
-सर्व॒ꣳ॒ स पू॒तम् अ॑श्ञाति ।   
-स्व॒दि॒तम्+++(=स्वादुकृतं)+++ **मा॑त॒रिश्व॑ना**+++(=वायुना)+++ ।   
+सर्व॒ꣳ॒ स पू॒तम् **अ॑श्ञाति** ।   
+**स्व॒दि॒तम्**+++(=स्वादुकृतं)+++ मा॑त॒रिश्व॑ना+++(=वायुना)+++ ।   
 
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/11_pAvamAnIr_yo.md">
 <details open><summary><h8>11 पावमानीर् यो ...{Loading}...</h8></summary>
 
-पा॒व॒मा॒नीर् यो अ॒ध्येति॑ ।   
-ऋषि॑भि॒स् सम्भृ॑त॒ꣳ॒ रस᳚म् ।  
-तस्मै॒ सर॑स्वती दुहे ।   
+पा॒व॒मा॒नीर् यो **अ॒ध्येति॑** ।   
+ऋषि॑भि॒स् **सम्भृ॑त॒ꣳ॒** रस᳚म् ।  
+तस्मै॒ सर॑स्वती **दुहे** ।   
 ख्षी॒रꣳ स॒र्पिर् मधू॑द॒कम् ।
 
 </details>
@@ -1340,30 +1464,30 @@ Für solchen gehn wir euch zur Hand, zu dessen Sitz ihr eilend naht, Ihr Wasser 
 <div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/12_pAvamAnIs_svastyayanIH.md">
 <details open><summary><h8>12 पावमानीस् स्वस्त्ययनीः ...{Loading}...</h8></summary>
 
-पा॒व॒मा॒नीस् स्व॒स्त्यय॑नीः ॥49॥   
-सु॒दुघा॒ हि पय॑स्वतीः ।  
-ऋषि॑भि॒स् सम्भृ॑तो॒ रसः॑ ।  
-ब्रा॒ह्म॒णेष्व् अ॒मृतꣳ॑ हि॒तम् ।  
+पा॒व॒मा॒नीस् **स्व॒स्त्य्-अय॑नीः** ॥49॥   
+सु॒-दुघा॒ हि पय॑स्वतीः ।  
+ऋषि॑भि॒स् **सम्भृ॑तो॒** रसः॑ ।  
+ब्रा॒ह्म॒णेष्व् अ॒मृतꣳ॑ **हि॒तम्** ।  
 
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/13_pAvamAnIr_dishantu.md">
 <details open><summary><h8>13 पावमानीर् दिशन्तु ...{Loading}...</h8></summary>
 
-पा॒व॒मा॒नीर् दि॑शन्तु नः ।  
+पा॒व॒मा॒नीर् **दि॑शन्तु** नः ।  
 इ॒मल्ँ लो॒कम् अथो॑ अ॒मुम् ।  
-कामा॒न्थ् सम॑र्धयन्तु नः ।  
-दे॒वीर् दे॒वैस् स॒माभृ॑ताः ।           
+कामा॒न्थ् **सम॑र्धयन्तु** नः ।  
+दे॒वीर् दे॒वैस् **स॒माभृ॑ताः** ।           
 
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/14_pAvamAnIs_svastyayanIH.md">
 <details open><summary><h8>14 पावमानीस् स्वस्त्ययनीः ...{Loading}...</h8></summary>
 
-पा॒व॒मा॒नीस् स्व॒स्त्यय॑नीः ।  
-सु॒दुघा॒ हि घृ॑त॒श्-चुतः॑+++(=क्षारयित्र्यः)+++ ।  
-ऋषि॑भि॒स् सम्भृ॑तो॒ रसः॑ ॥50॥  
-ब्रा॒ह्म॒णेष्व् अ॒मृतꣳ॑ हि॒तम् ।
+पा॒व॒मा॒नीस् **स्व॒स्त्य्-अय॑नीः** ।  
+सु॒-दुघा॒ हि घृ॑त॒श्-**चुतः॑**+++(=क्षारयित्र्यः)+++ ।  
+ऋषि॑भि॒स् **सम्भृ॑तो॒** रसः॑ ॥50॥  
+ब्रा॒ह्म॒णेष्व् अ॒मृतꣳ॑ **हि॒तम्** ।
 
 </details>
 </div>
@@ -1371,9 +1495,9 @@ Für solchen gehn wir euch zur Hand, zu dessen Sitz ihr eilend naht, Ihr Wasser 
 <details open><summary><h8>15 येन देवाᳶ ...{Loading}...</h8></summary>
 
 येन॑ दे॒वाᳶ प॒वित्रे॑ण ।  
-आ॒त्मान॑म् पु॒नते॒ सदा᳚ ।  
-तेन॑ स॒हस्र॑धारेण ।   
-पा॒व॒मा॒न्यᳶ पु॑नन्तु मा ।            
+आ॒त्मान॑म् **पु॒नते॒** सदा᳚ ।  
+तेन॑ स॒हस्र॑-धारेण ।   
+पा॒व॒मा॒न्यᳶ **पु॑नन्तु** मा ।            
 
 </details>
 </div>
@@ -1383,7 +1507,7 @@ Für solchen gehn wir euch zur Hand, zu dessen Sitz ihr eilend naht, Ihr Wasser 
 प्रा॒जा॒प॒त्यम् प॒वित्र᳚म् ।  
 श॒तोद्या॑मꣳ हिर॒ण्मय᳚म् ।  
 तेन॑ ब्रह्म॒-विदो॑ व॒यम् ।  
-पू॒तम् +++(यथा तथा स्वीयम्)+++ ब्रह्म॑ पुनीमहे ।  
+**पू॒तम्** +++(यथा तथा स्वीयम्)+++ ब्रह्म॑ **पुनीमहे** ।  
 
 </details>
 </div>
@@ -1441,15 +1565,15 @@ Für solchen gehn wir euch zur Hand, zu dessen Sitz ihr eilend naht, Ihr Wasser 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-################## Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-################## Pāda-label
+###### Pāda-label
 popular  
 popular  
 popular  
 popular
-################## Morph
+###### Morph
 asmát ← ahám (pronoun)  
 {case:ABL, number:PL}
 
@@ -1607,11 +1731,11 @@ _______________
 </details>
 <details><summary>Wilson</summary>
 
-################# English translation:
+###### English translation:
 
 “**Varuṇa**, loosen for me the upper, the middle, the lower band; so, son of **Aditi**, shall we, through faultlessness in the worship, become freed from siṇ”
 
-################# Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Reference to the ligature fastening the head, the feet, and the waist; resulting in loosening from the bonds of sin: anāgasaḥ **syāma**, may we be sinless
 </details>
@@ -1762,15 +1886,15 @@ All these are Varuna's ordinances.
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Cretic
 
-############ Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-############ Morph
+###### Morph
 ca ← ca (invariable)  
 {}
 
@@ -1939,7 +2063,7 @@ tásmāt ← sá- ~ tá- (pronoun)
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “Whatever the offence which we men commit **Varuṇa** against divine beings, whatever law of yours wemay through ignorance violate, do not you, divine Varuṇa, punish us on account of that iniquity.”
 </details>
@@ -2018,15 +2142,15 @@ Was wir auch hier, o Varuna, nach Menschen Art für Unrecht üben am Geschlecht 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Cretic
 
-############ Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-############ Morph
+###### Morph
 dīví ← dī́v- (nominal stem)  
 {case:LOC, gender:F, number:SG}
 
@@ -2231,7 +2355,7 @@ varuṇa ← váruṇa- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “If, like gamesters, who cheat at plural y, (we commit offences) knowingly, or (those) of which we know not, do you divine **Varuṇa**, extricate us from them all, as if from loosened (bonds), so that we may be dear, Varuṇa, to you.”
 </details>
@@ -2337,15 +2461,15 @@ Wenn wir getäuscht beim Spiel wie falsche Spieler, wenn wir gefehlt, unwissend 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-############ Pāda-label
+###### Pāda-label
 popular  
 popular  
 popular  
 popular
-############ Morph
+###### Morph
 áva ← áva (invariable)  
 {}
 
@@ -2503,11 +2627,11 @@ _______________
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “**Varuṇa**, we deprecate your wrath with prostrations, with sacrifices, with oblations; averter of misfortune, wise and illustrious, be present amongst us, and mitigate the evils we have committed.”
 
-########### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 **asura** = **aniṣṭa**-**kṣepaṇa**-**śila**, accusative tomed to cast off what is undesired; from seme, to throw
 </details>
@@ -2612,15 +2736,15 @@ O Varuna, wir wenden deinen Zorn ab, durch Opfer, durch Gebet, durch Trankesspen
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-############ Pāda-label
+###### Pāda-label
 popular  
 popular  
 popular  
 popular
-############ Morph
+###### Morph
 bráhmaṇā ← bráhman- (nominal stem)  
 {case:INS, gender:N, number:SG}
 
@@ -2795,11 +2919,11 @@ prá ← prá (invariable)
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “Praising you with (devout) prayer, I implore you for that (life) which the instrumental tutor of the sacrifice solicits with oblations; **Varuṇa**, undisdainful, bestow a thought upon us; much-lauded, take not away our existence.”
 
-########### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 The term, tadāyus is supplied in the context of **māna** āyuḥ pramoṣiḥ = do not take away our life
 </details>
@@ -2947,15 +3071,15 @@ O bounteous one, be merciful to our children and descendants.
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###################### Strata
+###### Strata
 Normal
 
-###################### Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-###################### Morph
+###### Morph
 gartasádam ← gartasád- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -3120,7 +3244,7 @@ vapantu ← √vap- 2 (root)
 </details>
 <details><summary>Wilson</summary>
 
-##################### English translation:
+###### English translation:
 
 “Glorify the renowned **Rudra**, riding in his car, ever youthful, destructive, fierce like a formidable wild beast; Rudra, propitiated by praise, grant happiness to him who praises (you), and let your hosts destroy him who is our adversary.”
 </details>
@@ -3319,15 +3443,15 @@ And approach us bearing the spear [4].
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###################### Strata
+###### Strata
 Normal
 
-###################### Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-###################### Morph
+###### Morph
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -3519,7 +3643,7 @@ vidhatáḥ ← √vidh- (root)
 </details>
 <details><summary>Wilson</summary>
 
-##################### English translation:
+###### English translation:
 
 “You, **Agni**, are **Rudra**, the expeller (of foes) from the expanse of heaven; you are the strength of the **Maruts**; you are supreme over (sacrificial) food; you, who are plural asantly domiciled (in the hall of sacrifice), go with ruddy horses, (fleet as) the wind; as **Pūṣan**, you cherish, of yours own will, those who offer worship.”
 </details>
@@ -3635,15 +3759,15 @@ Und Rudra bist du, des erhabnen Himmels Geist, die Marutschar, o Agni, Labung wo
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###################### Strata
+###### Strata
 Strophic
 
-###################### Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-###################### Morph
+###### Morph
 ā́ ← ā́ (invariable)  
 {}
 
@@ -3783,11 +3907,11 @@ kr̥ṇudhvam ← √kr̥- (root)
 </details>
 <details><summary>Wilson</summary>
 
-##################### English translation:
+###### English translation:
 
 “Secure **Agni**, the king of sacrifice, the afflicter (of foes), the invoker (of the gods), the distributor of food through heaven and earth, the golden-formed, for your protection before (surprised by) sudden death.”
 
-##################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 **Purā** tanayitnor acittāt = liṭ, before the unconsciousness of the thunderbolt; this implies a state of unconsciousness, or death as sudden as if the work of the thunderbolt
 </details>
@@ -3882,8 +4006,8 @@ Des Opfers König, ihn den hehren Agni, der recht verehrt, den Priester beider W
 
 ### ब्रह्मसूक्तम्
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam">
-<details open><summary><h9>८ २१-२६ ब्रह्म जज्ञानम् ...{Loading}...</h9></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam">
+<details open><summary><h5>८ २१-२६ ब्रह्म जज्ञानम् ...{Loading}...</h5></summary>
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 21यद् उक्तं सूत्रकारेण  
@@ -3892,19 +4016,17 @@ Des Opfers König, ihn den hehren Agni, der recht verehrt, den Priester beider W
 वपायाः पुरोनुवाक्यामाह - 
 </details>
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/13/03_brahma_jajnAnam.md">
-<details open><summary><h12>विश्वास-प्रस्तुतिः ...{Loading}...</h12></summary>
+<details open><summary><h8>विश्वास-प्रस्तुतिः ...{Loading}...</h8></summary>
 
 ब्रह्म॑ +++(=मन्त्रः ([सौरमण्डलयज्ञे]))+++ जज्ञा॒नं +++(=उत्पन्नम्)+++ प्र॑थ॒मं पु॒रस्ता॑द्  
 वि सी॑म॒तस् सु॒रुचो॑ वे॒न आ॑वः ।  
 स बु॒ध्न्या॑ +++(=मूले भवः ([खस्य सूर्यः]))+++ उप॒मा अ॑स्य वि॒ष्ठाः +++(=विस्थितः)+++,  
 स॒तश्च॒ योनि॒म् +++(सूर्यम्)+++ अस॑तश्च॒ विवः॑ +++(=विवृतवान्)+++  ।
 
-{{< figure src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/venus_morning_star.jpg"  class="thumbnail">}}
-
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled="" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/mUlam/13/03_brahma_jajnAnam.md">
-<details><summary><h12>मूलम् ...{Loading}...</h12></summary>
+<details><summary><h8>मूलम् ...{Loading}...</h8></summary>
 
 ब्रह्म॑ जज्ञा॒नं प्र॑थ॒मं पु॒रस्ता॒द्वि सी॑म॒तः सु॒रुचो॑ वे॒नऽआ॑वः। स बु॒ध्न्या᳖ऽ उप॒माऽ अ॑स्य वि॒ष्ठाः स॒तश्च॒ योनि॒मस॑तश्च॒ वि वः॑ ॥३ ॥
 
@@ -3918,7 +4040,7 @@ Des Opfers König, ihn den hehren Agni, der recht verehrt, den Priester beider W
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/sarvASh_TIkAH/13/03_brahma_jajnAnam.md">
-<details><summary><h12>सर्वाष् टीकाः ...{Loading}...</h12></summary>
+<details><summary><h8>सर्वाष् टीकाः ...{Loading}...</h8></summary>
 <details><summary>पदपाठः</summary>
 
 ब्रह्म॑। ज॒ज्ञा॒नम्। प्र॒थ॒मम्। पु॒रस्ता॑त्। वि। सी॒म॒तः। सु॒रुच॒ इति॑ सु॒ऽरुचः॑। वे॒नः। आ॒व॒रित्या॑वः। सः। बु॒ध्न्याः᳖। उ॒प॒मा इत्यु॑प॒ऽमाः। अ॒स्य॒। वि॒ष्ठाः। वि॒स्था इति॑ वि॒ऽस्थाः। स॒तः। च॒। योनि॑म्। अस॑तः। च॒। वि। व॒रिति॑ वः। ३।
@@ -3969,7 +4091,7 @@ Des Opfers König, ihn den hehren Agni, der recht verehrt, den Priester beider W
 22अथ वपाया याज्यामाह - 
 </details>
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/17_pitA_virAjAm.md">
-<details open><summary><h13>विश्वास-प्रस्तुतिः ...{Loading}...</h13></summary>
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
 पि॒ता वि॒राजा॑म्, ऋष॒भो र॑यी॒णाम् ।  
 अ॒न्तरि॑ख्षव्ँ वि॒श्व-रू॑प॒ **आवि॑वेश** ।  
@@ -3978,7 +4100,7 @@ Des Opfers König, ihn den hehren Agni, der recht verehrt, den Priester beider W
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/17_pitA_virAjAm.md">
-<details open><summary><h13>सर्वाष् टीकाः ...{Loading}...</h13></summary>
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
 <details><summary>मूलम्</summary>
 
 पि॒ता वि॒राजा॑मृष॒भो र॑यी॒णाम् ।  
@@ -3997,7 +4119,7 @@ Des Opfers König, ihn den hehren Agni, der recht verehrt, den Priester beider W
 23अथ पुरोडाशस्य पुरोनुवाक्यामाह - 
 </details>
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/21_brahma_devAn.md">
-<details open><summary><h13>विश्वास-प्रस्तुतिः ...{Loading}...</h13></summary>
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
 ब्रह्म॑ दे॒वान् **अ॑जनयत्** ।  
 ब्रह्म॒ विश्व॑म् इ॒दञ् जग॑त् ।  
@@ -4006,7 +4128,7 @@ Des Opfers König, ihn den hehren Agni, der recht verehrt, den Priester beider W
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/21_brahma_devAn.md">
-<details open><summary><h13>सर्वाष् टीकाः ...{Loading}...</h13></summary>
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
 <details><summary>मूलम्</summary>
 
 ब्रह्म॑ दे॒वान॑जनयत् ।  
@@ -4025,7 +4147,7 @@ Des Opfers König, ihn den hehren Agni, der recht verehrt, den Priester beider W
 24अथ पुरोडाशस्य याज्यामाह - 
 </details>
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/25_antar_asminn.md">
-<details open><summary><h13>विश्वास-प्रस्तुतिः ...{Loading}...</h13></summary>
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
 अ॒न्तर् अ॑स्मिन्न् इ॒मे लो॒काः ॥ 67 ॥  
 अ॒न्तर् विश्व॑म् इ॒दञ् जग॑त् ।  
@@ -4034,7 +4156,7 @@ Des Opfers König, ihn den hehren Agni, der recht verehrt, den Priester beider W
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/25_antar_asminn.md">
-<details open><summary><h13>सर्वाष् टीकाः ...{Loading}...</h13></summary>
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
 <details><summary>मूलम्</summary>
 
 अ॒न्तर॑स्मिन्नि॒मे लो॒काः ॥ 67 ॥  
@@ -4053,7 +4175,7 @@ Des Opfers König, ihn den hehren Agni, der recht verehrt, den Priester beider W
 25अथ हविषः पुरोनुवाक्यामाह - 
 </details>
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/29_brahman_devAs.md">
-<details open><summary><h13>विश्वास-प्रस्तुतिः ...{Loading}...</h13></summary>
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
 ब्रह्म॑न् दे॒वास् त्रय॑स्-त्रिꣳशत् ।  
 ब्रह्म॑न्न् इन्द्र-प्रजाप॒ती ।  
@@ -4062,7 +4184,7 @@ Des Opfers König, ihn den hehren Agni, der recht verehrt, den Priester beider W
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/29_brahman_devAs.md">
-<details open><summary><h13>सर्वाष् टीकाः ...{Loading}...</h13></summary>
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
 <details><summary>मूलम्</summary>
 
 ब्रह्म॑न्दे॒वास्त्रय॑स्त्रिꣳशत् ।  
@@ -4081,7 +4203,7 @@ Des Opfers König, ihn den hehren Agni, der recht verehrt, den Priester beider W
 26अथ हविषो याज्यामाह - 
 </details>
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/33_chatasra_AshApH.md">
-<details open><summary><h13>विश्वास-प्रस्तुतिः ...{Loading}...</h13></summary>
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
 चत॑स्र॒ आशा॒ᳶ प्रच॑रन्त्व॒ग्नयः॑ ।   
 इ॒मन्नो॑ य॒ज्ञन्न॑यतु प्रजा॒नन्न् ।   
@@ -4090,7 +4212,7 @@ Des Opfers König, ihn den hehren Agni, der recht verehrt, den Priester beider W
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/33_chatasra_AshApH.md">
-<details open><summary><h13>सर्वाष् टीकाः ...{Loading}...</h13></summary>
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
 <details><summary>मूलम्</summary>
 
 चत॑स्र॒ आशा॒ᳶ **प्रच॑रन्त्व्** अ॒ग्नयः॑ ।   
@@ -4149,15 +4271,15 @@ Des Opfers König, ihn den hehren Agni, der recht verehrt, den Priester beider W
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###################### Strata
+###### Strata
 Strophic
 
-###################### Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-###################### Morph
+###### Morph
 kam ← kam (invariable)  
 {}
 
@@ -4311,11 +4433,11 @@ vicakramāṇáḥ ← √kramⁱ- (root)
 </details>
 <details><summary>Wilson</summary>
 
-##################### English translation:
+###### English translation:
 
 “Earnetly I glorify the exploits of **Viṣṇu**, who made the **three worlds**; who sustained the lofty aggregate site (of the spheres); thrice traversing (the whole); who is praised by the exalted.”
 
-##################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Pārthivāni vimame rajāṃsi = lit. he made the earthly regions;
 
@@ -4436,15 +4558,15 @@ Des Vischnu grosse Thaten will ich preisen, der weit durchmessen hat der Erde R�
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###################### Strata
+###### Strata
 Strophic
 
-###################### Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-###################### Morph
+###### Morph
 abhí ← abhí (invariable)  
 {}
 
@@ -4614,11 +4736,11 @@ __________________
 </details>
 <details><summary>Wilson</summary>
 
-##################### English translation:
+###### English translation:
 
 “May I attain his favourite path, in which god-seeking men delight; (the path) of that wide-stepping **Viṣṇu**, in whose exalted station there is a (perpetual) flow of felicity; for to such a degree is he the friend (of the pious).”
 
-##################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 His favourite path: the firmament: patho anatarikṣam
 </details>
@@ -4720,15 +4842,15 @@ O möcht' ich seinen lieben Sitz erreichen, in dem die frommen Männer selig leb
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###################### Strata
+###### Strata
 Strophic
 
-###################### Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-###################### Morph
+###### Morph
 prá ← prá (invariable)  
 {}
 
@@ -4867,11 +4989,11 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-##################### English translation:
+###### English translation:
 
 “**Viṣṇu** is therefore glorified, that by his prowess he is like a fearful, ravenous, and mountain-haunting wild beast, and because of that in his three paces all worlds abide.”
 
-##################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Mountain-haunting wild beast: **mṛga** or **siṃha**, a lion, as applicable to Viṣṇu: one who seeks for his enemies to inflict punishment on them, and is therefore, fearful and fierce;
 
@@ -4990,15 +5112,15 @@ Gerühmt wird Vischnu wegen dieser Grossthat, gleich wildem Löwen, der durch Be
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###################### Strata
+###### Strata
 Strophic
 
-###################### Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-###################### Morph
+###### Morph
 mā́trayā ← mā́trā- (nominal stem)  
 {case:INS, gender:F, number:SG}
 
@@ -5159,11 +5281,11 @@ __________________
 </details>
 <details><summary>Wilson</summary>
 
-##################### English translation:
+###### English translation:
 
 “Expanding with a body beyond all measure, **Viṣṇu** men comprehend not your magnitude; we knowthese your two worlds (computing) from the earth, but you, divine Viṣṇu, are cognisant of the highest.”
 
-##################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Your twoworlds: i.e. the earth and the firmament, which are visible; cf. RV. 10.082.05
 </details>
@@ -5265,15 +5387,15 @@ Am Leibe wachsend über alle Maasse hast Grösse du erlangt, der keiner gleichko
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###################### Strata
+###### Strata
 Strophic
 
-###################### Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-###################### Morph
+###### Morph
 cakrame ← √kramⁱ- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:MED}
 
@@ -5419,11 +5541,11 @@ urukṣitím ← urukṣití- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-##################### English translation:
+###### English translation:
 
 “This **Viṣṇu** traversed the earth for a dwelling which he was desirous of giving to his eulogist; firm arethe people who are his praisers; he who is the engenderer of good has made a spacious dwelling (for hisworshippers).”
 
-##################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Which he was desirous of giving: manuṣe daśasyan = stuvate devagaṇāya, to the company ofgods praising him-- Viṣṇu having taken the **three worlds** from the **Asuras** to give to them; the engenderer ofgood: or, to whom belong fortunate births
 </details>
@@ -5526,15 +5648,15 @@ Hinschreitend ging durch diese Erde Vischnu, der Gott dem Menschen sie zur Wohnu
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###################### Strata
+###### Strata
 Strophic
 
-###################### Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-###################### Morph
+###### Morph
 deváḥ ← devá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -5685,11 +5807,11 @@ tveṣám ← tveṣá- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-##################### English translation:
+###### English translation:
 
 “This deity, by his great power, traversed with three (steps) the many- lustrous earth; may **Viṣṇu**, themost powerful of the powerful rule over us, for illustrious is the name of the mighty one.”
 
-##################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Earth: **pṛthivī** =pṛthivyādīn, or the **three worlds**
 </details>
@@ -5767,7 +5889,7 @@ Dreimal schritt aus der Gott mit seiner Grösse, durch diese Erd' die hundertfac
 ### दुर्गासूक्तम्
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/01_11_jAtavedase_sunavAma_taittirIyakam">
-<details open><summary><h5>०१ ११ जातवेदसे सुनवाम (तैत्तिरीयकम्) ...{Loading}...</h5></summary>
+<details open><summary><h5>०१ ११ जातवेदसे सुनवाम तैत्तिरीयकम् ...{Loading}...</h5></summary>
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 सायण-टीका [ऽत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_036_Taittiriya_Aranyakam_With_Sayana_Bhashya_Part_2_-_Babasastri_Phadke_1927#page/n361/mode/2up)। भास्करपाठो [ऽत्र](https://archive.org/details/taittiriya/taittiriya_aranyaka_bhaskara_02/page/n101/mode/2up?view=theater) ।
@@ -5851,15 +5973,15 @@ Dreimal schritt aus der Gott mit seiner Grösse, durch diese Erd' die hundertfac
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-#################### Strata
+###### Strata
 Cretic
 
-#################### Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-#################### Morph
+###### Morph
 durgáhā ← durgáha- (nominal stem)  
 {case:ACC, gender:N, number:PL}
 
@@ -6011,7 +6133,7 @@ tanū́nām ← tanū́- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-################### English translation:
+###### English translation:
 
 “You convey us, **Jātavedas**, across all intolerable evils, as (people are carried) over a river by a boat; **Agni**, who are glorified by us with reverence, such as (that shown) by **Atri**, know yourself the protector of our person ns.”
 </details>
@@ -6168,7 +6290,7 @@ Original R^ivedic version is often termed the kAshmIra-pATha because it appears 
 </details>
 
 
-########## द्राविडपाठः
+###### द्राविडपाठः
 <details><summary>परिचयः</summary>
 
 > This pAtha is from the book 'yAjusha mantra ratnakaram' in grantha script, re-printed by Sri Krishnamurti Shastrigal.  
@@ -6243,7 +6365,7 @@ Original R^ivedic version is often termed the kAshmIra-pATha because it appears 
 तन्नो॑ लक्ष्मीः प्रचो॒दया॑त् ।।
 )
 
-########## काशीकर-पाठः
+###### काशीकर-पाठः
 <details><summary>विश्वास-टिप्पनी</summary>
 
 क्वचित् स्वरः सन्देहास्पदम्। उदात्त एव दर्शितः।
@@ -6355,5 +6477,3 @@ The learned shrI Ravlekar gave me this original R^igvedic form. Based on his ora
 आचार्याय दक्षिणां दत्वा, ब्राह्मणेभ्यो दक्षिणान् दद्यात्। तत्तत्कर्मसमाप्तौ सायं सन्ध्यायां व्याहृतीभिर्बन्धनसूत्रं विस्रस्य नद्यां तटाकादौ वा त्यजेत्॥
 
 इति प्रतिसरबन्धः॥
-
-

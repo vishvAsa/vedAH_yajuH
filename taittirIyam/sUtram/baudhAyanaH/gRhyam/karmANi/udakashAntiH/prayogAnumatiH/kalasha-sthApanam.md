@@ -14,7 +14,7 @@ unicode_script = "devanagari"
 - इमं मे वरुण इत्यादिः [अत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_042_Krishna_Yajurvediya_Taittiriya_Samhita_Part_4_-_Kasinath_Sastri_Agase_1946#page/n57/mode/2up)।  TS.2.1.11.6a
 </details>
 <div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/22_Apo_vA_idam/">
-<details open><summary><h3>२२ आपो वा इदं सर्वम् ...{Loading}...</h3></summary>
+<details open><summary><h3>२२ आपो वा इदम् ...{Loading}...</h3></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आपो॒ वा इ॒दꣳ सर्वं॒  

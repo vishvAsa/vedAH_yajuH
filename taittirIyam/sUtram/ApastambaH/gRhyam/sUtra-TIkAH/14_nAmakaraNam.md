@@ -255,7 +255,7 @@ title = "१४ नामकरणम्"
 </div>
 
 
-####### कर्णे जपः  
+##### कर्णे जपः  
 उत्तरान्मन्त्रान् +++(=अग्निरायुष्मान् स वनस्पतिभिः)+++ जपेत् १२  
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/05-09_agnirAyuShmAntsa_vanaspatibhirAyuShmAntena.md">
 <details open><summary><h5>०५-०९ अग्निरायुष्मान्त्स वनस्पतिभिरायुष्मान्तेन ...{Loading}...</h5></summary>

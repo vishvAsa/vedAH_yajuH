@@ -49,8 +49,8 @@ title: समारोपणम् अवारोपणम् च
 
 **आ॒जुह्वा॑नस्**+++(=हूयमानः)+++ सु॒-प्रती॑कᳶ पु॒रस्ता॒द्  
 अग्ने॒ स्वाय्ँ योनि॒म् **आ सी॑द** सा॒ध्या+++(→ साधु॒या माध्यन्दिने)+++ ।  
-अ॒स्मिन्थ् स॒ध-स्थे॒, अध्युत्त॑रस्मि॒न्   
-विश्वे॑ देवाः यज॑मानश् च **सीदत** ।
+अ॒स्मिन्थ् स॒ध-स्थे॒, अध्य् उत्त॑रस्मि॒न्   
+विश्वे॑ देवाः॒! यज॑मानश् च **सीदत** ।
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/45_udbudhyasvAgne_prati.md">

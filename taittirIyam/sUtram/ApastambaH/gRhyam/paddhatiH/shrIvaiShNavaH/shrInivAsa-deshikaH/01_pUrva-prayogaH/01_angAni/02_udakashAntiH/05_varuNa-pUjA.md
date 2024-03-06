@@ -11,8 +11,6 @@ title = "०५ वरुण-पूजा"
 
 </details>
 </div>
-
-
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/11_tattvA_yAmi.md">
 <details open><summary><h2>११ तत्त्वा यामि ...{Loading}...</h2></summary>
 

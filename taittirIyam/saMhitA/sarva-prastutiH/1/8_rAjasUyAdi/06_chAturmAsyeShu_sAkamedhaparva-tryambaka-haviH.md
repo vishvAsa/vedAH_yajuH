@@ -255,15 +255,15 @@ That he may embolden us.
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-############ Pāda-label
+###### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
-############ Morph
+###### Morph
 tryàmbakam ← tryàmbaka- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -388,11 +388,11 @@ mukṣīya ← √muc- (root)
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “We worship **Tryambaka**, whose fame is fragrant, the augmenter of increase; may I be liberated fromdeath, and, like the **urvāruka** from its stalk, but not to immortality; let us worship **Trayambaka**, whose fame isfragrant, the augmenter of increase; may I be liberated from death like the urvāruka from its stalk, but not untoimmortality.”
 
-########### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Tryambaka: the father, **ambuka** of the three deities, **Brahma**, **Viṣṇu** and **Rudra**; also identified withmahatva (**Ṛgvidhāna**); whose fame is fragrant: **sugandhim** = prasāritapuṇya kīrtim, whose fame of virtue isspread; in like manner as the fragrance of a tree full in flower sheds sweetness, so spreads the fragrance of holyactions; the augmenter of increase: **puṣṭi** vardhanam, the augmenter of nutrition, jagad-vījam, the seed of theworld; or, the multiplier of good things subservient to objects of bodily enjoyment, wealh,śarīradhanādiviṣayān vardhayati yaḥ; may I be liberated: mṛtyor makṣiya = may I be liberated from theworld, or the revolutions of life and death; may I attain **mokṣa**;
 

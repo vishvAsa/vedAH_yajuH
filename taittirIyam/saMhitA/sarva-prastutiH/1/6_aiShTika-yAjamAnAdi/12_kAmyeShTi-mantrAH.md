@@ -49,14 +49,14 @@ title = "१२ काम्येष्टिमन्त्राः"
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Strophic on metrical evidence alone
 
-############ Pāda-label
+###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-############ Morph
+###### Morph
 índram ← índra- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -145,7 +145,7 @@ kévalaḥ ← kévala- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “We invoke for you, **Indra**, who is everywhere among men; may he be exclusively our own.”
 </details>
@@ -259,15 +259,15 @@ Wir rufen euch den Indra her von allen Orten, jedem Volk; Uns sei er eigen, kein
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Strophic
 
-############ Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-############ Morph
+###### Morph
 havante ← √hū- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:MED}
 
@@ -461,7 +461,7 @@ vrajé ← vrajá- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “Men invoke **Indra** in battle when those actions which lead to victory are performed; do you who are hero, the benefactor of man, the desirer of prowess, plural ce us in possession of pastures abounding with cattle.”
 </details>
@@ -577,14 +577,14 @@ Den Indra rufen im Gefecht die Männer, dass er erfolgreich diese Bitten mache; 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Strophic on metrical evidence alone
 
-############ Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M
-############ Morph
+###### Morph
 indriyā́ṇi ← indriyá- (nominal stem)  
 {case:NOM, gender:N, number:PL}
 
@@ -686,7 +686,7 @@ vr̥ṇe ← √vr̥- ~ vr̥̄- (root)
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “**Indra**, object of many rites, I regard the organs of sense, that exist in the five races (of beings dependent) on you as yours.”
 </details>
@@ -799,15 +799,15 @@ Die Indrakräfte wünsch' ich her, die, Indra, hundertwirkender, Du bei den fün
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Archaic
 
-############ Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-############ Morph
+###### Morph
 ánu ← ánu (invariable)  
 {}
 
@@ -996,7 +996,7 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “All (power) has been successively conceded verily to you, **Indra**, who are mighty, for the destruction of the foe; suitable vigour, suitable strength in battle (has been given) to you, adorable Indra, by the gods.”
 </details>
@@ -1165,15 +1165,15 @@ The glowing pot is the guest of Indra.
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Strophic
 
-############ Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-############ Morph
+###### Morph
 aírayaḥ ← √īr- (root)  
 {number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
 
@@ -1337,14 +1337,14 @@ júṣṭam ← júṣṭa- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “In the immature (cows) you produced the mature (milk),  
 you caused the sun to arise in heaven,(priests),  
 excite (**Indra**) with your praises  
 as men heat the **gharma** with **sāman** hymns. (sing) the acceptableBṛhat sāman to him who is to be honoure dby song.”
 
-########### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 You caused the sun to arise in heaven: repetition of the legend of he **paṇis** and the stolen cows of the **Aṅgirasas**. The Ṛṣis implored Indra for help, who, seeing that the stronghold of the **asuras** was enveloped in thick darkness, set the sun in the sky to dispel it; as men heat the gharma: for the hymns of the ceremony of heating the **mahāvīra** or gharma pot, used in the pravargya ceremony; cf. **Aitareya** **Brāhmaṇa** 1.21
 </details>
@@ -1424,14 +1424,14 @@ In rohen schufst du gare Milch, erhobst die Sonn' am Himmelsraum, Entflammt wie 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Strophic on metrical evidence alone
 
-############ Pāda-label
+###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-############ Morph
+###### Morph
 br̥hát ← br̥hánt- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -1549,11 +1549,11 @@ vā́ṇīḥ ← vā́ṇī- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “The chanters (of the **Soma**) extol **Indra** with songs, the reciters of the Ṛk with prayers, the priests of the **Yajuṣ**, with texts.”
 
-########### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Gāthina = singers; gīyamānasāma-**yuktā** udgātāraḥ, the **udgatās** with **sāmas** to be chanted;
 
@@ -1677,15 +1677,15 @@ Den Indra preist der Sänger Schar, mit Preisgesang die preisenden, Den Indra la
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Normal
 
-############ Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-############ Morph
+###### Morph
 gā́yanti ← √gā(y)- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -1846,11 +1846,11 @@ yemire ← √yam- (root)
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “The chanters (of the **Soma**) hymn you, **Śatakratu**; the reciters of the Ṛk praise you, who are worthy of praise; the Bra-hmaṇas raise you aloft, like a bamboo pole.”
 
-########### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Gāyatriṇaḥ = lit. those who use **gāyatrī** metre: **udgātā**, chanter of **Sāma** hymns;
 
@@ -2029,15 +2029,15 @@ May the desires of the sacrificer be fulfilled.
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Normal
 
-############ Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-############ Morph
+###### Morph
 dhiṣáṇā ← dhiṣáṇā- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -2221,7 +2221,7 @@ yā́ntam ← √yā- 1 (root)
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “When the thought of glorifying **Indra** entered my mind, then I gave birth (to his praises); may I laud him before encountering distant (evil) days, whereby he may guide us beyond sin; for those on both sides of us invoke him, as (those on either bank of a river hail) a passenger in a boat.”
 </details>
@@ -2437,15 +2437,15 @@ Who is hostile to us.
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-############ Pāda-label
+###### Pāda-label
 popular  
 popular  
 popular  
 popular
-############ Morph
+###### Morph
 abhí ← abhí (invariable)  
 {}
 
@@ -2591,7 +2591,7 @@ urúm ← urú- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “You have been born, **Indra**, endowed with protecting and desirable vigour; benefactor of mankind, youdid drive away the man who was unfriendly(to us), you prepared a spacious region for the gods.”
 </details>
@@ -2862,15 +2862,15 @@ May we be dear to you among the princes.
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Normal
 
-############ Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-############ Morph
+###### Morph
 ánavaḥ ← ánu- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -3022,11 +3022,11 @@ u ← u (invariable)
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “The **Ṛbhus** have fabricated your car, **Indra**, the invoked of many, adapted to its horses; **Tvaṣṭā** (had made) your radiant thunderbolt; the venerable (**Aṅgirasas**), praising Indra with hymns, have given him vigour for the destruction of Ahi.”
 
-########### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 The Ṛbhus: **anavaḥ** is the text, explained **manuṣyaḥ** and applied to **ṛbhavaḥ**; the venerable aṅgirasas: brāhmaṇāḥ, **brāhmaṇas** is the text, explained as **aṅgirasaḥ**
 </details>

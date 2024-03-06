@@ -203,14 +203,14 @@ title = "०१ कुम्भेष्टकाः - ०५-१३ यद् �
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+##### Strata
 Cretic
 
-###### Pāda-label
+##### Pāda-label
 genre M  
 genre M  
 genre M
-###### Morph
+##### Morph
 ā́paḥ ← áp- (nominal stem)  
 {case:VOC, gender:F, number:PL}
 
@@ -322,11 +322,11 @@ ráṇāya ← ráṇa- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-##### English translation:
+#### English translation:
 
 “Since, waters, you are the sources of happiness, grant to us to enjoy abundance, and great anddelightful perception.”
 
-##### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+#### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Great and delightful perception: mahe raṇāya cakṣase = samyajñānam, perfectknowledge of **brahman**; the ṛca solicits happiness both in this world and in the next; the rapturous sight of thesupreme god; to behold great joy
 </details>
@@ -408,14 +408,14 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+##### Strata
 Cretic
 
-###### Pāda-label
+##### Pāda-label
 genre M  
 genre M  
 genre M
-###### Morph
+##### Morph
 rásaḥ ← rása- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -521,7 +521,7 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-##### English translation:
+#### English translation:
 
 “Give us to partake in this world of your most auspicious **Soma**, like affectionate mothers.”
 </details>
@@ -596,14 +596,14 @@ Welch segenreichster Saft euch ist, an dem lasst Theil uns haben hier, Den liebe
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+##### Strata
 Cretic
 
-###### Pāda-label
+##### Pāda-label
 genre M  
 genre M  
 genre M
-###### Morph
+##### Morph
 áram ← áram (invariable)  
 {}
 
@@ -709,11 +709,11 @@ _____________
 </details>
 <details><summary>Wilson</summary>
 
-##### English translation:
+#### English translation:
 
 “Let us quickly have recourse to you, for that your (faculty) of removing (sin) by which you gladden us;waters, bestow upon us progeny.”
 
-##### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+#### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Let us go to you at once for him to whose house you are hastening; waters,reinvogorate us; faculty of removing sin: **kṣaya** = nivāsa, abode;
 

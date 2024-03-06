@@ -73,15 +73,15 @@ O bounteous one, be merciful to our children and descendants.
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Normal
 
-############ Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-############ Morph
+###### Morph
 gartasádam ← gartasád- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -246,7 +246,7 @@ vapantu ← √vap- 2 (root)
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “Glorify the renowned **Rudra**, riding in his car, ever youthful, destructive, fierce like a formidable wild beast; Rudra, propitiated by praise, grant happiness to him who praises (you), and let your hosts destroy him who is our adversary.”
 </details>
@@ -445,15 +445,15 @@ And approach us bearing the spear [4].
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Normal
 
-############ Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-############ Morph
+###### Morph
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -645,7 +645,7 @@ vidhatáḥ ← √vidh- (root)
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “You, **Agni**, are **Rudra**, the expeller (of foes) from the expanse of heaven; you are the strength of the **Maruts**; you are supreme over (sacrificial) food; you, who are plural asantly domiciled (in the hall of sacrifice), go with ruddy horses, (fleet as) the wind; as **Pūṣan**, you cherish, of yours own will, those who offer worship.”
 </details>
@@ -761,15 +761,15 @@ Und Rudra bist du, des erhabnen Himmels Geist, die Marutschar, o Agni, Labung wo
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Strophic
 
-############ Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-############ Morph
+###### Morph
 ā́ ← ā́ (invariable)  
 {}
 
@@ -909,11 +909,11 @@ kr̥ṇudhvam ← √kr̥- (root)
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “Secure **Agni**, the king of sacrifice, the afflicter (of foes), the invoker (of the gods), the distributor of food through heaven and earth, the golden-formed, for your protection before (surprised by) sudden death.”
 
-########### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 **Purā** tanayitnor acittāt = liṭ, before the unconsciousness of the thunderbolt; this implies a state of unconsciousness, or death as sudden as if the work of the thunderbolt
 </details>

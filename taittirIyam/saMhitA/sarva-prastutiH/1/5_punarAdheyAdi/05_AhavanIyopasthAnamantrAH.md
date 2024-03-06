@@ -50,14 +50,14 @@ The Reverence of the Fire
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Strophic
 
-############ Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M
-############ Morph
+###### Morph
 adhvarám ← adhvará- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -145,7 +145,7 @@ ca ← ca (invariable)
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “Hastening to the sacrifice, let us repeat a prayer to **Agni**, who fears us from afar.”
 </details>
@@ -259,14 +259,14 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Normal
 
-############ Pāda-label
+###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-############ Morph
+###### Morph
 ánu ← ánu (invariable)  
 {}
 
@@ -361,7 +361,7 @@ sahasrasā́m ← sahasrasā́- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “Towards **Soma**'s ancient body the seers milk the flashing fluid, the sage who grants a thousand boons.”
 </details>
@@ -462,14 +462,14 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Normal on metrical evidence alone
 
-############ Pāda-label
+###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-############ Morph
+###### Morph
 agníḥ ← agní- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -566,11 +566,11 @@ _____________
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “**Agni**, the head (of the gods), the summit of heaven-- he the lord of the earth-- gladdens the seed of thewaters.”
 
-########### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Seed: retāṃsi, the moveable andimmovable productions of the creative waters
 </details>
@@ -662,15 +662,15 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Strophic
 
-############ Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-############ Morph
+###### Morph
 ayám ← ayám (pronoun)  
 {case:NOM, gender:M, number:SG}
 
@@ -820,11 +820,11 @@ viśé-viśe ← víś- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “This invoker of the gods and minister of frequent worship, who is to be glorified at sacrifices, has been plural ced first (of the gods) by the performers of the rite; the **Agni** whom Apnavāna and other **Bhṛgus** lighted in the woods for the sake of all men, marvellous (in his acts), and soverign (over all).”
 
-########### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 **Yajus**. 3.15; the rite: the Agni here is **āhavanīya** which is kindled before the **dakṣiṇā**; Apnavāna and other Bhṛgus: Apnavānaḥ is the name of a ṛṣi of the family of **Bhṛgu**;
 
@@ -945,15 +945,15 @@ Errichtet wurde dieser von den Ordnern hier, der beste Opfrer, bei den Festen pr
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Archaic
 
-############ Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-############ Morph
+###### Morph
 āhuvádhyai ← √hū- (root)  
 {case:DAT, number:SG, tense:AOR}
 
@@ -1112,7 +1112,7 @@ _____________
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “I invoke you both, **Indra** and **Agni**, to be present at the sacrifice; and both together to be exhilarated by the (sacrificial) food; for you are both donors of food and riches, and therefore I invoke you both for the obtaining of sustenance.”
 </details>
@@ -1292,14 +1292,14 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Strophic
 
-############ Pāda-label
+###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
-############ Morph
+###### Morph
 ágne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -1412,7 +1412,7 @@ _____________
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “**Agni**, you support our lives, send us nutriment and food, drive far off the **rākṣasas**.”
 </details>
@@ -1523,14 +1523,14 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Strophic
 
-############ Pāda-label
+###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
-############ Morph
+###### Morph
 ágne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -1645,7 +1645,7 @@ _____________
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “**Agni**, who are the doer of good, pour upon us brightness and fair-offspring; may he make me wealth and plural nty.”
 </details>
@@ -1744,14 +1744,14 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Normal
 
-############ Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M
-############ Morph
+###### Morph
 ágne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -1856,7 +1856,7 @@ __________
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “Divine purifier, **Agni**, with your radiant and plural asing tongue, bring hither and worship the gods”
 </details>
@@ -2008,14 +2008,14 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Normal on metrical evidence alone
 
-############ Pāda-label
+###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-############ Morph
+###### Morph
 agníḥ ← agní- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -2111,11 +2111,11 @@ __________
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “The pure **Agni** shines forth when worshipped the purest offerer, the pure priest, the pure sage.”
 
-########### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Puresage: **kavi** = sage (RV 1.31.2); or, krāntakarman
 </details>
@@ -2203,14 +2203,14 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Normal on metrical evidence alone
 
-############ Pāda-label
+###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-############ Morph
+###### Morph
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -2312,7 +2312,7 @@ ___________
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “**Agni**, your pure, bright, shining flames send forth your splendours.”
 </details>

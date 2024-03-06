@@ -18,7 +18,16 @@ unicode_script: devanagari
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/09_samAvartanam/12_03_madhyandine-gnerupasamAdhAnAdyAjyabhAgAnte.md"></div>  
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/09_samAvartanam/12_03_madhyandine-gnerupasamAdhAnAdyAjyabhAgAnte.md">
+<details open><summary><h2>१२ ०३ मध्यन्दिनेऽग्नेरुपसमाधानाद्याज्यभागान्ते ...{Loading}...</h2></summary>
+
+मध्यन्दिने ऽग्नेरुपसमाधानाद्याज्यभागान्ते +++(शम्याः परिधिः, सकृत्पात्राणि मानुषाणि, स्नातक एव कर्ता)+++  
+पालाशीं समिधमुत्तरया +++("इमं स्तोम"मित्येतया)+++ ऽऽधाय  
+अपरेणाग्निं कट एरकायां +++(कटप्रकृतिभूते तृणे)+++ वोपविश्य  
+उत्तरया +++("त्र्यायुष"मित्येतया)+++ क्षुरमभिमन्त्र्योत्तरेण यजुषा +++("शिवो नामासी"त्यनेन)+++ वप्त्रे प्रदायापां संसर्जनाद्याकेशनिधानात् समानम् ३  
+
+</details>
+</div>  
 +++(तत्राचार्यस्संसर्जनोन्दने कृत्वा क्षुरं नापितादपादाय प्रतिदिशं प्रवाप्य पुनस्तस्मै प्रदाय तं च वपन्तमुत्तरयानुमन्त्रयते इति हरदत्तः। नाचार्यः - अन्योऽपि ब्राह्मण इति सुदर्शनसूरिः।)+++  
 
 ## मेखलात्यागः

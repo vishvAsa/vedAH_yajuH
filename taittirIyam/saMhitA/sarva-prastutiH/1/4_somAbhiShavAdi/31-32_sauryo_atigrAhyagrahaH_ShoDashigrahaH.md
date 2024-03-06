@@ -37,14 +37,14 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Cretic
 
-############ Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M
-############ Morph
+###### Morph
 taráṇiḥ ← taráṇi- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -147,11 +147,11 @@ víśvam ← víśva- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “You, **Sūrya**, outstrip all in speed; you are visible to all; you are the source of light; you shine throughout the entire firmament.”
 
-########### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 **Smṛti** states that the sun moves 2,202 **yojanas** in a half a winkle of the eye;
 

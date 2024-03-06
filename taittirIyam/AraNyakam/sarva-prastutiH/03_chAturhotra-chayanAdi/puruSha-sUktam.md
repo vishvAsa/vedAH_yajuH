@@ -4,7 +4,7 @@ title = "पुरुष-सूक्तम्"
 +++
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/32-38_sahasra-shIrShA/">
-<details open><summary><h5>सहस्र शीर्षा ...{Loading}...</h5></summary>
+<details open><summary><h5>३२-३८ सहस्र-शीर्षा ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarva-prastutiH/10/090">
 <details open><summary><h7>०९० ...{Loading}...</h7></summary>
 <div class="js_include" newlevelforh1="2" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/090/_index.md">
@@ -49,7 +49,7 @@ The identity of the Sādhyas (in vss. 7 and 16) is not clear. Their name means  
 </div>
 
 
-############## 01 सहस्रशीर्षा पुरुषः - अनुष्टुप्
+###### 01 सहस्रशीर्षा पुरुषः - अनुष्टुप्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/01_sahasrashIrShA_puruShaH.md">
 <details open><summary><h10>विश्वास-प्रस्तुतिः ...{Loading}...</h10></summary>
 
@@ -86,15 +86,15 @@ The identity of the Sādhyas (in vss. 7 and 16) is not clear. Their name means  
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###################### Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###################### Pāda-label
+###### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
-###################### Morph
+###### Morph
 púruṣaḥ ← púruṣa- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -211,11 +211,11 @@ daśāṅgulám ← daśāṅgulá- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-##################### English translation:
+###### English translation:
 
 “**Puruṣa**, who has a thousand heads, a thousand eyes, a thousand feet, investing the earth in alldirections, exceeds (it by a space) measuring ten fingers.”
 
-##################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Puruṣa = embodied spirit; or, **virāj**, the aggregate ofall living beings, spirit embodied in the egg of **Brahmā**, i.e., the universal spirit animating all creation. Thousand= an infinite number; the human **soul**, extending from the navel, takes upits abode in the heart or the humanbreast; the supreme soul, having animated the universe, is present in man, either in a minute form or of definitedimensions
 </details>
@@ -273,7 +273,7 @@ Tausendköpfig war der Urmensch, tausendäugig, tausendfüssig; nachdem er die E
 </details>
 </div>
 
-############## 02 पुरुष एवेदम् - अनुष्टुप्
+###### 02 पुरुष एवेदम् - अनुष्टुप्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/02_puruSha_evedaM.md">
 <details open><summary><h10>विश्वास-प्रस्तुतिः ...{Loading}...</h10></summary>
 
@@ -310,15 +310,15 @@ Tausendköpfig war der Urmensch, tausendäugig, tausendfüssig; nachdem er die E
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###################### Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###################### Pāda-label
+###### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
-###################### Morph
+###### Morph
 evá ← evá (invariable)  
 {}
 
@@ -455,11 +455,11 @@ yát ← yá- (pronoun)
 </details>
 <details><summary>Wilson</summary>
 
-##################### English translation:
+###### English translation:
 
 “**Puruṣa** is verily all this (visible world), all that is, and all that is to be; he is also the lord of immortality;for he mounts beyond (his own condition) for the food (of living beings).”
 
-##################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 He mounts: liṭ, since he rises beyond byfood; or, he is that which grows by nourishment; or, that which expands by nourshment;
 
@@ -515,7 +515,7 @@ Der Urmensch ist alles dies, was gewesen ist, und was sein wird; er gebietet üb
 </details>
 </div>
 
-############## 03 एतावानस्य महिमातो - अनुष्टुप्
+###### 03 एतावानस्य महिमातो - अनुष्टुप्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/03_etAvAnasya_mahimAto.md">
 <details open><summary><h10>विश्वास-प्रस्तुतिः ...{Loading}...</h10></summary>
 
@@ -551,15 +551,15 @@ Der Urmensch ist alles dies, was gewesen ist, und was sein wird; er gebietet üb
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###################### Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###################### Pāda-label
+###### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
-###################### Morph
+###### Morph
 asya ← ayám (pronoun)  
 {case:GEN, gender:M, number:SG}
 
@@ -688,11 +688,11 @@ tripā́t ← tripád- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-##################### English translation:
+###### English translation:
 
 “Such is his greatness; and **Puruṣa** is greater even than this; all beings are one-fourth of him; his otherthree-fourths, (being) immortal, (abide) in heaven.”
 
-##################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Such is his greatness: i.e., the greatness of Puruṣa is as vastas the world of past, present, and future beings
 </details>
@@ -743,7 +743,7 @@ So bedeutend ist seine Grösse, und noch grösser ist der Urmensch; ein Viertel 
 </details>
 </div>
 
-############## 04 त्रिपादूर्ध्व उदैत्पुरुषः - अनुष्टुप्
+###### 04 त्रिपादूर्ध्व उदैत्पुरुषः - अनुष्टुप्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/04_tripAdUrdhva_udaitpuruShaH.md">
 <details open><summary><h10>विश्वास-प्रस्तुतिः ...{Loading}...</h10></summary>
 
@@ -779,15 +779,15 @@ So bedeutend ist seine Grösse, und noch grösser ist der Urmensch; ein Viertel 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###################### Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###################### Pāda-label
+###### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
-###################### Morph
+###### Morph
 ait ← √i- 1 (root)  
 {number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
 
@@ -936,11 +936,11 @@ sāśanānaśané ← sāśanānaśaná- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-##################### English translation:
+###### English translation:
 
 “Three-fourths of **Puruṣa** ascended; the other fourth that remained in this world proceeds repeatedly,and, diversified in various forms, went to all animate and inanimate creation.”
 
-##################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Proceeds repeatedly: either inindividuals by death and birth, or in the world by its temporary dissolution and renovation;
 
@@ -993,7 +993,7 @@ Mit drei Vierteln ging der Urmensch oben hinauf, ein Viertel von ihm erschien wi
 </details>
 </div>
 
-############## 05 तस्माद्विराळजायत विराजो - अनुष्टुप्
+###### 05 तस्माद्विराळजायत विराजो - अनुष्टुप्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/05_tasmAdvirALajAyata_virAjo.md">
 <details open><summary><h10>विश्वास-प्रस्तुतिः ...{Loading}...</h10></summary>
 
@@ -1030,15 +1030,15 @@ Mit drei Vierteln ging der Urmensch oben hinauf, ein Viertel von ihm erschien wi
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###################### Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###################### Pāda-label
+###### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
-###################### Morph
+###### Morph
 ajāyata ← √janⁱ- (root)  
 {number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
 
@@ -1183,13 +1183,13 @@ u ← u (invariable)
 </details>
 <details><summary>Wilson</summary>
 
-##################### English translation:
+###### English translation:
 
 “From him was born Virāt. and from Virāt. **Puruṣa**;  
 he, as soon as born, became manifested,  
 and afterwards (created) the earth (and) then corporeal forms.”
 
-##################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 From him: tasmāt = from that one-fourth; or, from the spirit who by his delusion created the body of **Virāṭ**, i.e., the egg of **Brahma** and entered into it in the form oflife
 </details>
@@ -1241,7 +1241,7 @@ Von ihm ward der Allherrscher [virâj] geboren und vom Allherrscher der Urmensch
 </details>
 </div>
 
-############## 06 यत्पुरुषेण हविषा - अनुष्टुप्
+###### 06 यत्पुरुषेण हविषा - अनुष्टुप्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/06_yatpuruSheNa_haviShA.md">
 <details open><summary><h10>विश्वास-प्रस्तुतिः ...{Loading}...</h10></summary>
 
@@ -1275,15 +1275,15 @@ Von ihm ward der Allherrscher [virâj] geboren und vom Allherrscher der Urmensch
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###################### Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###################### Pāda-label
+###### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
-###################### Morph
+###### Morph
 havíṣā ← havís- (nominal stem)  
 {case:INS, gender:N, number:SG}
 
@@ -1401,11 +1401,11 @@ idhmáḥ ← idhmá- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-##################### English translation:
+###### English translation:
 
 “When the gods performed the sacrifice with **Puruṣa** as the offering, then Spring was its ghī, Summerthe fuel, and Autumn the oblation.”
 
-##################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Apparently a reference to an imaginary sacrifice (mānasam)
 </details>
@@ -1455,7 +1455,7 @@ Als die Götter ihr Opfer mit dem Urmenschen als dem Opfertrank kunstvoll bereit
 </details>
 </div>
 
-############## 07 तं यज्ञम् - अनुष्टुप्
+###### 07 तं यज्ञम् - अनुष्टुप्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/07_saptAsyAsanparidhayastriH_sapta.md">
 <details open><summary><h10>विश्वास-प्रस्तुतिः ...{Loading}...</h10></summary>
 
@@ -1492,15 +1492,15 @@ Als die Götter ihr Opfer mit dem Urmenschen als dem Opfertrank kunstvoll bereit
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###################### Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###################### Pāda-label
+###### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
-###################### Morph
+###### Morph
 aukṣan ← √ukṣ- (root)  
 {number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
 
@@ -1625,11 +1625,11 @@ yé ← yá- (pronoun)
 </details>
 <details><summary>Wilson</summary>
 
-##################### English translation:
+###### English translation:
 
 “Seven were the enclosures of the sacrifice, thrice seven logs of fuel were prepared, when the gods,celebrating the rite, bound **Puruṣa** as the victim.”
 
-##################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Seven enclosures: sapta paridhayaḥ = seven metres, ga-yatrīetc., and also as meaning the shallow trenches, three of which were dug round the **Āhavanīya** fireplace, threeround the northern altar, and the seven ideally dug round the sun to keep off evil spirits. paridhayaḥ = moats; or,the seven oceans; thrice seven pieces of fuel = twelve months of the year, the five seasons, the **three worlds** andthe sun; or the three classes of seven metres eaach: **Taittirīya** **Saṃhitā** 5.1.10.3
 </details>
@@ -1681,7 +1681,7 @@ Diesen zuerst geborenen Urmenschen benetzten sie als ihr Opfer auf der heiligen 
 </details>
 </div>
 
-############## 08 तस्माद्यज्ञात्सर्वहुतः सम्भृतम् - अनुष्टुप्
+###### 08 तस्माद्यज्ञात्सर्वहुतः सम्भृतम् - अनुष्टुप्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/08_taM_yajnaM.md">
 <details open><summary><h10>विश्वास-प्रस्तुतिः ...{Loading}...</h10></summary>
 
@@ -1715,15 +1715,15 @@ Diesen zuerst geborenen Urmenschen benetzten sie als ihr Opfer auf der heiligen 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###################### Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###################### Pāda-label
+###### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
-###################### Morph
+###### Morph
 sarvahútaḥ ← sarvahúta- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -1847,11 +1847,11 @@ yé ← yá- (pronoun)
 </details>
 <details><summary>Wilson</summary>
 
-##################### English translation:
+###### English translation:
 
 “They immolated as the victim upon the sacred grass - **Puruṣa**, born before (creation); with him the deities who were **Sādhyas** and those who were Ṛṣis sacrificed.”
 
-##################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 **Sādhya** = competent to create, i.e.,**Prajāpati** and the rest
 </details>
@@ -1903,7 +1903,7 @@ Aus diesem vollständig dargebrachten Opfer sammelte sich das triefende Opfersch
 </details>
 </div>
 
-############## 09 तस्माद्यज्ञात्सर्वहुत ऋचः - अनुष्टुप्
+###### 09 तस्माद्यज्ञात्सर्वहुत ऋचः - अनुष्टुप्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/09_tasmAdyajnAtsarvahutaH_sambhRtaM.md">
 <details open><summary><h10>विश्वास-प्रस्तुतिः ...{Loading}...</h10></summary>
 
@@ -1937,15 +1937,15 @@ Aus diesem vollständig dargebrachten Opfer sammelte sich das triefende Opfersch
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###################### Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###################### Pāda-label
+###### Pāda-label
 popular;; epic anuṣṭubh (380);; repeated line  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
-###################### Morph
+###### Morph
 sarvahútaḥ ← sarvahúta- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -2159,11 +2159,11 @@ yájuḥ ← yájus- (nominal stem)
 <details><summary>Wilson</summary>
 
 
-##################### English translation:
+###### English translation:
 
 “From that victim, in whom the universal oblation was offered, the mixture of curds and butter was produced, (then) he made those animals over whom **Vāyu** presides, those that are wild, and those that aretame.”
 
-##################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Vāyu: vāyuvyan: **Taittirīya** **Brāhmaṇa** 3.2.1.3; or, who are governed by instrumental nct
 </details>
@@ -2214,7 +2214,7 @@ Aus diesem vollständig dargebrachten Opfer entsprangen die Hymnen [des Rig-Veda
 </details>
 </div>
 
-############## 10 तस्मादश्वा अजायन्त - अनुष्टुप्
+###### 10 तस्मादश्वा अजायन्त - अनुष्टुप्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/10_tasmAdyajnAtsarvahuta_RchaH.md">
 <details open><summary><h10>विश्वास-प्रस्तुतिः ...{Loading}...</h10></summary>
 
@@ -2250,15 +2250,15 @@ Aus diesem vollständig dargebrachten Opfer entsprangen die Hymnen [des Rig-Veda
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###################### Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###################### Pāda-label
+###### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
-###################### Morph
+###### Morph
 ajāyanta ← √janⁱ- (root)  
 {number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
 
@@ -2417,11 +2417,11 @@ tásmāt ← sá- ~ tá- (pronoun)
 </details>
 <details><summary>Wilson</summary>
 
-##################### English translation:
+###### English translation:
 
 “From that victim, in whom the universal oblation was offered, the ṛccas and **sāmans** were produced;from him the metres were born; from him the **yajus**. was born.”
 
-##################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Tasmād yajñāt = from that simple portionsurnamed the universal sacrifice, sarvahūtaḥ, meaning **Puruṣa** as the world;
 
@@ -2462,7 +2462,7 @@ Aus ihm entsprangen die Rosse und alle mit zwei Zahnreihen versehenen Thiere; au
 </details>
 </div>
 
-############## 11 यत्पुरुषं व्यदधुः - अनुष्टुप्
+###### 11 यत्पुरुषं व्यदधुः - अनुष्टुप्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/11_tasmAdashvA_ajAyanta.md">
 <details open><summary><h10>विश्वास-प्रस्तुतिः ...{Loading}...</h10></summary>
 
@@ -2496,15 +2496,15 @@ Aus ihm entsprangen die Rosse und alle mit zwei Zahnreihen versehenen Thiere; au
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###################### Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###################### Pāda-label
+###### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
-###################### Morph
+###### Morph
 ádadhuḥ ← √dhā- 1 (root)  
 {number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
 
@@ -2675,7 +2675,7 @@ Als sie den Urmenschen umgestalteten, wie vielfach wandelten sie ihn um? Was war
 </details>
 </div>
 
-############## 12 ब्राह्मणोऽस्य मुखमासीद्बाहू - अनुष्टुप्
+###### 12 ब्राह्मणोऽस्य मुखमासीद्बाहू - अनुष्टुप्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/12_yatpuruShaM_vyadadhuH.md">
 <details open><summary><h10>विश्वास-प्रस्तुतिः ...{Loading}...</h10></summary>
 
@@ -2709,15 +2709,15 @@ Als sie den Urmenschen umgestalteten, wie vielfach wandelten sie ihn um? Was war
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###################### Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###################### Pāda-label
+###### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
-###################### Morph
+###### Morph
 āsīt ← √as- 1 (root)  
 {number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
 
@@ -2853,7 +2853,7 @@ padbhyā́m ← pád- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-##################### English translation:
+###### English translation:
 
 “When they immolated **Puruṣa**, into how many portions did they divide him? What was his mouth called, what his arms, what his thighs, what were his feet called?”
 </details>
@@ -2892,7 +2892,7 @@ Sein Mund ward zum Brahmanen, seine Arme zum Rādschanja, seine Schenkel zum Vai
 </details>
 </div>
 
-############## 13 चन्द्रमा मनसो - अनुष्टुप्
+###### 13 चन्द्रमा मनसो - अनुष्टुप्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/13_brAhmaNo_asya_mukhamAsIdbAhU.md">
 <details open><summary><h10>विश्वास-प्रस्तुतिः ...{Loading}...</h10></summary>
 
@@ -2927,15 +2927,15 @@ Sein Mund ward zum Brahmanen, seine Arme zum Rādschanja, seine Schenkel zum Vai
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###################### Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###################### Pāda-label
+###### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
-###################### Morph
+###### Morph
 candrámāḥ ← candrámas- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -3065,11 +3065,11 @@ vāyúḥ ← vāyú- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-##################### English translation:
+###### English translation:
 
 “His mouth became the **Brāhmaṇa**, his arms became the **Rājanya**, his thighs became the **Vaiśya**;the **Śūdra** was born from his feet.”
 
-##################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 The Brāhmaṇa was his mouth; the Rājanya was made his arms; thatwhich was the Vaiśya was his thighs; the S'Ūdra sprang from his feet: Muir, **Sanskrit** Texts, vol. 1, p.9
 </details>
@@ -3120,7 +3120,7 @@ Aus seinem Geiste entsprang der Mond, aus seinem Auge die Sonne, aus seinem Mund
 </details>
 </div>
 
-############## 14 नाभ्या आसीदन्तरिक्षम् - अनुष्टुप्
+###### 14 नाभ्या आसीदन्तरिक्षम् - अनुष्टुप्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/14_chandramA_manaso.md">
 <details open><summary><h10>विश्वास-प्रस्तुतिः ...{Loading}...</h10></summary>
 
@@ -3154,15 +3154,15 @@ Aus seinem Geiste entsprang der Mond, aus seinem Auge die Sonne, aus seinem Mund
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###################### Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###################### Pāda-label
+###### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
-###################### Morph
+###### Morph
 antárikṣam ← antárikṣa- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -3286,11 +3286,11 @@ táthā ← táthā (invariable)
 </details>
 <details><summary>Wilson</summary>
 
-##################### English translation:
+###### English translation:
 
 “The moon was born from his mind; the sun was born from his eye; **Indra** and **Agni** were born from his mouth, **Vāyu** from his breath.”
 
-##################### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Or, air and breath proceeded from his ear and fire rose from his mouth: **Yajuṣ**
 </details>
@@ -3340,7 +3340,7 @@ Aus seinem Nabel ward die Luft, aus seinem Kopf entstand der Himmel, aus seinen 
 </details>
 </div>
 
-############## 15 सप्तास्यासन्परिधयस्त्रिः सप्त - अनुष्टुप्
+###### 15 सप्तास्यासन्परिधयस्त्रिः सप्त - अनुष्टुप्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/15_nAbhyA_AsIdantarixaM.md">
 <details open><summary><h10>विश्वास-प्रस्तुतिः ...{Loading}...</h10></summary>
 
@@ -3374,15 +3374,15 @@ Aus seinem Nabel ward die Luft, aus seinem Kopf entstand der Himmel, aus seinen 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###################### Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###################### Pāda-label
+###### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
-###################### Morph
+###### Morph
 āsan ← √as- 1 (root)  
 {number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
 
@@ -3519,7 +3519,7 @@ púruṣam ← púruṣa- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-##################### English translation:
+###### English translation:
 
 “From his navel came the firmament, from his head the heaven was produced, the earth from his feet,the quarters of space from his ear, so they constituted the world.”
 </details>
@@ -3569,7 +3569,7 @@ Sieben Umschlusshölzer waren ihm, dreimal sieben Schichten des Brennholzes wurd
 </details>
 </div>
 
-############## 16 यज्ञेन यज्ञमयजन्त - त्रिष्टुप्
+###### 16 यज्ञेन यज्ञमयजन्त - त्रिष्टुप्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/16_yajnena_yajnamayajanta.md">
 <details open><summary><h10>विश्वास-प्रस्तुतिः ...{Loading}...</h10></summary>
 
@@ -3605,15 +3605,15 @@ Sieben Umschlusshölzer waren ihm, dreimal sieben Schichten des Brennholzes wurd
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###################### Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###################### Pāda-label
+###### Pāda-label
 popular;; repeated line  
 popular;; repeated line  
 popular;; repeated line  
 popular;; repeated line
-###################### Morph
+###### Morph
 ayajanta ← √yaj- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:MED}
 
@@ -3770,7 +3770,7 @@ yátra ← yátra (invariable)
 </details>
 <details><summary>Wilson</summary>
 
-##################### English translation:
+###### English translation:
 
 “By sacrifice the gods worshipped (him who is also) the sacrifice; those were the first duties. Those great ones became partakers of the heaven where the ancient deities the **Sādhyas** abide. ”
 </details>
@@ -3782,13 +3782,13 @@ where the ancient Sādhyas and the gods are.
 </details>
 <details><summary>Whitney</summary>
 
-##################### Translation
+###### Translation
 1. By the sacrifice the gods sacrificed to the sacrifice; those were  
    the first ordinances (*dhárman*); those greatnesses attach themselves to  
    (*sac*) the firmament, where are the ancient (*pū́rva*) perfectible  
    (*sādhyá*) gods.
 
-##################### Notes
+###### Notes
 The verse is RV. i. 164. 50,\* found also in VS. (xxxi. 16), TS. (iii.
 5. 11⁵), TA. (iii. 12. 7), MS. (iv. 10. 3), CB. (x. 2. 2³, with  
    comment); ⌊*Kaṭha-hss.*, p. 83;⌋ the only variant is *sacante* for  
@@ -3857,7 +3857,7 @@ Durch Opfer opferten die Götter das Opfer; das waren die ersten Bräuche; sie, 
 [[71]]
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/39-40_adbhyas_sambhUtaH/">
-<details open><summary><h5>अद्भ्यस् सम्भूतः ...{Loading}...</h5></summary>
+<details open><summary><h5>३९-४० अद्भ्यस् सम्भूतः ...{Loading}...</h5></summary>
 
 - सायणो [ऽत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_036_Taittiriya_Aranyakam_With_Sayana_Bhashya_Part_1_-_Babasastri_Phadke_1898#page/n197/mode/1up) ।
 
@@ -3890,7 +3890,7 @@ Durch Opfer opferten die Götter das Opfer; das waren die ersten Bräuche; sie, 
 यस् त्वा॒ +ए॒वं ब्रा॑ह्म॒णो वि॒द्यात् -  
 तस्य॑ दे॒वा अस॒न् वशे॑ । ५
 
-########## परिपूर्णपुरुषध्यानम्
+###### परिपूर्णपुरुषध्यानम्
 ह्रीश् च॑ ते ल॒क्ष्मीश् च॒ पत्न्यौ॑ ।  
 अ॒हो॒रा॒त्रे पा॒र्श्वे ।  
 नक्ष॑त्राणि रू॒पम् ।  

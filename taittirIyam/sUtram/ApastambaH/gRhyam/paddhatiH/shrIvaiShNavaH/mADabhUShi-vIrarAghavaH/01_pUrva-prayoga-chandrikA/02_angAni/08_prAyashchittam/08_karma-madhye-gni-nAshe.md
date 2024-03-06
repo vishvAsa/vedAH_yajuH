@@ -23,8 +23,8 @@ title = "०८ कर्म-मध्ये ऽग्नि-नाशे"
 
 **आ॒जुह्वा॑नस्**+++(=हूयमानः)+++ सु॒-प्रती॑कᳶ पु॒रस्ता॒द्  
 अग्ने॒ स्वाय्ँ योनि॒म् **आ सी॑द** सा॒ध्या+++(→ साधु॒या माध्यन्दिने)+++ ।  
-अ॒स्मिन्थ् स॒ध-स्थे॒, अध्युत्त॑रस्मि॒न्   
-विश्वे॑ देवाः यज॑मानश् च **सीदत** ।
+अ॒स्मिन्थ् स॒ध-स्थे॒, अध्य् उत्त॑रस्मि॒न्   
+विश्वे॑ देवाः॒! यज॑मानश् च **सीदत** ।
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/45_udbudhyasvAgne_prati.md">
@@ -40,7 +40,7 @@ title = "०८ कर्म-मध्ये ऽग्नि-नाशे"
 प्रणवेन 'भूरग्नये च' इति चतुर्भिः, 
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/04_bhUr_agnaye/">
-<details open><summary><h5>०४ भूर॒ग्नये॑ ...{Loading}...</h5></summary>
+<details open><summary><h5>०४ भूर् अग्नये ...{Loading}...</h5></summary>
 
 
 भूर॒ग्नये॑ च पृथि॒व्यै च॑ मह॒ते च॒ स्वाहा॑॥  
@@ -63,5 +63,4 @@ title = "०८ कर्म-मध्ये ऽग्नि-नाशे"
 **बृह॒स्पति॑स् तनुताम्** इ॒मन् नो॒,  
 विश्वे॑ दे॒वा इ॒ह **मा॑दयन्ताम्** ॥
 </details>
-</div>  
-
+</div>

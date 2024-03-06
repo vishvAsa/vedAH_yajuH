@@ -191,9 +191,39 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhanirUpaNam/02_07_yathopadesham_pradhAnAhutIrhutvA.md">
 <details open><summary><h2>०२ ०७ यथोपदेशम् प्रधानाहुतीर्हुत्वा ...{Loading}...</h2></summary>
 
-उपहोमाः - यथोपदेशं प्रधानाहुतीर्हुत्वा, जयाभ्यातानान् राष्ट्रभृतः प्राजापत्यां व्याहृतीर् विहृताः, सौविष्टकृतीम् इत्य् उपजुहोति - "यदस्य कर्मणोऽत्यरीरिचं यद्वा न्यूनमिहाकरम् । अग्निष्टकृत्स्विष्टकृद्विद्वान्त्सर्वँ स्विष्टं सुहुतं करोतु स्वाहे"ति ७  
-+++(एतदेवानुयाज्यम् इति केचित्। कपर्दिकारिकायान्तु स्थालीपाकादिषु नैकेषु कर्मसु न विद्यतेऽयम्भागः। तथैवाधुनिकाचारे केषाञ्चित्।)+++
+यथोपदेशं प्रधानाहुतीर् हुत्वा,  
++++(उपहोमाः -)+++  
+जयाभ्यातानान्,  
+राष्ट्रभृतः,  
+प्राजापत्यां,  
+व्याहृतीर् विहृताः,  
+सौविष्टकृतीम् इत्य् उपजुहोति - 
 
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/yad_asya_karmaNaH.md">
+<details open><summary><h7>Yad asya karmaNaH ...{Loading}...</h7></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यद् अ॑स्य॒ कर्म॒णो ऽत्यरी॑रिचं॒  
+यद् वा॒ न्यू॑नम् इ॒हाक॑रम् ।  
+अ॒ग्निष् टत् स्वि॑ष्ट॒कृद् वि॒द्वान्थ्  
+सर्व॒ꣵ स्वि॑ष्ट॒ꣵ सुहु॑तं करोतु॒  
+स्वाहा᳚ ।
+</details>
+<details><summary>मूलम्</summary>
+
+यद॑स्य॒ कर्म॒णोऽत्यरी॑रिचं॒ यद्वा॒ न्यू॑नमि॒हाक॑रम् ।  
+अ॒ग्निष्टत्स्वि॑ष्ट॒कृद्वि॒द्वान्थ्सर्व॒ग्ग्॒ स्वि॑ष्ट॒ग्ं॒ सुहु॑तं करोतु॒ स्वाहा᳚ ।
+</details>
+</details>
+</div>
+
++इति ७  
+
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+एतदेवानुयाज्यम् इति केचित्। कपर्दिकारिकायान्तु स्थालीपाकादिषु नैकेषु कर्मसु न विद्यतेऽयम्भागः। तथैवाधुनिकाचारे केषाञ्चित्।
+</details>
 </details>
 </div>  
 

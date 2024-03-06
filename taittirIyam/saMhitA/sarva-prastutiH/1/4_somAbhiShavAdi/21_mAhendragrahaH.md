@@ -39,15 +39,15 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Normal on metrical evidence alone
 
-############ Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-############ Morph
+###### Morph
 ā́ ← ā́ (invariable)  
 {}
 
@@ -236,7 +236,7 @@ urúḥ ← urú- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “May the great **Indra**, who is as a monarch the fulfiller (of the desires) of men, come hither; may he who is mighty over the two (realms of space), uninjurable by (hostile) offers, increase (in capacity) for heroism in our presence; may he who is great (in body), eminent (in qualities), be honoured by the performers (of pious acts).”
 </details>

@@ -214,10 +214,24 @@ title = "०७ होमः"
 व॒यꣵ **स्या॑म॒** पत॑यो रयी॒णाम्॥
 </details>
 </div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/baudhAyanaH/gRhyam/mantraH/yajuH/sarva-prastutiH/vyAhRti-homAH.md"></div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/yad_asya_karmaNaH.md">
+<details open><summary><h5>Yad asya karmaNaH ...{Loading}...</h5></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/yad_asya_karmaNaH.md" newLevelForH1="5" includeTitle="false"> </div>
+यद् अ॑स्य॒ कर्म॒णो ऽत्यरी॑रिचं॒  
+यद् वा॒ न्यू॑नम् इ॒हाक॑रम् ।  
+अ॒ग्निष् टत् स्वि॑ष्ट॒कृद् वि॒द्वान्थ्  
+सर्व॒ꣵ स्वि॑ष्ट॒ꣵ सुहु॑तं करोतु॒  
+स्वाहा᳚ ।
+</details>
+<details><summary>मूलम्</summary>
+
+यद॑स्य॒ कर्म॒णोऽत्यरी॑रिचं॒ यद्वा॒ न्यू॑नमि॒हाक॑रम् ।  
+अ॒ग्निष्टत्स्वि॑ष्ट॒कृद्वि॒द्वान्थ्सर्व॒ग्ग्॒ स्वि॑ष्ट॒ग्ं॒ सुहु॑तं करोतु॒ स्वाहा᳚ ।
+</details>
+</details>
+</div>
 
 
 ## परिधि-प्रहारः, संस्रावः
@@ -247,7 +261,20 @@ title = "०७ होमः"
 
 [[10]]
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/baudhAyanaH/gRhyam/mantraH/yajuH/sarva-prastutiH/bhUr_bhuvas_suvas_svAhA.md" newLevelForH1="5" includeTitle="false"> </div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/baudhAyanaH/gRhyam/mantraH/yajuH/sarva-prastutiH/bhUr_bhuvas_suvas_svAhA.md">
+<details open><summary><h5>भूर् भुव॒स् सु॒व॒स् स्वाहा᳚ ...{Loading}...</h5></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ओं भूर् भुव॒स् सुव॒स् स्वाहा᳚ ॥  
+(प्रजापतय इदं न मम) ॥१॥
+</details>
+<details><summary>मूलम्</summary>
+
+ओं भूर् भुव॒स् सुव॒स् स्वाहा᳚ ॥  
+(प्रजापतय इदं न मम) ॥१॥
+</details>
+</details>
+</div>
 
 
 
@@ -291,7 +318,6 @@ title = "०७ होमः"
 **भूयिष्ठ॒भाजो॒** अध॑+++(=अत)+++ ते **स्याम**॥
 </details>
 </div>
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/022/17_idaM_viShNurvi.md">
 <details open><summary><h2>१७ इदं विष्णुर्वि ...{Loading}...</h2></summary>
 
@@ -311,16 +337,16 @@ title = "०७ होमः"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 (ओं) भूस्स्वाहा᳚ ॥
-(अग्नय इदं न मम)
+(अग्नय +इदं न मम)
 
 (ओं) भुव॒स्स्वाहा᳚ ॥
-(वायव इदं न मम)
+(वायव +इदं न मम)
 
 (ओं) सुव॒स्स्वाहा᳚ ॥  
-(सूर्याय इदं न मम)
+(सूर्याय +इदं न मम)
 
 (ओं) भूर्भुव॒स्सुव॒स्स्वाहा᳚ ॥  
-(प्रजापतय इदं न मम)  
+(प्रजापतय +इदं न मम)  
 </details>
 <details><summary>मूलम्</summary>
 
@@ -344,7 +370,15 @@ title = "०७ होमः"
 ## पूर्णाहुतिः
 "श्रीविष्णवे स्वाहे"ति पूर्णाहुतिं हुत्वा  
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/shrI-viShNave_svAhA.md" newLevelForH1="5" includeTitle="false"> </div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/shrI-viShNave_svAhA.md">
+<details open><summary><h5>shrI-viShNave_svAhA ...{Loading}...</h5></summary>
+
+
+(ॐ) श्रीवि॒ष्णवे॒ / विष्ण॑वे॒ स्वाहा॑  
+
+(विष्णवे परमात्मने इदन्न मम) 
+</details>
+</div>
 
 
 
@@ -365,5 +399,6 @@ title = "०७ होमः"
 ## समाप्तिः
 दक्षिणतो निषादितं ब्राह्मणं सम्पूज्य 
 
-'अग्नये नये'त्य् अग्नि-सूक्तेन अग्निम् उपस्थाप्य  
+'अग्नये नये'त्य् अग्नि-सूक्तेन  
+अग्निम् उपस्थाप्य  
 प्रणम्याभिवादयेत् ॥

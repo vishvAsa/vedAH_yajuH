@@ -189,8 +189,8 @@ may I utter speech full of honey for the gods, and acceptable to men.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तम् मा॑ दे॒वा अ॑वन्तु शो॒भायै॑ ।
-पि॒तरोऽनु॑ मदन्तु ॥
+तम् मा॑ दे॒वा **अ॑वन्तु** शो॒भायै॑ ।
+पि॒तरो **ऽनु॑ मदन्तु** ॥
 </details>
 <details><summary>Keith</summary>
 

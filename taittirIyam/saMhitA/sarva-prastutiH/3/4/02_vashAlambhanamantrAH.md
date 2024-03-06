@@ -225,15 +225,15 @@ title = "०२ वशालम्भनमन्त्राः"
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-############ Pāda-label
+###### Pāda-label
 popular  
 popular  
 popular  
 popular
-############ Morph
+###### Morph
 ánu ← ánu (invariable)  
 {}
 
@@ -414,11 +414,11 @@ mánuḥ ← mánu- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “(The gods) spreading out the sacrifice, follow the illuminator of the world (the sun); protect theluminous paths (of the gods) constructed by sacred acts; may **Agni** render the pious works of the worshipper freefrom defect; become **Manu**, genitive rate the people of heaven.”
 
-########### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Become Manu: be deserving of praise;
 

@@ -261,15 +261,15 @@ attain the goal.
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Strophic
 
-############ Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-############ Morph
+###### Morph
 avata ← √avⁱ- (root)  
 {number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
 
@@ -418,7 +418,7 @@ yāta ← √yā- 1 (root)
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “Wise, immortal **Vājins**, observers of truth, defend us in every conflict, and for the sake of wealth; drinkof this sweet (**Soma**), be exhilarated (thereby) and satisfied; proceed by the paths traversed by the gods.”
 </details>
@@ -675,15 +675,15 @@ Springeth along the bends of the ways.
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Normal
 
-############ Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-############ Morph
+###### Morph
 asya ← ayám (pronoun)  
 {case:GEN, gender:M, number:SG}
 
@@ -846,11 +846,11 @@ táritrataḥ ← √tr̥̄- 1 (root)
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “And after him who is quick-going, hastening, eager (to arrive at his goald, men) follow (as other birds pursue) the flight of a swift (bird) striving together to keep up by the side of Dadhikrāvan. the transporter (of others) as swift as a hawk.”
 
-########### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 **Yajus**. 9.15; after him who is: **asya** **dravatas** turaṇyataḥ parṇam nādādhāram uraḥ pradeśam vā of Dadhikrāvaṇ, together with strenght, or for the sake of strength together, enabling to cross; aṅkasam **pari** = a horse's trappings, the cloth, tail, vastracamarādikam, over all his body, which fly open as the horse gallops, like the wings of a bird, the horse has the speed of a hawk
 </details>

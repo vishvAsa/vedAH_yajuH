@@ -36,14 +36,14 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Strophic
 
-############ Pāda-label
+###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-############ Morph
+###### Morph
 índraḥ ← índra- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -140,7 +140,7 @@ vāvr̥dhe ← √vr̥dh- (root)
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “**Indra**, who is great in might like **Parjanya** the disributor of rain, is magnified by the praises o **Vatsa**.”
 </details>

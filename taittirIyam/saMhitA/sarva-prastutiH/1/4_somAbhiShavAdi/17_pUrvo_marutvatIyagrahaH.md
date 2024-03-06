@@ -38,15 +38,15 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Normal
 
-############ Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-############ Morph
+###### Morph
 marútvantam ← marútvant- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -206,7 +206,7 @@ ugrám ← ugrá- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “We invoke to this sacrifice for present protection **Indra**, the chief of the **Maruts**, the showerer (of benefits) augmenting (in glory), overcoming many foes, divine regulator (of good and ill), the subduer of all (enemies), the fierce, the bestower of strength.”
 </details>

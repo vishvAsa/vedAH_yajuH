@@ -64,7 +64,7 @@ title = "०५ अभ्युदयश्राद्धम्"
 <details open><summary><h5>०११ ...{Loading}...</h5></summary>
 
 
-########## 01 उपास्मै गायता - गायत्री
+###### 01 उपास्मै गायता - गायत्री
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/011/01_upAsmai_gAyatA.md">
 <details open><summary><h8>विश्वास-प्रस्तुतिः ...{Loading}...</h8></summary>
 
@@ -84,7 +84,7 @@ title = "०५ अभ्युदयश्राद्धम्"
 </div>
 
 
-########## 02 अभि ते - गायत्री
+###### 02 अभि ते - गायत्री
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/011/02_abhi_te.md">
 <details open><summary><h8>विश्वास-प्रस्तुतिः ...{Loading}...</h8></summary>
 
@@ -104,7 +104,7 @@ title = "०५ अभ्युदयश्राद्धम्"
 </div>
 
 
-########## 03 स नः - गायत्री
+###### 03 स नः - गायत्री
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/011/03_sa_naH.md">
 <details open><summary><h8>विश्वास-प्रस्तुतिः ...{Loading}...</h8></summary>
 
@@ -124,7 +124,7 @@ title = "०५ अभ्युदयश्राद्धम्"
 </div>
 
 
-########## 04 बभ्रवे नु - गायत्री
+###### 04 बभ्रवे नु - गायत्री
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/011/04_babhrave_nu.md">
 <details open><summary><h8>विश्वास-प्रस्तुतिः ...{Loading}...</h8></summary>
 
@@ -144,7 +144,7 @@ title = "०५ अभ्युदयश्राद्धम्"
 </div>
 
 
-########## 05 हस्तच्युतेभिरद्रिभिः सुतम् - गायत्री
+###### 05 हस्तच्युतेभिरद्रिभिः सुतम् - गायत्री
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/011/05_hastachyutebhiradribhiH_sutaM.md">
 <details open><summary><h8>विश्वास-प्रस्तुतिः ...{Loading}...</h8></summary>
 
@@ -194,14 +194,14 @@ title = "०५ अभ्युदयश्राद्धम्"
 
 
 यज्ञेश्वरो हव्य-समस्त-कव्य-  
-भोक्ता ऽव्ययात्मा हरिर् ईश्वरो ऽत्र ।  
-तत्-सन्निधानाद् अपयान्तु सद्यो  
+**भोक्ता** ऽव्ययात्मा हरिर् ईश्वरो ऽत्र ।  
+तत्-सन्निधानाद् **अपयान्तु** सद्यो  
 रक्षांस्य् अशेषाण्य् असुराश् च सर्वे ॥
 
-एको विष्णुर् महद्भूतं  
+एको विष्णुर् महद्-भूतं  
 पृथक् भूतान्य् अनेकशः ।  
-त्रीन् लोकान् व्याप्य भूतात्मा  
-भुङ्क्ते विश्व-भुग् अव्ययः ॥ 
+त्रीन् लोकान् **व्याप्य** भूतात्मा  
+**भुङ्क्ते** विश्व-भुग् अव्ययः ॥ 
 </details>
 </div>  
 
