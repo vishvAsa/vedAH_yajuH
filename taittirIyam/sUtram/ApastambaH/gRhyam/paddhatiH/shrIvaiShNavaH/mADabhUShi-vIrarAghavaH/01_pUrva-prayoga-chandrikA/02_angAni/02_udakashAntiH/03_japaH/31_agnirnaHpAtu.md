@@ -18,7 +18,7 @@ title = "३१ ‘अग्निर्नःपातु',"
 
 
 
-######## कृत्तिकाः - अग्निः
+##### कृत्तिकाः - अग्निः
 
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/01_agnirnapH_pAtu.md">
@@ -110,7 +110,7 @@ title = "३१ ‘अग्निर्नःपातु',"
 </details>
 </div>  
 
-######## रोहिणी - प्रजापतिः
+##### रोहिणी - प्रजापतिः
 
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/03_prajApate_rohiNI.md">
@@ -205,7 +205,7 @@ title = "३१ ‘अग्निर्नःपातु',"
 
 
 
-######## मृगशीर्षम् - सोमः
+##### मृगशीर्षम् - सोमः
 
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/05_somo_rAjA.md">
@@ -317,7 +317,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 
 
-######## आर्द्रा - रुद्रः
+##### आर्द्रा - रुद्रः
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/07_ArdrayA_rudrapH.md">
 <details open><summary><h6>07 आर्द्रया रुद्रᳶ ...{Loading}...</h6></summary>
@@ -405,7 +405,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 
 
-######## पुनर्वसू - अदितिः
+##### पुनर्वसू - अदितिः
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/09_punarno.md">
 <details open><summary><h6>09 पुनर्नो ...{Loading}...</h6></summary>
@@ -497,7 +497,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 
 
-######## तिष्यम् / पुष्यम् - बृहस्पतिः
+##### तिष्यम् / पुष्यम् - बृहस्पतिः
 
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/11_bRhaspatipH_prathamanjAyamAnaH.md">
@@ -584,7 +584,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 
 
-######## आश्रेषाः - सर्पाः
+##### आश्रेषाः - सर्पाः
 
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/13_idaM_sarpebhyo.md">
@@ -669,7 +669,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 
 
-######## मघाः - पितरः
+##### मघाः - पितरः
 
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/15_upahUtApH_pitaro.md">
@@ -751,7 +751,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 
 
-######## पूर्व-फल्गुन्यः  - अर्यमा
+##### पूर्व-फल्गुन्यः  - अर्यमा
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/17_gavAmpatipH_phalgunInAmasi.md">
 <details open><summary><h6>17 गवाम्पतिᳶ फल्गुनीनामसि ...{Loading}...</h6></summary>
@@ -830,7 +830,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 
 
-######## उत्तर-फल्गुन्यः - भगः
+##### उत्तर-फल्गुन्यः - भगः
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/19_shreShTho_devAnAmbhagavo.md">
 <details open><summary><h6>19 श्रेष्ठो देवानाम्भगवो ...{Loading}...</h6></summary>
@@ -911,15 +911,16 @@ Denebola - β, 93 Leonis
 
 
 
-######## हस्तः - सविता
-
+##### हस्तः - सविता
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/21_AyAtu_devassavitopayAtu.md">
 <details open><summary><h6>21 आयातु देवस्सवितोपयातु ...{Loading}...</h6></summary>
 
 
-आया॒तु दे॒वस् **स॑वि॒तोप॑यातु**। हि॒र॒ण्यये॑न सु॒वृता॒ रथे॑न।  
-**वह॒न्॒** हस्तꣳ॑ सु॒भग॑व्ँ विद्म॒नाप॑सम् +++(=विदितकर्मणा युक्तम्)+++। **प्र॒यच्छ॑न्त॒म्** पपु॑रि॒म् +++(=पूरयितारम्)+++ पुण्य॒म् अच्छ॑ +++(=अभिमुखं वर्तमानम्)+++।
+आया॑तु दे॒वस् **स॑वि॒तोप॑यातु**।  
+हि॒र॒ण्यये॑न सु॒वृता॒ रथे॑न।  
+**वह॒न्॒** हस्तꣳ॑ सु॒भग॑व्ँ विद्म॒नाप॑सम् +++(=विदितकर्मणा युक्तम्)+++।  
+**प्र॒यच्छ॑न्त॒म्** पपु॑रि॒म् +++(=पूरयितारम्)+++ पुण्य॒म् अच्छ॑ +++(=अभिमुखं वर्तमानम्)+++।
 
 </details>
 </div>
@@ -949,7 +950,7 @@ Denebola - β, 93 Leonis
 
 हस्तᳶ॒ **प्रय॑च्छत्व्** अ॒मृत॒व्ँ वसी॑यः।  
 दक्षि॑णेन॒ **प्रति॑गृभ्णीम** एनत्।  
-दा॒तार॑म् अ॒द्य +++([यः])+++ स॑वि॑ता **वि॑देय** +++(=लभेय)+++।  
+दा॒तार॑म् अ॒द्य +++([यः])+++ स॑वि॒ता **वि॑देय** +++(=लभेय)+++।  
 यो नो॒ हस्ता॑य **प्रसु॒वाति॑** य॒ज्ञम्॥  
 </details>
 </div>
@@ -975,9 +976,10 @@ Denebola - β, 93 Leonis
 
 
 
-{स॒वि॒त्रेस्वाहा॒ हस्ता॑य स्वाहा॑  
+{स॒वि॒त्रे स्वाहा॒ हस्ता॑य स्वाहा॑  
 ऽऽदद॒ते स्वाहा॑ पृण॒ते स्वाहा॑  
 प्र॒यच्छ॑ते॒ स्वाहा॑ प्रतिगृभ्ण॒ते स्वाहा॑।}
+
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/11_hastaH/">
 <details open><summary><h9>११ हस्तः ...{Loading}...</h9></summary>
@@ -992,7 +994,7 @@ Corvus- α , β , γ , δ , ε Corvi.
 
 
 
-######## चित्रा - त्वष्टा
+##### चित्रा - त्वष्टा
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/23_tvaShTA_nakhShatramabhyeti.md">
 <details open><summary><h6>23 त्वष्टा नख्षत्रमभ्येति ...{Loading}...</h6></summary>
@@ -1082,7 +1084,7 @@ Corvus- α , β , γ , δ , ε Corvi.
 
 
 
-######## निष्ट्या, स्वातिः - वायुः
+##### निष्ट्या, स्वातिः - वायुः
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/25_vAyurnakhShattramabhyeti.md">
 <details open><summary><h6>25 वायुर्नख्षत्त्रमभ्येति ...{Loading}...</h6></summary>
@@ -1164,7 +1166,7 @@ Corvus- α , β , γ , δ , ε Corvi.
 
 
 
-######## विशाखे - इन्द्राग्नी
+##### विशाखे - इन्द्राग्नी
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/27_dUramasmachChatravo_yantu.md">
 <details open><summary><h6>27 दूरमस्मच्छत्रवो यन्तु ...{Loading}...</h6></summary>
@@ -1252,7 +1254,7 @@ Corvus- α , β , γ , δ , ε Corvi.
 
 
 
-######## पूर्णिमा
+##### पूर्णिमा
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/29_pUrNA_pashchAduta.md">
 <details open><summary><h6>29 पूर्णा पश्चादुत ...{Loading}...</h6></summary>

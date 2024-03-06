@@ -11,7 +11,7 @@ title = "२६ 'चक्षुषो हेत' इत्यारभ्य �
 </details>
 
 
-######## मेनिवारणम्
+##### मेनिवारणम्
 
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_01-09_chaxuSho_hete/02_chaxuSho_hete.md">
 <details open><summary><h8>विश्वास-प्रस्तुतिः ...{Loading}...</h8></summary>
@@ -66,7 +66,7 @@ title = "२६ 'चक्षुषो हेत' इत्यारभ्य �
 
 
 
-######## अभिचार-प्रतीकारः
+##### अभिचार-प्रतीकारः
 
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_01-09_chaxuSho_hete/08_yat_kinchAsau.md">
 <details open><summary><h8>विश्वास-प्रस्तुतिः ...{Loading}...</h8></summary>
@@ -121,7 +121,7 @@ title = "२६ 'चक्षुषो हेत' इत्यारभ्य �
 
 
 
-######## प्रतिज्ञा
+##### प्रतिज्ञा
 
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_01-09_chaxuSho_hete/14_hanmi_te-ham.md">
 <details open><summary><h8>विश्वास-प्रस्तुतिः ...{Loading}...</h8></summary>
@@ -176,7 +176,7 @@ title = "२६ 'चक्षुषो हेत' इत्यारभ्य �
 
 
 
-######## अभिचार-प्रतीकारः
+##### अभिचार-प्रतीकारः
 
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_01-09_chaxuSho_hete/20_purA.amuShya.md">
 <details open><summary><h8>विश्वास-प्रस्तुतिः ...{Loading}...</h8></summary>
