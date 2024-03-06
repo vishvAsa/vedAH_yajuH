@@ -63,7 +63,22 @@ unicode_script = "devanagari"
 ## संस्कारहोमः
 संस्कारहोमे विनियोगः।
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/hiraNyakeshI/gRhyam/paddhatiH/mAdhvA/mantrAdi/vyAhRti-homaH.md"></div>  
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/hiraNyakeshI/gRhyam/paddhatiH/mAdhvA/mantrAdi/vyAhRti-homaH.md">
+<details open><summary><h3>व्याहृति-होमः ...{Loading}...</h3></summary>
+
+
+व्यस्त-समस्तव्याहृतीनां विश्वामित्र-जमदग्नि-भरद्वाज-प्रजापतय ऋषयः ।  
+अग्नि-वायु-सूर्य-प्रजापतयो देवताः ।  
+गायत्र्य् उष्णिग् अनुष्टुब् बृहत्यश् छन्दांसि।  
+...-होमे विनियोगः ।
+
+> ॐ भूः स्वाहा । अग्नये श्री-अनिरुद्धाय इदं न मम ॥  
+ॐ भुवः स्वाहा । वायवे श्रीप्रद्युम्नाय इदं न मम ॥  
+ॐ स्वः स्वाहा । सूर्याय श्रीसङ्कर्षणाय इदं न मम ॥  
+ॐ भूर्भुवःस्वः स्वाहा । प्रजापतये श्रीवासुदेवाय इदं न मम ॥ 
+
+</details>
+</div>  
 
 
 
@@ -140,7 +155,22 @@ unicode_script = "devanagari"
 ## आहुति-साद्गुण्य-कल्पनम्
 आहुति-साद्गुण्यार्थम् आज्यहोमे विनियोगः। (प्रातः सायम् आहुत्योर् इदम् पृथक्।)
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/hiraNyakeshI/gRhyam/paddhatiH/mAdhvA/mantrAdi/vyAhRti-homaH.md"></div>  
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/hiraNyakeshI/gRhyam/paddhatiH/mAdhvA/mantrAdi/vyAhRti-homaH.md">
+<details open><summary><h3>व्याहृति-होमः ...{Loading}...</h3></summary>
+
+
+व्यस्त-समस्तव्याहृतीनां विश्वामित्र-जमदग्नि-भरद्वाज-प्रजापतय ऋषयः ।  
+अग्नि-वायु-सूर्य-प्रजापतयो देवताः ।  
+गायत्र्य् उष्णिग् अनुष्टुब् बृहत्यश् छन्दांसि।  
+...-होमे विनियोगः ।
+
+> ॐ भूः स्वाहा । अग्नये श्री-अनिरुद्धाय इदं न मम ॥  
+ॐ भुवः स्वाहा । वायवे श्रीप्रद्युम्नाय इदं न मम ॥  
+ॐ स्वः स्वाहा । सूर्याय श्रीसङ्कर्षणाय इदं न मम ॥  
+ॐ भूर्भुवःस्वः स्वाहा । प्रजापतये श्रीवासुदेवाय इदं न मम ॥ 
+
+</details>
+</div>  
 
 ## समित्-समर्पणम्
 एकां समिधम् आदाय  
@@ -179,7 +209,22 @@ unicode_script = "devanagari"
 
 संस्कारहोमे विनियोगः।
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/hiraNyakeshI/gRhyam/paddhatiH/mAdhvA/mantrAdi/vyAhRti-homaH.md"></div>  
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/hiraNyakeshI/gRhyam/paddhatiH/mAdhvA/mantrAdi/vyAhRti-homaH.md">
+<details open><summary><h3>व्याहृति-होमः ...{Loading}...</h3></summary>
+
+
+व्यस्त-समस्तव्याहृतीनां विश्वामित्र-जमदग्नि-भरद्वाज-प्रजापतय ऋषयः ।  
+अग्नि-वायु-सूर्य-प्रजापतयो देवताः ।  
+गायत्र्य् उष्णिग् अनुष्टुब् बृहत्यश् छन्दांसि।  
+...-होमे विनियोगः ।
+
+> ॐ भूः स्वाहा । अग्नये श्री-अनिरुद्धाय इदं न मम ॥  
+ॐ भुवः स्वाहा । वायवे श्रीप्रद्युम्नाय इदं न मम ॥  
+ॐ स्वः स्वाहा । सूर्याय श्रीसङ्कर्षणाय इदं न मम ॥  
+ॐ भूर्भुवःस्वः स्वाहा । प्रजापतये श्रीवासुदेवाय इदं न मम ॥ 
+
+</details>
+</div>  
 
 ### प्रातः
 #### कालातीत-प्रायश्चित्तम्
@@ -208,7 +253,22 @@ unicode_script = "devanagari"
 ## सर्वप्रायश्चित्ताज्यहोमः
 सर्वप्रायश्चित्ताज्यहोमे विनियोगः।
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/hiraNyakeshI/gRhyam/paddhatiH/mAdhvA/mantrAdi/vyAhRti-homaH.md"></div>  
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/hiraNyakeshI/gRhyam/paddhatiH/mAdhvA/mantrAdi/vyAhRti-homaH.md">
+<details open><summary><h3>व्याहृति-होमः ...{Loading}...</h3></summary>
+
+
+व्यस्त-समस्तव्याहृतीनां विश्वामित्र-जमदग्नि-भरद्वाज-प्रजापतय ऋषयः ।  
+अग्नि-वायु-सूर्य-प्रजापतयो देवताः ।  
+गायत्र्य् उष्णिग् अनुष्टुब् बृहत्यश् छन्दांसि।  
+...-होमे विनियोगः ।
+
+> ॐ भूः स्वाहा । अग्नये श्री-अनिरुद्धाय इदं न मम ॥  
+ॐ भुवः स्वाहा । वायवे श्रीप्रद्युम्नाय इदं न मम ॥  
+ॐ स्वः स्वाहा । सूर्याय श्रीसङ्कर्षणाय इदं न मम ॥  
+ॐ भूर्भुवःस्वः स्वाहा । प्रजापतये श्रीवासुदेवाय इदं न मम ॥ 
+
+</details>
+</div>  
 
 
 ## समापनम्

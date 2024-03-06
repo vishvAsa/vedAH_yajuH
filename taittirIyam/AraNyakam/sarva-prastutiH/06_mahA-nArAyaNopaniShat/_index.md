@@ -16,34 +16,873 @@ unicode_script = "devanagari"
 
 
 ## 01.01
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="01_01"></div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="01_01">
+<details open><summary><h5>०१ ०१ ...{Loading}...</h5></summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_01/01_ambhasya_pAre.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+अंभ॑स्य पा॒रे भुव॑नस्य॒ मद्ध्ये॒  
+नाक॑स्य पृ॒ष्ठे म॑ह॒तो मही॑यान् ।  
+शु॒क्रेण॒ ज्योतीꣳ॑षि समनु॒प्रवि॑ष्टः  
+प्र॒जाप॑तिश् चरति॒  गर्भे॑ अ॒न्तः ॥
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_01/01_ambhasya_pAre.md">
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+<details><summary>मूलम्</summary>
+
+अंभ॑स्य पा॒रे भुव॑नस्य॒ मद्ध्ये॒  
+नाक॑स्य पृ॒ष्ठे म॑ह॒तो मही॑यान् ।  
+शु॒क्रेण॒ ज्योतीꣳ॑षि समनु॒प्रवि॑ष्टः  
+प्र॒जाप॑तिश् चरति॒  गर्भे॑ अ॒न्तः ॥
+</details>
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_01/03_yasminn_idam.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+यस्मि॑न्न् इ॒दꣳ सञ् च॒ विचैति॒ सर्व॒य्ँ  
+यस्मि॑न् दे॒वा अधि॒ विश्वे॑ निषे॒दुः ।  
+तद् ए॒व भू॒तन् तद् उ॒ भव्य॑म् आ  
+इ॒दन् तद् अ॒ख्षरे॑ पर॒मे व्यो॑मन्न् ॥
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_01/03_yasminn_idam.md">
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+<details><summary>मूलम्</summary>
+
+यस्मि॑न्न् इ॒दꣳ सञ् च॒ विचैति॒ सर्व॒य्ँ  
+यस्मि॑न् दे॒वा अधि॒ विश्वे॑ निषे॒दुः ।  
+तद् ए॒व भू॒तन् तद् उ॒ भव्य॑म् आ  
+इ॒दन् तद् अ॒ख्षरे॑ पर॒मे व्यो॑मन्न् ॥
+</details>
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_01/05_yenAvRta~N_kha~n.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+येना॑वृ॒तङ् खञ् च॒ दिवं॑ म॒हीञ् च॒  
+येना॑दि॒त्यस् तप॑ति॒ तेज॑सा॒ भ्राज॑सा च ।  
+यम् अ॒न्तस् स॑मु॒द्रे  क॒वयो॒ वय॑न्ति॒  
+यद् अ॒ख्षरे॑ पर॒मे प्र॒जाः ॥
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_01/05_yenAvRta~N_kha~n.md">
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+<details><summary>मूलम्</summary>
+
+येना॑वृ॒तङ् खञ् च॒ दिवं॑ म॒हीञ् च॒  
+येना॑दि॒त्यस् तप॑ति॒ तेज॑सा॒ भ्राज॑सा च ।  
+यम् अ॒न्तस् स॑मु॒द्रे  क॒वयो॒ वय॑न्ति॒  
+यद् अ॒ख्षरे॑ पर॒मे प्र॒जाः ॥
+</details>
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_01/07_yataH_prasUtA.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+यतः॑ प्रसू॒ता ज॒गतः॑ प्रसूती॒  
+तोये॑न जी॒वान् व्यस॑सर्ज॒ भूम्या᳚म् ।  
+यद् ओष॑धीभिः पु॒रुषा᳚न् प॒शूꣳश्च॒  
+विवे॑श भू॒तानि॑ चराच॒राणि॑ ॥
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_01/07_yataH_prasUtA.md">
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+<details><summary>मूलम्</summary>
+
+यतः॑ प्रसू॒ता ज॒गतः॑ प्रसूती॒  
+तोये॑न जी॒वान् व्यस॑सर्ज॒ भूम्या᳚म् ।  
+यद् ओष॑धीभिः पु॒रुषा᳚न् प॒शूꣳश्च॒  
+विवे॑श भू॒तानि॑ चराच॒राणि॑ ॥
+</details>
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_01/09_ataH_paran.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+अतः॑ पर॒न् नान्य॒द् अणी॑यसꣳ हि॒  
+परा᳚त्पर॒य्ँ यन् मह॑तो म॒हान्त᳚म् ।  
+यद् ए॑कम् अ॒व्यक्त॒म् अन॑न्तरूप॒व्ँ  
+विश्वं॑ पुरा॒णन् तम॑सः॒ पर॑स्तात् ॥ (1)
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_01/09_ataH_paran.md">
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+<details><summary>मूलम्</summary>
+
+अतः॑ पर॒न्नान्य॒दणी॑यसꣳ हि॒  
+परा᳚त्पर॒य्ँ यन् मह॑तो म॒हान्त᳚म् ।  
+यद् ए॑कम् अ॒व्यक्त॒म् अन॑न्तरूप॒व्ँ  
+विश्वं॑ पुरा॒णन् तम॑सः॒ पर॑स्तात् ॥ (1)
+</details>
+</details>
+</div>
+</details>
+</div>  
 
 
 ## 01.02
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="01_02"></div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="01_02">
+<details open><summary><h5>०१ ०२ ...{Loading}...</h5></summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_02/01_tadevartan_tadu.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+तदे॒वर्तन् तदु॑ स॒त्यमा॑हु॒स्  
+तदे॒व ब्रह्म॑ पर॒मङ्क॑वी॒नाम् ।  
+इ॒ष्टा॒पू॒र्तं ब॑हु॒धा जा॒तञ् जाय॑मानव्ँ  
+वि॒श्वं बि॑भर्ति॒  भुव॑नस्य॒ नाभिः॑ ॥
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_02/01_tadevartan_tadu.md">
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+<details><summary>मूलम्</summary>
+
+तदे॒वर्तन् तदु॑ स॒त्यमा॑हु॒स्  
+तदे॒व ब्रह्म॑ पर॒मङ्क॑वी॒नाम् ।  
+इ॒ष्टा॒पू॒र्तं ब॑हु॒धा जा॒तञ् जाय॑मानव्ँ  
+वि॒श्वं बि॑भर्ति॒  भुव॑नस्य॒ नाभिः॑ ॥
+</details>
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_02/03_tadevAgnis_tadvAyus.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+तदे॒वाग्निस् तद्वा॒युस्  
+तथ्सूर्य॒स्तदु॑ च॒न्द्रमाः᳚ ।  
+तदे॒व शु॒क्रम् अ॒मृत॒न्  
+तद् ब्रह्म॒ तदाप॒स् स  प्र॒जाप॑तिः ॥
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_02/03_tadevAgnis_tadvAyus.md">
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+<details><summary>मूलम्</summary>
+
+तदे॒वाग्निस् तद्वा॒युस्  
+तथ्सूर्य॒स्तदु॑ च॒न्द्रमाः᳚ ।  
+तदे॒व शु॒क्रम् अ॒मृत॒न्  
+तद् ब्रह्म॒ तदाप॒स् स  प्र॒जाप॑तिः ॥
+</details>
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_02/05_sarve_nimeShA.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+सर्वे॑ निमे॒षा ज॒ज्ञिरे॑ वि॒द्युतः॒ पुरु॑षा॒दधि॑ ।  
+क॒ला मु॑हू॒र्ताः काष्ठा᳚श्चाहोरा॒त्राश्च॑ सर्व॒शः ॥
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_02/05_sarve_nimeShA.md">
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+<details><summary>मूलम्</summary>
+
+सर्वे॑ निमे॒षा ज॒ज्ञिरे॑ वि॒द्युतः॒ पुरु॑षा॒दधि॑ ।  
+क॒ला मु॑हू॒र्ताः काष्ठा᳚श्चाहोरा॒त्राश्च॑ सर्व॒शः ॥
+</details>
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_02/07_arddhamAsA_mAsA.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+अ॒र्द्ध॒मा॒सा मासा॑ ऋ॒तव॑स्  
+सव्ँवथ्स॒रश्च॑ कल्पताम् ।  
+स आपः॑ प्रदु॒घे उ॒भे  
+इ॒मे अ॒न्तरि॑क्ष॒मथो॒ सुवः॑ ॥
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_02/07_arddhamAsA_mAsA.md">
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+<details><summary>मूलम्</summary>
+
+अ॒र्द्ध॒मा॒सा मासा॑ ऋ॒तव॑स्  
+सव्ँवथ्स॒रश्च॑ कल्पताम् ।  
+स आपः॑ प्रदु॒घे उ॒भे  
+इ॒मे अ॒न्तरि॑क्ष॒मथो॒ सुवः॑ ॥
+</details>
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_02/09_nainamUrdhvan_na.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+नैन॑मू॒र्ध्वन् न ति॒र्यञ्च॒न्  
+न मद्ध्ये॒ परि॑जग्रभत् ।  
+न तस्ये॑शे॒ कश्च॒न  
+तस्य॑ नाम म॒हद्यशः॑ ॥ (2)
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_02/09_nainamUrdhvan_na.md">
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+<details><summary>मूलम्</summary>
+
+नैन॑मू॒र्ध्वन् न ति॒र्यञ्च॒न्  
+न मद्ध्ये॒ परि॑जग्रभत् ।  
+न तस्ये॑शे॒ कश्च॒न  
+तस्य॑ नाम म॒हद्यशः॑ ॥ (2)
+</details>
+</details>
+</div>
+</details>
+</div>  
 
 ## 01.03
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="01_03"></div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="01_03">
+<details open><summary><h5>०१ ०३ ...{Loading}...</h5></summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_03/01_na_sandRshe.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+न स॒न्दृशे॑ तिष्ठति॒ रूप॑मस्य॒  
+न चक्षु॑षा पश्यति॒ कश्च॒नैन᳚म् ।  
+हृ॒दा म॑नी॒षा मन॑सा॒ऽभिक्लृ॑प्तो॒  
+य ए॑नव्ँ वि॒दुर् अमृ॑ता॒स्ते  भ॑वन्ति ॥
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_03/01_na_sandRshe.md">
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+<details><summary>मूलम्</summary>
+
+न स॒न्दृशे॑ तिष्ठति॒ रूप॑मस्य॒  
+न चक्षु॑षा पश्यति॒ कश्च॒नैन᳚म् ।  
+हृ॒दा म॑नी॒षा मन॑सा॒ऽभिक्लृ॑प्तो॒  
+य ए॑नव्ँ वि॒दुर् अमृ॑ता॒स्ते  भ॑वन्ति ॥
+</details>
+</details>
+</div>
+
+
+
+
+अ॒द्भ्यस्संभू॑तो हिरण्यग॒र्भ इत्य॒ष्टौ ॥ 
+
+
+
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_03/03_eSha_hi.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+ए॒ष हि दे॒वः प्र॒दिशोनु॒ सर्वाः॒  
+पूर्वो॑ हि जा॒तस्स उ॒ गर्भे॑ अ॒न्तः ।  
+स वि॒जाय॑मानस्स जनि॒ष्यमा॑णः  
+प्र॒त्यङ्मुखा᳚स्तिष्ठति वि॒श्वतो॑मुखः ॥
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_03/03_eSha_hi.md">
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+<details><summary>मूलम्</summary>
+
+ए॒ष हि दे॒वः प्र॒दिशोनु॒ सर्वाः॒  
+पूर्वो॑ हि जा॒तस्स उ॒ गर्भे॑ अ॒न्तः ।  
+स वि॒जाय॑मानस्स जनि॒ष्यमा॑णः  
+प्र॒त्यङ्मुखा᳚स्तिष्ठति वि॒श्वतो॑मुखः ॥
+</details>
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_03/05_vishvatash_chaxuruta.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+वि॒श्वत॑श् चक्षुरु॒त वि॒श्वतो॑मुखो  
+वि॒श्वतो॑हस्त  उ॒त वि॒श्वत॑स्पात् ।  
+सं बा॒हुभ्या॒न् नम॑ति॒ सं पत॑त्रै॒र्  
+द्यावा॑पृथि॒वी ज॒नय॑न् दे॒व एकः॑ ॥
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_03/05_vishvatash_chaxuruta.md">
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+<details><summary>मूलम्</summary>
+
+वि॒श्वत॑श् चक्षुरु॒त वि॒श्वतो॑मुखो  
+वि॒श्वतो॑हस्त  उ॒त वि॒श्वत॑स्पात् ।  
+सं बा॒हुभ्या॒न् नम॑ति॒ सं पत॑त्रै॒र्  
+द्यावा॑पृथि॒वी ज॒नय॑न् दे॒व एकः॑ ॥
+</details>
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_03/07_venas_tat.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+वे॒नस् तत् पश्य॒न्विश्वा॒ भुव॑नानि   
+वि॒द्वान् यत्र॒ विश्वं॒ भव॒त्येक॑नीळम् ।  
+यस्मि॑न्नि॒दꣳ सञ्च॒ विचैक॒ꣳ॒ स  
+ओतः॒ प्रोत॑श्च वि॒भुः प्र॒जासु॑ ॥
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_03/07_venas_tat.md">
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+<details><summary>मूलम्</summary>
+
+वे॒नस् तत् पश्य॒न्विश्वा॒ भुव॑नानि   
+वि॒द्वान् यत्र॒ विश्वं॒ भव॒त्येक॑नीळम् ।  
+यस्मि॑न्नि॒दꣳ सञ्च॒ विचैक॒ꣳ॒ स  
+ओतः॒ प्रोत॑श्च वि॒भुः प्र॒जासु॑ ॥
+</details>
+</details>
+</div>
+</details>
+</div>  
 
 ## 01.04
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="01_04"></div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="01_04">
+<details open><summary><h5>०१ ०४ ...{Loading}...</h5></summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_04/01_pra_tadvoche.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+प्र तद्वो॑चे अ॒मृत॒न् नु वि॒द्वान्  
+ग॑न्ध॒र्वो नाम॒ निहि॑त॒ङ्गुहा॑सु । (3)  
+त्रीणि॑ प॒दा निहि॑ता॒ गुहा॑सु॒  
+यस्तद्वेद॑ सवि॒तुः पि॒ताऽस॑त् ॥
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_04/01_pra_tadvoche.md">
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+<details><summary>मूलम्</summary>
+
+प्र तद्वो॑चे अ॒मृत॒न् नु वि॒द्वान्  
+ग॑न्ध॒र्वो नाम॒ निहि॑त॒ङ्गुहा॑सु । (3)  
+त्रीणि॑ प॒दा निहि॑ता॒ गुहा॑सु॒  
+यस्तद्वेद॑ सवि॒तुः पि॒ताऽस॑त् ॥
+</details>
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_04/03_sa_no.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+स नो॒ बन्धु॑र् जनि॒ता स वि॑धा॒ता  
+धामा॑नि॒ वेद॒ भुव॑नानि॒  विश्वा᳚ ।  
+यत्र॑ दे॒वा अ॒मृत॑म् आनशा॒नास्  
+तृ॒तीये॒ धामा᳚न्य् अ॒भ्यैर॑यन्त ॥
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_04/03_sa_no.md">
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+<details><summary>मूलम्</summary>
+
+स नो॒ बन्धु॑र् जनि॒ता स वि॑धा॒ता  
+धामा॑नि॒ वेद॒ भुव॑नानि॒  विश्वा᳚ ।  
+यत्र॑ दे॒वा अ॒मृत॑म् आनशा॒नास्  
+तृ॒तीये॒ धामा᳚न्य् अ॒भ्यैर॑यन्त ॥
+</details>
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_04/05_pari_dyAvApRthivI.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+परि॒ द्यावा॑पृथि॒वी य॑न्ति स॒द्यः  
+परि॑ लो॒कान् परि॒  दिशः॒ परि॒ सुवः॑ ।  
+ऋ॒तस्य॒ तन्तु॑व्ँ विततव्ँ वि॒चृत्य॒  
+तद् अ॑पश्य॒त् तद् अ॑भवत् प्र॒जासु॑ ॥
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_04/05_pari_dyAvApRthivI.md">
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+<details><summary>मूलम्</summary>
+
+परि॒ द्यावा॑पृथि॒वी य॑न्ति स॒द्यः  
+परि॑ लो॒कान् परि॒  दिशः॒ परि॒ सुवः॑ ।  
+ऋ॒तस्य॒ तन्तु॑व्ँ विततव्ँ वि॒चृत्य॒  
+तद् अ॑पश्य॒त् तद् अ॑भवत् प्र॒जासु॑ ॥
+</details>
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_04/07_parItya_lokAn.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+प॒रीत्य॑ लो॒कान् प॒रीत्य॑ भू॒तानि॑  
+प॒रीत्य॒  सर्वाः᳚ प्र॒दिशो॒ दिश॑श्च ।  
+प्र॒जाप॑तिः प्रथम॒जा ऋ॒तस्या॒त्मना॒ऽऽत्मान॑म् अ॒भिसं॑बभूव ॥
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_04/07_parItya_lokAn.md">
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+<details><summary>मूलम्</summary>
+
+प॒रीत्य॑ लो॒कान् प॒रीत्य॑ भू॒तानि॑  
+प॒रीत्य॒  सर्वाः᳚ प्र॒दिशो॒ दिश॑श्च ।  
+प्र॒जाप॑तिः प्रथम॒जा ऋ॒तस्या॒त्मना॒ऽऽत्मान॑म् अ॒भिसं॑बभूव ॥
+</details>
+</details>
+</div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/018/06_sadasaspatimadbhutaM_priyamindrasya.md">
+<details open><summary><h8>०६ सदसस्पतिमद्भुतं प्रियमिन्द्रस्य ...{Loading}...</h8></summary>
+
+
+सद॑स॒स्पति॒म् अद्भु॑तं  
+प्रि॒यम् इन्द्र॑स्य॒ काम्य॑म् ।  
+स॒निं +++(=दानरूपम्)+++ मे॒धाम् अ॑यासिषम् ६
+
+</details>
+</div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/018/06_sadasaspatimadbhutaM_priyamindrasya.md">
+<details open><summary><h8>006 ...{Loading}...</h8></summary>
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - सदसस्पतिः
+- ऋषिः - मेधातिथिः काण्वः
+- छन्दः - गायत्री
+</details>
+<details><summary>Thomson & Solcum</summary>
+
+स꣡दसस् प꣡तिम् अ꣡द्भुतम्  
+प्रिय꣡म् इ꣡न्द्रस्य का꣡मियम्  
+सनि꣡म् मेधा꣡म् अयासिषम्
+</details>
+<details><summary>Vedaweb annotation</summary>
+
+###### Strata
+Normal
+
+###### Pāda-label
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+###### Morph
+ádbhutam ← ádbhuta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pátim ← páti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sádasaḥ ← sádas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+kā́myam ← kā́mya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+priyám ← priyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ayāsiṣam ← √yā- 2 (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
+
+medhā́m ← medhā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+saním ← saní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+</details>
+<details><summary>पद-पाठः</summary>
+
+सद॑सः । पति॑म् । अद्भु॑तम् । प्रि॒यम् । इन्द्र॑स्य । काम्य॑म् ।  
+स॒निम् । मे॒धाम् । अ॒या॒सि॒ष॒म् ॥
+</details>
+<details><summary>Hellwig Grammar</summary>
+
+-   *sadasas* ← *sadas*
+- \[noun\], genitive, singular, neuter
+- “mansion; assembly; seat; seat.”
+------------------------------------------------------------------------
+- *patim* ← *pati*
+- \[noun\], accusative, singular, masculine
+- “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
+    commanding officer; leader; owner; mayor; lord.”
+------------------------------------------------------------------------
+- *adbhutam* ← *adbhuta*
+- \[noun\], accusative, singular, masculine
+- “extraordinary; amazing; supernatural.”
+------------------------------------------------------------------------
+- *priyam* ← *priya*
+- \[noun\], accusative, singular, masculine
+- “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
+    good; liked; suitable; proper.”
+------------------------------------------------------------------------
+- *indrasya* ← *indra*
+- \[noun\], genitive, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *kāmyam* ← *kāmya*
+- \[noun\], accusative, singular, masculine
+- “desirable; optional; beautiful.”
+------------------------------------------------------------------------
+- *sanim* ← *sani*
+- \[noun\], accusative, singular, masculine
+- “gain.”
+------------------------------------------------------------------------
+- *medhām* ← *medhā*
+- \[noun\], accusative, singular, feminine
+- “intelligence; medhā \[word\]; Medhā.”
+------------------------------------------------------------------------
+- *ayāsiṣam* ← *yā*
+- \[verb\], singular, Athematic s aor. (Ind.)
+- “go; enter (a state); travel; disappear; reach; come; campaign;
+    elapse; arrive; drive; reach; leave; run; depart; ride.”
+------------------------------------------------------------------------
+</details>
+<details><summary>सायण-भाष्यम्</summary>
+
+**मेधां** लब्धुं **सदसस्पतिम्** एतन्नामकं देवम् **अयासिषं** प्राप्तवानस्मि । कीदृशम् । **अद्भुतम्** आश्चर्यकरं **इन्द्रस्य** **प्रियं** सोमपाने सहचारित्वात् 'काम्यं कमनीयं **सनिं** धनस्य दातारम् ॥ सदसः । षद्लृ विशरणादौ । सर्वधातुभ्योऽसुन्' । नित्त्वादाद्युदात्तः। पतिम् । पातेर्डतिः (उ. सू. ४. ४९७ )। टिलोपः । प्रत्ययस्वरः । प्रियम् । ‘इगुपधज्ञाप्रीकिरः कः'। इयङादेशः । प्रत्ययस्वरः । काम्यम्। कामयतेः ‘अचो यत्'।  ‘ णेरनिटि ' इति णिलोपः ।  ‘ यतोऽनावः' इत्याद्युदात्तत्वम् । सनिम् ।  ‘ षणु दाने '।  ‘ धात्वादेः षः सः'।  ‘ अच इः ' ( उ. सू. ४. ५७८ ) इत्यनुवृत्तौ  खनिकष्यज्यसिवसिवनिसनिध्वनिग्रन्थिचरिभ्यश्च ' ( उ. सू. ४. ५७९ ) इति इप्रत्ययः । प्रत्ययस्वरः । अयासिषम् ।  ‘ या प्रापणे । लुङ् । मिपोऽमादेशः ।  ‘ यमरमनमातां सक् च ' ( पा. सू. ७. २. ७३ ) इति सिच इडागमः; धातोः सगागमः । निघातः ॥
+</details>
+<details><summary>Wilson</summary>
+
+###### English translation:
+
+“I solicit understanding from **Sadasaspati** (= **Agni**, protector of the assembly), the wonderful, the friend of **Indra**, the desirable, the bountiful.”
+</details>
+<details><summary>Jamison Brereton</summary>
+
+The Lord of the Seat, infallible, dear and desirable to Indra,  
+I have besought for wisdom as our gain.
+</details>
+<details><summary>Jamison Brereton Notes</summary>
+
+ayāsiṣam: I take this form to the root √yā ‘beseech, implore’, not to √yā ‘drive, go’, which does, admittedly, have a well-attested -siṣ-aorist. So also Witzel Gotō, though other translators (including Schmidt, Bṛhaspati und Indra) render as a verb of motion (Geldner “habe ich … angegangen”). That interpretation isn’t impossible, but ‘beseech’ fits the context better.
+</details>
+<details><summary>Griffith</summary>
+
+To the Assembly's wondrous Lord, to Indra's lovely Friend who gives  
+     Wisdom, have I drawn near in prayer.
+</details>
+<details><summary>Geldner</summary>
+
+Den unsichtbaren Schutzgeist des Hauses, den geliebten Freund Indra´s, habe ich um Verdienst und Eingebung angegangen,
+</details>
+<details><summary>Grassmann</summary>
+
+Den wunderbaren Wohnungsherrn, des Indra wünschenswerthen Freund, Hab' ich um Weisheit angefleht.
+</details>
+<details><summary>Elizarenkova</summary>
+
+К Господину сиденья удивительному,  
+К милому (другу) Индры, достойному любви,  
+Я обратился ради достижения мудрости.
+</details>
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- सदसस्पतिः
+- मेधातिथिः काण्वः
+- पिपीलिकामध्यानिचृद्गायत्री
+- षड्जः
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+अगले मन्त्र में इन्द्र शब्द से परमेश्वर के गुणों का उपदेश किया है-
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  मैं (इन्द्रस्य) जो सब प्राणियों को ऐश्वर्य्य देने (काम्यम्) उत्तम (सनिम्) पाप-पुण्य कर्मों के यथायोग्य फल देने और (प्रियम्) प्राणियों को प्रसन्न करानेवाले (अद्भुतम्) आश्चर्य्यमय गुण और स्वभाव स्वरूप (सदसस्पतिम्) और जिसमें विद्वान् धार्मिक न्याय करनेवाले स्थित हों, उस सभा के स्वामी परमेश्वर की उपासना और सब उत्तम गुण स्वभाव परोपकारी सभापति को प्राप्त होके (मेधाम्) उत्तम ज्ञान को धारण करनेवाली बुद्धि को (अयासिषम्) प्राप्त होऊँ॥६॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  जो मनुष्य सर्वशक्तिमान् सबके अधिष्ठाता और सब आनन्द के देनेवाले परमेश्वर की उपासना करते और उत्कृष्ट न्यायाधीश को प्राप्त होते हैं, वे ही सब शास्त्रों के बोध से प्रसिद्ध क्रियाओं से युक्त बुद्धियों को प्राप्त और पुरुषार्थी होकर विद्वान् होते हैं॥६॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
+
+अन्वय:  अहमिन्द्रस्य काम्यं सनिं प्रियमद्भुतं सदसस्पतिं परमेश्वरमुपास्य सभाध्यक्षं प्राप्य मेधामयासिषं बुद्धिं प्राप्नुयाम्॥६॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+अथेन्द्रशब्देन परमेश्वरगुणा उपदिश्यन्ते।
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (सदसः) सीदन्ति विद्वांसो धार्मिका न्यायाधीशा यस्मिँस्तत्सदः सभा तस्य। अत्राधिकरणेऽसुन्। (पतिम्) स्वामिनम् (अद्भुतम्) आश्चर्य्यगुणस्वभावस्वरूपम्। अदि भुवो डुतच्। (उणा०५.१) अनेन ‘भू’धातोरद्युपपदे डुतच् प्रत्ययः। (प्रियम्) प्रीणाति सर्वान् प्राणिनस्तम् (इन्द्रस्य) जीवस्य (काम्यम्) कमनीयम् (सनिम्) पापपुण्यानां विभागेन फलप्रदातारम्। खनिकष्यज्यसि० (उणा०४.१४०) अनेन ‘सन’धातोरिः प्रत्ययः (मेधाम्) धारणावतीं बुद्धिम् (अयासिषम्) प्राप्नुयाम्॥६॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  ये मनुष्याः सर्वशक्तिमन्तं सर्वाधिष्ठातारं सर्वानन्दप्रदं परमेश्वरसुपासते, ये च सर्वोत्कृष्टगुणस्वभावपरोपकारिणं सभापतिं प्राप्नुवन्ति त एव सर्वशास्त्रबोधक्रियायुक्तां धियं प्राप्य पुरुषार्थिनो विद्वांसश्च भूत्वा सुखिनो भवन्तीति॥६॥
+</details>
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  जी माणसे सर्वशक्तिमान, सर्वांचा अधिष्ठाता व संपूर्ण आनंददाता अशा परमेश्वराची उपासना करतात, त्यांना उत्कृष्ट, गुणवान, परोपकारी, न्यायाधीश सभाधीश प्राप्त होतो. तीच सर्व शास्त्रांचा बोध घेऊन क्रियायुक्त बुद्धीने पुरुषार्थी होऊन विद्वान बनतात आणि सुखी होतात. ॥ ६ ॥
+</details>
+</details>
+</div>
+(4)
+
+
+
+</details>
+</div>  
 
 
 
 ## 01.05
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="01_05"></div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="01_05">
+<details open><summary><h5>०१ ०५ ...{Loading}...</h5></summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_05/01_uddIpyasva_jAtavedo.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+उद्दी᳚प्यस्व जातवेदो  
+ऽप॒घ्नन्निर्ऋ॑तिं॒ मम॑ ।  
+प॒शूꣳश्च॒ मह्य॒म् आव॑ह॒  
+जीव॑नञ् च॒ दिशो॑ दिश ॥
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_05/01_uddIpyasva_jAtavedo.md">
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+<details><summary>मूलम्</summary>
+
+उद्दी᳚प्यस्व जातवेदो  
+ऽप॒घ्नन्निर्ऋ॑तिं॒ मम॑ ।  
+प॒शूꣳश्च॒ मह्य॒म् आव॑ह॒  
+जीव॑नञ् च॒ दिशो॑ दिश ॥
+</details>
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_05/03_mA_no.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+मा नो॑ हिꣳसीज् जातवेदो॒  
+गामश्वं॒ पुरु॑ष॒ञ् जग॑त् । 
+अबि॑भ्र॒द् अग्न॒ आग॑हि  
+श्रि॒या मा॒ परि॑पातय ॥
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_05/03_mA_no.md">
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+<details><summary>मूलम्</summary>
+
+मा नो॑ हिꣳसीज् जातवेदो॒  
+गामश्वं॒ पुरु॑ष॒ञ् जग॑त् । 
+अबि॑भ्र॒द् अग्न॒ आग॑हि  
+श्रि॒या मा॒ परि॑पातय ॥
+</details>
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_05/05_puruShasya_vidma.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+पुरु॑षस्य विद्म सहस्रा॒ख्षस्य॑  
+महादे॒वस्य॑ धीमहि ।  
+तन्नो॑ रुद्रः प्रचो॒दया᳚त् ॥
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_05/05_puruShasya_vidma.md">
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+<details><summary>मूलम्</summary>
+
+पुरु॑षस्य विद्म सहस्रा॒ख्षस्य॑  
+महादे॒वस्य॑ धीमहि ।  
+तन्नो॑ रुद्रः प्रचो॒दया᳚त् ॥
+</details>
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_05/07_tatpuruShAya_vidmahe.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+तत्पुरु॑षाय  वि॒द्महे॑  
+महादे॒वाय॑ धीमहि ।  
+तन्नो॑ रुद्रः प्रचो॒दया᳚त् ॥
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_05/07_tatpuruShAya_vidmahe.md">
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+<details><summary>मूलम्</summary>
+
+तत्पुरु॑षाय  वि॒द्महे॑  
+महादे॒वाय॑ धीमहि ।  
+तन्नो॑ रुद्रः प्रचो॒दया᳚त् ॥
+</details>
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_05/09_tatpuruShAya_vidmahe.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+तत्पुरु॑षाय वि॒द्महे॑  
+वक्रतु॒ण्डाय॑ धीमहि ।  
+तन्नो॑ दन्तिः  प्रचो॒दया᳚त् ॥
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_05/09_tatpuruShAya_vidmahe.md">
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+<details><summary>मूलम्</summary>
+
+तत्पुरु॑षाय वि॒द्महे॑  
+वक्रतु॒ण्डाय॑ धीमहि ।  
+तन्नो॑ दन्तिः  प्रचो॒दया᳚त् ॥
+</details>
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_05/11_tat_puruShAya.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+तत् पुरु॑षाय वि॒द्महे॑  
+सुवर्ण-प॒ख्षाय॑ धीमहि । (5)  
+तन् नो॑ गरुडः प्रचो॒दया᳚त् ॥
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_05/11_tat_puruShAya.md">
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+<details><summary>मूलम्</summary>
+
+तत् पुरु॑षाय वि॒द्महे॑  
+सुवर्ण-प॒ख्षाय॑ धीमहि । (5)  
+तन् नो॑ गरुडः प्रचो॒दया᳚त् ॥
+</details>
+</details>
+</div>
+</details>
+</div>  
 
 
 ## 01.06
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="01_06"></div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="01_06">
+<details open><summary><h5>०१ ०६ ...{Loading}...</h5></summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_06/01_kAtyAyanAya_vidmahe.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+का॒त्या॒य॒नाय॑ वि॒द्महे॑  
+कन्यकु॒मारि॑ धीमहि ।  
+तन्नो॑ दुर्गिः प्रचो॒दया᳚त् ॥
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_06/01_kAtyAyanAya_vidmahe.md">
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+<details><summary>मूलम्</summary>
+
+का॒त्या॒य॒नाय॑ वि॒द्महे॑  
+कन्यकु॒मारि॑ धीमहि ।  
+तन्नो॑ दुर्गिः प्रचो॒दया᳚त् ॥
+</details>
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_06/03_nArAyaNAya_vidmahe.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+ना॒रा॒य॒णाय॑ वि॒द्महे॑  
+वासुदे॒वाय॑ धीमहि ।  
+तन्नो॑ विष्णुः प्रचो॒दया᳚त् ॥
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_06/03_nArAyaNAya_vidmahe.md">
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+<details><summary>मूलम्</summary>
+
+ना॒रा॒य॒णाय॑ वि॒द्महे॑  
+वासुदे॒वाय॑ धीमहि ।  
+तन्नो॑ विष्णुः प्रचो॒दया᳚त् ॥
+</details>
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_06/05_sahasraparamA_devI.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+स॒ह॒स्र॒पर॑मा दे॒वी॒  
+श॒तमू॑ला श॒ताङ्कु॑रा ।  
+सर्वꣳ॑ हरतु॑ मे पा॒प॒न्  
+दू॒र्वा दु॑स्वप्न॒-नाशि॑नी ॥
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_06/05_sahasraparamA_devI.md">
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+<details><summary>मूलम्</summary>
+
+स॒ह॒स्र॒पर॑मा दे॒वी॒  
+श॒तमू॑ला श॒ताङ्कु॑रा ।  
+सर्वꣳ॑ हरतु॑ मे पा॒प॒न्  
+दू॒र्वा दु॑स्वप्न॒-नाशि॑नी ॥
+</details>
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_06/07_ashvakrAnte_rathakrAnte.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+अश्व॑क्रा॒न्ते र॑थक्रा॒न्ते॒  
+वि॒ष्णुक्रा᳚न्ते व॒सुन्ध॑रा ।  
+शिरसा॑ धारि॑ता दे॒वी॒   
+र॒क्ष॒स्व मां᳚ पदे॒ पदे ॥
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_06/07_ashvakrAnte_rathakrAnte.md">
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+<details><summary>मूलम्</summary>
+
+अश्व॑क्रा॒न्ते र॑थक्रा॒न्ते॒  
+वि॒ष्णुक्रा᳚न्ते व॒सुन्ध॑रा ।  
+शिरसा॑ धारि॑ता दे॒वी॒   
+र॒क्ष॒स्व मां᳚ पदे॒ पदे ॥
+</details>
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_06/09_uddhRtAsi_varAheNa.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+उ॒द्धृता॑सि व॑राहे॒ण॒  
+कृ॒ष्णे॒न श॑तबा॒हुना । (6)
+भूमिर् धेनुर् धरणी लो॑कधा॒रिणी॥
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_06/09_uddhRtAsi_varAheNa.md">
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+<details><summary>मूलम्</summary>
+
+उ॒द्धृता॑सि व॑राहे॒ण॒  
+कृ॒ष्णे॒न श॑तबा॒हुना । (6)
+भूमिर् धेनुर् धरणी लो॑कधा॒रिणी॥
+</details>
+</details>
+</div>
+</details>
+</div>  
 
 ## 01.07
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="01_07_mRttike/"></div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="01_07_mRttike/">
+<details open><summary><h5>०१ ०७ मृत्तिके ...{Loading}...</h5></summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_07_mRttike/01_mRttike_hana.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+मृ॒त्तिके॑ हन॑ मे पा॒प॒य्ँ  
+य॒न् म॒या दु॑ष्कृत॒ङ् कृतम् ।  
+त्वया॑ ह॒तेन॑ पापे॒न॒  
+जी॒वा॒मि  श॑रद॒श्शतम् ॥
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_07_mRttike/01_mRttike_hana.md">
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+<details><summary>मूलम्</summary>
+
+मृ॒त्तिके॑ हन॑ मे पा॒प॒य्ँ  
+य॒न् म॒या दु॑ष्कृत॒ङ् कृतम् ।  
+त्वया॑ ह॒तेन॑ पापे॒न॒  
+जी॒वा॒मि  श॑रद॒श्शतम् ॥
+</details>
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_07_mRttike/03_mRttike_dehi.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+मृ॒त्तिके॑ देहि॑ मे पु॒ष्टि॒न्  
+त्व॒यि स॑र्वं प्र॒तिष्ठि॑तम् ॥
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_07_mRttike/03_mRttike_dehi.md">
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+<details><summary>मूलम्</summary>
+
+मृ॒त्तिके॑ देहि॑ मे पु॒ष्टि॒न्  
+त्व॒यि स॑र्वं प्र॒तिष्ठि॑तम् ॥
+</details>
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_07_mRttike/05_gandhadvArAn_durAdharShAn.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+ग॒न्ध॒द्वा॒रान् दु॑राध॒र्षान्  
+नि॒त्यपु॑ष्टाङ्करी॒षिणी᳚म् ।  
+ई॒श्वरीꣳ॑ सर्व॑भूता॒ना॒न्  
+त्वामि॒होप॑ह्वये॒ श्रियम् ॥
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_07_mRttike/05_gandhadvArAn_durAdharShAn.md">
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+<details><summary>मूलम्</summary>
+
+ग॒न्ध॒द्वा॒रान् दु॑राध॒र्षान्  
+नि॒त्यपु॑ष्टाङ्करी॒षिणी᳚म् ।  
+ई॒श्वरीꣳ॑ सर्व॑भूता॒ना॒न्  
+त्वामि॒होप॑ह्वये॒ श्रियम् ॥
+</details>
+</details>
+</div>
+</details>
+</div>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/01_07_hiraNya-shRngam/">
 <details open><summary><h5>०१ ०७ हिरण्य-शृङ्गम् ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1396,28 +2235,1626 @@ Das Meer erbrauste in dem ersten Himmel, des Weltalls König, die Geschöpfe zeu
 
 
 ## 10.1
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="10_1"></div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="10_1">
+<details open><summary><h5>१० १ ...{Loading}...</h5></summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_1/01_aNoraNIyAnmahato_mahIyAn.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+अ॒णोरणी॑यान्मह॒तो मही॑यान्  
+आ॒त्मा गुहा॑या॒न् निहि॑तोऽस्य ज॒न्तोः ।  
+तम् अ॑क्रतुं पश्यति वीतशो॒को  
+धा॒तुः  प्र॒सादा᳚न् महि॒मान॑म् ईशम् ॥
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/10_1/01_aNoraNIyAnmahato_mahIyAn.md">
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+<details><summary>मूलम्</summary>
+
+अ॒णोरणी॑यान्मह॒तो मही॑यान्  
+आ॒त्मा गुहा॑या॒न् निहि॑तोऽस्य ज॒न्तोः ।  
+तम् अ॑क्रतुं पश्यति वीतशो॒को  
+धा॒तुः  प्र॒सादा᳚न् महि॒मान॑म् ईशम् ॥
+</details>
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_1/03_sapta_prANAH.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+स॒प्त प्रा॒णाः प्र॒भव॑न्ति॒ तस्मा᳚थ्  
+स॒प्तार्चिष॑स् स॒मिध॑स् स॒प्त जि॒ह्वाः ।  
+स॒प्त इ॒मे लो॒का येषु॒  चर॑न्ति प्रा॒णा  
+गु॒हाश॑या॒न् निहि॑तास् स॒प्त-स॑प्त ॥
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/10_1/03_sapta_prANAH.md">
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+<details><summary>मूलम्</summary>
+
+स॒प्त प्रा॒णाः प्र॒भव॑न्ति॒ तस्मा᳚थ्  
+स॒प्तार्चिष॑स् स॒मिध॑स् स॒प्त जि॒ह्वाः ।  
+स॒प्त इ॒मे लो॒का येषु॒  चर॑न्ति प्रा॒णा  
+गु॒हाश॑या॒न् निहि॑तास् स॒प्त-स॑प्त ॥
+</details>
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_1/05_atas_samudrA.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+अत॑स् समु॒द्रा गि॒रय॑श् च॒ सर्वे॒  
+ऽस्माथ् स्यन्द॑न्ते॒ सिन्ध॑व॒स् सर्व॑रूपाः ।  
+अत॑श्च॒  विश्वा॒ ओष॑धयो॒ रसा᳚श्च॒  
+येनै॑ष भू॒तस् ति॑ष्ठत्यन्तरा॒त्मा ॥
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/10_1/05_atas_samudrA.md">
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+<details><summary>मूलम्</summary>
+
+अत॑स् समु॒द्रा गि॒रय॑श् च॒ सर्वे॒  
+ऽस्माथ् स्यन्द॑न्ते॒ सिन्ध॑व॒स् सर्व॑रूपाः ।  
+अत॑श्च॒  विश्वा॒ ओष॑धयो॒ रसा᳚श्च॒  
+येनै॑ष भू॒तस् ति॑ष्ठत्यन्तरा॒त्मा ॥
+</details>
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/096/06_brahmA_devAnAM.md">
+<details open><summary><h10>०६ ब्रह्मा देवानां ...{Loading}...</h10></summary>
+
+
+ब्र॒ह्मा दे॒वानां॑, पद॒वीः+++(=पद्धति-कृत्)+++ क॑वी॒नाम्  
+ऋषि॒र्विप्रा॑णां महि॒षो मृ॒गाणा॑म् ।  
+श्ये॒नो गृध्रा॑णां॒ स्वधि॑ति॒र् +++(=परशुः/ वज्रः)+++ वना॑नां॒ +++(=हिंसकानां)+++  
++++(ब्रह्मा, कवयः, ऋषयः इति चारु क्रमः। महिषः, श्योनः, वना इत्यपि। वज्रो वै स्वधितिः इति श्रुतौ दृश्यते।)+++  
+सोमः॑ प॒वित्र॒मत्ये॑ति॒ रेभ॑न् +++(=शब्दायमानः)+++ ६  
+
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/09/096/06_brahmA_devAnAM.md">
+<details open><summary><h10>006 ...{Loading}...</h10></summary>
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - पवमानः सोमः
+- ऋषिः - दैवोदासिः प्रतर्दनः
+- छन्दः - त्रिष्टुप्
+</details>
+<details><summary>Thomson & Solcum</summary>
+
+ब्रह्मा꣡ देवा꣡नाम् पदवीः꣡ कवीना꣡म्  
+ऋ꣡षिर् वि꣡प्राणाम् महिषो꣡ मृगा꣡णाम्  
+श्येनो꣡ गृ꣡ध्राणां स्व꣡धितिर् व꣡नानां  
+सो꣡मः पवि꣡त्रम् अ꣡ति एति रे꣡भन्
+</details>
+<details><summary>Vedaweb annotation</summary>
+
+###### Strata
+Normal
+
+###### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+###### Morph
+brahmā́ ← brahmán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+kavīnā́m ← kaví- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+padavī́ḥ ← padavī́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mahiṣáḥ ← mahiṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mr̥gā́ṇām ← mr̥gá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ŕ̥ṣiḥ ← ŕ̥ṣi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víprāṇām ← vípra- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+gŕ̥dhrāṇām ← gŕ̥dhra- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+svádhitiḥ ← svádhiti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+śyenáḥ ← śyená- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vánānām ← vána- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+áti ← áti (invariable)  
+{}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+pavítram ← pavítra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rébhan ← √ribh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+</details>
+<details><summary>पद-पाठः</summary>
+
+ब्र॒ह्मा । दे॒वाना॑म् । प॒द॒ऽवीः । क॒वी॒नाम् । ऋषिः॑ । विप्रा॑णाम् । म॒हि॒षः । मृ॒गाणा॑म् ।  
+श्ये॒नः । गृध्रा॑णाम् । स्वऽधि॑तिः । वना॑नाम् । सोमः॑ । प॒वित्र॑म् । अति॑ । ए॒ति॒ । रेभ॑न् ॥
+</details>
+<details><summary>Hellwig Grammar</summary>
+
+-   *brahmā* ← *brahman*
+- \[noun\], nominative, singular, masculine
+- “Brahma; Brahmin; dhak; Brahman; brahman \[word\]; Brahman; Brahmin;
+    Brahmapurāṇa; Vishnu; Brihaspati.”
+------------------------------------------------------------------------
+- *devānām* ← *deva*
+- \[noun\], genitive, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *padavīḥ* ← *padavī*
+- \[noun\], nominative, singular, feminine
+- “path; padavī \[word\].”
+------------------------------------------------------------------------
+- *kavīnām* ← *kavi*
+- \[noun\], genitive, plural, masculine
+- “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
+    guru; Brahma.”
+------------------------------------------------------------------------
+- *ṛṣir* ← *ṛṣiḥ* ← *ṛṣi*
+- \[noun\], nominative, singular, masculine
+- “Ṛṣi; spiritual teacher; ascetic; Mantra.”
+------------------------------------------------------------------------
+- *viprāṇām* ← *vipra*
+- \[noun\], genitive, plural, masculine
+- “Brahmin; poet; singer; priest; guru; Vipra.”
+------------------------------------------------------------------------
+- *mahiṣo* ← *mahiṣaḥ* ← *mahiṣa*
+- \[noun\], nominative, singular, masculine
+- “Old World buffalo; Mahiṣa; Mahiṣa.”
+------------------------------------------------------------------------
+- *mṛgāṇām* ← *mṛga*
+- \[noun\], genitive, plural, masculine
+- “game; deer; animal; antelope; mṛga \[word\]; Mṛgaśiras.”
+------------------------------------------------------------------------
+- *śyeno* ← *śyenaḥ* ← *śyena*
+- \[noun\], nominative, singular, masculine
+- “hawk; bird of prey; falcon; Śyena; eagle; śyena \[word\]; Śyena.”
+------------------------------------------------------------------------
+- *gṛdhrāṇāṃ* ← *gṛdhrāṇām* ← *gṛdhra*
+- \[noun\], genitive, plural, masculine
+- “vulture.”
+------------------------------------------------------------------------
+- *svadhitir* ← *svadhitiḥ* ← *svadhiti*
+- \[noun\], nominative, singular, masculine
+- “ax; knife.”
+------------------------------------------------------------------------
+- *vanānāṃ* ← *vanānām* ← *vana*
+- \[noun\], genitive, plural, neuter
+- “forest; wood; tree; grove; vana \[word\]; forest; brush.”
+------------------------------------------------------------------------
+- *somaḥ* ← *soma*
+- \[noun\], nominative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *pavitram* ← *pavitra*
+- \[noun\], accusative, singular, neuter
+- “strainer.”
+------------------------------------------------------------------------
+- *aty* ← *ati*
+- \[adverb\]
+- “very; excessively; beyond; excessively.”
+------------------------------------------------------------------------
+- *eti* ← *i*
+- \[verb\], singular, Present indikative
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+------------------------------------------------------------------------
+- *rebhan* ← *ribh*
+- \[verb noun\], nominative, singular
+- “moo; murmur; praise.”
+------------------------------------------------------------------------
+</details>
+<details><summary>सायण-भाष्यम्</summary>
+
+सोम एवं-रूपो भवति।  
+
+**देवानां** स्तोत्रकारिणाम् ऋत्विजां **ब्रह्मा** ब्रह्माख्यर्त्विक् स्थानी यो भवति,  
+यद् वा **देवानां** द्योतमानानाम् इन्द्रादीनां **ब्रह्मा** राजाभवति । 
+
+तथा **कवीनां** क्रान्तप्रज्ञानां **पदवीः** स्खलन्ति पदानि साधुत्वेन यो योजयति सपदवीः । वीगत्यादिष्व् इत्येतस्मात् क्विपि रूपम् । 
+
+तथा **विप्राणां** मेधाविनाम्मध्ये ऋषिर्भवति । यः परोक्षम्पश्यति सऋषिः । ऋषिर्दर्श- नादिति । मृगाणां महिषोभवति महिषाख्योबलवान् राजाभवति । तथा गृध्राणां पक्षि- विशेषाणां श्येनः शंसनीयः पक्षिराजोभवति । वनानां वनतिर्हिसाकर्मा । हिंसकानां छेदका- नाम्मध्ये स्वधितिः एतन्नामकः छेदकोसि । एवम्प्रभावः सोमः रेभन् शब्दायमानःसन् पवि त्रमूर्णास्तुकेन कृतमत्येति अतिगच्छति ॥ ६ ॥
+</details>
+<details><summary>Wilson</summary>
+
+###### English translation:
+
+“The **Brahmā** of the gods, the guide of the sages, the ṛṣi of the pious, the buffalo of wild animals, the falcon of the vultures, the hatchet of deadly weapons, the **Soma** passes through the filter with a roar.”
+
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+The Brahmā of the gods: i.e., the king of the gods; or, it may mean the **brāhmaṇa** of the priests; the ṛṣi: yaḥ **parokṣam** paśyati sa ṛṣiḥ, ṛsirdarśanāt (**Nirukta** 2.11)
+</details>
+<details><summary>Jamison Brereton</summary>
+
+Formulator for the gods, trail-blazer for the sage poets, seer for the  inspired poets, buffalo of the wild beasts,  
+falcon of the birds of prey, axe of the trees—Soma goes rasping  
+through the filter.
+</details>
+<details><summary>Jamison Brereton Notes</summary>
+
+Though the syntax is kept absolutely constant - nom. sg. + gen. pl. - there is a shifting functional relationship between the head noun and its genitive in the seven phrases here: the first two are roles Soma performs for the group identified by the gen., the next three a particular, and superior, individual token from the group (though the third pairing, “seer for/of the inspired poets,” is ambiguous between the first type and the second), and the last is sort of a negative version of the role he plays for the group.
+</details>
+<details><summary>Griffith</summary>
+
+Brahman of Gods, the Leader of the poets, Rsi of sages, Bull of savage creatures,  
+     Falcon amid the vultures, Axe of forests, over the cleansing sieve goes Soma singing.
+</details>
+<details><summary>Geldner</summary>
+
+Der Hohepriester der Götter, der Pfadfinder der Seher, der Rishi unter den Beredten, der Büffel unter den wilden Tieren, der Adler unter den Geiern, die Axt für die Bäume, geht Soma laut redend durch die Seihe.
+</details>
+<details><summary>Grassmann</summary>
+
+Der Götter Beter und der Priester Führer, der Sänger Dichter und der Stier der Thiere, Der Geier Adler und die Axt der Wälder, der Soma wandert singend durch die Seihe.
+</details>
+<details><summary>Elizarenkova</summary>
+
+Брахман богов, пролагатель пути поэтов,  
+Риши среди вдохновенных, буйвол среди диких животных,  
+Орел среди хищных птиц, топор для деревьев,  
+Сома проходит сквозь цедилку, распевая.
+</details>
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पवमानः सोमः
+- प्रतर्दनो दैवोदासिः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_1/07_ajAm_ekAl.N.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+अ॒जाम् एका॒ल्ँ लोहि॑त-शुक्लकृ॒ष्णां  
+ब॒ह्वीं  प्र॒जाञ् ज॒नय॑न्ती॒ꣳ॒ सरू॑पाम् ।  
+अ॒जो ह्येको॑ जु॒षमा॑णो ऽनु॒शेते॒  
+जहा᳚त्य् एनां भु॒क्त-भो॑गा॒म् अजो᳚ऽन्यः । (20)
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/10_1/07_ajAm_ekAl.N.md">
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+<details><summary>मूलम्</summary>
+
+अ॒जाम् एका॒ल्ँ लोहि॑त-शुक्लकृ॒ष्णां  
+ब॒ह्वीं  प्र॒जाञ् ज॒नय॑न्ती॒ꣳ॒ सरू॑पाम् ।  
+अ॒जो ह्येको॑ जु॒षमा॑णो ऽनु॒शेते॒  
+जहा᳚त्य् एनां भु॒क्त-भो॑गा॒म् अजो᳚ऽन्यः । (20)
+</details>
+</details>
+</div>
+</details>
+</div>  
 
 
 ## 10.2
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="10_2"></div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="10_2">
+<details open><summary><h5>१० २ ...{Loading}...</h5></summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_2/01_haMsash_shuchiShad.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
++++(अहं)+++ ह॒ꣳ॒सश् शु॑चि॒-षद्, वसु॑र् अन्तरिक्ष॒-सद्,  
++होता॑ वेदि॒-षद्, अति॑थिर् दुरोण॒-सत् ।  
+नृ॒-षद्, व॑र॒-सद्, ऋ॑त॒-सद् व्यो॑म॒-सद्,  
+अ॒ब्-जा, गो॒-जा, ऋ॑त॒-जा, अ॑द्रि॒-जा, ऋ॒तं बृ॒हत् ॥
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/10_2/01_haMsash_shuchiShad.md">
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+<details><summary>मूलम्</summary>
+
+ह॒ꣳ॒सश्शु॑चि॒षद्वसु॑रन्तरिख्ष॒सद्धोता॑ वेदि॒षदति॑थिर्दुरोण॒सत् ।  
+नृ॒षद्व॑र॒सदृ॑त॒सद्व्यो॑म॒सद॒ब्जा गो॒जा ऋ॑त॒जा अ॑द्रि॒जा ऋ॒तम्बृ॒हत् ॥ [30]
+</details>
+<details><summary>Keith</summary>
+
+I The gander seated in purity, the bright one seated in the atmosphere,  
+The Hotr seated at the altar, the guest seated in the house,  
+Seated among men, seated in the highest, seated in holy order, seated in the firmament, Born of the waters, born of the cows, born of holy order, born of the mountain, the great holy order.
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+अध्यात्ममधिदैवमधियज्ञं चाधिकृत्य त्रेधेमं मन्त्रं व्याचक्षते । तत्र प्रकरणानुरूपोर्थविशेषो गृहीतव्यः ।
+अध्यात्मे तावत् - हंसः आत्मा । शुचिषु स्थानेषु सीदतीति शुचिषत् । वासयिता वसुः वरिष्ठो वा । अन्तरिक्षे हृदयाकाशादिषु सीदतीति अन्तरिक्षसत् । होता आह्वाता देवानामादाता वा । वेद्यां यागार्थं सीदतीति वेदिषत् । अतिथिस्सततगतिः, तिथिकृतविशेषरहितो वा । दुःखरक्षणेषु गृहादिषु सीदतीति दुरोणसत् । नृषु प्राणिशरीरेषु तद्भावेन सीदतीति नृषत् । वरेषु फलेषु भोक्तृत्वेन सीदतीति वरसत् । ऋते यज्ञे सत्ये वा सीदतीति ऋतसत् । विविधे रक्षणे तृप्तौ वा सीदतीति व्योमसत् । अद्भ्यो जातः अब्जाः शरीराभिप्रायं, शुक्क्लाज्जातत्वात् । यथा 'पञ्चम्यामाहुतावापः पुरुषवचसो भवन्ति' इति । अपां वा यागद्वारेण जनयिता । अन्तर्भावितण्यर्थात् 'जनसनखन' इति विट्, 'विड्वनोः' इत्यात्वम् । गोषु पशुषु अनुग्राहकतया जातः गोजाः । ऋते यज्ञे ऋतार्थं वा जातः प्रादुर्भूतः ऋतजाः । अद्रिजाः पर्वतादिष्वपि प्रादुर्भूतः । ऋतं सत्यरूपं बृहद्ब्रह्म ।
+अथाधिदैवे - हंस आदित्यः । शुचिनि मण्डले सीदतीति शुचिषत् । होता अपामादाता । वेद्यामाराध्यतया सीदतीति वेदिषत् । अतिथिस्सततगतिः । दुरोणेषु गृहेषु मेषादिषु सीदतीति दुरोणसत् । वराणां दातृत्वेन तेषु सीदतीति वरसत् । अपो जनयतीत्यब्जाः । गोजाः रश्मिसमूहवर्ती । ऋते सत्ये जात ऋतजाः । अद्रिजाः उदयाचलात्प्रादुर्भूतः । समानमन्यत् ।
+
+अथाधियज्ञे - हंसो रथः हन्ति पृथिवीमिति । शुचौ देवयजने रथवाहने च सीदतीति शुचिषत् । शुचिर्यजमानः सीदत्यस्मिम्निति वा शुचिषत् । होतेव वेद्यां सीदतीति वेदिषत् । अतिथिस्सर्वत्राप्रतिहतगतिः । नृषत् मनुष्यार्थं शूरार्थं वा सीदतीति नृषु वा उपकारार्थं सीदतीति नृषत् । ऋतार्थं सत्यार्थं यज्ञार्थं वा सीदतीति ऋतसत् । अब्जाः उदकाज्जातः । गोजाः गोविकारचर्मादिग्रथितत्वात् ततो जात इत्युच्यते । अद्रिभिर्दारुभिरुत्पादितत्वात्ततो जात इत्युच्यते अद्रिजाः । गतमन्यत् ॥
+
+इत्यष्टमे पञ्चदशोनुवाकः ॥
+</details>
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_2/03_yasmAj_jAtA.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+यस्मा᳚ज् जा॒ता न प॒रा नैव॒ किञ्च॒नास॒  
+य आ॑वि॒वेश॒ भुव॑नानि॒ विश्वा᳚ ।  
+प्र॒जाप॑तिः प्र॒जया॑ सव्ँ विदा॒नस्  
+त्रीणि॒ ज्योतीꣳ॑षि सचते॒ स षो॑ड॒शी ॥
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/10_2/03_yasmAj_jAtA.md">
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+<details><summary>मूलम्</summary>
+
+यस्मा᳚ज् जा॒ता न प॒रा नैव॒ किञ्च॒नास॒  
+य आ॑वि॒वेश॒ भुव॑नानि॒ विश्वा᳚ ।  
+प्र॒जाप॑तिः प्र॒जया॑ सव्ँ विदा॒नस्  
+त्रीणि॒ ज्योतीꣳ॑षि सचते॒ स षो॑ड॒शी ॥
+</details>
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_2/05_vidhartAraM_havAmahe.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+वि॒ध॒र्तारꣳ॑ हवामहे॒  
+वसोः᳚  कु॒विद् व॒नाति॑ नः ।  
+स॒वि॒तार॑न् नृ॒चक्ष॑सम् ॥
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/10_2/05_vidhartAraM_havAmahe.md">
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+<details><summary>मूलम्</summary>
+
+वि॒ध॒र्तारꣳ॑ हवामहे॒  
+वसोः᳚  कु॒विद् व॒नाति॑ नः ।  
+स॒वि॒तार॑न् नृ॒चक्ष॑सम् ॥
+</details>
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/082/04_adyA_no.md">
+<details open><summary><h10>०४ अद्या नो ...{Loading}...</h10></summary>
+
+
+अ॒द्या नो॑ देव सवितः  
+प्र॒जाव॑त् **सावीः॒** सौभ॑गम् ।  
+परा॑ दु॒ष्-ष्वप्न्यं॑ **सुव** ॥
+
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/082/04_adyA_no.md">
+<details open><summary><h10>004 ...{Loading}...</h10></summary>
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - सविता
+- ऋषिः - श्यावाश्व आत्रेयः
+- छन्दः - गायत्री
+</details>
+<details><summary>Thomson & Solcum</summary>
+
+अद्या꣡ नो देव सवितः  
+प्रजा꣡वत् सावीः सउ꣡भगम्  
+प꣡रा दुष्व꣡प्नियं सुव
+</details>
+<details><summary>मूलम् तैत्तिरीयम्</summary>
+
+अ॒द्या नो॑ देव सवितः ।
+प्र॒जाव॑थ्सावी॒स्सौभ॑गम् ।
+परा॑ दु॒ष्वप्नि॑यꣳ सुव ।
+</details>
+<details><summary>Vedaweb annotation</summary>
+
+###### Strata
+Archaic
+
+###### Pāda-label
+genre M  
+genre M  
+genre M
+###### Morph
+adyá ← adyá (invariable)  
+{}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+savitar ← savitár- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+prajā́vat ← prajā́vant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+saúbhagam ← saúbhaga- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sāvīḥ ← √sū- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+duṣvápnyam ← duṣvápnya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+párā ← párā (invariable)  
+{}
+
+suva ← √sū- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+</details>
+<details><summary>पद-पाठः</summary>
+
+अ॒द्य । नः॒ । दे॒व॒ । स॒वि॒त॒रिति॑ । प्र॒जाऽव॑त् । सा॒वीः॒ । सौभ॑गम् ।  
+परा॑ । दुः॒ऽस्वप्न्य॑म् । सु॒व॒ ॥
+</details>
+<details><summary>Hellwig Grammar</summary>
+
+-   *adyā* ← *adya*
+- \[adverb\]
+- “now; today; then; nowadays; adya \[word\].”
+------------------------------------------------------------------------
+- *no* ← *naḥ* ← *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *deva*
+- \[noun\], vocative, singular, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *savitaḥ* ← *savitar* ← *savitṛ*
+- \[noun\], vocative, singular, masculine
+- “Savitar; sun; Surya; Savitṛ.”
+------------------------------------------------------------------------
+- *prajāvat*
+- \[noun\], accusative, singular, neuter
+- “prolific.”
+------------------------------------------------------------------------
+- *sāvīḥ* ← *sū*
+- \[verb\], singular, Aorist inj. (proh.)
+- “give birth; urge; bestow; cause.”
+------------------------------------------------------------------------
+- *saubhagam* ← *saubhaga*
+- \[noun\], accusative, singular, neuter
+- “well-being.”
+------------------------------------------------------------------------
+- *parā*
+- \[adverb\]
+- “away.”
+------------------------------------------------------------------------
+- *duṣṣvapnyaṃ* ← *duṣṣvapnyam* ← *duḥṣvapnya*
+- \[noun\], accusative, singular, neuter
+- “nightmare.”
+------------------------------------------------------------------------
+- *suva* ← *sū*
+- \[verb\], singular, Present imperative
+- “give birth; urge; bestow; cause.”
+------------------------------------------------------------------------
+</details>
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **सवितः** **देव** **नः** अस्मभ्यम् **अद्य** अस्मिन् यागदिने **प्रजावत्** पुत्राद्युपेतं **सौभगं** धनं **सावीः** प्रेरय । **दुःष्वप्न्यं** दुःस्वप्नं दुःस्वप्नवद्दुःखकरं दारिद्र्यं **परा** **सुव** दूरे प्रेरय ॥
+
+________________
+8अथाष्टमीमाह - हे सवितर्देव! अद्यास्मिन्कर्मणि नोऽस्माकं प्रजावत् पुत्रपौत्राद्युपेतं सौभगं सौभाग्यं सावीः अनुजानीहि । दुष्ष्वप्नियं दुस्स्वप्ननिमित्तं दोषं परासुव विनाश्य ॥
+</details>
+<details><summary>Wilson</summary>
+
+###### English translation:
+
+“Grant us today, divine **Savitā** affluence with progeny, and drive away evil dreams.”
+
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+**Para** duhṣvapnyam **suva**: duhṣvapnyam = dāridryam, poverty
+</details>
+<details><summary>Jamison Brereton</summary>
+
+Today, god Savitar, you have impelled to us a good portion consisting of  offspring.  
+Impel away the bad dream.
+</details>
+<details><summary>Griffith</summary>
+
+Send us this day, God Savitar, prosperity with progeny.  
+     Drive thou the evil dream away.
+</details>
+<details><summary>Geldner</summary>
+
+Mögest du, Gott Savitri, uns heute kinderreiches Glück zuweisen. Weise üblen Traum ab!
+</details>
+<details><summary>Grassmann</summary>
+
+O schaffe heut, Gott Savitar, uns kinderreichen Segen her; Fort schaffe böses Traumgesicht.
+</details>
+<details><summary>Elizarenkova</summary>
+
+Сегодня, о бог Савитар, вызови к жизни  
+Для нас удачу, заключающуюся в потомстве!  
+Прочь отзови дурной сон!
+</details>
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- सविता
+- श्यावाश्व आत्रेयः
+- निचृद्गायत्री
+- षड्जः
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+फिर उसी विषय को कहते हैं ॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे (सवितः) सम्पूर्ण ऐश्वर्य्य के देनेवाले स्वामिन् (देव) शोभित ! आप कृपा से (नः) हम लोगों के लिये वा हम लोगों के (अद्या) आज (प्रजावत्) बहुत प्रजायें विद्यमान जिसके उस (सौभगम्) सुन्दर ऐश्वर्य के भाग को (सावीः) उत्पन्न कीजिये और (दुःष्वप्न्यम्) दुष्ट स्वप्नों में उत्पन्न दुःख को (परा, सुव) दूर कीजिये ॥४॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  जो परमेश्वर की प्रार्थना करके धर्म्मयुक्त पुरुषार्थ करते हैं, वे बहुत ऐश्वर्य्यवाले होकर दुःख और दारिद्र्य से रहित होते हैं ॥४॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
+
+अन्वय:  हे सवितर्देव ! त्वं कृपया नोऽद्या प्रजावत्सौभगं सावीर्दुःष्वप्न्यं परा सुव दूरं गमय ॥४॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+पुनस्तमेव विषयमाह ॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (अद्या) अद्य। अत्र निपातस्य चेति दीर्घः। (नः) अस्मभ्यमस्माकं वा (देव) प्रकाशमान (सवितः) सर्वैश्वर्य्यप्रदेश्वर (प्रजावत्) बह्व्यः प्रजा विद्यन्ते यस्य तत् (सावीः) जनय (सौभगम्) शौभनैश्वर्य्यस्य भागम् (परा) (दुःष्वप्न्यम्) दुष्टेषु स्वप्नेषु भवं दुःखम् (सुव) प्रेरय ॥४॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  ये परमेश्वरं प्रार्थयित्वा धर्म्यं पुरुषार्थं कुर्वन्ति ते महदैश्वर्या भूत्वा दुःखदारिद्र्यविरहा जायन्ते ॥४॥
+</details>
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  जे परमेश्वराची प्रार्थना करून धर्मयुक्त पुरुषार्थ करतात. ते अत्यंत ऐश्वर्यवान होऊन दुःख व दारिद्र्यरहित होतात. ॥ ४ ॥
+</details>
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/082/05_vishvAni_deva.md">
+<details open><summary><h10>०५ विश्वानि देव ...{Loading}...</h10></summary>
+
+
+विश्वा॑नि देव सवितर्  
+दुरि॒तानि॒ **परा॑ सुव** ।  
+यद् भ॒द्रं तन् न॒ **आ सु॑व** ॥
+
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/082/05_vishvAni_deva.md">
+<details open><summary><h10>005 ...{Loading}...</h10></summary>
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - सविता
+- ऋषिः - श्यावाश्व आत्रेयः
+- छन्दः - गायत्री
+</details>
+<details><summary>Thomson & Solcum</summary>
+
+वि꣡श्वानि देव सवितर्  
+दुरिता꣡नि प꣡रा सुव  
+य꣡द् भद्रं꣡ त꣡न् न आ꣡ सुव
+</details>
+<details><summary>मूलम् तैत्तिरीयम्</summary>
+
+विश्वा॑नि देव सवितः ।
+दु॒रि॒तानि॒ परा॑सुव ।
+यद्भ॒द्रन्तन्म॒ आसु॑व ।
+</details>
+<details><summary>Vedaweb annotation</summary>
+
+###### Strata
+Archaic
+
+###### Pāda-label
+genre M  
+genre M  
+genre M
+###### Morph
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+savitar ← savitár- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+víśvāni ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+duritā́ni ← duritá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+párā ← párā (invariable)  
+{}
+
+suva ← √sū- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bhadrám ← bhadrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+suva ← √sū- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+</details>
+<details><summary>पद-पाठः</summary>
+
+विश्वा॑नि । दे॒व॒ । स॒वि॒तः॒ । दुः॒ऽइ॒तानि॑ । परा॑ । सु॒व॒ ।  
+यत् । भ॒द्रम् । तत् । नः॒ । आ । सु॒व॒ ॥
+</details>
+<details><summary>Hellwig Grammar</summary>
+
+-   *viśvāni* ← *viśva*
+- \[noun\], accusative, plural, neuter
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *deva*
+- \[noun\], vocative, singular, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *savitar* ← *savitṛ*
+- \[noun\], vocative, singular, masculine
+- “Savitar; sun; Surya; Savitṛ.”
+------------------------------------------------------------------------
+- *duritāni* ← *durita*
+- \[noun\], accusative, plural, neuter
+- “danger; sin; difficulty; difficulty; evil.”
+------------------------------------------------------------------------
+- *parā*
+- \[adverb\]
+- “away.”
+------------------------------------------------------------------------
+- *suva* ← *sū*
+- \[verb\], singular, Present imperative
+- “give birth; urge; bestow; cause.”
+------------------------------------------------------------------------
+- *yad* ← *yat* ← *yad*
+- \[noun\], nominative, singular, neuter
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *bhadraṃ* ← *bhadram* ← *bhadra*
+- \[noun\], nominative, singular, neuter
+- “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
+    fine-looking; beautiful.”
+------------------------------------------------------------------------
+- *tan* ← *tat* ← *tad*
+- \[noun\], nominative, singular, neuter
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *na* ← *naḥ* ← *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *suva* ← *sū*
+- \[verb\], singular, Present imperative
+- “give birth; urge; bestow; cause.”
+------------------------------------------------------------------------
+</details>
+<details><summary>सायण-भाष्यम्</summary>
+
+हे सवितः **देव** त्वं विश्वानि दुरितानि परा सुव । यद्भदं प्रजापशुगृहादिकं तत् **नः** अस्मभ्यम् “ **सुव** अस्मदभिमुखं प्रेरय। ‘प्रजा वै भद्रं पशवो भद्रं गृहं भद्रम् ' इति हि श्रुतिः ॥ ॥ २५ ॥
+__________________
+9अथ नवमीमाह - हे सवितर्देव विश्वानि दुरितानि परासुव विनाशय । यद्भद्रं कल्याणमस्ति तन्मे मम आसुव सर्वतोऽनुजानीहि । 
+
+</details>
+<details><summary>Wilson</summary>
+
+###### English translation:
+
+“Remove from us, divine **Savitā**, all misfortunes; bestow upon us that which is good,”
+
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+Bhadram = progeny, cattle, dwelling, **prajā** vai bhadram, **pasa**'vo bhadram, gṛham bhadram iti
+</details>
+<details><summary>Jamison Brereton</summary>
+
+All difficulties impel away, god Savitar.  
+What is beneficial, that impel here to us.
+</details>
+<details><summary>Griffith</summary>
+
+Savitar, God, send far away all sorrows and calamities,  
+     And send us only what is good.
+</details>
+<details><summary>Geldner</summary>
+
+Weise alle Gefahren ab, Gott Savitri. Was Glück bringt, das weise uns zu!
+</details>
+<details><summary>Grassmann</summary>
+
+O schaffe alles Ungemach von uns hinweg, Gott Savitar; Was heilsam ist, das schaff uns her.
+</details>
+<details><summary>Elizarenkova</summary>
+
+Все, о бог Савитар,  
+Бедствия прочь отзови,  
+Что благого – то к жизни вызови для нас!
+</details>
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- सविता
+- श्यावाश्व आत्रेयः
+- गायत्री
+- षड्जः
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+मनुष्य किसलिये ईश्वर की प्रार्थना करें, इस विषय को कहते हैं ॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे (सवितः) संपूर्ण संसार के उत्पन्न करनेवाले (देव) और संपूर्ण संसार को प्रकाशित करनेवाले जगदीश्वर ! (विश्वानि) संपूर्ण (दुरितानि) दुष्ट आचरणों को आप (परा, सुव) दूर कीजिये और (यत्) जो (भद्रम्) कल्याणकारक है (तत्) उसको (नः) हम लोगों के लिये (आ, सुव) सब प्रकार से प्राप्त कीजिये ॥५॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  हे परमेश्वर ! आप कृपा से जितने हम लोगों में दुष्ट आचरण हैं, उनको अलग करके धर्म्मयुक्त गुण, कर्म्म और स्वभावों को स्थापित कीजिये ॥५॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
+
+अन्वय:  हे सवितर्देव जगदीश्वर ! विश्वानि दुरितानि त्वं परा सुव यद्भद्रं तन्न आ सुव ॥५॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+मनुष्यैः किमर्थमीश्वरः प्रार्थनीय इत्याह ॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (विश्वानि) सर्वाणि (देव) सकलजगत्प्रकाशक (सवितः) सर्वविश्वोत्पादक (दुरितानि) दुष्टाचरणानि (परा) (सुव) दूरे प्रक्षिप (यत्) (भद्रम्) कल्याणकरम् (तत्) (नः) अस्मभ्यम् (आ) (सुव) समन्तात् प्रापय ॥५॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  हे परमेश्वर ! भवान् कृपया यावन्त्यस्मासु दुष्टाचरणानि सन्ति तावन्ति पृथक्कृत्य धर्म्यगुणकर्मस्वभावान् स्थापयतु ॥५॥
+</details>
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  हे परमेश्वरा! आमचे जेवढे दुष्ट आचरण आहे ते तुझ्या कृपेने नाहीसे होऊन धर्मयुक्त गुण, कर्म, स्वभाव बनू दे. ॥ ५ ॥
+</details>
+</details>
+</div>
+</details>
+</div>  
 
 
 
 ## 10.3
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="10_3_madhu"></div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="10_3_ghRtam"></div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="10_3_madhu">
+<details open><summary><h5>१० ३ मधु ...{Loading}...</h5></summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_3/01_madhu_vAtA.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+मधु॒ वाता॑ ऋताय॒ते  
+मधु॑ ख्षरन्ति॒ सिन्ध॑वः ।  
+माद्ध्वी᳚र् नस् स॒न्त्व् ओष॑धीः ॥
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/10_3/01_madhu_vAtA.md">
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+<details><summary>मूलम्</summary>
+
+मधु॒ वाता॑ ऋताय॒ते  
+मधु॑ ख्षरन्ति॒ सिन्ध॑वः ।  
+माद्ध्वी᳚र् नस् स॒न्त्व् ओष॑धीः ॥
+</details>
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_3/03_madhu_naktam.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+मधु॒ नक्त॑म् उ॒तोषसि॒  
+मधु॑म॒त् पार्थि॑व॒ꣳ॒ रजः॑ ।   
+मधु॒ द्यौर॑स्तु नः पि॒ता ॥
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/10_3/03_madhu_naktam.md">
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+<details><summary>मूलम्</summary>
+
+मधु॒ नक्त॑म् उ॒तोषसि॒  
+मधु॑म॒त् पार्थि॑व॒ꣳ॒ रजः॑ ।   
+मधु॒ द्यौर॑स्तु नः पि॒ता ॥
+</details>
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_3/05_madhumAn_no.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+मधु॑मान् नो॒ वन॒स्पति॒र्  
+मधु॑माꣳ अस्तु॒ सूर्यः॑ ।  
+माद्ध्वी॒र् गावो॑ भवन्तु नः ॥
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/10_3/05_madhumAn_no.md">
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+<details><summary>मूलम्</summary>
+
+मधु॑मान् नो॒ वन॒स्पति॒र्  
+मधु॑माꣳ अस्तु॒ सूर्यः॑ ।  
+माद्ध्वी॒र् गावो॑ भवन्तु नः ॥
+</details>
+</details>
+</div>
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="10_3_ghRtam">
+<details open><summary><h5>१० ३ घृतम् ...{Loading}...</h5></summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_3/07_ghRtaM_mimixe.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+घृ॒तं मि॑मिक्षे  घृ॒तम॑स्य॒ योनि॑र्  
+घृ॒ते श्रि॒तो घृ॒तम् उ॑वस्य॒ धाम॑ ।  
+अ॒नु॒ष्व॒धम् आव॑ह, मा॒दय॑स्व॒ स्वाहा॑कृतव्ँ  
+वृषभ वख्षि ह॒व्यम् ।
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/10_3/07_ghRtaM_mimixe.md">
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+<details><summary>मूलम्</summary>
+
+घृ॒तं मि॑मिक्षे  घृ॒तम॑स्य॒ योनि॑र्  
+घृ॒ते श्रि॒तो घृ॒तम् उ॑वस्य॒ धाम॑ ।  
+अ॒नु॒ष्व॒धम् आव॑ह, मा॒दय॑स्व॒ स्वाहा॑कृतव्ँ  
+वृषभ वख्षि ह॒व्यम् ।
+</details>
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_3/09_samudrAd_UrmimadhumAm.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+स॒मु॒द्राद् ऊ॒र्मिमधु॑मा॒ꣳ॒ उदा॑रद्  
+उपा॒ꣳ॒शुना॒ सम॑मृत॒त्वम् आ॑नट् ।  
+घृ॒तस्य॒ नाम॒ गुह्य॒य्ँ यद् अस्ति॑  
+जि॒ह्वा दे॒वाना॑म॒मृत॑स्य॒ नाभिः॑ ॥ (22)
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/10_3/09_samudrAd_UrmimadhumAm.md">
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+<details><summary>मूलम्</summary>
+
+स॒मु॒द्राद् ऊ॒र्मिमधु॑मा॒ꣳ॒ उदा॑रद्  
+उपा॒ꣳ॒शुना॒ सम॑मृत॒त्वम् आ॑नट् ।  
+घृ॒तस्य॒ नाम॒ गुह्य॒य्ँ यद् अस्ति॑  
+जि॒ह्वा दे॒वाना॑म॒मृत॑स्य॒ नाभिः॑ ॥ (22)
+</details>
+</details>
+</div>
+</details>
+</div>  
 
 ## 10.4
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="10_4"></div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="10_4">
+<details open><summary><h5>१० ४ ...{Loading}...</h5></summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_4/01_vayannAma_prabravAmA.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+व॒यन्नाम॒ प्रब्र॑वामा घृ॒तेना॒स्मिन् य॒ज्ञे धा॑रयामा॒ नमो॑भिः ।  
+उप॑ ब्र॒ह्माशृ॑णवच् छ॒स्यमा॑न॒ञ् चतु॑श्शृङ्गोवमीद्गौ॒र ए॒तत् ॥
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/10_4/01_vayannAma_prabravAmA.md">
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+<details><summary>मूलम्</summary>
+
+व॒यन्नाम॒ प्रब्र॑वामा घृ॒तेना॒स्मिन् य॒ज्ञे धा॑रयामा॒ नमो॑भिः ।  
+उप॑ ब्र॒ह्माशृ॑णवच् छ॒स्यमा॑न॒ञ् चतु॑श्शृङ्गोवमीद्गौ॒र ए॒तत् ॥
+</details>
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/058/03_chatvAri_shRngA.md">
+<details open><summary><h10>०३ चत्वारि शृङ्गा ...{Loading}...</h10></summary>
+
+
+च॒त्वारि॒ शृङ्गा॒ त्रयो॑ अस्य॒ पादा॒  
+द्वे शी॒र्षे स॒प्त हस्ता॑सो अस्य ।  
+त्रिधा॑ ब॒द्धो वृ॑ष॒भो रो॑रवीति  
+म॒हो दे॒वो मर्त्याँ॒ आ वि॑वेश ॥
+
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/058/03_chatvAri_shRngA.md">
+<details open><summary><h10>003 ...{Loading}...</h10></summary>
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अग्निः सूर्यो वापो वा गावो वा घृतं वा
+- ऋषिः - वामदेवो गौतमः
+- छन्दः - त्रिष्टुप्
+</details>
+<details><summary>Thomson & Solcum</summary>
+
+चत्वा꣡रि शृ꣡ङ्गा त्र꣡यो अस्य पा꣡दा  
+दुवे꣡ शीर्षे꣡ सप्त꣡ ह꣡स्तासो अस्य  
+त्रि꣡धा बद्धो꣡ वृषभो꣡ रोरवीति  
+महो꣡ देवो꣡ म꣡र्तियाँ आ꣡ विवेश
+</details>
+<details><summary>Vedaweb annotation</summary>
+
+###### Strata
+Popular for non-linguistic reasons
+
+###### Pāda-label
+genre D  
+genre D  
+genre D  
+genre D
+###### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+catvā́ri ← catúr- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+pā́dāḥ ← pā́da- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śŕ̥ṅgā ← śŕ̥ṅga- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+tráyaḥ ← trí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+dvé ← dvá- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+hástāsaḥ ← hásta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+saptá ← saptá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śīrṣé ← śíras- ~ śīrṣán- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+baddháḥ ← √bandh- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+roravīti ← √rū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+trídhā ← trídhā (invariable)  
+{}
+
+vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+maháḥ ← mahá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mártyān ← mártya- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+viveśa ← √viś- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+</details>
+<details><summary>पद-पाठः</summary>
+
+च॒त्वारि॑ । शृङ्गा॑ । त्रयः॑ । अ॒स्य॒ । पादाः॑ । द्वे इति॑ । शी॒र्षे इति॑ । स॒प्त । हस्ता॑सः । अ॒स्य॒ ।  
+त्रिधा॑ । ब॒द्धः । वृ॒ष॒भः । रो॒र॒वी॒ति॒ । म॒हः । दे॒वः । मर्त्या॑न् । आ । वि॒वे॒श॒ ॥
+</details>
+<details><summary>Hellwig Grammar</summary>
+
+-   *catvāri* ← *catur*
+- \[noun\], nominative, plural, neuter
+- “four; catur \[word\].”
+------------------------------------------------------------------------
+- *śṛṅgā* ← *śṛṅga*
+- \[noun\], nominative, plural, neuter
+- “peak; horn; tusk; śṛṅga \[word\].”
+------------------------------------------------------------------------
+- *trayo* ← *trayaḥ* ← *tri*
+- \[noun\], nominative, plural, masculine
+- “three; tri/tisṛ \[word\].”
+------------------------------------------------------------------------
+- *asya* ← *idam*
+- \[noun\], genitive, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *pādā* ← *pādāḥ* ← *pāda*
+- \[noun\], nominative, plural, masculine
+- “foot; one-fourth; beam; pāda; foot; foundation; pāda \[word\]; leg;
+    leg; animal foot; step; foot; footfall; verse.”
+------------------------------------------------------------------------
+- *dve* ← *dvi*
+- \[noun\], nominative, dual, neuter
+- “two; dvi \[word\]; second.”
+------------------------------------------------------------------------
+- *śīrṣe* ← *śīrṣa*
+- \[noun\], nominative, dual, neuter
+- “head; battlefront; ear; front; śīrṣa \[word\]; tip; skull.”
+------------------------------------------------------------------------
+- *sapta* ← *saptan*
+- \[noun\], nominative, singular, neuter
+- “seven; seventh.”
+------------------------------------------------------------------------
+- *hastāso* ← *hastāsaḥ* ← *hasta*
+- \[noun\], nominative, plural, masculine
+- “hand; hand; proboscis; hasta \[word\]; autograph.”
+------------------------------------------------------------------------
+- *asya* ← *idam*
+- \[noun\], genitive, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *tridhā*
+- \[adverb\]
+- “threefold.”
+------------------------------------------------------------------------
+- *baddho* ← *baddhaḥ* ← *bandh*
+- \[verb noun\], nominative, singular
+- “bandh; tie; envelop; close; dress; wrap; bind; constipate; fixate;
+    shape; paralyze; construct; bandage; compress; beset; oblige; strap;
+    restrain; bind; gesticulate; wear; bar; bandh; connect; stud; mix;
+    obstruct; write; restrain; bind; persecute; enclose; ligature; fill
+    into; fasten.”
+------------------------------------------------------------------------
+- *vṛṣabho* ← *vṛṣabhaḥ* ← *vṛṣabha*
+- \[noun\], nominative, singular, masculine
+- “bull; Vṛṣabha; Vṛṣabha; best.”
+------------------------------------------------------------------------
+- *roravīti* ← *roro* ← *√ru*
+- \[verb\], singular, Present indikative
+- “bellow.”
+------------------------------------------------------------------------
+- *maho* ← *mahaḥ* ← *maha*
+- \[noun\], nominative, singular, masculine
+- “great; abundant.”
+------------------------------------------------------------------------
+- *devo* ← *devaḥ* ← *deva*
+- \[noun\], nominative, singular, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *martyāṃ* ← *martya*
+- \[noun\], accusative, plural, masculine
+- “mortal.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *viveśa* ← *viś*
+- \[verb\], singular, Perfect indicative
+- “enter; penetrate; settle; settle.”
+------------------------------------------------------------------------
+</details>
+<details><summary>सायण-भाष्यम्</summary>
+
+यद्यपि सूक्तस्याग्निसूर्यादिपञ्चदेवताकत्वात् पञ्चधायं मन्त्रो व्याख्येयस्तथापि निरुक्ताद्युक्तनीत्या यज्ञात्मकाग्नेः सूर्यस्य च प्रकाशकत्वेन तत्परतया व्याख्यायते । अस्य यज्ञात्मकस्याग्नेः **चत्वारि** **शृङ्गा** चत्वारो वेदाः शृङ्गस्थानीयाः । यद्यप्यापस्तम्बेन यज्ञं व्याख्यास्यामः स त्रिभिर्वेदैर्विधीयते (परिभा. १. ३ ) इत्युक्तं तथाप्याथर्वणस्य इतरानपेक्षयैव एकाग्निसाध्यानां कृत्स्नकर्मणामभिधायक त्वात्तदपेक्षया चत्वारि शृङ्गेत्युक्तम् । **त्रयो** **अस्य** **पादाः** सवनानि त्रीण्यस्य पादाः । प्रवृत्तिसाधनत्वात् पादा इत्युच्यन्ते । **द्वे** **शीर्षे** ब्रह्मौदनं प्रवर्ग्यश्च । इष्टिसोमप्राधान्येनेदमुक्तम् । **सप्त** **हस्तासः** सप्त छन्दांसि । हस्ता: अनुष्ठानस्य मुख्यसाधनम् । छन्दांस्यपि देवताप्रीणनस्य मुख्यसाधनमिति हस्तव्यवहारः। **त्रिधा** **बद्धः** मन्त्रब्राह्मणकल्पैः त्रिप्रकारं बद्धः । बन्धनमस्य तन्निष्पाद्यत्वम् । **वृषभः** फलानां वर्षिता **रोरवीति** । भृशं शब्दायते । ऋग्यजुःसामोक्थैः शस्त्रयागस्तुतिरूपैर्होत्राद्युत्पादितैर्ध्वनिभिरसौ रौति । एवं **महो** **देवः** **मर्त्यान्** **आ** **विवेश** । मर्त्यैर्यजमानैर्निष्पाद्यत्वात् प्रवेश उपचर्यते । अत्र यास्कः -- ‘ चत्वारिशृङ्गेति वेदा वा एत उक्ताः । ( निरु. १३.७ ) इत्यादिना निरवोचत् । तदत्रानुसंधेयम् ॥ अथ ‘ सूर्यपक्षे व्याख्यायते-- अस्यादित्यस्य चत्वारि शृङ्गाणि चतस्रो दिशः । एताः श्रयणार्थत्वात् शृङ्गाणीत्युपचर्यन्ते । त्रयो अस्य पादाः । त्रयो वेदाः पादस्थानीया भवन्ति गमनसाधनत्वात् । तथा हि - ऋग्भिः पूर्वाह्णे दिवि देव ईयते ' इत्युपक्रम्य • वेदैरशून्यस्त्रिभिरेति सूर्यः ' (तै. ब्रा. ३. १२. ९. १ ) इति हि वेदत्रयेण गतिराम्नाता । द्वे शीर्षे । अहश्च रात्रिश्चेति द्वे शिरसी । सप्त हस्तासो अस्य । सप्त रश्मयः षड्विलक्षणा ऋतव एकः साधारण इति वा सप्त हस्ता भवन्ति । त्रिधा बद्धस्त्रिषु स्थानेषु क्षित्यादिषु अग्न्याद्यात्मकत्वेन संबद्धः । ग्रीष्मवर्षांहेमन्ताख्यैस्त्रिभिस्त्रेधा बद्धो वा । वृषभो वर्षिता रोरवीति । शब्दं करोति वृष्ट्यादिद्वारा । स महो महान् देवो मर्त्यानां विवेश तन्नियन्तृतया। सूर्य आत्मा जगतस्तस्थुषश्च' ( ऋ. सं. १. ११५. १ ) इति हि श्रुतम् ॥ एवं त्वबादिपक्षेऽपि योज्यम् । शाब्दिकास्तु शब्दब्रह्मपरतया चत्वारि शृङ्गेति चत्वारि पदजातानि नामाख्याते चोपसर्गनिपाताश्च इत्यादिना व्याचक्षते । अपरे त्वपरथा । तत्सर्वमत्र द्रष्टव्यम् ॥
+</details>
+<details><summary>Wilson</summary>
+
+###### English translation:
+
+“Four are his horns; three are his feet; his heads are two, his **hands** are seven; the triple-bound showerer (of benefits) roars aloud; the mighty deity has entered among men.”
+
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+This verse is preferentially applied to **Agni**, identified either with **yajña** or with **Āditya**; the four horns of the yajña are the four **vedas**; of Āditya, the four cardinal points of the horizon; the three feet of yajña are the three daily sacrifices; of Āditya, morning, noon, evening; the two heads of yajña are two particular ceremonies termed brahmaudanam and **pravargya**; of Āditya, day and night; the seven hands of yajña are the seven metres; of Āditya, the seven rays, or the six seasons and their aggregate, or the year, the seventh; the term **vṛṣabha** phalānām vaṛsitā, the rainer of rewards, applies to yajña and Āditya; so does roraite, he roars, implying the noise made by the repetition of the **mantras** of the vedas; the three bonds of yajña are: **mantra**, **kalpa** and **brāhmaṇa**, the prayer, the ceremonial; the rationale of Āditya, the three regions, earth, mid-air and heaven; another view is to limit vṛṣabha kāmānam varṣitā to yajña; the four horns are the priests: the **hotā**, **udgātā**, **adhvaryu** and **brahmā**; the three feet are the three vedas; the two heads the **havirdhāna** and pravargya rites; the hands are the seven priests, or seven metres; the three bonds the three daily sacrifices; **Nirukta** 13.7 applies the verse to yajña
+</details>
+<details><summary>Jamison Brereton</summary>
+
+Four are his horns, three his feet; two heads, seven hands are his. Triply bound, the bull keeps on roaring. The great god has entered  mortals.
+</details>
+<details><summary>Jamison Brereton Notes</summary>
+
+Clearly no bull found in nature. The numerology here presumably has to do with items in the ritual. For a conspectus of later interpr., see Witzel Gotō n.
+</details>
+<details><summary>Griffith</summary>
+
+Four are his horns, three are the feet that bear him; his heads are two, his hands are seven in number.  
+     Bound with a triple bond the Steer roars loudly: the mighty God hath entered in to mortals.
+</details>
+<details><summary>Geldner</summary>
+
+Vier Hörner, drei Füße hat er, zwei Köpfe, sieben Hände hat er. Dreifach gefesselt brüllt der Stier. Der große Gott ist in die Sterblichen eingegangen.
+</details>
+<details><summary>Grassmann</summary>
+
+Vier Hörner hat er, auf drei Füssen steht er, zwei Köpfe sind ihm und der Hände sieben-, Dreifach gebunden brüllt der Stier gewaltig, der grosse Gott begab sich zu den Menschen.
+</details>
+<details><summary>Elizarenkova</summary>
+
+Четыре рога, три ноги у него,  
+Две головы, семь рук у него.  
+Громко ревет бык, трижды связанный.  
+Великий бог вошел в бессмертных.
+</details>
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः सूर्यो वाऽपो वा गावो वा घृतं वा
+- वामदेवो गौतमः
+- भुरिक्पङ्क्ति
+- पञ्चमः
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+अब अगले मन्त्र में ईश्वर के विज्ञान को कहते हैं ॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे मनुष्यो ! जो (महः) बड़ा सेवा और आदर करने योग्य (देवः) स्वप्रकाशस्वरूप और सब को सुख देनेवाला (मर्त्यान्) मरणधर्मवाले मनुष्य आदिकों को (आ) सब प्रकार से (विवेश) व्याप्त होता है (वृषभः) और जो सुखों को वर्षानेवाला (त्रिधा) तीन श्रद्धा, पुरुषार्थ और योगाभ्यास से (बद्धः) बँधा हुआ (रोरवीति) निरन्तर उपदेश देता है (अस्य) इस धर्म से युक्त नित्य और नैमित्तिक परमात्मा के बोध के (द्वे) दो उन्नति और मोक्षरूप (शीर्षे) शिरस्थानापन्न (त्रयः) तीन अर्थात् कर्म, उपासना और ज्ञानरूप (पादाः) चलने योग्य पैर (चत्वारि) और चार वेद (शृङ्गा) शृङ्गों के सदृश आप लोगों को जानने योग्य हैं और (अस्य) इस धर्म व्यवहार के (सप्त) पाँच ज्ञानेन्द्रिय वा पाँच कर्मेन्द्रिय अन्तःकरण और आत्मा ये सात (हस्तासः) हाथों के सदृश वर्त्तमान हैं और उक्त तीन प्रकार से बँधा हुआ व्यवहार भी जानने योग्य है ॥३॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  हे मनुष्यो ! इस परमेश्वर से व्याप्त संसार में यज्ञ के चार वेद और नाम, आख्यात, उपसर्ग और निपात विश्व, तैजस, प्राज्ञ, तुरीय और धर्म, अर्थ, काम और मोक्ष आदि शृङ्ग हैं। तीन सवन अर्थात् त्रैकालिक यज्ञकर्म तीन काल कर्म, उपासना, ज्ञान मन, वाणी, शरीर इत्यादि पाद हैं। दो व्यवहार और परमार्थ नित्य, कार्य्य शब्दस्वरूप उदगयन और प्रायणीय अध्यापक और उपदेशक इत्यादि शिर हैं। गायत्री आदि सात छन्द सात विभक्तियाँ, सात प्राण, पाँच कर्म्मेन्द्रिय शरीर और आत्मा इत्यादि सात हस्त हैं। तीन मन्त्र, ब्राह्मण, कल्प और हृदय, कण्ठ, शिर में श्रवण, मनन, निदिध्यासनों में ब्रह्मचर्य्य, श्रेष्ठ कर्म, उत्तम विचारों के बीच सिद्ध यह व्यवहार महान् सत्कर्त्तव्य और मनुष्यों के बीच प्रविष्ट है, यह सब जानें ॥३॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
+
+अन्वय:  हे मनुष्या ! यो महो देवो मर्त्याना विवेश यो वृषभस्त्रिधा बद्धो रोरवीति अस्य परमात्मनो बोधस्य द्वे शीर्षे त्रयः पादाश्चत्वारि शृङ्गा च युष्माभिर्वेदितव्यान्यस्य च सप्त हस्तासस्त्रिधा बद्धो व्यवहारश्च वेदितव्यः ॥३॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+अथेश्वरविज्ञानमाह ॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (चत्वारि) चत्वारो वेदाः (शृङ्गा) शृङ्गाणीव (त्रयः) कर्मोपासनाज्ञानानि (अस्य) धर्म्मव्यवहारस्य (पादाः) पत्तव्याः (द्वे) अभ्युदयनिःश्रेयसे (शीर्षे) शिरसी इव (सप्त) पञ्च ज्ञानेन्द्रियाणि वा कर्म्मेन्द्रियाण्यन्तःकरणमात्मा च (हस्तासः) हस्तवद्वर्त्तमानाः (अस्य) धर्मयुक्तस्य नित्यनैमित्तिकस्य (त्रिधा) श्रद्धापुरुषार्थयोगाभ्यासैः (बद्धः) (वृषभः) सुखानां वर्षणात् (रोरवीति) भृशमुपदिशति (महः) महान् पूजनीयः (देवः) स्वप्रकाशः सर्वसुखप्रदाता (मर्त्यान्) मरणधर्मान् मनुष्यादीन् (आ) समन्तात् (विवेश) व्याप्नोति ॥३॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  हे मनुष्या ! अस्मिन् परमेश्वरव्याप्ते जगति यज्ञस्य चत्वारो वेदा नामाख्यातोपसर्गनिपाता विश्वतैजसप्राज्ञतुरीयधर्मार्थकाममोक्षाश्चेत्यादीनि शृङ्गाणि, त्रीणि सवनानि त्रयः कालाः कर्म्मोपासनाज्ञानानि मनोवाक्छरीराणि चेत्यादीनि पादाः, द्वौ व्यवहारपरमार्थौ नित्यकार्यौ शब्दात्मानावुदगयनप्रायणीया अध्यापकोपदेशकौ चेत्यादीनि शिरांसि, गायत्र्यादीनि सप्त छन्दांसि सप्त विभक्तयः सप्त प्राणाः पञ्च कर्मेन्द्रियाणि शरीरमात्मा चेत्यादयो हस्तास्त्रिषु मन्त्रब्राह्मणकल्पेषूरसि कण्ठे शिरसि श्रवणमनननिदिध्यासनेषु ब्रह्मचर्य्यसुकर्मसुविचारेषु सिद्धोऽयं व्यवहारो महान् सत्कर्तव्यो मनुष्येषु प्रविष्टोऽस्तीति सर्वे विजानन्तु ॥३॥
+</details>
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  हे माणसांनो ! या परमेश्वराने व्याप्त केलेल्या संसारात यज्ञाचे चार वेद व नाम, आख्यात, उपसर्ग व निपात, विश्व, तैजस, प्राज्ञ, तुरीय व धर्म, अर्थ, काम, मोक्ष इत्यादी शृंग आहेत. तीन सवन यज्ञ कर्म, तीन काल, कर्म, उपासना, ज्ञान, मन, वाणी शरीर इत्यादी पाद आहेत. दोन व्यवहार व परमार्थ, नित्य कार्य शब्द स्वरूप उदगयन व प्रायणीय, अध्यापक व उपदेशक इत्यादी मस्तक आहेत. गायत्री इत्यादी सात छन्द, सात विभक्ती, सात प्राण, पाच कर्मेंद्रिये, शरीर व आत्मा इत्यादी हात आहेत. तीन मंत्र, ब्राह्मण, कल्प व ह्रदय, कंठ व मस्तकात श्रवण, मनन, निदिध्यासनात ब्रह्मचर्य, श्रेष्ठ कर्म, उत्तम विचारात सिद्ध हा व्यवहार महान सत्कर्तव्य माणसात प्रविष्ट आहे हे सर्वांनी जाणावे. ॥ ३ ॥
+</details>
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/058/04_tridhA_hitaM.md">
+<details open><summary><h10>०४ त्रिधा हितं ...{Loading}...</h10></summary>
+
+
+त्रिधा॑ +++(क्षीर-दध्य्-आज्य-भेदेन)+++ हि॒तं प॒णिभि॑र् गु॒ह्यमा॑नं॒  
+गवि॑ दे॒वासो॑ घृ॒तम् अन्व॑विन्दन् ।  
+इन्द्र॒ एकं॒ सूर्य॒ एकं॑ जजान  
+वे॒नाद् एकं॑ स्व॒धया॒ निष्ट॑तक्षुः+++(=निरपादयन्)+++ ॥
+
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/058/04_tridhA_hitaM.md">
+<details open><summary><h10>004 ...{Loading}...</h10></summary>
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अग्निः सूर्यो वापो वा गावो वा घृतं वा
+- ऋषिः - वामदेवो गौतमः
+- छन्दः - त्रिष्टुप्
+</details>
+<details><summary>Thomson & Solcum</summary>
+
+त्रि꣡धा हित꣡म् पणि꣡भिर् गुह्य꣡मानं  
+ग꣡वि देवा꣡सो घृत꣡म् अ꣡न्व् अविन्दन्  
+इ꣡न्द्र ए꣡कं सू꣡र्य ए꣡कं जजान  
+वेना꣡द् ए꣡कं स्वध꣡या नि꣡ष् टतक्षुः
+</details>
+<details><summary>Vedaweb annotation</summary>
+
+###### Strata
+Popular for non-linguistic reasons
+
+###### Pāda-label
+genre D  
+genre D  
+genre D  
+genre D
+###### Morph
+guhyámānam ← √guh- (root)  
+{case:NOM, gender:N, number:SG, tense:PRS, voice:PASS}
+
+hitám ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+paṇíbhiḥ ← paṇí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+trídhā ← trídhā (invariable)  
+{}
+
+ánu ← ánu (invariable)  
+{}
+
+avindan ← √vid- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+devā́saḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+gávi ← gáv- ~ gó- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+ghr̥tám ← ghr̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ékam ← éka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ékam ← éka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jajāna ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+sū́ryaḥ ← sū́rya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ékam ← éka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+nís ← nís (invariable)  
+{}
+
+svadháyā ← svadhā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+tatakṣuḥ ← √takṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+venā́t ← vená- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+</details>
+<details><summary>पद-पाठः</summary>
+
+त्रिधा॑ । हि॒तम् । प॒णिऽभिः॑ । गु॒ह्यमा॑नम् । गवि॑ । दे॒वासः॑ । घृ॒तम् । अनु॑ । अ॒वि॒न्द॒न् ।  
+इन्द्रः॑ । एक॑म् । सूर्यः॑ । एक॑म् । ज॒जा॒न॒ । वे॒नात् । एक॑म् । स्व॒धया॑ । निः । त॒त॒क्षुः॒ ॥
+</details>
+<details><summary>Hellwig Grammar</summary>
+
+-   *tridhā*
+- \[adverb\]
+- “threefold.”
+------------------------------------------------------------------------
+- *hitam* ← *dhā*
+- \[verb noun\], accusative, singular
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+------------------------------------------------------------------------
+- *paṇibhir* ← *paṇibhiḥ* ← *paṇi*
+- \[noun\], instrumental, plural, masculine
+- “niggard; paṇ.”
+------------------------------------------------------------------------
+- *guhyamānaṃ* ← *guhyamānam* ← *guh*
+- \[verb noun\], accusative, singular
+- “hide; cover; conceal; shroud; obscure.”
+------------------------------------------------------------------------
+- *gavi* ← *go*
+- \[noun\], locative, singular, masculine
+- “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
+    leather; hide; horn; language; bowstring; earth; ox; Svarga.”
+------------------------------------------------------------------------
+- *devāso* ← *devāsaḥ* ← *deva*
+- \[noun\], nominative, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *ghṛtam* ← *ghṛta*
+- \[noun\], accusative, singular, neuter
+- “ghee; fat.”
+------------------------------------------------------------------------
+- *anv* ← *anu*
+- \[adverb\]
+- “subsequently; behind; along; towards; because.”
+------------------------------------------------------------------------
+- *avindan* ← *vid*
+- \[verb\], plural, Imperfect
+- “find; detect; marry; get; think.”
+------------------------------------------------------------------------
+- *indra* ← *indraḥ* ← *indra*
+- \[noun\], nominative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *ekaṃ* ← *ekam* ← *eka*
+- \[noun\], accusative, singular, neuter
+- “one; single(a); alone(p); some(a); single(a); eka \[word\];
+    alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
+    consistent; any(a); undifferentiated; disjunct.”
+------------------------------------------------------------------------
+- *sūrya* ← *sūryaḥ* ← *sūrya*
+- \[noun\], nominative, singular, masculine
+- “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
+    gigantea Beng.; sūryakānta; sunlight; best.”
+------------------------------------------------------------------------
+- *ekaṃ* ← *ekam* ← *eka*
+- \[noun\], accusative, singular, neuter
+- “one; single(a); alone(p); some(a); single(a); eka \[word\];
+    alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
+    consistent; any(a); undifferentiated; disjunct.”
+------------------------------------------------------------------------
+- *jajāna* ← *jan*
+- \[verb\], singular, Perfect indicative
+- “become; originate; be born; transform; happen; result; grow; beget;
+    produce; create; conceive; separate; cause; give birth; grow;
+    produce; generate; be; become; arise; come on.”
+------------------------------------------------------------------------
+- *venād* ← *venāt* ← *vena*
+- \[noun\], ablative, singular, masculine
+- “Vena.”
+------------------------------------------------------------------------
+- *ekaṃ* ← *ekam* ← *eka*
+- \[noun\], accusative, singular, neuter
+- “one; single(a); alone(p); some(a); single(a); eka \[word\];
+    alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
+    consistent; any(a); undifferentiated; disjunct.”
+------------------------------------------------------------------------
+- *svadhayā* ← *svadhā*
+- \[noun\], instrumental, singular, feminine
+- “free will; offering; libation; nature; svadhā \[word\]; comfort;
+    power.”
+------------------------------------------------------------------------
+- *niṣ* ← *niḥ*
+- \[adverb\]
+- “niḥ; away; out; without.”
+------------------------------------------------------------------------
+- *ṭatakṣuḥ* ← *tatakṣuḥ* ← *takṣ*
+- \[verb\], plural, Perfect indicative
+- “produce; shape; fashion; chisel; invent.”
+------------------------------------------------------------------------
+</details>
+<details><summary>सायण-भाष्यम्</summary>
+
+**पणिभिः** असुरैः **गवि** गोषु **त्रिधा** क्षीरदध्याज्यभेदेन त्रिप्रकारं **हितं** निहितं **गुह्यमानं** गोपितं **घृतं** दीप्तं रसरूपं वा द्रव्यं **देवासः** देवाः **अन्वविन्दन्** अलभन्त । तत्र **इन्द्र** **एकं** क्षीरं **जजान** उदपादयत् । **सूर्य** **एकं** जजान । **वेनात्** कान्तिमतः अग्नेर्गमनवतो वायोर्वा **एकं** घृतं **स्वधया** अन्नेन निमित्तेन द्रव्येण वा साधनेन **निष्टतक्षुः** निरपादयन् देवाः ॥
+</details>
+<details><summary>Wilson</summary>
+
+###### English translation:
+
+“The gods discovered the Ghī concealed by the **Paṇis**, plural ced three-fold in the cow; **Indra** genitive rated one (portion), **Sūrya** another, the (other gods) fabricated one from the resplendent (**Agni**), for the sake of the oblation.”
+
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+The paṇis are **asuras**; the three forms or states in which the ghī was deposited in the cow were milk, curds and butter, of which Indra engendered jajāna, milk, Sūrya butter, and the god (devāsaḥ) fabricated (tatakṣuḥ) curds from the shining, venāt, that is Agni; another rendering is devāsaḥ dvijātayaḥ, the twice-born
+</details>
+<details><summary>Jamison Brereton</summary>
+
+Triply deposited, being hidden by the niggards—the gods discovered the  ghee in the cow.  
+Indra begat one; the Sun begat one; from the seeker they fashioned one  through their own power.
+</details>
+<details><summary>Jamison Brereton Notes</summary>
+
+As was just noted, the Paṇis (niggards) may be indirectly implicated in the verb avamīt in 2d. Here they appear overtly, as the hiders of ghee -- presumably a reference to their stealing of the cows, since the gods find the ghee in the cow in pāda b.
+
+The threefold nature and creation of ghee has been variously interpreted; it again participates in the numerology of the hymn. I do not have a view on it.
+</details>
+<details><summary>Griffith</summary>
+
+That oil in triple shape the Gods discovered laid down within the Cow, concealed by Panis.  
+     Indra produced one shape, Surya another: by their own power they formed the third from Vena.
+</details>
+<details><summary>Geldner</summary>
+
+Dreifach geteilt fanden das von den Pani´s verborgene Ghrita die Götter wieder in der Kuh. Indra hat das eine, Surya das eine erzeugt. Eines haben sie aus dem Seher durch eigene Kraft herausgebildet.
+</details>
+<details><summary>Grassmann</summary>
+
+Die dreigetheilt versteckt war von den Pani's, die Butter fanden in der Kuh die Götter; Die eine zeugte Indra, Surja eine, und eine schufen selbst sie aus Verlangen.
+</details>
+<details><summary>Elizarenkova</summary>
+
+Боги снова нашли в корове жир,  
+Трояко разделенный (и) скрываемый Пани.  
+Индра породил один, Сурья – другой.  
+Третий образовали они своей силой из стремящегося (к богам).
+</details>
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः सूर्यो वाऽपो वा गावो वा घृतं वा
+- वामदेवो गौतमः
+- अनुष्टुप्
+- गान्धारः
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+अब सूर्यदृष्टान्त से विद्वद्विषय को कहते हैं ॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे मनुष्यो ! जैसे (देवासः) विद्वान् जन (पणिभिः) प्रशंसित व्यवहार करनेवालों के साथ (गवि) वाणी में (गुह्यमानम्) गुप्त कराया जाता (त्रिधा) तीन प्रकारों से (हितम्) स्थित और (घृतम्) घृत के सदृश आनन्द देनेवाले विज्ञान को (अनु, अविन्दन्) अनुकूल प्राप्त होते और (स्वधया) अपनी धारण की हुई बुद्धि से (निः, ततक्षुः) निरन्तर विस्तार करते हैं। और जैसे (इन्द्रः) बिजुली (वेनात्) सुन्दर परमात्मा के समीप से (एकम्) अव्यक्त अर्थात् प्रकृति को और (सूर्यः) सूर्य (एकम्) एक को (जजान) उत्पन्न करता है, वैसे आप लोग भी (एकम्) निरन्तर सुख अर्थात् मोक्ष को सिद्ध करो ॥४॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  इस मन्त्र में वाचकलुप्तोपमालङ्कार है। हे मनुष्यो ! जैसे श्रेष्ठ व्यवहारों के साथ वर्त्तमान विद्वान् जन, उत्तम प्रकार शिक्षित वाणी और बुद्धि को तथा बिजुली आदि की विद्या को प्राप्त हो परमेश्वर को जान और उसकी आज्ञा पालन करके सुख का विस्तार करते हैं, वैसे ही सब लोग अच्छा आचरण करें ॥४॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
+
+अन्वय:  हे मनुष्या ! यथा देवासः पणिभिः सह गवि गुह्यमानं त्रिधा हितं घृतमिवान्वविन्दन् स्वधया निष्टतक्षुर्यथेन्द्रो वेनादेकं सूर्यश्चैकं जजान तथा यूयमप्येकमनुतिष्ठत ॥४॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+अथ सूर्यदृष्टान्तेन विद्वद्विषयमाह ॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (त्रिधा) त्रिभिः प्रकारैः (हितम्) स्थितम् (पणिभिः) प्रशंसितैर्व्यवहर्त्तृभिः (गुह्यमानम्) गोप्यमानम् (गवि) वाचि (देवासः) विद्वांसः (घृतम्) घृतमिवानन्दप्रदं विज्ञानम् (अनु) (अविन्दन्) लभन्ते (इन्द्रः) विद्युत् (एकम्) (सूर्यः) सविता (एकम्) निःश्रेयसम् (जजान) जनयति (वेनात्) कमनीयात् परमात्मनः सकाशात् (एकम्) अव्यक्तम् (स्वधया) स्वकीयया धृतया प्रज्ञया (निः) नितराम् (ततक्षुः) विस्तृण्वन्ति ॥४॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  अत्र वाचकलुप्तोपमालङ्कारः। हे मनुष्या ! यथा प्रशंसितैर्व्यवहारैः सह वर्त्तमाना विद्वांसः सुशिक्षितां वाचं प्रज्ञां च लब्ध्वा विद्युदादिविद्यां प्राप्य परमेश्वरं बुद्ध्वा तदाज्ञामनुसृत्य सुखं वितन्वन्ति तथैव सर्वे समाचरन्तु ॥४॥
+</details>
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. हे माणसांनो! श्रेष्ठ व्यवहार करणारे विद्वान सुशिक्षित वाणी व बुद्धी प्राप्त करून विद्युत इत्यादी विद्या शिकतात व परमेश्वराला जाणून त्याच्या आज्ञेचे पालन करून सुख मिळवितात, तसेच सर्व लोकांनी वागावे. ॥ ४ ॥
+</details>
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_4/03_yo_devAnAm.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+यो दे॒वानां᳚ प्रथ॒मं पु॒रस्ता॒द्  
+विश्वा॒धिको॑ रु॒द्रो म॒हर्षिः॑ ।  
+हि॒र॒ण्य॒ग॒र्भं प॑श्यत॒ जाय॑मान॒ꣳ॒  
+स नो॑  दे॒वश् शु॒भया॒ स्मृत्या॒ सय्ँ यु॑नक्तु ॥
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/10_4/03_yo_devAnAm.md">
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+<details><summary>मूलम्</summary>
+
+यो दे॒वानां᳚ प्रथ॒मं पु॒रस्ता॒द्  
+विश्वा॒धिको॑ रु॒द्रो म॒हर्षिः॑ ।  
+हि॒र॒ण्य॒ग॒र्भं प॑श्यत॒ जाय॑मान॒ꣳ॒  
+स नो॑  दे॒वश् शु॒भया॒ स्मृत्या॒ सय्ँ यु॑नक्तु ॥
+</details>
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_4/05_yasmAt_paran.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+यस्मा॒त् पर॒न् नाप॑र॒म् अस्ति॒ किञ्चि॒द्  
+यस्मा॒न् नाणी॑यो॒ न ज्यायो᳚ऽस्ति॒ कश्चि॑त् ।  
+वृ॒ख्ष इ॑व स्तब्धो दि॒वि ति॑ष्ठ॒त्य् एक॒स्  
+तेने॒दं पू॒र्णं पुरु॑षेण॒ सर्व᳚म् ॥ (23)
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/10_4/05_yasmAt_paran.md">
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+<details><summary>मूलम्</summary>
+
+यस्मा॒त् पर॒न् नाप॑र॒म् अस्ति॒ किञ्चि॒द्  
+यस्मा॒न् नाणी॑यो॒ न ज्यायो᳚ऽस्ति॒ कश्चि॑त् ।  
+वृ॒ख्ष इ॑व स्तब्धो दि॒वि ति॑ष्ठ॒त्य् एक॒स्  
+तेने॒दं पू॒र्णं पुरु॑षेण॒ सर्व᳚म् ॥ (23)
+</details>
+</details>
+</div>
+</details>
+</div>  
 
 
 ## 10.5
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="10_5"></div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="10_5">
+<details open><summary><h5>१० ५ ...{Loading}...</h5></summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_5/01_na_karmaNA.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+न कर्म॑णा न प्र॒जया॒ धने॑न॒  
+त्यागे॑नैके अमृत॒त्वम् आ॑न॒शुः ।  
+परे॑ण॒ नाक॒न् निहि॑त॒ङ् गुहा॑याव्ँ  
+वि॒भ्राज॑ते॒ यद् यत॑यो वि॒शन्ति॑ ॥
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/10_5/01_na_karmaNA.md">
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+<details><summary>मूलम्</summary>
+
+न कर्म॑णा न प्र॒जया॒ धने॑न॒  
+त्यागे॑नैके अमृत॒त्वम् आ॑न॒शुः ।  
+परे॑ण॒ नाक॒न् निहि॑त॒ङ् गुहा॑याव्ँ  
+वि॒भ्राज॑ते॒ यद् यत॑यो वि॒शन्ति॑ ॥
+</details>
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_5/03_vedAntavijnAnasunishchitArthAs_sannyAsayogAd.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+वे॒दा॒न्त॒वि॒ज्ञान॒-सुनि॑श्चिता॒र्थास्  
+सन्न्या॑स-यो॒गाद् यत॑यश् शुद्ध॒सत्वाः᳚ ।  
+ते ब्र॑ह्मलो॒के तु॒ परा᳚न्तकाले॒  
+परा॑मृता॒त् परि॑मुच्यन्ति॒  सर्वे᳚ ॥
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/10_5/03_vedAntavijnAnasunishchitArthAs_sannyAsayogAd.md">
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+<details><summary>मूलम्</summary>
+
+वे॒दा॒न्त॒वि॒ज्ञान॒-सुनि॑श्चिता॒र्थास्  
+सन्न्या॑स-यो॒गाद् यत॑यश् शुद्ध॒सत्वाः᳚ ।  
+ते ब्र॑ह्मलो॒के तु॒ परा᳚न्तकाले॒  
+परा॑मृता॒त् परि॑मुच्यन्ति॒  सर्वे᳚ ॥
+</details>
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_5/05_dahrav.N_vipApmam.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+द॒ह्र॒व्ँ वि॒पा॒प्मं प॒रवे᳚श्म-भूत॒य्ँ  
+यत् पु॑ण्डरी॒कं पु॒रम॑द्ध्य-स॒ꣳ॒स्थम् ।  
+त॒त्रा॒पि द॒ह्रङ् ग॒गन॑व्ँ विशोक॒स्  
+तस्मि॑न्  यद् अ॒न्तस् तदुपा॑सित॒व्यम् ॥
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/10_5/05_dahrav.N_vipApmam.md">
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+<details><summary>मूलम्</summary>
+
+द॒ह्र॒व्ँ वि॒पा॒प्मं प॒रवे᳚श्म-भूत॒य्ँ  
+यत् पु॑ण्डरी॒कं पु॒रम॑द्ध्य-स॒ꣳ॒स्थम् ।  
+त॒त्रा॒पि द॒ह्रङ् ग॒गन॑व्ँ विशोक॒स्  
+तस्मि॑न्  यद् अ॒न्तस् तदुपा॑सित॒व्यम् ॥
+</details>
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_5/07_yad_vedAdau.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+यद् वेदादौ स्व॑रः प्रो॒क्तो॒  
+वे॒दान्ते॑ च प्र॒तिष्ठि॑तः ।  
+तस्य॑ प्र॒कृति॑लीन॒स्य॒  
+यः॒ पर॑स्स म॒हेश्व॑रः ॥ (24)
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/10_5/07_yad_vedAdau.md">
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+<details><summary>मूलम्</summary>
+
+यद् वेदादौ स्व॑रः प्रो॒क्तो॒  
+वे॒दान्ते॑ च प्र॒तिष्ठि॑तः ।  
+तस्य॑ प्र॒कृति॑लीन॒स्य॒  
+यः॒ पर॑स्स म॒हेश्व॑रः ॥ (24)
+</details>
+</details>
+</div>
+</details>
+</div>  
 
 
 ## 11-12
@@ -1845,8 +4282,92 @@ ________________________
 </div>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="13-15_AdityaH"></div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="16-19_raudram"></div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="13-15_AdityaH">
+<details open><summary><h5>१३-१५ आदित्यः ...{Loading}...</h5></summary>
+
+###### १३
+आ॒दि॒त्यो वा ए॒ष ए॒तन् म॒ण्डल॒न् तप॑ति॒,  
+तत्र॒ ता ऋच॒स्, तद् ऋ॒चां म॒ण्डल॒ꣳ॒, स ऋ॒चाल्ँ लो॒को,  
+
+ऽथ॒  य ए॒ष ए॒तस्मि॑न् म॒ण्डले॒ ऽर्चिर् दी॒प्यते॒  
+तानि॒ सामा॑नि॒, स सा॒म्नाम् म॒ण्डल॒ꣳ॒, स सा॒म्नाल्ँ लो॒को,  
+
+ऽथ॒  य ए॒ष ए॒तस्मि॑न् म॒ण्डले॒ ऽर्चिषि॒ पुरु॑ष॒स्  
+तानि॒ यजूꣳ॑षि॒, स यजु॑षां म॒ण्डल॒ꣳ॒, स यजु॑षाल्ँ लो॒कस्,  
+
+सैषा  त्र॒य्य् एव॑ वि॒द्या त॑पति॒,  
+य ए॒षो᳚न्तर् आ॑दि॒त्ये हि॑र॒ण्मयः॒ पुरु॑षः । (28)
+
+
+###### १४
+आ॒दि॒त्यो वै तेज॒ ओजो॒ बल॒य्ँ यश॒श्  
+चक्षु॒श् श्रोत्र॑म्  
+आ॒त्मा मनो॑ म॒न्युर् मनु॑र् मृ॒त्युस्  
+स॒त्यो मि॒त्रो  
+वा॒युर् आ॑का॒शः प्रा॒णो  लो॑कपा॒लः  
+कः किङ्कन्तथ् स॒त्यम् अन्न॒म् आयु॑र् अ॒मृतो॑ जी॒वो विश्वः॑  
+कत॒मस् स्व॑यं॒भुः प्र॒जाप॑तिस् सव्ँवथ्स॒र इति॑
+
+सव्ँवथ्स॒रो॑ ऽसावा॑दि॒त्यो  
+य ए॒ष पुरु॑ष  
+ए॒ष भू॒ताना॒म् अधि॑पति॒र्  
+ब्रह्म॑ण॒स् सायु॑ज्यꣳ सलो॒कता॑म् आप्नोत्य्  
+ए॒तासा॑मे॒व दे॒वता॑ना॒ꣳ॒  सायु॑ज्यꣳ सा॒र्ष्टिताꣳ॑ समानलो॒कता॑म् आप्नोति॒  
+य ए॒वव्ँ वेदे᳚त्युप॒निषत् । (29)
+
+###### १५
+घृणि॒स्सूर्य॑,  
+आदि॒त्यम् अ॑र्चयन्ति॒,  
+तप॑स्स॒त्यं, मधु॑ ख्षरन्ति॒,  
+तद्ब्रह्म॒, तदाप॒ आपो॒ ज्योती॒रसो॒ऽमृतं॒  ब्रह्म॒ भूर्भु॑व॒स्सुव॒रोम् । (30)
+
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="16-19_raudram">
+<details open><summary><h5>१६-१९ रौद्रम् ...{Loading}...</h5></summary>
+
+
+###### 16
+
+सर्वो॒ वै रु॒द्रस्तस्मै॑ रु॒द्राय॒ नमो॑ अस्तु ।  
+पुरु॑षो॒ वै रु॒द्रस्सन्म॒हो नमो॒ नमः॑ ।  
+विश्वं॑ भू॒तं  भुव॑नञ्चि॒त्रं ब॑हु॒धा जा॒तञ्जाय॑मानञ्च॒ यत् ।  
+सर्वो॒ ह्ये॑ष रु॒द्रस्तस्मै॑ रु॒द्राय॒ नमो॑ अस्तु ॥ (31)
+
+
+
+###### 17
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/17_kad_rudrAya.md">
+<details open><summary><h10>१७ कद् रुद्राय ...{Loading}...</h10></summary>
+
+
+कद्रु॒द्राय॒ प्रचे॑तसे  
+मी॒ढुष्ट॑माय॒ तव्य॑से ।  
+वो॒चेम॒ शन्त॑मꣳ हृ॒दे ।  
+</details>
+</div>  
+
+
+सर्वो॒ ह्ये॑ष रु॒द्रस्  
+तस्मै॑ रु॒द्राय॒ नमो॑ अस्तु । (32)
+
+
+
+###### 18
+
+नमो हिरण्यबाहवे हिरण्यपतये ऽम्बिकापतय उमापतये॑ नमो॒ नमः । (33)
+
+
+
+###### 19
+
+यस्य॒ वैक॑ङ्कत्यग्निहोत्र॒हव॑णी भवति॒  
+प्रति॑ष्ठिताः॒ प्रत्ये॒वास्याहु॑तयस् तिष्ठ॒न्त्य्, अथो॒ प्रति॑ष्ठित्यै । (34)
+
+
+</details>
+</div>  
 
 
 ## 20
@@ -1864,13 +4385,82 @@ ________________________
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="22_Apo_vA_idam/"></div>  
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="22_Apo_vA_idam/">
+<details open><summary><h2>२२ आपो वा इदम् ...{Loading}...</h2></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आपो॒ वा इ॒दꣳ सर्वं॒  
+विश्वा॑ भू॒तान्य् आपः॑  
+प्रा॒णा वा आपः॑  
+प॒शव॒ आपो, ऽन्न॒म् आपो, ऽमृ॑त॒म् आपः॑  
+स॒म्राड् आपो॑, वि॒राड् आपः॑, स्व॒राड् आप॒श्  
+छन्दा॒ꣳ॒स्य् आपो॒, ज्योती॒ꣳ॒ष्य् आपो॒, यजू॒ꣳ॒ष्य् आप॑स्,  
+स॒त्यम् आप॒स्, सर्वा॑ दे॒वता॒ आपो॒,  
+भूर् भुव॒स् सुव॒र् आप॒  
+ॐ ॥
+</details>
+<details><summary>मूलम्</summary>
+
+आपो॒ वा इ॒दꣳ सर्वं॒  
+विश्वा॑ भू॒तान्यापः॑  
+प्रा॒णा वा आपः॑  
+प॒शव॒ आपो ऽन्न॒मापो ऽमृ॑त॒म् आपः॑  
+स॒म्राडापो॑ वि॒राडापः॑ स्व॒राडाप॒श्  
+छन्दा॒ꣳ॒स्यापो॒ ज्योती॒ꣳ॒ष्यापो॒ यजू॒ꣳ॒ष्याप॑स्  
+स॒त्यमाप॒स् सर्वा॑ दे॒वता॒ आपो॒  
+भूर्भुव॒स्सुव॒राप॒ ॐ ॥
+</details>
+</details>
+</div>  
 
 
 
 ## 23
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="23_ApaH_punantu"></div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="23_ApaH_punantu">
+<details open><summary><h5>२३ आपः पुनन्तु ...{Loading}...</h5></summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/23_ApaH_punantu/01_ApaH_punantu.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+आपः॑ पुनन्तु पृथि॒वीं  
+पृ॑थि॒वी पू॒ता पु॑नातु॒ माम् ।  
+पु॒नन्तु॒ ब्रह्म॑ण॒स्पति॒र्  
+ब्रह्म॑पू॒ता पु॑नातु॒ माम् ॥
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/23_ApaH_punantu/01_ApaH_punantu.md">
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+<details><summary>मूलम्</summary>
+
+आपः॑ पुनन्तु पृथि॒वीं  
+पृ॑थि॒वी पू॒ता पु॑नातु॒ माम् ।  
+पु॒नन्तु॒ ब्रह्म॑ण॒स्पति॒र्  
+ब्रह्म॑पू॒ता पु॑नातु॒ माम् ॥
+</details>
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/23_ApaH_punantu/03_yaduchChiShTam_abhojyay.N.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+यदुच्छि॑ष्ट॒म् अभो᳚ज्य॒य्ँ  
+यद्वा॑ दु॒श्चरि॑तं॒ मम॑ ।  
+सर्वं॑ पुनन्तु॒ मामापो॑  
+ऽस॒ताञ्च॑ प्रति॒ग्रह॒ꣳ॒ स्वाहा᳚ ॥ (38)
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/23_ApaH_punantu/03_yaduchChiShTam_abhojyay.N.md">
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+<details><summary>मूलम्</summary>
+
+यदुच्छि॑ष्ट॒म् अभो᳚ज्य॒य्ँ  
+यद्वा॑ दु॒श्चरि॑तं॒ मम॑ ।  
+सर्वं॑ पुनन्तु॒ मामापो॑  
+ऽस॒ताञ्च॑ प्रति॒ग्रह॒ꣳ॒ स्वाहा᳚ ॥ (38)
+</details>
+</details>
+</div>
+</details>
+</div>  
 
 
 
@@ -1953,13 +4543,780 @@ ________________________
 
 ## 26
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="26_AyAtu_varadA/"></div>  
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="26_AyAtu_varadA/">
+<details open><summary><h2>२६ आयातु वरदा ...{Loading}...</h2></summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/26_AyAtu_varadA/01_AyAtu_varadA.md">
+<details open><summary><h6>विश्वास-प्रस्तुतिः ...{Loading}...</h6></summary>
+
+आया॑तु॒ वर॑दा दे॒वी॒  
+अ॒ख्षरं॑ ब्रह्म॒संमि॑तम् ।  
+गा॒य॒त्री᳚ञ् छन्द॑सां  
+मा॒तेदं ब्र॑ह्म जु॒षस्व॑ नः ।
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/26_AyAtu_varadA/01_AyAtu_varadA.md">
+<details open><summary><h6>सर्वाष् टीकाः ...{Loading}...</h6></summary>
+<details><summary>मूलम्</summary>
+
+आया॑तु॒ वर॑दा दे॒वी॒  
+अ॒ख्षरं॑ ब्रह्म॒संमि॑तम् ।  
+गा॒य॒त्री᳚ञ् छन्द॑सां  
+मा॒तेदं ब्र॑ह्म जु॒षस्व॑ नः ।
+</details>
+</details>
+</div>
+<details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
+
+ओजो॑ऽसि।  
+सहो॑ऽसि।  
+बल॑मसि।  
+भ्राजो॑ऽसि।  
+दे॒वाना॒न् धाम॒ नामा॑सि॒।  
+विश्व॑म् असि वि॒श्वायु॒स्,  
+सर्व॑म् असि स॒र्वायुः॑।  
+अ॒भि॒भूर् [ओङ् गायत्रीम् आवा॑हयामि । (41)]
+</details>
+<details><summary>विश्वास-टिप्पनी - यजुः</summary>
+
+श्येनरूपेणागताया आवाहने कल्पनम् -
+
+- प्रातः - बाला रक्ता हंसवाहना जपमालाहस्ता ब्राह्मीरूपा, 
+- मधाह्ने - युवती सावित्री वृषवाहना शूलहस्ता रोद्ररूपिणी, 
+- सायम् - वृद्धा सरस्वती गरुडवाहना चक्रहस्ता वैष्णवरूपा। 
+</details>
+<details><summary>मूलम्</summary>
+
+ओजो॑ऽसि।  
+सहो॑ऽसि।  
+बल॑मसि।  
+भ्राजो॑ऽसि।  
+दे॒वाना॒न् धाम॒ नामा॑सि॒।  
+विश्व॑म् असि वि॒श्वायु॒स्,  
+सर्व॑म् असि स॒र्वायुः॑।  
+अ॒भि॒भूर् [ओङ् गायत्रीम् आवा॑हया॒मि । (41)]
+</details>
+</details>
+</div>  
 
 
 
 ## 27
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="27_sashiro_gAyatrI"></div>  
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="27_sashiro_gAyatrI">
+<details open><summary><h2>२७ सशिरो गायत्री ...{Loading}...</h2></summary>
+
+### शिरः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ओं भूः । ओं भुवः॑ । ओꣳ सुवः॑ । ओं महः॑ । ओञ्जनः॑ । ओं तपः॑ । ओꣳ स॒त्यम् ।
+</details>
+<details><summary>मूलम्</summary>
+
+ओं भूः । ओं भुवः॑ । ओꣳ सुवः॑ । ओं महः॑ । ओञ्जनः॑ । ओं तपः॑ । ओꣳ स॒त्यम् ।
+</details>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/062/10_tatsaviturvareNyaM_bhargo.md">
+<details open><summary><h5>१० तत्सवितुर्वरेण्यं भर्गो ...{Loading}...</h5></summary>
+
+तत् सवि॒तुर् वरे॑ण्य+++(णिय)+++म्  
+भर्गो॑+++(=भर्जनम्)+++ दे॒वस्य॑ धीमहि+++(←धा धारणे/ ध्यै ध्याने / धी आराधने)+++ ।  
+धियो॒ यो नः॑ प्रचो॒दया॑त् ॥  
+(प॒रो-र॑जसे॒ ऽसाव॒द् ओ३म् ॥)
+
+<details><summary>प्रचोदयात्-स्वरः</summary>
+
+प्र + चुद् + णिच् उदात्तः + शप् अनुदात्तः पित्त्वात् + [लेट् → आट् + तिप् अनुदात्तः पित्त्वात्]।  
+
+प्रानुदात्तत्वं तिङन्तस्योदात्तवत्त्वात्। तच्च यत्कारसद्भावात्।
+</details>
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/062/10_tatsaviturvareNyaM_bhargo.md">
+<details open><summary><h5>010 ...{Loading}...</h5></summary>
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - सविता
+- ऋषिः - गाथिनो विश्वामित्रः
+- छन्दः - गायत्री
+</details>
+<details><summary>Thomson & Solcum</summary>
+
+त꣡त् सवितु꣡र् व꣡रेणियम्  
+भ꣡र्गो देव꣡स्य धीमहि  
+धि꣡यो यो꣡ नः प्रचोद꣡यात्
+</details>
+<details><summary>Vedaweb annotation</summary>
+
+###### Strata
+Strophic on metrical evidence alone
+
+###### Pāda-label
+genre M  
+genre M  
+genre M
+###### Morph
+savitúḥ ← savitár- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+váreṇyam ← váreṇya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bhárgaḥ ← bhárgas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+devásya ← devá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dhīmahi ← √dhā- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+
+dhíyaḥ ← dhī́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pracodáyāt ← √cud- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+</details>
+<details><summary>पद-पाठः</summary>
+
+तत् । स॒वि॒तुः । वरे॑ण्यम् । भर्गः॑ । दे॒वस्य॑ । धी॒म॒हि॒ ।  
+धियः॑ । यः । नः॒ । प्र॒ऽचो॒दया॑त् ॥
+</details>
+<details><summary>Hellwig Grammar</summary>
+
+-   *tat* ← *tad*
+- \[noun\], accusative, singular, neuter
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *savitur* ← *savituḥ* ← *savitṛ*
+- \[noun\], genitive, singular, masculine
+- “Savitar; sun; Surya; Savitṛ.”
+------------------------------------------------------------------------
+- *vareṇyam* ← *vareṇya*
+- \[noun\], accusative, singular, neuter
+- “excellent; desirable.”
+------------------------------------------------------------------------
+- *bhargo* ← *bhargaḥ* ← *bhargas*
+- \[noun\], accusative, singular, neuter
+------------------------------------------------------------------------
+- *devasya* ← *deva*
+- \[noun\], genitive, singular, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *dhīmahi* ← *dhā*
+- \[verb\], plural, Root aorist (Ind.)
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+------------------------------------------------------------------------
+- *dhiyo* ← *dhiyaḥ* ← *dhī*
+- \[noun\], accusative, plural, feminine
+- “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
+    knowledge.”
+------------------------------------------------------------------------
+- *yo* ← *yaḥ* ← *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *naḥ* ← *mad*
+- \[noun\], genitive, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *pracodayāt* ← *pracoday* ← *√cud*
+- \[verb\], singular, Present conjunctive (subjunctive)
+- “push; drive; command; excite; proclaim; demand; request; request.”
+------------------------------------------------------------------------
+</details>
+<details><summary>ब्राह्मणोद्धरणानि</summary>
+
+सविता वै प्रसवानामीशे॥
+
+ऋचस्सामानि यजूंषि ।  
+सा हि श्रीरमृता सताम् ।  
+सर्वेभ्यो वै वेदेभ्यः  
+सावित्र्यनूच्यते॥
+</details>
+<details><summary>सायण-भाष्यम्</summary>
+
+**यः** सविता देवः **नः** अस्माकं **धियः** कर्माणि धर्मादिविषया वा बुद्धीः **प्रचोदयात्** प्रेरयेत्  
+**तत्** तस्य **देवस्य** **सवितुः** सर्वान्तर्यामितया प्रेरकस्य जगत्स्रष्टुः परमेश्वरस्य **वरेण्यं** सर्वैः उपास्यतया ज्ञेयतया च संभजनीयं **भर्गः** अविद्यातत्कार्ययोर्भर्जनाद्भर्गः स्वयंज्योतिः परब्रह्मात्मकं तेजः **धीमहि** वयं ध्यायामः । 
+
+यद्वा । **तत्** इति भर्गोविशेषणम् । **सवितुः देवस्य** तत्तादृशं **भर्गो धीमहि**। किं तदित्यपेक्षायामाह । **यः** इति लिङ्गव्यत्ययः। यद्भर्गो **धियः प्रचोदयात्** । तत् ध्यायेमेति समन्वयः। 
+
+यद्वा । **यः सविता** सूर्यो **धियः** कर्माणि **प्रचोदयात्** प्रेरयति **तस्य सवितुः** सर्वस्य प्रसवितुः **देवस्य** द्योतमानस्य सूर्यस्य तत्सर्वैः दृश्यमानतया प्रसिद्धं **वरेण्यं** सर्वैः संभजनीयं **भर्गः** पापानां तापकं तेजोमण्डलं **धीमहि** ध्येयतया मनसा धारयेम । 
+
+यद् वा - **भर्गः**-शब्देनान्नम् अभिधीयते ।  
+**यः सविता देवो धियः** प्रचोदयति तस्य प्रसादाद् **भर्गो** ऽन्नादि-लक्षणं फलं **धीमहि** धारयामः । तस्याधार-भूता भवेमेत्य् अर्थः । **भर्गः**-शब्दस्यान्नपरत्वे **धी**-शब्दस्य कर्मपरत्वे चाथर्वणं - ‘ वेदांश्छन्दांसि सवितुर्वरेण्यं भर्गो देवस्य कवयोऽन्नमाहुः । कर्माणि धियस्तदु ते प्रब्रवीमि प्रचोदयत्सविता याभिरेति' (गो. ब्रा. १. ३२) इति ॥ 
+
+**भर्गः** ।  ‘ भ्रस्ज पाके'। असुन् ।  ‘ भ्रस्जो रोपधयो रमन्यतरस्याम् ' ( पा. सू. ६. ४. ४७ ) इति रोपधयोर्लोपो रमागमः । न्यङ्वांरसदिपाठात् कुत्वम् । 
+
+**धीमहि** । ध्यायतेर्लिङि 'बहुलं छन्दसि ' इति 'संप्रसारणम् । व्यत्ययेनात्मनेपदम् ।  
+यद्वा - ‘धीङ् आधारे' । लिङि  ‘ बहुलं छन्दसि ' इति विकरणस्य लुक् ।  
+
+**प्रचोदयात्** । चोदयतेर् लेट्याडागमः । यद्-वृत्त-योगाद् अनिघातः । आगमस्यानुदात्तत्वे णिचः स्वरः ॥ ॥ १० ॥
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+**तत्** तस्य 'सुपां सुलुक्' इति षष्ठ्या लुक् । तस्य **सवितुः देवस्य** दाना[देवना]दिगुणयुक्तस्य स्वभूतं तत्प्रसादलभ्यं वा अत एव **वरेण्यं** वरणीयं सर्वैः प्रार्थनीयं **भर्गः** तेजः अन्नं धनं वा वयं **धीमहि** धारयेम तस्यैव प्रसादात् तस्याधारभूता भवेम । धीङ् आधारे दैवादिकः । 'छन्दसि लुङ्लङ्लिटः' इति लङि 'बहुलं छन्दस्यमाङ्' इत्यडभावः । दधातेर्वा लिङ् । सर्वत्र 'बहुलं छन्दसि' इति शपोलुक् ।   
+
+कस्येत्याह - **यो** देवस्सवितास्माकं **धियः** कर्माणि प्रचोदयात् **प्रचोदयेत्** प्रवर्तयेत् । 
+
+यद्वा - **धियः** धर्मादिगोचराः बुद्धीः **प्रचोदयात्** प्रेरयेत् । लेट्य् आडागमः । 
+
+तस्य सवितुर् इति - यद्वा - **सवितुर् देवस्य तद्** अन्नादि **धीमहि** ।  
+किमित्याह - **य** इति । लिङ्गव्यत्ययः । **यद्** अस्माकं धियः **प्रचोदयात्** प्रेरयति । 
+
+यद्वा - **यो देवस् सविता** विश्वस्य प्रसवितास्माकं धर्मादिगोचराः **धियः** प्रेरयति तस्य स्वभूतं **वरेण्यं** सर्वैर्भजनीयं **भर्गः** पापानां तापनं तेजो मण्डलात्मकं **धीमहि** मनसा धारयामः । ध्यायतेरेव वा छान्दसं सम्प्रसारणम् । 
+
+एवं बोधप्रकाशाभ्यां समस्तस्य प्रपञ्चस्य उपकुर्वाणं श्रेयोर्थिभिर् भजनीयं सूर्यात्मना स्थितं पारमेश्वरं तेज उपास्यत्वेन उपदिश्यते ॥
+</details>
+<details><summary>हरदत्तः</summary>
+
+अथ सावित्री - तत्सवितुरिति ॥  
+**तच्**-छब्दश्रुतेः यच्-छब्दोभ्याहर्तव्यः । **यत्** सर्वेषां ध्येयं तद्देवस्य **सवितुः वरेण्यं** वरणीयं **भर्गः** पापानां भर्जनं तेजोमयं रूपं वयं **धीमहि** ध्यायामः । कीदृशस्य सवितुः? **यो नः** अस्माकं सर्वेषां **धियो** धर्मादिविषया वृद्धिः **प्रचोदयात्** प्रेरयेत् । 
+
+सवित्राभ्यनुज्ञातो हि सर्वोपि कर्म करोति सविता वै प्रसवानामीशे इति ब्राह्मणम् ॥
+</details>
+<details><summary>विद्यारण्यः</summary>
+
+अथ सर्वदेवात्मनः सर्वशक्तेः सर्वावभासक-तेजो-मयस्य परमात्मनः सर्वात्मकत्व-द्योतनार्थं सर्वात्मकत्व-प्रतिपादक-गायत्री-महा-मन्त्रस्योपासन-प्रकारः प्रकाश्यते ।  
+
+तत्र गायत्रीं प्रणवादि-सप्त-व्याहृत्य्-उपेतां शिरःसमेतां सर्व-वेद-सारम् इति वदन्ति। एवं-विशिष्टा गायत्री प्राणायामैर् उपास्या ।  
+सप्रणव- व्याहृति-त्रयोपेता प्रणवान्ता गायत्री जपादिभिर् उपास्या ।
+
+तत्र शुद्ध-गायत्री प्रत्यग्-ब्रह्मैक्य-बोधिका ।  
+
+**धियो यो नः प्रचोदयाद्** इति । **नो** ऽस्माकं, **धियो** बुद्धिय, **प्रचोदयाद्** प्रेरयेदिति सर्वबुद्धि-संज्ञातः करण-प्रकाशक-सर्व-साक्षी प्रत्यग्-आत्मेत्य् उच्यते । तस्य प्रचोदयात्-शब्द-निर्दिष्टस्यात्मनः स्वरूप भूतं परं ब्रह्म **तत् सवितुर्** इति+आदि-पदैर् निर्दिश्यते ।
+
+"तत्र ओं तत् सद् इति निर्देशो ब्रह्मणस् त्रिविधः स्मृतः" इति **तच्**-छब्देन प्रत्यग्भूतं स्वतः सिद्धं परं ब्रह्मोच्यते ।  
+
+**सवितुर्** इति सृष्टिस्थितिलय-लक्षणकस्य सर्व-प्रपञ्चस्य समस्त-द्वैत-विभ्रमस्याधिष्ठानं लक्ष्यते ।  
+**वरेण्यम्** इति सर्व-वरणीयं निरतिशयानन्द-रूपम् ।  
+**भर्ग** इत्य् अविद्यादि- दोष-भर्जनात्मक-ज्ञानैक-विषयम् ।  
+**देवस्येति** सर्व-द्योतनात्मकाखण्ड-चिद्-एक-रसम् ।  
+**सवितुर् देवस्येत्यत्र** षष्ठ्यर्थो राहोः शिर इतिवद् औपचारिकः बुद्ध्यादि-सर्व-दृश्य-साक्षि-लक्षणं यन् मे स्व-रूपं तत्-सर्वाधिष्ठान-भूतं परमानन्दं निरस्त-समस्तानर्थ-रूपं स्व-प्रकाश-चिद्-आत्मकं ब्रह्मेत्य् एवं **धीमहि** ध्यायेम ।
+
+एवं सति सह ब्रह्मणा स्व-विवर्त-जड-प्रपञ्चस्य रज्जु-सर्प-न्यायेन अपवाद-सामानाधिकरण्य-रूपम् एकत्वं, सोऽयम् इति न्यायेन सर्व-साक्षि-प्रत्यग्-आत्मनो ब्रह्मणा सह तादात्म्य-रूपम् एकत्वं भवतीति सर्वात्मक-ब्रह्म-बोधकोऽयं गायत्री-मन्त्रः सम्पद्यते ।
+
+सप्तव्याहृतिनामयमर्थः---
+
+**भूर्** इति सन्-मात्रम् उच्यते  
+**भुव** इति सर्वं भावयति प्रकाशयतीति व्युत्पत्त्या चिद्-रूपम् उच्यते ।  
+**सुवर्** इति - सुव्रियत इति व्युत्पत्त्या, सुष्ठु सर्वैर् व्रियमाण-सुख-स्वरूपम् उच्यते ।  
+**मह** इति महीयते पूज्यत इति व्युत्पत्त्या सर्वातिशयत्वम् उच्यते ,  
+**जन** इति---जनयतीति जनः, सकल-कारणत्वमुच्यते ।  
+**तप** इति सर्व-तेजो-रूपत्वम् ।  
+**सत्यम्** इति सर्व-बाध-रहितम् ।
+
+एतद् उक्तं भवति---  
+यल् लोके सद् रूपं तदोंकार-वाच्यं ब्रह्मैव, आत्मनोऽस्य सच्-चिद्-रूप-स्वभावाद् इति ।  
+अथ भूरादयः सर्वलोका ओंकार-वाच्य-ब्रह्मात्मकाः,  
+न तद्-व्यतिरिक्तं किंचिद् अस्तीति व्याहृतयो ऽपि सर्वात्मक-ब्रह्मबोधिकाः ।
+
+गायत्री-शिरसोऽप्य् अयम् एवार्थः---  
+**आप** इत्य् आप्नोतीति व्युत्पत्त्या व्यापित्वम् उच्यते  
+**ज्योतिर्** इति प्रकाशरूपत्वम् ।  
+**रस** इति सर्वातिशयत्वम् ।  
+**अमृतम्** इति मरणादि संसारनिर्मुक्तत्वम् ।  
+सर्व-व्यापि-सर्व-प्रकाशक-सर्वोत्कृष्ट-नित्य-मुक्तम् आत्मरूपं सच्-चिद्-आत्मकं यद् ओंकार-वाच्यं **ब्रह्म** तद् अहम् अस्मि ।
+
+इति गायत्रीमन्त्रस्यार्थः ।
+
+गुहाशय-ब्रह्म-हुताशनोऽहं  
+कर्त्रेदम् अंशाख्य-हविर्-हुतं सत्।  
+विलीयते नेदम् अहं भवानीत्य्  
+एष प्रकारस् तु विभिद्यतेऽत्र ॥
+
+यद् अस्ति यद् भाति तद् आत्मरूपं  
+नान्यत् ततो भाति न चान्यद् अस्ति ।  
+स्वभाव-संवित्-प्रविभाति केवला  
+ग्राह्यं ग्रहीतेति मृषैव कल्पना ॥
+</details>
+<details><summary>विश्वामित्रः</summary>
+
+देवस्य सवितुस् तस्य  
+धियो यो नः प्रचोदयात् ।  
+भर्गो वरेण्यं तत् ब्रह्मा  
+धीमहीत्य् अर्थ उच्यते ।
+
+यो देवस् सविताऽस्माकं  
+धियो धर्मादिगोचराः ।  
+प्रेरयेत् तस्य यद् भर्गस्  
+तद्वरेण्यम् उपास्महे ।
+
+…
+आदित्यमण्डलासीनं  
+रुक्माभं पुरुषं परम् ।  
+ध्यायञ् जपेत् तद् इत्य् एतां  
+निष्कामो मुच्यतेऽचिरात् ॥  
+सुप्रभं सत्यम् आनन्दं  
+हृदये मण्डलेऽपि च ।  
+ध्यायन् जपेत् तदित्येतां  
+निष्कामो मुच्यतेऽचिरात् ॥
+
+> स यश्चायं पुरुषे यश् चासाव् आदित्ये स एकः 
+
+इति ध्यानार्थः॥
+
+</details>
+<details><summary>विद्यारण्यः - हिन्दी </summary>
+
+शुद्ध गायत्री जीवात्मा और ब्रह्म की एकता का सूचक है। ‘धियोयोनः प्रचोदयात्’ अर्थात् हमारी बुद्धि को प्रेरणा देता है तथा जो अन्तःकरण की प्रकाशिका तथा सर्व साक्षी है उसे प्रत्यगात्मा कहा जाता है।
+उस प्रचोदयात् शब्द से आत्मा स्वरूप भूत परब्रह्म का तत् सवितुः आदि पदों से कथन किया है।
+यहां ‘ॐ’ तत्सत् इस पद से ब्रह्म के तीन प्रकारों का वर्णन है। तत् शब्द स्वतः सिद्ध सब भूतों में स्थित परब्रह्म के लिए कहा जाता है। सविता, सृष्टि, स्थिति, प्रलय लक्षण वाले सब प्रपंच के, समस्त द्वैत भ्रम के अधिष्ठान हैं। वरेण्यं सर्व वरणीयं, निरतिशय एवं आनन्द रूप है। ‘भर्ग’ अविद्या रूपी दोष को नष्ट करने वाला ज्ञान रूप है। ‘देवस्य’ सबका प्रकाशक अखण्ड-आत्मा एवं रस वाला देव है। ‘सवितुर्देवस्य’ यहां षष्ठी है। सम्बन्ध कारक है। राहोः शिरो की तरह औपचारिक है। बुद्धि से सब पदार्थों का साक्षी रूप जो मेरा स्वरूप है वह सब का अधिष्ठान है। उस परमानन्द, सब अनर्थ रहित, स्वयं प्रकाश चैतन्य रूप ब्रह्म का ध्यान करते हैं। इस तरह ब्रह्म अपने ही विवर्त भूत जड़ जगत रज्जु में सर्प की तरह अपवाद है।
+समान अधिकरण होने से एक रूपता है। इस तरह सब का साक्षी जीवात्मा ब्रह्म के साथ तादात्म्य होने के कारण एकत्व है। यह गायत्री मंत्र सर्वात्मक ब्रह्म का बोध कराने वाला है। तीन महाव्याहृतियों का अर्थ यों है। भूः का अर्थ सत है, भुवः सब का प्रकाशक (इस व्युत्पत्ति से चिद् रूप कहलाता है) स्वः सुव्रियते इस व्युत्पत्ति से सबसे प्रथिति सुख रूप है।
+</details>
+<details><summary>वेङ्कटनाथः</summary>
+
+> प्रतिपुरुषम् अनेकाः, प्रत्य्-अवस्थं विचित्राश्  
+शुभ-गतिषु **धियो नश् चोदयत्य्** अञ्जसा **नः** ।  
+अखिल-चिद्-अचिद्-अन्तर्-यामि-तद्-विष्णु-संज्ञं  
+**सवितुर्** अहम् उपासे **तस्य देवस्य भर्गः** ॥
+
+इति शतदूषणी।
+
+> तेजः परं **तत् सवितुर् वरेण्यं**  
+धाम्ना परेणाप्रणखात् सुवर्णम् ।  
+त्वां पुण्डरीकेक्षणम् आमनन्ति  
+श्रीरङ्गनाथं समुपासिषीया ।
+
+इति श्रीरङ्गराजस्तवः।
+</details>
+<details><summary>चिन्नाण्डवन् - आह्निकार्थप्रकाशिका</summary>
+
+… अनयोर् वचनयोर् भर्गशब्दस्य तेजःपरत्वेन  
+यच्-छब्दस्य सवितृ-परत्वेन च व्याख्यानं कृतं वरदराजीये -  
+तच्-छब्द-श्रुतेर् यच्छब्दो ऽध्याहर्तव्यः ।
+
+सवितुः जगतां प्रसवितुः,
+
+> सवि॒ता वै प्र॑स॒वाना॑मीशे,  
+> उ॒तेशि॑षे प्रस॒वस्य॒ त्वमेक॒
+
+इति श्रुतेः ।
+
+**वरेण्यं** वृङ् संभक्तौ एण्यप्रत्ययः ।
+
+सर्वेषां भजनीयं **भर्गः** तेजः ।  
+भञ्जनाद् भर्गः, प्रकाश-प्रदानेन जगतो बाह्यान्तर-तमो-भञ्जकत्वाद् वा,  
+भर्जनाद् वा कालात्मकतया सकल-कर्म-फल-पाक-हेतुत्वात्,  
+भरणाद् वा वृष्टि-प्रदानेन भूतानां भरण-हेतुत्वात् ।
+
+**देवस्य** द्योतमानस्य **धीमहि** चिन्तयामः ।  
+"ध्यै चिन्तायाम्"।
+
+देवस्य सवितुः वरेण्यं यद्भर्गः तत् ध्यायेम ।  
+आदित्यमण्डलान्तर्वर्तिनं तेजोमयं पुरुषम् अनुचिन्तयामः ।
+
+
+> य एषोऽन्तरादित्ये हिरण्मयः पुरुषः,  
+> अथ य एष एतस्मिन् मण्डलेर्चिषि पुरुषः
+
+इत्यादिश्रुतेः ।  
+**यः** सविता, **नः** अस्माकं,  
+**धियः** हानोपादान-विषय-ज्ञानानि,  
+**प्रचोदयात्** प्रचोदयति,  
+**तत्सवितुः भर्गश्** चिन्तयाम इति ।
+
+… एवं च सवितृ-मण्डलान्तर्-वर्ति-पुण्डरीकाक्षं सकल-जगदाधारं विष्णुसंज्ञं  
+यद् भर्गस् तेजः  
+तत् तेजश् चिन्तयाम इति सिद्धम् ।
+
+
+अत्र मैत्रावरुणीयश्रुतिः +++(=(मै.उ.६-३४))+++ -
+
+> एतत् सवितुर् वरेण्यं ध्रुवम् अचलम् अमृतं भर्गाख्यं विष्णुसंज्ञं सर्वाधारं धाम
+
+इति ।
+</details>
+<details><summary>अहिर्बुध्न्यसंहिता</summary>
+
+सावित्रं नाम तज् ज्योतिः  
+तत् सावित्रीसमाह्वयम् ।  
+तस्य **व्याख्याम्** इमां सम्यग्  
+गदतो मे **निशामय** ।  
+
+प्रतिसञ्चर-वेलायां  
+ताम् अयत्य्+++(←पदविग्रहः??)+++ एव तां पुनः ।  
+त्रायते तत्र तत्रैव  
+भूत्य्-अंशे धारकात्मना ।  
+प्रमाणत्वेन भूयश् च,  
+तत्-तद्-अर्थतया +++(→प्रमेयतया)+++ पुनः +++(प्रतिभाति?)+++ ।  
+अतस् **तद्** इति सङ्कल्पः  
+प्रोच्यते वैष्णवः परः ।  
+
+**प्रसौति** सकलां चेष्टां  
+प्रसौति सकलं जगत् ।  
+**अवतेर्** गतिकान्त्य् अर्थात्  
+**तरतेर्** दानकर्मणः ।  
+गतो ह्य् अवति सर्वत्र  
+षड्भिः कान्तो गुणैः परम् ।  
+भोगापवर्गयोर् दाता  
+सवितेति निरुच्यते ।  
+वरैर् नेयं **वरेण्यन्** तु  
+वरदातार ईरिताः ।  
+वरेणियं वरेण्यं वा  
+वरं नयति तत्परम् ।
+
+**भर्गस्** तेजस् समाख्यातं  
+प्रभावः कर्तृरूपता ।
+_भरतीदं_ जगत्कृत्स्नं  
+_सम्भरत्य्_ अपि चेश्वरान् ।  
+_रमयत्य्_ अपि तत्सर्वं  
+_राति_ चार्थम् अभीप्सितम् ।  
+_गमयत्य्_ अपि तन् नाशं  
+स्मृति-बन्धम् अशेषतः ।  
+_भर्गयत्य्_ अपि तत्-कष्टं  
+**भर्गतस्** तेन तत्तथा ।  
+अतो **भर्गः** परं विष्णोः  
+सङ्कल्पं विदुर् अद्भुतम् ।  
+
+द्योतनस् सर्वभावानां  
+द्योतमानः स्वयं सदा ।  
+अज्ञानम् अखिलं चान्यच्  
+चोदयन्न् अखिलञ् जगत् ।  
+अयं सकलम् एवेदं  
+तथोतं मणि-सूत्रवत् ।  
+इन ईरण ईभ्यश् च  
+परितस् सकलं दधत् ।  
+**देव** इत्य् उच्यते विष्णुः  
+परमात्मा सनातनः ।  
+
+**धीमहीत्य्** अधिविज्ञानं  
+मननं भावनं तथा ।  
+**धियो** धीपूर्विकाश् चेष्टाः  
+प्रेरणन् तु **प्रचोदनम्** ।  
+
+**यस्** सर्व-शक्तिस् **सविता**  
+देवस् संविन्-मयश् च यः ।  
+यश् च सर्वदिगीशानो  
+**धियस्** तास् ताः **प्रचोदयात्** ।  
+
+सृष्टि-स्थिति-लय-त्राण-  
+त्रिधा-करणम् अव्ययम् ।  
+तस्य देवस्य सङ्कल्पं  
+**भर्ग**-संज्ञम् उपास्महे ।  
+
+गायतस् त्रायमाणायाः  
+**गायत्र्या** अर्थ ईदृशः ।  
+या सत्ता सर्वभूतानां  
+विष्णुशक्तिः परावरा ।  
+
+सा **भूर्** इति समाख्याता  
+भरतीदं जगत्स्वयम् ।  
+
+भू(त)त्वा शक्तिं समास्थाय  
+यावतीदं जगत् स्वयम् ।  
+सा **भुवः** कथिता सद्भिर्  
+अवती भावितं जगत् ।  
+
+वसीयो भोग-मोक्षाख्यं  
+सूते या सततं सताम् ।  
+सा **सुवः** कथिता ब्रह्मन्  
+व्याहृती वाङ्मयी ततः ॥ 
+</details>
+<details><summary>नित्यानन्दमिश्रः - प्रचोदयात्</summary>
+
+प्र + चुद सञ्चोदने (चुरादिगण १०.४९) + णिच् + लेट् (शप् + तिप्) = प्रचोदयात्। लेटि छान्दसरूपमिदम्।
+
+
+###### निष्पत्तिः 
+
+प्र चुद → अनुबन्धलोपः → प्र चुद् → सत्यापपाशरूपवीणातूलश्लोकसेनालोमत्वचवर्मवर्णचूर्णचुरादिभ्यो णिच् (३.१.२५) → प्र चुद् णिच् → अनुबन्धलोपः → प्र चुद् इ → पुगन्तलघूपधस्य च (७.३.८६) → प्र चोद् इ → प्र चोदि → सनाद्यन्ता धातवः (३.१.३२) → लः कर्मणि च भावे चाकर्मकेभ्यः (३.४.६९) → विधिनिमन्त्रणामन्त्रणाधीष्टसंप्रश्नप्रार्थनेषु लिङ् (३.३.१६१) → लिङर्थे लेट् (३.४.७) → शेषात्कर्तरि परस्मैपदम् (१.३.७८) → प्र चोदि तिप् → कर्तरि शप् (३.१.६८) → प्र चोदि शप् तिप् → अनुबन्धलोपः → प्र चोदि अ ति → सार्वधातुकार्धधातुकयोः (७.३.८४) → प्र चोदे अ ति → लेटोऽडाटौ (३.४.९४) → आद्यन्तौ टकितौ (१.१.४६) → प्र चोदे अ आट् ति → अनुबन्धलोपः → प्र चोदे अ आ ति → एचोऽयवायावः (६.१.७८) → प्र चोदय् अ आ ति → अकः सवर्णे दीर्घः (६.१.१०१) → प्र चोदय् आ ति → इतश्च लोपः परस्मैपदेषु (३.४.९७) → प्र चोदय् आ त् →  प्रचोदयात्।
+
+
+
+###### अर्थः 
+
+यदि प्रार्थने लिङ् स्वीक्रियते तर्हि ‘लिङर्थे लेट्’ (३.४.७) इत्यनेन लेटि सिद्धस्य ‘प्रचोदयात्’ इत्यस्य “प्रकर्षेण सञ्चोदनं कुर्यात्” इत्यर्थः। यदि लडर्थे बहुलव्यत्ययाल्लेट् स्वीक्रियते तर्हि ‘प्रचोदयात्’ इत्यस्य “प्रकर्षेण सञ्चोदनं करोति” इत्यर्थः। 
+</details>
+<details><summary>सम्पुटीकरणादि</summary>
+
+वृद्धयमस्मृतौ तृतीयाध्याये -
+
+> वरेण्यं विरलं जप्यं  
+जपकाले द्विजोत्तमैः ।  
+वरेण्यं संहिताकाले  
+वरेणीयं जपे स्मृतम् ॥
+
+काश्यपस्मृतौ -
+
+> एक-प्रणव-संयुक्तां  
+गायत्रीं प्रजपेद् गृही ।  
+ब्रह्मचारी च सन्ध्यासु  
+नियतो नियतेन्द्रियः ।  
+वनी सम्पुट-गायत्रीं  
+यतिष् षड्-प्रणवान्विताम् ॥
+
+वृद्धयमस्मृतौ तृतीयाध्याये -
+
+> एकोङ्कारा सम्पुटा च  
+षडोङ्कारेति सा त्रिधा ।
+>
+> आद्य्-अन्तोंकार-संयुक्ता  
+गायत्री **संपुटा** स्मृता ।
+>
+> सहोङ्कारा व्याहृतयः  
+पुनरोङ्कारसंयुताः ।  
+मनोर् आदावथाऽन्ते च  
+**षडोङ्कारेयम्** उच्यते ।
+…
+> ओङ्कारं पूर्वमुच्चार्य  
+भूर्भुवः स्वस्ततः परम् ।  
+गायत्रीं च ततश् चोक्त्वा  
+जपकाले विशेषतः ॥
+
+> सहस्रकृत्वस् सावित्रीं  
+जपेद् अव्यग्र-मानसः ।  
+शतकृत्वोऽपि वा सम्यक्  
+प्राणायामपरो यदि ।  
+सप्त-व्याहृति-पूर्वां चेद्  
+आद्यन्तप्रणवान्विताम् ।  
+मनसा वा जपेच् चैव  
+दशकृत्वो वरः स्मृतः ॥
+
+इति योगयाज्ञवल्क्य-वचन-ग्रहणम्॥
+
+</details>
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+May we focus on the excellent radiance of the deva Savitṛ who will inspire our insights.  
+</details>
+<details><summary>Wilson</summary>
+
+###### English translation:
+
+“We meditate on that desirable light of the divine **Savitā**, who influences our pious rites.”
+
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+**Yajus**. 3.35;
+
+**Pracodayāt** = who may animate, or enlighten our intellect;
+
+Savitā = the **soul**, as one with the soul of the world, **Brahma**; when we meditate on the light which is one with Brahma, his own light, which, from its consuming influences on ignorance and its consequences, is termed **Bhargas**, and is that which is desirable, from its being to be known or worshiped by all (vareṇyam) the property of the supreme being, (**parameśvara**), the creator of the world, and the animator, impeller or urger (savitā), through the internally abiding spirit (antaryām) of all creatures; yaḥ, although masculine, may be relative to the neuter noun bhargas, that light which animates all (**dhiyaḥ**) acts (karmāṇi), or illumes all understanding (**buddhiḥ**); again, **devasya** **savituḥ** may mean, of the bright or radiant sun, as the progenitor of all, sarvasya prasavitur, and bhargas may be understood as the sphere or orb of light, the consumer of sins, pāpānām tāpakam tejo maṇḍalam; bhargas may also mean food, and the prayer may only implore the sun to provide sustenance, tasya prasādād annādi lakṣaṇam phalam **dhīmahi** tasya ādhārabhūta bhavema, we anticipate from his favour the reward that is characterized by food and the like, that is, may we be supported by him
+</details>
+<details><summary>Jamison Brereton</summary>
+
+Might we make our own that desirable effulgence of god Savitar, who will rouse forth our insights.
+</details>
+<details><summary>Jamison Brereton Notes</summary>
+
+And here, buried in this not particularly noteworthy hymn, is the Gāyatrī mantra, which is itself not particularly noteworthy on its own terms.
+
+Note the play on dhīmahi / dhíyaḥ juxtaposed across the hemistich boundary, belonging to different roots.
+
+
+
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/062/10-12.md">
+<details open><summary><h7>10-12 ...{Loading}...</h7></summary>
+<details><summary>Jamison Brereton Notes</summary>
+
+All three vss. in this tṛca contain déva- (…) savitár- (or vice versa).
+</details>
+</details>
+</div>
+</details>
+<details><summary>Griffith</summary>
+
+May we attain that excellent glory of Savitar the God:  
+     So May he stimulate our prayers.
+</details>
+<details><summary>Keith</summary>
+
+That excellent glory of Savitr  
+The god we meditate,  
+That be may stimulate our prayers.
+</details>
+<details><summary>Geldner</summary>
+
+Dieses vorzügliche Licht des Gottes Savitri empfingen wir, der unsere Gedanken anregen soll.
+</details>
+<details><summary>Grassmann</summary>
+
+Dass wir des Gottes Savitar begehrtes Licht erlangten doch, Der unsre Bitten fördere.
+</details>
+<details><summary>Elizarenkova</summary>
+
+Мы хотим встретить этот желанный  
+Блеск бога Савитара,  
+Который должен поощрять наши поэтические мысли!
+</details>
+<details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
+
+###### The mantra-s
+
+The Sāvitrī is the core mantra used in Savitrupāsanā. It also has other notable deployments, which will be described later. Its ṛṣi is Viśvāmitra of the clan of Gāthin, the chandas is nicṛd gāyatrī and the devatā is Savitṛ. It is from the 3_r__d_ maṇḍala of the Ṛgveda (RV 3.62.10). The meter is termed nicṛd gāyatrī because the syllable count is 23, one short of the usual 24 for a gāyatrī. This arises due to the intrinsic saṃdhi, which creates वरेण्यम् from वरेणियम् . The Sāvitrī goes thus:  
+
+> तत् स॑वि॒तुर् वरे॑ण्य॒म् भर्गो॑ दे॒वस्य॑ धीमहि । धियो॒ यो नः॑ प्रचो॒दया॑त् ॥  
+
+Given the popularity of the Sāvitrī it is common to see numerous translations of the same; however, these often do not get certain aspects of the Old Vedic register of Sanskrit. It is important that one does the japa of this mantra with a proper grasp of its sense in the original language. Hence, we provide a translation of the mantra in full here.  
+
+tat= that; Savituḥ= of Savitā; vareṇyam= excellent or desirable; bhargaḥ= radiance (neuter accusative); devasya= of the god; dhīmahi= may we fix \[our mind\]/ may we focus on; dhiyaḥ= insights (plural of dhī); yaḥ= who; nas= our; pracodayāt= may he inspire.  
+
+There are a few key points to make note of: first, the verb form dhīmahi; this is the āśīr-liṅ (benedictive) 1st person plural form of the root dhā, which belongs to class 3 (juhotyādi gaṇa). We are unaware of the occurrence of other āśīr-liṅ forms of the verb dhā in the RV. It is used symmetrically with the 3rd person singular āśīr-liṅ form of the verb pra-cud i.e. pracodayāt. These forms are not commonly used outside of such mantra-s suggesting that it was an ancient usage of a verb-pair presenting a relationship between the worshipers (dhīmahi) and the god (pracodayāt). 
+
+Second, the name of the god Savitṛ is commonly combined with the word deva (god). This combination probably again has an ancient connotation, which is reflected in theonyms of other Indo-European branches like proto-Germanic *Tiwaz → Tyr. It (theos) was probably also used in this sense for the Greek Hyperion[^MT_1], the likely cognate of Savitṛ, in the Homeric language. 
+
+[^MT_1]: A Titan, even as Savitṛ is also called Asura in the RV
+
+Third, the word dhiyaḥ, has been specifically chosen for alliteration with dhīmahi[^MT_2]. It means not just any thought but specifically inspired thought or insight that leads to the “seeing” of special knowledge, such as that embodied in a Vedic mantra. 
+
+[^MT_2]: Word analysis suggests that Viśvāmitra had a particular propensity for alliterative or polyptotonic usages such as the āmreḍita. See: [A note on āmreḍita-s in the Ṛgveda and issues of word distribution](https://manasataramgini.wordpress.com/2018/05/14/a-note-on-aṃreḍita-s-in-the-ṛgveda-and-issues-of-word-distribution) 
+
+Thus, we get,  
+
+May we focus on the excellent radiance of the deva Savitṛ who will inspire our insights.  
+
+###### Adjuncts
+The Sāvitrī is prefixed with the three vyāhṛti-s for the actual japa.  
+
+>  भूर् भुवः सुवः ।  
+
+The three basic vyāhṛti-s are to understood as the three realms, the earth, the atmosphere and the heavens, which are pervaded by the light of the god Savitṛ. These are given above in the Yajurvedic form, which may also be followed in Atharvavedic tradition. In the Ṛgvedic tradition the internal saṃdhi is enacted and we have स्वः for सुवः. The mysteries of these vyāhṛti-s are explained, among other places, in the Taittirīya-śruti.  
+
+For the practice of prāṇāyāma, it is prefixed with the 7 vyāhṛti-s.  
+
+>  ॐ भूः । ॐ भुवः । ओग्ँ सुवः । ॐ महः । ॐ जनः । ॐ तपः । ओग्ँ सत्यम् ।  
+
+These may be understood as a larger set of 7 regions of space, which are pervaded by the light of Savitṛ. The nasals preceding sa are given as per the Yajurvedic tradition. They are rendered as the usual nasals in the RV and AV traditions.  
+
+It suffixed by the incantation known as the brahmaśiras.  
+
+>  ॐ आपो॒ ज्योती॒ रसो॒ ऽमृतं॒ ब्रह्म॒ भूर्-भुव॒-सुव॒रो३म् ॥  
+
+Here, āpaḥ= waters; jyotiḥ= light; rasaḥ= life fluids; amṛtaṃ= immortality; brahma= mantra-power. bhūḥ, bhuvaḥ and suvaḥ and the three main vyāhṛti-s  
+
+Then there is the four-footed form which is a mystery teaching in the śruti of the Śukla-yajurvedin-s. This is obtained by adding the below.  
+
+>  प॒रो-र॑जसे॒ ऽसाव॒द् ओ३म् ॥  
+
+This technically converts it into an anuṣṭubh due the addition of 8 additional syllables. In the mystery teaching it is termed the beautiful or the vivid foot that is beyond the immediate space (rajas: see section below for details). In the same teaching it is revealed that the 4_t__h_ foot is a critical aspect of both abhicārika and vṛddhi deployments of the Sāvitrī. Indeed, combined with the teaching of Śaunaka it might be deployed along with the Sāvitrī with syllables inverted (viparīta-prayoga) for abhicārika purposes.  
+
+The Atharvan tradition gives a saṃpuṭikaraṇa of the Sāvitrī known as the Mahāsāvitrī. It goes thus:  
+
+>  ॐ भूः । ॐ भुवः । ॐ स्वः । ॐ महः । ॐ जनः । ॐ तपः । ॐ स॒त्यं ।  
+>  ॐ तत् स॑वि॒तुर् वरे॑ण्य॒म् भर्गो॑ दे॒वस्य॑ धीमहि ।  
+>  धियो॒ यो नः॑ प्रचो॒दया॑त् ॥  
+>  ॐ आपो॒ ज्योती॒ रसो॒ ऽमृतं॒ ब्रह्म॒ भूर्-भुव॒-सुव॒रो३म् ॥  
+>  ॐ भूर्-भुवः-सुवर्-महर्-जनस्-तपः सत्यं मधु॑ क्षरन्ति ।  
+>  ॐ आपो॒ ज्योती॒ रसो॒ ऽमृतं॒ ब्रह्म॒ भूर्-भुव॒-स्वरो३म् ।  
+>  ओम्॑ तद्-ब्र॒ह्म । ओम्॑ तद्-वा॒युः । ओम्॑ तद्-आ॒त्मा । ओम्॑ तत्-स॒त्यम् । ओम्॑ तत्-सर्वम्॑ । ओम्॑ तत्-पुरों॒ नमः ॥ 
+
+ 
+Some hold that deploying this form of the mantra 10× can be considered an equivalent of deploying the regular version 108×. This mantra is also seen as a combination of that of the gods Savitṛ and Vayu. These two are an ancient pair as indicated by the Mṛgāra mantra-s. Savitṛ pervades space with light, while the Vayu pervades it as the rarefied substance and the force which holds the celestial bodies together. These two thus form the foundation of existence.  
+
+The Atharvan tradition also teaches the mystery deployment, which adds the Atharvaśiras comprised of the Atharvanic high vyāhṛti-s.  
+
+>  ॐ भुर्-भुवः-स्वः ।  
+>  ॐ तत् स॑वि॒तुर् वरे॑ण्य॒म् भर्गो॑ दे॒वस्य॑ धीमहि ।  
+>  धियो॒ यो नः॑ प्रचो॒दया॑त् ॥  
+>  ॐ भूर् भुवः स्वर् जनद् वृधत् करद् रुहन् महत् तच् छम् ओम् ॥  
+
+Here, the vyāhṛti-s janad, vṛdhat, karat, ruhat, mahat, tat, śam and oṃ are the special vyāhṛti-s of the Bhṛgvāṅgiras. These are part of the secret teaching of the Atharvan. The knower of the Bhṛgvāṅgirasa-śruti may use this deployment to protecting himself while attacking his enemies with the stoma-bhāga-prayoga.  
+
+The viparīta-prayoga (inverse deployment) is specified for abhicārika purposes.  
+
+>  त्यादचोप्र नो यो योधि ।  
+>  हिमधी यस् व दे गोर्भ ।  
+>  म्यणिरेव तुर्विस त्त ॥  
+
+A variant inverse deployment involves merely inverting the three feet.  
+
+> धियो॒ यो नः॑ प्रचो॒दया॑त् । भर्गो॑ दे॒वस्य॑ धीमहि । तत् स॑वि॒तुर् वरे॑णि॒यों ॥
+
+###### The mysteries
+
+The śruti of the the Vājasaneyin-s provides a mystery teaching regarding the Sāvitrī, which associates the 3 feet of the core mantra with a triad of triads, which is summarized below.
+
+- भूमिः  अन्तरिक्षम् द्यौस्
+- ऋचः यजूंषि सामानि
+- प्राणः अपानः व्यानः
+
+The one who meditates on the Sāvitrī with this knowledge is understood as penetrating 
+
+- the realms of the universe with the first triad, 
+- the realms of Veda-s with the second triad and 
+- realms of life with the the third triad. 
+  
+The fourth foot is said to blaze beyond the expanse of the visible space, the “rajas” and its knowledge confers splendor.  
+
+The Atharvan tradition holds (the teaching of Maudgalya to Glāva Maitreya) that the Sāvitrī is pervaded by the god Deva Savitṛ and his consort Sāvitrī in the form of 12 pairs of forms corresponding to each syllable (Figure). In these forms the two deities pervade the universe and the ritual. This presentation in the Atharvan tradition is consistent with the statement of Vāmadeva Gautama in the RV: आप्रा॒ रजां॑सि दि॒व्यानि॒ पार्थि॑वा॒ in RV 4.53.3, i.e. celestial and the earthly realms. The three feet of the Sāvitrī are described giving rise to three sequences of emanations that culminate in the ritual observance of the brāhmaṇa (Figure below; lower panel). The ritualist who performs the deployment of the Sāvitrī with the appropriate knowledge of the omniform manifestation of Savitṛ and his consort and the emanations of the three feet meets with success.  
+
+![/devaH/AryaH/hindukaH/savitA/images/sAvitrI.jpg](/devaH/AryaH/hindukaH/savitA/images/sAvitrI.jpg)
+
+The structure and the emanations of the Sāvitrī as per the Atharvan tradition
+</details>
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- सविता
+- गोपवन आत्रेयः सप्तवध्रिर्वा
+- निचृद्गायत्री
+- षड्जः
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+फिर उसी विषय को अगले मन्त्र में कहते हैं।
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे मनुष्यो ! सब हम लोग (यः) जो (नः) हम लोगों की (धियः) बुद्धियों को (प्रचोदयात्) उत्तम गुण-कर्म और स्वभावों में प्रेरित करै उस (सवितुः) सम्पूर्ण संसार के उत्पन्न करनेवाले और सम्पूर्ण ऐश्वर्य्य से युक्त स्वामी और (देवस्य) सम्पूर्ण ऐश्वर्य के दाता प्रकाशमान सबके प्रकाश करनेवाले सर्वत्र व्यापक अन्तर्यामी के (तत्) उस (वरेण्यम्) सबसे उत्तम प्राप्त होने योग्य (भर्गः) पापरूप दुःखों के मूल को नष्ट करनेवाले प्रभाव को (धीमहि) धारण करैं ॥१०॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  जो मनुष्य सबके साक्षी, पिता के सदृश वर्त्तमान, न्यायेश, दयालु, शुद्ध, सनातन, सबके आत्माओं के साक्षी परमात्मा की ही स्तुति और प्रार्थना करके उपासना करते हैं, उनको कृपा का समुद्र सबसे श्रेष्ठ परमेश्वर, दुष्ट आचरण से पृथक् करके श्रेष्ठ आचरण में प्रवृत्त करा और पवित्र तथा पुरुषार्थयुक्त करके धर्म, अर्थ, काम और मोक्ष को प्राप्त कराता है ॥१०॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
+
+अन्वय:  हे मनुष्याः सर्वे वयं यो नो धियः प्रचोदयात्तस्य सवितुर्देवस्य तद्वरेण्यं भर्गो धीमहि ॥१०॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+पुनस्तमेव विषयमाह।
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (तत्) (सवितुः) सकलजगदुत्पादकस्य समग्रैश्वर्य्ययुक्तस्येश्वरस्य (वरेण्यम्) सर्वेभ्य उत्कृष्टं प्राप्तुं योग्यम् (भर्गः) भृज्जन्ति पापानि दुःखमूलानि येन तत् (देवस्य) सकलैश्वर्यप्रदातुः प्रकाशमानस्य सर्वप्रकाशकस्य सर्वत्र व्याप्तस्याऽन्तर्यामिणः (धीमहि) दधीमहि (धियः) प्रज्ञाः (यः) (नः) अस्माकम् (प्रचोदयात्) सद्गुणकर्मस्वभावेषु प्रेरयतु ॥१०॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  ये मनुष्याः सर्वसाक्षिणं पितृवद्वर्त्तमानं न्यायेशं दयालुं शुद्धं सनातनं सर्वात्मसाक्षिकं परमात्मानमेव स्तुत्वा प्रार्थयित्वोपासते तान् कृपानिधिः परमगुरुर्दुष्टाचारान्निवर्त्य श्रेष्ठाचारे प्रवर्त्तयित्वा शुद्धान् सम्पाद्य पुरुषार्थयित्वा धर्मार्थकाममोक्षान् प्रापयति ॥१०॥
+</details>
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  जी माणसे सर्वांचा साक्षी, पित्याप्रमाणे असणारा, न्यायी, दयाळू, शुद्ध सनातन, सर्वांच्या आत्म्याचा साक्षी अशा परमेश्वराची स्तुती, प्रार्थना व उपासना करतात त्यांना कृपासागर, सर्वात श्रेष्ठ परमेश्वर, दुष्ट आचरणापासून पृथक करून श्रेष्ठ आचरणामध्ये प्रवृत्त करतो. पवित्र व पुरुषार्थयुक्त करून धर्म, अर्थ, काम, मोक्ष प्राप्त करवितो. ॥ १० ॥
+</details>
+</details>
+</div>
+ 
+### पुच्छम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ओमापो॒ ज्योती॒रसो॒ ऽमृतं॒  ब्रह्म॒+++(=मन्त्राः)+++ भूर्भुव॒स्सुव॒रोम् । (42)
+</details>
+<details><summary>मूलम्</summary>
+
+ओमापो॒ ज्योती॒रसो॒ ऽमृतं॒  ब्रह्म॒ भूर्भुव॒स्सुव॒रोम् । (42)
+</details>
+<details><summary>विश्वास-टिप्पनी</summary>
+
+### प्राणायामे विनियोगः
+- प्राणायामे पूरणे व्याहृतयः।  
+- कुम्भके गायत्रीमन्त्रः।
+- रेचके / ‌निःस्वासे पुच्छम्।
+</details>
+</details>
+</div>  
 
 ## 28
 
@@ -2192,7 +5549,120 @@ ________________________
 
 ## 39
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="39_medhA_devI/"></div>  
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="39_medhA_devI/">
+<details open><summary><h2>३९ मेधा देवी ...{Loading}...</h2></summary>
+<details><summary>पाठभेदाः</summary>
+
+तैत्तिरीयारण्यके महानारायणोपनिषदि 3.6.39.1। 
+
+- सायणो [ऽत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_036_Taittiriya_Aranyakam_With_Sayana_Bhashya_Part_2_-_Babasastri_Phadke_1927#page/n411/mode/2up) आन्ध्रपाठमवलम्बमानः
+- भास्करो द्राविडपाठमवलम्बमानो [ऽत्र](https://archive.org/stream/taittiriya/taittiriya_aranyaka_bhaskara_02#page/n159/mode/2up) । रङ्गरामानुजभाष्यम् [अत्र](https://archive.org/details/UpanisadahRangaramanuja/Taittiriya_Aitareya_Chandogya_mula_Rangaramanuja-bhasya_UttamurViraraghavacarya_Karika_Madras_1973/page/n217/mode/2up?view=theater)।
+</details>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/39_medhA_devI/02_medhA_devI.md">
+<details open><summary><h6>विश्वास-प्रस्तुतिः ...{Loading}...</h6></summary>
+
+मे॒धा दे॒वी जु॒षमा॑णा न॒ आगा॑द्  
+वि॒श्वाची॑+++(=विश्वमनक्तीति)+++ भ॒द्रा सु॑मन॒स्यमा॑ना +++(=सुमनः कामयन्ती)+++ ।  
+त्वया॒ जुष्टा॑ नु॒दमा॑ना दु॒रुक्ता॑न्  
+बृ॒हद् व॑देम वि॒दथे॑+++(=यज्ञे)+++ सु॒वीराः॑ ॥
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/39_medhA_devI/02_medhA_devI.md">
+<details open><summary><h6>सर्वाष् टीकाः ...{Loading}...</h6></summary>
+<details><summary>मूलम्</summary>
+
+मे॒धा दे॒वी जु॒षमा॑णा न॒ आगा॑द्  
+वि॒श्वाची॑ भ॒द्रा सु॑मन॒स्यमा॑ना।  
+त्वया॒ जुष्टा॑ नु॒दमा॑ना दु॒रुक्ता॑न्  
+बृ॒हद् व॑देम वि॒दथे॑ सु॒वीराः॑ ॥
+</details>
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/39_medhA_devI/04_tvayA_juShTa.md">
+<details open><summary><h6>विश्वास-प्रस्तुतिः ...{Loading}...</h6></summary>
+
+त्वया॒ जुष्ट॑ ऋ॒षिर् भ॑वति देवि॒  
+त्वया॒ ब्रह्मा॑ ऽऽग॒तश्री॑र् उ॒त त्वया॑ ।  
+त्वया॒ जुष्ट॑श् चि॒त्रव्ँ वि॑न्दते॒ वसु॒+++(←स्वरपरिष्कारः)+++  
+सा नो॑ जुषस्व॒ द्रवि॑णेन मेधे । (54)
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/39_medhA_devI/04_tvayA_juShTa.md">
+<details open><summary><h6>सर्वाष् टीकाः ...{Loading}...</h6></summary>
+<details><summary>मूलम्</summary>
+
+त्वया॒ जुष्ट॑ ऋ॒षिर् भ॑वति देवि॒  
+त्वया॒ ब्रह्मा॑ ऽऽग॒तश्री॑र् उ॒त त्वया॑ ।  
+त्वया॒ जुष्ट॑श् चि॒त्रव्ँ वि॑न्दते॒ वसु॒+++(←स्वरपरिष्कारः)+++  
+सा नो॑ जुषस्व॒ द्रवि॑णेन मेधे । (54)  
++++(द्रवि॑णो न मेधे इति पाठान्तरम्।)+++
+</details>
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/39_medhA_devI/06_medhAM_ma.md">
+<details open><summary><h6>विश्वास-प्रस्तुतिः ...{Loading}...</h6></summary>
+
+मे॒धां म॒ इन्द्रो॑ ददातु  
+मे॒धान् दे॒वी सर॑स्वती ।  
+मे॒धां मे॑ अ॒श्विनौ॑ दे॒वाव्  
+आध॑त्तां॒ पुष्क॑रस्रजा । (55)
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/39_medhA_devI/06_medhAM_ma.md">
+<details open><summary><h6>सर्वाष् टीकाः ...{Loading}...</h6></summary>
+<details><summary>मूलम्</summary>
+
+मे॒धां म॒ इन्द्रो॑ ददातु  
+मे॒धान् दे॒वी सर॑स्वती ।  
+मे॒धां मे॑ अ॒श्विनौ॑ दे॒वाव्  
+आध॑त्तां॒ पुष्क॑रस्रजा । (55)
+</details>
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/39_medhA_devI/08_apsarAsu_yA.md">
+<details open><summary><h6>विश्वास-प्रस्तुतिः ...{Loading}...</h6></summary>
+
+अ॒प्स॒रासु॑ [च॒] या मे॒धा  
+ग॑न्ध॒र्वेषु॑ च॒ यन् मनः॑ ।  
+दैवी॑ मे॒धा म॑नुष्य॒जा सा मां॑  
+मे॒धा सु॒रभि॑र् जुषताम् । (56)
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/39_medhA_devI/08_apsarAsu_yA.md">
+<details open><summary><h6>सर्वाष् टीकाः ...{Loading}...</h6></summary>
+<details><summary>मूलम्</summary>
+
+अ॒प्स॒रासु॑ [च॒] या मे॒धा  
+ग॑न्ध॒र्वेषु॑ च॒ यन् मनः॑ ।  
+दैवी॑ मे॒धा म॑नुष्य॒जा सा मां॑  
+मे॒धा सु॒रभि॑र् जुषताम् । (56)  
++++(दैवीं᳚ मे॒धा सर॑स्वती॒ सा मां᳚ मे॒धा सु॒रभि॑र्जुषता॒ꣳ॒ स्वाहा᳚॥ इत्य् आन्ध्रपाठे।)+++
+</details>
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/39_medhA_devI/10_A_mAm.md">
+<details open><summary><h6>विश्वास-प्रस्तुतिः ...{Loading}...</h6></summary>
+
+आ मां॑ मे॒धा सु॒रभि॑र् वि॒श्वरू॑पा॒  
+हिर॑ण्यवर्णा॒ जग॑ती जग॒म्या ।  
+ऊर्ज॑स्वती॒ पय॑सा॒ पिन्व॑माना॒  
+सा मां॑ मे॒धा सु॒प्रती॑का जुषताम् । (57)
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/39_medhA_devI/10_A_mAm.md">
+<details open><summary><h6>सर्वाष् टीकाः ...{Loading}...</h6></summary>
+<details><summary>मूलम्</summary>
+
+आ मां॑ मे॒धा सु॒रभि॑र् वि॒श्वरू॑पा॒  
+हिर॑ण्यवर्णा॒ जग॑ती जग॒म्या ।  
+ऊर्ज॑स्वती॒ पय॑सा॒ पिन्व॑माना॒  
+सा मां॑ मे॒धा सु॒प्रती॑का जुषताम् । (57)  
++++(उपरि जुषन्ताम् इति दुष्टम् आन्ध्रपाठे।)+++
+</details>
+</details>
+</div>
+</details>
+</div>  
 
 ## 43
 
@@ -2385,11 +5855,885 @@ bahurUpI was archaic but popular para-vedic mantra used outside of core saMhitA 
 
 ## 47
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="47_IshAnas_sarvabhUtAnAm"></div>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="47_IshAnas_sarvabhUtAnAm">
+<details open><summary><h2>४७ ईशानस् सर्वभूतानाम् ...{Loading}...</h2></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ईशानस् सर्व॑विद्या॒ना॒म्  
+ईश्वरस् सर्व॑भूता॒नां॒  
+ब्रह्माधि॑पति॒र् ब्रह्म॒णो ऽधि॑पति॒र्  
+ब्रह्मा॑ शि॒वो मे॑ अस्तु सदाशि॒वोम् । (62)
+</details>
+<details><summary>मूलम्</summary>
+
+ईशानस् सर्व॑विद्या॒ना॒म्  
+ईश्वरस् सर्व॑भूता॒नां॒  
+ब्रह्माधि॑पति॒र् ब्रह्म॒णो ऽधि॑पति॒र्  
+ब्रह्मा॑ शि॒वो मे॑ अस्तु सदाशि॒वोम् । (62)
+</details>
+</details>
+</div>
 
 ## 48-50
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="48-50_brahmam_etu_trisuparNAH"></div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="48-50_brahmam_etu_trisuparNAH">
+<details open><summary><h5>४८-५० ब्रह्मम् एतु त्रिसुपर्णाः ...{Loading}...</h5></summary>
+
+
+###### 48
+
+<details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
+
+ब्रह्म॑मेतु॒ माम् । मधु॑मेतु॒ माम् । ब्रह्म॑मे॒व मधु॑मेतु॒ माम् ।
+</details>
+<details><summary>मूलम्</summary>
+
+ब्रह्म॑मेतु॒ माम् । मधु॑मेतु॒ माम् । ब्रह्म॑मे॒व मधु॑मेतु॒ माम् ।
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
+
+यास्ते॑ सोम प्र॒जाव॒थ्सोभि॒ सो अ॒हम् । दुस्व॑प्न॒हन्दु॑रुष्व॒हा ।  
+यास्ते॑ सोम प्रा॒णाꣳस्ताञ्जु॑होमि ।
+</details>
+<details><summary>मूलम्</summary>
+
+यास्ते॑ सोम प्र॒जाव॒थ्सोभि॒ सो अ॒हम् । दुस्व॑प्न॒हन्दु॑रुष्व॒हा ।  
+यास्ते॑ सोम प्रा॒णाꣳस्ताञ्जु॑होमि ।
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
+
+त्रिसु॑पर्ण॒मया॑चितं ब्राह्म॒णाय॑ दद्यात् ।  
+ब्र॒ह्म॒ह॒त्याव्ँ वा ए॒ते  घ्न॑न्ति ।  
+</details>
+<details><summary>मूलम्</summary>
+
+त्रिसु॑पर्ण॒मया॑चितं ब्राह्म॒णाय॑ दद्यात् ।  
+ब्र॒ह्म॒ह॒त्याव्ँ वा ए॒ते  घ्न॑न्ति ।  
+</details>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/48-50_brahmam_etu_trisuparNAH/07_ye_brAhmaNAstrisuparNam.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+ये ब्रा᳚ह्म॒णास्त्रिसु॑पर्णं॒ पठ॑न्ति ।  
+ते सोमं॒ प्राप्नु॑वन्ति ।  
+आ॒स॒ह॒स्रात्प॒ङ्क्तिं पुन॑न्ति । ओम् । (63)
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/48-50_brahmam_etu_trisuparNAH/07_ye_brAhmaNAstrisuparNam.md">
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+<details><summary>मूलम्</summary>
+
+ये ब्रा᳚ह्म॒णास्त्रिसु॑पर्णं॒ पठ॑न्ति ।  
+ते सोमं॒ प्राप्नु॑वन्ति ।  
+आ॒स॒ह॒स्रात्प॒ङ्क्तिं पुन॑न्ति । ओम् । (63)
+</details>
+</details>
+</div>
+
+
+
+
+###### 49
+
+<details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
+
+ब्रह्म॑ मे॒धया᳚ । मधु॑ मे॒धया᳚ । ब्रह्म॑मे॒व मधु॑ मे॒धया᳚ ।
+</details>
+<details><summary>मूलम्</summary>
+
+ब्रह्म॑ मे॒धया᳚ । मधु॑ मे॒धया᳚ । ब्रह्म॑मे॒व मधु॑ मे॒धया᳚ ।
+</details>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/082/04_adyA_no.md">
+<details open><summary><h10>०४ अद्या नो ...{Loading}...</h10></summary>
+
+
+अ॒द्या नो॑ देव सवितः  
+प्र॒जाव॑त् **सावीः॒** सौभ॑गम् ।  
+परा॑ दु॒ष्-ष्वप्न्यं॑ **सुव** ॥
+
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/082/04_adyA_no.md">
+<details open><summary><h10>004 ...{Loading}...</h10></summary>
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - सविता
+- ऋषिः - श्यावाश्व आत्रेयः
+- छन्दः - गायत्री
+</details>
+<details><summary>Thomson & Solcum</summary>
+
+अद्या꣡ नो देव सवितः  
+प्रजा꣡वत् सावीः सउ꣡भगम्  
+प꣡रा दुष्व꣡प्नियं सुव
+</details>
+<details><summary>मूलम् तैत्तिरीयम्</summary>
+
+अ॒द्या नो॑ देव सवितः ।
+प्र॒जाव॑थ्सावी॒स्सौभ॑गम् ।
+परा॑ दु॒ष्वप्नि॑यꣳ सुव ।
+</details>
+<details><summary>Vedaweb annotation</summary>
+
+###### Strata
+Archaic
+
+###### Pāda-label
+genre M  
+genre M  
+genre M
+###### Morph
+adyá ← adyá (invariable)  
+{}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+savitar ← savitár- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+prajā́vat ← prajā́vant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+saúbhagam ← saúbhaga- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sāvīḥ ← √sū- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+duṣvápnyam ← duṣvápnya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+párā ← párā (invariable)  
+{}
+
+suva ← √sū- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+</details>
+<details><summary>पद-पाठः</summary>
+
+अ॒द्य । नः॒ । दे॒व॒ । स॒वि॒त॒रिति॑ । प्र॒जाऽव॑त् । सा॒वीः॒ । सौभ॑गम् ।  
+परा॑ । दुः॒ऽस्वप्न्य॑म् । सु॒व॒ ॥
+</details>
+<details><summary>Hellwig Grammar</summary>
+
+-   *adyā* ← *adya*
+- \[adverb\]
+- “now; today; then; nowadays; adya \[word\].”
+------------------------------------------------------------------------
+- *no* ← *naḥ* ← *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *deva*
+- \[noun\], vocative, singular, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *savitaḥ* ← *savitar* ← *savitṛ*
+- \[noun\], vocative, singular, masculine
+- “Savitar; sun; Surya; Savitṛ.”
+------------------------------------------------------------------------
+- *prajāvat*
+- \[noun\], accusative, singular, neuter
+- “prolific.”
+------------------------------------------------------------------------
+- *sāvīḥ* ← *sū*
+- \[verb\], singular, Aorist inj. (proh.)
+- “give birth; urge; bestow; cause.”
+------------------------------------------------------------------------
+- *saubhagam* ← *saubhaga*
+- \[noun\], accusative, singular, neuter
+- “well-being.”
+------------------------------------------------------------------------
+- *parā*
+- \[adverb\]
+- “away.”
+------------------------------------------------------------------------
+- *duṣṣvapnyaṃ* ← *duṣṣvapnyam* ← *duḥṣvapnya*
+- \[noun\], accusative, singular, neuter
+- “nightmare.”
+------------------------------------------------------------------------
+- *suva* ← *sū*
+- \[verb\], singular, Present imperative
+- “give birth; urge; bestow; cause.”
+------------------------------------------------------------------------
+</details>
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **सवितः** **देव** **नः** अस्मभ्यम् **अद्य** अस्मिन् यागदिने **प्रजावत्** पुत्राद्युपेतं **सौभगं** धनं **सावीः** प्रेरय । **दुःष्वप्न्यं** दुःस्वप्नं दुःस्वप्नवद्दुःखकरं दारिद्र्यं **परा** **सुव** दूरे प्रेरय ॥
+
+________________
+8अथाष्टमीमाह - हे सवितर्देव! अद्यास्मिन्कर्मणि नोऽस्माकं प्रजावत् पुत्रपौत्राद्युपेतं सौभगं सौभाग्यं सावीः अनुजानीहि । दुष्ष्वप्नियं दुस्स्वप्ननिमित्तं दोषं परासुव विनाश्य ॥
+</details>
+<details><summary>Wilson</summary>
+
+###### English translation:
+
+“Grant us today, divine **Savitā** affluence with progeny, and drive away evil dreams.”
+
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+**Para** duhṣvapnyam **suva**: duhṣvapnyam = dāridryam, poverty
+</details>
+<details><summary>Jamison Brereton</summary>
+
+Today, god Savitar, you have impelled to us a good portion consisting of  offspring.  
+Impel away the bad dream.
+</details>
+<details><summary>Griffith</summary>
+
+Send us this day, God Savitar, prosperity with progeny.  
+     Drive thou the evil dream away.
+</details>
+<details><summary>Geldner</summary>
+
+Mögest du, Gott Savitri, uns heute kinderreiches Glück zuweisen. Weise üblen Traum ab!
+</details>
+<details><summary>Grassmann</summary>
+
+O schaffe heut, Gott Savitar, uns kinderreichen Segen her; Fort schaffe böses Traumgesicht.
+</details>
+<details><summary>Elizarenkova</summary>
+
+Сегодня, о бог Савитар, вызови к жизни  
+Для нас удачу, заключающуюся в потомстве!  
+Прочь отзови дурной сон!
+</details>
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- सविता
+- श्यावाश्व आत्रेयः
+- निचृद्गायत्री
+- षड्जः
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+फिर उसी विषय को कहते हैं ॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे (सवितः) सम्पूर्ण ऐश्वर्य्य के देनेवाले स्वामिन् (देव) शोभित ! आप कृपा से (नः) हम लोगों के लिये वा हम लोगों के (अद्या) आज (प्रजावत्) बहुत प्रजायें विद्यमान जिसके उस (सौभगम्) सुन्दर ऐश्वर्य के भाग को (सावीः) उत्पन्न कीजिये और (दुःष्वप्न्यम्) दुष्ट स्वप्नों में उत्पन्न दुःख को (परा, सुव) दूर कीजिये ॥४॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  जो परमेश्वर की प्रार्थना करके धर्म्मयुक्त पुरुषार्थ करते हैं, वे बहुत ऐश्वर्य्यवाले होकर दुःख और दारिद्र्य से रहित होते हैं ॥४॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
+
+अन्वय:  हे सवितर्देव ! त्वं कृपया नोऽद्या प्रजावत्सौभगं सावीर्दुःष्वप्न्यं परा सुव दूरं गमय ॥४॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+पुनस्तमेव विषयमाह ॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (अद्या) अद्य। अत्र निपातस्य चेति दीर्घः। (नः) अस्मभ्यमस्माकं वा (देव) प्रकाशमान (सवितः) सर्वैश्वर्य्यप्रदेश्वर (प्रजावत्) बह्व्यः प्रजा विद्यन्ते यस्य तत् (सावीः) जनय (सौभगम्) शौभनैश्वर्य्यस्य भागम् (परा) (दुःष्वप्न्यम्) दुष्टेषु स्वप्नेषु भवं दुःखम् (सुव) प्रेरय ॥४॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  ये परमेश्वरं प्रार्थयित्वा धर्म्यं पुरुषार्थं कुर्वन्ति ते महदैश्वर्या भूत्वा दुःखदारिद्र्यविरहा जायन्ते ॥४॥
+</details>
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  जे परमेश्वराची प्रार्थना करून धर्मयुक्त पुरुषार्थ करतात. ते अत्यंत ऐश्वर्यवान होऊन दुःख व दारिद्र्यरहित होतात. ॥ ४ ॥
+</details>
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/082/05_vishvAni_deva.md">
+<details open><summary><h10>०५ विश्वानि देव ...{Loading}...</h10></summary>
+
+
+विश्वा॑नि देव सवितर्  
+दुरि॒तानि॒ **परा॑ सुव** ।  
+यद् भ॒द्रं तन् न॒ **आ सु॑व** ॥
+
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/082/05_vishvAni_deva.md">
+<details open><summary><h10>005 ...{Loading}...</h10></summary>
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - सविता
+- ऋषिः - श्यावाश्व आत्रेयः
+- छन्दः - गायत्री
+</details>
+<details><summary>Thomson & Solcum</summary>
+
+वि꣡श्वानि देव सवितर्  
+दुरिता꣡नि प꣡रा सुव  
+य꣡द् भद्रं꣡ त꣡न् न आ꣡ सुव
+</details>
+<details><summary>मूलम् तैत्तिरीयम्</summary>
+
+विश्वा॑नि देव सवितः ।
+दु॒रि॒तानि॒ परा॑सुव ।
+यद्भ॒द्रन्तन्म॒ आसु॑व ।
+</details>
+<details><summary>Vedaweb annotation</summary>
+
+###### Strata
+Archaic
+
+###### Pāda-label
+genre M  
+genre M  
+genre M
+###### Morph
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+savitar ← savitár- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+víśvāni ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+duritā́ni ← duritá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+párā ← párā (invariable)  
+{}
+
+suva ← √sū- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bhadrám ← bhadrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+suva ← √sū- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+</details>
+<details><summary>पद-पाठः</summary>
+
+विश्वा॑नि । दे॒व॒ । स॒वि॒तः॒ । दुः॒ऽइ॒तानि॑ । परा॑ । सु॒व॒ ।  
+यत् । भ॒द्रम् । तत् । नः॒ । आ । सु॒व॒ ॥
+</details>
+<details><summary>Hellwig Grammar</summary>
+
+-   *viśvāni* ← *viśva*
+- \[noun\], accusative, plural, neuter
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *deva*
+- \[noun\], vocative, singular, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *savitar* ← *savitṛ*
+- \[noun\], vocative, singular, masculine
+- “Savitar; sun; Surya; Savitṛ.”
+------------------------------------------------------------------------
+- *duritāni* ← *durita*
+- \[noun\], accusative, plural, neuter
+- “danger; sin; difficulty; difficulty; evil.”
+------------------------------------------------------------------------
+- *parā*
+- \[adverb\]
+- “away.”
+------------------------------------------------------------------------
+- *suva* ← *sū*
+- \[verb\], singular, Present imperative
+- “give birth; urge; bestow; cause.”
+------------------------------------------------------------------------
+- *yad* ← *yat* ← *yad*
+- \[noun\], nominative, singular, neuter
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *bhadraṃ* ← *bhadram* ← *bhadra*
+- \[noun\], nominative, singular, neuter
+- “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
+    fine-looking; beautiful.”
+------------------------------------------------------------------------
+- *tan* ← *tat* ← *tad*
+- \[noun\], nominative, singular, neuter
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *na* ← *naḥ* ← *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *suva* ← *sū*
+- \[verb\], singular, Present imperative
+- “give birth; urge; bestow; cause.”
+------------------------------------------------------------------------
+</details>
+<details><summary>सायण-भाष्यम्</summary>
+
+हे सवितः **देव** त्वं विश्वानि दुरितानि परा सुव । यद्भदं प्रजापशुगृहादिकं तत् **नः** अस्मभ्यम् “ **सुव** अस्मदभिमुखं प्रेरय। ‘प्रजा वै भद्रं पशवो भद्रं गृहं भद्रम् ' इति हि श्रुतिः ॥ ॥ २५ ॥
+__________________
+9अथ नवमीमाह - हे सवितर्देव विश्वानि दुरितानि परासुव विनाशय । यद्भद्रं कल्याणमस्ति तन्मे मम आसुव सर्वतोऽनुजानीहि । 
+
+</details>
+<details><summary>Wilson</summary>
+
+###### English translation:
+
+“Remove from us, divine **Savitā**, all misfortunes; bestow upon us that which is good,”
+
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+Bhadram = progeny, cattle, dwelling, **prajā** vai bhadram, **pasa**'vo bhadram, gṛham bhadram iti
+</details>
+<details><summary>Jamison Brereton</summary>
+
+All difficulties impel away, god Savitar.  
+What is beneficial, that impel here to us.
+</details>
+<details><summary>Griffith</summary>
+
+Savitar, God, send far away all sorrows and calamities,  
+     And send us only what is good.
+</details>
+<details><summary>Geldner</summary>
+
+Weise alle Gefahren ab, Gott Savitri. Was Glück bringt, das weise uns zu!
+</details>
+<details><summary>Grassmann</summary>
+
+O schaffe alles Ungemach von uns hinweg, Gott Savitar; Was heilsam ist, das schaff uns her.
+</details>
+<details><summary>Elizarenkova</summary>
+
+Все, о бог Савитар,  
+Бедствия прочь отзови,  
+Что благого – то к жизни вызови для нас!
+</details>
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- सविता
+- श्यावाश्व आत्रेयः
+- गायत्री
+- षड्जः
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+मनुष्य किसलिये ईश्वर की प्रार्थना करें, इस विषय को कहते हैं ॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे (सवितः) संपूर्ण संसार के उत्पन्न करनेवाले (देव) और संपूर्ण संसार को प्रकाशित करनेवाले जगदीश्वर ! (विश्वानि) संपूर्ण (दुरितानि) दुष्ट आचरणों को आप (परा, सुव) दूर कीजिये और (यत्) जो (भद्रम्) कल्याणकारक है (तत्) उसको (नः) हम लोगों के लिये (आ, सुव) सब प्रकार से प्राप्त कीजिये ॥५॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  हे परमेश्वर ! आप कृपा से जितने हम लोगों में दुष्ट आचरण हैं, उनको अलग करके धर्म्मयुक्त गुण, कर्म्म और स्वभावों को स्थापित कीजिये ॥५॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
+
+अन्वय:  हे सवितर्देव जगदीश्वर ! विश्वानि दुरितानि त्वं परा सुव यद्भद्रं तन्न आ सुव ॥५॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+मनुष्यैः किमर्थमीश्वरः प्रार्थनीय इत्याह ॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (विश्वानि) सर्वाणि (देव) सकलजगत्प्रकाशक (सवितः) सर्वविश्वोत्पादक (दुरितानि) दुष्टाचरणानि (परा) (सुव) दूरे प्रक्षिप (यत्) (भद्रम्) कल्याणकरम् (तत्) (नः) अस्मभ्यम् (आ) (सुव) समन्तात् प्रापय ॥५॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  हे परमेश्वर ! भवान् कृपया यावन्त्यस्मासु दुष्टाचरणानि सन्ति तावन्ति पृथक्कृत्य धर्म्यगुणकर्मस्वभावान् स्थापयतु ॥५॥
+</details>
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  हे परमेश्वरा! आमचे जेवढे दुष्ट आचरण आहे ते तुझ्या कृपेने नाहीसे होऊन धर्मयुक्त गुण, कर्म, स्वभाव बनू दे. ॥ ५ ॥
+</details>
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_3/03_madhu_naktam.md">
+<details open><summary><h10>03 मधु नक्तम् ...{Loading}...</h10></summary>
+
+मधु॒ नक्त॑म् उ॒तोषसि॒  
+मधु॑म॒त् पार्थि॑व॒ꣳ॒ रजः॑ ।   
+मधु॒ द्यौर॑स्तु नः पि॒ता ॥
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/10_3/03_madhu_naktam.md">
+<details open><summary><h10>03 मधु नक्तम् ...{Loading}...</h10></summary>
+<details><summary>मूलम्</summary>
+
+मधु॒ नक्त॑म् उ॒तोषसि॒  
+मधु॑म॒त् पार्थि॑व॒ꣳ॒ रजः॑ ।   
+मधु॒ द्यौर॑स्तु नः पि॒ता ॥
+</details>
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_3/05_madhumAn_no.md">
+<details open><summary><h10>05 मधुमान् नो ...{Loading}...</h10></summary>
+
+मधु॑मान् नो॒ वन॒स्पति॒र्  
+मधु॑माꣳ अस्तु॒ सूर्यः॑ ।  
+माद्ध्वी॒र् गावो॑ भवन्तु नः ॥
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/10_3/05_madhumAn_no.md">
+<details open><summary><h10>05 मधुमान् नो ...{Loading}...</h10></summary>
+<details><summary>मूलम्</summary>
+
+मधु॑मान् नो॒ वन॒स्पति॒र्  
+मधु॑माꣳ अस्तु॒ सूर्यः॑ ।  
+माद्ध्वी॒र् गावो॑ भवन्तु नः ॥
+</details>
+</details>
+</div>
+<details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
+
+य इ॒मन्त्रिसु॑पर्ण॒मया॑चितं ब्राह्म॒णाय॑  दद्यात् ।  
+भ्रू॒ण॒ह॒त्याव्ँ वा ए॒ते घ्न॑न्ति ।
+</details>
+<details><summary>मूलम्</summary>
+
+य इ॒मन्त्रिसु॑पर्ण॒मया॑चितं ब्राह्म॒णाय॑  दद्यात् ।  
+भ्रू॒ण॒ह॒त्याव्ँ वा ए॒ते घ्न॑न्ति ।
+</details>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/48-50_brahmam_etu_trisuparNAH/07_ye_brAhmaNAstrisuparNam.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+ये ब्रा᳚ह्म॒णास्त्रिसु॑पर्णं॒ पठ॑न्ति ।  
+ते सोमं॒ प्राप्नु॑वन्ति ।  
+आ॒स॒ह॒स्रात्प॒ङ्क्तिं पुन॑न्ति । ओम् । (63)
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/48-50_brahmam_etu_trisuparNAH/07_ye_brAhmaNAstrisuparNam.md">
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+<details><summary>मूलम्</summary>
+
+ये ब्रा᳚ह्म॒णास्त्रिसु॑पर्णं॒ पठ॑न्ति ।  
+ते सोमं॒ प्राप्नु॑वन्ति ।  
+आ॒स॒ह॒स्रात्प॒ङ्क्तिं पुन॑न्ति । ओम् । (63)
+</details>
+</details>
+</div>
+
+
+###### 50
+
+<details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
+
+ब्रह्म॑ मे॒धवा᳚ । मधु॑ मे॒धवा᳚ । ब्रह्म॑मे॒व मधु॑ मे॒धवा᳚ ।
+</details>
+<details><summary>मूलम्</summary>
+
+ब्रह्म॑ मे॒धवा᳚ । मधु॑ मे॒धवा᳚ । ब्रह्म॑मे॒व मधु॑ मे॒धवा᳚ ।
+</details>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/096/06_brahmA_devAnAM.md">
+<details open><summary><h10>०६ ब्रह्मा देवानां ...{Loading}...</h10></summary>
+
+
+ब्र॒ह्मा दे॒वानां॑, पद॒वीः+++(=पद्धति-कृत्)+++ क॑वी॒नाम्  
+ऋषि॒र्विप्रा॑णां महि॒षो मृ॒गाणा॑म् ।  
+श्ये॒नो गृध्रा॑णां॒ स्वधि॑ति॒र् +++(=परशुः/ वज्रः)+++ वना॑नां॒ +++(=हिंसकानां)+++  
++++(ब्रह्मा, कवयः, ऋषयः इति चारु क्रमः। महिषः, श्योनः, वना इत्यपि। वज्रो वै स्वधितिः इति श्रुतौ दृश्यते।)+++  
+सोमः॑ प॒वित्र॒मत्ये॑ति॒ रेभ॑न् +++(=शब्दायमानः)+++ ६  
+
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/09/096/06_brahmA_devAnAM.md">
+<details open><summary><h10>006 ...{Loading}...</h10></summary>
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - पवमानः सोमः
+- ऋषिः - दैवोदासिः प्रतर्दनः
+- छन्दः - त्रिष्टुप्
+</details>
+<details><summary>Thomson & Solcum</summary>
+
+ब्रह्मा꣡ देवा꣡नाम् पदवीः꣡ कवीना꣡म्  
+ऋ꣡षिर् वि꣡प्राणाम् महिषो꣡ मृगा꣡णाम्  
+श्येनो꣡ गृ꣡ध्राणां स्व꣡धितिर् व꣡नानां  
+सो꣡मः पवि꣡त्रम् अ꣡ति एति रे꣡भन्
+</details>
+<details><summary>Vedaweb annotation</summary>
+
+###### Strata
+Normal
+
+###### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+###### Morph
+brahmā́ ← brahmán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+kavīnā́m ← kaví- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+padavī́ḥ ← padavī́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mahiṣáḥ ← mahiṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mr̥gā́ṇām ← mr̥gá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ŕ̥ṣiḥ ← ŕ̥ṣi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víprāṇām ← vípra- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+gŕ̥dhrāṇām ← gŕ̥dhra- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+svádhitiḥ ← svádhiti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+śyenáḥ ← śyená- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vánānām ← vána- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+áti ← áti (invariable)  
+{}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+pavítram ← pavítra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rébhan ← √ribh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+</details>
+<details><summary>पद-पाठः</summary>
+
+ब्र॒ह्मा । दे॒वाना॑म् । प॒द॒ऽवीः । क॒वी॒नाम् । ऋषिः॑ । विप्रा॑णाम् । म॒हि॒षः । मृ॒गाणा॑म् ।  
+श्ये॒नः । गृध्रा॑णाम् । स्वऽधि॑तिः । वना॑नाम् । सोमः॑ । प॒वित्र॑म् । अति॑ । ए॒ति॒ । रेभ॑न् ॥
+</details>
+<details><summary>Hellwig Grammar</summary>
+
+-   *brahmā* ← *brahman*
+- \[noun\], nominative, singular, masculine
+- “Brahma; Brahmin; dhak; Brahman; brahman \[word\]; Brahman; Brahmin;
+    Brahmapurāṇa; Vishnu; Brihaspati.”
+------------------------------------------------------------------------
+- *devānām* ← *deva*
+- \[noun\], genitive, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *padavīḥ* ← *padavī*
+- \[noun\], nominative, singular, feminine
+- “path; padavī \[word\].”
+------------------------------------------------------------------------
+- *kavīnām* ← *kavi*
+- \[noun\], genitive, plural, masculine
+- “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
+    guru; Brahma.”
+------------------------------------------------------------------------
+- *ṛṣir* ← *ṛṣiḥ* ← *ṛṣi*
+- \[noun\], nominative, singular, masculine
+- “Ṛṣi; spiritual teacher; ascetic; Mantra.”
+------------------------------------------------------------------------
+- *viprāṇām* ← *vipra*
+- \[noun\], genitive, plural, masculine
+- “Brahmin; poet; singer; priest; guru; Vipra.”
+------------------------------------------------------------------------
+- *mahiṣo* ← *mahiṣaḥ* ← *mahiṣa*
+- \[noun\], nominative, singular, masculine
+- “Old World buffalo; Mahiṣa; Mahiṣa.”
+------------------------------------------------------------------------
+- *mṛgāṇām* ← *mṛga*
+- \[noun\], genitive, plural, masculine
+- “game; deer; animal; antelope; mṛga \[word\]; Mṛgaśiras.”
+------------------------------------------------------------------------
+- *śyeno* ← *śyenaḥ* ← *śyena*
+- \[noun\], nominative, singular, masculine
+- “hawk; bird of prey; falcon; Śyena; eagle; śyena \[word\]; Śyena.”
+------------------------------------------------------------------------
+- *gṛdhrāṇāṃ* ← *gṛdhrāṇām* ← *gṛdhra*
+- \[noun\], genitive, plural, masculine
+- “vulture.”
+------------------------------------------------------------------------
+- *svadhitir* ← *svadhitiḥ* ← *svadhiti*
+- \[noun\], nominative, singular, masculine
+- “ax; knife.”
+------------------------------------------------------------------------
+- *vanānāṃ* ← *vanānām* ← *vana*
+- \[noun\], genitive, plural, neuter
+- “forest; wood; tree; grove; vana \[word\]; forest; brush.”
+------------------------------------------------------------------------
+- *somaḥ* ← *soma*
+- \[noun\], nominative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *pavitram* ← *pavitra*
+- \[noun\], accusative, singular, neuter
+- “strainer.”
+------------------------------------------------------------------------
+- *aty* ← *ati*
+- \[adverb\]
+- “very; excessively; beyond; excessively.”
+------------------------------------------------------------------------
+- *eti* ← *i*
+- \[verb\], singular, Present indikative
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+------------------------------------------------------------------------
+- *rebhan* ← *ribh*
+- \[verb noun\], nominative, singular
+- “moo; murmur; praise.”
+------------------------------------------------------------------------
+</details>
+<details><summary>सायण-भाष्यम्</summary>
+
+सोम एवं-रूपो भवति।  
+
+**देवानां** स्तोत्रकारिणाम् ऋत्विजां **ब्रह्मा** ब्रह्माख्यर्त्विक् स्थानी यो भवति,  
+यद् वा **देवानां** द्योतमानानाम् इन्द्रादीनां **ब्रह्मा** राजाभवति । 
+
+तथा **कवीनां** क्रान्तप्रज्ञानां **पदवीः** स्खलन्ति पदानि साधुत्वेन यो योजयति सपदवीः । वीगत्यादिष्व् इत्येतस्मात् क्विपि रूपम् । 
+
+तथा **विप्राणां** मेधाविनाम्मध्ये ऋषिर्भवति । यः परोक्षम्पश्यति सऋषिः । ऋषिर्दर्श- नादिति । मृगाणां महिषोभवति महिषाख्योबलवान् राजाभवति । तथा गृध्राणां पक्षि- विशेषाणां श्येनः शंसनीयः पक्षिराजोभवति । वनानां वनतिर्हिसाकर्मा । हिंसकानां छेदका- नाम्मध्ये स्वधितिः एतन्नामकः छेदकोसि । एवम्प्रभावः सोमः रेभन् शब्दायमानःसन् पवि त्रमूर्णास्तुकेन कृतमत्येति अतिगच्छति ॥ ६ ॥
+</details>
+<details><summary>Wilson</summary>
+
+###### English translation:
+
+“The **Brahmā** of the gods, the guide of the sages, the ṛṣi of the pious, the buffalo of wild animals, the falcon of the vultures, the hatchet of deadly weapons, the **Soma** passes through the filter with a roar.”
+
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+The Brahmā of the gods: i.e., the king of the gods; or, it may mean the **brāhmaṇa** of the priests; the ṛṣi: yaḥ **parokṣam** paśyati sa ṛṣiḥ, ṛsirdarśanāt (**Nirukta** 2.11)
+</details>
+<details><summary>Jamison Brereton</summary>
+
+Formulator for the gods, trail-blazer for the sage poets, seer for the  inspired poets, buffalo of the wild beasts,  
+falcon of the birds of prey, axe of the trees—Soma goes rasping  
+through the filter.
+</details>
+<details><summary>Jamison Brereton Notes</summary>
+
+Though the syntax is kept absolutely constant - nom. sg. + gen. pl. - there is a shifting functional relationship between the head noun and its genitive in the seven phrases here: the first two are roles Soma performs for the group identified by the gen., the next three a particular, and superior, individual token from the group (though the third pairing, “seer for/of the inspired poets,” is ambiguous between the first type and the second), and the last is sort of a negative version of the role he plays for the group.
+</details>
+<details><summary>Griffith</summary>
+
+Brahman of Gods, the Leader of the poets, Rsi of sages, Bull of savage creatures,  
+     Falcon amid the vultures, Axe of forests, over the cleansing sieve goes Soma singing.
+</details>
+<details><summary>Geldner</summary>
+
+Der Hohepriester der Götter, der Pfadfinder der Seher, der Rishi unter den Beredten, der Büffel unter den wilden Tieren, der Adler unter den Geiern, die Axt für die Bäume, geht Soma laut redend durch die Seihe.
+</details>
+<details><summary>Grassmann</summary>
+
+Der Götter Beter und der Priester Führer, der Sänger Dichter und der Stier der Thiere, Der Geier Adler und die Axt der Wälder, der Soma wandert singend durch die Seihe.
+</details>
+<details><summary>Elizarenkova</summary>
+
+Брахман богов, пролагатель пути поэтов,  
+Риши среди вдохновенных, буйвол среди диких животных,  
+Орел среди хищных птиц, топор для деревьев,  
+Сома проходит сквозь цедилку, распевая.
+</details>
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पवमानः सोमः
+- प्रतर्दनो दैवोदासिः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_2/01_haMsash_shuchiShad.md">
+<details open><summary><h10>01 हंसश् शुचिषद् ...{Loading}...</h10></summary>
+
++++(अहं)+++ ह॒ꣳ॒सश् शु॑चि॒-षद्, वसु॑र् अन्तरिक्ष॒-सद्,  
++होता॑ वेदि॒-षद्, अति॑थिर् दुरोण॒-सत् ।  
+नृ॒-षद्, व॑र॒-सद्, ऋ॑त॒-सद् व्यो॑म॒-सद्,  
+अ॒ब्-जा, गो॒-जा, ऋ॑त॒-जा, अ॑द्रि॒-जा, ऋ॒तं बृ॒हत् ॥
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/10_2/01_haMsash_shuchiShad.md">
+<details open><summary><h10>01 हंसश् शुचिषद् ...{Loading}...</h10></summary>
+<details><summary>मूलम्</summary>
+
+ह॒ꣳ॒सश्शु॑चि॒षद्वसु॑रन्तरिख्ष॒सद्धोता॑ वेदि॒षदति॑थिर्दुरोण॒सत् ।  
+नृ॒षद्व॑र॒सदृ॑त॒सद्व्यो॑म॒सद॒ब्जा गो॒जा ऋ॑त॒जा अ॑द्रि॒जा ऋ॒तम्बृ॒हत् ॥ [30]
+</details>
+<details><summary>Keith</summary>
+
+I The gander seated in purity, the bright one seated in the atmosphere,  
+The Hotr seated at the altar, the guest seated in the house,  
+Seated among men, seated in the highest, seated in holy order, seated in the firmament, Born of the waters, born of the cows, born of holy order, born of the mountain, the great holy order.
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+अध्यात्ममधिदैवमधियज्ञं चाधिकृत्य त्रेधेमं मन्त्रं व्याचक्षते । तत्र प्रकरणानुरूपोर्थविशेषो गृहीतव्यः ।
+अध्यात्मे तावत् - हंसः आत्मा । शुचिषु स्थानेषु सीदतीति शुचिषत् । वासयिता वसुः वरिष्ठो वा । अन्तरिक्षे हृदयाकाशादिषु सीदतीति अन्तरिक्षसत् । होता आह्वाता देवानामादाता वा । वेद्यां यागार्थं सीदतीति वेदिषत् । अतिथिस्सततगतिः, तिथिकृतविशेषरहितो वा । दुःखरक्षणेषु गृहादिषु सीदतीति दुरोणसत् । नृषु प्राणिशरीरेषु तद्भावेन सीदतीति नृषत् । वरेषु फलेषु भोक्तृत्वेन सीदतीति वरसत् । ऋते यज्ञे सत्ये वा सीदतीति ऋतसत् । विविधे रक्षणे तृप्तौ वा सीदतीति व्योमसत् । अद्भ्यो जातः अब्जाः शरीराभिप्रायं, शुक्क्लाज्जातत्वात् । यथा 'पञ्चम्यामाहुतावापः पुरुषवचसो भवन्ति' इति । अपां वा यागद्वारेण जनयिता । अन्तर्भावितण्यर्थात् 'जनसनखन' इति विट्, 'विड्वनोः' इत्यात्वम् । गोषु पशुषु अनुग्राहकतया जातः गोजाः । ऋते यज्ञे ऋतार्थं वा जातः प्रादुर्भूतः ऋतजाः । अद्रिजाः पर्वतादिष्वपि प्रादुर्भूतः । ऋतं सत्यरूपं बृहद्ब्रह्म ।
+अथाधिदैवे - हंस आदित्यः । शुचिनि मण्डले सीदतीति शुचिषत् । होता अपामादाता । वेद्यामाराध्यतया सीदतीति वेदिषत् । अतिथिस्सततगतिः । दुरोणेषु गृहेषु मेषादिषु सीदतीति दुरोणसत् । वराणां दातृत्वेन तेषु सीदतीति वरसत् । अपो जनयतीत्यब्जाः । गोजाः रश्मिसमूहवर्ती । ऋते सत्ये जात ऋतजाः । अद्रिजाः उदयाचलात्प्रादुर्भूतः । समानमन्यत् ।
+
+अथाधियज्ञे - हंसो रथः हन्ति पृथिवीमिति । शुचौ देवयजने रथवाहने च सीदतीति शुचिषत् । शुचिर्यजमानः सीदत्यस्मिम्निति वा शुचिषत् । होतेव वेद्यां सीदतीति वेदिषत् । अतिथिस्सर्वत्राप्रतिहतगतिः । नृषत् मनुष्यार्थं शूरार्थं वा सीदतीति नृषु वा उपकारार्थं सीदतीति नृषत् । ऋतार्थं सत्यार्थं यज्ञार्थं वा सीदतीति ऋतसत् । अब्जाः उदकाज्जातः । गोजाः गोविकारचर्मादिग्रथितत्वात् ततो जात इत्युच्यते । अद्रिभिर्दारुभिरुत्पादितत्वात्ततो जात इत्युच्यते अद्रिजाः । गतमन्यत् ॥
+
+इत्यष्टमे पञ्चदशोनुवाकः ॥
+</details>
+</details>
+</div>
+<details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
+
+य इ॒मन्त्रिसु॑पर्ण॒मया॑चितं ब्राह्म॒णाय॑ दद्यात् ।  
+वी॒र॒ह॒त्याव्ँ वा ए॒ते घ्न॑न्ति ।  
+</details>
+<details><summary>मूलम्</summary>
+
+य इ॒मन्त्रिसु॑पर्ण॒मया॑चितं ब्राह्म॒णाय॑ दद्यात् ।  
+वी॒र॒ह॒त्याव्ँ वा ए॒ते घ्न॑न्ति ।  
+
+</details>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/48-50_brahmam_etu_trisuparNAH/07_ye_brAhmaNAstrisuparNam.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+ये ब्रा᳚ह्म॒णास्त्रिसु॑पर्णं॒ पठ॑न्ति ।  
+ते सोमं॒ प्राप्नु॑वन्ति ।  
+आ॒स॒ह॒स्रात्प॒ङ्क्तिं पुन॑न्ति । ओम् । (63)
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/48-50_brahmam_etu_trisuparNAH/07_ye_brAhmaNAstrisuparNam.md">
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+<details><summary>मूलम्</summary>
+
+ये ब्रा᳚ह्म॒णास्त्रिसु॑पर्णं॒ पठ॑न्ति ।  
+ते सोमं॒ प्राप्नु॑वन्ति ।  
+आ॒स॒ह॒स्रात्प॒ङ्क्तिं पुन॑न्ति । ओम् । (63)
+</details>
+</details>
+</div>
+</details>
+</div>
 
 ## 51-57
 
