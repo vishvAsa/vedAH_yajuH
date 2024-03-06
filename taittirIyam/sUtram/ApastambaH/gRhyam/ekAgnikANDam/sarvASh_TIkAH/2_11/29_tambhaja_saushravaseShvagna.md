@@ -24,15 +24,15 @@ title = "२९ तम्भज सौश्रवसेष्वग्न"
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Cretic
 
-############ Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line  
 genre M
-############ Morph
+###### Morph
 ā́ ← ā́ (invariable)  
 {}
 
@@ -210,7 +210,7 @@ jāténa ← √janⁱ- (root)
 ꣡</details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “Prosper the worshipper, **Agni**, when beautiful sacrificial viands (are being offered), when sacredpraises are being recited (by him). May he be dear to **Sūrya**, dear to Agni; may he by a son born, or sons to beborn, overcome (his foes).”
 </details>

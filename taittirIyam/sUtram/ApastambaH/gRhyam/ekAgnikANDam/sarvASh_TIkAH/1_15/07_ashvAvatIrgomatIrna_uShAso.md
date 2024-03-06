@@ -24,15 +24,15 @@ title = "०७ अश्वावतीर्गोमतीर्न उषा
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Cretic
 
-############ Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-############ Morph
+###### Morph
 áśvāvatīḥ ← áśvāvant- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -179,7 +179,7 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “{Text is missing}”
 </details>

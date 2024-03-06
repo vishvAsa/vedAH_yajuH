@@ -26,15 +26,15 @@ title = "०५ यस्त्वा हृदा"
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Cretic
 
-############ Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-############ Morph
+###### Morph
 hr̥dā́ ← hā́rdi ~ hr̥d- (nominal stem)  
 {case:INS, gender:N, number:SG}
 
@@ -183,11 +183,11 @@ prajā́bhiḥ ← prajā́- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “Inasmuch as I who am a mortal earnestly invoke you who are an immortal, praising you with a devoted heart; therefore, **Jātavedas**, grant us food, and may I obtain immortality through my posterity.”
 
-########### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Immortality: an unbroken succession of descendants, amṛtatvam santatyaviccheda lakṣaṇam (amṛtatvam = tadu te partyāmṛtam : **Taittirīya** **Brāhmaṇa** 1.5.5.6); another text may be cited: prajām anu prajāyate tad u te martyamṛtam, when progeny is born after progeny, that verily is the immortality of your mortality
 </details>

@@ -24,15 +24,15 @@ title = "२७ श्रीणामुदारो धरुणो"
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Cretic
 
-############ Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-############ Morph
+###### Morph
 dharúṇaḥ ← dharúṇa- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -179,7 +179,7 @@ ví ← ví (invariable)
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “Liberal, exciter of splendours, depositary of riches, granter of desires, preserver of the **Soma**, theinhabiter (of the world), the son of strength, (plural ced) in the waters, the king (**Agni**) blazes, kindled at thecommencement of dawn.”
 </details>

@@ -24,15 +24,15 @@ title = "०२ प्रातर्जितम् भगमुग्रम्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Cretic
 
-############ Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-############ Morph
+###### Morph
 bhágam ← bhága- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -228,11 +228,11 @@ _______________
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “We invoke at dawn fierce **Bhaga**, the son of **Aditi**, who is the sustainer (of the world), to whom the poorman praising him applies, saying, give (me wealth), to whom the opulent prince (addresses the same prayer).”
 
-########### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Towhom the poor man: ādhraścid yam **manya** **mānas** turascid **rājā** cid yam bhagam bhakṣity aha: the ādhra= unsatisfied, hungry, or poor;
 

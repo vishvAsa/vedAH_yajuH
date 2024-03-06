@@ -26,15 +26,15 @@ title = "०६ यस्मै त्वम्"
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Cretic
 
-############ Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-############ Morph
+###### Morph
 jātavedaḥ ← jātávedas- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -191,7 +191,7 @@ svastí ← svastí- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “Upon whatsoever performer of good works you, **Agni**, who are **Jātavedas**, cast a favourable regard, he enjoys welfare, and riches, comprehending horses, cattle, sons and **male** descendants.”
 </details>

@@ -30,15 +30,15 @@ title = "२१ दिवस् परि"
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Cretic
 
-############ Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-############ Morph
+###### Morph
 agníḥ ← agní- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -182,11 +182,11 @@ svādhī́ḥ ← svādhī́- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “**Agni** was first born above the sky; as Ja-tavedas he was born the second time among us; the friend ofman, he was born the third time in the watters; the sage kindlin him eternally praises him.”
 
-########### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Agni was first borṅi.e., Agni represents successively the sun, fire, lightning. (**Yajus**. 12.18-29: Agni was first genitive rated as **Prāṇa**,or vital air, from the breath of heaven, and that man genitive rated him; secondly, that **Prajāpati** (nṛmaṇaḥ) createdhim eternal in all the waters, and that the **yajamāna** lighting him also gives birth to him)
 </details>

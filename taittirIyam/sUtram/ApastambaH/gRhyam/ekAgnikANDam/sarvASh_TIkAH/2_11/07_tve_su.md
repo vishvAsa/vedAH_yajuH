@@ -24,14 +24,14 @@ title = "०७ त्वे सु"
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Strophic
 
-############ Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M
-############ Morph
+###### Morph
 putra ← putrá- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -140,7 +140,7 @@ tvā́m ← tvám (pronoun)
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “O son of strength, men, uttering their desires, abide happily in you, none, **Indra**, surpasses you.”
 </details>

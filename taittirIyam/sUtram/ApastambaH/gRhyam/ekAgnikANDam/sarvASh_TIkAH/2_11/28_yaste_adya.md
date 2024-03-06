@@ -24,15 +24,15 @@ title = "२८ यस्ते अद्य"
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Cretic
 
-############ Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-############ Morph
+###### Morph
 adyá ← adyá (invariable)  
 {}
 
@@ -209,11 +209,11 @@ yaviṣṭha ← yáviṣṭha- (nominal stem)
 ꣡</details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “Auspiciously radiant and divine **Agni**, youngest (of the gods), grant ample wealth to the eminent(worshipper), who presents to you today cakes dressed with butter, and confer happiness upon one devoted tothe gods.”
 
-########### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Gomantam = radiant; from go, a ray of light; vrajamārga (a road), the way to the solar orb, the path ofthe gods
 </details>

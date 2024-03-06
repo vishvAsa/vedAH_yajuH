@@ -24,15 +24,15 @@ title = "३० त्वामग्ने यजमाना"
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Cretic
 
-############ Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-############ Morph
+###### Morph
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -184,7 +184,7 @@ vrajám ← vrajá- (nominal stem)
 ꣡</details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “To you, **Agni**, the worshippers offer daily all desirable treasures; (abiding) with you, desirous of wealth,the sages have set open the pasturage frequented by cattle.”
 </details>

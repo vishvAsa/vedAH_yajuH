@@ -43,7 +43,7 @@ title = "०४-११ उष्णेन वायवुदकेनेत्�
 
 +++(तत्राचार्यस्संसर्जनोन्दने कृत्वा क्षुरं नापितादपादाय प्रतिदिशं प्रवाप्य पुनस्तस्मै प्रदाय तं च वपन्तमुत्तरयानुमन्त्रयते । इति स्नातकसंस्कारे हरदत्तः। नाचार्यः - अन्योऽपि ब्राह्मण इति सुदर्शनसूरिः।)+++
 
-#### प्रवपनम्
+### प्रवपनम्
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/10_06_trIMstrIn.md">
 <details open><summary><h4>१० ०६ त्रींस्त्रीन् ...{Loading}...</h4></summary>
 
@@ -99,7 +99,7 @@ title = "०४-११ उष्णेन वायवुदकेनेत्�
 </details>
 </div>
 
-#### क्षुर-शोधन-मन्त्रणम्
+### क्षुर-शोधन-मन्त्रणम्
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/10_07_vapantamuttarayAnumantrayate.md">
 <details open><summary><h4>१० ०७ वपन्तमुत्तरयानुमन्त्रयते ...{Loading}...</h4></summary>
 
@@ -118,7 +118,7 @@ title = "०४-११ उष्णेन वायवुदकेनेत्�
 </details>
 </div>
 
-#### केश-दर्भ-निक्षेपः
+### केश-दर्भ-निक्षेपः
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/10_08_AnaDuhe_shakRtpiNDe.md">
 <details open><summary><h4>१० ०८ आनडुहे शकृत्पिण्डे ...{Loading}...</h4></summary>
 

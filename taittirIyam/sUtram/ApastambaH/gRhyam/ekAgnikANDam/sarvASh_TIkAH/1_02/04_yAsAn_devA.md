@@ -11,12 +11,12 @@ title = "०४ यासान् देवा"
 <details open><summary><h2>०३ यासां देवा ...{Loading}...</h2></summary>
 <details><summary>Whitney</summary>
 
-##### Translation
+#### Translation
  3. They of whom the gods in heaven make \[their\] draught (*bhakṣá*);  
 they that come to be abundantly in the atmosphere; who, of beauteous  
 color, etc. etc.
 
-##### Notes
+#### Notes
 Again TS. MS. have a different **c** (*yā́ḥ pṛthivī́m páyaso 'ndáanti  
 śukrā́ḥ*). Our O. has at end of **c** *vírupāḥ* (as TS. MS. in 1 **c**).  
 MP. substitutes *níviṣṭās* for *bhavantī* in **b**. The comm. renders  

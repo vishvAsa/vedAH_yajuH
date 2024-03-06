@@ -24,15 +24,15 @@ title = "०१ प्रातरग्निम् प्रातरिन्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Cretic
 
-############ Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-############ Morph
+###### Morph
 agním ← agní- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -203,7 +203,7 @@ _____________
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “We invoke at dawn **Agni**; at dawn **Indra**; at dawn **Mitra** and **Varuṇa**; at dawn the **Aśvins**; at dawnBhaga, **Pūṣan**, **Brahmaṇaspati**; at dawn **Soma** and **Rudra**.”
 </details>

@@ -24,15 +24,15 @@ title = "२५ उशिक्पावको अरतिस्सुमेध
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Cretic
 
-############ Pāda-label
+###### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
-############ Morph
+###### Morph
 aratíḥ ← aratí- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -181,11 +181,11 @@ dyā́m ← dyú- ~ div- (nominal stem)
 ꣡</details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “Desiring (oblations), purifying, moving quickly, sagacious, immortal, **Agni** has been stationed amongmortals; he sends forth the smoke, and goes wearing a radiant (form), and percading the heaven with brilliantlustre.”
 
-########### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Moving quickly: **arati** = going; or, the destroyer of beings; or, paryāptamati, of sufficient understanding;or, duṣṭeṣu prītirahitā, devoid of affection for the wicked; smoke wearing a radiant form: aruṣam = dhāmam,smoke not hurtint the eyes, or not shining;
 
