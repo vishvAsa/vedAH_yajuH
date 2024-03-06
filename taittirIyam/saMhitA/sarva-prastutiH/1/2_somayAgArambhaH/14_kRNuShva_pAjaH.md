@@ -35,7 +35,7 @@ title = "१४ कृणुष्व पाजः"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/01_kRNuShva_pAjaH.md"></div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/01_kRNuShva_pAjaH.md"></div>
 
 
 
@@ -55,7 +55,7 @@ title = "१४ कृणुष्व पाजः"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/02_tava_bhramAsa.md"></div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/02_tava_bhramAsa.md"></div>
 <div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/03_prati_spasho.md">
 <details open><summary><h2>विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
@@ -67,7 +67,7 @@ title = "१४ कृणुष्व पाजः"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/03_prati_spasho.md"></div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/03_prati_spasho.md"></div>
 <div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/04_udagne_tiShTha.md">
 <details open><summary><h2>विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
@@ -79,7 +79,7 @@ title = "१४ कृणुष्व पाजः"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/04_udagne_tiShTha.md"></div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/04_udagne_tiShTha.md"></div>
 <div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/05_Urdhvo_bhava.md">
 <details open><summary><h2>विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
@@ -91,7 +91,7 @@ title = "१४ कृणुष्व पाजः"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/05_Urdhvo_bhava.md"></div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/05_Urdhvo_bhava.md"></div>
 
 
 
@@ -109,7 +109,7 @@ title = "१४ कृणुष्व पाजः"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/06_sa_te.md"></div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/06_sa_te.md"></div>
 <div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/07_sedagne_astu.md">
 <details open><summary><h2>विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
@@ -121,7 +121,7 @@ title = "१४ कृणुष्व पाजः"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/07_sedagne_astu.md"></div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/07_sedagne_astu.md"></div>
 
 
 
@@ -139,7 +139,7 @@ title = "१४ कृणुष्व पाजः"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/08_archAmi_te.md"></div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/08_archAmi_te.md"></div>
 <div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/09_iha_tvA.md">
 <details open><summary><h2>विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
@@ -151,7 +151,7 @@ title = "१४ कृणुष्व पाजः"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/09_iha_tvA.md"></div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/09_iha_tvA.md"></div>
 <div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/10_yastvA_svashvaH.md">
 <details open><summary><h2>विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
@@ -163,7 +163,7 @@ title = "१४ कृणुष्व पाजः"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/10_yastvA_svashvaH.md"></div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/10_yastvA_svashvaH.md"></div>
 <div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/11_maho_rujAmi.md">
 <details open><summary><h2>विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
@@ -175,7 +175,7 @@ title = "१४ कृणुष्व पाजः"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/11_maho_rujAmi.md"></div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/11_maho_rujAmi.md"></div>
 
 
 
@@ -193,7 +193,7 @@ title = "१४ कृणुष्व पाजः"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/12_asvapnajastaraNayaH_sushevA.md"></div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/12_asvapnajastaraNayaH_sushevA.md"></div>
 <div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/13_ye_pAyavo.md">
 <details open><summary><h2>विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
@@ -208,7 +208,7 @@ title = "१४ कृणुष्व पाजः"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/13_ye_pAyavo.md"></div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/13_ye_pAyavo.md"></div>
 
 
 
@@ -229,7 +229,7 @@ title = "१४ कृणुष्व पाजः"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/14_tvayA_vayaM.md"></div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/14_tvayA_vayaM.md"></div>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 15।अथ पञ्चदशी - अयेति ॥ 
@@ -245,7 +245,7 @@ title = "१४ कृणुष्व पाजः"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/15_ayA_te.md"></div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/004/15_ayA_te.md"></div>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 16अथ पुरोनुवाक्या - रक्षोहणमिति ॥ 'रक्षोघ्नी याज्यानुवाक्ये भवतः' इति च ब्राह्मणम् । 
@@ -261,7 +261,7 @@ title = "१४ कृणुष्व पाजः"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/087/01_raxohaNaM_vAjinamA.md"></div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/087/01_raxohaNaM_vAjinamA.md"></div>
 
 
 
@@ -282,7 +282,7 @@ title = "१४ कृणुष्व पाजः"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/002/09_vi_jyotiShA.md"></div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/002/09_vi_jyotiShA.md"></div>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 18अथ याज्याविकल्पः, उपहोमार्था वा - उतेति ॥ 
@@ -298,7 +298,7 @@ title = "१४ कृणुष्व पाजः"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/002/10_uta_svAnAso.md"></div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/002/10_uta_svAnAso.md"></div>
 
 
 इति श्रीभट्टभास्करमिश्रविरेचिते यजुर्वेदभाष्ये ज्ञानयज्ञाख्ये प्रथमे काण्डे द्वितीयप्रपाठके चतुर्दशोनुवाकः ॥

@@ -509,7 +509,7 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 </div>  
 
 ### आज्यभागान्ते उत्तराभ्यामभिमन्त्रणम्  
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="vedAH/yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/04_10_agner.md"></div>  
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/04_10_agner.md"></div>  
 
 #### पाणिग्रहणम्
 ## पाणिग्रहणम्

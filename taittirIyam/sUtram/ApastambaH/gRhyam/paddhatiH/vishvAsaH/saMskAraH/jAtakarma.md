@@ -4,7 +4,7 @@ unicode_script: devanagari
 
 ---
 ## आपस्तम्बोक्तिः
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="../../../karmANi/jAtakarma/"></div>  
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/karmANi/jAtakarma/"></div>  
 
 
 ## पूर्वाङ्गम्
@@ -54,5 +54,3 @@ unicode_script: devanagari
 बोधयनोक्तकारिकाम् अवलम्ब्य - आश्विनः, आपभरणः, कार्तिकः कृत्तिक इति वा, रौहिणः, मार्गशीर्षः, आर्द्रकः, पुनर्वसुः, तिष्यः, आश्लेषः, माघः, पूर्वाफल्गुनः, उत्तराफल्गुनः, हस्तः, चैत्रः, स्वातिः, विशाखः, अनूराधः, ज्येष्ठः, मूलकः, पूर्वाषाढः, उत्तराषाढः, श्रवणः, श्रविष्ठः, शातभिषजः, पूर्वाप्रोष्ठपदः, उत्तराप्रोष्ठपदः, रैवतः इति नामानि।
 
 स्त्रीनामप्राप्तिः - स्त्रीविषये आबन्तता, स्वातिपुनर्वस्वोः पुंवत्। तत्र सञ्जीविनीव्याख्या - ""स्त्रीविषये पचविंशतिनक्षत्राणामपि आबन्तता, न तु अकारान्तता । आदिवृद्धिस्तु स्यादेव ॥""
-
-<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="../../../karmANi/jAtakarma/"></div> 

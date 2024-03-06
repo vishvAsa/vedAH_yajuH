@@ -63,7 +63,7 @@ unicode_script = "devanagari"
 ## संस्कारहोमः
 संस्कारहोमे विनियोगः।
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="../angAni/vyAhRti-homaH/"></div>  
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/hiraNyakeshI/gRhyam/paddhatiH/mAdhvA/mantrAdi/vyAhRti-homaH.md"></div>  
 
 
 
@@ -140,7 +140,7 @@ unicode_script = "devanagari"
 ## आहुति-साद्गुण्य-कल्पनम्
 आहुति-साद्गुण्यार्थम् आज्यहोमे विनियोगः। (प्रातः सायम् आहुत्योर् इदम् पृथक्।)
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="../angAni/vyAhRti-homaH/"></div>  
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/hiraNyakeshI/gRhyam/paddhatiH/mAdhvA/mantrAdi/vyAhRti-homaH.md"></div>  
 
 ## समित्-समर्पणम्
 एकां समिधम् आदाय  
@@ -179,7 +179,7 @@ unicode_script = "devanagari"
 
 संस्कारहोमे विनियोगः।
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="../angAni/vyAhRti-homaH/"></div>  
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/hiraNyakeshI/gRhyam/paddhatiH/mAdhvA/mantrAdi/vyAhRti-homaH.md"></div>  
 
 ### प्रातः
 #### कालातीत-प्रायश्चित्तम्
@@ -208,7 +208,7 @@ unicode_script = "devanagari"
 ## सर्वप्रायश्चित्ताज्यहोमः
 सर्वप्रायश्चित्ताज्यहोमे विनियोगः।
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="../angAni/vyAhRti-homaH/"></div>  
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/hiraNyakeshI/gRhyam/paddhatiH/mAdhvA/mantrAdi/vyAhRti-homaH.md"></div>  
 
 
 ## समापनम्
