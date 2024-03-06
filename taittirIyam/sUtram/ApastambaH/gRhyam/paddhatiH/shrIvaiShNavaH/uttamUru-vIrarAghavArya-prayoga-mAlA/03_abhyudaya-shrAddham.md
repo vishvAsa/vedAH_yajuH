@@ -51,7 +51,7 @@ title = "०३ अभ्युदय-श्राद्धम्"
 >
 > इयञ् च वृद्धिः ।
 
-## दानम्
+## जल-नयनम्
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/3/3/02_stotropAkaraNam_pratigarAngamantrAshcha/iDA_devahUH.md">
 <details open><summary><h5>इडा॑ देव॒हूः ...{Loading}...</h5></summary>
@@ -206,6 +206,7 @@ O Sarasvati, come hither.
 इति साक्षतं जलं  
 हिरण्योपरि **निनीय** 
 
+## दानम्
 > इदं हिरण्यं नानागोत्रेभ्यः श्रीवैष्णवेभ्यस्तेभ्यः तेभ्यः सम्प्रददे न मम 
 
 इति साक्षतं जलं **निस्राव्य**,  
