@@ -24,7 +24,6 @@ title = "०९ प्रायश्चित्तादि"
 </details>
 </details>
 </div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/prAyashcittAny_asheShANi.md">
 <details open><summary><h5>प्रायश्चित्तान्यशेषाणि ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

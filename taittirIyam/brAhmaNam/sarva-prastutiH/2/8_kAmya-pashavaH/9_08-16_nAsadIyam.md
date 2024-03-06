@@ -30,7 +30,7 @@ But even if thought is the ultimate and primal creative act, the origin of the  
 </div>
 
 
-#### 01 नासदासीन्नो सदासीत्तदानीम् - त्रिष्टुप्
+### 01 नासदासीन्नो सदासीत्तदानीम् - त्रिष्टुप्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129/01_nAsadAsInno_sadAsIttadAnIM.md">
 <details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
 
@@ -64,15 +64,15 @@ But even if thought is the ultimate and primal creative act, the origin of the  
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-############ Pāda-label
+###### Pāda-label
 popular  
 popular  
 popular  
 popular
-############ Morph
+###### Morph
 ásat ← ásant- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -285,11 +285,11 @@ ___________
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “The non-existent was not, the existent was not; then the world was not, not the firmament, nor thatwhich is above (the firmament). How could there by any investing envelope, and where? Of what (could there be)felicity? How (could there be) the deep unfathomable water?”
 
-########### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 The non-existent: sat, asat: visible and invisibleexistence (asat śaśaviṣāṇavatrirupākhyam nāsīt: **Taittirīya** **Saṃhitā** 7.1.5.1); matter and spirit, prakṛtiand **puruṣa**; the First Cause or **Brahmā** was in the beginning undeveloped in its effects, and existed beforeboth; investing envelope: each element as created or developed is invested by its rudiment; of what could therebe felicity: i.e., of whom or of what living being could enjoyment, or fruition, whether of pain or plural asure, bepredicated, there being no life?
 </details>
@@ -352,7 +352,7 @@ Zu jener Zeit war weder Sein, noch Nichtsein, nicht war der Luftraum, noch der H
 </details>
 </div>
 
-#### 02 न मृत्युरासीदमृतम् - त्रिष्टुप्
+### 02 न मृत्युरासीदमृतम् - त्रिष्टुप्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129/02_na_mRtyurAsIdamRtaM.md">
 <details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
 
@@ -386,15 +386,15 @@ Zu jener Zeit war weder Sein, noch Nichtsein, nicht war der Luftraum, noch der H
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-############ Pāda-label
+###### Pāda-label
 popular  
 popular  
 popular  
 popular
-############ Morph
+###### Morph
 amŕ̥tam ← amŕ̥ta- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -598,11 +598,11 @@ ___________
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “Death was not nor at that period immortality, there was no indication of day, of night; That Oneunbreathed upon breathed of his own strength, other than That there was nothing else whatever.”
 
-########### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Breathed:**svadhā** = **māyā**, or **prakṛti** (illusion or nature), the source of the world of phenomena;
 
@@ -659,7 +659,7 @@ Nicht Tod und nicht Unsterblichkeit war damals, nicht gab's des Tages noch der N
 </details>
 </div>
 
-#### 03 तम आसीत्तमसा - त्रिष्टुप्
+### 03 तम आसीत्तमसा - त्रिष्टुप्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129/03_tama_AsIttamasA.md">
 <details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
 
@@ -693,15 +693,15 @@ Nicht Tod und nicht Unsterblichkeit war damals, nicht gab's des Tages noch der N
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-############ Pāda-label
+###### Pāda-label
 popular  
 popular  
 popular  
 popular
-############ Morph
+###### Morph
 ágre ← ágra- (nominal stem)  
 {case:LOC, gender:N, number:SG}
 
@@ -887,11 +887,11 @@ _______________
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “There was darkness covered by darkness in the beginning, all this (world) was undistinguishablewater; that empty united (world) which was covered by a mere nothing, was produced through the power ofausterity.”
 
-########### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Austerity: **tapas** = not penance, but the contemplation of things which were to be created: yahsarvajñaḥ sarvavit yasya jñānamayam **tapaḥ**: **Muṇḍa**.ka **Upaniṣad** 1.1.9
 </details>
@@ -946,7 +946,7 @@ Nur Dunkel war, verhüllt von Dunkel, anfangs und unerkennbar wogte dieses alles
 </details>
 </div>
 
-#### 04 कामस्तदग्रे समवर्तताधि - त्रिष्टुप्
+### 04 कामस्तदग्रे समवर्तताधि - त्रिष्टुप्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129/04_kAmastadagre_samavartatAdhi.md">
 <details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
 
@@ -980,15 +980,15 @@ Nur Dunkel war, verhüllt von Dunkel, anfangs und unerkennbar wogte dieses alles
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-############ Pāda-label
+###### Pāda-label
 popular  
 popular  
 popular  
 popular
-############ Morph
+###### Morph
 ádhi ← ádhi (invariable)  
 {}
 
@@ -1164,11 +1164,11 @@ _______________
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “In the beginning there was desire, which was the first seed of mind; sages having meditated in theirhearts have discovered by their wisdom the connexion of the existent with te non-existent.”
 
-########### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Desire: i.e., in themind of the Supreme Being
 </details>
@@ -1224,7 +1224,7 @@ Da regte sich zuerst in ihm Begierde, als sich des Geistes erster Same zeigte; E
 </details>
 </div>
 
-#### 05 तिरश्चीनो विततो - त्रिष्टुप्
+### 05 तिरश्चीनो विततो - त्रिष्टुप्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129/05_tirashchIno_vitato.md">
 <details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
 
@@ -1259,15 +1259,15 @@ Da regte sich zuerst in ihm Begierde, als sich des Geistes erster Same zeigte; E
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-############ Pāda-label
+###### Pāda-label
 popular  
 popular  
 popular  
 popular
-############ Morph
+###### Morph
 eṣām ← ayám (pronoun)  
 {case:GEN, gender:M, number:PL}
 
@@ -1423,11 +1423,11 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “Their ray was stretched out, whether across, or below, or above; (some) were shedders of seed,(others) were mighty; food was inferior; the eater was superior.”
 
-########### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Their ray was stretched out: a reference to thesuddenness of creation, which was developed in the twinkling of an eye, like the flash of the sun's ray. It was soquick that it was doubtful whether the things in the central space (across) were created first, or those above orthose below; i.e., creation took plural ce simultaneously in all three portions of the universe. This was the order inwhich things were created, but the development of the world was like a flash of lightning, so that the series couldnot be distinguished (tatsṛṣṭvā tadevānuprāviṣat: **Taittirīya** **Āraṇyaka** 8.6). Thus the notion of a series,viz., from **ātmā** came the **ākāśa**, from the ākāśa the wind, from the wind fire etc., is reconciled: ātmanaākāśaḥ **sambhūta** ākāśādvāyurvāyoragniḥ: Taittirīya Āraṇyaka 8.1; whether across, or below, orabove: tiraścinaḥ = across, **tiryaksrotas**, that in which the stream of life is horizontal, i.e., the animal world;among the created objects some were living creatures, others were great, as the sky etc., the former being theenjoyers (bhoktāraḥ), the latter the things to be enjoyed (**bhojyaḥ**), so the creation was distinguished as thefood and the feeder
 </details>
@@ -1482,7 +1482,7 @@ Und quer hindurch, war ihre Schnur gezogen, was war darunter? und was war darüb
 </details>
 </div>
 
-#### 06 को अद्धा - त्रिष्टुप्
+### 06 को अद्धा - त्रिष्टुप्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129/06_ko_addhA.md">
 <details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
 
@@ -1516,15 +1516,15 @@ Und quer hindurch, war ihre Schnur gezogen, was war darunter? und was war darüb
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-############ Pāda-label
+###### Pāda-label
 popular;; repeated line  
 popular;; 12 = 5+7, ending LHX  
 popular  
 popular
-############ Morph
+###### Morph
 addhā́ ← addhā́ (invariable)  
 {}
 
@@ -1697,11 +1697,11 @@ ____________________
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “Who really knows? Who in this world may declare it! whence was this creation, whence was itengendered? The gods (were) subsequent to the (world's) creation; so who knows whence it arose?”
 
-########### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Whencewas it engendered: i.e., from what material cause, and from what creative cause, did it arise?
 </details>
@@ -1756,7 +1756,7 @@ Wer weiss es recht? wer mag es hier verkünden? woher entstand, woher sie kam di
 </details>
 </div>
 
-#### 07 इयं विसृष्थिर्यत - त्रिष्टुप्
+### 07 इयं विसृष्थिर्यत - त्रिष्टुप्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129/07_iyaM_visRShTiryata.md">
 <details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
 
@@ -1790,15 +1790,15 @@ Wer weiss es recht? wer mag es hier verkünden? woher entstand, woher sie kam di
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-############ Pāda-label
+###### Pāda-label
 popular  
 popular  
 popular  
 popular
-############ Morph
+###### Morph
 ābabhū́va ← √bhū- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
 
@@ -1981,11 +1981,11 @@ _________________
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “He from whom this creation arose, he may uphold it, or he may not (no one else can); he who is itssuperintendent in the highest heaven, he assuredly knows, or if he knows not (no one else does).”
 
-########### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Sa bhagavahkasmin **pratiṣṭhita**: **Chāndogya Upaniṣad** 7.24.1
 </details>
@@ -2068,15 +2068,15 @@ Von wannen diese Schöpfung sei gekommen, ob sie geschaffen oder unerschaffen, D
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+##### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+##### Pāda-label
 popular;; repeated line  
 popular;; repeated line  
 popular  
 popular
-###### Morph
+##### Morph
 āsa ← √as- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
 
@@ -2249,11 +2249,11 @@ ____________
 </details>
 <details><summary>Wilson</summary>
 
-##### English translation:
+#### English translation:
 
 “Which was the forest, which the tree, from which they fabricated heaven and earth? Inquire, sages, inyour minds what (plural ce) he was stationed in when holding the worlds.”
 
-##### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+#### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 They: i.e., the makers of the world,directed by **Parameśvara**
 </details>

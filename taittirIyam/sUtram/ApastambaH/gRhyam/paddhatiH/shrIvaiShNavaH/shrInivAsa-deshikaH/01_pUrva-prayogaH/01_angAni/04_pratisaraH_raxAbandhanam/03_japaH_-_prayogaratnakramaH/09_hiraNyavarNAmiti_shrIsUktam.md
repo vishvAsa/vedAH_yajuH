@@ -22,7 +22,7 @@ Original R^ivedic version is often termed the kAshmIra-pATha because it appears 
 </details>
 
 
-################## द्राविडपाठः
+###### द्राविडपाठः
 <details><summary>परिचयः</summary>
 
 > This pAtha is from the book 'yAjusha mantra ratnakaram' in grantha script, re-printed by Sri Krishnamurti Shastrigal.  
@@ -97,7 +97,7 @@ Original R^ivedic version is often termed the kAshmIra-pATha because it appears 
 तन्नो॑ लक्ष्मीः प्रचो॒दया॑त् ।।
 )
 
-################## काशीकर-पाठः
+###### काशीकर-पाठः
 <details><summary>विश्वास-टिप्पनी</summary>
 
 क्वचित् स्वरः सन्देहास्पदम्। उदात्त एव दर्शितः।

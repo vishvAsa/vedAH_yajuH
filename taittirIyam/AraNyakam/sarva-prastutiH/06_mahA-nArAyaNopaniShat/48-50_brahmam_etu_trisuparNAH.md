@@ -97,14 +97,14 @@ title = "४८-५० ब्रह्मम् एतु त्रिसुप�
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Archaic
 
-############ Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M
-############ Morph
+###### Morph
 adyá ← adyá (invariable)  
 {}
 
@@ -194,11 +194,11 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “Grant us today, divine **Savitā** affluence with progeny, and drive away evil dreams.”
 
-########### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 **Para** duhṣvapnyam **suva**: duhṣvapnyam = dāridryam, poverty
 </details>
@@ -299,14 +299,14 @@ O schaffe heut, Gott Savitar, uns kinderreichen Segen her; Fort schaffe böses T
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Archaic
 
-############ Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M
-############ Morph
+###### Morph
 deva ← devá- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -414,11 +414,11 @@ __________________
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “Remove from us, divine **Savitā**, all misfortunes; bestow upon us that which is good,”
 
-########### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Bhadram = progeny, cattle, dwelling, **prajā** vai bhadram, **pasa**'vo bhadram, gṛham bhadram iti
 </details>
@@ -592,15 +592,15 @@ O schaffe alles Ungemach von uns hinweg, Gott Savitar; Was heilsam ist, das scha
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Normal
 
-############ Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-############ Morph
+###### Morph
 brahmā́ ← brahmán- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -745,11 +745,11 @@ sómaḥ ← sóma- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “The **Brahmā** of the gods, the guide of the sages, the ṛṣi of the pious, the buffalo of wild animals, the falcon of the vultures, the hatchet of deadly weapons, the **Soma** passes through the filter with a roar.”
 
-########### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 The Brahmā of the gods: i.e., the king of the gods; or, it may mean the **brāhmaṇa** of the priests; the ṛṣi: yaḥ **parokṣam** paśyati sa ṛṣiḥ, ṛsirdarśanāt (**Nirukta** 2.11)
 </details>

@@ -17,10 +17,10 @@ ________
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/02_ud_AyuShA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-उद् आयु॑षा स्वा॒युषा +++(सोमरूपेण)+++  
-उदोष॑धीना॒ꣳ॒ रसे॑न ।  
-उत् प॒र्जन्य॑स्य॒ शुष्मे॑ण+++(=बलेन)+++  
-उद् अ॑स्थाम्+++(=अतिष्ठम्)+++ अ॒मृता॒ꣳ॒ अनु॑॥+++(5)+++
+उद् आयु॑षा स्वा॒युषा॑+ +++(सोमरूपेण)+++  
++उद् ओष॑धीना॒ꣳ॒ रसे॑न ।  
++उत् प॒र्जन्य॑स्य॒ शुष्मे॑ण+++(=बलेन)++++  
++उद् अ॑स्थाम्+++(=अतिष्ठम्)+++ अ॒मृता॒ꣳ॒ अनु॑॥+++(5)+++
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/08_anasi_sthApanam/02_ud_AyuShA.md">
@@ -266,14 +266,14 @@ ________
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Cretic
 
-############ Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M
-############ Morph
+###### Morph
 jātávedasam ← jātávedas- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -375,7 +375,7 @@ ___________
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “His coursers bear on high the divine all-knowing Sun, that he may be seen by all (the worlds).”
 </details>

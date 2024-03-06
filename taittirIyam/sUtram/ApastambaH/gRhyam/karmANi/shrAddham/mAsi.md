@@ -53,7 +53,7 @@ unicode_script: devanagari
 </details>
 </div>
 
-###### पितामहाय
+##### पितामहाय
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/03_yanme_pitAmahI.md">
 <details open><summary><h4>०३ यन्मे पितामही ...{Loading}...</h4></summary>
 
@@ -78,7 +78,7 @@ unicode_script: devanagari
 </details>
 </div>
 
-###### प्रपितामहाय
+##### प्रपितामहाय
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/05_yanme_prapitAmahI.md">
 <details open><summary><h4>०५ यन्मे प्रपितामही ...{Loading}...</h4></summary>
 
@@ -103,7 +103,7 @@ unicode_script: devanagari
 </details>
 </div>
 
-###### अन्येभ्यः
+##### अन्येभ्यः
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/07_ye_cheha.md">
 <details open><summary><h4>०७ ये चेह ...{Loading}...</h4></summary>
 
@@ -241,7 +241,7 @@ unicode_script: devanagari
 </div>
 
 
-##### उत्तरैर्दक्षिणापवर्गान् पिण्डान्दत्वा  
+#### उत्तरैर्दक्षिणापवर्गान् पिण्डान्दत्वा  
 उत्तरैर् दक्षिणापवर्गान् पिण्डान्दत्त्वा  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/08-19_etatte_tatAsau.md">
@@ -259,7 +259,7 @@ unicode_script: devanagari
 </div>
 
 
-##### उत्तरैरुपस्थानम्  
+#### उत्तरैरुपस्थानम्  
 पूर्ववदुत्तरैरपो दत्त्वा  
 उत्तरैरुपस्थाय  
 
@@ -278,7 +278,7 @@ unicode_script: devanagari
 </details>
 </div>
 
-##### उभयान् पिण्डान् परिषिञ्चति  
+#### उभयान् पिण्डान् परिषिञ्चति  
 उत्तरयोदपात्रेण त्रिः प्रसव्यं परिषिच्य  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/27_-28_putrAnpautrAnabhi_tarpayantIrApo.md">
@@ -292,7 +292,7 @@ unicode_script: devanagari
 </details>
 </div>
 
-#### शेष-प्राशनम्  
+### शेष-प्राशनम्  
 
 न्युब्ज्य पात्राण्य्  
 उत्तरं यजुरनवानं त्र्यवरार्ध्यमावर्तयित्वा  

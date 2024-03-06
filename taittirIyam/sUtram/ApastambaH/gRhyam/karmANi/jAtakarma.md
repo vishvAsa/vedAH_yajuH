@@ -177,7 +177,7 @@ unicode_script: devanagari
 </div>
 
 
-##### उपस्थ आधानम्  
+#### उपस्थ आधानम्  
 उत्तरेण यजुषोपस्थ आधाय +++(="अस्मिन्नह"मित्यनेन)+++,  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/32_asminnahaM_sahasram.md">
@@ -189,7 +189,7 @@ unicode_script: devanagari
 </details>
 </div>
 
-#####  अभिमन्त्रणम्  
+####  अभिमन्त्रणम्  
 उत्तराभ्याम् +++("अङ्गादङ्गाद्" इति)+++ अभिमन्त्रणं ,  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/33_angAdangAtsambhavasi_hRdayAdadhi.md">
@@ -203,7 +203,7 @@ unicode_script: devanagari
 </div>
 
 
-##### मूर्धन्यवघ्राणम्  
+#### मूर्धन्यवघ्राणम्  
 +++("अश्मा भवे"ति)+++  मूर्धन्यवघ्राणं,  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_12/01_ashmA_bhava.md">
@@ -218,7 +218,7 @@ unicode_script: devanagari
 </div>
 
 
-#####  दक्षिणकर्णे-जपः  
+####  दक्षिणकर्णे-जपः  
 +++("मेधां त" इति)+++ दक्षिणे कर्णे जापः १  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_12/02_medhAnte_devassavitA.md">
@@ -274,8 +274,8 @@ unicode_script: devanagari
 </div>
 
 
-##### स्नापनम्  
-###### प्रतिज्ञा  
+#### स्नापनम्  
+##### प्रतिज्ञा  
 उत्तराभिः पञ्चभिस् +++(="ऽक्षेत्रियै त्वे"त्यादिभिः)+++ स्नापयित्वा,  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_12/06_xetriyai_tvA.md">
@@ -291,7 +291,7 @@ unicode_script: devanagari
 </details>
 </div>
 
-###### शान्तिवचनम्  
+##### शान्तिवचनम्  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_12/07_shante_agnissahAdbhirastu.md">
 <details open><summary><h6>०७ शन्ते अग्निस्सहाद्भिरस्तु ...{Loading}...</h6></summary>
@@ -316,7 +316,7 @@ unicode_script: devanagari
 </details>
 </div>
 
-###### अवर्तिनिवारणम्  
+##### अवर्तिनिवारणम्  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_12/09_amochi_yaxmAdduritAdavartyai.md">
 <details open><summary><h6>०९ अमोचि यक्ष्माद्दुरितादवर्त्यै ...{Loading}...</h6></summary>
@@ -330,7 +330,7 @@ unicode_script: devanagari
 </details>
 </div>
 
-###### सूर्यग्रहणमोक्षनिदर्शनम्  
+##### सूर्यग्रहणमोक्षनिदर्शनम्  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_12/10_sUryamRtantamaso_grAhyA.md">
 <details open><summary><h6>१० सूर्यमृतन्तमसो ग्राह्या ...{Loading}...</h6></summary>
@@ -352,7 +352,7 @@ unicode_script: devanagari
 
 
 
-##### दधि-घृत-प्राशनम्  
+#### दधि-घृत-प्राशनम्  
 दधि घृतमिति संसृज्य कांस्येन पृषदाज्यं व्याहृतीभिरोङ्कारचतुर्थाभिः +++("भूः स्वाहेत्यादिभिः प्रतिमन्त्रम्")+++ कुमारं प्राशयित्वा, अद्भिश् शेषं संसृज्य गोष्ठे निनयेत् ४  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_12/11_bhUssvAhA_bhuvassvAhA.md">
@@ -387,7 +387,7 @@ unicode_script: devanagari
 </div>
 
 
-##### दक्षिणे स्तने प्रतिधाप्य  
+#### दक्षिणे स्तने प्रतिधाप्य  
 उत्तरया +++(="अयं कुमारः")+++ दक्षिणं स्तनं प्रतिधाप्य,  
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_13/02_aya~N_kumAro.md">
 <details open><summary><h4>०२ अयङ् कुमारो ...{Loading}...</h4></summary>
@@ -401,7 +401,7 @@ unicode_script: devanagari
 </div>
 
 
-##### पृथिव्या अभिमर्शः  
+#### पृथिव्या अभिमर्शः  
 उत्तराभ्यां +++(="यद्भूमेर्हृदयम्")+++ पृथिवीमभिमृश्य,  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_13/03_yadbhUmerhRdayandivi_chandramasi.md">
@@ -422,7 +422,7 @@ unicode_script: devanagari
 </div>
 
 
-##### संविष्टस्याभिमर्शनम्  
+#### संविष्टस्याभिमर्शनम्  
 उत्तरेण यजुषा +++(="नामयति न रुदति")+++ संविष्टम् ॥  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_13/05_nAmayati_na.md">
@@ -458,7 +458,7 @@ unicode_script: devanagari
 
 
 
-#### सूतकहोमः
+### सूतकहोमः
 
 सर्षपान् फलीकरणमिश्रानञ्जलिनोत्तरैस् त्रिस्त्रि प्रतिस्वाहाकारं हुत्वा  
 
@@ -609,7 +609,7 @@ unicode_script: devanagari
 </div>
 
 
-##### कर्णे जपः  
+#### कर्णे जपः  
 उत्तरान्मन्त्रान् +++(=अग्निरायुष्मान् स वनस्पतिभिः)+++ जपेत् १२  
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/05-09_agnirAyuShmAntsa_vanaspatibhirAyuShmAntena.md">
 <details open><summary><h4>०५-०९ अग्निरायुष्मान्त्स वनस्पतिभिरायुष्मान्तेन ...{Loading}...</h4></summary>

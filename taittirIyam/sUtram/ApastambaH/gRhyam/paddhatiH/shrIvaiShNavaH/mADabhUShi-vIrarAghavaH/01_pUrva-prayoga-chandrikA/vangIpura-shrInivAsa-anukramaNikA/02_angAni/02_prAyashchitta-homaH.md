@@ -80,7 +80,7 @@ title = "०२ प्रायश्चित्त-होमः"
 अग्नये अभ्यावर्तिन इदम् । 
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/05_pAhi_no_agne/">
-<details open><summary><h5>05 पाहि नो अग्न ...{Loading}...</h5></summary>
+<details open><summary><h5>०५ पाहि नो अग्ने ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः (स्वाभाविक-स्वरेण)</summary>
 
 पा॒हि नो अग्न॒ एन॑से॒ स्वाहा॑ ।  

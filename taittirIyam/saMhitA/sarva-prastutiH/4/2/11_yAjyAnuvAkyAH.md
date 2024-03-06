@@ -181,14 +181,14 @@ title = "११ याज्यानुवाक्याः"
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Strophic
 
-############ Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M
-############ Morph
+###### Morph
 ā́ ← ā́ (invariable)  
 {}
 
@@ -287,7 +287,7 @@ __________________
 </details>
 <details><summary>Wilson</summary>
 
-########## English translation:
+###### English translation:
 
 “By what means may he who is ever augmenting, who is wonderful, who is our friend, be present with us, by what most effective rite?”
 </details>

@@ -36,14 +36,14 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Normal
 
-############ Pāda-label
+###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-############ Morph
+###### Morph
 káśā ← káśā- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -130,11 +130,11 @@ yajñám ← yajñá- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “**Aśvins**, stir up (mimikṣatam = mix intimately, rapidly like a whip) the sacrifice with your whip that is wet the foam (of your horses), and lashing loudly.”
 
-########### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 **Kāśa** = whip, may also mean speech; **madhumatī** and sunṛtāvatī = wet and loud, signifying sweet and veracious--come with such speech, Aśvins and taste the libation
 </details>

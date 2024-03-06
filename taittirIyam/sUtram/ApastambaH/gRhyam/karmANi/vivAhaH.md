@@ -378,7 +378,7 @@ unicode_script: devanagari
 </div>
 
 
-##### स्नानम्  
+#### स्नानम्  
 उत्तराभिः पञ्चभिस् +++(=हिरण्यवर्णा)+++ स्नापयित्वा,  
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/01_hiraNyavarNAshshuchayaH_pAvakAH.md">
 <details open><summary><h4>०१ हिरण्यवर्णाश्शुचयः पावकाः ...{Loading}...</h4></summary>
@@ -447,7 +447,7 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 </details>
 </div>
 
-##### अहतस्य वाससः परिधानम्  
+#### अहतस्य वाससः परिधानम्  
 उत्तरया +++(=परि त्वा गिर्वणो गिरः)+++ ऽहतेन वाससाच्छाद्य,  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/06_pari_tvA.md">
@@ -466,7 +466,7 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 </div>
 
 
-#### योक्त्रबन्धनम्  
+### योक्त्रबन्धनम्  
 उत्तरया +++(=आशासाना सौमनसम्)+++ योक्त्रेण सन्नह्यति ८  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/07_AshAsAnA_saumanasam.md">
@@ -658,7 +658,7 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 
 प्राग्घोमात् प्रदक्षिणमग्निं कृत्वा, यथास्थानम् उपविश्यान्वारब्धायाम् उत्तरा +++(१६)+++ आहुतीर् जुहोति - "सोमाय जनिविदे स्वाहे"त्येतैः प्रतिमन्त्रम् ॥  
 
-#### षोडश प्रधानाहुतिमन्त्राः
+### षोडश प्रधानाहुतिमन्त्राः
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/01-03_somAya_janivide.md">
 <details open><summary><h4>०१-०३ सोमाय जनिविदे ...{Loading}...</h4></summary>
 
@@ -1392,7 +1392,7 @@ ___________
 
 तीर्थ-स्थाणु+++(=गवां कण्डूयनार्थ निखातः स्तम्भः)+++-चतुष्पथव्यतिक्रमे चोत्तरां +++(=ता मन्दसाना)+++ जपेत् ॥   
 
-#### तीर्थादिव्यतिक्रमे जपः  
+### तीर्थादिव्यतिक्रमे जपः  
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_07/01_tAmandasAnA_manuSho.md">
 <details open><summary><h4>०१ तामन्दसाना मनुषो ...{Loading}...</h4></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/040/13_tA_mandasAnA.md">
@@ -1515,7 +1515,7 @@ ___________
 </div>  
 
 
-#### नद्याद्यतिक्रमे जपः
+### नद्याद्यतिक्रमे जपः
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_07/12_yA_oShadhayo.md">
 <details open><summary><h4>१२ या ओषधयो ...{Loading}...</h4></summary>
 
@@ -1744,7 +1744,7 @@ _____________
 इति श्रीहरदत्तविरचिते एकाग्निकाण्डमन्त्रव्याख्याने अष्टमः खण्डः ॥  
 
 
-#### उपवेषनम्
+### उपवेषनम्
 परिषेचनान्तं कृत्वोत्तरया +++(=इह गावः प्रजायध्वम्)+++ चर्मण्युपविशत उत्तरो वरः +++(प्राङ्मुखौ)+++ ।  
 
 +++(उत्तरया चर्मण्युपविशतः। आमन्त्रितनिघातः छान्दसत्वान्नभवति ।)+++  
@@ -1910,7 +1910,7 @@ __________________
 </details>
 </div>
 
-##### स्वयं प्रज्वलिते ऽग्नौ समिदाधानम्
+#### स्वयं प्रज्वलिते ऽग्नौ समिदाधानम्
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/08_05_sarvatra_svayam.md">
 <details open><summary><h4>०८ ०५ सर्वत्र स्वयम् ...{Loading}...</h4></summary>
@@ -2043,7 +2043,7 @@ __________________
 </details>
 </div>
 
-#### शेष-होम-मन्त्राः  
+### शेष-होम-मन्त्राः  
 अग्नेरुपसमाधानाद्याज्यभागान्ते ऽन्वारब्धायाम् उत्तरा आहुतीर् +++(=सप्त प्रधानाहुतीर्जुहोति "अग्ने प्रायश्चित्ते"इत्येवमाद्याः)+++ हुत्वा जयादि प्रतिपद्यते।  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_10/03-06_agne_prAyashchitte.md">
@@ -2119,7 +2119,7 @@ __________________
 </details>
 </div>
 
-##### वध्वाश् शिरस्य् आज्यशेषानयनम्
+#### वध्वाश् शिरस्य् आज्यशेषानयनम्
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_10/10_bhUssvAhA_bhuvassvAhA.md">
 <details open><summary><h4>१० भूस्स्वाहा भुवस्स्वाहा ...{Loading}...</h4></summary>
@@ -2136,7 +2136,7 @@ __________________
 
 
 
-##### परस्परवीक्षणम्
+#### परस्परवीक्षणम्
 परिषेचनान्तं कृत्वा,
 अपरेणाग्निं प्राचीम् उपवेश्य तस्याश् शिरस्याज्यशेषाद् व्याहृतिभिर् ओङ्कारचतुर्थाभिरानीयोत्तराभ्यां +++(="अपश्यं त्वे"त्येताभ्यां)+++ यथालिङ्गं +++(=पूर्वया वधूः उत्तरया वरः)+++ मिथस्समीक्ष्य,  
 
@@ -2197,7 +2197,7 @@ ______________
 
 
 
-##### अथ जपः  
+#### अथ जपः  
 उत्तरास् तिस्रो +++(="प्रजापते तन्व"मित्याद्याः)+++ जपित्वा,  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_11/04_prajApate_tanvam.md">

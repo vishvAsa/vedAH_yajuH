@@ -397,8 +397,8 @@ with thy brilliance make firm the quarters.
 
 **आ॒जुह्वा॑नस्**+++(=हूयमानः)+++ सु॒-प्रती॑कᳶ पु॒रस्ता॒द्  
 अग्ने॒ स्वाय्ँ योनि॒म् **आ सी॑द** सा॒ध्या+++(→ साधु॒या माध्यन्दिने)+++ ।  
-अ॒स्मिन्थ् स॒ध-स्थे॒, अध्युत्त॑रस्मि॒न्   
-विश्वे॑ देवाः यज॑मानश् च **सीदत** ।
+अ॒स्मिन्थ् स॒ध-स्थे॒, अध्य् उत्त॑रस्मि॒न्   
+विश्वे॑ देवाः॒! यज॑मानश् च **सीदत** ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/6/05_chityAm_agni-sthApanAdi-mAruta-homAntam/07_AjuhvAnas_supratIkapH.md">
@@ -421,7 +421,7 @@ O All-gods [3], do ye sit with the sacrificer.
 हे **ऽग्ने** त्वम् **आजुह्वान** आभिमुख्येन हूयमानः **सुप्रतीकः** सुमुखः सन्  
 **पुरस्तात्** पूर्वस्यां दिशि **साध्या** साध्वीं समीचीनां  
 स्वां योनिं स्वकीयं स्थानमासीदाऽऽगत्य प्राप्नुहि।  
-हे विश्वे देवा यूयं यजमानश्चस्गिन्पुरोवर्तिनि सघस्थेऽग्निना सह स्थातुं योग्येऽध्युत्तरस्मिन्नधिकमुत्कृष्टे स्थाने सीदतोपविशत।  
+हे विश्वे देवा यूयं यजमानश् चास्मिन् पुरोवर्तिनि सधस्थेऽग्निना सह स्थातुं योग्येऽध्युत्तरस्मिन्नधिकमुत्कृष्टे स्थाने सीदतोपविशत।  
 </details>
 </details>
 </div>
@@ -461,14 +461,14 @@ O All-gods [3], do ye sit with the sacrificer.
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Strophic
 
-############ Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M
-############ Morph
+###### Morph
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -582,11 +582,11 @@ _____________
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “Well-kindled, youthful **Agni**, shine before us with undecaying radiance; to you abundant sacrificialviands proceed.”
 
-########### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 With undecaying radiance: ajasrayā **sūrmyā**: surmi = samitkāṣṭham, kindled wood; or itmay mean a metal stake or **post**, red hot; therefore, figurately, it denotes a flame
 </details>
@@ -694,15 +694,15 @@ Entflammt, o Agni, strahle uns vor Augen mit deinem Licht, das nie verlischt, o 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Normal
 
-############ Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-############ Morph
+###### Morph
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -865,11 +865,11 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “We adore you, **Agni**, in your loftiest birth-(plural ce), and with hymns in thine inferior station; I worship that seat whence you have issued; the priests have offered you, when kindled oblations.”
 
-########### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 In your loftiest birth-plural ce: Agni is worshipped in heaven as the Sun; in the firmament as lightning; and as the sacrificial fire kindled on the altar; **Yajurveda** 17.75
 </details>

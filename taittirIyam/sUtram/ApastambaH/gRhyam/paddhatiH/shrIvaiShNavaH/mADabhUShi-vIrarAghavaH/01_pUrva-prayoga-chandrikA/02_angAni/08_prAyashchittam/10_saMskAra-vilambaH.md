@@ -1,5 +1,6 @@
 +++
 title = "10 संस्कार-विलम्बः"
+
 +++
 
 [[2]]
@@ -56,7 +57,7 @@ title = "10 संस्कार-विलम्बः"
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/05_pAhi_no_agne/">
-<details open><summary><h5>05 पाहि नो अग्न ...{Loading}...</h5></summary>
+<details open><summary><h5>०५ पाहि नो अग्ने ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः (स्वाभाविक-स्वरेण)</summary>
 
 पा॒हि नो अग्न॒ एन॑से॒ स्वाहा॑ ।  
@@ -193,7 +194,7 @@ title = "10 संस्कार-विलम्बः"
 </details>
 
 
-(स्वाहा॑॥ वरुणेन्द्र-सवितृ-विष्णु--विश्वे-देव--मरुद्भ्य इदम् ।)
+(स्वाहा॑॥ वरुणेन्द्रसवितृविष्णुविश्वेदेवमरुद्भ्य इदम् ।)
 </details>
 </div>  
 

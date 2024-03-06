@@ -35,15 +35,15 @@ unicode_script = "devanagari"
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+##### Strata
 Normal on metrical evidence alone
 
-###### Pāda-label
+##### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-###### Morph
+##### Morph
 bhadrám ← bhadrá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -192,11 +192,11 @@ yát ← yá- (pronoun)
 </details>
 <details><summary>Wilson</summary>
 
-#### English translation:
+### English translation:
 
 “Let us hear, gods, with our ears, what is good; objects of sacrifice, let us see with our eyes what is good; let us, engaged in your praises, enjoy, with firm limb and (sound) bodies, the term of life granted by the gods.”
 
-#### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Devahitam = (singular) **Prajāpati**, a patriarch or **Brahmā**
 </details>
@@ -294,15 +294,15 @@ Heilvolles lasst uns mit den Ohren hören, heilvolles schaun mit Augen, hehre G�
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+##### Strata
 Normal on metrical evidence alone
 
-###### Pāda-label
+##### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-###### Morph
+##### Morph
 bhadrám ← bhadrá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -451,11 +451,11 @@ yát ← yá- (pronoun)
 </details>
 <details><summary>Wilson</summary>
 
-#### English translation:
+### English translation:
 
 “Let us hear, gods, with our ears, what is good; objects of sacrifice, let us see with our eyes what is good; let us, engaged in your praises, enjoy, with firm limb and (sound) bodies, the term of life granted by the gods.”
 
-#### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Devahitam = (singular) **Prajāpati**, a patriarch or **Brahmā**
 </details>

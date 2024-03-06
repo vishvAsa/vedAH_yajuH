@@ -188,8 +188,8 @@ title = "१० सम्भाव्यानि प्रायश्चित
 
 **आ॒जुह्वा॑नस्**+++(=हूयमानः)+++ सु॒-प्रती॑कᳶ पु॒रस्ता॒द्  
 अग्ने॒ स्वाय्ँ योनि॒म् **आ सी॑द** सा॒ध्या+++(→ साधु॒या माध्यन्दिने)+++ ।  
-अ॒स्मिन्थ् स॒ध-स्थे॒, अध्युत्त॑रस्मि॒न्   
-विश्वे॑ देवाः यज॑मानश् च **सीदत** ।
+अ॒स्मिन्थ् स॒ध-स्थे॒, अध्य् उत्त॑रस्मि॒न्   
+विश्वे॑ देवाः॒! यज॑मानश् च **सीदत** ।
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/45_udbudhyasvAgne_prati.md">
@@ -232,7 +232,7 @@ title = "१० सम्भाव्यानि प्रायश्चित
 "अग्नये अयस इदं॰" । स्रुचि चतुर्ग्रहीत गृहीत्वा जुहोति 
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/01-03_chAtuH-pancha-dasha-hotR-mantrAdi/03_pashchAt">
-<details open><summary><h5>०३ ...{Loading}...</h5></summary>
+<details open><summary><h5>०३ पश्चात् ...{Loading}...</h5></summary>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1पश्चादुदञ्चं पञ्चहोतारम् उपदधाति - अग्निर्होतेति ॥ 
@@ -370,7 +370,7 @@ title = "१० सम्भाव्यानि प्रायश्चित
 महाव्याहृतीः, 
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/02_bhUr_agnaye_mahAvyAhRtayaH/">
-<details open><summary><h5>०२ भूर॒ग्नये॑ - महाव्याहृतयः ...{Loading}...</h5></summary>
+<details open><summary><h5>०२ भूर् अग्नये महाव्याहृतयः ...{Loading}...</h5></summary>
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ होमार्थान् महाव्याहृतिसंज्ञकान्मन्त्रानाह

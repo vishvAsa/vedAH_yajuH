@@ -341,7 +341,7 @@ title = "२५ अष्टकाश्राद्धम्"
 
 तूष्णीं पञ्चाज्याहुतीर् हुत्वा  
 
-###### श्वोभूते वपाहोममन्त्रः
+#### श्वोभूते वपाहोममन्त्रः
 तस्यै वपां श्रपयित्वोपस्तीर्णाभिघारितां मध्यमेनान्तमेन वा पलाशपर्णेनोत्तरया जुहोति ४  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/31_vaha_vapAm.md">

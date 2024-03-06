@@ -50,15 +50,15 @@ title = "११ यम-यञः"
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-############ Pāda-label
+###### Pāda-label
 popular  
 popular  
 popular  
 popular
-############ Morph
+###### Morph
 aítam ← √i- 1 (root)  
 {number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
 
@@ -218,11 +218,11 @@ svāsasthé ← svāsasthá- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “When you two came, like twins, busily engaged, then devout worshipper brought you forward;knowing your plural ce there abide and be fair storehouses for our **Soma**.”
 
-########### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Busily engaged: i.e., engaged in theperformance of your own duties of moving and bearing the oblation
 </details>
@@ -300,15 +300,15 @@ Als ihr herbeikamt wie zwei zusammengehende Schwestern, brachten euch die fromme
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-############ Pāda-label
+###### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
-############ Morph
+###### Morph
 sómam ← sóma- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -417,7 +417,7 @@ agnídūtaḥ ← agnídūta- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “Pour out the **Soma** for **Yama**; to Yama offer the oblation, the decorated sacrifice of which **Agni** is themessenger proceeds to Yama.”
 </details>
@@ -500,15 +500,15 @@ Dem Jama keltert Somasaft, ergiesst dem Jama Opfertrank; Zu Jama geht das Opfer 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-############ Pāda-label
+###### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424);; repeated line  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
-############ Morph
+###### Morph
 ghr̥távat ← ghr̥távant- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -641,7 +641,7 @@ prá ← prá (invariable)
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “Offer the oblation of clarified butter to **Yama**, and stand near (to the altar); it is he who among the godsgives us a long life to live.”
 </details>
@@ -723,15 +723,15 @@ Den fettversehnen Opfertrank ergiesst dem Jama, tretet vor; Er lenk uns zu den G
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-############ Pāda-label
+###### Pāda-label
 popular  
 popular  
 popular  
 popular
-############ Morph
+###### Morph
 mádhumattamam ← mádhumattama- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -825,7 +825,7 @@ pū́rvebhyaḥ ← pū́rva- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “Offer to the royal **Yama** this most sweet oblation; (let) this our adoration (be addressed) to the ancientsages, the first followers of (virtuous) paths.”
 </details>

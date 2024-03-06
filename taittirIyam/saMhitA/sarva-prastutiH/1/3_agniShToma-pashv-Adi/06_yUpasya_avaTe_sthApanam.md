@@ -352,14 +352,14 @@ Of the wide-stepping Visnu, the mighty!
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Normal
 
-############ Pāda-label
+###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-############ Morph
+###### Morph
 kármāṇi ← kárman- (nominal stem)  
 {case:ACC, gender:N, number:PL}
 
@@ -450,7 +450,7 @@ yújyaḥ ← yújya- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “Behold the deeds of **Viṣṇu**, through which (the worshipper) has accomplished (pious) vows; he is the worthy friend of **Indra**.”
 </details>
@@ -559,14 +559,14 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Normal
 
-############ Pāda-label
+###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-############ Morph
+###### Morph
 padám ← padá- (nominal stem)  
 {case:ACC, gender:N, number:SG}
 
@@ -670,11 +670,11 @@ iva ← iva (invariable)
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “The wise ever contemplate that supreme station of **Viṣṇu**, as the eye ranges over the sky.”
 
-########### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 paramam padam = supreme degree or station, **svarga**
 </details>

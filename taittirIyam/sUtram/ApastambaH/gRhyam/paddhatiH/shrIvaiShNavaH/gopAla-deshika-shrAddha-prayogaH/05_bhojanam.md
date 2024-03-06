@@ -427,7 +427,7 @@ title = "०५ भोजनम्"
 तस्मा॒द् उत्ति॑ष्ठन्त॒ꣳ॒ ह वा॒ तानि॒ रक्षाꣳ॑स्यादि॒त्यय्ँ योध॑यन्ति॒ याव॑दस्त॒मन्व॑गा॒त्।  
 </details>
 
-#### अर्घ्यम्
+### अर्घ्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तानि॑ ह॒ वा ए॒तानि॒ रक्षाꣳ॑सि  
@@ -452,7 +452,7 @@ title = "०५ भोजनम्"
 </details>
 
 
-#### प्रदक्षिणीकरणम्
+### प्रदक्षिणीकरणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत् प्र॑दक्षि॒णं प्रक्र॑मन्ति॒, तेन॑ पा॒प्मान॒म् अव॑धून्वन्ति।  
@@ -463,7 +463,7 @@ title = "०५ भोजनम्"
 </details>
 
 
-#### ब्रह्म-भावनम्
+### ब्रह्म-भावनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ॒द्यन्त॑म् अस्त॒य्ँ यन्त॑म् आदि॒त्यम् अ॑भिध्या॒यन्  
@@ -653,14 +653,14 @@ title = "०५ भोजनम्"
 
 
 यज्ञेश्वरो हव्य-समस्त-कव्य-  
-भोक्ता ऽव्ययात्मा हरिर् ईश्वरो ऽत्र ।  
-तत्-सन्निधानाद् अपयान्तु सद्यो  
+**भोक्ता** ऽव्ययात्मा हरिर् ईश्वरो ऽत्र ।  
+तत्-सन्निधानाद् **अपयान्तु** सद्यो  
 रक्षांस्य् अशेषाण्य् असुराश् च सर्वे ॥
 
-एको विष्णुर् महद्भूतं  
+एको विष्णुर् महद्-भूतं  
 पृथक् भूतान्य् अनेकशः ।  
-त्रीन् लोकान् व्याप्य भूतात्मा  
-भुङ्क्ते विश्व-भुग् अव्ययः ॥ 
+त्रीन् लोकान् **व्याप्य** भूतात्मा  
+**भुङ्क्ते** विश्व-भुग् अव्ययः ॥ 
 </details>
 </div>  
 
@@ -869,7 +869,7 @@ title = "०५ भोजनम्"
 (मधुत्रयम्)
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/10_3_madhu">
-<details open><summary><h5>10 3 ...{Loading}...</h5></summary>
+<details open><summary><h5>१० ३ मधु ...{Loading}...</h5></summary>
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_3/01_madhu_vAtA.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 

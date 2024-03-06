@@ -4,7 +4,7 @@ title = "०४ पूरणादि"
 +++
 ## आपः
 <div class="js_include" includetitle="true" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/22_Apo_vA_idam/">
-<details open><summary><h4>२२ आपो वा इदं सर्वम् ...{Loading}...</h4></summary>
+<details open><summary><h4>२२ आपो वा इदम् ...{Loading}...</h4></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आपो॒ वा इ॒दꣳ सर्वं॒  

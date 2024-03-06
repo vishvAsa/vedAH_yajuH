@@ -140,10 +140,10 @@ And for us [1] on all sides do thou preserve this great kingly power.
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/05_bRhathsAma_khShatrabhRd.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-बृ॒हथ्-साम॑ ख्षत्र॒-भृद् वृ॒द्ध-वृ॑ष्णियन्   
-त्रि॒ष्टुभौज॑श् शुभि॒तम् उ॒ग्र-वी॑रम् ।    
+बृ॒हथ्-साम॑ ख्षत्र॒-भृद् वृ॒द्ध-वृ॑ष्णियन्,   
+त्रि॒ष्टुभौज॑श् शुभि॒तम् उ॒ग्र-वी॑रम् +++(इति सन्ति, तैः)+++।    
 इन्द्र॒ स्तोमे॑न पञ्च-द॒शेन॒ मध्य॑म्  
-इ॒दव्ँ वाते॑न॒ सग॑रेण **रख्ष** ।
+इ॒दव्ँ वाते॑न॒ सग॑रेण +++(च)+++ **रख्ष** ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/05_bRhathsAma_khShatrabhRd.md">
@@ -607,15 +607,15 @@ Agni through the hymn which brings (him).
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Cretic
 
-############ Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-############ Morph
+###### Morph
 agníḥ ← agní- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -794,11 +794,11 @@ sá ← sá- ~ tá- (pronoun)
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “**Agni**, who is present in the sky, and present upon earth, and who, present, has pervaded all herbs; may the Agni **Vaiśvānara**, who is present in vigour, guard us night and day, against our enemies”
 
-########### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 **Pṛṣṭa** = **saṃspṛṣṭa** = in contact with, or **nihita**, plural ced or present inth esky: Agni is in contact with, or present, in the sun; on earth, in sacred and domestic fire, and in herbs, or annuals, as the cause of their coming to maturity
 </details>
@@ -1013,14 +1013,14 @@ With what to us radiant shall he be?
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Strophic
 
-############ Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M
-############ Morph
+###### Morph
 ā́ ← ā́ (invariable)  
 {}
 
@@ -1119,7 +1119,7 @@ __________________
 </details>
 <details><summary>Wilson</summary>
 
-########## English translation:
+###### English translation:
 
 “By what means may he who is ever augmenting, who is wonderful, who is our friend, be present with us, by what most effective rite?”
 </details>
@@ -1234,15 +1234,15 @@ Who to-day yoketh?
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-############ Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-############ Pāda-label
+###### Pāda-label
 popular  
 popular  
 popular  
 popular
-############ Morph
+###### Morph
 adyá ← adyá (invariable)  
 {}
 
@@ -1387,7 +1387,7 @@ yáḥ ← yá- (pronoun)
 </details>
 <details><summary>Wilson</summary>
 
-########### English translation:
+###### English translation:
 
 “Who yokes todya to the pole of the car (of **Indra**) his vigorous and radiant steeds, whose fury is unbearable, in whose mouths are arrows, who trample on the hearts (of enemies), who give happiness (to friends). (The sacrificer) who praises their (performance of their) duties obtains (long) life.”
 </details>

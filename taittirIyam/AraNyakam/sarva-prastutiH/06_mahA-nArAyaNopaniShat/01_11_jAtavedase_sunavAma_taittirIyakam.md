@@ -87,15 +87,15 @@ unicode_script = "devanagari"
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-########## Strata
+###### Strata
 Cretic
 
-########## Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-########## Morph
+###### Morph
 durgáhā ← durgáha- (nominal stem)  
 {case:ACC, gender:N, number:PL}
 
@@ -247,7 +247,7 @@ tanū́nām ← tanū́- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-######### English translation:
+###### English translation:
 
 “You convey us, **Jātavedas**, across all intolerable evils, as (people are carried) over a river by a boat; **Agni**, who are glorified by us with reverence, such as (that shown) by **Atri**, know yourself the protector of our person ns.”
 </details>
