@@ -103,8 +103,8 @@ script: grantha
 हिर॑ण्यपक्षम् - वरु॑णस्य - दू॒तं - य॒मस्य॑ - योनौ॑ - शकु॒नम् - भु॒र॒ण्युम्॥)
 
 (उत्तरतः)  
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/031/04_A_pyAyasva.md">
-<details open><summary><h4>१७ आ प्यायस्व ...{Loading}...</h4></summary>
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/031/04_A_pyAyasva.md">
+<details open><summary><h9>०४ आ प्यायस्व ...{Loading}...</h9></summary>
 
 
 **आ प्या॑यस्व॒ समे॑तु** ते  
@@ -113,7 +113,7 @@ script: grantha
 
 </details>
 </div>  
-भवा॒ वाज॑स्य सङ्ग॒थे॥
+
 
 (आ प्या॑यस्व - समे॑तु ते - वि॒श्वतः॑ - सो॒म॒ - वृ॒ष्णि॑यम्।  
 भवा॒ वाज॑स्य - स॒ङ्ग॒थे॥)

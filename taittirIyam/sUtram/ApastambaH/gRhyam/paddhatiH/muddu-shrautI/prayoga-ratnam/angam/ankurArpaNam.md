@@ -1,10 +1,7 @@
 ---
-
 title: अङ्कुरार्पणम्
+
 ---
-
-
-
 source: āpastambīya pūrvāpara prayoga  
 author: muddu śroutigal  
 publisher: rāja veda kāvya pāṭhaśālā (kumbakonam)  
@@ -120,7 +117,7 @@ script: grantha
 सा॒द॒न्य॑॑म् -  वि॒द॒त्य॑॑म् - स॒भेय॑॑म्। पि॒तुः॒ श्रव॑णम् - यो ददा॑शत् - अ॒स्मै॒॥)  
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/031/04_A_pyAyasva.md">
-<details open><summary><h4>१७ आ प्यायस्व ...{Loading}...</h4></summary>
+<details open><summary><h4>०४ आ प्यायस्व ...{Loading}...</h4></summary>
 
 
 **आ प्या॑यस्व॒ समे॑तु** ते  

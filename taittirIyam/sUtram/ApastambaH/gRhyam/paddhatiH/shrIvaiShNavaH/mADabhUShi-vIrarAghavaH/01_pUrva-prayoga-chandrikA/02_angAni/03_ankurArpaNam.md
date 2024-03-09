@@ -63,7 +63,7 @@ title = "०३ अङ्कुरार्पणम्"
 ‘पवमानस्सुवर्जनः' इत्येतेन अनुवाकेन **स्नापयित्वा**
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/01_Apo_hi.md">
-<details open><summary><h2>०१ आपो हि ...{Loading}...</h2></summary>
+<details open><summary><h5>०१ आपो हि ...{Loading}...</h5></summary>
 
 आपो॒ हि ष्ठा म॑यो॒भुव॑स्  
 ता न॑ ऊ॒र्जे+++(जाः)+++ द॑धातन ।  
@@ -72,7 +72,7 @@ title = "०३ अङ्कुरार्पणम्"
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/02_yo_vaH.md">
-<details open><summary><h2>०२ यो वः ...{Loading}...</h2></summary>
+<details open><summary><h5>०२ यो वः ...{Loading}...</h5></summary>
 
 
 यो वः॑ शि॒वत॑मो॒ रस॑स्  
@@ -82,7 +82,7 @@ title = "०३ अङ्कुरार्पणम्"
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/03_tasmA_araM.md">
-<details open><summary><h2>०३ तस्मा अरं ...{Loading}...</h2></summary>
+<details open><summary><h5>०३ तस्मा अरं ...{Loading}...</h5></summary>
 
 
 +++(रसाय)+++ तस्मा॒ अरं॑+++(=शीघ्रम्)+++ गमाम वो  
@@ -986,9 +986,9 @@ We, O king, bring to safety.'
 <details open><summary><h5>०३ ब्रह्म जज्ञानम् ...{Loading}...</h5></summary>
 
 ब्रह्म॑ +++(=मन्त्रः ([सौरमण्डलयज्ञे]))+++ जज्ञा॒नं +++(=उत्पन्नम्)+++ प्र॑थ॒मं पु॒रस्ता॑द्  
-वि सी॑म॒तस् सु॒रुचो॑ वे॒न आ॑वः ।  
-स बु॒ध्न्या॑ +++(=मूले भवः ([खस्य सूर्यः]))+++ उप॒मा अ॑स्य वि॒ष्ठाः +++(=विस्थितः)+++,  
-स॒तश्च॒ योनि॒म् +++(सूर्यम्)+++ अस॑तश्च॒ विवः॑ +++(=विवृतवान्)+++  ।
+वि सी॑म॒तस् सु॒रुचो॑ वे॒न **आ॑वः** ।  
+स बु॒ध्न्या॑ +++(=मूले भवः ([खस्य सूर्यः]))+++ उप॒मा अ॑स्य **वि॒ष्ठाः** +++(=विस्थितः)+++,  
+स॒तश्च॒ योनि॒म् +++(सूर्यम्)+++ अस॑तश्च॒ **विवः॑** +++(=विवृतवान्)+++  ।
 
 </details>
 </div>
@@ -1007,7 +1007,7 @@ We, O king, bring to safety.'
 
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/26_yata_indra.md">
-<details open><summary><h2>विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
+<details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 यत॑ इन्द्र॒ भया॑महे॒  
 ततो॑ नो॒ अभ॑यं कृधि ।  
@@ -1054,7 +1054,7 @@ We, O king, bring to safety.'
 ‘इमं मे वरुण' 'तत्त्वा यामि' इति प्रतीच्यां, 
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/025/19_imaM_me.md">
-<details open><summary><h2>१९ इमं मे ...{Loading}...</h2></summary>
+<details open><summary><h5>१९ इमं मे ...{Loading}...</h5></summary>
 
 इ॒मं मे॑ वरुण श्रुधी॒ +++(=श्रुणु)+++  
 हव॑म्+++(=आह्वानम्)+++ अ॒द्या च॑ मृळय +++(=सुखय)+++।  
@@ -1063,7 +1063,7 @@ We, O king, bring to safety.'
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/11_tattvA_yAmi.md">
-<details open><summary><h2>११ तत्त्वा यामि ...{Loading}...</h2></summary>
+<details open><summary><h5>११ तत्त्वा यामि ...{Loading}...</h5></summary>
 
 
 तत् त्वा॑ **यामि॒** ब्रह्म॑णा॒ **वन्द॑मान॒स्**  
