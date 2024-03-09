@@ -6,7 +6,7 @@ unicode_script = "devanagari"
 ## शिरः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ओं भूः । ओं भुवः॑ । ओꣳ सुवः॑ । ओं महः॑ । ओञ्जनः॑ । ओं तपः॑ । ओꣳ स॒त्यम् ।
+ओं भूः । ओं भुवः॑ । ओꣳ सुवः॑ । ओं महः॑ । ओञ् जनः॑ । ओं तपः॑ । ओꣳ स॒त्यम् ।
 </details>
 <details><summary>मूलम्</summary>
 
