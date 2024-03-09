@@ -95,7 +95,7 @@ title = "०४ पुण्याहवाचनक्रमः"
 
 [[3]]
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/025/19_imaM_me.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/025/19_imaM_me.md">
 <details open><summary><h2>१९ इमं मे ...{Loading}...</h2></summary>
 
 इ॒मं मे॑ वरुण श्रुधी॒ +++(=श्रुणु)+++  
@@ -104,7 +104,7 @@ title = "०४ पुण्याहवाचनक्रमः"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/11_tattvA_yAmi.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/11_tattvA_yAmi.md">
 <details open><summary><h2>११ तत्त्वा यामि ...{Loading}...</h2></summary>
 
 
@@ -134,7 +134,7 @@ title = "०४ पुण्याहवाचनक्रमः"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/01_Apo_hi.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/01_Apo_hi.md">
 <details open><summary><h2>०१ आपो हि ...{Loading}...</h2></summary>
 
 आपो॒ हि ष्ठा म॑यो॒भुव॑स्  
@@ -143,7 +143,7 @@ title = "०४ पुण्याहवाचनक्रमः"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/02_yo_vaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/02_yo_vaH.md">
 <details open><summary><h2>०२ यो वः ...{Loading}...</h2></summary>
 
 
@@ -153,7 +153,7 @@ title = "०४ पुण्याहवाचनक्रमः"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/03_tasmA_araM.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/03_tasmA_araM.md">
 <details open><summary><h2>०३ तस्मा अरं ...{Loading}...</h2></summary>
 
 
@@ -443,9 +443,9 @@ title = "०४ पुण्याहवाचनक्रमः"
     
 ### गृहप्रोक्षणमन्त्राः
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/055_vAstoShpate_pratijAnIhi/">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/055_vAstoShpate_pratijAnIhi/">
 <details open><summary><h2>०५५ वास्तोष्पते प्रतिजानीहि ...{Loading}...</h2></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/054/01_vAstoShpate_prati.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/054/01_vAstoShpate_prati.md">
 <details open><summary><h4>०१ वास्तोष्पते प्रति ...{Loading}...</h4></summary>
 
 
@@ -456,7 +456,7 @@ title = "०४ पुण्याहवाचनक्रमः"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/054/03_vAstoShpate_shagmayA.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/054/03_vAstoShpate_shagmayA.md">
 <details open><summary><h4>०३ वास्तोष्पते शग्मया ...{Loading}...</h4></summary>
 
 
@@ -467,7 +467,7 @@ title = "०४ पुण्याहवाचनक्रमः"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/054/02_vAstoShpate_prataraNo.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/054/02_vAstoShpate_prataraNo.md">
 <details open><summary><h4>०२ वास्तोष्पते प्रतरणो ...{Loading}...</h4></summary>
 
 

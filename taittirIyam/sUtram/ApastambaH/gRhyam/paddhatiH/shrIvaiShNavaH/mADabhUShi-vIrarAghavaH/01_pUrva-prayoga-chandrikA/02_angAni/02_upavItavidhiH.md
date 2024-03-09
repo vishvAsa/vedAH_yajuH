@@ -342,7 +342,7 @@ title = "०२ उपवीतविधिः"
 यज्ञोपवीतं **स्पृशन्**  
 अष्टोत्तरशतं गायत्रीं **जपित्वा**  
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/062/10_tatsaviturvareNyaM_bhargo.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/062/10_tatsaviturvareNyaM_bhargo.md">
 <details open><summary><h2>१० तत्सवितुर्वरेण्यं भर्गो ...{Loading}...</h2></summary>
 
 तत् सवि॒तुर् वरे॑ण्य+++(णिय)+++म्  
@@ -362,7 +362,7 @@ title = "०२ उपवीतविधिः"
 ## धरणम्
 'त्र्यम्बकं यजामह' इति सकृज् **जपित्वा** 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/059/12_tryambakaM_yajAmahe.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/059/12_tryambakaM_yajAmahe.md">
 <details open><summary><h2>१२ त्र्यम्बकं यजामहे ...{Loading}...</h2></summary>
 
 
