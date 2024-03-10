@@ -104,7 +104,7 @@ title = "०३ अङ्कुरार्पणम्"
 <details open><summary><h4>08 यासां राजा ...{Loading}...</h4></summary>
 
 यासा॒ꣳ॒ राजा॒ वरु॑णो॒ **याति॒** मध्ये॑,  
-सत्यानृ॒ते **अ॑व॒पश्य॒ञ्** जना॑नाम् ।
+सत्यानृ॒ते **अ॑व॒पश्य॒ञ्** जना॑नाम् ।  
 म॒धु॒श्-**चुत॒श्** शुच॑यो॒ याᳶ पा॑व॒कास् -  
 ता न॒ आप॒श् शꣳ स्यो॒ना **भ॑वन्तु** ।
 </details>
@@ -577,8 +577,10 @@ Slayer of Raksases, overpowerer of diseases.
 <div class="js_include" newlevelforh1="4" includetitle="false" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/09_niShkRtir_nAma.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
-"निष्कृ॑ति॒र्" नाम॑ वो मा॒ताथा॑ यू॒यꣵ स्थ॒ "सङ्कृ॑तीः" ।  
-स॒राᳶ प॑त॒त्रिणीः᳚ **स्थन॒** यद् **आ॒मय॑ति॒ निष्कृ॑त** ।
+"निष्कृ॑ति॒र्" नाम॑ वो मा॒ता  
+ऽथा॑ यू॒यꣵ स्थ॒ "सङ्कृ॑तीः" ।  
+स॒राᳶ प॑त॒त्रिणीः᳚ **स्थन॒**  
+यद् **आ॒मय॑ति॒ निष्कृ॑त** ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/09_niShkRtir_nAma.md">
