@@ -5,7 +5,7 @@ title = "०३ प्रणीति-पात्रम्"
 प्रणीति-पात्रं भिन्नं चेत्  
 'अभिन्नो घर्मो जीरदानुः यत आत्तस्तदगन्पुनः' इत्यभिमन्त्र्य 
 
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/68_abhinno_gharmo.md">
+<div class="js_include" newlevelforh1="4" includetitle="false" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/68_abhinno_gharmo.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 +++(भिन्ने ऽपि कपाले)+++ अभि॑न्नो घ॒र्मो +++(→यज्ञो)+++, जी॒र+++(=उदक)+++-दा॑नु॒र्  
@@ -138,7 +138,7 @@ mayst thou not perish for me, yonder, in yonder world.
 
 'ततं म आपः' इति जुहुयात् । 
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/11_tatamma_Apastadu.md">
+<div class="js_include" newlevelforh1="4" includetitle="false" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/11_tatamma_Apastadu.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 त॒तम् म॒ आप॒स् तद् उ॑ तायते॒ पुनः॑ ।  

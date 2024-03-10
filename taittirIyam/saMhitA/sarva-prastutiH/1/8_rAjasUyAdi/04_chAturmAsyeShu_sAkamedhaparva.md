@@ -62,7 +62,7 @@ and to the Maruts as lords of the house he milks at evening an oblation of all (
 
 2अव्युष्टायां रजन्यां पूर्णदर्व्येण चरन्ति, शरनिष्कासस्य दर्वीं पूरयित्वा गार्हपत्ये जुहोति । तत्र पुरोनुवाक्या - पूर्णेत्यनुष्टुप् ॥
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/04_chAturmAsyeShu_sAkamedhaparva/02_pUrNA_darvi.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/04_chAturmAsyeShu_sAkamedhaparva/02_pUrNA_darvi.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 पू॒र्णा द॑र्वि॒ परा॑ पत॒  
@@ -71,7 +71,7 @@ and to the Maruts as lords of the house he milks at evening an oblation of all (
 इष॒म् ऊर्जꣳ॑ शत-क्रतो  ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/04_chAturmAsyeShu_sAkamedhaparva/02_pUrNA_darvi.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/04_chAturmAsyeShu_sAkamedhaparva/02_pUrNA_darvi.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -97,7 +97,7 @@ Let us barter food and strength.
 
 3अथ याज्या - देहीत्यनुष्टुप् ॥ 
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/04_chAturmAsyeShu_sAkamedhaparva/03_dehi_me.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/04_chAturmAsyeShu_sAkamedhaparva/03_dehi_me.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 दे॒हि मे॒, ददा॑मि ते॒  
@@ -106,7 +106,7 @@ Let us barter food and strength.
 नि॒हारं॒ [5] नि ह॑रामि ते  ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/04_chAturmAsyeShu_sAkamedhaparva/03_dehi_me.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/04_chAturmAsyeShu_sAkamedhaparva/03_dehi_me.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 

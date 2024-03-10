@@ -577,7 +577,7 @@ Dir räumten alles ein die Götter alle, der grossen Indramacht beim Vritrakampf
 
 3'इन्द्राण्यै चरुं निर्वपेद्यस्य सेनाऽसंशितेव स्यात्' इत्यस्य पुरोनुवाक्या - इन्द्राणीमित्यनुष्टुप् ॥ 
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/13_kAmyeShTayaH/02_indrANImAsu_nAriShu.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/13_kAmyeShTayaH/02_indrANImAsu_nAriShu.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 इ॒न्द्रा॒णीमा॒सु नारि॑षु  
@@ -586,7 +586,7 @@ Dir räumten alles ein die Götter alle, der grossen Indramacht beim Vritrakampf
 ज॒रसा᳚ [47]मर॑ते॒ पतिः॑  ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/13_kAmyeShTayaH/02_indrANImAsu_nAriShu.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/13_kAmyeShTayaH/02_indrANImAsu_nAriShu.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -2117,7 +2117,7 @@ So bring doch her, lass niemand es verhindern, da wir dich kennen als den Herrn 
 
 9'इन्द्राय प्रदात्रे पुरोदाशमेकादशकपालं निर्वपेद् यस्मै प्रत्तम् इव सन्नप्रदीयेत' इत्यस्य पुरोनुवाक्या - प्रदातारमिति बृहती ॥
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/13_kAmyeShTayaH/03_pradAtAraM_havAmaha.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/13_kAmyeShTayaH/03_pradAtAraM_havAmaha.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 प्र॒दा॒तारꣳ॑ **हवामह॒**  
@@ -2126,7 +2126,7 @@ So bring doch her, lass niemand es verhindern, da wir dich kennen als den Herrn 
 **ऽऽप्र य॑च्छ॒** दख्षि॑णा॒द् ओत स॒व्यात्  ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/13_kAmyeShTayaH/03_pradAtAraM_havAmaha.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/13_kAmyeShTayaH/03_pradAtAraM_havAmaha.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -2152,7 +2152,7 @@ Give to us from the left and the right.
 
 10तत्रैव याज्या - प्रदातेति त्रिष्टुप् ॥ 
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/13_kAmyeShTayaH/04_pradAtA_vajrI.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/13_kAmyeShTayaH/04_pradAtA_vajrI.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 प्र॒दा॒ता व॒ज्री वृ॑ष॒भस् +++(आ)+++तु॑रा॒-षाट्+++(←सह्)+++  
@@ -2161,7 +2161,7 @@ Give to us from the left and the right.
 +अथा॑ **भव॒** यज॑मानाय॒ शय्ँ योः+++(←यु मिश्रणामिश्रणयोः)+++  ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/13_kAmyeShTayaH/04_pradAtA_vajrI.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/13_kAmyeShTayaH/04_pradAtA_vajrI.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 

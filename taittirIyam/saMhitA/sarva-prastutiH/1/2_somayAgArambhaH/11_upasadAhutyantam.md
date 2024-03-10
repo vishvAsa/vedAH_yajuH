@@ -201,7 +201,7 @@ ________
 6उपसदाहुतीर्जुहोति - तिसृषूपसत्सु अनुक्रमेण या त इति तिसृभिरनुष्टुग्भिः । तत्र प्रथमायां 'या ते अग्नेयाशया' इति ॥  
 'तनूर्वर्षिष्ठा' इत्यादि तिसृष्वपि सम्बध्यते ।
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/11_upasadAhutyantam/02_yA_te.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/11_upasadAhutyantam/02_yA_te.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 या ते॑ अग्ने ऽया+++(=अयसि/अस्यां [भुवि])+++श॒या [ त॒नूर्  
@@ -209,7 +209,7 @@ ________
 त्वे॒षव्ँ+++(=दीप्तं/ क्रूरं)+++ वचो॒ अपा॑वधी॒ꣳ॒ स्वाहा᳚ ॥ ] ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/11_upasadAhutyantam/02_yA_te.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/11_upasadAhutyantam/02_yA_te.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -236,7 +236,7 @@ the highest, that dwells in the cleft,
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/11_upasadAhutyantam/03_rajAshayA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/11_upasadAhutyantam/03_rajAshayA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 [या ते॑ अग्ने] रजा+++(=रजते/ऽन्तरिक्षे)+++-श॒या [ त॒नूर्  
@@ -244,7 +244,7 @@ the highest, that dwells in the cleft,
 त्वे॒षव्ँ+++(=दीप्तं/ क्रूरं)+++ वचो॒ अपा॑वधी॒ꣳ॒ स्वाहा᳚ ॥ ] ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/11_upasadAhutyantam/03_rajAshayA.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/11_upasadAhutyantam/03_rajAshayA.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -272,7 +272,7 @@ the highest, that dwells in the cleft,
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/11_upasadAhutyantam/04_harAshayA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/11_upasadAhutyantam/04_harAshayA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 [या ते॑ अग्ने] हरा+++(=हिरण्ये‌/द्यवि)+++श॒या [ त॒नूर्  
@@ -280,7 +280,7 @@ the highest, that dwells in the cleft,
 त्वे॒षव्ँ+++(=दीप्तं/ क्रूरं)+++ वचो॒ अपा॑वधी॒ꣳ॒ स्वाहा᳚ ॥ ] ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/11_upasadAhutyantam/04_harAshayA.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/11_upasadAhutyantam/04_harAshayA.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 

@@ -43,7 +43,7 @@ Do I thou mount the kindling (quarter); let the Gayatri of metres help thee; the
 
 2दक्षिणां उग्रामिति ॥ 
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/13_digvyAsthApanamantrAH_abhiShekasambandhihomaman/02_ugrAm_A.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/13_digvyAsthApanamantrAH_abhiShekasambandhihomaman/02_ugrAm_A.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 उ॒ग्राम् +++(दिशम्)+++ **आ ति॑ष्ठ**,  
@@ -52,7 +52,7 @@ Do I thou mount the kindling (quarter); let the Gayatri of metres help thee; the
 इन्द्रो॑ दे॒वता᳚ ख्ष॒त्त्रन् द्रवि॑णम्
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/13_digvyAsthApanamantrAH_abhiShekasambandhihomaman/02_ugrAm_A.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/13_digvyAsthApanamantrAH_abhiShekasambandhihomaman/02_ugrAm_A.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 

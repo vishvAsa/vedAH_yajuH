@@ -21,7 +21,7 @@ title = "१२ अश्वमेध-दश-हविष्केष्टि-�
 तत्राग्नये गायत्राय त्रिवृते राथन्तराय वासन्तायाष्टाकपाल इत्यस्य पुरोनुवाक्यामाह— समिद्दिशामिति।  
 
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/02_samid_dishAm.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/02_samid_dishAm.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 स॒मिद् दि॒शाम् +++(→विषुवस्थानीयो ऽग्निः, equinotical colure)+++ आ॒शया॑ नस् सुव॒-र्विन्  
@@ -30,7 +30,7 @@ title = "१२ अश्वमेध-दश-हविष्केष्टि-�
 इ॒दङ् ख्ष॒त्रꣳ **र॑ख्षतु॒** **पात्व्** अ॒स्मान् ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/02_samid_dishAm.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/02_samid_dishAm.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -64,7 +64,7 @@ May he guard our kingly power, may he protect us.
 
 तत्रैव याज्यामाह— रथंतरꣳ सामेति।  
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/03_rathantaraM_sAmabhipH.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/03_rathantaraM_sAmabhipH.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 र॒थ॒न्त॒रꣳ साम॑भिᳶ **पात्व्** अ॒स्मान्  
@@ -73,7 +73,7 @@ May he guard our kingly power, may he protect us.
 समु॒द्रो वात॑ इ॒दम् ओजᳶ॑ **पिपर्तु**+++(←पूरणे)+++ ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/03_rathantaraM_sAmabhipH.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/03_rathantaraM_sAmabhipH.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -107,7 +107,7 @@ The ocean, the wind, make full this strength.
 
 अथेन्द्राय त्रैष्टुभाय पञ्चदशाय बार्हताय ग्रैष्मायैकादशकपाल इत्यस्य पुरोनुवाक्यामाह— उग्रा दिशामिति।  
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/04_ugrA_dishAm.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/04_ugrA_dishAm.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 उ॒ग्रा दि॒शाम् अ॒भिभू॑तिर् वयो॒-धाश्  
@@ -116,7 +116,7 @@ The ocean, the wind, make full this strength.
 महि॑ ख्ष॒त्रव्ँ वि॒श्वतो॑ **धारये॒दम्** ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/04_ugrA_dishAm.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/04_ugrA_dishAm.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -137,7 +137,7 @@ And for us [1] on all sides do thou preserve this great kingly power.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/05_bRhathsAma_khShatrabhRd.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/05_bRhathsAma_khShatrabhRd.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 बृ॒हथ्-साम॑ ख्षत्र॒-भृद् वृ॒द्ध-वृ॑ष्णियन्,   
@@ -146,7 +146,7 @@ And for us [1] on all sides do thou preserve this great kingly power.
 इ॒दव्ँ वाते॑न॒ सग॑रेण +++(च)+++ **रख्ष** ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/05_bRhathsAma_khShatrabhRd.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/05_bRhathsAma_khShatrabhRd.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -176,7 +176,7 @@ Do thou guard this in the midst with the wind, with the ocean.
 अथ विश्वेभ्यो देवेभ्यो जागतेभ्यः सप्तदशेभ्यो वैरूपेभ्यो वार्षिकेभ्यो द्वादशकपाल इत्यस्य पुरोनुवाक्यामाह— प्राची दिशामिति।   
 
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/06_prAchI_dishAm.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/06_prAchI_dishAm.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 प्राची॑ दि॒शाꣳ स॒ह-य॑शा॒ यश॑स्वती॒  
@@ -185,7 +185,7 @@ Do thou guard this in the midst with the wind, with the ocean.
 ऽना॑धृष्टꣳ सह॒स्रिय॒ꣳ॒ सह॑स्वत् ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/06_prAchI_dishAm.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/06_prAchI_dishAm.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -209,7 +209,7 @@ Force unoverpowerable, a thousandfold and mighty.
 
 तत्रैव याज्यामाह– वैरूपे सामन्निति।   
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/07_vairUpe_sAmann.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/07_vairUpe_sAmann.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 वै॒रू॒पे साम॑न्न् इ॒ह तच् **छ॑केम॒**  
@@ -218,7 +218,7 @@ Force unoverpowerable, a thousandfold and mighty.
 इ॒दङ् ख्ष॒त्रꣳ स॑लि॒ल+++(→सागर)+++-वा॑तम् उ॒ग्रम् ।+++(4)+++
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/07_vairUpe_sAmann.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/07_vairUpe_sAmann.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 </details>
 </div>
@@ -246,7 +246,7 @@ This kingly power with the ocean wind (be) dread.
 
 अथ ‘मित्रावरुणाभ्यामानुष्टुभाभ्यामेकावि+शाभ्यां वैराजाभ्याꣳ शारदाभ्यां पयस्या’  इत्यस्य पुरोनुवाक्यामाह— धर्त्री दिशामिति।   
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/08_dhartrI_dishA~N.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/08_dhartrI_dishA~N.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 ध॒र्त्री दि॒शाङ् ख्ष॒त्रम् इ॒दन् **दा॑धार**+  
@@ -256,7 +256,7 @@ This kingly power with the ocean wind (be) dread.
 अ॒स्मै रा॒ष्ट्राय॒ महि॒ **शर्म॑ यच्छतम्** ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/08_dhartrI_dishA~N.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/08_dhartrI_dishA~N.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 </details>
 </div>
@@ -280,7 +280,7 @@ Do ye accord great protection to this kingdom.
 
 तत्रैव याज्यमाह— वैराजे सामन्निति।   
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/09_vairAje_sAmann.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/09_vairAje_sAmann.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 वै॒रा॒जे साम॒न्न् अधि॑ मे मनी॒षा  
@@ -289,7 +289,7 @@ Do ye accord great protection to this kingdom.
 मित्रा॑-वरुणा॒ **रख्ष॑त॒म्** आधि॑पत्यैः ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/09_vairAje_sAmann.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/09_vairAje_sAmann.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -319,7 +319,7 @@ Do ye, O Mitra and Varuna, guard through your overlordship.
 
 अथ बृहस्पतये पाङ्क्ताय त्रिणवाय शाक्वराय हैमन्किया चरुः, इत्यस्य पुरोनुवाक्यामाह– सम्राड्दिशामिति।   
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/10_samrAD_dishAm.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/10_samrAD_dishAm.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 स॒म्राड् दि॒शाꣳ स॒ह-सा᳚म्नी॒ सह॑स्वत्य्  
@@ -328,7 +328,7 @@ Do ye, O Mitra and Varuna, guard through your overlordship.
 इ॒मय्ँ य॒ज्ञम् **अ॑वन्तु** नो **घृ॒ताचीः᳚** ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/10_samrAD_dishAm.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/10_samrAD_dishAm.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -352,7 +352,7 @@ Aid this sacrifice, full of ghee.
 
 तत्रैव याज्यमाह— सुवर्वतीति।   
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/11_suvarvatI_sudughA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/11_suvarvatI_sudughA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 +++(ख-गङ्गा-रूपा?)+++ सुव॑र्वती सु॒दुघा॑ न॒ᳶ पय॑स्वती  
@@ -361,7 +361,7 @@ Aid this sacrifice, full of ghee.
 बृह॑स्पते॒ याम्या᳚य्ँ +++(दिशि)+++ **युङ्ग्धि॒** वाच᳚म् ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/11_suvarvatI_sudughA.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/11_suvarvatI_sudughA.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -389,7 +389,7 @@ O Brhaspati, yoke a voice in the south.
 
 अथ ‘सवित्र आतिच्छन्दसाय त्रयस्त्रिꣳशाय रैवताय शैशिराय द्वादशकपालः’ इत्यस्य पुरोनुवाक्यामाह— ऊर्ध्वा दिशामिति।   
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/12_UrdhvA_dishAm.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/12_UrdhvA_dishAm.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 ऊ॒र्ध्वा दि॒शाꣳ **रन्ति॒र्**+++(←रम्)+++ आशा॒+औष॑धीनाꣳ  
@@ -398,7 +398,7 @@ O Brhaspati, yoke a voice in the south.
 ऽजा॑त-शत्रुस् **स्यो॒ना नो॑ अस्तु** ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/12_UrdhvA_dishAm.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/12_UrdhvA_dishAm.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -421,7 +421,7 @@ Without a foe, be kindly to us.
 
 तत्रैव याज्यामाह— स्तोमत्रयस्त्रिꣳश इति।   
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/13_stoma_trayastriMshe.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/13_stoma_trayastriMshe.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 स्तोम॑ त्रयस्त्रिꣳशे॒! भुव॑नस्य पत्नि॒!  
@@ -430,7 +430,7 @@ Without a foe, be kindly to us.
 पय॑स्वती॒ **रन्ति॒र्**+++(←रम्)+++ +++(इयम्)+++ **आशा॑ नो अस्तु** ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/13_stoma_trayastriMshe.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/13_stoma_trayastriMshe.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -461,7 +461,7 @@ Be the bounteous region rich in milk, for us.
 
 अथादित्यै विष्णुपत्न्यै चरुरित्यस्य पुरोनुवाक्यामाह— घ्रुवा दिशामिति।   
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/14_dhruvA_dishAv.N.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/14_dhruvA_dishAv.N.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 ध्रु॒वा दि॒शाव्ँ वि॑ष्णु-प॒त्न्य् अ-घो॑रा॒  
@@ -470,7 +470,7 @@ Be the bounteous region rich in milk, for us.
 स॑न्धुवा॒ना+++(←धु कम्पने)+++ वाता॑ अ॒भि नो॑ **गृणन्तु** ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/14_dhruvA_dishAv.N.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/14_dhruvA_dishAv.N.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -495,7 +495,7 @@ The winds blowing together be gracious to us.
 
 तत्रैव याज्यामाह— विष्टम्भो दिव इति।   
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/15_viShTambho_divo.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/15_viShTambho_divo.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 वि॒ष्ट॒म्भो दि॒वो, ध॒रुणᳶ॑ पृथि॒व्या,  
@@ -504,7 +504,7 @@ The winds blowing together be gracious to us.
 **शि॒वा नो॑ अ॒स्त्व्** अदि॑तिर् +++(त्वद्-)+++ उ॒प-स्थे᳚ ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/15_viShTambho_divo.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/15_viShTambho_divo.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -944,7 +944,7 @@ A joy to the giver.
 
 O Anumati, thou.
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/3/3/11_yAjyApuronuvAkyAH/24_anv_id.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/3/3/11_yAjyApuronuvAkyAH/24_anv_id.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 **अन्व्** इद् अ॑नुमते॒ त्वम् [34]  

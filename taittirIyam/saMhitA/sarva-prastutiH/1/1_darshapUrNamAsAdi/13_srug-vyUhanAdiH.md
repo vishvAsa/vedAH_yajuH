@@ -350,7 +350,7 @@ ____
 
 मध्यमं परिधिम् अनुप्रहरति
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/13_srug-vyUhanAdiH/63_yam_paridhim.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/13_srug-vyUhanAdiH/63_yam_paridhim.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 यम् प॑रि॒धिम् प॒र्यध॑त्था॒  
@@ -359,7 +359,7 @@ ____
 नेद् ए॒ष त्वद्-अ॑पचे॒तया॑तै+++(=अपरक्तचेता भवेत्)+++ ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/13_srug-vyUhanAdiH/63_yam_paridhim.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/13_srug-vyUhanAdiH/63_yam_paridhim.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -416,7 +416,7 @@ ____
 
 एतान् संस्रावेणाभिघारयति
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/13_srug-vyUhanAdiH/73_sasrAvabhAgAs_sthaiShA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/13_srug-vyUhanAdiH/73_sasrAvabhAgAs_sthaiShA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 सꣵस्रा॒व+++(=जुहूपभृद्भ्यां सिच्यमान आज्य-शेषः)+++भा॑गास् स्थ+इ॒षा बृ॒हन्तᳶ॑  
@@ -425,7 +425,7 @@ ____
 आ॒सद्या॒स्मिन् ब॒र्हिषि॑ मादयध्वम् ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/13_srug-vyUhanAdiH/73_sasrAvabhAgAs_sthaiShA.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/13_srug-vyUhanAdiH/73_sasrAvabhAgAs_sthaiShA.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 

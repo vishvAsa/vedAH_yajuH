@@ -325,7 +325,7 @@ The path that leadeth to the gods, along it may the sacrifice go to the gods.
 
 इदनीं यज्ञस्य मार्ग उपदिश्यते - यो देवयानः पन्थाः येन पथा देवान् गच्छति देवत्वं वा प्राप्यते तेन पथायं यज्ञो देवानप्येतु तेन मार्गेण गत्वा देवाननुप्रविशतु ॥
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/03_bhaxyAnumantraNAdi/02_asmAsv_indra.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/03_bhaxyAnumantraNAdi/02_asmAsv_indra.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अ॒स्मास्व् इन्द्र॑ **इन्द्रि॒यन् द॑धात्व्**  
@@ -334,7 +334,7 @@ The path that leadeth to the gods, along it may the sacrifice go to the gods.
 सा नᳶ॑ प्रि॒या सु॒प्रतू᳚र्तिर् म॒घोनी॒॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/03_bhaxyAnumantraNAdi/02_asmAsv_indra.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/03_bhaxyAnumantraNAdi/02_asmAsv_indra.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 

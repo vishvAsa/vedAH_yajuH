@@ -296,7 +296,7 @@ _______
 
 भव॑तं [12]न॒स्सम॑नसौ॒ समो॑कसावरे॒पसौ᳚ ।  मा य॒ज्ञꣳ हिꣳ॑सिष्ट॒म्मा य॒ज्ञप॑तिञ्जातवेदसौ शि॒वौ भ॑वतम॒द्य नः॑ ॥ 
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/07_pashUpAkaraNam/02_bhavataM_nas.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/07_pashUpAkaraNam/02_bhavataM_nas.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 +++(मथिताग्ने, आहवनीयाग्ने च!)+++  
@@ -307,7 +307,7 @@ _______
 शि॒वौ भ॑वतम् अ॒द्य नः॑ ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/07_pashUpAkaraNam/02_bhavataM_nas.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/07_pashUpAkaraNam/02_bhavataM_nas.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -345,7 +345,7 @@ _______
 
 12प्रहृत्य स्रुवेणाभिजुहोति - अग्नावग्निरिति चतुष्पदया त्रिष्टुभा ॥
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/07_pashUpAkaraNam/03_agnAv_agnish.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/07_pashUpAkaraNam/03_agnAv_agnish.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अ॒ग्नाव् अ॒ग्निश् च॑रति॒ प्रवि॑ष्ट॒  
@@ -354,7 +354,7 @@ _______
 मा दे॒वाना᳚म् मिथु॒या क॑र् भाग॒-धेय᳚म् ॥ [13]
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/07_pashUpAkaraNam/03_agnAv_agnish.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/07_pashUpAkaraNam/03_agnAv_agnish.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 

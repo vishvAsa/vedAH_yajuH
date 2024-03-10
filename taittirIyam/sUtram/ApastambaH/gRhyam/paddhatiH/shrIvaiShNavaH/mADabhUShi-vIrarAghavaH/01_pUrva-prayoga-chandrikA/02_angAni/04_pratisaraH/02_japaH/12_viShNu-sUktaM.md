@@ -16,7 +16,7 @@ title = "१२ विष्णु-सूक्तं"
 
 विष्णो॒र्नुक॒न्, तद॑स्य प्रि॒यम् । प्र तद्विष्णुः॑ ।
 </details>
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/154/01_viShNornu_kaM.md">
+<div class="js_include" includetitle="plain" newlevelforh1="5" includetitle="false" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/154/01_viShNornu_kaM.md">
 <details open><summary><h10>विश्वास-प्रस्तुतिः ...{Loading}...</h10></summary>
 
 
@@ -27,7 +27,7 @@ title = "१२ विष्णु-सूक्तं"
 
 </details>
 </div>
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/154/01_viShNornu_kaM.md">
+<div class="js_include" includetitle="plain" newlevelforh1="5" includetitle="false" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/154/01_viShNornu_kaM.md">
 <details open><summary><h10>विश्वास-प्रस्तुतिः ...{Loading}...</h10></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 

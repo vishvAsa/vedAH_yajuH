@@ -257,7 +257,7 @@ title = "११ चित्रादियाज्यापुरोनुव�
 
 16अथ तत्रैव याज्या - या सुपाणिरित्यनुष्टुप् ॥ 
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/3/1/11_chitrAdiyAjyApuronuvAkyAH/47_yA_supANis.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/3/1/11_chitrAdiyAjyApuronuvAkyAH/47_yA_supANis.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 या सु॑पा॒णिस् स्व॑ङ्गु॒रिस्  
@@ -266,7 +266,7 @@ title = "११ चित्रादियाज्यापुरोनुव�
 सि॑नीवा॒ल्यै **जु॑होतन** ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/3/1/11_chitrAdiyAjyApuronuvAkyAH/47_yA_supANis.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/3/1/11_chitrAdiyAjyApuronuvAkyAH/47_yA_supANis.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 

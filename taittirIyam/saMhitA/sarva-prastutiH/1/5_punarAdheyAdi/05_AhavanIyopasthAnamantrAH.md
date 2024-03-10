@@ -2463,7 +2463,7 @@ ___________
 
 15आहवनीये समिधमादधाति - इन्धाना इति सप्तपदया शक्वर्या ॥
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/05_AhavanIyopasthAnamantrAH/02_indhAnAs_tvA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/05_AhavanIyopasthAnamantrAH/02_indhAnAs_tvA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 **इन्धा॑नास् त्वा** श॒तꣳ हिमा᳚  
@@ -2475,7 +2475,7 @@ ___________
 वर्षि॑ष्ठे॒ अधि॒ नाके᳚ ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/05_AhavanIyopasthAnamantrAH/02_indhAnAs_tvA.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/05_AhavanIyopasthAnamantrAH/02_indhAnAs_tvA.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -2510,7 +2510,7 @@ _______
 
 16पुनरुपतिष्ठते - सं त्वमग्न इति । 
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/05_AhavanIyopasthAnamantrAH/03_san_tvam.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/05_AhavanIyopasthAnamantrAH/03_san_tvam.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 सन् त्वम् अ॑ग्ने॒ **सूर्य॑स्य॒ वर्च॑सा ऽगथा॒स्**+++(=अगच्छः)+++,  
@@ -2519,7 +2519,7 @@ _______
 सम् माम् आयु॑षा॒ वर्च॑सा **प्र॒जया॑ सृज** ॥ [20]
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/05_AhavanIyopasthAnamantrAH/03_san_tvam.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/05_AhavanIyopasthAnamantrAH/03_san_tvam.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 

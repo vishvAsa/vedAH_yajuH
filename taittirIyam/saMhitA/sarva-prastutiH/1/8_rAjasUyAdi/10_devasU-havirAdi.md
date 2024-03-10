@@ -282,7 +282,7 @@ Soma is the king of us Brahmans.
 
 प्रति॒ त्यन्नाम॑ रा॒ज्यम॑धायि॒ स्वान्त॒नुव॒व्ँवरु॑णो अशिश्रे॒च्छुचे᳚र्मि॒त्रस्य॒ व्रत्या॑ अभू॒माम॑न्महि मह॒त ऋ॒तस्य॒ नाम॒ सर्वे॒ व्राता॒ वरु॑णस्याभूव॒न्वि मि॒त्र एवै॒ररा॑तिमतारी॒दसू॑षुदन्त य॒ज्ञिया॑ ऋ॒तेन॒ व्यु॑ त्रि॒तो ज॑रि॒माण॑न्न आनड् 
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/10_devasU-havirAdi/02_prati_tyan.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/10_devasU-havirAdi/02_prati_tyan.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 प्रति॒ त्यन् नाम॑ रा॒ज्यम् **अ॑धायि॒**  
@@ -291,7 +291,7 @@ Soma is the king of us Brahmans.
 +**अम॑न्महि** मह॒त ऋ॒तस्य॒ नाम॑ ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/10_devasU-havirAdi/02_prati_tyan.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/10_devasU-havirAdi/02_prati_tyan.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -312,7 +312,7 @@ We have magnified the name of the great holy order.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/10_devasU-havirAdi/03_sarve_vrAtA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/10_devasU-havirAdi/03_sarve_vrAtA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 सर्वे॒ व्राता॒ वरु॑णस्याभूव॒न्  
@@ -321,7 +321,7 @@ We have magnified the name of the great holy order.
 **व्य्** उ॑ त्रि॒तो +++(ऽग्निः)+++ ज॑रि॒माण॑न् न+++(ः)+++ **आन॑ट्** +++(=प्रापयतु)+++॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/10_devasU-havirAdi/03_sarve_vrAtA.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/10_devasU-havirAdi/03_sarve_vrAtA.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 

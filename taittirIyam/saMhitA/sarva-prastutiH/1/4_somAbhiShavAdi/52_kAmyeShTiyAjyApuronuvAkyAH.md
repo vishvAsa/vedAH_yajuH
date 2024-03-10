@@ -1047,7 +1047,7 @@ _______
 
 5'अग्नये रसवतेजक्षीरे चरुं निर्वपेद्यः कामयेत रसवान् स्याम्' इत्यस्य पुरोनुवाक्या- अग्ने रसेनेति गायत्री ॥ 
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/52_kAmyeShTiyAjyApuronuvAkyAH/02_agne_rasena.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/52_kAmyeShTiyAjyApuronuvAkyAH/02_agne_rasena.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अग्ने॒ रसे॑न॒ तेज॑सा॒  
@@ -1055,7 +1055,7 @@ _______
 र॒ख्षो॒हा ऽमी॑व॒+++(=आभ्यन्तर-रोग)+++-चात॑नः+++(=शातनः)+++  ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/52_kAmyeShTiyAjyApuronuvAkyAH/02_agne_rasena.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/52_kAmyeShTiyAjyApuronuvAkyAH/02_agne_rasena.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -1131,7 +1131,7 @@ _______
 
 7'अग्नये वसुमते पुरोडाशमष्टाकपालं निर्वपेद्यः कामयेत वसुमान् स्याम्' इत्यस्य पुरोनुवाक्या - वसुर्वसुपतिरिति गायत्री ॥ 
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/52_kAmyeShTiyAjyApuronuvAkyAH/03_vasur_vasupatir.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/52_kAmyeShTiyAjyApuronuvAkyAH/03_vasur_vasupatir.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 **वसु॒र्** वसु॑पति॒र् हिक॒म्+++(=यस्मादेवम्??)+++  
@@ -1139,7 +1139,7 @@ _______
 **स्याम॑** ते **सुम॒ताव्** अपि॑  ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/52_kAmyeShTiyAjyApuronuvAkyAH/03_vasur_vasupatir.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/52_kAmyeShTiyAjyApuronuvAkyAH/03_vasur_vasupatir.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -1674,7 +1674,7 @@ _______
 
 10तत्रैव याज्या - अयं न इति त्रिष्टुप् ॥ व्याख्याता चेयं 'त्वं सोम' इत्यत्र । 
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/52_kAmyeShTiyAjyApuronuvAkyAH/04_ayan_no.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/52_kAmyeShTiyAjyApuronuvAkyAH/04_ayan_no.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अ॒यन् नो॑ अ॒ग्निर् **वरि॑वᳵ+++(=अवकाशं)+++ कृणोत्व्**  
@@ -1683,7 +1683,7 @@ _______
 ऽयव्ँ **वाज॑ञ् जयतु॒** वाज॑-सातौ+++(←सन् दाने)+++  ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/52_kAmyeShTiyAjyApuronuvAkyAH/04_ayan_no.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/52_kAmyeShTiyAjyApuronuvAkyAH/04_ayan_no.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -1713,7 +1713,7 @@ _______
 
 11'अग्नयेग्निवते पुरोडाशमष्टाकपालं निर्वपेद्यस्याग्नावग्निमभ्युद्धरेयुः' इत्यस्य पुरोनुवाक्या - अग्निनाग्निरिति गायत्री ॥
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/52_kAmyeShTiyAjyApuronuvAkyAH/05_agninAgnis_samidhyate.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/52_kAmyeShTiyAjyApuronuvAkyAH/05_agninAgnis_samidhyate.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अ॒ग्निना॒ग्निस् **समि॑ध्यते**  
@@ -1721,7 +1721,7 @@ _______
 ह॒व्य॒-वाड्+++(←वह्)+++ जु॒ह्वा᳚स्यः  ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/52_kAmyeShTiyAjyApuronuvAkyAH/05_agninAgnis_samidhyate.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/52_kAmyeShTiyAjyApuronuvAkyAH/05_agninAgnis_samidhyate.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 

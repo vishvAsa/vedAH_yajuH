@@ -135,7 +135,7 @@ This is thy portion, O Rudra, with thy sister Ambika; rejoice in it.
 
 4ततश्च त्वत्प्रसादाद् अस्माकम् इत्थम् अस्त्व् इत्य् आशास्ते - भेषजं गव इति पङ्क्त्या पञ्चपदया ॥ 
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/06_chAturmAsyeShu_sAkamedhaparva-tryambaka-haviH/02_bheShaja~N_gave.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/06_chAturmAsyeShu_sAkamedhaparva-tryambaka-haviH/02_bheShaja~N_gave.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 भेष॒जङ् गवे ऽश्वा॑य ..   
@@ -145,7 +145,7 @@ This is thy portion, O Rudra, with thy sister Ambika; rejoice in it.
 सु॒गम् मे॒षाय॑ मे॒ष्या॑ ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/06_chAturmAsyeShu_sAkamedhaparva-tryambaka-haviH/02_bheShaja~N_gave.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/06_chAturmAsyeShu_sAkamedhaparva-tryambaka-haviH/02_bheShaja~N_gave.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 

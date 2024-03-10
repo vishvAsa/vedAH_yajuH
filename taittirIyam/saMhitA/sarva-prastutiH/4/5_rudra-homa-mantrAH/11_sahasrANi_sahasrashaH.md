@@ -16,7 +16,7 @@ title = "११ स॒हस्रा॑णि सहस्र॒शो"
 तत्राऽऽदौ दशसंख्याका ऋचः।  
 
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/02_sahasrANi_sahasrasho.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/02_sahasrANi_sahasrasho.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 स॒हस्रा॑णि सहस्र॒शो  
@@ -25,7 +25,7 @@ title = "११ स॒हस्रा॑णि सहस्र॒शो"
 धन्वा॑नि **तन्मसि** ।+++(4)+++
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/02_sahasrANi_sahasrasho.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/02_sahasrANi_sahasrasho.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -50,7 +50,7 @@ At a thousand leagues.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/03_asmin_mahaty.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/03_asmin_mahaty.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अ॒स्मिन् म॑ह॒त्य् अ॑र्ण॒वे᳚  
@@ -59,7 +59,7 @@ At a thousand leagues.
 धन्वा॑नि **तन्मसि** ।}
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/03_asmin_mahaty.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/03_asmin_mahaty.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -81,7 +81,7 @@ At a thousand leagues.}
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/04_nIlagrIvAsh_shitikaNThAsh.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/04_nIlagrIvAsh_shitikaNThAsh.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 +++(एकदेशे)+++ नील॑-ग्रीवाश् +++(अपरत्र)+++ शिति॒-कण्ठा᳚श्  
@@ -90,7 +90,7 @@ At a thousand leagues.}
 धन्वा॑नि **तन्मसि** ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/04_nIlagrIvAsh_shitikaNThAsh.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/04_nIlagrIvAsh_shitikaNThAsh.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -114,7 +114,7 @@ At a thousand leagues.}
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/05_nIlagrIvAsh_shitikaNThA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/05_nIlagrIvAsh_shitikaNThA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 नील॑-ग्रीवाश् शिति॒-कण्ठा॒  
@@ -123,7 +123,7 @@ At a thousand leagues.}
 धन्वा॑नि **तन्मसि** ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/05_nIlagrIvAsh_shitikaNThA.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/05_nIlagrIvAsh_shitikaNThA.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -144,7 +144,7 @@ At a thousand leagues.}
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/06_ye_vRkhSheShu.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/06_ye_vRkhSheShu.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 ये वृ॒ख्षेषु॑ स॒स्+++(←सस्य)+++-पिञ्ज॑रा॒+++(=पीत-रक्ता)+++  
@@ -153,7 +153,7 @@ At a thousand leagues.}
 धन्वा॑नि **तन्मसि** ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/06_ye_vRkhSheShu.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/06_ye_vRkhSheShu.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -179,7 +179,7 @@ At a thousand leagues.}
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/07_ye_bhUtAnAm.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/07_ye_bhUtAnAm.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 ये **भू॒ताना॒म् अधि॑पतयो**  
@@ -188,7 +188,7 @@ At a thousand leagues.}
 धन्वा॑नि **तन्मसि** ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/07_ye_bhUtAnAm.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/07_ye_bhUtAnAm.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -211,7 +211,7 @@ At a thousand leagues.}
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/08_ye_anneShu.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/08_ye_anneShu.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 ये अन्ने॑षु **वि॒विध्य॑न्ति॒**+++(←विध्)+++  
@@ -220,7 +220,7 @@ At a thousand leagues.}
 धन्वा॑नि **तन्मसि** ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/08_ye_anneShu.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/08_ye_anneShu.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -242,7 +242,7 @@ At a thousand leagues.}
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/09_ye_pathAm.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/09_ye_pathAm.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 ये प॒थाम् प॑थि॒र् अख्ष॑य  
@@ -251,7 +251,7 @@ At a thousand leagues.}
 धन्वा॑नि **तन्मसि** ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/09_ye_pathAm.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/09_ye_pathAm.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -279,7 +279,7 @@ At a thousand leagues.}
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/10_ye_tIrthAni.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/10_ye_tIrthAni.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 ये ती॒र्थानि॑ प्र॒चर॑न्ति  
@@ -288,7 +288,7 @@ At a thousand leagues.}
 धन्वा॑नि **तन्मसि** ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/10_ye_tIrthAni.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/10_ye_tIrthAni.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -311,7 +311,7 @@ At a thousand leagues.}
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/11_ya_etAvantash.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/11_ya_etAvantash.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 य ए॒ताव॑न्तश् च॒ भूयाꣳ॑सश् च॒  
@@ -319,7 +319,7 @@ At a thousand leagues.}
 तेषाꣳ॑ सहस्र-योज॒नेऽव॒ धन्वा॑नि तन्मसि ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/11_ya_etAvantash.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/11_ya_etAvantash.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
