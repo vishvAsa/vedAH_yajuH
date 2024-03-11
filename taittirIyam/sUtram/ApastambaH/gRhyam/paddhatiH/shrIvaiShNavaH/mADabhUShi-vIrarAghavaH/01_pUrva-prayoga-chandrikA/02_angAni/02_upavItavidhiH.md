@@ -106,6 +106,17 @@ title = "०२ उपवीतविधिः"
 </details>
 </div>
 
+<div class="js_include" newlevelforh1="4" includetitle="false" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/12_yAsAn_devA.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+यासा᳚न् दे॒वा दि॒वि कृ॒ण्वन्ति॑ भ॒ख्षय्ँ -  
+या अ॒न्तरि॑ख्षे बहु॒धा भव॑न्ति ।
+याᳶ पृ॑थि॒वीम् पय॑सो॒न्दन्ति॑ शु॒क्रास् -  
+ता न॒ आप॒श् शꣳ स्यो॒ना भ॑वन्तु ।
+</details>
+</div>
+
+
 'पवमानस् सुवर्जनः' इत्यनुवाकेन च दर्भैः **प्रोक्ष्य** 
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH">
