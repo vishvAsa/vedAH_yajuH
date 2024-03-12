@@ -24,7 +24,7 @@ title = "२२ काम्येष्टि-याज्यापुरोन
 
 1अथ याज्याकाण्डं वैश्वदेवम् । तत्र 'आग्नावैष्णवमेकादशपालं निर्वपेदभिचरन्त्सरस्वत्याज्यभागा स्याद्बार्हस्पत्यश्चरुः' इत्यस्याग्नावैष्णवस्य पुरोनुवाक्या - अग्नाविष्णू महीति त्रिष्टुप् ॥  
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/22_kAmyeShTiyAjyApuronuvAkyAH/02_agnAviShNU_mahi.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/22_kAmyeShTiyAjyApuronuvAkyAH/02_agnAviShNU_mahi.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अग्ना॑-विष्णू॒ महि॒ तद् वा᳚म् महि॒त्वव्ँ,  
@@ -33,7 +33,7 @@ title = "२२ काम्येष्टि-याज्यापुरोन
 प्रति॑ वाञ् जि॒ह्वा घृ॒तम् **आ च॑रण्येत्**  ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/22_kAmyeShTiyAjyApuronuvAkyAH/02_agnAviShNU_mahi.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/22_kAmyeShTiyAjyApuronuvAkyAH/02_agnAviShNU_mahi.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -61,7 +61,7 @@ May your tongue move forth to the ghee.
 
 2तत्रैव याज्या - अग्नाविष्णू इति त्रिष्टुप् ॥ 
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/22_kAmyeShTiyAjyApuronuvAkyAH/03_agnAviShNU_mahi.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/22_kAmyeShTiyAjyApuronuvAkyAH/03_agnAviShNU_mahi.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अग्ना॑विष्णू॒ महि॒ धाम॑ प्रि॒यव्ँ वा᳚व्ँ  
@@ -70,7 +70,7 @@ May your tongue move forth to the ghee.
 प्रति॑ वाञ् जि॒ह्वा घृ॒तम् **उच्च॑रण्येत्**  ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/22_kAmyeShTiyAjyApuronuvAkyAH/03_agnAviShNU_mahi.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/22_kAmyeShTiyAjyApuronuvAkyAH/03_agnAviShNU_mahi.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -3324,7 +3324,7 @@ Es rinnen lustbringende Ströme, die Milchtränke, hin zu dem, der geopfert hat,
 
 15'यो ब्रह्मवर्चसकामस्स्यात्तस्मा एतं सोमारौद्रं चरुं निर्वपेत्' इत्यस्य पुरोनुवाक्या - सोमारुद्रा वि वृहतमिति त्रिष्टुप् ॥ 
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/22_kAmyeShTiyAjyApuronuvAkyAH/04_somArudrA_vi.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/22_kAmyeShTiyAjyApuronuvAkyAH/04_somArudrA_vi.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 सोमा॑-रुद्रा॒ **वि वृ॑हतं॒**+++(←वृहू उद्यमने)+++ विषू॑ची॒म्+++(=विष्वग्गमनाम्)+++  
@@ -3333,7 +3333,7 @@ Es rinnen lustbringende Ströme, die Milchtränke, hin zu dem, der geopfert hat,
 **कृ॒तञ्** चि॒द् एन॒ᳶ **प्रमु॑मुक्तम्** अ॒स्मत्  ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/22_kAmyeShTiyAjyApuronuvAkyAH/04_somArudrA_vi.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/22_kAmyeShTiyAjyApuronuvAkyAH/04_somArudrA_vi.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 

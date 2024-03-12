@@ -1,5 +1,6 @@
 +++
 title = "कुम्भ-कार्यम्"
+
 +++
 
 शुचौ समे देशे गोमयेन गोचर्ममात्रं चतुरश्रं स्थण्डिलमुपलिप्य, सैकतवद्द्रोणपरिमित-व्रीहिभिः स्थण्डिलं कृत्वा, तदुपरि तण्डुलराशिं निक्षिप्य,
@@ -24,7 +25,7 @@ title = "कुम्भ-कार्यम्"
 
 (उत्तरतः)  
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/031/04_A_pyAyasva.md">
-<details open><summary><h4>१७ आ प्यायस्व ...{Loading}...</h4></summary>
+<details open><summary><h4>०४ आ प्यायस्व ...{Loading}...</h4></summary>
 
 
 **आ प्या॑यस्व॒ समे॑तु** ते  

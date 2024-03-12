@@ -47,7 +47,7 @@ _______
 
 अ॒न्तर्य॑च्छ मघवन्पा॒हि सोम॑मुरु॒ष्य राय॒स्समिषो॑ यजस्वा॒न्तस्ते॑ दधामि॒ द्यावा॑पृथि॒वी अ॒न्तरु॒र्व॑न्तरि॑ख्षꣳ स॒जोषा॑ दे॒वैरव॑रै॒ᳶ परै᳚श्चान्तर्या॒मे म॑घवन्मादयस्व 
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/02_antar_yachCha.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/02_antar_yachCha.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अ॒न्तर् **य॑च्छ**  मघवन् **पा॒हि++(=पिब)+++ सोम॑म्**   
@@ -60,7 +60,7 @@ _______
 +अन्तर्या॒मे +++(ग्रहे)+++ म॑घवन् **मादयस्व**
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/02_antar_yachCha.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/02_antar_yachCha.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 

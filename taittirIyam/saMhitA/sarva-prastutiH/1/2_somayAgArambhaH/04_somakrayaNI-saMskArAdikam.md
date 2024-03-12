@@ -115,7 +115,7 @@ ________
 
 हिरण्यम् अन्तर्धाय यजमानम् आदित्यम् उदीक्षयति।
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/04_somakrayaNI-saMskArAdikam/02_sUryasya_chakhShur.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/04_somakrayaNI-saMskArAdikam/02_sUryasya_chakhShur.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 सूर्य॑स्य॒ चख्षु॒र् आ ऽरु॑हम्  
@@ -125,7 +125,7 @@ ________
 भ्राज॑मानो विप॒श्चिता॑ +++(ऋषिगणेन, तस्य ते मण्डलम् आरुहम्)+++।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/04_somakrayaNI-saMskArAdikam/02_sUryasya_chakhShur.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/04_somakrayaNI-saMskArAdikam/02_sUryasya_chakhShur.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 

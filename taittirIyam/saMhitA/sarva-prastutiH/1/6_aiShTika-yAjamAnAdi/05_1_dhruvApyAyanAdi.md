@@ -13,7 +13,7 @@ _______
 
 1ध्रुवाम् आप्यायमानाम् अनुमन्त्रयते - आ प्यायतामिति । 
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/05_1_dhruvApyAyanAdi/02_A_pyAyatAn.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/05_1_dhruvApyAyanAdi/02_A_pyAyatAn.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 **आ प्या॑यतान्** ध्रु॒वा घृ॒तेन॑  
@@ -22,7 +22,7 @@ _______
 उ॒रु-धा॑रा पृथि॒वी य॒ज्ञे अ॒स्मिन्न्  ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/05_1_dhruvApyAyanAdi/02_A_pyAyatAn.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/05_1_dhruvApyAyanAdi/02_A_pyAyatAn.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 

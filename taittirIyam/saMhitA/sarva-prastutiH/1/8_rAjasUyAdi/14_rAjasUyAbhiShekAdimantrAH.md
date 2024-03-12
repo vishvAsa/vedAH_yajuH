@@ -118,7 +118,7 @@ Cast away is Namuci's head.
 
 6अभिषेकानवेक्षते - सोम इति षट्पदया त्रिष्टुभा ॥ 
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/14_rAjasUyAbhiShekAdimantrAH/02_somo_rAjA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/14_rAjasUyAbhiShekAdimantrAH/02_somo_rAjA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 सोमो॒ राजा॒ वरु॑णो   
@@ -129,7 +129,7 @@ Cast away is Namuci's head.
 ते ते॒ श्रोत्रꣳ॑ सुवन्ताम् ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/14_rAjasUyAbhiShekAdimantrAH/02_somo_rAjA.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/14_rAjasUyAbhiShekAdimantrAH/02_somo_rAjA.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -193,7 +193,7 @@ Protect from the sky.
 
 8ऊर्ध्वं धारास्समुन्मार्ष्टि - समाववृत्रन्निति त्रिष्टुभा ॥ 
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/14_rAjasUyAbhiShekAdimantrAH/03_samAvavRtrann_adharAg.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/14_rAjasUyAbhiShekAdimantrAH/03_samAvavRtrann_adharAg.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 **स॒माव॑वृत्रन्न्**+++(←वृत्)+++ अध॒राग् उदी॑ची॒र्  
@@ -203,7 +203,7 @@ Protect from the sky.
 +++(अत्रापः कर्म-प्रवाह-रूपाः, यथैव [Socrates in Phaedo](/AgamaH/AryaH/mediterranian/platonism/plato/phaedo/))+++
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/14_rAjasUyAbhiShekAdimantrAH/03_samAvavRtrann_adharAg.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/14_rAjasUyAbhiShekAdimantrAH/03_samAvavRtrann_adharAg.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 

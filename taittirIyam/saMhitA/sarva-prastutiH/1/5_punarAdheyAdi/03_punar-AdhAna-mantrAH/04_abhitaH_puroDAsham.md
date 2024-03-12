@@ -7,7 +7,7 @@ _______
 
 9अभितः पुरोडाशम् आहुतीर् जुहोति पुरस्ताद् उपरिष्टाच् च - पनर् ऊर्जेति द्वाभ्यां गायत्रीभ्याम् ॥
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/04_abhitaH_puroDAsham/02_punar_UrjA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/04_abhitaH_puroDAsham/02_punar_UrjA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 पुन॑र् **ऊ॒र्जा नि व॑र्तस्व॒**  
@@ -15,7 +15,7 @@ _______
 पुन॑र् नᳶ **पाहि** वि॒श्वतः॑ +++(अंशसः इति कौथुमे)+++ ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/04_abhitaH_puroDAsham/02_punar_UrjA.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/04_abhitaH_puroDAsham/02_punar_UrjA.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -43,7 +43,7 @@ _______
 
 10द्वितीया -  
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/04_abhitaH_puroDAsham/03_saha_rayyA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/04_abhitaH_puroDAsham/03_saha_rayyA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 स॒ह **र॒य्या**+++(←उदात्तयणः इति स्वरः)+++ **नि व॑र्त॒स्व**  
@@ -51,7 +51,7 @@ _______
 वि॒श्व-फ्स्नि॑या+++(←प्सा भक्षणि)+++ वि॒श्वत॒स्-परि॑  ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/04_abhitaH_puroDAsham/03_saha_rayyA.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/04_abhitaH_puroDAsham/03_saha_rayyA.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 

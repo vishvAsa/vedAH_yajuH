@@ -18,9 +18,9 @@ title = "०१ रेखा-कर्षः"
 <details open><summary><h4>०३ ब्रह्म जज्ञानम् ...{Loading}...</h4></summary>
 
 ब्रह्म॑ +++(=मन्त्रः ([सौरमण्डलयज्ञे]))+++ जज्ञा॒नं +++(=उत्पन्नम्)+++ प्र॑थ॒मं पु॒रस्ता॑द्  
-वि सी॑म॒तस् सु॒रुचो॑ वे॒न आ॑वः ।  
-स बु॒ध्न्या॑ +++(=मूले भवः ([खस्य सूर्यः]))+++ उप॒मा अ॑स्य वि॒ष्ठाः +++(=विस्थितः)+++,  
-स॒तश्च॒ योनि॒म् +++(सूर्यम्)+++ अस॑तश्च॒ विवः॑ +++(=विवृतवान्)+++  ।
+वि सी॑म॒तस् सु॒रुचो॑ वे॒न **आ॑वः** ।  
+स बु॒ध्न्या॑ +++(=मूले भवः ([खस्य सूर्यः]))+++ उप॒मा अ॑स्य **वि॒ष्ठाः** +++(=विस्थितः)+++,  
+स॒तश्च॒ योनि॒म् +++(सूर्यम्)+++ अस॑तश्च॒ **विवः॑** +++(=विवृतवान्)+++  ।
 
 </details>
 </div>
@@ -36,7 +36,7 @@ title = "०१ रेखा-कर्षः"
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/031/04_A_pyAyasva.md">
-<details open><summary><h4>१७ आ प्यायस्व ...{Loading}...</h4></summary>
+<details open><summary><h4>०४ आ प्यायस्व ...{Loading}...</h4></summary>
 
 
 **आ प्या॑यस्व॒ समे॑तु** ते  
@@ -52,7 +52,7 @@ title = "०१ रेखा-कर्षः"
 'इन्द्रं विश्वा अवीवृधन्' इति पुरस्ताद्  
 उदीचीः तिस्रो रेखा विलिख्य 
 
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/5/5/09/38_yo_rudro.md">
+<div class="js_include" newlevelforh1="4" includetitle="false" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/5/5/09/38_yo_rudro.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 यो रु॒द्रो अ॒ग्नौ , यो अ॒फ्सु ,  

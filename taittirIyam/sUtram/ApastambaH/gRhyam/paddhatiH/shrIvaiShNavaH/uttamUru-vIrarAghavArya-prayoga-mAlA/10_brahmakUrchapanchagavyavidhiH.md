@@ -117,7 +117,7 @@ title = "१० ब्रह्मकूर्चपञ्चगव्यवि�
 
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/031/04_A_pyAyasva.md">
-<details open><summary><h4>१७ आ प्यायस्व ...{Loading}...</h4></summary>
+<details open><summary><h4>०४ आ प्यायस्व ...{Loading}...</h4></summary>
 
 
 **आ प्या॑यस्व॒ समे॑तु** ते  
@@ -306,7 +306,7 @@ title = "१० ब्रह्मकूर्चपञ्चगव्यवि�
 > ओं भूर्भुव॒स्सुव॒स्स्वाहा᳚ ॥ [[TODO:परिष्कार्यम्??]]  
 (प्रजापतय इदं न मम)
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/35_anAjnAtay.NyadAjnAtam_yajnasya.md">
+<div class="js_include" newlevelforh1="4" includetitle="false" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/35_anAjnAtay.NyadAjnAtam_yajnasya.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अना᳚ज्ञात॒य्ँयदाज्ञा॑तम् ।  
@@ -315,7 +315,7 @@ title = "१० ब्रह्मकूर्चपञ्चगव्यवि�
 त्वꣳ हि वेत्थ॑ यथात॒थम् ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/38_puruShasammito_yajnaH.md">
+<div class="js_include" newlevelforh1="4" includetitle="false" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/38_puruShasammito_yajnaH.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 पुरु॑षसम्मितो य॒ज्ञः ।  
@@ -324,7 +324,7 @@ title = "१० ब्रह्मकूर्चपञ्चगव्यवि�
 त्वꣳ हि वेत्थ॑ यथात॒थम् ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/41_yatpAkatrA_manasA.md">
+<div class="js_include" newlevelforh1="4" includetitle="false" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/41_yatpAkatrA_manasA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 यत्पा॑क॒त्रा मन॑सा दी॒नद॑ख्षा॒ न ।  
@@ -347,16 +347,16 @@ title = "१० ब्रह्मकूर्चपञ्चगव्यवि�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 (ओं) भूस्स्वाहा᳚ ॥
-(अग्नय +इदं न मम)
+(अ॒ग्नय॑ +इ॒दं न म॑म)
 
 (ओं) भुव॒स्स्वाहा᳚ ॥
-(वायव +इदं न मम)
+(वा॒यव॑ +इ॒दं न म॑म)
 
 (ओं) सुव॒स्स्वाहा᳚ ॥  
-(सूर्याय +इदं न मम)
+(सूर्या॑य +इ॒दं न म॑म)
 
 (ओं) भूर्भुव॒स्सुव॒स्स्वाहा᳚ ॥  
-(प्रजापतय +इदं न मम)  
+(प्र॒जाप॑तय +इ॒दं न म॑म)  
 </details>
 <details><summary>मूलम्</summary>
 

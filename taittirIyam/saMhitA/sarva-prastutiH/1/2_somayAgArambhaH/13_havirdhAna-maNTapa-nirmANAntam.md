@@ -939,7 +939,7 @@ ________
 
 8अध्वर्यू हविर्धानयोर्मध्यौ निघ्नतः - दिव इति त्रिष्टुभा ॥
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/13_havirdhAna-maNTapa-nirmANAntam/02_divo_vA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/13_havirdhAna-maNTapa-nirmANAntam/02_divo_vA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 दि॒वो वा॑ +++(हे)+++ विष्णव् उ॒त वा॑ पृथि॒व्या  
@@ -948,7 +948,7 @@ ________
 आ प्र य॑च्छ दख्षि॑णा॒द् ओत स॒व्यात् ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/13_havirdhAna-maNTapa-nirmANAntam/02_divo_vA.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/13_havirdhAna-maNTapa-nirmANAntam/02_divo_vA.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 

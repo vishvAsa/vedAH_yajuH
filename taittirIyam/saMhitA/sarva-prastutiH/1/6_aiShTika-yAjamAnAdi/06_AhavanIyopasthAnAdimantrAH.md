@@ -1066,7 +1066,7 @@ _______
 
 15प्राङुत्क्रम्य गोमतीं जपति - गोमानिति त्रिष्टुभा ॥ 
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/06_AhavanIyopasthAnAdimantrAH/02_gomAM_agne.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/06_AhavanIyopasthAnAdimantrAH/02_gomAM_agne.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 गोमाꣳ॑ अ॒ग्ने, ऽवि॑माꣳ, अ॒श्वी **य॒ज्ञो**  
@@ -1075,7 +1075,7 @@ _______
 दी॒र्घो र॒यिᳶ पृ॑थु-बु॒ध्नस्+++(=मूलः)+++ स॒भावान्॑ ॥ [20]
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/06_AhavanIyopasthAnAdimantrAH/02_gomAM_agne.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/06_AhavanIyopasthAnAdimantrAH/02_gomAM_agne.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 

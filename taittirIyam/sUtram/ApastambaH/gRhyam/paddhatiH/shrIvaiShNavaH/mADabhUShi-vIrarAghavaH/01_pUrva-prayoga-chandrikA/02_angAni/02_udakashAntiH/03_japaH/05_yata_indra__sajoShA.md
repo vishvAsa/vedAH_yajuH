@@ -3,7 +3,7 @@ title = "०५ 'यत इन्द्र'"
 
 +++
 ## यत॑ इन्द्र॒
-<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/26_yata_indra.md">
+<div class="js_include" newlevelforh1="2" includetitle="false" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/26_yata_indra.md">
 <details open><summary><h2>विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
 यत॑ इन्द्र॒ भया॑महे॒  
@@ -29,7 +29,7 @@ title = "०५ 'यत इन्द्र'"
 
 ## ०७ 'महाँ इन्द्रो वज्रबाहुः'
 
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/42_ShoDashigrahaH/01_mahAM_indro.md">
+<div class="js_include" newlevelforh1="4" includetitle="false" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/42_ShoDashigrahaH/01_mahAM_indro.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 म॒हाꣳ इन्द्रो॒ वज्र॑बाहुष्  

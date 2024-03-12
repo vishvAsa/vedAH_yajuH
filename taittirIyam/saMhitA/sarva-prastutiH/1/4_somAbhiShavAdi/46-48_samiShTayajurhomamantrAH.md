@@ -9,7 +9,7 @@ _______
 
 1समिष्टयजूंषि जुहोति । षडृग्मियाणि जुहोति, त्रीणि यजूंषि । 'यद्वै यज्ञस्य क्रूरम्' इत्यादि ब्राह्मणम्  । तत्र प्रथमा - 
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/46-48_samiShTayajurhomamantrAH/02_dhAtA_rAtis.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/46-48_samiShTayajurhomamantrAH/02_dhAtA_rAtis.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 धा॒ता रा॒तिस् स॑वि॒तेदञ् **जु॑षन्ताम्**  
@@ -18,7 +18,7 @@ _______
 यज॑मानाय॒ **द्रवि॑णन् दधातु** ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/46-48_samiShTayajurhomamantrAH/02_dhAtA_rAtis.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/46-48_samiShTayajurhomamantrAH/02_dhAtA_rAtis.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -47,7 +47,7 @@ _______
 
 2अथ द्वितीया - 
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/46-48_samiShTayajurhomamantrAH/03_samindra_No.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/46-48_samiShTayajurhomamantrAH/03_samindra_No.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 समि॑न्द्र णो॒ मन॑सा, **नेषि॒** गोभि॒स्,  
@@ -56,7 +56,7 @@ _______
 सन् दे॒वानाꣳ॑ सुम॒त्या य॒ज्ञिया॑नाम् ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/46-48_samiShTayajurhomamantrAH/03_samindra_No.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/46-48_samiShTayajurhomamantrAH/03_samindra_No.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -87,7 +87,7 @@ _______
 
 3अथ तृतीया - 
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/46-48_samiShTayajurhomamantrAH/04_sav.N_varchasA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/46-48_samiShTayajurhomamantrAH/04_sav.N_varchasA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 सव्ँ वर्च॑सा॒, पय॑सा॒, सन् त॒नूभि॒र्,  
@@ -96,7 +96,7 @@ _______
 **अनु॑ मार्ष्टु** त॒नुवो॒ यद् **विलि॑ष्टम्**+++(→विरिष्टम् इति शौनके)+++ ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/46-48_samiShTayajurhomamantrAH/04_sav.N_varchasA.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/46-48_samiShTayajurhomamantrAH/04_sav.N_varchasA.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -125,7 +125,7 @@ _______
 
 8अथ चतुर्थी - 
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/46-48_samiShTayajurhomamantrAH/05_yad_adya.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/46-48_samiShTayajurhomamantrAH/05_yad_adya.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 यद् अ॒द्य **त्वा᳚** प्रय॒ति य॒ज्ञे  
@@ -134,7 +134,7 @@ _______
 प्रजा॒नन् **य॒ज्ञम् उप॑याहि** वि॒द्वान् ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/46-48_samiShTayajurhomamantrAH/05_yad_adya.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/46-48_samiShTayajurhomamantrAH/05_yad_adya.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -167,7 +167,7 @@ _______
 
 5अथ पञ्चमी - 
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/46-48_samiShTayajurhomamantrAH/06_svagA_vo.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/46-48_samiShTayajurhomamantrAH/06_svagA_vo.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 स्व्-अ॒गा वो॑ देवा॒स् **सद॑नम् अकर्म॒**,  
@@ -176,7 +176,7 @@ _______
 विश्वे॒ **ऽस्मे ध॑त्त** वसवो॒ **वसू॑नि** ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/46-48_samiShTayajurhomamantrAH/06_svagA_vo.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/46-48_samiShTayajurhomamantrAH/06_svagA_vo.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -208,7 +208,7 @@ _______
 
 6अथ षष्ठी - 
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/46-48_samiShTayajurhomamantrAH/07_yAn_Avaha.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/46-48_samiShTayajurhomamantrAH/07_yAn_Avaha.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 **यान् आव॑ह** उश॒तो दे॑व दे॒वान्  
@@ -217,7 +217,7 @@ _______
 वसु॑ङ् घ॒र्मन् **दिव॒म् आ ति॑ष्ठ॒ताऽनु॑** ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/46-48_samiShTayajurhomamantrAH/07_yAn_Avaha.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/46-48_samiShTayajurhomamantrAH/07_yAn_Avaha.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 

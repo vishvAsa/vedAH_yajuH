@@ -859,14 +859,14 @@ _______
 
 5दक्षिणा अभ्येति - रूपेणेति प्रथमया चतुर्दशाक्षरया ॥ 'अभ्यैमि वयसा वयः' इति द्वितीयः पादः । 
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/44-45_daxiNAsangatAmantrAH_dAxiNahomAdiH/02_rUpeNa_vo.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/44-45_daxiNAsangatAmantrAH_dAxiNahomAdiH/02_rUpeNa_vo.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 रू॒पेण॑ [44] वो रू॒पम् ..  
 **अ॒भ्यैमि॒** वय॑सा॒ वयः॑ ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/44-45_daxiNAsangatAmantrAH_dAxiNahomAdiH/02_rUpeNa_vo.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/44-45_daxiNAsangatAmantrAH_dAxiNahomAdiH/02_rUpeNa_vo.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -920,7 +920,7 @@ _______
 
 7सदोऽभ्येति - एतत्ते अग्ने इति मध्येज्योतिषा जगत्या । 
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/44-45_daxiNAsangatAmantrAH_dAxiNahomAdiH/03_etat_te.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/44-45_daxiNAsangatAmantrAH_dAxiNahomAdiH/03_etat_te.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 ए॒तत् ते॑ अग्ने॒ **राध॒ ऐति॒** सोम॑-च्युतम् ..   
@@ -929,7 +929,7 @@ _______
 य॒ज्ञस्य॑ प॒था सु॑वि॒ता+++(=सु+इता)+++ नय॑न्तीः ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/44-45_daxiNAsangatAmantrAH_dAxiNahomAdiH/03_etat_te.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/44-45_daxiNAsangatAmantrAH_dAxiNahomAdiH/03_etat_te.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -967,7 +967,7 @@ _______
 
 8आत्रेयमभ्यर्थयति - ब्राह्मणमिति ॥ 
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/44-45_daxiNAsangatAmantrAH_dAxiNahomAdiH/04_brAhmaNam_adya.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/44-45_daxiNAsangatAmantrAH_dAxiNahomAdiH/04_brAhmaNam_adya.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 **ब्रा॒ह्म॒णम्** अ॒द्य **रा᳚ध्यास॒म्**+++(=साधयेयं)+++  
@@ -975,7 +975,7 @@ _______
 पैतृम॒त्यꣳ+++(←पितृमत् + ण्यः)+++ सु॒-धातु॑-दख्षिणम् ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/44-45_daxiNAsangatAmantrAH_dAxiNahomAdiH/04_brAhmaNam_adya.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/44-45_daxiNAsangatAmantrAH_dAxiNahomAdiH/04_brAhmaNam_adya.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 

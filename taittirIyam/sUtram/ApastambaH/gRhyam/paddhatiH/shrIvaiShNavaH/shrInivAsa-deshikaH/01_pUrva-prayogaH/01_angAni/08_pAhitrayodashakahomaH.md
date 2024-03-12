@@ -39,7 +39,7 @@ title = "०८ पाहित्रयोदशकहोमः"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/267_sapratha_sabhAm.md">
+<div class="js_include" newlevelforh1="4" includetitle="false" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/267_sapratha_sabhAm.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
 सप्र॑थ स॒भाम् मे॑ गोपाय ।  
@@ -144,16 +144,16 @@ _________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 (ओं) भूस्स्वाहा᳚ ॥
-(अग्नय +इदं न मम)
+(अ॒ग्नय॑ +इ॒दं न म॑म)
 
 (ओं) भुव॒स्स्वाहा᳚ ॥
-(वायव +इदं न मम)
+(वा॒यव॑ +इ॒दं न म॑म)
 
 (ओं) सुव॒स्स्वाहा᳚ ॥  
-(सूर्याय +इदं न मम)
+(सूर्या॑य +इ॒दं न म॑म)
 
 (ओं) भूर्भुव॒स्सुव॒स्स्वाहा᳚ ॥  
-(प्रजापतय +इदं न मम)  
+(प्र॒जाप॑तय +इ॒दं न म॑म)  
 </details>
 <details><summary>मूलम्</summary>
 
@@ -211,16 +211,16 @@ _________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 (ओं) भूस्स्वाहा᳚ ॥
-(अग्नय +इदं न मम)
+(अ॒ग्नय॑ +इ॒दं न म॑म)
 
 (ओं) भुव॒स्स्वाहा᳚ ॥
-(वायव +इदं न मम)
+(वा॒यव॑ +इ॒दं न म॑म)
 
 (ओं) सुव॒स्स्वाहा᳚ ॥  
-(सूर्याय +इदं न मम)
+(सूर्या॑य +इ॒दं न म॑म)
 
 (ओं) भूर्भुव॒स्सुव॒स्स्वाहा᳚ ॥  
-(प्रजापतय +इदं न मम)  
+(प्र॒जाप॑तय +इ॒दं न म॑म)  
 </details>
 <details><summary>मूलम्</summary>
 

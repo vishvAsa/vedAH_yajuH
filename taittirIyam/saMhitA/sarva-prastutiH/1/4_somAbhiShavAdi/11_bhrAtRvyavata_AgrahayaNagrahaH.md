@@ -11,7 +11,7 @@ _______
 1आग्रयणमेव भ्रातृव्यवतो गृह्णाति - त्रिंशदिति चतुष्पदया त्रिष्टुभा ॥  
 'रुग्णवत्यर्चा भ्रातृव्यवतः' इति ब्राह्मणम् ।
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/11_bhrAtRvyavata_AgrahayaNagrahaH/02_triMshat_trayash.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/11_bhrAtRvyavata_AgrahayaNagrahaH/02_triMshat_trayash.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 त्रि॒ꣳ॒शत् त्रय॑श् +++(=३३)+++ च ग॒णिनो॑ रु॒जन्तो॒  
@@ -20,7 +20,7 @@ _______
 सोम॑ञ् जुषन्ता॒ꣳ॒ सव॑नाय॒ विश्वे᳚ ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/11_bhrAtRvyavata_AgrahayaNagrahaH/02_triMshat_trayash.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/11_bhrAtRvyavata_AgrahayaNagrahaH/02_triMshat_trayash.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 

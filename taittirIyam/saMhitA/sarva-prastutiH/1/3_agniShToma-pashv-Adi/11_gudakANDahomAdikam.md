@@ -305,7 +305,7 @@ _______
 
 धाम्नो॑धाम्नो राजन्नि॒तो व॑रुण नो मुञ्च॒ यदापो॒ अघ्नि॑या॒ वरु॒णेति॒ शपा॑महे॒ ततो॑ वरुण नो मुञ्च ॥ [20]
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/11_gudakANDahomAdikam/02_dhAmnodhAmno_rAjann.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/11_gudakANDahomAdikam/02_dhAmnodhAmno_rAjann.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 धाम्नो॑धाम्नो+++(=शृङ्खलाभ्यो)+++ राजन्न्  
@@ -314,7 +314,7 @@ _______
 ततो॑ वरुण नो मुञ्च ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/11_gudakANDahomAdikam/02_dhAmnodhAmno_rAjann.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/11_gudakANDahomAdikam/02_dhAmnodhAmno_rAjann.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
