@@ -191,3 +191,16 @@ title = "सन्ध्या-वन्दनादि-मन्त्र-स�
 
 ## गायत्री
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/26_AyAtu_varadA" newLevelForH1="5" includeTitle="false"> </div>
+
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/30_uttame_shikhare.md">
+<details open><summary><h2>३० उत्तमे शिखरे ...{Loading}...</h2></summary>
+
+उ॒त्तमे॑ शिख॑रे दे॒वी॒  
+भू॒म्यां प॑र्वत॒मूर्ध॑नि ।  
+ब्रा॒ह्म॒णे॑भ्यो ह्य॑नुज्ञा॒न॒ङ्  
+ग॒च्छ दे॑वि य॒थासु॑खम् । (45)
+</details>
+</div>
+
+## सविता
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/27_sashiro_gAyatrI" newLevelForH1="5" includeTitle="false"> </div>
