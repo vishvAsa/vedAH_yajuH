@@ -188,3 +188,6 @@ title = "सन्ध्या-वन्दनादि-मन्त्र-स�
 
 </details>
 </div>
+
+## गायत्री
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/26_AyAtu_varadA" newLevelForH1="5" includeTitle="false"> </div>
