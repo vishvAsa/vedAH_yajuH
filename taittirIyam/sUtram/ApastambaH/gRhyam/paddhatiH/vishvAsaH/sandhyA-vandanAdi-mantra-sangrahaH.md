@@ -205,6 +205,11 @@ title = "सन्ध्या-वन्दनादि-मन्त्र-स�
 ## सविता
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/27_sashiro_gAyatrI" newLevelForH1="5" includeTitle="false"> </div>
 
+## दिशः
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/02_svAdhyAya-brAhmaNAdi/23_Andhra-pATha-yogaH/01_dig-vandanam" newLevelForH1="5" includeTitle="false"> </div>
+
+
 ## परिधानीयम्
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/02_svAdhyAya-brAhmaNAdi/namo_brahmaNe.md">
 <details open><summary><h5>नमो ब्रह्मणे ...{Loading}...</h5></summary>
