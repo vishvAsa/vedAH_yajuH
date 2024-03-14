@@ -2,6 +2,7 @@
 title = "१३ 'अग्ने यशस्विन्' इति चतस्रः"
 
 +++
+'अग्ने यशस्विन्' इति चतस्रः
 
 <div class="js_include" newlevelforh1="4" includetitle="false" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/5/7/04/23_agne_yashasvin.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>

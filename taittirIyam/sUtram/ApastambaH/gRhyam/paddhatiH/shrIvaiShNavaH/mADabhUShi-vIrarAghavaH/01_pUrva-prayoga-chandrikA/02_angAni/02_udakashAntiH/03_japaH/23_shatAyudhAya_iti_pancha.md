@@ -1,7 +1,8 @@
 +++
-title = "२३ 'शतायुधाय' इति पञ्च,"
+title = "२३ 'शतायुधाय'"
 
 +++
+'शतायुधाय' इति पञ्च,
 
 <div class="js_include" newlevelforh1="4" includetitle="false" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/5/7/02/34_shatAyudhAya_shatavIryAya.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>

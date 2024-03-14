@@ -1,7 +1,8 @@
 +++
-title = "२० ‘अग्नेर्मन्वे’ इत्यनुवाकान्,"
+title = "२० ‘अग्नेर्मन्वे’"
 
 +++
+‘अग्नेर्मन्वे’ इत्यनुवाकान्,
 
 <div class="js_include" includetitle="true" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/">
 <details open><summary><h4>१५ अश्वमेध-याज्यानुवाक्याः मृगारम् ...{Loading}...</h4></summary>

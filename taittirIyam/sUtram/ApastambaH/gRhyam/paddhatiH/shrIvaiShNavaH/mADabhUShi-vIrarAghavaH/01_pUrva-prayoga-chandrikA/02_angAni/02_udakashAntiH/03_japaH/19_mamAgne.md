@@ -2,6 +2,7 @@
 title = "१९ ‘ममाग्ने’,"
 
 +++
+‘ममाग्ने’
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/4/7/14_vihavyAkhyeShTakopadhAnam">
 <details open><summary><h4>१४ विहव्याख्येष्टकोपधानम् ...{Loading}...</h4></summary>

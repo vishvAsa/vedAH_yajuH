@@ -1,7 +1,8 @@
 +++
-title = "३३ 'नवोनवो भवति' इत्यनुवाकान्"
+title = "३३ 'नवोनवो भवति'"
 
 +++
+'नवोनवो भवति' इत्यनुवाकान्
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/3/1_nAxatrAdi/3_chAndramAsAdInAM_saptAnAmiShTInAM_yAjyAnuvAkyAH">
 <details open><summary><h4>३, चान्द्रमासादीनां सप्तानामिष्टीनां याज्यानुवाक्याः ...{Loading}...</h4></summary>

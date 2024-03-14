@@ -1,7 +1,8 @@
 +++
-title = "२६ 'चक्षुषो हेत' इत्यारभ्य ‘भ्रातृव्यं पादयामसि' इत्यन्तं"
+title = "२६ 'चक्षुषो हेते'"
 
 +++
+'चक्षुषो हेत' इत्यारभ्य ‘भ्रातृव्यं पादयामसि' इत्यन्तं
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/2/4_upahomAdi/2_01-09_chaxuSho_hete">
 <details open><summary><h4>चक्षुषो हेते ...{Loading}...</h4></summary>

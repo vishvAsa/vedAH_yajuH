@@ -1,7 +1,8 @@
 +++
-title = "०४ ‘इन्द्रं वो विश्वतस्परि हवामहे' इत्यनुवाकं"
+title = "०४ ‘इन्द्रं वो विश्वतस्परि'"
 
 +++
+‘इन्द्रं वो विश्वतस्परि हवामहे' इत्यनुवाकं"
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/12_kAmyeShTi-mantrAH">
 <details open><summary><h4>१२ काम्येष्टिमन्त्राः ...{Loading}...</h4></summary>
@@ -3129,4 +3130,10 @@ Die Menschen machten für dein Ross den Wagen Tvaschtar den lichten Blitz, o vie
 
 </details>
 </details>
+
+
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/031/05_vRShNe_yatte.md" newLevelForH1="5" includeTitle="false"> </div>
+
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/031/05_vRShNe_yatte.md" newLevelForH1="5" includeTitle="false"> </div>
+
 </div>

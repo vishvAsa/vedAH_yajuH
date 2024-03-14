@@ -3462,6 +3462,13 @@ Die Menschen machten für dein Ross den Wagen Tvaschtar den lichten Blitz, o vie
 समाप्तश्च प्रपाठकः ॥
 
 </details>
+
+
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/031/05_vRShNe_yatte.md" newLevelForH1="5" includeTitle="false"> </div>
+
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/031/05_vRShNe_yatte.md" newLevelForH1="5" includeTitle="false"> </div>
+
+
 </details>
 </div>
 </details>

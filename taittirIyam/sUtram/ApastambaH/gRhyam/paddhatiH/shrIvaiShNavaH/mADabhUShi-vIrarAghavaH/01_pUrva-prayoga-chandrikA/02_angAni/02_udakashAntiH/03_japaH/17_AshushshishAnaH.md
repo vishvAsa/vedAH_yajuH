@@ -2,6 +2,7 @@
 title = "१७ 'आशुश्शिशानः'"
 
 +++
+'आशुश्शिशानः'
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/4/6/04_agni-praNayanAngam_apratiratha-sUktam">
 <details open><summary><h4>०४ अग्निप्रणयनाङ्गमप्रतिरथसूक्तम् ...{Loading}...</h4></summary>
