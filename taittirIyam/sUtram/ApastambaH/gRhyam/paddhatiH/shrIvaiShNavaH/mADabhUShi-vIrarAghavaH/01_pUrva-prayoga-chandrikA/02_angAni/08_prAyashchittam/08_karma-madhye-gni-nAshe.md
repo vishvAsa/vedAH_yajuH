@@ -30,8 +30,10 @@ title = "०८ कर्म-मध्ये ऽग्नि-नाशे"
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/45_udbudhyasvAgne_prati.md">
 <details open><summary><h5>45 उद्बुध्यस्वाग्ने प्रति ...{Loading}...</h5></summary>
 
-उद्बु॑ध्यस्वाग्ने॒ प्रति॑ जागृह्येनमिष्टापू॒र्ते सꣳसृ॑जेथाम॒यञ्च॑ ।   
-पुन॑ᳵ कृ॒ण्वꣵस्त्वा॑ पि॒तर॒य्ँयुवा॑नम॒न्वाताꣳ॑सी॒त्त्वयि॒ तन्तु॑मे॒तम् ।
+**उद्बु॑ध्यस्वाग्ने॒** प्रति॑ जागृह्य्  
+एनम् इष्टा-पू॒र्ते सꣳसृ॑जेथाम॒यञ्च॑ ।   
+पुन॑ᳵ **कृ॒ण्वꣵस्** त्वा॑ पि॒तर॒य्ँ युवा॑नम्  
+**अ॒न्वाताꣳ॑सी॒त्** त्वयि॒ तन्तु॑म् ए॒तम् ।
 </details>
 </div>  
 

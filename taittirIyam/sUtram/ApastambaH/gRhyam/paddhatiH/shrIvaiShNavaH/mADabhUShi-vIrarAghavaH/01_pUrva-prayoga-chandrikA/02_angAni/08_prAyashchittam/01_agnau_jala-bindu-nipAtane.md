@@ -5,8 +5,8 @@ title = "०१ अग्नौ जल-बिन्दु-निपातने"
 अग्नौ जल-बिन्दु-निपातने  
 ‘पुनस्त्वादित्या' इत्यग्निं प्रज्वाल्य  
 
-<div class="js_include" newlevelforh1="4" includetitle="false" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/49_punas_tvA.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/49_punas_tvA.md">
+<details open><summary><h4>49 पुनस् त्वा ...{Loading}...</h4></summary>
 
 पुन॑स् त्वा ऽऽदि॒त्या रु॒द्रा वस॑वः॒ **समि॑न्धतां॒**,  
 पुन॑र् ब्र॒ह्माणो॑ वसुनीथ! य॒ज्ञैः ।  
@@ -35,5 +35,4 @@ title = "०१ अग्नौ जल-बिन्दु-निपातने"
 (प्रजापतय इदं न मम) ॥१॥
 </details>
 </details>
-</div>  
-
+</div>

@@ -52,8 +52,8 @@ title = "०१ रेखा-कर्षः"
 'इन्द्रं विश्वा अवीवृधन्' इति पुरस्ताद्  
 उदीचीः तिस्रो रेखा विलिख्य 
 
-<div class="js_include" newlevelforh1="4" includetitle="false" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/5/5/09/38_yo_rudro.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/5/5/09/38_yo_rudro.md">
+<details open><summary><h4>38 यो रुद्रो ...{Loading}...</h4></summary>
 
 यो रु॒द्रो अ॒ग्नौ , यो अ॒फ्सु ,  
 य ओष॑धीषु॒, यो रु॒द्रो  
