@@ -4,7 +4,7 @@ title = "०४ देव सवितः"
 +++
 <details><summary>मूलम्</summary>
 
-देव सवितः॒ प्रसु॑व।  
+देव॑ सवितः॒ प्रसु॑व।  
 </details>
 <details><summary>हरदत्तः</summary>
 
