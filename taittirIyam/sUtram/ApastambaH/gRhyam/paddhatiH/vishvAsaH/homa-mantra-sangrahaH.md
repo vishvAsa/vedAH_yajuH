@@ -2,6 +2,135 @@
 title = "होम-मन्त्र-सङ्ग्रहः"
 +++
 
+## वैश्वदेवम्
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/05_om_agnaye.md">
+<details open><summary><h8>०५ ओम् अग्नये ...{Loading}...</h8></summary>
+
+- ओम्+++(इत्यनुज्ञाक्षरं)+++ अ॒ग्नये॒ स्वाहा॑+++(हविःप्रदानार्थः)+++।  
+
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/06_somAya_svAhA.md">
+<details open><summary><h8>०६ सोमाय स्वाहा ...{Loading}...</h8></summary>
+
+- सोमा॑य॒ स्वाहा॑।+++(कैश्चिन्नोच्यते मन्त्रः।)+++  
+
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/07_vishvebhyo_devebhyas.md">
+<details open><summary><h8>०७ विश्वेभ्यो देवेभ्यस् ...{Loading}...</h8></summary>
+
+- विश्वे॑भ्यो दे॒वेभ्य॒स् स्वाहा॑।  
+
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/08_dhruvAya_bhUmAya.md">
+<details open><summary><h8>०८ ध्रुवाय भूमाय ...{Loading}...</h8></summary>
+
+- +++(खे)+++ ध्रु॒वाय॑ भू॒माय॑+++(=भूम्ने)+++ स्वाहा॑।  
+
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/09_dhruvaxitaye_svAhA.md">
+<details open><summary><h8>०९ ध्रुवक्षितये स्वाहा ...{Loading}...</h8></summary>
+
+- ध्रु॒व॒-क्षित॑ये॒ +++(खे)+++ स्वाहा॑। +++(विवाहे ध्रुवदर्शनमन्त्रेऽप्य् अयम् प्रयोगः)+++  
+
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/10_achyutaxitaye_svAhA.md">
+<details open><summary><h8>१० अच्युतक्षितये स्वाहा ...{Loading}...</h8></summary>
+
+- अ॒च्यु॒त॒क्षित॑ये॒  स्वाहा॑।  
+
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/11_agnaye_sviShTakRte.md">
+<details open><summary><h8>११ अग्नये स्विष्टकृते ...{Loading}...</h8></summary>
+
+- अ॒ग्नये॑ स्विष्ट॒कृते॑ स्वाहा॑।+++(=रुद्रोऽग्निस्स्विष्टकृत्)+++  
+
+</details>
+</div>
+
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/13_dharmAya_svAhA.md">
+<details open><summary><h2>१३ धर्माय स्वाहा ...{Loading}...</h2></summary>
+
+- धर्मा॑य स्वाहा॑ । अध॑र्माय स्वाहा॑। +++(अपरेणाग्निं सप्तमाष्टमाभ्यामुदगपवर्गम् २०)+++  
+- अ॒द्भ्यस् स्वाहा॑ । +++(उदधानसंनिधौ नवमेन २१)+++  
+
+</details>
+</div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/14_oShadhivanaspatibhyas_svAhA.md">
+<details open><summary><h2>१४ ओषधिवनस्पतिभ्यस् स्वाहा ...{Loading}...</h2></summary>
+
+- ओ॒ष॒धि॒व॒न॒स्प॒तिभ्य॒स् स्वाहा॑। र॒क्षो॒दे॒व॒ज॒नेभ्य॒स् स्वाहा॑ । +++(मध्येऽगारस्य दशमैकादशाभ्यां प्रागपवर्गम् २२)+++  
+
+</details>
+</div>
+
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/15_gRhyabhyas_svAhA.md">
+<details open><summary><h8>१५ गृह्यभ्यस् स्वाहा ...{Loading}...</h8></summary>
+
+- +++(वास्तुविद्याप्रसिद्धेभ्यः)+++ गृह्या॑भ्य॒स् स्वाहा॑। अ॒व॒साने॑भ्यस्+++(=सीमाभ्यः)+++ स्वाहा॑ । अ॒व॒सान॑पतिभ्य॒स् स्वाहा॑ । स॒र्व॒भू॒तेभ्य॒स् स्वाहा॑ । +++(उत्तरपूर्वदेशेऽगारस्योत्तरैश्चतुर्भिः २३)+++  
+
+</details>
+</div>
+
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/16_kAmaya_svAhA.md">
+<details open><summary><h2>१६ कामय स्वाहा ...{Loading}...</h2></summary>
+
+- काम॑य॒ स्वाहा॑ । +++(शय्यादेशे कामलिङ्गेन)+++  
+- अ॒न्तरि॑क्षाय॒ स्वाहा॑ । +++(देहल्यामन्तरिक्षलिङ्गेन २)+++  
+
+</details>
+</div>
+
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/17_yadejati_jagati.md">
+<details open><summary><h2>१७ यदेजति जगति ...{Loading}...</h2></summary>
+
+- यद् एज॑ति+++(=कम्पते)+++ जग॑ति यच् च॒ चेष्ट॑ति, नाम्नो॑ भा॒गो ऽयं, नाम्ने॒ स्वाहा॑। +++(उत्तरेणापिधान्याम् (अर्गले)३)+++  
+
+</details>
+</div>
+
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/18_pRthivyai_svAhA.md">
+<details open><summary><h2>१८ पृथिव्यै स्वाहा ...{Loading}...</h2></summary>
+
++++(उत्तरैर्ब्रह्मसदने)+++  
+- पृ॒थि॒व्यै स्वाहा॑। अ॒न्तरि॑क्षाय॒ स्वाहा॑। दि॒वे स्वाहा॑ ।  
+- सूर्या॑य॒ स्वाहा॑ । च॒न्द्रम॑से॒ स्वाहा॑ । नक्ष॑त्रेभ्य॒स् स्वाहा॑ ।  
+- इन्द्रा॑य॒ स्वाहा॑ । बृह॒स्पत॑ये॒ स्वाहा॑ । प्र॒जाप॑तये॒ स्वाहा॑ । ब्रह्म॑णे॒ स्वाहा॑।  
+
+</details>
+</div>
+
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/19_svadhA_pitRbhyas.md">
+<details open><summary><h2>१९ स्वधा पितृभ्यस् ...{Loading}...</h2></summary>
+
+- स्व॒धा पि॒तृभ्य॒स् स्वाहा॑। +++( दक्षिणतः पितृलिङ्गेन प्राचीनावीत्य् अवाचीन-पाणिः कुर्यात् ५)+++  
+
+</details>
+</div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/20_namo_rudrAya.md">
+<details open><summary><h2>२० नमो रुद्राय ...{Loading}...</h2></summary>
+
+- नमो॑ रु॒द्राय॑ पशु॒पत॑ये॒ स्वाहा॑। +++(रौद्र उत्तरो यथा देवताभ्यः ६ तयोर् नाना परिषेचनं धर्म-भेदात् ७)+++  
+
+</details>
+</div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/21_ye_bhUtAH.md">
+<details open><summary><h2>२१ ये भूताः ...{Loading}...</h2></summary>
+
+- ये भू॒ताः प्र॒चर॑न्ति दिवा॒ /नक्तं॒  
+बलि॑म् इ॒च्छन्तो॑ वि॒तुद॑स्य॒ प्रेष्याः॑ ।  
+तेभ्यो॑ ब॒लिं पु॑ष्टि॒कामो॑ हरामि॒  
+मयि॒ पुष्टिं॒ पुष्टि॑पतिर् दधातु॒ स्वाहा॑॥ +++(नक्तमेवोत्तमेन वैहायसम् ८)+++  
+
+</details>
+</div>
+
 ## समारोपणावारोपणे
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/8/19_ayante_yonir.md">
