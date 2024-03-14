@@ -214,6 +214,10 @@ title = "०७ होमः"
 व॒यꣵ **स्या॑म॒** पत॑यो रयी॒णाम्॥
 </details>
 </div>
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/baudhAyanaH/gRhyam/mantraH/yajuH/sarva-prastutiH/vyAhRti-homAH_3.md" newLevelForH1="5" includeTitle="false"> </div>
+
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/baudhAyanaH/gRhyam/mantraH/yajuH/sarva-prastutiH/vyAhRti-homAH.md"></div>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/yad_asya_karmaNaH.md">
 <details open><summary><h5>Yad asya karmaNaH ...{Loading}...</h5></summary>
@@ -281,6 +285,34 @@ title = "०७ होमः"
 अनाज्ञात-त्रयेण,  
 'त्वन्नो अग्ने'  
 'सत्वन्नो अग्ने' इत्येताभ्याम्  
+
+<div class="js_include" newlevelforh1="4" includetitle="false" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/35_anAjnAtay.NyadAjnAtam_yajnasya.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+अना᳚ज्ञात॒य्ँयदाज्ञा॑तम् ।  
+य॒ज्ञस्य॑ क्रि॒यते॒ मिथु॑ ।  
+अग्ने॒ तद॑स्य कल्पय ।  
+त्वꣳ हि वेत्थ॑ यथात॒थम् ।
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" includetitle="false" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/38_puruShasammito_yajnaH.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+पुरु॑षसम्मितो य॒ज्ञः ।  
+य॒ज्ञᳶ पुरु॑षसम्मितः ।  
+अग्ने॒ तद॑स्य कल्पय ।  
+त्वꣳ हि वेत्थ॑ यथात॒थम् ।
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" includetitle="false" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/41_yatpAkatrA_manasA.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+यत्पा॑क॒त्रा मन॑सा दी॒नद॑ख्षा॒ न ।  
+य॒ज्ञस्य॑ म॒न्वते॒ मर्ता॑सः ।  
+अ॒ग्निष्टद्धोता॑ क्रतु॒विद्वि॑जा॒नन्न् ।  
+यजि॑ष्ठो दे॒वाꣳ ऋ॑तु॒शो य॑जाति ॥115॥
+</details>
+</div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/001/04_tvaM_no.md">
 <details open><summary><h2>०४ त्वं नो ...{Loading}...</h2></summary>
