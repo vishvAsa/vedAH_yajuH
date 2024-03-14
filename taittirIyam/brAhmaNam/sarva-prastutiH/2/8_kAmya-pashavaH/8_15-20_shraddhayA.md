@@ -6,17 +6,16 @@ title = "८ १५-२० श्रद्धया"
 
 15यदुक्तं सूत्रकारेण 'श्रद्धायै वेहतम्' इति, तस्य पशोः सूक्ते वपायाः पुरोनुवाक्यामाह - 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/151/01_shraddhayAgniH_samidhyate.md">
-<details open><summary><h5>०१ श्रद्धयाग्निः समिध्यते ...{Loading}...</h5></summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-श्र॒द्धया॒ ऽग्निः **समि॑ध्यते**  
-श्र॒द्धया॑ **हूयते** ह॒विः ।  
-श्र॒द्धां भग॑स्य मू॒र्धनि॒  
-वच॒सा **वे॑दयामसि** ॥
-
+श्र॒द्धया॒ऽग्निस्समि॑ध्यते ।  
+श्र॒द्धया॑ विन्दते ह॒विः ।   
+श्र॒द्धाम्भग॑स्य मू॒र्धनि॑ ।  
+वच॒सा वे॑दयामसि ।
 </details>
-</div>
+
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/151/01_shraddhayAgniH_samidhyate.md">
 <details open><summary><h5>001 ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
