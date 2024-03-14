@@ -160,7 +160,7 @@ unicode_script: devanagari
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/04_deva_savitaH.md">
 <details open><summary><h4>०४ देव सवितः ...{Loading}...</h4></summary>
 
-देव सवितः॒ प्रसु॑व। +++(इति प्रागारम्भं प्रदक्षिणं)+++
+देव॑ सवितः॒ प्रसु॑व। +++(इति प्रागारम्भं प्रदक्षिणं)+++
 
 </details>
 </div>
