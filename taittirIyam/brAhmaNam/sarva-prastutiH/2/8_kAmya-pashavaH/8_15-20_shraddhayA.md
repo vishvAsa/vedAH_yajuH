@@ -6,7 +6,6 @@ title = "८ १५-२० श्रद्धया"
 
 15यदुक्तं सूत्रकारेण 'श्रद्धायै वेहतम्' इति, तस्य पशोः सूक्ते वपायाः पुरोनुवाक्यामाह - 
 </details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्र॒द्धया॒ऽग्निस्समि॑ध्यते ।  
@@ -14,8 +13,6 @@ title = "८ १५-२० श्रद्धया"
 श्र॒द्धाम्भग॑स्य मू॒र्धनि॑ ।  
 वच॒सा वे॑दयामसि ।
 </details>
-
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/151/01_shraddhayAgniH_samidhyate.md">
 <details open><summary><h5>001 ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
