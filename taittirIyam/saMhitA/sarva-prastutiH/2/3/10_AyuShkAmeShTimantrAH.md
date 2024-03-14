@@ -204,12 +204,12 @@ title = "१० आयुष्कामेष्टिमन्त्राः"
 
 11-16ब्रह्मा यजमानस्य हस्तं गृह्णाति - अग्निरायुष्मानिति ॥ 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/2/3/10_AyuShkAmeShTimantrAH/agnir_AyuShmAn.md">
-<details open><summary><h5>अ॒ग्निरायु॑ष्मा॒न्थ्स ...{Loading}...</h5></summary>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अ॒ग्निरायु॑ष्मा॒न्थ्स वन॒स्पति॑भि॒रायु॑ष्मा॒न्तेन॒ त्वायु॒षायु॑ष्मन्तङ्करोमि॒ सोम॒ आयु॑ष्मा॒न्थ्स ओष॑धीभिर्य॒ज्ञ आयु॑ष्मा॒न्थ्स दख्षि॑णाभि॒र्ब्रह्मायु॑ष्म॒त्तद्ब्रा᳚ह्म॒णैरायु॑ष्मद्दे॒वा आयु॑ष्मन्त॒स्ते॑ऽमृते॑न पि॒तर॒ आयु॑ष्मन्त॒स्ते स्व॒धयायु॑ष्मन्त॒स्तेन॒ त्वायु॒षायु॑ष्मन्तङ्करोमि ॥ [40]
 </details>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/2/3/10_AyuShkAmeShTimantrAH/agnir_AyuShmAn.md">
+<details open><summary><h5>अ॒ग्निरायु॑ष्मा॒न्थ्स ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(हे यजमान)+++  
@@ -225,10 +225,6 @@ title = "१० आयुष्कामेष्टिमन्त्राः"
 
 +++(हे यजमान)+++दे॒वा  आयु॑ष्मन्तः।  
 ते॑ऽमृते॑न [आयु॑ष्मन्तः]  [तेन॒ त्वायु॒षा ऽऽयु॑ष्मन्तङ् करोमि ।]
-
-पि॒तर॒ आयु॑ष्मन्तः,
-ते स्व॒धया ऽऽयु॑ष्मन्तः॒,  
-तेन॒ त्वायु॒षायु॑ष्मन्तङ्करोमि ॥
 </details>
 <details><summary>मूलम्</summary>
 
@@ -244,9 +240,7 @@ title = "१० आयुष्कामेष्टिमन्त्राः"
 तद्ब्रा᳚ह्म॒णैरायु॑ष्मत् ,
 
 दे॒वा  आयु॑ष्मन्तः
-
-ते॑ऽमृते॑न पि॒तर॒ आयु॑ष्मन्तः,
-ते स्व॒धयायु॑ष्मन्तः॒, तेन॒ त्वायु॒षायु॑ष्मन्तङ्करोमि ॥
+ते॑ऽमृते॑न  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -256,3 +250,15 @@ title = "१० आयुष्कामेष्टिमन्त्राः"
 </details>
 </details>
 </div>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पि॒तर॒ आयु॑ष्मन्तः,
+ते स्व॒धया ऽऽयु॑ष्मन्तः॒,  
+तेन॒ त्वायु॒षायु॑ष्मन्तङ्करोमि ॥
+
+</details>
+<details><summary>मूलम्</summary>
+
+पि॒तर॒ आयु॑ष्मन्तः,
+ते स्व॒धयायु॑ष्मन्तः॒, तेन॒ त्वायु॒षायु॑ष्मन्तङ्करोमि ॥
+</details>

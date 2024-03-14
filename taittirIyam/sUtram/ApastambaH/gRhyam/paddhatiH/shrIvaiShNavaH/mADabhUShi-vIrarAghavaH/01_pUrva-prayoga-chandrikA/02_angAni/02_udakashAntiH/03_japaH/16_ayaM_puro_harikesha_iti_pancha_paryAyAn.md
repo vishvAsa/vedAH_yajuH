@@ -1,7 +1,8 @@
 +++
-title = "१६ ‘अयं पुरो हरिकेश' इति पञ्च पर्यायान्,"
+title = "१६ अयं पुरो हरिकेश"
 
 +++
+‘अयं पुरो हरिकेश' इति पञ्च पर्यायान्,
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/4/4/03_choDAkhyeShTakopadhAnam/ayaM_puro_harikeshaH.md">
 <details open><summary><h4>अ॒यम्पु॒रो हरि॑केशः ...{Loading}...</h4></summary>

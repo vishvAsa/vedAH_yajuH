@@ -1,8 +1,8 @@
 +++
-title = "४१ 'यो ब्रह्मा ब्रह्मण' इति घृतसूक्तं"
+title = "४१ 'यो ब्रह्मा ब्रह्मणः'"
 
 +++
-च जपित्वा, 
+'यो ब्रह्मा ब्रह्मण' इति घृतसूक्तं च जपित्वा, 
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/baudhAyanaH/gRhyam/mantrAdi/AyuShya-ghRta-sUktam__yo_brahmA">
 <details open><summary><h5>आयुष्य‌/घृत-सूक्तम् ...{Loading}...</h5></summary>

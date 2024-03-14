@@ -2,6 +2,7 @@
 title = "१० ‘अग्नये रक्षोघ्ने’ इति पञ्च"
 
 +++
+'अग्नये रक्षोघ्ने’ इति पञ्च
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/07_chAturmAsyeShu_shunAsIryaparva/agnaye_raxoghne_5.md">
 <details open><summary><h4>अ॒ग्नये॑ रख्षो॒घ्ने 5 ...{Loading}...</h4></summary>

@@ -1,58 +1,58 @@
 +++
 title = "होम-मन्त्र-सङ्ग्रहः"
+
 +++
 
 ## वैश्वदेवम्
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/05_om_agnaye.md">
-<details open><summary><h8>०५ ओम् अग्नये ...{Loading}...</h8></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/05_om_agnaye.md">
+<details open><summary><h2>०५ ओम् अग्नये ...{Loading}...</h2></summary>
 
 - ओम्+++(इत्यनुज्ञाक्षरं)+++ अ॒ग्नये॒ स्वाहा॑+++(हविःप्रदानार्थः)+++।  
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/06_somAya_svAhA.md">
-<details open><summary><h8>०६ सोमाय स्वाहा ...{Loading}...</h8></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/06_somAya_svAhA.md">
+<details open><summary><h2>०६ सोमाय स्वाहा ...{Loading}...</h2></summary>
 
 - सोमा॑य॒ स्वाहा॑।+++(कैश्चिन्नोच्यते मन्त्रः।)+++  
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/07_vishvebhyo_devebhyas.md">
-<details open><summary><h8>०७ विश्वेभ्यो देवेभ्यस् ...{Loading}...</h8></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/07_vishvebhyo_devebhyas.md">
+<details open><summary><h2>०७ विश्वेभ्यो देवेभ्यस् ...{Loading}...</h2></summary>
 
 - विश्वे॑भ्यो दे॒वेभ्य॒स् स्वाहा॑।  
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/08_dhruvAya_bhUmAya.md">
-<details open><summary><h8>०८ ध्रुवाय भूमाय ...{Loading}...</h8></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/08_dhruvAya_bhUmAya.md">
+<details open><summary><h2>०८ ध्रुवाय भूमाय ...{Loading}...</h2></summary>
 
 - +++(खे)+++ ध्रु॒वाय॑ भू॒माय॑+++(=भूम्ने)+++ स्वाहा॑।  
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/09_dhruvaxitaye_svAhA.md">
-<details open><summary><h8>०९ ध्रुवक्षितये स्वाहा ...{Loading}...</h8></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/09_dhruvaxitaye_svAhA.md">
+<details open><summary><h2>०९ ध्रुवक्षितये स्वाहा ...{Loading}...</h2></summary>
 
 - ध्रु॒व॒-क्षित॑ये॒ +++(खे)+++ स्वाहा॑। +++(विवाहे ध्रुवदर्शनमन्त्रेऽप्य् अयम् प्रयोगः)+++  
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/10_achyutaxitaye_svAhA.md">
-<details open><summary><h8>१० अच्युतक्षितये स्वाहा ...{Loading}...</h8></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/10_achyutaxitaye_svAhA.md">
+<details open><summary><h2>१० अच्युतक्षितये स्वाहा ...{Loading}...</h2></summary>
 
 - अ॒च्यु॒त॒क्षित॑ये॒  स्वाहा॑।  
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/11_agnaye_sviShTakRte.md">
-<details open><summary><h8>११ अग्नये स्विष्टकृते ...{Loading}...</h8></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/11_agnaye_sviShTakRte.md">
+<details open><summary><h2>११ अग्नये स्विष्टकृते ...{Loading}...</h2></summary>
 
 - अ॒ग्नये॑ स्विष्ट॒कृते॑ स्वाहा॑।+++(=रुद्रोऽग्निस्स्विष्टकृत्)+++  
 
 </details>
 </div>
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/13_dharmAya_svAhA.md">
 <details open><summary><h2>१३ धर्माय स्वाहा ...{Loading}...</h2></summary>
 
@@ -68,16 +68,13 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 
 </details>
 </div>
-
-
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/15_gRhyabhyas_svAhA.md">
-<details open><summary><h8>१५ गृह्यभ्यस् स्वाहा ...{Loading}...</h8></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/15_gRhyabhyas_svAhA.md">
+<details open><summary><h2>१५ गृह्यभ्यस् स्वाहा ...{Loading}...</h2></summary>
 
 - +++(वास्तुविद्याप्रसिद्धेभ्यः)+++ गृह्या॑भ्य॒स् स्वाहा॑। अ॒व॒साने॑भ्यस्+++(=सीमाभ्यः)+++ स्वाहा॑ । अ॒व॒सान॑पतिभ्य॒स् स्वाहा॑ । स॒र्व॒भू॒तेभ्य॒स् स्वाहा॑ । +++(उत्तरपूर्वदेशेऽगारस्योत्तरैश्चतुर्भिः २३)+++  
 
 </details>
 </div>
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/16_kAmaya_svAhA.md">
 <details open><summary><h2>१६ कामय स्वाहा ...{Loading}...</h2></summary>
 
@@ -86,7 +83,6 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 
 </details>
 </div>
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/17_yadejati_jagati.md">
 <details open><summary><h2>१७ यदेजति जगति ...{Loading}...</h2></summary>
 
@@ -94,7 +90,6 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 
 </details>
 </div>
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/18_pRthivyai_svAhA.md">
 <details open><summary><h2>१८ पृथिव्यै स्वाहा ...{Loading}...</h2></summary>
 
@@ -105,7 +100,6 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 
 </details>
 </div>
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/19_svadhA_pitRbhyas.md">
 <details open><summary><h2>१९ स्वधा पितृभ्यस् ...{Loading}...</h2></summary>
 
@@ -142,8 +136,7 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 अथा॑ नो **वर्धया र॒यिम्** ।  
 
 </details>
-</div>  
-
+</div>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/8/21_upAvaroha_jAtavedapH.md">
 <details open><summary><h5>21 उपावरोह जातवेदᳶ ...{Loading}...</h5></summary>
 
@@ -153,8 +146,7 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 अज॑स्रो दीदिहि नो दुरो॒णे ।  
 
 </details>
-</div>  
-
+</div>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/6/05_chityAm_agni-sthApanAdi-mAruta-homAntam/07_AjuhvAnas_supratIkapH.md">
 <details open><summary><h5>07 आजुह्वानस् सुप्रतीकᳶ ...{Loading}...</h5></summary>
 
@@ -164,7 +156,6 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 विश्वे॑ देवाः॒! यज॑मानश् च **सीदत** ।
 </details>
 </div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/45_udbudhyasvAgne_prati.md">
 <details open><summary><h5>45 उद्बुध्यस्वाग्ने प्रति ...{Loading}...</h5></summary>
 
@@ -177,8 +168,45 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 
 ## जयादिः
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/3/4/04_jayahomamantrAH_tatprashaMsA_cha/chittaM_cha_chittish_cha.md" newLevelForH1="5" includeTitle="false"> </div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/3/4/04_jayahomamantrAH_tatprashaMsA_cha/chittaM_cha_chittish_cha.md">
+<details open><summary><h5>चि॒त्तं च॒ ...{Loading}...</h5></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+चि॒त्तं च॒ [स्वाहा॑]। चित्ति॒श् च॒ [स्वाहा॑]।  
+आकू॑तं॒ च॒ [स्वाहा॑]।  आकू॑तिश् च॒ [स्वाहा॑]।  
+विज्ञा॑तं च॒ [स्वाहा॑]।  वि॒ज्ञानं॑ च॒ [स्वाहा॑]।  
+मन॑श् च॒ [स्वाहा॑]। शक्व॑रीश् च॒ [स्वाहा॑]।  
+दर्श॑श् च॒ [स्वाहा॑]। पू॒र्णमा॑सश् च॒ [स्वाहा॑]।  
+बृ॒हच् च॒ [स्वाहा॑]।  र॒थ॒न्त॒रं च॒ [स्वाहा॑]।
+</details>
+<details><summary>मूलम्</summary>
+
+चि॒त्तञ्च॒ चित्ति॒श्चाकू॑त॒ञ्चाकू॑तिश्च॒ विज्ञा॑तञ्च वि॒ज्ञान॑ञ्च॒ मन॑श्च॒ शक्व॑रीश्च॒ दर्श॑श्च पू॒र्णमा॑सश्च बृ॒हच्च॑ रथन्त॒रञ्च॑
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+चित्तं चेत्यादयस्स्रुवाहुतयः । चशब्दस्समुच्चयार्थः; वाक्यस्यापरिसमाप्तत्वात् । माऽस्त्विति शेषः । येन चेतयते तच्चित्तम् ।
+
+चित्तिश्चेतना ।
+
+आकूतं संकल्प्यो विषयः ।
+
+आकूतिस्संकल्पः ।
+
+विज्ञातं विविधं ज्ञातव्यम् ।
+
+विज्ञानं विविधं वेदनम् ।
+
+मनः अन्तःकरणम् ।
+
+शक्वरी शक्वर्यः चक्षुरादिबाह्येन्द्रियशक्तयः । 'वा छन्दसि' इति पूर्वसवर्णदीर्घत्वम् । आकूत्यादिषु त्रिषु गतेः प्रकृतिस्वरत्वम् ।
+
+दर्शपूर्णमासौ कालौ, कर्मणी वा । सर्वेषां कर्मकालानां कर्मणां च प्रधानयोरुपादानमुपलक्षणार्थम् ।
+
+एवं बृहद्रथन्तरयोस्साम्नोर्वेदितव्यम् ॥
+</details>
+</details>
+</div>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/3/4/05_abhyAtAnamantrAH">
 <details open><summary><h2>०५ अभ्यातानमन्त्राः ...{Loading}...</h2></summary>
 
@@ -629,15 +657,17 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 इति तृतीये चतुर्थे पञ्चमोनुवाकः ॥  
 </details>
 </details>
-</div> 
-
+</div>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/3/4/07_rAShTrabhRnmantrAH">
 <details open><summary><h2>०७ राष्ट्रभृन्मन्त्राः ...{Loading}...</h2></summary>
 
 
 विश्वेदेवा ऋषयः
 
+<details open><summary>विश्वास-टिप्पनी</summary>
 
+अस्यानुवाकस्य  बोधायन-भट्टभास्करादि-रीत्या ऽनुषङ्गो ऽन्यत्र [दर्शितः](/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mADabhUShi-vIrarAghavaH/01_pUrva-prayoga-chandrikA/02_angAni/02_udakashAntiH/03_japaH/14_RtAShADiti_sAnuShangam_anuvAkaM/)। 
+</details>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1अथ राष्ट्रकामादिभ्यो विहिता राष्ट्रभृतः ऋताषाडृतधामेत्यादयः द्विस्स्वाहाकारं होतव्याः । 
@@ -648,8 +678,8 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 </details>
 <details><summary>सङ्क्षेपः</summary>
 
-ऋ॒ता॒षाड् +++(=ऋतेन शाततीति)+++ ऋ॒तधा॑मा॒ ऽग्निर् ग॑न्ध॒र्वः। स इ॒दं ब्रह्म॑क्ष॒त्रं पा॑तु। तस्मै॒ स्वाहा॒ ।  
-तस्यौष॑धयोऽप्स॒रस॒ ऊर्जो॒ नाम॑। ता इ॒दं ब्रह्म॑क्ष॒त्रं पा॑न्तु। ताभ्यः॒ स्वाहा॑ ।
+ऋ॒ता॒षाड् +++(=ऋतेन शाततीति)+++ ऋ॒तधा॑मा॒ ऽग्निर् ग॑न्ध॒र्वः। स इ॒दं ब्रह्म॑ क्ष॒त्रं पा॑तु। तस्मै॒ स्वाहा॒ ।  
+तस्यौष॑धयोऽप्स॒रस॒ ऊर्जो॒ नाम॑। ता इ॒दं ब्रह्म॑ क्ष॒त्रं पा॑न्तु। ताभ्यः॒ स्वाहा॑ ।
 
 स॒ꣳ॒हि॒तो वि॒श्वसा॑मा॒ +++(=विश्वानि सामान्यवसितान्यस्मिन्)+++ सूर्यो॑ ग॑न्ध॒र्वः । … ।    
 तस्य॒ मरी॑चयोऽप्स॒रस॒ आ॒युवो॒ नाम॑ । … ।  
@@ -666,7 +696,7 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 इ॒षि॒रो +++(इष्यमानवस्तुवत्त्वात्)+++ वि॒श्वव्य॑चा॒ +++(विश्वं वियातीति)+++ वातो॑ ग॑न्ध॒र्वः । … ।  
 तस्यापो॑ऽप्स॒रसो॑ मु॒दा नाम॑ । … ।
 
-भुव॑नस्य पते॒ यस्य॑ त उ॒परि॑ गृ॒हा इ॒ह च॑ ।
+भुव॑नस्य-पते॒ यस्य॑ त उ॒परि॑ गृ॒हा इ॒ह च॑ ।
 स नो॑ रास्व+++(=देहि)+++ +आज्या॑निꣳ+++(=दीर्घायुः)+++ रा॒यस्पोषाꣳ॑  
 सु॒वीर्यꣳ॑ संवत्स॒रीणाꣳ॑ स्व॒स्तिꣳ स्वाहा॑ ।
 
@@ -682,14 +712,15 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 चारुः॑ कृपणका॒शी +++(कृपणेषु मनो दीपयतीति)+++ कामो॑ ग॑न्ध॒र्वः । … ।  
 तस्या॒धयो॑ +++(=चित्तक्लेशाधिदेवताः)+++ ऽप्स॒रस॑श् शो॒चय॑तीर् नाम॑ । … ।
 
-स नो॑ भुवनस्य पते॒ यस्य॑ त उ॒परि॑ गृ॒हा इ॒ह च॑।  
+स नो॑ भुवनस्य-पते॒ यस्य॑ त उ॒परि॑ गृ॒हा इ॒ह च॑।  
 उ॒रु+++(=विपुल)+++ब्रह्म॑णे॒ ऽस्मै क्ष॒त्राय॒  
 महि॒+++(=महत्)+++ शर्म॑ यच्छ॒ स्वाहा॑ ॥
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऋ॒ता॒षाड् +++(=ऋतेन शाततीति)+++ ऋ॒तधा॑मा॒ ऽग्निर् ग॑न्ध॒र्वः। स इ॒दं ब्रह्म॑क्ष॒त्रं पा॑तु। तस्मै॒ स्वाहा॒ ।  
-तस्यौष॑धयोऽप्स॒रस॒ ऊर्जो॒ नाम॑। ता इ॒दं ब्रह्म॑क्ष॒त्रं पा॑न्तु। ताभ्यः॒ स्वाहा॑ ।
+ऋ॒ता॒षाड् +++(=ऋतेन शाततीति)+++ ऋ॒तधा॑मा॒ ऽग्निर् ग॑न्ध॒र्वः। तस्यौष॑धयोऽप्स॒रस॒ ऊर्जो॒ नाम॑।  
+स इ॒दं ब्रह्म॑ क्ष॒त्रं पा॑तु। तस्मै॒ स्वाहा॒ ।  
+ता इ॒दं ब्रह्म॑ क्ष॒त्रं पा॑न्तु। ताभ्यः॒ स्वाहा॑ ।
 </details>
 <details><summary>मूलम्</summary>
 
@@ -699,7 +730,7 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 
 तस्मा इति गन्धर्वाय । ताभ्य इत्यप्सरोभ्यः । 'स इदं ब्रह्म क्षत्रं पातु' इति गन्धर्वेष्वनुषज्यते । 'ता इदं ब्रह्म क्षत्रं पान्तु' इत्यप्सरस्सु ।
 भुवनस्य पते इति पञ्चपदा पङ्क्तिः । 'भुवनस्य पते ' इति प्रथमपादान्तः । इयं च पर्यायाणां सप्तमी, आहुतीनां त्रयोदशी ।
-अथ 'स नो भुवनस्य्' इति न्यङ्कुसारिणी । द्वितीयः पादो द्वादशाक्षरः । इयं तु पर्या याणां द्वादशी, आहुतीनां द्वाविंशतिः ।
+अथ 'स नो भुवनस्य' इति न्यङ्कुसारिणी । द्वितीयः पादो द्वादशाक्षरः । इयं तु पर्यायाणां द्वादशी, आहुतीनां द्वाविंशतिः ।
 
 ऋताषाट् ऋतं सत्यं यज्ञं वा सहते अभिभवति अतःपरं नास्ति सत्यं यज्ञो वा । ऋतेन वा विश्वमभिभवति । 'छन्दसि सहः' इति ण्विः, 'अन्येषामपि दृश्यते' इति दीर्घत्वम्, 'सहेस्साढस्सः' इति षत्वम् ।
 
@@ -715,17 +746,15 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒ꣳ॒हि॒तो वि॒श्व-सा॑मा॒ सूर्यो॑ गन्ध॒र्वस् [स इ॒दं ब्रह्म॑क्ष॒त्रं पा॑तु। तस्मै॒ स्वाहा॒ ।]  
-तस्य॒ मरी॑चयोऽफ्स॒रस॑ आ॒युवः॑  [+नाम॑। ता इ॒दं ब्रह्म॑क्ष॒त्रं पा॑न्तु। ताभ्यः॒ स्वाहा॑ ।]
+स॒ꣳ॒हि॒तो वि॒श्व-सा॑मा॒ सूर्यो॑ गन्ध॒र्वस्  
+तस्य॒ मरी॑चयोऽफ्स॒रस॑ आ॒युवो॒  [+नाम॑। स इ॒दं ब्रह्म॑ क्ष॒त्रं पा॑तु। ता इ॒दं ब्रह्म॑ क्ष॒त्रं पा॑न्तु। तस्मै॒ स्वाहा॒ ।  ताभ्यः॒ स्वाहा॑ ।]
 
 
 </details>
 <details><summary>मूलम्</summary>
 
-स॒ꣳ॒हि॒तो वि॒श्वसा॑मा॒ सूर्यो॑ गन्ध॒र्वस् [स इ॒दं ब्रह्म॑क्ष॒त्रं पा॑तु। तस्मै॒ स्वाहा॒ ।]  
-तस्य॒ मरी॑चयोऽफ्स॒रस॑ आ॒युवः॑  [+नाम॑। ता इ॒दं ब्रह्म॑क्ष॒त्रं पा॑न्तु। ताभ्यः॒ स्वाहा॑ ।]
-
-
+स॒ꣳ॒हि॒तो वि॒श्वसा॑मा॒ सूर्यो॑ गन्ध॒र्वस्   
+तस्य॒ मरी॑चयोऽफ्स॒रस॑ आ॒युवः॑  [+नाम॑। स इ॒दं ब्रह्म॑ क्ष॒त्रं पा॑तु। ता इ॒दं ब्रह्म॑ क्ष॒त्रं पा॑न्तु। तस्मै॒ स्वाहा॒ ।  ताभ्यः॒ स्वाहा॑ ।]
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -739,15 +768,14 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सु॒-षु॒म्नस् सूर्य॑-रश्मिश् च॒न्द्रमा॑ गन्ध॒र्वः, [स इ॒दं ब्रह्म॑क्ष॒त्रं पा॑तु। तस्मै॒ स्वाहा॒ ।]  
-तस्य॒ नख्ष॑त्राण्य् अफ्स॒रसो॑ बे॒कुर॑यः [+नाम॑। ता इ॒दं ब्रह्म॑क्ष॒त्रं पा॑न्तु। ताभ्यः॒ स्वाहा॑ ।]  
+सु॒-षु॒म्नस् सूर्य॑-रश्मिश् च॒न्द्रमा॑ गन्ध॒र्वः,   
+तस्य॒ नख्ष॑त्राण्य् अफ्स॒रसो॑ बे॒कुर॑यो॒ \[+नाम॑। स इ॒दं ब्रह्म॑ क्ष॒त्रं पा॑तु। ता इ॒दं ब्रह्म॑ क्ष॒त्रं पा॑न्तु। तस्मै॒ स्वाहा॒ ।  ताभ्यः॒ स्वाहा॑ ।]  
 
 </details>
 <details><summary>मूलम्</summary>
 
-सु॒षु॒म्नस्सूर्य॑रश्मिश्च॒न्द्रमा॑ गन्ध॒र्वः, [स इ॒दं ब्रह्म॑क्ष॒त्रं पा॑तु। तस्मै॒ स्वाहा॒ ।]  
-तस्य॒ नख्ष॑त्राण्यफ्स॒रसो॑ बे॒कुर॑यः [+नाम॑। ता इ॒दं ब्रह्म॑क्ष॒त्रं पा॑न्तु। ताभ्यः॒ स्वाहा॑ ।]  
-
+सु॒षु॒म्नस्सूर्य॑रश्मिश्च॒न्द्रमा॑ गन्ध॒र्वः,   
+तस्य॒ नख्ष॑त्राण्यफ्स॒रसो॑ बे॒कुर॑यः [+नाम॑। स इ॒दं ब्रह्म॑ क्ष॒त्रं पा॑तु। ता इ॒दं ब्रह्म॑ क्ष॒त्रं पा॑न्तु। तस्मै॒ स्वाहा॒ ।  ताभ्यः॒ स्वाहा॑ ।]  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -766,14 +794,14 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भु॒ज्युस्सु॑प॒र्णो य॒ज्ञो ग॑न्ध॒र्वस्, [स इ॒दं ब्रह्म॑क्ष॒त्रं पा॑तु। तस्मै॒ स्वाहा॒ ।]  
-तस्य॒ दख्षि॑णा अफ्स॒रस॑स् स्त॒वाः [+नाम॑। ता इ॒दं ब्रह्म॑क्ष॒त्रं पा॑न्तु। ताभ्यः॒ स्वाहा॑ ।]   
+भु॒ज्युस्सु॑प॒र्णो य॒ज्ञो ग॑न्ध॒र्वस्,   
+तस्य॒ दख्षि॑णा अफ्स॒रस॑स् स्त॒वा [+नाम॑। स इ॒दं ब्रह्म॑ क्ष॒त्रं पा॑तु। ता इ॒दं ब्रह्म॑ क्ष॒त्रं पा॑न्तु। तस्मै॒ स्वाहा॒ ।  ताभ्यः॒ स्वाहा॑ ।]   
 
 </details>
 <details><summary>मूलम्</summary>
 
-भु॒ज्युस्सु॑प॒र्णो य॒ज्ञो ग॑न्ध॒र्वस्, [स इ॒दं ब्रह्म॑क्ष॒त्रं पा॑तु। तस्मै॒ स्वाहा॒ ।]  
-तस्य॒ दख्षि॑णा अफ्स॒रस॑स् स्त॒वाः [+नाम॑। ता इ॒दं ब्रह्म॑क्ष॒त्रं पा॑न्तु। ताभ्यः॒ स्वाहा॑ ।]   
+भु॒ज्युस्सु॑प॒र्णो य॒ज्ञो ग॑न्ध॒र्वस्,   
+तस्य॒ दख्षि॑णा अफ्स॒रस॑स् स्त॒वाः [+नाम॑। स इ॒दं ब्रह्म॑ क्ष॒त्रं पा॑तु। ता इ॒दं ब्रह्म॑ क्ष॒त्रं पा॑न्तु। तस्मै॒ स्वाहा॒ ।  ताभ्यः॒ स्वाहा॑ ।]   
 
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -786,14 +814,14 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒जाप॑तिर्वि॒श्वक॑र्मा॒  मनो॑ गन्ध॒र्वः, [स इ॒दं ब्रह्म॑क्ष॒त्रं पा॑तु। तस्मै॒ स्वाहा॒ ।]  
-तस्य॑र्ख्सा॒मान्य॑फ्स॒रसो॒ वह्न॑यः  [+नाम॑। ता इ॒दं ब्रह्म॑क्ष॒त्रं पा॑न्तु। ताभ्यः॒ स्वाहा॑ ।]   
+प्र॒जाप॑तिर्वि॒श्वक॑र्मा॒  मनो॑ गन्ध॒र्वः,   
+तस्य॑र्ख्सा॒मान्य॑फ्स॒रसो॒ वह्न॑यो॒ \[+नाम॑। स इ॒दं ब्रह्म॑ क्ष॒त्रं पा॑तु। ता इ॒दं ब्रह्म॑ क्ष॒त्रं पा॑न्तु। तस्मै॒ स्वाहा॒ ।  ताभ्यः॒ स्वाहा॑ ।]   
 
 </details>
 <details><summary>मूलम्</summary>
 
-प्र॒जाप॑तिर्वि॒श्वक॑र्मा॒  मनो॑ गन्ध॒र्वः, [स इ॒दं ब्रह्म॑क्ष॒त्रं पा॑तु। तस्मै॒ स्वाहा॒ ।]  
-तस्य॑र्ख्सा॒मान्य॑फ्स॒रसो॒ वह्न॑यः  [+नाम॑। ता इ॒दं ब्रह्म॑क्ष॒त्रं पा॑न्तु। ताभ्यः॒ स्वाहा॑ ।]   
+प्र॒जाप॑तिर्वि॒श्वक॑र्मा॒  मनो॑ गन्ध॒र्वः,   
+तस्य॑र्ख्सा॒मान्य॑फ्स॒रसो॒ वह्न॑यः \[+नाम॑। स इ॒दं ब्रह्म॑ क्ष॒त्रं पा॑तु। ता इ॒दं ब्रह्म॑ क्ष॒त्रं पा॑न्तु। तस्मै॒ स्वाहा॒ ।  ताभ्यः॒ स्वाहा॑ ।]   
 
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -806,14 +834,14 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒षि॒रो  वि॒श्वव्य॑चा॒ वातो॑ गन्ध॒र्वः, [स इ॒दं ब्रह्म॑क्ष॒त्रं पा॑तु। तस्मै॒ स्वाहा॒ ।]  
-तस्यापो᳚ऽफ्स॒रसो॑ मु॒दाः [+नाम॑। ता इ॒दं ब्रह्म॑क्ष॒त्रं पा॑न्तु। ताभ्यः॒ स्वाहा॑ ।]   
+इ॒षि॒रो  वि॒श्वव्य॑चा॒ वातो॑ गन्ध॒र्वः,   
+तस्यापो᳚ऽफ्स॒रसो॑ मु॒दा [+नाम॑। स इ॒दं ब्रह्म॑ क्ष॒त्रं पा॑तु। ता इ॒दं ब्रह्म॑ क्ष॒त्रं पा॑न्तु। तस्मै॒ स्वाहा॒ ।  ताभ्यः॒ स्वाहा॑ ।]   
 
 </details>
 <details><summary>मूलम्</summary>
 
-इ॒षि॒रो  वि॒श्वव्य॑चा॒ वातो॑ गन्ध॒र्वः, [स इ॒दं ब्रह्म॑क्ष॒त्रं पा॑तु। तस्मै॒ स्वाहा॒ ।]  
-तस्यापो᳚ऽफ्स॒रसो॑ मु॒दाः [+नाम॑। ता इ॒दं ब्रह्म॑क्ष॒त्रं पा॑न्तु। ताभ्यः॒ स्वाहा॑ ।]   
+इ॒षि॒रो  वि॒श्वव्य॑चा॒ वातो॑ गन्ध॒र्वः,   
+तस्यापो᳚ऽफ्स॒रसो॑ मु॒दाः [+नाम॑। स इ॒दं ब्रह्म॑ क्ष॒त्रं पा॑तु। ता इ॒दं ब्रह्म॑ क्ष॒त्रं पा॑न्तु। तस्मै॒ स्वाहा॒ ।  ताभ्यः॒ स्वाहा॑ ।]   
 
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -822,8 +850,8 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भुव॑नस्य पते॒ यस्य॑ त उ॒परि॑ गृ॒हा इ॒ह च॑ ।   
-स नो॑ रा॒स्वाज्या॑निꣳ रा॒यस्पोषꣳ॑ सु॒वीर्यꣳ॑ सव्ँवथ्स॒रीणाꣳ॑ स्व॒स्तिम् ।   
+भुव॑नस्य-पते॒ यस्य॑ त उ॒परि॑ गृ॒हा इ॒ह च॑ ।   
+स नो॑ रा॒स्वाज्या॑निꣳ+++(=अहानिं)+++ रा॒यस्-पोषꣳ॑ सु॒वीर्यꣳ॑ सव्ँवथ्स॒रीणाꣳ॑ स्व॒स्तिम् ।   
 </details>
 <details><summary>मूलम्</summary>
 
@@ -832,7 +860,11 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
-7भुवनस्येत्यादि ॥ भुवनस्य भूतजातस्य पते पालयितः उपरि द्युलोक्तान्तरिक्षयोः इह च पृथिव्यां ग्रहाः ग्रहवासिनः । ते स्वभूताः स त्वं नोस्मभ्यं रास्व देहि । व्यत्ययेनात्मनेपदम् ॥ अज्यानिं अहानिं अहानिनिमित्तम् । क्तिनो निष्ठावद्भावात् 'ल्वादिभ्यश्च' इति नत्वम् । रायो धनस्य पोषं सुवीर्यं शोभनवीर्यकम् । 'वीरवीर्यौ च' इत्युत्तरपदान्तादोत्तत्वम् । संवत्सरीणां च स्वस्तिं अविनाशं संवत्सरभावीति । 'संपरिपूर्वात्ख च' इति खः ॥
+7भुवनस्येत्यादि ॥  
+भुवनस्य भूतजातस्य पते पालयितः  
+उपरि द्युलोक्तान्तरिक्षयोः  
+**इह च** पृथिव्यां ग्रहाः ग्रहवासिनः ।  
+ते स्वभूताः **स** त्वं **नो** स्मभ्यं **रास्व** देहि । व्यत्ययेनात्मनेपदम् ॥ **अज्यानिं** अहानिं अहानिनिमित्तम् । क्तिनो निष्ठावद्भावात् 'ल्वादिभ्यश्च' इति नत्वम् । रायो धनस्य पोषं सुवीर्यं शोभनवीर्यकम् । 'वीरवीर्यौ च' इत्युत्तरपदान्तादोत्तत्वम् । संवत्सरीणां च स्वस्तिं अविनाशं संवत्सरभावीति । 'संपरिपूर्वात्ख च' इति खः ॥
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -840,14 +872,14 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प॒र॒मे॒ष्ठ्य् अधि॑पतिर् मृ॒त्युर् ग॑न्ध॒र्वः, [स इ॒दं ब्रह्म॑क्ष॒त्रं पा॑तु। तस्मै॒ स्वाहा॒ ।]  
-तस्य॒ विश्व॑मफ्स॒रसो॒ भुवः॑   [+नाम॑। ता इ॒दं ब्रह्म॑क्ष॒त्रं पा॑न्तु। ताभ्यः॒ स्वाहा॑ ।]   
+प॒र॒मे॒ष्ठ्य् अधि॑पतिर् मृ॒त्युर् ग॑न्ध॒र्वः,   
+तस्य॒ विश्व॑मफ्स॒रसो॒ भुवः॑   [+नाम॑। स इ॒दं ब्रह्म॑ क्ष॒त्रं पा॑तु। ता इ॒दं ब्रह्म॑ क्ष॒त्रं पा॑न्तु। तस्मै॒ स्वाहा॒ ।  ताभ्यः॒ स्वाहा॑ ।]   
 
 </details>
 <details><summary>मूलम्</summary>
 
-प॒र॒मे॒ष्ठ्यधि॑पतिर्मृ॒त्युर्ग॑न्ध॒र्वः, [स इ॒दं ब्रह्म॑क्ष॒त्रं पा॑तु। तस्मै॒ स्वाहा॒ ।]  
-तस्य॒ विश्व॑मफ्स॒रसो॒ भुवः॑   [+नाम॑। ता इ॒दं ब्रह्म॑क्ष॒त्रं पा॑न्तु। ताभ्यः॒ स्वाहा॑ ।]   
+प॒र॒मे॒ष्ठ्यधि॑पतिर्मृ॒त्युर्ग॑न्ध॒र्वः,   
+तस्य॒ विश्व॑मफ्स॒रसो॒ भुवः॑   [+नाम॑। स इ॒दं ब्रह्म॑ क्ष॒त्रं पा॑तु। ता इ॒दं ब्रह्म॑ क्ष॒त्रं पा॑न्तु। तस्मै॒ स्वाहा॒ ।  ताभ्यः॒ स्वाहा॑ ।]   
 
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -860,14 +892,14 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सु॒ख्षि॒तिस्सुभू॑तिर्भद्र॒कृथ्सुव॑र्वान् ,   प॒र्जन्यो॑ गन्ध॒र्वः, [स इ॒दं ब्रह्म॑क्ष॒त्रं पा॑तु। तस्मै॒ स्वाहा॒ ।]  
-तस्य॑ वि॒द्युतो᳚ऽफ्स॒रसो॒ +++('ता इदं ब्रह्म क्षत्रं पान्तु') +++ रुचो॑ [+नाम॑। ता इ॒दं ब्रह्म॑क्ष॒त्रं पा॑न्तु। ताभ्यः॒ स्वाहा॑ ।]   
+सु॒ख्षि॒तिस्सुभू॑तिर्भद्र॒कृथ्सुव॑र्वान् ,   प॒र्जन्यो॑ गन्ध॒र्वः,   
+तस्य॑ वि॒द्युतो᳚ऽफ्स॒रसो॒ +++('ता इदं ब्रह्म क्षत्रं पान्तु') +++ रुचो॑ [+नाम॑। स इ॒दं ब्रह्म॑ क्ष॒त्रं पा॑तु। ता इ॒दं ब्रह्म॑ क्ष॒त्रं पा॑न्तु। तस्मै॒ स्वाहा॒ ।  ताभ्यः॒ स्वाहा॑ ।]   
 
 </details>
 <details><summary>मूलम्</summary>
 
-सु॒ख्षि॒तिस्सुभू॑तिर्भद्र॒कृथ्सुव॑र्वान् ,   प॒र्जन्यो॑ गन्ध॒र्वः, [स इ॒दं ब्रह्म॑क्ष॒त्रं पा॑तु। तस्मै॒ स्वाहा॒ ।]  
-तस्य॑ वि॒द्युतो᳚ऽफ्स॒रसो॒ +++('ता इदं ब्रह्म क्षत्रं पान्तु') +++ रुचो॑ [+नाम॑। ता इ॒दं ब्रह्म॑क्ष॒त्रं पा॑न्तु। ताभ्यः॒ स्वाहा॑ ।]   
+सु॒ख्षि॒तिस्सुभू॑तिर्भद्र॒कृथ्सुव॑र्वान् ,   प॒र्जन्यो॑ गन्ध॒र्वः,   
+तस्य॑ वि॒द्युतो᳚ऽफ्स॒रसो॒ +++('ता इदं ब्रह्म क्षत्रं पान्तु') +++ रुचो॑ [+नाम॑। स इ॒दं ब्रह्म॑ क्ष॒त्रं पा॑तु। ता इ॒दं ब्रह्म॑ क्ष॒त्रं पा॑न्तु। तस्मै॒ स्वाहा॒ ।  ताभ्यः॒ स्वाहा॑ ।]   
 
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -880,14 +912,14 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दू॒रेहे॑तिरमृड॒यो  मृ॒त्युर्ग॑न्ध॒र्वः, [स इ॒दं ब्रह्म॑क्ष॒त्रं पा॑तु। तस्मै॒ स्वाहा॒ ।]  
-तस्य॑ प्र॒जा अ॑फ्स॒रसो॑ भी॒रुवः॑ [+नाम॑। ता इ॒दं ब्रह्म॑क्ष॒त्रं पा॑न्तु। ताभ्यः॒ स्वाहा॑ ।]   
+दू॒रेहे॑तिरमृड॒यो  मृ॒त्युर्ग॑न्ध॒र्वः,   
+तस्य॑ प्र॒जा अ॑फ्स॒रसो॑ भी॒रुवो॒ \[+नाम॑। स इ॒दं ब्रह्म॑ क्ष॒त्रं पा॑तु। ता इ॒दं ब्रह्म॑ क्ष॒त्रं पा॑न्तु। तस्मै॒ स्वाहा॒ ।  ताभ्यः॒ स्वाहा॑ ।]   
 
 </details>
 <details><summary>मूलम्</summary>
 
-दू॒रेहे॑तिरमृड॒यो  मृ॒त्युर्ग॑न्ध॒र्वः, [स इ॒दं ब्रह्म॑क्ष॒त्रं पा॑तु। तस्मै॒ स्वाहा॒ ।]  
-तस्य॑ प्र॒जा अ॑फ्स॒रसो॑ भी॒रुवः॑ [+नाम॑। ता इ॒दं ब्रह्म॑क्ष॒त्रं पा॑न्तु। ताभ्यः॒ स्वाहा॑ ।]   
+दू॒रेहे॑तिरमृड॒यो  मृ॒त्युर्ग॑न्ध॒र्वः,   
+तस्य॑ प्र॒जा अ॑फ्स॒रसो॑ भी॒रुवः॑ [+नाम॑। स इ॒दं ब्रह्म॑ क्ष॒त्रं पा॑तु। ता इ॒दं ब्रह्म॑ क्ष॒त्रं पा॑न्तु। तस्मै॒ स्वाहा॒ ।  ताभ्यः॒ स्वाहा॑ ।]   
 
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -900,12 +932,12 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-चारु॑ᳵ कृपण-का॒शी कामो॑ गन्ध॒र्वः, [स इ॒दं ब्रह्म॑क्ष॒त्रं पा॑तु। तस्मै॒ स्वाहा॒ ।]  
+चारु॑ᳵ कृपण-का॒शी कामो॑ गन्ध॒र्वः,   
 तस्या॒धयो᳚ऽफ्स॒रसः॑ शो॒चय॑न्ती॒र्नाम॒  स इ॒दम्ब्रह्म॑ ख्ष॒त्रम्पा॑तु॒ ता इ॒दम्ब्रह्म॑ ख्ष॒त्रम्पा᳚न्तु॒ ताभ्य॒स्  +++(अप्सरोभ्यः)+++  स्वाहा॑॥
 </details>
 <details><summary>मूलम्</summary>
 
-चारु॑ᳵ कृपणका॒शी कामो॑ गन्ध॒र्वः, [स इ॒दं ब्रह्म॑क्ष॒त्रं पा॑तु। तस्मै॒ स्वाहा॒ ।]  
+चारु॑ᳵ कृपणका॒शी कामो॑ गन्ध॒र्वः,   
 तस्या॒धयो᳚ऽफ्स॒रसः॑ शो॒चय॑न्ती॒र्नाम॒  स इ॒दम्ब्रह्म॑ ख्ष॒त्रम्पा॑तु॒ ता इ॒दम्ब्रह्म॑ ख्ष॒त्रम्पा᳚न्तु॒ तस्मै॒ स्वाहा॒, ताभ्य॒स् स्वाहा॑
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -914,7 +946,7 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स नो॑ भुवनस्य-पते॒ यस्य॑ त उ॒परि॑ गृ॒हा इ॒ह च॑ ।   
+स नो॑ भुवनस्य पते॒ यस्य॑ त उ॒परि॑ गृ॒हा इ॒ह च॑ ।   
 उ॒रु ब्रह्म॑णे॒ऽस्मै ख्ष॒त्राय॒ महि॒ शर्म॑ यच्छ ॥ [21]  
 </details>
 <details><summary>मूलम्</summary>
@@ -948,11 +980,32 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 व॒यꣵ **स्या॑म॒** पत॑यो रयी॒णाम्॥
 </details>
 </div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/baudhAyanaH/gRhyam/mantraH/yajuH/sarva-prastutiH/vyAhRti-homAH_3.md">
+<details open><summary><h5>व्याहृति-होमाः ४ ...{Loading}...</h5></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/baudhAyanaH/gRhyam/mantraH/yajuH/sarva-prastutiH/vyAhRti-homAH_3.md" newLevelForH1="5" includeTitle="false"> </div>
+(ओं) भूस्स्वाहा᳚ ॥
+(अ॒ग्नय॑ +इ॒दं न म॑म)
 
+(ओं) भुव॒स्स्वाहा᳚ ॥
+(वा॒यव॑ +इ॒दं न म॑म)
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/baudhAyanaH/gRhyam/mantraH/yajuH/sarva-prastutiH/vyAhRti-homAH.md"></div>
+(ओं) सुव॒स्स्वाहा᳚ ॥  
+(सूर्या॑य +इ॒दं न म॑म)
+</details>
+<details><summary>मूलम्</summary>
+
+(ओं) भूस्स्वाहा᳚ ॥
+(अग्नय इदं न मम)
+
+(ओं) भुव॒स्स्वाहा᳚ ॥
+(वायव इदं न मम)
+
+(ओं) सुव॒स्स्वाहा᳚ ॥  
+(सूर्याय इदं न मम)
+</details>
+</details>
+</div>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/yad_asya_karmaNaH.md">
 <details open><summary><h5>Yad asya karmaNaH ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -970,9 +1023,8 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 </details>
 </details>
 </div>
-
-<div class="js_include" newlevelforh1="4" includetitle="false" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/35_anAjnAtay.NyadAjnAtam_yajnasya.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/35_anAjnAtay.NyadAjnAtam_yajnasya.md">
+<details open><summary><h4>35 अनाज्ञातय्ँयदाज्ञातम् यज्ञस्य ...{Loading}...</h4></summary>
 
 अना᳚ज्ञात॒य्ँयदाज्ञा॑तम् ।  
 य॒ज्ञस्य॑ क्रि॒यते॒ मिथु॑ ।  
@@ -980,8 +1032,8 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 त्वꣳ हि वेत्थ॑ यथात॒थम् ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" includetitle="false" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/38_puruShasammito_yajnaH.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/38_puruShasammito_yajnaH.md">
+<details open><summary><h4>38 पुरुषसम्मितो यज्ञः ...{Loading}...</h4></summary>
 
 पुरु॑षसम्मितो य॒ज्ञः ।  
 य॒ज्ञᳶ पुरु॑षसम्मितः ।  
@@ -989,8 +1041,8 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 त्वꣳ हि वेत्थ॑ यथात॒थम् ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" includetitle="false" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/41_yatpAkatrA_manasA.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/41_yatpAkatrA_manasA.md">
+<details open><summary><h4>41 यत्पाकत्रा मनसा ...{Loading}...</h4></summary>
 
 यत्पा॑क॒त्रा मन॑सा दी॒नद॑ख्षा॒ न ।  
 य॒ज्ञस्य॑ म॒न्वते॒ मर्ता॑सः ।  
@@ -1038,448 +1090,250 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-शञ्च॑ मे॒ मय॑श्च मे प्रि॒यञ्च॑ मेऽनुका॒मश्च॑ मे॒ काम॑श्च मे सौमन॒सश्च॑ मे भ॒द्रञ्च॑ मे॒ श्रेय॑श्च मे॒ वस्य॑श्च मे॒ यश॑श्च मे॒ भग॑श्च मे॒ द्रवि॑णञ्च मे य॒न्ता च॑ मे ध॒र्ता च॑ मे॒ ख्षेम॑श्च मे॒ धृति॑श्च मे॒ विश्व॑ञ्च [5]  
-मे॒ मह॑श्च मे स॒व्ँविच्च॑ मे॒ ज्ञात्र॑ञ्च मे॒ सूश्च॑ मे प्र॒सूश्च॑ मे॒ सीर॑ञ्च मे ल॒यश्च॑ म ऋ॒तञ्च॑ मे॒ऽमृत॑ञ्च मेऽय॒ख्ष्मञ्च॒ मेऽना॑मयच्च मे जी॒वातु॑श्च मे दीर्घायु॒त्वञ्च॑ मेऽनमि॒त्रञ्च॒ मेऽभ॑यञ्च मे सु॒गञ्च॑ मे॒ शय॑नञ्च मे सू॒षा च॑ मे सु॒दिन॑ञ्च मे ॥ [6]
+शञ्च॑ मे॒ मय॑श्च मे प्रि॒यञ्च॑ मेऽनुका॒मश्च॑ मे॒ काम॑श्च मे सौमन॒सश्च॑ मे भ॒द्रञ्च॑ मे॒ श्रेय॑श्च मे॒ वस्य॑श्च मे॒ यश॑श्च मे॒ भग॑श्च मे॒ द्रवि॑णञ्च मे य॒न्ता च॑ मे ध॒र्ता च॑ मे॒ ख्षेम॑श्च मे॒ धृति॑श्च मे॒ विश्व॑ञ्च [5] मे॒ मह॑श्च मे स॒व्ँविच्च॑ मे॒ ज्ञात्र॑ञ्च मे॒ सूश्च॑ मे प्र॒सूश्च॑ मे॒ सीर॑ञ्च मे ल॒यश्च॑ म ऋ॒तञ्च॑ मे॒ऽमृत॑ञ्च मेऽय॒ख्ष्मञ्च॒ मेऽना॑मयच्च मे जी॒वातु॑श्च मे दीर्घायु॒त्वञ्च॑ मेऽनमि॒त्रञ्च॒ मेऽभ॑यञ्च मे सु॒गञ्च॑ मे॒ शय॑नञ्च मे सू॒षा च॑ मे सु॒दिन॑ञ्च मे ॥ [6]
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शञ् च॑ मे॒  +++(कल्पताम्)+++ ।  
+शञ्च॑ मे॒ मय॑श्च मे 
 </details>
 <details><summary>मूलम्</summary>
 
-शञ्च॑ मे॒  +++(कल्पताम्)+++ ।  
+शञ्च॑ मे॒ मय॑श्च मे 
 </details>
 <details><summary>सायण-टीका</summary>
 
 शंशब्द ऐहिकसुखवाची ।  
-</details>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-मय॑श् च मे +++(कल्पताम्)+++ ।  
-</details>
-<details><summary>मूलम्</summary>
-
-मय॑श्च मे +++(कल्पताम्)+++ ।  
-</details>
-<details><summary>सायण-टीका</summary>
-
 मयःशब्द आमुष्मिकसुख वाची।  
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रि॒यञ् च॑ मे +++(कल्पताम्)+++ ।
+प्रि॒यञ्च॑ मेऽनुका॒मश्च॑ मे॒  
 </details>
 <details><summary>मूलम्</summary>
 
-प्रि॒यञ्च॑ मे +++(कल्पताम्)+++ ।
+प्रि॒यञ्च॑ मेऽनुका॒मश्च॑ मे॒
 </details>
 <details><summary>सायण-टीका</summary>
 
 प्रियं प्रीतिकारणं वस्तु ।  
-</details>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-अ॒नु॒ का॒मश् च॑  मे॒  +++(कल्पताम्)+++ ।  
-</details>
-<details><summary>मूलम्</summary>
-
-अ॒नु॒ का॒मश्च॑  मे॒  +++(कल्पताम्)+++ ।  
-</details>
-<details><summary>सायण-टीका</summary>
 
 अनुकामोऽनुकूलत्वनिमित्तेन काम्यमानः पदार्थः।  एतदुभयमैहिकामेव तारतम्योपेतम् ।  
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-काम॑श् च मे +++(कल्पताम्)+++ ।  
+काम॑श्च मे सौमन॒सश्च॑ मे  
 </details>
 <details><summary>मूलम्</summary>
 
-काम॑श्च मे +++(कल्पताम्)+++ ।  
+काम॑श्च मे सौमन॒सश्च॑ मे 
 </details>
 <details><summary>सायण-टीका</summary>
 
 काम आमुष्मिकः स्वर्गादिः ।  
-</details>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-सौ॒म॒न॒सश् च॑  मे +++(कल्पताम्)+++ ।  
-</details>
-<details><summary>मूलम्</summary>
-
-सौ॒म॒न॒सश्च॑  मे +++(कल्पताम्)+++ ।  
-</details>
-<details><summary>सायण-टीका</summary>
-
 सौमनसो मनःस्वास्थ्य करो बन्धुवर्गः ।  
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भ॒द्रञ् च॑ मे॒  +++(कल्पताम्)+++ ।  
+भ॒द्रञ्च॑ मे॒ श्रेय॑श्च मे॒
 </details>
 <details><summary>मूलम्</summary>
 
-भ॒द्रञ्च॑ मे॒  +++(कल्पताम्)+++ ।  
+भ॒द्रञ्च॑ मे॒ श्रेय॑श्च मे॒
 </details>
 <details><summary>सायण-टीका</summary>
 
 भद्रं कल्याणमिह लोके रमणीयम् ।  
-</details>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-श्रेय॑श् च मे॒  +++(कल्पताम्)+++ ।  
-</details>
-<details><summary>मूलम्</summary>
-
-श्रेय॑श्च मे॒  +++(कल्पताम्)+++ ।  
-</details>
-<details><summary>सायण-टीका</summary>
-
 श्रेय परलोकहितम् ।  
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वस्य॑श् च मे॒  +++(कल्पताम्)+++ ।  
+वस्य॑श्च मे॒ यश॑श्च मे॒
 </details>
 <details><summary>मूलम्</summary>
 
-वस्य॑श्च मे॒  +++(कल्पताम्)+++ ।  
+वस्य॑श्च मे॒ यश॑श्च मे॒
 </details>
 <details><summary>सायण-टीका</summary>
 
 वस्यो निवासहेतुर्गृहादिः ।  
-</details>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-यश॑श् च मे॒  +++(कल्पताम्)+++ ।  
-</details>
-<details><summary>मूलम्</summary>
-
-यश॑श्च मे॒  +++(कल्पताम्)+++ ।  
-</details>
-<details><summary>सायण-टीका</summary>
-
 यशः कीर्तिः ।  
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भग॑श् च मे॒  +++(कल्पताम्)+++ ।  
+भग॑श्च मे॒ द्रवि॑णञ्च मे
 </details>
 <details><summary>मूलम्</summary>
 
-भग॑श्च मे॒  +++(कल्पताम्)+++ ।  
+भग॑श्च मे॒ द्रवि॑णञ्च मे
 </details>
 <details><summary>सायण-टीका</summary>
 
 भगः सौभाग्यम् ।  
-</details>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-द्रवि॑णञ् च मे +++(कल्पताम्)+++ ।  
-</details>
-<details><summary>मूलम्</summary>
-
-द्रवि॑णञ्च मे +++(कल्पताम्)+++ ।  
-</details>
-<details><summary>सायण-टीका</summary>
-
 द्रविणं धनम् ।  
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य॒न्ता च॑ मे +++(कल्पताम्)+++ ।  
+य॒न्ता च॑ मे ध॒र्ता च॑ मे॒
 </details>
 <details><summary>मूलम्</summary>
 
-य॒न्ता च॑ मे +++(कल्पताम्)+++ ।  
+य॒न्ता च॑ मे ध॒र्ता च॑ मे॒
 </details>
 <details><summary>सायण-टीका</summary>
 
 यन्ता नियामक आचार्यदिः ।  
-</details>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-ध॒र्ता च॑ मे॒  +++(कल्पताम्)+++ ।  
-</details>
-<details><summary>मूलम्</summary>
-
-ध॒र्ता च॑ मे॒  +++(कल्पताम्)+++ ।  
-</details>
-<details><summary>सायण-टीका</summary>
-
 धर्ता पोषकः पित्रादिः ।  
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ख्षेम॑श् च मे॒  +++(कल्पताम्)+++ ।  
+ख्षेम॑श्च मे॒ धृति॑श्च मे॒
 </details>
 <details><summary>मूलम्</summary>
 
-ख्षेम॑श्च मे॒  +++(कल्पताम्)+++ ।  
+ख्षेम॑श्च मे॒ धृति॑श्च मे॒
 </details>
 <details><summary>सायण-टीका</summary>
 
 क्षेमो  
 २२३० विद्यमानधनस्य रक्षणशक्तिः ।  
-</details>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-धृति॑श् च मे॒  +++(कल्पताम्)+++ ।  
-</details>
-<details><summary>मूलम्</summary>
-
-धृति॑श्च मे॒  +++(कल्पताम्)+++ ।  
-</details>
-<details><summary>सायण-टीका</summary>
-
 धृतिर्धैर्यमापद्यपि निश्चलत्वम् ।  
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विश्व॑ञ् च मे॒ +++(कल्पताम्)+++ ।   
+विश्व॑ञ्च [5] मे॒ मह॑श्च मे
 </details>
 <details><summary>मूलम्</summary>
 
-विश्व॑ञ्च मे॒ +++(कल्पताम्)+++ ।   
+विश्व॑ञ्च [5] मे॒ मह॑श्च मे
 </details>
 <details><summary>सायण-टीका</summary>
 
 विश्वं सर्वजना नुकूल्यम् ।  
-</details>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-मह॑श् च मे +++(कल्पताम्)+++ ।  
-</details>
-<details><summary>मूलम्</summary>
-
-मह॑श्च मे +++(कल्पताम्)+++ ।  
-</details>
-<details><summary>सायण-टीका</summary>
-
 महः पूजा ।  
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒व्ँविच् च॑ मे॒  +++(कल्पताम्)+++ ।  
+स॒व्ँविच्च॑ मे॒ ज्ञात्र॑ञ्च मे॒
 </details>
 <details><summary>मूलम्</summary>
 
-स॒व्ँविच्च॑ मे॒  +++(कल्पताम्)+++ ।  
+स॒व्ँविच्च॑ मे॒ ज्ञात्र॑ञ्च मे॒
 </details>
 <details><summary>सायण-टीका</summary>
 
 संविद्वेदशास्त्रादिविज्ञानम् ।  
-</details>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-ज्ञात्र॑ञ् च मे॒  +++(कल्पताम्)+++ ।  
-</details>
-<details><summary>मूलम्</summary>
-
-ज्ञात्र॑ञ्च मे॒  +++(कल्पताम्)+++ ।  
-</details>
-<details><summary>सायण-टीका</summary>
 
 शात्रं ज्ञापयितृत्वसामर्थ्यम् ।  
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सूश् च॑ मे +++(कल्पताम्)+++ ।  
+सूश्च॑ मे प्र॒सूश्च॑ मे॒
 </details>
 <details><summary>मूलम्</summary>
 
-सूश्च॑ मे +++(कल्पताम्)+++ ।  
+सूश्च॑ मे प्र॒सूश्च॑ मे॒
 </details>
 <details><summary>सायण-टीका</summary>
 
 सूः पुत्रादिप्रेरणसामर्थ्यम् ।  
-</details>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-प्र॒सूश् च॑ मे॒  +++(कल्पताम्)+++ ।  
-</details>
-<details><summary>मूलम्</summary>
-
-प्र॒सूश्च॑ मे॒  +++(कल्पताम्)+++ ।  
-</details>
-<details><summary>सायण-टीका</summary>
-
 प्रसूर्भृत्यादिप्रेरणसामर्थ्यम् ।  
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सीर॑ञ् च मे +++(कल्पताम्)+++ ।  
+सीर॑ञ्च मे ल॒यश्च॑ म+
 </details>
 <details><summary>मूलम्</summary>
 
-सीर॑ञ्च मे +++(कल्पताम्)+++ ।  
+सीर॑ञ्च मे ल॒यश्च॑ म+
 </details>
 <details><summary>सायण-टीका</summary>
 
 सीरं लाङ्गलादिकृषि साधनसंपत्तिः ।  
-</details>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-ल॒यश् च॑ म +++(कल्पताम्)+++ ।
-</details>
-<details><summary>मूलम्</summary>
-
-ल॒यश्च॑ म +++(कल्पताम्)+++ ।
-</details>
-<details><summary>सायण-टीका</summary>
-
 लयस्तत्प्रतिबन्धनिवृत्तिः ।  
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऋ॒तञ् च॑ मे॒ +++(कल्पताम्)+++ ।
+ऋ॒तञ्च॑ मे॒ऽमृत॑ञ्च मे
 </details>
 <details><summary>मूलम्</summary>
 
-ऋ॒तञ्च॑ मे॒ +++(कल्पताम्)+++ ।
+ऋ॒तञ्च॑ मे॒ऽमृत॑ञ्च मे
 </details>
 <details><summary>सायण-टीका</summary>
 
 ऋतं यज्ञादिकर्म ।  
-</details>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-अ॒मृत॑ञ् च मे +++(कल्पताम्)+++ ।
-</details>
-<details><summary>मूलम्</summary>
-
-अ॒मृत॑ञ्च मे +++(कल्पताम्)+++ ।
-</details>
-<details><summary>सायण-टीका</summary>
-
 अमृतं तत्फलम् ।  
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒य॒ख्ष्मञ् च॒ मे +++(कल्पताम्)+++ ।
++ऽय॒ख्ष्मञ्च॒ मेऽना॑मयच्च मे 
 </details>
 <details><summary>मूलम्</summary>
 
-अ॒य॒ख्ष्मञ्च॒ मे +++(कल्पताम्)+++ ।
+ऽय॒ख्ष्मञ्च॒ मेऽना॑मयच्च मे 
 </details>
 <details><summary>सायण-टीका</summary>
 
 अयक्ष्मं राजयक्ष्मादिप्रबलव्याधिराहित्यम् ।  
-</details>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-अना॑मयच् च मे +++(कल्पताम्)+++ ।  
-</details>
-<details><summary>मूलम्</summary>
-
-अना॑मयच्च मे +++(कल्पताम्)+++ ।  
-</details>
-<details><summary>सायण-टीका</summary>
-
 अनामयज् ज्वराद्य्-अल्प-व्याधि-राहित्यम् ।  
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-जी॒वातु॑श् च मे +++(कल्पताम्)+++ ।  
+जी॒वातु॑श्च मे दीर्घायु॒त्वञ्च॑ मे
 </details>
 <details><summary>मूलम्</summary>
 
-जी॒वातु॑श्च मे +++(कल्पताम्)+++ ।  
+जी॒वातु॑श्च मे दीर्घायु॒त्वञ्च॑ मे
 </details>
 <details><summary>सायण-टीका</summary>
 
 जीवातुर्जीवनकारणं व्याधिपरिहारार्थमौषधम् ।  
-</details>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-दी॒र्घा॒यु॒त्वञ् च॑  मे +++(कल्पताम्)+++ ।
-</details>
-<details><summary>मूलम्</summary>
-
-दी॒र्घा॒यु॒त्वञ्च॑  मे +++(कल्पताम्)+++ ।
-</details>
-<details><summary>सायण-टीका</summary>
-
 दीर्घायुत्वमपमृत्सुराहित्यम् ।  
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒न॒मि॒त्रञ् च॑ मे +++(कल्पताम्)+++ ।
++ऽनमि॒त्रञ्च॒ मेऽभ॑यञ्च मे
 </details>
 <details><summary>मूलम्</summary>
 
-अ॒न॒मि॒त्रञ्च॑ मे +++(कल्पताम्)+++ ।
+ऽनमि॒त्रञ्च॒ मेऽभ॑यञ्च मे
 </details>
 <details><summary>सायण-टीका</summary>
 
 अनमित्रं वैरिराहित्यम् ।  
-</details>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-अभ॑यञ् च मे +++(कल्पताम्)+++ ।  
-</details>
-<details><summary>मूलम्</summary>
-
-अभ॑यञ्च मे +++(कल्पताम्)+++ ।  
-</details>
-<details><summary>सायण-टीका</summary>
-
 अभयं भयराहित्यम् ।  
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सु॒गञ् च॑ मे॒  +++(कल्पताम्)+++ ।  
+सु॒गञ्च॑ मे॒ शय॑नञ्च मे
 </details>
 <details><summary>मूलम्</summary>
 
-सु॒गञ्च॑ मे॒  +++(कल्पताम्)+++ ।  
+सु॒गञ्च॑ मे॒ शय॑नञ्च मे
 </details>
 <details><summary>सायण-टीका</summary>
 
 सुगं शोभनगमनं सर्वैरङ्गीकृताचरणमित्यर्थः ।  
-</details>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-शय॑नञ् च मे +++(कल्पताम्)+++ ।  
-</details>
-<details><summary>मूलम्</summary>
-
-शय॑नञ्च मे +++(कल्पताम्)+++ ।  
-</details>
-<details><summary>सायण-टीका</summary>
-
 शयनं शय्योपधानदिसंपत्तिः ।  
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सू॒षा च॑ मे +++(कल्पताम्)+++ ।  
+सू॒षा च॑ मे सु॒दिन॑ञ्च मे
 </details>
 <details><summary>मूलम्</summary>
 
-सू॒षा च॑ मे +++(कल्पताम्)+++ ।  
+सू॒षा च॑ मे सु॒दिन॑ञ्च मे
 </details>
 <details><summary>सायण-टीका</summary>
 
 सूषा स्नानसंध्यावन्दनादियुक्तः शोभनः प्रातःकालः ।  
-</details>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-सु॒दिन॑ञ् च मे +++(कल्पताम्)+++ ।  
-</details>
-<details><summary>मूलम्</summary>
-
-सु॒दिन॑ञ्च मे +++(कल्पताम्)+++ ।  
-</details>
-<details><summary>सायण-टीका</summary>
-
 सुदिनं यज्ञदानाध्ययनादियुक्तं कृत्स्नं दिनम् ॥  
+
 इति श्रीमत्सायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे कृष्णयजुर्वेदीयतैत्तिरीयसंहिताभाष्ये चतुर्थकाण्डे सप्तमप्रपाठके  तृतीयोऽनुवाकः ॥  
 ३ ॥  
 </details>
 </details>
-</div>  
-
-
+</div>
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/03_upasthAnam/02_sapta_te.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
@@ -1501,4 +1355,3 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 **ह॒विष्म॑न्तो॒ नम॑सा विधेम** ते ।
 </details>
 </div>
-

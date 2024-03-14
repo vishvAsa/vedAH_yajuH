@@ -1,7 +1,8 @@
 +++
-title = "२२ 'हेतयो नामस्थ' इति षट्पर्यायान्"
+title = "२२ 'हेतयो नामस्थ'"
 
 +++
+'हेतयो नामस्थ' इति षट्पर्यायान्
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/20_-25_hetayo_nAmastha.md">
 <details open><summary><h4>२० -२५ हेतयो नामस्थ ...{Loading}...</h4></summary>

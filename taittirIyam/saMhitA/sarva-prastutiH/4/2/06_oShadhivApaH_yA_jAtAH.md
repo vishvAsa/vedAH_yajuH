@@ -256,8 +256,11 @@ Slayer of Raksases, overpowerer of diseases.
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/09_niShkRtir_nAma.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-"निष्कृ॑ति॒र्" नाम॑ वो मा॒ताथा॑ यू॒यꣵ स्थ॒ "सङ्कृ॑तीः" ।  
-स॒राᳶ प॑त॒त्रिणीः᳚ **स्थन॒** यद् **आ॒मय॑ति॒ निष्कृ॑त** ।
+"निष्कृ॑ति॒र्" नाम॑ वो मा॒ता  
+ऽथा॑ यू॒यꣵ स्थ॒ "सङ्कृ॑तीः" ।  
+स॒राᳶ प॑त॒त्रिणीः᳚ **स्थन॒**  
+यद् **आ॒मय॑ति॒ निष्कृ॑त** ।
+
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/09_niShkRtir_nAma.md">

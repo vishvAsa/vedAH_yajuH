@@ -2,7 +2,7 @@
 title = "०३ ‘कृणुष्वपाज' इत्यनुवाकम्"
 
 +++
-'मदेचिदस्य' इत्यर्धर्चम् अपोह्य, 
+‘कृणुष्वपाज' इत्यनुवाकम् 'मदेचिदस्य' इत्यर्धर्चम् अपोह्य, 
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004_kRNuShva_pAjaH/">
 <details open><summary><h4>००४ कृणुष्व पाजः ...{Loading}...</h4></summary>

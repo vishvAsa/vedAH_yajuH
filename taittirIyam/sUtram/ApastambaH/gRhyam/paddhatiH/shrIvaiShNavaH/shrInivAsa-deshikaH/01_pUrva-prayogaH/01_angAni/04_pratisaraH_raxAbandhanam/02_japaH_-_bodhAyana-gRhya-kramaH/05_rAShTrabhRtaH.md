@@ -5,7 +5,10 @@ title = "०५ राष्ट्रभृतः"
 राष्ट्रभृतः,  
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mADabhUShi-vIrarAghavaH/01_pUrva-prayoga-chandrikA/02_angAni/02_udakashAntiH/03_japaH/14_RtAShADiti_sAnuShangam_anuvAkaM/">
-<details open><summary><h5>१४ 'ऋताषा'डिति सानुषङ्गम् अनुवाकं ...{Loading}...</h5></summary>
+<details open><summary><h5>१४ 'ऋताषा'डिति सानुषङ्गम् ...{Loading}...</h5></summary>
+
+'ऋताषा'डिति सानुषङ्गम् अनुवाकं
+
 <details open><summary>बोधायनीये विशेषः (श्रीनिवास-देशिकः)</summary>
 
 अत्रापि कश्चिद् विशेषः बोधायनीये दृश्यते,

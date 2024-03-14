@@ -2,6 +2,7 @@
 title = "०२ वेदादीन् जपित्वा"
 
 +++
+वेदादीन् जपित्वा
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH/vedAdayaH">
 <details open><summary><h4>वेदादयः ...{Loading}...</h4></summary>

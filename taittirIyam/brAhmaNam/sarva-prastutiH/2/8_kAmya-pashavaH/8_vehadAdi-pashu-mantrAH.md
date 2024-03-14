@@ -1206,17 +1206,13 @@ Die Rede hat vier abgegrenzte Gattungen; die sind bekannt den Brahmanen, welche 
 
 15यदुक्तं सूत्रकारेण 'श्रद्धायै वेहतम्' इति, तस्य पशोः सूक्ते वपायाः पुरोनुवाक्यामाह - 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/151/01_shraddhayAgniH_samidhyate.md">
-<details open><summary><h10>०१ श्रद्धयाग्निः समिध्यते ...{Loading}...</h10></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-
-श्र॒द्धया॒ ऽग्निः **समि॑ध्यते**  
-श्र॒द्धया॑ **हूयते** ह॒विः ।  
-श्र॒द्धां भग॑स्य मू॒र्धनि॒  
-वच॒सा **वे॑दयामसि** ॥
-
+श्र॒द्धया॒ऽग्निस्समि॑ध्यते ।  
+श्र॒द्धया॑ विन्दते ह॒विः ।   
+श्र॒द्धाम्भग॑स्य मू॒र्धनि॑ ।  
+वच॒सा वे॑दयामसि ।
 </details>
-</div>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/151/01_shraddhayAgniH_samidhyate.md">
 <details open><summary><h10>001 ...{Loading}...</h10></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -2282,9 +2278,9 @@ Den Glauben rufen Morgens wir, den Glauben in der Mittagszeit Den Glauben, wenn 
 <details open><summary><h8>विश्वास-प्रस्तुतिः ...{Loading}...</h8></summary>
 
 ब्रह्म॑ +++(=मन्त्रः ([सौरमण्डलयज्ञे]))+++ जज्ञा॒नं +++(=उत्पन्नम्)+++ प्र॑थ॒मं पु॒रस्ता॑द्  
-वि सी॑म॒तस् सु॒रुचो॑ वे॒न आ॑वः ।  
-स बु॒ध्न्या॑ +++(=मूले भवः ([खस्य सूर्यः]))+++ उप॒मा अ॑स्य वि॒ष्ठाः +++(=विस्थितः)+++,  
-स॒तश्च॒ योनि॒म् +++(सूर्यम्)+++ अस॑तश्च॒ विवः॑ +++(=विवृतवान्)+++  ।
+वि सी॑म॒तस् सु॒रुचो॑ वे॒न **आ॑वः** ।  
+स बु॒ध्न्या॑ +++(=मूले भवः ([खस्य सूर्यः]))+++ उप॒मा अ॑स्य **वि॒ष्ठाः** +++(=विस्थितः)+++,  
+स॒तश्च॒ योनि॒म् +++(सूर्यम्)+++ अस॑तश्च॒ **विवः॑** +++(=विवृतवान्)+++  ।
 
 </details>
 </div>

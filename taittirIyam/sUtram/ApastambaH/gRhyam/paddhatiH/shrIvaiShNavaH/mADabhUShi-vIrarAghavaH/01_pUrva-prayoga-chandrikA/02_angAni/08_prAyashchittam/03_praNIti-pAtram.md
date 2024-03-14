@@ -5,8 +5,8 @@ title = "०३ प्रणीति-पात्रम्"
 प्रणीति-पात्रं भिन्नं चेत्  
 'अभिन्नो घर्मो जीरदानुः यत आत्तस्तदगन्पुनः' इत्यभिमन्त्र्य 
 
-<div class="js_include" newlevelforh1="4" includetitle="false" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/68_abhinno_gharmo.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/68_abhinno_gharmo.md">
+<details open><summary><h4>68 अभिन्नो घर्मो ...{Loading}...</h4></summary>
 
 +++(भिन्ने ऽपि कपाले)+++ अभि॑न्नो घ॒र्मो +++(→यज्ञो)+++, जी॒र+++(=उदक)+++-दा॑नु॒र्  
 यत॒ आत्त॒स् तद् अ॑ग॒न् पुनः॑ ।
@@ -138,8 +138,8 @@ mayst thou not perish for me, yonder, in yonder world.
 
 'ततं म आपः' इति जुहुयात् । 
 
-<div class="js_include" newlevelforh1="4" includetitle="false" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/11_tatamma_Apastadu.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/11_tatamma_Apastadu.md">
+<details open><summary><h4>11 ततम्म आपस्तदु ...{Loading}...</h4></summary>
 
 त॒तम् म॒ आप॒स् तद् उ॑ तायते॒ पुनः॑ ।  
 स्वादि॑ष्ठा धी॒तिर्+++(=धारकं हविः)+++ उ॒चथा॑य+++(=कर्मणे)+++ शस्यते ।  
@@ -147,4 +147,3 @@ mayst thou not perish for me, yonder, in yonder world.
 स्वाहा॑-कृतस्य॒ सम् उ॑ तृप्णुत+++(=तृप्यत)++++ऋभुवः ।
 </details>
 </div>
-
