@@ -2185,7 +2185,20 @@ Be thou health and wealth to the sacrificer.
 
 11'इन्द्राय सुत्राम्णे पुरोडाशमेकादशकपालं निर्वपेदपरुद्धो वापरुद्ध्यमानो वा' इत्यस्य पुरोनुवाक्या - इन्द्रस्सुत्रामेति त्रिष्टुप् ॥ 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/091_sutrAmA_indraH/01_indraH_sutrAmA.md"></div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/091_sutrAmA_indraH/01_indraH_sutrAmA.md">
+<details open><summary><h5>०१ इन्द्रः सुत्रामा ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/047/12_indraH_sutrAmA.md">
+<details open><summary><h10>१२ इन्द्रः सुत्रामा ...{Loading}...</h10></summary>
+
+इन्द्रः॑ सु॒त्रामा॒ स्ववाँ॒+++(=स्ववान्)+++ अवो॑भिः  
+सुमृळी॒को **भ॑वतु** वि॒श्ववे॑दाः।  
+**बाध॑तां॒** द्वेषो॒, अभ॑यं नः **कृणोतु**  
+सु॒वीर्य॑स्य॒ पत॑यः **स्याम** ॥
+
+</details>
+</div>
+</details>
+</div>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/047/12_indraH_sutrAmA.md">
 <details open><summary><h5>012 ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
