@@ -199,7 +199,7 @@ title = "सन्ध्या-वन्दनादि-मन्त्र-स�
 ## गायत्री
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/26_AyAtu_varadA">
 <details open><summary><h5>२६ आयातु वरदा ...{Loading}...</h5></summary>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/26_AyAtu_varadA/01_AyAtu_varadA.md">
+<div class="js_include" newlevelforh1="4" includetitle="false" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/26_AyAtu_varadA/01_AyAtu_varadA.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
 +++(आरण्यक-स्वर-विकारम् उपेक्षते विश्वासः।)+++
@@ -1085,7 +1085,7 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 
 जले निमज्जने विनियोग आपस्तम्बगृह्यसूत्र उक्तः।
 </details>
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/190/01_RtaM_cha.md">
+<div class="js_include" newlevelforh1="3" includetitle="false" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/190/01_RtaM_cha.md">
 <details open><summary><h8>विश्वास-प्रस्तुतिः ...{Loading}...</h8></summary>
 
 
@@ -1096,7 +1096,7 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/190/02_samudrAdarNavAdadhi_saMvatsaro.md">
+<div class="js_include" newlevelforh1="3" includetitle="false" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/190/02_samudrAdarNavAdadhi_saMvatsaro.md">
 <details open><summary><h8>विश्वास-प्रस्तुतिः ...{Loading}...</h8></summary>
 
 
@@ -1107,7 +1107,7 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/190/03_sUryAchandramasau_dhAtA.md">
+<div class="js_include" newlevelforh1="3" includetitle="false" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/190/03_sUryAchandramasau_dhAtA.md">
 <details open><summary><h8>विश्वास-प्रस्तुतिः ...{Loading}...</h8></summary>
 
 

@@ -1334,7 +1334,7 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/03_upasthAnam/02_sapta_te.md">
+<div class="js_include" newlevelforh1="4" includetitle="false" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/03_upasthAnam/02_sapta_te.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 स॒प्त ते॑ अग्ने स॒मिध॑स्, स॒प्त जि॒ह्वास्  
