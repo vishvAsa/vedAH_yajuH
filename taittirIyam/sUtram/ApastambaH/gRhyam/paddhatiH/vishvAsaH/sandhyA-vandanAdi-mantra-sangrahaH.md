@@ -2,6 +2,20 @@
 title = "सन्ध्या-वन्दनादि-मन्त्र-सङ्ग्रहः"
 
 +++
+## दधिक्रावा
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/039/06_dadhikrAvNo_akAriShaM.md">
+<details open><summary><h5>०६ दधिक्राव्णो अकारिषं ...{Loading}...</h5></summary>
+
+
++++(pegasus-प्रोष्ठपदासु)+++ द॒धि॒-क्राव्णो॑ **अकारिषं**  
+जि॒ष्णोर् अश्व॑स्य वा॒जिनः॑ ।  
+**सु॒र॒भि** नो॒ मुखा॑ **कर॒त्**  
+प्र ण॒ **आयूँ॑षि तारिषत्** ।
+
+</details>
+</div>
+
 ## आपः
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/01_Apo_hi.md">
 <details open><summary><h2>०१ आपो हि ...{Loading}...</h2></summary>
@@ -34,20 +48,6 @@ title = "सन्ध्या-वन्दनादि-मन्त्र-स�
 </div>
 
 
-## दधिक्रावा
-
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/039/06_dadhikrAvNo_akAriShaM.md">
-<details open><summary><h5>०६ दधिक्राव्णो अकारिषं ...{Loading}...</h5></summary>
-
-
-+++(pegasus-प्रोष्ठपदासु)+++ द॒धि॒-क्राव्णो॑ **अकारिषं**  
-जि॒ष्णोर् अश्व॑स्य वा॒जिनः॑ ।  
-**सु॒र॒भि** नो॒ मुखा॑ **कर॒त्**  
-प्र ण॒ **आयूँ॑षि तारिषत्** ।
-
-</details>
-</div>
-
 
 ## मित्रः
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/1/06_ukhAsaMskAraH/04_mitrasya_charShaNIdhRtaH.md">
@@ -68,7 +68,14 @@ title = "सन्ध्या-वन्दनादि-मन्त्र-स�
 स॒त्याय॑ ह॒व्यं घृ॒तव॑द् **विधेम**॥
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/shAkalam/saMhitA/vishvAsa-prastutiH/03/059/02_pra_sa.md"></div>
+
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/059/02_pra_sa.md" newLevelForH1="5" includeTitle="false"> 
+
+प्र स मि॑त्र॒ मर्तो॑ **अस्तु॒ प्र-य॑स्+++(=यत्ने)+++-वा॒न्॒**,  
+यस् त॑ आदित्य॒ **शिक्ष॑ति** व्र॒तेन॑।  
+न ह॑न्यते॒ न जी॑यते॒ +++(यस्)+++ त्वोतो॒+++(=त्वद्रक्षितः)+++ - नैन॒म्  
+अꣳहो॑ अश्नो॒त्यन्ति॑तो॒ न दू॒रात् ॥
+</div>
 
 
 
@@ -192,7 +199,7 @@ title = "सन्ध्या-वन्दनादि-मन्त्र-स�
 ## गायत्री
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/26_AyAtu_varadA">
 <details open><summary><h5>२६ आयातु वरदा ...{Loading}...</h5></summary>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/26_AyAtu_varadA/01_AyAtu_varadA.md">
+<div class="js_include" newlevelforh1="4" includetitle="false" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/26_AyAtu_varadA/01_AyAtu_varadA.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
 +++(आरण्यक-स्वर-विकारम् उपेक्षते विश्वासः।)+++
@@ -1070,3 +1077,46 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 ॐ शान्तिः॒ शान्तिः॒ शान्तिः॒ ॥
 </details>
 </div>
+
+## स्नानम् - ऋतं च सत्यं च
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/190_RtaM_cha_satyaM_cha/">
+<details open><summary><h5>१९० ऋतं च सत्यं च ...{Loading}...</h5></summary>
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+जले निमज्जने विनियोग आपस्तम्बगृह्यसूत्र उक्तः।
+</details>
+<div class="js_include" newlevelforh1="3" includetitle="false" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/190/01_RtaM_cha.md">
+<details open><summary><h8>विश्वास-प्रस्तुतिः ...{Loading}...</h8></summary>
+
+
+ऋ॒तं च॑ स॒त्यं चा॒भी॑द्धा॒त्  
+तप॒सो ऽध्य॑जायत ।  
+ततो॒ रात्र्य् अ॑जायत॒  
+ततः॑ समु॒द्रो अ॑र्ण॒वः+++(←अर्णः = जलम्)+++ ॥
+
+</details>
+</div>
+<div class="js_include" newlevelforh1="3" includetitle="false" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/190/02_samudrAdarNavAdadhi_saMvatsaro.md">
+<details open><summary><h8>विश्वास-प्रस्तुतिः ...{Loading}...</h8></summary>
+
+
+स॒मु॒द्राद् अ॑र्ण॒वाद्+++(←अर्णः = जलम्)+++ अधि॑  
+संवत्स॒रो अ॑जायत ।  
+अ॒हो॒-रा॒त्राणि॑ वि॒दध॒द्  
+विश्व॑स्य +++(नेत्राभ्यां)+++ मिष॒तो +++(प्राणिजातस्य)+++ व॒शी +++(प्रजापतिर् demiurge)+++॥
+
+</details>
+</div>
+<div class="js_include" newlevelforh1="3" includetitle="false" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/190/03_sUryAchandramasau_dhAtA.md">
+<details open><summary><h8>विश्वास-प्रस्तुतिः ...{Loading}...</h8></summary>
+
+
+सू॒र्या॒-च॒न्द्र॒मसौ॑ धा॒ता  
+य॑था-पू॒र्वम् अ॑कल्पयत् ।  
+दिवं॑ च पृथि॒वीं चा॒न्तरि॑क्ष॒म् अथो॒ स्वः॑+++(=लोक-विशेषम्)+++ ॥
+
+</details>
+</div>
+</details>
+</div>
+
