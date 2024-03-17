@@ -989,7 +989,7 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 नमः॒ प्राच्यै॑ दि॒शे  
 याश्च॑ दे॒वता॑ ए॒तस्यां॒ प्रति॑वसन्त्ये॒ताभ्य॑श्च॒ नमः॑
 
-एवं - दक्षि॑णायै प्रती᳚च्यै उदी᳚च्यै ऊ॒र्ध्वायै॑, नमोऽध॑रायै …
+एवं - दक्षि॑णायै प्रती᳚च्यै उदी᳚च्यै ऊ॒र्ध्वायै॑, नमोऽध॑रायै, नमो॑ऽवान्त॒रायै॑ …
 
 ## परिधानीयम्
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/02_svAdhyAya-brAhmaNAdi/namo_brahmaNe.md">
