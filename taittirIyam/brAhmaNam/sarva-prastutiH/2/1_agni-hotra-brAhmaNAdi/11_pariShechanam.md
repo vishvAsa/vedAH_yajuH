@@ -1,5 +1,5 @@
 ---
-title:  ११, कालभेदेन समन्त्रकं परिषेचनम्
+title:  ११, परिषेचनम्
 unicode_script: devanagari
 ---
 

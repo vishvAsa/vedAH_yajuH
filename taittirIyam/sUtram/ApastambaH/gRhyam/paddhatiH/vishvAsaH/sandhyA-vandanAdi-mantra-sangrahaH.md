@@ -1048,3 +1048,6 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 </details>
 </div>
 
+## परिषेचनम्
+ऋ॒तन्त्वा॑ स॒त्येन॒ परि॑षिञ्चा॒मि।  
+स॒त्यन्त्व॒र्तेन॒ परि॑षिञ्चा॒मि।
