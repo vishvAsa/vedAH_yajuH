@@ -175,6 +175,10 @@ title = "११ राजसूयगता याज्यापुरोनु
 
 11'इन्द्राय ज्येष्ठाय पुरोडाशमेकादशकपालं महाव्रीहीणाम्' इत्यस्य पुरोनुवाक्या - ऐन्द्रेति गायत्री ॥ हे इन्द्र सानसिं संभजनीयाम् । सनोतेरसिप्रत्ययः, वृद्धिश्च निपात्यते । रयिं धनं सजित्वानं सर्वानरीन् जेतुं शीलं यस्य । 'अन्येभ्योपि दृश्यते' इति जयतेः क्वनिप् । यद्वा - जेतृभिस्सहितम् । 'परादिश्छन्दसि' इत्युत्तरपदाद्युदात्तत्वम् । सदासहं सर्वकालमरीणामभिभवितारं वर्षिष्ठं वृद्धतरं अतिप्रभूतं ईदृशं रयिमस्मभ्यं आभर । 'हृग्रहोः' इति भः । ऊतये रक्षणाय तर्पणाय वा । 'ऊतियूति' इत्यादिना क्तिन उदात्तत्वं निपात्यते ॥
 </details>
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+12तत्रैव याज्या - प्र ससाहिषे इति त्रिष्टुप् ॥ 
+</details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र स॑साहिषे पुरुहूत॒ शत्रू॒ञ्ज्येष्ठ॑स्ते॒ शुष्म॑ इ॒ह रा॒तिर॑स्तु ।   
@@ -187,7 +191,7 @@ title = "११ राजसूयगता याज्यापुरोनु
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
-12तत्रैव याज्या - प्र ससाहिषे इति त्रिष्टुप् ॥ हे इन्द्र पुरुहूत बहुभिराहूत शत्रून् प्रससाहिषे प्रकषेर्णाभिभवसि । छान्दसे लिटि 'तुजादानाम्' इत्यभ्यासस्य दीर्घत्वम् । यद्वा - अभ्यास योर्विपर्ययः । कस्मादेवमुच्यत इति चेत् ज्येष्ठः श्रेष्ठः प्रभूततमो वा ते तव शुष्मः बलम् । अत ख इहास्मिन् कर्मणि रातिः दानं हविषः तवैवास्तु त्वामेव यजामहे । 'मन्त्रे वृष' इति क्तिन उदात्तत्वम् । त्वं चास्मभ्यं दक्षिणेन हस्तेन वसूनि धनानि उदकादीनि आभर आहर । पूर्ववद्भत्वम्, 'अन्येषामपि दृश्यते' इति दक्षिणेत्यस्य दीर्घत्वम् । यस्मात्सिन्धूनां अपां रेवतीनां साधनानां पतिः पाता त्वमसि । रयेर्मतुब्बहुलम्' इति संप्रसारणत्वम् । यस्मात्पतिरसि, तस्मात्त्वमेब देहीत्युच्यते; बलत्त्वन्नाच्च तव दातुं नास्ति प्रतिबन्ध इति ॥
+हे इन्द्र पुरुहूत बहुभिराहूत शत्रून् प्रससाहिषे प्रकषेर्णाभिभवसि । छान्दसे लिटि 'तुजादानाम्' इत्यभ्यासस्य दीर्घत्वम् । यद्वा - अभ्यास योर्विपर्ययः । कस्मादेवमुच्यत इति चेत् ज्येष्ठः श्रेष्ठः प्रभूततमो वा ते तव शुष्मः बलम् । अत ख इहास्मिन् कर्मणि रातिः दानं हविषः तवैवास्तु त्वामेव यजामहे । 'मन्त्रे वृष' इति क्तिन उदात्तत्वम् । त्वं चास्मभ्यं दक्षिणेन हस्तेन वसूनि धनानि उदकादीनि आभर आहर । पूर्ववद्भत्वम्, 'अन्येषामपि दृश्यते' इति दक्षिणेत्यस्य दीर्घत्वम् । यस्मात्सिन्धूनां अपां रेवतीनां साधनानां पतिः पाता त्वमसि । रयेर्मतुब्बहुलम्' इति संप्रसारणत्वम् । यस्मात्पतिरसि, तस्मात्त्वमेब देहीत्युच्यते; बलत्त्वन्नाच्च तव दातुं नास्ति प्रतिबन्ध इति ॥
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -203,6 +207,10 @@ title = "११ राजसूयगता याज्यापुरोनु
 
 13अथैन्द्रे याज्यानुवाक्ये विकल्प्येते । तत्र पुरोनुवाक्या - त्वं सुतस्येति गायत्री ॥ हे इन्द्र त्वं सुतस्याभिषुतस्य सोमस्य पीतये सद्यो वृद्धो अजायथाः सर्वेषां ज्येष्ठभावाय [वः] तव भवति । हे सुक्रतो सुकर्मन् । तस्मात्सर्वज्येष्ठं त्वामेव यजामहे इति ॥
 </details>
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+14अथ याज्या - भुव इति गायत्री ॥ 
+</details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भु॒वस्त्वमि॑न्द्र॒ ब्रह्म॑णा म॒हान्भुवो॒ विश्वे॑षु॒ सव॑नेषु य॒ज्ञियः॑ ।   
@@ -215,22 +223,39 @@ title = "११ राजसूयगता याज्यापुरोनु
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
-14अथ याज्या - भुव इति गायत्री ॥ हे इन्द्र त्वं कर्म, ब्रह्मणा परिबृढेन श्रोत्रेण वा महान् भुवः असि सर्वैस्स्तूयमनो वर्धसे इत्यर्थः स्तूयमानानि तेजांसि वर्धन्ते । भवतेर्लेटि शपो लुक्, लेटोडागमः, 'भूसुवोस्तिङि' इति गुणाभावः पादादित्वान्न निहन्यते । भवसि च विश्वेषु सवनेषु यज्ञेषु यज्ञियः यागार्हः । 'यज्ञर्त्विग्भ्याम्' इति घः । विश्वस्मिन् भरे संग्रामे नॄन् नॄणां शत्रूणां च्यौत्नः च्यावयिता विनाशयिता । च्यवतेरौणादिकोत्नप्रत्ययः, वृद्धिश्चातोः । नृशब्दात् 'कर्तृकर्मणोः' इति षष्ठी व्यत्ययेन न प्रवर्तते । हे विश्वचर्षणे सर्वमनुष्यबद्धेऽपि मनुष्यास्त्वयि भवन्ति सत्त्वेन । यद्वा - विश्वस्य द्रष्टः, मन्त्रः मन्द्रः मननीत्यः स्तुतो वा । तस्मात्त्वमसि ज्येष्ठो भवसि च सर्वेषाम् । चशब्देन भुव इत्यनुकृष्यते ॥
+हे इन्द्र त्वं कर्म, ब्रह्मणा परिबृढेन श्रोत्रेण वा महान् भुवः असि सर्वैस्स्तूयमनो वर्धसे इत्यर्थः स्तूयमानानि तेजांसि वर्धन्ते । भवतेर्लेटि शपो लुक्, लेटोडागमः, 'भूसुवोस्तिङि' इति गुणाभावः पादादित्वान्न निहन्यते । भवसि च विश्वेषु सवनेषु यज्ञेषु यज्ञियः यागार्हः । 'यज्ञर्त्विग्भ्याम्' इति घः । विश्वस्मिन् भरे संग्रामे नॄन् नॄणां शत्रूणां च्यौत्नः च्यावयिता विनाशयिता । च्यवतेरौणादिकोत्नप्रत्ययः, वृद्धिश्चातोः । नृशब्दात् 'कर्तृकर्मणोः' इति षष्ठी व्यत्ययेन न प्रवर्तते । हे विश्वचर्षणे सर्वमनुष्यबद्धेऽपि मनुष्यास्त्वयि भवन्ति सत्त्वेन । यद्वा - विश्वस्य द्रष्टः, मन्त्रः मन्द्रः मननीत्यः स्तुतो वा । तस्मात्त्वमसि ज्येष्ठो भवसि च सर्वेषाम् । चशब्देन भुव इत्यनुकृष्यते ॥
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
 
-मि॒त्रस्य॑ चर्षणी॒धृत॒श्श्रवो॑ दे॒वस्य॑ सान॒सिम् ।   
-स॒त्यञ्चि॒त्रश्र॑वस्तमम् ।   
+15'मित्राय सत्यायाम्बानां चरुम्' इत्यस्य मैत्रस्य पुरोनुवाक्या - मित्रस्येति गायत्री ॥ 
 </details>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/1/06_ukhAsaMskAraH/04_mitrasya_charShaNIdhRtaH.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+मि॒त्रस्य॑ चर्षणी॒+++(मनुष्य)+++-**धृतः॒**  
+श्रवो॑+++(=श्रव्यो, शाकले अवो)+++ दे॒वस्य॑ **सान॒सिम्**+++(←सन् दाने)+++ ।  
+**स॒त्यं** चि॒त्र-श्र॑वस्तमम् ॥
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/1/06_ukhAsaMskAraH/04_mitrasya_charShaNIdhRtaH.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
-मि॒त्रस्य॑ चर्षणी॒धृत॒श्श्रवो॑ दे॒वस्य॑ सान॒सिम् ।   
-स॒त्यञ्चि॒त्रश्र॑वस्तमम् ।   
+मि॒त्रस्य॑ चर्षणी॒धृत॒श्श्रवो॑ दे॒वस्य॑ सान॒सिम् ।  
+द्यु॒म्नञ्चि॒त्रश्र॑वस्तमम् ।
+</details>
+<details><summary>सायण-टीका</summary>
+
+अथ तृतीयामाह— मित्रस्येति ।   चर्षणीधृतो मनुष्याणां धारयितुर्मित्रस्य देवस्य श्रवः श्रोतुं योग्यं यशो महदस्तीति शेषः।   सानसिं फलदानशीलं द्युम्नं द्रविणप्रदं चित्रश्रवस्तमं चित्रं श्रवः कीर्तिर्यस्यासौ चित्रश्रवाः, अतिशयेन तादृशस्तमेतादृशमुखारूपं स मित्रः पचत्विति शेषः।  
+देवान्तरपरित्यागेन मित्रदेवताकमन्त्रस्वीकारे कारणं दर्शयति— “वारुण्युखाऽसीद्धा मैत्रियोपैति शान्त्यै” (सं. का. ५ प्र. १ अ. ७) इति।  
+अभिद्धा प्रज्वलिता येयमुखा सेयमुग्रत्वाद्वारुणी, तस्या मैत्र्यच शान्तिर्भ-वति।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
-15'मित्राय सत्यायाम्बानां चरुम्' इत्यस्य मैत्रस्य पुरोनुवाक्या - मित्रस्येति गायत्री ॥ मित्रस्य देवस्य मित्रणादिकृतः चर्षणीधृतः मनुष्याणां धारयितुः श्रवः अन्नं यशो वा सानसिं सननीयं सर्वेषां, देयं वा सर्वेभ्यः । व्यत्ययेन 'स्वमोर्नपुंसकात्' इति लुक् ङि प्रवर्तते । सत्यमविनश्वरं चित्रश्रवस्तमं अतिशयेन चित्रं चायनीयं श्रवणमस्येति चायनीयः । यशस्तमं वा । तस्मात्त्वामेव यजामहे इति ॥
+**मित्रस्य** **देवस्य** मित्रणादिकृतः **चर्षणीधृतः** मनुष्याणां धारयितुः **श्रवः** अन्नं यशो वा **सानसिं** सननीयं सर्वेषां, देयं वा सर्वेभ्यः । व्यत्ययेन 'स्वमोर्नपुंसकात्' इति लुक् ङि प्रवर्तते । **सत्यम्** अविनश्वरं **चित्रश्रवस्तमं** अतिशयेन चित्रं चायनीयं श्रवणमस्येति चायनीयः । यशस्तमं वा । तस्मात्त्वामेव यजामहे इति ॥
 </details>
+</details>
+</div>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 16तत्रैव याज्या - मित्र इति त्रिष्टुप् ॥ 
@@ -239,10 +264,10 @@ title = "११ राजसूयगता याज्यापुरोनु
 <details open><summary><h5>मित्रो जनान् ...{Loading}...</h5></summary>
 
 
-मि॒त्रो जना॑न् यातयति प्रजा॒नन्,  
-मि॒त्रो दा॑धार पृथि॒वीम् उ॒त द्याम् ।  
-मि॒त्रᳵ कृ॒ष्टीर्+++(=मानुषान्)+++ अनि॑मिषा॒ ऽभि च॑ष्टे+++(=वीक्षते)+++,  
-स॒त्याय॑ ह॒व्यं घृ॒तव॑द् विधेम॥
+मि॒त्रो जना॑न् **यातयति** प्रजा॒नन्,  
+मि॒त्रो **दा॑धार** पृथि॒वीम् उ॒त द्याम् ।  
+मि॒त्रᳵ कृ॒ष्टीर्+++(=मानुषान्)+++ अनि॑मिषा॒ **ऽभि च॑ष्टे**+++(=वीक्षते)+++,  
+स॒त्याय॑ ह॒व्यं घृ॒तव॑द् **विधेम**॥
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/3/4/11_rAjasUyagatA_yAjyApuronuvAkyAH/mitro_janAn.md">
@@ -264,62 +289,1116 @@ title = "११ राजसूयगता याज्यापुरोनु
 </details>
 </details>
 </div>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+17अथ तत्रैव याज्या विकल्प्यते - प्र स मित्रेति त्रिष्टुप् । 
+</details>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/059/02_pra_sa.md">
+<details open><summary><h5>०२ प्र स ...{Loading}...</h5></summary>
+
+
+प्र स मि॑त्र॒ मर्तो॑ **अस्तु॒ प्र-य॑स्+++(=यत्ने)+++-वा॒न्॒**,  
+यस् त॑ आदित्य॒ **शिक्ष॑ति** व्र॒तेन॑।  
+न ह॑न्यते॒ न जी॑यते॒ +++(यस्)+++ त्वोतो॒+++(=त्वद्रक्षितः)+++ - नैन॒म्  
+अꣳहो॑ अश्नो॒त्यन्ति॑तो॒ न दू॒रात् ॥
+
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/059/02_pra_sa.md">
+<details open><summary><h5>002 ...{Loading}...</h5></summary>
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - मित्रः
+- ऋषिः - गाथिनो विश्वामित्रः
+- छन्दः - त्रिष्टुप्
+</details>
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 प्र स मि॑त्र॒ मर्तो॑ अस्तु॒ प्रय॑स्वा॒न्॒यस्त॑ आदित्य॒ शिख्ष॑ति व्र॒तेन॑ ।   
-न ह॑न्यते॒ न जी॑यते॒ त्वोतो॒ नैन॒मꣳहो॑ अश्ञो॒त्यन्ति॑तो॒ न दू॒रात् ।   
+न ह॑न्यते॒ न जी॑यते॒ त्वोतो॒ नैन॒मꣳहो॑ अश्ञो॒त्यन्ति॑तो॒ न दू॒रात् ।
 </details>
-<details><summary>मूलम्</summary>
+<details><summary>Thomson & Solcum</summary>
 
-प्र स मि॑त्र॒ मर्तो॑ अस्तु॒ प्रय॑स्वा॒न्॒यस्त॑ आदित्य॒ शिख्ष॑ति व्र॒तेन॑ ।   
-न ह॑न्यते॒ न जी॑यते॒ त्वोतो॒ नैन॒मꣳहो॑ अश्ञो॒त्यन्ति॑तो॒ न दू॒रात् ।   
+प्र꣡ स꣡ मित्र म꣡र्तो अस्तु प्र꣡यस्वान्  
+य꣡स् त आदित्य शि꣡क्षति व्रते꣡न  
+न꣡ हन्यते न꣡ जीयते तुवो꣡तो  
+नइ꣡नम् अं꣡हो अश्नोत्य् अ꣡न्तितो न꣡ दूरा꣡त्
+</details>
+<details><summary>Vedaweb annotation</summary>
+
+###### Strata
+Normal
+
+###### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+###### Morph
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+mártaḥ ← márta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mitra ← mitrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+práyasvān ← práyasvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+āditya ← ādityá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śíkṣati ← √śak- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT, mood:DES}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vraténa ← vratá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+hanyate ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+jīyate ← √jyā- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+tvótaḥ ← tvóta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áṁhaḥ ← áṁhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ántitas ← ántitas (invariable)  
+{}
+
+aśnoti ← √naś- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dūrā́t ← dūrá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+enam ← ena- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+</details>
+<details><summary>पद-पाठः</summary>
+
+प्र । सः । मि॒त्र॒ । मर्तः॑ । अ॒स्तु॒ । प्रय॑स्वान् । यः । ते॒ । आ॒दि॒त्य॒ । शिक्ष॑ति । व्र॒तेन॑ ।  
+न । ह॒न्य॒ते॒ । न । जी॒य॒ते॒ । त्वाऽऊ॑तः । न । ए॒न॒म् । अंहः॑ । अ॒श्नो॒ति॒ । अन्ति॑तः । न । दू॒रात् ॥
+</details>
+<details><summary>Hellwig Grammar</summary>
+
+-   *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *sa* ← *tad*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *mitra*
+- \[noun\], vocative, singular, masculine
+- “friend; Mitra; mitra \[word\]; sun; ally.”
+------------------------------------------------------------------------
+- *marto* ← *martaḥ* ← *marta*
+- \[noun\], nominative, singular, masculine
+- “man.”
+------------------------------------------------------------------------
+- *astu* ← *as*
+- \[verb\], singular, Present imperative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *prayasvān* ← *prayasvat*
+- \[noun\], nominative, singular, masculine
+- “offering.”
+------------------------------------------------------------------------
+- *yas* ← *yaḥ* ← *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *ta* ← *te* ← *tvad*
+- \[noun\], dative, singular
+- “you.”
+------------------------------------------------------------------------
+- *āditya*
+- \[noun\], vocative, singular, masculine
+- “sun; Aditya; Surya; āditya \[word\].”
+------------------------------------------------------------------------
+- *śikṣati* ← *śikṣ*
+- \[verb\], singular, Present indikative
+- “help; give.”
+------------------------------------------------------------------------
+- *vratena* ← *vrata*
+- \[noun\], instrumental, singular, neuter
+- “vrata (vote); commandment; law; oath; command; rule; custom; vrata
+    \[word\]; rule; behavior.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *hanyate* ← *han*
+- \[verb\], singular, Indikativ Pr￤s. Passiv
+- “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
+    paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
+    affect; strike; hammer; love; obstruct; shoot.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *jīyate* ← *ji*
+- \[verb\], singular, Indikativ Pr￤s. Passiv
+- “overcome; cure; win; conquer; control; win; succeed; remove; beat;
+    govern; surpass; suppress.”
+------------------------------------------------------------------------
+- *tvoto* ← *tvotaḥ* ← *tvota*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *nainam* ← *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *nainam* ← *enam* ← *enad*
+- \[noun\], accusative, singular, masculine
+- “this; he,she,it (pers. pron.).”
+------------------------------------------------------------------------
+- *aṃho* ← *aṃhaḥ* ← *aṃhas*
+- \[noun\], nominative, singular, neuter
+- “trouble; sin.”
+------------------------------------------------------------------------
+- *aśnoty* ← *aśnoti* ← *aś*
+- \[verb\], singular, Present indikative
+- “get; reach; enter (a state).”
+------------------------------------------------------------------------
+- *antito* ← *antitas*
+- \[adverb\]
+- “nearby.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *dūrāt*
+- \[adverb\]
+- “far.”
+------------------------------------------------------------------------
+</details>
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **आदित्य** **व्रतेन** यज्ञेन युक्तः **यः** मनुष्यः **ते** तुभ्यं **शिक्षति** हविर्लक्षणमन्नं ददाति हे **मित्र** **सः** **मर्तः** मनुष्यः **प्रयस्वान्** अन्नवान् **प्र** **अस्तु** प्रभवतु । **त्वोतः** त्वया रक्षितः सः मनुष्यः केनापि **न** **हन्यते** न बाध्यते । **न** **जीयते** नाभिभूयते च । **एनं** तुभ्यं हविर्दत्तवन्तं पुरुषम् **अंहः** पापम् **अन्तितः** समीपात् **न** **अश्नोति** न प्राप्नोति । **दूरात्** अपि **न** प्राप्नोति ॥ शिक्षतिर्दानकर्मा । व्यत्ययेन परस्मैपदम् । यद्वृत्तयोगादनिघातः । जीयते । जयतेः कर्मणि यकि  ‘ अकृत्सार्वधातुकयोः' इति दीर्घः । त्वोतः । तृतीया कर्मणि ' इति पूर्वपदस्वरः । अश्नोति । अशू व्याप्तौ । स्वादिः । व्यत्ययेन परस्मैपदम् ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
-17अथ तत्रैव याज्या विकल्प्यते - प्र स मित्रेति त्रिष्टुप् । 'प्रयस्वान्' इति प्रथमपादान्तः, 'त्वोतः' इति तृतीयपादान्तः ॥ हे मित्र स मर्तः मनुष्यः प्रयस्वान् अन्नवान् प्रास्तु प्रकर्षेण भवतु । क इत्याह – हे आदित्य अदितेः पुत्र यस्तव प्रीतेन कर्मणा यागादिना शिक्षति शक्तो भवितुमिच्छति अविघ्नेनान्वतिष्ठदित्यथः । शकेः 'सनि मीमा' इत्यादिना इस् । यद्वा - शिक्ष विद्योपादाने । व्रतेनेति, व्यत्ययेन द्वितीयाबहुवचनस्य स्थाने तृतीयैकवचनम् । व्रतानि शिक्षति पुनःपुनरभ्यस्यतीति । कस्मादेवमुच्यते इत्यत आह - न हन्यते न पीड्यते शत्रुभिः, व्याध्यादिभिश्च । न जीयते नाभिभूयते दारिद्र्यादिभिः । कः ? त्वोतः त्वया ऊतो रक्षितः । पृषोदरदत्वादिष्टस्वररूपसिद्धिः, 'तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् । किं च - नैनं त्वया रक्षितं अंहः पापं अन्तितः अन्तितः अन्तिके समीपे सन्तं न दूरात् सन्तम् । 'दूरान्तिकार्थेभ्यो द्वितीया च' इति पञ्चमी, 'कादिलोपो बहुलम्' इत्यन्तिकस्य लोपः । अतस्त्वामेव परिचरेमेति ॥
+'प्रयस्वान्' इति प्रथमपादान्तः, 'त्वोतः' इति तृतीयपादान्तः ॥ हे मित्र स मर्तः मनुष्यः प्रयस्वान् अन्नवान् प्रास्तु प्रकर्षेण भवतु । क इत्याह – हे आदित्य अदितेः पुत्र यस्तव प्रीतेन कर्मणा यागादिना शिक्षति शक्तो भवितुमिच्छति अविघ्नेनान्वतिष्ठदित्यथः । शकेः 'सनि मीमा' इत्यादिना इस् । यद्वा - शिक्ष विद्योपादाने । व्रतेनेति, व्यत्ययेन द्वितीयाबहुवचनस्य स्थाने तृतीयैकवचनम् । व्रतानि शिक्षति पुनःपुनरभ्यस्यतीति । कस्मादेवमुच्यते इत्यत आह - न हन्यते न पीड्यते शत्रुभिः, व्याध्यादिभिश्च । न जीयते नाभिभूयते दारिद्र्यादिभिः । कः ? त्वोतः त्वया ऊतो रक्षितः । पृषोदरदत्वादिष्टस्वररूपसिद्धिः, 'तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् । किं च - नैनं त्वया रक्षितं अंहः पापं अन्तितः अन्तितः अन्तिके समीपे सन्तं न दूरात् सन्तम् । 'दूरान्तिकार्थेभ्यो द्वितीया च' इति पञ्चमी, 'कादिलोपो बहुलम्' इत्यन्तिकस्य लोपः । अतस्त्वामेव परिचरेमेति ॥
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>Wilson</summary>
 
-यत् [45]  चि॒द्धि ते॒ विशो॑ यथा॒ प्र दे॑व वरुण व्र॒तम् ।   
-मि॒नी॒मसि॒ द्यवि॑द्यवि ।  
+###### English translation:
+
+“May that mortal enjoy abundance, **Mitra**, who presents you, **Āditya**, (with offerings) at the sacred rite; protected by you he is not harmed; he is not overcome by any one; son reaches him not, either from afar or nigh.”
 </details>
-<details><summary>मूलम्</summary>
+<details><summary>Jamison Brereton</summary>
 
-यत् [45]  चि॒द्धि ते॒ विशो॑ यथा॒ प्र दे॑व वरुण व्र॒तम् ।   
-मि॒नी॒मसि॒ द्यवि॑द्यवि ।  
+He who strives according to your commandment, o Mitra—let that  mortal, bringing pleasing offerings, be at the fore, o Āditya.  
+Helped by you, he is not crushed, nor is he conquered. No distress  
+reaches him from near nor from afar.
+</details>
+<details><summary>Griffith</summary>
+
+Foremost be he who brings thee food, O Mitra, who strives to keep thy sacred Law, Aditya.  
+     He whom thou helpest ne'er is slain or conquered, on him, from near or far, falls no affliction.
+</details>
+<details><summary>Macdonell</summary>
+
+Let him who, Mitra, brings thee food be foremost. Who to thy law, O Āditya, pays homage. Aided by thee no man is slain or vanquished; To him from near or far no trouble reaches.
+</details>
+<details><summary>Geldner</summary>
+
+Mitra! Der Sterbliche, der für dich eine Labung hat, soll den Vorrang haben, der dir, o Aditisohn, mit einem Gelübde dient. Von dir beschützt, wird er nicht erschlagen noch ausgeraubt; nicht trifft ihn Ungemach von nah oder fern.
+</details>
+<details><summary>Grassmann</summary>
+
+Der Mensch, o Mitra, sei vor allen glücklich, der dir, Aditja, dient nach deiner Satzung, Von dir beschützt trifft Tod ihn nicht, noch Drangsal, Gewaltthat nicht von nahe oder ferne.
+</details>
+<details><summary>Elizarenkova</summary>
+
+Да превзойдет (всех), о Митра, смертный, услаждающий (тебя) жертвой,  
+Кто старается для тебя, о Адитья, в соответствии с обетом!  
+Неистребим (и) непобедим поддерживаемый тобою,  
+Не настигнет его беда ни вблизи, ни издалека.
+</details>
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- मित्रः
+- गोपवन आत्रेयः सप्तवध्रिर्वा
+- त्रिष्टुप्
+- धैवतः
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+अब ईश्वर और आप्त विद्वान् के मित्रपन को अगले मन्त्र में कहते हैं।
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे (मित्र) मित्र यथार्थवक्ता विद्वान् वा जगदीश्वर ! (यः) जो (मर्त्तः) मनुष्य (प्रयस्वान्) प्रयत्नवाला (अस्तु) हो। और हे (आदित्य) अविनाशिस्वरूप ! जो मनुष्य (ते) आपके (व्रतेन) कर्म से जैसे वैसे अन्य जनों को (प्र, शिक्षति) विद्याग्रहण कराता वा आप ग्रहण करता है (सः) वह (त्वोतः) आपसे रक्षित अन्य जनों से (न) न (हन्यते) मारा जाता (न) और न (जीयते) जीता जाता है (एनम्) इसको (अन्तितः) समीप से (अंहः) पाप (न) नहीं (अश्नोति) प्राप्त होता और (न) न इसको (दूरात्) दूर से पाप प्राप्त होता है ॥२॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  जो मनुष्य यथार्थवक्ता और स्वामी के गुणकर्म और स्वभाव के सदृश अपने गुणकर्म और स्वभावों को करके सत्य न्याय से सबको शिक्षा करते हैं, वे पापरहित धर्मात्मा होकर यथार्थवक्ता और स्वामी से रक्षित हुए दुष्टों से नाश तथा पराजय को प्राप्त नहीं हो सकते और न वे दूर वा समीप से पक्षपात से पाप का सेवन करते हैं ॥२॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
+
+अन्वय:  हे मित्र आप्त विद्वञ्जगदीश्वर वा यो मर्त्तः प्रयस्वानस्तु हे आदित्य ! यो मनुष्यस्ते व्रतेनेवाऽन्यात्प्रशिक्षति स त्वोतोऽन्यैर्न हन्यते न जीयते। एनमन्तितोंऽहो नाऽश्नोति नैनं दूरादंहोऽश्नोति ॥२॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+अथेश्वराप्तमित्रतामाह।
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (प्र) (सः) (मित्र) सखे (मर्त्तः) मनुष्यः (अन्तु) भवतु (प्रयस्वान्) प्रयत्नवान् (यः) (ते) तव (आदित्य) अविनाशिस्वरूप (शिक्षति) विद्यां गृह्णाति ग्राहयति वा। अत्र व्यत्ययेन परस्मैपदम्। (व्रतेन) कर्मणेव (न) (हन्यते) (न) (जीयते) जेतुं शक्यते (त्वोतः) त्वया रक्षितः (न) (एनम्) (अंहः) पापम् (अश्नोति) प्राप्नोति (अन्तितः) समीपात् (न) (दूरात्) ॥२॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  ये मनुष्या आप्तेश्वरयोर्गुणकर्मस्वभाववत्स्वगुणकर्मस्वभावान्कृत्वा सत्यन्यायेन सर्वाञ्च्छिक्षन्ते ते निष्पापा धर्मात्मानो भूत्वाऽऽप्तेश्वराभ्यां रक्षिताः सन्तो दुष्टैर्हन्तुं पराजेतुं च न शक्यते। नैव ते दूरात्समीपाद्वा पक्षपातेन पापं भजन्ते ॥२॥
+</details>
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  जी माणसे विद्वान व ईश्वर यांच्या गुण, कर्म, स्वभावाप्रमाणे आपले गुण कर्म स्वभाव बनवून सत्य न्यायपूर्वक सर्वांना शिक्षण देतात ते निष्पाप धर्मात्मा बनून विद्वानांकडून व ईश्वराकडून रक्षित असतात. त्यांचा दुष्टांकडून नाश व पराजय होऊ शकत नाही. पक्षपात करून ते पापाचे सेवन करू शकत नाहीत. ॥ २ ॥
+</details>
+</details>
+</div>
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+18'वरुणाय धर्मपतये यवमयं चरुम्' इत्यस्य पुरोनुवाक्या - यच्चिदिति गायत्री ॥ 
+</details>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/025/01_yachchiddhi_te.md">
+<details open><summary><h2>०१ यच्चिद्धि ते ...{Loading}...</h2></summary>
+
+
+यच् चि॒द्+धि ते॒ विशो॑ यथा॒+++(=विश इव)+++,  
+प्र दे॑व वरुण व्र॒तम् ।  
+मि॒नी॒मसि॒+++(=तर्कयामः)+++ द्यवि॑-द्यवि+++(=दिने दिने)+++ ।
+
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/025/01_yachchiddhi_te.md">
+<details open><summary><h2>001 ...{Loading}...</h2></summary>
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - वरुणः
+- ऋषिः - शुनःशेप आजीगर्तिः
+- छन्दः - गायत्री
+</details>
+<details><summary>Thomson & Solcum</summary>
+
+य꣡च् चिद् धि꣡ ते वि꣡शो यथा  
+प्र꣡ देव वरुण व्रत꣡म्  
+मिनीम꣡सि द्य꣡वि-द्यवि
+</details>
+<details><summary>Vedaweb annotation</summary>
+
+##### Strata
+Strophic
+
+##### Pāda-label
+genre M  
+genre M  
+genre M
+##### Morph
+cit ← cit (invariable)  
+{}
+
+hí ← hí (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+víśaḥ ← víś- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yathā ← yathā (invariable)  
+{}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+varuṇa ← váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vratám ← vratá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dyávi-dyavi ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+minīmási ← √mī- 1 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+</details>
+<details><summary>पद-पाठः</summary>
+
+यत् । चि॒त् । हि । ते॒ । विशः॑ । य॒था॒ । प्र । दे॒व॒ । व॒रु॒ण॒ । व्र॒तम् ।  
+मि॒नी॒मसि॑ । द्यवि॑ऽद्यवि ॥
+</details>
+<details><summary>Hellwig Grammar</summary>
+
+-   *yacciddhi* ← *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *yacciddhi* ← *cit*
+- \[adverb\]
+- “even; indeed.”
+------------------------------------------------------------------------
+- *yacciddhi* ← *hi*
+- \[adverb\]
+- “because; indeed; for; therefore; hi \[word\].”
+------------------------------------------------------------------------
+- *te* ← *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *viśo* ← *viśaḥ* ← *viś*
+- \[noun\], nominative, plural, feminine
+- “people; tribe; Vaisya; national; viś; real property; Vaisya.”
+------------------------------------------------------------------------
+- *yathā*
+- \[adverb\]
+- “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
+------------------------------------------------------------------------
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *deva*
+- \[noun\], vocative, singular, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *varuṇa*
+- \[noun\], vocative, singular, masculine
+- “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
+    varuṇādi.”
+------------------------------------------------------------------------
+- *vratam* ← *vrata*
+- \[noun\], accusative, singular, neuter
+- “vrata (vote); commandment; law; oath; command; rule; custom; vrata
+    \[word\]; rule; behavior.”
+------------------------------------------------------------------------
+- *minīmasi* ← *mī*
+- \[verb\], plural, Present indikative
+- “transgress; damage.”
+------------------------------------------------------------------------
+- *dyavi* ← *div*
+- \[noun\], locative, singular
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *dyavi* ← *div*
+- \[noun\], locative, singular
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+</details>
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **वरुण** **यथा** लोके **विशः** प्रजाः कदाचित् प्रमादं कुर्वन्ति तथा वयमपि **ते** तव संबन्धि **यच्चिद्धि** यदेव किंचित् **व्रतं** कर्म **द्यविद्यवि** प्रतिदिनं **प्र** **मिनीमसि** प्रमादेन हिंसितवन्तः । तदपि व्रतं प्रमादपरिहारेण साङ्गं कुरु इति शेषः । यथा । लित्स्वरेण आद्युदात्तत्वे प्राप्ते यथेति पादान्ते' ( फि. सू. ८५ ) इति सर्वानुदात्तत्वम् । मिनीमसि । “ मीञ् हिंसायाम्'। 'इदन्तो मसि' । " क्र्यादिभ्यः श्ना' ।' मीनातेर्निगमे' (पा. सू. ७. ३. ८१ ) इति ह्रस्वत्वम् । ‘ई हल्यघोः ' (पा. सू. ६. ४. ११३ ) इति ईकारः । ‘सतिशिष्टस्वरबलीयस्त्वमन्यत्र विकरणेभ्यः' इति वचनात् तिङ एव स्वरः शिष्यते । यद्वृत्तयोगात् निघाताभावः ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
-18'वरुणाय धर्मपतये यवमयं चरुम्' इत्यस्य पुरोनुवाक्या - यच्चिदिति गायत्री ॥ हे देव वरुण यत्किंचित्ते त्वयि यद्व्रतं यागादिकं कर्म वयं विशः मनुष्यमात्रभूताः द्यविद्यवि दिनेदिने प्रमिनीमसि प्रतर्कयामः अविच्छेदेनानुष्ठातुमिच्छामः तत्तथा करोषि त्वमेव तस्मात् त्वामेव परिचरेमेति । मीञ् हिसायां, क्रय्यादिकः प्वादित्वाद्ध्रस्वत्वम्, 'इदन्तो मसि' प्रपूर्वोयं हिंसाभावे वर्तते । यथा प्रस्मरतीति स्मृत्यभावे, प्रतिष्ठतीति स्थित्यभावे, एवमिहापि द्रष्टव्यम् । यद्वा - यद्व्रतं प्रमिनीमः हिंसितवन्तः विशो यथा यथाजाता मष्याः उपतापादापूरयेमेति शेषः ॥
+हे देव वरुण यत्किंचित्ते त्वयि यद्व्रतं यागादिकं कर्म वयं विशः मनुष्यमात्रभूताः द्यविद्यवि दिनेदिने प्रमिनीमसि प्रतर्कयामः अविच्छेदेनानुष्ठातुमिच्छामः तत्तथा करोषि त्वमेव तस्मात् त्वामेव परिचरेमेति । मीञ् हिसायां, क्रय्यादिकः प्वादित्वाद्ध्रस्वत्वम्, 'इदन्तो मसि' प्रपूर्वोयं हिंसाभावे वर्तते । यथा प्रस्मरतीति स्मृत्यभावे, प्रतिष्ठतीति स्थित्यभावे, एवमिहापि द्रष्टव्यम् । यद्वा - यद्व्रतं प्रमिनीमः हिंसितवन्तः विशो यथा यथाजाता मष्याः उपतापादापूरयेमेति शेषः ॥
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>Wilson</summary>
 
-यत्किञ्चे॒दव्ँव॑रुण॒ दैव्ये॒ जने॑ऽभिद्रो॒हम्म॑नु॒ष्या᳚श्चरा॑मसि ।   
-अचि॑त्ती॒ यत्तव॒ धर्मा॑ युयोपि॒म मा न॒स्तस्मा॒देन॑सो देव रीरिषः ।   
+#### English translation:
+
+“Inasmuch as all people commit errors, so do we, divine **Varuṇa**, daily disfigure your worship by imperfections.”
 </details>
-<details><summary>मूलम्</summary>
+<details><summary>Jamison Brereton</summary>
 
-यत्किञ्चे॒दव्ँव॑रुण॒ दैव्ये॒ जने॑ऽभिद्रो॒हम्म॑नु॒ष्या᳚श्चरा॑मसि ।   
-अचि॑त्ती॒ यत्तव॒ धर्मा॑ युयोपि॒म मा न॒स्तस्मा॒देन॑सो देव रीरिषः ।   
+Even if every day we confound your commandment, o god Varuṇa, as clans (do their king’s commandment),
+</details>
+<details><summary>Griffith</summary>
+
+WHATEVER law of thine, O God, O Varuna, as we are men,  
+     Day after day we violate.
+</details>
+<details><summary>Geldner</summary>
+
+Wenn wir gleich Tag für Tag wie die Untertanen dein Gebot übertreten, Gott Varuna,
+</details>
+<details><summary>Grassmann</summary>
+
+Wie sehr wir auch, o Varuna, verletzen dein Gebot, o Gott, Nach Menschen Weise Tag für Tag,
+</details>
+<details><summary>Elizarenkova</summary>
+
+Если, о бог Варуна,  
+Мы станем нарушать изо дня в день  
+Твой завет, как племена (- завет царя),
+</details>
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- वरुणः
+- शुनःशेप आजीगर्तिः
+- गायत्री
+- षड्जः
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+अब पच्चीसवें सूक्त का प्रारम्भ है। उसके पहिले मन्त्र में परमेश्वर ने दृष्टान्त के साथ अपनी प्रार्थना का प्रकाश किया है॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे (देव) सुख देनेवाले (वरुण) उत्तमों में उत्तम जगदीश्वर ! आप (यथा) जैसे अज्ञान से किसी राजा वा मनुष्य के (विशः) प्रजा वा सन्तान आदि (द्यविद्यवि) प्रतिदिन अपराध करते हैं, किन्हीं कामों को नष्ट कर देते हैं, वह उन पर न्याययुक्त दण्ड और करुणा करता है, वैसे ही हम लोग (ते) आपके (यत्) जो (व्रतम्) सत्य आचरण आदि नियम हैं (हि) उन को कदाचित् (प्रमिणीमसि) अज्ञानपन से छोड़ देते हैं, उसका यथायोग्य न्याय (चित्) और हमारे लिये करुणा करते हैं॥१॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  इस मन्त्र में उपमालङ्कार है। हे भगवन् जगदीश्वर ! जैसे पिता आदि विद्वान् और राजा छोटे-छोटे अल्पबुद्धि उन्मत्त बालकों पर करुणा, न्याय और शिक्षा करते हैं, वैसे ही आप भी प्रतिदिन हमारे न्याय करुणा और शिक्षा करनेवाले हों॥१॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
+
+अन्वय:  हे देव वरुण जगदीश्वर ! त्वं यथाऽज्ञानात्कस्यचिद्राज्ञो मनुष्यस्य वा विशः प्रजाः सन्तानादयो वा द्यविद्यव्यपराध्यन्ति कदाचित्कार्याणि हिंसन्ति स तन्न्यायं करुणां च करोति, तथैव वयं ते तव यद्व्रतं हि प्रमिणीमस्यस्मभ्यं तन्न्यायं करुणां चित्करोषि॥१॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+तत्रादौ प्रथममन्त्रे दृष्टान्तेन जगदीश्वरस्य प्रार्थना प्रकाश्यते॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (यत्) स्पष्टार्थः (चित्) अपि (हि) कदाचिदर्थे (ते) तव (विशः) प्रजाः (यथा) येन प्रकारेण (प्र) क्रियायोगे (देव) सुखप्रद (वरुण) सर्वोत्कृष्ट जगदीश्वर ! (व्रतम्) सत्याचरणम् (मिनीमसि) हिंस्मः। अत्र इदन्तो मसि इति मसेरिदागमः। (द्यविद्यवि) प्रतिदिनम्। अत्र वीप्सायां द्विर्वचनम्। द्यविद्यवीत्यहर्नामसु पठितम्। (निघं०१.९)॥१॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  अत्रोपमालङ्कारः। हे भगवन् यथा पित्रादयो विद्वांसो राजानश्च क्षुद्राणां बालबुद्धीनामुन्मत्तानां वा बालकानामुपरि करुणां न्यायशिक्षां च विदधति, तथैव भवानपि प्रतिदिनमस्माकं न्यायाधीशः करुणाकरः शिक्षको भवत्विति॥१॥
+</details>
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - विषयः</summary>
+
+चोविसाव्या सूक्तात सांगितलेल्या प्रजापती इत्यादी अर्थांमध्ये जो वरुण शब्द आहे त्याचा अर्थ या पंचविसाव्या सूक्तात सांगितल्याने या सूक्ताच्या अर्थाची संगती पहिल्या सूक्ताच्या अर्थाबरोबर जाणली पाहिजे. ॥
+</details>
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  या मंत्रात उपमालंकार आहे. जसा पिता, विद्वान व राजा क्षुद्र बालबुद्धीच्या उन्मत्त माणसांना व संतानांना न्याययुक्त दंड देतात, जसे तुम्ही सतत आमच्यावर करुणा दर्शवून यथायोग्य न्याय व शिक्षण देता. ॥ १ ॥
+</details>
+</details>
+</div>
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+19तत्रैव याज्या - 
+</details>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/089/05_yatkiM_chedaM.md">
+<details open><summary><h2>०५ यत्किं चेदं ...{Loading}...</h2></summary>
+
+
+यत् किं चे॒दं व॑रुण॒ दैव्ये॒+++(←देव+यञ्)+++ जने॑+++(देवेषु)+++,  
+ऽभिद्रो॒हं म॑नु॒ष्या॑श् चरा॑मसि।   
+अचि॑त्ती॒ यत् तव॒ धर्मा॑ युयोपि॒म+++(विनाशयामः)+++,  
+मा न॒स् तस्मा॒द् एन॑सो देव रीरिषः ॥
+
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/089/05_yatkiM_chedaM.md">
+<details open><summary><h2>005 ...{Loading}...</h2></summary>
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - वरुणः
+- ऋषिः - वसिष्ठः
+- छन्दः - जगती
+</details>
+<details><summary>Thomson & Solcum</summary>
+
+य꣡त् किं꣡ चेदं꣡ वरुण दइ꣡विये ज꣡ने  
+अभिद्रोह꣡म् मनुषि꣡याश् च꣡रामसि  
+अ꣡चित्ती य꣡त् त꣡व ध꣡र्मा युयोपिम꣡  
+मा꣡ नस् त꣡स्माद् ए꣡नसो देव रीरिषः
+</details>
+<details><summary>Vedaweb annotation</summary>
+
+##### Strata
+Cretic
+
+##### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+##### Morph
+ca ← ca (invariable)  
+{}
+
+daívye ← daívya- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+jáne ← jána- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+varuṇa ← váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+abhidrohám ← abhidrohá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cárāmasi ← √carⁱ- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+manuṣyā̀ḥ ← manuṣyà- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ácittī ← ácitti- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+dhárma ← dhárman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yuyopimá ← √yup- (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+énasaḥ ← énas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rīriṣaḥ ← √riṣ- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+tásmāt ← sá- ~ tá- (pronoun)  
+{case:ABL, gender:M, number:SG}
+
+</details>
+<details><summary>पद-पाठः</summary>
+
+यत् । किम् । च॒ । इ॒दम् । व॒रु॒ण॒ । दैव्ये॑ । जने॑ । अ॒भि॒ऽद्रो॒हम् । म॒नु॒ष्याः॑ । चरा॑मसि ।  
+अचि॑त्ती । यत् । तव॑ । धर्म॑ । यु॒यो॒पि॒म । मा । नः॒ । तस्मा॑त् । एन॑सः । दे॒व॒ । रि॒रि॒षः॒ ॥
+</details>
+<details><summary>Hellwig Grammar</summary>
+
+-   *yat* ← *yad*
+- \[noun\], accusative, singular, neuter
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *kiṃ* ← *kim* ← *ka*
+- \[noun\], accusative, singular, neuter
+- “what; who; ka \[pronoun\].”
+------------------------------------------------------------------------
+- *cedaṃ* ← *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *cedaṃ* ← *idam*
+- \[noun\], accusative, singular, neuter
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *varuṇa*
+- \[noun\], vocative, singular, masculine
+- “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
+    varuṇādi.”
+------------------------------------------------------------------------
+- *daivye* ← *daivya*
+- \[noun\], locative, singular, masculine
+- “divine; divine; celestial.”
+------------------------------------------------------------------------
+- *jane* ← *jana*
+- \[noun\], locative, singular, masculine
+- “people; national; man; relative; jan; Janaloka; person; jana
+    \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
+------------------------------------------------------------------------
+- *'bhidroham* ← *abhidroham* ← *abhidroha*
+- \[noun\], accusative, singular, masculine
+- “misdemeanor.”
+------------------------------------------------------------------------
+- *manuṣyāś* ← *manuṣyāḥ* ← *manuṣya*
+- \[noun\], nominative, plural, masculine
+- “man; people; man; manuṣya \[word\].”
+------------------------------------------------------------------------
+- *carāmasi* ← *car*
+- \[verb\], plural, Present indikative
+- “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
+    observe; enter (a state); observe; cause; crop; behave; practice;
+    heed; process; administer.”
+------------------------------------------------------------------------
+- *acittī* ← *acitti*
+- \[noun\], instrumental, singular, feminine
+- “ignorance.”
+------------------------------------------------------------------------
+- *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *tava* ← *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *dharmā* ← *dharman*
+- \[noun\], accusative, plural, neuter
+- “regulation; Dharma; law; property.”
+------------------------------------------------------------------------
+- *yuyopima* ← *yup*
+- \[verb\], plural, Perfect indicative
+------------------------------------------------------------------------
+- *mā*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *nas* ← *naḥ* ← *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *tasmād* ← *tasmāt* ← *tad*
+- \[noun\], ablative, singular, neuter
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *enaso* ← *enasaḥ* ← *enas*
+- \[noun\], ablative, singular, neuter
+- “sin; calamity; blame.”
+------------------------------------------------------------------------
+- *deva*
+- \[noun\], vocative, singular, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *rīriṣaḥ* ← *riṣ*
+- \[verb\], singular, Aorist inj. (proh.)
+- “suffer; harm.”
+------------------------------------------------------------------------
+</details>
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **वरुण** **दैव्ये** देवसमूहरूपे **जने** **यत्** **इदं** किंचन **अभिद्रोहम** अपकारजातं **मनुष्याः** वयं **चरामसि** चरामः निर्वर्तयामः । तथा **अचित्ती** अचित्त्याज्ञानेन **तव** त्वदीयं **यत्** **धर्म** धारकं कर्म **युयोपिम** वयं विमोहितवन्तः । हे **देव** **तस्मादेनसः** पापात् **नः** अस्मान **मा** **रीरिषः** मा हिंसीः ॥ ॥ ११ ॥ ॥५॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
-19तत्रैव याज्या - यत्किं चेदमिति जगती - हे वरुण देव दैव्ये देवप्रभवे जने । 'देवाद्यञञौ इति यञ् । तद्विषये किंचित् स्वल्पमपि वा अभिद्रोहं अभितो द्रोहं मनुष्या वयं मनुष्यस्वभावात्संभाव्यमानप्रमादाः यदिदं चरामसि चरामः 'इदन्तो मसि' । इद्मिति क्रियाविशेषणम् । किंच - यत्तव धर्मा धर्माणि । 'शेश्छन्दसि' इति लोपः । अचित्ती अचित्त्या अज्ञानेन । 'सुपां सुलुक्' इति पूर्वसवर्णः । युयोपिम विनाशयामः । युपु विमोहने, ण्यन्ताच्छान्दसः आर्धधातुकत्वाण्णिलोपः । तस्मादेनसः पापादभिद्रोहलक्षणाद्धर्मविलोपलक्षणाच्च हेतुभूतान्नः अस्मान्मा रीरिषः, अपि तु अनुगृहाणैव ॥
+यत्किं चेदमिति जगती - हे वरुण देव दैव्ये देवप्रभवे जने । 'देवाद्यञञौ इति यञ् । तद्विषये किंचित् स्वल्पमपि वा अभिद्रोहं अभितो द्रोहं मनुष्या वयं मनुष्यस्वभावात्संभाव्यमानप्रमादाः यदिदं चरामसि चरामः 'इदन्तो मसि' । इद्मिति क्रियाविशेषणम् । किंच - यत्तव धर्मा धर्माणि । 'शेश्छन्दसि' इति लोपः । अचित्ती अचित्त्या अज्ञानेन । 'सुपां सुलुक्' इति पूर्वसवर्णः । युयोपिम विनाशयामः । युपु विमोहने, ण्यन्ताच्छान्दसः आर्धधातुकत्वाण्णिलोपः । तस्मादेनसः पापादभिद्रोहलक्षणाद्धर्मविलोपलक्षणाच्च हेतुभूतान्नः अस्मान्मा रीरिषः, अपि तु अनुगृहाणैव ॥
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>Wilson</summary>
 
-कि॒त॒वासो॒ यद्रि॑रि॒पुर्न दी॒वि यद्वा॑ घा स॒त्यमु॒त यन्न वि॒द्म ।   
-सर्वा॒ ता वि ष्य॑ शिथि॒रेव॑ दे॒वाथा॑ ते स्याम वरुण प्रि॒यासः॑ ॥ [46]  
+#### English translation:
+
+“Whatever the offence which we men commit **Varuṇa** against divine beings, whatever law of yours wemay through ignorance violate, do not you, divine Varuṇa, punish us on account of that iniquity.”
 </details>
-<details><summary>मूलम्</summary>
+<details><summary>Jamison Brereton</summary>
 
-कि॒त॒वासो॒ यद्रि॑रि॒पुर्न दी॒वि यद्वा॑ घा स॒त्यमु॒त यन्न वि॒द्म ।   
-सर्वा॒ ता वि ष्य॑ शिथि॒रेव॑ दे॒वाथा॑ ते स्याम वरुण प्रि॒यासः॑ ॥ [46]  
+Whatever this deceit that we humans practice against the divine race, o  Varuṇa,  
+if by inattention we have erased your ordinances, do not harm us  
+because of that guilt, o god.
+</details>
+<details><summary>Griffith</summary>
+
+O Varuna, whatever the offence may be which we as men commit against the heavenly host,  
+     When through our want of thought we violate thy laws, punish us not, O God, for that iniquity.
+</details>
+<details><summary>Geldner</summary>
+
+Was wir Menschen auch als Frevel am göttlichen Volke hier begehen, o Varuna, wenn wir unwissentlich deine Gesetze gestört haben, so sollst du um dieser Sünde willen uns nicht zu Schaden bringen, o Gott.
+</details>
+<details><summary>Grassmann</summary>
+
+Was wir auch hier, o Varuna, nach Menschen Art für Unrecht üben am Geschlecht der Himmlischen, wenn wir verletzten dein Gesetz aus Unverstand, so strafe nicht um diese Sünde uns, o Gott.
+</details>
+<details><summary>Elizarenkova</summary>
+
+Если против божественного рода, о Варуна, какой-нибудь  
+Проступок мы, люди, здесь совершаем,  
+Или если по неразумению нарушили твои законы,  
+Не карай нас, о бог, за этот грех!
+</details>
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- वरुणः
+- वसिष्ठः
+- पादनिचृज्ज्गती
+- निषादः
+</details>
+<details><summary>आर्यमुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (वरुण) हे परमात्मन् ! (दैव्ये, जने) मनुष्यसमुदाय में (यत्, किञ्च) जो कुछ (इदं) यह (अभिद्रोहं) द्वेष का भाव (मनुष्याः) हम मनुष्य लोग (चरामसि) करते हैं और (अचित्ती) अज्ञानी होकर (यत्) जो (तव) तुम्हारे (धर्म्मा) धर्म्मों को (युयोपिम) त्यागते हैं, (तस्मादेनसः) उन पापों से (देव) हे देव ! (नः) हमको (मा, रीरिषः) मत त्यागिये॥५॥
+</details>
+<details><summary>आर्यमुनि - भावार्थः</summary>
+
+भावार्थभाषाः -  इस मन्त्र में उन पापों से क्षमा माँगी गई है, जो अज्ञान से किये जाते हैं अथवा यों कहो कि जो प्रत्यवायरूप पाप हैं, उनके विषय में यह क्षमा की प्रार्थना है। परमात्मा ऐसे पाप को क्षमा नहीं करता, जिससे उसके न्यायरूपी नियम पर दोष आवे, किन्तु यदि कोई पुरुष परमात्मा के सम्बन्ध-विषयक अपने कर्त्तव्य को पूरा नहीं करता, उस पुरुष को अपने सम्बन्धविषयक परमात्मा क्षमा कर देता है। अन्यविषयक किये हुए पाप को क्षमा करने से परमात्मा अन्यायी ठहरता है। वैदिक धर्म्म में यह विशेषता है कि इसमें अन्य धर्म्मों के समान सब पापों की क्षमा करने से परमात्मा अन्यायकारी ठहरता है, इसी अभिप्राय से मन्त्र में ‘तव धर्म्मा’ यह कथन किया है कि परमात्मा के सम्बन्ध में सन्ध्या-वन्दनादि जो कर्म्म हैं, उनमें त्रुटि होने से भी परमात्मा क्षमा कर देता है, अन्यों से नहीं ॥ जो लोग आर्य्यधर्म्म में यह दोष लगाया करते हैं कि वैदिक धर्म्म में परमात्मा सर्वथा निर्दयी है, वह किसी विषय में भी दया नहीं करता। यह उनकी अत्यन्त भूल है और अज्ञान से किये हुए पाप में भी परमात्मा क्षमा कर देता है, इस बात को मन्त्र में स्पष्ट रीति से वर्णन किया है। कई एक टीकाकारों ने इस प्रकरण को वरुण देवता की उपासना करने में और जल में डूबते हुए पुरुष के बचाने के विषय में लगाया है और ऐसे अर्थ करने में उन्होंने अत्यन्त भूल की है। जब इस प्रकरण में ऐसी-ऐसी दर्शन की उच्च बातों का वर्णन है कि परमात्मा किन-किन पापों को क्षमा करता है और किन-किन को नहीं, तो इस में जल में डूबनेवाले पुरुष की क्या कथा ? इसलिये पूर्व मन्त्र में ‘अपां मध्ये’ के अर्थ प्राणमयकोष के हैं अथवा ‘अपां’ के अर्थ कर्मों में बद्ध जीव के हैं क्योंकि यह संगति इस ११ वें मन्त्र से है और इस वर्ग की समाप्ति तक यही प्रकरण है। जो लोग यह कहा करते हैं वि वेदों में कर्त्तव्य कर्म्मों का विधान नहीं, वेद प्राकृत बातों का वर्णन करते हैं, उनको ऐसे सूक्तों का ध्यान रखना अत्यन्त आवश्यक है ॥५॥ यह ८९वाँ सूक्त, ५वाँ अनुवाक और ११वाँ वर्ग समाप्त हुआ ॥
+</details>
+<details><summary>आर्यमुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (वरुण) हे परमात्मन् ! (दैव्ये, जने) सतां समुदाये (यत्, किञ्च) यत् किञ्चिदपि (इदम्) एतत् (अभि, द्रोहम्) द्वेषभावं (मनुष्याः) वयं नरः (चरामसि) कुर्मः, तथा (अचित्ती) ज्ञानरहितः सन् (यत्) यत्किञ्चित् (तव) ते (धर्मा) धर्मं (युयोपिम) त्यजामि (तस्मात्, एनसः) ततोऽपराधात् (देव) हे दिव्यात्मन् ! (नः) अस्मान् (मा, रीरिषः) मा हिंसीः ॥५॥ एकोननवतितमं सूक्तं पञ्चमोऽनुवाक एकादशो वर्गश्च समाप्तः।
+</details>
+</details>
+</div>
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+20तत्रैव याज्याविकल्पः - कितवास इति त्रिष्टुप् ॥ 
+</details>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/085/08_kitavAso_yadriripurna.md">
+<details open><summary><h2>०८ कितवासो यद्रिरिपुर्न ...{Loading}...</h2></summary>
+
+
++++(ऋत्विजः)+++ कि॒त॒वासो॒ यद् रि॑रि॒पुर्+++(=लिलिपुः)+++ न दी॒वि+++(देवकर्मणि)+++,  
+यद् वा॑ ऽघा स॒त्यम् उ॒त यन् न वि॒द्म ।  
+सर्वा॒ ता विष्य॑+++(=विनाशय)+++ शिथि॒रेव॑+++(=शिथिला +इव)+++  
+दे॒वाथा॑ ते स्याम वरुण प्रि॒यासः॑ ॥
+
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/085/08_kitavAso_yadriripurna.md">
+<details open><summary><h2>008 ...{Loading}...</h2></summary>
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - वरुणः
+- ऋषिः - भौमोत्रिः
+- छन्दः - त्रिष्टुप्
+</details>
+<details><summary>Thomson & Solcum</summary>
+
+कितवा꣡सो य꣡द् रिरिपु꣡र् न꣡ दीवि꣡  
+य꣡द् वा घा सत्य꣡म् उत꣡ य꣡न् न꣡ विद्म꣡  
+स꣡र्वा ता꣡ वि꣡ ष्य शिथिरे꣡व देव  
+अ꣡धा ते स्याम वरुण प्रिया꣡सः
+</details>
+<details><summary>Vedaweb annotation</summary>
+
+##### Strata
+Cretic
+
+##### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+##### Morph
+dīví ← dī́v- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+kitavā́saḥ ← kitavá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+riripúḥ ← √rip- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+gha ← gha (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+satyám ← satyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+vā ← vā (invariable)  
+{}
+
+vidmá ← √vid- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+sárvā ← sárva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+śithirā́ ← śithirá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sya ← √sā- ~ si- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+ádha ← ádha (invariable)  
+{}
+
+priyā́saḥ ← priyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+varuṇa ← váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+</details>
+<details><summary>पद-पाठः</summary>
+
+कि॒त॒वासः॑ । यत् । रि॒रि॒पुः । न । दी॒वि । यत् । वा॒ । घ॒ । स॒त्यम् । उ॒त । यत् । न । वि॒द्म ।  
+सर्वा॑ । ता । वि । स्य॒ । शि॒थि॒राऽइ॑व । दे॒व॒ । अध॑ । ते॒ । स्या॒म॒ । व॒रु॒ण॒ । प्रि॒यासः॑ ॥
+</details>
+<details><summary>Hellwig Grammar</summary>
+
+-   *kitavāso* ← *kitavāsaḥ* ← *kitava*
+- \[noun\], nominative, plural, masculine
+- “gambler; deceiver; thorn apple; kitava \[word\].”
+------------------------------------------------------------------------
+- *yad* ← *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *riripur* ← *riripuḥ* ← *rip*
+- \[verb\], plural, Perfect indicative
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *dīvi* ← *dīv*
+- \[noun\], locative, singular, feminine
+- “gambling.”
+------------------------------------------------------------------------
+- *yad* ← *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *vā*
+- \[adverb\]
+- “or; optionally; either.”
+------------------------------------------------------------------------
+- *ghā* ← *gha*
+- \[adverb\]
+------------------------------------------------------------------------
+- *satyam* ← *satya*
+- \[noun\], accusative, singular, neuter
+- “true; real; real; faithful; good.”
+------------------------------------------------------------------------
+- *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *yan* ← *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *vidma* ← *vid*
+- \[verb\], plural, Perfect indicative
+- “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
+    specify; watch; recognize; detect; call.”
+------------------------------------------------------------------------
+- *sarvā* ← *sarva*
+- \[noun\], accusative, plural, neuter
+- “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
+    entire; sāṃnipātika; manifold; complete; all the(a); different;
+    overall.”
+------------------------------------------------------------------------
+- *tā* ← *tad*
+- \[noun\], accusative, plural, neuter
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *ṣya* ← *sya* ← *sā*
+- \[verb\], singular, Present imperative
+- “tie.”
+------------------------------------------------------------------------
+- *śithireva* ← *śithirā* ← *śithira*
+- \[noun\], accusative, plural, neuter
+- “flexible; flexible.”
+------------------------------------------------------------------------
+- *śithireva* ← *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *devādhā* ← *deva*
+- \[noun\], vocative, singular, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *devādhā* ← *adhā* ← *adha*
+- \[adverb\]
+- “then; and; therefore; now.”
+------------------------------------------------------------------------
+- *te* ← *tvad*
+- \[noun\], dative, singular
+- “you.”
+------------------------------------------------------------------------
+- *syāma* ← *as*
+- \[verb\], plural, Present optative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *varuṇa*
+- \[noun\], vocative, singular, masculine
+- “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
+    varuṇādi.”
+------------------------------------------------------------------------
+- *priyāsaḥ* ← *priya*
+- \[noun\], nominative, plural, masculine
+- “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
+    good; liked; suitable; proper.”
+------------------------------------------------------------------------
+</details>
+<details><summary>सायण-भाष्यम्</summary>
+
+**कितवासः** कितवा द्यूतकृतः "किन् तवास्ति? सर्वं मया जितम्" इति वदतीति **कितवः**,  
+**न दीवि** न देवने द्यूते यथा  
+**यद् रिरिपुः** लेपयन्ति - पापम् आरोपयन्ति - **यद्** अस्मासु द्वेष्टारो मयि त्वम् एतत् पापम् अकरोर् इत्य् आक्षिपन्ति,  
+अत्र पुरस्ताद् उपचारो ऽपि **न**-कार उपमार्थीयः  
+**वा** अथवा घेति पूरणः **यत्** पापं **सत्यं** आरोपम् अन्तरेण कृतवन्तः स्म  
+**उत** अपिच **यत्** कृतं पापं **न विद्म** न जानीमः  
+**ताः** तानि **सर्वा** सर्वाणि **शिथिरेव** शिथिलानीव शिथिल-बन्धनानि फलानीव **विष्य** मोचय (स्यतिर् उपसृष्टो विमोचने)  
+हे **देव अथ** अनन्तरं **ते** तव **प्रियासः** प्रियाः **स्याम** भवेम ॥ ८ ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
-20तत्रैव याज्याविकल्पः - कितवास इति त्रिष्टुप् ॥ हे देव वरुण कितवासः स्वार्थसाधनतत्पराः कितवेति प्रवर्तमाना ऋत्विजः यत् येन रिरिपुः नाशितवन्तोस्मान्न दीवि न तु देवने सम्यग्व्यवसिताः प्रवर्तन्ते । दिवेरौणादिकेऽसिचि छान्दसं दीर्घत्वम् । 'ऊडिदम्' इति सप्तम्युदात्ता । यद्वा - यच्च सत्यं बुद्धिपूर्वमेव कृतं पापमश्रद्धादिना । 'घ' इति पादपूरणः, प्रसिद्धौ वा । 'ऋचि मनु' इत्यादिना संहितायां दीर्घत्वम् । उत अपि च यत् न विद्म कृतमपि न जानीमः सौकर्म्यात् । सर्वा ता सर्वाणि तानि तस्माद्दुश्चरितानि । 'शेश्छन्दसि' इति लोपः । विष्य विमुक्तबन्धनानि कुरु क्षमस्वेति यावत् । 'उपसर्गात्सुनोति' इत्यादिना स्यतेष्षत्वम् । शिथिरा शिथिलानीव सुमोचनानीव विमुञ्च । कपिलकादित्वाल्लत्वविकल्पः । अथानन्तरं विमुक्तैनसो वयं तव प्रियासः इष्टास्स्याम भवेम । 'आज्जसेरसुक्', 'निपातस्य च' इति संहितायां अथशब्दस्य दीर्घत्वम् ॥
+हे देव वरुण कितवासः स्वार्थसाधनतत्पराः कितवेति प्रवर्तमाना ऋत्विजः यत् येन रिरिपुः नाशितवन्तोस्मान्न दीवि न तु देवने सम्यग्व्यवसिताः प्रवर्तन्ते । दिवेरौणादिकेऽसिचि छान्दसं दीर्घत्वम् । 'ऊडिदम्' इति सप्तम्युदात्ता । यद्वा - यच्च सत्यं बुद्धिपूर्वमेव कृतं पापमश्रद्धादिना । 'घ' इति पादपूरणः, प्रसिद्धौ वा । 'ऋचि मनु' इत्यादिना संहितायां दीर्घत्वम् । उत अपि च यत् न विद्म कृतमपि न जानीमः सौकर्म्यात् । सर्वा ता सर्वाणि तानि तस्माद्दुश्चरितानि । 'शेश्छन्दसि' इति लोपः । विष्य विमुक्तबन्धनानि कुरु क्षमस्वेति यावत् । 'उपसर्गात्सुनोति' इत्यादिना स्यतेष्षत्वम् । शिथिरा शिथिलानीव सुमोचनानीव विमुञ्च । कपिलकादित्वाल्लत्वविकल्पः । अथानन्तरं विमुक्तैनसो वयं तव प्रियासः इष्टास्स्याम भवेम । 'आज्जसेरसुक्', 'निपातस्य च' इति संहितायां अथशब्दस्य दीर्घत्वम् ॥
 
 इति भट्टभास्करमिश्रविरचिते यजुर्वेदभाष्ये ज्ञानयज्ञाख्ये तृतीयकाण्डे चतुर्थप्रपाठके एकादशोनुवाकः ॥
-समाप्तश्च प्रपाठकः ॥  
+समाप्तश्च प्रपाठकः ॥
 </details>
+<details><summary>Wilson</summary>
+
+#### English translation:
+
+“If, like gamesters, who cheat at plural y, (we commit offences) knowingly, or (those) of which we know not, do you divine **Varuṇa**, extricate us from them all, as if from loosened (bonds), so that we may be dear, Varuṇa, to you.”
+</details>
+<details><summary>Jamison Brereton</summary>
+
+If (we have cheated) as gamblers cheat in a dice game, whether overtly or  whether we are unaware,  
+unbind all these things (so they will be) like loose things, o god. Then  would we be dear to you, Varuṇa.
+</details>
+<details><summary>Griffith</summary>
+
+If we, as gamesters cheat at play, have cheated, done wrong unwittingly or sinned of purpose,  
+     Cast all these sins away like loosened fetters, and, Varuna let us be thine own beloved.
+</details>
+<details><summary>Geldner</summary>
+
+Wenn wir wie Spieler bei dem Spiele betrogen haben, ob wir es gewiß wissen, ob nicht, all das löse von uns wie lockere Bande, o Gott! So mögen wir deine Lieblinge sein, o Varuna.
+</details>
+<details><summary>Grassmann</summary>
+
+Wenn wir getäuscht beim Spiel wie falsche Spieler, wenn wir gefehlt, unwissend oder wissend, Was uns verstrickt, das alles löse du uns, Gott Varuna, und wieder sei'n wir lieb dir.
+</details>
+<details><summary>Elizarenkova</summary>
+
+Если мы обманули, как игроки в игре,  
+Будь то сознательно, или если мы не знали,  
+Всё это развяжи, о бог, (чтобы стало это) словно незатянутым!  
+Пусть станем мы милыми тебе, о Варуна!
+</details>
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- वरुणः
+- अत्रिः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+कौन से मनुष्य सत्कार और कौन तिरस्कार करने योग्य हैं, इस विषय को कहते हैं ॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे (वरुण) श्रेष्ठ (देव) विद्वन् ! (यत्) जो (कितवासः) जुआ करनेवाले (दीवि) जुआरूप कर्म्म में (न) नहीं (रिरिपुः) आरोपित करते हैं (वा) अथवा (यत्) जिस (सत्यम्) श्रेष्ठों में श्रेष्ठ को (उत) तर्क वितर्क से (न) न (विद्म) जानें और (यत्) जिसे (घा) ही नहीं जानें (ता) उन (सर्वा) सम्पूर्णों को (शिथिरेव) जैसे शिथिल वैसे आप (वि, स्य) अन्त करिये जिससे (अधा) इसके अनन्तर हम लोग (ते) आपके (प्रियासः) प्रसन्न प्यारे (स्याम) होवें ॥८॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  हे मनुष्यो ! जो छली मनुष्य जुआ आदि कर्म्म करें, वे ताड़ना करने योग्य और जो सत्य आचरण करें, वे सत्कार करने योग्य हैं ॥८॥ इस सूक्त में राजा, ईश्वर, मेघ और विद्वान् के गुण कर्म वर्णन करने से इस सूक्त के अर्थ की इस से पूर्व सूक्त के अर्थ के साथ सङ्गति जाननी चाहिये ॥ यह पच्चासीवाँ सूक्त और एकतीसवाँ वर्ग समाप्त हुआ ॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
+
+अन्वय:  हे वरुण देव ! यद्ये कितवासो दीवि न रिरिपुर्यद्वा सत्यमुत न विद्म यद् घा न विद्म ता सर्वा शिथिरेव त्वं विष्य यतोऽधा वयं ते प्रियासः स्याम ॥८॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+के मनुष्याः सत्कर्त्तव्यास्तिरस्करणीयाश्चेत्याह ॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (कितवासः) द्यूतकाराः (यत्) ये (रिरिपुः) आरोपयन्ति (न) निषेधे (दीवि) द्यूतकर्म्मणि (यत्) (वा) (घा) एव। अत्र ऋचि तुनुघेति दीर्घः। (सत्यम्) सत्सु साधुम् (उत) (यत्) (न) (विद्म) (सर्वा) सर्वाणि (ता) तानि (वि) (स्य) अन्तं कुरु (शिथिरेव) यथा शिथिलाः (देव) विद्वन् (अधा) अत्र निपातस्य चेति दीर्घः। (ते) तव (स्याम) (वरुण) (प्रियासः) प्रसन्नाः ॥८॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  हे मनुष्या ! ये छलिनो मनुष्या द्यूतादिकर्म्म कुर्य्युस्ते ताडनीया ये च सत्यमाचरणं कुर्य्युस्ते सत्कर्त्तव्या इति ॥८॥ अत्र राजेश्वरमेघविद्वद्गुणकर्मवर्णनादेतदर्थस्य पूर्वसूक्तार्थेन सह सङ्गतिर्वेद्या ॥ इति पञ्चाशीतितमं सूक्तमेकत्रिंशो वर्गश्च समाप्तः ॥
+</details>
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  हे माणसांनो! छळ कपट करणाऱ्या माणसांनी द्युत वगैरे कर्म केल्यास ती ताडना करण्यायोग्य असतात व जी सत्याचरण करतात ती सत्कार करण्यायोग्य असतात. ॥ ८ ॥
+</details>
+</details>
+</div>

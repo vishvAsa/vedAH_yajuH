@@ -49,15 +49,15 @@ ________
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+###### Strata
 Cretic
 
-######## Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-######## Morph
+###### Morph
 dhíyaḥ ← dhī́- (nominal stem)  
 {case:ACC, gender:F, number:PL}
 
@@ -239,11 +239,11 @@ savitúḥ ← savitár- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+###### English translation:
 
 “The wise apply their minds; they perform sacred rites for the propitiation of the intelligent, great, adorable **Savitā**; he alone, knowing their functions, directs the priests; verily, great is the praise of the divine Savitā.”
 
-####### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 **Yajus**. 5.14; viprasya bṛhato **vipaścitaḥ** are epithets of Savitā
 </details>
@@ -404,9 +404,9 @@ ________
 <details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 
-इ॒दव्ँ विष्णु॒र् +++(अग्नि-विद्युत्-सूर्यात्मना)+++ वि च॑क्रमे  
-+++(पृथिव्याम् अन्तरिक्षे दिवि च)+++ त्रे॒धा नि द॑धे प॒दम् ।  
-+++(तैर् आधारैर् जगत्)+++ सम् ऊ॑ढम् अस्य पाꣳसु॒रे +++(ले इति साम्नि, पांसुमति [पादे])+++ ॥
+इ॒दव्ँ विष्णु॒र् +++(अग्नि-विद्युत्-सूर्यात्मना)+++ **वि च॑क्रमे**  
++++(पृथिव्याम् अन्तरिक्षे दिवि च)+++ त्रे॒धा **नि द॑धे** प॒दम् ।  
++++(तैर् आधारैर् जगत्)+++ **सम् ऊ॑ढम्** अस्य पाꣳसु॒रे +++(ले इति साम्नि, पांसुमति [पादे])+++ ॥
 
 </details>
 </div>
@@ -426,14 +426,14 @@ ________
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+###### Strata
 Normal
 
-######## Pāda-label
+###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-######## Morph
+###### Morph
 cakrame ← √kramⁱ- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:MED}
 
@@ -545,11 +545,11 @@ sámūḷham ← √vah- (root)
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+###### English translation:
 
 “**Viṣṇu** traversed this (world); three times he plural nted his foot and the whole (world) was collected in the dust of his (footstep).”
 
-####### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Tredhā nidhadhe padam: the three paces of Viṣṇu imply the presence of Viṣṇu in the three regions of earth, air and heaven, in the forms of **Agni**, **Vāyu** and **Sūrya**, fire, wind and the sun. According to **Śākapūṇi**, the step was on earth, in the firmament, in heaven; according to Aurṇavābha on Samārohaṇa or the eastern mountain, on **Viṣṇupada** the meridian sky and **Gayaśiras** the western mountain, thus identifiying Viṣṇu with the Sun, and his three paces with the rise, culmination, and setting of that luminary
 </details>
@@ -665,15 +665,15 @@ ________
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+###### Strata
 Strophic
 
-######## Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-######## Morph
+###### Morph
 bhūtám ← √bhū- (root)  
 {number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
 
@@ -813,11 +813,11 @@ pr̥thivī́m ← pr̥thivī́- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+###### English translation:
 
 “Heaven and earth, abounding with food, abounding with cattle, yielding abundant fodder, you aredisposed to be liberal to the man (who praises you); you, **Viṣṇu**, have upheld these two heaven and earth, andhave secured the earth around with mountains.”
 
-####### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 To the man who praises you: manuṣe stuvate; **Yajus**. 5.16reads: manave = yajamānāya, to the instrumental tutor of the rite; have secured the erth: dādartham pṛthivīmmayūkhaiḥ: parvataiḥ, by mountains; or, by his incarnations displaying his glory, tejorūpair avatāraiḥ; cf. Tai.S. 3.4.5.1
 </details>
@@ -939,7 +939,7 @@ ________
 
 8अध्वर्यू हविर्धानयोर्मध्यौ निघ्नतः - दिव इति त्रिष्टुभा ॥
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/13_havirdhAna-maNTapa-nirmANAntam/02_divo_vA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/13_havirdhAna-maNTapa-nirmANAntam/02_divo_vA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 दि॒वो वा॑ +++(हे)+++ विष्णव् उ॒त वा॑ पृथि॒व्या  
@@ -948,7 +948,7 @@ ________
 आ प्र य॑च्छ दख्षि॑णा॒द् ओत स॒व्यात् ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/13_havirdhAna-maNTapa-nirmANAntam/02_divo_vA.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/13_havirdhAna-maNTapa-nirmANAntam/02_divo_vA.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -1007,15 +1007,15 @@ ________
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+###### Strata
 Strophic
 
-######## Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-######## Morph
+###### Morph
 kam ← kam (invariable)  
 {}
 
@@ -1169,11 +1169,11 @@ vicakramāṇáḥ ← √kramⁱ- (root)
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+###### English translation:
 
 “Earnetly I glorify the exploits of **Viṣṇu**, who made the **three worlds**; who sustained the lofty aggregate site (of the spheres); thrice traversing (the whole); who is praised by the exalted.”
 
-####### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Pārthivāni vimame rajāṃsi = lit. he made the earthly regions;
 

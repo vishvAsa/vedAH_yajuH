@@ -1,11 +1,11 @@
 +++
-title = "४१ 'यो ब्रह्मा ब्रह्मण' इति घृतसूक्तं"
+title = "४१ 'यो ब्रह्मा ब्रह्मणः'"
 
 +++
-च जपित्वा, 
+'यो ब्रह्मा ब्रह्मण' इति घृतसूक्तं च जपित्वा, 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/baudhAyanaH/gRhyam/mantrAdi/AyuShya-ghRta-sUktam__yo_brahmA"  newLevelForH1="5" includeTitle="false">   
-<details open><summary><h4>आयुष्य‌/घृत-सूक्तम् ...{Loading}...</h4></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/baudhAyanaH/gRhyam/mantrAdi/AyuShya-ghRta-sUktam__yo_brahmA">
+<details open><summary><h5>आयुष्य‌/घृत-सूक्तम् ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(मृगशिरसि यथा दृश्यते)+++  
@@ -114,8 +114,8 @@ title = "४१ 'यो ब्रह्मा ब्रह्मण' इति �
 शश्वत् ॥ ८ ॥
 
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/3/1/10_pravRttahomAdimantrAbhidhAnam/35_viShNo_tvan.md">
-<details open><summary><h8>सर्वाष् टीकाः ...{Loading}...</h8></summary>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/3/1/10_pravRttahomAdimantrAbhidhAnam/35_viShNo_tvan.md">
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
 <details><summary>मूलम्</summary>
 
 विष्णो॒ त्वन्नो॒ अन्त॑म॒श्शर्म॑ यच्छ सहन्त्य ।   
@@ -127,8 +127,8 @@ title = "४१ 'यो ब्रह्मा ब्रह्मण' इति �
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/3/1/10_pravRttahomAdimantrAbhidhAnam/35_viShNo_tvan.md">
-<details open><summary><h8>सर्वाष् टीकाः ...{Loading}...</h8></summary>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/3/1/10_pravRttahomAdimantrAbhidhAnam/35_viShNo_tvan.md">
+<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
 <details><summary>मूलम्</summary>
 
 विष्णो॒ त्वन्नो॒ अन्त॑म॒श्शर्म॑ यच्छ सहन्त्य ।   
@@ -176,4 +176,3 @@ title = "४१ 'यो ब्रह्मा ब्रह्मण' इति �
 </details>
 </details>
 </div>
-

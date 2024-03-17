@@ -6,7 +6,7 @@ unicode_script = "devanagari"
 ## शिरः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ओं भूः । ओं भुवः॑ । ओꣳ सुवः॑ । ओं महः॑ । ओञ्जनः॑ । ओं तपः॑ । ओꣳ स॒त्यम् ।
+ओं भूः । ओं भुवः॑ । ओꣳ सुवः॑ । ओं महः॑ । ओञ् जनः॑ । ओं तपः॑ । ओꣳ स॒त्यम् ।
 </details>
 <details><summary>मूलम्</summary>
 
@@ -700,7 +700,9 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 ## पुच्छम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ओमापो॒ ज्योती॒रसो॒ ऽमृतं॒  ब्रह्म॒+++(=मन्त्राः)+++ भूर्भुव॒स्सुव॒रोम् । (42)
+ओम् आपो॒ ज्योती॒ रसो॒  
+ऽमृतं॒ ब्रह्म॒ +++(=मन्त्राः)+++  
+भूर् भुव॒स् सुव॒र् ओम् । (42)
 </details>
 <details><summary>मूलम्</summary>
 

@@ -215,10 +215,10 @@ title = "०२ अग्निमुखनिरूपणम्"
 
 
 
-आ॒ग॒न्त्रा +++(छात्रेण)+++ सम॑गन्महि॒  
-प्र सु॑ मृ॒त्युं यु॑योतन+++(←यौतिः पृथग्भावे)+++ ।  
-अरि॑ष्टा॒स् सञ्च॑रेमहि स्व॒स्ति,  
-+++(ब्रह्मचर्यं)+++ च॑रताद् इ॒ह स्व॒स्त्या गृ॒हेभ्यः॑+++(→आगृहस्थाश्रमम्)+++ ।+++(५)+++  
+आ॒ग॒न्त्रा +++(छात्रेण)+++ **सम॑गन्महि॒**  
+प्र सु॑ मृ॒त्युं **यु॑योतन**+++(←यौतिः पृथग्भावे)+++ ।  
+अरि॑ष्टा॒स् **सञ्च॑रेमहि** स्व॒स्ति,  
++++(ब्रह्मचर्यं)+++ **च॑रताद्** इ॒ह स्व॒स्त्य् आ गृ॒हेभ्यः॑+++(→आगृहस्थाश्रमम्)+++ ।+++(५)+++  
 
 </details>
 </div>
@@ -747,7 +747,7 @@ title = "०२ अग्निमुखनिरूपणम्"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/01_adite-nu_manyasva.md">
 <details open><summary><h5>०१ अदितेऽनु मन्यस्व ...{Loading}...</h5></summary>
 
-अदि॒तेऽनु॑ मन्यस्व।
+अदि॒तेऽनु॑ मन्यस्व। +++(इति दक्षिणतः, प्राचीनम्)+++
 
 
 </details>
@@ -755,21 +755,21 @@ title = "०२ अग्निमुखनिरूपणम्"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/02_anumate-nu_manyasva.md">
 <details open><summary><h5>०२ अनुमतेऽनु मन्यस्व ...{Loading}...</h5></summary>
 
-अनु॑म॒ते+++(=ऊनचन्द्रे पूर्णमासि)+++ ऽनु॑ मन्यस्व।
+अनु॑म॒ते+++(=ऊनचन्द्रे पूर्णमासि)+++ ऽनु॑ मन्यस्व। +++(इति पश्चिमाद् उदीचीनम्)+++
 
 </details>
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/03_saras-vate-nu_manyasva.md">
 <details open><summary><h5>०३ सरस्-वतेऽनु मन्यस्व ...{Loading}...</h5></summary>
 
-सर॑स्-वते+++(छान्दसो गुणः)+++ ऽनु॑ मन्यस्व।
+सर॑स्-वते+++(छान्दसो गुणः)+++ ऽनु॑ मन्यस्व। +++(इति उत्तरतः प्राचीनम्)+++
 
 </details>
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/04_deva_savitaH.md">
 <details open><summary><h5>०४ देव सवितः ...{Loading}...</h5></summary>
 
-देव सवितः॒ प्रसु॑व।
+देव॑ सवितः॒ प्रसु॑व। +++(इति प्रागारम्भं प्रदक्षिणं)+++
 
 </details>
 </div>
@@ -993,9 +993,39 @@ title = "०२ अग्निमुखनिरूपणम्"
 <div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhanirUpaNam/02_07_yathopadesham_pradhAnAhutIrhutvA.md">
 <details open><summary><h3>०२ ०७ यथोपदेशम् प्रधानाहुतीर्हुत्वा ...{Loading}...</h3></summary>
 
-उपहोमाः - यथोपदेशं प्रधानाहुतीर्हुत्वा, जयाभ्यातानान् राष्ट्रभृतः प्राजापत्यां व्याहृतीर् विहृताः, सौविष्टकृतीम् इत्य् उपजुहोति - "यदस्य कर्मणोऽत्यरीरिचं यद्वा न्यूनमिहाकरम् । अग्निष्टकृत्स्विष्टकृद्विद्वान्त्सर्वँ स्विष्टं सुहुतं करोतु स्वाहे"ति ७  
-+++(एतदेवानुयाज्यम् इति केचित्। कपर्दिकारिकायान्तु स्थालीपाकादिषु नैकेषु कर्मसु न विद्यतेऽयम्भागः। तथैवाधुनिकाचारे केषाञ्चित्।)+++
+यथोपदेशं प्रधानाहुतीर् हुत्वा,  
++++(उपहोमाः -)+++  
+जयाभ्यातानान्,  
+राष्ट्रभृतः,  
+प्राजापत्यां,  
+व्याहृतीर् विहृताः,  
+सौविष्टकृतीम् इत्य् उपजुहोति - 
 
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/yad_asya_karmaNaH.md">
+<details open><summary><h8>Yad asya karmaNaH ...{Loading}...</h8></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यद् अ॑स्य॒ कर्म॒णो ऽत्यरी॑रिचं॒  
+यद् वा॒ न्यू॑नम् इ॒हाक॑रम् ।  
+अ॒ग्निष् टत् स्वि॑ष्ट॒कृद् वि॒द्वान्थ्  
+सर्व॒ꣵ स्वि॑ष्ट॒ꣵ सुहु॑तं करोतु॒  
+स्वाहा᳚ ।
+</details>
+<details><summary>मूलम्</summary>
+
+यद॑स्य॒ कर्म॒णोऽत्यरी॑रिचं॒ यद्वा॒ न्यू॑नमि॒हाक॑रम् ।  
+अ॒ग्निष्टत्स्वि॑ष्ट॒कृद्वि॒द्वान्थ्सर्व॒ग्ग्॒ स्वि॑ष्ट॒ग्ं॒ सुहु॑तं करोतु॒ स्वाहा᳚ ।
+</details>
+</details>
+</div>
+
++इति ७  
+
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+एतदेवानुयाज्यम् इति केचित्। कपर्दिकारिकायान्तु स्थालीपाकादिषु नैकेषु कर्मसु न विद्यतेऽयम्भागः। तथैवाधुनिकाचारे केषाञ्चित्।
+</details>
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/02_agnimukhanirUpaNam/02_07_yathopadesham_pradhAnAhutIrhutvA.md">
@@ -1087,7 +1117,7 @@ title = "०२ अग्निमुखनिरूपणम्"
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/02_agnimukhanirUpaNam/02_07_yathopadesham_pradhAnAhutIrhutvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 
-यथोपदेशं प्रधानाहुतीर्हुत्वा जयाभ्यातानान्राष्ट्रभृतः प्राजापत्यां व्याहृतीर्विहृताः सौविष्टकृतीमित्युपजुहोति–यदस्य कर्मणोऽत्यरीरिचं यद्वा न्यूनमिहाकरम् । अग्निष्टत्स्विष्टकृद्विद्वान्त्सर्वँ स्विष्टं सुहुतं करोतु स्वाहेति।
+यथोपदेशं प्रधानाहुतीर्हुत्वा जयाभ्यातानान्राष्ट्रभृतः प्राजापत्यां व्याहृतीर्विहृताः सौविष्टकृतीमित्युपजुहोति– यदस्य कर्मणोऽत्यरीरिचं यद्वा न्यूनमिहाकरम् । अग्निष्टत्स्विष्टकृद्विद्वान्त्सर्वँ स्विष्टं सुहुतं करोतु स्वाहेति।
 
 </details>
 </div>

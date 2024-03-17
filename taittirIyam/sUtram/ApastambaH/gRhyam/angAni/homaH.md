@@ -138,7 +138,7 @@ unicode_script: devanagari
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/01_adite-nu_manyasva.md">
 <details open><summary><h4>०१ अदितेऽनु मन्यस्व ...{Loading}...</h4></summary>
 
-अदि॒तेऽनु॑ मन्यस्व।
+अदि॒तेऽनु॑ मन्यस्व। +++(इति दक्षिणतः, प्राचीनम्)+++
 
 
 </details>
@@ -146,21 +146,21 @@ unicode_script: devanagari
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/02_anumate-nu_manyasva.md">
 <details open><summary><h4>०२ अनुमतेऽनु मन्यस्व ...{Loading}...</h4></summary>
 
-अनु॑म॒ते+++(=ऊनचन्द्रे पूर्णमासि)+++ ऽनु॑ मन्यस्व।
+अनु॑म॒ते+++(=ऊनचन्द्रे पूर्णमासि)+++ ऽनु॑ मन्यस्व। +++(इति पश्चिमाद् उदीचीनम्)+++
 
 </details>
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/03_saras-vate-nu_manyasva.md">
 <details open><summary><h4>०३ सरस्-वतेऽनु मन्यस्व ...{Loading}...</h4></summary>
 
-सर॑स्-वते+++(छान्दसो गुणः)+++ ऽनु॑ मन्यस्व।
+सर॑स्-वते+++(छान्दसो गुणः)+++ ऽनु॑ मन्यस्व। +++(इति उत्तरतः प्राचीनम्)+++
 
 </details>
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/04_deva_savitaH.md">
 <details open><summary><h4>०४ देव सवितः ...{Loading}...</h4></summary>
 
-देव सवितः॒ प्रसु॑व।
+देव॑ सवितः॒ प्रसु॑व। +++(इति प्रागारम्भं प्रदक्षिणं)+++
 
 </details>
 </div>
@@ -191,9 +191,39 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhanirUpaNam/02_07_yathopadesham_pradhAnAhutIrhutvA.md">
 <details open><summary><h2>०२ ०७ यथोपदेशम् प्रधानाहुतीर्हुत्वा ...{Loading}...</h2></summary>
 
-उपहोमाः - यथोपदेशं प्रधानाहुतीर्हुत्वा, जयाभ्यातानान् राष्ट्रभृतः प्राजापत्यां व्याहृतीर् विहृताः, सौविष्टकृतीम् इत्य् उपजुहोति - "यदस्य कर्मणोऽत्यरीरिचं यद्वा न्यूनमिहाकरम् । अग्निष्टकृत्स्विष्टकृद्विद्वान्त्सर्वँ स्विष्टं सुहुतं करोतु स्वाहे"ति ७  
-+++(एतदेवानुयाज्यम् इति केचित्। कपर्दिकारिकायान्तु स्थालीपाकादिषु नैकेषु कर्मसु न विद्यतेऽयम्भागः। तथैवाधुनिकाचारे केषाञ्चित्।)+++
+यथोपदेशं प्रधानाहुतीर् हुत्वा,  
++++(उपहोमाः -)+++  
+जयाभ्यातानान्,  
+राष्ट्रभृतः,  
+प्राजापत्यां,  
+व्याहृतीर् विहृताः,  
+सौविष्टकृतीम् इत्य् उपजुहोति - 
 
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/yad_asya_karmaNaH.md">
+<details open><summary><h7>Yad asya karmaNaH ...{Loading}...</h7></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यद् अ॑स्य॒ कर्म॒णो ऽत्यरी॑रिचं॒  
+यद् वा॒ न्यू॑नम् इ॒हाक॑रम् ।  
+अ॒ग्निष् टत् स्वि॑ष्ट॒कृद् वि॒द्वान्थ्  
+सर्व॒ꣵ स्वि॑ष्ट॒ꣵ सुहु॑तं करोतु॒  
+स्वाहा᳚ ।
+</details>
+<details><summary>मूलम्</summary>
+
+यद॑स्य॒ कर्म॒णोऽत्यरी॑रिचं॒ यद्वा॒ न्यू॑नमि॒हाक॑रम् ।  
+अ॒ग्निष्टत्स्वि॑ष्ट॒कृद्वि॒द्वान्थ्सर्व॒ग्ग्॒ स्वि॑ष्ट॒ग्ं॒ सुहु॑तं करोतु॒ स्वाहा᳚ ।
+</details>
+</details>
+</div>
+
++इति ७  
+
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+एतदेवानुयाज्यम् इति केचित्। कपर्दिकारिकायान्तु स्थालीपाकादिषु नैकेषु कर्मसु न विद्यतेऽयम्भागः। तथैवाधुनिकाचारे केषाञ्चित्।
+</details>
 </details>
 </div>  
 
@@ -201,6 +231,7 @@ unicode_script: devanagari
 
 परिधिप्रहरणम् - (आज्यहोमेषु जयाद्यनन्तरं श्रौतवत्तूष्णीं परिधीनग्नौ प्रहृत्य, तान् दर्वीसंस्रावेणाभिजुहोति। परिधितत्संस्काराणां श्रौतवदभ्यनुज्ञानस्योक्तत्वात्, कृतकार्याणां प्रतिपत्त्यपेक्षत्वाद् आचाराच्च । शम्याश्चेत्, अस्मिन् काले अपोह्या "अथ शम्या उपोद्य"
 [बौ.गृ.१४३७] इति बोधायनवचनात्, आचाराच्च ॥)  
+
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhanirUpaNam/02_08_pUrvavat_pariShechanamanvama.NsthAH.md">
 <details open><summary><h2>०२ ०८ पूर्ववत् परिषेचनमन्वमँस्थाः ...{Loading}...</h2></summary>
 

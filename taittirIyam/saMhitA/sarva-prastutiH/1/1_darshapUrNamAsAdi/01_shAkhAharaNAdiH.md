@@ -70,14 +70,14 @@ ____
 
 3गोचराय गाः प्रस्थापयति - देवो व इत्यादिभिस्तिसृभिः ऋग्भिः । तत्र प्रथमया सवितारमभ्यर्थयते । 
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/01_shAkhAharaNAdiH/14_devo_vas.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/01_shAkhAharaNAdiH/14_devo_vas.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 दे॒वो व॑स् सवि॒ता प्रार्प॑यतु॒+++(=प्रस्थापयतु)+++  
 श्रेष्ठ॑तमाय॒ कर्म॑णे +++(यज्ञाय)+++। +++(र५)+++
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/01_shAkhAharaNAdiH/14_devo_vas.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/01_shAkhAharaNAdiH/14_devo_vas.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -103,7 +103,7 @@ ____
 
 4अथ प्रस्थाप्यमाना गा एव प्रार्थयते द्वितीयया। 
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/01_shAkhAharaNAdiH/19_A_pyAyadhvam.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/01_shAkhAharaNAdiH/19_A_pyAyadhvam.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 आ प्या॑यध्वम् अघ्निया+++(=अहननार्हाः)+++ देवभा॒गम्। 
@@ -112,7 +112,7 @@ ____
 मा व॑स् स्ते॒न ई॑शत॒+++(=स्ववशं कुर्यात्)+++ माऽघशꣳ॑सः।+++(र४)+++
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/01_shAkhAharaNAdiH/19_A_pyAyadhvam.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/01_shAkhAharaNAdiH/19_A_pyAyadhvam.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 

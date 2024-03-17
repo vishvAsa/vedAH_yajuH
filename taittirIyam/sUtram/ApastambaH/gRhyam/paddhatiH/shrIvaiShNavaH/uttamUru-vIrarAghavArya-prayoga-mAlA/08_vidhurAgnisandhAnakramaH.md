@@ -39,14 +39,33 @@ title = "०८ विधुराग्निसन्धानक्रमः"
 > (४) अ॒द्या नो॑ देव सवितः प्र॒जाव॑त्ससावी॒स्सौभ॑गम् । परा॑ दु॒ष्वप्नि॑यँ सुव ।  
 विश्वा॑नि देव सवितर्दुरि॒तानि॒ परा॑ सु॒व । यद्भ॒द्रं तन्म॒ आसु॑व॒ स्वाहा᳚ ॥ [[TODO:परिष्कार्यम्??]] (सवित्र इदं न मम)
 
-> (१) ओम् अना᳚ज्ञातं॒ यदाज्ञा॑तम् । य॒ज्ञस्य॑ क्रि॒यते॒ मिथु॑ ।  
-अग्ने॒ तद॑स्य कल्पय । त्वँ हि वेत्थ॑ यथात॒थँ स्वाहा᳚ ॥ [[TODO:परिष्कार्यम्??]] (अग्नय इदं न मम)
->
-> (२) ओं पुरु॑षसम्मितो य॒ज्ञः । य॒ज्ञः पुरु॑षसम्मितः ।  
-अग्ने॒ तद॑स्य कल्पय । त्वँहि वेत्थ॑ यथात॒थँ स्वाहा᳚ ॥ [[TODO:परिष्कार्यम्??]] (अग्नय इदं न मम)
->
-> (३) ओं यत्पा॑क॒त्रा मन॑सा दी॒नद॑क्षा॒न । य॒ज्ञस्य॑ म॒न्वते॒ मर्ता॑सः ।  
-अ॒ग्निष्टद्धोता᳚ क्रतु॒विद्वि॑जा॒नन्न् । यजि॑ष्ठो दे॒वाँ ऋ॑तु॒शो य॑जाति॒ स्वाहा᳚ ॥ [[TODO:परिष्कार्यम्??]] (अग्नय इदं न मम)
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/35_anAjnAtay.NyadAjnAtam_yajnasya.md">
+<details open><summary><h4>35 अनाज्ञातय्ँयदाज्ञातम् यज्ञस्य ...{Loading}...</h4></summary>
+
+अना᳚ज्ञात॒य्ँयदाज्ञा॑तम् ।  
+य॒ज्ञस्य॑ क्रि॒यते॒ मिथु॑ ।  
+अग्ने॒ तद॑स्य कल्पय ।  
+त्वꣳ हि वेत्थ॑ यथात॒थम् ।
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/38_puruShasammito_yajnaH.md">
+<details open><summary><h4>38 पुरुषसम्मितो यज्ञः ...{Loading}...</h4></summary>
+
+पुरु॑षसम्मितो य॒ज्ञः ।  
+य॒ज्ञᳶ पुरु॑षसम्मितः ।  
+अग्ने॒ तद॑स्य कल्पय ।  
+त्वꣳ हि वेत्थ॑ यथात॒थम् ।
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/41_yatpAkatrA_manasA.md">
+<details open><summary><h4>41 यत्पाकत्रा मनसा ...{Loading}...</h4></summary>
+
+यत्पा॑क॒त्रा मन॑सा दी॒नद॑ख्षा॒ न ।  
+य॒ज्ञस्य॑ म॒न्वते॒ मर्ता॑सः ।  
+अ॒ग्निष्टद्धोता॑ क्रतु॒विद्वि॑जा॒नन्न् ।  
+यजि॑ष्ठो दे॒वाꣳ ऋ॑तु॒शो य॑जाति ॥115॥
+</details>
+</div>
 
 इति च हुत्वा), प्राणान् आयम्य, पुनः परिषिच्य, अग्न्युपस्थानं कृत्वा, आचामेत् ॥
 

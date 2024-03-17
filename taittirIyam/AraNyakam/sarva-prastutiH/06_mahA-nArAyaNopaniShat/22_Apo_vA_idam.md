@@ -1,9 +1,8 @@
 ---
-title: २२ आपो वा इदं सर्वम्
+title: २२ आपो वा इदम्
 unicode_script: devanagari
 
 ---
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आपो॒ वा इ॒दꣳ सर्वं॒  

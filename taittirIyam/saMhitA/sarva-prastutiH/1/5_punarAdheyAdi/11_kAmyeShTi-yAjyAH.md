@@ -20,7 +20,7 @@ _______
 
 
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/02_vaishvAnaro_na.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/02_vaishvAnaro_na.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 **वै॒श्वा॒न॒रो** न॑ ऊ॒त्या  
@@ -28,7 +28,7 @@ _______
 अ॒ग्निर् उ॒क्थेन॒ वाह॑सा  ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/02_vaishvAnaro_na.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/02_vaishvAnaro_na.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -78,11 +78,11 @@ _______
 </details>
 <details><summary>Whitney</summary>
 
-####### Translation
+###### Translation
 1. To Vāiśvānara, the righteous, lord of right, of light, we pray for  
 unfailing heat (*gharmá*).
 
-####### Notes
+###### Notes
 The Sāman version, as also that in VS. (xxvi. 6), in MS. (iv. 11. 1),  
 and AśS. (viii. 10. 3), is precisely accordant with ours; that in śśS.  
 (iii. 3. 5) has *bhānum* instead of *gharmám* in **c**.
@@ -162,15 +162,15 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+###### Strata
 Normal
 
-######## Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-######## Morph
+###### Morph
 br̥hát ← br̥hánt- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -312,7 +312,7 @@ dyā́vāpr̥thivī́ ← dyā́vāpr̥thivī́- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+###### English translation:
 
 “From acts that are acceptable to **Vaiśvānara** comes great (wealth); for he, the sage (**Agni**) alone, bestows (the reward) of zeal in (the performance of) his worship; adoring both his prolific friends, heaven and earth, Agni was born.”
 </details>
@@ -429,15 +429,15 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+###### Strata
 Cretic
 
-######## Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-######## Morph
+###### Morph
 agníḥ ← agní- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -616,11 +616,11 @@ sá ← sá- ~ tá- (pronoun)
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+###### English translation:
 
 “**Agni**, who is present in the sky, and present upon earth, and who, present, has pervaded all herbs; may the Agni **Vaiśvānara**, who is present in vigour, guard us night and day, against our enemies”
 
-####### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 **Pṛṣṭa** = **saṃspṛṣṭa** = in contact with, or **nihita**, plural ced or present inth esky: Agni is in contact with, or present, in the sun; on earth, in sacred and domestic fire, and in herbs, or annuals, as the cause of their coming to maturity
 </details>
@@ -742,15 +742,15 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+###### Strata
 Cretic
 
-######## Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-######## Morph
+###### Morph
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -920,11 +920,11 @@ yūyám ← tvám (pronoun)
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+###### English translation:
 
 “When you are born, **Agni**, the lord, the circumambient, you watch over all creatures as a herdsman overhis cattle; be willing, **Vaiśvānara**, to requite our praise, and do you cherish us with blessings.”
 
-####### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Watch over:Vaiśvānara brahmaṇe **vinda** gātum, know, or find, to go according to the prayer or praise
 </details>
@@ -1038,15 +1038,15 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+###### Strata
 Cretic
 
-######## Pāda-label
+###### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
-######## Morph
+###### Morph
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -1182,7 +1182,7 @@ vaíśvānara ← vaiśvānará- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+###### English translation:
 
 “You, **Agni**, radiant with lustre, fill the heaven and earth (with light) as soon as born; you, **Vaiśvānara**,from whom wealth proceeds, has by your might liberated the gods from malevolent (foes).”
 </details>
@@ -1295,15 +1295,15 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+###### Strata
 Cretic
 
-######## Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-######## Morph
+###### Morph
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -1455,7 +1455,7 @@ vā́jam ← vā́ja- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+###### English translation:
 
 “Grant, **Agni**, to us who are affluent in (offerings), wealth that cannot be taken away, that is exempt from decay, and that comprehends excellent **male** descendants may we obtain, Agni **vaiśvānara**, hundreds and thousands of viands through your protection.”
 </details>
@@ -1571,15 +1571,15 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+###### Strata
 Cretic
 
-######## Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-######## Morph
+###### Morph
 sumataú ← sumatí- (nominal stem)  
 {case:LOC, gender:F, number:SG}
 
@@ -1725,11 +1725,11 @@ yatate ← √yat- (root)
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+###### English translation:
 
 “May we continue in the favour of **Vaiśvānara**, for verily he is the august sovereign of all beings; as soon as genitive rated from this (wood), he surveys the universe; he accompanies the rising sun.”
 
-####### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Vaiśvānara = he rules over all (**viśva**) men (**nara**); or, who conducts them (nara) to another region (heaven) through oblations; or, possiblyto future life through the funeral fire. He accompanies the risingsun: either as the combined heat with solar radiance, or, as solar rays descend to earth, so the rays of terrestrial fire ascend and mix with them (**Nirukta** 7.23)
 </details>
@@ -1849,15 +1849,15 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-######## Pāda-label
+###### Pāda-label
 popular  
 popular  
 popular  
 popular
-######## Morph
+###### Morph
 áva ← áva (invariable)  
 {}
 
@@ -2015,11 +2015,11 @@ _______________
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+###### English translation:
 
 “**Varuṇa**, we deprecate your wrath with prostrations, with sacrifices, with oblations; averter of misfortune, wise and illustrious, be present amongst us, and mitigate the evils we have committed.”
 
-####### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 **asura** = **aniṣṭa**-**kṣepaṇa**-**śila**, accusative tomed to cast off what is undesired; from seme, to throw
 </details>
@@ -2130,15 +2130,15 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-######## Pāda-label
+###### Pāda-label
 popular  
 popular  
 popular  
 popular
-######## Morph
+###### Morph
 asmát ← ahám (pronoun)  
 {case:ABL, number:PL}
 
@@ -2296,11 +2296,11 @@ _______________
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+###### English translation:
 
 “**Varuṇa**, loosen for me the upper, the middle, the lower band; so, son of **Aditi**, shall we, through faultlessness in the worship, become freed from siṇ”
 
-####### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Reference to the ligature fastening the head, the feet, and the waist; resulting in loosening from the bonds of sin: anāgasaḥ **syāma**, may we be sinless
 </details>
@@ -2414,15 +2414,15 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-######## Pāda-label
+###### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424);; repeated line
-######## Morph
+###### Morph
 akāriṣam ← √kr̥̄- 2 (root)  
 {number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
 
@@ -2546,11 +2546,11 @@ tāriṣat ← √tr̥̄- 1 (root)
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+###### English translation:
 
 “I have celebrated the praise of Dadhikrā, the rapid and victorious stee; may he make our mouths fragrant, may he prolong our lives.”
 
-####### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 **Yajus**. 23.32; may he make our mouths fragrant: the mouth having been defiled by the use of inelegant language
 </details>
@@ -2660,15 +2660,15 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+###### Strata
 Normal
 
-######## Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-######## Morph
+###### Morph
 ā́ ← ā́ (invariable)  
 {}
 
@@ -2836,7 +2836,7 @@ vácāṁsi ← vácas- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+###### English translation:
 
 “Dadhikrā has spread abroad the five classes of beings by his strength, as the sun (diffuses) the waters by his radiance; may he, the giver of hundreds and thousands, associate these praises with agreeable (rewards).”
 </details>
@@ -2955,14 +2955,14 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+###### Strata
 Normal on metrical evidence alone
 
-######## Pāda-label
+###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-######## Morph
+###### Morph
 agníḥ ← agní- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -3059,11 +3059,11 @@ _____________
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+###### English translation:
 
 “**Agni**, the head (of the gods), the summit of heaven-- he the lord of the earth-- gladdens the seed of thewaters.”
 
-####### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Seed: retāṃsi, the moveable andimmovable productions of the creative waters
 </details>
@@ -3205,14 +3205,14 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+###### Strata
 Strophic
 
-######## Pāda-label
+###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-######## Morph
+###### Morph
 diváḥ ← dyú- ~ div- (nominal stem)  
 {case:ABL, gender:M, number:SG}
 
@@ -3318,7 +3318,7 @@ tú ← tú (invariable)
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+###### English translation:
 
 “When, **Maruts**, desirous of felicity, we invoke you from heaven, come unto us quickly.”
 </details>
@@ -3432,7 +3432,7 @@ _______
 
 17आदित्यं चरुं निर्वपेत्सङ्ग्राममुपप्रयास्यन्' इत्यत्र पुरोनुवाक्या - अदितिर्न इति गायत्री ॥ 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="2" open unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/3/11_aditirna_uruShyatu.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" open unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/3/11_aditirna_uruShyatu.md">
 <details open><summary><h2>11 अदितिर्न उरुष्यतु ...{Loading}...</h2></summary>
 
 अदि॑तिर् न उरुष्य॒त्व्  
@@ -3440,7 +3440,7 @@ _______
 अदि॑तिᳶ पा॒त्व् अꣳह॑सः  ॥
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" open unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1/3/11_aditirna_uruShyatu.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" open unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/3/11_aditirna_uruShyatu.md">
 <details open><summary><h2>11 अदितिर्न उरुष्यतु ...{Loading}...</h2></summary>
 
 अदि॑तिर् न उरुष्य॒त्व्  
@@ -3448,7 +3448,7 @@ _______
 अदि॑तिᳶ पा॒त्व् अꣳह॑सः  ॥
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1/3/11_aditirna_uruShyatu.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/3/11_aditirna_uruShyatu.md">
 <details open><summary><h2>11 अदितिर्न उरुष्यतु ...{Loading}...</h2></summary>
 <details><summary>Keith</summary>
 
@@ -3608,7 +3608,7 @@ _______
 इति भट्टभास्करमिश्रविरचिते यजुर्वेदभाष्ये ज्ञानयज्ञाख्ये प्रथमकाण्डे पञ्चमप्रपाठके एकादशोनुवाकः ॥
 समाप्तश्च प्रपाठकः ॥
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/375_imAM_su.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/375_imAM_su.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 इ॒माꣳ सु **नाव॒म् आऽरु॑हꣳ**  
@@ -3616,7 +3616,7 @@ _______
 अच्छि॑द्राम् पारयि॒ष्णुम्  ॥  [51]
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/375_imAM_su.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/375_imAM_su.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 

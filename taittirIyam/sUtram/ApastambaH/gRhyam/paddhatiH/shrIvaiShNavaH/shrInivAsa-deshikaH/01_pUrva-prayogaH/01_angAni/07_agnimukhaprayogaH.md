@@ -214,10 +214,50 @@ title = "०७ अग्निमुखप्रयोगः"
 
 > अग्ने नयँ, सुपथा॑ रा॒ये, अ॒स्मान्, विश्वॉनि, देव, वमुनॉनि, वि॒द्वान् । युयोधि, अस्मत्, जुहुराणं, एनॅः, भूयिँष्ठां ते, नमँ उक्तिं, विधेम ॥ अग्नये नमः ।
 >
-> मन्त्रहीनं क्रियाहीनं, भक्तिहीनं, हुताशन ।  
-यद्धुतं तु मया देव परिपूर्णं तदस्तु ते ।  
-प्रायश्चित्तानि अशेषाणि तपःकर्मात्मकानि वै ।  
-यानि तेषाम्, अशेषाणां कृष्णानुस्मरणं परम् ॥ 
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/mantrahInam_hutAshana.md">
+<details open><summary><h5>मन्त्रहीनं - हुताशन ...{Loading}...</h5></summary>
+
+
+(अग्नये नमः)
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मन्त्रहीनं क्रियाहीनं  
+भक्तिहीनं हुताशन ।  
+यद्धुतं तु मया देव  
+परिपूर्णं तदस्तु ते ॥  
+</details>
+<details><summary>मूलम्</summary>
+
+मन्त्रहीनं क्रियाहीनं  
+भक्तिहीनं हुताशन ।  
+यद्धुतं तु मया देव  
+परिपूर्णं तदस्तु ते ॥
+</details>
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/prAyashcittAny_asheShANi.md">
+<details open><summary><h5>प्रायश्चित्तान्यशेषाणि ...{Loading}...</h5></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रायश्चित्तान्य् अशेषाणि  
+तपः कर्मात्मकानि वै ।  
+यानि तेषाम् अशेषाणां  
+कृष्णानुस्मरणं परम् ॥
+</details>
+<details><summary>मूलम्</summary>
+
+प्रायश्चित्तान्यशेषाणि  
+तपः कर्मात्मकानि वै ।  
+यानि तेषामशेषाणां  
+कृष्णानुस्मरणं परम्॥
+</details>
+
+(कृष्ण कृष्ण कृष्ण॥)
+</details>
+</div>
+
 
 प्रणम्याभिवादयेत् । जयादिप्रभृति, उपस्थानपर्यन्तम्उ उपरिष्टात्तन्त्रमिति च संज्ञा ॥
 

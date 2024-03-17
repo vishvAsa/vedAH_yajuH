@@ -11,45 +11,46 @@ unicode_script: devanagari
 ---
 ## चोदनम्, फलम्
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/08/22/01_adhyAtmikAnyogAnanutiShThennyAyasaMhitAnanaishchArikAn.md">
-<details open><summary><h4>01 अध्यात्मिकान्योगाननुतिष्ठेन्न्यायसंहिताननैश्चारिकान् ...{Loading}...</h4></summary>
+<details open><summary><h4>01 अध्यात्मिकान्योगान् ...{Loading}...</h4></summary>
 
-अध्यात्मिकान्योगाननुतिष्ठेन्न्यायसंहिताननैश्चारिकान् १
+अध्यात्मिकान् योगान् अनुतिष्ठेन् न्याय-संहितान् अनैश्चारिकान् १
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/08/22/02_AtmalAbhAnna_paraM_vidyate.md">
 <details open><summary><h4>02 आत्मलाभान्न परं विद्यते ...{Loading}...</h4></summary>
 
-आत्म-लाभान्न परं विद्यते २
+आत्म-लाभान् न परं विद्यते २
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/13_satyAnRte_sukhaduHkhe_vedAnimaM.md">
 <details open><summary><h4>13 सत्यानृते सुखदुःखे वेदानिमं ...{Loading}...</h4></summary>
 
-सत्यानृते सुखदुःखे वेदानिमं लोकममुं च परित्यज्यात्मानमन्विच्छेत् १३
+सत्यानृते सुखदुःखे वेदानिमं लोकममुं च परित्यज्यात्मानम् अन्विच्छेत् १३
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/14_buddhe_xemaprApaNam.md">
 <details open><summary><h4>14 बुद्धे क्षेमप्रापणम् ...{Loading}...</h4></summary>
 
-बुद्धे क्षेमप्रापणम् १४
+बुद्धे क्षेम-प्रापणम् १४
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/15_tachChAstrairvipratiShiddham.md">
 <details open><summary><h4>15 तच्छास्त्रैर्विप्रतिषिद्धम् ...{Loading}...</h4></summary>
 
-तच्छास्त्रैर्विप्रतिषिद्धम् १५
+तच् छास्त्रैर् विप्रतिषिद्धम् १५
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/16_buddhe_chetxemaprApaNamihaiva_na.md">
 <details open><summary><h4>16 बुद्धे चेत्क्षेमप्रापणमिहैव न ...{Loading}...</h4></summary>
 
-बुद्धे चेत्क्षेमप्रापणमिहैव न दुःखमुपलभेत १६
+बुद्धे चेत्क्षेमप्रापणम्  
+इहैव न दुःखम् उपलभेत १६
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/17_etena_paraM_vyAkhyAtam.md">
 <details open><summary><h4>17 एतेन परं व्याख्यातम् ...{Loading}...</h4></summary>
 
-एतेन परं व्याख्यातम् १७
+एतेन परं +++(=पारलौकिकं [दुःखं])+++ व्याख्यातम् +++(न स्वैरचारिणां निवर्तत इति)+++१७
 </details>
 </div>
   
@@ -58,13 +59,14 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/08/22/03_tatrAtmalAbhIyA~nshlokAnudAhariShyAmaH.md">
 <details open><summary><h4>03 तत्रात्मलाभीयाञ्श्लोकानुदाहरिष्यामः ...{Loading}...</h4></summary>
 
-तत्रात्मलाभीयाञ्श्लोकानुदाहरिष्यामः ३
+तत्रात्मलाभीयाञ् श्लोकान् उदाहरिष्यामः ३
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/08/22/04_pUH_prANinaH_sarva.md">
 <details open><summary><h4>04 पूः प्राणिनः सर्व ...{Loading}...</h4></summary>
 
-पूः प्राणिनः सर्व एव गुहाशयस्य । अहन्यमानस्य विकल्मषस्य । अचलं चलनिकेतं येऽनुतिष्ठन्ति तेऽमृताः ४
+पूः प्राणिनः सर्व एव गुहाशयस्य । अहन्यमानस्य विकल्मषस्य ।  
+अचलं चलनिकेतं येऽनुतिष्ठन्ति तेऽमृताः ४
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/08/22/05_yadidamidihediha_loke_viShayamuchyate.md">
@@ -127,7 +129,11 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/10_anagniraniketaH_syAdasharmAsharaNo_muniH.md">
 <details open><summary><h4>10 अनग्निरनिकेतः स्यादशर्माशरणो मुनिः ...{Loading}...</h4></summary>
 
-अनग्निरनिकेतः स्यादशर्माशरणो मुनिः स्वाध्यायैवोत्सृजमानो वाचं ग्रामे प्राणवृत्तिं प्रतिलभ्यानिहोऽनमुत्रश्चरेत् १०
+अनग्निर् अनिकेतः स्याद्  
+अशर्माशरणो मुनिः  
+स्वाध्यायैवोत्सृजमानो वाचं  
+ग्रामे प्राण-वृत्तिं प्रतिलभ्य  
++अनिहो ऽनमुत्रश् चरेत् १०
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/11_tasya_muktam_AchChAdanaM.md">
@@ -139,7 +145,7 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/12_sarvataH_parimoxameke.md">
 <details open><summary><h4>12 सर्वतः परिमोक्षमेके ...{Loading}...</h4></summary>
 
-सर्वतः परिमोक्षमेके १२
+सर्वतः +++(विधितो निषेधतश्च)+++ परिमोक्षम् एके १२
 </details>
 </div>
   

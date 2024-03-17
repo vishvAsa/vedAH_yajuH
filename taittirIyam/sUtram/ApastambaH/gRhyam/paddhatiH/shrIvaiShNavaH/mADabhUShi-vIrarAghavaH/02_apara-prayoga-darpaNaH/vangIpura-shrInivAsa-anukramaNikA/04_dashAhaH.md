@@ -6,7 +6,16 @@ title = "०४ दशाहः"
 
 दशमेऽहनि महती प्रेतस्य क्षुत् भवति । तन्निवृत्त्यर्थं नित्योदकदानादेः पूर्वं प्रभूतबलिं पश्चाद्वा कुर्यात् । कर्ता स्नात्वा ऊर्ध्वपुण्ड्रादिकं धृत्वा, प्राचीनावीती 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>   
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya.md">
+<details open><summary><h5>अशेषे हे परिषत् ...{Loading}...</h5></summary>
+
+> स्वामिनः!  
+अशेषे हे परिषत्  
+भवत्-पादमूले मया समर्पिताम् इमां सौवर्णीं यत्-किञ्चिद्-दक्षिणां  
+यथोक्तदक्षिणामिव स्वीकृत्य  
+
+</details>
+</div>   
 
 > गोत्रस्य शर्मणः प्रेतस्य दशमेऽहनि महत्क्षुन्निवृत्त्यर्थं प्रभूतबलिप्रदानं कर्तुं योग्यतासिद्धिम् अनुगृहाण 
 

@@ -1,7 +1,8 @@
 +++
-title = "०४ ‘इन्द्रं वो विश्वतस्परि हवामहे' इत्यनुवाकं"
+title = "०४ ‘इन्द्रं वो विश्वतस्परि'"
 
 +++
+‘इन्द्रं वो विश्वतस्परि हवामहे' इत्यनुवाकं"
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/12_kAmyeShTi-mantrAH">
 <details open><summary><h4>१२ काम्येष्टिमन्त्राः ...{Loading}...</h4></summary>
@@ -18,9 +19,9 @@ title = "०४ ‘इन्द्रं वो विश्वतस्पर�
 </details>
 
 
-###  पशुकामस्यैन्द्रेष्टेः  
+#####  पशुकामस्यैन्द्रेष्टेः  
 
-#### पुरोनुवाक्या
+###### पुरोनुवाक्या
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1'ऐन्द्रं चरुं निर्वपेत्पशुकामः' इत्यस्य पुरोनुवाक्या - इन्द्रं व इति गायत्री ॥ याजमानब्राह्मणमध्ये याज्याकाण्डं वैश्वदेवम् ।
@@ -51,14 +52,14 @@ title = "०४ ‘इन्द्रं वो विश्वतस्पर�
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-########## Strata
+###### Strata
 Strophic on metrical evidence alone
 
-########## Pāda-label
+###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-########## Morph
+###### Morph
 índram ← índra- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -147,7 +148,7 @@ kévalaḥ ← kévala- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-######### English translation:
+###### English translation:
 
 “We invoke for you, **Indra**, who is everywhere among men; may he be exclusively our own.”
 </details>
@@ -227,7 +228,7 @@ Wir rufen euch den Indra her von allen Orten, jedem Volk; Uns sei er eigen, kein
 </details>
 </div>  
 
-#### याज्या
+###### याज्या
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2तत्रैव याज्या - इन्द्रं नर इति त्रिष्टुप् ॥ 
@@ -261,15 +262,15 @@ Wir rufen euch den Indra her von allen Orten, jedem Volk; Uns sei er eigen, kein
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-########## Strata
+###### Strata
 Strophic
 
-########## Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-########## Morph
+###### Morph
 havante ← √hū- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:MED}
 
@@ -463,7 +464,7 @@ vrajé ← vrajá- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-######### English translation:
+###### English translation:
 
 “Men invoke **Indra** in battle when those actions which lead to victory are performed; do you who are hero, the benefactor of man, the desirer of prowess, plural ce us in possession of pastures abounding with cattle.”
 </details>
@@ -547,8 +548,8 @@ Den Indra rufen im Gefecht die Männer, dass er erfolgreich diese Bitten mache; 
 </details>
 </div>  
 
-### इन्द्रियावद्यागे 
-#### पुरोनुवाक्या
+##### इन्द्रियावद्यागे 
+###### पुरोनुवाक्या
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3'इन्द्रायेन्द्रियावते पुरोडाशमेकादशकपालं निर्वपेत्' इत्यस्य पुरोनुवाक्या - इन्द्रियाणीति गायत्री ॥ 
@@ -579,14 +580,14 @@ Den Indra rufen im Gefecht die Männer, dass er erfolgreich diese Bitten mache; 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-########## Strata
+###### Strata
 Strophic on metrical evidence alone
 
-########## Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M
-########## Morph
+###### Morph
 indriyā́ṇi ← indriyá- (nominal stem)  
 {case:NOM, gender:N, number:PL}
 
@@ -688,7 +689,7 @@ vr̥ṇe ← √vr̥- ~ vr̥̄- (root)
 </details>
 <details><summary>Wilson</summary>
 
-######### English translation:
+###### English translation:
 
 “**Indra**, object of many rites, I regard the organs of sense, that exist in the five races (of beings dependent) on you as yours.”
 </details>
@@ -768,7 +769,7 @@ Die Indrakräfte wünsch' ich her, die, Indra, hundertwirkender, Du bei den fün
 </details>
 </div>  
 
-#### याज्या
+###### याज्या
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4तत्रैव याज्या - अनु त इति त्रिष्टुप् ॥
@@ -801,15 +802,15 @@ Die Indrakräfte wünsch' ich her, die, Indra, hundertwirkender, Du bei den fün
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-########## Strata
+###### Strata
 Archaic
 
-########## Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-########## Morph
+###### Morph
 ánu ← ánu (invariable)  
 {}
 
@@ -998,7 +999,7 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-######### English translation:
+###### English translation:
 
 “All (power) has been successively conceded verily to you, **Indra**, who are mighty, for the destruction of the foe; suitable vigour, suitable strength in battle (has been given) to you, adorable Indra, by the gods.”
 </details>
@@ -1077,8 +1078,8 @@ Dir räumten alles ein die Götter alle, der grossen Indramacht beim Vritrakampf
 </div>  
 
 
-### घर्मवद्यागे 
-#### पुरोनुवाक्या
+##### घर्मवद्यागे 
+###### पुरोनुवाक्या
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5'इन्द्राय घर्मवते पुरोडाशमेकादशकपालं निर्वपेद्ब्रह्मवर्चसकामः' इत्यस्य पुरोनुवाक्या - आ यस्मिन्नित्यनुष्टुप् ॥ 
@@ -1134,7 +1135,7 @@ The glowing pot is the guest of Indra.
 </div>  
 
 
-#### याज्या
+###### याज्या
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 6तत्रैव याज्या - आमास्विति पथ्याबृहती, तृतीयपादस्य द्वादशाक्षरत्वात् ॥ 
@@ -1167,15 +1168,15 @@ The glowing pot is the guest of Indra.
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-########## Strata
+###### Strata
 Strophic
 
-########## Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-########## Morph
+###### Morph
 aírayaḥ ← √īr- (root)  
 {number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
 
@@ -1339,14 +1340,14 @@ júṣṭam ← júṣṭa- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-######### English translation:
+###### English translation:
 
 “In the immature (cows) you produced the mature (milk),  
 you caused the sun to arise in heaven,(priests),  
 excite (**Indra**) with your praises  
 as men heat the **gharma** with **sāman** hymns. (sing) the acceptableBṛhat sāman to him who is to be honoure dby song.”
 
-######### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 You caused the sun to arise in heaven: repetition of the legend of he **paṇis** and the stolen cows of the **Aṅgirasas**. The Ṛṣis implored Indra for help, who, seeing that the stronghold of the **asuras** was enveloped in thick darkness, set the sun in the sky to dispel it; as men heat the gharma: for the hymns of the ceremony of heating the **mahāvīra** or gharma pot, used in the pravargya ceremony; cf. **Aitareya** **Brāhmaṇa** 1.21
 </details>
@@ -1394,8 +1395,8 @@ In rohen schufst du gare Milch, erhobst die Sonn' am Himmelsraum, Entflammt wie 
 </div>  
 
 
-### अर्कवद्-यागे 
-#### पुरोनुवाक्या
+##### अर्कवद्-यागे 
+###### पुरोनुवाक्या
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 7'इन्द्रायार्कवते पुरोडाशमेकादशकपालं निर्वपेदन्नकामः' इत्यस्य पुरोनुवाक्या - इन्द्रमिदिति गायत्री ॥ 
@@ -1426,14 +1427,14 @@ In rohen schufst du gare Milch, erhobst die Sonn' am Himmelsraum, Entflammt wie 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-########## Strata
+###### Strata
 Strophic on metrical evidence alone
 
-########## Pāda-label
+###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-########## Morph
+###### Morph
 br̥hát ← br̥hánt- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -1551,11 +1552,11 @@ vā́ṇīḥ ← vā́ṇī- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-######### English translation:
+###### English translation:
 
 “The chanters (of the **Soma**) extol **Indra** with songs, the reciters of the Ṛk with prayers, the priests of the **Yajuṣ**, with texts.”
 
-######### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Gāthina = singers; gīyamānasāma-**yuktā** udgātāraḥ, the **udgatās** with **sāmas** to be chanted;
 
@@ -1646,7 +1647,7 @@ Den Indra preist der Sänger Schar, mit Preisgesang die preisenden, Den Indra la
 </div>  
 
 
-#### याज्या
+###### याज्या
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8तत्रैव याज्या - गायन्तीत्यनुष्टुप् ॥ 
@@ -1679,15 +1680,15 @@ Den Indra preist der Sänger Schar, mit Preisgesang die preisenden, Den Indra la
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-########## Strata
+###### Strata
 Normal
 
-########## Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-########## Morph
+###### Morph
 gā́yanti ← √gā(y)- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -1848,11 +1849,11 @@ yemire ← √yam- (root)
 </details>
 <details><summary>Wilson</summary>
 
-######### English translation:
+###### English translation:
 
 “The chanters (of the **Soma**) hymn you, **Śatakratu**; the reciters of the Ṛk praise you, who are worthy of praise; the Bra-hmaṇas raise you aloft, like a bamboo pole.”
 
-######### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Gāyatriṇaḥ = lit. those who use **gāyatrī** metre: **udgātā**, chanter of **Sāma** hymns;
 
@@ -1946,8 +1947,8 @@ Die Sänger singen dir ein Lied und Preisgesang die preisenden; Die Beter haben 
 </details>
 </div>  
 
-### अंहोमुग्यागे 
-#### पुरोनुवाक्या
+##### अंहोमुग्यागे 
+###### पुरोनुवाक्या
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 9'इन्द्रायांहोमुचे पुरोडाशमेकादशकपालं निर्वपेद् यः पाप्मना गृहीतस् स्यात्' इत्यस्य पुरोनुवाक्या - अंहोमुच इति त्रिष्टुप् ॥ 
@@ -1998,7 +1999,7 @@ May the desires of the sacrificer be fulfilled.
 </details>
 </div>  
 
-#### याज्या
+###### याज्या
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 10तत्रैव याज्या - विवेषेति त्रिष्टुप् ॥ 
@@ -2031,15 +2032,15 @@ May the desires of the sacrificer be fulfilled.
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-########## Strata
+###### Strata
 Normal
 
-########## Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-########## Morph
+###### Morph
 dhiṣáṇā ← dhiṣáṇā- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -2223,7 +2224,7 @@ yā́ntam ← √yā- 1 (root)
 </details>
 <details><summary>Wilson</summary>
 
-######### English translation:
+###### English translation:
 
 “When the thought of glorifying **Indra** entered my mind, then I gave birth (to his praises); may I laud him before encountering distant (evil) days, whereby he may guide us beyond sin; for those on both sides of us invoke him, as (those on either bank of a river hail) a passenger in a boat.”
 </details>
@@ -2314,18 +2315,22 @@ Wenn mich der Trunk ergriffen und erregt hat, dann preis' ich Indra vor dem Tag 
 
 
 
-#### याज्या
+###### याज्या
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 11तत्रैव याज्या विकल्प्यते - प्र सम्राजमिति त्रिष्टुप् ॥ 
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/12_kAmyeShTi-mantrAH/02_pra_samrAjam.md">
+<details open><summary><h8>विश्वास-प्रस्तुतिः ...{Loading}...</h8></summary>
 
 प्र स॒म्राज॑म्, प्रथ॒मम् अ॑ध्व॒राणा᳚म्, [48]   
 अꣳहो॒मुच॑व्ँ, वृष॒भय्ँ य॒ज्ञिया॑नाम् ।  
 अ॒पान् नपा॑तम्, अश्विना॒ हय॑न्तम्+++(←हय गतौ)+++  
 अ॒स्मिन् न॑र इन्द्रि॒यन् ध॑त्त॒म् ओजः॑  ॥
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/12_kAmyeShTi-mantrAH/02_pra_samrAjam.md">
+<details open><summary><h8>सर्वाष् टीकाः ...{Loading}...</h8></summary>
 <details><summary>Keith</summary>
 
 First lord of sacrifices [3],  
@@ -2353,20 +2358,29 @@ Do ye confer power and strength on this one.
 हे **अश्विनौ** युवामपि **अस्मिन्** यजमाने **इन्द्रियं** चक्षुरादि-दार्ढ्यं **ओजः** बलं च **प्रधत्तं** प्रकर्षेण स्थापयतम् ।  
 अत्रापि विशेषाकाङ्क्षायां प्रेति प्रकृतं सम्बध्यते, अंहसश्च मुक्तोस्त्विति ॥
 </details>
+</details>
+</div>
 
-### वैमृधयागे  
-#### पुरोनुवाक्या
+
+
+
+##### वैमृधयागे  
+###### पुरोनुवाक्या
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 12इन्द्राय वैमृधाय पुरोडाशमेकादशकपालं निर्वपेद्यम्मृधोभि प्रवेपेरन्राष्ट्राणि वाभि समियुरिन्द्रमेव वैमृधम्' इत्यस्य पुरोनुवाक्या - वि न इन्द्रेत्यनुष्टुप् ॥ 
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/12_kAmyeShTi-mantrAH/03_vi_na.md">
+<details open><summary><h8>विश्वास-प्रस्तुतिः ...{Loading}...</h8></summary>
 
 वि न॑ इन्द्र॒ मृधो॑+++(=योद्धॄन्)+++ जहि  
 नी॒चा य॑च्छ पृतन्य॒तः+++(←पृतना + क्यच्)+++ ।   
 अ॒ध॒स्-प॒दन् तम् ई᳚ङ् कृधि॒  
 यो अ॒स्माꣳ अ॑भि॒दास॑ति+++(←दसु उपक्षये)+++  ॥
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/12_kAmyeShTi-mantrAH/03_vi_na.md">
+<details open><summary><h8>सर्वाष् टीकाः ...{Loading}...</h8></summary>
 <details><summary>Keith</summary>
 
 Smite away our foes, O Indra;  
@@ -2387,8 +2401,13 @@ Who is hostile to us.
 किञ्च - **यो ऽस्मान् अभिदासति** अभिदासयति उपक्षयति । दसु उपक्षये, ण्यन्ताल्लेट्, 'छन्दस्युभयथा' इति शप आर्धधातुकत्वाण्णिलोपः, उदात्तनिवृत्तिस्वरो व्यत्ययेन न प्रवर्तते ।  
 **तम्** उपक्षय-कारीणम् **अधस् पदम्** एव **कृधि** कुरु । **ईम्** इत्यवधारणे । अस्मत्पादयोरधः प्रणिपतितशिरस्कं कुर्विति यावत् । 'बहुलं छन्दसि' इति शपो लुक्', श्रुशृणुपॄकृवृभ्यश्छन्दसि' इति धिभावः । 'अधश्शिरसी पदे' इत्यधश्शब्दस्य संहितायां सत्वम् ॥
 </details>
+</details>
+</div>
 
-#### याज्या
+
+
+
+###### याज्या
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 13तत्रैव याज्या - इन्द्र क्षत्रमिति त्रिष्टुप् ॥ 
@@ -2421,15 +2440,15 @@ Who is hostile to us.
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-########## Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-########## Pāda-label
+###### Pāda-label
 popular  
 popular  
 popular  
 popular
-########## Morph
+###### Morph
 abhí ← abhí (invariable)  
 {}
 
@@ -2575,7 +2594,7 @@ urúm ← urú- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-######### English translation:
+###### English translation:
 
 “You have been born, **Indra**, endowed with protecting and desirable vigour; benefactor of mankind, youdid drive away the man who was unfriendly(to us), you prepared a spacious region for the gods.”
 </details>
@@ -2636,18 +2655,22 @@ Zu grosser Macht und Herrschaft bist du, Indra, geboren als der Lebenden Gebiete
 </div>  
 
 
-#### याज्या
+###### याज्या
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 14याज्याविकल्पः - मृगो नेति त्रिष्टुप् । 
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/12_kAmyeShTi-mantrAH/04_mRgo_na.md">
+<details open><summary><h8>विश्वास-प्रस्तुतिः ...{Loading}...</h8></summary>
 
 **मृ॒गो** न भी॒मᳵ कु॑च॒रो गि॑रि॒ष्ठाᳶ  
 प॑रा॒वतः॒ [49] **आ ज॑गामा॒** पर॑स्याः ।  
 सृ॒कꣳ+++(←सृ|सृक्)+++ **स॒ꣳ॒शाय॑** प॒विम् इ॑न्द्र ति॒ग्मव्ँ  
 वि शत्रू᳚न् ताढि॒ वि मृधो॑+++(=योद्धॄन्)+++ **नुदस्व**  ॥
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/12_kAmyeShTi-mantrAH/04_mRgo_na.md">
+<details open><summary><h8>सर्वाष् टीकाः ...{Loading}...</h8></summary>
 <details><summary>Keith</summary>
 
 Like a dread beast, evil, roaming the mountains, He hath come from the furthest place [4];  
@@ -2672,19 +2695,28 @@ Smite the foes, drive away the enemy.
 
 स **त्वम्** इत्थमागत्य हे इन्द्र **सृकं** परशरीरादिषु सराशीलं **तिग्मं** प्राग् एव तीक्षणं **पविं** वज्रं **संशाय** निशिती-कृत्य तेनातितीक्ष्णेन शत्रून् **विताढि** विविधं ताडय । ताडयतेर् लोटि शपो लुक्, 'छन्दस्युभयथा' इत्यार्धधातुकत्वाण्णिलोपः । **मृधो** योद्धॄंश् च **विनुदस्व** विविधं नुद विनाशय ॥
 </details>
+</details>
+</div>
 
-#### याज्या
+
+
+
+###### याज्या
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 15अतश्च विकल्पः - वि शत्रूनित्यनुष्टुप् ॥ 
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/12_kAmyeShTi-mantrAH/05_vi_shatrUn.md">
+<details open><summary><h8>विश्वास-प्रस्तुतिः ...{Loading}...</h8></summary>
 
 वि शत्रू॒न् वि मृधो॑ नुद॒  
 वि वृ॒त्रस्य॒ हनू॑ रुज ।   
 वि म॒न्युम् इ॑न्द्र भामि॒तो॑  
 ऽमित्र॑स्याभि॒दास॑तः  ॥
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/12_kAmyeShTi-mantrAH/05_vi_shatrUn.md">
+<details open><summary><h8>सर्वाष् टीकाः ...{Loading}...</h8></summary>
 <details><summary>Keith</summary>
 
 Drive away the foe, the enemy,  
@@ -2701,20 +2733,29 @@ Of him who is hostile to us.
 
 शत्रून् विविधं नाशय । मृधश्च योद्धॄन्विनुद विशेषतो नाशय । वृत्रस्यासुरस्य हनू विरुज विभिन्धि । वृत्रस्य वा मेघस्य हनुस्थानीये पार्श्वे विरुज विदारय वर्षार्थं याभ्यां वर्षन्ति मेघाः । हे इन्द्र अस्मानभिदासतः उपक्षयतः अमित्रस्य शत्रोर्मन्युं क्रोधं विनुद विनाशय भामितः अमित्रविषये क्रुद्धस्त्वम् ॥
 </details>
+</details>
+</div>
 
-### त्रातृयागे 
-#### पुरोनुवाक्या
+
+
+
+##### त्रातृयागे 
+###### पुरोनुवाक्या
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 16 'इन्द्राय त्रात्रे पुरोडाशमेकादशकपालं निर्वपेद्बद्धो वा परियत्तो वा' इत्यस्य पुरोनुवाक्या - त्रातारमिन्द्रमिति त्रिष्टुप् ॥ 
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/12_kAmyeShTi-mantrAH/06_trAtAram_indram.md">
+<details open><summary><h8>विश्वास-प्रस्तुतिः ...{Loading}...</h8></summary>
 
 त्रा॒तार॒म् इन्द्र॑म् अवि॒तार॒म् इन्द्र॒ꣳ॒  
 हवे॑हवे सु॒हव॒ꣳ॒ शूर॒म् इन्द्र᳚म् ।   
 **हु॒वे** नु श॒क्रम् पु॑रुहू॒तम् इन्द्रꣵ॑  
 स्व॒स्ति नो॑ म॒घवा॑ **धा॒त्व्** इन्द्रः॑  ॥
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/12_kAmyeShTi-mantrAH/06_trAtAram_indram.md">
+<details open><summary><h8>सर्वाष् टीकाः ...{Loading}...</h8></summary>
 <details><summary>Keith</summary>
 
 The guardian Indra, the helper Indra,  
@@ -2731,19 +2772,28 @@ May Indra in his bounty bestow on us prosperity
 
 इदि परमैश्वर्ये, इन्द्रः । ऐश्वर्यहेतून्बहून्दर्शयति - त्रातारमवितारं देवानाम् ; 'तस्मादिन्द्रव्यपदेशभाजं अवितारं सर्वेषामपि तर्पयितारं इन्द्रं इतोपीन्द्रव्पदेशभाजम्, हवेहवे सुहवं सर्वेष्वाह्वानेषु सुखेनाह्वातव्यं निर्भयैः । 'भावेनुपसर्गस्य' इत्यप्सम्प्रसारणं च, 'बहुलं छन्दसि' इति सम्प्रसारणे आकारान्तत्वाभावात्खलेव भतति । शूरं महाबलं सर्वजेतारं तथाप्याहूतमात्र एवागच्छन्तं इन्द्रं इतोपीन्द्रशब्दाभिधेयं शक्रं सर्वार्थसाधनशक्तं पुरुहूतं बहुभिर्यजमानैराहूतं अतोप्यासादितेन्द्रत्वं देवेश्वरं हुवे आह्वयामि । शपो लुक्, 'पूर्ववत्सम्प्रसारणम् । नु इति पादपूरणे । स मघवाप्रशस्तैर्धनैः अन्नादिभिर्हविरादिभिश्च तद्वान् अतश्चेन्द्रपदाभिधानार्हः नोस्मभ्यं स्वस्ति अविनाशं धातु ददातु । शपो लुक् । 'मघवा बहुलम्' इति निपात्यते । 'इत्थम्भूतेन कृतमिति च' इति पुरुहूतशब्दोन्तोदात्तः । यद्वा - पुरुषु स्थानेषु दूतः पुरुहूतः । 'तृतीया कर्मणि' इति प्राप्त्यभावात् कृदुत्तरपदप्रकृतिस्वरत्वमेव निपात्यते । अत्र पुनःपुनः इन्द्रोक्तिरस्माकं सर्वार्थेषु त्वमेव शरणं नान्य इत्यादरसूचनार्था ॥
 </details>
+</details>
+</div>
 
-#### याज्या
+
+
+
+###### याज्या
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 17तत्रैव याज्या - मा ते अस्यामिति त्रिष्टुप् ॥ 
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/12_kAmyeShTi-mantrAH/07_mA_te.md">
+<details open><summary><h8>विश्वास-प्रस्तुतिः ...{Loading}...</h8></summary>
 
 **मा** ते॑ अ॒स्याम् [50] सहसाव॒न्+++(←सहः)+++  
 परि॑ष्टाव्+++(=परितः)+++ अ॒घाय॑ **भूम** हरिवᳶ, परा॒दै+++(=परादातुम्)+++ ।   
 **त्राय॑स्व** नो ऽवृ॒केभि॒र् वरू॑थै॒स्+++(=गृहैः)+++  
 तव॑ **प्रि॒यास॑स्** सू॒रिषु॑ **स्याम**  ॥
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/12_kAmyeShTi-mantrAH/07_mA_te.md">
+<details open><summary><h8>सर्वाष् टीकाः ...{Loading}...</h8></summary>
 <details><summary>Keith</summary>
 
 May we not [5], O strong one, in this distress,  
@@ -2775,9 +2825,14 @@ May we be dear to you among the princes.
 
 किम्बहुना - **सूरिषु** मेधाविषु मध्ये वयम् एव तव **प्रियासः** प्रियास् स्याम भवेम । आज्जसेरसुक् । 'युष्मदस्मदोर्ङसि' इति तवशब्द आद्युदात्तः ॥
 </details>
+</details>
+</div>
 
-### अर्काश्वमेधवद्यागे 
-#### पुरोनुवाक्या
+
+
+
+##### अर्काश्वमेधवद्यागे 
+###### पुरोनुवाक्या
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 18'इन्द्रायार्काश्वमेधवते पुरोडाशमेकादशकपालं निर्वपेद्यं महायज्ञो नोपनमेत्' इत्यस्य पुरोनुवाक्या - अनवस्त इति त्रिष्टुप् ॥ 
@@ -2810,15 +2865,15 @@ May we be dear to you among the princes.
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-########## Strata
+###### Strata
 Normal
 
-########## Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-########## Morph
+###### Morph
 ánavaḥ ← ánu- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -2970,11 +3025,11 @@ u ← u (invariable)
 </details>
 <details><summary>Wilson</summary>
 
-######### English translation:
+###### English translation:
 
 “The **Ṛbhus** have fabricated your car, **Indra**, the invoked of many, adapted to its horses; **Tvaṣṭā** (had made) your radiant thunderbolt; the venerable (**Aṅgirasas**), praising Indra with hymns, have given him vigour for the destruction of Ahi.”
 
-######### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 The Ṛbhus: **anavaḥ** is the text, explained **manuṣyaḥ** and applied to **ṛbhavaḥ**; the venerable aṅgirasas: brāhmaṇāḥ, **brāhmaṇas** is the text, explained as **aṅgirasaḥ**
 </details>
@@ -3065,7 +3120,7 @@ Die Menschen machten für dein Ross den Wagen Tvaschtar den lichten Blitz, o vie
 </div>  
 
 
-#### याज्या
+###### याज्या
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 19तत्रैव याज्या - वृष्ण इति त्रिष्टुप् ॥ 
@@ -3074,6 +3129,314 @@ Die Menschen machten für dein Ross den Wagen Tvaschtar den lichten Blitz, o vie
 समाप्तश्च प्रपाठकः ॥
 
 </details>
-</details>
-</div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/031/05_vRShNe_yatte.md">
+<details open><summary><h9>०५ वृष्णे यत्ते ...{Loading}...</h9></summary>
 
+
+वृष्णे॒ यत् ते॒ वृष॑णो+++(→मरुतः, ग्रावाणः)+++ अ॒र्कम् **अर्चा॒न्**  
+इन्द्र॒ ग्रावा॑णो॒+++(→मेघाः)+++ अदि॑तिः स॒जोषाः॑ ।  
+अ॒न॒श्वासो॒ ये प॒वयो॑+++(=नेमयः, वज्राणि)+++ ऽर॒था  
+इन्द्रे॑षिता **अ॒भ्यव॑र्तन्त॒** दस्यू॑न् ॥
+
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/031/05_vRShNe_yatte.md">
+<details open><summary><h9>005 ...{Loading}...</h9></summary>
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - इन्द्रः
+- ऋषिः - अवस्युरात्रेयः
+- छन्दः - त्रिष्टुप्
+</details>
+<details><summary>Thomson & Solcum</summary>
+
+वृ꣡ष्णे य꣡त् ते वृ꣡षणो अर्क꣡म् अ꣡र्चान्  
+इ꣡न्द्र ग्रा꣡वाणो अ꣡दितिः सजो꣡षाः  
+अनश्वा꣡सो ये꣡ पव꣡यो अरथा꣡  
+इ꣡न्द्रेषिता अभ्य् अ꣡वर्तन्त द꣡स्यून्
+</details>
+<details><summary>Vedaweb annotation</summary>
+
+###### Strata
+Normal
+
+###### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+###### Morph
+árcān ← √r̥c- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+arkám ← arká- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vŕ̥ṣaṇaḥ ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vŕ̥ṣṇe ← vŕ̥ṣan- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+áditiḥ ← áditi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+grā́vāṇaḥ ← grā́van- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sajóṣāḥ ← sajóṣa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+anaśvā́saḥ ← anaśvá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+arathā́ḥ ← arathá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+paváyaḥ ← paví- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+abhí ← abhí (invariable)  
+{}
+
+ávartanta ← √vr̥t- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+dásyūn ← dásyu- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+índreṣitāḥ ← índreṣita- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+</details>
+<details><summary>पद-पाठः</summary>
+
+वृष्णे॑ । यत् । ते॒ । वृष॑णः । अ॒र्कम् । अर्चा॑न् । इन्द्र॑ । ग्रावा॑णः । अदि॑तिः । स॒ऽजोषाः॑ ।  
+अ॒न॒श्वासः॑ । ये । प॒वयः॑ । अ॒र॒थाः । इन्द्र॑ऽइषिताः । अ॒भि । अव॑र्तन्त । दस्यू॑न् ॥
+</details>
+<details><summary>Hellwig Grammar</summary>
+
+-   *vṛṣṇe* ← *vṛṣan*
+- \[noun\], dative, singular, masculine
+- “bull; Indra; stallion; Vṛṣan; man.”
+------------------------------------------------------------------------
+- *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *te* ← *tvad*
+- \[noun\], dative, singular
+- “you.”
+------------------------------------------------------------------------
+- *vṛṣaṇo* ← *vṛṣaṇaḥ* ← *vṛṣan*
+- \[noun\], nominative, plural, masculine
+- “bull; Indra; stallion; Vṛṣan; man.”
+------------------------------------------------------------------------
+- *arkam* ← *arka*
+- \[noun\], accusative, singular, masculine
+- “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
+    beam.”
+------------------------------------------------------------------------
+- *arcān* ← *arc*
+- \[verb\], plural, Present conjunctive (subjunctive)
+- “sing; worship; honor; praise; welcome.”
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *grāvāṇo* ← *grāvāṇaḥ* ← *grāvan*
+- \[noun\], nominative, plural, masculine
+- “stone; millstone; grindstone; mountain.”
+------------------------------------------------------------------------
+- *aditiḥ* ← *aditi*
+- \[noun\], nominative, singular, feminine
+- “Aditi; aditi \[word\].”
+------------------------------------------------------------------------
+- *sajoṣāḥ* ← *sajoṣas*
+- \[noun\], nominative, singular, feminine
+- “consentaneous; combined; associated; united.”
+------------------------------------------------------------------------
+- *anaśvāso* ← *an*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *anaśvāso* ← *aśvāsaḥ* ← *aśva*
+- \[noun\], nominative, plural, masculine
+- “horse; aśva \[word\]; Aśva; stallion.”
+------------------------------------------------------------------------
+- *ye* ← *yad*
+- \[noun\], nominative, plural, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *pavayo* ← *pavayaḥ* ← *pavi*
+- \[noun\], nominative, plural, masculine
+- “vajra; tire; rim.”
+------------------------------------------------------------------------
+- *'rathā* ← *a*
+- \[adverb\]
+- “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
+------------------------------------------------------------------------
+- *'rathā* ← *rathāḥ* ← *ratha*
+- \[noun\], nominative, plural, masculine
+- “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
+------------------------------------------------------------------------
+- *indreṣitā* ← *indra*
+- \[noun\], masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *indreṣitā* ← *iṣitāḥ* ← *iṣay* ← *√iṣ*
+- \[verb noun\], nominative, plural
+------------------------------------------------------------------------
+- *abhy* ← *abhī* ← *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *avartanta* ← *vṛt*
+- \[verb\], plural, Imperfect
+- “behave; happen; exist; return; dwell; die; roll; continue; act;
+    exist; feed on; issue; move; travel; proceed; turn; situate; drive;
+    account for; begin; do; inhere; revolve.”
+------------------------------------------------------------------------
+- *dasyūn* ← *dasyu*
+- \[noun\], accusative, plural, masculine
+- “savage; outcast; mugger.”
+------------------------------------------------------------------------
+</details>
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **इन्द्र** **यत्** यदा **वृषणः** सेचनसमर्था मरुतः **वृष्णे** कामानां वर्षित्रे **ते** तुभ्यम् **अर्कं** स्तोत्रम् **अर्चान्** अस्तुवन् अकुर्वन्नित्यर्थः । तदा **अदितिः** अदीनाः ॥ वचनव्यत्ययः ॥ 
+**ग्रावाणः** अभिषवपाषाणाः **सजोषाः** संगता बभूवुरिति शेषः । **अनश्वासः** अश्ववर्जिताः **अरथाः** रथहीनाः **इन्द्रेषिताः** इन्द्रेण प्रेषिताः **पवयः** पवमाना गच्छन्तः **ये** मरुतः **दस्यून्** शत्रून् **अभ्यवर्तन्त** अभिभूतान् कुर्वन्तो वर्तन्ते स्म ते मरुतोऽर्चानिति संबन्धः ॥ ॥ २९ ॥
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+हे **इन्द्र ते** तुभ्यं **वृष्णे** वर्षित्रे अभिमतदात्रे । षष्ठ्यर्थे चतुर्थी । तव वर्षितुः **अर्कम्** अर्चनीयमाज्ञां अर्चनीयं वा ते तव यागमर्चानर्चयन्ति पूजयन्ति । लेट्याडागमः । 
+
+के ? **वृषणः ग्राव्णः** वर्षितारो मेघाः वृष्टिं कुर्वन्तस्तवार्कमर्चयन्ति मेघा इत्यर्थः । 'वा षपूर्वस्य निगमे' इति दीर्घाभावः । **अदितिः** पृथिवी च **सजोषाः** समानप्रीतिः त्वया तैर् वा मेघैरानुकूल्यं भजमाना सस्याद्युत्पादयतस्तव **कर्मार्कम्** अर्चयति । **यद्** यदा एवमेते कुर्वन्ति, तदानीं दुष्टात्मानो **दस्यवोपि** त्वयैव हन्तव्या इति तत्प्रार्थयते - **अनश्वासः** अश्वरहिताः । 'आज्जसेरसुक्' **अरथाः** रथरहिताः अश्वरथमनपेक्षमाणाः । 'नञ्सुभ्याम्' इत्युत्तरपदान्तोदात्तत्वम् । **ये पवयस्** तवायुधविशेषाः **इन्द्रेषितास्** सर्वदेन्द्रेणैव प्रेषिताः अन्येन प्रेषितुम् अशक्याः ; **ते दस्यून् अभ्यवर्तन्त** दस्यूनभिवर्तन्तां आभिमुख्येन हन्तुं वर्तन्ताम् । स्वरणादिद्वारा अस्मदुपक्षपयितारो दस्यवः । तानभिभूय पराजितान्कृत्वा सर्वदाऽस्मान्रक्षन्तो वर्तन्तामिति भावः । छान्दसो लङ् । एवं सर्वस्य लोकस्य रक्षको महात्मा त्वम् ; अतोस्माकमपि महायज्ञमुपनयेति ॥
+
+</details>
+<details><summary>Wilson</summary>
+
+###### English translation:
+
+“When the **Maruts**, the showerers (of benefits), glorify you, **Indra**, the showerer (of desires), with praises, and the exulting stones delight (to bruise the **Soma**), then, without horses, without chariots, they, the purifying (Maruts), dispatched by Indra, have overcome the **Dasyus**.”
+</details>
+<details><summary>Jamison Brereton</summary>
+
+When for you the bull, o Indra, the bulls and the pressing stones will  chant a chant, with Aditi in concord—  
+the (pressing stones like) wheel-rims which, (even) without horses,  
+without chariots, but impelled by Indra, rolled over the Dasyus—
+</details>
+<details><summary>Jamison Brereton Notes</summary>
+
+Unlike 4a where I separate the identically positioned enclitic gen. from the following instr., I do take asya here with krátubhiḥ, which, unlike svadháyā, is frequently found with a gen. With Geldner I think the referent is Indra (contra Witzel Gotō, who take it to be Vṛtra-Śuṣṇa).
+
+I take níṣattam as proleptic, depicting Vṛtra’s position after the action of ní jaghāna in the immediately preceding pāda (4d). With Geldner I consider 5a essentially a continuation of 4d and supply the same verb.
+
+In b I supply ‘thinking himself’ with amarmáṇaḥ on the basis of 3c and of the almost identical III.32.4cd … viveda, amarmáṇo mányamānasya márma. The verb in b, vidát, is accented because of the following íd (see Grassmann s.v. íd 5, though there are fewer clear examples than he presents, since many of them are also pāda-initial). The Indra-reference shifts from 3rd to 2nd between the first and second hemistich, but this is scarcely novel.
+
+
+
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/031/05-06.md">
+<details open><summary><h11>05-06 ...{Loading}...</h11></summary>
+<details><summary>Jamison Brereton Notes</summary>
+
+Vs. 5 is syntactically problematic, in that it has two subordinate clauses, one marked by yád in pāda a and one marked by yé in pāda c, but no obvious main clause. The rel. cl. beginning in c must extend through d, which contains the accented imperfect ávartanta, but the extent of the yád clause is unclear. It must go as far as the end of pāda a because of the accented subjunctive árcān, but the status of b is in question. Since the vs. otherwise lacks a main clause, Geldner and Witzel Gotō make b the nominal main clause, e.g., Geldner “…, da waren die Presssteine, die Aditi einverstanden.” This is possible, but seems conceptually weak, and both Geldner and Witzel Gotō fail to render the subjunctive value of the verb in the yád clause -- Geldner silently changing it into a preterite (“anstimmten”) and Witzel Gotō using a simple pres. (“singen”).
+
+But I think the subjunctive should be taken seriously, esp. given its contrast with the impf. ávartanta in d. My solution is to assume the main clause is postponed till vs. 6, whose first pāda contains the familiar annunciatory pseudo-subjunctive prá … vocam “I shall proclaim.” Thus, vss. 5-6 depict a ritual situation in which the noise of the pressing stones is, as so often, configured as ritual speech (see, e.g., vs. 12c vádan grā́vā in this same hymn), to which the poet responds in vs. 6. I now think that vṛ́ṣaṇaḥ in pāda a is not a separate subject (“the bulls and the pressing stones” of the published translation), but instead qualifies the stones (“the bullish pressing stones”; for pressing stones as bulls, see, e.g., III.42.6, VI.44.20), and I would change the tr. to “When for you the bull, o Indra, the bullish pressing stones will chant a chant …” Sāyaṇa., cited approvingly by Geldner in n. 5a, identifies the bulls of pāda a as the Maruts, and Witzel Gotō also accept this identification, but again the subjunctive makes difficulties: the actions of the Maruts should not be prospective, but located in the mythic past (hence, presumably, Geldner’s switch to the preterite).
+
+So the skeleton of the sentence spread over two vss. is “When the pressing stones will chant a chant to you, I will proclaim your deeds.” A few loose ends remain in vs. 5. The presence of Aditi in b at first takes one aback, but as Geldner points out (n. 5b), soma is said elsewhere to be prepared “in the lap of Aditi,” so her proximity to the pressing stones is a ritual given. I take áditiḥ sajóṣāḥ as a separate mini-constituent, with the nom. sg. of the -s-stem adjective serving for the fem. as well as the masc., as usual. The second hemistich detours into a conceit -- involving an unexpressed comparison of the pressing stones with deadly wheel rims that have crushed the enemy; cf. a similar passage in X.27.6 ádhy ū nv èṣu vavṛtyuḥ “The wheel rims should now roll over them.” In part the conceit responds to the chariot-focused theme of this hymn, esp. the chariot conflict depicted in vs. 11; in part it highlights the pressing stones’ demon-killing power, found, e.g., in X.76.4.
+
+The subjunctive vibhárā(ḥ) in the yád clause is potentially troublesome for my interpr. of árcān in 5a, for it seems to refer to past, cosmogonic deed(s) of Indra’s -- the separation of the two world halves and the winning of water for mankind (two events not usually connected). This surprising usage of the subjunctive is noted by Delbrück (AiSyn 322: subjunctive where we expect the indicative of a narrative tense). Oldenberg is undisturbed by the subjunctive and points to 5a as similar, which is exactly what I would prefer to point away from; see my explanation of árcān above.
+
+Hoffmann (244-45) classifies it as “Konjunktiv in präteritalem Sachverhalt” and suggests that the subjunctive in its prospective use can take on a timeless sense (“… einen ausserzeitlichen Sinn annehmen kann”). Geldner simply translates it as a preterite (trenntest) without comment, but Witzel Gotō take the subjunctive seriously here (though not in 5a): “… dass du … trennen und … gewinnen willst,” without further comment. I do not have an entirely satisfactory answer, but I think the yád clause must be evaluated in the context of what precedes: 6ab announces that I will proclaim Indra’s previous deeds (pū́rvāṇi káraṇāni) and “the current ones which you have done” (nū́tanā … yā́cakártha). This latter expression, which is found identically in VII.98.5, seems temporally incoherent: if they are his current deeds, he should not have already done them; yā́cakártha should limit only the first phrase, pū́rvāṇi káraṇāni. A fuller expression of this proclamation announcement, with the time of action correctly sorted, is found in nearby V.29.13 vīryā̀… yā́cakártha / yā́co nú návyā kṛṇávaḥ “The heroic deeds that you have done and the new ones that you will do,” with the perfect cakártha qualifying the deeds already done and the subjunctive kṛṇávaḥ the new ones. Immediately afterwards it is said prá … tā́… bravāma “we shall proclaim these,” like our prá … vocam. I think we should interpret our 6cd in the light of V.29.13. The rel. clause yā́cakártha should, properly speaking, limit only the pū́rvāṇi, while the nū́tanā ‘current (deeds)’ are further specified by a single example (or perhaps two), expressed by the yád clause in cd using the subjunctive. A problem remains: as noted above, the separation of the two worlds is one of Indra’s standard cosmogonic deeds as is, in the Vṛtra myth, his winning of the waters. We should expect these to be classified among the pū́rvāṇi. But of course one of the reasons for celebrating older, mythic deeds is to persuade / compel the god to perform these deeds again in the present for our benefit, and we can interpret the yád
+
++ SUBJUNCTIVE clause here in that way. The separation of the two world halves is, on a smaller scale, accomplished every morning when dawn reveals the horizon where the darkness had kept earth and sky undifferentiated. And winning waters is something that needs to be repeated at least yearly. The subjunctive here indicates that our focus is on the re-creation of these older deeds, not simply on celebrating their original performance. In this context mánave ‘for Manu’ would have the extended sense ‘for mankind’.
+</details>
+</details>
+</div>
+</details>
+<details><summary>Griffith</summary>
+
+When heroes sang their laud to thee the Hero, Indra! and stones and Aditi accordant,  
+     Without or steed or chariot were the fellies which, sped by Indra, rolled upon the Dasytis.
+</details>
+<details><summary>Keith</summary>
+
+What time the strong sang praise to the strong,  
+O Indra, the stones and Aditi in unison,  
+Without steeds or chariots were the fellies  
+Which, sped by Indra, rolled against the Dasyus.
+</details>
+<details><summary>Geldner</summary>
+
+Als dir, dem Bullen, die Bullen, o Indra, den Lobgesang anstimmten, da waren die Preßsteine, die Aditi einverstanden, welche Steine wie Radschienen von Indra entsandt, ohne Roß und Wagen auf die Dasyu´s losgingen.
+</details>
+<details><summary>Grassmann</summary>
+
+Als dir dem Stier die Stiere Preislied sangen vereint die Stiere, Indra, und der Saftstrom, Da rollten Räder ohne Ross und Wagen beeilt von Indra über alle Feinde.
+</details>
+<details><summary>Elizarenkova</summary>
+
+Когда тебе, быку, быки пропели песнопения,  
+Давильные камни, о Индра, (и) Адити (были) единодушны.  
+Ободья, что без коней (и) без колесниц,  
+Посланные Индрой, наехали на дасью.
+</details>
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- अमहीयुः
+- त्रिष्टुप्
+- धैवतः
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+फिर उसी विषय को कहते हैं ॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे (इन्द्र) दुष्ट दलों के नाश करनेवाले राजन् ! (यत्) जिन (वृष्णे) वृष्टि करनेवाले (ते) आपके लिये (अर्कम्) सत्कार करने योग्य का प्रजाजन (अर्चान्) सत्कार करें वह जैसे (वृषणः) वर्षा के निमित्त (ग्रावाणः) मेघ और (सजोषाः) समान प्रीति का सेवन करनेवाला और (अदितिः) अन्तरिक्ष वर्त्तमान हैं, वैसे हूजिये और (ये) जो (अरथाः) वाहनों से रहित (अनश्वासः) घोड़ों से रहित (इन्द्रेषिताः) स्वामी से प्रेरणा किये गये (पवयः) चक्र (दस्यून्) दुष्ट चोरों के (अभि) सन्मुख (अवर्त्तन्त) वर्त्तमान हैं, उनका आप निरन्तर सत्कार कीजिये ॥५॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  जो राजाजन मेघ के सदृश सुख वर्षाने और आकाश के सदृश नहीं हिलनेवाले, अग्नि आदिकों के वाहनों को रच के इधर-उधर भ्रमण करके दुष्ट चोरों का नाश करके प्रजाओं को प्रसन्न करें, वे भाग्यशाली होते हैं ॥५॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
+
+अन्वय:  हे इन्द्र राजन् ! यद्यस्मै वृष्णे तेऽर्कं प्रजाजना अर्चान् स यथा वृषणो ग्रावाणः सजोषा अदितिश्च वर्त्तन्ते तथा भव येऽरथा अनश्वास इन्द्रेषिताः पवयो दस्यूनभ्यवर्त्तन्त तांस्त्वं सततं सत्कुर्याः ॥५॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+पुनस्तमेव विषयमाह ॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (वृष्णे) वृष्टिकराय (यत्) यस्मै (ते) तुभ्यम् (वृषणः) वृष्टिनिमित्ताः (अर्कम्) पूजनीयम् (अर्चान्) पूजयन्तु (इन्द्र) दुष्टदलहर (ग्रावाणः) मेघाः (अदितिः) अन्तरिक्षम् (सजोषाः) समानप्रीतिसेवी (अनश्वासः) अविद्यमाना अश्वा येषु ते (ये) (पवयः) चक्राणि (अरथाः) अविद्यमाना रथा येषान्ते (इन्द्रेषिताः) इन्द्रेण स्वामिना प्रेरिताः (अभि) (अवर्त्तन्त) वर्त्तन्ते (दस्यून्) दुष्टाञ्चोरान् ॥५॥
+</details>
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  ये राजानो मेघवत्सुखवर्षका आकाशवदक्षोभा अग्न्यादियानानि रचयित्वेतस्ततो भ्रमणं विधाय दस्यून् हत्वा प्रजाः प्रसादयेयुस्ते भाग्यशालिनो जायन्ते ॥५॥
+</details>
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  जे राजे मेघाप्रमाणे सुखाचा वर्षाव व आकाशाप्रमाणे स्थिर असतात. अग्नी इत्यादीद्वारे वाहन निर्माण करून इकडे तिकडे भ्रमण करतात व दुष्ट चोरांचा नाश करतात तेच प्रजेला प्रसन्न करून भाग्यशाली बनतात. ॥ ५ ॥
+</details>
+</details>
+</div>
+</details>
+</div>

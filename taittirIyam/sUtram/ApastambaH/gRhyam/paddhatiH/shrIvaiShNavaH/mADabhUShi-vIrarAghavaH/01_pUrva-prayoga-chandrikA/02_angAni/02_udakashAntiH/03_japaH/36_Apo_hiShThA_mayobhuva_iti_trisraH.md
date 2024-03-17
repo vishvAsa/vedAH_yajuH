@@ -1,7 +1,8 @@
 +++
-title = "३६ 'आपो हिष्ठा मयोभुव' इति त्रिस्रः,"
+title = "३६ 'आपो हिष्ठा मयोभुवः"
 
 +++
+'आपो हिष्ठा मयोभुव' इति त्रिस्रः,
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/01_Apo_hi.md">
 <details open><summary><h4>०१ आपो हि ...{Loading}...</h4></summary>

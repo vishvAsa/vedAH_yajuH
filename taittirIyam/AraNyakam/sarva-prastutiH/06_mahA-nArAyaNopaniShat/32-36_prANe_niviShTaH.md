@@ -1,5 +1,5 @@
 ---
-title: ३४-३६ प्राणे निविष्टोऽहम्
+title: ३२-३६ प्राणे निविष्टः
 unicode_script: devanagari
 
 ---

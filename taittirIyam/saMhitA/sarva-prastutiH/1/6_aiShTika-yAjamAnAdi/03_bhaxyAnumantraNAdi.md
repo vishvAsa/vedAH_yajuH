@@ -126,42 +126,34 @@ Touch the heads.
 
 इड॒ एह्यदि॑त॒ एहि॒ सर॑स्व॒त्येहि॒ रन्ति॑रसि॒ रम॑तिरसि सू॒नर्य॑सि 
 </details>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/03_bhaxyAnumantraNAdi/iDa_ehi.md">
+<details open><summary><h5>इड॒ एहि॑ ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इड॒ एहि॑+++(=आ+इ॑हि)+++ ।  
-अदि॑त॒ एहि॑ ।
+अदि॑त॒ एहि॑ ।  
+सर॑स्व॒त्य् एहि॑+++(=आ+इ॑हि)+++ ।
 </details>
 <details><summary>Keith</summary>
 
 O Ida, come hither; O Aditi, come hither; 
+O Sarasvati, come hither.
 </details>
 <details><summary>मूलम्</summary>
 
 इड॒ एहि॑ ।  
-अदि॑त॒  एहि॑ ।
+अदि॑त॒  एहि॑ ।  
+सर॑स्व॒त्येहि॑ ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
 **इडादयश्** शब्दा गवां नामानि, यथा - 'इडे रन्तेदिते सरस्वति प्रिये प्रेयसि महि विश्रुत्येतनि ते अघ्निये नामानि' इति । ताच्-छब्द्येनेडा स्तूयते । 
 
-तत्र गवां भेदान् **निमृढ्वम्** इति बहुवचनम् उपपद्यते, हे इडादयो यूयमागत्य मां निमृढ्वमिति ।  यदा तु गोभिर् अभेदेनेडोच्यते हे इडादिरूपे इड इति तदा त्वेकवचनम् एव न्याय्यम् । **इडा** पशुसाधनीड्या वा । **अदितिर्** अदीना अखण्डनीया ।
-</details>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-सर॑स्व॒त्य् एहि॑+++(=आ+इ॑हि)+++ ।
-</details>
-<details><summary>Keith</summary>
-
-O Sarasvati, come hither.
-</details>
-<details><summary>मूलम्</summary>
-
-सर॑स्व॒त्येहि॑ ।
-</details>
-<details><summary>भट्टभास्कर-टीका</summary>
-
+तत्र गवां भेदान् **निमृढ्वम्** इति बहुवचनम् उपपद्यते, हे इडादयो यूयमागत्य मां निमृढ्वमिति ।  यदा तु गोभिर् अभेदेनेडोच्यते हे इडादिरूपे इड इति तदा त्वेकवचनम् एव न्याय्यम् । **इडा** पशुसाधनीड्या वा । **अदितिर्** अदीना अखण्डनीया ।  
 सरस्वती सरणवती सरस्वतीसदृशा वा ।
 </details>
+</details>
+</div>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रन्ति॑र् असि ।
@@ -333,7 +325,7 @@ The path that leadeth to the gods, along it may the sacrifice go to the gods.
 
 इदनीं यज्ञस्य मार्ग उपदिश्यते - यो देवयानः पन्थाः येन पथा देवान् गच्छति देवत्वं वा प्राप्यते तेन पथायं यज्ञो देवानप्येतु तेन मार्गेण गत्वा देवाननुप्रविशतु ॥
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/03_bhaxyAnumantraNAdi/02_asmAsv_indra.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/03_bhaxyAnumantraNAdi/02_asmAsv_indra.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अ॒स्मास्व् इन्द्र॑ **इन्द्रि॒यन् द॑धात्व्**  
@@ -342,7 +334,7 @@ The path that leadeth to the gods, along it may the sacrifice go to the gods.
 सा नᳶ॑ प्रि॒या सु॒प्रतू᳚र्तिर् म॒घोनी॒॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/03_bhaxyAnumantraNAdi/02_asmAsv_indra.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/03_bhaxyAnumantraNAdi/02_asmAsv_indra.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 

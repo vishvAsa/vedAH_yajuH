@@ -126,19 +126,23 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/23/03_atha_purANe_shlokAvudAharanti.md">
 <details open><summary><h4>03 अथ पुराणे श्लोकावुदाहरन्ति ...{Loading}...</h4></summary>
 
-अथ पुराणे श्लोकावुदाहरन्ति ३
+अथ पुराणे श्लोकाव् उदाहरन्ति ३
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/23/04_aShTAshItisahasrANi_ye_prajAmIshira.md">
 <details open><summary><h4>04 अष्टाशीतिसहस्राणि ये प्रजामीशिर ...{Loading}...</h4></summary>
 
-अष्टाशीतिसहस्राणि ये प्रजामीशिर +++(=अभ्यनन्दन्)+++ ऋर्षयः । दक्षिणेनार्यम्णः पन्थानं ते श्मशानानि भेजिरे ४
+अष्टाशीति-सहस्राणि ये  
+प्रजाम् ईशिर +++(=अभ्यनन्दन्)+++ ऋर्षयः ।  
+दक्षिणेनार्यम्णः पन्थानं  
+ते श्मशानानि भेजिरे ४
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/23/05_aShTAshItisahasrANi_ye_prajAn.md">
 <details open><summary><h4>05 अष्टाशीतिसहस्राणि ये प्रजान् ...{Loading}...</h4></summary>
 
-अष्टाशीतिसहस्राणि ये प्रजां नेषिरर्षयः । उत्तरेणार्यम्णः पन्थानं तेऽमृतत्वं हि कल्पते ५
+अष्टाशीतिसहस्राणि ये प्रजां नेषिरर्षयः ।  
+उत्तरेणार्यम्णः पन्थानं तेऽमृतत्वं हि कल्पते ५
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/23/06_ityUrdhvaretasAm_prashaMsA.md">
@@ -150,37 +154,48 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/23/07_athApi_sankalpasiddhayo_bhavanti.md">
 <details open><summary><h4>07 अथापि सङ्कल्पसिद्धयो भवन्ति ...{Loading}...</h4></summary>
 
-अथापि संकल्पसिद्धयो +++(=सङ्कल्पत एव सिद्धिः)+++ भवन्ति ७
+अथापि संकल्प-सिद्धयो +++(=सङ्कल्पत एव सिद्धिः)+++ भवन्ति ७
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/23/08_yathA_varSham_prajAdAnan.md">
 <details open><summary><h4>08 यथा वर्षम् प्रजादानन् ...{Loading}...</h4></summary>
 
-यथा वर्षं प्रजादानं दूरे दर्शनं मनोजवता यच्चान्यदेवं युक्तम् ८
+यथा वर्षं, प्रजा-दानं,  
+दूरे दर्शनं, मनो-जवता,  
+यच्चान्यद् एवं युक्तम् ८
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/23/09_tasmAchChrutitaH_pratyaxaphalatvAchcha_vishiShTAnAshramAnetAneke.md">
 <details open><summary><h4>09 तस्माच्छ्रुतितः प्रत्यक्षफलत्वाच्च विशिष्टानाश्रमानेतानेके ...{Loading}...</h4></summary>
 
-तस्माच्छ्रुतितः प्रत्यक्षफलत्वाच्च विशिष्टानाश्रमानेतानेके ब्रुवते ९
+तस्माच् छ्रुतितः, प्रत्यक्ष-फलत्वाच् च  
+विशिष्टान् आश्रमान् एतान् एके ब्रुवते ९
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/23/10_traividyavRddhAnAn_tu_vedAH.md">
 <details open><summary><h4>10 त्रैविद्यवृद्धानान् तु वेदाः ...{Loading}...</h4></summary>
 
-त्रैविद्यवृद्धानां तु वेदाः प्रमाणमिति निष्ठा। तत्र यानि श्रूयन्ते व्रीहियवपश्वाज्यपयःकपालपत्नीसंबन्धान्युच्चैर्नीचैः कार्यमिति तैर्विरुद्ध आचारोऽप्रमाणमिति मन्यन्ते १०
+त्रैविद्य-वृद्धानां तु  
+वेदाः प्रमाणम्  
+इति निष्ठा।  
+तत्र यानि श्रूयन्ते  
+व्रीहि-यव-पश्व्-आज्य-पयः-कपाल-पत्नी-संबन्धान्य्  
+उच्चैर् नीचैः कार्यम् इति  
+तैर् विरुद्ध आचारो ऽप्रमाणम् इति मन्यन्ते १०
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/23/11_yattu_shmashAnamuchyate_nAnAkarmaNAmeSho-nte.md">
 <details open><summary><h4>11 यत्तु श्मशानमुच्यते नानाकर्मणामेषोऽन्ते ...{Loading}...</h4></summary>
 
-यत्तु श्मशानमुच्यते +++("दक्षिणेनार्यम्णः पन्थानं ते श्मशानानि भेजिरे" इत्यस्मिन्)+++ नानाकर्मणामेषोऽन्ते पुरुषसंस्कारो विधीयते ११
+यत् तु श्मशानम् उच्यते  
++++("दक्षिणेनार्यम्णः पन्थानं ते श्मशानानि भेजिरे" इत्यस्मिन्)+++  
+नाना-कर्मणाम् एषोऽन्ते पुरुष-संस्कारो विधीयते ११
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/23/12_tataH_paramanantyam_phalaM.md">
 <details open><summary><h4>12 ततः परमनन्त्यम् फलं ...{Loading}...</h4></summary>
 
-ततः परमनन्त्यं फलं स्वर्ग्यशब्दं श्रूयते १२
+ततः परम् अनन्त्यं फलं स्वर्ग्य-शब्दं श्रूयते १२
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/24/14_syAttu_karmAvayavena_tapasA.md">

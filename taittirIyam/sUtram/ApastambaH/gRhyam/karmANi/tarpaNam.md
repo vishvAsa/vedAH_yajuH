@@ -10,7 +10,7 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/08_upAkarmotsarjanaprakaraNam/11u_26.md">
 <details open><summary><h2>११उ २६ ...{Loading}...</h2></summary>
 
-एवमेवाद्भिरहरहर्देवानृषीन् पितॄंश्च तर्पयेत् ॥२६॥
+एवम् एवाद्भिर् +++(एवासनादिवर्जम्)+++ अहरहर् देवान् ऋषीन् पितॄंश् च **तर्पयेत्** ॥२६॥
 
 </details>
 </div> 

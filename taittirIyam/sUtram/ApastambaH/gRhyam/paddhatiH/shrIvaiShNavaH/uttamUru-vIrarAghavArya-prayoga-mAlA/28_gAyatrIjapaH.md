@@ -26,12 +26,48 @@ title = "२८ गायत्रीजपः"
 
 इति सङ्कल्प्य, श्रोत्रियागारात् अग्निम् आहृत्य, अग्निं प्रतिष्ठाप्य, परिस्तीर्य, परिषिच्य, प्रणवव्याहृतिपूर्वया सावित्र्या आज्याभ्यक्तं समित्सहस्रम् एकैकश आधाय, परिषिच्य,
 
-ओम् अग्नये नमः, 
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/mantrahInam_hutAshana.md">
+<details open><summary><h5>मन्त्रहीनं - हुताशन ...{Loading}...</h5></summary>
 
-> मन्त्रहीनं क्रियाहीनं भक्तिहीनं हुताशन ।  
-यद्धुतं तु मया देव परिपूर्णं तदस्तु ते ॥  
-प्रायश्चित्तान्यशेषाणि तपः कर्मात्मकानि वै ।  
-यानि तेषामशेषाणां कृष्णानुस्मरणं परम् ॥ 
+
+(अग्नये नमः)
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मन्त्रहीनं क्रियाहीनं  
+भक्तिहीनं हुताशन ।  
+यद्धुतं तु मया देव  
+परिपूर्णं तदस्तु ते ॥  
+</details>
+<details><summary>मूलम्</summary>
+
+मन्त्रहीनं क्रियाहीनं  
+भक्तिहीनं हुताशन ।  
+यद्धुतं तु मया देव  
+परिपूर्णं तदस्तु ते ॥
+</details>
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/prAyashcittAny_asheShANi.md">
+<details open><summary><h5>प्रायश्चित्तान्यशेषाणि ...{Loading}...</h5></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रायश्चित्तान्य् अशेषाणि  
+तपः कर्मात्मकानि वै ।  
+यानि तेषाम् अशेषाणां  
+कृष्णानुस्मरणं परम् ॥
+</details>
+<details><summary>मूलम्</summary>
+
+प्रायश्चित्तान्यशेषाणि  
+तपः कर्मात्मकानि वै ।  
+यानि तेषामशेषाणां  
+कृष्णानुस्मरणं परम्॥
+</details>
+
+(कृष्ण कृष्ण कृष्ण॥)
+</details>
+</div>
 
 इति प्रणम्य, अभिवाद्य, आचम्य, इत्यग्निमुपतिष्ठेत ॥
 

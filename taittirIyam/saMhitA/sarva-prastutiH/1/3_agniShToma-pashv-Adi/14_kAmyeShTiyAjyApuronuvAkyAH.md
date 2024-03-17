@@ -62,15 +62,15 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+###### Strata
 Normal
 
-######## Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-######## Morph
+###### Morph
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -262,7 +262,7 @@ vidhatáḥ ← √vidh- (root)
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+###### English translation:
 
 “You, **Agni**, are **Rudra**, the expeller (of foes) from the expanse of heaven; you are the strength of the **Maruts**; you are supreme over (sacrificial) food; you, who are plural asantly domiciled (in the hall of sacrifice), go with ruddy horses, (fleet as) the wind; as **Pūṣan**, you cherish, of yours own will, those who offer worship.”
 </details>
@@ -384,15 +384,15 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+###### Strata
 Strophic
 
-######## Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-######## Morph
+###### Morph
 ā́ ← ā́ (invariable)  
 {}
 
@@ -532,11 +532,11 @@ kr̥ṇudhvam ← √kr̥- (root)
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+###### English translation:
 
 “Secure **Agni**, the king of sacrifice, the afflicter (of foes), the invoker (of the gods), the distributor of food through heaven and earth, the golden-formed, for your protection before (surprised by) sudden death.”
 
-####### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 **Purā** tanayitnor acittāt = liṭ, before the unconsciousness of the thunderbolt; this implies a state of unconsciousness, or death as sudden as if the work of the thunderbolt
 </details>
@@ -636,7 +636,7 @@ _______
 
 3'अग्नये सुरभिमते पुरोडाशम् अष्टाकपालं निर्वपेद् यस्य गावो वा पूरुषा वा प्रमीयेरन् यो वा बिभीयात्' इत्यस्य पुरोनुवाक्या - अग्निर्होतेति त्रिष्टुप् ॥
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/14_kAmyeShTiyAjyApuronuvAkyAH/02_agnir_hotA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/14_kAmyeShTiyAjyApuronuvAkyAH/02_agnir_hotA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अ॒ग्निर् होता॒ निष॑सादा॒ यजी॑यान्  
@@ -645,7 +645,7 @@ _______
 ध॒र्ता कृ॑ष्टी॒नाम् उ॒त मध्य॑ इ॒द्धः ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/14_kAmyeShTiyAjyApuronuvAkyAH/02_agnir_hotA.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/14_kAmyeShTiyAjyApuronuvAkyAH/02_agnir_hotA.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -702,15 +702,15 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-######## Pāda-label
+###### Pāda-label
 popular  
 popular  
 popular  
 popular
-######## Morph
+###### Morph
 adyá ← adyá (invariable)  
 {}
 
@@ -896,11 +896,11 @@ naḥ ← ahám (pronoun)
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+###### English translation:
 
 “He has today made our banquet to the gods efficacious; we have obtained the mysterious tongue ofsacrifice; he has come, fragrant, clothed with life; he makes our oblation to the gods today auspicious.”
 
-####### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Themysterious tongue: **Agni** is the tongue of the gods, by means of him they drink the oblations
 </details>
@@ -997,15 +997,15 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+###### Strata
 Cretic
 
-######## Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-######## Morph
+###### Morph
 agníḥ ← agní- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -1190,7 +1190,7 @@ ródasī ← ródasī- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+###### English translation:
 
 “**Agni** cries aloud like the thundering heaven; he licks the earth burning the plural nts; as soon asgenerated, he contemplates this (conflagration); when kindled he blazes with his (own) radiance between heavenand earth.”
 </details>
@@ -1282,15 +1282,15 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+###### Strata
 Cretic
 
-######## Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-######## Morph
+###### Morph
 hotar ← hótar- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -1441,11 +1441,11 @@ saúbhagāni ← saúbhaga- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+###### English translation:
 
 “Bright blazing **Agni**, invoker of the gods, to you the adorable deities have appropriated, by night and day, the riches (on the oblation); they have deposited in the purifer (Agni) all good things (agnau vāmam **vasu** sam nyadadhata: **Taittirīya** **Saṃhitā** 1.5.1.1), as they have plural ced all beings upon earth.”
 
-####### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 The adorable deities: yajñiyāsaḥ, entitled to sacrifices, i.e. **devas** or **yajamānaḥ**, the sacrificers
 </details>
@@ -1538,7 +1538,7 @@ _______
 
 7'अग्नये कामाय पुरोडाशम् अष्टाकपालं निर्वपेद् यं कामो नोपनमेत्' इत्यस्य पुरोनुवाक्या - तुभ्यं ता इति गायत्री ॥ 
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/14_kAmyeShTiyAjyApuronuvAkyAH/03_tubhyan_tA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/14_kAmyeShTiyAjyApuronuvAkyAH/03_tubhyan_tA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 तुभ्य॒न् ता अ॑ङ्गिरस्तम॒  
@@ -1546,7 +1546,7 @@ _______
 अग्ने॒ कामा॑य येमिरे+++(←यम्)+++ ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/14_kAmyeShTiyAjyApuronuvAkyAH/03_tubhyan_tA.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/14_kAmyeShTiyAjyApuronuvAkyAH/03_tubhyan_tA.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -1605,15 +1605,15 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+###### Strata
 Cretic
 
-######## Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-######## Morph
+###### Morph
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -1784,14 +1784,14 @@ te ← tvám (pronoun)
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+###### English translation:
 
 “May we obtain through your protection, **Agni**, that which we desire;  
 giver of riches, may we obtain of your riches and descendants;  
 desiring food, may we obtain food;  
 may we obtain, imperishable Agni, imperishable fame (through you).”
 
-####### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Yajrveda, 18.74
 </details>
@@ -1910,14 +1910,14 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+###### Strata
 Normal
 
-######## Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M
-######## Morph
+###### Morph
 bhārata ← bhā́rata- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -2010,11 +2010,11 @@ váso ← vásu- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+###### English translation:
 
 “Youngest (of the gods), **Agni** descendant of **Bhārata**, granter of dwellings, bring (to us) excellent, splendid and enviable riches.”
 
-####### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Descendant of Bhārata: Bhārata = sprung from the priests;
 
@@ -2137,15 +2137,15 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+###### Strata
 Cretic
 
-######## Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-######## Morph
+###### Morph
 rocanasthā́ḥ ← rocanasthā́- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -2287,7 +2287,7 @@ pr̥thū́ni ← pr̥thú- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+###### English translation:
 
 “(You who are) white-hued, vociferous, abiding in the firmament, (associated) with the imperishable, resounding (winds), the youngest (of the gods), **Agni**, who, purifying and most vast, proceeds, feeding upon numerous and substantial (forests).”
 </details>
@@ -2387,7 +2387,7 @@ _______
 
 11'अग्नय आयुष्मते पुरोडाशम् अष्टाकपालं निर्वपेद् - यः कामयेत सर्वम् आयुर् इयाम्' इत्य् अस्य पुरोनुवाक्या - आयुष्ट इत्यनुष्टुप् ॥ 
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/14_kAmyeShTiyAjyApuronuvAkyAH/04_AyuShTe_vishvato.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/14_kAmyeShTiyAjyApuronuvAkyAH/04_AyuShTe_vishvato.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 आयु॑ष्टे वि॒श्वतो॑ दधद्  
@@ -2396,7 +2396,7 @@ _______
 परा॒ यख्ष्मꣳ॑ सुवामि ते ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/14_kAmyeShTiyAjyApuronuvAkyAH/04_AyuShTe_vishvato.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/14_kAmyeShTiyAjyApuronuvAkyAH/04_AyuShTe_vishvato.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -2484,7 +2484,7 @@ _______
 
 13'अग्नये जातवेदसे पुरोडाशम् अष्टाकपालं निर्वपेद् भूतिकामः' इत्यस्य पुरोनुवाक्या - तस्मै त इति गायत्री ॥ 
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/14_kAmyeShTiyAjyApuronuvAkyAH/05_tasmai_te.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/14_kAmyeShTiyAjyApuronuvAkyAH/05_tasmai_te.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 तस्मै॑ ते प्रति॒हर्य॑ते॒  
@@ -2492,7 +2492,7 @@ _______
 अग्ने॒ जना॑मि सुष्टु॒तिम् ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/14_kAmyeShTiyAjyApuronuvAkyAH/05_tasmai_te.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/14_kAmyeShTiyAjyApuronuvAkyAH/05_tasmai_te.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -2555,15 +2555,15 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+###### Strata
 Cretic
 
-######## Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-######## Morph
+###### Morph
 agníḥ ← agní- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -2707,11 +2707,11 @@ svādhī́ḥ ← svādhī́- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+###### English translation:
 
 “**Agni** was first born above the sky; as Ja-tavedas he was born the second time among us; the friend ofman, he was born the third time in the watters; the sage kindlin him eternally praises him.”
 
-####### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Agni was first borṅi.e., Agni represents successively the sun, fire, lightning. (**Yajus**. 12.18-29: Agni was first genitive rated as **Prāṇa**,or vital air, from the breath of heaven, and that man genitive rated him; secondly, that **Prajāpati** (nṛmaṇaḥ) createdhim eternal in all the waters, and that the **yajamāna** lighting him also gives birth to him)
 </details>
@@ -2809,14 +2809,14 @@ Erzeugt zuerst ward Agni aus dem Himmel, von uns zum zweiten als der Wesenkenner
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+###### Strata
 Normal
 
-######## Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M
-######## Morph
+###### Morph
 pāvaka ← pāvaká- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -2911,7 +2911,7 @@ tvám ← tvám (pronoun)
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+###### English translation:
 
 “Purifier, **Agni**, holy, adorable, you shine exceedingly when (you are) worshipped with (oblations of) butter.”
 </details>
@@ -3025,15 +3025,15 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+###### Strata
 Cretic
 
-######## Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-######## Morph
+###### Morph
 adyaut ← √dyut- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -3201,11 +3201,11 @@ yát ← yá- (pronoun)
 ꣡</details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+###### English translation:
 
 “Conspicuous, glorious, **Agni** shines with great splendour, moving everywhere, and blazingunsurpassingly with glory; Agni became immortal through the food (of sacrifice) when the prolific heavenengendered him.”
 
-####### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Glorious: dṛśāno **rukmaḥ** = **rocamānaḥ**, an epithet of Agni; or **devatā**, a gold ornament ofthe neck, which at a particular time the **yajamāna** is to take off with this **mantra**; moving everywhere: āyuḥ =going everywhere; or, life: desiring an irreproachable life to give perpetually to people
 </details>
@@ -3303,15 +3303,15 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+###### Strata
 Normal
 
-######## Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-######## Morph
+###### Morph
 ā́ ← ā́ (invariable)  
 {}
 
@@ -3483,11 +3483,11 @@ svādhyàm ← svādhī́- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+###### English translation:
 
 “May that (digestive) faculty (of **Agni**) with regards food, be imparted to the devout and illustrious protector of priests, as the source of virile vigour; and may Agni be born as (his) robust, irreproachable, youthful and intelligent son, and instrumental gate him (to acts of worship).”
 
-####### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 **Retas** = water; hence, 'may fire and water, or heat and moister, be spread through the earth for the genitive ration of corn' is an alternative rendering
 </details>
@@ -3614,15 +3614,15 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+###### Strata
 Normal
 
-######## Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-######## Morph
+###### Morph
 mánasā ← mánas- (nominal stem)  
 {case:INS, gender:N, number:SG}
 
@@ -3781,7 +3781,7 @@ vásvaḥ ← vásu- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+###### English translation:
 
 “He who isprotected, **Agni**, by you, becomes endowed with a most luminous mind; bestow upon him excellent progeny; may we ever be under the power of you who is the willing dispenser of riches; glorifying you (may we be) the receptacles of wealth.”
 </details>
@@ -3901,15 +3901,15 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+###### Strata
 Archaic
 
-######## Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line  
 genre M
-######## Morph
+###### Morph
 ā́ ← ā́ (invariable)  
 {}
 
@@ -4032,11 +4032,11 @@ vā́jeṣu ← vā́ja- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+###### English translation:
 
 “Bestow, **Agni**, upon **Dyumna**, a son, overcoming foes by his prowess; one who may with glory subdue all men in battle.”
 
-####### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 A son: the text has rayim, riches; the explanation is metaphorical, rendering it putram, a son
 </details>
@@ -4157,15 +4157,15 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+###### Strata
 Archaic
 
-######## Pāda-label
+###### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
-######## Morph
+###### Morph
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -4287,7 +4287,7 @@ vā́jasya ← vā́ja- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+###### English translation:
 
 “Mighty **Agni**, grant us a son able to encounter hosts; for you are true and wonderful, and the giver of food with cattle.”
 </details>
@@ -4405,14 +4405,14 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+###### Strata
 Normal on metrical evidence alone
 
-######## Pāda-label
+###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-######## Morph
+###### Morph
 ukṣā́nnāya ← ukṣā́nna- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -4496,7 +4496,7 @@ vidhema ← √vidh- (root)
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+###### English translation:
 
 “Let us adore with hymns **Agni**, the granter (of desires), the eater of the ox, the eater of the marrow, onwhose back the libation is poured.”
 </details>
@@ -4569,7 +4569,7 @@ _______
 
 22तत्रैव याज्या - वद्मा हीति त्रिष्टुप् ॥ 
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/14_kAmyeShTiyAjyApuronuvAkyAH/06_vadmA_hi.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/14_kAmyeShTiyAjyApuronuvAkyAH/06_vadmA_hi.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 **व॒द्मा**+++(←वद्)+++ हि सू॑नो॒ **अस्य्** अ॑द्म॒+++(←अद्)+++-सद्वा॑+++(←सद् + वनिप्)=+++  
@@ -4578,7 +4578,7 @@ _______
 राजे॑व **जेर्** अवृ॒के, **ख्षे᳚ष्य्** अ॒न्तः ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/14_kAmyeShTiyAjyApuronuvAkyAH/06_vadmA_hi.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/14_kAmyeShTiyAjyApuronuvAkyAH/06_vadmA_hi.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -4659,14 +4659,14 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+###### Strata
 Strophic
 
-######## Pāda-label
+###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
-######## Morph
+###### Morph
 ágne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -4779,7 +4779,7 @@ _____________
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+###### English translation:
 
 “**Agni**, you support our lives, send us nutriment and food, drive far off the **rākṣasas**.”
 </details>
@@ -4885,14 +4885,14 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+###### Strata
 Strophic
 
-######## Pāda-label
+###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
-######## Morph
+###### Morph
 ágne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -5007,7 +5007,7 @@ _____________
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+###### English translation:
 
 “**Agni**, who are the doer of good, pour upon us brightness and fair-offspring; may he make me wealth and plural nty.”
 </details>
@@ -5109,14 +5109,14 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+###### Strata
 Normal
 
-######## Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M
-######## Morph
+###### Morph
 ágne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -5221,7 +5221,7 @@ __________
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+###### English translation:
 
 “Divine purifier, **Agni**, with your radiant and plural asing tongue, bring hither and worship the gods”
 </details>
@@ -5381,14 +5381,14 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+###### Strata
 Normal on metrical evidence alone
 
-######## Pāda-label
+###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-######## Morph
+###### Morph
 agníḥ ← agní- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -5484,11 +5484,11 @@ __________
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+###### English translation:
 
 “The pure **Agni** shines forth when worshipped the purest offerer, the pure priest, the pure sage.”
 
-####### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Puresage: **kavi** = sage (RV 1.31.2); or, krāntakarman
 </details>
@@ -5575,14 +5575,14 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+###### Strata
 Normal on metrical evidence alone
 
-######## Pāda-label
+###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-######## Morph
+###### Morph
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -5684,7 +5684,7 @@ ___________
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+###### English translation:
 
 “**Agni**, your pure, bright, shining flames send forth your splendours.”
 </details>

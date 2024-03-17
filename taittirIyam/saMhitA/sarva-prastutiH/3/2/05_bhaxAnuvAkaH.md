@@ -98,7 +98,7 @@ With clear sight may I gaze' upon thee, O god Soma, who regardest men.
 
 म॒न्द्राभिभू॑तिᳵ के॒तुर्य॒ज्ञाना॒व्ँवाग्जु॑षा॒णा सोम॑स्य तृप्यतु म॒न्द्रा स्व॑र्वा॒च्यदि॑ति॒रना॑हतशीर्ष्णी॒ वाग्जु॑षा॒णा सोम॑स्य तृप्य॒त्वेहि॑ विश्वचर्षणे [16]  श॒म्भूर्म॑यो॒भूस्स्व॒स्ति मा॑ हरिवर्ण॒ प्र च॑र॒ क्रत्वे॒ दख्षा॑य रा॒यस्पोषा॑य सुवी॒रता॑यै
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/3/2/05_bhaxAnuvAkaH/02_mandrA.abhibhUtikH.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/3/2/05_bhaxAnuvAkaH/02_mandrA.abhibhUtikH.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 म॒न्द्रा ऽभिभू॑तिᳵ, के॒तुर् य॒ज्ञाना॒व्ँ  
@@ -107,7 +107,7 @@ With clear sight may I gaze' upon thee, O god Soma, who regardest men.
 वाग् **जु॑षा॒णा** सोम॑स्य **तृप्यतु** ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/3/2/05_bhaxAnuvAkaH/02_mandrA.abhibhUtikH.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/3/2/05_bhaxAnuvAkaH/02_mandrA.abhibhUtikH.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -128,7 +128,7 @@ Gentle control, banner of the sacrifices, may speech accept and delight in the S
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/3/2/05_bhaxAnuvAkaH/03_ehi_vishvacharShaNe.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/3/2/05_bhaxAnuvAkaH/03_ehi_vishvacharShaNe.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 **एहि॑** विश्वचर्षणे श॒म्भूर् म॑यो॒-भूः  
@@ -136,7 +136,7 @@ Gentle control, banner of the sacrifices, may speech accept and delight in the S
 क्रत्वे॒ दख्षा॑य रा॒यस्पोषा॑य सुवी॒रता॑यै ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/3/2/05_bhaxAnuvAkaH/03_ehi_vishvacharShaNe.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/3/2/05_bhaxAnuvAkaH/03_ehi_vishvacharShaNe.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -159,7 +159,7 @@ Come hither, O thou who art of all men [1], with healing and favour; with safety
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/3/2/05_bhaxAnuvAkaH/04_mA_mA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/3/2/05_bhaxAnuvAkaH/04_mA_mA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 **मा** मा॑ राज॒न् +++(सोम)+++ **वि बी॑भिषो॒**  
@@ -167,7 +167,7 @@ Come hither, O thou who art of all men [1], with healing and favour; with safety
 वृष॑णे॒ शुष्मा॒यायु॑षे॒ वर्च॑से ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/3/2/05_bhaxAnuvAkaH/04_mA_mA.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/3/2/05_bhaxAnuvAkaH/04_mA_mA.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -332,7 +332,7 @@ who art drunk by Indra, who art drunk by Naraśansa, who art drunk by the father
 
 **आ प्या॑यस्व॒ समे॑तु** ते  
 वि॒श्वतः॑ सोम॒ वृष्ण्य॑म् ।  
-**भवा॒** वाज॑स्य सङ्ग॒थे+++(=संगमने)+++ ॥
+**भवा॒** वाज॑स्य **सङ्ग॒थे**+++(=संगमने)+++ ॥
 
 </details>
 </div>
@@ -352,14 +352,14 @@ who art drunk by Indra, who art drunk by Naraśansa, who art drunk by the father
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+###### Strata
 Normal
 
-######## Pāda-label
+###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
-######## Morph
+###### Morph
 ā́ ← ā́ (invariable)  
 {}
 
@@ -469,7 +469,7 @@ _______________________
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+###### English translation:
 
 “Be well nourished, **Soma**; may vigour come to you from all sides, be (the giver) of strength in battle.”
 </details>
@@ -529,7 +529,7 @@ Schwill, Soma, an, es komme dir von allen Seiten Heldenkraft, Sei, wo die Kraft 
 
 9भक्षयित्वा आत्मानमभिमृशति - हिन्वेति पथ्याबृहत्या ॥ तृतीयस्य द्वादशाक्षरत्वात् । 
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/3/2/05_bhaxAnuvAkaH/05_hinva_me.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/3/2/05_bhaxAnuvAkaH/05_hinva_me.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 **हिन्व॑**+++(=प्रीणय)+++ मे॒ गात्रा॑ हरिवो +++(सोम)+++  
@@ -538,7 +538,7 @@ Schwill, Soma, an, es komme dir von allen Seiten Heldenkraft, Sei, wo die Kraft 
 मा मेऽवा॒ङ्नाभि॒म् **अति॑  गाः** ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/3/2/05_bhaxAnuvAkaH/05_hinva_me.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/3/2/05_bhaxAnuvAkaH/05_hinva_me.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -562,7 +562,7 @@ Do not go below my navel [3].
 
 10आदित्यमुपतिष्ठते - अपामेति त्रिष्टुभा ॥ 
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/3/2/05_bhaxAnuvAkaH/06_apAma_somam.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/3/2/05_bhaxAnuvAkaH/06_apAma_somam.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 **अपा॑म॒** सोम॑म्, अ॒मृता॑ **अभूम**  
@@ -571,7 +571,7 @@ Do not go below my navel [3].
 किम् उ॑ धू॒र्तिर् अ॑मृत॒! मर्त्य॑स्य ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/3/2/05_bhaxAnuvAkaH/06_apAma_somam.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/3/2/05_bhaxAnuvAkaH/06_apAma_somam.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -609,15 +609,12 @@ Of mortal man do to us, O immortal?
 
 11आग्नीध्रे स्रुवाहुतिं जुहोति - यन्म आत्मन इति द्वाभ्याम्, प्रथमा त्रिष्टुप् जगती वा । 
 </details>
-
 <details><summary>विनियोगः बोधायन-गृह्ये</summary>
 
 सर्वत्र स्कन्ने भिन्ने छिन्ने भग्ने नष्टे क्षामे विपर्यास उद्दाह ऊनातिरिक्ते वा "यन्म आत्मनो मिन्दाभूत्, पुनरग्निश्चक्षुरदाद्" इत्येताभ्याँ स्रुवाहुती जुहुयात्।  
  सर्वेष्वग्न्युपघातेषु "पुनस्त्वादित्या रुद्रा वसवः समिन्धतामि"त्येतया समिधमादध्यादेतयैव स्रुवाहुतिं जुहुयात्।
 </details>
-
-
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/3/2/05_bhaxAnuvAkaH/07_yan_ma.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/3/2/05_bhaxAnuvAkaH/07_yan_ma.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 यन् म॑ आ॒त्मनो॑ मि॒न्दा+++(=हिंसा)+++ **ऽऽभू॑द्**,  
@@ -625,7 +622,7 @@ Of mortal man do to us, O immortal?
 जा॒तवे॑दा॒ विच॑र्षणिः+++(विचक्षणः)+++॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/3/2/05_bhaxAnuvAkaH/07_yan_ma.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/3/2/05_bhaxAnuvAkaH/07_yan_ma.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -637,16 +634,18 @@ Of mortal man do to us, O immortal?
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/3/2/05_bhaxAnuvAkaH/08_punar_agnish.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/3/2/05_bhaxAnuvAkaH/08_punar_agnish.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 पुन॑र् अ॒ग्निश् चक्षु॑र् **अदा॒त्**  
 पुन॒र् इन्द्रो॒ बृह॒स्पतिः॑।  
 पुन॑र् मे अश्विना यु॒वं  
 चक्षु॑र्+++(=दर्शनशक्तिम्)+++ **आ धत्तम्** अ॒क्ष्योः ॥
+
++++(अग्नीन्द्राबृहस्पत्यश्विभ्य इदं न मम॥)+++
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/3/2/05_bhaxAnuvAkaH/08_punar_agnish.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/3/2/05_bhaxAnuvAkaH/08_punar_agnish.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -1161,6 +1160,8 @@ vayám ← ahám (pronoun)
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **प्रजापते** **त्वत्** त्वत्तोऽन्यः कश्चित् **एतानि** इदानीं वर्तमानानि **विश्वा** विश्वानि सर्वाणि ॥  ‘ शेश्छन्दसि बहुलम् ' इति शेर्लोपः ॥ **जातानि** प्रथमविकारभाञ्जि **ता** तानि सर्वाणि भूतजातानि **न** **परि** **बभूव**  न परिगृह्णाति । न व्याप्नोति । त्वमेवैतानि परिगृह्य स्रष्टुं शक्नोषीति भावः । परिपूर्वो भवतिः परिग्रहार्थः । वयं च **यत्कामाः** यत्फलं कामयमानाः **ते** तुभ्यं जुहुमः हवींषि प्रयच्छामः **तत्** फलं **नः** अस्माकम् **अस्तु** भवतु । तथा **वयं** च **रयीणां** धनानां **पतयः** ईश्वराः **स्याम** भवेम ॥ नामन्यतरस्याम् ' इति नाम उदात्तत्वम् ॥ ॥ ४ ॥
+________________
+हे प्रजापते! त्वदन्यः कश्चिदपि जातानि उत्पन्नानि यान्येतानि विश्वानि लोकजातानि सन्ति ता तानि परिबभूव परितो व्याप्तुं त्वत् त्वत्तोऽन्यः कोऽपि न समर्थः । वयं यत्कामा येन फलकामेन युक्ताः सन्तस्ते तुभ्यं जुहुमः तत्फलं नोऽस्माकमस्तु सिध्यतु । वयं त्यत्प्रसादाद्रयीणां धनानां पतयः स्याम ॥
 </details>
 <details><summary>हरदत्तः</summary>
 

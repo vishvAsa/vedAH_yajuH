@@ -135,7 +135,7 @@ This is thy portion, O Rudra, with thy sister Ambika; rejoice in it.
 
 4ततश्च त्वत्प्रसादाद् अस्माकम् इत्थम् अस्त्व् इत्य् आशास्ते - भेषजं गव इति पङ्क्त्या पञ्चपदया ॥ 
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/06_chAturmAsyeShu_sAkamedhaparva-tryambaka-haviH/02_bheShaja~N_gave.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/06_chAturmAsyeShu_sAkamedhaparva-tryambaka-haviH/02_bheShaja~N_gave.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 भेष॒जङ् गवे ऽश्वा॑य ..   
@@ -145,7 +145,7 @@ This is thy portion, O Rudra, with thy sister Ambika; rejoice in it.
 सु॒गम् मे॒षाय॑ मे॒ष्या॑ ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/06_chAturmAsyeShu_sAkamedhaparva-tryambaka-haviH/02_bheShaja~N_gave.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/06_chAturmAsyeShu_sAkamedhaparva-tryambaka-haviH/02_bheShaja~N_gave.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -255,15 +255,15 @@ That he may embolden us.
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+###### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-######## Pāda-label
+###### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
-######## Morph
+###### Morph
 tryàmbakam ← tryàmbaka- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -388,11 +388,11 @@ mukṣīya ← √muc- (root)
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+###### English translation:
 
 “We worship **Tryambaka**, whose fame is fragrant, the augmenter of increase; may I be liberated fromdeath, and, like the **urvāruka** from its stalk, but not to immortality; let us worship **Trayambaka**, whose fame isfragrant, the augmenter of increase; may I be liberated from death like the urvāruka from its stalk, but not untoimmortality.”
 
-####### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Tryambaka: the father, **ambuka** of the three deities, **Brahma**, **Viṣṇu** and **Rudra**; also identified withmahatva (**Ṛgvidhāna**); whose fame is fragrant: **sugandhim** = prasāritapuṇya kīrtim, whose fame of virtue isspread; in like manner as the fragrance of a tree full in flower sheds sweetness, so spreads the fragrance of holyactions; the augmenter of increase: **puṣṭi** vardhanam, the augmenter of nutrition, jagad-vījam, the seed of theworld; or, the multiplier of good things subservient to objects of bodily enjoyment, wealh,śarīradhanādiviṣayān vardhayati yaḥ; may I be liberated: mṛtyor makṣiya = may I be liberated from theworld, or the revolutions of life and death; may I attain **mokṣa**;
 

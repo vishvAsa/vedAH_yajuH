@@ -181,7 +181,7 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/10/03_tathA_sambandheShu_jnAtiShu.md">
 <details open><summary><h4>03 तथा सम्बन्धेषु ज्ञातिषु ...{Loading}...</h4></summary>
 
-तथा संबन्धेषु ज्ञातिषु +++(मृतेषु त्र्यहम् अनध्याय इति ब्रह्मचारिनियमः। इतरेषाम् आशौचवतां तु यावदाशौचमनध्यायः)+++३
+तथा संबन्धेषु ज्ञातिषु +++(मृतेषु त्र्यहम् अनध्याय इति ब्रह्मचारिनियमः। इतरेषाम् आशौचवतां तु यावद् आशौचमनध्यायः)+++३
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/10/04_mAtari_pitaryAchArya_iti.md">

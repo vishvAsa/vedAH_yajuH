@@ -2,6 +2,7 @@
 title = "०९ 'ये देवाः पुरस्सदः' इति पञ्च,"
 
 +++
+'ये देवाः पुरस्सदः' इति पञ्च,
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/07_chAturmAsyeShu_shunAsIryaparva/ye_devAH_purassadaH.md">
 <details open><summary><h4>ये दे॒वाᳶ पु॑र॒स्-सदो॒ ...{Loading}...</h4></summary>

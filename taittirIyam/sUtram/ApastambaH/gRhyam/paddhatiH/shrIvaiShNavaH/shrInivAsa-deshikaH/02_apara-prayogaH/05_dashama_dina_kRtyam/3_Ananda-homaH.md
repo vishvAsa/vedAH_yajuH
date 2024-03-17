@@ -5,7 +5,16 @@ title = "३ आनन्द-होमः"
 
 कर्ता प्रणम्य 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya.md">
+<details open><summary><h5>अशेषे हे परिषत् ...{Loading}...</h5></summary>
+
+> स्वामिनः!  
+अशेषे हे परिषत्  
+भवत्-पादमूले मया समर्पिताम् इमां सौवर्णीं यत्-किञ्चिद्-दक्षिणां  
+यथोक्तदक्षिणामिव स्वीकृत्य  
+
+</details>
+</div>  
 
  मम ज्ञातीनाञ्च आनन्दावाप्त्यर्थं आनन्द होमं कर्तुं योग्यता सिद्धिमनुगृहाण उपविश्य प्राणानायम्य, सङक्लप्य प्रीत्यर्थं मम, ज्ञातीनाञ्च आनन्दावाप्त्यर्थं आनन्द होमं करिष्ये । सात्विकत्यागः । यत्र क्वचेति विधिना लौकिकाग्निं प्रतिष्ठाप्य यथाक्रमं प्रागुदगग्रान् दर्भान्परिस्तरणेषु संस्तीर्य, प्रोक्षणी संस्कार आज्य संस्कार दर्वी संकारान् यथाक्रमं कृत्वा तूष्णीं समन्तं प्रदक्षिणं परिषिञ्चति । ९ सू प्रत्येत्य गृहानुत्तर पूर्वे देशेऽगारस्याग्निमुपसमाधाय संपरिस्तीर्य अनुलोम कृतया वारण्या सुचा द्वेचतुर्गृहीते जुहोति आनन्दाय नवैतत्रेति ॥ - - ...
 
@@ -22,7 +31,16 @@ title = "३ आनन्द-होमः"
 
 9 प्रणम्य प्राचीनावीती 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya.md">
+<details open><summary><h5>अशेषे हे परिषत् ...{Loading}...</h5></summary>
+
+> स्वामिनः!  
+अशेषे हे परिषत्  
+भवत्-पादमूले मया समर्पिताम् इमां सौवर्णीं यत्-किञ्चिद्-दक्षिणां  
+यथोक्तदक्षिणामिव स्वीकृत्य  
+
+</details>
+</div>  
 
  गोत्रस्य शर्मणः मम पितुः प्रेतस्य अद्य दशमेऽहनि और्ध्वदैहिक कर्मसु मन्त्रलोप क्रिया लोप द्रव्यलोपेषु सत्स्वपि, सर्वं यथाशास्त्रानुष्ठितं भूयादिति भवन्तोऽनुगृह्णन्तु ॥ उपबीती सात्विकत्यागः। ब्राह्मणानां स्वस्त्रि वाचन पूर्वकं गृहं गच्छेत् । तत्र विनिहितानिमङ्गलद्रव्याणि संपश्येयुः ॥
 

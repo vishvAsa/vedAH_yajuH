@@ -10,11 +10,62 @@ title = "०२ प्राजापत्य-व्रतम्"
 
 आचार्यः 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/namas_sadase_sabhAM_gopAya/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/namas_sadase_sabhAM_gopAya/">
+<details open><summary><h5>नम॒स् सद॑से …स॒भाम् मे॑ गोपाय ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/3/2/04_sphyAdyupasthAnamantrAH_vidhishcha/namas_sadase.md">
+<details open><summary><h10>नमस् सदसे ...{Loading}...</h10></summary>
+<details><summary>मूलम् (संयुक्तम्)</summary>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
+नम॒स्सद॑से॒ नम॒स्सद॑स॒स्पत॑ये॒ नम॒स्सखी॑नाम्पुरो॒गाणा॒ञ्चख्षु॑षे॒ नमो॑ दि॒वे नमᳶ॑ पृथि॒व्यै
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नक्षत्रे राशौ जातं गोत्रं शर्माणं, इमं माणवकं प्राजापत्यं व्रतं चारयितुं योग्यतासिद्धिमनुगृहाण । विष्वक्सेनं सम्पूज्य उभावपि सङ्कल्प्यप्रीत्यर्थम्, आचार्यः नक्षत्रे.... राशौ जातम् इमं माणवकं प्राजापत्यं व्रतं चारयिष्ये । 
+नम॒स् सद॑से॥  
+नम॒स् सद॑स॒स्-पत॑ये॥    
+नम॒स् सखी॑नाम् पुरो॒गाणा॒ञ् चख्षु॑षे॥    
+नमो॑ दि॒वे॥   
+नमᳶ॑ पृथि॒व्यै॥
+</details>
+<details><summary>मूलम्</summary>
+
+नम॒स्सद॑से  
+नम॒स्सद॑स॒स्पत॑ये    
+नम॒स्सखी॑नाम्पुरो॒गाणा॒ञ्चख्षु॑षे    
+नमो॑ दि॒वे   
+नमᳶ॑ पृथि॒व्यै
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+'ऐन्द्रं हि देवतया सदः' इति इन्द्रः सदसस्पतिः पालयिता तस्मै नमः । 'षष्ठयाः पतिपुत्र' इति सत्वम् । सखीनां समानख्यानानामृत्विजां पुरोगाणामग्रतो गन्तृणां प्रधानानां सर्वेषामपि चक्षुषे चक्षुसथानीयाय दर्शनहेतवे सवित्रे च नमः । गतमन्यत् ॥
+</details>
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/267_sapratha_sabhAm.md">
+<details open><summary><h9>267 सप्रथ सभाम् ...{Loading}...</h9></summary>
+
+सप्र॑थ स॒भाम् मे॑ गोपाय ।  
+ये च॒ सभ्या᳚स् सभा॒सदः॑ ।  
+तानि॑न्द्रि॒याव॑तᳵ कुरु ।  
+सर्व॒म् आयु॒र् उपा॑सताम् ।
+</details>
+</div>
+
+(सर्वे॑भ्यः श्रीवैष्ण॒वेभ्यो॒ नमः॑॥)
+
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya.md">
+<details open><summary><h5>अशेषे हे परिषत् ...{Loading}...</h5></summary>
+
+> स्वामिनः!  
+अशेषे हे परिषत्  
+भवत्-पादमूले मया समर्पिताम् इमां सौवर्णीं यत्-किञ्चिद्-दक्षिणां  
+यथोक्तदक्षिणामिव स्वीकृत्य  
+
+</details>
+</div>  
+
+… नक्षत्रे … राशौ जातं गोत्रं शर्माणं, इमं माणवकं प्राजापत्यं व्रतं चारयितुं योग्यतासिद्धिमनुगृहाण । विष्वक्सेनं सम्पूज्य उभावपि सङ्कल्प्यप्रीत्यर्थम्, आचार्यः नक्षत्रे.... राशौ जातम् इमं माणवकं प्राजापत्यं व्रतं चारयिष्ये । 
 
 ஆசார்யன் அனுஜ்ஞை செய்து செய்து கொண்டு ஆரம்பிக்க வேண்டும். நமஸ்ஸதஸே - அசேஷே + ஸ்வீக்ருத்ய - இமம் மாணவகம் ப்ராஜாபத்ய ஸௌம்ய ஆக்நேய வைச்வதேவ வ்ரத உபக்ரமாந் தத்தத் உத்ஸர்ஜநாநிச ஸமாந தந்த்ரேண சாரயிதும் யோக்யதாஸித்திமநுக்ருஹாண விஷ்வக்ஸேநம் ஸம்பூஜ்ய ஸங்கல்ப்ய பூர்வவத் இமம் மாணவகம் ப்ராஜாபத்ய + ஸமாந தந்த்ரேண சாரயிஷ்யே. மாணவகன் ஸங்கல்ப்பித்து அஹம் ப்ராஜாபத்ய + ஸமாந தந்த்ரேண சரிஷ்யாமி. வபநத்திற்கு ஆகவும், ஸ்னானத்திற்காகவும் மாணவகனை இருதடவை ப்ரோக்ஷிக்க வேண்டும். மாணவகன் நவ காண்டரிஷி தர்ப்பணம் [[TODO::परिष्कार्यम्??]]
 
@@ -83,9 +134,60 @@ title = "०२ प्राजापत्य-व्रतम्"
 
 उपक्रमवत् कृच्छ्रानुष्ठानपर्यन्तं कृत्वा आचार्यः 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/namas_sadase_sabhAM_gopAya/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/namas_sadase_sabhAM_gopAya/">
+<details open><summary><h5>नम॒स् सद॑से …स॒भाम् मे॑ गोपाय ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/3/2/04_sphyAdyupasthAnamantrAH_vidhishcha/namas_sadase.md">
+<details open><summary><h10>नमस् सदसे ...{Loading}...</h10></summary>
+<details><summary>मूलम् (संयुक्तम्)</summary>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
+नम॒स्सद॑से॒ नम॒स्सद॑स॒स्पत॑ये॒ नम॒स्सखी॑नाम्पुरो॒गाणा॒ञ्चख्षु॑षे॒ नमो॑ दि॒वे नमᳶ॑ पृथि॒व्यै
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नम॒स् सद॑से॥  
+नम॒स् सद॑स॒स्-पत॑ये॥    
+नम॒स् सखी॑नाम् पुरो॒गाणा॒ञ् चख्षु॑षे॥    
+नमो॑ दि॒वे॥   
+नमᳶ॑ पृथि॒व्यै॥
+</details>
+<details><summary>मूलम्</summary>
+
+नम॒स्सद॑से  
+नम॒स्सद॑स॒स्पत॑ये    
+नम॒स्सखी॑नाम्पुरो॒गाणा॒ञ्चख्षु॑षे    
+नमो॑ दि॒वे   
+नमᳶ॑ पृथि॒व्यै
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+'ऐन्द्रं हि देवतया सदः' इति इन्द्रः सदसस्पतिः पालयिता तस्मै नमः । 'षष्ठयाः पतिपुत्र' इति सत्वम् । सखीनां समानख्यानानामृत्विजां पुरोगाणामग्रतो गन्तृणां प्रधानानां सर्वेषामपि चक्षुषे चक्षुसथानीयाय दर्शनहेतवे सवित्रे च नमः । गतमन्यत् ॥
+</details>
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/267_sapratha_sabhAm.md">
+<details open><summary><h9>267 सप्रथ सभाम् ...{Loading}...</h9></summary>
+
+सप्र॑थ स॒भाम् मे॑ गोपाय ।  
+ये च॒ सभ्या᳚स् सभा॒सदः॑ ।  
+तानि॑न्द्रि॒याव॑तᳵ कुरु ।  
+सर्व॒म् आयु॒र् उपा॑सताम् ।
+</details>
+</div>
+
+(सर्वे॑भ्यः श्रीवैष्ण॒वेभ्यो॒ नमः॑॥)
+
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya.md">
+<details open><summary><h5>अशेषे हे परिषत् ...{Loading}...</h5></summary>
+
+> स्वामिनः!  
+अशेषे हे परिषत्  
+भवत्-पादमूले मया समर्पिताम् इमां सौवर्णीं यत्-किञ्चिद्-दक्षिणां  
+यथोक्तदक्षिणामिव स्वीकृत्य  
+
+</details>
+</div>  
 
  इमं माणवकं प्राजापत्यव्रतोत्सर्जनं चारयितुं... सङ्कल्प्य इमं माणवकं प्राजापत्यव्रतोत्सर्जनं चारयिष्ये । 
 

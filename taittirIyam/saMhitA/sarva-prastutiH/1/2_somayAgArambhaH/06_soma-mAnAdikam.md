@@ -64,7 +64,7 @@ ________
 
 अति-च्छन्दसा +ऋचा सोमं मिमीते।
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/06_soma-mAnAdikam/02_abhi_tyan.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/06_soma-mAnAdikam/02_abhi_tyan.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अ॒भि त्यन्+++(=तन्)+++ दे॒वꣳ स॑वि॒तार॑म् ऊ॒ण्योः᳚+++(=अवित्र्योः [द्यावापृथिव्योः])+++ क॒विक्र॑तु॒म्  
@@ -73,7 +73,7 @@ ________
 +++(माम् आविश्य स)+++ हिर॑ण्य-पाणिर् अमिमीत +++(सोमं)+++ सु॒क्रतु॑ᳵ कृ॒पा+++(=कृपया)+++ सुवः॑+++(=सुष्ठु वृतः)+++ ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/06_soma-mAnAdikam/02_abhi_tyan.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/06_soma-mAnAdikam/02_abhi_tyan.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 

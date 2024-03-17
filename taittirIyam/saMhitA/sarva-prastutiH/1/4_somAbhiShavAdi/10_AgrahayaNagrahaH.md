@@ -9,7 +9,7 @@ _______
 
 1आग्रयणं गृह्णाति - ये देवा इति चतुष्पदया पङ्क्त्या ॥ 
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/10_AgrahayaNagrahaH/02_ye_devA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/10_AgrahayaNagrahaH/02_ye_devA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 ये दे॑वा दि॒व्य् एका॑दश॒ स्थ   
@@ -19,7 +19,7 @@ _______
 +++(अग्रिमे प्रपाठक इमे ३३ रुद्रा इत्य् उच्यते।  ३३ देवाः = ८ वसवः + १२ आदित्याः + ११ रुद्राः + २ अश्विनौ। मृगशीर्षेण सम्बन्धोऽस्ति??)+++
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/10_AgrahayaNagrahaH/02_ye_devA.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/10_AgrahayaNagrahaH/02_ye_devA.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 

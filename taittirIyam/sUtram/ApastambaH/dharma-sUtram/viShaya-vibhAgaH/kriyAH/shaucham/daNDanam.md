@@ -188,7 +188,9 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/20_doSham_buddhvA_na.md">
 <details open><summary><h4>20 दोषम् बुद्ध्वा न ...{Loading}...</h4></summary>
 
-दोषं बुद्ध्वा न पूर्वः परेभ्यः पतितस्य समाख्याने स्याद्वर्जयेत्त्वेनं धर्मेषु २०
+दोषं बुद्ध्वा  
+न पूर्वः परेभ्यः पतितस्य समाख्याने स्याद्,  
+वर्जयेत् त्व् एनं धर्मेषु २०
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/10/28/06_na_patitamAchArya~n_jnAtiM.md">

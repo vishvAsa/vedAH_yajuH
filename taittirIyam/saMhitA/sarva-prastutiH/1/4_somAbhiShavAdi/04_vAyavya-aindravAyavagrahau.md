@@ -37,15 +37,15 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+###### Strata
 Strophic
 
-######## Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-######## Morph
+###### Morph
 ā́ ← ā́ (invariable)  
 {}
 
@@ -239,11 +239,11 @@ _______________
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+###### English translation:
 
 “Drinker of the pure (**Soma**), **Vāyu**, come to us as your **Niyut** are thousands; oḥ, you who are desired ofall, I offer you, the exhilarating (sacrificial) food, of which you, deity, have the prior drinking.”
 
-####### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Offer you: upayāmi:as applied to Soma, which is brought in a vessel called upayāma, upayātam pātre gṛhītam
 </details>
@@ -401,14 +401,14 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+###### Strata
 Strophic
 
-######## Pāda-label
+###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-######## Morph
+###### Morph
 imé ← ayám (pronoun)  
 {case:NOM, gender:M, number:PL}
 
@@ -521,7 +521,7 @@ vām ← tvám (pronoun)
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+###### English translation:
 
 “**Indra** and **Vāyu**, these libations are poured out (for you); come hither with food (for us); verily the drops (of the **Soma** juice) await you both.”
 </details>

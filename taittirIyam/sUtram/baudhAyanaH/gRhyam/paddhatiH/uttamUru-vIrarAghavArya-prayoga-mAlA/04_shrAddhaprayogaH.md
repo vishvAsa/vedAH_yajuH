@@ -1046,11 +1046,33 @@ title = "०४ श्राद्धप्रयोगः"
 
 (प्रजापतय इदं न मम )
 
-ओं अना᳚ज्ञातं य॒दाज्ञा॑तम् । य॒ज्ञस्य॑ क्रि॒यते॒ मिथु॑ । अग्ने॒ तद॑स्य कल्पय । त्वँहि वेत्थ॑ यथात॒थँ स्वाहा᳚ ॥ [[TODO:परिष्कार्यम्??]] (अग्नय इदं न मम)
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/35_anAjnAtay.NyadAjnAtam_yajnasya.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-ओं पुरु॑षसम्मितो य॒ज्ञः । य॒ज्ञः पुरु॑षसम्मितः । अग्ने॒ तद॑स्य कल्पय । त्वँहि वेत्थ॑ यथात॒थँ स्वाहा᳚ ॥ [[TODO:परिष्कार्यम्??]] (अग्रय इदं न मम)
+अना᳚ज्ञात॒य्ँयदाज्ञा॑तम् ।  
+य॒ज्ञस्य॑ क्रि॒यते॒ मिथु॑ ।  
+अग्ने॒ तद॑स्य कल्पय ।  
+त्वꣳ हि वेत्थ॑ यथात॒थम् ।
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/38_puruShasammito_yajnaH.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-ओं यत्पा॑क॒त्रा मन॑सा दी॒नद॑क्षा॒न । य॒ज्ञस्य॑ म॒न्वते॒ मर्ता॑सः । अ॒ग्निष्टद्धोता᳚ क्रतु॒विद्वि॑जा॒नन्न् । यजि॑ष्ठो दे॒वाँ ऋ॑तु॒शो य॑जाति॒ स्वाहा᳚ ॥ (अग्नय इदं न मम)
+पुरु॑षसम्मितो य॒ज्ञः ।  
+य॒ज्ञᳶ पुरु॑षसम्मितः ।  
+अग्ने॒ तद॑स्य कल्पय ।  
+त्वꣳ हि वेत्थ॑ यथात॒थम् ।
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/41_yatpAkatrA_manasA.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+यत्पा॑क॒त्रा मन॑सा दी॒नद॑ख्षा॒ न ।  
+य॒ज्ञस्य॑ म॒न्वते॒ मर्ता॑सः ।  
+अ॒ग्निष्टद्धोता॑ क्रतु॒विद्वि॑जा॒नन्न् ।  
+यजि॑ष्ठो दे॒वाꣳ ऋ॑तु॒शो य॑जाति ॥115॥
+</details>
+</div>
 
 [[239]]
 

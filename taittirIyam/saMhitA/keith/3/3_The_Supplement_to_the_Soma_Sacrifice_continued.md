@@ -2,39 +2,16 @@
 title = "3 The Supplement to the Soma Sacrifice (continued)"
 
 +++
-## 01
-### a
-O Agni, brilliant, be thou brilliant among the gods; make me brilliant, of long life, radiant among men; for the brilliance of consecration and of penance do I offer to thee.
-### b
-Thou dost win brilliance; may brilliance forsake me not, may I forsake not brilliance, may brilliance forsake me not.
-### c
-O Indra, full of force, be thou full of force among the gods, make me full of force, of long life, radiant among men; for the force of the Brahmanhood and royalty [1] do I offer to thee.
-### d
-Thou dost win force; may force forsake me not, may I forsake not force, may force forsake me not.
-### e
-O sun, blazing, be thou blazing among the gods; make me blazing, of long life, radiant among men; for the blazing of the wind and of the waters do I offer to thee.
-
-### f
-Thou dost win the light; may the light forsake me not, may I not forsake the light, may the light forsake me not.
-### g
-On me wisdom, on me offspring, on me brilliance may Agni bestow; on me wisdom, on me offspring, on me power may Indra bestow; on me wisdom, on me offspring, on me blazing may Surya bestow.
 ## 02
 ### a
-The maker of the sound 'Him' is Vayu, the Prastotr is Agni, the Saman is Prajapati, the Udgatr is Brhaspati, the subordinate singers are the All-gods, the Pratihartrs are the Maruts, the finale is Indra; may these gods who support breath bestow breath upon me.
+
 ### b
-All this the Adhvaryu, as he begins, begins for the Udgatrs; 'May these gods who support breath bestow breath upon me', he says; verily he bestows all this on himself.
 ### c
-May Ida who summoneth the gods, Manu who leadeth the sacrifice,
-### d
-May Brhaspati recite the hymns and acclamations.
-### e
-The All-gods [1] are reciters of the hymns.
 ### f
-O earth mother, do not harm me.
+
 ### g
-Of honey shall I think, honey shall I produce, honey shall I proclaim, honey shall I speak, may I utter speech full of honey for the gods, and acceptable to men.
+
 ### h
-May the gods aid me to radiance, may the Pitrs rejoice in me.
 ## 03
 ### a
 Let the Vasus press thee with the Gayatri metre; go thou to the dear place of Agni.

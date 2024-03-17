@@ -1,7 +1,8 @@
 +++
-title = "१५ 'नमो अस्तु सर्पेभ्य' इति चतस्रः,"
+title = "१५ 'नमो अस्तु सर्पेभ्य'"
 
 +++
+'नमो अस्तु सर्पेभ्य' इति चतस्रः,
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/05_namo_astu.md">
 <details open><summary><h4>०५ नमो अस्तु ...{Loading}...</h4></summary>

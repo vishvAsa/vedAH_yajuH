@@ -2,14 +2,13 @@
 title = "०५ 'यत इन्द्र'"
 
 +++
-
-<div class="js_include" newlevelforh1="4" title="विश्वास-शाकल-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/061/13_yata_indra.md">
-<details open><summary><h4>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h4></summary>
-
+## यत॑ इन्द्र॒
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/26_yata_indra.md">
+<details open><summary><h2>26 यत इन्द्र ...{Loading}...</h2></summary>
 
 यत॑ इन्द्र॒ भया॑महे॒  
 ततो॑ नो॒ अभ॑यं कृधि ।  
-मघ॑वञ् छ॒ग्धि +++(=शक्तो वर्तस्व)+++ तव॒ तन् न॑+++(ः)+++ ऊ॒तिभि॑र्+++(=रक्षाभिः, ऊ॒तये॒ इति तैत्तिरीयपाठः)+++  
+मघ॑वञ् छ॒ग्धि +++(=शक्तो वर्तस्व)+++ तव॒ तन् न॑+++(ः)+++ ऊ॒तये᳚+++(=रक्षायै, ऊ॒तिभि॑र् इति शाकले)+++  
 वि द्विषो॒ वि मृधो॑+++(=सङ्ग्रामान्)+++ जहि ।।
 
 </details>
@@ -22,16 +21,16 @@ title = "०५ 'यत इन्द्र'"
 
 स्व॒स्ति॒दा वि॒शस्-पति॑र्  
 वृत्र॒हा वि॑मृ॒धो व॒शी ।  
-वृषेन्द्रः॑ पु॒र ए॑तु नः  
-सोम॒पा अ॑भयङ्क॒रः ॥
+वृषेन्द्रः॑ पु॒र **ए॑तु** नः  
+सोम॒-पा **अ॑भयङ्-क॒रः** ॥
 
 </details>
 </div>  
 
 ## ०७ 'महाँ इन्द्रो वज्रबाहुः'
 
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/42_ShoDashigrahaH/01_mahAM_indro.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/42_ShoDashigrahaH/01_mahAM_indro.md">
+<details open><summary><h4>01 महां इन्द्रो ...{Loading}...</h4></summary>
 
 म॒हाꣳ इन्द्रो॒ वज्र॑बाहुष्  
 षोड॒शी **शर्म॑ यच्छतु** ।  
@@ -54,4 +53,3 @@ title = "०५ 'यत इन्द्र'"
 
 </details>
 </div>
-

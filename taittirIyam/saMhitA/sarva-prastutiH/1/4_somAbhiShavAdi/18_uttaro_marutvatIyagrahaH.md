@@ -38,15 +38,15 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+###### Strata
 Normal
 
-######## Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-######## Morph
+###### Morph
 ihá ← ihá (invariable)  
 {}
 
@@ -208,11 +208,11 @@ vivāsanti ← √vanⁱ- (root)
 </details>
 <details><summary>Wilson</summary>
 
-####### English translation:
+###### English translation:
 
 “**Indra**, accompanied, by the **Maruts**, drink the **Soma** at this ceremony as you have drunk of this libation of the son of **Śāryāti**; your far-reaching and devout worshippers, being in security, adore you through their offerings.”
 
-####### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
 Śārvāti: RV. 1.051.12; Yasus. 7.35; being in security: tava **śarman** a vivāsanti, they worship you in the security, or unassailable plural ce, dependent on, or protected by you, tavasambandhini śarmani nirbādhasthāne stithāḥ;
 

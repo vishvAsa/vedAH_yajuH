@@ -142,7 +142,7 @@ May she hurt thee not; may she hurt me not.
 
 7अनुमन्त्र्यमाणम् आसन्नम् अभिमन्त्रयते - निषसादेति गायत्र्या त्रिपदया ॥ 
 </details>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/16_vijayAd_Urdhvam_upaveshanAdi_mantrAH/02_niShasAda_dhRtavrato.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/16_vijayAd_Urdhvam_upaveshanAdi_mantrAH/02_niShasAda_dhRtavrato.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 **निष॑साद** धृ॒त-व्र॑तो॒  
@@ -150,7 +150,7 @@ May she hurt thee not; may she hurt me not.
 साम्रा᳚ज्याय सु॒-क्रतुः॑॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/16_vijayAd_Urdhvam_upaveshanAdi_mantrAH/02_niShasAda_dhRtavrato.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/16_vijayAd_Urdhvam_upaveshanAdi_mantrAH/02_niShasAda_dhRtavrato.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 

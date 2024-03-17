@@ -36,15 +36,15 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-######## Strata
+###### Strata
 Normal on metrical evidence alone
 
-######## Pāda-label
+###### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
-######## Morph
+###### Morph
 hárī ← hári- (nominal stem)  
 {case:NOM, gender:M, number:DU}
 

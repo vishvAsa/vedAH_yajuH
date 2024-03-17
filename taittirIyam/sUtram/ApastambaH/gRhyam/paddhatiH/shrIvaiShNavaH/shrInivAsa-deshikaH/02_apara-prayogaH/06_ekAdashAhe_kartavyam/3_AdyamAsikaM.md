@@ -5,7 +5,16 @@ title = "३ आद्यमासिकं"
 
 आचम्य एकदर्भकृत पवित्रं धृत्वा प्रणम्य । प्राचीनावीती - 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya.md">
+<details open><summary><h5>अशेषे हे परिषत् ...{Loading}...</h5></summary>
+
+> स्वामिनः!  
+अशेषे हे परिषत्  
+भवत्-पादमूले मया समर्पिताम् इमां सौवर्णीं यत्-किञ्चिद्-दक्षिणां  
+यथोक्तदक्षिणामिव स्वीकृत्य  
+
+</details>
+</div>  
 
  - गोत्रस्य + अद्य एकादशेऽहनि, आद्यमासिक महैकोद्दिष्ट श्राद्धमग्नौ कर्तु, योग्यता सिद्धिमनुगृहाण ॥ पुरतः लौकिकाग्निं प्रतिष्ठाप्य अस्मिन्नेवाग्नौ प्रेतरूपी पिता वर्तते, इत्येवं रूपेण, अस्मिन्नाद्यमासिके ध्यात्वा अग्नौ प्रक्षेप योग्यं वस्तु अग्नौ प्रक्षिपेत् । प्रक्षेपे, अयोग्यं जलादिकं तत्समीपे समर्पयेत्॥ तिलानादाय, गोत्रस्य + अद्य एकादशेऽहनि आद्यमासिक महैकोद्दिष्ट श्राद्धे गोत्राय शर्मणे पित्रे प्रेतायनमः इति अग्निं अप्रदक्षिणेनार्चयेत्। (गोत्रायै, नाम्यै, मात्रे प्रेतायै नमः) उपविश्य उपवीती दर्भेष्वासीनः, दर्भान्धारयमाणः, प्राणानायम्य, प्राचीनावीती, सङ्कल्प्य
 

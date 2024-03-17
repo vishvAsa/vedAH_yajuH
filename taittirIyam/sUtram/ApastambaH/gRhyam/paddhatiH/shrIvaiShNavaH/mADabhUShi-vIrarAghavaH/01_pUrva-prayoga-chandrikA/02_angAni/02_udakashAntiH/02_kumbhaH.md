@@ -2,26 +2,24 @@
 title = "०२ कुम्भः"
 
 +++
-अद्भिर् अवोक्ष्य  
-व्रीहीन् तत्र निक्षिप्य  
+अद्भिर् **अवोक्ष्य**  
+व्रीहीन् तत्र **निक्षिप्य**  
 
-तत्र ‘ब्रह्मजज्ञानम्' इति कुम्भं निधाय  
+तत्र ‘ब्रह्मजज्ञानम्' इति कुम्भं **निधाय**  
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/13/03_brahma_jajnAnam.md">
 <details open><summary><h4>०३ ब्रह्म जज्ञानम् ...{Loading}...</h4></summary>
 
 ब्रह्म॑ +++(=मन्त्रः ([सौरमण्डलयज्ञे]))+++ जज्ञा॒नं +++(=उत्पन्नम्)+++ प्र॑थ॒मं पु॒रस्ता॑द्  
-वि सी॑म॒तस् सु॒रुचो॑ वे॒न आ॑वः ।  
-स बु॒ध्न्या॑ +++(=मूले भवः ([खस्य सूर्यः]))+++ उप॒मा अ॑स्य वि॒ष्ठाः +++(=विस्थितः)+++,  
-स॒तश्च॒ योनि॒म् +++(सूर्यम्)+++ अस॑तश्च॒ विवः॑ +++(=विवृतवान्)+++  ।
-
-{{< figure src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/venus_morning_star.jpg"  class="thumbnail">}}
+वि सी॑म॒तस् सु॒रुचो॑ वे॒न **आ॑वः** ।  
+स बु॒ध्न्या॑ +++(=मूले भवः ([खस्य सूर्यः]))+++ उप॒मा अ॑स्य **वि॒ष्ठाः** +++(=विस्थितः)+++,  
+स॒तश्च॒ योनि॒म् +++(सूर्यम्)+++ अस॑तश्च॒ **विवः॑** +++(=विवृतवान्)+++  ।
 
 </details>
 </div>  
 
 
-तस्मिन् गायत्र्या तिरः-पवित्रं निधाय  
+तस्मिन् गायत्र्या तिरः-पवित्रं **निधाय**  
 
 <div class="js_include" includetitle="true" newlevelforh1="4" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/062/10_tatsaviturvareNyaM_bhargo.md">
 <details open><summary><h4>१० तत्सवितुर्वरेण्यं भर्गो ...{Loading}...</h4></summary>
@@ -43,7 +41,7 @@ title = "०२ कुम्भः"
 ‘आपो वा इदं सर्वम्' इत्यद्भिरापूर्य ऊर्ध्वाग्रं कूर्चं निधाय 
 
 <div class="js_include" includetitle="true" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/22_Apo_vA_idam/">
-<details open><summary><h4>२२ आपो वा इदं सर्वम् ...{Loading}...</h4></summary>
+<details open><summary><h4>२२ आपो वा इदम् ...{Loading}...</h4></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आपो॒ वा इ॒दꣳ सर्वं॒  
@@ -71,15 +69,15 @@ title = "०२ कुम्भः"
 </div>
 
 
-'भूर् भुव॒स् सुव॒र् ओम्' इति अक्षतां निक्षिप्य  
+'भूर् भुव॒स् सुव॒र् ओम्' इति **अक्षतां** निक्षिप्य  
 
-गन्ध-पुष्पैर् अलङ्-कृत्य  
+गन्ध-पुष्पैर् **अलङ्-कृत्य**  
 
-दूर्वा-पुष्प-फलैर् अवकीर्य 
+दूर्वा-पुष्प-फलैर् **अवकीर्य** 
 
-दूर्वा-दर्भैः प्रच्छाद्य 
+दूर्वा-दर्भैः **प्रच्छाद्य** 
 
-'शन्नो देवी'र् इत्य् अभिमृश्य 
+'शन्नो देवी'र् इत्य् **अभिमृश्य** 
 
 <div class="js_include" includetitle="true" newlevelforh1="4" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/04_shaM_no.md">
 <details open><summary><h4>०४ शं नो ...{Loading}...</h4></summary>
@@ -94,4 +92,4 @@ title = "०२ कुम्भः"
 
 
 चतुर्-दिक्षु आसनेषु निषण्णैश् चतुर्भिर् ब्राह्मणैस् सह  
-कुम्भम् अन्वारभ्य 
+कुम्भम् **अन्वारभ्य** 
