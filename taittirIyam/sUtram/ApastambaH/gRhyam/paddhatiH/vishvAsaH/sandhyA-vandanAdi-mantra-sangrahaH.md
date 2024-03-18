@@ -986,82 +986,10 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 
 ## दिशः
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/02_svAdhyAya-brAhmaNAdi/23_Andhra-pATha-yogaH/01_dig-vandanam">
-<details open><summary><h5>०१ दिग्-वन्दनम् ...{Loading}...</h5></summary>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 नमः॒ प्राच्यै॑ दि॒शे  
-याश्च॑ दे॒वता॑ ए॒तस्यां॒ प्रति॑वसन्त्ये॒ताभ्य॑श्च॒ नमः॑
-</details>
-<details><summary>मूलम्</summary>
+याश्च॑ दे॒वता॑ ए॒तस्यां॒ प्रति॑वसन्त्ये॒ताभ्य॑श्च॒+++(←स्वरः??)+++ नमः॑
 
-नमः॒ प्राच्यै॑ दि॒शे  
-याश्च॑ दे॒वता॑ ए॒तस्यां॒ प्रति॑वसन्त्ये॒ताभ्य॑श्च॒ नमो॒
-</details>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-नमो॒ दक्षि॑णायै दि॒शे  
-याश्च॑ दे॒वता॑ ए॒तस्यां॒ प्रति॑वसन्त्ये॒ताभ्य॑श्च॒ नमः॑
-</details>
-<details><summary>मूलम्</summary>
-
-नमो॒ दक्षि॑णायै दि॒शे  
-याश्च॑ दे॒वता॑ ए॒तस्यां॒ प्रति॑वसन्त्ये॒ताभ्य॑श्च॒ नमो॒
-</details>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-नमः॒ प्रती᳚च्यै दि॒शे  
-याश्च॑ दे॒वता॑ ए॒तस्यां॒ प्रति॑वसन्त्ये॒ताभ्य॑श्च॒ नमः॑
-</details>
-<details><summary>मूलम्</summary>
-
-नमः॒ प्रती᳚च्यै दि॒शे  
-याश्च॑ दे॒वता॑ ए॒तस्यां॒ प्रति॑वसन्त्ये॒ताभ्य॑श्च॒ नमो॒
-</details>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-नम॒ उदी᳚च्यै दि॒शे  
-याश्च॑ दे॒वता॑ ए॒तस्यां॒ प्रति॑वसन्त्ये॒ताभ्य॑श्च॒ नमः॑ 
-</details>
-<details><summary>मूलम्</summary>
-
-नम॒ उदी᳚च्यै दि॒शे  
-याश्च॑ दे॒वता॑ ए॒तस्यां॒ प्रति॑वसन्त्ये॒ताभ्य॑श्च॒ नमो॒ 
-</details>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-नम॑ ऊ॒र्ध्वायै॑ दि॒शे  
-याश्च॑ दे॒वता॑ ए॒तस्यां॒ प्रति॑वसन्त्ये॒ताभ्य॑श्च॒ नमः॑  
-
-</details>
-<details><summary>मूलम्</summary>
-
-नम॑ ऊ॒र्ध्वायै॑ दि॒शे  
-याश्च॑ दे॒वता॑ ए॒तस्यां॒ प्रति॑वसन्त्ये॒ताभ्य॑श्च॒ नमो॒  
-</details>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-नमोऽध॑रायै दि॒शे  
-याश्च॑ दे॒वता॑ ए॒तस्यां॒ प्रति॑वसन्त्ये॒ताभ्य॑श्च॒ नमः॑
-</details>
-<details><summary>मूलम्</summary>
-
-नमोऽध॑रायै दि॒शे  
-याश्च॑ दे॒वता॑ ए॒तस्यां॒ प्रति॑वसन्त्ये॒ताभ्य॑श्च॒ नमो॒
-</details>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-नमो॑ऽवान्त॒रायै॑ दि॒शे  
-याश्च॑ दे॒वता॑ ए॒तस्यां॒ प्रति॑वसन्त्ये॒ताभ्य॑श्च॒ नमः॑
-</details>
-<details><summary>मूलम्</summary>
-
-नमो॑ऽवान्त॒रायै॑ दि॒शे  
-याश्च॑ दे॒वता॑ ए॒तस्यां॒ प्रति॑वसन्त्ये॒ताभ्य॑श्च॒ नमः॑
-</details>
-</details>
-</div>
-
+एवं - दक्षि॑णायै प्रती᳚च्यै उदी᳚च्यै ऊ॒र्ध्वायै॑, नमोऽध॑रायै, नमो॑ऽवान्त॒रायै॑ …
 
 ## परिधानीयम्
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/02_svAdhyAya-brAhmaNAdi/namo_brahmaNe.md">
@@ -1120,3 +1048,6 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 </details>
 </div>
 
+## परिषेचनम्
+ऋ॒तन्त्वा॑ स॒त्येन॒ परि॑षिञ्चा॒मि।  
+स॒त्यन्त्व॒र्तेन॒ परि॑षिञ्चा॒मि।
