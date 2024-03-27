@@ -3,7 +3,7 @@ title = "१ पूर्वः"
 unicode_script = "devanagari"
 +++
 
-
+Source: [TW](https://archive.org/details/baudhayanaprayogaratnamalaofvenkateshabhattatippanisuriramachandrasastrisirsipri)
 
 अथ श्रीवेङ्कटेशभद्दविरचिता बौधायनीयप्रयोगरत्नमाला 
 (पूर्वसन्पुटः) 
