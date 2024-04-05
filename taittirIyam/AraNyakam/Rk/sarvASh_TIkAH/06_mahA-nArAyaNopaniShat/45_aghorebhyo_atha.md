@@ -64,7 +64,54 @@ Used to invoke the bhairavI (as the shakti of navAtman bhairava), followed by th
 
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
+> "घोरेति पाशजालाख्यं  
+पाप-युक्तं भयानकम् ।   
+तद् येषां तु न विद्येत  
+ह्य् **अघोराः परिकीतीताः** ॥   
+>   
+> वामेश्वरादयो रुद्रा  
+जाल-मूलोपरि-स्थिताः ।   
+ते ह्य् **अघोराः समाख्याताः**  
+**शृणु घोरान्** समासतः ॥   
+>   
+> प्रोक्ता गो-पति-पूर्वा ये  
+रुद्रास् तु गहनान्तगाः ।   
+ते तु **घोराः समाख्याता**  
+नाना-भुवन-वासिनः ॥   
+>   
+> विद्येश्वराद्य्-अनन्तान्ता  
+महामाहेश्वराश् च ये ।   
+**घोर-घोरतरास्** त्व् अन्ये  
+**विज्ञेयास्** त्व् अध **आश्रिताः** ॥   
+>   
+> एते अघोरा घोराश्च  
+घोरघोरतरास् तथा ।   
+एतेष्व् अवस्थिता नित्यं  
+शक्तयः पारमेश्वराः ॥   
+>   
+> स्थिति-प्रलय-सर्गेषु  
+बन्ध-मोक्ष-क्रियासु च ।   
+सर्वार्थ-प्रेरकत्वेन  
+रूपेष्व् एतेषु शक्तयः ॥   
+>   
+> रूपेभ्य एभ्यः सर्वेभ्यो  
+**नमस्कारं करोत्य्** अणुः ।   
+नमस्कारः **परित्यागः**  
+कार्य-कारण-लक्षणः ॥"   
+
+
+While the scriptures of pAshupata-s who followed the lakulin are lost, a fragment of their text is preserved by kShemarAja, the cousin of abhinavagupta in his commentary on the svachChanda-tantra. It gives an important insight into how they viewed the rudra of the bahurUpI-R^ik.
+
+The triad of rudra-s, i.e., the aghora-s, ghora-s and ghoraghoratara-s are seen as occupying a tripartite universe with the aghora-s in the upper "ideal" world (starting with vAmeshvara);  
+the ghora-s constituting a terrible web permeating the material worlds (starting with gopati and culminating in gahana). 
+Finally, the ghoraghoratara rudra-s constitute the substratal world and include the vidyeshvara-s culminating in ananta. It is notable that the vidyeshvara-s form the inner circle in the siddhAnta. 
+
+This suggests that it inherited that configuration from a distinct pAshupata predecessor. 
+
+This lakulin formulation next mentions the key role of the shakti-s of these rudra-s, who are also understood as the shakti-s of the primary rudra parameshvara himself. The formulation resembles the early trika (pUrvAmnAya)-aligned tantra-s.Thus, the differentiation of the srotAMsi was already underway in the atimArga substratum. 
+
 bahurUpI was archaic but popular para-vedic mantra used outside of core saMhitA ritual, likely among the earliest shaiva-s. It was incorporated once, relatively late into the saMhitA of the maitrAyaNIya-s in the context of the raudra shrauta rituals and independently into mahAnArAyaNopaniShat traditions. In that later class of traditions, it was likely an independent transfer from the shaiva traditions (by now early pAshupata). The mantramArga inherited from pAshupata where it was already polymorphic with saiddhAntika-s and dakShiNa-s inheriting alternative variants.
+
 </details>
 
 
