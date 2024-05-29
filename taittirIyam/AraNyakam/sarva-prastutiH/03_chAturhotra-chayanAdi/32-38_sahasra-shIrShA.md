@@ -3567,6 +3567,20 @@ Sieben Umschlusshölzer waren ihm, dreimal sieben Schichten des Brennholzes wurd
 </details>
 </div>
 
+### पुरुषस्तुतिः, यज्ञस्तुतिः
+
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/03_chAturhotra-chayanAdi/32-38_sahasra-shIrShA/16_vedAham_etam.md" newLevelForH1="5" includeTitle="false"> </div>
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/03_chAturhotra-chayanAdi/32-38_sahasra-shIrShA/16_vedAham_etam.md" newLevelForH1="5" includeTitle="false"> </div>
+
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/03_chAturhotra-chayanAdi/32-38_sahasra-shIrShA/17_dhAtA_purastAt.md" newLevelForH1="5" includeTitle="false"> </div>
+
+
+
+
+
 ### 16 यज्ञेन यज्ञमयजन्त - त्रिष्टुप्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/16_yajnena_yajnamayajanta.md">
 <details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
