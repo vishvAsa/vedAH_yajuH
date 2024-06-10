@@ -24,7 +24,6 @@ unicode_script = "devanagari"
 
 </details>
 
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/089/08_bhadraM_karNebhiH.md">
 <details open><summary><h2>०८ भद्रं कर्णेभिः ...{Loading}...</h2></summary>
 
