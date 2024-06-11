@@ -25,7 +25,6 @@ verily he stands firm in the year with its five seasons.
 
 अथो॒ पञ्चा᳚ख्षरा प॒ङ्क्तिः ।
 पाङ्क्तो॑ य॒ज्ञो, य॒ज्ञम् ए॒वाव॑ रुन्धे ।
-
 </details>
 
 
