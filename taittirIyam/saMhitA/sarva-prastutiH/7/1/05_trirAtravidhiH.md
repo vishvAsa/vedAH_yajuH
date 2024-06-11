@@ -11,7 +11,7 @@ title = "०५ त्रिरात्रविधिः"
 
 
 ## सृष्टिकथा
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -36,7 +36,7 @@ She extended, she became the earth, and hence the earth is called the earth (lit
 </details>
 
 
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -58,7 +58,7 @@ He said [1], 'As I have created you by penance, so seek ye offspring in penance.
 
 
 ### गोसृष्टिः
-#### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -80,7 +80,7 @@ After a year they produced one cow.
 
 
 
-#### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -102,7 +102,7 @@ It produced for the Vasus three hundred and thirty-three [2].
 </details>
 
 
-#### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -124,7 +124,7 @@ It produced for the Rudras three hundred and thirty-three [2].
 </details>
 
 
-#### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -146,7 +146,7 @@ It produced for the Adityas three hundred and thirty-three [2].
 </details>
 
 
-#### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -163,7 +163,7 @@ Thus she became the thousandth.
 
 
 ## त्रिरात्रयाग-कलनम्
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -178,7 +178,7 @@ The gods said to Prajapati, 'Cause sacrifice to be made to us with a thousand.'
 </details>
 
 
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -193,7 +193,7 @@ He caused sacrifice to be made by the Vasus with the Agnistoma.  They won this w
 </details>
 
 
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -208,7 +208,7 @@ He caused sacrifice to be made by the Rudras with the Ukthya. They won the atmos
 </details>
 
 
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -224,7 +224,7 @@ He caused sacrifice to be made by the Adityas with the Atiratra. They won yonder
 
 
 ### मध्यम-दिन-विशेषः
-#### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -241,7 +241,7 @@ Therefore the Rudras are murderous, for they have no support.
 </details>
 
 
-#### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -258,7 +258,7 @@ The Ajya (Çastra) of the midmost day is in the Tristubh metre.
 </details>
 
 
-#### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -276,7 +276,7 @@ then recites the Sodaçin, that the day may be made firm and be not loose.
 
 
 ### उपसंहारः
-#### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -295,7 +295,7 @@ He should not break the decades lest he should thus destroy the Viraj.
 </details>
 
 
-#### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -319,7 +319,7 @@ It is the Achavaka [5] who recites this verse.
 
 
 ## सहस्रतमीविचारः
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -336,7 +336,7 @@ the Hotr is the receiver of what has not been taken.
 </details>
 
 
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -354,7 +354,7 @@ This is left over of the thousand, and the Unnetr is the one of the priests who 
 
 
 
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -371,7 +371,7 @@ Then some say, 'It should be driven away and allowed to wander at will.'
 </details>
 
 
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -392,7 +392,7 @@ just as they two agreed upon.
 </details>
 
 
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -412,7 +412,7 @@ for the gaining of a thousand.
 
 
 ## फलम्
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

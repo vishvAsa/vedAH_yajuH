@@ -49,7 +49,7 @@ title = "०५ त्रयस्त्रिंशरात्रः"
 <details open><summary><h3>पञ्चता-महिमा ...{Loading}...</h3></summary>
 
 
-##### वाक्यानि
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पञ्च॒ वा ऋ॒तव॑स् सव्ँवथ्स॒रः +++(हेमन्त-शिशिरयोर् एकत्वात्, अथवा ऽन्धसि वर्षर्तोर् अभावात्)+++।[38]  
@@ -63,7 +63,7 @@ verily he stands firm in the year with its five seasons.
 
 
 
-##### वाक्यानि
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथो॒ पञ्चा᳚ख्षरा प॒ङ्क्तिः ।

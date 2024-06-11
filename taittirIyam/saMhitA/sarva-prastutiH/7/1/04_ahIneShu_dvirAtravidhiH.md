@@ -5,7 +5,7 @@ title = "०४ अहीनेषु द्विरात्रविधिः
 +++(अहीनः = अहस्-समूह-साध्यः। चत्वारो द्विरात्राः व्युष्टिद्विरात्रा-ऽऽङ्गिरस-कपिवन-चैत्ररथ-नामानः । )+++  
 
 ## फलम्
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -24,7 +24,7 @@ They desired, 'May we two go to the world of heaven.' They two saw this two-nigh
 </details>
 
 
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -52,7 +52,7 @@ They went with the first day and arrived with the second [1].
 
 
 
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -67,7 +67,7 @@ The first day is the Abhiplava, the second the complete (gati).
 </details>
 
 
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -85,7 +85,7 @@ The second day is an Atiratra with all the Stomas, that he may obtain all and wi
 
 
 
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -101,7 +101,7 @@ On the first day the Saman is in the Gayatri (metre). The Gayatri is brilliance 
 </details>
 
 
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -116,7 +116,7 @@ On the second day (the Saman) is in the Tristubh metre. The Tristubh is force an
 </details>
 
 
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -133,7 +133,7 @@ The Rathantara is this (earth); verily he stands firm on this (earth).
 </details>
 
 
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -144,7 +144,7 @@ The Rathantara is this (earth); verily he stands firm on this (earth).
 
 (The Saman) on the second is the Brhat. The Brhat is yonder (sky); verily he stands firm on yonder (sky).
 
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -167,7 +167,7 @@ On the second it is the Sodaçin; verily he does not leave the Anustubh.
 
 
 ## कालसूचना
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -188,7 +188,7 @@ the second on the next day, verily the days fall on separate half-months, and ha
 </details>
 
 
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

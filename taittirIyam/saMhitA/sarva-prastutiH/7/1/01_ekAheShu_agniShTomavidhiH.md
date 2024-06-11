@@ -3,7 +3,7 @@ title = "०१ एकाहेषु अग्निष्टोमविधि
 
 +++
 ## परिचयः
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -36,7 +36,7 @@ Therefore it is called light.
 
 
 ## स्तोमकलनम्
-### वाक्यानि
+
 
 <details open><summary>विश्वास-टिप्पनी</summary>
 
@@ -76,7 +76,6 @@ ______________
 +++(MT: "aitareya 30th brAhmaNa on the bringing of agni & soma regarding the recitation of the incantation to varuNa asura medhira; it clearly says there 12 mAsa-s+5 R^itu-s+3 loka-s all supported by the +1 Aditya (here ided with varuNa)=21")+++
 </details>
 
-
 ______________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -97,7 +96,7 @@ This sacrifice is commensurate with man, and is perfect [1].
 
 
 ## फलस्मारणम्
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -122,7 +121,7 @@ by means of the Agnistoma he grasped them.
 
 
 ## अश्वतर-दक्षिणा-योग्यता
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -145,7 +144,7 @@ They also say, 'He placed it in offspring.' Therefore twins are born.
 </details>
 
 
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -163,7 +162,7 @@ Therefore he is not suitable for the sacrifice, but is suitable if there is a sa
 
 
 ## प्राशस्त्यकथनम्
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -182,7 +181,7 @@ He who knowing thus sacrifices with the Agnistoma begets unborn offspring and gr
 
 
 ## स्तोमोत्पत्तिः
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -202,7 +201,7 @@ After it the god Agni was created, the Gayatri metre, the Rathantara Saman, of m
 </details>
 _____
 
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -220,7 +219,7 @@ After it the god Indra was created, the Tristubh metre, the Brhat [4] Saman, of 
 </details>
 _____
 
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -245,7 +244,7 @@ Therefore are they more numerous than others, for they were created after the mo
 _____
 
 
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -269,7 +268,7 @@ Therefore they depend on their feet, for they were created from the feet.
 _____
 
 
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
