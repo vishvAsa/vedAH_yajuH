@@ -11,7 +11,7 @@ title = "०९ चतूरात्रस्य जामदग्न्यस
 
 
 ## फलम्  
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -35,7 +35,7 @@ That prosperity is his who knowing thus offers the four-night rite.
 
 
 ## पुरोडाशविधिः
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -50,7 +50,7 @@ On the Upasads offerings of the sacrificial cake are made.
 </details>
 
 
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

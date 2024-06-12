@@ -4,7 +4,7 @@ title = "०६ त्रिरात्राङ्गहोमादिवि�
 +++
 
 ## सहस्रतमीस्तुतिः
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -34,7 +34,7 @@ They said, 'We all see that in this one is strength [1]. Let us each have a port
 
 
 ## सोमक्रय-गो-निर्देशः
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -56,7 +56,7 @@ He, who knowing thus buys the Soma with a red brown cow one year old, buys the S
 
 
 ## इन्द्रयागे गो-निर्देशः
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -81,7 +81,7 @@ gives her as three hundred and thirty-three [3].
 
 
 ## अनुस्तरण-गो-निर्देशः
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -105,7 +105,7 @@ she becomes for him in yonder world three hundred and thirty-three.
 
 
 ## वरप्राधान्यम्
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -126,7 +126,7 @@ Therefore one must not accept a boon; for she is a boon; verily he would be acce
 
 
 ## वरदानप्रक्रिया
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -146,7 +146,7 @@ verily he avoids accepting a thousand.
 
 
 ## सहस्रतमीलक्षणम्
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -161,7 +161,7 @@ She should be spotted on either side. They say, 'Let her be spotted on one side 
 </details>
 
 
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -178,7 +178,7 @@ The one for a boon [5] should be beautiful, perfect in form; for she is a boon; 
 
 
 ## आघ्रापणम्
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -210,7 +210,7 @@ Let wealth again visit me.'
 </details>
 
 
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -228,7 +228,7 @@ He becomes rich in offspring, in cattle, in wealth, who knows thus.
 
 
 ## होमः
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -253,7 +253,7 @@ Ye did divide the thousand into three.'
 </details>
 
 
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -273,7 +273,7 @@ he makes her the measure of a thousand [7].
 
 
 
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -288,7 +288,7 @@ He offers to her forms; verily he unites her with her forms.
 </details>
 
 
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -315,7 +315,7 @@ Proclaim me among the gods as a doer of good deeds.'
 
 
 
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

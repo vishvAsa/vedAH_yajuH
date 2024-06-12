@@ -3,7 +3,7 @@ title = "०३ अतिरात्रविधिः"
 
 +++
 ## अग्निष्टोमात् परमेव सर्वस्तोम अधिकारः
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -20,7 +20,7 @@ The theologians say,
 </details>
 
 
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -41,7 +41,7 @@ but he who offers the sacrifice does so with the wish,
 </details>
 
 
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -62,7 +62,7 @@ but he who offers the sacrifice does so with the wish,
 </details>
 
 
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -84,7 +84,7 @@ but he who offers the sacrifice does so with the wish,
 
 
 
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -96,7 +96,7 @@ but he who offers the sacrifice does so with the wish,
 
 
 
-### वाक्यानि
+
 If they omit the Ekavinça Stoma,  
 his support is omitted,  
 but he who offers the sacrifice does so with the wish,  
@@ -111,7 +111,7 @@ ______________________
 
 
 
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -133,7 +133,7 @@ but he who offers the sacrifice does so with the wish,
 </details>
 
 
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -155,7 +155,7 @@ and he who offers the sacrifice does so with the wish,
 
 
 ## अतिरात्रविधानम्
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

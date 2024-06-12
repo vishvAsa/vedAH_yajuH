@@ -74,7 +74,7 @@ There is a Saptadaśa (Stoma), for the obtainment of food; verily also he gains 
 <details open><summary><h3>२५-विधानम् ...{Loading}...</h3></summary>
 
 
-##### वाक्यानि
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प॒ञ्च॒वि॒ꣳ॒शो᳚ ऽग्निष्टो॒मो +++(यागः)+++ भ॑वति॒ प्र॒जाप॑ते॒र् आप्त्यै॑ ।  

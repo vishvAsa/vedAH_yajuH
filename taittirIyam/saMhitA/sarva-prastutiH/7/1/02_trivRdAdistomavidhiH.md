@@ -2,7 +2,7 @@
 title = "०२ त्रिवृदादिस्तोमविधिः"
 
 +++
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -28,7 +28,7 @@ verily also Stoma leads Stoma forth.
 
 
 ## फलस्तुतिः
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

@@ -3,7 +3,7 @@ title = "०७ तदङ्ग-सहस्रतमी-दानम्"
 
 +++
 ## अभिमन्त्रणम्
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -28,7 +28,7 @@ verily she makes him go to the world of heaven.
 </details>
 
 
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -50,7 +50,7 @@ verily she makes him go to all holy worlds [1].
 
 
 
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -72,7 +72,7 @@ Rich in offspring, cattle, and wealth he becomes who knows thus.
 
 
 ## दानम्
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -90,7 +90,7 @@ In giving her, he gives a thousand.
 
 
 ## प्रतिग्रहणम्
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -115,7 +115,7 @@ verily he who knows thus accepts her as one, not as a thousand.
 </details>
 
 
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -136,7 +136,7 @@ verily she becoming gentle, well resting, auspicious, comes to him, and harms hi
 
 
 ## उत्सर्गदिक्
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -156,7 +156,7 @@ He lets her go to the west; the thousand follow after her. She knowing goes to t
 </details>
 
 
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -173,7 +173,7 @@ Quickly a thousand springs up.
 </details>
 
 
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

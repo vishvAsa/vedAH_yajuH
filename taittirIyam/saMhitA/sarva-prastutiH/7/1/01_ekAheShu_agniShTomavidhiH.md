@@ -3,7 +3,7 @@ title = "०१ एकाहेषु अग्निष्टोमविधि
 
 +++
 ## परिचयः
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -36,17 +36,28 @@ Therefore it is called light.
 
 
 ## स्तोमकलनम्
-### वाक्यानि
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(त्रिवृत्-पञ्चदशौ स्तोमौ प्रातः (१ त्रिवृत्, ४ पञ्चदशाः वस्तुतः)। पञ्चदशसप्तदशौ माध्यन्दिनसवने (१ पञ्चदश, ४ सप्तदशाः वस्तुतः)। सप्तदशैकविंशौ तृतीयसवने। आहत्य १२ स्तोमाः, १९० = (9+60)+(15+68)+(17+21) स्तोत्रीयाः।)+++
+<details open><summary>विश्वास-टिप्पनी</summary>
+
+त्रिवृत्-पञ्चदशौ स्तोमौ प्रातः (१ त्रिवृत्, ४ पञ्चदशाः वस्तुतः)। पञ्चदशसप्तदशौ माध्यन्दिनसवने (१ पञ्चदश, ४ सप्तदशाः वस्तुतः)। सप्तदशैकविंशौ तृतीयसवने। आहत्य १२ स्तोमाः, १९० = (9+60)+(15+68)+(17+21) स्तोत्रीयाः।
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्वौ +++(त्रिवृत्-पञ्चदशौ)+++ स्तोमौ᳚ प्रा॒त॒स् स॒व॒नव्ँ व॑हतो॒,  यथा᳚ प्रा॒णश् चा॑पा॒नश्च॑ ।  
 +++(तत्र बहिष्पवमाने नव ३*३ = ९ स्तोत्रिया त्रिवृद्वहिष्पवमान इति। पञ्चदशान्याज्यानि; तस्य षष्टिः १५*४ = ६० स्तोत्रीयाः ।)+++  
+
+</details>
+
+<details><summary>मूलम्</summary>
+
+द्वौ +++(त्रिवृत्-पञ्चदशौ)+++ स्तोमौ᳚ प्रा॒त॒स् स॒व॒नव्ँ व॑हतो॒,  यथा᳚ प्रा॒णश् चा॑पा॒नश्च॑ ।  
++++(तत्र बहिष्पवमाने नव ३*३ = ९ स्तोत्रिया त्रिवृद्वहिष्पवमान इति। पञ्चदशान्याज्यानि; तस्य षष्टिः १५*४ = ६० स्तोत्रीयाः ।)+++  
+
+</details>
+
 ______________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -64,7 +75,6 @@ ______________
 +++(सप्तदशार्भवः पवमान इति सप्तदश १७ स्तोत्रीयाः । एकविंशम् अग्निष्टोम-सामेति एकविंशतिः २१ स्तोत्रीयाः ।)+++  
 +++(MT: "aitareya 30th brAhmaNa on the bringing of agni & soma regarding the recitation of the incantation to varuNa asura medhira; it clearly says there 12 mAsa-s+5 R^itu-s+3 loka-s all supported by the +1 Aditya (here ided with varuNa)=21")+++
 </details>
-
 
 ______________
 
@@ -86,7 +96,7 @@ This sacrifice is commensurate with man, and is perfect [1].
 
 
 ## फलस्मारणम्
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -111,7 +121,7 @@ by means of the Agnistoma he grasped them.
 
 
 ## अश्वतर-दक्षिणा-योग्यता
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -134,7 +144,7 @@ They also say, 'He placed it in offspring.' Therefore twins are born.
 </details>
 
 
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -152,7 +162,7 @@ Therefore he is not suitable for the sacrifice, but is suitable if there is a sa
 
 
 ## प्राशस्त्यकथनम्
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -171,7 +181,7 @@ He who knowing thus sacrifices with the Agnistoma begets unborn offspring and gr
 
 
 ## स्तोमोत्पत्तिः
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -191,7 +201,7 @@ After it the god Agni was created, the Gayatri metre, the Rathantara Saman, of m
 </details>
 _____
 
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -209,7 +219,7 @@ After it the god Indra was created, the Tristubh metre, the Brhat [4] Saman, of 
 </details>
 _____
 
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -234,7 +244,7 @@ Therefore are they more numerous than others, for they were created after the mo
 _____
 
 
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -258,7 +268,7 @@ Therefore they depend on their feet, for they were created from the feet.
 _____
 
 
-### वाक्यानि
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
