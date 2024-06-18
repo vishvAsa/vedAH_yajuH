@@ -106,7 +106,7 @@ ____
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/01_shAkhAharaNAdiH/19_A_pyAyadhvam.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-आ प्या॑यध्वम् अघ्निया+++(=अहननार्हाः)+++ देवभा॒गम्। 
+आ प्या॑यध्वम् अघ्निया+++(=अहननार्हाः)+++ देवभा॒गम्
 ऊर्ज॑स्वती॒ᳶ पय॑स्वतीᳶ  
 प्र॒जाव॑तीर् अनमी॒वा अ॑य॒क्ष्मा  
 मा व॑स् स्ते॒न ई॑शत॒+++(=स्ववशं कुर्यात्)+++ माऽघशꣳ॑सः।+++(र४)+++
