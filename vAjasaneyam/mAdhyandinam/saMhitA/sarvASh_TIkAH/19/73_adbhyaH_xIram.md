@@ -15,6 +15,15 @@ title = "७३ अद्भ्यः क्षीरम्"
 - धैवतः
 </details>
 
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+H tradition holds that certain birds can separate milk from water. We believe it is an allusion to an early realization of filter feeding. The earliest reference to this is in the shuklayajurveda regarding a bird termed kru~N. 
+
+We believe (contra main-stream IEists) that its a an ortholog of Germanic krana, and Armenian krownk. The IEist might laryngeally bellow that it violates phonology, but we believe that rather than being dominated by phonology its form was driven by onomatopoeia. This is supported by such forms showing up in Dravidian, Harappan, and Uralic.  
+We translate it as the unrelated flamingo because of the suspicion that it might have been laterally expanded to apply to a filter-feeder that also produces milk. The way this metaphor is used for the kru~N is very similar to how it is used for the haMsa later.
+</details>
+
+
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 
 कौन पुरुष विज्ञान को प्राप्त होते हैं, इस विषय को अगले मन्त्र में कहा है ॥
