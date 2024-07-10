@@ -10,8 +10,8 @@ title = "Sen, Bag: Translation"
 1.5
 1.6
 1.7
-We shall explain the methods of constructing (different) figures (on the ground for building sacrificial altars).
-A cord of length equal to a given measure is increased by its half so that the whole length is divided into three parts of half the measure each. In the third part on the western side, a mark is given at a point shorter by one-sixth (of the third part). With the two ties fastened to the two ends of the east-west line (pṛṣṭhyā) the cord is stretched towards the south by the mark and a pole is fixed on it. The same is done towards the north. The same is repeated on the other side (eastern) after interchanging the ties. Thus are determined (the four corners of the right rectilinear figure). Thereby the sides are shortened or lengthened.
+
+With the two ties fastened to the two ends of the east-west line (pṛṣṭhyā) the cord is stretched towards the south by the mark and a pole is fixed on it. The same is done towards the north. The same is repeated on the other side (eastern) after interchanging the ties. Thus are determined (the four corners of the right rectilinear figure). Thereby the sides are shortened or lengthened.
 Alternatively, a cord of a given measure is increased by its length; the original length plus its fourth part will constitute the diagonal and the remaining (three-fourth part of the length) the breadth (of the rectangle). Thereby, the construction of a (right rectilinear) figure is explained.
 The areas (of the squares) produced separately by the length and the breadth of a rectangle together equal the area (of the square) produced by the diagonal. By the understanding of these (methods) the construction of the figures as stated (is to be accomplished).
 The diagonal of a square produces double the area (of the square). It is √2 (dvikaraņi) of the side of the square (of which it is the diagonal).
