@@ -893,8 +893,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 
 
-{भगा॑य॒ स्वाहा॒ फल्गु॑नीभ्या॒ꣳ॒ स्वाहा॑।  
-श्रेष्टाया॑य॒ स्वाहा॑।}
+{भगा॑य॒ स्वाहा॒ फल्गु॑नीभ्या॒ꣳ॒ स्वाहा᳚ । श्रैष्ठ्या॑य॒ स्वाहा᳚ ॥36॥}
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/10_phAlgunyaH/">
 <details open><summary><h5>१० फाल्गुन्यः ...{Loading}...</h5></summary>
