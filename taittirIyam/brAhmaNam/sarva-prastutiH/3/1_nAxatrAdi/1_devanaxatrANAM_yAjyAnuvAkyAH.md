@@ -83,15 +83,20 @@ unicode_script = "devanagari"
 </div>
 
 
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/02_agnaye_svAhA.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-{अ॒ग्नये॒ स्वाहा॒, कृत्ति॑काभ्यः॒ स्वाहा॑।  
-अ॒म्बायै॒ स्वाहा॑।  
-दु॒लायै॒ स्वाहा॑।  
-नि॒त॒न्त्यै स्वाहा॑।  
-अ॒भ्रय॑न्तै॒ स्वाहा॑।  
-मे॒घय॑न्त्यै॒ स्वाहा॑।  
-व॒र्ष॒य॑न्त्यै॒ स्वाहा॑।  
-चु॒पु॒णिका॑यै॒ स्वाहा॑।}
+अ॒ग्नये॒ स्वाहा᳚  ।
+कृत्ति॑काभ्य॒स्स्वाहा᳚ ।  
+अ॒म्बायै॒ स्वाहा॑ ।   
+दु॒लायै॒ स्वाहा᳚ ।  
+नि॒त॒त्न्यै स्वाहा॑ ।  
+अ॒भ्रय॑न्त्यै॒ स्वाहा᳚ ।  
+मे॒घय॑न्त्यै॒ स्वाहा॑ ।  
+व॒र्षय॑न्त्यै॒ स्वाहा᳚ ।
+चु॒पु॒णीका॑यै॒ स्वाहा॑
+</details>
+</div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/01_kRttikAH/">
 <details open><summary><h5>०१ कृत्तिकाः ...{Loading}...</h5></summary>
@@ -108,6 +113,13 @@ unicode_script = "devanagari"
 </details>
 </details>
 </div>  
+
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/03_prajApataye_svAhA.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+प्र॒जाप॑तये॒ स्वाहा॑ रोहि॒ण्यै स्वाहा᳚ । रोच॑मानायै॒ स्वाहा᳚ प्र॒जाभ्य॒स् स्वाहा᳚ ॥28॥
+</details>
+</div>
 
 ## रोहिणी - प्रजापतिः
 
@@ -176,8 +188,20 @@ unicode_script = "devanagari"
 
 
 
-{प्र॒जाप॑तये॒ स्वाहा॑ रोहि॒ण्यै स्वाहा॑।  
-रोच॑मानायै॒ स्वाहा॑ प्र॒जाभ्यः॒ स्वाहा॑।}
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/02_agnaye_svAhA.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+अ॒ग्नये॒ स्वाहा᳚  ।
+कृत्ति॑काभ्य॒स्स्वाहा᳚ ।  
+अ॒म्बायै॒ स्वाहा॑ ।   
+दु॒लायै॒ स्वाहा᳚ ।  
+नि॒त॒त्न्यै स्वाहा॑ ।  
+अ॒भ्रय॑न्त्यै॒ स्वाहा᳚ ।  
+मे॒घय॑न्त्यै॒ स्वाहा॑ ।  
+व॒र्षय॑न्त्यै॒ स्वाहा᳚ ।
+चु॒पु॒णीका॑यै॒ स्वाहा॑
+</details>
+</div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/02_rohiNI/">
 <details open><summary><h5>०२ रोहिणी ...{Loading}...</h5></summary>
@@ -201,6 +225,12 @@ unicode_script = "devanagari"
 </details>
 </div>  
 
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/03_prajApataye_svAhA.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+प्र॒जाप॑तये॒ स्वाहा॑ रोहि॒ण्यै स्वाहा᳚ । रोच॑मानायै॒ स्वाहा᳚ प्र॒जाभ्य॒स् स्वाहा᳚ ॥28॥
+</details>
+</div>
 
 
 
@@ -275,9 +305,6 @@ unicode_script = "devanagari"
 
 
 
-{सोमा॑य॒ स्वाहा॑ मृगशी॒र्षाय॒ स्वाहा॑।  
-इ॒न्व॒काभ्यः॒ स्वाहौष॑धीभ्यः॒ स्वाहा॑।  
-रा॒ज्याय॒ स्वाहा॒ ऽभिजि॑त्यै॒ स्वाहा॑।}
 
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/03_mRgashiraH/">
@@ -377,9 +404,6 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 </div>
 
 
-
-{रु॒द्राय॒ स्वाहा॒ऽऽर्द्रायै॒ स्वहा॑। पिन्व॑मानायै॒ स्वाहा॒ प॒शुभ्यः॒ स्वाहा॑।}
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/04_ArdrA/">
 <details open><summary><h5>०४ आर्द्रा ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-टिप्पनी</summary>
@@ -402,6 +426,12 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 </details>
 </div>  
 
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/05_rudrAya_svAhA.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+रु॒द्राय॒ स्वाहा॒ ऽर्द्रायै॒ स्वाहा᳚ , पिन्व॑मानायै॒ स्वाहा॑ प॒शुभ्य॒स्स्वाहा᳚ ॥30॥
+</details>
+</div>
 
 
 ## पुनर्वसू - अदितिः
@@ -469,8 +499,13 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 
 
-{अदि॑त्यै॒ स्वाहा॒ पुन॑र्वसुभ्याम् स्वाहा।  
-भूत्यै॒ स्वाहा॒ प्रजा᳚त्यै॒ स्वाहा॑।}
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/06_adityai_svAhA.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+अदि॑त्यै॒ स्वाहा॒ पुन॑र्वसुभ्यां॒ स्वाहा॑,  
+भूत्यै॒ स्वाहा॒ प्रजा᳚त्यै॒ स्वाहा᳚ ॥31॥
+</details>
+</div>
 
 
 
@@ -559,9 +594,12 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 </div>
 
 
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/07_bRhaspataye_svAhA.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-{बृह॒स्पत॑ये॒ स्वाहा॑ ति॒ष्या॑य॒ स्वाहा॑।  
-ब्र॒ह्म॒व॒र्च॒साय॒ स्वाहा॑।}
+बृह॒स्पत॑ये॒ स्वाहा॑ ति॒ष्या॑य॒ स्वाहा᳚ । ब्र॒ह्म॒व॒र्च॒साय॒ स्वाहा᳚ ॥32॥
+</details>
+</div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/06_tiShyaH/">
 <details open><summary><h5>०६ तिष्यः ...{Loading}...</h5></summary>
@@ -646,8 +684,13 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 
 
-{स॒र्पेभ्यः॒ स्वाहा॑ऽऽश्रे॒षाभ्यः॒ स्वाहा॑।}  
-द॒न्द॒शूके॑भ्यः॒ स्वाहा॑॥
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/08_sarpebhyas_svAhA.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+स॒र्पेभ्य॒स् स्वाहा᳚ ऽऽश्रे॒षाभ्य॒स् स्वाहा᳚ ।   
+द॒न्द॒शूके᳚भ्य॒स् स्वाहा᳚ ॥33॥
+</details>
+</div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/07_AshreShA/">
 <details open><summary><h5>०७ आश्रेषा ...{Loading}...</h5></summary>
@@ -729,8 +772,14 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 
 
-{पि॒तृभ्यः॒ स्वाहा॑ म॒घाभ्यः॑ स्वाहा॑ऽन॒घाभ्यः॒ स्वाहा॑  
-अग॒दाभ्यः॑ स्वाहा॑ ऽरुन्ध॒तीभ्यः॒ स्वाहा॑।}
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/09_pitRbhyas_svAhA.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+पि॒तृभ्य॒स् स्वाहा॑ म॒घाभ्य॒स् स्वाहा॑  
+ऽन॒घाभ्य॒स् स्वाहा॑ग॒दाभ्य॒स् स्वाहा॑  
+ऽरुन्ध॒तीभ्य॒स् स्वाहा᳚ ॥34॥
+</details>
+</div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/08_maghAH/">
 <details open><summary><h5>०८ मघाः ...{Loading}...</h5></summary>
@@ -810,8 +859,13 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 
 
-{अ॒र्य॒म्णे स्वाहा॒ फल्गु॑नीभ्या॒ꣳ॒ स्वाहा॑।  
-प॒शुभ्यः॒ स्वाहा॑।}
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/10_aryamNe_svAhA.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+अ॒र्य॒म्णे स्वाहा॒ फल्गु॑नीभ्या॒ꣳ॒ स्वाहा᳚ ,  
+प॒शुभ्य॒स् स्वाहा᳚ ॥35॥
+</details>
+</div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/09_phAlgunyaH/">
 <details open><summary><h5>०९ फाल्गुन्यः ...{Loading}...</h5></summary>
@@ -893,7 +947,12 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 
 
-{भगा॑य॒ स्वाहा॒ फल्गु॑नीभ्या॒ꣳ॒ स्वाहा᳚ । श्रैष्ठ्या॑य॒ स्वाहा᳚ ॥36॥}
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/11_bhagAya_svAhA.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+भगा॑य॒ स्वाहा॒ फल्गु॑नीभ्या॒ꣳ॒ स्वाहा᳚ । श्रैष्ठ्या॑य॒ स्वाहा᳚ ॥36॥
+</details>
+</div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/10_phAlgunyaH/">
 <details open><summary><h5>१० फाल्गुन्यः ...{Loading}...</h5></summary>
@@ -974,9 +1033,14 @@ Denebola - β, 93 Leonis
 
 
 
-{स॒वि॒त्रे स्वाहा॒ हस्ता॑य स्वाहा॑  
-ऽऽदद॒ते स्वाहा॑ पृण॒ते स्वाहा॑  
-प्र॒यच्छ॑ते॒ स्वाहा॑ प्रतिगृभ्ण॒ते स्वाहा॑।}
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/12_savitre_svAhA.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+स॒वि॒त्रे स्वाहा॒ हस्ता॑य॒ स्वाहा॑  
+दद॒ते स्वाहा॑ पृण॒ते स्वाहा᳚  
+प्र॒यच्छ॑ते॒ स्वाहा᳚  प्रतिगृभ्ण॒ते स्वाहा᳚ ॥37 ॥
+</details>
+</div>
 
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/11_hastaH/">
@@ -1058,9 +1122,13 @@ Corvus- α , β , γ , δ , ε Corvi.
 </div>
 
 
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/13_tvaShTre_svAhA.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-{त्वष्ट्रे॒ स्वाहा॑ चि॒त्रायै॒ स्वाहा॑।  
-चैत्रा॑य॒ स्वाहा॑ प्र॒जायै॒ स्वाहा॑।}
+त्वष्ट्रे॒ स्वाहा॑ चि॒त्रायै॒ स्वाहा᳚ ।  
+चैत्रा॑य॒ स्वाहा᳚ प्र॒जायै॒ स्वाहा᳚ ॥38॥
+</details>
+</div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/12_chitrA/">
 <details open><summary><h5>१२ चित्रा ...{Loading}...</h5></summary>
@@ -1148,8 +1216,14 @@ Corvus- α , β , γ , δ , ε Corvi.
 
 
 
-{वा॒यवे॒ स्वाहा॒ निष्ट्या॑यै॒ स्वाहा॑।  
-का॒म॒चारा॑य॒ स्वाहा॒ऽभिजि॑त्यै॒ स्वाहा॑।}
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/14_vAyave_svAhA.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+वा॒यवे॒ स्वाहा॒ निष्ट्या॑यै॒ स्वाहा᳚ ।  
+का॒म॒चारा॑य॒ स्वाहा॒  
+ऽभिजि॑त्यै॒ स्वाहा᳚ ॥39॥
+</details>
+</div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/13_svAtiH/">
 <details open><summary><h5>१३ स्वातिः ...{Loading}...</h5></summary>
@@ -1230,8 +1304,13 @@ Corvus- α , β , γ , δ , ε Corvi.
 
 
 
-{इ॒न्द्रा॒ग्निभ्या॒ꣳ॒ स्वाहा॒ विशा॑खाभ्या॒ꣳ॒ स्वाहा॑।  
-श्रैष्ठ्या॑य॒ स्वाहा॒ऽभिजि॑त्यै॒ स्वाहा॑।}
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/15_indrAgnibhyAM_svAhA.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+इ॒न्द्रा॒ग्निभ्या॒ꣳ॒ स्वाहा॒ विशा॑खाभ्या॒ꣳ॒ स्वाहा᳚ ।  
+श्रैष्ठ्या॑य॒ स्वाहा॒ ऽभिजि॑त्यै॒ स्वाहा᳚ ॥40॥
+</details>
+</div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/14_vishAkhe/">
 <details open><summary><h5>१४ विशाखे ...{Loading}...</h5></summary>
@@ -1320,6 +1399,11 @@ _________________
 
 
 
-{पौ॒र्ण॒मा॒स्यै स्वाहा॒ कामा॑य॒ स्वाहा ग॑त्यै॒ स्वाहा॑}
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/16_paurNamAsyai_svAhA.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+पौ॒र्ण॒मा॒स्यै स्वाहा॒ कामा॑य॒ स्वाहा ऽऽग॑त्यै॒ स्वाहा᳚ ॥41॥
+</details>
+</div>
 
 
