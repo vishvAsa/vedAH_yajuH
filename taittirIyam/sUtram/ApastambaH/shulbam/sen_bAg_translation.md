@@ -11,12 +11,7 @@ title = "Sen, Bag: Translation"
 1.6
 1.7
 
-With the two ties fastened to the two ends of the east-west line (pṛṣṭhyā) the cord is stretched towards the south by the mark and a pole is fixed on it. The same is done towards the north. The same is repeated on the other side (eastern) after interchanging the ties. Thus are determined (the four corners of the right rectilinear figure). Thereby the sides are shortened or lengthened.
-Alternatively, a cord of a given measure is increased by its length; the original length plus its fourth part will constitute the diagonal and the remaining (three-fourth part of the length) the breadth (of the rectangle). Thereby, the construction of a (right rectilinear) figure is explained.
-The areas (of the squares) produced separately by the length and the breadth of a rectangle together equal the area (of the square) produced by the diagonal. By the understanding of these (methods) the construction of the figures as stated (is to be accomplished).
-The diagonal of a square produces double the area (of the square). It is √2 (dvikaraņi) of the side of the square (of which it is the diagonal).
-The measure is to be increased by its third and this (third) again by its own fourth less the thirty-fourth part (of the fourth); this is (the value of) the diagonal of a square (whose side is the measure).
-Here is another method (of construction of a square). Ties are made at both ends of a cord of length equal to the given measure. Marks are given at its middle and at mid points of its two halves. After stretching the cord along the east-west line poles are fixed at the ties and the marks. With the two ties fixed at the two poles at the two outer marks (mid-points of two halves), the cord is stretched towards the south by the middle mark and a sign is given (at the point reached). With the two ties fixed at the middle pole, the cord is (again) stretched by its middle mark towards the south over the sign (previ- ously made) and a pole is fixed (at the point reached). With one tie (of the cord) fixed at this pole and the other tie at the eastern pole, the south- eastern corner is (now) obtained by (stretching the cord with) its middle mark. By removing the tie from the eastern pole and fixing it to the western pole, the south-western corner is likewise obtained by (stretching
+
 102
 2.1
 2.2
@@ -26,7 +21,8 @@ Here is another method (of construction of a square). Ties are made at both ends
 2.6
 2.7
 ĀPASTAMBA-ŚULBASŪTRA
-the cord with) the middle mark. In the same manner, the north-western and the north-eastern corners (are obtained).
+
+
 2
 Now another method of construction (of a square). Poles are fixed at both ends and in the middle of the east-west line. A cord measuring half of the east-west line is taken and increased by its viśeșa (the difference between its length and the diagonal of the square produced by it). After giving a mark at this point, the cord is (further) increased by half of the east-west line. Ties are made at both ends of the cord. Fixing the tie at the saviśeșa end at the middle pole and the other tie at the eastern pole, the cord is stretched by the mark so as to obtain the south-eastern corner. By removing the tie from the eastern pole and fixing it to the western pole, the south-western corner is likewise obtained by (stretching the cord with) the mark. In the same way, the north-western and the north-eastern corners (are obtained).
 The breadth (of a rectangle) being the side of a given square (pramāṇa) and the length the side of a square twice as large (dvikaraṇī), the diagonal equals the side of a square thrice as large (tṛkarani).
