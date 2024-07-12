@@ -24,17 +24,11 @@ title = "Sen, Bag: Translation"
 
 
 2
-Now another method of construction (of a square). Poles are fixed at both ends and in the middle of the east-west line. A cord measuring half of the east-west line is taken and increased by its viśeșa (the difference between its length and the diagonal of the square produced by it). After giving a mark at this point, the cord is (further) increased by half of the east-west line. Ties are made at both ends of the cord. Fixing the tie at the saviśeșa end at the middle pole and the other tie at the eastern pole, the cord is stretched by the mark so as to obtain the south-eastern corner. By removing the tie from the eastern pole and fixing it to the western pole, the south-western corner is likewise obtained by (stretching the cord with) the mark. In the same way, the north-western and the north-eastern corners (are obtained).
-The breadth (of a rectangle) being the side of a given square (pramāṇa) and the length the side of a square twice as large (dvikaraṇī), the diagonal equals the side of a square thrice as large (tṛkarani).
-Thereby is explained the side of a square one-third the area of a given square (tṛtiyakaraņi). It is the side of a square one-ninth the area of the square (explained in the preceding rule, that is, of the square on the tṛkaraṇī).
-The combination of two equal squares has been described. The combination of two squares of unequal measures (sides) (now) follows. A (rectangular) part is cut off from the larger (square) with the side of the smaller; the diagonal of the cut-off (rectangular) part (produces the square which) combines both the squares. This has been stated.
-If it is desired to remove a square from another, a (rectangular) part is cut off from the larger (square) with the side of the smaller one to be removed; the (longer) side of the cut-off (rectangular) part is placed across so as to touch the opposite side; by this contact (the side) is cut off. With the cut-off (part) the difference (of the two squares) is obtained.
-That (the longer side of the cut-off rectangle in the above rule) which is placed across is the diagonal equal to the side of a square four times as large (as the given square). The area (of the squares) produced separately by the cut-off side and the other (the breadth of the rectangle) together equal the the area (of the square) produced by this diagonal. If the breadth produces one square purușa, the other side produces three square purușas. This has been stated.
-If it is desired to transform a rectangle into a square, a (square) part is cut off (from the rectangle) by the breadth. The remainder (of the rectangle) is divided (into two equal parts) and placed on two sides. The empty space (in the corner) is filled up with a (square) piece. The removal of it (of the
-}
-TRANSLATION
-103
-square piece from the square thus formed to get the required square) has been stated.
+
+
+
+
+
 3
 3.1
 3.2
@@ -46,16 +40,12 @@ square piece from the square thus formed to get the required square) has been st
 3.8
 3.9
 3.10
-If it is desired to transform a square into a rectangle, the side is made as long as desired; (after diagonal intersection), what remains as excess portion is to be placed where it fits. (Like Bśl. 2.4, the rule is defective and does not lead to proper geometrical operation).
-If it is desired to transform a square into a circle, a cord is stretched from the centre (of the square) upto its corner (so as to measure out a length equal to half the diagonal). It is (then) stretched (from the centre) towards the (eastern) side. With one-third of the excess part (lying outside the eastern side) added (to the portion of the cord between the centre and the side), the (required) circle is drawn. This is the (approximate) circle, for (almost) as much is added as is cut off (from the corners of the square).
-To transform a circle into a square, the diameter is divided into fifteen parts and two of them are removed, leaving thirteen parts. This gives the approxi- mate (side of the) square (desired).
-The (square) measure is to be done by means of the (linear) measure. A square (of unit area) is to be understood in the absence of anything to the
-contrary.
-(A cord of length) twice the measure produces four (square measures); thrice the measure nine (square measures).
-The number of units of measure in a cord is to be squared (to get the area of the square in that measure). (Alternatively, as many units of measure there are in a cord so many rows of squares on each side will be in a square of side equal to the measuring cord.) This is the meaning.
-A cord 11⁄2 puruşa long makes 21 (square purușas); a cord of 21 purușas makes 61 (square puruṣas).
-Now follows the method (of finding the area of a square) when the side is increased. With the side (of the given square) and the length by which the side is increased is drawn (a rectangular area) which is placed on either side. (of the square). A square is formed with the length by which the side is increased and placed in the corner (to produce the enlarged square whose area is the sum of the given square, the two rectangles and the corner square piece).
-With half the side of a square, a square one-fourth in area is produced, because four such squares to complete the area (of the original square) are produced with twice the half side. With one-third the side of a square is produced its ninth part.
+
+
+
+
+
+
 104
 ĀPASTAMBA-SULBASŪTRA
 4
@@ -67,15 +57,9 @@ With half the side of a square, a square one-fourth in area is produced, because
 4.6
 5.1
 5.2
-The distance between the gārhapatya and the āhavanīya in the arrangement for the laying of sacrificial fires is known from the tradition. The Brāhmaṇa has to place it (the āhavanīya) (at a distance of) 8 prakramas, the prince 11 prakramas and the merchant 12 prakramas (from the garhapatya towards east).
-For general use and not for any particular class, this distance is indefinite, (about) 24 prakramas to be ascertained by eye estimation and should not deviate from it much.
-According to tradition, the (place of the) dakṣiņāgni is near the south-east corner of the third part of the distance of the gārhapaṭya (from the āhavaniya).
-The distance between the garhapatya and the āhavaniya is divided into five or six (equal) parts, a sixth or a seventh part is added, the whole (of the cord measuring the original distance plus the added part) is divided into three (equal) parts, and a mark is given at the end of the third part from the western end. (With two ties) fastened to (poles at) the two ends of (the distance between the gārhapatya and the āhavaniya, the cord is stretched to the south by the mark and a pole fixed (at the point reached by the mark). This is the place of the dakṣināgni. This is according to Śruti.
-The east-west line (prācî) has the measure of the sacrificer (96 angulas) or of indefinite measure like that of clarified butter in relation to fire. Such is the case with the breadth. The two amsas (shoulders) of the fire-altar are to be raised in the east and the two śroṇīs (hips) in the west. It (the altar) is shorter on the eastern side, broader on the western side and curved in the middle. It is like a wooden doll. Such is the tradition of the dārśikyā fire-altar.
-To the west of the āhavanîya is constructed the four-sided elongated figure of which the length has the measure of the sacrificer (96 angulas). A cord equal to this measure is increased by itself and a mark given at the middle. With the two ties (of the cord) fastened to the (poles at the) south-western and south-eastern corners, it is stretched towards the south by the mark and a pole fixed (at the spot reached by the mark). Fixing both ends of the cord. at this pole, an arc of a circle is drawn from the south-western to the south- eastern corner (with the middle mark of the cord). The same is done on the northern side (of the fire-altar). The western and the eastern sides are to be similarly circumscribed by means of a cord double the (respective) side.
 5
-According to tradition, the saumikyā vedi measures 30 padas or prakramas on its western side, 36 (padas or prakramas) along the east-west line and 24 (padas or prakramas) on its eastern side.
-To a cord of 36 (padas or prakramas) another piece of 18 (padas or prakramas) is added and a mark is given at a distance of 12 and another mark at a distance of 15 from the western end (of the cord which is added). With
+
+
 TRANSLATION
 105
 5.3
@@ -84,18 +68,14 @@ TRANSLATION
 5.6
 5.7
 5.8
-ties at both ends (of the cord) fastened to (poles fixed at) two ends of the cast-west line, the cord is stretched towards the south by the mark at 15 and a pole fixed (at the point reached by the mark). The same is done towards the north. These (two points thus obtained) are the two western corners (śronis) (of the altar). After interchanging the ties at two ends, the cord is stretched (towards the south) by the mark at 15 and a pole is fixed at the mark at 12. The same is done towards the north. These are the two eastern corners (amsas) (of the altar). This is the method of construction with one cord.
-The diagonal of a rectangle of sides 3 and 4 is 5. With these (sides) increased by three times themselves, the two eastern corners (of the altar), and with these (sides) increased by four times themselves, the two western corners (are determined).
-The diagonal of a rectangle of sides 12 and 5 is 13. With these (sides), the two eastern corners (of the altar) and with these (sides) increased by twice them- selves, the two western corners (are determined).
-The diagonal of a rectangle of sides 15 and 8 is 17. With these (sides), the two western corners (of the altar) (are determined). The diagonal of a rectangle of sides 12 and 35 is 37; with these (are fixed) the two eastern corners.
-The knowledge of these (squared numbers) makes possible the construction of figures of the sacrificial altars.
-The (area of the) mahāvedi is 1000 minus 28 (square) padas. From the south- east corner (a perpendicular) is dropped (on the western side) at a point 12 padas towards the south-western corner (from the east-west line). The (triangular) portion cut-off is placed invertedly on the other side. That makes a rectangle. By this addition (the area) is enumerated.
-According to tradition, the sautrāmaṇikī sacrificial altar is one-third of the saumikyā vedi. (To find its dimensions), √ of a prakrama is to be substituted for prakrama (in the values given for the saumikyā). Alternatively, the trans- verse sides will be √3 times 8 and 10 and the east-west line (pṛṣṭhyā) √3 times 12. The (area of the) sautrāmaṇikī sacrificial altar is 324 (square) padas.
+
+
+
+
 6.1
 6.2
 6
-According to tradition, the (area of the) altar for the afvamedha sacrifice is double (the area of the saumikî vedi). (Here) √/2 of a prakrama takes the place of a prakrama.
-One prakrama equals 2 padas or 3 padas; on account of uncertainty in the meaning of the term (prakrama) one may take such value of prakrama as one may wish. The measure (of pada) may be that of the sacrificer or of the adhvaryu, because one directs the efforts of the other,
+
 106
 6.3
 6.4
@@ -108,15 +88,9 @@ One prakrama equals 2 padas or 3 padas; on account of uncertainty in the meaning
 6.11
 ·
 APASTAMBA-SULBASUTRA
-According to tradition, the altar for the conventional animal sacrifice (nirudhapasabandha vedi) has the measures of a chariot. There it is said that the western side (of the altar) measures 1 akṣa (104 añgulas), the east-west line 1 iṣā (188 angulas) and the eastern side 1 yuga (86 angulas) or the distance between the two outside holes.
-This (is to be constructed) by the methods of one cord already mentioned. Having stretched the cord by the mark at fifteen, the western corners are to be fixed by akṣa (52 angulas) and the eastern corners by yuga (43 angulas).
-Now, these (units of chariot measure) are explained. 1 îșâ equals 188 añgulas, 1 akṣa 104 angulas and 1 yuga 36 angulas. These are according to the (Vedic) Caraṇa school and are known as chariot measures.
-The western side is 4 aratnis or other measures, the east-west line 6 and the eastern side 3. This (is to be constructed) by the method of one cord already mentioned. Having stretched the cord by the mark at fifteen, the western and the eastern corners are to be fixed by 2 and 11⁄2 (aratnis) (respectively).
-According to tradition, the paitṛkī vedi is a square, and has the measure of a sacrificer. This (is to be constructed) by the method of one cord already mentioned. Having stretched the cord by the mark at fifteen, the western and the eastern corners are fixed by half the measure.
-According to the tradition of the soma sacrifice, the (side of the) uttara vedi measures 10 padas. This (is to be constructed) by the method of one cord already mentioned. Having stretched the cord by the mark at fifteen, the western and the eastern corners are to be fixed by half the measure.
-These are measured by the yuga, pada or ŝamyā measures of the sacrificer.
-One may take such value of pada, yuga, aratni and śamyā as one may wish when these (words) are used as units of measure, on account of uncertainty in the meaning of these terms.
-In the measurement, the two sides should lie along the east according to tradition.
+
+
+
 7.1
 7.2
 7
