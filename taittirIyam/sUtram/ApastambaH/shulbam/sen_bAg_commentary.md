@@ -5,12 +5,17 @@ title = "Sen Bag - commentary"
 CHAPTER 1 
 CONSTRUCTION OF SQUARE, THE THEOREM OF SQUARE ON THE 
 DIAGONAL AND THE VALUE OF √2 
-Apastamba summarized the knowledge of geometry and related problems in the first three chapters. The first chapter deals with various methods of construction of square, the theorem of square on the diagonal of a square and rectangle, and the calculation of the value of √2. 
-1.2-1.3. Construction of a square. Two methods of construction of a square are discussed here. These rules are essentially the same as those of Baudhāyana (Bśl. 1.8 and 1.5). 
+
+
+
+
+
 1.4-1.5. Theorem of square on the diagonal. The rule says, AB2 + BC2 
 AC2, where AB and BC are the sides of a rectangle ABCD. We have discussed this sūtra in detail under B§l. 1.12 and 1.13. Only the last line of Ã§l. 1.4, which contains the term tābhirjñeyabhi requires to be explained. According to Bürka, "the construction (found in Ãśl. 1.2 and 1.3) has been taught by means of (the application of) these (akṣṇayārajju, pārśvamānī and tiryaṁmāni of a rectangle), of course, by means of such as are recognizable (i.e. which can be expressed in recognizable numbers).” jñā means 'to know'. Various terms like jñātumsakti, iti vijñāyate, tābhirjñeyābhi have been used by the sulbakāras. According to Datta ", these can be interpreted as "known from the ancient scriptures". 
 The sūtra Āśl. 2.5, undoubtedly a special case of Ãśl. 2.4, defines the diagonal of a square a as dvikarāņi or √ē a. This has been discussed in Bśl. 1.9-1.11. 
+
 1.6. Value of √2. Extactly the same sūtra of Baudhāyana for the value of √2 is given here by Apastamba. This has been discussed under Bśl. 2.12. 
+
 1.7. Construction of a square. This sūtra describes another method of construction of a square, not given by Baudhāyana. In Fig. 1, XY represents the given cord. T, U,V are marks at the middle of the cord XY, and of XT and TV respectively. EF is the east-west line. E, M, O, N, F are poles corresponding to X, U, T, V and Y. K represents the sign corresponding to T when the cord Xr is stretched after the ends X and Y are fixed at M and N. The mark S corresponding to T is 
 T 
 V 
@@ -29,6 +34,7 @@ Aśl, 56, 329.
 b Datta (2), 128–133. 
 COMMENTARY 
 233 
+
 As in the dronacit, there are four segments. 6 one-twelfth bricks are placed in the middle of the segment in contact with the inscribed square and the remaining space is divided into 7 parts as shown in the Fig. 75. The breadth of the brick in the centre of the segment (pradhi-madhyamā) in between the square bricks and the circumference must be 1 prakrama or 30 ang. as in the dronacit. 
 (a) 
 (b) 
@@ -40,12 +46,16 @@ The remaining sūtras 21.10-21.13 do not call for much comment.
 -" COMMENTARY 
 235* 
 obtained when both ties at X and Y of the cord are fixed at M and stretched over K. The south-east corner point D is obtained when ties at X and Y are fixed at E and S respectively and stretched by the middle mark T. 
-Similarly, the other corner points A, B, C are obtained. Hence ABCD is the required square. 
+Similarly, the other corner points A, B, C are obtained. Hence ABCD is the required square.  
+
+
 CHAPTER 2 
 CONSTRUCTION OF SQUARE, SURD, A SQUARE FROM A COMBINA- TION AND DIFFERENCE OF TWO SQUARES, AND TRANSFORMATION 
 OF A RECTANGLE INTO A SQUARE 
+
 This chapter mainly deals with the methods of construction and transformation of geometrical figures like square and rectangle, already dealt by Baudhāyana. 
-2.1. Construction of a square. Apastamba des- cribes here an interesting method of cons- truction of a square. In Fig. 2, EW represents the east-west line, 2a; XU the given cord, a; XV the saviśeșa of a, √2a; and Vr the half cord, a. 
+
+2.1. Construction of a square. Apastamba des-cribes here an interesting method of construction of a square. In Fig. 2, EW represents the east-west line, 2a; XU the given cord, a; XV the saviśeșa of a, √2a; and Vr the half cord, a. 
 The cord XY is prepared for its use in the construction of the square. 
 X 
 A 
@@ -56,13 +66,17 @@ B
 C 
 W 
 Fig. 2 
-The knots at X and Y are tied at ◊ and E respectively and the cord is stretched by the mark V, which gives the south-east corner D. Then the knot at E is taken off and fixed at W. The cord is likewise stretched by the mark V, which fixes the south-western corner C. The process is repeated in the north-eastern and the north-western side. ABCD is the required construction of the square. 
+The knots at X and Y are tied at ◊ and E respectively and the cord is stretched by the mark V, which gives the south-east corner D. Then the knot at E is taken off and fixed at W. The cord is likewise stretched by the mark V, which fixes the south-western corner C. The process is repeated in the north-eastern and the north-western side. ABCD is the required construction of the square.  
+
 2.2-2.3. Surd. Dvikaraņi means √2 a, where a is the measure; likewise tṛkaraņi is √3a, 
 1 
 and tṛtiyakaraṇi = √3 a. For details vide our discussion under Bśl. 1.9-1.11. 
+
+
 2.4-2.6. Āpastamba's methods for making a square out of a combination or differ- ence of two squares are exactly the same as those of Baudhāyana, discussed in B§l. 2.1-2.2. The sūtra Āśl. 2.6 is an application of the combination of two squares, for instance a2 + 3a2 4a2, where a is the measure or producer of the square. 
+
 2.7. The same method of transformation of a rectangle into a square as given by Baudhayana in his Bŝl. 2.5 is discussed. 
-236 
+
 
 CHAPTER 3 
 TRANSFORMATION OF A SQUARE INTO A RECTANGLE AND A CIRCLE, OF A CIRCLE INTO A SQUARE, AND CONSTRUCTION AS WELL AS ENLARGEMENT OF SQUARES OF DIFFERENT MEASURES FOR SURFACE MEASUREMENTS 
