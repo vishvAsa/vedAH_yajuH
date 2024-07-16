@@ -10,43 +10,11 @@ DIAGONAL AND THE VALUE OF √2
 
 
 
-1.4-1.5. Theorem of square on the diagonal. The rule says, AB2 + BC2 
-AC2, where AB and BC are the sides of a rectangle ABCD. We have discussed this sūtra in detail under B§l. 1.12 and 1.13. Only the last line of Ã§l. 1.4, which contains the term tābhirjñeyabhi requires to be explained. According to Bürka, "the construction (found in Ãśl. 1.2 and 1.3) has been taught by means of (the application of) these (akṣṇayārajju, pārśvamānī and tiryaṁmāni of a rectangle), of course, by means of such as are recognizable (i.e. which can be expressed in recognizable numbers).” jñā means 'to know'. Various terms like jñātumsakti, iti vijñāyate, tābhirjñeyābhi have been used by the sulbakāras. According to Datta ", these can be interpreted as "known from the ancient scriptures". 
-The sūtra Āśl. 2.5, undoubtedly a special case of Ãśl. 2.4, defines the diagonal of a square a as dvikarāņi or √ē a. This has been discussed in Bśl. 1.9-1.11. 
 
-1.6. Value of √2. Extactly the same sūtra of Baudhāyana for the value of √2 is given here by Apastamba. This has been discussed under Bśl. 2.12. 
 
-1.7. Construction of a square. This sūtra describes another method of construction of a square, not given by Baudhāyana. In Fig. 1, XY represents the given cord. T, U,V are marks at the middle of the cord XY, and of XT and TV respectively. EF is the east-west line. E, M, O, N, F are poles corresponding to X, U, T, V and Y. K represents the sign corresponding to T when the cord Xr is stretched after the ends X and Y are fixed at M and N. The mark S corresponding to T is 
-T 
-V 
-E 
-A 
-M 
-S 
-O 
-S 
-K 
-B 
-C 
-Fig. 1 
-a 
-Aśl, 56, 329. 
-b Datta (2), 128–133. 
-COMMENTARY 
-233 
 
-As in the dronacit, there are four segments. 6 one-twelfth bricks are placed in the middle of the segment in contact with the inscribed square and the remaining space is divided into 7 parts as shown in the Fig. 75. The breadth of the brick in the centre of the segment (pradhi-madhyamā) in between the square bricks and the circumference must be 1 prakrama or 30 ang. as in the dronacit. 
-(a) 
-(b) 
-Fig. 75. Arrangement of bricks in the circular kürmacit,– 
-(a) 1st layer; (b) 2nd layer. 
-In the first layer, there are 144 square bricks inside the inscribed square, 24 square bricks in the segments and 28 bricks of different types in the remaining space of the pradhi. This makes 196 bricks. Now the pradhi-madhyama is pushed into the head and the vacant space thus created is filled with 2 bricks. The four feet are filled with 8 bricks of two types obtained in the process of cutting the ṣoḍaśi square bricks by the circle of the body as referred to before. The total now becomes 206, that is, 6 bricks in excess of the required number of 200. This is adjusted by replacing 18 square bricks by 12 1 square bricks. (aṣṭādaŝa caturaśra uddhṛtya dvādaśādhyardheṣṭakā upadadhyāt). 
-In the second layer, the inscribed square is turned so that its four corners now point towards east, south, west and north. The placing of the bricks is the same as in the first layer with the difference that the placement of bricks in the feet is as in the case of the head of the first layer and that in the head as in the feet of the first layer. The adjustment is made as before. 
-The remaining sūtras 21.10-21.13 do not call for much comment. 
--" COMMENTARY 
-235* 
-obtained when both ties at X and Y of the cord are fixed at M and stretched over K. The south-east corner point D is obtained when ties at X and Y are fixed at E and S respectively and stretched by the middle mark T. 
-Similarly, the other corner points A, B, C are obtained. Hence ABCD is the required square.  
+
+
 
 
 CHAPTER 2 
@@ -55,224 +23,56 @@ OF A RECTANGLE INTO A SQUARE
 
 This chapter mainly deals with the methods of construction and transformation of geometrical figures like square and rectangle, already dealt by Baudhāyana. 
 
-2.1. Construction of a square. Apastamba des-cribes here an interesting method of construction of a square. In Fig. 2, EW represents the east-west line, 2a; XU the given cord, a; XV the saviśeșa of a, √2a; and Vr the half cord, a. 
-The cord XY is prepared for its use in the construction of the square. 
-X 
-A 
-2 
-E 
-S 
-B 
-C 
-W 
-Fig. 2 
-The knots at X and Y are tied at ◊ and E respectively and the cord is stretched by the mark V, which gives the south-east corner D. Then the knot at E is taken off and fixed at W. The cord is likewise stretched by the mark V, which fixes the south-western corner C. The process is repeated in the north-eastern and the north-western side. ABCD is the required construction of the square.  
-
-2.2-2.3. Surd. Dvikaraņi means √2 a, where a is the measure; likewise tṛkaraņi is √3a, 
-1 
-and tṛtiyakaraṇi = √3 a. For details vide our discussion under Bśl. 1.9-1.11. 
 
 
-2.4-2.6. Āpastamba's methods for making a square out of a combination or differ- ence of two squares are exactly the same as those of Baudhāyana, discussed in B§l. 2.1-2.2. The sūtra Āśl. 2.6 is an application of the combination of two squares, for instance a2 + 3a2 4a2, where a is the measure or producer of the square. 
 
-2.7. The same method of transformation of a rectangle into a square as given by Baudhayana in his Bŝl. 2.5 is discussed. 
+2
+
+
+
+
 
 
 CHAPTER 3 
 TRANSFORMATION OF A SQUARE INTO A RECTANGLE AND A CIRCLE, OF A CIRCLE INTO A SQUARE, AND CONSTRUCTION AS WELL AS ENLARGEMENT OF SQUARES OF DIFFERENT MEASURES FOR SURFACE MEASUREMENTS 
 The chapter deals with the transformation of squares into rectangles and circles, and of circles into squares. The methods given are the same as those by Baudhāyana. Moreover, Apastamba has given an idea of surface measures and methods of enlargement or construction of different squares. 
-3.1-3.2. Square into a rectangle and circle. The sūtra Ãśl. 3.1 describes the method of transformation of a square into a rectangle. This has been discussed in detail under Bśl. 2.3-2.4. The methods of transformation from square into a circle given in Asl. 3.2 and B§l. 2.9 are exactly the same; for discussion, vide B§l. 2.9. 
-3.3. Circle into a square. This is the same as that of Bśl. 2.10-2.11 (second method). 
-3.4-3.10. Squares of different measures and enlargement of areas. One unit in length produces one square unit area; two units produce four square areas, and three units nine square areas, and so on. Pramāṇamātreṇa daṇḍena pramāṇamātram kṣetram vidhi- yate | dvipramāṇena daṇḍena catvāri pramāṇakṣetrāni bhavanti (Sundararāja)a. The sutra Asl. 3.7 explains that if ABCD be a square of p units, it produces p2 unit squares. If ABCD be a rectangle whose length AB has p units and breadth BC q units, then ABCD contains pq unit square areas (Fig. 3). According to Kapardib : yāvatpramāṇa yāvadāyāmā rajjuḥ tāvato vargānkaroti pańkti karoti | yāvat saṇkhyā yuktam pramāņaṁ tāvat samkhyāyuktaḥ pańktiḥ karoti | pañcamānam pañcasaṇkhyā yuktānvargān karoti | This has been beautifully explained by Karavinda as follows: dvipramāṇapārśvamānikam- ekapramāṇatiryaṁmāniyakam dvidha' pacchidya dve upalabhyete | dvipramāņa pārśvamānikam tripramāṇa tiryanmānīkam prāk dvidhodak tridha' pacchidya şaḍupalabhyante / This result 
-H 
-K 
-G 
-Xx 
-D 
-w-qunits →0 
-. 
-O 
-Α 
-p units 
-Fig. 3 
-a 
-Fig. 4 
-x 
-E 
-B 
-was also known to Baudhāyana who used the same method of division of square by parallel lines in connection with the construction of square garhapatya (Bśl. 7.4-7.8). 
-a Aśl. Mysore 73, 55, 57. 
-b Aśl. Mysore 73, 57. 
-© Aśl., Mysore 73, 58 
-www 
-COMMENTARY 
-237 
-Depending on the same analogy, sūtras Āśl. 3.8. and 3.10 explain that (11⁄2 a)2 21 a2, and (2 a)2 6a2, (a)2 
-- 
-= 
-a2, (a) 2 
-- 
-Ja2 
-The method of enlargement of a square of side a by an increment of length x is obtained by (a + x)2 : a2 + 2ax + x2, where ABCD is a square of side AB a, and BE DH increment x (Fig. 4). For obtaining (a + x)2, two rectangles of area ax are joined at two sides of the original square and a small square of side x is added at the corner. This formula is given by Euclid II.4. 
+
+
+
+
 == 
 CHAPTER 4 
 RELATIVE POSITIONS AND DISTANCES OF GARHAPATYA, AHAVANİYA AND DAKSINĀGNI AND CONSTRUCTION 
 OF DARSIKYĀ VEDI 
-4.1-4.4. Āpastamba has assigned here the relative places of gārhapatya, āhavaniya and dakṣiṇāgni. Baudhǎyana's second method is given by Apastamba. For detail, vide B§l. 3.1 - 3.5. 
-4.5-4.6. Apastamba has followed Baudhāyana's method of construction of dāršikyā vedi (vide Bśl. 3.6-3.8). The only difference is that Baudhāyana used an isosceles trapezium whereas Apastamba took a rectangle. 
+
+
+
+
+
 CHAPTERS 5 AND 6 
 THE METHOD OF ONE CORD (EKARAJJUVIDHI) AND TWO CORDS (DVIRAJJUVIDHI) AND THEIR USE IN THE CONSTRUCTION OF CERTAIN ALTARS 
-5.1-5.2. Construction of mahāvedi by one cord (ekarajjuvidhi). Āpastamba has described here a method for the construction of the mahāvedi (or saumiki vedi) with one cord (ekarajjuvidhi)a . It is an isosceles trapezium, having face 24 prakramas, base 30 pra- kramas and height 36 prakramas,. 
-Let XS be the original cord, a, measuring 36 prakramas; and SY extra cord, 
-a, 
-22, measuring 18 prakramas. 
-U and V are marks on the cord such that, 
-a 
-413 = 12 prakramas, 
-a = 15 prakramas, and 
-vr 
-5 
-YU 
-= 
-12 
-a 
-5 
-a 
-SU 
-a 
-12 
-12 
-a Bag, 111-19. 
-238 
 
 
-13 
-. XU 
-a 
-12 
-2 
-5 
-Now a2 + 
-a 
-+ 
-+ ( 1/2 + )' = ( 132 )" 
-2 
-a 
-ie. Xr2rU2 
-XU2 1 
-U 
-X 
-A 
-E 
--D 
-B 
-F 
-(c) 
-(a) 
-(b) 
-Fig. 5. . (a) cord, (b) right-angled triangle made by cord XY, (c) mahāvedi. 
-The cord makes a right-angled triangle XYB. The right-angled triangle has been used for the construction of the isosceles trapezium ABCD where A XYU, EFC, EBF, ELF and EKF are equal and VY : AE 
-BF FC 
-Here ABCD is the mahavedi ( Fig. 5(c)). 
----- 
-ED, and YU 
-= 
-5.3-5.5. Method of two cords (dvirajjuvidhi). These rules deal with the construction of an isosceles trapezium with the help of two pieces of cords marked for the construc- tion of right-angled triangles. Here three sets of two-cord relations are given : 
-First set: From relation 32 + 42 
-(i) (3 + 3.3)2 + (4 + 3.4)2 
-i.e. 122 + 162 202. 
-52, the other relations obtained are: 
-(5 +3.5)2 
-(ii) (3 + 4.3)2+ (4 + 4.4)2 = (5 +4.5)2 
-i.e. 152 + 202 252. 
-Second set: The relations are : 
-(i) 52 + 122 132 
-(ii) (5+2.5)2 + (12 + 2.12)2 = (13 +2.13)2 
-or 152 +362 392. 
-Third set: The relations used are: 
-(i) 82 + 152 172 
-(ii) 122 +352 
-- 
-372 
-5.7 : Area of mahāvedi. The mahāvedi covers an area of 972 sq. padas. The rule gives hints how to calculate the area by proper transformation. The method is described here. The isosceles trapezium ABCD denoting mahāvedi has face, 24, base 30, and 
-COMMENTARY 
-239 
-height 36 padas. For measuring the area, the portion DCL is cut off and placed in the northern side after inverting it and its new position becomes AKB (Fig. 6 ). 
-Now the area ABCD 
-= area KBLD 
-E 
-EF × BL 
-36 x 27 
-= 
-972 square padas. 
-{BL = } (AD + BC)] 
-It is to be remembered in this connection that the area of the rectangle was already known to Apastamba (Ã§l. 3.6 and 3.7). The units of mahāvedi are given in prakramas and sometimes in padas. padas are sometimes calculated in terms of prakramas (vide Bśl. 4.12 - 4.14), though both of them are relative units (vide also Āśl.6.2). 
-F 
-L C 
-Fig. 6 
-5.8-5.9. Sautrāmaniki vedi. The sautrāmaniki vedi is in the form of an isosceles trape- 
-zium having face or 8√/3, base 
-24 √3 
-36 
-√3 
-30 
-or 10√3, and altitude or 12√3, √3 and has an area 324 sq. padas. For detail, vide Bśl. 3.12. 
-6.1. Aśvamedha vedi. Āpastamba has given hints to the construction of similar isosceles trapezium of area 1944 sq. padas for the aśvamedha vedi. Its area equals 36√2 × § (24 √2 + 30√2) or 1944 sq. padas: This is double of the size of the mahāvedi. Hence, for an isosceles trapezium of n times the size of the mahāvedi, n being an integer or a fraction, only the unit of measurement of the latter should be replaced by Vn times the side of the mahāvedi. 
-6.2. The unit of prakrama has been discussed (Bśl. 4.12-4.14) and Aśl. 5.7). Four officiating priests are usually required for the sacrifice, namely, adhvaryu, hotṛ, brāhmaṇa and the āgnidhriya. The adhvaryua should sweep the ground of altars three times and trace out the drawing with the help of the wooden sword. 
-6.3-6.4. Nirudapaŝubandha vedi by one cord. The construction of the nirudapaśubandha vedi is done according to ekarajju measure taught in Āśl. 5.1 and 5.2. Here the relation, 
-2 
-+ ( 1/2 a ) - ( 132 ) 
-(음 
-a2 + 
-2 
-a for a = 188, . 
-i.e. (188)2 + (781)2 = (203)2 
-> 
-has been used for the construction of isosceles trapezium, whose face in 86 ang., base 104 ang. and altitude 188 ang. 
-The construction of another isosceles trapezium having face 3 aratnis, base 4 aratnis, and altitude 6 aratnis, has been obtained by the method of one-cord (ekarajju- vidhi). Here the following relation is used: 
-a Śrautakośa, I, 213–14. 
-240 
-APASTAMBA-SULBASUTRA 
-2 
-œa2 + (31⁄2 a.)' = ( 1/2 a)', 
-13 
-2 
-for a = 
-= 6, 
-) * = ( 6 ) * 
-2 
-12 
-or, 62 + ( 2 
-6.7-6.8. Paitṛki vedi and uttara vedi. For the construction of the paitṛki and uttara vedi, the method of one-cord (ekarajjuvidhi) has been used. According to Apastamba, the paitṛki vedi is a square of 5 aratnis, whereas the uttara vedi is a square of 10 padas. Hence the relation 
-5 
-2 
-a2 + ( 1/2 a)2 = ( 132 a)2 
-has been used. Specifically, 
-52 + 
-+ ( 212 ) 
-and, (10)2 + 
-2 
-5 
-5 
-2 
-for a 5 and a = 10 
-)* [ for paityki vedi ] 
-= ( 31/12)* 
-2 
-2 
-+ ( + - 
-)* 
-= 
-− ( 
-1025 
-6 
-)° | 
-)* [ for uttara vedi ] 
-For further discussion on paitṛki vedi, vide Bśl. 3.11. 
-6.9-6.11. Units of measure. The units like yuga, pada, śamyā, aratni and others are relative measures (vide Bśl. 1.3). 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 CHAPTER 7 
 CONSTRUCTION OF SADAS, UPARAVAS, GARHAPATYA, DHISNYA 
 AND AGNIDHRI YA 
+
 7.1-7.2. Sada and uparava. For the construction of rectangular sada altar of length 27 aratnis and breadth 9 aratnis, the method of one-cord (ekarajjuvidhi) for a = 27 has been used, with the help of the following relation: 
 272 + (11)2= (291)2 
 The sada is also a rectangle of length 18 aratnis and breadth 10 prakramas (Bśl. 4.1 ff) where relation, 182 + (7)2 = (191), holds good. For uparavas, vide Bŝl. 4.1.-4.2. 
