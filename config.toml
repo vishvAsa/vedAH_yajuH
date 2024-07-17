@@ -13,6 +13,7 @@ disablePathToLower = true
   fullSearchURL = "/full_search"
   env = "production"
   disqusShortcode = "vvasuki-site"
+  math = true
 
 [outputs]
   home = ["HTML", "RSS", "JSON", "CSV"]
