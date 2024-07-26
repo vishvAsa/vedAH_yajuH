@@ -4,31 +4,30 @@ title = "Sen, Bag - Translation"
 +++
 1
 1.1
-The various constructions of sacrificial fires are now given.
+
 1.2
-We shall explain the methods of measuring areas of their (different) figures (drawn) on the ground.
-1.3. Now, the measure of an angula is 14 anus (grain of Panicum milliaceum); according to others, (it is) 34 tilas (sesamum indicum) placed broad side on. One small pada is 10 aǹgulas; one prādeśa 12 añgulas; one pṛthā and one uttara- yuga 13 angulas each; one (big) pada 15 añgulas. One îșă measures 188 angulas; one akṣa 104 añgulas; one juga 86 angulas; one jānu 32 añgulas; one samyā and one bāhu 36 añgulas each. One prakrama equals 2 padas (30 angulas); one aratni 2 prādeśas (24 añgulas). But there are also instances of pada, yuga, prakrama, aratni and śamyā having different measures when these (words) are used as units of measurement. 5 aratnis (120 añgulas) make one purușa; one vyāma also has the same measure (5 aratnis); and 4 aratnis (96 añgulas) make one vyāyāma.
+
+1.3. 
 1.4
 1.5
 1.6
-Having desired (to construct) a square, one is to take a cord of length equal to the (side of the) given square, make ties at both ends and mark it at its middle. The (east-west) line (equal to the cord) is drawn and a pole is fixed at its middle. The two ties (of the cord) are fixed in it (pole) and a circle is drawn with the mark (in the middle of the cord). Two poles are fixed aɩ both ends of the diameter (east-west line). With one tie fastened to the eastern (pole), a circle is drawn with the other. A similar (circle) about the western (pole). The second diameter is obtained from the points of intersection of these two (circles); two poles are fixed at two ends of the diameter (thus obtained). With two ties fastened to the eastern (pole) a circle is drawn with the mark. The same (is to be done) with respect to the southern, the western and the northern (pole). The end points of intersection of these (four circles) produce the (required) square.
-Now another (method). Ties are made at both ends of a cord twice the measure and a mark is given at the middle. This (halving of the cord) is for the east-west line (that is, the side of the required square). In the other half (cord) at a point shorter by one-fourth, a mark is given; this is the nyañcana (mark). (Then) a mark is given at the middle (of the same half cord) for purposes of (fixing) the corners (of the square). With the two ties fastened to the two ends of the east-west line (pṛṣṭhyā), the cord is to be stretched towards the south by the nyañcana (mark); the middle mark (of the half cord) deter- mines the western and the eastern corners (of the square).
-When (the construction of) a rectangle is desired, two poles are fixed on the ground at a distance equal to the desired length. (This makes the east-west
+
+
 78
 1.7
 1.8
 1.9
 BAUDHAYANA-ŚULBASŪTRA
-line). Two poles one on each side of each of the (two above mentioned) poles are fixed at equal distances (along the east-west line). A cord equal in length to the breadth (of the rectangle) is taken, its two ends are tied and a mark is given at the middle. With the two ties fastened to the two end poles (on either side of the pole) in the east, the cord is stretched to the south by the mark; at the mark (where it touches the ground) a sign is given. Both the ties are now fastened to the middle (pole at the east end of the prăcî), the cord is stretched towards the south by the mark over the sign (previously obtained) and a pole is fixed at the mark. This is the south-east corner. In this way are explained the north-east and the two western corners (of the rectangle).
-When the eastern side is desired to be of shorter measure, a mark is given at half (the tiryaṁmāni).
-Now another (method). Ties are made at both ends of a cord of length equal to the measure increased by its half (so that the whole length of the cord is divided into three parts of half the measure each). In the third (extended) part on the western side a mark is given at a point shorter by one-sixth (of the third part); this is the nyañcana. Another mark is made at the desired point for fixing the corners. With the two ties fastened to the two ends of the east- west line (pṛṣṭhyā), the cord is stretched towards the south by the nyañcana, and the western and eastern corners (of the square) are fixed by the desired mark.
-The diagonal of a square produces double the area (of the square). 1.10 The breadth (of a rectangle) being the side of a given square (pramāņa) and the length the side of a square twice as large (dvikaraņi), the diagonal equals the side of a square thrice as large (tṛkaraņi).
+
+
+
+
 1.11
 1.12
-Thereby is explained the side of a square one-third the area of given square (trtiyakaraṇī). It is the side of a square one-ninth the area of the square (explained in the preceding rule, that is, of the square on the tṛkarani).
-The areas (of the squares) produced separately by the length and the breadth of a rectangle together equal the area (of the square) produced by the diagonal.
-1.13 This is observed in rectangles having sides 3 and 4, 12 and 5, 15 and 8, 7
-and 24, 12 and 35, 15 and 36.
+
+
+1.13 
+
 2
 21
 2.1
