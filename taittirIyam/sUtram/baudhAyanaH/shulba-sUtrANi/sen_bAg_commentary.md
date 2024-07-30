@@ -5,58 +5,14 @@ title = "Sen, Bag - commentary"
 CHAPTER 1
 UNITS OF MEASUREMENTS, CONSTRUCTION OF SQUARES AND RECTANGLES, KNOWLEDGE OF SURD, THEOREM OF SQUARE
 ON THE DIAGONAL AND RELATED PROBLEMS.
-In the first two chapters Baudhāyana has given a summary of geometrical knowledge and some results of mathematical interest required for the construction of sacrificial altars. How the knowledge was used in connection with the measuring of grounds and placing of different layers of bricks has been discussed in detail in subsequent chapters. This chapter deals specifically with the units of measurements of altars, methods of construction of squares and rectangles, application of surd numbers, and the theorem of square on the diagonal of a rectangle.
+
 UNITS OF MeasuremenTS
-Baudhayana's table of units of measurements runs as follows:
-1.3.
-1 angula
-14 aņus
-1 small pada
-10 angulas;
-1 prādeśa
-12 angulas;
-1 pada
-=
-15 angulas;
-1 iṣā
-=
-188 angulas;
-1 akṣa
-= 104 angulas;
-1 yuga
-86 angulas;
-1 janu
-32 angulas;
-1 śamyā
-36 angulas;
-1 bāhu
-36 angulas;
-1 prakrama
-2 padas;
-1 aratni
-=
-2 prādeśas
-I puruşa
-1 vyāma
-1 vyāyāma
-1 angula
-34 tilas;
-24 angulas;
-5 aratnis = 120 angulas;
-5 aratnis;
-4 aratnis;
-incha (approx.).
-Apastamba (Aśl. 6.5, 15.4) has prescribed the same values of Baudhāyana for iṣā, akṣa, yuga, puruṣa, vyāyāma, aratni and prādeśa. These units of Apastamba have been used by both Kâtyāyana (Kśl. 2.1, 5.9) and Mānava (Mśl. 2.1, 4.4). The unit pada has been made equal to 12 angulas by Kātyāyana (Kśl. 5.9). The term vitasti has been used in place of prādeśa by these two latter śulbakāras as well as by Kautilya in his Arthaśāstra”, while its value remains the same. Mānava (Mśl. 4.2- 4.4) has supplied some more units, e. g. 6 tuṇḍa=1 bāla of 3 years old calf; 3 bālas
-* Fleet, 233.
-b Shamasastry (2), 117.
+
 148
 BAUDHAYANA-SULBASŪTRA
-mustard seed; 2 mustard seeds=1 yavaa; 1 angula=6 yavas; and 1 prādeśa=10
-vitastis.
-The units like angula, pada, prakrama, prādeśa, bāhu, aratni carry a long tradition and have been used earlier in the Samhitas and Brāhmaṇic literature in the same. sense as these have been used in the Šulbasūtras.b
+
 CONSTRUCTION of Squares and Rectangles
-1.4-1.5. Square. Baudhāyana has described here two methods of construction of squares.
-First Method. Let XY be the given cord and U a mark at its middle (Fig. 1 (a)); EW, the prăci of the figure = XY; O the middle point of EW obtained corresponding to U of XY, where a pole is fixed.
+
 X
 A
 E
@@ -70,285 +26,28 @@ IS
 S'
 (b)
 Fig.1. (a) Cord. (b) Square on a given length. hon
-A circle with O as centre and OE as radius is drawn (Fig. 1(b)). Then EW is a diameter of the circle along east-west line. Two other circles with E and W as centres and EW as radius are separately drawn. The points of intersection of these two circles are denoted by N' and S' The line N'S' fixes the second diameter NS of the circle whose centre is 0. Again fastening the two ties once at E, W, N and S and drawing arcs, the points A, B, C, D are fixed. Then ABCD gives the required square. Second Method. Let XS, the given measure (pramāņa) be a and XY, the in- creased cord, 2a (Fig. 2(a)). S is the mark at the middle of XY; then XS measures the length for prāci.
-T is the nyañcana mark, so that ST-a-la-la. U is another mark at the
-middle of sr.
-XT, the diagonal (akṣṇayā) = a+‡a={1
-Tr, the breadth (tiryanmāni)
-a Shamasastry (1), 153, 55.
-b Macdonell and Keith, II, 577, 584.
-=
-2a-1-a
-COMMENTARY
-Clearly, a2 + ($a)2
-==
-(81) 2
-In other words, XY2 + rT2 = XT2.
-... XYT is a right-angled triangle (Fig.2(b)).
-X
-STU
-N
-E
-M
-AM
-(b)
-(0)
-TK B
-W
-(c)
-149
-Fig. 2. (a) Cord. (b) Right-angled triangle.
-(c) Square on a given length.
-For the construction of any geometrical figure intended in the śulbasūtra XY is always stretched along east-west line, known as pārśvamāni, YT along north-south line, known as tiryañmānī, and XT along the diagonal known as akṣṇayārajju. Now it is easy to see how the right-angled triangle XYT has been used for the cons- truction of the square.
-The corners L and K (śroņi points), M and N (amsa points) are fixed with the help of the point T of the triangle XYT [Fig.2(c)]. Then by using the half-cord Ur, the points C, B, D and A are marked such that WC-WB=ED=EA. The figure ABCD gives the required square.
-1.6-1.7. Rectangle and isosceles trapezium. Baudhāyana's method of construction of rectangle with the help of a cord runs as follows:
-Let XT be a piece of cord taken equal to the desired breadth of the rectangle
-[Fig. 3 (a)];
-S, a mark at the middle of XY;
-Xx
-S
-A
-(a)
-W
-H
-(b)
-Fig. 3. (a) Cord. (b) Rectangle having desired length and breadth.
-150
-BAUDHAYANA-ŚULBASŪTRA
-E, W, the prăci poles;
-P and Q, G and H, poles at equal distances apart on both sides of each of the
-prăci poles.
-O, the mark assigned by the middle mark S when ties at X and Y are fixed
-at P and Q and stretched by S; and
-A, the point designated by the middle mark S, when both ties at X and Y are
-fixed at E and stretched!haling to
-In a similar way, the other corner points, B, C, D, are traced [Fig. 3(b)]. Hence ABCD is the required rectangle.
-In the rule (Bśl. 1.7), Baudhāyana hints at the method of construction of an isosceles trapezium shorter in one side. For this purpose, a mark on the cord accor- ding to desired length is to be given and the rest is similar to that of Bśl. 1.6. 1.8. Square. Baudhāyana describes here another method of construction of a square as follows:
-Let XS be the cord of given measure a [Fig. 4(a)] ;
-Xr=1a3a;
-SY=1a;
-T the nyañcana mark.
-.. XT=a+ (}{} · {a} } a) = a + 12 a
-:.
-1
-+
-and Tra&a= os a
-The relation a2+(a)2 =
-2 (a)2 holds, i.e., XrYT2=XT2.
-18
-a
-I 2
-St
-(a)
-N
-E
-M
-A
-D
-X
-B
-Y.
-K
-T
-(b)
-W
-(c)
-Fig. 4. (a) Cord. (b) Right-angled triangle. (c) Square having given side.
-The right-angled triangle XYT [Fig. 4(b)] has been used to fix the corner points L, M, N, and K of the required construction. The points C, D, A and B are fixed such that WC-ED-EA-WB= [Fig. 4(c) ]. ABCD gives the required
-square.
+
+
+
 SURD NUMBERS
-1.9-1.11. Here Baudhayana states that in a square ABCD, AC2=2 AB2 [since AB- BC] or AC=√2 AB, where AC is known as the dvikarani of the measure AB. If AB=a, AC=√Ã a, where a is the measure. The result is sometimes considered byCOMMENTARY
-151
-scholars as a particular case of the more generalized rule given by Baudhāyana in Bśl. 1.10. But Baudhāyana gave no such hint. On the other hand, he has tried to establish a more generalized result on the basis of this statement. According to him, when the measure of the side of a square is a, its diagonal is √1⁄2 a. Then again the measure of the diagonal of a rectangle having sides a and √Ã a, is √3 a, for a2+ (√Ã a)2= (√3a)2; √3a is known as the trkarani. This result has been extended
-A
-D
-iF
-B
-E
-C
-Fig. 5. Square on the diagonal. Fig. 6. Producer of tṛkaraṇi and tṛtiyākaraṇī.
-to obtain the value of tṛtiyākaraṇi by both Apastamba (Ãśl. 2.2 and 2.3) and Kātyā- yana (Kśl. 2.10 and 2.11). The commentators Kapardisvāmī, Sundararāja and Rāma have expressed in identical terms the value as well as meaning of this term. According to them, a square on the producer AB (=√3a) when divided into nine equal parts by means of three parallel lines drawing from both sides, produces the square, EBGF which is one-ninth of the square ABCD (Fig. 6).
-Then EB2 =} AB2
-or EB
-=
-AB
-1
-√3a.
-√3a.
-The producer EB is known as tṛtiyākaraṇi = of the original square.
-序
-a,
-where a is the side
-THEOREM OF Square on the Diagonal 1.12-1.13. The theorem states that in a rectangle ABCD, AC2-AB2+BC2 (Fig. 7). This is a most general statement and is enunciated first by Baudhāyana. The proposition is stated almost in identical language by Āpastamba (Ãśl. 1.4), Kātyāyana (Kśl. 2.7) and Mănava (Mśl. 10.10). Baudhayana further says that the theorem is easily verified from the following relations:
-32 +42 122 +52
-152 +82
-52 132
-==
-172
-72 +242
-252
-122 +352
-372
-152 + 362
-392.
-No proof of this theorem is given by Baudhāyana and other sulba writers, since it is beyond their tradition to do so. Zeuthen, Cantor, Vogt, Cajori and Heath have
+
+
+
+THEOREM OF Square on the Diagonal 
+
 152
 BAUDHAYANA-ŚULBASŪTRA
-expressed the view that the general statement was possibly the result of an induction from a small number of cases of right-angled triangles having sides in rational numbers known to them. But this is not the actual case. Our discussions on rational rectangles and construction of geometrical figures amply justify that the general character of the theorem was rightly understood by the śulbakāras.
-A
-A
-E
-N✩
-B
-Fig. 7
-B
-Fig. 8
-A number of conjectures by Heath, Bürk, Müller, Thibaut, Datta and others as to the way the proof of the theorem could have been arrived at are available. A few of them are discussed in what follows.
-(i) According to Heath, the problem of transformation of a square into a rectangle given by Baudhayana in Bśl. 2.3. formed the basis of the proof. For, square ABCD drawn on the diagonal AD of the right-angled triangle AGD is equivalent to four equilateral triangles, while its sides GD and AG produce two each (Fig. 16). This has also established Bürk's hypothesis.b
-(ii) The combination of two different squares as described by Baudhāyana in Bśl. 2.1 (Fig. 12) might have laid the foundation of the general statement of the theorem. This is according to Müller.
-(iii) Thibaut opined that the śulbakāras were observant of the fact that the square on AD is equivalent to four equal triangles, one of which is equal to half of the square on OA or OD, i.e. the squares on OA and OD together are equi- valent to four equal triangles (Fig. 8). This pattern of arrangement of equilateral triangles are actually found in the first layer of construction with bricks in the vakrapakṣaśyenacit as described by Baudhāyana.
-e
-(iv) According to Datta, the construction of the paityki vedi established the theorem of square on the diagonal. The altar is mentioned in the Satapatha Brāhmaṇa (XIII.8.1.5) as a square with its corners pointed towards the cardinal directions. It is referred to by Baudhāyana (Bśl. 3.11) and also by Kātyāyana (Kśl.2.2), where the method of its construction in detail has appeared. The square EGWH obtained by joining the middle points of a square ABCD (of area 2 sq. purușas) is the paitṛki vedi and is half (in area) of the original square (Fig. 29). The original square ABCD is a square on its east-west line EW. EW is again the diagonal of the newly formed square EGWH. This is undoubtedly a convincing proof (since EW2=2 EG2).
-a Heath, 352.
-b Bürk, 55, 556.
-c Müller, 194-95.
-d Datta (2), 111.
-e Datta (2), 113-115.
+
 COMMENTARY
-153
-(v) The knowledge of dvikaraņi, tṛkaraṇī, discussed by Baudhāyana (B§l. 1.9— 1.11,) led in a way to the theorem of square on the diagonal.
-(vi) Both Apastamba (Ãśl. 3.7) and Kātyāyana (Kśl. 3.7) gave an ingenious method for calculating the area of a square or rectangle, thereby establishing the theorem of square on the diagonal. According to this method, if there are p units in AB and q units in BC, then the rectangle ABCD has pq square units, which can be obtained by drawing number of parallel lines through p units of AB and q number of parallel lines through 9 points of BC (Fig. 9). This proves directly that AC2 AB2 + BC2.
-B
-A
-C
-Fig. 9
-(vii) Kātyāyana (Kśl. 2.4 and 2.5) has considered a rectangle of breadth 1 pada and length 3 padas, whose diagonal is a 10 fold producer. According to Dattaa, this justifies the statement of the theorem of square on the diagonal, as may be seen from Fig. 10. In the square ABCD, DH = CG — CK — BF = AE 1 pada.
-=
-A
-E
-ليا
-H
-D
-A
-b
-D
-C
-G
-b
-B F
-Fig. 10,
-K C
-B
-a c
-Fig. 11
-Now sq. ABCD
-sq on BK + sq. on DH + 4 tr. AEH
-AH2 + AE2 + 4 tr. AEH.
-Again sq ABCD .. AH2 + AE2
-a Datta (2), 115-116.
-=
-EH2 + 4 tr. AEH
-EH2
-=
-154
-BAUDHAYANA-SULBASUTRA
-(viii) Dattaa has given another proof of this theorem. Four rectangles each. equal to a given rectangle having breadth a, length b and the diagonal c are so constructed that the diagonal of each rectangle forms the side of a square (Fig. 11).
-Then
-c2= (a + b) 2 — 4 (ab)
-Or, c2 a2 + b2.
-=
-Although such specific constructions and arguments are not supplied as proofs by the sulbakāras, ample evidence is left by them in their details of constructions to believe that the proofs of the theorem of square on the diagonal of a rectangle were known to them.
-Pythagorean Theorem in other Culture Areas.
-—
-The theorem of square on the diagonal of a rectangle is usually known as Pythagorean theorem after the name of Pythagoras (c. 540 B.C.). In fact, the rela- tion 32 +42 52 and some such relations have been used by Pythagoras, but evidence of any general statement regarding this is not yet available. Actual proof was first given by Euclid (c. 300 B.C.). Proclus (c. 460 A.D.), the commentator of Euclid's Elements remarked: "For my part, while I admire those who first observed the truth of the theorem, I marvel more at the writer of the Elements, not only because he made it first by a most lucid demonstration, but because he compelled assent to the still more general theorem by the irrefragable arguments of science in the sixth book." Heath has quoted this with the remark: "It is difficult for us to be more positive than Proclus was".
-It is fairly certain that the practical use of the theorem was current in old Babylonian times (c. 1800-1600 B.C.). The evidence for this is found in certain Babylonian cuneiform tablets. No general theorem was found to have been men- tioned. It has been conclusively proved by Neugebauer that Pythagoras derived his "Number theorem of Universe" as well as the so-called Pythagorean theorem from cuneiform tablets.d The Chinese knew of a similar relation which appeared in Chou Pei (4th century B.C.), but it really became well known from the time of its first commentator Chao Chun Chhinge (3rd century A.D.). A proof of the theorem was given by Bhaskara II (1150 A.D.). According to Needham, Bhaskara II's treatment was derived from the Chou Pei. This is not true, for the proof of Bhaskara II and that given in Chou Pei can readily be deduced from a number of constructions described already in the Sulbasūtras.
-■ Datta (2), 117
-b Elements, Book I, prop. 47.
-c Heath (3), 96.
-d Neugebauer, 28-42.
-• Needham, 95.
-f Bijaganita, 70.
-• Needham, 19.
+153  
+
+
 COMMENTARY
 CHAPTER 2
 155
-TRANSFORMATION OF GEOMETRICAL FIGURES
-This chapter deals with the method of combination or difference of two separate squares into a square and the transformation of a square into a rectangle, an isosceles trapezium or a circle and vice versa.
-CONSTRUCTION of a SQUARE BEING SUM OF, DIFFERENCE BETWEEN, TWO SQUARES 2.1-2.2. These two rules of Baudhāyana give the methods of construction of a square as the sum and difference of two different
-squares.
-Here three technical terms, hrasiyasaḥ, varṣiyasaḥ and vṛddhram are used. Accord- ing to Kapardisvāmi,a hrasiyasa means the side of the smaller square, varṣiyasa the side of the larger square and vyddhram the rectangular portion (dirghacaturafram).
-Method of combination (samāsa).
-For the combination of a smaller square EBGF with another square ABCD, this rule of Baudhāyana suggests that the rectangular portion ABGH is cut off by the side of the smaller square whose side is equal to BG. Then AG of this cut-off portion will be the side of the combined square (Fig. 12).
-H
-H
-A
-D
-A
-D
-E
-ليا
-E
-F
-F
-B
-G
-Fig. 12.
-Evidently,
-B
-Fig. 13.
-AG2 AB2 + BG2 sum of two squares.
-The same method is also given by Apastamba (Āśl. 2.4) and Kātyāyana (Kśl. 2.13).
-PROOF: Dattab has suggested the following proof of this proposition (Fig. 13).
-sq. ABCD + sq. ECGF
-= tr. ABO + tr. AOI + tr. OFG + tr. OFJ + sq. IJED = tr. ADH + tr. AOI + tr. HEF + tr. OFJ + sq. IJED
-sq. AOFH
-or, AB2 + CG2
--
-A02
-■ Aśl. Mysore 73, 39. b Datta (2), 77.
-156
-Method of difference (nirhāra).
-BAUDHÄYANA-ŚULBASŪTRA
-To construct a square equal to the difference between a smaller square EBGF and other square ABCD, the rule Bśl. 2.2 suggests that the rectangular portion ABGH is cut off by the side BG of the smaller square. Then the side GH of the cut off portion is allowed to fall on AB, and P is the point where it falls. Here GH GP. Then BP is the side of a square which is equal to the difference of the squares ABCD and EBGF (Fig. 14).
-A PE
-H
-D
-F
-B
-G
-Fig. 14.
-Evidently,
-BP2
-GP2
-BG2
-GH2 - BG2 AB2
-BG2
-A PM
-H
-B
-Fig. 15.
-=
-difference of two squares ABCD and EBGF.
-The method is also given by Apastamba (Asl. 2.5) and Katyāyana (Kŝl. 3.1).
-PROOF: The following proof based on the knowledge of the sulbakāras is due to Dattaa (Fig. 15).
-Now, sq. PGFH =
-4 tr. PGI + sq. IJKL
-2 tr. PGI + 2 tr. PGI + sq. IJKL = rect. PBGI + rect. PBGI + sq. IJKL
-=
-=
-(rect. PBGI + sq. IJKL) + rect. PBGI
-(rect. PBGI + sq. IJKL) + sq. MBGJ + rect. PMJI
-(rect. PBGI + sq. IJKL + rect. PMJI) + sq. MBGJ (rect. PBGI + sq. IJKL + rect. JGEK) + sq. MBGJ sq. PBEL+ sq. MBGJ
-or, sq
-PBEL
-sq. PGFH
-sq. MBGJ
-..
-BP2 PG2 BG2
-P
-or BP2
-AB2
-BG2
+
+
+
 TRANSFORMATION OF A SQUARE into a Rectangle
 2.3-2.4. Baudhāyana has given two methods for transformation of a square into a rectangle.
 According to the first method, a square is transformed into a rectangle, such that the diagonal of the square equals the longer side of the rectangle. The method is also given by Katyāyana (Kśl. 3.4).
