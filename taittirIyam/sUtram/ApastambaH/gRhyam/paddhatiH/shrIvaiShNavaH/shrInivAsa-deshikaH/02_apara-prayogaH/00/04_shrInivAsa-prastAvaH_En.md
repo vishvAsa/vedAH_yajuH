@@ -124,6 +124,7 @@ It is significant that "anna sesha" the balance of eatables should be thrown in 
 
 The 12th day function is commonly spoken of as "Sapindi Karana". As purvanga, nithya karmanushtana is to be observed. Then Agni Sandana, Aaupasana, Pancha dasa (or shodasa) is performed. If convenient Panchadasa (Shodasa) may be first performed and then Agni Sandhanam Anupasana. The details are given at page 106. The sankalpa is given at page 107 and 108. The sapindikarana sraddha details start from page 109. Two slokas called Pithru gatha in Vishnupuranam are given in page 110. "सप्तव्याधा ...यूयं तेभ्योऽवसीदत". These slokas are recommended for being recited not only on this occasion but also in प्रत्याब्दिक श्राद्धाऽ. This is not heard of and hence not familiar. The procedure for sapindikarana is described under the headings, "Varanam, pada prakshalanam, patra sandanam, 
 
+untill....
 
 (xxvi)
 
