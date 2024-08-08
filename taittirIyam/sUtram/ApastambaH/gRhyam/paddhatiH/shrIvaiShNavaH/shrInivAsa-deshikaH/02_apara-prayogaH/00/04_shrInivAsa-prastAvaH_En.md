@@ -164,9 +164,6 @@ The rites regarding Pindapradana, Argya Samyojana, Treta Karanam, Danas, Pinda S
 
 ## Brahmamedham
 
-
-(xxvii)
-
 It is specified that Brahmamedham can be performed only if the dead person, the karta and vadyar have studied the vedas in the system and are very desirous of reaching Purushottaman. The pitrumeda and brahmameda go hand in hand. For example, the karnamantra kriya should be first performed according to pitrumeda and immediately according to brahmameda also.
 
 ## Garbhini Samskara
@@ -185,12 +182,7 @@ These pages deal with
 
 ## Conclusion
 
-The book fulfils the long felt need of decades. As already stated these two books will serve as concise encyclopaedia, reference book, handy guide and text book for learners. These will bridge the gap between the karta, performer and the vadyars. The performaer will be able to take more interest and involve himself more closely with knowledge of the significance of what he is doing. While I am not competent to compliment on the astornding and amazing erudition of sri u bha ve Srinivasa Desikacharya Ganapatigal, I cannot but mention the same. The style adopted is simple and all the items explained in detail without being too elaborate or too short. The intricate ideas have
-
-
-(xxviii)
-
-been explained in simple language. The Brahmin community is bound to be grateful for ever.
+The book fulfils the long felt need of decades. As already stated these two books will serve as concise encyclopaedia, reference book, handy guide and text book for learners. These will bridge the gap between the karta, performer and the vadyars. The performaer will be able to take more interest and involve himself more closely with knowledge of the significance of what he is doing. While I am not competent to compliment on the astornding and amazing erudition of sri u bha ve Srinivasa Desikacharya Ganapatigal, I cannot but mention the same. The style adopted is simple and all the items explained in detail without being too elaborate or too short. The intricate ideas have been explained in simple language. The Brahmin community is bound to be grateful for ever.
 
 I submit my very humble pranamams at the lotus feet of Sri Srimad Andavan swamigal for blessing the work with HIS Anugraha Bhashanam. We are thankful to the Paduka charities for bringing out these two volumes and also Asoucha Sangraha of Sri U.Ve. Ramabhadrachar swamigal of Sundapalayam. The volumes have been printed elegantly in bold letters both in Sanskrit and Tamil languages. I am also very grateful to my close friend and well-wisher Sri R Sowriraja lyengar, M.A., Pune, who unexpectedly came to visit me. He kindly consented to stay with me and helped me and give final touches to this review.
 
