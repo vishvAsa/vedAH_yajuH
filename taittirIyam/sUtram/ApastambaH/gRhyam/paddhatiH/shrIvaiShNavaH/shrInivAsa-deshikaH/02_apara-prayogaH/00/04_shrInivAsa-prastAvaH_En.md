@@ -150,7 +150,11 @@ As purvanga, nithya karmanushtana is to be observed. Then Agni Sandana, Aaupasan
 
 > सप्तव्याधा ...यूयं तेभ्योऽवसीदत. 
 
-These slokas are recommended for being recited not only on this occasion but also in प्रत्याब्दिक श्राद्धाऽ. This is not heard of and hence not familiar. The procedure for sapindikarana is described under the headings, "Varanam, pada prakshalanam, patra sandanam, Argyam, Bhojana sthala suddhi, Avahanam, offering of flowers and sandal paste etc. Argyam again, Pradhana Homa and Bhojanam. In abhisravanam purusha suktam should only be chanted (only from the first pratyabadika sraddha sri suktam etc are also recited).
+These slokas are recommended for being recited not only on this occasion but also in प्रत्याब्दिक श्राद्धाऽ. This is not heard of and hence not familiar. The procedure for sapindikarana is described under the headings, 
+
+> Varanam, pada prakshalanam, patra sandanam, Argyam, Bhojana 
+
+sthala suddhi, Avahanam, offering of flowers and sandal paste etc. Argyam again, Pradhana Homa and Bhojanam. In abhisravanam purusha suktam should only be chanted (only from the first pratyabadika sraddha sri suktam etc are also recited).
 
 The portion from pages 106 to 148 is very exquisitely written in such great detail that it is very easy to follow. We will do well to go through frequently to familiarise ourselves with the nuances. In page 143 it is state if Vishnupada is available with the karta, it may be placed on the darbha bhugna with the "pada" on the east. The priests have not so far mentioned this important fact so far. In page 135 of Tamil version, it is stated that the karta in prachinaviti seeks an assurance or obtains an approval from the Brahmins that they accept that the Sapindi karana has been deemed as performed in accordance with the shastras. The Brahmins gracefully assure him let it be so, तथास्तु
 
