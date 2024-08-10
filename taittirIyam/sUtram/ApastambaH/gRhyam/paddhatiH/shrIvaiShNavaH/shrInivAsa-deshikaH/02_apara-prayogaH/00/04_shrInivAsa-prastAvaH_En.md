@@ -16,11 +16,7 @@ Ganapati Sri U.Ve. Swami has made the subject easily understandable. If a religi
 
 ## Paribhasa (परिभाषा)
 
-The first sloka 
-
-> लक्ष्मी नारायणं वन्दे
-
-is itself pregnant with meaning and as serves an appropriate threshold to the subject matter. The paribasha portion given in the Purva prayoga is equally applicable to this Apara part also with difference or changes required for this part. A few such differences are mentioned below: The functions of the first ten days have to be done by the Karta wearing wet clothes and with the Prachinavita position of the holy-thread [(??)]. The items lika achamana, pranayama and pradakshina should be performed only with upavita. Every rule has some exceptions. This rule also has a few exceptions which should be carefully noted and followed. When the dead-body is carried to the burning ghat, at three places pradakshina and apradakshina are prescribed. On this occasion even pradakshina should be made with prachinavita only.
+The first sloka "लक्ष्मी नारायणं वन्दे" is itself pregnant with meaning and as serves an appropriate threshold to the subject matter. The paribasha portion given in the Purva prayoga is equally applicable to this Apara part also with difference or changes required for this part. A few such differences are mentioned below: The functions of the first ten days have to be done by the Karta wearing wet clothes and with the Prachinavita position of the holy-thread [(??)]. The items lika achamana, pranayama and pradakshina should be performed only with upavita. Every rule has some exceptions. This rule also has a few exceptions which should be carefully noted and followed. When the dead-body is carried to the burning ghat, at three places pradakshina and apradakshina are prescribed. On this occasion even pradakshina should be made with prachinavita only.
 
 ## Jiva Prayaschita
 
@@ -28,9 +24,7 @@ This is a ceremony which a person can do it for himself when he is fit, well and
 
 ## Utkranti "Go-danam" [(??)]
 
-It is evident that all these, if done when one is healthy, the benefits to be achieved will be enormous. But if not earlier, then it may be done when the death is shortly expected, by the son at the stage the breath is gurgling (making noise) at the throat. After the godana is done, prana mantra should be said in the right ear, keeping the head of the dying person (male or female) on the right lap of the son. The karnamantra should be followed by Dwaya, ie, 
-
-> श्रीमन् नारायण चरणौ शरणं प्रपद्ये । श्रीमते नारायणाय नमः ॥
+It is evident that all these, if done when one is healthy, the benefits to be achieved will be enormous. But if not earlier, then it may be done when the death is shortly expected, by the son at the stage the breath is gurgling (making noise) at the throat. After the godana is done, prana mantra should be said in the right ear, keeping the head of the dying person (male or female) on the right lap of the son. The karnamantra should be followed by Dwaya, ie, "श्रीमन् नारायण चरणौ शरणं प्रपद्ये । श्रीमते नारायणाय नमः" ॥
 
 ## Consuming to the fire (दहन)
 
@@ -40,11 +34,7 @@ In practice ladies wash the dead body by pouring water. But as mentioned “घ�
 
 ## Sri Churna Paripalanam
 
-This is a special observance by Sri Vaishnavas. It has been mentioned that this is a function specified in the 
-
-> Vriddha Haritha Smriti.
-
-The elderly Sri Vaishnava Swamigal present there are requested to initiate the function (अनुज्ञा). The swamigals recite Azhwar's pasurangal i.e. Kovil Thiruvaimozhi. The kalasa sthapana japa etc., mentioned in the sruti is not followed. Turmeric powder prepared on the spot ponuding with wooden-ural and ulakkai (உரல், உலக்கை) is put in the thiruman which is already on the forehead of the corpse. In the cases of Sanyasis this is performed as specified in the smruti vide page 10 of संस्कृत part.
+This is a special observance by Sri Vaishnavas. It has been mentioned that this is a function specified in the "Vriddha Haritha Smriti". The elderly Sri Vaishnava Swamigal present there are requested to initiate the function (अनुज्ञा). The swamigals recite Azhwar's pasurangal i.e. Kovil Thiruvaimozhi. The kalasa sthapana japa etc., mentioned in the sruti is not followed. Turmeric powder prepared on the spot ponuding with wooden-ural and ulakkai (உரல், உலக்கை) is put in the thiruman which is already on the forehead of the corpse. In the cases of Sanyasis this is performed as specified in the smruti vide page 10 of संस्कृत part.
 
 ## Pretagni Sandhanam [ப்ரேதாக்நி ஸந்தானம்]
 
@@ -54,11 +44,7 @@ This being an अशुभ कर्म it has been clearly stated at each stage
 
 The names given to the various types of "Agnis", their significance, the occasions in which these are to be used are clearly specified from page 14. It is observed that the Tamil version on pages 13 and 14 are very helpful. The various Agnis are (i) pretagni, (ii) uttamagni, (iii) kapalagni and (iv) tushagni. In pages 15 to 18 the steps by which the above types of Agnis should be prepared are mentioned. The Tamil rendering is very useful. The store of information is very interesting even for the unfamiliar reader. The method of preparing the Tushagni is surprising. "Yekarcha" vidhi is a separate method for unmarried girls and boys mentioned in page 19.
 
-The death is of various types of persons. Each type is required to be dealt with different prayschittas that are prescribed for each case. The cases are (i) death in a foreign country, (ii) death of the husbands of (a) सजस्वला (in monthly period), (b) pregnant lady, (iii) if the dead body has not been burnt within 10 hours of death i.e. 25 Ghatikas, but is burnt after 10 hours, (iv) if the death occurred before 
-
-> Brahma Muhurta
-
-i.e. before 4 a.m., (v) passing urine or stools at the time of death owing to मरण भयम् (vi) death in dakshinayana, krishna paksha or mid-night, (vii) death by snake bite, (viii) death by animal attack, and (ix) death by animal teeth or horns, (x) death by drowning, (xi) death by thunder. It is surprising how our elders have conceived prayaschittas for these. These items have been clearly explained in detail. Sri Ganapati Swami has made this part very interesting.
+The death is of various types of persons. Each type is required to be dealt with different prayschittas that are prescribed for each case. The cases are (i) death in a foreign country, (ii) death of the husbands of (a) सजस्वला (in monthly period), (b) pregnant lady, (iii) if the dead body has not been burnt within 10 hours of death i.e. 25 Ghatikas, but is burnt after 10 hours, (iv) if the death occurred before "Brahma Muhurta" i.e. before 4 a.m., (v) passing urine or stools at the time of death owing to मरण भयम् (vi) death in dakshinayana, krishna paksha or mid-night, (vii) death by snake bite, (viii) death by animal attack, and (ix) death by animal teeth or horns, (x) death by drowning, (xi) death by thunder. It is surprising how our elders have conceived prayaschittas for these. These items have been clearly explained in detail. Sri Ganapati Swami has made this part very interesting.
 
 After page 13, the Tamil write up is not aligned with the Sanskrit portion's on that page. This affects the case of reference and beats the very purpose of printing the Tamil version is effected.
 
@@ -68,11 +54,7 @@ Our rishis and sages have thought of the possible doshas, picked up suitable ved
 
 ## Paithrumedikam
 
-The procedure mentioned in pages 28 to 32 of the Tamil writeup is not observed in practice. After leaving the house the dead body is taken to the ghat without any stoppage. The further rites are conducted only in the ghat. The thumbs and toes are already tied soon after death. It is not done again. After chanting the mantra 
-
-> इदं चा वस्त्रं
-
-(page 29) the new cloth is put on the dead body. It is not customary that the old cloth is taken by the karta and kept for use.
+The procedure mentioned in pages 28 to 32 of the Tamil writeup is not observed in practice. After leaving the house the dead body is taken to the ghat without any stoppage. The further rites are conducted only in the ghat. The thumbs and toes are already tied soon after death. It is not done again. After chanting the mantra "इदं चा वस्त्रं" (page 29) the new cloth is put on the dead body. It is not customary that the old cloth is taken by the karta and kept for use.
 
 The practice of dividing the route to the ghat into four parts, repeating the process from times is not in vogue. In these days the municipal hearse car is used for carrying the body. All the rites are done at the ghat only.
 
@@ -94,21 +76,13 @@ Pashana sthapana and ekothra vrita are explained in these pages. There is an imp
 
 ## Asthi Sanchayana
 
-From this page the aligment between the Sanskrit and the Tamil portions has been restored. Asthi sanchayana is done on the day following the dahana. There is a note that the bones may be collected on the 3rd, 5th or 7th day. One cannot envisage for what reason this is to be delayed. All are very eager and anxious to collect the bones on the next day especially in the cities. The version saying fourth, sixth and eighth day is confusing. The procedure is clearly described. It is stated that in olden days ladies (who had reached menopause) who have passed the child-bearing stage used to be involved in picking bones. This practice has ceased. The pot of bones after chanting the mantras and doing the tantras is consigned to water chanting the mantra 
-
-> Dada punatu
+From this page the aligment between the Sanskrit and the Tamil portions has been restored. Asthi sanchayana is done on the day following the dahana. There is a note that the bones may be collected on the 3rd, 5th or 7th day. One cannot envisage for what reason this is to be delayed. All are very eager and anxious to collect the bones on the next day especially in the cities. The version saying fourth, sixth and eighth day is confusing. The procedure is clearly described. It is stated that in olden days ladies (who had reached menopause) who have passed the child-bearing stage used to be involved in picking bones. This practice has ceased. The pot of bones after chanting the mantras and doing the tantras is consigned to water chanting the mantra "Dada punatu"
 
 (Tamil page 64).
 
 ## Prabhuta Bali
 
-The offering of 
-
-> Prabhuta Bali
-
-is explained in page 71 and 72. After this, the karta disposes of the Bali and other items in the prescribed manner. He takes bath and gets ready for Skanta Homa. This is colloquially called 
-
-> Ananda Homa.
+The offering of "Prabhuta Bali" is explained in page 71 and 72. After this, the karta disposes of the Bali and other items in the prescribed manner. He takes bath and gets ready for Skanta Homa. This is colloquially called "Ananda Homa".
 
 ## Shanti Homa
 
@@ -116,45 +90,17 @@ The karta wears dried clothes, thiruman with srichurnam and pavitram made of two
 
 ## 11th day rites (एकादश अह्नि)
 
-On the 11th day the karta should take bath after 6 ghatikas of sunrise and perform the preliminaries such as stated at pages 80 and 81. The vrishabothsarjanam is described in pages 80 and 81, it is said that the right ear of the male-calf chakra and in the left ear sankha should be drawn (written) with turmeric powder and sandal paste. Further the mantras 
-
-> pisanga rupa
-
-पिशङ्गरुपसुभरः is to be recited in its right ear and in the left ear 
-
-> Tannas Turipa
-
-तत्रः तुरीप अघपॊषयित्नु is to be recited. It is to be worshipped with 
-
-> Shodasoparchana
-
-(16 upachanas) (page 82). The danas mentioned here are given during Ananda Homa of the 10th day function. The writing of chakra and shanka are not done.
+On the 11th day the karta should take bath after 6 ghatikas of sunrise and perform the preliminaries such as stated at pages 80 and 81. The vrishabothsarjanam is described in pages 80 and 81, it is said that the right ear of the male-calf chakra and in the left ear sankha should be drawn (written) with turmeric powder and sandal paste. Further the mantras "pisanga rupa" पिशङ्गरुपसुभरः is to be recited in its right ear and in the left ear "Tannas Turipa" तत्रः तुरीप अघपॊषयित्नु is to be recited. It is to be worshipped with "Shodasoparchana" (16 upachanas) (page 82). The danas mentioned here are given during Ananda Homa of the 10th day function. The writing of chakra and shanka are not done.
 
 ## Adya Masikam
 
 This part deals with Adya masikam, Argya grahanam and conducting of the Shradda on the 11th day under 24 sub-headings. The clear description of each part should be studied closely and carefully. The performance of 11th day shradda being very important, it should be given due regard and attention.
 
-It is significant that 
-
-> anna sesha
-
-the balance of eatables should be thrown in water, in a river or tank. It is not specified whether it can be burried under earth if no river or tank available (see page 154 Tamil).
+It is significant that "anna sesha" the balance of eatables should be thrown in water, in a river or tank. It is not specified whether it can be burried under earth if no river or tank available (see page 154 Tamil).
 
 ## 12th day function
 
-The 12th day function is commonly spoken of as 
-
-> Sapindi Karana. 
-
-As purvanga, nithya karmanushtana is to be observed. Then Agni Sandana, Aaupasana, Pancha dasa (or shodasa) is performed. If convenient Panchadasa (Shodasa) may be first performed and then Agni Sandhanam Anupasana. The details are given at page 106. The sankalpa is given at page 107 and 108. The sapindikarana sraddha details start from page 109. Two slokas called Pithru gatha in Vishnupuranam are given in page 110. 
-
-> सप्तव्याधा ...यूयं तेभ्योऽवसीदत. 
-
-These slokas are recommended for being recited not only on this occasion but also in प्रत्याब्दिक श्राद्धाऽ. This is not heard of and hence not familiar. The procedure for sapindikarana is described under the headings, 
-
-> Varanam, pada prakshalanam, patra sandanam, Argyam, Bhojana 
-
-sthala suddhi, Avahanam, offering of flowers and sandal paste etc. Argyam again, Pradhana Homa and Bhojanam. In abhisravanam purusha suktam should only be chanted (only from the first pratyabadika sraddha sri suktam etc are also recited).
+The 12th day function is commonly spoken of as "Sapindi Karana." As purvanga, nithya karmanushtana is to be observed. Then Agni Sandana, Aaupasana, Pancha dasa (or shodasa) is performed. If convenient Panchadasa (Shodasa) may be first performed and then Agni Sandhanam Anupasana. The details are given at page 106. The sankalpa is given at page 107 and 108. The sapindikarana sraddha details start from page 109. Two slokas called Pithru gatha in Vishnupuranam are given in page 110. "सप्तव्याधा ...यूयं तेभ्योऽवसीदत." These slokas are recommended for being recited not only on this occasion but also in प्रत्याब्दिक श्राद्धाऽ. This is not heard of and hence not familiar. The procedure for sapindikarana is described under the headings, "Varanam, pada prakshalanam, patra sandanam, Argyam, Bhojana" sthala suddhi, Avahanam, offering of flowers and sandal paste etc. Argyam again, Pradhana Homa and Bhojanam. In abhisravanam purusha suktam should only be chanted (only from the first pratyabadika sraddha sri suktam etc are also recited).
 
 The portion from pages 106 to 148 is very exquisitely written in such great detail that it is very easy to follow. We will do well to go through frequently to familiarise ourselves with the nuances. In page 143 it is state if Vishnupada is available with the karta, it may be placed on the darbha bhugna with the "pada" on the east. The priests have not so far mentioned this important fact so far. In page 135 of Tamil version, it is stated that the karta in prachinaviti seeks an assurance or obtains an approval from the Brahmins that they accept that the Sapindi karana has been deemed as performed in accordance with the shastras. The Brahmins gracefully assure him let it be so, तथास्तु
 
