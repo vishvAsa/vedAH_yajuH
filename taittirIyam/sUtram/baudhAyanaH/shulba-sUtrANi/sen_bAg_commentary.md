@@ -128,129 +128,20 @@ BAUDHAYANA-SULBASUTRA
 
 
 
-"" 
-" 
-دو 
-وو 
-35 
-east-west 
-two rows, east-west, on each side 
-of the nirṇāma are filled with 4 Вs per row ; 
-In two rows, north and 
-south of the above 
-"" 
-in the plumages 
-― 
-B1 
-- 1 ; B ̧ ́ 2; B6 
-3; 
-total 
-6 
--16 
--28 
-B1 
-2 
-20; B 8 ; 
-6 
->> 
-B2 
-6; 
-56 
--56 
-In the northern wing, the arrangement is the 
-same, but reverse 
-وو 
-total 112 
-206 
-BAUDHAYANA-ŚULBASUTRA 
-D. summarizes : ātmani ṣaṭpañcāśat | pucche'ṣṭādaśa | pādayoraṣṭau | ṣaṭ śirasi | pakṣayord- vādaśaśatam | asminprastāre șaḍadhikam śatam pañcamyaḥ | catuścatvārimśadardhyāḥ | catasraḥ pādyāḥ | aṣṭatriṛśadadhyardhāḥ | (Table 9). 
-TABLE 9. Bricks in different parts of the kaňkacit fire-altar—1st layer. 
-Brick types 
-Total 
-Parts of the citi 
-B1 
-B2 
-B3 
-BA 
-B5 
-B6 
-6 
-Head 
-Body 
-4 
-48 
-Tail 
-12 
-286 
-+002 
-56 
-18 
-4 
-4 
-8 
-Feet 
-Wings 
-42 
-28 
-4 
-38 
-112 
-Total 
-106 
-44 
-4 
-4 
-4 
-38 
-200 
-Second layer: The placement of bricks in the second layer is as follows: (a) In the head, including part of the body at the junction— 
-2; B3 9 ; B6 
-B 2 
-2; 
-total 
-13. 
-(b) In the body, excluding the two junction layers, east-west, with the wings and 
-one junction layer, south-west, with the tail- 
-1 
-B1-35; B2-4; B-4; 
-1 
-B1 - 1 ; B2 - 2 ; B2 — 2; 
-B3 
-total 
-- 43 
-(c) In the junction layer between the body and the tail 
-total 
-5 
-(d) In the tail, excluding the junction layer, there are three layers, south-west, 
-and the arrangement is as follows :- 
-1st layer in the east B2 2; B6 2 
-total 
-4 
-2nd layer in the middle—B 
-4; 
-4 
-3rd layer at the end, including feet- 
-B-5 on each side with vertices reversed alternately —-10 
-B3 
-B2 
-2 
-B3 
-part 
-of each lying within each foot 
-1 ; B4 2, in the middle space of tail 
-B-2; B-4, in the remaining space of feet 
-2 
-3 
-6 
-total -21 
-About the placement of these 21 bricks, D. comments as follows: tataḥ pucchagrarityām pārsvayoḥ pādyaḥ pañca pañca | tato dve ardhye padamadhyagatāgrike prāksthāratnipārsve dakṣinottaraparśvasthasaviseṣe | tayormadhye prāgagrā pādyā | tamabhitaḥ pratyagagrike dve aşṭamyau | pādāntayordve dve caturasrapādye dakṣinottarāyate pratyaksthadirghapārśve | tataḥ pūrvapraviṣṭārdhyāgrasamhitāmekaitāmaṣṭamim pāda- madhyayorupadadhyat | evam samasta ekavimsatiriṣṭakaḥ | A comparison with Fig. 48 will show how exactly and in what detail the placement of each brick has been described by the commentator. 
-(e) In the junction between the body and the wing-- 
-B-1; B-4; total 5. Total for two such junctions -10. 
+
+
+
+
+
+
+
+
+
+
+
 COMMENTARY 
 207 
-(f) In each wing, between the junction layer and the plumages, there are 8 rows, 
-east-west, each with 4 B6s; total—32. 
-(g) In the plumages (patras) — B2-6; B2— 12 ; total—18. 
+
 B3 
 2 
 ← Junction 
@@ -344,8 +235,7 @@ Junction layer
 6 
 6 
 108 
-Fig. 48. Arrangement of bricks in the kańkacit-2nd layer. The number and types of bricks used in the different parts are summarized in Table 10. 
-TABLE 10. Bricks in different parts of the kankacit fire-altar--2nd layer 
+Fig. 48. Arrangement of bricks in the kańkacit-2nd layer. The 
 Parts of the citi 
 Brick types 
 Total 
@@ -382,19 +272,13 @@ B6
 4 
 84 
 200 
-Head, including part of body Body, excluding junction layers 
-between wings and tail 
-Junction layer between body 
-and tail 
-Tail and feet 
-Junction layers between 
-body and wings 
-Wings and plumages, excluding 
-junction layers with body 
-Total 
-a D. mentions 56 bricks in the body. This is arrived at by adding 10 bricks of the two junction layers between body and wings and 3 bricks from the junction layer between body and tail. The 2 B, bricks (pādyās) in the body-wing junction layers properly belong to the wings. 
-b D. mentions 31 bricks. Tnis is obtained by adding 2 Bss from the junction layer between body 
-and tail. 
+
+
+
+
+
+
+
 208 
 BAUDHAYANA-ŚULBASŪTRA 
 CHAPTER 13 
