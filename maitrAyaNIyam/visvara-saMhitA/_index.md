@@ -2,7 +2,7 @@
 title = "+विस्वर-संहिता"
 
 +++
-
+Source: [TW](https://archive.org/details/maitrayanisamhit015004mbp/page/n585/mode/1up)
 <details><summary>English</summary>
 
 
