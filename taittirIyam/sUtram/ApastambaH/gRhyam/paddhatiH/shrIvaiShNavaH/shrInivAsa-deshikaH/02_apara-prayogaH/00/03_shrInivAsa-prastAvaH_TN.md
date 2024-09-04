@@ -2,7 +2,7 @@
 title = "०३ श्रीनिवास-प्रस्तावः TN"
 
 +++
-<details><summary>द्रविडम्</summary>
+<details><summary>तमिळ्</summary>
 
 முகவுரை
 
@@ -46,4 +46,4 @@ title = "०३ श्रीनिवास-प्रस्तावः TN"
 
 தாஸ
 
-<details>
+</details>
