@@ -2,7 +2,7 @@
 title = "०२ रङ्गरामानुजः"
 
 +++
-<details><summary>द्राविडम्</summary>
+<details><summary>तमिळ्</summary>
 
 சீமலங்கீடேன். வேசிக்ககூட
 
