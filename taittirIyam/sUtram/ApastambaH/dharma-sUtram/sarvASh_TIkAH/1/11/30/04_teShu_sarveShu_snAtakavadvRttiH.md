@@ -5,7 +5,7 @@ title = "04 तेषु सर्वेषु स्नातकवद्वृ
 
 <details><summary>Bühler</summary>
 
-4. To all those persons who have bathed (In accordance with any of the above rules must be shown) the honour clue to a Snātaka.
+4. To all those persons who have bathed (In accordance with any of the above rules must be shown) the honour due to a Snātaka.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
