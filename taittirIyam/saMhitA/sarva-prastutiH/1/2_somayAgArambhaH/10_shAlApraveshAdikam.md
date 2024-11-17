@@ -107,7 +107,8 @@ for the eagle, bringer of the Soma, thee, for Visnu thee!
 ________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-यजमानस् सोमम् आदत्ते।
+6यजमानस्सोममादत्ते - या त इति त्रिष्टुभार्धर्चेन ॥  
+7शालां प्रवेशयति - गयस्फान इति द्वितीयेनार्धर्चेन ॥
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
