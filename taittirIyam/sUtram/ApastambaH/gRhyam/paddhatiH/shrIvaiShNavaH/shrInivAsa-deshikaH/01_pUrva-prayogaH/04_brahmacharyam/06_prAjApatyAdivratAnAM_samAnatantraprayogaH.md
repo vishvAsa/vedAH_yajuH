@@ -682,17 +682,135 @@ title = "०६ प्राजापत्यादिव्रतानां 
 
 </div>
 
-> अग्ने॑, व्र॒त॒प॒ते॒ का॒ण्ड॒र्षि॒भ्यःँ, आ॒ग्ने॒यं व्र॒तं, च॒रि॒ष्या॒मि॒ । तच्छँकेयं, तन्मेँराध्यतां ।  
-वायो॑, व्र॒त॒प॒ते॒ का॒ण्ड॒र्षि॒भ्यःँ, आ॒ग्ने॒यं व्र॒तं, च॒रि॒ष्या॒मि॒ । तच्छँकेयं, तन्मेँराध्यतां ।  
-आदिँत्य, व्र॒त॒प॒ते॒ का॒ण्ड॒र्षि॒भ्यःँ, आ॒ग्ने॒यं व्र॒तं, च॒रि॒ष्या॒मि॒ । तच्छँकेयं, तन्मेँराध्यतां ।  
-व्र॒तानां॑, व्र॒त॒प॒ते॒ का॒ण्ड॒र्षि॒भ्यःँ, आ॒ग्ने॒यं व्र॒तं, च॒रि॒ष्या॒मि॒ । तच्छँकेयं, तन्मेँराध्यतां ।  
-अग्ने॑, व्र॒त॒प॒ते॒ का॒ण्ड॒र्षि॒भ्यःँ, वै॒श्व॒दे॒वं व्र॒तं, च॒रि॒ष्या॒मि॒ । तच्छँकेयं, तन्मेँराध्यतां ।  
-वायो॑, व्र॒त॒प॒ते॒ का॒ण्ड॒र्षि॒भ्यःँ, वै॒श्व॒दे॒वं व्र॒तं, च॒रि॒ष्या॒मि॒ । तच्छँकेयं, तन्मेँराध्यतां । [[TODO::परिष्कार्यम्??]]
->
-> [[114]]
->
-> आदिँत्य, व्र॒त॒प॒ते॒ का॒ण्ड॒र्षि॒भ्यःँ, वै॒श्व॒दे॒वं व्र॒तं, च॒रि॒ष्या॒मि॒ । तच्छँकेयं, तन्मेँराध्यतां ।  
-व्र॒तानां॑, व्र॒त॒प॒ते॒ का॒ण्ड॒र्षि॒भ्यःँ, वै॒श्व॒दे॒वं व्र॒तं, च॒रि॒ष्या॒मि॒ । तच्छँकेयं, तन्मेँराध्यतां । [[TODO::परिष्कार्यम्??]]
+
+
+(अधः "का॒ण्ड॒र्षिभ्यः॑ वै॒श्व॒दे॒वं व्र॒तं च॑रिष्यामि इत्यूहनीयम्।)
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/07_pravargyAdi/84_agne_vratapate"  newLevelForH1="5" includeTitle="false"> 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अग्ने᳚ व्रतपते!
+</details>
+
+<details><summary>मूलम्</summary>
+
+अग्ने᳚ व्रतपते!
+</details>
+
+
+
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+(…) व्र॒तञ्च॑रिष्यामि । (84)  
+तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details><summary>मूलम्</summary>
+
+(…) व्र॒तञ्च॑रिष्यामि । (84)  
+तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
+</details>
+</details>
+</div>
+
+
+<details><summary>संयुक्त-मूलम्</summary>
+
+वायो᳚ व्रतपत॒ आदि॑त्य व्रतपते ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वायो᳚ व्रतपते
+</details>
+
+<details><summary>मूलम्</summary>
+
+वायो᳚ व्रतपते
+</details>
+
+
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+(…) व्र॒तञ्च॑रिष्यामि । (84)  
+तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details><summary>मूलम्</summary>
+
+(…) व्र॒तञ्च॑रिष्यामि । (84)  
+तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
+</details>
+</details>
+</div>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आदि॑त्य व्रतपते
+</details>
+
+<details><summary>मूलम्</summary>
+
+आदि॑त्य व्रतपते
+</details>
+
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+(…) व्र॒तञ्च॑रिष्यामि । (84)  
+तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details><summary>मूलम्</summary>
+
+(…) व्र॒तञ्च॑रिष्यामि । (84)  
+तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
+</details>
+</details>
+</div>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+व्र॒ताना᳚व्ँव्रतपते
+</details>
+
+<details><summary>मूलम्</summary>
+
+व्र॒ताना᳚व्ँव्रतपते
+</details>
+
+
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+(…) व्र॒तञ्च॑रिष्यामि । (84)  
+तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details><summary>मूलम्</summary>
+
+(…) व्र॒तञ्च॑रिष्यामि । (84)  
+तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
+</details>
+</details>
+</div>
+
+</div>
+
+[[114]]
+
 
 यथास्थानमुपविशेत् ।
 
