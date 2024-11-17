@@ -14,12 +14,12 @@ title = "०१ व्रत-ग्रहणम्"
 पुरातनानि त्याजयित्वा,  
 स्नातं शिष्यं निवीतं 
 
-> प्रजापतिं काण्डर्षिं तर्पयामि,  
+> (ऋषितीर्थेन) प्रजापतिं काण्डर्षिं तर्पयामि,  
 > सांहितीर् देवता उपनिषदस् तर्पयामि,  
 > याज्ञिकीर् देवता उपनिषदस् तर्पयामि,  
 > वारुणीर् देवता उपनिषदस् तर्पयामि,  
-> ब्रह्माणँ स्वयम्भुवं तर्पयामि,  
-> सदसस्पतिं तर्पयामि 
+> (ब्रह्मतीर्थेन) ब्रह्माणँ स्वयम्भुवं तर्पयामि,  
+> (ऋषितीर्थेन) सदसस्पतिं तर्पयामि 
 
 इति एकैकं त्रिस् त्रिः तिलाक्षतोदकैः ऋषि-तीर्थेन तर्पयित्वाचम्य,  
 अग्नि-प्रतिष्ठाद्य्-अग्नि-मुखान्ते शिष्येणान्वारब्धः, 
@@ -50,7 +50,7 @@ title = "०१ व्रत-ग्रहणम्"
 </details>
 </div>
 
-> स्वाहा - प्रजापतय इदम् ।
+> स्वाहा - प्रजापतय इदन्न मम ।
 
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/03_prajApate_tvan.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
@@ -74,7 +74,7 @@ title = "०१ व्रत-ग्रहणम्"
 </details>
 </div>
 
-> स्वाहा - प्रजापतय इदम् ।
+> स्वाहा - प्रजापतय इदन्न मम ।
 
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/05_prajApatim_prathamay.N.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
@@ -86,7 +86,7 @@ title = "०१ व्रत-ग्रहणम्"
 </details>
 </div>
 
-> स्वाहा - प्रजापतय इदम् ।
+> स्वाहा - प्रजापतय इदन्न मम ।
 
 [[88]]
 
@@ -100,12 +100,12 @@ title = "०१ व्रत-ग्रहणम्"
 </details>
 </div>
 
-> स्वाहा - प्रजापतय इदम् ।
+> स्वाहा - प्रजापतय इदन्न मम ।
 
-> सांहितीभ्यो देवताभ्य उपनिषद्भ्यः स्वाहा, सांहितीभ्यो देवताभ्य उपनिषद्भ्य इदम् ।  
-> याज्ञिकीभ्यो देवताभ्य उपनिषद्भ्यः स्वाहा, याज्ञिकीभ्यो देवताभ्य उपनिषद्भ्य इदम् ।  
-> वारुणीभ्यो देवताभ्य उपनिषद्भ्यः स्वाहा, वारुणीभ्यो देवताभ्य उपनिषद्भ्य इदम् ।  
-> ब्रह्मणे स्वयम्भुवे स्वाहा, ब्रह्मणे स्वयम्भुव इदम् । 
+> सांहितीभ्यो देवताभ्य उपनिषद्भ्यः स्वाहा, सांहितीभ्यो देवताभ्य उपनिषद्भ्य इदन्न मम ।  
+> याज्ञिकीभ्यो देवताभ्य उपनिषद्भ्यः स्वाहा, याज्ञिकीभ्यो देवताभ्य उपनिषद्भ्य इदन्न मम ।  
+> वारुणीभ्यो देवताभ्य उपनिषद्भ्यः स्वाहा, वारुणीभ्यो देवताभ्य उपनिषद्भ्य इदन्न मम ।  
+> ब्रह्मणे स्वयम्भुवे स्वाहा, ब्रह्मणे स्वयम्भुव इदन्न मम । 
 
 <div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/018/06_sadasaspatimadbhutaM_priyamindrasya.md">
 <details open><summary><h3>०६ सदसस्पतिमद्भुतं प्रियमिन्द्रस्य ...{Loading}...</h3></summary>
@@ -118,14 +118,14 @@ title = "०१ व्रत-ग्रहणम्"
 </details>
 </div>  
 
-> स्वाहा, सदसस्पतय इदम् । 
+> स्वाहा, सदसस्पतय इदन्न मम । 
 
 माणवक उत्थाय,  
 देवता अभिसन्धाय,  
 
 (अधः "का॒ण्ड॒र्षिभ्यः॑ प्राजापत्य-व्र॒तं च॑रिष्यामि इत्यूहनीयम्।)
 
-<div class="js_include" url="84_agne_vratapate.md"  newLevelForH1="5" includeTitle="false"> 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/07_pravargyAdi/84_agne_vratapate"  newLevelForH1="5" includeTitle="false"> 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -247,6 +247,25 @@ title = "०१ व्रत-ग्रहणम्"
 </div>
 
 </div>
+
+(औदुम्बर-समिद्धोमः अन्यत्राधिकम् उक्तः)
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/07_pravargyAdi/82_pRthivI_samit"  newLevelForH1="5" includeTitle="false"> 
+पृ॒थि॒वी स॒मित् ।  
+ताम॒ग्निस्समि॑न्धे । साऽग्निꣳ समि॑न्धे । ताम॒हꣳ समि॑न्धे । सा मा॒ समि॑द्धा । आयु॑षा॒ तेज॑सा । वर्च॑सा श्रि॒या । यश॑सा ब्रह्मवर्च॒सेन॑ । अ॒न्नाद्ये॑न॒ समि॑न्ता॒ꣳ॒ स्वाहा᳚ । 
+</div>
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/07_pravargyAdi/83_antarixaM_samit"  newLevelForH1="5" includeTitle="false"> 
+अ॒न्तरि॑क्ष॒ꣳ॒ स॒मित् । (82)  
+ताव्ँ वा॒युस्समि॑न्धे । सा वा॒युꣳ समि॑न्धे । ताम॒हꣳ समि॑न्धे । सा मा॒ समि॑द्धा । आयु॑षा॒ तेज॑सा । वर्च॑सा श्रि॒या । यश॑सा ब्रह्मवर्च॒सेन॑ । अ॒न्नाद्ये॑न॒ समि॑न्ता॒ꣳ॒ स्वाहा᳚ । 
+</div>
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/07_pravargyAdi/84_dyaus_samit"  newLevelForH1="5" includeTitle="false"> 
+
+द्यौस्स॒मित् । तामा॑दि॒त्यस्समि॑न्धे । (83)  
+साऽऽदि॒त्यꣳ समि॑न्धे । ताम॒हꣳ समि॑न्धे । सा मा॒ समि॑द्धा । आयु॑षा॒ तेज॑सा । वर्च॑सा श्रि॒या । यश॑सा ब्रह्मवर्च॒सेन॑ । अ॒न्नाद्ये॑न॒ समिन्ता॒ꣳ॒ स्वाहा᳚ ।
+</div>
+
 
 जयादि प्रतिपद्यते ।  
 परिषेचनान्तं कृत्वा ।  
