@@ -322,61 +322,73 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 
 2अथ वपाया याज्यामाह - 
 </details>
-
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/02_rayINAm_patiy.N.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 र॒यी॒णाम् पति॑य्ँ **यज॒तम्**+++(=यजनीयम्)+++ बृ॒हन्त᳚म् ।  
 अ॒स्मिन् भरे॒ नृत॑म॒व्ँ वाज॑+++(=अन्न)+++-**सातौ**+++(=दाने)+++ ।  
 प्र॒जा-प॑तिम् प्रथम॒-जाम् ऋ॒तस्य॑ ।   
-**यजा॑म** दे॒वम् अधि॑ नो **ब्रवीतु** ।  
+**यजा॑म** दे॒वम् अधि॑ नो **ब्रवीतु** ।
 </details>
-
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/02_rayINAm_patiy.N.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
 र॒यी॒णाम् पति॑य्ँ यज॒तम् बृ॒हन्त᳚म् ।  
 अ॒स्मिन्भरे॒ नृत॑म॒व्ँवाज॑सातौ ।  
 प्र॒जाप॑तिम्प्रथम॒जामृ॒तस्य॑ ।   
-यजा॑म दे॒वमधि॑ नो ब्रवीतु ।  
+यजा॑म दे॒वमधि॑ नो ब्रवीतु ।
 </details>
-
 <details><summary>सायण-टीका</summary>
 
 भ्रियते संपाद्यते हविरत्रेति भरो यज्ञः । अस्मिन्भरे प्रजापतिं देवं वयं यजाम । कीदृशं देवं? रयीणां पतिं धनस्वामिनम् । यजतं यजनीयम् । बृहन्तं महान्तम् । नृतमं अतिशयेन पुरुषं पुरुषेषूत्तममित्यर्थः । ऋतस्य यज्ञस्य प्रथमजां प्रथममेव जनयितारं 'प्रजापतिर्यज्ञानसृजत' इत्यन्यत्र श्रवणात् । कीदृशे भरे? **वाजसातौ** वाजस्यान्नस्य सातिर्दानं यस्मिन्यज्ञे सोऽयं वाजसातिः तस्मिन् । सोऽयमस्माभिरिष्टः प्रजापतिर्देवेषु मध्ये नोऽस्मानधिकान्ब्रवीतु ॥
 </details>
-
+</details>
+</div>
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 8अथ पुरोडाशस्य पुरोनुवाक्यामाह - 
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/03_prajApate_tvan.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 प्रजा॑-पते॒ त्वन् नि॑धि॒-**पाᳶ** पु॑रा॒णः ।  
 दे॒वाना᳚म् पि॒ता, ज॑नि॒ता प्र॒जाना᳚म् ।  
 पति॒र् विश्व॑स्य॒, जग॑तᳶ पर॒स्-**पाः**+++(=पालकः)+++ ।   
-ह॒विर् नो॑ देव विह॒वे+++(=यज्ञे)+++ **जु॑षस्व** ।  
+ह॒विर् नो॑ देव विह॒वे+++(=यज्ञे)+++ **जु॑षस्व** ।
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/03_prajApate_tvan.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
 प्रजा॑पते॒ त्वन्नि॑धि॒पाᳶ पु॑रा॒णः ।  
 दे॒वाना᳚म्पि॒ता ज॑नि॒ता प्र॒जाना᳚म् ।  
 पति॒र्विश्व॑स्य॒ जग॑तᳶ पर॒स्पाः ।   
-ह॒विर्नो॑ देव विह॒वे जु॑षस्व ।  
+ह॒विर्नो॑ देव विह॒वे जु॑षस्व ।
 </details>
 <details><summary>सायण-टीका</summary>
 
 हे प्रजापते त्वं निधिपाः शङ्खपद्मादीनां निधीनां पालकः । पुराणो जगतः स्रष्टृत्वादनादिः । देवानां पिता पालकः । प्रजानां मनुष्यादीनां जनिता उत्पादयिता । विश्वस्य सर्वस्य जगतः पतिः स्वामी । **परस्पाः** अतिशयेन पालयिता । हे देव विशेषेण हूयन्ते देवा अत्रेति विहवो यज्ञस्तस्मिन्विहवे नोऽस्मदीयं हविर्जुषस्व ॥
 </details>
+</details>
+</div>
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 9अथ पुरोडाशस्य याज्यामाह - 
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/04_taveme_lokApH.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 तवे॒मे लो॒काᳶ प्र॒दिशो॒ दिश॑श् च ॥ 3 ॥  
 प॒रा॒वतो॑ नि॒वत॑+++(=अधरा)+++ उ॒द्वत॑श्+++(=ऊर्ध्वाश्)+++ च ।  
 प्रजा॑पते विश्व॒-**सृज्** जी॒व-ध॑न्य  
 इ॒दन् नो॑ देव **प्रति॑हर्य** ह॒व्यम् ।
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/04_taveme_lokApH.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
 तवे॒मे लो॒काᳶ प्र॒दिशो॒ दिश॑श्च ॥ 3 ॥  
@@ -388,48 +400,61 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 
 हे प्रजापते इमे लोका भूरादयो याश्च प्रदिशः प्रधानभूताः प्राच्याद्या या अप्यन्या आग्नेयाद्या दिशस्तत्सर्वं तवैवाधनिम् । लोका विशेष्यन्ते - परावतः दूरदेशस्था द्वीपान्तरादयः, यजनीयम् न्यग्भूताः पातालादयः, उद्वतश्चोर्ध्ववर्तिनः स्वर्गादयोऽपि । हे देव त्वं विश्वसृत् विश्वस्य स्रष्टा पाता वा । जनेषु प्राणिषु धन्यः ईश्वरो जीवधन्यः तादृशो भूत्वा नोऽस्मदीयमिद्रं हव्यं प्रतिहर्य प्रतिगृहाण ॥
 </details>
+</details>
+</div>
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 10अथ हविषः पुरोनुवाक्यामाह - 
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/05_prajApatim_prathamay.N.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 प्र॒जाप॑तिम् प्रथ॒मय्ँ य॒ज्ञिया॑नाम् ।  
 दे॒वाना॒म् अग्रे॑ यज॒तय्ँ **य॑जध्वम्** ।  
 स नो॑ **ददातु॒** द्रवि॑णꣳ सु॒वीर्य᳚म् ।  
-रा॒यस्-पोष॒व्ँ **वि ष्य॑तु॒**+++(=शिथिलयतु)+++ नाभि॑म्+++(=नहनं)+++ अ॒स्मे ।  
+रा॒यस्-पोष॒व्ँ **वि ष्य॑तु॒**+++(=शिथिलयतु)+++ नाभि॑म्+++(=नहनं)+++ अ॒स्मे ।
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/05_prajApatim_prathamay.N.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑तिम् प्रथ॒मय्ँ य॒ज्ञिया॑नाम् ।  
 दे॒वाना॒मग्रे॑ यज॒तय्ँय॑जध्वम् ।  
 स नो॑ ददातु॒ द्रवि॑णꣳ सु॒वीर्य᳚म् ।  
-रा॒यस्पोष॒व्ँवि ष्य॑तु॒ नाभि॑म॒स्मे ।  
+रा॒यस्पोष॒व्ँवि ष्य॑तु॒ नाभि॑म॒स्मे ।
 </details>
 <details><summary>सायण-टीका</summary>
 
 यज्ञियानां यज्ञयोग्यानां देवानां मध्ये प्रथमं मुख्यं प्रजापतिं यजतं यजनीयमग्रे यजध्वं हे ऋत्विजः आदौ पूजयत । स प्रजापतिर्नोऽस्मभ्यं द्रविणं घनं रायस्पोषं धनपुष्टिं सुवीर्यं शोभनसामर्थ्यं च ददातु प्रयच्छतु । नाभिं नहनं दारिद्य्रादिबन्धनमस्मे **विष्यतु** अस्मत्तः शिथिलयतु ॥
 </details>
-
+</details>
+</div>
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 11अथ हविषो याज्यामाह - 
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/06_yo_rAya.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 यो रा॒य **ईशे॑** शतदा॒य उ॒क्थ्यः॑ ।   
 यᳶ प॑शू॒नाꣳ **र॑ख्षि॒ता** विष्ठि॑तानाम् ।  
 प्र॒जाप॑तिᳶ प्रथम॒-जा ऋ॒तस्य॑ ॥ 4 ॥  
-स॒हस्र॑-धामा **जुषताꣳ** ह॒विर् नः॑ ।  
+स॒हस्र॑-धामा **जुषताꣳ** ह॒विर् नः॑ ।
 </details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/06_yo_rAya.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
 यो रा॒य ईशे॑ शतदा॒य उ॒क्थ्यः॑ ।   
 यᳶ प॑शू॒नाꣳ र॑ख्षि॒ता विष्ठि॑तानाम् ।  
 प्र॒जाप॑तिᳶ प्रथम॒जा ऋ॒तस्य॑ ॥ 4 ॥  
-स॒हस्र॑धामा जुषताꣳ ह॒विर्नः॑ ।  
+स॒हस्र॑धामा जुषताꣳ ह॒विर्नः॑ ।
 </details>
 <details><summary>सायण-टीका</summary>
 
 यः प्रजापतिः शतदायः शतसंख्याकधनप्रदः उक्थ्यः स्तुत्यस्सन् राय ईशे धनस्येश्वरो भवति । यश्च प्रजापतिर्विष्ठितानां विविधमवस्थितानां गोमहिषादीनां पशूनां रक्षिता वर्तते । स प्रजापतिः ऋतस्य यज्ञस्य प्रथमजाः प्रथममुत्पादकः सहस्रधामा सहस्रसंख्याकस्थानयुक्तस्सन् नोऽस्मदीयं हविर्जुषताम् ॥
 </details>
+</details>
+</div>

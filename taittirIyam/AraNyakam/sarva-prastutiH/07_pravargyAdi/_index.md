@@ -88,8 +88,133 @@ unicode_script = "devanagari"
 भूर्भुव॒स्सुवो॒ भूर्भुव॒स्सुवो॒ भूर्भुव॒स्सुवः॑ । भुवो᳚ऽद्धायि॒ भुवो᳚ऽद्धायि॒ भुवो᳚ऽद्धायि । नृ॒म्णायि नृ॒म्णं नृ॒म्णायि नृ॒म्णं नृ॒म्णायि नृ॒म्णम् । नि॒धाय्यो॑ वायि नि॒धाय्यो॑ वायि नि॒धाय्यो॑ वायि । ए अ॒स्मे अ॒स्मे । सुव॒र्न ज्योतीः᳚ । (81)  
 पृ॒थि॒वी स॒मित् । ताम॒ग्निस्समि॑न्धे । साऽग्निꣳ समि॑न्धे । ताम॒हꣳ समि॑न्धे । सा मा॒ समि॑द्धा । आयु॑षा॒ तेज॑सा । वर्च॑सा श्रि॒या । यश॑सा ब्रह्मवर्च॒सेन॑ । अ॒न्नाद्ये॑न॒ समि॑न्ता॒ꣳ॒ स्वाहा᳚ । अ॒न्तरि॑क्ष॒ꣳ॒ स॒मित् । (82)  
 ताव्ँ वा॒युस्समि॑न्धे । सा वा॒युꣳ समि॑न्धे । ताम॒हꣳ समि॑न्धे । सा मा॒ समि॑द्धा । आयु॑षा॒ तेज॑सा । वर्च॑सा श्रि॒या । यश॑सा ब्रह्मवर्च॒सेन॑ । अ॒न्नाद्ये॑न॒ समि॑न्ता॒ꣳ॒ स्वाहा᳚ । द्यौस्स॒मित् । तामा॑दि॒त्यस्समि॑न्धे । (83)  
-साऽऽदि॒त्यꣳ समि॑न्धे । ताम॒हꣳ समि॑न्धे । सा मा॒ समि॑द्धा । आयु॑षा॒ तेज॑सा । वर्च॑सा श्रि॒या । यश॑सा ब्रह्मवर्च॒सेन॑ । अ॒न्नाद्ये॑न॒ समिन्ता॒ꣳ॒ स्वाहा᳚ । प्रा॒जा॒प॒त्या मे॑ स॒मिद॑सि सपत्न॒ख्षय॑णी । भ्रा॒तृ॒व्य॒हा मे॑ऽसि॒ स्वाहा᳚ । अग्ने᳚ व्रतपते व्र॒तञ्च॑रिष्यामि । (84)  
-तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् । वायो᳚ व्रतपत॒ आदि॑त्य व्रतपते । व्र॒ताना᳚व्ँव्रतपते व्र॒तञ्च॑रिष्यामि । तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् । द्यौस्स॒मित् । तामा॑दि॒त्यस्समि॑न्धे । साऽऽदि॒त्यꣳ समि॑न्धे । ताम॒हꣳ समि॑न्धे । सा मा॒ समि॑द्धा । आयु॑षा॒ तेज॑सा । (85)  
+साऽऽदि॒त्यꣳ समि॑न्धे । ताम॒हꣳ समि॑न्धे । सा मा॒ समि॑द्धा । आयु॑षा॒ तेज॑सा । वर्च॑सा श्रि॒या । यश॑सा ब्रह्मवर्च॒सेन॑ । अ॒न्नाद्ये॑न॒ समिन्ता॒ꣳ॒ स्वाहा᳚ । प्रा॒जा॒प॒त्या मे॑ स॒मिद॑सि सपत्न॒ख्षय॑णी । भ्रा॒तृ॒व्य॒हा मे॑ऽसि॒ स्वाहा᳚ । 
+
+<div class="js_include" url="84_agne_vratapate.md"  newLevelForH1="5" includeTitle="false"> 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अग्ने᳚ व्रतपते!
+</details>
+
+<details><summary>मूलम्</summary>
+
+अग्ने᳚ व्रतपते!
+</details>
+
+
+
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+(…) व्र॒तञ्च॑रिष्यामि । (84)  
+तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details><summary>मूलम्</summary>
+
+(…) व्र॒तञ्च॑रिष्यामि । (84)  
+तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
+</details>
+</details>
+</div>
+
+
+<details><summary>संयुक्त-मूलम्</summary>
+
+वायो᳚ व्रतपत॒ आदि॑त्य व्रतपते ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वायो᳚ व्रतपते
+</details>
+
+<details><summary>मूलम्</summary>
+
+वायो᳚ व्रतपते
+</details>
+
+
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+(…) व्र॒तञ्च॑रिष्यामि । (84)  
+तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details><summary>मूलम्</summary>
+
+(…) व्र॒तञ्च॑रिष्यामि । (84)  
+तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
+</details>
+</details>
+</div>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आदि॑त्य व्रतपते
+</details>
+
+<details><summary>मूलम्</summary>
+
+आदि॑त्य व्रतपते
+</details>
+
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+(…) व्र॒तञ्च॑रिष्यामि । (84)  
+तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details><summary>मूलम्</summary>
+
+(…) व्र॒तञ्च॑रिष्यामि । (84)  
+तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
+</details>
+</details>
+</div>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+व्र॒ताना᳚व्ँव्रतपते
+</details>
+
+<details><summary>मूलम्</summary>
+
+व्र॒ताना᳚व्ँव्रतपते
+</details>
+
+
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+(…) व्र॒तञ्च॑रिष्यामि । (84)  
+तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details><summary>मूलम्</summary>
+
+(…) व्र॒तञ्च॑रिष्यामि । (84)  
+तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
+</details>
+</details>
+</div>
+
+</div>  
+
+
+द्यौस्स॒मित् । तामा॑दि॒त्यस्समि॑न्धे । साऽऽदि॒त्यꣳ समि॑न्धे । ताम॒हꣳ समि॑न्धे । सा मा॒ समि॑द्धा । आयु॑षा॒ तेज॑सा । (85)  
 वर्च॑सा श्रि॒या । यश॑सा ब्रह्मवर्च॒सेन॑ । अ॒न्नाद्ये॑न॒ समि॑न्ता॒ꣳ॒ स्वाहा᳚ । अ॒न्तरि॑ख्षꣳ स॒मित् । ताव्ँ वा॒युस्समि॑न्धे । सा वा॒युꣳ समि॑न्धे । ताम॒हꣳ समि॑न्धे । सा मा॒ समि॑द्धा । आयु॑षा॒ तेज॑सा । वर्च॑सा श्रि॒या । (86)  
 यश॑सा ब्रह्मवर्च॒सेन॑ । अ॒न्नाद्ये॑न॒ समि॑न्ता॒ꣳ॒ स्वाहा᳚ । पृ॒थि॒वी स॒मित् । ताम॒ग्निस्समि॑न्धे । साऽग्निꣳ समि॑न्धे । ताम॒हꣳ समि॑न्धे । सा मा॒ समि॑द्धा । आयु॑षा॒ तेज॑सा । वर्च॑सा श्रि॒या । यश॑सा ब्रह्मवर्च॒सेन॑ । (87)  
 अ॒न्नाद्ये॑न॒ समि॑न्ता॒ꣳ॒ स्वाहा᳚ । प्रा॒जा॒प॒त्या मे॑ स॒मिद॑सि सपत्न॒ख्षय॑णी । भ्रा॒तृ॒व्य॒हा मे॑ऽसि॒ स्वाहा᳚ । आदि॑त्य व्रतपते व्र॒तम॑चारिषम् । तद॑शक॒न्तन्मे॑ऽराधि । वायो᳚ व्रतप॒तेऽग्ने᳚ व्रतपते । व्र॒ताना᳚व्ँव्रतपते व्र॒तम॑चारिषम् । तद॑शक॒न्तन्मे॑ऽराधि ॥ (88)  
