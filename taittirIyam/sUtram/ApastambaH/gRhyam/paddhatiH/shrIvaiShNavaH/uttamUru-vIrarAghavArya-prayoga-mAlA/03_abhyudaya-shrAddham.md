@@ -107,23 +107,28 @@ O earth mother, do not harm me.
 
 तस्मात् हे पृथिवि मातः सर्वस्य रक्षिके मा मा हिंसीः ।
 </details>
+</details>
+</div>
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/3/3/02_stotropAkaraNam_pratigarAngamantrAshcha/madhu_maniShye.md"  newLevelForH1="5" includeTitle="false">   
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मधु॑ **मनिष्ये** ।  
 मधु॑ **जनिष्ये** ।  
 मधु॑ **वख्ष्यामि** ।  
-मधु॑ **वदिष्यामि** ।  
+मधु॑ **वदिष्यामि** ।
 </details>
 <details><summary>Keith</summary>
 
-Of honey shall I think, honey shall I produce, honey shall I proclaim, honey shall I speak, 
+Of honey shall I think, honey shall I produce, honey shall I proclaim, honey shall I speak,
 </details>
 <details><summary>मूलम्</summary>
 
 मधु॑ मनिष्ये ।  
 मधु॑ जनिष्ये ।  
 मधु॑ वख्ष्यामि ।  
-मधु॑ वदिष्यामि ।  
+मधु॑ वदिष्यामि ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -168,10 +173,10 @@ May the gods aid me to radiance, may the Pitrs rejoice in me.
 तं मामेवंगुणं देवा अवन्तु रक्षन्तु शोभायै यथा मया कृतं शोभते तथा अनुमदन्तु अनुमोदन्तां, उत्कृष्टत्वेन समीचीनं करोतीति शोभार्थं पितरश्च अनुमोदन्तु । माद्यतेर्व्यत्ययेन शप् ॥
 
 
-इति तृतीये तृतीये द्वितीयोनुवाकः ॥  
-</details>
+इति तृतीये तृतीये द्वितीयोनुवाकः ॥
 </details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/03_bhaxyAnumantraNAdi/iDa_ehi.md">
 <details open><summary><h5>इड॒ एहि॑ ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

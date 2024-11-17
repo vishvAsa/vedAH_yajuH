@@ -334,23 +334,28 @@ O earth mother, do not harm me.
 
 तस्मात् हे पृथिवि मातः सर्वस्य रक्षिके मा मा हिंसीः ।
 </details>
+</details>
+</div>
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/3/3/02_stotropAkaraNam_pratigarAngamantrAshcha/madhu_maniShye.md"  newLevelForH1="5" includeTitle="false">   
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मधु॑ **मनिष्ये** ।  
 मधु॑ **जनिष्ये** ।  
 मधु॑ **वख्ष्यामि** ।  
-मधु॑ **वदिष्यामि** ।  
+मधु॑ **वदिष्यामि** ।
 </details>
 <details><summary>Keith</summary>
 
-Of honey shall I think, honey shall I produce, honey shall I proclaim, honey shall I speak, 
+Of honey shall I think, honey shall I produce, honey shall I proclaim, honey shall I speak,
 </details>
 <details><summary>मूलम्</summary>
 
 मधु॑ मनिष्ये ।  
 मधु॑ जनिष्ये ।  
 मधु॑ वख्ष्यामि ।  
-मधु॑ वदिष्यामि ।  
+मधु॑ वदिष्यामि ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -395,36 +400,7 @@ May the gods aid me to radiance, may the Pitrs rejoice in me.
 तं मामेवंगुणं देवा अवन्तु रक्षन्तु शोभायै यथा मया कृतं शोभते तथा अनुमदन्तु अनुमोदन्तां, उत्कृष्टत्वेन समीचीनं करोतीति शोभार्थं पितरश्च अनुमोदन्तु । माद्यतेर्व्यत्ययेन शप् ॥
 
 
-इति तृतीये तृतीये द्वितीयोनुवाकः ॥  
-</details>
-</details>
-</div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/03_bhaxyAnumantraNAdi/iDa_ehi.md">
-<details open><summary><h5>इड॒ एहि॑ ...{Loading}...</h5></summary>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-इड॒ एहि॑+++(=आ+इ॑हि)+++ ।  
-अदि॑त॒ एहि॑ ।  
-सर॑स्व॒त्य् एहि॑+++(=आ+इ॑हि)+++ ।
-</details>
-<details><summary>Keith</summary>
-
-O Ida, come hither; O Aditi, come hither; 
-O Sarasvati, come hither.
-</details>
-<details><summary>मूलम्</summary>
-
-इड॒ एहि॑ ।  
-अदि॑त॒  एहि॑ ।  
-सर॑स्व॒त्येहि॑ ।
-</details>
-<details><summary>भट्टभास्कर-टीका</summary>
-
-**इडादयश्** शब्दा गवां नामानि, यथा - 'इडे रन्तेदिते सरस्वति प्रिये प्रेयसि महि विश्रुत्येतनि ते अघ्निये नामानि' इति । ताच्-छब्द्येनेडा स्तूयते । 
-
-तत्र गवां भेदान् **निमृढ्वम्** इति बहुवचनम् उपपद्यते, हे इडादयो यूयमागत्य मां निमृढ्वमिति ।  यदा तु गोभिर् अभेदेनेडोच्यते हे इडादिरूपे इड इति तदा त्वेकवचनम् एव न्याय्यम् । **इडा** पशुसाधनीड्या वा । **अदितिर्** अदीना अखण्डनीया ।  
-सरस्वती सरणवती सरस्वतीसदृशा वा ।
-</details>
+इति तृतीये तृतीये द्वितीयोनुवाकः ॥
 </details>
 </div>
 
