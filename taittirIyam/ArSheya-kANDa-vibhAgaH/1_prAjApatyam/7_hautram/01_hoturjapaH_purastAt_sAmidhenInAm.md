@@ -1,7 +1,10 @@
----
-title: १  होतुर्जपः पुरस्तात् सामिधेनीनाम्
-unicode_script: devanagari
----
++++
+title = "०१ होतुर्जपः पुरस्तात् सामिधेनीनाम्"
+unicode_script = "devanagari"
+
++++
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/3/5_iShTi-hautrAdi/01_hoturjapaH_purastAt_sAmidhenInAm"  newLevelForH1="1" includeTitle="true">
+
 ## प्राजापत्यं काण्डम्
 ## इष्टिहौत्रम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -102,4 +105,4 @@ unicode_script: devanagari
 इति तैत्तिरीयब्राह्मणे तृतीये पञ्चमे इष्टिहौत्रे प्रथमोऽनुवाकः ॥  
 
 </details>
-
+</div>
