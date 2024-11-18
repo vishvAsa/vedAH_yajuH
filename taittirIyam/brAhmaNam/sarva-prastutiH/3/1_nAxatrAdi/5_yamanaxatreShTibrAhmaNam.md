@@ -1,5 +1,5 @@
 ---
-title: ५, यमनक्षत्रेष्टिब्राह्मणम् 
+title: ५ यमनक्षत्रेष्टिब्राह्मणम् 
 unicode_script: devanagari
 ---
 

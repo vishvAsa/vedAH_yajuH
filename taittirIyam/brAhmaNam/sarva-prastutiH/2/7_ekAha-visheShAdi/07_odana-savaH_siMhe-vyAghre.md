@@ -1,5 +1,5 @@
 ---
-title: ०७, ओदन-सवः - सिंहे व्याघ्रे
+title: ०७ ओदन-सवः - सिंहे व्याघ्रे
 unicode_script: devanagari
 
 ---

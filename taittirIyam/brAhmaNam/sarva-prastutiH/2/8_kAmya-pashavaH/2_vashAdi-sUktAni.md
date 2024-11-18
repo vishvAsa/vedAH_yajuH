@@ -1,5 +1,5 @@
 ---
-title: ०२, वशादीनां सूक्तानि
+title: ०२ वशादीनां सूक्तानि
 unicode_script: devanagari
 ---
 

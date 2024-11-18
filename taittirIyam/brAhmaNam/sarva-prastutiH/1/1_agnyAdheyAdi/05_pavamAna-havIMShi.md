@@ -1,5 +1,5 @@
 ---
-title: ०५, पवमानहवींषि
+title: ०५ पवमानहवींषि
 unicode_script: devanagari
 
 ---

@@ -1,5 +1,5 @@
 ---
-title:  ०३, विषुवदादिग्रहाः
+title:  ०३ विषुवदादिग्रहाः
 unicode_script: devanagari
 ---
 

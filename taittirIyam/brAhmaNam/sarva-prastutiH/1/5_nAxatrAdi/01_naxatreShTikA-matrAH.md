@@ -1,5 +1,5 @@
 ---
-title: ०१, नक्षत्रेष्टका-मन्त्राः
+title: ०१ नक्षत्रेष्टका-मन्त्राः
 unicode_script: devanagari
 
 ---

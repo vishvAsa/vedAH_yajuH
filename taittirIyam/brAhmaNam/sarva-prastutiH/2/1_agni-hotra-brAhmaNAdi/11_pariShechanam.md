@@ -1,5 +1,5 @@
 ---
-title:  ११, परिषेचनम्
+title:  ११ परिषेचनम्
 unicode_script: devanagari
 ---
 

@@ -1,5 +1,5 @@
 ---
-title:  ०१, अग्निहोत्रस्योपोद्घातः
+title:  ०१ अग्निहोत्रस्योपोद्घातः
 unicode_script: devanagari
 ---
 

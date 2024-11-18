@@ -1,5 +1,5 @@
 ---
-title: ०८, वेहदादिपशूनां  सूक्तानि
+title: ०८ वेहदादिपशूनां  सूक्तानि
 unicode_script: devanagari
 
 ---

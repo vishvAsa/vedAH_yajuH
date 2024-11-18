@@ -1,5 +1,5 @@
 ---
-title: ११, शंयुवाकः
+title: ११ शंयुवाकः
 unicode_script: devanagari
 ---
 

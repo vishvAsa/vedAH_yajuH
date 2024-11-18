@@ -1,5 +1,5 @@
 ---
-title: ०५, अभिषेकः
+title: ०५ अभिषेकः
 unicode_script: devanagari
 
 ---

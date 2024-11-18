@@ -1,5 +1,5 @@
 ---
-title:  ०५, काम्यानि होमद्रव्याणि
+title:  ०५ काम्यानि होमद्रव्याणि
 unicode_script: devanagari
 ---
 
