@@ -2,7 +2,7 @@
 title = "१२ आघारः"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/1_darshapUrNamAsAdi/12_AghAraH.md"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/1_darshapUrNamAsAdi/12_AghAraH"  newLevelForH1="1" includeTitle="true">
 
 १ एकपदा गायत्री, ८ द्विपदा गायत्री ।  प्रजापतिर्ऋषिः
 ____

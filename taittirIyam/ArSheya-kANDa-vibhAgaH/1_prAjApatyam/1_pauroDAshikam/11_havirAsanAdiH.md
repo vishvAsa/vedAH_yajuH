@@ -2,7 +2,7 @@
 title = "११ हविरासनादिः"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/1_darshapUrNamAsAdi/11_havirAsanAdiH.md"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/1_darshapUrNamAsAdi/11_havirAsanAdiH"  newLevelForH1="1" includeTitle="true">
 
 इध्मबर्हिःपूर्वकं वेद्यां हविरासादनादिः।  
 १४ गायत्री, २० एकपदा त्रिष्टुप् ।

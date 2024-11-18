@@ -2,7 +2,7 @@
 title = "०२ बर्हिरास्तरणम्"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam.md"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam"  newLevelForH1="1" includeTitle="true">
 
 ३ त्रिष्टुप् , ८ एकपदा त्रिष्टुप् १८ एकपदा गायत्री । प्रजापतिर्ऋषिः
 

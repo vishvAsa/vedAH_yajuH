@@ -2,7 +2,7 @@
 title = "१३ स्रुग्-व्यूहनादिः"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/1_darshapUrNamAsAdi/13_srug-vyUhanAdiH.md"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/1_darshapUrNamAsAdi/13_srug-vyUhanAdiH"  newLevelForH1="1" includeTitle="true">
 
 १-२ अनुष्टुप्  
 १२ पुरस्तात् ज्योतिस्त्रिष्टुप्  

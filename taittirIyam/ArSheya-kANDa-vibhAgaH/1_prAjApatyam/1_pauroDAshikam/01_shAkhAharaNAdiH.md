@@ -2,7 +2,7 @@
 title = "०१ शाखाहरणादिः"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/1_darshapUrNamAsAdi/01_shAkhAharaNAdiH.md"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/1_darshapUrNamAsAdi/01_shAkhAharaNAdiH"  newLevelForH1="1" includeTitle="true">
 
 ४ द्विपदा विराड् गायत्री, ५ मध्ये ज्योतिस्त्रिष्टुप्, ६-७ एकपदा त्रिष्टुप् । प्रजापतिर्ऋषिः
 

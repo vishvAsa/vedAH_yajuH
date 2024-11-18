@@ -2,7 +2,7 @@
 title = "०४ हविर्निर्वापः"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH.md"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH"  newLevelForH1="1" includeTitle="true">
 
 प्रजापतिर्ऋषिः  
 - प्रतिपद्दिनकर्तव्यकर्माङ्गमन्त्राः ४-१३ अनुवाकाः

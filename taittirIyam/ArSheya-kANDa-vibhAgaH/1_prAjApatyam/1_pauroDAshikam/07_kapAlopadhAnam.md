@@ -2,7 +2,7 @@
 title = "०७ कपालोपधानम्"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/1_darshapUrNamAsAdi/07_kapAlopadhAnam.md"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/1_darshapUrNamAsAdi/07_kapAlopadhAnam"  newLevelForH1="1" includeTitle="true">
 
 १२ अनुष्टुप् ।  प्रजापतिर्ऋषिः
 

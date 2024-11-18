@@ -2,7 +2,7 @@
 title = "०९ वेदि-करणम्"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/1_darshapUrNamAsAdi/09_vedikaraNam.md"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/1_darshapUrNamAsAdi/09_vedikaraNam"  newLevelForH1="1" includeTitle="true">
 
 २० द्विपदा गायत्री  
 २४ एकपदा त्रिष्टुप्  

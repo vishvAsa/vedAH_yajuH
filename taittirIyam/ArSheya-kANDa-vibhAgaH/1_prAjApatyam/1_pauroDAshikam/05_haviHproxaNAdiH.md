@@ -2,7 +2,7 @@
 title = "०५ हविःप्रोक्षणादिः"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/1_darshapUrNamAsAdi/05_haviHproxaNAdiH.md"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/1_darshapUrNamAsAdi/05_haviHproxaNAdiH"  newLevelForH1="1" includeTitle="true">
 
 (व्रीह्यवघातः)
 

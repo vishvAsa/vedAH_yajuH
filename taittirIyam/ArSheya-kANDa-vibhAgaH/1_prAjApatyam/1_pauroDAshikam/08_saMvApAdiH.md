@@ -2,7 +2,7 @@
 title = "०८ संवापादिः"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/1_darshapUrNamAsAdi/08_saMvApAdiH.md"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/1_darshapUrNamAsAdi/08_saMvApAdiH"  newLevelForH1="1" includeTitle="true">
 
 २ उपरिष्टाद् बृहती
 ३-४, ११ एकपदा गायत्री
