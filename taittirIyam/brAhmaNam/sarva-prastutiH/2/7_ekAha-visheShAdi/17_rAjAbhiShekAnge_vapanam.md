@@ -1,5 +1,5 @@
 ---
-title: १७राजाभिषेकाङ्गे वपनम्
+title: १७ राजाभिषेकाङ्गे वपनम्
 unicode_script: devanagari
 ---
 

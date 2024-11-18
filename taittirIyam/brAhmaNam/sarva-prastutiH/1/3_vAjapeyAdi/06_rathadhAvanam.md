@@ -1,5 +1,5 @@
 ---
-title: ०६रथधावनम्
+title: ०६ रथधावनम्
 unicode_script: devanagari
 ---
 

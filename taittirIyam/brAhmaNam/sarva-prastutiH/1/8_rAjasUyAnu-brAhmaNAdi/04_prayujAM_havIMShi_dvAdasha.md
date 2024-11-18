@@ -1,5 +1,5 @@
 ---
-title:  ०४प्रयुजां हवींषि द्वादश 
+title:  ०४ प्रयुजां हवींषि द्वादश 
 unicode_script: devanagari
 ---
 
