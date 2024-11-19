@@ -1,5 +1,5 @@
 +++
-title = "०१ प्राचीनवंशाख्यशालानिर्माणं क्षौरादिभिः संस्कृतस्य यजमानस्य तत्र प्रवेशविधानम्"
+title = "०१ प्राचीनवंशाख्यशालानिर्माणं क्षौरादिभिः सं"
 
 +++
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/6/1/01_prAchInavaMshAkhyashAlAnirmANaM_xaurAdibhiH_saM"  newLevelForH1="1" includeTitle="true">

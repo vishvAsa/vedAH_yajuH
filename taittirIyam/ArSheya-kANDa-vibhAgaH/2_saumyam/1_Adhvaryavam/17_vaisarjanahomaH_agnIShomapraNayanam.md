@@ -1,5 +1,5 @@
 +++
-title = "१७ वैसर्जनहोमः, अग्नीषोमप्रणयनम्"
+title = "१७ वैसर्जनहोमः अग्नीषोमप्रणयनम्"
 
 +++
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/3_agniShToma-pashv-Adi/04_vaisarjanahomaH_agnIShomapraNayanam"  newLevelForH1="1" includeTitle="true">

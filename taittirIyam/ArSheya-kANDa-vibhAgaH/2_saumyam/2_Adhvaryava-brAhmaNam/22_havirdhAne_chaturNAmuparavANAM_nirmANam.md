@@ -1,5 +1,5 @@
 +++
-title = "२२ हविर्धाने चतुर्णामुपरवाणां निर्माणम््"
+title = "२२ हविर्धाने चतुर्णामुपरवाणां निर्माणम्"
 
 +++
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/6/2/11_havirdhAne_chaturNAmuparavANAM_nirmANam"  newLevelForH1="1" includeTitle="true">

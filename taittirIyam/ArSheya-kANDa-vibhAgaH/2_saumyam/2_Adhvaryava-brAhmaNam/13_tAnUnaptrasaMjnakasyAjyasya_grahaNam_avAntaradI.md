@@ -1,5 +1,5 @@
 +++
-title = "१३ तानूनप्त्रसंज्ञकस्याज्यस्य ग्रहणम् , अवान्तरदीक्षा च"
+title = "१३ तानूनप्त्रसंज्ञकस्याज्यस्य ग्रहणम् अवान्तरदी"
 
 +++
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/6/2/02_tAnUnaptrasaMjnakasyAjyasya_grahaNam_avAntaradI"  newLevelForH1="1" includeTitle="true">

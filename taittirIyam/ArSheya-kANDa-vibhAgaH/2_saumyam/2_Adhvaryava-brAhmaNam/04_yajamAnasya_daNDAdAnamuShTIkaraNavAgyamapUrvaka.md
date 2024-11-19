@@ -1,5 +1,5 @@
 +++
-title = "०४ यजमानस्य दण्डादानमुष्टीकरणवाग्यमपूर्वकं नियमानुष्ठानम्"
+title = "०४ यजमानस्य दण्डादानमुष्टीकरणवाग्यमपूर्वक"
 
 +++
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/6/1/04_yajamAnasya_daNDAdAnamuShTIkaraNavAgyamapUrvaka"  newLevelForH1="1" includeTitle="true">

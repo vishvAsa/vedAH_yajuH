@@ -1,5 +1,5 @@
 +++
-title = "२० पशूपाकरणम् (अग्निमन्थनादि)"
+title = "२० पशूपाकरणम्"
 
 +++
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/3_agniShToma-pashv-Adi/07_pashUpAkaraNam"  newLevelForH1="1" includeTitle="true">

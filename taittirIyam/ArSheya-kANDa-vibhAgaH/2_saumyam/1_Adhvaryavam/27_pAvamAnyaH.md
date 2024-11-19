@@ -1,5 +1,5 @@
 +++
-title = "२७ पावमानीमन्त्राः"
+title = "२७ पावमान्यः"
 unicode_script = "devanagari"
 
 +++

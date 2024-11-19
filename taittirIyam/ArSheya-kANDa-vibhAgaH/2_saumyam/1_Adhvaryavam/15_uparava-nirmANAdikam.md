@@ -1,5 +1,5 @@
 +++
-title = "१५ उपरवनिर्माणादिकम्"
+title = "१५ उपरव-निर्माणादिकम्"
 
 +++
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/3_agniShToma-pashv-Adi/02_uparava-nirmANAdikam"  newLevelForH1="1" includeTitle="true">
