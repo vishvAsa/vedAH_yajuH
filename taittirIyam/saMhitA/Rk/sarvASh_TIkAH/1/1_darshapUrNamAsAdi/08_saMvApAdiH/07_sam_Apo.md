@@ -17,6 +17,12 @@ Join ye rich ones with the moving ones, sweet ones with the sweet.
 +++([वाजसनेयीसंहितानुसारेण](http://titus.uni-frankfurt.de/texte/etcd/ind/aind/ved/yvw/vs/vst.htm) अत्र मन्त्रविभागः कृतः)+++
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+समिति॑ । आपः॑ । अ॒द्भिरित्य॑त्-भिः । अ॒ग्म॒त॒ । समिति॑ । ओष॑धयः । रसे॑न । 3C । समिति॑ । रे॒वतीः᳚ । जग॑तीभिः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । मधु॑मतीभि॒रिति॒ मधु॑-म॒ती॒भिः॒ । सृ॒ज्य॒ध्व॒म्॒ ।
+</details>
+
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 2प्रणीता मदन्तीरानीयमानाः प्रतिमन्त्रयते - समाप इति वस्वष्टवस्वादित्यपदया उपरिष्टाद्बृहत्या ॥  
