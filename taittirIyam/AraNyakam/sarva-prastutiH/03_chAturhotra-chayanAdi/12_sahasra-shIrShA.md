@@ -3570,12 +3570,12 @@ Sieben Umschlusshölzer waren ihm, dreimal sieben Schichten des Brennholzes wurd
 ### पुरुषस्तुतिः, यज्ञस्तुतिः
 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/03_chAturhotra-chayanAdi/32-38_sahasra-shIrShA/16_vedAham_etam.md" newLevelForH1="5" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/03_chAturhotra-chayanAdi/12_sahasra-shIrShA/16_vedAham_etam.md" newLevelForH1="5" includeTitle="false"> </div>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/03_chAturhotra-chayanAdi/32-38_sahasra-shIrShA/16_vedAham_etam.md" newLevelForH1="5" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/03_chAturhotra-chayanAdi/12_sahasra-shIrShA/16_vedAham_etam.md" newLevelForH1="5" includeTitle="false"> </div>
 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/03_chAturhotra-chayanAdi/32-38_sahasra-shIrShA/17_dhAtA_purastAt.md" newLevelForH1="5" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/03_chAturhotra-chayanAdi/12_sahasra-shIrShA/17_dhAtA_purastAt.md" newLevelForH1="5" includeTitle="false"> </div>
 
 
 

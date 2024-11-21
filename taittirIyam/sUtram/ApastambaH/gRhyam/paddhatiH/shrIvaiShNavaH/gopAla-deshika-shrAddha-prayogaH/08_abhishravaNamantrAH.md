@@ -545,7 +545,7 @@ And the Vasus gathered together.
 ३. पुरुषसूक्तम् (पु. ७१)
 
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/32-38_sahasra-shIrShA/">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/12_sahasra-shIrShA/">
 <details open><summary><h5>३२-३८ सहस्र-शीर्षा ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarva-prastutiH/10/090">
 <details open><summary><h7>०९० ...{Loading}...</h7></summary>
