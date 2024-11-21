@@ -669,5 +669,4 @@ Let the god Savitr of golden hands, seize you.
 </details>
 </div>  
 
-
 इति पञ्चमोनुवाकः ॥
