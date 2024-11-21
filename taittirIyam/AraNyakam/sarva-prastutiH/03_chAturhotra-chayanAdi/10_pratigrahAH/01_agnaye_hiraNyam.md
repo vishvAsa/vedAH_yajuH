@@ -1,58 +1,10 @@
 +++
-title = "०७ उत्थापनम्"
+title = "०१ अग्नये हिरण्यम्"
 
 +++
 
-## दण्ड-ग्रहणम्
-‘सुश्रवः सुश्रवसम्' इति पालाशं बैल्वं वा दण्डं धारयित्वा 
-
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/01_sushravassushravasam_mA.md">
-<details open><summary><h2>०१ सुश्रवस्सुश्रवसम् मा ...{Loading}...</h2></summary>
-
-
-सु॒श्रव॑स् +++(पलाश!)+++ सु॒श्रव॑सं मा कुरु।+++(५)+++  
-यथा॒ त्वꣳ सु॒श्रव॑स् सु॒श्रवा॑ अस्य्, ए॒वम् अ॒हꣳ सु॒श्रव॑स् सु॒श्रवा॑ भूयासम्॥  
-यथा॒ त्वꣳ सु॒श्रव॑स्! सु॒श्रवो॑! दे॒वानां॑ निधिगो॒पो॑ ऽस्य्,  
-ए॒वम॒हं ब्रा॑ह्म॒णानां॒ ब्रह्म॑णो निधि-गो॒पो भू॑यासम् ।+++(५)+++  
-
-</details>
-</div>
-
-## व्रतसङ्कल्पः कुमारेण
-
-‘स्मृतं च मे' इत्यादि 'सर्वव्रतो भूयासम्' इत्यन्तं वाचयेत् । 
-
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/02-10_smRtancha_me.md">
-<details open><summary><h2>०२-१० स्मृतञ्च मे ...{Loading}...</h2></summary>
-
-
-स्मृ॒तञ् च॒ मे, ऽस्मृ॑तञ्च मे॒ - तन् म॑ उ॒भयं॑ व्र॒तं,  
-नि॒न्दा च॒ मे ऽनि॑न्दा च मे॒ - तन् म॑ उ॒भयं॑ व्र॒त२ꣳ,  
-श्र॒द्धा च॒ मे ऽश्र॑द्धा च मे॒ - तन् म॑ उ॒भयं॑ व्र॒तं,  
-वि॒द्या च॒ मे ऽवि॑द्या च मे॒ - तन् म॑ उ॒भयं॑ व्र॒त२ꣳ,  
-श्रु॒तञ् च॒ मे ऽश्रु॑तञ्च मे॒ - तन् म॑ उ॒भयं॑ व्र॒तꣳ,  
-स॒त्यञ् च॒ मे ऽनृ॑तञ्च मे॒ - तन् म॑ उ॒भयं॑ व्र॒तं,  
-तप॑श् च॒ मे ऽत॑पश्च मे॒ - तन् म॑ उ॒भयं॑ व्र॒तं,  
-व्र॒तञ् च॒ मे ऽव्र॑तञ्च मे॒ - तन् म॑ उ॒भयं॑ व्र॒तं,  
-
-यद् ब्रा॑ह्म॒णानां॒ ब्रह्म॑णि+++(=वेदविषये)+++ व्र॒तम्,  
-यद् अ॒ग्नेस् +++(→यातृत्वं)+++ सेन्द्र॑स्य॒ +++(→प्राधान्यम्)+++ सप्र॑जापतिकस्य॒ +++(→स्रष्टृत्वं)+++ सदे॑वस्य॒ +++(→दातृत्वादि)+++ सदे॑वराजस्य॒ सम॑नुष्यस्य॒ +++(→प्रियवचनादि)+++ सम॑नुष्यराजस्य॒ +++(→प्रजारक्षणम्)+++ सपि॑तृकस्य॒ +++(→पुत्रोत्पत्ति)+++ सपि॑तृराजस्य॒ +++(यमस्य → सर्वसमत्वं)+++ सग॑न्धर्वाप्सर॒स्कस्य॑ +++(→परिचरणकौशलम्, उदात्तद्वयम्?? )+++,  
-यन् म॑ आ॒त्मन॑ आ॒त्मनि॑ व्र॒तन्,  
-तेना॒हꣳ सर्व॑व्रतो भूयासम् ।  
-
-</details>
-</div>
-
-## वर-दानम्
-
-कुमारो वरं ते ददामि इति गुरवे गां दद्यात् ।  
-अथाचार्यो दक्षिण-नासिकया वायुं सप्त-दश-कृत्वः आरोप्य  
-'देवस्ये'त्युक्त्वा 'राजा त्वा वरुणो नयतु देवि दक्षिणे रुद्राय गाम्’ इत्यादि ‘आङ्गीरसः प्रतिगृह्णातु' इत्यन्तम् उक्त्वा प्रतिगृह्य 
-
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/10_pratigrahAH/01_agnaye_hiraNyam/">
-<details open><summary><h5>०१ अग्नये हिरण्यम् ...{Loading}...</h5></summary>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/yajuH/sarva-prastutiH/03_chAturhotra-chayanAdi/10_pratigrahAH/devasya_tvA_savituH__pratigRhNAmi.md">
-<details open><summary><h10>दे॒वस्य॑ त्वा सवि॒तुः प्रति॑गृह्णामि ...{Loading}...</h10></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/yajuH/sarva-prastutiH/03_chAturhotra-chayanAdi/10_pratigrahAH/devasya_tvA_savituH__pratigRhNAmi.md">
+<details open><summary><h5>दे॒वस्य॑ त्वा सवि॒तुः प्रति॑गृह्णामि ...{Loading}...</h5></summary>
 <details><summary>मूलम् (संयुक्तम् आरण्यके)</summary>
 
 दे॒वस्य॑ त्वा सवि॒तुः प्र॑स॒वे ।  
@@ -60,7 +12,7 @@ title = "०७ उत्थापनम्"
 पू॒ष्णो हस्ता᳚भ्यां॒ प्रति॑गृह्णामि ।
 </details>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
-<details open><summary><h15>देवस्य त्वा सवितुः ...{Loading}...</h15></summary>
+<details open><summary><h10>देवस्य त्वा सवितुः ...{Loading}...</h10></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे᳚+++(=अनुज्ञायां)+++,
@@ -117,8 +69,8 @@ ______________
 
 हे हिरण्यात्मिके ! देवि! दक्षिणे! राजा वरुणः त्वां हिरण्यं अग्नये नयतु । तच्चेयमिष्टकाऽस्ति ।  
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/yajuH/sarva-prastutiH/03_chAturhotra-chayanAdi/10_pratigrahAH/tenAmRtatvam_ashyAm.md">
-<details open><summary><h10>तेना॑मृत॒त्वम॑श्याम् ...{Loading}...</h10></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/yajuH/sarva-prastutiH/03_chAturhotra-chayanAdi/10_pratigrahAH/tenAmRtatvam_ashyAm.md">
+<details open><summary><h5>तेना॑मृत॒त्वम॑श्याम् ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेना॑मृत॒त्वम॑श्याम् ।  
@@ -213,65 +165,5 @@ ______________
 तस्मात् पृथिव्येव त्वां प्रतिगृह्णातु  
 नाहमस्य प्रतिग्रहीतेति ॥
 </details>
-</details>
-</div>
-</details>
-</div>
-
-## उत्थानम्
-'उदायुषे'ति कुमारम् उत्थाप्य  
-
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/11_udAyuShA_svAyuShodoShadhInAm.md">
-<details open><summary><h2>११ उदायुषा स्वायुषोदोषधीनाम् ...{Loading}...</h2></summary>
-
-
-उद् आयु॑षा स्वा॒युषा,  
-+उद् ओष॑धीना॒ꣳ॒ रसे॑न॒+,  
-+उत् प॒र्जन्य॑स्य॒ शुष्मे॑ण+++(=बलेन)++++  
-+उद् अ॑स्थाम्,  
-अ॒मृता॒ꣳ॒+++(=देवान्)+++ अनु॑ ।  
-
-</details>
-</div>
-
-## आदित्योपस्थानम्
-'तच्चक्षुरि'त्यादिभिः आदित्योपस्थानं कारयित्वा  
-
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/12_tachchaxurdevahitam_purastAchChukramuchcharat.md">
-<details open><summary><h2>१२ तच्चक्षुर्देवहितम् पुरस्ताच्छुक्रमुच्चरत् ...{Loading}...</h2></summary>
-
-
-+++(सूर्यस्)+++ तच् चक्षु॑र् दे॒व+++(नि)+++हि॑तं पु॒रस्ता॑च् छु॒क्र+++(द्ध)+++म् उ॒च्चर॑त् -  
-पश्ये॑म श॒रद॑श् श॒तं  
-जीवे॑म श॒रद॑श् श॒तं  
-नन्दा॑म श॒रद॑श् श॒तं  
-मोदा॑म श॒रद॑श् श॒तं  
-भवा॑म श॒रद॑श् श॒तꣳ  
-शृ॒णवा॑म श॒रद॑श् श॒तं  
-प्रब्र॑वाम श॒रद॑श् श॒तम्  
-अजी॑ताः स्याम श॒रद॑श् श॒तं  
-ज्योक्+++(=दीर्घकालं)+++ च॒ सूर्य॑न् दृ॒शे ।  
-
-</details>
-</div>
-
-## हस्त-ग्रहणम्
-दक्षिणतो निषादितं ब्राह्मणं सम्पूज्य  
-"आसमावर्तनान् मत्तोऽयं न विप्रयुज्येते"ति  
-यं कुमारं कामयते  
-तस्य दक्षिणं हस्तं  
-'यस्मिन् भूतं च' इत्येतया दक्षिणहस्तेन गृह्णीयात् ।  
-
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/13_yasminbhUtancha_bhavyancha.md">
-<details open><summary><h2>१३ यस्मिन्भूतञ्च भव्यञ्च ...{Loading}...</h2></summary>
-
-
-
-यस्मि॑न् भू॒तञ् च॒ भव्य॑ञ् च॒  
-सर्वे॑ लो॒कास् स॒माहि॑ताः ।  
-तेन॑ गृह्णामि त्वाम् अ॒हं,  
-मह्यं॑ गृह्णामि त्वाम् अ॒हं  
-प्र॒जाप॑तिना त्वा॒ मह्यं॑ गृह्णाम्य् असौ+++(→नामनिर्देशः)+++ ॥
-
 </details>
 </div>
