@@ -3,7 +3,29 @@ title = "११ यम-यञः"
 
 +++
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/11_yama-yaJNaH/02_AyAtu_devas.md">
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+1अस्ति यमयज्ञो नाम बलिर् मासिमासि कर्तव्यः कार्तिक्यां विशेषेण ।  
+तत्र प्रस्थपरिमितैस् तिलैः कल्पितं गुडमिश्रं हविः कल्पयित्वा  
+तूष्णीम् अभिक्रम्य आदाय  
+'नमो ब्रह्मणे प्रजापतये देवेभ्य ऋषिभ्यः पितृभ्यो यमाय'  
+इति ग्रामाद्बहिः प्राचीमुदीचीं वा दिशम् उपनिष्क्रामति ।  
+निष्क्रमणमन्त्रो निगदसिद्धः ।  
+निष्क्रम्य नद्यां सिकतिले प्रदेशे  
+यत्र करकूप उत्सः खनितुं शक्यते  
+तत्र दिक्स्रक्तयः कोणा यस्यास्तादृशीं वेदिं करोति स्थण्डिलमात्राम् ।  
+तत्र स्थले प्रतिदिशं मध्ये च  
+पञ्चोत्तरवेद्या दिक्स्रक्तयः दक्षिणे करकूपं खनत्य्  
+उत्तरेणाग्निं प्रतिष्ठाप्य  
+दर्भैः प्रागग्रैर् अग्निं वेदिं च परिस्तीर्य  
+पञ्चसु उत्तरवेदिषु दर्भमयान् विष्टरान् विधाय  
+प्रस्तरहस्तो यममावाहयति -  
+आयातु देव इति द्वाभ्यां जगतीत्रिष्टुभ्याम् ॥ 
+</details>
+
+## आवाहनम्
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yajnaH/02_AyAtu_devas.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 **आया॑तु** दे॒वस् सु॒मना॑भिर् ऊ॒तिभि॑र्  
@@ -13,7 +35,7 @@ title = "११ यम-यञः"
 +++(आरण्यक-स्वर-व्यत्ययः॥)+++
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/04_pitR-medhAdi/11_yama-yaJNaH/02_AyAtu_devas.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/04_pitR-medhAdi/05_yama-yajnaH/02_AyAtu_devas.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -22,6 +44,8 @@ title = "११ यम-यञः"
 </details>
 </details>
 </div>
+
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/013/02_yame_iva.md">
 <details open><summary><h5>०२ यमे इव ...{Loading}...</h5></summary>
 
@@ -33,6 +57,7 @@ title = "११ यम-यञः"
 
 </details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/013/02_yame_iva.md">
 <details open><summary><h5>002 ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -272,6 +297,7 @@ Als ihr herbeikamt wie zwei zusammengehende Schwestern, brachten euch die fromme
 </details>
 </details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/014/13_yamAya_somaM.md">
 <details open><summary><h5>१३ यमाय सोमं ...{Loading}...</h5></summary>
 
