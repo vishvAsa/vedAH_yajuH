@@ -28,7 +28,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line  
@@ -252,7 +253,8 @@ _________
 ꣡</details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Prosper the worshipper, **Agni**, when beautiful sacrificial viands (are being offered), when sacredpraises are being recited (by him). May he be dear to **Sūrya**, dear to Agni; may he by a son born, or sons to beborn, overcome (his foes).”
 </details>

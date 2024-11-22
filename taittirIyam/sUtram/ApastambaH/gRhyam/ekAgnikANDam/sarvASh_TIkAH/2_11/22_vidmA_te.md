@@ -30,7 +30,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -256,7 +257,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “We recognize your threefold station, **Agni**, and your three (forms); we recognize the many stationsoccupied by you; we know what your supreme secret appellation (is); we know the source, whence you haveproceeded.”
 

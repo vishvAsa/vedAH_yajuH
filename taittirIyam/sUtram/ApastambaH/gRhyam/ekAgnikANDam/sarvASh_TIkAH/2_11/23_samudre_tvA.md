@@ -34,7 +34,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -229,7 +230,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “He who is well disposed towards men illumines the **Agni** in the ocean (as submarine fire), in the midstof the waters; the beholder of men (illumines) you in the centre of the sky; the mighty (**maruts**) magnify youabiding in the third region (the firmament), on the lap of the waters.”
 

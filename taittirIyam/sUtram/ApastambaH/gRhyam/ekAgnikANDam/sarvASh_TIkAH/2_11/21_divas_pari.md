@@ -34,7 +34,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -218,7 +219,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “**Agni** was first born above the sky; as Ja-tavedas he was born the second time among us; the friend ofman, he was born the third time in the watters; the sage kindlin him eternally praises him.”
 

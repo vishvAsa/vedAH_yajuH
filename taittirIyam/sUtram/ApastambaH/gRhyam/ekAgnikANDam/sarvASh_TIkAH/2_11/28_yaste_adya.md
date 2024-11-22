@@ -28,7 +28,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -253,7 +254,8 @@ _________
 ꣡</details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Auspiciously radiant and divine **Agni**, youngest (of the gods), grant ample wealth to the eminent(worshipper), who presents to you today cakes dressed with butter, and confer happiness upon one devoted tothe gods.”
 

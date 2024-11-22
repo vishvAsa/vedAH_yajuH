@@ -28,7 +28,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
@@ -219,7 +220,8 @@ _________
 ꣡</details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Desiring (oblations), purifying, moving quickly, sagacious, immortal, **Agni** has been stationed amongmortals; he sends forth the smoke, and goes wearing a radiant (form), and percading the heaven with brilliantlustre.”
 

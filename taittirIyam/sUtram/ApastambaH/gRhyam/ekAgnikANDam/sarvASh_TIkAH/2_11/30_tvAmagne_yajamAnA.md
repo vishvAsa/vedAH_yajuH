@@ -28,7 +28,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -222,7 +223,8 @@ _________
 ꣡</details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “To you, **Agni**, the worshippers offer daily all desirable treasures; (abiding) with you, desirous of wealth,the sages have set open the pasturage frequented by cattle.”
 </details>

@@ -28,7 +28,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -236,7 +237,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Smooth and straight be the paths by which our friends repair to the bride's father; may **Aryaman**, may Bhaga conduct us, and may the union of the wife and husband be easily accomplished, O gods.”
 </details>

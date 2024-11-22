@@ -28,7 +28,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -240,7 +241,8 @@ _________
 ꣡</details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Conspicuous, glorious, **Agni** shines with great splendour, moving everywhere, and blazingunsurpassingly with glory; Agni became immortal through the food (of sacrifice) when the prolific heavenengendered him.”
 

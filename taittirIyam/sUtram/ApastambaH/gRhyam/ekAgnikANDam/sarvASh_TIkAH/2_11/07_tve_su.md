@@ -28,7 +28,8 @@ _________
 **Strata**  
 Strophic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
@@ -166,7 +167,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “O son of strength, men, uttering their desires, abide happily in you, none, **Indra**, surpasses you.”
 </details>

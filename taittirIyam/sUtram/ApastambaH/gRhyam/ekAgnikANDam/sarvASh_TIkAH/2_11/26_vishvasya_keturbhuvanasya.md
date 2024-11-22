@@ -28,7 +28,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
@@ -229,7 +230,8 @@ _________
 ꣡</details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “The manifester of all, the germ of the world, **Agni**, as soon as born fills heaven and earth (with light);he fractures as he advances the solid cloud, for which the classes of men praise him.”
 
