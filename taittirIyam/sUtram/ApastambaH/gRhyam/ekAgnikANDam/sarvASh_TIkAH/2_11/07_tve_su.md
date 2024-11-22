@@ -24,14 +24,16 @@ title = "०७ त्वे सु"
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic
 
 ###### Pāda-label
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 putra ← putrá- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 

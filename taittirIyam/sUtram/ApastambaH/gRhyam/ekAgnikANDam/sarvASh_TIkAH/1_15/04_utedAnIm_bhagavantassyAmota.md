@@ -24,7 +24,8 @@ title = "०४ उतेदानीम् भगवन्तस्स्या
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Cretic
 
 ###### Pāda-label
@@ -32,7 +33,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 bhágavantaḥ ← bhágavant- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -188,7 +190,8 @@ _______________
 
 “May we now have **Bhaga** (for our lord), whether in the forenoon or mid- day, or at sun-rise; may we,**Maghavan**, enjoy the favour of the gods.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Bhaga: utedanim bhagavantaḥ **syāma**, may we be now possessors ofBhaga; or, may we be possessors of wealth;
 

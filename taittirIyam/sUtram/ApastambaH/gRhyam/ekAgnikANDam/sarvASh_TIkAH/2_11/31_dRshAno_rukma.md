@@ -24,7 +24,8 @@ title = "३१ दृशानो रुक्म"
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Cretic
 
 ###### Pāda-label
@@ -32,7 +33,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 adyaut ← √dyut- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -204,7 +206,8 @@ yát ← yá- (pronoun)
 
 “Conspicuous, glorious, **Agni** shines with great splendour, moving everywhere, and blazingunsurpassingly with glory; Agni became immortal through the food (of sacrifice) when the prolific heavenengendered him.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Glorious: dṛśāno **rukmaḥ** = **rocamānaḥ**, an epithet of Agni; or **devatā**, a gold ornament ofthe neck, which at a particular time the **yajamāna** is to take off with this **mantra**; moving everywhere: āyuḥ =going everywhere; or, life: desiring an irreproachable life to give perpetually to people
 </details>

@@ -24,7 +24,8 @@ title = "०१ प्रातरग्निम् प्रातरिन्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Cretic
 
 ###### Pāda-label
@@ -32,7 +33,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 agním ← agní- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 

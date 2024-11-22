@@ -24,7 +24,8 @@ title = "२९ तम्भज सौश्रवसेष्वग्न"
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Cretic
 
 ###### Pāda-label
@@ -32,7 +33,8 @@ genre M
 genre M  
 genre M;; repeated line  
 genre M
-###### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 

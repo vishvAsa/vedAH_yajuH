@@ -26,7 +26,8 @@ title = "०६ यस्मै त्वम्"
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Cretic
 
 ###### Pāda-label
@@ -34,7 +35,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 jātavedaḥ ← jātávedas- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 

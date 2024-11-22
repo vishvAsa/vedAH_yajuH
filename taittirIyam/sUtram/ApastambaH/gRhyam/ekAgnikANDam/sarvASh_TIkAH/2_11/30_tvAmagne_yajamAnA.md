@@ -24,7 +24,8 @@ title = "३० त्वामग्ने यजमाना"
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Cretic
 
 ###### Pāda-label
@@ -32,7 +33,8 @@ genre M
 genre M  
 genre M  
 genre M;; repeated line
-###### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 

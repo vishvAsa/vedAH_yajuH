@@ -24,7 +24,8 @@ title = "०२ अनृक्षरा ऋजवस्सन्तु"
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -32,7 +33,8 @@ popular
 popular  
 popular  
 popular
-###### Morph
+_________
+**Morph**  
 anr̥kṣarā́ḥ ← anr̥kṣará- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 

@@ -24,7 +24,8 @@ title = "०७ अश्वावतीर्गोमतीर्न उषा
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Cretic
 
 ###### Pāda-label
@@ -32,7 +33,8 @@ genre M
 genre M  
 genre M  
 genre M;; repeated line
-###### Morph
+_________
+**Morph**  
 áśvāvatīḥ ← áśvāvant- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 

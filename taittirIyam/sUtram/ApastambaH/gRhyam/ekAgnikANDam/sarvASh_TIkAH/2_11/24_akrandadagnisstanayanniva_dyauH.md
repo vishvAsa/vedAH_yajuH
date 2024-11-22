@@ -24,7 +24,8 @@ title = "२४ अक्रन्ददग्निस्स्तनयन्�
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Cretic
 
 ###### Pāda-label
@@ -32,7 +33,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 agníḥ ← agní- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 

@@ -24,7 +24,8 @@ title = "२७ श्रीणामुदारो धरुणो"
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Cretic
 
 ###### Pāda-label
@@ -32,7 +33,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 dharúṇaḥ ← dharúṇa- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 

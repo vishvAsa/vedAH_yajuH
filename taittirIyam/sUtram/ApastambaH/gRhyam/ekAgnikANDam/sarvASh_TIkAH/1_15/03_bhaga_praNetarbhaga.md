@@ -24,7 +24,8 @@ title = "०३ भग प्रणेतर्भग"
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Cretic
 
 ###### Pāda-label
@@ -32,7 +33,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 bhága ← bhága- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 

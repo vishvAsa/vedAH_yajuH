@@ -24,7 +24,8 @@ title = "०६ समध्वरायोषसो नमन्त"
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Cretic
 
 ###### Pāda-label
@@ -32,7 +33,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 adhvarā́ya ← adhvará- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -199,7 +201,8 @@ ____________
 
 “May the dawn come to our sacrifice as a horse to a suitable station; as rapid steeds convey a chariot,so may the dawns bring to us **Bhaga**, down- descending, charged with riches.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Station: śucaye padāya =gamanayogyāya sthānāya; or, agnyādhanārtham śucai padam, a pure plural ce for the receptacle of the fire;
 
