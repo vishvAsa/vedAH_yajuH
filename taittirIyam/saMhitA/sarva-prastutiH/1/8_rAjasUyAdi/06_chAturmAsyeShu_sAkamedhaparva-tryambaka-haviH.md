@@ -310,43 +310,61 @@ mukṣīya ← √muc- (root)
 -   *tryambakaṃ* ← *tryambakam* ← *tryambaka*
 - \[noun\], accusative, singular, masculine
 - “Shiva; Tryambaka.”
-------------------------------------------------------------------------
+
+_________
+
 - *yajāmahe* ← *yaj*
 - \[verb\], plural, Present indikative
 - “sacrifice; worship; worship.”
-------------------------------------------------------------------------
+
+_________
+
 - *sugandhim* ← *sugandhi*
 - \[noun\], accusative, singular, masculine
 - “fragrant.”
-------------------------------------------------------------------------
+
+_________
+
 - *puṣṭivardhanam* ← *puṣṭi*
 - \[noun\], feminine
 - “prosperity; growth; increase; puṣṭi; luxury; wealth; comfort;
     increase; corpulence.”
-------------------------------------------------------------------------
+
+_________
+
 - *puṣṭivardhanam* ← *vardhanam* ← *vardhana*
 - \[noun\], accusative, singular, masculine
 - “increasing; fortifying; promotive; prolonging.”
-------------------------------------------------------------------------
+
+_________
+
 - *urvārukam* ← *urvāruka*
 - \[noun\], accusative, singular, masculine
 - “pumpkin.”
-------------------------------------------------------------------------
+
+_________
+
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
+
+_________
+
 - *bandhanān* ← *bandhanāt* ← *bandhana*
 - \[noun\], ablative, singular, neuter
 - “bandhana; dressing; saṃdhilepa; attachment; fetter; paralysis;
     enclosure; imprisonment; cord; spell; fastening; tying; shutting;
     joining; tendon; binding; stalk; hardening; bondage; captivity;
     constipation; kapha; bandhana; ligament.”
-------------------------------------------------------------------------
+
+_________
+
 - *mṛtyor* ← *mṛtyoḥ* ← *mṛtyu*
 - \[noun\], ablative, singular, masculine
 - “death; Yama; māraṇa; Mṛtyu.”
-------------------------------------------------------------------------
+
+_________
+
 - *mukṣīya* ← *muc*
 - \[verb\], singular, Aorist conj./subj.
 - “liberate; emit; get rid of; shoot; release; put; tousle; secrete;
@@ -354,15 +372,21 @@ mukṣīya ← √muc- (root)
     loosen; let go of; add; shed; want; save; defecate; heal; fart;
     open; abandon; discard; precipitate; reject; lay; unleash; exhale;
     discharge.”
-------------------------------------------------------------------------
+
+_________
+
 - *māmṛtāt* ← *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
-------------------------------------------------------------------------
+
+_________
+
 - *māmṛtāt* ← *amṛtāt* ← *amṛta*
 - \[noun\], ablative, singular, masculine
 - “immortal; amṛta; imperishable.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 <details><summary>सायण-भाष्यम्</summary>
 

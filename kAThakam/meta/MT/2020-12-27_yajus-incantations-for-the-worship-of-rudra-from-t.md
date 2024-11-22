@@ -31,7 +31,9 @@ In contrast, while Bhava and Śarva are used as epithets of Rudra in other Yajur
 
 The second part is homologous to the equivalent section of the Aruṇa-praśna of the Taittirīya āraṇyaka, which is used in the Āruṇaketukacayana ritual, where the bricks of the citi are replaced by water-filled pots. It might have been part of an equivalent lost section of the Kaṭha brāhmaṇa. It is largely equivalent to the TA version with a few variants that we have retained due to consistency across Kaṭha manuscripts. Variants of the final mantra are found as AV-vulgate 7.87.1; AV-P 20.33.7 and Taittirīya saṃhitā 5.5.9.3; Kaṭha saṃhitā 40.5.33. The Kaṭha version is oddly formed and unmetrical both in the saṃhitā and across the prayoga manuals. Hence, we retain it as is without emendation or metrical restoration based on the other saṃhitā-s.
 
-------------------------------------------------------------------------
+
+_________
+
 
 footnote 1: He could have descended from converted brāhmaṇa-s  
 

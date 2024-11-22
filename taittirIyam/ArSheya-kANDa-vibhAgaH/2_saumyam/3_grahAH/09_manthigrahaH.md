@@ -118,63 +118,95 @@ yā́su ← yá- (pronoun)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
+
+_________
+
 - *pratnathā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *pūrvathā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *viśvathemathā* ← *viśvathā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *viśvathemathā* ← *imathā*
 - \[adverb\]
-------------------------------------------------------------------------
+
+_________
+
 - *jyeṣṭhatātim* ← *jyeṣṭhatāti*
 - \[noun\], accusative, singular, feminine
-------------------------------------------------------------------------
+
+_________
+
 - *barhiṣadaṃ* ← *barhiṣadam* ← *barhiṣad*
 - \[noun\], accusative, singular, masculine
 - “Pitṛ.”
-------------------------------------------------------------------------
+
+_________
+
 - *svarvidam* ← *svarvid*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
+
+_________
+
 - *pratīcīnaṃ* ← *pratīcīnam* ← *pratīcīna*
 - \[noun\], accusative, singular, neuter
 - “facing.”
-------------------------------------------------------------------------
+
+_________
+
 - *vṛjanaṃ* ← *vṛjanam* ← *vṛjana*
 - \[noun\], accusative, singular, neuter
 - “community; settlement.”
-------------------------------------------------------------------------
+
+_________
+
 - *dohase* ← *duh*
 - \[verb noun\]
 - “milk.”
-------------------------------------------------------------------------
+
+_________
+
 - *girāśuṃ* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
-------------------------------------------------------------------------
+
+_________
+
 - *jayantam* ← *ji*
 - \[verb noun\], accusative, singular
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
-------------------------------------------------------------------------
+
+_________
+
 - *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
+
+_________
+
 - *yāsu* ← *yad*
 - \[noun\], locative, plural, feminine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
+
+_________
+
 - *vardhase* ← *vṛdh*
 - \[verb\], singular, Present indikative
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
-------------------------------------------------------------------------
+
+_________
+
 </details>
 <details><summary>सायण-भाष्यम्</summary>
 
