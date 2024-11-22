@@ -42,7 +42,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -272,7 +273,8 @@ _______________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “New every day (the moon) is born; the manifester of days he goes on front of the Dawns; hedistributes their portion to the gods as he goes; the moon protracts a long existence.”
 
@@ -462,7 +464,8 @@ _________
 **Strata**  
 Archaic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M;; gautamī; see Arnold (1905) 240–1  
 genre M;; gautamī; see Arnold (1905) 240–1  
 genre M;; gautamī; see Arnold (1905) 240–1  
@@ -684,7 +687,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “His magnitude verily exceeds that of the heaven, and earth and sky; **Indra**, self-irradiating in his dwelling, equal to every exploit, engaged with no unworthy foe, and killed in conflict, calls to battle.”
 
@@ -798,7 +802,8 @@ _________
 **Strata**  
 Strophic
 
-##### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -959,7 +964,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-#### English translation:
+_________
+**English translation:**  
 
 “We glorify you, hero, (**Indra**), the lord of all movable and stationary things, the beholder of the universe,with ladles filled (with **Soma**, like (the udders of) unmilked kine.”
 
@@ -1076,7 +1082,8 @@ _________
 **Strata**  
 Archaic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -1238,7 +1245,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “We worshippers invoke you for the acquisition of food; you, **Indra**, the protector of the good, (do) men (invoke for aid) against enemies, and in plural ces where horses (encounter).”
 
@@ -1371,7 +1379,8 @@ _________
 **Strata**  
 Archaic
 
-##### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -1589,7 +1598,8 @@ shleSha in aShTa- indicating holy numbers 100+8; 1000+8 though in terms of seman
 </details>
 <details><summary>Wilson</summary>
 
-#### English translation:
+_________
+**English translation:**  
 
 “**Indra**, were there a hundred heavens to compare with you, or were there a hundred earths-- Othunderer, not even a thousand suns woudl reveal you-- yes, no created thing would fill you, nor heaven andearth.”
 
@@ -1680,7 +1690,8 @@ _________
 **Strata**  
 Strophic
 
-##### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
@@ -1846,7 +1857,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-#### English translation:
+_________
+**English translation:**  
 
 “Drink, **Indra**, the **Soma**; may it exhilarate you, that which the stone tightly held like a horse (by thereins), by the arms of the grinder, has expressed, lord of bay horses for you.”
 </details>
@@ -1953,7 +1965,8 @@ _________
 **Strata**  
 Strophic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
@@ -2071,7 +2084,8 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “So, **Indra**, rejoicing along with us, we may have (abundant food) and cows may be ours, robust and rich in milk, with which we may be happy.”
 </details>
@@ -2181,7 +2195,8 @@ _________
 **Strata**  
 Normal on metrical evidence alone
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
@@ -2308,7 +2323,8 @@ ___________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “**Agni**, your pure, bright, shining flames send forth your splendours.”
 </details>
@@ -2407,7 +2423,8 @@ _________
 **Strata**  
 Strophic on metrical evidence alone
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -2617,7 +2634,8 @@ _______________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “**Agni**, shines with great and varied radiance; he makes all things manifest by his might; he overcomes undivine malignant delusions; he sharpens his horns for the destruction of the **rākṣasas**.”
 </details>
@@ -2736,7 +2754,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
@@ -2863,7 +2882,8 @@ ___________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “His coursers bear on high the divine all-knowing Sun, that he may be seen by all (the worlds).”
 </details>
@@ -2988,7 +3008,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
@@ -3097,7 +3118,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Divine and light-diffusing **Sūrya**, your seven coursers bear you, bright-haired, in your car.”
 
@@ -3230,7 +3252,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
@@ -3425,7 +3448,8 @@ _____________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Thewonderful hostof rays has risen; th eye of **Mitra**, **Varuṇa** and **Agni**; the sun, the **soul** of all that moves or is immoveable, has filled (with his glory) the heaven, the earth, and the firmament.”
 
@@ -3550,7 +3574,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
@@ -3657,7 +3682,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Universal gods, augmenters of sacrifice, listening to praises (uttered) at due seasons, accept your appropriate milk-offering.”
 
@@ -3786,7 +3812,8 @@ _________
 **Strata**  
 Archaic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -4016,7 +4043,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Universal gods, hear this my invocation, whether you be in the firmament or in the heaven; you who (receive oblations) by the tongue of **Agni**, or are to be (otherwise) worshipped; seated on this sacred grass, be exhilarated (by the **Soma**).”
 </details>

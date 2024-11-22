@@ -53,7 +53,8 @@ _________
 **Strata**  
 Normal on metrical evidence alone
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
@@ -175,7 +176,8 @@ _____________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “**Agni**, the head (of the gods), the summit of heaven-- he the lord of the earth-- gladdens the seed of thewaters.”
 

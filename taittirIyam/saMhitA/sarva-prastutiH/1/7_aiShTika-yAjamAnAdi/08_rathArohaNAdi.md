@@ -265,7 +265,8 @@ _________
 **Strata**  
 Strophic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -458,7 +459,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Wise, immortal **Vājins**, observers of truth, defend us in every conflict, and for the sake of wealth; drinkof this sweet (**Soma**), be exhilarated (thereby) and satisfied; proceed by the paths traversed by the gods.”
 </details>
@@ -719,7 +721,8 @@ _________
 **Strata**  
 Normal
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -928,7 +931,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “And after him who is quick-going, hastening, eager (to arrive at his goald, men) follow (as other birds pursue) the flight of a swift (bird) striving together to keep up by the side of Dadhikrāvan. the transporter (of others) as swift as a hawk.”
 

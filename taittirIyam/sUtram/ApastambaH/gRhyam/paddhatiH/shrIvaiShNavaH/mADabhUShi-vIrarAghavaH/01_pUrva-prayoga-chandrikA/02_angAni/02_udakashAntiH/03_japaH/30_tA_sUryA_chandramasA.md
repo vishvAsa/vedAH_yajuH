@@ -159,7 +159,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -341,7 +342,8 @@ ____________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “The seven rivers display his glory; heaven, and earth, and sky display his visible form; the sun and moon, **Indra**,perform their revolution, that we may see, and have faith in what we see.”
 
@@ -676,7 +678,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
@@ -817,7 +820,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Since, waters, you are the sources of happiness, grant to us to enjoy abundance, and great anddelightful perception.”
 
@@ -948,7 +952,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -1219,7 +1224,8 @@ ___________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “The non-existent was not, the existent was not; then the world was not, not the firmament, nor thatwhich is above (the firmament). How could there by any investing envelope, and where? Of what (could there be)felicity? How (could there be) the deep unfathomable water?”
 
@@ -1325,7 +1331,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -1585,7 +1592,8 @@ ___________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Death was not nor at that period immortality, there was no indication of day, of night; That Oneunbreathed upon breathed of his own strength, other than That there was nothing else whatever.”
 
@@ -1685,7 +1693,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -1919,7 +1928,8 @@ _______________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “There was darkness covered by darkness in the beginning, all this (world) was undistinguishablewater; that empty united (world) which was covered by a mere nothing, was produced through the power ofausterity.”
 
@@ -2017,7 +2027,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -2239,7 +2250,8 @@ _______________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “In the beginning there was desire, which was the first seed of mind; sages having meditated in theirhearts have discovered by their wisdom the connexion of the existent with te non-existent.”
 
@@ -2339,7 +2351,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -2539,7 +2552,8 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Their ray was stretched out, whether across, or below, or above; (some) were shedders of seed,(others) were mighty; food was inferior; the eater was superior.”
 
@@ -2637,7 +2651,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; repeated line  
 popular;; 12 = 5+7, ending LHX  
 popular  
@@ -2858,7 +2873,8 @@ ____________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Who really knows? Who in this world may declare it! whence was this creation, whence was itengendered? The gods (were) subsequent to the (world's) creation; so who knows whence it arose?”
 
@@ -2956,7 +2972,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -3189,7 +3206,8 @@ _________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “He from whom this creation arose, he may uphold it, or he may not (no one else can); he who is itssuperintendent in the highest heaven, he assuredly knows, or if he knows not (no one else does).”
 
@@ -3281,7 +3299,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; repeated line  
 popular;; repeated line  
 popular  
@@ -3502,7 +3521,8 @@ ____________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Which was the forest, which the tree, from which they fabricated heaven and earth? Inquire, sages, inyour minds what (plural ce) he was stationed in when holding the worlds.”
 
@@ -3619,7 +3639,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -3834,7 +3855,8 @@ _____________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “We invoke at dawn **Agni**; at dawn **Indra**; at dawn **Mitra** and **Varuṇa**; at dawn the **Aśvins**; at dawnBhaga, **Pūṣan**, **Brahmaṇaspati**; at dawn **Soma** and **Rudra**.”
 </details>
@@ -3959,7 +3981,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -4207,7 +4230,8 @@ _______________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “We invoke at dawn fierce **Bhaga**, the son of **Aditi**, who is the sustainer (of the world), to whom the poorman praising him applies, saying, give (me wealth), to whom the opulent prince (addresses the same prayer).”
 
@@ -4341,7 +4365,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -4591,7 +4616,8 @@ _____________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “**Bhaga**, chief leader of rites, Bhaga, faithful granting (our wishes), fructify ceremony, enrich us withcattle and horses; may we Bhaga, be eminent with **male** descendants and followers.”
 </details>
@@ -4720,7 +4746,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -4912,7 +4939,8 @@ _______________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “May we now have **Bhaga** (for our lord), whether in the forenoon or mid- day, or at sun-rise; may we,**Maghavan**, enjoy the favour of the gods.”
 
@@ -5046,7 +5074,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -5288,7 +5317,8 @@ _________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “May **Bhaga**, gods, be the possessor of opulence, and, through him, may we be possessed of wealth,every one verily repeatedly invokes you, Bhaga; do you, Bhaga, be our preceder at this solemnity.”
 
@@ -5426,7 +5456,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -5633,7 +5664,8 @@ ____________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “May the dawn come to our sacrifice as a horse to a suitable station; as rapid steeds convey a chariot,so may the dawns bring to us **Bhaga**, down- descending, charged with riches.”
 
@@ -5764,7 +5796,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -5951,7 +5984,8 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “{Text is missing}”
 </details>

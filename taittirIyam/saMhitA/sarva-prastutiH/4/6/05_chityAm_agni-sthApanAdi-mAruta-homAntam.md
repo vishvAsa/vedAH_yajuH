@@ -465,7 +465,8 @@ _________
 **Strata**  
 Strophic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
@@ -610,7 +611,8 @@ _____________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Well-kindled, youthful **Agni**, shine before us with undecaying radiance; to you abundant sacrificialviands proceed.”
 
@@ -727,7 +729,8 @@ _________
 **Strata**  
 Normal
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -934,7 +937,8 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “We adore you, **Agni**, in your loftiest birth-(plural ce), and with hymns in thine inferior station; I worship that seat whence you have issued; the priests have offered you, when kindled oblations.”
 

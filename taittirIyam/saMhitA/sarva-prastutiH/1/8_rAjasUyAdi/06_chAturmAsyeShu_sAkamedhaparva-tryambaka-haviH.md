@@ -259,7 +259,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
@@ -414,7 +415,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “We worship **Tryambaka**, whose fame is fragrant, the augmenter of increase; may I be liberated fromdeath, and, like the **urvāruka** from its stalk, but not to immortality; let us worship **Trayambaka**, whose fame isfragrant, the augmenter of increase; may I be liberated from death like the urvāruka from its stalk, but not untoimmortality.”
 

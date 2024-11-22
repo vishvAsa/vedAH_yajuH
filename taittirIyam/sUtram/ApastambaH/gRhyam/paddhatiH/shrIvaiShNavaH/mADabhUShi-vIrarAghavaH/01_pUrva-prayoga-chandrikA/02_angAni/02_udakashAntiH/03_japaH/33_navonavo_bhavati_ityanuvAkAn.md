@@ -47,7 +47,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -277,7 +278,8 @@ _______________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “New every day (the moon) is born; the manifester of days he goes on front of the Dawns; hedistributes their portion to the gods as he goes; the moon protracts a long existence.”
 
@@ -583,7 +585,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
@@ -710,7 +713,8 @@ ___________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “His coursers bear on high the divine all-knowing Sun, that he may be seen by all (the worlds).”
 </details>
@@ -839,7 +843,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
@@ -1034,7 +1039,8 @@ _____________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Thewonderful hostof rays has risen; th eye of **Mitra**, **Varuṇa** and **Agni**; the sun, the **soul** of all that moves or is immoveable, has filled (with his glory) the heaven, the earth, and the firmament.”
 
@@ -1237,7 +1243,8 @@ _________
 **Strata**  
 Normal
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
@@ -1376,7 +1383,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “**Viṣṇu** traversed this (world); three times he plural nted his foot and the whole (world) was collected in the dust of his (footstep).”
 
@@ -1492,7 +1500,8 @@ _________
 **Strata**  
 Strophic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -1671,7 +1680,8 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “**Viṣṇu** is therefore glorified, that by his prowess he is like a fearful, ravenous, and mountain-haunting wild beast, and because of that in his three paces all worlds abide.”
 
@@ -1793,7 +1803,8 @@ _________
 **Strata**  
 Normal on metrical evidence alone
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
@@ -1915,7 +1926,8 @@ _____________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “**Agni**, the head (of the gods), the summit of heaven-- he the lord of the earth-- gladdens the seed of thewaters.”
 

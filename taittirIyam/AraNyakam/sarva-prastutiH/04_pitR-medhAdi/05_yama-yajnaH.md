@@ -79,7 +79,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -285,7 +286,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “When you two came, like twins, busily engaged, then devout worshipper brought you forward;knowing your plural ce there abide and be fair storehouses for our **Soma**.”
 
@@ -373,7 +375,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
@@ -514,7 +517,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Pour out the **Soma** for **Yama**; to Yama offer the oblation, the decorated sacrifice of which **Agni** is themessenger proceeds to Yama.”
 </details>
@@ -601,7 +605,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424);; repeated line  
 popular;; epic anuṣṭubh (424)  
@@ -772,7 +777,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Offer the oblation of clarified butter to **Yama**, and stand near (to the altar); it is he who among the godsgives us a long life to live.”
 </details>
@@ -858,7 +864,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -980,7 +987,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Offer to the royal **Yama** this most sweet oblation; (let) this our adoration (be addressed) to the ancientsages, the first followers of (virtuous) paths.”
 </details>

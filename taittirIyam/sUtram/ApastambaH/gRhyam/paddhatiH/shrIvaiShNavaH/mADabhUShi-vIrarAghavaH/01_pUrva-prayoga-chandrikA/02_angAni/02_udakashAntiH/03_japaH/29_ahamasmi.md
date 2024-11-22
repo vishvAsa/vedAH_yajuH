@@ -315,7 +315,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -545,7 +546,8 @@ ______________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “The gods produced the goddess Vāk; her do animals of every kind utter; may she, Vāk, theall-gladdening cow, yielding meat and drink, come to us, worthily praised.”
 
@@ -630,7 +632,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -822,7 +825,8 @@ _________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “When Vāk, the **queen**, the gladdener of the gods, sits down (in the sacrifice) uttering things not to beunderstood, she milks water and food for the four quarters (of the earth); whither now is her best portion gone?”
 
@@ -1031,7 +1035,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -1246,7 +1251,8 @@ ______________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Four are the definite grades of spech; those **Brahmaṇas** who are wise know them; three, deposited in secret, indicate no meaning; men speak the fourth grade of speech.”
 
@@ -1360,7 +1366,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
@@ -1499,7 +1506,8 @@ ______________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “**Agni** is kindled by **Śraddhā**, by Śraddhā is the oblation offered; with our praise we glorifyFaith, of the family of Love; cf. **Nirukta** 9.31\].”
 </details>
@@ -1593,7 +1601,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
@@ -1747,7 +1756,8 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “O Śraddhā\_, grant the desire of the donor (of the oblation), grant, O **Śraddhā**, the desire of himwho wishes to give, grant this boon which I have mentioned to my sacrificers who solicit happiness.”
 </details>
@@ -1833,7 +1843,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
@@ -1982,7 +1993,8 @@ __________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “As the gods had faith in (their fight with) the **Asuras**, so grant the boon which has been asked for toour sacrificers who solicit happiness.”
 </details>
@@ -2067,7 +2079,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
@@ -2202,7 +2215,8 @@ ___________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Gods, worshippers, and those who are protected by **Vāyu**, solicit **Śraddhā**, (they cherish) Śraddhāwith heartfelt desire, through Śraddhā a man acquires wealth.”
 
@@ -2293,7 +2307,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
@@ -2444,7 +2459,8 @@ _________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “We invoke **Śraddhā** at dawn, and again at midday, and also at the setting of the sun; inspire us inthis world, Śraddhā, with faith.”
 </details>
@@ -2791,7 +2807,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -2999,7 +3016,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “May the cows come and bring good fortune; let them lie down in (our) stalls and be plural ased with us; may the many-coloured kine here be parboiled milk for **Indra** on many dawns.”
 </details>
@@ -3114,7 +3132,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -3335,7 +3354,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “**Indra** grants the desires of the man who offers to him sacrifice and praise; he ever bestows upon him wealth, and deprives him not of that which is his own; again and again increasing his riches, he plural ces the devout man in an inaccessible fortress.”
 
@@ -3498,7 +3518,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -3733,7 +3754,8 @@ ___________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Let not the dust-spurning (war) horse reach them nor let them fall in the way of sacrificial consecration let the cattle of the man who offers sacrifice wander about at large and without fear.”
 
@@ -3884,7 +3906,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -4097,7 +4120,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Do you, cows, give us nourisment; render the emaciated, the unlovely body the reverse; do you, whose lowing is auspicious, make my dwelling prosperous; great is the abundance that is attributed to you in religious assemblies.”
 

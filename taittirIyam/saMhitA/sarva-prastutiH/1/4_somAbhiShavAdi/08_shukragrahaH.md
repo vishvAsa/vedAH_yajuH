@@ -43,7 +43,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -238,7 +239,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “This **Vena**, enfolded in the membrane of light, urges on (the waters) the germs of the Sun in the firmament of the water; the sages cherish him at the confluence of the waters, and the sun with endearments likea child.”
 

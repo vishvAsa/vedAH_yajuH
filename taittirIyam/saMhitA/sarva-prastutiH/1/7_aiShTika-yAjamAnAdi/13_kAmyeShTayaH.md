@@ -51,7 +51,8 @@ _________
 **Strata**  
 Normal
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -248,7 +249,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “The months attend upon **Indra** as soon as born, the forests attend upon him, the plural nts, themountains, the affectionate heaven and earth, and the waters (attend upon) him.”
 </details>
@@ -341,7 +343,8 @@ _________
 **Strata**  
 Archaic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -578,7 +581,8 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “All (power) has been successively conceded verily to you, **Indra**, who are mighty, for the destruction of the foe; suitable vigour, suitable strength in battle (has been given) to you, adorable Indra, by the gods.”
 </details>
@@ -726,7 +730,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
@@ -924,7 +929,8 @@ Indra says "O Indrāṇī! I am not delighted without my friend Vriṣākapi, of
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “I am not happy, **Indrāṇi**, without my friend **Vṛṣākapi**; whose acceptable oblation here, purified withwater, proceeds to the gods; **Indra** is above all (the world).”
 </details>
@@ -1015,7 +1021,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -1212,7 +1219,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “He, who as soon as born,is the first (of the deities); who has done honour to the gods by his exploits; he, at whose might heaven and earth are alarmed, and (who is known) by the greatness of his strength, he, men, is **Indra**.”
 
@@ -1338,7 +1346,8 @@ _________
 **Strata**  
 Strophic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -1552,7 +1561,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Fierce **Indra**, when animated by like fierce armies, encounter them; let the bright (weapon) wielded bythe arms of you who are mighty and the friend of man descend for our protection; let not your all-pervading mindwander (away from us).”
 </details>
@@ -1684,7 +1694,8 @@ _________
 **Strata**  
 Strophic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -1951,7 +1962,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Harm us not, but cherish us, **Indra**; bestow upon us that abundant wealth which it is yours to give to the donor (of the oblation); praising you, we celebrate you at this sacred rite, which is new and excellent, and (at which the oblation) is proper to be presented.”
 </details>
@@ -2070,7 +2082,8 @@ _________
 **Strata**  
 Cretic on metrical evidence alone
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -2319,7 +2332,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Quickly, **Indra**, bring (wealth); let no one impede you, for we know you to be the lord of wealth, of all treasures; and since, Indra, your greatness is munificence, therefore, lord of the tawny steeds, grant us (riches).”
 </details>
@@ -2521,7 +2535,8 @@ _________
 **Strata**  
 Normal on metrical evidence alone
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -2708,7 +2723,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “May the protecting, opulent **Indra** be the bestower of felicity by his protections; may he, who is all-knower of felicity by his protections; may he, who is all-knowing, foil our adversaries; may he keep us out of danger, and may we be the possessors of excellent posterity.”
 </details>
@@ -2883,7 +2899,8 @@ _________
 **Strata**  
 Normal on metrical evidence alone
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M  
@@ -3081,7 +3098,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “May we continue in the favour of that adorable (deity) even in his auspicious good-will; may that protecting and opulent **Indra** drive far from us, into extinction, all those who hate us.”
 </details>

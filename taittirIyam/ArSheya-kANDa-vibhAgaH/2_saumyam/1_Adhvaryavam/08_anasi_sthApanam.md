@@ -272,7 +272,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
@@ -399,7 +400,8 @@ ___________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “His coursers bear on high the divine all-knowing Sun, that he may be seen by all (the worlds).”
 </details>

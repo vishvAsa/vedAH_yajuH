@@ -42,7 +42,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -244,7 +245,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Do you, **Savitā**, posper today our dwelling with uninjurable protections, confirming happiness; do you, who are golden-tongued, (be vigilant) for our present prosperity; protect us; let not any calumniator have power (to harm) us.”
 

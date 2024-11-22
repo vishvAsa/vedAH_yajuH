@@ -276,7 +276,8 @@ _________
 **Strata**  
 Normal
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
@@ -409,7 +410,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “We approach you, **Agni**, with reverential homage in our thoughts, daily, both morning and evening.”
 </details>
@@ -630,7 +632,8 @@ _________
 **Strata**  
 Archaic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; 11 = 8+3
 _________
@@ -938,7 +941,8 @@ _________
 **Strata**  
 Strophic on metrical evidence alone
 
-##### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
@@ -1404,7 +1408,8 @@ May we focus on the excellent radiance of the deva Savitṛ who will inspire our
 </details>
 <details><summary>Wilson</summary>
 
-#### English translation:
+_________
+**English translation:**  
 
 “We meditate on that desirable light of the divine **Savitā**, who influences our pious rites.”
 
@@ -1645,7 +1650,8 @@ _________
 **Strata**  
 Normal
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
@@ -1758,7 +1764,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “**Brahmaṇaspati** (=**Agni**, connected with prayer) make the offerer of the libation illustrious among the gods, like **Kakṣīvat**, the son of Uśij (and **Dīrghatamas**).”
 
@@ -1894,7 +1901,8 @@ _________
 **Strata**  
 Strophic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
@@ -2116,7 +2124,8 @@ ___________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Never are you niggardly,  
 **Indra**, and give not to the worshipper;  

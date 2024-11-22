@@ -43,7 +43,8 @@ _________
 **Strata**  
 Strophic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
@@ -265,7 +266,8 @@ ___________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Never are you niggardly,  
 **Indra**, and give not to the worshipper;  
@@ -404,7 +406,8 @@ _________
 **Strata**  
 Strophic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
@@ -626,7 +629,8 @@ ___________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Never are you niggardly,  
 **Indra**, and give not to the worshipper;  
@@ -766,7 +770,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -1004,7 +1009,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “May our sacrifice give satisfaction to the gods; **Ādityas**, be gracious, and may your good intentions be directed towards us, so as to be abundant source of affliction to the poor.”
 </details>

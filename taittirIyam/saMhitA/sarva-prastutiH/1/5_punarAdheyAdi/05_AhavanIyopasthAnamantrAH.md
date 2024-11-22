@@ -54,7 +54,8 @@ _________
 **Strata**  
 Strophic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
@@ -165,7 +166,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Hastening to the sacrifice, let us repeat a prayer to **Agni**, who fears us from afar.”
 </details>
@@ -283,7 +285,8 @@ _________
 **Strata**  
 Normal
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
@@ -405,7 +408,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Towards **Soma**'s ancient body the seers milk the flashing fluid, the sage who grants a thousand boons.”
 </details>
@@ -510,7 +514,8 @@ _________
 **Strata**  
 Normal on metrical evidence alone
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
@@ -632,7 +637,8 @@ _____________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “**Agni**, the head (of the gods), the summit of heaven-- he the lord of the earth-- gladdens the seed of thewaters.”
 
@@ -733,7 +739,8 @@ _________
 **Strata**  
 Strophic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -925,7 +932,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “This invoker of the gods and minister of frequent worship, who is to be glorified at sacrifices, has been plural ced first (of the gods) by the performers of the rite; the **Agni** whom Apnavāna and other **Bhṛgus** lighted in the woods for the sake of all men, marvellous (in his acts), and soverign (over all).”
 
@@ -1055,7 +1063,8 @@ _________
 **Strata**  
 Archaic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -1256,7 +1265,8 @@ _____________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “I invoke you both, **Indra** and **Agni**, to be present at the sacrifice; and both together to be exhilarated by the (sacrificial) food; for you are both donors of food and riches, and therefore I invoke you both for the obtaining of sustenance.”
 </details>
@@ -1440,7 +1450,8 @@ _________
 **Strata**  
 Strophic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
@@ -1582,7 +1593,8 @@ _____________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “**Agni**, you support our lives, send us nutriment and food, drive far off the **rākṣasas**.”
 </details>
@@ -1697,7 +1709,8 @@ _________
 **Strata**  
 Strophic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
@@ -1841,7 +1854,8 @@ _____________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “**Agni**, who are the doer of good, pour upon us brightness and fair-offspring; may he make me wealth and plural nty.”
 </details>
@@ -1944,7 +1958,8 @@ _________
 **Strata**  
 Normal
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
@@ -2076,7 +2091,8 @@ __________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Divine purifier, **Agni**, with your radiant and plural asing tongue, bring hither and worship the gods”
 </details>
@@ -2232,7 +2248,8 @@ _________
 **Strata**  
 Normal on metrical evidence alone
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
@@ -2353,7 +2370,8 @@ __________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “The pure **Agni** shines forth when worshipped the purest offerer, the pure priest, the pure sage.”
 
@@ -2450,7 +2468,8 @@ _________
 **Strata**  
 Normal on metrical evidence alone
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
@@ -2577,7 +2596,8 @@ ___________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “**Agni**, your pure, bright, shining flames send forth your splendours.”
 </details>

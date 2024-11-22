@@ -54,7 +54,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -249,7 +250,8 @@ _________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “May glory **Agni**, be mine in battle, may we, kindling you, cherish your person n, may the (inhabitants ofthe) four quarters bow down before me, may we with you for our leader overcome (hostile) armies.”
 </details>
@@ -417,7 +419,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -635,7 +638,8 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “You six mighty goddesses, bestow upon us ample (wealth); universal gods, display prowess here; letus not be bereft of our offspring, or be harmed in our bodies, may we not become subject to our enemy, royalSoma.”
 
@@ -773,7 +777,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; 12 = 5+7, ending LHX  
 popular  
 popular  
@@ -1013,7 +1018,8 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “May the omnipresent (**Indra**), the mighty one, who is invoked by many, and lauded by many, bestow ablessing on this our sacrifice; be gracious to our offspring, Indra, lord of bay horses; harm us not, desert us not.”
 </details>
@@ -1102,7 +1108,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -1321,7 +1328,8 @@ _____________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “May those who are our foes be driven off; may we through **Indra** and **Agni** destroy them; may theVasus, the **Rudras**, and the **Ādityas** make me the high- reaching, fierce, intelligent, supreme ruler.”
 </details>

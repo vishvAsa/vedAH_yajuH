@@ -80,7 +80,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -302,7 +303,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Those mortals who beheld the pristine Uṣās dawning have passed away; to us she is now visible, and they approach who may behold her in after times.”
 </details>

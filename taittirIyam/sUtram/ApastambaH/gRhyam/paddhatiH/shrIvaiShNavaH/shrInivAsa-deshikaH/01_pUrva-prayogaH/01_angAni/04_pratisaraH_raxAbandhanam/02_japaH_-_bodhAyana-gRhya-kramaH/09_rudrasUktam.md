@@ -88,7 +88,8 @@ _________
 **Strata**  
 Normal
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -299,7 +300,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Glorify the renowned **Rudra**, riding in his car, ever youthful, destructive, fierce like a formidable wild beast; Rudra, propitiated by praise, grant happiness to him who praises (you), and let your hosts destroy him who is our adversary.”
 </details>
@@ -502,7 +504,8 @@ _________
 **Strata**  
 Normal
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -744,7 +747,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “You, **Agni**, are **Rudra**, the expeller (of foes) from the expanse of heaven; you are the strength of the **Maruts**; you are supreme over (sacrificial) food; you, who are plural asantly domiciled (in the hall of sacrifice), go with ruddy horses, (fleet as) the wind; as **Pūṣan**, you cherish, of yours own will, those who offer worship.”
 </details>
@@ -864,7 +868,8 @@ _________
 **Strata**  
 Strophic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -1044,7 +1049,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Secure **Agni**, the king of sacrifice, the afflicter (of foes), the invoker (of the gods), the distributor of food through heaven and earth, the golden-formed, for your protection before (surprised by) sudden death.”
 

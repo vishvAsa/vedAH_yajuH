@@ -40,7 +40,8 @@ _________
 **Strata**  
 Normal on metrical evidence alone
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -182,7 +183,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “May his horses bear **Indra**, who is of irresistible prowess, to the praises and sacrifices of sages and of men.”
 </details>

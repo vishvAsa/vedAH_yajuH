@@ -42,7 +42,8 @@ _________
 **Strata**  
 Strophic on metrical evidence alone
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
@@ -187,7 +188,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “**Indra** and **Agni**, come to this acceptable libation, (brought) by our praises from heaven, and induced by (our) devotion to drink of it.”
 

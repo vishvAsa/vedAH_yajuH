@@ -356,7 +356,8 @@ _________
 **Strata**  
 Normal
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
@@ -493,7 +494,8 @@ _______________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Be well nourished, **Soma**; may vigour come to you from all sides, be (the giver) of strength in battle.”
 </details>
@@ -1007,7 +1009,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-##### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -1247,7 +1250,8 @@ ______________
 </details>
 <details><summary>Wilson</summary>
 
-#### English translation:
+_________
+**English translation:**  
 
 “No other than you, **Prajāpati**, has given existence to all these beings; may that object of our desiresfor which we sacrifice to you be ours, may we be the possessors of riches.”
 

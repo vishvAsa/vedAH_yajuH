@@ -48,7 +48,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -233,7 +234,8 @@ _______________
 </details>
 <details><summary>Wilson</summary>
 
-##### English translation:
+_________
+**English translation:**  
 
 “The fleet-going **Indra**, like a formidable bull sharpening (his horns), the slayer of foes, the exciter ofmen, loud-shouting, ever-vigilant, the chief of heroes overthrew at once a hundred hosts.”
 </details>
@@ -329,7 +331,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -505,7 +508,8 @@ _______________
 </details>
 <details><summary>Wilson</summary>
 
-##### English translation:
+_________
+**English translation:**  
 
 “With **Indra** the loud-shouting, the vigilant, the vigtorious, the warlike, the unconquerable, the daring,the hurler of arrows, the showerer, (as your ally) conquer you warriors, you leaders, that (hostile host) andovercome it.”
 </details>
@@ -591,7 +595,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -795,7 +800,8 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-##### English translation:
+_________
+**English translation:**  
 
 “**Indra**, with the arrow-bearing (**maruts**), armed with swords, the subduer, the warrior, who encountershim, the drinker of the **Soma**, the strong- armed, having a powerful bow, who shoots with well-aimed arrows(conquer with his help).”
 </details>
@@ -881,7 +887,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -1063,7 +1070,8 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-##### English translation:
+_________
+**English translation:**  
 
 “Come with your chariot, **Bṛhaspati**, who are the slayer of **Rākṣasas**, discomfiting your enemies,”
 </details>
@@ -1149,7 +1157,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -1342,7 +1351,8 @@ ____________
 </details>
 <details><summary>Wilson</summary>
 
-##### English translation:
+_________
+**English translation:**  
 
 “Imitate in heroism, you kindred warriors, follow, friends, in prowess this **Indra**, who is the breaker ofmountains, the acquirer of water, armed with the thunderbolt, conquering the swift (foe), destroying (the enemy)by his might.”
 
@@ -1436,7 +1446,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -1640,7 +1651,8 @@ _______________
 </details>
 <details><summary>Wilson</summary>
 
-##### English translation:
+_________
+**English translation:**  
 
 “Known by his strength mighty, heroic, overpowering, vigorous, enduring, fierce, attended by heroes,attended by mighty men, the offspring of strength, the possessor of water, do you, **Indra**, ascend your triumphantchariot.”
 
@@ -1733,7 +1745,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; 12 = 5+7, ending LHX  
 popular  
 popular  
@@ -1909,7 +1922,8 @@ ____________________
 </details>
 <details><summary>Wilson</summary>
 
-##### English translation:
+_________
+**English translation:**  
 
 “May **Indra**, bursting open the clouds with force; pitiless, heroic, with hundredfold anger, invincible, theoverthrower of armies, irresistible, protect our armies in battles.”
 </details>
@@ -1995,7 +2009,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; 11 = 4+7, ending HLX  
 popular  
 popular  
@@ -2165,7 +2180,8 @@ _______________
 </details>
 <details><summary>Wilson</summary>
 
-##### English translation:
+_________
+**English translation:**  
 
 “May **Indra** be the leader of these (hosts), may **Bṛhaspati**, **Dakṣiṇā**, **Yajña**, and **Soma** go before, letthe **Maruts** march in the van of the destroying and victorious armies of the gods.”
 
@@ -2257,7 +2273,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -2426,7 +2443,8 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-##### English translation:
+_________
+**English translation:**  
 
 “(May) the mighty force of the showerer **Indra**, of the royal **Varuṇa**, of the **Ādityas** and **Maruts** (beours). The shout of the magnanimous and victorious deities, the subverters of the worlds, has arisen.”
 </details>
@@ -2512,7 +2530,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; 12 = 5+7, ending LHX  
 popular  
 popular  
@@ -2712,7 +2731,8 @@ _____________
 </details>
 <details><summary>Wilson</summary>
 
-##### English translation:
+_________
+**English translation:**  
 
 “When the banners are intermingled, may **Indra** be our (defender), may those arrows which are ours bevictorious may our warriors be triumphant; gods, protect us in battles.”
 </details>
@@ -2798,7 +2818,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -2983,7 +3004,8 @@ ___________________
 </details>
 <details><summary>Wilson</summary>
 
-##### English translation:
+_________
+**English translation:**  
 
 “Excite, **Maghavan**, my weapons, (excite) the spirits of my heroes; slayer of **Vṛtra**, let the speed of thehorses be accelerated, let the noises of the chariots be increased.”
 </details>

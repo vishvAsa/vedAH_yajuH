@@ -229,7 +229,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -458,7 +459,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “(The gods) spreading out the sacrifice, follow the illuminator of the world (the sun); protect theluminous paths (of the gods) constructed by sacred acts; may **Agni** render the pious works of the worshipper freefrom defect; become **Manu**, genitive rate the people of heaven.”
 

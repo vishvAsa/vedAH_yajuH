@@ -45,7 +45,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
@@ -172,7 +173,8 @@ ___________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “His coursers bear on high the divine all-knowing Sun, that he may be seen by all (the worlds).”
 </details>
@@ -301,7 +303,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
@@ -496,7 +499,8 @@ _____________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Thewonderful hostof rays has risen; th eye of **Mitra**, **Varuṇa** and **Agni**; the sun, the **soul** of all that moves or is immoveable, has filled (with his glory) the heaven, the earth, and the firmament.”
 
@@ -629,7 +633,8 @@ _________
 **Strata**  
 Strophic on metrical evidence alone
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -831,7 +836,8 @@ May we offer you the greatest reverence.
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “**Agni**, knowing all kinds of knowledge, lead us by good ways to wealth; remove from from us the sun that would force us astray, that we may offer to you most ample adoratioṇ”
 </details>

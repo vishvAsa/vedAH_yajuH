@@ -42,7 +42,8 @@ _________
 **Strata**  
 Normal on metrical evidence alone
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -221,7 +222,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Slayer of **Vṛtra**, ascend your chariot, for your horses have been yoked by prayer; may the stone (that bruises the **Soma**) attract, by its sound, your mind towards us.”
 </details>

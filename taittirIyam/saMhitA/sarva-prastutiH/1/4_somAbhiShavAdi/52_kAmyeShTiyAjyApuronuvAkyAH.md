@@ -61,7 +61,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -250,7 +251,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Inasmuch as I who am a mortal earnestly invoke you who are an immortal, praising you with a devoted heart; therefore, **Jātavedas**, grant us food, and may I obtain immortality through my posterity.”
 
@@ -374,7 +376,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -573,7 +576,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Upon whatsoever performer of good works you, **Agni**, who are **Jātavedas**, cast a favourable regard, he enjoys welfare, and riches, comprehending horses, cattle, sons and **male** descendants.”
 </details>
@@ -692,7 +696,8 @@ _________
 **Strata**  
 Strophic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
@@ -830,7 +835,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “O son of strength, men, uttering their desires, abide happily in you, none, **Indra**, surpasses you.”
 </details>
@@ -905,7 +911,8 @@ _________
 **Strata**  
 Strophic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -1101,7 +1108,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “The **Soma** effused with reiterated prayer delights **Indra**; the effused juices, (offered) with repeatedpraise, (exhilarate) **Maghavan**; therefore, (the priests), combining together and making like exertion, invoke Indrafor protection, as sons (apply) to a father.”
 </details>
@@ -1340,7 +1348,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -1536,7 +1545,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Royal **Agni**, I glorify at sacrifices you who are the lord of vast riches; may we who are in want of food obtain food through you, and (through you) may we overcome hosts of (hostile) men.”
 </details>
@@ -1658,7 +1668,8 @@ _________
 **Strata**  
 Normal
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
@@ -1794,7 +1805,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Wise worshippers exalt you, **Agni**, the bountiful giver of food, the deservedly lauded; do you bestow upon us excellent strength.”
 </details>
@@ -1984,7 +1996,8 @@ _________
 **Strata**  
 Normal on metrical evidence alone
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
@@ -2114,7 +2127,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “You, **Agni**, are kindled by Agni; a sage by a sage, saint by a saint, a friend by a friend.”
 
@@ -2231,7 +2245,8 @@ _________
 **Strata**  
 Normal on metrical evidence alone
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
@@ -2358,7 +2373,8 @@ ___________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “**Agni**, your pure, bright, shining flames send forth your splendours.”
 </details>
@@ -2463,7 +2479,8 @@ _________
 **Strata**  
 Strophic on metrical evidence alone
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -2673,7 +2690,8 @@ _______________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “**Agni**, shines with great and varied radiance; he makes all things manifest by his might; he overcomes undivine malignant delusions; he sharpens his horns for the destruction of the **rākṣasas**.”
 </details>

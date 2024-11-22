@@ -294,7 +294,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-##### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -534,7 +535,8 @@ ______________
 </details>
 <details><summary>Wilson</summary>
 
-#### English translation:
+_________
+**English translation:**  
 
 “No other than you, **Prajāpati**, has given existence to all these beings; may that object of our desiresfor which we sacrifice to you be ours, may we be the possessors of riches.”
 

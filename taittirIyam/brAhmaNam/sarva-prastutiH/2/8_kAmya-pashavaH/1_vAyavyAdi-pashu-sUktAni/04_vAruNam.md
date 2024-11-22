@@ -43,7 +43,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -243,7 +244,8 @@ _______________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “**Varuṇa**, loosen for me the upper, the middle, the lower band; so, son of **Aditi**, shall we, through faultlessness in the worship, become freed from siṇ”
 
@@ -403,7 +405,8 @@ _________
 **Strata**  
 Cretic
 
-##### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -620,7 +623,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-#### English translation:
+_________
+**English translation:**  
 
 “Whatever the offence which we men commit **Varuṇa** against divine beings, whatever law of yours wemay through ignorance violate, do not you, divine Varuṇa, punish us on account of that iniquity.”
 </details>
@@ -703,7 +707,8 @@ _________
 **Strata**  
 Cretic
 
-##### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -964,7 +969,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-#### English translation:
+_________
+**English translation:**  
 
 “If, like gamesters, who cheat at plural y, (we commit offences) knowingly, or (those) of which we know not, do you divine **Varuṇa**, extricate us from them all, as if from loosened (bonds), so that we may be dear, Varuṇa, to you.”
 </details>
@@ -1074,7 +1080,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-##### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -1272,7 +1279,8 @@ _______________
 </details>
 <details><summary>Wilson</summary>
 
-#### English translation:
+_________
+**English translation:**  
 
 “**Varuṇa**, we deprecate your wrath with prostrations, with sacrifices, with oblations; averter of misfortune, wise and illustrious, be present amongst us, and mitigate the evils we have committed.”
 
@@ -1386,7 +1394,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-##### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -1611,7 +1620,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-#### English translation:
+_________
+**English translation:**  
 
 “Praising you with (devout) prayer, I implore you for that (life) which the instrumental tutor of the sacrifice solicits with oblations; **Varuṇa**, undisdainful, bestow a thought upon us; much-lauded, take not away our existence.”
 

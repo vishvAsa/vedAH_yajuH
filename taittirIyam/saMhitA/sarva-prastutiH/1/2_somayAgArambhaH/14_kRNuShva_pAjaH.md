@@ -56,7 +56,8 @@ _________
 **Strata**  
 Strophic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -276,7 +277,8 @@ swiftly hurling your net, shooting your missiles, pierce the rakShas with your i
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Put forth your strength, **Agni**, as a fowler spreads a capacious snare; proceed like a king attended by his followers on his elephant; you are the scatterer (of your foes); following the swift-moving host consume the **rākṣasas** with your fiercest flames.”
 
@@ -422,7 +424,8 @@ _________
 **Strata**  
 Strophic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -618,7 +621,8 @@ Spread with thy tongue the flying flames, O agni; unstoppable, hurl forth firebr
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Your swift and errant flames descend (on everyside); fierce-shining with vigour consume (the foe); scatter, **Agni**, with the ladle (of oblation), scorching flames and sparks, and brands.”
 </details>
@@ -743,7 +747,8 @@ _________
 **Strata**  
 Strophic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -983,7 +988,8 @@ Dispatch your spies forward, the fast moving one, being undeceived, the guardian
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Do you, who are most rapid, direct your (flames) against opposing (rays), and, unresisted, become the protector of this your people against the calumniator who is remote or who is nigh; let no malevolent (foe) prevail against us (who are) your worshippers.”
 
@@ -1114,7 +1120,8 @@ _________
 **Strata**  
 Strophic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -1354,7 +1361,8 @@ Rise, O agni, blaze before us, one with sharp missiles, burn down our foes. Oh a
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Sharp-weaponed **Agni**, rise up; spread wide (your flames) against (the **rākṣasas**); entirely consume the foes; blazing Agni, burn down him who acts as an enemy towards us like a piece of dry timber.”
 
@@ -1482,7 +1490,8 @@ _________
 **Strata**  
 Strophic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -1703,7 +1712,8 @@ Slacken the firm bows of the inciters of yAtus, destroy our foemen whether from 
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Rise up, **Agni**, chastise those who overpower us; manifest your divine energies; slacken the strone (bow strings) of the malignant kings; destroy those (who are hostile), whether kindred or unallied.”
 
@@ -1841,7 +1851,8 @@ _________
 **Strata**  
 Strophic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -2063,7 +2074,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “He experiences your good favour, young (of the gods), who offers praise to you a **Brahman**, coming quickly (to bestow felicity); to him are all prosperous days and wealth (of cattle) and treasures; do you as the lord of sacrifice, shine upon his dwelling.”
 
@@ -2193,7 +2205,8 @@ _________
 **Strata**  
 Strophic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -2448,7 +2461,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “May the liberal man ever be prosperous who propitiate you with constant oblations and praises; may all the days in his arduous life be prosperous, and may this (his) sacrifice be (productive of reward).”
 </details>
@@ -2571,7 +2585,8 @@ _________
 **Strata**  
 Strophic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -2790,7 +2805,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “I reverence your good favour, **Agni**; may this reiterated and resounding hymn convey due praise to your presence; may we be possessed of good horses and good cars, that we may pay you homage; and do you daily bestow upon us riches.”
 
@@ -2920,7 +2936,8 @@ _________
 **Strata**  
 Strophic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -3126,7 +3143,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “May every one of his own accord diligently worship you, shining in the (hall) morning and evening, every day; thus, sporting in our dwellings, (enjoying) the wealth (of hostile) man, may we with happy hearts worship you.”
 </details>
@@ -3248,7 +3266,8 @@ _________
 **Strata**  
 Strophic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -3459,7 +3478,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “You **Agni**, are the protector of him who, possessed of good horses and a golden car, approaches you with a chariot laden with wealth; you are the friend of him who gratifies you be the due performance of hospitality to you.”
 </details>
@@ -3576,7 +3596,8 @@ _________
 **Strata**  
 Strophic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -3792,7 +3813,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Invoker (of the gods), young (of the deities) possessed of excellent wisdom, through the alliance (with you produced) by holy texts, which came to me from my father **Gotama**, I demolish the powerful (demons); do you who are the humbler (of foes), be cognizant of our praises.”
 </details>
@@ -3927,7 +3949,8 @@ _________
 **Strata**  
 Strophic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -4103,7 +4126,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “All-wise **Agni**, may your protecting (rays), unslumbering alert, propitious, unslothful, benignant, unwearied, co-operating, having taken their plural ce (at this sacrifice), preserve us.”
 </details>
@@ -4219,7 +4243,8 @@ _________
 **Strata**  
 Strophic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line  
@@ -4434,7 +4459,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Those your protecting (rays), **Agni**, which, beholding (what had chanced), preserved the blind son of **Mamatā** from misfortune; he, knowing all things, cherished those benevolent (rays), and his enemies, intending to destroy him, wrought him no harm.”
 
@@ -4566,7 +4592,8 @@ _________
 **Strata**  
 Strophic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -4731,7 +4758,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “**Agni**, who are freed from shame, by you we are made opulent; by you we are protected; may we, through your guidance, attain abundant food; cherisher of truth, destroy both (sorts of calumniators), those who are nigh, those who are far off, and in due course fulfil (our desires).”
 </details>
@@ -4848,7 +4876,8 @@ _________
 **Strata**  
 Strophic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -5052,7 +5081,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “May we propitiate you, **Agni**, by this fuel; accept the praise that is recited by us; consume the unadoring **rākṣasas**; you are to be honoured by (your) friends, preserve us from the reproach of the oppressor and the reviler.”
 </details>
@@ -5169,7 +5199,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -5387,7 +5418,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “I offer clarified butter to the powerful **Agni**, the slayer of **rākṣasas**, I approach the most spaciousdwelling, the friend (of worshippers); Agni sharpening (his flames) is kindled by pious men; may he guard us frommalignant spirits by day and by night.”
 </details>
@@ -5473,7 +5505,8 @@ _________
 **Strata**  
 Strophic on metrical evidence alone
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -5683,7 +5716,8 @@ _______________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “**Agni**, shines with great and varied radiance; he makes all things manifest by his might; he overcomes undivine malignant delusions; he sharpens his horns for the destruction of the **rākṣasas**.”
 </details>
@@ -5800,7 +5834,8 @@ _________
 **Strata**  
 Strophic on metrical evidence alone
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -6010,7 +6045,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “My roaring (flames), **Agni**, be manifest in the sky as sharp weapons wherewith to slay the **rākṣasas**; in his exhilaration his shining (rays) inflict (destruction), and undivine opposing (hosts) arrest him not.”
 </details>

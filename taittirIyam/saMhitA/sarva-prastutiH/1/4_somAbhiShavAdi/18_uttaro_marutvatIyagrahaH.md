@@ -42,7 +42,8 @@ _________
 **Strata**  
 Normal
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -248,7 +249,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “**Indra**, accompanied, by the **Maruts**, drink the **Soma** at this ceremony as you have drunk of this libation of the son of **Śāryāti**; your far-reaching and devout worshippers, being in security, adore you through their offerings.”
 

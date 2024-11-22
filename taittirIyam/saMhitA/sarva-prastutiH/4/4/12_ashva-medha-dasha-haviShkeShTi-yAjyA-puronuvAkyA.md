@@ -611,7 +611,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -838,7 +839,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “**Agni**, who is present in the sky, and present upon earth, and who, present, has pervaded all herbs; may the Agni **Vaiśvānara**, who is present in vigour, guard us night and day, against our enemies”
 
@@ -1062,7 +1064,8 @@ _________
 **Strata**  
 Strophic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
@@ -1188,7 +1191,8 @@ __________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “By what means may he who is ever augmenting, who is wonderful, who is our friend, be present with us, by what most effective rite?”
 </details>
@@ -1307,7 +1311,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -1494,7 +1499,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Who yokes todya to the pole of the car (of **Indra**) his vigorous and radiant steeds, whose fury is unbearable, in whose mouths are arrows, who trample on the hearts (of enemies), who give happiness (to friends). (The sacrificer) who praises their (performance of their) duties obtains (long) life.”
 </details>

@@ -56,7 +56,8 @@ _________
 **Strata**  
 Strophic on metrical evidence alone
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
@@ -168,7 +169,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “We invoke for you, **Indra**, who is everywhere among men; may he be exclusively our own.”
 </details>
@@ -286,7 +288,8 @@ _________
 **Strata**  
 Strophic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -524,7 +527,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Men invoke **Indra** in battle when those actions which lead to victory are performed; do you who are hero, the benefactor of man, the desirer of prowess, plural ce us in possession of pastures abounding with cattle.”
 </details>
@@ -644,7 +648,8 @@ _________
 **Strata**  
 Strophic on metrical evidence alone
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
@@ -773,7 +778,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “**Indra**, object of many rites, I regard the organs of sense, that exist in the five races (of beings dependent) on you as yours.”
 </details>
@@ -890,7 +896,8 @@ _________
 **Strata**  
 Archaic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -1127,7 +1134,8 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “All (power) has been successively conceded verily to you, **Indra**, who are mighty, for the destruction of the foe; suitable vigour, suitable strength in battle (has been given) to you, adorable Indra, by the gods.”
 </details>
@@ -1300,7 +1308,8 @@ _________
 **Strata**  
 Strophic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -1500,7 +1509,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “In the immature (cows) you produced the mature (milk),  
 you caused the sun to arise in heaven,(priests),  
@@ -1592,7 +1602,8 @@ _________
 **Strata**  
 Strophic on metrical evidence alone
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
@@ -1735,7 +1746,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “The chanters (of the **Soma**) extol **Indra** with songs, the reciters of the Ṛk with prayers, the priests of the **Yajuṣ**, with texts.”
 
@@ -1868,7 +1880,8 @@ _________
 **Strata**  
 Normal
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -2061,7 +2074,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “The chanters (of the **Soma**) hymn you, **Śatakratu**; the reciters of the Ṛk praise you, who are worthy of praise; the Bra-hmaṇas raise you aloft, like a bamboo pole.”
 
@@ -2249,7 +2263,8 @@ _________
 **Strata**  
 Normal
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -2479,7 +2494,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “When the thought of glorifying **Indra** entered my mind, then I gave birth (to his praises); may I laud him before encountering distant (evil) days, whereby he may guide us beyond sin; for those on both sides of us invoke him, as (those on either bank of a river hail) a passenger in a boat.”
 </details>
@@ -2699,7 +2715,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -2883,7 +2900,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “You have been born, **Indra**, endowed with protecting and desirable vigour; benefactor of mankind, youdid drive away the man who was unfriendly(to us), you prepared a spacious region for the gods.”
 </details>
@@ -3158,7 +3176,8 @@ _________
 **Strata**  
 Normal
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -3350,7 +3369,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “The **Ṛbhus** have fabricated your car, **Indra**, the invoked of many, adapted to its horses; **Tvaṣṭā** (had made) your radiant thunderbolt; the venerable (**Aṅgirasas**), praising Indra with hymns, have given him vigour for the destruction of Ahi.”
 
@@ -3487,7 +3507,8 @@ _________
 **Strata**  
 Normal
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -3701,7 +3722,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “When the **Maruts**, the showerers (of benefits), glorify you, **Indra**, the showerer (of desires), with praises, and the exulting stones delight (to bruise the **Soma**), then, without horses, without chariots, they, the purifying (Maruts), dispatched by Indra, have overcome the **Dasyus**.”
 </details>

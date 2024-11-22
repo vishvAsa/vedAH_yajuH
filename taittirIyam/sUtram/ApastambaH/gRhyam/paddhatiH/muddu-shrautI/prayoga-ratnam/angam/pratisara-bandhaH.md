@@ -764,7 +764,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
@@ -814,57 +815,45 @@ ráṇāya ← ráṇa- (nominal stem)
 -   *āpo* ← *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
 - *ṣṭhā* ← *as*
 - \[verb\], plural, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
 - *mayobhuvas* ← *mayaḥ* ← *mayas*
 - \[noun\], neuter
 - “pleasure; refreshment.”
-------------------------------------------------------------------------
 - *mayobhuvas* ← *bhuvaḥ* ← *bhū*
 - \[noun\], nominative, plural, feminine
 - “Earth; floor; earth; bhū; Earth; one; saurāṣṭrā; three; land; land;
     place; world; bhū \[word\]; soil; pṛthivī; being; bhūja; floor;
     bhūnāga; sphaṭikā; beginning; birth; estate.”
-------------------------------------------------------------------------
 - *tā* ← *tāḥ* ← *tad*
 - \[noun\], nominative, plural, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
 - *na* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
 - *ūrje* ← *ūrj*
 - \[noun\], dative, singular, feminine
 - “strength; refreshment; vigor; food; strengthening.”
-------------------------------------------------------------------------
 - *dadhātana* ← *dhā*
 - \[verb\], plural, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
-------------------------------------------------------------------------
 - *mahe* ← *mah*
 - \[noun\], dative, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
-------------------------------------------------------------------------
 - *raṇāya* ← *raṇa*
 - \[noun\], dative, singular, masculine
 - “battle; fight; pleasure; joy; war; combat.”
-------------------------------------------------------------------------
 - *cakṣase* ← *cakṣ*
 - \[verb noun\]
 - “watch; look.”
-------------------------------------------------------------------------
 </details>
 <details><summary>सायण-भाष्यम्</summary>
 
@@ -881,7 +870,8 @@ ráṇāya ← ráṇa- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Since, waters, you are the sources of happiness, grant to us to enjoy abundance, and great anddelightful perception.”
 
@@ -972,7 +962,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
@@ -1022,14 +1013,11 @@ uśatī́ḥ ← √vaś- (root)
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
 - *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
 - *śivatamo* ← *śivatamaḥ* ← *śivatama*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
 - *rasas* ← *rasaḥ* ← *rasa*
 - \[noun\], nominative, singular, masculine
 - “mercury; juice; medicine; rasa; alchemy; liquid; Rasa; mahārasa;
@@ -1037,38 +1025,30 @@ uśatī́ḥ ← √vaś- (root)
     body substance; rasa; formulation; myrrh; rasa \[word\]; amṛta;
     purpose; delight; solution; milk; beverage; alcohol; sap; nectar;
     Rasātala.”
-------------------------------------------------------------------------
 - *tasya* ← *tad*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
 - *bhājayateha* ← *bhājayata* ← *bhājay* ← *√bhaj*
 - \[verb\], plural, Present imperative
 - “distribute.”
-------------------------------------------------------------------------
 - *bhājayateha* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
-------------------------------------------------------------------------
 - *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
 - *uśatīr* ← *uśatīḥ* ← *vaś*
 - \[verb noun\], nominative, plural
 - “desire; agree; call; care; like; love.”
-------------------------------------------------------------------------
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
 - *mātaraḥ* ← *mātṛ*
 - \[noun\], nominative, plural, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
-------------------------------------------------------------------------
 </details>
 <details><summary>सायण-भाष्यम्</summary>
 
@@ -1083,7 +1063,8 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Give us to partake in this world of your most auspicious **Soma**, like affectionate mothers.”
 </details>
@@ -1162,7 +1143,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
@@ -1214,50 +1196,39 @@ naḥ ← ahám (pronoun)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
 - *araṃ* ← *aram*
 - \[adverb\]
-------------------------------------------------------------------------
 - *gamāma* ← *gam*
 - \[verb\], plural, Present imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
-------------------------------------------------------------------------
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], dative, plural
 - “you.”
-------------------------------------------------------------------------
 - *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
 - *kṣayāya* ← *kṣaya*
 - \[noun\], dative, singular, masculine
 - “dwelling; house; kṣaya \[word\]; home; family.”
-------------------------------------------------------------------------
 - *jinvatha* ← *jinv*
 - \[verb\], plural, Present indikative
 - “enliven; animate.”
-------------------------------------------------------------------------
 - *āpo* ← *āpaḥ* ← *ap*
 - \[noun\], vocative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
-------------------------------------------------------------------------
 - *janayathā* ← *janay* ← *√jan*
 - \[verb\], plural, Present indikative
 - “cause; give birth; produce; beget; generate; originate; create;
     create; make.”
-------------------------------------------------------------------------
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
 - *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
 </details>
 <details><summary>सायण-भाष्यम्</summary>
 
@@ -1273,7 +1244,8 @@ _____________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Let us quickly have recourse to you, for that your (faculty) of removing (sin) by which you gladden us;waters, bestow upon us progeny.”
 
@@ -1581,7 +1553,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -1653,80 +1626,62 @@ syāma ← √as- 1 (root)
 -   *ud*
 - \[adverb\]
 - “up.”
-------------------------------------------------------------------------
 - *uttamaṃ* ← *uttamam* ← *uttama*
 - \[noun\], accusative, singular, masculine
 - “best; excellent; highest; better; extreme; last; first; topmost;
     chief(a); higher; highest; maximal; uttama \[word\]; prevailing;
     finest.”
-------------------------------------------------------------------------
 - *varuṇa*
 - \[noun\], vocative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
 - *pāśam* ← *pāśa*
 - \[noun\], accusative, singular, masculine
 - “noose; shackle; eye; pāśa \[word\]; fetter.”
-------------------------------------------------------------------------
 - *asmad* ← *asmat* ← *mad*
 - \[noun\], ablative, plural
 - “I; mine.”
-------------------------------------------------------------------------
 - *avādhamaṃ* ← *ava*
 - \[adverb\]
 - “down.”
-------------------------------------------------------------------------
 - *avādhamaṃ* ← *adhamam* ← *adhama*
 - \[noun\], accusative, singular, masculine
 - “worst; bottom; despicable; worse; adhama \[word\]; last.”
-------------------------------------------------------------------------
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
 - *madhyamaṃ* ← *madhyamam* ← *madhyama*
 - \[noun\], accusative, singular, masculine
 - “intermediate; middle; average; second; average; adult; central;
     moderate; mean; center(a).”
-------------------------------------------------------------------------
 - *śrathāya* ← *śrathāy* ← *√śrath*
 - \[verb\], singular, Present imperative
-------------------------------------------------------------------------
 - *athā* ← *atha*
 - \[adverb\]
 - “now; then; furthermore; now; then.”
-------------------------------------------------------------------------
 - *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
-------------------------------------------------------------------------
 - *āditya*
 - \[noun\], vocative, singular, masculine
 - “sun; Aditya; Surya; āditya \[word\].”
-------------------------------------------------------------------------
 - *vrate* ← *vrata*
 - \[noun\], locative, singular, neuter
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
-------------------------------------------------------------------------
 - *tavānāgaso* ← *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
 - *tavānāgaso* ← *anāgasaḥ* ← *anāgas*
 - \[noun\], nominative, plural, masculine
 - “blameless; impeccant.”
-------------------------------------------------------------------------
 - *aditaye* ← *aditi*
 - \[noun\], dative, singular, feminine
 - “Aditi; aditi \[word\].”
-------------------------------------------------------------------------
 - *syāma* ← *as*
 - \[verb\], plural, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
 </details>
 <details><summary>सायण-भाष्यम्</summary>
 
@@ -1745,7 +1700,8 @@ _______________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “**Varuṇa**, loosen for me the upper, the middle, the lower band; so, son of **Aditi**, shall we, through faultlessness in the worship, become freed from siṇ”
 
@@ -1905,7 +1861,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -1986,93 +1943,72 @@ tásmāt ← sá- ~ tá- (pronoun)
 -   *yat* ← *yad*
 - \[noun\], accusative, singular, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
 - *kiṃ* ← *kim* ← *ka*
 - \[noun\], accusative, singular, neuter
 - “what; who; ka \[pronoun\].”
-------------------------------------------------------------------------
 - *cedaṃ* ← *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
 - *cedaṃ* ← *idam*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
 - *varuṇa*
 - \[noun\], vocative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
 - *daivye* ← *daivya*
 - \[noun\], locative, singular, masculine
 - “divine; divine; celestial.”
-------------------------------------------------------------------------
 - *jane* ← *jana*
 - \[noun\], locative, singular, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
-------------------------------------------------------------------------
 - *'bhidroham* ← *abhidroham* ← *abhidroha*
 - \[noun\], accusative, singular, masculine
 - “misdemeanor.”
-------------------------------------------------------------------------
 - *manuṣyāś* ← *manuṣyāḥ* ← *manuṣya*
 - \[noun\], nominative, plural, masculine
 - “man; people; man; manuṣya \[word\].”
-------------------------------------------------------------------------
 - *carāmasi* ← *car*
 - \[verb\], plural, Present indikative
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
-------------------------------------------------------------------------
 - *acittī* ← *acitti*
 - \[noun\], instrumental, singular, feminine
 - “ignorance.”
-------------------------------------------------------------------------
 - *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
 - *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
 - *dharmā* ← *dharman*
 - \[noun\], accusative, plural, neuter
 - “regulation; Dharma; law; property.”
-------------------------------------------------------------------------
 - *yuyopima* ← *yup*
 - \[verb\], plural, Perfect indicative
-------------------------------------------------------------------------
 - *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
 - *nas* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
 - *tasmād* ← *tasmāt* ← *tad*
 - \[noun\], ablative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
 - *enaso* ← *enasaḥ* ← *enas*
 - \[noun\], ablative, singular, neuter
 - “sin; calamity; blame.”
-------------------------------------------------------------------------
 - *deva*
 - \[noun\], vocative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
 - *rīriṣaḥ* ← *riṣ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “suffer; harm.”
-------------------------------------------------------------------------
 </details>
 <details><summary>सायण-भाष्यम्</summary>
 
@@ -2080,7 +2016,8 @@ tásmāt ← sá- ~ tá- (pronoun)
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Whatever the offence which we men commit **Varuṇa** against divine beings, whatever law of yours wemay through ignorance violate, do not you, divine Varuṇa, punish us on account of that iniquity.”
 </details>
@@ -2163,7 +2100,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -2256,110 +2194,85 @@ varuṇa ← váruṇa- (nominal stem)
 -   *kitavāso* ← *kitavāsaḥ* ← *kitava*
 - \[noun\], nominative, plural, masculine
 - “gambler; deceiver; thorn apple; kitava \[word\].”
-------------------------------------------------------------------------
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
 - *riripur* ← *riripuḥ* ← *rip*
 - \[verb\], plural, Perfect indicative
-------------------------------------------------------------------------
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
 - *dīvi* ← *dīv*
 - \[noun\], locative, singular, feminine
 - “gambling.”
-------------------------------------------------------------------------
 - *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
 - *vā*
 - \[adverb\]
 - “or; optionally; either.”
-------------------------------------------------------------------------
 - *ghā* ← *gha*
 - \[adverb\]
-------------------------------------------------------------------------
 - *satyam* ← *satya*
 - \[noun\], accusative, singular, neuter
 - “true; real; real; faithful; good.”
-------------------------------------------------------------------------
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
-------------------------------------------------------------------------
 - *yan* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
 - *vidma* ← *vid*
 - \[verb\], plural, Perfect indicative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
 - *sarvā* ← *sarva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
     entire; sāṃnipātika; manifold; complete; all the(a); different;
     overall.”
-------------------------------------------------------------------------
 - *tā* ← *tad*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
 - *ṣya* ← *sya* ← *sā*
 - \[verb\], singular, Present imperative
 - “tie.”
-------------------------------------------------------------------------
 - *śithireva* ← *śithirā* ← *śithira*
 - \[noun\], accusative, plural, neuter
 - “flexible; flexible.”
-------------------------------------------------------------------------
 - *śithireva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
-------------------------------------------------------------------------
 - *devādhā* ← *deva*
 - \[noun\], vocative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
 - *devādhā* ← *adhā* ← *adha*
 - \[adverb\]
 - “then; and; therefore; now.”
-------------------------------------------------------------------------
 - *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
 - *syāma* ← *as*
 - \[verb\], plural, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
 - *varuṇa*
 - \[noun\], vocative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
 - *priyāsaḥ* ← *priya*
 - \[noun\], nominative, plural, masculine
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
-------------------------------------------------------------------------
 </details>
 <details><summary>सायण-भाष्यम्</summary>
 
@@ -2374,7 +2287,8 @@ varuṇa ← váruṇa- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “If, like gamesters, who cheat at plural y, (we commit offences) knowingly, or (those) of which we know not, do you divine **Varuṇa**, extricate us from them all, as if from loosened (bonds), so that we may be dear, Varuṇa, to you.”
 </details>
@@ -2484,7 +2398,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -2553,67 +2468,51 @@ rā́jan ← rā́jan- (nominal stem)
 -   *ava*
 - \[adverb\]
 - “down.”
-------------------------------------------------------------------------
 - *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
-------------------------------------------------------------------------
 - *heḍo* ← *heḍaḥ* ← *heḍas*
 - \[noun\], accusative, singular, neuter
 - “wrath.”
-------------------------------------------------------------------------
 - *varuṇa*
 - \[noun\], vocative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
 - *namobhir* ← *namobhiḥ* ← *namas*
 - \[noun\], instrumental, plural, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
-------------------------------------------------------------------------
 - *ava*
 - \[adverb\]
 - “down.”
-------------------------------------------------------------------------
 - *yajñebhir* ← *yajñebhiḥ* ← *yajña*
 - \[noun\], instrumental, plural, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
-------------------------------------------------------------------------
 - *īmahe* ← *i*
 - \[verb\], plural, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
-------------------------------------------------------------------------
 - *havirbhiḥ* ← *havis*
 - \[noun\], instrumental, plural, neuter
 - “Havya; offering; ghee; havis \[word\].”
-------------------------------------------------------------------------
 - *kṣayann* ← *kṣayan* ← *kṣi*
 - \[verb noun\], nominative, singular
 - “govern; inhabit; dwell; stay; predominate; bide; own.”
-------------------------------------------------------------------------
 - *asmabhyam* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
-------------------------------------------------------------------------
 - *asura*
 - \[noun\], vocative, singular, masculine
 - “Asura; lord; asura \[word\]; sulfur.”
-------------------------------------------------------------------------
 - *pracetā* ← *pracetāḥ* ← *pracetas*
 - \[noun\], nominative, singular, masculine
 - “intelligent; mindful; attentive; wise; apt; observant.”
-------------------------------------------------------------------------
 - *rājann* ← *rājan*
 - \[noun\], vocative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
-------------------------------------------------------------------------
 - *enāṃsi* ← *enas*
 - \[noun\], accusative, plural, neuter
 - “sin; calamity; blame.”
-------------------------------------------------------------------------
 - *śiśrathaḥ* ← *śrath*
 - \[verb\], singular, Aorist inj. (proh.)
-------------------------------------------------------------------------
 - *kṛtāni* ← *kṛ*
 - \[verb noun\], accusative, plural
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -2624,7 +2523,6 @@ rā́jan ← rā́jan- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
 </details>
 <details><summary>सायण-भाष्यम्</summary>
 
@@ -2648,7 +2546,8 @@ _______________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “**Varuṇa**, we deprecate your wrath with prostrations, with sacrifices, with oblations; averter of misfortune, wise and illustrious, be present amongst us, and mitigate the evils we have committed.”
 
@@ -2762,7 +2661,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -2842,100 +2742,78 @@ prá ← prá (invariable)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
 - *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
-------------------------------------------------------------------------
 - *yāmi* ← *yā*
 - \[verb\], singular, Present indikative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
 - *brahmaṇā* ← *brahman*
 - \[noun\], instrumental, singular, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
-------------------------------------------------------------------------
 - *vandamānas* ← *vandamānaḥ* ← *vand*
 - \[verb noun\], nominative, singular
 - “worship; laud.”
-------------------------------------------------------------------------
 - *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
 - *śāste* ← *śās*
 - \[verb\], singular, Present indikative
 - “teach; govern; command; order; control; tell; recommend; chastize;
     instruct.”
-------------------------------------------------------------------------
 - *yajamāno* ← *yajamānaḥ* ← *yajamāna*
 - \[noun\], nominative, singular, masculine
 - “Yajamāna.”
-------------------------------------------------------------------------
 - *havirbhiḥ* ← *havis*
 - \[noun\], instrumental, plural, neuter
 - “Havya; offering; ghee; havis \[word\].”
-------------------------------------------------------------------------
 - *aheḍamāno* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
-------------------------------------------------------------------------
 - *aheḍamāno* ← *heḍamānaḥ* ← *hīḍ*
 - \[verb noun\], nominative, singular
 - “anger; stew.”
-------------------------------------------------------------------------
 - *varuṇeha* ← *varuṇa*
 - \[noun\], vocative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
-------------------------------------------------------------------------
 - *varuṇeha* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
-------------------------------------------------------------------------
 - *bodhy* ← *bodhi* ← *bhū*
 - \[verb\], singular, Aorist imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
 - *uruśaṃsa* ← *uru*
 - \[noun\]
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
-------------------------------------------------------------------------
 - *uruśaṃsa* ← *śaṃsa*
 - \[noun\], vocative, singular, masculine
 - “praise; śaṃs; recitation.”
-------------------------------------------------------------------------
 - *mā*
 - \[adverb\]
 - “not.”
-------------------------------------------------------------------------
 - *na* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
 - *āyuḥ* ← *āyus*
 - \[noun\], accusative, singular, neuter
 - “life; longevity; āyus; life; āyus \[word\]; Āyus.”
-------------------------------------------------------------------------
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
 - *moṣīḥ* ← *muṣ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “rob; remove; steal.”
-------------------------------------------------------------------------
 </details>
 <details><summary>सायण-भाष्यम्</summary>
 
@@ -2943,7 +2821,8 @@ prá ← prá (invariable)
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Praising you with (devout) prayer, I implore you for that (life) which the instrumental tutor of the sacrifice solicits with oblations; **Varuṇa**, undisdainful, bestow a thought upon us; much-lauded, take not away our existence.”
 
@@ -3100,7 +2979,8 @@ _________
 **Strata**  
 Normal
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -3175,84 +3055,64 @@ vapantu ← √vap- 2 (root)
 -   *stuhi* ← *stu*
 - \[verb\], singular, Present imperative
 - “laud; praise; declare; stu.”
-------------------------------------------------------------------------
 - *śrutaṃ* ← *śrutam* ← *śru*
 - \[verb noun\], accusative, singular
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
-------------------------------------------------------------------------
 - *gartasadaṃ* ← *garta*
 - \[noun\], masculine
-------------------------------------------------------------------------
 - *gartasadaṃ* ← *sadam* ← *sad*
 - \[noun\], accusative, singular, masculine
 - “seated.”
-------------------------------------------------------------------------
 - *yuvānam* ← *yuvan*
 - \[noun\], accusative, singular, masculine
 - “young; youthful.”
-------------------------------------------------------------------------
 - *mṛgaṃ* ← *mṛgam* ← *mṛga*
 - \[noun\], accusative, singular, masculine
 - “game; deer; animal; antelope; mṛga \[word\]; Mṛgaśiras.”
-------------------------------------------------------------------------
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
 - *bhīmam* ← *bhīma*
 - \[noun\], accusative, singular, masculine
 - “awful; amazing; terrific; enormous; bhīma \[word\]; fearful.”
-------------------------------------------------------------------------
 - *upahatnum* ← *upahatnu*
 - \[noun\], accusative, singular, masculine
 - “hurtful.”
-------------------------------------------------------------------------
 - *ugram* ← *ugra*
 - \[noun\], accusative, singular, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
-------------------------------------------------------------------------
 - *mṛḍā* ← *mṛḍ*
 - \[verb\], singular, Present imperative
 - “pardon.”
-------------------------------------------------------------------------
 - *jaritre* ← *jaritṛ*
 - \[noun\], dative, singular, masculine
 - “singer.”
-------------------------------------------------------------------------
 - *rudra*
 - \[noun\], vocative, singular, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
-------------------------------------------------------------------------
 - *stavāno* ← *stavānaḥ* ← *stu*
 - \[verb noun\], nominative, singular
 - “laud; praise; declare; stu.”
-------------------------------------------------------------------------
 - *'nyaṃ* ← *anyam* ← *anya*
 - \[noun\], accusative, singular, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
-------------------------------------------------------------------------
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
 - *asman* ← *asmat* ← *mad*
 - \[noun\], ablative, plural
 - “I; mine.”
-------------------------------------------------------------------------
 - *ni*
 - \[adverb\]
 - “back; down.”
-------------------------------------------------------------------------
 - *vapantu* ← *vap*
 - \[verb\], plural, Present imperative
 - “sow; bestrew; strew; scatter.”
-------------------------------------------------------------------------
 - *senāḥ* ← *senā*
 - \[noun\], nominative, plural, feminine
 - “army; senā \[word\]; armament.”
-------------------------------------------------------------------------
 </details>
 <details><summary>सायण-भाष्यम्</summary>
 
@@ -3271,7 +3131,8 @@ vapantu ← √vap- 2 (root)
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Glorify the renowned **Rudra**, riding in his car, ever youthful, destructive, fierce like a formidable wild beast; Rudra, propitiated by praise, grant happiness to him who praises (you), and let your hosts destroy him who is our adversary.”
 </details>
@@ -3474,7 +3335,8 @@ _________
 **Strata**  
 Normal
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -3558,94 +3420,72 @@ vidhatáḥ ← √vidh- (root)
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
 - *rudro* ← *rudraḥ* ← *rudra*
 - \[noun\], nominative, singular, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
-------------------------------------------------------------------------
 - *asuro* ← *asuraḥ* ← *asura*
 - \[noun\], nominative, singular, masculine
 - “Asura; lord; asura \[word\]; sulfur.”
-------------------------------------------------------------------------
 - *maho* ← *mahaḥ* ← *mah*
 - \[noun\], genitive, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
-------------------------------------------------------------------------
 - *divas* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
 - *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
 - *śardho* ← *śardhaḥ* ← *śardhas*
 - \[noun\], nominative, singular, neuter
 - “troop.”
-------------------------------------------------------------------------
 - *mārutam* ← *māruta*
 - \[noun\], nominative, singular, neuter
 - “Marut(a).”
-------------------------------------------------------------------------
 - *pṛkṣa* ← *pṛkṣaḥ* ← *pṛkṣ*
 - \[noun\], genitive, singular, feminine
 - “food; refreshment; power.”
-------------------------------------------------------------------------
 - *īśiṣe* ← *īś*
 - \[verb\], singular, Present indikative
 - “govern; command; master; dominate; can; reign; control; own.”
-------------------------------------------------------------------------
 - *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
 - *vātair* ← *vātaiḥ* ← *vāta*
 - \[noun\], instrumental, plural, masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
-------------------------------------------------------------------------
 - *aruṇair* ← *aruṇaiḥ* ← *aruṇa*
 - \[noun\], instrumental, plural, masculine
 - “red; tawny; dusty; gray.”
-------------------------------------------------------------------------
 - *yāsi* ← *yā*
 - \[verb\], singular, Present indikative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
-------------------------------------------------------------------------
 - *śaṅgayas* ← *śaṅgayaḥ* ← *śaṃgaya*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
 - *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
 - *pūṣā* ← *pūṣan*
 - \[noun\], nominative, singular, masculine
 - “Pushan; pūṣan \[word\]; sun.”
-------------------------------------------------------------------------
 - *vidhataḥ* ← *vidh*
 - \[verb noun\], accusative, plural
 - “worship; offer.”
-------------------------------------------------------------------------
 - *pāsi* ← *pā*
 - \[verb\], singular, Present indikative
 - “protect; govern.”
-------------------------------------------------------------------------
 - *nu*
 - \[adverb\]
 - “now; already.”
-------------------------------------------------------------------------
 - *tmanā* ← *tman*
 - \[noun\], instrumental, singular, masculine
 - “self.”
-------------------------------------------------------------------------
 </details>
 <details><summary>सायण-भाष्यम्</summary>
 
@@ -3672,7 +3512,8 @@ vidhatáḥ ← √vidh- (root)
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “You, **Agni**, are **Rudra**, the expeller (of foes) from the expanse of heaven; you are the strength of the **Maruts**; you are supreme over (sacrificial) food; you, who are plural asantly domiciled (in the hall of sacrifice), go with ruddy horses, (fleet as) the wind; as **Pūṣan**, you cherish, of yours own will, those who offer worship.”
 </details>
@@ -3792,7 +3633,8 @@ _________
 **Strata**  
 Strophic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -3855,71 +3697,55 @@ kr̥ṇudhvam ← √kr̥- (root)
 -   *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
 - *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
-------------------------------------------------------------------------
 - *rājānam* ← *rājan*
 - \[noun\], accusative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
-------------------------------------------------------------------------
 - *adhvarasya* ← *adhvara*
 - \[noun\], genitive, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
-------------------------------------------------------------------------
 - *rudraṃ* ← *rudram* ← *rudra*
 - \[noun\], accusative, singular, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
-------------------------------------------------------------------------
 - *hotāraṃ* ← *hotāram* ← *hotṛ*
 - \[noun\], accusative, singular, masculine
 - “Hotṛ.”
-------------------------------------------------------------------------
 - *satyayajaṃ* ← *satya*
 - \[noun\]
 - “true; real; real; faithful; good.”
-------------------------------------------------------------------------
 - *satyayajaṃ* ← *yajam* ← *yaj*
 - \[noun\], accusative, singular, masculine
 - “sacrificing.”
-------------------------------------------------------------------------
 - *rodasyoḥ* ← *rodasī*
 - \[noun\], genitive, dual, feminine
 - “heaven and earth; Earth.”
-------------------------------------------------------------------------
 - *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
 - *purā*
 - \[adverb\]
 - “once; earlier; first; purā \[indecl.\].”
-------------------------------------------------------------------------
 - *tanayitnor* ← *tanayitnoḥ* ← *tanayitnu*
 - \[noun\], ablative, singular, masculine
-------------------------------------------------------------------------
 - *acittāddhiraṇyarūpam* ← *acittāt* ← *acitta*
 - \[noun\], ablative, singular, masculine
 - “unexpected.”
-------------------------------------------------------------------------
 - *acittāddhiraṇyarūpam* ← *hiraṇya*
 - \[noun\], neuter
 - “gold; jewelry; hiraṇya \[word\]; gold.”
-------------------------------------------------------------------------
 - *acittāddhiraṇyarūpam* ← *rūpam* ← *rūpa*
 - \[noun\], accusative, singular, masculine
 - “form; appearance; beauty; look; shape; shape; symptom; feature;
     nature; guise; rūpa \[word\]; one; appearance; likeness; color;
     kind; vowel; type; disguise; aspect; form; derivative; omen;
     vision.”
-------------------------------------------------------------------------
 - *avase* ← *av*
 - \[verb noun\]
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
 - *kṛṇudhvam* ← *kṛ*
 - \[verb\], plural, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -3930,7 +3756,6 @@ kr̥ṇudhvam ← √kr̥- (root)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
 </details>
 <details><summary>सायण-भाष्यम्</summary>
 
@@ -3938,7 +3763,8 @@ kr̥ṇudhvam ← √kr̥- (root)
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Secure **Agni**, the king of sacrifice, the afflicter (of foes), the invoker (of the gods), the distributor of food through heaven and earth, the golden-formed, for your protection before (surprised by) sudden death.”
 
@@ -4307,7 +4133,8 @@ _________
 **Strata**  
 Strophic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -4376,82 +4203,64 @@ vicakramāṇáḥ ← √kramⁱ- (root)
 -   *viṣṇor* ← *viṣṇoḥ* ← *viṣṇu*
 - \[noun\], genitive, singular, masculine
 - “Vishnu; Krishna; Viṣṇu; Om; Shiva.”
-------------------------------------------------------------------------
 - *nu*
 - \[adverb\]
 - “now; already.”
-------------------------------------------------------------------------
 - *kaṃ* ← *kam* ← *kaṃ*
 - \[adverb\]
 - “kaṃ \[word\].”
-------------------------------------------------------------------------
 - *vīryāṇi* ← *vīrya*
 - \[noun\], accusative, plural, neuter
 - “potency; vīrya; heroism; potency; strength; semen; power; deed;
     active agent; efficacy; vīryapāramitā; gold; vigor; vīrya \[word\];
     virility; manfulness; jewel; force.”
-------------------------------------------------------------------------
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
 - *vocaṃ* ← *vocam* ← *vac*
 - \[verb\], singular, Aorist inj. (proh.)
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
     recommend; answer; deem; recite; approve; proclaim; indicate;
     determine; mention; designate.”
-------------------------------------------------------------------------
 - *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
 - *pārthivāni* ← *pārthiva*
 - \[noun\], accusative, plural, neuter
 - “earthly; earthen; mundane; royal; tellurian; sublunar.”
-------------------------------------------------------------------------
 - *vimame* ← *vimā* ← *√mā*
 - \[verb\], singular, Perfect indicative
 - “arrange; distribute; barter; measure; fixate.”
-------------------------------------------------------------------------
 - *rajāṃsi* ← *rajas*
 - \[noun\], accusative, plural, neuter
 - “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
-------------------------------------------------------------------------
 - *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
 - *askabhāyad* ← *askabhāyat* ← *skabhāy* ← *√skambh*
 - \[verb\], singular, Imperfect
-------------------------------------------------------------------------
 - *uttaraṃ* ← *uttaram* ← *uttara*
 - \[noun\], accusative, singular, neuter
 - “northern; following; upper; additional; better; more(a); last;
     concluding; superior; later(a); uttara \[word\]; prevailing; future;
     left; northerly; northerly; higher; second; dominant; excellent;
     chief(a).”
-------------------------------------------------------------------------
 - *sadhasthaṃ* ← *sadhastham* ← *sadhastha*
 - \[noun\], accusative, singular, neuter
 - “dwelling; location; home.”
-------------------------------------------------------------------------
 - *vicakramāṇas* ← *vicakramāṇaḥ* ← *vikram* ← *√kram*
 - \[verb noun\], nominative, singular
 - “act heroicly; stride.”
-------------------------------------------------------------------------
 - *tredhorugāyaḥ* ← *tredhā*
 - \[adverb\]
 - “threefold.”
-------------------------------------------------------------------------
 - *tredhorugāyaḥ* ← *uru*
 - \[noun\]
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
-------------------------------------------------------------------------
 - *tredhorugāyaḥ* ← *gāyaḥ* ← *gāya*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
 </details>
 <details><summary>सायण-भाष्यम्</summary>
 
@@ -4467,7 +4276,8 @@ vicakramāṇáḥ ← √kramⁱ- (root)
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Earnetly I glorify the exploits of **Viṣṇu**, who made the **three worlds**; who sustained the lofty aggregate site (of the spheres); thrice traversing (the whole); who is praised by the exalted.”
 
@@ -4597,7 +4407,8 @@ _________
 **Strata**  
 Strophic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -4677,90 +4488,70 @@ víṣṇoḥ ← víṣṇu- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
 - *priyam* ← *priya*
 - \[noun\], accusative, singular, neuter
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
-------------------------------------------------------------------------
 - *abhi*
 - \[adverb\]
 - “towards; on.”
-------------------------------------------------------------------------
 - *pātho* ← *pāthaḥ* ← *pāthas*
 - \[noun\], accusative, singular, neuter
 - “pāthas \[word\]; water; place.”
-------------------------------------------------------------------------
 - *aśyāṃ* ← *aśyām* ← *aś*
 - \[verb\], singular, Aorist optative
 - “get; reach; enter (a state).”
-------------------------------------------------------------------------
 - *naro* ← *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
-------------------------------------------------------------------------
 - *yatra*
 - \[adverb\]
 - “wherein; once \[when\].”
-------------------------------------------------------------------------
 - *devayavo* ← *devayavaḥ* ← *devayu*
 - \[noun\], nominative, plural, masculine
 - “devout; devoted.”
-------------------------------------------------------------------------
 - *madanti* ← *mad*
 - \[verb\], plural, Present indikative
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
-------------------------------------------------------------------------
 - *urukramasya* ← *urukrama*
 - \[noun\], genitive, singular, masculine
 - “Vishnu.”
-------------------------------------------------------------------------
 - *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
 - *bandhur* ← *bandhuḥ* ← *bandhu*
 - \[noun\], nominative, singular, masculine
 - “relative; bandhu \[word\]; association; friend; kin.”
-------------------------------------------------------------------------
 - *itthā*
 - \[adverb\]
 - “thus; here.”
-------------------------------------------------------------------------
 - *viṣṇoḥ* ← *viṣṇu*
 - \[noun\], genitive, singular, masculine
 - “Vishnu; Krishna; Viṣṇu; Om; Shiva.”
-------------------------------------------------------------------------
 - *pade* ← *pada*
 - \[noun\], locative, singular, neuter
 - “word; location; foot; footprint; pada \[word\]; verse; footstep;
     metrical foot; situation; dwelling; state; step; mark; position;
     trace; construction; animal foot; way; moment; social station;
     topographic point; path; residence; site; topic.”
-------------------------------------------------------------------------
 - *parame* ← *parama*
 - \[noun\], locative, singular, neuter
 - “extreme; best; excellent; highest; highest; devoted(p); maximal;
     distant; parama \[word\]; very; farthermost.”
-------------------------------------------------------------------------
 - *madhva* ← *madhvaḥ* ← *madhu*
 - \[noun\], genitive, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
-------------------------------------------------------------------------
 - *utsaḥ* ← *utsa*
 - \[noun\], nominative, singular, masculine
 - “spring; fountain; utsa \[word\]; well.”
-------------------------------------------------------------------------
 </details>
 <details><summary>सायण-भाष्यम्</summary>
 
@@ -4773,7 +4564,8 @@ __________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “May I attain his favourite path, in which god-seeking men delight; (the path) of that wide-stepping **Viṣṇu**, in whose exalted station there is a (perpetual) flow of felicity; for to such a degree is he the friend (of the pious).”
 
@@ -4884,7 +4676,8 @@ _________
 **Strata**  
 Strophic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -4953,72 +4746,55 @@ víśvā ← víśva- (nominal stem)
 -   *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
 - *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
 - *viṣṇu* ← *viṣṇuḥ* ← *viṣṇu*
 - \[noun\], nominative, singular, masculine
 - “Vishnu; Krishna; Viṣṇu; Om; Shiva.”
-------------------------------------------------------------------------
 - *stavate* ← *stu*
 - \[verb\], singular, Present indikative
 - “laud; praise; declare; stu.”
-------------------------------------------------------------------------
 - *vīryeṇa* ← *vīrya*
 - \[noun\], instrumental, singular, neuter
 - “potency; vīrya; heroism; potency; strength; semen; power; deed;
     active agent; efficacy; vīryapāramitā; gold; vigor; vīrya \[word\];
     virility; manfulness; jewel; force.”
-------------------------------------------------------------------------
 - *mṛgo* ← *mṛgaḥ* ← *mṛga*
 - \[noun\], nominative, singular, masculine
 - “game; deer; animal; antelope; mṛga \[word\]; Mṛgaśiras.”
-------------------------------------------------------------------------
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
 - *bhīmaḥ* ← *bhīma*
 - \[noun\], nominative, singular, masculine
 - “awful; amazing; terrific; enormous; bhīma \[word\]; fearful.”
-------------------------------------------------------------------------
 - *kucaro* ← *kucaraḥ* ← *kucara*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
 - *giriṣṭhāḥ* ← *giriṣṭhā*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
 - *yasyoruṣu* ← *yasya* ← *yad*
 - \[noun\], genitive, singular, neuter
 - “who; which; yat \[pronoun\].”
-------------------------------------------------------------------------
 - *yasyoruṣu* ← *uruṣu* ← *uru*
 - \[noun\], locative, plural, neuter
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
-------------------------------------------------------------------------
 - *triṣu* ← *tri*
 - \[noun\], locative, plural, neuter
 - “three; tri/tisṛ \[word\].”
-------------------------------------------------------------------------
 - *vikramaṇeṣv* ← *vikramaṇeṣu* ← *vikramaṇa*
 - \[noun\], locative, plural, neuter
-------------------------------------------------------------------------
 - *adhikṣiyanti* ← *adhikṣi* ← *√kṣi*
 - \[verb\], plural, Present indikative
-------------------------------------------------------------------------
 - *bhuvanāni* ← *bhuvana*
 - \[noun\], nominative, plural, neuter
 - “Earth; being; world; bhuvana \[word\].”
-------------------------------------------------------------------------
 - *viśvā* ← *viśva*
 - \[noun\], nominative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
 </details>
 <details><summary>सायण-भाष्यम्</summary>
 
@@ -5029,7 +4805,8 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “**Viṣṇu** is therefore glorified, that by his prowess he is like a fearful, ravenous, and mountain-haunting wild beast, and because of that in his three paces all worlds abide.”
 
@@ -5157,7 +4934,8 @@ _________
 **Strata**  
 Strophic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -5232,87 +5010,68 @@ vitse ← √vid- 2 (root)
 -   *paro* ← *paras*
 - \[adverb\]
 - “beyond; away; farther.”
-------------------------------------------------------------------------
 - *mātrayā* ← *mātrā*
 - \[noun\], instrumental, singular, feminine
 - “measure; weight; quantity; syllable; mātrā; property; part;
     particle; mātrā \[word\]; household effects; morsel; mirror;
     substance.”
-------------------------------------------------------------------------
 - *tanvā* ← *tanū*
 - \[noun\], instrumental, singular, feminine
 - “body; self; own(a); person; form.”
-------------------------------------------------------------------------
 - *vṛdhāna* ← *vṛdh*
 - \[verb noun\], vocative, singular
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
-------------------------------------------------------------------------
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
 - *mahitvam* ← *mahitva*
 - \[noun\], accusative, singular, neuter
 - “greatness.”
-------------------------------------------------------------------------
 - *anv* ← *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
-------------------------------------------------------------------------
 - *aśnuvanti* ← *aś*
 - \[verb\], plural, Present indikative
 - “get; reach; enter (a state).”
-------------------------------------------------------------------------
 - *ubhe* ← *ubh*
 - \[noun\], accusative, dual, neuter
 - “both(a).”
-------------------------------------------------------------------------
 - *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
-------------------------------------------------------------------------
 - *vidma* ← *vid*
 - \[verb\], plural, Perfect indicative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
 - *rajasī* ← *rajas*
 - \[noun\], accusative, dual, neuter
 - “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
-------------------------------------------------------------------------
 - *pṛthivyā* ← *pṛthivyāḥ* ← *pṛthivī*
 - \[noun\], genitive, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
-------------------------------------------------------------------------
 - *viṣṇo* ← *viṣṇu*
 - \[noun\], vocative, singular, masculine
 - “Vishnu; Krishna; Viṣṇu; Om; Shiva.”
-------------------------------------------------------------------------
 - *deva*
 - \[noun\], vocative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
 - *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
-------------------------------------------------------------------------
 - *paramasya* ← *parama*
 - \[noun\], genitive, singular, masculine
 - “extreme; best; excellent; highest; highest; devoted(p); maximal;
     distant; parama \[word\]; very; farthermost.”
-------------------------------------------------------------------------
 - *vitse* ← *vid*
 - \[verb\], singular, Present indikative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
-------------------------------------------------------------------------
 </details>
 <details><summary>सायण-भाष्यम्</summary>
 
@@ -5324,7 +5083,8 @@ __________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Expanding with a body beyond all measure, **Viṣṇu** men comprehend not your magnitude; we knowthese your two worlds (computing) from the earth, but you, divine Viṣṇu, are cognisant of the highest.”
 
@@ -5435,7 +5195,8 @@ _________
 **Strata**  
 Strophic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -5501,74 +5262,57 @@ urukṣitím ← urukṣití- (nominal stem)
 -   *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
 - *cakrame* ← *kram*
 - \[verb\], singular, Perfect indicative
 - “kram; step; go; continue; proceed; traverse; heat.”
-------------------------------------------------------------------------
 - *pṛthivīm* ← *pṛthivī*
 - \[noun\], accusative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
-------------------------------------------------------------------------
 - *eṣa* ← *eṣaḥ* ← *etad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
 - *etāṃ* ← *etām* ← *etad*
 - \[noun\], accusative, singular, feminine
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
 - *kṣetrāya* ← *kṣetra*
 - \[noun\], dative, singular, neuter
 - “field; location; habitat; country; area; earth; region; estate;
     body; kṣetra \[word\]; kṣetradoṣa; seat; reincarnation; uterus.”
-------------------------------------------------------------------------
 - *viṣṇur* ← *viṣṇuḥ* ← *viṣṇu*
 - \[noun\], nominative, singular, masculine
 - “Vishnu; Krishna; Viṣṇu; Om; Shiva.”
-------------------------------------------------------------------------
 - *manuṣe* ← *manus*
 - \[noun\], dative, singular, masculine
 - “Manu; man.”
-------------------------------------------------------------------------
 - *daśasyan* ← *daśasy*
 - \[verb noun\], nominative, singular
-------------------------------------------------------------------------
 - *dhruvāso* ← *dhruvāsaḥ* ← *dhruva*
 - \[noun\], nominative, plural, masculine
 - “certain; fixed; permanent; changeless; firm; safe; resident;
     immovable; fixed; fixed; vital; faithful.”
-------------------------------------------------------------------------
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
 - *kīrayo* ← *kīrayaḥ* ← *kīri*
 - \[noun\], nominative, plural, masculine
 - “pauper.”
-------------------------------------------------------------------------
 - *janāsa* ← *janāsaḥ* ← *jana*
 - \[noun\], nominative, plural, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
-------------------------------------------------------------------------
 - *urukṣitiṃ* ← *uru*
 - \[noun\]
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
-------------------------------------------------------------------------
 - *urukṣitiṃ* ← *kṣitim* ← *kṣiti*
 - \[noun\], accusative, singular, feminine
 - “floor; Earth; earth; pṛthivī; people; dwelling; battlefield; Earth;
     estate; colony; house.”
-------------------------------------------------------------------------
 - *sujanimā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
-------------------------------------------------------------------------
 - *sujanimā* ← *janimā* ← *janiman*
 - \[noun\], nominative, singular, masculine
 - “birth; offspring; origin; kind; being.”
-------------------------------------------------------------------------
 - *cakāra* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
@@ -5579,7 +5323,6 @@ urukṣitím ← urukṣití- (nominal stem)
     insert; happen; envelop; weigh; observe; practice; lend; bring;
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
-------------------------------------------------------------------------
 </details>
 <details><summary>सायण-भाष्यम्</summary>
 
@@ -5587,7 +5330,8 @@ urukṣitím ← urukṣití- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “This **Viṣṇu** traversed the earth for a dwelling which he was desirous of giving to his eulogist; firm arethe people who are his praisers; he who is the engenderer of good has made a spacious dwelling (for hisworshippers).”
 
@@ -5699,7 +5443,8 @@ _________
 **Strata**  
 Strophic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -5774,81 +5519,62 @@ tveṣám ← tveṣá- (nominal stem)
 -   *trir* ← *tris*
 - \[adverb\]
 - “thrice; tris \[word\].”
-------------------------------------------------------------------------
 - *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
-------------------------------------------------------------------------
 - *pṛthivīm* ← *pṛthivī*
 - \[noun\], accusative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
-------------------------------------------------------------------------
 - *eṣa* ← *eṣaḥ* ← *etad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
 - *etāṃ* ← *etām* ← *etad*
 - \[noun\], accusative, singular, feminine
 - “this; he,she,it (pers. pron.); etad \[word\].”
-------------------------------------------------------------------------
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
 - *cakrame* ← *kram*
 - \[verb\], singular, Perfect indicative
 - “kram; step; go; continue; proceed; traverse; heat.”
-------------------------------------------------------------------------
 - *śatarcasam* ← *śatarcas*
 - \[noun\], accusative, singular, masculine
-------------------------------------------------------------------------
 - *mahitvā* ← *mahitva*
 - \[noun\], instrumental, singular, neuter
 - “greatness.”
-------------------------------------------------------------------------
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
-------------------------------------------------------------------------
 - *viṣṇur* ← *viṣṇuḥ* ← *viṣṇu*
 - \[noun\], nominative, singular, masculine
 - “Vishnu; Krishna; Viṣṇu; Om; Shiva.”
-------------------------------------------------------------------------
 - *astu* ← *as*
 - \[verb\], singular, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
-------------------------------------------------------------------------
 - *tavasas* ← *tavasaḥ* ← *tavas*
 - \[noun\], ablative, singular, masculine
 - “strong; energetic.”
-------------------------------------------------------------------------
 - *tavīyān* ← *tavīyas*
 - \[noun\], nominative, singular, masculine
 - “stronger.”
-------------------------------------------------------------------------
 - *tveṣaṃ* ← *tveṣam* ← *tveṣa*
 - \[noun\], nominative, singular, neuter
 - “awful; brilliant; aglitter(p); bright.”
-------------------------------------------------------------------------
 - *hy* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
-------------------------------------------------------------------------
 - *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
-------------------------------------------------------------------------
 - *sthavirasya* ← *sthavira*
 - \[noun\], genitive, singular, masculine
 - “old; strong; hardy; firm; firm.”
-------------------------------------------------------------------------
 - *nāma* ← *nāman*
 - \[noun\], nominative, singular, neuter
 - “name; appellation; nāman \[word\]; nāmakaraṇa; surname; noun;
     word.”
-------------------------------------------------------------------------
 </details>
 <details><summary>सायण-भाष्यम्</summary>
 
@@ -5856,7 +5582,8 @@ tveṣám ← tveṣá- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “This deity, by his great power, traversed with three (steps) the many- lustrous earth; may **Viṣṇu**, themost powerful of the powerful rule over us, for illustrious is the name of the mighty one.”
 
@@ -6027,7 +5754,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -6100,84 +5828,65 @@ tanū́nām ← tanū́- (nominal stem)
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
-------------------------------------------------------------------------
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
 - *durgahā* ← *durgaha*
 - \[noun\], accusative, plural, neuter
 - “danger; abyss; wilderness.”
-------------------------------------------------------------------------
 - *jātavedaḥ* ← *jātavedas*
 - \[noun\], vocative, singular, masculine
 - “Agni; fire.”
-------------------------------------------------------------------------
 - *sindhuṃ* ← *sindhum* ← *sindhu*
 - \[noun\], accusative, singular, feminine
 - “river; Indus; sindhu \[word\].”
-------------------------------------------------------------------------
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
-------------------------------------------------------------------------
 - *nāvā* ← *nau*
 - \[noun\], instrumental, singular, feminine
 - “ship; boat; nau \[word\].”
-------------------------------------------------------------------------
 - *duritāti* ← *duritā* ← *durita*
 - \[noun\], accusative, plural, neuter
 - “danger; sin; difficulty; difficulty; evil.”
-------------------------------------------------------------------------
 - *duritāti* ← *ati*
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
-------------------------------------------------------------------------
 - *parṣi* ← *pṛ*
 - \[verb\], singular, Aorist conj./subj.
 - “protect; promote; rescue; help.”
-------------------------------------------------------------------------
 - *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
-------------------------------------------------------------------------
 - *atrivan* ← *atri*
 - \[noun\], masculine
 - “Atri; Atri; atri \[word\].”
-------------------------------------------------------------------------
 - *atrivan* ← *vat*
 - \[adverb\]
 - “equally; like.”
-------------------------------------------------------------------------
 - *namasā* ← *namas*
 - \[noun\], instrumental, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
-------------------------------------------------------------------------
 - *gṛṇāno* ← *gṛṇānaḥ* ← *gṛ*
 - \[verb noun\], nominative, singular
 - “praise.”
-------------------------------------------------------------------------
 - *'smākam* ← *asmākam* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
-------------------------------------------------------------------------
 - *bodhy* ← *bodhi* ← *bhū*
 - \[verb\], singular, Aorist imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
 - *avitā* ← *av*
 - \[verb\], singular, periphrast. future
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
 - *tanūnām* ← *tanū*
 - \[noun\], genitive, plural, feminine
 - “body; self; own(a); person; form.”
-------------------------------------------------------------------------
 </details>
 <details><summary>सायण-भाष्यम्</summary>
 
@@ -6185,7 +5894,8 @@ tanū́nām ← tanū́- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “You convey us, **Jātavedas**, across all intolerable evils, as (people are carried) over a river by a boat; **Agni**, who are glorified by us with reverence, such as (that shown) by **Atri**, know yourself the protector of our person ns.”
 </details>

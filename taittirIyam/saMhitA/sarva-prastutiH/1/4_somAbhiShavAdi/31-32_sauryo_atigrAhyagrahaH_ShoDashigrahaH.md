@@ -41,7 +41,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
@@ -169,7 +170,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “You, **Sūrya**, outstrip all in speed; you are visible to all; you are the source of light; you shine throughout the entire firmament.”
 

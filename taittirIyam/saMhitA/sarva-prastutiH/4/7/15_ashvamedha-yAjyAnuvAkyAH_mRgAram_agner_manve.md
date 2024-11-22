@@ -586,7 +586,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -813,7 +814,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “**Agni**, who is present in the sky, and present upon earth, and who, present, has pervaded all herbs; may the Agni **Vaiśvānara**, who is present in vigour, guard us night and day, against our enemies”
 

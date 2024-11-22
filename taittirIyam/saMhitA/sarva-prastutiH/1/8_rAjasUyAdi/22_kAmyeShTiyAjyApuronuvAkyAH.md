@@ -129,7 +129,8 @@ _________
 **Strata**  
 Cretic on metrical evidence alone
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M
@@ -238,7 +239,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “May the divine **Sarasvatī**, the acceptress of (sacrificial) food, the protectress o her worshippers, sustain us with (abundant) viands.”
 </details>
@@ -359,7 +361,8 @@ _________
 **Strata**  
 Strophic on metrical evidence alone
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -573,7 +576,8 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “May the radiant **Sarasvatī** come to the sacrifice from the heavens or the spacious firmament; may the goddess, the showerer of water, propitiated by our invocation, and desirous of our gratifying praises hear.”
 </details>
@@ -688,7 +692,8 @@ _________
 **Strata**  
 Strophic on metrical evidence alone
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
@@ -787,7 +792,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “**Bṛhaspati**, friend of all the gods, accept our oblations; grant precious treasures to the offerer.”
 </details>
@@ -898,7 +904,8 @@ _________
 **Strata**  
 Normal
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
@@ -1078,7 +1085,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Thus may we offer worship with sacrifices, with oblations, with praise, to the paternal, universal deity, the showerer (of benefits); and may we, **Bṛhaspati**, become possessed of riches, and be blessed with excellent progeny and valiant descendants.”
 
@@ -1213,7 +1221,8 @@ _________
 **Strata**  
 Normal
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -1428,7 +1437,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “**Bṛhaspati**, born of truth, grant us that wonderful treasure, wherewith the pious man may worship exceedingly; that (wealth) which shines amongst men; which is endowed with lustre, (is) the means of (performing holy) rites, and invogirates (its possessor) with strength.”
 
@@ -1549,7 +1559,8 @@ _________
 **Strata**  
 Strophic on metrical evidence alone
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
@@ -1669,7 +1680,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “**Mitra** and **Varuṇa**, sprinkle our cow-stalls with butter; performers of good works, (sprinkle) the worlds with honey.”
 
@@ -1789,7 +1801,8 @@ _________
 **Strata**  
 Strophic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -1998,7 +2011,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Stretch forth your arms for the prolongation of our existence, bedew with water the pastures of ourcattle, render us honoured among men; ever youthful **Mitra** and **Varuṇa**, hear these my invocations.”
 </details>
@@ -2110,7 +2124,8 @@ _________
 **Strata**  
 Archaic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -2250,7 +2265,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “I worship the divine **Agni**, the preceder of you, (gods), with praise, (for the sake) of riches; theworshippers (cherish him), the bountiful perfector of the sacrifice, like a friend.”
 </details>
@@ -2335,7 +2351,8 @@ _________
 **Strata**  
 Archaic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -2532,7 +2549,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “The chariot of the devout worshipper quickly (prevails), as the hero (prevails) in all combats whatever;the celebrator of the sacrifice, who desires to propitiate the mind of the gods, overcomes those who are nosacrificers.”
 </details>
@@ -2621,7 +2639,8 @@ _________
 **Strata**  
 Archaic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line  
@@ -2807,7 +2826,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Devoted to the gods, pouring out to them libations, you, worshipper, shall not perish; the celebrator ofthe sacrifice, who desires to propitiate the mind of the gods, overcomes those who are no sacrificers.”
 </details>
@@ -2896,7 +2916,8 @@ _________
 **Strata**  
 Archaic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line  
@@ -3095,7 +3116,8 @@ Shall prevail over those who sacrifice not.]
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “To him in this life is a valiant progeny, to him are swift herds of horses; the celebrator of the sacrifice,who desires to propitiate the mind of the gods, overcomes those who are no sacrificers.”
 </details>
@@ -3182,7 +3204,8 @@ _________
 **Strata**  
 Archaic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line  
@@ -3391,7 +3414,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “No one obstructs him by his acts, he is never driven (from his station), he is never separated (from hisfamily); the celebrator of the sacrifice, who desires to propitiate the mind of the gods, overcomes those who areno sacrificers.”
 </details>
@@ -3478,7 +3502,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -3671,7 +3696,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “The copiously-yielding and joy-conferringkine, distil (their milk) for the celebration of the (**Soma**) sacrifice; and for him who has undertaken its celebration; the nutritious streams of butter coverage from every quarter towards him, who both propitiates (his progenitors), and benefits (mankind).”
 
@@ -3831,7 +3857,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -4046,7 +4073,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “**Soma** and **Rudra**, grant all these medicamens for (the ailments of) our bodies; detach, set free, the perpetrated iniquity that has been bound up in our person ns.”
 
@@ -4173,7 +4201,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
@@ -4346,7 +4375,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “**Soma** and **Pūṣaṇ**, you two are the genitive rators of riches, the genitive rators of heaven, the genitive rators of earth; as soon as born you are the guardians of the whole world; the gods have made you the source of immortality.”
 
@@ -4475,7 +4505,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
@@ -4662,7 +4693,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “(The gods) propitiate these two divinities at the moment of the ir birth, for they drive away the disagreeable glooms; with these two, **Soma** and **Pūṣaṇ**, **Indra** genitive rates the mature (milk) in the immature heifers.”
 

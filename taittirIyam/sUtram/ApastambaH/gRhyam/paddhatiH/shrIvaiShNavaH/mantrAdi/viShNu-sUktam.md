@@ -199,7 +199,8 @@ _________
 **Strata**  
 Strophic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -395,7 +396,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Earnetly I glorify the exploits of **Viṣṇu**, who made the **three worlds**; who sustained the lofty aggregate site (of the spheres); thrice traversing (the whole); who is praised by the exalted.”
 
@@ -525,7 +527,8 @@ _________
 **Strata**  
 Strophic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -741,7 +744,8 @@ __________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “May I attain his favourite path, in which god-seeking men delight; (the path) of that wide-stepping **Viṣṇu**, in whose exalted station there is a (perpetual) flow of felicity; for to such a degree is he the friend (of the pious).”
 
@@ -852,7 +856,8 @@ _________
 **Strata**  
 Strophic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -1031,7 +1036,8 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “**Viṣṇu** is therefore glorified, that by his prowess he is like a fearful, ravenous, and mountain-haunting wild beast, and because of that in his three paces all worlds abide.”
 
@@ -1159,7 +1165,8 @@ _________
 **Strata**  
 Strophic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -1364,7 +1371,8 @@ __________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Expanding with a body beyond all measure, **Viṣṇu** men comprehend not your magnitude; we knowthese your two worlds (computing) from the earth, but you, divine Viṣṇu, are cognisant of the highest.”
 
@@ -1475,7 +1483,8 @@ _________
 **Strata**  
 Strophic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -1663,7 +1672,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “This **Viṣṇu** traversed the earth for a dwelling which he was desirous of giving to his eulogist; firm arethe people who are his praisers; he who is the engenderer of good has made a spacious dwelling (for hisworshippers).”
 
@@ -1775,7 +1785,8 @@ _________
 **Strata**  
 Strophic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -1970,7 +1981,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “This deity, by his great power, traversed with three (steps) the many- lustrous earth; may **Viṣṇu**, themost powerful of the powerful rule over us, for illustrious is the name of the mighty one.”
 

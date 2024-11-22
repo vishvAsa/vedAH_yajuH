@@ -583,7 +583,8 @@ _________
 **Strata**  
 Strophic on metrical evidence alone
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
@@ -695,7 +696,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “We invoke for you, **Indra**, who is everywhere among men; may he be exclusively our own.”
 </details>
@@ -813,7 +815,8 @@ _________
 **Strata**  
 Strophic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -1051,7 +1054,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Men invoke **Indra** in battle when those actions which lead to victory are performed; do you who are hero, the benefactor of man, the desirer of prowess, plural ce us in possession of pastures abounding with cattle.”
 </details>
@@ -1171,7 +1175,8 @@ _________
 **Strata**  
 Strophic on metrical evidence alone
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
@@ -1300,7 +1305,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “**Indra**, object of many rites, I regard the organs of sense, that exist in the five races (of beings dependent) on you as yours.”
 </details>
@@ -1417,7 +1423,8 @@ _________
 **Strata**  
 Archaic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -1654,7 +1661,8 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “All (power) has been successively conceded verily to you, **Indra**, who are mighty, for the destruction of the foe; suitable vigour, suitable strength in battle (has been given) to you, adorable Indra, by the gods.”
 </details>
@@ -1827,7 +1835,8 @@ _________
 **Strata**  
 Strophic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -2027,7 +2036,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “In the immature (cows) you produced the mature (milk),  
 you caused the sun to arise in heaven,(priests),  
@@ -2119,7 +2129,8 @@ _________
 **Strata**  
 Strophic on metrical evidence alone
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
@@ -2262,7 +2273,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “The chanters (of the **Soma**) extol **Indra** with songs, the reciters of the Ṛk with prayers, the priests of the **Yajuṣ**, with texts.”
 
@@ -2395,7 +2407,8 @@ _________
 **Strata**  
 Normal
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -2588,7 +2601,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “The chanters (of the **Soma**) hymn you, **Śatakratu**; the reciters of the Ṛk praise you, who are worthy of praise; the Bra-hmaṇas raise you aloft, like a bamboo pole.”
 
@@ -2776,7 +2790,8 @@ _________
 **Strata**  
 Normal
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -3006,7 +3021,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “When the thought of glorifying **Indra** entered my mind, then I gave birth (to his praises); may I laud him before encountering distant (evil) days, whereby he may guide us beyond sin; for those on both sides of us invoke him, as (those on either bank of a river hail) a passenger in a boat.”
 </details>
@@ -3226,7 +3242,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -3410,7 +3427,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “You have been born, **Indra**, endowed with protecting and desirable vigour; benefactor of mankind, youdid drive away the man who was unfriendly(to us), you prepared a spacious region for the gods.”
 </details>
@@ -3685,7 +3703,8 @@ _________
 **Strata**  
 Normal
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -3877,7 +3896,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “The **Ṛbhus** have fabricated your car, **Indra**, the invoked of many, adapted to its horses; **Tvaṣṭā** (had made) your radiant thunderbolt; the venerable (**Aṅgirasas**), praising Indra with hymns, have given him vigour for the destruction of Ahi.”
 
@@ -4014,7 +4034,8 @@ _________
 **Strata**  
 Normal
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -4228,7 +4249,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “When the **Maruts**, the showerers (of benefits), glorify you, **Indra**, the showerer (of desires), with praises, and the exulting stones delight (to bruise the **Soma**), then, without horses, without chariots, they, the purifying (Maruts), dispatched by Indra, have overcome the **Dasyus**.”
 </details>
@@ -5420,7 +5442,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -5605,7 +5628,8 @@ _______________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “The fleet-going **Indra**, like a formidable bull sharpening (his horns), the slayer of foes, the exciter ofmen, loud-shouting, ever-vigilant, the chief of heroes overthrew at once a hundred hosts.”
 </details>
@@ -5701,7 +5725,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -5877,7 +5902,8 @@ _______________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “With **Indra** the loud-shouting, the vigilant, the vigtorious, the warlike, the unconquerable, the daring,the hurler of arrows, the showerer, (as your ally) conquer you warriors, you leaders, that (hostile host) andovercome it.”
 </details>
@@ -5963,7 +5989,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -6167,7 +6194,8 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “**Indra**, with the arrow-bearing (**maruts**), armed with swords, the subduer, the warrior, who encountershim, the drinker of the **Soma**, the strong- armed, having a powerful bow, who shoots with well-aimed arrows(conquer with his help).”
 </details>
@@ -6253,7 +6281,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -6435,7 +6464,8 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Come with your chariot, **Bṛhaspati**, who are the slayer of **Rākṣasas**, discomfiting your enemies,”
 </details>
@@ -6521,7 +6551,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -6714,7 +6745,8 @@ ____________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Imitate in heroism, you kindred warriors, follow, friends, in prowess this **Indra**, who is the breaker ofmountains, the acquirer of water, armed with the thunderbolt, conquering the swift (foe), destroying (the enemy)by his might.”
 
@@ -6808,7 +6840,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -7012,7 +7045,8 @@ _______________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Known by his strength mighty, heroic, overpowering, vigorous, enduring, fierce, attended by heroes,attended by mighty men, the offspring of strength, the possessor of water, do you, **Indra**, ascend your triumphantchariot.”
 
@@ -7105,7 +7139,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; 12 = 5+7, ending LHX  
 popular  
 popular  
@@ -7281,7 +7316,8 @@ ____________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “May **Indra**, bursting open the clouds with force; pitiless, heroic, with hundredfold anger, invincible, theoverthrower of armies, irresistible, protect our armies in battles.”
 </details>
@@ -7367,7 +7403,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; 11 = 4+7, ending HLX  
 popular  
 popular  
@@ -7537,7 +7574,8 @@ _______________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “May **Indra** be the leader of these (hosts), may **Bṛhaspati**, **Dakṣiṇā**, **Yajña**, and **Soma** go before, letthe **Maruts** march in the van of the destroying and victorious armies of the gods.”
 
@@ -7629,7 +7667,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -7798,7 +7837,8 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “(May) the mighty force of the showerer **Indra**, of the royal **Varuṇa**, of the **Ādityas** and **Maruts** (beours). The shout of the magnanimous and victorious deities, the subverters of the worlds, has arisen.”
 </details>
@@ -7884,7 +7924,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; 12 = 5+7, ending LHX  
 popular  
 popular  
@@ -8084,7 +8125,8 @@ _____________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “When the banners are intermingled, may **Indra** be our (defender), may those arrows which are ours bevictorious may our warriors be triumphant; gods, protect us in battles.”
 </details>
@@ -8170,7 +8212,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -8355,7 +8398,8 @@ ___________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Excite, **Maghavan**, my weapons, (excite) the spirits of my heroes; slayer of **Vṛtra**, let the speed of thehorses be accelerated, let the noises of the chariots be increased.”
 </details>
@@ -8885,7 +8929,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -9080,7 +9125,8 @@ _________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “May glory **Agni**, be mine in battle, may we, kindling you, cherish your person n, may the (inhabitants ofthe) four quarters bow down before me, may we with you for our leader overcome (hostile) armies.”
 </details>
@@ -9248,7 +9294,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -9466,7 +9513,8 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “You six mighty goddesses, bestow upon us ample (wealth); universal gods, display prowess here; letus not be bereft of our offspring, or be harmed in our bodies, may we not become subject to our enemy, royalSoma.”
 
@@ -9604,7 +9652,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; 12 = 5+7, ending LHX  
 popular  
 popular  
@@ -9844,7 +9893,8 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “May the omnipresent (**Indra**), the mighty one, who is invoked by many, and lauded by many, bestow ablessing on this our sacrifice; be gracious to our offspring, Indra, lord of bay horses; harm us not, desert us not.”
 </details>
@@ -9933,7 +9983,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -10152,7 +10203,8 @@ _____________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “May those who are our foes be driven off; may we through **Indra** and **Agni** destroy them; may theVasus, the **Rudras**, and the **Ādityas** make me the high- reaching, fierce, intelligent, supreme ruler.”
 </details>
@@ -10868,7 +10920,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -11095,7 +11148,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “**Agni**, who is present in the sky, and present upon earth, and who, present, has pervaded all herbs; may the Agni **Vaiśvānara**, who is present in vigour, guard us night and day, against our enemies”
 
@@ -11745,7 +11799,8 @@ _________
 **Strata**  
 Normal on metrical evidence alone
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
@@ -11847,7 +11902,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “**Indra**, with the bones of **Dadhīci**, slew ninety times nine **Vṛtras**.”
 
@@ -11963,7 +12019,8 @@ _________
 **Strata**  
 Normal on metrical evidence alone
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
@@ -12072,7 +12129,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Wishing for the horse's head hidden in the mountains, he found is Śaryaṇāvat.”
 </details>
@@ -12181,7 +12239,8 @@ _________
 **Strata**  
 Normal on metrical evidence alone
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
@@ -12354,7 +12413,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “The (solar rays) found on this occasion the light of **Tvaṣṭā** verily concealed in the mansion of the moving moon.”
 
@@ -12468,7 +12528,8 @@ _________
 **Strata**  
 Strophic on metrical evidence alone
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
@@ -12611,7 +12672,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “The chanters (of the **Soma**) extol **Indra** with songs, the reciters of the Ṛk with prayers, the priests of the **Yajuṣ**, with texts.”
 
@@ -12742,7 +12804,8 @@ _________
 **Strata**  
 Strophic on metrical evidence alone
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
@@ -12864,7 +12927,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “**Indra**, the blender of all things, comes verily with his steeds that are harnessed at his word; Indra, the richly-decorated, the wielder of the thunderbolt.”
 
@@ -12985,7 +13049,8 @@ _________
 **Strata**  
 Strophic on metrical evidence alone
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
@@ -13112,7 +13177,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “**Indra**, to render all things visible, elevated the sun in the sky, and charged the cloud with (abundant) waters.”
 
@@ -13229,7 +13295,8 @@ _________
 **Strata**  
 Strophic on metrical evidence alone
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
@@ -13343,7 +13410,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Invincible **Indra**, protect us in battles abounding in spoil, with insuperable defenceṣ”
 </details>
@@ -13449,7 +13517,8 @@ _________
 **Strata**  
 Strophic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
@@ -13573,7 +13642,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “We invigorate that (great) **Indra** for the slaying of mighty **Vṛtra**, may he be a bounteous showerer (ofwealth).”
 </details>
@@ -15074,7 +15144,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -15304,7 +15375,8 @@ ______________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “The gods produced the goddess Vāk; her do animals of every kind utter; may she, Vāk, theall-gladdening cow, yielding meat and drink, come to us, worthily praised.”
 
@@ -15389,7 +15461,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -15581,7 +15654,8 @@ _________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “When Vāk, the **queen**, the gladdener of the gods, sits down (in the sacrifice) uttering things not to beunderstood, she milks water and food for the four quarters (of the earth); whither now is her best portion gone?”
 
@@ -15790,7 +15864,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -16005,7 +16080,8 @@ ______________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Four are the definite grades of spech; those **Brahmaṇas** who are wise know them; three, deposited in secret, indicate no meaning; men speak the fourth grade of speech.”
 
@@ -16119,7 +16195,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
@@ -16258,7 +16335,8 @@ ______________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “**Agni** is kindled by **Śraddhā**, by Śraddhā is the oblation offered; with our praise we glorifyFaith, of the family of Love; cf. **Nirukta** 9.31\].”
 </details>
@@ -16352,7 +16430,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
@@ -16506,7 +16585,8 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “O Śraddhā\_, grant the desire of the donor (of the oblation), grant, O **Śraddhā**, the desire of himwho wishes to give, grant this boon which I have mentioned to my sacrificers who solicit happiness.”
 </details>
@@ -16592,7 +16672,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
@@ -16741,7 +16822,8 @@ __________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “As the gods had faith in (their fight with) the **Asuras**, so grant the boon which has been asked for toour sacrificers who solicit happiness.”
 </details>
@@ -16826,7 +16908,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
@@ -16961,7 +17044,8 @@ ___________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Gods, worshippers, and those who are protected by **Vāyu**, solicit **Śraddhā**, (they cherish) Śraddhāwith heartfelt desire, through Śraddhā a man acquires wealth.”
 
@@ -17052,7 +17136,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
@@ -17203,7 +17288,8 @@ _________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “We invoke **Śraddhā** at dawn, and again at midday, and also at the setting of the sun; inspire us inthis world, Śraddhā, with faith.”
 </details>
@@ -17550,7 +17636,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -17758,7 +17845,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “May the cows come and bring good fortune; let them lie down in (our) stalls and be plural ased with us; may the many-coloured kine here be parboiled milk for **Indra** on many dawns.”
 </details>
@@ -17873,7 +17961,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -18094,7 +18183,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “**Indra** grants the desires of the man who offers to him sacrifice and praise; he ever bestows upon him wealth, and deprives him not of that which is his own; again and again increasing his riches, he plural ces the devout man in an inaccessible fortress.”
 
@@ -18257,7 +18347,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -18492,7 +18583,8 @@ ___________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Let not the dust-spurning (war) horse reach them nor let them fall in the way of sacrificial consecration let the cattle of the man who offers sacrifice wander about at large and without fear.”
 
@@ -18643,7 +18735,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -18856,7 +18949,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Do you, cows, give us nourisment; render the emaciated, the unlovely body the reverse; do you, whose lowing is auspicious, make my dwelling prosperous; great is the abundance that is attributed to you in religious assemblies.”
 
@@ -19166,7 +19260,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -19348,7 +19443,8 @@ ____________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “The seven rivers display his glory; heaven, and earth, and sky display his visible form; the sun and moon, **Indra**,perform their revolution, that we may see, and have faith in what we see.”
 
@@ -19683,7 +19779,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
@@ -19824,7 +19921,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Since, waters, you are the sources of happiness, grant to us to enjoy abundance, and great anddelightful perception.”
 
@@ -19955,7 +20053,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -20226,7 +20325,8 @@ ___________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “The non-existent was not, the existent was not; then the world was not, not the firmament, nor thatwhich is above (the firmament). How could there by any investing envelope, and where? Of what (could there be)felicity? How (could there be) the deep unfathomable water?”
 
@@ -20332,7 +20432,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -20592,7 +20693,8 @@ ___________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Death was not nor at that period immortality, there was no indication of day, of night; That Oneunbreathed upon breathed of his own strength, other than That there was nothing else whatever.”
 
@@ -20692,7 +20794,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -20926,7 +21029,8 @@ _______________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “There was darkness covered by darkness in the beginning, all this (world) was undistinguishablewater; that empty united (world) which was covered by a mere nothing, was produced through the power ofausterity.”
 
@@ -21024,7 +21128,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -21246,7 +21351,8 @@ _______________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “In the beginning there was desire, which was the first seed of mind; sages having meditated in theirhearts have discovered by their wisdom the connexion of the existent with te non-existent.”
 
@@ -21346,7 +21452,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -21546,7 +21653,8 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Their ray was stretched out, whether across, or below, or above; (some) were shedders of seed,(others) were mighty; food was inferior; the eater was superior.”
 
@@ -21644,7 +21752,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; repeated line  
 popular;; 12 = 5+7, ending LHX  
 popular  
@@ -21865,7 +21974,8 @@ ____________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Who really knows? Who in this world may declare it! whence was this creation, whence was itengendered? The gods (were) subsequent to the (world's) creation; so who knows whence it arose?”
 
@@ -21963,7 +22073,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -22196,7 +22307,8 @@ _________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “He from whom this creation arose, he may uphold it, or he may not (no one else can); he who is itssuperintendent in the highest heaven, he assuredly knows, or if he knows not (no one else does).”
 
@@ -22288,7 +22400,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; repeated line  
 popular;; repeated line  
 popular  
@@ -22509,7 +22622,8 @@ ____________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Which was the forest, which the tree, from which they fabricated heaven and earth? Inquire, sages, inyour minds what (plural ce) he was stationed in when holding the worlds.”
 
@@ -22626,7 +22740,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -22841,7 +22956,8 @@ _____________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “We invoke at dawn **Agni**; at dawn **Indra**; at dawn **Mitra** and **Varuṇa**; at dawn the **Aśvins**; at dawnBhaga, **Pūṣan**, **Brahmaṇaspati**; at dawn **Soma** and **Rudra**.”
 </details>
@@ -22966,7 +23082,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -23214,7 +23331,8 @@ _______________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “We invoke at dawn fierce **Bhaga**, the son of **Aditi**, who is the sustainer (of the world), to whom the poorman praising him applies, saying, give (me wealth), to whom the opulent prince (addresses the same prayer).”
 
@@ -23348,7 +23466,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -23598,7 +23717,8 @@ _____________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “**Bhaga**, chief leader of rites, Bhaga, faithful granting (our wishes), fructify ceremony, enrich us withcattle and horses; may we Bhaga, be eminent with **male** descendants and followers.”
 </details>
@@ -23727,7 +23847,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -23919,7 +24040,8 @@ _______________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “May we now have **Bhaga** (for our lord), whether in the forenoon or mid- day, or at sun-rise; may we,**Maghavan**, enjoy the favour of the gods.”
 
@@ -24053,7 +24175,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -24295,7 +24418,8 @@ _________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “May **Bhaga**, gods, be the possessor of opulence, and, through him, may we be possessed of wealth,every one verily repeatedly invokes you, Bhaga; do you, Bhaga, be our preceder at this solemnity.”
 
@@ -24433,7 +24557,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -24640,7 +24765,8 @@ ____________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “May the dawn come to our sacrifice as a horse to a suitable station; as rapid steeds convey a chariot,so may the dawns bring to us **Bhaga**, down- descending, charged with riches.”
 
@@ -24771,7 +24897,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -24958,7 +25085,8 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “{Text is missing}”
 </details>
@@ -27744,7 +27872,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -27974,7 +28103,8 @@ _______________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “New every day (the moon) is born; the manifester of days he goes on front of the Dawns; hedistributes their portion to the gods as he goes; the moon protracts a long existence.”
 
@@ -28280,7 +28410,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
@@ -28407,7 +28538,8 @@ ___________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “His coursers bear on high the divine all-knowing Sun, that he may be seen by all (the worlds).”
 </details>
@@ -28536,7 +28668,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
@@ -28731,7 +28864,8 @@ _____________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Thewonderful hostof rays has risen; th eye of **Mitra**, **Varuṇa** and **Agni**; the sun, the **soul** of all that moves or is immoveable, has filled (with his glory) the heaven, the earth, and the firmament.”
 
@@ -28934,7 +29068,8 @@ _________
 **Strata**  
 Normal
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
@@ -29073,7 +29208,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “**Viṣṇu** traversed this (world); three times he plural nted his foot and the whole (world) was collected in the dust of his (footstep).”
 
@@ -29189,7 +29325,8 @@ _________
 **Strata**  
 Strophic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -29368,7 +29505,8 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “**Viṣṇu** is therefore glorified, that by his prowess he is like a fearful, ravenous, and mountain-haunting wild beast, and because of that in his three paces all worlds abide.”
 
@@ -29490,7 +29628,8 @@ _________
 **Strata**  
 Normal on metrical evidence alone
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
@@ -29612,7 +29751,8 @@ _____________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “**Agni**, the head (of the gods), the summit of heaven-- he the lord of the earth-- gladdens the seed of thewaters.”
 
@@ -30409,7 +30549,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -30609,7 +30750,8 @@ _______________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “**Varuṇa**, loosen for me the upper, the middle, the lower band; so, son of **Aditi**, shall we, through faultlessness in the worship, become freed from siṇ”
 
@@ -30769,7 +30911,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -30986,7 +31129,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Whatever the offence which we men commit **Varuṇa** against divine beings, whatever law of yours wemay through ignorance violate, do not you, divine Varuṇa, punish us on account of that iniquity.”
 </details>
@@ -31069,7 +31213,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -31330,7 +31475,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “If, like gamesters, who cheat at plural y, (we commit offences) knowingly, or (those) of which we know not, do you divine **Varuṇa**, extricate us from them all, as if from loosened (bonds), so that we may be dear, Varuṇa, to you.”
 </details>
@@ -31440,7 +31586,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -31638,7 +31785,8 @@ _______________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “**Varuṇa**, we deprecate your wrath with prostrations, with sacrifices, with oblations; averter of misfortune, wise and illustrious, be present amongst us, and mitigate the evils we have committed.”
 
@@ -31752,7 +31900,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -31977,7 +32126,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Praising you with (devout) prayer, I implore you for that (life) which the instrumental tutor of the sacrifice solicits with oblations; **Varuṇa**, undisdainful, bestow a thought upon us; much-lauded, take not away our existence.”
 
@@ -32376,7 +32526,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
@@ -32517,7 +32668,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Since, waters, you are the sources of happiness, grant to us to enjoy abundance, and great anddelightful perception.”
 
@@ -32608,7 +32760,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
@@ -32741,7 +32894,8 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Give us to partake in this world of your most auspicious **Soma**, like affectionate mothers.”
 </details>
@@ -32820,7 +32974,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
@@ -32953,7 +33108,8 @@ _____________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Let us quickly have recourse to you, for that your (faculty) of removing (sin) by which you gladden us;waters, bestow upon us progeny.”
 
@@ -33242,7 +33398,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
@@ -33383,7 +33540,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Since, waters, you are the sources of happiness, grant to us to enjoy abundance, and great anddelightful perception.”
 
@@ -33474,7 +33632,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
@@ -33607,7 +33766,8 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Give us to partake in this world of your most auspicious **Soma**, like affectionate mothers.”
 </details>
@@ -33686,7 +33846,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
@@ -33819,7 +33980,8 @@ _____________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Let us quickly have recourse to you, for that your (faculty) of removing (sin) by which you gladden us;waters, bestow upon us progeny.”
 

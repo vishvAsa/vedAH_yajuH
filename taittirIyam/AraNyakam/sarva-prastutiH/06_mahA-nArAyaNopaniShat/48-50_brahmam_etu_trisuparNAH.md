@@ -101,7 +101,8 @@ _________
 **Strata**  
 Archaic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
@@ -216,7 +217,8 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Grant us today, divine **Savitā** affluence with progeny, and drive away evil dreams.”
 
@@ -326,7 +328,8 @@ _________
 **Strata**  
 Archaic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
@@ -463,7 +466,8 @@ __________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Remove from us, divine **Savitā**, all misfortunes; bestow upon us that which is good,”
 
@@ -646,7 +650,8 @@ _________
 **Strata**  
 Normal
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -831,7 +836,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “The **Brahmā** of the gods, the guide of the sages, the ṛṣi of the pious, the buffalo of wild animals, the falcon of the vultures, the hatchet of deadly weapons, the **Soma** passes through the filter with a roar.”
 

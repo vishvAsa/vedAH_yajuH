@@ -42,7 +42,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -259,7 +260,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Beget for us, **Savitā**, wealth today, wealth tomorrow, wealth day by day; you are the giver of ample wealth, of a (spacious) mansion; may we, by this praise, become partakers of wealth.”
 

@@ -432,7 +432,8 @@ _________
 **Strata**  
 Normal
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
@@ -538,7 +539,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “I solicit understanding from **Sadasaspati** (= **Agni**, protector of the assembly), the wonderful, the friend of **Indra**, the desirable, the bountiful.”
 </details>
@@ -1154,7 +1156,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
@@ -1330,7 +1333,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Truth (of thought) and truthfulness (of speech) were born of arduous penance, thence was nightgenerated, thence also the watery ocean.”
 
@@ -1436,7 +1440,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
@@ -1564,7 +1569,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “From the watery ocean was the year afterwards produced, ordaining nights and days, the ruler ofevery moment.”
 </details>
@@ -1654,7 +1660,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
@@ -1780,7 +1787,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “**Dhātā** in the beginning created the sun and moved the heaven, the earth, the firmament, and thehappy (sky).”
 </details>
@@ -1968,7 +1976,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -2157,7 +2166,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-##### English translation:
+_________
+**English translation:**  
 
 “The ocean, the royal (**Soma**), genitive rating progeny in the outstretched (firmament, the) supporter of the water traverses the universe; the showerer (of benefits), the brilliant Soma when effused increases abundantly in the elevated woollen filter.”
 </details>
@@ -2465,7 +2475,8 @@ _________
 **Strata**  
 Normal
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -2650,7 +2661,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “The **Brahmā** of the gods, the guide of the sages, the ṛṣi of the pious, the buffalo of wild animals, the falcon of the vultures, the hatchet of deadly weapons, the **Soma** passes through the filter with a roar.”
 
@@ -2834,7 +2846,8 @@ _________
 **Strata**  
 Archaic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
@@ -2949,7 +2962,8 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Grant us today, divine **Savitā** affluence with progeny, and drive away evil dreams.”
 
@@ -3059,7 +3073,8 @@ _________
 **Strata**  
 Archaic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
@@ -3196,7 +3211,8 @@ __________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Remove from us, divine **Savitā**, all misfortunes; bestow upon us that which is good,”
 
@@ -3432,7 +3448,8 @@ _________
 **Strata**  
 Popular for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
@@ -3631,7 +3648,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Four are his horns; three are his feet; his heads are two, his **hands** are seven; the triple-bound showerer (of benefits) roars aloud; the mighty deity has entered among men.”
 
@@ -3741,7 +3759,8 @@ _________
 **Strata**  
 Popular for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
@@ -3948,7 +3967,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “The gods discovered the Ghī concealed by the **Paṇis**, plural ced three-fold in the cow; **Indra** genitive rated one (portion), **Sūrya** another, the (other gods) fabricated one from the resplendent (**Agni**), for the sake of the oblation.”
 
@@ -4954,7 +4974,8 @@ _________
 **Strata**  
 Strophic on metrical evidence alone
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
@@ -5420,7 +5441,8 @@ May we focus on the excellent radiance of the deva Savitṛ who will inspire our
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “We meditate on that desirable light of the divine **Savitā**, who influences our pious rites.”
 
@@ -6305,7 +6327,8 @@ _________
 **Strata**  
 Archaic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
@@ -6420,7 +6443,8 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Grant us today, divine **Savitā** affluence with progeny, and drive away evil dreams.”
 
@@ -6530,7 +6554,8 @@ _________
 **Strata**  
 Archaic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
@@ -6667,7 +6692,8 @@ __________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Remove from us, divine **Savitā**, all misfortunes; bestow upon us that which is good,”
 
@@ -6850,7 +6876,8 @@ _________
 **Strata**  
 Normal
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -7035,7 +7062,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “The **Brahmā** of the gods, the guide of the sages, the ṛṣi of the pious, the buffalo of wild animals, the falcon of the vultures, the hatchet of deadly weapons, the **Soma** passes through the filter with a roar.”
 

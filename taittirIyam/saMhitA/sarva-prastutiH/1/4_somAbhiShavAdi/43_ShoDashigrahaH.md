@@ -38,7 +38,8 @@ _________
 **Strata**  
 Normal
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -255,7 +256,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “**Indra**, hero, rejoicing with and accompanied by the host of **Maruts**, drink the **Soma**, for you are the slayer of **Vṛtra** the sage; subdue our enemies, drive away the malevolent, make us safe on every side from peril.”
 

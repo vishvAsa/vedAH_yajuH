@@ -314,7 +314,8 @@ _________
 **Strata**  
 Strophic on metrical evidence alone
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
@@ -780,7 +781,8 @@ May we focus on the excellent radiance of the deva Savitṛ who will inspire our
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “We meditate on that desirable light of the divine **Savitā**, who influences our pious rites.”
 

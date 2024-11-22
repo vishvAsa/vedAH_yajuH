@@ -43,7 +43,8 @@ _________
 **Strata**  
 Strophic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -287,7 +288,8 @@ _______________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Drinker of the pure (**Soma**), **Vāyu**, come to us as your **Niyut** are thousands; oḥ, you who are desired ofall, I offer you, the exhilarating (sacrificial) food, of which you, deity, have the prior drinking.”
 
@@ -454,7 +456,8 @@ _________
 **Strata**  
 Strophic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
@@ -596,7 +599,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “**Indra** and **Vāyu**, these libations are poured out (for you); come hither with food (for us); verily the drops (of the **Soma** juice) await you both.”
 </details>

@@ -56,7 +56,8 @@ _________
 **Strata**  
 Normal on metrical evidence alone
 
-##### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -247,7 +248,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let us hear, gods, with our ears, what is good; objects of sacrifice, let us see with our eyes what is good; let us, engaged in your praises, enjoy, with firm limb and (sound) bodies, the term of life granted by the gods.”
 
@@ -354,7 +356,8 @@ _________
 **Strata**  
 Normal on metrical evidence alone
 
-##### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -545,7 +548,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let us hear, gods, with our ears, what is good; objects of sacrifice, let us see with our eyes what is good; let us, engaged in your praises, enjoy, with firm limb and (sound) bodies, the term of life granted by the gods.”
 

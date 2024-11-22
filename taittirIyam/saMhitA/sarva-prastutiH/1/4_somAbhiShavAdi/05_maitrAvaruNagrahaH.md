@@ -39,7 +39,8 @@ _________
 **Strata**  
 Normal
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M
@@ -164,7 +165,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “This libation is offered to you, **Mitra** and **Varuṇa**, cherishers of truth; hear, verily, this my present invocatioṇ”
 </details>

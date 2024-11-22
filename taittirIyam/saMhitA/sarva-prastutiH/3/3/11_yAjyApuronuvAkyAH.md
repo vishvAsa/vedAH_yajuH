@@ -53,7 +53,8 @@ _________
 **Strata**  
 Normal
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line
@@ -172,7 +173,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “(I present) the agreeable oblation to your mouths, **Indra** and **Bṛhaspati**, and the hymn and the exhilarating beverage are offered.”
 </details>
@@ -286,7 +288,8 @@ _________
 **Strata**  
 Normal
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
@@ -394,7 +397,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “This delicious **Soma** is effused, **Indra** and **Bṛhaspati**, for you, (your) drinking and exhilaration.”
 </details>
@@ -503,7 +507,8 @@ _________
 **Strata**  
 Normal
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
@@ -591,7 +596,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Grant to us, **Indra** and **Bṛhaspati** riches comprising a hundred (cattle), a thousand horses.”
 </details>
@@ -703,7 +709,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -902,7 +909,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “May **Bṛhaspati** defend us from a malignant (foe) coming from behind, from above, or from below; mayIndra defend us from foes in front and in the middle; may he, our friend, bestow wealth upon (us) his friends.”
 </details>
@@ -1001,7 +1009,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -1196,7 +1205,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Pure **Agni**, your bright flames, fanned by the wind, spread wide in every diection, consuming abundant (fuel); divine, fresh-rising, they plural y upon the woods, enveloping them in lustre.”
 </details>
@@ -1645,7 +1655,8 @@ _________
 **Strata**  
 Popular for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
@@ -1856,7 +1867,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “I invoke, with suitable praise, **Rākā**, who is worthily invoked; may she, who is auspicious of good fortune, hear us, and spontaneously understand (our purpose); may she sew her work with an infallible needle; may she grant us excellent and opulent descendants.”
 
@@ -1978,7 +1990,8 @@ _________
 **Strata**  
 Popular for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
@@ -2169,7 +2182,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “**Rākā**, with those your kind and gracious intentions, wherewith you grant riches to the donor (of oblations), approach us today; you who are auspicious of good fortune, favourably inclined, and bestowing a thousand blessings.”
 </details>
@@ -2287,7 +2301,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
@@ -2433,7 +2448,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Wide-hipped **Sinivālī**, who are the sister of the gods, accept the offered oblation, and grant us, goddess, progeny.”
 

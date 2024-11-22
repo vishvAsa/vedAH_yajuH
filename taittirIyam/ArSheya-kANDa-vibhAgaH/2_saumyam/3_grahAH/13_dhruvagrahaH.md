@@ -44,7 +44,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -252,7 +253,8 @@ One of the awe-inspiring motifs in shruti is that of agni at the head of heaven,
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “The gods have genitive rated vaśvānara **Agni**, as the brow of heaven, the unceasing pervader of earth, born for (the celebration of) sacrifice, wise, imperial, the guest of men, in whose mouth (is) the vessel (that conveys the oblation to the gods).”
 

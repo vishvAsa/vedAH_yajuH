@@ -42,7 +42,8 @@ _________
 **Strata**  
 Normal on metrical evidence alone
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
@@ -84,37 +85,29 @@ navatī́ḥ ← navatí- (nominal stem)
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
 - *dadhīco* ← *dadhīcaḥ* ← *dadhyac*
 - \[noun\], genitive, singular, masculine
 - “Dadhyac.”
-------------------------------------------------------------------------
 - *asthabhir* ← *asthabhiḥ* ← *asthi*
 - \[noun\], instrumental, plural
 - “bone; kernel; shell; seed; asthi \[word\].”
-------------------------------------------------------------------------
 - *vṛtrāṇy* ← *vṛtrāṇi* ← *vṛtra*
 - \[noun\], accusative, plural, neuter
 - “enemy.”
-------------------------------------------------------------------------
 - *apratiṣkutaḥ* ← *apratiṣkuta*
 - \[noun\], nominative, singular, masculine
 - “unhampered; unrestrained; unchallenged.”
-------------------------------------------------------------------------
 - *jaghāna* ← *han*
 - \[verb\], singular, Perfect indicative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
-------------------------------------------------------------------------
 - *navatīr* ← *navatīḥ* ← *navati*
 - \[noun\], accusative, plural, feminine
 - “ninety; navati \[word\].”
-------------------------------------------------------------------------
 - *nava* ← *navan*
 - \[noun\], accusative, singular, neuter
 - “nine.”
-------------------------------------------------------------------------
 </details>
 <details><summary>सायण-भाष्यम्</summary>
 
@@ -128,7 +121,8 @@ navatī́ḥ ← navatí- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “**Indra**, with the bones of **Dadhīci**, slew ninety times nine **Vṛtras**.”
 
@@ -244,7 +238,8 @@ _________
 **Strata**  
 Normal on metrical evidence alone
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
@@ -289,41 +284,32 @@ vidat ← √vid- 1 (root)
 - \[verb noun\], nominative, singular
 - “desire; recommend; approve; seek; call; search; try; prefer; love;
     commend; assent; permit; choose.”
-------------------------------------------------------------------------
 - *aśvasya* ← *aśva*
 - \[noun\], genitive, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
-------------------------------------------------------------------------
 - *yacchiraḥ* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
-------------------------------------------------------------------------
 - *yacchiraḥ* ← *śiraḥ* ← *śiras*
 - \[noun\], accusative, singular, neuter
 - “head; top; peak; battlefront; śiras \[word\]; beginning; skull.”
-------------------------------------------------------------------------
 - *parvateṣv* ← *parvateṣu* ← *parvata*
 - \[noun\], locative, plural, masculine
 - “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
     height.”
-------------------------------------------------------------------------
 - *apaśritam* ← *apaśri* ← *√śri*
 - \[verb noun\], accusative, singular
 - “withdraw.”
-------------------------------------------------------------------------
 - *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
 - *vidaccharyaṇāvati* ← *vidat* ← *vid*
 - \[verb\], singular, Aorist inj. (proh.)
 - “find; detect; marry; get; think.”
-------------------------------------------------------------------------
 - *vidaccharyaṇāvati* ← *śaryaṇāvati* ← *śaryaṇāvant*
 - \[noun\], locative, singular, masculine
-------------------------------------------------------------------------
 </details>
 <details><summary>सायण-भाष्यम्</summary>
 
@@ -335,7 +321,8 @@ vidat ← √vid- 1 (root)
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Wishing for the horse's head hidden in the mountains, he found is Śaryaṇāvat.”
 </details>
@@ -444,7 +431,8 @@ _________
 **Strata**  
 Normal on metrical evidence alone
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
@@ -492,48 +480,38 @@ itthā́ ← itthā́ (invariable)
 - \[adverb\]
 - “now; there; then; then; there; here; here; in the following;
     alternatively; now.”
-------------------------------------------------------------------------
 - *atrāha* ← *āha* ← *ah*
 - \[verb\], singular, Perfect indicative
 - “describe; state; say; enumerate; call; name; teach; tell; deem;
     explain; say; define.”
-------------------------------------------------------------------------
 - *gor* ← *goḥ* ← *go*
 - \[noun\], genitive, singular, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
 - *amanvata* ← *man*
 - \[verb\], plural, Imperfect
 - “think of; name; believe; teach; honor; deem; recommend; approve;
     think; define; call; respect; believe; enumerate; understand; see;
     describe.”
-------------------------------------------------------------------------
 - *nāma* ← *nāman*
 - \[noun\], accusative, singular, neuter
 - “name; appellation; nāman \[word\]; nāmakaraṇa; surname; noun;
     word.”
-------------------------------------------------------------------------
 - *tvaṣṭur* ← *tvaṣṭuḥ* ← *tvaṣṭṛ*
 - \[noun\], genitive, singular, masculine
 - “Tvaṣṭṛ; Viśvakarman; sun.”
-------------------------------------------------------------------------
 - *apīcyam* ← *apīcya*
 - \[noun\], accusative, singular, neuter
 - “secret; hidden; cryptic.”
-------------------------------------------------------------------------
 - *itthā*
 - \[adverb\]
 - “thus; here.”
-------------------------------------------------------------------------
 - *candramaso* ← *candramasaḥ* ← *candramas*
 - \[noun\], genitive, singular, masculine
 - “moon; Candra; candramas.”
-------------------------------------------------------------------------
 - *gṛhe* ← *gṛha*
 - \[noun\], locative, singular, neuter
 - “house; palace; temple; home; place; family; family; stable.”
-------------------------------------------------------------------------
 </details>
 <details><summary>सायण-भाष्यम्</summary>
 
@@ -597,7 +575,8 @@ itthā́ ← itthā́ (invariable)
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “The (solar rays) found on this occasion the light of **Tvaṣṭā** verily concealed in the mansion of the moving moon.”
 
@@ -711,7 +690,8 @@ _________
 **Strata**  
 Strophic on metrical evidence alone
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
@@ -759,45 +739,35 @@ vā́ṇīḥ ← vā́ṇī- (nominal stem)
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
 - *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
 - *gāthino* ← *gāthinaḥ* ← *gāthin*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
 - *bṛhad* ← *bṛhat*
 - \[noun\], accusative, singular, neuter
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
-------------------------------------------------------------------------
 - *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
 - *arkebhir* ← *arkebhiḥ* ← *arka*
 - \[noun\], instrumental, plural, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
-------------------------------------------------------------------------
 - *arkiṇaḥ* ← *arkin*
 - \[noun\], nominative, plural, masculine
-------------------------------------------------------------------------
 - *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
 - *vāṇīr* ← *vāṇīḥ* ← *vāṇī*
 - \[noun\], nominative, plural, feminine
 - “voice; Sarasvati; words; language.”
-------------------------------------------------------------------------
 - *anūṣata* ← *nū*
 - \[verb\], plural, Athematic s aor. (Ind.)
 - “praise; shout.”
-------------------------------------------------------------------------
 </details>
 <details><summary>सायण-भाष्यम्</summary>
 
@@ -834,7 +804,8 @@ vā́ṇīḥ ← vā́ṇī- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “The chanters (of the **Soma**) extol **Indra** with songs, the reciters of the Ṛk with prayers, the priests of the **Yajuṣ**, with texts.”
 
@@ -965,7 +936,8 @@ _________
 **Strata**  
 Strophic on metrical evidence alone
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
@@ -1013,47 +985,36 @@ vajrī́ ← vajrín- (nominal stem)
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
 - *iddharyoḥ* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
-------------------------------------------------------------------------
 - *iddharyoḥ* ← *haryoḥ* ← *hari*
 - \[noun\], locative, dual, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
-------------------------------------------------------------------------
 - *sacā*
 - \[adverb\]
 - “jointly.”
-------------------------------------------------------------------------
 - *sammiśla* ← *sammiślaḥ* ← *sammiśla*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
 - *vacoyujā* ← *vacaḥ* ← *vacas*
 - \[noun\], neuter
 - “statement; command; speech; words; advice; word; voice.”
-------------------------------------------------------------------------
 - *vacoyujā* ← *yujā* ← *yuj*
 - \[noun\], accusative, dual, masculine
 - “amalgamated; harnessed.”
-------------------------------------------------------------------------
 - *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
 - *vajrī* ← *vajrin*
 - \[noun\], nominative, singular, masculine
-------------------------------------------------------------------------
 - *hiraṇyayaḥ* ← *hiraṇyaya*
 - \[noun\], nominative, singular, masculine
 - “gold; aureate; hiraṇyaya \[word\].”
-------------------------------------------------------------------------
 </details>
 <details><summary>सायण-भाष्यम्</summary>
 
@@ -1065,7 +1026,8 @@ vajrī́ ← vajrín- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “**Indra**, the blender of all things, comes verily with his steeds that are harnessed at his word; Indra, the richly-decorated, the wielder of the thunderbolt.”
 
@@ -1186,7 +1148,8 @@ _________
 **Strata**  
 Strophic on metrical evidence alone
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
@@ -1237,49 +1200,38 @@ ví ← ví (invariable)
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
 - *dīrghāya* ← *dīrgha*
 - \[noun\], dative, singular, neuter
 - “long; long; long; large; far; deep; dīrgha \[word\].”
-------------------------------------------------------------------------
 - *cakṣasa* ← *cakṣase* ← *cakṣas*
 - \[noun\], dative, singular, neuter
 - “eye; look; radiance.”
-------------------------------------------------------------------------
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
-------------------------------------------------------------------------
 - *sūryaṃ* ← *sūryam* ← *sūrya*
 - \[noun\], accusative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
-------------------------------------------------------------------------
 - *rohayad* ← *rohayat* ← *rohay* ← *√ruh*
 - \[verb\], singular, Imperfect
-------------------------------------------------------------------------
 - *divi* ← *div*
 - \[noun\], locative, singular
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
-------------------------------------------------------------------------
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
-------------------------------------------------------------------------
 - *gobhir* ← *gobhiḥ* ← *go*
 - \[noun\], instrumental, plural
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
-------------------------------------------------------------------------
 - *adrim* ← *adri*
 - \[noun\], accusative, singular, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
-------------------------------------------------------------------------
 - *airayat* ← *īray* ← *√īr*
 - \[verb\], singular, Imperfect
 - “name; describe; propel; shoot; state; call; raise; expel; tell;
     enumerate.”
-------------------------------------------------------------------------
 </details>
 <details><summary>सायण-भाष्यम्</summary>
 
@@ -1291,7 +1243,8 @@ ví ← ví (invariable)
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “**Indra**, to render all things visible, elevated the sun in the sky, and charged the cloud with (abundant) waters.”
 
@@ -1408,7 +1361,8 @@ _________
 **Strata**  
 Strophic on metrical evidence alone
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
@@ -1453,44 +1407,34 @@ ugráḥ ← ugrá- (nominal stem)
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
 - *vājeṣu* ← *vāja*
 - \[noun\], locative, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
-------------------------------------------------------------------------
 - *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
-------------------------------------------------------------------------
 - *'va* ← *ava* ← *av*
 - \[verb\], singular, Present imperative
 - “support; help; prefer; prefer; like.”
-------------------------------------------------------------------------
 - *sahasrapradhaneṣu* ← *sahasra*
 - \[noun\], neuter
 - “thousand; one-thousandth; sahasra \[word\].”
-------------------------------------------------------------------------
 - *sahasrapradhaneṣu* ← *pradhaneṣu* ← *pradhana*
 - \[noun\], locative, plural, masculine
-------------------------------------------------------------------------
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
-------------------------------------------------------------------------
 - *ugra* ← *ugraḥ* ← *ugra*
 - \[noun\], nominative, singular, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
-------------------------------------------------------------------------
 - *ugrābhir* ← *ugrābhiḥ* ← *ugra*
 - \[noun\], instrumental, plural, feminine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
-------------------------------------------------------------------------
 - *ūtibhiḥ* ← *ūti*
 - \[noun\], instrumental, plural, feminine
 - “aid; favor; ūti \[word\].”
-------------------------------------------------------------------------
 </details>
 <details><summary>सायण-भाष्यम्</summary>
 
@@ -1502,7 +1446,8 @@ ugráḥ ← ugrá- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Invincible **Indra**, protect us in battles abounding in spoil, with insuperable defenceṣ”
 </details>
@@ -1608,7 +1553,8 @@ _________
 **Strata**  
 Strophic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
@@ -1657,50 +1603,40 @@ vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
-------------------------------------------------------------------------
 - *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
-------------------------------------------------------------------------
 - *vājayāmasi* ← *vājay* ← *√vaj*
 - \[verb\], plural, Present indikative
 - “incite.”
-------------------------------------------------------------------------
 - *mahe* ← *mah*
 - \[noun\], dative, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
-------------------------------------------------------------------------
 - *vṛtrāya* ← *vṛtra*
 - \[noun\], dative, singular, masculine
 - “Vṛtra; vṛtra \[word\].”
-------------------------------------------------------------------------
 - *hantave* ← *han*
 - \[verb noun\]
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
-------------------------------------------------------------------------
 - *sa*
 - \[adverb\]
 - “with; little; together.”
-------------------------------------------------------------------------
 - *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
 - “bullocky; potent; powerful; strong; manly; aroused; potent;
     much(a); male; large.”
-------------------------------------------------------------------------
 - *vṛṣabho* ← *vṛṣabhaḥ* ← *vṛṣabha*
 - \[noun\], nominative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
-------------------------------------------------------------------------
 - *bhuvat* ← *bhū*
 - \[verb\], singular, Aorist conj./subj.
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
-------------------------------------------------------------------------
 </details>
 <details><summary>सायण-भाष्यम्</summary>
 
@@ -1712,7 +1648,8 @@ vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “We invigorate that (great) **Indra** for the slaying of mighty **Vṛtra**, may he be a bounteous showerer (ofwealth).”
 </details>

@@ -166,7 +166,8 @@ _________
 **Strata**  
 Normal
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -346,7 +347,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “From acts that are acceptable to **Vaiśvānara** comes great (wealth); for he, the sage (**Agni**) alone, bestows (the reward) of zeal in (the performance of) his worship; adoring both his prolific friends, heaven and earth, Agni was born.”
 </details>
@@ -467,7 +469,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -694,7 +697,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “**Agni**, who is present in the sky, and present upon earth, and who, present, has pervaded all herbs; may the Agni **Vaiśvānara**, who is present in vigour, guard us night and day, against our enemies”
 
@@ -825,7 +829,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -1041,7 +1046,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “When you are born, **Agni**, the lord, the circumambient, you watch over all creatures as a herdsman overhis cattle; be willing, **Vaiśvānara**, to requite our praise, and do you cherish us with blessings.”
 
@@ -1164,7 +1170,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
@@ -1336,7 +1343,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “You, **Agni**, radiant with lustre, fill the heaven and earth (with light) as soon as born; you, **Vaiśvānara**,from whom wealth proceeds, has by your might liberated the gods from malevolent (foes).”
 </details>
@@ -1453,7 +1461,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -1647,7 +1656,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Grant, **Agni**, to us who are affluent in (offerings), wealth that cannot be taken away, that is exempt from decay, and that comprehends excellent **male** descendants may we obtain, Agni **vaiśvānara**, hundreds and thousands of viands through your protection.”
 </details>
@@ -1767,7 +1777,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -1953,7 +1964,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “May we continue in the favour of **Vaiśvānara**, for verily he is the august sovereign of all beings; as soon as genitive rated from this (wood), he surveys the universe; he accompanies the rising sun.”
 
@@ -2082,7 +2094,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -2280,7 +2293,8 @@ _______________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “**Varuṇa**, we deprecate your wrath with prostrations, with sacrifices, with oblations; averter of misfortune, wise and illustrious, be present amongst us, and mitigate the evils we have committed.”
 
@@ -2400,7 +2414,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -2600,7 +2615,8 @@ _______________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “**Varuṇa**, loosen for me the upper, the middle, the lower band; so, son of **Aditi**, shall we, through faultlessness in the worship, become freed from siṇ”
 
@@ -2723,7 +2739,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
@@ -2879,7 +2896,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “I have celebrated the praise of Dadhikrā, the rapid and victorious stee; may he make our mouths fragrant, may he prolong our lives.”
 
@@ -2998,7 +3016,8 @@ _________
 **Strata**  
 Normal
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -3214,7 +3233,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Dadhikrā has spread abroad the five classes of beings by his strength, as the sun (diffuses) the waters by his radiance; may he, the giver of hundreds and thousands, associate these praises with agreeable (rewards).”
 </details>
@@ -3337,7 +3357,8 @@ _________
 **Strata**  
 Normal on metrical evidence alone
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
@@ -3459,7 +3480,8 @@ _____________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “**Agni**, the head (of the gods), the summit of heaven-- he the lord of the earth-- gladdens the seed of thewaters.”
 
@@ -3610,7 +3632,8 @@ _________
 **Strata**  
 Strophic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
@@ -3745,7 +3768,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “When, **Maruts**, desirous of felicity, we invoke you from heaven, come unto us quickly.”
 </details>

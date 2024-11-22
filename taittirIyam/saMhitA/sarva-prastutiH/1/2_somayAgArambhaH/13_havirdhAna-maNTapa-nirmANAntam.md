@@ -53,7 +53,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -281,7 +282,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “The wise apply their minds; they perform sacred rites for the propitiation of the intelligent, great, adorable **Savitā**; he alone, knowing their functions, directs the priests; verily, great is the praise of the divine Savitā.”
 
@@ -473,7 +475,8 @@ _________
 **Strata**  
 Normal
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
@@ -612,7 +615,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “**Viṣṇu** traversed this (world); three times he plural nted his foot and the whole (world) was collected in the dust of his (footstep).”
 
@@ -737,7 +741,8 @@ _________
 **Strata**  
 Strophic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -915,7 +920,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Heaven and earth, abounding with food, abounding with cattle, yielding abundant fodder, you aredisposed to be liberal to the man (who praises you); you, **Viṣṇu**, have upheld these two heaven and earth, andhave secured the earth around with mountains.”
 
@@ -1114,7 +1120,8 @@ _________
 **Strata**  
 Strophic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -1310,7 +1317,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Earnetly I glorify the exploits of **Viṣṇu**, who made the **three worlds**; who sustained the lofty aggregate site (of the spheres); thrice traversing (the whole); who is praised by the exalted.”
 

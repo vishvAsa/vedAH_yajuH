@@ -152,7 +152,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -334,7 +335,8 @@ ____________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “The seven rivers display his glory; heaven, and earth, and sky display his visible form; the sun and moon, **Indra**,perform their revolution, that we may see, and have faith in what we see.”
 

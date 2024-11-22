@@ -632,7 +632,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
@@ -785,7 +786,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “**Puruṣa**, who has a thousand heads, a thousand eyes, a thousand feet, investing the earth in alldirections, exceeds (it by a space) measuring ten fingers.”
 
@@ -889,7 +891,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
@@ -1064,7 +1067,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “**Puruṣa** is verily all this (visible world), all that is, and all that is to be; he is also the lord of immortality;for he mounts beyond (his own condition) for the food (of living beings).”
 
@@ -1165,7 +1169,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
@@ -1332,7 +1337,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Such is his greatness; and **Puruṣa** is greater even than this; all beings are one-fourth of him; his otherthree-fourths, (being) immortal, (abide) in heaven.”
 
@@ -1428,7 +1434,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
@@ -1621,7 +1628,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Three-fourths of **Puruṣa** ascended; the other fourth that remained in this world proceeds repeatedly,and, diversified in various forms, went to all animate and inanimate creation.”
 
@@ -1720,7 +1728,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
@@ -1901,7 +1910,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “From him was born Virāt. and from Virāt. **Puruṣa**;  
 he, as soon as born, became manifested,  
@@ -1998,7 +2008,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
@@ -2150,7 +2161,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “When the gods performed the sacrifice with **Puruṣa** as the offering, then Spring was its ghī, Summerthe fuel, and Autumn the oblation.”
 
@@ -2246,7 +2258,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
@@ -2405,7 +2418,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Seven were the enclosures of the sacrifice, thrice seven logs of fuel were prepared, when the gods,celebrating the rite, bound **Puruṣa** as the victim.”
 
@@ -2500,7 +2514,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
@@ -2658,7 +2673,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “They immolated as the victim upon the sacred grass - **Puruṣa**, born before (creation); with him the deities who were **Sādhyas** and those who were Ṛṣis sacrificed.”
 
@@ -2753,7 +2769,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (380);; repeated line  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
@@ -2999,7 +3016,8 @@ _________
 <details><summary>Wilson</summary>
 
 
-###### English translation:
+_________
+**English translation:**  
 
 “From that victim, in whom the universal oblation was offered, the mixture of curds and butter was produced, (then) he made those animals over whom **Vāyu** presides, those that are wild, and those that aretame.”
 
@@ -3095,7 +3113,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
@@ -3292,7 +3311,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “From that victim, in whom the universal oblation was offered, the ṛccas and **sāmans** were produced;from him the metres were born; from him the **yajus**. was born.”
 
@@ -3376,7 +3396,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
@@ -3623,7 +3644,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
@@ -3795,7 +3817,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “When they immolated **Puruṣa**, into how many portions did they divide him? What was his mouth called, what his arms, what his thighs, what were his feet called?”
 </details>
@@ -3873,7 +3896,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
@@ -4037,7 +4061,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “His mouth became the **Brāhmaṇa**, his arms became the **Rājanya**, his thighs became the **Vaiśya**;the **Śūdra** was born from his feet.”
 
@@ -4131,7 +4156,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
@@ -4289,7 +4315,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “The moon was born from his mind; the sun was born from his eye; **Indra** and **Agni** were born from his mouth, **Vāyu** from his breath.”
 
@@ -4382,7 +4409,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
@@ -4555,7 +4583,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “From his navel came the firmament, from his head the heaven was produced, the earth from his feet,the quarters of space from his ear, so they constituted the world.”
 </details>
@@ -4645,7 +4674,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; repeated line  
 popular;; repeated line  
 popular;; repeated line  
@@ -4844,7 +4874,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “By sacrifice the gods worshipped (him who is also) the sacrifice; those were the first duties. Those great ones became partakers of the heaven where the ancient deities the **Sādhyas** abide. ”
 </details>
@@ -5626,7 +5657,8 @@ _________
 **Strata**  
 Strophic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -5822,7 +5854,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Earnetly I glorify the exploits of **Viṣṇu**, who made the **three worlds**; who sustained the lofty aggregate site (of the spheres); thrice traversing (the whole); who is praised by the exalted.”
 
@@ -5952,7 +5985,8 @@ _________
 **Strata**  
 Strophic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -6168,7 +6202,8 @@ __________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “May I attain his favourite path, in which god-seeking men delight; (the path) of that wide-stepping **Viṣṇu**, in whose exalted station there is a (perpetual) flow of felicity; for to such a degree is he the friend (of the pious).”
 
@@ -6279,7 +6314,8 @@ _________
 **Strata**  
 Strophic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -6458,7 +6494,8 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “**Viṣṇu** is therefore glorified, that by his prowess he is like a fearful, ravenous, and mountain-haunting wild beast, and because of that in his three paces all worlds abide.”
 
@@ -6586,7 +6623,8 @@ _________
 **Strata**  
 Strophic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -6791,7 +6829,8 @@ __________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Expanding with a body beyond all measure, **Viṣṇu** men comprehend not your magnitude; we knowthese your two worlds (computing) from the earth, but you, divine Viṣṇu, are cognisant of the highest.”
 
@@ -6902,7 +6941,8 @@ _________
 **Strata**  
 Strophic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -7090,7 +7130,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “This **Viṣṇu** traversed the earth for a dwelling which he was desirous of giving to his eulogist; firm arethe people who are his praisers; he who is the engenderer of good has made a spacious dwelling (for hisworshippers).”
 
@@ -7202,7 +7243,8 @@ _________
 **Strata**  
 Strophic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -7397,7 +7439,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “This deity, by his great power, traversed with three (steps) the many- lustrous earth; may **Viṣṇu**, themost powerful of the powerful rule over us, for illustrious is the name of the mighty one.”
 
@@ -10677,7 +10720,8 @@ _________
 **Strata**  
 Archaic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
@@ -10792,7 +10836,8 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Grant us today, divine **Savitā** affluence with progeny, and drive away evil dreams.”
 
@@ -10902,7 +10947,8 @@ _________
 **Strata**  
 Archaic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
@@ -11039,7 +11085,8 @@ __________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Remove from us, divine **Savitā**, all misfortunes; bestow upon us that which is good,”
 
@@ -11222,7 +11269,8 @@ _________
 **Strata**  
 Normal
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -11407,7 +11455,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “The **Brahmā** of the gods, the guide of the sages, the ṛṣi of the pious, the buffalo of wild animals, the falcon of the vultures, the hatchet of deadly weapons, the **Soma** passes through the filter with a roar.”
 

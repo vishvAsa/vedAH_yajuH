@@ -185,7 +185,8 @@ _________
 **Strata**  
 Strophic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
@@ -311,7 +312,8 @@ __________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “By what means may he who is ever augmenting, who is wonderful, who is our friend, be present with us, by what most effective rite?”
 </details>

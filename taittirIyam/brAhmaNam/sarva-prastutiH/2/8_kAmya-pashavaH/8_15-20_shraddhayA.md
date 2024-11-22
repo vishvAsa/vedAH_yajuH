@@ -34,7 +34,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
@@ -173,7 +174,8 @@ ______________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “**Agni** is kindled by **Śraddhā**, by Śraddhā is the oblation offered; with our praise we glorifyFaith, of the family of Love; cf. **Nirukta** 9.31\].”
 </details>
@@ -267,7 +269,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
@@ -421,7 +424,8 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “O Śraddhā\_, grant the desire of the donor (of the oblation), grant, O **Śraddhā**, the desire of himwho wishes to give, grant this boon which I have mentioned to my sacrificers who solicit happiness.”
 </details>
@@ -507,7 +511,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
@@ -656,7 +661,8 @@ __________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “As the gods had faith in (their fight with) the **Asuras**, so grant the boon which has been asked for toour sacrificers who solicit happiness.”
 </details>
@@ -741,7 +747,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
@@ -876,7 +883,8 @@ ___________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Gods, worshippers, and those who are protected by **Vāyu**, solicit **Śraddhā**, (they cherish) Śraddhāwith heartfelt desire, through Śraddhā a man acquires wealth.”
 
@@ -967,7 +975,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
@@ -1118,7 +1127,8 @@ _________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “We invoke **Śraddhā** at dawn, and again at midday, and also at the setting of the sun; inspire us inthis world, Śraddhā, with faith.”
 </details>

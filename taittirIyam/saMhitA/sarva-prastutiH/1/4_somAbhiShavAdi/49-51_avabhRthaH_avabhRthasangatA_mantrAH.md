@@ -42,7 +42,8 @@ _________
 **Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-###### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
@@ -246,7 +247,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “The regal **Varuṇa** verily made with the path of the sun, (by which) to travel on his daily course; a path to traverse in pathless (space); may he be the repeller of every afflicter of the heart.”
 

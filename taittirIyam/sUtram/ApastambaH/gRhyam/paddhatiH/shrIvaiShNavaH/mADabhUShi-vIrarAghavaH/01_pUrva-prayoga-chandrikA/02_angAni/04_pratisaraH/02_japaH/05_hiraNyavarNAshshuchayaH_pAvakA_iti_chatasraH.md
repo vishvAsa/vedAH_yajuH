@@ -304,7 +304,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
@@ -445,7 +446,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Since, waters, you are the sources of happiness, grant to us to enjoy abundance, and great anddelightful perception.”
 
@@ -536,7 +538,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
@@ -669,7 +672,8 @@ ________________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Give us to partake in this world of your most auspicious **Soma**, like affectionate mothers.”
 </details>
@@ -748,7 +752,8 @@ _________
 **Strata**  
 Cretic
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
@@ -881,7 +886,8 @@ _____________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “Let us quickly have recourse to you, for that your (faculty) of removing (sin) by which you gladden us;waters, bestow upon us progeny.”
 

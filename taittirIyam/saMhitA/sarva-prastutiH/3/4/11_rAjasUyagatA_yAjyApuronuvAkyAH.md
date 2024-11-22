@@ -330,7 +330,8 @@ _________
 **Strata**  
 Normal
 
-###### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -569,7 +570,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-###### English translation:
+_________
+**English translation:**  
 
 “May that mortal enjoy abundance, **Mitra**, who presents you, **Āditya**, (with offerings) at the sacred rite; protected by you he is not harmed; he is not overcome by any one; son reaches him not, either from afar or nigh.”
 </details>
@@ -678,7 +680,8 @@ _________
 **Strata**  
 Strophic
 
-##### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
@@ -820,7 +823,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-#### English translation:
+_________
+**English translation:**  
 
 “Inasmuch as all people commit errors, so do we, divine **Varuṇa**, daily disfigure your worship by imperfections.”
 </details>
@@ -928,7 +932,8 @@ _________
 **Strata**  
 Cretic
 
-##### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -1149,7 +1154,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-#### English translation:
+_________
+**English translation:**  
 
 “Whatever the offence which we men commit **Varuṇa** against divine beings, whatever law of yours wemay through ignorance violate, do not you, divine Varuṇa, punish us on account of that iniquity.”
 </details>
@@ -1236,7 +1242,8 @@ _________
 **Strata**  
 Cretic
 
-##### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -1504,7 +1511,8 @@ _________
 </details>
 <details><summary>Wilson</summary>
 
-#### English translation:
+_________
+**English translation:**  
 
 “If, like gamesters, who cheat at plural y, (we commit offences) knowingly, or (those) of which we know not, do you divine **Varuṇa**, extricate us from them all, as if from loosened (bonds), so that we may be dear, Varuṇa, to you.”
 </details>
