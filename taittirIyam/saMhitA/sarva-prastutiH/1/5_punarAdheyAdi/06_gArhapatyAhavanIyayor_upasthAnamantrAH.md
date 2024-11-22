@@ -272,14 +272,16 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Normal
 
 ###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-###### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -600,13 +602,15 @@ Our protector, kindly, a shield;
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Archaic
 
 ###### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; 11 = 8+3
-###### Morph
+_________
+**Morph**  
 dīdivaḥ ← √dī- 1 (root)  
 {case:VOC, gender:M, number:SG, tense:PRF, voice:ACT}
 
@@ -890,14 +894,16 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-##### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
 ##### Pāda-label
 genre M  
 genre M  
 genre M
-##### Morph
+_________
+**Morph**  
 savitúḥ ← savitár- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -1342,7 +1348,8 @@ May we focus on the excellent radiance of the deva Savitṛ who will inspire our
 
 “We meditate on that desirable light of the divine **Savitā**, who influences our pious rites.”
 
-#### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Yajus**. 3.35;
 
@@ -1574,14 +1581,16 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Normal
 
 ###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-###### Morph
+_________
+**Morph**  
 somā́nam ← somā́n- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -1677,7 +1686,8 @@ yáḥ ← yá- (pronoun)
 
 “**Brahmaṇaspati** (=**Agni**, connected with prayer) make the offerer of the libation illustrious among the gods, like **Kakṣīvat**, the son of Uśij (and **Dīrghatamas**).”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Legend: Kakṣīvat, was the son of Dīrghatamas, by Uṣij, a feminine le servant of the **queen** of **Kaliṅga Rāja**, whom her husband had desired to submit to the embraces of sage to beget a son. The queen substituted her maid Uṣij. Sage was aware of the deception, sanctified Uṣij, begot by her a son, named Kakṣīvat, who was a **kṣatriya** with the affiliation to **Kaliṅga** and was also a **brāhmaṇa** since he was the son of Dīrghatamas. He is also a ṛṣi: aham kaśivān ṛṣirasmi: I am the ṛṣi kakṣīvat (**Nirukta**.6.10)
 </details>
@@ -1804,7 +1814,8 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic
 
 ###### Pāda-label
@@ -1812,7 +1823,8 @@ genre M;; Vālakhilya
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
-###### Morph
+_________
+**Morph**  
 asi ← √as- 1 (root)  
 {number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
 

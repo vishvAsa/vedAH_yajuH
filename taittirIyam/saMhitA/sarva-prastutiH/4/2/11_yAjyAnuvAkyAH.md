@@ -181,14 +181,16 @@ title = "११ याज्यानुवाक्याः"
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic
 
 ###### Pāda-label
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 

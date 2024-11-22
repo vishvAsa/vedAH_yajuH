@@ -38,7 +38,8 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -46,7 +47,8 @@ popular
 popular  
 popular  
 popular
-###### Morph
+_________
+**Morph**  
 cakā́ra ← √kr̥- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
 
@@ -212,7 +214,8 @@ utá ← utá (invariable)
 
 “The regal **Varuṇa** verily made with the path of the sun, (by which) to travel on his daily course; a path to traverse in pathless (space); may he be the repeller of every afflicter of the heart.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Cf. sun's course north and south of the equator
 </details>

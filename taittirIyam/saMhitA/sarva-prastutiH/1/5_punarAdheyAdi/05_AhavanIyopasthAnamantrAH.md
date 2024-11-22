@@ -50,14 +50,16 @@ The Reverence of the Fire
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic
 
 ###### Pāda-label
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 adhvarám ← adhvará- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -259,14 +261,16 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Normal
 
 ###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-###### Morph
+_________
+**Morph**  
 ánu ← ánu (invariable)  
 {}
 
@@ -462,14 +466,16 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
 ###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-###### Morph
+_________
+**Morph**  
 agníḥ ← agní- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -570,7 +576,8 @@ _____________
 
 “**Agni**, the head (of the gods), the summit of heaven-- he the lord of the earth-- gladdens the seed of thewaters.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Seed: retāṃsi, the moveable andimmovable productions of the creative waters
 </details>
@@ -662,7 +669,8 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic
 
 ###### Pāda-label
@@ -670,7 +678,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 ayám ← ayám (pronoun)  
 {case:NOM, gender:M, number:SG}
 
@@ -824,7 +833,8 @@ viśé-viśe ← víś- (nominal stem)
 
 “This invoker of the gods and minister of frequent worship, who is to be glorified at sacrifices, has been plural ced first (of the gods) by the performers of the rite; the **Agni** whom Apnavāna and other **Bhṛgus** lighted in the woods for the sake of all men, marvellous (in his acts), and soverign (over all).”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Yajus**. 3.15; the rite: the Agni here is **āhavanīya** which is kindled before the **dakṣiṇā**; Apnavāna and other Bhṛgus: Apnavānaḥ is the name of a ṛṣi of the family of **Bhṛgu**;
 
@@ -945,7 +955,8 @@ Errichtet wurde dieser von den Ordnern hier, der beste Opfrer, bei den Festen pr
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Archaic
 
 ###### Pāda-label
@@ -953,7 +964,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 āhuvádhyai ← √hū- (root)  
 {case:DAT, number:SG, tense:AOR}
 
@@ -1292,14 +1304,16 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic
 
 ###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
-###### Morph
+_________
+**Morph**  
 ágne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -1523,14 +1537,16 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic
 
 ###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
-###### Morph
+_________
+**Morph**  
 ágne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -1744,14 +1760,16 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Normal
 
 ###### Pāda-label
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 ágne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -2008,14 +2026,16 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
 ###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-###### Morph
+_________
+**Morph**  
 agníḥ ← agní- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -2115,7 +2135,8 @@ __________
 
 “The pure **Agni** shines forth when worshipped the purest offerer, the pure priest, the pure sage.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Puresage: **kavi** = sage (RV 1.31.2); or, krāntakarman
 </details>
@@ -2203,14 +2224,16 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
 ###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-###### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 

@@ -428,14 +428,16 @@ unicode_script = "devanagari"
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Normal
 
 ###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-###### Morph
+_________
+**Morph**  
 ádbhutam ← ádbhuta- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -1130,7 +1132,8 @@ This hymn presents a cosmogony with tápas “ascetic heat, fervor” as the ult
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -1138,7 +1141,8 @@ popular;; epic anuṣṭubh (292)
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
-###### Morph
+_________
+**Morph**  
 abhī̀ddhāt ← √idh- 1 (root)  
 {case:ABL, gender:N, number:SG, non-finite:PPP}
 
@@ -1284,7 +1288,8 @@ tátas ← tátas (invariable)
 
 “Truth (of thought) and truthfulness (of speech) were born of arduous penance, thence was nightgenerated, thence also the watery ocean.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Penance: an allusion to the penance of **Brahmā** preceding creation;
 
@@ -1381,7 +1386,8 @@ Genaht ist dieser bunte Stier; zum Vater und zur Mutter hat Er sich gesetzt beim
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -1389,7 +1395,8 @@ popular;; epic anuṣṭubh (292)
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
-###### Morph
+_________
+**Morph**  
 ádhi ← ádhi (invariable)  
 {}
 
@@ -1577,7 +1584,8 @@ Er wandelt in des Lichtes Raum, vor seinem Hauch erlischt das Roth, Der starke h
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -1585,7 +1593,8 @@ popular;; epic anuṣṭubh (292)
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
-###### Morph
+_________
+**Morph**  
 dhātā́ ← dhātár- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -1867,7 +1876,8 @@ __________________
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Cretic
 
 ###### Pāda-label
@@ -1875,7 +1885,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 ákrān ← √krand- (root)  
 {number:SG, person:2, mood:IND, tense:AOR, voice:ACT}
 
@@ -2326,7 +2337,8 @@ Das Meer erbrauste in dem ersten Himmel, des Weltalls König, die Geschöpfe zeu
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Normal
 
 ###### Pāda-label
@@ -2334,7 +2346,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 brahmā́ ← brahmán- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -2483,7 +2496,8 @@ sómaḥ ← sóma- (nominal stem)
 
 “The **Brahmā** of the gods, the guide of the sages, the ṛṣi of the pious, the buffalo of wild animals, the falcon of the vultures, the hatchet of deadly weapons, the **Soma** passes through the filter with a roar.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The Brahmā of the gods: i.e., the king of the gods; or, it may mean the **brāhmaṇa** of the priests; the ṛṣi: yaḥ **parokṣam** paśyati sa ṛṣiḥ, ṛsirdarśanāt (**Nirukta** 2.11)
 </details>
@@ -2658,14 +2672,16 @@ Seated among men, seated in the highest, seated in holy order, seated in the fir
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Archaic
 
 ###### Pāda-label
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 adyá ← adyá (invariable)  
 {}
 
@@ -2759,7 +2775,8 @@ ________________
 
 “Grant us today, divine **Savitā** affluence with progeny, and drive away evil dreams.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Para** duhṣvapnyam **suva**: duhṣvapnyam = dāridryam, poverty
 </details>
@@ -2860,14 +2877,16 @@ O schaffe heut, Gott Savitar, uns kinderreichen Segen her; Fort schaffe böses T
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Archaic
 
 ###### Pāda-label
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 deva ← devá- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -2979,7 +2998,8 @@ __________________
 
 “Remove from us, divine **Savitā**, all misfortunes; bestow upon us that which is good,”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Bhadram = progeny, cattle, dwelling, **prajā** vai bhadram, **pasa**'vo bhadram, gṛham bhadram iti
 </details>
@@ -3206,7 +3226,8 @@ O schaffe alles Ungemach von uns hinweg, Gott Savitar; Was heilsam ist, das scha
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
 ###### Pāda-label
@@ -3214,7 +3235,8 @@ genre D
 genre D  
 genre D  
 genre D
-###### Morph
+_________
+**Morph**  
 asya ← ayám (pronoun)  
 {case:GEN, gender:M, number:SG}
 
@@ -3373,7 +3395,8 @@ viveśa ← √viś- (root)
 
 “Four are his horns; three are his feet; his heads are two, his **hands** are seven; the triple-bound showerer (of benefits) roars aloud; the mighty deity has entered among men.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 This verse is preferentially applied to **Agni**, identified either with **yajña** or with **Āditya**; the four horns of the yajña are the four **vedas**; of Āditya, the four cardinal points of the horizon; the three feet of yajña are the three daily sacrifices; of Āditya, morning, noon, evening; the two heads of yajña are two particular ceremonies termed brahmaudanam and **pravargya**; of Āditya, day and night; the seven hands of yajña are the seven metres; of Āditya, the seven rays, or the six seasons and their aggregate, or the year, the seventh; the term **vṛṣabha** phalānām vaṛsitā, the rainer of rewards, applies to yajña and Āditya; so does roraite, he roars, implying the noise made by the repetition of the **mantras** of the vedas; the three bonds of yajña are: **mantra**, **kalpa** and **brāhmaṇa**, the prayer, the ceremonial; the rationale of Āditya, the three regions, earth, mid-air and heaven; another view is to limit vṛṣabha kāmānam varṣitā to yajña; the four horns are the priests: the **hotā**, **udgātā**, **adhvaryu** and **brahmā**; the three feet are the three vedas; the two heads the **havirdhāna** and pravargya rites; the hands are the seven priests, or seven metres; the three bonds the three daily sacrifices; **Nirukta** 13.7 applies the verse to yajña
 </details>
@@ -3474,7 +3497,8 @@ Vier Hörner hat er, auf drei Füssen steht er, zwei Köpfe sind ihm und der Hä
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
 ###### Pāda-label
@@ -3482,7 +3506,8 @@ genre D
 genre D  
 genre D  
 genre D
-###### Morph
+_________
+**Morph**  
 guhyámānam ← √guh- (root)  
 {case:NOM, gender:N, number:SG, tense:PRS, voice:PASS}
 
@@ -3649,7 +3674,8 @@ venā́t ← vená- (nominal stem)
 
 “The gods discovered the Ghī concealed by the **Paṇis**, plural ced three-fold in the cow; **Indra** genitive rated one (portion), **Sūrya** another, the (other gods) fabricated one from the resplendent (**Agni**), for the sake of the oblation.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The paṇis are **asuras**; the three forms or states in which the ghī was deposited in the cow were milk, curds and butter, of which Indra engendered jajāna, milk, Sūrya butter, and the god (devāsaḥ) fabricated (tatakṣuḥ) curds from the shining, venāt, that is Agni; another rendering is devāsaḥ dvijātayaḥ, the twice-born
 </details>
@@ -4646,14 +4672,16 @@ ________________________
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
 ###### Pāda-label
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 savitúḥ ← savitár- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -5098,7 +5126,8 @@ May we focus on the excellent radiance of the deva Savitṛ who will inspire our
 
 “We meditate on that desirable light of the divine **Savitā**, who influences our pious rites.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Yajus**. 3.35;
 
@@ -5974,14 +6003,16 @@ bahurUpI was archaic but popular para-vedic mantra used outside of core saMhitA 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Archaic
 
 ###### Pāda-label
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 adyá ← adyá (invariable)  
 {}
 
@@ -6075,7 +6106,8 @@ ________________
 
 “Grant us today, divine **Savitā** affluence with progeny, and drive away evil dreams.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Para** duhṣvapnyam **suva**: duhṣvapnyam = dāridryam, poverty
 </details>
@@ -6176,14 +6208,16 @@ O schaffe heut, Gott Savitar, uns kinderreichen Segen her; Fort schaffe böses T
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Archaic
 
 ###### Pāda-label
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 deva ← devá- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -6295,7 +6329,8 @@ __________________
 
 “Remove from us, divine **Savitā**, all misfortunes; bestow upon us that which is good,”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Bhadram = progeny, cattle, dwelling, **prajā** vai bhadram, **pasa**'vo bhadram, gṛham bhadram iti
 </details>
@@ -6469,7 +6504,8 @@ O schaffe alles Ungemach von uns hinweg, Gott Savitar; Was heilsam ist, das scha
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Normal
 
 ###### Pāda-label
@@ -6477,7 +6513,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 brahmā́ ← brahmán- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -6626,7 +6663,8 @@ sómaḥ ← sóma- (nominal stem)
 
 “The **Brahmā** of the gods, the guide of the sages, the ṛṣi of the pious, the buffalo of wild animals, the falcon of the vultures, the hatchet of deadly weapons, the **Soma** passes through the filter with a roar.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The Brahmā of the gods: i.e., the king of the gods; or, it may mean the **brāhmaṇa** of the priests; the ṛṣi: yaḥ **parokṣam** paśyati sa ṛṣiḥ, ṛsirdarśanāt (**Nirukta** 2.11)
 </details>

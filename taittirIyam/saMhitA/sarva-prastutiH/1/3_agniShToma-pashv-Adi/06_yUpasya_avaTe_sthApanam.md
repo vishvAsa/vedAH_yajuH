@@ -352,14 +352,16 @@ Of the wide-stepping Visnu, the mighty!
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Normal
 
 ###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-###### Morph
+_________
+**Morph**  
 kármāṇi ← kárman- (nominal stem)  
 {case:ACC, gender:N, number:PL}
 
@@ -559,14 +561,16 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Normal
 
 ###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-###### Morph
+_________
+**Morph**  
 padám ← padá- (nominal stem)  
 {case:ACC, gender:N, number:SG}
 
@@ -674,7 +678,8 @@ iva ← iva (invariable)
 
 “The wise ever contemplate that supreme station of **Viṣṇu**, as the eye ranges over the sky.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 paramam padam = supreme degree or station, **svarga**
 </details>

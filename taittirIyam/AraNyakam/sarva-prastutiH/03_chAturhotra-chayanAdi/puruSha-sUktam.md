@@ -86,7 +86,8 @@ The identity of the Sādhyas (in vss. 7 and 16) is not clear. Their name means  
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -94,7 +95,8 @@ popular;; epic anuṣṭubh (380)
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
-###### Morph
+_________
+**Morph**  
 púruṣaḥ ← púruṣa- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -215,7 +217,8 @@ daśāṅgulám ← daśāṅgulá- (nominal stem)
 
 “**Puruṣa**, who has a thousand heads, a thousand eyes, a thousand feet, investing the earth in alldirections, exceeds (it by a space) measuring ten fingers.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Puruṣa = embodied spirit; or, **virāj**, the aggregate ofall living beings, spirit embodied in the egg of **Brahmā**, i.e., the universal spirit animating all creation. Thousand= an infinite number; the human **soul**, extending from the navel, takes upits abode in the heart or the humanbreast; the supreme soul, having animated the universe, is present in man, either in a minute form or of definitedimensions
 </details>
@@ -310,7 +313,8 @@ Tausendköpfig war der Urmensch, tausendäugig, tausendfüssig; nachdem er die E
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -318,7 +322,8 @@ popular;; epic anuṣṭubh (380)
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
-###### Morph
+_________
+**Morph**  
 evá ← evá (invariable)  
 {}
 
@@ -459,7 +464,8 @@ yát ← yá- (pronoun)
 
 “**Puruṣa** is verily all this (visible world), all that is, and all that is to be; he is also the lord of immortality;for he mounts beyond (his own condition) for the food (of living beings).”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 He mounts: liṭ, since he rises beyond byfood; or, he is that which grows by nourishment; or, that which expands by nourshment;
 
@@ -551,7 +557,8 @@ Der Urmensch ist alles dies, was gewesen ist, und was sein wird; er gebietet üb
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -559,7 +566,8 @@ popular;; epic anuṣṭubh (380)
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
-###### Morph
+_________
+**Morph**  
 asya ← ayám (pronoun)  
 {case:GEN, gender:M, number:SG}
 
@@ -692,7 +700,8 @@ tripā́t ← tripád- (nominal stem)
 
 “Such is his greatness; and **Puruṣa** is greater even than this; all beings are one-fourth of him; his otherthree-fourths, (being) immortal, (abide) in heaven.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Such is his greatness: i.e., the greatness of Puruṣa is as vastas the world of past, present, and future beings
 </details>
@@ -779,7 +788,8 @@ So bedeutend ist seine Grösse, und noch grösser ist der Urmensch; ein Viertel 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -787,7 +797,8 @@ popular;; epic anuṣṭubh (380)
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
-###### Morph
+_________
+**Morph**  
 ait ← √i- 1 (root)  
 {number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
 
@@ -940,7 +951,8 @@ sāśanānaśané ← sāśanānaśaná- (nominal stem)
 
 “Three-fourths of **Puruṣa** ascended; the other fourth that remained in this world proceeds repeatedly,and, diversified in various forms, went to all animate and inanimate creation.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Proceeds repeatedly: either inindividuals by death and birth, or in the world by its temporary dissolution and renovation;
 
@@ -1030,7 +1042,8 @@ Mit drei Vierteln ging der Urmensch oben hinauf, ein Viertel von ihm erschien wi
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -1038,7 +1051,8 @@ popular;; epic anuṣṭubh (380)
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
-###### Morph
+_________
+**Morph**  
 ajāyata ← √janⁱ- (root)  
 {number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
 
@@ -1189,7 +1203,8 @@ u ← u (invariable)
 he, as soon as born, became manifested,  
 and afterwards (created) the earth (and) then corporeal forms.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 From him: tasmāt = from that one-fourth; or, from the spirit who by his delusion created the body of **Virāṭ**, i.e., the egg of **Brahma** and entered into it in the form oflife
 </details>
@@ -1275,7 +1290,8 @@ Von ihm ward der Allherrscher [virâj] geboren und vom Allherrscher der Urmensch
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -1283,7 +1299,8 @@ popular;; epic anuṣṭubh (380)
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
-###### Morph
+_________
+**Morph**  
 havíṣā ← havís- (nominal stem)  
 {case:INS, gender:N, number:SG}
 
@@ -1405,7 +1422,8 @@ idhmáḥ ← idhmá- (nominal stem)
 
 “When the gods performed the sacrifice with **Puruṣa** as the offering, then Spring was its ghī, Summerthe fuel, and Autumn the oblation.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Apparently a reference to an imaginary sacrifice (mānasam)
 </details>
@@ -1492,7 +1510,8 @@ Als die Götter ihr Opfer mit dem Urmenschen als dem Opfertrank kunstvoll bereit
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -1500,7 +1519,8 @@ popular;; epic anuṣṭubh (380)
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
-###### Morph
+_________
+**Morph**  
 aukṣan ← √ukṣ- (root)  
 {number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
 
@@ -1629,7 +1649,8 @@ yé ← yá- (pronoun)
 
 “Seven were the enclosures of the sacrifice, thrice seven logs of fuel were prepared, when the gods,celebrating the rite, bound **Puruṣa** as the victim.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Seven enclosures: sapta paridhayaḥ = seven metres, ga-yatrīetc., and also as meaning the shallow trenches, three of which were dug round the **Āhavanīya** fireplace, threeround the northern altar, and the seven ideally dug round the sun to keep off evil spirits. paridhayaḥ = moats; or,the seven oceans; thrice seven pieces of fuel = twelve months of the year, the five seasons, the **three worlds** andthe sun; or the three classes of seven metres eaach: **Taittirīya** **Saṃhitā** 5.1.10.3
 </details>
@@ -1715,7 +1736,8 @@ Diesen zuerst geborenen Urmenschen benetzten sie als ihr Opfer auf der heiligen 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -1723,7 +1745,8 @@ popular;; epic anuṣṭubh (380)
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
-###### Morph
+_________
+**Morph**  
 sarvahútaḥ ← sarvahúta- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -1851,7 +1874,8 @@ yé ← yá- (pronoun)
 
 “They immolated as the victim upon the sacred grass - **Puruṣa**, born before (creation); with him the deities who were **Sādhyas** and those who were Ṛṣis sacrificed.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Sādhya** = competent to create, i.e.,**Prajāpati** and the rest
 </details>
@@ -1937,7 +1961,8 @@ Aus diesem vollständig dargebrachten Opfer sammelte sich das triefende Opfersch
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -1945,7 +1970,8 @@ popular;; epic anuṣṭubh (380);; repeated line
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
-###### Morph
+_________
+**Morph**  
 sarvahútaḥ ← sarvahúta- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -2163,7 +2189,8 @@ yájuḥ ← yájus- (nominal stem)
 
 “From that victim, in whom the universal oblation was offered, the mixture of curds and butter was produced, (then) he made those animals over whom **Vāyu** presides, those that are wild, and those that aretame.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Vāyu: vāyuvyan: **Taittirīya** **Brāhmaṇa** 3.2.1.3; or, who are governed by instrumental nct
 </details>
@@ -2250,7 +2277,8 @@ Aus diesem vollständig dargebrachten Opfer entsprangen die Hymnen [des Rig-Veda
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -2258,7 +2286,8 @@ popular;; epic anuṣṭubh (380)
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
-###### Morph
+_________
+**Morph**  
 ajāyanta ← √janⁱ- (root)  
 {number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
 
@@ -2421,7 +2450,8 @@ tásmāt ← sá- ~ tá- (pronoun)
 
 “From that victim, in whom the universal oblation was offered, the ṛccas and **sāmans** were produced;from him the metres were born; from him the **yajus**. was born.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Tasmād yajñāt = from that simple portionsurnamed the universal sacrifice, sarvahūtaḥ, meaning **Puruṣa** as the world;
 
@@ -2496,7 +2526,8 @@ Aus ihm entsprangen die Rosse und alle mit zwei Zahnreihen versehenen Thiere; au
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -2504,7 +2535,8 @@ popular;; epic anuṣṭubh (380)
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
-###### Morph
+_________
+**Morph**  
 ádadhuḥ ← √dhā- 1 (root)  
 {number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
 
@@ -2709,7 +2741,8 @@ Als sie den Urmenschen umgestalteten, wie vielfach wandelten sie ihn um? Was war
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -2717,7 +2750,8 @@ popular;; epic anuṣṭubh (380)
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
-###### Morph
+_________
+**Morph**  
 āsīt ← √as- 1 (root)  
 {number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
 
@@ -2927,7 +2961,8 @@ Sein Mund ward zum Brahmanen, seine Arme zum Rādschanja, seine Schenkel zum Vai
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -2935,7 +2970,8 @@ popular;; epic anuṣṭubh (380)
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
-###### Morph
+_________
+**Morph**  
 candrámāḥ ← candrámas- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -3069,7 +3105,8 @@ vāyúḥ ← vāyú- (nominal stem)
 
 “His mouth became the **Brāhmaṇa**, his arms became the **Rājanya**, his thighs became the **Vaiśya**;the **Śūdra** was born from his feet.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The Brāhmaṇa was his mouth; the Rājanya was made his arms; thatwhich was the Vaiśya was his thighs; the S'Ūdra sprang from his feet: Muir, **Sanskrit** Texts, vol. 1, p.9
 </details>
@@ -3154,7 +3191,8 @@ Aus seinem Geiste entsprang der Mond, aus seinem Auge die Sonne, aus seinem Mund
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -3162,7 +3200,8 @@ popular;; epic anuṣṭubh (380)
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
-###### Morph
+_________
+**Morph**  
 antárikṣam ← antárikṣa- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -3290,7 +3329,8 @@ táthā ← táthā (invariable)
 
 “The moon was born from his mind; the sun was born from his eye; **Indra** and **Agni** were born from his mouth, **Vāyu** from his breath.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Or, air and breath proceeded from his ear and fire rose from his mouth: **Yajuṣ**
 </details>
@@ -3374,7 +3414,8 @@ Aus seinem Nabel ward die Luft, aus seinem Kopf entstand der Himmel, aus seinen 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -3382,7 +3423,8 @@ popular;; epic anuṣṭubh (380)
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
-###### Morph
+_________
+**Morph**  
 āsan ← √as- 1 (root)  
 {number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
 
@@ -3605,7 +3647,8 @@ Sieben Umschlusshölzer waren ihm, dreimal sieben Schichten des Brennholzes wurd
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -3613,7 +3656,8 @@ popular;; repeated line
 popular;; repeated line  
 popular;; repeated line  
 popular;; repeated line
-###### Morph
+_________
+**Morph**  
 ayajanta ← √yaj- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:MED}
 

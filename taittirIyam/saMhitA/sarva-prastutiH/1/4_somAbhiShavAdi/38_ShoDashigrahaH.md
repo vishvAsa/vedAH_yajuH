@@ -38,7 +38,8 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
 ###### Pāda-label
@@ -46,7 +47,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 

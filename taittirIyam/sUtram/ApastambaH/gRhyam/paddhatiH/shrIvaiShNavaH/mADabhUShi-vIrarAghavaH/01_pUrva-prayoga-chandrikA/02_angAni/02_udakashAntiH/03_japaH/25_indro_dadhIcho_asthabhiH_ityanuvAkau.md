@@ -41,14 +41,16 @@ title = "२५ 'इन्द्रो दधीचो अस्थभिः'"
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
 ###### Pāda-label
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 asthábhiḥ ← asthán- (nominal stem)  
 {case:INS, gender:N, number:PL}
 
@@ -133,7 +135,8 @@ navatī́ḥ ← navatí- (nominal stem)
 
 “**Indra**, with the bones of **Dadhīci**, slew ninety times nine **Vṛtras**.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Dadhyañc = **Dadhīca** and Dadhīci, a sage. His bones formed the thunderbolt of Indra. dadhyañc, son of **Atharvan**, like the **asuras**, was intimidated and tranquilized by his appearance; but, when he went to **svarga**, the asuras overspread the whole earth. Indra, inquiring what had become of him and if something of him was left behind, was told that the horse's head with which he had at one time taught the **madhuvidyā** to the **aśvins**, was somewhere in existence, but no one knew where. After a searth, it was found in the lake Śaryaṇāvat, near **Kurukṣetra**. With the bones of the skull, Indra slew the asuras (i.e. foiled the nine times ninety or eight hundred and ten, strategems or devices of the asuras or Vṛtras\]. The number is accounted for by the legend that in the beginning, the **āsurī** **māyā** (demoniac illusion) was practised in the **three worlds**, for three periods (past, present, and future), thus becoming nine-fold; each was exerted with three **śaktis** or energies, thus becoming twenty seven; each was again modified by the three **guṇas**, thus becoming eighty-one; the scene of their display extended to each of the ten regions of space, thus becoming the nine times ninety of the text, or 810
 </details>
@@ -240,14 +243,16 @@ Mit Dadhiank's Gebeinen schlug, Indra, dem niemand widersteht, Die neunundneunzi
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
 ###### Pāda-label
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 áśvasya ← áśva- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -438,14 +443,16 @@ Verlangend nach des Rosses Haupt, das in den Bergen sich versteckt, Fand er's am
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
 ###### Pāda-label
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 áha ← áha (invariable)  
 {}
 
@@ -597,7 +604,8 @@ itthā́ ← itthā́ (invariable)
 
 “The (solar rays) found on this occasion the light of **Tvaṣṭā** verily concealed in the mansion of the moving moon.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The text has only 'they found'; **Āditya**-raśmayaḥ, rays of the sun is added. Tvaṣṭā = the Sun, an Āditya; also, identified with **Indra**, to whom the hymn is addressed. 'The rays of the sun are reflected back in the bright watery orb of the moon'; 'the solar radiance, concealed by the night, enters into the moon, and thus dispels darkness by night, as well as by day'. One ray of the sun (that named śuṣumnā lights up the moon; therefore, moon's light is derived from the sun (**Nirukta** 2,6)(cf. **Viṣṇu Purāṇa** 36)
 </details>
@@ -702,14 +710,16 @@ Dort fanden sie das Wesen auf des Stiers, den Tvaschtar hielt versteckt. Dort en
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
 ###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-###### Morph
+_________
+**Morph**  
 br̥hát ← br̥hánt- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -831,7 +841,8 @@ vā́ṇīḥ ← vā́ṇī- (nominal stem)
 
 “The chanters (of the **Soma**) extol **Indra** with songs, the reciters of the Ṛk with prayers, the priests of the **Yajuṣ**, with texts.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Gāthina = singers; gīyamānasāma-**yuktā** udgātāraḥ, the **udgatās** with **sāmas** to be chanted;
 
@@ -953,14 +964,16 @@ Den Indra preist der Sänger Schar, mit Preisgesang die preisenden, Den Indra la
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
 ###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-###### Morph
+_________
+**Morph**  
 háryoḥ ← hári- (nominal stem)  
 {case:LOC, gender:M, number:DU}
 
@@ -1059,7 +1072,8 @@ vajrī́ ← vajrín- (nominal stem)
 
 “**Indra**, the blender of all things, comes verily with his steeds that are harnessed at his word; Indra, the richly-decorated, the wielder of the thunderbolt.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Richly-decorated: **hiraṇyaya** = lit. golden, or made of gold
 </details>
@@ -1171,14 +1185,16 @@ Indra mit seiner Füchse Paar, dem Wagen, der aufs Wort sich schirrt, der goldne
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
 ###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-###### Morph
+_________
+**Morph**  
 cákṣase ← cákṣas- (nominal stem)  
 {case:DAT, gender:N, number:SG}
 
@@ -1282,7 +1298,8 @@ ví ← ví (invariable)
 
 “**Indra**, to render all things visible, elevated the sun in the sky, and charged the cloud with (abundant) waters.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Vṛtra** envelopes the world in darkness; to remove darkness, Indra elevated the sun (ā-rohayat = sthāpitavān, plural ced) in the dyu-**loka** (heaven)
 </details>
@@ -1390,14 +1407,16 @@ Die Sonne liess er, weit zu schaun, am Himmel steigen, er zerschlug Den Fels und
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
 ###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-###### Morph
+_________
+**Morph**  
 ava ← √avⁱ- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
 
@@ -1588,14 +1607,16 @@ Hilf in den Schlachten, Indra, uns, im Kampf, der tausend Schätze bringt, Mit m
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic
 
 ###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-###### Morph
+_________
+**Morph**  
 índram ← índra- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 

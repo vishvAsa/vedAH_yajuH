@@ -125,14 +125,16 @@ May your tongue move forth to the ghee.
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Cretic on metrical evidence alone
 
 ###### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M
-###### Morph
+_________
+**Morph**  
 devī́ ← devī́- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -335,7 +337,8 @@ Es schirm der Andacht Schirmerin Sarasvati, die Göttin uns, Mit Kräften sie, d
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
 ###### Pāda-label
@@ -343,7 +346,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -624,14 +628,16 @@ Zu unserm Opfer komme her vom Himmel, vom hohen Berg Sarasvati, die hehre; Die b
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
 ###### Pāda-label
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 bŕ̥haspate ← bŕ̥haspáti- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -816,7 +822,8 @@ Nimm, unsre Opfer gnädig an mit allen Göttern, Andachtsherr, Gib Schätze dem 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Normal
 
 ###### Pāda-label
@@ -824,7 +831,8 @@ genre M
 genre M;; repeated line  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 evá ← evá (invariable)  
 {}
 
@@ -968,7 +976,8 @@ vayám ← ahám (pronoun)
 
 “Thus may we offer worship with sacrifices, with oblations, with praise, to the paternal, universal deity, the showerer (of benefits); and may we, **Bṛhaspati**, become possessed of riches, and be blessed with excellent progeny and valiant descendants.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Universal deity: viśvadevāyha is an appellation of Bṛhaspati, because as the deity presiding over the **mantras** he is the same with every deity; or **deva** may mean praise, he who has the praise of all
 </details>
@@ -1094,7 +1103,8 @@ So lasst dem Stier, dem Vater aller Götter, voll Demuth uns durch Tränk' und O
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Normal
 
 ###### Pāda-label
@@ -1102,7 +1112,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 árhāt ← √arh- (root)  
 {number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
 
@@ -1277,7 +1288,8 @@ tát ← sá- ~ tá- (pronoun)
 
 “**Bṛhaspati**, born of truth, grant us that wonderful treasure, wherewith the pious man may worship exceedingly; that (wealth) which shines amongst men; which is endowed with lustre, (is) the means of (performing holy) rites, and invogirates (its possessor) with strength.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Draviṇam citram = liṭ, various or wonderful wealth; in the **Brāhmaṇas** it is interpreted as **brahma** **varcas** or **tejas**, brahmanical virtue or energy (cf. **Yajus**. 26.3;
 
@@ -1389,14 +1401,16 @@ Brihaspati, was recht dem Frommen werth gilt, was glänzend strahlt und wirksam 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
 ###### Pāda-label
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -1495,7 +1509,8 @@ sukratū ← sukrátu- (nominal stem)
 
 “**Mitra** and **Varuṇa**, sprinkle our cow-stalls with butter; performers of good works, (sprinkle) the worlds with honey.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Sprinkle the worlds with honey: ghṛtair gavyūtim ukṣatam madhvā rajāṃsi: **gavyūti** = gavām mārgam, or gonivāsasthānam, and the prayer implies, give us cows abounding in milk;
 
@@ -1606,7 +1621,8 @@ Benetzt, o Mitra-Varuna, mit Butter unsern Weideplatz, Mit Meth die Räume, Tref
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic
 
 ###### Pāda-label
@@ -1614,7 +1630,8 @@ genre M
 genre M  
 genre M  
 genre M;; repeated line
-###### Morph
+_________
+**Morph**  
 bāhávā ← bāhú- (nominal stem)  
 {case:ACC, gender:M, number:DU}
 
@@ -1885,7 +1902,8 @@ O streckt die Arme vor, damit wir leben, besprengt mit fetter Nahrung unsre Wies
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Archaic
 
 ###### Pāda-label
@@ -1893,7 +1911,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 agním ← agní- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -2082,7 +2101,8 @@ Den Agni preise ich zuerst mit Lied, den Gott der Schätze gibt, den Hort des Fe
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Archaic
 
 ###### Pāda-label
@@ -2091,7 +2111,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 devávataḥ ← devávant- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -2332,7 +2353,8 @@ Des Frommen Wagen wie ein Held eilt schnell voran in jedem Kampf; Wer recht der 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Archaic
 
 ###### Pāda-label
@@ -2341,7 +2363,8 @@ genre M
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line
-###### Morph
+_________
+**Morph**  
 ná ← ná (invariable)  
 {}
 
@@ -2571,7 +2594,8 @@ Nicht trifft dich Schaden, Opferer, nicht Somapresser, Frommer dich; Wer recht d
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Archaic
 
 ###### Pāda-label
@@ -2580,7 +2604,8 @@ genre M;; repeated line
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line
-###### Morph
+_________
+**Morph**  
 ásat ← √as- 1 (root)  
 {number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
 
@@ -2819,7 +2844,8 @@ Bei ihm muss Heldenfülle sein und schneller Rosse Vollbesitz; Wer recht der Gö
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Archaic
 
 ###### Pāda-label
@@ -2828,7 +2854,8 @@ genre M
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line
-###### Morph
+_________
+**Morph**  
 kármaṇā ← kárman- (nominal stem)  
 {case:INS, gender:N, number:SG}
 
@@ -3075,7 +3102,8 @@ Niemand verletzet durch sein Thun, noch scheucht er den, noch wehrt ihn ab; Wer 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Cretic
 
 ###### Pāda-label
@@ -3083,7 +3111,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 kṣaranti ← √kṣar- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -3236,7 +3265,8 @@ yanti ← √i- 1 (root)
 
 “The copiously-yielding and joy-conferringkine, distil (their milk) for the celebration of the (**Soma**) sacrifice; and for him who has undertaken its celebration; the nutritious streams of butter coverage from every quarter towards him, who both propitiates (his progenitors), and benefits (mankind).”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Pṛṇantam ca papurim- ca = agent who gives plural asure or who gives satisfaction; pṛṇantam is applied to the **pitṛs**, or progenitors (pitram pṛṇayantam; papurm is applied to all living beings (**prāṇinaḥ** **sarvadā** pṛṇayantam puruṣam)
 </details>
@@ -3387,7 +3417,8 @@ Whatever sin we have done remove from us.
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -3395,7 +3426,8 @@ popular
 popular  
 popular  
 popular
-###### Morph
+_________
+**Morph**  
 asmé ← ahám (pronoun)  
 {case:DAT, number:PL}
 
@@ -3570,7 +3602,8 @@ tanū́ṣu ← tanū́- (nominal stem)
 
 “**Soma** and **Rudra**, grant all these medicamens for (the ailments of) our bodies; detach, set free, the perpetrated iniquity that has been bound up in our person ns.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 I.e. disease regarded as the consequence and evidence of some committed sn; and the removal of the malady is proof of its expiation
 </details>
@@ -3688,7 +3721,8 @@ O Soma-Rudra, alle Arzeneien, die wohlbekannten, legt in unsre Leiber; Macht fre
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Cretic
 
 ###### Pāda-label
@@ -3696,7 +3730,8 @@ genre D
 genre D  
 genre D  
 genre D
-###### Morph
+_________
+**Morph**  
 jánanā ← jánana- (nominal stem)  
 {case:ACC, gender:M, number:DU}
 
@@ -3837,7 +3872,8 @@ nā́bhim ← nā́bhi- (nominal stem)
 
 “**Soma** and **Pūṣaṇ**, you two are the genitive rators of riches, the genitive rators of heaven, the genitive rators of earth; as soon as born you are the guardians of the whole world; the gods have made you the source of immortality.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Soma: by this we are to understand both the moon and the Soma, as further intimated in the fourth hymn; the source of immortality: akṛṇvan amṛtasya nābhim: ketum, the cause or source, amaraṇasya, of not dying
 </details>
@@ -3957,7 +3993,8 @@ x
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Cretic
 
 ###### Pāda-label
@@ -3965,7 +4002,8 @@ genre D
 genre D  
 genre D  
 genre D
-###### Morph
+_________
+**Morph**  
 devaú ← devá- (nominal stem)  
 {case:NOM, gender:M, number:DU}
 
@@ -4118,7 +4156,8 @@ usríyāsu ← usríya- (nominal stem)
 
 “(The gods) propitiate these two divinities at the moment of the ir birth, for they drive away the disagreeable glooms; with these two, **Soma** and **Pūṣaṇ**, **Indra** genitive rates the mature (milk) in the immature heifers.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The mature milk: i.e. the rain inthe clouds
 </details>

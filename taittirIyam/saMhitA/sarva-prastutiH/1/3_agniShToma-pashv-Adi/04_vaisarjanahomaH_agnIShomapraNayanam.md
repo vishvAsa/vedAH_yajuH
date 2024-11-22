@@ -46,14 +46,16 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic
 
 ###### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
-###### Morph
+_________
+**Morph**  
 soma ← sóma- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -162,7 +164,8 @@ yantā́ ← yantár- (nominal stem)
 
 “**Soma**, you offer us a wide shelter from the wasting enmities wrought by our foes.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Yantāsi = bhavasi;you the restraint (yanta) from enemies, etc., you are a wide shelter
 </details>
@@ -390,14 +393,16 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
 ###### Pāda-label
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 gātuvít ← gātuvíd- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 

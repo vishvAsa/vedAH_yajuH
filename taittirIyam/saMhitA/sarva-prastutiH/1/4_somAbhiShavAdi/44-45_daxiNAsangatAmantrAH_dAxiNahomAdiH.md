@@ -41,14 +41,16 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Cretic
 
 ###### Pāda-label
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 jātávedasam ← jātávedas- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -275,7 +277,8 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Cretic
 
 ###### Pāda-label
@@ -283,7 +286,8 @@ genre D
 genre D  
 genre D  
 genre D
-###### Morph
+_________
+**Morph**  
 agāt ← √gā- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -442,7 +446,8 @@ _____________
 
 “Thewonderful hostof rays has risen; th eye of **Mitra**, **Varuṇa** and **Agni**; the sun, the **soul** of all that moves or is immoveable, has filled (with his glory) the heaven, the earth, and the firmament.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Agni: cākṣus = the enlightener. Mitra, Varuṇa and Agni are typical of the world, or of the seasons, perhaps, over which they preside. **ātmā** jagataḥ = the soul of the world, from his pervading and animating all things; jagataḥ, of what is moveable; tathuṣaḥ, of that which is fixed. The sun is the cause of all effects, whether moveableor immoveable: sa hi sarvasya sthāvarajaṅgamātmakasya kāryavargasya kāraṇam
 </details>
@@ -566,7 +571,8 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
 ###### Pāda-label
@@ -574,7 +580,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 ágne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 

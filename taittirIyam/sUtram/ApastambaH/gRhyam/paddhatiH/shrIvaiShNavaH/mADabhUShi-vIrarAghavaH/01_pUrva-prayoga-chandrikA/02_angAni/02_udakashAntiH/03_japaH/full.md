@@ -391,14 +391,16 @@ title = "+०३ जपः (पूर्णपाठः)"
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
 ###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-###### Morph
+_________
+**Morph**  
 índram ← índra- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -601,7 +603,8 @@ Wir rufen euch den Indra her von allen Orten, jedem Volk; Uns sei er eigen, kein
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic
 
 ###### Pāda-label
@@ -609,7 +612,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 havante ← √hū- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:MED}
 
@@ -919,14 +923,16 @@ Den Indra rufen im Gefecht die Männer, dass er erfolgreich diese Bitten mache; 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
 ###### Pāda-label
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 indriyā́ṇi ← indriyá- (nominal stem)  
 {case:NOM, gender:N, number:PL}
 
@@ -1141,7 +1147,8 @@ Die Indrakräfte wünsch' ich her, die, Indra, hundertwirkender, Du bei den fün
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Archaic
 
 ###### Pāda-label
@@ -1149,7 +1156,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 ánu ← ánu (invariable)  
 {}
 
@@ -1507,7 +1515,8 @@ The glowing pot is the guest of Indra.
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic
 
 ###### Pāda-label
@@ -1515,7 +1524,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 aírayaḥ ← √īr- (root)  
 {number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
 
@@ -1686,7 +1696,8 @@ you caused the sun to arise in heaven,(priests),
 excite (**Indra**) with your praises  
 as men heat the **gharma** with **sāman** hymns. (sing) the acceptableBṛhat sāman to him who is to be honoure dby song.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 You caused the sun to arise in heaven: repetition of the legend of he **paṇis** and the stolen cows of the **Aṅgirasas**. The Ṛṣis implored Indra for help, who, seeing that the stronghold of the **asuras** was enveloped in thick darkness, set the sun in the sky to dispel it; as men heat the gharma: for the hymns of the ceremony of heating the **mahāvīra** or gharma pot, used in the pravargya ceremony; cf. **Aitareya** **Brāhmaṇa** 1.21
 </details>
@@ -1766,14 +1777,16 @@ In rohen schufst du gare Milch, erhobst die Sonn' am Himmelsraum, Entflammt wie 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
 ###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-###### Morph
+_________
+**Morph**  
 br̥hát ← br̥hánt- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -1895,7 +1908,8 @@ vā́ṇīḥ ← vā́ṇī- (nominal stem)
 
 “The chanters (of the **Soma**) extol **Indra** with songs, the reciters of the Ṛk with prayers, the priests of the **Yajuṣ**, with texts.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Gāthina = singers; gīyamānasāma-**yuktā** udgātāraḥ, the **udgatās** with **sāmas** to be chanted;
 
@@ -2019,7 +2033,8 @@ Den Indra preist der Sänger Schar, mit Preisgesang die preisenden, Den Indra la
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Normal
 
 ###### Pāda-label
@@ -2027,7 +2042,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 gā́yanti ← √gā(y)- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -2192,7 +2208,8 @@ yemire ← √yam- (root)
 
 “The chanters (of the **Soma**) hymn you, **Śatakratu**; the reciters of the Ṛk praise you, who are worthy of praise; the Bra-hmaṇas raise you aloft, like a bamboo pole.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Gāyatriṇaḥ = lit. those who use **gāyatrī** metre: **udgātā**, chanter of **Sāma** hymns;
 
@@ -2371,7 +2388,8 @@ May the desires of the sacrificer be fulfilled.
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Normal
 
 ###### Pāda-label
@@ -2379,7 +2397,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 dhiṣáṇā ← dhiṣáṇā- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -2779,7 +2798,8 @@ Who is hostile to us.
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -2787,7 +2807,8 @@ popular
 popular  
 popular  
 popular
-###### Morph
+_________
+**Morph**  
 abhí ← abhí (invariable)  
 {}
 
@@ -3204,7 +3225,8 @@ May we be dear to you among the princes.
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Normal
 
 ###### Pāda-label
@@ -3212,7 +3234,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 ánavaḥ ← ánu- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -3368,7 +3391,8 @@ u ← u (invariable)
 
 “The **Ṛbhus** have fabricated your car, **Indra**, the invoked of many, adapted to its horses; **Tvaṣṭā** (had made) your radiant thunderbolt; the venerable (**Aṅgirasas**), praising Indra with hymns, have given him vigour for the destruction of Ahi.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The Ṛbhus: **anavaḥ** is the text, explained **manuṣyaḥ** and applied to **ṛbhavaḥ**; the venerable aṅgirasas: brāhmaṇāḥ, **brāhmaṇas** is the text, explained as **aṅgirasaḥ**
 </details>
@@ -3496,7 +3520,8 @@ Die Menschen machten für dein Ross den Wagen Tvaschtar den lichten Blitz, o vie
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Normal
 
 ###### Pāda-label
@@ -3504,7 +3529,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 árcān ← √r̥c- (root)  
 {number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
 
@@ -4858,7 +4884,8 @@ Savitr, Varuna, Brhaspati, the worshipful, the slayer of Raksases, hail!
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -4866,7 +4893,8 @@ popular
 popular  
 popular  
 popular
-###### Morph
+_________
+**Morph**  
 āśúḥ ← āśú- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -5103,7 +5131,8 @@ Der schnelle, der gleich wildem Stier erregt ist, der starke Kämpfer, der die M
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -5111,7 +5140,8 @@ popular
 popular  
 popular  
 popular
-###### Morph
+_________
+**Morph**  
 animiṣéṇa ← animiṣá- (nominal stem)  
 {case:INS, gender:M, number:SG}
 
@@ -5331,7 +5361,8 @@ Mit ihm, dem Donnrer, der nicht schlummernd Sieg gewinnt, der Schlacht erregt vo
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -5339,7 +5370,8 @@ popular
 popular  
 popular  
 popular
-###### Morph
+_________
+**Morph**  
 íṣuhastaiḥ ← íṣuhasta- (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -5579,7 +5611,8 @@ Mit seiner Schar, die Pfeile trägt und Köcher, theilt seine Kämpfe der gewalt
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -5587,7 +5620,8 @@ popular
 popular  
 popular  
 popular
-###### Morph
+_________
+**Morph**  
 bŕ̥haspate ← bŕ̥haspáti- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -5811,7 +5845,8 @@ Brihaspati, flieg' her mit deinem Wagen, Gespenster tödtend, jeden Feind verjag
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -5819,7 +5854,8 @@ popular
 popular  
 popular  
 popular
-###### Morph
+_________
+**Morph**  
 gotrabhídam ← gotrabhíd- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -5972,7 +6008,8 @@ ____________
 
 “Imitate in heroism, you kindred warriors, follow, friends, in prowess this **Indra**, who is the breaker ofmountains, the acquirer of water, armed with the thunderbolt, conquering the swift (foe), destroying (the enemy)by his might.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Breaker of mountains: or of clouds; or of **gotras** (a race of **asuras**);
 
@@ -6057,7 +6094,8 @@ Der blitzbewehrt den Stall erschliesst, die Kühe erringt und Bahn sich bricht m
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -6065,7 +6103,8 @@ popular
 popular  
 popular  
 popular
-###### Morph
+_________
+**Morph**  
 balavijñāyáḥ ← balavijñāyá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -6229,7 +6268,8 @@ _______________
 
 “Known by his strength mighty, heroic, overpowering, vigorous, enduring, fierce, attended by heroes,attended by mighty men, the offspring of strength, the possessor of water, do you, **Indra**, ascend your triumphantchariot.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Water: govit, knowing or accepting the song of praise
 </details>
@@ -6313,7 +6353,8 @@ Durch Stärke kenntlich, fest, der Helden kühnster, siegreich, gewaltig, stark 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -6321,7 +6362,8 @@ popular;; 12 = 5+7, ending LHX
 popular  
 popular  
 popular
-###### Morph
+_________
+**Morph**  
 abhí ← abhí (invariable)  
 {}
 
@@ -6541,7 +6583,8 @@ Der mit Gewalt sich in die Ställe eintaucht, Held Indra ohne Mitleid vielfach z
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -6549,7 +6592,8 @@ popular;; 11 = 4+7, ending HLX
 popular  
 popular  
 popular
-###### Morph
+_________
+**Morph**  
 āsām ← ayám (pronoun)  
 {case:GEN, gender:F, number:PL}
 
@@ -6685,7 +6729,8 @@ _______________
 
 “May **Indra** be the leader of these (hosts), may **Bṛhaspati**, **Dakṣiṇā**, **Yajña**, and **Soma** go before, letthe **Maruts** march in the van of the destroying and victorious armies of the gods.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Dakṣiṇā: not a proper name;may the **yajña- puruṣa** (i.e., **Viṣṇu**) go on the right and Soma go before
 </details>
@@ -6768,7 +6813,8 @@ Ihr Führer sei uns Indra und Brihaspati, vor dringe Opfer, Opferlohn und Soma, 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -6776,7 +6822,8 @@ popular
 popular  
 popular  
 popular
-###### Morph
+_________
+**Morph**  
 índrasya ← índra- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -6991,7 +7038,8 @@ Des Königs Varuna, des Helden Indra, der Maruts, der Aditja's Schar ist mächti
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -6999,7 +7047,8 @@ popular;; 12 = 5+7, ending LHX
 popular  
 popular  
 popular
-###### Morph
+_________
+**Morph**  
 asmā́kam ← ahám (pronoun)  
 {case:GEN, number:PL}
 
@@ -7239,7 +7288,8 @@ Es schirme unsre Kämpf' und Fahnen Indra; es seien unsre Pfeile, die da siegen,
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -7247,7 +7297,8 @@ popular
 popular  
 popular  
 popular
-###### Morph
+_________
+**Morph**  
 ā́yudhāni ← ā́yudha- (nominal stem)  
 {case:NOM, gender:N, number:PL}
 
@@ -7918,7 +7969,8 @@ Empor, o mächt'ger, richte unsre Waffen, empor die Geister meiner tapfern Helde
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -7926,7 +7978,8 @@ popular
 popular  
 popular  
 popular
-###### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -8243,7 +8296,8 @@ Glück werde mir, wenn ich dich, Agni, rufe, Heil sei den Leibern, wenn wir dich
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -8251,7 +8305,8 @@ popular
 popular  
 popular  
 popular
-###### Morph
+_________
+**Morph**  
 dévīḥ ← devī́- (nominal stem)  
 {case:VOC, gender:F, number:PL}
 
@@ -8427,7 +8482,8 @@ ________________
 
 “You six mighty goddesses, bestow upon us ample (wealth); universal gods, display prowess here; letus not be bereft of our offspring, or be harmed in our bodies, may we not become subject to our enemy, royalSoma.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 You six: heaven, earth, day, night, water and plural nts
 </details>
@@ -8556,7 +8612,8 @@ Ihr weiten sechs Göttinnen schaffet Raum uns, ihr Götter alle, zeigt euch hier
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -8564,7 +8621,8 @@ popular;; 12 = 5+7, ending LHX
 popular  
 popular  
 popular
-###### Morph
+_________
+**Morph**  
 mahiṣáḥ ← mahiṣá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -8835,7 +8893,8 @@ Der umfangsreiche Stier verleihe Schutz uns, bei diesem Ruf der vielgerufne Näh
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -8843,7 +8902,8 @@ popular
 popular  
 popular  
 popular
-###### Morph
+_________
+**Morph**  
 ápa ← ápa (invariable)  
 {}
 
@@ -9728,7 +9788,8 @@ Agni through the hymn which brings (him).
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Cretic
 
 ###### Pāda-label
@@ -9736,7 +9797,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 agníḥ ← agní- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -9919,7 +9981,8 @@ sá ← sá- ~ tá- (pronoun)
 
 “**Agni**, who is present in the sky, and present upon earth, and who, present, has pervaded all herbs; may the Agni **Vaiśvānara**, who is present in vigour, guard us night and day, against our enemies”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Pṛṣṭa** = **saṃspṛṣṭa** = in contact with, or **nihita**, plural ced or present inth esky: Agni is in contact with, or present, in the sun; on earth, in sacred and domestic fire, and in herbs, or annuals, as the cause of their coming to maturity
 </details>
@@ -10560,14 +10623,16 @@ him whom we hate and him who hateth us, I place him within your jaws.
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
 ###### Pāda-label
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 asthábhiḥ ← asthán- (nominal stem)  
 {case:INS, gender:N, number:PL}
 
@@ -10652,7 +10717,8 @@ navatī́ḥ ← navatí- (nominal stem)
 
 “**Indra**, with the bones of **Dadhīci**, slew ninety times nine **Vṛtras**.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Dadhyañc = **Dadhīca** and Dadhīci, a sage. His bones formed the thunderbolt of Indra. dadhyañc, son of **Atharvan**, like the **asuras**, was intimidated and tranquilized by his appearance; but, when he went to **svarga**, the asuras overspread the whole earth. Indra, inquiring what had become of him and if something of him was left behind, was told that the horse's head with which he had at one time taught the **madhuvidyā** to the **aśvins**, was somewhere in existence, but no one knew where. After a searth, it was found in the lake Śaryaṇāvat, near **Kurukṣetra**. With the bones of the skull, Indra slew the asuras (i.e. foiled the nine times ninety or eight hundred and ten, strategems or devices of the asuras or Vṛtras\]. The number is accounted for by the legend that in the beginning, the **āsurī** **māyā** (demoniac illusion) was practised in the **three worlds**, for three periods (past, present, and future), thus becoming nine-fold; each was exerted with three **śaktis** or energies, thus becoming twenty seven; each was again modified by the three **guṇas**, thus becoming eighty-one; the scene of their display extended to each of the ten regions of space, thus becoming the nine times ninety of the text, or 810
 </details>
@@ -10759,14 +10825,16 @@ Mit Dadhiank's Gebeinen schlug, Indra, dem niemand widersteht, Die neunundneunzi
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
 ###### Pāda-label
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 áśvasya ← áśva- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -10957,14 +11025,16 @@ Verlangend nach des Rosses Haupt, das in den Bergen sich versteckt, Fand er's am
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
 ###### Pāda-label
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 áha ← áha (invariable)  
 {}
 
@@ -11116,7 +11186,8 @@ itthā́ ← itthā́ (invariable)
 
 “The (solar rays) found on this occasion the light of **Tvaṣṭā** verily concealed in the mansion of the moving moon.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The text has only 'they found'; **Āditya**-raśmayaḥ, rays of the sun is added. Tvaṣṭā = the Sun, an Āditya; also, identified with **Indra**, to whom the hymn is addressed. 'The rays of the sun are reflected back in the bright watery orb of the moon'; 'the solar radiance, concealed by the night, enters into the moon, and thus dispels darkness by night, as well as by day'. One ray of the sun (that named śuṣumnā lights up the moon; therefore, moon's light is derived from the sun (**Nirukta** 2,6)(cf. **Viṣṇu Purāṇa** 36)
 </details>
@@ -11221,14 +11292,16 @@ Dort fanden sie das Wesen auf des Stiers, den Tvaschtar hielt versteckt. Dort en
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
 ###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-###### Morph
+_________
+**Morph**  
 br̥hát ← br̥hánt- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -11350,7 +11423,8 @@ vā́ṇīḥ ← vā́ṇī- (nominal stem)
 
 “The chanters (of the **Soma**) extol **Indra** with songs, the reciters of the Ṛk with prayers, the priests of the **Yajuṣ**, with texts.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Gāthina = singers; gīyamānasāma-**yuktā** udgātāraḥ, the **udgatās** with **sāmas** to be chanted;
 
@@ -11472,14 +11546,16 @@ Den Indra preist der Sänger Schar, mit Preisgesang die preisenden, Den Indra la
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
 ###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-###### Morph
+_________
+**Morph**  
 háryoḥ ← hári- (nominal stem)  
 {case:LOC, gender:M, number:DU}
 
@@ -11578,7 +11654,8 @@ vajrī́ ← vajrín- (nominal stem)
 
 “**Indra**, the blender of all things, comes verily with his steeds that are harnessed at his word; Indra, the richly-decorated, the wielder of the thunderbolt.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Richly-decorated: **hiraṇyaya** = lit. golden, or made of gold
 </details>
@@ -11690,14 +11767,16 @@ Indra mit seiner Füchse Paar, dem Wagen, der aufs Wort sich schirrt, der goldne
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
 ###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-###### Morph
+_________
+**Morph**  
 cákṣase ← cákṣas- (nominal stem)  
 {case:DAT, gender:N, number:SG}
 
@@ -11801,7 +11880,8 @@ ví ← ví (invariable)
 
 “**Indra**, to render all things visible, elevated the sun in the sky, and charged the cloud with (abundant) waters.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Vṛtra** envelopes the world in darkness; to remove darkness, Indra elevated the sun (ā-rohayat = sthāpitavān, plural ced) in the dyu-**loka** (heaven)
 </details>
@@ -11909,14 +11989,16 @@ Die Sonne liess er, weit zu schaun, am Himmel steigen, er zerschlug Den Fels und
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
 ###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-###### Morph
+_________
+**Morph**  
 ava ← √avⁱ- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
 
@@ -12107,14 +12189,16 @@ Hilf in den Schlachten, Indra, uns, im Kampf, der tausend Schätze bringt, Mit m
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic
 
 ###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-###### Morph
+_________
+**Morph**  
 índram ← índra- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -13710,7 +13794,8 @@ Ihm, diesem Indra, geben wir zum Mord des grossen Vritra Kraft; Der Held erweise
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -13718,7 +13803,8 @@ popular
 popular  
 popular  
 popular
-###### Morph
+_________
+**Morph**  
 ajanayanta ← √janⁱ- (root)  
 {number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
 
@@ -13904,7 +13990,8 @@ ______________
 
 “The gods produced the goddess Vāk; her do animals of every kind utter; may she, Vāk, theall-gladdening cow, yielding meat and drink, come to us, worthily praised.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The thunder entering into all beings,becomes the speaker of moral truth, eṣā **mādhyamikā** vāk sarvaprāṇyantargatā dharmābhivādinībhavati; animals of every kind: whether their utterance be articulare or inarticulate
 </details>
@@ -13980,7 +14067,8 @@ Die Göttin Vāk haben die Götter erzeugt, die vielgestaltigen Thieren reden si
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -13988,7 +14076,8 @@ popular
 popular  
 popular  
 popular
-###### Morph
+_________
+**Morph**  
 avicetanā́ni ← avicetaná- (nominal stem)  
 {case:NOM, gender:N, number:PL}
 
@@ -14142,7 +14231,8 @@ _________________
 
 “When Vāk, the **queen**, the gladdener of the gods, sits down (in the sacrifice) uttering things not to beunderstood, she milks water and food for the four quarters (of the earth); whither now is her best portion gone?”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Nirukta** 11.28: Vāk here is the thunder; cf. RV 8.69.14; best portion = the rain, which sinks in the earth or istaken up by the sun's rays
 </details>
@@ -14342,7 +14432,8 @@ Wenn Vāk [die Stimme], die Königin der Götter, unverständliche Worte [den Do
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -14350,7 +14441,8 @@ popular
 popular  
 popular  
 popular
-###### Morph
+_________
+**Morph**  
 catvā́ri ← catúr- (nominal stem)  
 {case:ACC, gender:N, number:PL}
 
@@ -14527,7 +14619,8 @@ ______________
 
 “Four are the definite grades of spech; those **Brahmaṇas** who are wise know them; three, deposited in secret, indicate no meaning; men speak the fourth grade of speech.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Four are: catvāri vākparimitā padāni: the language of the **mantras**, the **kalpa**, the **brāhmaṇa** and **laukika**, or current speech (**Taittirīya** Samhitā 1.31.2); those **brāhmaṇas**: brāhmaṇā ye manīṣiṇaḥ: brāhmaṇā = those acquainted with the **śabdabrahma**, **brahma** as the word, or, the **yogis**, mystics; fourth grad eof speech: vāk, speech, was created fourfold, three kinds of which are in the three regions, the fourth amongst the **paśus**; the form on earth, associated with **Agni** is in the **rathantara**; the form in the firmament, associated with **Vāyu**, is in the **Vāmadevya** mantras; that which is in heaven, with **Āditya**, is **Bṛhatī**, or in the thunder (stanayitnau); whatever else was more than this was plural ced amongst the paśus, liṭ, animals; here the brāhmaṇas are implied: **atha** paśuṣu tato yā vāg atiricyate tām brāhmaṇeṣu adaduḥ; thus, the brāhmaṇas speak both languages, that of the gods and that of man (tasmād brāhmaṇā ubharyo vācam vadanti yā ca devānām yā ca manuṣyāṇa(m (**Nirukta** 13.9)
 </details>
@@ -14632,7 +14725,8 @@ Die Rede hat vier abgegrenzte Gattungen; die sind bekannt den Brahmanen, welche 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -14640,7 +14734,8 @@ popular;; epic anuṣṭubh (292)
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
-###### Morph
+_________
+**Morph**  
 agníḥ ← agní- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -14839,7 +14934,8 @@ Durch Glauben wird das Feu'r entflammt, durch Glauben Opferguss geweiht; Auch au
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -14847,7 +14943,8 @@ popular;; epic anuṣṭubh (292)
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
-###### Morph
+_________
+**Morph**  
 dádataḥ ← √dā- 1 (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
 
@@ -15051,7 +15148,8 @@ O Glaube, lieb mach dieses Wort des Spenders, der noch spenden will, Mach lieb e
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -15059,7 +15157,8 @@ popular;; epic anuṣṭubh (292)
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
-###### Morph
+_________
+**Morph**  
 ásureṣu ← ásura- (nominal stem)  
 {case:LOC, gender:M, number:PL}
 
@@ -15259,7 +15358,8 @@ Wie Götter der Asurenschar, der starken, schenkten ihr Vertraun, So mache du au
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -15267,7 +15367,8 @@ popular;; epic anuṣṭubh (292)
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
-###### Morph
+_________
+**Morph**  
 devā́ḥ ← devá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -15376,7 +15477,8 @@ ___________________
 
 “Gods, worshippers, and those who are protected by **Vāyu**, solicit **Śraddhā**, (they cherish) Śraddhāwith heartfelt desire, through Śraddhā a man acquires wealth.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Yajus**. 8.44; **Nirukta** 7.2
 </details>
@@ -15458,7 +15560,8 @@ Den Glauben ehren andachtsvoll die Götter, die der Wind beschirmt; Der Glaube w
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -15466,7 +15569,8 @@ popular;; epic anuṣṭubh (292)
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
-###### Morph
+_________
+**Morph**  
 havāmahe ← √hū- (root)  
 {number:PL, person:1, mood:IND, tense:PRS, voice:MED}
 
@@ -15926,7 +16030,8 @@ Den Glauben rufen Morgens wir, den Glauben in der Mittagszeit Den Glauben, wenn 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -15934,7 +16039,8 @@ popular
 popular  
 popular  
 popular
-###### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -16209,7 +16315,8 @@ Gekommen sind die Kühe, Holdes wirkend, sie mögen ruhn im Stall, bei uns sich 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -16217,7 +16324,8 @@ popular
 popular  
 popular  
 popular
-###### Morph
+_________
+**Morph**  
 ca ← ca (invariable)  
 {}
 
@@ -16392,7 +16500,8 @@ ní ← ní (invariable)
 
 “**Indra** grants the desires of the man who offers to him sacrifice and praise; he ever bestows upon him wealth, and deprives him not of that which is his own; again and again increasing his riches, he plural ces the devout man in an inaccessible fortress.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Abhinna khilye: śatrubhirabhetavye, not to be breached by enemies;
 
@@ -16546,7 +16655,8 @@ Indra schenkt Gut dem opfernden und spendenden; er theilt ihm mit und entzieht i
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -16554,7 +16664,8 @@ popular
 popular  
 popular  
 popular
-###### Morph
+_________
+**Morph**  
 árvā ← árvan- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -16743,7 +16854,8 @@ ___________________
 
 “Let not the dust-spurning (war) horse reach them nor let them fall in the way of sacrificial consecration let the cattle of the man who offers sacrifice wander about at large and without fear.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Not let them fall: na saṃskṛtatram abhyupayanti = viśasanādisaṃskādisaṃskāram nābhyupagacchantu, let them not go right to the consecration of immolation; as metonymy, perhaps the cows means their produce, milk and butter, which are constantly offered
 </details>
@@ -16885,7 +16997,8 @@ Nicht holt ein Kriegsross mit bestäubtem Kopf sie ein, noch werden je sie zu de
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -16893,7 +17006,8 @@ popular
 popular  
 popular  
 popular
-###### Morph
+_________
+**Morph**  
 cit ← cit (invariable)  
 {}
 
@@ -17066,7 +17180,8 @@ váyaḥ ← váyas- 2 (nominal stem)
 
 “Do you, cows, give us nourisment; render the emaciated, the unlovely body the reverse; do you, whose lowing is auspicious, make my dwelling prosperous; great is the abundance that is attributed to you in religious assemblies.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Bṛhad vo **vaya** ucyate sabhāsu, great of you the food is said in assemblies; or, great is the food given to you in assemblies, it is given by all, sarvair dīyate ityarthaḥ
 </details>
@@ -17367,7 +17482,8 @@ Ihr Kühe machet fett sogar den magern, den hässlichen auch macht ihr schön vo
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Cretic
 
 ###### Pāda-label
@@ -17375,7 +17491,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 asyá ← ayám (pronoun)  
 {case:GEN, gender:M, number:SG}
 
@@ -17521,7 +17638,8 @@ ____________
 
 “The seven rivers display his glory; heaven, and earth, and sky display his visible form; the sun and moon, **Indra**,perform their revolution, that we may see, and have faith in what we see.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Ahi and **Vṛtra** are differently-formed clouds. **Rauhina** = an **asura**, possibly, a red cloud
 </details>
@@ -17847,14 +17965,16 @@ Die sieben Ströme wahren schutzreich seinen Ruhm, die weiten Erd' und Himmel se
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Cretic
 
 ###### Pāda-label
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 ā́paḥ ← áp- (nominal stem)  
 {case:VOC, gender:F, number:PL}
 
@@ -17970,7 +18090,8 @@ ráṇāya ← ráṇa- (nominal stem)
 
 “Since, waters, you are the sources of happiness, grant to us to enjoy abundance, and great anddelightful perception.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Great and delightful perception: mahe raṇāya cakṣase = samyajñānam, perfectknowledge of **brahman**; the ṛca solicits happiness both in this world and in the next; the rapturous sight of thesupreme god; to behold great joy
 </details>
@@ -18092,7 +18213,8 @@ But even if thought is the ultimate and primal creative act, the origin of the  
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -18100,7 +18222,8 @@ popular
 popular  
 popular  
 popular
-###### Morph
+_________
+**Morph**  
 ásat ← ásant- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -18317,7 +18440,8 @@ ___________
 
 “The non-existent was not, the existent was not; then the world was not, not the firmament, nor thatwhich is above (the firmament). How could there by any investing envelope, and where? Of what (could there be)felicity? How (could there be) the deep unfathomable water?”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The non-existent: sat, asat: visible and invisibleexistence (asat śaśaviṣāṇavatrirupākhyam nāsīt: **Taittirīya** **Saṃhitā** 7.1.5.1); matter and spirit, prakṛtiand **puruṣa**; the First Cause or **Brahmā** was in the beginning undeveloped in its effects, and existed beforeboth; investing envelope: each element as created or developed is invested by its rudiment; of what could therebe felicity: i.e., of whom or of what living being could enjoyment, or fruition, whether of pain or plural asure, bepredicated, there being no life?
 </details>
@@ -18414,7 +18538,8 @@ Zu jener Zeit war weder Sein, noch Nichtsein, nicht war der Luftraum, noch der H
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -18422,7 +18547,8 @@ popular
 popular  
 popular  
 popular
-###### Morph
+_________
+**Morph**  
 amŕ̥tam ← amŕ̥ta- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -18630,7 +18756,8 @@ ___________
 
 “Death was not nor at that period immortality, there was no indication of day, of night; That Oneunbreathed upon breathed of his own strength, other than That there was nothing else whatever.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Breathed:**svadhā** = **māyā**, or **prakṛti** (illusion or nature), the source of the world of phenomena;
 
@@ -18721,7 +18848,8 @@ Nicht Tod und nicht Unsterblichkeit war damals, nicht gab's des Tages noch der N
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -18729,7 +18857,8 @@ popular
 popular  
 popular  
 popular
-###### Morph
+_________
+**Morph**  
 ágre ← ágra- (nominal stem)  
 {case:LOC, gender:N, number:SG}
 
@@ -18919,7 +19048,8 @@ _______________
 
 “There was darkness covered by darkness in the beginning, all this (world) was undistinguishablewater; that empty united (world) which was covered by a mere nothing, was produced through the power ofausterity.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Austerity: **tapas** = not penance, but the contemplation of things which were to be created: yahsarvajñaḥ sarvavit yasya jñānamayam **tapaḥ**: **Muṇḍa**.ka **Upaniṣad** 1.1.9
 </details>
@@ -19008,7 +19138,8 @@ Nur Dunkel war, verhüllt von Dunkel, anfangs und unerkennbar wogte dieses alles
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -19016,7 +19147,8 @@ popular
 popular  
 popular  
 popular
-###### Morph
+_________
+**Morph**  
 ádhi ← ádhi (invariable)  
 {}
 
@@ -19196,7 +19328,8 @@ _______________
 
 “In the beginning there was desire, which was the first seed of mind; sages having meditated in theirhearts have discovered by their wisdom the connexion of the existent with te non-existent.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Desire: i.e., in themind of the Supreme Being
 </details>
@@ -19287,7 +19420,8 @@ Da regte sich zuerst in ihm Begierde, als sich des Geistes erster Same zeigte; E
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -19295,7 +19429,8 @@ popular
 popular  
 popular  
 popular
-###### Morph
+_________
+**Morph**  
 eṣām ← ayám (pronoun)  
 {case:GEN, gender:M, number:PL}
 
@@ -19455,7 +19590,8 @@ ________________
 
 “Their ray was stretched out, whether across, or below, or above; (some) were shedders of seed,(others) were mighty; food was inferior; the eater was superior.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Their ray was stretched out: a reference to thesuddenness of creation, which was developed in the twinkling of an eye, like the flash of the sun's ray. It was soquick that it was doubtful whether the things in the central space (across) were created first, or those above orthose below; i.e., creation took plural ce simultaneously in all three portions of the universe. This was the order inwhich things were created, but the development of the world was like a flash of lightning, so that the series couldnot be distinguished (tatsṛṣṭvā tadevānuprāviṣat: **Taittirīya** **Āraṇyaka** 8.6). Thus the notion of a series,viz., from **ātmā** came the **ākāśa**, from the ākāśa the wind, from the wind fire etc., is reconciled: ātmanaākāśaḥ **sambhūta** ākāśādvāyurvāyoragniḥ: Taittirīya Āraṇyaka 8.1; whether across, or below, orabove: tiraścinaḥ = across, **tiryaksrotas**, that in which the stream of life is horizontal, i.e., the animal world;among the created objects some were living creatures, others were great, as the sky etc., the former being theenjoyers (bhoktāraḥ), the latter the things to be enjoyed (**bhojyaḥ**), so the creation was distinguished as thefood and the feeder
 </details>
@@ -19544,7 +19680,8 @@ Und quer hindurch, war ihre Schnur gezogen, was war darunter? und was war darüb
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -19552,7 +19689,8 @@ popular;; repeated line
 popular;; 12 = 5+7, ending LHX  
 popular  
 popular
-###### Morph
+_________
+**Morph**  
 addhā́ ← addhā́ (invariable)  
 {}
 
@@ -19729,7 +19867,8 @@ ____________________
 
 “Who really knows? Who in this world may declare it! whence was this creation, whence was itengendered? The gods (were) subsequent to the (world's) creation; so who knows whence it arose?”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Whencewas it engendered: i.e., from what material cause, and from what creative cause, did it arise?
 </details>
@@ -19818,7 +19957,8 @@ Wer weiss es recht? wer mag es hier verkünden? woher entstand, woher sie kam di
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -19826,7 +19966,8 @@ popular
 popular  
 popular  
 popular
-###### Morph
+_________
+**Morph**  
 ābabhū́va ← √bhū- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
 
@@ -20013,7 +20154,8 @@ _________________
 
 “He from whom this creation arose, he may uphold it, or he may not (no one else can); he who is itssuperintendent in the highest heaven, he assuredly knows, or if he knows not (no one else does).”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Sa bhagavahkasmin **pratiṣṭhita**: **Chāndogya Upaniṣad** 7.24.1
 </details>
@@ -20096,7 +20238,8 @@ Von wannen diese Schöpfung sei gekommen, ob sie geschaffen oder unerschaffen, D
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -20104,7 +20247,8 @@ popular;; repeated line
 popular;; repeated line  
 popular  
 popular
-###### Morph
+_________
+**Morph**  
 āsa ← √as- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
 
@@ -20281,7 +20425,8 @@ ____________
 
 “Which was the forest, which the tree, from which they fabricated heaven and earth? Inquire, sages, inyour minds what (plural ce) he was stationed in when holding the worlds.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 They: i.e., the makers of the world,directed by **Parameśvara**
 </details>
@@ -20389,7 +20534,8 @@ Was war der Wald, und was war jener Baum doch, aus dem sie Erd' und Himmel schö
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Cretic
 
 ###### Pāda-label
@@ -20397,7 +20543,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 agním ← agní- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -20689,7 +20836,8 @@ Frühmorgens laden Agni wir und Indra ein, frühmorgens Mitra-Varuna, die Ritter
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Cretic
 
 ###### Pāda-label
@@ -20697,7 +20845,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 bhágam ← bhága- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -20897,7 +21046,8 @@ _______________
 
 “We invoke at dawn fierce **Bhaga**, the son of **Aditi**, who is the sustainer (of the world), to whom the poorman praising him applies, saying, give (me wealth), to whom the opulent prince (addresses the same prayer).”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Towhom the poor man: ādhraścid yam **manya** **mānas** turascid **rājā** cid yam bhagam bhakṣity aha: the ādhra= unsatisfied, hungry, or poor;
 
@@ -21022,7 +21172,8 @@ Wir wollen den, der früh gewinnt und austheilt, den mächt'gen Bhaga, den Aditj
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Cretic
 
 ###### Pāda-label
@@ -21030,7 +21181,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 bhága ← bhága- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -21353,7 +21505,8 @@ O Bhaga, Führer, Bhaga, wahrhaft reicher, begünst'ge, Bhaga, dieses Lied, uns 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Cretic
 
 ###### Pāda-label
@@ -21361,7 +21514,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 bhágavantaḥ ← bhágavant- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -21517,7 +21671,8 @@ _______________
 
 “May we now have **Bhaga** (for our lord), whether in the forenoon or mid- day, or at sun-rise; may we,**Maghavan**, enjoy the favour of the gods.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Bhaga: utedanim bhagavantaḥ **syāma**, may we be now possessors ofBhaga; or, may we be possessors of wealth;
 
@@ -21642,7 +21797,8 @@ Auch jetzt versorge uns mit reichem Antheil beim Tages Anbruch und in Tages Mitt
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Cretic
 
 ###### Pāda-label
@@ -21650,7 +21806,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 astu ← √as- 1 (root)  
 {number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
 
@@ -21848,7 +22005,8 @@ _________________
 
 “May **Bhaga**, gods, be the possessor of opulence, and, through him, may we be possessed of wealth,every one verily repeatedly invokes you, Bhaga; do you, Bhaga, be our preceder at this solemnity.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Bhaga:Bhaga eva **bhagavān** **astu** dhanavān, having wealth; **pura** eta = **puro** ganta, one who goes before; may mean,**purohita**, or family priest
 </details>
@@ -21977,7 +22135,8 @@ Ja reich an Gaben sei, o Götter, Bhaga, durch ihn auch mögen wir an Gaben reic
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Cretic
 
 ###### Pāda-label
@@ -21985,7 +22144,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 adhvarā́ya ← adhvará- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -22152,7 +22312,8 @@ ____________
 
 “May the dawn come to our sacrifice as a horse to a suitable station; as rapid steeds convey a chariot,so may the dawns bring to us **Bhaga**, down- descending, charged with riches.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Station: śucaye padāya =gamanayogyāya sthānāya; or, agnyādhanārtham śucai padam, a pure plural ce for the receptacle of the fire;
 
@@ -22274,7 +22435,8 @@ Zum Opfer mögen sich die Morgenröthen, wie Dadhikra zum hellen Orte wenden; Si
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Cretic
 
 ###### Pāda-label
@@ -22282,7 +22444,8 @@ genre M
 genre M  
 genre M  
 genre M;; repeated line
-###### Morph
+_________
+**Morph**  
 áśvāvatīḥ ← áśvāvant- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -25211,7 +25374,8 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -25219,7 +25383,8 @@ popular
 popular  
 popular  
 popular
-###### Morph
+_________
+**Morph**  
 bhavati ← √bhū- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -25409,7 +25574,8 @@ _______________________
 
 “New every day (the moon) is born; the manifester of days he goes on front of the Dawns; hedistributes their portion to the gods as he goes; the moon protracts a long existence.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The first half othe verse isaddressed to the sun; but, the moon is the manifester of days in regulating the time of **tithis** (lunar days)
 </details>
@@ -25706,14 +25872,16 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Cretic
 
 ###### Pāda-label
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 jātávedasam ← jātávedas- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -25940,7 +26108,8 @@ Den Wesenkenner führen schon empor die Strahlen, ihn, den Gott, Dass jedermann 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Cretic
 
 ###### Pāda-label
@@ -25948,7 +26117,8 @@ genre D
 genre D  
 genre D  
 genre D
-###### Morph
+_________
+**Morph**  
 agāt ← √gā- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -26107,7 +26277,8 @@ _____________
 
 “Thewonderful hostof rays has risen; th eye of **Mitra**, **Varuṇa** and **Agni**; the sun, the **soul** of all that moves or is immoveable, has filled (with his glory) the heaven, the earth, and the firmament.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Agni: cākṣus = the enlightener. Mitra, Varuṇa and Agni are typical of the world, or of the seasons, perhaps, over which they preside. **ātmā** jagataḥ = the soul of the world, from his pervading and animating all things; jagataḥ, of what is moveable; tathuṣaḥ, of that which is fixed. The sun is the cause of all effects, whether moveableor immoveable: sa hi sarvasya sthāvarajaṅgamātmakasya kāryavargasya kāraṇam
 </details>
@@ -26301,14 +26472,16 @@ Aditi, who giveth good protection and good guidance.
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Normal
 
 ###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-###### Morph
+_________
+**Morph**  
 cakrame ← √kramⁱ- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:MED}
 
@@ -26424,7 +26597,8 @@ sámūḷham ← √vah- (root)
 
 “**Viṣṇu** traversed this (world); three times he plural nted his foot and the whole (world) was collected in the dust of his (footstep).”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Tredhā nidhadhe padam: the three paces of Viṣṇu imply the presence of Viṣṇu in the three regions of earth, air and heaven, in the forms of **Agni**, **Vāyu** and **Sūrya**, fire, wind and the sun. According to **Śākapūṇi**, the step was on earth, in the firmament, in heaven; according to Aurṇavābha on Samārohaṇa or the eastern mountain, on **Viṣṇupada** the meridian sky and **Gayaśiras** the western mountain, thus identifiying Viṣṇu with the Sun, and his three paces with the rise, culmination, and setting of that luminary
 </details>
@@ -26531,7 +26705,8 @@ Vischnu durchschritt die ganze Welt, trat dreimal nieder mit dem Fuss, An seinem
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic
 
 ###### Pāda-label
@@ -26539,7 +26714,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 prá ← prá (invariable)  
 {}
 
@@ -26682,7 +26858,8 @@ ________________
 
 “**Viṣṇu** is therefore glorified, that by his prowess he is like a fearful, ravenous, and mountain-haunting wild beast, and because of that in his three paces all worlds abide.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Mountain-haunting wild beast: **mṛga** or **siṃha**, a lion, as applicable to Viṣṇu: one who seeks for his enemies to inflict punishment on them, and is therefore, fearful and fierce;
 
@@ -26795,14 +26972,16 @@ Gerühmt wird Vischnu wegen dieser Grossthat, gleich wildem Löwen, der durch Be
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
 ###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-###### Morph
+_________
+**Morph**  
 agníḥ ← agní- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -26903,7 +27082,8 @@ _____________
 
 “**Agni**, the head (of the gods), the summit of heaven-- he the lord of the earth-- gladdens the seed of thewaters.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Seed: retāṃsi, the moveable andimmovable productions of the creative waters
 </details>
@@ -27691,7 +27871,8 @@ Lengthen our days for us.
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -27699,7 +27880,8 @@ popular
 popular  
 popular  
 popular
-###### Morph
+_________
+**Morph**  
 asmát ← ahám (pronoun)  
 {case:ABL, number:PL}
 
@@ -27861,7 +28043,8 @@ _______________
 
 “**Varuṇa**, loosen for me the upper, the middle, the lower band; so, son of **Aditi**, shall we, through faultlessness in the worship, become freed from siṇ”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Reference to the ligature fastening the head, the feet, and the waist; resulting in loosening from the bonds of sin: anāgasaḥ **syāma**, may we be sinless
 </details>
@@ -28012,7 +28195,8 @@ All these are Varuna's ordinances.
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Cretic
 
 ###### Pāda-label
@@ -28020,7 +28204,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 ca ← ca (invariable)  
 {}
 
@@ -28268,7 +28453,8 @@ Was wir auch hier, o Varuna, nach Menschen Art für Unrecht üben am Geschlecht 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Cretic
 
 ###### Pāda-label
@@ -28276,7 +28462,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 dīví ← dī́v- (nominal stem)  
 {case:LOC, gender:F, number:SG}
 
@@ -28587,7 +28774,8 @@ Wenn wir getäuscht beim Spiel wie falsche Spieler, wenn wir gefehlt, unwissend 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -28595,7 +28783,8 @@ popular
 popular  
 popular  
 popular
-###### Morph
+_________
+**Morph**  
 áva ← áva (invariable)  
 {}
 
@@ -28757,7 +28946,8 @@ _______________
 
 “**Varuṇa**, we deprecate your wrath with prostrations, with sacrifices, with oblations; averter of misfortune, wise and illustrious, be present amongst us, and mitigate the evils we have committed.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **asura** = **aniṣṭa**-**kṣepaṇa**-**śila**, accusative tomed to cast off what is undesired; from seme, to throw
 </details>
@@ -28862,7 +29052,8 @@ O Varuna, wir wenden deinen Zorn ab, durch Opfer, durch Gebet, durch Trankesspen
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -28870,7 +29061,8 @@ popular
 popular  
 popular  
 popular
-###### Morph
+_________
+**Morph**  
 bráhmaṇā ← bráhman- (nominal stem)  
 {case:INS, gender:N, number:SG}
 
@@ -29049,7 +29241,8 @@ prá ← prá (invariable)
 
 “Praising you with (devout) prayer, I implore you for that (life) which the instrumental tutor of the sacrifice solicits with oblations; **Varuṇa**, undisdainful, bestow a thought upon us; much-lauded, take not away our existence.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The term, tadāyus is supplied in the context of **māna** āyuḥ pramoṣiḥ = do not take away our life
 </details>
@@ -29439,14 +29632,16 @@ Dies bitt' ich dich, verehrend mit Gebeten, und darum wirbt mit Opfertrank der O
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Cretic
 
 ###### Pāda-label
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 ā́paḥ ← áp- (nominal stem)  
 {case:VOC, gender:F, number:PL}
 
@@ -29562,7 +29757,8 @@ ráṇāya ← ráṇa- (nominal stem)
 
 “Since, waters, you are the sources of happiness, grant to us to enjoy abundance, and great anddelightful perception.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Great and delightful perception: mahe raṇāya cakṣase = samyajñānam, perfectknowledge of **brahman**; the ṛca solicits happiness both in this world and in the next; the rapturous sight of thesupreme god; to behold great joy
 </details>
@@ -29644,14 +29840,16 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Cretic
 
 ###### Pāda-label
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 rásaḥ ← rása- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -29832,14 +30030,16 @@ Welch segenreichster Saft euch ist, an dem lasst Theil uns haben hier, Den liebe
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Cretic
 
 ###### Pāda-label
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 áram ← áram (invariable)  
 {}
 
@@ -29949,7 +30149,8 @@ _____________
 
 “Let us quickly have recourse to you, for that your (faculty) of removing (sin) by which you gladden us;waters, bestow upon us progeny.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Let us go to you at once for him to whose house you are hastening; waters,reinvogorate us; faculty of removing sin: **kṣaya** = nivāsa, abode;
 
@@ -30229,14 +30430,16 @@ Für solchen gehn wir euch zur Hand, zu dessen Sitz ihr eilend naht, Ihr Wasser 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Cretic
 
 ###### Pāda-label
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 ā́paḥ ← áp- (nominal stem)  
 {case:VOC, gender:F, number:PL}
 
@@ -30352,7 +30555,8 @@ ráṇāya ← ráṇa- (nominal stem)
 
 “Since, waters, you are the sources of happiness, grant to us to enjoy abundance, and great anddelightful perception.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Great and delightful perception: mahe raṇāya cakṣase = samyajñānam, perfectknowledge of **brahman**; the ṛca solicits happiness both in this world and in the next; the rapturous sight of thesupreme god; to behold great joy
 </details>
@@ -30434,14 +30638,16 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Cretic
 
 ###### Pāda-label
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 rásaḥ ← rása- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -30622,14 +30828,16 @@ Welch segenreichster Saft euch ist, an dem lasst Theil uns haben hier, Den liebe
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Cretic
 
 ###### Pāda-label
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 áram ← áram (invariable)  
 {}
 
@@ -30739,7 +30947,8 @@ _____________
 
 “Let us quickly have recourse to you, for that your (faculty) of removing (sin) by which you gladden us;waters, bestow upon us progeny.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Let us go to you at once for him to whose house you are hastening; waters,reinvogorate us; faculty of removing sin: **kṣaya** = nivāsa, abode;
 

@@ -352,14 +352,16 @@ who art drunk by Indra, who art drunk by Naraśansa, who art drunk by the father
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Normal
 
 ###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
-###### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -979,7 +981,8 @@ ye that are in this world, of these may I be the most fortunate.
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-##### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ##### Pāda-label
@@ -987,7 +990,8 @@ popular
 popular  
 popular  
 popular;; repeated line
-##### Morph
+_________
+**Morph**  
 anyáḥ ← anyá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -1183,7 +1187,8 @@ ______________
 
 “No other than you, **Prajāpati**, has given existence to all these beings; may that object of our desiresfor which we sacrifice to you be ours, may we be the possessors of riches.”
 
-#### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Yajus**. 10.20; **Nirukta** 10.43
 </details>

@@ -311,7 +311,8 @@ title = "२९ 'अहमस्मि',"
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -319,7 +320,8 @@ popular
 popular  
 popular  
 popular
-###### Morph
+_________
+**Morph**  
 ajanayanta ← √janⁱ- (root)  
 {number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
 
@@ -505,7 +507,8 @@ ______________
 
 “The gods produced the goddess Vāk; her do animals of every kind utter; may she, Vāk, theall-gladdening cow, yielding meat and drink, come to us, worthily praised.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The thunder entering into all beings,becomes the speaker of moral truth, eṣā **mādhyamikā** vāk sarvaprāṇyantargatā dharmābhivādinībhavati; animals of every kind: whether their utterance be articulare or inarticulate
 </details>
@@ -581,7 +584,8 @@ Die Göttin Vāk haben die Götter erzeugt, die vielgestaltigen Thieren reden si
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -589,7 +593,8 @@ popular
 popular  
 popular  
 popular
-###### Morph
+_________
+**Morph**  
 avicetanā́ni ← avicetaná- (nominal stem)  
 {case:NOM, gender:N, number:PL}
 
@@ -743,7 +748,8 @@ _________________
 
 “When Vāk, the **queen**, the gladdener of the gods, sits down (in the sacrifice) uttering things not to beunderstood, she milks water and food for the four quarters (of the earth); whither now is her best portion gone?”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Nirukta** 11.28: Vāk here is the thunder; cf. RV 8.69.14; best portion = the rain, which sinks in the earth or istaken up by the sun's rays
 </details>
@@ -943,7 +949,8 @@ Wenn Vāk [die Stimme], die Königin der Götter, unverständliche Worte [den Do
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -951,7 +958,8 @@ popular
 popular  
 popular  
 popular
-###### Morph
+_________
+**Morph**  
 catvā́ri ← catúr- (nominal stem)  
 {case:ACC, gender:N, number:PL}
 
@@ -1128,7 +1136,8 @@ ______________
 
 “Four are the definite grades of spech; those **Brahmaṇas** who are wise know them; three, deposited in secret, indicate no meaning; men speak the fourth grade of speech.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Four are: catvāri vākparimitā padāni: the language of the **mantras**, the **kalpa**, the **brāhmaṇa** and **laukika**, or current speech (**Taittirīya** Samhitā 1.31.2); those **brāhmaṇas**: brāhmaṇā ye manīṣiṇaḥ: brāhmaṇā = those acquainted with the **śabdabrahma**, **brahma** as the word, or, the **yogis**, mystics; fourth grad eof speech: vāk, speech, was created fourfold, three kinds of which are in the three regions, the fourth amongst the **paśus**; the form on earth, associated with **Agni** is in the **rathantara**; the form in the firmament, associated with **Vāyu**, is in the **Vāmadevya** mantras; that which is in heaven, with **Āditya**, is **Bṛhatī**, or in the thunder (stanayitnau); whatever else was more than this was plural ced amongst the paśus, liṭ, animals; here the brāhmaṇas are implied: **atha** paśuṣu tato yā vāg atiricyate tām brāhmaṇeṣu adaduḥ; thus, the brāhmaṇas speak both languages, that of the gods and that of man (tasmād brāhmaṇā ubharyo vācam vadanti yā ca devānām yā ca manuṣyāṇa(m (**Nirukta** 13.9)
 </details>
@@ -1233,7 +1242,8 @@ Die Rede hat vier abgegrenzte Gattungen; die sind bekannt den Brahmanen, welche 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -1241,7 +1251,8 @@ popular;; epic anuṣṭubh (292)
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
-###### Morph
+_________
+**Morph**  
 agníḥ ← agní- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -1440,7 +1451,8 @@ Durch Glauben wird das Feu'r entflammt, durch Glauben Opferguss geweiht; Auch au
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -1448,7 +1460,8 @@ popular;; epic anuṣṭubh (292)
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
-###### Morph
+_________
+**Morph**  
 dádataḥ ← √dā- 1 (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
 
@@ -1652,7 +1665,8 @@ O Glaube, lieb mach dieses Wort des Spenders, der noch spenden will, Mach lieb e
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -1660,7 +1674,8 @@ popular;; epic anuṣṭubh (292)
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
-###### Morph
+_________
+**Morph**  
 ásureṣu ← ásura- (nominal stem)  
 {case:LOC, gender:M, number:PL}
 
@@ -1860,7 +1875,8 @@ Wie Götter der Asurenschar, der starken, schenkten ihr Vertraun, So mache du au
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -1868,7 +1884,8 @@ popular;; epic anuṣṭubh (292)
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
-###### Morph
+_________
+**Morph**  
 devā́ḥ ← devá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -1977,7 +1994,8 @@ ___________________
 
 “Gods, worshippers, and those who are protected by **Vāyu**, solicit **Śraddhā**, (they cherish) Śraddhāwith heartfelt desire, through Śraddhā a man acquires wealth.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Yajus**. 8.44; **Nirukta** 7.2
 </details>
@@ -2059,7 +2077,8 @@ Den Glauben ehren andachtsvoll die Götter, die der Wind beschirmt; Der Glaube w
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -2067,7 +2086,8 @@ popular;; epic anuṣṭubh (292)
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
-###### Morph
+_________
+**Morph**  
 havāmahe ← √hū- (root)  
 {number:PL, person:1, mood:IND, tense:PRS, voice:MED}
 
@@ -2527,7 +2547,8 @@ Den Glauben rufen Morgens wir, den Glauben in der Mittagszeit Den Glauben, wenn 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -2535,7 +2556,8 @@ popular
 popular  
 popular  
 popular
-###### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -2810,7 +2832,8 @@ Gekommen sind die Kühe, Holdes wirkend, sie mögen ruhn im Stall, bei uns sich 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -2818,7 +2841,8 @@ popular
 popular  
 popular  
 popular
-###### Morph
+_________
+**Morph**  
 ca ← ca (invariable)  
 {}
 
@@ -2993,7 +3017,8 @@ ní ← ní (invariable)
 
 “**Indra** grants the desires of the man who offers to him sacrifice and praise; he ever bestows upon him wealth, and deprives him not of that which is his own; again and again increasing his riches, he plural ces the devout man in an inaccessible fortress.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Abhinna khilye: śatrubhirabhetavye, not to be breached by enemies;
 
@@ -3147,7 +3172,8 @@ Indra schenkt Gut dem opfernden und spendenden; er theilt ihm mit und entzieht i
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -3155,7 +3181,8 @@ popular
 popular  
 popular  
 popular
-###### Morph
+_________
+**Morph**  
 árvā ← árvan- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -3344,7 +3371,8 @@ ___________________
 
 “Let not the dust-spurning (war) horse reach them nor let them fall in the way of sacrificial consecration let the cattle of the man who offers sacrifice wander about at large and without fear.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Not let them fall: na saṃskṛtatram abhyupayanti = viśasanādisaṃskādisaṃskāram nābhyupagacchantu, let them not go right to the consecration of immolation; as metonymy, perhaps the cows means their produce, milk and butter, which are constantly offered
 </details>
@@ -3486,7 +3514,8 @@ Nicht holt ein Kriegsross mit bestäubtem Kopf sie ein, noch werden je sie zu de
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -3494,7 +3523,8 @@ popular
 popular  
 popular  
 popular
-###### Morph
+_________
+**Morph**  
 cit ← cit (invariable)  
 {}
 
@@ -3667,7 +3697,8 @@ váyaḥ ← váyas- 2 (nominal stem)
 
 “Do you, cows, give us nourisment; render the emaciated, the unlovely body the reverse; do you, whose lowing is auspicious, make my dwelling prosperous; great is the abundance that is attributed to you in religious assemblies.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Bṛhad vo **vaya** ucyate sabhāsu, great of you the food is said in assemblies; or, great is the food given to you in assemblies, it is given by all, sarvair dīyate ityarthaḥ
 </details>

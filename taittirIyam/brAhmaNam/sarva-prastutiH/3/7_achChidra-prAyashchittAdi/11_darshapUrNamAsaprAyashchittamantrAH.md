@@ -306,7 +306,8 @@ unicode_script: devanagari
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -314,7 +315,8 @@ popular;; epic anuṣṭubh (292)
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
-###### Morph
+_________
+**Morph**  
 pátiḥ ← páti- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 

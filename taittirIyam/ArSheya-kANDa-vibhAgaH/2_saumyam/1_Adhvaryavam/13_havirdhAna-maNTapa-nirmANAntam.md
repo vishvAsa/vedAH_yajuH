@@ -51,7 +51,8 @@ ________
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Cretic
 
 ###### Pāda-label
@@ -59,7 +60,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 dhíyaḥ ← dhī́- (nominal stem)  
 {case:ACC, gender:F, number:PL}
 
@@ -245,7 +247,8 @@ savitúḥ ← savitár- (nominal stem)
 
 “The wise apply their minds; they perform sacred rites for the propitiation of the intelligent, great, adorable **Savitā**; he alone, knowing their functions, directs the priests; verily, great is the praise of the divine Savitā.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Yajus**. 5.14; viprasya bṛhato **vipaścitaḥ** are epithets of Savitā
 </details>
@@ -428,14 +431,16 @@ ________
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Normal
 
 ###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-###### Morph
+_________
+**Morph**  
 cakrame ← √kramⁱ- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:MED}
 
@@ -551,7 +556,8 @@ sámūḷham ← √vah- (root)
 
 “**Viṣṇu** traversed this (world); three times he plural nted his foot and the whole (world) was collected in the dust of his (footstep).”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Tredhā nidhadhe padam: the three paces of Viṣṇu imply the presence of Viṣṇu in the three regions of earth, air and heaven, in the forms of **Agni**, **Vāyu** and **Sūrya**, fire, wind and the sun. According to **Śākapūṇi**, the step was on earth, in the firmament, in heaven; according to Aurṇavābha on Samārohaṇa or the eastern mountain, on **Viṣṇupada** the meridian sky and **Gayaśiras** the western mountain, thus identifiying Viṣṇu with the Sun, and his three paces with the rise, culmination, and setting of that luminary
 </details>
@@ -667,7 +673,8 @@ ________
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic
 
 ###### Pāda-label
@@ -675,7 +682,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 bhūtám ← √bhū- (root)  
 {number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
 
@@ -819,7 +827,8 @@ pr̥thivī́m ← pr̥thivī́- (nominal stem)
 
 “Heaven and earth, abounding with food, abounding with cattle, yielding abundant fodder, you aredisposed to be liberal to the man (who praises you); you, **Viṣṇu**, have upheld these two heaven and earth, andhave secured the earth around with mountains.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 To the man who praises you: manuṣe stuvate; **Yajus**. 5.16reads: manave = yajamānāya, to the instrumental tutor of the rite; have secured the erth: dādartham pṛthivīmmayūkhaiḥ: parvataiḥ, by mountains; or, by his incarnations displaying his glory, tejorūpair avatāraiḥ; cf. Tai.S. 3.4.5.1
 </details>
@@ -1009,7 +1018,8 @@ ________
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic
 
 ###### Pāda-label
@@ -1017,7 +1027,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 kam ← kam (invariable)  
 {}
 
@@ -1175,7 +1186,8 @@ vicakramāṇáḥ ← √kramⁱ- (root)
 
 “Earnetly I glorify the exploits of **Viṣṇu**, who made the **three worlds**; who sustained the lofty aggregate site (of the spheres); thrice traversing (the whole); who is praised by the exalted.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Pārthivāni vimame rajāṃsi = lit. he made the earthly regions;
 

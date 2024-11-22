@@ -62,7 +62,8 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Normal
 
 ###### Pāda-label
@@ -70,7 +71,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -384,7 +386,8 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic
 
 ###### Pāda-label
@@ -392,7 +395,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -536,7 +540,8 @@ kr̥ṇudhvam ← √kr̥- (root)
 
 “Secure **Agni**, the king of sacrifice, the afflicter (of foes), the invoker (of the gods), the distributor of food through heaven and earth, the golden-formed, for your protection before (surprised by) sudden death.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Purā** tanayitnor acittāt = liṭ, before the unconsciousness of the thunderbolt; this implies a state of unconsciousness, or death as sudden as if the work of the thunderbolt
 </details>
@@ -702,7 +707,8 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -710,7 +716,8 @@ popular
 popular  
 popular  
 popular
-###### Morph
+_________
+**Morph**  
 adyá ← adyá (invariable)  
 {}
 
@@ -900,7 +907,8 @@ naḥ ← ahám (pronoun)
 
 “He has today made our banquet to the gods efficacious; we have obtained the mysterious tongue ofsacrifice; he has come, fragrant, clothed with life; he makes our oblation to the gods today auspicious.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Themysterious tongue: **Agni** is the tongue of the gods, by means of him they drink the oblations
 </details>
@@ -997,7 +1005,8 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Cretic
 
 ###### Pāda-label
@@ -1005,7 +1014,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 agníḥ ← agní- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -1282,7 +1292,8 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Cretic
 
 ###### Pāda-label
@@ -1290,7 +1301,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 hotar ← hótar- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -1445,7 +1457,8 @@ saúbhagāni ← saúbhaga- (nominal stem)
 
 “Bright blazing **Agni**, invoker of the gods, to you the adorable deities have appropriated, by night and day, the riches (on the oblation); they have deposited in the purifer (Agni) all good things (agnau vāmam **vasu** sam nyadadhata: **Taittirīya** **Saṃhitā** 1.5.1.1), as they have plural ced all beings upon earth.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The adorable deities: yajñiyāsaḥ, entitled to sacrifices, i.e. **devas** or **yajamānaḥ**, the sacrificers
 </details>
@@ -1605,7 +1618,8 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Cretic
 
 ###### Pāda-label
@@ -1613,7 +1627,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -1791,7 +1806,8 @@ giver of riches, may we obtain of your riches and descendants;
 desiring food, may we obtain food;  
 may we obtain, imperishable Agni, imperishable fame (through you).”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Yajrveda, 18.74
 </details>
@@ -1910,14 +1926,16 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Normal
 
 ###### Pāda-label
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 bhārata ← bhā́rata- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -2014,7 +2032,8 @@ váso ← vásu- (nominal stem)
 
 “Youngest (of the gods), **Agni** descendant of **Bhārata**, granter of dwellings, bring (to us) excellent, splendid and enviable riches.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Descendant of Bhārata: Bhārata = sprung from the priests;
 
@@ -2137,7 +2156,8 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Cretic
 
 ###### Pāda-label
@@ -2145,7 +2165,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 rocanasthā́ḥ ← rocanasthā́- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -2555,7 +2576,8 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Cretic
 
 ###### Pāda-label
@@ -2563,7 +2585,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 agníḥ ← agní- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -2711,7 +2734,8 @@ svādhī́ḥ ← svādhī́- (nominal stem)
 
 “**Agni** was first born above the sky; as Ja-tavedas he was born the second time among us; the friend ofman, he was born the third time in the watters; the sage kindlin him eternally praises him.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Agni was first borṅi.e., Agni represents successively the sun, fire, lightning. (**Yajus**. 12.18-29: Agni was first genitive rated as **Prāṇa**,or vital air, from the breath of heaven, and that man genitive rated him; secondly, that **Prajāpati** (nṛmaṇaḥ) createdhim eternal in all the waters, and that the **yajamāna** lighting him also gives birth to him)
 </details>
@@ -2809,14 +2833,16 @@ Erzeugt zuerst ward Agni aus dem Himmel, von uns zum zweiten als der Wesenkenner
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Normal
 
 ###### Pāda-label
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 pāvaka ← pāvaká- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -3025,7 +3051,8 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Cretic
 
 ###### Pāda-label
@@ -3033,7 +3060,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 adyaut ← √dyut- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -3205,7 +3233,8 @@ yát ← yá- (pronoun)
 
 “Conspicuous, glorious, **Agni** shines with great splendour, moving everywhere, and blazingunsurpassingly with glory; Agni became immortal through the food (of sacrifice) when the prolific heavenengendered him.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Glorious: dṛśāno **rukmaḥ** = **rocamānaḥ**, an epithet of Agni; or **devatā**, a gold ornament ofthe neck, which at a particular time the **yajamāna** is to take off with this **mantra**; moving everywhere: āyuḥ =going everywhere; or, life: desiring an irreproachable life to give perpetually to people
 </details>
@@ -3303,7 +3332,8 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Normal
 
 ###### Pāda-label
@@ -3311,7 +3341,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -3487,7 +3518,8 @@ svādhyàm ← svādhī́- (nominal stem)
 
 “May that (digestive) faculty (of **Agni**) with regards food, be imparted to the devout and illustrious protector of priests, as the source of virile vigour; and may Agni be born as (his) robust, irreproachable, youthful and intelligent son, and instrumental gate him (to acts of worship).”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Retas** = water; hence, 'may fire and water, or heat and moister, be spread through the earth for the genitive ration of corn' is an alternative rendering
 </details>
@@ -3614,7 +3646,8 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Normal
 
 ###### Pāda-label
@@ -3622,7 +3655,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 mánasā ← mánas- (nominal stem)  
 {case:INS, gender:N, number:SG}
 
@@ -3901,7 +3935,8 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Archaic
 
 ###### Pāda-label
@@ -3909,7 +3944,8 @@ genre M
 genre M  
 genre M;; repeated line  
 genre M
-###### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -4036,7 +4072,8 @@ vā́jeṣu ← vā́ja- (nominal stem)
 
 “Bestow, **Agni**, upon **Dyumna**, a son, overcoming foes by his prowess; one who may with glory subdue all men in battle.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 A son: the text has rayim, riches; the explanation is metaphorical, rendering it putram, a son
 </details>
@@ -4157,7 +4194,8 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Archaic
 
 ###### Pāda-label
@@ -4165,7 +4203,8 @@ genre M
 genre M;; repeated line  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -4405,14 +4444,16 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
 ###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-###### Morph
+_________
+**Morph**  
 ukṣā́nnāya ← ukṣā́nna- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -4659,14 +4700,16 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic
 
 ###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
-###### Morph
+_________
+**Morph**  
 ágne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -4885,14 +4928,16 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic
 
 ###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
-###### Morph
+_________
+**Morph**  
 ágne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -5109,14 +5154,16 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Normal
 
 ###### Pāda-label
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 ágne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -5381,14 +5428,16 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
 ###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-###### Morph
+_________
+**Morph**  
 agníḥ ← agní- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -5488,7 +5537,8 @@ __________
 
 “The pure **Agni** shines forth when worshipped the purest offerer, the pure priest, the pure sage.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Puresage: **kavi** = sage (RV 1.31.2); or, krāntakarman
 </details>
@@ -5575,14 +5625,16 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
 ###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-###### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 

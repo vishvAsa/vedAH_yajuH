@@ -45,7 +45,8 @@ title = "१४ विहव्याख्येष्टकोपधानम�
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -53,7 +54,8 @@ popular
 popular  
 popular  
 popular
-###### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -370,7 +372,8 @@ Glück werde mir, wenn ich dich, Agni, rufe, Heil sei den Leibern, wenn wir dich
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -378,7 +381,8 @@ popular
 popular  
 popular  
 popular
-###### Morph
+_________
+**Morph**  
 dévīḥ ← devī́- (nominal stem)  
 {case:VOC, gender:F, number:PL}
 
@@ -554,7 +558,8 @@ ________________
 
 “You six mighty goddesses, bestow upon us ample (wealth); universal gods, display prowess here; letus not be bereft of our offspring, or be harmed in our bodies, may we not become subject to our enemy, royalSoma.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 You six: heaven, earth, day, night, water and plural nts
 </details>
@@ -683,7 +688,8 @@ Ihr weiten sechs Göttinnen schaffet Raum uns, ihr Götter alle, zeigt euch hier
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -691,7 +697,8 @@ popular;; 12 = 5+7, ending LHX
 popular  
 popular  
 popular
-###### Morph
+_________
+**Morph**  
 mahiṣáḥ ← mahiṣá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -962,7 +969,8 @@ Der umfangsreiche Stier verleihe Schutz uns, bei diesem Ruf der vielgerufne Näh
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -970,7 +978,8 @@ popular
 popular  
 popular  
 popular
-###### Morph
+_________
+**Morph**  
 ápa ← ápa (invariable)  
 {}
 

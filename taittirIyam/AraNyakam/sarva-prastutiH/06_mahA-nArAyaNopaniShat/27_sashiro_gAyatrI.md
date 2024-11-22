@@ -44,14 +44,16 @@ unicode_script = "devanagari"
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
 ###### Pāda-label
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 savitúḥ ← savitár- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -496,7 +498,8 @@ May we focus on the excellent radiance of the deva Savitṛ who will inspire our
 
 “We meditate on that desirable light of the divine **Savitā**, who influences our pious rites.”
 
-##### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Yajus**. 3.35;
 

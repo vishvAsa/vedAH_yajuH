@@ -76,7 +76,8 @@ Be fullest of help for us.
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Cretic
 
 ###### Pāda-label
@@ -84,7 +85,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 ápaśyan ← √paś- (root)  
 {number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
 

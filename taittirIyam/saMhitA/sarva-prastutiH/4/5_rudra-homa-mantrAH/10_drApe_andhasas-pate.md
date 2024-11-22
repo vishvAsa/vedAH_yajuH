@@ -286,7 +286,8 @@ And grant us protection in abundance.
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Normal
 
 ###### Pāda-label
@@ -294,7 +295,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 gartasádam ← gartasád- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 

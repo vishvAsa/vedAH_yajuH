@@ -40,7 +40,8 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Normal
 
 ###### Pāda-label
@@ -48,7 +49,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 marútvantam ← marútvant- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 

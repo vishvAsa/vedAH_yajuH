@@ -41,7 +41,8 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic
 
 ###### Pāda-label
@@ -49,7 +50,8 @@ genre M;; Vālakhilya
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
-###### Morph
+_________
+**Morph**  
 asi ← √as- 1 (root)  
 {number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
 
@@ -362,7 +364,8 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic
 
 ###### Pāda-label
@@ -370,7 +373,8 @@ genre M;; Vālakhilya
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
-###### Morph
+_________
+**Morph**  
 asi ← √as- 1 (root)  
 {number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
 
@@ -684,7 +688,8 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Cretic
 
 ###### Pāda-label
@@ -692,7 +697,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 devā́nām ← devá- (nominal stem)  
 {case:GEN, gender:M, number:PL}
 

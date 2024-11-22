@@ -326,7 +326,8 @@ title = "११ राजसूयगता याज्यापुरोनु
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Normal
 
 ###### Pāda-label
@@ -334,7 +335,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 astu ← √as- 1 (root)  
 {number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
 
@@ -626,14 +628,16 @@ Der Mensch, o Mitra, sei vor allen glücklich, der dir, Aditja, dient nach deine
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-##### Strata
+_________
+**Strata**  
 Strophic
 
 ##### Pāda-label
 genre M  
 genre M  
 genre M
-##### Morph
+_________
+**Morph**  
 cit ← cit (invariable)  
 {}
 
@@ -848,7 +852,8 @@ Wie sehr wir auch, o Varuna, verletzen dein Gebot, o Gott, Nach Menschen Weise T
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-##### Strata
+_________
+**Strata**  
 Cretic
 
 ##### Pāda-label
@@ -856,7 +861,8 @@ genre M
 genre M  
 genre M  
 genre M
-##### Morph
+_________
+**Morph**  
 ca ← ca (invariable)  
 {}
 
@@ -1112,7 +1118,8 @@ Was wir auch hier, o Varuna, nach Menschen Art für Unrecht üben am Geschlecht 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-##### Strata
+_________
+**Strata**  
 Cretic
 
 ##### Pāda-label
@@ -1120,7 +1127,8 @@ genre M
 genre M  
 genre M  
 genre M
-##### Morph
+_________
+**Morph**  
 dīví ← dī́v- (nominal stem)  
 {case:LOC, gender:F, number:SG}
 

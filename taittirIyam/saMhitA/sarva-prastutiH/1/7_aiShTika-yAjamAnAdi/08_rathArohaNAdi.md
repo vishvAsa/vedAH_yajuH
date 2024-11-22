@@ -261,7 +261,8 @@ attain the goal.
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic
 
 ###### Pāda-label
@@ -269,7 +270,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 avata ← √avⁱ- (root)  
 {number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
 
@@ -675,7 +677,8 @@ Springeth along the bends of the ways.
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Normal
 
 ###### Pāda-label
@@ -683,7 +686,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 asya ← ayám (pronoun)  
 {case:GEN, gender:M, number:SG}
 
@@ -850,7 +854,8 @@ táritrataḥ ← √tr̥̄- 1 (root)
 
 “And after him who is quick-going, hastening, eager (to arrive at his goald, men) follow (as other birds pursue) the flight of a swift (bird) striving together to keep up by the side of Dadhikrāvan. the transporter (of others) as swift as a hawk.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Yajus**. 9.15; after him who is: **asya** **dravatas** turaṇyataḥ parṇam nādādhāram uraḥ pradeśam vā of Dadhikrāvaṇ, together with strenght, or for the sake of strength together, enabling to cross; aṅkasam **pari** = a horse's trappings, the cloth, tail, vastracamarādikam, over all his body, which fly open as the horse gallops, like the wings of a bird, the horse has the speed of a hawk
 </details>

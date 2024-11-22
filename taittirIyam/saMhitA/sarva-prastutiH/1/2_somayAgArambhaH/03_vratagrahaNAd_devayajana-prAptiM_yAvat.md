@@ -190,14 +190,16 @@ ________
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic
 
 ###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-###### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -307,7 +309,8 @@ yajñéṣu ← yajñá- (nominal stem)
 
 “**Agni**, who are a god among mortals, (and among gods), you are the guardian of religious obligations;you are to be hymned at sacrifices.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Among mortals: Agni, you, the divine, are among mortals (and among gods)the guardian of religious rites
 </details>

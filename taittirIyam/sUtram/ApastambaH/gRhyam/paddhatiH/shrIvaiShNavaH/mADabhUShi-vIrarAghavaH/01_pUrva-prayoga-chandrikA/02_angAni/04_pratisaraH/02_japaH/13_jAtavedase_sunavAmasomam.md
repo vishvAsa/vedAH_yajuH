@@ -89,7 +89,8 @@ title = "१३ जातवेदसे सुनवामसोमम्"
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Cretic
 
 ###### Pāda-label
@@ -97,7 +98,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 durgáhā ← durgáha- (nominal stem)  
 {case:ACC, gender:N, number:PL}
 

@@ -50,7 +50,8 @@ title: १४ काम्येष्टि-याज्या-पुरोन�
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Archaic
 
 ###### Pāda-label
@@ -58,7 +59,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 āhuvádhyai ← √hū- (root)  
 {case:DAT, number:SG, tense:AOR}
 
@@ -344,7 +346,8 @@ ____
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Cretic
 
 ###### Pāda-label
@@ -352,7 +355,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 áśravam ← √śru- (root)  
 {number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
 
@@ -507,7 +511,8 @@ stómam ← stóma- (nominal stem)
 
 “I have heard, **Indra** and **Agni**, that you are more munificent givers than an unworthy bridegroom, or the brother of a bride; therefore, as I offer you **a Soma** libation, I address you, Indra and Agni, with a new hymn.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 An unworthy bridegroom: vijamātṛ; the prefix vi- refers to a son-in-law (jāmātṛ) who is not possessed of the qualifications required by the **Vedas**, and who is, therefore, obliged to conciliate his father-in-law by libereal gifts. In **Nirukta** 6.9 vījamātrī = asusamāpta, the unfulfilled, or unaccomplished bridegroom. There may no implication of a bride-price: 'let no father who knows the law receive a gratuity, however small, for giving his daughter in marriage, since the man who, through avarice, takes a gratuity for that purpose is a seller of his offspring' (Laws of **Manu**, III.51); 'A bribe, whether large or small, is an actual sale of the daughter, although a bull and cow might be given at a marriage of saintly person ns or ṛṣis' (Laws of Manu, III.53). **syāla** = brother of the maiden, who makes her gifts through affection;
 
@@ -637,14 +642,16 @@ ____
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
 ###### Pāda-label
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 índrāgnī ← indrāgní- (nominal stem)  
 {case:VOC, gender:M, number:DU}
 
@@ -742,7 +749,8 @@ sākám ← sākám (invariable)
 
 “**Indra** and **Agni**, with one united effort you over-threw ninety cities ruled over by (your) foes.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Dāsa** patniḥ **puraḥ**, cities of which **dāsas** were the lords
 </details>
@@ -859,7 +867,8 @@ ____
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic
 
 ###### Pāda-label
@@ -867,7 +876,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 adyá ← adyá (invariable)  
 {}
 
@@ -1132,14 +1142,16 @@ ____
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Cretic
 
 ###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-###### Morph
+_________
+**Morph**  
 pate ← páti- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -1250,7 +1262,8 @@ pūṣan ← pūṣán- (nominal stem)
 
 “**Pūṣan**, lord of paths, we attach you to us like a chariot, for (the sake of) bringing food, and of (accomplishing our) solemnity.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 M. (the {a} not lengthened in the strong cases, but acc. {-SANam}, in Ma1rkP.) N. of a Vedic deity (originally connected with the sun, and therefore the surveyor of all things, and the conductor on journeys and on the way to the next world, often associated with **Soma** or the Moon as protector of the universe ; he is, moreover, regarded as the keeper of flocks and herds and bringer of prosperity ; in the **Brāhmaṇas** he is represented as having lost his teeth and feeding on a kind of gruel, whence he is called %{karambhAd} ; in later times he is one of the 12 **Ādityas** and regent of the **Nakshatra** **Revatī** or Paushṇa ; du. \`" Pūshan and **Aryaman** "' VP. Sch.); the sun Kād. Bālaṛ ; (?) growth, increase (cf. {**pUSa**-**rAti**}) ; the earth L. (Cologne **Sanskrit** Dictionary)
 </details>
@@ -1367,7 +1380,8 @@ ____
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Archaic
 
 ###### Pāda-label
@@ -1375,7 +1389,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 páripatim ← páripati- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -1547,7 +1562,8 @@ sīṣadhāti ← √sādh- ~ sidh- (root)
 
 “May (the worshipper), influenced by the hope (of reward), approach with praise the adorable (**Pūṣan**), protector of all path; may he bestow upon us cows with golden horns; may Pūṣan bring to perfection our every rite.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Protector: pathaspathaḥ paripatim: Pūṣan is the lord of the paths
 </details>
@@ -1636,7 +1652,8 @@ Zum Hüter jedes Weges drang das Loblied, das durch Begier aus Liederlust gescha
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Normal
 
 ###### Pāda-label
@@ -1644,7 +1661,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 kṣétrasya ← kṣétra- (nominal stem)  
 {case:GEN, gender:N, number:SG}
 
@@ -1772,7 +1790,8 @@ sá ← sá- ~ tá- (pronoun)
 
 “With the master of the field, our friend, we triumph; may he bestow upon us cattle, horses, nourishment, for by such (gifts) he makes us happy.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 With the master of the field: kṣetrasya patinā may be a reference to **Rudra** or **Agni**
 </details>
@@ -1864,7 +1883,8 @@ ____
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Normal
 
 ###### Pāda-label
@@ -1872,7 +1892,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 kṣétrasya ← kṣétra- (nominal stem)  
 {case:GEN, gender:N, number:SG}
 
@@ -2096,7 +2117,8 @@ ____
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
 ###### Pāda-label
@@ -2104,7 +2126,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 ágne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -2392,7 +2415,8 @@ ____
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Cretic
 
 ###### Pāda-label
@@ -2400,7 +2424,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -2697,7 +2722,8 @@ ____
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Archaic
 
 ###### Pāda-label
@@ -2705,7 +2731,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 agnáye ← agní- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -2841,7 +2868,8 @@ vā́jāḥ ← vā́ja- (nominal stem)
 
 “That (praise) which best conveys (our veneration, is due) to **Agni**; affluent in splendour, grant us, (Agni), great (wealth), for from you vast riches and ample food proceed.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Yajus**. 26.12; yad vahiṣṭham tad agnaye bṛhad **arca** vibhāvaso: addressed to the **udgātā**, the interpretation is: sing to Agni, that bṛhad **sāma** (a hymn of the **Sāmaveda**), which is the most effectual means of obtaining our desires; **mahiṣī** iva tvad rayistvad vājā udīrate: mahiṣī is the adjective of **rayi**, great riches, iveti **pūraṇaḥ**; alternatively, iva denotes a comparison, thus explaining the passage: as the first-married bride proceeds from her home to her hausband, prathamapariṇītā **strī** gṛhāt patim udgacchati so riches and food proceed to the worshipper, Agni, from you
 </details>
@@ -2977,14 +3005,16 @@ ____
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic
 
 ###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-###### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -3094,7 +3124,8 @@ yajñéṣu ← yajñá- (nominal stem)
 
 “**Agni**, who are a god among mortals, (and among gods), you are the guardian of religious obligations;you are to be hymned at sacrifices.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Among mortals: Agni, you, the divine, are among mortals (and among gods)the guardian of religious rites
 </details>
@@ -3213,7 +3244,8 @@ ____
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Cretic
 
 ###### Pāda-label
@@ -3221,7 +3253,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 praminā́ma ← √mī- 1 (root)  
 {number:PL, person:1, mood:SBJV, tense:PRS, voice:ACT}
 
@@ -3387,7 +3420,8 @@ yébhiḥ ← yá- (pronoun)
 
 “O gods, when we who are most ignorant neglect the offices addressed to you who are wise, may thewise **Agni** complete the whole by (appointing) those seasons by which he regulates the worship of the godṣ”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 May the wise Agni: may Agni complete the whole, knowing at what seasons he should appoint the gods (to beworshipped); lit. = with what seasons he shoudl fix the gods
 </details>

@@ -37,14 +37,16 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Normal
 
 ###### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M
-###### Morph
+_________
+**Morph**  
 ayám ← ayám (pronoun)  
 {case:NOM, gender:M, number:SG}
 

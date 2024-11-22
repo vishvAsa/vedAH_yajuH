@@ -52,7 +52,8 @@ title = "११ यम-यञः"
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -60,7 +61,8 @@ popular
 popular  
 popular  
 popular
-###### Morph
+_________
+**Morph**  
 aítam ← √i- 1 (root)  
 {number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
 
@@ -224,7 +226,8 @@ svāsasthé ← svāsasthá- (nominal stem)
 
 “When you two came, like twins, busily engaged, then devout worshipper brought you forward;knowing your plural ce there abide and be fair storehouses for our **Soma**.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Busily engaged: i.e., engaged in theperformance of your own duties of moving and bearing the oblation
 </details>
@@ -302,7 +305,8 @@ Als ihr herbeikamt wie zwei zusammengehende Schwestern, brachten euch die fromme
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -310,7 +314,8 @@ popular;; epic anuṣṭubh (424)
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
-###### Morph
+_________
+**Morph**  
 sómam ← sóma- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -502,7 +507,8 @@ Dem Jama keltert Somasaft, ergiesst dem Jama Opfertrank; Zu Jama geht das Opfer 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -510,7 +516,8 @@ popular;; epic anuṣṭubh (424)
 popular;; epic anuṣṭubh (424);; repeated line  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
-###### Morph
+_________
+**Morph**  
 ghr̥távat ← ghr̥távant- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -725,7 +732,8 @@ Den fettversehnen Opfertrank ergiesst dem Jama, tretet vor; Er lenk uns zu den G
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -733,7 +741,8 @@ popular
 popular  
 popular  
 popular
-###### Morph
+_________
+**Morph**  
 mádhumattamam ← mádhumattama- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 

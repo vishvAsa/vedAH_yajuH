@@ -57,7 +57,8 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Cretic
 
 ###### Pāda-label
@@ -65,7 +66,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 hr̥dā́ ← hā́rdi ~ hr̥d- (nominal stem)  
 {case:INS, gender:N, number:SG}
 
@@ -218,7 +220,8 @@ prajā́bhiḥ ← prajā́- (nominal stem)
 
 “Inasmuch as I who am a mortal earnestly invoke you who are an immortal, praising you with a devoted heart; therefore, **Jātavedas**, grant us food, and may I obtain immortality through my posterity.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Immortality: an unbroken succession of descendants, amṛtatvam santatyaviccheda lakṣaṇam (amṛtatvam = tadu te partyāmṛtam : **Taittirīya** **Brāhmaṇa** 1.5.5.6); another text may be cited: prajām anu prajāyate tad u te martyamṛtam, when progeny is born after progeny, that verily is the immortality of your mortality
 </details>
@@ -333,7 +336,8 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Cretic
 
 ###### Pāda-label
@@ -341,7 +345,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 jātavedaḥ ← jātávedas- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -613,14 +618,16 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic
 
 ###### Pāda-label
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 putra ← putrá- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -800,7 +807,8 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic
 
 ###### Pāda-label
@@ -808,7 +816,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 índram ← índra- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -1195,7 +1204,8 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Cretic
 
 ###### Pāda-label
@@ -1203,7 +1213,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -1475,14 +1486,16 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Normal
 
 ###### Pāda-label
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -1775,14 +1788,16 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
 ###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-###### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -1889,7 +1904,8 @@ samidhyáse ← √idh- 1 (root)
 
 “You, **Agni**, are kindled by Agni; a sage by a sage, saint by a saint, a friend by a friend.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 A saint by asaint: San, satā = vidyamānaḥ, vidyamānena; **Aitareya** **Brāhmaṇa** 1.16: the fire was produced by frictionfrom the two **araṇis** and was thrown into the **āhavanīya** fire, in the atithyeṣṭi ceremony; in the verse tvamhyagne..., the one **vipra** (a sage) means one Agni, the other vipra the other Agni; the one san (being, existing)means the one, the other san (in satā) the other Agni (Haug)
 </details>
@@ -1997,14 +2013,16 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
 ###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-###### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -2207,7 +2225,8 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
 ###### Pāda-label
@@ -2215,7 +2234,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 agníḥ ← agní- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 

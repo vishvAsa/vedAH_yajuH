@@ -47,7 +47,8 @@ title = "१३ काम्येष्टयः"
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Normal
 
 ###### Pāda-label
@@ -55,7 +56,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 áha ← áha (invariable)  
 {}
 
@@ -299,7 +301,8 @@ Dem Indra gaben Monde nach und Wälder, dem Indra die Gewächse und die Berge, D
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Archaic
 
 ###### Pāda-label
@@ -307,7 +310,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 ánu ← ánu (invariable)  
 {}
 
@@ -640,7 +644,8 @@ Shall her husband die of old age.
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -649,7 +654,8 @@ popular;; epic anuṣṭubh (525)
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line
-###### Morph
+_________
+**Morph**  
 ahám ← ahám (pronoun)  
 {case:NOM, number:SG}
 
@@ -893,7 +899,8 @@ Doch, o Indrānī, ich habe keine Freude ohne diesen Genossen, den Vrischākapi,
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Cretic
 
 ###### Pāda-label
@@ -901,7 +908,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 evá ← evá (invariable)  
 {}
 
@@ -1060,7 +1068,8 @@ sá ← sá- ~ tá- (pronoun)
 
 “He, who as soon as born,is the first (of the deities); who has done honour to the gods by his exploits; he, at whose might heaven and earth are alarmed, and (who is known) by the greatness of his strength, he, men, is **Indra**.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Who has done honour to the gods by his exploits: who has preserved or protected them, or has surpassed them: prayarakṣad atyakrāmad iti vā (**Nirukta** 10.10); **Atharvaveda** 20.34; he, men, is Indra: sa janāsa Indra = **janā**, he **asurāḥ**; the legend: **Gṛtsamada**,by his devotions, acquired a form as vast as that of Indra, visible at once in heaven, in the firmament, and on earth; the two **asuras**, **Dhuni** and Cumuri \[Bṛhaddevatā 4.66-67), mistaking him, therefore, for Indra, were proceeding to attack him, when he arrested their advance by repearing this hymn, intimating that he was not Indra; another legend: when Indra and the gods were present at a sacrifice celebrated by **Vainya**, Gṛtsamada was one of the officiating priests; the asuras came to the spot to kill Indra, who, assuming the likeness of Gṛtsamada, went away without question; when the assembly broke up, and Gṛtsamada went out, the asuras, who had been lying in wait, considered him to be Indra, and were about to fall upon him, when he diverted from their purpose by reciting this hymn, showing that Indra was a different person n; another legend: Indra came alone to the sacrifice of Gṛtsamada, and being, as before away laid by the asuras, asumed the person n of the ṛṣi and coming forth, returned to **svarga**; after waiting sometime, the asuras entered the chamber of sacrifice, and laid hold of Gṛtasamads, conceving that Indra had assumed his person n until they were person aded of their mistake by the repetition of the entire **sūkta** (**Mahābhārata**)
 </details>
@@ -1177,7 +1186,8 @@ Der kaum geboren, kühngesinnt die Götter der Gott zuerst mit Muth und Kraft be
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic
 
 ###### Pāda-label
@@ -1185,7 +1195,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -1481,7 +1492,8 @@ Zur Hülfe flieg' aus deinen Armen, Indra, dein Blitz herbei, des grossen, kühn
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic
 
 ###### Pāda-label
@@ -1489,7 +1501,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -1815,7 +1828,8 @@ Versäume nicht uns, bringe her das viele, was dein ja ist, dem Frommen es zu sc
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Cretic on metrical evidence alone
 
 ###### Pāda-label
@@ -1823,7 +1837,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -2216,7 +2231,8 @@ Be thou health and wealth to the sacrificer.
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
 ###### Pāda-label
@@ -2224,7 +2240,8 @@ genre M
 genre M  
 genre M  
 genre M;; repeated line
-###### Morph
+_________
+**Morph**  
 ávobhiḥ ← ávas- (nominal stem)  
 {case:INS, gender:N, number:PL}
 
@@ -2542,7 +2559,8 @@ Schönschirmend sei, der alles kennet, Indra, und gnadenreich, mit Hülfen kräf
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
 ###### Pāda-label
@@ -2550,7 +2568,8 @@ genre M;; repeated line
 genre M;; repeated line  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 sumataú ← sumatí- (nominal stem)  
 {case:LOC, gender:F, number:SG}
 

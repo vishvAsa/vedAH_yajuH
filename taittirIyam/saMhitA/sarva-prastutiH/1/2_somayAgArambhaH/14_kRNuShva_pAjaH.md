@@ -52,7 +52,8 @@ title = "१४ कृणुष्व पाजः"
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic
 
 ###### Pāda-label
@@ -60,7 +61,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 kr̥ṇuṣvá ← √kr̥- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
 
@@ -240,7 +242,8 @@ swiftly hurling your net, shooting your missiles, pierce the rakShas with your i
 
 “Put forth your strength, **Agni**, as a fowler spreads a capacious snare; proceed like a king attended by his followers on his elephant; you are the scatterer (of your foes); following the swift-moving host consume the **rākṣasas** with your fiercest flames.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Yajus**. 13.9; like a king attended: rājevāmavān ibhena: **ibha** may also mean fearless, gatabhayena;or, hastinā;
 
@@ -377,7 +380,8 @@ Breit aus dein Licht wie eine weite Heerschar, gleich mächt'gem König geh mit 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic
 
 ###### Pāda-label
@@ -385,7 +389,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 āśuyā́ ← āśuyā́ (invariable)  
 {}
 
@@ -660,7 +665,8 @@ Es fliegen eilend deine Wirbelflammen, folg auf dem Fuss mit kühnem Muthe strah
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic
 
 ###### Pāda-label
@@ -668,7 +674,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 práti ← práti (invariable)  
 {}
 
@@ -860,7 +867,8 @@ Dispatch your spies forward, the fast moving one, being undeceived, the guardian
 
 “Do you, who are most rapid, direct your (flames) against opposing (rays), and, unresisted, become the protector of this your people against the calumniator who is remote or who is nigh; let no malevolent (foe) prevail against us (who are) your worshippers.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Direct your flames against opposing rays: **prati** spaśo viṛja: spaśaḥ = parabādhakān raśmin; or, it may mean, caran, spies, sent to determine between true and false, satyanṛtavivekāītham; praṇidhin may also mean binders, imprisoners, bandhanakṛtāḥ
 </details>
@@ -982,7 +990,8 @@ Zum Schutze sende eilig deine Späher, sei zuverläss'ger Hüter dieses Hauses; 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic
 
 ###### Pāda-label
@@ -990,7 +999,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -1184,7 +1194,8 @@ Rise, O agni, blaze before us, one with sharp missiles, burn down our foes. Oh a
 
 “Sharp-weaponed **Agni**, rise up; spread wide (your flames) against (the **rākṣasas**); entirely consume the foes; blazing Agni, burn down him who acts as an enemy towards us like a piece of dry timber.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Who acts as an enemy: āratim cakre may also mean, who annuls or prevents our donation, one who makes a gift no gift
 </details>
@@ -1303,7 +1314,8 @@ Erheb dich, Agni, spanne deinen Bogen, mit scharfer Waffe brenn die Feinde niede
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic
 
 ###### Pāda-label
@@ -1311,7 +1323,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 ádhi ← ádhi (invariable)  
 {}
 
@@ -1492,7 +1505,8 @@ Slacken the firm bows of the inciters of yAtus, destroy our foemen whether from 
 
 “Rise up, **Agni**, chastise those who overpower us; manifest your divine energies; slacken the strone (bow strings) of the malignant kings; destroy those (who are hostile), whether kindred or unallied.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Jāmim ajāmim = bandhum abandhum; or, whether formerly overcome or not;
 
@@ -1621,7 +1635,8 @@ Erheb dich, jage fort von uns die Feinde, mach kund, o Agni, deine Götterkräft
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic
 
 ###### Pāda-label
@@ -1629,7 +1644,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 jānāti ← √jñā- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -1807,7 +1823,8 @@ ví ← ví (invariable)
 
 “He experiences your good favour, young (of the gods), who offers praise to you a **Brahman**, coming quickly (to bestow felicity); to him are all prosperous days and wealth (of cattle) and treasures; do you as the lord of sacrifice, shine upon his dwelling.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 A brahman coming quickly: ivate brahmaṇe, i.e., parivṛdhāya, to the greatly augmented; shine upon his dwelling: aryo vi duro abhidyaut, he the worshipper especially shines over his house, aryo yajamāno gṛhān abhi viśeṣeṇa dyotate
 </details>
@@ -1928,7 +1945,8 @@ Der spüret recht, o jüngster, deine Güte, wer einer solchen Andacht Fortgang 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic
 
 ###### Pāda-label
@@ -1936,7 +1954,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -2256,7 +2275,8 @@ Nur der sei glücklich, reich an Gut, o Agni, der dich mit stetem Opferguss und 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic
 
 ###### Pāda-label
@@ -2264,7 +2284,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 árcāmi ← √r̥c- (root)  
 {number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
 
@@ -2437,7 +2458,8 @@ kṣatrā́ṇi ← kṣatrá- (nominal stem)
 
 “I reverence your good favour, **Agni**; may this reiterated and resounding hymn convey due praise to your presence; may we be possessed of good horses and good cars, that we may pay you homage; and do you daily bestow upon us riches.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Good horses and good cars: a metaphor: may we, being with the sons, grandsons worship you
 </details>
@@ -2558,7 +2580,8 @@ Ich sing' ein Lied dir, in der Näh' erschall' es; dir soll erklingen dieses lie
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic
 
 ###### Pāda-label
@@ -2566,7 +2589,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -2844,7 +2868,8 @@ Es soll dir vieles hier zum Dienst bereit stehn, der du erglänzest täglich mor
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic
 
 ###### Pāda-label
@@ -2852,7 +2877,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -3130,7 +3156,8 @@ Wer zu dir kommt an Rossen reich und Goldschmuck, o Agni, und mit schatzbeladnem
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic
 
 ###### Pāda-label
@@ -3138,7 +3165,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 bandhútā ← bandhútā- (nominal stem)  
 {case:INS, gender:F, number:SG}
 
@@ -3437,7 +3465,8 @@ Durch meiner Sippe Lieder schlag' ich Helden; das kam auf mich von Gotama, dem V
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic
 
 ###### Pāda-label
@@ -3445,7 +3474,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 ásvapnajaḥ ← ásvapnaj- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -3693,7 +3723,8 @@ Die schlummerlosen, eilenden, getreuen, sehr holden, die nicht rasten, noch erm�
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic
 
 ###### Pāda-label
@@ -3701,7 +3732,8 @@ genre M;; repeated line
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line
-###### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -3872,7 +3904,8 @@ ripávaḥ ← ripú- (nominal stem)
 
 “Those your protecting (rays), **Agni**, which, beholding (what had chanced), preserved the blind son of **Mamatā** from misfortune; he, knowing all things, cherished those benevolent (rays), and his enemies, intending to destroy him, wrought him no harm.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Preserved the blind son: an allusion to the legend of the birth of **Dīrghatamas**, who recovered his sight by worshipping Agni; cherished those benevolent rays: **rakṣa** tān sukṛto viśvavedā: viśvavedas may apply to Agni or to Dīrghatamas; by adding, bhavān, your honour, the term seems to apply to Agni
 </details>
@@ -3995,7 +4028,8 @@ Den Mamateja schützten deine Hüter, den Blinden sehend, vor Gefahr, o Agni; De
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic
 
 ###### Pāda-label
@@ -4003,7 +4037,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 sadhanyàḥ ← sadhanī́- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -4245,7 +4280,8 @@ Von dir geleitet mögen wir erlangen, von dir geschützt, durch deine Führung, 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic
 
 ###### Pāda-label
@@ -4253,7 +4289,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -4526,7 +4563,8 @@ Wir huld'gen, Agni, dir mit diesem Brennholz, empfange du das ausgesprochne Lobl
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -4534,7 +4572,8 @@ popular
 popular  
 popular  
 popular;; repeated line
-###### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -4786,7 +4825,8 @@ Ich netz' mit Fett den starken Rakschastödter und geh den Freund um ausgedehnte
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
 ###### Pāda-label
@@ -4794,7 +4834,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 agníḥ ← agní- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -5075,7 +5116,8 @@ Mit hellem Glanze strahlet weithin Agni, in Herrlichkeit macht alles offenbar er
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
 ###### Pāda-label
@@ -5083,7 +5125,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 agnéḥ ← agní- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 

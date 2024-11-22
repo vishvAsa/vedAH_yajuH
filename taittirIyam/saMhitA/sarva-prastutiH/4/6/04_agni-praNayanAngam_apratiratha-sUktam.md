@@ -44,7 +44,8 @@ title = "०४ अग्निप्रणयनाङ्गमप्रति�
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -52,7 +53,8 @@ popular
 popular  
 popular  
 popular
-###### Morph
+_________
+**Morph**  
 āśúḥ ← āśú- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -289,7 +291,8 @@ Der schnelle, der gleich wildem Stier erregt ist, der starke Kämpfer, der die M
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -297,7 +300,8 @@ popular
 popular  
 popular  
 popular
-###### Morph
+_________
+**Morph**  
 animiṣéṇa ← animiṣá- (nominal stem)  
 {case:INS, gender:M, number:SG}
 
@@ -517,7 +521,8 @@ Mit ihm, dem Donnrer, der nicht schlummernd Sieg gewinnt, der Schlacht erregt vo
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -525,7 +530,8 @@ popular
 popular  
 popular  
 popular
-###### Morph
+_________
+**Morph**  
 íṣuhastaiḥ ← íṣuhasta- (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -765,7 +771,8 @@ Mit seiner Schar, die Pfeile trägt und Köcher, theilt seine Kämpfe der gewalt
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -773,7 +780,8 @@ popular
 popular  
 popular  
 popular
-###### Morph
+_________
+**Morph**  
 bŕ̥haspate ← bŕ̥haspáti- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -997,7 +1005,8 @@ Brihaspati, flieg' her mit deinem Wagen, Gespenster tödtend, jeden Feind verjag
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -1005,7 +1014,8 @@ popular
 popular  
 popular  
 popular
-###### Morph
+_________
+**Morph**  
 gotrabhídam ← gotrabhíd- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -1158,7 +1168,8 @@ ____________
 
 “Imitate in heroism, you kindred warriors, follow, friends, in prowess this **Indra**, who is the breaker ofmountains, the acquirer of water, armed with the thunderbolt, conquering the swift (foe), destroying (the enemy)by his might.”
 
-##### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Breaker of mountains: or of clouds; or of **gotras** (a race of **asuras**);
 
@@ -1243,7 +1254,8 @@ Der blitzbewehrt den Stall erschliesst, die Kühe erringt und Bahn sich bricht m
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -1251,7 +1263,8 @@ popular
 popular  
 popular  
 popular
-###### Morph
+_________
+**Morph**  
 balavijñāyáḥ ← balavijñāyá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -1415,7 +1428,8 @@ _______________
 
 “Known by his strength mighty, heroic, overpowering, vigorous, enduring, fierce, attended by heroes,attended by mighty men, the offspring of strength, the possessor of water, do you, **Indra**, ascend your triumphantchariot.”
 
-##### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Water: govit, knowing or accepting the song of praise
 </details>
@@ -1499,7 +1513,8 @@ Durch Stärke kenntlich, fest, der Helden kühnster, siegreich, gewaltig, stark 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -1507,7 +1522,8 @@ popular;; 12 = 5+7, ending LHX
 popular  
 popular  
 popular
-###### Morph
+_________
+**Morph**  
 abhí ← abhí (invariable)  
 {}
 
@@ -1727,7 +1743,8 @@ Der mit Gewalt sich in die Ställe eintaucht, Held Indra ohne Mitleid vielfach z
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -1735,7 +1752,8 @@ popular;; 11 = 4+7, ending HLX
 popular  
 popular  
 popular
-###### Morph
+_________
+**Morph**  
 āsām ← ayám (pronoun)  
 {case:GEN, gender:F, number:PL}
 
@@ -1871,7 +1889,8 @@ _______________
 
 “May **Indra** be the leader of these (hosts), may **Bṛhaspati**, **Dakṣiṇā**, **Yajña**, and **Soma** go before, letthe **Maruts** march in the van of the destroying and victorious armies of the gods.”
 
-##### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Dakṣiṇā: not a proper name;may the **yajña- puruṣa** (i.e., **Viṣṇu**) go on the right and Soma go before
 </details>
@@ -1954,7 +1973,8 @@ Ihr Führer sei uns Indra und Brihaspati, vor dringe Opfer, Opferlohn und Soma, 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -1962,7 +1982,8 @@ popular
 popular  
 popular  
 popular
-###### Morph
+_________
+**Morph**  
 índrasya ← índra- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -2177,7 +2198,8 @@ Des Königs Varuna, des Helden Indra, der Maruts, der Aditja's Schar ist mächti
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -2185,7 +2207,8 @@ popular;; 12 = 5+7, ending LHX
 popular  
 popular  
 popular
-###### Morph
+_________
+**Morph**  
 asmā́kam ← ahám (pronoun)  
 {case:GEN, number:PL}
 
@@ -2425,7 +2448,8 @@ Es schirme unsre Kämpf' und Fahnen Indra; es seien unsre Pfeile, die da siegen,
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -2433,7 +2457,8 @@ popular
 popular  
 popular  
 popular
-###### Morph
+_________
+**Morph**  
 ā́yudhāni ← ā́yudha- (nominal stem)  
 {case:NOM, gender:N, number:PL}
 

@@ -40,7 +40,8 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Cretic
 
 ###### Pāda-label
@@ -48,7 +49,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 aratím ← aratí- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -218,7 +220,8 @@ One of the awe-inspiring motifs in shruti is that of agni at the head of heaven,
 
 “The gods have genitive rated vaśvānara **Agni**, as the brow of heaven, the unceasing pervader of earth, born for (the celebration of) sacrifice, wise, imperial, the guest of men, in whose mouth (is) the vessel (that conveys the oblation to the gods).”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Sāmaveda** 67,1140; **Yajurveda** 7.24; the gods: **deva** = priests who genitive rate Agni by attrition;
 

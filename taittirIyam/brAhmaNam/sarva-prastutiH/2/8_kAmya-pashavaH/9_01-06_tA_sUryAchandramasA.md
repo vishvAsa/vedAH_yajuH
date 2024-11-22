@@ -148,7 +148,8 @@ title = "९ ०१-०६ ता सूर्याचन्द्रमसा"
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Cretic
 
 ###### Pāda-label
@@ -156,7 +157,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 asyá ← ayám (pronoun)  
 {case:GEN, gender:M, number:SG}
 
@@ -302,7 +304,8 @@ ____________
 
 “The seven rivers display his glory; heaven, and earth, and sky display his visible form; the sun and moon, **Indra**,perform their revolution, that we may see, and have faith in what we see.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Ahi and **Vṛtra** are differently-formed clouds. **Rauhina** = an **asura**, possibly, a red cloud
 </details>

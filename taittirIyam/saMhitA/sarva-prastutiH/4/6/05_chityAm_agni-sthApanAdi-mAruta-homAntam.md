@@ -461,14 +461,16 @@ O All-gods [3], do ye sit with the sacrificer.
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic
 
 ###### Pāda-label
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -586,7 +588,8 @@ _____________
 
 “Well-kindled, youthful **Agni**, shine before us with undecaying radiance; to you abundant sacrificialviands proceed.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 With undecaying radiance: ajasrayā **sūrmyā**: surmi = samitkāṣṭham, kindled wood; or itmay mean a metal stake or **post**, red hot; therefore, figurately, it denotes a flame
 </details>
@@ -694,7 +697,8 @@ Entflammt, o Agni, strahle uns vor Augen mit deinem Licht, das nie verlischt, o 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Normal
 
 ###### Pāda-label
@@ -702,7 +706,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -869,7 +874,8 @@ ________________
 
 “We adore you, **Agni**, in your loftiest birth-(plural ce), and with hymns in thine inferior station; I worship that seat whence you have issued; the priests have offered you, when kindled oblations.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 In your loftiest birth-plural ce: Agni is worshipped in heaven as the Sun; in the firmament as lightning; and as the sacrificial fire kindled on the altar; **Yajurveda** 17.75
 </details>

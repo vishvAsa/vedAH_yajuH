@@ -182,7 +182,8 @@ Yoke, O Indra, thy two bay steeds [1].
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
 ###### Pāda-label
@@ -191,7 +192,8 @@ genre M
 genre M  
 genre M  
 genre M;; repeated line
-###### Morph
+_________
+**Morph**  
 ákṣan ← √ghas- (root)  
 {number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
 

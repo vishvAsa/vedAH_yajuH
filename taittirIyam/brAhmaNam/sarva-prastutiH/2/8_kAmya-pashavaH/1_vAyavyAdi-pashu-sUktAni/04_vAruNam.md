@@ -39,7 +39,8 @@ title = "०४ वारुणम्"
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ###### Pāda-label
@@ -47,7 +48,8 @@ popular
 popular  
 popular  
 popular
-###### Morph
+_________
+**Morph**  
 asmát ← ahám (pronoun)  
 {case:ABL, number:PL}
 
@@ -209,7 +211,8 @@ _______________
 
 “**Varuṇa**, loosen for me the upper, the middle, the lower band; so, son of **Aditi**, shall we, through faultlessness in the worship, become freed from siṇ”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Reference to the ligature fastening the head, the feet, and the waist; resulting in loosening from the bonds of sin: anāgasaḥ **syāma**, may we be sinless
 </details>
@@ -360,7 +363,8 @@ All these are Varuna's ordinances.
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-##### Strata
+_________
+**Strata**  
 Cretic
 
 ##### Pāda-label
@@ -368,7 +372,8 @@ genre M
 genre M  
 genre M  
 genre M
-##### Morph
+_________
+**Morph**  
 ca ← ca (invariable)  
 {}
 
@@ -616,7 +621,8 @@ Was wir auch hier, o Varuna, nach Menschen Art für Unrecht üben am Geschlecht 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-##### Strata
+_________
+**Strata**  
 Cretic
 
 ##### Pāda-label
@@ -624,7 +630,8 @@ genre M
 genre M  
 genre M  
 genre M
-##### Morph
+_________
+**Morph**  
 dīví ← dī́v- (nominal stem)  
 {case:LOC, gender:F, number:SG}
 
@@ -935,7 +942,8 @@ Wenn wir getäuscht beim Spiel wie falsche Spieler, wenn wir gefehlt, unwissend 
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-##### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ##### Pāda-label
@@ -943,7 +951,8 @@ popular
 popular  
 popular  
 popular
-##### Morph
+_________
+**Morph**  
 áva ← áva (invariable)  
 {}
 
@@ -1105,7 +1114,8 @@ _______________
 
 “**Varuṇa**, we deprecate your wrath with prostrations, with sacrifices, with oblations; averter of misfortune, wise and illustrious, be present amongst us, and mitigate the evils we have committed.”
 
-#### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **asura** = **aniṣṭa**-**kṣepaṇa**-**śila**, accusative tomed to cast off what is undesired; from seme, to throw
 </details>
@@ -1210,7 +1220,8 @@ O Varuna, wir wenden deinen Zorn ab, durch Opfer, durch Gebet, durch Trankesspen
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-##### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 ##### Pāda-label
@@ -1218,7 +1229,8 @@ popular
 popular  
 popular  
 popular
-##### Morph
+_________
+**Morph**  
 bráhmaṇā ← bráhman- (nominal stem)  
 {case:INS, gender:N, number:SG}
 
@@ -1397,7 +1409,8 @@ prá ← prá (invariable)
 
 “Praising you with (devout) prayer, I implore you for that (life) which the instrumental tutor of the sacrifice solicits with oblations; **Varuṇa**, undisdainful, bestow a thought upon us; much-lauded, take not away our existence.”
 
-#### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The term, tadāyus is supplied in the context of **māna** āyuḥ pramoṣiḥ = do not take away our life
 </details>

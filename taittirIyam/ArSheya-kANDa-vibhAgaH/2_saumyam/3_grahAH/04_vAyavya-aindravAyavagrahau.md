@@ -39,7 +39,8 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic
 
 ###### Pāda-label
@@ -47,7 +48,8 @@ genre M
 genre M  
 genre M  
 genre M
-###### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -245,7 +247,8 @@ _______________
 
 “Drinker of the pure (**Soma**), **Vāyu**, come to us as your **Niyut** are thousands; oḥ, you who are desired ofall, I offer you, the exhilarating (sacrificial) food, of which you, deity, have the prior drinking.”
 
-###### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Offer you: upayāmi:as applied to Soma, which is brought in a vessel called upayāma, upayātam pātre gṛhītam
 </details>
@@ -403,14 +406,16 @@ _______
 </details>
 <details><summary>Vedaweb annotation</summary>
 
-###### Strata
+_________
+**Strata**  
 Strophic
 
 ###### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-###### Morph
+_________
+**Morph**  
 imé ← ayám (pronoun)  
 {case:NOM, gender:M, number:PL}
 
