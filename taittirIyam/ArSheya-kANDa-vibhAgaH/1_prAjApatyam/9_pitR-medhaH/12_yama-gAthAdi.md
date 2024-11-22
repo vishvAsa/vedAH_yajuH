@@ -2,13 +2,13 @@
 title = "१२ यम-गाथादि"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/04_pitR-medhAdi/12_yama-gAthAdi"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/04_pitR-medhAdi/05_yama-yajnaH"  newLevelForH1="1" includeTitle="true">
 
 
 Source: [भास्करः](https://archive.org/details/taittiriya/taittiriya_aranyaka_bhaskara_01/page/n348/mode/1up?view=theater)
 
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/12_yama-gAthAdi/02_yo-sya_kauShThya.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yajnaH/02_yo-sya_kauShThya.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 योऽस्य॒ +++(गोत्रेण)+++ कौष्ठ्य॒! जग॑तः॒  
@@ -17,7 +17,7 @@ Source: [भास्करः](https://archive.org/details/taittiriya/taittiriy
 यो राजा॑ ऽनप॒रोद्ध्यः॑ ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/04_pitR-medhAdi/12_yama-gAthAdi/02_yo-sya_kauShThya.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/04_pitR-medhAdi/05_yama-yajnaH/02_yo-sya_kauShThya.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -26,7 +26,7 @@ Source: [भास्करः](https://archive.org/details/taittiriya/taittiriy
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/12_yama-gAthAdi/03_yama~N_gAya.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yajnaH/03_yama~N_gAya.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 य॒मङ् **गाय॑** +++(नाम्ना)+++ भङ्ग्य॒श्रवो॒!  
@@ -35,7 +35,7 @@ Source: [भास्करः](https://archive.org/details/taittiriya/taittiriy
 येन॒ द्यौः पृ॑थि॒वी **दृ॒ढा** ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/04_pitR-medhAdi/12_yama-gAthAdi/03_yama~N_gAya.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/04_pitR-medhAdi/05_yama-yajnaH/03_yama~N_gAya.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -44,7 +44,7 @@ Source: [भास्करः](https://archive.org/details/taittiriya/taittiriy
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/12_yama-gAthAdi/04_hiraNyakaxyAn_sudhurAn.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yajnaH/04_hiraNyakaxyAn_sudhurAn.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 हि॒र॒ण्य॒-क॒क्ष्यान्+++(=कुक्षीन्)+++ सु॒-धुरान्॑  
@@ -54,7 +54,7 @@ Source: [भास्करः](https://archive.org/details/taittiriya/taittiriy
 +++(आरण्यकः स्वरव्यत्ययः।)+++
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/04_pitR-medhAdi/12_yama-gAthAdi/04_hiraNyakaxyAn_sudhurAn.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/04_pitR-medhAdi/05_yama-yajnaH/04_hiraNyakaxyAn_sudhurAn.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -63,7 +63,7 @@ Source: [भास्करः](https://archive.org/details/taittiriya/taittiriy
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/12_yama-gAthAdi/05_yamo_dAdhAra.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yajnaH/05_yamo_dAdhAra.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 य॒मो **दा॑धार** पृथि॒वीय्ँ  
@@ -72,7 +72,7 @@ Source: [भास्करः](https://archive.org/details/taittiriya/taittiriy
 यत् **प्रा॒णद्** वा॒युर् अ॑ख्षि॒तम् ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/04_pitR-medhAdi/12_yama-gAthAdi/05_yamo_dAdhAra.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/04_pitR-medhAdi/05_yama-yajnaH/05_yamo_dAdhAra.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -81,7 +81,7 @@ Source: [भास्करः](https://archive.org/details/taittiriya/taittiriy
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/12_yama-gAthAdi/06_yathA_pancha.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yajnaH/06_yathA_pancha.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 यथा॒ पञ्च॒, यथा॒ षड्  
@@ -91,7 +91,7 @@ Source: [भास्करः](https://archive.org/details/taittiriya/taittiriy
 +++(आरण्यकः स्वरव्यत्ययः।)+++
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/04_pitR-medhAdi/12_yama-gAthAdi/06_yathA_pancha.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/04_pitR-medhAdi/05_yama-yajnaH/06_yathA_pancha.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 

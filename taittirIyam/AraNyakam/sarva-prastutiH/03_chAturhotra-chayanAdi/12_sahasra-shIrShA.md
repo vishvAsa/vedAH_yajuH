@@ -3624,13 +3624,15 @@ where the ancient Sādhyas and the gods are.
 </details>
 <details><summary>Whitney</summary>
 
-###### Translation
+_________
+**Translation**  
 1. By the sacrifice the gods sacrificed to the sacrifice; those were  
    the first ordinances (*dhárman*); those greatnesses attach themselves to  
    (*sac*) the firmament, where are the ancient (*pū́rva*) perfectible  
    (*sādhyá*) gods.
 
-###### Notes
+_________
+**Notes**  
 The verse is RV. i. 164. 50,\* found also in VS. (xxxi. 16), TS. (iii.
 5. 11⁵), TA. (iii. 12. 7), MS. (iv. 10. 3), CB. (x. 2. 2³, with  
    comment); ⌊*Kaṭha-hss.*, p. 83;⌋ the only variant is *sacante* for  

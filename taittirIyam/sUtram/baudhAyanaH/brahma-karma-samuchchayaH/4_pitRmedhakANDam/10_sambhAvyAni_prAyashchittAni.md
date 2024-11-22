@@ -24,7 +24,7 @@ title = "१० सम्भाव्यानि प्रायश्चित
 शिला-नाशे  
 ऽन्यच्-छिला-त्रयं पूर्ववत् **प्रतिष्ठाप्यावाह्य स्पृष्ट्वा जपेत्** -
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yaJNaH/02_AyAtu_devas.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yaJNaH/01_AyAtu_devas.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 **आया॑तु** दे॒वस् सु॒मना॑भिर् ऊ॒तिभि॑र्  

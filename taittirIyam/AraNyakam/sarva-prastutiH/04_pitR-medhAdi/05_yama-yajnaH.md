@@ -25,7 +25,7 @@ title = "११ यम-यञः"
 
 ## आवाहनम्
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yajnaH/02_AyAtu_devas.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yajnaH/01_AyAtu_devas.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 **आया॑तु** दे॒वस् सु॒मना॑भिर् ऊ॒तिभि॑र्  
@@ -35,7 +35,7 @@ title = "११ यम-यञः"
 +++(आरण्यक-स्वर-व्यत्ययः॥)+++
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/04_pitR-medhAdi/05_yama-yajnaH/02_AyAtu_devas.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/04_pitR-medhAdi/05_yama-yajnaH/01_AyAtu_devas.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -343,6 +343,25 @@ Als ihr herbeikamt wie zwei zusammengehende Schwestern, brachten euch die fromme
 </details>
 </div>
 
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+3अथ प्रस्तरं मध्यमवेद्यां विष्टरे निधाय अभिमन्त्रयते -  
+'इमं यम प्रस्तरम्' इति तिसृभिः पवित्रपाणिर् अर्घ्य-पाद्य-स्नानाचमनीय-गन्ध-पुष्प-धूप-दीप-माल्यैर् इत्य् एतैर् अभ्यर्च्य  
+मध्यमेन अन्तिमेन वा पलाशपर्णेन जुहोति -  
+यमाय अन्तकाय   
+धर्माय अधर्माय  
+अन्ताय अनन्ताय  
+वैवस्वताय मृत्यवे विष्णवे  
+इति । 
+
+व्याहृतिभिर् व्यस्ताभिः समस्ताभिश्च हुत्वा  
+अर्कपर्णान्य् औदुम्बरपर्णानि वा निधाय  
+मध्यमस्यामुत्तरवेद्यां यमाय हविर् निवेदयन्ते - यमायेति ॥  
+इतःपरे अनुष्टुभः । 
+</details>
+
+## हविर्-निवेदनम्
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/014/13_yamAya_somaM.md">
 <details open><summary><h5>१३ यमाय सोमं ...{Loading}...</h5></summary>
 
@@ -572,6 +591,14 @@ Dem Jama keltert Somasaft, ergiesst dem Jama Opfertrank; Zu Jama geht das Opfer 
 </details>
 </details>
 </div>
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+4प्रतीच्याम् उत्तरवेद्यां हविर्निवेदनम् - यमाय घृतवदिति ॥ 
+</details>
+
+
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/014/14_yamAya_ghRtavaddhavirjuhota.md">
 <details open><summary><h5>१४ यमाय घृतवद्धविर्जुहोत ...{Loading}...</h5></summary>
 
@@ -832,6 +859,13 @@ Den fettversehnen Opfertrank ergiesst dem Jama, tretet vor; Er lenk uns zu den G
 </details>
 </details>
 </div>
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+5प्राच्यां - 
+</details>
+
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/014/15_yamAya_madhumattamaM.md">
 <details open><summary><h5>१५ यमाय मधुमत्तमं ...{Loading}...</h5></summary>
 
@@ -1042,3 +1076,108 @@ Dem König Jama giesset nun die Butter zu, die süsseste; Bringt dies Gebet den 
 </details>
 </details>
 </div>
+
+## परिगानम्
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+6योऽस्य कौष्ठ्येति तिसृभिर् यमगाथाभिस् त्रिः-प्रसव्यम् अप्रदक्षिणं परिगायन्ति - 
+</details>
+
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yajnaH/02_yo-sya_kauShThya.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+योऽस्य॒ +++(गोत्रेण)+++ कौष्ठ्य॒! जग॑तः॒  
+पार्थि॑व॒स्यैक॑ इद् व॒शी ।  
+य॒मं +++(नाम्ना)+++ भ॑ङ्ग्य-श्र॒वो! **गा॑य॒**  
+यो राजा॑ ऽनप॒रोद्ध्यः॑ ।
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/04_pitR-medhAdi/05_yama-yajnaH/02_yo-sya_kauShThya.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details><summary>मूलम्</summary>
+
+योऽस्य॒ कौष्ठ्य॒ जग॑तः॒ पार्थि॑व॒स्यैक॑ इद्व॒शी ।  
+य॒मं भ॑ङ्ग्यश्र॒वो गा॑य॒ यो राजा॑नप॒रोद्ध्यः॑ ।
+</details>
+</details>
+</div>
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yajnaH/03_yama~N_gAya.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+य॒मङ् **गाय॑** +++(नाम्ना)+++ भङ्ग्य॒श्रवो॒!  
+यो राजा॑ ऽनप॒रोद्ध्यः॑ ।  
+येना॒पो न॒द्यो॑ धन्वा॑नि॒+++(=मरुभूमयः)+++  
+येन॒ द्यौः पृ॑थि॒वी **दृ॒ढा** ।
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/04_pitR-medhAdi/05_yama-yajnaH/03_yama~N_gAya.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details><summary>मूलम्</summary>
+
+य॒मङ्गाय॑ भङ्ग्य॒श्रवो॒ यो राजा॑नप॒रोद्ध्यः॑ ।  
+येना॒पो न॒द्यो॑ धन्वा॑नि॒ येन॒ द्यौः पृ॑थि॒वी दृ॒ढा ।
+</details>
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yajnaH/04_hiraNyakaxyAn_sudhurAn.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+हि॒र॒ण्य॒-क॒क्ष्यान्+++(=कुक्षीन्)+++ सु॒-धुरान्॑  
+हिरण्या॒ख्षान् अ॑यश्-श॒फान् ।  
+अश्वा॑न् अ॒नश्य॑तो दा॒न॒य्ँ  
+य॒मो रा॑जाभि॒ **तिष्ठ॑ति** ।  
++++(आरण्यकः स्वरव्यत्ययः।)+++
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/04_pitR-medhAdi/05_yama-yajnaH/04_hiraNyakaxyAn_sudhurAn.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details><summary>मूलम्</summary>
+
+हि॒र॒ण्य॒क॒क्ष्यान् सु॒धुरान्॑ हिरण्या॒ख्षान॑यश्श॒फान् ।  
+अश्वा॑न॒नश्य॑तो दा॒न॒य्ँय॒मो रा॑जाभि॒ तिष्ठ॑ति ।
+</details>
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yajnaH/05_yamo_dAdhAra.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+य॒मो **दा॑धार** पृथि॒वीय्ँ  
+य॒मो विश्व॑म् इ॒दञ् जग॑त् ।  
+य॒माय॒ सर्व॒म् इत् **त्र॑स्थे॒**+++(←उद्वेगे)+++  
+यत् **प्रा॒णद्** वा॒युर् अ॑ख्षि॒तम् ।
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/04_pitR-medhAdi/05_yama-yajna/05_yamo_dAdhAra.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details><summary>मूलम्</summary>
+
+य॒मो दा॑धार पृथि॒वीय्ँय॒मो विश्व॑मि॒दञ्जग॑त् ।  
+य॒माय॒ सर्व॒मित्त्र॑स्थे॒ यत् प्रा॒णद्वा॒युर॑ख्षि॒तम् ।
+</details>
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yajnaH/06_yathA_pancha.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+यथा॒ पञ्च॒, यथा॒ षड्  
+य॒था पञ्च॑द॒श-र्ष॑यः ।  
+य॒मय्ँ यो **वि॑द्या॒थ्** स **ब्रू॑याद्**  
+य॒थैक ऋषि॑र् **विजान॒ते** ।  
++++(आरण्यकः स्वरव्यत्ययः।)+++
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/04_pitR-medhAdi/05_yama-yajnaH/06_yathA_pancha.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details><summary>मूलम्</summary>
+
+यथा॒ पञ्च॒ यथा॒ षड्य॒था पञ्च॑ द॒शर्ष॑यः ।  
+य॒मय्ँ यो वि॑द्या॒थ्स ब्रू॑याद्य॒थैक ऋषि॑र्विजान॒ते ।
+</details>
+</details>
+</div>
+
+
+(12)  
