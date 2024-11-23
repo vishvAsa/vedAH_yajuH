@@ -2,6 +2,8 @@
 title = "०३ यम-सूक्तम्"
 
 +++
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/04_pitR-medhAdi/03_yama-sUktam"  newLevelForH1="1" includeTitle="true">
+
 
 ## अनुशासनम्
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -292,3 +294,5 @@ title = "०३ यम-सूक्तम्"
     
 इत्यारण्यके चतुर्थे तृतीयोऽनुवाकः ॥
 </details>
+
+</div>

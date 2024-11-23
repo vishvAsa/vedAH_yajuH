@@ -2,6 +2,8 @@
 title = "०२ दक्षिणतः पृथिवी होता"
 
 +++
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/02_daxiNataH_pRthivI_hotA"  newLevelForH1="1" includeTitle="true">
+
 
 ## होता
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -113,3 +115,5 @@ title = "०२ दक्षिणतः पृथिवी होता"
 ज॒जन॒दिन्द्र॑मिन्द्रि॒याय॒ स्वाहा᳚ ॥ (2) 
 
 </details>
+
+</div>

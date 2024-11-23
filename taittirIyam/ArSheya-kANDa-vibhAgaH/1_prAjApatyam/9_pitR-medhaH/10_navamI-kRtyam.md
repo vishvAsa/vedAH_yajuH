@@ -2,6 +2,8 @@
 title = "१० नवमी-कृत्यम्"
 
 +++
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/04_pitR-medhAdi/10_navamI-kRtyam"  newLevelForH1="1" includeTitle="true">
+
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -288,3 +290,5 @@ title = "१० नवमी-कृत्यम्"
 यवोसीति निगदसिद्धम् । यवय अस्मत्तः पृथक्कुरु ॥  
 इत्यारण्यके चतुर्थे दशमोऽनुवाकः ॥
 </details>
+
+</div>

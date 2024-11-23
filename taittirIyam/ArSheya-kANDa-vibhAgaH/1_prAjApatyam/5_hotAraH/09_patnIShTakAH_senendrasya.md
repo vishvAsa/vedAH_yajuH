@@ -2,6 +2,8 @@
 title = "०९ पत्नीष्टकाः सेनेन्द्रस्य"
 
 +++
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/09_patnIShTakAH_senendrasya"  newLevelForH1="1" includeTitle="true">
+
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -317,3 +319,5 @@ title = "०९ पत्नीष्टकाः सेनेन्द्रस
 (14) 
 </details>
 
+
+</div>

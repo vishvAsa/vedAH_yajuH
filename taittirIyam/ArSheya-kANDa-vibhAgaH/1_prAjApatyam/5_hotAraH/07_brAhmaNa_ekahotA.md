@@ -2,6 +2,8 @@
 title = "०७ ब्राह्मण एकहोता"
 
 +++
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/07_brAhmaNa_ekahotA"  newLevelForH1="1" includeTitle="true">
+
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -260,3 +262,5 @@ title = "०७ ब्राह्मण एकहोता"
 (10) 
 </details>
 
+
+</div>

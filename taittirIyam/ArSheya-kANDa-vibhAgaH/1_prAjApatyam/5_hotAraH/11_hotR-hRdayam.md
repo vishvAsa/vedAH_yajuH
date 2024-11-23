@@ -2,6 +2,8 @@
 title = "११ होतृ-हृदयम्"
 
 +++
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/11_hotR-hRdayam"  newLevelForH1="1" includeTitle="true">
+
 
 ## १ दशहोता
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -770,3 +772,5 @@ title = "११ होतृ-हृदयम्"
 36य आरण्या इति गतम् ॥ तेषां सप्तानाम् आरण्यानां पशूनां द्विखुरश्वापदपक्षिसरीसृपहस्तिमर्कटनादेयानाम् इह रन्तिरस्त्वित्यादि । गतम् ॥
 इत्यारण्यके तृतीये एकादशोनुवाकः ॥  
 </details>
+
+</div>

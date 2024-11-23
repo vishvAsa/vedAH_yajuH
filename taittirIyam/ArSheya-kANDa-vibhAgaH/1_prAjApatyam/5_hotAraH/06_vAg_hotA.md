@@ -2,6 +2,8 @@
 title = "०६ वाग् होता"
 
 +++
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/06_vAg_hotA"  newLevelForH1="1" includeTitle="true">
+
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -129,3 +131,5 @@ title = "०६ वाग् होता"
 (6)  
 </details>
 
+
+</div>

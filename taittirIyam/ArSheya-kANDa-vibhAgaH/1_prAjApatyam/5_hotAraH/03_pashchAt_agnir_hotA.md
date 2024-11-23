@@ -2,6 +2,8 @@
 title = "०३ पश्चात् अग्निर् होता"
 
 +++
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/03_pashchAt_agnir_hotA"  newLevelForH1="1" includeTitle="true">
+
 
 ## होता
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -118,3 +120,5 @@ title = "०३ पश्चात् अग्निर् होता"
 
 
 (3) 
+
+</div>

@@ -2,6 +2,8 @@
 title = "०२ स्रुवाहुतयः"
 
 +++
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/04_pitR-medhAdi/02_sruvAhutayaH"  newLevelForH1="1" includeTitle="true">
+
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -183,3 +185,5 @@ title = "०२ स्रुवाहुतयः"
 3अस्मादित्य् अनुष्टुप् ॥ हे अग्ने ! त्वमस्माद् अधिजातोऽसि पूर्वमिदानीं त्वत्तो ऽयं पुनर्जायतां पुण्यां गतिं प्राप्नोतु । तस्मै तुभ्यम् अग्नये वैश्वानराय सुवर्गाय लोकाय तद्धेतवे स्वाहा हुतमस्तु ॥  
 इत्यारण्यके चतुर्थे द्वितीयोऽनुवाकः ॥
 </details>
+
+</div>

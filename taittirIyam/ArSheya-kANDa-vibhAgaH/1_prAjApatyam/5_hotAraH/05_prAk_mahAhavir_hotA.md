@@ -2,6 +2,8 @@
 title = "०५ प्राक् महाहविर् होता"
 
 +++
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/05_prAk_mahAhavir_hotA"  newLevelForH1="1" includeTitle="true">
+
 
 ## होता
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -156,3 +158,5 @@ title = "०५ प्राक् महाहविर् होता"
 (5) 
 </details>
 
+
+</div>

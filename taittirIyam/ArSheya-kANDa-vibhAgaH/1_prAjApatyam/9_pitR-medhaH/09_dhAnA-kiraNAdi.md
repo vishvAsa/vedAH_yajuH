@@ -2,6 +2,8 @@
 title = "०९ धाना-किरणादि"
 
 +++
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/04_pitR-medhAdi/09_dhAnA-kiraNAdi"  newLevelForH1="1" includeTitle="true">
+
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -270,3 +272,5 @@ title = "०९ धाना-किरणादि"
 इत्यारण्यके चतुर्थे नवमोऽनुवाकः ॥
 </details>
 
+
+</div>

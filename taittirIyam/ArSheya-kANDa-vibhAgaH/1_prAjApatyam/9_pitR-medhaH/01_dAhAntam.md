@@ -2,6 +2,8 @@
 title = "०१ दाहान्तम्"
 
 +++
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/04_pitR-medhAdi/01_dAhAntam"  newLevelForH1="1" includeTitle="true">
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अथ चतुर्थः प्रपाठकः ॥   
@@ -533,3 +535,5 @@ title = "०१ दाहान्तम्"
     
 इत्यारण्यके चतुर्थप्रश्ने प्रथमोऽनुवाकः ॥
 </details>
+
+</div>

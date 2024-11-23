@@ -1,8 +1,10 @@
----
-title: १२ सहस्र-शीर्षा
-unicode_script: devanagari
++++
+title = "१२ सहस्र-शीर्षा"
+unicode_script = "devanagari"
 
----
++++
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/12_sahasra-shIrShA"  newLevelForH1="1" includeTitle="true">
+
 <div class="js_include" newlevelforh1="2" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/090/_index.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>सायण-भाष्यम्</summary>
@@ -3691,4 +3693,5 @@ Durch Opfer opferten die Götter das Opfer; das waren die ersten Bräuche; sie, 
 पदार्थान्वयभाषाः -  (देवाः) आदिविद्वांसः परमर्षयः (यज्ञेन-यज्ञम्-अयजन्त) अध्यात्मयज्ञेन यजनीयं सङ्गमनीयं परमात्मानं स्वस्मिन् सङ्गमयन्ति (तानि धर्माणि प्रथमानि-आसन्) तानि ध्यानसमाधिरूपाणि कर्माणि प्राथमिकानि खल्वासन् (ते ह नाकं महिमानः सचन्त) ते जीवन्मुक्तात्मानः नितान्तसुखं मोक्षं सेवन्ते (यत्र साध्याः देवाः सन्ति) यत्र साधनासिद्धा आत्मानः सन्ति ॥१६॥
 </details>
 </details>
+</div>
 </div>

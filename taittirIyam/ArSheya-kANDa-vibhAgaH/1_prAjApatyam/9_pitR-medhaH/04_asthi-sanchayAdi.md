@@ -2,6 +2,8 @@
 title = "०४ अस्थि-सञ्चयादि"
 
 +++
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/04_pitR-medhAdi/04_asthi-sanchayAdi"  newLevelForH1="1" includeTitle="true">
+
 
 ## अवोक्षणम्
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -271,3 +273,5 @@ title = "०४ अस्थि-सञ्चयादि"
     
 इत्यारण्यके चतुर्थे चतुर्थोऽनुवाकः ॥
 </details>
+
+</div>

@@ -2,6 +2,8 @@
 title = "११ होमः"
 
 +++
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/04_pitR-medhAdi/11_homaH"  newLevelForH1="1" includeTitle="true">
+
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -217,3 +219,5 @@ title = "११ होमः"
 12न वा इति ॥ तत्र गृहे गवादि न वै प्रमीयते नैव म्रियते यत्र गृहे इदं ब्रह्म अयं मन्त्रः क्रियते होमे विनियुज्यते । परिधिर् मृत्योः परिधिरूपम् इदं ब्रह्म जीवनाय ज्ञातीनां के सुखरूपं तद्धेतुभूतम् । हे अग्ने! त्वं च अघ अपनय ॥  
 इत्यारण्यके चतुर्थे एकादशोऽनुवाकः ॥
 </details>
+
+</div>

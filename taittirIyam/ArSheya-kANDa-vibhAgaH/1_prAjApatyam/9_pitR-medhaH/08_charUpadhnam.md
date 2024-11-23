@@ -2,6 +2,8 @@
 title = "०८ चरूपध्नम्"
 
 +++
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/04_pitR-medhAdi/08_charUpadhnam"  newLevelForH1="1" includeTitle="true">
+
 
 
 
@@ -163,3 +165,5 @@ title = "०८ चरूपध्नम्"
 … ये देवानां क्षीरभागाः सहस्राक्षरा तां रक्षस्वेत्यादि गतम् । 
 </details>
 
+
+</div>
