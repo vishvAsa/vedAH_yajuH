@@ -7,6 +7,12 @@ unicode_script: devanagari
 {{< figure src="../../images/dolphin.jpg"  class="thumbnail">}}
 {{< figure src="../../images/precession_sky_chart.jpg"  class="thumbnail">}}
 
+<details><summary>भट्टभास्कर-टीका</summary>
+
+2अधुना ईश्वरस्य शरीरस्थानीयम् अंशपरिणामं विश्वोपादानं शिशुमारदेहत्वेन रूपयति - यस्मा इति ॥ 
+</details>
+
+
 यस्मै॒ नम॒स्  
 तच्छिरो॒ धर्मो॑ मू॒र्धानं॑  
 ब्र॒ह्म+उत्त॑रा॒ हनु॑र् य॒ज्ञोऽध॑रा॒  
@@ -19,7 +25,6 @@ unicode_script: devanagari
 स वा ए॒ष दि॒व्यश् शा॑क्व॒रश् शिशु॑मार॒स्
 
 
-(Remember the benefit of knowing the dolphin)
 
 तँ ह॒ य ए॒वव्ँ वेदाप॑ पुनर्मृ॒त्युञ्ज॑यति॒।
 
