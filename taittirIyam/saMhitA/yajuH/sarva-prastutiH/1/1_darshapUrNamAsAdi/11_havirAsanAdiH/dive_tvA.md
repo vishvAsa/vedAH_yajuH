@@ -25,8 +25,13 @@ To sky thee, to atmosphere thee, to earth thee!
 दि॒वे त्वा᳚ ।  
 अन्तरि॑ख्षाय त्वा।  
 पृ॒थि॒व्यै त्वा᳚।
-
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+दि॒वे । त्वा॒ । अ॒न्तरि॑ख्षाय । त्वा॒ । पृ॒थि॒व्यै । त्वा॒ ।
+</details>
+
 
 <details><summary>भट्टभास्कर-टीका</summary>
 

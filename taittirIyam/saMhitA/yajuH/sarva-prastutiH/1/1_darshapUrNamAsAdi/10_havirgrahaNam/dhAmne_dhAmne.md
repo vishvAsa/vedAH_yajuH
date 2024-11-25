@@ -19,6 +19,11 @@ for every sacrifice, for the gods, for every prayer.
 धाम्ने॑धाम्ने दे॒वेभ्यो॒ यजु॑षेयजुषे गृह्णामि।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+धाम्ने॑धाम्न॒ इति॒ धाम्ने᳚-धा॒म्ने॒ । दे॒वेभ्यः॑ । यजु॑षेयजुष॒ इति॒ यजु॑षे-य॒जु॒षे॒ । गृ॒ह्णा॒मि॒ ।
+</details>
+
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
