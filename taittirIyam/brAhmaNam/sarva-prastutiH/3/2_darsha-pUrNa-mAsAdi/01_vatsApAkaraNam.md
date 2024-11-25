@@ -439,7 +439,7 @@ unicode_script: devanagari
 </details>
 
 ## अनधस् सादनम्
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/01_vatsApAkaraNam/anadhaH.md"  newLevelForH1="5" includeTitle="false"> 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/01_vatsApAkaraNam/anadhaH.md"  newLevelForH1="5" includeTitle="false"> 
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
