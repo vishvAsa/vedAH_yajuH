@@ -243,44 +243,18 @@ title = "०१ ०१"
 
 
 
-
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_01_paramAtma-sUktam/12_eSha_hi.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
-
-ए॒ष हि दे॒वः प्र॒दिशोनु॒ सर्वाः॒  
-पूर्वो॑ हि जा॒तस्स उ॒ गर्भे॑ अ॒न्तः ।  
-स वि॒जाय॑मानस्स जनि॒ष्यमा॑णः  
-प्र॒त्यङ्मुखा᳚स्तिष्ठति वि॒श्वतो॑मुखः ॥
-</details>
-</div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_01_paramAtma-sUktam/12_eSha_hi.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
-ए॒ष हि दे॒वः प्र॒दिशोनु॒ सर्वाः॒  
-पूर्वो॑ हि जा॒तस्स उ॒ गर्भे॑ अ॒न्तः ।  
-स वि॒जाय॑मानस्स जनि॒ष्यमा॑णः  
-प्र॒त्यङ्मुखा᳚स्तिष्ठति वि॒श्वतो॑मुखः ॥
+अ॒द्भ्यस्संभू॑तो हिरण्यग॒र्भ इत्य॒ष्टौ । 
 </details>
-</details>
-</div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_01_paramAtma-sUktam/13_vishvatash_chaxuruta.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-वि॒श्वत॑श् चक्षुरु॒त वि॒श्वतो॑मुखो  
-वि॒श्वतो॑हस्त  उ॒त वि॒श्वत॑स्पात् ।  
-सं बा॒हुभ्या॒न् नम॑ति॒ सं पत॑त्रै॒र्  
-द्यावा॑पृथि॒वी ज॒नय॑न् दे॒व एकः॑ ॥
-</details>
-</div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_01_paramAtma-sUktam/13_vishvatash_chaxuruta.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
-<details><summary>मूलम्</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
-वि॒श्वत॑श् चक्षुरु॒त वि॒श्वतो॑मुखो  
-वि॒श्वतो॑हस्त  उ॒त वि॒श्वत॑स्पात् ।  
-सं बा॒हुभ्या॒न् नम॑ति॒ सं पत॑त्रै॒र्  
-द्यावा॑पृथि॒वी ज॒नय॑न् दे॒व एकः॑ ॥
+12अद्भ्यस्सम्भूत इत्यनुवाको व्याख्यातो होतृप्रश्ने ॥
+
+17परमात्मवर्णनत्वेन 'हिरण्यगर्भः' इत्यष्टावृचो व्याख्याता अस्मिन्नेवार्थे 'उर्ध्वा अस्य'13 इत्यत्र । एषां च आत्मतत्त्वप्रतिपादनमन्त्राणाम् अन्यत्र  
+पठितानामिहातिदेशसामर्थ्यात् कल्पसूत्रविनियोगमन्तरेणाप्य् अस्य लिङ्गादिना महापुरुषार्चनादौ विनियोगो द्रष्टव्यः ॥  
+॥ इति परमात्मसूक्तम् ॥
 </details>
-</details>
-</div>
+
+
