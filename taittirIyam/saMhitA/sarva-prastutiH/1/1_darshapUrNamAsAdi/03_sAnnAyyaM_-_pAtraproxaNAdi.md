@@ -373,7 +373,7 @@ ____
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-9गोदोहनसक्षालनीया अपः पयस्यानयति - संपृच्यध्वमिति गायत्र्या ॥
+9गोदोहन-संक्षालनीया अपः पयस्यानयति - संपृच्यध्वमिति गायत्र्या ॥
 </details>
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/03_sAnnAyyaM_-_pAtraproxaNAdi/57_sampRchyadhvam_RtAvarIr.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
