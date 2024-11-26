@@ -19,6 +19,8 @@ unicode_script: devanagari
 1देवस्य त्वेत्यादि ॥ पर्शुः पार्श्ववक्रः ।
 </details>
 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/04_havir-nirvApaH/ashvinor_bAhubhyAm.md"  newLevelForH1="5" includeTitle="false"> 
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "अ॒श्विनो᳚र् बा॒हुभ्या॒"म् इत्य् आ॑ह ।
@@ -50,6 +52,7 @@ unicode_script: devanagari
 
 यत्यै यमनाय धारणाय ॥
 </details>
+</div>  
 
 ## पर्वसु लवनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -126,6 +129,9 @@ unicode_script: devanagari
 </details>
 
 ## प्रत्यु॑ष्ट॒ꣳ॒ रख्ष॒ᳶ
+<div class="js_include" url="/vedAH_yajuHtaittirIyam/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/02_barhirAharaNam/pratyuShTaM_raxaH.md"  newLevelForH1="5" includeTitle="false"> 
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "प्रत्यु॑ष्ट॒ꣳ॒ रख्ष॒ᳶ प्रत्यु॑ष्टा॒ अरा॑तय॒" इत्या॑ह ।  
@@ -137,6 +143,7 @@ unicode_script: devanagari
 "प्रत्यु॑ष्ट॒ꣳ॒ रख्ष॒ᳶ प्रत्यु॑ष्टा॒ अरा॑तय॒" इत्या॑ह ।  
 रख्ष॑सा॒म् अप॑हत्यै ।
 </details>
+</div>  
 
 ## प्रेयम् अ॑गाद्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
