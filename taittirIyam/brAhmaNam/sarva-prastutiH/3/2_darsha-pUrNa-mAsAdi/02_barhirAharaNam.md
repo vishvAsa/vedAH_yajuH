@@ -659,6 +659,8 @@ unicode_script: devanagari
 23बृहस्पतेरिति शीर्ष्णि निधानम् ॥
 </details>
 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/02_barhirAharaNam/urv-antarixam.md"  newLevelForH1="5" includeTitle="false">   
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "उ॒र्व॑न्तरि॑ख्ष॒म् अन्वि॒ही"त्या॑ह॒ गत्यै᳚ ।
@@ -673,6 +675,7 @@ unicode_script: devanagari
 
 24उर्विति प्रत्यागच्छति ॥ तत्र अन्तरिक्षस्य उरुत्वाभिधानं गत्यै अविहतायै भवति ॥
 </details>
+</div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

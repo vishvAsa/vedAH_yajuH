@@ -574,6 +574,7 @@ ____
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
++++(द्यावा॑-पृथि॒वी ह॒विषि॑ गृही॒त उद॑वेपेताम्। अतः)+++  
 दृꣳह॑न्ता॒न् दुर्या॒+++(=द्वारवन्ति)+++ द्यावा॑पृथि॒व्योः +++(भोगाय)+++।
 </details>
 <details><summary>Keith</summary>
@@ -581,10 +582,7 @@ ____
 May they that have doors stand firm in heaven and earth.
 
 </details>
-<details><summary>मूलम् (संयुक्तम्)</summary>
 
-दृꣳह॑न्ता॒न्दुर्या॒ द्यावा॑पृथि॒व्योः
-</details>
 <details><summary>मूलम्</summary>
 
 दृꣳह॑न्ता॒न्दुर्या॒ द्यावा॑पृथि॒व्योः
@@ -644,7 +642,7 @@ ____
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अदि॑त्यास् त्वो॒पस्थे॑ सादयामि ।
++++(पृथ्वी-रूपाया)+++ अदि॑त्यास् त्वो॒पस्थे॑ सादयामि ।
 </details>
 <details><summary>Keith</summary>
 
