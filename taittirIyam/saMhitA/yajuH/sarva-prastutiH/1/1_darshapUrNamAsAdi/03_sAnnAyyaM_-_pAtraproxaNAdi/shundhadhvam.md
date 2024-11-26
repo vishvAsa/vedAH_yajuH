@@ -5,7 +5,7 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शुन्ध॑ध्व॒न् दैव्या॑य॒ कर्म॑णे देवय॒ज्यायै॑ ।
++++(पात्राणि!)+++ शुन्ध॑ध्व॒न् दैव्या॑य॒ कर्म॑णे देवय॒ज्यायै॑ ।
 </details>
 
 <details><summary>Keith</summary>
