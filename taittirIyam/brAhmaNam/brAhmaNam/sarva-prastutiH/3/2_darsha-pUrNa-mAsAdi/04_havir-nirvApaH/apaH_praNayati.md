@@ -20,9 +20,9 @@ unicode_script: devanagari
 <details><summary>भट्टभास्कर-टीका</summary>
 
 2अपः प्रणयतीत्यसकृद्विधानं फलविशेषार्थम् ।
+सर्वैः श्रद्धेयत्वादपां श्रद्धात्वम् ।
 </details>
 
-सर्वैः श्रद्धेयत्वादपां श्रद्धात्वम् ।
 <details open><summary>विश्वास-प्रसुतिः</summary>
 
 अ॒पᳶ प्रण॑यति ।  
@@ -40,9 +40,9 @@ unicode_script: devanagari
 <details><summary>भट्टभास्कर-टीका</summary>
 
 इष्टसाधनत्वात् यज्ञत्वमपाम् ।
+प्रचरणं प्रयोगः ।
 </details>
 
-प्रचरणं प्रयोगः ।
 <details open><summary>विश्वास-प्रसुतिः</summary>
 
 अ॒पᳶ प्रण॑यति ।  
@@ -99,7 +99,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-(आपो॒वैशा॒न्ताः । शा॒न्ताभि॑रे॒वास्य॑ शुचꣳ॑शमयति ॥)
+(आपो॒ वै शा॒न्ताः । शा॒न्ताभि॑र् ए॒वास्य॑ शुचꣳ॑ शमयति ॥)
 </details>
 
 <details><summary>मूलम्</summary>
