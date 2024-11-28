@@ -106,7 +106,7 @@ ____
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वा॒युर् अ॑सि ति॒ग्म-ते॑जाः ।
++++(तेजोवृद्धिहेतुत्वात्)+++ वा॒युर् अ॑सि ति॒ग्म-ते॑जाः ।
 </details>
 <details><summary>Keith</summary>
 
@@ -136,7 +136,7 @@ ____
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(हे)+++ पृथि॑वि! देव-यज॒न्य्! ओष॑ध्यास् ते॒ मूल॒म् मा हिꣳ॑सिषम् +++(स्फ्यप्रहारेण)+++।
++++(हे)+++ पृथि॑वि! देव-यज॒न्य् +++(नामेध्या वृत्र-रक्तादि-पातेन)+++! ओष॑ध्यास् ते॒ मूल॒म् मा हिꣳ॑सिषम् +++(स्फ्यप्रहारेण)+++।
 </details>
 <details><summary>Keith</summary>
 
@@ -500,7 +500,7 @@ O god Savitr, bind thou in the furthest distance with a hundred fetters him who 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अप॑हतो॒ऽररुᳶ॑ पृथि॒व्या+++(व्यै)+++ अदे॑वयजनः +++(असुरः)+++।
+अप॑हतो॒ऽररुᳶ॑ +++(→भ्रातृव्यः)+++ पृथि॒व्या+++(व्यै)+++ अदे॑वयजनः +++(असुरः)+++।
 </details>
 <details><summary>Keith</summary>
 
@@ -617,7 +617,7 @@ O god Savitr, bind thou in the furthest distance with a hundred fetters him who 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ररु॑स् ते॒ दिव॒म् मा ऽस्का॑न्+++(=गात्)+++ ।  
+अ॒ररु॑स् +++(→भ्रातृव्यः)+++ ते॒ दिव॒म् मा ऽस्का॑न्+++(=गात्)+++ ।  
 +++('भ्रातृव्यो वा अररुः' (तै.ब्रा. 3.2.9) इत्यादि ब्राह्मणम् ॥)+++
 </details>
 
