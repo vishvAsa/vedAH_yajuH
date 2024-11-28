@@ -173,7 +173,7 @@ unicode_script = "devanagari"
 
 
 ## प्रतितपनम्
-<div class="js_include" url="/vedAH_yajuHtaittirIyam/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/02_barhirAharaNam/pratyuShTaM_raxaH.md"  newLevelForH1="5" includeTitle="false"> 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/02_barhirAharaNam/pratyuShTaM_raxaH.md"  newLevelForH1="5" includeTitle="false"> 
 </div>
 
 
@@ -188,7 +188,7 @@ unicode_script = "devanagari"
 "धूर् अ॒सी"त्य् आ॑ह।  
 ए॒ष वै धुर्यो॒ ऽग्निः ।   
 तय्ँ यद् अनु॑पस्पृश्याती॒याद्  
-अ॒ध्व॒र्युञ् च॒ यज॑मानञ् च॒ प्रद॑हेत् ।  
+अध्व॒र्युञ् च॒ यज॑मानञ् च॒ प्रद॑हेत् ।  
 उ॒प॒स्पृश्यात्ये॑त्य्  
 अ॒ध्व॒र्योश् च॒ यज॑मानस्य॒ चाप्र॑दाहाय ।
 </details>
@@ -232,7 +232,7 @@ unicode_script = "devanagari"
 सस्नि॑तम॒म् पप्रि॑तम॒ञ् जुष्ट॑तम॒व्ँ वह्नि॑तमन् देव॒-हूत॑म॒म्" इत्या॑ह ।   
 य॒था॒-य॒जुर् ए॒वैतत् ॥ 31॥+++(4)+++
 
-अ-ह्रु॑तम् असि हवि॒र् धान॒म् इत्या॒हाना᳚र्त्यै ।  
+अ-ह्रु॑तम् असि हवि॒र्-धान॒म् इत्या॒हाना᳚र्त्यै ।  
 "दृꣳह॑स्व॒ मा ह्वा॒"र् इत्या॑ह॒ धृत्यै᳚ ।
 </details>
 
