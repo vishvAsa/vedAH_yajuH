@@ -9,7 +9,7 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व्र॒जङ् ग॑च्छ गो॒स्थान॑म् ।
+व्र॒जङ् ग॑च्छ गो॒-स्थान॑म् +++(→छन्दांसि)+++ ।
 </details>
 
 <details><summary>Keith</summary>
