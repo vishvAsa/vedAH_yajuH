@@ -173,7 +173,7 @@ unicode_script = "devanagari"
 
 
 ## प्रतितपनम्
-<div class="js_include" url="/vedAH_yajuHtaittirIyam/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/02_barhirAharaNam/pratyuShTaM_raxaH.md"  newLevelForH1="5" includeTitle="false"> 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/02_barhirAharaNam/pratyuShTaM_raxaH.md"  newLevelForH1="5" includeTitle="false"> 
 </div>
 
 
@@ -188,7 +188,7 @@ unicode_script = "devanagari"
 "धूर् अ॒सी"त्य् आ॑ह।  
 ए॒ष वै धुर्यो॒ ऽग्निः ।   
 तय्ँ यद् अनु॑पस्पृश्याती॒याद्  
-अ॒ध्व॒र्युञ् च॒ यज॑मानञ् च॒ प्रद॑हेत् ।  
+अध्व॒र्युञ् च॒ यज॑मानञ् च॒ प्रद॑हेत् ।  
 उ॒प॒स्पृश्यात्ये॑त्य्  
 अ॒ध्व॒र्योश् च॒ यज॑मानस्य॒ चाप्र॑दाहाय ।
 </details>
@@ -232,7 +232,7 @@ unicode_script = "devanagari"
 सस्नि॑तम॒म् पप्रि॑तम॒ञ् जुष्ट॑तम॒व्ँ वह्नि॑तमन् देव॒-हूत॑म॒म्" इत्या॑ह ।   
 य॒था॒-य॒जुर् ए॒वैतत् ॥ 31॥+++(4)+++
 
-अ-ह्रु॑तम् असि हवि॒र् धान॒म् इत्या॒हाना᳚र्त्यै ।  
+अ-ह्रु॑तम् असि हवि॒र्-धान॒म् इत्या॒हाना᳚र्त्यै ।  
 "दृꣳह॑स्व॒ मा ह्वा॒"र् इत्या॑ह॒ धृत्यै᳚ ।
 </details>
 
@@ -314,7 +314,7 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"अ॒श्विनो᳚र् बा॒हुभ्या॒"म् इत्य् आ॑ह ।
+"अ॒श्विनो᳚र् बा॒हुभ्या॒म्" इत्य् आ॑ह ।
 अ॒श्विनौ॒ हि दे॒वाना॑म् अध्व॒र्यू आस्ता᳚म् ।
 </details>
 
@@ -331,7 +331,7 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"पू॒ष्णो हस्ता᳚भ्या॒"म् इत्य् आ॑ह॒ यत्यै᳚ ।
+"पू॒ष्णो हस्ता᳚भ्या॒म्" इत्य् आ॑ह॒ यत्यै᳚ ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -374,7 +374,7 @@ unicode_script = "devanagari"
 
 तू॒ष्णीञ् च॑तु॒र्थम् ।  
 अ-प॑रिमितम् **ए॒वाव॑रुन्धे** ।
-स ए॒वम् ए॒वानु॑पू॒र्वꣳ ह॒वीꣳषि॒ न**िर्व॑पति** ॥33॥
+स ए॒वम् ए॒वानु॑पू॒र्वꣳ ह॒वीꣳषि॒ **निर्व॑पति** ॥33॥
 </details>
 <details><summary>मूलम्</summary>
 
@@ -471,7 +471,7 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"उ॒र्व॑न्तरि॑ख्ष॒म् अन्वि॒ही"त्या॑ह॒ गत्यै᳚ ।
+"उ॒र्व् अ॑न्तरि॑ख्ष॒म् अन्वि॒ही"त्या॑ह॒ गत्यै᳚ ।
 </details>
 
 <details><summary>मूलम्</summary>
