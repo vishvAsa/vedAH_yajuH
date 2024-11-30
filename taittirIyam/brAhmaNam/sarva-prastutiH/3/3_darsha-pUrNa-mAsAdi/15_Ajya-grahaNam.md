@@ -1,5 +1,5 @@
 ---
-title: ०५ आज्ग्रहणम् 
+title: ०५ आज्य-ग्रहणम् 
 unicode_script: devanagari
 ---
 
