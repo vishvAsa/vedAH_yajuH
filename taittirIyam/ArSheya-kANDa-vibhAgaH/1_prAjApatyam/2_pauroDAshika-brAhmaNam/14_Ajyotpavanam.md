@@ -3,7 +3,7 @@ title = "१४ आज्योत्प्लवनम्"
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/3/3_darsha-pUrNa-mAsAdi/04_Ajyotplavanam"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/3/3_darsha-pUrNa-mAsAdi/04_Ajyotpavanam"  newLevelForH1="1" includeTitle="true">
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
