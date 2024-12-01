@@ -144,7 +144,10 @@ unicode_script: devanagari
 त्रिष्षमृद्धं तिसृभिः आवृत्तिभिः समृद्धम् ॥
 </details>
 
-## प्रोक्षणादि
+## प्रोक्षण्य्-अभिमन्त्रणम्
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/05_vrIhyavaghAtaH/Apo_devIH.md" unfilled newLevelForH1="5" includeTitle="false"> 
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "आपो॑ देवीर् अग्रे-पुवो अग्रे-गुव॒" इत्य् आ॑ह ।  
@@ -219,6 +222,11 @@ unicode_script: devanagari
 तेनाप इति 'प्रोक्षितास्स्थ' इति वचनादेव आपः प्रोक्षिता भवन्ति,  
 न त्व् अन्याभिरद्भिः प्रोक्षणम् । उक्तं च 'ब्रह्मणेति ब्रूयात्' इति ॥
 </details>
+
+</div>  
+
+
+## प्रोक्षणादि
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
