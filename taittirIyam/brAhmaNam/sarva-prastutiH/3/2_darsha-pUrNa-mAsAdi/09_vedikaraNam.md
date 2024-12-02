@@ -39,15 +39,38 @@ ______________
 </details>
 </div>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आद॑दे। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+आद॑दे। 
+</details>
+
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 1देवस्य त्वेति स्फ्यादानम् ॥ गतम् ॥
 </details>
 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/09_vedikaraNam/indrasya_bAhuH.md" unfilled newLevelForH1="5" includeTitle="false">   
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"आद॑द॒, इन्द्र॑स्य बा॒हुर् अ॑सि॒ दख्षि॑ण॒" इत्य् आ॑ह ।  
+"इन्द्र॑स्य बा॒हुर् अ॑सि॒ दख्षि॑ण॒" इत्य् आ॑ह ।  
 इ॒न्द्रि॒यम् ए॒व यज॑माने दधाति ।  
+</details>
+
+<details><summary>मूलम्</summary>
+
+"इन्द्र॑स्य बा॒हुर् अ॑सि॒ दख्षि॑ण॒" इत्य् आ॑ह ।  
+इ॒न्द्रि॒यम् ए॒व यज॑माने दधाति ।  
+</details>
+</div>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "स॒हस्र॑-भृष्टिश् श॒तते॑जा॒" इत्य् आ॑ह ।  
 रू॒पम् ए॒वास्यै॒तन् म॑हि॒मान॒व्ँ व्याच॑ष्टे ।  
@@ -55,8 +78,6 @@ ______________
 
 <details><summary>मूलम्</summary>
 
-"आद॑द॒ इन्द्र॑स्य बा॒हुर॑सि॒ दख्षि॑ण॒" इत्या॑ह ।  
-इ॒न्द्रि॒यमे॒व यज॑माने दधाति ।  
 "स॒हस्र॑भृष्टिश्श॒तते॑जा॒" इत्या॑ह ।  
 रू॒पमे॒वास्यै॒तन्म॑हि॒मान॒व्ँव्याच॑ष्टे ।  
 </details>
