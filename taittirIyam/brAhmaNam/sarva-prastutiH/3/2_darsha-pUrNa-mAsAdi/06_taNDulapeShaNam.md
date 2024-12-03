@@ -110,8 +110,6 @@ unicode_script: devanagari
 ह॒विषोऽस्क॑न्दाय ॥
 </details>
 
-
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 1अवधूतमित्यादि ॥ गतम् । हविरधिपिनष्टीति विशेषः ॥
