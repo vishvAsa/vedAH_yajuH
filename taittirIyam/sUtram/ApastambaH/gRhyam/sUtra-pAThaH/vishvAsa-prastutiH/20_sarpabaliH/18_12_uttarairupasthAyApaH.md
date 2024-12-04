@@ -133,7 +133,7 @@ title = "१८ १२ उत्तरैरुपस्थायापः"
 
 तेभ्यो॑ वो॒ नम॒स्, ते नो॑ मृडयत।
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/te_yaM_dviShmaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/te_yaM_dviShmaH.md">
 <details open><summary><h14>ते यं द्विष्मः ...{Loading}...</h14></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -167,7 +167,7 @@ him whom we hate and him who hateth us, I place him within your jaws.
 
 तेभ्यो॑ वो॒ नम॒स्, ते नो॑ मृडयत।
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/te_yaM_dviShmaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/te_yaM_dviShmaH.md">
 <details open><summary><h14>ते यं द्विष्मः ...{Loading}...</h14></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -199,7 +199,7 @@ him whom we hate and him who hateth us, I place him within your jaws.
 
 तेभ्यो॑ वो॒ नम॒स्, ते नो॑ मृडयत।
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/te_yaM_dviShmaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/te_yaM_dviShmaH.md">
 <details open><summary><h14>ते यं द्विष्मः ...{Loading}...</h14></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -232,7 +232,7 @@ him whom we hate and him who hateth us, I place him within your jaws.
 
 तेभ्यो॑ वो॒ नम॒स्, ते नो॑ मृडयत।
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/te_yaM_dviShmaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/te_yaM_dviShmaH.md">
 <details open><summary><h14>ते यं द्विष्मः ...{Loading}...</h14></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -264,7 +264,7 @@ him whom we hate and him who hateth us, I place him within your jaws.
 
 तेभ्यो॑ वो॒ नम॒स्, ते नो॑ मृडयत।
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/te_yaM_dviShmaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/te_yaM_dviShmaH.md">
 <details open><summary><h14>ते यं द्विष्मः ...{Loading}...</h14></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -297,7 +297,7 @@ him whom we hate and him who hateth us, I place him within your jaws.
 
 तेभ्यो॑ वो॒ नम॒स्, ते नो॑ मृडयत।
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/te_yaM_dviShmaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/te_yaM_dviShmaH.md">
 <details open><summary><h14>ते यं द्विष्मः ...{Loading}...</h14></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
