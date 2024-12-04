@@ -2,7 +2,7 @@
 title = "३० आग्नेयपुरोडाशविधिः"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/2/6/03_AgneyapuroDAshavidhiH"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/2/6/03_AgneyapuroDAshavidhiH"  newLevelForH1="1" includeTitle="true">
 
 १०-११ कपालनाशे प्रायश्चित्तं च
 प्रजापतिर्ऋषिः

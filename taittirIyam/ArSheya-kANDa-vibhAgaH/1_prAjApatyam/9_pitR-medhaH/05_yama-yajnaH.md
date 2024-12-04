@@ -2,7 +2,7 @@
 title = "०५ यम-यज्ञः"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/04_pitR-medhAdi/05_yama-yajnaH"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/04_pitR-medhAdi/05_yama-yajnaH"  newLevelForH1="1" includeTitle="true">
 
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -27,7 +27,7 @@ title = "०५ यम-यज्ञः"
 
 ## आवाहनम्
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yajnaH/01_AyAtu_devas.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yajnaH/01_AyAtu_devas.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 **आया॑तु** दे॒वस् सु॒मना॑भिर् ऊ॒तिभि॑र्  
@@ -37,7 +37,7 @@ title = "०५ यम-यज्ञः"
 +++(आरण्यक-स्वर-व्यत्ययः॥)+++
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/04_pitR-medhAdi/05_yama-yajnaH/01_AyAtu_devas.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/04_pitR-medhAdi/05_yama-yajnaH/01_AyAtu_devas.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -1087,7 +1087,7 @@ Dem König Jama giesset nun die Butter zu, die süsseste; Bringt dies Gebet den 
 </details>
 
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yajnaH/02_yo-sya_kauShThya.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yajnaH/02_yo-sya_kauShThya.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 योऽस्य॒ +++(गोत्रेण)+++ कौष्ठ्य॒! जग॑तः॒  
@@ -1096,7 +1096,7 @@ Dem König Jama giesset nun die Butter zu, die süsseste; Bringt dies Gebet den 
 यो राजा॑ ऽनप॒रोद्ध्यः॑ ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/04_pitR-medhAdi/05_yama-yajnaH/02_yo-sya_kauShThya.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/04_pitR-medhAdi/05_yama-yajnaH/02_yo-sya_kauShThya.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -1108,7 +1108,7 @@ Dem König Jama giesset nun die Butter zu, die süsseste; Bringt dies Gebet den 
 
 
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yajnaH/03_yama~N_gAya.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yajnaH/03_yama~N_gAya.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 य॒मङ् **गाय॑** +++(नाम्ना)+++ भङ्ग्य॒श्रवो॒!  
@@ -1117,7 +1117,7 @@ Dem König Jama giesset nun die Butter zu, die süsseste; Bringt dies Gebet den 
 येन॒ द्यौः पृ॑थि॒वी **दृ॒ढा** ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/04_pitR-medhAdi/05_yama-yajnaH/03_yama~N_gAya.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/04_pitR-medhAdi/05_yama-yajnaH/03_yama~N_gAya.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -1127,7 +1127,7 @@ Dem König Jama giesset nun die Butter zu, die süsseste; Bringt dies Gebet den 
 </details>
 </div>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yajnaH/04_hiraNyakaxyAn_sudhurAn.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yajnaH/04_hiraNyakaxyAn_sudhurAn.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 हि॒र॒ण्य॒-क॒क्ष्यान्+++(=कुक्षीन्)+++ सु॒-धुरान्॑  
@@ -1137,7 +1137,7 @@ Dem König Jama giesset nun die Butter zu, die süsseste; Bringt dies Gebet den 
 +++(आरण्यकः स्वरव्यत्ययः।)+++
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/04_pitR-medhAdi/05_yama-yajnaH/04_hiraNyakaxyAn_sudhurAn.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/04_pitR-medhAdi/05_yama-yajnaH/04_hiraNyakaxyAn_sudhurAn.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -1148,7 +1148,7 @@ Dem König Jama giesset nun die Butter zu, die süsseste; Bringt dies Gebet den 
 </div>
 
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yajnaH/05_yamo_dAdhAra.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yajnaH/05_yamo_dAdhAra.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 य॒मो **दा॑धार** पृथि॒वीय्ँ  
@@ -1157,7 +1157,7 @@ Dem König Jama giesset nun die Butter zu, die süsseste; Bringt dies Gebet den 
 यत् **प्रा॒णद्** वा॒युर् अ॑ख्षि॒तम् ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/04_pitR-medhAdi/05_yama-yajna/05_yamo_dAdhAra.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/04_pitR-medhAdi/05_yama-yajna/05_yamo_dAdhAra.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -1168,7 +1168,7 @@ Dem König Jama giesset nun die Butter zu, die süsseste; Bringt dies Gebet den 
 </div>
 
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yajnaH/06_yathA_pancha.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yajnaH/06_yathA_pancha.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 यथा॒ पञ्च॒, यथा॒ षड्  
@@ -1178,7 +1178,7 @@ Dem König Jama giesset nun die Butter zu, die süsseste; Bringt dies Gebet den 
 +++(आरण्यकः स्वरव्यत्ययः।)+++
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/04_pitR-medhAdi/05_yama-yajnaH/06_yathA_pancha.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/04_pitR-medhAdi/05_yama-yajnaH/06_yathA_pancha.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 

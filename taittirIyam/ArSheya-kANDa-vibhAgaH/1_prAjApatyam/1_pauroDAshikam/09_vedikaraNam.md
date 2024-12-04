@@ -2,7 +2,7 @@
 title = "०९ वेदि-करणम्"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/1_darshapUrNamAsAdi/09_vedikaraNam"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/1_darshapUrNamAsAdi/09_vedikaraNam"  newLevelForH1="1" includeTitle="true">
 
 २० द्विपदा गायत्री  
 २४ एकपदा त्रिष्टुप्  
@@ -14,7 +14,7 @@ ____
 
 स्फ्यमादत्ते
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
 <details open><summary><h5>देवस्य त्वा सवितुः ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -165,7 +165,7 @@ ____
 
 
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/09_vedikaraNam/vrajaM_gachCha.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/09_vedikaraNam/vrajaM_gachCha.md">
 <details open><summary><h5>व्रजं गच्छ ...{Loading}...</h5></summary>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -290,7 +290,7 @@ ____
 Araru is smitten away from the earth, he that sacrifices not to the gods.
 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/09_vedikaraNam/vrajaM_gachCha.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/09_vedikaraNam/vrajaM_gachCha.md">
 <details open><summary><h5>व्रजं गच्छ ...{Loading}...</h5></summary>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -563,7 +563,7 @@ Thou art broad, and wealthy art thou.
 
 उर्वी महती चासि । वस्वी वासहेतुश्चासि, पुरोडाशादिधनवत्त्वेन देवतानां धारकत्वात् । अत्र 'गुणवचनात् ङीबाद्युदात्तार्थम्' (पा.सू. 4.1.44 वा 1) इति वसुशब्दात् ङीप् । उरुशब्दात् ङीप् ङीष् वा; न कश्चन विशेषः । ङीप्यपि 'उदात्तयणो हल्पूर्वात्' (पा.सू. 6.1.174) इति नद्या उदात्तत्वेन भाव्यम् । अत्र 'चवायोगे प्रथमा' (पा.सू. 8.1.59) इति प्रथमा तिङ्विभक्तिर्न निहन्यते ।
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/09_vedikaraNam/109_purA_krUrasya.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/09_vedikaraNam/109_purA_krUrasya.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 पु॒रा क्रू॒रस्य॑ +++(अरुरोर् असुरस्य)+++ वि॒सृपो॑+++(=विसर्पणात्)+++ विरफ्शिन्न्+++(=विविधशब्दवति वेदे!)+++  
@@ -572,7 +572,7 @@ Thou art broad, and wealthy art thou.
 तान् धीरा॑सो अनु॒दृश्य॑ यजन्ते ॥ [15]
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/09_vedikaraNam/109_purA_krUrasya.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/09_vedikaraNam/109_purA_krUrasya.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 

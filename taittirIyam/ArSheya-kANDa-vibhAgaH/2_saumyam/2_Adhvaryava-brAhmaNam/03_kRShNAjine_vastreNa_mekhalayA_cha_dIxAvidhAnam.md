@@ -2,7 +2,7 @@
 title = "०३ कृष्णाजिने वस्त्रेण मेखलया च दीक्षाविधानम्"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/6/1/03_kRShNAjine_vastreNa_mekhalayA_cha_dIxAvidhAnam"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/6/1/03_kRShNAjine_vastreNa_mekhalayA_cha_dIxAvidhAnam"  newLevelForH1="1" includeTitle="true">
 
 
 सोमऋषिः

@@ -3,7 +3,7 @@ title = "४८ सोमशेषभूता इष्टयः"
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/1/5_nAxatrAdi/09_somasheShabhUtA_iShTayaH"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/1/5_nAxatrAdi/09_somasheShabhUtA_iShTayaH"  newLevelForH1="1" includeTitle="true">
 
 ## अध्वरब्राह्मणम्
 ## नक्षत्रेष्टिकाण्डम्‌

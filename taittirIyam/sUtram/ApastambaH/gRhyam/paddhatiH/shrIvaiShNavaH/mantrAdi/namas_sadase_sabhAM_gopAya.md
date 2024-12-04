@@ -2,7 +2,7 @@
 title = "नम॒स् सद॑से …स॒भाम् मे॑ गोपाय"
 
 +++
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/3/2/04_sphyAdyupasthAnamantrAH_vidhishcha/namas_sadase.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/2/04_sphyAdyupasthAnamantrAH_vidhishcha/namas_sadase.md">
 <details open><summary><h5>नमस् सदसे ...{Loading}...</h5></summary>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -30,7 +30,7 @@ title = "नम॒स् सद॑से …स॒भाम् मे॑ गो�
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/267_sapratha_sabhAm.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/267_sapratha_sabhAm.md">
 <details open><summary><h4>267 सप्रथ सभाम् ...{Loading}...</h4></summary>
 
 सप्र॑थ स॒भाम् मे॑ गोपाय ।  

@@ -2,7 +2,7 @@
 title = "१९ व्याघारणं सम्भारस्थापनं च"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/6/2/08_vyAghAraNaM_sambhArasthApanaM_cha"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/6/2/08_vyAghAraNaM_sambhArasthApanaM_cha"  newLevelForH1="1" includeTitle="true">
 
 सोमऋषिः
 

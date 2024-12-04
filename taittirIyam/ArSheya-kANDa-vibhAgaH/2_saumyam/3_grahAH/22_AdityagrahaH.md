@@ -2,7 +2,7 @@
 title = "२२ आदित्यग्रहः"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/4_somAbhiShavAdi/22_AdityagrahaH"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/4_somAbhiShavAdi/22_AdityagrahaH"  newLevelForH1="1" includeTitle="true">
 
 १-२ बृहती , ३-त्रिष्टुप् । सोमऋषिः
 
@@ -326,9 +326,9 @@ _______
 
 इमामनुद्रुत्योपयामगृहीतोस्यादित्येभ्यस्त्वेति गृह्णाति । 'अदितिः पुत्राकामा इत्यादि ब्राह्मणम्  ॥
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/22_AdityagrahaH/upayAmagRhItaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/22_AdityagrahaH/upayAmagRhItaH.md">
 <details open><summary><h5>उपयामगृहीतः ...{Loading}...</h5></summary>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
 <details open><summary><h10>उपयामगृहीतः ...{Loading}...</h10></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -692,9 +692,9 @@ _______
 इमाम् अनुद्रुत्योपयामगृहीतोस्यादित्येभ्यस्त्वा जुष्टं गृह्णामीति श्रीणाति ।  
 उपयामगृहीतोसीत्यस्य पूर्वत्राम्नातस्य उत्तरयानया ऋचा सम्बन्धः । 'पशवो वा एते यदादित्य ऊर्ग्दधि' इत्यादि ब्राह्मणम्  ॥
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/22_AdityagrahaH/upayAmagRhItaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/22_AdityagrahaH/upayAmagRhItaH.md">
 <details open><summary><h5>उपयामगृहीतः ...{Loading}...</h5></summary>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
 <details open><summary><h10>उपयामगृहीतः ...{Loading}...</h10></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1107,9 +1107,9 @@ _______
 
 इमामनुद्रुत्योपयामगृहीतोस्यादित्येभ्यस्त्वेति गृह्णाति ॥
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/22_AdityagrahaH/upayAmagRhItaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/22_AdityagrahaH/upayAmagRhItaH.md">
 <details open><summary><h5>उपयामगृहीतः ...{Loading}...</h5></summary>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
 <details open><summary><h10>उपयामगृहीतः ...{Loading}...</h10></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

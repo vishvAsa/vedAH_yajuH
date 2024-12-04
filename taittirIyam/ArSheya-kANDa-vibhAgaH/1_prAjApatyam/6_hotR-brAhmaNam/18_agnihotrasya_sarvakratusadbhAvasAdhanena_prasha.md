@@ -3,7 +3,7 @@ title = "१८ अग्निहोत्रस्य सर्वक्रत
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/2/3_hotR-brAhmaNAdi/07_agnihotrasya_sarvakratusadbhAvasAdhanena_prasha"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/3_hotR-brAhmaNAdi/07_agnihotrasya_sarvakratusadbhAvasAdhanena_prasha"  newLevelForH1="1" includeTitle="true">
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

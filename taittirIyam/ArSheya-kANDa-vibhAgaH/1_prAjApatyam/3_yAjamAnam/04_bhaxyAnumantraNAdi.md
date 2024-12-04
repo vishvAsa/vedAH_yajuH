@@ -2,7 +2,7 @@
 title = "०४ भक्ष्यानुमन्त्रणादि"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/03_bhaxyAnumantraNAdi"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/03_bhaxyAnumantraNAdi"  newLevelForH1="1" includeTitle="true">
 
 इडादिभागस्य भक्ष्यस्यानुमन्त्रणमन्त्राः  
 ५ त्रिष्टुप्
@@ -128,7 +128,7 @@ Touch the heads.
 
 इड॒ एह्यदि॑त॒ एहि॒ सर॑स्व॒त्येहि॒ रन्ति॑रसि॒ रम॑तिरसि सू॒नर्य॑सि 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/03_bhaxyAnumantraNAdi/iDa_ehi.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/03_bhaxyAnumantraNAdi/iDa_ehi.md">
 <details open><summary><h5>इड॒ एहि॑ ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -327,7 +327,7 @@ The path that leadeth to the gods, along it may the sacrifice go to the gods.
 
 इदनीं यज्ञस्य मार्ग उपदिश्यते - यो देवयानः पन्थाः येन पथा देवान् गच्छति देवत्वं वा प्राप्यते तेन पथायं यज्ञो देवानप्येतु तेन मार्गेण गत्वा देवाननुप्रविशतु ॥
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/03_bhaxyAnumantraNAdi/02_asmAsv_indra.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/03_bhaxyAnumantraNAdi/02_asmAsv_indra.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अ॒स्मास्व् इन्द्र॑ **इन्द्रि॒यन् द॑धात्व्**  
@@ -336,7 +336,7 @@ The path that leadeth to the gods, along it may the sacrifice go to the gods.
 सा नᳶ॑ प्रि॒या सु॒प्रतू᳚र्तिर् म॒घोनी॒॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/03_bhaxyAnumantraNAdi/02_asmAsv_indra.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/03_bhaxyAnumantraNAdi/02_asmAsv_indra.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -383,7 +383,7 @@ _______
 
 5-6 अवान्तरेडां प्राश्यमानाम् अनुमन्त्रयते
 </details>
-<div class="js_include" includetitle="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/mano_jyotir.md">
+<div class="js_include" includetitle="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/mano_jyotir.md">
 <details open><summary><h5>मनो ज्योतिर् ...{Loading}...</h5></summary>
 
 
@@ -393,7 +393,7 @@ _______
 विश्वे॑ दे॒वा इ॒ह **मा॑दयन्ताम्** ॥
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/mano_jyotir.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/mano_jyotir.md">
 <details open><summary><h5>मनो ज्योतिर् ...{Loading}...</h5></summary>
 <details><summary>Keith</summary>
 
@@ -529,7 +529,7 @@ protect my out-breathing and cross-breathing.
 
 उदान ऊर्ध्वगमनः शब्दस्योत्पादयिता । पुनर्व्यानग्रहणमनुक्तजीववृत्तिप्रकारोपसङ्ग्रहार्थम्, विविधनानात्मकत्वात्तेषाम् ।
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/03_bhaxyAnumantraNAdi/axitosi.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/03_bhaxyAnumantraNAdi/axitosi.md">
 <details open><summary><h5>अक्षितोऽसि ...{Loading}...</h5></summary>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 

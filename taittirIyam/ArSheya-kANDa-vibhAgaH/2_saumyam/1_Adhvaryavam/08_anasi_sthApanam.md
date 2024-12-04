@@ -2,7 +2,7 @@
 title = "०८ अनसि स्थापनम्"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam"  newLevelForH1="1" includeTitle="true">
 
 
 ५-६ त्रिष्टुप्
@@ -16,7 +16,7 @@ ________
 
 सोमम् आदायोत्तिष्ठति।
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/02_ud_AyuShA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/02_ud_AyuShA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 उद् आयु॑षा स्वा॒युषा॑+ +++(सोमरूपेण)+++  
@@ -25,7 +25,7 @@ ________
 +उद् अ॑स्थाम्+++(=अतिष्ठम्)+++ अ॒मृता॒ꣳ॒ अनु॑॥+++(5)+++
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/08_anasi_sthApanam/02_ud_AyuShA.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/08_anasi_sthApanam/02_ud_AyuShA.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -64,7 +64,7 @@ ________
 
 सोमवाहनम् अनो ऽभिप्रैति।
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/urvantarixam.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/urvantarixam.md">
 <details open><summary><h2>उर्वन्तरिक्षम् ...{Loading}...</h2></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -96,7 +96,7 @@ ________
 
 नीडे कृष्णाजिनमास्तृणाति।
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/adityAs_sadaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/adityAs_sadaH.md">
 <details open><summary><h5>अदित्यास् सदः ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -123,7 +123,7 @@ ________
 
 तस्मिन् सोमं निदधाति।
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/adityAs_sada_AsIda.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/adityAs_sada_AsIda.md">
 <details open><summary><h5>अदित्यास् सद आसीद ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -150,7 +150,7 @@ ________
 
 5सोमम् उपतिष्ठते - अस्तभ्नादिति त्रिष्टुभा ॥
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/astabhnAd_dyAm.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/astabhnAd_dyAm.md">
 <details open><summary><h5>अस्तभ्नाद् द्याम् ...{Loading}...</h5></summary>
 
 
@@ -161,7 +161,7 @@ ________
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/08_anasi_sthApanam/astabhnAd_dyAm.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/08_anasi_sthApanam/astabhnAd_dyAm.md">
 <details open><summary><h5>अस्तभ्नाद् द्याम् ...{Loading}...</h5></summary>
 <details><summary>Keith</summary>
 
@@ -194,7 +194,7 @@ ________
 
 सोमं वाससा वेष्टयति।+++(4)+++
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/03_vaneShu_vyantarikhShan.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/03_vaneShu_vyantarikhShan.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 वने॑षु॒ व्य॑न्तरि॑ख्षन् ततान॒  
@@ -203,7 +203,7 @@ ________
 दि॒वि सूर्य॑म् अदधा॒थ् सोम॒म् अद्रौ॑ ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/08_anasi_sthApanam/03_vaneShu_vyantarikhShan.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/08_anasi_sthApanam/03_vaneShu_vyantarikhShan.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -537,7 +537,7 @@ ________
 
 दक्षिणं युनक्ति।
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/varuNasya_skambhanam.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/varuNasya_skambhanam.md">
 <details open><summary><h5>वरुणस्य स्कम्भनम् ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -568,7 +568,7 @@ ________
 
 शम्याम् अवगूहति ।
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/varuNasya_skambhanam.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/varuNasya_skambhanam.md">
 <details open><summary><h5>वरुणस्य स्कम्भनम् ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

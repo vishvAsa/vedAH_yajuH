@@ -2,7 +2,7 @@
 title = "०४ अस्थि-सञ्चयादि"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/04_pitR-medhAdi/04_asthi-sanchayAdi"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/04_pitR-medhAdi/04_asthi-sanchayAdi"  newLevelForH1="1" includeTitle="true">
 
 
 ## अवोक्षणम्

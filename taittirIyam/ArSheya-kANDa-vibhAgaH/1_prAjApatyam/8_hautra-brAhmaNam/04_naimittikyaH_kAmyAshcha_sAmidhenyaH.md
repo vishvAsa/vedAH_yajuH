@@ -2,7 +2,7 @@
 title = "०४ नैमित्तिक्यः काम्याश्च सामिधेन्यः"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/2/5/10_naimittikyaH_kAmyAshcha_sAmidhenyaH"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/2/5/10_naimittikyaH_kAmyAshcha_sAmidhenyaH"  newLevelForH1="1" includeTitle="true">
 
 
 प्रजापतिऋषिः ।

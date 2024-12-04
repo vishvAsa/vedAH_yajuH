@@ -6,7 +6,7 @@ title = "४२ आभिर् गीर्भिः"
 
 अयम् प्रायश्चित्तपाठः श्रीनिवस-देशिकेन सूचितः।
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/32_Abhir_gIrbhir.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/32_Abhir_gIrbhir.md">
 <details open><summary><h4>32 आभिर् गीर्भिर् ...{Loading}...</h4></summary>
 
 आ॒भिर् गी॒र्भिर् यद् अतो॑ न **ऊ॒नम्**   

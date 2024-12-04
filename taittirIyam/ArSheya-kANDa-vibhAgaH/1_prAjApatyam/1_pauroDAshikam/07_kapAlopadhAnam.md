@@ -2,7 +2,7 @@
 title = "०७ कपालोपधानम्"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/1_darshapUrNamAsAdi/07_kapAlopadhAnam"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/1_darshapUrNamAsAdi/07_kapAlopadhAnam"  newLevelForH1="1" includeTitle="true">
 
 १२ अनुष्टुप् ।  प्रजापतिर्ऋषिः
 
@@ -127,7 +127,7 @@ The Raksas is burnt, the evil spirits are burnt.
 'अग्निवत्युपदधाति' (तै.ब्रा. 3.2.7) इत्यादि ब्राह्मणम् ॥
 
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/bhaTTa-bhAskara-TIkA/1/2_somayAgArambhaH/02_barhirAstaraNam/raxorAtI.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/bhaTTa-bhAskara-TIkA/1/2_somayAgArambhaH/02_barhirAstaraNam/raxorAtI.md">
 <details open><summary><h5>रक्षोऽराती ...{Loading}...</h5></summary>
 
 
@@ -175,7 +175,7 @@ Thou art firm; make firm the earth, make life firm, make offspring firm,
 
 यजमानस्यायुः प्रजां च दृंह । प्रजाशब्दः कृदुत्तरप्रकृतिस्वरेण (पा.सू. 6.2.139) अन्तोदात्तः ।
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/07_kapAlopadhAnam/sajAtAn.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/07_kapAlopadhAnam/sajAtAn.md">
 <details open><summary><h5>सजातान् अस्मै ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -236,7 +236,7 @@ Thou art a supporter, make firm the atmosphere, make expiration firm, make inspi
 
 प्राणापानशब्दौ थाथादिस्वरेण (पा.सू. 6.2.144) अन्तोदात्तौ ।  समानमन्यत् ॥
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/07_kapAlopadhAnam/sajAtAn.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/07_kapAlopadhAnam/sajAtAn.md">
 <details open><summary><h5>सजातान् अस्मै ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -293,7 +293,7 @@ Thou are supporting, make the heaven firm, make the eye [1] firm, make the ear f
 
 - [दृंह दृढां कुरु । दृह दृहि वृद्धौ, अन्तर्भावितण्यर्थः]
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/07_kapAlopadhAnam/sajAtAn.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/07_kapAlopadhAnam/sajAtAn.md">
 <details open><summary><h5>सजातान् अस्मै ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -350,7 +350,7 @@ Thou art a support, make the quarters firm, make the organ firm, make offspring 
 
 - [दृंह दृढां कुरु । दृह दृहि वृद्धौ, अन्तर्भावितण्यर्थः]
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/07_kapAlopadhAnam/sajAtAn.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/07_kapAlopadhAnam/sajAtAn.md">
 <details open><summary><h5>सजातान् अस्मै ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -405,7 +405,7 @@ Ye are gatherers, bring offspring to this sacrificer, wealth to him,
 
 चीयन्ते उपचीयन्ते इति चितः चितयः । यस्माच्चितः स्थ, तस्मादस्य यजमानस्य प्रजार्थं पर्यूहत परितश्चिनुत । प्रत्येकमभिधानादेकवचनम् । शिष्टं स्पष्टम् ॥
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/07_kapAlopadhAnam/sajAtAn.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/07_kapAlopadhAnam/sajAtAn.md">
 <details open><summary><h5>सजातान् अस्मै ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -459,7 +459,7 @@ ____
 
 12कपालानि विमुञ्चति - यानीति ॥ इष्टिसंस्थानकालभाविनोपि विमोकमन्त्रस्य प्रासङ्गिकमिहाम्नानम् ।
 </details>
-<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/07_kapAlopadhAnam/yAni_gharme.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/07_kapAlopadhAnam/yAni_gharme.md">
 <details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 यानि॑ घ॒र्मे **क॒पाला᳚न्य्**  
@@ -468,7 +468,7 @@ ____
 **इ॑न्द्र-वा॒यू वि मु॑ञ्चताम्** ॥ [11]   
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/07_kapAlopadhAnam/yAni_gharme.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/07_kapAlopadhAnam/yAni_gharme.md">
 <details open><summary><h5>यानि घर्मे ...{Loading}...</h5></summary>
 <details><summary>Keith</summary>
 

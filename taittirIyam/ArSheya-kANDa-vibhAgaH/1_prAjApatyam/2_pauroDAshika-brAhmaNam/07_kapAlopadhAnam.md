@@ -3,7 +3,7 @@ title = "०७ कपालोपधानम्"
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/07_kapAlopadhAnam"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/07_kapAlopadhAnam"  newLevelForH1="1" includeTitle="true">
 
 ## धृष्ट्यादानम् 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

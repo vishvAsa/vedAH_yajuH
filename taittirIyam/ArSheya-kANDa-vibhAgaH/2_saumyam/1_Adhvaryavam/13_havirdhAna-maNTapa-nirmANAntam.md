@@ -3,7 +3,7 @@ title = "१३ हविर्धान-मण्टप-निर्माण�
 short_title = "१३"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/2_somayAgArambhaH/13_havirdhAna-maNTapa-nirmANAntam"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/2_somayAgArambhaH/13_havirdhAna-maNTapa-nirmANAntam"  newLevelForH1="1" includeTitle="true">
 
 १३ हविर्धान-मण्टप-निर्माणान्तम्
 
@@ -1050,7 +1050,7 @@ ________
 
 8अध्वर्यू हविर्धानयोर्मध्यौ निघ्नतः - दिव इति त्रिष्टुभा ॥
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/13_havirdhAna-maNTapa-nirmANAntam/02_divo_vA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/13_havirdhAna-maNTapa-nirmANAntam/02_divo_vA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 दि॒वो वा॑ +++(हे)+++ विष्णव् उ॒त वा॑ पृथि॒व्या  
@@ -1059,7 +1059,7 @@ ________
 आ प्र य॑च्छ दख्षि॑णा॒द् ओत स॒व्यात् ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/13_havirdhAna-maNTapa-nirmANAntam/02_divo_vA.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/13_havirdhAna-maNTapa-nirmANAntam/02_divo_vA.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -1427,7 +1427,7 @@ Des Vischnu grosse Thaten will ich preisen, der weit durchmessen hat der Erde R�
 ________
 
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/13_havirdhAna-maNDapa-nirmANam/viShNo_rarATam.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/13_havirdhAna-maNDapa-nirmANam/viShNo_rarATam.md">
 <details open><summary><h5>विष्णो॑ र॒राट॑म् ...{Loading}...</h5></summary>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 

@@ -50,7 +50,7 @@ title = "सन्ध्या-वन्दनादि-मन्त्र-स�
 
 
 ## मित्रः
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/1/06_ukhAsaMskAraH/04_mitrasya_charShaNIdhRtaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/1/06_ukhAsaMskAraH/04_mitrasya_charShaNIdhRtaH.md">
 <details open><summary><h4>04 मित्रस्य चर्षणीधृतः ...{Loading}...</h4></summary>
 
 मि॒त्रस्य॑ चर्षणी॒+++(मनुष्य)+++-**धृतः॒**  
@@ -58,7 +58,7 @@ title = "सन्ध्या-वन्दनादि-मन्त्र-स�
 **स॒त्यं** चि॒त्र-श्र॑वस्तमम् ॥
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/3/4/11_rAjasUyagatA_yAjyApuronuvAkyAH/mitro_janAn.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/4/11_rAjasUyagatA_yAjyApuronuvAkyAH/mitro_janAn.md">
 <details open><summary><h5>मित्रो जनान् ...{Loading}...</h5></summary>
 
 
@@ -135,7 +135,7 @@ title = "सन्ध्या-वन्दनादि-मन्त्र-स�
 
 
 ## सूर्यः
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/3/4/11_rAjasUyagatA_yAjyApuronuvAkyAH/A_satyena_rajasA.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/4/11_rAjasUyagatA_yAjyApuronuvAkyAH/A_satyena_rajasA.md">
 <details open><summary><h5>आ सत्येन रजसा ...{Loading}...</h5></summary>
 
 
@@ -197,9 +197,9 @@ title = "सन्ध्या-वन्दनादि-मन्त्र-स�
 </div>
 
 ## गायत्री
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/26_AyAtu_varadA">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/26_AyAtu_varadA">
 <details open><summary><h5>२६ आयातु वरदा ...{Loading}...</h5></summary>
-<div class="js_include" newlevelforh1="4" includetitle="false" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/26_AyAtu_varadA/01_AyAtu_varadA.md">
+<div class="js_include" newlevelforh1="4" includetitle="false" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/26_AyAtu_varadA/01_AyAtu_varadA.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
 +++(आरण्यक-स्वर-विकारम् उपेक्षते विश्वासः।)+++
@@ -210,7 +210,7 @@ title = "सन्ध्या-वन्दनादि-मन्त्र-स�
 मा॒तेदं ब्र॑ह्म जु॒षस्व॑ नः ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/26_AyAtu_varadA/01_AyAtu_varadA.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/26_AyAtu_varadA/01_AyAtu_varadA.md">
 <details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
 <details><summary>मूलम्</summary>
 
@@ -253,7 +253,7 @@ title = "सन्ध्या-वन्दनादि-मन्त्र-स�
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/30_uttame_shikhare.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/30_uttame_shikhare.md">
 <details open><summary><h2>३० उत्तमे शिखरे ...{Loading}...</h2></summary>
 
 +++(आरण्यक-स्वर-विकारम् उपेक्षते विश्वासः।)+++
@@ -266,7 +266,7 @@ title = "सन्ध्या-वन्दनादि-मन्त्र-स�
 </div>
 
 ## सविता
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/27_sashiro_gAyatrI">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/27_sashiro_gAyatrI">
 <details open><summary><h5>२७ सशिरो गायत्री ...{Loading}...</h5></summary>
 
 ###### शिरः
@@ -1017,7 +1017,7 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 एवं - दक्षि॑णायै प्रती᳚च्यै उदी᳚च्यै ऊ॒र्ध्वायै॑, नमोऽध॑रायै, नमो॑ऽवान्त॒रायै॑ …
 
 ## परिधानीयम्
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/02_svAdhyAya-brAhmaNAdi/namo_brahmaNe.md">
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/02_svAdhyAya-brAhmaNAdi/namo_brahmaNe.md">
 <details open><summary><h3>नमो ब्रह्मणे ...{Loading}...</h3></summary>
 
 (ॐ)  

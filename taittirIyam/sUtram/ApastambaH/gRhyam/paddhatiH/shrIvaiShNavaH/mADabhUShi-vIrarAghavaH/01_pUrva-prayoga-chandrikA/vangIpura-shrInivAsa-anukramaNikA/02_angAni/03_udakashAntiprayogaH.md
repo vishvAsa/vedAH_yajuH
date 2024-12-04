@@ -76,7 +76,7 @@ title = "०३ उदकशान्तिप्रयोगः"
 
 ### उदीचीस् तिस्रो रेखाः
 
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/5/5/09/38_yo_rudro.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/5/09/38_yo_rudro.md">
 <details open><summary><h4>38 यो रुद्रो ...{Loading}...</h4></summary>
 
 यो रु॒द्रो अ॒ग्नौ , यो अ॒फ्सु ,  
@@ -136,7 +136,7 @@ title = "०३ उदकशान्तिप्रयोगः"
 
 तस्मिन् गायत्र्या तिरः पवित्रं निधाय, 
 
-<div class="js_include" includetitle="true" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/22_Apo_vA_idam/">
+<div class="js_include" includetitle="true" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/22_Apo_vA_idam/">
 <details open><summary><h4>२२ आपो वा इदम् ...{Loading}...</h4></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

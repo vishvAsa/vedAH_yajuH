@@ -280,7 +280,7 @@ _________
 [[26]]
 
 ### दानम्
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/3/3/02_stotropAkaraNam_pratigarAngamantrAshcha/iDA_devahUH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/3/02_stotropAkaraNam_pratigarAngamantrAshcha/iDA_devahUH.md">
 <details open><summary><h5>इडा॑ देव॒हूः ...{Loading}...</h5></summary>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -337,7 +337,7 @@ O earth mother, do not harm me.
 </details>
 </div>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/3/3/02_stotropAkaraNam_pratigarAngamantrAshcha/madhu_maniShye.md"  newLevelForH1="5" includeTitle="false">   
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/3/02_stotropAkaraNam_pratigarAngamantrAshcha/madhu_maniShye.md"  newLevelForH1="5" includeTitle="false">   
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

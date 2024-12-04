@@ -3,7 +3,7 @@ title = "१९ सृष्टिसाधनत्वेन होतृमन
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/2/3_hotR-brAhmaNAdi/08_sRShTisAdhanatvena_hotRmantrasAmarthyaprashaMsA"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/3_hotR-brAhmaNAdi/08_sRShTisAdhanatvena_hotRmantrasAmarthyaprashaMsA"  newLevelForH1="1" includeTitle="true">
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

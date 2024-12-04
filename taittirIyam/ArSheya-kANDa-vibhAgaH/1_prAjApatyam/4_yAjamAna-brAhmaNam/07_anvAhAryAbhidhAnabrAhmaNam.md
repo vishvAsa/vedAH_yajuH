@@ -2,7 +2,7 @@
 title = "०७ अन्वाहार्याभिधानब्राह्मणम्"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/03_anvAhAryAbhidhAnabrAhmaNam"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/03_anvAhAryAbhidhAnabrAhmaNam"  newLevelForH1="1" includeTitle="true">
 
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>

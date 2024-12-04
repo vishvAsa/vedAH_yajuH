@@ -3,7 +3,7 @@ title = "१३ अद्भ्यस् सम्भूतः"
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/13_adbhyas_sambhUtaH"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/13_adbhyas_sambhUtaH"  newLevelForH1="1" includeTitle="true">
 
 - सायणो [ऽत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_036_Taittiriya_Aranyakam_With_Sayana_Bhashya_Part_1_-_Babasastri_Phadke_1898#page/n197/mode/1up) ।
 
@@ -12,7 +12,7 @@ unicode_script = "devanagari"
 +++(सन्दर्भार्थम् आदौ [पुरुषसूक्तम्](../sahasra-shIrShA/) ईक्षताम्।)+++
 
 
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/03_chAturhotra-chayanAdi/13_adbhyas_sambhUtaH/02_adbhyaH_sambhUtaH.md">
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/03_chAturhotra-chayanAdi/13_adbhyas_sambhUtaH/02_adbhyaH_sambhUtaH.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अ॒द्भ्यः संभू॑तः पृथि॒व्यै+++(व्याः)+++ रसा॑च् च +++(विराट् ब्रह्माण्डरूपः)+++।  
@@ -21,7 +21,7 @@ unicode_script = "devanagari"
 तत् पुरु॑षस्य॒ विश्व॒म् आजा॑न॒म् अग्रे॑ । १
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/03_chAturhotra-chayanAdi/13_adbhyas_sambhUtaH/02_adbhyaH_sambhUtaH.md">
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/03_chAturhotra-chayanAdi/13_adbhyas_sambhUtaH/02_adbhyaH_sambhUtaH.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -34,7 +34,7 @@ unicode_script = "devanagari"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/03_chAturhotra-chayanAdi/13_adbhyas_sambhUtaH/03_vedAham_etam.md">
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/03_chAturhotra-chayanAdi/13_adbhyas_sambhUtaH/03_vedAham_etam.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 वेदा॒हम् ए॒तं पुरु॑षं म॒हान्त॑म् ।  
@@ -43,7 +43,7 @@ unicode_script = "devanagari"
 नान्यः पन्था॑ विद्य॒तेय॑ऽनाय । २
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/03_chAturhotra-chayanAdi/13_adbhyas_sambhUtaH/03_vedAham_etam.md">
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/03_chAturhotra-chayanAdi/13_adbhyas_sambhUtaH/03_vedAham_etam.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -56,7 +56,7 @@ unicode_script = "devanagari"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/03_chAturhotra-chayanAdi/13_adbhyas_sambhUtaH/04_prajApatish_charati.md">
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/03_chAturhotra-chayanAdi/13_adbhyas_sambhUtaH/04_prajApatish_charati.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 +++(त्रिपात्)+++ प्र॒जाप॑तिश् चरति॒ गर्भे॑ अ॒न्तः ।  
@@ -65,7 +65,7 @@ unicode_script = "devanagari"
 मरी॑चीनां +++(ऋषीणां)+++ प॒दम् इ॑च्छन्ति वे॒धसः॑ +++(त्रिपादश् [च])+++। ३
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/03_chAturhotra-chayanAdi/13_adbhyas_sambhUtaH/04_prajApatish_charati.md">
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/03_chAturhotra-chayanAdi/13_adbhyas_sambhUtaH/04_prajApatish_charati.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -79,7 +79,7 @@ unicode_script = "devanagari"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/03_chAturhotra-chayanAdi/13_adbhyas_sambhUtaH/05_yo_devebhya.md">
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/03_chAturhotra-chayanAdi/13_adbhyas_sambhUtaH/05_yo_devebhya.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 यो दे॒वेभ्य॒ आत॑पति+++(=काशते)+++ ।  
@@ -88,7 +88,7 @@ unicode_script = "devanagari"
 नमो॑ रु॒चाय॒+++(=रोचमानाय)+++ ब्राह्म॑ये+++(=वेदवेद्याय परिपूर्णपुरुषाय)+++ । ४
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/03_chAturhotra-chayanAdi/13_adbhyas_sambhUtaH/05_yo_devebhya.md">
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/03_chAturhotra-chayanAdi/13_adbhyas_sambhUtaH/05_yo_devebhya.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -101,7 +101,7 @@ unicode_script = "devanagari"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/03_chAturhotra-chayanAdi/13_adbhyas_sambhUtaH/06_ruchaM_brAhmam.md">
+<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/03_chAturhotra-chayanAdi/13_adbhyas_sambhUtaH/06_ruchaM_brAhmam.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 रुचं॑ ब्रा॒ह्मम् ज॒नय॑न्तः +++(विद्यया)+++।  
@@ -110,7 +110,7 @@ unicode_script = "devanagari"
 तस्य॑ दे॒वा अस॒न् वशे॑ । ५
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/03_chAturhotra-chayanAdi/13_adbhyas_sambhUtaH/06_ruchaM_brAhmam.md">
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/03_chAturhotra-chayanAdi/13_adbhyas_sambhUtaH/06_ruchaM_brAhmam.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 

@@ -2,7 +2,7 @@
 title = "२८ हारियोजनग्रहः"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/4_somAbhiShavAdi/28_hAriyojanagrahaH"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/4_somAbhiShavAdi/28_hAriyojanagrahaH"  newLevelForH1="1" includeTitle="true">
 
 
 सोमऋषिः

@@ -2,7 +2,7 @@
 title = "१८ यूपच्छेदनम्"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/3_agniShToma-pashv-Adi/05_yUpachChedanam"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/3_agniShToma-pashv-Adi/05_yUpachChedanam"  newLevelForH1="1" includeTitle="true">
 
 (अग्नीषोमपष्लभिधानाय पश्वङ्ग)यूपच्छेदनम्
 अग्नीषोमीयपशुसङ्गता मन्त्राः ५-११ अनुवाकाः
@@ -15,7 +15,7 @@ _______
 
 यूपार्थं वृक्षम् उपतिष्ठते - अत्यन्यानिति-द्वादशाक्षर-त्रिपदया  महाबृहत्या ।
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/05_yUpachChedanam/02_atyanyAn_agAn.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/05_yUpachChedanam/02_atyanyAn_agAn.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अत्य॒न्यान् अगा॒न्, नान्यान् उपा॑गाम् अ॒र्वाक्,  
@@ -23,7 +23,7 @@ _______
 तन् त्वा॑ जुषे वैष्ण॒वन् दे॑व-य॒ज्यायै॑ ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/05_yUpachChedanam/02_atyanyAn_agAn.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/05_yUpachChedanam/02_atyanyAn_agAn.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -55,7 +55,7 @@ _______
 
 2यूपमाज्येनानक्ति - देवस्त्वेति ॥
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/05_yUpachChedanam/devas_tvA.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/05_yUpachChedanam/devas_tvA.md">
 <details open><summary><h5>देवस् त्वा ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -82,7 +82,7 @@ _______
 
 ऊर्ध्वाग्रं बार्हिर् अनूच्छ्रयति - ओषधे त्रायस्वैनमिति ॥
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/oShadhe.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/oShadhe.md">
 <details open><summary><h5>ओषधे ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -118,7 +118,7 @@ _______
 
 स्वधि॑ते॒ मैनꣳ॑ हिꣳसीः।
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/svadhite.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/svadhite.md">
 <details open><summary><h5>स्वधिते ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -200,7 +200,7 @@ _______
 
 7आत्मानं प्रत्यभिमृशति - सहसवल्शा इति त्रिष्टुभैकपदया ॥
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/sahasra-valshAH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/sahasra-valshAH.md">
 <details open><summary><h5>सहस्र-वल्शाः ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -254,7 +254,7 @@ _______
 
 9चतुरङ्गुलमग्रं चषालाय+++(=यूप-कटकाय)+++ प्रच्छेदयति - अच्छिन्न इति ॥
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/05_yUpachChedanam/achChinnaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/05_yUpachChedanam/achChinnaH.md">
 <details open><summary><h5>अच्छिन्नः ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

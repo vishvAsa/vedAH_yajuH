@@ -24,7 +24,7 @@ title = "०३ बन्धनम्"
 'अग्निरायुष्मान्' इति पञ्चभिः **तण्डुल-पूर्णं**  
 दक्षिण-हस्तं **गृहीत्वा**
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/2/3/10_AyuShkAmeShTimantrAH/agnir_AyuShmAn.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/2/3/10_AyuShkAmeShTimantrAH/agnir_AyuShmAn.md">
 <details open><summary><h5>अ॒ग्निरायु॑ष्मा॒न्थ्स ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -69,7 +69,7 @@ title = "०३ बन्धनम्"
 
 ‘बृहत्सामे'ति **बद्ध्वा**
 
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/05_bRhathsAma_khShatrabhRd.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/05_bRhathsAma_khShatrabhRd.md">
 <details open><summary><h4>05 बृहथ्साम ख्षत्रभृद् ...{Loading}...</h4></summary>
 
 बृ॒हथ्-साम॑ ख्षत्र॒-भृद् वृ॒द्ध-वृ॑ष्णियन्,   
@@ -192,7 +192,7 @@ title = "०३ बन्धनम्"
 शश्वत् ॥ ८ ॥
 
 </details>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/3/1/10_pravRttahomAdimantrAbhidhAnam/35_viShNo_tvan.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/1/10_pravRttahomAdimantrAbhidhAnam/35_viShNo_tvan.md">
 <details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
 <details><summary>मूलम्</summary>
 
@@ -205,7 +205,7 @@ title = "०३ बन्धनम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/3/1/10_pravRttahomAdimantrAbhidhAnam/35_viShNo_tvan.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/1/10_pravRttahomAdimantrAbhidhAnam/35_viShNo_tvan.md">
 <details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
 <details><summary>मूलम्</summary>
 
@@ -274,7 +274,7 @@ title = "०३ बन्धनम्"
 
 'बृहत्सामे'ति स्त्रिया वामहस्ते बध्नीयात्,
 
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/05_bRhathsAma_khShatrabhRd.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/05_bRhathsAma_khShatrabhRd.md">
 <details open><summary><h4>05 बृहथ्साम ख्षत्रभृद् ...{Loading}...</h4></summary>
 
 बृ॒हथ्-साम॑ ख्षत्र॒-भृद् वृ॒द्ध-वृ॑ष्णियन्,   

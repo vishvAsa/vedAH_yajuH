@@ -3,7 +3,7 @@ title = "०५ व्रीह्यवघातः"
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/05_vrIhyavaghAtaH"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/05_vrIhyavaghAtaH"  newLevelForH1="1" includeTitle="true">
 
 <details><summary>मूलम्</summary>
 

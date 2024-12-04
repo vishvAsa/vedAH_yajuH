@@ -2,7 +2,7 @@
 title = "०२ यज्ञशालां प्रविष्टस्य यजमानस्य दीक्षाहोमवि"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/6/1/02_yajnashAlAM_praviShTasya_yajamAnasya_dIxAhomavi"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/6/1/02_yajnashAlAM_praviShTasya_yajamAnasya_dIxAhomavi"  newLevelForH1="1" includeTitle="true">
 
 
 सोमऋषिः

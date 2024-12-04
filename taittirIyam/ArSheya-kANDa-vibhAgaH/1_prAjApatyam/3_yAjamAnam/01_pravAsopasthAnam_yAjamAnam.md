@@ -2,7 +2,7 @@
 title = "०१ प्रवासोपस्थानं, याजमानम्"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam"  newLevelForH1="1" includeTitle="true">
 
 
 ## प्रवासोपस्थानम्
@@ -23,7 +23,7 @@ _______
 
 1अग्निभ्यः प्रवत्स्यन्नाहवनीयमुपतिष्ठते - मम नामेति त्रिष्टुभा ॥ 
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/02_mama_nAma.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/02_mama_nAma.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 **मम॒ नाम॑** प्रथ॒मञ् जा॑तवेदᳶ!  
@@ -32,7 +32,7 @@ _______
 तवा॒हन् **नाम॑ बिभराण्य्** अग्ने॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/02_mama_nAma.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/02_mama_nAma.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -66,7 +66,7 @@ _______
 
 2आगत्य प्रवासात्पुनस्तमुपतिष्ठते - मम नाम तव चेति । 
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/07_mama_nAma.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/07_mama_nAma.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 मम॒ **नाम॒** तव॑ च जातवेदो॒!  
@@ -75,7 +75,7 @@ _______
 य॑थाय॒थव्ँ **वि परि॑ दधावहै॒** पुन॒स् ते  ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/07_mama_nAma.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/07_mama_nAma.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -109,7 +109,7 @@ _______
 
 3गार्हपत्यमुपतिष्ठते - नमोग्नय इति त्रिष्टुभा ॥ 
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/12_namo.agnaye.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/12_namo.agnaye.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 **नमो॒ ऽग्नये** ऽप्र॑तिविद्धाय॒,
@@ -118,7 +118,7 @@ _______
 विश्व॒जिथ् सह॑न्त्य॒श्+++(=अभिभवनशीलश्)+++ श्रेष्ठो॑ गन्ध॒र्वः  ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/12_namo.agnaye.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/12_namo.agnaye.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -149,7 +149,7 @@ _______
 
 4अन्वाहार्यपचनम् उपतिष्ठते - त्वत्पितार इति ॥ 
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/17_tvatpitAro_agne.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/17_tvatpitAro_agne.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 **त्वत्-पि॑तारो** अग्ने **दे॒वास्**  
@@ -157,7 +157,7 @@ _______
 सम्-मामायु॑षा॒ सङ्-गौ॑प॒त्येन॒ **सुहि॑ते मा धाः**  ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/17_tvatpitAro_agne.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/17_tvatpitAro_agne.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -192,7 +192,7 @@ _______
 
 5आहवनीयमुपतिष्ठते - अयमित्यनुष्टुभा+++(??)+++ ॥ 
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/22_ayam_agnish.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/22_ayam_agnish.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अ॒यम् अ॒ग्निश् श्रेष्ठ॑तमो॒, ऽयम्  
@@ -200,7 +200,7 @@ _______
 अ॒स्मा अ॑स्तु सु॒वीर्य᳚म्  ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/22_ayam_agnish.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/22_ayam_agnish.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -229,7 +229,7 @@ _______
 
 6विच्छिन्ननिमित्तो होमः - मनो ज्योतिरिति । 
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/27_mano_jyotir.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/27_mano_jyotir.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 मनो॒ ज्योति॑र् **जुषता॒म्**, आज्य॒व्ँ  
@@ -240,7 +240,7 @@ _______
 +++(मनसे ज्योतिषे इदं न मम॥)+++
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/27_mano_jyotir.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/27_mano_jyotir.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -293,7 +293,7 @@ _______
 
 7अतः परम् इष्टि-याजमान-काण्डं प्राजापत्यम् । तत्राप आचामति - पयस्वतीरित्यनुष्टुभा ॥ 
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/32_payasvatIr_oShadhayaH.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/32_payasvatIr_oShadhayaH.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 पय॑स्वती॒र् ओष॑धयः॒   
@@ -302,7 +302,7 @@ _______
 तेन॒ माम् इ॑न्द्र॒ सꣳ सृ॑ज  ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/32_payasvatIr_oShadhayaH.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/32_payasvatIr_oShadhayaH.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -389,7 +389,7 @@ _______
 
 9हविर्निरुप्यमाणमभिमन्त्रयते - अग्निं होतारमिति । 
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/51_agniM_hotAram.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/51_agniM_hotAram.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 **अ॒ग्निꣳ** होता॑रम् इ॒ह तꣳ **हु॑वे**  
@@ -398,7 +398,7 @@ _______
 **वि॒यन्तु॑ दे॒वा** ह॒विषो॑ मे अ॒स्य  ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/51_agniM_hotAram.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/51_agniM_hotAram.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -453,7 +453,7 @@ _______
 
 11कपालानि विमुञ्चति - यानि घर्म इत्यनुष्टुभा ॥ 
 </details>
-<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/07_kapAlopadhAnam/yAni_gharme.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/07_kapAlopadhAnam/yAni_gharme.md">
 <details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 यानि॑ घ॒र्मे **क॒पाला᳚न्य्**  
@@ -462,7 +462,7 @@ _______
 **इ॑न्द्र-वा॒यू वि मु॑ञ्चताम्** ॥ [11]   
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/07_kapAlopadhAnam/yAni_gharme.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/07_kapAlopadhAnam/yAni_gharme.md">
 <details open><summary><h5>यानि घर्मे ...{Loading}...</h5></summary>
 <details><summary>Keith</summary>
 
@@ -500,14 +500,14 @@ _______
 
 12भिन्नं कपालम् उत्कर उदस्यति - अभिन्न इति । 
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/68_abhinno_gharmo.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/68_abhinno_gharmo.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 +++(भिन्ने ऽपि कपाले)+++ अभि॑न्नो घ॒र्मो +++(→यज्ञो)+++, जी॒र+++(=उदक)+++-दा॑नु॒र्  
 यत॒ आत्त॒स् तद् अ॑ग॒न् पुनः॑ ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/68_abhinno_gharmo.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/68_abhinno_gharmo.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -540,14 +540,14 @@ _______
 
 13आहवनीये सम्मीननीं जुहोति - इध्मो वेदिरित्युत्तरेणार्धर्चेन त्रयस्त्रिंशदिति त्रिष्टुभा च ॥ 
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/73_idhmo_vedipH.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/73_idhmo_vedipH.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 इ॒ध्मो वेदिᳶ॑ परि॒धय॑श् च॒ सर्वे॑  
 य॒ज्ञस्याऽऽयु॒र् अनु॒ सञ्च॑रन्ति  ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/73_idhmo_vedipH.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/73_idhmo_vedipH.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -564,7 +564,7 @@ Attend the life of the sacrifice.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/77_trayastriMshat_tantavo.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/77_trayastriMshat_tantavo.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 त्रय॑स्-त्रिꣳश॒त् +++(देवरूपा)+++ **तन्त॑वो॒** ये **वि॑तत्नि॒रे**,  
@@ -573,7 +573,7 @@ Attend the life of the sacrifice.
 स्वाहा॑   ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/77_trayastriMshat_tantavo.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/77_trayastriMshat_tantavo.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 

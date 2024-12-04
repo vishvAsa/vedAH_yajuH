@@ -3,7 +3,7 @@ title = "१८ 'शञ्च मे’,"
 
 +++
 
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/4/7/03_vasordhArA_shaM_cha_me/">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/4/7/03_vasordhArA_shaM_cha_me/">
 <details open><summary><h4>०३ वसोर्धारा होममन्त्राः ...{Loading}...</h4></summary>
 
 अग्निर्ऋषिः

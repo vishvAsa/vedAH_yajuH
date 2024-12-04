@@ -3,7 +3,7 @@ title = "०१ वत्सापाकरणम्"
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/01_vatsApAkaraNam"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/01_vatsApAkaraNam"  newLevelForH1="1" includeTitle="true">
 
 ## प्राजापत्यकाण्डम्‌ 
 ## दर्शपूर्णमासेष्टिब्राह्मणम् - पौरोडाशिकम्

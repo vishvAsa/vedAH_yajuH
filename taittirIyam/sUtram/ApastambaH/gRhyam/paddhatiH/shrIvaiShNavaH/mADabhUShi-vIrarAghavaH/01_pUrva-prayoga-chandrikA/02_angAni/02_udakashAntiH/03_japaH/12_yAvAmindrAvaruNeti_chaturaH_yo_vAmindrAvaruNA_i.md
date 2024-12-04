@@ -7,7 +7,7 @@ title = "१२ 'यावामिन्द्रावरुणे'ति, '�
 
 [[3]]
 
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/2/3/13_pApmanA_gRhItasyeShTiH/yA_vAm.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/2/3/13_pApmanA_gRhItasyeShTiH/yA_vAm.md">
 <details open><summary><h4>Y A v Am ...{Loading}...</h4></summary>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 

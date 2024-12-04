@@ -3,7 +3,7 @@ title = "०१ होतुर्जपः पुरस्तात् सा�
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/3/5_iShTi-hautrAdi/01_hoturjapaH_purastAt_sAmidhenInAm"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/3/5_iShTi-hautrAdi/01_hoturjapaH_purastAt_sAmidhenInAm"  newLevelForH1="1" includeTitle="true">
 
 ## प्राजापत्यं काण्डम्
 ## इष्टिहौत्रम्

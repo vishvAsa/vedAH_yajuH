@@ -2,7 +2,7 @@
 title = "०७ आश्विनग्रहः"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/4_somAbhiShavAdi/07_AshvinagrahaH"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/4_somAbhiShavAdi/07_AshvinagrahaH"  newLevelForH1="1" includeTitle="true">
 
 
 गायत्री । सोमऋषिः
@@ -12,7 +12,7 @@ _______
 
 1पुनरप्याश्विनग्रहणमन्त्रः - प्रातर्युजाविति गायत्री त्रिपदा । पूर्वेण सहास्य विकल्पः ॥
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/07_AshvinagrahaH/02_prAtaryujau_vi.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/07_AshvinagrahaH/02_prAtaryujau_vi.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 +++(आश्विनशस्त्रादिभिः)+++ प्रा॒त॒र्-युजौ॒ **वि मु॑च्येथा॒म्**  
@@ -20,7 +20,7 @@ _______
 अ॒स्य सोम॑स्य पी॒तये᳚ ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/07_AshvinagrahaH/02_prAtaryujau_vi.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/07_AshvinagrahaH/02_prAtaryujau_vi.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -49,7 +49,7 @@ _______
 इत्यनुद्रुत्योपयामगृहीतोस्यश्विभ्यां त्वेति गृह्णाति ॥
 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
 <details open><summary><h5>उपयामगृहीतः ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

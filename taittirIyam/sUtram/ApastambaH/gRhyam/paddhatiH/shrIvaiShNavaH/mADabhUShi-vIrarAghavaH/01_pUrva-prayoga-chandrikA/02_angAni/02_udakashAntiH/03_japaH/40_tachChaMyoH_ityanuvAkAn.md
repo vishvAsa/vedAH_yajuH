@@ -2,7 +2,7 @@
 title = "४० ‘तच्छंयोः' इत्यनुवाकान्,"
 
 +++
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/3/5_iShTi-hautrAdi/11_shaMyu-vAkaH_tach_ChaMyoH">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/3/5_iShTi-hautrAdi/11_shaMyu-vAkaH_tach_ChaMyoH">
 <details open><summary><h4>११, शंयुवाकः ...{Loading}...</h4></summary>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 

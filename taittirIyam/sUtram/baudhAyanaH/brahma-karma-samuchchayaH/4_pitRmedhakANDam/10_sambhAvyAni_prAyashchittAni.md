@@ -24,7 +24,7 @@ title = "१० सम्भाव्यानि प्रायश्चित
 शिला-नाशे  
 ऽन्यच्-छिला-त्रयं पूर्ववत् **प्रतिष्ठाप्यावाह्य स्पृष्ट्वा जपेत्** -
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yaJNaH/01_AyAtu_devas.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yaJNaH/01_AyAtu_devas.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 **आया॑तु** दे॒वस् सु॒मना॑भिर् ऊ॒तिभि॑र्  
@@ -167,7 +167,7 @@ title = "१० सम्भाव्यानि प्रायश्चित
 
 इत्य् अद्भिश्चितां **प्रोक्ष्य**
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/8/19_ayante_yonir.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/8/19_ayante_yonir.md">
 <details open><summary><h5>19 अयन्ते योनिर् ...{Loading}...</h5></summary>
 
 अ॒यन् ते॒ **योनि॑र्** ऋ॒त्वियः॑ ।  
@@ -183,7 +183,7 @@ title = "१० सम्भाव्यानि प्रायश्चित
 लौकिकाग्निं **प्रतिष्ठाप्य**  
 तां समिधम् **आदधाति** -
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/6/05_chityAm_agni-sthApanAdi-mAruta-homAntam/07_AjuhvAnas_supratIkapH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/6/05_chityAm_agni-sthApanAdi-mAruta-homAntam/07_AjuhvAnas_supratIkapH.md">
 <details open><summary><h5>07 आजुह्वानस् सुप्रतीकᳶ ...{Loading}...</h5></summary>
 
 **आ॒जुह्वा॑नस्**+++(=हूयमानः)+++ सु॒-प्रती॑कᳶ पु॒रस्ता॒द्  
@@ -192,7 +192,7 @@ title = "१० सम्भाव्यानि प्रायश्चित
 विश्वे॑ देवाः॒! यज॑मानश् च **सीदत** ।
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/45_udbudhyasvAgne_prati.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/45_udbudhyasvAgne_prati.md">
 <details open><summary><h5>45 उद्बुध्यस्वाग्ने प्रति ...{Loading}...</h5></summary>
 
 उद्बु॑ध्यस्वाग्ने॒ प्रति॑ जागृह्येनमिष्टापू॒र्ते सꣳसृ॑जेथाम॒यञ्च॑ ।   
@@ -231,7 +231,7 @@ title = "१० सम्भाव्यानि प्रायश्चित
 
 "अग्नये अयस इदं॰" । स्रुचि चतुर्ग्रहीत गृहीत्वा जुहोति 
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/03_pashchAt_agnir_hotA">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/03_pashchAt_agnir_hotA">
 <details open><summary><h5>०३ पश्चात् ...{Loading}...</h5></summary>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -333,7 +333,7 @@ title = "१० सम्भाव्यानि प्रायश्चित
 
 मनस्वती, 
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/mano_jyotir.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/mano_jyotir.md">
 <details open><summary><h5>मनो ज्योतिर् ...{Loading}...</h5></summary>
 
 
@@ -346,7 +346,7 @@ title = "१० सम्भाव्यानि प्रायश्चित
 
 मिन्दाहुती, 
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/3/2/05_bhaxAnuvAkaH/07_yan_ma.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/2/05_bhaxAnuvAkaH/07_yan_ma.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 यन् म॑ आ॒त्मनो॑ मि॒न्दा+++(=हिंसा)+++ **ऽऽभू॑द्**,  
@@ -354,7 +354,7 @@ title = "१० सम्भाव्यानि प्रायश्चित
 जा॒तवे॑दा॒ विच॑र्षणिः+++(विचक्षणः)+++॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/3/2/05_bhaxAnuvAkaH/08_punar_agnish.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/2/05_bhaxAnuvAkaH/08_punar_agnish.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 पुन॑र् अ॒ग्निश् चक्षु॑र् **अदा॒त्**  
@@ -369,7 +369,7 @@ title = "१० सम्भाव्यानि प्रायश्चित
 
 महाव्याहृतीः, 
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/02_bhUr_agnaye_mahAvyAhRtayaH/">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/02_bhUr_agnaye_mahAvyAhRtayaH/">
 <details open><summary><h5>०२ भूर् अग्नये महाव्याहृतयः ...{Loading}...</h5></summary>
 <details><summary>सायणोक्त-विनियोगः</summary>
 

@@ -12,7 +12,7 @@ title = "०९ रुद्रसूक्तम्"
 ‘परिणो रुद्रस्य हेतिः’ ‘स्तुहि श्रुतं' 'मीढुष्टम' 'अर्हन् बिभर्षि' 'त्वमग्ने रुद्रः' 'आ वो राजानम्' इति रुद्रसूक्तं,
 
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/2/8_kAmya-pashavaH/6_sAvitrAdi-pashu-sUktAni/05_rudraH_-_pari_No">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/8_kAmya-pashavaH/6_sAvitrAdi-pashu-sUktAni/05_rudraH_-_pari_No">
 <details open><summary><h10>०५ रुद्रः - परि णो ...{Loading}...</h10></summary>
 <details><summary>सायणोक्त-विनियोगः</summary>
 
@@ -22,7 +22,7 @@ title = "०९ रुद्रसूक्तम्"
 
 परि॑ णो रु॒द्रस्य॑ हे॒तिस्स्तु॒हि श्रु॒तम् ।   
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/09_pari_No.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/09_pari_No.md">
 <details open><summary><h14>विश्वास-प्रस्तुतिः ...{Loading}...</h14></summary>
 
 **परि॑** णो रु॒द्रस्य॑ हे॒तिर् **वृ॑णक्तु॒**  
@@ -31,7 +31,7 @@ title = "०९ रुद्रसूक्तम्"
 मीढ्व॑स् तो॒काय॒ तन॑याय मृडय ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/09_pari_No.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/09_pari_No.md">
 <details open><summary><h14>सर्वाष् टीकाः ...{Loading}...</h14></summary>
 <details><summary>Keith</summary>
 
@@ -1151,7 +1151,7 @@ Des Opfers König, ihn den hehren Agni, der recht verehrt, den Priester beider W
 </div>     
 
 ## इमा रुद्राय
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/2/8_kAmya-pashavaH/6_sAvitrAdi-pashu-sUktAni/04_rudraH_-_imA_rudrAya">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/8_kAmya-pashavaH/6_sAvitrAdi-pashu-sUktAni/04_rudraH_-_imA_rudrAya">
 <details open><summary><h5>०४ रुद्रः - इमा रुद्राय ...{Loading}...</h5></summary>
 <details><summary>सायणोक्त-विनियोगः</summary>
 
@@ -1226,7 +1226,7 @@ Des Opfers König, ihn den hehren Agni, der recht verehrt, den Priester beider W
 अर्ह॑न्नि॒दन्द॑यसे॒ विश्व॒मब्भु॑वम् ।  
 न वा ओजी॑यो रुद्र॒ त्वद॑स्ति । 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/07_mA_nas.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/07_mA_nas.md">
 <details open><summary><h10>07 मा नस् ...{Loading}...</h10></summary>
 
 मा न॑स् तो॒के+++(=अपत्यमात्रे)+++ तन॑ये॒ मा न॒ आयु॑षि॒  
@@ -1235,7 +1235,7 @@ Des Opfers König, ihn den hehren Agni, der recht verehrt, den Priester beider W
 **ह॒विष्म॑न्तो॒ नम॑सा विधेम** ते ।
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/07_mA_nas.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/07_mA_nas.md">
 <details open><summary><h10>07 मा नस् ...{Loading}...</h10></summary>
 <details><summary>Keith</summary>
 

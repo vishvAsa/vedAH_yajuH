@@ -3,7 +3,7 @@ title = "११ शंयुवाकः"
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/3/5_iShTi-hautrAdi/11_shaMyuvAkaH"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/3/5_iShTi-hautrAdi/11_shaMyuvAkaH"  newLevelForH1="1" includeTitle="true">
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 

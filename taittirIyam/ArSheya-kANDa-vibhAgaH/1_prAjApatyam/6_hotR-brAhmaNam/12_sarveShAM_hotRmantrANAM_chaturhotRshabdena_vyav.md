@@ -3,7 +3,7 @@ title = "१२ सर्वेषां होतृमन्त्राणा
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/2/3_hotR-brAhmaNAdi/01_sarveShAM_hotRmantrANAM_chaturhotRshabdena_vyav"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/3_hotR-brAhmaNAdi/01_sarveShAM_hotRmantrANAM_chaturhotRshabdena_vyav"  newLevelForH1="1" includeTitle="true">
 
 ##  होतृब्राह्मणशेषः
 

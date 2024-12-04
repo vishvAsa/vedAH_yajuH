@@ -3,7 +3,7 @@ title = "२४ 'भूतं भव्यं भविष्यत्'"
 
 +++
 
-<div class="js_include" includetitle="true" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/7/3/11_ashvamedhaH/12_paryAptihomamantrAH/">
+<div class="js_include" includetitle="true" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/7/3/11_ashvamedhaH/12_paryAptihomamantrAH/">
 <details open><summary><h4>१२ पर्याप्तिहोममन्त्राः ...{Loading}...</h4></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

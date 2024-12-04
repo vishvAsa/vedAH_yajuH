@@ -2,7 +2,7 @@
 title = "२२ पशु-प्राणाप्यायनादि"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/3_agniShToma-pashv-Adi/09_pashu-prANApyAyanAdi"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/3_agniShToma-pashv-Adi/09_pashu-prANApyAyanAdi"  newLevelForH1="1" includeTitle="true">
 
 पशोः प्राणानामाप्यायनम्, वपायागः  
 संज्ञपितस्य पशोर् वपवोत्खिदनम्
@@ -103,7 +103,7 @@ _______
 
 5पुनर् वागादीन् अभिमृशति - या ते प्राणानिति बृहत्या पञ्चपदया अष्टर्तुवसुषडष्टाक्षरया ॥ 
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/09_pashu-prANApyAyanAdi/02_yA_te.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/09_pashu-prANApyAyanAdi/02_yA_te.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 या ते᳚ प्रा॒णाञ् **छुग्** ज॒गाम    
@@ -113,7 +113,7 @@ _______
 तत् त॑ ए॒तेन॑ **शुन्धताम्**।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/09_pashu-prANApyAyanAdi/02_yA_te.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/09_pashu-prANApyAyanAdi/02_yA_te.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -259,7 +259,7 @@ ________
 
 10वपाग्रहणदेशे प्राचीनाग्रं बर्हिर्निदधाति - ओषधे त्रायस्वैनमिति ॥ व्याख्यातम् ॥
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/oShadhe.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/oShadhe.md">
 <details open><summary><h5>ओषधे ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -296,7 +296,7 @@ _______
 11स्वधितिं निदधाति - स्वधिते मैनं हिंसीरिति ॥ व्याख्यातमेव ॥
 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/svadhite.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/svadhite.md">
 <details open><summary><h5>स्वधिते ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -428,7 +428,7 @@ _______
 
 15अधस्ताद् वपरं परिवासयति - अच्छिन्न इति ॥
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/05_yUpachChedanam/achChinnaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/05_yUpachChedanam/achChinnaH.md">
 <details open><summary><h5>अच्छिन्नः ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -459,7 +459,7 @@ _______
 
 16एति - उर्वन्तरिक्षमन्विहीति ॥ व्याख्यातमेव ।
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/urvantarixam.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/urvantarixam.md">
 <details open><summary><h5>उर्वन्तरिक्षम् ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

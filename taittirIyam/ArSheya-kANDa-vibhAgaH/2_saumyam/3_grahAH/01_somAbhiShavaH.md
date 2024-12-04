@@ -2,7 +2,7 @@
 title = "०१ सोमाभिषवः"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/4_somAbhiShavAdi/01_somAbhiShavaH"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/4_somAbhiShavAdi/01_somAbhiShavaH"  newLevelForH1="1" includeTitle="true">
 
 (पात्रेषु रसग्रहणाय पूर्वम् उपावहृतस्य सोमस्याभिषवः)  
 सोमऋषिः
@@ -12,7 +12,7 @@ _______
 
 1अतः परं ग्रहकाण्डं सोमार्षेयम् । उपांशुसवनं ग्रावाणमादत्ते - आदद इति ॥
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
 <details open><summary><h5>देवस्य त्वा सवितुः ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -73,7 +73,7 @@ _______
 
 ग्रावा᳚स्यध्वर॒कृद्दे॒वेभ्यो॑ गम्भी॒रमि॒मम॑ध्व॒रङ्कृ॑ध्युत्त॒मेन॑ प॒विनेन्द्रा॑य॒ सोम॒ꣳ॒ सुषु॑त॒म्मधु॑मन्त॒म्पय॑स्वन्तव्ँवृष्टि॒वनिम् 
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/01_somAbhiShavaH/02_grAvAsy_adhvarakRd.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/01_somAbhiShavaH/02_grAvAsy_adhvarakRd.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 **ग्रावा᳚स्य्** अध्वर॒कृद् - दे॒वेभ्यो॑  
@@ -83,7 +83,7 @@ _______
 मधु॑मन्त॒म् पय॑स्वन्तव्ँ वृष्टि॒-वनिम्
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/01_somAbhiShavaH/02_grAvAsy_adhvarakRd.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/01_somAbhiShavaH/02_grAvAsy_adhvarakRd.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -302,7 +302,7 @@ _______
 
 यत्ते॑ सोम दि॒वि ज्योति॒र्यत्पृ॑थि॒व्याय्ँ यदु॒राव॒न्तरि॑ख्षे । तेना॒स्मै यज॑मानायो॒रु रा॒या कृ॒ध्यधि॑ दा॒त्रे वो॑चः ।
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/01_somAbhiShavaH/03_yat_te.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/01_somAbhiShavaH/03_yat_te.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 यत् ते॑ सोम दि॒वि ज्योति॒र्  
@@ -311,7 +311,7 @@ _______
 रा॒या **कृ॒ध्य्**, अधि॑ दा॒त्रे **वो॑चः**+++(←वच्)+++।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/01_somAbhiShavaH/03_yat_te.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/01_somAbhiShavaH/03_yat_te.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 

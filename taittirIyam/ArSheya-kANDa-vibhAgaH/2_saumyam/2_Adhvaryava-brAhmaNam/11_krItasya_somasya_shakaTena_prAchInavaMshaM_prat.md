@@ -2,7 +2,7 @@
 title = "११ क्रीतस्य सोमस्य शकटेन प्राचीनवंशं प्रत्"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/6/1/11_krItasya_somasya_shakaTena_prAchInavaMshaM_prat"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/6/1/11_krItasya_somasya_shakaTena_prAchInavaMshaM_prat"  newLevelForH1="1" includeTitle="true">
 
 
 सोसोमऋषिः

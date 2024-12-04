@@ -99,7 +99,7 @@ title = "०५ भोजनम्"
 दक्षिणे पित्रर्थं ब्राह्मणं पूर्ववत् उपवेश्य,  
 गोमयेन अनुलिप्य
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/06_shan_no.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/06_shan_no.md">
 <details open><summary><h5>06 शन् नो ...{Loading}...</h5></summary>
 
 शन् नो॑ दे॒वीर् अ॒भिष्ट॑ये ।  
@@ -230,7 +230,7 @@ title = "०५ भोजनम्"
 इति मन्त्रेण  
 पूर्ववत् ‘इमानि पुष्पाणि, श्रीतुलसीदलानि च’ इति दद्यात् ॥
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/dhUr_asi_dhUpArtham.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/dhUr_asi_dhUpArtham.md">
 <details open><summary><h5>धूर् असि ...{Loading}...</h5></summary>
 
 धूर्+++(=धूस्स्थ हिंसको ऽग्निः)+++ अ॑सि  ।  
@@ -247,7 +247,7 @@ title = "०५ भोजनम्"
 
 घ्राण-तृप्त्य्-अर्थम् अयं वो धूपः ।
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_05/01_uddIpyasva_jAtavedo.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_05/01_uddIpyasva_jAtavedo.md">
 <details open><summary><h5>01 उद्दीप्यस्व जातवेदो ...{Loading}...</h5></summary>
 
 उद्दी᳚प्यस्व जातवेदो  
@@ -319,7 +319,7 @@ title = "०५ भोजनम्"
 
 'रक्षोघ्नमन्त्रपठनं करिष्ये' इति सङ्कल्प्य,
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/02_svAdhyAya-brAhmaNAdi/01_niyata-yajJNa-prashaMsA/">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/02_svAdhyAya-brAhmaNAdi/01_niyata-yajJNa-prashaMsA/">
 <details open><summary><h2>०१ नियत-यज्ञ-प्रशंसा ...{Loading}...</h2></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -351,7 +351,7 @@ title = "०५ भोजनम्"
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/02_svAdhyAya-brAhmaNAdi/01_yajJNopavItam/">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/02_svAdhyAya-brAhmaNAdi/01_yajJNopavItam/">
 <details open><summary><h2>०१ यज्ञोपवीतम् ...{Loading}...</h2></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -408,7 +408,7 @@ title = "०५ भोजनम्"
 
 [[124]]
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/02_svAdhyAya-brAhmaNAdi/02_sandhyA-vandanam/">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/02_svAdhyAya-brAhmaNAdi/02_sandhyA-vandanam/">
 <details open><summary><h2>०२ सन्ध्या-वन्दनम् ...{Loading}...</h2></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -695,7 +695,7 @@ title = "०५ भोजनम्"
 
 [[128]]
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/yajuH/sarva-prastutiH/06_mahA-nArAyaNopaniShat/32-36_prANe_niviShTaH/03_prANAhutir_dIrghaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarva-prastutiH/06_mahA-nArAyaNopaniShat/32-36_prANe_niviShTaH/03_prANAhutir_dIrghaH.md">
 <details open><summary><h5>०३ प्राणाहुतिर् दीर्घः ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -743,7 +743,7 @@ title = "०५ भोजनम्"
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/yajuH/sarva-prastutiH/06_mahA-nArAyaNopaniShat/32-36_prANe_niviShTaH/04_brahmaNi_ma.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarva-prastutiH/06_mahA-nArAyaNopaniShat/32-36_prANe_niviShTaH/04_brahmaNi_ma.md">
 <details open><summary><h5>०४ ब्रह्मणि म ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -868,9 +868,9 @@ title = "०५ भोजनम्"
 
 (मधुत्रयम्)
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/10_3_madhu">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/10_3_madhu">
 <details open><summary><h5>१० ३ मधु ...{Loading}...</h5></summary>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_3/01_madhu_vAtA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_3/01_madhu_vAtA.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
 मधु॒ वाता॑ ऋताय॒ते  
@@ -878,7 +878,7 @@ title = "०५ भोजनम्"
 माद्ध्वी᳚र् नस् स॒न्त्व् ओष॑धीः ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/10_3/01_madhu_vAtA.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/10_3/01_madhu_vAtA.md">
 <details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
 <details><summary>मूलम्</summary>
 
@@ -888,7 +888,7 @@ title = "०५ भोजनम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_3/03_madhu_naktam.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_3/03_madhu_naktam.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
 मधु॒ नक्त॑म् उ॒तोषसि॒  
@@ -896,7 +896,7 @@ title = "०५ भोजनम्"
 मधु॒ द्यौर॑स्तु नः पि॒ता ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/10_3/03_madhu_naktam.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/10_3/03_madhu_naktam.md">
 <details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
 <details><summary>मूलम्</summary>
 
@@ -906,7 +906,7 @@ title = "०५ भोजनम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_3/05_madhumAn_no.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_3/05_madhumAn_no.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
 मधु॑मान् नो॒ वन॒स्पति॒र्  
@@ -914,7 +914,7 @@ title = "०५ भोजनम्"
 माद्ध्वी॒र् गावो॑ भवन्तु नः ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/10_3/05_madhumAn_no.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/10_3/05_madhumAn_no.md">
 <details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
 <details><summary>मूलम्</summary>
 
@@ -1155,7 +1155,7 @@ title = "०५ भोजनम्"
 
 (उपस्थानम्)
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/3/2/05_bhaxAnuvAkaH/namo_vaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/2/05_bhaxAnuvAkaH/namo_vaH.md">
 <details open><summary><h5>नमो वः ...{Loading}...</h5></summary>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -1360,7 +1360,7 @@ ye that are in this world, of these may I be the most fortunate.
 तत्रा॒स्माभ्य॒म् इष॑वः॒ शर्म॑ यꣳसन् ॥४८ ॥+++(5)+++
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/brAhmaNam/sarva-prastutiH/5/4/11/aShTAv_aShTau.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/brAhmaNam/sarva-prastutiH/5/4/11/aShTAv_aShTau.md">
 <details open><summary><h5>अ॒ष्टाव् अ॑ष्टाव् ...{Loading}...</h5></summary>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -1516,7 +1516,7 @@ ye that are in this world, of these may I be the most fortunate.
 
 विसृष्टाश्च ब्राह्मणाः,
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/44_vAmadevAya_namaH/">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/44_vAmadevAya_namaH/">
 <details open><summary><h2>४४ वामदेवाय नमः ...{Loading}...</h2></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

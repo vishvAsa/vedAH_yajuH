@@ -2,7 +2,7 @@
 title = "१५ सौमिक्या वेद्यभिधानम्"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/6/2/04_saumikyA_vedyabhidhAnam"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/6/2/04_saumikyA_vedyabhidhAnam"  newLevelForH1="1" includeTitle="true">
 
 सोमऋषिः
 

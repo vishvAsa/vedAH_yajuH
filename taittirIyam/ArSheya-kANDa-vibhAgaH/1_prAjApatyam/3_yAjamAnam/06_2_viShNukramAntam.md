@@ -2,7 +2,7 @@
 title = "०६ ०५.२ विष्णुक्रमान्तम्"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/05_2_viShNukramAntam"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/05_2_viShNukramAntam"  newLevelForH1="1" includeTitle="true">
 
 ## विष्णुक्रममन्त्रः १
 _______
@@ -45,7 +45,7 @@ Thou art the step of Visnu, smiting enmity; with the Gayatri metre I step across
 
 पूर्वं विष्णुना क्रान्तां **पृथिवीं** पश्चादिदानीम् अहं **विक्रम** इत्यनोरर्थः ।
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/05_viShNukramAntam/nirbhaktaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/05_viShNukramAntam/nirbhaktaH.md">
 <details open><summary><h5>निर्भक्तः ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -85,7 +85,7 @@ Thou art the step of Visnu, smiting imprecations; with the Tristubh metre I step
 
 अभिशस्तिरभिशंसनं अकृतगर्होक्तिः । त्रिष्टुब्जगत्यनुष्टुप्शब्देभ्य उत्सादित्वादञ्, 'छन्दसः प्रत्ययविधाने' इत्यस्य प्राग्दीव्यतीयत्वात् ।
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/05_viShNukramAntam/nirbhaktaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/05_viShNukramAntam/nirbhaktaH.md">
 <details open><summary><h5>निर्भक्तः ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -126,7 +126,7 @@ with the Jagati metre I step across the sky;
 अरातीयतः अरातित्वमस्माकमिच्छतः, अरातिं वात्मन इच्छतः हन्ता हन्तुमर्हः । 'अर्हे कृत्यतृचश्च' इति तृच् । 'शतुरनुमः' इति षष्ठ्या उदात्तत्वम् । हननशीलो वा हन्ता । ताच्च्छीलिकस्तृन् छान्दसमन्तोदातत्वम् ।
 अरातीयत इति द्वितीयाबहुवचनम् ।
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/05_viShNukramAntam/nirbhaktaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/05_viShNukramAntam/nirbhaktaH.md">
 <details open><summary><h5>निर्भक्तः ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

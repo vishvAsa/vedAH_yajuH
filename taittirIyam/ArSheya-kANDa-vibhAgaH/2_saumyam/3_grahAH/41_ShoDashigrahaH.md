@@ -2,7 +2,7 @@
 title = "४१ षोडशिग्रहः"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/4_somAbhiShavAdi/41_ShoDashigrahaH"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/4_somAbhiShavAdi/41_ShoDashigrahaH"  newLevelForH1="1" includeTitle="true">
 
 अनुष्टुप्
 
@@ -11,7 +11,7 @@ _______
 
 1अतः परं षोडशिग्रहणमन्त्राः पूर्वैस्सह विकल्प्यन्ते । तत्र प्रथमा - सर्वस्येत्यनुष्टुप् ॥ 
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/41_ShoDashigrahaH/02_sarvasya_pratishIvarI.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/41_ShoDashigrahaH/02_sarvasya_pratishIvarI.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 सर्व॑स्य प्रति॒शीव॑री॒+++(←शी शयने)+++  
@@ -20,7 +20,7 @@ _______
 **यच्छा᳚स्मै॒ शर्म॑** स॒-प्रथाः᳚+++(=विस्तारा)+++ ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/41_ShoDashigrahaH/02_sarvasya_pratishIvarI.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/41_ShoDashigrahaH/02_sarvasya_pratishIvarI.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -57,7 +57,7 @@ Grant him protection, extending wide.
 
 _______
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/38_ShoDashigrahaH/upayAma-gRhItaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/38_ShoDashigrahaH/upayAma-gRhItaH.md">
 <details open><summary><h5>उपयाम-गृहीतः ...{Loading}...</h5></summary>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -67,7 +67,7 @@ _______
 
 (ग्रहणम्)
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
 <details open><summary><h10>उपयामगृहीतः ...{Loading}...</h10></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

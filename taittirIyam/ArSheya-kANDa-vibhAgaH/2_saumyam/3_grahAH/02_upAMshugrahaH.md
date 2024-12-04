@@ -2,7 +2,7 @@
 title = "०२ उपांशुग्रहः"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/4_somAbhiShavAdi/02_upAMshugrahaH"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/4_somAbhiShavAdi/02_upAMshugrahaH"  newLevelForH1="1" includeTitle="true">
 
 
 ग्रहग्रहणासादनादिमन्त्राः  
@@ -86,7 +86,7 @@ _______
 
 4प्रतिप्रस्थातुर् हस्ताद् ग्रहम् आदत्ते - स्वां कृतोसीति ॥ 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/svAnkRtosi.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/svAnkRtosi.md">
 <details open><summary><h5>स्वाङ्कृतोऽसि ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -182,7 +182,7 @@ _______
 8आहवनीयं प्रति गच्छति - उर्विति ॥ व्याख्यातम् । 'अन्तरिक्षदेवत्यो हि प्राणः' इत्यादि ब्राह्मणम्  ॥
 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/urvantarixam.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/urvantarixam.md">
 <details open><summary><h10>उर्वन्तरिक्षम् ...{Loading}...</h10></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

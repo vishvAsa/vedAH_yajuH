@@ -2,7 +2,7 @@
 title = "२९ आग्नेयो अतिग्राह्यग्रहः"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/4_somAbhiShavAdi/29_Agneyo_atigrAhyagrahaH"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/4_somAbhiShavAdi/29_Agneyo_atigrAhyagrahaH"  newLevelForH1="1" includeTitle="true">
 
 
 गायत्री। सोमऋषिः
@@ -262,13 +262,13 @@ Du flammst, o Agni, Leben aus, erzeuge Trank und Speise uns, Das Unheil stosse w
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/10_AgrayaNagrahaH/upayAmagRhItaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/10_AgrayaNagrahaH/upayAmagRhItaH.md">
 <details open><summary><h5>उपयामगृहीतः ...{Loading}...</h5></summary>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 इमामनुद्रुत्य 'उपयामगृहीतोसि विश्वेभ्यस्त्वा देवेभ्यः' इति गृह्णाति ॥
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
 <details open><summary><h10>उपयामगृहीतः ...{Loading}...</h10></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

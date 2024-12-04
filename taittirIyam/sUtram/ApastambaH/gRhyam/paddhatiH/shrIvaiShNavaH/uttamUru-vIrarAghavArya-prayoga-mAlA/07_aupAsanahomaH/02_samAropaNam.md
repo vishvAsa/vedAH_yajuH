@@ -4,7 +4,7 @@ title = "०२ समारोपणम्"
 +++
 ## आत्मसमारोपणम्
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/8/20_yA_te.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/8/20_yA_te.md">
 <details open><summary><h2>20 या ते ...{Loading}...</h2></summary>
 
 या ते॑ अग्ने य॒ज्ञिया॑ त॒नूस्तयेह्यारो॑हा॒त्माऽऽत्मान᳚म् ।  
@@ -21,7 +21,7 @@ title = "०२ समारोपणम्"
 
 ## समित्समारोपणम्
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/8/19_ayante_yonir.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/8/19_ayante_yonir.md">
 <details open><summary><h2>19 अयन्ते योनिर् ...{Loading}...</h2></summary>
 
 अ॒यन् ते॒ **योनि॑र्** ऋ॒त्वियः॑ ।  

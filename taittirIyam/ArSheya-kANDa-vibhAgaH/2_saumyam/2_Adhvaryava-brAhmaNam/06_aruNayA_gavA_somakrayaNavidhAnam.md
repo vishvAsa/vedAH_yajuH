@@ -2,7 +2,7 @@
 title = "०६ अरुणया गवा सोमक्रयणविधानम्"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/6/1/06_aruNayA_gavA_somakrayaNavidhAnam"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/6/1/06_aruNayA_gavA_somakrayaNavidhAnam"  newLevelForH1="1" includeTitle="true">
 
 सोमऋषिः
 

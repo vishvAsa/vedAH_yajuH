@@ -2,7 +2,7 @@
 title = "०७ लोष्टोपधानादि"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/04_pitR-medhAdi/07_loShTopadhAnAdi"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/04_pitR-medhAdi/07_loShTopadhAnAdi"  newLevelForH1="1" includeTitle="true">
 
 
 ## लोष्ठोपधानम्

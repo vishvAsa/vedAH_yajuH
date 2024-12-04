@@ -4,7 +4,7 @@ title = "३७ वारुणम्"
 +++
 'उदुत्तमं वरुण’, ‘अस्तभ्नाद् द्यां’, ‘यत्किञ्चेदं’, ‘कितवासो', ‘अवते हेडः,' 'तत्त्वायामि' इति वरुण-सूक्तं
 
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/04_vAruNam">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/04_vAruNam">
 <details open><summary><h4>०४ वारुणम् ...{Loading}...</h4></summary>
 <details><summary>सायणोक्त-विनियोगः</summary>
 
@@ -331,7 +331,7 @@ O Varuna, lös' ab von uns die Stricke, den untersten, den mittelsten und höchs
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/astabhnAd_dyAm.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/astabhnAd_dyAm.md">
 <details open><summary><h9>अस्तभ्नाद् द्याम् ...{Loading}...</h9></summary>
 
 
@@ -342,7 +342,7 @@ O Varuna, lös' ab von uns die Stricke, den untersten, den mittelsten und höchs
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/08_anasi_sthApanam/astabhnAd_dyAm.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/08_anasi_sthApanam/astabhnAd_dyAm.md">
 <details open><summary><h9>अस्तभ्नाद् द्याम् ...{Loading}...</h9></summary>
 <details><summary>Keith</summary>
 

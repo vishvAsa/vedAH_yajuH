@@ -5,7 +5,7 @@ title = "०१ जातकर्म"
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/namas_sadase_sabhAM_gopAya/">
 <details open><summary><h5>नम॒स् सद॑से …स॒भाम् मे॑ गोपाय ...{Loading}...</h5></summary>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/3/2/04_sphyAdyupasthAnamantrAH_vidhishcha/namas_sadase.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/2/04_sphyAdyupasthAnamantrAH_vidhishcha/namas_sadase.md">
 <details open><summary><h10>नमस् सदसे ...{Loading}...</h10></summary>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -33,7 +33,7 @@ title = "०१ जातकर्म"
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/267_sapratha_sabhAm.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/267_sapratha_sabhAm.md">
 <details open><summary><h9>267 सप्रथ सभाम् ...{Loading}...</h9></summary>
 
 सप्र॑थ स॒भाम् मे॑ गोपाय ।  

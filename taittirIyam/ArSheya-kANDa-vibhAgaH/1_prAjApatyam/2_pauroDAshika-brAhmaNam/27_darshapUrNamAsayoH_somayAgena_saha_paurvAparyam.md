@@ -2,7 +2,7 @@
 title = "२७ दर्शपूर्णमासयोः सोमयागेन सह पौर्वापर्यम्"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/2/5/06_darshapUrNamAsayoH_somayAgena_saha_paurvAparyam"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/2/5/06_darshapUrNamAsayoH_somayAgena_saha_paurvAparyam"  newLevelForH1="1" includeTitle="true">
 
 
 प्रजापतिऋषिः ।

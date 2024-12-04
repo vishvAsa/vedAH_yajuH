@@ -65,23 +65,23 @@ title = "०४ सौम्यव्रतम्"
 अग्नेः पश्चात् तिष्ठन् 
 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/07_pravargyAdi/82_pRthivI_samit"  newLevelForH1="5" includeTitle="false"> 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/07_pravargyAdi/82_pRthivI_samit"  newLevelForH1="5" includeTitle="false"> 
 पृ॒थि॒वी स॒मित् ।  
 ताम॒ग्निस्समि॑न्धे । साऽग्निꣳ समि॑न्धे । ताम॒हꣳ समि॑न्धे । सा मा॒ समि॑द्धा । आयु॑षा॒ तेज॑सा । वर्च॑सा श्रि॒या । यश॑सा ब्रह्मवर्च॒सेन॑ । अ॒न्नाद्ये॑न॒ समि॑न्ता॒ꣳ॒ स्वाहा᳚ । 
 </div>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/07_pravargyAdi/83_antarixaM_samit"  newLevelForH1="5" includeTitle="false"> 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/07_pravargyAdi/83_antarixaM_samit"  newLevelForH1="5" includeTitle="false"> 
 अ॒न्तरि॑क्ष॒ꣳ॒ स॒मित् । (82)  
 ताव्ँ वा॒युस्समि॑न्धे । सा वा॒युꣳ समि॑न्धे । ताम॒हꣳ समि॑न्धे । सा मा॒ समि॑द्धा । आयु॑षा॒ तेज॑सा । वर्च॑सा श्रि॒या । यश॑सा ब्रह्मवर्च॒सेन॑ । अ॒न्नाद्ये॑न॒ समि॑न्ता॒ꣳ॒ स्वाहा᳚ । 
 </div>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/07_pravargyAdi/84_dyaus_samit"  newLevelForH1="5" includeTitle="false"> 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/07_pravargyAdi/84_dyaus_samit"  newLevelForH1="5" includeTitle="false"> 
 
 द्यौस्स॒मित् । तामा॑दि॒त्यस्समि॑न्धे । (83)  
 साऽऽदि॒त्यꣳ समि॑न्धे । ताम॒हꣳ समि॑न्धे । सा मा॒ समि॑द्धा । आयु॑षा॒ तेज॑सा । वर्च॑सा श्रि॒या । यश॑सा ब्रह्मवर्च॒सेन॑ । अ॒न्नाद्ये॑न॒ समिन्ता॒ꣳ॒ स्वाहा᳚ ।
 </div>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/07_pravargyAdi/84_prAjApatyA_me"  newLevelForH1="5" includeTitle="false"> 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/07_pravargyAdi/84_prAjApatyA_me"  newLevelForH1="5" includeTitle="false"> 
 
 प्रा॒जा॒प॒त्या मे॑ स॒मिद॑सि सपत्न॒ख्षय॑णी । भ्रा॒तृ॒व्य॒हा मे॑ऽसि॒ स्वाहा᳚ ।
 </div>

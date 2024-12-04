@@ -2,7 +2,7 @@
 title = "१० हविर्ग्रहणम्"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam"  newLevelForH1="1" includeTitle="true">
 
 ७, ८. १० अनुष्टुप्, ९ त्रिष्टुप्, २० गायत्री ।  
 प्रजापतिर्ऋषिः
@@ -11,7 +11,7 @@ title = "१० हविर्ग्रहणम्"
 
 गार्हपत्ये स्रुवादीन् प्रतितपति
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/pratyuShTam.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/pratyuShTam.md">
 <details open><summary><h5>प्रत्युष्टं रक्षः ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -192,7 +192,7 @@ ____
 
 पत्नीं योक्त्रेण सन्नह्यति, तदा पत्नी वदति-
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/07_AshAsAnA_saumanasam.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/07_AshAsAnA_saumanasam.md">
 <details open><summary><h2>०७ आशासाना सौमनसम् ...{Loading}...</h2></summary>
 
 
@@ -226,7 +226,7 @@ ____
 
 7पत्नी गार्हपत्यमुपसीदति - सुप्रजस इति चतुष्पदयानुष्टुभा ॥   
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/41_suprajasas_tvA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/41_suprajasas_tvA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 सु॒-प्र॒जस॑स् त्वा व॒यꣳ  
@@ -235,7 +235,7 @@ ____
 **अ-द॑ब्धासो॒** अ-दा॑᳚भ्यम् ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/41_suprajasas_tvA.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/41_suprajasas_tvA.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -267,7 +267,7 @@ ____
 
 8योक्त्रं पत्नी विमुञ्चति - इममिति त्रिष्टुभा चतुष्पदया ॥
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/46_imav.N_viShyAmi.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/46_imav.N_viShyAmi.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 इ॒मव्ँ विष्या॑मि॒+++(=प्रमुञ्चामि)+++ वरु॑णस्य॒+++(=छादकस्य [वस्त्रस्य/ वरुणस्य वा])+++ पाश॒य्ँ +++(योक्त्ररूपम्)+++  
@@ -276,7 +276,7 @@ ____
 स्यो॒नम् मे॑ स॒ह पत्या॑ करोमि ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/46_imav.N_viShyAmi.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/46_imav.N_viShyAmi.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -308,7 +308,7 @@ ____
 
 सयोक्त्रे ऽञ्जलौ उद-पात्र आनीयमाने पत्नी गार्हपत्यम् उपतिष्ठते
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/51_samAyuShA_samprajayA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/51_samAyuShA_samprajayA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 समायु॑षा॒ सम्प्र॒जया॒  
@@ -317,7 +317,7 @@ ____
 सम् आ॒त्मा त॒नुवा॒ मम॑ ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/51_samAyuShA_samprajayA.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/51_samAyuShA_samprajayA.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -355,7 +355,7 @@ ____
 
 म॒ही॒नाम्पयो॒ऽस्योष॑धीना॒ꣳ॒ रस॒स्तस्य॒ तेऽख्षी॑यमाणस्य॒ निः [17]व॒पा॒मि
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/mahInAm.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/mahInAm.md">
 <details open><summary><h5>महीनाम् ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -406,7 +406,7 @@ __
 
 पत्नी आज्यमवेक्षते
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/mahInAm.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/mahInAm.md">
 <details open><summary><h5>महीनाम् ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -614,7 +614,7 @@ ____
 
 प्रोक्षणीरुत्पुनाति
 </details>
-<div class="js_include" includetitle="plain" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/05_haviHproxaNAdiH/devo_vas_savitotpunAtu.md">
+<div class="js_include" includetitle="plain" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/05_haviHproxaNAdiH/devo_vas_savitotpunAtu.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 दे॒वो व॑स् सवि॒तोत्पु॑ना॒त्व्  
@@ -624,7 +624,7 @@ ____
 +++('असौ वा आदित्योच्छिद्रं पवित्रम्' (तै.ब्रा. 3.2.5) इत्यादि ब्राह्मणम् ।)+++
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/05_haviHproxaNAdiH/devo_vas_savitotpunAtu.md">
+<div class="js_include" includetitle="true" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/05_haviHproxaNAdiH/devo_vas_savitotpunAtu.md">
 <details open><summary><h4>देवो वस् सविता ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -642,7 +642,7 @@ with the rays of the bright sun.
 हे आपः **देवस्सविता** सर्वस्य प्रेरकः, **वः** युष्मान् **उत्पुनातु** ऊर्ध्वं शोधयतु । 
 
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/bhaTTa-bhAskara-TIkA/1/1_darshapUrNamAsAdiH/05_haviHproxaNAdiH/achChidreNa.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/bhaTTa-bhAskara-TIkA/1/1_darshapUrNamAsAdiH/05_haviHproxaNAdiH/achChidreNa.md">
 <details open><summary><h9>अच्छिद्रेण ...{Loading}...</h9></summary>
 
 **अच्छिद्रेण पवित्रेण** जगतां पावनेन आदित्यात्मनानेन;  
@@ -692,7 +692,7 @@ I grasp thee shining in the shining,
 
 आघारार्थत्वात्, प्रयाजार्थत्वाच्च 'धाम्नेधाम्ने' इत्याद्युपपद्यते । एवमुपभृद्ध्रुवयोरपि वेदितव्यम्॥
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/dhAmne_dhAmne.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/dhAmne_dhAmne.md">
 <details open><summary><h5>धाम्ने धाम्ने ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -743,7 +743,7 @@ I grasp thee shining in the shining,
 
 I grasp thee radiance in the radiance,  
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/dhAmne_dhAmne.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/dhAmne_dhAmne.md">
 <details open><summary><h5>धाम्ने धाम्ने ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -790,7 +790,7 @@ I grasp thee resplendent in the resplendence
 20ध्रुवायां गृह्णाति - अर्चिरिति ॥ अर्चिषो हेतुत्वादर्चिश्शब्देनोच्यते । तादृशं त्वां अर्चिषि देवानामर्चनसाधने ध्रुवायां गृह्णामि । शिष्टं स्पष्टम् (तै.सं. 1.1.10) ॥
 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/dhAmne_dhAmne.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/dhAmne_dhAmne.md">
 <details open><summary><h5>धाम्ने धाम्ने ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

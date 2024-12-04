@@ -2,7 +2,7 @@
 title = "०२ द्वितीयादिसामिधेनीमन्त्रव्याख्यानम्"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/2/5/08_dvitIyAdisAmidhenImantravyAkhyAnam"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/2/5/08_dvitIyAdisAmidhenImantravyAkhyAnam"  newLevelForH1="1" includeTitle="true">
 
 
 प्रजापतिऋषिः ।

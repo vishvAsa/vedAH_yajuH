@@ -64,7 +64,7 @@ title = "०३ उल्लेखनादि"
 
 इति उत्तरतः पश्चिमादारभ्य प्रागवसानम् । 
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/5/5/09/38_yo_rudro.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/5/09/38_yo_rudro.md">
 <details open><summary><h5>38 यो रुद्रो ...{Loading}...</h5></summary>
 
 यो रु॒द्रो अ॒ग्नौ , यो अ॒फ्सु ,  

@@ -2,7 +2,7 @@
 title = "०३ परिध्यनुमन्त्रणादि"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/02_paridhyanumantraNAdi"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/02_paridhyanumantraNAdi"  newLevelForH1="1" includeTitle="true">
 
 
 ४-५ द्विपदा त्रिष्टुप् ,
@@ -144,7 +144,7 @@ _______
 
 6हवींष्यासन्नान्य् अभिमन्त्रयते - यन्मे अग्न इति त्रिष्टुभा ॥ 
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/02_paridhyanumantraNAdi/02_yan_me.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/02_paridhyanumantraNAdi/02_yan_me.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 यन् मे॑ अग्ने अ॒स्य य॒ज्ञस्य॒ **रिष्या᳚त्** [4]  
@@ -153,7 +153,7 @@ _______
 ऐन॑न् **दधामि॒** निर्ऋ॑त्या उ॒पस्थे᳚ ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/02_paridhyanumantraNAdi/02_yan_me.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/02_paridhyanumantraNAdi/02_yan_me.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -206,7 +206,7 @@ _______
 
 10इध्मम् अभ्याधीयमानम् अनुमन्त्रयते - उच्छुष्म इति पिपीलिकामध्यया त्रिपदया यजुरन्तयानुष्टुभा । 
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/02_paridhyanumantraNAdi/03_uchChuShmo_agne.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/02_paridhyanumantraNAdi/03_uchChuShmo_agne.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 उच्छु॑ष्मो अग्ने॒ **यज॑मानायैधि॒**  
@@ -214,7 +214,7 @@ _______
 अग्ने॒ **देवे᳚द्ध॒ मन्व्-इ॑द्ध॒** मन्द्र॑-जि॒ह्व॥+++(5)+++
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/02_paridhyanumantraNAdi/03_uchChuShmo_agne.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/02_paridhyanumantraNAdi/03_uchChuShmo_agne.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 

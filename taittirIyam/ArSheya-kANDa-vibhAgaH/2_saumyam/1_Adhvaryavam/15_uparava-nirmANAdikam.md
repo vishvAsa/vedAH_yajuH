@@ -2,7 +2,7 @@
 title = "१५ उपरव-निर्माणादिकम्"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/3_agniShToma-pashv-Adi/02_uparava-nirmANAdikam"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/3_agniShToma-pashv-Adi/02_uparava-nirmANAdikam"  newLevelForH1="1" includeTitle="true">
 
 हविर्धान(अभ्यन्तर)गतोपरवनिर्माणम्
 
@@ -48,7 +48,7 @@ _______
 
 इदम॒हन्तव्ँव॑ल॒गमुद्व॑पामि॒ यन्न॑स्समा॒नो यमस॑मानो निच॒खाने॒दमे॑न॒मध॑रङ्करोमि॒ यो न॑स्समा॒नो योऽस॑मानोऽराती॒यति॑ गाय॒त्रेण॒ छन्द॒सा 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/02_uparava-nirmANAdikam/idam_aham.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/02_uparava-nirmANAdikam/idam_aham.md">
 <details open><summary><h5>इदम् अहम् ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -116,7 +116,7 @@ _______
 
 एवं दक्षिणपूर्वमारभ्य सर्वेभ्य उद्वपति । त्रैष्टुभेन जागतेनानुष्टुभेनेति विशेषोन्यत्र ॥
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/02_uparava-nirmANAdikam/idam_aham.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/02_uparava-nirmANAdikam/idam_aham.md">
 <details open><summary><h5>इदम् अहम् ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -168,7 +168,7 @@ Here do I overthrow him who equal or unequal is ill-disposed to us.
 
 त्रैष्टु॑भेन छन्द॑सा
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/02_uparava-nirmANAdikam/idam_aham.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/02_uparava-nirmANAdikam/idam_aham.md">
 <details open><summary><h5>इदम् अहम् ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -220,7 +220,7 @@ Here do I overthrow him who equal or unequal is ill-disposed to us.
 
 जाग॑तेन छन्द॑सा
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/02_uparava-nirmANAdikam/idam_aham.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/02_uparava-nirmANAdikam/idam_aham.md">
 <details open><summary><h5>इदम् अहम् ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -478,7 +478,7 @@ _______
 
 यवो॑ऽसि य॒वया॒स्मद्द्वेषो॑ य॒वयारा॑तीः 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/01_maNDapa-nirmANam/yavosi.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/01_maNDapa-nirmANam/yavosi.md">
 <details open><summary><h5>यवोऽसि ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

@@ -2,7 +2,7 @@
 title = "११ हविरासनादिः"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/1_darshapUrNamAsAdi/11_havirAsanAdiH"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/1_darshapUrNamAsAdi/11_havirAsanAdiH"  newLevelForH1="1" includeTitle="true">
 
 इध्मबर्हिःपूर्वकं वेद्यां हविरासादनादिः।  
 १४ गायत्री, २० एकपदा त्रिष्टुप् ।
@@ -119,7 +119,7 @@ ____
 
 अन्तर्वेद्यूर्ध्वाग्रं बर्हिस्स्थापयित्वा प्रोक्षति
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/11_havirAsanAdiH/dive_tvA.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/11_havirAsanAdiH/dive_tvA.md">
 <details open><summary><h2>दिवे त्वा ...{Loading}...</h2></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -381,7 +381,7 @@ ____
 
 ऊर्ध्वे समिधाव् आदधाति
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/11_havirAsanAdiH/70_vItihotran_tvA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/11_havirAsanAdiH/70_vItihotran_tvA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 वी॒ति+++(=इष्ट)+++हो᳚त्रन्+++(=ह्वानं)+++ त्वा कवे  
@@ -389,7 +389,7 @@ ____
 +++(हे)+++ अग्ने॑! बृ॒हन्त॑म् अध्व॒रे ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/11_havirAsanAdiH/70_vItihotran_tvA.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/11_havirAsanAdiH/70_vItihotran_tvA.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -493,7 +493,7 @@ Thou art named juhu
 
 15तत्र जुहूं मादयति - जुहूरिति ॥ असि घृताचीत्यादिकं वक्ष्यमाणं जुह्वादिभिः प्रत्येकमभिसम्बध्यते । हूयतेऽनयेति जुहूः । 'द्युतिगमिजुहोतीनां द्वे च' (पा.सू. 3.2.178) इति क्विप्, जुहोतेर्दीर्घश्च' (पा.भा. 3.2.178 वा 3) इति दीर्घोनुवर्तते । जुहूस्त्वमसि । त्वया खलु हूयते ।
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/11_havirAsanAdiH/ghRtAchI.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/11_havirAsanAdiH/ghRtAchI.md">
 <details open><summary><h5>घृताची ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -540,7 +540,7 @@ Thou art named upabhrt
 
 16उपभृतं सादयति - उपभृदिति ॥ उपेत्य जुहूं बिभर्तीति उपभृत् । 'अन्येभ्योपि दृश्यते' (पा.सू. 3.2.178) इति क्विप् । ईदृशी त्वमसि । समानमन्यत् ॥
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/11_havirAsanAdiH/ghRtAchI.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/11_havirAsanAdiH/ghRtAchI.md">
 <details open><summary><h5>घृताची ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -585,7 +585,7 @@ Thou art named dhruva.
 17ध्रुवां सादयति - ध्रुवेति ॥ ध्रुवा निश्चला । यत्रैव साद्यते तत्रैव धार्यते न चाल्यते प्राक्समिष्टयजुष इति ध्रुवा । तादृशी त्वमसि । शिष्टं स्पष्टम् ॥
 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/11_havirAsanAdiH/ghRtAchI.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/11_havirAsanAdiH/ghRtAchI.md">
 <details open><summary><h5>घृताची ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

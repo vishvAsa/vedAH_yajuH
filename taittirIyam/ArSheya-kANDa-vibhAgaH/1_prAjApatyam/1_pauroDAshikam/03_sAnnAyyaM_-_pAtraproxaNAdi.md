@@ -2,7 +2,7 @@
 title = "०३ सान्नाय्यं - पात्रप्रोक्षणादि"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/1_darshapUrNamAsAdi/03_sAnnAyyaM_-_pAtraproxaNAdi"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/1_darshapUrNamAsAdi/03_sAnnAyyaM_-_pAtraproxaNAdi"  newLevelForH1="1" includeTitle="true">
 
 ८ गायत्री । प्रजापतिर्ऋषिः
 
@@ -12,7 +12,7 @@ ____
 
 सान्नाय्य-पात्राणि प्रोक्षति
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/03_sAnnAyyaM_-_pAtraproxaNAdi/shundhadhvam.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/03_sAnnAyyaM_-_pAtraproxaNAdi/shundhadhvam.md">
 <details open><summary><h5>शुन्धध्वम् ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -103,7 +103,7 @@ Thou art the all-supporting with the highest support.
 
 ____
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/03_sAnnAyyaM_-_pAtraproxaNAdi/dRMhasva.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/03_sAnnAyyaM_-_pAtraproxaNAdi/dRMhasva.md">
 <details open><summary><h5>दृंहस्व ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -302,7 +302,7 @@ ____
 
 9गोदोहनसक्षालनीया अपः पयस्यानयति - संपृच्यध्वमिति गायत्र्या ॥
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/03_sAnnAyyaM_-_pAtraproxaNAdi/57_sampRchyadhvam_RtAvarIr.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/03_sAnnAyyaM_-_pAtraproxaNAdi/57_sampRchyadhvam_RtAvarIr.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 +++(पयसा)+++ सम्पृ॑च्यध्वम् ऋतावरीर्+++(=ऋतवत्यः)+++  
@@ -310,7 +310,7 @@ ____
 म॒न्द्रा+++(=मादयित्र्यः)+++ धन॑स्य सा॒तये॑+++(=लाभाय)+++ ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/03_sAnnAyyaM_-_pAtraproxaNAdi/57_sampRchyadhvam_RtAvarIr.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/03_sAnnAyyaM_-_pAtraproxaNAdi/57_sampRchyadhvam_RtAvarIr.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 

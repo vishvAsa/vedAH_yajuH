@@ -2,7 +2,7 @@
 title = "०७ सोमक्रयप्रकारः"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/6/1/07_somakrayaprakAraH"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/6/1/07_somakrayaprakAraH"  newLevelForH1="1" includeTitle="true">
 
 सोमऋषिः
 

@@ -2,7 +2,7 @@
 title = "०३ अन्तर्यामग्रहः"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH"  newLevelForH1="1" includeTitle="true">
 
 
 सोमऋषिः
@@ -12,7 +12,7 @@ _______
 
 1उदित आदित्ये ऽन्तर्यामं गृह्णाति अतिधारया पवमानस्य राज्ञः - उपयामगृहीतोसि ॥ 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
 <details open><summary><h5>उपयामगृहीतः ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -49,7 +49,7 @@ _______
 
 अ॒न्तर्य॑च्छ मघवन्पा॒हि सोम॑मुरु॒ष्य राय॒स्समिषो॑ यजस्वा॒न्तस्ते॑ दधामि॒ द्यावा॑पृथि॒वी अ॒न्तरु॒र्व॑न्तरि॑ख्षꣳ स॒जोषा॑ दे॒वैरव॑रै॒ᳶ परै᳚श्चान्तर्या॒मे म॑घवन्मादयस्व 
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/02_antar_yachCha.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/02_antar_yachCha.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अ॒न्तर् **य॑च्छ**  मघवन् **पा॒हि++(=पिब)+++ सोम॑म्**   
@@ -62,7 +62,7 @@ _______
 +अन्तर्या॒मे +++(ग्रहे)+++ म॑घवन् **मादयस्व**
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/02_antar_yachCha.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/02_antar_yachCha.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -112,7 +112,7 @@ _______
 
 3स्वां कृतोसीति ग्रहमादत्ते ॥
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/svAnkRtosi.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/svAnkRtosi.md">
 <details open><summary><h5>स्वाङ्कृतोऽसि ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -208,7 +208,7 @@ _______
 8आहवनीयं प्रति गच्छति - उर्विति ॥ व्याख्यातम् । 'अन्तरिक्षदेवत्यो हि प्राणः' इत्यादि ब्राह्मणम्  ॥
 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/urvantarixam.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/urvantarixam.md">
 <details open><summary><h10>उर्वन्तरिक्षम् ...{Loading}...</h10></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

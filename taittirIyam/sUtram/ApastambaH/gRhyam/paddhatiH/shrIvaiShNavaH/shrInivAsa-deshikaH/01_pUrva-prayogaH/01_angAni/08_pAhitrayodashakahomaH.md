@@ -11,7 +11,7 @@ title = "०८ पाहित्रयोदशकहोमः"
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/namas_sadase_sabhAM_gopAya/">
 <details open><summary><h5>नम॒स् सद॑से …स॒भाम् मे॑ गोपाय ...{Loading}...</h5></summary>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/3/2/04_sphyAdyupasthAnamantrAH_vidhishcha/namas_sadase.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/2/04_sphyAdyupasthAnamantrAH_vidhishcha/namas_sadase.md">
 <details open><summary><h10>नमस् सदसे ...{Loading}...</h10></summary>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -39,7 +39,7 @@ title = "०८ पाहित्रयोदशकहोमः"
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/267_sapratha_sabhAm.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/267_sapratha_sabhAm.md">
 <details open><summary><h9>267 सप्रथ सभाम् ...{Loading}...</h9></summary>
 
 सप्र॑थ स॒भाम् मे॑ गोपाय ।  
@@ -172,7 +172,7 @@ _________
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/05_pAhi_no_agne/">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/05_pAhi_no_agne/">
 <details open><summary><h5>०५ पाहि नो अग्ने ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः (स्वाभाविक-स्वरेण)</summary>
 
@@ -263,7 +263,7 @@ _______________________
 +++(अग्नीवरुणाभ्याम् इदं न मम)+++
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/1/68_tvamagne_ayAsi.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/1/68_tvamagne_ayAsi.md">
 <details open><summary><h5>68 त्वमग्ने अयासि ...{Loading}...</h5></summary>
 
 त्वम॑ग्ने अ॒यासि॑ ।   

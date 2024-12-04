@@ -2,7 +2,7 @@
 title = "०३ दर्शपूर्णमासयोः स्तुतिः"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/09_darshapUrNamAsayoH_stutiH"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/09_darshapUrNamAsayoH_stutiH"  newLevelForH1="1" includeTitle="true">
 
 
  प्रजापतिर्ऋषिः

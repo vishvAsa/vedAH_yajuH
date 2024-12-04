@@ -2,7 +2,7 @@
 title = "१० शालाप्रवेशादिकम्"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/2_somayAgArambhaH/10_shAlApraveshAdikam"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/2_somayAgArambhaH/10_shAlApraveshAdikam"  newLevelForH1="1" includeTitle="true">
 
 (प्राचीनवंशसमीपमागतस्य सोमस्य सत्कारः)  
 ६ त्रिष्टुप्। सोमऋषिः
@@ -170,7 +170,7 @@ ________
 
 नीडे कृष्णाजिनम् आस्तृणाति।
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/adityAs_sadaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/adityAs_sadaH.md">
 <details open><summary><h5>अदित्यास् सदः ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -197,7 +197,7 @@ ________
 
 तस्मिन् सोमं निदधाति।
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/adityAs_sada_AsIda.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/adityAs_sada_AsIda.md">
 <details open><summary><h5>अदित्यास् सद आसीद ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

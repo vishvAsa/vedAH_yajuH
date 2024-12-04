@@ -2,14 +2,14 @@
 title = "०६ व्रीहिपेषणम्"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/1_darshapUrNamAsAdi/06_vrIhipeShaNam"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/1_darshapUrNamAsAdi/06_vrIhipeShaNam"  newLevelForH1="1" includeTitle="true">
 
 १० एकपदा त्रिष्टुप्  प्रजापतिर्ऋषिः
 
 ____
 
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/05_haviHproxaNAdiH/avadhUtaM.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/05_haviHproxaNAdiH/avadhUtaM.md">
 <details open><summary><h5>अवधूतम् ...{Loading}...</h5></summary>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -27,7 +27,7 @@ The Raksas is shaken off, the evil spirits are shaken off.
 
 6कृष्णाजिनमवधूनोति - अवधूतमिति यजुरादिकयैकपदया गायत्र्या ॥ अवधूतं विनाशितम् । शिष्टं व्यख्यातं प्रत्युष्टादि मन्त्रेण (तै.सं. 1.1.2) । 'गतिरनन्तरः' (पा.सू. 6.2.49) इति पूर्वपदप्रकृतिस्वरत्वम् ॥
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/bhaTTa-bhAskara-TIkA/1/2_somayAgArambhaH/02_barhirAstaraNam/raxorAtI.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/bhaTTa-bhAskara-TIkA/1/2_somayAgArambhaH/02_barhirAstaraNam/raxorAtI.md">
 <details open><summary><h10>रक्षोऽराती ...{Loading}...</h10></summary>
 
 
@@ -185,7 +185,7 @@ ____
 
 पुरोडाशीयानधिवपति
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
 <details open><summary><h2>देवस्य त्वा सवितुः ...{Loading}...</h2></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -320,7 +320,7 @@ ____
 
 कृष्णाजिने पिष्टानि प्रस्कन्दयति
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/05_haviHproxaNAdiH/devo_vas_savitA.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/05_haviHproxaNAdiH/devo_vas_savitA.md">
 <details open><summary><h5>देवो वस् सविता ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

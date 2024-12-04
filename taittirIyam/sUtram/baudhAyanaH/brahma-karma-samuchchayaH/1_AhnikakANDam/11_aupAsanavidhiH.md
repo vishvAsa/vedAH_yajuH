@@ -49,7 +49,7 @@ title = "११ औपासनविधिः"
 
 समित्समारोपिताग्निश्चेदारोपितं समिधं 
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/6/05_chityAm_agni-sthApanAdi-mAruta-homAntam/07_AjuhvAnas_supratIkapH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/6/05_chityAm_agni-sthApanAdi-mAruta-homAntam/07_AjuhvAnas_supratIkapH.md">
 <details open><summary><h5>07 आजुह्वानस् सुप्रतीकᳶ ...{Loading}...</h5></summary>
 
 **आ॒जुह्वा॑नस्**+++(=हूयमानः)+++ सु॒-प्रती॑कᳶ पु॒रस्ता॒द्  
@@ -58,7 +58,7 @@ title = "११ औपासनविधिः"
 विश्वे॑ देवाः॒! यज॑मानश् च **सीदत** ।
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/45_udbudhyasvAgne_prati.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/45_udbudhyasvAgne_prati.md">
 <details open><summary><h5>45 उद्बुध्यस्वाग्ने प्रति ...{Loading}...</h5></summary>
 
 **उद्बु॑ध्यस्वाग्ने॒** प्रति॑ जागृह्य्  
@@ -199,7 +199,7 @@ title = "११ औपासनविधिः"
 ## उपस्थानम्
 समिधमाधाय उपतिष्ठते- 
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/3/5/03_viShNvatikramAH/yat_te_agne.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/5/03_viShNvatikramAH/yat_te_agne.md">
 <details open><summary><h5>यत् ते अग्ने ...{Loading}...</h5></summary>
 <details open><summary><h5>यत्ते॑ अग्ने॒  ...{Loading}...</h5></summary>
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -248,7 +248,7 @@ title = "११ औपासनविधिः"
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/3/3/01_atigrAhyamantrAH/mayi_medhAm.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/3/01_atigrAhyamantrAH/mayi_medhAm.md">
 <details open><summary><h5>मयि मेधाम् ...{Loading}...</h5></summary>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -315,7 +315,7 @@ on me wisdom, on me offspring, on me blazing may Surya bestow.
 इति षड्भिरुपस्थायोपविश्य 
 
 ## भस्म-धारणादि
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/07_mA_nas.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/07_mA_nas.md">
 <details open><summary><h10>07 मा नस् ...{Loading}...</h10></summary>
 
 मा न॑स् तो॒के+++(=अपत्यमात्रे)+++ तन॑ये॒ मा न॒ आयु॑षि॒  
@@ -347,7 +347,7 @@ on me wisdom, on me offspring, on me blazing may Surya bestow.
 ## समारोपणम्
 [समारोपपक्षे- 
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/8/19_ayante_yonir.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/8/19_ayante_yonir.md">
 <details open><summary><h5>19 अयन्ते योनिर् ...{Loading}...</h5></summary>
 
 अ॒यन् ते॒ **योनि॑र्** ऋ॒त्वियः॑ ।  

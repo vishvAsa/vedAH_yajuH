@@ -6,7 +6,7 @@ title = "०४ प्रोक्षणम्"
 'देवस्य' इत्यादि,  
 
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/yajuH/sarva-prastutiH/2/6_sautrAmaNiH_kaukilI_hotram/05_abhiShekaH/devasya_tvA_tejo-vIrya-shrIbhyaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarva-prastutiH/2/6_sautrAmaNiH_kaukilI_hotram/05_abhiShekaH/devasya_tvA_tejo-vIrya-shrIbhyaH.md">
 <details open><summary><h5>देवस्य त्वा - तेजोवीर्य-श्रीभ्यः ...{Loading}...</h5></summary>
 <details><summary>सायणोक्त-विनियोगः</summary>
 
@@ -78,7 +78,7 @@ title = "०४ प्रोक्षणम्"
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/10_vAjaprasavIyAdi/devasya_tvA_sAmrAjyenAbhiShinchAmi.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/10_vAjaprasavIyAdi/devasya_tvA_sAmrAjyenAbhiShinchAmi.md">
 <details open><summary><h5>दे॒वस्य॑ त्वा - साम्रा᳚ज्येना॒भिषि॑ञ्चामि  ...{Loading}...</h5></summary>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -88,7 +88,7 @@ title = "०४ प्रोक्षणम्"
 
 दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे᳚ऽश्विनो᳚र्बा॒हुभ्या᳚म्पू॒ष्णो हस्ता᳚भ्या॒ꣳ॒ सर॑स्वत्यै वा॒चो य॒न्तुर्य॒न्त्रेणा॒ग्नेस्त्वा॒ साम्रा᳚ज्येना॒भिषि॑ञ्चा॒मीन्द्र॑स्य॒ बृह॒स्पते᳚स्त्वा॒ साम्रा᳚ज्येना॒भिषि॑ञ्चामि ॥ [42]
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
 <details open><summary><h10>देवस्य त्वा सवितुः ...{Loading}...</h10></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

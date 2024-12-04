@@ -4,7 +4,7 @@ title = "०५ परिधि-दाहे"
 +++
 परिधिदाहे 'परित्वाग्ने पुरं वयम्' इति जुहुयात् । 
 
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/216_pari_tvAgne.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/216_pari_tvAgne.md">
 <details open><summary><h4>216 परि त्वाग्ने! ...{Loading}...</h4></summary>
 
 परि॑ त्वाग्ने॒! पुर॑व्ँ+++(=दुर्गं)+++ व॒यव्ँ  

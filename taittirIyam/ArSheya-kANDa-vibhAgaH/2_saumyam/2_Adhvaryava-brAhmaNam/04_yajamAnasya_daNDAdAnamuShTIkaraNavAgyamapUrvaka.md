@@ -2,7 +2,7 @@
 title = "०४ यजमानस्य दण्डादानमुष्टीकरणवाग्यमपूर्वक"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/6/1/04_yajamAnasya_daNDAdAnamuShTIkaraNavAgyamapUrvaka"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/6/1/04_yajamAnasya_daNDAdAnamuShTIkaraNavAgyamapUrvaka"  newLevelForH1="1" includeTitle="true">
 
  सोमऋषिः
 

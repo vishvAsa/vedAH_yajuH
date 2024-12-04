@@ -2,7 +2,7 @@
 title = "२१ पशु-विशसनादि"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/3_agniShToma-pashv-Adi/08_pashu-vishasanAdi"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/3_agniShToma-pashv-Adi/08_pashu-vishasanAdi"  newLevelForH1="1" includeTitle="true">
 
 (उपाकृताग्नीषोमीय-पशु-विशसनम् )पशोः संज्ञपनम्
 
@@ -15,7 +15,7 @@ _______
 
 1अथ पशुरशनाम् आदत्ते - आ दद इति ॥
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
 <details open><summary><h5>देवस्य त्वा सवितुः ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -320,7 +320,7 @@ Ye wealthy ones, do ye kindly resort to the lord of the sacrifice.
 यद्वा - व्यत्ययेन असङ्ख्याया अपि विधार्थे धाप्रत्ययः । प्रियप्रकारेणेत्यर्थः । यज्ञदेवता वा यज्ञपतिस्तां प्रीतिर्पूवकं भक्ष्यत्वेन सयुग्भावेन वा आविशत ।   
 यद्वा - सर्वे पशव उच्यन्ते - वयमस्माकमेको हन्तुं नीयत इति उद्वेगं मा कार्ष्ट । यजमानस्योपभोगाय प्रीतिपूर्वकं तस्मिन्वर्तध्वम् ।
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/08_pashu-vishasanAdi/02_uro_antarikhSha.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/08_pashu-vishasanAdi/02_uro_antarikhSha.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 उरो॑ अन्तरिख्ष!  
@@ -329,7 +329,7 @@ Ye wealthy ones, do ye kindly resort to the lord of the sacrifice.
 सम् अ॑स्य त॒नुवा॑ भव।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/08_pashu-vishasanAdi/02_uro_antarikhSha.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/08_pashu-vishasanAdi/02_uro_antarikhSha.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -383,7 +383,7 @@ _______
 
 पृ॒थि॒व्यास् स॒म्पृचᳶ॑ पाहि ।
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/pRthivyAH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/pRthivyAH.md">
 <details open><summary><h5>पृथिव्याः ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -473,7 +473,7 @@ _______
 
 15अपोवेक्षमाणां पत्नीं वाचयति - आपो देवीरिति चतुष्पदयानुष्टुभा विद्युन्मालया ॥ 
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/08_pashu-vishasanAdi/03_Apo_devIsh.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/08_pashu-vishasanAdi/03_Apo_devIsh.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 आपो॑ देवीश् शुद्धायुवश्  
@@ -482,7 +482,7 @@ _______
 +++(युष्मत्-)+++परिवे॒ष्टारो॑ वो भूयास्म ॥ [15]
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/08_pashu-vishasanAdi/03_Apo_devIsh.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/08_pashu-vishasanAdi/03_Apo_devIsh.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 

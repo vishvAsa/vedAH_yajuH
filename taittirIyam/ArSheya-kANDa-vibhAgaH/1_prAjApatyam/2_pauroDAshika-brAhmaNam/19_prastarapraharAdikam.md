@@ -3,7 +3,7 @@ title = "१९ प्रस्तरप्रहरादिकम्"
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/3/3_darsha-pUrNa-mAsAdi/09_prastarapraharAdikam"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/3/3_darsha-pUrNa-mAsAdi/09_prastarapraharAdikam"  newLevelForH1="1" includeTitle="true">
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

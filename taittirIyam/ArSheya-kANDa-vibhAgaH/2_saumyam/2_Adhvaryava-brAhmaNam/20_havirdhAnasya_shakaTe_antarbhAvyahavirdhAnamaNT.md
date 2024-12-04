@@ -2,7 +2,7 @@
 title = "२० हविर्धानस्य शकटे अन्तर्भाव्यहविर्धानमण्ट्"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/6/2/09_havirdhAnasya_shakaTe_antarbhAvyahavirdhAnamaNT"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/6/2/09_havirdhAnasya_shakaTe_antarbhAvyahavirdhAnamaNT"  newLevelForH1="1" includeTitle="true">
 
 सोमऋषिः
 

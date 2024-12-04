@@ -2,7 +2,7 @@
 title = "१४ उपसद्धोमविधानम्"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/6/2/03_upasaddhomavidhAnam"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/6/2/03_upasaddhomavidhAnam"  newLevelForH1="1" includeTitle="true">
 
 
 सोमऋषिः

@@ -56,7 +56,7 @@ title = "10 संस्कार-विलम्बः"
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/05_pAhi_no_agne/">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/05_pAhi_no_agne/">
 <details open><summary><h5>०५ पाहि नो अग्ने ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः (स्वाभाविक-स्वरेण)</summary>
 
@@ -150,7 +150,7 @@ title = "10 संस्कार-विलम्बः"
 +++(अग्नीवरुणाभ्याम् इदं न मम)+++
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/1/68_tvamagne_ayAsi.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/1/68_tvamagne_ayAsi.md">
 <details open><summary><h5>68 त्वमग्ने अयासि ...{Loading}...</h5></summary>
 
 त्वम॑ग्ने अ॒यासि॑ ।   

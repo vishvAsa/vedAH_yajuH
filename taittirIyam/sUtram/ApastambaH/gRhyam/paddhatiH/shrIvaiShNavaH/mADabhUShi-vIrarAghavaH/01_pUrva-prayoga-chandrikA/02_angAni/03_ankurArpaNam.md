@@ -91,7 +91,7 @@ title = "०३ अङ्कुरार्पणम्"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/03_hiraNyavarNAsh_shuchayapH.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/03_hiraNyavarNAsh_shuchayapH.md">
 <details open><summary><h4>03 हिरण्यवर्णाश् शुचयᳶ ...{Loading}...</h4></summary>
 
 हिर॑ण्यवर्णा॒श् शुच॑यᳶ पाव॒का,  
@@ -100,7 +100,7 @@ title = "०३ अङ्कुरार्पणम्"
 ता न॒ आप॒श् शꣳ स्यो॒ना **भ॑वन्तु** ।
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/08_yAsAM_rAjA.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/08_yAsAM_rAjA.md">
 <details open><summary><h4>08 यासां राजा ...{Loading}...</h4></summary>
 
 यासा॒ꣳ॒ राजा॒ वरु॑णो॒ **याति॒** मध्ये॑,  
@@ -109,7 +109,7 @@ title = "०३ अङ्कुरार्पणम्"
 ता न॒ आप॒श् शꣳ स्यो॒ना **भ॑वन्तु** ।
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/12_yAsAn_devA.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/12_yAsAn_devA.md">
 <details open><summary><h4>12 यासान् देवा ...{Loading}...</h4></summary>
 
 यासा᳚न् दे॒वा दि॒वि **कृ॒ण्वन्ति॑** भ॒ख्षय्ँ -  
@@ -118,7 +118,7 @@ title = "०३ अङ्कुरार्पणम्"
 ता न॒ आप॒श् शꣳ स्यो॒ना **भ॑वन्तु** ।
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/16_shivena_mA.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/16_shivena_mA.md">
 <details open><summary><h4>16 शिवेन मा ...{Loading}...</h4></summary>
 
 शि॒वेन॑ मा॒ चख्षु॑षा **पश्यतापश्** -  
@@ -127,13 +127,13 @@ title = "०३ अङ्कुरार्पणम्"
 मयि॒ वर्चो॒ बल॒म् ओजो॒ **नि ध॑त्त** ।
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH">
 <details open><summary><h5>०८, पावमानीमन्त्राः ...{Loading}...</h5></summary>
 <details><summary>विश्वास-टिप्पनी</summary>
 
 स्मार्ते स्नानादौ मार्जनार्थाश्च।
 </details>
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/01_pavamAnas_suvarjanaH.md">
+<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/01_pavamAnas_suvarjanaH.md">
 <details open><summary><h9>01 पवमानस् सुवर्जनः ...{Loading}...</h9></summary>
 
 पव॑मान॒स् सुव॒र्-जनः॑ ।  
@@ -142,7 +142,7 @@ title = "०३ अङ्कुरार्पणम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/02_punantu_mA.md">
+<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/02_punantu_mA.md">
 <details open><summary><h9>02 पुनन्तु मा ...{Loading}...</h9></summary>
 
 **पु॒नन्तु॑** मा **देवज॒नाः** ।  
@@ -151,7 +151,7 @@ title = "०३ अङ्कुरार्पणम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/03_jAtavedapH_pavitravat.md">
+<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/03_jAtavedapH_pavitravat.md">
 <details open><summary><h9>03 जातवेदᳶ पवित्रवत् ...{Loading}...</h9></summary>
 
 जात॑वेदᳶ प॒वित्र॑वत् ।  
@@ -161,7 +161,7 @@ title = "०३ अङ्कुरार्पणम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/04_yat_te.md">
+<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/04_yat_te.md">
 <details open><summary><h9>04 यत् ते ...{Loading}...</h9></summary>
 
 यत् ते॑ **प॒वित्र॑म् अ॒र्चिषि॑** ।  
@@ -170,7 +170,7 @@ title = "०३ अङ्कुरार्पणम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/05_ubhAbhyAn_deva.md">
+<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/05_ubhAbhyAn_deva.md">
 <details open><summary><h9>05 उभाभ्यान् देव ...{Loading}...</h9></summary>
 
 उ॒भाभ्या᳚न् देव **सवितः** ।  
@@ -179,7 +179,7 @@ title = "०३ अङ्कुरार्पणम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/06_vaishvadevI_punatI.md">
+<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/06_vaishvadevI_punatI.md">
 <details open><summary><h9>06 वैश्वदेवी पुनती ...{Loading}...</h9></summary>
 
 वै॒श्व॒दे॒वी **पु॑न॒ती** दे॒व्य् **आगा᳚त्**+++(=आगच्छतु)+++ ।  
@@ -190,7 +190,7 @@ title = "०३ अङ्कुरार्पणम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/07_vaishvAnaro_rashmibhir.md">
+<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/07_vaishvAnaro_rashmibhir.md">
 <details open><summary><h9>07 वैश्वानरो रश्मिभिर् ...{Loading}...</h9></summary>
 
 **वै॒श्वा॒न॒रो** र॒श्मिभि॑र् मा **पुनातु** ।   
@@ -201,7 +201,7 @@ title = "०३ अङ्कुरार्पणम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/08_bRhadbhis_savitas.md">
+<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/08_bRhadbhis_savitas.md">
 <details open><summary><h9>08 बृहद्भिस् सवितस् ...{Loading}...</h9></summary>
 
 बृ॒हद्भि॑स् सवित॒स् तृभिः॑+++(=त्रिभिः [लोकगणनया]/ तृप्यतेः करणे क्विप्)+++ ।   
@@ -210,7 +210,7 @@ title = "०३ अङ्कुरार्पणम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/09_yena_devA.md">
+<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/09_yena_devA.md">
 <details open><summary><h9>09 येन देवा ...{Loading}...</h9></summary>
 
 येन॑ दे॒वा **अपु॑नत** ।   
@@ -220,7 +220,7 @@ title = "०३ अङ्कुरार्पणम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/10_yapH_pAvamAnIr.md">
+<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/10_yapH_pAvamAnIr.md">
 <details open><summary><h9>10 यᳶ पावमानीर् ...{Loading}...</h9></summary>
 
 यᳶ पा॑वमा॒नीर् **अ॒ध्येति॑** ।  
@@ -230,7 +230,7 @@ title = "०३ अङ्कुरार्पणम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/11_pAvamAnIr_yo.md">
+<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/11_pAvamAnIr_yo.md">
 <details open><summary><h9>11 पावमानीर् यो ...{Loading}...</h9></summary>
 
 पा॒व॒मा॒नीर् यो **अ॒ध्येति॑** ।   
@@ -240,7 +240,7 @@ title = "०३ अङ्कुरार्पणम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/12_pAvamAnIs_svastyayanIH.md">
+<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/12_pAvamAnIs_svastyayanIH.md">
 <details open><summary><h9>12 पावमानीस् स्वस्त्ययनीः ...{Loading}...</h9></summary>
 
 पा॒व॒मा॒नीस् **स्व॒स्त्य्-अय॑नीः** ॥49॥   
@@ -250,7 +250,7 @@ title = "०३ अङ्कुरार्पणम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/13_pAvamAnIr_dishantu.md">
+<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/13_pAvamAnIr_dishantu.md">
 <details open><summary><h9>13 पावमानीर् दिशन्तु ...{Loading}...</h9></summary>
 
 पा॒व॒मा॒नीर् **दि॑शन्तु** नः ।  
@@ -260,7 +260,7 @@ title = "०३ अङ्कुरार्पणम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/14_pAvamAnIs_svastyayanIH.md">
+<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/14_pAvamAnIs_svastyayanIH.md">
 <details open><summary><h9>14 पावमानीस् स्वस्त्ययनीः ...{Loading}...</h9></summary>
 
 पा॒व॒मा॒नीस् **स्व॒स्त्य्-अय॑नीः** ।  
@@ -270,7 +270,7 @@ title = "०३ अङ्कुरार्पणम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/15_yena_devApH.md">
+<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/15_yena_devApH.md">
 <details open><summary><h9>15 येन देवाᳶ ...{Loading}...</h9></summary>
 
 येन॑ दे॒वाᳶ प॒वित्रे॑ण ।  
@@ -280,7 +280,7 @@ title = "०३ अङ्कुरार्पणम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/16_prAjApatyam_pavitram.md">
+<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/16_prAjApatyam_pavitram.md">
 <details open><summary><h9>16 प्राजापत्यम् पवित्रम् ...{Loading}...</h9></summary>
 
 प्रा॒जा॒प॒त्यम् प॒वित्र᳚म् ।  
@@ -290,7 +290,7 @@ title = "०३ अङ्कुरार्पणम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/17_indras_sunItI.md">
+<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/17_indras_sunItI.md">
 <details open><summary><h9>17 इन्द्रस् सुनीती ...{Loading}...</h9></summary>
 
 **इन्द्र॑स्** सुनी॒ती+++(त्या)+++ स॒ह मा॑ पुनातु ।  
@@ -322,7 +322,7 @@ title = "०३ अङ्कुरार्पणम्"
 
 'या जाता' इत्यनुवाकेन **अभिमन्त्र्य**  
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH">
 <details open><summary><h5>०६ ओषधिवापः ...{Loading}...</h5></summary>
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -342,7 +342,7 @@ title = "०३ अङ्कुरार्पणम्"
 कल्पः—“या जाता ओषधय इति चतुर्दशभिरोवधीर्वपति” इति ।  
 तत्र प्रथमामाह–  या जाता इति।  
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/02_yA_jAtA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/02_yA_jAtA.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
 या **जा॒ता** ओष॑धयो  
@@ -351,7 +351,7 @@ title = "०३ अङ्कुरार्पणम्"
 श॒तन् धामा॑नि स॒प्त च॑ ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/02_yA_jAtA.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/02_yA_jAtA.md">
 <details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
 <details><summary>Keith</summary>
 
@@ -372,7 +372,7 @@ The seven and a hundred abodes.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/03_shatav.N_vo.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/03_shatav.N_vo.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
 श॒तव्ँ वो॑ अम्ब॒ **धामा॑नि**  
@@ -381,7 +381,7 @@ The seven and a hundred abodes.
 इ॒मम् मे॑ **अग॒दङ् कृ॑त** ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/03_shatav.N_vo.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/03_shatav.N_vo.md">
 <details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
 <details><summary>Keith</summary>
 
@@ -404,7 +404,7 @@ Make him whole for me.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/04_puShpAvatIpH_prasUvatIpH.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/04_puShpAvatIpH_prasUvatIpH.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
 पुष्पा॑वतीᳶ प्र॒सूव॑तीᳶ  
@@ -413,7 +413,7 @@ Make him whole for me.
 वी॒रुधᳶ॑ **पारयि॒ष्णवः॑** ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/04_puShpAvatIpH_prasUvatIpH.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/04_puShpAvatIpH_prasUvatIpH.md">
 <details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
 <details><summary>Keith</summary>
 
@@ -443,7 +443,7 @@ The plants are strong to help.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/05_oShadhIr_iti.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/05_oShadhIr_iti.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
 "ओष॑धी॒र्"+++(=ओष=दाह/पाक+धीः)+++ इति॑ मातर॒स्  
@@ -452,7 +452,7 @@ The plants are strong to help.
 रप॑श् **चा॒तय॑मानाः** ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/05_oShadhIr_iti.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/05_oShadhIr_iti.md">
 <details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
 <details><summary>Keith</summary>
 
@@ -479,7 +479,7 @@ Defilement [1] destroying.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/06_ashvatthe_vo.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/06_ashvatthe_vo.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
 अ॒श्व॒त्थे वो॑ **नि॒षद॑नम्**  
@@ -488,7 +488,7 @@ Defilement [1] destroying.
 यथ् **स॒नव॑थ॒**+++(←दाने)+++ पूरु॑षम् ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/06_ashvatthe_vo.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/06_ashvatthe_vo.md">
 <details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
 <details><summary>Keith</summary>
 
@@ -513,7 +513,7 @@ If ye shall gain this man.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/07_yad_ahav.N.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/07_yad_ahav.N.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
 यद् अ॒हव्ँ **वा॒जय॑न्न्** इ॒मा  
@@ -522,7 +522,7 @@ If ye shall gain this man.
 पु॒रा जी॑व॒-गृभो॑ यथा ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/07_yad_ahav.N.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/07_yad_ahav.N.md">
 <details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
 <details><summary>Keith</summary>
 
@@ -544,7 +544,7 @@ As before one that taketh alive.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/08_yad_oShadhayas.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/08_yad_oShadhayas.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
 यद् ओष॑धयस् **स॒ङ्गच्छ॑न्ते॒**  
@@ -553,7 +553,7 @@ As before one that taketh alive.
 र॑ख्षो॒-हा ऽमी॑व॒-चात॑नः ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/08_yad_oShadhayas.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/08_yad_oShadhayas.md">
 <details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
 </details>
 </div>
@@ -574,7 +574,7 @@ Slayer of Raksases, overpowerer of diseases.
 अथ सप्तमीमाह– यदोषधय इति ।  
 यद्यदौषधयः सर्वाः संगच्छन्ते फलदानाय क्षेत्रसंगता  १९१५ भवन्ति, तत्र दृष्टान्तः—राजानः समिताविव, यथा युद्धे प्रतिपक्षिणः सेनां जेतुं परस्परमनुकूला राजानः संगच्छन्ते तद्वत् ।   तदानीं संगतास्वोषधीषु विप्रो मेधावी सरवीर्यभावनाभिज्ञो यः पुरुषः स भिषगुच्यते क्षुधादिरोगचिकित्सक इत्यभिधीयते ।   कथं भिषक्त्वमिति तदुच्यते—रक्षोहा पक्वाभिरेताभिः पुसेडाशं राक्षोघ्नं कृत्वा रक्षसां हन्ता तदुपद्रवरूपं रोगं विनाशयति ।   अमीवचातन ओषधिजन्यपथ्यादिभिरमीवान्रोगां-श्चातयति विनाशयतीत्यमीवचातनः ।  
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/09_niShkRtir_nAma.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/09_niShkRtir_nAma.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
 "निष्कृ॑ति॒र्" नाम॑ वो मा॒ता  
@@ -584,7 +584,7 @@ Slayer of Raksases, overpowerer of diseases.
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/09_niShkRtir_nAma.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/09_niShkRtir_nAma.md">
 <details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
 <details><summary>Keith</summary>
 
@@ -603,7 +603,7 @@ Remove whatever is unwell.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/10_anyA_vo.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/10_anyA_vo.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
 अ॒न्या वो॑ अ॒न्याम् **अ॑वत्व्**  
@@ -612,7 +612,7 @@ Remove whatever is unwell.
 इ॒दम् मे॒ **प्राव॑ता॒** वचः॑ ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/10_anyA_vo.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/10_anyA_vo.md">
 <details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
 <details><summary>Keith</summary>
 
@@ -632,7 +632,7 @@ Do ye further this speech of mine.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/11_uch_ChuShmA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/11_uch_ChuShmA.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
 उच् छुष्मा॒ ओष॑धीना॒ङ्  
@@ -641,7 +641,7 @@ Do ye further this speech of mine.
 आ॒त्मान॒न् तव॑ पूरुष ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/11_uch_ChuShmA.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/11_uch_ChuShmA.md">
 <details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
 <details><summary>Keith</summary>
 
@@ -660,7 +660,7 @@ To the self of thee, O man.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/12_ati_vishvAH.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/12_ati_vishvAH.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
 अति॒ विश्वाः᳚ +++(शरीरम्)+++ **परि॒ ष्ठास्**  
@@ -669,7 +669,7 @@ To the self of thee, O man.
 यत् किञ् च॑ त॒नुवा॒ꣳ॒ रपः॑ ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/12_ati_vishvAH.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/12_ati_vishvAH.md">
 <details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
 <details><summary>Keith</summary>
 
@@ -689,7 +689,7 @@ Every defilement in the body.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/13_yAs_ta.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/13_yAs_ta.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
 यास्  त॑ **आत॒स्थुर्** आ॒त्मान॒य्ँ  
@@ -698,7 +698,7 @@ Every defilement in the body.
 उ॒ग्रो म॑ध्यम॒-शीर्+++(←शयने)+++ इ॑व ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/13_yAs_ta.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/13_yAs_ta.md">
 <details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
 <details><summary>Keith</summary>
 
@@ -717,7 +717,7 @@ Like a dread intercessor.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/14_sAkay.N_yakhShma.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/14_sAkay.N_yakhShma.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
 सा॒कय्ँ य॑ख्ष्म॒ **प्र प॑त**  
@@ -726,7 +726,7 @@ Like a dread intercessor.
 सा॒कन् **न॑श्य** नि॒हाक॑या+++(=चण्डमारुतेन)+++ ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/14_sAkay.N_yakhShma.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/14_sAkay.N_yakhShma.md">
 <details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
 <details><summary>Keith</summary>
 
@@ -750,7 +750,7 @@ With the whirlwind do thou disappear.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/15_ashvAvatIM_somavatIm.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/15_ashvAvatIM_somavatIm.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
 अ॒श्वा॒व॒तीꣳ सो॑मव॒तीम्  
@@ -759,7 +759,7 @@ With the whirlwind do thou disappear.
 अ॒स्मा अ॑-रि॒ष्ट--ता॑तये+++(←तन्)+++ ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/15_ashvAvatIM_somavatIm.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/15_ashvAvatIM_somavatIm.md">
 <details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
 <details><summary>Keith</summary>
 
@@ -780,7 +780,7 @@ For his safety.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/16_yApH_phalinIr.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/16_yApH_phalinIr.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
 याᳶ फ॒लिनी॒र् या अ॑-फ॒ला  
@@ -789,7 +789,7 @@ For his safety.
 ता नो॑ **मुञ्च॒न्त्व्** अꣳह॑सः ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/16_yApH_phalinIr.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/16_yApH_phalinIr.md">
 <details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
 <details><summary>Keith</summary>
 
@@ -809,7 +809,7 @@ May they free us from tribulation.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/17_yA_oShadhayas.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/17_yA_oShadhayas.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
 या ओष॑धय॒स् सोम॑-राज्ञी॒ᳶ  
@@ -818,7 +818,7 @@ May they free us from tribulation.
 **प्र** णो॑ जी॒वात॑वे **सुव** ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/17_yA_oShadhayas.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/17_yA_oShadhayas.md">
 <details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
 <details><summary>Keith</summary>
 
@@ -838,7 +838,7 @@ Impel us to long life.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/18_avapatantIr_avadan.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/18_avapatantIr_avadan.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
 अ॒व॒पत॑न्तीर् **अवदन्**  
@@ -847,7 +847,7 @@ Impel us to long life.
 **न** स **रि॑ष्याति॒** पूरु॑षः" ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/18_avapatantIr_avadan.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/18_avapatantIr_avadan.md">
 <details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
 <details><summary>Keith</summary>
 
@@ -867,7 +867,7 @@ Shall not come to ill.'
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/19_yAsh_chedam.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/19_yAsh_chedam.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
 याश् चे॒दम् **उ॑पशृ॒ण्वन्ति॒**  
@@ -876,7 +876,7 @@ Shall not come to ill.'
 अस्मै॒ **सन्द॑त्त** भेष॒जम् ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/19_yAsh_chedam.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/19_yAsh_chedam.md">
 <details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
 <details><summary>Keith</summary>
 
@@ -896,7 +896,7 @@ Give ye him healing.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/20_mA_vo.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/20_mA_vo.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
 **मा** वो॑ रिषत् **खनि॒ता**,  
@@ -905,7 +905,7 @@ Give ye him healing.
 सर्व॑म् **अ॒स्त्व् अना॑तुरम्** ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/20_mA_vo.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/20_mA_vo.md">
 <details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
 <details><summary>Keith</summary>
 
@@ -925,7 +925,7 @@ Be free from disease.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/21_oShadhayas_sav.Nvadante.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/21_oShadhayas_sav.Nvadante.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
 ओष॑धय॒स् **सव्ँव॑दन्ते॒**  
@@ -934,7 +934,7 @@ Be free from disease.
 तꣳ रा॑जन् **पारयामसि**" ॥ [28]
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/21_oShadhayas_sav.Nvadante.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/21_oShadhayas_sav.Nvadante.md">
 <details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
 <details><summary>Keith</summary>
 
@@ -995,7 +995,7 @@ We, O king, bring to safety.'
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/17_pitA_virAjAm.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/17_pitA_virAjAm.md">
 <details open><summary><h5>17 पिता विराजाम्, ...{Loading}...</h5></summary>
 
 पि॒ता वि॒राजा॑म्, ऋष॒भो र॑यी॒णाम् ।  
@@ -1009,7 +1009,7 @@ We, O king, bring to safety.'
 'यत इन्द्र' 'स्वस्तिदा' इति द्वाभ्यां प्राच्यां, 
 
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/26_yata_indra.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/26_yata_indra.md">
 <details open><summary><h5>26 यत इन्द्र ...{Loading}...</h5></summary>
 
 यत॑ इन्द्र॒ भया॑महे॒  
@@ -1034,7 +1034,7 @@ We, O king, bring to safety.'
 
 'योऽस्य कौष्ठ्य' 'यमङ्गाय' इति द्वाभ्यां दक्षिणस्याम्, 
 
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yajnaH/02_yo-sya_kauShThya.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yajnaH/02_yo-sya_kauShThya.md">
 <details open><summary><h4>02 योऽस्य कौष्ठ्य! ...{Loading}...</h4></summary>
 
 योऽस्य॒ +++(गोत्रेण)+++ कौष्ठ्य॒! जग॑तः॒  
@@ -1043,7 +1043,7 @@ We, O king, bring to safety.'
 यो राजा॑ ऽनप॒रोद्ध्यः॑ ।
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yajnaH/03_yama~N_gAya.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yajnaH/03_yama~N_gAya.md">
 <details open><summary><h4>03 यमङ् गाय ...{Loading}...</h4></summary>
 
 य॒मङ् **गाय॑** +++(नाम्ना)+++ भङ्ग्य॒श्रवो॒!  

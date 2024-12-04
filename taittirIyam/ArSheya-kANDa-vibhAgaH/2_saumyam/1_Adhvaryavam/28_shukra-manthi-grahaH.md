@@ -3,7 +3,7 @@ title = "२८ शुक्र-मन्थि-ग्रहः"
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/1/1_agnyAdheyAdi/01_shukra-manthi-grahaH"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/1/1_agnyAdheyAdi/01_shukra-manthi-grahaH"  newLevelForH1="1" includeTitle="true">
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 

@@ -2,7 +2,7 @@
 title = "१० आहवनीयाद्युपस्थान-ब्राह्मणम्"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/06_AhavanIyAdyupasthAna-brAhmaNam"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/06_AhavanIyAdyupasthAna-brAhmaNam"  newLevelForH1="1" includeTitle="true">
 
 
 प्रजापतिर्ऋषिः  

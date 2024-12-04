@@ -2,7 +2,7 @@
 title = "०४ १-०६-९२ परिध्यनुमन्त्रण-ब्राह्मणादि"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/10_1-6-02_paridhyanumantraNa-brAhmaNAdi"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/10_1-6-02_paridhyanumantraNa-brAhmaNAdi"  newLevelForH1="1" includeTitle="true">
 
 द्वितीयानुवाकाम्नातमन्त्राणां विवरणब्राह्मणं हविरासादनविधिश्च  
 प्रजापतिर्ऋषिः

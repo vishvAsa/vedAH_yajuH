@@ -86,7 +86,7 @@ title = "१० ब्रह्मचारिणामग्निकार्�
 
 इति तथैव परिषिच्याथैनँसमिधमाधायोपतिष्ठते- 
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/3/5/03_viShNvatikramAH/yat_te_agne.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/5/03_viShNvatikramAH/yat_te_agne.md">
 <details open><summary><h5>यत् ते अग्ने ...{Loading}...</h5></summary>
 <details open><summary><h5>यत्ते॑ अग्ने॒  ...{Loading}...</h5></summary>
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -135,7 +135,7 @@ title = "१० ब्रह्मचारिणामग्निकार्�
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/3/3/01_atigrAhyamantrAH/mayi_medhAm.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/3/01_atigrAhyamantrAH/mayi_medhAm.md">
 <details open><summary><h5>मयि मेधाम् ...{Loading}...</h5></summary>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 

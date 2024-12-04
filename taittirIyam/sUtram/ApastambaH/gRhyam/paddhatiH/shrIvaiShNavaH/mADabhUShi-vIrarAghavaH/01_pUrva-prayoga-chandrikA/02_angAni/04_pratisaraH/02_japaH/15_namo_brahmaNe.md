@@ -4,7 +4,7 @@ title = "१५ नमो ब्रह्मणे"
 +++
 'नमो ब्रह्मणे' इति परिधानीयां त्रिः जपित्वा
 
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/02_svAdhyAya-brAhmaNAdi/namo_brahmaNe.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/02_svAdhyAya-brAhmaNAdi/namo_brahmaNe.md">
 <details open><summary><h4>नमो ब्रह्मणे ...{Loading}...</h4></summary>
 
 (ॐ)  

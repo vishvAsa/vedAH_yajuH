@@ -195,7 +195,7 @@ title = "०५ प्रधान-होमः"
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/jayAdy-abhyAtAna-rAShTrabhRtaH.md">
 <details open><summary><h5>जयाद्य्-अभ्यातान--राष्ट्र-भृतः ...{Loading}...</h5></summary>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/3/4/04_jayahomamantrAH_tatprashaMsA_cha/chittaM_cha_chittish_cha.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/4/04_jayahomamantrAH_tatprashaMsA_cha/chittaM_cha_chittish_cha.md">
 <details open><summary><h10>चि॒त्तं च॒ ...{Loading}...</h10></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -238,7 +238,7 @@ title = "०५ प्रधान-होमः"
 
 प्र॒जाप॑ति॒र्जया॒निन्द्रा॑य॒ वृष्णे॒ प्राय॑च्छदु॒ग्रᳶ पृ॑त॒नाज्ये॑षु॒ तस्मै॒ विश॒स्सम॑नमन्त॒ सर्वा॒स्स उ॒ग्रस्स हि हव्यो॑ ब॒भूव॑  
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/3/4/04_jayahomamantrAH_tatprashaMsA_cha/02_prajApatir_jayAn.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/4/04_jayahomamantrAH_tatprashaMsA_cha/02_prajApatir_jayAn.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
 प्र॒जाप॑ति॒र् जया॒न् इन्द्रा॑य॒ वृष्णे॒  
@@ -248,7 +248,7 @@ title = "०५ प्रधान-होमः"
 [स्वाहा॑॥]
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/3/4/04_jayahomamantrAH_tatprashaMsA_cha/02_prajApatir_jayAn.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/4/04_jayahomamantrAH_tatprashaMsA_cha/02_prajApatir_jayAn.md">
 <details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
 <details><summary>मूलम्</summary>
 
@@ -266,7 +266,7 @@ title = "०५ प्रधान-होमः"
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/3/4/05_abhyAtAnamantrAH/">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/3/4/05_abhyAtAnamantrAH/">
 <details open><summary><h10>०५ अभ्यातानमन्त्राः ...{Loading}...</h10></summary>
 
 
@@ -717,7 +717,7 @@ title = "०५ प्रधान-होमः"
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/3/4/07_rAShTrabhRnmantrAH/">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/3/4/07_rAShTrabhRnmantrAH/">
 <details open><summary><h10>०७ राष्ट्रभृन्मन्त्राः ...{Loading}...</h10></summary>
 
 

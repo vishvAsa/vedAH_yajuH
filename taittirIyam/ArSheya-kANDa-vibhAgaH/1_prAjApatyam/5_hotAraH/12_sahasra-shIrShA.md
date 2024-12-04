@@ -3,7 +3,7 @@ title = "१२ सहस्र-शीर्षा"
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/12_sahasra-shIrShA"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/12_sahasra-shIrShA"  newLevelForH1="1" includeTitle="true">
 
 <div class="js_include" newlevelforh1="2" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/090/_index.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
@@ -3414,13 +3414,13 @@ Sieben Umschlusshölzer waren ihm, dreimal sieben Schichten des Brennholzes wurd
 ### पुरुषस्तुतिः, यज्ञस्तुतिः
 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/03_chAturhotra-chayanAdi/12_sahasra-shIrShA/16_vedAham_etam.md" newLevelForH1="5" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/03_chAturhotra-chayanAdi/12_sahasra-shIrShA/16_vedAham_etam.md" newLevelForH1="5" includeTitle="false"> </div>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/03_chAturhotra-chayanAdi/12_sahasra-shIrShA/16_vedAham_etam.md" newLevelForH1="5" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/03_chAturhotra-chayanAdi/12_sahasra-shIrShA/16_vedAham_etam.md" newLevelForH1="5" includeTitle="false"> </div>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/03_chAturhotra-chayanAdi/12_sahasra-shIrShA/17_dhAtA_purastAt.md" newLevelForH1="5" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/03_chAturhotra-chayanAdi/12_sahasra-shIrShA/17_dhAtA_purastAt.md" newLevelForH1="5" includeTitle="false"> </div>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/03_chAturhotra-chayanAdi/12_sahasra-shIrShA/17_dhAtA_purastAt.md" newLevelForH1="5" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/03_chAturhotra-chayanAdi/12_sahasra-shIrShA/17_dhAtA_purastAt.md" newLevelForH1="5" includeTitle="false"> </div>
 
 
 

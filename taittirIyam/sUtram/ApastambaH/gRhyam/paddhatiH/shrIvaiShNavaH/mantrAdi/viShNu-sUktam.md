@@ -14,7 +14,7 @@ title = "विष्णु-सूक्तम्"
 पूर्वम् अन्ते वा निवेशने नास्ति विप्रतिपत्तिः, किन्तु ऋचाम् मध्ये विलक्षणम्।   
 अतो ऽत्र तथा दर्शितम्। 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/13_havirdhAna-maNDapa-nirmANam/viShNo_rarATam.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/13_havirdhAna-maNDapa-nirmANam/viShNo_rarATam.md">
 <details open><summary><h5>विष्णो॑ र॒राट॑म् ...{Loading}...</h5></summary>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -155,7 +155,7 @@ Thou art of Vishu; to Visnu thee!
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/2/8_kAmya-pashavaH/3_saumyAdi-sUktAni/02_viShNuH">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/8_kAmya-pashavaH/3_saumyAdi-sUktAni/02_viShNuH">
 <details open><summary><h5>०२ विष्णुः ...{Loading}...</h5></summary>
 <details><summary>सायणोक्त-विनियोगः</summary>
 

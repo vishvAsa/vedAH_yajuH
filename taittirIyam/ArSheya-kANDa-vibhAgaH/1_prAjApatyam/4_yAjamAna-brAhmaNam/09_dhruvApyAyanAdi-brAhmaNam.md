@@ -2,7 +2,7 @@
 title = "०९ ध्रुवाप्यायनादिमन्त्रब्राह्मणम्"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/05_dhruvApyAyanAdi-brAhmaNam"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/05_dhruvApyAyanAdi-brAhmaNam"  newLevelForH1="1" includeTitle="true">
 
 
 प्रजापतिर्ऋषिः  

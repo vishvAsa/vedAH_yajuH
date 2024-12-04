@@ -2,7 +2,7 @@
 title = "४५ एकाहेषु अग्निष्टोमविधिः"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/7/1/01_ekAheShu_agniShTomavidhiH"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/7/1/01_ekAheShu_agniShTomavidhiH"  newLevelForH1="1" includeTitle="true">
 
 ## परिचयः
 

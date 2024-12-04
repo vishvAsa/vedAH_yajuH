@@ -40,7 +40,7 @@ title = "०१ व्रत-ग्रहणम्"
 
 > स्वाहा - प्रजापतय इदम् । 
 
-<div class="js_include" newlevelforh1="4" none="" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/02_rayINAm_patiy.N.md">
+<div class="js_include" newlevelforh1="4" none="" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/02_rayINAm_patiy.N.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 र॒यी॒णाम् पति॑य्ँ **यज॒तम्**+++(=यजनीयम्)+++ बृ॒हन्त᳚म् ।  
@@ -52,7 +52,7 @@ title = "०१ व्रत-ग्रहणम्"
 
 > स्वाहा - प्रजापतय इदन्न मम ।
 
-<div class="js_include" newlevelforh1="4" none="" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/03_prajApate_tvan.md">
+<div class="js_include" newlevelforh1="4" none="" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/03_prajApate_tvan.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 प्रजा॑-पते॒ त्वन् नि॑धि॒-**पाᳶ** पु॑रा॒णः ।  
@@ -64,7 +64,7 @@ title = "०१ व्रत-ग्रहणम्"
 
 > स्वाहा - प्रजापतय इदम् ।
 
-<div class="js_include" newlevelforh1="4" none="" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/04_taveme_lokApH.md">
+<div class="js_include" newlevelforh1="4" none="" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/04_taveme_lokApH.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 तवे॒मे लो॒काᳶ प्र॒दिशो॒ दिश॑श् च ॥ 3 ॥  
@@ -76,7 +76,7 @@ title = "०१ व्रत-ग्रहणम्"
 
 > स्वाहा - प्रजापतय इदन्न मम ।
 
-<div class="js_include" newlevelforh1="4" none="" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/05_prajApatim_prathamay.N.md">
+<div class="js_include" newlevelforh1="4" none="" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/05_prajApatim_prathamay.N.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 प्र॒जाप॑तिम् प्रथ॒मय्ँ य॒ज्ञिया॑नाम् ।  
@@ -90,7 +90,7 @@ title = "०१ व्रत-ग्रहणम्"
 
 [[88]]
 
-<div class="js_include" newlevelforh1="4" none="" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/06_yo_rAya.md">
+<div class="js_include" newlevelforh1="4" none="" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/06_yo_rAya.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 यो रा॒य **ईशे॑** शतदा॒य उ॒क्थ्यः॑ ।   
@@ -125,7 +125,7 @@ title = "०१ व्रत-ग्रहणम्"
 
 (अधः "का॒ण्ड॒र्षिभ्यः॑ प्राजापत्य-व्र॒तं च॑रिष्यामि इत्यूहनीयम्।)
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/07_pravargyAdi/84_agne_vratapate"  newLevelForH1="5" includeTitle="false"> 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/07_pravargyAdi/84_agne_vratapate"  newLevelForH1="5" includeTitle="false"> 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -139,14 +139,14 @@ title = "०१ व्रत-ग्रहणम्"
 
 
 
-<div class="js_include" newlevelforh1="4" none="" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<div class="js_include" newlevelforh1="4" none="" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 (…) व्र॒तञ्च॑रिष्यामि । (84)  
 तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -173,14 +173,14 @@ title = "०१ व्रत-ग्रहणम्"
 </details>
 
 
-<div class="js_include" newlevelforh1="4" none="" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<div class="js_include" newlevelforh1="4" none="" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 (…) व्र॒तञ्च॑रिष्यामि । (84)  
 तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -200,14 +200,14 @@ title = "०१ व्रत-ग्रहणम्"
 आदि॑त्य व्रतपते
 </details>
 
-<div class="js_include" newlevelforh1="4" none="" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<div class="js_include" newlevelforh1="4" none="" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 (…) व्र॒तञ्च॑रिष्यामि । (84)  
 तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -229,14 +229,14 @@ title = "०१ व्रत-ग्रहणम्"
 </details>
 
 
-<div class="js_include" newlevelforh1="4" none="" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<div class="js_include" newlevelforh1="4" none="" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 (…) व्र॒तञ्च॑रिष्यामि । (84)  
 तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 

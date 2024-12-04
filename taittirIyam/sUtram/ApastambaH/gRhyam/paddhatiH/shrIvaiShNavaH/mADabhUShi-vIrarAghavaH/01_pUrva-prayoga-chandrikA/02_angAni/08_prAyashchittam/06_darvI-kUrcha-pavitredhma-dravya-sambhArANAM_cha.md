@@ -29,7 +29,7 @@ title = "०६ दर्वी-कूर्च-पवित्रेध्म-�
 +++(अग्नीवरुणाभ्याम् इदं न मम)+++
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/1/68_tvamagne_ayAsi.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/1/68_tvamagne_ayAsi.md">
 <details open><summary><h5>68 त्वमग्ने अयासि ...{Loading}...</h5></summary>
 
 त्वम॑ग्ने अ॒यासि॑ ।   

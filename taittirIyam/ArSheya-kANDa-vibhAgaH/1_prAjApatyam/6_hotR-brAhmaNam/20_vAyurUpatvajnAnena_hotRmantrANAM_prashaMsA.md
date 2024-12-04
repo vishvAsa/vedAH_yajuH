@@ -3,7 +3,7 @@ title = "२० वायुरूपत्वज्ञानेन होतृ
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/2/3_hotR-brAhmaNAdi/09_vAyurUpatvajnAnena_hotRmantrANAM_prashaMsA"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/3_hotR-brAhmaNAdi/09_vAyurUpatvajnAnena_hotRmantrANAM_prashaMsA"  newLevelForH1="1" includeTitle="true">
 
 <details><summary>मूलम्</summary>
 

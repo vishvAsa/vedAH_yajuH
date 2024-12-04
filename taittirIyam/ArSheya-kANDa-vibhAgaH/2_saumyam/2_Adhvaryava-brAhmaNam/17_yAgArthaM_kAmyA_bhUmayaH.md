@@ -2,7 +2,7 @@
 title = "१७ यागार्थं काम्या भूमयः"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/6/2/06_yAgArthaM_kAmyA_bhUmayaH"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/6/2/06_yAgArthaM_kAmyA_bhUmayaH"  newLevelForH1="1" includeTitle="true">
 
 सोमऋषिः
 

@@ -2,7 +2,7 @@
 title = "३२ बर्हिःप्रयोगः"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/2/6/05_barhiHprayogaH"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/2/6/05_barhiHprayogaH"  newLevelForH1="1" includeTitle="true">
 
 प्रजापतिर्ऋषिः
 <details><summary>मूलम् (संयुक्तम्)</summary>

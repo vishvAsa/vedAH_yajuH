@@ -2,7 +2,7 @@
 title = "०९ क्रयार्थं सोमस्योन्मानप्रकारः"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/6/1/09_krayArthaM_somasyonmAnaprakAraH"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/6/1/09_krayArthaM_somasyonmAnaprakAraH"  newLevelForH1="1" includeTitle="true">
 
 
 सोमऋषिः

@@ -128,7 +128,7 @@ _________
 [[2]]
 
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/1/5_nAxatrAdi/07_AyuShaH_prANam">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/1/5_nAxatrAdi/07_AyuShaH_prANam">
 <details open><summary><h5>०७ सन्तत्याख्येष्टकामन्त्राः ...{Loading}...</h5></summary>
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -403,7 +403,7 @@ _________
 
 > अग्नये अयस इदम्  …
 
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/35_anAjnAtay.NyadAjnAtam_yajnasya.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/35_anAjnAtay.NyadAjnAtam_yajnasya.md">
 <details open><summary><h4>35 अनाज्ञातय्ँयदाज्ञातम् यज्ञस्य ...{Loading}...</h4></summary>
 
 अना᳚ज्ञात॒य्ँयदाज्ञा॑तम् ।  
@@ -412,7 +412,7 @@ _________
 त्वꣳ हि वेत्थ॑ यथात॒थम् ।
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/38_puruShasammito_yajnaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/38_puruShasammito_yajnaH.md">
 <details open><summary><h4>38 पुरुषसम्मितो यज्ञः ...{Loading}...</h4></summary>
 
 पुरु॑षसम्मितो य॒ज्ञः ।  
@@ -421,7 +421,7 @@ _________
 त्वꣳ हि वेत्थ॑ यथात॒थम् ।
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/41_yatpAkatrA_manasA.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/41_yatpAkatrA_manasA.md">
 <details open><summary><h4>41 यत्पाकत्रा मनसा ...{Loading}...</h4></summary>
 
 यत्पा॑क॒त्रा मन॑सा दी॒नद॑ख्षा॒ न ।  

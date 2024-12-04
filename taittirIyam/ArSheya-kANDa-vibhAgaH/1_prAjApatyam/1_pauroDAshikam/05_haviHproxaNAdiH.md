@@ -2,7 +2,7 @@
 title = "०५ हविःप्रोक्षणादिः"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/1_darshapUrNamAsAdi/05_haviHproxaNAdiH"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/1_darshapUrNamAsAdi/05_haviHproxaNAdiH"  newLevelForH1="1" includeTitle="true">
 
 (व्रीह्यवघातः)
 
@@ -12,7 +12,7 @@ title = "०५ हविःप्रोक्षणादिः"
 
 1अप उत्पुनाति - देवो व इति गायत्र्या । 'सावित्रियर्चा' (तै.ब्रा. 3.2.5) इति ब्राह्मणम् ।
 </details>
-<div class="js_include" includetitle="plain" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/05_haviHproxaNAdiH/devo_vas_savitotpunAtu.md">
+<div class="js_include" includetitle="plain" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/05_haviHproxaNAdiH/devo_vas_savitotpunAtu.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 दे॒वो व॑स् सवि॒तोत्पु॑ना॒त्व्  
@@ -22,7 +22,7 @@ title = "०५ हविःप्रोक्षणादिः"
 +++('असौ वा आदित्योच्छिद्रं पवित्रम्' (तै.ब्रा. 3.2.5) इत्यादि ब्राह्मणम् ।)+++
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/05_haviHproxaNAdiH/devo_vas_savitotpunAtu.md">
+<div class="js_include" includetitle="true" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/05_haviHproxaNAdiH/devo_vas_savitotpunAtu.md">
 <details open><summary><h4>देवो वस् सविता ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -40,7 +40,7 @@ with the rays of the bright sun.
 हे आपः **देवस्सविता** सर्वस्य प्रेरकः, **वः** युष्मान् **उत्पुनातु** ऊर्ध्वं शोधयतु । 
 
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/bhaTTa-bhAskara-TIkA/1/1_darshapUrNamAsAdiH/05_haviHproxaNAdiH/achChidreNa.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/bhaTTa-bhAskara-TIkA/1/1_darshapUrNamAsAdiH/05_haviHproxaNAdiH/achChidreNa.md">
 <details open><summary><h9>अच्छिद्रेण ...{Loading}...</h9></summary>
 
 **अच्छिद्रेण पवित्रेण** जगतां पावनेन आदित्यात्मनानेन;  
@@ -171,7 +171,7 @@ ____
 
 पात्राणि प्रोक्षति
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/03_sAnnAyyaM_-_pAtraproxaNAdi/shundhadhvam.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/03_sAnnAyyaM_-_pAtraproxaNAdi/shundhadhvam.md">
 <details open><summary><h5>शुन्धध्वम् ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -202,7 +202,7 @@ ____
 
 कृष्णाजिनमवधूनोति
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/05_haviHproxaNAdiH/avadhUtaM.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/05_haviHproxaNAdiH/avadhUtaM.md">
 <details open><summary><h5>अवधूतम् ...{Loading}...</h5></summary>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -220,7 +220,7 @@ The Raksas is shaken off, the evil spirits are shaken off.
 
 6कृष्णाजिनमवधूनोति - अवधूतमिति यजुरादिकयैकपदया गायत्र्या ॥ अवधूतं विनाशितम् । शिष्टं व्यख्यातं प्रत्युष्टादि मन्त्रेण (तै.सं. 1.1.2) । 'गतिरनन्तरः' (पा.सू. 6.2.49) इति पूर्वपदप्रकृतिस्वरत्वम् ॥
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/bhaTTa-bhAskara-TIkA/1/2_somayAgArambhaH/02_barhirAstaraNam/raxorAtI.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/bhaTTa-bhAskara-TIkA/1/2_somayAgArambhaH/02_barhirAstaraNam/raxorAtI.md">
 <details open><summary><h10>रक्षोऽराती ...{Loading}...</h10></summary>
 
 
@@ -451,7 +451,7 @@ ____
 
 शूर्पम् उपयच्छति
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/varSha-vRddham.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/varSha-vRddham.md">
 <details open><summary><h5>वर्षवृद्धम् ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -581,7 +581,7 @@ ____
 
 तण्डुलान् [कृष्णाजिने?] प्रस्कन्दयति
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/05_haviHproxaNAdiH/devo_vas_savitA.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/05_haviHproxaNAdiH/devo_vas_savitA.md">
 <details open><summary><h5>देवो वस् सविता ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

@@ -97,13 +97,13 @@ script: grantha
 
 ## हिरण्यवर्णीयाः
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/5/6/01_kumbheShTakA">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/5/6/01_kumbheShTakA">
 <details open><summary><h5>०१ कुम्भेष्टकाः ...{Loading}...</h5></summary>
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 कुम्भेष्टकोपधानमन्त्राः
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/5/6/01_kumbheShTakA__01-04_hiraNyavarNAsh_shuchayaH">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/5/6/01_kumbheShTakA__01-04_hiraNyavarNAsh_shuchayaH">
 <details open><summary><h10>०१ कुम्भेष्टकाः - ०१ हिरण्यवर्णाश् शुचयः ...{Loading}...</h10></summary>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -113,7 +113,7 @@ script: grantha
 
 हिर॑ण्यवर्णा॒श्शुच॑यᳶ पाव॒का यासु॑ जा॒तᳵ क॒श्यपो॒ यास्विन्द्रः॑ । अ॒ग्निय्ँया गर्भ॑न्दधि॒रे विरू॑पा॒स्ता न॒ आप॒श्शꣳ स्यो॒ना भ॑वन्तु ।
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/03_hiraNyavarNAsh_shuchayapH.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/03_hiraNyavarNAsh_shuchayapH.md">
 <details open><summary><h14>विश्वास-प्रस्तुतिः ...{Loading}...</h14></summary>
 
 हिर॑ण्यवर्णा॒श् शुच॑यᳶ पाव॒का,  
@@ -122,7 +122,7 @@ script: grantha
 ता न॒ आप॒श् शꣳ स्यो॒ना **भ॑वन्तु** ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/5/6/01_hiraNyavarNAsh_shuchayaH/03_hiraNyavarNAsh_shuchayapH.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/5/6/01_hiraNyavarNAsh_shuchayaH/03_hiraNyavarNAsh_shuchayapH.md">
 <details open><summary><h14>सर्वाष् टीकाः ...{Loading}...</h14></summary>
 <details><summary>मूलम्</summary>
 
@@ -144,7 +144,7 @@ script: grantha
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/08_yAsAM_rAjA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/08_yAsAM_rAjA.md">
 <details open><summary><h14>विश्वास-प्रस्तुतिः ...{Loading}...</h14></summary>
 
 यासा॒ꣳ॒ राजा॒ वरु॑णो॒ **याति॒** मध्ये॑,  
@@ -153,7 +153,7 @@ script: grantha
 ता न॒ आप॒श् शꣳ स्यो॒ना **भ॑वन्तु** ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/5/6/01_hiraNyavarNAsh_shuchayaH/08_yAsAM_rAjA.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/5/6/01_hiraNyavarNAsh_shuchayaH/08_yAsAM_rAjA.md">
 <details open><summary><h14>सर्वाष् टीकाः ...{Loading}...</h14></summary>
 <details><summary>मूलम्</summary>
 
@@ -172,7 +172,7 @@ script: grantha
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/12_yAsAn_devA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/12_yAsAn_devA.md">
 <details open><summary><h14>विश्वास-प्रस्तुतिः ...{Loading}...</h14></summary>
 
 यासा᳚न् दे॒वा दि॒वि **कृ॒ण्वन्ति॑** भ॒ख्षय्ँ -  
@@ -181,7 +181,7 @@ script: grantha
 ता न॒ आप॒श् शꣳ स्यो॒ना **भ॑वन्तु** ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/5/6/01_hiraNyavarNAsh_shuchayaH/12_yAsAn_devA.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/5/6/01_hiraNyavarNAsh_shuchayaH/12_yAsAn_devA.md">
 <details open><summary><h14>सर्वाष् टीकाः ...{Loading}...</h14></summary>
 <details><summary>मूलम्</summary>
 
@@ -198,13 +198,13 @@ script: grantha
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/5/6/01_kumbheShTakA__05-13_yad_adas">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/5/6/01_kumbheShTakA__05-13_yad_adas">
 <details open><summary><h15>०१ कुम्भेष्टकाः - ०५-१३ यद् अदः ...{Loading}...</h15></summary>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यद॒दस्स॑म्प्रय॒तीरहा॒वन॑दता ह॒ते । तस्मा॒दा न॒द्यो॑ नाम॑ स्थ॒ ता वो॒ नामा॑नि सिन्धवः ।
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_kumbheShTakopAdhAna-mantrAH/21_yad_adas.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_kumbheShTakopAdhAna-mantrAH/21_yad_adas.md">
 <details open><summary><h19>विश्वास-प्रस्तुतिः ...{Loading}...</h19></summary>
 
 यद् अ॒दस् स॑म्प्रय॒तीर्  
@@ -213,7 +213,7 @@ script: grantha
 ता वो॒ नामा॑नि सिन्धवः+++(=स्यन्दनशीलाः)+++ ।+++(4)+++
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/5/6/01_kumbheShTakopAdhAna-mantrAH/21_yad_adas.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/5/6/01_kumbheShTakopAdhAna-mantrAH/21_yad_adas.md">
 <details open><summary><h19>सर्वाष् टीकाः ...{Loading}...</h19></summary>
 <details><summary>मूलम्</summary>
 
@@ -237,7 +237,7 @@ script: grantha
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_kumbheShTakopAdhAna-mantrAH/25_yat_preShitA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_kumbheShTakopAdhAna-mantrAH/25_yat_preShitA.md">
 <details open><summary><h19>विश्वास-प्रस्तुतिः ...{Loading}...</h19></summary>
 
 यत् **प्रेषि॑ता॒** वरु॑णेन॒,  
@@ -246,7 +246,7 @@ script: grantha
 तस्मा॒द् आपो॒ अनु॑ **स्थन** ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/5/6/01_kumbheShTakopAdhAna-mantrAH/25_yat_preShitA.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/5/6/01_kumbheShTakopAdhAna-mantrAH/25_yat_preShitA.md">
 <details open><summary><h19>सर्वाष् टीकाः ...{Loading}...</h19></summary>
 <details><summary>मूलम्</summary>
 
@@ -265,7 +265,7 @@ script: grantha
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_kumbheShTakopAdhAna-mantrAH/29_apakAmaM_syandamAnA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_kumbheShTakopAdhAna-mantrAH/29_apakAmaM_syandamAnA.md">
 <details open><summary><h19>विश्वास-प्रस्तुतिः ...{Loading}...</h19></summary>
 
 अ॒प॒का॒मꣳ **स्यन्द॑माना॒**  
@@ -274,7 +274,7 @@ script: grantha
 तस्मा॒द् वार्+++(=वारि)+++ णाम॑ वो **हि॒तम्** ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/5/6/01_kumbheShTakopAdhAna-mantrAH/29_apakAmaM_syandamAnA.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/5/6/01_kumbheShTakopAdhAna-mantrAH/29_apakAmaM_syandamAnA.md">
 <details open><summary><h19>सर्वाष् टीकाः ...{Loading}...</h19></summary>
 <details><summary>मूलम्</summary>
 
@@ -296,7 +296,7 @@ script: grantha
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_kumbheShTakopAdhAna-mantrAH/33_eko_devo.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_kumbheShTakopAdhAna-mantrAH/33_eko_devo.md">
 <details open><summary><h19>विश्वास-प्रस्तुतिः ...{Loading}...</h19></summary>
 
 एको॑ दे॒वो अप्य् **अ॑तिष्ठ॒थ्** -  
@@ -305,7 +305,7 @@ script: grantha
 तस्मा॑द् उद॒कम् **उ॑च्यते** ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/5/6/01_kumbheShTakopAdhAna-mantrAH/33_eko_devo.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/5/6/01_kumbheShTakopAdhAna-mantrAH/33_eko_devo.md">
 <details open><summary><h19>सर्वाष् टीकाः ...{Loading}...</h19></summary>
 <details><summary>मूलम्</summary>
 
@@ -324,7 +324,7 @@ script: grantha
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_kumbheShTakopAdhAna-mantrAH/37_Apo_bhadrA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_kumbheShTakopAdhAna-mantrAH/37_Apo_bhadrA.md">
 <details open><summary><h19>विश्वास-प्रस्तुतिः ...{Loading}...</h19></summary>
 
 आपो॑ भ॒द्रा, घृ॒तम् इद् आप॑ आसुर् -  
@@ -333,7 +333,7 @@ script: grantha
 **आ** मा᳚ प्रा॒णेन॑ स॒ह वर्च॑सा **गन्न्** ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/5/6/01_kumbheShTakopAdhAna-mantrAH/37_Apo_bhadrA.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/5/6/01_kumbheShTakopAdhAna-mantrAH/37_Apo_bhadrA.md">
 <details open><summary><h19>सर्वाष् टीकाः ...{Loading}...</h19></summary>
 <details><summary>मूलम्</summary>
 
@@ -352,7 +352,7 @@ script: grantha
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_kumbheShTakopAdhAna-mantrAH/41_Ad_it.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_kumbheShTakopAdhAna-mantrAH/41_Ad_it.md">
 <details open><summary><h19>विश्वास-प्रस्तुतिः ...{Loading}...</h19></summary>
 
 आद्+++(=अतः)+++ इत् **प॑श्याम्य्** उ॒त वा॑ **शृणो॒म्य्**  
@@ -361,7 +361,7 @@ script: grantha
 हिर॑ण्य-वर्णा॒ **अतृ॑पय्ँ** य॒दा वः॑ ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/5/6/01_kumbheShTakopAdhAna-mantrAH/41_Ad_it.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/5/6/01_kumbheShTakopAdhAna-mantrAH/41_Ad_it.md">
 <details open><summary><h19>सर्वाष् टीकाः ...{Loading}...</h19></summary>
 <details><summary>मूलम्</summary>
 
@@ -943,7 +943,7 @@ Für solchen gehn wir euch zur Hand, zu dessen Sitz ihr eilend naht, Ihr Wasser 
 </div>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/16_shivena_mA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/16_shivena_mA.md">
 <details open><summary><h14>विश्वास-प्रस्तुतिः ...{Loading}...</h14></summary>
 
 शि॒वेन॑ मा॒ चख्षु॑षा **पश्यतापश्** -  
@@ -952,7 +952,7 @@ Für solchen gehn wir euch zur Hand, zu dessen Sitz ihr eilend naht, Ihr Wasser 
 मयि॒ वर्चो॒ बल॒म् ओजो॒ **नि ध॑त्त** ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/5/6/01_hiraNyavarNAsh_shuchayaH/16_shivena_mA.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/5/6/01_hiraNyavarNAsh_shuchayaH/16_shivena_mA.md">
 <details open><summary><h14>सर्वाष् टीकाः ...{Loading}...</h14></summary>
 <details><summary>मूलम्</summary>
 
@@ -968,13 +968,13 @@ Für solchen gehn wir euch zur Hand, zu dessen Sitz ihr eilend naht, Ihr Wasser 
 </div>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/5/6/01_kumbheShTakA__05-13_yad_adas/">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/5/6/01_kumbheShTakA__05-13_yad_adas/">
 <details open><summary><h10>०१ कुम्भेष्टकाः - ०५-१३ यद् अदः ...{Loading}...</h10></summary>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यद॒दस्स॑म्प्रय॒तीरहा॒वन॑दता ह॒ते । तस्मा॒दा न॒द्यो॑ नाम॑ स्थ॒ ता वो॒ नामा॑नि सिन्धवः ।
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_kumbheShTakopAdhAna-mantrAH/21_yad_adas.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_kumbheShTakopAdhAna-mantrAH/21_yad_adas.md">
 <details open><summary><h14>विश्वास-प्रस्तुतिः ...{Loading}...</h14></summary>
 
 यद् अ॒दस् स॑म्प्रय॒तीर्  
@@ -983,7 +983,7 @@ Für solchen gehn wir euch zur Hand, zu dessen Sitz ihr eilend naht, Ihr Wasser 
 ता वो॒ नामा॑नि सिन्धवः+++(=स्यन्दनशीलाः)+++ ।+++(4)+++
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/5/6/01_kumbheShTakopAdhAna-mantrAH/21_yad_adas.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/5/6/01_kumbheShTakopAdhAna-mantrAH/21_yad_adas.md">
 <details open><summary><h14>सर्वाष् टीकाः ...{Loading}...</h14></summary>
 <details><summary>मूलम्</summary>
 
@@ -1007,7 +1007,7 @@ Für solchen gehn wir euch zur Hand, zu dessen Sitz ihr eilend naht, Ihr Wasser 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_kumbheShTakopAdhAna-mantrAH/25_yat_preShitA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_kumbheShTakopAdhAna-mantrAH/25_yat_preShitA.md">
 <details open><summary><h14>विश्वास-प्रस्तुतिः ...{Loading}...</h14></summary>
 
 यत् **प्रेषि॑ता॒** वरु॑णेन॒,  
@@ -1016,7 +1016,7 @@ Für solchen gehn wir euch zur Hand, zu dessen Sitz ihr eilend naht, Ihr Wasser 
 तस्मा॒द् आपो॒ अनु॑ **स्थन** ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/5/6/01_kumbheShTakopAdhAna-mantrAH/25_yat_preShitA.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/5/6/01_kumbheShTakopAdhAna-mantrAH/25_yat_preShitA.md">
 <details open><summary><h14>सर्वाष् टीकाः ...{Loading}...</h14></summary>
 <details><summary>मूलम्</summary>
 
@@ -1035,7 +1035,7 @@ Für solchen gehn wir euch zur Hand, zu dessen Sitz ihr eilend naht, Ihr Wasser 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_kumbheShTakopAdhAna-mantrAH/29_apakAmaM_syandamAnA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_kumbheShTakopAdhAna-mantrAH/29_apakAmaM_syandamAnA.md">
 <details open><summary><h14>विश्वास-प्रस्तुतिः ...{Loading}...</h14></summary>
 
 अ॒प॒का॒मꣳ **स्यन्द॑माना॒**  
@@ -1044,7 +1044,7 @@ Für solchen gehn wir euch zur Hand, zu dessen Sitz ihr eilend naht, Ihr Wasser 
 तस्मा॒द् वार्+++(=वारि)+++ णाम॑ वो **हि॒तम्** ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/5/6/01_kumbheShTakopAdhAna-mantrAH/29_apakAmaM_syandamAnA.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/5/6/01_kumbheShTakopAdhAna-mantrAH/29_apakAmaM_syandamAnA.md">
 <details open><summary><h14>सर्वाष् टीकाः ...{Loading}...</h14></summary>
 <details><summary>मूलम्</summary>
 
@@ -1066,7 +1066,7 @@ Für solchen gehn wir euch zur Hand, zu dessen Sitz ihr eilend naht, Ihr Wasser 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_kumbheShTakopAdhAna-mantrAH/33_eko_devo.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_kumbheShTakopAdhAna-mantrAH/33_eko_devo.md">
 <details open><summary><h14>विश्वास-प्रस्तुतिः ...{Loading}...</h14></summary>
 
 एको॑ दे॒वो अप्य् **अ॑तिष्ठ॒थ्** -  
@@ -1075,7 +1075,7 @@ Für solchen gehn wir euch zur Hand, zu dessen Sitz ihr eilend naht, Ihr Wasser 
 तस्मा॑द् उद॒कम् **उ॑च्यते** ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/5/6/01_kumbheShTakopAdhAna-mantrAH/33_eko_devo.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/5/6/01_kumbheShTakopAdhAna-mantrAH/33_eko_devo.md">
 <details open><summary><h14>सर्वाष् टीकाः ...{Loading}...</h14></summary>
 <details><summary>मूलम्</summary>
 
@@ -1094,7 +1094,7 @@ Für solchen gehn wir euch zur Hand, zu dessen Sitz ihr eilend naht, Ihr Wasser 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_kumbheShTakopAdhAna-mantrAH/37_Apo_bhadrA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_kumbheShTakopAdhAna-mantrAH/37_Apo_bhadrA.md">
 <details open><summary><h14>विश्वास-प्रस्तुतिः ...{Loading}...</h14></summary>
 
 आपो॑ भ॒द्रा, घृ॒तम् इद् आप॑ आसुर् -  
@@ -1103,7 +1103,7 @@ Für solchen gehn wir euch zur Hand, zu dessen Sitz ihr eilend naht, Ihr Wasser 
 **आ** मा᳚ प्रा॒णेन॑ स॒ह वर्च॑सा **गन्न्** ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/5/6/01_kumbheShTakopAdhAna-mantrAH/37_Apo_bhadrA.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/5/6/01_kumbheShTakopAdhAna-mantrAH/37_Apo_bhadrA.md">
 <details open><summary><h14>सर्वाष् टीकाः ...{Loading}...</h14></summary>
 <details><summary>मूलम्</summary>
 
@@ -1122,7 +1122,7 @@ Für solchen gehn wir euch zur Hand, zu dessen Sitz ihr eilend naht, Ihr Wasser 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_kumbheShTakopAdhAna-mantrAH/41_Ad_it.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_kumbheShTakopAdhAna-mantrAH/41_Ad_it.md">
 <details open><summary><h14>विश्वास-प्रस्तुतिः ...{Loading}...</h14></summary>
 
 आद्+++(=अतः)+++ इत् **प॑श्याम्य्** उ॒त वा॑ **शृणो॒म्य्**  
@@ -1131,7 +1131,7 @@ Für solchen gehn wir euch zur Hand, zu dessen Sitz ihr eilend naht, Ihr Wasser 
 हिर॑ण्य-वर्णा॒ **अतृ॑पय्ँ** य॒दा वः॑ ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/5/6/01_kumbheShTakopAdhAna-mantrAH/41_Ad_it.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/5/6/01_kumbheShTakopAdhAna-mantrAH/41_Ad_it.md">
 <details open><summary><h14>सर्वाष् टीकाः ...{Loading}...</h14></summary>
 <details><summary>मूलम्</summary>
 
@@ -1744,13 +1744,13 @@ Für solchen gehn wir euch zur Hand, zu dessen Sitz ihr eilend naht, Ihr Wasser 
 
 ## पवमानसूक्तम्
 
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH">
 <details open><summary><h4>०८, पावमानीमन्त्राः ...{Loading}...</h4></summary>
 <details><summary>विश्वास-टिप्पनी</summary>
 
 स्मार्ते स्नानादौ मार्जनार्थाश्च।
 </details>
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/01_pavamAnas_suvarjanaH.md">
+<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/01_pavamAnas_suvarjanaH.md">
 <details open><summary><h8>01 पवमानस् सुवर्जनः ...{Loading}...</h8></summary>
 
 पव॑मान॒स् सुव॒र्-जनः॑ ।  
@@ -1759,7 +1759,7 @@ Für solchen gehn wir euch zur Hand, zu dessen Sitz ihr eilend naht, Ihr Wasser 
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/02_punantu_mA.md">
+<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/02_punantu_mA.md">
 <details open><summary><h8>02 पुनन्तु मा ...{Loading}...</h8></summary>
 
 **पु॒नन्तु॑** मा **देवज॒नाः** ।  
@@ -1768,7 +1768,7 @@ Für solchen gehn wir euch zur Hand, zu dessen Sitz ihr eilend naht, Ihr Wasser 
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/03_jAtavedapH_pavitravat.md">
+<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/03_jAtavedapH_pavitravat.md">
 <details open><summary><h8>03 जातवेदᳶ पवित्रवत् ...{Loading}...</h8></summary>
 
 जात॑वेदᳶ प॒वित्र॑वत् ।  
@@ -1778,7 +1778,7 @@ Für solchen gehn wir euch zur Hand, zu dessen Sitz ihr eilend naht, Ihr Wasser 
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/04_yat_te.md">
+<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/04_yat_te.md">
 <details open><summary><h8>04 यत् ते ...{Loading}...</h8></summary>
 
 यत् ते॑ **प॒वित्र॑म् अ॒र्चिषि॑** ।  
@@ -1787,7 +1787,7 @@ Für solchen gehn wir euch zur Hand, zu dessen Sitz ihr eilend naht, Ihr Wasser 
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/05_ubhAbhyAn_deva.md">
+<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/05_ubhAbhyAn_deva.md">
 <details open><summary><h8>05 उभाभ्यान् देव ...{Loading}...</h8></summary>
 
 उ॒भाभ्या᳚न् देव **सवितः** ।  
@@ -1796,7 +1796,7 @@ Für solchen gehn wir euch zur Hand, zu dessen Sitz ihr eilend naht, Ihr Wasser 
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/06_vaishvadevI_punatI.md">
+<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/06_vaishvadevI_punatI.md">
 <details open><summary><h8>06 वैश्वदेवी पुनती ...{Loading}...</h8></summary>
 
 वै॒श्व॒दे॒वी **पु॑न॒ती** दे॒व्य् **आगा᳚त्**+++(=आगच्छतु)+++ ।  
@@ -1807,7 +1807,7 @@ Für solchen gehn wir euch zur Hand, zu dessen Sitz ihr eilend naht, Ihr Wasser 
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/07_vaishvAnaro_rashmibhir.md">
+<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/07_vaishvAnaro_rashmibhir.md">
 <details open><summary><h8>07 वैश्वानरो रश्मिभिर् ...{Loading}...</h8></summary>
 
 **वै॒श्वा॒न॒रो** र॒श्मिभि॑र् मा **पुनातु** ।   
@@ -1818,7 +1818,7 @@ Für solchen gehn wir euch zur Hand, zu dessen Sitz ihr eilend naht, Ihr Wasser 
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/08_bRhadbhis_savitas.md">
+<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/08_bRhadbhis_savitas.md">
 <details open><summary><h8>08 बृहद्भिस् सवितस् ...{Loading}...</h8></summary>
 
 बृ॒हद्भि॑स् सवित॒स् तृभिः॑+++(=त्रिभिः [लोकगणनया]/ तृप्यतेः करणे क्विप्)+++ ।   
@@ -1827,7 +1827,7 @@ Für solchen gehn wir euch zur Hand, zu dessen Sitz ihr eilend naht, Ihr Wasser 
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/09_yena_devA.md">
+<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/09_yena_devA.md">
 <details open><summary><h8>09 येन देवा ...{Loading}...</h8></summary>
 
 येन॑ दे॒वा **अपु॑नत** ।   
@@ -1837,7 +1837,7 @@ Für solchen gehn wir euch zur Hand, zu dessen Sitz ihr eilend naht, Ihr Wasser 
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/10_yapH_pAvamAnIr.md">
+<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/10_yapH_pAvamAnIr.md">
 <details open><summary><h8>10 यᳶ पावमानीर् ...{Loading}...</h8></summary>
 
 यᳶ पा॑वमा॒नीर् **अ॒ध्येति॑** ।  
@@ -1847,7 +1847,7 @@ Für solchen gehn wir euch zur Hand, zu dessen Sitz ihr eilend naht, Ihr Wasser 
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/11_pAvamAnIr_yo.md">
+<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/11_pAvamAnIr_yo.md">
 <details open><summary><h8>11 पावमानीर् यो ...{Loading}...</h8></summary>
 
 पा॒व॒मा॒नीर् यो **अ॒ध्येति॑** ।   
@@ -1857,7 +1857,7 @@ Für solchen gehn wir euch zur Hand, zu dessen Sitz ihr eilend naht, Ihr Wasser 
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/12_pAvamAnIs_svastyayanIH.md">
+<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/12_pAvamAnIs_svastyayanIH.md">
 <details open><summary><h8>12 पावमानीस् स्वस्त्ययनीः ...{Loading}...</h8></summary>
 
 पा॒व॒मा॒नीस् **स्व॒स्त्य्-अय॑नीः** ॥49॥   
@@ -1867,7 +1867,7 @@ Für solchen gehn wir euch zur Hand, zu dessen Sitz ihr eilend naht, Ihr Wasser 
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/13_pAvamAnIr_dishantu.md">
+<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/13_pAvamAnIr_dishantu.md">
 <details open><summary><h8>13 पावमानीर् दिशन्तु ...{Loading}...</h8></summary>
 
 पा॒व॒मा॒नीर् **दि॑शन्तु** नः ।  
@@ -1877,7 +1877,7 @@ Für solchen gehn wir euch zur Hand, zu dessen Sitz ihr eilend naht, Ihr Wasser 
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/14_pAvamAnIs_svastyayanIH.md">
+<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/14_pAvamAnIs_svastyayanIH.md">
 <details open><summary><h8>14 पावमानीस् स्वस्त्ययनीः ...{Loading}...</h8></summary>
 
 पा॒व॒मा॒नीस् **स्व॒स्त्य्-अय॑नीः** ।  
@@ -1887,7 +1887,7 @@ Für solchen gehn wir euch zur Hand, zu dessen Sitz ihr eilend naht, Ihr Wasser 
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/15_yena_devApH.md">
+<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/15_yena_devApH.md">
 <details open><summary><h8>15 येन देवाᳶ ...{Loading}...</h8></summary>
 
 येन॑ दे॒वाᳶ प॒वित्रे॑ण ।  
@@ -1897,7 +1897,7 @@ Für solchen gehn wir euch zur Hand, zu dessen Sitz ihr eilend naht, Ihr Wasser 
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/16_prAjApatyam_pavitram.md">
+<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/16_prAjApatyam_pavitram.md">
 <details open><summary><h8>16 प्राजापत्यम् पवित्रम् ...{Loading}...</h8></summary>
 
 प्रा॒जा॒प॒त्यम् प॒वित्र᳚म् ।  
@@ -1907,7 +1907,7 @@ Für solchen gehn wir euch zur Hand, zu dessen Sitz ihr eilend naht, Ihr Wasser 
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/17_indras_sunItI.md">
+<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/17_indras_sunItI.md">
 <details open><summary><h8>17 इन्द्रस् सुनीती ...{Loading}...</h8></summary>
 
 **इन्द्र॑स्** सुनी॒ती+++(त्या)+++ स॒ह मा॑ पुनातु ।  

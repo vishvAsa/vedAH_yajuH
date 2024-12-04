@@ -2,7 +2,7 @@
 title = "१४ मण्डप-निर्माणम्"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/3_agniShToma-pashv-Adi/01_maNDapa-nirmANam"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/3_agniShToma-pashv-Adi/01_maNDapa-nirmANam"  newLevelForH1="1" includeTitle="true">
 
 सदो-मण्डप-निर्माणम्, हविर्धान-मण्टप-निर्माणम्
 
@@ -15,7 +15,7 @@ ________
 
 तत्रौदुम्बर्य-वट-परिलेखनार्थम् अभ्रिम्+++(=अग्नीध्र-खनित्रम्)+++ आदत्ते - देवस्य त्वेति ॥
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
 <details open><summary><h2>देवस्य त्वा सवितुः ...{Loading}...</h2></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -115,7 +115,7 @@ ________
 
 तयावटं परिलिखति - परिलिखितमिति ॥ 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/05_somakrayaNy-anugamanAdikam/parilikhitam.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/05_somakrayaNy-anugamanAdikam/parilikhitam.md">
 <details open><summary><h4>परिलिखितम् ...{Loading}...</h4></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -161,7 +161,7 @@ ________
 
 अग्रादारभ्यौदुम्बरीं प्रोक्षति - दिवे त्वेति ॥
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/11_havirAsanAdiH/dive_tvA.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/11_havirAsanAdiH/dive_tvA.md">
 <details open><summary><h2>दिवे त्वा ...{Loading}...</h2></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -201,7 +201,7 @@ ________
 
 7अवटे अपोवनयति - शुन्धतामिति ॥ 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/shundhantAm.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/shundhantAm.md">
 <details open><summary><h5>शुन्धन्ताम् ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -228,7 +228,7 @@ ________
 
 8अवटे यवान्प्रक्षिपति - यवोसीति ॥ 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/01_maNDapa-nirmANam/yavosi.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/01_maNDapa-nirmANam/yavosi.md">
 <details open><summary><h5>यवोऽसि ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -274,7 +274,7 @@ ________
 
 9तस्मिन् व्यतिषज्य बर्हिर्-मुष्टिं निदधाति - पितृणामिति ॥ 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/01_maNDapa-nirmANam/pitRNAm.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/01_maNDapa-nirmANam/pitRNAm.md">
 <details open><summary><h5>पितृणाम् ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -360,7 +360,7 @@ ________
 
 12पुरीषेणौदुम्बरीं प्रदक्षिर्णं पर्यूहति - ब्रह्मवनिमिति ॥
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/01_maNDapa-nirmANam/brahma-vanim.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/01_maNDapa-nirmANam/brahma-vanim.md">
 <details open><summary><h5>ब्रह्म-वनिम् ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -388,7 +388,7 @@ _______
 
 13 मैत्रावरुणदण्डेन संहन्ति - ब्रह्म दृंहेति ॥
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/01_maNDapa-nirmANam/brahma_dRMha.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/01_maNDapa-nirmANam/brahma_dRMha.md">
 <details open><summary><h5>ब्रह्म द्रुंह ...{Loading}...</h5></summary>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -489,7 +489,7 @@ the shade of all folk.
 
 16पार्श्वयोश्छदिर्निदधाति - विश्वजनस्येति ॥ विश्वजनस्य सर्वजनस्य छाया गृहमासि । 'विश्वजनस्य ह्येषा छाया' `इति ब्राह्मणम् । छायाशब्दो गृहनामसु निरुक्तकारैः पठ्यते ॥
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/01_maNDapa-nirmANam/02_pari_tvA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/01_maNDapa-nirmANam/02_pari_tvA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 परि॑ त्वा गिर्वणो॒+++(=गिर्भिर् वननीयः)+++ गिर॑  
@@ -498,7 +498,7 @@ the shade of all folk.
 जुष्टा॑ भवन्तु॒ जुष्ट॑यः ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/01_maNDapa-nirmANam/02_pari_tvA.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/01_maNDapa-nirmANam/02_pari_tvA.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 

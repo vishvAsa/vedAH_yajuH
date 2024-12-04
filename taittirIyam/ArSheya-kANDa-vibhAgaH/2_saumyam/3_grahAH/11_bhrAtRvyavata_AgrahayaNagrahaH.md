@@ -2,7 +2,7 @@
 title = "११ भ्रातृव्यवत आग्रहयणग्रहः"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/4_somAbhiShavAdi/11_bhrAtRvyavata_AgrahayaNagrahaH"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/4_somAbhiShavAdi/11_bhrAtRvyavata_AgrahayaNagrahaH"  newLevelForH1="1" includeTitle="true">
 
 
 त्रिष्टुप् । सोमऋषिः
@@ -13,7 +13,7 @@ _______
 1आग्रयणमेव भ्रातृव्यवतो गृह्णाति - त्रिंशदिति चतुष्पदया त्रिष्टुभा ॥  
 'रुग्णवत्यर्चा भ्रातृव्यवतः' इति ब्राह्मणम् ।
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/11_bhrAtRvyavata_AgrahayaNagrahaH/02_triMshat_trayash.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/11_bhrAtRvyavata_AgrahayaNagrahaH/02_triMshat_trayash.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 त्रि॒ꣳ॒शत् त्रय॑श् +++(=३३)+++ च ग॒णिनो॑ रु॒जन्तो॒  
@@ -22,7 +22,7 @@ _______
 सोम॑ञ् जुषन्ता॒ꣳ॒ सव॑नाय॒ विश्वे᳚ ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/11_bhrAtRvyavata_AgrahayaNagrahaH/02_triMshat_trayash.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/11_bhrAtRvyavata_AgrahayaNagrahaH/02_triMshat_trayash.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -59,13 +59,13 @@ _______
 2अधिवदते - आग्रयणोसीत्यादि ॥
 3एष ते योनिरित्यादिना सादयति ॥
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/10_AgrayaNagrahaH/upayAmagRhItaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/10_AgrayaNagrahaH/upayAmagRhItaH.md">
 <details open><summary><h5>उपयामगृहीतः ...{Loading}...</h5></summary>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 इमामनुद्रुत्य 'उपयामगृहीतोसि विश्वेभ्यस्त्वा देवेभ्यः' इति गृह्णाति ॥
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
 <details open><summary><h10>उपयामगृहीतः ...{Loading}...</h10></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

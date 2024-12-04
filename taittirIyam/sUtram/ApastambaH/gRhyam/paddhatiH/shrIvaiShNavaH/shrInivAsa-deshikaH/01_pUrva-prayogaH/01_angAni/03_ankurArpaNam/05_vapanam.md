@@ -13,7 +13,7 @@ title = "०५ वपनम्"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/17_pitA_virAjAm.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/17_pitA_virAjAm.md">
 <details open><summary><h5>17 पिता विराजाम्, ...{Loading}...</h5></summary>
 
 पि॒ता वि॒राजा॑म्, ऋष॒भो र॑यी॒णाम् ।  
@@ -29,7 +29,7 @@ title = "०५ वपनम्"
 
 
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/26_yata_indra.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/26_yata_indra.md">
 <details open><summary><h2>26 यत इन्द्र ...{Loading}...</h2></summary>
 
 यत॑ इन्द्र॒ भया॑महे॒  
@@ -55,7 +55,7 @@ title = "०५ वपनम्"
 
 सकृन्मन्त्रेण द्विस्तूष्णीम् ॥
 
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yajnaH/02_yo-sya_kauShThya.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yajnaH/02_yo-sya_kauShThya.md">
 <details open><summary><h4>02 योऽस्य कौष्ठ्य! ...{Loading}...</h4></summary>
 
 योऽस्य॒ +++(गोत्रेण)+++ कौष्ठ्य॒! जग॑तः॒  
@@ -64,7 +64,7 @@ title = "०५ वपनम्"
 यो राजा॑ ऽनप॒रोद्ध्यः॑ ।
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yajnaH/03_yama~N_gAya.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yajnaH/03_yama~N_gAya.md">
 <details open><summary><h4>03 यमङ् गाय ...{Loading}...</h4></summary>
 
 य॒मङ् **गाय॑** +++(नाम्ना)+++ भङ्ग्य॒श्रवो॒!  

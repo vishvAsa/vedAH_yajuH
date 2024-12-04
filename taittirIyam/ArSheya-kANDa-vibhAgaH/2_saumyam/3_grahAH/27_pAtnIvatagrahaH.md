@@ -2,7 +2,7 @@
 title = "२७ पात्नीवतग्रहः"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/4_somAbhiShavAdi/27_pAtnIvatagrahaH"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/4_somAbhiShavAdi/27_pAtnIvatagrahaH"  newLevelForH1="1" includeTitle="true">
 
 
 सोमऋषिः
@@ -17,7 +17,7 @@ _______
 
 बृह॒स्पति॑सुतस्य त इन्दो इन्द्रि॒याव॑त॒ᳶ पत्नी॑वन्त॒ङ्ग्रह॑ङ्गृह्णा॒मि ।
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/27_pAtnIvatagrahaH/02_bRhaspatisutasya_ta.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/27_pAtnIvatagrahaH/02_bRhaspatisutasya_ta.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 बृह॒स्पति॑-सुतस्य त  
@@ -25,7 +25,7 @@ _______
 पत्नी॑वन्त॒ङ् **ग्रह॑ङ् गृह्णा॒मि** ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/27_pAtnIvatagrahaH/02_bRhaspatisutasya_ta.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/27_pAtnIvatagrahaH/02_bRhaspatisutasya_ta.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 

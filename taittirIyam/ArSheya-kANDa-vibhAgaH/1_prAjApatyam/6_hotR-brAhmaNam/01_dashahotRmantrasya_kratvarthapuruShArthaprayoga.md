@@ -3,7 +3,7 @@ title = "०१ दशहोतृमन्त्रस्य क्रत्व
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/2/2_hotR-brAhmaNAdi/01_dashahotRmantrasya_kratvarthapuruShArthaprayoga"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/2_hotR-brAhmaNAdi/01_dashahotRmantrasya_kratvarthapuruShArthaprayoga"  newLevelForH1="1" includeTitle="true">
 
 ##  प्राजापत्यं काण्डम् - होतृब्राह्मणम्
 

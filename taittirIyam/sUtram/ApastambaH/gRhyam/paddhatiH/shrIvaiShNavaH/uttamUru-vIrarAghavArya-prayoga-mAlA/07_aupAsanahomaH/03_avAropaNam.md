@@ -7,7 +7,7 @@ title = "०३ अवारोपणम्"
 ## आत्मसमारोपण-पक्षः
 पूर्वस्मिन् दिने आत्मसमारोपणे कृते,
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/8/21_upAvaroha_jAtavedapH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/8/21_upAvaroha_jAtavedapH.md">
 <details open><summary><h5>21 उपावरोह जातवेदᳶ ...{Loading}...</h5></summary>
 
 उ॒पाव॑रोह जातवेद॒ᳶ पुन॒स् त्वम् ॥41॥  
@@ -27,7 +27,7 @@ title = "०३ अवारोपणम्"
 ## समित्-समारोपण-पक्षः
 पूर्वस्मिन् दिने समित्समारोपणे कृते तु,
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/6/05_chityAm_agni-sthApanAdi-mAruta-homAntam/07_AjuhvAnas_supratIkapH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/6/05_chityAm_agni-sthApanAdi-mAruta-homAntam/07_AjuhvAnas_supratIkapH.md">
 <details open><summary><h5>07 आजुह्वानस् सुप्रतीकᳶ ...{Loading}...</h5></summary>
 
 **आ॒जुह्वा॑नस्**+++(=हूयमानः)+++ सु॒-प्रती॑कᳶ पु॒रस्ता॒द्  
@@ -36,7 +36,7 @@ title = "०३ अवारोपणम्"
 विश्वे॑ देवाः॒! यज॑मानश् च **सीदत** ।
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/45_udbudhyasvAgne_prati.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/45_udbudhyasvAgne_prati.md">
 <details open><summary><h5>45 उद्बुध्यस्वाग्ने प्रति ...{Loading}...</h5></summary>
 
 **उद्बु॑ध्यस्वाग्ने॒** प्रति॑ जागृह्य्  

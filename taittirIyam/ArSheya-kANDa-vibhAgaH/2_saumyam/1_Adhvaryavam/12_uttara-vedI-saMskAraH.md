@@ -3,7 +3,7 @@ title = "१२ उत्तर-वेदी-संस्कारः"
 short_title = "१२ उत्तरवेदीसंस्कारः"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/2_somayAgArambhaH/12_uttara-vedI-saMskAraH"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/2_somayAgArambhaH/12_uttara-vedI-saMskAraH"  newLevelForH1="1" includeTitle="true">
 
 १२ उत्तर-वेदी-संस्कारः
 
@@ -152,7 +152,7 @@ ________
 
 उत्तरवेद्यां निवपति।
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/12_uttara-vedI-saMskAraH/yatte.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/12_uttara-vedI-saMskAraH/yatte.md">
 <details open><summary><h5>यत्ते ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -205,7 +205,7 @@ May Agni, named Nabhas, know (thee), Agni Angiras, thou who art in the second ea
 
 अयं तु विशेषः, द्वितीयपर्याये 'अग्ने अङ्गिरो यो द्वितीयस्यां पृथिव्यामसि' इति भवति । द्वितीया पृथिवी अन्तरिक्षम् ।
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/12_uttara-vedI-saMskAraH/yatte.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/12_uttara-vedI-saMskAraH/yatte.md">
 <details open><summary><h5>यत्ते ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -249,7 +249,7 @@ May Agni, named Nabhas, know (thee), Agni Angiras, thou who art in the third ear
 
 तृतीये तु, 'अग्ने अङ्गिरो यस्तृतीयस्यां पृथिव्यामसि' इति । तृतीया पृथिवी द्युलोकः पृथुत्वात्पृथिवी । समानमन्यत् । 'विदेरग्निर्नभो नामाग्ने अङ्गिर इति त्रिर्हरति' इति ब्राह्मणम् ॥
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/12_uttara-vedI-saMskAraH/yatte.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/12_uttara-vedI-saMskAraH/yatte.md">
 <details open><summary><h5>यत्ते ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -307,7 +307,7 @@ ________
 
 प्रथयति।
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/08_saMvApAdiH/uru.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/08_saMvApAdiH/uru.md">
 <details open><summary><h5>उरु ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

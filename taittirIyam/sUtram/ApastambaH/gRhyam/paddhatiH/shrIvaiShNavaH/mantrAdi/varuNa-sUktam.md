@@ -20,7 +20,7 @@ title = "वरुण-सूक्तम्"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/astabhnAd_dyAm.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/astabhnAd_dyAm.md">
 <details open><summary><h5>अस्तभ्नाद् द्याम् ...{Loading}...</h5></summary>
 
 

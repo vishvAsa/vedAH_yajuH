@@ -2,7 +2,7 @@
 title = "१७ वैसर्जनहोमः अग्नीषोमप्रणयनम्"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/3_agniShToma-pashv-Adi/04_vaisarjanahomaH_agnIShomapraNayanam"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/3_agniShToma-pashv-Adi/04_vaisarjanahomaH_agnIShomapraNayanam"  newLevelForH1="1" includeTitle="true">
 
  - अग्नीषोमीयपश्वभिधानायाग्नीषोमप्रणयनार्थं वैसर्जनहोमः
  १-५ गायत्री,
@@ -297,7 +297,7 @@ _______
 
 3पूर्वया द्वारा शालाया उपनिष्क्रामति- अयं न इति चतुष्पदया त्रिष्टुभा ॥ 
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/04_vaisarjanahomaH_agnIShomapraNayanam/02_ayan_no.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/04_vaisarjanahomaH_agnIShomapraNayanam/02_ayan_no.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अ॒यन् नो॑ अ॒ग्निर् **वरि॑वᳵ+++(=अवकशं)+++ कृणोत्व्**  
@@ -306,7 +306,7 @@ _______
 ऽयव्ँ **वाज॑ञ् जयतु॒** वाज॑-सातौ+++(←सन् लाभे+क्तिन्)+++ ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/04_vaisarjanahomaH_agnIShomapraNayanam/02_ayan_no.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/04_vaisarjanahomaH_agnIShomapraNayanam/02_ayan_no.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -340,7 +340,7 @@ _______
 
 4आह्वनीये स्रुवाहुतिं जुहोति - उरु विष्णो इति चतुष्पदयानुष्टुभा ॥
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/04_vaisarjanahomaH_agnIShomapraNayanam/03_uru_viShNo.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/04_vaisarjanahomaH_agnIShomapraNayanam/03_uru_viShNo.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 उ॒रु वि॑ष्णो॒ वि क्र॑मस्व  
@@ -349,7 +349,7 @@ _______
 प्रप्र॑ य॒ज्ञ-प॑तिन् +++(प्र)+++तिर+++(=वर्धय)+++ ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/04_vaisarjanahomaH_agnIShomapraNayanam/03_uru_viShNo.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/04_vaisarjanahomaH_agnIShomapraNayanam/03_uru_viShNo.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -618,7 +618,7 @@ Der Soma geht, des Wegs bewusst, zum Ort der Götter dringt er hin, Zu sitzen au
 
 नीडे कृष्णाजिनमास्तृणाति।
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/adityAs_sadaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/adityAs_sadaH.md">
 <details open><summary><h5>अदित्यास् सदः ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -648,7 +648,7 @@ ________
 
 तस्मिन् सोमं निदधाति।
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/adityAs_sada_AsIda.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/adityAs_sada_AsIda.md">
 <details open><summary><h5>अदित्यास् सद आसीद ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -707,7 +707,7 @@ _______
 
 ए॒तत्त्वꣳ सो॑म दे॒वो दे॒वानुपा॑गा इ॒दम॒हम्म॑नु॒ष्यो॑ मनु॒ष्या᳚न्थ्स॒ह प्र॒जया॑ स॒ह रा॒यस्पोषे॑ण।
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/04_vaisarjanahomaH_agnIShomapraNayanam/04_etat_tvam.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/04_vaisarjanahomaH_agnIShomapraNayanam/04_etat_tvam.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 ए॒तत् त्वम् सो॑म दे॒वो दे॒वान् उपा॑गाः,  
@@ -715,7 +715,7 @@ _______
 स॒ह प्र॒जया॑ स॒ह रा॒यस्पोषे॑ण॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/04_vaisarjanahomaH_agnIShomapraNayanam/04_etat_tvam.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/04_vaisarjanahomaH_agnIShomapraNayanam/04_etat_tvam.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -809,7 +809,7 @@ _______
 
 13 आहवनीयमीक्षते - सुवरिति ॥
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/suvar_abhi.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/suvar_abhi.md">
 <details open><summary><h5>सुवर् अभि ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

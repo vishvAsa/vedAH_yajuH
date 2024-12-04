@@ -2,7 +2,7 @@
 title = "०४ सूर्यन् ते"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/04_sUryan_te"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/04_sUryan_te"  newLevelForH1="1" includeTitle="true">
 
 
 ## होता

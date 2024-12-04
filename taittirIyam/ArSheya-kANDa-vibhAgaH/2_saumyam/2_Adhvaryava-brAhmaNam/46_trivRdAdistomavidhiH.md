@@ -2,7 +2,7 @@
 title = "४६ त्रिवृदादिस्तोमविधिः"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/7/1/02_trivRdAdistomavidhiH"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/7/1/02_trivRdAdistomavidhiH"  newLevelForH1="1" includeTitle="true">
 
 
 

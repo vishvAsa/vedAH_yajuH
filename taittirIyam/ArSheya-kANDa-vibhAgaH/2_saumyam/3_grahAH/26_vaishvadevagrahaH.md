@@ -2,7 +2,7 @@
 title = "२६ वैश्वदेवग्रहः"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/4_somAbhiShavAdi/26_vaishvadevagrahaH"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/4_somAbhiShavAdi/26_vaishvadevagrahaH"  newLevelForH1="1" includeTitle="true">
 
 
 सोमऋषिः
@@ -40,7 +40,7 @@ Homage to the great bull!
 यद्वा - सुष्टु प्रतिष्ठन्ति सर्वे यागाभिनिवृत्तिद्वारेणेति **सुप्रतिष्ठानः** । 'मन्क्तिन्व्याख्यान' इत्यादिना उत्तरपदान्तोदात्तत्वमकारकादावपि भविष्यति ।   
 तस्मै तुभ्यं **उक्षे** सेक्त्रे वृष्टिमुत्पादयित्रे । 'सावेकाचः' इति चतुर्थ्या उदात्तत्वम् । इदं **बृहन् नमः** । 'नञ्सुभ्याम्' इत्युत्तरपदान्तोदात्तत्वम् । अन्नं सोमाख्यं गृह्यते त्वदर्थं गृह्नीमः । यद्वा - सोम एवोच्यते, हे सोम सुशर्मासीत्यादि समानम् । तादृशस्त्वं बृहन्नमः प्रभूतमन्नं अदनीयमस्मै उक्षे वैश्वदेवाय गणाय गृह्यस इति ॥
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/16_vaishvadevagrahaH/eShaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/16_vaishvadevagrahaH/eShaH.md">
 <details open><summary><h5>एषः ...{Loading}...</h5></summary>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 

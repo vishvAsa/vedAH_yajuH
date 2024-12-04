@@ -3,7 +3,7 @@ title = "०४ पूरणादि"
 
 +++
 ## आपः
-<div class="js_include" includetitle="true" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/22_Apo_vA_idam/">
+<div class="js_include" includetitle="true" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/22_Apo_vA_idam/">
 <details open><summary><h4>२२ आपो वा इदम् ...{Loading}...</h4></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -71,7 +71,7 @@ title = "०४ पूरणादि"
 इत्यादिभिः कुम्भे जलमापूर्य, 
 
 ## उत्पवनम्
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/05_haviHproxaNAdiH/devo_vas_savitotpunAtu.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/05_haviHproxaNAdiH/devo_vas_savitotpunAtu.md">
 <details open><summary><h2>देवो वस् सविता ...{Loading}...</h2></summary>
 
 दे॒वो व॑स् सवि॒तोत्पु॑ना॒त्व्  

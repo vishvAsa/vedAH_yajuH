@@ -3,7 +3,7 @@ title = "१२ पत्नीसंयाजानां याज्यान
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/3/5_iShTi-hautrAdi/12_patnIsaMyAjAnAM_yAjyAnuvAkyAH"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/3/5_iShTi-hautrAdi/12_patnIsaMyAjAnAM_yAjyAnuvAkyAH"  newLevelForH1="1" includeTitle="true">
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

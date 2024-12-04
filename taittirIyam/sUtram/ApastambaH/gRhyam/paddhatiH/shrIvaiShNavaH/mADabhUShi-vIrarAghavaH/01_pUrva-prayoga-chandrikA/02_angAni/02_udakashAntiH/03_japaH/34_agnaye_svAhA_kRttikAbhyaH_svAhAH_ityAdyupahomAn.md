@@ -8,7 +8,7 @@ title = "३४ ‘अग्नये स्वाहा कृत्तिक�
 
 व्याहृतित्रयं
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH">
 <details open><summary><h4>नक्षत्रोपहोमाः ...{Loading}...</h4></summary>
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -396,7 +396,7 @@ title = "३४ ‘अग्नये स्वाहा कृत्तिक�
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/3/1_nAxatrAdi/chandramasAdy-upahomAH">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/3/1_nAxatrAdi/chandramasAdy-upahomAH">
 <details open><summary><h5>चन्द्रमसाद्य्-उपहोमाः ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

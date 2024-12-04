@@ -2,7 +2,7 @@
 title = "०५ अनुयाजानुमन्त्रणादि"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/04_anuyAjAnumantraNAdi"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/04_anuyAjAnumantraNAdi"  newLevelForH1="1" includeTitle="true">
 
 अनूयाजादीनाम् अनुमन्त्रणमन्त्राः , उज्झितमन्त्राः, स्रुग्व्यूहन-यज्ञदोह-प्रह्रियमाण-प्रस्तरानुमन्त्रण-विमुच्यमानपरिध्यनुमन्त्रण-शंयुवाकानुमन्त्रण-पत्नीसंयाजाद्यनुमन्त्रणमन्त्राः
 
@@ -123,7 +123,7 @@ _______
 
 11-13स्रुग्-व्यूहन-मन्त्रौ वाजस्येत्यनुष्टुभौ ॥ व्याख्याते चैते ।
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/13_srug-vyUhanAdiH/vAjasya_mA.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/13_srug-vyUhanAdiH/vAjasya_mA.md">
 <details open><summary><h5>वाजस्य मा ...{Loading}...</h5></summary>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -247,7 +247,7 @@ _______
 
 एमा अ॑ग्मन्ना॒शिषो॒ दोह॑कामा॒ इन्द्र॑वन्तः [12]व॒ना॒म॒हे॒ धु॒ख्षी॒महि॑ प्र॒जामिष᳚म् ॥ 
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/04_anuyAjAnumantraNAdi/06_AimA_agmann.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/04_anuyAjAnumantraNAdi/06_AimA_agmann.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 आ+इ॒मा अ॑ग्मन्न् आ॒शिषो॒ दोह॑-कामा  
@@ -255,7 +255,7 @@ _______
 धु॒ख्षी॒महि॑ प्र॒जाम् इष᳚म्  ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/04_anuyAjAnumantraNAdi/06_AimA_agmann.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/04_anuyAjAnumantraNAdi/06_AimA_agmann.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -350,7 +350,7 @@ _______
 
 वि ते॑ मुञ्चामि रश॒ना वि र॒श्मीन् वि योक्त्रा॒ यानि॑ परि॒चर्त॑नानि ध॒त्ताद॒स्मासु॒ द्रवि॑ण॒य्ँयच्च॑ भ॒द्रम्प्र णो᳚ ब्रूताद्भाग॒धान्दे॒वता॑सु ॥ 
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/04_anuyAjAnumantraNAdi/07_vi_te.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/04_anuyAjAnumantraNAdi/07_vi_te.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 +++(अश्वीकृताग्ने!)+++ वि ते॑ **मुञ्चामि** रश॒ना, वि र॒श्मीन्,  
@@ -359,7 +359,7 @@ _______
 +++(तेषु)+++ प्र णो᳚ **ब्रूताद्** भाग॒-धान् दे॒वता॑सु  ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/04_anuyAjAnumantraNAdi/07_vi_te.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/04_anuyAjAnumantraNAdi/07_vi_te.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -552,7 +552,7 @@ Thou art winning, thou art the winner, may I win.
 
 **सनिस्** संविभागः त्वमसि सनितासि संविभक्ता चासि, तादृशेन त्वयाहं सनेयं विन्देयं सांविभजेयम् ।
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/04_anuyAjAnumantraNAdi/08_ghRtavanta~N_kulAyinam.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/04_anuyAjAnumantraNAdi/08_ghRtavanta~N_kulAyinam.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 घृ॒तव॑न्तङ् कुला॒यिनं॑+++(=नीडवन्तं)+++   
@@ -560,7 +560,7 @@ Thou art winning, thou art the winner, may I win.
 **वे॒दो द॑दातु** वा॒जिन᳚म् ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/04_anuyAjAnumantraNAdi/08_ghRtavanta~N_kulAyinam.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/04_anuyAjAnumantraNAdi/08_ghRtavanta~N_kulAyinam.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 

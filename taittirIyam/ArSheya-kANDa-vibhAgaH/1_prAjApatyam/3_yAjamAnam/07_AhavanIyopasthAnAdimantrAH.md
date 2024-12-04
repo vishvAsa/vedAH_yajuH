@@ -2,7 +2,7 @@
 title = "०७ आहवनीयोपस्थानादिमन्त्राः"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/06_AhavanIyopasthAnAdimantrAH"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/06_AhavanIyopasthAnAdimantrAH"  newLevelForH1="1" includeTitle="true">
 
 
 ९-१० गायत्री
@@ -248,7 +248,7 @@ _______
 
 6उपीतष्ठते - समहमिति ॥ 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/06_AhavanIyopasthAnAdimantrAH/samaham_prajayA.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/06_AhavanIyopasthAnAdimantrAH/samaham_prajayA.md">
 <details open><summary><h5>समहम् प्रजया ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -899,7 +899,7 @@ O Agni, flamme uns herbei schönwirkend Glanz und Heldenkraft; Er schenke Gut un
 
 अग्ने॑ गृहपते सुगृहप॒तिर॒हन्त्वया॑ गृ॒हप॑तिना भूयासꣳ सुगृहप॒तिर्मया॒ त्वङ्गृ॒हप॑तिना भूयाश्श॒तꣳ हिमा॒स्तामा॒शिष॒मा शा॑से॒ तन्त॑वे॒ ज्योति॑ष्मती॒न्तामा॒शिष॒माशा॑से॒ऽमुष्मै॒ ज्योति॑ष्मती॒ङ्कस्त्वा॑ युनक्ति॒ स त्वा॒ विमु॑ञ्च॒त्वग्ने᳚ व्रतपते व्र॒तम॑चारिष॒न्तद॑शक॒न्तन्मे॑ऽराधि य॒ज्ञो ब॑भूव॒ स आ [19]ब॒भू॒व॒ स प्र ज॑ज्ञे॒ स वा॑वृधे । 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/agne_gRhapate.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/agne_gRhapate.md">
 <details open><summary><h5>अग्ने गृहपते ...{Loading}...</h5></summary>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -1124,7 +1124,7 @@ _______
 
 15प्राङुत्क्रम्य गोमतीं जपति - गोमानिति त्रिष्टुभा ॥ 
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/06_AhavanIyopasthAnAdimantrAH/02_gomAM_agne.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/06_AhavanIyopasthAnAdimantrAH/02_gomAM_agne.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 गोमाꣳ॑ अ॒ग्ने, ऽवि॑माꣳ, अ॒श्वी **य॒ज्ञो**  
@@ -1133,7 +1133,7 @@ _______
 दी॒र्घो र॒यिᳶ पृ॑थु-बु॒ध्नस्+++(=मूलः)+++ स॒भावान्॑ ॥ [20]
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/06_AhavanIyopasthAnAdimantrAH/02_gomAM_agne.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/06_AhavanIyopasthAnAdimantrAH/02_gomAM_agne.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 

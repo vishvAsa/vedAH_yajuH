@@ -2,7 +2,7 @@
 title = "०१ अन्वाधानादि"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/07_anvAdhAnAdi"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/07_anvAdhAnAdi"  newLevelForH1="1" includeTitle="true">
 
 देवतापरिग्रह-अग्न्यन्वाधान-व्रतोपयनयनादिविधिः,  
 प्राजापत्यकाण्डे ऐष्टिक-याजमान-ब्राह्मणम् , किञ्चिद् आध्वर्यवब्राह्मणं च

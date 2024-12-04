@@ -2,7 +2,7 @@
 title = "०२ प्रणयनादि"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/08_praNayanAdi"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/08_praNayanAdi"  newLevelForH1="1" includeTitle="true">
 
 प्रणयन-यज्ञायुधसम्भराणादिविधिः  
 प्रजापतिर्ऋषिः

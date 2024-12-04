@@ -2,7 +2,7 @@
 title = "०२ आज्यग्रहणानुमन्त्रणादि"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/01_AjyagrahaNAnumantraNAdi"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/01_AjyagrahaNAnumantraNAdi"  newLevelForH1="1" includeTitle="true">
 
 
 अनुष्टुप् । प्रजापतिर्ऋषिः
@@ -12,7 +12,7 @@ _______
 
 1अथ प्राजापत्यमेव काण्डं याजमानम् । तत्राज्यसान्नाय्ययोस् स्कन्नस्य स्वधां सम्भरति - सं त्वेत्यनुष्टुभा ॥ 
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/01_AjyagrahaNAnumantraNAdi/02_san_tvA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/01_AjyagrahaNAnumantraNAdi/02_san_tvA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 सन् त्वा॑ सिञ्चामि॒ यजु॑षा  
@@ -21,7 +21,7 @@ _______
 यज॑मान इ॒ह मा रि॑षत्  ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/01_AjyagrahaNAnumantraNAdi/02_san_tvA.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/01_AjyagrahaNAnumantraNAdi/02_san_tvA.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 

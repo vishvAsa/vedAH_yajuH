@@ -2,7 +2,7 @@
 title = "०५ प्रायणीयेष्टिविधानम्"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/6/1/05_prAyaNIyeShTividhAnam"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/6/1/05_prAyaNIyeShTividhAnam"  newLevelForH1="1" includeTitle="true">
 
 सोमऋषिः
 

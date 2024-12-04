@@ -2,7 +2,7 @@
 title = "०२ दीक्षा"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/2_somayAgArambhaH/02_dIxA"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/2_somayAgArambhaH/02_dIxA"  newLevelForH1="1" includeTitle="true">
 
 
 ५ त्रिपदा विराट्
@@ -95,7 +95,7 @@ ________
 
 आपो॑ देवीर्बृहतीर्विश्वशम्भुवो॒ द्यावा॑पृथि॒वी उ॒र्व॑न्तरि॑ख्षम्बृह॒स्पति॑र्नो ह॒विषा॑ वृधातु॒ स्वाहा
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/02_dIxA/02_Apo_devIr.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/02_dIxA/02_Apo_devIr.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 आपो॑ देवीर् बृहतीर् विश्व-शम्-भुवो॒!  
@@ -105,7 +105,7 @@ ________
 (… स्वाहा᳚।)
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/02_dIxA/02_Apo_devIr.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/02_dIxA/02_Apo_devIr.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -155,7 +155,7 @@ ________
 
 6स्रुचैवोद्ग्रहणं जुहोति - विश्वेदेवस्येत्यनुष्टुभा चतुष्पदया यजुरन्तया । 'सा वा एषर्गनुष्टुक्' इत्यादि ब्राह्मणम् ।
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/02_dIxA/03_vishve_devasya.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/02_dIxA/03_vishve_devasya.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 विश्वे॑ +++(सवितुः)+++ दे॒वस्य॑ ने॒तुर्,  
@@ -166,7 +166,7 @@ ________
 (… स्वाहा᳚ ।)
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/02_dIxA/03_vishve_devasya.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/02_dIxA/03_vishve_devasya.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -277,7 +277,7 @@ ________
 
 कृष्णाजिनम् अभिसर्पति।
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/02_dIxA/04_imAn_dhiyam.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/02_dIxA/04_imAn_dhiyam.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 इ॒मान् धिय॒ꣳ॒ शिख्ष॑माणस्य देव॒  
@@ -286,7 +286,7 @@ ________
 सु॒तर्मा॑ण॒म्+++(=सुतारकम्)+++ अधि॒ नावꣳ॑ रुहेम॥+++(५)+++
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/02_dIxA/04_imAn_dhiyam.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/02_dIxA/04_imAn_dhiyam.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -481,7 +481,7 @@ ________
 
 14 तया दक्षिणं गोदानं कण्डूयते - सुपिप्पलाभ्य इति ॥
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/02_dIxA/supippalAH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/02_dIxA/supippalAH.md">
 <details open><summary><h5>सुपिप्पलाः ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

@@ -5,7 +5,7 @@ title = "०८ कर्म-मध्ये ऽग्नि-नाशे"
 कर्ममध्येऽग्निनाशे 'अयं ते योनिः' इति समिधि भस्म समारोप्य 
 
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/8/19_ayante_yonir.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/8/19_ayante_yonir.md">
 <details open><summary><h5>19 अयन्ते योनिर् ...{Loading}...</h5></summary>
 
 अ॒यन् ते॒ **योनि॑र्** ऋ॒त्वियः॑ ।  
@@ -18,7 +18,7 @@ title = "०८ कर्म-मध्ये ऽग्नि-नाशे"
 
 अन्यस्मिन् अग्नौ तां समिधं 'आजुह्वानः' ‘उद्बुध्यस्व' इति द्वाभ्याम् आधाय  
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/6/05_chityAm_agni-sthApanAdi-mAruta-homAntam/07_AjuhvAnas_supratIkapH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/6/05_chityAm_agni-sthApanAdi-mAruta-homAntam/07_AjuhvAnas_supratIkapH.md">
 <details open><summary><h5>07 आजुह्वानस् सुप्रतीकᳶ ...{Loading}...</h5></summary>
 
 **आ॒जुह्वा॑नस्**+++(=हूयमानः)+++ सु॒-प्रती॑कᳶ पु॒रस्ता॒द्  
@@ -27,7 +27,7 @@ title = "०८ कर्म-मध्ये ऽग्नि-नाशे"
 विश्वे॑ देवाः॒! यज॑मानश् च **सीदत** ।
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/45_udbudhyasvAgne_prati.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/45_udbudhyasvAgne_prati.md">
 <details open><summary><h5>45 उद्बुध्यस्वाग्ने प्रति ...{Loading}...</h5></summary>
 
 **उद्बु॑ध्यस्वाग्ने॒** प्रति॑ जागृह्य्  
@@ -41,7 +41,7 @@ title = "०८ कर्म-मध्ये ऽग्नि-नाशे"
 
 प्रणवेन 'भूरग्नये च' इति चतुर्भिः, 
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/04_bhUr_agnaye/">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/04_bhUr_agnaye/">
 <details open><summary><h5>०४ भूर् अग्नये ...{Loading}...</h5></summary>
 
 
@@ -56,7 +56,7 @@ title = "०८ कर्म-मध्ये ऽग्नि-नाशे"
 
 'मनो ज्योतिर्जुषताम्' इति जुहुयात् । 
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/mano_jyotir.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/mano_jyotir.md">
 <details open><summary><h5>मनो ज्योतिर् ...{Loading}...</h5></summary>
 
 

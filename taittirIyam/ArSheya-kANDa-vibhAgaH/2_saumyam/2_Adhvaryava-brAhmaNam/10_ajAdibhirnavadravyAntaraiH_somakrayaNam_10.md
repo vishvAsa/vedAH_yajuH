@@ -2,7 +2,7 @@
 title = "१० अजादिभिर्नवद्रव्यान्तरैः सोमक्रयणम् १०"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/6/1/10_ajAdibhirnavadravyAntaraiH_somakrayaNam_10"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/6/1/10_ajAdibhirnavadravyAntaraiH_somakrayaNam_10"  newLevelForH1="1" includeTitle="true">
 
 
 सोमऋषिः

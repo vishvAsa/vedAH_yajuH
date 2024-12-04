@@ -2,7 +2,7 @@
 title = "२१ सदो निर्माणम्"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/6/2/10_sado_nirmANam"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/6/2/10_sado_nirmANam"  newLevelForH1="1" includeTitle="true">
 
 
 सोमऋषिः  

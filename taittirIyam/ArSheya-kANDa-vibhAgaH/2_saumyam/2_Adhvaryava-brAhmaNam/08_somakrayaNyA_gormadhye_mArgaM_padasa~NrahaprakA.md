@@ -2,7 +2,7 @@
 title = "०८ सोमक्रयण्या गोर्मध्ये मार्गं पदसङ्रहप्रका"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/6/1/08_somakrayaNyA_gormadhye_mArgaM_padasa~NrahaprakA"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/6/1/08_somakrayaNyA_gormadhye_mArgaM_padasa~NrahaprakA"  newLevelForH1="1" includeTitle="true">
 
 
 सोमऋषिः  

@@ -2,7 +2,7 @@
 title = "२२ विश्वरूपवधाख्यायिका रजस्वलाव्रतानि च"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/2/5/01_vishvarUpavadhAkhyAyikA_rajasvalAvratAni_cha"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/2/5/01_vishvarUpavadhAkhyAyikA_rajasvalAvratAni_cha"  newLevelForH1="1" includeTitle="true">
 
 
 प्रजापतिः ऋषिः ।

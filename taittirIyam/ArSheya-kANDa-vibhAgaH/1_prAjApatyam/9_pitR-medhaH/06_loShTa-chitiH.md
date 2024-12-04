@@ -2,7 +2,7 @@
 title = "०६ लोष्ट-चितिः"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/04_pitR-medhAdi/06_loShTa-chitiH"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/04_pitR-medhAdi/06_loShTa-chitiH"  newLevelForH1="1" includeTitle="true">
 
 
 <details><summary>भट्टभास्कर-टीका</summary>

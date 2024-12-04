@@ -3,7 +3,7 @@ title = "५१ सप्तच्छन्दः प्रपञ्चनम्
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/1/5_nAxatrAdi/12_saptachChandaH_prapanchanam"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/1/5_nAxatrAdi/12_saptachChandaH_prapanchanam"  newLevelForH1="1" includeTitle="true">
 
 ## आध्वरब्राह्मणम्
 ## नक्षत्रेष्टिकाण्डम्‌

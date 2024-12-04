@@ -5,7 +5,7 @@ title = "०३ प्रणीति-पात्रम्"
 प्रणीति-पात्रं भिन्नं चेत्  
 'अभिन्नो घर्मो जीरदानुः यत आत्तस्तदगन्पुनः' इत्यभिमन्त्र्य 
 
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/68_abhinno_gharmo.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/68_abhinno_gharmo.md">
 <details open><summary><h4>68 अभिन्नो घर्मो ...{Loading}...</h4></summary>
 
 +++(भिन्ने ऽपि कपाले)+++ अभि॑न्नो घ॒र्मो +++(→यज्ञो)+++, जी॒र+++(=उदक)+++-दा॑नु॒र्  
@@ -19,7 +19,7 @@ title = "०३ प्रणीति-पात्रम्"
 **यदि** प्रणीताः प्रणीयमाना वा सर्वा आपः **परासिच्येरन्**  
 ‘अक्षितोस्यक्षित्यै त्वा मा मे क्षेष्ठा अमुत्रामुष्मिन्लोके' इत्यभिमन्त्र्य  
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/03_bhaxyAnumantraNAdi/axitosi.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/03_bhaxyAnumantraNAdi/axitosi.md">
 <details open><summary><h5>अक्षितोऽसि ...{Loading}...</h5></summary>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -138,7 +138,7 @@ mayst thou not perish for me, yonder, in yonder world.
 
 'ततं म आपः' इति जुहुयात् । 
 
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/11_tatamma_Apastadu.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/11_tatamma_Apastadu.md">
 <details open><summary><h4>11 ततम्म आपस्तदु ...{Loading}...</h4></summary>
 
 त॒तम् म॒ आप॒स् तद् उ॑ तायते॒ पुनः॑ ।  

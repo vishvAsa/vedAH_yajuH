@@ -13,7 +13,7 @@ unicode_script = "devanagari"
 - स हि रत्नानि दाशुषे इत्यादिः [अत्र](https://archive.org/stream/RgVedaWithSayanasCommentaryPart2/rv_sayanabhasya_part2#page/n1035/mode/2up)। RV.5.82.3a
 - इमं मे वरुण इत्यादिः [अत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_042_Krishna_Yajurvediya_Taittiriya_Samhita_Part_4_-_Kasinath_Sastri_Agase_1946#page/n57/mode/2up)।  TS.2.1.11.6a
 </details>
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/22_Apo_vA_idam/">
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/22_Apo_vA_idam/">
 <details open><summary><h3>२२ आपो वा इदम् ...{Loading}...</h3></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -40,7 +40,7 @@ unicode_script = "devanagari"
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/04_havir-nirvApaH/apaH_praNayati.md">
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/04_havir-nirvApaH/apaH_praNayati.md">
 <details open><summary><h3>अपः प्रणयति ...{Loading}...</h3></summary>
 <details open><summary>विश्वास-प्रसुतिः</summary>
 
@@ -136,7 +136,7 @@ unicode_script = "devanagari"
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/05_haviHproxaNAdiH/devo_vas_savitotpunAtu.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/05_haviHproxaNAdiH/devo_vas_savitotpunAtu.md">
 <details open><summary><h5>देवो वस् सविता ...{Loading}...</h5></summary>
 
 दे॒वो व॑स् सवि॒तोत्पु॑ना॒त्व्  

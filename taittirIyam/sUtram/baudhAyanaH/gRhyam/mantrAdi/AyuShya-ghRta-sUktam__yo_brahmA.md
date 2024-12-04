@@ -111,7 +111,7 @@ title = "आयुष्य\u200c/घृत-सूक्तम्"
 शश्वत् ॥ ८ ॥
 
 </details>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/3/1/10_pravRttahomAdimantrAbhidhAnam/35_viShNo_tvan.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/1/10_pravRttahomAdimantrAbhidhAnam/35_viShNo_tvan.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -124,7 +124,7 @@ title = "आयुष्य\u200c/घृत-सूक्तम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/3/1/10_pravRttahomAdimantrAbhidhAnam/35_viShNo_tvan.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/1/10_pravRttahomAdimantrAbhidhAnam/35_viShNo_tvan.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 

@@ -2,7 +2,7 @@
 title = "०५ १-०६-९२ आश्रावणादिमन्त्रविधिः"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/11_1-6-02_AshrAvaNAdimantravidhiH"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/11_1-6-02_AshrAvaNAdimantravidhiH"  newLevelForH1="1" includeTitle="true">
 
 
 ## आश्रावणादि

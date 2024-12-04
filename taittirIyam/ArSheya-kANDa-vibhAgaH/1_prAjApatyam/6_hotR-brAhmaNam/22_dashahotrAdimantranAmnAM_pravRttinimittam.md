@@ -3,7 +3,7 @@ title = "२२ दशहोत्रादिमन्त्रनाम्न�
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/2/3_hotR-brAhmaNAdi/11_dashahotrAdimantranAmnAM_pravRttinimittam"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/3_hotR-brAhmaNAdi/11_dashahotrAdimantranAmnAM_pravRttinimittam"  newLevelForH1="1" includeTitle="true">
 
 <details><summary>मूलम्</summary>
 

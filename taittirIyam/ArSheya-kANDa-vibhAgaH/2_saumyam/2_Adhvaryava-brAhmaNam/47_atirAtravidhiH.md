@@ -2,7 +2,7 @@
 title = "४७ अतिरात्रविधिः"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/7/1/03_atirAtravidhiH"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/7/1/03_atirAtravidhiH"  newLevelForH1="1" includeTitle="true">
 
 ## अग्निष्टोमात् परमेव सर्वस्तोम अधिकारः
 

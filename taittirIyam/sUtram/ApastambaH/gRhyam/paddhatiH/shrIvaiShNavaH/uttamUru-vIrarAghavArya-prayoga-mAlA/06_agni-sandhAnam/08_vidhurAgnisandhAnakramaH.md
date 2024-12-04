@@ -26,7 +26,7 @@ title = "०८ विधुराग्निसन्धानक्रमः"
 </details>
 </div>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/235_anv_agnir.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/235_anv_agnir.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अन्व् अ॒ग्निर् उ॒षसा॒म् अग्र॑म् अख्यत् ।  
@@ -68,7 +68,7 @@ title = "०८ विधुराग्निसन्धानक्रमः"
 
 (सवित्र इदं न मम)
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/6/05_chityAm_agni-sthApanAdi-mAruta-homAntam/08_tAM_savitur.md"  newLevelForH1="5" includeTitle="false">  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/6/05_chityAm_agni-sthApanAdi-mAruta-homAntam/08_tAM_savitur.md"  newLevelForH1="5" includeTitle="false">  
 
 (२) ओं ताँ स॑वि॒तुर्वरे᳚ण्यस्य चि॒त्रामाऽहं वृ॑णे सुम॒तिं वि॒श्वज॑न्याम् ।  
 याम॑स्य॒ कण्वो॒ अदु॑ह॒त्प्रपी॑नीँ स॒हस्र॑धारां॒ पय॑सा म॒हीं गाँ
@@ -90,7 +90,7 @@ title = "०८ विधुराग्निसन्धानक्रमः"
 </details>
 </div>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_11_jAtavedase_sunavAma_taittirIyakam/09_pRtanAjitaM_sahamAnam.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_11_jAtavedase_sunavAma_taittirIyakam/09_pRtanAjitaM_sahamAnam.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 पृ॒त॒ना॒जित॒ꣳ सह॑मानम् उ॒ग्रम्  
@@ -129,7 +129,7 @@ title = "०८ विधुराग्निसन्धानक्रमः"
 > (सवित्र इदं न मम)
 
 ## उत्तराङ्गम्
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/35_anAjnAtay.NyadAjnAtam_yajnasya.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/35_anAjnAtay.NyadAjnAtam_yajnasya.md">
 <details open><summary><h4>35 अनाज्ञातय्ँयदाज्ञातम् यज्ञस्य ...{Loading}...</h4></summary>
 
 अना᳚ज्ञात॒य्ँयदाज्ञा॑तम् ।  
@@ -138,7 +138,7 @@ title = "०८ विधुराग्निसन्धानक्रमः"
 त्वꣳ हि वेत्थ॑ यथात॒थम् ।
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/38_puruShasammito_yajnaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/38_puruShasammito_yajnaH.md">
 <details open><summary><h4>38 पुरुषसम्मितो यज्ञः ...{Loading}...</h4></summary>
 
 पुरु॑षसम्मितो य॒ज्ञः ।  
@@ -147,7 +147,7 @@ title = "०८ विधुराग्निसन्धानक्रमः"
 त्वꣳ हि वेत्थ॑ यथात॒थम् ।
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/41_yatpAkatrA_manasA.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/41_yatpAkatrA_manasA.md">
 <details open><summary><h4>41 यत्पाकत्रा मनसा ...{Loading}...</h4></summary>
 
 यत्पा॑क॒त्रा मन॑सा दी॒नद॑ख्षा॒ न ।  

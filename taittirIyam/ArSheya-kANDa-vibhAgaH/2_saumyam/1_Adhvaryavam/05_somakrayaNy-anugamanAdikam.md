@@ -3,7 +3,7 @@ title = "०५ सोमक्रयण्य्-अनुगमनादिक
 short_title = "०५"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/2_somayAgArambhaH/05_somakrayaNy-anugamanAdikam"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/2_somayAgArambhaH/05_somakrayaNy-anugamanAdikam"  newLevelForH1="1" includeTitle="true">
 
 ०५ सोमक्रयण्य्-अनुगमनादिकम्  
 सोमऋषिः
@@ -134,7 +134,7 @@ ________
 
 पदं परिलिखति।
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/05_somakrayaNy-anugamanAdikam/parilikhitam.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/05_somakrayaNy-anugamanAdikam/parilikhitam.md">
 <details open><summary><h4>परिलिखितम् ...{Loading}...</h4></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -274,7 +274,7 @@ ________
 
 14पत्नी यजमानमीक्षते - त्वष्टीमतीति अस्तारबृहत्या वस्वष्टदशपङ्क्त्यक्षरया  +++(वसु८-अष्ट-८, दश-१०,पङ्क्ति-१० अक्षराणीत्यर्थः)+++ ॥
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/05_somakrayaNy-anugamanAdikam/02_tvaShTImatI_te.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/05_somakrayaNy-anugamanAdikam/02_tvaShTImatI_te.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 त्वष्टी॑+++(=प्रजनन-नैशित्य)+++मती ते सपेय+++(=मिथुनीभवेयम्)+++  
@@ -282,7 +282,7 @@ ________
 वी॒रव्ँ वि॑देय॒ तव॑ स॒न्दृशि॑+++(=सन्दर्शने)+++
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/05_somakrayaNy-anugamanAdikam/02_tvaShTImatI_te.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/05_somakrayaNy-anugamanAdikam/02_tvaShTImatI_te.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 

@@ -47,7 +47,7 @@ title = "०४ बन्धनम्"
 ताम्बूलं फलादिकञ् च निक्षिप्य, 
 
 ## हस्त-ग्रहणम्
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/2/3/10_AyuShkAmeShTimantrAH/agnir_AyuShmAn.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/2/3/10_AyuShkAmeShTimantrAH/agnir_AyuShmAn.md">
 <details open><summary><h4>अ॒ग्निरायु॑ष्मा॒न्थ्स ...{Loading}...</h4></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -100,7 +100,7 @@ title = "०४ बन्धनम्"
 दक्षिणे हस्ते बध्नाति,  
 स्त्रिया वाम-हस्ते बध्नाति । 
 
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/05_bRhathsAma_khShatrabhRd.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/05_bRhathsAma_khShatrabhRd.md">
 <details open><summary><h4>05 बृहथ्साम ख्षत्रभृद् ...{Loading}...</h4></summary>
 
 बृ॒हथ्-साम॑ ख्षत्र॒-भृद् वृ॒द्ध-वृ॑ष्णियन्,   

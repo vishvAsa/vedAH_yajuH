@@ -4,7 +4,7 @@ title = "०९ निमन्त्रितैर् जपाः"
 +++
 ## १. दोग्ध्री जपः -
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/7/5/18">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/7/5/18">
 <details open><summary><h5>१८ ...{Loading}...</h5></summary>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -102,7 +102,7 @@ title = "०९ निमन्त्रितैर् जपाः"
 
 [[105]]
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/4/5_rudra-homa-mantrAH/03_namaH_sahamAnAya/">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/4/5_rudra-homa-mantrAH/03_namaH_sahamAnAya/">
 <details open><summary><h5>०३ नमः॒ सह॑मानाय ...{Loading}...</h5></summary>
 <details><summary>विश्वास-टिप्पनी</summary>
 
@@ -376,7 +376,7 @@ title = "०९ निमन्त्रितैर् जपाः"
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/4/5_rudra-homa-mantrAH/07_namo_dundubhyAya">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/4/5_rudra-homa-mantrAH/07_namo_dundubhyAya">
 <details open><summary><h5>०७ नमो॑ दुन्दु॒भ्या॑य ...{Loading}...</h5></summary>
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -630,7 +630,7 @@ title = "०९ निमन्त्रितैर् जपाः"
 
     हुतशिष्टान्नातिरिक्तवस्तुपरिवेषणे इत्यर्थः
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/7/4/18_brahmodyam/">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/7/4/18_brahmodyam/">
 <details open><summary><h5>१८ ब्रह्मोद्यम् ...{Loading}...</h5></summary>
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 

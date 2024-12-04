@@ -8,7 +8,7 @@ title = "०८ ऐन्द्र-ऋचः"
 
 ## 'महाँ इन्द्रो वज्रबाहुः'
 
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/42_ShoDashigrahaH/01_mahAM_indro.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/42_ShoDashigrahaH/01_mahAM_indro.md">
 <details open><summary><h4>01 महां इन्द्रो ...{Loading}...</h4></summary>
 
 म॒हाꣳ इन्द्रो॒ वज्र॑बाहुष्  
@@ -34,7 +34,7 @@ title = "०८ ऐन्द्र-ऋचः"
 </div>
 
 ## त्रा॒तार॒म्
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/12_kAmyeShTi-mantrAH/06_trAtAram_indram.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/12_kAmyeShTi-mantrAH/06_trAtAram_indram.md">
 <details open><summary><h4>06 त्रातारम् इन्द्रम् ...{Loading}...</h4></summary>
 
 त्रा॒तार॒म् इन्द्र॑म् अवि॒तार॒म् इन्द्र॒ꣳ॒  

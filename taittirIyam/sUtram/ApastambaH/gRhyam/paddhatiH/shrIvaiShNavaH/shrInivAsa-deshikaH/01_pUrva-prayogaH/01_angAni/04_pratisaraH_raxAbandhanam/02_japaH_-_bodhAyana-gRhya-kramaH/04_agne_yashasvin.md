@@ -9,7 +9,7 @@ title = "०४ अग्ने यशस्विन्"
 
 'अग्ने यशस्विन्' इति चतस्रः
 
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/5/7/04/23_agne_yashasvin.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/7/04/23_agne_yashasvin.md">
 <details open><summary><h9>23 अग्ने यशस्विन् ...{Loading}...</h9></summary>
 
 अग्ने॑ यशस्वि॒न्‌ यश॑से॒मम् +++(यजमानं)+++ **अ॑र्प॒य**  
@@ -18,7 +18,7 @@ title = "०४ अग्ने यशस्विन्"
 समा॒नाना॑म् **उत्त॒मश्लो॑को अस्तु** ।
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/5/7/04/27_bhadram_pashyanta.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/7/04/27_bhadram_pashyanta.md">
 <details open><summary><h9>27 भद्रम् पश्यन्त ...{Loading}...</h9></summary>
 
 भ॒द्रम् **पश्य॑न्त॒ उप॑ सेदु॒र्** अग्रे॒  
@@ -27,7 +27,7 @@ title = "०४ अग्ने यशस्विन्"
 तद् अ॒स्मै दे॒वा **अ॒भि सन्न॑मन्तु** ।
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/5/7/04/31_dhAtA_vidhAtA.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/7/04/31_dhAtA_vidhAtA.md">
 <details open><summary><h9>31 धाता विधाता ...{Loading}...</h9></summary>
 
 धा॒ता वि॑धा॒ता प॑र॒मोत स॒न्दृक्  
@@ -36,7 +36,7 @@ title = "०४ अग्ने यशस्विन्"
 ए॒तस्मै॑ रा॒ष्ट्रम् **अ॒भि सन्न॑माम** ।
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/5/7/04/35_abhyAvartadhvam_upa.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/7/04/35_abhyAvartadhvam_upa.md">
 <details open><summary><h9>35 अभ्यावर्तध्वम् उप ...{Loading}...</h9></summary>
 
 **अ॒भ्याव॑र्तध्व॒म्** उप॒ मेत॑ सा॒कम्  

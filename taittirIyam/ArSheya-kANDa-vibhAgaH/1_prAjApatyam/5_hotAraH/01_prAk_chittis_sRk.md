@@ -2,7 +2,7 @@
 title = "०१ प्राक् चित्तिस् सृक्"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/01_prAk_chittis_sRk"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/01_prAk_chittis_sRk"  newLevelForH1="1" includeTitle="true">
 
 ## होता
 <details><summary>भास्करोक्त-विनियोगः</summary>

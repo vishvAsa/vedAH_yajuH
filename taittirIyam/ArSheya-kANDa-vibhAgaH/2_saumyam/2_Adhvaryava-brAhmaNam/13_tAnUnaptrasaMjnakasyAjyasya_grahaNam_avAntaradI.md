@@ -2,7 +2,7 @@
 title = "१३ तानूनप्त्रसंज्ञकस्याज्यस्य ग्रहणम् अवान्तरदी"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/6/2/02_tAnUnaptrasaMjnakasyAjyasya_grahaNam_avAntaradI"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/6/2/02_tAnUnaptrasaMjnakasyAjyasya_grahaNam_avAntaradI"  newLevelForH1="1" includeTitle="true">
 
 
 सोमऋषिः

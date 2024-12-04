@@ -3,7 +3,7 @@ title = "०६ तण्डुलपेषणम्"
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/06_taNDulapeShaNam"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/06_taNDulapeShaNam"  newLevelForH1="1" includeTitle="true">
 
 <details><summary>मूलम्</summary>
 

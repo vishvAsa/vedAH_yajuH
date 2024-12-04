@@ -3,14 +3,14 @@ title = "२७ पावमान्यः"
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/1/4_somAdi/08_pAvamAnyaH"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/1/4_somAdi/08_pAvamAnyaH"  newLevelForH1="1" includeTitle="true">
 
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 'अनारभ्याधीतानां प्रकृतिगामित्वम्'इति न्यायात् दर्शपूर्णमासयोश् चाविनियोगात् ज्योतिष्ठेम एकाहानां प्रकृतौ एकविंशत्या दर्भपुञ्जीलैः पाव्यमानो यजमानो जपति। अन्यत्र च स्मार्ते स्नानादौ मार्जनार्थोऽयमनुवाकः । सोमः काण्डऋषिः ॥
 </details>
-<div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/01_pavamAnas_suvarjanaH.md">
+<div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/01_pavamAnas_suvarjanaH.md">
 <details><summary><h4>01 पवमानस् सुवर्जनः ...{Loading}...</h4></summary>
 
 पव॑मान॒स् सुव॒र्-जनः॑ ।  
@@ -19,7 +19,7 @@ unicode_script = "devanagari"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/01_pavamAnas_suvarjanaH.md">
+<div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/01_pavamAnas_suvarjanaH.md">
 <details><summary><h4>01 पवमानस् सुवर्जनः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -36,7 +36,7 @@ unicode_script = "devanagari"
 </details>
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/02_punantu_mA.md">
+<div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/02_punantu_mA.md">
 <details><summary><h4>02 पुनन्तु मा ...{Loading}...</h4></summary>
 
 **पु॒नन्तु॑** मा **देवज॒नाः** ।  
@@ -45,7 +45,7 @@ unicode_script = "devanagari"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/02_punantu_mA.md">
+<div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/02_punantu_mA.md">
 <details><summary><h4>02 पुनन्तु मा ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -63,7 +63,7 @@ unicode_script = "devanagari"
 </details>
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/03_jAtavedapH_pavitravat.md">
+<div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/03_jAtavedapH_pavitravat.md">
 <details><summary><h4>03 जातवेदᳶ पवित्रवत् ...{Loading}...</h4></summary>
 
 जात॑वेदᳶ प॒वित्र॑वत् ।  
@@ -73,7 +73,7 @@ unicode_script = "devanagari"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/03_jAtavedapH_pavitravat.md">
+<div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/03_jAtavedapH_pavitravat.md">
 <details><summary><h4>03 जातवेदᳶ पवित्रवत् ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -90,7 +90,7 @@ unicode_script = "devanagari"
 </details>
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/04_yat_te.md">
+<div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/04_yat_te.md">
 <details><summary><h4>04 यत् ते ...{Loading}...</h4></summary>
 
 यत् ते॑ **प॒वित्र॑म् अ॒र्चिषि॑** ।  
@@ -99,7 +99,7 @@ unicode_script = "devanagari"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/04_yat_te.md">
+<div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/04_yat_te.md">
 <details><summary><h4>04 यत् ते ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -116,7 +116,7 @@ unicode_script = "devanagari"
 </details>
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/05_ubhAbhyAn_deva.md">
+<div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/05_ubhAbhyAn_deva.md">
 <details><summary><h4>05 उभाभ्यान् देव ...{Loading}...</h4></summary>
 
 उ॒भाभ्या᳚न् देव **सवितः** ।  
@@ -125,7 +125,7 @@ unicode_script = "devanagari"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/05_ubhAbhyAn_deva.md">
+<div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/05_ubhAbhyAn_deva.md">
 <details><summary><h4>05 उभाभ्यान् देव ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -141,7 +141,7 @@ unicode_script = "devanagari"
 </details>
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/06_vaishvadevI_punatI.md">
+<div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/06_vaishvadevI_punatI.md">
 <details><summary><h4>06 वैश्वदेवी पुनती ...{Loading}...</h4></summary>
 
 वै॒श्व॒दे॒वी **पु॑न॒ती** दे॒व्य् **आगा᳚त्**+++(=आगच्छतु)+++ ।  
@@ -152,7 +152,7 @@ unicode_script = "devanagari"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/06_vaishvadevI_punatI.md">
+<div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/06_vaishvadevI_punatI.md">
 <details><summary><h4>06 वैश्वदेवी पुनती ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -173,7 +173,7 @@ unicode_script = "devanagari"
 </details>
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/07_vaishvAnaro_rashmibhir.md">
+<div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/07_vaishvAnaro_rashmibhir.md">
 <details><summary><h4>07 वैश्वानरो रश्मिभिर् ...{Loading}...</h4></summary>
 
 **वै॒श्वा॒न॒रो** र॒श्मिभि॑र् मा **पुनातु** ।   
@@ -184,7 +184,7 @@ unicode_script = "devanagari"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/07_vaishvAnaro_rashmibhir.md">
+<div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/07_vaishvAnaro_rashmibhir.md">
 <details><summary><h4>07 वैश्वानरो रश्मिभिर् ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -205,7 +205,7 @@ unicode_script = "devanagari"
 </details>
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/08_bRhadbhis_savitas.md">
+<div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/08_bRhadbhis_savitas.md">
 <details><summary><h4>08 बृहद्भिस् सवितस् ...{Loading}...</h4></summary>
 
 बृ॒हद्भि॑स् सवित॒स् तृभिः॑+++(=त्रिभिः [लोकगणनया]/ तृप्यतेः करणे क्विप्)+++ ।   
@@ -214,7 +214,7 @@ unicode_script = "devanagari"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/08_bRhadbhis_savitas.md">
+<div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/08_bRhadbhis_savitas.md">
 <details><summary><h4>08 बृहद्भिस् सवितस् ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -231,7 +231,7 @@ unicode_script = "devanagari"
 </details>
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/09_yena_devA.md">
+<div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/09_yena_devA.md">
 <details><summary><h4>09 येन देवा ...{Loading}...</h4></summary>
 
 येन॑ दे॒वा **अपु॑नत** ।   
@@ -241,7 +241,7 @@ unicode_script = "devanagari"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/09_yena_devA.md">
+<div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/09_yena_devA.md">
 <details><summary><h4>09 येन देवा ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -259,7 +259,7 @@ unicode_script = "devanagari"
 </details>
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/10_yapH_pAvamAnIr.md">
+<div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/10_yapH_pAvamAnIr.md">
 <details><summary><h4>10 यᳶ पावमानीर् ...{Loading}...</h4></summary>
 
 यᳶ पा॑वमा॒नीर् **अ॒ध्येति॑** ।  
@@ -269,7 +269,7 @@ unicode_script = "devanagari"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/10_yapH_pAvamAnIr.md">
+<div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/10_yapH_pAvamAnIr.md">
 <details><summary><h4>10 यᳶ पावमानीर् ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -291,7 +291,7 @@ unicode_script = "devanagari"
 </details>
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/11_pAvamAnIr_yo.md">
+<div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/11_pAvamAnIr_yo.md">
 <details><summary><h4>11 पावमानीर् यो ...{Loading}...</h4></summary>
 
 पा॒व॒मा॒नीर् यो **अ॒ध्येति॑** ।   
@@ -301,7 +301,7 @@ unicode_script = "devanagari"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/11_pAvamAnIr_yo.md">
+<div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/11_pAvamAnIr_yo.md">
 <details><summary><h4>11 पावमानीर् यो ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -319,7 +319,7 @@ unicode_script = "devanagari"
 </details>
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/12_pAvamAnIs_svastyayanIH.md">
+<div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/12_pAvamAnIs_svastyayanIH.md">
 <details><summary><h4>12 पावमानीस् स्वस्त्ययनीः ...{Loading}...</h4></summary>
 
 पा॒व॒मा॒नीस् **स्व॒स्त्य्-अय॑नीः** ॥49॥   
@@ -329,7 +329,7 @@ unicode_script = "devanagari"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/12_pAvamAnIs_svastyayanIH.md">
+<div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/12_pAvamAnIs_svastyayanIH.md">
 <details><summary><h4>12 पावमानीस् स्वस्त्ययनीः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -351,7 +351,7 @@ unicode_script = "devanagari"
 </details>
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/13_pAvamAnIr_dishantu.md">
+<div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/13_pAvamAnIr_dishantu.md">
 <details><summary><h4>13 पावमानीर् दिशन्तु ...{Loading}...</h4></summary>
 
 पा॒व॒मा॒नीर् **दि॑शन्तु** नः ।  
@@ -361,7 +361,7 @@ unicode_script = "devanagari"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/13_pAvamAnIr_dishantu.md">
+<div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/13_pAvamAnIr_dishantu.md">
 <details><summary><h4>13 पावमानीर् दिशन्तु ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -379,7 +379,7 @@ unicode_script = "devanagari"
 </details>
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/14_pAvamAnIs_svastyayanIH.md">
+<div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/14_pAvamAnIs_svastyayanIH.md">
 <details><summary><h4>14 पावमानीस् स्वस्त्ययनीः ...{Loading}...</h4></summary>
 
 पा॒व॒मा॒नीस् **स्व॒स्त्य्-अय॑नीः** ।  
@@ -389,7 +389,7 @@ unicode_script = "devanagari"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/14_pAvamAnIs_svastyayanIH.md">
+<div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/14_pAvamAnIs_svastyayanIH.md">
 <details><summary><h4>14 पावमानीस् स्वस्त्ययनीः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -404,7 +404,7 @@ unicode_script = "devanagari"
 </details>
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/15_yena_devApH.md">
+<div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/15_yena_devApH.md">
 <details><summary><h4>15 येन देवाᳶ ...{Loading}...</h4></summary>
 
 येन॑ दे॒वाᳶ प॒वित्रे॑ण ।  
@@ -414,7 +414,7 @@ unicode_script = "devanagari"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/15_yena_devApH.md">
+<div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/15_yena_devApH.md">
 <details><summary><h4>15 येन देवाᳶ ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -431,7 +431,7 @@ unicode_script = "devanagari"
 </details>
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/16_prAjApatyam_pavitram.md">
+<div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/16_prAjApatyam_pavitram.md">
 <details><summary><h4>16 प्राजापत्यम् पवित्रम् ...{Loading}...</h4></summary>
 
 प्रा॒जा॒प॒त्यम् प॒वित्र᳚म् ।  
@@ -441,7 +441,7 @@ unicode_script = "devanagari"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/16_prAjApatyam_pavitram.md">
+<div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/16_prAjApatyam_pavitram.md">
 <details><summary><h4>16 प्राजापत्यम् पवित्रम् ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
@@ -459,7 +459,7 @@ unicode_script = "devanagari"
 </details>
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/17_indras_sunItI.md">
+<div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/17_indras_sunItI.md">
 <details><summary><h4>17 इन्द्रस् सुनीती ...{Loading}...</h4></summary>
 
 **इन्द्र॑स्** सुनी॒ती+++(त्या)+++ स॒ह मा॑ पुनातु ।  
@@ -469,7 +469,7 @@ unicode_script = "devanagari"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/17_indras_sunItI.md">
+<div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/17_indras_sunItI.md">
 <details><summary><h4>17 इन्द्रस् सुनीती ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 

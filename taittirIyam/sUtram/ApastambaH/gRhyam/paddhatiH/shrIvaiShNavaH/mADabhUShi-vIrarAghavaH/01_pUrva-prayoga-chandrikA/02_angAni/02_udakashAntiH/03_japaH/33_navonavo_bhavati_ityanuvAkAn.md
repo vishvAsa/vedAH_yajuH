@@ -4,7 +4,7 @@ title = "३३ 'नवोनवो भवति'"
 +++
 'नवोनवो भवति' इत्यनुवाकान्
 
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/3/1_nAxatrAdi/3_chAndramAsAdInAM_saptAnAmiShTInAM_yAjyAnuvAkyAH">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/3/1_nAxatrAdi/3_chAndramAsAdInAM_saptAnAmiShTInAM_yAjyAnuvAkyAH">
 <details open><summary><h4>३, चान्द्रमासादीनां सप्तानामिष्टीनां याज्यानुवाक्याः ...{Loading}...</h4></summary>
 
 
@@ -342,7 +342,7 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 
 नवो॑नवो भवति॒ जाय॑मानो॒ …     
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/2/4/14_kAmyeShTiyAjyApuronuvAkyAH/23_yam_AdityA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/2/4/14_kAmyeShTiyAjyApuronuvAkyAH/23_yam_AdityA.md">
 <details open><summary><h8>विश्वास-प्रस्तुतिः ...{Loading}...</h8></summary>
 
 यम् +++(सोमं)+++ आ॑दि॒त्या अ॒ꣳ॒शुम् **आ᳚प्या॒यय॑न्ति॒**  
@@ -351,7 +351,7 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 **आ प्या॑ययन्तु॒** भुव॑नस्य गो॒पाः ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/2/4/14_kAmyeShTiyAjyApuronuvAkyAH/23_yam_AdityA.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/2/4/14_kAmyeShTiyAjyApuronuvAkyAH/23_yam_AdityA.md">
 <details open><summary><h8>सर्वाष् टीकाः ...{Loading}...</h8></summary>
 <details><summary>मूलम्</summary>
 
@@ -378,7 +378,7 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 
 3अहोरात्रयोः - ये विरूपे इति ॥ 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="2" open unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/3/03_ye_virUpe.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" open unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/3/03_ye_virUpe.md">
 <details open><summary><h6>03 ये विरूपे ...{Loading}...</h6></summary>
 
 ये विरू॑पे॒ सम॑नसा स॒व्ँ व्यय॑न्ती ।  
@@ -387,7 +387,7 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 ते नो॒ नख्ष॑त्रे॒ हव॒माग॑मेतम् ।
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/3/03_ye_virUpe.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/3/03_ye_virUpe.md">
 <details open><summary><h6>03 ये विरूपे ...{Loading}...</h6></summary>
 <details><summary>मूलम्</summary>
 
@@ -404,7 +404,7 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" open unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/3/04_vayandevI_brahmaNA.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" open unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/3/04_vayandevI_brahmaNA.md">
 <details open><summary><h6>04 वयन्देवी ब्रह्मणा ...{Loading}...</h6></summary>
 
 व॒यन्दे॒वी ब्रह्म॑णा सव्ँ विदा॒नाः ।     
@@ -413,7 +413,7 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 अति॑ पा॒प्मान॒मति॑ मुक्त्या गमेम ।  
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/3/04_vayandevI_brahmaNA.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/3/04_vayandevI_brahmaNA.md">
 <details open><summary><h6>04 वयन्देवी ब्रह्मणा ...{Loading}...</h6></summary>
 <details><summary>मूलम्</summary>
 
@@ -440,7 +440,7 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 
 5उषसः - प्रतीति परोष्णिक् ॥ 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="2" open unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/3/05_pratyuvadRshyAyatI_24.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" open unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/3/05_pratyuvadRshyAyatI_24.md">
 <details open><summary><h6>05 प्रत्युवदृश्यायती 24 ...{Loading}...</h6></summary>
 
 प्रत्यु॑वदृश्याय॒ती ॥24॥  
@@ -448,7 +448,7 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 अ॒पो म॒ही वृ॑णुते॒ चख्षु॑षा ।      
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/3/05_pratyuvadRshyAyatI_24.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/3/05_pratyuvadRshyAyatI_24.md">
 <details open><summary><h6>05 प्रत्युवदृश्यायती 24 ...{Loading}...</h6></summary>
 <details><summary>मूलम्</summary>
 
@@ -466,7 +466,7 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" open unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/3/06_tamo_jyotiShkRNoti.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" open unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/3/06_tamo_jyotiShkRNoti.md">
 <details open><summary><h6>06 तमो ज्योतिष्कृणोति ...{Loading}...</h6></summary>
 
 तमो॒ ज्योति॑ष्कृणोति सू॒नरी᳚ ।  
@@ -475,7 +475,7 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 तवेदु॑षो॒ व्युषि॒ सूर्य॑स्य च ।  
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/3/06_tamo_jyotiShkRNoti.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/3/06_tamo_jyotiShkRNoti.md">
 <details open><summary><h6>06 तमो ज्योतिष्कृणोति ...{Loading}...</h6></summary>
 <details><summary>मूलम्</summary>
 
@@ -498,7 +498,7 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 
 ##### नक्षत्रम्
 
-<div class="js_include" includetitle="false" newlevelforh1="2" open unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/3/07_sambhaktena_gamemahi.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" open unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/3/07_sambhaktena_gamemahi.md">
 <details open><summary><h6>07 सम्भक्तेन गमेमहि ...{Loading}...</h6></summary>
 
 सम्भ॒क्तेन॑ गमेमहि ।  
@@ -507,7 +507,7 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 उप॑य॒ज्ञमि॒हाग॑मत् ॥25॥  
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/3/07_sambhaktena_gamemahi.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/3/07_sambhaktena_gamemahi.md">
 <details open><summary><h6>07 सम्भक्तेन गमेमहि ...{Loading}...</h6></summary>
 <details><summary>मूलम्</summary>
 
@@ -526,7 +526,7 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" open unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/3/08_pra_nakhShatrAya.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" open unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/3/08_pra_nakhShatrAya.md">
 <details open><summary><h6>08 प्र नख्षत्राय ...{Loading}...</h6></summary>
 
 प्र नख्ष॑त्राय दे॒वाय॑ ।  
@@ -535,7 +535,7 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 पु॒ष्टि॒दाव्ँ वी॒रव॑त्तमम् ।  
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/3/08_pra_nakhShatrAya.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/3/08_pra_nakhShatrAya.md">
 <details open><summary><h6>08 प्र नख्षत्राय ...{Loading}...</h6></summary>
 <details><summary>मूलम्</summary>
 
@@ -1140,7 +1140,7 @@ _______
 
 11-12अदितेः - अदितिर्नः, महीमूष्विति ॥ व्याख्याते 'वैश्वानरो नः' इत्यत्र ॥
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="2" open unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/3/11_aditirna_uruShyatu.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" open unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/3/11_aditirna_uruShyatu.md">
 <details open><summary><h6>11 अदितिर्न उरुष्यतु ...{Loading}...</h6></summary>
 
 अदि॑तिर् न उरुष्य॒त्व्  
@@ -1148,7 +1148,7 @@ _______
 अदि॑तिᳶ पा॒त्व् अꣳह॑सः  ॥
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/3/11_aditirna_uruShyatu.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/3/11_aditirna_uruShyatu.md">
 <details open><summary><h6>11 अदितिर्न उरुष्यतु ...{Loading}...</h6></summary>
 <details><summary>Keith</summary>
 
@@ -1167,7 +1167,7 @@ Let Aditi guard us from tribulation.
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/mahImU_Shu.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/mahImU_Shu.md">
 <details open><summary><h6>महीम् ऊ षु ...{Loading}...</h6></summary>
 
 म॒हीम् ऊ॒ षु मा॒तरꣳ॑ सुव्र॒ताना॑म्  
@@ -1176,7 +1176,7 @@ Let Aditi guard us from tribulation.
 सु॒शर्मा॑ण॒म् अदि॑तिꣳ+++(=अखण्डनीयां)+++ सु॒प्रणी॑तिम् ॥ 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/mahImU_Shu.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/mahImU_Shu.md">
 <details open><summary><h6>महीम् ऊ षु ...{Loading}...</h6></summary>
 <details><summary>Keith</summary>
 
@@ -1994,7 +1994,7 @@ Agni, des Himmels Haupt und Höh', und er, der Erde Oberherr, Erregt der Wasser 
 
 अ॒ग्निर्मू॒र्धा ।
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/4/4/04_ChandobhidheShTakopadhAnam/bhuvo_yaJNasya.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/04_ChandobhidheShTakopadhAnam/bhuvo_yaJNasya.md">
 <details open><summary><h9>भुवो यज्ञस्य ...{Loading}...</h9></summary>
 
 भुवो॑ **य॒ज्ञस्य॒**, +++(विद्युद्-रूपेण)+++ रज॑सश्+++(→अन्तरिक्षस्य)+++ च **ने॒ता**  
@@ -2003,7 +2003,7 @@ Agni, des Himmels Haupt und Höh', und er, der Erde Oberherr, Erregt der Wasser 
 **जि॒ह्वाम्** अ॑ग्ने **चकृषे** हव्य॒वाह᳚म् ॥  
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/4/4/04_ChandobhidheShTakopadhAnam/bhuvo_yaJNasya.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/4/04_ChandobhidheShTakopadhAnam/bhuvo_yaJNasya.md">
 <details open><summary><h9>भुवो यज्ञस्य ...{Loading}...</h9></summary>
 <details><summary>मूलम्</summary>
 
@@ -2030,7 +2030,7 @@ Agni, des Himmels Haupt und Höh', und er, der Erde Oberherr, Erregt der Wasser 
 17-18अनुमतेः - अनुनोऽद्य, अन्विदनुमत इति ॥  
 'इदं वामास्ये' इत्यत्र व्याख्याते । अग्न्यनुमती सप्तस्वेवेति केचित् । सर्वत्र कृत्तिकादिष्वित्यपरे ॥
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/3/3/11_yAjyApuronuvAkyAH/19_anu_no-dyAnumatir.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/3/11_yAjyApuronuvAkyAH/19_anu_no-dyAnumatir.md">
 <details open><summary><h8>विश्वास-प्रस्तुतिः ...{Loading}...</h8></summary>
 
 **अनु॑** नो॒ऽद्यानु॑मतिर् +++(=ऊनचन्द्रा पौर्णमासी)+++  
@@ -2039,7 +2039,7 @@ Agni, des Himmels Haupt und Höh', und er, der Erde Oberherr, Erregt der Wasser 
 **भव॑तान्** दा॒शुषे॒ मयः॑ ।
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="5" title="सर्वाष्टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/3/3/11_yAjyApuronuvAkyAH/19_anu_no-dyAnumatir.md">
+<div class="js_include collapsed" newlevelforh1="5" title="सर्वाष्टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/3/11_yAjyApuronuvAkyAH/19_anu_no-dyAnumatir.md">
 <details><summary><h9>सर्वाष्टीकाः ...{Loading}...</h9></summary>
 <details><summary>Keith</summary>
 
@@ -2064,7 +2064,7 @@ A joy to the giver.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/3/3/11_yAjyApuronuvAkyAH/24_anv_id.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/3/11_yAjyApuronuvAkyAH/24_anv_id.md">
 <details open><summary><h8>विश्वास-प्रस्तुतिः ...{Loading}...</h8></summary>
 
 **अन्व्** इद् अ॑नुमते॒ त्वम् [34]  
@@ -2073,7 +2073,7 @@ A joy to the giver.
 प्र ण॒ आयूꣳ॑षि **तारिषः** ।
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="5" title="सर्वाष्टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/3/3/11_yAjyApuronuvAkyAH/24_anv_id.md">
+<div class="js_include collapsed" newlevelforh1="5" title="सर्वाष्टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/3/11_yAjyApuronuvAkyAH/24_anv_id.md">
 <details><summary><h9>सर्वाष्टीकाः ...{Loading}...</h9></summary>
 <details><summary>Keith</summary>
 
@@ -2101,7 +2101,7 @@ Lengthen our days for us.
 19-20अथ संयाज्ये - हव्यवाहं, स्विष्टमिति ॥ व्याख्याते 'जुष्टः' इत्यत्र ॥
 
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/1/26_havyavAhamabhimAtiShAham_rakhShohaNampRtanAsu.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/1/26_havyavAhamabhimAtiShAham_rakhShohaNampRtanAsu.md">
 <details open><summary><h8>विश्वास-प्रस्तुतिः ...{Loading}...</h8></summary>
 
 ह॒व्य॒वाह॑मभिमाति॒षाह᳚म् ।   
@@ -2110,7 +2110,7 @@ Lengthen our days for us.
 अ॒ग्निꣵ स्वि॑ष्ट॒कृत॒मा हु॑वेम ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/1/26_havyavAhamabhimAtiShAham_rakhShohaNampRtanAsu.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/1/26_havyavAhamabhimAtiShAham_rakhShohaNampRtanAsu.md">
 <details open><summary><h8>सर्वाष् टीकाः ...{Loading}...</h8></summary>
 <details><summary>मूलम्</summary>
 
@@ -2125,7 +2125,7 @@ Lengthen our days for us.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/1/29_sviShTamagne_abhi.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/1/29_sviShTamagne_abhi.md">
 <details open><summary><h8>विश्वास-प्रस्तुतिः ...{Loading}...</h8></summary>
 
 स्वि॑ष्टमग्ने अ॒भि तत्पृ॑णाहि ।  
@@ -2134,7 +2134,7 @@ Lengthen our days for us.
 ज्योति॑ष्मद्धेह्य॒जर॑न्न॒ आयुः॑ ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/1/29_sviShTamagne_abhi.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/1/29_sviShTamagne_abhi.md">
 <details open><summary><h8>सर्वाष् टीकाः ...{Loading}...</h8></summary>
 <details><summary>मूलम्</summary>
 

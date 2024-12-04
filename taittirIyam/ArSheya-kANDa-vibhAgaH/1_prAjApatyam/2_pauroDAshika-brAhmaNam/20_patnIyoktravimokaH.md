@@ -3,7 +3,7 @@ title = "२० पत्नीयोक्त्रविमोकः"
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/3/3_darsha-pUrNa-mAsAdi/10_patnIyoktravimokaH"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/3/3_darsha-pUrNa-mAsAdi/10_patnIyoktravimokaH"  newLevelForH1="1" includeTitle="true">
 
 <details><summary>मूलम्</summary>
 

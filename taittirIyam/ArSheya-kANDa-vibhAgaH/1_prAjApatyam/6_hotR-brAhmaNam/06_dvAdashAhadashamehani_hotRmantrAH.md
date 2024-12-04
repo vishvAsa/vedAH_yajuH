@@ -3,7 +3,7 @@ title = "०६ द्वादशाहदशमेहनि होतृमन
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/2/2_hotR-brAhmaNAdi/06_dvAdashAhadashamehani_hotRmantrAH"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/2_hotR-brAhmaNAdi/06_dvAdashAhadashamehani_hotRmantrAH"  newLevelForH1="1" includeTitle="true">
 
 <details><summary>मूलम्</summary>
 
