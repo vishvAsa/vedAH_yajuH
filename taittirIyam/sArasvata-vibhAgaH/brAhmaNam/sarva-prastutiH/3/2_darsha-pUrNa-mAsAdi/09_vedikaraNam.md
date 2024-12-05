@@ -51,23 +51,22 @@ unicode_script: devanagari
 </div>  
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-आद॑दे। 
-</details>
-
-<details><summary>मूलम्</summary>
-
-आद॑दे। 
-</details>
-
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 1देवस्य त्वेति स्फ्यादानम् ॥ गतम् ॥
 </details>
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/09_vedikaraNam/indrasya_bAhuH.md" unfilled newLevelForH1="5" includeTitle="false">   
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"आद॑दे।"
+</details>
+
+<details><summary>मूलम्</summary>
+
+"आद॑दे।"
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
