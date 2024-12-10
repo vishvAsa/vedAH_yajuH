@@ -5,12 +5,6 @@ unicode_script: devanagari
 ---
 
 
-<details><summary>मूलम्</summary>
-
-यो वा अय॑थादेवतय्ँ य॒ज्ञमु॑प॒चर॑ति ।
-आ दे॒वता᳚भ्यो वृश्च्यते ।
-पापी॑यान्भवति ।  
-</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -19,7 +13,9 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-यो वा अय॑थादेवतय्ँ य॒ज्ञमु॑प॒चर॑त्य्॒ आ दे॒वता᳚भ्यो वृश्च्यते॒ पापी॑यान्भवति ।  
+यो वा अय॑थादेवतय्ँ य॒ज्ञमु॑प॒चर॑ति ।
+आ दे॒वता᳚भ्यो वृश्च्यते ।
+पापी॑यान्भवति ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
