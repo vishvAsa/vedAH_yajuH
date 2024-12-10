@@ -112,7 +112,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा᳚त् पु॒रस्ता᳚त् प्र॒त्यञ्च॑श् शू॒द्रा अव॑स्यन्ति ।   
+तस्मा᳚त् पु॒रस्ता᳚त् प्र॒त्यञ्च॑श् शू॒द्रा **अव॑स्यन्ति** ।   
 </details>
 
 <details><summary>मूलम्</summary>
@@ -127,7 +127,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्थ॒वि॒म॒त उप॑गूहति ।
+स्थ॒वि॒म् अ॒त उप॑गूहति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -142,7 +142,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अप्र॑तिवादिन ए॒वैना᳚न्कुरुते ।
+अ-प्र॑तिवादिन ए॒वैना᳚न् +++(शूद्रान्)+++ कुरुते ।
 </details>
 
 <details><summary>मूलम्</summary>
