@@ -827,6 +827,13 @@ Or rather they say, 'Woman's food is unguent, and there fore one should not acce
 याम् अर॑ण्ये॒ तस्यै᳚ स्ते॒नः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+The son born of intercourse with (a woman) with stained garments is accursed;  
+(the son born) of intercourse in the forest is a thief;  
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 याम्मल॑वद्वाससꣳ स॒म्भव॑न्ति ।  
@@ -846,6 +853,12 @@ Or rather they say, 'Woman's food is unguent, and there fore one should not acce
 तस्यै᳚ ह्रीत-मु॒ख्य् अ॑पग॒ल्भः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+(the son born) of intercourse with a (woman) who turns away is shamefaced and retiring; 
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 याम्परा॑ची॒न्तस्यै᳚ ह्रीतमु॒ख्य॑पग॒ल्भः ।  
@@ -862,6 +875,12 @@ Or rather they say, 'Woman's food is unguent, and there fore one should not acce
 या स्नाति॒ तस्या॑ अ॒फ्सु मारु॑कः ।
 </details>
 
+<details><summary>Keith</summary>
+
+(the son born) of intercourse with a woman bathing is fated to drown; 
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 या स्नाति॒ तस्या॑ अ॒फ्सु मारु॑कः ।
@@ -876,6 +895,12 @@ Or rather they say, 'Woman's food is unguent, and there fore one should not acce
 
 या ऽभ्य॒ङ्क्ते तस्यै॑ दु॒श्चर्मा᳚ ।  
 </details>
+
+<details><summary>Keith</summary>
+
+(the son born) of one who [6] anoints herself has a skin disease; 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -892,6 +917,12 @@ Or rather they say, 'Woman's food is unguent, and there fore one should not acce
 या प्र॑लि॒खते॒ तस्यै॑ खल॒तिर् अ॑पमा॒री ।
 </details>
 
+<details><summary>Keith</summary>
+
+(the son born) of one who combs her hair is bald and feeble; 
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 या प्र॑लि॒खते॒ तस्यै॑ खल॒तिर॑पमा॒री ।
@@ -906,6 +937,12 @@ Or rather they say, 'Woman's food is unguent, and there fore one should not acce
 
 याऽऽङ्क्ते तस्यै॑ का॒णः  ।
 </details>
+
+<details><summary>Keith</summary>
+
+(the son born) of one who anoints (her eyes) is blind; 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -922,6 +959,12 @@ Or rather they say, 'Woman's food is unguent, and there fore one should not acce
 या द॒तो धाव॑ते॒ - तस्यै᳚ श्या॒वदन्न्॑ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+(the son born) of one who cleans her teeth has dirty teeth;
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 या द॒तो धाव॑ते॒ तस्यै᳚ श्या॒वदन्न्॑ ।  
@@ -936,6 +979,12 @@ Or rather they say, 'Woman's food is unguent, and there fore one should not acce
 
 या न॒खानि॑ निकृ॒न्तते॒ - तस्यै॑ कुन॒खी ।  
 </details>
+
+<details><summary>Keith</summary>
+
+ (the son born) of one who cuts her nails has bad nails; 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -952,6 +1001,12 @@ Or rather they say, 'Woman's food is unguent, and there fore one should not acce
 या कृ॒णत्ति॒ - तस्यै᳚ क्ली॒बः ।  
 </details>
 
+<details><summary>Keith</summary>
+
+(the son born) of one who spins is a eunuch; 
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 या कृ॒णत्ति॒ तस्यै᳚ क्ली॒बः ।  
@@ -966,6 +1021,12 @@ Or rather they say, 'Woman's food is unguent, and there fore one should not acce
 
 या रज्जुꣳ॑ सृ॒जति॒ - तस्या॑ उ॒द्बन्धु॑कः ।
 </details>
+
+<details><summary>Keith</summary>
+
+(the son born) of one who weaves ropes is unrestrained; 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -982,6 +1043,12 @@ Or rather they say, 'Woman's food is unguent, and there fore one should not acce
 या प॒र्णेन॒ पिब॑ति॒ - तस्या॑ उ॒न्मादु॑कः ।
 </details>
 
+<details><summary>Keith</summary>
+
+(the son born) of one who drinks from a leaf is drunken;
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 या प॒र्णेन॒ पिब॑ति॒ तस्या॑ उ॒न्मादु॑कः ।
@@ -996,6 +1063,12 @@ Or rather they say, 'Woman's food is unguent, and there fore one should not acce
 
 या ख॒र्वेण॒ - पिब॑ति॒ तस्यै॑ ख॒र्वः ।  
 </details>
+
+<details><summary>Keith</summary>
+
+ (the son born) of one who drinks from a mutilated (vessel) is mutilated. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -1013,6 +1086,12 @@ Or rather they say, 'Woman's food is unguent, and there fore one should not acce
 अ॒ञ्ज॒लिना॑ वा॒ **पिबे॒द्** -   
 अख॑र्वेण वा॒ पात्रे॑ण प्र॒जायै॑ गोपी॒थाय॑ ॥
 </details>
+
+<details><summary>Keith</summary>
+
+For three nights he should keep a vow and should drink from his hand or from a perfect vessel, to guard his offspring.
+</details>
+
 
 <details><summary>मूलम्</summary>
 

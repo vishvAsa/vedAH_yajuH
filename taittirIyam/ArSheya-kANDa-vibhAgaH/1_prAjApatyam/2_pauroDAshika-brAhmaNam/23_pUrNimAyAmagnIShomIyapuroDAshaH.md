@@ -2,7 +2,7 @@
 title = "२३ पूर्णिमायामग्नीषोमीयपुरोडाशः"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/2/5/02_pUrNimAyAmagnIShomIyapuroDAshaH"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/2/5/02_agnIShomIyAdi"  newLevelForH1="1" includeTitle="true">
 
 
 प्रजापतिऋषिः ।
