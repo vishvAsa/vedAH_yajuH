@@ -1,10 +1,17 @@
 +++
-title = "०३"
+title = "०३ वैमुधः, सान्नाय-दधि-यागः"
 
 +++
+
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
 पौर्णमासे अनुनिर्वाप्यो वैमृधपुरोडाशः, अमावास्यायां सान्नाय्यदधियागश्च   
 
 प्रजापतिऋषिः ।
+</details>
+
+## वैमृधः
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 इन्द्र॑व्ँवृ॒त्रञ्ज॑घ्नि॒वाꣳस॒म्मृधो॒ऽभि प्रावे॑पन्त॒ स ए॒तव्ँवै॑मृ॒धम्पू॒णमा॑सेऽनुनिर्वा॒प्य॑मपश्य॒त्तन्निर॑वप॒त्तेन॒ वै स मृधोऽपा॑हत॒ यद्वै॑मृ॒धᳶ पू॒र्णमा॑सेऽनुनिर्वा॒प्यो॑ भव॑ति॒ मृध॑ ए॒व तेन॒ यज॑मा॒नोऽप॑ हतः
@@ -12,8 +19,14 @@ title = "०३"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्र॑व्ँवृ॒त्रञ्ज॑घ्नि॒वाꣳस॒म्मृधो॒ऽभि प्रावे॑पन्त ।  
+इन्द्र॑व्ँ वृ॒त्रञ् ज॑घ्नि॒वाꣳस॒म् मृधो॒ ऽभि प्रावे॑पन्त ।  
 </details>
+
+<details><summary>Keith</summary>
+
+When Indra had slain Vrtra, his enemies threatened him. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -27,20 +40,22 @@ title = "०३"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स ए॒तव्ँवै॑मृ॒धम्पू॒णमा॑सेऽनुनिर्वा॒प्य॑मपश्यत् ।  
-तन्निर॑वपत् ।  
-तेन॒ वै स मृधोऽपा॑हत ।  
-यद्वै॑मृ॒धᳶ पू॒र्णमा॑सेऽनुनिर्वा॒प्यो॑ भव॑ति ।  
-मृध॑ ए॒व तेन॒ यज॑मा॒नोऽप॑ हते ।  
+स ए॒तव्ँवै॑मृ॒धम् पू॒र्णमा॑से ऽनुनिर्वा॒प्य॑म् **अपश्यत्** ।  
+तन् **निर॑वपत्** ।  
+तेन॒ वै स मृधो **ऽपा॑हत** ।  
 </details>
+
+<details><summary>Keith</summary>
+
+He saw this enemy-dispelling (oblation) to be offered subsequently at the full moon. He offered it, and with it drove away his enemies. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 स ए॒तव्ँवै॑मृ॒धम्पू॒णमा॑सेऽनुनिर्वा॒प्य॑मपश्यत् ।  
 तन्निर॑वपत् ।  
 तेन॒ वै स मृधोऽपा॑हत ।  
-यद्वै॑मृ॒धᳶ पू॒र्णमा॑सेऽनुनिर्वा॒प्यो॑ भव॑ति ।  
-मृध॑ ए॒व तेन॒ यज॑मा॒नोऽप॑ हते ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -48,20 +63,46 @@ title = "०३"
 स एतमित्यादि । विमृदिन्द्रः तस्येदं कर्म वैमृधं प्रधानानन्तरं अनुनिर्वाप्यम् । गतमन्यत् ॥
 </details>
 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यद् वै॑मृ॒धᳶ पू॒र्णमा॑से ऽनुनिर्वा॒प्यो॑ भव॑ति॒  
+मृध॑ ए॒व तेन॒ यज॑मा॒नोऽप॑ हते ।
+</details>
+
+<details><summary>Keith</summary>
+
+In that the enemy-dispelling (oblation) is to be offered subsequently at the full moon, the sacrificer by it drives away his enemies. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यद् वै॑मृ॒धᳶ पू॒र्णमा॑से ऽनुनिर्वा॒प्यो॑ भव॑ति ।  
+मृध॑ ए॒व तेन॒ यज॑मा॒नोऽप॑ हते ।
+</details>
+
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 इन्द्रो॑ वृ॒त्रꣳ ह॒त्वा दे॒वता॑भिश्चेन्द्रि॒येण॑ च॒ व्या᳚र्ध्यत॒ स ए॒तमा᳚ग्ने॒यम॒ष्टाक॑पालममावा॒स्या॑यामपश्यदै॒न्द्रन्दधि॑ [15]  तन्निर॑वप॒त्तेन॒ वै स दे॒वता᳚श्चेन्द्रि॒यञ्चावा॑रुन्द्ध॒ यदा᳚ग्ने॒यो᳚ऽष्टाक॑पालोऽमावा॒स्या॑या॒म्भव॑त्यै॒न्द्रन्दधि॑ दे॒वता᳚श्चै॒व तेने᳚न्द्रि॒यञ्च॒ यज॑मा॒नोऽव॑ रुन्द्धे
 </details>
 
+## आग्नेयम् अष्टाकपालम्
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रो॑ वृ॒त्रꣳ ह॒त्वा दे॒वता॑भिश्चेन्द्रि॒येण॑ च॒ व्या᳚र्ध्यत ।  
-स ए॒तमा᳚ग्ने॒यम॒ष्टाक॑पालममावा॒स्या॑यामपश्यत्  ।  
-ऐ॒न्द्रन्दधि॒ तन्निर॑वपत् ।  
-तेन॒ वै स दे॒वता᳚श्चेन्द्रि॒यञ्चावा॑रुन्द्धे ।  
-यदा᳚ग्ने॒यो᳚ऽष्टाक॑पालोऽमावा॒स्या॑या॒म्भव॑ति ।  
-ऐ॒न्द्रन्दधि॑ दे॒वता᳚श्चै॒व तेने᳚न्द्रि॒यञ्च॒ यज॑मा॒नोऽव॑ रुन्द्धे ।  
+इन्द्रो॑ वृ॒त्रꣳ ह॒त्वा दे॒वता॑भिश् चेन्द्रि॒येण॑ च॒ व्या᳚र्ध्यत ।  
+स ए॒तम् आ᳚ग्ने॒यम् अ॒ष्टाक॑पालम् अमावा॒स्या॑याम् अपश्यत्  ।  
+ऐ॒न्द्रन् दधि॒ तन् निर॑वपत् ।  
+तेन॒ वै स दे॒वता᳚श् चेन्द्रि॒यञ् चावा॑रुन्द्धे ।  
 </details>
+
+<details><summary>Keith</summary>
+
+Indra, having slain Vrtra, lost the gods and his power. He saw the (offering) to Agni on eight potsherds at the new moon, and the curds for Indra [1]. He offered it, and by it he won the gods and his power. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -69,8 +110,6 @@ title = "०३"
 स ए॒तमा᳚ग्ने॒यम॒ष्टाक॑पालममावा॒स्या॑यामपश्यत्  ।  
 ऐ॒न्द्रन्दधि॒ तन्निर॑वपत् ।  
 तेन॒ वै स दे॒वता᳚श्चेन्द्रि॒यञ्चावा॑रुन्द्धे ।  
-यदा᳚ग्ने॒यो᳚ऽष्टाक॑पालोऽमावा॒स्या॑या॒म्भव॑ति ।  
-ऐ॒न्द्रन्दधि॑ दे॒वता᳚श्चै॒व तेने᳚न्द्रि॒यञ्च॒ यज॑मा॒नोऽव॑ रुन्द्धे ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -78,15 +117,43 @@ title = "०३"
 2इन्द्रो वृत्रं हत्येत्यादि ॥ ऐन्द्राग्नस्य विधिः, ऐन्द्रस्य च दध्नः ॥
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यद् आ᳚ग्ने॒यो᳚ ऽष्टाक॑पालो ऽमावा॒स्या॑या॒म् भव॑त्य् ऐ॒न्द्रन् दधि॑,  
+दे॒वता᳚श् चै॒व तेने᳚न्द्रि॒यञ् च॒ यज॑मा॒नोऽव॑ रुन्द्धे ।  
+</details>
+
+<details><summary>Keith</summary>
+
+In that at the new moon there is (an offering) to Agni on eight potsherds, and curds for Indra, the sacrificer wins by it the gods and power. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यदा᳚ग्ने॒यो᳚ऽष्टाक॑पालोऽमावा॒स्या॑या॒म्भव॑ति ।  
+ऐ॒न्द्रन्दधि॑ दे॒वता᳚श्चै॒व तेने᳚न्द्रि॒यञ्च॒ यज॑मा॒नोऽव॑ रुन्द्धे ।  
+
+</details>
+
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 इन्द्र॑स्य वृ॒त्रञ्ज॒घ्नुष॑ इन्द्रि॒यव्ँवी॒र्य॑म्पृथि॒वीमनु॒ व्या᳚र्च्छ॒त्तदोष॑धयो वी॒रुधो॑ऽभव॒न्थ्स प्र॒जाप॑ति॒मुपा॑धावद्वृ॒त्रम्मे॑ ज॒घ्नुष॑ इन्द्रि॒यव्ँवी॒र्य᳚म् [16]  पृ॒थि॒वीमनु॒ व्या॑र॒त्तदोष॑धयो वी॒रुधो॑ऽभूव॒न्निति॒ स प्र॒जाप॑तिᳶ प॒शून॑ब्रवीदे॒तद॑स्मै॒ सन्न॑य॒तेति॒ तत्प॒शव॒ ओष॑धी॒भ्योऽध्या॒त्मन्थ्सम॑नय॒न्तत्प्रत्य॑दुह॒न्यथ्स॒मन॑य॒न्तथ्सा᳚न्ना॒य्यस्य॑ सान्नाय्य॒त्वय्ँयत्प्र॒त्यदु॑ह॒न्तत्प्र॑ति॒धुषᳶ॑ प्रतिधु॒क्त्वम्
 </details>
 
+## सान्नाय्यः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्र॑स्य वृ॒त्रञ्ज॒घ्नुष॑  इन्द्रि॒यव्ँवी॒र्य॑म्पृथि॒वीमनु॒ व्या᳚र्च्छत् ।  
+इन्द्र॑स्य वृ॒त्रञ् ज॒घ्नुष॑  
+इन्द्रि॒यव्ँ वी॒र्य॑म् पृथि॒वीम् अनु॒ व्या᳚र्च्छत् ।  
 </details>
+
+<details><summary>Keith</summary>
+
+When Indra had slain Vrtra, his power and strength went into the earth; 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -103,6 +170,12 @@ title = "०३"
 तदोष॑धयो वी॒रुधो॑ऽभवन् ।
 </details>
 
+<details><summary>Keith</summary>
+
+then the plants and roots were born. 
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 तदोष॑धयो वी॒रुधो॑ऽभवन् ।
@@ -116,10 +189,19 @@ title = "०३"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स प्र॒जाप॑ति॒मुपा॑धावत् ।  
-वृ॒त्रम्मे॑ ज॒घ्नुष॑ इन्द्रि॒यव्ँवी॒र्य᳚म्  पृ॒थि॒वीमनु॒ व्या॑रत् ।  
-तदोष॑धयो वी॒रुधो॑ऽभूव॒न्निति॑ ।  
+स प्र॒जाप॑ति॒म् उपा॑धावत् -  
+
+>  वृ॒त्रम् मे॑ ज॒घ्नुष॑ इन्द्रि॒यव्ँ वी॒र्य᳚म् पृ॒थि॒वीमनु॒ व्या॑रत् ।  
+तद् ओष॑धयो वी॒रुधो॑ ऽभूव॒न्न् 
+
+इति॑ ।  
 </details>
+
+<details><summary>Keith</summary>
+
+He ran up to Prajapati, (saying), 'Now that I have slain Vrtra, my power and strength [2] have gone into the earth; then the plants and roots have been born.' 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -135,9 +217,15 @@ title = "०३"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स प्र॒जाप॑तिᳶ प॒शून॑ब्रवीत् ।  
-ए॒तद॑स्मै॒ सन्न॑य॒तेति॑ ।  
+स प्र॒जाप॑तिᳶ प॒शून् अ॑ब्रवीत् -  
+"ए॒तद् अ॑स्मै॒ सन्न॑य॒ते"ति॑ ।  
 </details>
+
+<details><summary>Keith</summary>
+
+Prajapati said to cattle, 'Collect it for him.' 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -152,8 +240,14 @@ title = "०३"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत्प॒शव॒ ओष॑धी॒भ्योऽध्या॒त्मन्थ्सम॑नयन् ।  
+तत् प॒शव॒ ओष॑धी॒भ्यो ऽध्या॒त्मन्थ् सम॑नयन् ।  
 </details>
+
+<details><summary>Keith</summary>
+
+The cattle collected it from the plants in themselves; 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -167,8 +261,14 @@ title = "०३"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत्प्रत्य॑दुहन् ।  
+तत् प्रत्य॑दुहन् ।  
 </details>
+
+<details><summary>Keith</summary>
+
+they milked it. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -182,11 +282,17 @@ title = "०३"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यथ्स॒मन॑यन् ।  
-तथ्सा᳚न्ना॒य्यस्य॑ सान्नाय्य॒त्वम् ।  
-यत्प्र॒त्यदु॑हन् ।  
-तत्प्र॑ति॒धुषᳶ॑ प्रतिधु॒क्त्वम् ।
+यथ् स॒मन॑य॒न् -  
+तथ् सा᳚न्ना॒य्यस्य॑ सान्नाय्य॒त्वम् ।  
+यत् प्र॒त्यदु॑ह॒न् -  
+तत् प्र॑ति॒धुषᳶ॑ प्रतिधु॒क्त्वम् ।
 </details>
+
+<details><summary>Keith</summary>
+
+In that they collected it, has the collected oblation (sammayya) its name; in that they milked it, has fresh milk its name (pratidhuk). 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -208,9 +314,17 @@ title = "०३"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सम॑नैषु॒ᳶ प्रत्य॑धुख्षन् ।   
-न तु मयि॑ श्रयत॒ इत्य॑ब्रवीत् ।  
+> सम॑नैषु॒ᳶ प्रत्य॑धुख्षन् ।   
+न तु मयि॑ श्रयत॒  
+
+इत्य् अ॑ब्रवीत् ।  
 </details>
+
+<details><summary>Keith</summary>
+
+'They have collected it; they have milked it; but it rests not in me', he said. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -225,7 +339,12 @@ title = "०३"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒तद॑स्मै शृ॒तङ्कु॑रु॒तेत्य॑ब्रवीत् ।
+ए॒तद् अ॑स्मै शृ॒तङ् कु॑रु॒तेत्य् अ॑ब्रवीत् ।
+</details>
+
+<details><summary>Keith</summary>
+
+'Make it ready for him' [3], he replied. 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -240,18 +359,22 @@ title = "०३"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद॑स्मै शृ॒तम॑कुर्वन् ।  
-इ॒न्द्रि॒यव्ँवावास्मि॑न्वी॒र्य॑न्तद॑श्रयन् ।  
-तच्छृ॒तस्य॑ शृत॒त्वम् ।  
-सम॑नैषु॒ᳶ प्रत्य॑धुख्षन्  ।  
+तद् अ॑स्मै शृ॒तम् अ॑कुर्वन् ।  
+इ॒न्द्रि॒यव्ँ वावास्मि॑न् वी॒र्य॑न् तद् अ॑श्रयन् ।  
+तच् छृ॒तस्य॑ शृत॒त्वम् ।  
 </details>
+
+<details><summary>Keith</summary>
+
+They made it ready for him; they made power and strength rest in him; verily the ready (milk) has its name (śrta).
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 तद॑स्मै शृ॒तम॑कुर्वन् ।  
 इ॒न्द्रि॒यव्ँवावास्मि॑न्वी॒र्य॑न्तद॑श्रयन् ।  
 तच्छृ॒तस्य॑ शृत॒त्वम् ।  
-सम॑नैषु॒ᳶ प्रत्य॑धुख्षन्  ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -266,12 +389,20 @@ title = "०३"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शृ॒तम॑क्रन्न् ।  
-न तु मा॑ धिनो॒तीत्य॑ब्रवीत् ।  
+"सम॑नैषु॒ᳶ, प्रत्य॑धुख्षन्  ।  
+शृ॒तम् **अ॑क्रन्न्** ।  
+न तु मा॑ +++(प्रीणने→)+++धिनो॒ती"त्य् अ॑ब्रवीत् ।  
 </details>
+
+<details><summary>Keith</summary>
+
+ 'They have collected it; they have milked it; they have made it ready; but it does not impel me', he said. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
+सम॑नैषु॒ᳶ प्रत्य॑धुख्षन्  ।  
 शृ॒तम॑क्रन्न् ।  
 न तु मा॑ धिनो॒तीत्य॑ब्रवीत् ।  
 </details>
@@ -286,6 +417,12 @@ title = "०३"
 ए॒तद॑स्मै॒ दधि॑ कुरु॒तेत्य॑ब्रवीत् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+'Make it curds for him', he replied. 
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 ए॒तद॑स्मै॒ दधि॑ कुरु॒तेत्य॑ब्रवीत् ।  
@@ -298,8 +435,14 @@ title = "०३"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद॑स्मै॒ दध्य॑कुर्वन् ।  
+तद् अ॑स्मै॒ दध्य॑कुर्वन् ।  
 </details>
+
+<details><summary>Keith</summary>
+
+They made it curds for him; 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -313,8 +456,14 @@ title = "०३"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तदे॑नमधिनोत् ।  
+तद् ए॑नम् अधिनोत् ।  
 </details>
+
+<details><summary>Keith</summary>
+
+that impelled (adhinot) him; 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -331,6 +480,12 @@ title = "०३"
 तद्द॒ध्नो द॑धि॒त्वम् ।
 </details>
 
+<details><summary>Keith</summary>
+
+verily curds (dadhi) has its name. 
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 तद्द॒ध्नो द॑धि॒त्वम् ।
@@ -343,6 +498,7 @@ title = "०३"
  दध्न इत्यनङादेशस्योदात्तत्वादुदात्तनिवृत्तिस्वरेण विभक्तेरुदात्तत्वम् ॥
 </details>
 
+### आनुपूर्वी
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ब्र॑ह्मवा॒दिनो॑ वदन्ति द॒ध्नᳶ पूर्व॑स्याव॒देय᳚म् [18]  दधि॒ हि पूर्व॑ङ्क्रि॒यत॒ इत्यना॑दृत्य॒ तच्छृ॒तस्यै॒व पूर्व॒स्याव॑ द्येदिन्द्रि॒यमे॒वास्मि॑न्वी॒र्यꣵ॑ श्रि॒त्वा द॒ध्नोपरि॑ष्टाद्धिनोति यथापू॒र्वमुपै॑ति
@@ -350,14 +506,25 @@ title = "०३"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्र॒ह्म॒वा॒दिनो॑ वदन्ति ।  
-द॒ध्नᳶ पूर्व॑स्याव॒देय᳚म् ।  
+ब्र॒ह्म॒वा॒दिनो॑ वदन्ति -  
+
+> द॒ध्नᳶ पूर्व॑स्याव॒देय᳚म्   
+दधि॒ हि पूर्व॑ङ् क्रि॒यत॒ 
+
+इति॑।
 </details>
+
+<details><summary>Keith</summary>
+
+The theologians say, 'One should offer curds first, for curds is made first' [4]. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 ब्र॒ह्म॒वा॒दिनो॑ वदन्ति ।  
 द॒ध्नᳶ पूर्व॑स्याव॒देय᳚म् ।  
+दधि॒ हि पूर्व॑ङ् क्रि॒यत॒ इति॑। 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -367,14 +534,21 @@ title = "०३"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दधि॒ हि पूर्व॑ङ्क्रि॒यत॒ इत्यना॑दृत्य॒ तच्छृ॒तस्यै॒व पूर्व॒स्याव॑ द्येत् ।  
-इ॒न्द्रि॒यमे॒वास्मि॑न्वी॒र्यꣵ॑ श्रि॒त्वा द॒ध्नोपरि॑ष्टाद्धिनोति ।  
-य॒था॒पू॒र्वमुपै॑ति   ।  
+अना॑दृत्य॒ तच् छृ॒तस्यै॒व पूर्व॒स्याव॑द्येत् ।  
+इ॒न्द्रि॒यम् ए॒वास्मि॑न् वी॒र्यꣵ॑ श्रि॒त्वा  
+द॒ध्नोपरि॑ष्टाद् +धिनोति ।  
+य॒था॒पू॒र्वम् उपै॑ति   ।  
 </details>
+
+<details><summary>Keith</summary>
+
+One should disregard that and offer ready (milk) first; verily one places power and strength in him and later impels him by curds; and he proceeds in order (of production). 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-दधि॒ हि पूर्व॑ङ्क्रि॒यत॒ इत्यना॑दृत्य॒ तच्छृ॒तस्यै॒व पूर्व॒स्याव॑ द्येत् ।  
+अना॑दृत्य॒ तच्छृ॒तस्यै॒व पूर्व॒स्याव॑ द्येत् ।  
 इ॒न्द्रि॒यमे॒वास्मि॑न्वी॒र्यꣵ॑ श्रि॒त्वा द॒ध्नोपरि॑ष्टाद्धिनोति ।  
 य॒था॒पू॒र्वमुपै॑ति   ।  
 </details>
@@ -389,10 +563,18 @@ title = "०३"
 यत्पू॒तीकै᳚र्वा पर्णव॒ल्कैर्वा॑त॒ञ्च्याथ्सौ॒म्यन्तद्यत्क्व॑लै राख्ष॒सन्तद्यत्त॑ण्डु॒लैर्वै᳚श्वदे॒वन्तद्यदा॒तञ्च॑नेन मानु॒षन्तद्यद्द॒ध्ना तथ्सेन्द्र॑न्द॒ध्ना त॑नक्ति [19]  से॒न्द्र॒त्वाया᳚ग्निहोत्रोच्छेष॒णम॒भ्यात॑नक्ति य॒ज्ञस्य॒ सन्त॑त्यै
 </details>
 
+### तञ्चनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत्पू॒तीकै᳚र्वा पर्णव॒ल्कैर्वा॑त॒ञ्च्याथ्सौ॒म्यन्तत् ।  
+यत् पू॒तीकै᳚र्वा पर्ण-व॒ल्कैर् वा॑ त॒ञ्च्याथ्  
+सौ॒म्यन् तत् ।  
 </details>
+
+<details><summary>Keith</summary>
+
+If he curdles it with Putika plants or with bark, that is fit for Soma; 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -406,8 +588,14 @@ title = "०३"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत्क्व॑लै राख्ष॒सन्तत् ।        
+यत् क्व॑लै +++(त॒ञ्च्याथ्)+++ - राख्ष॒सन् तत् ।        
 </details>
+
+<details><summary>Keith</summary>
+
+if with jujubes, that is for the Raksases; 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -421,9 +609,16 @@ title = "०३"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत्त॑ण्डु॒लैर्वै᳚श्वदे॒वन्तत् ।  
-यदा॒तञ्च॑नेन मानु॒षन्तत् ।  
+यत् त॑ण्डु॒लैर् +++(त॒ञ्च्याथ्)+++ वै᳚श्वदे॒वन्तत् ।  
+यदा॒तञ्च॑नेन +++(त॒ञ्च्याथ्)+++ मानु॒षन्तत् ।  
 </details>
+
+<details><summary>Keith</summary>
+
+if with rice grains, for the All-gods;  
+if with rennet, for men;
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -438,34 +633,49 @@ title = "०३"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद्द॒ध्ना तथ्सेन्द्र॑म् ।   
-द॒ध्ना त॑नक्ति ।
+यद् द॒ध्ना +++(त॒ञ्च्याथ्)+++ तथ् सेन्द्र॑म् ।   
+द॒ध्ना त॑नक्ति सेन्द्र॒त्वाय॑।
+</details>
+
+<details><summary>Keith</summary>
+
+if with curds, that has Indra.  
+He curdles it with curds [5] that it may have Indra. 
 </details>
 
 <details><summary>मूलम्</summary>
 
 यद्द॒ध्ना तथ्सेन्द्र॑म् ।   
-द॒ध्ना त॑नक्ति ।
+द॒ध्ना त॑नक्ति सेन्द्र॒त्वाय॑।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 आतञ्चनद्रव्यं दधि प्रसिद्धम् ।
+सेन्द्रमिन्द्रेण देवतया सहितम् । 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-से॒न्द्र॒त्वाया᳚ग्निहोत्रोच्छेष॒णम॒भ्यात॑नक्ति य॒ज्ञस्य॒ सन्त॑त्यै ।
+अग्निहोत्रोच्छेष॒णम् अ॒भ्यात॑नक्ति - य॒ज्ञस्य॒ सन्त॑त्यै ।
 </details>
+
+<details><summary>Keith</summary>
+
+He curdles the remains of the Agnihotra, for the continuity of the sacrifice. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-से॒न्द्र॒त्वाया᳚ग्निहोत्रोच्छेष॒णम॒भ्यात॑नक्ति य॒ज्ञस्य॒ सन्त॑त्यै ।
+अग्निहोत्रोच्छेष॒णम॒भ्यात॑नक्ति य॒ज्ञस्य॒ सन्त॑त्यै ।
 </details>
+
+
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-सेन्द्रमिन्द्रेण देवतया सहितम् । अग्निहोत्रोच्छेषणं अग्निहोत्रशेषः यवागूशेषः । तदभ्यातनक्ति दध्ना आतच्य उपर्यातनक्ति यज्ञस्याविच्छेदाय ॥
+अग्निहोत्रोच्छेषणं अग्निहोत्रशेषः यवागूशेषः । तदभ्यातनक्ति दध्ना आतच्य उपर्यातनक्ति यज्ञस्याविच्छेदाय ॥
 </details>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -473,14 +683,21 @@ title = "०३"
 इन्द्रो॑ वृ॒त्रꣳ ह॒त्वा परा᳚म्परा॒वत॑मगच्छ॒दपा॑राध॒मिति॒ मन्य॑मान॒स्तन्दे॒वता॒ᳶ प्रैष॑मैच्छ॒न्थ्सो᳚ऽब्रवीत्प्र॒जाप॑ति॒र्यᳶ प्र॑थ॒मो॑ऽनुवि॒न्दति॒ तस्य॑ प्रथ॒मम्भा॑ग॒धेय॒मिति॒ तम्पि॒तरोऽन्व॑विन्द॒न्तस्मा᳚त्पि॒तृभ्यᳶ॑ पूर्वे॒द्युᳵ क्रि॑यते
 </details>
 
+### पितृभ्यः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रो॑ वृ॒त्रꣳ ह॒त्वा परा᳚म्परा॒वत॑मगच्छत् ।  
+इन्द्रो॑ वृ॒त्रꣳ ह॒त्वा परा᳚म् परा॒वत॑म् अगच्छ॒द् अपा॑राध॒मिति॒ मन्य॑मानः।  
 </details>
+
+<details><summary>Keith</summary>
+
+Indra having slain Vrtra went to a great distance, thinking, 'I have sinned.' 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-इन्द्रो॑ वृ॒त्रꣳ ह॒त्वा परा᳚म्परा॒वत॑मगच्छत् ।  
+इन्द्रो॑ वृ॒त्रꣳ ह॒त्वा परा᳚म्परा॒वत॑मगच्छद् अपा॑राध॒मिति॒ मन्य॑मानः
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -490,12 +707,18 @@ title = "०३"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अपा॑राध॒मिति॒ मन्य॑मान॒स्तन्दे॒वता॒ᳶ प्रैष॑मैच्छन् ।  
+तन्दे॒वता॒ᳶ प्रैष॑मैच्छन् ।  
 </details>
+
+<details><summary>Keith</summary>
+
+The gods sought to start him. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-अपा॑राध॒मिति॒ मन्य॑मान॒स्तन्दे॒वता॒ᳶ प्रैष॑मैच्छन् ।  
+तन्दे॒वता॒ᳶ प्रैष॑मैच्छन् ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -505,12 +728,21 @@ title = "०३"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳚ऽब्रवीत् ।  
+सो᳚ऽब्रवीत् प्र॒जाप॑ति॒र् -  
+"यᳶ प्र॑थ॒मो॑ऽनुवि॒न्दति॒ तस्य॑ प्रथ॒मम् भा॑ग॒धेय॒म्" इति॑ ।
 </details>
+
+<details><summary>Keith</summary>
+
+Prajapati said, "He who first finds him will have the first share." 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 सो᳚ऽब्रवीत् ।  
+प्र॒जाप॑ति॒र्यᳶ प्र॑थ॒मो॑ऽनुवि॒न्दति॑ ।  
+तस्य॑ प्रथ॒मम्भा॑ग॒धेय॒मिति॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -520,11 +752,15 @@ title = "०३"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒जाप॑ति॒र्यᳶ प्र॑थ॒मो॑ऽनुवि॒न्दति॑ ।  
-तस्य॑ प्रथ॒मम्भा॑ग॒धेय॒मिति॑ ।  
 तम्पि॒तरोऽन्व॑विन्दन् ।  
-तस्मा᳚त्पि॒तृभ्यᳶ॑ पूर्वे॒द्युᳵ क्रि॑यते ।  
+तस्मा᳚त् पि॒तृभ्यᳶ॑ पूर्वे॒द्युᳵ क्रि॑यते ।  
 </details>
+
+<details><summary>Keith</summary>
+
+The Pitrs found him; therefore an offering is made to the Pitrs on the day before. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
