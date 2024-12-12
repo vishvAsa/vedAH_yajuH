@@ -498,7 +498,7 @@ verily curds (dadhi) has its name.
  दध्न इत्यनङादेशस्योदात्तत्वादुदात्तनिवृत्तिस्वरेण विभक्तेरुदात्तत्वम् ॥
 </details>
 
-## 
+### आनुपूर्वी
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ब्र॑ह्मवा॒दिनो॑ वदन्ति द॒ध्नᳶ पूर्व॑स्याव॒देय᳚म् [18]  दधि॒ हि पूर्व॑ङ्क्रि॒यत॒ इत्यना॑दृत्य॒ तच्छृ॒तस्यै॒व पूर्व॒स्याव॑ द्येदिन्द्रि॒यमे॒वास्मि॑न्वी॒र्यꣵ॑ श्रि॒त्वा द॒ध्नोपरि॑ष्टाद्धिनोति यथापू॒र्वमुपै॑ति
@@ -563,7 +563,7 @@ One should disregard that and offer ready (milk) first; verily one places power 
 यत्पू॒तीकै᳚र्वा पर्णव॒ल्कैर्वा॑त॒ञ्च्याथ्सौ॒म्यन्तद्यत्क्व॑लै राख्ष॒सन्तद्यत्त॑ण्डु॒लैर्वै᳚श्वदे॒वन्तद्यदा॒तञ्च॑नेन मानु॒षन्तद्यद्द॒ध्ना तथ्सेन्द्र॑न्द॒ध्ना त॑नक्ति [19]  से॒न्द्र॒त्वाया᳚ग्निहोत्रोच्छेष॒णम॒भ्यात॑नक्ति य॒ज्ञस्य॒ सन्त॑त्यै
 </details>
 
-## तञ्चनम्
+### तञ्चनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत् पू॒तीकै᳚र्वा पर्ण-व॒ल्कैर् वा॑ त॒ञ्च्याथ्  
@@ -588,8 +588,14 @@ If he curdles it with Putika plants or with bark, that is fit for Soma;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत् क्व॑लै राख्ष॒सन् तत् ।        
+यत् क्व॑लै +++(त॒ञ्च्याथ्)+++ - राख्ष॒सन् तत् ।        
 </details>
+
+<details><summary>Keith</summary>
+
+if with jujubes, that is for the Raksases; 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -603,9 +609,16 @@ If he curdles it with Putika plants or with bark, that is fit for Soma;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत्त॑ण्डु॒लैर्वै᳚श्वदे॒वन्तत् ।  
-यदा॒तञ्च॑नेन मानु॒षन्तत् ।  
+यत् त॑ण्डु॒लैर् +++(त॒ञ्च्याथ्)+++ वै᳚श्वदे॒वन्तत् ।  
+यदा॒तञ्च॑नेन +++(त॒ञ्च्याथ्)+++ मानु॒षन्तत् ।  
 </details>
+
+<details><summary>Keith</summary>
+
+if with rice grains, for the All-gods;  
+if with rennet, for men;
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -620,34 +633,49 @@ If he curdles it with Putika plants or with bark, that is fit for Soma;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद्द॒ध्ना तथ्सेन्द्र॑म् ।   
-द॒ध्ना त॑नक्ति ।
+यद् द॒ध्ना +++(त॒ञ्च्याथ्)+++ तथ् सेन्द्र॑म् ।   
+द॒ध्ना त॑नक्ति सेन्द्र॒त्वाय॑।
+</details>
+
+<details><summary>Keith</summary>
+
+if with curds, that has Indra.  
+He curdles it with curds [5] that it may have Indra. 
 </details>
 
 <details><summary>मूलम्</summary>
 
 यद्द॒ध्ना तथ्सेन्द्र॑म् ।   
-द॒ध्ना त॑नक्ति ।
+द॒ध्ना त॑नक्ति सेन्द्र॒त्वाय॑।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 आतञ्चनद्रव्यं दधि प्रसिद्धम् ।
+सेन्द्रमिन्द्रेण देवतया सहितम् । 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-से॒न्द्र॒त्वाया᳚ग्निहोत्रोच्छेष॒णम॒भ्यात॑नक्ति य॒ज्ञस्य॒ सन्त॑त्यै ।
+अग्निहोत्रोच्छेष॒णम् अ॒भ्यात॑नक्ति - य॒ज्ञस्य॒ सन्त॑त्यै ।
 </details>
+
+<details><summary>Keith</summary>
+
+He curdles the remains of the Agnihotra, for the continuity of the sacrifice. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-से॒न्द्र॒त्वाया᳚ग्निहोत्रोच्छेष॒णम॒भ्यात॑नक्ति य॒ज्ञस्य॒ सन्त॑त्यै ।
+अग्निहोत्रोच्छेष॒णम॒भ्यात॑नक्ति य॒ज्ञस्य॒ सन्त॑त्यै ।
 </details>
+
+
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-सेन्द्रमिन्द्रेण देवतया सहितम् । अग्निहोत्रोच्छेषणं अग्निहोत्रशेषः यवागूशेषः । तदभ्यातनक्ति दध्ना आतच्य उपर्यातनक्ति यज्ञस्याविच्छेदाय ॥
+अग्निहोत्रोच्छेषणं अग्निहोत्रशेषः यवागूशेषः । तदभ्यातनक्ति दध्ना आतच्य उपर्यातनक्ति यज्ञस्याविच्छेदाय ॥
 </details>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -655,14 +683,21 @@ If he curdles it with Putika plants or with bark, that is fit for Soma;
 इन्द्रो॑ वृ॒त्रꣳ ह॒त्वा परा᳚म्परा॒वत॑मगच्छ॒दपा॑राध॒मिति॒ मन्य॑मान॒स्तन्दे॒वता॒ᳶ प्रैष॑मैच्छ॒न्थ्सो᳚ऽब्रवीत्प्र॒जाप॑ति॒र्यᳶ प्र॑थ॒मो॑ऽनुवि॒न्दति॒ तस्य॑ प्रथ॒मम्भा॑ग॒धेय॒मिति॒ तम्पि॒तरोऽन्व॑विन्द॒न्तस्मा᳚त्पि॒तृभ्यᳶ॑ पूर्वे॒द्युᳵ क्रि॑यते
 </details>
 
+### पितृभ्यः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रो॑ वृ॒त्रꣳ ह॒त्वा परा᳚म्परा॒वत॑मगच्छत् ।  
+इन्द्रो॑ वृ॒त्रꣳ ह॒त्वा परा᳚म् परा॒वत॑म् अगच्छ॒द् अपा॑राध॒मिति॒ मन्य॑मानः।  
 </details>
+
+<details><summary>Keith</summary>
+
+Indra having slain Vrtra went to a great distance, thinking, 'I have sinned.' 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-इन्द्रो॑ वृ॒त्रꣳ ह॒त्वा परा᳚म्परा॒वत॑मगच्छत् ।  
+इन्द्रो॑ वृ॒त्रꣳ ह॒त्वा परा᳚म्परा॒वत॑मगच्छद् अपा॑राध॒मिति॒ मन्य॑मानः
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -672,12 +707,18 @@ If he curdles it with Putika plants or with bark, that is fit for Soma;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अपा॑राध॒मिति॒ मन्य॑मान॒स्तन्दे॒वता॒ᳶ प्रैष॑मैच्छन् ।  
+तन्दे॒वता॒ᳶ प्रैष॑मैच्छन् ।  
 </details>
+
+<details><summary>Keith</summary>
+
+The gods sought to start him. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-अपा॑राध॒मिति॒ मन्य॑मान॒स्तन्दे॒वता॒ᳶ प्रैष॑मैच्छन् ।  
+तन्दे॒वता॒ᳶ प्रैष॑मैच्छन् ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -687,12 +728,21 @@ If he curdles it with Putika plants or with bark, that is fit for Soma;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳚ऽब्रवीत् ।  
+सो᳚ऽब्रवीत् प्र॒जाप॑ति॒र् -  
+"यᳶ प्र॑थ॒मो॑ऽनुवि॒न्दति॒ तस्य॑ प्रथ॒मम् भा॑ग॒धेय॒म्" इति॑ ।
 </details>
+
+<details><summary>Keith</summary>
+
+Prajapati said, "He who first finds him will have the first share." 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 सो᳚ऽब्रवीत् ।  
+प्र॒जाप॑ति॒र्यᳶ प्र॑थ॒मो॑ऽनुवि॒न्दति॑ ।  
+तस्य॑ प्रथ॒मम्भा॑ग॒धेय॒मिति॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -702,11 +752,15 @@ If he curdles it with Putika plants or with bark, that is fit for Soma;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒जाप॑ति॒र्यᳶ प्र॑थ॒मो॑ऽनुवि॒न्दति॑ ।  
-तस्य॑ प्रथ॒मम्भा॑ग॒धेय॒मिति॑ ।  
 तम्पि॒तरोऽन्व॑विन्दन् ।  
-तस्मा᳚त्पि॒तृभ्यᳶ॑ पूर्वे॒द्युᳵ क्रि॑यते ।  
+तस्मा᳚त् पि॒तृभ्यᳶ॑ पूर्वे॒द्युᳵ क्रि॑यते ।  
 </details>
+
+<details><summary>Keith</summary>
+
+The Pitrs found him; therefore an offering is made to the Pitrs on the day before. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
