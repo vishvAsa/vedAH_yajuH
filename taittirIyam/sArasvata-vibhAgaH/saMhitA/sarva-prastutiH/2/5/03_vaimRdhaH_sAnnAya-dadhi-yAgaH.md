@@ -775,6 +775,7 @@ The Pitrs found him; therefore an offering is made to the Pitrs on the day befor
 अनुविन्दति अनुक्रमेण लभते । पूर्वेद्युः पूर्वस्मिन्नह्नि । 'सद्यः परुत्' इत्यादिना निपात्यते ॥
 </details>
 
+### अमावास्याया ऐन्द्रत्वम्
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 सो॑ऽमावा॒स्या᳚म्प्रत्याग॑च्छ॒त्तन्दे॒वा अ॒भि सम॑गच्छ॒न्तामा वै नः॑ [20]  अ॒द्य वसु॑ वस॒तीतीन्द्रो॒ हि दे॒वाना॒व्ँवसु॒ तद॑मावा॒स्या॑या अमावास्य॒त्वम्
@@ -782,8 +783,14 @@ The Pitrs found him; therefore an offering is made to the Pitrs on the day befor
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो॑ऽमावा॒स्या᳚म्प्रत्याग॑च्छत् ।
+सो॑ऽमावा॒स्या᳚म् प्रत्याग॑च्छत् ।
 </details>
+
+<details><summary>Keith</summary>
+
+He approached the new moon night; 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -797,38 +804,38 @@ The Pitrs found him; therefore an offering is made to the Pitrs on the day befor
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तन्दे॒वा अ॒भि सम॑गच्छन् ।  
+तन् दे॒वा अ॒भि सम॑गच्छन् - "तामा वै नो॒ऽद्य वसु॑ वस॒ती"ति॑ ।  
 </details>
+
+<details><summary>Keith</summary>
+
+the gods met him, (saying), 'Our treasure to-day at home [6] dwells', 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 तन्दे॒वा अ॒भि सम॑गच्छन् ।  
+ताम् आ वै नो॒ऽद्य वसु॑ वस॒तीति॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अथामावास्यायां देवास्तमिन्द्रमभि समगच्छन्त आभिमुख्येन सङ्गता अभवन् ।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-तामा वै नो॒ऽद्य वसु॑ वस॒तीति॑ ।   
-</details>
-
-<details><summary>मूलम्</summary>
-
-तामा वै नो॒ऽद्य वसु॑ वस॒तीति॑ ।   
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
 
 कथं वदन्तः? अद्य अस्मिन्नह्नि नः अस्माकं वसु अस्मदीयं धनं इन्द्रोयं अमा सहास्माभिर्वसतीति । एवं देवा वदन्त एनमिन्द्रमभिगताः समागताः ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रो॒ हि दे॒वाना॒व्ँवसु॑ ।  
+इन्द्रो॒ हि दे॒वाना॒व्ँ वसु॑ ।  
 </details>
+
+<details><summary>Keith</summary>
+
+for Indra is the treasure of the gods, 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -842,8 +849,14 @@ The Pitrs found him; therefore an offering is made to the Pitrs on the day befor
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद॑मावा॒स्या॑या अमावास्य॒त्वम्  ।  
+तद् अ॑मा-वा॒स्या॑या अमा+++(=सह)+++-वास्य॒त्वम्  ।  
 </details>
+
+<details><summary>हिन्दी</summary>
+
+and that is why the new moon night has its name (ama-vasya), 'home dwelling'). 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -863,10 +876,16 @@ The Pitrs found him; therefore an offering is made to the Pitrs on the day befor
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्र॒ह्म॒वा॒दिनो॑ वदन्ति  ।  
-कि॒न्दे॒व॒त्यꣳ॑ सान्ना॒य्यमिति॑ ।  
-वै॒श्व॒दे॒वमिति॑ ब्रूयात् ।  
-विश्वे॒ हि तद्दे॒वा भा॑ग॒धेय॑म॒भि स॒मग॑च्छ॒न्तेति॑ ।
+"कि॒न् दे॒व॒त्यꣳ॑ सान्ना॒य्यम्" इति॑ ।  
+"वै॒श्व॒दे॒वम्" इति॑ ब्रूयात् ।  
+"विश्वे॒ हि तद् दे॒वा भा॑ग॒धेय॑म् अ॒भि स॒मग॑च्छ॒न्ते"ति॑ ।
 </details>
+
+<details><summary>Keith</summary>
+
+The theologians say, What is the deity of the Samnayya?' 'The All-gods', he should reply, 'for so the All-gods won that as their share.' 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -881,21 +900,22 @@ The Pitrs found him; therefore an offering is made to the Pitrs on the day befor
 10वैश्वदेवमिति ॥ वृत्रवधादनन्तरमिन्द्रियं वीर्यं च दूरतरं गतम् । पितृभिः प्रत्यानीतमिन्द्रममावास्यायां सान्नाय्येन प्रवृद्धेन्द्रियवीर्यं कर्तुं विश्वेदेवास्तत्सान्नाय्य एवैन्द्रं भागधेयं अभिसमगच्छन्त । तस्माद्वैश्वदेवं भवितुं युक्तमिति ॥
 </details>
 
-<details><summary>मूलम् (संयुक्तम्)</summary>
-
-अथो॒ खल्वै॒न्द्रमित्ये॒व ब्रू॑या॒दिन्द्र॒व्ँवाव ते तद्भि॑ष॒ज्यन्तो॒ऽभि सम॑गच्छ॒न्तेति॑ ॥ [21]  
-</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथो॒ खल्वै॒न्द्रमित्ये॒व ब्रू॑यात् ।  
-इ॒न्द्र॒व्ँवाव ते तद्भि॑ष॒ज्यन्तो॒ऽभि सम॑गच्छ॒न्तेति॑ ॥
+अथो॒ खल्व् "ऐ॒न्द्रम्" इत्ये॒व ब्रू॑यात् -  
+इन्द्र॒व्ँ वाव ते तद् भि॑ष॒ज्यन्तो॒ ऽभि सम॑गच्छ॒न्तेति॑ ॥
 </details>
+
+<details><summary>Keith</summary>
+
+Or rather he should reply, 'Indra, for it was in healing Indra that they won it.'
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-अथो॒ खल्वै॒न्द्रमित्ये॒व ब्रू॑यात् ।  
-इ॒न्द्र॒व्ँवाव ते तद्भि॑ष॒ज्यन्तो॒ऽभि सम॑गच्छ॒न्तेति॑ ॥
+अथो॒ खल्वै॒न्द्रमित्ये॒व ब्रू॑या॒दिन्द्र॒व्ँवाव ते तद्भि॑ष॒ज्यन्तो॒ऽभि सम॑गच्छ॒न्तेति॑ ॥ [21]
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
