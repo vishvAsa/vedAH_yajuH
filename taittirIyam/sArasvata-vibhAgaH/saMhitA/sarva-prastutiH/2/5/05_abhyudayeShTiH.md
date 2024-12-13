@@ -609,14 +609,14 @@ This offering is called 'the friendly';
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यम् अ॒द्येजा॒नम् प॒श्चाच् च॒न्द्रमा॑ अ॒भ्यु॑देति,  
+यम् अ॒द्येजा॒नम् प॒श्चाच् च॒न्द्रमा॑ अ॒भ्यु॑देति +++(सूर्यास्त-समये)+++,  
 अ॒स्मिन्न् ए॒वास्मै॑ लो॒के ऽर्धु॑कम् भवति  ।  
 </details>
 
 <details><summary>Keith</summary>
 
 for him there is in this world prosperity  
-on whom the moon rises in the west??  
+on whom the moon rises in the west  
 after he has sacrificed on that day. 
 </details>
 
