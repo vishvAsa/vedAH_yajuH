@@ -5,6 +5,7 @@ title = "०५ अभ्युदयेष्टिः"
 
 प्रजापतिऋषिः ।
 
+## सोम-याज्य्-अधिकारः
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 नासो॑मयाजी॒ सन्न॑ये॒दना॑गत॒व्ँवा ए॒तस्य॒ पयो॒ योऽसो॑मयाजी॒ यदसो॑मयाजी स॒न्नये᳚त्परिमो॒ष ए॒व सोऽनृ॑तङ्करो॒त्यथो॒ परै॒व सि॑च्यते सोमया॒ज्ये॑व सन्न॑येत् ।
@@ -12,8 +13,14 @@ title = "०५ अभ्युदयेष्टिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नासो॑मयाजी॒ सन्न॑येत् ।   
+नासो॑मयाजी॒ सन्न॑येत् +++(अमावास्यासु दधि)+++।   
 </details>
+
+<details><summary>Keith</summary>
+
+No one who is not a Soma sacrificer should offer the Samnayya. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -27,12 +34,18 @@ title = "०५ अभ्युदयेष्टिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अना॑गत॒व्ँवा ए॒तस्य॒ पयः॑ ।  
+अना॑गत॒व्ँ वा ए॒तस्य॒ पयो॒ योऽसो॑मयाजी।  
 </details>
+
+<details><summary>Keith</summary>
+
+For the milk of him who is not a Soma sacrificer is imperfect, 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-अना॑गत॒व्ँवा ए॒तस्य॒ पयः॑ ।  
+अना॑गत॒व्ँ वा ए॒तस्य॒ पयो॒ योऽसो॑मयाजी।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -42,14 +55,26 @@ title = "०५ अभ्युदयेष्टिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-योऽसो॑मयाजी॒ यदसो॑मयाजी स॒न्नये᳚त् ।   
-प॒रि॒मो॒ष ए॒व सोऽनृ॑तङ्करोति ।  
+यद् असो॑मयाजी स॒न्नये᳚त् -   
+परिमो॒ष ए॒व सो,  
+ऽनृ॑तङ् करोति ।  
+अथो॒ परै॒व सि॑च्यते ।
 </details>
+
+<details><summary>Keith</summary>
+
+and if one who is not a Soma sacrificer offers the Samnayya  
+he is a thief  
+and does wrong,  
+and (his milk) is poured forth in vain.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-योऽसो॑मयाजी॒ यदसो॑मयाजी स॒न्नये᳚त् ।   
+यदसो॑मयाजी स॒न्नये᳚त् ।   
 प॒रि॒मो॒ष ए॒व सोऽनृ॑तङ्करोति ।  
+अथो॒ परै॒व सि॑च्यते ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -59,13 +84,17 @@ title = "०५ अभ्युदयेष्टिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथो॒ परै॒व सि॑च्यते ।   
 सो॒म॒या॒ज्ये॑व सन्न॑येत् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+A Soma sacrificer only should offer the Samnayya. 
+</details>
+
+
 <details><summary>मूलम्</summary>
 
-अथो॒ परै॒व सि॑च्यते ।   
 सो॒म॒या॒ज्ये॑व सन्न॑येत् ।  
 </details>
 
@@ -82,8 +111,16 @@ title = "०५ अभ्युदयेष्टिः"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पयो॒ वै सोमः॑ ।  
-पय॑स्सान्ना॒य्यम्पय॑सै॒व पय॑ आ॒त्मन्ध॑त्ते ।
+पय॑स्-सान्ना॒य्यम्।  
+पय॑सै॒व पय॑ आ॒त्मन् ध॑त्ते ।
 </details>
+
+<details><summary>Keith</summary>
+
+Soma is milk, the Samnayya is milk;  
+verily with milk he places milk in himself. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -101,14 +138,26 @@ title = "०५ अभ्युदयेष्टिः"
 वि वा ए॒तम्प्र॒जया॑ प॒शुभि॑रर्धयति व॒र्धय॑त्यस्य॒ भ्रातृ॑व्य॒य्ँयस्य॑ ह॒विर्निरु॑प्तम्पु॒रस्ता᳚च्च॒न्द्रमाः᳚ [27]  अ॒भ्यु॑देति॑ त्रे॒धा त॑ण्डु॒लान्वि भ॑जे॒द्ये म॑ध्य॒मास्स्युस्तान॒ग्नये॑ दा॒त्रे पु॑रो॒डाश॑म॒ष्टाक॑पालङ्कुर्यात्
 </details>
 
+## अभ्युदयः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वि वा ए॒तम्प्र॒जया॑ प॒शुभि॑रर्धयति ।   
+वि वा ए॒तम् प्र॒जया॑ प॒शुभि॑र् अर्धयति,   
+व॒र्धय॑त्यस्य॒ भ्रातृ॑व्यम्,  
+यस्य॑ ह॒विर् निरु॑प्तम् पु॒रस्ता᳚च् च॒न्द्रमा॑ अ॒भ्यु॒॑देति॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+The moon deprives him of offspring and cattle,  
+and makes his enemy wax great  
+on whose sacrifice, when offered, it rises in the east [1].
 </details>
 
 <details><summary>मूलम्</summary>
 
 वि वा ए॒तम्प्र॒जया॑ प॒शुभि॑रर्धयति ।   
+व॒र्धय॑त्यस्य॒ भ्रातृ॑व्यम् ।  
+यस्य॑ ह॒विर्निरु॑प्तम्पु॒रस्ता᳚च्च॒न्द्रमा॑ अ॒भ्यु॑देति॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -118,8 +167,6 @@ title = "०५ अभ्युदयेष्टिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व॒र्धय॑त्यस्य॒ भ्रातृ॑व्यम् ।  
-यस्य॑ ह॒विर्निरु॑प्तम्पु॒रस्ता᳚च्च॒न्द्रमा॑ अ॒भ्यु॑देति॑ ।  
 त्रे॒धा त॑ण्डु॒लान् वि भ॑जेत् ।  
 ये म॑ध्य॒मास्स्युस्तान॒ग्नये॑ दा॒त्रे पु॑रो॒डाश॑म॒ष्टाक॑पालङ्कुर्यात् ।  
 </details>
