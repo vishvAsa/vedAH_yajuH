@@ -141,9 +141,9 @@ verily with milk he places milk in himself.
 ## अभ्युदयः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वि वा ए॒तम् प्र॒जया॑ प॒शुभि॑र् अर्धयति,   
-व॒र्धय॑त्य् अस्य॒ भ्रातृ॑व्यम्,  
-यस्य॑ ह॒विर् निरु॑प्तम् पु॒रस्ता᳚च् च॒न्द्रमा॑ अ॒भ्यु॒॑देति॑ ।
+**वि** वा ए॒तम् प्र॒जया॑ प॒शुभि॑र् +++(वि←)+++**अर्धयति**,   
+**व॒र्धय॑त्य्** अस्य॒ भ्रातृ॑व्यम्,  
+यस्य॑ ह॒विर् निरु॑प्तम् पु॒रस्ता᳚च् च॒न्द्रमा॑ **अ॒भ्यु॒॑देति॑** ।
 </details>
 
 <details><summary>Keith</summary>
@@ -670,8 +670,8 @@ He who desires heaven should sacrifice with the Daksayana sacrifice.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पू॒र्णमा॑से॒ सन्न॑येन् मैत्रावरु॒ण्या ।  
-आ॒मिख्ष॑या ऽमावा॒स्या॑याय्ँ यजेत ।    
++++(द्वे)+++ पू॒र्णमा॑से॒ सन्न॑येन् मैत्रावरु॒ण्या ।  
++++(द्वे)+++ आ॒मिख्ष॑या ऽमावा॒स्या॑याय्ँ यजेत ।    
 </details>
 
 <details><summary>Keith</summary>
@@ -790,10 +790,20 @@ In that [4] he sacrifices on the day before, he makes the sacrificial enclosure.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद्व॒थ्सान् अ॑पाक॒रोति॑ -   
+यद् व॒थ्सान् अ॑पाक॒रोति॑ -   
 सदो-हविर्-धा॒ने ए॒व **सम्मि॑नोति** ।  
+
 यद् यज॑ते दे॒वैर् ए॒व सु॒त्याꣳ **सम्पा॑दयति**।  
 </details>
+
+<details><summary>Keith</summary>
+
+In that he drives away the calves,  
+he metes out the seat and the oblation holder.  
+
+In that he sacrifices, he produces with the gods the pressing day. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -809,8 +819,15 @@ In that [4] he sacrifices on the day before, he makes the sacrificial enclosure.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स ए॒तम॑र्धमा॒सꣳ स॑ध॒माद॑न्दे॒वैस्सोम॑म्पिबति ।  
+स ए॒तम् अ॑र्धमा॒सꣳ स॑ध॒माद॑न्  
+दे॒वैस् सोम॑म् **पिबति** ।  
 </details>
+
+<details><summary>Keith</summary>
+
+He drinks for the half-month Soma in carouse with the gods. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -819,19 +836,28 @@ In that [4] he sacrifices on the day before, he makes the sacrificial enclosure.
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-यस्मादेवं तस्मात्स इन्द्रः एतमागामिनमर्धमासं सर्वं देवैस्सधमादं सोमं पिबति । देवैस्सह मादयतीति सधमात् । 'सधमादस्थयोः' इति सधादेशः । यद्वा - सह मदित्वा ।
+यस्माद् एवं तस्मात् स इन्द्रः एतमागामिनमर्धमासं सर्वं देवैस्सधमादं सोमं पिबति । देवैस्सह मादयतीति सधमात् । 'सधमादस्थयोः' इति सधादेशः । यद्वा - सह मदित्वा ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यन्मै᳚त्रावरु॒ण्यामि॑ख्षयामावा॒स्या॑या॒य्ँयज॑ते ।  
-यैवासौ दे॒वाना᳚व्ँव॒शानू॑ब॒न्ध्या॑ ।
+यन् मै᳚त्रावरु॒ण्या ऽमि॑ख्षया ऽमावा॒स्या॑या॒य्ँ यज॑ते॒  
+यैवासौ दे॒वाना᳚व्ँ व॒शाऽनू॑ब॒न्ध्या॒॑  
+सो ए॒वैषैतस्य॑।
 </details>
+
+<details><summary>Keith</summary>
+
+In that he sacrifices at the new moon with clotted curds for Mitra and Varuna,  
+the cow which is slaughtered for the gods  
+becomes his also. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 यन्मै᳚त्रावरु॒ण्यामि॑ख्षयामावा॒स्या॑या॒य्ँयज॑ते ।  
-यैवासौ दे॒वाना᳚व्ँव॒शानू॑ब॒न्ध्या॑ ।
+यैवासौ दे॒वाना᳚व्ँव॒शानू॑ब॒न्ध्या॒ सो ए॒वैषैतस्य॑
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -841,15 +867,22 @@ In that [4] he sacrifices on the day before, he makes the sacrificial enclosure.
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-सो ए॒वैषैतस्य॑ सा॒ख्षाद्वा ए॒ष दे॒वान॒भ्यारो॑हति॒ य ए॑षाय्ँय॒ज्ञम् [31]  
+सा॒ख्षाद्वा ए॒ष दे॒वान॒भ्यारो॑हति॒ य ए॑षाय्ँय॒ज्ञम् [31]  
 अ॒भ्या॒रोह॑ति॒ यथा॒ खलु॒ वै श्रेया॑न॒भ्यारू॑ढᳵ का॒मय॑ते॒ तथा॑ करोति
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो ए॒वैषैतस्य॑ सा॒ख्षाद्वा ए॒ष दे॒वान॒भ्यारो॑हति ।  
-य ए॑षाय्ँय॒ज्ञम॑भ्या॒रोह॑ति ।  
+सा॒ख्षाद्वा ए॒ष दे॒वान् अ॒भ्यारो॑हति॒  
+य ए॑षाय्ँ य॒ज्ञम् अ॑भ्या॒रोह॑ति ।  
 </details>
+
+<details><summary>Keith</summary>
+
+He mounts upon the gods in truth  
+who mounts upon their sacrifice [5]. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -864,8 +897,15 @@ In that [4] he sacrifices on the day before, he makes the sacrificial enclosure.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यथा॒ खलु॒ वै श्रेया॑न॒भ्यारू॑ढᳵ का॒मय॑ते॒ तथा॑ करोति ।
+यथा॒ खलु॒ वै श्रेया॑न् अ॒भ्यारू॑ढᳵ का॒मय॑ते॒  
+तथा॑ करोति ।
 </details>
+
+<details><summary>Keith</summary>
+
+Just as a great man who has attained (fortune) desires (and does), so he does. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -877,46 +917,50 @@ In that [4] he sacrifices on the day before, he makes the sacrificial enclosure.
 यथेत्यादि । यथा लोके श्रेयान् अश्रेयांसमभ्यारूढमात्मानं कामयते इतोप्यहं श्रेयान् भूयासमिति तथाऽयं दाक्षायणयज्ञयाजी करोति ॥
 </details>
 
-## व्यावृत्-कामस्य दाक्षायणेष्टिः
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यद्य॑व॒विध्य॑ति॒ पापी॑यान्भवति॒ यदि॒ नाव॒विध्य॑ति स॒दृङ्व्या॒वृत्का॑म ए॒तेन॑ य॒ज्ञेन॑ यजेत ख्षु॒रप॑वि॒र्ह्ये॑ष य॒ज्ञस्ता॒जक्पुण्यो॑ वा॒ भव॑ति॒ प्र वा॑ मीयते
 </details>
 
+## व्यावृत्-कामस्य
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद्य॑व॒विध्य॑ति॒ पापी॑यान्भवति ।
+यद्य् **अ॑व॒विध्य॑ति॒**  
+पापी॑यान् भवति॒  
+यदि॒ नाव॒विध्य॑ति स॒दृङ् ।
 </details>
+
+<details><summary>Keith</summary>
+
+If he misses the mark  
+he becomes worse;  
+if he does not, he remains the same.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-यद्य॑व॒विध्य॑ति॒ पापी॑यान्भवति ।
+यद्य॑व॒विध्य॑ति॒ पापी॑यान्भवति॒  
+यदि॒ नाव॒विध्य॑ति स॒दृङ् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-11इदानीं यज्ञान्तरेभ्वोस्य वैलक्षण्यं दर्शयितुमाह - यदीति ॥ यागान्तरेषु यद्यवविध्यति विकलानुष्ठायी स्यात् । पापीयान् पापतरो भवति ।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-यदि॒ नाव॒विध्य॑ति स॒दृङ् ।   
-</details>
-
-<details><summary>मूलम्</summary>
-
-यदि॒ नाव॒विध्य॑ति स॒दृङ् ।   
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
+11इदानीं यज्ञान्तरेभोस्य वैलक्षण्यं दर्शयितुमाह - यदीति ॥ यागान्तरेषु यद्यवविध्यति विकलानुष्ठायी स्यात् । पापीयान् पापतरो भवति ।
 
 यदि वा नावविध्यति सदृङ् सदृश एव यजमानान्तरैः स्यात् न तु विशेषैश्वर्यस्स्यात् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व्या॒वृत्का॑म ए॒तेन॑ य॒ज्ञेन॑ यजेत ।
+व्या॒वृत्-का॑म ए॒तेन॑ य॒ज्ञेन॑ यजेत ।
 </details>
+
+<details><summary>Keith</summary>
+
+One who desires distinction should sacrifice with it, 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -930,8 +974,17 @@ In that [4] he sacrifices on the day before, he makes the sacrificial enclosure.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ख्षु॒रप॑वि॒र्ह्ये॑ष य॒ज्ञस्ता॒जक्पुण्यो॑ वा॒ भव॑ति॒ प्र वा॑ मीयते  ।
+ख्षु॒र-प॑वि॒र् ह्य् ए॒॑ष य॒ज्ञस्  
+ता॒जक् पुण्यो॑ वा॒ भव॑ति॒  
+प्र वा॑ मीयते  ।
 </details>
+
+<details><summary>Keith</summary>
+
+for this sacrifice has a razor edge,  
+and swiftly he becomes holy or perishes. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -950,14 +1003,23 @@ In that [4] he sacrifices on the day before, he makes the sacrificial enclosure.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्यै॒तद्व्र॒तम् ।  
+तस्यै॒तद् व्र॒तम् -  
 नानृ॑तव्ँवदेत्  ।  
-न मा॒ꣳ॒सम॑श्ञीयात् ।  
-न स्त्रिय॒मुपे॑यात् ।  
+न मा॒ꣳ॒सम् अ॑श्ञीयात् ।  
+न स्त्रिय॒म् उपे॑यात् ।  
 नास्य॒ पल्पू॑लनेन॒ वासᳶ॑ पल्पूलयेयुः।  
-
-ए॒तद्धि दे॒वास्सर्व॒न्न कु॒र्वन्ति॑ ॥  
+ए॒तद् +धि दे॒वास् सर्व॒न् न कु॒र्वन्ति॑ ॥  
 </details>
+
+<details><summary>Keith</summary>
+
+His vow is: he shall not speak untruth;  
+he shall not eat meat;  
+he shall not approach for all a woman;  
+they shall not clean his raiment with cleansing stuff;  
+for all these things the gods do not do.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
