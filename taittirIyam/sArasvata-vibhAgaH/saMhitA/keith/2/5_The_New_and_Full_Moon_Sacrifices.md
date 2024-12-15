@@ -3,17 +3,9 @@ title = "5 The New and Full Moon Sacrifices"
 
 +++
 
-
-## 05
+## 06
 ...
 
-
-
-
-
-
-
-## 06
 The new and the full moon (sacrifices) are the chariot of the gods. He, who having offered the new and the full moon (sacrifices) Sacrifices with Soma, rests in the chosen resting-place of the gods which is conspicuous for its chariot (tracks). The new and the full moons are the limbs and joints of the year; he who knowing thus offers the new and the full moon (sacrifices) thus unites the limbs and joints of the year. The new and the full moon are the eyes of the year; he who knowing thus offers the new and the full moon (sacrifices) thus sees with them along the world of heaven [1]. The
   
 which the gods fare. The new and the full moons are the bay steeds of the gods; he who knowing thus offers the new and the full moon (sacrifices) carries to the gods with their two bay steeds [2] the offering. The new and the full moon (sacrifices) are the mouth of the gods; he who knowing thus offers the new and the full moon (sacrifices) manifestly sacrifices in the mouth of the gods. He who offers the new and the full moon sacrifices possesses an oblation holder. He offers the Agnihotra morn and evening, he offers the new and the full moon (sacrifices); on every day (the Soma) of those who have oblation holders is pressed. By him who knowing thus offers the new and the full moon (sacrifices) regarding himself as possessiug an oblation holder, everything is given as on the strew. The gods [3] could not find the suitable day for the sacrifice. They purified the new and full moons; the new and the full moon (sacrifices) are these pure and sacrificial (days). He who knowing thus offers the new and the full moon (sacrifices) offers them as pure and sacrificial. One should not approach a woman on the new moon or the full moon night; if one were to do so, one would be impotent. The nights of the half-month were the wives of King Soma; of these be did not approach the new moon night and the full moon night [4]. They grasped him about, and illness seized him. 'Illness has seized the king'; that (saying) is the origin of the 'king's evil '. In that he became worse, that is (the origin) of the 'bad illness'; because he got it from his wives, that is (the origin) of the 'wife's disease' (Jayenya), him who knows thus the origin of these illnesses, these illnesses do not visit. He ran up to these two in reverence; they said, 'Let us choose a boon; let us be the appointers of portions for the gods [5]; from us let the gods be sacrificed to.' Therefore of the series of nights it is on the new and the full moon night that the gods are sacrificed to; for they are the appointers of portions for the gods. Men appoint portions to him who knows thus. Creatures slew hunger, man at once, the gods at the half-month, the Pitrs in a month, trees in a year. Therefore day by day men desire food, at the half-month the gods are sacrificed to, every month offering is made to the Pitrs, in a year trees produce fruit. He who knows thus slays the enemy, hunger.  
