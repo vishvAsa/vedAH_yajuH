@@ -1,9 +1,16 @@
 +++
-title = "०६ दर्शपूर्णमासयोः सोमयागेन सह पौर्वापर्यम्"
+title = "०६ दर्शपूर्णमासौ सोमात् प्राक्"
 
 +++
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+दर्शपूर्णमासयोः सोमयागेन सह पौर्वापर्यम्  
 प्रजापतिऋषिः ।
+
+</details>
+
+## रथत्वम्
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -14,6 +21,12 @@ title = "०६ दर्शपूर्णमासयोः सोमयाग
 
 ए॒ष वै दे॑वर॒थो यद् द॑र्शपूर्णमा॒सौ ।
 </details>
+
+<details><summary>Keith</summary>
+
+The new and the full moon (sacrifices) are the chariot of the gods. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -27,9 +40,17 @@ title = "०६ दर्शपूर्णमासयोः सोमयाग
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो द॑र्शपूर्णमा॒साव् इ॒ष्ट्वा सोमे॑न॒ यज॑ते॒
-रथ॑स्पष्ट ए॒वाव॒साने॒ वरे॑ दे॒वाना॒म् **अव॑ स्यति** ।
+यो द॑र्शपूर्णमा॒साव् **इ॒ष्ट्वा** सोमे॑न॒ **यज॑ते॒**
+रथ॑-स्पष्ट ए॒वाव॒साने॒ वरे॑ दे॒वाना॒म् **अव॑ स्यति** ।
 </details>
+
+<details><summary>Keith</summary>
+
+He, who having offered the new and the full moon (sacrifices) sacrifices with Soma,  
+rests in the chosen resting-place of the gods  
+which is conspicuous for its chariot (tracks). 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -43,14 +64,21 @@ title = "०६ दर्शपूर्णमासयोः सोमयाग
 तत्र देवानां वरे उत्कृष्टे अवसाने देवानां स्वभूते देवानां गृहे अवस्यति देवयजनमध्यवस्यति । तादृशे देवैः स्वभ्यस्ते देवयजनेऽनेनेष्टं भवति ॥
 </details>
 
+## संवत्सराङ्गत्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒तानि॒ वा अङ्गा॒परूꣳ॑षि ।
+ए॒तानि॒ वा अङ्गा॒परूꣳ॑षि सव्ँवथ्स॒रस्य॒ यद् द॑र्श-पूर्णमा॒सौ।
 </details>
+
+<details><summary>Keith</summary>
+
+The new and the full moons are the limbs and joints of the year; 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-ए॒तानि॒ वा अङ्गा॒परूꣳ॑षि ।
+ए॒तानि॒ वा अङ्गा॒परूꣳ॑षि सव्ँवथ्स॒रस्य॒ यद्द॑र्शपूर्णमा॒सौ
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -58,31 +86,57 @@ title = "०६ दर्शपूर्णमासयोः सोमयाग
 2अङ्गापरूंषि अङ्गानि च परूंषि पर्वाणि च संवत्सरस्थितिहेतुत्वात् । 'परादिश्छन्दसि' इत्युत्तरपदाद्युदात्तत्वम् । प्रतिधानं अविचलितस्थापनम् ॥
 </details>
 
-<details><summary>मूलम् (संयुक्तम्)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सव्ँवथ्स॒रस्य॒ यद्द॑र्शपूर्णमा॒सौ य ए॒वव्ँवि॒द्वान्द॑र्शपूर्णमा॒सौ यज॒तेऽङ्गा॒परूꣳ॑ष्ये॒व स॑व्ँवथ्स॒रस्य॒ प्रति॑ दधाति
-ए॒ते वै स॑व्ँवथ्स॒रस्य॒ चख्षु॑षी॒ यद्द॑र्शपूर्णमा॒सौ य ए॒वव्ँवि॒द्वान्द॑र्शपूर्णमा॒सौ यज॑ते॒ ताभ्या॑मे॒व सु॑व॒र्गल्ँलो॒कमनु॑ पश्यति    
+य ए॒वव्ँ वि॒द्वान् द॑र्शपूर्णमा॒सौ यज॒ते  
+ऽङ्गा॒परूꣳ॑ष्य् ए॒व स॑व्ँवथ्स॒रस्य॒ प्रति॑ दधाति
+</details>
+
+<details><summary>Keith</summary>
+
+he who knowing thus offers the new and the full moon (sacrifices)  
+thus unites the limbs and joints of the year. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+य ए॒वव्ँवि॒द्वान्द॑र्शपूर्णमा॒सौ यज॒तेऽङ्गा॒परूꣳ॑ष्ये॒व स॑व्ँवथ्स॒रस्य॒ प्रति॑ दधाति
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒व्ँव॒थ्स॒रस्य  यद्द॑र्शपूर्णमा॒सौ।   
-य ए॒वव्ँवि॒द्वान्द॑र्शपूर्णमा॒सौ यज॑ते ।  
-अङ्गा॒परूꣳ॑ष्ये॒व स॑व्ँवथ्स॒रस्य॒ प्रति॑ दधाति  ।  
-ए॒ते वै स॑व्ँवथ्स॒रस्य॒ चख्षु॑षी॒ यद्द॑र्शपूर्णमा॒सौ ।   
-य ए॒वव्ँवि॒द्वान्द॑र्शपूर्णमा॒सौ यज॑ते ।  
-ताभ्या॑मे॒व सु॑व॒र्गल्ँलो॒कमनु॑ पश्यति।  
+ए॒ते वै स॑व्ँवथ्स॒रस्य॒ चख्षु॑षी॒ यद्द॑र्शपूर्णमा॒सौ 
 </details>
+
+<details><summary>Keith</summary>
+
+The new and the full moon are the eyes of the year; 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-स॒व्ँव॒थ्स॒रस्य  यद्द॑र्शपूर्णमा॒सौ।   
-य ए॒वव्ँवि॒द्वान्द॑र्शपूर्णमा॒सौ यज॑ते ।  
-अङ्गा॒परूꣳ॑ष्ये॒व स॑व्ँवथ्स॒रस्य॒ प्रति॑ दधाति  ।  
-ए॒ते वै स॑व्ँवथ्स॒रस्य॒ चख्षु॑षी॒ यद्द॑र्शपूर्णमा॒सौ ।   
-य ए॒वव्ँवि॒द्वान्द॑र्शपूर्णमा॒सौ यज॑ते ।  
-ताभ्या॑मे॒व सु॑व॒र्गल्ँलो॒कमनु॑ पश्यति।  
+ए॒ते वै स॑व्ँवथ्स॒रस्य॒ चख्षु॑षी॒ यद्द॑र्शपूर्णमा॒सौ 
 </details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+य ए॒वव्ँ वि॒द्वान् द॑र्शपूर्णमा॒सौ यज॑ते॒  
+ताभ्या॑म् ए॒व सु॑व॒र्गल्ँ लो॒कम् अनु॑ पश्यति    
+</details>
+
+<details><summary>Keith</summary>
+
+he who knowing thus offers the new and the full moon (sacrifices) thus sees with them along the world of heaven [1].
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+य ए॒वव्ँवि॒द्वान्द॑र्शपूर्णमा॒सौ यज॑ते॒ ताभ्या॑मे॒व सु॑व॒र्गल्ँलो॒कमनु॑ पश्यति    
+</details>
+
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -94,16 +148,40 @@ title = "०६ दर्शपूर्णमासयोः सोमयाग
 ए॒षा वै दे॒वाना॒व्ँविक्रा᳚न्ति॒र्यद्द॑र्शपूर्णमा॒सौ य ए॒वव्ँवि॒द्वान्द॑र्शपूर्णमा॒सौ यज॑ते दे॒वाना॑मे॒व विक्रा᳚न्ति॒मनु॒ वि क्र॑मते
 </details>
 
+## देव-विक्रान्तिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒षा वै दे॒वाना॒व्ँविक्रा᳚न्ति॒र्यद्द॑र्शपूर्णमा॒सौ ।   
-य ए॒वव्ँवि॒द्वान्द॑र्शपूर्णमा॒सौ यज॑ते ।   
+ए॒षा वै दे॒वाना॒व्ँ विक्रा᳚न्ति॒र् यद् द॑र्श-पूर्णमा॒सौ ।   
 </details>
+
+<details><summary>English</summary>
+
+The new and the full moon are the striding of the gods; 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-ए॒षा वै दे॒वाना॒व्ँविक्रा᳚न्ति॒र्यद्द॑र्शपूर्णमा॒सौ ।   
-य ए॒वव्ँवि॒द्वान्द॑र्शपूर्णमा॒सौ यज॑ते ।   
+ए॒षा वै दे॒वाना॒व्ँ विक्रा᳚न्ति॒र्यद्द॑र्शपूर्णमा॒सौ ।   
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+य ए॒वव्ँवि॒द्वान्द॑र्शपूर्णमा॒सौ यज॑ते    
+दे॒वाना॑म् ए॒व विक्रा᳚न्ति॒म् अनु॒ वि क्र॑मते  ।
+</details>
+
+<details><summary>Keith</summary>
+
+he who knowing thus offers the new and the full moon (sacrifices) steps in the striding of the gods.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+य ए॒वव्ँवि॒द्वान्द॑र्शपूर्णमा॒सौ यज॑ते    
+दे॒वाना॑मे॒व विक्रा᳚न्ति॒मनु॒ वि क्र॑मते  ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -111,21 +189,12 @@ title = "०६ दर्शपूर्णमासयोः सोमयाग
 4विक्रान्तिर्विशिष्टं क्रम्णं आभ्यां देवा हि विक्रमवन्तो वीरा भवन्ति धारकत्वात्तेषाम् ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-दे॒वाना॑मे॒व विक्रा᳚न्ति॒मनु॒ वि क्र॑मते  ।  
-</details>
-
-<details><summary>मूलम्</summary>
-
-दे॒वाना॑मे॒व विक्रा᳚न्ति॒मनु॒ वि क्र॑मते  ।  
-</details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अनु विक्रमते इति । यत्रयत्र देवा विक्रमन्ते तत्रतत्रायमप्रतिबन्धेन विक्रमते । लक्षणेनोः कर्मप्रवचनीयत्वम् । 'वृत्तिसर्गतायनेषु क्रमः' इति वृत्तावात्मनेपदम् ॥
 </details>
 
+## देव-पन्था
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ए॒ष वै दे॑व॒यान॒ᳶ पन्था॒ यद्द॑र्शपूर्णमा॒सौ य ए॒वव्ँवि॒द्वान्द॑र्शपूर्णमा॒सौ यज॑ते॒ य ए॒व दे॑व॒यान॒ᳶ पन्था॒स्तꣳ स॒मारो॑हति
@@ -133,22 +202,43 @@ title = "०६ दर्शपूर्णमासयोः सोमयाग
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ष वै दे॑व॒यान॒ᳶ पन्था॒ यद्द॑र्शपूर्णमा॒सौ ।   
-य ए॒वव्ँवि॒द्वान्द॑र्शपूर्णमा॒सौ यज॑ते  ।  
-य ए॒व दे॑व॒यान॒ᳶ पन्था॒स्तꣳ स॒मारो॑हति ।  
+ए॒ष वै दे॑व॒यान॒ᳶ पन्था॒ यद्द॑र्शपूर्णमा॒सौ
+</details>
+
+<details><summary>Keith</summary>
+
+The new and the full moon are the path on which the gods fare;
 </details>
 
 <details><summary>मूलम्</summary>
 
-ए॒ष वै दे॑व॒यान॒ᳶ पन्था॒ यद्द॑र्शपूर्णमा॒सौ ।   
-य ए॒वव्ँवि॒द्वान्द॑र्शपूर्णमा॒सौ यज॑ते  ।  
-य ए॒व दे॑व॒यान॒ᳶ पन्था॒स्तꣳ स॒मारो॑हति ।  
+ए॒ष वै दे॑व॒यान॒ᳶ पन्था॒ यद्द॑र्शपूर्णमा॒सौ
 </details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+य ए॒वव्ँवि॒द्वान्द॑र्शपूर्णमा॒सौ यज॑ते॒ य ए॒व दे॑व॒यान॒ᳶ पन्था॒स्तꣳ स॒मारो॑हति
+</details>
+
+<details><summary>Keith</summary>
+
+he who knowing thus offers the new and the full moon (sacrifices) mounts the path on which the gods fare.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+य ए॒वव्ँवि॒द्वान्द॑र्शपूर्णमा॒सौ यज॑ते॒ य ए॒व दे॑व॒यान॒ᳶ पन्था॒स्तꣳ स॒मारो॑हति
+</details>
+
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 5देवयान इति ॥ देवा येन यान्ति स देवप्रयातो मार्गो देवयानः । देवैस्सदा मुक्तमार्ग एवेति ॥
 </details>
+
+## देव-हरी
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -157,16 +247,36 @@ title = "०६ दर्शपूर्णमासयोः सोमयाग
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒तौ वै दे॒वाना॒ꣳ॒ हरी॒ यद्द॑र्शपूर्णमा॒सौ ।  
-य ए॒वव्ँवि॒द्वान्द॑र्शपूर्णमा॒सौ यज॑ते ।  
-यावे॒व दे॒वाना॒ꣳ॒ हरी॒ ताभ्या᳚मे॒वैभ्यो॑ ह॒व्यव्ँव॑हति ।
+ए॒तौ वै दे॒वाना॒ꣳ॒ हरी॒ यद्द॑र्शपूर्णमा॒सौ ।
 </details>
+
+<details><summary>Keith</summary>
+
+The new and the full moons are the bay steeds of the gods;
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-ए॒तौ वै दे॒वाना॒ꣳ॒ हरी॒ यद्द॑र्शपूर्णमा॒सौ ।  
-य ए॒वव्ँवि॒द्वान्द॑र्शपूर्णमा॒सौ यज॑ते ।  
-यावे॒व दे॒वाना॒ꣳ॒ हरी॒ ताभ्या᳚मे॒वैभ्यो॑ ह॒व्यव्ँव॑हति ।
+ए॒तौ वै दे॒वाना॒ꣳ॒ हरी॒ यद्द॑र्शपूर्णमा॒सौ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+य ए॒वव्ँ वि॒द्वान् द॑र्शपूर्णमा॒सौ यज॑ते॒  
+याव् ए॒व दे॒वाना॒ꣳ॒ हरी॒  
+ताभ्या᳚म् [34]  ए॒वैभ्यो॑ ह॒व्यव्ँ व॑हति ।
+</details>
+
+<details><summary>Keith</summary>
+
+he who knowing thus offers the new and the full moon (sacrifices) carries to the gods with their two bay steeds [2] the offering. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+य ए॒वव्ँवि॒द्वान्द॑र्शपूर्णमा॒सौ यज॑ते॒ यावे॒व दे॒वाना॒ꣳ॒ हरी॒ ताभ्या᳚म् [34]  ए॒वैभ्यो॑ ह॒व्यव्ँव॑हति ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -174,6 +284,7 @@ title = "०६ दर्शपूर्णमासयोः सोमयाग
 6देवा येन प्राप्यन्ते देवप्राप्तिहेतुत्वात् हरी अश्वौ हविषां वाहनस्थानीयत्वात् ॥
 </details>
 
+## देवास्यम्
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ए॒तद्वै दे॒वाना॑मा॒स्य॑य्ँयद्द॑र्शपूर्णमा॒सौ य ए॒वव्ँवि॒द्वान्द॑र्शपूर्णमा॒सौ यज॑ते सा॒ख्षादे॒व दे॒वाना॑मा॒स्ये॑ जुहोति
@@ -181,18 +292,33 @@ title = "०६ दर्शपूर्णमासयोः सोमयाग
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒तद्वै दे॒वाना॑मा॒स्य॑य्ँयद्द॑र्शपूर्णमा॒सौ ।  
-य ए॒वव्ँवि॒द्वान्द॑र्शपूर्णमा॒सौ यज॑ते ।  
+ए॒तद्वै दे॒वाना॑मा॒स्य॑य्ँ यद् द॑र्शपूर्णमा॒सौ
+</details>
 
-सा॒ख्षादे॒व दे॒वाना॑मा॒स्ये॑ जुहोति ।
+<details><summary>Keith</summary>
+
+The new and the full moon (sacrifices) are the mouth of the gods; 
 </details>
 
 <details><summary>मूलम्</summary>
 
-ए॒तद्वै दे॒वाना॑मा॒स्य॑य्ँयद्द॑र्शपूर्णमा॒सौ ।  
-य ए॒वव्ँवि॒द्वान्द॑र्शपूर्णमा॒सौ यज॑ते ।  
+ए॒तद्वै दे॒वाना॑मा॒स्य॑य्ँयद्द॑र्शपूर्णमा॒सौ
+</details>
 
-सा॒ख्षादे॒व दे॒वाना॑मा॒स्ये॑ जुहोति ।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+य ए॒वव्ँ वि॒द्वान् द॑र्शपूर्णमा॒सौ यज॑ते  
+सा॒ख्षाद् ए॒व दे॒वाना॑म् आ॒स्ये॑ जुहोति
+</details>
+
+<details><summary>Keith</summary>
+
+he who knowing thus offers the new and the full moon (sacrifices) manifestly sacrifices in the mouth of the gods. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+य ए॒वव्ँवि॒द्वान्द॑र्शपूर्णमा॒सौ यज॑ते सा॒ख्षादे॒व दे॒वाना॑मा॒स्ये॑ जुहोति
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -200,6 +326,7 @@ title = "०६ दर्शपूर्णमासयोः सोमयाग
 7आस्यमिति ॥ अभ्यवहतर्व्याधारत्वात् । साक्षादव्यवधानेन देवानामास्ये हुतं भवति ॥
 </details>
 
+## हविर्धानी
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ए॒ष वै ह॑विर्धा॒नी यो द॑र्शपूर्णमासया॒जी सा॒यम्प्रा॑तरग्निहो॒त्रञ्जु॑होति॒ यज॑ते दर्शपूर्णमा॒सावह॑रहर्हविर्धा॒निनाꣳ॑ सु॒तः
@@ -207,51 +334,50 @@ title = "०६ दर्शपूर्णमासयोः सोमयाग
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ष वै ह॑विर्धा॒नी यो द॑र्शपूर्णमासया॒जी सा॒यम्प्रा॑तरग्निहो॒त्रञ्जु॑होति ।
+ए॒ष वै ह॑विर्धा॒नी यो द॑र्शपूर्णमासया॒जी  
+सा॒यम् प्रा॑तर् अग्निहो॒त्रञ् जु॑होति॒  
+यज॑ते दर्शपूर्णमा॒सौ।  
+अह॑र्-अहर् हविर्धा॒निनाꣳ॑ सु॒तः।
+</details>
+
+<details><summary>Keith</summary>
+
+He who offers the new and the full moon sacrifices possesses an oblation holder.  
+He offers the Agnihotra morn and evening,  
+he offers the new and the full moon (sacrifices);  
+on every day (the Soma) of those who have oblation holders is pressed.
 </details>
 
 <details><summary>मूलम्</summary>
 
-ए॒ष वै ह॑विर्धा॒नी यो द॑र्शपूर्णमासया॒जी सा॒यम्प्रा॑तरग्निहो॒त्रञ्जु॑होति ।
+ए॒ष वै ह॑विर्धा॒नी यो द॑र्शपूर्णमासया॒जी सा॒यम्प्रा॑तरग्निहो॒त्रञ्जु॑होति॒ यज॑ते दर्शपूर्णमा॒सावह॑रहर्हविर्धा॒निनाꣳ॑ सु॒तः
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 8हविर्धानी ॥ सोमस्य हविराधारदर्शपूर्णमासवत्त्वात् दर्शपूर्णमासयाजी हविर्धानी ।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-यज॑ते दर्शपूर्णमा॒सावह॑रहर्हविर्धा॒निनाꣳ॑ सु॒तः ।
-</details>
-
-<details><summary>मूलम्</summary>
-
-यज॑ते दर्शपूर्णमा॒सावह॑रहर्हविर्धा॒निनाꣳ॑ सु॒तः ।
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
 
 किञ्च - यदयं सायं प्रातरग्निहोर्त्रं जुहोति दर्शपूर्णमासावेवाहरहर्यजते । यस्मादयं हविर्धानिनां सुतोपि हविर्धानीभिस्सुन्वानैरनुज्ञातः । हविर्धानित्वं पर्वणिपर्वण्यसुन्वानत्वमस्यानुमन्यते । पर्वणि सुन्वानः अहरहर्दर्शपूर्णमासयाजी भवति ॥
 </details>
 
-<details><summary>मूलम् (संयुक्तम्)</summary>
-
-य ए॒वव्ँवि॒द्वान्द॑र्शपूर्णमा॒सौ यज॑ते हविर्धा॒न्य॑स्मीति॒ सर्व॑मे॒वास्य॑ बर्हि॒ष्य॑न्द॒त्तम्भ॑वति
-</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य ए॒वव्ँवि॒द्वान्द॑र्शपूर्णमा॒सौ यज॑ते ।  
- ह॒वि॒र्धा॒न्य॑स्मीति॑ ।  
-सर्व॑मे॒वास्य॑ बर्हि॒ष्य॑न्द॒त्तम्भ॑वति ।  
+य ए॒वव्ँ वि॒द्वान् द॑र्शपूर्णमा॒सौ यज॑ते  
+हविर्धा॒न्य् अ॑स्मीति॒  
+सर्व॑म् ए॒वास्य॑ बर्हि॒ष्य॑न् द॒त्तम् भ॑वति
+</details>
+
+<details><summary>Keith</summary>
+
+By him who knowing thus offers the new and the full moon (sacrifices)  
+regarding himself as possessing an oblation holder,  
+everything is given as on the strew.  
 </details>
 
 <details><summary>मूलम्</summary>
 
-य ए॒वव्ँवि॒द्वान्द॑र्शपूर्णमा॒सौ यज॑ते ।  
- ह॒वि॒र्धा॒न्य॑स्मीति॑ ।  
-सर्व॑मे॒वास्य॑ बर्हि॒ष्य॑न्द॒त्तम्भ॑वति ।  
+य ए॒वव्ँवि॒द्वान्द॑र्शपूर्णमा॒सौ यज॑ते हविर्धा॒न्य॑स्मीति॒ सर्व॑मे॒वास्य॑ बर्हि॒ष्य॑न्द॒त्तम्भ॑वति
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -259,6 +385,7 @@ title = "०६ दर्शपूर्णमासयोः सोमयाग
 9य एवमित्यादि ॥ एवं हविर्धान्यस्मीति विद्वान् य एतौ यजते अस्य सम्बन्धि यद्दत्तं यावान् कश्चिदस्य धनव्ययः स सर्वो बर्हिषि यज्ञे विनियुक्तो भवति । सहविर्धानत्वात् सर्वो व्ययो यज्ञे व्ययो भवतीति ॥
 </details>
 
+## पवित्रता
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 दे॒वा वा अहः॑ [35]  य॒ज्ञिय॒न्नावि॑न्द॒न्ते द॑र्शपूर्णमा॒साव॑पुन॒न्तौ वा ए॒तौ पू॒तौ मेध्यौ॒ यद्द॑र्शपूर्णमा॒सौ य ए॒वव्ँवि॒द्वान्द॑र्शपूर्णमा॒सौ यज॑ते पू॒तावे॒वैनौ॒ मेध्यौ॑ यजते॒
@@ -266,8 +393,14 @@ title = "०६ दर्शपूर्णमासयोः सोमयाग
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वा वा अह॑र्य॒ज्ञिय॒न्नावि॑न्दन्  ।
+दे॒वा वा अह॑र् य॒ज्ञिय॒न् नावि॑न्दन्  ।
 </details>
+
+<details><summary>Keith</summary>
+
+The gods [3] could not find the suitable day for the sacrifice. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -281,10 +414,16 @@ title = "०६ दर्शपूर्णमासयोः सोमयाग
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते द॑र्शपूर्णमा॒साव॑पुनन् ।
-
-तौ वा ए॒तौ पू॒तौ मेध्यौ॒ यद्द॑र्शपूर्णमा॒सौ ।
+ते द॑र्शपूर्णमा॒साव् अ॑पुनन् ।
+तौ वा ए॒तौ पू॒तौ मेध्यौ॒ यद् द॑र्शपूर्णमा॒सौ ।
 </details>
+
+<details><summary>Keith</summary>
+
+They purified the new and full moons;  
+the new and the full moon (sacrifices) are these pure and sacrificial (days). 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -300,8 +439,14 @@ title = "०६ दर्शपूर्णमासयोः सोमयाग
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य ए॒वव्ँवि॒द्वान्द॑र्शपूर्णमा॒सौ यज॑ते ।
-पू॒तावे॒वैनौ॒ मेध्यौ॑ यजते ।
+य ए॒वव्ँ वि॒द्वान् द॑र्शपूर्णमा॒सौ यज॑ते
+पू॒ताव् ए॒वैनौ॒ मेध्यौ॑ यजते ।
+</details>
+
+<details><summary>Keith</summary>
+
+He who knowing thus offers the new and the full moon (sacrifices)  
+offers them as pure and sacrificial. 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -315,10 +460,17 @@ title = "०६ दर्शपूर्णमासयोः सोमयाग
 य एवमिति । एवं वेदितुरेव एतौ पूता भवतः ॥
 </details>
 
+## यभन-निषेधः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नामा॑वा॒स्या॑याञ्च पौर्णमा॒स्याञ्च॒ स्त्रिय॒मुपे॑यात् ।
+नामा॑वा॒स्या॑याञ्च पौर्णमा॒स्याञ्च॒ स्त्रिय॒म् उपे॑यात् ।
 </details>
+
+<details><summary>Keith</summary>
+
+One should not approach a woman on the new moon or the full moon night; 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -330,22 +482,46 @@ title = "०६ दर्शपूर्णमासयोः सोमयाग
 11नामावास्यायां चेति ॥ गतम् ॥
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यदु॑पे॒यात् निरि॑न्द्रियस्स्यात् ।  
+</details>
+
+<details><summary>Keith</summary>
+
+if one were to do so, one would be impotent. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यदु॑पे॒यात् निरि॑न्द्रियस्स्यात् ।  
+</details>
+
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-यदु॑पे॒यात्निरि॑न्द्रियस्स्या॒थ्सोम॑स्य॒ वै राज्ञो᳚ऽर्धमा॒सस्य॒ रात्र॑य॒ᳶ पत्न॑य आस॒न्तासा॑ममावा॒स्या᳚ञ्च पौर्णमा॒सीञ्च॒ नोपै᳚त् [36]  
+सोम॑स्य॒ वै राज्ञो᳚ऽर्धमा॒सस्य॒ रात्र॑य॒ᳶ पत्न॑य आस॒न्तासा॑ममावा॒स्या᳚ञ्च पौर्णमा॒सीञ्च॒ नोपै᳚त् [36]  
 ते ए॑नम॒भि सम॑नह्येता॒न्तय्ँयख्ष्म॑ आर्च्छत्
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदु॑पे॒यात् निरि॑न्द्रियस्स्यात् ।  
-सोम॑स्य॒ वै राज्ञो᳚ऽर्धमा॒सस्य॒ रात्र॑य॒ᳶ पत्न॑य आसन् ।  
-तासा॑ममावा॒स्या᳚ञ्च पौर्णमा॒सीञ्च॒ नोपै᳚त् ।  
+
+सोम॑स्य॒ वै राज्ञो᳚ ऽर्धमा॒सस्य॒  
+रात्र॑य॒ᳶ पत्न॑य आसन् ।  
+तासा॑म् अमावा॒स्या᳚ञ् च पौर्णमा॒सीञ् च॒ नोपै᳚त् ।  
 </details>
+
+<details><summary>Keith</summary>
+
+The nights of the half-month were the wives of King Soma;  
+of these be did not approach the new moon night and the full moon night [4]. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-यदु॑पे॒यात् निरि॑न्द्रियस्स्यात् ।  
 सोम॑स्य॒ वै राज्ञो᳚ऽर्धमा॒सस्य॒ रात्र॑य॒ᳶ पत्न॑य आसन् ।  
 तासा॑ममावा॒स्या᳚ञ्च पौर्णमा॒सीञ्च॒ नोपै᳚त् ।  
 </details>
@@ -357,33 +533,48 @@ title = "०६ दर्शपूर्णमासयोः सोमयाग
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते ए॑नम॒भि सम॑नह्येताम् ।   
+ते ए॑नम् अ॒भि सम॑नह्येताम् ।   
+तय्ँयख्ष्म॑ आर्च्छत्।
 </details>
+
+<details><summary>Keith</summary>
+
+They grasped him about, and illness seized him. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 ते ए॑नम॒भि सम॑नह्येताम् ।   
+तय्ँयख्ष्म॑ आर्च्छत्।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अभी समनह्येतामिति । सोमेन राज्ञा अनुपेते त्यक्ते एते तिथी एनमभिभूय आभिमुख्येन वा भोकृत्वेन गृहीतवत्यौ ।
+
+ततस्तं तथा ताभ्यां भुज्यमानं यक्ष्मः क्षयरोग आर्छत् आर्तमकरोत् ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तय्ँयख्ष्म॑ आर्च्छत्।
+"राजा॑न॒य्ँ यख्ष्म॑ आर॒द्" इति॒ ..  
+तद् रा॑जय॒ख्ष्मस्य॒ जन्म ।  
 </details>
+
+<details><summary>Keith</summary>
+
+'Illness has seized the king'; that (saying) is the origin of the 'king's evil '. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-तय्ँयख्ष्म॑ आर्च्छत्।
+"राजा॑न॒य्ँ यख्ष्म॑ आर॒द्" इति॒ ..  
+तद्रा॑जय॒ख्ष्मस्य॒ जन्म ।  
+
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
-
-ततस्तं तथा ताभ्यां भुज्यमानं यक्ष्मः क्षयरोग आर्छत् आर्तमकरोत् ॥
-</details>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -392,8 +583,6 @@ title = "०६ दर्शपूर्णमासयोः सोमयाग
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-राजा॑न॒य्ँयख्ष्म॑ आर॒दिति॑ ..  
-तद्रा॑जय॒ख्ष्मस्य॒ जन्म ।  
 
 यत्पापी॑या॒नभ॑व॒त् ..  
 तत्पा॑पय॒ख्ष्मस्य+++(जन्म)+++ ।  
