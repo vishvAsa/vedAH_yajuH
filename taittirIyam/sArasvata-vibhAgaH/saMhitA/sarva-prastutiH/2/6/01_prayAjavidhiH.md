@@ -5,6 +5,7 @@ title = "०१ प्रयाजविधिः"
 
 प्रजापतिर्ऋषिः
 
+## ऋतु-जयः
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 स॒मिधो॑ यजति वस॒न्तमे॒वर्तू॒नामव॑ रुन्द्धे॒ तनू॒नपा॑तय्ँयजति ग्री॒ष्ममे॒वाव॑ रुन्द्धे
@@ -13,8 +14,14 @@ title = "०१ प्रयाजविधिः"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स॒मिधो॑ यजति।  
-व॒स॒न्तमे॒वर्तू॒नामव॑ रुन्द्धे ।  
+व॒स॒न्तम् ए॒व र्तू॒नाम् अव॑ रुन्द्धे ।  
 </details>
+
+<details><summary>Keith</summary>
+
+He offers to the kindling-sticks; verily he wins spring among the seasons. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -29,9 +36,15 @@ title = "०१ प्रयाजविधिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तनू॒नपा॑तय्ँयजति ।   
-ग्री॒ष्ममे॒वाव॑ रुन्द्धे ।  
+तनू॒नपा॑तय्ँ यजति ।   
+ग्री॒ष्मम् ए॒वाव॑ रुन्द्धे ।  
 </details>
+
+<details><summary>Keith</summary>
+
+He offers to Tanunapat; verily he wins the hot season. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -52,8 +65,14 @@ title = "०१ प्रयाजविधिः"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ॒डो य॑जति  ।   
-व॒र्षा ए॒वाव॑ रुन्द्धे ।   
+व॒र्षा ए॒वाव॑रुन्द्धे ।   
 </details>
+
+<details><summary>Keith</summary>
+
+He offers to the oblations; verily he wins the rains. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -70,14 +89,18 @@ title = "०१ प्रयाजविधिः"
 
 ब॒र्हिर्य॑जति ।   
 श॒रद॑मे॒वाव॑ रुन्द्धे।   
-स्वा॒हा॒का॒रय्ँय॑जति।   
 </details>
+
+<details><summary>Keith</summary>
+
+He offers to the sacrificial strew, verily lie wins autumn.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 ब॒र्हिर्य॑जति ।   
 श॒रद॑मे॒वाव॑ रुन्द्धे।   
-स्वा॒हा॒का॒रय्ँय॑जति।   
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -87,14 +110,23 @@ title = "०१ प्रयाजविधिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+स्वा॒हा॒का॒रय्ँय॑जति।   
 हे॒म॒न्तमे॒वाव॑ रुन्द्धे ।   
-तस्मा॒थ्स्वाहा॑कृता॒ हेम॑न्प॒शवोऽव॑ सीदन्ति ।  
+तस्मा॒थ् स्वाहा॑कृता॒ हेम॑न् प॒शवोऽव॑ सीदन्ति ।
 </details>
+
+<details><summary>Keith</summary>
+
+He offers with the cry of 'Hail!'; verily he wins the winter.  
+Therefore in winter animals over which the cry of 'Hail!' is raised perish.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
+स्वा॒हा॒का॒रय्ँय॑जति।   
 हे॒म॒न्तमे॒वाव॑ रुन्द्धे ।   
-तस्मा॒थ्स्वाहा॑कृता॒ हेम॑न्प॒शवोऽव॑ सीदन्ति ।  
+तस्मा॒थ्स्वाहा॑कृता॒ हेम॑न्प॒शवोऽव॑ सीदन्ति ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -107,32 +139,28 @@ title = "०१ प्रयाजविधिः"
 उ॒षस॑ ए॒व दे॒वता॑ना॒मव॑ रुन्द्धे॒ तनू॒नपा॑तय्ँयजति य॒ज्ञमे॒वाव॑ रुन्द्धे [1]  इ॒डो य॑जति प॒शूने॒वाव॑ रुन्द्धे ब॒र्हिर्य॑जति प्र॒जामे॒वाव॑ रुन्द्धे
 </details>
 
+## दिनांश-जयः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स॒मिधो॑ यजति ।   
+उ॒षस॑ ए॒व दे॒वता॑ना॒मव॑ रुन्द्धे  ।
 </details>
+
+<details><summary>Keith</summary>
+
+He offers to the kindling sticks; verily he wins the dawns of the goddesses. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 स॒मिधो॑ यजति ।   
+उ॒षस॑ ए॒व दे॒वता॑ना॒मव॑ रुन्द्धे  ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 3पुनरपि फलान्तरवत्तया प्रयाजाः स्तूयन्ते - उषस इति ॥
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-उ॒षस॑ ए॒व दे॒वता॑ना॒मव॑ रुन्द्धे  ।   
-</details>
-
-<details><summary>मूलम्</summary>
-
-उ॒षस॑ ए॒व दे॒वता॑ना॒मव॑ रुन्द्धे  ।   
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
 
 समिद्धत्वान्वयाद्देवानां योग्या उषसः उदयान् लभन्ते ।
 </details>
@@ -140,7 +168,12 @@ title = "०१ प्रयाजविधिः"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तनू॒नपा॑तय्ँयजति  ।   
-य॒ज्ञमे॒वाव॑ रुन्द्धे  ।     
+य॒ज्ञम् ए॒वाव॑ रुन्द्धे  ।     
+</details>
+
+<details><summary>Keith</summary>
+
+He offers to Tanunapat; verily he wins the sacrifice [1].
 </details>
 
 <details><summary>मूलम्</summary>
@@ -160,6 +193,12 @@ title = "०१ प्रयाजविधिः"
 प॒शूने॒वाव॑ रुन्द्धे  ।   
 </details>
 
+<details><summary>Keith</summary>
+
+He offers to the oblations; verily he wins cattle. 
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 इ॒डो य॑जति  ।   
@@ -176,6 +215,12 @@ title = "०१ प्रयाजविधिः"
 ब॒र्हिर्य॑जति  ।   
 प्र॒जामे॒वाव॑ रुन्द्धे  ।  
 </details>
+
+<details><summary>Keith</summary>
+
+He offers to the sacrificial strew; verily he wins offspring. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -195,12 +240,39 @@ title = "०१ प्रयाजविधिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒मान॑यत उप॒भृत॒स्तेजो॒ वा आज्य॑म् ।
+स॒मान॑यत उप॒भृतः॑। 
 </details>
+
+<details><summary>Keith</summary>
+
+He takes (the oblation) from the Upabhrt. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-स॒मान॑यत उप॒भृत॒स्तेजो॒ वा आज्य॑म् ।
+स॒मान॑यत उप॒भृतः॑। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तेजो॒ वा आज्य॑म् ।
+प्र॒जा ब॒र्हिᳶ,  
+प्र॒जास्व् ए॒व तेजो॑ दधाति  ।
+</details>
+
+<details><summary>Keith</summary>
+
+The oblation is brilliance, the sacrificial strew offspring;  
+verily he places brilliance in offspring. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तेजो॒ वा आज्य॑म् ।
+प्र॒जा ब॒र्हिᳶ प्र॒जास्वे॒व तेजो॑ दधाति  ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -210,14 +282,18 @@ title = "०१ प्रयाजविधिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒जा ब॒र्हिᳶ प्र॒जास्वे॒व तेजो॑ दधाति  ।   
-स्वा॒हा॒का॒रय्ँय॑जति ।   
-वाच॑मे॒वाव॑ रुन्द्धे ।   
+स्वा॒हा॒का॒रय्ँ य॑जति ।   
+वाच॑म् ए॒वाव॑ रुन्द्धे ।   
 </details>
+
+<details><summary>Keith</summary>
+
+He offers with the cry of 'Hail!'; verily he wins speech. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-प्र॒जा ब॒र्हिᳶ प्र॒जास्वे॒व तेजो॑ दधाति  ।   
 स्वा॒हा॒का॒रय्ँय॑जति ।   
 वाच॑मे॒वाव॑ रुन्द्धे ।   
 </details>
@@ -231,7 +307,7 @@ title = "०१ प्रयाजविधिः"
 
 दश॒ सम्प॑द्यन्ते ।   
 दशा᳚ख्षरा वि॒राट् ।    
-वि॒राजै॒वान्नाद्य॒मव॑ रुन्द्धे ।   
+वि॒राजै॒वान्नाद्य॒म् अव॑ रुन्द्धे ।   
 </details>
 
 <details><summary>मूलम्</summary>

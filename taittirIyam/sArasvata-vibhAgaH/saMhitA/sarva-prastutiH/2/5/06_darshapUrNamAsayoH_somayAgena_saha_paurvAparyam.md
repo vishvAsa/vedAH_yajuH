@@ -559,50 +559,51 @@ They grasped him about, and illness seized him.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "राजा॑न॒य्ँ यख्ष्म॑ आर॒द्" इति॒ ..  
-तद् रा॑जय॒ख्ष्मस्य॒ जन्म ।  
+तद् रा॑जय॒ख्ष्मस्य॒ जन्म॒,  
+यत्पापी॑या॒नभ॑व॒त्  
+तत् पा॑पय॒ख्ष्मस्य॒,  
+यज् जा॒याभ्या॒म् अवि॑न्द॒त्  
+तज् जा॒येन्य॑स्य।
 </details>
 
 <details><summary>Keith</summary>
 
-'Illness has seized the king'; that (saying) is the origin of the 'king's evil '. 
+'Illness has seized the king'; that (saying) is the origin of the 'king's evil '.  
+In that he became worse,  
+that is (the origin) of the 'bad illness';  
+because he got it from his wives,  
+that is (the origin) of the 'wife's disease' (Jayenya),
 </details>
 
 
 <details><summary>मूलम्</summary>
 
 "राजा॑न॒य्ँ यख्ष्म॑ आर॒द्" इति॒ ..  
-तद्रा॑जय॒ख्ष्मस्य॒ जन्म ।  
-
+तद् रा॑जय॒ख्ष्मस्य॒ जन्म॒,  
+यत्पापी॑या॒नभ॑व॒त्  
+तत् पा॑पय॒ख्ष्मस्य॒,  
+यज् जा॒याभ्या॒म् अवि॑न्द॒त्  
+तज् जा॒येन्य॑स्य।
 </details>
 
-
-<details><summary>मूलम् (संयुक्तम्)</summary>
-
-राजा॑न॒य्ँयख्ष्म॑ आर॒दिति॒ तद्रा॑जय॒ख्ष्मस्य॒ जन्म॒ यत्पापी॑या॒नभ॑व॒त्तत्पा॑पय॒ख्ष्मस्य॒ यज्जा॒याभ्या॒मवि॑न्द॒त्तज्जा॒येन्य॑स्य॒ य ए॒वमे॒तेषा॒य्ँयख्ष्मा॑णा॒ञ्जन्म॒ वेद॒ नैन॑मे॒ते यख्ष्मा॑ विन्दन्ति
-</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-
-यत्पापी॑या॒नभ॑व॒त् ..  
-तत्पा॑पय॒ख्ष्मस्य+++(जन्म)+++ ।  
-यज्जा॒याभ्या॒मवि॑न्द॒त् ..  
-तज्जा॒येन्य॑स्य +++(जन्म)+++ ।  
-य ए॒वमे॒तेषा॒य्ँयख्ष्मा॑णा॒ञ्जन्म॒॒ वेद॑ ।  
-नैन॑मे॒ते यख्ष्मा॑ विन्दन्ति ।  
+य ए॒वम् ए॒तेषा॒य्ँ यख्ष्मा॑णा॒ञ् जन्म॒॒ वेद॒  
+नैन॑मे॒ते यख्ष्मा॑ विन्दन्ति ।+++(4)+++  
 </details>
+
+<details><summary>Keith</summary>
+
+him who knows thus the origin of these illnesses,  
+these illnesses do not visit. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-राजा॑न॒य्ँयख्ष्म॑ आर॒दिति॑ ..  
-तद्रा॑जय॒ख्ष्मस्य॒ जन्म ।  
-
-यत्पापी॑या॒नभ॑व॒त् ..  
-तत्पा॑पय॒ख्ष्मस्य+++(जन्म)+++ ।  
-यज्जा॒याभ्या॒मवि॑न्द॒त् ..  
-तज्जा॒येन्य॑स्य +++(जन्म)+++ ।  
-य ए॒वमे॒तेषा॒य्ँयख्ष्मा॑णा॒ञ्जन्म॒॒ वेद॑ ।  
-नैन॑मे॒ते यख्ष्मा॑ विन्दन्ति ।  
+य ए॒वम् ए॒तेषा॒य्ँ यख्ष्मा॑णा॒ञ् जन्म॒॒ वेद॒  
+नैन॑मे॒ते यख्ष्मा॑ विन्दन्ति ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -617,14 +618,18 @@ They grasped him about, and illness seized him.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स ए॒ते ए॒व न॑म॒स्यन्नुपा॑धावत् ।   
-ते अ॑ब्रूता॒व्ँवर॑व्ँवृणावहै ।   
+स ए॒ते ए॒व न॑म॒स्यन्न् उपा॑धावत् ।   
 </details>
+
+<details><summary>Keith</summary>
+
+He ran up to these two in reverence; 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 स ए॒ते ए॒व न॑म॒स्यन्नुपा॑धावत् ।   
-ते अ॑ब्रूता॒व्ँवर॑व्ँवृणावहै ।   
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -634,11 +639,25 @@ They grasped him about, and illness seized him.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ॒वन्दे॒वाना᳚म्भाग॒धे अ॑साव ।  
+ते अ॑ब्रूता॒व्ँ  
+
+> वर॑व्ँ वृणावहै ।   
+आ॒वन् दे॒वाना᳚म् भाग॒धे अ॑साव ।  
 </details>
+
+<details><summary>Keith</summary>
+
+they said, 
+
+> 'Let us choose a boon;  
+> let us be the appointers of portions for the gods [5];  
+> from us let the gods be sacrificed to.' 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
+ते अ॑ब्रूता॒व्ँवर॑व्ँवृणावहै ।   
 आ॒वन्दे॒वाना᳚म्भाग॒धे अ॑साव ।  
 </details>
 
@@ -662,26 +681,27 @@ They grasped him about, and illness seized him.
 आवदधि आवयोरेव उपरिष्टात् देवाः इज्यान्ता इति । पूर्ववल्लेट् ॥
 </details>
 
-<details><summary>मूलम् (संयुक्तम्)</summary>
-
-तस्मा᳚थ्स॒दृशी॑ना॒ꣳ॒ रात्री॑णाममावा॒स्या॑याञ्च पौर्णमा॒स्याञ्च॑ दे॒वा इ॑ज्यन्त ए॒ते हि दे॒वाना᳚म्भाग॒धे भा॑ग॒धा अ॑स्मै मनु॒ष्या॑ भवन्ति॒ य ए॒वव्ँवेद॑
- 
-</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मा᳚थ्स॒दृशी॑ना॒ꣳ॒ रात्री॑णाममावा॒स्या॑याञ्च पौर्णमा॒स्याञ्च॑ दे॒वा इ॑ज्यन्ते ।  
- ए॒ते हि दे॒वाना᳚म्भाग॒धे ।  
-भा॑ग॒धा अ॑स्मै मनु॒ष्या॑ भवन्ति ।  
+ए॒ते हि दे॒वाना᳚म्भाग॒धे ।  
+भा॒ग॒धा अ॑स्मै मनु॒ष्या॑ भवन्ति॒,  
 य ए॒वव्ँवेद॑ ।  
 </details>
 
+<details><summary>Keith</summary>
+
+Therefore of the series of nights  
+it is on the new and the full moon night that the gods are sacrificed to;  
+for they are the appointers of portions for the gods.  
+Men appoint portions to him who knows thus. 
+</details>
+
+
 <details><summary>मूलम्</summary>
 
-तस्मा᳚थ्स॒दृशी॑ना॒ꣳ॒ रात्री॑णाममावा॒स्या॑याञ्च पौर्णमा॒स्याञ्च॑ दे॒वा इ॑ज्यन्ते ।  
- ए॒ते हि दे॒वाना᳚म्भाग॒धे ।  
-भा॑ग॒धा अ॑स्मै मनु॒ष्या॑ भवन्ति ।  
-य ए॒वव्ँवेद॑ ।  
+तस्मा᳚थ्स॒दृशी॑ना॒ꣳ॒ रात्री॑णाममावा॒स्या॑याञ्च पौर्णमा॒स्याञ्च॑ दे॒वा इ॑ज्यन्त ए॒ते हि दे॒वाना᳚म्भाग॒धे भा॑ग॒धा अ॑स्मै मनु॒ष्या॑ भवन्ति॒ य ए॒वव्ँवेद॑
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -689,6 +709,7 @@ They grasped him about, and illness seized him.
 15तस्मादित्यादि ॥ गतम् ॥
 </details>
 
+## क्षुत्
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 भू॒तानि॒ ख्षुध॑मघ्नन्थ्स॒द्यो म॑नु॒ष्या॑ अर्धमा॒से दे॒वा मा॒सि पि॒तर॑स्सव्ँवथ्स॒रे वन॒स्पत॑य॒स्तस्मा॒दह॑रहर्मनु॒ष्या॑ अश॑नमिच्छन्तेऽर्धमा॒से दे॒वा इ॑ज्यन्ते मा॒सि पि॒तृभ्य॑ᳵ क्रियते सव्ँवथ्स॒रे वन॒स्पत॑य॒ᳶ फल॑ङ्गृह्णन्ति॒ य ए॒वव्ँवेद॒ हन्ति॒ ख्षुध॒म्भ्रातृ॑व्यम् ॥ [38]  
@@ -696,76 +717,60 @@ They grasped him about, and illness seized him.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भू॒तानि॒ ख्षुध॑मघ्नन् ।  
-
-स॒द्यो म॑नु॒ष्याः᳚  +++(क्षुधं घ्नन्ति)+++ ..  
+भू॒तानि॒ ख्षुध॑म् अघ्नन्थ् -  
+स॒द्यो म॑नु॒ष्या॑  
+अर्धमा॒से दे॒वा  
+मा॒सि पि॒तर॑स्  
+सव्ँवथ्स॒रे वन॒स्पत॑यः
 </details>
+
+<details><summary>Keith</summary>
+
+Creatures slew hunger,  
+man at once,  
+the gods at the half-month,  
+the Pitrs in a month,  
+trees in a year. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-भू॒तानि॒ ख्षुध॑मघ्नन् ।  
-
-स॒द्यो म॑नु॒ष्याः᳚  +++(क्षुधं घ्नन्ति)+++ ..  
+भू॒तानि॒ ख्षुध॑मघ्नन्थ्स॒द्यो म॑नु॒ष्या॑ अर्धमा॒से दे॒वा मा॒सि पि॒तर॑स्सव्ँवथ्स॒रे वन॒स्पत॑यः
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 16भूतानीत्यादि ॥ सर्वाणि भूतानि क्षुधं बुभुक्षां घ्नन्ति तदुपघातहेतुभिरुपशमयन्ति सद्यस्समानेह्नि एत[क]स्मिन्नह्नि सकृदुपघातहेतुशमनं कृत्वा क्षुधं हन्ति ।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-अ॒र्ध॒मा॒से दे॒वाः   +++(क्षुधं घ्नन्ति)+++ ..
-</details>
-
-<details><summary>मूलम्</summary>
-
-अ॒र्ध॒मा॒से दे॒वाः   +++(क्षुधं घ्नन्ति)+++ ..
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
 
 अर्धमासे देवाः क्षुधं घ्नन्ति हविर्भिर्यागप्रभवैः ।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-मा॒सि पि॒तरः॑ +++(क्षुधं घ्नन्ति)+++ ..
-</details>
-
-<details><summary>मूलम्</summary>
-
-मा॒सि पि॒तरः॑ +++(क्षुधं घ्नन्ति)+++ ..
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
 
 मासि पितरः श्राद्धेन ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒व्ँव॒थ्स॒रे वन॒स्पत॑यः  +++(क्षुधं घ्नन्ति)+++ ।
-
-तस्मा॒दह॑रहर्मनु॒ष्या॑ अश॑नमिच्छन् ।  
-तेऽर्धमा॒से दे॒वा इ॑ज्यन्ते ।  
-मा॒सि पि॒तृभ्य॑ᳵ क्रियते ।  
-स॒व्ँव॒थ्स॒रे वन॒स्पत॑य॒ᳶ फल॑ङ्गृह्णन्ति ।  
-य ए॒वव्ँवेद॑ ।  
-हन्ति॒ ख्षुध॒म्भ्रातृ॑व्यम् ॥  
+तस्मा॒द् अह॑र्-अहर् मनु॒ष्या॑ अश॑नम् इच्छन्ते,  
+ऽर्धमा॒से दे॒वा इ॑ज्यन्ते,  
+मा॒सि पि॒तृभ्य॑ᳵ क्रियते,  
+सव्ँवथ्स॒रे वन॒स्पत॑य॒ᳶ फल॑ङ् गृह्णन्ति
 </details>
+
+<details><summary>Keith</summary>
+
+Therefore day by day men desire food,  
+at the half-month the gods are sacrificed to,  
+every month offering is made to the Pitrs,  
+in a year trees produce fruit. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-स॒व्ँव॒थ्स॒रे वन॒स्पत॑यः  +++(क्षुधं घ्नन्ति)+++ ।
-
-तस्मा॒दह॑रहर्मनु॒ष्या॑ अश॑नमिच्छन् ।  
-तेऽर्धमा॒से दे॒वा इ॑ज्यन्ते ।  
-मा॒सि पि॒तृभ्य॑ᳵ क्रियते ।  
-स॒व्ँव॒थ्स॒रे वन॒स्पत॑य॒ᳶ फल॑ङ्गृह्णन्ति ।  
-य ए॒वव्ँवेद॑ ।  
-हन्ति॒ ख्षुध॒म्भ्रातृ॑व्यम् ॥  
+तस्मा॒दह॑रहर्मनु॒ष्या॑ अश॑नमिच्छन्तेऽर्धमा॒से दे॒वा इ॑ज्यन्ते मा॒सि पि॒तृभ्य॑ᳵ क्रियते सव्ँवथ्स॒रे वन॒स्पत॑य॒ᳶ फल॑ङ्गृह्णन्ति
 </details>
+
+
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -774,3 +779,19 @@ They grasped him about, and illness seized him.
 इति द्वितीये पञ्चमे षष्ठोनुवाकः ॥
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+य ए॒वव्ँ वेद॒  
+हन्ति॒ ख्षुध॒म् भ्रातृ॑व्यम् ॥ 
+</details>
+
+<details><summary>Keith</summary>
+
+He who knows thus slays the enemy, hunger.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+य ए॒वव्ँ वेद॒ हन्ति॒ ख्षुध॒म्भ्रातृ॑व्यम् ॥ 
+</details>
