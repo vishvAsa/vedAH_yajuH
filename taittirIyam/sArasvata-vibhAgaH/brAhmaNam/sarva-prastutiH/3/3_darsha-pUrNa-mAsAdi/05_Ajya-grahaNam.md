@@ -7,9 +7,7 @@ unicode_script: devanagari
 
 दे॒वा॒सु॒रास् सय्ँय॑त्ता आसन्न् ।  
 स ए॒तम् इन्द्र॒ आज्य॑स्यावका॒शम् +++(→प्रकाशक-मन्त्रम्)+++ अ॑पश्यत् ।  
-तेनावै᳚ख्षत ।  
-ततो॑ दे॒वा अभ॑वन्न् +++(←`चादिलोपे विभाषा`)+++,  
-पराऽसु॑राः +++(चाभवन्)+++।  
+तेनावै᳚ख्षत ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -17,8 +15,6 @@ unicode_script: devanagari
 दे॒वा॒सु॒रास्सय्ँय॑त्ता आसन्न् ।  
 स ए॒तमिन्द्र॒ आज्य॑स्यावका॒शम॑पश्यत् ।  
 तेनावै᳚ख्षत ।  
-ततो॑ दे॒वा अभ॑वन्न् ।  
-पराऽसु॑राः ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -26,6 +22,27 @@ unicode_script: devanagari
 1देवासुरा इति ॥ आज्यस्यावकाशमिति 'अग्नेर्जिह्वा'1 इत्यवेक्षणमन्त्रस्यैषा संज्ञा ।
 </details>
 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/3_darsha-pUrNa-mAsAdi/05_Ajya-grahaNam/tato_devA_abhavan.md" unfilled newLevelForH1="5" includeTitle="false">   
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ततो॑ दे॒वा अभ॑वन्न् +++(←`चादिलोपे विभाषा`)+++,  
+पराऽसु॑राः +++(चाभवन्)+++।  
+</details>
+
+<details><summary>Keith</summary>
+
+Then the gods prospered,  
+the Asuras were defeated. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ततो॑ दे॒वा अभ॑वन्न् ।  
+पराऽसु॑राः ।
+</details>
+</div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
