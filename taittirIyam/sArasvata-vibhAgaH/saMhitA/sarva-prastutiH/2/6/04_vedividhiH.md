@@ -10,24 +10,43 @@ title = "०४ वेदिविधिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒व इति॒ स्फ्यमा द॑त्ते ।  
-प्रसू᳚त्या अ॒श्विनो᳚र्बा॒हुभ्या॒मित्या॑ह ।  
-अ॒श्विनौ॒ हि दे॒वाना॑मध्व॒र्यू आस्ता᳚म् ।   
-पू॒ष्णो हस्ता᳚भ्या॒मित्या॑ह  यत्यै॑।  
+"दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒व" इति॒ स्फ्यम् आ द॑त्ते प्रसू᳚त्या,  
 </details>
+
+<details><summary>Keith</summary>
+
+(Saying) 'On the impulse of the god Savitr thee', he takes the sword, for impelling. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒व इति॒ स्फ्यमा द॑त्ते ।  
-प्रसू᳚त्या अ॒श्विनो᳚र्बा॒हुभ्या॒मित्या॑ह ।  
-अ॒श्विनौ॒ हि दे॒वाना॑मध्व॒र्यू आस्ता᳚म् ।   
-पू॒ष्णो हस्ता᳚भ्या॒मित्या॑ह  यत्यै॑।  
+"दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒व" इति॒ स्फ्यम् आ द॑त्ते प्रसू᳚त्या,  
 </details>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 1देवस्य त्वेत्यादि ॥ वेदिविधिः । प्रसूतिः सवितुरनुज्ञा । अपिच यतत्वाय प्रयत्यै वा ॥
 </details>
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/04_havir-nirvApaH/ashvinor_bAhubhyAm.md" unfilled newLevelForH1="5" includeTitle="false"> 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ॒श्विनो᳚र्बा॒हुभ्या॒म् इत्या॑ह ।  
+अ॒श्विनौ॒ हि दे॒वाना॑मध्व॒र्यू आस्ता᳚म् ।   
+पू॒ष्णो हस्ता᳚भ्या॒मित्या॑ह  यत्यै॑।
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रसू᳚त्या अ॒श्विनो᳚र्बा॒हुभ्या॒मित्या॑ह ।  
+अ॒श्विनौ॒ हि दे॒वाना॑मध्व॒र्यू आस्ता᳚म् ।   
+पू॒ष्णो हस्ता᳚भ्या॒मित्या॑ह  यत्यै॑।
+</details>
+
+</div>  
+
+
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -36,8 +55,8 @@ title = "०४ वेदिविधिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-श॒तभृ॑ष्टिरसि वानस्प॒त्यो द्वि॑ष॒तो व॒ध इत्या॑ह ।  
-वज्र॑मे॒व तथ्सꣵ श्य॑ति ।
+श॒त-भृ॑ष्टिर् असि वानस्प॒त्यो द्वि॑ष॒तो व॒ध इत्या॑ह ।  
+वज्र॑म् ए॒व तथ् सꣵ श्य॑ति ।
 </details>
 
 <details><summary>मूलम्</summary>
