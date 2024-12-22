@@ -231,11 +231,11 @@ therefore one should not give on the strew.
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-सो᳚ऽग्निर॑ब्रवीद्भा॒ग्य॑सा॒न्यथ॑ व इ॒दमिति॑ पुनरा॒धेय॑न्ते॒ केव॑ल॒मित्य॑ब्रुवन् 
+सो॒᳚ऽग्निर॑ब्रवीद्भा॒ग्य॑सा॒न्यथ॑ व इ॒दमिति॑ पुनरा॒धेय॑न्ते॒ केव॑ल॒मित्य॑ब्रुवन् 
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳚ऽग्निर् अ॑ब्रवीत् - भा॒ग्य् अ॑सानि॒, अथ॑ व इ॒दमिति॑   ।  
+सो॒᳚ऽग्निर् अ॑ब्रवीत् - भा॒ग्य् अ॑सानि॒, अथ॑ व इ॒दमिति॑   ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -243,7 +243,7 @@ Agni said, 'Let me have a share; then this will be yours.'
 </details>
 <details><summary>मूलम्</summary>
 
-सो᳚ऽग्निर॑ब्रवीत् - भा॒ग्य॑सानि॒, अथ॑ व इ॒दमिति॑  ।  
+सो॒᳚ऽग्निर॑ब्रवीत् - भा॒ग्य॑सानि॒, अथ॑ व इ॒दमिति॑  ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
