@@ -8,6 +8,12 @@ title = "अ॒श्विनो᳚र् बा॒हुभ्या॒म्"
 अ॒श्विनौ॒ हि दे॒वाना॑म् अध्व॒र्यू आस्ता᳚म् ।
 </details>
 
+<details><summary>Keith</summary>
+
+'With the arms of the Aśvins', he says, for the Aśvins were the Adhvaryus of the gods. 
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 "अ॒श्विनो᳚र्बा॒हुभ्या॒"मित्या॑ह ।
@@ -28,6 +34,12 @@ title = "अ॒श्विनो᳚र् बा॒हुभ्या॒म्"
 
 "पू॒ष्णो हस्ता᳚भ्या॒"मित्या॑ह॒ यत्यै᳚ ।
 </details>
+
+<details><summary>Keith</summary>
+
+'With the hands of Pusan', he says, for restraint. 
+</details>
+
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
