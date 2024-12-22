@@ -9,7 +9,7 @@ title = "6 The New and Full Moon Sacrifices"
 
 
 
-If one fragment were lost, one month of the year would be omitted, and the sacrificer would perish. If two were lost, two months of the year would be omitted, and the sacrificer would perish. He counts before covering, to guard the sacrificer [5]. If it be lost, be should make an offering on two potsherds to the Aśvins, and on one potsherd to sky and earth. The Aśvins are the physicians of the gods; verily by them he heals it. Then is offered an offering on one potsherd to sky and earth; in them is lost what is lost; verily in them he finds it, (and it serves) for support.
+
 ## 04
 (Saying) 'On the impulse of the god Savitr thee', he takes the sword, for impelling. 'With the arms of the Aśvins', he says, for the Aśvins were the Adhvaryus of the gods. 'With the hands of Pusan', he says, for restraint. 'Thou art a hundred-edged, of the tree, slayer of the foe', he says; verily he sharpens the bolt, being about to hurl it at his enemy. He throws away the grass with a Yajus. The
   
