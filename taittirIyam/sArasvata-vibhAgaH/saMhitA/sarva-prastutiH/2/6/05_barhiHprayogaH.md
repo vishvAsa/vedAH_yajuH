@@ -3,6 +3,8 @@ title = "०५ बर्हिःप्रयोगः"
 
 +++
 प्रजापतिर्ऋषिः
+
+## प्रोक्षणम्
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ब्र॒ह्म॒वा॒दिनो॑ वदन्त्य॒द्भिर्ह॒वीꣳषि॒ प्रौख्षी॒ᳵ केना॒प इति॒ ब्रह्म॒णेति॑ ब्रूयाद॒द्भिर्ह्ये॑व ह॒वीꣳषि॑ प्रो॒ख्षति॒
@@ -10,34 +12,35 @@ title = "०५ बर्हिःप्रयोगः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्र॒ह्म॒वा॒दिनो॑ वदन्ति ।  
-अ॒द्भिर्ह॒वीꣳषि॒ प्रौख्षीः᳚ ।  
-केना॒प इति॒ , ब्रह्म॒णेति॑ ब्रूयात् ।  
+ब्र॒ह्म॒वा॒दिनो॑ वदन्ति -  
+"अ॒द्भिर् ह॒वीꣳषि॒ प्रौख्षीः᳚ ।  
+केना॒प?" इति॒ ,  
+"ब्रह्म॒णे"ति॑ ब्रूयाद् -  
+अ॒द्भिर्ह्ये॑व ह॒वीꣳषि॑ प्रो॒ख्षति॒, ब्रह्म॑णा॒ऽपः।
 </details>
+
+<details><summary>Keith</summary>
+
+The theologians say,  
+'Thou hast sprinkled the offerings with water;  
+but the waters with what?'  
+'With the holy power (Brahman)', he should say,  
+for verily he sprinkles the offerings with water,  
+and the waters with the holy power (Brahman). 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 ब्र॒ह्म॒वा॒दिनो॑ वदन्ति ।  
 अ॒द्भिर्ह॒वीꣳषि॒ प्रौख्षीः᳚ ।  
-केना॒प इति॒ , ब्रह्म॒णेति॑ ब्रूयात् ।  
+केना॒प इति॒ , ब्रह्म॒णेति॑ ब्रूयाद् -  
+अ॒द्भिर्ह्ये॑व ह॒वीꣳषि॑ प्रो॒ख्षति॒ ब्रह्म॑णा॒ऽपः ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 1ब्रह्मवादिन इत्यादि ॥ अध्वर्युः पर्यनुयुज्यते । ब्रह्मणेति । 'प्रोक्षितास्स्थ' इति मन्त्रेण । कीदृशमिदं ब्रह्मणा अपां प्रोक्षणं; अप्रोक्षणमेवेदमुक्तं भवति;
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-अ॒द्भिर्ह्ये॑व ह॒वीꣳषि॑  ।
-</details>
-
-<details><summary>मूलम्</summary>
-
-अ॒द्भिर्ह्ये॑व ह॒वीꣳषि॑  ।
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
 
 मन्त्रोच्चारणमात्रमेव क्रियते इत्यत आह - अद्भिर्ह्येवेत्यादि । यस्मात् अद्भिः हविषां प्रोक्षणद्वारेण मेध्यत्वं क्रियत इति ब्रह्मणाऽपि तदपामिति । तस्मात् ब्रह्मणेत्युत्तरं ब्रूयादिति ॥
 </details>
@@ -50,16 +53,19 @@ title = "०५ बर्हिःप्रयोगः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्रह्म॑णा॒ऽप इ॒ध्माब॒र्हिᳶ प्रोख्ष॑ति ।   
-मेध्य॑मे॒वैन॑त्करोति ।  
-वेदि॒म्प्रोख्ष॑ति ।  
+इ॒ध्माब॒र्हिᳶ प्रोख्ष॑ति ।   
+मेध्य॑म् ए॒वैन॑त् करोति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+He sprinkles the kindling-wood and the sacrificial strew; verily he makes it pure. 
 </details>
 
 <details><summary>मूलम्</summary>
 
 ब्रह्म॑णा॒ऽप इ॒ध्माब॒र्हिᳶ प्रोख्ष॑ति ।   
 मेध्य॑मे॒वैन॑त्करोति ।  
-वेदि॒म्प्रोख्ष॑ति ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -69,9 +75,17 @@ title = "०५ बर्हिःप्रयोगः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+वेदि॒म् प्रोख्ष॑ति ।  
 ऋ॒ख्षा वा ए॒षाऽलो॒मका॑ऽमे॒ध्या ।  
-यद्वेदि॒र्मेध्या॑मे॒वैना᳚ङ्करोति ।
+यद् वेदि॒र् - मेध्या॑म् ए॒वैना᳚ङ् करोति ।
 </details>
+
+<details><summary>Keith</summary>
+
+He sprinkles the altar, the altar was rough, hairless, and impure;  
+verily he makes it pure. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -91,8 +105,14 @@ title = "०५ बर्हिःप्रयोगः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दि॒वे त्वा॒ऽन्तरि॑ख्षाय त्वा पृथि॒व्यै त्वेति॑ ब॒र्हिरा॒साद्य॒  प्रोख्ष॑ति  ।  
-ए॒भ्य ए॒वैन॑ल्लो॒केभ्य॒ᳶ प्रोख्ष॑ति ।  
+"दि॒वे त्वा॒ऽन्तरि॑ख्षाय त्वा पृथि॒व्यै त्वे"ति॑  
+ब॒र्हिर् आ॒साद्य॒ प्रोख्ष॑ति  ।  
+ए॒भ्य ए॒वैन॑ल् लो॒केभ्य॒ᳶ प्रोख्ष॑ति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+'To the sky thee, to the atmosphere thee, to earth thee', (with these words) he places the sacrificial strew and sprinkles it [1]; verily he sprinkles it for these worlds. 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -106,6 +126,7 @@ title = "०५ बर्हिःप्रयोगः"
 3दिवे त्वेत्यग्रादारभ्य प्रोक्षणम् ॥
 </details>
 
+## अपाम् प्रणयनम्
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 क्रू॒रमि॑व॒ वा ए॒तत्क॑रोति॒ यत्खन॑त्य॒पो नि न॑यति॒ शान्त्यै॑ पु॒रस्ता᳚त्प्रस्त॒रङ्गृ॑ह्णाति॒ मुख्य॑मे॒वैन॑ङ्करो॒तीय॑न्तङ्गृह्णाति प्र॒जाप॑तिना यज्ञमु॒खेन॒ सम्मि॑तम्ब॒र्हिस्स्तृ॑णाति प्र॒जा वै ब॒र्हिᳶ पृ॑थि॒वी वेदिᳶ॑ प्र॒जा ए॒व पृ॑थि॒व्याम्प्रति॑ ष्ठापयति
@@ -113,10 +134,43 @@ title = "०५ बर्हिःप्रयोगः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-क्रू॒रमि॑व॒ वा ए॒तत्क॑रोति ।  
-यत्खन॑त्य॒पो नि न॑यति ।  
-शान्त्यै॑ पु॒रस्ता᳚त्प्रस्त॒रङ्गृ॑ह्णाति ।  
+क्रू॒रमि॑व॒ वा ए॒तत् क॑रोति॒ यत् खन॑त्य्,  
+अ॒पो नि न॑यति॒ - शान्त्यै॑
+</details>
+
+<details><summary>Keith</summary>
+
+Cruelly indeed does he act in that he digs.  
+He pours down the waters, for healing. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+क्रू॒रमि॑व॒ वा ए॒तत्क॑रोति॒ यत्खन॑त्य॒पो नि न॑यति॒ शान्त्यै॑
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पु॒रस्ता᳚त् प्रस्त॒रङ् गृ॑ह्णाति ।  
+मुख्य॑म् ए॒वैन॑ङ् करोति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+He takes the bunch in front; verily he makes it the chief. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पु॒रस्ता᳚त्प्रस्त॒रङ्गृ॑ह्णाति ।  
 मुख्य॑मे॒वैन॑ङ्करोति ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 इय॑न्तङ्गृह्णाति ।  
 प्र॒जाप॑तिना यज्ञमु॒खेन॒ सम्मि॑तम्ब॒र्हिस्स्तृ॑णाति ।  
 प्र॒जा वै ब॒र्हिᳶ पृ॑थि॒वी वेदिᳶ॑ प्र॒जा ए॒व पृ॑थि॒व्याम्प्रति॑ ष्ठापयति ।  
