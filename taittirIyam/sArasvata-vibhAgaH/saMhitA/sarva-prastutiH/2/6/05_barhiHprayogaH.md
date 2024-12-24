@@ -150,6 +150,12 @@ He pours down the waters, for healing.
 क्रू॒रमि॑व॒ वा ए॒तत्क॑रोति॒ यत्खन॑त्य॒पो नि न॑यति॒ शान्त्यै॑
 </details>
 
+<details><summary>भट्टभास्कर-टीका</summary>
+
+4क्रूरमिवेत्यादि ॥ गतम् ॥
+</details>
+
+## बर्हिर्-आस्तरणादि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पु॒रस्ता᳚त् प्रस्त॒रङ् गृ॑ह्णाति ।  
@@ -169,28 +175,48 @@ He takes the bunch in front; verily he makes it the chief.
 </details>
 
 
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इय॑न्तङ् गृह्णाति ।  
-प्र॒जाप॑तिना यज्ञ-मु॒खेन॒ सम्मि॑तम् ब॒र्हिस् स्तृ॑णाति ।  
-प्र॒जा वै ब॒र्हिᳶ, पृ॑थि॒वी वेदिᳶ॑, प्र॒जा ए॒व पृ॑थि॒व्याम् प्रति॑ ष्ठापयति ।  
+इय॑न्तङ् गृह्णाति -  
+प्र॒जाप॑तिना यज्ञ-मु॒खेन॒ सम्मि॑तम्।  
 </details>
+
+<details><summary>Keith</summary>
+
+He takes so much as is measured by Prajapati as the mouth of the sacrifice. 
+</details>
+
+
 
 <details><summary>मूलम्</summary>
 
-क्रू॒रमि॑व॒ वा ए॒तत्क॑रोति ।  
-यत्खन॑त्य॒पो नि न॑यति ।  
-शान्त्यै॑ पु॒रस्ता᳚त्प्रस्त॒रङ्गृ॑ह्णाति ।  
-मुख्य॑मे॒वैन॑ङ्करोति ।  
-इय॑न्तङ्गृह्णाति ।  
+इय॑न्तङ्गृह्णाति -  
 प्र॒जाप॑तिना यज्ञमु॒खेन॒ सम्मि॑तम्ब॒र्हिस्स्तृ॑णाति ।  
-प्र॒जा वै ब॒र्हिᳶ पृ॑थि॒वी वेदिᳶ॑ प्र॒जा ए॒व पृ॑थि॒व्याम्प्रति॑ ष्ठापयति ।  
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-4क्रूरमिवेत्यादि ॥ गतम् ॥
+ब॒र्हिस् स्तृ॑णाति ।  
+प्र॒जा वै ब॒र्हिᳶ, पृ॑थि॒वी वेदिᳶ॑, प्र॒जा ए॒व पृ॑थि॒व्याम् प्रति॑ ष्ठापयति ।
 </details>
+
+<details><summary>Keith</summary>
+
+He spreads the sacrificial strew,  
+the sacrificial strew is offspring,  
+the altar is the earth;  
+verily he places offspring on the earth. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ब॒र्हिस् स्तृ॑णाति ।  
+प्र॒जा वै ब॒र्हिᳶ, पृ॑थि॒वी वेदिᳶ॑, प्र॒जा ए॒व पृ॑थि॒व्याम् प्रति॑ ष्ठापयति ।
+</details>
+
+
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -200,8 +226,15 @@ He takes the bunch in front; verily he makes it the chief.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन॑तिदृश्ञꣵ स्तृणाति ।   
-प्र॒जयै॒वैन॑म्प॒शुभि॒रन॑तिदृश्ञङ्करोति  ।  
+प्र॒जयै॒वैन॑म् प॒शुभि॒र् अन॑तिदृश्ञङ् करोति  ।  
 </details>
+
+<details><summary>Keith</summary>
+
+He strews it so as not to be very discernible;  
+verily he makes him not very discernible by offspring and cattle [2]. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -221,18 +254,31 @@ He takes the bunch in front; verily he makes it the chief.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उत्त॑रम्ब॒र्हिषᳶ॑ प्रस्त॒रꣳ सा॑दयति ।  
-प्र॒जा वै ब॒र्हिर्, यज॑मानᳶ प्रस्त॒रो,  यज॑मानमे॒वाऽय॑जमाना॒दुत्त॑रङ्करोति ।   
-
-तस्मा॒द्यज॑मा॒नोऽय॑जमाना॒दुत्त॑रो॒ऽन्तर्द॑धाति ।  
+उत्त॑रम् ब॒र्हिषᳶ॑ प्रस्त॒रꣳ सा॑दयति ।  
+प्र॒जा वै ब॒र्हिर्, यज॑मानᳶ प्रस्त॒रो,  
+यज॑मानम् ए॒वाऽय॑जमाना॒द् उत्त॑रङ् करोति ।   
+तस्मा॒द् यज॑मा॒नो ऽय॑जमाना॒द् उत्त॑रः।   
+अ॒न्तर् द॑धाति॒ - व्यावृ॑त्त्यै।
 </details>
+
+<details><summary>Keith</summary>
+
+He puts the bundle over the sacrificial strew,  
+the strew is offspring,  
+the bundle the sacrificer;  
+verily he makes the sacrificer superior to the non-sacrificer.  
+Therefore the sacrificer is superior to the non-sacrificer.  
+He puts (grass) between, for separation. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 उत्त॑रम्ब॒र्हिषᳶ॑ प्रस्त॒रꣳ सा॑दयति ।  
 प्र॒जा वै ब॒र्हिर्, यज॑मानᳶ प्रस्त॒रो,  यज॑मानमे॒वाऽय॑जमाना॒दुत्त॑रङ्करोति ।   
 
-तस्मा॒द्यज॑मा॒नोऽय॑जमाना॒दुत्त॑रो॒ऽन्तर्द॑धाति ।  
+तस्मा॒द्यज॑मा॒नोऽय॑जमाना॒दुत्त॑रः।  
+अ॒न्तर् द॑धाति॒ - व्यावृ॑त्त्यै।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -240,30 +286,47 @@ He takes the bunch in front; verily he makes it the chief.
 6उत्तरं बर्हिष इत्यादि ॥ गतम् ॥
 </details>
 
+## अञ्जनम्
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-व्यावृ॑त्त्या अ॒नक्ति॑ ह॒विष्कृ॑तमे॒वैनꣳ॑ सुव॒र्गल्ँलो॒कङ्ग॑मयति त्रे॒धाऽन॑क्ति॒ त्रय॑ इ॒मे लो॒का ए॒भ्य ए॒वैन॑ल्ँलो॒केभ्यो॑ऽनक्ति
+अ॒नक्ति॑ ह॒विष्कृ॑तमे॒वैनꣳ॑ सुव॒र्गल्ँलो॒कङ्ग॑मयति त्रे॒धाऽन॑क्ति॒ त्रय॑ इ॒मे लो॒का ए॒भ्य ए॒वैन॑ल्ँलो॒केभ्यो॑ऽनक्ति
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व्यावृ॑त्त्या अ॒नक्ति॑ ।  
-
-ह॒विष्कृ॑तमे॒वैनꣳ॑ सुव॒र्गल्ँलो॒कङ्ग॑मयति ।  
-
-त्रे॒धाऽन॑क्ति ।
-
-त्रय॑ इ॒मे लो॒का ए॒भ्य ए॒वैन॑ल्ँलो॒केभ्यो॑ऽनक्ति ।  
+अ॒नक्ति॑ ।  
+ह॒विष्-कृ॑तम् ए॒वैनꣳ॑ सुव॒र्गल्ँ लो॒कङ् ग॑मयति ।  
 </details>
+
+<details><summary>Keith</summary>
+
+He anoints it; verily he makes it into an offering and causes it to go to the world of heaven. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-व्यावृ॑त्त्या अ॒नक्ति॑ ।  
+अ॒नक्ति॑ ।  
+ह॒विष्-कृ॑तम् ए॒वैनꣳ॑ सुव॒र्गल्ँ लो॒कङ् ग॑मयति ।  
+</details>
 
-ह॒विष्कृ॑तमे॒वैनꣳ॑ सुव॒र्गल्ँलो॒कङ्ग॑मयति ।  
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रे॒धाऽन॑क्ति ।
+त्रय॑ इ॒मे लो॒का,  
+ए॒भ्य ए॒वैन॑ल्ँ लो॒केभ्यो॑ऽनक्ति ।  
+</details>
 
+<details><summary>Keith</summary>
+
+He anoints it in three places; these worlds are three; verily he anoints it for these worlds. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+त्रे॒धाऽन॑क्ति ।  
 त्रय॑ इ॒मे लो॒का ए॒भ्य ए॒वैन॑ल्ँलो॒केभ्यो॑ऽनक्ति ।  
 </details>
 
@@ -280,8 +343,16 @@ He takes the bunch in front; verily he makes it the chief.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न प्रति॑ शृणाति ।  
-यत्प्र॑तिशृणी॒यादनू᳚र्ध्वम्भावुक॒य्ँयज॑मानस्य स्यात् ।
+यत् प्र॑तिशृणी॒याद् - अनू᳚र्ध्वम्-भावुक॒य्ँ यज॑मानस्य +++(कृते)+++ स्यात् ।
 </details>
+
+<details><summary>Keith</summary>
+
+He does not break off (its edges);  
+if he were to break them off,  
+it would not go aloft for the sacrificer. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -294,6 +365,7 @@ He takes the bunch in front; verily he makes it the chief.
 8न प्रति शृणातीति - नाकृष्य पुनः प्रक्षिपति । अनूर्ध्वभावुकमनूर्ध्वलोके प्रभवम् । छान्दस उकञ् ।
 </details>
 
+## प्रहरणम्
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 उ॒परी॑व॒ प्र ह॑रति [26]  उ॒परी॑व॒ हि सु॑व॒र्गो लो॒को नि य॑च्छति॒ वृष्टि॑मे॒वास्मै॒ नि य॑च्छति॒ नात्य॑ग्र॒म्प्र ह॑रे॒द्यदत्य॑ग्रम्प्र॒हरे॑दत्यासा॒रिण्य॑ध्व॒र्योर्नाशु॑का स्या॒न्न पु॒रस्ता॒त्प्रत्य॑स्ये॒द्यत्पु॒रस्ता᳚त्प्र॒त्यस्ये᳚थ्सुव॒र्गाल्लो॒काद्यज॑मान॒म्प्रति॑ नुदे॒त्प्राञ्च॒म्प्र ह॑रति॒ यज॑मानमे॒व सु॑व॒र्गल्ँलो॒कङ्ग॑मयति॒ न विष्व॑ञ्च॒व्ँवि यु॑या॒द्यद्विष्व॑ञ्चव्ँवियु॒यात् [27]  
@@ -303,47 +375,90 @@ He takes the bunch in front; verily he makes it the chief.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ॒परी॑व॒ प्र ह॑रति ।   
-उ॒परी॑व॒ हि सु॑व॒र्गो लो॒को नि य॑च्छति ।  
-वृष्टि॑मे॒वास्मै॒ नि य॑च्छति ।  
-नात्य॑ग्र॒म्प्र ह॑रेत्  ।  
+उ॒परी॑व॒ हि सु॑व॒र्गो लो॒कः।
 </details>
+
+<details><summary>Keith</summary>
+
+He pushes it upwards as it were [3], for the world of heaven is upwards as it were. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 उ॒परी॑व॒ प्र ह॑रति ।   
-उ॒परी॑व॒ हि सु॑व॒र्गो लो॒को नि य॑च्छति ।  
+उ॒परी॑व॒ हि सु॑व॒र्गो लो॒कः।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नि य॑च्छति ।  
 वृष्टि॑मे॒वास्मै॒ नि य॑च्छति ।  
-नात्य॑ग्र॒म्प्र ह॑रेत्  ।  
+</details>
+
+<details><summary>Keith</summary>
+
+He depresses it; verily he brings down rain for him. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नि य॑च्छति ।  
+वृष्टि॑मे॒वास्मै॒ नि य॑च्छति ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-9उपरीत्यादि ॥ गतम् । नियच्छति न्यञ्चं पातयति । अत्यग्रमिति । अग्रात्ययेन न प्रहरेत् ।
+9उपरीत्यादि ॥ गतम् । नियच्छति न्यञ्चं पातयति । 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+नात्य॑ग्र॒म्प्र ह॑रेत्  ।  
 यदत्य॑ग्रम्प्र॒हरे॑दत्यासा॒रिण्य॑ध्व॒र्योर्नाशु॑का स्यात् ।   
 </details>
 
 <details><summary>मूलम्</summary>
 
-यदत्य॑ग्रम्प्र॒हरे॑दत्यासा॒रिण्य॑ध्व॒र्योर्नाशु॑का स्यात् ।   
+नात्य॑ग्र॒म् प्र ह॑रेत्  ।  
+यद् अत्य॑ग्रम् प्र॒हरे॑द्  
+अत्यासा॒रिण्य् अ॑ध्व॒र्योर् नाशु॑का स्यात् ।   
 </details>
+
+<details><summary>Keith</summary>
+
+He should not put forward the points too much;  
+if he were to do so,  
+there would be a violent torrent to destroy the Adhvaryu. 
+</details>
+
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
+अत्यग्रमिति । अग्रात्ययेन न प्रहरेत् ।  
 अत्यासारिणीति । अत्यासारशीला अध्वर्योर्नाशहेतुः वृष्टिस्स्यात् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न पु॒रस्ता॒त्प्रत्य॑स्येत् ।   
+न +++(मूलापेक्षया)+++ पु॒रस्ता॒त् प्रत्य॑स्येत् ।   
+यत् पु॒रस्ता᳚त् प्र॒त्यस्ये᳚त् -  
+सुव॒र्गाल् लो॒काद् यज॑मान॒म् प्रति॑ नुदेत् ।
 </details>
+
+<details><summary>Keith</summary>
+
+He should not throw it (so that the roots are) in front. If he were to do this, he would thrust the sacrificer from the world of heaven. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 न पु॒रस्ता॒त्प्रत्य॑स्येत् ।   
+यत्पु॒रस्ता᳚त्प्र॒त्यस्ये᳚त् ।  
+सु॒व॒र्गाल्लो॒काद्यज॑मान॒म्प्रति॑ नुदेत् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -353,16 +468,18 @@ He takes the bunch in front; verily he makes it the chief.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत्पु॒रस्ता᳚त्प्र॒त्यस्ये᳚त् ।  
-सु॒व॒र्गाल्लो॒काद्यज॑मान॒म्प्रति॑ नुदेत् ।  
 प्राञ्च॒म्प्र ह॑रति ।  
-यज॑मानमे॒व सु॑व॒र्गल्ँलो॒कङ्ग॑मयति ।  
+यज॑मानम् ए॒व सु॑व॒र्गल्ँ लो॒कङ् ग॑मयति ।  
 </details>
+
+<details><summary>Keith</summary>
+
+He puts it forward (with its points) to the east; verily he makes the sacrificer go to the world of heaven. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-यत्पु॒रस्ता᳚त्प्र॒त्यस्ये᳚त् ।  
-सु॒व॒र्गाल्लो॒काद्यज॑मान॒म्प्रति॑ नुदेत् ।  
 प्राञ्च॒म्प्र ह॑रति ।  
 यज॑मानमे॒व सु॑व॒र्गल्ँलो॒कङ्ग॑मयति ।  
 </details>
@@ -372,47 +489,47 @@ He takes the bunch in front; verily he makes it the chief.
 प्राञ्चमित्यादि । गतम् ।
 </details>
 
+## वियवनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न विष्व॑ञ्च॒व्ँवि यु॑यात् ।  
-यद्विष्व॑ञ्चव्ँवियु॒यात् ।   
+न विष्व॑ञ्च॒व्ँ वि यु॑यात् ।  
+यद्विष्व॑ञ्चव्ँ वियु॒यात् स्त्र्य॑स्य जायेत ।
 </details>
+
+<details><summary>Keith</summary>
+
+He should not spread (the bunch) in all directions. If he were to spread (it) in all directions [4], a daughter would be born to him. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 न विष्व॑ञ्च॒व्ँवि यु॑यात् ।  
-यद्विष्व॑ञ्चव्ँवियु॒यात् ।   
+यद्विष्व॑ञ्चव्ँवियु॒यात् स्त्र्य॑स्य जायेत ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 न विष्वञ्चमिति । विषूचीनाग्रं न विश्लेषयेत् ।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-स्त्र्य॑स्य जायेत ।  
-ऊ॒र्ध्वमुद्यौ᳚ति ।  
-</details>
-
-<details><summary>मूलम्</summary>
-
-स्त्र्य॑स्य जायेत ।  
-ऊ॒र्ध्वमुद्यौ᳚ति ।  
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
 स्त्र्यस्येति । विषूचीनत्वात् स्त्रीव्यञ्जनस्य ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऊ॒र्ध्वमि॑व॒ हि पु॒ꣳ॒सᳶ पुमा॑ने॒वास्य॑ जायते ।  
+ऊ॒र्ध्वम् उद्यौ᳚ति ।  
+ऊ॒र्ध्वम् इ॑व॒ हि पु॒ꣳ॒सᳶ।  
+पुमा॑न् ए॒वास्य॑ जायते ।  
 </details>
+
+<details><summary>Keith</summary>
+
+He strews it upwards, for upwards is as it were connected with a man; verily a male child is born to him. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
+ऊ॒र्ध्वमुद्यौ᳚ति ।  
 ऊ॒र्ध्वमि॑व॒ हि पु॒ꣳ॒सᳶ पुमा॑ने॒वास्य॑ जायते ।  
 </details>
 
@@ -426,14 +543,21 @@ He takes the bunch in front; verily he makes it the chief.
 यथ्स्फ्येन॑ वोपवे॒षेण॑ वा योयु॒प्येत॒ स्तृति॑रे॒वास्य॒ सा हस्ते॑न योयुप्यते॒ यज॑मानस्य गोपी॒थाय॑
 </details>
 
+## मसृणीकरणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यथ्स्फ्येन॑ वोपवे॒षेण॑ वा यो॒यु॒प्येत॑ ।  
+यथ् स्फ्येन॑ वोपवे॒षेण॑ वा योयु॒प्येत॒ स्तृति॑र् ए॒वास्य॒ सा ।  
 </details>
+
+<details><summary>Keith</summary>
+
+If he were to smooth it with the sword or the poking-stick, that would be his ruin. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-यथ्स्फ्येन॑ वोपवे॒षेण॑ वा यो॒यु॒प्येत॑ ।  
+यथ्स्फ्येन॑ वोपवे॒षेण॑ वा योयु॒प्येत॒ स्तृति॑रे॒वास्य॒ सा ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -443,10 +567,15 @@ He takes the bunch in front; verily he makes it the chief.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्तृति॑रे॒वास्य॒ सा हस्ते॑न योयुप्यते ।  
-
+हस्ते॑न योयुप्यते ।  
 यज॑मानस्य गोपी॒थाय॑ ।  
 </details>
+
+<details><summary>Keith</summary>
+
+He smooths it with his hand, for the protection of the sacrificer. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -460,6 +589,7 @@ He takes the bunch in front; verily he makes it the chief.
 हस्तेनेत्यादि । गतम् । गोपीथाय रक्षणाय भवति ॥
 </details>
 
+## प्रस्तरस्य यजमानत्वम्
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ब्रह्मवा॒दिनो॑ वदन्ति॒ किय्ँय॒ज्ञस्य॒ यज॑मान॒ इति॑ प्रस्त॒र इति॒ तस्य॒ क्व॑ सुव॒र्गो लो॒क इत्या॑हव॒नीय॒ इति॑ ब्रूया॒द्यत्प्र॑स्त॒रमा॑हव॒नीये᳚ प्र॒हर॑ति॒ यज॑मानमे॒व [28]  सु॒व॒र्गल्ँलो॒कङ्ग॑मयति
@@ -467,11 +597,24 @@ He takes the bunch in front; verily he makes it the chief.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्र॒ह्म॒वा॒दिनो॑ वदन्ति ।  
-किय्ँय॒ज्ञस्य॒ यज॑मान॒ इति॑, प्रस्त॒र इति॑ ।  
-
-तस्य॒ क्व॑ सुव॒र्गो लो॒क इति॑ ,  आ॒ह॒व॒नीय॒ इति॑ ब्रूयात् ।  
+ब्र॒ह्म॒वा॒दिनो॑ वदन्ति॒ -  
+"किय्ँय॒ज्ञस्य॒ यज॑मान॒" इति॑।  
+"प्रस्त॒र" इति॑ ।  
+"तस्य॒ क्व॑ सुव॒र्गो लो॒क" इति॑।  
+"आ॒ह॒व॒नीय॒" इति॑ ब्रूयात् ।  
+यत्प्र॑स्त॒रमा॑हव॒नीये᳚ प्र॒हर॑ति॒  
+यज॑मानमे॒व सु॑व॒र्गल्ँलो॒कङ्ग॑मयति ।
 </details>
+
+<details><summary>Keith</summary>
+
+The theologians say, 'What in the sacrifice is the sacrificer'  
+'The bundle' (is the reply).  
+'Where in it is the world of heaven?'  
+'The Ahavaniya (fire)' he should reply.  
+In that he puts the bundle on the Ahavaniya, he makes the sacrificer [5] go to the world of heaven. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -479,6 +622,8 @@ He takes the bunch in front; verily he makes it the chief.
 किय्ँय॒ज्ञस्य॒ यज॑मान॒ इति॑, प्रस्त॒र इति॑ ।  
 
 तस्य॒ क्व॑ सुव॒र्गो लो॒क इति॑ ,  आ॒ह॒व॒नीय॒ इति॑ ब्रूयात् ।  
+यत्प्र॑स्त॒रमा॑हव॒नीये᳚ प्र॒हर॑ति॒  
+यज॑मानमे॒व सु॑व॒र्गल्ँलो॒कङ्ग॑मयति ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -488,8 +633,7 @@ He takes the bunch in front; verily he makes it the chief.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत्प्र॑स्त॒रमा॑हव॒नीये᳚ प्र॒हर॑ति ।  
-यज॑मानमे॒व सु॑व॒र्गल्ँलो॒कङ्ग॑मयति ।  
+
 </details>
 
 <details><summary>मूलम्</summary>
@@ -503,6 +647,7 @@ He takes the bunch in front; verily he makes it the chief.
 यदित्यादि । गतम् ॥
 </details>
 
+## अनुप्रहरणम्
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 वि वा ए॒तद्यज॑मानो लिशते॒ यत्प्र॑स्त॒रय्ँयो॑यु॒प्यन्ते॑ ब॒र्हिरनु॒ प्रह॑रति॒ शान्त्यै
@@ -510,12 +655,18 @@ He takes the bunch in front; verily he makes it the chief.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वि वा ए॒तद्यज॑मानो लिशते ।  
-
-यत्प्र॑स्त॒रय्ँयो॑यु॒प्यन्ते॑ ।   
+वि वा ए॒तद्यज॑मानो लिशते॒  
+यत् प्र॑स्त॒रय्ँ यो॑यु॒प्यन्ते॑ ।   
 
 ब॒र्हिरनु॒ प्रह॑रति॒ शान्त्यै᳚ ।
 </details>
+
+<details><summary>Keith</summary>
+
+The sacrificer is rent in that they smooth the bundle;  
+he throws the strew along after it, for calming.  
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -531,20 +682,26 @@ He takes the bunch in front; verily he makes it the chief.
 12वि वा एतदिति ॥ प्रस्तरस्य यजमानत्वात् तस्य विश्लथनेन यजमानो लिशते विबाध्यते । लिश अल्पीभावे, तौदादिकः । तत्र बर्हिरनुप्रहरणेन स्वस्य परिहृतत्वात् तच्छान्तिः सुखं यजमानस्य ॥
 </details>
 
+## अवेपनम्
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-अनारम्भ॒ण इ॑व॒ वा ए॒तर्ह्य॑ध्व॒र्युस्स ई᳚श्व॒रो वे॑प॒नो भवि॑तोर्ध्रु॒वासीती॒माम॒भि मृ॑शती॒यव्ँवै ध्रु॒वाऽस्यामे॒व प्रति॑ तिष्ठति॒ न वे॑प॒नो भ॑व॒त्यगा(३)न॑ग्नी॒दित्या॑ह॒ यद्ब्रू॒यादग॑न्न॒ग्निरित्य॒ग्नाव॒ग्निङ्ग॑मये॒न्निर्यज॑मानꣳ सुव॒र्गाल्लो॒काद्भ॑जे॒दग॒न्नित्ये॒व ब्रू॑या॒द्यज॑मानमे॒व सु॑व॒र्गल्ँलो॒कङ्ग॑मयति ॥ [29]
+अनारम्भ॒ण इ॑व॒ वा ए॒तर्ह्य॑ध्व॒र्युस्स ई᳚श्व॒रो वे॑प॒नो भवि॑तोर् ध्रु॒वासीती॒माम॒भि मृ॑शती॒यव्ँवै ध्रु॒वाऽस्यामे॒व प्रति॑ तिष्ठति॒ न वे॑प॒नो भ॑व॒त्यगा(३)न॑ग्नी॒दित्या॑ह॒ यद्ब्रू॒यादग॑न्न॒ग्निरित्य॒ग्नाव॒ग्निङ्ग॑मये॒न्निर्यज॑मानꣳ सुव॒र्गाल्लो॒काद्भ॑जे॒दग॒न्नित्ये॒व ब्रू॑या॒द्यज॑मानमे॒व सु॑व॒र्गल्ँलो॒कङ्ग॑मयति ॥ [29]
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ना॒र॒म्भ॒ण इ॑व॒ वा ए॒तर्ह्य॑ध्व॒र्युः ।   
-
-स ई᳚श्व॒रो वे॑प॒नो भवि॑तोर्ध्रु॒वासीति॑ ।  
-इ॒माम॒भि मृ॑शति ।  
-इ॒यव्ँवै ध्रु॒वाऽस्यामे॒व प्रति॑ तिष्ठति ।   
+अ॒ना॒र॒+++(←ल)+++म्भ॒ण इ॑व॒ वा ए॒तर्ह्य॑ध्व॒र्युः ।  
+स ई᳚श्व॒रो वे॑प॒नो भवि॑तोः।  
+"ध्रु॒वासी"ती॒माम् अ॒भि मृ॑शति ।  
+इ॒यव्ँवै ध्रु॒वा, ऽस्यामे॒व प्रति॑ तिष्ठति ।   
 न वे॑प॒नो भ॑वति ।  
 </details>
+
+<details><summary>Keith</summary>
+
+The Adhvaryu has no support, and he is liable to be seized by shivering. (With the words), 'Thou art firm (dhruva)', he strokes it; the Dhruva is this (earth); verily he finds support in it, and shivers not. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -561,10 +718,17 @@ He takes the bunch in front; verily he makes it the chief.
 13अनारम्भण इवेत्यादि ॥ अध्वरस्य नेतृत्वाच्चलितत्वादप्रतिष्ठितत्वं वेपनत्वम् ॥
 </details>
 
+## अगान् अग्नीद्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अगा(३)न॑ग्नी॒दित्या॑ह ।  
+"अगा(३)न् अ॑ग्नी॒द्?" इत्या॑ह ।  
 </details>
+
+<details><summary>Keith</summary>
+
+'Has he gone, O Agnidh? he says. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -578,14 +742,22 @@ He takes the bunch in front; verily he makes it the chief.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद्ब्रू॒यादग॑न्न॒ग्निरिति॑ ।  
-अ॒ग्नाव॒ग्निङ्ग॑मयेत् ।  
+यद् ब्रू॒याद् "अग॑न्न् अ॒ग्निर्" इति॑   
+अ॒ग्नाव् अ॒ग्निङ् ग॑मये॒न्   
+निर् यज॑मानꣳ सुव॒र्गाल् लो॒काद् भ॑जेत् ।
 </details>
+
+<details><summary>Keith</summary>
+
+If (the Agnidh) were to say, 'Agni has gone?' he would make Agni go into the fire, and exclude the sacrificer from the world of heaven. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 यद्ब्रू॒यादग॑न्न॒ग्निरिति॑ ।  
 अ॒ग्नाव॒ग्निङ्ग॑मयेत् ।  
+निर्यज॑मानꣳ सुव॒र्गाल्लो॒काद्भ॑जेत् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -595,14 +767,18 @@ He takes the bunch in front; verily he makes it the chief.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-निर्यज॑मानꣳ सुव॒र्गाल्लो॒काद्भ॑जेत् ।  
-अग॒न्नित्ये॒व ब्रू॑यात् ।  
-यज॑मानमे॒व सु॑व॒र्गल्ँलो॒कङ्ग॑मयति ॥
+"अग॒न्न्" इत्ये॒व ब्रू॑यात् ।  
+यज॑मानम् ए॒व सु॑व॒र्गल्ँ लो॒कङ् ग॑मयति ॥
 </details>
+
+<details><summary>Keith</summary>
+
+So he should say only 'Has he gone?' Verily he makes the sacrificer go to the world of heaven.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-निर्यज॑मानꣳ सुव॒र्गाल्लो॒काद्भ॑जेत् ।  
 अग॒न्नित्ये॒व ब्रू॑यात् ।  
 यज॑मानमे॒व सु॑व॒र्गल्ँलो॒कङ्ग॑मयति ॥
 </details>
