@@ -27,6 +27,12 @@ Viśvarupa, son of Tvastr, was the domestic priest of the gods,
 वि॒श्वरू॑पो॒ वै त्वा॒ष्ट्रᳶ पु॒रोहि॑तो दे॒वाना॑मासीत् ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+वि॒श्वरू॑प॒ इति॑ वि॒श्व-रू॒पः॒ । वै । त्वा॒ष्ट्रः । पु॒रोहि॑त॒ इति॑ पु॒रः-हि॒तः॒ । दे॒वाना᳚म् । आ॒सी॒त्॒ । 
+</details>
+
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 1अथ दर्शपूर्णमासब्राह्मणं प्राजापत्यं काण्डं विश्वरूप इत्यादयः षडनुवाकाः । तत्राग्नीषोमीयमेकादशकपालं पूर्णमासे विधास्यन् तदर्थमर्थवादं प्रस्तौति - विश्वरूपो नाम त्वष्टुः पुत्रः देवानां पुरोहितः आसीत् । 'पुरोऽव्ययम्' इति गतित्वात् 'गतिरनन्तरः' इति गतेः प्रकृतिस्वरत्वम् ।
@@ -47,6 +53,12 @@ and the sister's son of the Asuras.
 
 स्व॒स्रीयोऽसु॑राणाम् +++(आसीत्)+++।  
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+स्व॒स्रीयः॑ । असु॑राणाम् । 
+</details>
+
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -71,6 +83,12 @@ He had three heads, one which drank Soma, one Sura, and one which ate food.
 सोम॒पानꣳ॑ सुरा॒पान॑म॒न्नाद॑नम् ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+तस्य॑ । त्रीणि॑ । शी॒र्‌षाणि॑ । आ॒स॒न्न्॒ । सो॒म॒पान॒मिति॑ सोम-पान᳚म् । सु॒रा॒पान॒मिति॑ सुरा-पान᳚म् । अ॒न्नाद॑न॒मित्य॑न्न-अद॑नम् । 
+</details>
+
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तस्य सोमपानादीनि त्रीणि शीर्षाण्यासन् 'शीर्षन् छन्दसि' इति शीर्षादेशः ।  
@@ -94,6 +112,12 @@ He promised openly the share to the gods,
 स प्र॒त्यख्ष॑न्दे॒वेभ्यो॑ भा॒गम॑वदत् ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+3 । सः । प्र॒त्यख्ष॒मिति॑ प्रति-अख्ष᳚म् । दे॒वेभ्यः॑ । भा॒गम् । अ॒व॒द॒त्॒ ।
+</details>
+
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 स देवेभ्यः प्रत्यक्षं भागमवदत् यूयमेव भागार्हा इति देवानां सन्निधौ देवानवदत् । प्रत्यक्षपरोक्षशब्दौ व्याख्यातौ ।
@@ -114,6 +138,12 @@ secretly to the Asuras.
 
 प॒रोख्ष॒मसु॑रेभ्यः +++(भागमवदत्)+++ ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+प॒रोख्ष॒मिति॑ परः-अख्ष᳚म् । असु॑रेभ्यः ।
+</details>
+
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -139,6 +169,12 @@ Men promise openly the share to every one; if they promise any one secretly, his
 यस्मा॑ ए॒व प॒रोख्ष॒व्ँवद॑न्ति ।  
 तस्य॑ भा॒ग उ॑दि॒तः ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+सर्व॑स्मै । वै । प्र॒त्यख्ष॒मिति॑ प्रति-अख्ष᳚म् । भा॒गम् । व॒द॒न्ति॒ । यस्मै᳚ । ए॒व । प॒रोख्ष॒मिति॑ परः-अख्ष᳚म् । वद॑न्ति । तस्य॑ । भा॒गः । उ॒दि॒तः । 
+</details>
+
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -169,6 +205,12 @@ Therefore Indra was afraid (thinking), 'Such an one is diverting the sovereignty
 ई॒दृङ्वै रा॒ष्ट्रव्ँवि प॒र्याव॑र्तय॒तीति॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+तस्मा᳚त् । इन्द्रः॑ । अ॒बि॒भे॒त्॒ । 5 । ई॒दृङ्ङ् । वै । रा॒ष्ट्रम् । वीति॑ । प॒र्याव॑र्तय॒तीति॑ परि-आव॑र्तयति । इति॑ । 
+</details>
+
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तस्मात् तथा कुर्वतो विश्वरूपाद् इन्द्रोऽबिभेत् -  
@@ -197,6 +239,12 @@ He took his bolt and smote off his heads.
 तस्य॒ वज्र॑मा॒दाय॑ शी॒र्षाण्य॑च्छिनत् ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+6 । तस्य॑ । वज्र᳚म् । आ॒दायेत्या᳚-दाय॑ । शी॒र्‌षाणि॑ । अ॒च्छि॒न॒त्॒ । 
+</details>
+
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 2तस्येत्यादि ॥ गतम् ।
@@ -224,6 +272,13 @@ He took his bolt and smote off his heads.
 यद॒न्नाद॑न॒ꣳ॒ स ति॑त्ति॒रिः ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+यत् । सो॒म॒पान॒मिति॑ सोम-पान᳚म् । [1]  
+1 । आसी᳚त् । सः । क॒पिञ्ज॑लः । अ॒भ॒व॒त्॒ । यत् । सु॒रा॒पान॒मिति॑ सुरा-पान᳚म् । सः । क॒ल॒विङ्कः॑ । यत् । अ॒न्नाद॑न॒मित्य॑न्न-अद॑नम् । सः । ति॒त्ति॒रिः । 
+</details>
+
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 कपिञ्जलः अपाश्वाति(??) ।
@@ -250,6 +305,12 @@ He seized with his hand the guilt of slaying him,
 तस्या᳚ञ्ज॒लिना᳚ ब्रह्मह॒त्यामुपा॑गृह्णात् ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+तस्य॑ । अ॒ञ्ज॒लिना᳚ । ब्र॒ह्म॒ह॒त्यामिति॑ ब्रह्म-ह॒त्याम् । उपेति॑ । अ॒गृ॒ह्णा॒त्॒ ।
+</details>
+
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अञ्जलिनेति । बुद्धिपूर्वकृतत्वख्यापनार्थं अञ्जलिग्रहणम् । तस्येति संबन्धसामान्ये षष्ठी तत्सबन्धेन आत्मनः ब्रह्महत्येति । तस्य वधेनेति वा सामर्थ्याल्लभ्यते । 'हनस्तच' इति हन्तेः क्यंप् ।
@@ -271,6 +332,12 @@ and bore it for a year.
 ताꣳ स॑व्ँवथ्स॒रम॑बिभः ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ताम् । सँ॒व्व॒थ्स॒रमिति॑ सम्-व॒थ्स॒रम् । अ॒बि॒भः॒ । 
+</details>
+
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तामिति । अकृतप्रायश्चित्त एव तां ब्रह्महत्यां संवत्सरं भृतवान् ।
@@ -291,6 +358,12 @@ Creatures called out upon him, 'Thou art a Brahman slayer.'
 
 तम्भू॒तान्य॒भ्य॑क्रोश॒न्ब्रह्म॑ह॒न्निति॑ ।  
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+तम् । भू॒तानि॑ । अ॒भीति॑ । अ॒क्रो॒श॒न्न्॒ ।
+</details>
+
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -315,6 +388,15 @@ He appealed to the earth, 'Take a third part of my guilt.'
 स पृ॑थि॒वीमुपा॑सीदत् ।  
 अ॒स्यै ब्र॑ह्मह॒त्यायै॒ तृती॑य॒म् प्रति॑ गृहा॒णेति॑ ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+2 । ब्रह्म॑ह॒न्निति॒ ब्रह्म॑-ह॒न्न्॒ । इति॑ । सः । पृ॒थि॒वीम् । उपेति॑ । अ॒सी॒द॒त्॒ । 
+
+
+3 । अ॒स्यै । ब्र॒ह्म॒ह॒त्याया॒ इति॑ ब्रह्म-ह॒त्यायै᳚ । तृती॑यम् । प्रतीति॑ । गृ॒हा॒ण॒ । इति॑ ।
+</details>
+
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -343,6 +425,12 @@ She said, 'Let me choose a boon. I deem that I shall be overcome through digging
 ततो॒ मा परा॑ भूव॒म् इति॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+। सा । अ॒ब्र॒वी॒त्॒ । 5 । वर᳚म् । वृ॒णै॒ । खा॒तात् । प॒रा॒भ॒वि॒ष्यन्तीति॑ परा-भ॒वि॒ष्यन्ती᳚ । म॒न्ये॒ । ततः॑ । मा । परेति॑ । भू॒व॒म्॒ । इति॑ । 6 ।
+</details>
+
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 सेत्यादि । किं वृणौ । प्राप्तकाले लोट् ।
@@ -368,6 +456,13 @@ He replied, 'Before [2] a year is out it will grow up for thee.'
 पु॒रा ते  स॒व्ँव॒थ्स॒रादपि॑ रोहा॒दित्य॑ब्रवीत् ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+पु॒रा । ते॒ । [2]  
+1 । सँ॒व्व॒थ्स॒रादिति॑ सम्-व॒थ्स॒रात् । अपीति॑ । रो॒हा॒त्॒ । इति॑ । अ॒ब्र॒वी॒त्॒ ।
+</details>
+
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अथेन्द्रोऽब्रवीत् - संवत्सरसमाप्तेः प्राक् तव खातमपि रोहात् विरोहति । लेट्याडागमः ।
@@ -389,6 +484,12 @@ Therefore before the year is out the dug-out portion of earth grows up again, fo
 तस्मा᳚त्पु॒रा स॑व्ँवथ्स॒रात्पृ॑थि॒व्यै खा॒तमपि॑ रोहति वारे॑-वृत॒ꣵ॒ ह्य् अ॑स्यै
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+तस्मा᳚त् । पु॒रा । सँ॒व्व॒थ्स॒रादिति॑ सम्-व॒थ्स॒रात् । पृ॒थि॒व्यै । खा॒तम् । अपीति॑ । रो॒ह॒ति॒ । वारे॑वृत॒मिति॒ वारे᳚-वृ॒त॒म्॒ । हि । अ॒स्यै॒ ।
+</details>
+
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तस्मादित्यादि । गतम् ।
@@ -409,6 +510,12 @@ She took a third of his guilt.
 
 तृती॑यम् ब्रह्मह॒त्यायै॒ प्रत्य॑गृह्णात् ।  
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+2 । तृती॑यम् । ब्र॒ह्म॒ह॒त्याया॒ इति॑ ब्रह्म-ह॒त्यायै᳚ । प्रतीति॑ । अ॒गृ॒ह्णा॒त्॒ ।
+</details>
+
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -437,6 +544,12 @@ That became a natural fissure;
 तथ्स्वकृ॑त॒मिरि॑णमभवत् ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+तत् । स्वकृ॑त॒मिति॒ स्व-कृ॒त॒म्॒ । इरि॑णम् । अ॒भ॒व॒त्॒ ।
+</details>
+
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 3तदित्यादि ॥ स्वेनैव कृतेन कारणान्तरेण कृतं स्वकृतम् । 'तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् ।
@@ -458,6 +571,12 @@ therefore one who has piled up a fire-altar and whose deity is faith should not 
 तस्मा॒दाहि॑ताग्निश्श्र॒द्धादे॑व॒स्स्वकृ॑त॒ इरि॑णे॒ नाव॑स्येत् ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+तस्मा᳚त् । आहि॑ताग्नि॒र् इत्याहि॑त-अ॒ग्निः॒ । श्र॒द्धादे॑व॒ इति॑ श्र॒द्धा-दे॒वः॒ । स्वकृ॑त॒ इति॒ स्व-कृ॒ते॒ । इरि॑णे । न । अवेति॑ । स्ये॒त्॒ ।
+</details>
+
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 इरिणं ऊषरं श्रद्धादेवः धार्मिकः नावस्येत् न वसेत् । कश्चिदाह – श्रद्धावान्यष्टुकः श्रद्धादेवः स **स्वकृते इरिणे** देव-यजनाध्यवसानं न कुर्यादिति ।
@@ -478,6 +597,12 @@ for that is the colour of guilt.
 
 ब्र॒ह्म॒ह॒त्यायै॒ ह्ये॑ष वर्णः॑ ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+ब्र॒ह्म॒ह॒त्याया॒ इति॑ ब्रह्म-ह॒त्यायै᳚ । हि । ए॒षः । वर्णः॑ ।
+</details>
+
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -508,6 +633,12 @@ He appealed to the trees, 'Take a third part of my guilt.'
 अ॒स्यै ब्र॑ह्मह॒त्यायै॒ तृती॑य॒म्प्रति॑ गृह्णी॒तेति॑ ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+सः । वन॒स्पतीन्॑ । उपेति॑ । अ॒सी॒द॒त्॒ । 3 । अ॒स्यै । ब्र॒ह्म॒ह॒त्याया॒ इति॑ ब्रह्म-ह॒त्यायै᳚ । तृती॑यम् । प्रतीति॑ । गृ॒ह्णी॒त॒ । इति॑ ।
+</details>
+
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 4स वनस्पतीनित्यादि ॥ गतम् ।
@@ -535,6 +666,13 @@ They said, 'Let us choose a boon. We deem that we shall be overcome through prun
 ततो॒ मा परा॑ भू॒मेति॑ ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+। ते । अ॒ब्रु॒व॒न्न्॒ । 5 । वर᳚म् । वृ॒णा॒म॒है॒ । वृ॒क्णात् । [3]  
+1 । प॒रा॒भ॒वि॒ष्यन्त॒ इति॑ परा-भ॒वि॒ष्यन्तः॑ । म॒न्या॒म॒हे॒ । ततः॑ । मा । परेति॑ । भू॒म॒ । इति॑ । 
+</details>
+
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 वृक्णादिति । छिन्नात् तद्-अवयवात् । वृश्चतेः निष्ठायां 'ओदितश्च' इति निष्ठानत्वं, तस्यासिद्धत्वात् 'स्कोस्संयोगाद्योरन्ते च' इति सलोपः, 'खरि च' इति चर्त्वम् ॥
@@ -561,6 +699,12 @@ Therefore from the pruning of trees more (shoots) spring up, for that was what t
 तस्मा॑दा॒व्रश्च॑नाद्वृ॒ख्षाणा॒म्भूयाꣳ॑स॒ उत्ति॑ष्ठन्ति॒ वारे॑वृत॒ꣵ॒ ह्य् ए॑षा॒म्
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+2 । आ॒व्रश्च॑ना॒दित्या᳚-व्रश्च॑नात् । वः॒ । भूयाꣳ॑सः । उदिति॑ । ति॒ष्ठा॒न्॒ । इति॑ । अ॒ब्र॒वी॒त्॒ । तस्मा᳚त् । आ॒व्रश्च॑ना॒दित्या᳚-व्रश्च॑नात् । वृ॒ख्षाणा᳚म् । भूयाꣳ॑सः । उदिति॑ । ति॒ष्ठ॒न्ति॒ । वारे॑वृत॒मिति॒ वारे᳚-वृ॒त॒म्॒ । हि । ए॒षा॒म्॒ । 
+</details>
+
+
 ### निर्यासः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -585,6 +729,11 @@ They took a third part of his guilt, it became sap; therefore one should not par
 
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+3 । तृती॑यम् । ब्र॒ह्म॒ह॒त्याया॒ इति॑ ब्रह्म-ह॒त्यायै᳚ । प्रतीति॑ । अ॒गृ॒ह्ण॒न्न्॒ । सः । नि॒र्या॒स इति॑ निः-या॒सः । अ॒भ॒व॒त्॒ । तस्मा᳚त् । नि॒र्या॒सस्येति॑ निः-या॒सस्य॑ । न । आ॒श्य᳚म् । ब्र॒ह्म॒ह॒त्याया॒ इति॑ ब्रह्म-ह॒त्यायै᳚ । हि । ए॒षः । वर्णः॑ । 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -601,6 +750,13 @@ Or rather of the sap which is red or which comes from the pruning one should not
 
 अथो॒ खलु॒ य ए॒व लोहि॑तो॒ यो वा॒ऽऽव्रश्च॑नान्नि॒र्येष॑ति॒ तस्य॒ नाश्य᳚म् [4] काम॑म॒न्यस्य
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+अथो॒ इति॑ । खलु॑ । यः । ए॒व । लोहि॑तः । यः । वा॒ । आ॒व्रश्च॑ना॒दित्या᳚-व्रश्च॑नात् । नि॒र्येष॒तीति॑ निः-येष॑ति । तस्य॑ । न । आ॒श्य᳚म् । [4]  
+1 । काम᳚म् । अ॒न्यस्य॑ ।
+</details>
+
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -633,6 +789,12 @@ He appealed to a concourse of women, 'Take the third of my guilt.'
 अ॒स्यै ब्र॑ह्मह॒त्यायै॒ तृती॑य॒म्प्रति॑ गृह्णी॒तेति॑ ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+सः । स्त्री॒ष॒ꣳ॒सा॒दमिति॑ स्त्री-स॒ꣳ॒सा॒दम् । उपेति॑ । अ॒सी॒द॒त्॒ । 2 । अ॒स्यै । ब्र॒ह्म॒ह॒त्याया॒ इति॑ ब्रह्म-ह॒त्यायै᳚ । तृती॑यम् । प्रतीति॑ । गृ॒ह्णी॒त॒ । इति॑ । 
+</details>
+
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 6स स्त्रीषंसादमित्यादि ॥ स्त्रियः सह सीदन्त्यस्मिन्निति स्त्रीषंसादं स्त्रीसमूहः । छान्दसं सांहितिकं षत्वम् ॥
@@ -660,6 +822,12 @@ They said, 'Let us choose a boon; let us obtain offspring from after the menses;
 काम॒मा विज॑नितो॒स्सम्भ॑वा॒मेति॑ ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+3 । ताः । अ॒ब्रु॒व॒न्न्॒ । 4 । वर᳚म् । वृ॒णा॒म॒है॒ । ऋत्वि॑यात् । प्र॒जामिति॑ प्र-जाम् । वि॒न्दा॒म॒है॒ । काम᳚म् । एति॑ । विज॑नितो॒रिति॒ वि-ज॒नि॒तोः॒ । समिति॑ । भ॒वा॒म॒ । इति॑ ।
+</details>
+
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ऋत्वियादिति । ऋतुः प्राप्तोऽस्येति ऋत्वियं आर्तवं उच्यते । 'छन्दसि घस्' इति घस्प्रत्ययः, वृषादिः द्रष्टव्यः ।
@@ -682,6 +850,12 @@ Therefore women obtain offspring from after the menses, and enjoy intercourse at
 तस्मा॒दृत्वि॑या॒थ्स्त्रियᳶ॑ प्र॒जाव्ँवि॑न्दन्ते ।  
 काम॒मा विज॑नितो॒स्सम्भ॑वन्ति।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+तस्मा᳚त् । ऋत्वि॑यात् । स्त्रियः॑ । प्र॒जामिति॑ प्र-जाम् । वि॒न्द॒न्ते॒ । काम᳚म् । एति॑ । विज॑नितो॒रिति॒ वि-ज॒नि॒तोः॒ । समिति॑ । भ॒व॒न्ति॒ । 
+</details>
+
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -716,6 +890,12 @@ They took a third of his guilt, it became (a woman) with stained garments;
 सा मल॑वद्वासा अभवत् ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+वारे॑वृत॒मिति॒ वारे᳚-वृ॒त॒म्॒ । हि । आ॒सा॒म्॒ । 5 । तृती॑यम् । ब्र॒ह्म॒ह॒त्याया॒ इति॑ ब्रह्म-ह॒त्यायै᳚ । प्रतीति॑ । अ॒गृ॒ह्ण॒न्न्॒ । सा । मल॑वद्वासा॒ इति॒ मल॑वत्-वा॒साः॒ । अ॒भ॒व॒त्॒ ।
+</details>
+
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 7मलवद्वासा रजस्वला । वासोग्रहणं वाससि रजस्पर्शात्प्रभृति अज्ञातेप्यप्रायत्यमस्तीति सूचनार्थम् । तेन वासस्यस्पृष्टे ज्ञानादूर्ध्वमेवाशुद्धिः ।
@@ -739,6 +919,13 @@ therefore one should not converse with (a woman) with stained garments [5], one 
 +++(मलवद्वाससा)+++न स॒हासी॑त ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+तस्मा᳚त् । मल॑वद्वास॒सेति॒ मल॑वत्-वा॒स॒सा॒ । न । समिति॑ । व॒दे॒त॒ । [5]  
+1 । न । स॒ह । आ॒सी॒त॒ ।
+</details>
+
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तस्मादिति । सहभाषणं संवादः । तस्य प्रतिषेधः पुरुषार्थः प्रासङ्गिकः । एवं सर्वत्र ।
@@ -760,6 +947,12 @@ nor eat her food,
 नास्या॒ अन्न॑मद्यात् ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+न । अ॒स्याः॒ । अन्न᳚म् । अ॒द्या॒त्॒ ।
+</details>
+
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 नास्या इति । अनया स्पर्शादिना दूषितं नाद्यात् ।अनया वा दत्तं न गृह्णीयात् ।
@@ -780,6 +973,12 @@ for she keeps emitting the colour of guilt.
 
 ब्र॒ह्म॒ह॒त्यायै॒ ह्ये॑षा वर्ण॑म्प्रति॒मुच्यास्ते ।  
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+ब्र॒ह्म॒ह॒त्याया॒ इति॑ ब्रह्म-ह॒त्यायै᳚ । हि । ए॒षा । वर्ण᳚म् । प्र॒ति॒मुच्येति॑ प्रति-मुच्य॑ ।  आस्ते᳚ ।
+</details>
+
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -803,6 +1002,12 @@ Or rather they say, 'Woman's food is unguent, and there fore one should not acce
 अथो॒ खल्वा॑हुः ।
 अ॒भ्यञ्ज॑न॒व्ँवाव स्त्रि॒या अन्न॑म् , अ॒भ्यञ्ज॑नमे॒व न प्र॑ति॒गृह्य॒ङ्काम॑म॒न्यदिति॑ ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+2 । अथो॒ इति॑ । खलु॑ । आ॒हुः॒ । 3 । अ॒भ्यञ्ज॑न॒मित्य॑भि-अञ्ज॑नम् । वाव । स्त्रि॒याः । अन्न᳚म् । अ॒भ्यञ्ज॑न॒मित्य॑भि-अञ्ज॑नम् । ए॒व । न । प्र॒ति॒गृह्य॒मिति॑ प्रति-गृह्य᳚म् । काम᳚म् । अ॒न्यत् । इति॑ । 
+</details>
+
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -841,6 +1046,12 @@ The son born of intercourse with (a woman) with stained garments is accursed;
 यामर॑ण्ये॒ तस्यै᳚ स्ते॒नः ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+याम् । मल॑वद्वासस॒मिति॒ मल॑वत्-वा॒स॒स॒म्॒ । स॒म्भव॒न्तीति॑ सम्-भव॑न्ति । यः । ततः॑ । जाय॑ते । सः । अ॒भि॒श॒स्त इत्य॑भि-श॒स्तः । याम् । अर॑ण्ये । तस्यै᳚ । स्ते॒नः । 
+</details>
+
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 8यामित्यादि ॥ अभिशस्तः मिथ्यारोपित-पातकेन दूषितः गृहे अभिशस्तः,  
@@ -864,6 +1075,12 @@ The son born of intercourse with (a woman) with stained garments is accursed;
 याम्परा॑ची॒न्तस्यै᳚ ह्रीतमु॒ख्य॑पग॒ल्भः ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+याम् । परा॑चीम् । तस्यै᳚ । ह्री॒त॒मु॒खीति॑ ह्रीत-मु॒खी । अ॒प॒ग॒ल्भ इत्य॑प-ग॒ल्भः । 
+</details>
+
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 पराचीं स्वापाशनादिना अन्यपराम् ।  
@@ -886,6 +1103,12 @@ The son born of intercourse with (a woman) with stained garments is accursed;
 या स्नाति॒ तस्या॑ अ॒फ्सु मारु॑कः ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ा । स्नाति॑ । तस्याः᳚ । अ॒फ्स्वित्य॑प्-सु । मारु॑कः ।
+</details>
+
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अप्सु मारुकः अप्सु मरणशीलः । छान्दस उकञ् ।
@@ -906,6 +1129,13 @@ The son born of intercourse with (a woman) with stained garments is accursed;
 
 याऽभ्य॒ङ्क्ते तस्यै॑ दु॒श्चर्मा᳚ ।  
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+या । [6]  
+1 । अ॒भ्य॒ङ्क्त इत्य॑भि-अ॒ङ्क्ते । तस्यै᳚ । दु॒श्चर्मेति॑ दुः-चर्मा᳚ ।
+</details>
+
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -928,6 +1158,12 @@ The son born of intercourse with (a woman) with stained garments is accursed;
 या प्र॑लि॒खते॒ तस्यै॑ खल॒तिर॑पमा॒री ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+या । प्र॒लि॒खत॒ इति॑ प्र-लि॒खते᳚ । तस्यै᳚ । ख॒ल॒तिः । अ॒प॒मा॒रीत्य॑प-मा॒री । 
+</details>
+
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अपमारी अपमृत्युमान् । यद्वा - कुत्सितमरणः ।
@@ -948,6 +1184,12 @@ The son born of intercourse with (a woman) with stained garments is accursed;
 
 याऽऽङ्क्ते तस्यै॑ का॒णः  ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+या । आ॒ङ्क्त इत्या᳚-अ॒ङ्क्ते । तस्यै᳚ । का॒णः । 
+</details>
+
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -970,6 +1212,12 @@ The son born of intercourse with (a woman) with stained garments is accursed;
 या द॒तो धाव॑ते॒ तस्यै᳚ श्या॒वदन्न्॑ ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+या । द॒तः । धाव॑ते । तस्यै᳚ । श्या॒वद॒न्निति॑ श्या॒व-द॒न्न्॒ । 
+</details>
+
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 श्यावदन् व्याध्यापन्नदन्तः, मलिनदन्तो वा । 'विभाषा श्यावारोकाभ्याम्' दाति दतृभावः ।  
@@ -990,6 +1238,12 @@ The son born of intercourse with (a woman) with stained garments is accursed;
 
 या न॒खानि॑ निकृ॒न्तते॒ तस्यै॑ कुन॒खी ।  
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+या । न॒खानि॑ । नि॒कृ॒न्तत॒ इति॑ नि-कृ॒न्तते᳚ । तस्यै᳚ । कु॒न॒खी । 
+</details>
+
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -1012,6 +1266,12 @@ The son born of intercourse with (a woman) with stained garments is accursed;
 या कृ॒णत्ति॒ तस्यै᳚ क्ली॒बः ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+या । कृ॒णत्ति॑ । तस्यै᳚ । क्ली॒बः । 
+</details>
+
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 क्लीबः यो न स्त्री न पुमान् ।
@@ -1032,6 +1292,12 @@ The son born of intercourse with (a woman) with stained garments is accursed;
 
 या रज्जुꣳ॑ सृ॒जति॒ तस्या॑ उ॒द्बन्धु॑कः ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+या । रज्जु᳚म् । सृ॒जति॑ । तस्याः᳚ । उ॒द्बन्धु॑क॒ इत्यु॑त्-बन्धु॑कः ।
+</details>
+
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -1054,6 +1320,12 @@ The son born of intercourse with (a woman) with stained garments is accursed;
 या प॒र्णेन॒ पिब॑ति॒ तस्या॑ उ॒न्मादु॑कः ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+या । प॒र्णेन॑ । पिब॑ति । तस्याः᳚ । उ॒न्मादु॑क॒ इत्यु॑त्-मादु॑कः ।
+</details>
+
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 उन्मादुकः उन्मदनशीलः । पूर्ववदुकञ् ।
@@ -1074,6 +1346,12 @@ The son born of intercourse with (a woman) with stained garments is accursed;
 
 या ख॒र्वेण॒ पिब॑ति॒ तस्यै॑ ख॒र्वः ।  
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+या । ख॒र्वेण॑ । पिब॑ति । तस्यै᳚ । ख॒र्वः । 
+</details>
+
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -1099,6 +1377,12 @@ For three nights he should keep a vow and should drink from his hand or from a p
 अ॒ञ्ज॒लिना॑ वा॒ पिबे᳚त् ।   
 अख॑र्वेण वा॒ पात्रे॑ण प्र॒जायै॑ गोपी॒थाय॑ ॥
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+2 । ति॒स्रः । रात्रीः᳚ । व्र॒तम् । च॒रे॒त्॒ । अ॒ञ्ज॒लिना᳚ । वा॒ । पिबे᳚त् । अख॑र्वेण । वा॒ । पात्रे॑ण । प्र॒जाया॒ इति॑ प्र-जायै᳚ । गो॒पी॒थाय॑ ॥ 
+</details>
+
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
