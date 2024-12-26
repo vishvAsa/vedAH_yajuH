@@ -85,7 +85,7 @@ title = "02 सप्तभिः पावमानीभिर् यदन्
 'आपो अस्मान्मातरः शुन्धन्त्वि'त्यनेन Taitt. Saṃh. I, 2, 1, 1 +++(पूरणीयम्??)+++
 
 ## साम-पवित्रम्
-<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-saama/devaH/indraH/vAmadevyam/">
+<div class="js_include" includetitle="false" newlevelforh1="1" unfilled url="/vedAH_sAma/paravastu-sAma/devaH/indraH/vAmadevyam/">
 <details open><summary><h1>वामदेव्यम् ...{Loading}...</h1></summary>
 
 ## ऋक्
