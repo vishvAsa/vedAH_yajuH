@@ -9,7 +9,7 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/17/10_mahi_trINAmavo-stu_dyuxam.md">
 <details open><summary><h2>10 महि त्रीणामवोऽस्तु द्युक्षम् ...{Loading}...</h2></summary>
 
-"महि त्रीणामवोऽस्तु द्युक्षं मित्रस्यार्यम्णः । दुराधष वरुणस्य ।" +++(विवरणम् [अत्र](../../../../../../../mantraH/AdityaH/paravastu-saama/mahi-trINAm.md))+++, "नहि तेषाममा चन नाध्वसु वारणेष्वा । ईशे रिपुरघशंसः ।", "ते हि पुत्रासो अदितेश् छर्दिर् यच्छन्त्यजस्रम् । वि दाशुषे वार्याणी"ति प्राजापत्येन तृचेनोपतिष्ठते +++(आहवनीयम्)+++१०  
+"महि त्रीणामवोऽस्तु द्युक्षं मित्रस्यार्यम्णः । दुराधष वरुणस्य ।" +++(विवरणम् [अत्र](../../../../../../../mantraH/AdityaH/paravastu-sAma/mahi-trINAm.md))+++, "नहि तेषाममा चन नाध्वसु वारणेष्वा । ईशे रिपुरघशंसः ।", "ते हि पुत्रासो अदितेश् छर्दिर् यच्छन्त्यजस्रम् । वि दाशुषे वार्याणी"ति प्राजापत्येन तृचेनोपतिष्ठते +++(आहवनीयम्)+++१०  
 
 </details>
 </div>
