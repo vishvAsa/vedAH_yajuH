@@ -980,12 +980,14 @@ unicode_script: devanagari
 विष्णो॑ ह॒व्यꣳ र॑ख्ष॒स्वेत्या॑ह॒ गुप्त्यै᳚   
 </details>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/01_vatsApAkaraNam/anadhaH.md"  newLevelForH1="5" includeTitle="false"> 
-
 <details><summary>सायण-टीका</summary>
 
 अत्र रक्षणार्थमेव विष्णुसंबोधनं न त्विन्द्रवद्धविःस्वीकारायेत्यमुमाभिप्रायं विशदयति — ‘विष्णो हव्यꣳ रक्षस्वेत्याह गुप्त्यै’ (ब्रा. का. ३ प्र. २ अ. ३) इति। 
 </details>
+
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/01_vatsApAkaraNam/anadhaH.md"  newLevelForH1="5" includeTitle="false"> 
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1007,10 +1009,6 @@ unicode_script: devanagari
 तदपि अप्रपादाय अप्रच्युतये ।
 </details>
 
-<details><summary>सायण-टीका</summary>
-
-शाखाबर्हिषोरिव सांनाय्येऽपि विधत्ते — ‘अनधः सादयति। गर्भाणां धृत्या अप्रपादाय। तस्माद्गर्भाः प्रजानामप्रपादुकाः। 
-</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1035,10 +1033,6 @@ unicode_script: devanagari
 
 </details>
 
-<details><summary>सायण-टीका</summary>
-
-उपरीव निदधाति। उपरीव हि सुवर्गो लोकः। सुवर्गस्य लोकस्य समष्ट्यै’ (ब्रा. का. ३ प्र. २ अ. ३) इति।  
-</details>
 
 </div>  
 
