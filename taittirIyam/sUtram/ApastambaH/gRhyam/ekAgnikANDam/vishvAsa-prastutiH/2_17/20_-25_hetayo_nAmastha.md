@@ -103,7 +103,7 @@ him whom we hate and him who hateth us, I place him within your jaws.
 </details>
 </div>  
 
-अ॒वस्थावा॑नो॒ नाम॑ स्थ॒, तेषां॑ व उत्त॒रद् गृ॒हा, आपो॑ व॒ इषवः॒, समु॒द्रो वा॑तना॒मम्।  
+अ॒वस्थावा॑नो॒ नाम॑ स्थ॒, तेषां॑ व उत्त॒रद् गृ॒हा, आपो॑ व॒ इष॑वः॒, समु॒द्रो वा॑तना॒मम्।  
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/tebhyo_vo_namaH.md">
 <details open><summary><h5>Tebhyo vo nama H ...{Loading}...</h5></summary>

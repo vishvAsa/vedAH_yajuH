@@ -6,6 +6,11 @@ title = "दे॒वस्य॑ त्वा"
 "दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒व" इत्या॑ह॒ प्रसू᳚त्यै ।
 </details>
 
+<details><summary>Keith</summary>
+
+'On the impulse of the god Savitr thee', he says, for impelling.
+</details>
+
 <details><summary>मूलम्</summary>
 
 "दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒व" इत्या॑ह॒ प्रसू᳚त्यै ।
