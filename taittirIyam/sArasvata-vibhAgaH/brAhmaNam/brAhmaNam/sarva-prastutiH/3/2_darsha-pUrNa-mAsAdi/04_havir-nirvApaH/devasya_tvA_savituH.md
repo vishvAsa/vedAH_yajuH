@@ -16,6 +16,11 @@ title = "दे॒वस्य॑ त्वा"
 "दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒व" इत्या॑ह॒ प्रसू᳚त्यै ।
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+व्याचष्टे- “देवस्य त्वा सवितुः प्रसव इत्याह प्रसूत्यै। 
+</details>
+
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/04_havir-nirvApaH/ashvinor_bAhubhyAm.md"  newLevelForH1="5" includeTitle="false"> 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
