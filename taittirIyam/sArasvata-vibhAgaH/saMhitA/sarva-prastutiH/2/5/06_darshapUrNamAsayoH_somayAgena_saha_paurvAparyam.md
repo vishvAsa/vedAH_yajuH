@@ -168,7 +168,7 @@ The new and the full moon are the striding of the gods;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य ए॒वव्ँवि॒द्वान्द॑र्शपूर्णमा॒सौ यज॑ते    
+य ए॒वव्ँ वि॒द्वान् द॑र्शपूर्णमा॒सौ यज॑ते    
 दे॒वाना॑म् ए॒व विक्रा᳚न्ति॒म् अनु॒ वि क्र॑मते  ।
 </details>
 
@@ -202,7 +202,7 @@ he who knowing thus offers the new and the full moon (sacrifices) steps in the s
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ष वै दे॑व॒यान॒ᳶ पन्था॒ यद्द॑र्शपूर्णमा॒सौ
+ए॒ष वै दे॑व॒यान॒ᳶ पन्था॒ यद् द॑र्शपूर्णमा॒सौ
 </details>
 
 <details><summary>Keith</summary>
@@ -218,7 +218,8 @@ The new and the full moon are the path on which the gods fare;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य ए॒वव्ँवि॒द्वान्द॑र्शपूर्णमा॒सौ यज॑ते॒ य ए॒व दे॑व॒यान॒ᳶ पन्था॒स्तꣳ स॒मारो॑हति
+य ए॒वव्ँ वि॒द्वान् द॑र्शपूर्णमा॒सौ यज॑ते॒  
+य ए॒व दे॑व॒यान॒ᳶ पन्था॒स् तꣳ स॒मारो॑हति
 </details>
 
 <details><summary>Keith</summary>
@@ -247,7 +248,8 @@ he who knowing thus offers the new and the full moon (sacrifices) mounts the pat
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒तौ वै दे॒वाना॒ꣳ॒ हरी॒ यद्द॑र्शपूर्णमा॒सौ ।
+ए॒तौ वै दे॒वाना॒ꣳ॒ हरी॒  
+यद् द॑र्शपूर्णमा॒सौ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -292,7 +294,8 @@ he who knowing thus offers the new and the full moon (sacrifices) carries to the
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒तद्वै दे॒वाना॑मा॒स्य॑य्ँ यद् द॑र्शपूर्णमा॒सौ
+ए॒तद् वै दे॒वाना॑म् आ॒स्य॑य्ँ  
+यद् द॑र्शपूर्णमा॒सौ
 </details>
 
 <details><summary>Keith</summary>
@@ -334,8 +337,8 @@ he who knowing thus offers the new and the full moon (sacrifices) manifestly sac
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ष वै ह॑विर्धा॒नी यो द॑र्शपूर्णमासया॒जी  
-सा॒यम् प्रा॑तर् अग्निहो॒त्रञ् जु॑होति॒  
+ए॒ष वै ह॑विर्-धा॒नी यो द॑र्शपूर्णमासया॒जी,  
+सा॒यम्-प्रा॑तर् अग्निहो॒त्रञ् जु॑होति॒,  
 यज॑ते दर्शपूर्णमा॒सौ।  
 अह॑र्-अहर् हविर्धा॒निनाꣳ॑ सु॒तः।
 </details>
@@ -484,7 +487,7 @@ One should not approach a woman on the new moon or the full moon night;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदु॑पे॒यात् निरि॑न्द्रियस्स्यात् ।  
+यद् उ॑पे॒यात् निरि॑न्द्रियस् स्यात् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -533,8 +536,8 @@ of these be did not approach the new moon night and the full moon night [4].
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते ए॑नम् अ॒भि सम॑नह्येताम् ।   
-तय्ँयख्ष्म॑ आर्च्छत्।
+ते+++(←द्विवचनत्वात् न सन्धिः)+++ ए॑नम् अ॒भि सम॑नह्येताम् ।   
+तय्ँ यख्ष्म॑ आर्च्छत्।
 </details>
 
 <details><summary>Keith</summary>
@@ -551,17 +554,17 @@ They grasped him about, and illness seized him.
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-अभी समनह्येतामिति । सोमेन राज्ञा अनुपेते त्यक्ते एते तिथी एनमभिभूय आभिमुख्येन वा भोकृत्वेन गृहीतवत्यौ ।
+अभी समनह्येतामिति । सोमेन राज्ञा अनुपेते त्यक्ते एते तिथी एनम् अभिभूय आभिमुख्येन वा भोकृत्वेन गृहीतवत्यौ ।
 
 ततस्तं तथा ताभ्यां भुज्यमानं यक्ष्मः क्षयरोग आर्छत् आर्तमकरोत् ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"राजा॑न॒य्ँ यख्ष्म॑ आर॒द्" इति॒ ..  
-तद् रा॑जय॒ख्ष्मस्य॒ जन्म॒,  
-यत्पापी॑या॒नभ॑व॒त्  
-तत् पा॑पय॒ख्ष्मस्य॒,  
+"राजा॑न॒य्ँ यख्ष्म॑ **आर॒द्**" इति॒ ..  
+तद् रा॑ज-य॒ख्ष्मस्य॒ जन्म॒,  
+यत् पापी॑या॒न् अभ॑व॒त्  
+तत् पा॑प-य॒ख्ष्मस्य॒,  
 यज् जा॒याभ्या॒म् अवि॑न्द॒त्  
 तज् जा॒येन्य॑स्य।
 </details>
@@ -639,10 +642,13 @@ He ran up to these two in reverence;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते अ॑ब्रूता॒व्ँ  
+ते **अ॑ब्रूता॒व्ँ**  
 
-> वर॑व्ँ वृणावहै ।   
-आ॒वन् दे॒वाना᳚म् भाग॒धे अ॑साव ।  
+> वर॑व्ँ **वृणावहै** ।   
+आ॒वन् दे॒वाना᳚म् **भाग॒-धे अ॑साव** ।  
+आ॒वद् अधि॑ दे॒वा इ॑ज्यान्ता॒
+
+इति॑ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -659,21 +665,12 @@ they said,
 
 ते अ॑ब्रूता॒व्ँवर॑व्ँवृणावहै ।   
 आ॒वन्दे॒वाना᳚म्भाग॒धे अ॑साव ।  
+आ॒वदधि॑ दे॒वा इ॑ज्यान्ता॒ इति॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 भागधे इति । भागानां हविषां धात्र्यौ आवां असाव भवाव ।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-आ॒वदधि॑ दे॒वा इ॑ज्यान्ता॒ इति॑ ।
-</details>
-
-<details><summary>मूलम्</summary>
-
-आ॒वदधि॑ दे॒वा इ॑ज्यान्ता॒ इति॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -684,10 +681,10 @@ they said,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा᳚थ्स॒दृशी॑ना॒ꣳ॒ रात्री॑णाममावा॒स्या॑याञ्च पौर्णमा॒स्याञ्च॑ दे॒वा इ॑ज्यन्ते ।  
-ए॒ते हि दे॒वाना᳚म्भाग॒धे ।  
-भा॒ग॒धा अ॑स्मै मनु॒ष्या॑ भवन्ति॒,  
-य ए॒वव्ँवेद॑ ।  
+तस्मा᳚थ् स॒दृशी॑ना॒ꣳ॒ रात्री॑णाम् अमावा॒स्या॑याञ्च पौर्णमा॒स्याञ्च॑ दे॒वा इ॑ज्यन्ते ।  
+ए॒ते हि दे॒वाना᳚म् भाग॒-धे ।  
+भा॒ग॒-धा अ॑स्मै मनु॒ष्या॑ भवन्ति॒,  
+य ए॒वव्ँ वेद॑ ।  
 </details>
 
 <details><summary>Keith</summary>
