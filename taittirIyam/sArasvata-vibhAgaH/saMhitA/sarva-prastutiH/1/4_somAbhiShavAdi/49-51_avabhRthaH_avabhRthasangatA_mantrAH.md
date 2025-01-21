@@ -692,7 +692,7 @@ _______
 
 14प्रपथे समिधः कुर्वते - एधोसीति ॥ 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/03_edho-syedhiShImahi_svAhA.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/03_edho-syedhiShImahi_svAhA.md">
 <details open><summary><h5>०३ एधोऽस्येधिषीमहि स्वाहा ...{Loading}...</h5></summary>
 
 
@@ -701,7 +701,7 @@ _______
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_06/03_edho-syedhiShImahi_svAhA.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_06/03_edho-syedhiShImahi_svAhA.md">
 <details open><summary><h5>०३ एधोऽस्येधिषीमहि स्वाहा ...{Loading}...</h5></summary>
 <details><summary>Keith</summary>
 
@@ -732,7 +732,7 @@ _______
 
 स॒मिद॑सि॒ तेजो॑ऽसि॒ तेजो॒ मयि॑ धेहि 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/04_samidasi_samedhiShImahi.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/04_samidasi_samedhiShImahi.md">
 <details open><summary><h5>०४ समिदसि समेधिषीमहि ...{Loading}...</h5></summary>
 
 
@@ -741,7 +741,7 @@ _______
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_06/04_samidasi_samedhiShImahi.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_06/04_samidasi_samedhiShImahi.md">
 <details open><summary><h5>०४ समिदसि समेधिषीमहि ...{Loading}...</h5></summary>
 <details><summary>Keith</summary>
 
@@ -761,7 +761,7 @@ thou art kindling; (may we prosper;)
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/05_tejosi_tejo.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/05_tejosi_tejo.md">
 <details open><summary><h5>०५ तेजोसि तेजो ...{Loading}...</h5></summary>
 
 
@@ -770,7 +770,7 @@ thou art kindling; (may we prosper;)
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_06/05_tejosi_tejo.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_06/05_tejosi_tejo.md">
 <details open><summary><h5>०५ तेजोसि तेजो ...{Loading}...</h5></summary>
 <details><summary>Keith</summary>
 
@@ -799,7 +799,7 @@ _______
 
 16आहवनीयमुपतिष्ठते - अप इत्यनुष्टुभा ॥ 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/06_apo_adyAnvachAriSham.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/06_apo_adyAnvachAriSham.md">
 <details open><summary><h5>०६ अपो अद्यान्वचारिषम् ...{Loading}...</h5></summary>
 
 
@@ -810,7 +810,7 @@ _______
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_06/06_apo_adyAnvachAriSham.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_06/06_apo_adyAnvachAriSham.md">
 <details open><summary><h5>०६ अपो अद्यान्वचारिषम् ...{Loading}...</h5></summary>
 <details><summary>Keith</summary>
 
