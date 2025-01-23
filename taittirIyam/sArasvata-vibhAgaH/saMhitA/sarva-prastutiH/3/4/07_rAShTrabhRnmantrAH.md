@@ -7,7 +7,7 @@ title = "०७ राष्ट्रभृन्मन्त्राः"
 
 <details open><summary>विश्वास-टिप्पनी</summary>
 
-अस्यानुवाकस्य  बोधायन-भट्टभास्करादि-रीत्या ऽनुषङ्गो ऽन्यत्र [दर्शितः](/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mADabhUShi-vIrarAghavaH/01_pUrva-prayoga-chandrikA/02_angAni/02_udakashAntiH/03_japaH/14_RtAShADiti_sAnuShangam_anuvAkaM/)। 
+अस्यानुवाकस्य  बोधायन-भट्टभास्करादि-रीत्या ऽनुषङ्गो ऽन्यत्र [दर्शितः](/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mADabhUShi-vIrarAghavaH/01_pUrva-prayoga-chandrikA/02_angAni/02_udakashAntiH/03_japaH/14_RtAShADiti_sAnuShangam_anuvAkaM/)। 
 </details>
 
 

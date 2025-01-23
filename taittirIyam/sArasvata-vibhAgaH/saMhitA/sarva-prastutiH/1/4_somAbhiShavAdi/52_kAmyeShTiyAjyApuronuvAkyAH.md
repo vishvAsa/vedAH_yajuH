@@ -1234,7 +1234,7 @@ _______
 
 6तत्रैव याज्या - अप इत्यनुष्टुप् ॥ 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/06_apo_adyAnvachAriSham.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/06_apo_adyAnvachAriSham.md">
 <details open><summary><h5>०६ अपो अद्यान्वचारिषम् ...{Loading}...</h5></summary>
 
 
@@ -1245,7 +1245,7 @@ _______
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_06/06_apo_adyAnvachAriSham.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_06/06_apo_adyAnvachAriSham.md">
 <details open><summary><h5>०६ अपो अद्यान्वचारिषम् ...{Loading}...</h5></summary>
 <details><summary>Keith</summary>
 
