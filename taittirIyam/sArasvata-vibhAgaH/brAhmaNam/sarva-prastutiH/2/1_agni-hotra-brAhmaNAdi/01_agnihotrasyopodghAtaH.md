@@ -8,7 +8,7 @@ unicode_script: devanagari
 ## द्वितीयेऽष्टके प्रथमः प्रश्नः ।
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अङ्गि॑रसो॒ वै स॒त्त्रमा॑सत ।
+अङ्गि॑रसो॒ वै **स॒त्त्रम् आ॑सत** ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -23,7 +23,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तेषा॒म्पृश्ञि॑र्घर्म॒धुगा॑सीत् ।
+तेषा॒म् पृश्ञि॑र् **घर्म॒-धुग्** आ॑सीत् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -38,7 +38,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर्जी॒षेणा॑जीवत् ।
+स +++(सोम-कल्केन=)+++र्जी॒षेणा॑जीवत् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -53,9 +53,9 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते᳚ऽब्रुवन्न् ।
-"कस्मै॒ नु स॒त्रमा᳚स्महे ।
-ये᳚ऽस्या ओष॑धी॒र्न ज॒नया॑म॒" इति॑ ।
+ते᳚ **ऽब्रुवन्न्** ।
+"कस्मै॒ नु स॒त्रम् **आ᳚स्महे** ।
++++(वयं)+++ ये᳚ ऽस्या +++(पृश्न्याः प्रयोजनाय)+++ ओष॑धी॒र् **न ज॒नया॑म॒**" इति॑ ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -72,7 +72,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते दि॒वो वृष्टि॑मसृजन्त ।
+ते दि॒वो **वृष्टि॑म् असृजन्त** ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -94,7 +94,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-याव॑न्तस्स्तो॒का अ॒वाप॑द्यन्त॒ ताव॑ती॒रोष॑धयोऽजायन्त ।
+याव॑न्तस् +++(तोय-)+++स्तो॒का **अ॒वाप॑द्यन्त॒**  
+ताव॑ती॒र् ओष॑धयो **ऽजायन्त** ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -109,7 +110,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ता जा॒ताᳶ पि॒तरो॑ वि॒षेणा॑लिम्पन्न् ॥1॥  
+ता **जा॒ताᳶ** +++(भागलिप्सवः)+++ पि॒तरो॑ **वि॒षेणा॑लिम्पन्न्** ॥1॥  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -124,7 +125,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तासा᳚ञ्ज॒ग्ध्वा रुप्य॒न्त्यैत् ।
+तासा᳚ञ् **ज॒ग्ध्वा** **रुप्य॒न्त्य्+++(←मोहने)+++ ऐत्** ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -134,13 +135,13 @@ unicode_script: devanagari
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-अथ सा पृश्निः तासां ओषधीनां विषदिग्धानां जग्ध्वा भक्षयित्वा रुप्यन्ती मुह्यन्ती ऐत् आगच्छत्, आङाटोरेकदेश उदात्तः, रुपु विमोहने, दैवादिकं मतम् ।
+अथ सा पृश्निः तासां ओषधीनां विषदिग्धानां **जग्ध्वा** भक्षयित्वा रुप्यन्ती मुह्यन्ती ऐत् आगच्छत्, आङाटोरेकदेश उदात्तः, रुपु विमोहने, दैवादिकं मतम् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते᳚ऽब्रुवन्न् ।
-"क इ॒दमि॒त्थम॑क॒"रिति॑ ।
+ते᳚ **ऽब्रुवन्न्** ।
+"क इ॒दम् इ॒त्थम् **अ॑क॒र्**" इति॑ ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -156,7 +157,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"व॒यम्भा॑ग॒धेय॑मि॒च्छमा॑ना॒" इति॑ पि॒तरो᳚ऽब्रुवन्न् ।
+"व॒यम् भा॑ग॒-धेय॑म् **इ॒च्छमा॑ना॒**" इति॑ पि॒तरो᳚ **ऽब्रुवन्न्** ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -171,7 +172,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"किव्ँ वो॑ भाग॒धेय॒"मिति॑ ।
+"किव्ँ वो॑ भाग॒-**धेय॒म्**" इति॑ ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -186,7 +187,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"अ॒ग्नि॒हो॒त्र ए॒व नोऽप्य॒स्त्वि"त्य॑ब्रुवन्न् ।
+"अ॒ग्नि॒-हो॒त्र ए॒व नोऽप्य॒स्त्वि"त्य॑ब्रुवन्न् ।
 </details>
 
 <details><summary>मूलम्</summary>
