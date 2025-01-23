@@ -57,7 +57,7 @@ title = "०८ अग्निर् यजुर्भिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मि॒त्रावरु॑णावा॒शिषा᳚ ।  
+मि॒त्रावरु॑णाव् आ॒शिषा᳚ ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -84,7 +84,7 @@ title = "०८ अग्निर् यजुर्भिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-म॒रुत॑स् सदो-हविर्-धा॒नाभ्या᳚म् ।  
+म॒रुत॑स् सदो--हविर्-धा॒नाभ्या᳚म् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -105,12 +105,12 @@ title = "०८ अग्निर् यजुर्भिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ओष॑धयो ब॒र्हि॒षा᳚ ।  
+ओष॑धयो बर्हि॒षा᳚ ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
-ओष॑धयो ब॒र्हि॒षा᳚ ।  
+ओष॑धयो बर्हि॒षा᳚ ।  
 </details>
 
 
@@ -149,7 +149,7 @@ title = "०८ अग्निर् यजुर्भिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विष्णु॑र्य॒ज्ञेन॑ ।  
+विष्णु॑र् य॒ज्ञेन॑ ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -195,7 +195,7 @@ title = "०८ अग्निर् यजुर्भिः"
   
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पू॒षा स्व॑गाका॒रेण॑ ।  
+पू॒षा स्व॑गा-का॒रेण॑ ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -212,7 +212,7 @@ title = "०८ अग्निर् यजुर्भिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-बृह॒स्पतिः॑ पुरो॒धया᳚ ।  
+बृह॒स्-पतिः॑ पुरो॒धया᳚ ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -271,7 +271,7 @@ title = "०८ अग्निर् यजुर्भिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒हꣵ श्र॒द्धया᳚ ।  
+अ॒हꣵ श्र॒द्धया᳚ ।+++(5)+++  
 (12)  
 </details>
 
