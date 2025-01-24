@@ -1331,7 +1331,7 @@ Nach vielen Seiten wandern windgetrieben, o heller Agni, deine hellen Strahlen, 
 
 ## धाता
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/01_dhAtA_dadAtu.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/01_dhAtA_dadAtu.md">
 <details open><summary><h2>०१ धाता ददातु ...{Loading}...</h2></summary>
 
 
@@ -1341,7 +1341,7 @@ Nach vielen Seiten wandern windgetrieben, o heller Agni, deine hellen Strahlen, 
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष्टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_11/01_dhAtA_dadAtu.md">
+<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष्टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_11/01_dhAtA_dadAtu.md">
 <details><summary><h3>सर्वाष्टीकाः ...{Loading}...</h3></summary>
 <details><summary>हरदत्तोक्त-विनियोगः</summary>
 
@@ -1367,7 +1367,7 @@ Nach vielen Seiten wandern windgetrieben, o heller Agni, deine hellen Strahlen, 
 
 8याज्या - धाता प्रजाया इति त्रिष्टुप् ॥ 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/02_dhAtA_prajAyA.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/02_dhAtA_prajAyA.md">
 <details open><summary><h2>०२ धाता प्रजाया ...{Loading}...</h2></summary>
 
 
@@ -1378,7 +1378,7 @@ Nach vielen Seiten wandern windgetrieben, o heller Agni, deine hellen Strahlen, 
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष्टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_11/02_dhAtA_prajAyA.md">
+<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष्टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_11/02_dhAtA_prajAyA.md">
 <details><summary><h3>सर्वाष्टीकाः ...{Loading}...</h3></summary>
 <details><summary>मूलम्</summary>
 
@@ -1401,7 +1401,7 @@ Nach vielen Seiten wandern windgetrieben, o heller Agni, deine hellen Strahlen, 
 
 9तत्रैव याज्यानुवाक्ये विकल्प्येते - धातेत्यनुष्टुप् ॥ 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/03_dhAtA_dadAtu.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/03_dhAtA_dadAtu.md">
 <details open><summary><h2>०३ धाता ददातु ...{Loading}...</h2></summary>
 
 
@@ -1412,7 +1412,7 @@ Nach vielen Seiten wandern windgetrieben, o heller Agni, deine hellen Strahlen, 
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष्टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_11/03_dhAtA_dadAtu.md">
+<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष्टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_11/03_dhAtA_dadAtu.md">
 <details><summary><h3>सर्वाष्टीकाः ...{Loading}...</h3></summary>
 <details><summary>मूलम्</summary>
 
@@ -1435,7 +1435,7 @@ Nach vielen Seiten wandern windgetrieben, o heller Agni, deine hellen Strahlen, 
 
 10याज्या - धातेति त्रिष्टुप् ॥ 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/04_dhAtA_dadAtu.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/04_dhAtA_dadAtu.md">
 <details open><summary><h2>०४ धाता ददातु ...{Loading}...</h2></summary>
 
 
@@ -1446,7 +1446,7 @@ Nach vielen Seiten wandern windgetrieben, o heller Agni, deine hellen Strahlen, 
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष्टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_11/04_dhAtA_dadAtu.md">
+<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष्टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_11/04_dhAtA_dadAtu.md">
 <details><summary><h3>सर्वाष्टीकाः ...{Loading}...</h3></summary>
 <details><summary>मूलम्</summary>
 

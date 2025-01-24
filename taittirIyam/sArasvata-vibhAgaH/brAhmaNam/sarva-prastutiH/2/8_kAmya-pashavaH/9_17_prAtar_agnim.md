@@ -3,7 +3,7 @@ title = "९ १७ प्रातर् अग्निम्"
 
 +++
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_15/01_prAtaragnim_prAtarindram.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_15/01_prAtaragnim_prAtarindram.md">
 <details open><summary><h2>०१ प्रातरग्निम् प्रातरिन्द्रम् ...{Loading}...</h2></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/041/01_prAtaragniM_prAtarindraM.md">
 <details open><summary><h4>०१ प्रातरग्निं प्रातरिन्द्रं ...{Loading}...</h4></summary>
@@ -18,7 +18,7 @@ title = "९ १७ प्रातर् अग्निम्"
 </div>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/1_15/01_prAtaragnim_prAtarindram.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/1_15/01_prAtaragnim_prAtarindram.md">
 <details open><summary><h2>०१ प्रातरग्निम् प्रातरिन्द्रम् ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
@@ -345,7 +345,7 @@ Frühmorgens laden Agni wir und Indra ein, frühmorgens Mitra-Varuna, die Ritter
 </div>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_15/02_prAtarjitam_bhagamugram.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_15/02_prAtarjitam_bhagamugram.md">
 <details open><summary><h2>०२ प्रातर्जितम् भगमुग्रम् ...{Loading}...</h2></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/041/02_prAtarjitaM_bhagamugraM.md">
 <details open><summary><h4>०२ प्रातर्जितं भगमुग्रं ...{Loading}...</h4></summary>
@@ -360,7 +360,7 @@ Frühmorgens laden Agni wir und Indra ein, frühmorgens Mitra-Varuna, die Ritter
 </div>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/1_15/02_prAtarjitam_bhagamugram.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/1_15/02_prAtarjitam_bhagamugram.md">
 <details open><summary><h2>०२ प्रातर्जितम् भगमुग्रम् ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
@@ -729,7 +729,7 @@ Wir wollen den, der früh gewinnt und austheilt, den mächt'gen Bhaga, den Aditj
 </div>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_15/03_bhaga_praNetarbhaga.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_15/03_bhaga_praNetarbhaga.md">
 <details open><summary><h2>०३ भग प्रणेतर्भग ...{Loading}...</h2></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/041/03_bhaga_praNetarbhaga.md">
 <details open><summary><h4>०३ भग प्रणेतर्भग ...{Loading}...</h4></summary>
@@ -744,7 +744,7 @@ Wir wollen den, der früh gewinnt und austheilt, den mächt'gen Bhaga, den Aditj
 </div>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/1_15/03_bhaga_praNetarbhaga.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/1_15/03_bhaga_praNetarbhaga.md">
 <details open><summary><h2>०३ भग प्रणेतर्भग ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
@@ -1110,7 +1110,7 @@ O Bhaga, Führer, Bhaga, wahrhaft reicher, begünst'ge, Bhaga, dieses Lied, uns 
 </div>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_15/04_utedAnIm_bhagavantassyAmota.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_15/04_utedAnIm_bhagavantassyAmota.md">
 <details open><summary><h2>०४ उतेदानीम् भगवन्तस्स्यामोत ...{Loading}...</h2></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/041/04_utedAnIM_bhagavantaH.md">
 <details open><summary><h4>०४ उतेदानीं भगवन्तः ...{Loading}...</h4></summary>
@@ -1125,7 +1125,7 @@ O Bhaga, Führer, Bhaga, wahrhaft reicher, begünst'ge, Bhaga, dieses Lied, uns 
 </div>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/1_15/04_utedAnIm_bhagavantassyAmota.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/1_15/04_utedAnIm_bhagavantassyAmota.md">
 <details open><summary><h2>०४ उतेदानीम् भगवन्तस्स्यामोत ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
@@ -1442,7 +1442,7 @@ Auch jetzt versorge uns mit reichem Antheil beim Tages Anbruch und in Tages Mitt
 </div>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_15/05_bhaga_eva.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_15/05_bhaga_eva.md">
 <details open><summary><h2>०५ भग एव ...{Loading}...</h2></summary>
 
 
@@ -1453,7 +1453,7 @@ Auch jetzt versorge uns mit reichem Antheil beim Tages Anbruch und in Tages Mitt
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/1_15/05_bhaga_eva.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/1_15/05_bhaga_eva.md">
 <details open><summary><h2>०५ भग एव ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
@@ -1818,7 +1818,7 @@ Ja reich an Gaben sei, o Götter, Bhaga, durch ihn auch mögen wir an Gaben reic
 </div>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_15/06_samadhvarAyoShaso_namanta.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_15/06_samadhvarAyoShaso_namanta.md">
 <details open><summary><h2>०६ समध्वरायोषसो नमन्त ...{Loading}...</h2></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/041/06_samadhvarAyoShaso_namanta.md">
 <details open><summary><h4>०६ समध्वरायोषसो नमन्त ...{Loading}...</h4></summary>
@@ -1835,7 +1835,7 @@ Ja reich an Gaben sei, o Götter, Bhaga, durch ihn auch mögen wir an Gaben reic
 </div>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/1_15/06_samadhvarAyoShaso_namanta.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/1_15/06_samadhvarAyoShaso_namanta.md">
 <details open><summary><h2>०६ समध्वरायोषसो नमन्त ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
@@ -2160,7 +2160,7 @@ Zum Opfer mögen sich die Morgenröthen, wie Dadhikra zum hellen Orte wenden; Si
 </div>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_15/07_ashvAvatIrgomatIrna_uShAso.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_15/07_ashvAvatIrgomatIrna_uShAso.md">
 <details open><summary><h2>०७ अश्वावतीर्गोमतीर्न उषासो ...{Loading}...</h2></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/041/07_ashvAvatIrgomatIrna_uShAso.md">
 <details open><summary><h4>०७ अश्वावतीर्गोमतीर्न उषासो ...{Loading}...</h4></summary>
@@ -2175,7 +2175,7 @@ Zum Opfer mögen sich die Morgenröthen, wie Dadhikra zum hellen Orte wenden; Si
 </div>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/1_15/07_ashvAvatIrgomatIrna_uShAso.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/1_15/07_ashvAvatIrgomatIrna_uShAso.md">
 <details open><summary><h2>०७ अश्वावतीर्गोमतीर्न उषासो ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
