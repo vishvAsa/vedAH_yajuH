@@ -72,7 +72,7 @@ On the instigation of the god Savitr, through Brhaspati, winner of the prize, ma
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रा॑य॒ वाच॑व्ँ वद॒त ।   
+इन्द्रा॑य॒ वाच॑व्ँ वदत ।   
 इन्द्र॒व्ँ वाज॑ञ् जापयत ।   
 इन्द्रो॒ वाज॑म् अजयित् ।  
 </details>
@@ -82,7 +82,7 @@ To Indra utter your voices, make Indra win the prize, Indra hath won the prize.
 </details>
 <details><summary>मूलम्</summary>
 
-इन्द्रा॑य॒ वाच॑व्ँवद॒त ।   
+इन्द्रा॑य॒ वाच॑व्ँ वदत ।   
 इन्द्र॒व्ँवाज॑ञ्जापयत ।   
 इन्द्रो॒ वाज॑मजयित् ।  
 </details>
