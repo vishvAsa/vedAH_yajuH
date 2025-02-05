@@ -2,7 +2,7 @@
 title = "२० नमस्ते हरसे"
 
 +++
-<details><summary>पदपाठः</summary>
+<details><summary>पदपाठः - दयानन्दादि</summary>
 
 asd
 </details>

@@ -4,7 +4,7 @@ title = "७० नक्तोषासा समनसा"
 +++
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/sarvASh_TIkAH/12/02_naktoShAsA_samanasA.md">
 <details open><summary><h5>०२ नक्तोषासा समनसा ...{Loading}...</h5></summary>
-<details><summary>पदपाठः</summary>
+<details><summary>पदपाठः - दयानन्दादि</summary>
 
 नक्तो॒षासा॑। नक्तो॒षसेति॒ नक्तो॒षसा॑। सम॑न॒सेति॒ सऽम॑नसा। विरू॑पे॒ इति॒ विऽरू॑पे। धा॒पये॑ते॒ऽइति॑ धा॒पये॑ते। शिशु॑म्। एक॑म्। स॒मी॒ची इति॑ सम्ऽई॒ची। द्यावा॒क्षामा॑। रु॒क्मः। अ॒न्तः। वि। भा॒ति॒। दे॒वाः। अ॒ग्निम्। धा॒र॒य॒न्। द्र॒वि॒णो॒दा इति॑ द्रविणः॒ऽदाः। २।
 </details>
