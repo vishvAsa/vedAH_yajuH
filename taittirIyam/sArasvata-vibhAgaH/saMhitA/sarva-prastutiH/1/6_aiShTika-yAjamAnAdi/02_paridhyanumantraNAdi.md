@@ -22,7 +22,7 @@ _______
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ध्रु॒वो॑ऽसि ।  
-ध्रु॒वो॑ऽहꣳ स॑जा॒तेषु॑ भूयास॒न् धीर॒श् चेत्ता॑ वसु॒वित्। 
+ध्रु॒वो॒॑ऽहꣳ स॑जा॒तेषु॑ भूयास॒न् धीर॒श् चेत्ता॑ वसु॒वित्। 
 </details>
 <details><summary>Keith</summary>
 
@@ -47,7 +47,7 @@ Thou art secure; may I be secure among my equals, wise, a guardian, a granter of
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒ग्रो᳚ऽस्य् - उ॒ग्रो॑ ऽहꣳ स॑जा॒तेषु॑ भूयासम्, उ॒ग्रश् चेत्ता॑ वसु॒वित् ।
+उ॒ग्रो᳚ऽस्य् - उ॒ग्रो॒॑ ऽहꣳ स॑जा॒तेषु॑ भूयासम्, उ॒ग्रश् चेत्ता॑ वसु॒वित् ।
 </details>
 <details><summary>Keith</summary>
 
@@ -67,8 +67,8 @@ Thou art dread; may I be dread among my equals, dread, a guardian, a granter of 
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒भि॒भूर॑सि ।  
-अभि॒भूर॒हꣳ स॑जा॒तेषु॑ भूयास॒म् अभि॒भूश्चेत्ता॑ वसु॒वित्।
+अ॒भि॒भूर् अ॑सि ।  
+अभि॒भूर् अ॒हꣳ स॑जा॒तेषु॑ भूयास॒म् - अभि॒भूश् चेत्ता॑ वसु॒वित्।
 </details>
 <details><summary>Keith</summary>
 
@@ -183,7 +183,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भूर् भुव॒स् सुवः ।
+भूर् भुव॒स् सुवः॑ ।
 </details>
 <details><summary>Keith</summary>
 
@@ -191,7 +191,7 @@ Bhur, Bhuvah, Suvar!
 </details>
 <details><summary>मूलम्</summary>
 
-भूर्भुव॒स्सुवः ।
+भूर्भुव॒स्सुवः॑ ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -209,7 +209,7 @@ _______
 
 उच्छु॑ष्मो अग्ने॒ **यज॑मानायैधि॒**  
 नि+++(=न्यक्)+++-शु॑ष्मो अभि॒दास॑ते ।  
-अग्ने॒ **देवे᳚द्ध॒ मन्व्-इ॑द्ध॒** मन्द्र॑-जि॒ह्व॥+++(5)+++
+अग्ने॒ **देवे᳚द्ध॒ मन्व्-इ॑द्ध॒** मन्द्र॑-जि॑ह्व॥+++(5)+++
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/02_paridhyanumantraNAdi/03_uchChuShmo_agne.md">
@@ -224,7 +224,7 @@ O Agni, kindled by the gods, kindled by Manu, with sweet tongue,
 
 उच्छु॑ष्मो अग्ने॒ यज॑मानायैधि॒  
 निशु॑ष्मो अभि॒दास॑ते ।  
-अग्ने॒ देवे᳚द्ध॒ मन्व्-इ॑द्ध॒ मन्द्र॑-जि॒ह्व॥
+अग्ने॒ देवे᳚द्ध॒ मन्व्-इ॑द्ध॒ मन्द्र॑जि॑ह्व॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -300,16 +300,14 @@ _______
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वाग् अ॑सि स॑पत्न॒-ख्षय॑णी।  
-वा॒चा मे᳚न्द्रि॒येणाऽऽवि॑श। 
 </details>
 <details><summary>Keith</summary>
 
-Thou art speech, derived from Indra, destroying the foe [2]; do thou enter me with speech, with power (indriyena).
+Thou art speech, derived from Indra, destroying the foe [2]; 
 </details>
 <details><summary>मूलम्</summary>
 
 वाग॑सि स॑पत्न॒ख्षय॑णी।  
-वा॒चा मे᳚न्द्रि॒येणाऽऽवि॑श।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -322,6 +320,13 @@ Thou art speech, derived from Indra, destroying the foe [2]; do thou enter me wi
 
 वा॒चा मे᳚न्द्रि॒येणाऽऽवि॑श ।
 </details>
+
+<details><summary>Keith</summary>
+
+do thou enter me with speech, with power (indriyena).
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 वा॒चा मे᳚न्द्रि॒येणाऽऽवि॑श ।
@@ -343,7 +348,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वस॒न्तम् ऋ॑तू॒नाम् प्री॑णामि॒  - स मा᳚ प्री॒तᳶ प्री॑णातु।   
+व॒स॒न्तम् ऋ॑तू॒नाम् प्री॑णामि॒  - स मा᳚ प्री॒तᳶ प्री॑णातु।   
 </details>
 <details><summary>Keith</summary>
 
@@ -351,7 +356,7 @@ Of the seasons spring I delight; delighted may it delight me.
 </details>
 <details><summary>मूलम्</summary>
 
-वस॒न्तम् ऋ॑तू॒नाम् प्री॑णामि॒  - स मा᳚ प्री॒तᳶ प्री॑णातु
+व॒स॒न्तम् ऋ॑तू॒नाम् प्री॑णामि॒  - स मा᳚ प्री॒तᳶ प्री॑णातु
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -402,7 +407,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व॒र्षा ऋ॑तू॒नाम्प्री॑णामि।   
+व॒र्षा ऋ॑तू॒नाम् प्री॑णामि।   
 ता मा᳚ प्री॒ताᳶ प्री॑णन्तु ।
 </details>
 <details><summary>Keith</summary>
@@ -433,7 +438,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-श॒रद॑मृतू॒नाम्प्री॑णामि ।  
+श॒रद॑म् ऋतू॒नाम् प्री॑णामि ।  
 सा मा᳚ प्री॒ता प्री॑णातु ।
 </details>
 <details><summary>Keith</summary>
@@ -463,7 +468,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-हेमन्त-शिशि॒राव् ऋ॑तू॒नाम् प्री॑णामि ।   
+हे॒म॒न्त॒-शिशि॒राव् ऋ॑तू॒नाम् प्री॑णामि ।   
 तौ मा᳚ प्री॒तौ प्री॑णीताम् ।
 </details>
 <details><summary>Keith</summary>
@@ -472,7 +477,7 @@ Of the seasons the winter and the cool I delight; delighted may they two delight
 </details>
 <details><summary>मूलम्</summary>
 
-हेमन्तशिशि॒रावृ॑तू॒नाम्प्री॑णामि ।   
+हे॒म॒न्त॒शिशि॒रावृ॑तू॒नाम्प्री॑णामि ।   
 तौ मा᳚ प्री॒तौ प्री॑णीताम् ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -513,7 +518,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्नेर॒हन्दे॑वय॒ज्यया᳚न्ना॒दो भू॑यासम् [6] ।
+अ॒ग्नेर् अ॒हन् दे॑वय॒ज्यया᳚न्ना॒दो भू॑यासम् [6] ।
 </details>
 <details><summary>Keith</summary>
 
@@ -544,7 +549,7 @@ _______
 
 दब्धि॑र् असि  ।  
 अद॑ब्धो भूयासम् ।  
-अ॒मुन् द॑भेयम् ।
+अ॒मुन् द॑भेयम् ।+++(5)+++
 </details>
 <details><summary>Keith</summary>
 
@@ -647,7 +652,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-महे॒न्द्रस्या॒हन्दे॑वय॒ज्यया॑ जे॒मान॑म्महि॒मान॑ङ्गमेयम् ।
+म॒हे॒न्द्रस्या॒हन् दे॑वय॒ज्यया॑ जे॒मान॑म् महि॒मान॑ङ् गमेयम् ।
 </details>
 <details><summary>Keith</summary>
 
@@ -655,7 +660,7 @@ By sacrifice tothe god Mahendra, may I attain superiority and greatness.
 </details>
 <details><summary>मूलम्</summary>
 
-महे॒न्द्रस्या॒हन्दे॑वय॒ज्यया॑ जे॒मान॑म्महि॒मान॑ङ्गमेयम् ।
+म॒हे॒न्द्रस्या॒हन्दे॑वय॒ज्यया॑ जे॒मान॑म्महि॒मान॑ङ्गमेयम् ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -686,7 +691,7 @@ enjoying long life.
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
-स्विष्टं करोर्तीति स्विष्टकृत्, तस्य देवयज्ययाहमायुष्मान्भूत्वा यज्ञेन प्रतिष्ठां गमेयम् । यज्ञेन या प्रतिष्ठा भवति 'यो यतो यज्ञं प्रयुङ्क्ते । तदेनं प्रतिष्ठापयतीति । प्रति तिष्ठति प्रजया पशुभिर्यजमानः' इति तामपि प्रतिष्ठां गमेयम् । 'लिङ्याशिष्यङ्' ॥
+स्विष्टं करोतीति स्विष्टकृत्, तस्य देवयज्ययाहमायुष्मान्भूत्वा यज्ञेन प्रतिष्ठां गमेयम् । यज्ञेन या प्रतिष्ठा भवति 'यो यतो यज्ञं प्रयुङ्क्ते । तदेनं प्रतिष्ठापयतीति । प्रति तिष्ठति प्रजया पशुभिर्यजमानः' इति तामपि प्रतिष्ठां गमेयम् । 'लिङ्याशिष्यङ्' ॥
 
 - [ 'छन्दसि निष्टर्क्य' इत्यत्र देवयज्याशब्दो निपातितः । देवार्हो यागो देवयज्या । ]
 
