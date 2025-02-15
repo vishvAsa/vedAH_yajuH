@@ -12,6 +12,55 @@ Converted to Unicode plain text without hyphens, sandhi resolution, and analytic
 Text: edited by W. Caland, Vaikhanasasmārtasūtram, the domestic rules of the Vaikhānasa school belonging to the Black Yajurveda, Calcutta 1927.
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+TRIVANDRUM SANSKRIT SERIES.  
+NO. XXVIII.  
+THE  
+VAIKHANASADHARMAPRASNA  
+OF  
+VIKHANAS  
+EDITED  
+BY  
+T GANAPATI SÂSTRÎ  
+Curator of the Department for the publication of Sanskrit manuscripts,  
+TRIVANDRUM  
+PUBLISHED UNDER THE AUTHORITY OF THE GOVERNMENT OF  
+HIS HIGHNESS THE MAHARAJAH OF TRAVANCORE.  
+TRIVANDRUM  
+PRINTED AT THE TRAVANCORE GOVERNMENT PRESS.  
+1913.  
+
+
+अनन्तशयन संस्कृतग्रन्थावलिः,  
+ग्रन्थाङ्कः २८.  
+वैखानसधर्मप्रश्नः  
+महर्षिणा विखनसा प्रणीतः  
+संस्कृतग्रन्थप्रकाशनकार्याध्यक्षेण  
+त. गणपतिशास्त्रिणा  
+संशोधितः ।  
+स च  
+अनन्तशयने  
+महामहिम श्रीमूलकरामवर्मकुलशेखरमहाराजशासनेन  
+राजकीयमुद्रणयन्त्रालये  
+मुद्रयित्वा प्रकाशितः ।  
+कोलम्बाब्दाः १०८८, कैस्ताब्दाः १९१३.
+
+PREFACE.  
+The Vaikhânasadharmaprasna which consists of three Prasnas treats of the castes (), mixed castes (f) and âsramas as also the respective duties thereof. This Dharmasutra, as is evident from the name of the work itself as well as from the closing line, 'a fa', of the work, is written by the sage, Vikhanas.  
+4  
+The manuscript on which the edition is based was obtained from Mr. Kasivadhyar of Mahadanapuram. It is written in Tamil grantha character on palm leaves and almost  
+correct.  
+TRIVANDRUM  
+T. GANAPATI SÂSTRÎ.
+
+निवेदना ।  
+वैखानसधर्मप्रश्नाभिधोऽयं ग्रन्थः प्रश्नत्रयात्मकः । वर्णा जातय आ- श्रमा वर्णजात्याश्रमाणां धर्माचात्र प्रतिपाद्यन्ते । अस्य धर्मसूत्रस्य प्रणेता महर्षिर्विखना इति ग्रन्थसमाख्यया 'इति विखना' इति ग्रन्थान्तिमवाक्यो- क्त्या चावगम्यते । एतत्संशोधनाधारभूतो ग्रन्थस्तु महादानपुरवास्तव्यस्य श्रीकाश्युपाध्यायस्य समीपादानीतः शुद्धप्रायस्तालपत्रमयो द्रमिलग्रन्थलिपिः ।   
+अनन्तशयनम् .   
+त. गणपातशास्त्री.॥ श्रीः ॥
+</details>
+
+
 
 वैख्ध्स् ०१।०१।<११२।१>  अथ वर्णाश्रमधर्मम्  
 वैख्ध्स् ०१।०१।<११२।१-२>  ब्राह्मणक्षत्रियवैश्यशूद्रामुखबाहूरुपादेषु जाताश् चत्वारो वर्णा  
