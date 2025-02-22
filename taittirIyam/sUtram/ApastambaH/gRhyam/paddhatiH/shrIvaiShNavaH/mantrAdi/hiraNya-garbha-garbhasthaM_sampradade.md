@@ -1,5 +1,5 @@
 +++
-title = "Hira Nya garbha garbhastha M sampradade"
+title = "हिरण्य-गर्भ--गर्भ-स्थं … सम्प्रददे"
 
 +++
 
