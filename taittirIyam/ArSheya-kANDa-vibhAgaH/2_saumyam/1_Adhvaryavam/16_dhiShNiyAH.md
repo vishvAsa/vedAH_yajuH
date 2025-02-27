@@ -819,7 +819,7 @@ hurt me not.
 </details>
 </details>
 </div>
-<details><summary>विश्वास-विवरणम्</summary>
+<details><summary>विश्वास-टिप्पनी</summary>
 
 अत्र धिष्णियास्व् अन्तिमौ मन्त्रगुच्छौ -
 
