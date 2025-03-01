@@ -155,12 +155,12 @@ title = "०४ नित्य-औपासन-विधिः"
 
 ‘भगवानेव ... औपासनाख्यं कर्म .. कारितवान्' 
 
-<div class="js_include" url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/prakIrNa-mantrAdi/gadyam/karma-parva-stham/sAttvika-tyAgaH_bhagavAn_eva"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/rAmAnujIyam/prakIrNa-mantrAdi/gadyam/karma-parva-stham/sAttvika-tyAgaH_bhagavAn_eva"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 इति सात्विकत्यागं कृत्वा,  
 
-<div class="js_include" url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/prakIrNa-mantrAdi/gadyam/karma-parva-stham/prINana-mantraH_kRtaM_cha"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/rAmAnujIyam/prakIrNa-mantrAdi/gadyam/karma-parva-stham/prINana-mantraH_kRtaM_cha"  newLevelForH1="5" includeTitle="false"> </div>  
 
 इति औपासनं भगवति समर्पयेत् ॥  
 अथाऽऽत्मसमारोपणं, समित्समारोपणं वा पूर्वोक्तमन्त्रतः कुर्यात् ।
