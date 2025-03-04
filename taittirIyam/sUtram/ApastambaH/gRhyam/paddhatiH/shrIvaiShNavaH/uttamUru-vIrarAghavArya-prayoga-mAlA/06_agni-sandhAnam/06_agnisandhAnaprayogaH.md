@@ -80,7 +80,7 @@ title = "०६ अग्नि-सन्धान-प्रयोगः"
 त्रिः प्राणान् आयम्य, 
 
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/vyakti-shlokAdi/venkaTanAthaH/shrImAn_venkaTanAthAryaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/rAmAnujIyam/vyakti-shlokAdi/venkaTanAthaH/shrImAn_venkaTanAthAryaH.md">
 <details open><summary><h5>shrImAn_venkaTanAthAryaH ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -96,7 +96,7 @@ title = "०६ अग्नि-सन्धान-प्रयोगः"
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/vyakti-shlokAdi/gurubhyas_tad-gurubhyaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/rAmAnujIyam/vyakti-shlokAdi/gurubhyas_tad-gurubhyaH.md">
 <details open><summary><h5>गुरुभ्यस् तद्-गुरुभ्यश् च ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
@@ -118,7 +118,7 @@ title = "०६ अग्नि-सन्धान-प्रयोगः"
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/prakIrNa-mantrAdi/padyam/svasheSha-bhUtena.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/rAmAnujIyam/prakIrNa-mantrAdi/padyam/svasheSha-bhUtena.md">
 <details open><summary><h5>स्वशेषभूतेन मया ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -177,7 +177,7 @@ title = "०६ अग्नि-सन्धान-प्रयोगः"
 दक्षिणोरूपरि सङ्कल्पार्थे हस्त-तले संमेल्य,  
 
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/prakIrNa-mantrAdi/gadyam/harir_OM_tat_govinda.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/rAmAnujIyam/prakIrNa-mantrAdi/gadyam/harir_OM_tat_govinda.md">
 <details open><summary><h5>हरिर् ओं तत् - श्रीगोविन्द ...{Loading}...</h5></summary>
 
 
@@ -197,7 +197,7 @@ title = "०६ अग्नि-सन्धान-प्रयोगः"
 
 इति सङ्कल्प्य, 
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/prakIrNa-mantrAdi/gadyam/karma-parva-stham/prINana-mantraH_kRtaM_cha/">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/rAmAnujIyam/prakIrNa-mantrAdi/gadyam/karma-parva-stham/prINana-mantraH_kRtaM_cha/">
 <details open><summary><h5>प्रीणन-मन्त्रः - कृतं च ...{Loading}...</h5></summary>
 
 
@@ -216,7 +216,7 @@ title = "०६ अग्नि-सन्धान-प्रयोगः"
 
 इत्यनुसन्धाय 
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/prakIrNa-mantrAdi/gadyam/karma-parva-stham/bala-mantraH">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/rAmAnujIyam/prakIrNa-mantrAdi/gadyam/karma-parva-stham/bala-mantraH">
 <details open><summary><h5>बल-मन्त्रः ...{Loading}...</h5></summary>
 
 
@@ -235,7 +235,7 @@ title = "०६ अग्नि-सन्धान-प्रयोगः"
 +++(इति)+++ बलमन्त्रम् अनुसन्धाय  
 
 
-[सात्त्विकत्यागं](/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/prakIrNa-mantrAdi/gadyam/karma-parva-stham/sAttvika-tyAgaH_bhagavAn_eva/) कृत्वा, 
+[सात्त्विकत्यागं](/rAmAnujIyam/prakIrNa-mantrAdi/gadyam/karma-parva-stham/sAttvika-tyAgaH_bhagavAn_eva/) कृत्वा, 
 
 
 ## स्थण्डिल-कल्पनम्
@@ -664,9 +664,9 @@ title = "०६ अग्नि-सन्धान-प्रयोगः"
 
 > भगवानेव... विच्छिन्नौपासनाग्निसन्धानाख्यं कर्म... कारितवान् 
 
-इति [सात्त्विकत्यागं](/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/prakIrNa-mantrAdi/gadyam/karma-parva-stham/sAttvika-tyAgaH_bhagavAn_eva/) कृत्वा, 
+इति [सात्त्विकत्यागं](/rAmAnujIyam/prakIrNa-mantrAdi/gadyam/karma-parva-stham/sAttvika-tyAgaH_bhagavAn_eva/) कृत्वा, 
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/prakIrNa-mantrAdi/gadyam/karma-parva-stham/prINana-mantraH_kRtaM_cha/">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/rAmAnujIyam/prakIrNa-mantrAdi/gadyam/karma-parva-stham/prINana-mantraH_kRtaM_cha/">
 <details open><summary><h5>प्रीणन-मन्त्रः - कृतं च ...{Loading}...</h5></summary>
 
 

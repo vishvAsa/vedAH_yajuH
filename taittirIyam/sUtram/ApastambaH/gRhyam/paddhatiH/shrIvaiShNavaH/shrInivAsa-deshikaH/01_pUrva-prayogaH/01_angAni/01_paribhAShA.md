@@ -60,7 +60,7 @@ title = "०१ परिभाषा"
 
 श्रीमान्वेङ्कटेत्यादि + देवः प्रक्रमते स्वयम् ॥ 
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/vyakti-shlokAdi/venkaTanAthaH/shrImAn_venkaTanAthAryaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/rAmAnujIyam/vyakti-shlokAdi/venkaTanAthaH/shrImAn_venkaTanAthAryaH.md">
 <details open><summary><h5>shrImAn_venkaTanAthAryaH ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -76,7 +76,7 @@ title = "०१ परिभाषा"
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/prakIrNa-mantrAdi/padyam/svasheSha-bhUtena.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/rAmAnujIyam/prakIrNa-mantrAdi/padyam/svasheSha-bhUtena.md">
 <details open><summary><h5>स्वशेषभूतेन मया ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -147,7 +147,7 @@ title = "०१ परिभाषा"
 "श्रीगोविन्द-गोविन्दे"त्य्-आदि--यथा-क्रमम् अनुसन्धाय  
 
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/prakIrNa-mantrAdi/gadyam/harir_OM_tat_govinda.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/rAmAnujIyam/prakIrNa-mantrAdi/gadyam/harir_OM_tat_govinda.md">
 <details open><summary><h5>हरिर् ओं तत् - श्रीगोविन्द ...{Loading}...</h5></summary>
 
 
