@@ -435,6 +435,8 @@ ______________
 </details>
 </div>
 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/02_bhUr_agnaye_mahAvyAhRtayaH.md" unfilled newLevelForH1="5" includeTitle="false">   
+
 > ओं भू॒रग्नये॑ पृथि॒व्यै स्वाहा᳚ ॥ [[TODO:परिष्कार्यम्??]]  
 (अग्नय इदं न मम)
 
@@ -446,8 +448,11 @@ ______________
 
 > ओं भूर्भुव॒स्सुव॑श्च॒न्द्रम॑से दि॒ग्भ्यस्स्वाहा᳚ ॥ [[TODO:परिष्कार्यम्??]]  
 (चन्द्रमस इदं न मम) 
+</div>
 
 [[51]]
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/03_bhUr_annam.md" unfilled newLevelForH1="5" includeTitle="false"> 
 
 > ओं भूरन्न॑म॒ग्नये॑ पृथि॒व्यै स्वाहा᳚ ॥ [[TODO:परिष्कार्यम्??]]  
 (अग्नये पृथिव्या इदं न मम) 
@@ -460,6 +465,9 @@ ______________
 
 > ओं भूर्भुव॒स्सुव॒रन्नं॑ च॒न्द्रम॑से दि॒ग्भ्यस्स्वाहा᳚ ॥ [[TODO:परिष्कार्यम्??]]  
 (चन्द्रमसे दिग्भ्य इदं न मम) 
+</div>  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/04_bhUr_agnaye.md" unfilled newLevelForH1="5" includeTitle="false">   
 
 > ओं भूरग्न॒ये॑ च पृथि॒व्यै च॑ मह॒ते च॒ स्वाहा᳚ ॥ [[TODO:परिष्कार्यम्??]]  
 (अग्नये महत इदं न मम)
@@ -472,8 +480,9 @@ ______________
 
 > ओं भूर्भुव॒स्सुव॑श्च॒न्द्रम॑से च॒ नक्ष॑त्रेभ्यश्च दि॒ग्भ्यश्च॑ मह॒ते च॒ स्वाहा᳚ ॥ [[TODO:परिष्कार्यम्??]]  
 (चन्द्रमसे महत इदम्) 
+</div>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/01_prAk_chittis_sRk"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/01_prAk_chittis_sRk"  newLevelForH1="5" includeTitle="true">
 
 ## होता
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -713,7 +722,7 @@ ______________
 
 (वाचस्पतय इदं न मम)
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/02_daxiNataH_pRthivI_hotA"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/02_daxiNataH_pRthivI_hotA"  newLevelForH1="5" includeTitle="true">
 
 
 ## होता
@@ -833,7 +842,7 @@ ______________
 
 [[52]]
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/03_pashchAt_agnir_hotA"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/03_pashchAt_agnir_hotA"  newLevelForH1="5" includeTitle="true">
 
 
 ## होता
@@ -956,7 +965,7 @@ ______________
 
 (अग्नय इदं न मम)
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/04_sUryan_te"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/04_sUryan_te"  newLevelForH1="5" includeTitle="true">
 
 
 ## होता
@@ -1109,7 +1118,7 @@ ______________
 </div>
 (सूर्यायेदं न मम)
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/05_prAk_mahAhavir_hotA"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/05_prAk_mahAhavir_hotA"  newLevelForH1="5" includeTitle="true">
 
 
 ## होता
@@ -1269,7 +1278,7 @@ ______________
 </div>
 (वाचस्पतय इदं न मम)
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/06_vAg_hotA"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/06_vAg_hotA"  newLevelForH1="5" includeTitle="true">
 
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -1402,7 +1411,7 @@ ______________
 </div>
 (वाचस्पतये ब्रह्मण इदं न मम)
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/07_brAhmaNa_ekahotA"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/07_brAhmaNa_ekahotA"  newLevelForH1="5" includeTitle="true">
 
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
