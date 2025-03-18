@@ -126,7 +126,7 @@ title = "१० ब्रह्मकूर्चपञ्चगव्यवि�
 
 घृते – 
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/20_vAyos_savitur.md">
+<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/20_vAyos_savitur.md">
 <details open><summary><h8>विश्वास-प्रस्तुतिः ...{Loading}...</h8></summary>
 
 वा॒योस् स॑वि॒तुर् वि॒दथा॑नि+++(=वेदनानि)+++ **मन्महे**  
@@ -183,7 +183,7 @@ title = "१० ब्रह्मकूर्चपञ्चगव्यवि�
 
 ### गोमूत्रम्
 
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/03/35_tat_saviturvareNyam.md">
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/03/35_tat_saviturvareNyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तत् स॑वि॒तुर्वरे॑ण्यं॒ भर्गो॑ दे॒वस्य॑ धीमहि। धियो॒ यो नः॑ प्रचो॒दया॑त् ॥३५॥
@@ -191,7 +191,7 @@ title = "१० ब्रह्मकूर्चपञ्चगव्यवि�
 </div>
 
 ### गोमयम्
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_07_mRttike/05_gandhadvArAn_durAdharShAn.md">
+<div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_07_mRttike/05_gandhadvArAn_durAdharShAn.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 ग॒न्ध॒द्वा॒रान् दु॑राध॒र्षान्  
@@ -313,7 +313,7 @@ ______________
 
 > ओं सोमा॑य॒ स्वाहा᳚ ॥  (सोमायेदं न मम)  
 
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/36/12_shanno_devIrabhiShTaya-Apo.md">
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/36/12_shanno_devIrabhiShTaya-Apo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 शन्नो॑ दे॒वीर॒भिष्ट॑य॒ऽआपो॑ भवन्तु पी॒तये॑। शंयोर॒भि स्र॑वन्तु नः ॥१२ ॥
@@ -336,7 +336,7 @@ ______________
 
 (त्र्यम्बकायेदं न मम)
 
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/099/03_irAvatI_dhenumatI.md">
+<div class="js_include" includetitle="plain" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/099/03_irAvatI_dhenumatI.md">
 <details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 
@@ -392,7 +392,7 @@ ______________
 </details>
 </div>
 
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/03/35_tat_saviturvareNyam.md">
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/03/35_tat_saviturvareNyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तत् स॑वि॒तुर्वरे॑ण्यं॒ भर्गो॑ दे॒वस्य॑ धीमहि। धियो॒ यो नः॑ प्रचो॒दया॑त् ॥३५॥
@@ -435,7 +435,7 @@ ______________
 </details>
 </div>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/02_bhUr_agnaye_mahAvyAhRtayaH.md" unfilled newLevelForH1="5" includeTitle="false">   
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/02_bhUr_agnaye_mahAvyAhRtayaH" unfilled newLevelForH1="5" includeTitle="false">   
 
 > ओं भू॒रग्नये॑ पृथि॒व्यै स्वाहा᳚ ॥ [[TODO:परिष्कार्यम्??]]  
 (अग्नय इदं न मम)
@@ -452,7 +452,7 @@ ______________
 
 [[51]]
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/03_bhUr_annam.md" unfilled newLevelForH1="5" includeTitle="false"> 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/03_bhUr_annam" unfilled newLevelForH1="5" includeTitle="false"> 
 
 > ओं भूरन्न॑म॒ग्नये॑ पृथि॒व्यै स्वाहा᳚ ॥ [[TODO:परिष्कार्यम्??]]  
 (अग्नये पृथिव्या इदं न मम) 
@@ -467,7 +467,7 @@ ______________
 (चन्द्रमसे दिग्भ्य इदं न मम) 
 </div>  
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/04_bhUr_agnaye.md" unfilled newLevelForH1="5" includeTitle="false">   
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/04_bhUr_agnaye" unfilled newLevelForH1="5" includeTitle="false">   
 
 > ओं भूरग्न॒ये॑ च पृथि॒व्यै च॑ मह॒ते च॒ स्वाहा᳚ ॥ [[TODO:परिष्कार्यम्??]]  
 (अग्नये महत इदं न मम)
