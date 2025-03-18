@@ -30,7 +30,7 @@ through the sacrificer offspring.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ध्रु॒वाम् आ॒प्याय॑मानाय्ँ य॒ज्ञो ऽन्वा प्या॑यते,  
-य॒ज्ञय्ँयज॑मानो॒ यज॑मानम्प्र॒जाः।
+य॒ज्ञय्ँ यज॑मानो॒ यज॑मानम् प्र॒जाः।
 </details>
 <details><summary>Keith</summary>
 
@@ -45,7 +45,8 @@ through the sacrificer offspring.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"आ प्या॑यतान् ध्रु॒वा घृ॒तेने"त्या॑ह ध्रु॒वामे॒वाऽऽप्या॑ययति ।
+"आ प्या॑यतान् ध्रु॒वा घृ॒तेने"त्या॑ह -  
+ध्रु॒वाम् ए॒वाऽऽप्या॑ययति ।
 </details>
 <details><summary>Keith</summary>
 
@@ -97,7 +98,7 @@ through its swelling the sacrifice is made to swell, through the sacrifice the s
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒यव्ँवै प्र॒जाप॑तेर् वि॒भान् नाम॑ लो॒कः ।   
+अ॒यव्ँ वै प्र॒जाप॑तेर् वि॒भान् नाम॑ लो॒कः ।   
 तस्मि॑न्न् ए॒वैन॑न् दधाति स॒ह यज॑मानेन ।  
 </details>
 <details><summary>Keith</summary>
