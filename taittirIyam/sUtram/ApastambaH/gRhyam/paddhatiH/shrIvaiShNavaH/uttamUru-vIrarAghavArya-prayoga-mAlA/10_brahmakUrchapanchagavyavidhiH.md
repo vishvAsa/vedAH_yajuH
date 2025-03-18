@@ -53,7 +53,7 @@ title = "१० ब्रह्मकूर्चपञ्चगव्यवि�
 
 गोमूत्रे – 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/16_yajnena_yajnamayajanta" unfilled newLevelForH1="5" includeTitle="false"> 
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/16_yajnena_yajnamayajanta.md" unfilled newLevelForH1="5" includeTitle="false"> 
 
 य॒ज्ञेन॑ य॒ज्ञम॑यजन्त दे॒वास्  
 तानि॒ धर्मा॑णि प्रथ॒मान्या॑सन् ।  
