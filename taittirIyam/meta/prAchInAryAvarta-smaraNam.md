@@ -3,6 +3,9 @@ title = "प्राचीनार्यावर्तस्मरणम्"
 unicode_script = "devanagari"
 +++
 
+## कृत्यन्तरेषु
+> Buddhist texts and some versions of Ramayana attest their presence in the Gangetic plains but currently they are found all over Southern India. The Taittiriyas are themselves divided into numerous sub-schools. 
+
 ## दीर्घरात्रिः
 उत्तरहिमवृत्ते वसतां पूर्वजानां स्मृतिम् प्रत्येमीह तैत्तिरीयसंहितायाम् अग्नेर् उपस्थाने -
 
