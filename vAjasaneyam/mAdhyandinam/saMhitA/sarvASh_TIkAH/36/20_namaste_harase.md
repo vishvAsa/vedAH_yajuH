@@ -7,6 +7,9 @@ title = "२० नमस्ते हरसे"
 asd
 </details>
 
+<details><summary>महीधरः</summary>
+</details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अग्निर्देवता
