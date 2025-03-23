@@ -23,6 +23,21 @@ title = "१२ काम्येष्टिमन्त्राः"
 
 1'ऐन्द्रं चरुं निर्वपेत्पशुकामः' इत्यस्य पुरोनुवाक्या - इन्द्रं व इति गायत्री ॥ याजमानब्राह्मणमध्ये याज्याकाण्डं वैश्वदेवम् ।
 </details>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+सप्तमादिष्वेकादशान्तेषु पञ्चस्वनुवाकेषु याजमानब्राह्मणप्रसङ्गादाध्वर्यव-ब्राह्मणमपि कियदभिहितम्। द्वादशानुवाके याज्या ( पुरोनुवाक्या ) उच्‍यन्ते। काम्येष्टिकाण्डे सप्तमानुवाके काचिदिष्टिरेवमाम्नायते -  
+“ऐन्द्रं चरुं निर्वपेत्पशुकाम ऐन्द्रा वै पशव इन्द्रमेव स्वेन भागधेयेनोप धावति स एवास्मै पशून्प्र यच्छति पशुमानेव भवति” (सं॰ का॰ २ प्र॰ २ अ॰ ७) इति।  
+पशूनामैन्द्रत्वमर्थवादान्तरे द्रष्टव्यम्।
+
+पुरोडाशादिपरित्यागेन चरुविधानं प्रशंसति-  
+“चरुर्भवति स्यादेवास्मै योनेः पशून्प्र जनयति” (सं॰ का॰ २ प्र॰ २ अ॰ ७) इति।  
+
+वाजपेये हि नैवारं चरुमश्वानवघ्रापयेत्। अश्वमेधेऽपि लाजीनित्यादिमन्त्रेणाश्वायान्नमुपावहरन्ति। तच्च भक्षितमन्नमुत्पत्स्यमानानामश्वानां रेतोरूपेण बीजमित्यभिप्रेत्य चरोः पशुयोनित्वमत्राभिधीयते।  
+
+तस्या ऐन्द्रेष्टेः पुरोनुवाक्यामाह-  
+</details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/007/10_indraM_vo.md">
 <details open><summary><h5>१० इन्द्रं वो ...{Loading}...</h5></summary>
 
@@ -33,6 +48,8 @@ title = "१२ काम्येष्टिमन्त्राः"
 
 </details>
 </div>
+
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/007/10_indraM_vo.md">
 <details open><summary><h5>010 ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -252,6 +269,14 @@ Wir rufen euch den Indra her von allen Orten, jedem Volk; Uns sei er eigen, kein
 
 2तत्रैव याज्या - इन्द्रं नर इति त्रिष्टुप् ॥ 
 </details>
+
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+याज्यामाह-  
+इन्द्रं नर इति। 
+</details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/027/01_indraM_naro.md">
 <details open><summary><h5>०१ इन्द्रं नरो ...{Loading}...</h5></summary>
 
@@ -264,6 +289,8 @@ Wir rufen euch den Indra her von allen Orten, jedem Volk; Uns sei er eigen, kein
 
 </details>
 </div>
+
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/027/01_indraM_naro.md">
 <details open><summary><h5>001 ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -615,6 +642,17 @@ Den Indra rufen im Gefecht die Männer, dass er erfolgreich diese Bitten mache; 
 
 3'इन्द्रायेन्द्रियावते पुरोडाशमेकादशकपालं निर्वपेत्' इत्यस्य पुरोनुवाक्या - इन्द्रियाणीति गायत्री ॥ 
 </details>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+इष्ट्यन्तरं विधत्ते –  
+“इन्द्रायेन्द्रियावते पुरोडाशमेकादशकपालं निर्वपेत्पशुकाम इन्द्रियं वै पशव इन्द्रमेवेन्द्रियावन्तꣳ स्वेन भागधेयेनोप धावति स एवास्मा इन्द्रियं पशून्प्र यच्छति पशूमानेव भवति” (सं॰ का॰ २ प्र॰ २ अ॰ ७) इति।  
+इन्द्रियं बलं प्रभूतमस्यास्तीतीन्द्रियावान्। क्षीरघृतादिद्वारेणेन्द्रियवृद्धिहेतुत्वात्पशूनामिन्द्रियत्वम्। इन्द्रियं पशून्। चेति समुच्चयेऽध्याहर्तव्यः।  
+
+
+तस्यामिष्टौ पुरोनुवाक्यामाह- 
+</details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/037/09_indriyANi_shatakrato.md">
 <details open><summary><h5>०९ इन्द्रियाणि शतक्रतो ...{Loading}...</h5></summary>
 
@@ -625,6 +663,8 @@ Den Indra rufen im Gefecht die Männer, dass er erfolgreich diese Bitten mache; 
 
 </details>
 </div>
+
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/037/09_indriyANi_shatakrato.md">
 <details open><summary><h5>009 ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -861,6 +901,15 @@ Die Indrakräfte wünsch' ich her, die, Indra, hundertwirkender, Du bei den fün
 
 4तत्रैव याज्या - अनु त इति त्रिष्टुप् ॥
 </details>
+
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+याज्यामाह-  
+
+अनु ते दायीति। 
+</details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/025/08_anu_te.md">
 <details open><summary><h5>०८ अनु ते ...{Loading}...</h5></summary>
 
@@ -872,6 +921,8 @@ Die Indrakräfte wünsch' ich her, die, Indra, hundertwirkender, Du bei den fün
 
 </details>
 </div>
+
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/025/08_anu_te.md">
 <details open><summary><h5>008 ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -1217,6 +1268,17 @@ Dir räumten alles ein die Götter alle, der grossen Indramacht beim Vritrakampf
 
 5'इन्द्राय घर्मवते पुरोडाशमेकादशकपालं निर्वपेद्ब्रह्मवर्चसकामः' इत्यस्य पुरोनुवाक्या - आ यस्मिन्नित्यनुष्टुप् ॥ 
 </details>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अन्यामिष्टिं विधत्ते-  
+“इन्द्राय घर्मवते पुरोडाशमेकादशकपालं निर्वपेद्ब्रह्मवर्चसकामो ब्रह्मवर्चसं वै गर्म इन्द्रमेव घर्मवन्तꣳ स्वेन भागधेयेनोप धावति स एवास्मिन्ब्रह्मवर्चसं दधाति ब्रह्मवर्चस्येव भवति” (सं॰ का॰ २ प्र॰ २ अ॰ ७) इति।  
+घर्मवते वेदशास्त्रादिप्रयुक्तब्रह्मतेजोयुक्ताय। विद्वत्सु वेदशास्त्रादिरूपेण ब्रह्मवर्चसेन दीप्यत इति ब्रह्मवर्चसस्य धर्मत्वम्।  
+
+
+एतस्यामिष्टौ पुरोनुवाक्यामाह-  
+</details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/12_kAmyeShTi-mantrAH/A_yasmin.md">
 <details open><summary><h5>आ यस्मिन् ...{Loading}...</h5></summary>
 
@@ -1229,6 +1291,7 @@ Dir räumten alles ein die Götter alle, der grossen Indramacht beim Vritrakampf
 
 </details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/12_kAmyeShTi-mantrAH/A_yasmin.md">
 <details open><summary><h5>आ यस्मिन् ...{Loading}...</h5></summary>
 <details><summary>Keith</summary>
@@ -1273,6 +1336,14 @@ The glowing pot is the guest of Indra.
 
 6तत्रैव याज्या - आमास्विति पथ्याबृहती, तृतीयपादस्य द्वादशाक्षरत्वात् ॥ 
 </details>
+
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+याज्यामाह-  
+आमास्विति। 
+</details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/089/07_AmAsu_pakvamairaya.md">
 <details open><summary><h5>०७ आमासु पक्वमैरय ...{Loading}...</h5></summary>
 
@@ -1284,6 +1355,7 @@ The glowing pot is the guest of Indra.
 
 </details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/089/07_AmAsu_pakvamairaya.md">
 <details open><summary><h5>007 ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -1569,6 +1641,16 @@ In rohen schufst du gare Milch, erhobst die Sonn' am Himmelsraum, Entflammt wie 
 
 7'इन्द्रायार्कवते पुरोडाशमेकादशकपालं निर्वपेदन्नकामः' इत्यस्य पुरोनुवाक्या - इन्द्रमिदिति गायत्री ॥ 
 </details>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+इष्ट्यन्तरं विधत्ते-  
+“इन्द्रायार्कवते पुरोडाशमेकादशकपालं निर्वपेदन्नकामोऽर्को वै देवानामन्नमिन्द्रमेवार्कवन्तꣳ स्वेन भागधेयेनोपधावति स एवास्मा अन्नं प्र यच्छत्यन्नाद एव भवति” (सं॰ का॰ २ प्र॰ २ अ॰ ७) इति।  
+बुभुक्षुभिरर्थ्यमानत्वादादरेण स्वीक्रियमाणत्वादन्नस्यर्कत्वाम्।  
+
+तत्र पुरोनुवाक्यामाह-    
+</details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/007/01_indramidgAthino_bRhadindramarkebhirarkiNaH.md">
 <details open><summary><h5>०१ इन्द्रमिद्गाथिनो बृहदिन्द्रमर्केभिरर्किणः ...{Loading}...</h5></summary>
 
@@ -1579,6 +1661,8 @@ In rohen schufst du gare Milch, erhobst die Sonn' am Himmelsraum, Entflammt wie 
 
 </details>
 </div>
+
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/007/01_indramidgAthino_bRhadindramarkebhirarkiNaH.md">
 <details open><summary><h5>001 ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -1845,6 +1929,12 @@ Den Indra preist der Sänger Schar, mit Preisgesang die preisenden, Den Indra la
 
 8तत्रैव याज्या - गायन्तीत्यनुष्टुप् ॥ 
 </details>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+याज्यामाह-  
+</details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/010/01_gAyanti_tvA.md">
 <details open><summary><h5>०१ गायन्ति त्वा ...{Loading}...</h5></summary>
 
@@ -1856,6 +1946,9 @@ Den Indra preist der Sänger Schar, mit Preisgesang die preisenden, Den Indra la
 
 </details>
 </div>
+
+
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/010/01_gAyanti_tvA.md">
 <details open><summary><h5>001 ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -2177,6 +2270,21 @@ Die Sänger singen dir ein Lied und Preisgesang die preisenden; Die Beter haben 
 
 9'इन्द्रायांहोमुचे पुरोडाशमेकादशकपालं निर्वपेद् यः पाप्मना गृहीतस् स्यात्' इत्यस्य पुरोनुवाक्या - अंहोमुच इति त्रिष्टुप् ॥ 
 </details>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+इष्ट्यन्तरं त्रिहविष्कं विधत्ते-  
+
+“इन्द्राय घर्मवते पुरोडाशमेकादशकपालं निर्वपेदिन्द्रायेन्द्रियावत इन्द्रायार्कवते भूतिकामो यदिन्द्राय घर्मवते निर्वपति शिर एवास्य तेन करोति यदिन्द्रायेन्द्रियावत आत्मानमेवास्य तेन करोति यदिन्द्रायार्कवते भूत एवान्नद्ये प्रति तिष्ठति भवत्येव” (सं॰ का॰ २ प्र॰ २ अ॰ ७) इति।  
+तेन घर्मवते निर्वापेणाध्वर्युरस्य यजमानस्य शिरः करोति। एवंविधैश्वर्यादिभिः सभायामुन्नतशिरस्कं करोति। तेनेन्द्रियावते निर्वापेणास्य यजमानस्याऽऽत्मानमेव करोति पुष्टशरीरमेव करोति। अर्कवते निर्वापेण यजमानो भूत एवैश्वर्यं प्राप्त एव सन्नदनयोग्ये सम्यगन्ने प्रतितिष्ठति। भवत्येव पुनरप्याधिकमैश्वर्यं प्राप्नोत्येव। अत्र घर्मवतो हविषि ‘आ यस्मिन्’ इत्यादिके याज्यानुवाक्ये। इन्द्रियावतो हविषि “इन्द्रियाणि शतक्रतो” इत्यादिके। अर्कवतो हविषि “इन्द्रमिद्गाथिनो बृहत्” इत्यादिके।  
+
+इष्ट्यन्तरं विधत्ते-  
+‘इन्द्रायाꣳ होमुचे पुरोडाशमेकादशकपालं निर्वपेद्यः पाप्मना गृहीतः स्यात्पाप्मा वा अꣳह इन्द्रमेवाꣳहोमुचꣳ स्वेन भागधेयेनोप धावति स एवैनं प्राप्मनोऽꣳहसो मुञ्चति’ (सं॰ का॰ २ प्र॰ २ अ॰ ७) इति।  
+अंहःशब्देनात्र नरकहेतुर्निषिद्धाचरणादिरूपः पाप्मोच्‍यते। पाप्मनोंऽह-सोऽत्यधिकात्पापादित्यर्थः।  
+
+तत्र पुरोनुवाक्यामाह-  
+</details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/12_kAmyeShTi-mantrAH/aMhomuche_pra.md">
 <details open><summary><h5>अंहोमुचे प्र ...{Loading}...</h5></summary>
 
@@ -2188,6 +2296,8 @@ Die Sänger singen dir ein Lied und Preisgesang die preisenden; Die Beter haben 
 
 </details>
 </div>
+
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/12_kAmyeShTi-mantrAH/aMhomuche_pra.md">
 <details open><summary><h5>अंहोमुचे प्र ...{Loading}...</h5></summary>
 <details><summary>Keith</summary>
@@ -2228,6 +2338,12 @@ May the desires of the sacrificer be fulfilled.
 
 10तत्रैव याज्या - विवेषेति त्रिष्टुप् ॥ 
 </details>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+याज्यामाह-  
+</details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/032/14_viveSha_yanmA.md">
 <details open><summary><h5>१४ विवेष यन्मा ...{Loading}...</h5></summary>
 
@@ -2239,6 +2355,7 @@ May the desires of the sacrificer be fulfilled.
 
 </details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/032/14_viveSha_yanmA.md">
 <details open><summary><h5>014 ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -2588,6 +2705,12 @@ Wenn mich der Trunk ergriffen und erregt hat, dann preis' ich Indra vor dem Tag 
 
 11तत्रैव याज्या विकल्प्यते - प्र सम्राजमिति त्रिष्टुप् ॥ 
 </details>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अत्रैव विकल्पितामन्यां याज्यामाह-  
+</details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/12_kAmyeShTi-mantrAH/02_pra_samrAjam.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
@@ -2597,6 +2720,8 @@ Wenn mich der Trunk ergriffen und erregt hat, dann preis' ich Indra vor dem Tag 
 अ॒स्मिन् न॑र इन्द्रि॒यन् ध॑त्त॒म् ओजः॑  ॥
 </details>
 </div>
+
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/12_kAmyeShTi-mantrAH/02_pra_samrAjam.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
@@ -2638,6 +2763,16 @@ Do ye confer power and strength on this one.
 
 12इन्द्राय वैमृधाय पुरोडाशमेकादशकपालं निर्वपेद्यम्मृधोभि प्रवेपेरन्राष्ट्राणि वाभि समियुरिन्द्रमेव वैमृधम्' इत्यस्य पुरोनुवाक्या - वि न इन्द्रेत्यनुष्टुप् ॥ 
 </details>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+इष्ट्यन्तरं विधत्ते-  
+“इन्द्राय वैमृधाय पुरोडाशमेकादशकपालं निर्वपेद्यं मृधोऽभि प्रवेपेरन्‍रा-ष्ट्राणि वाऽभि समियुरिन्द्रमेव वैमृधꣳ स्वेन भागधेयेनोप धावति स एवास्मान्मृधोऽपहन्ति” (सं॰ का॰ २ प्र॰ २ अ॰ ७) इति।  
+मृधो वैरिणो यं यजमानमभितः प्रवेपेरन्प्रकर्षेण कम्पयेयुर्भीतिमुत्पादयेयुः। अथवा राष्ट्राणि देशानभितो विनाशयितुं समियुः संगता भवेयुः, तस्य यजमानस्य रक्षायै वैमृधाय शत्रुविनाशकायेन्द्राय निर्वपेत्। स चेन्द्रोऽस्माद्यजमानान्मृधः शत्रूनपहन्ति।  
+
+तत्र पुरोनुवाक्यामाह-  
+</details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/12_kAmyeShTi-mantrAH/03_vi_na.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
@@ -2647,6 +2782,7 @@ Do ye confer power and strength on this one.
 यो अ॒स्माꣳ अ॑भि॒दास॑ति+++(←दसु उपक्षये)+++  ॥
 </details>
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/12_kAmyeShTi-mantrAH/03_vi_na.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
@@ -2680,6 +2816,12 @@ Who is hostile to us.
 
 13तत्रैव याज्या - इन्द्र क्षत्रमिति त्रिष्टुप् ॥ 
 </details>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+तत्र याज्यामाह-  
+</details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/180/03_indra_xatramabhi.md">
 <details open><summary><h5>०३ इन्द्र क्षत्रमभि ...{Loading}...</h5></summary>
 
@@ -2691,6 +2833,7 @@ Who is hostile to us.
 
 </details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/180/03_indra_xatramabhi.md">
 <details open><summary><h5>003 ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -2964,6 +3107,12 @@ Zu grosser Macht und Herrschaft bist du, Indra, geboren als der Lebenden Gebiete
 
 14याज्याविकल्पः - मृगो नेति त्रिष्टुप् । 
 </details>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+तस्यामेवेष्टौ विकल्पितां पुरोनुवाक्यामाह-  
+</details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/12_kAmyeShTi-mantrAH/04_mRgo_na.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
@@ -2973,6 +3122,8 @@ Zu grosser Macht und Herrschaft bist du, Indra, geboren als der Lebenden Gebiete
 वि शत्रू᳚न् ताढि॒ वि मृधो॑+++(=योद्धॄन्)+++ **नुदस्व**  ॥
 </details>
 </div>
+
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/12_kAmyeShTi-mantrAH/04_mRgo_na.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
@@ -3010,6 +3161,12 @@ Smite the foes, drive away the enemy.
 
 15अतश्च विकल्पः - वि शत्रूनित्यनुष्टुप् ॥ 
 </details>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+विकल्पितां याज्यामाह-  
+</details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/12_kAmyeShTi-mantrAH/05_vi_shatrUn.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
@@ -3019,6 +3176,7 @@ Smite the foes, drive away the enemy.
 ऽमित्र॑स्याभि॒दास॑तः  ॥
 </details>
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/12_kAmyeShTi-mantrAH/05_vi_shatrUn.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
@@ -3049,6 +3207,16 @@ Of him who is hostile to us.
 
 16 'इन्द्राय त्रात्रे पुरोडाशमेकादशकपालं निर्वपेद्बद्धो वा परियत्तो वा' इत्यस्य पुरोनुवाक्या - त्रातारमिन्द्रमिति त्रिष्टुप् ॥ 
 </details>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+इष्ट्यन्तरं विधत्ते-  
+“इन्द्राय त्रात्रे पुरोडाशमेकादशकपालं निर्वपेद्बद्धो वा परियत्तो वेन्द्रमेव त्रातारꣳ स्वेन भागधेयेनोप धावति स एवैनं त्रायते” (सं॰ का॰ २ प्र॰ २ अ॰ ७) इति।  
+बद्धः शृङ्खलया निगडितः। परियत्तः शृङ्खलामन्तरेण परितो भटैवरुद्धः।  
+
+तत्र पुरोनुवाक्यामाह-  
+</details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/12_kAmyeShTi-mantrAH/06_trAtAram_indram.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
@@ -3058,6 +3226,7 @@ Of him who is hostile to us.
 स्व॒स्ति नो॑ म॒घवा॑ **धा॒त्व्** इन्द्रः॑  ॥
 </details>
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/12_kAmyeShTi-mantrAH/06_trAtAram_indram.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
@@ -3087,6 +3256,12 @@ May Indra in his bounty bestow on us prosperity
 
 17तत्रैव याज्या - मा ते अस्यामिति त्रिष्टुप् ॥ 
 </details>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+तत्रैव याज्यामाह –  
+</details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/12_kAmyeShTi-mantrAH/07_mA_te.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
@@ -3095,6 +3270,7 @@ May Indra in his bounty bestow on us prosperity
 **त्राय॑स्व** नो ऽवृ॒केभि॒र् वरू॑थै॒स्+++(=गृहैः)+++  
 तव॑ **प्रि॒यास॑स्** सू॒रिषु॑ **स्याम**  ॥
 </details>
+
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/12_kAmyeShTi-mantrAH/07_mA_te.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
@@ -3141,6 +3317,19 @@ May we be dear to you among the princes.
 
 18'इन्द्रायार्काश्वमेधवते पुरोडाशमेकादशकपालं निर्वपेद्यं महायज्ञो नोपनमेत्' इत्यस्य पुरोनुवाक्या - अनवस्त इति त्रिष्टुप् ॥ 
 </details>
+
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+इष्ट्यन्तरं विधत्ते-  
+
+“इन्द्रायार्काश्वमेधवते पुरोडामेकादशपालं निर्वपेद्यं महायज्ञो नोपनमेदेते मै महायज्ञस्यान्त्ये तनू यदर्काश्वमेधाविन्द्रमेवार्काश्वमेधयन्तꣳ स्वेन भागधेयेनोप धावति स एवास्मा अन्ततो महायज्ञं च्‍यावयत्युपैनं महायज्ञो नमति” (सं॰ का॰ २ प्र॰ २ अ॰ ७) इति।  
+अश्वमेधयज्ञस्य साधनभूतो योऽग्निः सोऽर्कः। यश्च तत्फलभूत आदित्यः सोऽश्वमेधः। अत एव पञ्चमकाण्डे पञ्चार्काहुतिविधिशेषार्थवादे समाम्नायते - “अर्को वा एष यदाग्निरसावादित्योऽश्वमेधो यदेता आहुतीर्जुहोत्यर्काश्वमेधयोरेव ज्योतीꣳषि संदधाति” इति। अश्वमेधब्राह्मणेऽप्याम्नायते - “अग्निर्वा अश्वमेधस्य योनिरायतम्। सूर्योऽग्नेर्योनिरायतनम्। यदश्वमेधेऽग्नौ चित्य उत्तरवेदिं चिनोति तावर्काश्वमेधौ” इति। वाजसनेयिनोऽपि चित्यस्यग्नेरुपासने समामनन्ति — “एष वा अश्वमेधो य एष तपति तस्य संवत्सर आत्माऽयमग्निरर्कस्तस्येमे लोका आत्मानस्तावेतावर्काश्वमेधौ” इति। इन्द्रः स्तुतयोरग्न्यादित्ययोः स्वामित्वादर्काश्वमेधवानित्युच्‍यते। यं यजमानं प्रत्यश्वमेधराजसूयरूपो महायज्ञो नोपनमेन्न प्राप्नुयात्स यजमानोऽर्काश्वमेधस्वामिने निर्वपेत्। यावेतावर्काश्वमेधशब्दवाच्‍यावग्न्यादित्यौ तावुभौ महायज्ञस्याश्वमेधस्यान्त्ये तनू प्रारम्भसमाप्तिकोटयोर्वर्तमानशरीरे। चित्याग्निः साधनत्वेन प्रारम्भकोटौ वर्तते। आदित्यः फलरूपत्वेन समाप्तिकोटिगामी। स एवेन्द्र एवास्मै यजमानस्य समीपे महायज्ञं प्रेरयति। स च महायज्ञ एनं यजमानमुपनमति प्राप्नोति।   
+
+
+तत्र पुरोनुवाक्यामाह-  
+</details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/031/04_anavaste_rathamashvAya.md">
 <details open><summary><h5>०४ अनवस्ते रथमश्वाय ...{Loading}...</h5></summary>
 
@@ -3152,6 +3341,7 @@ May we be dear to you among the princes.
 
 </details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/031/04_anavaste_rathamashvAya.md">
 <details open><summary><h5>004 ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -3472,6 +3662,12 @@ Die Menschen machten für dein Ross den Wagen Tvaschtar den lichten Blitz, o vie
 समाप्तश्च प्रपाठकः ॥
 
 </details>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+याज्यामाह-  
+</details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/031/05_vRShNe_yatte.md">
 <details open><summary><h5>०५ वृष्णे यत्ते ...{Loading}...</h5></summary>
 
@@ -3483,6 +3679,8 @@ Die Menschen machten für dein Ross den Wagen Tvaschtar den lichten Blitz, o vie
 
 </details>
 </div>
+
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/031/05_vRShNe_yatte.md">
 <details open><summary><h5>005 ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
