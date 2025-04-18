@@ -1,5 +1,5 @@
 +++
-title = "०८ सन्ध्यार्थ-दीपिका"
+title = "०३ सन्ध्यार्थ-दीपिका"
 
 +++
 Source: [TW](https://archive.org/details/panchakalaprakas015157mbp/page/n65/mode/2up)
