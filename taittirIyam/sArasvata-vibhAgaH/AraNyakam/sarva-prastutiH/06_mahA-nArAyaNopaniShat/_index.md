@@ -4636,7 +4636,7 @@ ________________________
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="27_sashiro_gAyatrI">
 <details open><summary><h2>२७ सशिरो गायत्री ...{Loading}...</h2></summary>
 
-### शिरः
+शिरः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ओं भूः । ओं भुवः॑ । ओꣳ सुवः॑ । ओं महः॑ । ओञ्जनः॑ । ओं तपः॑ । ओꣳ स॒त्यम् ।
@@ -5084,13 +5084,13 @@ _भर्गयत्य्_ अपि तत्-कष्टं
 प्र + चुद सञ्चोदने (चुरादिगण १०.४९) + णिच् + लेट् (शप् + तिप्) = प्रचोदयात्। लेटि छान्दसरूपमिदम्।
 
 
-###### निष्पत्तिः 
+निष्पत्तिः 
 
 प्र चुद → अनुबन्धलोपः → प्र चुद् → सत्यापपाशरूपवीणातूलश्लोकसेनालोमत्वचवर्मवर्णचूर्णचुरादिभ्यो णिच् (३.१.२५) → प्र चुद् णिच् → अनुबन्धलोपः → प्र चुद् इ → पुगन्तलघूपधस्य च (७.३.८६) → प्र चोद् इ → प्र चोदि → सनाद्यन्ता धातवः (३.१.३२) → लः कर्मणि च भावे चाकर्मकेभ्यः (३.४.६९) → विधिनिमन्त्रणामन्त्रणाधीष्टसंप्रश्नप्रार्थनेषु लिङ् (३.३.१६१) → लिङर्थे लेट् (३.४.७) → शेषात्कर्तरि परस्मैपदम् (१.३.७८) → प्र चोदि तिप् → कर्तरि शप् (३.१.६८) → प्र चोदि शप् तिप् → अनुबन्धलोपः → प्र चोदि अ ति → सार्वधातुकार्धधातुकयोः (७.३.८४) → प्र चोदे अ ति → लेटोऽडाटौ (३.४.९४) → आद्यन्तौ टकितौ (१.१.४६) → प्र चोदे अ आट् ति → अनुबन्धलोपः → प्र चोदे अ आ ति → एचोऽयवायावः (६.१.७८) → प्र चोदय् अ आ ति → अकः सवर्णे दीर्घः (६.१.१०१) → प्र चोदय् आ ति → इतश्च लोपः परस्मैपदेषु (३.४.९७) → प्र चोदय् आ त् →  प्रचोदयात्।
 
 
 
-###### अर्थः 
+अर्थः 
 
 यदि प्रार्थने लिङ् स्वीक्रियते तर्हि ‘लिङर्थे लेट्’ (३.४.७) इत्यनेन लेटि सिद्धस्य ‘प्रचोदयात्’ इत्यस्य “प्रकर्षेण सञ्चोदनं कुर्यात्” इत्यर्थः। यदि लडर्थे बहुलव्यत्ययाल्लेट् स्वीक्रियते तर्हि ‘प्रचोदयात्’ इत्यस्य “प्रकर्षेण सञ्चोदनं करोति” इत्यर्थः। 
 </details>
@@ -5210,7 +5210,7 @@ Dass wir des Gottes Savitar begehrtes Licht erlangten doch, Der unsre Bitten fö
 </details>
 <details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
 
-###### The mantra-s
+The mantra-s
 
 The Sāvitrī is the core mantra used in Savitrupāsanā. It also has other notable deployments, which will be described later. Its ṛṣi is Viśvāmitra of the clan of Gāthin, the chandas is nicṛd gāyatrī and the devatā is Savitṛ. It is from the 3_r__d_ maṇḍala of the Ṛgveda (RV 3.62.10). The meter is termed nicṛd gāyatrī because the syllable count is 23, one short of the usual 24 for a gāyatrī. This arises due to the intrinsic saṃdhi, which creates वरेण्यम् from वरेणियम् . The Sāvitrī goes thus:  
 
@@ -5234,7 +5234,7 @@ Thus, we get,
 
 May we focus on the excellent radiance of the deva Savitṛ who will inspire our insights.  
 
-###### Adjuncts
+Adjuncts
 The Sāvitrī is prefixed with the three vyāhṛti-s for the actual japa.  
 
 >  भूर् भुवः सुवः ।  
@@ -5291,7 +5291,7 @@ A variant inverse deployment involves merely inverting the three feet.
 
 > धियो॒ यो नः॑ प्रचो॒दया॑त् । भर्गो॑ दे॒वस्य॑ धीमहि । तत् स॑वि॒तुर् वरे॑णि॒यों ॥
 
-###### The mysteries
+The mysteries
 
 The śruti of the the Vājasaneyin-s provides a mystery teaching regarding the Sāvitrī, which associates the 3 feet of the core mantra with a triad of triads, which is summarized below.
 
@@ -5355,7 +5355,7 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 </details>
 </div>
  
-### पुच्छम्
+पुच्छम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ओमापो॒ ज्योती॒रसो॒ ऽमृतं॒  ब्रह्म॒+++(=मन्त्राः)+++ भूर्भुव॒स्सुव॒रोम् । (42)
@@ -5366,7 +5366,7 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 </details>
 <details><summary>विश्वास-टिप्पनी</summary>
 
-### प्राणायामे विनियोगः
+प्राणायामे विनियोगः
 - प्राणायामे पूरणे व्याहृतयः।  
 - कुम्भके गायत्रीमन्त्रः।
 - रेचके / ‌निःस्वासे पुच्छम्।
@@ -5605,7 +5605,7 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 
 ## 39
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="39_medhA_devI/">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="39-42_medhA_devI/">
 <details open><summary><h2>३९ मेधा देवी ...{Loading}...</h2></summary>
 <details><summary>पाठभेदाः</summary>
 
@@ -5614,7 +5614,7 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 - सायणो [ऽत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_036_Taittiriya_Aranyakam_With_Sayana_Bhashya_Part_2_-_Babasastri_Phadke_1927#page/n411/mode/2up) आन्ध्रपाठमवलम्बमानः
 - भास्करो द्राविडपाठमवलम्बमानो [ऽत्र](https://archive.org/stream/taittiriya/taittiriya_aranyaka_bhaskara_02#page/n159/mode/2up) । रङ्गरामानुजभाष्यम् [अत्र](https://archive.org/details/UpanisadahRangaramanuja/Taittiriya_Aitareya_Chandogya_mula_Rangaramanuja-bhasya_UttamurViraraghavacarya_Karika_Madras_1973/page/n217/mode/2up?view=theater)।
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/39_medhA_devI/02_medhA_devI.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/39-42_medhA_devI/02_medhA_devI.md">
 <details open><summary><h6>विश्वास-प्रस्तुतिः ...{Loading}...</h6></summary>
 
 मे॒धा दे॒वी जु॒षमा॑णा न॒ आगा॑द्  
@@ -5623,7 +5623,7 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 बृ॒हद् व॑देम वि॒दथे॑+++(=यज्ञे)+++ सु॒वीराः॑ ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/39_medhA_devI/02_medhA_devI.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/39-42_medhA_devI/02_medhA_devI.md">
 <details open><summary><h6>सर्वाष् टीकाः ...{Loading}...</h6></summary>
 <details><summary>मूलम्</summary>
 
@@ -5634,7 +5634,7 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/39_medhA_devI/04_tvayA_juShTa.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/39-42_medhA_devI/04_tvayA_juShTa.md">
 <details open><summary><h6>विश्वास-प्रस्तुतिः ...{Loading}...</h6></summary>
 
 त्वया॒ जुष्ट॑ ऋ॒षिर् भ॑वति देवि॒  
@@ -5643,7 +5643,7 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 सा नो॑ जुषस्व॒ द्रवि॑णेन मेधे । (54)
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/39_medhA_devI/04_tvayA_juShTa.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/39-42_medhA_devI/04_tvayA_juShTa.md">
 <details open><summary><h6>सर्वाष् टीकाः ...{Loading}...</h6></summary>
 <details><summary>मूलम्</summary>
 
@@ -5655,7 +5655,7 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/39_medhA_devI/06_medhAM_ma.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/39-42_medhA_devI/06_medhAM_ma.md">
 <details open><summary><h6>विश्वास-प्रस्तुतिः ...{Loading}...</h6></summary>
 
 मे॒धां म॒ इन्द्रो॑ ददातु  
@@ -5664,7 +5664,7 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 आध॑त्तां॒ पुष्क॑रस्रजा । (55)
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/39_medhA_devI/06_medhAM_ma.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/39-42_medhA_devI/06_medhAM_ma.md">
 <details open><summary><h6>सर्वाष् टीकाः ...{Loading}...</h6></summary>
 <details><summary>मूलम्</summary>
 
@@ -5675,7 +5675,7 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/39_medhA_devI/08_apsarAsu_yA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/39-42_medhA_devI/08_apsarAsu_yA.md">
 <details open><summary><h6>विश्वास-प्रस्तुतिः ...{Loading}...</h6></summary>
 
 अ॒प्स॒रासु॑ [च॒] या मे॒धा  
@@ -5684,7 +5684,7 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 मे॒धा सु॒रभि॑र् जुषताम् । (56)
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/39_medhA_devI/08_apsarAsu_yA.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/39-42_medhA_devI/08_apsarAsu_yA.md">
 <details open><summary><h6>सर्वाष् टीकाः ...{Loading}...</h6></summary>
 <details><summary>मूलम्</summary>
 
@@ -5696,7 +5696,7 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/39_medhA_devI/10_A_mAm.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/39-42_medhA_devI/10_A_mAm.md">
 <details open><summary><h6>विश्वास-प्रस्तुतिः ...{Loading}...</h6></summary>
 
 आ मां॑ मे॒धा सु॒रभि॑र् वि॒श्वरू॑पा॒  
@@ -5705,7 +5705,7 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 सा मां॑ मे॒धा सु॒प्रती॑का जुषताम् । (57)
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/39_medhA_devI/10_A_mAm.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/39-42_medhA_devI/10_A_mAm.md">
 <details open><summary><h6>सर्वाष् टीकाः ...{Loading}...</h6></summary>
 <details><summary>मूलम्</summary>
 
