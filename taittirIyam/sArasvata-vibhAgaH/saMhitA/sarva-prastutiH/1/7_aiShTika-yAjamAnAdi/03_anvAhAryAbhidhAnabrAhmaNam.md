@@ -49,6 +49,11 @@ Secretly offering is made to one set of gods, openly to another.
 परोक्षमिति। परोक्षमिति क्रियाविशेषणम्। अग्नीन्द्रादीनामदृश्यमानत्वात्तद्यागः परोक्षः। ऋत्विजां दृश्यमानत्वात्तद्यागः प्रत्यक्षः।  
 </details>
 
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अन्वाहार्यदानं विधत्ते-  
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद् +++(परोक्षं यष्टव्यान्)+++ यज॑ते॒,  
@@ -71,7 +76,6 @@ The gods who receive offering secretly, he thus offers to them in sacrifice; in 
 
 <details><summary>सायण-टीका</summary>
 
-अन्वाहार्यदानं विधत्ते-  
 यदन्वाहार्यमिति। अन्वाहार्य पक्व ओदनस्तामाहरत्यृत्विग्भ्यो दद्यात्। 
 </details>
 
@@ -101,6 +105,11 @@ the Brahmans are the gods openly--them he verily delights.
 </details>
 
 ## छिद्र-पूर्तिः
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अन्वाहार्यस्य दक्षिणारूपत्वेन यज्ञच्छिद्रपिधायकत्वेन च त प्रशंसति-  
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथो॒ दख्षि॑णै॒वास्यै॒षा ।  
@@ -122,8 +131,12 @@ This is his sacrificial fee: verily he mends the rent in the sacrifice;
 
 <details><summary>सायण-टीका</summary>
 
-अन्वाहार्यस्य दक्षिणारूपत्वेन यज्ञच्छिद्रपिधायकत्वेन च त प्रशंसति-  
 अथ दक्षिणेति। 
+</details>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अन्वाहार्यशब्दं निर्वक्ति-  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -148,8 +161,13 @@ whatever in the sacrifice is harsh or is injured, that he makes good (anvaharati
 </details>
 <details><summary>सायण-टीका</summary>
 
-अन्वाहार्यशब्दं निर्वक्ति-  
 यद्वै यज्ञस्येति। अतिरिक्तं कर्मणो यच्च हीनमित्यस्मिन्प्रायश्चित्ताहुतिमन्त्रे प्रोक्तमधिकं यज्ञाङ्गमत्र क्रूरं, न्यूनं विलिष्टं, तदुभयमनेनान्वाहार्यदानेनानुकूलं यथा भवति तथाऽऽहरति समादधति। तस्मादन्वाहार्यत आनुकुल्येन समाधीयतेऽनेनेत्यन्वाहार्यः।  
+</details>
+
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+ऋत्विक्प्रीतिहेतुत्वे पुनः प्रशंसति-
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -173,10 +191,16 @@ Now the priests are the messengers of the gods; in that he brings the Anvaharya 
 
 <details><summary>सायण-टीका</summary>
 
-ऋत्विक्प्रीतिहेतुत्वे पुनः प्रशंसति-देवदूता इति।  
+देवदूता इति।  
 </details>
 
 ## अपरिमित-पूर्तिः
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+प्रजापतिभागत्वेन पुनस्तं प्रशंसति-  
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र॒जाप॑तिर् दे॒वेभ्यो॑ य॒ज्ञान् व्यादि॑शत् ।  
@@ -208,8 +232,13 @@ Prajapati distributed the sacrifice to the gods; he reflected that he was empty;
 
 <details><summary>सायण-टीका</summary>
 
-प्रजापतिभागत्वेन पुनस्तं प्रशंसति-  
 प्रजापतिरिति। आग्नेयाग्नीषोमीयपुरोडाशान्यागानग्न्यादिदेवेभ्यो विभज्य दत्त्वा स्वकीययागराहित्येन रिक्तमात्मानं मन्यमानः प्रजापतिरभक्तं देवेभ्यो विभज्यासमर्पितं दृष्ट्वा तमात्मनि स्थापितवान्। ततोऽन्वाहार्यः प्राजापत्यः।  
+</details>
+
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+तस्यान्वाहार्यस्य बाहुल्यसंपादनं विधत्ते-  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -234,11 +263,16 @@ he, who knowing thus brings the Anvaharya, assuredly enjoys Prajapati. An unlimi
 
 <details><summary>सायण-टीका</summary>
 
-तस्यान्वाहार्यस्य बाहुल्यसंपादनं विधत्ते-  
 अपरिमित इति। सर्वदेवस्वामित्वेन व्याप्तिबाहुल्यात्प्रजापतेरपरिमितत्वम्।  
 </details>
 
 ## शत्रुनाशः
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+स्वविजयहेतुत्वेन वैरिपराजयहेतुत्वेन च पुनः प्रशंसति - 
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दे॒वा वै यद्य॒ज्ञे ऽकु॑र्वत॒, तद् असु॑रा अकुर्वत।  
@@ -267,10 +301,16 @@ Whatever the gods did in the sacrifice, the Asuras did; the gods perceived the A
 
 <details><summary>सायण-टीका</summary>
 
-स्वविजयहेतुत्वेन वैरिपराजयहेतुत्वेन च पुनः प्रशंसति - देवा वा इति।  
+देवा वा इति।  
 </details>
 
 ## इस्टापूर्ती
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+इष्टापूर्तकारित्वपूरणेन च पुनः प्रशंसंति-  
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य॒ज्ञेन॒ वा इ॒ष्टी, प॒क्वेन॑ पू॒र्ती +++(यजमानः)+++।  
@@ -293,11 +333,16 @@ By the sacrifice there is offering, by the cooked food satisfying. He who knowin
 
 <details><summary>सायण-टीका</summary>
 
-इष्टापूर्तकारित्वपूरणेन च पुनः प्रशंसंति-  
 यज्ञेन वा इति। इष्टमाग्नेयादि श्रौतकर्म। पूर्तं वापीकूपादि स्मार्तकर्म। तत्राऽऽग्नेयादियागेनेष्टसंपत्तिः। पक्वेनान्वाहार्येण पूर्तसंपत्तिः।  
 </details>
 
 ## मन्त्र-निरुक्तयः
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+तस्याभिमर्शनमन्त्रप्रथमभागं व्याचष्टे-
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र॒जाप॑तेर् भा॒गो॑ऽसि [13] +इत्या॑ह ।  
@@ -319,7 +364,7 @@ By the sacrifice there is offering, by the cooked food satisfying. He who knowin
 
 <details><summary>सायण-टीका</summary>
 
-तस्याभिमर्शनमन्त्रप्रथमभागं व्याचष्टे-प्रजापतेरिति।  
+प्रजापतेरिति।  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -342,6 +387,11 @@ By the sacrifice there is offering, by the cooked food satisfying. He who knowin
 द्वितीयभागं व्याचष्टे-ऊर्जस्वानिति।  
 </details>
 
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+तृतीयभागं व्याचष्टे- 
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रा॒णा॒पा॒नौ मे᳚  पाहि ।  
@@ -361,8 +411,13 @@ By the sacrifice there is offering, by the cooked food satisfying. He who knowin
 
 <details><summary>सायण-टीका</summary>
 
-तृतीयभागं व्याचष्टे- प्राणापानामिति। 
+प्राणापानामिति। 
 ऋत्विग्भिरन्वाहार्यस्य नीयमानत्वात्तेन स्वकीयप्राणादिपालनमाशीर्वाद एव।  
+</details>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+चतुर्थभागं व्याकुर्वन्नभिमर्शनं विधत्ते-  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -384,7 +439,6 @@ By the sacrifice there is offering, by the cooked food satisfying. He who knowin
 
 <details><summary>सायण-टीका</summary>
 
-चतुर्थभागं व्याकुर्वन्नभिमर्शनं विधत्ते-  
 अक्षितोऽसीति। स्वर्गस्य कर्मभूमित्वाभावान्न तत्साधनानुष्ठानेनान्नं संपादयितुं शक्यं, किंतु स्वगप्राप्ताः प्रजा इतःप्रदानमेतल्लोकानुष्ठितकर्मसंपादितमेवान्नं स्वर्गे लोक उपजीवन्ति। तस्मात्तत्र भूज्यमानमिदं क्षीयते। अक्षितोऽसीति मन्त्रेण यदभिमर्शनं तेनान्नस्याक्षयत्वप्रापणादन्नं न स्वर्गे क्षीयते॥  
 
 इति श्रीमत्सायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे कृष्णयजुर्वेदीय-तैत्तिरीयसंहिताभाष्ये प्रथमकाण्डे सप्तमप्रपाठके  
