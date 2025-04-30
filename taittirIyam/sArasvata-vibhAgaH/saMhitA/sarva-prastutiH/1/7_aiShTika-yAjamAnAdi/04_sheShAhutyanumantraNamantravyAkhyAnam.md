@@ -131,6 +131,11 @@ With the victory of the new and full moon sacrifices [1] the gods conquered, and
 तां च यज्ञोज्जितिमनु देवा अप्युत्कर्षेणाजयन्। ताभ्यां च संपूर्णाभ्यां दर्शपूर्णमासाभ्यामसुरान्निराचक्रुः।  
 </details>
 
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+स्रुग्व्यूहनानुमन्त्रणं विधत्ते-  
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वाज॑वतीभ्या॒व्ँ +++(दर्वी)+++ व्यू॑हति ।   
@@ -154,7 +159,6 @@ strength is food, verily he wins food;
 
 <details><summary>सायण-टीका</summary>
 
-स्रुग्व्यूहानुमन्त्रणं विधत्ते-  
 वाजवतीभ्यामिति। व्यूहति अध्वर्युणा क्रियमाणमनुमन्त्रयेदित्यर्थः।  
 </details>
 
