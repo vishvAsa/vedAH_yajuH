@@ -11,7 +11,7 @@ title = "८ १५-२० श्रद्धया"
 श्र॒द्धया॒ऽग्निस्समि॑ध्यते ।  
 श्र॒द्धया॑ विन्दते ह॒विः ।   
 श्र॒द्धाम्भग॑स्य मू॒र्धनि॑ ।  
-वच॒सा वे॑दयामसि ।
+वच॒सा ऽऽवे॑दयामसि ।
 </details>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/151/01_shraddhayAgniH_samidhyate.md">
 <details open><summary><h5>001 ...{Loading}...</h5></summary>
@@ -715,17 +715,23 @@ Wie Götter der Asurenschar, der starken, schenkten ihr Vertraun, So mache du au
 
 18अथ पुरोडाशस्य याज्यामाह - 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/151/04_shraddhAM_devA.md">
-<details open><summary><h5>०४ श्रद्धां देवा ...{Loading}...</h5></summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्र॒द्धां दे॒वा यज॑माना  
 वा॒युगो॑पा॒ **उपा॑सते** ।  
 श्र॒द्धां हृ॑द॒य्य१॒॑या ऽऽकू॑त्या+++(=संकल्पक्रियया [उपासते])+++,  
-श्र॒द्धया॑ **विन्दते॒** वसु॑ ॥
-
+श्र॒द्धया॑ हूयते ह॒विः॥
 </details>
-</div>
+
+<details><summary>मूलम्</summary>
+
+श्र॒द्धां दे॑वा॒ यज॑मानाः ।  
+वा॒युगो॑पा॒ उपा॑सते ।  
+श्र॒द्धाꣳ हृ॑द॒य्य॑याऽऽकू᳚त्या ।  
+श्र॒द्धया॑ हूयते ह॒विः ।
+</details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/151/04_shraddhAM_devA.md">
 <details open><summary><h5>004 ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
