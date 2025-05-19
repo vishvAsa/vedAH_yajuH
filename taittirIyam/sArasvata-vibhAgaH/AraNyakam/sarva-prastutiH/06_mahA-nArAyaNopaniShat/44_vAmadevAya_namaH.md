@@ -38,3 +38,18 @@ unicode_script = "devanagari"
 म॒नोन्म॑नाय॒ नमः॑ । (59)
 </details>
 
+<details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
+
+The vAmadeva mantra of the pa~nchabrahma-s is the mantra of the 11 rudra-s. It names a total of 11 rudra-s, an ancient number associated with the rudra-s. The shatapatha brAhmaNa of the shuklayajurveda gives a different list of rudra-s, 9 in number. Notably, this number is important in the later tAntrika tradition (e.g., navAtman bhairava and the navAtman mantra of the early Urdhvasrotas; 9^2 also underlies the structure of the vyomavyApin mantra).  
+
+9 female forms of these rudra-s are the 9 shakti-s of the central maNDala of shiva in both the dakShiNasrotas and Urdhvasrotas. They are arranged as an ogdoad in an 8-petalled lotus around sadAshiva or svachChanda-bhairava, with manonmanI as the shakti in the center alongside shiva.+++(4)+++ 
+
+However, some texts, like the saiddhAntika texts, kiraNa and parAkhya, list 9 rudra-s.  
+These are extracted from the original 11 of the vAmadeva mantra parallel to the 9 shakti-s of rudra:
+
+1. vAmadeva; 2. jyeShTha; 3. rudra; 4. kAla; 5. kalavikaraNa (kalAkShepa); 6. balavikaraNa (balakShepa); 7. balapramathana; 8. sarvabhutasdamana; 9. manonmana
+
+The parAkhya tantra, which lists slightly different variants (in brackets) of some of these rudra-s mentions explicitly that they reside with the respective shakti-s. 
+
+The sAdhaka of the nine-bIja navAtman invokes the 9 rudra-s on padmapITha-s blossoming in the chidabdhiH
+</details>
