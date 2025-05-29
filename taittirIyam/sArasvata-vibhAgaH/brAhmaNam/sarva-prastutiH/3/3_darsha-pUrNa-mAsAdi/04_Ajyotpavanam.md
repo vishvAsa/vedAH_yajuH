@@ -244,7 +244,7 @@ unicode_script: devanagari
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "धाम्ने॑-धाम्ने दे॒वेभ्यो॒ यजु॑षे-यजुषे भ॒वे"त्या॑ह ।
-आ॒शिष॑म् ए॒वैतामाशा᳚स्ते ॥18॥  
+आ॒शिष॑म् ए॒वैताम् आशा᳚स्ते ॥18॥  
 </details>
 
 <details><summary>मूलम्</summary>
