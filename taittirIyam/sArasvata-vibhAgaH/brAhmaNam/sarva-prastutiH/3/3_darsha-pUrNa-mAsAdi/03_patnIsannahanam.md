@@ -78,7 +78,7 @@ unicode_script: devanagari
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आसी॑ना॒ **सन्न॑ह्यते** ।
-आसी॑ना॒ ह्य् ए॑षा वी॒र्य॑ङ् क॒रोति॑ ॥11॥
+आसी॑ना॒ ह्य् ए॒॑षा वी॒र्य॑ङ् क॒रोति॑ ॥11॥
 </details>
 
 <details><summary>मूलम्</summary>
