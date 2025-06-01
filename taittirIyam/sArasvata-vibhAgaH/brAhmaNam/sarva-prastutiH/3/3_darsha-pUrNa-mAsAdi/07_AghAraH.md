@@ -105,7 +105,7 @@ unicode_script: devanagari
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 षट्थ् सम्प॑द्यन्ते ।  
-षड्वा ऋ॒तवः॑ ।  
+षड् वा ऋ॒तवः॑ ।  
 ऋ॒तून् ए॒व प्री॑णाति ।  
 </details>
 
@@ -157,7 +157,7 @@ unicode_script: devanagari
 
 त्रिर् **उप॑वाजयति** ।  
 त्रयो॒ वै प्रा॒णाः ।  
-प्रा॒णाने॒वास्मि॑न् **दधाति** ।
+प्रा॒णान् ए॒वास्मि॑न् **दधाति** ।
 </details>
 
 <details><summary>मूलम्</summary>
