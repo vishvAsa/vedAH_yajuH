@@ -473,7 +473,8 @@ He appealed to the earth, 'Take a third part of my guilt.'
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 साब्र॑वीत् -  
-"वर॑व्ँवृणै खा॒तात्प॑राभवि॒ष्यन्ती॑ मन्ये ।
+"वर॑व्ँ वृणै -  
+खा॒तात् प॑राभवि॒ष्यन्ती॑ मन्ये ।
 ततो॒ मा परा॑ भूव॒म्" इति॑ ।
 </details>
 
@@ -512,7 +513,7 @@ She said, 'Let me choose a boon. I deem that I shall be overcome through digging
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"पु॒रा ते  स॒व्ँव॒थ् स॒रादपि॑ रोहा॒द्" इत्य् अ॑ब्रवीत् ।  
+"पु॒रा ते  स॒व्ँव॒थ्स॒राद् अपि॑ रोहा॒द्" इत्य् अ॑ब्रवीत् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -545,7 +546,8 @@ He replied, 'Before [2] a year is out it will grow up for thee.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा᳚त्पु॒रा स॑व्ँवथ्स॒रात् पृ॑थि॒व्यै खा॒तमपि॑ रोहति - वारे॑-वृत॒ꣵ॒ ह्य् अ॑स्यै
+तस्मा᳚त् पु॒रा स॑व्ँवथ्स॒रात् पृ॑थि॒व्यै खा॒तम् अपि॑ रोहति -  
+वारे॑-वृत॒ꣵ॒ ह्य् अ॑स्यै
 </details>
 
 <details><summary>Keith</summary>
@@ -675,7 +677,7 @@ therefore one who has piled up a fire-altar and whose deity is faith should not 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्र॒ह्म॒ह॒त्यायै॒+++(या)+++ ह्य् ए॑ष वर्णः॑ ।
+ब्र॒ह्म॒ह॒त्यायै॒+++(या)+++ ह्य् ए॒॑ष वर्णः॑ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -817,7 +819,7 @@ Therefore from the pruning of trees more (shoots) spring up, for that was what t
 तृती॑यम् ब्रह्मह॒त्यायै॒ प्रत्य॑गृह्णन् ।  
 स नि॑र्या॒सो॑ऽभवत् ।  
 तस्मा᳚न्निर्या॒सस्य॒ नाश्य॑म्।  
-ब्र॒ह्म॒ह॒त्यायै॒ ह्ये॑ष वर्णः॑।
+ब्र॒ह्म॒ह॒त्यायै॒ ह्य् ए॒॑ष वर्णः॑।
 </details>
 
 <details><summary>Keith</summary>
@@ -843,7 +845,7 @@ They took a third part of his guilt, it became sap; therefore one should not par
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथो॒ खलु॒ य ए॒व लोहि॑तो॒ यो वा॒ऽऽव्रश्च॑नान्नि॒र्येष॑ति॒ तस्य॒ नाश्य॒म् [4] काम॑म॒न्यस्य
+अथो॒ खलु॒ य ए॒व लोहि॑तो॒ यो वा॒ऽऽव्रश्च॑नान् नि॒र्येष॑ति॒ तस्य॒ नाश्य॒म् [4] काम॑म् अ॒न्यस्य॑
 </details>
 
 <details><summary>Keith</summary>
@@ -854,7 +856,7 @@ Or rather of the sap which is red or which comes from the pruning one should not
 
 <details><summary>मूलम्</summary>
 
-अथो॒ खलु॒ य ए॒व लोहि॑तो॒ यो वा॒ऽऽव्रश्च॑नान्नि॒र्येष॑ति॒ तस्य॒ नाश्य᳚म् [4] काम॑म॒न्यस्य
+अथो॒ खलु॒ य ए॒व लोहि॑तो॒ यो वा॒ऽऽव्रश्च॑नान्नि॒र्येष॑ति॒ तस्य॒ नाश्य᳚म् [4] काम॑म॒न्यस्य॑
 </details>
 
 <details><summary>पद-पाठः</summary>
