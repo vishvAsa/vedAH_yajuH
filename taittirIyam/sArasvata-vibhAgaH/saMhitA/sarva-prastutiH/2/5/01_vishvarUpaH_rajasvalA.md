@@ -818,7 +818,7 @@ Therefore from the pruning of trees more (shoots) spring up, for that was what t
 
 तृती॑यम् ब्रह्मह॒त्यायै॒ प्रत्य॑गृह्णन् ।  
 स नि॑र्या॒सो॑ऽभवत् ।  
-तस्मा᳚न्निर्या॒सस्य॒ नाश्य॑म्।  
+तस्मा᳚न् निर्या॒सस्य॒ नाश्य॑म्।  
 ब्र॒ह्म॒ह॒त्यायै॒ ह्य् ए॒॑ष वर्णः॑।
 </details>
 
@@ -882,7 +882,7 @@ Or rather of the sap which is red or which comes from the pruning one should not
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स स्त्री॑-षꣳसा॒दम् उपा॑सीदत् -  
-"अ॒स्यै ब्र॑ह्मह॒त्यायै॒ तृती॑य॒म्प्रति॑ गृह्णी॒ते"ति॑ ।  
+"अ॒स्यै ब्र॑ह्मह॒त्यायै॒ तृती॑य॒म् प्रति॑ गृह्णी॒ते"ति॑ ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -956,7 +956,7 @@ They said, 'Let us choose a boon; let us obtain offspring from after the menses;
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मा॒द् ऋत्वि॑या॒थ् स्त्रियᳶ॑ प्र॒जाव्ँ वि॑न्दन्ते ।  
-काम॒मा विज॑नितो॒स् सम्भ॑वन्ति।
+काम॒म् आ विज॑नितो॒स् सम्भ॑वन्ति।
 </details>
 
 <details><summary>Keith</summary>
@@ -995,7 +995,7 @@ Therefore women obtain offspring from after the menses, and enjoy intercourse at
 ### रजः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वारे॑वृत॒ꣵ॒ ह्या॑सा॒न्तृती॑यम् ब्रह्मह॒त्यायै॒ प्रत्य॑गृह्णन् ।    
+वारे॑वृत॒ꣵ॒ ह्य् आ॑सान्, तृती॑यम् ब्रह्मह॒त्यायै॒ प्रत्य॑गृह्णन् ।    
 सा मल॑वद्वासा अभवत् ।  
 </details>
 
@@ -1067,7 +1067,7 @@ therefore one should not converse with (a woman) with stained garments [5], one 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नास्या॒ अन्न॑मद्यात् ।  
+नास्या॒ अन्न॑म् अद्यात् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1099,7 +1099,7 @@ nor eat her food,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्र॒ह्म॒ह॒त्यायै॒ ह्ये॑षा वर्ण॑म् प्रति॒मुच्यास्ते ।  
+ब्र॒ह्म॒ह॒त्यायै॒ ह्य् ए॒॑षा वर्ण॑म् प्रति॒मुच्यास्ते॑ ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1110,7 +1110,7 @@ for she keeps emitting the colour of guilt.
 
 <details><summary>मूलम्</summary>
 
-ब्र॒ह्म॒ह॒त्यायै॒ ह्ये॑षा वर्ण॑म्प्रति॒मुच्यास्ते ।  
+ब्र॒ह्म॒ह॒त्यायै॒ ह्ये॑षा वर्ण॑म्प्रति॒मुच्यास्ते॑ ।  
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1127,7 +1127,7 @@ for she keeps emitting the colour of guilt.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथो॒ खल्वा॑हुर् -
+अथो॒ खल्व् आ॑हुर् -
 अ॒भ्यञ्ज॑न॒व्ँ+++(→तैलादि)+++ वाव स्त्रि॒या अन्न॑म् , अ॒भ्यञ्ज॑नम् ए॒व न +++(स्त्रिया)+++ प्र॑ति॒गृह्य॒ङ् काम॑म् अ॒न्यद् इति॑ ।
 </details>
 
@@ -1175,7 +1175,7 @@ Or rather they say, 'Woman's food is unguent, and there fore one should not acce
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 याम् मल॑वद्वाससꣳ स॒म्भव॑न्ति॒ -   
-यस् ततो॒ जाय॑ते॒ सो॑ऽभि॒शस्तः।  
+यस् ततो॒ जाय॑ते॒ सो॑ऽभिश॒स्तः।  
 याम् अर॑ण्ये॒ तस्यै᳚ स्ते॒नः ।  
 </details>
 
@@ -1189,7 +1189,7 @@ The son born of intercourse with (a woman) with stained garments is accursed;
 <details><summary>मूलम्</summary>
 
 याम्मल॑वद्वाससꣳ स॒म्भव॑न्ति ।  
-यस्ततो॒ जाय॑ते॒ सो॑ऽभि॒शस्तः।  
+यस्ततो॒ जाय॑ते॒ सो॑ऽभिश॒स्तः।  
 यामर॑ण्ये॒ तस्यै᳚ स्ते॒नः ।  
 </details>
 
@@ -1376,7 +1376,7 @@ The son born of intercourse with (a woman) with stained garments is accursed;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-या द॒तो धाव॑ते॒ - तस्यै᳚ श्या॒वदन्न्॑ ।  
+या द॒तो धाव॑ते॒ - तस्यै᳚ श्या॒वद॑न्न् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1478,7 +1478,7 @@ The son born of intercourse with (a woman) with stained garments is accursed;
 
 <details><summary>मूलम्</summary>
 
-या रज्जुꣳ॑ सृ॒जति॒ तस्या॑ उ॒द्बन्धु॑कः ।
+या रज्जुꣳ॑ सृ॒जति॒ तस्या॑ उ॒द्बन्धु॑कः +++(उ॒द्बन्धू॑कः इति सात्वलेकर-पाठः)+++ ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1559,7 +1559,7 @@ The son born of intercourse with (a woman) with stained garments is accursed;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ति॒स्रो रात्री᳚र् व्र॒तञ्च॑रेत् ।  
+ति॒स्रो रात्री᳚र् व्र॒तञ् च॑रेत् ।  
 अ॒ञ्ज॒लिना॑ वा॒ **पिबे॒द्** -   
 अख॑र्वेण वा॒ पात्रे॑ण प्र॒जायै॑ गोपी॒थाय॑ ॥
 </details>
