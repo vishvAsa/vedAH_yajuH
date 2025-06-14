@@ -103,7 +103,7 @@ In that he cast it (avartayat), Vrtra is Vrtra;
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद् अब्र॑वी॒थ्  - स्वाहेन्द्र॑-शत्रुर् वर्ध॒स्वेति॒,  
-तस्मा॑द् अस्येन्द्र॒श् शत्रु॑र् अभवत् ।  
+तस्मा॑द् अ॒स्येन्द्र॒श् शत्रु॑र् अभवत् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -116,7 +116,7 @@ in that he said, 'Hail! wax great, Indra's foe', therefore [1] Indra became his 
 <details><summary>मूलम्</summary>
 
 यदब्र॑वी॒थ्स्वाहेन्द्र॑शत्रुर्वर्ध॒स्वेति॑ ।  
-तस्मा॑दस्येन्द्र॒श्शत्रु॑रभवत् ।  
+तस्मा॑दस्ये॑न्द्र॒श्शत्रु॑रभवत् ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -186,8 +186,8 @@ Because he enveloped these worlds, therefore is Vrtra, Vrtra.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मा॒द् इन्द्रो॑ऽबिभेत् ।  
-स प्र॒जाप॑ति॒मुपा॑धावत् -  
-"शत्रु॑र्मेऽज॒नी"ति॑ ।  
+स प्र॒जाप॑ति॒म् उपा॑धावत् -  
+"शत्रु॑र् मेऽज॒नी"ति॑ ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -452,7 +452,7 @@ that was the origin of cold and fever heat.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य ए॒वꣳ शी॑तरू॒रयो॒र्जन्म॒ वेद॒   
+य ए॒वꣳ शी॑तरू॒रयो॒र् जन्म॒ वेद॒   
 नैनꣳ॑ शीतरू॒रौ ह॑तः।  
 </details>
 
@@ -779,7 +779,7 @@ Having performed the oblation to the Vrtra slayer, he took his bolt and again we
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते अ॑ब्रूताम् द्यावा॑पृथि॒वी -  
-"मा प्र हा॑र् आ॒वयो॒र् वै श्रि॒त" इति॑ ।  
+"मा प्र हाः॑ - आ॒वयो॒र् वै श्रि॒त" इति॑ ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -835,9 +835,9 @@ They said, 'Let us choose a boon.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॒न् नख्ष॑त्र-विहिता॒ऽसौ चि॒त्रवि॑हिते॒यम् ।  
+तस्मा॒न् नख्ष॑त्र-विहिता॒ऽसौ, चि॒त्रवि॑हिते॒यम् ।  
 
-य ए॒वन् द्यावा॑पृथि॒व्योः वर॒व्ँ वेदैन॒व्ँ वरो॑ गच्छति  
+य ए॒वन् द्यावा॑पृथि॒व्योः वर॒व्ँ वेदै॑न॒व्ँ वरो॑ गच्छति  
 </details>
 
 <details><summary>Keith</summary>
@@ -851,7 +851,7 @@ Therefore yonder (sky) is adorned with the Naksatras, this (earth) with variegat
 चि॒त्रवि॑हिता॒ऽहमिती॒यम् ..  
 तस्मा॒न्नख्ष॑त्रविहिता॒ऽसौ चि॒त्रवि॑हिते॒यम् ।  
 
-य ए॒वन्द्यावा॑पृथि॒व्योः वर॒व्ँवेदैन॒व्ँवरो॑ गच्छति।
+य ए॒वन्द्यावा॑पृथि॒व्योः वर॒व्ँवेदैन॒व्ँ (/वेदै॑नं॒) वरो॑ गच्छति।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -866,7 +866,8 @@ Therefore yonder (sky) is adorned with the Naksatras, this (earth) with variegat
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स आ॒भ्यामे॒व प्रसू॑त॒ इन्द्रो॑ वृ॒त्रम् **अ॑हन्** ।  
+स आ॒भ्याम् ए॒व प्रसू॑त॒  
+इन्द्रो॑ वृ॒त्रम् **अ॑हन्** ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -995,7 +996,7 @@ They said, 'Who is there to go for it?'
 
 साऽब्र॑वी॒द्  -  
 
-> "वर॑व्ँवृणै ।  
+> "वर॑व्ँ वृणै ।  
 मय्य् ए॒व स॒तोभये॑न +++(→घृतेन पयसा च)+++ भुनजाध्वा॒" 
 
 इति॑ ।
