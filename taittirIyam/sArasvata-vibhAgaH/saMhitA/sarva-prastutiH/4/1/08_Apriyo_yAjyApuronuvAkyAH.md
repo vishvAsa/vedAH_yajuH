@@ -44,6 +44,14 @@ title = "०८ आप्रियो याज्यापुरोनुवा
 प॒थ आन॑क्ति॒ मध्वा॑ घृ॒तेन॑ ।  
 </details>
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+पाठान्तरं काशिकानुवादे -
+
+> तनू꣡न꣡पात् (tanu being formed by ऊ Unadi I.80 has acute on the final, according to others it has acute on the first and napat = na pati or na palayati with क्विप् and has acute on the first). 
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 तनू॒नपा॒दसु॑रो वि॒श्ववे॑दा दे॒वो दे॒वेषु॑ दे॒वः ।  
