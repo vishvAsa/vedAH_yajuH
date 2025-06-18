@@ -147,7 +147,7 @@ title = "०१ परिभाषा"
 "श्रीगोविन्द-गोविन्दे"त्य्-आदि--यथा-क्रमम् अनुसन्धाय  
 
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/rAmAnujIyam/prakIrNa-mantrAdi/gadyam/harir_OM_tat_govinda.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/AgamaH_vaiShNavaH/prakIrNa-mantrAdi/gadyam/harir_OM_tat_govinda.md">
 <details open><summary><h5>हरिर् ओं तत् - श्रीगोविन्द ...{Loading}...</h5></summary>
 
 

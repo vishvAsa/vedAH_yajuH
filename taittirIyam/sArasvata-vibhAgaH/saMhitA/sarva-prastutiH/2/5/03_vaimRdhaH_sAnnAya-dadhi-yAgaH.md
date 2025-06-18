@@ -47,7 +47,7 @@ When Indra had slain Vrtra, his enemies threatened him.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स ए॒तव्ँवै॑मृ॒धम् पू॒र्णमा॑से ऽनुनिर्वा॒प्य॑म् **अपश्यत्** ।  
+स ए॒तव्ँ वै॑मृ॒धम् पू॒र्णमा॑से ऽनुनिर्वा॒प्य॑म् **अपश्यत्** ।  
 तन् **निर॑वपत्** ।  
 तेन॒ वै स मृधो **ऽपा॑हत** ।  
 </details>
@@ -77,7 +77,7 @@ He saw this enemy-dispelling (oblation) to be offered subsequently at the full m
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् वै॑मृ॒धᳶ पू॒र्णमा॑से ऽनुनिर्वा॒प्यो॑ भव॑ति॒  
+यद् वै॑मृ॒धᳶ पू॒र्णमा॑से ऽनुनिर्वा॒प्यो॒॑ भव॑ति॒  
 मृध॑ ए॒व तेन॒ यज॑मा॒नोऽप॑ हते ।
 </details>
 
@@ -111,7 +111,7 @@ In that the enemy-dispelling (oblation) is to be offered subsequently at the ful
 इन्द्रो॑ वृ॒त्रꣳ ह॒त्वा दे॒वता॑भिश् चेन्द्रि॒येण॑ च॒ व्या᳚र्ध्यत ।  
 स ए॒तम् आ᳚ग्ने॒यम् अ॒ष्टाक॑पालम् अमावा॒स्या॑याम् अपश्यत्  ।  
 ऐ॒न्द्रन् दधि॒ तन् निर॑वपत् ।  
-तेन॒ वै स दे॒वता᳚श् चेन्द्रि॒यञ् चावा॑रुन्द्धे ।  
+तेन॒ वै स दे॒वता᳚श् चेन्द्रि॒यञ् चावा॑रुन्द्ध ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -125,7 +125,7 @@ Indra, having slain Vrtra, lost the gods and his power. He saw the (offering) to
 इन्द्रो॑ वृ॒त्रꣳ ह॒त्वा दे॒वता॑भिश्चेन्द्रि॒येण॑ च॒ व्या᳚र्ध्यत ।  
 स ए॒तमा᳚ग्ने॒यम॒ष्टाक॑पालममावा॒स्या॑यामपश्यत्  ।  
 ऐ॒न्द्रन्दधि॒ तन्निर॑वपत् ।  
-तेन॒ वै स दे॒वता᳚श्चेन्द्रि॒यञ्चावा॑रुन्द्धे ।  
+तेन॒ वै स दे॒वता᳚श्चेन्द्रि॒यञ्चावा॑रुन्द्ध ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -141,7 +141,7 @@ Indra, having slain Vrtra, lost the gods and his power. He saw the (offering) to
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् आ᳚ग्ने॒यो᳚ ऽष्टाक॑पालो ऽमावा॒स्या॑या॒म् भव॑त्य् ऐ॒न्द्रन् दधि॑,  
+यद् आ᳚ग्ने॒यो॒᳚ ऽष्टाक॑पालो ऽमावा॒स्या॑या॒म् भव॑त्य् ऐ॒न्द्रन् दधि॑,  
 दे॒वता᳚श् चै॒व तेने᳚न्द्रि॒यञ् च॒ यज॑मा॒नोऽव॑ रुन्द्धे ।  
 </details>
 
@@ -501,7 +501,7 @@ They made it ready for him; they made power and strength rest in him; verily the
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒तद॑स्मै॒ दधि॑ कुरु॒तेत्य॑ब्रवीत् ।  
+ए॒तद् अ॑स्मै॒ दधि॑ कुरु॒तेत्य् अ॑ब्रवीत् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -523,7 +523,7 @@ They made it ready for him; they made power and strength rest in him; verily the
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद् अ॑स्मै॒ दध्य॑कुर्वन् ।  
+तद् अ॑स्मै॒ दध्य् अ॑कुर्वन् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -570,7 +570,7 @@ that impelled (adhinot) him;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद्द॒ध्नो द॑धि॒त्वम् ।
+तद् द॒ध्नो द॑धि॒त्वम् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -581,7 +581,7 @@ verily curds (dadhi) has its name.
 
 <details><summary>मूलम्</summary>
 
-तद्द॒ध्नो द॑धि॒त्वम् ।
+तद् द॒ध्नो द॑धि॒त्वम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -676,7 +676,7 @@ One should disregard that and offer ready (milk) first; verily one places power 
 ### तञ्चनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत् पू॒तीकै᳚र्वा पर्ण-व॒ल्कैर् वा॑ त॒ञ्च्याथ्  
+यत् पू॒तीकै᳚र् वा पर्ण-व॒ल्कैर् वा॑ त॒ञ्च्याथ्  
 सौ॒म्यन् तत् ।  
 </details>
 
@@ -704,7 +704,7 @@ If he curdles it with Putika plants or with bark, that is fit for Soma;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत् क्व॑लै +++(त॒ञ्च्याथ्)+++ - राख्ष॒सन् तत् ।        
+यत् क्व᳕लै +++(त॒ञ्च्याथ्)+++ - राख्ष॒सन् तत् ।        
 </details>
 
 <details><summary>Keith</summary>
@@ -726,8 +726,8 @@ if with jujubes, that is for the Raksases;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत् त॑ण्डु॒लैर् +++(त॒ञ्च्याथ्)+++ वै᳚श्वदे॒वन्तत् ।  
-यदा॒तञ्च॑नेन +++(त॒ञ्च्याथ्)+++ मानु॒षन्तत् ।  
+यत् त॑ण्डु॒लैर् +++(त॒ञ्च्याथ्)+++ वै᳚श्वदे॒वन् तत् ।  
+यद् आ॒तञ्च॑नेन +++(त॒ञ्च्याथ्)+++ मानु॒षन् तत् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -779,7 +779,8 @@ He curdles it with curds [5] that it may have Indra.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अग्निहोत्रोच्छेष॒णम् अ॒भ्यात॑नक्ति - य॒ज्ञस्य॒ सन्त॑त्यै ।
+अ॒ग्नि॒हो॒त्रो॒च्छे॒ष॒णम् अ॒भ्यात॑नक्ति -  
+य॒ज्ञस्य॒ सन्त॑त्यै ।
 </details>
 
 <details><summary>Keith</summary>
@@ -814,7 +815,7 @@ He curdles the remains of the Agnihotra, for the continuity of the sacrifice.
 ### पितृभ्यः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रो॑ वृ॒त्रꣳ ह॒त्वा परा᳚म् परा॒वत॑म् अगच्छ॒द् अपा॑राध॒मिति॒ मन्य॑मानः।  
+इन्द्रो॑ वृ॒त्रꣳ ह॒त्वा परा᳚म् परा॒वत॑म् अगच्छ॒द् अपा॑राध॒म् इति॒ मन्य॑मानः।  
 </details>
 
 <details><summary>Keith</summary>
@@ -841,7 +842,7 @@ Indra having slain Vrtra went to a great distance, thinking, 'I have sinned.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तन्दे॒वता॒ᳶ प्रैष॑मैच्छन् ।  
+तन् दे॒वता॒ᳶ प्रैष॑म् ऐच्छन् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -928,7 +929,7 @@ The Pitrs found him; therefore an offering is made to the Pitrs on the day befor
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो॑ऽमावा॒स्या᳚म् प्रत्याग॑च्छत् ।
+सो॑ऽमावा॒स्या॒᳚म् प्रत्याग॑च्छत् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -956,7 +957,7 @@ He approached the new moon night;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तन् दे॒वा अ॒भि सम॑गच्छन् - "तामा वै नो॒ऽद्य वसु॑ वस॒ती"ति॑ ।  
+तन् दे॒वा अ॒भि सम॑गच्छन्त -  "+अ॒मा वै नो॒ऽद्य वसु॑ वस॒ती"ति॑ ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -967,15 +968,14 @@ the gods met him, (saying), 'Our treasure to-day at home [6] dwells',
 
 <details><summary>मूलम्</summary>
 
-तन्दे॒वा अ॒भि सम॑गच्छन् ।  
-ताम् आ वै नो॒ऽद्य वसु॑ वस॒तीति॑ ।
+तन्दे॒वा अ॒भि सम॑गच्छन्तामा वै नो॒ऽद्य वसु॑ वस॒तीति॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अथामावास्यायां देवास्तमिन्द्रमभि समगच्छन्त आभिमुख्येन सङ्गता अभवन् ।
 
-कथं वदन्तः? अद्य अस्मिन्नह्नि नः अस्माकं वसु अस्मदीयं धनं इन्द्रोयं अमा सहास्माभिर्वसतीति । एवं देवा वदन्त एनमिन्द्रमभिगताः समागताः ।
+कथं वदन्तः? अद्य अस्मिन्नह्नि नः अस्माकं वसु अस्मदीयं धनं इन्द्रो ऽयं अमा सहास्माभिर् वसतीति । एवं देवा वदन्त एनमिन्द्रमभिगताः समागताः ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -1043,7 +1043,7 @@ and that is why the new moon night has its name (ama-vasya), 'home dwelling').
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्र॒ह्म॒वा॒दिनो॑ वदन्ति  ।  
-"कि॒न् दे॒व॒त्यꣳ॑ सान्ना॒य्यम्" इति॑ ।  
+"कि॒न्-दे॒व॒त्यꣳ॑ सान्ना॒य्यम्" इति॑ ।  
 "वै॒श्व॒दे॒वम्" इति॑ ब्रूयात् ।  
 "विश्वे॒ हि तद् दे॒वा भा॑ग॒धेय॑म् अ॒भि स॒मग॑च्छ॒न्ते"ति॑ ।
 </details>
