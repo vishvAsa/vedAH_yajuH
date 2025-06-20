@@ -21,6 +21,12 @@ the Asuras were defeated.
 पराऽसु॑राः ।
 </details> 
 
+<details><summary>पद-पाठः</summary>
+
+ततः॑ । दे॒वाः । अभ॑वन्न् ।  
+परेति॑ । असु॑राः ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 ततो देवा अभवन्। पराऽसुराः।  
