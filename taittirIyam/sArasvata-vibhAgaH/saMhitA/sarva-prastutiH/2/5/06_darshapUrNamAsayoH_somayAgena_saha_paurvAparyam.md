@@ -47,7 +47,7 @@ The new and the full moon (sacrifices) are the chariot of the gods.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो द॑र्शपूर्णमा॒साव् **इ॒ष्ट्वा** सोमे॑न॒ **यज॑ते॒**
-रथ॑-स्पष्ट ए॒वाव॒साने॒ वरे॑ दे॒वाना॒म् **अव॑ स्यति** ।
+रथ॑-स्पष्ट ए॒वाव॒साने॒ वरे॑ दे॒वाना॒म् **अव॑स्यति** ।
 </details>
 
 <details><summary>Keith</summary>
@@ -61,7 +61,7 @@ which is conspicuous for its chariot (tracks).
 <details><summary>मूलम्</summary>
 
 यो द॑र्शपूर्णमा॒सावि॒ष्ट्वा सोमे॑न॒ यज॑ते।
-रथ॑स्पष्ट ए॒वाव॒साने॒ वरे॑ दे॒वाना॒मव॑ स्यति ।
+रथ॑स्पष्ट ए॒वाव॒साने॒ वरे॑ दे॒वाना॒मव॑स्यति ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -79,7 +79,8 @@ which is conspicuous for its chariot (tracks).
 ## संवत्सराङ्गत्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒तानि॒ वा अङ्गा॒परूꣳ॑षि सव्ँवथ्स॒रस्य॒ यद् द॑र्श-पूर्णमा॒सौ।
+ए॒तानि॒ वा अङ्गा॒परूꣳ॑षि  
+सव्ँवथ्स॒रस्य॒ यद् द॑र्श-पूर्णमा॒सौ।
 </details>
 
 <details><summary>Keith</summary>
