@@ -88,7 +88,7 @@ He offers to the oblations; verily he wins the rains.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब॒र्हिर् य॑जति ।   
-श॒रद॑म् ए॒वाव॑ रुन्द्धे।   
+श॒रद॑म् ए॒वाव॑ रुन्धे।   
 </details>
 
 <details><summary>Keith</summary>
@@ -143,7 +143,7 @@ Therefore in winter animals over which the cry of 'Hail!' is raised perish.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स॒मिधो॑ यजति ।   
-उ॒षस॑ ए॒व दे॒वता॑ना॒म् अव॑ रुन्द्धे  ।
+उ॒षस॑ ए॒व दे॒वता॑ना॒म् अव॑ रुन्धे  ।
 </details>
 
 <details><summary>Keith</summary>
@@ -213,7 +213,7 @@ He offers to the oblations; verily he wins cattle.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब॒र्हिर् य॑जति  ।   
-प्र॒जामे॒वाव॑ रुन्द्धे  ।  
+प्र॒जाम् ए॒वाव॑ रुन्द्धे  ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -306,7 +306,7 @@ He offers with the cry of 'Hail!'; verily he wins speech.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दश॒ सम्प॑द्यन्ते ।   
-दशा᳚ख्षरा वि॒राट् ।    
+दशा᳚ख्षरा वि॒राट् ।  (अन्नं॑ वि॒राट्।)  
 वि॒राजै॒वान्नाद्य॒म् अव॑ रुन्द्धे ।   
 </details>
 
@@ -321,7 +321,8 @@ the Viraj has ten syllables,
 <details><summary>मूलम्</summary>
 
 दश॒ सम्प॑द्यन्ते ।   
-दशा᳚ख्षरा वि॒राट् ।    
+दशा᳚ख्षरा वि॒राट् ।   
+(अन्नं॑ वि॒राट्। इति सायणपाठे।)  
 वि॒राजै॒वान्नाद्य॒मव॑ रुन्द्धे ।   
 </details>
 
@@ -339,7 +340,7 @@ the Viraj has ten syllables,
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स॒मिधो॑ यजति ।   
-अ॒स्मिन्ने॒व लो॒के प्रति॑ तिष्ठति ।   
+अ॒स्मिन्न् ए॒व लो॒के प्रति॑ तिष्ठति ।   
 </details>
 
 <details><summary>Keith</summary>

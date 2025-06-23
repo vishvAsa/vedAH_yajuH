@@ -164,7 +164,7 @@ he who knowing thus offers the new and the full moon (sacrifices) thus sees with
 
 <details><summary>मूलम्</summary>
 
-य ए॒वव्ँवि॒द्वान्द॑र्शपूर्णमा॒सौ यज॑ते॒ ताभ्या॑मे॒व सु॑व॒र्गल्ँलो॒कमनु॑ पश्यति    
+य ए॒वव्ँ वि॒द्वान्द॑र्शपूर्णमा॒सौ यज॑ते॒ ताभ्या॑मे॒व सु॑व॒र्गल्ँलो॒कमनु॑ पश्यति    
 </details>
 
 
@@ -238,7 +238,8 @@ he who knowing thus offers the new and the full moon (sacrifices) steps in the s
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ष वै दे॑व॒यान॒ᳶ पन्था॒ यद् द॑र्शपूर्णमा॒सौ
+ए॒ष वै दे॑व॒यान॒ᳶ पन्था॒  
+यद् द॑र्शपूर्णमा॒सौ।
 </details>
 
 <details><summary>Keith</summary>
@@ -255,7 +256,8 @@ The new and the full moon are the path on which the gods fare;
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य ए॒वव्ँ वि॒द्वान् द॑र्शपूर्णमा॒सौ यज॑ते॒  
-य ए॒व दे॑व॒यान॒ᳶ पन्था॒स् तꣳ स॒मारो॑हति
+य ए॒व दे॑व॒यान॒ᳶ पन्था॒स्  
+तꣳ स॒मारो॑हति
 </details>
 
 <details><summary>Keith</summary>
@@ -688,7 +690,7 @@ that is (the origin) of the 'wife's disease' (Jayenya),
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य ए॒वम् ए॒तेषा॒य्ँ यख्ष्मा॑णा॒ञ् जन्म॒॒ वेद॒  
-नैन॑मे॒ते यख्ष्मा॑ विन्दन्ति ।+++(4)+++  
+नैन॑म् ए॒ते यख्ष्मा॑ विन्दन्ति ।+++(4)+++  
 </details>
 
 <details><summary>Keith</summary>
@@ -781,7 +783,9 @@ they said,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा᳚थ् स॒दृशी॑ना॒ꣳ॒ रात्री॑णाम् अमावा॒स्या॑याञ्च पौर्णमा॒स्याञ्च॑ दे॒वा इ॑ज्यन्ते ।  
+तस्मा᳚थ् स॒दृशी॑ना॒ꣳ॒ रात्री॑णाम्  
+अमावा॒स्या॑याञ्च पौर्णमा॒स्याञ्च॑  
+दे॒वा इ॑ज्यन्ते ।  
 ए॒ते हि दे॒वाना᳚म् भाग॒-धे ।  
 भा॒ग॒-धा अ॑स्मै मनु॒ष्या॑ भवन्ति॒,  
 य ए॒वव्ँ वेद॑ ।  
@@ -856,7 +860,7 @@ trees in a year.
 तस्मा॒द् अह॑र्-अहर् मनु॒ष्या॑ अश॑नम् इच्छन्ते,  
 ऽर्धमा॒से दे॒वा इ॑ज्यन्ते,  
 मा॒सि पि॒तृभ्य॑ᳵ क्रियते,  
-सव्ँवथ्स॒रे वन॒स्पत॑य॒ᳶ फल॑ङ् गृह्णन्ति
+सव्ँवथ्स॒रे वन॒स्पत॑य॒ᳶ फल॑ङ् गृह्णन्ति।
 </details>
 
 <details><summary>Keith</summary>
