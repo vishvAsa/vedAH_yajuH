@@ -20,3 +20,11 @@ title = "09 श्मशानवच्छूद्र पतितौ"
 
 [^१]: याज्ञवल्क्योऽत्र १. १४८. द्रष्टव्यः ।
 </details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+श्मशानवच्छूद्रपतितौ ॥ ९ ॥
+समानागार इत्येके ॥ १० ॥
+
+So, safe to say that deliberate (literal) shrAvaNa to v4s was to be avoided; but tolerated if accidental.
+</details>
