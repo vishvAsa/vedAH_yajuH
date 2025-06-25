@@ -540,7 +540,7 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/11_shUdrA_yAn_tu.md">
 <details open><summary><h4>11 शूद्रा यान् तु ...{Loading}...</h4></summary>
 
-शूद्रा यां तु प्रेक्षणप्रतिप्रेक्षणयोरेवानध्यायः ११
+शूद्रायां तु प्रेक्षणप्रतिप्रेक्षणयोरेवानध्यायः ११
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/12_tathAnyasyAM_striyAM_varNavyatikrAntAyAm.md">
