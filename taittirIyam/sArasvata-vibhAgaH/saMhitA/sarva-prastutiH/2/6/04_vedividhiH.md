@@ -12,7 +12,8 @@ title = "०४ वेदिविधिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒व" इति॒ स्फ्यम् आ द॑त्ते प्रसू᳚त्यै,  
+"दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒व" इति॒  
+स्फ्यम् आ द॑त्ते प्रसू᳚त्यै,  
 </details>
 
 <details><summary>Keith</summary>
@@ -70,14 +71,13 @@ title = "०४ वेदिविधिः"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "श॒त-भृ॑ष्टिर् असि वानस्प॒त्यो, द्वि॑ष॒तो व॒ध" इत्य् आ॑ह ।  
-वज्र॑म् ए॒व तथ् सꣵ श्य॑ति भ्रातृ॑व्याय प्रहरि॒ष्यन्।
-स्त॒म्ब॒-य॒जुर् ह॑रति ।
+वज्र॑म् ए॒व तथ् सꣵ श्य॑ति  
+भ्रातृ॑व्याय प्रहरि॒ष्यन्।
 </details>
 
 <details><summary>Keith</summary>
 
 'Thou art a hundred-edged, of the tree, slayer of the foe', he says; verily he sharpens the bolt, being about to hurl it at his enemy.  
-He throws away the grass with a Yajus.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -107,15 +107,16 @@ He throws away the grass with a Yajus.
 ## स्तम्ब-यजुर्-हरणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्त॒म्ब॒य॒जुर्ह॑रति ।
+स्त॒म्ब॒-य॒जुर् ह॑रति ।
 ए॒ताव॑ती॒ वै पृ॑थि॒वी,  
 याव॑ती॒ वेदिः॑ ।  
-तस्या॑ ए॒ताव॑त ए॒व भ्रातृ॑व्य॒न्निर्भ॑जति ।   
-तस्मा॒न्नाभा॒गन्निर्भ॑जन्ति ।
+तस्या॑ ए॒ताव॑त ए॒व भ्रातृ॑व्य॒न् निर्भ॑जति ।   
+तस्मा॒न् नाभा॒गन् निर्भ॑जन्ति ।
 </details>
 
 <details><summary>Keith</summary>
 
+He throws away the grass with a Yajus.
 The earth is the size of the altar;  
 verily he deprives his enemy of so much of that [1].  
 Therefore they do not deprive one who has no share.  
@@ -142,7 +143,7 @@ Therefore they do not deprive one who has no share.
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-3स्तम्बयजुरिति मन्त्रेण । तृणपुरीषहरणस्येयं संज्ञा ।   
+3स्तम्बयजुर् इति मन्त्रेण । तृणपुरीषहरणस्येयं संज्ञा ।   
 
 <details><summary>प्रदीपसिंहः</summary>
 स्तम्बयजुरिति मन्त्रेण = स्तम्बयजुः इति प्रतीकग्रहणम् । इतिमन्त्रेण इति मूले पूरणीयम् । इयं नाम स्तम्बयजुः इत्यर्थः ।
@@ -161,9 +162,10 @@ Therefore they do not deprive one who has no share.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्रिर्ह॑रति॒,  त्रय॑ इ॒मे लो॒काः ।  
-ए॒भ्य ए॒वैन॑ल्ँलो॒केभ्यो॒ निर्भ॑जति ।  
-तू॒ष्णीञ्च॑तु॒र्थꣳ ह॑रति ।  
+त्रिर् ह॑रति॒,  
+त्रय॑ इ॒मे लो॒काः ।  
+ए॒भ्य ए॒वैन॑ल्ँ लो॒केभ्यो॒ निर्भ॑जति ।  
+तू॒ष्णीञ् च॑तु॒र्थꣳ ह॑रति ।  
 अप॑रिमिताद् ए॒वैन॒न् निर्भ॑जति। 
 </details>
 
@@ -205,7 +207,8 @@ these worlds are three; verily he excludes him from these worlds. He throws it s
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उद्ध॑न्ति।  
-यद् ए॒वास्या॑ अमे॒ध्यन् तद् अप॑ ह॒न्ति।  
+यद् ए॒वास्या॑ अमे॒ध्यन्  
+तद् अप॑ हन्ति।  
 </details>
 
 <details><summary>Keith</summary>
@@ -217,7 +220,7 @@ He uproots it; verily what of it is impure he cuts off.
 <details><summary>मूलम्</summary>
 
 उद्ध॑न्ति।  
-यद् ए॒वास्या॑ अमे॒ध्यन् तद् अप॑ ह॒न्ति।
+यद् ए॒वास्या॑ अमे॒ध्यन् तद् अप॑ हन्ति।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -233,7 +236,7 @@ He uproots it; verily what of it is impure he cuts off.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उद्ध॑न्ति।  
-तस्मा॒दोष॑धय॒ᳶ परा॑ भवन्ति ।  
+तस्मा॒द् ओष॑धय॒ᳶ परा॑ भवन्ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -260,8 +263,8 @@ He uproots it; therefore the plants perish.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मूल॑ञ्छिनत्ति ।  
-भ्रातृ॑व्यस्यै॒व मूल॑ञ्छिनत्ति ।  
+मूल॑ञ् छिनत्ति ।  
+भ्रातृ॑व्यस्यै॒व मूल॑ञ् छिनत्ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -286,7 +289,8 @@ He cuts the root; verily he cuts the root of the enemy.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पि॒तृ॒दे॒व॒त्या ऽति॑खा॒ता,  
-इय॑तीङ् खनति प्र॒जाप॑तिना यज्ञमु॒खेन॑ सम्मि॑ताम्।
+इय॑तीङ् खनति,  
+प्र॒जाप॑तिना यज्ञमु॒खेन॑ सम्मि॑ताम्।
 </details>
 
 <details><summary>Keith</summary>
