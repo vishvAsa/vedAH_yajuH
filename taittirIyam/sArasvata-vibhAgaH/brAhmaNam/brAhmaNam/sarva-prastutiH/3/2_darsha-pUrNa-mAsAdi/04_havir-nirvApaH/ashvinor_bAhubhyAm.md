@@ -20,6 +20,8 @@ title = "अ॒श्विनो᳚र् बा॒हुभ्या॒म्"
 अ॒श्विनौ॒ हि दे॒वाना॑मध्व॒र्यू आस्ता᳚म् ।
 </details>
 
+
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अध्वर्यू इति । अध्वरस्य नेतारौ मणिबन्धादुपरि वा स्तः ।
@@ -41,6 +43,7 @@ title = "अ॒श्विनो᳚र् बा॒हुभ्या॒म्"
 "पू॒ष्णो हस्ता᳚भ्या॒"मित्या॑ह॒ यत्यै᳚ ।
 </details>
 
+
 <details><summary>Keith</summary>
 
 'With the hands of Pusan', he says, for restraint. 
@@ -49,7 +52,7 @@ title = "अ॒श्विनो᳚र् बा॒हुभ्या॒म्"
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-यत्यै यमनाय धारणाय ॥
+**यत्यै** यमनाय धारणाय ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
