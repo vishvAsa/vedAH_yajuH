@@ -20,6 +20,14 @@ title = "अ॒श्विनो᳚र् बा॒हुभ्या॒म्"
 अ॒श्विनौ॒ हि दे॒वाना॑मध्व॒र्यू आस्ता᳚म् ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अ॒श्विनोः᳚ । बा॒हुभ्या॒मिति॑ बा॒हु-भ्या॒म्॒ । इति॑ । आ॒ह॒ ।
+अ॒श्विनौ᳚ । हि । दे॒वाना᳚म् । अ॒ध्व॒र्यू इति॑ । आस्ता᳚म् ।
+</details>
+
+
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अध्वर्यू इति । अध्वरस्य नेतारौ मणिबन्धादुपरि वा स्तः ।
@@ -36,20 +44,24 @@ title = "अ॒श्विनो᳚र् बा॒हुभ्या॒म्"
 "पू॒ष्णो हस्ता᳚भ्या॒"म् इत्य् आ॑ह॒ यत्यै᳚ ।
 </details>
 
-<details><summary>मूलम्</summary>
-
-"पू॒ष्णो हस्ता᳚भ्या॒"मित्या॑ह॒ यत्यै᳚ ।
-</details>
-
 <details><summary>Keith</summary>
 
 'With the hands of Pusan', he says, for restraint. 
 </details>
 
 
+<details><summary>मूलम्</summary>
+
+"पू॒ष्णो हस्ता᳚भ्या॒"मित्या॑ह॒ यत्यै᳚ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+पू॒ष्णः । हस्ता᳚भ्याम् । इति॑ । आ॒ह॒ । यत्यै᳚ । 4 ।
+</details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
-यत्यै यमनाय धारणाय ॥
+**यत्यै** यमनाय धारणाय ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
