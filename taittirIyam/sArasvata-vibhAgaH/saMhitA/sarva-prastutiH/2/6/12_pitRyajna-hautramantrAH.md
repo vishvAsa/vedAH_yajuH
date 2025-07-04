@@ -24,7 +24,7 @@ title = "१२ पितृयज्ञ-हौत्रमन्त्राः
 उ॒शन्नु॑श॒त आ व॑ह॒ पि॒तॄन्ह॒विषे॒ अत्त॑वे ।
 </details>
 
-<div class="js_include" url="/vedah_rk/shAkalam/saMhitA/sarvASh_TIkAH/10/016/12_ushantastvA_ni.md" newLevelForH1="5" includeTitle="false">
+<div class="js_include" url="/vedah_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/016/12_ushantastvA_ni.md" newLevelForH1="5" includeTitle="false">
 
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -45,7 +45,7 @@ title = "१२ पितृयज्ञ-हौत्रमन्त्राः
 तव॒ प्रणी॑ती पि॒तरो॑ न इन्दो दे॒वेषु॒ रत्न॑मभजन्त॒ धीराः᳚ ।
 </details>
 
-<div class="js_include" url="/vedah_rk/shAkalam/saMhitA/sarvASh_TIkAH/01/091/01_tvaM_soma.md" newLevelForH1="5" includeTitle="false"> 
+<div class="js_include" url="/vedah_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/091/01_tvaM_soma.md" newLevelForH1="5" includeTitle="false"> 
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -72,7 +72,7 @@ title = "१२ पितृयज्ञ-हौत्रमन्त्राः
 </details>
 
 
-<div class="js_include" url="/vedah_rk/shAkalam/saMhitA/sarvASh_TIkAH/09/096/11_tvayA_hi.md" newLevelForH1="5" includeTitle="false"> 
+<div class="js_include" url="/vedah_Rk/shAkalam/saMhitA/sarvASh_TIkAH/09/096/11_tvayA_hi.md" newLevelForH1="5" includeTitle="false"> 
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -95,7 +95,7 @@ title = "१२ पितृयज्ञ-हौत्रमन्त्राः
 तस्मै॑ त इन्दो ह॒विषा॑ विधेम व॒यꣵ स्या॑म॒ पत॑यो रयी॒णाम् ।
 </details>
 
-<div class="js_include" url="/vedah_rk/shAkalam/saMhitA/sarvASh_TIkAH/08/048/13_tvaM_soma.md" newLevelForH1="5" includeTitle="false"> 
+<div class="js_include" url="/vedah_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/048/13_tvaM_soma.md" newLevelForH1="5" includeTitle="false"> 
 
 <details><summary>पद-पाठः</summary>
 
@@ -125,7 +125,7 @@ title = "१२ पितृयज्ञ-हौत्रमन्त्राः
 अ॒त्ता ह॒वीꣳषि॒ प्रय॑तानि ब॒र्हिष्यथा॑ र॒यिꣳ सर्व॑वीरन्दधातन ।
 </details>
 
-<div class="js_include" url="/vedah_rk/shAkalam/saMhitA/sarvASh_TIkAH/10/015/11_agniShvAttAH_pitara.md" newLevelForH1="5" includeTitle="false"> 
+<div class="js_include" url="/vedah_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/015/11_agniShvAttAH_pitara.md" newLevelForH1="5" includeTitle="false"> 
 
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -149,7 +149,7 @@ title = "१२ पितृयज्ञ-हौत्रमन्त्राः
 त आ ग॒ताव॑सा॒ शन्त॑मे॒नाथा॒स्मभ्य᳚म् शय्ँ योर॑र॒पो द॑धात ।
 </details>
 
-<div class="js_include" url="/vedah_rk/shAkalam/saMhitA/sarvASh_TIkAH/10/015/04_barhiShadaH_pitara.md" newLevelForH1="5" includeTitle="false"> 
+<div class="js_include" url="/vedah_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/015/04_barhiShadaH_pitara.md" newLevelForH1="5" includeTitle="false"> 
 
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -177,7 +177,7 @@ title = "१२ पितृयज्ञ-हौत्रमन्त्राः
 ब॒र्हि॒षदो॒ ये स्व॒धया॑ सु॒तस्य॒ भज॑न्त पि॒त्वस्त इ॒हाग॑मिष्ठाः ।
 </details>
 
-<div class="js_include" url="/vedah_rk/shAkalam/saMhitA/sarvASh_TIkAH/10/015/03_AhaM_pitRRntsuvidatrA_N.md" newLevelForH1="5" includeTitle="false"> 
+<div class="js_include" url="/vedah_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/015/03_AhaM_pitRRntsuvidatrA_N.md" newLevelForH1="5" includeTitle="false"> 
 
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -253,7 +253,7 @@ title = "१२ पितृयज्ञ-हौत्रमन्त्राः
 ये पार्थि॑वे॒ रज॒स्या निष॑त्ता॒ ये वा॑ नू॒नꣳ सु॑वृ॒जना॑सु वि॒ख्षु ।
 </details>
 
-<div class="js_include" url="/vedah_rk/shAkalam/saMhitA/sarvASh_TIkAH/10/015/02_idaM_pitRbhyo.md" newLevelForH1="5" includeTitle="false"> 
+<div class="js_include" url="/vedah_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/015/02_idaM_pitRbhyo.md" newLevelForH1="5" includeTitle="false"> 
 
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -276,7 +276,7 @@ title = "१२ पितृयज्ञ-हौत्रमन्त्राः
 शुचीद॑य॒न्दीधि॑तिमुक्थ॒शासः॒ ख्षामा॑ भि॒न्दन्तो॑ अरु॒णीरप॑ व्रन्न् ।
 </details>
 
-<div class="js_include" url="/vedah_rk/shAkalam/saMhitA/sarvASh_TIkAH/04/002/16_adhA_yathA.md" newLevelForH1="5" includeTitle="false"> 
+<div class="js_include" url="/vedah_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/002/16_adhA_yathA.md" newLevelForH1="5" includeTitle="false"> 
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -287,13 +287,13 @@ title = "१२ पितृयज्ञ-हौत्रमन्त्राः
 </div>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद॑ग्ने कव्यवा॒ह॒न॒ पि॒तॄन्यख्ष्यृ॑ता॒वृधः॑ ।   (??)
+यद॑ग्ने कव्यवाहन पि॒तॄन्यख्ष्यृ॑ता॒वृधः॑ ।  
 प्र च॑ ह॒व्यानि॑ वख्ष्यसि दे॒वेभ्य॑श्च पि॒तृभ्य॒ आ ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-यद॑ग्ने कव्यवा॒ह॒न॒ पि॒तॄन्यख्ष्यृ॑ता॒वृधः॑ ।  (??)
+यद॑ग्ने कव्यवाहन पि॒तॄन्यख्ष्यृ॑ता॒वृधः॑ । 
 प्र च॑ ह॒व्यानि॑ वख्ष्यसि दे॒वेभ्य॑श्च पि॒तृभ्य॒ आ ।
 </details>
 
@@ -327,7 +327,7 @@ title = "१२ पितृयज्ञ-हौत्रमन्त्राः
 प्रादाः᳚ पि॒तृभ्य॑स्स्व॒धया॒ ते अ॑ख्षन्न॒द्धि त्वन्दे॑व॒ प्रय॑ता ह॒वीꣳषि॑ ।
 </details>
 
-<div class="js_include" url="/vedah_rk/shAkalam/saMhitA/sarvASh_TIkAH/10/015/12_tvamagna_ILito.md" newLevelForH1="5" includeTitle="false">
+<div class="js_include" url="/vedah_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/015/12_tvamagna_ILito.md" newLevelForH1="5" includeTitle="false">
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -347,7 +347,7 @@ title = "१२ पितृयज्ञ-हौत्रमन्त्राः
 याꣳश्च॑ दे॒वा वा॑वृ॒धुर्ये च॑ दे॒वान्थ्स्वाहा॒न्ये स्व॒धया॒न्ये म॑दन्ति ।  
 </details>
 
-<div class="js_include" url="/vedah_rk/shAkalam/saMhitA/sarvASh_TIkAH/10/014/03_mAtalI_kavyairyamo.md" newLevelForH1="5" includeTitle="false"> 
+<div class="js_include" url="/vedah_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/014/03_mAtalI_kavyairyamo.md" newLevelForH1="5" includeTitle="false"> 
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -363,7 +363,7 @@ title = "१२ पितृयज्ञ-हौत्रमन्त्राः
 आ त्वा॒ मन्त्राः᳚ कविश॒स्ता व॑हन्त्वे॒ना रा॑जन्ह॒विषा॑ मादयस्व ।
 </details>
 
-<div class="js_include" url="/vedah_rk/shAkalam/saMhitA/sarvASh_TIkAH/10/014/04_imaM_yama.md" newLevelForH1="5" includeTitle="false"> 
+<div class="js_include" url="/vedah_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/014/04_imaM_yama.md" newLevelForH1="5" includeTitle="false"> 
 
 <details><summary>मूलम्</summary>
 
@@ -391,7 +391,7 @@ title = "१२ पितृयज्ञ-हौत्रमन्त्राः
 विव॑स्वन्तꣳ हुवे॒ यᳶ पि॒ता ते॒ऽस्मिन्य॒ज्ञे ब॒र्हिष्या नि॒षद्य॑ ।
 </details>
 
-<div class="js_include" url="/vedah_rk/shAkalam/saMhitA/sarvASh_TIkAH/10/014/05_angirobhirA_gahi.md" newLevelForH1="5" includeTitle="false"> 
+<div class="js_include" url="/vedah_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/014/05_angirobhirA_gahi.md" newLevelForH1="5" includeTitle="false"> 
 
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -413,7 +413,7 @@ title = "१२ पितृयज्ञ-हौत्रमन्त्राः
 तेषा᳚व्ँव॒यꣳ सु॑म॒तौ य॒ज्ञिया॑ना॒मपि॑ भ॒द्रे सौ॑मन॒से स्या॑म ॥ [70]  
 </details>
 
-<div class="js_include" url="/vedah_rk/shAkalam/saMhitA/sarvASh_TIkAH/10/014/06_angiraso_naH.md" newLevelForH1="5" includeTitle="false"> </div>
+<div class="js_include" url="/vedah_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/014/06_angiraso_naH.md" newLevelForH1="5" includeTitle="false"> 
 
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -423,6 +423,7 @@ title = "१२ पितृयज्ञ-हौत्रमन्त्राः
 अपि च, **भद्रे** भजनीये कल्याणे **सौमनसे** सौमनस्यहेतुके तत्प्रदानहेतुके सर्वाभिमतसिद्धिरूपे कल्याणे च स्यामेति । येऽत्र अविनियुक्ता मन्त्राः ते लिङ्गेन क्वाप्यनुरूपे कर्मणि विनियोक्तव्याः ॥
 </details>
 
+</div>
 <details><summary>भट्टभास्कर-टीका</summary>
 
 इति श्रीभट्टभास्करमिश्रविरचिते यजुर्वेदभाष्ये ज्ञानयज्ञाख्ये द्वितीये काण्डे षष्ठे प्रश्ने द्वादशोऽनुवाकः ॥
