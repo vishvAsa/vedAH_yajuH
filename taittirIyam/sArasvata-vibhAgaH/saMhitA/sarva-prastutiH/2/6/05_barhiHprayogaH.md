@@ -16,7 +16,7 @@ title = "०५ बर्हिःप्रयोगः"
 "अ॒द्भिर् ह॒वीꣳषि॒ प्रौख्षीः᳚ ।  
 केना॒प?" इति॒ ,  
 "ब्रह्म॒णे"ति॑ ब्रूयाद् -  
-अ॒द्भिर्ह्ये॑व ह॒वीꣳषि॑ प्रो॒ख्षति॒, ब्रह्म॑णा॒ऽपः।
+अ॒द्भिर् ह्य् ए॒॑व ह॒वीꣳषि॑ प्रो॒ख्षति॒, ब्रह्म॑णा॒ऽपः।
 </details>
 
 <details><summary>Keith</summary>
@@ -167,7 +167,8 @@ verily he makes it pure.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-क्रू॒रमि॑व॒ वा ए॒तत् क॑रोति॒ यत् खन॑त्य्,  
+क्रू॒रम् इ॑व॒ वा ए॒तत् क॑रोति॒  
+यत् खन॑ति।  
 अ॒पो नि न॑यति॒ - शान्त्यै॑
 </details>
 
@@ -248,7 +249,8 @@ He takes so much as is measured by Prajapati as the mouth of the sacrifice.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब॒र्हिस् स्तृ॑णाति ।  
-प्र॒जा वै ब॒र्हिᳶ, पृ॑थि॒वी वेदिᳶ॑, प्र॒जा ए॒व पृ॑थि॒व्याम् प्रति॑ ष्ठापयति ।
+प्र॒जा वै ब॒र्हिᳶ, पृ॑थि॒वी वेदिᳶ॑,  
+प्र॒जा ए॒व पृ॑थि॒व्याम् प्रति॑ ष्ठापयति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -283,7 +285,7 @@ verily he places offspring on the earth.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अन॑तिदृश्ञꣵ स्तृणाति ।   
+अन्-अ॑तिदृश्ञꣵ स्तृणाति ।   
 प्र॒जयै॒वैन॑म् प॒शुभि॒र् अन॑तिदृश्ञङ् करोति  ।  
 </details>
 
@@ -498,7 +500,7 @@ He pushes it upwards as it were [3], for the world of heaven is upwards as it we
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नि य॑च्छति ।  
-वृष्टि॑मे॒वास्मै॒ नि य॑च्छति ।  
+वृष्टि॑म् ए॒वास्मै॒ नि य॑च्छति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -527,8 +529,9 @@ He depresses it; verily he brings down rain for him.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नात्य॑ग्र॒म्प्र ह॑रेत्  ।  
-यदत्य॑ग्रम्प्र॒हरे॑दत्यासा॒रिण्य॑ध्व॒र्योर्नाशु॑का स्यात् ।   
+नात्य॑ग्र॒म् प्र ह॑रेत्  ।  
+यद् अत्य॑ग्रम् प्र॒हरे॑द्  
+अत्यासा॒रिण्य् अ॑ध्व॒र्योर् नाशु॑का स्यात् ।   
 </details>
 
 
@@ -595,7 +598,7 @@ He should not throw it (so that the roots are) in front. If he were to do this, 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्राञ्च॒म्प्र ह॑रति ।  
+प्राञ्च॒म् प्र ह॑रति ।  
 यज॑मानम् ए॒व सु॑व॒र्गल्ँ लो॒कङ् ग॑मयति ।  
 </details>
 
@@ -626,7 +629,8 @@ He puts it forward (with its points) to the east; verily he makes the sacrificer
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न विष्व॑ञ्च॒व्ँ वि यु॑यात् ।  
-यद्विष्व॑ञ्चव्ँ वियु॒यात् स्त्र्य॑स्य जायेत ।
+यद् विष्व॑ञ्चव्ँ वियु॒यात्  
+स्त्र्य् अ᳕स्य जायेत ।
 </details>
 
 <details><summary>Keith</summary>

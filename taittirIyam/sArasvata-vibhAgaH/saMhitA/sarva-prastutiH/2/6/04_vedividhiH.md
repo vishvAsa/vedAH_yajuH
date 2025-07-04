@@ -37,7 +37,7 @@ title = "०४ वेदिविधिः"
 1देवस्य त्वेत्यादि ॥ वेदिविधिः । **प्रसूतिः** सवितुरनुज्ञा । अपिच यतत्वाय प्रयत्यै वा ॥
 </details>
 
-d<iv class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/04_havir-nirvApaH/ashvinor_bAhubhyAm.md" unfilled newLevelForH1="5" includeTitle="false"> 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/04_havir-nirvApaH/ashvinor_bAhubhyAm.md" unfilled newLevelForH1="5" includeTitle="false"> 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -315,7 +315,7 @@ so much does he dig as is measured [2] by Prajapati as the mouth of the sacrific
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ प्र॑ति॒ष्ठायै॑ खनति ।  
-यज॑मानमे॒व प्र॑ति॒ष्ठाङ्ग॑मयति ।    
+यज॑मानम् ए॒व प्र॑ति॒ष्ठाङ् ग॑मयति ।    
 </details>
 
 <details><summary>Keith</summary>
@@ -348,7 +348,7 @@ He digs until (he reaches) support; verily he causes the sacrificer to reach sup
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-द॒ख्षि॒णतो वर्षी॑यसीङ् करोति ।  
+द॒ख्षि॒ण॒तो वर्षी॑यसीङ् करोति ।  
 दे॒व॒यज॑नस्यै॒व रू॒पम् अ॑कः। 
 </details>
 
@@ -361,7 +361,7 @@ verily he makes it the form of the sacrificial ground.
 
 <details><summary>मूलम्</summary>
 
-द॒ख्षि॒णतो वर्षी॑यसीङ्करोति ।  
+द॒ख्षि॒ण॒तो वर्षी॑यसीङ्करोति ।  
 
 दे॒व॒यज॑नस्यै॒व रू॒पम॑कः ।
 </details>
@@ -480,7 +480,8 @@ he performs the second drawing of a boundary for himself.
 ## मसृणी-कृतिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-क्रू॒रम् इ॑व॒ वा ए॒तत् क॑रोति॒ यद् वेदि॑ङ् क॒रोति
+क्रू॒रम् इ॑व॒ वा ए॒तत् क॑रोति॒  
+यद् वेदि॑ङ् क॒रोति॑
 </details>
 
 <details><summary>Keith</summary>
@@ -491,7 +492,7 @@ Cruelly he acts [3] in making an altar.
 
 <details><summary>मूलम्</summary>
 
-क्रू॒रमि॑व॒ वा ए॒तत्क॑रोति॒ यद्वेदि॑ङ्क॒रोति
+क्रू॒रमि॑व॒ वा ए॒तत्क॑रोति॒ यद्वेदि॑ङ्क॒रोति॑
 </details>
 
 
@@ -545,7 +546,7 @@ Cruelly he acts [3] in making an altar.
 स्फ्यस्य॒ वर्त्म᳚न्थ् सादयति  
 य॒ज्ञस्य॒ सन्त॑त्यै ।  
 
-यन्द्वि॒ष्यात् तन् ध्या॑येत् ,
+यन् द्वि॒ष्यात् तन् ध्या॑येत् ,
 शु॒चैवैन॑म् अर्पयति ॥+++(5)+++
 </details>
 
