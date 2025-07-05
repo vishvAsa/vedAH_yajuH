@@ -25,7 +25,7 @@ title = "१२ पितृयज्ञ-हौत्रमन्त्राः
 
 </div>
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/MUlam/10/016/12_ushantastvA_ni.md" newLevelForH1="5" includeTitle="false">
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/016/12_ushantastvA_ni.md" newLevelForH1="5" includeTitle="false">
 
 <details><summary>मूलम्</summary>
 
@@ -54,7 +54,7 @@ title = "१२ पितृयज्ञ-हौत्रमन्त्राः
 
 </div>
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/MUlam/01/091/01_tvaM_soma.md" newLevelForH1="5" includeTitle="false"> 
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/091/01_tvaM_soma.md" newLevelForH1="5" includeTitle="false"> 
 
 <details><summary>मूलम्</summary>
 
@@ -87,7 +87,7 @@ title = "१२ पितृयज्ञ-हौत्रमन्त्राः
 
 </div>
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/MUlam/09/096/11_tvayA_hi.md" newLevelForH1="5" includeTitle="false"> 
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/09/096/11_tvayA_hi.md" newLevelForH1="5" includeTitle="false"> 
 <details><summary>मूलम्</summary>
 
 त्वया॒ हि नᳶ॑ पि॒तर॑स्सोम॒ पूर्वे॒ कर्मा॑णि च॒क्रुᳶ प॑वमान॒ धीराः᳚ ।   
@@ -116,7 +116,7 @@ title = "१२ पितृयज्ञ-हौत्रमन्त्राः
 </details>
 
 </div>
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/MUlam/08/048/13_tvaM_soma.md" newLevelForH1="5" includeTitle="false"> 
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/08/048/13_tvaM_soma.md" newLevelForH1="5" includeTitle="false"> 
 <details><summary>मूलम्</summary>
 
 त्वꣳ सो॑म पि॒तृभि॑स्सव्ँविदा॒नोऽनु॒ द्यावा॑पृथि॒वी आ त॑तन्थ ।   
@@ -153,7 +153,7 @@ title = "१२ पितृयज्ञ-हौत्रमन्त्राः
 
 </div>
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/MUlam/10/015/11_agniShvAttAH_pitara.md" newLevelForH1="5" includeTitle="false"> 
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/015/11_agniShvAttAH_pitara.md" newLevelForH1="5" includeTitle="false"> 
 
 <details><summary>मूलम्</summary>
 
@@ -185,7 +185,7 @@ title = "१२ पितृयज्ञ-हौत्रमन्त्राः
 </div>
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/MUlam/10/015/04_barhiShadaH_pitara.md" newLevelForH1="5" includeTitle="false"> 
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/015/04_barhiShadaH_pitara.md" newLevelForH1="5" includeTitle="false"> 
 <details><summary>मूलम्</summary>
 
 बर्हि॑षदᳶ पितर ऊ॒त्य॑र्वागि॒मा वो॑ ह॒व्या च॑कृमा जु॒षध्व᳚म् ।   
@@ -217,7 +217,7 @@ title = "१२ पितृयज्ञ-हौत्रमन्त्राः
 
 
 </div>
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/MUlam/10/015/03_AhaM_pitRRntsuvidatrA_N.md" newLevelForH1="5" includeTitle="false"> 
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/015/03_AhaM_pitRRntsuvidatrA_N.md" newLevelForH1="5" includeTitle="false"> 
 
 <details><summary>मूलम्</summary>
 
@@ -249,7 +249,7 @@ title = "१२ पितृयज्ञ-हौत्रमन्त्राः
 </details>
 </div>
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/MUlam/10/015/05_upahUtAH_pitaraH.md" newLevelForH1="5" includeTitle="false"> 
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/015/05_upahUtAH_pitaraH.md" newLevelForH1="5" includeTitle="false"> 
 <details><summary>मूलम्</summary>
 
 उप॑हूताᳶ पि॒तरो॑ बर्हि॒ष्ये॑षु नि॒धिषु॑ प्रि॒येषु॑ ।  
@@ -282,7 +282,7 @@ title = "१२ पितृयज्ञ-हौत्रमन्त्राः
 </details>
 </div>
 
-<div class="js_include" url="shAkalam/saMhitA/MUlam/10/015/01_udIratAmavara_utparAsa.md" newLevelForH1="5" includeTitle="false"> 
+<div class="js_include" url="shAkalam/saMhitA/mUlam/10/015/01_udIratAmavara_utparAsa.md" newLevelForH1="5" includeTitle="false"> 
 
 <details><summary>मूलम्</summary>
 
@@ -312,7 +312,7 @@ title = "१२ पितृयज्ञ-हौत्रमन्त्राः
 </details>
 </div>
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/MUlam/10/015/02_idaM_pitRbhyo.md" newLevelForH1="5" includeTitle="false"> 
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/015/02_idaM_pitRbhyo.md" newLevelForH1="5" includeTitle="false"> 
 <details><summary>मूलम्</summary>
 
 इ॒दम्पि॒तृभ्यो॒ नमो॑ अस्त्व॒द्य ये पूर्वा॑सो॒ य उप॑रास ई॒युः ।  
@@ -340,7 +340,7 @@ title = "१२ पितृयज्ञ-हौत्रमन्त्राः
 </details>
 </div>
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/MUlam/04/002/16_adhA_yathA.md" newLevelForH1="5" includeTitle="false"> 
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/04/002/16_adhA_yathA.md" newLevelForH1="5" includeTitle="false"> 
 <details><summary>मूलम्</summary>
 
 अधा॒ यथा॑ नᳶ पि॒तर॒ᳶ परा॑सᳶ प्र॒त्नासो॑ अग्न ऋ॒तमा॑शुषा॒णाः ।  
@@ -396,7 +396,7 @@ title = "१२ पितृयज्ञ-हौत्रमन्त्राः
 </div>
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/MUlam/10/015/12_tvamagna_ILito.md" newLevelForH1="5" includeTitle="false">
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/015/12_tvamagna_ILito.md" newLevelForH1="5" includeTitle="false">
 <details><summary>मूलम्</summary>
 
 त्वम॑ग्न ईडि॒तो जा॑तवे॒दोऽवा᳚ड्ढ॒व्यानि॑ सुर॒भीणि॑ कृ॒त्वा ।   
@@ -422,7 +422,7 @@ title = "१२ पितृयज्ञ-हौत्रमन्त्राः
 </details>
 </div>
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/MUlam/10/014/03_mAtalI_kavyairyamo.md" newLevelForH1="5" includeTitle="false"> 
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/014/03_mAtalI_kavyairyamo.md" newLevelForH1="5" includeTitle="false"> 
 <details><summary>मूलम्</summary>
 
 मात॑ली क॒व्यैर्य॒मो अङ्गि॑रोभि॒र्बृह॒स्पति॒र्ऋक्व॑भिर्वावृधा॒नः ।   
@@ -449,7 +449,7 @@ title = "१२ पितृयज्ञ-हौत्रमन्त्राः
 </details>
 </div>
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/MUlam/10/014/04_imaM_yama.md" newLevelForH1="5" includeTitle="false"> 
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/014/04_imaM_yama.md" newLevelForH1="5" includeTitle="false"> 
 <details><summary>मूलम्</summary>
 
 इ॒मय्ँय॑म प्रस्त॒रमा हि सीदाङ्गि॑रोभिᳶ पि॒तृभि॑स्सव्ँविदा॒नः ।  
@@ -475,7 +475,7 @@ title = "१२ पितृयज्ञ-हौत्रमन्त्राः
 </details>
 </div>
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/MUlam/10/014/05_angirobhirA_gahi.md" newLevelForH1="5" includeTitle="false"> 
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/014/05_angirobhirA_gahi.md" newLevelForH1="5" includeTitle="false"> 
 <details><summary>मूलम्</summary>
 
 अङ्गि॑रोभि॒रा ग॑हि य॒ज्ञिये॑भि॒र्यम॑ वैरू॒पैरि॒ह मा॑दयस्व ।   
@@ -503,7 +503,7 @@ title = "१२ पितृयज्ञ-हौत्रमन्त्राः
 </details>
 </div>
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/MUlam/10/014/06_angiraso_naH.md" newLevelForH1="5" includeTitle="false"> 
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/014/06_angiraso_naH.md" newLevelForH1="5" includeTitle="false"> 
 <details><summary>मूलम्</summary>
 
 अङ्गि॑रसो नᳶ पि॒तरो॒ नव॑ग्वा॒ अथ॑र्वाणो॒ भृग॑वस्सो॒म्यासः॑ ।   
