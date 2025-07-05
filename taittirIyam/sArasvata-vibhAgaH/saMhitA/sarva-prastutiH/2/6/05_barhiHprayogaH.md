@@ -642,7 +642,7 @@ He should not spread (the bunch) in all directions. If he were to spread (it) in
 <details><summary>मूलम्</summary>
 
 न विष्व॑ञ्च॒व्ँवि यु॑यात् ।  
-यद्विष्व॑ञ्चव्ँवियु॒यात् स्त्र्य॑स्य जायेत ।
+यद् विष्व॑ञ्चव्ँवियु॒यात् स्त्र्य॑स्य जायेत ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -698,7 +698,8 @@ He strews it upwards, for upwards is as it were connected with a man; verily a m
 ## मसृणीकरणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यथ् स्फ्येन॑ वोपवे॒षेण॑ वा योयु॒प्येत॒ स्तृति॑र् ए॒वास्य॒ सा ।  
+यथ् स्फ्येन॑ वोपवे॒षेण॑ वा योयु॒प्येत॒  
+स्तृति॑र् ए॒वास्य॒ सा ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -762,9 +763,9 @@ He smooths it with his hand, for the protection of the sacrificer.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्र॒ह्म॒वा॒दिनो॑ वदन्ति॒ -  
-"किय्ँय॒ज्ञस्य॒ यज॑मान॒" इति॑।  
-"प्रस्त॒र" इति॑ ।  
-"तस्य॒ क्व॑ सुव॒र्गो लो॒क" इति॑।  
+"किय्ँ य॒ज्ञस्य॒ यज॑मान॒" इति॑।  
+"प्र॒स्त॒र" इति॑ ।  
+"तस्य॒ क्व᳕ सुव॒र्गो लो॒क" इति॑।  
 "आ॒ह॒व॒नीय॒" इति॑ ब्रूयात् ।  
 </details>
 
@@ -806,8 +807,8 @@ In that he puts the bundle on the Ahavaniya, he makes the sacrificer [5] go to t
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत्प्र॑स्त॒रमा॑हव॒नीये᳚ प्र॒हर॑ति॒  
-यज॑मानमे॒व सु॑व॒र्गल्ँलो॒कङ्ग॑मयति ।
+यत् प्र॑स्त॒रम् आ॑हव॒नीये᳚ प्र॒हर॑ति॒  
+यज॑मानम् ए॒व सु॑व॒र्गल्ँ लो॒कङ् ग॑मयति ।
 </details>
 
 
@@ -841,10 +842,10 @@ In that he puts the bundle on the Ahavaniya, he makes the sacrificer [5] go to t
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वि वा ए॒तद्यज॑मानो लिशते॒  
+वि वा ए॒तद् यज॑मानो लिशते॒  
 यत् प्र॑स्त॒रय्ँ यो॑यु॒प्यन्ते॑ ।   
 
-ब॒र्हिरनु॒ प्रह॑रति॒ शान्त्यै᳚ ।
+ब॒र्हिर् अनु॒ प्रह॑रति॒ शान्त्यै᳚ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -885,10 +886,10 @@ he throws the strew along after it, for calming.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ना॒र॒+++(←ल)+++म्भ॒ण इ॑व॒ वा ए॒तर्ह्य॑ध्व॒र्युः ।  
+अ॒ना॒र॒+++(←ल)+++म्भ॒ण इ॑व॒ वा ए॒तर्ह्य् अ॑ध्व॒र्युः ।  
 स ई᳚श्व॒रो वे॑प॒नो भवि॑तोः।  
 "ध्रु॒वासी"ती॒माम् अ॒भि मृ॑शति ।  
-इ॒यव्ँवै ध्रु॒वा, ऽस्यामे॒व प्रति॑ तिष्ठति ।   
+इ॒यव्ँ वै ध्रु॒वा, ऽस्याम् ए॒व प्रति॑ तिष्ठति ।   
 न वे॑प॒नो भ॑वति ।  
 </details>
 
@@ -927,7 +928,7 @@ The Adhvaryu has no support, and he is liable to be seized by shivering. (With t
 ## अगान् अग्नीद्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"अगा(३)न् अ॑ग्नी॒द्?" इत्या॑ह ।  
+"अगा(३)न्+++(←प्रश्ने उदात्तप्लुतः)+++ अ॑ग्नी॒द्?" इत्या॑ह ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -950,7 +951,7 @@ The Adhvaryu has no support, and he is liable to be seized by shivering. (With t
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-14अगानग्नीदिति ॥ हे **अग्नीत्** किमगान् अगमत् प्रस्तरमिति पृच्छत्यध्वर्युराग्नीध्रम् । गमेर्लुङि 'मन्त्रे घस' इति च्लेर्लुक् ।   
+14अगानग्नीदिति ॥ हे **अग्नीत्** किम् **अगान्** अगमत् प्रस्तरम् इति पृच्छत्य् अध्वर्युर् आग्नीध्रम् । गमेर् लुङि 'मन्त्रे घस' इति च्लेर्लुक् ।   
 'मोनो धातोः' । प्रश्ने उदात्तप्लुतः । तस्यासिद्धत्वादट उदात्तत्वेन समावेशः ।   
 अग्नीदित्यामन्त्रितानुदात्तत्वम् ।
 </details>
