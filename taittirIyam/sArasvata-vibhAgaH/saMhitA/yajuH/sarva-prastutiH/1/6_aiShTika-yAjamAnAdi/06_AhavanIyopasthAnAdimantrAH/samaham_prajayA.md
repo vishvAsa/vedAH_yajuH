@@ -18,6 +18,11 @@ May I be united with offspring,
 सम॒हम्प्र॒जया᳚  +++(भूयासम्)+++  ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+समिति॑ । अ॒हम् । प्र॒जयेति॑ प्र-जया᳚ । 
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ससाधनां क्रियामुपसर्ग आह । सा 'सं ज्योतिषाभूवम्' इति मन्त्रान्तरेऽनन्तरप्रकृतत्वात्भवतिक्रियेति विज्ञायते, गमनक्रिया वा । अहं प्रजया सम्भूयासम्, सङ्गंसीय वा ।
@@ -50,6 +55,11 @@ offspring with me.
 सम्मया᳚ प्र॒जा  +++(भूयात्)+++ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+समिति॑ । मया᳚ । प्र॒जेति॑ प्र-जा ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 प्रजा च मया सह सम्भूयात्, सङ्गंसीष्ट वा ।
@@ -76,6 +86,10 @@ May I be united with increase of wealth,
 <details><summary>मूलम्</summary>
 
 सम॒हꣳ रा॒यस्पोषे॑ण  +++(भूयासम्)+++  ।
+</details>
+<details><summary>पद-पाठः</summary>
+
+समिति॑ । अ॒हम् । रा॒यः । पोषे॑ण । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -104,6 +118,10 @@ increase of wealth with me.
 <details><summary>मूलम्</summary>
 
 सम्मया॑ रा॒यस्पोषः॑   +++(भूयात्)+++  ।
+</details>
+<details><summary>पद-पाठः</summary>
+
+समिति॑ । मया᳚ । रा॒यः । पोषः॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
