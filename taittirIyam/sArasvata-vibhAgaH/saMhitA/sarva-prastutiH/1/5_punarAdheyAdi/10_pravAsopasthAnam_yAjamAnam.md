@@ -370,7 +370,7 @@ O Agni, lord of vows, I shall perform this vow;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तच्छ॑केयम् ।  
+तच् छ॑केयम् ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -468,7 +468,8 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कस्+++(→प्रजापतिः पक्षे)+++ त्वा॑ युनक्ति॒ - स त्वा॑ युनक्तु ।
+कस्+++(→प्रजापतिः पक्षे)+++ त्वा॑ युनक्ति॒ -  
+स त्वा॑ युनक्तु ।
 </details>
 <details><summary>Keith</summary>
 
