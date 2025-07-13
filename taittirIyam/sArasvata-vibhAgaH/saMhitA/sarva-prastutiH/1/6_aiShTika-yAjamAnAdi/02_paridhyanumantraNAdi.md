@@ -22,7 +22,8 @@ _______
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ध्रु॒वो॑ऽसि ।  
-ध्रु॒वो॒॑ऽहꣳ स॑जा॒तेषु॑ भूयास॒न् धीर॒श् चेत्ता॑ वसु॒वित्। 
+ध्रु॒वो॒॑ऽहꣳ स॑जा॒तेषु॑ भूयास॒न्  
+धीर॒श् चेत्ता॑ वसु॒वित्। 
 </details>
 <details><summary>Keith</summary>
 
@@ -57,7 +58,9 @@ Thou art secure; may I be secure among my equals, wise, a guardian, a granter of
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒ग्रो᳚ऽस्य् - उ॒ग्रो॒॑ ऽहꣳ स॑जा॒तेषु॑ भूयासम्, उ॒ग्रश् चेत्ता॑ वसु॒वित् ।
+उ॒ग्रो᳚ऽस्य् -  
+उ॒ग्रो॒॑ ऽहꣳ स॑जा॒तेषु॑ भूयासम्,  
+उ॒ग्रश् चेत्ता॑ वसु॒वित् ।
 </details>
 <details><summary>Keith</summary>
 
@@ -85,7 +88,7 @@ Thou art dread; may I be dread among my equals, dread, a guardian, a granter of 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ॒भि॒भूर् अ॑सि ।  
-अभि॒भूर् अ॒हꣳ स॑जा॒तेषु॑ भूयास॒म् - अभि॒भूश् चेत्ता॑ वसु॒वित्।
+अ॒भि॒भूर् अ॒हꣳ स॑जा॒तेषु॑ भूयास॒म् - अ॒भि॒भूश् चेत्ता॑ वसु॒वित्।
 </details>
 <details><summary>Keith</summary>
 
@@ -94,7 +97,7 @@ Thou art overcoming; may I be overcoming among my equals, overcoming, a guardian
 <details><summary>मूलम्</summary>
 
 अ॒भि॒भूर॑सि ।  
-अभि॒भूर॒हꣳ स॑जा॒तेषु॑ भूयास॒म् अभि॒भूश्चेत्ता॑ वसु॒वित्।
+अ॒भि॒भूर॒हꣳ स॑जा॒तेषु॑ भूयास॒म् अ॒भि॒भूश्चेत्ता॑ वसु॒वित्।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

@@ -404,7 +404,7 @@ He offers to the oblations; verily in cattle he finds support.
 यज्ञादिसर्वपरिस्पन्दाश्रयेऽन्तरीक्षे द्वितीयेन प्रतितिष्ठति । इड्यागेन पशुषु प्रतिष्ठां गन्ता ।
 </details>
 
-<details open><summary>2-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब॒र्हिर् य॑जति ।  
 य ए॒व दे॑व॒याना॒ᳶ पन्था॑न॒स्   
@@ -651,7 +651,7 @@ He who knows thus [4] is propagated with offspring, with cattle, with pairings.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वाना॒व्ँ वा अनि॑ष्टा दे॒वता॒ आसन्न्॑ ।
+दे॒वाना॒व्ँ वा अन्-इ॑ष्टा दे॒वता॒ आसन्न्॑ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -746,7 +746,7 @@ Then the sacrifice was protected, and the sacrificer.
 
 यत् प्र॑याजानूया॒जा इ॒ज्यन्ते॒  
 वर्मै॒व तद् य॒ज्ञाय॑ क्रियते॒  
-वर्म॒ यज॑मानाय॒, भ्रातृ॑व्याभिभूत्यै+++(←स्वरः??)+++
+वर्म॒ यज॑मानाय॒, भ्रातृ॑व्याभिभूत्यै+++(←बहुव्रीहिः??)+++
 </details>
 
 <details><summary>Keith</summary>
@@ -768,8 +768,8 @@ protection is afforded to the sacrifice and to the sacrificer, for the overcomin
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॒द् वरू॑थम्+++(←वृ)+++ वरू॑थम् पु॒रस्ता᳚त् ,  
-वर्षी॑यᳶ प॒श्चाद् +ध्रसी॑यः ।
+तस्मा॒द् वरू॑थम्+++(←वृ)+++ पु॒रस्ता᳚त् वर्षी॑यᳶ  
+प॒श्चाद् +ध्रसी॑यः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -780,7 +780,7 @@ Therefore a covering is larger in front and smaller behind.
 
 <details><summary>मूलम्</summary>
 
-तस्मा॒द्वरू॑थम् वरू॑थम्पु॒रस्ता᳚त् ,  
+तस्मा॒द्वरू॑थम् पु॒रस्ता᳚त् ,  
 वर्षी॑यᳶ प॒श्चाद्ध्रसी॑यः ।
 </details>
 
@@ -798,7 +798,8 @@ Therefore a covering is larger in front and smaller behind.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दे॒वा वै "पु॒रा रख्षो᳚भ्य॒" [5]  इति॑  
-स्वाहाका॒रेण॑ प्रया॒जेषु॑ य॒ज्ञꣳ स॒ꣵ॒स्थाप्य॑म् अपश्यन्।
+स्वाहाका॒रेण॑ प्रया॒जेषु॑  
+य॒ज्ञꣳ स॒ꣵ॒स्थाप्य॑म् अपश्यन्।
 </details>
 
 <details><summary>Keith</summary>
@@ -866,7 +867,7 @@ They split the sacrifice who complete it with the cry of 'Hail!' in the fore-sac
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒या॒जान् इ॒ष्ट्वा ह॒वीꣳष्य॒भि घा॑रयति य॒ज्ञस्य॒ सन्त॑त्यै ।  
+प्र॒या॒जान् इ॒ष्ट्वा ह॒वीꣳष्य् अ॒भि घा॑रयति य॒ज्ञस्य॒ सन्त॑त्यै ।  
 अथो॑ ह॒विर् ए॒वाकः॑ ।  
 अथो॑ यथापू॒र्वम् उपै॑ति ।
 </details>
@@ -903,7 +904,8 @@ and then he proceeds in order.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पि॒ता वै प्र॑या॒जाᳶ, प्र॒जा ऽनू॑या॒जाः।    
-यत् प्र॑या॒जान् इ॒ष्ट्वा ह॒वीꣳष्य् अ॑भिघा॒रय॑ति .. ,   
+यत् प्र॑या॒जान् इ॒ष्ट्वा  
+ह॒वीꣳष्य् अ॑भिघा॒रय॑ति ,   
 पि॒तैव तत् पु॒त्रेण॒ साधा॑रणं कुरुते ।  
 </details>
 
@@ -987,7 +989,7 @@ is not really spilt.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-गा॒य॒त्र्य् ए॑व तेन॒ गर्भ॑न् धत्ते ।  
+गा॒य॒त्र्य् ए॒॑व तेन॒ गर्भ॑न् धत्ते ।  
 </details>
 
 <details><summary>Keith</summary>

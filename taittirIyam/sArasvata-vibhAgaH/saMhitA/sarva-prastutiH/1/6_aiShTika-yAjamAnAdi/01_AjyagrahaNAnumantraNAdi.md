@@ -88,7 +88,7 @@ Thou art butter, thou art truth, thou art the overseer of truth,
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ह॒विर् अ॑सि वैश्वान॒रव्ँ वै᳚श्वदे॒वम्  
-उत्पू॑तशुष्मꣳ स॒त्यौजाः।
+उत्पू॑तशुष्मꣳ स॒त्यौजाः॑।
 </details>
 <details><summary>Keith</summary>
 
@@ -96,7 +96,7 @@ thou art the oblation of Vaiśvanara, of the All-gods, with pure strength, of tr
 </details>
 <details><summary>मूलम्</summary>
 
-ह॒विर॑सि वैश्वान॒रव्ँवै᳚श्वदे॒वमुत्पू॑तशुष्मꣳ स॒त्यौजाः ।
+ह॒विर॑सि वैश्वान॒रव्ँवै᳚श्वदे॒वमुत्पू॑तशुष्मꣳ स॒त्यौजाः॑ ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -631,8 +631,8 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भूर् अ॒स्माकꣳ॑  
-ह॒विर् दे॒वाना॑म्  
+भूर् अ॒स्माकꣳ॑,  
+ह॒विर् दे॒वाना॑म्,  
 आ॒शिषो॒ यज॑मानस्य  
 दे॒वाना᳚न् त्वा दे॒वता᳚भ्यो गृह्णामि। 
 </details>
