@@ -4,7 +4,7 @@ unicode_script = "devanagari"
 +++
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-निर्भ॑क्त॒स् स यन्द्वि॒ष्मः ।
+निर्भ॑क्त॒स् स यन् द्वि॒ष्मः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -15,6 +15,10 @@ excluded is he whom we hate.
 <details><summary>मूलम्</summary>
 
 निर्भ॑क्त॒स्स यन्द्वि॒ष्मः ।
+</details>
+<details><summary>पद-पाठः</summary>
+
+निर्भ॑क्त॒ इति॒ निः-भ॒क्तः॒ । सः । यम् । द्वि॒ष्मः ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
