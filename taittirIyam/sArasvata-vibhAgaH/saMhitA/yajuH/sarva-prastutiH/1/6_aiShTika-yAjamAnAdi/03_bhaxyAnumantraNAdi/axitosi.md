@@ -8,7 +8,7 @@ title = "अक्षितोऽसि"
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अख्षि॑तो॒ऽसि ।
+अख्षि॑तोऽसि ।
 </details>
 <details><summary>Keith</summary>
 
@@ -16,7 +16,7 @@ Thou art imperishable,
 </details>
 <details><summary>मूलम्</summary>
 
-अख्षि॑तो॒ऽसि ।
+अख्षि॑तोऽसि ।
 </details>
 <details><summary>पद-पाठः</summary>
 
@@ -50,7 +50,7 @@ for imperishableness thee;
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मा मे᳚ ख्षेष्ठा अ॒मुत्रा॒मुष्मि॑न् लो॒के  ॥  [10]
+मा मे᳚ ख्षेष्ठा अ॒मुत्रा॒मुष्मि॑ल्ँ लो॒के  ॥  [10]
 </details>
 <details><summary>Keith</summary>
 

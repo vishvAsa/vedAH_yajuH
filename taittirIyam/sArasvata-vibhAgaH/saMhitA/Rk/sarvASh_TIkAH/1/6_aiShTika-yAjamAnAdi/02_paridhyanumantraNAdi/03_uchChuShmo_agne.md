@@ -15,7 +15,7 @@ O Agni, kindled by the gods, kindled by Manu, with sweet tongue,
 
 उच्छु॑ष्मो अग्ने॒ यज॑मानायैधि॒  
 निशु॑ष्मो अभि॒दास॑ते ।  
-अग्ने॒ देवे᳚द्ध॒ मन्व्-इ॑द्ध॒ मन्द्र॑-जि॒ह्व॥
+अग्ने॒ देवे᳚द्ध॒ मन्व्-इ॑द्ध॒ मन्द्र॑-जिह्व॥
 </details>
 
 <details><summary>पद-पाठः</summary>
