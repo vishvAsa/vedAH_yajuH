@@ -289,7 +289,7 @@ _______
 
 उच्छु॑ष्मो अग्ने॒ **यज॑मानायैधि॒**  
 नि+++(=न्यक्)+++-शु॑ष्मो अभि॒दास॑ते ।  
-अग्ने॒ **देवे᳚द्ध॒ मन्व्-इ॑द्ध॒** मन्द्र॑-जि॑ह्व॥+++(5)+++
+अग्ने॒ **देवे᳚द्ध॒ मन्व्-इ॑द्ध॒** मन्द्र॑-जिह्व॥+++(5)+++
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/02_paridhyanumantraNAdi/03_uchChuShmo_agne.md">
@@ -404,7 +404,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वाग् अ॑सि स॑पत्न॒-ख्षय॑णी।  
+वाग् अ॑स्यै॒न्द्री स॑पत्न॒-ख्षय॑णी।  
 </details>
 <details><summary>Keith</summary>
 
@@ -412,7 +412,7 @@ Thou art speech, derived from Indra, destroying the foe [2];
 </details>
 <details><summary>मूलम्</summary>
 
-वाग॑सि स॑पत्न॒ख्षय॑णी।  
+वाग॑स्यै॒न्द्री स॑पत्न॒ख्षय॑णी।  
 </details>
 <details><summary>पद-पाठः</summary>
 
@@ -625,7 +625,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-हे॒म॒न्त॒-शिशि॒राव् ऋ॑तू॒नाम् प्री॑णामि ।   
+हे॒म॒न्त॒-शि॒शि॒राव् ऋ॑तू॒नाम् प्री॑णामि ।   
 तौ मा᳚ प्री॒तौ प्री॑णीताम् ।
 </details>
 
@@ -635,7 +635,7 @@ Of the seasons the winter and the cool I delight; delighted may they two delight
 </details>
 <details><summary>मूलम्</summary>
 
-हे॒म॒न्त॒शिशि॒रावृ॑तू॒नाम्प्री॑णामि ।   
+हे॒म॒न्त॒शि॒शि॒रावृ॑तू॒नाम्प्री॑णामि ।   
 तौ मा᳚ प्री॒तौ प्री॑णीताम् ।
 </details>
 <details><summary>पद-पाठः</summary>

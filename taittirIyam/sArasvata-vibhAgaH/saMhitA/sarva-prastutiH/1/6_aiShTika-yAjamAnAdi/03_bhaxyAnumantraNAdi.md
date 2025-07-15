@@ -58,7 +58,8 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो मेऽन्ति॑ दू॒रे॑ ऽराती॒यति॒ तम् ए॒तेन॑ जेषम् ।
+यो मेऽन्ति॑ दू॒रे᳕ ऽराती॒यति॒  
+तम् ए॒तेन॑ जेषम् ।
 </details>
 <details><summary>Keith</summary>
 
@@ -98,7 +99,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सुरू॑प-वर्ष-वर्ण॒ एहि॑ ।
+सुरू॑प-वर्ष-वर्ण॒+++(य्)+++ एहि॑ ।
 </details>
 <details><summary>Keith</summary>
 
@@ -241,7 +242,7 @@ Thou art delight,
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रम॑तिरसि ।
+रम॑तिर् असि ।
 </details>
 <details><summary>Keith</summary>
 
@@ -292,7 +293,7 @@ thou art fair.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-जुष्टे॒ जुष्टि॑न् ते ऽशी॒य।
+जुष्टे॒ जुष्टि॑न् ते ऽशीय।
 </details>
 <details><summary>Keith</summary>
 
@@ -300,7 +301,7 @@ O thou in whom joy is taken, may I attain joy from thee
 </details>
 <details><summary>मूलम्</summary>
 
-जुष्टे॒ जुष्टि॑न्तेऽशी॒य।
+जुष्टे॒ जुष्टि॑न्तेऽशीय।
 </details>
 <details><summary>पद-पाठः</summary>
 
@@ -319,7 +320,7 @@ O thou in whom joy is taken, may I attain joy from thee
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उप॑हूत उपह॒वं ते॒ऽशी॒य ।
+उप॑हूत+++(य्)+++ उपह॒वं ते॑ऽशीय ।
 </details>
 <details><summary>Keith</summary>
 
@@ -327,7 +328,7 @@ O thou who art invoked, may I obtain invocation [1] from thee.
 </details>
 <details><summary>मूलम्</summary>
 
-उप॑हूत उपह॒वं ते॒ऽशी॒य ।
+उप॑हूत उपह॒वं तेऽशीय ।
 </details>
 <details><summary>पद-पाठः</summary>
 
@@ -459,7 +460,8 @@ may the sacrifice reach the sky.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो दे॑व॒यान॒ᳶ पन्था॒स्, तेन॑ य॒ज्ञो दे॒वाꣳ अप्य् ए᳚तु ।
+यो दे॑व॒यान॒ᳶ पन्था॒स्,  
+तेन॑ य॒ज्ञो दे॒वाꣳ अप्य् ए᳚तु ।
 </details>
 <details><summary>Keith</summary>
 
@@ -520,7 +522,7 @@ To us be she dear, victorious, bountiful.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जुष्टि॑र् असि - जु॒षस्व॑ नः।  
-जुष्टा॑ नो ऽसि॒ - जुष्टि॑न् ते गमेय॒म् ।
+जुष्टा॑ नो ऽसि॒ - जुष्टि॑न् ते गमेयम् ।
 </details>
 <details><summary>Keith</summary>
 
@@ -529,12 +531,12 @@ thou art enjoyed by us [2], may I attain joy from thee.
 </details>
 <details><summary>मूलम्</summary>
 
-जुष्टि॑रसि जु॒षस्व॑ नो॒ जुष्टा॑ नः [9] अ॒सि॒ जुष्टि॑न्ते गमेय॒म् ।
+जुष्टि॑रसि जु॒षस्व॑ नो॒ जुष्टा॑ नः [9]  
+अ॒सि॒ जुष्टि॑न्ते गमेयम् ।
 </details>
 <details><summary>पद-पाठः</summary>
 
 जुष्टिः॑ । अ॒सि॒ । जु॒षस्व॑ । नः॒ । जुष्टा᳚ । नः॒ । अ॒सि॒ । जुष्टि᳚म् । ते॒ । ग॒मे॒य॒म्॒ । 
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -623,7 +625,7 @@ Swell, O ruddy one.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दद॑तो मे॒ मा ख्षा॑यि।  
-कुर्व॒तो मे॒ मोप॑दसत्।
+कु॒र्व॒तो मे॒ मोप॑दसत्।
 </details>
 <details><summary>Keith</summary>
 
@@ -632,7 +634,7 @@ May (my act) as I give be not destroyed; may (my act) as I work not perish.
 <details><summary>मूलम्</summary>
 
 दद॑तो मे॒ मा ख्षा॑यि।  
-कुर्व॒तो मे॒ मोप॑दसत्।
+कु॒र्व॒तो मे॒ मोप॑दसत्।
 </details>
 <details><summary>पद-पाठः</summary>
 
@@ -780,7 +782,7 @@ protect my out-breathing and cross-breathing.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अख्षि॑तो॒ऽसि ।
+अख्षि॑तोऽसि ।
 </details>
 <details><summary>Keith</summary>
 
@@ -788,7 +790,7 @@ Thou art imperishable,
 </details>
 <details><summary>मूलम्</summary>
 
-अख्षि॑तो॒ऽसि ।
+अख्षि॑तोऽसि ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -812,7 +814,7 @@ for imperishableness thee;
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मा मे᳚ ख्षेष्ठा अ॒मुत्रा॒मुष्मि॑न् लो॒के  ॥  [10]
+मा मे᳚ ख्षेष्ठा अ॒मुत्रा॒मुष्मि॑ल्ँ लो॒के  ॥  [10]
 </details>
 <details><summary>Keith</summary>
 
