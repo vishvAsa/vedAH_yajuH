@@ -22,6 +22,11 @@ O plant, protect him.
 
 ओष॑धे॒ त्राय॑स्वैनम्।
 </details>
+<details><summary>पद-पाठः</summary>
+
+ओष॑धे । त्राय॑स्व । ए॒न॒म्॒ ।  
+
+</details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
