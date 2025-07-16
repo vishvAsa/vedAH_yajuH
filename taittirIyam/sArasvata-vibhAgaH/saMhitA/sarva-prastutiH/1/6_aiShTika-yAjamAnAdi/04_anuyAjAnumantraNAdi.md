@@ -75,7 +75,8 @@ By sacrifice to the god Naraśansa, may I be possessed of cattle.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्नेस्स्वि॑ष्ट॒कृतो॒ ऽहन् दे॑वय॒ज्यया ऽऽयु॑ष्मान्, य॒ज्ञेन॑ प्रति॒ष्ठाङ् ग॑मेयम् ।
+अ॒ग्नेस् स्वि॑ष्ट॒कृतो॒ ऽहन् दे॑वय॒ज्यया  
+ऽऽयु॑ष्मान्, य॒ज्ञेन॑ प्रति॒ष्ठाङ् ग॑मेयम् ।
 </details>
 <details><summary>Keith</summary>
 
@@ -114,7 +115,7 @@ _______
 सोम॑स्या॒हम् उज्जि॑ति॒म् अनूज्जे॑षम् ।  
 अ॒ग्नेर् अ॒हम् उज्जि॑ति॒म् अनूज्जे॑षम् ।   
 अ॒ग्नीषोम॑योर् अ॒हम् उज्जि॑ति॒म् अनूज्जे॑षम् ।  
-इ॒न्द्रा॒ग्नि॒योर् अ॒हम् उज्जि॑ति॒म् अनूज्जे॑षम् ।  
+इ॒न्द्रा॒ग्नि॒योर्+++(→ग्न्योर् इति स्वरः)+++ अ॒हम् उज्जि॑ति॒म् अनूज्जे॑षम् ।  
 इन्द्र॑स्या॒हम् उज्जि॑ति॒म् अनूज्जे॑षम् ।  
 म॒हे॒न्द्रस्या॒हम् उज्जि॑ति॒म् अनूज्जे॑षम् ।  
 अ॒ग्नेस् स्वि॑ष्ट॒कृतो॒ ऽहम् उज्जि॑ति॒म् अनूज्जे॑षम् ।  
@@ -273,7 +274,7 @@ _______
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथा॑ स॒पत्ना॑न् इन्द्रा॒ग्नी  
-मे॑ विषू॒चीना॒न्+++(=विष्वग्-गतान्)+++ व्य॑स्यताम् ॥
+मे॑ विषू॒चीना॒न्+++(=विष्वग्-गतान्)+++ व्य᳕स्यताम् ॥
 </details>
 <details><summary>Keith</summary>
 
@@ -308,8 +309,8 @@ _______
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/04_anuyAjAnumantraNAdi/06_AimA_agmann.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-आ+इ॒मा अ॑ग्मन्न् आ॒शिषो॒ दोह॑-कामा  
-इन्द्र॑वन्तो  व॒ना॒म॒हे ।    
+आ+इ॒मा अ॑ग्मन्न् आ॒शिषो॒  
+दोह॑-कामा इन्द्र॑वन्तो  वनामहे ।    
 धु॒ख्षी॒महि॑ प्र॒जाम् इष᳚म्  ॥
 </details>
 </div>
@@ -380,7 +381,7 @@ With the red steed may Agni convey thee to the god;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-हरि॑भ्या॒न् त्वेन्द्रो॑ दे॒वता᳚ङ्गमय॒तु ।  
+हरि॑भ्या॒न् त्वेन्द्रो॑ दे॒वता᳚ङ् गमय॒तु ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -480,7 +481,8 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विष्णोः᳚ श॒य्ँ-योर्+++(←यु पृथक्करणे)+++ अ॒हन् दे॑वय॒ज्यया॑ य॒ज्ञेन॑ प्रति॒ष्ठाङ् ग॑मेयम् ।
+विष्णोः᳚ श॒य्ँ-योर्+++(←यु पृथक्करणे)+++ अ॒हन् दे॑वय॒ज्यया॑ य॒ज्ञेन॑  
+प्रति॒ष्ठाङ् ग॑मेयम् ।
 </details>
 <details><summary>Keith</summary>
 
@@ -517,7 +519,8 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सोम॑स्या॒हन् दे॑व-य॒ज्यया᳚ सु॒रेता॒ रेतो॑ धिषीय ।
+सोम॑स्या॒हन् दे॑व-य॒ज्यया᳚  
+सु॒रेता॒ रेतो॑ धिषीय ।
 </details>
 <details><summary>Keith</summary>
 
@@ -547,7 +550,8 @@ By sacrifice to the god Soma [3], possessing good seed, may I impregnate seed.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्वष्टु॑र् अ॒हन् दे॑व-य॒ज्यया॑ पशू॒नाꣳ रू॒पम् पु॑षेयम् ।
+त्वष्टु॑र् अ॒हन् दे॑व-य॒ज्यया॑  
+पशू॒नाꣳ रू॒पम् पु॑षेयम् ।
 </details>
 <details><summary>Keith</summary>
 
@@ -615,7 +619,8 @@ The wives of the gods, Agni lord of the house, are the pair of the sacrifice;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तयो॑र् अ॒हन् दे॑व-य॒ज्यया॑ मिथु॒नेन॒ प्र भू॑यासम् ।
+तयो॑र् अ॒हन् दे॑व-य॒ज्यया॑  
+मिथु॒नेन॒ प्र भू॑यासम् ।
 </details>
 <details><summary>Keith</summary>
 

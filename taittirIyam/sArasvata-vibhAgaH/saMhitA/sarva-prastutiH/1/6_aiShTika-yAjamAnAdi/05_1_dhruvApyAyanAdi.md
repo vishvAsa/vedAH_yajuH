@@ -125,7 +125,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सद् अ॑सि॒, सन्मे॑ भूयाः ।
+सद् अ॑सि॒, सन् मे॑ भूयाः ।
 </details>
 <details><summary>Keith</summary>
 
@@ -181,7 +181,7 @@ thou art all, be all for me;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पू॒र्णम॑सि पू॒र्णम् मे॑ भूयाः ।
+पू॒र्णम् अ॑सि पू॒र्णम् मे॑ भूयाः ।
 </details>
 <details><summary>Keith</summary>
 
@@ -292,7 +292,7 @@ in the southern [1] quarter may the months, the fathers, make (me) bright;
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒तीच्या᳚न्दि॒शि गृ॒हाᳶ प॒शवो॑ मार्जयन्ताम् ।  
+प्र॒तीच्या᳚न् दि॒शि गृ॒हाᳶ प॒शवो॑ मार्जयन्ताम् ।  
 </details>
 <details><summary>Keith</summary>
 
