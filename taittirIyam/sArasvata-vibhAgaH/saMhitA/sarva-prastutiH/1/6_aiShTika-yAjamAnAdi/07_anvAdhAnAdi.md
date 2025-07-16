@@ -38,7 +38,6 @@ Even as the Soma (sacrifices) come together in competition, so the new and full 
 यथा᳚ । वै । स॒मृ॒त॒सो॒मा इति॑ समृत-सो॒माः ।   
 ए॒वम् । वै । ए॒ते । स॒मृ॒त॒य॒ज्ञा इति समृत-य॒ज्ञाः ।   
 यत् । द॒र्‌श॒पू॒र्ण॒मा॒साविति॑ दर्‌श-पू॒र्ण॒मा॒सौ ।
-****
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -76,7 +75,8 @@ Whose sacrifice then do the gods approach and whose not?
 
 <details><summary>पद-पाठः</summary>
 
-कस्य॑ । वा॒ । अह॑ । दे॒वाः । य॒ज्ञम् । आ॒गच्छ॒न्तीत्या᳚-गच्छ॑न्ति । कस्य॑ । वा॒ । न । 
+कस्य॑ । वा॒ । अह॑ । दे॒वाः । य॒ज्ञम् । आ॒गच्छ॒न्तीत्या᳚-गच्छ॑न्ति ।   
+कस्य॑ । वा॒ । न । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -219,7 +219,9 @@ By means of a vow is Agni, lord of vows, pure, the Brahman is a supporter of vow
 </details>
 <details><summary>मूलम्</summary>
 
-व्र॒तेन॒ वै मेध्यो॒ऽग्निर्व्र॒तप॑तिर्ब्राह्म॒णो व्र॑त॒भृत् ।
+व्र॒तेन॒ वै मेध्यो॒ऽग्निर्व्र॒तप॑तिः  
+
+ब्रा॒ह्म॒णो व्र॑त॒भृत् ।
 </details>
 <details><summary>पद-पाठः</summary>
 
@@ -251,9 +253,11 @@ When about to undertake a vow he should say, 'O Agni, lord of vows, I shall perf
 </details>
 <details><summary>मूलम्</summary>
 
-व्र॒तमु॑पै॒ष्यन्ब्रू॑या॒द्  
+व्र॒तमु॑पै॒ष्यन्ब्रू॑याद्   
+
 अग्ने᳚ व्रतपते व्र॒तञ् च॑रिष्या॒मीति॑ ।  
-अ॒ग्निर्वै दे॒वाना᳚व्ँव्र॒तप॑तिः ।  
+
+अ॒ग्निर्वै दे॒वाना᳚व्ँ व्र॒तप॑तिः ।  
 तस्मा॑ ए॒व प्र॑ति॒प्रोच्य॑ व्र॒तमाल॑भते  ।
 </details>
 <details><summary>पद-पाठः</summary>
@@ -383,7 +387,8 @@ men [2] indeed desire what is bestrewed, and, how much more the gods whose is a 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उपा᳚स्मि॒ञ् +++(तस्योपस्तीर्णे)+++ छ्वो य॒ख्ष्यमा॑णे दे॒वता॑ वसन्ति॒  
+उपा᳚स्मि॒ञ् +++(तस्योपस्तीर्णे)+++ छ्वो य॒ख्ष्यमा॑णे दे॒वता॑ वसन्ति   
+
 य ए॒वव्ँवि॒द्वान॒ग्निमु॑पस्तृ॒णाति ।
 </details>
 <details><summary>Keith</summary>
@@ -394,7 +399,8 @@ With him, when sacrifice is to be made on the next day, do the gods dwell, who k
 
 <details><summary>मूलम्</summary>
 
-उपा᳚स्मि॒ञ् छ्वो य॒ख्ष्यमा॑णे दे॒वता॑ वसन्ति॒,  
+उपा᳚स्मि॒ञ् छ्वो य॒ख्ष्यमा॑णे दे॒वता॑ वसन्ति,  
+
 य ए॒वव्ँ वि॒द्वान् अ॒ग्निम् उ॑पस्तृ॒णाति ।
 </details>
 
@@ -486,7 +492,9 @@ If be were to fast without eating, the Pitrs would be his divinity [3]; he eats 
 
 यत् । अना᳚श्वान् । उ॒प॒वसे॒दित्यु॑प-वसे᳚त् ।  
 पि॒तृ॒दे॒व॒त्य॑ इति॑ पितृ-दे॒व॒त्यः॑ । स्या॒त्॒ ।
+
 आ॒र॒ण्यस्य॑ । अ॒श्ञा॒ति॒ ।   
+
 इ॒न्द्रि॒यम् ।  वै । आ॒र॒ण्यम् ।  
 इ॒न्द्रि॒यम् । ए॒व । आ॒त्मन्न् । ध॒त्ते॒ । 
 
@@ -536,7 +544,9 @@ If he were to fast without eating, he would be hungry; if he were to eat, Rudra 
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-**क्षोधुको** बुभुक्षाशीलः दरिद्रो वा । छान्दस उकञ् । अभिमन्येताभिक्रुध्येत् ।
+**क्षोधुको** बुभुक्षाशीलः दरिद्रो वा । छान्दस उकञ् ।   
+
+अभिमन्येताभिक्रुध्येत् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
