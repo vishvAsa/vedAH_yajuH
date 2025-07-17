@@ -6,11 +6,62 @@ title = "दर्शादि-तर्पणम्"
 
 पादौ प्रक्षाल्य, आचम्य आसीनः पवित्रपाणिः त्रिः प्राणान् आयम्य, 
 
-> गुरुभ्यः.... पती ।  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/rAmAnujIyam/vyakti-shlokAdi/gurubhyas_tad-gurubhyaH.md">
+<details open><summary><h5>गुरुभ्यस् तद्-गुरुभ्यश् च ...{Loading}...</h5></summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-> स्वशेष ... स्वयम् ।  
+गुरुभ्यस् तद्-गुरुभ्यश् च  
+नमो-वाकम् अधीमहे+++(→वीप्सायाम्)+++ ।  
+वृणीमहे च तत्राद्यौ  
+दं-पती जगतां पती+++(→शेषिणौ)+++ ॥ १ ॥
+</details>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
-> शुक्लां ... श्रये 
+गुरुभ्यस्तद्गुरुभ्यश्च नमोवाकमधीमहे ।  
+वृणीमहे च तत्राद्यौ दंपती जगतां पती ॥ १ ॥
+</details>
+<details><summary>English</summary>
+
+(With due devotion) we repeat the expression of adoration to our gurus and likewise to their gurus; and among these (latter), we pray for the grace of the  Primaeval Couple (Nārāyaṇa  and Lakṣmī ), the twin śeṣīs[^1] of all the worlds (so that they may be both the end to be attained by us and the means of attaining it).
+
+[^1]: A śeṣa is one who exists solely for the purposes of another. That other is śeṣī .
+</details>
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/rAmAnujIyam/prakIrNa-mantrAdi/padyam/svasheSha-bhUtena.md">
+<details open><summary><h5>स्वशेषभूतेन मया ...{Loading}...</h5></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्वशेषभूतेन मया  
+स्वीयैस् सर्व-परिच्छेदैः ।  
+**विधातुं** प्रीतमात्मानं  
+देवः **प्रक्रमते** स्वयम् ॥ (१२)
+</details>
+<details><summary>मूलम्</summary>
+
+स्वशेषभूतेन मया स्वीयैस्सर्वपरिच्छेदैः ।  
+विधातुं प्रीतमात्मानं देवः प्रक्रमते स्वयम् ॥ (१२)
+</details>
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/devaH/AryaH/hindukaH/viShNuH/padyam/shuklAmbara-dharaM.md">
+<details open><summary><h5>शुक्लाम्बरधरं ...{Loading}...</h5></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शुक्लाम्बरधरं विष्णुं  
+शशिवर्णं चतुर्भजम् ।  
+प्रसन्नवदनं द्यायेत्  
+सर्वविघ्नोपशान्तये ॥
+</details>
+<details><summary>मूलम्</summary>
+
+शुक्लाम्बरधरं विष्णुं  
+शशिवर्णं चतुर्भजम् ।  
+प्रसन्नवदनं द्यायेत्  
+सर्वविघ्नोपशान्तये ॥
+</details>
+</details>
+</div>
 
 इत्य् अनुसन्धाय, **प्राचीनावीती**, 
 
@@ -32,8 +83,16 @@ title = "दर्शादि-तर्पणम्"
 दक्षिणाग्रान् दर्भान् द्वेधा संस्तीर्य,  
 पूर्व-दर्भेषु (भुग्ने), 
 
-> आया॑त पितरस्सो॒म्या ग॑म्भी॒रैः प॒थिभिः॑ पू॒र्व्यैः ।  
-प्र॒जाम॒स्मभ्यं॑ ददतो र॒यिञ्च॑ दीर्घायु॒त्वं च॑ श॒तशा॑रदं च ॥ [[TODO:परिष्कार्यम्??]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH/prakIrNaH/devaH/classes/pitaraH/Rk/AyAta_pitaraH.md">
+<details open><summary><h5>AyAta_pitaraH ...{Loading}...</h5></summary>
+
+
+आया॑त पितरस् सो॒म्या  
+ग॑म्भी॒रैः प॒थिभिः॑ पू॒र्व्यैः ।  
+प्र॒जाम् अ॒स्मभ्यं॑ ददतो+++(=ददत + उ)+++ र॒यिञ् च॑  
+दीर्घायु॒त्वं च॑ श॒तशा॑रदं च ॥
+</details>
+</div>  
 
 > .... गोत्रान् .... शर्मणः  
 वसु-रुद्रादित्य-स्वरूपान्  
@@ -41,8 +100,15 @@ title = "दर्शादि-तर्पणम्"
 
 इति तिलैर् आवाह्य,
 
-> स॒कृ॒दा॒च्छि॒न्नं ब॒र्हिरूर्णा॑ मृदु । स्यो॒नं पि॒तृभ्य॑स्त्वा भराम्य॒हम् ।  
-अ॒स्मिन्थ्सी॑दन्तु मे पि॒तर॑स्सो॒म्याः । पि॒ता॒म॒हाः प्रपि॑तामहाश्चानु॒गैस्स॒ह ॥ [[TODO:परिष्कार्यम्??]]
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/04/90_sakRdAchChinnaM_barhir.md">
+<details open><summary><h4>90 सकृदाच्छिन्नं बर्हिर् ...{Loading}...</h4></summary>
+
+स॒कृ॒दा॒च्छि॒न्नं ब॒र्हिर् ऊर्णा॑-मृदु ।  
+स्यो॒नं पि॒तृभ्य॑स् त्वा भराम्य् अ॒हम् ।  
+अ॒स्मिन् सी॑दन्तु मे पि॒तर॑स् सो॒म्याः ।  
+पि॒ता॒म॒हाः प्रपि॑तामहाश् चानु॒गैस् स॒ह ॥33॥
+</details>
+</div>
 
 > .. गोत्राणां .... शर्मणां ...  
 वसुरुद्रादित्यस्वरूपाणाम् अस्मत्-पितृ-पितामह-प्रपितामहानाम्  
@@ -54,29 +120,58 @@ title = "दर्शादि-तर्पणम्"
 
 [[161]]
 
-> ऊर्जं॒ वह॑न्तीर॒मृतं᳚ घृ॒तं पयः॑ की॒लालं᳚ परि॒स्रुत᳚म् ।  
-स्व॒धा स्थ॑ त॒र्पय॑त मे पि॒तॄन् ॥ [[TODO:परिष्कार्यम्??]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/02/34_UrjaM_vahantIramRtam.md">
+<details open><summary><h5>३४ ऊर्जं वहन्तीरमृतम् ...{Loading}...</h5></summary>
+
+
+ऊर्जं॒ वह॑न्तीर् अ॒मृतं॑ घृ॒तं  
+पयः॑ की॒लालं॑ परि॒स्रु॑तम्।  
+स्व॒धा स्थ॑ त॒र्पय॑त मे पि॒तॄन् ॥३४॥
+</details>
+</div>  
 
 इति तिलोदकं दत्त्वा,
 
 पश्चिम-दर्भेषु,
 
-> आया॑त पितरस्सो॒म्या ग॑म्भी॒रैः प॒थिभिः॑ पू॒र्व्यैः ।  
-प्र॒जाम॒स्मभ्यं॑ ददतो र॒यिञ्च॑ दीर्घायु॒त्वं च॑ श॒तशा॑रदं च ॥ [[TODO:परिष्कार्यम्??]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH/prakIrNaH/devaH/classes/pitaraH/Rk/AyAta_pitaraH.md">
+<details open><summary><h5>AyAta_pitaraH ...{Loading}...</h5></summary>
+
+
+आया॑त पितरस् सो॒म्या  
+ग॑म्भी॒रैः प॒थिभिः॑ पू॒र्व्यैः ।  
+प्र॒जाम् अ॒स्मभ्यं॑ ददतो+++(=ददत + उ)+++ र॒यिञ् च॑  
+दीर्घायु॒त्वं च॑ श॒तशा॑रदं च ॥
+</details>
+</div>  
 
 > ... गोत्रान् ... शर्मणः वसुरुद्रादित्यस्वरूपान् अस्मन्मातुः पितृपितामहप्रपितामहान् आवाहयामि । 
 
 इति तिलैरावाह्य,
 
-> स॒कृ॒दा॒च्छि॒न्नं ब॒र्हिरूर्णा॑मृदु । स्यो॒नं पि॒तृभ्य॑स्त्वा भराम्य॒हम् ।  
-अ॒स्मिन्थ्सी॑दन्तु मे पि॒तर॑स्सो॒म्याः । पि॒ता॒म॒हाः प्रपि॑तामहाश्चानु॒गैस्स॒ह ॥ [[TODO:परिष्कार्यम्??]]
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/04/90_sakRdAchChinnaM_barhir.md">
+<details open><summary><h4>90 सकृदाच्छिन्नं बर्हिर् ...{Loading}...</h4></summary>
+
+स॒कृ॒दा॒च्छि॒न्नं ब॒र्हिर् ऊर्णा॑-मृदु ।  
+स्यो॒नं पि॒तृभ्य॑स् त्वा भराम्य् अ॒हम् ।  
+अ॒स्मिन् सी॑दन्तु मे पि॒तर॑स् सो॒म्याः ।  
+पि॒ता॒म॒हाः प्रपि॑तामहाश् चानु॒गैस् स॒ह ॥33॥
+</details>
+</div>
 
 > .. गोत्राणां .... शर्मणां ... वसुरुद्रादित्यस्वरूपाणाम् अस्मन्मातुःपितृपितामप्रपितामहानाम् इदमासनम्, 
 
 इति भुग्नेन दर्भेणाऽऽसनं दत्त्वा, (इदमर्चनम् इति तिलैरर्चनम्) ...
 
-> ऊर्जं॒ वह॑न्तीर॒मृतं᳚ घृ॒तं पयः॑ की॒लालं᳚ परि॒स्रुत᳚म् ।  
-स्व॒धा स्थ॑ त॒र्पय॑त मे पि॒तॄन् ॥ [[TODO:परिष्कार्यम्??]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/02/34_UrjaM_vahantIramRtam.md">
+<details open><summary><h5>३४ ऊर्जं वहन्तीरमृतम् ...{Loading}...</h5></summary>
+
+
+ऊर्जं॒ वह॑न्तीर् अ॒मृतं॑ घृ॒तं  
+पयः॑ की॒लालं॑ परि॒स्रु॑तम्।  
+स्व॒धा स्थ॑ त॒र्पय॑त मे पि॒तॄन् ॥३४॥
+</details>
+</div>  
 
 इति तिलोदकं दत्त्वा,
 
@@ -105,8 +200,15 @@ title = "दर्शादि-तर्पणम्"
 
 इति त्रिः तिलोदकं दत्त्वा ।
 
-> ऊर्जं॒ वह॑न्तीर॒मृतं᳚ घृ॒तं पयः॑ की॒लालं᳚ परि॒स्रुत᳚म् ।  
-स्व॒धा स्थ॑ त॒र्पय॑त मे पि॒तॄन् ॥ [[TODO:परिष्कार्यम्??]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/02/34_UrjaM_vahantIramRtam.md">
+<details open><summary><h5>३४ ऊर्जं वहन्तीरमृतम् ...{Loading}...</h5></summary>
+
+
+ऊर्जं॒ वह॑न्तीर् अ॒मृतं॑ घृ॒तं  
+पयः॑ की॒लालं॑ परि॒स्रु॑तम्।  
+स्व॒धा स्थ॑ त॒र्पय॑त मे पि॒तॄन् ॥३४॥
+</details>
+</div>  
 
 > ... गोत्रान् .... शर्मणः रुद्ररूपान् अस्मत्पितामहान् स्वधा नमस्तर्ययामि । 
 
