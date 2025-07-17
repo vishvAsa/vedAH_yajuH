@@ -179,22 +179,40 @@ title = "दर्शादि-तर्पणम्"
 
 सव्यं जान्व् आच्य, पूर्वदर्भेषु,
 
-उदी॑रता॒मव॑र॒ उत्परा॑स॒ उन्म॑ध्य॒माः पि॒तर॑स्सो॒म्यासः॑ ।  
-असुं॒ य ई॒युर॑वृ॒का ऋ॑त॒ज्ञास्तेनो॑वन्तु पि॒तरो॒ हवे॑षु ॥ [[TODO:परिष्कार्यम्??]] 
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/015/01_udIratAmavara_utparAsa.md">
+<details open><summary><h5>०१ उदीरतामवर उत्परास ...{Loading}...</h5></summary>
+
+
+उदी॑रता॒म् अव॑र॒ उत् परा॑स॒  
+उन् म॑ध्य॒माः पि॒तरः॑ सो॒म्यासः॑ ।  
+असुं॒ य ई॒युर् अ॑वृ॒का ऋ॑त॒ज्ञास्  
+ते नो॑ऽवन्तु पि॒तरो॒ हवे॑षु ॥
+
+</details>
+</div>  
 
 > ....गोत्रान् .... शर्मणः वसुरूपान् अस्मत्पितॄन् स्वधा नमस्तर्ययामि । 
 
 इति त्रिः तिलोदकं दत्त्वा ।
 
-> अङ्गि॑रसो नः पि॒तरो॒ नव॑ग्वा॒ अथ॑र्वाणो॒ भृग॑वस्सो॒म्यासः॑ ।  
-तेषां᳚ व॒यँ सु॑प॒तौ य॒ज्ञिया॑ना॒मपि॑ भ॒द्रे सौ॑मन॒से स्या॑म ॥
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/014/06_angiraso_naH.md" newLevelForH1="5" includeTitle="false"> 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अङ्गि॑रसो नᳶ पि॒तरो॒ नव॑ग्वा॒ अथ॑र्वाणो॒ भृग॑वस्सो॒म्यासः॑ ।   
+तेषा᳚व्ँव॒यꣳ सु॑म॒तौ य॒ज्ञिया॑ना॒मपि॑ भ॒द्रे सौ॑मन॒से स्या॑म ॥ [70]
+</details>
+</div>
+
 
 > ... गोत्रान् ... शर्मणः वसुरूपान् अस्मत्पितॄन् स्वधा नमस्तर्ययामि । 
 
 इति त्रिः तिलोदकं दत्त्वा ।
 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/A_yantu.md" unfilled newLevelForH1="5" includeTitle="false">   
+
 > आय॑न्तु नः पि॒तर॑स्सो॒म्यासौ᳚ऽग्निष्वा॒त्ताः प॒थिर्भिर्देव॒यानैः᳚ ।  
-अ॒स्मिन् य॒ज्ञे स्व॒धया॑ मद॒न्त्वधि॑ ब्रुवन्तु॒ ते अव॑न्त्व॒स्मान् ॥ [[TODO:परिष्कार्यम्??]]
+अ॒स्मिन् य॒ज्ञे स्व॒धया॑ मद॒न्त्वधि॑ ब्रुवन्तु॒ ते अव॑न्त्व॒स्मान् ॥
+</div>
 
 > .... गोत्रान् .... शर्मणः वसुरूपान् अस्मत्पितॄन् स्वधा नमस्तर्ययामि । 
 
@@ -221,23 +239,53 @@ title = "दर्शादि-तर्पणम्"
 
 > ... गोत्रान् .... शर्मणः रुद्ररूपान् अस्मत्पितामहान् स्वधा नमस्तर्पयामि । इति पूर्ववत् ॥
 
-> ये चे॒ह पि॒तरो॒ ये च॒ नेह॒ याँश्च॑ वि॒द्म याँ उ॑ च॒न प्र॑वि॒द्म ।  
-अग्ने॒ तान्वे᳚त्थ॒ यदि॒ ते जा॑तवेद॒स्तया᳚ प्र॒त्थँस्व॒धया॑ मदन्तु॒ ॥
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/07_ye_cheha.md">
+<details open><summary><h2>०७ ये चेह ...{Loading}...</h2></summary>
+
+
+ये चे॒ह पि॒तरो॒ ये च॒ नेह॒  
+याँश् च॑ वि॒द्म याँ उ॑ च॒ न प्र॑ वि॒द्म ।  
+अग्ने॒ तान् वेत्थ॒ यदि॒  
+ते जा॑तवेद॒स् तया॑॑ प्र॒त्तँ+++(→प्रत्तया = प्रदत्तया)+++ स्व॒धया॑ मदन्तु॒  
+स्वाहा॑॑ ।
+
+</details>
+</div>
 
 > ...गोत्रान् .... शर्मणः रुद्ररूपान् अस्मत्पितामहान् स्वधा नमस्तर्ययामि । 
 
 इति पूर्ववत् ॥
 
-> मधु॒ वाता॑ ऋताय॒ते मधु॑ क्षरन्ति॒ सिन्ध॑वः ।  
-माद्ध्वी᳚र्नस्स॒न्त्वोष॑धीः ॥ [[TODO:परिष्कार्यम्??]]
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_3/01_madhu_vAtA.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+मधु॒ वाता॑ ऋताय॒ते  
+मधु॑ ख्षरन्ति॒ सिन्ध॑वः ।  
+माद्ध्वी᳚र् नस् स॒न्त्व् ओष॑धीः ॥
+</details>
+</div>
 
 > ...गोत्रान् ... शर्मणः आदित्यरूपान् अस्मत्प्रपितामहान् स्वधा नमस्तर्ययामि ।
 
-> मधु॒ नक्त॑मु॒तोषसि॒ मधु॑म॒त्पार्थि॑वँ॒ रजः॑ । मधु॒ द्यौर॑स्तु॒ नः पि॒ता ॥ 
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_3/03_madhu_naktam.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+मधु॒ नक्त॑म् उ॒तोषसि॒  
+मधु॑म॒त् पार्थि॑व॒ꣳ॒ रजः॑ ।   
+मधु॒ द्यौर॑स्तु नः पि॒ता ॥
+</details>
+</div>
 
 > ...गोत्रान् ... शर्मणः आदित्यरूपान् अस्मत्प्रपितामहान् स्वधा नमस्तर्ययामि ।
 
-> मधु॑मान्नो॒ वन॒स्पति॒र्मधु॑माँ अस्तु॒ सूर्यः॑ । माद्ध्वी॒र्गावो॑ भवन्तु नः ॥ 
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_3/05_madhumAn_no.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+मधु॑मान् नो॒ वन॒स्पति॒र्  
+मधु॑माꣳ अस्तु॒ सूर्यः॑ ।  
+माद्ध्वी॒र् गावो॑ भवन्तु नः ॥
+</details>
+</div>
 
 > ....गोत्रान् ... शर्मणः आदित्यरूपान् अस्मत्प्रपितामहान् स्वधा नमस्तर्ययामि ।
 
@@ -251,29 +299,55 @@ title = "दर्शादि-तर्पणम्"
 
 पश्चिमदर्भेषु
 
-> उदी॑रता॒मव॑र॒ उत्परा॑स॒ उन्म॑ध्य॒माः पि॒तर॑स्सो॒म्यासः॑ ।  
-असुं॒ य ई॒युर॑वृ॒का ऋ॑त॒ज्ञास्तेनो॑वन्तु पि॒तरो॒ हवे॑षु ॥ [[TODO:परिष्कार्यम्??]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/015/01_udIratAmavara_utparAsa.md">
+<details open><summary><h5>०१ उदीरतामवर उत्परास ...{Loading}...</h5></summary>
+
+
+उदी॑रता॒म् अव॑र॒ उत् परा॑स॒  
+उन् म॑ध्य॒माः पि॒तरः॑ सो॒म्यासः॑ ।  
+असुं॒ य ई॒युर् अ॑वृ॒का ऋ॑त॒ज्ञास्  
+ते नो॑ऽवन्तु पि॒तरो॒ हवे॑षु ॥
+
+</details>
+</div>  
 
 > .... गोत्रान् .... शर्मणः वसुरूपान् अस्मन्मातुःपितॄन् स्वधा नमस्तर्ययामि । 
 
 इति त्रिः तिलोदकं दत्त्वा ।
 
-> अङ्गि॑रसो नः पि॒तरो॒ नव॑ग्वा॒ अथ॑र्वाणो॒ भृग॑वस्सो॒म्यासः॑ ।  
-तेषां᳚ व॒यँ सु॑प॒तौ य॒ज्ञिया॑ना॒मपि॑ भ॒द्रे सौ॑मन॒से स्या॑म ॥ [[TODO:परिष्कार्यम्??]]
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/014/06_angiraso_naH.md" newLevelForH1="5" includeTitle="false"> 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अङ्गि॑रसो नᳶ पि॒तरो॒ नव॑ग्वा॒ अथ॑र्वाणो॒ भृग॑वस्सो॒म्यासः॑ ।   
+तेषा᳚व्ँव॒यꣳ सु॑म॒तौ य॒ज्ञिया॑ना॒मपि॑ भ॒द्रे सौ॑मन॒से स्या॑म ॥ [70]
+</details>
+</div>
+
 
 > .... गोत्रान् .... शर्मणः वसुरूपान् अस्मन्मातुःपितॄन् स्वधा नमस्तर्ययामि । 
 
 इति त्रिः तिलोदकं दत्त्वा ।
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/A_yantu.md" unfilled newLevelForH1="5" includeTitle="false">   
 
 > आय॑न्तु नः पि॒तर॑स्सो॒म्यासौ᳚ऽग्निष्वा॒त्ताः प॒थिर्भिर्देव॒यानैः᳚ ।  
-अ॒स्मिन् य॒ज्ञे स्व॒धया॑ मद॒न्त्वधि॑ ब्रुवन्तु॒ ते अव॑न्त्व॒स्मान् ॥ [[TODO:परिष्कार्यम्??]]
+अ॒स्मिन् य॒ज्ञे स्व॒धया॑ मद॒न्त्वधि॑ ब्रुवन्तु॒ ते अव॑न्त्व॒स्मान् ॥
+</div>
 
 > ...गोत्रान् ... शर्मणः वसुरूपान् अस्मन्मातुःपितॄन् स्वधा नमस्तर्ययामि । 
 
 इति त्रिः तिलोदकं दत्त्वा ।
 
-> ऊर्जं॒ वह॑न्तीर॒मृतं᳚ घृ॒तं पयः॑ की॒लालं᳚ परि॒स्रुत᳚म् ।  
-स्व॒धा स्थ॑ त॒र्पय॑त मे पि॒तॄन् ॥ [[TODO:परिष्कार्यम्??]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/02/34_UrjaM_vahantIramRtam.md">
+<details open><summary><h5>३४ ऊर्जं वहन्तीरमृतम् ...{Loading}...</h5></summary>
+
+
+ऊर्जं॒ वह॑न्तीर् अ॒मृतं॑ घृ॒तं  
+पयः॑ की॒लालं॑ परि॒स्रु॑तम्।  
+स्व॒धा स्थ॑ त॒र्पय॑त मे पि॒तॄन् ॥३४॥
+</details>
+</div>  
+
 
 > ...गोत्रान् ... शर्मणः रुद्ररूपान् अस्मन्मातुःपितामहान् स्वधा नमस्तर्ययामि । 
 
@@ -288,23 +362,57 @@ title = "दर्शादि-तर्पणम्"
 
 इति पूर्ववत् ॥
 
-> ये चे॒ह पि॒तरो॒ ये च॒ नेह॒ याँश्च॑ वि॒द्म याँ उ॑ च॒न प्र॑वि॒द्म ।  
-अग्ने॒ तान्वे᳚त्थ॒ यदि॒ ते जा॑तवेद॒स्तया᳚ प्र॒त्थँस्व॒धया॑ मदन्तु॒ ॥ [[TODO:परिष्कार्यम्??]]
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/07_ye_cheha.md">
+<details open><summary><h2>०७ ये चेह ...{Loading}...</h2></summary>
+
+
+ये चे॒ह पि॒तरो॒ ये च॒ नेह॒  
+याँश् च॑ वि॒द्म याँ उ॑ च॒ न प्र॑ वि॒द्म ।  
+अग्ने॒ तान् वेत्थ॒ यदि॒  
+ते जा॑तवेद॒स् तया॑॑ प्र॒त्तँ+++(→प्रत्तया = प्रदत्तया)+++ स्व॒धया॑ मदन्तु॒  
+स्वाहा॑॑ ।
+
+</details>
+</div>
+
 
 > ..गोत्रान् ... शर्मणः रुद्ररूपान् अस्मन्मातुःपितामहान् स्वधा नमस्तर्ययामि । 
 
 इति पूर्ववत् ॥
 
-> मधु॒ वाता॑ ऋताय॒ते मधु॑ क्षरन्ति॒ सिन्ध॑वः ।  
-माद्ध्वी᳚र्नस्स॒न्त्वोष॑धीः ॥ [[TODO:परिष्कार्यम्??]]
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_3/01_madhu_vAtA.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+मधु॒ वाता॑ ऋताय॒ते  
+मधु॑ ख्षरन्ति॒ सिन्ध॑वः ।  
+माद्ध्वी᳚र् नस् स॒न्त्व् ओष॑धीः ॥
+</details>
+</div>
+
 
 > ..गोत्रान् .. शर्मणः आदित्यरूपान् अस्मन्मातुःप्रपितामहान् स्वधा नमस्तर्ययामि ।
 
-> मधु॒ नक्त॑मु॒तोषसि॒ मधु॑म॒त्पार्थि॑वँ॒ रजः॑ । मधु॒ द्यौर॑स्तु॒ नः पि॒ता ॥ [[TODO:परिष्कार्यम्??]] 
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_3/03_madhu_naktam.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+मधु॒ नक्त॑म् उ॒तोषसि॒  
+मधु॑म॒त् पार्थि॑व॒ꣳ॒ रजः॑ ।   
+मधु॒ द्यौर॑स्तु नः पि॒ता ॥
+</details>
+</div>
+
 
 > ..गोत्रान् .. शर्मणः आदित्यरूपान् अस्मन्मातुःप्रपितामहान् स्वधा नमस्तर्ययामि ।
 
-> मधु॑मान्नो॒ वन॒स्पति॒र्मधु॑माँ अस्तु॒ सूर्यः॑ । माद्ध्वी॒र्गावो॑ भवन्तु नः ॥ [[TODO:परिष्कार्यम्??]] 
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_3/05_madhumAn_no.md">
+<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+मधु॑मान् नो॒ वन॒स्पति॒र्  
+मधु॑माꣳ अस्तु॒ सूर्यः॑ ।  
+माद्ध्वी॒र् गावो॑ भवन्तु नः ॥
+</details>
+</div>
+
 
 > .. गोत्रान् .. शर्मणः आदित्यरूपान् अस्मन्मातुःप्रपितामहान् स्वधा नमस्तर्पयामि ।
 
@@ -318,8 +426,16 @@ title = "दर्शादि-तर्पणम्"
 
 इति उभयेषु दर्भेषु त्रिरुदकाञ्जलिं दत्त्वा
 
-> ऊर्जं॒ वह॑न्तीर॒मृतं᳚ घृ॒तं पयः॑ की॒लालं᳚ परि॒स्रुत᳚म् ।  
-स्व॒धा स्थ॑ त॒र्पय॑त मे पि॒तॄन् । [[TODO:परिष्कार्यम्??]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/02/34_UrjaM_vahantIramRtam.md">
+<details open><summary><h5>३४ ऊर्जं वहन्तीरमृतम् ...{Loading}...</h5></summary>
+
+
+ऊर्जं॒ वह॑न्तीर् अ॒मृतं॑ घृ॒तं  
+पयः॑ की॒लालं॑ परि॒स्रु॑तम्।  
+स्व॒धा स्थ॑ त॒र्पय॑त मे पि॒तॄन् ॥३४॥
+</details>
+</div>  
+
 
 इति उभयान् दर्भान् तिलोदकेन परिषिच्य, तृप्यत तृप्यत तृप्यत .... इति त्रिः उच्चार्य (त्रीन् उदकाञ्जलीन् दत्त्वा) उत्थाय दक्षिणाभिमुखः तिष्ठन्न् अञ्जलिं बद्ध्वा, 
 **उपवीती** - (‘तृप्यध्वम्’ इति त्रिरुच्चार्य),
