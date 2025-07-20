@@ -23,7 +23,7 @@ Fare along the wide atmosphere.
 
 <details><summary>पद-पाठः</summary>
 
-उ॒रु । अ॒न्तरि॑ख्षम् । अन्विति॑ । इ॒हि॒ । 
+उ॒रु । अ॒न्तरि॑ख्षम् । अन्विति॑ । इ॒हि॒ ।  
 </details>
 
 
