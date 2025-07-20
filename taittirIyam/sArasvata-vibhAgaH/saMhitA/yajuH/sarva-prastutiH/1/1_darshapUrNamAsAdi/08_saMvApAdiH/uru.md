@@ -27,6 +27,12 @@ Be extended wide, let the lord of the sacrifice be extended wide.
 
 <details><summary>पद-पाठः</summary>
 
+उ॒रु । प्र॒थ॒स्व॒ ।  
+उ॒रु । ते॒ । य॒ज्ञप॑ति॒रिति॑ य॒ज्ञ-प॒तिः॒ । प्र॒थ॒ता॒म्॒ । 
+</details>
+
+<details><summary>पद-पाठः</summary>
+
 उ॒रु । प्र॒थ॒स्व॒ । उ॒रु । ते॒ । य॒ज्ञप॑ति॒रिति॑ य॒ज्ञ-प॒तिः॒ । प्र॒थ॒ता॒म्॒ ।
 </details>
 

@@ -17,6 +17,11 @@ Thou art the seat of Aditi.
 
 अदि॑त्या॒स्सदो॑ऽसि ।
 </details>
+<details><summary>पद-पाठः</summary>
+
+अदि॑त्याः । सदः॑ । अ॒सि॒ ।
+</details>
+
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
