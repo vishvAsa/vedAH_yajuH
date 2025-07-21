@@ -3,11 +3,23 @@ title = "आयुष्य\u200c/घृत-सूक्तम्"
 
 +++
 
+<details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
+
+The modern taittirIyaka-s have a remarkable sUkta known as the AyuShya-sUkta. It is somewhat metrically irregular and has pseudo-accents. It is probably the first extant H text to call on a group of goddesses reminiscent of the mAtR^i-s of later tAntrika tradition. 
+
+Its opening verse features the verb "ujjahAra" which is not typical of core Vedic corpus. While accents were vanishing or losing regularity in the later yajus tradition, this sUkta has entirely descended into pseudo-accents. 
+
+This makes us suspect it was not originally a text of the yajus tradition at all, and the pseudo-accents were added onto text that was acquired without accents from a tradition external to it. The internal evidence of the sUkta suggests that it was likely from a lost AV text. 
+
+One candidate is the AV AraNyaka which was at least partly known down to the time of shaMkarAcharya. He cites the abhichArika incantation that opens it (though memory of that continues among atharvan-s and is deployed while opening certain abhichArika rites).
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(मृगशिरसि यथा दृश्यते)+++  
 यो ब्रह्मा **ब्रह्मण उज्जहार**  
-प्राणैः **शिरः** कृत्तिवासाः पिनाकी +++(आर्द्रा-स्थः)+++।  
+प्राणैः **शिरः** कृत्ति-वासाः पिनाकी +++(आर्द्रा-स्थः)+++।  
 ईशानो देवः स न आयुर् **दधातु**  
 तस्मै **जुहोमि** हविषा घृतेन ॥ १ ॥
 </details>

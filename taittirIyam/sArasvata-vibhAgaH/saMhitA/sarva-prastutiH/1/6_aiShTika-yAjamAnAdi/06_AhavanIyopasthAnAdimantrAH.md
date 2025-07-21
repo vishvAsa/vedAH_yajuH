@@ -815,16 +815,27 @@ Du flammst, o Agni, Leben aus, erzeuge Trank und Speise uns, Das Unheil stosse w
 आ॒रे बा॑धस्व दु॒च्छुना॑म् ॥
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/066/21_agne_pavasva.md">
-<details open><summary><h5>२१ अग्ने पवस्व ...{Loading}...</h5></summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्ने॒ **पव॑स्व॒** स्व्-अपा॑+++(←अपस्=कर्म)+++  
 अ॒स्मे वर्चः॑ सु॒वीर्य॑म् ।  
-**दध॑द्** र॒यिं मयि॒ पोष॑म् ॥
-
+**दध॒त्** पोष॑म् र॒यिं मयि॑ ॥
 </details>
-</div>
+
+<details><summary>मूलम्</summary>
+
+अग्ने॒ **पव॑स्व॒** स्व्-अपा॑+++(←अपस्=कर्म)+++  
+अ॒स्मे वर्चः॑ सु॒वीर्य॑म् ।  
+**दध॒त्** पोष॑म् र॒यिं मयि॑ ॥
+</details>
+
+<details><summary>पद-पाठः- तैत्तिरीयः</summary>
+
+अग्ने᳚ । पव॑स्व । स्वपा॒ इति॑ सु-अपाः᳚ । अ॒स्मे इति॑ । वर्चः॑ । सु॒वीर्य॒मिति॑ सु-वीर्य᳚म् ॥ दध॑त् । पोष᳚म् । र॒यिम् । मयि॑ ॥
+</details>
+
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/09/066/21_agne_pavasva.md">
 <details open><summary><h5>021 ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -1058,6 +1069,7 @@ O Agni, flamme uns herbei schönwirkend Glanz und Heldenkraft; Er schenke Gut un
 </details>
 </details>
 </div>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 व्याख्याते चैते 'त्वमग्ने रुद्रः' इत्यत्र । 
@@ -1078,7 +1090,8 @@ O Agni, flamme uns herbei schönwirkend Glanz und Heldenkraft; Er schenke Gut un
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अग्ने॑ गृहपते! सुगृह-प॒तिर् अ॒हन् त्वया॑ गृ॒ह-प॑तिना भूयासम् ।  
+अग्ने॑ गृहपते! सुगृह-प॒तिर्  
+अ॒हन् त्वया॑ गृ॒ह-प॑तिना भूयासम् ।  
 सु॒गृ॒ह॒प॒तिर् मया॒ त्वङ् गृ॒हप॑तिना भूयाः ।
 </details>
 <details><summary>Keith</summary>
@@ -1098,7 +1111,7 @@ ____________
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-श॒तꣳ हिमा॑स् ताम् आ॒शिष॒म् आशा॑से ।
+श॒तꣳ हिमा॒स् ताम् आ॒शिष॒म् आशा॑से ।
 
 +++(अजातपुत्र-पक्षे - )+++ तन्त॑वे॒ ज्योति॑ष्मती॒न् ताम् आ॒शिष॒म् आशा॑से ।  
 +++(जातपुत्र-पक्षे -)+++ [ताम् आ॒शिष॒म् आशा॑से] अ॒मुष्मै॒+++(→अपत्य-नाम-निर्देशः)+++ ज्योति॑ष्मतीम् ॥  [24]
@@ -1111,7 +1124,7 @@ bringing light for N. N.+++(= nomina / names)+++
 </details>
 <details><summary>मूलम्</summary>
 
-श॒तꣳ हिमा॑स् तामा॒शिष॒माशा॑से ।
+श॒तꣳ हिमा॒स् तामा॒शिष॒माशा॑से ।
 
 +++(अजातपुत्र-पक्षे - )+++ तन्त॑वे॒ ज्योति॑ष्मती॒न्  
 तामा॒शिष॒माशा॑से ।  
@@ -1144,7 +1157,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कस्त्वा॑ युनक्ति॒ स त्वा॒ विमु॑ञ्च॒तु ।
+कस्त्वा॑ युनक्ति॒ स त्वा॒ विमु॑ञ्चतु ।
 </details>
 <details><summary>Keith</summary>
 
@@ -1152,7 +1165,7 @@ Who yoketh thee? Let him set thee free.
 </details>
 <details><summary>मूलम्</summary>
 
-कस्त्वा॑ युनक्ति॒ स त्वा॒ विमु॑ञ्च॒तु ।
+कस्त्वा॑ युनक्ति॒ स त्वा॒ विमु॑ञ्चतु ।
 </details>
 <details><summary>पद-पाठः</summary>
 
@@ -1295,7 +1308,7 @@ It hath been born, it hath waxed great;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स दे॒वाना॒म् अधि॑पतिर्बभूव ।   
+स दे॒वाना॒म् अधि॑पतिर् बभूव ।   
 </details>
 <details><summary>Keith</summary>
 
