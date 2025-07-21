@@ -60,7 +60,7 @@ Even as the Soma (sacrifices) come together in competition, so the new and full 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कस्य॒ वाऽह॑ दे॒वा य॒ज्ञम् आ॒ गच्छ॑न्ति॒  
+कस्य॒ वाऽह॑ दे॒वा य॒ज्ञम् आ॒ गच्छ॑न्ति॒ +++(←चादिषु च)+++  
 कस्य॑ वा॒ न?  
 </details>
 <details><summary>Keith</summary>

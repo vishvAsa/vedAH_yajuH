@@ -126,6 +126,12 @@ Thou art the good luck of the sacrificer.
 
 यज॑मानस्य स्व॒स्त्यय॑न्य॒सि  ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+यज॑मानस्य । स्व॒स्त्यय॒नीति॑ स्वस्ति-अय॑नी । अ॒सि॒ । 
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 3अध्वर्युयजमानौ गच्छतः - यजमानस्य स्वस्त्ययनीति ॥  
@@ -252,10 +258,20 @@ Thou art the pillar of Varuna.
 </details>
 </details>
 </div>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 वरु॑णस्य॒ स्कम्भ॑नमसि॒ वरु॑णस्य स्कम्भ॒सर्ज॑नम॒स्युन्मु॑क्तो॒ वरु॑णस्य॒ पाशः॑ ॥ [17]
 </details>
+<details><summary>पद-पाठः</summary>
+
+वरु॑णस्य । स्कम्भ॑नम् । अ॒सि॒ ।   
+वरु॑णस्य । स्क॒म्भ॒सर्ज॑न॒मिति॑ स्कम्भ-सर्ज॑नम् । अ॒सि॒ ।   
+वरु॑णस्य । स्क॒म्भ॒सर्ज॑न॒मिति॑ स्कम्भ-सर्ज॑नम् । अ॒सि॒ । 
+
+उन्मु॑क्त॒ इत्युत्-मु॒क्तः॒ । वरु॑णस्य । पाशः॑ ॥ [17]  
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 6शकटमुदगीषमुपस्तम्भयति - वरुणस्य स्कम्भनमसीति ॥ व्याख्यातम् । इह त्वयं विशेषः - ईषाया उपस्कम्भनमभिधेयम्, तत्र तु गौः ॥
@@ -267,6 +283,7 @@ ________
 
 शम्याम् उद्-वृहति।
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/varuNasya_skambhanam.md">
 <details open><summary><h5>वरुणस्य स्कम्भनम् ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -281,17 +298,34 @@ Thou art the pillar of Varuna.
 
 वरु॑णस्य॒ स्कम्भ॑नमसि ।
 </details>
+<details><summary>पद-पाठः</summary>
+
+वरु॑णस्य । स्कम्भ॑नम् । अ॒सि॒ । 
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 वरुणस्य स्कम्भनं स्तम्भनमुत्पादयिता त्वमसि यागद्वारेण । यद्वा - वरुणस्य वरणीयस्य वारयितुर्वा सोमस्य स्कम्भनं धारायिता असि ॥
 </details>
 </details>
-</div>
+
+
+<details><summary>मूलम्</summary>
+
+वरु॑णस्य स्कम्भ॒सर्ज॑नमसि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वरु॑णस्य । स्क॒म्भ॒सर्ज॑न॒मिति॑ स्कम्भ-सर्ज॑नम् । अ॒सि॒ । 
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 7शम्यामुद्वृहति - वरुणस्य स्कम्भसर्जनमसीति ॥ व्याख्यातमेतत् । अत्रापि स एवार्थः । सर्जनं विसर्जनं वेदितव्यम् ॥
 </details>
 
+</div>
 ________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -309,6 +343,13 @@ Varuna's noose is loosened.
 
 उन्मु॑क्तो॒ वरु॑णस्य॒ पाशः॑ ॥
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+उन्मु॑क्त॒ इत्युत्-मु॒क्तः॒ । वरु॑णस्य । पाशः॑ ॥ [17]  
+
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 8योक्त्रमपनयति - उन्मुक्तो वरुणस्य पाश इति ॥ अपनीतोसीत्यर्थः । यद्वा - त्वय्यपनीते वरुणस्य पाशः उन्मुक्तो भवतीति ॥
