@@ -6,10 +6,16 @@ unicode_script = "devanagari"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दि॒वे त्वा᳚  +++(प्रोक्षामि)+++ ।  
-अन्तरि॑ख्षाय त्वा  +++(प्रोक्षामि)+++ ।  
+अ॒न्तरि॑ख्षाय त्वा  +++(प्रोक्षामि)+++ ।  
 पृ॒थि॒व्यै त्वा᳚ +++(प्रोक्षामि)+++ ।
 
 </details>
+
+<details><summary>प्रदीपसिंहः</summary>
+
+अन्तरिक्षाय इत्यत्र सन्नतरः नासीत् । पदपाठे वर्तते ।
+</details>
+
 <details><summary>Keith</summary>
 
 To sky thee, to atmosphere thee, to earth thee!
@@ -23,13 +29,15 @@ To sky thee, to atmosphere thee, to earth thee!
 <details><summary>मूलम्</summary>
 
 दि॒वे त्वा᳚ ।  
-अन्तरि॑ख्षाय त्वा।  
+अ॒न्तरि॑ख्षाय त्वा।  
 पृ॒थि॒व्यै त्वा᳚।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-दि॒वे । त्वा॒ । अ॒न्तरि॑ख्षाय । त्वा॒ । पृ॒थि॒व्यै । त्वा॒ ।
+दि॒वे । त्वा॒ ।   
+अ॒न्तरि॑ख्षाय । त्वा॒ ।   
+पृ॒थि॒व्यै । त्वा॒ ।
 </details>
 
 

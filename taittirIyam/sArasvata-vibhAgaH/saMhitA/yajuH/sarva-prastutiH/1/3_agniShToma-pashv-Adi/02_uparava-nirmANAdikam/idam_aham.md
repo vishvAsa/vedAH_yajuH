@@ -2,20 +2,33 @@
 title = "इदम् अहम्"
 unicode_script = "devanagari"
 +++
+
+<details><summary>मूलम् (संयुक्तम्)</summary>
+
+इदम॒हन्तव्ँव॑ल॒गमुद्व॑पामि॒ यन्न॑स्समा॒नो यमस॑मानो निच॒खाने॒दमे॑न॒मध॑रङ्करोमि॒ यो न॑स्समा॒नो योऽस॑मानोऽराती॒यति॑ 
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ॒दम् अ॒हन् तव्ँ **व॑ल॒गम् उद्व॑पामि॒**  
 यन् न॑स् समा॒नो  
-यम् अस॑मानो निच॒खाने॒दम्।
+यम् अस॑मानो निच॒खान॑।
 </details>
 <details><summary>Keith</summary>
 
 Here do I cast out the spell which an equal or an unequal hath buried against us.
 </details>
 
+
 <details><summary>मूलम्</summary>
 
-इ॒दम॒हन्तव्ँव॑ल॒गमुद्व॑पामि॒ यन्न॑स्समा॒नो यमस॑मानो निच॒खाने॒दम् ...
+इ॒दम॒हन्तव्ँव॑ल॒गमुद्व॑पामि॒   
+यन्न॑स्समा॒नो यमस॑मानो निच॒खान॑ ...
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इ॒दम् । अ॒हम् । तम् । व॒ल॒गमिति॑ वल-गम् । उदिति॑ । व॒पा॒मि॒ । यम् । नः॒ । स॒मा॒नः । यम् । अस॑मानः । नि॒च॒खानेति॑ नि-च॒खान॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -26,7 +39,7 @@ Here do I cast out the spell which an equal or an unequal hath buried against us
 ________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒न॒म् **अध॑रङ् करोमि॒**  
+इ॒दमे॑न॒म् **अध॑रङ् करोमि॒**  
 यो न॑स् समा॒नो  
 योऽस॑मानो ऽराती॒यति॑  
 …
@@ -38,7 +51,14 @@ Here do I overthrow him who equal or unequal is ill-disposed to us.
 
 <details><summary>मूलम्</summary>
 
-ए॒न॒मध॑रङ्करोमि॒ यो न॑स्समा॒नो योऽस॑मानोऽराती॒यति॑ …
+इ॒दमे॑न॒मध॑रङ्करोमि॒ यो न॑स्समा॒नो योऽस॑मानोऽराती॒यति॑ …
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इ॒दम् । ए॒न॒म्॒ । अध॑रम् । क॒रो॒मि॒ ।   
+यः । नः॒ । स॒मा॒नः ।   
+यः । अस॑मानः । अ॒रा॒ती॒यति॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -47,3 +67,8 @@ Here do I overthrow him who equal or unequal is ill-disposed to us.
 
 </details>
 
+<details><summary>प्रदीपसिंहः</summary>
+
+अत्र विश्वासप्रस्तुतौ मूले पि वाक्यविभागे दोषः भाति। निचखानेदम् इदं पूर्ववाक्यम् समाप्तमासीत् । इदम् इति पदम् अग्रिमवाक्यान्वयि । 
+किञ्च – एनमहमधरं अधोगतिं करोमि । इदमिति पूर्ववत्क्रियाविशेषणम् । इति टीका । अतः व्यत्यासः कृतः
+</details>

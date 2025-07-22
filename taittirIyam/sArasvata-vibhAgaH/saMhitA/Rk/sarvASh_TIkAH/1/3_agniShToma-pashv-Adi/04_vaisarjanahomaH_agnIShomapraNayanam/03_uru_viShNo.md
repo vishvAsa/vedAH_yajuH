@@ -12,10 +12,20 @@ Drink the ghee, thou whose birthplace is in the ghee;
 Lengthen (the years) of the lord of the sacrifice.
 </details>
 
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+4आह्वनीये स्रुवाहुतिं जुहोति - उरु विष्णो इति चतुष्पदयानुष्टुभा ॥
+</details>
 <details><summary>मूलम्</summary>
 
 उ॒रु वि॑ष्णो॒ वि क्र॑मस्वो॒रु ख्षया॑य नᳵ कृधि ।  
 घृ॒तङ्घृ॑तयोने पिब॒ प्रप्र॑ य॒ज्ञप॑तिन्तिर ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उ॒रु । वि॒ष्णो॒ इति॑ । वीति॑ । क्र॒म॒स्व॒ । उ॒रु । ख्षया॑य । नः॒ । कृ॒धि॒ ॥   
+घृ॒तम् । घृ॒त॒यो॒न॒ इति॑ घृत-यो॒ने॒ । पि॒ब॒ । प्रप्रेति॒ प्र-प्र॒ । य॒ज्ञप॑ति॒मिति॑ य॒ज्ञ-प॒ति॒म्॒ । ति॒र॒ ॥ 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
