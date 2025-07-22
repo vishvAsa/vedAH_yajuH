@@ -2,6 +2,12 @@
 title = "ओषधे"
 unicode_script = "devanagari"
 +++
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+ऊर्ध्वाग्रं बार्हिर् अनूच्छ्रयति - ओषधे त्रायस्वैनमिति ॥
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ओष॑धे॒ त्राय॑स्वैनम्।
