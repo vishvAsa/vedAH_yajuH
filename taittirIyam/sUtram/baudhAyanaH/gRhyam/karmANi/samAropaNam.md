@@ -5,7 +5,7 @@ title: समारोपणम् अवारोपणम् च
 अथ लौकिकौपासनग्रहणधारणोपावरोहणविधि व्याख्यास्यामः।  
 त्रिविधं समारोपणम् आत्मन्य् अरण्योस् समिधीति ॥ १  
 
-समिाधि समारोपयति- पालाशीमाश्वत्थीं खादिरीमौदुम्बरीं शमीमयी वा समिधमादाय समारोपयति-
+समिधि समारोपयति- पालाशीमाश्वत्थीं खादिरीमौदुम्बरीं शमीमयी वा समिधमादाय समारोपयति-
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/8/19_ayante_yonir.md">
 <details open><summary><h5>19 अयन्ते योनिर् ...{Loading}...</h5></summary>

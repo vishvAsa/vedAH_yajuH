@@ -171,7 +171,7 @@ The Ahavaniya is the abode of the gods, between the fires of cattle, the Garhapa
 
 अ॒ग्निङ् गृ॑ह्णाति ।  
 स्व ए॒वायत॑ने दे॒वता॒ᳶ परि॑ [21] गृह्णाति ।  
-ताश्श्वो भू॒ते य॑जते ।  
+ताश् श्वो भू॒ते य॑जते ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -285,9 +285,9 @@ When about to undertake a vow he should say, 'O Agni, lord of vows, I shall perf
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब॒र्हिषा पू॒र्णमा॑से व्र॒तम् उपै॑ति,  
+ब॒र्हिषा ॑ पू॒र्णमा॑से व्र॒तम् उपै॑ति,  
 व॒थ्सैर् अ॑मावा॒स्या॑याम्।  
-ए॒तद् ध्य् ए॑तयो॑र् आ॒यत॑नम् ।
+ए॒तद् ध्य् ए॒॑तयो॑र् आ॒यत॑नम् ।
 </details>
 <details><summary>Keith</summary>
 
@@ -295,13 +295,13 @@ At the full moon be undertakes his vow with the (strewing of the) straw, with th
 </details>
 <details><summary>मूलम्</summary>
 
-ब॒र्हिषा पू॒र्णमा॑से व्र॒तमुपै॑ति  
+ब॒र्हिषा॑ पू॒र्णमा॑से व्र॒तमुपै॑ति  
 व॒थ्सैर॑मावा॒स्या॑यामे॒तद्ध्ये॑तयो॑रा॒यत॑नम् ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-ब॒र्‌हिषा᳚ । पू॒र्णमा॑स॒ इति॑ पू॒र्ण-मा॒से॒ । व्र॒तम् । उपेति॑ । ए॒ति॒ ।   ़
+ब॒र्हिषा᳚ । पू॒र्णमा॑स॒ इति॑ पू॒र्ण-मा॒से॒ । व्र॒तम् । उपेति॑ । ए॒ति॒ ।   ़
 व॒थ्सैः । अ॒मा॒वा॒स्या॑या॒मित्य॑मा-वा॒स्या॑याम् । ए॒तत् । हि । ए॒तयोः᳚ । आ॒यत॑न॒मित्या᳚-यत॑नम् ।  
 </details>
 
@@ -323,7 +323,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒प॒स्तीर्य॒ᳶ पूर्व॑श् चा॒ग्निर् अप॑र॒श् चेत्या॑हुः ।  
+उ॒प॒स्तीर्य॒ᳶ पूर्व॑श् चा॒ग्निर् अप॑र॒श् चेत्य् आ॑हुः ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -354,7 +354,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-म॒नु॒ष्याः॒ इन् नु+वा उप॑स्तीर्णम् इ॒च्छन्ति॑ +++(गृहम्)+++ -  
+म॒नु॒ष्याः॒॑ इन् न्वा(=नु+वा) उप॑स्तीर्णम् इ॒च्छन्ति॑ +++(गृहम्)+++   
 किम् उ॑ दे॒वा, येषा॒न् नवा॑वसानम्+++(=गृहम्)+++ ।  
 </details>
 <details><summary>Keith</summary>
@@ -389,7 +389,7 @@ men [2] indeed desire what is bestrewed, and, how much more the gods whose is a 
 
 उपा᳚स्मि॒ञ् +++(तस्योपस्तीर्णे)+++ छ्वो य॒ख्ष्यमा॑णे दे॒वता॑ वसन्ति   
 
-य ए॒वव्ँवि॒द्वान॒ग्निमु॑पस्तृ॒णाति ।
+य ए॒वव्ँ वि॒द्वान् अ॒ग्निम् उ॑पस्तृ॒णाति॑ ।
 </details>
 <details><summary>Keith</summary>
 
@@ -401,7 +401,7 @@ With him, when sacrifice is to be made on the next day, do the gods dwell, who k
 
 उपा᳚स्मि॒ञ् छ्वो य॒ख्ष्यमा॑णे दे॒वता॑ वसन्ति,  
 
-य ए॒वव्ँ वि॒द्वान् अ॒ग्निम् उ॑पस्तृ॒णाति ।
+य ए॒वव्ँ वि॒द्वान् अ॒ग्निम् उ॑पस्तृ॒णाति॑ ।
 </details>
 
 <details><summary>पद-पाठः</summary>
