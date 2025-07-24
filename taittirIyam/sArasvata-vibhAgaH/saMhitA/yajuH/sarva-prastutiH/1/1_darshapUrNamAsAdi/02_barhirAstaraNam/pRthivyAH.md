@@ -16,7 +16,7 @@ Guard from the contact of earth.
 
 <details><summary>मूलम्</summary>
 
-पृ॒थि॒व्यास्स॒म्पृच॑ᳶ पाहि ।
+पृ॒थि॒व्यास् स॒म्पृच॑ᳶ पाहि ।
 </details>
 
 <details><summary>पद-पाठः</summary>

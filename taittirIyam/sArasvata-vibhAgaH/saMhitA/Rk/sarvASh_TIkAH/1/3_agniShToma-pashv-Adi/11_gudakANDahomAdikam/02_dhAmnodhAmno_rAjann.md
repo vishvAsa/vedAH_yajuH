@@ -4,6 +4,14 @@ title = "02 धाम्नोधाम्नो राजन्न्"
 +++
 
 
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+धाम्नो॑धाम्नो+++(=शृङ्खलाभ्यो)+++ राजन्न्  
+इ॒तो व॑रुण नो मुञ्च ।  
+यद् "+++(श्रुणुत)+++ आपो॒ अघ्नि॑या॒ +++(→गावः)+++ वरु॒णे"ति॒ शपा॑महे॒  
+ततो॑ वरुण नो मुञ्च ॥
+</details>
+
 <details><summary>Keith</summary>
 
 From every rule of thine, O King Varuna, set us free;  
@@ -14,6 +22,13 @@ From whatever oath by the waters, by the kine, by Varuna, we have sworn, From th
 
 धाम्नो॑धाम्नो राजन्नि॒तो व॑रुण नो मुञ्च ।  
 यदापो॒ अघ्नि॑या॒ वरु॒णेति॒ शपा॑महे॒ ततो॑ वरुण नो मुञ्च ॥
+</details>
+
+
+<details><summary>पद-पाठः</summary>
+
+धाम्नो॑धाम्न॒ इति॒ धाम्नः॑-धा॒म्नः॒ । रा॒ज॒न्न्॒ । इ॒तः । व॒रु॒ण॒ । नः॒ । मु॒ञ्च॒ ।  
+यत् । आपः॑ । अघ्नि॑याः । वरु॑ण । इति॑ । शपा॑महे । ततः॑ । व॒रु॒ण॒ । नः॒ । मु॒ञ्च॒ ॥ [20]
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

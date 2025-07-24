@@ -2,6 +2,9 @@
 title = "रौद्रेण"
 unicode_script = "devanagari"
 +++
+
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रौद्रे॒णानी॑केन पा॒हि मा᳚ऽग्ने।  

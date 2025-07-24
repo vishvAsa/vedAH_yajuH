@@ -3,6 +3,10 @@ title = "02 ते ते"
 
 +++
 
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+11यूपं वैष्णवीभ्यामृग्भ्यां कल्प्यति स्थापयति - ते ते धामानि ... विष्णोः कर्माणि पश्यतेति ॥
+</details>
 
 <details><summary>Keith</summary>
 
@@ -10,6 +14,14 @@ To these dwellings of thine are we fain+++(=apt)+++ to go,
 Where are the many-horned active kine;  
 There is resplendent the highest step  
 Of the wide-stepping Visnu, the mighty!
+</details>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+ते ते॒ धामा᳚न्य् उश्मसि+++(=इच्छामो)+++ ग॒मध्ये॒+++(=गन्तुं)+++  
+गावो॒+++(→रश्मयः)+++ यत्र॒ भूरि॑-शृङ्गा अ॒यासः॑+++(=गमनशीलाः)+++ ।   
+अत्राह॒ तद्-उ॑रुगा॒यस्य॒ विष्णोः᳚  
+पर॒मम् प॒दम् अव॑ भाति॒ भूरेः᳚ ॥
 </details>
 
 <details><summary>मूलम्</summary>
