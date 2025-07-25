@@ -615,7 +615,7 @@ Hail! go to Urdhva-nabhas, offspring of the Maruts.
 
 <details><summary>पद-पाठः</summary>
 
-स्वाहा᳚ । 
+स्वाहा᳚ ।  
 ऊ॒र्ध्वन॑भस॒मित्यू॒र्ध्व-न॒भ॒स॒म्॒ । मा॒रु॒तम् । ग॒च्छ॒त॒म्॒ ॥ [17]
 
 </details>
