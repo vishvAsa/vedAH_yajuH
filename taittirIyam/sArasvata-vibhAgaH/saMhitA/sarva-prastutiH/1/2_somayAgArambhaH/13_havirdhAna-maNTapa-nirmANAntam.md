@@ -392,7 +392,7 @@ Ye two, famed among the gods, make proclamation among the gods.
 </details>
 <details><summary>पद-पाठः</summary>
 
-सु॒वागिति॑ सु-वाक् । दे॒व॒ । दुर्यान्॑ । एति॑ । व॒द॒ ।   
+सु॒वागिति॑ सु-वाक् । दे॒व॒ । दुर्या॑न् । एति॑ । व॒द॒ ।   
 दे॒व॒श्रुता॒विति॑ देव-श्रुतौ᳚ । दे॒वेषु॑ । एति॑ । घो॒षे॒था॒म्॒ ।
 
 </details>

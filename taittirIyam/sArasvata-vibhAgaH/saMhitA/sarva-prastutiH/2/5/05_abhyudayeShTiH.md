@@ -1148,7 +1148,7 @@ Just as a great man who has attained (fortune) desires (and does), so he does.
 </details>
 <details><summary>पद-पाठः</summary>
 
-यथा᳚ । खलु॑ । वै । श्रेयान्॑ । अ॒भ्यारू॑ढ॒ इत्य॑भि-आरू॑ढः । का॒मय॑ते । तथा᳚ । क॒रो॒ति॒ ।  
+यथा᳚ । खलु॑ । वै । श्रेया॑न् । अ॒भ्यारू॑ढ॒ इत्य॑भि-आरू॑ढः । का॒मय॑ते । तथा᳚ । क॒रो॒ति॒ ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

@@ -1025,7 +1025,7 @@ Drive afar the foes with all thy strength.
 </details>
 <details><summary>पद-पाठः</summary>
 
-आ॒रे । शत्रून्॑ । कृ॒णु॒हि॒ । सर्व॑वीर॒ इति॒ सर्व॑-वी॒रः॒ ।  
+आ॒रे । शत्रू॑न् । कृ॒णु॒हि॒ । सर्व॑वीर॒ इति॒ सर्व॑-वी॒रः॒ ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

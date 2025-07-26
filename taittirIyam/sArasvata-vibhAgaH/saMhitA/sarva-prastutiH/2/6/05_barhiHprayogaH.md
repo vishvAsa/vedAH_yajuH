@@ -682,7 +682,7 @@ He strews it upwards, for upwards is as it were connected with a man; verily a m
 <details><summary>पद-पाठः</summary>
 
 ऊ॒र्ध्वम् । उदिति॑ । यौ॒ति॒ ।  
-ऊ॒र्ध्वम् । इ॒व॒ । हि । पु॒ꣳ॒सः । पुमान्॑ । ए॒व । अ॒स्य॒ । जा॒य॒ते॒ । 4 ।
+ऊ॒र्ध्वम् । इ॒व॒ । हि । पु॒ꣳ॒सः । पुमा॑न् । ए॒व । अ॒स्य॒ । जा॒य॒ते॒ । 4 ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

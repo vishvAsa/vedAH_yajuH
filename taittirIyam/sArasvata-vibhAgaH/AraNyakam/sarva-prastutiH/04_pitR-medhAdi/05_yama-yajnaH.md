@@ -1128,7 +1128,7 @@ Dem König Jama giesset nun die Butter zu, die süsseste; Bringt dies Gebet den 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yajnaH/04_hiraNyakaxyAn_sudhurAn.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-हि॒र॒ण्य॒-क॒क्ष्यान्+++(=कुक्षीन्)+++ सु॒-धुरान्॑  
+हि॒र॒ण्य॒-क॒क्ष्यान्+++(=कुक्षीन्)+++ सु॒-धुरा॑न्  
 हिरण्या॒ख्षान् अ॑यश्-श॒फान् ।  
 अश्वा॑न् अ॒नश्य॑तो दा॒न॒य्ँ  
 य॒मो रा॑जाभि॒ **तिष्ठ॑ति** ।  
@@ -1139,7 +1139,7 @@ Dem König Jama giesset nun die Butter zu, die süsseste; Bringt dies Gebet den 
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
-हि॒र॒ण्य॒क॒क्ष्यान् सु॒धुरान्॑ हिरण्या॒ख्षान॑यश्श॒फान् ।  
+हि॒र॒ण्य॒क॒क्ष्यान् सु॒धुरा॑न् हिरण्या॒ख्षान॑यश्श॒फान् ।  
 अश्वा॑न॒नश्य॑तो दा॒न॒य्ँय॒मो रा॑जाभि॒ तिष्ठ॑ति ।
 </details>
 </details>

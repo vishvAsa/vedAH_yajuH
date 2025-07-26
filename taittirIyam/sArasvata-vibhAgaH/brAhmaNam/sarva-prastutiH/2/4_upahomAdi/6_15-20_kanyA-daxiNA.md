@@ -90,7 +90,7 @@ title = "६ १५-२० कन्या-दक्षिणा"
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/6_15-20_kanyA-daxiNA/11_yathA-hamasyA_atRpa.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-यथा॒ऽहम॒स्या **अतृ॑पꣵ** स्त्रि॒यै पुमान्॑ ।  
+यथा॒ऽहम॒स्या **अतृ॑पꣵ** स्त्रि॒यै पुमा॑न् ।  
 यथा॒ स्त्री **तृप्य॑ति** पु॒ꣳ॒सि प्रि॒ये प्रि॒या ।  
 ए॒वम् भग॑स्य **तृप्याणि** ॥56॥  
 य॒ज्ञस्य॒ काम्य॑ᳶ प्रि॒यः ।
@@ -100,7 +100,7 @@ title = "६ १५-२० कन्या-दक्षिणा"
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
-यथा॒ऽहम॒स्या अतृ॑पꣵ स्त्रि॒यै पुमान्॑ ।  
+यथा॒ऽहम॒स्या अतृ॑पꣵ स्त्रि॒यै पुमा॑न् ।  
 यथा॒ स्त्री तृप्य॑ति पु॒ꣳ॒सि प्रि॒ये प्रि॒या ।  
 ए॒वम्भग॑स्य तृप्याणि ॥56॥  
 य॒ज्ञस्य॒ काम्य॑ᳶ प्रि॒यः ।

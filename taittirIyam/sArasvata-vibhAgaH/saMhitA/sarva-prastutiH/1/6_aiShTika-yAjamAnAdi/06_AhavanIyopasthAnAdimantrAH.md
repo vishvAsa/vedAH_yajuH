@@ -535,7 +535,7 @@ Be rich the sacrifice; may I be rich.
 </details>
 <details><summary>पद-पाठः</summary>
 
-वसु॑मा॒निति॒ वसु॑-मा॒न्॒ । य॒ज्ञः । वसी॑यान् । भू॒या॒स॒म्॒ । 
+वसु॑मा॒निति॒ वसु॑-मा॒॒न् । य॒ज्ञः । वसी॑यान् । भू॒या॒स॒म्॒ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1347,7 +1347,7 @@ May it make us overlords,
 </details>
 <details><summary>पद-पाठः</summary>
 
-सः । अ॒स्मान् । अधि॑पती॒नित्यधि॑-प॒ती॒न्॒ । क॒रो॒तु॒ । 
+सः । अ॒स्मान् । अधि॑पती॒नित्यधि॑-प॒ती॒॒न् । क॒रो॒तु॒ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1398,7 +1398,7 @@ _______
 गोमाꣳ॑ अ॒ग्ने, ऽवि॑माꣳ, अ॒श्वी **य॒ज्ञो**  
 नृ॒वथ्+++(→देव)+++-स॑खा॒ सद॒म्+++(=सदा)+++ इद् अ॑प्रमृ॒ष्यः ।  
 इडा॑वाꣳ ए॒षो +++(→य॒ज्ञो)+++ अ॑सुर प्र॒जावा᳚न्  
-दी॒र्घो र॒यिᳶ पृ॑थु-बु॒ध्नस्+++(=मूलः)+++ स॒भावान्॑ ॥ [20]
+दी॒र्घो र॒यिᳶ पृ॑थु-बु॒ध्नस्+++(=मूलः)+++ स॒भावा॑न् ॥ [20]
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/06_AhavanIyopasthAnAdimantrAH/02_gomAM_agne.md">
@@ -1413,7 +1413,7 @@ Enduring wealth, deep based and rich in houses.
 <details><summary>मूलम्</summary>
 
 गोमाꣳ॑ अ॒ग्नेऽवि॑माꣳ अ॒श्वी य॒ज्ञो नृ॒वथ्स॑खा॒ सद॒मिद॑प्रमृ॒ष्यः ।  
-इडा॑वाꣳ ए॒षो अ॑सुर प्र॒जावा᳚न्दी॒र्घो र॒यिᳶ पृ॑थुबु॒ध्नस्स॒भावान्॑ ॥ [20]
+इडा॑वाꣳ ए॒षो अ॑सुर प्र॒जावा᳚न्दी॒र्घो र॒यिᳶ पृ॑थुबु॒ध्नस्स॒भावा॑न् ॥ [20]
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

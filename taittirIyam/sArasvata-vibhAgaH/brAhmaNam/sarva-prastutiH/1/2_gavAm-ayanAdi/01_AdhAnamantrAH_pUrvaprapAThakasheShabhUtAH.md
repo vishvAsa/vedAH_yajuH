@@ -626,7 +626,7 @@ unicode_script: devanagari
 प्रवे॒धसे॑ क॒वये॒ मेध्या॑य ।  
 वचो॑ व॒न्दारु॑ वृष॒भाय॒ वृष्णे᳚ ।  
 यतो॑ भ॒यम् अभ॑य॒न् तन् नो॑ अस्तु ।  
-अव॑ दे॒वान् य॑जे॒हेड्यान्॑ ।
+अव॑ दे॒वान् य॑जे॒हेड्या॑न् ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/2_gavAm-ayanAdi/1/90_pravedhase_kavaye.md">
@@ -636,7 +636,7 @@ unicode_script: devanagari
 प्रवे॒धसे॑ क॒वये॒ मेध्या॑य ।  
 वचो॑ व॒न्दारु॑ वृष॒भाय॒ वृष्णे᳚ ।  
 यतो॑ भ॒यम् अभ॑य॒न् तन् नो॑ अस्तु ।  
-अव॑ दे॒वान् य॑जे॒हेड्यान्॑ ।
+अव॑ दे॒वान् य॑जे॒हेड्या॑न् ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -1099,7 +1099,7 @@ unicode_script: devanagari
 जात॑वेदो॒ भुव॑नस्य॒ रेतः॑।  
 इ॒ह सि॑ञ्च॒ तप॑सो॒ यज् ज॑नि॒ष्यते᳚ ॥15॥  
 अ॒ग्निम् अ॑श्व॒त्थाद् अधि॑ हव्य॒वाह᳚म् ।   
-श॒मी-॒ग॒र्भाज् ज॒नय॒न्॒ यो म॑यो॒भूः ।
+श॒मी-॒ग॒र्भाज् ज॒नय॒॒न् यो म॑यो॒भूः ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/2_gavAm-ayanAdi/1/157_jAtavedo_bhuvanasya.md">
@@ -1109,7 +1109,7 @@ unicode_script: devanagari
 जात॑वेदो॒ भुव॑नस्य॒ रेतः॑।  
 इ॒ह सि॑ञ्च॒ तप॑सो॒ यज् ज॑नि॒ष्यते᳚ ॥15॥  
 अ॒ग्निम् अ॑श्व॒त्थाद् अधि॑ हव्य॒वाह᳚म् ।   
-श॒मी-॒ग॒र्भाज् ज॒नय॒न्॒ यो म॑यो॒भूः ।
+श॒मी-॒ग॒र्भाज् ज॒नय॒॒न् यो म॑यो॒भूः ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -1945,7 +1945,7 @@ unicode_script: devanagari
 चतु॑श् शिखण्डा युव॒तिस् सु॒पेशाः॑ ।  
 घृ॒त-प्र॑तीका॒ भुव॑नस्य॒ मध्ये᳚ ।  
 म॒र्मृ॒ज्यमा॑ना मह॒ते सौभ॑गाय ।   
-मह्य॑न् धुख्ष्व॒ यज॑मानाय॒ कामान्॑ ।
+मह्य॑न् धुख्ष्व॒ यज॑मानाय॒ कामा॑न् ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/2_gavAm-ayanAdi/1/275_chatush_shikhaNDA.md">
@@ -1955,7 +1955,7 @@ unicode_script: devanagari
 चतु॑श् शिखण्डा युव॒तिस् सु॒पेशाः॑ ।  
 घृ॒त-प्र॑तीका॒ भुव॑नस्य॒ मध्ये᳚ ।  
 म॒र्मृ॒ज्यमा॑ना मह॒ते सौभ॑गाय ।   
-मह्य॑न् धुख्ष्व॒ यज॑मानाय॒ कामान्॑ ।
+मह्य॑न् धुख्ष्व॒ यज॑मानाय॒ कामा॑न् ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

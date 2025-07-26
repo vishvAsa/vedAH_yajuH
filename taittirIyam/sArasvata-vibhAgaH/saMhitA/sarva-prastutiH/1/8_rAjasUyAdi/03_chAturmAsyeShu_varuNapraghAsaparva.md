@@ -43,7 +43,7 @@ and on one potsherd to Ka.
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-प्रघा॒स्यान्॑ हवामहे म॒रुतो॑ य॒ज्ञवा॑हसᳵ कर॒म्भेण॑ स॒जोष॑सः ॥
+प्रघा॒स्या॑न् हवामहे म॒रुतो॑ य॒ज्ञवा॑हसᳵ कर॒म्भेण॑ स॒जोष॑सः ॥
 </details>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -52,7 +52,7 @@ and on one potsherd to Ka.
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/03_chAturmAsyeShu_varuNapraghAsaparva/02_praghAsyAn_havAmahe.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-+++(वरुण-)+++प्र॒घा॒स्यान्॑ **हवामहे**  
++++(वरुण-)+++प्र॒घा॒स्या॑न् **हवामहे**  
 म॒रुतो॑ य॒ज्ञ-वा॑हसः ।  
 क॒र॒म्भेण॑+++(=दधि-सर्पिर्-मिश्रास् सक्तवः)+++ स॒जोष॑सः ॥
 </details>
@@ -67,7 +67,7 @@ Rejoicing in the mush.
 </details>
 <details><summary>मूलम्</summary>
 
-प्र॒घा॒स्यान्॑ हवामहे म॒रुतो॑ य॒ज्ञवा॑हसः ।   
+प्र॒घा॒स्या॑न् हवामहे म॒रुतो॑ य॒ज्ञवा॑हसः ।   
 कर॒म्भेण॑ स॒जोष॑सः  ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>

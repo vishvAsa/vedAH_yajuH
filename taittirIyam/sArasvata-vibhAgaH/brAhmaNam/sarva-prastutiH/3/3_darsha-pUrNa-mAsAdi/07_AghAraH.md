@@ -229,13 +229,13 @@ unicode_script: devanagari
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प॒रि॒धीन्थ् सम्मा᳚र्ष्टि ।  
-पु॒नात्य् ए॒वैनान्॑ ।   
+पु॒नात्य् ए॒वैना॑न् ।   
 </details>
 
 <details><summary>मूलम्</summary>
 
 प॒रि॒धीन्थ्सम्मा᳚र्ष्टि ।  
-पु॒नात्ये॒वैनान्॑ ।   
+पु॒नात्ये॒वैना॑न् ।   
 </details>
 
 <details><summary>सायण-टीका</summary>

@@ -81,7 +81,7 @@ may I accomplish thy pressing, O god Soma.
 </details>
 <details><summary>पद-पाठः</summary>
 
-एति॑ । प्या॒य॒य॒ । सखीन्॑ । स॒न्या । मे॒धया᳚ ।   
+एति॑ । प्या॒य॒य॒ । सखी॑न् । स॒न्या । मे॒धया᳚ ।   
 स्व॒स्ति । ते॒ । दे॒व॒ । सो॒म॒ ।  
 सु॒त्याम् । अ॒शी॒य॒ । 
 </details>
