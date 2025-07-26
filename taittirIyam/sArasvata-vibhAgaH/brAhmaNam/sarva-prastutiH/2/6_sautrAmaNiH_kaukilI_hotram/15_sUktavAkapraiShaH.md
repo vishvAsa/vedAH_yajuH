@@ -167,12 +167,12 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उपो॑ उक्थाम॒दाश्श्रौ॒द्विमदा॑ अदन्न् ।  
+उपो॑ उक्थाम॒दाश्श्रौ॒द्विमदा॑ अदन् ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
-उपो॑ उक्थाम॒दाश्श्रौ॒द्विमदा॑ अदन्न् ।  
+उपो॑ उक्थाम॒दाश्श्रौ॒द्विमदा॑ अदन् ।  
 </details>
 
 <details><summary>सायण-टीका</summary>

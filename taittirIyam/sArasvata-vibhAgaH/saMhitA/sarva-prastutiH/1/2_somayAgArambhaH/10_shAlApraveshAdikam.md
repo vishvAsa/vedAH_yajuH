@@ -461,7 +461,7 @@ for the mightiest in strength I seize thee.
 </details>
 <details><summary>पद-पाठः</summary>
 
-शक्म॑न्न् । ओजि॑ष्ठाय । त्वा॒ । गृ॒ह्णा॒मि॒ । 
+शक्म॑न् । ओजि॑ष्ठाय । त्वा॒ । गृ॒ह्णा॒मि॒ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

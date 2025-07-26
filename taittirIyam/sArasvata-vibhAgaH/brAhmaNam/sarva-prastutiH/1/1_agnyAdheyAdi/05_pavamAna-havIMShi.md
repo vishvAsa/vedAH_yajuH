@@ -179,12 +179,12 @@ unicode_script: devanagari
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र॒जाप॑तिᳶ प्र॒जा अ॑सृजत ।
-ता अ॑स्माथ् सृ॒ष्टाᳶ परा॑चीर् आयन्न् ।
+ता अ॑स्माथ् सृ॒ष्टाᳶ परा॑चीर् आयन् ।
 </details>
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑तिᳶ प्र॒जा अ॑सृजत ।
-ता अ॑स्माथ् सृ॒ष्टाᳶ परा॑चीर् आयन्न् ।
+ता अ॑स्माथ् सृ॒ष्टाᳶ परा॑चीर् आयन् ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -223,7 +223,7 @@ unicode_script: devanagari
 </details>
 <details><summary>मूलम्</summary>
 
-उ॒परी॑वा॒ग्निम् उद् गृ॑ह्णीयाद् उ॒द्धर॑न्न् ।   
+उ॒परी॑वा॒ग्निम् उद् गृ॑ह्णीयाद् उ॒द्धर॑न् ।   
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -631,7 +631,7 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 पा॒र्श्व॒त आक्र॑मयेत् ।  
-यथा ऽऽहि॑तस्य +अ॒ग्नेर् अङ्गा॑रा अभ्य् अव॒वर्ते॑रन्न् ।
+यथा ऽऽहि॑तस्य +अ॒ग्नेर् अङ्गा॑रा अभ्य् अव॒वर्ते॑रन् ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

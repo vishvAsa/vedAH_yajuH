@@ -254,7 +254,7 @@ The Angirases were the last to go hence to the world of heaven. The Rsis came to
 <details><summary>मूलम्</summary>
 
 अङ्गि॑रसो॒ वा इ॒त उ॑त्त॒मास्सु॑व॒र्गल्ँलो॒कमा॑यन् ।  
-तदृष॑यो यज्ञवा॒स्त्व॑भ्य॒वाय॑न्न् ।  
+तदृष॑यो यज्ञवा॒स्त्व॑भ्य॒वाय॑न् ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

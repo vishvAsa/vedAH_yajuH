@@ -1072,7 +1072,7 @@ There rest on the height of the earth.
 </details>
 <details><summary>पद-पाठः</summary>
 
-अत्र॑ । र॒मे॒था॒म्॒ । वर्ष्म॑न्न् । पृ॒थि॒व्याः । 
+अत्र॑ । र॒मे॒था॒म्॒ । वर्ष्म॑न् । पृ॒थि॒व्याः । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

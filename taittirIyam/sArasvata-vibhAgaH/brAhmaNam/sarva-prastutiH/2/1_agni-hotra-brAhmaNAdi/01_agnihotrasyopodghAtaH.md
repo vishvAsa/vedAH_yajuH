@@ -60,7 +60,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-ते᳚ऽब्रुवन्न् ।
+ते᳚ऽब्रुवन् ।
 "कस्मै॒ नु स॒त्रमा᳚स्महे ।
 ये᳚ऽस्या ओष॑धी॒र्न ज॒नया॑म॒" इति॑ ।
 </details>
@@ -146,7 +146,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-ते᳚ऽब्रुवन्न् ।
+ते᳚ऽब्रुवन् ।
 "क इ॒दमि॒त्थम॑क॒"रिति॑ ।
 </details>
 
@@ -162,7 +162,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-"व॒यम्भा॑ग॒धेय॑मि॒च्छमा॑ना॒" इति॑ पि॒तरो᳚ऽब्रुवन्न् ।
+"व॒यम्भा॑ग॒धेय॑मि॒च्छमा॑ना॒" इति॑ पि॒तरो᳚ऽब्रुवन् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -192,7 +192,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-"अ॒ग्नि॒हो॒त्र ए॒व नोऽप्य॒स्त्वि"त्य॑ब्रुवन्न् ।
+"अ॒ग्नि॒हो॒त्र ए॒व नोऽप्य॒स्त्वि"त्य॑ब्रुवन् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -203,7 +203,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-तेभ्य॑ ए॒तद्भा॑ग॒धेय॒म्प्राय॑च्छन्न् ।
+तेभ्य॑ ए॒तद्भा॑ग॒धेय॒म्प्राय॑च्छन् ।
 यद्धु॒त्वा नि॒मार्ष्टि॑ ।
 </details>
 
@@ -230,7 +230,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-ततो॒ वै त ओष॑धीरस्वदयन्न् ।
+ततो॒ वै त ओष॑धीरस्वदयन् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -270,7 +270,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-ते व॒थ्समु॒पावा॑सृजन्न् ।  
+ते व॒थ्समु॒पावा॑सृजन् ।  
 इ॒दन्नो॑ ह॒व्यम्प्रदा॑प॒येति॑ ।
 </details>
 
@@ -301,7 +301,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-दश॑ मा॒ रात्री᳚र्जा॒तन्न दो॑हन्न् ।
+दश॑ मा॒ रात्री᳚र्जा॒तन्न दो॑हन् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

@@ -554,7 +554,7 @@ Die sieben Ströme wahren schutzreich seinen Ruhm, die weiten Erd' und Himmel se
 <details><summary>मूलम्</summary>
 
 आपो॑ भ॒द्रा घृ॒तमिदाप॑ आसुर् - अ॒ग्नीषोमौ॑ बिभ्र॒त्याप॒ इत्ताः ।  
-ती॒व्रो रसो॑ मधु॒पृचा॑मरङ्ग॒म आ मा᳚ प्रा॒णेन॑ स॒ह वर्च॑सा गन्न् ।
+ती॒व्रो रसो॑ मधु॒पृचा॑मरङ्ग॒म आ मा᳚ प्रा॒णेन॑ स॒ह वर्च॑सा गन् ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -2966,7 +2966,7 @@ Was war der Wald, und was war jener Baum doch, aus dem sie Erd' und Himmel schö
 ब्रह्म॒ वन॒म्ब्रह्म॒ स वृ॒ख्ष आ॑सीत् ॥ 76 ॥  
 यतो॒ द्यावा॑पृथि॒वी नि॑ष्टत॒ख्षुः ।   
 मनी॑षिणो॒ मन॑सा॒ विब्र॑वीमि वः ।  
-ब्रह्मा॒ध्यति॑ष्ठ॒द्भुव॑नानि धा॒रय॑न्न् ।
+ब्रह्मा॒ध्यति॑ष्ठ॒द्भुव॑नानि धा॒रय॑न् ।
 </details>
 <details><summary>सायण-टीका</summary>
 

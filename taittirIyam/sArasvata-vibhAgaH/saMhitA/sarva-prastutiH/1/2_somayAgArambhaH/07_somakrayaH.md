@@ -339,7 +339,7 @@ Enter the right thigh of Indra, glad the glad, tender the tender.
 <details><summary>पद-पाठः</summary>
 
 इन्द्र॑स्य । ऊ॒रुम् । एति॑ । वि॒श॒ । दख्षि॑णम् ।  
-उ॒शन्न् । उ॒शन्त᳚म् ।   
+उ॒शन् । उ॒शन्त᳚म् ।   
 स्यो॒नः । स्यो॒नम् । 
 </details>
 

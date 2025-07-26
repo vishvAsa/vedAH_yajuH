@@ -249,7 +249,7 @@ unicode_script: devanagari
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अ॒न्त॒राऽग्नी प॒शवः॑ ।  
-दे॒व॒स॒ꣳ॒सद॒माग॑मन्न् ।  
+दे॒व॒स॒ꣳ॒सद॒माग॑मन् ।  
 तान्पूर्व॒ᳶ परि॑गृह्णामि ।  
 स्व आ॒यत॑ने मनी॒षया᳚ ।
 </details>
@@ -259,7 +259,7 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 अ॒न्त॒राऽग्नी प॒शवः॑ ।  
-दे॒व॒स॒ꣳ॒सद॒माग॑मन्न् ।  
+दे॒व॒स॒ꣳ॒सद॒माग॑मन् ।  
 तान्पूर्व॒ᳶ परि॑गृह्णामि ।  
 स्व आ॒यत॑ने मनी॒षया᳚ ।
 </details>
@@ -596,7 +596,7 @@ unicode_script: devanagari
 या जा॒ता ओष॑धयः ।  
 दे॒वेभ्य॑स्त्रियु॒गम्पु॒रा ।  
 तासा॒म्पर्व॑ राध्यासम् ।  
-प॒रि॒स्त॒रमा॒हर॑न्न् ।
+प॒रि॒स्त॒रमा॒हर॑न् ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/7_achChidra-prAyashchittAdi/04/80_yA_jAtA.md">
@@ -606,7 +606,7 @@ unicode_script: devanagari
 या जा॒ता ओष॑धयः ।  
 दे॒वेभ्य॑स्त्रियु॒गम्पु॒रा ।  
 तासा॒म्पर्व॑ राध्यासम् ।  
-प॒रि॒स्त॒रमा॒हर॑न्न् ।
+प॒रि॒स्त॒रमा॒हर॑न् ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -888,7 +888,7 @@ unicode_script: devanagari
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 उ॒प॒वे॒षो॑ऽसि य॒ज्ञाय॑ ।  
-त्वाम्प॑रिवे॒षम॑धारयन्न् ।  
+त्वाम्प॑रिवे॒षम॑धारयन् ।  
 इन्द्रा॑य ह॒विᳵ कृ॒ण्वन्तः॑ ।  
 शि॒वश्श॒ग्मो भ॑वासि नः ॥36॥
 </details>
@@ -898,7 +898,7 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 उ॒प॒वे॒षो॑ऽसि य॒ज्ञाय॑ ।  
-त्वाम्प॑रिवे॒षम॑धारयन्न् ।  
+त्वाम्प॑रिवे॒षम॑धारयन् ।  
 इन्द्रा॑य ह॒विᳵ कृ॒ण्वन्तः॑ ।  
 शि॒वश्श॒ग्मो भ॑वासि नः ॥36॥
 </details>

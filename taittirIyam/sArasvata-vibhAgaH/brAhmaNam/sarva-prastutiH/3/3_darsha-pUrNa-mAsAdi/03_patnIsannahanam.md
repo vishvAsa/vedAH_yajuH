@@ -8,14 +8,14 @@ unicode_script: devanagari
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ-य॑ज्ञो॒ वा ए॒ष यो᳕ऽप॒त्नीकः॑ ।  
-न प्र॒जाᳶ प्रजा॑येरन्न् ।
+न प्र॒जाᳶ प्रजा॑येरन् ।
 </details>
 
 <details><summary>मूलम्</summary>
 
 अय॑ज्ञो॒ वा ए॒षः ।
 यो॑ऽप॒त्नीकः॑ ।
-न प्र॒जाᳶ प्रजा॑येरन्न् ।
+न प्र॒जाᳶ प्रजा॑येरन् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
