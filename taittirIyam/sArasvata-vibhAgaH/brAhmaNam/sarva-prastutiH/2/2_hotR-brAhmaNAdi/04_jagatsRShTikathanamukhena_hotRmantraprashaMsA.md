@@ -108,12 +108,12 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒तावान्॑ यज्ञक्र॒तुः +++(आसीत्)+++।
+ए॒तावा॑न् यज्ञक्र॒तुः +++(आसीत्)+++।
 </details>
 
 <details><summary>मूलम्</summary>
 
-ए॒तावान्॑ यज्ञक्र॒तुः +++(आसीत्)+++।
+ए॒तावा॑न् यज्ञक्र॒तुः +++(आसीत्)+++।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

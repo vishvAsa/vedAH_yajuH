@@ -206,7 +206,7 @@ Ye divine waters, make it palatable, a very palatable offering for the gods.
 </details>
 <details><summary>पद-पाठः</summary>
 
-स्वा॒त्तम् । चि॒त्॒ । सदे॑व॒मिति॒ स-दे॒व॒म्॒ । ह॒व्यम् । आपः॑ । दे॒वीः॒ । स्वद॑त । ए॒न॒म्॒ । 
+स्वा॒त्तम् । चि॒त् । सदे॑व॒मिति॒ स-दे॒व॒म् । ह॒व्यम् । आपः॑ । दे॒वीः॒ । स्वद॑त । ए॒न॒म् । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -247,7 +247,7 @@ Let thy breath be united with the wind,
 </details>
 <details><summary>पद-पाठः</summary>
 
-समिति॑ । ते॒ । प्रा॒ण इति॑ प्र-अ॒नः । वा॒युना᳚ । ग॒च्छ॒ता॒म्॒ । 
+समिति॑ । ते॒ । प्रा॒ण इति॑ प्र-अ॒नः । वा॒युना᳚ । ग॒च्छ॒ता॒म् । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -330,7 +330,7 @@ Anointed with ghee, do ye guard the beast.
 </details>
 <details><summary>पद-पाठः</summary>
 
-घृ॒तेन॑ । अ॒क्तौ । प॒शुम् । त्रा॒ये॒था॒म्॒ । 
+घृ॒तेन॑ । अ॒क्तौ । प॒शुम् । त्रा॒ये॒था॒म् । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -361,7 +361,7 @@ Ye wealthy ones, do ye kindly resort to the lord of the sacrifice.
 </details>
 <details><summary>पद-पाठः</summary>
 
-रेव॑तीः । य॒ज्ञप॑ति॒मिति॑ य॒ज्ञ-प॒ति॒म्॒ । प्रि॒य॒धेति॑ प्रिय-धा । एति॑ । वि॒श॒त॒ ।
+रेव॑तीः । य॒ज्ञप॑ति॒मिति॑ य॒ज्ञ-प॒ति॒म् । प्रि॒य॒धेति॑ प्रिय-धा । एति॑ । वि॒श॒त॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -423,7 +423,7 @@ make the sacrifice of the lord of the sacrifice most successful.
 </details>
 <details><summary>पद-पाठः</summary>
 
-वर्‌षी॑यः । वर्‌षी॑यसि । य॒ज्ञे । य॒ज्ञप॑ति॒मिति॑ य॒ज्ञ-प॒ति॒म्॒ । धाः॒ । 
+वर्‌षी॑यः । वर्‌षी॑यसि । य॒ज्ञे । य॒ज्ञप॑ति॒मिति॑ य॒ज्ञ-प॒ति॒म् । धाः॒ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

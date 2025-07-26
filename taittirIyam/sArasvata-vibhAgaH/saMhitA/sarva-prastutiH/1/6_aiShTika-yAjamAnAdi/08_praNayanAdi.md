@@ -60,8 +60,8 @@ He who offers sacrifice without faith, they place not faith in his sacrifice. He
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद् आ॑हु॒र् - "अति॒ वा ए॒ता +++(आपो)+++ वर्त्र॑न्+++(=रोधं)+++ नेद॒न्त्य्+++(=यन्ति)+++, अति॒ वाच॑म्।   
-मनो॒ वावैता नाति॑ नेद॒न्ती"ति ।  
+तद् आ॑हु॒र् - "अति॒ वा ए॒ता +++(आपो)+++ वर्त्र॑न्+++(=रोधं)+++ नेदन्ति+++(=यन्ति)+++, अति॒ वाच॑म्।   
+मनो॒ वावैता नाति॑ नेद॒न्ती"ति॑ ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -72,7 +72,7 @@ They say, 'They foam over the barrier, they foam over speech, but over mind they
 तदा॑हु॒रति॒ वा ए॒ता वर्त्र᳚म्
 नेद॒न्त्य् अति॒ वाच॑म् ।  
 मनो॒ वावैताः  ।
-नाति॑ नेद॒न्तीति ।  
+नाति॑ नेद॒न्तीति॑ ।  
 </details>
 <details><summary>पद-पाठः</summary>
 
@@ -197,13 +197,13 @@ The sacrifice of him who knows thus does not spill.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यज्ञायु॒धानि॒ सम्भ॑रति ।  
+य॒ज्ञा॒यु॒धानि॒ सम्भ॑रति ।  
 य॒ज्ञो वै य॑ज्ञायु॒धानि॑ ।    
 य॒ज्ञम् ए॒व तथ् सम्भ॑रति ।  
 यद् एक॑म् एकꣳ स॒म्भरे᳚त् - पितृ-देव॒त्या॑नि स्युः ।   
 यत् स॒ह सर्वा॑णि - मानु॒षाणि॑।  
 द्वे-द्वे॒ सम्भ॑रति -  
-याज्यानुवा॒क्य॑योरे॒व रू॒पङ्क॑रो॒त्य् अथो॑ मिथु॒नम् ए॒व ।
+या॒ज्या॒नु॒वा॒क्य॑योर् ए॒व रू॒पङ् क॑रो॒त्य् अथो॑ मिथु॒नम् ए॒व ।
 </details>
 <details><summary>Keith</summary>
 
@@ -218,12 +218,12 @@ and thus there is a pair.
 </details>
 <details><summary>मूलम्</summary>
 
-यज्ञायु॒धानि॒ सम्भ॑रति ।  
+य॒ज्ञा॒यु॒धानि॒ सम्भ॑रति ।  
 य॒ज्ञो वै य॑ज्ञायु॒धानि॑ ।    
 य॒ज्ञमे॒व तथ्सम्भ॑रति ।  
 यदेक॑मेकꣳ स॒म्भरे᳚त्पितृदेव॒त्या॑नि स्युः ।   
 यत् स॒ह सर्वा॑णि मानु॒षाणि॒, द्वेद्वे॒ सम्भ॑रति -  
-याज्यानुवा॒क्य॑योरे॒व रू॒पङ्क॑रो॒त्यथो॑ मिथु॒नमे॒व ।
+या॒ज्या॒नु॒वा॒क्य॑योरे॒व रू॒पङ्क॑रो॒त्यथो॑ मिथु॒नमे॒व ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,7 +234,7 @@ and thus there is a pair.
 
 य॒ज्ञम् । ए॒व । तत् । समिति॑ । भ॒र॒ति॒ ।  
 
-यत् । एक॑मेक॒मित्येक᳚म्-ए॒क॒म्॒ । स॒म्भरे॒दिति॑ सम्-भरे᳚त् । पि॒तृ॒दे॒व॒त्या॑नीति॑ पितृ-दे॒व॒त्या॑नि । स्युः॒ ।  
+यत् । एक॑मेक॒मित्येक᳚म्-ए॒क॒म् । स॒म्भरे॒दिति॑ सम्-भरे᳚त् । पि॒तृ॒दे॒व॒त्या॑नीति॑ पितृ-दे॒व॒त्या॑नि । स्युः॒ ।  
 
 यत् । स॒ह । सर्वा॑णि । मा॒नु॒षाणि॑ ।  
 द्वेद्वे॒ इति॒ द्वे-द्वे॒ । समिति॑ । भ॒र॒ति॒ । 
@@ -267,7 +267,8 @@ and thus there is a pair.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो वै दश॑ यज्ञायु॒धानि॒ वेद॑ - मुख॒तो᳚ऽस्य य॒ज्ञᳵ क॑ल्पते ।
+यो वै दश॑ यज्ञायु॒धानि॒ वेद॑ -  
+मुख॒तो᳚ऽस्य य॒ज्ञᳵ क॑ल्पते ।
 </details>
 <details><summary>Keith</summary>
 
@@ -298,7 +299,7 @@ If a man knows the ten weapons of the sacrifice, his sacrifice is in order at th
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्फ्यः [26] च॒ क॒पाला॑नि चाग्निहोत्र॒हव॑णी च  ..  
+स्फ्यश् [26] च॑ क॒पाला॑नि चाग्निहोत्र॒हव॑णी च  ..  
 </details>
 <details><summary>Keith</summary>
 
@@ -306,7 +307,7 @@ The wooden sword [2], the potsherds, the offering-spoon,
 </details>
 <details><summary>मूलम्</summary>
 
-स्फ्यः [26] च॒ क॒पाला॑नि चाग्निहोत्र॒हव॑णी च  ..  
+स्फ्यश् [26] च॑ क॒पाला॑नि चाग्निहोत्र॒हव॑णी च  ..  
 </details>
 <details><summary>पद-पाठः</summary>
 
@@ -326,7 +327,7 @@ The wooden sword [2], the potsherds, the offering-spoon,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शूर्प॑ञ्च कृष्णाजि॒नञ्च ..  
+शूर्प॑ञ्च कृष्णाजि॒नञ् च॒ ..  
 </details>
 <details><summary>Keith</summary>
 
@@ -334,7 +335,7 @@ the basket, the black antelope skin,
 </details>
 <details><summary>मूलम्</summary>
 
-शूर्प॑ञ्च कृष्णाजि॒नञ्च ..  
+शूर्प॑ञ्च कृष्णाजि॒नञ् च॒ ..  
 </details>
 <details><summary>पद-पाठः</summary>
 
@@ -349,8 +350,8 @@ the basket, the black antelope skin,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शम्या॑ चो॒लूख॑लञ्च मुस॑लञ्च
-दृ॒षच्चोप॑ला च ...
+शम्या॑ चो॒लूख॑लञ्च॒ मुस॑लञ् च
+दृ॒षच् चोप॑ला च ...
 </details>
 <details><summary>Keith</summary>
 
@@ -359,7 +360,7 @@ the lower and upper millstones,
 </details>
 <details><summary>मूलम्</summary>
 
-शम्या॑ चो॒लूख॑लञ्च मुस॑लञ्च
+शम्या॑ चो॒लूख॑लञ्च॒ मुस॑लञ्च
 दृ॒षच्चोप॑ला च ...
 </details>
 <details><summary>पद-पाठः</summary>
@@ -384,8 +385,8 @@ the lower and upper millstones,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒तानि॒ वै दश॑ यज्ञायु॒धानि  ।  
-य ए॒वव्ँवेद॑ मुख॒तो᳚ऽस्य य॒ज्ञᳵ क॑ल्पते ।
+ए॒तानि॒ वै दश॑ यज्ञायु॒धानि॑  ।  
+य ए॒वव्ँ वेद॑ मुख॒तो᳚ ऽस्य य॒ज्ञᳵ क॑ल्पते ।
 </details>
 <details><summary>Keith</summary>
 
@@ -393,8 +394,7 @@ these are the ten weapons of the sacrifice; the sacrifice of him who knows thus 
 </details>
 <details><summary>मूलम्</summary>
 
-दृ॒षच्चोप॑ला च ...  
-ए॒तानि॒ वै दश॑ यज्ञायु॒धानि  ।  
+ए॒तानि॒ वै दश॑ यज्ञायु॒धानि॑  ।  
 य ए॒वव्ँवेद॑ मुख॒तो᳚ऽस्य य॒ज्ञᳵ क॑ल्पते ।
 </details>
 
@@ -617,7 +617,7 @@ He who yokes the sacrifice when the yoking (time) arrives yokes it indeed among 
 कः । त्वा॒ । यु॒न॒क्ति॒ ।  
 सः । त्वा॒ । यु॒न॒क्तु॒ । इति॑ । आ॒ह॒ ।  
 प्र॒जाप॑ति॒रिति॑ प्र॒जा-प॒तिः॒ । वै । कः । प्
-र॒जाप॑ति॒नेति॑ प्र॒जा-प॒ति॒ना॒ । ए॒व । ए॒न॒म्॒ । यु॒न॒क्ति॒ । यु॒ङ्क्ते । यु॒ञ्जा॒नेषु॑ ॥ 
+र॒जाप॑ति॒नेति॑ प्र॒जा-प॒ति॒ना॒ । ए॒व । ए॒न॒म् । यु॒न॒क्ति॒ । यु॒ङ्क्ते । यु॒ञ्जा॒नेषु॑ ॥ 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

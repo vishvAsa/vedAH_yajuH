@@ -237,7 +237,7 @@ Let him choose glory that he may prosper,
 </div>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्वाहा॑॑।
+स्वाहा॑।
 </details>
 <details><summary>Keith</summary>
 
@@ -245,7 +245,7 @@ Let him choose glory that he may prosper,
 </details>
 <details><summary>मूलम्</summary>
 
-स्वाहा॑॑।
+स्वाहा॑।
 </details>
 <details><summary>पद-पाठः</summary>
 
@@ -293,9 +293,9 @@ do ye two [1] protect me until the completion of this sacrifice.
 
 ऋ॒ख्सा॒मयो॒रित्यृ॑क्-सा॒मयोः᳚ । शिल्पे॒ इति॑ । स्थः॒ ।   
 
-ते इति॑ । वा॒म्॒ । एति॑ । र॒भे॒ । ़ 
+ते इति॑ । वा॒म् । एति॑ । र॒भे॒ । ़ 
 
-ते इति॑ । मा॒ । [3] पा॒त॒म्॒ । एति॑ । अ॒स्य । य॒ज्ञस्य॑ । उ॒दृच॒ इत्यु॑त्-ऋचः॑ । 
+ते इति॑ । मा॒ । [3] पा॒त॒म् । एति॑ । अ॒स्य । य॒ज्ञस्य॑ । उ॒दृच॒ इत्यु॑त्-ऋचः॑ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

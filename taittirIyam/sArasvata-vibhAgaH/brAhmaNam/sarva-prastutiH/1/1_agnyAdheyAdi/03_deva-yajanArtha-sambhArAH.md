@@ -554,11 +554,11 @@ unicode_script: devanagari
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आपो॒ वरु॑णस्य॒ पत्न॑य आसन्न् ।   
+आपो॒ वरु॑णस्य॒ पत्न॑य आसन् ।   
 </details>
 <details><summary>मूलम्</summary>
 
-आपो॒ वरु॑णस्य॒ पत्न॑य आसन्न् ।   
+आपो॒ वरु॑णस्य॒ पत्न॑य आसन् ।   
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -873,12 +873,12 @@ unicode_script: devanagari
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "सहृ॑दयो॒ ऽग्निर् आ॒धेय॒" इत्य् आ॑हुः ।   
-म॒रुतो॒ ऽद्भिर् अ॒ग्निम् अ॑तमयन्न् ।   
+म॒रुतो॒ ऽद्भिर् अ॒ग्निम् अ॑तमयन् ।   
 </details>
 <details><summary>मूलम्</summary>
 
 "सहृ॑दयो॒ ऽग्निर् आ॒धेय॒" इत्य् आ॑हुः ।   
-म॒रुतो॒ ऽद्भिर् अ॒ग्निम् अ॑तमयन्न् ।   
+म॒रुतो॒ ऽद्भिर् अ॒ग्निम् अ॑तमयन् ।   
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -886,12 +886,12 @@ unicode_script: devanagari
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्य॑ ता॒न्तस्य॒+++(5)+++ हृद॑य॒म् आच्छि॑न्दन्न् ।   
+तस्य॑ ता॒न्तस्य॒+++(5)+++ हृद॑य॒म् आच्छि॑न्दन् ।   
 सा ऽशनि॑र् अभवत् ।   
 </details>
 <details><summary>मूलम्</summary>
 
-तस्य॑ ता॒न्तस्य॒ हृद॑य॒म् आच्छि॑न्दन्न् ।   
+तस्य॑ ता॒न्तस्य॒ हृद॑य॒म् आच्छि॑न्दन् ।   
 सा ऽशनि॑र् अभवत् ।   
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>

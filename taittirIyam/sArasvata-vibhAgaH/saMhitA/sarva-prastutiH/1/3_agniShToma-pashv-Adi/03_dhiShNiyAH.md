@@ -815,7 +815,7 @@ Thou art the goat with one foot.
 
 <details><summary>पद-पाठः</summary>
 
-अ॒जः । अ॒सि॒ । एक॑पा॒दित्येक॑-पा॒त्॒ ।  
+अ॒जः । अ॒सि॒ । एक॑पा॒दित्येक॑-पा॒त् ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

@@ -452,11 +452,11 @@ unicode_script: devanagari
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रत्यङ्गे॑षु॒ प्रति॑तिष्ठाम्या॒त्मन्न् ।  
+प्रत्यङ्गे॑षु॒ प्रति॑तिष्ठाम्या॒त्मन् ।  
 </details>
 <details><summary>मूलम्</summary>
 
-प्रत्यङ्गे॑षु॒ प्रति॑तिष्ठाम्या॒त्मन्न् ।  
+प्रत्यङ्गे॑षु॒ प्रति॑तिष्ठाम्या॒त्मन् ।  
 </details>
 <details><summary>सायण-टीका</summary>
 

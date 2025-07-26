@@ -95,7 +95,7 @@ To the Adityas he sacrifices a sheep in young, to the Maruts a dappled heifer.
 </details>
 <details><summary>मूलम्</summary>
 
-आ॒दि॒त्याम्म॒ल्॒हाङ्ग॒र्भिणी॒मा ल॑भते मारु॒तीम्पृश्ञि॑म्पष्ठौ॒हीम् ।
+आ॒दि॒त्याम्म॒ल्हाङ्ग॒र्भिणी॒मा ल॑भते मारु॒तीम्पृश्ञि॑म्पष्ठौ॒हीम् ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

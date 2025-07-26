@@ -150,7 +150,7 @@ The Raksas is burnt, the evil spirits are burnt.
 
 <details><summary>पद-पाठः</summary>
 
-निर्द॑ग्ध॒मिति॒ निः-द॒ग्ध॒म्॒ । रख्षः॑ । निर्द॑ग्धा॒ इति॒ निः-द॒ग्धाः॒ । अरा॑तयः ।
+निर्द॑ग्ध॒मिति॒ निः-द॒ग्ध॒म् । रख्षः॑ । निर्द॑ग्धा॒ इति॒ निः-द॒ग्धाः॒ । अरा॑तयः ।
 </details>
 
 
@@ -517,7 +517,7 @@ Be ye heated with the heat of the Bhrgus and the Angirases.
 
 <details><summary>पद-पाठः</summary>
 
-भृगू॑णाम् । अङ्गि॑रसाम् । तप॑सा । त॒प्य॒ध्व॒म्॒ ।
+भृगू॑णाम् । अङ्गि॑रसाम् । तप॑सा । त॒प्य॒ध्व॒म् ।
 </details>
 
 

@@ -28,7 +28,7 @@ Let thy speech swell,
 
 <details><summary>पद-पाठः</summary>
 
-वाक् । ते॒ । एति॑ । प्या॒य॒ता॒म्॒ । 
+वाक् । ते॒ । एति॑ । प्या॒य॒ता॒म् । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -47,7 +47,7 @@ _______
 </details>
 <details><summary>पद-पाठः</summary>
 
-प्रा॒ण इति॑ प्र-अ॒नः । ते॒ । एति॑ । प्या॒य॒ता॒म्॒ । 
+प्रा॒ण इति॑ प्र-अ॒नः । ते॒ । एति॑ । प्या॒य॒ता॒म् । 
 </details>
 
 <details><summary>Keith</summary>
@@ -83,7 +83,7 @@ let thine eye swell,
 </details>
 <details><summary>पद-पाठः</summary>
 
-चख्षुः॑ । ते॒ । एति॑ । प्या॒य॒ता॒म्॒ । 
+चख्षुः॑ । ते॒ । एति॑ । प्या॒य॒ता॒म् । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -111,7 +111,7 @@ let thine ear swell.
 
 <details><summary>पद-पाठः</summary>
 
-श्रोत्र᳚म् । ते॒ । एति॑ । प्या॒य॒ता॒म्॒ । 2B । 
+श्रोत्र᳚म् । ते॒ । एति॑ । प्या॒य॒ता॒म् । 2B । 
 </details>
 
 <details><summary>
@@ -190,7 +190,7 @@ Let thy navel swell.
 
 <details><summary>पद-पाठः</summary>
 
-नाभिः॑ । ते॒ । एति॑ । प्या॒य॒ता॒म्॒ । 
+नाभिः॑ । ते॒ । एति॑ । प्या॒य॒ता॒म् । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -218,7 +218,7 @@ let thine anus swell
 
 <details><summary>पद-पाठः</summary>
 
-पा॒युः । ते॒ । एति॑ । प्या॒य॒ता॒म्॒ ।
+पा॒युः । ते॒ । एति॑ । प्या॒य॒ता॒म् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -295,7 +295,7 @@ Hail to night and day!
 </details>
 <details><summary>पद-पाठः</summary>
 
-शम् । अहो᳚भ्या॒मित्यहः॑-भ्या॒म्॒ । 
+शम् । अहो᳚भ्या॒मित्यहः॑-भ्या॒म् । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -433,7 +433,7 @@ here him I lead to the lowest darkness.
 
 यः । अ॒स्मान् । द्वेष्टि॑ ।   
 यम् । च॒ । व॒यम् । द्वि॒ष्मः ।    
-इ॒दम् । ए॒न॒म्॒ । अ॒ध॒मम् । तमः॑ । न॒या॒मि॒ ।
+इ॒दम् । ए॒न॒म् । अ॒ध॒मम् । तमः॑ । न॒या॒मि॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -492,7 +492,7 @@ In ghee, O sky and earth, be covered.
 </details>
 <details><summary>पद-पाठः</summary>
 
-घृ॒तेन॑ । द्या॒वा॒पृ॒थि॒वी॒ इति॑ द्यावा-पृ॒थि॒वी॒ । प्रेति॑ । ऊ॒र्ण्वा॒था॒म्॒ ।  
+घृ॒तेन॑ । द्या॒वा॒पृ॒थि॒वी॒ इति॑ द्यावा-पृ॒थि॒वी॒ । प्रेति॑ । ऊ॒र्ण्वा॒था॒म् ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -616,7 +616,7 @@ Hail! go to Urdhva-nabhas, offspring of the Maruts.
 <details><summary>पद-पाठः</summary>
 
 स्वाहा᳚ । 
-ऊ॒र्ध्वन॑भस॒मित्यू॒र्ध्व-न॒भ॒स॒म्॒ । मा॒रु॒तम् । ग॒च्छ॒त॒म्॒ ॥ [17]
+ऊ॒र्ध्वन॑भस॒मित्यू॒र्ध्व-न॒भ॒स॒म् । मा॒रु॒तम् । ग॒च्छ॒त॒म् ॥ [17]
 
 </details>
 

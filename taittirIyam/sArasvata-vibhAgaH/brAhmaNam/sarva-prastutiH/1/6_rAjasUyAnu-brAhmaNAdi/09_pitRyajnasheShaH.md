@@ -354,12 +354,12 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एवैनान्॑या॒ज्य॑या गमयति ।  
+एवैना॑न्या॒ज्य॑या गमयति ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
-एवैनान्॑या॒ज्य॑या गमयति ।  
+एवैना॑न्या॒ज्य॑या गमयति ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -859,12 +859,12 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒पᳶ परि॑षिञ्चति मा॒र्जय॑त्ये॒वैनान्॑ ॥69॥  
+अ॒पᳶ परि॑षिञ्चति मा॒र्जय॑त्ये॒वैना॑न् ॥69॥  
 </details>
 
 <details><summary>मूलम्</summary>
 
-अ॒पᳶ परि॑षिञ्चति मा॒र्जय॑त्ये॒वैनान्॑ ॥69॥  
+अ॒पᳶ परि॑षिञ्चति मा॒र्जय॑त्ये॒वैना॑न् ॥69॥  
 </details>
 
 

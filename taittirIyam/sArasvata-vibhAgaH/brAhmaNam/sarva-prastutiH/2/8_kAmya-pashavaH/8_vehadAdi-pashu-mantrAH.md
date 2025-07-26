@@ -2381,7 +2381,7 @@ Den Glauben rufen Morgens wir, den Glauben in der Mittagszeit Den Glauben, wenn 
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
 चत॑स्र॒ आशा॒ᳶ प्रच॑रन्त्व॒ग्नयः॑ ।   
-इ॒मन्नो॑ य॒ज्ञन्न॑यतु प्रजा॒नन्न् ।   
+इ॒मन्नो॑ य॒ज्ञन्न॑यतु प्रजा॒नन् ।   
 घृ॒तम्पिन्व॑न्न॒जरꣳ॑ सु॒वीर᳚म् ॥ 68 ॥  
 ब्रह्म॑ स॒मिद्भ॑व॒त्याहु॑तीनाम् ।
 </details>

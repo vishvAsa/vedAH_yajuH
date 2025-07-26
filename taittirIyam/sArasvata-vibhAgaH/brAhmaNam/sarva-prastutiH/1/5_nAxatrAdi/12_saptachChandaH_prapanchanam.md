@@ -23,12 +23,12 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तम् ए॒तेषु॑ स॒प्तसु॒ छन्द॑स्स्व् अश्रयन्न् ।  
+तम् ए॒तेषु॑ स॒प्तसु॒ छन्द॑स्स्व् अश्रयन् ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
-तम् ए॒तेषु॑ स॒प्तसु॒ छन्द॑स्स्व् अश्रयन्न् ।  
+तम् ए॒तेषु॑ स॒प्तसु॒ छन्द॑स्स्व् अश्रयन् ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -39,7 +39,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-यदश्र॑यन्न् ।
+यदश्र॑यन् ।
 तच्छ्रा॑य॒न्तीय॑स्य श्रायन्तीय॒त्वम् ।
 </details>
 
@@ -61,7 +61,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-यदवा॑रयन्न् ।
+यदवा॑रयन् ।
 तद्वा॑रव॒न्तीय॑स्य वारवन्तीय॒त्वम् ।
 </details>
 
@@ -213,7 +213,7 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 यानि॑ च॒ छन्दाꣳ॑स्य॒त्यरि॑च्यन्त ।
-यानि॑ च॒ नोदभ॑वन्न् ।
+यानि॑ च॒ नोदभ॑वन् ।
 तानि॒ निर्वी᳚र्याणि ही॒नान्य॑मन्यन्त ।
 </details>
 
