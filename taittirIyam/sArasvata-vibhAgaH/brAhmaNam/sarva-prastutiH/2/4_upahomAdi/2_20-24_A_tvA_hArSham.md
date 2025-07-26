@@ -94,7 +94,7 @@ Bear the nation here.
 **अ॒भि-ति॑ष्ठ** पृतन्य॒तः ।  
 अध॑रे **सन्तु॒** शत्र॑वः ।  
 इन्द्र॑ इव वृत्र॒-हा **ति॑ष्ठ** ।  
-अ॒पः ख्षेत्रा॑णि **स॒ञ्जयन्न्॑** ।
+अ॒पः ख्षेत्रा॑णि **स॒ञ्जय॑न्न्** ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_20-24_A_tvA_hArSham/12_abhitiShTha_pRtanyataH.md">
@@ -104,7 +104,7 @@ Bear the nation here.
 अ॒भिति॑ष्ठ पृतन्य॒तः ।
 अध॑रे सन्तु॒ शत्र॑वः ।
 इन्द्र॑ इव वृत्र॒हा ति॑ष्ठ ।
-अ॒पः ख्षेत्रा॑णि स॒ञ्जयन्न्॑ ।
+अ॒पः ख्षेत्रा॑णि स॒ञ्जय॑न्न् ।
 </details>
 </details>
 </div>

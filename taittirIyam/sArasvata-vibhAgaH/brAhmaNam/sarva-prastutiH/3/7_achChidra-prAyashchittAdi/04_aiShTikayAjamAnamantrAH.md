@@ -596,7 +596,7 @@ unicode_script: devanagari
 या जा॒ता ओष॑धयः ।  
 दे॒वेभ्य॑स्त्रियु॒गम्पु॒रा ।  
 तासा॒म्पर्व॑ राध्यासम् ।  
-प॒रि॒स्त॒रमा॒हरन्न्॑ ।
+प॒रि॒स्त॒रमा॒हर॑न्न् ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/7_achChidra-prAyashchittAdi/04/80_yA_jAtA.md">
@@ -606,7 +606,7 @@ unicode_script: devanagari
 या जा॒ता ओष॑धयः ।  
 दे॒वेभ्य॑स्त्रियु॒गम्पु॒रा ।  
 तासा॒म्पर्व॑ राध्यासम् ।  
-प॒रि॒स्त॒रमा॒हरन्न्॑ ।
+प॒रि॒स्त॒रमा॒हर॑न्न् ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

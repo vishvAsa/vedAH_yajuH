@@ -266,12 +266,12 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वाज॒ꣵ॒ ह्य् ए॑तेन॑ दे॒वा ऐफ्सन्न्॑ ।  
+वाज॒ꣵ॒ ह्य् ए॑तेन॑ दे॒वा ऐफ्स॑न्न् ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
-वाज॒ꣵ॒ ह्य् ए॑तेन॑ दे॒वा ऐफ्सन्न्॑ ।  
+वाज॒ꣵ॒ ह्य् ए॑तेन॑ दे॒वा ऐफ्स॑न्न् ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

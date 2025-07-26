@@ -978,7 +978,7 @@ If (the Agnidh) were to say, 'Agni has gone?' he would make Agni go into the fir
 
 <details><summary>पद-पाठः</summary>
 
-यत् । ब्रू॒यात् । अगन्न्॑ । अ॒ग्निः । इति॑ ।  
+यत् । ब्रू॒यात् । अग॑न्न् । अ॒ग्निः । इति॑ ।  
 अ॒ग्नौ । अ॒ग्निम् । ग॒म॒ये॒त्॒ ।   
 निरिति॑ । यज॑मानम् । सु॒व॒र्गादिति॑ सुवः-गात् । लो॒कात् । भ॒जे॒त्॒ । 
 
@@ -1009,7 +1009,7 @@ So he should say only 'Has he gone?' Verily he makes the sacrificer go to the wo
 
 <details><summary>पद-पाठः</summary>
 
-अगन्न्॑ । इति॑ । ए॒व । ब्रू॒या॒त्॒ । यज॑मानम् । ए॒व । सु॒व॒र्गमिति॑ सुवः-गम् । लो॒कम् । ग॒म॒य॒ति॒ ॥
+अग॑न्न् । इति॑ । ए॒व । ब्रू॒या॒त्॒ । यज॑मानम् । ए॒व । सु॒व॒र्गमिति॑ सुवः-गम् । लो॒कम् । ग॒म॒य॒ति॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

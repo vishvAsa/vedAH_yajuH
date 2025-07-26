@@ -272,13 +272,13 @@ unicode_script: devanagari
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स शृ॒तो॑ ऽभवत् ।  
-तस्याहु॑तस्य॒ नाश्ञन्न्॑ ।  
+तस्याहु॑तस्य॒ नाश्ञ॑न्न् ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
 स शृ॒तो॑ ऽभवत् ।  
-तस्याहु॑तस्य॒ नाश्ञन्न्॑ ।  
+तस्याहु॑तस्य॒ नाश्ञ॑न्न् ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

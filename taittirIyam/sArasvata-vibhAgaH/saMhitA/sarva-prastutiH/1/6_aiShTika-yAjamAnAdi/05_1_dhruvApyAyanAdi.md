@@ -100,7 +100,7 @@ In it I place thee along with the sacrificer.
 </details>
 <details><summary>पद-पाठः</summary>
 
-तस्मिन्न्॑ । त्वा॒ । द॒धा॒मि॒ । स॒ह । यज॑मानेन ।
+तस्मि॑न्न् । त्वा॒ । द॒धा॒मि॒ । स॒ह । यज॑मानेन ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

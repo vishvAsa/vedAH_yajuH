@@ -1394,7 +1394,7 @@ The son born of intercourse with (a woman) with stained garments is accursed;
 
 <details><summary>मूलम्</summary>
 
-या द॒तो धाव॑ते॒ तस्यै᳚ श्या॒वदन्न्॑ ।  
+या द॒तो धाव॑ते॒ तस्यै᳚ श्या॒वद॑न्न् ।  
 </details>
 
 <details><summary>पद-पाठः</summary>

@@ -223,7 +223,7 @@ unicode_script: devanagari
 </details>
 <details><summary>मूलम्</summary>
 
-उ॒परी॑वा॒ग्निम् उद् गृ॑ह्णीयाद् उ॒द्धरन्न्॑ ।   
+उ॒परी॑वा॒ग्निम् उद् गृ॑ह्णीयाद् उ॒द्धर॑न्न् ।   
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
