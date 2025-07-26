@@ -203,7 +203,7 @@ The sacrifice of him who knows thus does not spill.
 यद् एक॑म् एकꣳ स॒म्भरे᳚त् - पितृ-देव॒त्या॑नि स्युः ।   
 यत् स॒ह सर्वा॑णि - मानु॒षाणि॑।  
 द्वे-द्वे॒ सम्भ॑रति -  
-या॒ज्या॒नु॒वा॒क्य॑योर् ए॒व रू॒पङ्क॑रो॒त्य् अथो॑ मिथु॒नम् ए॒व ।
+या॒ज्या॒नु॒वा॒क्य॑योर् ए॒व रू॒पङ् क॑रो॒त्य् अथो॑ मिथु॒नम् ए॒व ।
 </details>
 <details><summary>Keith</summary>
 
@@ -267,7 +267,8 @@ and thus there is a pair.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो वै दश॑ यज्ञायु॒धानि॒ वेद॑ - मुख॒तो᳚ऽस्य य॒ज्ञᳵ क॑ल्पते ।
+यो वै दश॑ यज्ञायु॒धानि॒ वेद॑ -  
+मुख॒तो᳚ऽस्य य॒ज्ञᳵ क॑ल्पते ।
 </details>
 <details><summary>Keith</summary>
 
@@ -298,7 +299,7 @@ If a man knows the ten weapons of the sacrifice, his sacrifice is in order at th
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्फ्यः [26] च॒ क॒पाला॑नि चाग्निहोत्र॒हव॑णी च  ..  
+स्फ्यश् [26] च॑ क॒पाला॑नि चाग्निहोत्र॒हव॑णी च  ..  
 </details>
 <details><summary>Keith</summary>
 
@@ -306,7 +307,7 @@ The wooden sword [2], the potsherds, the offering-spoon,
 </details>
 <details><summary>मूलम्</summary>
 
-स्फ्यः [26] च॒ क॒पाला॑नि चाग्निहोत्र॒हव॑णी च  ..  
+स्फ्यश् [26] च॑ क॒पाला॑नि चाग्निहोत्र॒हव॑णी च  ..  
 </details>
 <details><summary>पद-पाठः</summary>
 
@@ -326,7 +327,7 @@ The wooden sword [2], the potsherds, the offering-spoon,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शूर्प॑ञ्च कृष्णाजि॒नञ्च ..  
+शूर्प॑ञ्च कृष्णाजि॒नञ् च॒ ..  
 </details>
 <details><summary>Keith</summary>
 
@@ -334,7 +335,7 @@ the basket, the black antelope skin,
 </details>
 <details><summary>मूलम्</summary>
 
-शूर्प॑ञ्च कृष्णाजि॒नञ्च ..  
+शूर्प॑ञ्च कृष्णाजि॒नञ् च॒ ..  
 </details>
 <details><summary>पद-पाठः</summary>
 
@@ -349,8 +350,8 @@ the basket, the black antelope skin,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शम्या॑ चो॒लूख॑लञ्च मुस॑लञ्च
-दृ॒षच्चोप॑ला च ...
+शम्या॑ चो॒लूख॑लञ्च॒ मुस॑लञ् च
+दृ॒षच् चोप॑ला च ...
 </details>
 <details><summary>Keith</summary>
 
@@ -359,7 +360,7 @@ the lower and upper millstones,
 </details>
 <details><summary>मूलम्</summary>
 
-शम्या॑ चो॒लूख॑लञ्च मुस॑लञ्च
+शम्या॑ चो॒लूख॑लञ्च॒ मुस॑लञ्च
 दृ॒षच्चोप॑ला च ...
 </details>
 <details><summary>पद-पाठः</summary>
@@ -384,8 +385,8 @@ the lower and upper millstones,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒तानि॒ वै दश॑ यज्ञायु॒धानि  ।  
-य ए॒वव्ँवेद॑ मुख॒तो᳚ऽस्य य॒ज्ञᳵ क॑ल्पते ।
+ए॒तानि॒ वै दश॑ यज्ञायु॒धानि॑  ।  
+य ए॒वव्ँ वेद॑ मुख॒तो᳚ ऽस्य य॒ज्ञᳵ क॑ल्पते ।
 </details>
 <details><summary>Keith</summary>
 
@@ -393,8 +394,7 @@ these are the ten weapons of the sacrifice; the sacrifice of him who knows thus 
 </details>
 <details><summary>मूलम्</summary>
 
-दृ॒षच्चोप॑ला च ...  
-ए॒तानि॒ वै दश॑ यज्ञायु॒धानि  ।  
+ए॒तानि॒ वै दश॑ यज्ञायु॒धानि॑  ।  
 य ए॒वव्ँवेद॑ मुख॒तो᳚ऽस्य य॒ज्ञᳵ क॑ल्पते ।
 </details>
 
