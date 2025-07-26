@@ -383,7 +383,7 @@ may I accomplish it;
 
 <details><summary>पद-पाठः</summary>
 
-तत् । श॒के॒य॒म्॒ । 
+तत् । श॒के॒य॒म् । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -404,7 +404,7 @@ may it be successful for me.
 </details>
 <details><summary>पद-पाठः</summary>
 
-तत् । मे॒ । रा॒ध्य॒ता॒म्॒ ॥
+तत् । मे॒ । रा॒ध्य॒ता॒म् ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

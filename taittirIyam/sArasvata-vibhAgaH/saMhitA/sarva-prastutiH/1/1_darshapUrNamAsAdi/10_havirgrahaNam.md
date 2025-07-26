@@ -94,7 +94,7 @@ May I not brush the place of the cattle, I brush thee that art strong and overco
 
 <details><summary>पद-पाठः</summary>
 
-गो॒ष्ठमिति॑ गो-स्थम् । मा । निरिति॑ । मृ॒ख्ष॒म्॒ ।  
+गो॒ष्ठमिति॑ गो-स्थम् । मा । निरिति॑ । मृ॒ख्ष॒म् ।  
 वा॒जिन᳚म् । त्वा॒ । स॒प॒त्न॒सा॒हम् इति॑ सपत्न-सा॒हम् । समिति॑ । मा॒र्ज्मि॒ ।
 </details>
 
@@ -602,7 +602,7 @@ may Agni not take away the brilliance.
 
 <details><summary>पद-पाठः</summary>
 
-अ॒ग्निः । ते॒ । तेजः॑ । मा । वीति॑ । नै॒त्॒ । 
+अ॒ग्निः । ते॒ । तेजः॑ । मा । वीति॑ । नै॒त् । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

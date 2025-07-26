@@ -997,7 +997,7 @@ Then set him free, on the chosen spot of earth.
 </details>
 <details><summary>पद-पाठः</summary>
 
-अथ॑ । ई॒म्॒ । अवेति॑ । स्य॒ । वरे᳚ । एति॑ । पृ॒थि॒व्याः । 
+अथ॑ । ई॒म् । अवेति॑ । स्य॒ । वरे᳚ । एति॑ । पृ॒थि॒व्याः । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

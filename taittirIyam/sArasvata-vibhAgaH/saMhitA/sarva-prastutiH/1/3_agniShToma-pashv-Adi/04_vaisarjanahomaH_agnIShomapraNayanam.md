@@ -703,8 +703,8 @@ This, god Savitr, is the Soma of you (gods); guard it; let it escape you not.
 
 <details><summary>पद-पाठः</summary>
 
-ए॒षः । वः॒ । दे॒व॒ । स॒वि॒तः॒ । सोमः॑ । तम् । र॒ख्ष॒ध्व॒म्॒ ।   
-मा । वः॒ । द॒भ॒त्॒ ।  
+ए॒षः । वः॒ । दे॒व॒ । स॒वि॒तः॒ । सोमः॑ । तम् । र॒ख्ष॒ध्व॒म् ।   
+मा । वः॒ । द॒भ॒त् ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

@@ -252,7 +252,7 @@ In the eastern quarter may the gods, the priests, make (me) bright;
 </details>
 <details><summary>पद-पाठः</summary>
 
-प्राच्या᳚म् । दि॒शि । दे॒वाः । ऋ॒त्विजः॑ । मा॒र्ज॒य॒न्ता॒म्॒ । 
+प्राच्या᳚म् । दि॒शि । दे॒वाः । ऋ॒त्विजः॑ । मा॒र्ज॒य॒न्ता॒म् । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -283,7 +283,7 @@ in the southern [1] quarter may the months, the fathers, make (me) bright;
 </details>
 <details><summary>पद-पाठः</summary>
 
-दख्षि॑णायाम् । दि॒शि । मासाः᳚ । पि॒तरः॑ । मा॒र्ज॒य॒न्ता॒म्॒ । 
+दख्षि॑णायाम् । दि॒शि । मासाः᳚ । पि॒तरः॑ । मा॒र्ज॒य॒न्ता॒म् । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -304,7 +304,7 @@ in the western quarter may the houses, the cattle, make (me) bright;
 </details>
 <details><summary>पद-पाठः</summary>
 
-प्र॒तीच्या᳚म् । दि॒शि । गृ॒हाः । प॒शवः॑ । मा॒र्ज॒य॒न्ता॒म्॒ । 
+प्र॒तीच्या᳚म् । दि॒शि । गृ॒हाः । प॒शवः॑ । मा॒र्ज॒य॒न्ता॒म् । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -325,7 +325,7 @@ in the northern quarter may the waters, the plants, the trees make (me) bright;
 </details>
 <details><summary>पद-पाठः</summary>
 
-उदी᳚च्याम् । दि॒शि । आपः॑ । ओष॑धयः । वन॒स्पत॑यः । मा॒र्ज॒य॒न्ता॒म्॒ । 
+उदी᳚च्याम् । दि॒शि । आपः॑ । ओष॑धयः । वन॒स्पत॑यः । मा॒र्ज॒य॒न्ता॒म् । 
 </details>
 
 
@@ -343,7 +343,7 @@ in the zenith may the sacrifice, the year, the lord of the sacrifice make (me) b
 </details>
 <details><summary>पद-पाठः</summary>
 
-ऊ॒र्ध्वाया᳚म् । दि॒शि । य॒ज्ञः । सँ॒व्व॒थ्स॒र इति॑ सम्-व॒थ्स॒रः । य॒ज्ञप॑ति॒रिति॑ य॒ज्ञ-प॒तिः॒ । मा॒र्ज॒य॒न्ता॒म्॒ । 
+ऊ॒र्ध्वाया᳚म् । दि॒शि । य॒ज्ञः । सँ॒व्व॒थ्स॒र इति॑ सम्-व॒थ्स॒रः । य॒ज्ञप॑ति॒रिति॑ य॒ज्ञ-प॒तिः॒ । मा॒र्ज॒य॒न्ता॒म् । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

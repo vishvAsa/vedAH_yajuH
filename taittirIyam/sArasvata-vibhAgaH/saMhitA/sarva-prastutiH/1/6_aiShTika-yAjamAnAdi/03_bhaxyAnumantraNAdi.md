@@ -32,7 +32,7 @@ Savitr from evil report.
 </details>
 <details><summary>पद-पाठः</summary>
 
-अ॒ग्निः । मा॒ । दुरि॑ष्टा॒दिति॒ दुः-इ॒ष्टा॒त्॒ । पा॒तु॒ । स॒वि॒ता । अ॒घशꣳ॑सा॒दित्य॒घ-श॒ꣳ॒सा॒त्॒ । 
+अ॒ग्निः । मा॒ । दुरि॑ष्टा॒दिति॒ दुः-इ॒ष्टा॒त् । पा॒तु॒ । स॒वि॒ता । अ॒घशꣳ॑सा॒दित्य॒घ-श॒ꣳ॒सा॒त् । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -73,7 +73,7 @@ Him who near or afar plots evil against me, with this may I conquer.
 
 <details><summary>पद-पाठः</summary>
 
-यः । मे॒ । अन्ति॑ । दू॒रे । अ॒रा॒ती॒यति॑ । तम् । ए॒तेन॑ । जे॒ष॒म्॒ ।
+यः । मे॒ । अन्ति॑ । दू॒रे । अ॒रा॒ती॒यति॑ । तम् । ए॒तेन॑ । जे॒ष॒म् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -172,7 +172,7 @@ Touch the heads.
 </details>
 <details><summary>पद-पाठः</summary>
 
-नीति॑ । उ॒ । शी॒र्‌षाणि॑ । मृ॒ड्ढ्व॒म्॒ ।
+नीति॑ । उ॒ । शी॒र्‌षाणि॑ । मृ॒ड्ढ्व॒म् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -359,7 +359,7 @@ May the prayer of the sacrificer be fulfilled for me.
 </details>
 <details><summary>पद-पाठः</summary>
 
-सा । मे॒ । स॒त्या । आ॒शीरित्या᳚-शीः । अ॒स्य । य॒ज्ञस्य॑ । भू॒या॒त्॒ ।
+सा । मे॒ । स॒त्या । आ॒शीरित्या᳚-शीः । अ॒स्य । य॒ज्ञस्य॑ । भू॒या॒त् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -390,7 +390,7 @@ With untroubled mind may I have strength for this.
 </details>
 <details><summary>पद-पाठः</summary>
 
-अरे॑डता । मन॑सा । तत् । श॒के॒य॒म्॒ । 
+अरे॑डता । मन॑सा । तत् । श॒के॒य॒म् । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -536,7 +536,7 @@ thou art enjoyed by us [2], may I attain joy from thee.
 </details>
 <details><summary>पद-पाठः</summary>
 
-जुष्टिः॑ । अ॒सि॒ । जु॒षस्व॑ । नः॒ । जुष्टा᳚ । नः॒ । अ॒सि॒ । जुष्टि᳚म् । ते॒ । ग॒मे॒य॒म्॒ । 
+जुष्टिः॑ । अ॒सि॒ । जु॒षस्व॑ । नः॒ । जुष्टा᳚ । नः॒ । अ॒सि॒ । जुष्टि᳚म् । ते॒ । ग॒मे॒य॒म् । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -639,7 +639,7 @@ May (my act) as I give be not destroyed; may (my act) as I work not perish.
 <details><summary>पद-पाठः</summary>
 
 दद॑तः । मे॒ । मा । ख्षा॒यि॒ ।  
-कु॒र्व॒तः । मे॒ । मा । उपेति॑ । द॒स॒त्॒ । 
+कु॒र्व॒तः । मे॒ । मा । उपेति॑ । द॒स॒त् । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

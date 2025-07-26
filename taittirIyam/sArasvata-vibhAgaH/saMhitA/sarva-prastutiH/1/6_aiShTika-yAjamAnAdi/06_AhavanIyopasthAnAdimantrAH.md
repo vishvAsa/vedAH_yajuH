@@ -241,7 +241,7 @@ Here do I exclude my enemy, N. N., from these quarters, this sky, this atmospher
 </details>
 <details><summary>पद-पाठः</summary>
 
-इ॒दम् । अ॒हम् । अ॒मुम् । भ्रातृ॑व्यम् । आ॒भ्यः । दि॒ग्भ्य इति॑ दिक्-भ्यः । अ॒स्यै॒ । दि॒वः । अ॒स्मा॒त्॒ । अ॒न्तरि॑ख्षात् । अ॒स्यै । पृ॒थि॒व्याः । अ॒स्मात् । अ॒न्नाद्या॒दित्य॑न्न-अद्या᳚त् । निरिति॑ । भ॒जा॒मि॒ । 
+इ॒दम् । अ॒हम् । अ॒मुम् । भ्रातृ॑व्यम् । आ॒भ्यः । दि॒ग्भ्य इति॑ दिक्-भ्यः । अ॒स्यै॒ । दि॒वः । अ॒स्मा॒त् । अ॒न्तरि॑ख्षात् । अ॒स्यै । पृ॒थि॒व्याः । अ॒स्मात् । अ॒न्नाद्या॒दित्य॑न्न-अद्या᳚त् । निरिति॑ । भ॒जा॒मि॒ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -322,7 +322,7 @@ I have been united with the light.
 </details>
 <details><summary>पद-पाठः</summary>
 
-समिति॑ । ज्योति॑षा । अ॒भू॒व॒म्॒ ।
+समिति॑ । ज्योति॑षा । अ॒भू॒व॒म् ।
 </details>
 
 
@@ -503,7 +503,7 @@ kindling thee, O Agni, may I shine.
 </details>
 <details><summary>पद-पाठः</summary>
 
-स॒मे॒द्धेति॑ सम्-ए॒द्धा । ते॒ । अ॒ग्ने॒ । दी॒द्या॒स॒म्॒ । 
+स॒मे॒द्धेति॑ सम्-ए॒द्धा । ते॒ । अ॒ग्ने॒ । दी॒द्या॒स॒म् । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -535,7 +535,7 @@ Be rich the sacrifice; may I be rich.
 </details>
 <details><summary>पद-पाठः</summary>
 
-वसु॑मा॒निति॒ वसु॑-मा॒न् । य॒ज्ञः । वसी॑यान् । भू॒या॒स॒म्॒ । 
+वसु॑मा॒निति॒ वसु॑-मा॒न् । य॒ज्ञः । वसी॑यान् । भू॒या॒स॒म् । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1202,7 +1202,7 @@ O Agni, lord of vows, I have performed my vow;
 </details>
 <details><summary>पद-पाठः</summary>
 
-अग्ने᳚ । व्र॒त॒प॒त॒ इति॑ व्रत-प॒ते॒ । व्र॒तम् । अ॒चा॒रि॒ष॒म्॒ । 
+अग्ने᳚ । व्र॒त॒प॒त॒ इति॑ व्रत-प॒ते॒ । व्र॒तम् । अ॒चा॒रि॒ष॒म् । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1230,7 +1230,7 @@ for that I have had strength;
 </details>
 <details><summary>पद-पाठः</summary>
 
-तत् । अ॒श॒क॒म्॒ । 
+तत् । अ॒श॒क॒म् । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

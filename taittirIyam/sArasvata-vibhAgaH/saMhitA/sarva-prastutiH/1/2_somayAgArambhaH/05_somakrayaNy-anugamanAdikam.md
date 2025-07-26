@@ -380,7 +380,7 @@ May I not be separated from abundance of wealth.
 
 <details><summary>पद-पाठः</summary>
 
-मा । अ॒हम् । रा॒यः । पोषे॑ण । वीति॑ । यो॒ष॒म्॒ ॥ [12]  
+मा । अ॒हम् । रा॒यः । पोषे॑ण । वीति॑ । यो॒ष॒म् ॥ [12]  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

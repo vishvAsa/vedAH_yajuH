@@ -70,7 +70,7 @@ Thou art butter, thou art truth, thou art the overseer of truth,
 
 आज्य᳚म् । अ॒सि॒ ।   
 स॒त्यम् । अ॒सि॒ ।   
-स॒त्यस्य॑ । अध्य॑ख्ष॒मित्यधि॑-अ॒ख्ष॒म्॒ । अ॒सि॒ ।   
+स॒त्यस्य॑ । अध्य॑ख्ष॒मित्यधि॑-अ॒ख्ष॒म् । अ॒सि॒ ।   
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -106,7 +106,7 @@ thou art the oblation of Vaiśvanara, of the All-gods, with pure strength, of tr
 
 <details><summary>पद-पाठः</summary>
 
-ह॒विः । अ॒सि॒ । वै॒श्वा॒न॒रम् । वै॒श्व॒दे॒वमिति॑ वैश्व-दे॒वम् । उत्पू॑तशुष्म॒मित्युत्पू॑त-शु॒ष्म॒म्॒ । स॒त्यौजा॒ इति॑ स॒त्य-ओ॒जाः॒ । 
+ह॒विः । अ॒सि॒ । वै॒श्वा॒न॒रम् । वै॒श्व॒दे॒वमिति॑ वैश्व-दे॒वम् । उत्पू॑तशुष्म॒मित्युत्पू॑त-शु॒ष्म॒म् । स॒त्यौजा॒ इति॑ स॒त्य-ओ॒जाः॒ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -177,7 +177,7 @@ overpower enmity, overpower those who practise emnity; thou art of a thousandfol
 </details>
 <details><summary>पद-पाठः</summary>
 
-सह॑स्व । पृत॑नाः । सह॑स्व । पृ॒त॒न्य॒तः ॥ स॒हस्र॑वीर्य॒मिति॑ स॒हस्र॑-वी॒र्य॒म्॒ । अ॒सि॒ ।  
+सह॑स्व । पृत॑नाः । सह॑स्व । पृ॒त॒न्य॒तः ॥ स॒हस्र॑वीर्य॒मिति॑ स॒हस्र॑-वी॒र्य॒म् । अ॒सि॒ ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -318,7 +318,7 @@ thou hast true strength;
 
 <details><summary>पद-पाठः</summary>
 
-स॒त्यशु॑ष्म॒मिति॑ स॒त्य-शु॒ष्म॒म्॒ । अ॒सि॒ ।   
+स॒त्यशु॑ष्म॒मिति॑ स॒त्य-शु॒ष्म॒म् । अ॒सि॒ ।   
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

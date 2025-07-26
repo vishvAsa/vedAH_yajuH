@@ -120,12 +120,12 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ॒दि॒त्याम्म॒ल्॒हाङ्ग॒र्भिणी॒मा ल॑भते ।
+आ॒दि॒त्याम्म॒ल्हाङ्ग॒र्भिणी॒मा ल॑भते ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-आ॒दि॒त्याम्म॒ल्॒हाङ्ग॒र्भिणी॒मा ल॑भते ।
+आ॒दि॒त्याम्म॒ल्हाङ्ग॒र्भिणी॒मा ल॑भते ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
