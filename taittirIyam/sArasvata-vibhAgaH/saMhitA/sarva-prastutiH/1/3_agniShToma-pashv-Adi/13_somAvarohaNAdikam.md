@@ -124,7 +124,7 @@ O King Soma, come hither, descend.
 </details>
 <details><summary>पद-पाठः</summary>
 
-सोम॑ । रा॒ज॒॒न् । एति॑ । इ॒हि॒ । अवेति॑ । रो॒ह॒ ।
+सोम॑ । रा॒ज॒न् । एति॑ । इ॒हि॒ । अवेति॑ । रो॒ह॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

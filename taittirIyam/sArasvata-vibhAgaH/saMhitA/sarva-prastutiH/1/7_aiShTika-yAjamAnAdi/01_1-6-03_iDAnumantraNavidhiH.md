@@ -198,7 +198,7 @@ The gods milked the sacrifice,
 
 <details><summary>पद-पाठः</summary>
 
-य॒ज्ञम् । वै । दे॒वाः । अ॒दु॒ह्र॒॒न् । 
+य॒ज्ञम् । वै । दे॒वाः । अ॒दु॒ह्र॒न् । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -255,7 +255,7 @@ the Asuras, being milked by the sacrifice, were defeated;
 </details>
 <details><summary>पद-पाठः</summary>
 
-ते । असु॑राः । य॒ज्ञदु॑ग्धा॒इति॑य॒ज्ञ-दु॒ग्धाः॒ । परेति॑ । अ॒भ॒व॒॒न् । 
+ते । असु॑राः । य॒ज्ञदु॑ग्धा॒इति॑य॒ज्ञ-दु॒ग्धाः॒ । परेति॑ । अ॒भ॒व॒न् । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -466,7 +466,7 @@ Manu laboured with the cooked offering;
 
 <details><summary>पद-पाठः</summary>
 
-सर्वे॑ण । वै । य॒ज्ञेन॑ । दे॒वाः । सु॒व॒र्गमिति॑सुवः-गम् । लो॒कम् । आ॒य॒॒न् ।  
+सर्वे॑ण । वै । य॒ज्ञेन॑ । दे॒वाः । सु॒व॒र्गमिति॑सुवः-गम् । लो॒कम् । आ॒य॒न् ।  
 
 पा॒क॒य॒ज्ञेनेति॑पाक-य॒ज्ञेन॑ । मनुः॑ । अ॒श्रा॒म्य॒त्॒ ।   
 </details>

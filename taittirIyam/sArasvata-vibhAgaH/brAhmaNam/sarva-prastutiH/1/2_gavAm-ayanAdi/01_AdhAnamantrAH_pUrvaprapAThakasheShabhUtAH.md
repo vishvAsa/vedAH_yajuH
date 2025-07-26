@@ -1099,7 +1099,7 @@ unicode_script: devanagari
 जात॑वेदो॒ भुव॑नस्य॒ रेतः॑।  
 इ॒ह सि॑ञ्च॒ तप॑सो॒ यज् ज॑नि॒ष्यते᳚ ॥15॥  
 अ॒ग्निम् अ॑श्व॒त्थाद् अधि॑ हव्य॒वाह᳚म् ।   
-श॒मी-॒ग॒र्भाज् ज॒नय॒॒न् यो म॑यो॒भूः ।
+श॒मी-॒ग॒र्भाज् ज॒नय॒न् यो म॑यो॒भूः ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/2_gavAm-ayanAdi/1/157_jAtavedo_bhuvanasya.md">
@@ -1109,7 +1109,7 @@ unicode_script: devanagari
 जात॑वेदो॒ भुव॑नस्य॒ रेतः॑।  
 इ॒ह सि॑ञ्च॒ तप॑सो॒ यज् ज॑नि॒ष्यते᳚ ॥15॥  
 अ॒ग्निम् अ॑श्व॒त्थाद् अधि॑ हव्य॒वाह᳚म् ।   
-श॒मी-॒ग॒र्भाज् ज॒नय॒॒न् यो म॑यो॒भूः ।
+श॒मी-॒ग॒र्भाज् ज॒नय॒न् यो म॑यो॒भूः ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

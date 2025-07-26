@@ -237,7 +237,7 @@ Let him choose glory that he may prosper,
 </div>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्वाहा॑॑।
+स्वाहा॑।
 </details>
 <details><summary>Keith</summary>
 
@@ -245,7 +245,7 @@ Let him choose glory that he may prosper,
 </details>
 <details><summary>मूलम्</summary>
 
-स्वाहा॑॑।
+स्वाहा॑।
 </details>
 <details><summary>पद-पाठः</summary>
 

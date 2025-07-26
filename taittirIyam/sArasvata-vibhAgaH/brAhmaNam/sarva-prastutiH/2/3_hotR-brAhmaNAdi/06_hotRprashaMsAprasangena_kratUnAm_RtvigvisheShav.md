@@ -35,12 +35,12 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"आत्म॒॒न् हा ३" इत्यह्व॑यत् ।
+"आत्म॒न् हा ३" इत्यह्व॑यत् ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-"आत्म॒॒न् हा ३" इत्यह्व॑यत् ।
+"आत्म॒न् हा ३" इत्यह्व॑यत् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

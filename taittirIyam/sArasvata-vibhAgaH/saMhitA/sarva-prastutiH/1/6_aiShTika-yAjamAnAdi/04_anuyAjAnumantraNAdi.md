@@ -29,7 +29,7 @@ By sacrifice to the divine straw, may I be possessed of children.
 </details>
 <details><summary>पद-पाठः</summary>
 
-ब॒र्‌हिषः॑ । अ॒हम् । दे॒व॒य॒ज्ययेति॑ देव-य॒ज्यया᳚ । प्र॒जावा॒निति॑ प्र॒जा-वा॒॒न् । भू॒या॒स॒म्॒ । 
+ब॒र्‌हिषः॑ । अ॒हम् । दे॒व॒य॒ज्ययेति॑ देव-य॒ज्यया᳚ । प्र॒जावा॒निति॑ प्र॒जा-वा॒न् । भू॒या॒स॒म्॒ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

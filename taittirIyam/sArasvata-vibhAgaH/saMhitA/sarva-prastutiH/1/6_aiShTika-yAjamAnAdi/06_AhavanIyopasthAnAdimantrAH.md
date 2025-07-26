@@ -535,7 +535,7 @@ Be rich the sacrifice; may I be rich.
 </details>
 <details><summary>पद-पाठः</summary>
 
-वसु॑मा॒निति॒ वसु॑-मा॒॒न् । य॒ज्ञः । वसी॑यान् । भू॒या॒स॒म्॒ । 
+वसु॑मा॒निति॒ वसु॑-मा॒न् । य॒ज्ञः । वसी॑यान् । भू॒या॒स॒म्॒ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1347,7 +1347,7 @@ May it make us overlords,
 </details>
 <details><summary>पद-पाठः</summary>
 
-सः । अ॒स्मान् । अधि॑पती॒नित्यधि॑-प॒ती॒॒न् । क॒रो॒तु॒ । 
+सः । अ॒स्मान् । अधि॑पती॒नित्यधि॑-प॒ती॒न् । क॒रो॒तु॒ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

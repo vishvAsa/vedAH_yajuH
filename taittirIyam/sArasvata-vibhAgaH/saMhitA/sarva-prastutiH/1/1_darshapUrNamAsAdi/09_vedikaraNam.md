@@ -633,7 +633,7 @@ Let not Araru mount the sky for thee.
 
 <details><summary>पद-पाठः</summary>
 
-अ॒ररुः॑ । ते॒ । दिव᳚म् । मा । स्का॒॒न् ।
+अ॒ररुः॑ । ते॒ । दिव᳚म् । मा । स्का॒न् ।
 </details>
 
 
