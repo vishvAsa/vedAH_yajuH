@@ -18,7 +18,7 @@ Hearken, ye pressing stones, to the sacrifice of me the wise one, Let the god Sa
 <details><summary>मूलम्</summary>
 
 शृ॒णोत्व॒ग्निस्स॒मिधा॒ हव॑म्मे शृ॒ण्वन्त्वापो॑ धि॒षणा॑श्च दे॒वीः ।  
-शृ॒णोत॑ ग्रावाणो वि॒दुषो॒ नु [22] य॒ज्ञꣳ शृ॒णोतु॑ दे॒वस्स॑वि॒ता हव॑म्मे ॥
+शृ॒णोत॑ ग्रावाणो वि॒दुषो॒ नु [22] य॒ज्ञँ शृ॒णोतु॑ दे॒वस्स॑वि॒ता हव॑म्मे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>

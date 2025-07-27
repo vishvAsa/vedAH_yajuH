@@ -30,7 +30,7 @@ Of honey shall I think, honey shall I produce, honey shall I proclaim, honey sha
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मधु॑मतीन् दे॒वेभ्यो॒ वाच॑म् **उद्यासꣳ**
+मधु॑मतीन् दे॒वेभ्यो॒ वाच॑म् **उद्यासँ**
 शुश्रू॒षेण्या॑म् मनु॒ष्ये॑भ्यः
 </details>
 
@@ -42,7 +42,7 @@ may I utter speech full of honey for the gods, and acceptable to men.
 
 <details><summary>मूलम्</summary>
 
-मधु॑मतीन्दे॒वेभ्यो॒ वाच॑मुद्यासꣳ
+मधु॑मतीन्दे॒वेभ्यो॒ वाच॑मुद्यासँ
 शुश्रू॒षेण्या॑म्मनु॒ष्ये॑भ्यः
 </details>
 

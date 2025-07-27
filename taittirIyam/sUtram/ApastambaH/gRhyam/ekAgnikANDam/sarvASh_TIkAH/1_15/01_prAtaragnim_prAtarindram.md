@@ -4,8 +4,8 @@ title = "०१ प्रातरग्निम् प्रातरिन्
 +++
 <details><summary>मूलम्</summary>
 
-प्रा॒तर॒ग्निं प्रा॒तरिन्द्रꣳ॑ हवामहे प्रा॒तर्मि॒त्रावरु॑णा प्रा॒तर॒श्विना॑ ।  
-प्रा॒तर्भगं॑ पू॒षणं॒ ब्रह्म॑ण॒स्पति॑म्प्रा॒तस्सोम॑मु॒त रु॒द्रꣳ हु॑वेम ।  
+प्रा॒तर॒ग्निं प्रा॒तरिन्द्रँ॑ हवामहे प्रा॒तर्मि॒त्रावरु॑णा प्रा॒तर॒श्विना॑ ।  
+प्रा॒तर्भगं॑ पू॒षणं॒ ब्रह्म॑ण॒स्पति॑म्प्रा॒तस्सोम॑मु॒त रु॒द्रँ हु॑वेम ।  
 </details>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/041/01_prAtaragniM_prAtarindraM.md">
 <details open><summary><h5>001 ...{Loading}...</h5></summary>

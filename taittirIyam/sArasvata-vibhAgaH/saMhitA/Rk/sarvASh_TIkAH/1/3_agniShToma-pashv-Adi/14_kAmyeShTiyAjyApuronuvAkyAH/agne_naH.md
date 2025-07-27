@@ -13,8 +13,8 @@ To our sacrifice and our oblation.
 
 <details><summary>मूलम्</summary>
 
-स न॑ᳶ पावक दीदि॒वोऽग्ने॑ दे॒वाꣳ इ॒हा व॑ह ।   
-उप॑ य॒ज्ञꣳ ह॒विश्च॑ नः ॥
+स न॑ᳶ पावक दीदि॒वोऽग्ने॑ दे॒वाँ इ॒हा व॑ह ।   
+उप॑ य॒ज्ञँ ह॒विश्च॑ नः ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

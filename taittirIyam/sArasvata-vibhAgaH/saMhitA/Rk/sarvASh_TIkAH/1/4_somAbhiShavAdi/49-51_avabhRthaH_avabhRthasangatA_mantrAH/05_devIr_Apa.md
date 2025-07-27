@@ -11,7 +11,7 @@ Ye divine waters, this is thy foetus, glad and well tended have we made it for y
 
 <details><summary>मूलम्</summary>
 
-देवी॑राप ए॒ष वो॒ गर्भ॒स्तव्ँव॒स्सुप्री॑त॒ꣳ॒ सुभृ॑तमकर्म दे॒वेषु॑ नस्सु॒कृतो॑ ब्रूतात् ।
+देवी॑राप ए॒ष वो॒ गर्भ॒स्तव्ँव॒स्सुप्री॑त॒ँ॒ सुभृ॑तमकर्म दे॒वेषु॑ नस्सु॒कृतो॑ ब्रूतात् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

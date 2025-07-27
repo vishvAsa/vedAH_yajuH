@@ -13,7 +13,7 @@ Join ye rich ones with the moving ones, sweet ones with the sweet.
 <details><summary>मूलम्</summary>
 
 समापो॑ अ॒द्भिर॑ग्मत॒ समोष॑धयो॒ रसे॑न ।     
-सꣳ रे॒वती॒र्जग॑तीभि॒र्मधु॑मती॒र्मधु॑मतीभिस्सृज्यध्वम्  ॥  
+सँ रे॒वती॒र्जग॑तीभि॒र्मधु॑मती॒र्मधु॑मतीभिस्सृज्यध्वम्  ॥  
 +++([वाजसनेयीसंहितानुसारेण](http://titus.uni-frankfurt.de/texte/etcd/ind/aind/ved/yvw/vs/vst.htm) अत्र मन्त्रविभागः कृतः)+++
 </details>
 

@@ -15,7 +15,7 @@ I drive away the disease from thee.
 <details><summary>मूलम्</summary>
 
 आयु॑ष्टे वि॒श्वतो॑ दधद॒यम॒ग्निर्वरे॑ण्यः ।  
-पुन॑स्ते प्रा॒ण आय॑ति॒ परा॒ यक्ष्मꣳ॑ सुवामि ते ॥
+पुन॑स्ते प्रा॒ण आय॑ति॒ परा॒ यक्ष्मँ॑ सुवामि ते ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

@@ -14,7 +14,7 @@ Let Aditi guard us from tribulation.
 <details><summary>मूलम्</summary>
 
 अदि॑तिर्न उरुष्य॒त्वदि॑ति॒श्शर्म॑ यच्छतु ।  
-अदि॑तिᳶ पा॒त्वꣳह॑सः  ॥
+अदि॑तिᳶ पा॒त्वँह॑सः  ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

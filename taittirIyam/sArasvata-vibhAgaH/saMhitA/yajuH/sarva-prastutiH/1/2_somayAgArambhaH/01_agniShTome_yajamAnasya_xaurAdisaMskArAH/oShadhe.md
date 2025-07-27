@@ -21,7 +21,7 @@ O plant, protect him.
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-ओष॑धे॒ त्राय॑स्वैन॒ꣵ॒ स्वधि॑ते॒ मैनꣳ॑ हिꣳसीः
+ओष॑धे॒ त्राय॑स्वैन॒ँ॒ स्वधि॑ते॒ मैनँ॑ हिँसीः
 </details>
 
 <details><summary>मूलम्</summary>

@@ -9,7 +9,7 @@ unicode_script = "devanagari"
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्र॒ह्म॒-वनि॑न् त्वा  क्षत्र॒-वनिꣳ॑ सुप्रजा॒-वनिꣳ॑ रायस्-पोष॒-वनि॒म् पर्यू॑हामि।
+ब्र॒ह्म॒-वनि॑न् त्वा  क्षत्र॒-वनिँ॑ सुप्रजा॒-वनिँ॑ रायस्-पोष॒-वनि॒म् पर्यू॑हामि।
 </details>
 
 <details><summary>Keith</summary>
@@ -19,7 +19,7 @@ Thee that art winner of Brahmans, winner of nobles, winner of fair offspring, wi
 
 <details><summary>मूलम्</summary>
 
-ब्र॒ह्म॒वनि॑न्त्वा  क्षत्र॒वनिꣳ॑ सुप्रजा॒वनिꣳ॑ रायस्पोष॒वनि॒म्पर्यू॑हामि।
+ब्र॒ह्म॒वनि॑न्त्वा  क्षत्र॒वनिँ॑ सुप्रजा॒वनिँ॑ रायस्पोष॒वनि॒म्पर्यू॑हामि।
 </details>
 
 <details><summary>पद-पाठः</summary>

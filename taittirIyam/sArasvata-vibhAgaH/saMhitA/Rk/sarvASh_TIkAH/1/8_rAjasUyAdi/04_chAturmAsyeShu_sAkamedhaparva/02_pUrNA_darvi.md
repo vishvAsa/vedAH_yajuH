@@ -15,7 +15,7 @@ Let us barter food and strength.
 <details><summary>मूलम्</summary>
 
 पू॒र्णा द॑र्वि॒ परा॑ पत॒ सुपू॑र्णा॒ पुन॒राप॑त ।   
-व॒स्नेव॒ वि क्री॑णावहा॒ इष॒मूर्जꣳ॑ शतक्रतो  ॥
+व॒स्नेव॒ वि क्री॑णावहा॒ इष॒मूर्जँ॑ शतक्रतो  ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

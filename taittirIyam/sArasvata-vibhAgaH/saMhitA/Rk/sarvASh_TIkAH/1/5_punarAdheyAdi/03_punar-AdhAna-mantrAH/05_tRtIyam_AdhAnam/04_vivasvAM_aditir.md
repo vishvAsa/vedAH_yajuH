@@ -11,7 +11,7 @@ Vivasvan, Aditi, Devajuti, may these Adityas rejoicing partake of our oblation.
 
 <details><summary>मूलम्</summary>
 
-विव॑स्वा॒ꣳ॒ अदि॑ति॒र्देव॑जूति॒स्ते न॑ आदि॒त्या आज्य॑ञ्जुषा॒णा वि॑यन्तु ॥ [12]
+विव॑स्वा॒ँ॒ अदि॑ति॒र्देव॑जूति॒स्ते न॑ आदि॒त्या आज्य॑ञ्जुषा॒णा वि॑यन्तु ॥ [12]
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

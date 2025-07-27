@@ -8,7 +8,7 @@ unicode_script = "devanagari"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(आज्य!)+++ म॒ही॒नाम् +++(गवां)+++ पयो॑ ऽसि  ।  
-ओष॑धीना॒ꣳ॒ रसः॑।
+ओष॑धीना॒ँ॒ रसः॑।
 </details>
 
 <details><summary>Keith</summary>
@@ -21,7 +21,7 @@ of plants the sap.
 <details><summary>मूलम्</summary>
 
 म॒ही॒नाम्पयो॑ऽसि  ।  
-ओष॑धीना॒ꣳ॒ रसः॑ +++(असि)+++ ।
+ओष॑धीना॒ँ॒ रसः॑ +++(असि)+++ ।
 </details>
 
 <details><summary>पद-पाठः</summary>

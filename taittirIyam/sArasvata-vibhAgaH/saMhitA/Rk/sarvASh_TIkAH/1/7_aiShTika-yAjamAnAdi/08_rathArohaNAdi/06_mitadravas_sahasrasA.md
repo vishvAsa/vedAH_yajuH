@@ -14,7 +14,7 @@ The steeds, which have won in the contests great prizes.
 <details><summary>मूलम्</summary>
 
 मि॒तद्र॑वस्सहस्र॒सा मे॒धसा॑ता सनि॒ष्यवः॑ ।  
-म॒हो ये रत्नꣳ॑ समि॒थेषु॑ जभ्रि॒रे ॥
+म॒हो ये रत्नँ॑ समि॒थेषु॑ जभ्रि॒रे ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

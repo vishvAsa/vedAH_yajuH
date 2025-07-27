@@ -14,7 +14,7 @@ Waxing in his own horne.
 <details><summary>मूलम्</summary>
 
 राज॑न्तमध्व॒राणा॑ङ्गो॒पामृ॒तस्य॒ दीदि॑विम् ।  
-वर्ध॑मान॒ꣵ॒ स्वे दमे॑  ॥
+वर्ध॑मान॒ँ॒ स्वे दमे॑  ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

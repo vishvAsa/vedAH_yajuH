@@ -4,7 +4,7 @@ title = "१४ पुंसुवनमसि"
 +++
 <details><summary>मूलम्</summary>
 
-पु॒ꣳ॒सु॒वन॑मसि ।  
+पु॒ँ॒सु॒वन॑मसि ।  
 </details>
 <details><summary>हरदत्तः</summary>
 

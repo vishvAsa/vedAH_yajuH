@@ -5,7 +5,7 @@ unicode_script = "devanagari"
 
 <details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
-पि॒तृ॒णाꣳ+++(=पितॄणाम्)+++ सद॑नमसि।  
+पि॒तृ॒णाँ+++(=पितॄणाम्)+++ सद॑नमसि।  
 +++('नामन्यतरस्याम्' इति षष्ठीबहुवचनस्योदात्तत्वम्। )+++
 </details>
 
@@ -16,7 +16,7 @@ Thou art the seat of the Pitrs.
 
 <details><summary>मूलम्</summary>
 
-पि॒तृ॒णाꣳ सद॑नम् असि।
+पि॒तृ॒णाँ सद॑नम् असि।
 </details>
 <details><summary>पद-पाठः</summary>
 

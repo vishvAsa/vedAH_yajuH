@@ -12,7 +12,7 @@ Humble by depression.
 
 <details><summary>मूलम्</summary>
 
-अथा॑ स॒पत्ना॒ꣳ॒ इन्द्रो॑ मे निग्रा॒भेणाध॑राꣳ अकः ॥
+अथा॑ स॒पत्ना॒ँ॒ इन्द्रो॑ मे निग्रा॒भेणाध॑राँ अकः ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
