@@ -6,7 +6,7 @@ title = "०६ यस्मै त्वम्"
 
 यस्मै॒ त्वँ सु॒कृते॑ जातवेद॒ उ  
 लो॒कम॑ग्ने कृ॒णवः॑ स्यो॒नम् ।  
-अ॒श्विन॒ँ॒ स पु॒त्रिणं॑ वी॒रव॑न्तं॒  
+अ॒श्विनँ॒ स पु॒त्रिणं॑ वी॒रव॑न्तं॒  
 गोम॑न्तँ र॒यिं न॑शते स्व॒स्ति ॥
 </details>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/004/11_yasmai_tvaM.md">

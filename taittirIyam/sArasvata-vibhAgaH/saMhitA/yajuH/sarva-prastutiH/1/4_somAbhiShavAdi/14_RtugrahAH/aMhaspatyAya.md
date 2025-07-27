@@ -4,7 +4,7 @@ unicode_script = "devanagari"
 +++
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ँ॒ह॒स्प॒त्याय॑ त्वा   +++(जुष्टं गृण्हामि)+++
+अँ॒ह॒स्प॒त्याय॑ त्वा   +++(जुष्टं गृण्हामि)+++
 </details>
 
 <details><summary>Keith</summary>
@@ -15,7 +15,7 @@ To Anhaspatya thee!
 
 <details><summary>मूलम्</summary>
 
-अ॒ँ॒ह॒स्प॒त्याय॑ त्वा
+अँ॒ह॒स्प॒त्याय॑ त्वा
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

@@ -21,7 +21,7 @@ which we have prepared with the gods (for thee).
 
 <details><summary>पद-पाठः</summary>
 
-श्ये॒नः । भू॒त्वा । परेति॑ । प॒त॒ । यज॑मानस्य । नः॒ । गृ॒हे । दे॒वैः । स॒ँ॒स्कृ॒तम् । 
+श्ये॒नः । भू॒त्वा । परेति॑ । प॒त॒ । यज॑मानस्य । नः॒ । गृ॒हे । दे॒वैः । सँ॒स्कृ॒तम् । 
 </details>
 
 <details><summary>प्रदीपसिंहः</summary>

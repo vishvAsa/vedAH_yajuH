@@ -23,7 +23,7 @@ This is your king, O Bharatas;
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सोमो॒ऽस्माक॑म् ब्राह्म॒णाना॒ँ॒ राजा॑ ।+++(5)+++
+सोमो॒ऽस्माक॑म् ब्राह्म॒णानाँ॒ राजा॑ ।+++(5)+++
 </details>
 <details><summary>Keith</summary>
 
@@ -31,7 +31,7 @@ Soma is the king of us Brahmans.
 </details>
 <details><summary>मूलम्</summary>
 
-सोमो॒ऽस्माक॑म्ब्राह्म॒णाना॒ँ॒ राजा॑ ।
+सोमो॒ऽस्माक॑म्ब्राह्म॒णानाँ॒ राजा॑ ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

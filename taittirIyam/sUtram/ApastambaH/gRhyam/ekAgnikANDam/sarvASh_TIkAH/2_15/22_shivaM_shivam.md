@@ -4,7 +4,7 @@ title = "२२ शिवं शिवम्"
 +++
 <details><summary>मूलम्</summary>
 
-शि॒व॒ँ॒ शि॒वम् ॥ (१५)
+शि॒वँ॒ शि॒वम् ॥ (१५)
 </details>
 <details><summary>हरदत्तः</summary>
 
