@@ -45,7 +45,7 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 आपो॒ वै द॒र्भाः ।
-रू॒पमे॒वैषा॑मे॒तन्म॑हि॒मान॒व्ँव्याच॑ष्टे ।
+रू॒पमे॒वैषा॑मे॒तन्म॑हि॒मान॒व्व्ँयाच॑ष्टे ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

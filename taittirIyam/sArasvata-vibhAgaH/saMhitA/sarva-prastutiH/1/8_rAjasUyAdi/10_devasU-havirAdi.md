@@ -43,7 +43,7 @@ to Soma, lord of the forest, an oblation of millet;
 </details>
 <details><summary>मूलम्</summary>
 
-कृ॒ष्णाना॑व्ँव्रीही॒णाँ सोमा॑य॒ वन॒स्पत॑ये
+कृ॒ष्णाना॑व्व्ँरीही॒णाँ सोमा॑य॒ वन॒स्पत॑ये
 श्यामा॒कञ्च॒रुम्  +++(निर्व॑पति)+++  ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -61,7 +61,7 @@ to Savitr, of true instigation, a cake of swift-growing rice on twelve potsherds
 </details>
 <details><summary>मूलम्</summary>
 
-स॑वि॒त्रे स॒त्यप्र॑सवाय पुरो॒डाश॒न्द्वाद॑शकपालम्  आशू॒नाव्ँव्री॑ही॒णाँ …
+स॑वि॒त्रे स॒त्यप्र॑सवाय पुरो॒डाश॒न्द्वाद॑शकपालम्  आशू॒नाव्व्ँरी॑ही॒णाँ …
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

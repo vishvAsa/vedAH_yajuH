@@ -206,12 +206,12 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व्र॒ताना॑व्ँव्रतपते
+व्र॒ताना॑व्व्ँरतपते
 </details>
 
 <details><summary>मूलम्</summary>
 
-व्र॒ताना॑व्ँव्रतपते
+व्र॒ताना॑व्व्ँरतपते
 </details>
 
 
@@ -327,12 +327,12 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व्र॒ताना॑व्ँव्रतपते
+व्र॒ताना॑व्व्ँरतपते
 </details>
 
 <details><summary>मूलम्</summary>
 
-व्र॒ताना॑व्ँव्रतपते
+व्र॒ताना॑व्व्ँरतपते
 </details>
 
 

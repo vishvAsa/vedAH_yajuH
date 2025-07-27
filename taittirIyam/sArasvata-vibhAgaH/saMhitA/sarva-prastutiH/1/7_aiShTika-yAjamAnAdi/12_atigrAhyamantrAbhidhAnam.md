@@ -121,7 +121,7 @@ thee that sittest in the waters, that sittest in the ghee, that sittest in the s
 </details>
 <details><summary>मूलम्</summary>
 
-अ॒प्सु॒षद॑न्त्वा घृत॒सद॑व्ँव्योम॒सद॒मिन्द्रा॑य॒ जुष्ट॑ङ्गृह्णामि ।  
+अ॒प्सु॒षद॑न्त्वा घृत॒सद॑व्व्ँयोम॒सद॒मिन्द्रा॑य॒ जुष्ट॑ङ्गृह्णामि ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
