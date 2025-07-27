@@ -189,9 +189,9 @@ SANDHI
 
  (b) Final au regularly changes into āv before an initial vowel. Of final e, o and ai changing into ay, av and āy there are very few instances—avaruṇadhāy i(ms. e)ti VI, 8; rucay eṣā VII, 5; tay enaṃVII, 8; vibhāvasav iti XXX, 3.
 
- (c) Final ān preceding a vowel has sometimes been reduced to aṃor amꣲagainst Kāṭh. āmꣲ—
+ (c) Final ān preceding a vowel has sometimes been reduced to aṃor amँagainst Kāṭh. āmँ—
 
- amṛtaṃanu I, 19; haviṣmaṃāvivāsati, haviṣmaṃastu II, 16; martyaṃāviveśa VI, 2; devahūtamaṃagne XXXIV; rudramꣲiśvaro XXXV, 5; madhumaṃindriyāvān XLVIII, 9; antaraṃamitrān XLVIII, 13. This usage accords with that of the Maitrāyaṇī Saṃhitā. But uttarān aśīya I, 13 for Kāṭh. II, 1:8,7 uttrāmꣲaśīya.
+ amṛtaṃanu I, 19; haviṣmaṃāvivāsati, haviṣmaṃastu II, 16; martyaṃāviveśa VI, 2; devahūtamaṃagne XXXIV; rudramँiśvaro XXXV, 5; madhumaṃindriyāvān XLVIII, 9; antaraṃamitrān XLVIII, 13. This usage accords with that of the Maitrāyaṇī Saṃhitā. But uttarān aśīya I, 13 for Kāṭh. II, 1:8,7 uttrāmँaśīya.
 
  (d) ḍ and ḍh between two vowels are thrice changed to and ḷh—  
  samulhaṃII, 4; mṛḷayanta III, 8; dūḷabho V, 2.
@@ -214,7 +214,7 @@ niḥkṛtiḥ, niḥkaroti IV, 2; catuḥpada IV, 3; yajuḥkāryaṃ, niḥk�
 
  Also jyotiḥ paśyantaḥ XXIX, 4 for Kāṭh. XVIII, 16: 277, 1 jyotiṣpaśyantaḥ, dviḥ pacantu XXX, 5 for Kāṭh. XIX, 7: 8, 10 dviṣpacantu; āyuḥ kurute XLIV, 5 for Kāṭh. XXVIII, 5: 159, 4 āyuṣ kurute.
 
- (h) The use of the candrabindu before a ś, ș, s, h or an initial vowel is not regular. Mostly the simple anusvāra is used instead. Once, however, the anusvāra preceding a y is changed to a candrabindu after the manner of the Maitrāyaṇīyas—āyatanavantamꣲ yajamānaṃXLIV, 3.
+ (h) The use of the candrabindu before a ś, ș, s, h or an initial vowel is not regular. Mostly the simple anusvāra is used instead. Once, however, the anusvāra preceding a y is changed to a candrabindu after the manner of the Maitrāyaṇīyas—āyatanavantamँ yajamānaṃXLIV, 3.
 
 KAPIṢṬHALA VARIANTS
 

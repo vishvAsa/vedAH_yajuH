@@ -7,11 +7,11 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ओं भूः । ओं भुवः॑ । ओꣳ सुवः॑ । ओं महः॑ । ओञ् जनः॑ । ओं तपः॑ । ओꣳ स॒त्यम् ।
+ओं भूः । ओं भुवः॑ । ओँ सुवः॑ । ओं महः॑ । ओञ् जनः॑ । ओं तपः॑ । ओँ स॒त्यम् ।
 </details>
 <details><summary>मूलम्</summary>
 
-ओं भूः । ओं भुवः॑ । ओꣳ सुवः॑ । ओं महः॑ । ओञ्जनः॑ । ओं तपः॑ । ओꣳ स॒त्यम् ।
+ओं भूः । ओं भुवः॑ । ओँ सुवः॑ । ओं महः॑ । ओञ्जनः॑ । ओं तपः॑ । ओँ स॒त्यम् ।
 </details>
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/062/10_tatsaviturvareNyaM_bhargo.md">
 <details open><summary><h3>१० तत्सवितुर्वरेण्यं भर्गो ...{Loading}...</h3></summary>

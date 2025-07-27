@@ -313,7 +313,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वृषा᳚स्य् ऊ॒र्मिः  ।     
+वृषा॑स्य् ऊ॒र्मिः  ।     
 </details>
 <details><summary>Keith</summary>
 
@@ -321,7 +321,7 @@ thou art the male wave,
 </details>
 <details><summary>मूलम्</summary>
 
-वृषा᳚स्यू॒र्मिः  ।     
+वृषा॑स्यू॒र्मिः  ।     
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -393,7 +393,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </div>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[वृषा᳚स्य् ऊ॒र्मिः  ।]
+[वृषा॑स्य् ऊ॒र्मिः  ।]
 </details>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 <details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
@@ -585,7 +585,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व्रज॒-ख्षित॑स्+++(=आश्रयाः)+++ स्थ।      
+व्रज॒-क्षित॑स्+++(=आश्रयाः)+++ स्थ।      
 </details>
 <details><summary>Keith</summary>
 
@@ -593,7 +593,7 @@ ye are the pen-dwellers,
 </details>
 <details><summary>मूलम्</summary>
 
-व्रज॒ख्षित॑स्स्थ।      
+व्रज॒क्षित॑स्स्थ।      
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -665,7 +665,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </div>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[व्रज॒ख्षित॑स् स्थ।]
+[व्रज॒क्षित॑स् स्थ।]
 </details>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 <details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
@@ -1125,7 +1125,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मान्दाः᳚ स्थ  ।      
+मान्दाः॑ स्थ  ।      
 </details>
 <details><summary>Keith</summary>
 
@@ -1133,7 +1133,7 @@ ye are delightful,
 </details>
 <details><summary>मूलम्</summary>
 
-मान्दाः᳚ स्थ  ।      
+मान्दाः॑ स्थ  ।      
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -1205,7 +1205,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </div>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[मान्दाः᳚ स्थ  ।]
+[मान्दाः॑ स्थ  ।]
 </details>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 <details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
@@ -1261,7 +1261,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वाशाः᳚ स्थ  ।      
+वाशाः॑ स्थ  ।      
 </details>
 <details><summary>Keith</summary>
 
@@ -1269,7 +1269,7 @@ ye are obedient,
 </details>
 <details><summary>मूलम्</summary>
 
-वाशाः᳚ स्थ  ।      
+वाशाः॑ स्थ  ।      
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -1341,7 +1341,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </div>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[वाशाः᳚ स्थ  ।]
+[वाशाः॑ स्थ  ।]
 </details>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 <details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
@@ -1805,7 +1805,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्नेस् ते॑ज॒स्याः᳚ स्थ  ।      
+अ॒ग्नेस् ते॑ज॒स्याः॑ स्थ  ।      
 </details>
 <details><summary>Keith</summary>
 
@@ -1813,7 +1813,7 @@ ye have the brilliance of Agni,
 </details>
 <details><summary>मूलम्</summary>
 
-अ॒ग्नेस्ते॑ज॒स्याः᳚ स्थ  ।      
+अ॒ग्नेस्ते॑ज॒स्याः॑ स्थ  ।      
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -1885,7 +1885,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </div>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[अ॒ग्नेस् ते॑ज॒स्याः᳚ स्थ  ।]
+[अ॒ग्नेस् ते॑ज॒स्याः॑ स्थ  ।]
 </details>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 <details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>
@@ -1941,7 +1941,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒पामोष॑धीना॒ꣳ॒ रस॑स्स्थ  ।      
+अ॒पामोष॑धीनाँ॒ रस॑स्स्थ  ।      
 </details>
 <details><summary>Keith</summary>
 
@@ -1949,7 +1949,7 @@ ye are the sap of the waters, of the plants.
 </details>
 <details><summary>मूलम्</summary>
 
-अ॒पामोष॑धीना॒ꣳ॒ रस॑स्स्थ  ।      
+अ॒पामोष॑धीनाँ॒ रस॑स्स्थ  ।      
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -2023,7 +2023,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </div>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[अ॒पामोष॑धीना॒ꣳ॒ रस॑स्स्थ  ।]
+[अ॒पामोष॑धीनाँ॒ रस॑स्स्थ  ।]
 </details>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 <details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>

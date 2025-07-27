@@ -21,7 +21,7 @@ unicode_script: devanagari
 तण्डुलानां+++(→पुलाकानां)+++ मुखं पूरयित्वा  
 गीर्त्वा +++(जलम् पीत्वा)+++ ऽऽचम्य  
 +ओदन-पिण्डं संवृत्त्य +++(यथा+उत्क्षेपे न विशीर्येत)+++  
-+उत्तरेण यजुषा+++(प॒र॒मे॒ष्ठ्य् असि॑ पर॒मां मा॒ꣳ॒ श्रियं॑ गमय ।)+++ ऽऽगार-स्तूप उद्विद्धेत्+++(=उद्-विध्येत्)+++ ७  
++उत्तरेण यजुषा+++(प॒र॒मे॒ष्ठ्य् असि॑ पर॒मां माँ॒ श्रियं॑ गमय ।)+++ ऽऽगार-स्तूप उद्विद्धेत्+++(=उद्-विध्येत्)+++ ७  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/01_parameShThyasi_paramAm.md">
 <details open><summary><h4>०१ परमेष्ठ्यसि परमाम् ...{Loading}...</h4></summary>
@@ -29,7 +29,7 @@ unicode_script: devanagari
 
 
 +++(अगारस्तूपे स्थितः)+++ प॒र॒मे॒ष्ठ्य् असि॑।  
-पर॒मां मा॒ꣳ॒ श्रियं॑ गमय ।  
+पर॒मां माँ॒ श्रियं॑ गमय ।  
 
 </details>
 </div>

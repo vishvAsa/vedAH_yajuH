@@ -27,7 +27,7 @@ title = "२२ काम्येष्टि-याज्यापुरोन
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/22_kAmyeShTiyAjyApuronuvAkyAH/02_agnAviShNU_mahi.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-अग्ना॑-विष्णू॒ महि॒ तद् वा᳚म् महि॒त्वव्ँ,  
+अग्ना॑-विष्णू॒ महि॒ तद् वा॑म् महि॒त्वव्ँ,  
 **वी॒तङ्** घृ॒तस्य॒ गुह्या॑नि॒ नाम॑ ।   
 दमे॑-दमे+++(=गृहेगृहे, ज्वालागणनया)+++ स॒प्त रत्ना॒ **दधा॑ना॒**   
 प्रति॑ वाञ् जि॒ह्वा घृ॒तम् **आ च॑रण्येत्**  ॥
@@ -44,7 +44,7 @@ May your tongue move forth to the ghee.
 </details>
 <details><summary>मूलम्</summary>
 
-अग्ना॑विष्णू॒ महि॒ तद्वा᳚म्महि॒त्वँ.. .  
+अग्ना॑विष्णू॒ महि॒ तद्वा॑म्महि॒त्वँ.. .  
 व्वी॒तङ्घृ॒तस्य॒ गुह्या॑नि॒ नाम॑ ।   
 दमे॑दमे स॒प्त रत्ना॒ दधा॑ना॒   
 प्रति॑ वाञ्जि॒ह्वा घृ॒तमा च॑रण्येत्  ॥
@@ -64,7 +64,7 @@ May your tongue move forth to the ghee.
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/22_kAmyeShTiyAjyApuronuvAkyAH/03_agnAviShNU_mahi.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-अग्ना॑विष्णू॒ महि॒ धाम॑ प्रि॒यव्ँ वा᳚व्ँ  
+अग्ना॑विष्णू॒ महि॒ धाम॑ प्रि॒यव्ँ वा॑व्ँ  
 **वी॒थो** घृ॒तस्य॒ गुह्या॑ **जुषा॒णा** ।  
 दमे॑-दमे सुष्टु॒तीर् **वा॑वृधा॒ना**  
 प्रति॑ वाञ् जि॒ह्वा घृ॒तम् **उच्च॑रण्येत्**  ॥
@@ -81,7 +81,7 @@ May your tongue move forth to the ghee.
 </details>
 <details><summary>मूलम्</summary>
 
-अग्ना॑विष्णू॒ महि॒ धाम॑ प्रि॒यव्ँवा᳚व्ँवी॒थो घृ॒तस्य॒ गुह्या॑ जुषा॒णा ।  
+अग्ना॑विष्णू॒ महि॒ धाम॑ प्रि॒यव्ँवा॑व्ँवी॒थो घृ॒तस्य॒ गुह्या॑ जुषा॒णा ।  
 दमे॑दमे सुष्टु॒तीर्वा॑वृधा॒ना प्रति॑ वाञ्जि॒ह्वा घृ॒तमुच्च॑रण्येत्  ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>

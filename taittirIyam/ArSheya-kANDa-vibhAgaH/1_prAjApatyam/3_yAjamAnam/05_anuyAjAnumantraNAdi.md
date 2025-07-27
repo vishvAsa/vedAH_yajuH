@@ -19,7 +19,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब॒र्हिषो॒ ऽहन् दे॑वय॒ज्यया᳚ प्र॒जावा᳚न् भूयासम् ।
+ब॒र्हिषो॒ ऽहन् दे॑वय॒ज्यया॑ प्र॒जावा॑न् भूयासम् ।
 </details>
 <details><summary>Keith</summary>
 
@@ -27,7 +27,7 @@ By sacrifice to the divine straw, may I be possessed of children.
 </details>
 <details><summary>मूलम्</summary>
 
-ब॒र्हिषो॒ऽहन्दे॑वय॒ज्यया᳚ प्र॒जावा᳚न्भूयासम् ।
+ब॒र्हिषो॒ऽहन्दे॑वय॒ज्यया॑ प्र॒जावा॑न्भूयासम् ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -35,7 +35,7 @@ By sacrifice to the divine straw, may I be possessed of children.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न॒रा॒शꣳस॑स्या॒हन् दे॑वय॒ज्यया॑ पशु॒मान् भू॑यासम् ।
+न॒रा॒शँस॑स्या॒हन् दे॑वय॒ज्यया॑ पशु॒मान् भू॑यासम् ।
 </details>
 <details><summary>Keith</summary>
 
@@ -43,7 +43,7 @@ By sacrifice to the god Naraśansa, may I be possessed of cattle.
 </details>
 <details><summary>मूलम्</summary>
 
-न॒रा॒शꣳस॑स्या॒हन्दे॑वय॒ज्यया॑ पशु॒मान्भू॑यासम् ।
+न॒रा॒शँस॑स्या॒हन्दे॑वय॒ज्यया॑ पशु॒मान्भू॑यासम् ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -77,7 +77,7 @@ _______
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-अ॒ग्नेर॒हमुज्जि॑ति॒मनूज्जे॑ष॒ꣳ॒ सोम॑स्या॒हमुज्जि॑ति॒मनूज्जे॑षम॒ग्नेर॒हमुज्जि॑ति॒मनूज्जे॑षम॒ग्नीषोम॑योर॒हमुज्जि॑ति॒मनूज्जे॑षमिन्द्राग्नि॒योर॒हमुज्जि॑ति॒मनूज्जे॑ष॒मिन्द्र॑स्या॒हम् [11]उज्जि॑ति॒मनूज्जे॑षम्महे॒न्द्रस्या॒हमुज्जि॑ति॒मनूज्जे॑षम॒ग्नेस्स्वि॑ष्ट॒कृतो॒ऽहमुज्जि॑ति॒मनूज्जे॑षम् 
+अ॒ग्नेर॒हमुज्जि॑ति॒मनूज्जे॑षँ॒ सोम॑स्या॒हमुज्जि॑ति॒मनूज्जे॑षम॒ग्नेर॒हमुज्जि॑ति॒मनूज्जे॑षम॒ग्नीषोम॑योर॒हमुज्जि॑ति॒मनूज्जे॑षमिन्द्राग्नि॒योर॒हमुज्जि॑ति॒मनूज्जे॑ष॒मिन्द्र॑स्या॒हम् [11]उज्जि॑ति॒मनूज्जे॑षम्महे॒न्द्रस्या॒हमुज्जि॑ति॒मनूज्जे॑षम॒ग्नेस्स्वि॑ष्ट॒कृतो॒ऽहमुज्जि॑ति॒मनूज्जे॑षम् 
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -131,7 +131,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
-वाज॑स्य+++(=अन्नस्य)+++ मा प्रस॒वेन᳚+++(=योनिना)++++उद्ग्रा॒भेण+++(=ग्रहेण [जुह्वा])+++ +उद॑ग्रभीत् ।
+वाज॑स्य+++(=अन्नस्य)+++ मा प्रस॒वेन॑+++(=योनिना)++++उद्ग्रा॒भेण+++(=ग्रहेण [जुह्वा])+++ +उद॑ग्रभीत् ।
 </details>
 <details><summary>Keith</summary>
 
@@ -140,7 +140,7 @@ With elevation he hath lifted me up;
 </details>
 <details><summary>मूलम्</summary>
 
-वाज॑स्य मा प्रस॒वेनो᳚द्ग्रा॒भेणोद॑ग्रभीत् ।
+वाज॑स्य मा प्रस॒वेनो॑द्ग्रा॒भेणोद॑ग्रभीत् ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -156,8 +156,8 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथा॑ स॒पत्ना॒ꣳ॒ इन्द्रो॑ मे  
-निग्रा॒भेणाध॑राꣳ अकः+++(=करोतु)+++ ॥
+अथा॑ स॒पत्नाँ॒ इन्द्रो॑ मे  
+निग्रा॒भेणाध॑राँ अकः+++(=करोतु)+++ ॥
 </details>
 <details><summary>Keith</summary>
 
@@ -166,7 +166,7 @@ Humble by depression.
 </details>
 <details><summary>मूलम्</summary>
 
-अथा॑ स॒पत्ना॒ꣳ॒ इन्द्रो॑ मे निग्रा॒भेणाध॑राꣳ अकः ॥
+अथा॑ स॒पत्नाँ॒ इन्द्रो॑ मे निग्रा॒भेणाध॑राँ अकः ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -245,14 +245,14 @@ _______
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-एमा अ॑ग्मन्ना॒शिषो॒ दोह॑कामा॒ इन्द्र॑वन्तः [12]व॒ना॒म॒हे॒ धु॒ख्षी॒महि॑ प्र॒जामिष᳚म् ॥ 
+एमा अ॑ग्मन्ना॒शिषो॒ दोह॑कामा॒ इन्द्र॑वन्तः [12]व॒ना॒म॒हे॒ धु॒क्षी॒महि॑ प्र॒जामिष॑म् ॥ 
 </details>
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/04_anuyAjAnumantraNAdi/06_AimA_agmann.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 आ+इ॒मा अ॑ग्मन्न् आ॒शिषो॒ दोह॑-कामा  
 इन्द्र॑वन्तो  व॒ना॒म॒हे ।    
-धु॒ख्षी॒महि॑ प्र॒जाम् इष᳚म्  ॥
+धु॒क्षी॒महि॑ प्र॒जाम् इष॑म्  ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/04_anuyAjAnumantraNAdi/06_AimA_agmann.md">
@@ -267,7 +267,7 @@ May we milk offspring and food.
 
 एमा अ॑ग्मन्ना॒शिषो॒ दोह॑कामा    
 इन्द्र॑वन्तो  व॒ना॒म॒हे ।    
-धु॒ख्षी॒महि॑ प्र॒जामिष᳚म्  ॥
+धु॒क्षी॒महि॑ प्र॒जामिष॑म्  ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -288,11 +288,11 @@ _______
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-रोहि॑तेन त्वा॒ऽग्निर्दे॒वता᳚ङ्गमयतु॒ हरि॑भ्या॒न्त्वेन्द्रो॑ दे॒वता᳚ङ्गमय॒त्वेत॑शेन त्वा॒ सूर्यो॑ दे॒वता᳚ङ्गमयतु  
+रोहि॑तेन त्वा॒ऽग्निर्दे॒वता॑ङ्गमयतु॒ हरि॑भ्या॒न्त्वेन्द्रो॑ दे॒वता॑ङ्गमय॒त्वेत॑शेन त्वा॒ सूर्यो॑ दे॒वता॑ङ्गमयतु  
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रोहि॑तेन त्वा॒ ऽग्निर् दे॒वता᳚ङ् गमयतु ।   
+रोहि॑तेन त्वा॒ ऽग्निर् दे॒वता॑ङ् गमयतु ।   
 </details>
 <details><summary>Keith</summary>
 
@@ -300,7 +300,7 @@ With the red steed may Agni convey thee to the god;
 </details>
 <details><summary>मूलम्</summary>
 
-रोहि॑तेन त्वा॒ऽग्निर्दे॒वता᳚ङ्गमयतु ।   
+रोहि॑तेन त्वा॒ऽग्निर्दे॒वता॑ङ्गमयतु ।   
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -308,7 +308,7 @@ With the red steed may Agni convey thee to the god;
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-हरि॑भ्या॒न् त्वेन्द्रो॑ दे॒वता᳚ङ्गमय॒तु ।  
+हरि॑भ्या॒न् त्वेन्द्रो॑ दे॒वता॑ङ्गमय॒तु ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -316,7 +316,7 @@ with the tawny ones may Indra convey thee to the god;
 </details>
 <details><summary>मूलम्</summary>
 
-हरि॑भ्या॒न्त्वेन्द्रो॑ दे॒वता᳚ङ्गमय॒तु ।  
+हरि॑भ्या॒न्त्वेन्द्रो॑ दे॒वता॑ङ्गमय॒तु ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -324,7 +324,7 @@ with the tawny ones may Indra convey thee to the god;
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एत॑शेन त्वा॒ सूर्यो॑ दे॒वता᳚ङ् गमयतु ।  
+एत॑शेन त्वा॒ सूर्यो॑ दे॒वता॑ङ् गमयतु ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -332,7 +332,7 @@ with Etaśa may Sarya convey thee to the god.
 </details>
 <details><summary>मूलम्</summary>
 
-एत॑शेन त्वा॒ सूर्यो॑ दे॒वता᳚ङ्गमयतु ।  
+एत॑शेन त्वा॒ सूर्यो॑ दे॒वता॑ङ्गमयतु ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -348,7 +348,7 @@ _______
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-वि ते॑ मुञ्चामि रश॒ना वि र॒श्मीन् वि योक्त्रा॒ यानि॑ परि॒चर्त॑नानि ध॒त्ताद॒स्मासु॒ द्रवि॑ण॒य्ँयच्च॑ भ॒द्रम्प्र णो᳚ ब्रूताद्भाग॒धान्दे॒वता॑सु ॥ 
+वि ते॑ मुञ्चामि रश॒ना वि र॒श्मीन् वि योक्त्रा॒ यानि॑ परि॒चर्त॑नानि ध॒त्ताद॒स्मासु॒ द्रवि॑ण॒य्ँयच्च॑ भ॒द्रम्प्र णो॑ ब्रूताद्भाग॒धान्दे॒वता॑सु ॥ 
 </details>
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/04_anuyAjAnumantraNAdi/07_vi_te.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
@@ -356,7 +356,7 @@ _______
 +++(अश्वीकृताग्ने!)+++ वि ते॑ **मुञ्चामि** रश॒ना, वि र॒श्मीन्,  
 वि योक्त्रा॒, यानि॑ परि॒चर्त॑नानि+++(←चृती हिंसादौ)+++ ।  
 **ध॒त्ताद्** अ॒स्मासु॒ द्रवि॑ण॒य्ँ यच् च॑ भ॒द्रम्,  
-+++(तेषु)+++ प्र णो᳚ **ब्रूताद्** भाग॒-धान् दे॒वता॑सु  ॥
++++(तेषु)+++ प्र णो॑ **ब्रूताद्** भाग॒-धान् दे॒वता॑सु  ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/04_anuyAjAnumantraNAdi/07_vi_te.md">
@@ -371,7 +371,7 @@ Proclaim us sharers among the gods.
 <details><summary>मूलम्</summary>
 
 वि ते॑ मुञ्चामि रश॒ना वि र॒श्मीन् वि योक्त्रा॒ यानि॑ परि॒चर्त॑नानि ।  
-ध॒त्ताद् अ॒स्मासु॒ द्रवि॑ण॒य्ँयच्च॑ भ॒द्रम्प्र णो᳚ ब्रूताद्भाग॒धान्दे॒वता॑सु  ॥
+ध॒त्ताद् अ॒स्मासु॒ द्रवि॑ण॒य्ँयच्च॑ भ॒द्रम्प्र णो॑ ब्रूताद्भाग॒धान्दे॒वता॑सु  ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -396,7 +396,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विष्णोः᳚ श॒य्ँ-योर्+++(←यु पृथक्करणे)+++ अ॒हन् दे॑वय॒ज्यया॑ य॒ज्ञेन॑ प्रति॒ष्ठाङ् ग॑मेयम् ।
+विष्णोः॑ श॒य्ँ-योर्+++(←यु पृथक्करणे)+++ अ॒हन् दे॑वय॒ज्यया॑ य॒ज्ञेन॑ प्रति॒ष्ठाङ् ग॑मेयम् ।
 </details>
 <details><summary>Keith</summary>
 
@@ -404,7 +404,7 @@ By sacrifice to the god Visnu, by the sacrifice, may I attain health and wealth,
 </details>
 <details><summary>मूलम्</summary>
 
-विष्णोः᳚ श॒य्ँयोर॒हन्दे॑वय॒ज्यया॑ य॒ज्ञेन॑ प्रति॒ष्ठाङ्ग॑मेयम् ।
+विष्णोः॑ श॒य्ँयोर॒हन्दे॑वय॒ज्यया॑ य॒ज्ञेन॑ प्रति॒ष्ठाङ्ग॑मेयम् ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -419,7 +419,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सोम॑स्या॒हन् दे॑व-य॒ज्यया᳚ सु॒रेता॒ रेतो॑ धिषीय ।
+सोम॑स्या॒हन् दे॑व-य॒ज्यया॑ सु॒रेता॒ रेतो॑ धिषीय ।
 </details>
 <details><summary>Keith</summary>
 
@@ -427,7 +427,7 @@ By sacrifice to the god Soma [3], possessing good seed, may I impregnate seed.
 </details>
 <details><summary>मूलम्</summary>
 
-सोम॑स्या॒हन्दे॑वय॒ज्यया᳚ [13] सु॒रेता॒ रेतो॑ धिषीय ।
+सोम॑स्या॒हन्दे॑वय॒ज्यया॑ [13] सु॒रेता॒ रेतो॑ धिषीय ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -435,7 +435,7 @@ By sacrifice to the god Soma [3], possessing good seed, may I impregnate seed.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्वष्टु॑र् अ॒हन् दे॑व-य॒ज्यया॑ पशू॒नाꣳ रू॒पम् पु॑षेयम् ।
+त्वष्टु॑र् अ॒हन् दे॑व-य॒ज्यया॑ पशू॒नाँ रू॒पम् पु॑षेयम् ।
 </details>
 <details><summary>Keith</summary>
 
@@ -443,7 +443,7 @@ By sacrifice to the god Tvastr, may I prosper the form of cattle.
 </details>
 <details><summary>मूलम्</summary>
 
-त्वष्टु॑र॒हन्दे॑वय॒ज्यया॑ पशू॒नाꣳ रू॒पम्पु॑षेयम् ।
+त्वष्टु॑र॒हन्दे॑वय॒ज्यया॑ पशू॒नाँ रू॒पम्पु॑षेयम् ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -462,7 +462,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वाना॒म् पत्नी᳚र्  
+दे॒वाना॒म् पत्नी॑र्  
 अ॒ग्निर् गृ॒ह-प॑तिर् +++(इति)+++  
 य॒ज्ञस्य॑ मिथु॒नम्  ।
 </details>
@@ -472,7 +472,7 @@ The wives of the gods, Agni lord of the house, are the pair of the sacrifice;
 </details>
 <details><summary>मूलम्</summary>
 
-दे॒वाना॒म्पत्नी᳚र्  ..  
+दे॒वाना॒म्पत्नी॑र्  ..  
 अ॒ग्निर्गृ॒हप॑तिर्य॒ज्ञस्य॑ मिथु॒नम्।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -513,7 +513,7 @@ Thou art the bundle, thou art gain, may I gain.
 </details>
 <details><summary>मूलम्</summary>
 
-वे॒दो॑ऽसि॒ वित्ति॑रसि वि॒देय॒ कर्मा॑सि क॒रुण॑मसि क्रि॒यासꣳ॑ स॒निर॑सि सनि॒तासि॑ स॒नेय॑ङ्घृ॒तव॑न्तङ्कुला॒यिनꣳ॑ रा॒यस्पोषꣳ॑ सह॒स्रिण॑व्ँवे॒दो द॑दातु वा॒जिन᳚म् ॥
+वे॒दो॑ऽसि॒ वित्ति॑रसि वि॒देय॒ कर्मा॑सि क॒रुण॑मसि क्रि॒यासँ॑ स॒निर॑सि सनि॒तासि॑ स॒नेय॑ङ्घृ॒तव॑न्तङ्कुला॒यिनँ॑ रा॒यस्पोषँ॑ सह॒स्रिण॑व्ँवे॒दो द॑दातु वा॒जिन॑म् ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -556,8 +556,8 @@ Thou art winning, thou art the winner, may I win.
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 घृ॒तव॑न्तङ् कुला॒यिनं॑+++(=नीडवन्तं)+++   
-रा॒यस्पोषꣳ॑ सह॒स्रिणं॑   
-**वे॒दो द॑दातु** वा॒जिन᳚म् ॥
+रा॒यस्पोषँ॑ सह॒स्रिणं॑   
+**वे॒दो द॑दातु** वा॒जिन॑म् ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/04_anuyAjAnumantraNAdi/08_ghRtavanta~N_kulAyinam.md">
@@ -571,8 +571,8 @@ A thousandfold, strong.
 <details><summary>मूलम्</summary>
 
 घृ॒तव॑न्तङ् कुला॒यिनं॑   
-रा॒यस्पोषꣳ॑ सह॒स्रिणं॑   
-वे॒दो द॑दातु वा॒जिन᳚म् ॥
+रा॒यस्पोषँ॑ सह॒स्रिणं॑   
+वे॒दो द॑दातु वा॒जिन॑म् ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

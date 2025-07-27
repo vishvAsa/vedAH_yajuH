@@ -7,7 +7,7 @@ title = "१८ दशपेय-ब्राह्मणम्"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒द्यो दी᳚ख्षयन्ति ।   
+स॒द्यो दी॑क्षयन्ति ।   
 स॒द्यस् सोम॑ङ् क्रीणन्ति ।  
 पु॒ण्ड॒रि॒-स्र॒जाम् प्रय॑च्छति ।  
 </details>
@@ -17,7 +17,7 @@ On the same day they consecrate, on the same day they buy the Soma. He presents 
 </details>
 <details><summary>मूलम्</summary>
 
-स॒द्यो दी᳚ख्षयन्ति ।   
+स॒द्यो दी॑क्षयन्ति ।   
 स॒द्यस्सोम॑ङ्क्रीणन्ति ।  
 पु॒ण्ड॒रि॒स्र॒जाम्प्र य॑च्छति ।  
 </details>
@@ -29,7 +29,7 @@ On the same day they consecrate, on the same day they buy the Soma. He presents 
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-द॒शभि॑र् वथ्सत॒रैस् सोम॑ङ् क्रीणाति ।
+द॒शभि॑र् वत्सत॒रैस् सोम॑ङ् क्रीणाति ।
 </details>
 <details><summary>Keith</summary>
 
@@ -37,7 +37,7 @@ He buys the Soma with (10) calves.
 </details>
 <details><summary>मूलम्</summary>
 
-द॒शभि॑र्वथ्सत॒रैस्सोम॑ङ्क्रीणाति ।
+द॒शभि॑र्वत्सत॒रैस्सोम॑ङ्क्रीणाति ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -61,7 +61,7 @@ There is a drink for ten.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-श॒तम् ब्रा᳚ह्म॒णाᳶ पि॑बन्ति ।
+श॒तम् ब्रा॑ह्म॒णाᳶ पि॑बन्ति ।
 </details>
 <details><summary>Keith</summary>
 
@@ -69,7 +69,7 @@ A hundred Brahmans drink.
 </details>
 <details><summary>मूलम्</summary>
 
-श॒तम्ब्रा᳚ह्म॒णाᳶ पि॑बन्ति ।
+श॒तम्ब्रा॑ह्म॒णाᳶ पि॑बन्ति ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -79,7 +79,7 @@ A hundred Brahmans drink.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒प्त॒द॒शꣵं  स्तो॒त्रम्भ॑वति ।
+स॒प्त॒द॒शँं  स्तो॒त्रम्भ॑वति ।
 </details>
 <details><summary>Keith</summary>
 
@@ -87,7 +87,7 @@ The Stotra is the Saptadaśa.
 </details>
 <details><summary>मूलम्</summary>
 
-स॒प्त॒द॒शꣵं  स्तो॒त्रम्भ॑वति ।
+स॒प्त॒द॒शँं  स्तो॒त्रम्भ॑वति ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -95,7 +95,7 @@ The Stotra is the Saptadaśa.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रा॒का॒शाव् +++(आभरणे)+++ अ॑ध्व॒र्यवे᳚ ददाति ।
+प्रा॒का॒शाव् +++(आभरणे)+++ अ॑ध्व॒र्यवे॑ ददाति ।
 </details>
 <details><summary>Keith</summary>
 
@@ -103,7 +103,7 @@ The two ornaments he gives to the Adhvaryu,
 </details>
 <details><summary>मूलम्</summary>
 
-प्रा॒का॒शाव॑ध्व॒र्यवे᳚ ददाति ।
+प्रा॒का॒शाव॑ध्व॒र्यवे॑ ददाति ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -127,7 +127,7 @@ the garland to the Udgatr,
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रु॒क्मꣳ+++(←रुच्)+++ होत्रे᳚   +++(ददाति)+++ ।
+रु॒क्मँ+++(←रुच्)+++ होत्रे॑   +++(ददाति)+++ ।
 </details>
 <details><summary>Keith</summary>
 
@@ -135,7 +135,7 @@ the round ornament to the Hotr,
 </details>
 <details><summary>मूलम्</summary>
 
-रु॒क्मꣳ होत्रे᳚   +++(ददाति)+++ ।
+रु॒क्मँ होत्रे॑   +++(ददाति)+++ ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -143,7 +143,7 @@ the round ornament to the Hotr,
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अश्व॑म् प्रस्तोतृ-प्रतिह॒र्तृभ्या᳚म्  +++(ददाति)+++ ।
+अश्व॑म् प्रस्तोतृ-प्रतिह॒र्तृभ्या॑म्  +++(ददाति)+++ ।
 </details>
 <details><summary>Keith</summary>
 
@@ -151,7 +151,7 @@ a horse to the Prastotr and Pratihartr,
 </details>
 <details><summary>मूलम्</summary>
 
-अश्व॑म्प्रस्तोतृप्रतिह॒र्तृभ्या᳚म्  +++(ददाति)+++ ।
+अश्व॑म्प्रस्तोतृप्रतिह॒र्तृभ्या॑म्  +++(ददाति)+++ ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -176,7 +176,7 @@ twelve heifers to the Brahman,
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व॒शाम्+++(=वन्ध्याम्)+++ मै᳚त्रावरु॒णाय॑  +++(ददाति)+++ ।
+व॒शाम्+++(=वन्ध्याम्)+++ मै॑त्रावरु॒णाय॑  +++(ददाति)+++ ।
 </details>
 <details><summary>Keith</summary>
 
@@ -184,7 +184,7 @@ a cow to the Maitravaruna,
 </details>
 <details><summary>मूलम्</summary>
 
-व॒शाम्मै᳚त्रावरु॒णाय॑  +++(ददाति)+++ ।
+व॒शाम्मै॑त्रावरु॒णाय॑  +++(ददाति)+++ ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -192,7 +192,7 @@ a cow to the Maitravaruna,
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऋ॒ष॒भम् ब्रा᳚ह्मणाच्छ॒ꣳ॒सिने᳚   +++(ददाति)+++ ।
+ऋ॒ष॒भम् ब्रा॑ह्मणाच्छँ॒सिने॑   +++(ददाति)+++ ।
 </details>
 <details><summary>Keith</summary>
 
@@ -200,7 +200,7 @@ a bull to the Brahmanacchansin,
 </details>
 <details><summary>मूलम्</summary>
 
-ऋ॒ष॒भम्ब्रा᳚ह्मणाच्छ॒ꣳ॒सिने᳚   +++(ददाति)+++ ।
+ऋ॒ष॒भम्ब्रा॑ह्मणाच्छँ॒सिने॑   +++(ददाति)+++ ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -208,7 +208,7 @@ a bull to the Brahmanacchansin,
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वास॑सी नेष्टा-पो॒तृभ्या᳚म्  +++(ददाति)+++ ।
+वास॑सी नेष्टा-पो॒तृभ्या॑म्  +++(ददाति)+++ ।
 </details>
 <details><summary>Keith</summary>
 
@@ -216,7 +216,7 @@ garments to the Nestr and Potr,
 </details>
 <details><summary>मूलम्</summary>
 
-वास॑सी नेष्टापो॒तृभ्या᳚म्  +++(ददाति)+++ ।
+वास॑सी नेष्टापो॒तृभ्या॑म्  +++(ददाति)+++ ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -240,7 +240,7 @@ a wagon drawn by one ox laden with barley to the Achavaka,
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒न॒ड्वाह॑म् अ॒ग्नीधे᳚  +++(ददाति)+++ ।
+अ॒न॒ड्वाह॑म् अ॒ग्नीधे॑  +++(ददाति)+++ ।
 </details>
 <details><summary>Keith</summary>
 
@@ -248,7 +248,7 @@ a draught ox to the Agnidh.
 </details>
 <details><summary>मूलम्</summary>
 
-अ॒न॒ड्वाह॑म॒ग्नीधे᳚  +++(ददाति)+++ ।
+अ॒न॒ड्वाह॑म॒ग्नीधे॑  +++(ददाति)+++ ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -256,7 +256,7 @@ a draught ox to the Agnidh.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भा॒र्ग॒वो होता᳚ भवति  ।
+भा॒र्ग॒वो होता॑ भवति  ।
 </details>
 <details><summary>Keith</summary>
 
@@ -264,7 +264,7 @@ The Hotr is a Bhargava;
 </details>
 <details><summary>मूलम्</summary>
 
-भा॒र्ग॒वो होता᳚ भवति  ।
+भा॒र्ग॒वो होता॑ भवति  ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

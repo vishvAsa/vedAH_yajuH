@@ -18,9 +18,9 @@ title = "१० वाजप्रसवीयादि"
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 वाज॑स्ये॒मम् +++(→सोमं)+++ प्र॑स॒वस् **सु॑षुवे॒**  
-अग्रे॒ सोम॒ꣳ॒ राजा॑न॒म् ओष॑धीष्व् अ॒फ्सु ।  
+अग्रे॒ सोमँ॒ राजा॑न॒म् ओष॑धीष्व् अ॒प्सु ।  
 ता अ॒स्मभ्य॒म् **मधु॑मतीर् भवन्तु**  
-व॒यꣳ रा॒ष्ट्रे **जा᳚ग्रियाम** पु॒रोहि॑ताः  ॥
+व॒यँ रा॒ष्ट्रे **जा॑ग्रियाम** पु॒रोहि॑ताः  ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/10_vAjaprasavIyAdi/02_vAjasyemam_prasavas.md">
@@ -34,8 +34,8 @@ May we as Purohitas watch over the kingship.
 </details>
 <details><summary>मूलम्</summary>
 
-वाज॑स्ये॒मम्प्र॑स॒वस्सु॑षुवे॒ अग्रे॒ सोम॒ꣳ॒ राजा॑न॒मोष॑धीष्व॒फ्सु ।  
-ता अ॒स्मभ्य॒म्मधु॑मतीर्भवन्तु व॒यꣳ रा॒ष्ट्रे जा᳚ग्रियाम पु॒रोहि॑ताः  ॥
+वाज॑स्ये॒मम्प्र॑स॒वस्सु॑षुवे॒ अग्रे॒ सोमँ॒ राजा॑न॒मोष॑धीष्व॒प्सु ।  
+ता अ॒स्मभ्य॒म्मधु॑मतीर्भवन्तु व॒यँ रा॒ष्ट्रे जा॑ग्रियाम पु॒रोहि॑ताः  ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -81,7 +81,7 @@ Increasing offspring and prosperity for us.
 
 वाज॑स्ये॒माम् प्र॑स॒वश् **शि॑श्रिये॒** दिव॑म्  
 इ॒मा च॒ विश्वा॒ भुव॑नानि स॒म्राट् ।   
-अदि॑थ्सन्तन् **दापयतु** प्रजा॒नन्  
+अदि॑त्सन्तन् **दापयतु** प्रजा॒नन्  
 र॒यिं [40] च॒ न॒स्सर्व॑वीरा॒न् नि य॑च्छतु  ॥
 </details>
 </div>
@@ -97,7 +97,7 @@ And may he accord us wealth [1] with all heroes.
 <details><summary>मूलम्</summary>
 
 वाज॑स्ये॒माम्प्र॑स॒वश्शि॑श्रिये॒ दिव॑मि॒मा च॒ विश्वा॒ भुव॑नानि स॒म्राट् ।   
-अदि॑थ्सन्तन्दापयतु प्रजा॒नन्र॒यिं [40] च॒ न॒स्सर्व॑वीरा॒न्नि य॑च्छतु  ॥
+अदि॑त्सन्तन्दापयतु प्रजा॒नन्र॒यिं [40] च॒ न॒स्सर्व॑वीरा॒न्नि य॑च्छतु  ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -182,8 +182,8 @@ May the goddess speech be bountiful to us.
 
 अ॒र्य॒मण॒म् बृह॒स्पति॒म्  
 इन्द्र॒न् **दाना॑य चोदय** ।  
-वाच॒व्ँ विष्णु॒ꣳ॒ सर॑स्वतीꣳ  
-सवि॒तार᳚म् [41] च वा॒जिन᳚म्  ॥
+वाच॒व्ँ विष्णुँ॒ सर॑स्वतीँ  
+सवि॒तार॑म् [41] च वा॒जिन॑म्  ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/10_vAjaprasavIyAdi/07_aryamaNam_bRhaspatim.md">
@@ -198,7 +198,7 @@ And Savitr the strong.
 <details><summary>मूलम्</summary>
 
 अ॒र्य॒मण॒म्बृह॒स्पति॒मिन्द्र॒न्दाना॑य चोदय ।  
-वाच॒व्ँविष्णु॒ꣳ॒ सर॑स्वतीꣳ सवि॒तार᳚म् [41] च॒ वा॒जिन᳚म्  ॥
+वाच॒व्ँविष्णुँ॒ सर॑स्वतीँ सवि॒तार॑म् [41] च॒ वा॒जिन॑म्  ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -213,10 +213,10 @@ And Savitr the strong.
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/10_vAjaprasavIyAdi/08_somaM_rAjAnav.N.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-सोम॒ꣳ॒ राजा॑न॒व्ँ वरु॑णम्  
+सोमँ॒ राजा॑न॒व्ँ वरु॑णम्  
 अ॒ग्निम् **अ॒न्वार॑भामहे**+++(=आलभामहे)+++ ।  
-आ॒दि॒त्यान् विष्णु॒ꣳ॒ सूर्य॑म्  
-ब्र॒ह्माण॑ञ् च॒ बृह॒स्पति᳚म् ॥
+आ॒दि॒त्यान् विष्णुँ॒ सूर्य॑म्  
+ब्र॒ह्माण॑ञ् च॒ बृह॒स्पति॑म् ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/10_vAjaprasavIyAdi/08_somaM_rAjAnav.N.md">
@@ -230,8 +230,8 @@ And Brhaspati, the Brahman (priest).
 </details>
 <details><summary>मूलम्</summary>
 
-सोम॒ꣳ॒ राजा॑न॒व्ँवरु॑णम॒ग्निम॒न्वार॑भामहे ।  
-आ॒दि॒त्यान् विष्णु॒ꣳ॒ सूर्य॑म्ब्र॒ह्माण॑ञ्च॒ बृह॒स्पति᳚म् ॥
+सोमँ॒ राजा॑न॒व्ँवरु॑णम॒ग्निम॒न्वार॑भामहे ।  
+आ॒दि॒त्यान् विष्णुँ॒ सूर्य॑म्ब्र॒ह्माण॑ञ्च॒ बृह॒स्पति॑म् ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -240,22 +240,22 @@ And Brhaspati, the Brahman (priest).
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/10_vAjaprasavIyAdi/devasya_tvA_sAmrAjyenAbhiShinchAmi.md">
-<details open><summary><h5>दे॒वस्य॑ त्वा - साम्रा᳚ज्येना॒भिषि॑ञ्चामि  ...{Loading}...</h5></summary>
+<details open><summary><h5>दे॒वस्य॑ त्वा - साम्रा॑ज्येना॒भिषि॑ञ्चामि  ...{Loading}...</h5></summary>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8-10अभिषेकमन्त्राः - देवस्येत्यादयः ॥
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे᳚ऽश्विनो᳚र्बा॒हुभ्या᳚म्पू॒ष्णो हस्ता᳚भ्या॒ꣳ॒ सर॑स्वत्यै वा॒चो य॒न्तुर्य॒न्त्रेणा॒ग्नेस्त्वा॒ साम्रा᳚ज्येना॒भिषि॑ञ्चा॒मीन्द्र॑स्य॒ बृह॒स्पते᳚स्त्वा॒ साम्रा᳚ज्येना॒भिषि॑ञ्चामि ॥ [42]
+दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे॑ऽश्विनो॑र्बा॒हुभ्या॑म्पू॒ष्णो हस्ता॑भ्याँ॒ सर॑स्वत्यै वा॒चो य॒न्तुर्य॒न्त्रेणा॒ग्नेस्त्वा॒ साम्रा॑ज्येना॒भिषि॑ञ्चा॒मीन्द्र॑स्य॒ बृह॒स्पते॑स्त्वा॒ साम्रा॑ज्येना॒भिषि॑ञ्चामि ॥ [42]
 </details>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
 <details open><summary><h10>देवस्य त्वा सवितुः ...{Loading}...</h10></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे᳚+++(=अनुज्ञायां)+++,
-ऽश्विनो᳚र् बा॒हुभ्या᳚म्,
-पू॒ष्णो हस्ता᳚भ्याम्…
+दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे॑+++(=अनुज्ञायां)+++,
+ऽश्विनो॑र् बा॒हुभ्या॑म्,
+पू॒ष्णो हस्ता॑भ्याम्…
 </details>
 <details><summary>Keith</summary>
 
@@ -265,8 +265,8 @@ with the hands of Pusan.
 </details>
 <details><summary>मूलम्</summary>
 
-दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे᳚ऽश्विनो᳚र् बा॒हुभ्या᳚म्,
-पू॒ष्णो हस्ता᳚भ्यां॒…
+दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे॑ऽश्विनो॑र् बा॒हुभ्या॑म्,
+पू॒ष्णो हस्ता॑भ्यां॒…
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -287,7 +287,7 @@ ______________
 
 सर॑स्वत्यै वा॒चो  
 य॒न्तुर् य॒न्त्रेण
-अग्नेस् त्वा॒ साम्रा᳚ज्येना॒भिषि॑ञ्चामि  ।
+अग्नेस् त्वा॒ साम्रा॑ज्येना॒भिषि॑ञ्चामि  ।
 </details>
 <details><summary>Keith</summary>
 
@@ -296,7 +296,7 @@ with the bond of Sarasvati, of speech, the binder, I anoint thee with the lordsh
 <details><summary>मूलम्</summary>
 
 सर॑स्वत्यै वा॒चो य॒न्तुर्य॒न्त्रेण
-अग्नेस्त्वा॒ साम्रा᳚ज्येना॒भिषि॑ञ्चामि  ।
+अग्नेस्त्वा॒ साम्रा॑ज्येना॒भिषि॑ञ्चामि  ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -304,8 +304,8 @@ with the bond of Sarasvati, of speech, the binder, I anoint thee with the lordsh
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्र॑स्य॒ साम्रा᳚ज्येना॒भिषि॑ञ्चामि ॥  
-बृह॒स्पते᳚स् त्वा॒ साम्रा᳚ज्येना॒भिषि॑ञ्चामि ॥
+इन्द्र॑स्य॒ साम्रा॑ज्येना॒भिषि॑ञ्चामि ॥  
+बृह॒स्पते॑स् त्वा॒ साम्रा॑ज्येना॒भिषि॑ञ्चामि ॥
 </details>
 <details><summary>Keith</summary>
 
@@ -313,9 +313,9 @@ with the lordship of Indra, of Brhaspati, I anoint thee.
 </details>
 <details><summary>मूलम्</summary>
 
-इन्द्र॑स्य॒ साम्रा᳚ज्येना॒भिषि॑ञ्चामि ॥
+इन्द्र॑स्य॒ साम्रा॑ज्येना॒भिषि॑ञ्चामि ॥
 
-बृह॒स्पते᳚स्त्वा॒ साम्रा᳚ज्येना॒भिषि॑ञ्चामि ॥
+बृह॒स्पते॑स्त्वा॒ साम्रा॑ज्येना॒भिषि॑ञ्चामि ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

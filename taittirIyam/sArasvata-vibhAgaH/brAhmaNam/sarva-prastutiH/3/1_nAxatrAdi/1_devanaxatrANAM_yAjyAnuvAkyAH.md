@@ -34,8 +34,8 @@ unicode_script = "devanagari"
 <details><summary>मूलम्</summary>
 
 अ॒ग्निर्न॑ᳶ पातु॒ कृत्ति॑काः ।   
-नख्ष॑त्रन्दे॒वमि॑न्द्रि॒यम् ।  
-इ॒दमा॑साव्ँविचख्ष॒णम् ।   
+नक्ष॑त्रन्दे॒वमि॑न्द्रि॒यम् ।  
+इ॒दमा॑साव्ँविचक्ष॒णम् ।   
 ह॒विरा॒सञ्जु॑होतन ।
 
 </details>
@@ -65,7 +65,7 @@ unicode_script = "devanagari"
 <details><summary>मूलम्</summary>
 
 यस्य॒ भान्ति॑ र॒श्मयो॒ यस्य॑ के॒तवः॑ ।   
-यस्ये॒मा विश्वा॒ भुव॑नानि॒ सर्वा᳚ ।   
+यस्ये॒मा विश्वा॒ भुव॑नानि॒ सर्वा॑ ।   
 स कृत्ति॑काभिर॒भि स॒व्ँवसा॑नः ।  
 अ॒ग्निर्नो॑ दे॒वस्सु॑वि॒ते द॑धातु ।
 </details>
@@ -86,14 +86,14 @@ unicode_script = "devanagari"
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/02_agnaye_svAhA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-अ॒ग्नये॒ स्वाहा᳚  ।
-कृत्ति॑काभ्य॒स्स्वाहा᳚ ।  
+अ॒ग्नये॒ स्वाहा॑  ।
+कृत्ति॑काभ्य॒स्स्वाहा॑ ।  
 अ॒म्बायै॒ स्वाहा॑ ।   
-दु॒लायै॒ स्वाहा᳚ ।  
+दु॒लायै॒ स्वाहा॑ ।  
 नि॒त॒त्न्यै स्वाहा॑ ।  
-अ॒भ्रय॑न्त्यै॒ स्वाहा᳚ ।  
+अ॒भ्रय॑न्त्यै॒ स्वाहा॑ ।  
 मे॒घय॑न्त्यै॒ स्वाहा॑ ।  
-व॒र्षय॑न्त्यै॒ स्वाहा᳚ ।
+व॒र्षय॑न्त्यै॒ स्वाहा॑ ।
 चु॒पु॒णीका॑यै॒ स्वाहा॑
 </details>
 </div>
@@ -117,7 +117,7 @@ unicode_script = "devanagari"
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/03_prajApataye_svAhA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-प्र॒जाप॑तये॒ स्वाहा॑ रोहि॒ण्यै स्वाहा᳚ । रोच॑मानायै॒ स्वाहा᳚ प्र॒जाभ्य॒स् स्वाहा᳚ ॥28॥
+प्र॒जाप॑तये॒ स्वाहा॑ रोहि॒ण्यै स्वाहा॑ । रोच॑मानायै॒ स्वाहा॑ प्र॒जाभ्य॒स् स्वाहा॑ ॥28॥
 </details>
 </div>
 
@@ -141,7 +141,7 @@ unicode_script = "devanagari"
 <details open><summary><h2>03 प्रजापते रोहिणी ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
-प्र॒जाप॑ते रोहि॒णी वे॑तु॒ पत्नी᳚ ।   
+प्र॒जाप॑ते रोहि॒णी वे॑तु॒ पत्नी॑ ।   
 वि॒श्वरू॑पा बृह॒ती चि॒त्रभा॑नुः ॥1॥  
 सा नो॑ य॒ज्ञस्य॑ सुवि॒ते द॑धातु ।  
 यथा॒ जीवे॑म श॒रद॒स्सवी॑राः ।
@@ -162,7 +162,7 @@ unicode_script = "devanagari"
 
 रो॒हि॒णी दे॒व्य् उद॑गात् पु॒रस्ता॑त्।  
 विश्वा॑ रू॒पाणि॑ प्रति॒मोद॑माना।  
-प्र॒जाप॑तिꣳ ह॒विषा॑ **व॒र्धय॑न्ती**।  
+प्र॒जाप॑तिँ ह॒विषा॑ **व॒र्धय॑न्ती**।  
 प्रि॒या दे॒वाना॒म् **उप॑यातु य॒ज्ञम्**॥  
 
 </details>
@@ -171,9 +171,9 @@ unicode_script = "devanagari"
 <details open><summary><h2>04 रोहिणी ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
-रो॒हि॒णी दे॒व्युद॑गात्पु॒रस्ता᳚त् ।  
+रो॒हि॒णी दे॒व्युद॑गात्पु॒रस्ता॑त् ।  
 विश्वा॑ रू॒पाणि॑ प्रति॒मोद॑माना ।  
-प्र॒जाप॑तिꣳ ह॒विषा॑ व॒र्धय॑न्ती ।  
+प्र॒जाप॑तिँ ह॒विषा॑ व॒र्धय॑न्ती ।  
 प्रि॒या दे॒वाना॒मुप॑यातु य॒ज्ञम् ।   
 
 
@@ -191,14 +191,14 @@ unicode_script = "devanagari"
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/02_agnaye_svAhA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-अ॒ग्नये॒ स्वाहा᳚  ।
-कृत्ति॑काभ्य॒स्स्वाहा᳚ ।  
+अ॒ग्नये॒ स्वाहा॑  ।
+कृत्ति॑काभ्य॒स्स्वाहा॑ ।  
 अ॒म्बायै॒ स्वाहा॑ ।   
-दु॒लायै॒ स्वाहा᳚ ।  
+दु॒लायै॒ स्वाहा॑ ।  
 नि॒त॒त्न्यै स्वाहा॑ ।  
-अ॒भ्रय॑न्त्यै॒ स्वाहा᳚ ।  
+अ॒भ्रय॑न्त्यै॒ स्वाहा॑ ।  
 मे॒घय॑न्त्यै॒ स्वाहा॑ ।  
-व॒र्षय॑न्त्यै॒ स्वाहा᳚ ।
+व॒र्षय॑न्त्यै॒ स्वाहा॑ ।
 चु॒पु॒णीका॑यै॒ स्वाहा॑
 </details>
 </div>
@@ -228,7 +228,7 @@ unicode_script = "devanagari"
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/03_prajApataye_svAhA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-प्र॒जाप॑तये॒ स्वाहा॑ रोहि॒ण्यै स्वाहा᳚ । रोच॑मानायै॒ स्वाहा᳚ प्र॒जाभ्य॒स् स्वाहा᳚ ॥28॥
+प्र॒जाप॑तये॒ स्वाहा॑ रोहि॒ण्यै स्वाहा॑ । रोच॑मानायै॒ स्वाहा॑ प्र॒जाभ्य॒स् स्वाहा॑ ॥28॥
 </details>
 </div>
 
@@ -254,7 +254,7 @@ unicode_script = "devanagari"
 <details><summary>मूलम्</summary>
 
 सोमो॒ राजा॑ मृगशी॒र्षेण॒ आग॑न् ।   
-शि॒वन्नख्ष॑त्रम्प्रि॒यम॑स्य॒ धाम॑ ।  
+शि॒वन्नक्ष॑त्रम्प्रि॒यम॑स्य॒ धाम॑ ।  
 आ॒प्याय॑मानो बहु॒धा जने॑षु ।  
 रेत॑ᳶ प्र॒जाय्ँयज॑माने दधातु ॥2॥  
 
@@ -274,7 +274,7 @@ unicode_script = "devanagari"
 
 
 यत् ते॒ नक्ष॑त्रं **मृगशी॒र्षम् अस्ति॑**।  
-प्रि॒यꣳ रा॑जन् प्रि॒यत॑मम् प्रि॒याणा॑म्।  
+प्रि॒यँ रा॑जन् प्रि॒यत॑मम् प्रि॒याणा॑म्।  
 तस्मै॑ ते सोम **ह॒विषा॑ विधेम**।  
 शन् न॑ **एधि** द्वि॒पदे॒ शञ् चतु॑ष्पदे॥  
 
@@ -288,8 +288,8 @@ unicode_script = "devanagari"
 <details open><summary><h2>06 यत्ते ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
-यत्ते॒ न॑ख्षत्रम्मृगशी॒र्षमस्ति॑ ।   
-प्रि॒यꣳ रा॑जन्प्रि॒यत॑मम्प्रि॒याणा᳚म् ।  
+यत्ते॒ न॑क्षत्रम्मृगशी॒र्षमस्ति॑ ।   
+प्रि॒यँ रा॑जन्प्रि॒यत॑मम्प्रि॒याणा॑म् ।  
 तस्मै॑ ते सोम ह॒विषा॑ विधेम ।  
 शन्न॑ एधि द्वि॒पदे॒ शञ्चतु॑ष्पदे ।  
 
@@ -351,7 +351,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 
 आ॒र्द्रया॑ **रु॒द्रᳶ** प्रथ॑मान +++(=प्रसिद्ध)+++ **एति**। श्रेष्ठो॑ दे॒वाना॒म् पति॑र् अघ्नि॒याना॑म् +++(=गवाम्)+++।  
-नक्ष॑त्रम् अस्य **ह॒विषा॑ विधेम** +++(=परिचरेम)+++। मा नᳶ॑ प्र॒जाꣳ री॑रिष॒न् मोत वी॒रान्।
+नक्ष॑त्रम् अस्य **ह॒विषा॑ विधेम** +++(=परिचरेम)+++। मा नᳶ॑ प्र॒जाँ री॑रिष॒न् मोत वी॒रान्।
 
 </details>
 </div>
@@ -360,9 +360,9 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 <details><summary>मूलम्</summary>
 
 आ॒र्द्रया॑ रु॒द्रᳶ प्रथ॑मान एति ।  
-श्रेष्ठो॑ दे॒वाना॒म्पति॑रघ्नि॒याना᳚म् ।  
-नख्ष॑त्रमस्य ह॒विषा॑ विधेम ।  
-मा न॑ᳶ प्र॒जाꣳ री॑रिष॒न्मोत वी॒रान् ।  
+श्रेष्ठो॑ दे॒वाना॒म्पति॑रघ्नि॒याना॑म् ।  
+नक्ष॑त्रमस्य ह॒विषा॑ विधेम ।  
+मा न॑ᳶ प्र॒जाँ री॑रिष॒न्मोत वी॒रान् ।  
 
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -378,9 +378,9 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 
 **हे॒ती** रु॒द्रस्य॒ **परि॑ णो वृणक्तु**।  
-आ॒र्द्रा नक्ष॑त्रञ् **जुषताꣳ ह॒विर्** नः॑।  
+आ॒र्द्रा नक्ष॑त्रञ् **जुषताँ ह॒विर्** नः॑।  
 **प्र॒मु॒ञ्चमा॑नौ**** दुरि॒तानि॒ विश्वा॑।  
-अपा॒घशꣳ॑सन् नुदता॒म् **अरा॑तिम्**।॥  
+अपा॒घशँ॑सन् नुदता॒म् **अरा॑तिम्**।॥  
 
 </details>
 </div>
@@ -389,9 +389,9 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 <details><summary>मूलम्</summary>
 
 हे॒ती रु॒द्रस्य॒ परि॑ णो वृणक्तु ।  
-आ॒र्द्रा नख्ष॑त्रञ्जुषताꣳ ह॒विर्नः॑ ॥3॥  
-प्र॒मु॒ञ्चमा॑नौ दुरि॒तानि॒ विश्वा᳚ ।  
-अपा॒घशꣳ॑सन्नुदता॒मरा॑तिम् ।  
+आ॒र्द्रा नक्ष॑त्रञ्जुषताँ ह॒विर्नः॑ ॥3॥  
+प्र॒मु॒ञ्चमा॑नौ दुरि॒तानि॒ विश्वा॑ ।  
+अपा॒घशँ॑सन्नुदता॒मरा॑तिम् ।  
 
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -429,7 +429,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/05_rudrAya_svAhA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-रु॒द्राय॒ स्वाहा॒ ऽर्द्रायै॒ स्वाहा᳚ , पिन्व॑मानायै॒ स्वाहा॑ प॒शुभ्य॒स्स्वाहा᳚ ॥30॥
+रु॒द्राय॒ स्वाहा॒ ऽर्द्रायै॒ स्वाहा॑ , पिन्व॑मानायै॒ स्वाहा॑ प॒शुभ्य॒स्स्वाहा॑ ॥30॥
 </details>
 </div>
 
@@ -453,8 +453,8 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 <details><summary>मूलम्</summary>
 
 पुन॑र्नो दे॒व्यदि॑तिस्स्पृणोतु ।   
-पुन॑र्वसू न॒ᳶ पुन॒रेता᳚य्ँय॒ज्ञम् ।  
-पुन॑र्नो दे॒वा अ॒भिय॑न्तु॒ सर्वे᳚ ।    
+पुन॑र्वसू न॒ᳶ पुन॒रेता॑य्ँय॒ज्ञम् ।  
+पुन॑र्नो दे॒वा अ॒भिय॑न्तु॒ सर्वे॑ ।    
 पुन॑ᳶपुनर्वो ह॒विषा॑ यजामः ।    
 
 
@@ -503,7 +503,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अदि॑त्यै॒ स्वाहा॒ पुन॑र्वसुभ्यां॒ स्वाहा॑,  
-भूत्यै॒ स्वाहा॒ प्रजा᳚त्यै॒ स्वाहा᳚ ॥31॥
+भूत्यै॒ स्वाहा॒ प्रजा॑त्यै॒ स्वाहा॑ ॥31॥
 </details>
 </div>
 
@@ -549,7 +549,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 <details><summary>मूलम्</summary>
 
 बृह॒स्पति॑ᳶ प्रथ॒मञ्जाय॑मानः ।   
-ति॒ष्य॑न्नख्ष॑त्रम॒भिसम्ब॑भूव ।  
+ति॒ष्य॑न्नक्ष॑त्रम॒भिसम्ब॑भूव ।  
 श्रेष्ठो॑ दे॒वाना॒म्पृत॑नासु जि॒ष्णुः ।    
 दिशोऽनु॒ सर्वा॒ अभ॑यन्नो अस्तु ।  
 
@@ -597,7 +597,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/07_bRhaspataye_svAhA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-बृह॒स्पत॑ये॒ स्वाहा॑ ति॒ष्या॑य॒ स्वाहा᳚ । ब्र॒ह्म॒व॒र्च॒साय॒ स्वाहा᳚ ॥32॥
+बृह॒स्पत॑ये॒ स्वाहा॑ ति॒ष्या॑य॒ स्वाहा॑ । ब्र॒ह्म॒व॒र्च॒साय॒ स्वाहा॑ ॥32॥
 </details>
 </div>
 
@@ -629,7 +629,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 
 
-इ॒दꣳ स॒र्पेभ्यो॑ ह॒विर् **अ॑स्तु॒** जुष्ट॑म्। आ॒श्रे॒षा येषा॑म् **अनु॒यन्ति॒** चेतः॑।  
+इ॒दँ स॒र्पेभ्यो॑ ह॒विर् **अ॑स्तु॒** जुष्ट॑म्। आ॒श्रे॒षा येषा॑म् **अनु॒यन्ति॒** चेतः॑।  
 ये अ॒न्तरि॑क्षम् पृथि॒वीङ् **क्षि॒यन्ति॑**+++(=अधिवसन्ति)+++। ते न॑स् स॒र्पासो॒ हव॒म् **आग॑मिष्ठाः**।
 
 </details>
@@ -638,9 +638,9 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 <details open><summary><h2>13 इदं सर्पेभ्यो ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
-इ॒दꣳ स॒र्पेभ्यो॑ ह॒विर॑स्तु॒ जुष्ट᳚म् ।  
+इ॒दँ स॒र्पेभ्यो॑ ह॒विर॑स्तु॒ जुष्ट॑म् ।  
 आ॒श्रे॒षा येषा॑मनु॒यन्ति॒ चेतः॑ ॥5॥  
-ये अ॒न्तरि॑ख्षम्पृथि॒वीङ्ख्षि॒यन्ति॑ ।  
+ये अ॒न्तरि॑क्षम्पृथि॒वीङ्क्षि॒यन्ति॑ ।  
 ते न॑स्स॒र्पासो॒ हव॒माग॑मिष्ठाः ।  
 
 
@@ -668,7 +668,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 ये रो॑च॒ने सूर्य॒स्यापि॑ स॒र्पाः ।   
 ये दिव॑न्दे॒वीमनु॑ स॒ञ्चर॑न्ति ।  
-येषा॑माश्रे॒षा अ॑नु॒यन्ति॒ काम᳚म्   
+येषा॑माश्रे॒षा अ॑नु॒यन्ति॒ काम॑म्   
 तेभ्य॑स्स॒र्पेभ्यो॒ मधु॑मज्जुहोमि ।   
 
 
@@ -687,8 +687,8 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/08_sarpebhyas_svAhA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-स॒र्पेभ्य॒स् स्वाहा᳚ ऽऽश्रे॒षाभ्य॒स् स्वाहा᳚ ।   
-द॒न्द॒शूके᳚भ्य॒स् स्वाहा᳚ ॥33॥
+स॒र्पेभ्य॒स् स्वाहा॑ ऽऽश्रे॒षाभ्य॒स् स्वाहा॑ ।   
+द॒न्द॒शूके॑भ्य॒स् स्वाहा॑ ॥33॥
 </details>
 </div>
 
@@ -729,7 +729,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 उप॑हूताᳶ पि॒तरो॒ ये म॒घासु॑ ।  
 मनो॑जवसस्सु॒कृत॑स्सुकृ॒त्याः ।  
-ते नो॒ नख्ष॑त्रे॒ हव॒माग॑मिष्ठाः ।  
+ते नो॒ नक्ष॑त्रे॒ हव॒माग॑मिष्ठाः ।  
 स्व॒धाभि॑र्य॒ज्ञम्प्रय॑तञ्जुषन्ताम् ॥6॥  
 
 
@@ -745,7 +745,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 
 ये अ॑ग्निद॒ग्धा ये ऽन॑ग्निदग्धाः। ये॑ ऽमुल्ँ लो॒कम् पि॒तरᳵ॑ **क्षि॒यन्ति॑**।  
-याꣳश् च॑ **वि॒द्म** याꣳ उ॑ च॒ **न प्र॑वि॒द्म**। म॒घासु॑ य॒ज्ञꣳ सुकृ॑तम् **जुषन्ताम्**॥  
+याँश् च॑ **वि॒द्म** याँ उ॑ च॒ **न प्र॑वि॒द्म**। म॒घासु॑ य॒ज्ञँ सुकृ॑तम् **जुषन्ताम्**॥  
 
 </details>
 </div>
@@ -754,9 +754,9 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 <details><summary>मूलम्</summary>
 
 ये अ॑ग्निद॒ग्धा येऽन॑ग्निदग्धाः ।  
-ये॑ऽमुल्ँ लो॒कम्पि॒तर॑ᳵ ख्षि॒यन्ति॑ ।  
-याꣳश्च॑ वि॒द्म याꣳ उ॑ च॒ न प्र॑वि॒द्म ।  
-म॒घासु॑ य॒ज्ञꣳ सुकृ॑तञ्जुषन्ताम् ।  
+ये॑ऽमुल्ँ लो॒कम्पि॒तर॑ᳵ क्षि॒यन्ति॑ ।  
+याँश्च॑ वि॒द्म याँ उ॑ च॒ न प्र॑वि॒द्म ।  
+म॒घासु॑ य॒ज्ञँ सुकृ॑तञ्जुषन्ताम् ।  
 
 
 
@@ -777,7 +777,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 पि॒तृभ्य॒स् स्वाहा॑ म॒घाभ्य॒स् स्वाहा॑  
 ऽन॒घाभ्य॒स् स्वाहा॑ग॒दाभ्य॒स् स्वाहा॑  
-ऽरुन्ध॒तीभ्य॒स् स्वाहा᳚ ॥34॥
+ऽरुन्ध॒तीभ्य॒स् स्वाहा॑ ॥34॥
 </details>
 </div>
 
@@ -807,7 +807,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 गवा॒म् पतिः॒ फल्गु॑नीनाम् **असि॒** त्वम्।  
 तद् अ॑र्यमन् वरुण-मित्र॒ चारु॑।  
-तन् त्वा॑ व॒यꣳ स॑नि॒तारꣳ॑ +++(=दातारं)+++ सनी॒नाम् +++(=दातव्यानाम्)+++ +++(←नाम् अन्यतरस्याम् इत्य् अन्तोदात्तत्वात् स्वरः)+++।  
+तन् त्वा॑ व॒यँ स॑नि॒तारँ॑ +++(=दातारं)+++ सनी॒नाम् +++(=दातव्यानाम्)+++ +++(←नाम् अन्यतरस्याम् इत्य् अन्तोदात्तत्वात् स्वरः)+++।  
 जी॒वा जीव॑न्त॒म् उप॒ **सव्ँवि॑शेम**।  
 
 </details>
@@ -818,7 +818,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 गवा॒म्पति॒ᳶ फल्गु॑नीनामसि॒ त्वम् ।  
 तद॑र्यमन्वरुण मित्र॒ चारु॑ ।  
-तन्त्वा॑ व॒यꣳ स॑नि॒तारꣳ॑ सनी॒नाम् ।  
+तन्त्वा॑ व॒यँ स॑नि॒तारँ॑ सनी॒नाम् ।  
 जी॒वा जीव॑न्त॒मुप॒सव्ँ वि॑शेम ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -862,8 +862,8 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/10_aryamNe_svAhA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-अ॒र्य॒म्णे स्वाहा॒ फल्गु॑नीभ्या॒ꣳ॒ स्वाहा᳚ ,  
-प॒शुभ्य॒स् स्वाहा᳚ ॥35॥
+अ॒र्य॒म्णे स्वाहा॒ फल्गु॑नीभ्याँ॒ स्वाहा॑ ,  
+प॒शुभ्य॒स् स्वाहा॑ ॥35॥
 </details>
 </div>
 
@@ -890,7 +890,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 
 श्रेष्ठो॑ दे॒वाना॑म् भगवो **भगासि**।  तत् त्वा॑ **विदु॒ᳶ** फल्गु॑नी॒स्, तस्य॑ वित्तात् +++(=विद्धि)+++।  
-अ॒स्मभ्य॑ङ् क्ष॒त्रम् अ॒जरꣳ॑ सु॒वीर्य॑म्। गोम॒द् अश्व॑व॒द् उप॒ सन् **नु॑दे॒ह**।  
+अ॒स्मभ्य॑ङ् क्ष॒त्रम् अ॒जरँ॑ सु॒वीर्य॑म्। गोम॒द् अश्व॑व॒द् उप॒ सन् **नु॑दे॒ह**।  
 
 </details>
 </div>
@@ -898,9 +898,9 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 <details open><summary><h2>19 श्रेष्ठो देवानाम्भगवो ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
-श्रेष्ठो॑ दे॒वाना᳚म्भगवो भगासि ।  
+श्रेष्ठो॑ दे॒वाना॑म्भगवो भगासि ।  
 तत्त्वा॑ विदु॒ᳶ फल्गु॑नी॒स्तस्य॑ वित्तात् ।  
-अ॒स्मभ्य॑ङ्ख्ष॒त्रम॒जरꣳ॑ सु॒वीर्य᳚म् ।  
+अ॒स्मभ्य॑ङ्क्ष॒त्रम॒जरँ॑ सु॒वीर्य॑म् ।  
 गोम॒दश्व॑व॒दुप॒सन्नु॑दे॒ह ।  
 
 
@@ -950,7 +950,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/11_bhagAya_svAhA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-भगा॑य॒ स्वाहा॒ फल्गु॑नीभ्या॒ꣳ॒ स्वाहा᳚ । श्रैष्ठ्या॑य॒ स्वाहा᳚ ॥36॥
+भगा॑य॒ स्वाहा॒ फल्गु॑नीभ्याँ॒ स्वाहा॑ । श्रैष्ठ्या॑य॒ स्वाहा॑ ॥36॥
 </details>
 </div>
 
@@ -976,7 +976,7 @@ Denebola - β, 93 Leonis
 
 आया॑तु दे॒वस् **स॑वि॒तोप॑यातु**।  
 हि॒र॒ण्यये॑न सु॒वृता॒ रथे॑न।  
-**वह॒न्** हस्तꣳ॑ सु॒भग॑व्ँ विद्म॒नाप॑सम् +++(=विदितकर्मणा युक्तम्)+++।  
+**वह॒न्** हस्तँ॑ सु॒भग॑व्ँ विद्म॒नाप॑सम् +++(=विदितकर्मणा युक्तम्)+++।  
 **प्र॒यच्छ॑न्त॒म्** पपु॑रि॒म् +++(=पूरयितारम्)+++ पुण्य॒म् अच्छ॑ +++(=अभिमुखं वर्तमानम्)+++।
 
 </details>
@@ -987,7 +987,7 @@ Denebola - β, 93 Leonis
 
 आया॑तु दे॒वस्स॑वि॒तोप॑यातु ।  
 हि॒र॒ण्यये॑न सु॒वृता॒ रथे॑न ।  
-वह॒न् हस्तꣳ॑ सु॒भग॑व्ँविद्म॒नाप॑सम् ।  
+वह॒न् हस्तँ॑ सु॒भग॑व्ँविद्म॒नाप॑सम् ।  
 प्र॒यच्छ॑न्त॒म्पपु॑रि॒म्पुण्य॒मच्छ॑ ।    
 
 
@@ -1016,7 +1016,7 @@ Denebola - β, 93 Leonis
 <details><summary>मूलम्</summary>
 
 हस्त॒ᳶ प्रय॑च्छत्व॒मृत॒व्ँवसी॑यः ।   
-दख्षि॑णेन॒ प्रति॑गृभ्णीम एनत् ।  
+दक्षि॑णेन॒ प्रति॑गृभ्णीम एनत् ।  
 दा॒तार॑म॒द्य स॑वि॒ता वि॑देय ।  
 यो नो॒ हस्ता॑य प्रसु॒वाति॑ य॒ज्ञम् ।
 
@@ -1037,8 +1037,8 @@ Denebola - β, 93 Leonis
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 स॒वि॒त्रे स्वाहा॒ हस्ता॑य॒ स्वाहा॑  
-दद॒ते स्वाहा॑ पृण॒ते स्वाहा᳚  
-प्र॒यच्छ॑ते॒ स्वाहा᳚  प्रतिगृभ्ण॒ते स्वाहा᳚ ॥37 ॥
+दद॒ते स्वाहा॑ पृण॒ते स्वाहा॑  
+प्र॒यच्छ॑ते॒ स्वाहा॑  प्रतिगृभ्ण॒ते स्वाहा॑ ॥37 ॥
 </details>
 </div>
 
@@ -1059,24 +1059,24 @@ Corvus- α , β , γ , δ , ε Corvi.
 ## चित्रा - त्वष्टा
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/23_tvaShTA_nakhShatramabhyeti.md">
-<details open><summary><h2>23 त्वष्टा नख्षत्रमभ्येति ...{Loading}...</h2></summary>
+<details open><summary><h2>23 त्वष्टा नक्षत्रमभ्येति ...{Loading}...</h2></summary>
 
 
 त्वष्टा॒ नक्ष॑त्रम् **अ॒भ्ये॑ति** चि॒त्राम् +++(=Spica)+++।  
-सु॒भꣳस॑सय्ँ +++(=सुजघनां)+++ युव॒तिꣳ **रोच॑मानाम्**।  
-**नि॒वे॒शय॑न्न्** अ॒मृता॒न् मर्त्याꣳ॑श् च।  
-रू॒पाणि॑ **पि॒ꣳ॒शन्** +++(=निरूपयन्)+++ भुव॑नानि॒ विश्वा॑।  
+सु॒भँस॑सय्ँ +++(=सुजघनां)+++ युव॒तिँ **रोच॑मानाम्**।  
+**नि॒वे॒शय॑न्न्** अ॒मृता॒न् मर्त्याँ॑श् च।  
+रू॒पाणि॑ **पिँ॒शन्** +++(=निरूपयन्)+++ भुव॑नानि॒ विश्वा॑।  
 
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/23_tvaShTA_nakhShatramabhyeti.md">
-<details open><summary><h2>23 त्वष्टा नख्षत्रमभ्येति ...{Loading}...</h2></summary>
+<details open><summary><h2>23 त्वष्टा नक्षत्रमभ्येति ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
-त्वष्टा॒ नख्ष॑त्रम॒भ्ये॑ति चि॒त्राम् ।  
-सु॒भꣳस॑सय्ँ युव॒तिꣳ रोच॑मानाम् ॥9॥  
-नि॒वे॒शय॑न्न॒मृता॒न्मर्त्याꣳ॑श्च ।  
-रू॒पाणि॑ पि॒ꣳ॒शन्भुव॑नानि॒ विश्वा᳚ ।  
+त्वष्टा॒ नक्ष॑त्रम॒भ्ये॑ति चि॒त्राम् ।  
+सु॒भँस॑सय्ँ युव॒तिँ रोच॑मानाम् ॥9॥  
+नि॒वे॒शय॑न्न॒मृता॒न्मर्त्याँ॑श्च ।  
+रू॒पाणि॑ पिँ॒शन्भुव॑नानि॒ विश्वा॑ ।  
 
 
 
@@ -1095,7 +1095,7 @@ Corvus- α , β , γ , δ , ε Corvi.
 
 तन् न॒स् त्वष्टा॒ तद् उ॑ चि॒त्रा **विच॑ष्टाम्** +++(=वीक्षताम्)+++।  
 तन् नक्ष॑त्रम् **भूरि॒दा अ॑स्तु॒** मह्य॑म्।  
-तन्नᳶ॑ प्र॒जाव्ँ वी॒रव॑तीꣳ **सनोतु** +++(=ददातु)+++।  
+तन्नᳶ॑ प्र॒जाव्ँ वी॒रव॑तीँ **सनोतु** +++(=ददातु)+++।  
 गोभि॑र् नो॒ अश्वै॒स् **सम॑नक्तु** य॒ज्ञम्॥  
 
 </details>
@@ -1105,8 +1105,8 @@ Corvus- α , β , γ , δ , ε Corvi.
 <details><summary>मूलम्</summary>
 
 तन्न॒स्त्वष्टा॒ तदु॑ चि॒त्रा विच॑ष्टाम् ।  
-तन्नख्ष॑त्रम्भूरि॒दा अ॑स्तु॒ मह्य᳚म् ।  
-तन्न॑ᳶ प्र॒जाव्ँ वी॒रव॑तीꣳ सनोतु ।   
+तन्नक्ष॑त्रम्भूरि॒दा अ॑स्तु॒ मह्य॑म् ।  
+तन्न॑ᳶ प्र॒जाव्ँ वी॒रव॑तीँ सनोतु ।   
 गोभि॑र्नो॒ अश्वै॒स्सम॑नक्तु य॒ज्ञम् ।   
 
 
@@ -1125,8 +1125,8 @@ Corvus- α , β , γ , δ , ε Corvi.
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/13_tvaShTre_svAhA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-त्वष्ट्रे॒ स्वाहा॑ चि॒त्रायै॒ स्वाहा᳚ ।  
-चैत्रा॑य॒ स्वाहा᳚ प्र॒जायै॒ स्वाहा᳚ ॥38॥
+त्वष्ट्रे॒ स्वाहा॑ चि॒त्रायै॒ स्वाहा॑ ।  
+चैत्रा॑य॒ स्वाहा॑ प्र॒जायै॒ स्वाहा॑ ॥38॥
 </details>
 </div>
 
@@ -1153,24 +1153,24 @@ Corvus- α , β , γ , δ , ε Corvi.
 ## निष्ट्या, स्वातिः - वायुः
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/25_vAyurnakhShattramabhyeti.md">
-<details open><summary><h2>25 वायुर्नख्षत्त्रमभ्येति ...{Loading}...</h2></summary>
+<details open><summary><h2>25 वायुर्नक्षत्त्रमभ्येति ...{Loading}...</h2></summary>
 
 
 वा॒युर् नक्ष॑त्रम् **अ॒भ्ये॑ति॒** निष्ट्या॑म्+++(=Arctrus)+++।  
 ति॒ग्मशृ॑ङ्गो वृष॒भो **रोरु॑वाणः**।  
 **स॒मी॒रय॒न्** भुव॑ना मात॒रिश्वा॑ +++(←मातरि आकाशे श्वयति वर्द्धते)+++।  
-**अप॒** द्वेषाꣳ॑सि **नुदता॒म्** अरा॑तीः।  
+**अप॒** द्वेषाँ॑सि **नुदता॒म्** अरा॑तीः।  
 
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/25_vAyurnakhShattramabhyeti.md">
-<details open><summary><h2>25 वायुर्नख्षत्त्रमभ्येति ...{Loading}...</h2></summary>
+<details open><summary><h2>25 वायुर्नक्षत्त्रमभ्येति ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
-वा॒युर्नख्ष॑त्त्रम॒भ्ये॑ति॒ निष्ट्या᳚म् ।  
+वा॒युर्नक्ष॑त्त्रम॒भ्ये॑ति॒ निष्ट्या॑म् ।  
 ति॒ग्मशृ॑ङ्गो वृष॒भो रोरु॑वाणः ।  
-स॒मी॒रय॒न्भुव॑ना मात॒रिश्वा᳚ ।  
-अप॒ द्वेषाꣳ॑सि नुदता॒मरा॑तीः ॥10॥  
+स॒मी॒रय॒न्भुव॑ना मात॒रिश्वा॑ ।  
+अप॒ द्वेषाँ॑सि नुदता॒मरा॑तीः ॥10॥  
 
 
 
@@ -1199,9 +1199,9 @@ Corvus- α , β , γ , δ , ε Corvi.
 <details><summary>मूलम्</summary>
 
 तन्नो॑ वा॒युस्तदु॒ निष्ट्या॑ शृणोतु ।   
-तन्नख्ष॑त्रम्भूरि॒दा अ॑स्तु॒ मह्य᳚म् ।  
-तन्नो॑ दे॒वासो॒ अनु॑जानन्तु॒ काम᳚म् ।  
-यथा॒ तरे॑म दुरि॒तानि॒ विश्वा᳚ ।
+तन्नक्ष॑त्रम्भूरि॒दा अ॑स्तु॒ मह्य॑म् ।  
+तन्नो॑ दे॒वासो॒ अनु॑जानन्तु॒ काम॑म् ।  
+यथा॒ तरे॑म दुरि॒तानि॒ विश्वा॑ ।
 
 
 </details>
@@ -1219,9 +1219,9 @@ Corvus- α , β , γ , δ , ε Corvi.
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/14_vAyave_svAhA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-वा॒यवे॒ स्वाहा॒ निष्ट्या॑यै॒ स्वाहा᳚ ।  
+वा॒यवे॒ स्वाहा॒ निष्ट्या॑यै॒ स्वाहा॑ ।  
 का॒म॒चारा॑य॒ स्वाहा॒  
-ऽभिजि॑त्यै॒ स्वाहा᳚ ॥39॥
+ऽभिजि॑त्यै॒ स्वाहा॑ ॥39॥
 </details>
 </div>
 
@@ -1272,7 +1272,7 @@ Corvus- α , β , γ , δ , ε Corvi.
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/28_nakhShatrANAmadhipatnI.md">
-<details open><summary><h2>28 नख्षत्राणामधिपत्नी ...{Loading}...</h2></summary>
+<details open><summary><h2>28 नक्षत्राणामधिपत्नी ...{Loading}...</h2></summary>
 
 
 नक्ष॑त्राणा॒म् अधि॑पत्नी॒ विशा॑खे।  
@@ -1283,13 +1283,13 @@ Corvus- α , β , γ , δ , ε Corvi.
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/28_nakhShatrANAmadhipatnI.md">
-<details open><summary><h2>28 नख्षत्राणामधिपत्नी ...{Loading}...</h2></summary>
+<details open><summary><h2>28 नक्षत्राणामधिपत्नी ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
-नख्ष॑त्राणा॒मधि॑पत्नी॒ विशा॑खे ।   
+नक्ष॑त्राणा॒मधि॑पत्नी॒ विशा॑खे ।   
 श्रेष्ठा॑विन्द्रा॒ग्नी भुव॑नस्य गो॒पौ ॥11॥  
 विषू॑च॒श्शत्रू॑नप॒ बाध॑मानौ ।  
-अप॒ ख्षुध॑न्नुदता॒मरा॑तिम् ।  
+अप॒ क्षुध॑न्नुदता॒मरा॑तिम् ।  
 
 
 </details>
@@ -1307,8 +1307,8 @@ Corvus- α , β , γ , δ , ε Corvi.
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/15_indrAgnibhyAM_svAhA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-इ॒न्द्रा॒ग्निभ्या॒ꣳ॒ स्वाहा॒ विशा॑खाभ्या॒ꣳ॒ स्वाहा᳚ ।  
-श्रैष्ठ्या॑य॒ स्वाहा॒ ऽभिजि॑त्यै॒ स्वाहा᳚ ॥40॥
+इ॒न्द्रा॒ग्निभ्याँ॒ स्वाहा॒ विशा॑खाभ्याँ॒ स्वाहा॑ ।  
+श्रैष्ठ्या॑य॒ स्वाहा॒ ऽभिजि॑त्यै॒ स्वाहा॑ ॥40॥
 </details>
 </div>
 
@@ -1348,9 +1348,9 @@ Corvus- α , β , γ , δ , ε Corvi.
 <details open><summary><h2>29 पूर्णा पश्चादुत ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
-पू॒र्णा प॒श्चादु॒त पू॒र्णा पु॒रस्ता᳚त् ।   
-उन्म॑ध्य॒तᳶ पौ᳚र्णमा॒सी जि॑गाय ।  
-तस्या᳚न्दे॒वा अधि॑ स॒व्ँवस॑न्तः ।  
+पू॒र्णा प॒श्चादु॒त पू॒र्णा पु॒रस्ता॑त् ।   
+उन्म॑ध्य॒तᳶ पौ॑र्णमा॒सी जि॑गाय ।  
+तस्या॑न्दे॒वा अधि॑ स॒व्ँवस॑न्तः ।  
 उ॒त्त॒मे नाक॑ इ॒ह मा॑दयन्ताम् ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1380,9 +1380,9 @@ _________________
 <details open><summary><h2>30 पृथ्वी सुवर्चा ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
-पृ॒थ्वी सु॒वर्चा॑ युव॒तिस्स॒जोषाः᳚ ।  
+पृ॒थ्वी सु॒वर्चा॑ युव॒तिस्स॒जोषाः॑ ।  
 पौ॒र्ण॒मा॒स्युद॑गा॒च्छोभ॑माना ।  
-आ॒प्या॒यय॑न्ती दुरि॒तानि॒ विश्वा᳚ ।  
+आ॒प्या॒यय॑न्ती दुरि॒तानि॒ विश्वा॑ ।  
 उ॒रुन्दुहा॒य्ँयज॑मानाय य॒ज्ञम् ॥12॥  
 
 
@@ -1402,7 +1402,7 @@ _________________
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/16_paurNamAsyai_svAhA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-पौ॒र्ण॒मा॒स्यै स्वाहा॒ कामा॑य॒ स्वाहा ऽऽग॑त्यै॒ स्वाहा᳚ ॥41॥
+पौ॒र्ण॒मा॒स्यै स्वाहा॒ कामा॑य॒ स्वाहा ऽऽग॑त्यै॒ स्वाहा॑ ॥41॥
 </details>
 </div>
 

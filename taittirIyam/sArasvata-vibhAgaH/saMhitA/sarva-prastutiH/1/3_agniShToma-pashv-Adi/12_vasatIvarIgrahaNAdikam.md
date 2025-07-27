@@ -17,15 +17,15 @@ _______
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-ह॒विष्म॑तीरि॒मा आपो॑ ह॒विष्मा᳚न्दे॒वो अ॑ध्व॒रो ह॒विष्मा॒ꣳ॒ आ वि॑वासति ह॒विष्माꣳ॑ अस्तु॒ सूर्यः॑ ॥ 
+ह॒विष्म॑तीरि॒मा आपो॑ ह॒विष्मा॑न्दे॒वो अ॑ध्व॒रो ह॒विष्माँ॒ आ वि॑वासति ह॒विष्माँ॑ अस्तु॒ सूर्यः॑ ॥ 
 </details>
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/12_vasatIvarIgrahaNAdikam/02_haviShmatIr_imA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 ह॒विष्म॑तीर् इ॒मा +++(वसतीवरीसंज्ञा)+++ आपो॑  
-ह॒विष्मा᳚न् दे॒वो अ॑ध्व॒रः ।   
-ह॒विष्मा॒ꣳ॒ आ **वि॑वासति** +++(←वा गतिगन्धनयोः)+++   
-**ह॒विष्माꣳ॑ अस्तु॒** सूर्यः॑ ॥
+ह॒विष्मा॑न् दे॒वो अ॑ध्व॒रः ।   
+ह॒विष्माँ॒ आ **वि॑वासति** +++(←वा गतिगन्धनयोः)+++   
+**ह॒विष्माँ॑ अस्तु॒** सूर्यः॑ ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/12_vasatIvarIgrahaNAdikam/02_haviShmatIr_imA.md">
@@ -39,8 +39,8 @@ Rich in oblation be the sun.
 </details>
 <details><summary>मूलम्</summary>
 
-ह॒विष्म॑तीरि॒मा आपो॑ ह॒विष्मा᳚न्दे॒वो अ॑ध्व॒रः ।   
-ह॒विष्मा॒ꣳ॒ आ वि॑वासति ह॒विष्माꣳ॑ अस्तु॒ सूर्यः॑ ॥
+ह॒विष्म॑तीरि॒मा आपो॑ ह॒विष्मा॑न्दे॒वो अ॑ध्व॒रः ।   
+ह॒विष्माँ॒ आ वि॑वासति ह॒विष्माँ॑ अस्तु॒ सूर्यः॑ ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -105,7 +105,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒न्द्रा॒ग्नि॒योर् भा॑ग॒धेयीः᳚ स्थ ।
+इ॒न्द्रा॒ग्नि॒योर् भा॑ग॒धेयीः॑ स्थ ।
 </details>
 <details><summary>Keith</summary>
 
@@ -113,12 +113,12 @@ Ye are the share of Indra and Agni;
 </details>
 <details><summary>मूलम्</summary>
 
-इ॒न्द्रा॒ग्नि॒योर्भा॑ग॒धेयीः᳚ स्थ ।
+इ॒न्द्रा॒ग्नि॒योर्भा॑ग॒धेयीः॑ स्थ ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-इ॒न्द्रा॒ग्नि॒योरिती᳚न्द्र-अ॒ग्नि॒योः । भा॒ग॒धेयी॒रिति॑ भाग-धेयीः᳚ । स्थ॒ । 
+इ॒न्द्रा॒ग्नि॒योरिती॑न्द्र-अ॒ग्नि॒योः । भा॒ग॒धेयी॒रिति॑ भाग-धेयीः॑ । स्थ॒ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -135,7 +135,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मि॒त्रावरु॑णयोर् भाग॒धेयीः᳚ स्थ ।
+मि॒त्रावरु॑णयोर् भाग॒धेयीः॑ स्थ ।
 </details>
 <details><summary>Keith</summary>
 
@@ -143,11 +143,11 @@ ye are the share of Mitra and Varuna;
 </details>
 <details><summary>मूलम्</summary>
 
-मि॒त्रावरु॑णयोर्भाग॒धेयीः᳚ स्थ ।
+मि॒त्रावरु॑णयोर्भाग॒धेयीः॑ स्थ ।
 </details>
 <details><summary>पद-पाठः</summary>
 
-मि॒त्रावरु॑णयो॒रिति॑ मि॒त्रा-वरु॑णयोः । भा॒ग॒धेयी॒रिति॑ भाग-धेयीः᳚ । स्थ॒ । 
+मि॒त्रावरु॑णयो॒रिति॑ मि॒त्रा-वरु॑णयोः । भा॒ग॒धेयी॒रिति॑ भाग-धेयीः॑ । स्थ॒ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -163,7 +163,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विश्वे॑षान्दे॒वाना᳚म्भाग॒धेयीः᳚ स्थ ।
+विश्वे॑षान्दे॒वाना॑म्भाग॒धेयीः॑ स्थ ।
 </details>
 <details><summary>Keith</summary>
 
@@ -171,12 +171,12 @@ ye are the share of the all-gods.
 </details>
 <details><summary>मूलम्</summary>
 
-विश्वे॑षान्दे॒वाना᳚म्भाग॒धेयीः᳚ स्थ ।
+विश्वे॑षान्दे॒वाना॑म्भाग॒धेयीः॑ स्थ ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-विश्वे॑षाम् । दे॒वाना᳚म् । भा॒ग॒धेयी॒रिति॑ भाग-धेयीः᳚ । स्थ॒ ।
+विश्वे॑षाम् । दे॒वाना॑म् । भा॒ग॒धेयी॒रिति॑ भाग-धेयीः॑ । स्थ॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

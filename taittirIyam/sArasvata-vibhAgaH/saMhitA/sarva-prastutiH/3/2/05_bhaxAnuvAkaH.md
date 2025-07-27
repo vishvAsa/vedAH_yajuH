@@ -17,11 +17,11 @@ title = "०५ भक्षानुवाकः"
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-भख्षेहि॒ मा वि॑श दीर्घायु॒त्वाय॑ शन्तनु॒त्वाय॑ रा॒यस्पोषा॑य॒ वर्च॑से सुप्रजा॒स्त्वायेहि॑ वसो पुरोवसो प्रि॒यो मे॑ हृ॒दो᳚ऽस्य॒श्विनो᳚स्त्वा बा॒हुभ्याꣳ॑ सघ्यासम्
+भक्षेहि॒ मा वि॑श दीर्घायु॒त्वाय॑ शन्तनु॒त्वाय॑ रा॒यस्पोषा॑य॒ वर्च॑से सुप्रजा॒स्त्वायेहि॑ वसो पुरोवसो प्रि॒यो मे॑ हृ॒दो॑ऽस्य॒श्विनो॑स्त्वा बा॒हुभ्याँ॑ सघ्यासम्
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-**भख्ष! +इहि॒**, मा **वि॑श**  
+**भक्ष! +इहि॒**, मा **वि॑श**  
 दीर्घायु॒त्वाय॑ शन्तनु॒त्वाय॑ रा॒यस्-पोषा॑य॒ वर्च॑से सु-प्रजा॒स्त्वाय॑ ।  
 </details>
 <details><summary>Keith</summary>
@@ -30,7 +30,7 @@ Food come hither, enter me for long life, for health, for increase of wealth, fo
 </details>
 <details><summary>मूलम्</summary>
 
-भख्षेहि॒ मा वि॑श दीर्घायु॒त्वाय॑ शन्तनु॒त्वाय॑ रा॒यस्पोषा॑य॒ वर्च॑से सुप्रजा॒स्त्वाय॑ ।  
+भक्षेहि॒ मा वि॑श दीर्घायु॒त्वाय॑ शन्तनु॒त्वाय॑ रा॒यस्पोषा॑य॒ वर्च॑से सुप्रजा॒स्त्वाय॑ ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -39,7 +39,7 @@ Food come hither, enter me for long life, for health, for increase of wealth, fo
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **एहि॑** वसो! पुरो-वसो!  
-प्रि॒यो मे॑ हृ॒दो᳚ऽसि ।  
+प्रि॒यो मे॑ हृ॒दो॑ऽसि ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -47,7 +47,7 @@ Come hither, O Vasu, preceded by wealth; thou art dear to my heart.
 </details>
 <details><summary>मूलम्</summary>
 
-एहि॑ वसो पुरोवसो प्रि॒यो मे॑ हृ॒दो᳚ऽसि ।  
+एहि॑ वसो पुरोवसो प्रि॒यो मे॑ हृ॒दो॑ऽसि ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -55,7 +55,7 @@ Come hither, O Vasu, preceded by wealth; thou art dear to my heart.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒श्विनो᳚स् त्वा बा॒हुभ्याꣳ॑ **सघ्यासम्**+++(←ग्रहणे)+++ ।
+अ॒श्विनो॑स् त्वा बा॒हुभ्याँ॑ **सघ्यासम्**+++(←ग्रहणे)+++ ।
 </details>
 <details><summary>Keith</summary>
 
@@ -63,7 +63,7 @@ May I grasp thee with the arms of the Aśvins.
 </details>
 <details><summary>मूलम्</summary>
 
-अ॒श्विनो᳚स्त्वा बा॒हुभ्याꣳ॑ सघ्यासम् ।
+अ॒श्विनो॑स्त्वा बा॒हुभ्याँ॑ सघ्यासम् ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -75,8 +75,8 @@ May I grasp thee with the arms of the Aśvins.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(नृ-वीक्षणेन)+++ नृ॒-चख्ष॑सन् त्वा देव सोम  
-सु॒-चख्षा॒ अव॑ ख्येषम्+++(=वीक्षेयम्)+++ ।
++++(नृ-वीक्षणेन)+++ नृ॒-चक्ष॑सन् त्वा देव सोम  
+सु॒-चक्षा॒ अव॑ ख्येषम्+++(=वीक्षेयम्)+++ ।
 </details>
 <details><summary>Keith</summary>
 
@@ -84,7 +84,7 @@ With clear sight may I gaze' upon thee, O god Soma, who regardest men.
 </details>
 <details><summary>मूलम्</summary>
 
-नृ॒चख्ष॑सन्त्वा देव सोम सु॒चख्षा॒ अव॑ ख्येषम् ।
+नृ॒चक्ष॑सन्त्वा देव सोम सु॒चक्षा॒ अव॑ ख्येषम् ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -96,7 +96,7 @@ With clear sight may I gaze' upon thee, O god Soma, who regardest men.
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-म॒न्द्राभिभू॑तिᳵ के॒तुर्य॒ज्ञाना॒व्ँवाग्जु॑षा॒णा सोम॑स्य तृप्यतु म॒न्द्रा स्व॑र्वा॒च्यदि॑ति॒रना॑हतशीर्ष्णी॒ वाग्जु॑षा॒णा सोम॑स्य तृप्य॒त्वेहि॑ विश्वचर्षणे [16]  श॒म्भूर्म॑यो॒भूस्स्व॒स्ति मा॑ हरिवर्ण॒ प्र च॑र॒ क्रत्वे॒ दख्षा॑य रा॒यस्पोषा॑य सुवी॒रता॑यै
+म॒न्द्राभिभू॑तिᳵ के॒तुर्य॒ज्ञाना॒व्ँवाग्जु॑षा॒णा सोम॑स्य तृप्यतु म॒न्द्रा स्व॑र्वा॒च्यदि॑ति॒रना॑हतशीर्ष्णी॒ वाग्जु॑षा॒णा सोम॑स्य तृप्य॒त्वेहि॑ विश्वचर्षणे [16]  श॒म्भूर्म॑यो॒भूस्स्व॒स्ति मा॑ हरिवर्ण॒ प्र च॑र॒ क्रत्वे॒ दक्षा॑य रा॒यस्पोषा॑य सुवी॒रता॑यै
 </details>
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/2/05_bhaxAnuvAkaH/02_mandrA.abhibhUtikH.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
@@ -133,7 +133,7 @@ Gentle control, banner of the sacrifices, may speech accept and delight in the S
 
 **एहि॑** विश्वचर्षणे श॒म्भूर् म॑यो॒-भूः  
 स्व॒स्ति मा॑ हरि-वर्ण॒ **प्र च॑र**।  
-क्रत्वे॒ दख्षा॑य रा॒यस्पोषा॑य सुवी॒रता॑यै ।
+क्रत्वे॒ दक्षा॑य रा॒यस्पोषा॑य सुवी॒रता॑यै ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/2/05_bhaxAnuvAkaH/03_ehi_vishvacharShaNe.md">
@@ -146,7 +146,7 @@ Come hither, O thou who art of all men [1], with healing and favour; with safety
 
 एहि॑ विश्वचर्षणे श॒म्भूर्म॑यो॒भूः ।  
 स्व॒स्ति मा॑ हरिवर्ण॒ प्र च॑र॒  
-क्रत्वे॒ दख्षा॑य रा॒यस्पोषा॑य सुवी॒रता॑यै ।
+क्रत्वे॒ दक्षा॑य रा॒यस्पोषा॑य सुवी॒रता॑यै ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -209,9 +209,9 @@ Of thee, O god Soma, who hast the Vasus for thy troop, who knowest the mind, who
 <details open><summary><h5>इन्द्र॑-पीतस्य॒ ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्र॑-पीतस्य॒ नरा॒शꣳस॑-पीतस्य पि॒तृ-पी॑तस्य॒  
+इन्द्र॑-पीतस्य॒ नरा॒शँस॑-पीतस्य पि॒तृ-पी॑तस्य॒  
 मधु॑मत॒  
-**उप॑हूत॒स्योप॑हूतो भख्षयामि** ।  
+**उप॑हूत॒स्योप॑हूतो भक्षयामि** ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -219,7 +219,7 @@ who art drunk by Indra, who art drunk by Naraśansa, who art drunk by the father
 </details>
 <details><summary>मूलम्</summary>
 
-इन्द्र॑पीतस्य॒ नरा॒शꣳस॑पीतस्य पि॒तृपी॑तस्य॒ मधु॑मत॒ उप॑हूत॒स्योप॑हूतो भख्षयामि ।
+इन्द्र॑पीतस्य॒ नरा॒शँस॑पीतस्य पि॒तृपी॑तस्य॒ मधु॑मत॒ उप॑हूत॒स्योप॑हूतो भक्षयामि ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -255,9 +255,9 @@ Of thee, O god Soma, who hast the Rudras for thy troop, who knowest the mind, wh
 <details open><summary><h5>इन्द्र॑-पीतस्य॒ ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्र॑-पीतस्य॒ नरा॒शꣳस॑-पीतस्य पि॒तृ-पी॑तस्य॒  
+इन्द्र॑-पीतस्य॒ नरा॒शँस॑-पीतस्य पि॒तृ-पी॑तस्य॒  
 मधु॑मत॒  
-**उप॑हूत॒स्योप॑हूतो भख्षयामि** ।  
+**उप॑हूत॒स्योप॑हूतो भक्षयामि** ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -265,7 +265,7 @@ who art drunk by Indra, who art drunk by Naraśansa, who art drunk by the father
 </details>
 <details><summary>मूलम्</summary>
 
-इन्द्र॑पीतस्य॒ नरा॒शꣳस॑पीतस्य पि॒तृपी॑तस्य॒ मधु॑मत॒ उप॑हूत॒स्योप॑हूतो भख्षयामि ।
+इन्द्र॑पीतस्य॒ नरा॒शँस॑पीतस्य पि॒तृपी॑तस्य॒ मधु॑मत॒ उप॑हूत॒स्योप॑हूतो भक्षयामि ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -301,9 +301,9 @@ Of thee, O god Soma, who hast the Adityas for thy troop, who knowest the heart, 
 <details open><summary><h5>इन्द्र॑-पीतस्य॒ ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्र॑-पीतस्य॒ नरा॒शꣳस॑-पीतस्य पि॒तृ-पी॑तस्य॒  
+इन्द्र॑-पीतस्य॒ नरा॒शँस॑-पीतस्य पि॒तृ-पी॑तस्य॒  
 मधु॑मत॒  
-**उप॑हूत॒स्योप॑हूतो भख्षयामि** ।  
+**उप॑हूत॒स्योप॑हूतो भक्षयामि** ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -311,7 +311,7 @@ who art drunk by Indra, who art drunk by Naraśansa, who art drunk by the father
 </details>
 <details><summary>मूलम्</summary>
 
-इन्द्र॑पीतस्य॒ नरा॒शꣳस॑पीतस्य पि॒तृपी॑तस्य॒ मधु॑मत॒ उप॑हूत॒स्योप॑हूतो भख्षयामि ।
+इन्द्र॑पीतस्य॒ नरा॒शँस॑पीतस्य पि॒तृपी॑तस्य॒ मधु॑मत॒ उप॑हूत॒स्योप॑हूतो भक्षयामि ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -652,7 +652,7 @@ Of mortal man do to us, O immortal?
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
-यन्म॑ आ॒त्मनो॑ मि॒न्दाभू॑द॒ग्निस्तत्पुन॒राहा᳚र्जा॒तवे॑दा॒ विच॑र्षणिः ।
+यन्म॑ आ॒त्मनो॑ मि॒न्दाभू॑द॒ग्निस्तत्पुन॒राहा॑र्जा॒तवे॑दा॒ विच॑र्षणिः ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -684,8 +684,8 @@ Replace my eye within its sockets.
 </details>
 <details><summary>मूलम्</summary>
 
-पुन॑र॒ग्निश्चख्षु॑रदा॒त्पुन॒रिन्द्रो॒ बृह॒स्पतिः॑ ।
-पुन॑र्मे अश्विना यु॒वञ्चख्षु॒रा ध॑त्तम॒ख्ष्योः ।
+पुन॑र॒ग्निश्चक्षु॑रदा॒त्पुन॒रिन्द्रो॒ बृह॒स्पतिः॑ ।
+पुन॑र्मे अश्विना यु॒वञ्चक्षु॒रा ध॑त्तम॒क्ष्योः ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -702,7 +702,7 @@ Replace my eye within its sockets.
 इ॒ष्ट-य॑जुषस् ते देव सोम  
 स्तु॒त-स्तो॑मस्य श॒स्तोक्थ॑स्य॒  
 हरि॑वत॒ इन्द्र॑-पीतस्य॒ मधु॑मत॒  
-**उप॑हूत॒स्योप॑हूतो भख्षयामि ।**
+**उप॑हूत॒स्योप॑हूतो भक्षयामि ।**
 </details>
 <details><summary>Keith</summary>
 
@@ -711,7 +711,7 @@ Of thee, O god Soma, over whom the Yajus is spoken, the Stoma sung [4], the Ukth
 </details>
 <details><summary>मूलम्</summary>
 
-इ॒ष्टय॑जुषस्ते देव सोम स्तु॒तस्तो॑मस्य श॒स्तोक्थ॑स्य॒ हरि॑वत॒ इन्द्र॑पीतस्य॒ मधु॑मत॒ उप॑हूत॒स्योप॑हूतो भख्षयामि ।
+इ॒ष्टय॑जुषस्ते देव सोम स्तु॒तस्तो॑मस्य श॒स्तोक्थ॑स्य॒ हरि॑वत॒ इन्द्र॑पीतस्य॒ मधु॑मत॒ उप॑हूत॒स्योप॑हूतो भक्षयामि ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -803,7 +803,7 @@ Rejoice therein, O fathers, according to your shares.
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-नमो॑ वᳶ पितरो॒ रसा॑य॒ नमो॑ वᳶ पितर॒श्शुष्मा॑य॒ नमो॑ वᳶ पितरो जी॒वाय॒ नमो॑ वᳶ पितरः [20]  स्व॒धायै॒ नमो॑ वᳶ पितरो म॒न्यवे॒ नमो॑ वᳶ पितरो घो॒राय॒ पित॑रो॒ नमो॑ वो॒ य ए॒तस्मि॑ल्ँलो॒के स्थ यु॒ष्माꣳस्तेऽनु॒ ये᳚ऽस्मिल्ँ लो॒के मान्तेऽनु॒ य ए॒तस्मि॑ल्ँलो॒के स्थ यू॒यन्तेषा॒व्ँवसि॑ष्ठा भूयास्त॒ ये᳚ऽस्मिल्ँ लो॒के॑ऽहन्तेषा॒व्ँवसि॑ष्ठो भूयासम्
+नमो॑ वᳶ पितरो॒ रसा॑य॒ नमो॑ वᳶ पितर॒श्शुष्मा॑य॒ नमो॑ वᳶ पितरो जी॒वाय॒ नमो॑ वᳶ पितरः [20]  स्व॒धायै॒ नमो॑ वᳶ पितरो म॒न्यवे॒ नमो॑ वᳶ पितरो घो॒राय॒ पित॑रो॒ नमो॑ वो॒ य ए॒तस्मि॑ल्ँलो॒के स्थ यु॒ष्माँस्तेऽनु॒ ये॑ऽस्मिल्ँ लो॒के मान्तेऽनु॒ य ए॒तस्मि॑ल्ँलो॒के स्थ यू॒यन्तेषा॒व्ँवसि॑ष्ठा भूयास्त॒ ये॑ऽस्मिल्ँ लो॒के॑ऽहन्तेषा॒व्ँवसि॑ष्ठो भूयासम्
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -906,7 +906,7 @@ homage to your terrors, O fathers; O fathers, homage to you.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य ए॒तस्मि॑ल्ँ लो॒के स्थ यु॒ष्माꣳस्तेऽनु॑ ।
+य ए॒तस्मि॑ल्ँ लो॒के स्थ यु॒ष्माँस्तेऽनु॑ ।
 </details>
 <details><summary>Keith</summary>
 
@@ -914,7 +914,7 @@ Ye that are in that world, may they follow you;
 </details>
 <details><summary>मूलम्</summary>
 
-य ए॒तस्मि॑ल्ँलो॒के स्थ यु॒ष्माꣳस्तेऽनु॑ ।
+य ए॒तस्मि॑ल्ँलो॒के स्थ यु॒ष्माँस्तेऽनु॑ ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -922,7 +922,7 @@ Ye that are in that world, may they follow you;
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ये᳚ऽस्मिल्ँ लो॒के मान् तेऽनु॑ ।
+ये॑ऽस्मिल्ँ लो॒के मान् तेऽनु॑ ।
 </details>
 <details><summary>Keith</summary>
 
@@ -930,7 +930,7 @@ ye that are in this world, may they follow me.
 </details>
 <details><summary>मूलम्</summary>
 
-ये᳚ऽस्मिल्ँ लो॒के मान्तेऽनु॑ ।
+ये॑ऽस्मिल्ँ लो॒के मान्तेऽनु॑ ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -954,7 +954,7 @@ Ye that are in that world, of them be ye the most fortunate;
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ये᳚ऽस्मिल्ँ लो॒के॑ ऽहन् तेषा॒व्ँवसि॑ष्ठो भूयासम् ।
+ये॑ऽस्मिल्ँ लो॒के॑ ऽहन् तेषा॒व्ँवसि॑ष्ठो भूयासम् ।
 </details>
 <details><summary>Keith</summary>
 
@@ -962,7 +962,7 @@ ye that are in this world, of these may I be the most fortunate.
 </details>
 <details><summary>मूलम्</summary>
 
-ये᳚ऽस्मिल्ँ लो॒के॑ऽहन्तेषा॒व्ँवसि॑ष्ठो भूयासम् ।
+ये॑ऽस्मिल्ँ लो॒के॑ऽहन्तेषा॒व्ँवसि॑ष्ठो भूयासम् ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -981,7 +981,7 @@ ye that are in this world, of these may I be the most fortunate.
 प्रजा॑पते॒ न त्वद् +++(विश्वा जातानि→)+++ ए॒तान्य् अ॒न्यो  
 विश्वा॑ जा॒तानि॒ **परि॒** ता **ब॑भूव** ।  
 यत्-का॑मास् ते जुहु॒मस् तन् नो॑ **अस्तु**  
-व॒यꣵ **स्या॑म॒** पत॑यो रयी॒णाम्॥
+व॒यँ **स्या॑म॒** पत॑यो रयी॒णाम्॥
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/121/10_prajApate_na.md">
@@ -1001,7 +1001,7 @@ ye that are in this world, of these may I be the most fortunate.
 </details>
 <details><summary>मूलम् - तैत्तिरीयम्</summary>
 
-प्रजा॑पते॒ न त्वदे॒तान्य॒न्यः । विश्वा॑ जा॒तानि॒ परि॒ ता ब॑भूव । यत्का॑मास्ते जुहु॒मस्तन्नो॑ अस्तु । व॒यꣵ स्या॑म॒ पत॑यो रयी॒णाम्॥
+प्रजा॑पते॒ न त्वदे॒तान्य॒न्यः । विश्वा॑ जा॒तानि॒ परि॒ ता ब॑भूव । यत्का॑मास्ते जुहु॒मस्तन्नो॑ अस्तु । व॒यँ स्या॑म॒ पत॑यो रयी॒णाम्॥
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -1353,22 +1353,22 @@ Thou art the expiation of sin committed by the gods, thou art the expiation of s
 ## अवभृथभक्षमन्त्रः
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/2/05_bhaxAnuvAkaH/apsu_dhautasya.md">
-<details open><summary><h5>अ॒फ्सु धौ॒तस्य॑ ...{Loading}...</h5></summary>
+<details open><summary><h5>अ॒प्सु धौ॒तस्य॑ ...{Loading}...</h5></summary>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 23अथावभृथभक्षमन्त्रः - अप्सु धौतस्येत्यादि ॥
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-अ॒फ्सु धौ॒तस्य॑ सोम देव ते॒ नृभि॑स्सु॒तस्ये॒ष्टय॑जुषस्स्तु॒तस्तो॑मस्य श॒स्तोक्थ॑स्य॒ यो भ॒ख्षो अ॑श्व॒सनि॒र्यो गो॒सनि॒स्तस्य॑ ते पि॒तृभि॑र्भ॒ख्षङ्कृ॑त॒स्योप॑हूत॒स्योप॑हूतो भख्षयामि ॥
+अ॒प्सु धौ॒तस्य॑ सोम देव ते॒ नृभि॑स्सु॒तस्ये॒ष्टय॑जुषस्स्तु॒तस्तो॑मस्य श॒स्तोक्थ॑स्य॒ यो भ॒क्षो अ॑श्व॒सनि॒र्यो गो॒सनि॒स्तस्य॑ ते पि॒तृभि॑र्भ॒क्षङ्कृ॑त॒स्योप॑हूत॒स्योप॑हूतो भक्षयामि ॥
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒फ्सु **धौ॒तस्य॑** सोम देव ते॒  
+अ॒प्सु **धौ॒तस्य॑** सोम देव ते॒  
 नृभि॑स् **सु॒तस्य॑**+  
 **इ॒ष्ट**-य॑जुषस् **स्तु॒त**-स्तो॑मस्य श॒स्तोक्थ॑स्य॒  
-यो भ॒ख्षो अ॑श्व॒-सनि॒र् यो गो॒-सनि॒स्  
-तस्य॑ ते पि॒तृभि॑र् **भ॒ख्षङ् कृ॑त॒स्योप॑हूत॒स्योप॑हूतो भख्षयामि** ॥
+यो भ॒क्षो अ॑श्व॒-सनि॒र् यो गो॒-सनि॒स्  
+तस्य॑ ते पि॒तृभि॑र् **भ॒क्षङ् कृ॑त॒स्योप॑हूत॒स्योप॑हूतो भक्षयामि** ॥
 </details>
 <details><summary>Keith</summary>
 
@@ -1376,7 +1376,7 @@ Of thee, O god Soma, that art purified in the waters, that art pressed by men, o
 </details>
 <details><summary>मूलम्</summary>
 
-अ॒फ्सु धौ॒तस्य॑ सोम देव ते॒ नृभि॑स्सु॒तस्ये॒ष्टय॑जुषस्स्तु॒तस्तो॑मस्य श॒स्तोक्थ॑स्य॒ यो भ॒ख्षो अ॑श्व॒सनि॒र्यो गो॒सनि॒स्तस्य॑ ते पि॒तृभि॑र्भ॒ख्षङ्कृ॑त॒स्योप॑हूत॒स्योप॑हूतो भख्षयामि ॥
+अ॒प्सु धौ॒तस्य॑ सोम देव ते॒ नृभि॑स्सु॒तस्ये॒ष्टय॑जुषस्स्तु॒तस्तो॑मस्य श॒स्तोक्थ॑स्य॒ यो भ॒क्षो अ॑श्व॒सनि॒र्यो गो॒सनि॒स्तस्य॑ ते पि॒तृभि॑र्भ॒क्षङ्कृ॑त॒स्योप॑हूत॒स्योप॑हूतो भक्षयामि ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

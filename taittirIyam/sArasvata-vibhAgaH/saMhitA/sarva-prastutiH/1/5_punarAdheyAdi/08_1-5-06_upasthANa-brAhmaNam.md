@@ -15,7 +15,7 @@ _______
 
 सम्प॑श्यामि प्र॒जा अ॒हमित्या॑ह
 याव॑न्त ए॒व ग्रा॒म्याᳶ प॒शव॒स्ताने॒वाव॑ रु॒न्धे
-अम्भ॒स्स्थाम्भो॑ वो भख्षी॒येत्या॒ह 
+अम्भ॒स्स्थाम्भो॑ वो भक्षी॒येत्या॒ह 
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -31,7 +31,7 @@ verily he wins all the domesticated animals.
 
 सम्प॑श्यामि प्र॒जा अ॒हमित्या॑ह ।  
 याव॑न्त ए॒व ग्रा॒म्याᳶ प॒शव॒स्ताने॒वाव॑ रु॒न्धे ।  
-अम्भ॑स्स्थ,  अम्भो॑ वो भख्षी॒येत्या॒ह ।  
+अम्भ॑स्स्थ,  अम्भो॑ वो भक्षी॒येत्या॒ह ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -39,7 +39,7 @@ verily he wins all the domesticated animals.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अम्भ॑स् स्थ॒, अम्भो॑ वो भख्षी॒येत्या॒ह ।  
+अम्भ॑स् स्थ॒, अम्भो॑ वो भक्षी॒येत्या॒ह ।  
 अम्भो॒ ह्ये॑ताः।
 </details>
 <details><summary>Keith</summary>
@@ -48,7 +48,7 @@ verily he wins all the domesticated animals.
 </details>
 <details><summary>मूलम्</summary>
 
-अम्भ॑स् स्थ। अम्भो॑ वो भख्षी॒येत्या॒ह ।  
+अम्भ॑स् स्थ। अम्भो॑ वो भक्षी॒येत्या॒ह ।  
 अम्भो॒ ह्ये॑ताः।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -57,7 +57,7 @@ verily he wins all the domesticated animals.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मह॑स् स्थ॒, महो॑ वो भख्षी॒येत्या॑ह।  महो॒ ह्ये॑ताः ।
+मह॑स् स्थ॒, महो॑ वो भक्षी॒येत्या॑ह।  महो॒ ह्ये॑ताः ।
 </details>
 <details><summary>Keith</summary>
 
@@ -65,7 +65,7 @@ verily he wins all the domesticated animals.
 </details>
 <details><summary>मूलम्</summary>
 
-मह॑स्स्थ॒, महो॑ वो भख्षी॒येत्या॑ह॒ महो॒ ह्ये॑ताः ।
+मह॑स्स्थ॒, महो॑ वो भक्षी॒येत्या॑ह॒ महो॒ ह्ये॑ताः ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -73,7 +73,7 @@ verily he wins all the domesticated animals.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सह॑स्स्थ॒, सहो॑ वो भख्षी॒येत्या॑ह॒ सहो॒ ह्ये॑ताः ।
+सह॑स्स्थ॒, सहो॑ वो भक्षी॒येत्या॑ह॒ सहो॒ ह्ये॑ताः ।
 </details>
 <details><summary>Keith</summary>
 
@@ -81,7 +81,7 @@ verily he wins all the domesticated animals.
 </details>
 <details><summary>मूलम्</summary>
 
-सह॑स्स्थ॒, सहो॑ वो भख्षी॒येत्या॑ह॒ सहो॒ ह्ये॑ताः ।
+सह॑स्स्थ॒, सहो॑ वो भक्षी॒येत्या॑ह॒ सहो॒ ह्ये॑ताः ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -89,7 +89,7 @@ verily he wins all the domesticated animals.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऊर्ज॑ स्थ, ऊर्ज॑व्ँवो भख्षी॒येत्य् आह। ऊर्जो॒ ह्य् ए॑ताः ।
+ऊर्ज॑ स्थ, ऊर्ज॑व्ँवो भक्षी॒येत्य् आह। ऊर्जो॒ ह्य् ए॑ताः ।
 </details>
 <details><summary>Keith</summary>
 
@@ -97,7 +97,7 @@ verily he wins all the domesticated animals.
 </details>
 <details><summary>मूलम्</summary>
 
-ऊर्ज॑ स्थ, ऊर्ज॑व्ँवो भख्षी॒येति॑ [31] +आ॒होर्जो॒ ह्ये॑ताः ।
+ऊर्ज॑ स्थ, ऊर्ज॑व्ँवो भक्षी॒येति॑ [31] +आ॒होर्जो॒ ह्ये॑ताः ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -105,12 +105,12 @@ verily he wins all the domesticated animals.
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-रेव॑ती॒ रम॑ध्व॒मित्या॑ह प॒शवो॒ वै रे॒वतीः᳚ प॒शूने॒वात्मन् र॑मयत इ॒हैव स्ते॒तो माऽप॑ गा॒तेत्या॑ह 
+रेव॑ती॒ रम॑ध्व॒मित्या॑ह प॒शवो॒ वै रे॒वतीः॑ प॒शूने॒वात्मन् र॑मयत इ॒हैव स्ते॒तो माऽप॑ गा॒तेत्या॑ह 
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रेव॑ती॒ रम॑ध्व॒म् इत्य् आ॑ह ।  
-प॒शवो॒ वै रे॒वतीः᳚।  
+प॒शवो॒ वै रे॒वतीः॑।  
 प॒शून् ए॒वात्मन् र॑मयते ।  
 </details>
 <details><summary>Keith</summary>
@@ -122,7 +122,7 @@ verily he makes cattle stay with himself.
 <details><summary>मूलम्</summary>
 
 रेव॑ती॒ रम॑ध्व॒मित्या॑ह ।  
-प॒शवो॒ वै रे॒वतीः᳚ प॒शूने॒वात्मन् र॑मयते ।  
+प॒शवो॒ वै रे॒वतीः॑ प॒शूने॒वात्मन् र॑मयते ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -148,13 +148,13 @@ verily he makes cattle stay with himself.
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-इष्टक॒चिद्वा अ॒न्यो᳚ऽग्निᳶ प॑शु॒चिद॒न्यस्सꣳ॑हि॒तासि॑ विश्वरू॒पीरिति॑ व॒थ्सम॒भि मृ॑श॒त्युपै॒वैन॑न्धत्ते पशु॒चित॑मेनङ्कुरुते 
+इष्टक॒चिद्वा अ॒न्यो॑ऽग्निᳶ प॑शु॒चिद॒न्यस्सँ॑हि॒तासि॑ विश्वरू॒पीरिति॑ व॒त्सम॒भि मृ॑श॒त्युपै॒वैन॑न्धत्ते पशु॒चित॑मेनङ्कुरुते 
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒ष्ट॒क॒चिद् वा अ॒न्यो᳚ ऽग्निः ।  
+इ॒ष्ट॒क॒चिद् वा अ॒न्यो॑ ऽग्निः ।  
 प॒शु॒चिद् अ॒न्यः  +++(अग्निः)+++।  
-"स॒ꣳ॒हि॒तासि॑ विश्वरू॒पीर्" इति॑ व॒थ्सम् अ॒भि मृ॑श॒ति ।  
+"सँ॒हि॒तासि॑ विश्वरू॒पीर्" इति॑ व॒त्सम् अ॒भि मृ॑श॒ति ।  
 उपै॒वैन॑न् धत्ते।  
 प॒शु॒चित॑म् एनङ् +++(अग्निं)+++ कुरुते ।
 </details>
@@ -166,9 +166,9 @@ verily he piles it up and makes it piled with cattle.
 </details>
 <details><summary>मूलम्</summary>
 
-इ॒ष्ट॒क॒चिद्वा अ॒न्यो᳚ऽग्निः ।  
+इ॒ष्ट॒क॒चिद्वा अ॒न्यो॑ऽग्निः ।  
 प॒शु॒चिद॒न्यः ।  
-स॒ꣳ॒हि॒तासि॑ विश्वरू॒पीरिति॑ व॒थ्सम॒भि मृ॑श॒ति ।  
+सँ॒हि॒तासि॑ विश्वरू॒पीरिति॑ व॒त्सम॒भि मृ॑श॒ति ।  
 उपै॒वैन॑न्धत्ते।  
 प॒शु॒चित॑मेनङ्कुरुते ।
 </details>
@@ -183,11 +183,11 @@ verily he piles it up and makes it piled with cattle.
 ## गार्हपत्यम्
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-प्र [32]वा ए॒षो᳚ऽस्माल्लो॒काच्च्य॑वते॒ य आ॑हव॒नीय॑मुप॒तिष्ठ॑ते॒ गार्ह॑पत्य॒मुप॑ तिष्ठते॒ऽस्मिन्ने॒व लो॒के प्रति॑ तिष्ठ॒त्यथो॒ गार्ह॑पत्यायै॒व नि ह्नु॑ते  
+प्र [32]वा ए॒षो॑ऽस्माल्लो॒काच्च्य॑वते॒ य आ॑हव॒नीय॑मुप॒तिष्ठ॑ते॒ गार्ह॑पत्य॒मुप॑ तिष्ठते॒ऽस्मिन्ने॒व लो॒के प्रति॑ तिष्ठ॒त्यथो॒ गार्ह॑पत्यायै॒व नि ह्नु॑ते  
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र वा ए॒षो᳚ ऽस्माल् लो॒काच् च्य॑वते॒  
+प्र वा ए॒षो॑ ऽस्माल् लो॒काच् च्य॑वते॒  
 य आ॑हव॒नीय॑मुप॒तिष्ठ॑ते ।  
 </details>
 <details><summary>Keith</summary>
@@ -196,7 +196,7 @@ He falls away [2] from this world who pays reverence to the Ahavaniya;
 </details>
 <details><summary>मूलम्</summary>
 
-प्र वा ए॒षो᳚ऽस्माल्लो॒काच्च्य॑वते॒  
+प्र वा ए॒षो॑ऽस्माल्लो॒काच्च्य॑वते॒  
 य आ॑हव॒नीय॑मुप॒तिष्ठ॑ते ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -297,12 +297,12 @@ Because of the Garhapatya men are born with two feet; to him who knowing thus pa
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-ऊ॒र्जा वᳶ॑ पश्याम्यू॒र्जा मा॑ पश्य॒तेत्या॑हा॒ऽऽशिष॑मे॒वैतामा शा᳚स्ते 
+ऊ॒र्जा वᳶ॑ पश्याम्यू॒र्जा मा॑ पश्य॒तेत्या॑हा॒ऽऽशिष॑मे॒वैतामा शा॑स्ते 
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "ऊ॒र्जा वᳶ॑ पश्याम्य्, ऊ॒र्जा मा॑ पश्य॒ते"त्या॑ह ।  
-आ॒शिष॑म् ए॒वैताम् आ शा᳚स्ते  ।
+आ॒शिष॑म् ए॒वैताम् आ शा॑स्ते  ।
 </details>
 <details><summary>Keith</summary>
 
@@ -313,7 +313,7 @@ verily he invokes this blessing.
 <details><summary>मूलम्</summary>
 
 ऊ॒र्जा वᳶ॑ पश्याम्यू॒र्जा मा॑ पश्य॒तेत्या॑ह ।  
-आ॒शिष॑मे॒वैतामा शा᳚स्ते  ।
+आ॒शिष॑मे॒वैतामा शा॑स्ते  ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -323,7 +323,7 @@ verily he invokes this blessing.
 ## आहवनीयोपस्थानम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"तथ् स॑वि॒तुर् वरे᳚ण्य॒म्" इत्या॑ह॒ - प्रसू᳚त्यै ।
+"तथ् स॑वि॒तुर् वरे॑ण्य॒म्" इत्या॑ह॒ - प्रसू॑त्यै ।
 </details>
 <details><summary>Keith</summary>
 
@@ -331,7 +331,7 @@ verily he invokes this blessing.
 </details>
 <details><summary>मूलम्</summary>
 
-तथ्स॑वि॒तुर्वरे᳚ण्य॒मित्या॑ह॒ प्रसू᳚त्यै ।
+तत्स॑वि॒तुर्वरे॑ण्य॒मित्या॑ह॒ प्रसू॑त्यै ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -339,11 +339,11 @@ verily he invokes this blessing.
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-सो॒मान॒ꣵ॒ स्वर॑ण॒मित्या॑ह सोमपी॒थमे॒वाव॑ रुन्धे कृणु॒हि ब्र॑ह्मणस्पत॒ इत्या॑ह ब्रह्मवर्च॒समे॒वाव॑ रुन्धे  
+सो॒मानँ॒ स्वर॑ण॒मित्या॑ह सोमपी॒थमे॒वाव॑ रुन्धे कृणु॒हि ब्र॑ह्मणस्पत॒ इत्या॑ह ब्रह्मवर्च॒समे॒वाव॑ रुन्धे  
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो॒मान॒ꣵ॒ स्वर॑ण॒म् इत्य् आ॑ह ।  
+सो॒मानँ॒ स्वर॑ण॒म् इत्य् आ॑ह ।  
 सोम-पी॒थम्+++(=पानम्)+++ ए॒वाव॑ रुन्धे ।  
 </details>
 <details><summary>Keith</summary>
@@ -353,7 +353,7 @@ verily he wins the Soma draught.
 </details>
 <details><summary>मूलम्</summary>
 
-सो॒मान॒ꣵ॒ स्वर॑ण॒मित्या॑ह ।  
+सो॒मानँ॒ स्वर॑ण॒मित्या॑ह ।  
 सोमपी॒थमे॒वाव॑ रुन्धे ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -385,12 +385,12 @@ verily he wins splendour.
 ## रात्र्युपस्थानम्
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-क॒दा च॒न स्त॒रीर॒सीत्या॑ह न स्त॒रीꣳ रात्रि॑व्ँवसति [34]य ए॒वव्ँवि॒द्वान॒ग्निमु॑प॒तिष्ठ॑ते 
+क॒दा च॒न स्त॒रीर॒सीत्या॑ह न स्त॒रीँ रात्रि॑व्ँवसति [34]य ए॒वव्ँवि॒द्वान॒ग्निमु॑प॒तिष्ठ॑ते 
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क॒दा च॒न स्त॒रीर् अ॒सीत्य् आ॑ह ।  
-न स्त॒रीꣳ+++(=वन्ध्यां)+++ रात्रि॑व्ँ वसति॒  
+न स्त॒रीँ+++(=वन्ध्यां)+++ रात्रि॑व्ँ वसति॒  
 य ए॒वव्ँ वि॒द्वान् अ॒ग्निम् उ॑प॒तिष्ठ॑ते ।  
 </details>
 <details><summary>Keith</summary>
@@ -402,7 +402,7 @@ who knowing thus pays reverence to the fire.
 <details><summary>मूलम्</summary>
 
 क॒दा च॒न स्त॒रीर॒सीत्या॑ह ।  
-न स्त॒रीꣳ रात्रि॑व्ँवसति॒ य ए॒वव्ँवि॒द्वान॒ग्निमु॑प॒तिष्ठ॑ते ।  
+न स्त॒रीँ रात्रि॑व्ँवसति॒ य ए॒वव्ँवि॒द्वान॒ग्निमु॑प॒तिष्ठ॑ते ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -454,11 +454,11 @@ verily he sets around a barrier, that nothing be spilt.
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-श॒तꣳ हिमा॒ इत्या॑ह श॒तन्त्वा॑ हेम॒न्तानि॑न्धिषी॒येति॒ वावैतदा॑ह
+श॒तँ हिमा॒ इत्या॑ह श॒तन्त्वा॑ हेम॒न्तानि॑न्धिषी॒येति॒ वावैतदा॑ह
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"श॒तꣳ हिमा॒" इत्या॑ह -  
+"श॒तँ हिमा॒" इत्या॑ह -  
 +++(तेन)+++ श॒तन् त्वा॑ हेम॒न्तान् इ॑न्धिषी॒येति॒ वावैतद् आ॑ह ।
 </details>
 <details><summary>Keith</summary>
@@ -467,7 +467,7 @@ verily he sets around a barrier, that nothing be spilt.
 </details>
 <details><summary>मूलम्</summary>
 
-श॒तꣳ हिमा॒ इत्या॑ह  
+श॒तँ हिमा॒ इत्या॑ह  
 श॒तन्त्वा॑ हेम॒न्तान् इ॑न्धिषी॒येति॒ वावैतदा॑ह ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>

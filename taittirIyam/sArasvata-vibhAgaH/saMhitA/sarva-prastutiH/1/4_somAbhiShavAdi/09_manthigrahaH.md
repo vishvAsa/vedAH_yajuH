@@ -11,7 +11,7 @@ _______
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-तम्प्र॒त्नथा॑ पू॒र्वथा॑ वि॒श्वथे॒मथा᳚ ज्ये॒ष्ठता॑तिम्बर्हि॒षदꣳ॑ सुव॒र्विद॑म्प्र तीची॒नव्ँवृ॒जन॑न्दोहसे गि॒राऽऽशुञ्जय॑न्त॒मनु॒ यासु॒ वर्ध॑से 
+तम्प्र॒त्नथा॑ पू॒र्वथा॑ वि॒श्वथे॒मथा॑ ज्ये॒ष्ठता॑तिम्बर्हि॒षदँ॑ सुव॒र्विद॑म्प्र तीची॒नव्ँवृ॒जन॑न्दोहसे गि॒राऽऽशुञ्जय॑न्त॒मनु॒ यासु॒ वर्ध॑से 
 </details>
 <div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/044/01_taM_pratnathA.md">
 <details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
@@ -407,7 +407,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ष ते᳚ योनिᳶ॑, प्र॒जाᳶ पा॑हि ॥ [10]  
+ए॒ष ते॑ योनिᳶ॑, प्र॒जाᳶ पा॑हि ॥ [10]  
 </details>
 <details><summary>Keith</summary>
 
@@ -415,7 +415,7 @@ This is thy birth place; guard offspring.
 </details>
 <details><summary>मूलम्</summary>
 
-ए॒ष ते᳚ योनिᳶ॑ प्र॒जाᳶ पा॑हि ॥ [10]  
+ए॒ष ते॑ योनिᳶ॑ प्र॒जाᳶ पा॑हि ॥ [10]  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

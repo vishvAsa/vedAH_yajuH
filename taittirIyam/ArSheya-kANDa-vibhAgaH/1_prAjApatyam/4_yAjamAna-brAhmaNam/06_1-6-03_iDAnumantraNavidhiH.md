@@ -77,7 +77,7 @@ it is placed in the world of the sacrifice between the fore- and the after-offer
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ताम् आ᳚ह्रि॒यमा॑णाम् अ॒भि म॑न्त्रयेत॒ -  
+ताम् आ॑ह्रि॒यमा॑णाम् अ॒भि म॑न्त्रयेत॒ -  
 "सुरू॑पवर्षवर्ण॒ एही"ति॑।  
 </details>
 <details><summary>Keith</summary>
@@ -86,7 +86,7 @@ Over it as it is brought up he should say, 'O thou of fair rain colour, come hit
 </details>
 <details><summary>मूलम्</summary>
 
-तामा᳚ह्रि॒यमा॑णाम॒भि म॑न्त्रयेत ।  
+तामा॑ह्रि॒यमा॑णाम॒भि म॑न्त्रयेत ।  
 
 सुरू॑पवर्षवर्ण॒ एहीति॑।  
 </details>
@@ -130,7 +130,7 @@ The gods milked the sacrifice,
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य॒ज्ञोऽसु॑राꣳ अदुहत् ।  
+य॒ज्ञोऽसु॑राँ अदुहत् ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -138,7 +138,7 @@ the sacrifice milked the Asuras;
 </details>
 <details><summary>मूलम्</summary>
 
-य॒ज्ञोऽसु॑राꣳ अदुहत् ।  
+य॒ज्ञोऽसु॑राँ अदुहत् ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -226,7 +226,7 @@ and willingly the Ida is milked for the sacrificer;
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ते वा इडा॑यै॒ स्तना॒ → "इडोप॑हू॒ते"ति॑ +++(वचने)+++, वा॒युर् व॒थ्सः।  
+ए॒ते वा इडा॑यै॒ स्तना॒ → "इडोप॑हू॒ते"ति॑ +++(वचने)+++, वा॒युर् व॒त्सः।  
 </details>
 <details><summary>Keith</summary>
 
@@ -234,7 +234,7 @@ these are the teats of Ida, 'Ida is invoked'-Vayu is the calf-
 </details>
 <details><summary>मूलम्</summary>
 
-ए॒ते वा इडा॑यै॒ स्तना॒ इडोप॑हू॒तेति॑ वा॒युर्व॒थ्सः।  
+ए॒ते वा इडा॑यै॒ स्तना॒ इडोप॑हू॒तेति॑ वा॒युर्व॒त्सः।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -243,8 +243,8 @@ these are the teats of Ida, 'Ida is invoked'-Vayu is the calf-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यर्हि॒+++(←अनद्यतने र्हिल्)+++ होतेडा॑म् उप॒ह्वये॑त ...  
-तर्हि॒ यज॑मानो॒ होता॑र॒म् ईख्ष॑माणो वा॒युम् मन॑सा ध्यायेत् [2] ।  
-मा॒त्रे व॒थ्सम् उ॒पाव॑सृजति ।  
+तर्हि॒ यज॑मानो॒ होता॑र॒म् ईक्ष॑माणो वा॒युम् मन॑सा ध्यायेत् [2] ।  
+मा॒त्रे व॒त्सम् उ॒पाव॑सृजति ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -254,8 +254,8 @@ verily he lets the calf go to the mother
 <details><summary>मूलम्</summary>
 
 यर्हि॒ होतेडा॑मुप॒ह्वये॑त ...  
-तर्हि॒ यज॑मानो॒ होता॑र॒मीख्ष॑माणो वा॒युम्मन॑सा ध्यायेत् [2] ।  
-मा॒त्रे व॒थ्समु॒पाव॑सृजति ।  
+तर्हि॒ यज॑मानो॒ होता॑र॒मीक्ष॑माणो वा॒युम्मन॑सा ध्यायेत् [2] ।  
+मा॒त्रे व॒त्समु॒पाव॑सृजति ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -267,7 +267,7 @@ verily he lets the calf go to the mother
 ## इडा मानवी
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-सर्वे॑ण॒ वै य॒ज्ञेन॑ दे॒वास्सु॑व॒र्गल्ँलो॒कमा॑यन्पाकय॒ज्ञेन॒ मनु॑रश्राम्य॒थ्सेडा॒ मनु॑मु॒पाव॑र्तत॒ तान्दे॑वासु॒रा व्य॑ह्वयन्त प्र॒तीची᳚न्दे॒वाᳶ परा॑ची॒मसु॑रा॒स्सा दे॒वानु॒पाव॑र्तत प॒शवो॒ वै तद्दे॒वान॑वृणत प॒शवोऽसु॑रानजहुः 
+सर्वे॑ण॒ वै य॒ज्ञेन॑ दे॒वास्सु॑व॒र्गल्ँलो॒कमा॑यन्पाकय॒ज्ञेन॒ मनु॑रश्राम्य॒त्सेडा॒ मनु॑मु॒पाव॑र्तत॒ तान्दे॑वासु॒रा व्य॑ह्वयन्त प्र॒तीची॑न्दे॒वाᳶ परा॑ची॒मसु॑रा॒स्सा दे॒वानु॒पाव॑र्तत प॒शवो॒ वै तद्दे॒वान॑वृणत प॒शवोऽसु॑रानजहुः 
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -326,7 +326,7 @@ the gods and the Asuras called severally upon her,
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒तीची᳚न् दे॒वाः ।   
+प्र॒तीची॑न् दे॒वाः ।   
 परा॑ची॒मसु॑राः ।
 </details>
 <details><summary>Keith</summary>
@@ -336,7 +336,7 @@ the Asuras indirectly;
 </details>
 <details><summary>मूलम्</summary>
 
-प्र॒तीची᳚न्दे॒वाः ।  
+प्र॒तीची॑न्दे॒वाः ।  
 परा॑ची॒मसु॑राः ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -385,7 +385,7 @@ verily he becomes rich in cattle-
 यङ्का॒मये॑ताप॒शुस्स्या॒दिति॒   
 परा॑ची॒न्तस्येडा॒मुप॑ह्वयेत ।  
 अ॒प॒शुरे॒व भ॑वति।  
-यं [3] का॒मये॑त पशु॒मान्थ्स्या॒दिति॑   
+यं [3] का॒मये॑त पशु॒मान्त्स्या॒दिति॑   
 प्र॒तीची॒न्तस्येडा॒मुप॑ह्वयेत पशु॒माने॒व भ॑वति।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -419,7 +419,7 @@ The theologians say, 'He would invoke the Ida indeed who in invoking the Ida sho
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"सा नᳶ॑ प्रि॒या, सु॒प्रतू᳚र्तिर्, म॒घोनी"त्य् आह।  
+"सा नᳶ॑ प्रि॒या, सु॒प्रतू॑र्तिर्, म॒घोनी"त्य् आह।  
 इडा॑म् ए॒वोप॒हूया॒ऽऽत्मान॒म् इडा॑या॒म् उप॑ ह्वयते ।  
 </details>
 <details><summary>Keith</summary>
@@ -428,7 +428,7 @@ The theologians say, 'He would invoke the Ida indeed who in invoking the Ida sho
 </details>
 <details><summary>मूलम्</summary>
 
-सा नᳶ॑ प्रि॒या सु॒प्रतू᳚र्तिर्म॒घोनीत्याह।  
+सा नᳶ॑ प्रि॒या सु॒प्रतू॑र्तिर्म॒घोनीत्याह।  
 इडा॑मे॒वोप॒हूया॒ऽऽत्मान॒मिडा॑या॒मुप॑ ह्वयते ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -442,7 +442,7 @@ The theologians say, 'He would invoke the Ida indeed who in invoking the Ida sho
 
 व्य॑स्तम् इव॒ वा ए॒तद् य॒ज्ञस्य॒ यद् इडा॑।  
 सा॒मि+++(=अर्धम्)+++ प्रा॒श्ञन्ति॑ [4] ।  
-सा॒मि मा᳚र्जयन्ते  ।  
+सा॒मि मा॑र्जयन्ते  ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -452,7 +452,7 @@ The Ida is as it were a breach in the sacrifice; half they eat [4], half they wi
 
 व्य॑स्तमिव॒ वा ए॒तद्य॒ज्ञस्य॒ यदिडा॑।  
 सा॒मि प्रा॒श्ञन्ति॑ [4] ।  
-सा॒मि मा᳚र्जयन्ते  ।  
+सा॒मि मा॑र्जयन्ते  ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -498,8 +498,8 @@ the gods united it by the holy power (Brahman)-
 
 "बृह॒स्पति॑स् तनुताम् इ॒मन् न॒" इत्य् आ॑ह ।  
 ब्रह्म॒ वै दे॒वाना॒म् बृह॒स्पतिः॑ ।  
-ब्रह्म॑णै॒व य॒ज्ञꣳ सन्द॑धाति ।  
-"विच्छि॑न्नय्ँ य॒ज्ञꣳ सम् इ॒मन् द॑धा॒त्व्" इत्या॑ह॒ सन्त॑त्यै ।  
+ब्रह्म॑णै॒व य॒ज्ञँ सन्द॑धाति ।  
+"विच्छि॑न्नय्ँ य॒ज्ञँ सम् इ॒मन् द॑धा॒त्व्" इत्या॑ह॒ सन्त॑त्यै ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -512,8 +512,8 @@ verily by the holy power (Brahman) he unites the sacrifice-
 
 बृह॒स्पति॑स्तनुतामि॒मन्न॒ इत्या॑ह ।  
 ब्रह्म॒ वै दे॒वाना॒म्बृह॒स्पतिः॑ ।  
-ब्रह्म॑णै॒व य॒ज्ञꣳ सन्द॑धाति ।  
-विच्छि॑न्नय्ँय॒ज्ञꣳ समि॒मन्द॑धा॒त्वित्या॑ह॒ सन्त॑त्यै ।  
+ब्रह्म॑णै॒व य॒ज्ञँ सन्द॑धाति ।  
+विच्छि॑न्नय्ँय॒ज्ञँ समि॒मन्द॑धा॒त्वित्या॑ह॒ सन्त॑त्यै ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -546,7 +546,7 @@ verily continuing the sacrifice he indicates it to the gods-
 ## दक्षिणायां वचनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-याव्ँ वै [5] य॒ज्ञे दख्षि॑णा॒न् ददा॑ति॒, ताम॑स्य प॒शवोऽनु॒ सङ्क्रा॑मन्ति ।  
+याव्ँ वै [5] य॒ज्ञे दक्षि॑णा॒न् ददा॑ति॒, ताम॑स्य प॒शवोऽनु॒ सङ्क्रा॑मन्ति ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -554,7 +554,7 @@ The [5] sacrificial fee which he gives at the sacrifice his cattle accompany;
 </details>
 <details><summary>मूलम्</summary>
 
-याव्ँवै [5] य॒ज्ञे दख्षि॑णा॒न्ददा॑ति॒, ताम॑स्य प॒शवोऽनु॒ सङ्क्रा॑मन्ति ।
+याव्ँवै [5] य॒ज्ञे दक्षि॑णा॒न्ददा॑ति॒, ताम॑स्य प॒शवोऽनु॒ सङ्क्रा॑मन्ति ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -628,8 +628,8 @@ but keeps his cattle with himself-
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"दद॑तो मे॒ मा ख्षा॒यी"त्या॑ह।  
-अख्षि॑तिम् ए॒वोपै॑ति ।
+"दद॑तो मे॒ मा क्षा॒यी"त्या॑ह।  
+अक्षि॑तिम् ए॒वोपै॑ति ।
 </details>
 <details><summary>Keith</summary>
 
@@ -637,8 +637,8 @@ but keeps his cattle with himself-
 </details>
 <details><summary>मूलम्</summary>
 
-दद॑तो मे॒ मा ख्षा॒यीत्या॑ह।  
-अख्षि॑तिमे॒वोपै॑ति ।   
+दद॑तो मे॒ मा क्षा॒यीत्या॑ह।  
+अक्षि॑तिमे॒वोपै॑ति ।   
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
