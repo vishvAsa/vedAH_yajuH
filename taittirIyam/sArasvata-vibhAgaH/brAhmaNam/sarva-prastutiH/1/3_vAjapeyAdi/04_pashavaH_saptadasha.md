@@ -260,7 +260,7 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 मा॒रु॒त्या प्र॒चर्य॑ ।
-ए॒तान्थ्संज्ञ॑पयेत् ।
+ए॒तान्त्संज्ञ॑पयेत् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

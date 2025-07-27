@@ -69,7 +69,7 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 स॒न्धीव॒ खलु॒ वा ए॒तत् ।
-यथ्सव॑नस्याति॒रिच्य॑ते ।
+यत्सव॑नस्याति॒रिच्य॑ते ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -136,7 +136,7 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 म॒रुत्व॑तीषु कुर्वन्ति ।
-तेनै॒व माध्य॑न्दिना॒थ्सव॑ना॒न्नय॑न्ति ।
+तेनै॒व माध्य॑न्दिना॒त्सव॑ना॒न्नय॑न्ति ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -231,7 +231,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-अति॑रिक्त॒य्ँयथ्सव॑नस्याति॒रिच्य॑ते ॥29॥  
+अति॑रिक्त॒य्ँयत्सव॑नस्याति॒रिच्य॑ते ॥29॥  
 अति॑रिक्तस्य॒ शान्त्यै॑ ।
 </details>
 

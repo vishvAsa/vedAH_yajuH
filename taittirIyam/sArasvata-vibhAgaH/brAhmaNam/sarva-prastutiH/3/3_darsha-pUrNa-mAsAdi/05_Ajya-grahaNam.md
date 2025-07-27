@@ -361,7 +361,7 @@ the Asuras were defeated.
 
 <details><summary>मूलम्</summary>
 
-गामे॒व तथ्सꣵस्क॑रोति ।  
+गामे॒व तत्सꣵस्क॑रोति ।  
 सास्मै॒ सꣵस्कृ॒तेष॒मूर्ज॑न्दुहे ।  
 </details>
 

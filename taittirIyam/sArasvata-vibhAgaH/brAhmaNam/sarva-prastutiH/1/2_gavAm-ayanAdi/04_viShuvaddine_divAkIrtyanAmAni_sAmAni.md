@@ -320,7 +320,7 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 यदस्पा॑रयन् ।
-तथ्स्परा॑णाꣳ स्पर॒त्वम् ।
+तत्स्परा॑णाꣳ स्पर॒त्वम् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

@@ -32,10 +32,10 @@ title = "२३ 'शतायुधाय'"
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/7/02/46_iduvathsarAya_parivathsarAya.md">
-<details open><summary><h4>46 इदुवथ्सराय परिवथ्सराय ...{Loading}...</h4></summary>
+<details open><summary><h4>46 इदुवत्सराय परिवत्सराय ...{Loading}...</h4></summary>
 
-इ॒दु॒व॒थ्स॒राय॑+++(=संवत्सर+२)+++ परिवथ्स॒राय॑+++(=संवत्सर+१)+++  
-सव्ँवथ्स॒राय॑ **कृणुता** बृ॒हन् नमः॑ ।   
+इ॒दु॒व॒त्स॒राय॑+++(=संवत्सर+२)+++ परिवत्स॒राय॑+++(=संवत्सर+१)+++  
+सव्ँवत्स॒राय॑ **कृणुता** बृ॒हन् नमः॑ ।   
 तेषा॑व्ँ व॒यꣳ सु॑म॒तौ य॒ज्ञिया॑ना॒ञ्  
 ज्योग् अजी॑ता॒ अह॑तास् **स्याम** ।
 </details>

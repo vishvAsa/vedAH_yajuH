@@ -96,7 +96,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-ए॒वꣳ ह॒ वै य॒ज्ञेषु॑ञ् च श॒तद्यु॑म्नञ् च मा॒थ्स्यो नि॑रवसाय॒याञ् च॑कार ॥ 6 ॥  
+ए॒वꣳ ह॒ वै य॒ज्ञेषु॑ञ् च श॒तद्यु॑म्नञ् च मा॒त्स्यो नि॑रवसाय॒याञ् च॑कार ॥ 6 ॥  
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -631,7 +631,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-अन्वे॑षामरा॒थ्स्मेति॑ ।
+अन्वे॑षामरा॒त्स्मेति॑ ।
 तद॑नूरा॒धाः ।
 </details>
 

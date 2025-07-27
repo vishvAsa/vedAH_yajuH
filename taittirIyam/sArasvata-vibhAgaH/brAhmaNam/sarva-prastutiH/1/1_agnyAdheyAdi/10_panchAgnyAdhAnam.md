@@ -531,7 +531,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-यथ्स॒भाया॑व्ँवि॒जय॑न्ते ।
+यत्स॒भाया॑व्ँवि॒जय॑न्ते ।
 तेन॒ सो॑ऽस्या॒भीष्ट॑ᳶ प्री॒तः ।
 </details>
 

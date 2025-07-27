@@ -98,13 +98,13 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आऽस्माथ्स॒धस्था॑त् ।  
+आऽस्मात्स॒धस्था॑त् ।  
 ओरोर॒न्तरि॑क्षात् ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
-आऽस्माथ्स॒धस्था॑त् ।  
+आऽस्मात्स॒धस्था॑त् ।  
 ओरोर॒न्तरि॑क्षात् ।  
 </details>
 

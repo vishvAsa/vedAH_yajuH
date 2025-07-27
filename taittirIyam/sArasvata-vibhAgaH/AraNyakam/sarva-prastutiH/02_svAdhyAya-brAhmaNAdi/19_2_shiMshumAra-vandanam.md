@@ -71,12 +71,12 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सव्ँवथ्स॒रः प्र॒जन॑नम्  
+सव्ँवत्स॒रः प्र॒जन॑नम्  
 </details>
 
 <details><summary>मूलम्</summary>
 
-सव्ँवथ्स॒रः प्र॒जन॑नम्  
+सव्ँवत्स॒रः प्र॒जन॑नम्  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

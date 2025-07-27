@@ -1183,7 +1183,7 @@ Dem König Jama giesset nun die Butter zu, die süsseste; Bringt dies Gebet den 
 <details><summary>मूलम्</summary>
 
 यथा॒ पञ्च॒ यथा॒ षड्य॒था पञ्च॑ द॒शर्ष॑यः ।  
-य॒मय्ँ यो वि॑द्या॒थ्स ब्रू॑याद्य॒थैक ऋषि॑र्विजान॒ते ।
+य॒मय्ँ यो वि॑द्या॒त्स ब्रू॑याद्य॒थैक ऋषि॑र्विजान॒ते ।
 </details>
 </details>
 </div>

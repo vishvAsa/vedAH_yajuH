@@ -5,7 +5,7 @@ title = "११ ‘अग्निरायुष्मान्'"
 ‘अग्निरायुष्मान्' इति पञ्च,
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/2/3/10_AyuShkAmeShTimantrAH/agnir_AyuShmAn.md">
-<details open><summary><h4>अ॒ग्निरायु॑ष्मा॒न्थ्स ...{Loading}...</h4></summary>
+<details open><summary><h4>अ॒ग्निरायु॑ष्मा॒न्त्स ...{Loading}...</h4></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(हे यजमान)+++  

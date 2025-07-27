@@ -705,7 +705,7 @@ _______
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-ए॒तत्त्वꣳ सो॑म दे॒वो दे॒वानुपा॑गा इ॒दम॒हम्म॑नु॒ष्यो॑ मनु॒ष्या॑न्थ्स॒ह प्र॒जया॑ स॒ह रा॒यस्पोषे॑ण।
+ए॒तत्त्वꣳ सो॑म दे॒वो दे॒वानुपा॑गा इ॒दम॒हम्म॑नु॒ष्यो॑ मनु॒ष्या॑न्त्स॒ह प्र॒जया॑ स॒ह रा॒यस्पोषे॑ण।
 </details>
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/04_vaisarjanahomaH_agnIShomapraNayanam/04_etat_tvam.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>

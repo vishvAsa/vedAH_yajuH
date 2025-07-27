@@ -196,7 +196,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-प॒शून्थ्सन्ध॑त्त॒न्तान्मे॑ जिन्वतम् ।
+प॒शून्त्सन्ध॑त्त॒न्तान्मे॑ जिन्वतम् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

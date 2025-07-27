@@ -72,7 +72,7 @@ to the heaven we have come.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒न्दृश॑स् ते॒ मा छि॑थ्सि ।
+स॒न्दृश॑स् ते॒ मा छि॑त्सि ।
 </details>
 <details><summary>Keith</summary>
 
@@ -80,11 +80,11 @@ May I not be cut off from seeing thee;
 </details>
 <details><summary>मूलम्</summary>
 
-स॒न्दृश॑स्ते॒ मा छि॑थ्सि ।
+स॒न्दृश॑स्ते॒ मा छि॑त्सि ।
 </details>
 <details><summary>पद-पाठः</summary>
 
-स॒न्दृश॒ इति॑ सम्-दृशः॑ । ते॒ । मा । छि॒थ्सि॒ ।  
+स॒न्दृश॒ इति॑ सम्-दृशः॑ । ते॒ । मा । छि॒त्सि॒ ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1412,7 +1412,7 @@ Enduring wealth, deep based and rich in houses.
 </details>
 <details><summary>मूलम्</summary>
 
-गोमाꣳ॑ अ॒ग्नेऽवि॑माꣳ अ॒श्वी य॒ज्ञो नृ॒वथ्स॑खा॒ सद॒मिद॑प्रमृ॒ष्यः ।  
+गोमाꣳ॑ अ॒ग्नेऽवि॑माꣳ अ॒श्वी य॒ज्ञो नृ॒वत्स॑खा॒ सद॒मिद॑प्रमृ॒ष्यः ।  
 इडा॑वाꣳ ए॒षो अ॑सुर प्र॒जावा॑न्दी॒र्घो र॒यिᳶ पृ॑थुबु॒ध्नस्स॒भावा॑न् ॥ [20]
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>

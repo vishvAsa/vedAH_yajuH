@@ -157,10 +157,10 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 ए॒तद्वै दे॒वाना॑म्पर॒ममन्न॑म् ।
-यथ्सोमः॑ ॥16॥  
+यत्सोमः॑ ॥16॥  
 
 ए॒तन्म॑नु॒ष्या॑णाम् ।
-यथ्सुरा॑ ।
+यत्सुरा॑ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -209,7 +209,7 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 ब्रह्म॑णो॒ वा ए॒तत्तेजः॑ ।
-यथ्सोमः॑ ।
+यत्सोमः॑ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -243,7 +243,7 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 अन्न॑स्य॒ वा ए॒तच्छम॑लम् ।
-यथ्सुरा॑ ॥17॥  
+यत्सुरा॑ ॥17॥  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -368,7 +368,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-पु॒रो॒ऽक्षꣳ सो॑मग्र॒हान्थ्सा॑दयति ।
+पु॒रो॒ऽक्षꣳ सो॑मग्र॒हान्त्सा॑दयति ।
 प॒श्चा॒द॒क्षꣳ सु॑राग्र॒हान् ।
 पा॒प॒व॒स्य॒सस्य॒ विधृ॑त्यै ।
 </details>
@@ -392,7 +392,7 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 ए॒ष वै यज॑मानः ।
-यथ्सोमः॑ ।
+यत्सोमः॑ ।
 अन्न॒ꣳ॒ सुरा॑ ।
 </details>
 
@@ -464,7 +464,7 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 अन्न॑स्य॒ वा ए॒तच्छम॑लम् ।
-यथ्सुरा॑ ।
+यत्सुरा॑ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

@@ -167,7 +167,7 @@ When about to undertake a vow he should say, 'O Agni, lord of vows, I shall perf
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब॒र्हिषा पू॒र्णमा॑से व्र॒तम् उपै॑ति,  
-व॒थ्सैर् अ॑मावा॒स्या॑याम्।  
+व॒त्सैर् अ॑मावा॒स्या॑याम्।  
 ए॒तद् ध्य् ए॑तयो॑र् आ॒यत॑नम् ।
 </details>
 <details><summary>Keith</summary>
@@ -177,7 +177,7 @@ At the full moon be undertakes his vow with the (strewing of the) straw, with th
 <details><summary>मूलम्</summary>
 
 ब॒र्हिषा पू॒र्णमा॑से व्र॒तमुपै॑ति  
-व॒थ्सैर॑मावा॒स्या॑यामे॒तद्ध्ये॑तयो॑रा॒यत॑नम् ।
+व॒त्सैर॑मावा॒स्या॑यामे॒तद्ध्ये॑तयो॑रा॒यत॑नम् ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

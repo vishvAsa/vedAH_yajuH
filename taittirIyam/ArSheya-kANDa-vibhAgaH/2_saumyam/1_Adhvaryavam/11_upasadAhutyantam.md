@@ -60,7 +60,7 @@ may I accomplish thy pressing, O god Soma.
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-आप्या॑यय॒ सखी॑न्थ्स॒न्या मे॒धया॑ स्व॒स्ति ते॑ देव सोम सु॒त्याम॑शी॒य
+आप्या॑यय॒ सखी॑न्त्स॒न्या मे॒धया॑ स्व॒स्ति ते॑ देव सोम सु॒त्याम॑शी॒य
 </details>
 <details><summary>मूलम्</summary>
 

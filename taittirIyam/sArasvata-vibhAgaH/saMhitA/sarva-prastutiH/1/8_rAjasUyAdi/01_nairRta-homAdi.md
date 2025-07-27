@@ -300,7 +300,7 @@ He offers an oblation to Aditya; the sacrificial fee is a choice (ox).
 
 ऐ॒न्द्रा॒ग्नन् द्वाद॑शकपालव्ँ, वैश्वदे॒वञ् च॒रुम्  +++(निर्वपति)+++ ।   
 
-प्र॒थ॒म॒जो व॒थ्सो दक्षि॑णा  ।   
+प्र॒थ॒म॒जो व॒त्सो दक्षि॑णा  ।   
 </details>
 <details><summary>Keith</summary>
 
@@ -310,7 +310,7 @@ He offers an oblation to Aditya; the sacrificial fee is a choice (ox).
 
 ऐ॒न्द्रा॒ग्नन्द्वाद॑शकपालव्ँवैश्वदे॒वञ्च॒रुम्  +++(निर्वपति)+++ ।   
 
-प्र॒थ॒म॒जो व॒थ्सो दक्षि॑णा  ।   
+प्र॒थ॒म॒जो व॒त्सो दक्षि॑णा  ।   
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

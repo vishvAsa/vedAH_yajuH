@@ -124,12 +124,12 @@ title = "१२ राज-गव्य्-उत्सर्गादि"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ओमुथ्सृ॒जत ॥ (27)  
+ओमुत्सृ॒जत ॥ (27)  
 </details>
 
 <details><summary>मूलम्</summary>
 
-ओमुथ्सृ॒जत ॥ (27)  
+ओमुत्सृ॒जत ॥ (27)  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

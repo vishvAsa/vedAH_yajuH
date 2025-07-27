@@ -210,12 +210,12 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॑थ्समु॒द्रस्य॒ न पि॑बन्ति ।
+तस्मा॑त्समु॒द्रस्य॒ न पि॑बन्ति ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-तस्मा॑थ्समु॒द्रस्य॒ न पि॑बन्ति ।
+तस्मा॑त्समु॒द्रस्य॒ न पि॑बन्ति ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -571,19 +571,19 @@ unicode_script: devanagari
 
 याऽस्य॒ सा त॒नूरासी॑त् ।
 तामपा॑हत ।
-सा जोथ्स्ना॑ऽभवत् ।
+सा जोत्स्ना॑ऽभवत् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 याऽस्य॒ सा त॒नूरासी॑त् तामपा॑हत ।
-सा जोथ्स्ना॑ऽभवत् ।
+सा जोत्स्ना॑ऽभवत् ।
 </details>
 
 <details><summary>मूलम्</summary>
 
 याऽस्य॒ सा त॒नूरासी॑त् तामपा॑हत ।
-सा जोथ्स्ना॑ऽभवत् ।
+सा जोत्स्ना॑ऽभवत् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

@@ -29,7 +29,7 @@ On the same day they consecrate, on the same day they buy the Soma. He presents 
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-द॒शभि॑र् वथ्सत॒रैस् सोम॑ङ् क्रीणाति ।
+द॒शभि॑र् वत्सत॒रैस् सोम॑ङ् क्रीणाति ।
 </details>
 <details><summary>Keith</summary>
 
@@ -37,7 +37,7 @@ He buys the Soma with (10) calves.
 </details>
 <details><summary>मूलम्</summary>
 
-द॒शभि॑र्वथ्सत॒रैस्सोम॑ङ्क्रीणाति ।
+द॒शभि॑र्वत्सत॒रैस्सोम॑ङ्क्रीणाति ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

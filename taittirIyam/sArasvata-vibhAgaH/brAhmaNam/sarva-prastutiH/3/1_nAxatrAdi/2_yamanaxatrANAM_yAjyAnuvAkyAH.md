@@ -460,7 +460,7 @@ unicode_script = "devanagari"
 ## अभिजित्
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/11_yasminbrahmA-bhyajayathsarvametat.md">
-<details open><summary><h2>11 यस्मिन्ब्रह्माऽभ्यजयथ्सर्वमेतत् ...{Loading}...</h2></summary>
+<details open><summary><h2>11 यस्मिन्ब्रह्माऽभ्यजयत्सर्वमेतत् ...{Loading}...</h2></summary>
 
 
 यस्मि॒न् **ब्रह्मा॒भ्यज॑य॒त्** सर्व॑म् ए॒तत्।  
@@ -471,10 +471,10 @@ unicode_script = "devanagari"
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/11_yasminbrahmA-bhyajayathsarvametat.md">
-<details open><summary><h2>11 यस्मिन्ब्रह्माऽभ्यजयथ्सर्वमेतत् ...{Loading}...</h2></summary>
+<details open><summary><h2>11 यस्मिन्ब्रह्माऽभ्यजयत्सर्वमेतत् ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
-यस्मि॒न्ब्रह्मा॒ऽभ्यज॑य॒थ्सर्व॑मे॒तत् ।   
+यस्मि॒न्ब्रह्मा॒ऽभ्यज॑य॒त्सर्व॑मे॒तत् ।   
 अ॒मुञ्च॑ लो॒कमि॒दमू॑ च॒ सर्व॑म् ।  
 तन्नो॒ नक्ष॑त्रमभि॒जिद्वि॒जित्य॑ ।  
 श्रिय॑न्दधा॒त्वहृ॑णीयमानम् ।  
@@ -661,7 +661,7 @@ unicode_script = "devanagari"
 अ॒ष्टौ दे॒वा वस॑वस्सो॒म्यासः॑ ।  
 चत॑स्रो दे॒वीर॒जरा॒श्श्रवि॑ष्ठाः ।  
 ते य॒ज्ञम्पा॑न्तु॒ रज॑सᳶ प॒रस्ता॑त् ।  
-स॒व्ँव॒थ्स॒रीण॑म॒मृतꣵ॑ स्व॒स्ति ॥18॥  
+स॒व्ँव॒त्स॒रीण॑म॒मृतꣵ॑ स्व॒स्ति ॥18॥  
 
 
 </details>

@@ -114,13 +114,13 @@ unicode_script: devanagari
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत्किञ्च॑ राज॒सूय॑मनुत्तरवे॒दीक॑म् ।   
-तथ्सर्व॑म्भवति ।
+तत्सर्व॑म्भवति ।
 </details>
 
 <details><summary>मूलम्</summary>
 
 यत्किञ्च॑ राज॒सूय॑मनुत्तरवे॒दीक॑म् ।   
-तथ्सर्व॑म्भवति ।
+तत्सर्व॑म्भवति ।
 </details>
 
 <details><summary>सायण-टीका</summary>

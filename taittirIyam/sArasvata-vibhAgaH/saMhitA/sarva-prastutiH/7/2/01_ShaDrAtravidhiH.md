@@ -33,8 +33,8 @@ title = "०१ षड्रात्रविधिः"
 
 +++(पृष्ठ्यः)+++ षड्रा॒त्रो भ॑वति ।  
 षड् वा ऋ॒तव॒ष् षट् पृ॒ष्ठानि॑ +++( च सन्ति)+++[1]।  
-पृ॒ष्ठैर् ए॒व ऋ॒र्तून् अ॒न्वारो॑हन्ति +ऋ॒तुभि॑स् सव्ँवथ्स॒रम् ।  
-ते स॑व्ँवथ्स॒र ए॒व प्रति॑ तिष्ठन्ति ।
+पृ॒ष्ठैर् ए॒व ऋ॒र्तून् अ॒न्वारो॑हन्ति +ऋ॒तुभि॑स् सव्ँवत्स॒रम् ।  
+ते स॑व्ँवत्स॒र ए॒व प्रति॑ तिष्ठन्ति ।
 </details>
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/brAhmaNam/sarva-prastutiH/7/3/05_anyash_chaturdasharAtraH/bRhad-rathantara-yAnam.md">
 <details open><summary><h3>बृहद्-रथन्तर-यानम् ...{Loading}...</h3></summary>

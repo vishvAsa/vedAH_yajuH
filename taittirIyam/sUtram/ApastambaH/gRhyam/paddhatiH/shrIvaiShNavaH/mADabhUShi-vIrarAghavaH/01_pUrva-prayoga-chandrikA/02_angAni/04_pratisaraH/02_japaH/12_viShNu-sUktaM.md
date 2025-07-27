@@ -1006,7 +1006,7 @@ Gerühmt wird Vischnu wegen dieser Grossthat, gleich wildem Löwen, der durch Be
 प॒रो मात्र॑या त॒नुवा॑ वृधान ।  
 न ते॑ महि॒त्वमन्व॑श्ञुवन्ति ।  
 उ॒भे ते॑ विद्म॒ रज॑सी पृथि॒व्या विष्णो॑ देव॒ त्वम् ।  
-प॒र॒मस्य॑ विथ्से ॥ 16 ॥
+प॒र॒मस्य॑ वित्से ॥ 16 ॥
 </details>
 <details><summary>Vedaweb annotation</summary>
 

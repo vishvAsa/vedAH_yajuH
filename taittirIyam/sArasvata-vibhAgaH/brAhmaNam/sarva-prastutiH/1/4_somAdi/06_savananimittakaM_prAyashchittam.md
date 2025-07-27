@@ -309,7 +309,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-यद्य॑ग्निष्टो॒मस्सोम॑ᳶ प॒रस्ता॒थ्स्यात् ॥34॥  
+यद्य॑ग्निष्टो॒मस्सोम॑ᳶ प॒रस्ता॒त्स्यात् ॥34॥  
 उ॒क्थ्य॑ङ्कुर्वीत ।
 </details>
 
@@ -550,7 +550,7 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 व्यृ॑द्ध॒न्तदित्या॑हुः ।
-यथ्स्तु॒तमन॑नुशस्त॒मिति॑ ।
+यत्स्तु॒तमन॑नुशस्त॒मिति॑ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

@@ -25,7 +25,7 @@ title = "०३ बन्धनम्"
 दक्षिण-हस्तं **गृहीत्वा**
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/2/3/10_AyuShkAmeShTimantrAH/agnir_AyuShmAn.md">
-<details open><summary><h5>अ॒ग्निरायु॑ष्मा॒न्थ्स ...{Loading}...</h5></summary>
+<details open><summary><h5>अ॒ग्निरायु॑ष्मा॒न्त्स ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(हे यजमान)+++  
@@ -70,7 +70,7 @@ title = "०३ बन्धनम्"
 ‘बृहत्सामे'ति **बद्ध्वा**
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/05_bRhathsAma_khShatrabhRd.md">
-<details open><summary><h4>05 बृहथ्साम क्षत्रभृद् ...{Loading}...</h4></summary>
+<details open><summary><h4>05 बृहत्साम क्षत्रभृद् ...{Loading}...</h4></summary>
 
 बृ॒हथ्-साम॑ क्षत्र॒-भृद् वृ॒द्ध-वृ॑ष्णियन्,   
 त्रि॒ष्टुभौज॑श् शुभि॒तम् उ॒ग्र-वी॑रम् +++(इति सन्ति, तैः)+++।    
@@ -197,7 +197,7 @@ title = "०३ बन्धनम्"
 <details><summary>मूलम्</summary>
 
 विष्णो॒ त्वन्नो॒ अन्त॑म॒श्शर्म॑ यच्छ सहन्त्य ।   
-प्र ते॒ धारा॑ मधु॒श्चुत॒ उथ्स॑न्दुह्रते॒ अक्षि॑तम्॥
+प्र ते॒ धारा॑ मधु॒श्चुत॒ उत्स॑न्दुह्रते॒ अक्षि॑तम्॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -210,7 +210,7 @@ title = "०३ बन्धनम्"
 <details><summary>मूलम्</summary>
 
 विष्णो॒ त्वन्नो॒ अन्त॑म॒श्शर्म॑ यच्छ सहन्त्य ।   
-प्र ते॒ धारा॑ मधु॒श्चुत॒ उथ्स॑न्दुह्रते॒ अक्षि॑तम्॥
+प्र ते॒ धारा॑ मधु॒श्चुत॒ उत्स॑न्दुह्रते॒ अक्षि॑तम्॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -247,7 +247,7 @@ title = "०३ बन्धनम्"
 श॒श्वत् ॥ ८ ॥  
   
 विष्णो॒ त्वं नो॒ अन्त॑म॒श्शर्म॑यच्छ सहन्त्य । प्रते॒धारा॑ मधु॒श्चुत॒  
-उथ्सं॑ दुह्रते॒ अक्षि॑तम् ॥  
+उत्सं॑ दुह्रते॒ अक्षि॑तम् ॥  
   
 ॥ ॐ शान्तिः॒ शान्तिः॒ शान्तिः॑ ॥  
 
@@ -275,7 +275,7 @@ title = "०३ बन्धनम्"
 'बृहत्सामे'ति स्त्रिया वामहस्ते बध्नीयात्,
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/05_bRhathsAma_khShatrabhRd.md">
-<details open><summary><h4>05 बृहथ्साम क्षत्रभृद् ...{Loading}...</h4></summary>
+<details open><summary><h4>05 बृहत्साम क्षत्रभृद् ...{Loading}...</h4></summary>
 
 बृ॒हथ्-साम॑ क्षत्र॒-भृद् वृ॒द्ध-वृ॑ष्णियन्,   
 त्रि॒ष्टुभौज॑श् शुभि॒तम् उ॒ग्र-वी॑रम् +++(इति सन्ति, तैः)+++।    

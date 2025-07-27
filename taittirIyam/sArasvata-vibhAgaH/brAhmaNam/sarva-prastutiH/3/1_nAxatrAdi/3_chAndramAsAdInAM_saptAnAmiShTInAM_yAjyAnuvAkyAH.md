@@ -527,7 +527,7 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 
 प्र नक्ष॑त्राय दे॒वाय॑ ।  
 इन्द्रा॒येन्दुꣳ॑ हवामहे ।  
-सन॑स्सवि॒ता सु॑वथ्स॒निम् ।  
+सन॑स्सवि॒ता सु॑वत्स॒निम् ।  
 पु॒ष्टि॒दाव्ँ वी॒रव॑त्तमम् ।  
 </details>
 </div>
@@ -537,7 +537,7 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 
 प्र नक्ष॑त्राय दे॒वाय॑ ।  
 इन्द्रा॒येन्दुꣳ॑ हवामहे ।  
-सन॑स्सवि॒ता सु॑वथ्स॒निम् ।  
+सन॑स्सवि॒ता सु॑वत्स॒निम् ।  
 पु॒ष्टि॒दाव्ँ वी॒रव॑त्तमम् ।  
 
 

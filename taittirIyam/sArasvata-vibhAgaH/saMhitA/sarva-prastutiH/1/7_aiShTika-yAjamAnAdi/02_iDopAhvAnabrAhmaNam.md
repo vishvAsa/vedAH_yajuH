@@ -28,7 +28,7 @@ Samśravas Sauvarcanasa said to Tumiñja Aupoditi:
 <details><summary>मूलम्</summary>
 
 सꣵश्र॑वा ह सौवर्चन॒सस्तुमि॑ञ्ज॒मौपो॑दितिमुवाच॒   
-यथ्स॒त्रिणा॒ꣳ॒ होताऽभू॒ᳵ कामिडा॒मुपा॑ह्वथा॒ इति॑ ।
+यत्स॒त्रिणा॒ꣳ॒ होताऽभू॒ᳵ कामिडा॒मुपा॑ह्वथा॒ इति॑ ।
 </details>
 
 <details><summary>पद-पाठः</summary>

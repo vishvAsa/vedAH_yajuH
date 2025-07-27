@@ -86,7 +86,7 @@ Rejoicing in the mush.
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/03_chAturmAsyeShu_varuNapraghAsaparva/03_mo_ShU.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-मो षू+++(←सु+उ)+++ ण॑+++(ः)+++ इन्द्र पृ॒थ्सु देव +  
+मो षू+++(←सु+उ)+++ ण॑+++(ः)+++ इन्द्र पृ॒त्सु देव +  
 +**अस्तु॑** स्म +++(पराजितिः)+++ ते शुष्मिन्न् अव॒या+++(=ऊत्या)+++ ।  
 म॒ही ह्य् अ॑स्य मी॒ढुषो॑ य॒व्या +++(←यु पृथक्करणे, →वन्दते)+++ ,  
 ह॒विष्म॑तो म॒रुतो॒ +++(→मरुद्वतः)+++ **वन्द॑ते॒** गीः  ॥
@@ -103,7 +103,7 @@ Rich in oblation are the Maruts whom our song praises.
 </details>
 <details><summary>मूलम्</summary>
 
-मो षू ण॑ इन्द्र पृ॒थ्सु दे॒वास्तु॑ स्म ते शुष्मिन्नव॒या ।
+मो षू ण॑ इन्द्र पृ॒त्सु दे॒वास्तु॑ स्म ते शुष्मिन्नव॒या ।
 म॒ही ह्य॑स्य मी॒ढुषो॑ य॒व्या ।  
 ह॒विष्म॑तो म॒रुतो॒ वन्द॑ते॒ गीः  ॥
 </details>

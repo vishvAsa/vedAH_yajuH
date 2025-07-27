@@ -367,7 +367,7 @@ ________
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/13_somAvarohaNAdikam/04_yam_agne.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-**यम्** अ॑ग्ने पृ॒थ्सु+++(=युद्धेषु)+++ मर्त्य॒म्  
+**यम्** अ॑ग्ने पृ॒त्सु+++(=युद्धेषु)+++ मर्त्य॒म्  
 **आवो॒** वाजे॑षु॒+++(←वज्=स्पर्धासु)+++ यञ् जु॒नाः ।    
 **स यन्ता॒** शश्व॑ती॒र् **इषः॑** ॥ [23]
 </details>
@@ -380,7 +380,7 @@ That mortal, O Agni, whom thou hast helped in the battles, Whom thou hast streng
 </details>
 <details><summary>मूलम्</summary>
 
-यम॑ग्ने पृ॒थ्सु मर्त्य॒मावो॒ वाजे॑षु॒ यञ्जु॒नाः ।    
+यम॑ग्ने पृ॒त्सु मर्त्य॒मावो॒ वाजे॑षु॒ यञ्जु॒नाः ।    
 स यन्ता॒ शश्व॑ती॒रिषः॑ ॥ [23]
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>

@@ -48,7 +48,7 @@ title = "०४ बन्धनम्"
 
 ## हस्त-ग्रहणम्
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/2/3/10_AyuShkAmeShTimantrAH/agnir_AyuShmAn.md">
-<details open><summary><h4>अ॒ग्निरायु॑ष्मा॒न्थ्स ...{Loading}...</h4></summary>
+<details open><summary><h4>अ॒ग्निरायु॑ष्मा॒न्त्स ...{Loading}...</h4></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(हे यजमान)+++  
@@ -101,7 +101,7 @@ title = "०४ बन्धनम्"
 स्त्रिया वाम-हस्ते बध्नाति । 
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/05_bRhathsAma_khShatrabhRd.md">
-<details open><summary><h4>05 बृहथ्साम क्षत्रभृद् ...{Loading}...</h4></summary>
+<details open><summary><h4>05 बृहत्साम क्षत्रभृद् ...{Loading}...</h4></summary>
 
 बृ॒हथ्-साम॑ क्षत्र॒-भृद् वृ॒द्ध-वृ॑ष्णियन्,   
 त्रि॒ष्टुभौज॑श् शुभि॒तम् उ॒ग्र-वी॑रम् +++(इति सन्ति, तैः)+++।    

@@ -459,7 +459,7 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 ए॒षा वा अ॒पाम्पृ॒ष्ठम् ।
-यथ्सर॑स्वती ।
+यत्सर॑स्वती ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
