@@ -93,7 +93,7 @@ O plant, protect him.
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-ओष॑धे॒ त्राय॑स्वैन॒ꣵ॒ स्वधि॑ते॒ मैनꣳ॑ हिꣳसीः
+ओष॑धे॒ त्राय॑स्वैन॒ँ॒ स्वधि॑ते॒ मैनँ॑ हिँसीः
 </details>
 <details><summary>मूलम्</summary>
 
@@ -115,13 +115,13 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्वधि॑ते॒ मैनꣳ॑ हिꣳसीः।
+स्वधि॑ते॒ मैनँ॑ हिँसीः।
 </details>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/svadhite.md">
 <details open><summary><h5>स्वधिते ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्वधि॑ते॒+++(=क्षुर)+++! मैनꣳ॑ हिꣳसीः  ।+++(र४)+++
+स्वधि॑ते॒+++(=क्षुर)+++! मैनँ॑ हिँसीः  ।+++(र४)+++
 </details>
 <details><summary>Keith</summary>
 
@@ -129,7 +129,7 @@ Axe, hurt him not.
 </details>
 <details><summary>मूलम्</summary>
 
-स्वधि॑ते॒ मैनꣳ॑ हिꣳसीः  ।
+स्वधि॑ते॒ मैनँ॑ हिँसीः  ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -147,12 +147,12 @@ _______
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-दिव॒मग्रे॑ण॒ मा ले॑खीर॒न्तरि॑क्ष॒म्मध्ये॑न॒ मा हिꣳ॑सीᳶ पृथि॒व्या सम्भ॑व।
+दिव॒मग्रे॑ण॒ मा ले॑खीर॒न्तरि॑क्ष॒म्मध्ये॑न॒ मा हिँ॑सीᳶ पृथि॒व्या सम्भ॑व।
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिव॒म् अग्रे॑ण॒ मा ले॑खीः ।  
-अ॒न्तरि॑क्ष॒म् मध्ये॑न॒ मा हिꣳ॑सीः ।  
+अ॒न्तरि॑क्ष॒म् मध्ये॑न॒ मा हिँ॑सीः ।  
 पृ॒थि॒व्या सम्भ॑व।+++(5)+++
 </details>
 <details><summary>Keith</summary>
@@ -164,14 +164,14 @@ with earth be united.
 <details><summary>मूलम्</summary>
 
 दिव॒मग्रे॑ण॒ मा ले॑खीः ।  
-अ॒न्तरि॑क्ष॒म्मध्ये॑न॒ मा हिꣳ॑सीः ।  
+अ॒न्तरि॑क्ष॒म्मध्ये॑न॒ मा हिँ॑सीः ।  
 पृ॒थि॒व्या  सम्भ॑व।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
 दिव॑म् । अग्रे॑ण । मा । ले॒खीः॒ ।   
-अ॒न्तरि॑क्षम् । मध्ये॑न । मा । हि॒ꣳ॒सीः॒ ।  
+अ॒न्तरि॑क्षम् । मध्ये॑न । मा । हि॒ँ॒सीः॒ ।  
 पृ॒थि॒व्या । समिति॑ । भ॒व॒ । 
 </details>
 
@@ -217,7 +217,7 @@ _______
 <details open><summary><h5>सहस्र-वल्शाः ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒हस्र॑-वल्शाः॒+++(=प्ररोहाः)+++ वि व॒यꣳ रु॑हेम ।
+स॒हस्र॑-वल्शाः॒+++(=प्ररोहाः)+++ वि व॒यँ रु॑हेम ।
 </details>
 <details><summary>Keith</summary>
 
@@ -225,7 +225,7 @@ Let us rise with a thousand shoots.
 </details>
 <details><summary>मूलम्</summary>
 
-स॒हस्र॑वल्शाः॒ [2] विव॒यꣳ रु॑हेम ।
+स॒हस्र॑वल्शाः॒ [2] विव॒यँ रु॑हेम ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -246,7 +246,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(तादृशस् त्वं)+++ यन् त्वा॒ऽयꣵ स्वधि॑ति॒स् तेति॑जानᳶ प्रणि॒नाय॑ मह॒ते सौभ॑गाय ।
++++(तादृशस् त्वं)+++ यन् त्वा॒ऽयँ स्वधि॑ति॒स् तेति॑जानᳶ प्रणि॒नाय॑ मह॒ते सौभ॑गाय ।
 </details>
 <details><summary>Keith</summary>
 
@@ -255,7 +255,7 @@ Thou, whom this sharp axe hath brought forward for great good fortune,
 </details>
 <details><summary>मूलम्</summary>
 
-यन्त्वा॒ऽयꣵ स्वधि॑ति॒स्तेति॑जानᳶ प्रणि॒नाय॑ मह॒ते सौभ॑गाय ।
+यन्त्वा॒ऽयँ स्वधि॑ति॒स्तेति॑जानᳶ प्रणि॒नाय॑ मह॒ते सौभ॑गाय ।
 </details>
 <details><summary>पद-पाठः</summary>
 

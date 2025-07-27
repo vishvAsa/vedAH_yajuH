@@ -21,7 +21,7 @@ title = "१७ गव्य-होमः"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या दे॒वेषु॑ त॒नुव॒म् ऐर॑यन्त॒  
-यासा॒ꣳ॒ सोमो॒ विश्वा॑ रू॒पाणि॒ +++(दध्यादिलक्षणानि)+++ वेद॑ ।  
+यासा॒ँ॒ सोमो॒ विश्वा॑ रू॒पाणि॒ +++(दध्यादिलक्षणानि)+++ वेद॑ ।  
 ता अ॒स्मभ्य॒म् पय॑सा॒ पिन्व॑मानाᳶ  
 प्र॒जाव॑तीर् इन्द्र गो॒ष्ठे रि॑रीहि+++(=समागमय)+++ ।[43]
 </details>
@@ -30,7 +30,7 @@ title = "१७ गव्य-होमः"
 प्र॒जाप॑ति॒र् मह्य॑म् ए॒ता +++(गावो)+++ ररा॑णो॒+++(=ददन्)+++ ,  
 विश्वै॑र् दे॒वैᳶ पि॒तृभि॑स् सव्ँविदा॒नः+++(=ऐकमत्यं गतः)+++ ।  
 शि॒वास् स॒तीर् उप॑ नो गो॒ष्ठम् आक॒स्+++(=आकरोतु)+++  
-तासा॑व्ँ व॒यम् प्र॒जया॒ सꣳ स॑देम ।
+तासा॑व्ँ व॒यम् प्र॒जया॒ सँ स॑देम ।
 </details>
 <div class="js_include" includetitle="falseZ" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/7/1/11_ashvamedhaH/12_ashvanAmavAchanAdyangamantrAH/iha_dhRtiH.md">
 <details open><summary><h2>इह धृतिः ...{Loading}...</h2></summary>
@@ -56,10 +56,10 @@ title = "१७ गव्य-होमः"
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/mahImU_Shu.md">
 <details open><summary><h2>महीम् ऊ षु ...{Loading}...</h2></summary>
 
-म॒हीम् ऊ॒ षु मा॒तरꣳ॑ सुव्र॒ताना॑म्  
+म॒हीम् ऊ॒ षु मा॒तरँ॑ सुव्र॒ताना॑म्  
 ऋ॒तस्य॒ पत्नी॒म् अव॑से **हुवेम** ।  
-तु॒वि॒+++(=प्रवृद्ध)+++-क्ष॒त्त्राम् अ॒जर॑न्तीम् उरू॒चीꣳ+++(=उरुगमनां)+++ 
-सु॒शर्मा॑ण॒म् अदि॑तिꣳ+++(=अखण्डनीयां)+++ सु॒प्रणी॑तिम् ॥ 
+तु॒वि॒+++(=प्रवृद्ध)+++-क्ष॒त्त्राम् अ॒जर॑न्तीम् उरू॒चीँ+++(=उरुगमनां)+++ 
+सु॒शर्मा॑ण॒म् अदि॑तिँ+++(=अखण्डनीयां)+++ सु॒प्रणी॑तिम् ॥ 
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/mahImU_Shu.md">
@@ -83,8 +83,8 @@ Aditi, who giveth good protection and good guidance.
 </details>
 <details><summary>मूलम्</summary>
 
-म॒हीमू॒ षु मा॒तरꣳ॑ सुव्र॒ताना॑मृ॒तस्य॒ पत्नी॒मव॑से हुवेम ।  
-तु॒वि॒क्ष॒त्त्राम॒जर॑न्तीमुरू॒चीꣳ सु॒शर्मा॑ण॒मदि॑तिꣳ सु॒प्रणी॑तिम्  ॥
+म॒हीमू॒ षु मा॒तरँ॑ सुव्र॒ताना॑मृ॒तस्य॒ पत्नी॒मव॑से हुवेम ।  
+तु॒वि॒क्ष॒त्त्राम॒जर॑न्तीमुरू॒चीँ सु॒शर्मा॑ण॒मदि॑तिँ सु॒प्रणी॑तिम्  ॥
 </details>
 </details>
 </div>
@@ -92,9 +92,9 @@ Aditi, who giveth good protection and good guidance.
 <details open><summary><h2>०३ सुत्रामाणं पृथिवीम् ...{Loading}...</h2></summary>
 
 
-सु॒त्रामा॑णम्+++(=सुत्राणं)+++ पृथि॒वीन् द्याम् अ॑ने॒हसꣳ॑+++(=अपापाम्)+++  
-सु॒शर्मा॑ण॒म् अदि॑तिꣳ सु॒प्रणी॑तिम् ।  
-दैवी॒न् **नावꣵ॑** स्व्-अरि॒त्राम्+++(=सुनौदण्डां)+++ अना॑गसो॒  
+सु॒त्रामा॑णम्+++(=सुत्राणं)+++ पृथि॒वीन् द्याम् अ॑ने॒हसँ॑+++(=अपापाम्)+++  
+सु॒शर्मा॑ण॒म् अदि॑तिँ सु॒प्रणी॑तिम् ।  
+दैवी॒न् **नावँ॑** स्व्-अरि॒त्राम्+++(=सुनौदण्डां)+++ अना॑गसो॒  
 अस्र॑वन्ती॒म् **आ रु॑हेमा** स्व॒स्तये॑ ॥
 
 </details>

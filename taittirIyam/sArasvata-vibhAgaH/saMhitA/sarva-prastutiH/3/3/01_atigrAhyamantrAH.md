@@ -233,14 +233,14 @@ for the blazing of the wind and of the waters do I offer to thee.
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-सुव॒र्विद॑सि॒ सुव॑र्मा॒ मा हा॑सी॒न्माहꣳ सुव॑र्हासिष॒म्मा माꣳ सुव॑र्हासीत् ।  
+सुव॒र्विद॑सि॒ सुव॑र्मा॒ मा हा॑सी॒न्माहँ सुव॑र्हासिष॒म्मा माँ सुव॑र्हासीत् ।  
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सु॒व॒र्-विद् अ॑सि ।  
 सुव॑र् मा॒ मा हा॑सीत्  ।  
-माहꣳ सुव॑र् हासिष॒म् ।  
-मा माꣳ सुव॑र् हासीत् ।  
+माहँ सुव॑र् हासिष॒म् ।  
+मा माँ सुव॑र् हासीत् ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -250,8 +250,8 @@ Thou dost win the light; may the light forsake me not, may I not forsake the lig
 
 सु॒व॒र्विद॑सि ।  
 सुव॑र्मा॒ मा हा॑सीत्  ।  
-माहꣳ सुव॑र्हासिष॒म् ।  
-मा माꣳ सुव॑र्हासीत् ।  
+माहँ सुव॑र्हासिष॒म् ।  
+मा माँ सुव॑र्हासीत् ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

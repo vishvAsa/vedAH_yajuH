@@ -3,19 +3,19 @@ title: ०६ तण्डुलपेषणम्
 unicode_script: devanagari
 ---
 
-## अव॑धूत॒ꣳ॒
+## अव॑धूत॒ँ॒
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/05_vrIhyavaghAtaH/avadhUtam.md" unfilled newLevelForH1="5" includeTitle="false">   
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"अव॑धूत॒ꣳ॒ रक्षो ऽव॑धूता॒ अरा॑तय॒" इत्य् आ॑ह ।  
+"अव॑धूत॒ँ॒ रक्षो ऽव॑धूता॒ अरा॑तय॒" इत्य् आ॑ह ।  
 रक्ष॑सा॒म् अप॑हत्यै ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-"अव॑धूत॒ꣳ॒ रक्षोऽव॑धूता॒ अरा॑तय॒" इत्या॑ह ।  
+"अव॑धूत॒ँ॒ रक्षोऽव॑धूता॒ अरा॑तय॒" इत्या॑ह ।  
 रक्ष॑सा॒मप॑हत्यै ।
 </details>
 
@@ -154,13 +154,13 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते श॑म्यामा॒त्रम् एक॒म् अह॒र् व्य्-ऐताꣳ॑,  
+ते श॑म्यामा॒त्रम् एक॒म् अह॒र् व्य्-ऐताँ॑,  
 शम्या-मा॒त्रम् एक॒म् अहः॑ ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-ते श॑म्यामा॒त्रमेक॒मह॒र्व्यैताꣳ॑ शम्यामा॒त्रमेक॒महः॑ ।
+ते श॑म्यामा॒त्रमेक॒मह॒र्व्यैताँ॑ शम्यामा॒त्रमेक॒महः॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -170,7 +170,7 @@ unicode_script: devanagari
 
 <details><summary>सायण-टीका</summary>
 
-ते शम्यामात्रमेकमहर्व्यैताꣳ शम्यामात्रमेकमहः। 
+ते शम्यामात्रमेकमहर्व्यैताँ शम्यामात्रमेकमहः। 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -439,12 +439,12 @@ unicode_script: devanagari
 ## अस॑व्ँवपन्ती
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"अस॑व्ँवपन्ती पिꣳषा॒णूनि॑ कुरुता॒द्" इत्य् आ॑ह मेध्य॒त्वाय॑ ॥49॥   
+"अस॑व्ँवपन्ती पिँषा॒णूनि॑ कुरुता॒द्" इत्य् आ॑ह मेध्य॒त्वाय॑ ॥49॥   
 </details>
 
 <details><summary>मूलम्</summary>
 
-"अस॑व्ँवपन्ती पिꣳषा॒णूनि॑ कुरुता॒"दित्या॑ह मेध्य॒त्वाय॑ ॥49॥   
+"अस॑व्ँवपन्ती पिँषा॒णूनि॑ कुरुता॒"दित्या॑ह मेध्य॒त्वाय॑ ॥49॥   
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -457,5 +457,5 @@ unicode_script: devanagari
 
 <details><summary>सायण-टीका</summary>
 
-पत्नीं दासीं वा प्रति पोषमन्त्रमुत्पाद्य व्याचष्टे — “असंवपन्ती पिꣳषाणूनि कुरूतादित्याह मेध्यत्वाय” (ब्रा. का. ३ प्र. २ अ. ६) इति। 
+पत्नीं दासीं वा प्रति पोषमन्त्रमुत्पाद्य व्याचष्टे — “असंवपन्ती पिँषाणूनि कुरूतादित्याह मेध्यत्वाय” (ब्रा. का. ३ प्र. २ अ. ६) इति। 
 </details>

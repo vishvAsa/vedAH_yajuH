@@ -67,7 +67,7 @@ ____
 <details open><summary><h2>प्रत्युष्टं रक्षः ...{Loading}...</h2></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रत्यु॑ष्ट॒ꣳ॒ रक्ष॒ᳶ, प्रत्यु॑ष्टा॒ अरा॑तयः+++(=अदातारः)+++।
+प्रत्यु॑ष्ट॒ँ॒ रक्ष॒ᳶ, प्रत्यु॑ष्टा॒ अरा॑तयः+++(=अदातारः)+++।
 </details>
 <details><summary>Keith</summary>
 
@@ -76,11 +76,11 @@ The Raksas is burned up, the evil spirits are burned up.
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-प्रत्यु॑ष्ट॒ꣳ॒ रक्ष॒ᳶ प्रत्यु॑ष्टा॒ अरा॑तयः
+प्रत्यु॑ष्ट॒ँ॒ रक्ष॒ᳶ प्रत्यु॑ष्टा॒ अरा॑तयः
 </details>
 <details><summary>मूलम्</summary>
 
-प्रत्यु॑ष्ट॒ꣳ॒ रक्षः॑ ।  
+प्रत्यु॑ष्ट॒ँ॒ रक्षः॑ ।  
 प्रत्यु॑ष्टा॒ अरा॑तयः ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -161,7 +161,7 @@ Thou art the oblation-holder that wavers not.
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-त्वन्दे॒वाना॑मसि॒  सस्नि॑तम॒म्पप्रि॑तम॒ञ्जुष्ट॑तम॒व्ँवह्नि॑तमन्देव॒हूत॑म॒मह्रु॑तमसि हवि॒र्धान॒न्दृꣳह॑स्व॒ मा ह्वाः॑।
+त्वन्दे॒वाना॑मसि॒  सस्नि॑तम॒म्पप्रि॑तम॒ञ्जुष्ट॑तम॒व्ँवह्नि॑तमन्देव॒हूत॑म॒मह्रु॑तमसि हवि॒र्धान॒न्दृँह॑स्व॒ मा ह्वाः॑।
 </details>
 <details><summary>मूलम्</summary>
 
@@ -187,7 +187,7 @@ Thou art the oblation-holder that wavers not.
 <details open><summary><h5>दृंहस्व ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दृꣳह॑स्व+++(=दृढा भव)+++।  
+दृँह॑स्व+++(=दृढा भव)+++।  
 मा ह्वाः॑+++(=कुटिला भूः)+++।
 </details>
 <details><summary>Keith</summary>
@@ -197,11 +197,11 @@ Be firm, waver not.
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-दृꣳह॑स्व॒ मा ह्वाः
+दृँह॑स्व॒ मा ह्वाः
 </details>
 <details><summary>मूलम्</summary>
 
-दृꣳह॑स्व॒  मा ह्वाः॑
+दृँह॑स्व॒  मा ह्वाः॑
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -221,7 +221,7 @@ ____
 +++(पुरोडाशीयाः!)+++ मि॒त्रस्य॑ त्वा॒ चक्षु॑षा॒ प्रेक्षे॑ ।  
 मा भेः+++(=भैषीः)+++ ।  
 मा सव्ँ वि॑क्थाः+++(=कंपिष्ठाः)+++ ।  
-मा त्वा॑ [5] हिꣳसि॒षम् ।
+मा त्वा॑ [5] हिँसि॒षम् ।
 </details>
 <details><summary>Keith</summary>
 
@@ -231,7 +231,7 @@ let me harm thee [1] not.
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-मि॒त्रस्य॑ त्वा॒ चक्षु॑षा॒ प्रेक्षे॒ मा भेर्मा सव्ँ वि॑क्था॒ मा त्वा॑ [5]हि॒ꣳ॒सि॒षम्
+मि॒त्रस्य॑ त्वा॒ चक्षु॑षा॒ प्रेक्षे॒ मा भेर्मा सव्ँ वि॑क्था॒ मा त्वा॑ [5]हि॒ँ॒सि॒षम्
 </details>
 <details><summary>मूलम्</summary>
 
@@ -259,7 +259,7 @@ let me harm thee [1] not.
 </details>
 <details><summary>मूलम्</summary>
 
-मा त्वा॑ [5] हि॒ꣳ॒सि॒षम् ।
+मा त्वा॑ [5] हि॒ँ॒सि॒षम् ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -525,7 +525,7 @@ ____
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दृꣳह॑न्ता॒न् दुर्या॒+++(=द्वारवन्ति)+++ द्यावा॑पृथि॒व्योः +++(भोगाय)+++।
+दृँह॑न्ता॒न् दुर्या॒+++(=द्वारवन्ति)+++ द्यावा॑पृथि॒व्योः +++(भोगाय)+++।
 </details>
 <details><summary>Keith</summary>
 
@@ -534,11 +534,11 @@ May they that have doors stand firm in heaven and earth.
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-दृꣳह॑न्ता॒न्दुर्या॒ द्यावा॑पृथि॒व्योः
+दृँह॑न्ता॒न्दुर्या॒ द्यावा॑पृथि॒व्योः
 </details>
 <details><summary>मूलम्</summary>
 
-दृꣳह॑न्ता॒न्दुर्या॒ द्यावा॑पृथि॒व्योः
+दृँह॑न्ता॒न्दुर्या॒ द्यावा॑पृथि॒व्योः
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -614,7 +614,7 @@ ____
 <details open><summary><h5>अग्ने हव्यम् ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अग्ने॑ ह॒व्यꣳ र॑क्षस्व ॥ [6]
+अग्ने॑ ह॒व्यँ र॑क्षस्व ॥ [6]
 </details>
 <details><summary>Keith</summary>
 
@@ -622,7 +622,7 @@ O Agni, guard the offering.
 </details>
 <details><summary>मूलम्</summary>
 
-अग्ने॑ ह॒व्यꣳ र॑क्षस्व ॥ [6]
+अग्ने॑ ह॒व्यँ र॑क्षस्व ॥ [6]
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

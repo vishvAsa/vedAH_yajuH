@@ -157,12 +157,12 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एक॑विꣳशतिकपालो भवति॒ प्रति॑ष्ठित्यै ।  
+एक॑विँशतिकपालो भवति॒ प्रति॑ष्ठित्यै ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
-एक॑विꣳशतिकपालो भवति॒ प्रति॑ष्ठित्यै ।  
+एक॑विँशतिकपालो भवति॒ प्रति॑ष्ठित्यै ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

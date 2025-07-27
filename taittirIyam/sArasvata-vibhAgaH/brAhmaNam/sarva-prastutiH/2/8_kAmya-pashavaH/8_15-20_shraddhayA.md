@@ -728,7 +728,7 @@ Wie Götter der Asurenschar, der starken, schenkten ihr Vertraun, So mache du au
 
 श्र॒द्धां दे॑वा॒ यज॑मानाः ।  
 वा॒युगो॑पा॒ उपा॑सते ।  
-श्र॒द्धाꣳ हृ॑द॒य्य॑याऽऽकू॑त्या ।  
+श्र॒द्धाँ हृ॑द॒य्य॑याऽऽकू॑त्या ।  
 श्र॒द्धया॑ हूयते ह॒विः ।
 </details>
 

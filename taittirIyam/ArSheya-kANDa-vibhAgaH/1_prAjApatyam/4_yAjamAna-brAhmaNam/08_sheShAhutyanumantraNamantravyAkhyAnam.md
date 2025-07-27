@@ -37,8 +37,8 @@ verily he creates offspring.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"नरा॒शꣳस॑स्या॒ ऽहन् दे॑व-य॒ज्यया॑ पशु॒मान् भू॑यास॒म्" इत्य् आ॑ह ।  
-नरा॒शꣳसे॑न॒ वै प्र॒जाप॑तिᳶ प॒शून॑सृजत ।  
+"नरा॒शँस॑स्या॒ ऽहन् दे॑व-य॒ज्यया॑ पशु॒मान् भू॑यास॒म्" इत्य् आ॑ह ।  
+नरा॒शँसे॑न॒ वै प्र॒जाप॑तिᳶ प॒शून॑सृजत ।  
 तेनै॒व प॒शून्त्सृ॑जते ।   
 </details>
 <details><summary>Keith</summary>
@@ -48,8 +48,8 @@ by Naraśansa Prajapati created cattle; verily he creates cattle.
 </details>
 <details><summary>मूलम्</summary>
 
-"नरा॒शꣳस॑स्या॒हन् दे॑वय॒ज्यया॑ पशु॒मान् भू॑यास॒म्" इत्य् आ॑ह ।  
-नरा॒शꣳसे॑न॒ वै प्र॒जाप॑तिᳶ प॒शून् अ॑सृजत ।  
+"नरा॒शँस॑स्या॒हन् दे॑वय॒ज्यया॑ पशु॒मान् भू॑यास॒म्" इत्य् आ॑ह ।  
+नरा॒शँसे॑न॒ वै प्र॒जाप॑तिᳶ प॒शून् अ॑सृजत ।  
 तेनै॒व प॒शून्थ् सृ॑जते ।   
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -202,7 +202,7 @@ When the Hotr utters the name of the sacrificer, then he should say,
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सꣵस्तु॑ता ए॒व दे॒वता॑ दु॒हे ।  
+सँस्तु॑ता ए॒व दे॒वता॑ दु॒हे ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -210,7 +210,7 @@ verily he milks the deities which he praises together;
 </details>
 <details><summary>मूलम्</summary>
 
-सꣵस्तु॑ता ए॒व दे॒वता॑ दु॒हे ।  
+सँस्तु॑ता ए॒व दे॒वता॑ दु॒हे ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -260,7 +260,7 @@ the straw is the sacrificer;
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद् ए॒तैᳶ प्र॑स्त॒रम् प्र॒हर॑ति,  
-देवा॒श्वैर् ए॒व यज॑मानꣳ सुव॒र्गल्ँ लो॒कङ् ग॑मयति ।  
+देवा॒श्वैर् ए॒व यज॑मानँ सुव॒र्गल्ँ लो॒कङ् ग॑मयति ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -269,7 +269,7 @@ he makes the sacrificer to go by the steeds of the gods to the world of heaven.
 </details>
 <details><summary>मूलम्</summary>
 
-यदे॒तैᳶ प्र॑स्त॒रम्प्र॒हर॑ति देवा॒श्वैरे॒व यज॑मानꣳ सुव॒र्गल्ँलो॒कङ्ग॑मयति ।  
+यदे॒तैᳶ प्र॑स्त॒रम्प्र॒हर॑ति देवा॒श्वैरे॒व यज॑मानँ सुव॒र्गल्ँलो॒कङ्ग॑मयति ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -335,9 +335,9 @@ verily he confers seed upon himself.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"त्वष्टु॑र् अ॒हन् दे॑व-य॒ज्यया॑ पशू॒नाꣳ रू॒पम् पु॑षेय॒म्" इत्य् आ॑ह ।  
-त्वष्टा॒ वै प॑शू॒नाम् मि॑थु॒नानाꣳ॑ रूप॒-कृत् ।   
-तेनै॒व प॑शू॒नाꣳ रू॒पम् आ॒त्मन् ध॑त्ते। 
+"त्वष्टु॑र् अ॒हन् दे॑व-य॒ज्यया॑ पशू॒नाँ रू॒पम् पु॑षेय॒म्" इत्य् आ॑ह ।  
+त्वष्टा॒ वै प॑शू॒नाम् मि॑थु॒नानाँ॑ रूप॒-कृत् ।   
+तेनै॒व प॑शू॒नाँ रू॒पम् आ॒त्मन् ध॑त्ते। 
 </details>
 <details><summary>Keith</summary>
 
@@ -347,9 +347,9 @@ and thereby he confers upon himself the form of cattle.
 </details>
 <details><summary>मूलम्</summary>
 
-त्वष्टु॑र॒हन्दे॑वय॒ज्यया॑ पशू॒नाꣳ रू॒पम्पु॑षेय॒मित्या॑ह ।  
-त्वष्टा॒ वै प॑शू॒नाम्मि॑थु॒नानाꣳ॑ रूप॒कृत् ।   
-तेनै॒व प॑शू॒नाꣳ रू॒पमा॒त्मन्ध॑त्ते। 
+त्वष्टु॑र॒हन्दे॑वय॒ज्यया॑ पशू॒नाँ रू॒पम्पु॑षेय॒मित्या॑ह ।  
+त्वष्टा॒ वै प॑शू॒नाम्मि॑थु॒नानाँ॑ रूप॒कृत् ।   
+तेनै॒व प॑शू॒नाँ रू॒पमा॒त्मन्ध॑त्ते। 
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -421,7 +421,7 @@ Whatever of his foe's he may covet, the name of that he should utter; verily he 
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-घृ॒तव॑न्तङ् कुला॒यिनꣳ॑+++(=नीडिनं)+++ रा॒यस्पोषꣳ॑ स॒ह॒स्रिण॑व्ँ   
+घृ॒तव॑न्तङ् कुला॒यिनँ॑+++(=नीडिनं)+++ रा॒यस्पोषँ॑ स॒ह॒स्रिण॑व्ँ   
 वे॒दो द॑दातु वा॒जिन॒म् इत्य् आ॑ह।
 प्र स॒हस्र॑म् प॒शून् आ॑प्नोति ।  
 </details>
@@ -432,7 +432,7 @@ he obtains a thousand cattle.
 </details>
 <details><summary>मूलम्</summary>
 
-घृ॒तव॑न्तङ्कुला॒यिनꣳ॑ रा॒यस्पोषꣳ॑ स॒ह॒स्रिण॑व्ँ वे॒दो द॑दातु वा॒जिन॒मित्या॑ह ।  
+घृ॒तव॑न्तङ्कुला॒यिनँ॑ रा॒यस्पोषँ॑ स॒ह॒स्रिण॑व्ँ वे॒दो द॑दातु वा॒जिन॒मित्या॑ह ।  
 प्र स॒हस्र॑म्प॒शूना॑प्नोति ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>

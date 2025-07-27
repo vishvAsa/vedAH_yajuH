@@ -15,12 +15,12 @@ _______
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-अ॒ग्निर्मा॒ दुरि॑ष्टात्पातु सवि॒ताऽघशꣳ॑सात् 
+अ॒ग्निर्मा॒ दुरि॑ष्टात्पातु सवि॒ताऽघशँ॑सात् 
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ॒ग्निर् मा॒ दुरि॑ष्टात् पातु  
-सवि॒ता ऽघशꣳ॑सात् ।
+सवि॒ता ऽघशँ॑सात् ।
 </details>
 <details><summary>Keith</summary>
 
@@ -30,7 +30,7 @@ Savitr from evil report.
 <details><summary>मूलम्</summary>
 
 अ॒ग्निर्मा॒ दुरि॑ष्टात्पातु   
-सवि॒ताऽघशꣳ॑सात् ।
+सवि॒ताऽघशँ॑सात् ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -69,7 +69,7 @@ _______
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-सुरू॑पवर्षवर्ण॒ एही॒मान्भ॒द्रान्दुर्याꣳ॑ अ॒भ्येहि …
+सुरू॑पवर्षवर्ण॒ एही॒मान्भ॒द्रान्दुर्याँ॑ अ॒भ्येहि …
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -89,7 +89,7 @@ O thou of fair rain colour, come
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒मान् भ॒द्रान् दुर्याꣳ॑+++(=यज्ञगृहान्)+++ अ॒भ्येहि॒ माम् अनु॑व्रता।
+इ॒मान् भ॒द्रान् दुर्याँ॑+++(=यज्ञगृहान्)+++ अ॒भ्येहि॒ माम् अनु॑व्रता।
 </details>
 <details><summary>Keith</summary>
 
@@ -98,7 +98,7 @@ Approach me in devotion.
 </details>
 <details><summary>मूलम्</summary>
 
-इ॒मान् भ॒द्रान्दुर्याꣳ॑ अ॒भ्येहि॒ माम् अनु॑व्रता।
+इ॒मान् भ॒द्रान्दुर्याँ॑ अ॒भ्येहि॒ माम् अनु॑व्रता।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -260,7 +260,7 @@ May the prayer of the sacrificer be fulfilled for me.
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-अरे॑डता॒ मन॑सा॒ तच्छ॑केयय्ँ य॒ज्ञो दिवꣳ॑ रोहतु  । 
+अरे॑डता॒ मन॑सा॒ तच्छ॑केयय्ँ य॒ज्ञो दिवँ॑ रोहतु  । 
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -281,7 +281,7 @@ With untroubled mind may I have strength for this.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य॒ज्ञो दिवꣳ॑ रोहतु  ।
+य॒ज्ञो दिवँ॑ रोहतु  ।
 </details>
 <details><summary>Keith</summary>
 
@@ -289,7 +289,7 @@ May the sacrifice mount the sky,
 </details>
 <details><summary>मूलम्</summary>
 
-य॒ज्ञो दिवꣳ॑ रोहतु  ।
+य॒ज्ञो दिवँ॑ रोहतु  ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -313,7 +313,7 @@ may the sacrifice reach the sky.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो दे॑व॒यान॒ᳶ पन्था॒स्, तेन॑ य॒ज्ञो दे॒वाꣳ अप्य् ए॑तु ।
+यो दे॑व॒यान॒ᳶ पन्था॒स्, तेन॑ य॒ज्ञो दे॒वाँ अप्य् ए॑तु ।
 </details>
 <details><summary>Keith</summary>
 
@@ -321,7 +321,7 @@ The path that leadeth to the gods, along it may the sacrifice go to the gods.
 </details>
 <details><summary>मूलम्</summary>
 
-यो दे॑व॒यान॒ᳶ पन्था॒स्तेन॑ य॒ज्ञो दे॒वाꣳ अप्ये॑तु ।
+यो दे॑व॒यान॒ᳶ पन्था॒स्तेन॑ य॒ज्ञो दे॒वाँ अप्ये॑तु ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -388,7 +388,7 @@ _______
 
 
 मनो॒ ज्योति॑र् **जुषता॒म्**, आज्य॒व्ँ  
-विच्छि॑न्नय्ँ **य॒ज्ञꣳ सम्** इ॒मन् **द॑धातु** ।  
+विच्छि॑न्नय्ँ **य॒ज्ञँ सम्** इ॒मन् **द॑धातु** ।  
 **बृह॒स्पति॑स् तनुताम्** इ॒मन् नो॒,  
 विश्वे॑ दे॒वा इ॒ह **मा॑दयन्ताम्** ॥
 </details>
@@ -404,7 +404,7 @@ May the All-gods rejoice herein.
 </details>
 <details><summary>मूलम्</summary>
 
-मनो॒ ज्योति॑र्जुषता॒माज्य॒व्ँविच्छि॑न्नय्ँय॒ज्ञꣳ समि॒मन्द॑धातु ।  
+मनो॒ ज्योति॑र्जुषता॒माज्य॒व्ँविच्छि॑न्नय्ँय॒ज्ञँ समि॒मन्द॑धातु ।  
 बृह॒स्पति॑स्तनुतामि॒मन्नो॒ विश्वे॑ दे॒वा इ॒ह मा॑दयन्ताम्  ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>

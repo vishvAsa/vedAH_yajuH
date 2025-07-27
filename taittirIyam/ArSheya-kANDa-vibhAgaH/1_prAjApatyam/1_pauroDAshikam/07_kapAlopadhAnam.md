@@ -60,7 +60,7 @@ ____
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-निष् क्र॒व्यादꣳ॑ से॒ध+++(=गमय)+++ ।
+निष् क्र॒व्यादँ॑ से॒ध+++(=गमय)+++ ।
 </details>
 <details><summary>Keith</summary>
 
@@ -68,7 +68,7 @@ send away the corpse-eating one
 </details>
 <details><summary>मूलम्</summary>
 
-निष्क्र॒व्यादꣳ॑ से॒ध ।
+निष्क्र॒व्यादँ॑ से॒ध ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -109,7 +109,7 @@ ____
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-निर्द॑ग्ध॒ꣳ॒ रक्षो॒,  
+निर्द॑ग्ध॒ँ॒ रक्षो॒,  
 निर्द॑ग्धा॒ अरा॑तयः ।
 </details>
 <details><summary>Keith</summary>
@@ -119,7 +119,7 @@ The Raksas is burnt, the evil spirits are burnt.
 </details>
 <details><summary>मूलम्</summary>
 
-निर्द॑ग्ध॒ꣳ॒ रक्षो॒ निर्द॑ग्धा॒ अरा॑तयः ।
+निर्द॑ग्ध॒ँ॒ रक्षो॒ निर्द॑ग्धा॒ अरा॑तयः ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -147,9 +147,9 @@ ____
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(पुरोडाशस्य)+++ ध्रु॒वम् अ॑सि ।  
-पृ॒थि॒वीन् दृꣳ॑ह।  
-आयु॑र् दृꣳह ।  
-प्र॒जान् दृꣳ॑ह ।  
+पृ॒थि॒वीन् दृँ॑ह।  
+आयु॑र् दृँह ।  
+प्र॒जान् दृँ॑ह ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -157,14 +157,14 @@ Thou art firm; make firm the earth, make life firm, make offspring firm,
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-ध्रु॒वम॑सि पृथि॒वीन्दृ॒ꣳ॒हायु॑र्दृꣳह प्र॒जान्दृꣳ॑ह सजा॒तान॒स्मै यज॑मानाय॒ पर्यू॑ह
+ध्रु॒वम॑सि पृथि॒वीन्दृ॒ँ॒हायु॑र्दृँह प्र॒जान्दृँ॑ह सजा॒तान॒स्मै यज॑मानाय॒ पर्यू॑ह
 </details>
 <details><summary>मूलम्</summary>
 
 ध्रु॒वम् अ॑सि ।  
-पृ॒थि॒वीन् दृꣳ॑ह।  
-आयु॑र् दृꣳह ।  
-प्र॒जान् दृꣳ॑ह ।
+पृ॒थि॒वीन् दृँ॑ह।  
+आयु॑र् दृँह ।  
+प्र॒जान् दृँ॑ह ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -209,9 +209,9 @@ ____
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(पुरोडाशस्य)+++ ध॒र्त्रम्+++(=धारकम्)+++ अ॑सि ।    
-अ॒न्तरि॑क्षन् दृꣳह ।    
-प्रा॒णन् दृꣳ॑ह ।  
-अपा॒नन् दृꣳ॑ह ।   
+अ॒न्तरि॑क्षन् दृँह ।    
+प्रा॒णन् दृँ॑ह ।  
+अपा॒नन् दृँ॑ह ।   
 </details>
 <details><summary>Keith</summary>
 
@@ -219,14 +219,14 @@ Thou art a supporter, make firm the atmosphere, make expiration firm, make inspi
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-ध॒र्त्रम॑स्य॒न्तरि॑क्षन्दृꣳह प्रा॒णन्दृꣳ॑हापा॒नन्दृꣳ॑ह सजा॒तान॒स्मै यज॑मानाय॒ पर्यू॑ह
+ध॒र्त्रम॑स्य॒न्तरि॑क्षन्दृँह प्रा॒णन्दृँ॑हापा॒नन्दृँ॑ह सजा॒तान॒स्मै यज॑मानाय॒ पर्यू॑ह
 </details>
 <details><summary>मूलम्</summary>
 
 ध॒र्त्रम॑सि ।    
-अ॒न्तरि॑क्षन्दृꣳह ।    
-प्रा॒णन्दृꣳ॑ह ।  
-अपा॒नन्दृꣳ॑ह ।
+अ॒न्तरि॑क्षन्दृँह ।    
+प्रा॒णन्दृँ॑ह ।  
+अपा॒नन्दृँ॑ह ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -268,9 +268,9 @@ ____
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(पुरोडाशस्य)+++ ध॒रुण॑म्+++(=धारकम्)+++ असि ।  
-दिव॑न् दृꣳह ।  
-चक्षु॑र् दृꣳह ।  
-श्रोत्र॑न् दृꣳह ।  
+दिव॑न् दृँह ।  
+चक्षु॑र् दृँह ।  
+श्रोत्र॑न् दृँह ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -278,14 +278,14 @@ Thou are supporting, make the heaven firm, make the eye [1] firm, make the ear f
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-ध॒रुण॑मसि॒ दिव॑न्दृꣳह॒ चक्षुः॑ [10]दृ॒ꣳ॒ह॒ श्रोत्र॑न्दृꣳह सजा॒तान॒स्मै यज॑मानाय॒ पर्यू॑ह
+ध॒रुण॑मसि॒ दिव॑न्दृँह॒ चक्षुः॑ [10]दृ॒ँ॒ह॒ श्रोत्र॑न्दृँह सजा॒तान॒स्मै यज॑मानाय॒ पर्यू॑ह
 </details>
 <details><summary>मूलम्</summary>
 
 ध॒रुण॑मसि ।  
-दिव॑न्दृꣳह ।  
-चक्षु॑र्दृꣳह ।  
-श्रोत्र॑न्दृꣳह ।
+दिव॑न्दृँह ।  
+चक्षु॑र्दृँह ।  
+श्रोत्र॑न्दृँह ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -324,9 +324,9 @@ ____
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धर्मा॑+++(=धारकम्)+++ ऽसि ।  
-दिशो॑ दृꣳह ।  
-योनि॑न् दृꣳह।  
-प्र॒जान् दृꣳ॑ह ।  
+दिशो॑ दृँह ।  
+योनि॑न् दृँह।  
+प्र॒जान् दृँ॑ह ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -335,14 +335,14 @@ Thou art a support, make the quarters firm, make the organ firm, make offspring 
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-धर्मा॑ऽसि॒ दिशो॑ दृꣳह॒ योनि॑न्दृꣳह प्र॒जान्दृꣳ॑ह सजा॒तान॒स्मै यज॑मानाय॒ पर्यू॑ह-
+धर्मा॑ऽसि॒ दिशो॑ दृँह॒ योनि॑न्दृँह प्र॒जान्दृँ॑ह सजा॒तान॒स्मै यज॑मानाय॒ पर्यू॑ह-
 </details>
 <details><summary>मूलम्</summary>
 
 धर्मा॑ऽसि ।  
-दिशो॑ दृꣳह ।  
-योनि॑न्दृꣳह।  
-प्र॒जान्दृꣳ॑ह ।
+दिशो॑ दृँह ।  
+योनि॑न्दृँह।  
+प्र॒जान्दृँ॑ह ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

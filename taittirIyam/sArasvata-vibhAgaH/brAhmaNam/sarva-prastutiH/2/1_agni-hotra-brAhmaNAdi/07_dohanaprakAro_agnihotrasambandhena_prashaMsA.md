@@ -118,12 +118,12 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मै॒त्रꣳ शरः॑ ।
+मै॒त्रँ शरः॑ ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-मै॒त्रꣳ शरः॑ ।
+मै॒त्रँ शरः॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -164,14 +164,14 @@ unicode_script: devanagari
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स॒वि॒तुᳶ प्रक्रा॑न्तम् ।
-द्या॒वा॒पृ॒थि॒व्यꣵ॑ ह्रि॒यमा॑णम् ।
+द्या॒वा॒पृ॒थि॒व्यँ॑ ह्रि॒यमा॑णम् ।
 ऐ॒न्द्रा॒ग्नमुप॑सन्नम् ।
 </details>
 
 <details><summary>मूलम्</summary>
 
 स॒वि॒तुᳶ प्रक्रा॑न्तम् ।
-द्या॒वा॒पृ॒थि॒व्यꣵ॑ ह्रि॒यमा॑णम् ।
+द्या॒वा॒पृ॒थि॒व्यँ॑ ह्रि॒यमा॑णम् ।
 ऐ॒न्द्रा॒ग्नमुप॑सन्नम् ।
 </details>
 
@@ -229,12 +229,12 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऐ॒न्द्रꣳ हु॒तम् ॥50॥  
+ऐ॒न्द्रँ हु॒तम् ॥50॥  
 </details>
 
 <details><summary>मूलम्</summary>
 
-ऐ॒न्द्रꣳ हु॒तम् ॥50॥  
+ऐ॒न्द्रँ हु॒तम् ॥50॥  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

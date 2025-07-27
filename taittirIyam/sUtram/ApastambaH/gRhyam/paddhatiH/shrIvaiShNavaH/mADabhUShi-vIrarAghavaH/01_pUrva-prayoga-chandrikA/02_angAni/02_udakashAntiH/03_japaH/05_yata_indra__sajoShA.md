@@ -32,7 +32,7 @@ title = "०५ 'यत इन्द्र'"
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/42_ShoDashigrahaH/01_mahAM_indro.md">
 <details open><summary><h4>01 महां इन्द्रो ...{Loading}...</h4></summary>
 
-म॒हाꣳ इन्द्रो॒ वज्र॑बाहुष्  
+म॒हाँ इन्द्रो॒ वज्र॑बाहुष्  
 षोड॒शी **शर्म॑ यच्छतु** ।  
 **स्व॒स्ति** नो॑ म॒घवा॑ **करोतु॒**  
 **हन्तु॑** पा॒प्मान॒य्ँ यो॑ऽस्मान् द्वेष्टि॑ ॥

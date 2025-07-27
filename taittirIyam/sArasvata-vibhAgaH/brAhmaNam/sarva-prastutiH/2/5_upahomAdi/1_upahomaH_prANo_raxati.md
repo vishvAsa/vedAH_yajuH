@@ -103,7 +103,7 @@ unicode_script = "devanagari"
 <details open><summary><h2>04 आ न ...{Loading}...</h2></summary>
 
 आ न॑ **एतु** पुरश् च॒रम् ।  
-स॒ह दे॒वैर् इ॒मꣳ हव॑म्+++(=आह्वानम्)+++ ।  
+स॒ह दे॒वैर् इ॒मँ हव॑म्+++(=आह्वानम्)+++ ।  
 मन॒श् श्रेय॑सिश्रेयसि ।  
 कर्म॑न्+++(→णि)+++ य॒ज्ञ-प॑ति॒न् **दध॑त्** ।+++(5)+++
 
@@ -114,7 +114,7 @@ unicode_script = "devanagari"
 <details><summary>मूलम्</summary>
 
 आ न॑ एतु पुरश्च॒रम् ।  
-स॒ह दे॒वैरि॒मꣳ हव॑म् ।  
+स॒ह दे॒वैरि॒मँ हव॑म् ।  
 मन॒श्श्रेय॑सिश्रेयसि ।  
 कर्म॑न्य॒ज्ञप॑ति॒न्दध॑त् ।            
 
@@ -131,7 +131,7 @@ unicode_script = "devanagari"
 <div class="js_include" includetitle="false" newlevelforh1="2" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/1/05_juShatAmme_vAgidam.md">
 <details open><summary><h2>05 जुषताम्मे वागिदम् ...{Loading}...</h2></summary>
 
-**जु॒षता॑म्** मे॒ वाग् इ॒दꣳ ह॒विः ।  
+**जु॒षता॑म्** मे॒ वाग् इ॒दँ ह॒विः ।  
 वि॒राड् दे॒वी पु॒रोहि॑ता ।  
 ह॒व्य॒-वाड् **अन॑पायिनी** ।
 
@@ -141,7 +141,7 @@ unicode_script = "devanagari"
 <details open><summary><h2>05 जुषताम्मे वागिदम् ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
-जु॒षता॑म्मे॒ वागि॒दꣳ ह॒विः ।  
+जु॒षता॑म्मे॒ वागि॒दँ ह॒विः ।  
 वि॒राड्दे॒वी पु॒रोहि॑ता ।  
 ह॒व्य॒वाडन॑पायिनी ।
 
@@ -159,9 +159,9 @@ unicode_script = "devanagari"
 <details open><summary><h2>06 यया रूपाणि ...{Loading}...</h2></summary>
 
 यया॑ रू॒पाणि॑ बहु॒धा **वद॑न्ति** ।  
-पेशाꣳ॑सि दे॒वाᳶ प॑र॒मे ज॒नित्रे॑ ।          
+पेशाँ॑सि दे॒वाᳶ प॑र॒मे ज॒नित्रे॑ ।          
 सा नो॑ वि॒राड् **अन॑पस्फुरन्ती** ॥2॥                   
-वाग्-दे॒वी **जु॑षताम्** इ॒दꣳ ह॒विः ।  
+वाग्-दे॒वी **जु॑षताम्** इ॒दँ ह॒विः ।  
 
 </details>
 </div>
@@ -170,9 +170,9 @@ unicode_script = "devanagari"
 <details><summary>मूलम्</summary>
 
 यया॑ रू॒पाणि॑ बहु॒धा वद॑न्ति ।  
-पेशाꣳ॑सि दे॒वाᳶ प॑र॒मे ज॒नित्रे॑ ।          
+पेशाँ॑सि दे॒वाᳶ प॑र॒मे ज॒नित्रे॑ ।          
 सा नो॑ वि॒राडन॑पस्फुरन्ती ॥2॥                          
-वाग्दे॒वी जु॑षतामि॒दꣳ ह॒विः ।  
+वाग्दे॒वी जु॑षतामि॒दँ ह॒विः ।  
 
 </details>
 <details><summary>सायणटीका</summary>

@@ -130,7 +130,7 @@ The gods milked the sacrifice,
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य॒ज्ञोऽसु॑राꣳ अदुहत् ।  
+य॒ज्ञोऽसु॑राँ अदुहत् ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -138,7 +138,7 @@ the sacrifice milked the Asuras;
 </details>
 <details><summary>मूलम्</summary>
 
-य॒ज्ञोऽसु॑राꣳ अदुहत् ।  
+य॒ज्ञोऽसु॑राँ अदुहत् ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -498,8 +498,8 @@ the gods united it by the holy power (Brahman)-
 
 "बृह॒स्पति॑स् तनुताम् इ॒मन् न॒" इत्य् आ॑ह ।  
 ब्रह्म॒ वै दे॒वाना॒म् बृह॒स्पतिः॑ ।  
-ब्रह्म॑णै॒व य॒ज्ञꣳ सन्द॑धाति ।  
-"विच्छि॑न्नय्ँ य॒ज्ञꣳ सम् इ॒मन् द॑धा॒त्व्" इत्या॑ह॒ सन्त॑त्यै ।  
+ब्रह्म॑णै॒व य॒ज्ञँ सन्द॑धाति ।  
+"विच्छि॑न्नय्ँ य॒ज्ञँ सम् इ॒मन् द॑धा॒त्व्" इत्या॑ह॒ सन्त॑त्यै ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -512,8 +512,8 @@ verily by the holy power (Brahman) he unites the sacrifice-
 
 बृह॒स्पति॑स्तनुतामि॒मन्न॒ इत्या॑ह ।  
 ब्रह्म॒ वै दे॒वाना॒म्बृह॒स्पतिः॑ ।  
-ब्रह्म॑णै॒व य॒ज्ञꣳ सन्द॑धाति ।  
-विच्छि॑न्नय्ँय॒ज्ञꣳ समि॒मन्द॑धा॒त्वित्या॑ह॒ सन्त॑त्यै ।  
+ब्रह्म॑णै॒व य॒ज्ञँ सन्द॑धाति ।  
+विच्छि॑न्नय्ँय॒ज्ञँ समि॒मन्द॑धा॒त्वित्या॑ह॒ सन्त॑त्यै ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

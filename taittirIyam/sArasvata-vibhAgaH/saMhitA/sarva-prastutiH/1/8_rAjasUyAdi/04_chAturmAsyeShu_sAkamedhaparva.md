@@ -19,7 +19,7 @@ title = "०४ चातुर्मास्येषु साकमेधप
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ॒ग्नये ऽनी॑कवते +++(→सूर्याय)+++  
-पुरो॒डाश॑म् अ॒ष्टाक॑पाल॒न् निर्व॑पति, सा॒कꣳ सूर्ये॑णोद्य॒ता …  
+पुरो॒डाश॑म् अ॒ष्टाक॑पाल॒न् निर्व॑पति, सा॒कँ सूर्ये॑णोद्य॒ता …  
 </details>
 <details><summary>Keith</summary>
 
@@ -27,7 +27,7 @@ To Agni Anikavant he offers a cake on eight potsherds as the sun rises,
 </details>
 <details><summary>मूलम्</summary>
 
-अ॒ग्नयेऽनी॑कवते पुरो॒डाश॑म॒ष्टाक॑पाल॒न्निर्व॑पति सा॒कꣳ सूर्ये॑णोद्य॒ता …  
+अ॒ग्नयेऽनी॑कवते पुरो॒डाश॑म॒ष्टाक॑पाल॒न्निर्व॑पति सा॒कँ सूर्ये॑णोद्य॒ता …  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -68,7 +68,7 @@ and to the Maruts as lords of the house he milks at evening an oblation of all (
 पू॒र्णा द॑र्वि॒ परा॑ पत॒  
 सुपू॑र्णा॒ पुन॒र् आप॑त ।   
 व॒स्नेव॒+++(=वसुनेव)+++ वि क्री॑णावहा॒  
-इष॒म् ऊर्जꣳ॑ शत-क्रतो  ॥
+इष॒म् ऊर्जँ॑ शत-क्रतो  ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/04_chAturmAsyeShu_sAkamedhaparva/02_pUrNA_darvi.md">
@@ -83,7 +83,7 @@ Let us barter food and strength.
 <details><summary>मूलम्</summary>
 
 पू॒र्णा द॑र्वि॒ परा॑ पत॒ सुपू॑र्णा॒ पुन॒राप॑त ।   
-व॒स्नेव॒ वि क्री॑णावहा॒ इष॒मूर्जꣳ॑ शतक्रतो  ॥
+व॒स्नेव॒ वि क्री॑णावहा॒ इष॒मूर्जँ॑ शतक्रतो  ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -132,8 +132,8 @@ I shall accept thy offering [1].
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-म॒रुद्भ्य॑ᳵ क्री॒डिभ्यᳶ॑ पुरो॒डाशꣳ॑ स॒प्तक॑पाल॒न् निर्व॑पति,  
-सा॒कꣳ सूर्ये॑णोद्य॒ता ।
+म॒रुद्भ्य॑ᳵ क्री॒डिभ्यᳶ॑ पुरो॒डाशँ॑ स॒प्तक॑पाल॒न् निर्व॑पति,  
+सा॒कँ सूर्ये॑णोद्य॒ता ।
 </details>
 <details><summary>Keith</summary>
 
@@ -141,7 +141,7 @@ To the Maruts, the playful, he offers a cake on seven potsherds at the rising of
 </details>
 <details><summary>मूलम्</summary>
 
-म॒रुद्भ्य॑ᳵ क्री॒डिभ्यᳶ॑ पुरो॒डाशꣳ॑ स॒प्तक॑पाल॒न्निर्व॑पति सा॒कꣳ सूर्ये॑णोद्य॒ता ।
+म॒रुद्भ्य॑ᳵ क्री॒डिभ्यᳶ॑ पुरो॒डाशँ॑ स॒प्तक॑पाल॒न्निर्व॑पति सा॒कँ सूर्ये॑णोद्य॒ता ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -174,7 +174,7 @@ to Viśvakarman on eleven potsherds.
 </details>
 <details><summary>मूलम्</summary>
 
-आग्ने॒यम॒ष्टाक॑पाल॒न्निर्व॑पति सौ॒म्यञ्च॒रुꣳ सा॑वि॒त्रन्द्वाद॑शकपालꣳ सारस्व॒तञ्च॒रुम्पौ॒ष्णञ्च॒रुमै॑न्द्रा॒ग्नमेका॑दशकपालमै॒न्द्रञ्च॒रुव्ँवै॑श्वकर्म॒णमेक॑कपालम् ॥
+आग्ने॒यम॒ष्टाक॑पाल॒न्निर्व॑पति सौ॒म्यञ्च॒रुँ सा॑वि॒त्रन्द्वाद॑शकपालँ सारस्व॒तञ्च॒रुम्पौ॒ष्णञ्च॒रुमै॑न्द्रा॒ग्नमेका॑दशकपालमै॒न्द्रञ्च॒रुव्ँवै॑श्वकर्म॒णमेक॑कपालम् ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

@@ -46,7 +46,7 @@ ____
 <details open><summary><h2>प्रत्युष्टं रक्षः ...{Loading}...</h2></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रत्यु॑ष्ट॒ꣳ॒ रक्ष॒ᳶ, प्रत्यु॑ष्टा॒ अरा॑तयः+++(=अदातारः)+++।
+प्रत्यु॑ष्ट॒ँ॒ रक्ष॒ᳶ, प्रत्यु॑ष्टा॒ अरा॑तयः+++(=अदातारः)+++।
 </details>
 <details><summary>Keith</summary>
 
@@ -55,11 +55,11 @@ The Raksas is burned up, the evil spirits are burned up.
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-प्रत्यु॑ष्ट॒ꣳ॒ रक्ष॒ᳶ प्रत्यु॑ष्टा॒ अरा॑तयः
+प्रत्यु॑ष्ट॒ँ॒ रक्ष॒ᳶ प्रत्यु॑ष्टा॒ अरा॑तयः
 </details>
 <details><summary>मूलम्</summary>
 
-प्रत्यु॑ष्ट॒ꣳ॒ रक्षः॑ ।  
+प्रत्यु॑ष्ट॒ँ॒ रक्षः॑ ।  
 प्रत्यु॑ष्टा॒ अरा॑तयः ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -332,7 +332,7 @@ O divine straw, rise with a hundred shoots,
 <details open><summary><h5>सहस्र-वल्शाः ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒हस्र॑-वल्शाः॒+++(=प्ररोहाः)+++ वि व॒यꣳ रु॑हेम ।
+स॒हस्र॑-वल्शाः॒+++(=प्ररोहाः)+++ वि व॒यँ रु॑हेम ।
 </details>
 <details><summary>Keith</summary>
 
@@ -340,7 +340,7 @@ Let us rise with a thousand shoots.
 </details>
 <details><summary>मूलम्</summary>
 
-स॒हस्र॑वल्शाः॒ [2] विव॒यꣳ रु॑हेम ।
+स॒हस्र॑वल्शाः॒ [2] विव॒यँ रु॑हेम ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -456,7 +456,7 @@ ____
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ॒न्द्रा॒ण्यै+++(→ण्याः)+++ स॒न्नह॑नम् +++(= शुल्बान्तयोस्संश्लेषणम् एव)+++ ।  
-+++(इ॒न्द्रा॒णी वा अग्रे॑ दे॒वता॑ना॒ꣳ॒ सम॑नह्यत । साऽऽर्ध्नो॑त् । स्नाव॑-सन्तताᳶ प्र॒जा जा॑यन्ते।)+++
++++(इ॒न्द्रा॒णी वा अग्रे॑ दे॒वता॑ना॒ँ॒ सम॑नह्यत । साऽऽर्ध्नो॑त् । स्नाव॑-सन्तताᳶ प्र॒जा जा॑यन्ते।)+++
 </details>
 <details><summary>Keith</summary>
 

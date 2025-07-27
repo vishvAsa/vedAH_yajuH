@@ -47,17 +47,17 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-यन्न॒स्तः ।  स सि॒ꣳ॒हः ।   
+यन्न॒स्तः ।  स सि॒ँ॒हः ।   
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यन्न॒स्तस् स सि॒ꣳ॒हः ।   
+यन्न॒स्तस् स सि॒ँ॒हः ।   
 </details>
 
 <details><summary>मूलम्</summary>
 
-यन्न॒स्तस् स सि॒ꣳ॒हः ।   
+यन्न॒स्तस् स सि॒ँ॒हः ।   
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -474,7 +474,7 @@ unicode_script: devanagari
 वाग्वै सर॑स्वती ।   
 वा॒चैवैन॑म्भिषज्यति ।
 
-ऐ॒न्द्रमृ॑ष॒भꣳ से॑न्द्र॒त्वाय॑ ॥20॥  
+ऐ॒न्द्रमृ॑ष॒भँ से॑न्द्र॒त्वाय॑ ॥20॥  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -487,7 +487,7 @@ unicode_script: devanagari
 वाग्वै सर॑स्वती ।   
 वा॒चैवैन॑म्भिषज्यति ।
 
-ऐ॒न्द्रमृ॑ष॒भꣳ से॑न्द्र॒त्वाय॑ ॥20॥  
+ऐ॒न्द्रमृ॑ष॒भँ से॑न्द्र॒त्वाय॑ ॥20॥  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

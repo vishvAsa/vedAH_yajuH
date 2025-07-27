@@ -29,7 +29,7 @@ title = "२३ आपः पुनन्तु"
 यदुच्छि॑ष्ट॒म् अभो॑ज्य॒य्ँ  
 यद्वा॑ दु॒श्चरि॑तं॒ मम॑ ।  
 सर्वं॑ पुनन्तु॒ मामापो॑  
-ऽस॒ताञ्च॑ प्रति॒ग्रह॒ꣳ॒ स्वाहा॑ ॥ (38)
+ऽस॒ताञ्च॑ प्रति॒ग्रह॒ँ॒ स्वाहा॑ ॥ (38)
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/23_ApaH_punantu/03_yaduchChiShTam_abhojyay.N.md">
@@ -39,7 +39,7 @@ title = "२३ आपः पुनन्तु"
 यदुच्छि॑ष्ट॒म् अभो॑ज्य॒य्ँ  
 यद्वा॑ दु॒श्चरि॑तं॒ मम॑ ।  
 सर्वं॑ पुनन्तु॒ मामापो॑  
-ऽस॒ताञ्च॑ प्रति॒ग्रह॒ꣳ॒ स्वाहा॑ ॥ (38)
+ऽस॒ताञ्च॑ प्रति॒ग्रह॒ँ॒ स्वाहा॑ ॥ (38)
 </details>
 </details>
 </div>

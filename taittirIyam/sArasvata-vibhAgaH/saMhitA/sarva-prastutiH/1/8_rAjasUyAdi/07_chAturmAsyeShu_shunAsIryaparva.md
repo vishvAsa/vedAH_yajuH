@@ -28,7 +28,7 @@ title = "०७ चातुर्मास्येषु शुनासीर
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-ऐ॒न्द्रा॒ग्नन्द्वाद॑शकपालव्ँवैश्वदे॒वञ्च॒रुमिन्द्रा॑य॒ शुना॒सीरा॑य पुरो॒डाश॒न्द्वाद॑शकपालव्ँवाय॒व्य॑म्पय॑स्सौ॒र्यमेक॑कपालन्द्वादशग॒वꣳ सीर॒न्दक्षि॑णाऽऽग्ने॒यम॒ष्टाक॑पाल॒न्निर्व॑पति रौ॒द्रङ्गा॑वीधु॒कञ्च॒रुमै॒न्द्रन्दधि॑ वारु॒णय्ँय॑व॒मय॑ञ्च॒रुव्ँव॒हिनी॑ धे॒नुर्दक्षि॑णा
+ऐ॒न्द्रा॒ग्नन्द्वाद॑शकपालव्ँवैश्वदे॒वञ्च॒रुमिन्द्रा॑य॒ शुना॒सीरा॑य पुरो॒डाश॒न्द्वाद॑शकपालव्ँवाय॒व्य॑म्पय॑स्सौ॒र्यमेक॑कपालन्द्वादशग॒वँ सीर॒न्दक्षि॑णाऽऽग्ने॒यम॒ष्टाक॑पाल॒न्निर्व॑पति रौ॒द्रङ्गा॑वीधु॒कञ्च॒रुमै॒न्द्रन्दधि॑ वारु॒णय्ँय॑व॒मय॑ञ्च॒रुव्ँव॒हिनी॑ धे॒नुर्दक्षि॑णा
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -53,7 +53,7 @@ a cake on twelve potsherds to Indra Śunasira,
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वा॒य॒व्य॑म् पय॑स्, सौ॒र्यम् एक॑कपालम्   +++(निर्वपति)+++   
-द्वादशग॒वꣳ सीर॒न्+++(=हलम्)+++ दक्षि॑णा।
+द्वादशग॒वँ सीर॒न्+++(=हलम्)+++ दक्षि॑णा।
 </details>
 <details><summary>Keith</summary>
 
@@ -63,7 +63,7 @@ the sacrificial fee is a plough for twelve oxen.
 <details><summary>मूलम्</summary>
 
 वा॒य॒व्य॑म्पय॑स्सौ॒र्यमेक॑कपालम्   +++(निर्वपति)+++   
-द्वादशग॒वꣳ सीर॒न्दक्षि॑णा।
+द्वादशग॒वँ सीर॒न्दक्षि॑णा।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -268,8 +268,8 @@ that sit above, led by Brhaspati; that slay the Raksases; may they protect us, m
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-समू॑ढ॒ꣳ॒ रक्षः॑ ।  
-सन्द॑ग्ध॒ꣳ॒ रक्षः॑ ।   
+समू॑ढ॒ँ॒ रक्षः॑ ।  
+सन्द॑ग्ध॒ँ॒ रक्षः॑ ।   
 </details>
 <details><summary>Keith</summary>
 
@@ -277,12 +277,12 @@ The Raksases are collected, the Raksases are burnt up;
 </details>
 <details><summary>मूलम्</summary>
 
-समू॑ढ॒ꣳ॒ रक्षः॑ ।  
-सन्द॑ग्ध॒ꣳ॒ रक्षः॑ ।   
+समू॑ढ॒ँ॒ रक्षः॑ ।  
+सन्द॑ग्ध॒ँ॒ रक्षः॑ ।   
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-समू॑ढ॒ꣳ॒ रक्ष॒स्सन्द॑ग्ध॒ꣳ॒ रक्ष॑ इ॒दम॒हꣳ रक्षो॒ऽभि सन्द॑हामि
+समू॑ढ॒ँ॒ रक्ष॒स्सन्द॑ग्ध॒ँ॒ रक्ष॑ इ॒दम॒हँ रक्षो॒ऽभि सन्द॑हामि
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -290,7 +290,7 @@ The Raksases are collected, the Raksases are burnt up;
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒दम॒हꣳ रक्षो॒ऽभि सन्द॑हामि ।  
+इ॒दम॒हँ रक्षो॒ऽभि सन्द॑हामि ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -298,7 +298,7 @@ here do I burn up the Raksases.
 </details>
 <details><summary>मूलम्</summary>
 
-इ॒दम॒हꣳ रक्षो॒ऽभि सन्द॑हामि ।  
+इ॒दम॒हँ रक्षो॒ऽभि सन्द॑हामि ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -443,7 +443,7 @@ I offer (for) the death of the Raksases;
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ह॒तꣳ रक्षः॑ ।
+ह॒तँ रक्षः॑ ।
 </details>
 <details><summary>Keith</summary>
 
@@ -451,7 +451,7 @@ the Raksases are slain
 </details>
 <details><summary>मूलम्</summary>
 
-ह॒तꣳ रक्षः॑ ।
+ह॒तँ रक्षः॑ ।
 </details>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 

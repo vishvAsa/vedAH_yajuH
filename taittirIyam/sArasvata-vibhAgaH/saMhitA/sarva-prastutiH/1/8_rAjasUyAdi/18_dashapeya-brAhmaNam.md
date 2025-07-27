@@ -79,7 +79,7 @@ A hundred Brahmans drink.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒प्त॒द॒शꣵं  स्तो॒त्रम्भ॑वति ।
+स॒प्त॒द॒शँं  स्तो॒त्रम्भ॑वति ।
 </details>
 <details><summary>Keith</summary>
 
@@ -87,7 +87,7 @@ The Stotra is the Saptadaśa.
 </details>
 <details><summary>मूलम्</summary>
 
-स॒प्त॒द॒शꣵं  स्तो॒त्रम्भ॑वति ।
+स॒प्त॒द॒शँं  स्तो॒त्रम्भ॑वति ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -127,7 +127,7 @@ the garland to the Udgatr,
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रु॒क्मꣳ+++(←रुच्)+++ होत्रे॑   +++(ददाति)+++ ।
+रु॒क्मँ+++(←रुच्)+++ होत्रे॑   +++(ददाति)+++ ।
 </details>
 <details><summary>Keith</summary>
 
@@ -135,7 +135,7 @@ the round ornament to the Hotr,
 </details>
 <details><summary>मूलम्</summary>
 
-रु॒क्मꣳ होत्रे॑   +++(ददाति)+++ ।
+रु॒क्मँ होत्रे॑   +++(ददाति)+++ ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -192,7 +192,7 @@ a cow to the Maitravaruna,
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऋ॒ष॒भम् ब्रा॑ह्मणाच्छ॒ꣳ॒सिने॑   +++(ददाति)+++ ।
+ऋ॒ष॒भम् ब्रा॑ह्मणाच्छ॒ँ॒सिने॑   +++(ददाति)+++ ।
 </details>
 <details><summary>Keith</summary>
 
@@ -200,7 +200,7 @@ a bull to the Brahmanacchansin,
 </details>
 <details><summary>मूलम्</summary>
 
-ऋ॒ष॒भम्ब्रा॑ह्मणाच्छ॒ꣳ॒सिने॑   +++(ददाति)+++ ।
+ऋ॒ष॒भम्ब्रा॑ह्मणाच्छ॒ँ॒सिने॑   +++(ददाति)+++ ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

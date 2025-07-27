@@ -196,14 +196,14 @@ May life accord with the sacrifice, may expiration accord with the sacrifice, ma
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-सुव॑र्दे॒वाꣳ अ॑गन्मा॒मृता॑ अभूम प्र॒जाप॑तेᳶ प्र॒जा अ॑भूम॒ सम॒हम्प्र॒जया॒ सम्मया॑ प्र॒जा </details>
+सुव॑र्दे॒वाँ अ॑गन्मा॒मृता॑ अभूम प्र॒जाप॑तेᳶ प्र॒जा अ॑भूम॒ सम॒हम्प्र॒जया॒ सम्मया॑ प्र॒जा </details>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 17आरुह्य बाहू उद्गृह्णाति - सुवरिति ॥ 
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सुव॑र् दे॒वाꣳ अ॑गन् ।  
+सुव॑र् दे॒वाँ अ॑गन् ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -211,7 +211,7 @@ We have come to the heaven, to the gods;
 </details>
 <details><summary>मूलम्</summary>
 
-सुव॑र्दे॒वाꣳ अ॑गन् ।  
+सुव॑र्दे॒वाँ अ॑गन् ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -300,7 +300,7 @@ __________
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सम॒हꣳ रा॒यस्पोषे॑ण  +++(भूयासम्)+++  ।
+सम॒हँ रा॒यस्पोषे॑ण  +++(भूयासम्)+++  ।
 </details>
 <details><summary>Keith</summary>
 
@@ -308,7 +308,7 @@ May I be united with increase of wealth,
 </details>
 <details><summary>मूलम्</summary>
 
-सम॒हꣳ रा॒यस्पोषे॑ण  +++(भूयासम्)+++  ।
+सम॒हँ रा॒यस्पोषे॑ण  +++(भूयासम्)+++  ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

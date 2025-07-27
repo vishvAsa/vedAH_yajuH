@@ -10,7 +10,7 @@ title = "०९ रत्निहविर्ब्राह्मणादि"
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-बा॒र्ह॒स्प॒त्यञ्च॒रुन्निर्व॑पति ब्र॒ह्मणो॑ गृ॒हे शि॑तिपृ॒ष्ठो दक्षि॑णै॒न्द्रमेका॑दशकपालꣳ राज॒न्य॑स्य गृ॒ह ऋ॑ष॒भो दक्षि॑णा ऽऽदि॒त्यञ्च॒रुम्महि॑ष्यै गृ॒हे धे॒नुर्दक्षि॑णा 
+बा॒र्ह॒स्प॒त्यञ्च॒रुन्निर्व॑पति ब्र॒ह्मणो॑ गृ॒हे शि॑तिपृ॒ष्ठो दक्षि॑णै॒न्द्रमेका॑दशकपालँ राज॒न्य॑स्य गृ॒ह ऋ॑ष॒भो दक्षि॑णा ऽऽदि॒त्यञ्च॒रुम्महि॑ष्यै गृ॒हे धे॒नुर्दक्षि॑णा 
 </details>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -158,7 +158,7 @@ To Varuna (he offers) on ten potsherds in the house of the minstrel; the sacrifi
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मा॒रु॒तꣳ स॒प्तक॑पालम् 
+मा॒रु॒तँ स॒प्तक॑पालम् 
 ग्राम॒ण्यो॑ गृ॒हे   +++(निर्व॑प॒ति)+++।  
 पृश्ञि॒र् दक्षि॑णा ।
 </details>
@@ -168,7 +168,7 @@ To the Maruts (he offers) on seven potsherds in the house of the village headman
 </details>
 <details><summary>मूलम्</summary>
 
-मा॒रु॒तꣳ स॒प्तक॑पालम्   
+मा॒रु॒तँ स॒प्तक॑पालम्   
 ग्राम॒ण्यो॑ गृ॒हे   +++(निर्व॑प॒ति)+++।  
 
 पृश्ञि॒र्दक्षि॑णा ।
@@ -272,7 +272,7 @@ To Rudra (he offers) an oblation of Gavidhuka in the house of the thrower of the
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन्द्रा॑य सु॒-त्राम्णे॑ पुरो॒डाश॒म् एका॑दशकपाल॒म् प्रति॒ निर्व॑प॒ति+   
-इन्द्रा॑याꣳहो॒मुचे॒ +++(चानेन मन्त्रेण - )+++  
+इन्द्रा॑याँहो॒मुचे॒ +++(चानेन मन्त्रेण - )+++  
 +++(केचिदृषभं दक्षिणामाहुः ॥)+++
 </details>
 <details><summary>Keith</summary>
@@ -281,7 +281,7 @@ To Indra, the good protector, he offers a cake on eleven potsherds and to Indra,
 </details>
 <details><summary>मूलम्</summary>
 
-इन्द्रा॑य सु॒त्राम्णे॑ पुरो॒डाश॒मेका॑दशकपाल॒म्प्रति॒ निर्व॑प॒तीन्द्रा॑याꣳहो॒मुचे
+इन्द्रा॑य सु॒त्राम्णे॑ पुरो॒डाश॒मेका॑दशकपाल॒म्प्रति॒ निर्व॑प॒तीन्द्रा॑याँहो॒मुचे
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -379,7 +379,7 @@ in a dish of Aśvattha wood [2] with four corners (made) of a branch which has f
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-क॒र्णाꣳश् चाक॑र्णाꣳश्+++(=निष्फलीकृताः)+++ च तण्डु॒लान् वि चि॑नुयात् ।  
+क॒र्णाँश् चाक॑र्णाँश्+++(=निष्फलीकृताः)+++ च तण्डु॒लान् वि चि॑नुयात् ।  
 </details>
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -387,7 +387,7 @@ he should scatter husked and unhusked rice grains;
 </details>
 <details><summary>मूलम्</summary>
 
-क॒र्णाꣳश्चाक॑र्णाꣳश्च तण्डु॒लान् वि चि॑नुयात् ।  
+क॒र्णाँश्चाक॑र्णाँश्च तण्डु॒लान् वि चि॑नुयात् ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

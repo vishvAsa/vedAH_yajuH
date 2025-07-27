@@ -34,7 +34,7 @@ _______
 
 रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने।  
 पिपृ॒हि मा॑।  
-मा मा॑ हिꣳसीः।
+मा मा॑ हिँसीः।
 </details>
 <details><summary>Keith</summary>
 
@@ -44,7 +44,7 @@ hurt me not.
 </details>
 <details><summary>मूलम्</summary>
 
-रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने पिपृ॒हि मा॒ मा मा॑ हिꣳसीः
+रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने पिपृ॒हि मा॒ मा मा॑ हिँसीः
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -89,7 +89,7 @@ Thou art the bearer which carrieth the offering.
 
 रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने।  
 पिपृ॒हि मा॑।  
-मा मा॑ हिꣳसीः।
+मा मा॑ हिँसीः।
 </details>
 <details><summary>Keith</summary>
 
@@ -99,7 +99,7 @@ hurt me not.
 </details>
 <details><summary>मूलम्</summary>
 
-रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने पिपृ॒हि मा॒ मा मा॑ हिꣳसीः
+रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने पिपृ॒हि मा॒ मा मा॑ हिँसीः
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -146,7 +146,7 @@ Thou art the savoury, the wise.
 
 रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने।  
 पिपृ॒हि मा॑।  
-मा मा॑ हिꣳसीः।
+मा मा॑ हिँसीः।
 </details>
 <details><summary>Keith</summary>
 
@@ -156,7 +156,7 @@ hurt me not.
 </details>
 <details><summary>मूलम्</summary>
 
-रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने पिपृ॒हि मा॒ मा मा॑ हिꣳसीः
+रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने पिपृ॒हि मा॒ मा मा॑ हिँसीः
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -202,7 +202,7 @@ Thou art Tutha, the all-knower.
 
 रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने।  
 पिपृ॒हि मा॑।  
-मा मा॑ हिꣳसीः।
+मा मा॑ हिँसीः।
 </details>
 <details><summary>Keith</summary>
 
@@ -212,7 +212,7 @@ hurt me not.
 </details>
 <details><summary>मूलम्</summary>
 
-रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने पिपृ॒हि मा॒ मा मा॑ हिꣳसीः
+रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने पिपृ॒हि मा॒ मा मा॑ हिँसीः
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -257,7 +257,7 @@ Thou art Uśij, the wise.
 
 रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने।  
 पिपृ॒हि मा॑।  
-मा मा॑ हिꣳसीः।
+मा मा॑ हिँसीः।
 </details>
 <details><summary>Keith</summary>
 
@@ -267,7 +267,7 @@ hurt me not.
 </details>
 <details><summary>मूलम्</summary>
 
-रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने पिपृ॒हि मा॒ मा मा॑ हिꣳसीः
+रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने पिपृ॒हि मा॒ मा मा॑ हिँसीः
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -316,7 +316,7 @@ Thou art Anghari, Bamhhari.
 
 रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने।  
 पिपृ॒हि मा॑।  
-मा मा॑ हिꣳसीः।
+मा मा॑ हिँसीः।
 </details>
 <details><summary>Keith</summary>
 
@@ -326,7 +326,7 @@ hurt me not.
 </details>
 <details><summary>मूलम्</summary>
 
-रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने पिपृ॒हि मा॒ मा मा॑ हिꣳसीः
+रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने पिपृ॒हि मा॒ मा मा॑ हिँसीः
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -375,7 +375,7 @@ Thou art the seeker of aid, the worshipper.
 
 रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने।  
 पिपृ॒हि मा॑।  
-मा मा॑ हिꣳसीः।
+मा मा॑ हिँसीः।
 </details>
 <details><summary>Keith</summary>
 
@@ -385,7 +385,7 @@ hurt me not.
 </details>
 <details><summary>मूलम्</summary>
 
-रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने पिपृ॒हि मा॒ मा मा॑ हिꣳसीः
+रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने पिपृ॒हि मा॒ मा मा॑ हिँसीः
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -431,7 +431,7 @@ Thou art the bright, the Marjaliya.
 
 रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने।  
 पिपृ॒हि मा॑।  
-मा मा॑ हिꣳसीः।
+मा मा॑ हिँसीः।
 </details>
 <details><summary>Keith</summary>
 
@@ -441,7 +441,7 @@ hurt me not.
 </details>
 <details><summary>मूलम्</summary>
 
-रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने पिपृ॒हि मा॒ मा मा॑ हिꣳसीः
+रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने पिपृ॒हि मा॒ मा मा॑ हिँसीः
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -491,7 +491,7 @@ Thou art the king, Kr̥śanu.
 
 रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने।  
 पिपृ॒हि मा॑।  
-मा मा॑ हिꣳसीः।
+मा मा॑ हिँसीः।
 </details>
 <details><summary>Keith</summary>
 
@@ -501,7 +501,7 @@ hurt me not.
 </details>
 <details><summary>मूलम्</summary>
 
-रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने पिपृ॒हि मा॒ मा मा॑ हिꣳसीः
+रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने पिपृ॒हि मा॒ मा मा॑ हिँसीः
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -547,7 +547,7 @@ Thou art the purifying, around which men must sit.
 
 रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने।  
 पिपृ॒हि मा॑।  
-मा मा॑ हिꣳसीः।
+मा मा॑ हिँसीः।
 </details>
 <details><summary>Keith</summary>
 
@@ -557,7 +557,7 @@ hurt me not.
 </details>
 <details><summary>मूलम्</summary>
 
-रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने पिपृ॒हि मा॒ मा मा॑ हिꣳसीः
+रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने पिपृ॒हि मा॒ मा मा॑ हिँसीः
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -602,7 +602,7 @@ Thou art the impetuous, the cloudy.
 
 रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने।  
 पिपृ॒हि मा॑।  
-मा मा॑ हिꣳसीः।
+मा मा॑ हिँसीः।
 </details>
 <details><summary>Keith</summary>
 
@@ -612,7 +612,7 @@ hurt me not.
 </details>
 <details><summary>मूलम्</summary>
 
-रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने पिपृ॒हि मा॒ मा मा॑ हिꣳसीः
+रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने पिपृ॒हि मा॒ मा मा॑ हिँसीः
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -658,7 +658,7 @@ Thou art the untouched, the preparer of the offering.
 
 रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने।  
 पिपृ॒हि मा॑।  
-मा मा॑ हिꣳसीः।
+मा मा॑ हिँसीः।
 </details>
 <details><summary>Keith</summary>
 
@@ -668,7 +668,7 @@ hurt me not.
 </details>
 <details><summary>मूलम्</summary>
 
-रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने पिपृ॒हि मा॒ मा मा॑ हिꣳसीः
+रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने पिपृ॒हि मा॒ मा मा॑ हिँसीः
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -713,7 +713,7 @@ Thou art be whose home is right, whose light is the heaven.
 
 रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने।  
 पिपृ॒हि मा॑।  
-मा मा॑ हिꣳसीः।
+मा मा॑ हिँसीः।
 </details>
 <details><summary>Keith</summary>
 
@@ -723,7 +723,7 @@ hurt me not.
 </details>
 <details><summary>मूलम्</summary>
 
-रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने पिपृ॒हि मा॒ मा मा॑ हिꣳसीः
+रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने पिपृ॒हि मा॒ मा मा॑ हिँसीः
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -771,7 +771,7 @@ Thou art be whose light is the Brahman, whose home is the heaven.
 
 रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने।  
 पिपृ॒हि मा॑।  
-मा मा॑ हिꣳसीः।
+मा मा॑ हिँसीः।
 </details>
 <details><summary>Keith</summary>
 
@@ -781,7 +781,7 @@ hurt me not.
 </details>
 <details><summary>मूलम्</summary>
 
-रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने पिपृ॒हि मा॒ मा मा॑ हिꣳसीः
+रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने पिपृ॒हि मा॒ मा मा॑ हिँसीः
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -828,7 +828,7 @@ Thou art the goat with one foot.
 
 रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने।  
 पिपृ॒हि मा॑।  
-मा मा॑ हिꣳसीः।
+मा मा॑ हिँसीः।
 </details>
 <details><summary>Keith</summary>
 
@@ -838,7 +838,7 @@ hurt me not.
 </details>
 <details><summary>मूलम्</summary>
 
-रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने पिपृ॒हि मा॒ मा मा॑ हिꣳसीः
+रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने पिपृ॒हि मा॒ मा मा॑ हिँसीः
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -888,7 +888,7 @@ Thou art the dragon of the deep.
 
 रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने।  
 पिपृ॒हि मा॑।  
-मा मा॑ हिꣳसीः।
+मा मा॑ हिँसीः।
 </details>
 <details><summary>Keith</summary>
 
@@ -898,7 +898,7 @@ hurt me not.
 </details>
 <details><summary>मूलम्</summary>
 
-रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने पिपृ॒हि मा॒ मा मा॑ हिꣳसीः
+रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने पिपृ॒हि मा॒ मा मा॑ हिँसीः
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

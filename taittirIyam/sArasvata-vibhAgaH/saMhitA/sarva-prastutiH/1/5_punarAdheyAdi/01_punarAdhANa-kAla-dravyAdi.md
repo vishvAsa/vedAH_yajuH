@@ -153,11 +153,11 @@ He wept; in that he wept (arodit), that is why Rudra has his name.
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-यदश्र्वशी॑यत॒ तद् [1]र॒ज॒तꣳ हिर॑ण्यमभव॒त्तस्मा॑द्रज॒तꣳ हिर॑ण्यमदक्षि॒ण्यम॑श्रु॒जꣳ हि 
+यदश्र्वशी॑यत॒ तद् [1]र॒ज॒तँ हिर॑ण्यमभव॒त्तस्मा॑द्रज॒तँ हिर॑ण्यमदक्षि॒ण्यम॑श्रु॒जँ हि 
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् अश्र्व् अशी॑यत॒, तद्  रज॒तꣳ हिर॑ण्यम् अभवत् ।  
+यद् अश्र्व् अशी॑यत॒, तद्  रज॒तँ हिर॑ण्यम् अभवत् ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -165,7 +165,7 @@ The tear that [1] was shed became silver;
 </details>
 <details><summary>मूलम्</summary>
 
-यदश्र्वशी॑यत॒ तद्  रज॒तꣳ हिर॑ण्यमभवत् ।  
+यदश्र्वशी॑यत॒ तद्  रज॒तँ हिर॑ण्यमभवत् ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -173,7 +173,7 @@ The tear that [1] was shed became silver;
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॑द् रज॒तꣳ हिर॑ण्यम् अदक्षि॒ण्यम् - अ॑श्रु॒-जꣳ  हि ।
+तस्मा॑द् रज॒तँ हिर॑ण्यम् अदक्षि॒ण्यम् - अ॑श्रु॒-जँ  हि ।
 </details>
 <details><summary>Keith</summary>
 
@@ -181,7 +181,7 @@ therefore silver is not a suitable gift, for it is born of tears.
 </details>
 <details><summary>मूलम्</summary>
 
-तस्मा॑द्रज॒तꣳ हिर॑ण्यमदक्षि॒ण्यम॑श्रु॒जꣳ  हि ।
+तस्मा॑द्रज॒तँ हिर॑ण्यमदक्षि॒ण्यम॑श्रु॒जँ  हि ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -401,7 +401,7 @@ Agni desiring a share after being established assailed the offspring and cattle 
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-उ॒द्वास्य॒ पुन॒रा द॑धीत भाग॒धेये॑नै॒वैन॒ꣳ॒ सम॑र्धय॒त्यथो॒ शान्ति॑रे॒वास्यै॒षा 
+उ॒द्वास्य॒ पुन॒रा द॑धीत भाग॒धेये॑नै॒वैन॒ँ॒ सम॑र्धय॒त्यथो॒ शान्ति॑रे॒वास्यै॒षा 
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -421,7 +421,7 @@ Having removed it, one should re-establish it;
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भा॒ग॒धेये॑नै॒वैन॒ꣳ॒ सम॑र्धयति ।
+भा॒ग॒धेये॑नै॒वैन॒ँ॒ सम॑र्धयति ।
 </details>
 <details><summary>Keith</summary>
 
@@ -429,7 +429,7 @@ thus he unites him with his own portion;
 </details>
 <details><summary>मूलम्</summary>
 
-भा॒ग॒धेये॑नै॒वैन॒ꣳ॒ सम॑र्धयति ।  
+भा॒ग॒धेये॑नै॒वैन॒ँ॒ सम॑र्धयति ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

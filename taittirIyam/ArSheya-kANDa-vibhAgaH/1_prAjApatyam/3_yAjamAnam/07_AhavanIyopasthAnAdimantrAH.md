@@ -290,7 +290,7 @@ __________
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सम॒हꣳ रा॒यस्पोषे॑ण  +++(भूयासम्)+++  ।
+सम॒हँ रा॒यस्पोषे॑ण  +++(भूयासम्)+++  ।
 </details>
 <details><summary>Keith</summary>
 
@@ -298,7 +298,7 @@ May I be united with increase of wealth,
 </details>
 <details><summary>मूलम्</summary>
 
-सम॒हꣳ रा॒यस्पोषे॑ण  +++(भूयासम्)+++  ।
+सम॒हँ रा॒यस्पोषे॑ण  +++(भूयासम्)+++  ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -897,7 +897,7 @@ O Agni, flamme uns herbei schönwirkend Glanz und Heldenkraft; Er schenke Gut un
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-अग्ने॑ गृहपते सुगृहप॒तिर॒हन्त्वया॑ गृ॒हप॑तिना भूयासꣳ सुगृहप॒तिर्मया॒ त्वङ्गृ॒हप॑तिना भूयाश्श॒तꣳ हिमा॒स्तामा॒शिष॒मा शा॑से॒ तन्त॑वे॒ ज्योति॑ष्मती॒न्तामा॒शिष॒माशा॑से॒ऽमुष्मै॒ ज्योति॑ष्मती॒ङ्कस्त्वा॑ युनक्ति॒ स त्वा॒ विमु॑ञ्च॒त्वग्ने॑ व्रतपते व्र॒तम॑चारिष॒न्तद॑शक॒न्तन्मे॑ऽराधि य॒ज्ञो ब॑भूव॒ स आ [19]ब॒भू॒व॒ स प्र ज॑ज्ञे॒ स वा॑वृधे । 
+अग्ने॑ गृहपते सुगृहप॒तिर॒हन्त्वया॑ गृ॒हप॑तिना भूयासँ सुगृहप॒तिर्मया॒ त्वङ्गृ॒हप॑तिना भूयाश्श॒तँ हिमा॒स्तामा॒शिष॒मा शा॑से॒ तन्त॑वे॒ ज्योति॑ष्मती॒न्तामा॒शिष॒माशा॑से॒ऽमुष्मै॒ ज्योति॑ष्मती॒ङ्कस्त्वा॑ युनक्ति॒ स त्वा॒ विमु॑ञ्च॒त्वग्ने॑ व्रतपते व्र॒तम॑चारिष॒न्तद॑शक॒न्तन्मे॑ऽराधि य॒ज्ञो ब॑भूव॒ स आ [19]ब॒भू॒व॒ स प्र ज॑ज्ञे॒ स वा॑वृधे । 
 </details>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/agne_gRhapate.md">
 <details open><summary><h5>अग्ने गृहपते ...{Loading}...</h5></summary>
@@ -907,7 +907,7 @@ O Agni, flamme uns herbei schönwirkend Glanz und Heldenkraft; Er schenke Gut un
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-अग्ने॑ गृहपते सुगृहप॒तिर॒हन्त्वया॑ गृ॒हप॑तिना भूयासꣳ सुगृहप॒तिर्मया॒ त्वङ्गृ॒हप॑तिना भूयाश्श॒तꣳ हिमाः …
+अग्ने॑ गृहपते सुगृहप॒तिर॒हन्त्वया॑ गृ॒हप॑तिना भूयासँ सुगृहप॒तिर्मया॒ त्वङ्गृ॒हप॑तिना भूयाश्श॒तँ हिमाः …
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -931,7 +931,7 @@ ____________
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-श॒तꣳ हिमा॑स् ताम् आ॒शिष॒म् आशा॑से ।
+श॒तँ हिमा॑स् ताम् आ॒शिष॒म् आशा॑से ।
 
 +++(अजातपुत्र-पक्षे - )+++ तन्त॑वे॒ ज्योति॑ष्मती॒न् ताम् आ॒शिष॒म् आशा॑से ।  
 +++(जातपुत्र-पक्षे -)+++ [ताम् आ॒शिष॒म् आशा॑से] अ॒मुष्मै॒+++(→अपत्य-नाम-निर्देशः)+++ ज्योति॑ष्मतीम् ॥  [24]
@@ -944,7 +944,7 @@ bringing light for N. N.+++(= nomina / names)+++
 </details>
 <details><summary>मूलम्</summary>
 
-श॒तꣳ हिमा॑स् तामा॒शिष॒माशा॑से ।
+श॒तँ हिमा॑स् तामा॒शिष॒माशा॑से ।
 
 +++(अजातपुत्र-पक्षे - )+++ तन्त॑वे॒ ज्योति॑ष्मती॒न्  
 तामा॒शिष॒माशा॑से ।  
@@ -1088,7 +1088,7 @@ It hath become the overlord of the gods,
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो अ॒स्माꣳ अधि॑पतीन् करोतु  ।
+सो अ॒स्माँ अधि॑पतीन् करोतु  ।
 </details>
 <details><summary>Keith</summary>
 
@@ -1096,7 +1096,7 @@ May it make us overlords,
 </details>
 <details><summary>मूलम्</summary>
 
-सो अ॒स्माꣳ अधि॑पतीन्करोतु  ।
+सो अ॒स्माँ अधि॑पतीन्करोतु  ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -1104,7 +1104,7 @@ May it make us overlords,
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व॒यꣵ स्या॑म॒ पत॑यो रयी॒णाम्  ॥
+व॒यँ स्या॑म॒ पत॑यो रयी॒णाम्  ॥
 </details>
 <details><summary>Keith</summary>
 
@@ -1112,7 +1112,7 @@ May we be lords of wealth.
 </details>
 <details><summary>मूलम्</summary>
 
-व॒यꣵ स्या॑म॒ पत॑यो रयी॒णाम्  ॥
+व॒यँ स्या॑म॒ पत॑यो रयी॒णाम्  ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -1127,9 +1127,9 @@ _______
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/06_AhavanIyopasthAnAdimantrAH/02_gomAM_agne.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-गोमाꣳ॑ अ॒ग्ने, ऽवि॑माꣳ, अ॒श्वी **य॒ज्ञो**  
+गोमाँ॑ अ॒ग्ने, ऽवि॑माँ, अ॒श्वी **य॒ज्ञो**  
 नृ॒वथ्+++(→देव)+++-स॑खा॒ सद॒म्+++(=सदा)+++ इद् अ॑प्रमृ॒ष्यः ।  
-इडा॑वाꣳ ए॒षो +++(→य॒ज्ञो)+++ अ॑सुर प्र॒जावा॑न्  
+इडा॑वाँ ए॒षो +++(→य॒ज्ञो)+++ अ॑सुर प्र॒जावा॑न्  
 दी॒र्घो र॒यिᳶ पृ॑थु-बु॒ध्नस्+++(=मूलः)+++ स॒भावान्॑ ॥ [20]
 </details>
 </div>
@@ -1144,8 +1144,8 @@ Enduring wealth, deep based and rich in houses.
 </details>
 <details><summary>मूलम्</summary>
 
-गोमाꣳ॑ अ॒ग्नेऽवि॑माꣳ अ॒श्वी य॒ज्ञो नृ॒वत्स॑खा॒ सद॒मिद॑प्रमृ॒ष्यः ।  
-इडा॑वाꣳ ए॒षो अ॑सुर प्र॒जावा॑न्दी॒र्घो र॒यिᳶ पृ॑थुबु॒ध्नस्स॒भावान्॑ ॥ [20]
+गोमाँ॑ अ॒ग्नेऽवि॑माँ अ॒श्वी य॒ज्ञो नृ॒वत्स॑खा॒ सद॒मिद॑प्रमृ॒ष्यः ।  
+इडा॑वाँ ए॒षो अ॑सुर प्र॒जावा॑न्दी॒र्घो र॒यिᳶ पृ॑थुबु॒ध्नस्स॒भावान्॑ ॥ [20]
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

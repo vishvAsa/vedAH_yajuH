@@ -321,7 +321,7 @@ O plant, protect him.
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-ओष॑धे॒ त्राय॑स्वैन॒ꣵ॒ स्वधि॑ते॒ मैनꣳ॑ हिꣳसीः
+ओष॑धे॒ त्राय॑स्वैन॒ँ॒ स्वधि॑ते॒ मैनँ॑ हिँसीः
 </details>
 <details><summary>मूलम्</summary>
 
@@ -350,7 +350,7 @@ _______
 <details open><summary><h5>स्वधिते ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्वधि॑ते॒+++(=क्षुर)+++! मैनꣳ॑ हिꣳसीः  ।+++(र४)+++
+स्वधि॑ते॒+++(=क्षुर)+++! मैनँ॑ हिँसीः  ।+++(र४)+++
 </details>
 <details><summary>Keith</summary>
 
@@ -358,7 +358,7 @@ Axe, hurt him not.
 </details>
 <details><summary>मूलम्</summary>
 
-स्वधि॑ते॒ मैनꣳ॑ हिꣳसीः  ।
+स्वधि॑ते॒ मैनँ॑ हिँसीः  ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -380,12 +380,12 @@ _______
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-रक्ष॑साम्भा॒गो॑ऽसी॒दम॒हꣳ रक्षो॑ऽध॒मन्तमो॑ नयामि 
+रक्ष॑साम्भा॒गो॑ऽसी॒दम॒हँ रक्षो॑ऽध॒मन्तमो॑ नयामि 
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रक्ष॑साम् भा॒गो॑ ऽसि ।  
-इ॒दम् अ॒हꣳ रक्षो॑ ऽध॒मन् तमो॑ नयामि।
+इ॒दम् अ॒हँ रक्षो॑ ऽध॒मन् तमो॑ नयामि।
 </details>
 <details><summary>Keith</summary>
 
@@ -395,7 +395,7 @@ This Raksas here I lead to the lowest darkness.
 <details><summary>मूलम्</summary>
 
 रक्ष॑साम्भा॒गो॑ऽसि।  
-इ॒दम॒हꣳ रक्षो॑ऽध॒मन्तमो॑ नयामि ।
+इ॒दम॒हँ रक्षो॑ऽध॒मन्तमो॑ नयामि ।
 </details>
 
 <details><summary>पद-पाठः</summary>

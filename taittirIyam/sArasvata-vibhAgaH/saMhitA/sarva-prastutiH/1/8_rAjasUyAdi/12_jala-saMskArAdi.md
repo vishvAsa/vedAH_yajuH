@@ -159,7 +159,7 @@ The pure I purify you with the pure, the bright with the bright, the immortal wi
 **स॒ध॒+++(=सह)+++-मादो॑** द्यु॒म्निनी॒र् ऊर्ज॑ ए॒ता  
 अनि॑भृष्टा अप॒स्युवो॒+++(=अपस्=कर्म-कामाः)+++ **वसा॑नः** ।    
 प॒स्त्या॑सु+++(=गृह-भूतासु)+++ **चक्रे॒** वरु॑णस् स॒धस्थ॑म्  
-अ॒पाꣳ शिशुः॑ मा॒तृत॑मास्व् अ॒न्तः  ॥
+अ॒पाँ शिशुः॑ मा॒तृत॑मास्व् अ॒न्तः  ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/12_jala-saMskArAdi/05_sadhamAdo_dyumninIr.md">
@@ -174,7 +174,7 @@ The child [1] of the waters in those most motherly.
 <details><summary>मूलम्</summary>
 
 स॒ध॒मादो॑ द्यु॒म्निनी॒रूर्ज॑ ए॒ता अनि॑भृष्टा अप॒स्युवो॒ वसा॑नः ।    
-प॒स्त्या॑सु चक्रे॒ वरु॑णस्स॒धस्थ॑म॒पाꣳ शिशुः॑ [21]  मा॒तृत॑मास्व॒न्तः  ॥
+प॒स्त्या॑सु चक्रे॒ वरु॑णस्स॒धस्थ॑म॒पाँ शिशुः॑ [21]  मा॒तृत॑मास्व॒न्तः  ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -402,7 +402,7 @@ This is your king, O Bharatas;
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सोमो॒ऽस्माक॑म् ब्राह्म॒णाना॒ꣳ॒ राजा॑ ।+++(5)+++
+सोमो॒ऽस्माक॑म् ब्राह्म॒णाना॒ँ॒ राजा॑ ।+++(5)+++
 </details>
 <details><summary>Keith</summary>
 
@@ -410,7 +410,7 @@ Soma is the king of us Brahmans.
 </details>
 <details><summary>मूलम्</summary>
 
-सोमो॒ऽस्माक॑म्ब्राह्म॒णाना॒ꣳ॒ राजा॑ ।
+सोमो॒ऽस्माक॑म्ब्राह्म॒णाना॒ँ॒ राजा॑ ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

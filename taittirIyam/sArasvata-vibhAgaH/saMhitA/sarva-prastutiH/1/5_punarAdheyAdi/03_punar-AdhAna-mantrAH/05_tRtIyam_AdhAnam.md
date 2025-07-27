@@ -58,7 +58,7 @@ Keta, Saketa, Suketa, may these Adityas rejoicing partake of our oblation;
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/05_tRtIyam_AdhAnam/04_vivasvAM_aditir.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-विव॑स्वा॒ꣳ॒ अदि॑ति॒र् देव॑जूति॒स् ते  
+विव॑स्वा॒ँ॒ अदि॑ति॒र् देव॑जूति॒स् ते  
 न॑ आदि॒त्या आज्य॑ञ् जुषा॒णा **वि॑यन्तु**+++(=पिबन्तु)+++ ॥ [12]
 </details>
 </div>
@@ -70,7 +70,7 @@ Vivasvan, Aditi, Devajuti, may these Adityas rejoicing partake of our oblation.
 </details>
 <details><summary>मूलम्</summary>
 
-विव॑स्वा॒ꣳ॒ अदि॑ति॒र्देव॑जूति॒स्ते न॑ आदि॒त्या आज्य॑ञ्जुषा॒णा वि॑यन्तु ॥ [12]
+विव॑स्वा॒ँ॒ अदि॑ति॒र्देव॑जूति॒स्ते न॑ आदि॒त्या आज्य॑ञ्जुषा॒णा वि॑यन्तु ॥ [12]
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

@@ -196,7 +196,7 @@ _______
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अ॒यम् अ॒ग्निश् श्रेष्ठ॑तमो॒, ऽयम्  
-भग॑वत्तमो॒ ऽयꣳ स॑हस्र॒-सा+++(त्)+++-त॑मः ।  
+भग॑वत्तमो॒ ऽयँ स॑हस्र॒-सा+++(त्)+++-त॑मः ।  
 अ॒स्मा अ॑स्तु सु॒वीर्य॑म्  ॥
 </details>
 </div>
@@ -211,7 +211,7 @@ To him be all good strength.
 </details>
 <details><summary>मूलम्</summary>
 
-अ॒यम॒ग्निश्श्रेष्ठ॑तमो॒ऽयम्भग॑वत्तमो॒ऽयꣳ स॑हस्र॒सात॑मः ।  
+अ॒यम॒ग्निश्श्रेष्ठ॑तमो॒ऽयम्भग॑वत्तमो॒ऽयँ स॑हस्र॒सात॑मः ।  
 अ॒स्मा अ॑स्तु सु॒वीर्य॑म्  ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -233,7 +233,7 @@ _______
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 मनो॒ ज्योति॑र् **जुषता॒म्**, आज्य॒व्ँ  
-विच्छि॑न्नय्ँ **य॒ज्ञꣳ सम्** इ॒मन् **द॑धातु** ।  
+विच्छि॑न्नय्ँ **य॒ज्ञँ सम्** इ॒मन् **द॑धातु** ।  
 या +++(अन्यैर्)+++ **इ॒ष्टा उ॒षसो॑**, +++(मया तु)+++  नि॒-म्रुच॑श्+++(←स्तेये)+++ च॒  
 तास् **सन्द॑धामि** ह॒विषा॑ घृ॒तेन॑  ॥
 
@@ -252,7 +252,7 @@ I unite with oblation and ghee.
 <details><summary>मूलम्</summary>
 
 मनो॒ ज्योति॑र् जुषता॒म् आज्य॒व्ँ  
-विच्छि॑न्नय्ँ य॒ज्ञꣳ सम् इ॒मन् द॑धातु ।    
+विच्छि॑न्नय्ँ य॒ज्ञँ सम् इ॒मन् द॑धातु ।    
 या इ॒ष्टा उ॒षसो॑ नि॒म्रुच॑श् च॒   
 तास् सन्द॑धामि ह॒विषा॑ घृ॒तेन॑  ॥
 </details>
@@ -299,7 +299,7 @@ _______
 पय॑स्वती॒र् ओष॑धयः॒   
 पय॑स्वद् वी॒रुधा॒म् पयः॑ ।    
 अ॒पाम् पय॑सो॒ यत् पय॒स्  
-तेन॒ माम् इ॑न्द्र॒ सꣳ सृ॑ज  ॥
+तेन॒ माम् इ॑न्द्र॒ सँ सृ॑ज  ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/32_payasvatIr_oShadhayaH.md">
@@ -314,7 +314,7 @@ O Indra, do thou unite me.
 <details><summary>मूलम्</summary>
 
 पय॑स्वती॒रोष॑धयः॒ [44] पय॑स्वद्वी॒रुधा॒म्पयः॑ ।    
-अ॒पाम्पय॑सो॒ यत्पय॒स्तेन॒ मामि॑न्द्र॒ सꣳ सृ॑ज  ॥
+अ॒पाम्पय॑सो॒ यत्पय॒स्तेन॒ मामि॑न्द्र॒ सँ सृ॑ज  ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -392,7 +392,7 @@ _______
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/51_agniM_hotAram.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-**अ॒ग्निꣳ** होता॑रम् इ॒ह तꣳ **हु॑वे**  
+**अ॒ग्निँ** होता॑रम् इ॒ह तँ **हु॑वे**  
 **दे॒वान्** य॒ज्ञिया॑न् इ॒ह यान् **हवा॑महे**  ॥  
 **आ य॑न्तु दे॒वास्** सु॑मन॒स्यमा॑ना  
 **वि॒यन्तु॑ दे॒वा** ह॒विषो॑ मे अ॒स्य  ॥
@@ -409,7 +409,7 @@ Let the gods enjoy this oblation of me.
 </details>
 <details><summary>मूलम्</summary>
 
-अ॒ग्निꣳ होता॑रमि॒ह तꣳ हु॑वे दे॒वान् ..  
+अ॒ग्निँ होता॑रमि॒ह तँ हु॑वे दे॒वान् ..  
 य॒ज्ञिया॑नि॒ह यान् हवा॑महे  ॥  
 आ य॑न्तु दे॒वास्सु॑मन॒स्यमा॑ना ..  
 वि॒यन्तु॑ दे॒वा ह॒विषो॑ मे अ॒स्य  ॥
@@ -567,8 +567,8 @@ Attend the life of the sacrifice.
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/77_trayastriMshat_tantavo.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-त्रय॑स्-त्रिꣳश॒त् +++(देवरूपा)+++ **तन्त॑वो॒** ये **वि॑तत्नि॒रे**,  
-य इ॒मय्ँ **य॒ज्ञꣵ** स्व॒धया॒ **दद॑न्ते** ।   
+त्रय॑स्-त्रिँश॒त् +++(देवरूपा)+++ **तन्त॑वो॒** ये **वि॑तत्नि॒रे**,  
+य इ॒मय्ँ **य॒ज्ञँ** स्व॒धया॒ **दद॑न्ते** ।   
 तेषा॑ञ् छि॒न्नम् प्रत्य् **ए॒तद् द॑धामि॒**  
 स्वाहा॑   ।
 </details>
@@ -583,7 +583,7 @@ Of these the broken one I restore; hail!
 </details>
 <details><summary>मूलम्</summary>
 
-त्रय॑स्त्रिꣳश॒त्तन्त॑वो॒ ये वि॑तत्नि॒रे य इ॒मय्ँय॒ज्ञꣵ स्व॒धया॒ दद॑न्ते ।   
+त्रय॑स्त्रिँश॒त्तन्त॑वो॒ ये वि॑तत्नि॒रे य इ॒मय्ँय॒ज्ञँ स्व॒धया॒ दद॑न्ते ।   
 तेषा॑ञ्छि॒न्नम्प्रत्ये॒तद्द॑धामि॒ स्वाहा॑  +++(अत्र त्रिष्टुप्-छन्द इति व्याख्याने-। उत्तरविनियोगमन्त्रस्यापि योगेन त्रिष्टुप् ज्ञेया)+++  ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -607,7 +607,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-घ॒र्मो दे॒वाꣳ अप्ये॑तु  ॥ [46]  
+घ॒र्मो दे॒वाँ अप्ये॑तु  ॥ [46]  
 </details>
 <details><summary>Keith</summary>
 
@@ -615,7 +615,7 @@ Let the cauldron go to the gods.
 </details>
 <details><summary>मूलम्</summary>
 
-घ॒र्मो दे॒वाꣳ अप्ये॑तु  ॥ [46]  
+घ॒र्मो दे॒वाँ अप्ये॑तु  ॥ [46]  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

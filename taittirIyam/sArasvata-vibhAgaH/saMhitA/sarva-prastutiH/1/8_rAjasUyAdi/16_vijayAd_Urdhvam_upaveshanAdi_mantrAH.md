@@ -118,8 +118,8 @@ thou are the womb of kingly power.
 
 स्यो॒नाम् आ सी॑द ।   
 सु॒षदा॒म् आ सी॑द ।    
-मा त्वा॑ हिꣳसीत् ।  
-मा मा॑ हिꣳसीः ।  
+मा त्वा॑ हिँसीत् ।  
+मा मा॑ हिँसीः ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -131,8 +131,8 @@ May she hurt thee not; may she hurt me not.
 
 स्यो॒नामा सी॑द ।   
 सु॒षदा॒मा सी॑द ।    
-मा त्वा॑ हिꣳसीत् ।  
-मा मा॑ हिꣳसीः ।  
+मा त्वा॑ हिँसीत् ।  
+मा मा॑ हिँसीः ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -203,7 +203,7 @@ O Brahman!
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्वꣳ रा॑जन् ब्र॒ह्मा ऽसि॑ ।   
+त्वँ रा॑जन् ब्र॒ह्मा ऽसि॑ ।   
 सवि॒ता ऽसि॑ स॒त्य-स॑वः ।   
 </details>
 <details><summary>Keith</summary>
@@ -212,7 +212,7 @@ Thou, O king, art the Brahman priest, thou art Savitr of true instigation.
 </details>
 <details><summary>मूलम्</summary>
 
-त्वꣳ रा॑जन्ब्र॒ह्माऽसि॑ ।   
+त्वँ रा॑जन्ब्र॒ह्माऽसि॑ ।   
 सवि॒ताऽसि॑ स॒त्यस॑वः ।   
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -249,7 +249,7 @@ O Brahman!
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्वꣳ रा॑जन् ब्र॒ह्माऽसि॑।    
+त्वँ रा॑जन् ब्र॒ह्माऽसि॑।    
 इन्द्रो॑ऽसि स॒त्यौजाः॑ [31]
 </details>
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -258,7 +258,7 @@ Thou, O king, art the Brahman priest, thou art Indra of true force [1].
 </details>
 <details><summary>मूलम्</summary>
 
-त्वꣳ रा॑जन्ब्र॒ह्माऽसि॑।    
+त्वँ रा॑जन्ब्र॒ह्माऽसि॑।    
 इन्द्रो॑ऽसि स॒त्यौजाः॑ [31]
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -295,7 +295,7 @@ O Brahman!
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्वꣳ रा॑जन् ब्र॒ह्माऽसि॑ ।   
+त्वँ रा॑जन् ब्र॒ह्माऽसि॑ ।   
 मि॒त्रो॑ऽसि सु॒-शेवः॑ ।
 </details>
 <details><summary>Keith</summary>
@@ -304,7 +304,7 @@ Thou, O king, art the Brahman priest; thou art Mitra, the kindly.
 </details>
 <details><summary>मूलम्</summary>
 
-त्वꣳ रा॑जन्ब्र॒ह्माऽसि॑ ।   
+त्वँ रा॑जन्ब्र॒ह्माऽसि॑ ।   
 मि॒त्रो॑ऽसि सु॒शेवः॑ ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -361,7 +361,7 @@ O Brahman!
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्वꣳ रा॑जन् ब्र॒ह्माऽसि॒,  
+त्वँ रा॑जन् ब्र॒ह्माऽसि॒,  
 वरु॑णोऽसि स॒त्य-ध॑र्मा  ।
 </details>
 <details><summary>Keith</summary>
@@ -370,7 +370,7 @@ Thou, O king, art the Brahman priest; thou art Varuna, of true rule.
 </details>
 <details><summary>मूलम्</summary>
 
-त्वꣳ रा॑जन्ब्र॒ह्माऽसि॒ वरु॑णोऽसि स॒त्यध॑र्मा  ।
+त्वँ रा॑जन्ब्र॒ह्माऽसि॒ वरु॑णोऽसि स॒त्यध॑र्मा  ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -430,7 +430,7 @@ with this subject to me.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दिशो॒ ऽभ्य् अ॑यꣳ राजा॑ **ऽभूत्** ।
+दिशो॒ ऽभ्य् अ॑यँ राजा॑ **ऽभूत्** ।
 </details>
 <details><summary>Keith</summary>
 
@@ -438,7 +438,7 @@ This king hath surmounted the quarters.
 </details>
 <details><summary>मूलम्</summary>
 
-दिशो॒ऽभ्य॑यꣳ राजा॑ऽभूत् ।
+दिशो॒ऽभ्य॑यँ राजा॑ऽभूत् ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

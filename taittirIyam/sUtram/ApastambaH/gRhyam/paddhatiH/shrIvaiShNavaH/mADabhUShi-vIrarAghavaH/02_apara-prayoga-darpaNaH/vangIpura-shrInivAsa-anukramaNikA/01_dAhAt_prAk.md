@@ -140,11 +140,11 @@ _________
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आयु॑षᳶ प्रा॒णꣳ सन्त॑नु ।
+आयु॑षᳶ प्रा॒णँ सन्त॑नु ।
 </details>
 <details><summary>मूलम्</summary>
 
-आयु॑षᳶ प्रा॒णꣳ सन्त॑नु ।
+आयु॑षᳶ प्रा॒णँ सन्त॑नु ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -152,11 +152,11 @@ _________
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रा॒णाद् अ॑पा॒नꣳ सन्त॑नु ।
+प्रा॒णाद् अ॑पा॒नँ सन्त॑नु ।
 </details>
 <details><summary>मूलम्</summary>
 
-प्रा॒णाद् अ॑पा॒नꣳ सन्त॑नु ।
+प्रा॒णाद् अ॑पा॒नँ सन्त॑नु ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -164,11 +164,11 @@ _________
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒पा॒नाद् व्या॒नꣳ सन्त॑नु ।
+अ॒पा॒नाद् व्या॒नँ सन्त॑नु ।
 </details>
 <details><summary>मूलम्</summary>
 
-अ॒पा॒नाद् व्या॒नꣳ सन्त॑नु ।
+अ॒पा॒नाद् व्या॒नँ सन्त॑नु ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -188,11 +188,11 @@ _________
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-चक्षु॑ष॒श् श्रोत्र॒ꣳ॒ सन्त॑नु ।
+चक्षु॑ष॒श् श्रोत्र॒ँ॒ सन्त॑नु ।
 </details>
 <details><summary>मूलम्</summary>
 
-चक्षु॑ष॒श् श्रोत्र॒ꣳ॒ सन्त॑नु ।
+चक्षु॑ष॒श् श्रोत्र॒ँ॒ सन्त॑नु ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -202,13 +202,13 @@ _________
 
 श्रोत्रा॒न् मन॒स् सन्त॑नु ।
 
-मन॑सो॒ वाच॒ꣳ॒ सन्त॑नु ।
+मन॑सो॒ वाच॒ँ॒ सन्त॑नु ।
 </details>
 <details><summary>मूलम्</summary>
 
 श्रोत्रा॒न् मन॒स् सन्त॑नु ।
 
-मन॑सो॒ वाच॒ꣳ॒ सन्त॑नु ।
+मन॑सो॒ वाच॒ँ॒ सन्त॑नु ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -216,11 +216,11 @@ _________
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वा॒च आ॒त्मान॒ꣳ॒ सन्त॑नु ।
+वा॒च आ॒त्मान॒ँ॒ सन्त॑नु ।
 </details>
 <details><summary>मूलम्</summary>
 
-वा॒च आ॒त्मान॒ꣳ॒ सन्त॑नु ।
+वा॒च आ॒त्मान॒ँ॒ सन्त॑नु ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -228,13 +228,13 @@ _________
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ॒त्मन॑ᳶ पृथि॒वीꣳ सन्त॑नु ।
-पृ॒थि॒व्या अ॒न्तरि॑क्ष॒ꣳ॒ सन्त॑नु ।
+आ॒त्मन॑ᳶ पृथि॒वीँ सन्त॑नु ।
+पृ॒थि॒व्या अ॒न्तरि॑क्ष॒ँ॒ सन्त॑नु ।
 </details>
 <details><summary>मूलम्</summary>
 
-आ॒त्मन॑ᳶ पृथि॒वीꣳ सन्त॑नु ।
-पृ॒थि॒व्या अ॒न्तरि॑क्ष॒ꣳ॒ सन्त॑नु ।
+आ॒त्मन॑ᳶ पृथि॒वीँ सन्त॑नु ।
+पृ॒थि॒व्या अ॒न्तरि॑क्ष॒ँ॒ सन्त॑नु ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -242,12 +242,12 @@ _________
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒न्तरि॑क्षा॒द् दिव॒ ꣳ॒सन्त॑नु ।
+अ॒न्तरि॑क्षा॒द् दिव॒ ँ॒सन्त॑नु ।
 दिव॒स् सुव॒स् सन्त॑नु ॥ 32 ॥  
 </details>
 <details><summary>मूलम्</summary>
 
-अ॒न्तरि॑क्षा॒द् दिव॒ ꣳ॒सन्त॑नु ।
+अ॒न्तरि॑क्षा॒द् दिव॒ ँ॒सन्त॑नु ।
 दिव॒स् सुव॒स् सन्त॑नु ॥ 32 ॥  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -409,7 +409,7 @@ _________
 अना॑ज्ञात॒य्ँयदाज्ञा॑तम् ।  
 य॒ज्ञस्य॑ क्रि॒यते॒ मिथु॑ ।  
 अग्ने॒ तद॑स्य कल्पय ।  
-त्वꣳ हि वेत्थ॑ यथात॒थम् ।
+त्वँ हि वेत्थ॑ यथात॒थम् ।
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/38_puruShasammito_yajnaH.md">
@@ -418,7 +418,7 @@ _________
 पुरु॑षसम्मितो य॒ज्ञः ।  
 य॒ज्ञᳶ पुरु॑षसम्मितः ।  
 अग्ने॒ तद॑स्य कल्पय ।  
-त्वꣳ हि वेत्थ॑ यथात॒थम् ।
+त्वँ हि वेत्थ॑ यथात॒थम् ।
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/41_yatpAkatrA_manasA.md">
@@ -427,7 +427,7 @@ _________
 यत्पा॑क॒त्रा मन॑सा दी॒नद॑क्षा॒ न ।  
 य॒ज्ञस्य॑ म॒न्वते॒ मर्ता॑सः ।  
 अ॒ग्निष्टद्धोता॑ क्रतु॒विद्वि॑जा॒नन्न् ।  
-यजि॑ष्ठो दे॒वाꣳ ऋ॑तु॒शो य॑जाति ॥115॥
+यजि॑ष्ठो दे॒वाँ ऋ॑तु॒शो य॑जाति ॥115॥
 </details>
 </div>
 

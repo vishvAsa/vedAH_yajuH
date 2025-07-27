@@ -130,7 +130,7 @@ Go away, hail! rejoicing in the oblation.
 
 ए॒ष ते॑ निर्ऋते भा॒गो,  
 भूते॑! ह॒विष्म॑त्य् **असि**।  
-**मु॒ञ्चेमम्** अꣳह॑सः॥
+**मु॒ञ्चेमम्** अँह॑सः॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/01_nairRta-homAdi/02_eSha_te.md">
@@ -143,7 +143,7 @@ Free him from evil. Hail!
 </details>
 <details><summary>मूलम्</summary>
 
-ए॒ष ते॑ निर्‌ऋते भा॒गो भूते॑ ह॒विष्म॑त्यसि मु॒ञ्चेममꣳह॑सः
+ए॒ष ते॑ निर्‌ऋते भा॒गो भूते॑ ह॒विष्म॑त्यसि मु॒ञ्चेममँह॑सः
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -322,7 +322,7 @@ He offers an oblation to Aditya; the sacrificial fee is a choice (ox).
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सौ॒म्यꣵ श्या॑मा॒कञ् च॒रुम्  +++(निर्वपति)+++ ।   
+सौ॒म्यँ श्या॑मा॒कञ् च॒रुम्  +++(निर्वपति)+++ ।   
 
 वासो॒ दक्षि॑णा  ।
 </details>
@@ -332,7 +332,7 @@ He offers an oblation to Aditya; the sacrificial fee is a choice (ox).
 </details>
 <details><summary>मूलम्</summary>
 
-सौ॒म्यꣵ श्या॑मा॒कञ्च॒रुम्  +++(निर्वपति)+++ ।   
+सौ॒म्यँ श्या॑मा॒कञ्च॒रुम्  +++(निर्वपति)+++ ।   
 
 वासो॒ दक्षि॑णा  ।
 </details>
@@ -346,7 +346,7 @@ He offers an oblation to Aditya; the sacrificial fee is a choice (ox).
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-सर॑स्वत्यै च॒रुꣳ सर॑स्वते च॒रुम्मि॑थु॒नौ गावौ॒ दक्षि॑णा  
+सर॑स्वत्यै च॒रुँ सर॑स्वते च॒रुम्मि॑थु॒नौ गावौ॒ दक्षि॑णा  
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

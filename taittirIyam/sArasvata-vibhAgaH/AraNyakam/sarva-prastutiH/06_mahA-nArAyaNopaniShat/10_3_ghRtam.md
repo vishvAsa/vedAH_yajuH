@@ -27,8 +27,8 @@ title = "१० ३ घृतम्"
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_3/09_samudrAd_UrmimadhumAm.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-स॒मु॒द्राद् ऊ॒र्मिमधु॑मा॒ꣳ॒ उदा॑रद्  
-उपा॒ꣳ॒शुना॒ सम॑मृत॒त्वम् आ॑नट् ।  
+स॒मु॒द्राद् ऊ॒र्मिमधु॑मा॒ँ॒ उदा॑रद्  
+उपा॒ँ॒शुना॒ सम॑मृत॒त्वम् आ॑नट् ।  
 घृ॒तस्य॒ नाम॒ गुह्य॒य्ँ यद् अस्ति॑  
 जि॒ह्वा दे॒वाना॑म॒मृत॑स्य॒ नाभिः॑ ॥ (22)
 </details>
@@ -37,8 +37,8 @@ title = "१० ३ घृतम्"
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
-स॒मु॒द्राद् ऊ॒र्मिमधु॑मा॒ꣳ॒ उदा॑रद्  
-उपा॒ꣳ॒शुना॒ सम॑मृत॒त्वम् आ॑नट् ।  
+स॒मु॒द्राद् ऊ॒र्मिमधु॑मा॒ँ॒ उदा॑रद्  
+उपा॒ँ॒शुना॒ सम॑मृत॒त्वम् आ॑नट् ।  
 घृ॒तस्य॒ नाम॒ गुह्य॒य्ँ यद् अस्ति॑  
 जि॒ह्वा दे॒वाना॑म॒मृत॑स्य॒ नाभिः॑ ॥ (22)
 </details>

@@ -982,7 +982,7 @@ Doch, o Indrānī, ich habe keine Freude ohne diesen Genossen, den Vrischākapi,
 <details><summary>मूलम्</summary>
 
 नाहमि॑न्द्राणि रारण॒ सख्यु॑र्वृ॒षाक॑पेर् ऋ॒ते ।   
-यस्ये॒दमप्यꣳ॑ ह॒विᳶ प्रि॒यन्दे॒वेषु॒ गच्छ॑ति  ॥
+यस्ये॒दमप्यँ॑ ह॒विᳶ प्रि॒यन्दे॒वेषु॒ गच्छ॑ति  ॥
 </details>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -2435,7 +2435,7 @@ So bring doch her, lass niemand es verhindern, da wir dich kennen als den Herrn 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/13_kAmyeShTayaH/03_pradAtAraM_havAmaha.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-प्र॒दा॒तारꣳ॑ **हवामह॒**  
+प्र॒दा॒तारँ॑ **हवामह॒**  
 इन्द्र॒म् आ ह॒विषा॑ व॒यम् ।    
 उ॒भा हि हस्ता॒  वसु॑ना पृ॒णस्वा  
 **ऽऽप्र य॑च्छ॒** दक्षि॑णा॒द् ओत स॒व्यात्  ॥
@@ -2452,7 +2452,7 @@ Give to us from the left and the right.
 </details>
 <details><summary>मूलम्</summary>
 
-प्र॒दा॒तारꣳ॑ हवामह॒   
+प्र॒दा॒तारँ॑ हवामह॒   
 इन्द्र॒मा ह॒विषा॑ व॒यम् ।    
 उ॒भा हि हस्ता॒  वसु॑ना पृ॒णस्वा..  +++(११ अक्षराणि)+++
 ऽऽप्र य॑च्छ॒ दक्षि॑णा॒दोत स॒व्यात्  ॥ +++(१० अक्षराणि)+++

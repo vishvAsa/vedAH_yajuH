@@ -17,7 +17,7 @@ title = "०५ भक्षानुवाकः"
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-भक्षेहि॒ मा वि॑श दीर्घायु॒त्वाय॑ शन्तनु॒त्वाय॑ रा॒यस्पोषा॑य॒ वर्च॑से सुप्रजा॒स्त्वायेहि॑ वसो पुरोवसो प्रि॒यो मे॑ हृ॒दो॑ऽस्य॒श्विनो॑स्त्वा बा॒हुभ्याꣳ॑ सघ्यासम्
+भक्षेहि॒ मा वि॑श दीर्घायु॒त्वाय॑ शन्तनु॒त्वाय॑ रा॒यस्पोषा॑य॒ वर्च॑से सुप्रजा॒स्त्वायेहि॑ वसो पुरोवसो प्रि॒यो मे॑ हृ॒दो॑ऽस्य॒श्विनो॑स्त्वा बा॒हुभ्याँ॑ सघ्यासम्
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -55,7 +55,7 @@ Come hither, O Vasu, preceded by wealth; thou art dear to my heart.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒श्विनो॑स् त्वा बा॒हुभ्याꣳ॑ **सघ्यासम्**+++(←ग्रहणे)+++ ।
+अ॒श्विनो॑स् त्वा बा॒हुभ्याँ॑ **सघ्यासम्**+++(←ग्रहणे)+++ ।
 </details>
 <details><summary>Keith</summary>
 
@@ -63,7 +63,7 @@ May I grasp thee with the arms of the Aśvins.
 </details>
 <details><summary>मूलम्</summary>
 
-अ॒श्विनो॑स्त्वा बा॒हुभ्याꣳ॑ सघ्यासम् ।
+अ॒श्विनो॑स्त्वा बा॒हुभ्याँ॑ सघ्यासम् ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -209,7 +209,7 @@ Of thee, O god Soma, who hast the Vasus for thy troop, who knowest the mind, who
 <details open><summary><h5>इन्द्र॑-पीतस्य॒ ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्र॑-पीतस्य॒ नरा॒शꣳस॑-पीतस्य पि॒तृ-पी॑तस्य॒  
+इन्द्र॑-पीतस्य॒ नरा॒शँस॑-पीतस्य पि॒तृ-पी॑तस्य॒  
 मधु॑मत॒  
 **उप॑हूत॒स्योप॑हूतो भक्षयामि** ।  
 </details>
@@ -219,7 +219,7 @@ who art drunk by Indra, who art drunk by Naraśansa, who art drunk by the father
 </details>
 <details><summary>मूलम्</summary>
 
-इन्द्र॑पीतस्य॒ नरा॒शꣳस॑पीतस्य पि॒तृपी॑तस्य॒ मधु॑मत॒ उप॑हूत॒स्योप॑हूतो भक्षयामि ।
+इन्द्र॑पीतस्य॒ नरा॒शँस॑पीतस्य पि॒तृपी॑तस्य॒ मधु॑मत॒ उप॑हूत॒स्योप॑हूतो भक्षयामि ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -255,7 +255,7 @@ Of thee, O god Soma, who hast the Rudras for thy troop, who knowest the mind, wh
 <details open><summary><h5>इन्द्र॑-पीतस्य॒ ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्र॑-पीतस्य॒ नरा॒शꣳस॑-पीतस्य पि॒तृ-पी॑तस्य॒  
+इन्द्र॑-पीतस्य॒ नरा॒शँस॑-पीतस्य पि॒तृ-पी॑तस्य॒  
 मधु॑मत॒  
 **उप॑हूत॒स्योप॑हूतो भक्षयामि** ।  
 </details>
@@ -265,7 +265,7 @@ who art drunk by Indra, who art drunk by Naraśansa, who art drunk by the father
 </details>
 <details><summary>मूलम्</summary>
 
-इन्द्र॑पीतस्य॒ नरा॒शꣳस॑पीतस्य पि॒तृपी॑तस्य॒ मधु॑मत॒ उप॑हूत॒स्योप॑हूतो भक्षयामि ।
+इन्द्र॑पीतस्य॒ नरा॒शँस॑पीतस्य पि॒तृपी॑तस्य॒ मधु॑मत॒ उप॑हूत॒स्योप॑हूतो भक्षयामि ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -301,7 +301,7 @@ Of thee, O god Soma, who hast the Adityas for thy troop, who knowest the heart, 
 <details open><summary><h5>इन्द्र॑-पीतस्य॒ ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्र॑-पीतस्य॒ नरा॒शꣳस॑-पीतस्य पि॒तृ-पी॑तस्य॒  
+इन्द्र॑-पीतस्य॒ नरा॒शँस॑-पीतस्य पि॒तृ-पी॑तस्य॒  
 मधु॑मत॒  
 **उप॑हूत॒स्योप॑हूतो भक्षयामि** ।  
 </details>
@@ -311,7 +311,7 @@ who art drunk by Indra, who art drunk by Naraśansa, who art drunk by the father
 </details>
 <details><summary>मूलम्</summary>
 
-इन्द्र॑पीतस्य॒ नरा॒शꣳस॑पीतस्य पि॒तृपी॑तस्य॒ मधु॑मत॒ उप॑हूत॒स्योप॑हूतो भक्षयामि ।
+इन्द्र॑पीतस्य॒ नरा॒शँस॑पीतस्य पि॒तृपी॑तस्य॒ मधु॑मत॒ उप॑हूत॒स्योप॑हूतो भक्षयामि ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -803,7 +803,7 @@ Rejoice therein, O fathers, according to your shares.
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-नमो॑ वᳶ पितरो॒ रसा॑य॒ नमो॑ वᳶ पितर॒श्शुष्मा॑य॒ नमो॑ वᳶ पितरो जी॒वाय॒ नमो॑ वᳶ पितरः [20]  स्व॒धायै॒ नमो॑ वᳶ पितरो म॒न्यवे॒ नमो॑ वᳶ पितरो घो॒राय॒ पित॑रो॒ नमो॑ वो॒ य ए॒तस्मि॑ल्ँलो॒के स्थ यु॒ष्माꣳस्तेऽनु॒ ये॑ऽस्मिल्ँ लो॒के मान्तेऽनु॒ य ए॒तस्मि॑ल्ँलो॒के स्थ यू॒यन्तेषा॒व्ँवसि॑ष्ठा भूयास्त॒ ये॑ऽस्मिल्ँ लो॒के॑ऽहन्तेषा॒व्ँवसि॑ष्ठो भूयासम्
+नमो॑ वᳶ पितरो॒ रसा॑य॒ नमो॑ वᳶ पितर॒श्शुष्मा॑य॒ नमो॑ वᳶ पितरो जी॒वाय॒ नमो॑ वᳶ पितरः [20]  स्व॒धायै॒ नमो॑ वᳶ पितरो म॒न्यवे॒ नमो॑ वᳶ पितरो घो॒राय॒ पित॑रो॒ नमो॑ वो॒ य ए॒तस्मि॑ल्ँलो॒के स्थ यु॒ष्माँस्तेऽनु॒ ये॑ऽस्मिल्ँ लो॒के मान्तेऽनु॒ य ए॒तस्मि॑ल्ँलो॒के स्थ यू॒यन्तेषा॒व्ँवसि॑ष्ठा भूयास्त॒ ये॑ऽस्मिल्ँ लो॒के॑ऽहन्तेषा॒व्ँवसि॑ष्ठो भूयासम्
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -906,7 +906,7 @@ homage to your terrors, O fathers; O fathers, homage to you.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य ए॒तस्मि॑ल्ँ लो॒के स्थ यु॒ष्माꣳस्तेऽनु॑ ।
+य ए॒तस्मि॑ल्ँ लो॒के स्थ यु॒ष्माँस्तेऽनु॑ ।
 </details>
 <details><summary>Keith</summary>
 
@@ -914,7 +914,7 @@ Ye that are in that world, may they follow you;
 </details>
 <details><summary>मूलम्</summary>
 
-य ए॒तस्मि॑ल्ँलो॒के स्थ यु॒ष्माꣳस्तेऽनु॑ ।
+य ए॒तस्मि॑ल्ँलो॒के स्थ यु॒ष्माँस्तेऽनु॑ ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -981,7 +981,7 @@ ye that are in this world, of these may I be the most fortunate.
 प्रजा॑पते॒ न त्वद् +++(विश्वा जातानि→)+++ ए॒तान्य् अ॒न्यो  
 विश्वा॑ जा॒तानि॒ **परि॒** ता **ब॑भूव** ।  
 यत्-का॑मास् ते जुहु॒मस् तन् नो॑ **अस्तु**  
-व॒यꣵ **स्या॑म॒** पत॑यो रयी॒णाम्॥
+व॒यँ **स्या॑म॒** पत॑यो रयी॒णाम्॥
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/121/10_prajApate_na.md">
@@ -1001,7 +1001,7 @@ ye that are in this world, of these may I be the most fortunate.
 </details>
 <details><summary>मूलम् - तैत्तिरीयम्</summary>
 
-प्रजा॑पते॒ न त्वदे॒तान्य॒न्यः । विश्वा॑ जा॒तानि॒ परि॒ ता ब॑भूव । यत्का॑मास्ते जुहु॒मस्तन्नो॑ अस्तु । व॒यꣵ स्या॑म॒ पत॑यो रयी॒णाम्॥
+प्रजा॑पते॒ न त्वदे॒तान्य॒न्यः । विश्वा॑ जा॒तानि॒ परि॒ ता ब॑भूव । यत्का॑मास्ते जुहु॒मस्तन्नो॑ अस्तु । व॒यँ स्या॑म॒ पत॑यो रयी॒णाम्॥
 </details>
 <details><summary>Vedaweb annotation</summary>
 

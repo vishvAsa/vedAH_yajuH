@@ -44,13 +44,13 @@ title = "०१ नमो॑ वा॒चे"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वैश्वदे॒वीव्ँ वाच॑मुद्यासꣳ
+वैश्वदे॒वीव्ँ वाच॑मुद्यासँ
 शि॒वाम् अद॑स् तां॒ जुष्टा॑न् दे॒वेभ्यः॑  
 </details>
 
 <details><summary>मूलम्</summary>
 
-वैश्वदे॒वीव्ँ वाच॑मुद्यासꣳ
+वैश्वदे॒वीव्ँ वाच॑मुद्यासँ
 शि॒वामद॑स्तां॒ जुष्टा॑न् दे॒वेभ्यः॒…  
 </details>
   
@@ -133,7 +133,7 @@ Of honey shall I think, honey shall I produce, honey shall I proclaim, honey sha
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मधु॑मतीन् दे॒वेभ्यो॒ वाच॑म् **उद्यासꣳ**
+मधु॑मतीन् दे॒वेभ्यो॒ वाच॑म् **उद्यासँ**
 शुश्रू॒षेण्या॑म् मनु॒ष्ये॑भ्यः
 </details>
 <details><summary>Keith</summary>
@@ -142,7 +142,7 @@ may I utter speech full of honey for the gods, and acceptable to men.
 </details>
 <details><summary>मूलम्</summary>
 
-मधु॑मतीन्दे॒वेभ्यो॒ वाच॑मुद्यासꣳ
+मधु॑मतीन्दे॒वेभ्यो॒ वाच॑मुद्यासँ
 शुश्रू॒षेण्या॑म्मनु॒ष्ये॑भ्यः
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>

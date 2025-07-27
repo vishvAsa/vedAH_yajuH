@@ -52,7 +52,7 @@ Go to the atmosphere, hail!
 ________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वꣳ स॑वि॒तार॑ङ्गच्छ॒ स्वाहा॑ ।
+दे॒वँ स॑वि॒तार॑ङ्गच्छ॒ स्वाहा॑ ।
 </details>
 <details><summary>Keith</summary>
 
@@ -60,7 +60,7 @@ Go to god Savitr, hail!
 </details>
 <details><summary>मूलम्</summary>
 
-दे॒वꣳ स॑वि॒तार॑ङ्गच्छ॒ स्वाहा॑ ।
+दे॒वँ स॑वि॒तार॑ङ्गच्छ॒ स्वाहा॑ ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -142,7 +142,7 @@ Go to the sacrifice, hail!
 ________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-छन्दाꣳ॑सि गच्छ॒ स्वाहा॑ ।
+छन्दाँ॑सि गच्छ॒ स्वाहा॑ ।
 </details>
 <details><summary>Keith</summary>
 
@@ -150,7 +150,7 @@ Go to the meters, hail!
 </details>
 <details><summary>मूलम्</summary>
 
-छन्दाꣳ॑सि गच्छ॒ स्वाहा॑ ।
+छन्दाँ॑सि गच्छ॒ स्वाहा॑ ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

@@ -70,7 +70,7 @@ O plant, protect him.
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-ओष॑धे॒ त्राय॑स्वैन॒ꣵ॒ स्वधि॑ते॒ मैनꣳ॑ हिꣳसीः
+ओष॑धे॒ त्राय॑स्वैन॒ँ॒ स्वधि॑ते॒ मैनँ॑ हिँसीः
 </details>
 <details><summary>मूलम्</summary>
 
@@ -95,7 +95,7 @@ ________
 <details open><summary><h5>स्वधिते ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्वधि॑ते॒+++(=क्षुर)+++! मैनꣳ॑ हिꣳसीः  ।+++(र४)+++
+स्वधि॑ते॒+++(=क्षुर)+++! मैनँ॑ हिँसीः  ।+++(र४)+++
 </details>
 <details><summary>Keith</summary>
 
@@ -103,7 +103,7 @@ Axe, hurt him not.
 </details>
 <details><summary>मूलम्</summary>
 
-स्वधि॑ते॒ मैनꣳ॑ हिꣳसीः  ।
+स्वधि॑ते॒ मैनँ॑ हिँसीः  ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

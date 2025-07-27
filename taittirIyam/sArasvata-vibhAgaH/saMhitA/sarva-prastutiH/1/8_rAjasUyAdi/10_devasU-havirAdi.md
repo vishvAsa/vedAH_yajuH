@@ -24,7 +24,7 @@ To Agni, lord of the house, he offers a cake of black rice on eight potsherds;
 </details>
 <details><summary>मूलम्</summary>
 
-अ॒ग्नये॑ गृ॒हप॑तये पुरो॒डाश॑म॒ष्टाक॑पाल॒न्निर्व॑पति  कृ॒ष्णाना॑व्ँ व्रीही॒णाꣳ …
+अ॒ग्नये॑ गृ॒हप॑तये पुरो॒डाश॑म॒ष्टाक॑पाल॒न्निर्व॑पति  कृ॒ष्णाना॑व्ँ व्रीही॒णाँ …
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -43,7 +43,7 @@ to Soma, lord of the forest, an oblation of millet;
 </details>
 <details><summary>मूलम्</summary>
 
-कृ॒ष्णाना॑व्ँव्रीही॒णाꣳ सोमा॑य॒ वन॒स्पत॑ये
+कृ॒ष्णाना॑व्ँव्रीही॒णाँ सोमा॑य॒ वन॒स्पत॑ये
 श्यामा॒कञ्च॒रुम्  +++(निर्व॑पति)+++  ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -53,7 +53,7 @@ to Soma, lord of the forest, an oblation of millet;
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स॑वि॒त्रे स॒त्य-प्र॑सवाय पुरो॒डाश॒न् द्वाद॑शकपालम्  
-आशू॒नाव्ँ व्री॑ही॒णाꣳ …
+आशू॒नाव्ँ व्री॑ही॒णाँ …
 </details>
 <details><summary>Keith</summary>
 
@@ -61,7 +61,7 @@ to Savitr, of true instigation, a cake of swift-growing rice on twelve potsherds
 </details>
 <details><summary>मूलम्</summary>
 
-स॑वि॒त्रे स॒त्यप्र॑सवाय पुरो॒डाश॒न्द्वाद॑शकपालम्  आशू॒नाव्ँव्री॑ही॒णाꣳ …
+स॑वि॒त्रे स॒त्यप्र॑सवाय पुरो॒डाश॒न्द्वाद॑शकपालम्  आशू॒नाव्ँव्री॑ही॒णाँ …
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -156,9 +156,9 @@ and to Varuna, lord of right, an oblation made of barley.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒वि॒ता त्वा॑ प्रस॒वानाꣳ॑ **सुवताम्**  
-अ॒ग्निर् गृ॒हप॑तीना॒ꣳ॒  
-सोमो॒ वन॒स्पती॑नाꣳ  
+स॒वि॒ता त्वा॑ प्रस॒वानाँ॑ **सुवताम्**  
+अ॒ग्निर् गृ॒हप॑तीना॒ँ॒  
+सोमो॒ वन॒स्पती॑नाँ  
 रु॒द्रᳶ प॑शू॒नां [18] 
 बृह॒स्पति॑र् वा॒चाम्  
 इन्द्रो॑ ज्ये॒ष्ठाना॑म्  
@@ -178,8 +178,8 @@ Varuna of lords of right.
 </details>
 <details><summary>मूलम्</summary>
 
-स॒वि॒ता त्वा॑ प्रस॒वानाꣳ॑ सुवताम्  
-अ॒ग्निर्गृ॒हप॑तीना॒ꣳ॒ सोमो॒ वन॒स्पती॑नाꣳ रु॒द्रᳶ प॑शू॒नां [18]बृह॒स्पति॑र्वा॒चामिन्द्रो॑ ज्ये॒ष्ठाना॑म्मि॒त्रस्स॒त्याना॒व्ँवरु॑णो॒ धर्म॑पतीनाम्॥
+स॒वि॒ता त्वा॑ प्रस॒वानाँ॑ सुवताम्  
+अ॒ग्निर्गृ॒हप॑तीना॒ँ॒ सोमो॒ वन॒स्पती॑नाँ रु॒द्रᳶ प॑शू॒नां [18]बृह॒स्पति॑र्वा॒चामिन्द्रो॑ ज्ये॒ष्ठाना॑म्मि॒त्रस्स॒त्याना॒व्ँवरु॑णो॒ धर्म॑पतीनाम्॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -258,7 +258,7 @@ This is your king, O Bharatas;
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सोमो॒ऽस्माक॑म् ब्राह्म॒णाना॒ꣳ॒ राजा॑ ।+++(5)+++
+सोमो॒ऽस्माक॑म् ब्राह्म॒णाना॒ँ॒ राजा॑ ।+++(5)+++
 </details>
 <details><summary>Keith</summary>
 
@@ -266,7 +266,7 @@ Soma is the king of us Brahmans.
 </details>
 <details><summary>मूलम्</summary>
 
-सोमो॒ऽस्माक॑म्ब्राह्म॒णाना॒ꣳ॒ राजा॑ ।
+सोमो॒ऽस्माक॑म्ब्राह्म॒णाना॒ँ॒ राजा॑ ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

@@ -8,15 +8,15 @@ title = "३७ राजगवी-होमः"
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-चि॒त्तꣳ स॑न्ता॒नेन॑ भ॒वय्ँय॒क्ना रु॒द्रन्तनि॑म्ना पशु॒पतिꣵ॑ स्थूलहृद॒येना॒ग्निꣳ हृद॑येन रु॒द्रल्ँलोहि॑तेन श॒र्वम्मत॑स्नाभ्याम्महादे॒वम॒न्तᳶपा॑र्श्वेनौषिष्ठ॒हनꣳ॑ शिङ्गीनिको॒श्या॑भ्याम् ॥ [37]
+चि॒त्तँ स॑न्ता॒नेन॑ भ॒वय्ँय॒क्ना रु॒द्रन्तनि॑म्ना पशु॒पतिँ॑ स्थूलहृद॒येना॒ग्निँ हृद॑येन रु॒द्रल्ँलोहि॑तेन श॒र्वम्मत॑स्नाभ्याम्महादे॒वम॒न्तᳶपा॑र्श्वेनौषिष्ठ॒हनँ॑ शिङ्गीनिको॒श्या॑भ्याम् ॥ [37]
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-चि॒त्तꣳ स॑न्ता॒नेन॑  +++(यजामि)+++ ।   
+चि॒त्तँ स॑न्ता॒नेन॑  +++(यजामि)+++ ।   
 </details>
 <details><summary>मूलम्</summary>
 
-चि॒त्तꣳ स॑न्ता॒नेन॑  +++(यजामि)+++ ।   
+चि॒त्तँ स॑न्ता॒नेन॑  +++(यजामि)+++ ।   
 </details>
 <details><summary>Keith</summary>
 
@@ -60,7 +60,7 @@ Rudra with the taniman,
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पशु॒पतिꣵ॑ स्थूल-हृद॒येन  +++(यजामि)+++ ।  
+पशु॒पतिँ॑ स्थूल-हृद॒येन  +++(यजामि)+++ ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -68,7 +68,7 @@ Paśupati with the thick heart,
 </details>
 <details><summary>मूलम्</summary>
 
-पशु॒पतिꣵ॑ स्थूलहृद॒येन  +++(यजामि)+++ ।  
+पशु॒पतिँ॑ स्थूलहृद॒येन  +++(यजामि)+++ ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -76,7 +76,7 @@ Paśupati with the thick heart,
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्निꣳ हृद॑येन  +++(यजामि)+++ ।  
+अ॒ग्निँ हृद॑येन  +++(यजामि)+++ ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -84,7 +84,7 @@ Agni with the heart,
 </details>
 <details><summary>मूलम्</summary>
 
-अ॒ग्निꣳ हृद॑येन  +++(यजामि)+++ ।  
+अ॒ग्निँ हृद॑येन  +++(यजामि)+++ ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -140,7 +140,7 @@ Mahadeva with the intestinal flesh,
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ओ॒षि॒ष्ठ॒-हनꣳ॑ शिङ्गीनिको॒श्या॑भ्याम्   +++(यजामि)+++ ॥ [37]  
+ओ॒षि॒ष्ठ॒-हनँ॑ शिङ्गीनिको॒श्या॑भ्याम्   +++(यजामि)+++ ॥ [37]  
 </details>
 <details><summary>Keith</summary>
 
@@ -148,7 +148,7 @@ him that slayest most quickly with the entrails.
 </details>
 <details><summary>मूलम्</summary>
 
-ओ॒षि॒ष्ठ॒हनꣳ॑ शिङ्गी-निको॒श्या॑भ्याम्+++(=??)+++   +++(यजामि)+++ ॥ [37]  
+ओ॒षि॒ष्ठ॒हनँ॑ शिङ्गी-निको॒श्या॑भ्याम्+++(=??)+++   +++(यजामि)+++ ॥ [37]  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

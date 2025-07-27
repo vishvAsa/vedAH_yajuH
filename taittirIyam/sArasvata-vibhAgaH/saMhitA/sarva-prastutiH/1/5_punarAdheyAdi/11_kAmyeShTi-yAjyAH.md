@@ -3888,7 +3888,7 @@ _______
 
 अदि॑तिर् न उरुष्य॒त्व्  
 अदि॑ति॒श् शर्म॑ यच्छतु ।  
-अदि॑तिᳶ पा॒त्व् अꣳह॑सः  ॥
+अदि॑तिᳶ पा॒त्व् अँह॑सः  ॥
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/3/11_aditirna_uruShyatu.md">
@@ -3896,7 +3896,7 @@ _______
 
 अदि॑तिर् न उरुष्य॒त्व्  
 अदि॑ति॒श् शर्म॑ यच्छतु ।  
-अदि॑तिᳶ पा॒त्व् अꣳह॑सः  ॥
+अदि॑तिᳶ पा॒त्व् अँह॑सः  ॥
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/3/11_aditirna_uruShyatu.md">
@@ -3910,7 +3910,7 @@ Let Aditi guard us from tribulation.
 <details><summary>मूलम्</summary>
 
 अदि॑तिर्न उरुष्य॒त्वदि॑ति॒श्शर्म॑ यच्छतु ।  
-अदि॑तिᳶ पा॒त्वꣳह॑सः  ॥
+अदि॑तिᳶ पा॒त्वँह॑सः  ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -3928,10 +3928,10 @@ _______
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/mahImU_Shu.md">
 <details open><summary><h2>महीम् ऊ षु ...{Loading}...</h2></summary>
 
-म॒हीम् ऊ॒ षु मा॒तरꣳ॑ सुव्र॒ताना॑म्  
+म॒हीम् ऊ॒ षु मा॒तरँ॑ सुव्र॒ताना॑म्  
 ऋ॒तस्य॒ पत्नी॒म् अव॑से **हुवेम** ।  
-तु॒वि॒+++(=प्रवृद्ध)+++-क्ष॒त्त्राम् अ॒जर॑न्तीम् उरू॒चीꣳ+++(=उरुगमनां)+++ 
-सु॒शर्मा॑ण॒म् अदि॑तिꣳ+++(=अखण्डनीयां)+++ सु॒प्रणी॑तिम् ॥ 
+तु॒वि॒+++(=प्रवृद्ध)+++-क्ष॒त्त्राम् अ॒जर॑न्तीम् उरू॒चीँ+++(=उरुगमनां)+++ 
+सु॒शर्मा॑ण॒म् अदि॑तिँ+++(=अखण्डनीयां)+++ सु॒प्रणी॑तिम् ॥ 
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/mahImU_Shu.md">
@@ -3955,8 +3955,8 @@ Aditi, who giveth good protection and good guidance.
 </details>
 <details><summary>मूलम्</summary>
 
-म॒हीमू॒ षु मा॒तरꣳ॑ सुव्र॒ताना॑मृ॒तस्य॒ पत्नी॒मव॑से हुवेम ।  
-तु॒वि॒क्ष॒त्त्राम॒जर॑न्तीमुरू॒चीꣳ सु॒शर्मा॑ण॒मदि॑तिꣳ सु॒प्रणी॑तिम्  ॥
+म॒हीमू॒ षु मा॒तरँ॑ सुव्र॒ताना॑मृ॒तस्य॒ पत्नी॒मव॑से हुवेम ।  
+तु॒वि॒क्ष॒त्त्राम॒जर॑न्तीमुरू॒चीँ सु॒शर्मा॑ण॒मदि॑तिँ सु॒प्रणी॑तिम्  ॥
 </details>
 </details>
 </div>
@@ -3970,9 +3970,9 @@ _______
 <details open><summary><h5>०३ सुत्रामाणं पृथिवीम् ...{Loading}...</h5></summary>
 
 
-सु॒त्रामा॑णम्+++(=सुत्राणं)+++ पृथि॒वीन् द्याम् अ॑ने॒हसꣳ॑+++(=अपापाम्)+++  
-सु॒शर्मा॑ण॒म् अदि॑तिꣳ सु॒प्रणी॑तिम् ।  
-दैवी॒न् **नावꣵ॑** स्व्-अरि॒त्राम्+++(=सुनौदण्डां)+++ अना॑गसो॒  
+सु॒त्रामा॑णम्+++(=सुत्राणं)+++ पृथि॒वीन् द्याम् अ॑ने॒हसँ॑+++(=अपापाम्)+++  
+सु॒शर्मा॑ण॒म् अदि॑तिँ सु॒प्रणी॑तिम् ।  
+दैवी॒न् **नावँ॑** स्व्-अरि॒त्राम्+++(=सुनौदण्डां)+++ अना॑गसो॒  
 अस्र॑वन्ती॒म् **आ रु॑हेमा** स्व॒स्तये॑ ॥
 
 </details>
@@ -4062,8 +4062,8 @@ _______
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/375_imAM_su.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-इ॒माꣳ सु **नाव॒म् आऽरु॑हꣳ**  
-श॒तारि॑त्राꣳ श॒त-स्फ्या॑म् ।  
+इ॒माँ सु **नाव॒म् आऽरु॑हँ**  
+श॒तारि॑त्राँ श॒त-स्फ्या॑म् ।  
 अच्छि॑द्राम् पारयि॒ष्णुम्  ॥  [51]
 </details>
 </div>
@@ -4077,7 +4077,7 @@ Without leak, able to convey across.
 </details>
 <details><summary>मूलम्</summary>
 
-इ॒माꣳ सु नाव॒माऽरु॑हꣳ श॒तारि॑त्राꣳ श॒तस्फ्या॑म् ।  
+इ॒माँ सु नाव॒माऽरु॑हँ श॒तारि॑त्राँ श॒तस्फ्या॑म् ।  
 अच्छि॑द्राम्पारयि॒ष्णुम्  ॥  [51]
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>

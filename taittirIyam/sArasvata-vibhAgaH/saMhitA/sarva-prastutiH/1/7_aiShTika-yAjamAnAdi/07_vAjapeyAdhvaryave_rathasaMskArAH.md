@@ -193,7 +193,7 @@ Be ye steeds, O ye that are strong.
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 वा॒युर् वा॑ त्वा॒, मनु॑र् वा त्वा,  
-गन्ध॒र्वास् स॒प्त-विꣳ॑शतिः +++(खे नक्षत्राणि)+++।  
+गन्ध॒र्वास् स॒प्त-विँ॑शतिः +++(खे नक्षत्राणि)+++।  
 ते अग्रे॒ +++(सौरम्)+++ अश्व॑म् आयुञ्ज॒न्  
 ते अ॑स्मिञ् ज॒वम् आद॑धुः  ॥
 </details>
@@ -209,7 +209,7 @@ They placed swiftness in it.
 </details>
 <details><summary>मूलम्</summary>
 
-वा॒युर्वा॑ त्वा॒ मनु॑र्वा त्वा गन्ध॒र्वास्स॒प्तविꣳ॑शतिः ।  
+वा॒युर्वा॑ त्वा॒ मनु॑र्वा त्वा गन्ध॒र्वास्स॒प्तविँ॑शतिः ।  
 ते अग्रे॒ अश्व॑मायुञ्ज॒न्ते अ॑स्मिञ्ज॒वमाद॑धुः  ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -234,14 +234,14 @@ They placed swiftness in it.
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-अपा॑न्नपादाशुहेम॒न्य ऊ॒र्मिᳵ क॒कुद्मा॒न्प्रतू॑र्तिर्वाज॒सात॑म॒स्तेना॒यव्ँवाजꣳ॑ सेत्  ॥ 
+अपा॑न्नपादाशुहेम॒न्य ऊ॒र्मिᳵ क॒कुद्मा॒न्प्रतू॑र्तिर्वाज॒सात॑म॒स्तेना॒यव्ँवाजँ॑ सेत्  ॥ 
 </details>
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/06_apAnnapAd_Ashuheman.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 +++(अश्व!)+++ अपा॑न्नपाद्! आशुहेम॒न्!  य ऊ॒र्मिᳵ ...   
 क॒कुद्मा॒न्, प्रतू॑र्तिर्, वाज॒सात॑मः ।  
-तेना॒यव्ँ वाजꣳ॑ सेत्+++(←सिध्)+++  ॥
+तेना॒यव्ँ वाजँ॑ सेत्+++(←सिध्)+++  ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/06_apAnnapAd_Ashuheman.md">
@@ -256,7 +256,7 @@ with it may he win the prize.
 
 अपा॑न्नपादाशुहेम॒न्  य ऊ॒र्मिᳵ ...   
 क॒कुद्मा॒न्प्रतू॑र्तिर्वाज॒सात॑मः ।  
-तेना॒यव्ँवाजꣳ॑ सेत्  ॥
+तेना॒यव्ँवाजँ॑ सेत्  ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

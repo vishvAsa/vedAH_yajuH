@@ -123,10 +123,10 @@ Cast away is Namuci's head.
 
 सोमो॒ राजा॒ वरु॑णो   
 दे॒वा ध॑र्म॒-सुव॑श् च॒ ये ।    
-ते ते॒ वाचꣳ॑ सुवन्तां॒    
-ते ते॑ प्रा॒णꣳ सु॑वन्तां॒  
+ते ते॒ वाचँ॑ सुवन्तां॒    
+ते ते॑ प्रा॒णँ सु॑वन्तां॒  
 ते ते॒ चक्षु॑स् सुवन्तां॒   
-ते ते॒ श्रोत्रꣳ॑ सुवन्ताम् ॥
+ते ते॒ श्रोत्रँ॑ सुवन्ताम् ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/14_rAjasUyAbhiShekAdimantrAH/02_somo_rAjA.md">
@@ -138,7 +138,7 @@ Soma, king Varuna, and the gods which instigate righteousness, may they instigat
 <details><summary>मूलम्</summary>
 
 सोमो॒ राजा॒ वरु॑णो दे॒वा ध॑र्म॒सुव॑श्च॒ ये ।  
-ते ते॒ वाचꣳ॑ सुवन्ता॒न्ते ते॑ प्रा॒णꣳ सु॑वन्ता॒न्ते ते॒ चक्षु॑स्सुवन्ता॒न्ते ते॒ श्रोत्रꣳ॑ सुवन्ता॒म्
+ते ते॒ वाचँ॑ सुवन्ता॒न्ते ते॑ प्रा॒णँ सु॑वन्ता॒न्ते ते॒ चक्षु॑स्सुवन्ता॒न्ते ते॒ श्रोत्रँ॑ सुवन्ता॒म्
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -266,7 +266,7 @@ O Rudra, that highest active name of thee, to that thou art offered, thou art of
 प्रजा॑पते॒ न त्वद् +++(विश्वा जातानि→)+++ ए॒तान्य् अ॒न्यो  
 विश्वा॑ जा॒तानि॒ **परि॒** ता **ब॑भूव** ।  
 यत्-का॑मास् ते जुहु॒मस् तन् नो॑ **अस्तु**  
-व॒यꣵ **स्या॑म॒** पत॑यो रयी॒णाम्॥
+व॒यँ **स्या॑म॒** पत॑यो रयी॒णाम्॥
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/121/10_prajApate_na.md">
@@ -286,7 +286,7 @@ O Rudra, that highest active name of thee, to that thou art offered, thou art of
 </details>
 <details><summary>मूलम् - तैत्तिरीयम्</summary>
 
-प्रजा॑पते॒ न त्वदे॒तान्य॒न्यः । विश्वा॑ जा॒तानि॒ परि॒ ता ब॑भूव । यत्का॑मास्ते जुहु॒मस्तन्नो॑ अस्तु । व॒यꣵ स्या॑म॒ पत॑यो रयी॒णाम्॥
+प्रजा॑पते॒ न त्वदे॒तान्य॒न्यः । विश्वा॑ जा॒तानि॒ परि॒ ता ब॑भूव । यत्का॑मास्ते जुहु॒मस्तन्नो॑ अस्तु । व॒यँ स्या॑म॒ पत॑यो रयी॒णाम्॥
 </details>
 <details><summary>Vedaweb annotation</summary>
 

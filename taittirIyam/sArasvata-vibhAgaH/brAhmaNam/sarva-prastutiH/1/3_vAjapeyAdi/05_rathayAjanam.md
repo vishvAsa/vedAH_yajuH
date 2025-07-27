@@ -111,12 +111,12 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वाच॑म् ए॒वास्मा॒ अन्नꣵ॑ स्वदयति ॥27॥  
+वाच॑म् ए॒वास्मा॒ अन्नँ॑ स्वदयति ॥27॥  
 </details>
 
 <details><summary>मूलम्</summary>
 
-वाच॑म् ए॒वास्मा॒ अन्नꣵ॑ स्वदयति ॥27॥  
+वाच॑म् ए॒वास्मा॒ अन्नँ॑ स्वदयति ॥27॥  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -329,12 +329,12 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथो॒ स्तौत्य् ए॒वैना॑न् आ॒जिꣳ स॑रिष्य॒तः ।  
+अथो॒ स्तौत्य् ए॒वैना॑न् आ॒जिँ स॑रिष्य॒तः ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
-अथो॒ स्तौत्य् ए॒वैना॑न् आ॒जिꣳ स॑रिष्य॒तः ।  
+अथो॒ स्तौत्य् ए॒वैना॑न् आ॒जिँ स॑रिष्य॒तः ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

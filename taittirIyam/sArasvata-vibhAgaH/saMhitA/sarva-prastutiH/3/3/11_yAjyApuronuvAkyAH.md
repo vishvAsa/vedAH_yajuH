@@ -1303,18 +1303,18 @@ Nach vielen Seiten wandern windgetrieben, o heller Agni, deine hellen Strahlen, 
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 त्वाम् अ॑ग्ने॒ मानु॑षीर् **ईडते॒** विशो॑  
-होत्रा॒विद॒व्ँविवि॑चिꣳ रत्न॒धात॑मम् ।  
-गुहा॒ **सन्तꣳ॑** सुभग वि॒श्व-द॑र्शतन्  
-तुविष्+++(=प्रवृद्ध)+++-म॒णसꣳ॑+++(→तुविष्व॒णसं॑ शाकले)+++ सु॒यज॑ङ् घृत॒-श्रिय॑म् ।
+होत्रा॒विद॒व्ँविवि॑चिँ रत्न॒धात॑मम् ।  
+गुहा॒ **सन्तँ॑** सुभग वि॒श्व-द॑र्शतन्  
+तुविष्+++(=प्रवृद्ध)+++-म॒णसँ॑+++(→तुविष्व॒णसं॑ शाकले)+++ सु॒यज॑ङ् घृत॒-श्रिय॑म् ।
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष्टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/3/11_yAjyApuronuvAkyAH/07_tvAm_agne.md">
 <details><summary><h5>सर्वाष्टीकाः ...{Loading}...</h5></summary>
 <details><summary>मूलम्</summary>
 
-त्वाम॑ग्ने॒ मानु॑षीरीडते॒ विशो॑ होत्रा॒विद॒व्ँविवि॑चिꣳ रत्न॒धात॑मम् ।  
+त्वाम॑ग्ने॒ मानु॑षीरीडते॒ विशो॑ होत्रा॒विद॒व्ँविवि॑चिँ रत्न॒धात॑मम् ।  
 
-गुहा॒ सन्तꣳ॑ सुभग वि॒श्वद॑र्शतन्तुविष्म॒णसꣳ॑ सु॒यज॑ङ्घृत॒श्रिय॑म् ।
+गुहा॒ सन्तँ॑ सुभग वि॒श्वद॑र्शतन्तुविष्म॒णसँ॑ सु॒यज॑ङ्घृत॒श्रिय॑म् ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -1408,7 +1408,7 @@ Nach vielen Seiten wandern windgetrieben, o heller Agni, deine hellen Strahlen, 
 धा॒ता द॑दातु नो र॒यिम्  
 प्राचीं॑ जी॒वातु॒म् अक्षि॑ताम् ।  
 व॒यं दे॒वस्य॑ धीमहि  
-सुम॒तिꣳ स॒त्य-रा॑धसः+++(=धनस्य)+++ ।
+सुम॒तिँ स॒त्य-रा॑धसः+++(=धनस्य)+++ ।
 
 </details>
 </div>
@@ -1419,7 +1419,7 @@ Nach vielen Seiten wandern windgetrieben, o heller Agni, deine hellen Strahlen, 
 धा॒ता द॑दातु नो र॒यिम्  
 प्राचीं॑ जी॒वातु॒मक्षि॑ताम् ।  
 व॒यं दे॒वस्य॑ धीमहि  
-सुम॒तिꣳ स॒त्य-रा॑धसः।
+सुम॒तिँ स॒त्य-रा॑धसः।
 </details>
 <details><summary>हरदत्तः</summary>
 
@@ -1518,7 +1518,7 @@ A joy to the giver.
 **अन्व्** इद् अ॑नुमते॒ त्वम् [34]  
 **मन्या॑सै॒** शञ्च॑ नᳵ **कृधि** ।  
 क्रत्वे॒ दक्षा॑य नो **हिनु॒**+++(=प्रेरय)+++  
-प्र ण॒ आयूꣳ॑षि **तारिषः** ।
+प्र ण॒ आयूँ॑षि **तारिषः** ।
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष्टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/3/11_yAjyApuronuvAkyAH/24_anv_id.md">
@@ -1533,7 +1533,7 @@ Lengthen our days for us.
 <details><summary>मूलम्</summary>
 
 अन्विद॑नुमते॒ त्वम् [34]  मन्या॑सै॒ शञ्च॑ नᳵ कृधि ।  
-क्रत्वे॒ दक्षा॑य नो हिनु॒ प्र ण॒ आयूꣳ॑षि तारिषः ।
+क्रत्वे॒ दक्षा॑य नो हिनु॒ प्र ण॒ आयूँ॑षि तारिषः ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -1549,8 +1549,8 @@ Lengthen our days for us.
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 **अनु॑ मन्यताम्** अनु॒मन्य॑माना  
-प्र॒जाव॑न्तꣳ र॒यिम् अक्षी॑यमाणम् ।   
-तस्यै॑ व॒यꣳ हेड॑सि॒ **मापि॑ भूम॒**  
+प्र॒जाव॑न्तँ र॒यिम् अक्षी॑यमाणम् ।   
+तस्यै॑ व॒यँ हेड॑सि॒ **मापि॑ भूम॒**  
 सा नो॑ दे॒वी सु॒हवा॒ शर्म॑ **यच्छतु** ।
 </details>
 </div>
@@ -1565,8 +1565,8 @@ May the goddess easy to invoke grant us protection.
 </details>
 <details><summary>मूलम्</summary>
 
-अनु॑ मन्यतामनु॒मन्य॑माना प्र॒जाव॑न्तꣳ र॒यिमक्षी॑यमाणम् ।   
-तस्यै॑ व॒यꣳ हेड॑सि॒ मापि॑ भूम॒ सा नो॑ दे॒वी सु॒हवा॒ शर्म॑ यच्छतु ।
+अनु॑ मन्यतामनु॒मन्य॑माना प्र॒जाव॑न्तँ र॒यिमक्षी॑यमाणम् ।   
+तस्यै॑ व॒यँ हेड॑सि॒ मापि॑ भूम॒ सा नो॑ दे॒वी सु॒हवा॒ शर्म॑ यच्छतु ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -1583,7 +1583,7 @@ May the goddess easy to invoke grant us protection.
 
 यस्या॑म् इ॒दम् प्र॒दिशि॒ यद् **वि॒रोच॒ते**  
 ऽनु॑मति॒म् प्रति॑ **भूषन्त्य्** आ॒यवः॑ ।  
-यस्या॑ उ॒पस्थ॑ उ॒र्व् अ॑न्तरि॑क्ष॒ꣳ॒,  
+यस्या॑ उ॒पस्थ॑ उ॒र्व् अ॑न्तरि॑क्ष॒ँ॒,  
 सा नो॑ दे॒वी सु॒हवा॒ शर्म॑ **यच्छतु** ॥ [35]
 </details>
 </div>
@@ -1599,7 +1599,7 @@ The goddess, easy to invoke, grant us protection [4].
 <details><summary>मूलम्</summary>
 
 यस्या॑मि॒दम्प्र॒दिशि॒ यद्वि॒रोच॒तेऽनु॑मति॒म्प्रति॑ भूषन्त्या॒यवः॑ ।  
-यस्या॑ उ॒पस्थ॑ उ॒र्व॑न्तरि॑क्ष॒ꣳ॒ सा नो॑ दे॒वी सु॒हवा॒ शर्म॑ यच्छतु ॥ [35]
+यस्या॑ उ॒पस्थ॑ उ॒र्व॑न्तरि॑क्ष॒ँ॒ सा नो॑ दे॒वी सु॒हवा॒ शर्म॑ यच्छतु ॥ [35]
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -2548,7 +2548,7 @@ Breitflechtige Sinīvālī, die du der Götter Schwester bist, Geniess' den darg
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/3/11_yAjyApuronuvAkyAH/48_kuhUm_aham.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-कु॒हूम्+++(=नष्टचन्द्राऽमावास्या)+++ अ॒हꣳ सु॒भगा॑व्ँ विद्म॒न्-आप॑सम्+++(=कर्माणं)+++  
+कु॒हूम्+++(=नष्टचन्द्राऽमावास्या)+++ अ॒हँ सु॒भगा॑व्ँ विद्म॒न्-आप॑सम्+++(=कर्माणं)+++  
 अ॒स्मिन् य॒ज्ञे सु॒हवा॑ञ् **जोहवीमि** ।  
 सा नो॑ **ददातु॒** श्रव॑णम् पितृ॒णान्  
 तस्या॑स् ते देवि ह॒विषा॑ **विधेम** ।
@@ -2558,7 +2558,7 @@ Breitflechtige Sinīvālī, die du der Götter Schwester bist, Geniess' den darg
 <details><summary><h5>सर्वाष्टीकाः ...{Loading}...</h5></summary>
 <details><summary>मूलम्</summary>
 
-कु॒हूम॒हꣳ सु॒भगा॑व्ँ विद्म॒नाप॑सम॒स्मिन्य॒ज्ञे सु॒हवा॑ञ्जोहवीमि ।  
+कु॒हूम॒हँ सु॒भगा॑व्ँ विद्म॒नाप॑सम॒स्मिन्य॒ज्ञे सु॒हवा॑ञ्जोहवीमि ।  
 सा नो॑ ददातु॒ श्रव॑णम्पितृ॒णान्तस्या॑स्ते देवि ह॒विषा॑ विधेम ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -2576,7 +2576,7 @@ Breitflechtige Sinīvālī, die du der Götter Schwester bist, Geniess' den darg
 
 कु॒हूर् दे॒वाना॑म् अ॒मृत॑स्य॒ पत्नी॒  
 हव्या॑ नो अ॒स्य ह॒विष॑श् **चिकेतु** ।   
-सन्दा॒शुषे॑ **कि॒रतु॒** भूरि॑ वा॒मꣳ  
+सन्दा॒शुषे॑ **कि॒रतु॒** भूरि॑ वा॒मँ  
 रा॒यस्-पोष॑ञ् चिकि॒तुषे॑ **दधातु** ॥ [36]
 </details>
 </div>
@@ -2585,7 +2585,7 @@ Breitflechtige Sinīvālī, die du der Götter Schwester bist, Geniess' den darg
 <details><summary>मूलम्</summary>
 
 कु॒हूर्दे॒वाना॑म॒मृत॑स्य॒ पत्नी॒ हव्या॑ नो अ॒स्य ह॒विष॑श्चिकेतु ।   
-सन्दा॒शुषे॑ कि॒रतु॒ भूरि॑ वा॒मꣳ रा॒यस्पोष॑ञ्चिकि॒तुषे॑ दधातु ॥ [36]
+सन्दा॒शुषे॑ कि॒रतु॒ भूरि॑ वा॒मँ रा॒यस्पोष॑ञ्चिकि॒तुषे॑ दधातु ॥ [36]
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

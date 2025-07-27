@@ -107,7 +107,7 @@ ____
 <details open><summary><h5>दृंहस्व ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दृꣳह॑स्व+++(=दृढा भव)+++।  
+दृँह॑स्व+++(=दृढा भव)+++।  
 मा ह्वाः॑+++(=कुटिला भूः)+++।
 </details>
 <details><summary>Keith</summary>
@@ -117,11 +117,11 @@ Be firm, waver not.
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-दृꣳह॑स्व॒ मा ह्वाः
+दृँह॑स्व॒ मा ह्वाः
 </details>
 <details><summary>मूलम्</summary>
 
-दृꣳह॑स्व॒  मा ह्वाः॑
+दृँह॑स्व॒  मा ह्वाः॑
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -366,7 +366,7 @@ ____
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विष्णो॑ ह॒व्यꣳ र॑क्षस्व ॥ [4]
+विष्णो॑ ह॒व्यँ र॑क्षस्व ॥ [4]
 </details>
 <details><summary>Keith</summary>
 
@@ -375,7 +375,7 @@ O Visnu, guard the offering.
 </details>
 <details><summary>मूलम्</summary>
 
-विष्णो॑ ह॒व्यꣳ र॑क्षस्व ॥ [4]
+विष्णो॑ ह॒व्यँ र॑क्षस्व ॥ [4]
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

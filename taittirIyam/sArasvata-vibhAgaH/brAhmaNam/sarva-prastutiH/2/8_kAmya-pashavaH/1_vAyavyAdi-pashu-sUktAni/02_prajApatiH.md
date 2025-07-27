@@ -13,7 +13,7 @@ title = "०२ प्रजापतिः"
 प्रजा॑पते॒ न त्वद् +++(विश्वा जातानि→)+++ ए॒तान्य् अ॒न्यो  
 विश्वा॑ जा॒तानि॒ **परि॒** ता **ब॑भूव** ।  
 यत्-का॑मास् ते जुहु॒मस् तन् नो॑ **अस्तु**  
-व॒यꣵ **स्या॑म॒** पत॑यो रयी॒णाम्॥
+व॒यँ **स्या॑म॒** पत॑यो रयी॒णाम्॥
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/121/10_prajApate_na.md">
@@ -33,7 +33,7 @@ title = "०२ प्रजापतिः"
 </details>
 <details><summary>मूलम् - तैत्तिरीयम्</summary>
 
-प्रजा॑पते॒ न त्वदे॒तान्य॒न्यः । विश्वा॑ जा॒तानि॒ परि॒ ता ब॑भूव । यत्का॑मास्ते जुहु॒मस्तन्नो॑ अस्तु । व॒यꣵ स्या॑म॒ पत॑यो रयी॒णाम्॥
+प्रजा॑पते॒ न त्वदे॒तान्य॒न्यः । विश्वा॑ जा॒तानि॒ परि॒ ता ब॑भूव । यत्का॑मास्ते जुहु॒मस्तन्नो॑ अस्तु । व॒यँ स्या॑म॒ पत॑यो रयी॒णाम्॥
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -356,14 +356,14 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 प्रजा॑पते॒ न त्वदे॒तान्य॒न्यः ।  
 विश्वा॑ जा॒तानि॒ परि॒ ता ब॑भूव ।  
 यत्का॑मास्ते जुहु॒मस्तन्नो॑ अस्तु ॥ 2 ॥  
-व॒यꣵ स्या॑म॒ पत॑यो रयी॒णाम् ।  
+व॒यँ स्या॑म॒ पत॑यो रयी॒णाम् ।  
 </details>
 <details><summary>मूलम्</summary>
 
 प्रजा॑पते॒ न त्वदे॒तान्य॒न्यः ।  
 विश्वा॑ जा॒तानि॒ परि॒ ता ब॑भूव ।  
 यत्का॑मास्ते जुहु॒मस्तन्नो॑ अस्तु ॥ 2 ॥  
-व॒यꣵ स्या॑म॒ पत॑यो रयी॒णाम् ।  
+व॒यँ स्या॑म॒ पत॑यो रयी॒णाम् ।  
 </details>
 <details><summary>सायणोक्त-विनियोगः</summary>
 
@@ -458,7 +458,7 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 
 प्र॒जाप॑तिम् प्रथ॒मय्ँ य॒ज्ञिया॑नाम् ।  
 दे॒वाना॒म् अग्रे॑ यज॒तय्ँ **य॑जध्वम्** ।  
-स नो॑ **ददातु॒** द्रवि॑णꣳ सु॒वीर्य॑म् ।  
+स नो॑ **ददातु॒** द्रवि॑णँ सु॒वीर्य॑म् ।  
 रा॒यस्-पोष॒व्ँ **वि ष्य॑तु॒**+++(=शिथिलयतु)+++ नाभि॑म्+++(=नहनं)+++ अ॒स्मे ।
 </details>
 </div>
@@ -468,7 +468,7 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 
 प्र॒जाप॑तिम् प्रथ॒मय्ँ य॒ज्ञिया॑नाम् ।  
 दे॒वाना॒मग्रे॑ यज॒तय्ँय॑जध्वम् ।  
-स नो॑ ददातु॒ द्रवि॑णꣳ सु॒वीर्य॑म् ।  
+स नो॑ ददातु॒ द्रवि॑णँ सु॒वीर्य॑म् ।  
 रा॒यस्पोष॒व्ँवि ष्य॑तु॒ नाभि॑म॒स्मे ।
 </details>
 <details><summary>सायण-टीका</summary>
@@ -485,9 +485,9 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 यो रा॒य **ईशे॑** शतदा॒य उ॒क्थ्यः॑ ।   
-यᳶ प॑शू॒नाꣳ **र॑क्षि॒ता** विष्ठि॑तानाम् ।  
+यᳶ प॑शू॒नाँ **र॑क्षि॒ता** विष्ठि॑तानाम् ।  
 प्र॒जाप॑तिᳶ प्रथम॒-जा ऋ॒तस्य॑ ॥ 4 ॥  
-स॒हस्र॑-धामा **जुषताꣳ** ह॒विर् नः॑ ।
+स॒हस्र॑-धामा **जुषताँ** ह॒विर् नः॑ ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/06_yo_rAya.md">
@@ -495,9 +495,9 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 <details><summary>मूलम्</summary>
 
 यो रा॒य ईशे॑ शतदा॒य उ॒क्थ्यः॑ ।   
-यᳶ प॑शू॒नाꣳ र॑क्षि॒ता विष्ठि॑तानाम् ।  
+यᳶ प॑शू॒नाँ र॑क्षि॒ता विष्ठि॑तानाम् ।  
 प्र॒जाप॑तिᳶ प्रथम॒जा ऋ॒तस्य॑ ॥ 4 ॥  
-स॒हस्र॑धामा जुषताꣳ ह॒विर्नः॑ ।
+स॒हस्र॑धामा जुषताँ ह॒विर्नः॑ ।
 </details>
 <details><summary>सायण-टीका</summary>
 
