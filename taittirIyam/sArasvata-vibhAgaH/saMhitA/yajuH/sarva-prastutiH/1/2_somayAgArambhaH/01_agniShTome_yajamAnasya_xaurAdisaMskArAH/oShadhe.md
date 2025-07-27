@@ -31,7 +31,7 @@ O plant, protect him.
 
 <details><summary>पद-पाठः</summary>
 
-ओष॑धे । त्राय॑स्व । ए॒न॒म्॒ ।  
+ओष॑धे । त्राय॑स्व । ए॒न॒म् ।  
 
 </details>
 

@@ -62,7 +62,7 @@ mayst thou not perish for me, yonder, in yonder world.
 </details>
 <details><summary>पद-पाठः</summary>
 
-मा । मे॒ । ख्षे॒ष्ठाः॒ । अ॒मुत्र॑ । अ॒मुष्मिन्न्॑ । लो॒के ॥ 
+मा । मे॒ । ख्षे॒ष्ठाः॒ । अ॒मुत्र॑ । अ॒मुष्मि॑न् । लो॒के ॥ 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

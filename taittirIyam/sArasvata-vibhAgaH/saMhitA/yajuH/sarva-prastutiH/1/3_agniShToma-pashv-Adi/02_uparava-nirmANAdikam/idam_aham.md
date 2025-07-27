@@ -56,7 +56,7 @@ Here do I overthrow him who equal or unequal is ill-disposed to us.
 
 <details><summary>पद-पाठः</summary>
 
-इ॒दम् । ए॒न॒म्॒ । अध॑रम् । क॒रो॒मि॒ ।   
+इ॒दम् । ए॒न॒म् । अध॑रम् । क॒रो॒मि॒ ।   
 यः । नः॒ । स॒मा॒नः ।   
 यः । अस॑मानः । अ॒रा॒ती॒यति॑ ।
 </details>

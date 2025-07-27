@@ -25,7 +25,7 @@ Axe, hurt him not.
 </details>
 <details><summary>पद-पाठः</summary>
 
-स्वधि॑त॒ इति॒ स्व-धि॒ते॒ । मा । ए॒न॒म्॒ । हि॒ꣳ॒सीः॒ ।
+स्वधि॑त॒ इति॒ स्व-धि॒ते॒ । मा । ए॒न॒म् । हि॒ꣳ॒सीः॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

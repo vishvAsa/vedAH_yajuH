@@ -23,7 +23,7 @@ The Raksas is shaken off, the evil spirits are shaken off.
 
 <details><summary>पद-पाठः</summary>
 
-अव॑धूत॒मित्यव॑-धू॒त॒म्॒ । रख्षः॑ । अव॑धूता॒ इत्यव॑-धू॒ताः॒ । अरा॑तयः ।
+अव॑धूत॒मित्यव॑-धू॒त॒म् । रख्षः॑ । अव॑धूता॒ इत्यव॑-धू॒ताः॒ । अरा॑तयः ।
 </details>
 
 

@@ -22,7 +22,7 @@ May I behold the light, the radiance for all men.
 
 <details><summary>पद-पाठः</summary>
 
-सुवः॑ । अ॒भि । वीति॑ । ख्ये॒ष॒म्॒ । वै॒श्वा॒न॒रम् । ज्योतिः॑ ।
+सुवः॑ । अ॒भि । वीति॑ । ख्ये॒ष॒म् । वै॒श्वा॒न॒रम् । ज्योतिः॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
