@@ -5,7 +5,7 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अग्ने॑ ह॒व्यꣳ र॑ख्षस्व ॥ [6]
+अग्ने॑ ह॒व्यꣳ र॑क्षस्व ॥ [6]
 </details>
 
 <details><summary>Keith</summary>
@@ -15,12 +15,12 @@ O Agni, guard the offering.
 
 <details><summary>मूलम्</summary>
 
-अग्ने॑ ह॒व्यꣳ र॑ख्षस्व ॥ [6]
+अग्ने॑ ह॒व्यꣳ र॑क्षस्व ॥ [6]
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-अग्ने॑ । ह॒व्यम् । र॒ख्ष॒स्व॒ ॥
+अग्ने॑ । ह॒व्यम् । र॒क्ष॒स्व॒ ॥
 </details>
 
 

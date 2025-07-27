@@ -13,7 +13,7 @@ Come hither in thy greatest splendour and give us wealth.
 <details><summary>मूलम्</summary>
 
 वसु॑र॒ग्निर्वसु॑श्रवाः ।  
-अच्छा॑ नख्षि द्यु॒मत्त॑मो र॒यिन्दाः॑  ॥
+अच्छा॑ नक्षि द्यु॒मत्त॑मो र॒यिन्दाः॑  ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

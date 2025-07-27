@@ -1,9 +1,9 @@
 +++
-title = "म॒ह॒ते ख्ष॒त्त्राय॑"
+title = "म॒ह॒ते क्ष॒त्त्राय॑"
 +++
 <details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
 
-… म॒ह॒ते ख्ष॒त्त्राय॑
+… म॒ह॒ते क्ष॒त्त्राय॑
 मह॒त आधि॑पत्याय  
 मह॒ते जान॑राज्यायै
 </details>
@@ -17,7 +17,7 @@ to great lordship, to great overlordship, to great rule over the people.
 
 <details><summary>मूलम्</summary>
 
-म॒ह॒ते ख्ष॒त्राय॑ मह॒त आधि॑पत्याय मह॒ते जान॑राज्याय॥
+म॒ह॒ते क्ष॒त्राय॑ मह॒त आधि॑पत्याय मह॒ते जान॑राज्याय॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

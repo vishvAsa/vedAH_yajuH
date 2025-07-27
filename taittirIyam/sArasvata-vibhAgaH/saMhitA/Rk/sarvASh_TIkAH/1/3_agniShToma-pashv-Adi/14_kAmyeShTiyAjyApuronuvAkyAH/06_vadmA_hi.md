@@ -15,7 +15,7 @@ Be victorious like a king; thou rulest within without a foe.
 <details><summary>मूलम्</summary>
 
 व॒द्मा हि सू॑नो॒ अस्य॑द्म॒सद्वा॑ च॒क्रे अ॒ग्निर्ज॒नुषाज्मान्न॑म् ।   
-स त्वन्न॑ ऊर्जसन॒ ऊर्ज॑न्धा॒ राजे॑व जेरवृ॒के ख्षे॑ष्य॒न्तः ॥
+स त्वन्न॑ ऊर्जसन॒ ऊर्ज॑न्धा॒ राजे॑व जेरवृ॒के क्षे॑ष्य॒न्तः ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

@@ -11,7 +11,7 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒र्व् अ᳕न्तरि॑ख्ष॒म् अन्वि॑हि ।  
+उ॒र्व् अ᳕न्तरि॑क्ष॒म् अन्वि॑हि ।  
 +++(महान् पन्थाः, सुखेन गच्छेति भावः ॥)+++
 </details>
 
@@ -24,12 +24,12 @@ Fare along the wide atmosphere.
 
 <details><summary>मूलम्</summary>
 
-उ॒र्व॑न्तरि॑ख्ष॒मन्वि॑हि ।
+उ॒र्व॑न्तरि॑क्ष॒मन्वि॑हि ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-उ॒रु । अ॒न्तरि॑ख्षम् । अन्विति॑ । इ॒हि॒ ।  
+उ॒रु । अ॒न्तरि॑क्षम् । अन्विति॑ । इ॒हि॒ ।  
 </details>
 
 
