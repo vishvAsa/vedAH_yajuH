@@ -4,7 +4,7 @@ title = "अक्षितोऽसि"
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-अख्षि॑तो॒ऽस्यख्षि॑त्यै त्वा॒ मा मे᳚ ख्षेष्ठा अ॒मुत्रा॒मुष्मि॑न्लो॒के  ॥
+अख्षि॑तो॒ऽस्यख्षि॑त्यै त्वा॒ मा मे॑ ख्षेष्ठा अ॒मुत्रा॒मुष्मि॑न्लो॒के  ॥
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -50,7 +50,7 @@ for imperishableness thee;
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मा मे᳚ ख्षेष्ठा अ॒मुत्रा॒मुष्मि॑ल्ँ लो॒के  ॥  [10]
+मा मे॑ ख्षेष्ठा अ॒मुत्रा॒मुष्मि॑ल्ँ लो॒के  ॥  [10]
 </details>
 <details><summary>Keith</summary>
 
@@ -58,7 +58,7 @@ mayst thou not perish for me, yonder, in yonder world.
 </details>
 <details><summary>मूलम्</summary>
 
-मा मे᳚ ख्षेष्ठा अ॒मुत्रा॒मुष्मि॑न्लो॒के  ॥  [10]
+मा मे॑ ख्षेष्ठा अ॒मुत्रा॒मुष्मि॑न्लो॒के  ॥  [10]
 </details>
 <details><summary>पद-पाठः</summary>
 

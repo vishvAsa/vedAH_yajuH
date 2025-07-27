@@ -14,7 +14,7 @@ Befriend us for prosperity.
 <details><summary>मूलम्</summary>
 
 स नᳶ॑ पि॒तेव॑ सू॒नवेऽग्ने॑ सूपाय॒नो भ॑व ।  
-सच॑स्वा नस्स्व॒स्तये᳚  ॥
+सच॑स्वा नस्स्व॒स्तये॑  ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

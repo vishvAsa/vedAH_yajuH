@@ -23,7 +23,7 @@ That mortal, O Agni, whom thou hast helped in the battles, Whom thou hast streng
 
 <details><summary>पद-पाठः</summary>
 
-यम् । अ॒ग्ने॒ । पृ॒थ्स्विति॑ पृत्-सु । मर्त्य᳚म् । आवः॑ । वाजे॑षु । यम् । जु॒नाः ॥ सः । यन्ता᳚ । शश्व॑तीः । इषः॑ ॥ [23]
+यम् । अ॒ग्ने॒ । पृ॒थ्स्विति॑ पृत्-सु । मर्त्य॑म् । आवः॑ । वाजे॑षु । यम् । जु॒नाः ॥ सः । यन्ता॑ । शश्व॑तीः । इषः॑ ॥ [23]
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

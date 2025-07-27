@@ -13,7 +13,7 @@ Do thou in the contests strengthen the steeds.
 <details><summary>मूलम्</summary>
 
 अश्वा॑जनि वाजिनि॒ वाजे॑षु वाजिनीव॒ति ।  
-अश्वा᳚न्थ्स॒मथ्सु॑ वाजय  ॥
+अश्वा॑न्थ्स॒मथ्सु॑ वाजय  ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

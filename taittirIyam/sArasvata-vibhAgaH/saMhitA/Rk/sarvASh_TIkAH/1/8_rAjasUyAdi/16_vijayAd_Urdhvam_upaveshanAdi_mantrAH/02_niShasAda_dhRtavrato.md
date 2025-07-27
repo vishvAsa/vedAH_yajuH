@@ -13,8 +13,8 @@ In the waters, with keen insight, for lordship.
 <details><summary>मूलम्</summary>
 
 … निष॑साद धृ॒तव्र॑तो॒   
-वरु॑णᳶ प॒स्त्या᳚स्वा ।  
-साम्रा᳚ज्याय सु॒क्रतुः॑॥
+वरु॑णᳶ प॒स्त्या॑स्वा ।  
+साम्रा॑ज्याय सु॒क्रतुः॑॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

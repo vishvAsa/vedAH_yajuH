@@ -14,7 +14,7 @@ To drink this Soma.
 <details><summary>मूलम्</summary>
 
 प्रा॒त॒र्युजौ॒ वि मु॑च्येथा॒मश्वि॑ना॒वेह ग॑च्छतम् ।  
-अ॒स्य सोम॑स्य पी॒तये᳚ ॥
+अ॒स्य सोम॑स्य पी॒तये॑ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

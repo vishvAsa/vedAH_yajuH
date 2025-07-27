@@ -20,7 +20,7 @@ Be ye pure for the divine rite, the sacrifice to the gods.
 
 <details><summary>पद-पाठः</summary>
 
-शुन्ध॑ध्वम् । दैव्या॑य । कर्म॑णे । दे॒व॒य॒ज्याया॒ इति॑ देव-य॒ज्यायै᳚ । 
+शुन्ध॑ध्वम् । दैव्या॑य । कर्म॑णे । दे॒व॒य॒ज्याया॒ इति॑ देव-य॒ज्यायै॑ । 
 </details>
 
 

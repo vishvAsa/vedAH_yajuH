@@ -5,7 +5,7 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-घृ॒ताची॒ नाम्ना᳚ प्रि॒येण॒ नाम्ना᳚ प्रि॒ये सद॑सि सीद ।
+घृ॒ताची॒ नाम्ना॑ प्रि॒येण॒ नाम्ना॑ प्रि॒ये सद॑सि सीद ।
 </details>
 
 <details><summary>Keith</summary>
@@ -15,12 +15,12 @@ Loving the ghee, sit on thy dear seat with thy dear name.
 
 <details><summary>मूलम्</summary>
 
-घृ॒ताची॒ नाम्ना᳚ प्रि॒येण॒ नाम्ना᳚ प्रि॒ये सद॑सि सीद ।
+घृ॒ताची॒ नाम्ना॑ प्रि॒येण॒ नाम्ना॑ प्रि॒ये सद॑सि सीद ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-घृ॒ताची᳚ । नाम्ना᳚ । प्रि॒येण॑ । नाम्ना᳚ । प्रि॒ये । सद॑सि । सी॒द॒ ।
+घृ॒ताची॑ । नाम्ना॑ । प्रि॒येण॑ । नाम्ना॑ । प्रि॒ये । सद॑सि । सी॒द॒ ।
 </details>
 
 

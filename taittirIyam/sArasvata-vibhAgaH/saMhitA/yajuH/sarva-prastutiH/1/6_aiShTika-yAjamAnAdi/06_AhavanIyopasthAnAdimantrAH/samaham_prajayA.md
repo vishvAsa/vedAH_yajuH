@@ -4,7 +4,7 @@ title = "समहम् प्रजया"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सम् अ॒हम् प्र॒जया᳚  +++(भूयासम्)+++  ।
+सम् अ॒हम् प्र॒जया॑  +++(भूयासम्)+++  ।
 </details>
 
 <details><summary>Keith</summary>
@@ -15,12 +15,12 @@ May I be united with offspring,
 
 <details><summary>मूलम्</summary>
 
-सम॒हम्प्र॒जया᳚  +++(भूयासम्)+++  ।
+सम॒हम्प्र॒जया॑  +++(भूयासम्)+++  ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-समिति॑ । अ॒हम् । प्र॒जयेति॑ प्र-जया᳚ । 
+समिति॑ । अ॒हम् । प्र॒जयेति॑ प्र-जया॑ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -41,7 +41,7 @@ ___________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सम् मया᳚ प्र॒जा  +++(भूयात्)+++ ।
+सम् मया॑ प्र॒जा  +++(भूयात्)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -52,12 +52,12 @@ offspring with me.
 
 <details><summary>मूलम्</summary>
 
-सम्मया᳚ प्र॒जा  +++(भूयात्)+++ ।
+सम्मया॑ प्र॒जा  +++(भूयात्)+++ ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-समिति॑ । मया᳚ । प्र॒जेति॑ प्र-जा ।
+समिति॑ । मया॑ । प्र॒जेति॑ प्र-जा ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -121,7 +121,7 @@ increase of wealth with me.
 </details>
 <details><summary>पद-पाठः</summary>
 
-समिति॑ । मया᳚ । रा॒यः । पोषः॑ ।
+समिति॑ । मया॑ । रा॒यः । पोषः॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

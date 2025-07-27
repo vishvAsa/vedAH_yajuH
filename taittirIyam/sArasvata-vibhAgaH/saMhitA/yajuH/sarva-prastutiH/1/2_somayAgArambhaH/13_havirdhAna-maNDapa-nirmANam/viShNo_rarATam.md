@@ -24,7 +24,7 @@ Thou art the forehead of Visnu.
 
 <details><summary>पद-पाठः</summary>
 
-विष्णोः᳚ । र॒राट᳚म् । अ॒सि॒ । 
+विष्णोः॑ । र॒राट॑म् । अ॒सि॒ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -41,7 +41,7 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विष्णोः᳚ पृ॒ष्ठम् अ॑सि ।
+विष्णोः॑ पृ॒ष्ठम् अ॑सि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -52,11 +52,11 @@ Thou art the back of Visnu.
 
 <details><summary>मूलम्</summary>
 
-विष्णोः᳚ पृ॒ष्ठम॑सि ।
+विष्णोः॑ पृ॒ष्ठम॑सि ।
 </details>
 <details><summary>पद-पाठः</summary>
 
-विष्णोः᳚ । पृ॒ष्ठम् । अ॒सि॒ । 
+विष्णोः॑ । पृ॒ष्ठम् । अ॒सि॒ । 
 </details>
 
 
@@ -74,7 +74,7 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विष्णो॒श् श्नप्त्रे᳚+++(=मुखकोणौ)+++ स्थः ।
+विष्णो॒श् श्नप्त्रे॑+++(=मुखकोणौ)+++ स्थः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -84,12 +84,12 @@ Ye two are the corners' of Visnu's mouth.
 
 <details><summary>मूलम्</summary>
 
-विष्णो॒श्श्ञप्त्रे᳚ स्थः ।
+विष्णो॒श्श्ञप्त्रे॑ स्थः ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-विष्णोः᳚ । श्ञप्त्रे॒ इति॑ । स्थः॒ । 
+विष्णोः॑ । श्ञप्त्रे॒ इति॑ । स्थः॒ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -122,7 +122,7 @@ Thou art the thread of Visnu.
 
 <details><summary>पद-पाठः</summary>
 
-विष्णोः᳚ । स्यूः । अ॒सि॒ ।  
+विष्णोः॑ । स्यूः । अ॒सि॒ ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -139,7 +139,7 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विष्णो᳚र् ध्रु॒वम् अ॑सि ।
+विष्णो॑र् ध्रु॒वम् अ॑सि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -149,11 +149,11 @@ Thou art the fixed point of Visnu.
 
 <details><summary>मूलम्</summary>
 
-विष्णो᳚र्ध्रु॒वम॑सि ।
+विष्णो॑र्ध्रु॒वम॑सि ।
 </details>
 <details><summary>पद-पाठः</summary>
 
-विष्णोः᳚ । ध्रु॒वम् । अ॒सि॒ ।
+विष्णोः॑ । ध्रु॒वम् । अ॒सि॒ ।
 </details>
 
 

@@ -20,7 +20,7 @@ Let the god Savitr anoint thee with honey.
 
 <details><summary>पद-पाठः</summary>
 
-दे॒वः । त्वा॒ । स॒वि॒ता । मध्वा᳚ । अ॒न॒क्तु॒ । 
+दे॒वः । त्वा॒ । स॒वि॒ता । मध्वा॑ । अ॒न॒क्तु॒ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

@@ -11,7 +11,7 @@ May I win a Brahman to-day, a seer and sprung from seers, of (famous) father and
 
 <details><summary>मूलम्</summary>
 
-ब्रा॒ह्म॒णम॒द्य रा᳚ध्यास॒मृषि॑मार्षे॒यम्पि॑तृ॒मन्त॑म्पैतृम॒त्यꣳ सु॒धातु॑दख्षिणम् ।
+ब्रा॒ह्म॒णम॒द्य रा॑ध्यास॒मृषि॑मार्षे॒यम्पि॑तृ॒मन्त॑म्पैतृम॒त्यꣳ सु॒धातु॑दख्षिणम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

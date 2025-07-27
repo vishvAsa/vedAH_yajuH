@@ -4,7 +4,7 @@ title = "विष्णोः क्रमः"
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-विष्णो॒ᳵ क्रमो॑ऽसि॒ विष्णोः᳚ क्रा॒न्तम॑सि॒  विष्णो॒र्विक्रा᳚न्तमसि ।
+विष्णो॒ᳵ क्रमो॑ऽसि॒ विष्णोः॑ क्रा॒न्तम॑सि॒  विष्णो॒र्विक्रा॑न्तमसि ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -30,7 +30,7 @@ Thou art the stepping of Visnu,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विष्णोः᳚ क्रा॒न्तम॑सि ।
+विष्णोः॑ क्रा॒न्तम॑सि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -40,7 +40,7 @@ thou art the step of Visnu,
 
 <details><summary>मूलम्</summary>
 
-विष्णोः᳚ क्रा॒न्तम॑सि ।
+विष्णोः॑ क्रा॒न्तम॑सि ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -50,7 +50,7 @@ thou art the step of Visnu,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विष्णो॒र्विक्रा᳚न्तमसि ।
+विष्णो॒र्विक्रा॑न्तमसि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -60,7 +60,7 @@ thou art the stride of Visnu.
 
 <details><summary>मूलम्</summary>
 
-विष्णो॒र्विक्रा᳚न्तमसि ।
+विष्णो॒र्विक्रा॑न्तमसि ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

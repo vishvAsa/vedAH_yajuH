@@ -20,7 +20,7 @@ O Agni, guard the offering.
 
 <details><summary>पद-पाठः</summary>
 
-अग्ने᳚ । ह॒व्यम् । र॒ख्ष॒स्व॒ ॥
+अग्ने॑ । ह॒व्यम् । र॒ख्ष॒स्व॒ ॥
 </details>
 
 

@@ -13,8 +13,8 @@ The bearer of the oblation, with ladle in his mouth.
 
 <details><summary>मूलम्</summary>
 
-अ॒ग्निना॒ग्निस्समि॑ध्यते क॒विर्गृ॒हप॑ति॒र्युवा᳚ ।    
-ह॒व्य॒वाड्जु॒ह्वा᳚स्यः  ॥
+अ॒ग्निना॒ग्निस्समि॑ध्यते क॒विर्गृ॒हप॑ति॒र्युवा॑ ।    
+ह॒व्य॒वाड्जु॒ह्वा॑स्यः  ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

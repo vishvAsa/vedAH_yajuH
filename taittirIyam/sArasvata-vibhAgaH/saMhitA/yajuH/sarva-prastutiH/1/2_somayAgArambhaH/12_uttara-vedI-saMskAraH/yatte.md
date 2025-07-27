@@ -23,7 +23,7 @@ Whatsoever unapproached, holy name is thine, [1] therewith I take thee up.
 
 <details><summary>पद-पाठः</summary>
 
-यत् । ते॒ । अना॑धृष्ट॒मित्यना᳚-धृ॒ष्ट॒म् । नाम॑ । य॒ज्ञिय᳚म् । तेन॑ । त्वा॒ । एति॑ । द॒धे॒ ।
+यत् । ते॒ । अना॑धृष्ट॒मित्यना॑-धृ॒ष्ट॒म् । नाम॑ । य॒ज्ञिय॑म् । तेन॑ । त्वा॒ । एति॑ । द॒धे॒ ।
 
 </details>
 

@@ -50,7 +50,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विश्वे᳚भ्यस् त्वेन्द्रि॒येभ्यो॑ दि॒व्येभ्य॒ᳶ पार्थि॑वेभ्यः ।
+विश्वे॑भ्यस् त्वेन्द्रि॒येभ्यो॑ दि॒व्येभ्य॒ᳶ पार्थि॑वेभ्यः ।
 </details>
 <details><summary>Keith</summary>
 
@@ -60,7 +60,7 @@ and earth thee!
 </details>
 <details><summary>मूलम्</summary>
 
-विश्वे᳚भ्यस्त्वेन्द्रि॒येभ्यो॑ दि॒व्येभ्य॒ᳶ पार्थि॑वेभ्यः ।
+विश्वे॑भ्यस्त्वेन्द्रि॒येभ्यो॑ दि॒व्येभ्य॒ᳶ पार्थि॑वेभ्यः ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -129,7 +129,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्वाहा᳚ त्वा सुभव॒स्! सूर्या॑य
+स्वाहा॑ त्वा सुभव॒स्! सूर्या॑य
 </details>
 <details><summary>Keith</summary>
 
@@ -137,7 +137,7 @@ Hail! Thee, of kindly nature, to the sun!
 </details>
 <details><summary>मूलम्</summary>
 
-स्वाहा᳚ त्वा सुभव॒स्सूर्या॑य
+स्वाहा॑ त्वा सुभव॒स्सूर्या॑य
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

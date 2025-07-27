@@ -20,7 +20,7 @@ O Sarasvati, come hither.
 </details>
 <details><summary>पद-पाठः</summary>
 
-इडे᳚ । एति॑ । इ॒हि॒ ।   
+इडे॑ । एति॑ । इ॒हि॒ ।   
 अदि॑ते । एति॑ । इ॒हि॒ ।   
 सर॑स्वति । एति॑ । इ॒हि॒ । 
 </details>

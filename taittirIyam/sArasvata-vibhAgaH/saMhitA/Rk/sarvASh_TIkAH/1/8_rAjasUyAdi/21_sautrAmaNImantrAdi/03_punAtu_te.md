@@ -14,7 +14,7 @@ With the eternal sieve.
 <details><summary>मूलम्</summary>
 
 पु॒नातु॑ ते परि॒स्रुत॒ꣳ॒ सोम॒ꣳ॒ सूर्य॑स्य दुहि॒ता ।  
-वारे॑ण॒ शश्व॑ता॒ तना᳚  ॥
+वारे॑ण॒ शश्व॑ता॒ तना॑  ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
