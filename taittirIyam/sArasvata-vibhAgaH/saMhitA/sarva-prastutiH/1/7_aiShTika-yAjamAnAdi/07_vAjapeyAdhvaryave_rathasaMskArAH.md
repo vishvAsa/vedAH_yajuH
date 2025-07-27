@@ -234,12 +234,12 @@ They placed swiftness in it.
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-अपा᳚न्नपादाशुहेम॒न्॒य ऊ॒र्मिᳵ क॒कुद्मा॒न्प्रतू᳚र्तिर्वाज॒सात॑म॒स्तेना॒यव्ँवाजꣳ॑ सेत्  ॥ 
+अपा᳚न्नपादाशुहेम॒न्य ऊ॒र्मिᳵ क॒कुद्मा॒न्प्रतू᳚र्तिर्वाज॒सात॑म॒स्तेना॒यव्ँवाजꣳ॑ सेत्  ॥ 
 </details>
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/06_apAnnapAd_Ashuheman.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-+++(अश्व!)+++ अपा᳚न्नपाद्! आशुहेम॒न्॒!  य ऊ॒र्मिᳵ ...   
++++(अश्व!)+++ अपा᳚न्नपाद्! आशुहेम॒न्!  य ऊ॒र्मिᳵ ...   
 क॒कुद्मा॒न्, प्रतू᳚र्तिर्, वाज॒सात॑मः ।  
 तेना॒यव्ँ वाजꣳ॑ सेत्+++(←सिध्)+++  ॥
 </details>
@@ -254,7 +254,7 @@ with it may he win the prize.
 </details>
 <details><summary>मूलम्</summary>
 
-अपा᳚न्नपादाशुहेम॒न्॒  य ऊ॒र्मिᳵ ...   
+अपा᳚न्नपादाशुहेम॒न्  य ऊ॒र्मिᳵ ...   
 क॒कुद्मा॒न्प्रतू᳚र्तिर्वाज॒सात॑मः ।  
 तेना॒यव्ँवाजꣳ॑ सेत्  ॥
 </details>

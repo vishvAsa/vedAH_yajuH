@@ -522,7 +522,7 @@ O lord of the purifier, with thy purifier for whatsoever I purify myself, that m
 
 <details><summary>पद-पाठः</summary>
 
-तस्य॑ । ते॒ । प॒वि॒त्र॒प॒त॒ इति॑ पवित्र-प॒ते॒ । प॒वित्रे॑ण । यस्मै᳚ । कम् । पु॒ने । तत् । श॒के॒य॒म्॒ । 
+तस्य॑ । ते॒ । प॒वि॒त्र॒प॒त॒ इति॑ पवित्र-प॒ते॒ । प॒वित्रे॑ण । यस्मै᳚ । कम् । पु॒ने । तत् । श॒के॒य॒म् । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

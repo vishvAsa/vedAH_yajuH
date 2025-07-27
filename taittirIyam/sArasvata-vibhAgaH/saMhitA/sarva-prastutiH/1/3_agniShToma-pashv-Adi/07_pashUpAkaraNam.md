@@ -122,7 +122,7 @@ Let thy oblations taste sweet.
 <details><summary>पद-पाठः</summary>
 
 बृह॑स्पते । धा॒रय॑ । वसू॑नि ।   
-ह॒व्या । ते॒ । स्व॒द॒न्ता॒म्॒ । 
+ह॒व्या । ते॒ । स्व॒द॒न्ता॒म् । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -288,7 +288,7 @@ Anointed with ghee, do ye produce a male.
 </details>
 <details><summary>पद-पाठः</summary>
 
-घृ॒तेन॑ । अ॒क्ते इति॑ । वृष॑णम् । द॒धा॒था॒म्॒ । 
+घृ॒तेन॑ । अ॒क्ते इति॑ । वृष॑णम् । द॒धा॒था॒म् । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

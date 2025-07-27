@@ -651,7 +651,7 @@ He who knows thus [4] is propagated with offspring, with cattle, with pairings.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वाना॒व्ँ वा अन्-इ॑ष्टा दे॒वता॒ आसन्न्॑ ।
+दे॒वाना॒व्ँ वा अन्-इ॑ष्टा दे॒वता॒ आस॑न् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -662,7 +662,7 @@ These deities were not sacrificed to by the gods;
 
 <details><summary>मूलम्</summary>
 
-दे॒वाना॒व्ँवा अनि॑ष्टा दे॒वता॒ आसन्न्॑ ।
+दे॒वाना॒व्ँवा अनि॑ष्टा दे॒वता॒ आस॑न् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

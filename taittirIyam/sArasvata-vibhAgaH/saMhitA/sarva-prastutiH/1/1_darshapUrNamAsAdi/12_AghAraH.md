@@ -97,7 +97,7 @@ O upabhrt, come hither, the god Savitr summons thee for the sacrifice to the god
 
 <details><summary>पद-पाठः</summary>
 
-उप॑भृ॒दित्युप॑-भृ॒त्॒ । एति॑ । इ॒हि॒ । दे॒वः । त्वा॒ । स॒वि॒ता । ह्व॒य॒ति॒ । दे॒व॒य॒ज्याया॒ इति॑ देव-य॒ज्यायै᳚ ।
+उप॑भृ॒दित्युप॑-भृ॒त् । एति॑ । इ॒हि॒ । दे॒वः । त्वा॒ । स॒वि॒ता । ह्व॒य॒ति॒ । दे॒व॒य॒ज्याया॒ इति॑ देव-य॒ज्यायै᳚ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -133,7 +133,7 @@ O Agni and Visnu, let me not step down upon you.
 
 <details><summary>पद-पाठः</summary>
 
-अग्ना॑विष्णू॒ इत्यग्ना᳚-वि॒ष्णू॒ । मा । वा॒म्॒ । अवेति॑ । क्र॒मि॒ष॒म्॒ ।
+अग्ना॑विष्णू॒ इत्यग्ना᳚-वि॒ष्णू॒ । मा । वा॒म् । अवेति॑ । क्र॒मि॒ष॒म् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -155,7 +155,7 @@ Be ye parted,
 
 <details><summary>पद-पाठः</summary>
 
-वीति॑ । जि॒हा॒था॒म्॒ । 
+वीति॑ । जि॒हा॒था॒म् । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -180,8 +180,8 @@ Make ye a place for me, ye place-makers.
 
 <details><summary>पद-पाठः</summary>
 
-मा । मा॒ । समिति॑ । ता॒प्त॒म्॒ ।
-लो॒कम् । मे॒ । लो॒क॒कृ॒ता॒विति॑ लोक-कृ॒तौ॒ । कृ॒णु॒त॒म्॒ ।
+मा । मा॒ । समिति॑ । ता॒प्त॒म् ।
+लो॒कम् । मे॒ । लो॒क॒कृ॒ता॒विति॑ लोक-कृ॒तौ॒ । कृ॒णु॒त॒म् ।
 </details>
 
 

@@ -55,12 +55,12 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒भि सु॑व॒र्गल्ँ लो॒कम॑जयन्न् ।
+अ॒भि सु॑व॒र्गल्ँ लो॒कम॑जयन् ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-अ॒भि सु॑व॒र्गल्ँ लो॒कम॑जयन्न् ।
+अ॒भि सु॑व॒र्गल्ँ लो॒कम॑जयन् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -379,7 +379,7 @@ unicode_script: devanagari
 
 दे॒वा वै चतु॑र्होतृभिस्स॒त्त्रमा॑सत ।
 ऋद्धि॑परिमित॒य्ँयश॑स्कामाः ।
-ते᳚ऽब्रुवन्न् ।
+ते᳚ऽब्रुवन् ।
 यन्न॑ᳶ प्रथ॒मय्ँयश॑ ऋ॒च्छात् ।
 सर्वे॑षान्न॒स्तथ्स॒हास॒दिति॑ ।
 </details>
@@ -513,7 +513,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-तन्दे॒वाᳶ प्रै॒षैᳶ प्रैष॑मैच्छन्न् ।  
+तन्दे॒वाᳶ प्रै॒षैᳶ प्रैष॑मैच्छन् ।  
 तत्प्रै॒षाणा᳚म्प्रैष॒त्वम् ।
 </details>
 
@@ -540,7 +540,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-नि॒विद्भि॒र्न्य॑वेदयन्न् ।  
+नि॒विद्भि॒र्न्य॑वेदयन् ।  
 तन्नि॒विदा᳚न्निवि॒त्त्वम् ॥ 46 ॥   
 </details>
 
@@ -568,7 +568,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-आ॒प्रीभि॑राप्नुवन्न् ।  
+आ॒प्रीभि॑राप्नुवन् ।  
 तदा॒प्रीणा॑माप्रि॒त्वम् ।
 </details>
 
@@ -594,13 +594,13 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तम॑घ्नन्न् ।  
+तम॑घ्नन् ।  
 तस्य॒ यशो॒ व्य॑गृह्णत ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-तम॑घ्नन्न् ।  
+तम॑घ्नन् ।  
 तस्य॒ यशो॒ व्य॑गृह्णत ।
 </details>
 
@@ -616,7 +616,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-ते ग्रहा॑ अभवन्न् ।  
+ते ग्रहा॑ अभवन् ।  
 तद्ग्रहा॑णाङ्ग्रह॒त्वम् ।
 </details>
 
@@ -669,7 +669,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-ते᳚ऽब्रुवन्न् ।
+ते᳚ऽब्रुवन् ।
 यो वै न॒श्श्रेष्ठोऽभू᳚त् ॥ 47 ॥  
 तम॑वधिष्म ।
 पुन॑रि॒मꣳ सु॑वामहा॒ इति॑ ।
@@ -743,7 +743,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-साम्ना॒ समान॑यन्न् ।
+साम्ना॒ समान॑यन् ।
 तथ्साम्न॑स्साम॒त्वम् ।
 </details>
 
@@ -770,7 +770,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-उ॒क्थैरुद॑स्थापयन्न् ।
+उ॒क्थैरुद॑स्थापयन् ।
 तदु॒क्थाना॑मुक्थ॒त्वम् ।
 </details>
 

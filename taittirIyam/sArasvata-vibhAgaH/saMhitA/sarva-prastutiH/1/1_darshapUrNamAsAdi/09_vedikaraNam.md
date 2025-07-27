@@ -149,7 +149,7 @@ O earth whereon sacrifice is offered to the gods, let me harm not the root of th
 
 <details><summary>पद-पाठः</summary>
 
-पृथि॑वि । दे॒व॒य॒ज॒नीति॑ देव-य॒ज॒नि॒ । ओष॑ध्याः । ते॒ । मूल᳚म् । मा । हि॒ꣳ॒सि॒ष॒म्॒ ।
+पृथि॑वि । दे॒व॒य॒ज॒नीति॑ देव-य॒ज॒नि॒ । ओष॑ध्याः । ते॒ । मूल᳚म् । मा । हि॒ꣳ॒सि॒ष॒म् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -633,7 +633,7 @@ Let not Araru mount the sky for thee.
 
 <details><summary>पद-पाठः</summary>
 
-अ॒ररुः॑ । ते॒ । दिव᳚म् । मा । स्का॒न्॒ ।
+अ॒ररुः॑ । ते॒ । दिव᳚म् । मा । स्का॒न् ।
 </details>
 
 

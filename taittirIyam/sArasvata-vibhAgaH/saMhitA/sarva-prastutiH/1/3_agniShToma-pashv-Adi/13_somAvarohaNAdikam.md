@@ -124,7 +124,7 @@ O King Soma, come hither, descend.
 </details>
 <details><summary>पद-पाठः</summary>
 
-सोम॑ । रा॒ज॒न्न्॒ । एति॑ । इ॒हि॒ । अवेति॑ । रो॒ह॒ ।
+सोम॑ । रा॒ज॒न् । एति॑ । इ॒हि॒ । अवेति॑ । रो॒ह॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -152,7 +152,7 @@ Let me not harm thee.
 <details><summary>पद-पाठः</summary>
 
 मा । भेः । मा । समिति॑ । वि॒क्थाः॒ ।  
-मा । त्वा॒ । हि॒ꣳ॒सि॒ष॒म्॒ । 
+मा । त्वा॒ । हि॒ꣳ॒सि॒ष॒म् । 
 
 </details>
 

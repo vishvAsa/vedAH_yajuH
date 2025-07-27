@@ -699,7 +699,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-त ए॒तल्ँ लो॒कम॑जयन्न् ।
+त ए॒तल्ँ लो॒कम॑जयन् ।
 यस्मि॑न्नृ॒तवः॑ ।
 </details>
 
