@@ -279,12 +279,12 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते॑ऽमुष्मि॑ल्ँलो॒के व्य॑ख्षुध्यन् ।
+ते॑ऽमुष्मि॑ल्ँलो॒के व्य॑क्षुध्यन् ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-ते॑ऽमुष्मि॑ल्ँलो॒के व्य॑ख्षुध्यन् ।
+ते॑ऽमुष्मि॑ल्ँलो॒के व्य॑क्षुध्यन् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

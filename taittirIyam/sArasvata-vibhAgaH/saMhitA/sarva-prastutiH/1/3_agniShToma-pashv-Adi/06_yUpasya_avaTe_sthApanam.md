@@ -14,12 +14,12 @@ _______
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-－पृ॒थि॒व्यै त्वा॒ऽन्तरि॑ख्षाय त्वा दि॒वे त्वा । 
+－पृ॒थि॒व्यै त्वा॒ऽन्तरि॑क्षाय त्वा दि॒वे त्वा । 
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृ॒थि॒व्यै त्वा॑  +++(प्रोक्षामि)+++ ।   
-अ॒न्तरि॑ख्षाय त्वा    +++(प्रोक्षामि)+++  ।  
+अ॒न्तरि॑क्षाय त्वा    +++(प्रोक्षामि)+++  ।  
 दि॒वे त्वा॑   +++(प्रोक्षामि)+++ ।  
 </details>
 <details><summary>Keith</summary>
@@ -29,13 +29,13 @@ To I earth thee! To atmosphere thee! To sky thee!
 <details><summary>मूलम्</summary>
 
 पृ॒थि॒व्यै त्वा॑  +++(प्रोक्षामि)+++ ।   
-अ॒न्तरि॑ख्षाय त्वा    +++(प्रोक्षामि)+++  ।  
+अ॒न्तरि॑क्षाय त्वा    +++(प्रोक्षामि)+++  ।  
 दि॒वे त्वा॑   +++(प्रोक्षामि)+++ ।  
 </details>
 <details><summary>पद-पाठः</summary>
 
 पृ॒थि॒व्यै । त्वा॒ ।  
-अ॒न्तरि॑ख्षाय । त्वा॒ ।  
+अ॒न्तरि॑क्षाय । त्वा॒ ।  
 दि॒वे । त्वा॒ । 
 </details>
 
@@ -268,12 +268,12 @@ _______
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-उद्दिवꣵ॑ स्तभा॒नान्तरि॑ख्षम्पृण पृथि॒वीमुप॑रेण दृꣳह 
+उद्दिवꣵ॑ स्तभा॒नान्तरि॑क्षम्पृण पृथि॒वीमुप॑रेण दृꣳह 
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उद् दिवꣵ॑ स्तभान   ।  
-आ +अ॒न्तरि॑ख्षम् पृण+++(=पूरय)+++ ।   
+आ +अ॒न्तरि॑क्षम् पृण+++(=पूरय)+++ ।   
 पृ॒थि॒वीम् उप॑रेण दृꣳह ।+++(5)+++
 </details>
 <details><summary>Keith</summary>
@@ -283,12 +283,12 @@ Support the sky, fill the atmosphere, with thy base make firm the earth.
 <details><summary>मूलम्</summary>
 
 उद्दिवꣵ॑ स्तभान  ।   
-अ॒न्तरि॑ख्षम्पृण ।    
+अ॒न्तरि॑क्षम्पृण ।    
 पृ॒थि॒वीमुप॑रेण दृꣳह ।
 </details>
 <details><summary>पद-पाठः</summary>
 
-उदिति॑ । दिव॑म् । स्त॒भा॒न॒ । एति॑ । अ॒न्तरि॑ख्षम् । पृ॒ण॒ । पृ॒थि॒वीम् । उप॑रेण । दृ॒ꣳ॒ह॒ । 
+उदिति॑ । दिव॑म् । स्त॒भा॒न॒ । एति॑ । अ॒न्तरि॑क्षम् । पृ॒ण॒ । पृ॒थि॒वीम् । उप॑रेण । दृ॒ꣳ॒ह॒ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -844,13 +844,13 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्र॒ह्म॒वनि॑न्त्वा ख्षत्त्र॒वनिꣳ॑ सुप्रजा॒वनिꣳ॑ रायस्पोष॒वनि॒म्पर्यू॑हामि ।
+ब्र॒ह्म॒वनि॑न्त्वा क्षत्त्र॒वनिꣳ॑ सुप्रजा॒वनिꣳ॑ रायस्पोष॒वनि॒म्पर्यू॑हामि ।
 </details>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/01_maNDapa-nirmANam/brahma-vanim.md">
 <details open><summary><h5>ब्रह्म-वनिम् ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्र॒ह्म॒-वनि॑न् त्वा  ख्षत्र॒-वनिꣳ॑ सुप्रजा॒-वनिꣳ॑ रायस्-पोष॒-वनि॒म् पर्यू॑हामि।
+ब्र॒ह्म॒-वनि॑न् त्वा  क्षत्र॒-वनिꣳ॑ सुप्रजा॒-वनिꣳ॑ रायस्-पोष॒-वनि॒म् पर्यू॑हामि।
 </details>
 <details><summary>Keith</summary>
 
@@ -858,7 +858,7 @@ Thee that art winner of Brahmans, winner of nobles, winner of fair offspring, wi
 </details>
 <details><summary>मूलम्</summary>
 
-ब्र॒ह्म॒वनि॑न्त्वा  ख्षत्र॒वनिꣳ॑ सुप्रजा॒वनिꣳ॑ रायस्पोष॒वनि॒म्पर्यू॑हामि।
+ब्र॒ह्म॒वनि॑न्त्वा  क्षत्र॒वनिꣳ॑ सुप्रजा॒वनिꣳ॑ रायस्पोष॒वनि॒म्पर्यू॑हामि।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -881,12 +881,12 @@ _______
 <details open><summary><h5>ब्रह्म द्रुंह ...{Loading}...</h5></summary>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-ब्रह्म॑ दृꣳह ख्ष॒त्रन्दृꣳ॑ह प्र॒जान्दृꣳ॑ह रा॒यस्पोष॑न्दृꣳह
+ब्रह्म॑ दृꣳह क्ष॒त्रन्दृꣳ॑ह प्र॒जान्दृꣳ॑ह रा॒यस्पोष॑न्दृꣳह
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रह्म॑ दृꣳह ।  
-ख्ष॒त्रन् दृꣳ॑ह ।  
+क्ष॒त्रन् दृꣳ॑ह ।  
 प्र॒जान् दृꣳ॑ह।  
 रा॒यस्-पोष॑न् दृꣳह ।
 </details>
@@ -900,7 +900,7 @@ strengthen increase of wealth.
 <details><summary>मूलम्</summary>
 
 ब्रह्म॑ दृꣳह ।  
-ख्ष॒त्रन्दृꣳ॑ह ।  
+क्ष॒त्रन्दृꣳ॑ह ।  
 प्र॒जान्दृꣳ॑ह।  
 रा॒यस्पोष॑न्दृꣳह ।
 </details>
@@ -969,7 +969,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒न्तरि॑ख्षस्य त्वा॒ साना॒व् अव॑ गूहामि ॥ [11]
+अ॒न्तरि॑क्षस्य त्वा॒ साना॒व् अव॑ गूहामि ॥ [11]
 </details>
 <details><summary>Keith</summary>
 
@@ -977,12 +977,12 @@ On the slope of the atmosphere I conceal thee.
 </details>
 <details><summary>मूलम्</summary>
 
-अ॒न्तरि॑ख्षस्य त्वा॒ साना॒वव॑ गूहामि ॥ [11]
+अ॒न्तरि॑क्षस्य त्वा॒ साना॒वव॑ गूहामि ॥ [11]
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-अ॒न्तरि॑ख्षस्य । त्वा॒ । सानौ॑ । अवेति॑ । गू॒हा॒मि॒ ॥ [11]
+अ॒न्तरि॑क्षस्य । त्वा॒ । सानौ॑ । अवेति॑ । गू॒हा॒मि॒ ॥ [11]
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

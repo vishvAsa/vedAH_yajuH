@@ -413,12 +413,12 @@ Unovercomable art thou, overcoming, overcome our enemies, over come those that p
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मधु॒ वाता॑ ऋताय॒ते मधु॑ ख्षरन्ति॒ सिन्ध॑वः ।  
+मधु॒ वाता॑ ऋताय॒ते मधु॑ क्षरन्ति॒ सिन्ध॑वः ।  
 माध्वी॑र्नस्स॒न्त्वोष॑धीः ।  
 </details>
 <details><summary>मूलम्</summary>
 
-मधु॒ वाता॑ ऋताय॒ते मधु॑ ख्षरन्ति॒ सिन्ध॑वः ।  
+मधु॒ वाता॑ ऋताय॒ते मधु॑ क्षरन्ति॒ सिन्ध॑वः ।  
 माध्वी॑र्नस्स॒न्त्वोष॑धीः ।  
 </details>
 <details><summary>सायण-टीका</summary>
@@ -455,12 +455,12 @@ Unovercomable art thou, overcoming, overcome our enemies, over come those that p
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-म॒ही द्यौᳶ पृ॑थि॒वी च॑ न इ॒मय्ँय॒ज्ञम्मि॑मिख्षताम् ।  
+म॒ही द्यौᳶ पृ॑थि॒वी च॑ न इ॒मय्ँय॒ज्ञम्मि॑मिक्षताम् ।  
 पि॒पृ॒तान्नो॒ भरी॑मभिः ।  
 </details>
 <details><summary>मूलम्</summary>
 
-म॒ही द्यौᳶ पृ॑थि॒वी च॑ न इ॒मय्ँय॒ज्ञम्मि॑मिख्षताम् ।  
+म॒ही द्यौᳶ पृ॑थि॒वी च॑ न इ॒मय्ँय॒ज्ञम्मि॑मिक्षताम् ।  
 पि॒पृ॒तान्नो॒ भरी॑मभिः ।  
 </details>
 <details><summary>सायण-टीका</summary>
@@ -488,12 +488,12 @@ Unovercomable art thou, overcoming, overcome our enemies, over come those that p
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद्विष्णोः॑ पर॒मम् [38]  प॒दꣳ सदा॑ पश्यन्ति सू॒रयः॑ ।  
-दि॒वीव॒ चख्षु॒रात॑तम् ।  
+दि॒वीव॒ चक्षु॒रात॑तम् ।  
 </details>
 <details><summary>मूलम्</summary>
 
 तद्विष्णोः॑ पर॒मम् [38]  प॒दꣳ सदा॑ पश्यन्ति सू॒रयः॑ ।  
-दि॒वीव॒ चख्षु॒रात॑तम् ।  
+दि॒वीव॒ चक्षु॒रात॑तम् ।  
 </details>
 <details><summary>सायण-टीका</summary>
 
@@ -561,12 +561,12 @@ Unovercomable art thou, overcoming, overcome our enemies, over come those that p
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अग्ने॑ यु॒ख्ष्वा हि ये तवाश्वा॑सो देव सा॒धवः॑ ।  
+अग्ने॑ यु॒क्ष्वा हि ये तवाश्वा॑सो देव सा॒धवः॑ ।  
 अर॒व्ँवह॑न्त्या॒शवः॑ ।
 </details>
 <details><summary>मूलम्</summary>
 
-अग्ने॑ यु॒ख्ष्वा हि ये तवाश्वा॑सो देव सा॒धवः॑ ।  
+अग्ने॑ यु॒क्ष्वा हि ये तवाश्वा॑सो देव सा॒धवः॑ ।  
 अर॒व्ँवह॑न्त्या॒शवः॑ ।
 </details>
 <details><summary>सायण-टीका</summary>
@@ -575,12 +575,12 @@ Unovercomable art thou, overcoming, overcome our enemies, over come those that p
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यु॒ख्ष्वा हि दे॑व॒हूत॑मा॒ꣳ॒ अश्वाꣳ॑ अग्ने र॒थीरि॑व ।  
+यु॒क्ष्वा हि दे॑व॒हूत॑मा॒ꣳ॒ अश्वाꣳ॑ अग्ने र॒थीरि॑व ।  
 नि होता॑ पू॒र्व्यस्स॑दः ।  
 </details>
 <details><summary>मूलम्</summary>
 
-यु॒ख्ष्वा हि दे॑व॒हूत॑मा॒ꣳ॒ अश्वाꣳ॑ अग्ने र॒थीरि॑व ।  
+यु॒क्ष्वा हि दे॑व॒हूत॑मा॒ꣳ॒ अश्वाꣳ॑ अग्ने र॒थीरि॑व ।  
 नि होता॑ पू॒र्व्यस्स॑दः ।  
 </details>
 <details><summary>सायण-टीका</summary>
@@ -589,13 +589,13 @@ Unovercomable art thou, overcoming, overcome our enemies, over come those that p
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-द्र॒फ्सश्च॑स्कन्द पृथि॒वीमनु॒ द्यामि॒मञ्च॒ योनि॒मनु॒ यश्च॒ पूर्वः॑ ।  
-तृ॒तीय॒य्ँयोनि॒मनु॑ स॒ञ्चर॑न्तन्द्र॒फ्सञ्जु॑हो॒म्यनु॑ स॒प्त [40] होत्राः॑ ।
+द्र॒प्सश्च॑स्कन्द पृथि॒वीमनु॒ द्यामि॒मञ्च॒ योनि॒मनु॒ यश्च॒ पूर्वः॑ ।  
+तृ॒तीय॒य्ँयोनि॒मनु॑ स॒ञ्चर॑न्तन्द्र॒प्सञ्जु॑हो॒म्यनु॑ स॒प्त [40] होत्राः॑ ।
 </details>
 <details><summary>मूलम्</summary>
 
-द्र॒फ्सश्च॑स्कन्द पृथि॒वीमनु॒ द्यामि॒मञ्च॒ योनि॒मनु॒ यश्च॒ पूर्वः॑ ।  
-तृ॒तीय॒य्ँयोनि॒मनु॑ स॒ञ्चर॑न्तन्द्र॒फ्सञ्जु॑हो॒म्यनु॑ स॒प्त [40] होत्राः॑ ।
+द्र॒प्सश्च॑स्कन्द पृथि॒वीमनु॒ द्यामि॒मञ्च॒ योनि॒मनु॒ यश्च॒ पूर्वः॑ ।  
+तृ॒तीय॒य्ँयोनि॒मनु॑ स॒ञ्चर॑न्तन्द्र॒प्सञ्जु॑हो॒म्यनु॑ स॒प्त [40] होत्राः॑ ।
 </details>
 <details><summary>सायण-टीका</summary>
 

@@ -76,7 +76,7 @@ May I be united with the All-gods.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ख्ष॒त्त्रस्य॒ नाभि॑रसि ।
+क्ष॒त्त्रस्य॒ नाभि॑रसि ।
 </details>
 <details><summary>Keith</summary>
 
@@ -84,7 +84,7 @@ Thou art the navel of kingly power,
 </details>
 <details><summary>मूलम्</summary>
 
-ख्ष॒त्त्रस्य॒ नाभि॑रसि ।
+क्ष॒त्त्रस्य॒ नाभि॑रसि ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -96,7 +96,7 @@ Thou art the navel of kingly power,
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ख्ष॒त्त्रस्य॒ योनि॑र् असि ।
+क्ष॒त्त्रस्य॒ योनि॑र् असि ।
 </details>
 <details><summary>Keith</summary>
 
@@ -104,7 +104,7 @@ thou are the womb of kingly power.
 </details>
 <details><summary>मूलम्</summary>
 
-ख्ष॒त्त्रस्य॒ योनि॑रसि ।
+क्ष॒त्त्रस्य॒ योनि॑रसि ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

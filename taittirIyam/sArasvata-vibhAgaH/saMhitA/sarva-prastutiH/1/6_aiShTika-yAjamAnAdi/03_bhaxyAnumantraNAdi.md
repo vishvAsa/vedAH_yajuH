@@ -601,7 +601,7 @@ Swell, O ruddy one.
 </details>
 <details><summary>मूलम्</summary>
 
-ब्रध्न॒ पिन्व॑स्व … दद॑तो मे॒ मा ख्षा॑यि कुर्व॒तो मे॒ मोप॑दसत्।
+ब्रध्न॒ पिन्व॑स्व … दद॑तो मे॒ मा क्षा॑यि कुर्व॒तो मे॒ मोप॑दसत्।
 </details>
 <details><summary>पद-पाठः</summary>
 
@@ -624,7 +624,7 @@ Swell, O ruddy one.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दद॑तो मे॒ मा ख्षा॑यि।  
+दद॑तो मे॒ मा क्षा॑यि।  
 कु॒र्व॒तो मे॒ मोप॑दसत्।
 </details>
 <details><summary>Keith</summary>
@@ -633,12 +633,12 @@ May (my act) as I give be not destroyed; may (my act) as I work not perish.
 </details>
 <details><summary>मूलम्</summary>
 
-दद॑तो मे॒ मा ख्षा॑यि।  
+दद॑तो मे॒ मा क्षा॑यि।  
 कु॒र्व॒तो मे॒ मोप॑दसत्।
 </details>
 <details><summary>पद-पाठः</summary>
 
-दद॑तः । मे॒ । मा । ख्षा॒यि॒ ।  
+दद॑तः । मे॒ । मा । क्षा॒यि॒ ।  
 कु॒र्व॒तः । मे॒ । मा । उपेति॑ । द॒स॒त् । 
 </details>
 
@@ -778,11 +778,11 @@ protect my out-breathing and cross-breathing.
 <details open><summary><h5>अक्षितोऽसि ...{Loading}...</h5></summary>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-अख्षि॑तो॒ऽस्यख्षि॑त्यै त्वा॒ मा मे॑ ख्षेष्ठा अ॒मुत्रा॒मुष्मि॑न्लो॒के  ॥
+अक्षि॑तो॒ऽस्यक्षि॑त्यै त्वा॒ मा मे॑ क्षेष्ठा अ॒मुत्रा॒मुष्मि॑न्लो॒के  ॥
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अख्षि॑तोऽसि ।
+अक्षि॑तोऽसि ।
 </details>
 <details><summary>Keith</summary>
 
@@ -790,7 +790,7 @@ Thou art imperishable,
 </details>
 <details><summary>मूलम्</summary>
 
-अख्षि॑तोऽसि ।
+अक्षि॑तोऽसि ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -798,7 +798,7 @@ Thou art imperishable,
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अख्षि॑त्यै त्वा +++(ददामि)+++।
+अक्षि॑त्यै त्वा +++(ददामि)+++।
 </details>
 <details><summary>Keith</summary>
 
@@ -806,7 +806,7 @@ for imperishableness thee;
 </details>
 <details><summary>मूलम्</summary>
 
-अख्षि॑त्यै त्वा ।
+अक्षि॑त्यै त्वा ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -814,7 +814,7 @@ for imperishableness thee;
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मा मे॑ ख्षेष्ठा अ॒मुत्रा॒मुष्मि॑ल्ँ लो॒के  ॥  [10]
+मा मे॑ क्षेष्ठा अ॒मुत्रा॒मुष्मि॑ल्ँ लो॒के  ॥  [10]
 </details>
 <details><summary>Keith</summary>
 
@@ -822,7 +822,7 @@ mayst thou not perish for me, yonder, in yonder world.
 </details>
 <details><summary>मूलम्</summary>
 
-मा मे॑ ख्षेष्ठा अ॒मुत्रा॒मुष्मि॑न्लो॒के  ॥  [10]
+मा मे॑ क्षेष्ठा अ॒मुत्रा॒मुष्मि॑न्लो॒के  ॥  [10]
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

@@ -342,7 +342,7 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 यम् +++(सोमं)+++ आ॑दि॒त्या अ॒ꣳ॒शुम् **आ॑प्या॒यय॑न्ति॒**  
-यम् अख्षि॑त॒म् अख्षि॑तय॒ᳶ **पिब॑न्ति** ।  
+यम् अक्षि॑त॒म् अक्षि॑तय॒ᳶ **पिब॑न्ति** ।  
 तेन॑ नो॒ राजा॒ वरु॑णो॒ बृह॒स्-पति॒र्  
 **आ प्या॑ययन्तु॒** भुव॑नस्य गो॒पाः ।
 </details>
@@ -351,7 +351,7 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
-यमा॑दि॒त्या अ॒ꣳ॒शुमा॑प्या॒यय॑न्ति॒ यमख्षि॑त॒मख्षि॑तय॒ᳶ पिब॑न्ति ।  
+यमा॑दि॒त्या अ॒ꣳ॒शुमा॑प्या॒यय॑न्ति॒ यमक्षि॑त॒मक्षि॑तय॒ᳶ पिब॑न्ति ।  
 तेन॑ नो॒ राजा॒ वरु॑णो॒ बृह॒स्पति॒रा प्या॑ययन्तु॒ भुव॑नस्य गो॒पाः ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -361,7 +361,7 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 प्राच्या॑न्दि॒शि त्वमि॑न्द्रासि॒ राजो॒तोदी॑च्याव्ँवृत्रहन्वृत्र॒हासि॑ ।   
-यत्र॒ यन्ति॑ स्रो॒त्यास्तत् [44] जि॒तन्ते॑  दख्षिण॒तो वृ॑ष॒भ ए॑धि॒ हव्यः॑ ।
+यत्र॒ यन्ति॑ स्रो॒त्यास्तत् [44] जि॒तन्ते॑  दक्षिण॒तो वृ॑ष॒भ ए॑धि॒ हव्यः॑ ।
 </details>
 </details>
 </div>
@@ -380,7 +380,7 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 ये विरू॑पे॒ सम॑नसा स॒व्ँ व्यय॑न्ती ।  
 स॒मा॒नन्तन्तु॑म्परितात॒ना ते॑ ।  
 वि॒भू प्र॒भू अ॑नु॒भू वि॒श्वतो॑ हुवे ।   
-ते नो॒ नख्ष॑त्रे॒ हव॒माग॑मेतम् ।
+ते नो॒ नक्ष॑त्रे॒ हव॒माग॑मेतम् ।
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/3/03_ye_virUpe.md">
@@ -390,7 +390,7 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 ये विरू॑पे॒ सम॑नसा स॒व्ँ व्यय॑न्ती ।  
 स॒मा॒नन्तन्तु॑म्परितात॒ना ते॑ ।  
 वि॒भू प्र॒भू अ॑नु॒भू वि॒श्वतो॑ हुवे ।   
-ते नो॒ नख्ष॑त्रे॒ हव॒माग॑मेतम् ।
+ते नो॒ नक्ष॑त्रे॒ हव॒माग॑मेतम् ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -441,7 +441,7 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 
 प्रत्यु॑वदृश्याय॒ती ॥24॥  
 व्यु॒च्छन्ती॑ दुहि॒ता दि॒वः ।  
-अ॒पो म॒ही वृ॑णुते॒ चख्षु॑षा ।      
+अ॒पो म॒ही वृ॑णुते॒ चक्षु॑षा ।      
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/3/05_pratyuvadRshyAyatI_24.md">
@@ -450,7 +450,7 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 
 प्रत्यु॑वदृश्याय॒ती ॥24॥  
 व्यु॒च्छन्ती॑ दुहि॒ता दि॒वः ।  
-अ॒पो म॒ही वृ॑णुते॒ चख्षु॑षा ।      
+अ॒पो म॒ही वृ॑णुते॒ चक्षु॑षा ।      
 
 
 </details>
@@ -467,7 +467,7 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 
 तमो॒ ज्योति॑ष्कृणोति सू॒नरी॑ ।  
 उदु॒स्रिया॑स्सचते॒ सूर्यः॑ ।  
-सचा॑ उ॒द्यन्नख्ष॑त्रमर्चि॒मत् ।  
+सचा॑ उ॒द्यन्नक्ष॑त्रमर्चि॒मत् ।  
 तवेदु॑षो॒ व्युषि॒ सूर्य॑स्य च ।  
 </details>
 </div>
@@ -477,7 +477,7 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 
 तमो॒ ज्योति॑ष्कृणोति सू॒नरी॑ ।  
 उदु॒स्रिया॑स्सचते॒ सूर्यः॑ ।  
-सचा॑ उ॒द्यन्नख्ष॑त्रमर्चि॒मत् ।  
+सचा॑ उ॒द्यन्नक्ष॑त्रमर्चि॒मत् ।  
 तवेदु॑षो॒ व्युषि॒ सूर्य॑स्य च ।  
 
 
@@ -498,7 +498,7 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 <details open><summary><h2>07 सम्भक्तेन गमेमहि ...{Loading}...</h2></summary>
 
 सम्भ॒क्तेन॑ गमेमहि ।  
-तन्नो॒ नख्ष॑त्रमर्चि॒मत् ।  
+तन्नो॒ नक्ष॑त्रमर्चि॒मत् ।  
 भा॒नु॒मत्तेज॑ उ॒च्चर॑त् ।  
 उप॑य॒ज्ञमि॒हाग॑मत् ॥25॥  
 </details>
@@ -508,7 +508,7 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 <details><summary>मूलम्</summary>
 
 सम्भ॒क्तेन॑ गमेमहि ।  
-तन्नो॒ नख्ष॑त्रमर्चि॒मत् ।  
+तन्नो॒ नक्ष॑त्रमर्चि॒मत् ।  
 भा॒नु॒मत्तेज॑ उ॒च्चर॑त् ।  
 उप॑य॒ज्ञमि॒हाग॑मत् ॥25॥  
 
@@ -523,19 +523,19 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/3/08_pra_nakhShatrAya.md">
-<details open><summary><h2>08 प्र नख्षत्राय ...{Loading}...</h2></summary>
+<details open><summary><h2>08 प्र नक्षत्राय ...{Loading}...</h2></summary>
 
-प्र नख्ष॑त्राय दे॒वाय॑ ।  
+प्र नक्ष॑त्राय दे॒वाय॑ ।  
 इन्द्रा॒येन्दुꣳ॑ हवामहे ।  
 सन॑स्सवि॒ता सु॑वथ्स॒निम् ।  
 पु॒ष्टि॒दाव्ँ वी॒रव॑त्तमम् ।  
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/3/08_pra_nakhShatrAya.md">
-<details open><summary><h2>08 प्र नख्षत्राय ...{Loading}...</h2></summary>
+<details open><summary><h2>08 प्र नक्षत्राय ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
-प्र नख्ष॑त्राय दे॒वाय॑ ।  
+प्र नक्ष॑त्राय दे॒वाय॑ ।  
 इन्द्रा॒येन्दुꣳ॑ हवामहे ।  
 सन॑स्सवि॒ता सु॑वथ्स॒निम् ।  
 पु॒ष्टि॒दाव्ँ वी॒रव॑त्तमम् ।  
@@ -1194,7 +1194,7 @@ Aditi, who giveth good protection and good guidance.
 <details><summary>मूलम्</summary>
 
 म॒हीमू॒ षु मा॒तरꣳ॑ सुव्र॒ताना॑मृ॒तस्य॒ पत्नी॒मव॑से हुवेम ।  
-तु॒वि॒ख्ष॒त्त्राम॒जर॑न्तीमुरू॒चीꣳ सु॒शर्मा॑ण॒मदि॑तिꣳ सु॒प्रणी॑तिम्  ॥
+तु॒वि॒क्ष॒त्त्राम॒जर॑न्तीमुरू॒चीꣳ सु॒शर्मा॑ण॒मदि॑तिꣳ सु॒प्रणी॑तिम्  ॥
 </details>
 </details>
 </div>
@@ -2065,7 +2065,7 @@ A joy to the giver.
 
 **अन्व्** इद् अ॑नुमते॒ त्वम् [34]  
 **मन्या॑सै॒** शञ्च॑ नᳵ **कृधि** ।  
-क्रत्वे॒ दख्षा॑य नो **हिनु॒**+++(=प्रेरय)+++  
+क्रत्वे॒ दक्षा॑य नो **हिनु॒**+++(=प्रेरय)+++  
 प्र ण॒ आयूꣳ॑षि **तारिषः** ।
 </details>
 </div>
@@ -2081,7 +2081,7 @@ Lengthen our days for us.
 <details><summary>मूलम्</summary>
 
 अन्विद॑नुमते॒ त्वम् [34]  मन्या॑सै॒ शञ्च॑ नᳵ कृधि ।  
-क्रत्वे॒ दख्षा॑य नो हिनु॒ प्र ण॒ आयूꣳ॑षि तारिषः ।
+क्रत्वे॒ दक्षा॑य नो हिनु॒ प्र ण॒ आयूꣳ॑षि तारिषः ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -2101,7 +2101,7 @@ Lengthen our days for us.
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 ह॒व्य॒वाह॑मभिमाति॒षाह॑म् ।   
-र॒ख्षो॒हण॒म्पृत॑नासु जि॒ष्णुम् ।  
+र॒क्षो॒हण॒म्पृत॑नासु जि॒ष्णुम् ।  
 ज्योति॑ष्मन्त॒न्दीद्य॑त॒म्पुर॑न्धिम् ।  
 अ॒ग्निꣵ स्वि॑ष्ट॒कृत॒मा हु॑वेम ।
 </details>
@@ -2111,7 +2111,7 @@ Lengthen our days for us.
 <details><summary>मूलम्</summary>
 
 ह॒व्य॒वाह॑मभिमाति॒षाह॑म् ।   
-र॒ख्षो॒हण॒म्पृत॑नासु जि॒ष्णुम् ।  
+र॒क्षो॒हण॒म्पृत॑नासु जि॒ष्णुम् ।  
 ज्योति॑ष्मन्त॒न्दीद्य॑त॒म्पुर॑न्धिम् ।  
 अ॒ग्निꣵ स्वि॑ष्ट॒कृत॒मा हु॑वेम ।
 </details>

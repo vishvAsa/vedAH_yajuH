@@ -71,7 +71,7 @@ excluded is he whom we hate.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विष्णो॒ᳵ **क्रमो॑ ऽस्य् अभिशस्ति॒हा**।
-त्रैष्टु॑भेन॒ छन्द॑सान्तरि॑ख्ष॒म् अनु॒ वि क्र॑मे।
+त्रैष्टु॑भेन॒ छन्द॑सान्तरि॑क्ष॒म् अनु॒ वि क्र॑मे।
 </details>
 <details><summary>Keith</summary>
 
@@ -79,7 +79,7 @@ Thou art the step of Visnu, smiting imprecations; with the Tristubh metre I step
 </details>
 <details><summary>मूलम्</summary>
 
-विष्णो॒ᳵ क्रमो॑ऽस्यभिशस्ति॒हा त्रैष्टु॑भेन॒ छन्द॑सान्तरि॑ख्ष॒मनु॒ वि क्र॑मे।
+विष्णो॒ᳵ क्रमो॑ऽस्यभिशस्ति॒हा त्रैष्टु॑भेन॒ छन्द॑सान्तरि॑क्ष॒मनु॒ वि क्र॑मे।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

@@ -72,7 +72,7 @@ to Tvastr on eight potsherds;
 
 वै॒श्वा॒न॒रन् द्वाद॑शकपालम्  +++(निर्वपति)+++ ।  
 
-दख्षि॑णो रथवाहनवा॒हो +++(उक्षः)+++ दख्षि॑णा ।
+दक्षि॑णो रथवाहनवा॒हो +++(उक्षः)+++ दक्षि॑णा ।
 </details>
 <details><summary>Keith</summary>
 
@@ -82,7 +82,7 @@ to (Agni) Vaiśvanara on twelve potsherds; the sacrificial fee is the southern d
 
 वै॒श्वा॒न॒रन्द्वाद॑शकपालम्  +++(निर्वपति)+++ ।  
 
-दख्षि॑णो रथवाहनवा॒हो दख्षि॑णा ।
+दक्षि॑णो रथवाहनवा॒हो दक्षि॑णा ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -91,7 +91,7 @@ to (Agni) Vaiśvanara on twelve potsherds; the sacrificial fee is the southern d
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-सारस्व॒तञ्च॒रुन्निर्व॑पति पौ॒ष्णञ्च॒रुम्मै॒त्रञ्च॒रुव्ँवा॑रु॒णञ्च॒रुङ्ख्षै॑त्रप॒त्यञ्च॒रुमा॑दि॒त्यञ्च॒रुमुत्त॑रो रथवाहनवा॒हो दख्षि॑णा ॥
+सारस्व॒तञ्च॒रुन्निर्व॑पति पौ॒ष्णञ्च॒रुम्मै॒त्रञ्च॒रुव्ँवा॑रु॒णञ्च॒रुङ्क्षै॑त्रप॒त्यञ्च॒रुमा॑दि॒त्यञ्च॒रुमुत्त॑रो रथवाहनवा॒हो दक्षि॑णा ॥
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -148,7 +148,7 @@ to Varuna an oblation;
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ख्षै॒त्र॒प॒त्यञ् च॒रुम्   +++(निर्वपति)+++ ।
+क्षै॒त्र॒प॒त्यञ् च॒रुम्   +++(निर्वपति)+++ ।
 </details>
 <details><summary>Keith</summary>
 
@@ -156,7 +156,7 @@ to the lord of the fields an oblation;
 </details>
 <details><summary>मूलम्</summary>
 
-ख्षै॒त्र॒प॒त्यञ्च॒रुम्   +++(निर्वपति)+++ ।
+क्षै॒त्र॒प॒त्यञ्च॒रुम्   +++(निर्वपति)+++ ।
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -172,7 +172,7 @@ to the Adityas an oblation;
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उत्त॑रो रथवाहनवा॒हो +++(उक्षो)+++ दख्षि॑णा ॥ [36]
+उत्त॑रो रथवाहनवा॒हो +++(उक्षो)+++ दक्षि॑णा ॥ [36]
 </details>
 <details><summary>Keith</summary>
 
@@ -180,7 +180,7 @@ the sacrificial fee is the northern drawer of the chariot stand.
 </details>
 <details><summary>मूलम्</summary>
 
-उत्त॑रो रथवाहनवा॒हो दख्षि॑णा ॥ [36]
+उत्त॑रो रथवाहनवा॒हो दक्षि॑णा ॥ [36]
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

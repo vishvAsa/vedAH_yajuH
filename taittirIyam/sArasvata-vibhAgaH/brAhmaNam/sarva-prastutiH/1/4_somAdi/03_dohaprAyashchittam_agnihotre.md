@@ -174,13 +174,13 @@ unicode_script: devanagari
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दु॒ग्ध्वा द॑दाति ।  
-न ह्य् अदृ॑ष्टा॒ दख्षि॑णा दी॒यते॑ ।  
+न ह्य् अदृ॑ष्टा॒ दक्षि॑णा दी॒यते॑ ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
 दु॒ग्ध्वा द॑दाति ।  
-न ह्य् अदृ॑ष्टा॒ दख्षि॑णा दी॒यते॑ ।  
+न ह्य् अदृ॑ष्टा॒ दक्षि॑णा दी॒यते॑ ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

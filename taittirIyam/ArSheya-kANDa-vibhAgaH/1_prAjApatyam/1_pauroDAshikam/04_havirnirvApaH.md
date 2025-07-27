@@ -67,7 +67,7 @@ ____
 <details open><summary><h2>प्रत्युष्टं रक्षः ...{Loading}...</h2></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रत्यु॑ष्ट॒ꣳ॒ रख्ष॒ᳶ, प्रत्यु॑ष्टा॒ अरा॑तयः+++(=अदातारः)+++।
+प्रत्यु॑ष्ट॒ꣳ॒ रक्ष॒ᳶ, प्रत्यु॑ष्टा॒ अरा॑तयः+++(=अदातारः)+++।
 </details>
 <details><summary>Keith</summary>
 
@@ -76,11 +76,11 @@ The Raksas is burned up, the evil spirits are burned up.
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-प्रत्यु॑ष्ट॒ꣳ॒ रख्ष॒ᳶ प्रत्यु॑ष्टा॒ अरा॑तयः
+प्रत्यु॑ष्ट॒ꣳ॒ रक्ष॒ᳶ प्रत्यु॑ष्टा॒ अरा॑तयः
 </details>
 <details><summary>मूलम्</summary>
 
-प्रत्यु॑ष्ट॒ꣳ॒ रख्षः॑ ।  
+प्रत्यु॑ष्ट॒ꣳ॒ रक्षः॑ ।  
 प्रत्यु॑ष्टा॒ अरा॑तयः ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -218,7 +218,7 @@ ____
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(पुरोडाशीयाः!)+++ मि॒त्रस्य॑ त्वा॒ चख्षु॑षा॒ प्रेख्षे॑ ।  
++++(पुरोडाशीयाः!)+++ मि॒त्रस्य॑ त्वा॒ चक्षु॑षा॒ प्रेक्षे॑ ।  
 मा भेः+++(=भैषीः)+++ ।  
 मा सव्ँ वि॑क्थाः+++(=कंपिष्ठाः)+++ ।  
 मा त्वा॑ [5] हिꣳसि॒षम् ।
@@ -231,11 +231,11 @@ let me harm thee [1] not.
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-मि॒त्रस्य॑ त्वा॒ चख्षु॑षा॒ प्रेख्षे॒ मा भेर्मा सव्ँ वि॑क्था॒ मा त्वा॑ [5]हि॒ꣳ॒सि॒षम्
+मि॒त्रस्य॑ त्वा॒ चक्षु॑षा॒ प्रेक्षे॒ मा भेर्मा सव्ँ वि॑क्था॒ मा त्वा॑ [5]हि॒ꣳ॒सि॒षम्
 </details>
 <details><summary>मूलम्</summary>
 
-मि॒त्रस्य॑ त्वा॒ चख्षु॑षा॒ प्रेख्षे॑ ।
+मि॒त्रस्य॑ त्वा॒ चक्षु॑षा॒ प्रेक्षे॑ ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -555,7 +555,7 @@ ____
 <details open><summary><h2>उर्वन्तरिक्षम् ...{Loading}...</h2></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒र्व् अ᳕न्तरि॑ख्ष॒म् अन्वि॑हि ।  
+उ॒र्व् अ᳕न्तरि॑क्ष॒म् अन्वि॑हि ।  
 +++(महान् पन्थाः, सुखेन गच्छेति भावः ॥)+++
 </details>
 <details><summary>Keith</summary>
@@ -564,7 +564,7 @@ Fare along the wide atmosphere.
 </details>
 <details><summary>मूलम्</summary>
 
-उ॒र्व॑न्तरि॑ख्ष॒मन्वि॑हि ।
+उ॒र्व॑न्तरि॑क्ष॒मन्वि॑हि ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -614,7 +614,7 @@ ____
 <details open><summary><h5>अग्ने हव्यम् ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अग्ने॑ ह॒व्यꣳ र॑ख्षस्व ॥ [6]
+अग्ने॑ ह॒व्यꣳ र॑क्षस्व ॥ [6]
 </details>
 <details><summary>Keith</summary>
 
@@ -622,7 +622,7 @@ O Agni, guard the offering.
 </details>
 <details><summary>मूलम्</summary>
 
-अग्ने॑ ह॒व्यꣳ र॑ख्षस्व ॥ [6]
+अग्ने॑ ह॒व्यꣳ र॑क्षस्व ॥ [6]
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

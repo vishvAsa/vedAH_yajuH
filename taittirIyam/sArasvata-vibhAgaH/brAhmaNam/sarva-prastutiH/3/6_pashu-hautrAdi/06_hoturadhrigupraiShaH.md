@@ -94,13 +94,13 @@ unicode_script: devanagari
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ॒दी॒चीनाꣳ॑ अस्य प॒दो निध॑त्तात् ॥13॥  
-सूर्य॒ञ्चख्षु॑र्गमयतात् ।   
+सूर्य॒ञ्चक्षु॑र्गमयतात् ।   
 </details>
 
 <details><summary>मूलम्</summary>
 
 उ॒दी॒चीनाꣳ॑ अस्य प॒दो निध॑त्तात् ॥13॥  
-सूर्य॒ञ्चख्षु॑र्गमयतात् ।   
+सूर्य॒ञ्चक्षु॑र्गमयतात् ।   
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -140,12 +140,12 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒न्तरि॑ख्ष॒मसु॑म् +++(अवसृजत)+++।   
+अ॒न्तरि॑क्ष॒मसु॑म् +++(अवसृजत)+++।   
 </details>
 
 <details><summary>मूलम्</summary>
 
-अ॒न्तरि॑ख्ष॒मसु॑म् +++(अवसृजत)+++।   
+अ॒न्तरि॑क्ष॒मसु॑म् +++(अवसृजत)+++।   
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -215,12 +215,12 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-श्ये॒नम॑स्य॒ वख्ष॑ᳵ कृणुतात् ।   
+श्ये॒नम॑स्य॒ वक्ष॑ᳵ कृणुतात् ।   
 </details>
 
 <details><summary>मूलम्</summary>
 
-श्ये॒नम॑स्य॒ वख्ष॑ᳵ कृणुतात् ।   
+श्ये॒नम॑स्य॒ वक्ष॑ᳵ कृणुतात् ।   
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -365,12 +365,12 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒स्ना रख्ष॒स्सꣳसृ॑जतात् ।   
+अ॒स्ना रक्ष॒स्सꣳसृ॑जतात् ।   
 </details>
 
 <details><summary>मूलम्</summary>
 
-अ॒स्ना रख्ष॒स्सꣳसृ॑जतात् ।   
+अ॒स्ना रक्ष॒स्सꣳसृ॑जतात् ।   
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

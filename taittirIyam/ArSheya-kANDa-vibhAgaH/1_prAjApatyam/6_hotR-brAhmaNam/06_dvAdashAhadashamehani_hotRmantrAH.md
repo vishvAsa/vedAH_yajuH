@@ -261,12 +261,12 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒धि॒वृ॒ख्ष॒सू॒र्ये वाच॒व्ँविसृ॑जति ।
+अ॒धि॒वृ॒क्ष॒सू॒र्ये वाच॒व्ँविसृ॑जति ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-अ॒धि॒वृ॒ख्ष॒सू॒र्ये वाच॒व्ँविसृ॑जति ।
+अ॒धि॒वृ॒क्ष॒सू॒र्ये वाच॒व्ँविसृ॑जति ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

@@ -1129,7 +1129,7 @@ Dem König Jama giesset nun die Butter zu, die süsseste; Bringt dies Gebet den 
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 हि॒र॒ण्य॒-क॒क्ष्यान्+++(=कुक्षीन्)+++ सु॒-धुरा॑न्  
-हिरण्या॒ख्षान् अ॑यश्-श॒फान् ।  
+हिरण्या॒क्षान् अ॑यश्-श॒फान् ।  
 अश्वा॑न् अ॒नश्य॑तो दा॒न॒य्ँ  
 य॒मो रा॑जाभि॒ **तिष्ठ॑ति** ।  
 +++(आरण्यकः स्वरव्यत्ययः।)+++
@@ -1139,7 +1139,7 @@ Dem König Jama giesset nun die Butter zu, die süsseste; Bringt dies Gebet den 
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
-हि॒र॒ण्य॒क॒क्ष्यान् सु॒धुरा॑न् हिरण्या॒ख्षान॑यश्श॒फान् ।  
+हि॒र॒ण्य॒क॒क्ष्यान् सु॒धुरा॑न् हिरण्या॒क्षान॑यश्श॒फान् ।  
 अश्वा॑न॒नश्य॑तो दा॒न॒य्ँय॒मो रा॑जाभि॒ तिष्ठ॑ति ।
 </details>
 </details>
@@ -1152,7 +1152,7 @@ Dem König Jama giesset nun die Butter zu, die süsseste; Bringt dies Gebet den 
 य॒मो **दा॑धार** पृथि॒वीय्ँ  
 य॒मो विश्व॑म् इ॒दञ् जग॑त् ।  
 य॒माय॒ सर्व॒म् इत् **त्र॑स्थे॒**+++(←उद्वेगे)+++  
-यत् **प्रा॒णद्** वा॒युर् अ॑ख्षि॒तम् ।
+यत् **प्रा॒णद्** वा॒युर् अ॑क्षि॒तम् ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/04_pitR-medhAdi/05_yama-yajna/05_yamo_dAdhAra.md">
@@ -1160,7 +1160,7 @@ Dem König Jama giesset nun die Butter zu, die süsseste; Bringt dies Gebet den 
 <details><summary>मूलम्</summary>
 
 य॒मो दा॑धार पृथि॒वीय्ँय॒मो विश्व॑मि॒दञ्जग॑त् ।  
-य॒माय॒ सर्व॒मित्त्र॑स्थे॒ यत् प्रा॒णद्वा॒युर॑ख्षि॒तम् ।
+य॒माय॒ सर्व॒मित्त्र॑स्थे॒ यत् प्रा॒णद्वा॒युर॑क्षि॒तम् ।
 </details>
 </details>
 </div>

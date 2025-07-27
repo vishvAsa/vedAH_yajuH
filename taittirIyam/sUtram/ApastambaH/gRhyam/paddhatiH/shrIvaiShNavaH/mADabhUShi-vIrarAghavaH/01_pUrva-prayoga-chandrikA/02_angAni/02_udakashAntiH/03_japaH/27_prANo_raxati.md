@@ -17,19 +17,19 @@ title = "२७ 'प्राणो रक्षति'"
 
 </details>
 <div class="js_include" includetitle="false" newlevelforh1="2" open unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/1/01_prANo_rakhShati.md">
-<details open><summary><h6>01 प्राणो रख्षति ...{Loading}...</h6></summary>
+<details open><summary><h6>01 प्राणो रक्षति ...{Loading}...</h6></summary>
 
-प्रा॒णो **र॑ख्षति॒** विश्व॒म् **एज॑त्** ।  
+प्रा॒णो **र॑क्षति॒** विश्व॒म् **एज॑त्** ।  
 **इर्यो॑ भू॒त्वा** ब॑हु॒धा ब॒हूनि॑ ।  
 स इथ् सर्व॒व्ँ **व्या॑नशे**+++(=व्याप्तवान्)+++ ।  
 
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/5_upahomAdi/1/01_prANo_rakhShati.md">
-<details open><summary><h6>01 प्राणो रख्षति ...{Loading}...</h6></summary>
+<details open><summary><h6>01 प्राणो रक्षति ...{Loading}...</h6></summary>
 <details><summary>मूलम्</summary>
 
-प्रा॒णो र॑ख्षति॒ विश्व॒मेज॑त् ।  
+प्रा॒णो र॑क्षति॒ विश्व॒मेज॑त् ।  
 इर्यो॑ भू॒त्वा ब॑हु॒धा ब॒हूनि॑ ।  
 स इथ्सर्व॒व्ँ व्या॑नशे ।  
 
@@ -46,8 +46,8 @@ title = "२७ 'प्राणो रक्षति'"
 <details open><summary><h6>02 यो देवो ...{Loading}...</h6></summary>
 
 यो दे॒वो दे॒वेषु॑ वि॒भूर् अ॒न्तः ।  
-आ-वृ॑द् **ऊ॒दात्**+++(←वचने)+++ ख्षेत्रिय् अ॑ध्व॒-गद् वृषा॑ ।  
-तम् इत् प्रा॒णम् मन॒सोप॑ **शिख्षत** ।  
+आ-वृ॑द् **ऊ॒दात्**+++(←वचने)+++ क्षेत्रिय् अ॑ध्व॒-गद् वृषा॑ ।  
+तम् इत् प्रा॒णम् मन॒सोप॑ **शिक्षत** ।  
 अग्र॑न् दे॒वाना॑म् इ॒दम् **अ॑त्तु** नो ह॒विः ।  
 
 <details><summary>विश्वास-टिप्पनी</summary>
@@ -61,8 +61,8 @@ title = "२७ 'प्राणो रक्षति'"
 <details><summary>मूलम्</summary>
 
 यो दे॒वो दे॒वेषु॑ वि॒भूर॒न्तः ।  
-आवृ॑दू॒दात्ख्षेत्रिय॑ध्व॒गद्वृषा॑ ।  
-तमित्प्रा॒णम्मन॒सोप॑ शिख्षत ।  
+आवृ॑दू॒दात्क्षेत्रिय॑ध्व॒गद्वृषा॑ ।  
+तमित्प्रा॒णम्मन॒सोप॑ शिक्षत ।  
 अग्र॑न्दे॒वाना॑मि॒दम॑त्तु नो ह॒विः ।  
 </details>
 <details><summary>सायणटीका</summary>
@@ -185,23 +185,23 @@ title = "२७ 'प्राणो रक्षति'"
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" open unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/1/07_chakhShurdevAnAnjyotiramRte.md">
-<details open><summary><h6>07 चख्षुर्देवानाञ्ज्योतिरमृते ...{Loading}...</h6></summary>
+<details open><summary><h6>07 चक्षुर्देवानाञ्ज्योतिरमृते ...{Loading}...</h6></summary>
 
-चख्षु॑र् दे॒वाना॒ञ् +++(→सूर्यः)+++ ज्योति॑र् अ॒मृते॒ **न्य॑क्तम्** ।  
+चक्षु॑र् दे॒वाना॒ञ् +++(→सूर्यः)+++ ज्योति॑र् अ॒मृते॒ **न्य॑क्तम्** ।  
 अ॒स्य +++(→सर्वस्य)+++ वि॒ज्ञाना॑य बहु॒धा **निधी॑यते** ।  
 तस्य॑ +++(→चक्षुषोः)+++ सु॒म्नम् **अ॑शीमहि** ।  
-मा नो॑ **हासीद्** विचख्ष॒णम् ।  
+मा नो॑ **हासीद्** विचक्ष॒णम् ।  
 
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/5_upahomAdi/1/07_chakhShurdevAnAnjyotiramRte.md">
-<details open><summary><h6>07 चख्षुर्देवानाञ्ज्योतिरमृते ...{Loading}...</h6></summary>
+<details open><summary><h6>07 चक्षुर्देवानाञ्ज्योतिरमृते ...{Loading}...</h6></summary>
 <details><summary>मूलम्</summary>
 
-चख्षु॑र्दे॒वाना॒ञ्ज्योति॑र॒मृते॒ न्य॑क्तम् ।  
+चक्षु॑र्दे॒वाना॒ञ्ज्योति॑र॒मृते॒ न्य॑क्तम् ।  
 अ॒स्य वि॒ज्ञाना॑य बहु॒धा निधी॑यते ।  
 तस्य॑ सु॒म्नम॑शीमहि ।  
-मा नो॑ हासीद्विचख्ष॒णम् ।  
+मा नो॑ हासीद्विचक्ष॒णम् ।  
 </details>
 <details><summary>सायणटीका</summary>
 
@@ -218,7 +218,7 @@ title = "२७ 'प्राणो रक्षति'"
 <details open><summary><h6>08 आयुरिन्नᳶ प्रतीर्यताम् ...{Loading}...</h6></summary>
 
 आयु॒र् इन् न॒ᳶ **प्रती॑र्यताम्** ।  
-अन॑न्धा॒श् चख्षु॑षा व॒यम् ।  
+अन॑न्धा॒श् चक्षु॑षा व॒यम् ।  
 जी॒वा ज्योति॑र् **अशीमहि** ।  
 सुव॒र् ज्योति॑र् उ॒तामृत॑म् ।  
 
@@ -229,7 +229,7 @@ title = "२७ 'प्राणो रक्षति'"
 <details><summary>मूलम्</summary>
 
 आयु॒रिन्न॒ᳶ प्रती॑र्यताम् ।  
-अन॑न्धा॒श्चख्षु॑षा व॒यम् ।  
+अन॑न्धा॒श्चक्षु॑षा व॒यम् ।  
 जी॒वा ज्योति॑रशीमहि ।  
 सुव॒र्ज्योति॑रु॒तामृत॑म् ।  
 
@@ -274,7 +274,7 @@ title = "२७ 'प्राणो रक्षति'"
 <div class="js_include" includetitle="false" newlevelforh1="2" open unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/1/10_yena_prAchyA.md">
 <details open><summary><h6>10 येन प्राच्या ...{Loading}...</h6></summary>
 
-येन॒ प्राच्या॑ उ॒त द॑ख्षि॒णा ।
+येन॒ प्राच्या॑ उ॒त द॑क्षि॒णा ।
 प्र॒तीच्यै॑ दि॒शश् **शृ॒ण्वन्त्य्** उ॑त्त॒रात् ।  
 तद् इच् छ्रोत्र॑म् **बहु॒धोद्यमा॑नम्** ।  
 अ॒रान् न ने॒मिᳶ परि॒ सर्व॑म् **बभूव** ॥3॥+++(5)+++  
@@ -285,7 +285,7 @@ title = "२७ 'प्राणो रक्षति'"
 <details open><summary><h6>10 येन प्राच्या ...{Loading}...</h6></summary>
 <details><summary>मूलम्</summary>
 
-येन॒ प्राच्या॑ उ॒त द॑ख्षि॒णा ।
+येन॒ प्राच्या॑ उ॒त द॑क्षि॒णा ।
 प्र॒तीच्यै॑ दि॒शश्शृ॒ण्वन्त्यु॑त्त॒रात् ।  
 तदिच्छ्रोत्र॑म्बहु॒धोद्यमा॑नम् ।  
 अ॒रान्न ने॒मिᳶ परि॒ सर्व॑म्बभूव ॥3॥  

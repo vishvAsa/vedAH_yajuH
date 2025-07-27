@@ -1539,7 +1539,7 @@ Zum Hüter jedes Weges drang das Loblied, das durch Begier aus Liederlust gescha
 <details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 
-ख्षेत्र॑स्य॒ पति॑ना व॒यꣳ  
+क्षेत्र॑स्य॒ पति॑ना व॒यꣳ  
 +++(बन्धुमित्रादि)+++हि॒तेने॑व **जयामसि** ।  
 गाम् अश्व॑म् पोषयि॒त्न्व् आ  
 स नः॑ **मृडाती॒दृशे॑** +++(ऽर्थे)+++॥    
@@ -1757,8 +1757,8 @@ ____
 <div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/057/02_xetrasya_pate.md">
 <details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
 
-ख्षेत्र॑स्य पते॒ मधु॑मन्तम् ऊ॒र्मिं  
-धे॒नुर् इ॑व॒ पयो॑ अ॒स्मासु॑ **धुख्ष्व** ।   
+क्षेत्र॑स्य पते॒ मधु॑मन्तम् ऊ॒र्मिं  
+धे॒नुर् इ॑व॒ पयो॑ अ॒स्मासु॑ **धुक्ष्व** ।   
 म॒धु॒श्चुत॑ङ्+++(=मधुरसिञ्चकं)+++ घृ॒तम् इ॑व॒ सुपू॑तम्  
 ऋ॒तस्य॑ +++(यज्ञसहितस्य)+++ न॒ᳶ पत॑यो **मृडयन्तु** ॥
 

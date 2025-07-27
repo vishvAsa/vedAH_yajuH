@@ -112,7 +112,7 @@ ________________
 </div>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒फ्सु॒-षद॑न्त्वा घृत॒-सद॑व्ँ व्योम॒-सद॒म्  
+अ॒प्सु॒-षद॑न्त्वा घृत॒-सद॑व्ँ व्योम॒-सद॒म्  
 इन्द्रा॑य॒ जुष्ट॑ङ् गृह्णामि ।  
 </details>
 <details><summary>Keith</summary>
@@ -121,7 +121,7 @@ thee that sittest in the waters, that sittest in the ghee, that sittest in the s
 </details>
 <details><summary>मूलम्</summary>
 
-अ॒फ्सु॒षद॑न्त्वा घृत॒सद॑व्ँव्योम॒सद॒मिन्द्रा॑य॒ जुष्ट॑ङ्गृह्णामि ।  
+अ॒प्सु॒षद॑न्त्वा घृत॒सद॑व्ँव्योम॒सद॒मिन्द्रा॑य॒ जुष्ट॑ङ्गृह्णामि ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -188,7 +188,7 @@ ________________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृ॒थि॒वि॒षद॑न् त्वा  
-अन्तरिख्ष॒-सद॑न्  
+अन्तरिक्ष॒-सद॑न्  
 नाक॒सद॒म्  
 इन्द्रा॑य॒ जुष्ट॑ङ्गृह्णामि ।  
 </details>
@@ -198,7 +198,7 @@ thee that sittest on the earth, that sittest on the atmosphere, that sittest on 
 </details>
 <details><summary>मूलम्</summary>
 
-पृ॒थि॒वि॒षद॑न् त्वा अन्तरिख्ष॒सद॑न्नाक॒सद॒मिन्द्रा॑य॒ जुष्ट॑ङ्गृह्णामि ।  
+पृ॒थि॒वि॒षद॑न् त्वा अन्तरिक्ष॒सद॑न्नाक॒सद॒मिन्द्रा॑य॒ जुष्ट॑ङ्गृह्णामि ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

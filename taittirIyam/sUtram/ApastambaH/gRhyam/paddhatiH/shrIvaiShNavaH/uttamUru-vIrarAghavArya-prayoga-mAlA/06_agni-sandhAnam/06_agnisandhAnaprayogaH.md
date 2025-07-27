@@ -15,13 +15,13 @@ title = "०६ अग्नि-सन्धान-प्रयोगः"
 <details open><summary><h10>नमस् सदसे ...{Loading}...</h10></summary>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-नम॒स्सद॑से॒ नम॒स्सद॑स॒स्पत॑ये॒ नम॒स्सखी॑नाम्पुरो॒गाणा॒ञ्चख्षु॑षे॒ नमो॑ दि॒वे नमᳶ॑ पृथि॒व्यै
+नम॒स्सद॑से॒ नम॒स्सद॑स॒स्पत॑ये॒ नम॒स्सखी॑नाम्पुरो॒गाणा॒ञ्चक्षु॑षे॒ नमो॑ दि॒वे नमᳶ॑ पृथि॒व्यै
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नम॒स् सद॑से॥  
 नम॒स् सद॑स॒स्-पत॑ये॥    
-नम॒स् सखी॑नाम् पुरो॒गाणा॒ञ् चख्षु॑षे॥    
+नम॒स् सखी॑नाम् पुरो॒गाणा॒ञ् चक्षु॑षे॥    
 नमो॑ दि॒वे॥   
 नमᳶ॑ पृथि॒व्यै॥
 </details>
@@ -29,7 +29,7 @@ title = "०६ अग्नि-सन्धान-प्रयोगः"
 
 नम॒स्सद॑से  
 नम॒स्सद॑स॒स्पत॑ये    
-नम॒स्सखी॑नाम्पुरो॒गाणा॒ञ्चख्षु॑षे    
+नम॒स्सखी॑नाम्पुरो॒गाणा॒ञ्चक्षु॑षे    
 नमो॑ दि॒वे   
 नमᳶ॑ पृथि॒व्यै
 </details>
@@ -430,7 +430,7 @@ title = "०६ अग्नि-सन्धान-प्रयोगः"
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/41_yatpAkatrA_manasA.md">
 <details open><summary><h4>41 यत्पाकत्रा मनसा ...{Loading}...</h4></summary>
 
-यत्पा॑क॒त्रा मन॑सा दी॒नद॑ख्षा॒ न ।  
+यत्पा॑क॒त्रा मन॑सा दी॒नद॑क्षा॒ न ।  
 य॒ज्ञस्य॑ म॒न्वते॒ मर्ता॑सः ।  
 अ॒ग्निष्टद्धोता॑ क्रतु॒विद्वि॑जा॒नन्न् ।  
 यजि॑ष्ठो दे॒वाꣳ ऋ॑तु॒शो य॑जाति ॥115॥
@@ -566,7 +566,7 @@ title = "०६ अग्नि-सन्धान-प्रयोगः"
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/41_yatpAkatrA_manasA.md">
 <details open><summary><h4>41 यत्पाकत्रा मनसा ...{Loading}...</h4></summary>
 
-यत्पा॑क॒त्रा मन॑सा दी॒नद॑ख्षा॒ न ।  
+यत्पा॑क॒त्रा मन॑सा दी॒नद॑क्षा॒ न ।  
 य॒ज्ञस्य॑ म॒न्वते॒ मर्ता॑सः ।  
 अ॒ग्निष्टद्धोता॑ क्रतु॒विद्वि॑जा॒नन्न् ।  
 यजि॑ष्ठो दे॒वाꣳ ऋ॑तु॒शो य॑जाति ॥115॥

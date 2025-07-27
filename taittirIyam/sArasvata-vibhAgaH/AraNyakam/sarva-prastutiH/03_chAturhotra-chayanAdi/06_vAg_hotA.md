@@ -27,7 +27,7 @@ title = "०६ वाग् होता"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दी॒ख्षा पत्नी॑ ।
+दी॒क्षा पत्नी॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -38,7 +38,7 @@ title = "०६ वाग् होता"
 
 <details><summary>मूलम्</summary>
 
-दी॒ख्षा पत्नी॑ ।
+दी॒क्षा पत्नी॑ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

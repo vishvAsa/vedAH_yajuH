@@ -471,7 +471,7 @@ Die weisen, herrlich glänzenden, sie speisten jetzt, berauschten sich Und schü
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-**अख्ष॑न्**+++(=भुक्तवन्तः)+++ पि॒तरो, **ऽमी॑मदन्त** पि॒तरो, **ऽती॑तृपन्त** पि॒तरो, **ऽमी॑मृजन्त** पि॒तरः॑  ॥  
+**अक्ष॑न्**+++(=भुक्तवन्तः)+++ पि॒तरो, **ऽमी॑मदन्त** पि॒तरो, **ऽती॑तृपन्त** पि॒तरो, **ऽमी॑मृजन्त** पि॒तरः॑  ॥  
 </details>
 <details><summary>Keith</summary>
 
@@ -479,7 +479,7 @@ The Pitrs have eaten, the Pitrs have rejoiced, the Pitrs have been glad, the Pit
 </details>
 <details><summary>मूलम्</summary>
 
-अख्ष॑न्पि॒तरोऽमी॑मदन्त पि॒तरोऽती॑तृपन्त पि॒तरोऽमी॑मृजन्त पि॒तरः॑  ॥  
+अक्ष॑न्पि॒तरोऽमी॑मदन्त पि॒तरोऽती॑तृपन्त पि॒तरोऽमी॑मृजन्त पि॒तरः॑  ॥  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -562,7 +562,7 @@ And the reverence of the Pitrs.
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 **आ** [8] न **एतु** मन॒ᳶ पुन॒ᳵ  
-क्रत्वे॒ दख्षा॑य जी॒वसे॑ ॥   
+क्रत्वे॒ दक्षा॑य जी॒वसे॑ ॥   
 ज्योक् च॒ सूर्य॑न् दृ॒शे  ॥
 </details>
 </div>
@@ -576,7 +576,7 @@ And that long we may see the sun.
 </details>
 <details><summary>मूलम्</summary>
 
-आ [8] +न॒ ए॒तु॒ मन॒ᳶ पुन॒ᳵ क्रत्वे॒ दख्षा॑य जी॒वसे॑ ॥   
+आ [8] +न॒ ए॒तु॒ मन॒ᳶ पुन॒ᳵ क्रत्वे॒ दक्षा॑य जी॒वसे॑ ॥   
 ज्योक्च॒ सूर्य॑न्दृ॒शे  ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -614,7 +614,7 @@ May we belong to the band of the living.
 </div>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-यद॒न्तरि॑ख्षम्पृथि॒वीमु॒त द्याय्ँयन्मा॒तर॑म्पि॒तर॑व्ँवा जिहिꣳसि॒म ॥ अ॒ग्निर्मा॒ तस्मा॒देन॑सो॒ गार्ह॑पत्य॒ᳶ प्र मु॑ञ्चतु दुरि॒ता यानि॑ चकृ॒म क॒रोतु॒ माम॑ने॒नस॑म् ॥ [9]
+यद॒न्तरि॑क्षम्पृथि॒वीमु॒त द्याय्ँयन्मा॒तर॑म्पि॒तर॑व्ँवा जिहिꣳसि॒म ॥ अ॒ग्निर्मा॒ तस्मा॒देन॑सो॒ गार्ह॑पत्य॒ᳶ प्र मु॑ञ्चतु दुरि॒ता यानि॑ चकृ॒म क॒रोतु॒ माम॑ने॒नस॑म् ॥ [9]
 </details>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -623,7 +623,7 @@ May we belong to the band of the living.
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/07_yad_antarikhSham.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-यद् अ॒न्तरि॑ख्षम् पृथि॒वीम् उ॒त द्याय्ँ  
+यद् अ॒न्तरि॑क्षम् पृथि॒वीम् उ॒त द्याय्ँ  
 यन् मा॒तर॑म् पि॒तर॑व्ँ वा **जिहिꣳसि॒म**  ॥    
 अ॒ग्निर् मा॒ तस्मा॒द् एन॑सो॒ ..   
 गार्ह॑पत्य॒ᳶ **प्र मु॑ञ्चतु** ..  
@@ -643,7 +643,7 @@ In respect of all the ill we have wrought.
 </details>
 <details><summary>मूलम्</summary>
 
-यद॒न्तरि॑ख्षम्पृथि॒वीमु॒त द्याँ ...  
+यद॒न्तरि॑क्षम्पृथि॒वीमु॒त द्याँ ...  
 य्यन्मा॒तर॑म्पि॒तर॑व्ँवा जिहिꣳसि॒म  ॥    
 अ॒ग्निर्मा॒ तस्मा॒देन॑सो॒ ..   
 गार्ह॑पत्य॒ᳶ प्र मु॑ञ्चतु ..  

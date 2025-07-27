@@ -46,7 +46,7 @@ ____
 <details open><summary><h2>प्रत्युष्टं रक्षः ...{Loading}...</h2></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रत्यु॑ष्ट॒ꣳ॒ रख्ष॒ᳶ, प्रत्यु॑ष्टा॒ अरा॑तयः+++(=अदातारः)+++।
+प्रत्यु॑ष्ट॒ꣳ॒ रक्ष॒ᳶ, प्रत्यु॑ष्टा॒ अरा॑तयः+++(=अदातारः)+++।
 </details>
 <details><summary>Keith</summary>
 
@@ -55,11 +55,11 @@ The Raksas is burned up, the evil spirits are burned up.
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-प्रत्यु॑ष्ट॒ꣳ॒ रख्ष॒ᳶ प्रत्यु॑ष्टा॒ अरा॑तयः
+प्रत्यु॑ष्ट॒ꣳ॒ रक्ष॒ᳶ प्रत्यु॑ष्टा॒ अरा॑तयः
 </details>
 <details><summary>मूलम्</summary>
 
-प्रत्यु॑ष्ट॒ꣳ॒ रख्षः॑ ।  
+प्रत्यु॑ष्ट॒ꣳ॒ रक्षः॑ ।  
 प्रत्यु॑ष्टा॒ अरा॑तयः ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -609,7 +609,7 @@ ____
 <details open><summary><h2>उर्वन्तरिक्षम् ...{Loading}...</h2></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒र्व् अ᳕न्तरि॑ख्ष॒म् अन्वि॑हि ।  
+उ॒र्व् अ᳕न्तरि॑क्ष॒म् अन्वि॑हि ।  
 +++(महान् पन्थाः, सुखेन गच्छेति भावः ॥)+++
 </details>
 <details><summary>Keith</summary>
@@ -618,7 +618,7 @@ Fare along the wide atmosphere.
 </details>
 <details><summary>मूलम्</summary>
 
-उ॒र्व॑न्तरि॑ख्ष॒मन्वि॑हि ।
+उ॒र्व॑न्तरि॑क्ष॒मन्वि॑हि ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

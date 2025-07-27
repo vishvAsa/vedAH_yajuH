@@ -380,8 +380,8 @@ ____
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अन्तरि॑त॒ꣳ॒ रख्षो॒  
-ऽन्तरि॑ता॒ अरा॑तयः +++(→दि॒वि नाको॒ नामा॒ग्नी र॑ख्षो॒हा)+++।  
+अन्तरि॑त॒ꣳ॒ रक्षो॒  
+ऽन्तरि॑ता॒ अरा॑तयः +++(→दि॒वि नाको॒ नामा॒ग्नी र॑क्षो॒हा)+++।  
 +++(अप्रदग्धश् च यजमानः।)+++
 </details>
 <details><summary>Keith</summary>
@@ -390,12 +390,12 @@ I The Raksas is obstructed, the evil spirits are obstructed.
 </details>
 <details><summary>मूलम्</summary>
 
-अन्तरि॑त॒ꣳ॒ रख्षो॒ऽन्तरि॑ता॒ अरा॑तयः ।
+अन्तरि॑त॒ꣳ॒ रक्षो॒ऽन्तरि॑ता॒ अरा॑तयः ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-अ॒न्तरि॑त॒मित्य॒न्तः-इ॒त॒म् । रख्षः॑ । अ॒न्तरि॑ता॒ इत्य॒न्तः-इ॒ताः॒ । अरा॑तयः । 
+अ॒न्तरि॑त॒मित्य॒न्तः-इ॒त॒म् । रक्षः॑ । अ॒न्तरि॑ता॒ इत्य॒न्तः-इ॒ताः॒ । अरा॑तयः । 
 </details>
 
 
@@ -459,7 +459,7 @@ ____
 <details open><summary><h5>अग्ने हव्यम् ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अग्ने॑ ह॒व्यꣳ र॑ख्षस्व ॥ [6]
+अग्ने॑ ह॒व्यꣳ र॑क्षस्व ॥ [6]
 </details>
 <details><summary>Keith</summary>
 
@@ -467,7 +467,7 @@ O Agni, guard the offering.
 </details>
 <details><summary>मूलम्</summary>
 
-अग्ने॑ ह॒व्यꣳ र॑ख्षस्व ॥ [6]
+अग्ने॑ ह॒व्यꣳ र॑क्षस्व ॥ [6]
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

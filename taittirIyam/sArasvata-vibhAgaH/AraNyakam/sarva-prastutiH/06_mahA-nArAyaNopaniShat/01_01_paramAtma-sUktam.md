@@ -42,7 +42,7 @@ title = "०१ ०१"
 यस्मि॑न्न् इ॒दꣳ सञ् च॒ विचैति॒ सर्व॒य्ँ  
 यस्मि॑न् दे॒वा अधि॒ विश्वे॑ निषे॒दुः ।  
 तद् ए॒व भू॒तन् तद् उ॒ भव्य॑म् आ  
-इ॒दन् तद् अ॒ख्षरे॑ पर॒मे व्यो॑मन्न् ॥
+इ॒दन् तद् अ॒क्षरे॑ पर॒मे व्यो॑मन्न् ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_01_paramAtma-sUktam/02_yasminn_idam.md">
@@ -52,7 +52,7 @@ title = "०१ ०१"
 यस्मि॑न्न् इ॒दꣳ सञ् च॒ विचैति॒ सर्व॒य्ँ  
 यस्मि॑न् दे॒वा अधि॒ विश्वे॑ निषे॒दुः ।  
 तद् ए॒व भू॒तन् तद् उ॒ भव्य॑म् आ  
-इ॒दन् तद् अ॒ख्षरे॑ पर॒मे व्यो॑मन्न् ॥
+इ॒दन् तद् अ॒क्षरे॑ पर॒मे व्यो॑मन्न् ॥
 </details>
 </details>
 </div>
@@ -62,7 +62,7 @@ title = "०१ ०१"
 येना॑वृ॒तङ् खञ् च॒ दिवं॑ म॒हीञ् च॒  
 येना॑दि॒त्यस् तप॑ति॒ तेज॑सा॒ भ्राज॑सा च ।  
 यम् अ॒न्तस् स॑मु॒द्रे  क॒वयो॒ वय॑न्ति॒  
-यद् अ॒ख्षरे॑ पर॒मे प्र॒जाः ॥
+यद् अ॒क्षरे॑ पर॒मे प्र॒जाः ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_01_paramAtma-sUktam/03_yenAvRta~N_kha~n.md">
@@ -72,7 +72,7 @@ title = "०१ ०१"
 येना॑वृ॒तङ् खञ् च॒ दिवं॑ म॒हीञ् च॒  
 येना॑दि॒त्यस् तप॑ति॒ तेज॑सा॒ भ्राज॑सा च ।  
 यम् अ॒न्तस् स॑मु॒द्रे  क॒वयो॒ वय॑न्ति॒  
-यद् अ॒ख्षरे॑ पर॒मे प्र॒जाः ॥
+यद् अ॒क्षरे॑ पर॒मे प्र॒जाः ॥
 </details>
 </details>
 </div>

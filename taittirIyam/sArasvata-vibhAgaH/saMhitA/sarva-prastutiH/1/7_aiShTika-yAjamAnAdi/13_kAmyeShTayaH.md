@@ -2438,7 +2438,7 @@ So bring doch her, lass niemand es verhindern, da wir dich kennen als den Herrn 
 प्र॒दा॒तारꣳ॑ **हवामह॒**  
 इन्द्र॒म् आ ह॒विषा॑ व॒यम् ।    
 उ॒भा हि हस्ता॒  वसु॑ना पृ॒णस्वा  
-**ऽऽप्र य॑च्छ॒** दख्षि॑णा॒द् ओत स॒व्यात्  ॥
+**ऽऽप्र य॑च्छ॒** दक्षि॑णा॒द् ओत स॒व्यात्  ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/13_kAmyeShTayaH/03_pradAtAraM_havAmaha.md">
@@ -2455,7 +2455,7 @@ Give to us from the left and the right.
 प्र॒दा॒तारꣳ॑ हवामह॒   
 इन्द्र॒मा ह॒विषा॑ व॒यम् ।    
 उ॒भा हि हस्ता॒  वसु॑ना पृ॒णस्वा..  +++(११ अक्षराणि)+++
-ऽऽप्र य॑च्छ॒ दख्षि॑णा॒दोत स॒व्यात्  ॥ +++(१० अक्षराणि)+++
+ऽऽप्र य॑च्छ॒ दक्षि॑णा॒दोत स॒व्यात्  ॥ +++(१० अक्षराणि)+++
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

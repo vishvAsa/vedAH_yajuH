@@ -5,7 +5,7 @@ title = "११ गन्धर्वाप्सराभ्यः"
 
 <details><summary>मूलम्</summary>
 
-ग॒न्ध॒र्वा॒फ्स॒राभ्य॑स्स्रगलङ्कर॒णे ।
+ग॒न्ध॒र्वा॒प्स॒राभ्य॑स्स्रगलङ्कर॒णे ।
 </details>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarva-prastutiH/03_chAturhotra-chayanAdi/10_pratigrahAH/devasya_tvA_savituH__pratigRhNAmi.md">
 <details open><summary><h5>दे॒वस्य॑ त्वा सवि॒तुः प्रति॑गृह्णामि ...{Loading}...</h5></summary>
@@ -62,7 +62,7 @@ ______________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राजा॑ त्वा॒ वरु॑णो नयतु  
-देवि दख्षिणे गन्धर्वाफ्स॒राभ्य॑स् स्रगलङ्कर॒णे।
+देवि दक्षिणे गन्धर्वाप्स॒राभ्य॑स् स्रगलङ्कर॒णे।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -74,7 +74,7 @@ ______________
 <details><summary>मूलम्</summary>
 
 राजा॑ त्वा॒ वरु॑णो नयतु  
-देवि दख्षिणे गन्धर्वाफ्स॒राभ्य॑स्स्रगलङ्कर॒णे।
+देवि दक्षिणे गन्धर्वाप्स॒राभ्य॑स्स्रगलङ्कर॒णे।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -144,12 +144,12 @@ ______________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कामै॒तत् ते॑ ।  
-ए॒षा ते॑ काम॒ दख्षि॑णा ।
+ए॒षा ते॑ काम॒ दक्षि॑णा ।
 </details>
 <details><summary>मूलम्</summary>
 
 कामै॒तत् ते॑ ।  
-ए॒षा ते॑ काम॒ दख्षि॑णा ।
+ए॒षा ते॑ काम॒ दक्षि॑णा ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

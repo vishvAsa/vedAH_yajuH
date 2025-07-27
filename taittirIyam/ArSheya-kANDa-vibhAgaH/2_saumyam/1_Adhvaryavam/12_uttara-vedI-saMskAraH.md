@@ -434,7 +434,7 @@ ________
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(यमः)+++ मनो॑जवास् त्वा पि॒तृभि॑र्  +++(सह)+++  दख्षिण॒तᳶ पा॑तु ।
++++(यमः)+++ मनो॑जवास् त्वा पि॒तृभि॑र्  +++(सह)+++  दक्षिण॒तᳶ पा॑तु ।
 </details>
 <details><summary>Keith</summary>
 
@@ -442,7 +442,7 @@ may the swift of mind guard thee on the right with the Pitrs;
 </details>
 <details><summary>मूलम्</summary>
 
-मनो॑जवास्त्वा पि॒तृभि॑र्दख्षिण॒तᳶ पा॑तु ।
+मनो॑जवास्त्वा पि॒तृभि॑र्दक्षिण॒तᳶ पा॑तु ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -681,7 +681,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(दक्षिणपरिधि!)+++ ध्रुव॒-ख्षिद्+++(=वास्तव्या)+++ असि । अ॒न्तरि॑ख्षन् दृꣳह ।
++++(दक्षिणपरिधि!)+++ ध्रुव॒-क्षिद्+++(=वास्तव्या)+++ असि । अ॒न्तरि॑क्षन् दृꣳह ।
 </details>
 <details><summary>Keith</summary>
 
@@ -690,12 +690,12 @@ thou restest firm, strengthen the atmosphere;
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-ध्रुव॒ख्षिद॑स्य॒न्तरि॑ख्षन्दृꣳह
+ध्रुव॒क्षिद॑स्य॒न्तरि॑क्षन्दृꣳह
 </details>
 <details><summary>मूलम्</summary>
 
-ध्रुव॒ख्षिद॑सि ।  
-अ॒न्तरि॑ख्षन्दृꣳह ।
+ध्रुव॒क्षिद॑सि ।  
+अ॒न्तरि॑क्षन्दृꣳह ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -709,7 +709,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(उत्तर-परिधि!)+++ अच्युत॒-ख्षिद् अ॑सि । दिव॑न् दृꣳह।
++++(उत्तर-परिधि!)+++ अच्युत॒-क्षिद् अ॑सि । दिव॑न् दृꣳह।
 </details>
 <details><summary>Keith</summary>
 
@@ -717,11 +717,11 @@ thou restest inviolable, strengthen the heaven.
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-अच्युत॒ख्षिद॑सि॒ दिव॑न्दृꣳह।
+अच्युत॒क्षिद॑सि॒ दिव॑न्दृꣳह।
 </details>
 <details><summary>मूलम्</summary>
 
-अच्युत॒ख्षिद॑सि ।  
+अच्युत॒क्षिद॑सि ।  
 दिव॑न्दृꣳह।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>

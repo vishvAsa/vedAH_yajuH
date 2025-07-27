@@ -344,7 +344,7 @@ _______
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 उ॒रु वि॑ष्णो॒ वि क्र॑मस्व  
-+उ॒रु ख्षया॑य नᳵ कृधि ।  
++उ॒रु क्षया॑य नᳵ कृधि ।  
 घृ॒तङ् घृ॑त-योने पिब॒  
 प्रप्र॑ य॒ज्ञ-प॑तिन् +++(प्र)+++तिर+++(=वर्धय)+++ ॥
 </details>
@@ -360,7 +360,7 @@ Lengthen (the years) of the lord of the sacrifice.
 </details>
 <details><summary>मूलम्</summary>
 
-उ॒रु वि॑ष्णो॒ वि क्र॑मस्वो॒रु ख्षया॑य नᳵ कृधि ।  
+उ॒रु वि॑ष्णो॒ वि क्र॑मस्वो॒रु क्षया॑य नᳵ कृधि ।  
 घृ॒तङ्घृ॑तयोने पिब॒ प्रप्र॑ य॒ज्ञप॑तिन्तिर ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -681,7 +681,7 @@ _______
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ए॒ष वो॑ देव सवित॒स् सोमः!  
-तꣳ र॑ख्षध्व॒म् ।  
+तꣳ र॑क्षध्व॒म् ।  
 मा वो॑ दभत्+++(=हिंसीत्)+++ ॥
 </details>
 <details><summary>Keith</summary>
@@ -690,7 +690,7 @@ This, god Savitr, is the Soma of you (gods); guard it; let it escape you not.
 </details>
 <details><summary>मूलम्</summary>
 
-ए॒ष वो॑ देव सवित॒स्सोम॒स्तꣳ र॑ख्षध्व॒म् ।  
+ए॒ष वो॑ देव सवित॒स्सोम॒स्तꣳ र॑क्षध्व॒म् ।  
 मा वो॑ दभत् ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>

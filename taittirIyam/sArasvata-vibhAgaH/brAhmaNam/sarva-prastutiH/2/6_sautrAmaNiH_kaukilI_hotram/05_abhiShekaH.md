@@ -23,13 +23,13 @@ unicode_script: devanagari
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ख्ष॒त्रस्य॒ नाभि॑रसि ।  
-ख्ष॒त्रस्य॒ योनि॑रसि ।  
+क्ष॒त्रस्य॒ नाभि॑रसि ।  
+क्ष॒त्रस्य॒ योनि॑रसि ।  
 </details>
 <details><summary>मूलम्</summary>
 
-ख्ष॒त्रस्य॒ नाभि॑रसि ।  
-ख्ष॒त्रस्य॒ योनि॑रसि ।  
+क्ष॒त्रस्य॒ नाभि॑रसि ।  
+क्ष॒त्रस्य॒ योनि॑रसि ।  
 </details>
 <details><summary>सायण-टीका</summary>
 
@@ -221,11 +221,11 @@ unicode_script: devanagari
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒म्राट् चख्षुः॑ ।  
+स॒म्राट् चक्षुः॑ ।  
 </details>
 <details><summary>मूलम्</summary>
 
-स॒म्राट्चख्षुः॑ ।  
+स॒म्राट्चक्षुः॑ ।  
 </details>
 <details><summary>सायण-टीका</summary>
 
@@ -343,11 +343,11 @@ unicode_script: devanagari
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ॒त्मा ख्ष॒त्रम् उरो॒ मम॑ ।  
+आ॒त्मा क्ष॒त्रम् उरो॒ मम॑ ।  
 </details>
 <details><summary>मूलम्</summary>
 
-आ॒त्मा ख्ष॒त्रमुरो॒ मम॑ ।  
+आ॒त्मा क्ष॒त्रमुरो॒ मम॑ ।  
 </details>
 <details><summary>सायण-टीका</summary>
 
@@ -428,11 +428,11 @@ unicode_script: devanagari
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रति॑ ख्ष॒त्रे प्रति॑तिष्ठामि रा॒ष्ट्रे ।  
+प्रति॑ क्ष॒त्रे प्रति॑तिष्ठामि रा॒ष्ट्रे ।  
 </details>
 <details><summary>मूलम्</summary>
 
-प्रति॑ ख्ष॒त्रे प्रति॑तिष्ठामि रा॒ष्ट्रे ।  
+प्रति॑ क्ष॒त्रे प्रति॑तिष्ठामि रा॒ष्ट्रे ।  
 </details>
 <details><summary>सायण-टीका</summary>
 

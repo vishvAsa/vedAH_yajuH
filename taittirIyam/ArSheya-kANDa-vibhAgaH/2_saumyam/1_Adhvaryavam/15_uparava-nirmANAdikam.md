@@ -16,7 +16,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-र॒ख्षो॒-हणो॑ +++(अभिचार-हेतुक--निखात--)+++वल-ग॒--हनो॑ वैष्ण॒वान् ख॑नामि ।
+र॒क्षो॒-हणो॑ +++(अभिचार-हेतुक--निखात--)+++वल-ग॒--हनो॑ वैष्ण॒वान् ख॑नामि ।
 </details>
 <details><summary>Keith</summary>
 
@@ -24,7 +24,7 @@ I dig those which slay the Raksas, which slay the spell, which are of Visnu.
 </details>
 <details><summary>मूलम्</summary>
 
-र॒ख्षो॒हणो॑ वलग॒हनो॑ वैष्ण॒वान्ख॑नामि ।
+र॒क्षो॒हणो॑ वलग॒हनो॑ वैष्ण॒वान्ख॑नामि ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -435,7 +435,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-र॒ख्षो॒-हणो॑ वलग॒-हन॒ᳶ प्रोख्षा॑मि वैष्ण॒वान्।
+र॒क्षो॒-हणो॑ वलग॒-हन॒ᳶ प्रोक्षा॑मि वैष्ण॒वान्।
 </details>
 <details><summary>Keith</summary>
 
@@ -444,7 +444,7 @@ I sprinkle those which slay the Raksas, which slay the spell, and which are of V
 </details>
 <details><summary>मूलम्</summary>
 
-र॒ख्षो॒हणो॑ वलग॒हन॒ᳶ प्रोख्षा॑मि वैष्ण॒वान्।
+र॒क्षो॒हणो॑ वलग॒हन॒ᳶ प्रोक्षा॑मि वैष्ण॒वान्।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -454,7 +454,7 @@ I sprinkle those which slay the Raksas, which slay the spell, and which are of V
 ________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-र॒ख्षो॒हणो॑ वलग॒-हनोऽव॑ नयामि वैष्ण॒वान्।
+र॒क्षो॒हणो॑ वलग॒-हनोऽव॑ नयामि वैष्ण॒वान्।
 </details>
 <details><summary>Keith</summary>
 
@@ -462,7 +462,7 @@ I pour down those which slay the Raksas, which slay the spell, and which are of 
 </details>
 <details><summary>मूलम्</summary>
 
-र॒ख्षो॒हणो॑ वलग॒हनोऽव॑ नयामि वैष्ण॒वान्।
+र॒क्षो॒हणो॑ वलग॒हनोऽव॑ नयामि वैष्ण॒वान्।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -528,11 +528,11 @@ _______
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-रख्षो॒हणो॑ वलग॒हनोऽव॑ स्तृणामि वैष्ण॒वान्र॑ख्षो॒हणो॑ वलग॒हनो॒ऽभि जु॑होमि वैष्ण॒वान्र॑ख्षो॒हणौ॑ वलग॒हना॒वुप॑ दधामि वैष्ण॒वी र॑ख्षो॒हणौ॑ वलग॒हनौ॒ पर्यू॑हामि वैष्ण॒वी र॑ख्षो॒हणौ॑ वलग॒हनौ॒ परि॑ स्तृणामि वैष्ण॒वी र॑ख्षो॒हणौ॑ वलग॒हनौ॑ वैष्ण॒वी बृ॒हन्न॑सि बृ॒हद्ग्रा॑वा बृह॒तीमिन्द्रा॑य॒ वाच॑व्ँवद ॥ [4]
+रक्षो॒हणो॑ वलग॒हनोऽव॑ स्तृणामि वैष्ण॒वान्र॑क्षो॒हणो॑ वलग॒हनो॒ऽभि जु॑होमि वैष्ण॒वान्र॑क्षो॒हणौ॑ वलग॒हना॒वुप॑ दधामि वैष्ण॒वी र॑क्षो॒हणौ॑ वलग॒हनौ॒ पर्यू॑हामि वैष्ण॒वी र॑क्षो॒हणौ॑ वलग॒हनौ॒ परि॑ स्तृणामि वैष्ण॒वी र॑क्षो॒हणौ॑ वलग॒हनौ॑ वैष्ण॒वी बृ॒हन्न॑सि बृ॒हद्ग्रा॑वा बृह॒तीमिन्द्रा॑य॒ वाच॑व्ँवद ॥ [4]
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-र॒ख्षो॒हणो॑ वलग॒हनोऽव॑ स्तृणामि वैष्ण॒वान् ।
+र॒क्षो॒हणो॑ वलग॒हनोऽव॑ स्तृणामि वैष्ण॒वान् ।
 </details>
 <details><summary>Keith</summary>
 
@@ -541,7 +541,7 @@ I bestrew those which slay the Raksas, which slay the spell, and which are of Vi
 </details>
 <details><summary>मूलम्</summary>
 
-र॒ख्षो॒हणो॑ वलग॒हनोऽव॑ स्तृणामि वैष्ण॒वान् ।
+र॒क्षो॒हणो॑ वलग॒हनोऽव॑ स्तृणामि वैष्ण॒वान् ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -557,7 +557,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-र॒ख्षो॒-हणो॑ वलग॒हनो॒ऽभि जु॑होमि वैष्ण॒वान् ।
+र॒क्षो॒-हणो॑ वलग॒हनो॒ऽभि जु॑होमि वैष्ण॒वान् ।
 </details>
 <details><summary>Keith</summary>
 
@@ -565,7 +565,7 @@ I pour the libation over those which slay the Raksas, which slay the spell, and 
 \</details>
 <details><summary>मूलम्</summary>
 
-र॒ख्षो॒हणो॑ वलग॒हनो॒ऽभि जु॑होमि वैष्ण॒वान् ।
+र॒क्षो॒हणो॑ वलग॒हनो॒ऽभि जु॑होमि वैष्ण॒वान् ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -579,7 +579,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-र॒ख्षो॒हणौ॑ वलग॒हना॒व् उप॑ दधामि वैष्ण॒वी ।
+र॒क्षो॒हणौ॑ वलग॒हना॒व् उप॑ दधामि वैष्ण॒वी ।
 </details>
 <details><summary>Keith</summary>
 
@@ -587,7 +587,7 @@ I lay down the two Which slay the Raksas, which slay the spell, and which are of
 </details>
 <details><summary>मूलम्</summary>
 
-र॒ख्षो॒हणौ॑ वलग॒हना॒वुप॑ दधामि वैष्ण॒वी ।
+र॒क्षो॒हणौ॑ वलग॒हना॒वुप॑ दधामि वैष्ण॒वी ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -601,7 +601,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-र॒ख्षो॒हणौ॑ वलग॒हनौ॒ पर्यू॑हामि वैष्ण॒वी  ।
+र॒क्षो॒हणौ॑ वलग॒हनौ॒ पर्यू॑हामि वैष्ण॒वी  ।
 </details>
 <details><summary>Keith</summary>
 
@@ -609,7 +609,7 @@ I surround the two which slay the Raksas, which slay the spell, and which are of
 </details>
 <details><summary>मूलम्</summary>
 
-र॒ख्षो॒हणौ॑ वलग॒हनौ॒ पर्यू॑हामि वैष्ण॒वी  ।
+र॒क्षो॒हणौ॑ वलग॒हनौ॒ पर्यू॑हामि वैष्ण॒वी  ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -623,7 +623,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-र॒ख्षो॒हणौ॑ वलग॒हनौ॒ परि॑ स्तृणामि वैष्ण॒वी ।
+र॒क्षो॒हणौ॑ वलग॒हनौ॒ परि॑ स्तृणामि वैष्ण॒वी ।
 </details>
 <details><summary>Keith</summary>
 
@@ -631,7 +631,7 @@ I bestrew the two which slay the Raksas, which slay the spell, and which are of 
 </details>
 <details><summary>मूलम्</summary>
 
-र॒ख्षो॒हणौ॑ वलग॒हनौ॒ परि॑ स्तृणामि वैष्ण॒वी ।
+र॒क्षो॒हणौ॑ वलग॒हनौ॒ परि॑ स्तृणामि वैष्ण॒वी ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -645,7 +645,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-र॒ख्षो॒हणौ॑ वलग॒हनौ॑ वैष्ण॒वी ।
+र॒क्षो॒हणौ॑ वलग॒हनौ॑ वैष्ण॒वी ।
 </details>
 <details><summary>Keith</summary>
 
@@ -654,7 +654,7 @@ The two which slay the Raksas, which slay the spell, and which are of Visnu.
 </details>
 <details><summary>मूलम्</summary>
 
-र॒ख्षो॒हणौ॑ वलग॒हनौ॑ वैष्ण॒वी ।
+र॒क्षो॒हणौ॑ वलग॒हनौ॑ वैष्ण॒वी ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

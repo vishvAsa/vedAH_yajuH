@@ -125,7 +125,7 @@ Cast away is Namuci's head.
 दे॒वा ध॑र्म॒-सुव॑श् च॒ ये ।    
 ते ते॒ वाचꣳ॑ सुवन्तां॒    
 ते ते॑ प्रा॒णꣳ सु॑वन्तां॒  
-ते ते॒ चख्षु॑स् सुवन्तां॒   
+ते ते॒ चक्षु॑स् सुवन्तां॒   
 ते ते॒ श्रोत्रꣳ॑ सुवन्ताम् ॥
 </details>
 </div>
@@ -138,7 +138,7 @@ Soma, king Varuna, and the gods which instigate righteousness, may they instigat
 <details><summary>मूलम्</summary>
 
 सोमो॒ राजा॒ वरु॑णो दे॒वा ध॑र्म॒सुव॑श्च॒ ये ।  
-ते ते॒ वाचꣳ॑ सुवन्ता॒न्ते ते॑ प्रा॒णꣳ सु॑वन्ता॒न्ते ते॒ चख्षु॑स्सुवन्ता॒न्ते ते॒ श्रोत्रꣳ॑ सुवन्ता॒म्
+ते ते॒ वाचꣳ॑ सुवन्ता॒न्ते ते॑ प्रा॒णꣳ सु॑वन्ता॒न्ते ते॒ चक्षु॑स्सुवन्ता॒न्ते ते॒ श्रोत्रꣳ॑ सुवन्ता॒म्
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -173,7 +173,7 @@ With the glory of Soma I besprinkle thee, with the brilliance of Agni [1], with 
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ख्ष॒त्त्राणा॑ङ् ख्ष॒त्त्र-प॑तिर् असि  ।  
+क्ष॒त्त्राणा॑ङ् क्ष॒त्त्र-प॑तिर् असि  ।  
 अति॑ दि॒वस् पा॑हि   ।
 </details>
 <details><summary>Keith</summary>
@@ -183,7 +183,7 @@ Protect from the sky.
 </details>
 <details><summary>मूलम्</summary>
 
-ख्ष॒त्त्राणा॑ङ्ख्ष॒त्त्रप॑तिर॒स्यति॑ दि॒वस्पा॑हि
+क्ष॒त्त्राणा॑ङ्क्ष॒त्त्रप॑तिर॒स्यति॑ दि॒वस्पा॑हि
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

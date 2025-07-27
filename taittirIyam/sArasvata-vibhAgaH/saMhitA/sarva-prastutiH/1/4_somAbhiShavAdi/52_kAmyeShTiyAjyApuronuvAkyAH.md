@@ -1201,7 +1201,7 @@ _______
 
 अग्ने॒ रसे॑न॒ तेज॑सा॒  
 जात॑वेदो॒ वि रो॑चसे ।  
-र॒ख्षो॒हा ऽमी॑व॒+++(=आभ्यन्तर-रोग)+++-चात॑नः+++(=शातनः)+++  ॥
+र॒क्षो॒हा ऽमी॑व॒+++(=आभ्यन्तर-रोग)+++-चात॑नः+++(=शातनः)+++  ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/52_kAmyeShTiyAjyApuronuvAkyAH/02_agne_rasena.md">
@@ -1215,7 +1215,7 @@ Slayer of Raksases, suppressor of demons.
 <details><summary>मूलम्</summary>
 
 अग्ने॒ रसे॑न॒ तेज॑सा॒ जात॑वेदो॒ वि रो॑चसे ।  
-र॒ख्षो॒हाऽमी॑व॒चात॑नः  ॥
+र॒क्षो॒हाऽमी॑व॒चात॑नः  ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

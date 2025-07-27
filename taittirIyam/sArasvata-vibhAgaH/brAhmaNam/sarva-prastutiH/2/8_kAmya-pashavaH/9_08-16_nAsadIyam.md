@@ -2684,8 +2684,8 @@ Was war der Wald, und was war jener Baum doch, aus dem sie Erd' und Himmel schö
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/9_08-16_nAsadIyam/24_brahma_vanam.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-ब्रह्म॒ वन॒म् ब्रह्म॒ स वृ॒ख्ष **आ॑सीत्** ॥ 76 ॥  
-यतो॒ द्यावा॑पृथि॒वी **नि॑ष्टत॒ख्षुः**+++(←तक्ष्)+++ ।   
+ब्रह्म॒ वन॒म् ब्रह्म॒ स वृ॒क्ष **आ॑सीत्** ॥ 76 ॥  
+यतो॒ द्यावा॑पृथि॒वी **नि॑ष्टत॒क्षुः**+++(←तक्ष्)+++ ।   
 मनी॑षिणो॒ मन॑सा॒ **विब्र॑वीमि** वः ।  
 **ब्रह्मा॒ध्यति॑ष्ठ॒द्** भुव॑नानि **धा॒रय॑न्न्** ।
 </details>
@@ -2694,8 +2694,8 @@ Was war der Wald, und was war jener Baum doch, aus dem sie Erd' und Himmel schö
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
-ब्रह्म॒ वन॒म्ब्रह्म॒ स वृ॒ख्ष आ॑सीत् ॥ 76 ॥  
-यतो॒ द्यावा॑पृथि॒वी नि॑ष्टत॒ख्षुः ।   
+ब्रह्म॒ वन॒म्ब्रह्म॒ स वृ॒क्ष आ॑सीत् ॥ 76 ॥  
+यतो॒ द्यावा॑पृथि॒वी नि॑ष्टत॒क्षुः ।   
 मनी॑षिणो॒ मन॑सा॒ विब्र॑वीमि वः ।  
 ब्रह्मा॒ध्यति॑ष्ठ॒द्भुव॑नानि धा॒रय॑न् ।
 </details>

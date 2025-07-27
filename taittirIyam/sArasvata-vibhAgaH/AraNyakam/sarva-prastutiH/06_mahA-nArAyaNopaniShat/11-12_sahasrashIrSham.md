@@ -12,7 +12,7 @@ title = "११-१२ सहस्रशीर्षम्"
 स॒ह॒स्र॒-शी॑र्षन् दे॒व॒व्ँ  
 वि॒श्वाक्ष॑व्ँ वि॒श्वशं॑भुवम् ।  
 विश्व॑न् ना॒राय॑णन् दे॒व॒म्  
-अ॒ख्षरं॑ पर॒मं प्र॒भुम् ।
+अ॒क्षरं॑ पर॒मं प्र॒भुम् ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/11-12_sahasrashIrSham/02_sahasrashIrShan_devav.N.md">
@@ -20,7 +20,7 @@ title = "११-१२ सहस्रशीर्षम्"
 <details><summary>मूलम्</summary>
 
 स॒ह॒स्र॒शीर्॑षन्दे॒व॒व्ँ वि॒श्वाक्ष॑व् विँ॒श्वशं॑भुवम् ।  
-विश्व॑न्ना॒राय॑णन्दे॒व॒म॒ख्षरं॑ पर॒मं प्र॒भुम् ।
+विश्व॑न्ना॒राय॑णन्दे॒व॒म॒क्षरं॑ पर॒मं प्र॒भुम् ।
 </details>
 <details><summary>सायण-टीका</summary>
 

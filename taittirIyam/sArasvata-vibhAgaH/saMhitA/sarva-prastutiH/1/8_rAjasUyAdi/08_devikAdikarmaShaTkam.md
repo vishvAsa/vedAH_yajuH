@@ -44,7 +44,7 @@ to Sinivali an oblation, to Kuhu an oblation;
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मि॒थु॒नौ+++(→स्त्रीपुंसौ)+++ गावौ॒ दख्षि॑णा ।
+मि॒थु॒नौ+++(→स्त्रीपुंसौ)+++ गावौ॒ दक्षि॑णा ।
 </details>
 <details><summary>Keith</summary>
 
@@ -52,7 +52,7 @@ the sacrificial fee is a pair of cattle.
 </details>
 <details><summary>मूलम्</summary>
 
-मि॒थु॒नौ गावौ॒ दख्षि॑णा ।
+मि॒थु॒नौ गावौ॒ दक्षि॑णा ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -83,7 +83,7 @@ To Agni and Visnu he offers on eleven potsherds, to Indra and Visnu on eleven po
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वा॑म॒नो व॒ही दख्षि॑णा ।
+वा॑म॒नो व॒ही दक्षि॑णा ।
 </details>
 <details><summary>Keith</summary>
 
@@ -91,7 +91,7 @@ the sacrificial fee is a dwarf beast of burden.
 </details>
 <details><summary>मूलम्</summary>
 
-वा॑म॒नो व॒ही दख्षि॑णा ।
+वा॑म॒नो व॒ही दक्षि॑णा ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -106,7 +106,7 @@ the sacrificial fee is a dwarf beast of burden.
 अ॒ग्नी॒षो॒मीय॒म् एका॑दशकपाल॒न् निर्व॑पति +  
 इन्द्रासो॒मीय॒म् एका॑दशकपालꣳ  
 सौ॒म्यञ् च॒रुम्।  
-ब॒भ्रुर् दख्षि॑णा॥ 
+ब॒भ्रुर् दक्षि॑णा॥ 
 </details>
 <details><summary>Keith</summary>
 
@@ -114,7 +114,7 @@ To Agni and Soma he offers on eleven potsherds, to Indra and Soma on eleven pots
 </details>
 <details><summary>मूलम्</summary>
 
-अ॒ग्नी॒षो॒मीय॒मेका॑दशकपाल॒न्निर्व॑पतीन्द्रासो॒मीय॒मेका॑दशकपालꣳ सौ॒म्यञ्च॒रुम्ब॒भ्रुर्दख्षि॑णा 
+अ॒ग्नी॒षो॒मीय॒मेका॑दशकपाल॒न्निर्व॑पतीन्द्रासो॒मीय॒मेका॑दशकपालꣳ सौ॒म्यञ्च॒रुम्ब॒भ्रुर्दक्षि॑णा 
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -129,7 +129,7 @@ To Agni and Soma he offers on eleven potsherds, to Indra and Soma on eleven pots
 सो॒मा॒पौ॒ष्णञ् च॒रुन् निर्व॑पत्य्  
 ऐन्द्रापौ॒ष्णञ् च॒रुम्   
 पौ॒ष्णञ् च॒रुम्।  
-श्या॒मो दख्षि॑णा ॥
+श्या॒मो दक्षि॑णा ॥
 </details>
 <details><summary>Keith</summary>
 
@@ -137,7 +137,7 @@ To Soma and Pusan he offers an oblation, to Indra and Pusan an oblation, to Pusa
 </details>
 <details><summary>मूलम्</summary>
 
-सो॒मा॒पौ॒ष्णञ्च॒रुन्निर्व॑पत्यैन्द्रापौ॒ष्णञ्च॒रुम्पौ॒ष्णञ्च॒रुꣵ श्या॒मो दख्षि॑णा 
+सो॒मा॒पौ॒ष्णञ्च॒रुन्निर्व॑पत्यैन्द्रापौ॒ष्णञ्च॒रुम्पौ॒ष्णञ्च॒रुꣵ श्या॒मो दक्षि॑णा 
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -151,7 +151,7 @@ To Soma and Pusan he offers an oblation, to Indra and Pusan an oblation, to Pusa
 
 वै॒श्वा॒न॒रन् द्वाद॑शकपाल॒न् निर्व॑पति ।
 
-हिर॑ण्य॒न् दख्षि॑णा ।
+हिर॑ण्य॒न् दक्षि॑णा ।
 </details>
 <details><summary>Keith</summary>
 
@@ -161,7 +161,7 @@ To (Agni) Vaiśvanara he offers on twelve potsherds; the sacrificial fee is gold
 
 वै॒श्वा॒न॒रन्द्वाद॑शकपाल॒न्निर्व॑पति ।
 
-हिर॑ण्य॒न्दख्षि॑णा ।
+हिर॑ण्य॒न्दक्षि॑णा ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -175,7 +175,7 @@ To (Agni) Vaiśvanara he offers on twelve potsherds; the sacrificial fee is gold
 
 वा॒रु॒णय्ँ य॑व॒मय॑ञ् च॒रुम्  +++(निर्व॑प॒ति)+++ ।    
 
-अश्वो॒ दख्षि॑णा ॥ [14]
+अश्वो॒ दक्षि॑णा ॥ [14]
 </details>
 <details><summary>Keith</summary>
 
@@ -185,7 +185,7 @@ To Varuna (he offers) an oblation made of barley; the sacrificial fee is a horse
 
 वा॒रु॒णय्ँय॑व॒मय॑ञ्च॒रुम्  +++(निर्व॑प॒ति)+++ ।    
 
-अश्वो॒ दख्षि॑णा ॥ [14]
+अश्वो॒ दक्षि॑णा ॥ [14]
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

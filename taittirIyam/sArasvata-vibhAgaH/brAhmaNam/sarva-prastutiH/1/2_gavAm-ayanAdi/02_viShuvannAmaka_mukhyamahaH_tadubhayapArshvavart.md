@@ -107,12 +107,12 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत् तन् न सूर्ख्ष्य॑म् ।  
+तत् तन् न सूर्क्ष्य॑म् ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
-तत् तन् न सूर्ख्ष्य॑म् ।  
+तत् तन् न सूर्क्ष्य॑म् ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

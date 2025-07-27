@@ -7,7 +7,7 @@ title = "१८ दशपेय-ब्राह्मणम्"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒द्यो दी॑ख्षयन्ति ।   
+स॒द्यो दी॑क्षयन्ति ।   
 स॒द्यस् सोम॑ङ् क्रीणन्ति ।  
 पु॒ण्ड॒रि॒-स्र॒जाम् प्रय॑च्छति ।  
 </details>
@@ -17,7 +17,7 @@ On the same day they consecrate, on the same day they buy the Soma. He presents 
 </details>
 <details><summary>मूलम्</summary>
 
-स॒द्यो दी॑ख्षयन्ति ।   
+स॒द्यो दी॑क्षयन्ति ।   
 स॒द्यस्सोम॑ङ्क्रीणन्ति ।  
 पु॒ण्ड॒रि॒स्र॒जाम्प्र य॑च्छति ।  
 </details>

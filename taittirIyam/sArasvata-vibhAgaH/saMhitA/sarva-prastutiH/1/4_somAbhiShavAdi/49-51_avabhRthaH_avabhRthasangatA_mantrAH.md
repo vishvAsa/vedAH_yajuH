@@ -381,8 +381,8 @@ _______
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अग्नेर् अनी॑कम् **अ॒प आ वि॑वेश** ।  
-अपा॑न्नपात्! प्रति॒-रख्ष॑न्न् +++(वरुणस्य)+++ असु॒र्य॑न्+++(=असुरस्वं)+++ ....    
-दमे॑+++(=यज्ञागारे)+++-दमे [49] **स॒मिध॑य्ँ यख्ष्य्** अग्ने  ॥
+अपा॑न्नपात्! प्रति॒-रक्ष॑न्न् +++(वरुणस्य)+++ असु॒र्य॑न्+++(=असुरस्वं)+++ ....    
+दमे॑+++(=यज्ञागारे)+++-दमे [49] **स॒मिध॑य्ँ यक्ष्य्** अग्ने  ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/49-51_avabhRthaH_avabhRthasangatA_mantrAH/02_agner_anIkam.md">
@@ -396,8 +396,8 @@ In each home [1] do thou offer the kindling-stick, O Agni;
 <details><summary>मूलम्</summary>
 
 अग्नेरनी॑कम॒प आ वि॑वेश ।  
-अपा॑न्नपात्प्रति॒रख्ष॑न्नसु॒र्य॑न्....    
-दमे॑दमे [49] स॒मिध॑य्ँयख्ष्यग्ने  ॥
+अपा॑न्नपात्प्रति॒रक्ष॑न्नसु॒र्य॑न्....    
+दमे॑दमे [49] स॒मिध॑य्ँयक्ष्यग्ने  ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -440,7 +440,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒मु॒द्रे ते॒ हृद॑यम् अ॒फ्स्व् अ॑न्तः ।  
+स॒मु॒द्रे ते॒ हृद॑यम् अ॒प्स्व् अ॑न्तः ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -448,7 +448,7 @@ In the sea is thy heart, within the waters;
 </details>
 <details><summary>मूलम्</summary>
 
-स॒मु॒द्रे ते॒ हृद॑यम॒फ्स्व॑न्तः ।  
+स॒मु॒द्रे ते॒ हृद॑यम॒प्स्व॑न्तः ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

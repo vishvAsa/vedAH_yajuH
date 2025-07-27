@@ -143,7 +143,7 @@ Indra's dear friend.
 </details>
 <details><summary>मूलम्</summary>
 
-वा॒युᳶ पू॒तᳶ प॒वित्रे॑ण प्र॒त्यङ्ख्सोमो॒ अति॑द्रुतः ।   
+वा॒युᳶ पू॒तᳶ प॒वित्रे॑ण प्र॒त्यङ्क्सोमो॒ अति॑द्रुतः ।   
 इन्द्र॑स्य॒ युज्य॒स्सखा॑  ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -199,7 +199,7 @@ Who have not gone to the reverential cutting of the straw.
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-आ॒श्वि॒नन्धू॒म्रमा ल॑भते सारस्व॒तम्मे॒षमै॒न्द्रमृ॑ष॒भमै॒न्द्रमेका॑दशकपाल॒न्निर्व॑पति सावि॒त्रन्द्वाद॑शकपालव्ँवारु॒णन्दश॑कपाल॒ꣳ॒ सोम॑प्रतीकाᳶ पितरस्तृप्णुत॒ वड॑बा॒ दख्षि॑णा ॥
+आ॒श्वि॒नन्धू॒म्रमा ल॑भते सारस्व॒तम्मे॒षमै॒न्द्रमृ॑ष॒भमै॒न्द्रमेका॑दशकपाल॒न्निर्व॑पति सावि॒त्रन्द्वाद॑शकपालव्ँवारु॒णन्दश॑कपाल॒ꣳ॒ सोम॑प्रतीकाᳶ पितरस्तृप्णुत॒ वड॑बा॒ दक्षि॑णा ॥
 </details>
 </details>
 </div>
@@ -271,7 +271,7 @@ O Pitrs, beaded by Soma, rejoice.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 
-वड॑बा॒ दख्षि॑णा  ॥[37]
+वड॑बा॒ दक्षि॑णा  ॥[37]
 </details>
 <details><summary>Keith</summary>
 
@@ -279,7 +279,7 @@ The sacrificial fee is a mare.
 </details>
 <details><summary>मूलम्</summary>
 
-वड॑बा॒ दख्षि॑णा  ॥[37]
+वड॑बा॒ दक्षि॑णा  ॥[37]
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

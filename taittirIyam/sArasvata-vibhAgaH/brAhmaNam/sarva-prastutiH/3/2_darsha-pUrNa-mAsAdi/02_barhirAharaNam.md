@@ -163,20 +163,20 @@ unicode_script: devanagari
 अत्र ब्राह्मणम् – ‘ यज्ञस्य घोषदसीत्याह। यजमान एव रयिं दधाति’ (ब्रा॰ का॰ ३ प्र॰ २ अ॰ २) इति। रयिं धनम्।
 </details>
 
-## प्रत्यु॑ष्ट॒ꣳ॒ रख्ष॒ᳶ
+## प्रत्यु॑ष्ट॒ꣳ॒ रक्ष॒ᳶ
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/02_barhirAharaNam/pratyuShTaM_raxaH.md"  newLevelForH1="5" includeTitle="false"> 
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"प्रत्यु॑ष्ट॒ꣳ॒ रख्ष॒ᳶ प्रत्यु॑ष्टा॒ अरा॑तय॒" इत्या॑ह ।  
-रख्ष॑सा॒म् अप॑हत्यै ।
+"प्रत्यु॑ष्ट॒ꣳ॒ रक्ष॒ᳶ प्रत्यु॑ष्टा॒ अरा॑तय॒" इत्या॑ह ।  
+रक्ष॑सा॒म् अप॑हत्यै ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-"प्रत्यु॑ष्ट॒ꣳ॒ रख्ष॒ᳶ प्रत्यु॑ष्टा॒ अरा॑तय॒" इत्या॑ह ।  
-रख्ष॑सा॒म् अप॑हत्यै ।
+"प्रत्यु॑ष्ट॒ꣳ॒ रक्ष॒ᳶ प्रत्यु॑ष्टा॒ अरा॑तय॒" इत्या॑ह ।  
+रक्ष॑सा॒म् अप॑हत्यै ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -827,12 +827,12 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"उ॒र्व॑न्तरि॑ख्ष॒म् अन्वि॒ही"त्या॑ह॒ गत्यै॑ ।
+"उ॒र्व॑न्तरि॑क्ष॒म् अन्वि॒ही"त्या॑ह॒ गत्यै॑ ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-"उ॒र्व॑न्तरि॑ख्ष॒मन्वि॒ही"त्या॑ह॒ गत्यै॑ ।
+"उ॒र्व॑न्तरि॑क्ष॒मन्वि॒ही"त्या॑ह॒ गत्यै॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

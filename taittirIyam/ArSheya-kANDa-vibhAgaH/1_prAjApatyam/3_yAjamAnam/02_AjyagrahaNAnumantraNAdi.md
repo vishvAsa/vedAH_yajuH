@@ -40,7 +40,7 @@ Instigated by Brhaspati may the sacrificer here come to no harm.
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-आज्य॑मसि स॒त्यम॑सि स॒त्यस्याध्य॑ख्षमसि ह॒विर॑सि वैश्वान॒रव्ँवै॑श्वदे॒वमुत्पू॑तशुष्मꣳ स॒त्यौजाः
+आज्य॑मसि स॒त्यम॑सि स॒त्यस्याध्य॑क्षमसि ह॒विर॑सि वैश्वान॒रव्ँवै॑श्वदे॒वमुत्पू॑तशुष्मꣳ स॒त्यौजाः
 </details>
 </details>
 </div>
@@ -58,7 +58,7 @@ _______
 
 आज्य॑म् असि ।  
 स॒त्यम् अ॑सि ।  
-स॒त्यस्याध्य॑ख्षम् असि ।
+स॒त्यस्याध्य॑क्षम् असि ।
 </details>
 <details><summary>Keith</summary>
 
@@ -68,7 +68,7 @@ Thou art butter, thou art truth, thou art the overseer of truth,
 
 आज्य॑मसि ।  
 स॒त्यम॑सि ।
-स॒त्यस्याध्य॑ख्षमसि ।
+स॒त्यस्याध्य॑क्षमसि ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -145,7 +145,7 @@ overpower enmity, overpower those who practise emnity; thou art of a thousandfol
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-तन्मा॑ जि॒न्वाऽऽज्य॒स्याऽऽज्य॑मसि स॒त्यस्य॑ स॒त्यम॑सि स॒त्यायुः॑ [1]अ॒सि॒ स॒त्यशु॑ष्ममसि स॒त्येन॑ त्वा॒ऽभि घा॑रयामि॒ तस्य॑ ते भख्षीय
+तन्मा॑ जि॒न्वाऽऽज्य॒स्याऽऽज्य॑मसि स॒त्यस्य॑ स॒त्यम॑सि स॒त्यायुः॑ [1]अ॒सि॒ स॒त्यशु॑ष्ममसि स॒त्येन॑ त्वा॒ऽभि घा॑रयामि॒ तस्य॑ ते भक्षीय
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -245,7 +245,7 @@ with truth I besprinkle thee;
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्य॑ ते भख्षीय ।
+तस्य॑ ते भक्षीय ।
 </details>
 <details><summary>Keith</summary>
 
@@ -253,7 +253,7 @@ may I share thee that art such.
 </details>
 <details><summary>मूलम्</summary>
 
-तस्य॑ ते भख्षीय ।
+तस्य॑ ते भक्षीय ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -383,7 +383,7 @@ For the brilliance of the Brahman, for a prop, a support, I take thee.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ख्ष॒त्रस्य॒ त्वौज॑से य॒न्त्राय॑ [2] ध॒र्त्राय॑ गृह्णामि ।
+क्ष॒त्रस्य॒ त्वौज॑से य॒न्त्राय॑ [2] ध॒र्त्राय॑ गृह्णामि ।
 </details>
 <details><summary>Keith</summary>
 
@@ -391,7 +391,7 @@ For the might of the ruling class, for a prop, a support, I take thee [2].
 </details>
 <details><summary>मूलम्</summary>
 
-ख्ष॒त्रस्य॒ त्वौज॑से य॒न्त्राय॑ [2] ध॒र्त्राय॑ गृह्णामि ।
+क्ष॒त्रस्य॒ त्वौज॑से य॒न्त्राय॑ [2] ध॒र्त्राय॑ गृह्णामि ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

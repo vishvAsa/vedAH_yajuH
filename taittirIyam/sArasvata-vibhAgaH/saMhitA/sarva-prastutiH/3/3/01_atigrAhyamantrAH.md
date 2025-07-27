@@ -51,7 +51,7 @@ make me brilliant, of long life, radiant among men;
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दी॒ख्षायै॑ च त्वा॒ तप॑सश् च॒ तेज॑से जुहोमि ।
+दी॒क्षायै॑ च त्वा॒ तप॑सश् च॒ तेज॑से जुहोमि ।
 </details>
 <details><summary>Keith</summary>
 
@@ -59,7 +59,7 @@ for the brilliance of consecration and of penance do I offer to thee.
 </details>
 <details><summary>मूलम्</summary>
 
-दी॒ख्षायै॑ च त्वा॒ तप॑सश्च॒ तेज॑से जुहोमि ।
+दी॒क्षायै॑ च त्वा॒ तप॑सश्च॒ तेज॑से जुहोमि ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -137,7 +137,7 @@ O Indra, full of force, be thou full of force among the gods, make me full of fo
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्रह्म॑णश् च त्वा ख्ष॒त्रस्य॑ चौज॑से जुहोमि ।  
+ब्रह्म॑णश् च त्वा क्ष॒त्रस्य॑ चौज॑से जुहोमि ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -145,7 +145,7 @@ the force of the Brahmanhood and royalty [1] do I offer to thee.
 </details>
 <details><summary>मूलम्</summary>
 
-ब्रह्म॑णश्च त्वा ख्ष॒त्रस्य॑ चौज॑से जुहोमि ।  
+ब्रह्म॑णश्च त्वा क्ष॒त्रस्य॑ चौज॑से जुहोमि ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

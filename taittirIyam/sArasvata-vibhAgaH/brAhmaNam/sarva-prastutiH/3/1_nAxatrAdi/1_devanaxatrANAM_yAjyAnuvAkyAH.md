@@ -34,8 +34,8 @@ unicode_script = "devanagari"
 <details><summary>मूलम्</summary>
 
 अ॒ग्निर्न॑ᳶ पातु॒ कृत्ति॑काः ।   
-नख्ष॑त्रन्दे॒वमि॑न्द्रि॒यम् ।  
-इ॒दमा॑साव्ँविचख्ष॒णम् ।   
+नक्ष॑त्रन्दे॒वमि॑न्द्रि॒यम् ।  
+इ॒दमा॑साव्ँविचक्ष॒णम् ।   
 ह॒विरा॒सञ्जु॑होतन ।
 
 </details>
@@ -254,7 +254,7 @@ unicode_script = "devanagari"
 <details><summary>मूलम्</summary>
 
 सोमो॒ राजा॑ मृगशी॒र्षेण॒ आग॑न् ।   
-शि॒वन्नख्ष॑त्रम्प्रि॒यम॑स्य॒ धाम॑ ।  
+शि॒वन्नक्ष॑त्रम्प्रि॒यम॑स्य॒ धाम॑ ।  
 आ॒प्याय॑मानो बहु॒धा जने॑षु ।  
 रेत॑ᳶ प्र॒जाय्ँयज॑माने दधातु ॥2॥  
 
@@ -288,7 +288,7 @@ unicode_script = "devanagari"
 <details open><summary><h2>06 यत्ते ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
-यत्ते॒ न॑ख्षत्रम्मृगशी॒र्षमस्ति॑ ।   
+यत्ते॒ न॑क्षत्रम्मृगशी॒र्षमस्ति॑ ।   
 प्रि॒यꣳ रा॑जन्प्रि॒यत॑मम्प्रि॒याणा॑म् ।  
 तस्मै॑ ते सोम ह॒विषा॑ विधेम ।  
 शन्न॑ एधि द्वि॒पदे॒ शञ्चतु॑ष्पदे ।  
@@ -361,7 +361,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 आ॒र्द्रया॑ रु॒द्रᳶ प्रथ॑मान एति ।  
 श्रेष्ठो॑ दे॒वाना॒म्पति॑रघ्नि॒याना॑म् ।  
-नख्ष॑त्रमस्य ह॒विषा॑ विधेम ।  
+नक्ष॑त्रमस्य ह॒विषा॑ विधेम ।  
 मा न॑ᳶ प्र॒जाꣳ री॑रिष॒न्मोत वी॒रान् ।  
 
 </details>
@@ -389,7 +389,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 <details><summary>मूलम्</summary>
 
 हे॒ती रु॒द्रस्य॒ परि॑ णो वृणक्तु ।  
-आ॒र्द्रा नख्ष॑त्रञ्जुषताꣳ ह॒विर्नः॑ ॥3॥  
+आ॒र्द्रा नक्ष॑त्रञ्जुषताꣳ ह॒विर्नः॑ ॥3॥  
 प्र॒मु॒ञ्चमा॑नौ दुरि॒तानि॒ विश्वा॑ ।  
 अपा॒घशꣳ॑सन्नुदता॒मरा॑तिम् ।  
 
@@ -549,7 +549,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 <details><summary>मूलम्</summary>
 
 बृह॒स्पति॑ᳶ प्रथ॒मञ्जाय॑मानः ।   
-ति॒ष्य॑न्नख्ष॑त्रम॒भिसम्ब॑भूव ।  
+ति॒ष्य॑न्नक्ष॑त्रम॒भिसम्ब॑भूव ।  
 श्रेष्ठो॑ दे॒वाना॒म्पृत॑नासु जि॒ष्णुः ।    
 दिशोऽनु॒ सर्वा॒ अभ॑यन्नो अस्तु ।  
 
@@ -640,7 +640,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 इ॒दꣳ स॒र्पेभ्यो॑ ह॒विर॑स्तु॒ जुष्ट॑म् ।  
 आ॒श्रे॒षा येषा॑मनु॒यन्ति॒ चेतः॑ ॥5॥  
-ये अ॒न्तरि॑ख्षम्पृथि॒वीङ्ख्षि॒यन्ति॑ ।  
+ये अ॒न्तरि॑क्षम्पृथि॒वीङ्क्षि॒यन्ति॑ ।  
 ते न॑स्स॒र्पासो॒ हव॒माग॑मिष्ठाः ।  
 
 
@@ -729,7 +729,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 उप॑हूताᳶ पि॒तरो॒ ये म॒घासु॑ ।  
 मनो॑जवसस्सु॒कृत॑स्सुकृ॒त्याः ।  
-ते नो॒ नख्ष॑त्रे॒ हव॒माग॑मिष्ठाः ।  
+ते नो॒ नक्ष॑त्रे॒ हव॒माग॑मिष्ठाः ।  
 स्व॒धाभि॑र्य॒ज्ञम्प्रय॑तञ्जुषन्ताम् ॥6॥  
 
 
@@ -754,7 +754,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 <details><summary>मूलम्</summary>
 
 ये अ॑ग्निद॒ग्धा येऽन॑ग्निदग्धाः ।  
-ये॑ऽमुल्ँ लो॒कम्पि॒तर॑ᳵ ख्षि॒यन्ति॑ ।  
+ये॑ऽमुल्ँ लो॒कम्पि॒तर॑ᳵ क्षि॒यन्ति॑ ।  
 याꣳश्च॑ वि॒द्म याꣳ उ॑ च॒ न प्र॑वि॒द्म ।  
 म॒घासु॑ य॒ज्ञꣳ सुकृ॑तञ्जुषन्ताम् ।  
 
@@ -900,7 +900,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 श्रेष्ठो॑ दे॒वाना॑म्भगवो भगासि ।  
 तत्त्वा॑ विदु॒ᳶ फल्गु॑नी॒स्तस्य॑ वित्तात् ।  
-अ॒स्मभ्य॑ङ्ख्ष॒त्रम॒जरꣳ॑ सु॒वीर्य॑म् ।  
+अ॒स्मभ्य॑ङ्क्ष॒त्रम॒जरꣳ॑ सु॒वीर्य॑म् ।  
 गोम॒दश्व॑व॒दुप॒सन्नु॑दे॒ह ।  
 
 
@@ -1016,7 +1016,7 @@ Denebola - β, 93 Leonis
 <details><summary>मूलम्</summary>
 
 हस्त॒ᳶ प्रय॑च्छत्व॒मृत॒व्ँवसी॑यः ।   
-दख्षि॑णेन॒ प्रति॑गृभ्णीम एनत् ।  
+दक्षि॑णेन॒ प्रति॑गृभ्णीम एनत् ।  
 दा॒तार॑म॒द्य स॑वि॒ता वि॑देय ।  
 यो नो॒ हस्ता॑य प्रसु॒वाति॑ य॒ज्ञम् ।
 
@@ -1059,7 +1059,7 @@ Corvus- α , β , γ , δ , ε Corvi.
 ## चित्रा - त्वष्टा
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/23_tvaShTA_nakhShatramabhyeti.md">
-<details open><summary><h2>23 त्वष्टा नख्षत्रमभ्येति ...{Loading}...</h2></summary>
+<details open><summary><h2>23 त्वष्टा नक्षत्रमभ्येति ...{Loading}...</h2></summary>
 
 
 त्वष्टा॒ नक्ष॑त्रम् **अ॒भ्ये॑ति** चि॒त्राम् +++(=Spica)+++।  
@@ -1070,10 +1070,10 @@ Corvus- α , β , γ , δ , ε Corvi.
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/23_tvaShTA_nakhShatramabhyeti.md">
-<details open><summary><h2>23 त्वष्टा नख्षत्रमभ्येति ...{Loading}...</h2></summary>
+<details open><summary><h2>23 त्वष्टा नक्षत्रमभ्येति ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
-त्वष्टा॒ नख्ष॑त्रम॒भ्ये॑ति चि॒त्राम् ।  
+त्वष्टा॒ नक्ष॑त्रम॒भ्ये॑ति चि॒त्राम् ।  
 सु॒भꣳस॑सय्ँ युव॒तिꣳ रोच॑मानाम् ॥9॥  
 नि॒वे॒शय॑न्न॒मृता॒न्मर्त्याꣳ॑श्च ।  
 रू॒पाणि॑ पि॒ꣳ॒शन्भुव॑नानि॒ विश्वा॑ ।  
@@ -1105,7 +1105,7 @@ Corvus- α , β , γ , δ , ε Corvi.
 <details><summary>मूलम्</summary>
 
 तन्न॒स्त्वष्टा॒ तदु॑ चि॒त्रा विच॑ष्टाम् ।  
-तन्नख्ष॑त्रम्भूरि॒दा अ॑स्तु॒ मह्य॑म् ।  
+तन्नक्ष॑त्रम्भूरि॒दा अ॑स्तु॒ मह्य॑म् ।  
 तन्न॑ᳶ प्र॒जाव्ँ वी॒रव॑तीꣳ सनोतु ।   
 गोभि॑र्नो॒ अश्वै॒स्सम॑नक्तु य॒ज्ञम् ।   
 
@@ -1153,7 +1153,7 @@ Corvus- α , β , γ , δ , ε Corvi.
 ## निष्ट्या, स्वातिः - वायुः
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/25_vAyurnakhShattramabhyeti.md">
-<details open><summary><h2>25 वायुर्नख्षत्त्रमभ्येति ...{Loading}...</h2></summary>
+<details open><summary><h2>25 वायुर्नक्षत्त्रमभ्येति ...{Loading}...</h2></summary>
 
 
 वा॒युर् नक्ष॑त्रम् **अ॒भ्ये॑ति॒** निष्ट्या॑म्+++(=Arctrus)+++।  
@@ -1164,10 +1164,10 @@ Corvus- α , β , γ , δ , ε Corvi.
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/25_vAyurnakhShattramabhyeti.md">
-<details open><summary><h2>25 वायुर्नख्षत्त्रमभ्येति ...{Loading}...</h2></summary>
+<details open><summary><h2>25 वायुर्नक्षत्त्रमभ्येति ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
-वा॒युर्नख्ष॑त्त्रम॒भ्ये॑ति॒ निष्ट्या॑म् ।  
+वा॒युर्नक्ष॑त्त्रम॒भ्ये॑ति॒ निष्ट्या॑म् ।  
 ति॒ग्मशृ॑ङ्गो वृष॒भो रोरु॑वाणः ।  
 स॒मी॒रय॒न्भुव॑ना मात॒रिश्वा॑ ।  
 अप॒ द्वेषाꣳ॑सि नुदता॒मरा॑तीः ॥10॥  
@@ -1199,7 +1199,7 @@ Corvus- α , β , γ , δ , ε Corvi.
 <details><summary>मूलम्</summary>
 
 तन्नो॑ वा॒युस्तदु॒ निष्ट्या॑ शृणोतु ।   
-तन्नख्ष॑त्रम्भूरि॒दा अ॑स्तु॒ मह्य॑म् ।  
+तन्नक्ष॑त्रम्भूरि॒दा अ॑स्तु॒ मह्य॑म् ।  
 तन्नो॑ दे॒वासो॒ अनु॑जानन्तु॒ काम॑म् ।  
 यथा॒ तरे॑म दुरि॒तानि॒ विश्वा॑ ।
 
@@ -1272,7 +1272,7 @@ Corvus- α , β , γ , δ , ε Corvi.
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/28_nakhShatrANAmadhipatnI.md">
-<details open><summary><h2>28 नख्षत्राणामधिपत्नी ...{Loading}...</h2></summary>
+<details open><summary><h2>28 नक्षत्राणामधिपत्नी ...{Loading}...</h2></summary>
 
 
 नक्ष॑त्राणा॒म् अधि॑पत्नी॒ विशा॑खे।  
@@ -1283,13 +1283,13 @@ Corvus- α , β , γ , δ , ε Corvi.
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/28_nakhShatrANAmadhipatnI.md">
-<details open><summary><h2>28 नख्षत्राणामधिपत्नी ...{Loading}...</h2></summary>
+<details open><summary><h2>28 नक्षत्राणामधिपत्नी ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
-नख्ष॑त्राणा॒मधि॑पत्नी॒ विशा॑खे ।   
+नक्ष॑त्राणा॒मधि॑पत्नी॒ विशा॑खे ।   
 श्रेष्ठा॑विन्द्रा॒ग्नी भुव॑नस्य गो॒पौ ॥11॥  
 विषू॑च॒श्शत्रू॑नप॒ बाध॑मानौ ।  
-अप॒ ख्षुध॑न्नुदता॒मरा॑तिम् ।  
+अप॒ क्षुध॑न्नुदता॒मरा॑तिम् ।  
 
 
 </details>

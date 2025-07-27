@@ -10,7 +10,7 @@ title = "१० ३ घृतम्"
 घृ॒तं मि॑मिक्षे  घृ॒तम॑स्य॒ योनि॑र्  
 घृ॒ते श्रि॒तो घृ॒तम् उ॑वस्य॒ धाम॑ ।  
 अ॒नु॒ष्व॒धम् आव॑ह, मा॒दय॑स्व॒ स्वाहा॑कृतव्ँ  
-वृषभ वख्षि ह॒व्यम् ।
+वृषभ वक्षि ह॒व्यम् ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/10_3/07_ghRtaM_mimixe.md">
@@ -20,7 +20,7 @@ title = "१० ३ घृतम्"
 घृ॒तं मि॑मिक्षे  घृ॒तम॑स्य॒ योनि॑र्  
 घृ॒ते श्रि॒तो घृ॒तम् उ॑वस्य॒ धाम॑ ।  
 अ॒नु॒ष्व॒धम् आव॑ह, मा॒दय॑स्व॒ स्वाहा॑कृतव्ँ  
-वृषभ वख्षि ह॒व्यम् ।
+वृषभ वक्षि ह॒व्यम् ।
 </details>
 </details>
 </div>

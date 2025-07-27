@@ -7,7 +7,7 @@ title = "०९ यूपारोहणाभिधानम्"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ख्ष॒त्रस्योल्ब॑म् असि ।  
+क्ष॒त्रस्योल्ब॑म् असि ।  
 </details>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -15,7 +15,7 @@ title = "०९ यूपारोहणाभिधानम्"
 </details>
 <details><summary>मूलम्</summary>
 
-ख्ष॒त्रस्योल्ब॑म्+++(=जरायुर्)+++ असि ।  
+क्ष॒त्रस्योल्ब॑म्+++(=जरायुर्)+++ असि ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -31,7 +31,7 @@ Thou art the caul of the kingly class.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ख्ष॒त्रस्य॒ योनि॑र् असि ।  
+क्ष॒त्रस्य॒ योनि॑र् असि ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -39,7 +39,7 @@ thou art the womb of the kingly class
 </details>
 <details><summary>मूलम्</summary>
 
-ख्ष॒त्रस्य॒ योनि॑रसि ।  
+क्ष॒त्रस्य॒ योनि॑रसि ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -87,7 +87,7 @@ Yes, let us two mount the heaven;
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒हन् ना॑व् उ॒भयो॒स् +++(कृते)+++ सुवो॑ रोख्ष्यामि ।  
+अ॒हन् ना॑व् उ॒भयो॒स् +++(कृते)+++ सुवो॑ रोक्ष्यामि ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -95,7 +95,7 @@ I will mount the heaven for us both.
 </details>
 <details><summary>मूलम्</summary>
 
-अ॒हन्ना॑वु॒भयो॒स्सुवो॑ रोख्ष्यामि ।  
+अ॒हन्ना॑वु॒भयो॒स्सुवो॑ रोक्ष्यामि ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -166,7 +166,7 @@ Strength, instigation, the later born, inspiration, heaven, the head, the Vyaśn
 प्रा॒णो य॒ज्ञेन॑ कल्पताम् ।  
 अ॒पा॒नो [38] य॒ज्ञेन॑ कल्पताम् ।  
 व्या॒नो य॒ज्ञेन॑ कल्पताम् ।  
-चख्षु॑र् य॒ज्ञेन॑ कल्पताम् ।  
+चक्षु॑र् य॒ज्ञेन॑ कल्पताम् ।  
 श्रोत्र॑य्ँ य॒ज्ञेन॑ कल्पताम् ।  
 मनो॑ य॒ज्ञेन॑ कल्पताम्  ।  
 वाग् य॒ज्ञेन॑ कल्पताम्  ।  
@@ -183,7 +183,7 @@ May life accord with the sacrifice, may expiration accord with the sacrifice, ma
 प्रा॒णो य॒ज्ञेन॑ कल्पताम् ।  
 अ॒पा॒नो [38] य॒ज्ञेन॑ कल्पताम् ।  
 व्या॒नो य॒ज्ञेन॑ कल्पताम् ।  
-चख्षु॑र्य॒ज्ञेन॑ कल्पताम् ।  
+चक्षु॑र्य॒ज्ञेन॑ कल्पताम् ।  
 श्रोत्र॑य्ँय॒ज्ञेन॑ कल्पताम् ।  
 मनो॑ य॒ज्ञेन॑ कल्पताम्  ।  
 वाग्य॒ज्ञेन॑ कल्पताम्  ।  

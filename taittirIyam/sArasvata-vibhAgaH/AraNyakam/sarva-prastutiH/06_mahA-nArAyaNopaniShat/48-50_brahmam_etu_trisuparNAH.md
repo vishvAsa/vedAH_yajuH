@@ -898,7 +898,7 @@ Der Götter Beter und der Priester Führer, der Sänger Dichter und der Stier de
 <details open><summary><h5>01 हंसश् शुचिषद् ...{Loading}...</h5></summary>
 <details><summary>मूलम्</summary>
 
-ह॒ꣳ॒सश्शु॑चि॒षद्वसु॑रन्तरिख्ष॒सद्धोता॑ वेदि॒षदति॑थिर्दुरोण॒सत् ।  
+ह॒ꣳ॒सश्शु॑चि॒षद्वसु॑रन्तरिक्ष॒सद्धोता॑ वेदि॒षदति॑थिर्दुरोण॒सत् ।  
 नृ॒षद्व॑र॒सदृ॑त॒सद्व्यो॑म॒सद॒ब्जा गो॒जा ऋ॑त॒जा अ॑द्रि॒जा ऋ॒तम्बृ॒हत् ॥ [30]
 </details>
 <details><summary>Keith</summary>

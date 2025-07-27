@@ -60,7 +60,7 @@ _______
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-ऐ॒न्द्रᳶप्रा॒णो अङ्गे॑अङ्गे॒ नि दे॑ध्यदै॒न्द्रो॑ऽपा॒नो अङ्गे॑अङ्गे॒ वि बो॑भुव॒द्देव॑ त्वष्ट॒र्भूरि॑ ते॒ सꣳस॑मेतु॒ विषु॑रूपा॒ यत् सल॑ख्ष्माणो॒ भव॑थ देव॒त्रा यन्त॒मव॑से॒ सखा॒योऽनु॑ त्वा मा॒ता पि॒तरो॑ मदन्तु॒ 
+ऐ॒न्द्रᳶप्रा॒णो अङ्गे॑अङ्गे॒ नि दे॑ध्यदै॒न्द्रो॑ऽपा॒नो अङ्गे॑अङ्गे॒ वि बो॑भुव॒द्देव॑ त्वष्ट॒र्भूरि॑ ते॒ सꣳस॑मेतु॒ विषु॑रूपा॒ यत् सल॑क्ष्माणो॒ भव॑थ देव॒त्रा यन्त॒मव॑से॒ सखा॒योऽनु॑ त्वा मा॒ता पि॒तरो॑ मदन्तु॒ 
 </details>
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/10_vasAhomaH/02_aindrapH_prANo.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
@@ -108,7 +108,7 @@ ________
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/10_vasAhomaH/03_viShurUpA_yat.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-+++(शरीर-खण्डानि!)+++ विषु॑रूपा॒ यत् **सल॑ख्ष्माणो॒**+++(=सलक्षणा [हवीरूपेण])+++ **भव॑थ**,  
++++(शरीर-खण्डानि!)+++ विषु॑रूपा॒ यत् **सल॑क्ष्माणो॒**+++(=सलक्षणा [हवीरूपेण])+++ **भव॑थ**,  
 दे॒व॒त्रा+++(=देवस्थानं)+++ यन्त॒म्, अव॑से॒, +++(तस्य पशोः)+++ सखा॑यः   
 अनु॑ त्वा मा॒ता-पि॒तरो॑ **मदन्तु** ।
 </details>
@@ -123,7 +123,7 @@ And thy father and mother rejoice.
 </details>
 <details><summary>मूलम्</summary>
 
-विषु॑रूपा॒ यत् सल॑ख्ष्माणो॒ भव॑थ   
+विषु॑रूपा॒ यत् सल॑क्ष्माणो॒ भव॑थ   
 दे॒व॒त्रा यन्त॒मव॑से॒ सखा॑यः  
 अनु॑त्वा मा॒तापि॒तरो॑ मदन्तु ।
 </details>
@@ -289,8 +289,8 @@ drink fat, ye drinkers of fat.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒न्तरि॑ख्षस्य ह॒विर् अ॑सि॒ स्वाहा॑ ।  
-त्वा॒ऽन्तरि॑ख्षाय +++(अर्पयामि)+++।
+अ॒न्तरि॑क्षस्य ह॒विर् अ॑सि॒ स्वाहा॑ ।  
+त्वा॒ऽन्तरि॑क्षाय +++(अर्पयामि)+++।
 </details>
 <details><summary>Keith</summary>
 
@@ -299,14 +299,14 @@ Hail! thee to the atmosphere!
 </details>
 <details><summary>मूलम्</summary>
 
-अ॒न्तरि॑ख्षस्य ह॒विर॑सि॒ स्वाहा॑ ।  
-त्वा॒ऽन्तरि॑ख्षाय ।
+अ॒न्तरि॑क्षस्य ह॒विर॑सि॒ स्वाहा॑ ।  
+त्वा॒ऽन्तरि॑क्षाय ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-अ॒न्तरि॑ख्षस्य । ह॒विः । अ॒सि॒ । स्वाहा॑ ।   
-त्वा॒ । अ॒न्तरि॑ख्षाय ।  
+अ॒न्तरि॑क्षस्य । ह॒विः । अ॒सि॒ । स्वाहा॑ ।   
+त्वा॒ । अ॒न्तरि॑क्षाय ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

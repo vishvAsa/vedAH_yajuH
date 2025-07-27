@@ -304,14 +304,14 @@ _______
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-एमा अ॑ग्मन्ना॒शिषो॒ दोह॑कामा॒ इन्द्र॑वन्तः [12]व॒ना॒म॒हे॒ धु॒ख्षी॒महि॑ प्र॒जामिष॑म् ॥ 
+एमा अ॑ग्मन्ना॒शिषो॒ दोह॑कामा॒ इन्द्र॑वन्तः [12]व॒ना॒म॒हे॒ धु॒क्षी॒महि॑ प्र॒जामिष॑म् ॥ 
 </details>
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/04_anuyAjAnumantraNAdi/06_AimA_agmann.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 आ+इ॒मा अ॑ग्मन्न् आ॒शिषो॒  
 दोह॑-कामा इन्द्र॑वन्तो  वनामहे ।    
-धु॒ख्षी॒महि॑ प्र॒जाम् इष॑म्  ॥
+धु॒क्षी॒महि॑ प्र॒जाम् इष॑म्  ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/04_anuyAjAnumantraNAdi/06_AimA_agmann.md">
@@ -326,7 +326,7 @@ May we milk offspring and food.
 
 एमा अ॑ग्मन्ना॒शिषो॒ दोह॑कामा    
 इन्द्र॑वन्तो  व॒ना॒म॒हे ।    
-धु॒ख्षी॒महि॑ प्र॒जामिष॑म्  ॥
+धु॒क्षी॒महि॑ प्र॒जामिष॑म्  ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

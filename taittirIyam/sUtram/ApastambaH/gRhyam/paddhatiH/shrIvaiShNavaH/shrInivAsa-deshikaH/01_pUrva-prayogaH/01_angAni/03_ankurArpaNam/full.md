@@ -324,7 +324,7 @@ If ye shall gain this man.
 
 यद् अ॒हव्ँ **वा॒जय॑न्न्** इ॒मा  
 ओष॑धी॒र् हस्त॑ **आद॒धे** ।  
-आ॒त्मा यख्ष्म॑स्य **नश्यति**  
+आ॒त्मा यक्ष्म॑स्य **नश्यति**  
 पु॒रा जी॑व॒-गृभो॑ यथा ।
 </details>
 </div>
@@ -340,7 +340,7 @@ As before one that taketh alive.
 <details><summary>मूलम्</summary>
 
 यद॒हव्ँवा॒जय॑न्नि॒मा ओष॑धी॒र्हस्त॑ आद॒धे ।  
-आ॒त्मा यख्ष्म॑स्य नश्यति पु॒रा जी॑व॒गृभो॑ यथा ।
+आ॒त्मा यक्ष्म॑स्य नश्यति पु॒रा जी॑व॒गृभो॑ यथा ।
 </details>
 <details><summary>सायण-टीका</summary>
 
@@ -356,7 +356,7 @@ As before one that taketh alive.
 यद् ओष॑धयस् **स॒ङ्गच्छ॑न्ते॒**  
 राजा॑न॒स् समि॑ताव् इव ।  
 विप्र॒स् स **उ॑च्यते** भि॒षग्  
-र॑ख्षो॒-हा ऽमी॑व॒-चात॑नः ।
+र॑क्षो॒-हा ऽमी॑व॒-चात॑नः ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/08_yad_oShadhayas.md">
@@ -373,7 +373,7 @@ Slayer of Raksases, overpowerer of diseases.
 <details><summary>मूलम्</summary>
 
 यदोष॑धयस्स॒ङ्गच्छ॑न्ते॒ राजा॑न॒स्समि॑ताविव ।  
-विप्र॒स्स उ॑च्यते भि॒षग्र॑ख्षो॒हामी॑व॒चात॑नः ।  
+विप्र॒स्स उ॑च्यते भि॒षग्र॑क्षो॒हामी॑व॒चात॑नः ।  
 </details>
 <details><summary>सायण-टीका</summary>
 
@@ -500,7 +500,7 @@ Every defilement in the body.
 
 यास्  त॑ **आत॒स्थुर्** आ॒त्मान॒य्ँ  
 या **आ॑विवि॒शुᳶ** परुᳶ॑+++(=पर्व)+++-परुः ।  
-तास् ते॒ यख्ष्म॒व्ँ **वि बा॑धन्ताम्**  
+तास् ते॒ यक्ष्म॒व्ँ **वि बा॑धन्ताम्**  
 उ॒ग्रो म॑ध्यम॒-शीर्+++(←शयने)+++ इ॑व ।
 </details>
 </div>
@@ -515,7 +515,7 @@ Like a dread intercessor.
 <details><summary>मूलम्</summary>
 
 याः [26]  त॒ आ॒त॒स्थुरा॒त्मान॒य्ँया आ॑विवि॒शुᳶ परुᳶ॑परुः ।  
-तास्ते॒ यख्ष्म॒व्ँवि बा॑धन्तामु॒ग्रो म॑ध्यम॒शीरि॑व ।
+तास्ते॒ यक्ष्म॒व्ँवि बा॑धन्तामु॒ग्रो म॑ध्यम॒शीरि॑व ।
 </details>
 <details><summary>सायण-टीका</summary>
 
@@ -526,7 +526,7 @@ Like a dread intercessor.
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/14_sAkay.N_yakhShma.md">
 <details open><summary><h11>विश्वास-प्रस्तुतिः ...{Loading}...</h11></summary>
 
-सा॒कय्ँ य॑ख्ष्म॒ **प्र प॑त**  
+सा॒कय्ँ य॑क्ष्म॒ **प्र प॑त**  
 श्ये॒नेन॑, किकिदी॒विना॑+++(=blue jay)+++ ।  
 सा॒कव्ँ वात॑स्य॒ ध्राज्या॑+++(=डयनेन)+++,  
 सा॒कन् **न॑श्य** नि॒हाक॑या+++(=चण्डमारुतेन)+++ ।
@@ -543,7 +543,7 @@ With the whirlwind do thou disappear.
 </details>
 <details><summary>मूलम्</summary>
 
-सा॒कय्ँय॑ख्ष्म॒ प्र प॑त श्ये॒नेन॑ किकिदी॒विना॑ ।  
+सा॒कय्ँय॑क्ष्म॒ प्र प॑त श्ये॒नेन॑ किकिदी॒विना॑ ।  
 सा॒कव्ँवात॑स्य॒ ध्राज्या॑ सा॒कन्न॑श्य नि॒हाक॑या ।
 </details>
 <details><summary>सायण-टीका</summary>
@@ -803,7 +803,7 @@ We, O king, bring to safety.'
 <details open><summary><h7>17 पिता विराजाम्, ...{Loading}...</h7></summary>
 
 पि॒ता वि॒राजा॑म्, ऋष॒भो र॑यी॒णाम् ।  
-अ॒न्तरि॑ख्षव्ँ वि॒श्व-रू॑प॒ **आवि॑वेश** ।  
+अ॒न्तरि॑क्षव्ँ वि॒श्व-रू॑प॒ **आवि॑वेश** ।  
 तम् अ॒र्कैर् **अ॒भ्य॑र्चन्ति** व॒थ्सम् ।  
 ब्रह्म॒ सन्त॒म् ब्रह्म॑णा **व॒र्धय॑न्तः** ।
 </details>

@@ -200,7 +200,7 @@ do ye instigate him, descendant of N. N., to freedom from foes,
 </details>
 <details><summary>मूलम्</summary>
 
-ये दे॑वा देव॒सुव॒स्स्थ त इ॒ममा॑मुष्याय॒णम॑नमि॒त्राय॑ सुवध्वम्मह॒ते ख्ष॒त्त्राय॑
+ये दे॑वा देव॒सुव॒स्स्थ त इ॒ममा॑मुष्याय॒णम॑नमि॒त्राय॑ सुवध्वम्मह॒ते क्ष॒त्त्राय॑
 मह॒त आधि॑पत्याय मह॒ते जान॑राज्यायै 
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -208,10 +208,10 @@ do ye instigate him, descendant of N. N., to freedom from foes,
 हे देवा अग्न्यादयो वरुणान्ताः ये यूयं देवसुवस्स्थ देवस्य दानादिगुणयुक्तस्य यजमानस्य सवितारः प्रेरकास्स्थ ते यूयं यस्मादेवं प्रसवादीनामनुज्ञातारः तस्मादिममामुष्यायणं सिंहवर्मणः पुत्रं नन्दिवर्माणम् अनमित्रायानमित्रत्वाय अविद्यमानशत्रुत्वाय सुवध्वम् । अनुजानीत अशत्रुमेनं कुरुतेत्यर्थः । इममामुष्यायणमिति सर्वनामद्वयं विशेषार्थमुपादीयते । अमुष्यशब्दान्नडादित्वात्फक् ।
 </details>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/10_devasU-havirAdi/mahate_xatrAya.md">
-<details open><summary><h5>म॒ह॒ते ख्ष॒त्त्राय॑ ...{Loading}...</h5></summary>
+<details open><summary><h5>म॒ह॒ते क्ष॒त्त्राय॑ ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
 
-… म॒ह॒ते ख्ष॒त्त्राय॑
+… म॒ह॒ते क्ष॒त्त्राय॑
 मह॒त आधि॑पत्याय  
 मह॒ते जान॑राज्यायै
 </details>
@@ -222,7 +222,7 @@ to great lordship, to great overlordship, to great rule over the people.
 </details>
 <details><summary>मूलम्</summary>
 
-म॒ह॒ते ख्ष॒त्राय॑ मह॒त आधि॑पत्याय मह॒ते जान॑राज्याय॥
+म॒ह॒ते क्ष॒त्राय॑ मह॒त आधि॑पत्याय मह॒ते जान॑राज्याय॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

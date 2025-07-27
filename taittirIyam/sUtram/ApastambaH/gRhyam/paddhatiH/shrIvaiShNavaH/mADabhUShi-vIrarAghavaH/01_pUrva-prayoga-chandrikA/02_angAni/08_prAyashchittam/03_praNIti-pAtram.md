@@ -23,11 +23,11 @@ title = "०३ प्रणीति-पात्रम्"
 <details open><summary><h5>अक्षितोऽसि ...{Loading}...</h5></summary>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-अख्षि॑तो॒ऽस्यख्षि॑त्यै त्वा॒ मा मे॑ ख्षेष्ठा अ॒मुत्रा॒मुष्मि॑न्लो॒के  ॥
+अक्षि॑तो॒ऽस्यक्षि॑त्यै त्वा॒ मा मे॑ क्षेष्ठा अ॒मुत्रा॒मुष्मि॑न्लो॒के  ॥
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अख्षि॑तो॒ऽसि ।
+अक्षि॑तो॒ऽसि ।
 </details>
 <details><summary>Keith</summary>
 
@@ -35,7 +35,7 @@ Thou art imperishable,
 </details>
 <details><summary>मूलम्</summary>
 
-अख्षि॑तो॒ऽसि ।
+अक्षि॑तो॒ऽसि ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -43,7 +43,7 @@ Thou art imperishable,
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अख्षि॑त्यै त्वा +++(ददामि)+++।
+अक्षि॑त्यै त्वा +++(ददामि)+++।
 </details>
 <details><summary>Keith</summary>
 
@@ -51,7 +51,7 @@ for imperishableness thee;
 </details>
 <details><summary>मूलम्</summary>
 
-अख्षि॑त्यै त्वा ।
+अक्षि॑त्यै त्वा ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -59,7 +59,7 @@ for imperishableness thee;
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मा मे॑ ख्षेष्ठा अ॒मुत्रा॒मुष्मि॑न् लो॒के  ॥  [10]
+मा मे॑ क्षेष्ठा अ॒मुत्रा॒मुष्मि॑न् लो॒के  ॥  [10]
 </details>
 <details><summary>Keith</summary>
 
@@ -67,7 +67,7 @@ mayst thou not perish for me, yonder, in yonder world.
 </details>
 <details><summary>मूलम्</summary>
 
-मा मे॑ ख्षेष्ठा अ॒मुत्रा॒मुष्मि॑न्लो॒के  ॥  [10]
+मा मे॑ क्षेष्ठा अ॒मुत्रा॒मुष्मि॑न्लो॒के  ॥  [10]
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

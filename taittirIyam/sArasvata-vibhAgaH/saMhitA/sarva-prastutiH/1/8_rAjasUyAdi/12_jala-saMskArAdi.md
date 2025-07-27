@@ -17,7 +17,7 @@ title = "१२ जलसंस्कारादि"
 
 देवी॑र् आप॒स् सम्मधु॑मती॒र्  
 मधु॑मतीभिस् **सृज्यध्वम्** ।
-महि॒ वर्चः॑ ख्ष॒त्रिया॑य **वन्वा॒नाः**+++(=याचमानाः)+++।
+महि॒ वर्चः॑ क्ष॒त्रिया॑य **वन्वा॒नाः**+++(=याचमानाः)+++।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/12_jala-saMskArAdi/02_devIr_Apas.md">
@@ -31,7 +31,7 @@ Winning great radiance for the Ksatriya.
 <details><summary>मूलम्</summary>
 
 देवी॑राप॒स्सम्मधु॑मती॒र्मधु॑मतीभिस्सृज्यध्वम् ।  
-महि॒ वर्चः॑ ख्ष॒त्रिया॑य वन्वा॒नाः।
+महि॒ वर्चः॑ क्ष॒त्रिया॑य वन्वा॒नाः।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -49,7 +49,7 @@ Winning great radiance for the Ksatriya.
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अना॑धृष्टास् सीद॒तोर्ज॑स्वती॒र्  
-महि॒ वर्चः॑ ख्ष॒त्रिया॑य॒ दध॑तीः ।
+महि॒ वर्चः॑ क्ष॒त्रिया॑य॒ दध॑तीः ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/12_jala-saMskArAdi/03_anAdhRShTAs_sIdatorjasvatIr.md">
@@ -61,7 +61,7 @@ Bestowing great radiance upon the Ksatriya.
 </details>
 <details><summary>मूलम्</summary>
 
-अना॑धृष्टास्सीद॒तोर्ज॑स्वती॒र्महि॒ वर्चः॑ ख्ष॒त्रिया॑य॒ दध॑तीः ।
+अना॑धृष्टास्सीद॒तोर्ज॑स्वती॒र्महि॒ वर्चः॑ क्ष॒त्रिया॑य॒ दध॑तीः ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -193,7 +193,7 @@ The child [1] of the waters in those most motherly.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ख्ष॒त्त्रस्योल्ब॑म्+++(=गर्भकोशः)+++ असि ।
+क्ष॒त्त्रस्योल्ब॑म्+++(=गर्भकोशः)+++ असि ।
 </details>
 <details><summary>Keith</summary>
 
@@ -201,7 +201,7 @@ Thou art the caul of kingly power,
 </details>
 <details><summary>मूलम्</summary>
 
-ख्ष॒त्त्रस्योल्ब॑मसि ।
+क्ष॒त्त्रस्योल्ब॑मसि ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -213,7 +213,7 @@ Thou art the caul of kingly power,
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ख्ष॒त्रस्य॒ योनि॑र् अ॒सि ।
+क्ष॒त्रस्य॒ योनि॑र् अ॒सि ।
 </details>
 <details><summary>Keith</summary>
 
@@ -221,7 +221,7 @@ thou art the womb of kingly power.
 </details>
 <details><summary>मूलम्</summary>
 
-ख्ष॒त्रस्य॒ योनि॑र॒सि ।
+क्ष॒त्रस्य॒ योनि॑र॒सि ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -350,10 +350,10 @@ notified is he, N. N., descendant of N. N., in this folk, this kingdom, for grea
 महते क्षत्रायेति व्याख्यातम् ॥    
 </details>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/10_devasU-havirAdi/mahate_xatrAya.md">
-<details open><summary><h5>म॒ह॒ते ख्ष॒त्त्राय॑ ...{Loading}...</h5></summary>
+<details open><summary><h5>म॒ह॒ते क्ष॒त्त्राय॑ ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
 
-… म॒ह॒ते ख्ष॒त्त्राय॑
+… म॒ह॒ते क्ष॒त्त्राय॑
 मह॒त आधि॑पत्याय  
 मह॒ते जान॑राज्यायै
 </details>
@@ -364,7 +364,7 @@ to great lordship, to great overlordship, to great rule over the people.
 </details>
 <details><summary>मूलम्</summary>
 
-म॒ह॒ते ख्ष॒त्राय॑ मह॒त आधि॑पत्याय मह॒ते जान॑राज्याय॥
+म॒ह॒ते क्ष॒त्राय॑ मह॒त आधि॑पत्याय मह॒ते जान॑राज्याय॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -536,7 +536,7 @@ Protect me in front, protect me at the side, protect me from behind; from the qu
 हिर॑ण्य-वर्णाव् उ॒षसा॑व्ँ विरो॒के+++(←रुच्)+++  
 ऽय॑स्-स्थूणा॒व् **उदि॑तौ॒** सूर्य॒स्य ।   
 **आरो॑हतव्ँ** वरुण मित्र॒ +++(रथ/ख-)+++गर्त॒न्  
-तत॑श् **चख्षाथा॒म्**+++(←चक्ष् वीक्षणे)+++ अदि॑ति॒न् दिति॑ञ् च ॥ [23]
+तत॑श् **चक्षाथा॒म्**+++(←चक्ष् वीक्षणे)+++ अदि॑ति॒न् दिति॑ञ् च ॥ [23]
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/12_jala-saMskArAdi/06_hiraNyavarNAv_uShasAv.N.md">
@@ -551,7 +551,7 @@ And thence behold ye Aditi and Diti.
 <details><summary>मूलम्</summary>
 
 हिर॑ण्यवर्णावु॒षसा॑व्ँविरो॒केऽय॑स्स्थूणा॒वुदि॑तौ॒ सूर्य॒स्य ।   
-आरो॑हतव्ँवरुण मित्र॒ गर्त॒न्तत॑श्चख्षाथा॒मदि॑ति॒न्दिति॑ञ्च ॥ [23]
+आरो॑हतव्ँवरुण मित्र॒ गर्त॒न्तत॑श्चक्षाथा॒मदि॑ति॒न्दिति॑ञ्च ॥ [23]
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

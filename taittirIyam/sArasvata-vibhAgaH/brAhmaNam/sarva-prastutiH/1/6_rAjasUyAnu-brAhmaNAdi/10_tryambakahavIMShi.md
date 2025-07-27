@@ -394,13 +394,13 @@ unicode_script: devanagari
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "त्र्य॑म्बकय्ँ यजामह॒" इत्य् आ॑ह ।    
-"मृ॒त्योर्मु॑ख्षीय॒ माऽमृता॒दि"ति॒ वावैतदा॑ह ।  
+"मृ॒त्योर्मु॑क्षीय॒ माऽमृता॒दि"ति॒ वावैतदा॑ह ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
 "त्र्य॑म्बकय्ँ यजामह॒" इत्य् आ॑ह ।    
-"मृ॒त्योर्मु॑ख्षीय॒ माऽमृता॒दि"ति॒ वावैतदा॑ह ।  
+"मृ॒त्योर्मु॑क्षीय॒ माऽमृता॒दि"ति॒ वावैतदा॑ह ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -425,12 +425,12 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भग॑स्य लीफ्सन्ते ।   
+भग॑स्य लीप्सन्ते ।   
 </details>
 
 <details><summary>मूलम्</summary>
 
-भग॑स्य लीफ्सन्ते ।   
+भग॑स्य लीप्सन्ते ।   
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -492,12 +492,12 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अप्र॑तीख्ष॒माय॑न्ति ।    
+अप्र॑तीक्ष॒माय॑न्ति ।    
 </details>
 
 <details><summary>मूलम्</summary>
 
-अप्र॑तीख्ष॒माय॑न्ति ।    
+अप्र॑तीक्ष॒माय॑न्ति ।    
 </details>
 
 

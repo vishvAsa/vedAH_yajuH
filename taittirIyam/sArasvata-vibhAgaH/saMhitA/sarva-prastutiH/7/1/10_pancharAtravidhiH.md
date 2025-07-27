@@ -128,7 +128,7 @@ verily he stands firm in the year with its five seasons.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथो॒ पञ्चा॑ख्षरा प॒ङ्क्तिः ।
+अथो॒ पञ्चा॑क्षरा प॒ङ्क्तिः ।
 पाङ्क्तो॑ य॒ज्ञो, य॒ज्ञम् ए॒वाव॑ रुन्धे ।
 
 </details>

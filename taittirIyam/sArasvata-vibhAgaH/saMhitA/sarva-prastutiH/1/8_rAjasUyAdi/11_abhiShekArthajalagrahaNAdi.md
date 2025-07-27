@@ -585,7 +585,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व्रज॒-ख्षित॑स्+++(=आश्रयाः)+++ स्थ।      
+व्रज॒-क्षित॑स्+++(=आश्रयाः)+++ स्थ।      
 </details>
 <details><summary>Keith</summary>
 
@@ -593,7 +593,7 @@ ye are the pen-dwellers,
 </details>
 <details><summary>मूलम्</summary>
 
-व्रज॒ख्षित॑स्स्थ।      
+व्रज॒क्षित॑स्स्थ।      
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -665,7 +665,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </div>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[व्रज॒ख्षित॑स् स्थ।]
+[व्रज॒क्षित॑स् स्थ।]
 </details>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 <details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>

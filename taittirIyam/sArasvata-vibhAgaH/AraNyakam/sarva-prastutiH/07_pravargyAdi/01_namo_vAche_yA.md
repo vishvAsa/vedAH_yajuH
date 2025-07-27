@@ -113,7 +113,7 @@ title = "०१ नमो॑ वा॒चे"
 
 मधु॑ **मनिष्ये** ।  
 मधु॑ **जनिष्ये** ।  
-मधु॑ **वख्ष्यामि** ।  
+मधु॑ **वक्ष्यामि** ।  
 मधु॑ **वदिष्यामि** ।
 </details>
 <details><summary>Keith</summary>
@@ -124,7 +124,7 @@ Of honey shall I think, honey shall I produce, honey shall I proclaim, honey sha
 
 मधु॑ मनिष्ये ।  
 मधु॑ जनिष्ये ।  
-मधु॑ वख्ष्यामि ।  
+मधु॑ वक्ष्यामि ।  
 मधु॑ वदिष्यामि ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>

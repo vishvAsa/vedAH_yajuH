@@ -38,7 +38,7 @@ unicode_script = "devanagari"
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/02_chitrannakhShatramudagAtpurastAt.md">
-<details open><summary><h2>02 चित्रन्नख्षत्रमुदगात्पुरस्तात् ...{Loading}...</h2></summary>
+<details open><summary><h2>02 चित्रन्नक्षत्रमुदगात्पुरस्तात् ...{Loading}...</h2></summary>
 
 
 चि॒त्रम् नक्ष॑त्र॒म् **उद॑गात्** पु॒रस्ता॑त्।  
@@ -49,13 +49,13 @@ unicode_script = "devanagari"
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/02_chitrannakhShatramudagAtpurastAt.md">
-<details open><summary><h2>02 चित्रन्नख्षत्रमुदगात्पुरस्तात् ...{Loading}...</h2></summary>
+<details open><summary><h2>02 चित्रन्नक्षत्रमुदगात्पुरस्तात् ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
-चि॒त्रन्नख्ष॑त्र॒मुद॑गात्पु॒रस्ता॑त् ।  
+चि॒त्रन्नक्ष॑त्र॒मुद॑गात्पु॒रस्ता॑त् ।  
 अ॒नू॒रा॒धास॒ इति॒ यद्वद॑न्ति ।  
 तन्मि॒त्र ए॑ति प॒थिभि॑र्देव॒यानैः॑ ।  
-हि॒र॒ण्ययै॒र्वित॑तैर॒न्तरि॑ख्षे ।  
+हि॒र॒ण्ययै॒र्वित॑तैर॒न्तरि॑क्षे ।  
 
 
 
@@ -109,10 +109,10 @@ unicode_script = "devanagari"
 <details open><summary><h2>03 इन्द्रो ज्येष्ठामनु ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
-इन्द्रो॑ ज्ये॒ष्ठामनु॒ नख्ष॑त्रमेति ।   
+इन्द्रो॑ ज्ये॒ष्ठामनु॒ नक्ष॑त्रमेति ।   
 यस्मि॑न्वृ॒त्रव्ँ वृ॑त्र॒तूर्ये॑ त॒तार॑ ॥13॥  
 तस्मि॑न्व॒यम॒मृत॒न्दुहा॑नाः ।  
-ख्षुध॑न्तरेम॒ दुरि॑ति॒न्दुरि॑ष्टिम् ।  
+क्षुध॑न्तरेम॒ दुरि॑ति॒न्दुरि॑ष्टिम् ।  
 
 
 
@@ -203,7 +203,7 @@ unicode_script = "devanagari"
 
 मूल॑म्प्र॒जाव्ँ वी॒रव॑तीव्ँ विदेय ।  
 परा॑च्येतु॒ निर्ऋ॑तिᳶ परा॒चा ।  
-गोभि॒र्नख्ष॑त्रम्प॒शुभि॒स्सम॑क्तम् ।  
+गोभि॒र्नक्ष॑त्रम्प॒शुभि॒स्सम॑क्तम् ।  
 अह॑र्भूया॒द्यज॑मानाय॒ मह्य॑म् ॥14॥  
 
 
@@ -232,7 +232,7 @@ unicode_script = "devanagari"
 <details><summary>मूलम्</summary>
 
 अह॑र्नो अ॒द्य सु॑वि॒ते द॑धातु ।   
-मूल॒न्नख्ष॑त्र॒मिति॒ यद्वद॑न्ति ।  
+मूल॒न्नक्ष॑त्र॒मिति॒ यद्वद॑न्ति ।  
 परा॑चीव्ँ वा॒चा निर्ऋ॑तिन्नुदामि ।  
 शि॒वम्प्र॒जायै॑ शि॒वम॑स्तु॒ मह्य॑म् ।  
 
@@ -294,7 +294,7 @@ unicode_script = "devanagari"
 <details><summary>मूलम्</summary>
 
 या दि॒व्या आप॒ᳶ पय॑सा सम्बभू॒वुः ।   
-या अ॒न्तरि॑ख्ष उ॒त पार्थि॑वी॒र्याः ।  
+या अ॒न्तरि॑क्ष उ॒त पार्थि॑वी॒र्याः ।  
 यासा॑मषा॒ढा अ॑नु॒यन्ति॒ काम॑म् ।   
 ता न॒ आप॒श्शꣵ स्यो॒ना भ॑वन्तु ।  
 
@@ -326,7 +326,7 @@ unicode_script = "devanagari"
 
 याश्च॒ कूप्या॒ याश्च॑ ना॒द्या॑स्समु॒द्रियाः॑ ।   
 याश्च॑ वैश॒न्तीरु॒त प्रा॑स॒चीर्याः ॥15॥   
-यासा॑मषा॒ढा मधु॑ भ॒ख्षय॑न्ति॒ ।  
+यासा॑मषा॒ढा मधु॑ भ॒क्षय॑न्ति॒ ।  
 ता न॒ आप॒श्शꣵ स्यो॒ना भ॑वन्तु ।
 
 
@@ -390,7 +390,7 @@ unicode_script = "devanagari"
 
 तन्नो॒ विश्वे॒ उप॑शृण्वन्तु दे॒वाः ।  
 तद॑षा॒ढा अ॒भिसय्ँय॑न्तु य॒ज्ञम् ।  
-तन्नख्ष॑त्त्रम्प्रथताम्प॒शुभ्यः॑ ।   
+तन्नक्ष॑त्त्रम्प्रथताम्प॒शुभ्यः॑ ।   
 कृ॒षिर्वृ॒ष्टिर्यज॑मानाय कल्पताम् ।
 
 
@@ -476,7 +476,7 @@ unicode_script = "devanagari"
 
 यस्मि॒न्ब्रह्मा॒ऽभ्यज॑य॒थ्सर्व॑मे॒तत् ।   
 अ॒मुञ्च॑ लो॒कमि॒दमू॑ च॒ सर्व॑म् ।  
-तन्नो॒ नख्ष॑त्रमभि॒जिद्वि॒जित्य॑ ।  
+तन्नो॒ नक्ष॑त्रमभि॒जिद्वि॒जित्य॑ ।  
 श्रिय॑न्दधा॒त्वहृ॑णीयमानम् ।  
 
 
@@ -506,7 +506,7 @@ unicode_script = "devanagari"
 <details><summary>मूलम्</summary>
 
 उ॒भौ लो॒कौ ब्रह्म॑णा॒ सञ्जि॑ते॒मौ ।  
-तन्नो॒ नख्ष॑त्रमभि॒जिद्विच॑ष्टाम् ।  
+तन्नो॒ नक्ष॑त्रमभि॒जिद्विच॑ष्टाम् ।  
 तस्मि॑न्व॒यम्पृत॑ना॒स्सञ्ज॑येम ।  
 तन्नो॑ दे॒वासो॒ अनु॑जानन्तु॒ काम॑म् ।
 </details>
@@ -598,7 +598,7 @@ unicode_script = "devanagari"
 <details><summary>मूलम्</summary>
 
 त्रे॒धा विष्णु॑रुरुगा॒यो विच॑क्रमे ।   
-म॒हीन्दिव॑म्पृथि॒वीम॒न्तरि॑ख्षम् ।  
+म॒हीन्दिव॑म्पृथि॒वीम॒न्तरि॑क्षम् ।  
 तच्छ्रो॒णैति॒ श्रव॑ इ॒च्छमा॑ना ।  
 पुण्य॒ꣵ॒ श्लोक॒य्ँयज॑मानाय कृण्व॒ती ।
 
@@ -689,8 +689,8 @@ unicode_script = "devanagari"
 <details><summary>मूलम्</summary>
 
 य॒ज्ञन्न॑ᳶ पान्तु॒ वस॑वᳶ पु॒रस्ता॑त् ।  
-द॒ख्षि॒ण॒तो॑ऽभिय॑न्तु॒ श्रवि॑ष्ठाः ।   
-पुण्य॒न्नख्ष॑त्रम॒भिसव्ँ वि॑शाम ।  
+द॒क्षि॒ण॒तो॑ऽभिय॑न्तु॒ श्रवि॑ष्ठाः ।   
+पुण्य॒न्नक्ष॑त्रम॒भिसव्ँ वि॑शाम ।  
 मा नो॒ अरा॑तिर॒घश॒ꣳ॒साऽग॑न् ।  
 
 
@@ -735,7 +735,7 @@ unicode_script = "devanagari"
 ## शतभिषग् - वरुणः
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/17_khShatrasya_rAjA.md">
-<details open><summary><h2>17 ख्षत्रस्य राजा ...{Loading}...</h2></summary>
+<details open><summary><h2>17 क्षत्रस्य राजा ...{Loading}...</h2></summary>
 
 
 क्ष॒त्रस्य॒ राजा॒ वरु॑णो ऽधिरा॒जः।  
@@ -746,11 +746,11 @@ unicode_script = "devanagari"
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/17_khShatrasya_rAjA.md">
-<details open><summary><h2>17 ख्षत्रस्य राजा ...{Loading}...</h2></summary>
+<details open><summary><h2>17 क्षत्रस्य राजा ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
-ख्ष॒त्रस्य॒ राजा॒ वरु॑णोऽधिरा॒जः ।  
-नख्ष॑त्राणाꣳ श॒तभि॑ष॒ग्वसि॑ष्ठः ।  
+क्ष॒त्रस्य॒ राजा॒ वरु॑णोऽधिरा॒जः ।  
+नक्ष॑त्राणाꣳ श॒तभि॑ष॒ग्वसि॑ष्ठः ।  
 तौ दे॒वेभ्य॑ᳵ कृणुतो दी॒र्घमायुः॑ ।   
 श॒तꣳ स॒हस्रा॑ भेष॒जानि॑ धत्तः ।   
 
@@ -782,7 +782,7 @@ unicode_script = "devanagari"
 
 य॒ज्ञन्नो॒ राजा॒ वरु॑ण॒ उप॑यातु ।   
 तन्नो॒ विश्वे॑ अ॒भिसय्ँय॑न्तु दे॒वाः ॥19॥  
-तन्नो॒ नख्ष॑त्रꣳ श॒तभि॑षग्जुषा॒णम् ।   
+तन्नो॒ नक्ष॑त्रꣳ श॒तभि॑षग्जुषा॒णम् ।   
 दी॒र्घमायु॒ᳶ प्रति॑रद्भेष॒जानि॑ ।    
 
 
@@ -874,7 +874,7 @@ unicode_script = "devanagari"
 <details><summary>मूलम्</summary>
 
 वि॒भ्राज॑मानस्समिधा॒न उ॒ग्रः ।   
-आऽन्तरि॑ख्षमरुह॒दग॒न्द्याम् ।  
+आऽन्तरि॑क्षमरुह॒दग॒न्द्याम् ।  
 तꣳ सूर्य॑न्दे॒वम॒जमेक॑पादम् ।  
 प्रो॒ष्ठ॒प॒दासो॒ अनु॑यन्ति॒ सर्वे॑ ॥20॥  
 
@@ -938,7 +938,7 @@ unicode_script = "devanagari"
 अहि॑र्बु॒ध्निय॒ᳶ प्रथ॑मान एति ।  
 श्रेष्ठो॑ दे॒वाना॑मु॒त मानु॑षाणाम् ।  
 तम्ब्रा॑ह्म॒णास्सो॑म॒पास्सो॒म्यासः॑ ।    
-प्रो॒ष्ठ॒प॒दासो॑ अ॒भिर॑ख्षन्ति॒ सर्वे॑ ।
+प्रो॒ष्ठ॒प॒दासो॑ अ॒भिर॑क्षन्ति॒ सर्वे॑ ।
 
 
 </details>
@@ -968,7 +968,7 @@ unicode_script = "devanagari"
 च॒त्वार॒ एक॑म॒भिकर्म॑ दे॒वाः ।   
 प्रो॒ष्ठ॒प॒दास॒ इति॒ यान् वद॑न्ति ।  
 ते बु॒ध्निय॑म्परि॒षद्यꣵ॑ स्तु॒वन्तः॑ ।  
-अहिꣳ॑ रख्षन्ति॒ नम॑सोप॒सद्य॑ ।
+अहिꣳ॑ रक्षन्ति॒ नम॑सोप॒सद्य॑ ।
 
 
 
@@ -1048,7 +1048,7 @@ unicode_script = "devanagari"
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/24_khShudrAnpashUnrakhShatu.md">
-<details open><summary><h2>24 ख्षुद्रान्पशून्रख्षतु ...{Loading}...</h2></summary>
+<details open><summary><h2>24 क्षुद्रान्पशून्रक्षतु ...{Loading}...</h2></summary>
 
 
 क्षु॒द्रान् प॒शून् **र॑क्षतु** रे॒वती॑ नः।  
@@ -1059,12 +1059,12 @@ unicode_script = "devanagari"
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/24_khShudrAnpashUnrakhShatu.md">
-<details open><summary><h2>24 ख्षुद्रान्पशून्रख्षतु ...{Loading}...</h2></summary>
+<details open><summary><h2>24 क्षुद्रान्पशून्रक्षतु ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
-ख्षु॒द्रान्प॒शून्र॑ख्षतु रे॒वती॑ नः ।    
+क्षु॒द्रान्प॒शून्र॑क्षतु रे॒वती॑ नः ।    
 गावो॑ नो॒ अश्वा॒ꣳ॒ अन्वे॑तु पू॒षा ।  
-अन्न॒ꣳ॒ रख्ष॑न्तौ बहु॒धा विरू॑पम् ।  
+अन्न॒ꣳ॒ रक्ष॑न्तौ बहु॒धा विरू॑पम् ।  
 वाजꣳ॑ सनुता॒य्ँयज॑मानाय य॒ज्ञम् ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1124,7 +1124,7 @@ unicode_script = "devanagari"
 
 तद॒श्विना॑वश्व॒युजोप॑याताम् ।   
 शुभ॒ङ्गमि॑ष्ठौ सु॒यमे॑भि॒रश्वैः॑ ।  
-स्वन्नख्ष॑त्रꣳ ह॒विषा॒ यज॑न्तौ ।     
+स्वन्नक्ष॑त्रꣳ ह॒विषा॒ यज॑न्तौ ।     
 मध्वा॒ सम्पृ॑क्तौ॒ यजु॑षा॒ सम॑क्तौ ॥22॥  
 
 
@@ -1155,7 +1155,7 @@ unicode_script = "devanagari"
 
 यौ दे॒वाना॑म्भि॒षजौ॑ हव्यवा॒हौ ।  
 विश्व॑स्य दू॒ताव॒मृत॑स्य गो॒पौ ।  
-तौ नख्ष॑त्रञ्जुजुषा॒णोप॑याताम् ।  
+तौ नक्ष॑त्रञ्जुजुषा॒णोप॑याताम् ।  
 नमो॒ऽश्विभ्या॑ङ्कृणुमोऽश्व॒युग्भ्या॑म् ।
 
 
@@ -1228,7 +1228,7 @@ unicode_script = "devanagari"
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/28_yasminnakhShatre_yama.md">
-<details open><summary><h2>28 यस्मिन्नख्षत्रे यम ...{Loading}...</h2></summary>
+<details open><summary><h2>28 यस्मिन्नक्षत्रे यम ...{Loading}...</h2></summary>
 
 
 यस्मि॒न् नक्ष॑त्रे य॒म **एति॒** राजा॑।  
@@ -1239,10 +1239,10 @@ unicode_script = "devanagari"
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/28_yasminnakhShatre_yama.md">
-<details open><summary><h2>28 यस्मिन्नख्षत्रे यम ...{Loading}...</h2></summary>
+<details open><summary><h2>28 यस्मिन्नक्षत्रे यम ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
-यस्मि॒न्नख्ष॑त्रे य॒म एति॒ राजा॑ ।  
+यस्मि॒न्नक्ष॑त्रे य॒म एति॒ राजा॑ ।  
 यस्मि॑न्नेनम॒भ्यषि॑ञ्चन्त दे॒वाः ।  
 तद॑स्य चि॒त्रꣳ ह॒विषा॑ यजाम ।  
 अप॑ पा॒प्मान॒म्भर॑णीर्भरन्तु ।

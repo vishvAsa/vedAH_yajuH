@@ -304,7 +304,7 @@ now the Brahman sacrifices with an offering without a blessing;
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सामिधे॒नीर् अ॑नुव॒ख्ष्यन्न् ए॒ता व्याहृ॑तीᳶ पु॒रस्ता॑द् दध्यात् ।
+सामिधे॒नीर् अ॑नुव॒क्ष्यन्न् ए॒ता व्याहृ॑तीᳶ पु॒रस्ता॑द् दध्यात् ।
 </details>
 <details><summary>Keith</summary>
 
@@ -312,7 +312,7 @@ when he is about to recite the kindling-verses he should first insert the Vyahrt
 </details>
 <details><summary>मूलम्</summary>
 
-सामिधे॒नीर॑नुव॒ख्ष्यन्ने॒ता व्याहृ॑तीᳶ पु॒रस्ता॑द्दध्यात् ।
+सामिधे॒नीर॑नुव॒क्ष्यन्ने॒ता व्याहृ॑तीᳶ पु॒रस्ता॑द्दध्यात् ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -443,12 +443,12 @@ verily he confers upon himself mind and the sacrifice.
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-वाग॑स्यै॒न्द्री स॑पत्न॒ख्षय॑णी
+वाग॑स्यै॒न्द्री स॑पत्न॒क्षय॑णी
 वा॒चा मे॑न्द्रि॒येणाऽऽवि॒शेत्या॑है॒न्द्री वै वाग्वाच॑मे॒वैन्द्रीमा॒त्मन्ध॑त्ते ॥ [38] 
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"वाग॑स्य् ऐ॒न्द्री स॑पत्न॒-ख्षय॑णी,
+"वाग॑स्य् ऐ॒न्द्री स॑पत्न॒-क्षय॑णी,
 वा॒चा मे॑न्द्रि॒येणाऽऽवि॒शे"त्य् आ॑ह।  
 ऐ॒न्द्री वै वाग्, वाच॑म् ए॒वैन्द्रीम् आ॒त्मन् ध॑त्ते ॥ [38]
 </details>
@@ -459,7 +459,7 @@ verily he confers upon himself speech as connected with Indra.
 </details>
 <details><summary>मूलम्</summary>
 
-वाग॑स्यै॒न्द्री स॑पत्न॒ख्षय॑णी
+वाग॑स्यै॒न्द्री स॑पत्न॒क्षय॑णी
 वा॒चा मे॑न्द्रि॒येणाऽऽवि॒शेत्या॑है॒न्द्री वै वाग्वाच॑मे॒वैन्द्रीमा॒त्मन्ध॑त्ते ॥ [38]
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>

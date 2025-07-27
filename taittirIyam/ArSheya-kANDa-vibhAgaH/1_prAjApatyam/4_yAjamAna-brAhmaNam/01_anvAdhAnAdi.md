@@ -226,7 +226,7 @@ men [2] indeed desire what is bestrewed, and, how much more the gods whose is a 
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उपा॑स्मि॒ञ् छ्वो य॒ख्ष्यमा॑णे दे॒वता॑ वसन्ति॒,  
+उपा॑स्मि॒ञ् छ्वो य॒क्ष्यमा॑णे दे॒वता॑ वसन्ति॒,  
 य ए॒वव्ँ वि॒द्वान् अ॒ग्निम् उ॑पस्तृ॒णाति ।
 </details>
 <details><summary>Keith</summary>
@@ -235,7 +235,7 @@ With him, when sacrifice is to be made on the next day, do the gods dwell, who k
 </details>
 <details><summary>मूलम्</summary>
 
-उपा॑स्मि॒ञ् +++(तस्योपस्तीर्णे)+++ छ्वो य॒ख्ष्यमा॑णे दे॒वता॑ वसन्ति॒  
+उपा॑स्मि॒ञ् +++(तस्योपस्तीर्णे)+++ छ्वो य॒क्ष्यमा॑णे दे॒वता॑ वसन्ति॒  
 य ए॒वव्ँवि॒द्वान॒ग्निमु॑पस्तृ॒णाति ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -296,7 +296,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् अना॑श्वान् उप॒वसे॒त् - ख्षोधु॑कस्+++(=बुभुक्षाशीलः)+++ स्यात्   ।   
+यद् अना॑श्वान् उप॒वसे॒त् - क्षोधु॑कस्+++(=बुभुक्षाशीलः)+++ स्यात्   ।   
 यद् अ॑श्ञी॒याद्  - रु॒द्रो॑ऽस्य प॒शून् अ॒भिम॑न्येत ।  
 </details>
 <details><summary>Keith</summary>
@@ -305,7 +305,7 @@ If he were to fast without eating, he would be hungry; if he were to eat, Rudra 
 </details>
 <details><summary>मूलम्</summary>
 
-यदना॑श्वानुप॒वसे॒त् ख्षोधु॑कस्स्यात्   ।   
+यदना॑श्वानुप॒वसे॒त् क्षोधु॑कस्स्यात्   ।   
 यद॑श्ञी॒याद्  रु॒द्रो॑ऽस्य प॒शून॒भिम॑न्येत ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -314,7 +314,7 @@ If he were to fast without eating, he would be hungry; if he were to eat, Rudra 
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒पो॑ऽश्ञाति॒ तन् नेवा॑शि॒तन् नेवान॑शित॒न् - न ख्षोधु॑को॒ भव॑ति ।  
+अ॒पो॑ऽश्ञाति॒ तन् नेवा॑शि॒तन् नेवान॑शित॒न् - न क्षोधु॑को॒ भव॑ति ।  
 नास्य॑ रु॒द्रᳶ प॒शून् अ॒भि म॑न्यते ।
 </details>
 <details><summary>Keith</summary>
@@ -323,7 +323,7 @@ he partakes of water; that is neither eaten nor not eaten; he is not hungry and 
 </details>
 <details><summary>मूलम्</summary>
 
-अ॒पो॑ऽश्ञाति॒  तन्नेवा॑शि॒तन्नेवान॑शित॒न्न ख्षोधु॑को॒ भव॑ति ।  
+अ॒पो॑ऽश्ञाति॒  तन्नेवा॑शि॒तन्नेवान॑शित॒न्न क्षोधु॑को॒ भव॑ति ।  
 नास्य॑ रु॒द्रᳶ प॒शून॒भि म॑न्यते ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -339,9 +339,9 @@ _______
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वज्रो॒ वै य॒ज्ञः ।  
-ख्षुत् खलु॒ वै म॑नु॒ष्य॑स्य॒ भ्रातृ॑व्यः ।  
+क्षुत् खलु॒ वै म॑नु॒ष्य॑स्य॒ भ्रातृ॑व्यः ।  
 यद् अना॑श्वान् उप॒वस॑ति॒    
-वज्रे॑णै॒व सा॒ख्षात् ख्षुध॒म् भ्रातृ॑व्यꣳ हन्ति ॥ [24]
+वज्रे॑णै॒व सा॒क्षात् क्षुध॒म् भ्रातृ॑व्यꣳ हन्ति ॥ [24]
 </details>
 <details><summary>Keith</summary>
 
@@ -350,9 +350,9 @@ The sacrificer is a bolt, the enemy of man is hunger; in that he fasts without e
 <details><summary>मूलम्</summary>
 
 वज्रो॒ वै य॒ज्ञः ।  
-ख्षुत्खलु॒ वै म॑नु॒ष्य॑स्य॒ भ्रातृ॑व्यः ।  
+क्षुत्खलु॒ वै म॑नु॒ष्य॑स्य॒ भ्रातृ॑व्यः ।  
 यदना॑श्वानुप॒वस॑ति ।   
-वज्रे॑णै॒व सा॒ख्षात्ख्षुध॒म्भ्रातृ॑व्यꣳ हन्ति ॥ [24]
+वज्रे॑णै॒व सा॒क्षात्क्षुध॒म्भ्रातृ॑व्यꣳ हन्ति ॥ [24]
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

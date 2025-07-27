@@ -783,7 +783,7 @@ Wenn Vāk [die Stimme], die Königin der Götter, unverständliche Worte [den Do
 
 अ॒न॒न्तामन्ता॒दधि॒ निर्मि॑ताम्म॒हीम् ।  
 यस्या॑न्दे॒वा अ॑दधु॒र्भोज॑नानि ।  
-एका॑ख्षरान्द्वि॒पदा॒ꣳ॒ षट्प॑दाञ्च ।  
+एका॑क्षरान्द्वि॒पदा॒ꣳ॒ षट्प॑दाञ्च ।  
 वाच॑न्दे॒वा उप॑ जीवन्ति॒ विश्वे॑ ।
 </details>
 <details><summary>सायण-टीका</summary>
@@ -837,7 +837,7 @@ Wenn Vāk [die Stimme], die Königin der Götter, unverständliche Worte [den Do
 <details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
 <details><summary>मूलम्</summary>
 
-वाग॒ख्षर॑म्प्रथम॒जा ऋ॒तस्य॑ ।  
+वाग॒क्षर॑म्प्रथम॒जा ऋ॒तस्य॑ ।  
 वेदा॑नाम्मा॒ताऽमृत॑स्य॒ नाभिः॑ ।   
 सा नो॑ जुषा॒णोप॑ य॒ज्ञमागा॑त् ।   
 अव॑न्ती दे॒वी सु॒हवा॑ मे अस्तु ।
@@ -2269,7 +2269,7 @@ Den Glauben rufen Morgens wir, den Glauben in der Mittagszeit Den Glauben, wenn 
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
 पि॒ता वि॒राजा॑म्, ऋष॒भो र॑यी॒णाम् ।  
-अ॒न्तरि॑ख्षव्ँ वि॒श्व-रू॑प॒ **आवि॑वेश** ।  
+अ॒न्तरि॑क्षव्ँ वि॒श्व-रू॑प॒ **आवि॑वेश** ।  
 तम् अ॒र्कैर् **अ॒भ्य॑र्चन्ति** व॒थ्सम् ।  
 ब्रह्म॒ सन्त॒म् ब्रह्म॑णा **व॒र्धय॑न्तः** ।
 </details>
@@ -2279,7 +2279,7 @@ Den Glauben rufen Morgens wir, den Glauben in der Mittagszeit Den Glauben, wenn 
 <details><summary>मूलम्</summary>
 
 पि॒ता वि॒राजा॑मृष॒भो र॑यी॒णाम् ।  
-अ॒न्तरि॑ख्षव्ँ वि॒श्वरू॑प॒ आवि॑वेश ।  
+अ॒न्तरि॑क्षव्ँ वि॒श्वरू॑प॒ आवि॑वेश ।  
 तम॒र्कैर॒भ्य॑र्चन्ति व॒थ्सम् ।  
 ``ब्रह्म॒ सन्त॒म्ब्रह्म॑णा व॒र्धय॑न्तः ।
 </details>
@@ -2298,7 +2298,7 @@ Den Glauben rufen Morgens wir, den Glauben in der Mittagszeit Den Glauben, wenn 
 
 ब्रह्म॑ दे॒वान् **अ॑जनयत्** ।  
 ब्रह्म॒ विश्व॑म् इ॒दञ् जग॑त् ।  
-ब्रह्म॑णः ख्ष॒त्रन् **निर्मि॑तम्** ।   
+ब्रह्म॑णः क्ष॒त्रन् **निर्मि॑तम्** ।   
 ब्रह्म॑ ब्राह्म॒ण आ॒त्मना॑ ।
 </details>
 </div>
@@ -2308,7 +2308,7 @@ Den Glauben rufen Morgens wir, den Glauben in der Mittagszeit Den Glauben, wenn 
 
 ब्रह्म॑ दे॒वान॑जनयत् ।  
 ब्रह्म॒ विश्व॑मि॒दञ्जग॑त् ।  
-ब्रह्म॑णः ख्ष॒त्रन्निर्मि॑तम् ।   
+ब्रह्म॑णः क्ष॒त्रन्निर्मि॑तम् ।   
 ब्रह्म॑ ब्राह्म॒ण आ॒त्मना॑ ।
 </details>
 <details><summary>सायण-टीका</summary>
@@ -3296,7 +3296,7 @@ Nicht holt ein Kriegsross mit bestäubtem Kopf sie ein, noch werden je sie zu de
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
 गावो॒ भगो॒, गाव॒ इन्द्रो॑ मे अच्छात् ।   
-गाव॒स् सोम॑स्य प्रथ॒मस्य॑ भ॒ख्षः ।   
+गाव॒स् सोम॑स्य प्रथ॒मस्य॑ भ॒क्षः ।   
 इ॒मा या गाव॒स्, स ज॑नास॒ इन्द्रः॑ ।   
 **इ॒च्छामीद्** +हृ॒दा मन॑सा चि॒दिन्द्र॑म् ।
 </details>
@@ -3306,7 +3306,7 @@ Nicht holt ein Kriegsross mit bestäubtem Kopf sie ein, noch werden je sie zu de
 <details><summary>मूलम्</summary>
 
 गावो॒ भगो॒ गाव॒ इन्द्रो॑ मे अच्छात् ।   
-गाव॒स्सोम॑स्य प्रथ॒मस्य॑ भ॒ख्षः ।   
+गाव॒स्सोम॑स्य प्रथ॒मस्य॑ भ॒क्षः ।   
 इ॒मा या गाव॒स्सज॑नास॒ इन्द्रः॑ ।   
 इ॒च्छामीद्धृ॒दा मन॑सा चि॒दिन्द्र॑म् ।
 </details>

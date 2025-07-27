@@ -161,7 +161,7 @@ He lets her go to the west; the thousand follow after her. She knowing goes to t
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यज॑मानम् अ॒भ्य् उथ्सृ॑जति ,
-ख्षि॒प्रे +++(काले)+++ स॒हस्र॒म् प्र जा॑यते ।
+क्षि॒प्रे +++(काले)+++ स॒हस्र॒म् प्र जा॑यते ।
 </details>
 
 

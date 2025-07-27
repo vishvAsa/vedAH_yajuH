@@ -12,7 +12,7 @@ title = "१९ दिशामवेष्टि-पशुद्वयबन्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ॒ग्ने॒यम् अ॒ष्टाक॑पाल॒न् निर्व॑पति ।   
-हिर॑ण्य॒न् दख्षि॑णा  ।
+हिर॑ण्य॒न् दक्षि॑णा  ।
 </details>
 <details><summary>Keith</summary>
 
@@ -21,7 +21,7 @@ To Agni he offers on eight potsherds; the sacrificial fee is gold.
 <details><summary>मूलम्</summary>
 
 आ॒ग्ने॒यम॒ष्टाक॑पाल॒न्निर्व॑पति ।   
-हिर॑ण्य॒न्दख्षि॑णा  ।
+हिर॑ण्य॒न्दक्षि॑णा  ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -30,7 +30,7 @@ To Agni he offers on eight potsherds; the sacrificial fee is gold.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऐ॒न्द्रम् एका॑दश-कपालम् +++(निर्वपति)+++  ।  
-ऋ॒ष॒भो दख्षि॑णा ।
+ऋ॒ष॒भो दक्षि॑णा ।
 </details>
 <details><summary>Keith</summary>
 
@@ -39,12 +39,12 @@ To Indra (he offers) on eleven potsherds; the sacrificial fee is a bull.
 <details><summary>मूलम्</summary>
 
 ऐ॒न्द्रमेका॑दशकपालम् +++(निर्वपति)+++  ।  
-ऋ॒ष॒भो दख्षि॑णा ।
+ऋ॒ष॒भो दक्षि॑णा ।
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वै॒श्व॒दे॒वञ् च॒रुम्  +++(निर्वपति)+++  ।  
-पि॒शङ्गी॑ पष्ठौ॒ही+++(=4-वर्षीया)+++ दख्षि॑णा   ।
+पि॒शङ्गी॑ पष्ठौ॒ही+++(=4-वर्षीया)+++ दक्षि॑णा   ।
 </details>
 <details><summary>Keith</summary>
 
@@ -53,12 +53,12 @@ To the All-gods (he offers) an oblation; the sacrificial fee is a tawny heifer.
 <details><summary>मूलम्</summary>
 
 वै॒श्व॒दे॒वञ्च॒रुम्  +++(निर्वपति)+++  ।  
-पि॒शङ्गी॑ पष्ठौ॒ही दख्षि॑णा   ।
+पि॒शङ्गी॑ पष्ठौ॒ही दक्षि॑णा   ।
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मै॒त्रा॒व॒रु॒णीम् आ॒मिख्षा॑म् +++(निर्वपति)+++  ।     
-व॒शा+++(=वन्ध्या)+++ दख्षि॑णा  ।
+मै॒त्रा॒व॒रु॒णीम् आ॒मिक्षा॑म् +++(निर्वपति)+++  ।     
+व॒शा+++(=वन्ध्या)+++ दक्षि॑णा  ।
 </details>
 <details><summary>Keith</summary>
 
@@ -66,13 +66,13 @@ To Mitra and Varuna (he offers) clotted curds; the sacrificial fee is a cow.
 </details>
 <details><summary>मूलम्</summary>
 
-मै॒त्रा॒व॒रु॒णीमा॒मिख्षा॑म् +++(निर्वपति)+++  ।     
-व॒शा दख्षि॑णा  ।
+मै॒त्रा॒व॒रु॒णीमा॒मिक्षा॑म् +++(निर्वपति)+++  ।     
+व॒शा दक्षि॑णा  ।
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बा॒र्र्ह॒स्प॒त्यञ्च॒रुम्  +++(निर्वपति)+++  ।   
-शि॒ति॒+++(=श्वेत)+++-पृ॒ष्ठो दख्षि॑णा   ।
+शि॒ति॒+++(=श्वेत)+++-पृ॒ष्ठो दक्षि॑णा   ।
 </details>
 <details><summary>Keith</summary>
 
@@ -82,7 +82,7 @@ To Brhaspati (he offers) an oblation; the sacrificial fee is a white-backed (ox)
 
 
 बा॒र्र्ह॒स्प॒त्यञ्च॒रुम्  +++(निर्वपति)+++  ।   
-शि॒ति॒पृ॒ष्ठो दख्षि॑णा   ।
+शि॒ति॒पृ॒ष्ठो दक्षि॑णा   ।
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -137,7 +137,7 @@ to Sarasvati of true speech an oblation;
 
 स॒वि॒त्रे स॒त्यप्र॑सवाय पुरो॒डाश॒न् द्वाद॑श-कपालान्
  +++(निर्वपति)+++,  
-तिसृ+++(-इषु)+++-ध॒न्वꣳ, शु॑ष्क-दृ॒तिर्+++(=स्यूतं)+++ दख्षि॑णा ॥ [35]
+तिसृ+++(-इषु)+++-ध॒न्वꣳ, शु॑ष्क-दृ॒तिर्+++(=स्यूतं)+++ दक्षि॑णा ॥ [35]
 </details>
 <details><summary>Keith</summary>
 
@@ -149,7 +149,7 @@ the sacrificial fee is a dry skin bag and a bow with three arrows.
 स॒वि॒त्रे स॒त्यप्र॑सवाय पुरो॒डाश॒न्द्वाद॑शकपालान्
  +++(निर्वपति)+++ ।
 
- +++(स॒वि॒त्रे स॒त्यप्र॑सवाय)+++  तिसृध॒न्वꣳ शु॑ष्कदृ॒तिर्दख्षि॑णा ॥ [35]
+ +++(स॒वि॒त्रे स॒त्यप्र॑सवाय)+++  तिसृध॒न्वꣳ शु॑ष्कदृ॒तिर्दक्षि॑णा ॥ [35]
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

@@ -121,7 +121,7 @@ _______
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-सद॑सि॒ सन्मे॑ भूया॒स्सर्व॑मसि॒ सर्व॑म्मे भूयाᳶ पू॒र्णम॑सि पू॒र्णम्मे॑ भूया॒ अख्षि॑तमसि॒ मा मे॑ ख्षेष्ठाः 
+सद॑सि॒ सन्मे॑ भूया॒स्सर्व॑मसि॒ सर्व॑म्मे भूयाᳶ पू॒र्णम॑सि पू॒र्णम्मे॑ भूया॒ अक्षि॑तमसि॒ मा मे॑ क्षेष्ठाः 
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -208,7 +208,7 @@ thou art full, be full for me;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अख्षि॑तम् असि॒ - मा मे॑ ख्षेष्ठाः ।
+अक्षि॑तम् असि॒ - मा मे॑ क्षेष्ठाः ।
 </details>
 <details><summary>Keith</summary>
 
@@ -216,11 +216,11 @@ thou art imperishable, perish not for me.
 </details>
 <details><summary>मूलम्</summary>
 
-अख्षि॑तमसि॒ मा मे॑ ख्षेष्ठाः ।
+अक्षि॑तमसि॒ मा मे॑ क्षेष्ठाः ।
 </details>
 <details><summary>पद-पाठः</summary>
 
-अख्षि॑तम् । अ॒सि॒ । मा । मे॒ । ख्षे॒ष्ठाः॒ ।
+अक्षि॑तम् । अ॒सि॒ । मा । मे॒ । क्षे॒ष्ठाः॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -271,7 +271,7 @@ In the eastern quarter may the gods, the priests, make (me) bright;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दख्षि॑णायां [15] दि॒शि मासाः॑ पि॒तरो॑ मार्जयन्ताम्।  
+दक्षि॑णायां [15] दि॒शि मासाः॑ पि॒तरो॑ मार्जयन्ताम्।  
 </details>
 <details><summary>Keith</summary>
 
@@ -279,11 +279,11 @@ in the southern [1] quarter may the months, the fathers, make (me) bright;
 </details>
 <details><summary>मूलम्</summary>
 
-दख्षि॑णायां [15] दि॒शि मासाः॑ पि॒तरो॑ मार्जयन्ताम्।  
+दक्षि॑णायां [15] दि॒शि मासाः॑ पि॒तरो॑ मार्जयन्ताम्।  
 </details>
 <details><summary>पद-पाठः</summary>
 
-दख्षि॑णायाम् । दि॒शि । मासाः॑ । पि॒तरः॑ । मा॒र्ज॒य॒न्ता॒म् । 
+दक्षि॑णायाम् । दि॒शि । मासाः॑ । पि॒तरः॑ । मा॒र्ज॒य॒न्ता॒म् । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

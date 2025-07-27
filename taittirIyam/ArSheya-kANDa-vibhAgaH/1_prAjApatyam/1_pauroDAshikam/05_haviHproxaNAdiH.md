@@ -123,7 +123,7 @@ ____
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रोख्षि॑तास् स्थ ।
+प्रोक्षि॑तास् स्थ ।
 </details>
 <details><summary>Keith</summary>
 
@@ -131,7 +131,7 @@ Ye are sprinkled.
 </details>
 <details><summary>मूलम्</summary>
 
-प्रोख्षि॑तास्स्थ ।
+प्रोक्षि॑तास्स्थ ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -147,8 +147,8 @@ ____
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्नये॑ वो॒ जुष्ट॒म्+++(=प्रियं)+++ +++(यथा तथा)+++ प्रोख्षा॑मि  ।  
-अ॒ग्नीषोमा॑भ्या॒म् [वो॒ जुष्ट॒म् प्रोख्षा॑मि ] ।
+अ॒ग्नये॑ वो॒ जुष्ट॒म्+++(=प्रियं)+++ +++(यथा तथा)+++ प्रोक्षा॑मि  ।  
+अ॒ग्नीषोमा॑भ्या॒म् [वो॒ जुष्ट॒म् प्रोक्षा॑मि ] ।
 </details>
 <details><summary>Keith</summary>
 
@@ -156,8 +156,8 @@ I sprinkle you agreeable to Agni, to Agni and Soma.
 </details>
 <details><summary>मूलम्</summary>
 
-अ॒ग्नये॑ वो॒ जुष्ट॒म्प्रोख्षा॑मि  ।  
-अ॒ग्नीषोमा॑भ्या॒म् [ वो॒ जुष्ट॒म्प्रोख्षा॑मि ] ।
+अ॒ग्नये॑ वो॒ जुष्ट॒म्प्रोक्षा॑मि  ।  
+अ॒ग्नीषोमा॑भ्या॒म् [ वो॒ जुष्ट॒म्प्रोक्षा॑मि ] ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -210,7 +210,7 @@ ____
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अव॑धूत॒ꣳ॒ रख्षोऽव॑धूता॒ अरा॑त॒यः ।
+अव॑धूत॒ꣳ॒ रक्षोऽव॑धूता॒ अरा॑त॒यः ।
 </details>
 <details><summary>Keith</summary>
 
@@ -508,7 +508,7 @@ ____
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-परा॑पूत॒ꣳ॒ रख्ष॒ᳶ  
+परा॑पूत॒ꣳ॒ रक्ष॒ᳶ  
 परा॑पूता॒ अरा॑तयः  ।
 
 +++('यज्ञꣳ रक्षाꣳस्यनुप्राविशन्' (तै.ब्रा. 3.2.5) इति ब्राह्मणम् ॥)+++
@@ -519,7 +519,7 @@ The Raksas is cleared away, the evil spirits are cleared away.
 </details>
 <details><summary>मूलम्</summary>
 
-परा॑पूत॒ꣳ॒ रख्ष॒ᳶ परा॑पूता॒ अरा॑तयः  ।
+परा॑पूत॒ꣳ॒ रक्ष॒ᳶ परा॑पूता॒ अरा॑तयः  ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -535,7 +535,7 @@ ____
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रख्ष॑साम् भा॒गो॑ऽसि ।
+रक्ष॑साम् भा॒गो॑ऽसि ।
 </details>
 <details><summary>Keith</summary>
 
@@ -543,7 +543,7 @@ Thou art the share of the Raksases.
 </details>
 <details><summary>मूलम्</summary>
 
-रख्ष॑साम्भा॒गो॑ऽसि ।
+रक्ष॑साम्भा॒गो॑ऽसि ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

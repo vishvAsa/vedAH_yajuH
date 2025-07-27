@@ -5,7 +5,7 @@ title = "०१ ०५"
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_05/05_puruShasya_vidma.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-पुरु॑षस्य विद्म सहस्रा॒ख्षस्य॑  
+पुरु॑षस्य विद्म सहस्रा॒क्षस्य॑  
 महादे॒वस्य॑ धीमहि ।  
 तन्नो॑ रुद्रः प्रचो॒दया॑त् ॥
 </details>
@@ -14,7 +14,7 @@ title = "०१ ०५"
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
-पुरु॑षस्य विद्म सहस्रा॒ख्षस्य॑  
+पुरु॑षस्य विद्म सहस्रा॒क्षस्य॑  
 महादे॒वस्य॑ धीमहि ।  
 तन्नो॑ रुद्रः प्रचो॒दया॑त् ॥
 </details>
@@ -64,7 +64,7 @@ title = "०१ ०५"
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 तत् पुरु॑षाय वि॒द्महे॑  
-सुवर्ण-प॒ख्षाय॑ धीमहि । (5)  
+सुवर्ण-प॒क्षाय॑ धीमहि । (5)  
 तन् नो॑ गरुडः प्रचो॒दया॑त् ॥
 </details>
 </div>
@@ -73,7 +73,7 @@ title = "०१ ०५"
 <details><summary>मूलम्</summary>
 
 तत् पुरु॑षाय वि॒द्महे॑  
-सुवर्ण-प॒ख्षाय॑ धीमहि । (5)  
+सुवर्ण-प॒क्षाय॑ धीमहि । (5)  
 तन् नो॑ गरुडः प्रचो॒दया॑त् ॥
 </details>
 </details>

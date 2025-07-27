@@ -117,12 +117,12 @@ _______
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-अ॒द्भ्यस्त्वौष॑धीभ्य॒ᳶ प्रोख्षा॑मि ।
+अ॒द्भ्यस्त्वौष॑धीभ्य॒ᳶ प्रोक्षा॑मि ।
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ॒द्भ्यस् त्वा॑   
-ओष॑धीभ्य॒ᳶ प्रोख्षा॑मि ।
+ओष॑धीभ्य॒ᳶ प्रोक्षा॑मि ।
 </details>
 <details><summary>Keith</summary>
 
@@ -131,7 +131,7 @@ For the waters thee, for the plants thee, I sprinkle.
 <details><summary>मूलम्</summary>
 
 अ॒द्भ्यस्त्वा॑   
-ओष॑धीभ्य॒ᳶ प्रोख्षा॑मि ।
+ओष॑धीभ्य॒ᳶ प्रोक्षा॑मि ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -297,7 +297,7 @@ _______
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-रेव॑तीर्य॒ज्ञप॑तिम्प्रिय॒धाऽऽवि॑श॒तोरो॑ अन्तरिख्ष स॒जूर्दे॒वेन॑ [14]वाते॑ना॒ऽस्य ह॒विष॒स्त्मना॑ यज॒ सम॑स्य त॒नुवा॑ भव॒ वर्षी॑यो॒ वर्षी॑यसि य॒ज्ञे य॒ज्ञप॑तिन्धाः
+रेव॑तीर्य॒ज्ञप॑तिम्प्रिय॒धाऽऽवि॑श॒तोरो॑ अन्तरिक्ष स॒जूर्दे॒वेन॑ [14]वाते॑ना॒ऽस्य ह॒विष॒स्त्मना॑ यज॒ सम॑स्य त॒नुवा॑ भव॒ वर्षी॑यो॒ वर्षी॑यसि य॒ज्ञे य॒ज्ञप॑तिन्धाः
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -323,7 +323,7 @@ Ye wealthy ones, do ye kindly resort to the lord of the sacrifice.
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/08_pashu-vishasanAdi/02_uro_antarikhSha.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-उरो॑ अन्तरिख्ष!  
+उरो॑ अन्तरिक्ष!  
 स॒जूर् दे॒वेन॑ वाते॑ना॒  
 ऽस्य ह॒विष॒स् त्मना॑+++(=जीवेन)+++ यज।  
 सम् अ॑स्य त॒नुवा॑ भव।
@@ -340,7 +340,7 @@ be united with its body
 </details>
 <details><summary>मूलम्</summary>
 
-उरो॑ अन्तरिख्ष स॒जूर्दे॒वेन॑  +++(रुद्र -११ अक्षराणि)+++  ।  वाते॑ना॒ऽस्य ह॒विष॒स्त्मना॑ यज  +++( ईश- ११ अक्षराणि)+++  
+उरो॑ अन्तरिक्ष स॒जूर्दे॒वेन॑  +++(रुद्र -११ अक्षराणि)+++  ।  वाते॑ना॒ऽस्य ह॒विष॒स्त्मना॑ यज  +++( ईश- ११ अक्षराणि)+++  
 सम॑स्य त॒नुवा॑ भव  +++(वसु ८ अक्षराणि)+++ ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>

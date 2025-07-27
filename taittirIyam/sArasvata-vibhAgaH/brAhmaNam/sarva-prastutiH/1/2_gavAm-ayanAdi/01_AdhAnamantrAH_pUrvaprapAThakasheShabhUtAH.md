@@ -179,7 +179,7 @@ unicode_script: devanagari
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 प्र॒जाप॑ति-सृष्टानाम् प्र॒जाना॑म् ।  
-ख्षु॒धो ऽप॑हत्यै सुवि॒तन् नो॑ अस्तु ।  
+क्षु॒धो ऽप॑हत्यै सुवि॒तन् नो॑ अस्तु ।  
 उप॒ प्रभि॑न्न॒म् इष॒म् ऊर्ज॑म् प्र॒जाभ्यः॑।  
 सूद॑ङ् गृ॒हेभ्यो॒ रस॒म् आभ॑रामि ।
 </details>
@@ -189,7 +189,7 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑ति-सृष्टानाम् प्र॒जाना॑म् ।  
-ख्षु॒धो ऽप॑हत्यै सुवि॒तन् नो॑ अस्तु ।  
+क्षु॒धो ऽप॑हत्यै सुवि॒तन् नो॑ अस्तु ।  
 उप॒ प्रभि॑न्न॒म् इष॒म् ऊर्ज॑म् प्र॒जाभ्यः॑।  
 सूद॑ङ् गृ॒हेभ्यो॒ रस॒म् आभ॑रामि ।
 </details>
@@ -404,7 +404,7 @@ unicode_script: devanagari
 दे॒वाना॑म् ब्रह्म-वा॒दव्ँ वद॑ता॒य्ँ यत् ।   
 उ॒पाशृ॑णोस् सु॒श्रवा॒ वै श्रु॒तो॑ ऽसि ।  
 ततो॒ माम् आवि॑शतु ब्रह्म-वर्च॒सम् ।  
-तथ् स॒म्भर॒ꣵ॒ स् तद् अव॑रुन्धीय सा॒ख्षात् ।
+तथ् स॒म्भर॒ꣵ॒ स् तद् अव॑रुन्धीय सा॒क्षात् ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/2_gavAm-ayanAdi/1/58_devAnAm_brahmavAdav.N.md">
@@ -414,7 +414,7 @@ unicode_script: devanagari
 दे॒वाना॑म् ब्रह्म-वा॒दव्ँ वद॑ता॒य्ँ यत् ।   
 उ॒पाशृ॑णोस् सु॒श्रवा॒ वै श्रु॒तो॑ ऽसि ।  
 ततो॒ माम् आवि॑शतु ब्रह्म-वर्च॒सम् ।  
-तथ् स॒म्भर॒ꣵ॒ स् तद् अव॑रुन्धीय सा॒ख्षात् ।
+तथ् स॒म्भर॒ꣵ॒ स् तद् अव॑रुन्धीय सा॒क्षात् ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -766,7 +766,7 @@ unicode_script: devanagari
 घृ॒त-प्र॑तीको घृ॒त-यो॑निर् अ॒ग्निः ।   
 घृ॒तैस् समि॑द्धो घृ॒तम् अ॒स्यान्न॑म् ।  
 घृ॒त॒-प्रुष॑स् त्वा स॒रितो॑ वहन्ति ।  
-घृ॒तम् पिब॑न्थ् सु॒यजा॑ यख्षि दे॒वान् ।
+घृ॒तम् पिब॑न्थ् सु॒यजा॑ यक्षि दे॒वान् ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/2_gavAm-ayanAdi/1/110_ghRtapratIko_ghRtayonir.md">
@@ -776,7 +776,7 @@ unicode_script: devanagari
 घृ॒त-प्र॑तीको घृ॒त-यो॑निर् अ॒ग्निः ।   
 घृ॒तैस् समि॑द्धो घृ॒तम् अ॒स्यान्न॑म् ।  
 घृ॒त॒-प्रुष॑स् त्वा स॒रितो॑ वहन्ति ।  
-घृ॒तम् पिब॑न्थ् सु॒यजा॑ यख्षि दे॒वान् ।
+घृ॒तम् पिब॑न्थ् सु॒यजा॑ यक्षि दे॒वान् ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -794,7 +794,7 @@ unicode_script: devanagari
 आ॒यु॒र्दा अ॑ग्ने ह॒विषो॑ जुषा॒णः ।  
 घृ॒त-प्र॑तीको घृ॒त-यो॑निर् एधि ।  
 घृ॒तम् पी॒त्वा मधु॒ चारु॒ गव्य॑म् ।      
-पि॒तेव॑ पु॒त्रम् अ॒भि-र॑ख्षताद् इ॒मम् ॥11॥
+पि॒तेव॑ पु॒त्रम् अ॒भि-र॑क्षताद् इ॒मम् ॥11॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/2_gavAm-ayanAdi/1/114_AyurdA_agne.md">
@@ -804,7 +804,7 @@ unicode_script: devanagari
 आ॒यु॒र्दा अ॑ग्ने ह॒विषो॑ जुषा॒णः ।  
 घृ॒त-प्र॑तीको घृ॒त-यो॑निर् एधि ।  
 घृ॒तम् पी॒त्वा मधु॒ चारु॒ गव्य॑म् ।      
-पि॒तेव॑ पु॒त्रम॒भिर॑ख्षतादि॒मम् ॥11॥
+पि॒तेव॑ पु॒त्रम॒भिर॑क्षतादि॒मम् ॥11॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -829,7 +829,7 @@ unicode_script: devanagari
 त्वाम् अ॑ग्ने समिधा॒नय्ँ य॑विष्ठ ।   
 दे॒वा दू॒तञ् च॑क्रिरे हव्य॒-वाह॑म् ।  
 उ॒रु॒-ज्रय॑सङ् घृ॒त-यो॑नि॒म् आहु॑तम् ।  
-त्वे॒षञ् चख्षु॑र् दधिरे चोद॒यन्व॑ति ।
+त्वे॒षञ् चक्षु॑र् दधिरे चोद॒यन्व॑ति ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/2_gavAm-ayanAdi/1/118_tvAm_agne.md">
@@ -839,7 +839,7 @@ unicode_script: devanagari
 त्वाम् अ॑ग्ने समिधा॒नय्ँ य॑विष्ठ ।   
 दे॒वा दू॒तञ् च॑क्रिरे हव्य॒-वाह॑म् ।  
 उ॒रु॒-ज्रय॑सङ् घृ॒त-यो॑नि॒म् आहु॑तम् ।  
-त्वे॒षञ् चख्षु॑र् दधिरे चोद॒यन्व॑ति ।
+त्वे॒षञ् चक्षु॑र् दधिरे चोद॒यन्व॑ति ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -856,7 +856,7 @@ unicode_script: devanagari
 
 त्वाम् अ॑ग्ने प्र॒दिव॒ आहु॑तङ् घृ॒तेन॑ ।  
 सु॒म्ना॒यव॑स् सुष॒मिधा॒ समी॑धिरे ।  
-स वा॑वृधा॒न ओष॑धीभिर् उख्षि॒तः ।   
+स वा॑वृधा॒न ओष॑धीभिर् उक्षि॒तः ।   
 उ॒रु ज्रयाꣳ॑सि॒ पार्थि॑वा॒ विति॑ष्ठसे ।
 </details>
 </div>
@@ -866,7 +866,7 @@ unicode_script: devanagari
 
 त्वाम् अ॑ग्ने प्र॒दिव॒ आहु॑तङ् घृ॒तेन॑ ।  
 सु॒म्ना॒यव॑स् सुष॒मिधा॒ समी॑धिरे ।  
-स वा॑वृधा॒न ओष॑धीभिर् उख्षि॒तः ।   
+स वा॑वृधा॒न ओष॑धीभिर् उक्षि॒तः ।   
 उ॒रु ज्रयाꣳ॑सि॒ पार्थि॑वा॒ विति॑ष्ठसे ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1378,7 +1378,7 @@ unicode_script: devanagari
 
 दि॒वस् त्वा॑ वी॒र्ये॑ण ।   
 पृ॒थि॒व्यै म॑हि॒म्ना ॥18॥  
-अ॒न्तरि॑ख्षस्य॒ पोषे॑ण ।  
+अ॒न्तरि॑क्षस्य॒ पोषे॑ण ।  
 स॒र्वप॑शु॒म् आद॑धे ।
 </details>
 </div>
@@ -1388,7 +1388,7 @@ unicode_script: devanagari
 
 दि॒वस् त्वा॑ वी॒र्ये॑ण ।   
 पृ॒थि॒व्यै म॑हि॒म्ना ॥18॥  
-अ॒न्तरि॑ख्षस्य॒ पोषे॑ण ।  
+अ॒न्तरि॑क्षस्य॒ पोषे॑ण ।  
 स॒र्वप॑शु॒म् आद॑धे ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1614,7 +1614,7 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/227_divapH_pRthivyApH.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-दि॒वᳶ पृ॑थि॒व्याᳶ पर्य॒न्तरि॑ख्षात् ।   
+दि॒वᳶ पृ॑थि॒व्याᳶ पर्य॒न्तरि॑क्षात् ।   
 वाता॑त् प॒शुभ्यो॒ अध्योष॑धीभ्यः ।  
 यत्र॑-यत्र जातवेदस् सम्ब॒भूथ॑ ।   
 ततो॑ नो अग्ने जु॒षमा॑ण॒ एहि॑ ।
@@ -1624,7 +1624,7 @@ unicode_script: devanagari
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
-दि॒वᳶ पृ॑थि॒व्याᳶ पर्य॒न्तरि॑ख्षात् ।   
+दि॒वᳶ पृ॑थि॒व्याᳶ पर्य॒न्तरि॑क्षात् ।   
 वाता॑त् प॒शुभ्यो॒ अध्योष॑धीभ्यः ।  
 यत्र॑-यत्र जातवेदस् सम्ब॒भूथ॑ ।   
 ततो॑ नो अग्ने जु॒षमा॑ण॒ एहि॑ ।
@@ -1945,7 +1945,7 @@ unicode_script: devanagari
 चतु॑श् शिखण्डा युव॒तिस् सु॒पेशाः॑ ।  
 घृ॒त-प्र॑तीका॒ भुव॑नस्य॒ मध्ये॑ ।  
 म॒र्मृ॒ज्यमा॑ना मह॒ते सौभ॑गाय ।   
-मह्य॑न् धुख्ष्व॒ यज॑मानाय॒ कामा॑न् ।
+मह्य॑न् धुक्ष्व॒ यज॑मानाय॒ कामा॑न् ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/2_gavAm-ayanAdi/1/275_chatush_shikhaNDA.md">
@@ -1955,7 +1955,7 @@ unicode_script: devanagari
 चतु॑श् शिखण्डा युव॒तिस् सु॒पेशाः॑ ।  
 घृ॒त-प्र॑तीका॒ भुव॑नस्य॒ मध्ये॑ ।  
 म॒र्मृ॒ज्यमा॑ना मह॒ते सौभ॑गाय ।   
-मह्य॑न् धुख्ष्व॒ यज॑मानाय॒ कामा॑न् ।
+मह्य॑न् धुक्ष्व॒ यज॑मानाय॒ कामा॑न् ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

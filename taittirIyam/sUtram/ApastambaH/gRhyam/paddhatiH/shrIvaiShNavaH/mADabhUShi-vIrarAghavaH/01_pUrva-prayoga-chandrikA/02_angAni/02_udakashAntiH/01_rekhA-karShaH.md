@@ -55,7 +55,7 @@ title = "०१ रेखा-कर्षः"
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/5/09/38_yo_rudro.md">
 <details open><summary><h4>38 यो रुद्रो ...{Loading}...</h4></summary>
 
-यो रु॒द्रो अ॒ग्नौ , यो अ॒फ्सु ,  
+यो रु॒द्रो अ॒ग्नौ , यो अ॒प्सु ,  
 य ओष॑धीषु॒, यो रु॒द्रो  
 विश्वा॒ भुव॑ना **वि॒वेश॒**   
 तस्मै॑ रु॒द्राय॒ **नमो॑ अ॒स्तु** ।

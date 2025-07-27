@@ -514,7 +514,7 @@ Wenn Vāk [die Stimme], die Königin der Götter, unverständliche Worte [den Do
 
 अ॒न॒न्तामन्ता॒दधि॒ निर्मि॑ताम्म॒हीम् ।  
 यस्या॑न्दे॒वा अ॑दधु॒र्भोज॑नानि ।  
-एका॑ख्षरान्द्वि॒पदा॒ꣳ॒ षट्प॑दाञ्च ।  
+एका॑क्षरान्द्वि॒पदा॒ꣳ॒ षट्प॑दाञ्च ।  
 वाच॑न्दे॒वा उप॑ जीवन्ति॒ विश्वे॑ ।
 </details>
 <details><summary>सायण-टीका</summary>
@@ -568,7 +568,7 @@ Wenn Vāk [die Stimme], die Königin der Götter, unverständliche Worte [den Do
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
-वाग॒ख्षर॑म्प्रथम॒जा ऋ॒तस्य॑ ।  
+वाग॒क्षर॑म्प्रथम॒जा ऋ॒तस्य॑ ।  
 वेदा॑नाम्मा॒ताऽमृत॑स्य॒ नाभिः॑ ।   
 सा नो॑ जुषा॒णोप॑ य॒ज्ञमागा॑त् ।   
 अव॑न्ती दे॒वी सु॒हवा॑ मे अस्तु ।

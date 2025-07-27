@@ -309,7 +309,7 @@ After speaking he remains silent, to support the sacrifice.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथो॒ मन॑सा॒ वै प्र॒जाप॑तिर् य॒ज्ञम् अ॑तनुत ।  
-मन॑सै॒व तद् य॒ज्ञन् त॑नुते॒ रख्ष॑सा॒म् अन्-अ॑न्व्-अवचाराय ।
+मन॑सै॒व तद् य॒ज्ञन् त॑नुते॒ रक्ष॑सा॒म् अन्-अ॑न्व्-अवचाराय ।
 </details>
 <details><summary>Keith</summary>
 
@@ -318,7 +318,7 @@ Now Prajapati performed the sacrifice with mind; verily he performs the sacrific
 <details><summary>मूलम्</summary>
 
 अथो॒ मन॑सा॒ वै प्र॒जाप॑तिर्य॒ज्ञम॑तनुत ।  
-मन॑सै॒व तद्य॒ज्ञन्त॑नुते॒ रख्ष॑सा॒मन॑न्ववचाराय ।
+मन॑सै॒व तद्य॒ज्ञन्त॑नुते॒ रक्ष॑सा॒मन॑न्ववचाराय ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

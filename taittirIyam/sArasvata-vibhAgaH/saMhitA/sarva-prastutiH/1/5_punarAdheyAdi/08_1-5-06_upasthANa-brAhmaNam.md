@@ -15,7 +15,7 @@ _______
 
 सम्प॑श्यामि प्र॒जा अ॒हमित्या॑ह
 याव॑न्त ए॒व ग्रा॒म्याᳶ प॒शव॒स्ताने॒वाव॑ रु॒न्धे
-अम्भ॒स्स्थाम्भो॑ वो भख्षी॒येत्या॒ह 
+अम्भ॒स्स्थाम्भो॑ वो भक्षी॒येत्या॒ह 
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -31,7 +31,7 @@ verily he wins all the domesticated animals.
 
 सम्प॑श्यामि प्र॒जा अ॒हमित्या॑ह ।  
 याव॑न्त ए॒व ग्रा॒म्याᳶ प॒शव॒स्ताने॒वाव॑ रु॒न्धे ।  
-अम्भ॑स्स्थ,  अम्भो॑ वो भख्षी॒येत्या॒ह ।  
+अम्भ॑स्स्थ,  अम्भो॑ वो भक्षी॒येत्या॒ह ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -39,7 +39,7 @@ verily he wins all the domesticated animals.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अम्भ॑स् स्थ॒, अम्भो॑ वो भख्षी॒येत्या॒ह ।  
+अम्भ॑स् स्थ॒, अम्भो॑ वो भक्षी॒येत्या॒ह ।  
 अम्भो॒ ह्ये॑ताः।
 </details>
 <details><summary>Keith</summary>
@@ -48,7 +48,7 @@ verily he wins all the domesticated animals.
 </details>
 <details><summary>मूलम्</summary>
 
-अम्भ॑स् स्थ। अम्भो॑ वो भख्षी॒येत्या॒ह ।  
+अम्भ॑स् स्थ। अम्भो॑ वो भक्षी॒येत्या॒ह ।  
 अम्भो॒ ह्ये॑ताः।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -57,7 +57,7 @@ verily he wins all the domesticated animals.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मह॑स् स्थ॒, महो॑ वो भख्षी॒येत्या॑ह।  महो॒ ह्ये॑ताः ।
+मह॑स् स्थ॒, महो॑ वो भक्षी॒येत्या॑ह।  महो॒ ह्ये॑ताः ।
 </details>
 <details><summary>Keith</summary>
 
@@ -65,7 +65,7 @@ verily he wins all the domesticated animals.
 </details>
 <details><summary>मूलम्</summary>
 
-मह॑स्स्थ॒, महो॑ वो भख्षी॒येत्या॑ह॒ महो॒ ह्ये॑ताः ।
+मह॑स्स्थ॒, महो॑ वो भक्षी॒येत्या॑ह॒ महो॒ ह्ये॑ताः ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -73,7 +73,7 @@ verily he wins all the domesticated animals.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सह॑स्स्थ॒, सहो॑ वो भख्षी॒येत्या॑ह॒ सहो॒ ह्ये॑ताः ।
+सह॑स्स्थ॒, सहो॑ वो भक्षी॒येत्या॑ह॒ सहो॒ ह्ये॑ताः ।
 </details>
 <details><summary>Keith</summary>
 
@@ -81,7 +81,7 @@ verily he wins all the domesticated animals.
 </details>
 <details><summary>मूलम्</summary>
 
-सह॑स्स्थ॒, सहो॑ वो भख्षी॒येत्या॑ह॒ सहो॒ ह्ये॑ताः ।
+सह॑स्स्थ॒, सहो॑ वो भक्षी॒येत्या॑ह॒ सहो॒ ह्ये॑ताः ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -89,7 +89,7 @@ verily he wins all the domesticated animals.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऊर्ज॑ स्थ, ऊर्ज॑व्ँवो भख्षी॒येत्य् आह। ऊर्जो॒ ह्य् ए॑ताः ।
+ऊर्ज॑ स्थ, ऊर्ज॑व्ँवो भक्षी॒येत्य् आह। ऊर्जो॒ ह्य् ए॑ताः ।
 </details>
 <details><summary>Keith</summary>
 
@@ -97,7 +97,7 @@ verily he wins all the domesticated animals.
 </details>
 <details><summary>मूलम्</summary>
 
-ऊर्ज॑ स्थ, ऊर्ज॑व्ँवो भख्षी॒येति॑ [31] +आ॒होर्जो॒ ह्ये॑ताः ।
+ऊर्ज॑ स्थ, ऊर्ज॑व्ँवो भक्षी॒येति॑ [31] +आ॒होर्जो॒ ह्ये॑ताः ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

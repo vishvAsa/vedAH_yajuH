@@ -28,7 +28,7 @@ title = "०७ चातुर्मास्येषु शुनासीर
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-ऐ॒न्द्रा॒ग्नन्द्वाद॑शकपालव्ँवैश्वदे॒वञ्च॒रुमिन्द्रा॑य॒ शुना॒सीरा॑य पुरो॒डाश॒न्द्वाद॑शकपालव्ँवाय॒व्य॑म्पय॑स्सौ॒र्यमेक॑कपालन्द्वादशग॒वꣳ सीर॒न्दख्षि॑णाऽऽग्ने॒यम॒ष्टाक॑पाल॒न्निर्व॑पति रौ॒द्रङ्गा॑वीधु॒कञ्च॒रुमै॒न्द्रन्दधि॑ वारु॒णय्ँय॑व॒मय॑ञ्च॒रुव्ँव॒हिनी॑ धे॒नुर्दख्षि॑णा
+ऐ॒न्द्रा॒ग्नन्द्वाद॑शकपालव्ँवैश्वदे॒वञ्च॒रुमिन्द्रा॑य॒ शुना॒सीरा॑य पुरो॒डाश॒न्द्वाद॑शकपालव्ँवाय॒व्य॑म्पय॑स्सौ॒र्यमेक॑कपालन्द्वादशग॒वꣳ सीर॒न्दक्षि॑णाऽऽग्ने॒यम॒ष्टाक॑पाल॒न्निर्व॑पति रौ॒द्रङ्गा॑वीधु॒कञ्च॒रुमै॒न्द्रन्दधि॑ वारु॒णय्ँय॑व॒मय॑ञ्च॒रुव्ँव॒हिनी॑ धे॒नुर्दक्षि॑णा
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -53,7 +53,7 @@ a cake on twelve potsherds to Indra Śunasira,
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वा॒य॒व्य॑म् पय॑स्, सौ॒र्यम् एक॑कपालम्   +++(निर्वपति)+++   
-द्वादशग॒वꣳ सीर॒न्+++(=हलम्)+++ दख्षि॑णा।
+द्वादशग॒वꣳ सीर॒न्+++(=हलम्)+++ दक्षि॑णा।
 </details>
 <details><summary>Keith</summary>
 
@@ -63,7 +63,7 @@ the sacrificial fee is a plough for twelve oxen.
 <details><summary>मूलम्</summary>
 
 वा॒य॒व्य॑म्पय॑स्सौ॒र्यमेक॑कपालम्   +++(निर्वपति)+++   
-द्वादशग॒वꣳ सीर॒न्दख्षि॑णा।
+द्वादशग॒वꣳ सीर॒न्दक्षि॑णा।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -122,7 +122,7 @@ to Indra curds,
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वारु॒णय्ँ य॑व॒मय॑ञ् च॒रुम्   +++(निर्वपति)+++   ।  
-व॒हिनी॑ धे॒नुर् दख्षि॑णा ।
+व॒हिनी॑ धे॒नुर् दक्षि॑णा ।
 </details>
 <details><summary>Keith</summary>
 
@@ -132,7 +132,7 @@ the sacrificial fee is a cow for draught purposes.
 <details><summary>मूलम्</summary>
 
 वारु॒णय्ँय॑व॒मय॑ञ्च॒रुम्   +++(निर्वपति)+++   ।  
-व॒हिनी॑ धे॒नुर्दख्षि॑णा ।
+व॒हिनी॑ धे॒नुर्दक्षि॑णा ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -153,7 +153,7 @@ the sacrificial fee is a cow for draught purposes.
 <details open><summary><h5>ये दे॒वाᳶ पु॑र॒स्-सदो॒ ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ये दे॒वाᳶ पु॑र॒स्-सदो॒ऽग्नि-ने॑त्राः [रख्षो॒-हण॒स्,  
+ये दे॒वाᳶ पु॑र॒स्-सदो॒ऽग्नि-ने॑त्राः [रक्षो॒-हण॒स्,  
 ते नᳶ॑ पान्तु॒,  
 ते नो॑ऽवन्तु॒,  
 तेभ्यो॑ नम॒स्,  
@@ -165,11 +165,11 @@ The gods that sit in the east, led by Agni;
 </details>
 <details><summary>मूलम्</summary>
 
-ये दे॒वाᳶ पु॑र॒स्सदो॒ऽग्निने॑त्राः [रख्षो॒हण॒स्ते नᳶ॑ पान्तु॒ ते नो॑ऽवन्तु॒ तेभ्यो॑  नम॒स्तेभ्य॒स्स्वाहा॑ ]
+ये दे॒वाᳶ पु॑र॒स्सदो॒ऽग्निने॑त्राः [रक्षो॒हण॒स्ते नᳶ॑ पान्तु॒ ते नो॑ऽवन्तु॒ तेभ्यो॑  नम॒स्तेभ्य॒स्स्वाहा॑ ]
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-ये दे॒वाᳶ पु॑र॒स्सदो॒ऽग्निने॑त्रा दख्षिण॒सदो॑ य॒मने॑त्राᳶ पश्चा॒थ्सद॑स्सवि॒तृने॑त्रा उत्तर॒सदो॒ वरु॑णनेत्रा उपरि॒षदो॒ बृह॒स्पति॑नेत्रा रख्षो॒हण॒स्ते नᳶ॑ पान्तु॒ ते नो॑ऽवन्तु॒ तेभ्यः॑ [12] स्वाहा
+ये दे॒वाᳶ पु॑र॒स्सदो॒ऽग्निने॑त्रा दक्षिण॒सदो॑ य॒मने॑त्राᳶ पश्चा॒थ्सद॑स्सवि॒तृने॑त्रा उत्तर॒सदो॒ वरु॑णनेत्रा उपरि॒षदो॒ बृह॒स्पति॑नेत्रा रक्षो॒हण॒स्ते नᳶ॑ पान्तु॒ ते नो॑ऽवन्तु॒ तेभ्यः॑ [12] स्वाहा
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -179,7 +179,7 @@ The gods that sit in the east, led by Agni;
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[ये दे॒वाः] दख्षिण॒-सदो॑ य॒म-ने॑त्राः [रख्षो॒-हण॒स्,  
+[ये दे॒वाः] दक्षिण॒-सदो॑ य॒म-ने॑त्राः [रक्षो॒-हण॒स्,  
 ते नᳶ॑ पान्तु॒,  
 ते नो॑ऽवन्तु॒,  
 तेभ्यो॑ नम॒स्,  
@@ -191,7 +191,7 @@ that sit in the south, led by Yama;
 </details>
 <details><summary>मूलम्</summary>
 
-[ये दे॒वाः] दख्षिण॒सदो॑ य॒मने॑त्राः [रख्षो॒हण॒स्ते नᳶ॑ पान्तु॒ ते नो॑ऽवन्तु॒ तेभ्यो॑  नम॒स्तेभ्य॒स्स्वाहा॑ ]
+[ये दे॒वाः] दक्षिण॒सदो॑ य॒मने॑त्राः [रक्षो॒हण॒स्ते नᳶ॑ पान्तु॒ ते नो॑ऽवन्तु॒ तेभ्यो॑  नम॒स्तेभ्य॒स्स्वाहा॑ ]
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -199,7 +199,7 @@ that sit in the south, led by Yama;
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[ये दे॒वाः] पश्चा॒थ्-सद॑स् सवि॒तृ-ने॑त्राः [रख्षो॒-हण॒स्,  
+[ये दे॒वाः] पश्चा॒थ्-सद॑स् सवि॒तृ-ने॑त्राः [रक्षो॒-हण॒स्,  
 ते नᳶ॑ पान्तु॒,  
 ते नो॑ऽवन्तु॒,  
 तेभ्यो॑ नम॒स्,  
@@ -211,7 +211,7 @@ that sit in the west, led by Savitr;
 </details>
 <details><summary>मूलम्</summary>
 
-[ये दे॒वाः] पश्चा॒थ्सद॑स्सवि॒तृने॑त्राः [रख्षो॒हण॒स्ते नᳶ॑ पान्तु॒ ते नो॑ऽवन्तु॒ तेभ्यो॑ नम॒स्तेभ्य॒स्स्वाहा॑]
+[ये दे॒वाः] पश्चा॒थ्सद॑स्सवि॒तृने॑त्राः [रक्षो॒हण॒स्ते नᳶ॑ पान्तु॒ ते नो॑ऽवन्तु॒ तेभ्यो॑ नम॒स्तेभ्य॒स्स्वाहा॑]
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -219,7 +219,7 @@ that sit in the west, led by Savitr;
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[ये दे॒वाः] उत्तर॒-सदो॒ वरु॑ण-नेत्राः [रख्षो॒-हण॒स्,  
+[ये दे॒वाः] उत्तर॒-सदो॒ वरु॑ण-नेत्राः [रक्षो॒-हण॒स्,  
 ते नᳶ॑ पान्तु॒,  
 ते नो॑ऽवन्तु॒,  
 तेभ्यो॑ नम॒स्,  
@@ -231,7 +231,7 @@ that sit in the north, led by Varuna;
 </details>
 <details><summary>मूलम्</summary>
 
-[ये दे॒वाः] उत्तर॒सदो॒ वरु॑णनेत्राः [रख्षो॒हण॒स्ते नᳶ॑ पान्तु॒ ते नो॑ऽवन्तु॒ तेभ्यो॑  नम॒स्तेभ्य॒स्स्वाहा॑ ]
+[ये दे॒वाः] उत्तर॒सदो॒ वरु॑णनेत्राः [रक्षो॒हण॒स्ते नᳶ॑ पान्तु॒ ते नो॑ऽवन्तु॒ तेभ्यो॑  नम॒स्तेभ्य॒स्स्वाहा॑ ]
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -239,7 +239,7 @@ that sit in the north, led by Varuna;
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[ये दे॒वाः] उपरि॒-षदो॒ बृह॒स्-पति॑-नेत्राः रख्षो॒-हण॒स्,  
+[ये दे॒वाः] उपरि॒-षदो॒ बृह॒स्-पति॑-नेत्राः रक्षो॒-हण॒स्,  
 ते नᳶ॑ पान्तु॒,  
 ते नो॑ऽवन्तु॒,  
 तेभ्यो॑ नम॒स्,  
@@ -251,7 +251,7 @@ that sit above, led by Brhaspati; that slay the Raksases; may they protect us, m
 </details>
 <details><summary>मूलम्</summary>
 
-[ये दे॒वाः] उपरि॒षदो॒ बृह॒स्पति॑नेत्राः रख्षो॒हण॒स्ते नᳶ॑ पान्तु॒ ते नो॑ऽवन्तु॒ तेभ्यो॑ नम॒स्तेभ्य॒स्स्वाहा॥
+[ये दे॒वाः] उपरि॒षदो॒ बृह॒स्पति॑नेत्राः रक्षो॒हण॒स्ते नᳶ॑ पान्तु॒ ते नो॑ऽवन्तु॒ तेभ्यो॑ नम॒स्तेभ्य॒स्स्वाहा॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -268,8 +268,8 @@ that sit above, led by Brhaspati; that slay the Raksases; may they protect us, m
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-समू॑ढ॒ꣳ॒ रख्षः॑ ।  
-सन्द॑ग्ध॒ꣳ॒ रख्षः॑ ।   
+समू॑ढ॒ꣳ॒ रक्षः॑ ।  
+सन्द॑ग्ध॒ꣳ॒ रक्षः॑ ।   
 </details>
 <details><summary>Keith</summary>
 
@@ -277,12 +277,12 @@ The Raksases are collected, the Raksases are burnt up;
 </details>
 <details><summary>मूलम्</summary>
 
-समू॑ढ॒ꣳ॒ रख्षः॑ ।  
-सन्द॑ग्ध॒ꣳ॒ रख्षः॑ ।   
+समू॑ढ॒ꣳ॒ रक्षः॑ ।  
+सन्द॑ग्ध॒ꣳ॒ रक्षः॑ ।   
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-समू॑ढ॒ꣳ॒ रख्ष॒स्सन्द॑ग्ध॒ꣳ॒ रख्ष॑ इ॒दम॒हꣳ रख्षो॒ऽभि सन्द॑हामि
+समू॑ढ॒ꣳ॒ रक्ष॒स्सन्द॑ग्ध॒ꣳ॒ रक्ष॑ इ॒दम॒हꣳ रक्षो॒ऽभि सन्द॑हामि
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -290,7 +290,7 @@ The Raksases are collected, the Raksases are burnt up;
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒दम॒हꣳ रख्षो॒ऽभि सन्द॑हामि ।  
+इ॒दम॒हꣳ रक्षो॒ऽभि सन्द॑हामि ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -298,7 +298,7 @@ here do I burn up the Raksases.
 </details>
 <details><summary>मूलम्</summary>
 
-इ॒दम॒हꣳ रख्षो॒ऽभि सन्द॑हामि ।  
+इ॒दम॒हꣳ रक्षो॒ऽभि सन्द॑हामि ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -309,11 +309,11 @@ here do I burn up the Raksases.
 9-13अपरं पञ्चगृहीतं गृहीत्वा पञ्च स्रुवाहुतीरभिजुहोति - अग्नये रक्षोघ्ने स्वाहेति ॥ यमादिष्वपि चतुर्ष्वनुषज्यते । 
 </details>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/07_chAturmAsyeShu_shunAsIryaparva/agnaye_raxoghne_5.md">
-<details open><summary><h5>अ॒ग्नये॑ रख्षो॒घ्ने 5 ...{Loading}...</h5></summary>
+<details open><summary><h5>अ॒ग्नये॑ रक्षो॒घ्ने 5 ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्नये॑ रख्षो॒घ्ने स्वाहा॑   ।  
-य॒माय॑  [रख्षो॒घ्ने स्वाहा॑] ।
+अ॒ग्नये॑ रक्षो॒घ्ने स्वाहा॑   ।  
+य॒माय॑  [रक्षो॒घ्ने स्वाहा॑] ।
 </details>
 <details><summary>Keith</summary>
 
@@ -321,19 +321,19 @@ To Agni, slayer of Raksases, hail!  To Yama,
 </details>
 <details><summary>मूलम्</summary>
 
-अ॒ग्नये॑ रख्षो॒घ्ने स्वाहा॑   ।  
-य॒माय॑  [रख्षो॒घ्ने स्वाहा॑] ।
+अ॒ग्नये॑ रक्षो॒घ्ने स्वाहा॑   ।  
+य॒माय॑  [रक्षो॒घ्ने स्वाहा॑] ।
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-अ॒ग्नये॑ रख्षो॒घ्ने स्वाहा॑ य॒माय॑ सवि॒त्रे वरु॑णाय॒ बृह॒स्पत॑ये॒ दुव॑स्वते रख्षो॒घ्ने स्वाहा॑
+अ॒ग्नये॑ रक्षो॒घ्ने स्वाहा॑ य॒माय॑ सवि॒त्रे वरु॑णाय॒ बृह॒स्पत॑ये॒ दुव॑स्वते रक्षो॒घ्ने स्वाहा॑
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒वि॒त्रे   [रख्षो॒घ्ने स्वाहा॑] ।  
-वरु॑णाय  [रख्षो॒घ्ने स्वाहा॑] ।   
-बृह॒स्पत॑ये  [रख्षो॒घ्ने स्वाहा॑] ।     
-दुव॑स्वते रख्षो॒घ्ने स्वाहा॑  ।
+स॒वि॒त्रे   [रक्षो॒घ्ने स्वाहा॑] ।  
+वरु॑णाय  [रक्षो॒घ्ने स्वाहा॑] ।   
+बृह॒स्पत॑ये  [रक्षो॒घ्ने स्वाहा॑] ।     
+दुव॑स्वते रक्षो॒घ्ने स्वाहा॑  ।
 </details>
 <details><summary>Keith</summary>
 
@@ -341,9 +341,9 @@ Savitr, Varuna, Brhaspati, the worshipful, the slayer of Raksases, hail!
 </details>
 <details><summary>मूलम्</summary>
 
-स॒वि॒त्रे   [रख्षो॒घ्ने स्वाहा॑] ।  
-वरु॑णाय  [रख्षो॒घ्ने स्वाहा॑] ।   
-बृह॒स्पत॑ये॒  दुव॑स्वते +++(=परिचर्यावते)+++ रख्षो॒घ्ने स्वाहा॑  ।
+स॒वि॒त्रे   [रक्षो॒घ्ने स्वाहा॑] ।  
+वरु॑णाय  [रक्षो॒घ्ने स्वाहा॑] ।   
+बृह॒स्पत॑ये॒  दुव॑स्वते +++(=परिचर्यावते)+++ रक्षो॒घ्ने स्वाहा॑  ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -357,7 +357,7 @@ Savitr, Varuna, Brhaspati, the worshipful, the slayer of Raksases, hail!
 </div>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रष्टि+++(=त्र्यश्व)+++-वा॒ही रथो॒ दख्षि॑णा ।
+प्रष्टि+++(=त्र्यश्व)+++-वा॒ही रथो॒ दक्षि॑णा ।
 </details>
 <details><summary>Keith</summary>
 
@@ -365,7 +365,7 @@ The sacrificial fee is a chariot with three horses.
 </details>
 <details><summary>मूलम्</summary>
 
-प्रष्टिवा॒ही रथो॒ दख्षि॑णा ।
+प्रष्टिवा॒ही रथो॒ दक्षि॑णा ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -423,7 +423,7 @@ ______________
 </div>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-‌… रख्ष॑सो व॒धञ्जु॑होमि ।
+‌… रक्ष॑सो व॒धञ्जु॑होमि ।
 </details>
 <details><summary>Keith</summary>
 
@@ -431,7 +431,7 @@ I offer (for) the death of the Raksases;
 </details>
 <details><summary>मूलम्</summary>
 
-‌… रख्ष॑सो व॒धञ्जु॑होमि ।
+‌… रक्ष॑सो व॒धञ्जु॑होमि ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -443,7 +443,7 @@ I offer (for) the death of the Raksases;
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ह॒तꣳ रख्षः॑ ।
+ह॒तꣳ रक्षः॑ ।
 </details>
 <details><summary>Keith</summary>
 
@@ -451,7 +451,7 @@ the Raksases are slain
 </details>
 <details><summary>मूलम्</summary>
 
-ह॒तꣳ रख्षः॑ ।
+ह॒तꣳ रक्षः॑ ।
 </details>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -459,7 +459,7 @@ the Raksases are slain
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अव॑धिष्म॒ रख्षः॑ ।  
+अव॑धिष्म॒ रक्षः॑ ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -467,7 +467,7 @@ we have killed the Raksases.
 </details>
 <details><summary>मूलम्</summary>
 
-अव॑धिष्म॒ रख्षः॑ ।  
+अव॑धिष्म॒ रक्षः॑ ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -475,7 +475,7 @@ we have killed the Raksases.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् वस्ते॒+++(=परिधत्ते)+++ तद् दख्षि॑णा ॥ [13]
+यद् वस्ते॒+++(=परिधत्ते)+++ तद् दक्षि॑णा ॥ [13]
 </details>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -483,7 +483,7 @@ The sacrificial fee is what he wears.
 </details>
 <details><summary>मूलम्</summary>
 
-यद्वस्ते॒ तद्दख्षि॑णा ॥ [13]
+यद्वस्ते॒ तद्दक्षि॑णा ॥ [13]
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

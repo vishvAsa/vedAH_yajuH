@@ -68,18 +68,18 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-यदख्ष्योः॑ ॥15॥  
+यदक्ष्योः॑ ॥15॥  
 स शा॑र्दू॒लः ।   
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदख्ष्यो॒स् स शा॑र्दू॒लः ।   
+यदक्ष्यो॒स् स शा॑र्दू॒लः ।   
 </details>
 
 <details><summary>मूलम्</summary>
 
-यदख्ष्यो॒स् स शा॑र्दू॒लः ।   
+यदक्ष्यो॒स् स शा॑र्दू॒लः ।   
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

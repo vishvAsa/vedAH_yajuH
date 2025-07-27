@@ -64,7 +64,7 @@ title = "०४ सूर्यन् ते"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒न्तरि॑ख्षमा॒त्मा ।  
+अ॒न्तरि॑क्षमा॒त्मा ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -75,7 +75,7 @@ title = "०४ सूर्यन् ते"
 
 <details><summary>मूलम्</summary>
 
-अ॒न्तरि॑ख्षमा॒त्मा ।  
+अ॒न्तरि॑क्षमा॒त्मा ।  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

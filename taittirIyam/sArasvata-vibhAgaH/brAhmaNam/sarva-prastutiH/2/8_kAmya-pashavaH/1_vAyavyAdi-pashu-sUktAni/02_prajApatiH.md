@@ -485,7 +485,7 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 यो रा॒य **ईशे॑** शतदा॒य उ॒क्थ्यः॑ ।   
-यᳶ प॑शू॒नाꣳ **र॑ख्षि॒ता** विष्ठि॑तानाम् ।  
+यᳶ प॑शू॒नाꣳ **र॑क्षि॒ता** विष्ठि॑तानाम् ।  
 प्र॒जाप॑तिᳶ प्रथम॒-जा ऋ॒तस्य॑ ॥ 4 ॥  
 स॒हस्र॑-धामा **जुषताꣳ** ह॒विर् नः॑ ।
 </details>
@@ -495,7 +495,7 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 <details><summary>मूलम्</summary>
 
 यो रा॒य ईशे॑ शतदा॒य उ॒क्थ्यः॑ ।   
-यᳶ प॑शू॒नाꣳ र॑ख्षि॒ता विष्ठि॑तानाम् ।  
+यᳶ प॑शू॒नाꣳ र॑क्षि॒ता विष्ठि॑तानाम् ।  
 प्र॒जाप॑तिᳶ प्रथम॒जा ऋ॒तस्य॑ ॥ 4 ॥  
 स॒हस्र॑धामा जुषताꣳ ह॒विर्नः॑ ।
 </details>

@@ -229,7 +229,7 @@ script: grantha
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/41_yatpAkatrA_manasA.md">
 <details open><summary><h4>41 यत्पाकत्रा मनसा ...{Loading}...</h4></summary>
 
-यत्पा॑क॒त्रा मन॑सा दी॒नद॑ख्षा॒ न ।  
+यत्पा॑क॒त्रा मन॑सा दी॒नद॑क्षा॒ न ।  
 य॒ज्ञस्य॑ म॒न्वते॒ मर्ता॑सः ।  
 अ॒ग्निष्टद्धोता॑ क्रतु॒विद्वि॑जा॒नन्न् ।  
 यजि॑ष्ठो दे॒वाꣳ ऋ॑तु॒शो य॑जाति ॥115॥

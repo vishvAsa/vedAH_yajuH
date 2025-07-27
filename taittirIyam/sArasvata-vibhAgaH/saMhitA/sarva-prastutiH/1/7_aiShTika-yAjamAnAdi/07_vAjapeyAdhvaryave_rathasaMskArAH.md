@@ -145,7 +145,7 @@ In her may the god Savitr instigate right for us.
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-अ॒फ्सु [32]अ॒न्तर॒मृत॑म॒फ्सु भे॑ष॒जम॒पामु॒त  प्रश॑स्ति॒ष्वश्वा॑ भवथ वाजिनः ॥
+अ॒प्सु [32]अ॒न्तर॒मृत॑म॒प्सु भे॑ष॒जम॒पामु॒त  प्रश॑स्ति॒ष्वश्वा॑ भवथ वाजिनः ॥
 </details>
 </details>
 </div>
@@ -156,7 +156,7 @@ In her may the god Savitr instigate right for us.
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/04_aphsv_antar.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-अ॒फ्स्व् अ॑न्तर् अ॒मृत॑म्, अ॒फ्सु भे॑ष॒जम्,  
+अ॒प्स्व् अ॑न्तर् अ॒मृत॑म्, अ॒प्सु भे॑ष॒जम्,  
 अ॒पाम् उ॒त प्रश॑स्ति॒षु … ।  
 अश्वा॑! भवथ वाजिनः!  ॥
 </details>
@@ -171,7 +171,7 @@ Be ye steeds, O ye that are strong.
 </details>
 <details><summary>मूलम्</summary>
 
-अ॒फ्स्व॑न्तर॒मृत॑म॒फ्सु भे॑ष॒जम॒पामु॒त प्रश॑स्ति॒षु ।  
+अ॒प्स्व॑न्तर॒मृत॑म॒प्सु भे॑ष॒जम॒पामु॒त प्रश॑स्ति॒षु ।  
 अश्वा॑ भवथ वाजिनः  ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>

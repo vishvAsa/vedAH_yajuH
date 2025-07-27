@@ -34,7 +34,7 @@ Go to the ocean, hail!
 ________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अन्तरि॑ख्षङ्गच्छ॒ स्वाहा॑ ।
+अन्तरि॑क्षङ्गच्छ॒ स्वाहा॑ ।
 </details>
 <details><summary>Keith</summary>
 
@@ -42,7 +42,7 @@ Go to the atmosphere, hail!
 </details>
 <details><summary>मूलम्</summary>
 
-अन्तरि॑ख्षङ्गच्छ॒ स्वाहा॑ ।
+अन्तरि॑क्षङ्गच्छ॒ स्वाहा॑ ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

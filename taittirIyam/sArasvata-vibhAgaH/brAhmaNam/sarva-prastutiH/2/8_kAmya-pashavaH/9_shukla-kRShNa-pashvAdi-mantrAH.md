@@ -72,7 +72,7 @@ unicode_script: devanagari
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
 पती॑ द्यु॒मद् वि॑श्व॒-विदा॑ उ॒भा दि॒वः ।   
-सूर्या॑ उ॒भा च॒न्द्रम॑सा विचख्ष॒णा ॥ 71 ॥  
+सूर्या॑ उ॒भा च॒न्द्रम॑सा विचक्ष॒णा ॥ 71 ॥  
 वि॒श्व-वा॑रा **वरिवा**+++(=पूजितौ)+++ +उ॒भा वरे॑ण्या ।  
 ता नो॑ **ऽवतम्** मति॒मन्ता॒ महि॑व्रता ।
 </details>
@@ -82,7 +82,7 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 पती॑ द्यु॒मद्वि॑श्व॒विदा॑ उ॒भा दि॒वः ।   
-सूर्या॑ उ॒भा च॒न्द्रम॑सा विचख्ष॒णा ॥ 71 ॥  
+सूर्या॑ उ॒भा च॒न्द्रम॑सा विचक्ष॒णा ॥ 71 ॥  
 वि॒श्ववा॑रा वरिवो॒भा वरे॑ण्या ।  
 ता नो॑ऽवतम्मति॒मन्ता॒ महि॑व्रता ।
 </details>
@@ -468,7 +468,7 @@ Die sieben Ströme wahren schutzreich seinen Ruhm, die weiten Erd' und Himmel se
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-यासा॑न्दे॒वा दि॒वि कृ॒ण्वन्ति॑ भ॒ख्षय्ँया अ॒न्तरि॑ख्षे बहु॒धा भव॑न्ति । याᳶ पृ॑थि॒वीम्पय॑सो॒न्दन्ति॑ [1]  
+यासा॑न्दे॒वा दि॒वि कृ॒ण्वन्ति॑ भ॒क्षय्ँया अ॒न्तरि॑क्षे बहु॒धा भव॑न्ति । याᳶ पृ॑थि॒वीम्पय॑सो॒न्दन्ति॑ [1]  
 शु॒क्रास्ता न॒ आप॒श्शꣳ स्यो॒ना भ॑वन्तु ।
 </details>
 </details>
@@ -476,13 +476,13 @@ Die sieben Ströme wahren schutzreich seinen Ruhm, die weiten Erd' und Himmel se
 <details><summary>मूलम्</summary>
 
 यासा॑न् दे॒वाश्  
-शि॒वेन॑ मा॒ चख्षु॑षा पश्यत ।
+शि॒वेन॑ मा॒ चक्षु॑षा पश्यत ।
 </details>
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/12_yAsAn_devA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-यासा॑न् दे॒वा दि॒वि **कृ॒ण्वन्ति॑** भ॒ख्षय्ँ -  
-या अ॒न्तरि॑ख्षे बहु॒धा **भव॑न्ति** ।  
+यासा॑न् दे॒वा दि॒वि **कृ॒ण्वन्ति॑** भ॒क्षय्ँ -  
+या अ॒न्तरि॑क्षे बहु॒धा **भव॑न्ति** ।  
 याᳶ पृ॑थि॒वीम् **पय॑सो॒न्दन्ति॑** शु॒क्रास् -  
 ता न॒ आप॒श् शꣳ स्यो॒ना **भ॑वन्तु** ।
 </details>
@@ -491,7 +491,7 @@ Die sieben Ströme wahren schutzreich seinen Ruhm, die weiten Erd' und Himmel se
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
-यासा॑न् दे॒वा दि॒वि कृ॒ण्वन्ति॑ भ॒ख्षय्ँ - या अ॒न्तरि॑ख्षे बहु॒धा भव॑न्ति ।  
+यासा॑न् दे॒वा दि॒वि कृ॒ण्वन्ति॑ भ॒क्षय्ँ - या अ॒न्तरि॑क्षे बहु॒धा भव॑न्ति ।  
 याᳶ पृ॑थि॒वीम् पय॑सो॒न्दन्ति॑ शु॒क्रास् - ता न॒ आप॒श् शꣳ स्यो॒ना भ॑वन्तु ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -500,16 +500,16 @@ Die sieben Ströme wahren schutzreich seinen Ruhm, die weiten Erd' und Himmel se
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-शि॒वेन॑ मा॒ चख्षु॑षा पश्यतापश्शि॒वया॑ त॒नुवोप॑ स्पृशत॒ त्वच॑म्मे । सर्वाꣳ॑ अ॒ग्नीꣳ र॑फ्सु॒षदो॑ हुवे वो॒ मयि॒ वर्चो॒ बल॒मोजो॒ नि ध॑त्त ।
+शि॒वेन॑ मा॒ चक्षु॑षा पश्यतापश्शि॒वया॑ त॒नुवोप॑ स्पृशत॒ त्वच॑म्मे । सर्वाꣳ॑ अ॒ग्नीꣳ र॑प्सु॒षदो॑ हुवे वो॒ मयि॒ वर्चो॒ बल॒मोजो॒ नि ध॑त्त ।
 </details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/16_shivena_mA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-शि॒वेन॑ मा॒ चख्षु॑षा **पश्यतापश्** -  
+शि॒वेन॑ मा॒ चक्षु॑षा **पश्यतापश्** -  
 शि॒वया॑ त॒नुवोप॑ **स्पृशत॒** त्वच॑म् मे ।  
-सर्वाꣳ॑ अ॒ग्नीꣳर् अ॑फ्सु॒-षदो॑ **हुवे** वो॒,  
+सर्वाꣳ॑ अ॒ग्नीꣳर् अ॑प्सु॒-षदो॑ **हुवे** वो॒,  
 मयि॒ वर्चो॒ बल॒म् ओजो॒ **नि ध॑त्त** ।
 </details>
 </div>
@@ -517,9 +517,9 @@ Die sieben Ströme wahren schutzreich seinen Ruhm, die weiten Erd' und Himmel se
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
-शि॒वेन॑ मा॒ चख्षु॑षा पश्यतापश् - शि॒वया॑ त॒नुवोप॑ स्पृशत॒ त्वच॑म् मे ।
+शि॒वेन॑ मा॒ चक्षु॑षा पश्यतापश् - शि॒वया॑ त॒नुवोप॑ स्पृशत॒ त्वच॑म् मे ।
 
-सर्वाꣳ॑ अ॒ग्नीꣳ र॑फ्सु॒षदो॑ हुवे वो॒, मयि॒ वर्चो॒ बल॒मोजो॒ नि ध॑त्त ।
+सर्वाꣳ॑ अ॒ग्नीꣳ र॑प्सु॒षदो॑ हुवे वो॒, मयि॒ वर्चो॒ बल॒मोजो॒ नि ध॑त्त ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -593,7 +593,7 @@ Die sieben Ströme wahren schutzreich seinen Ruhm, die weiten Erd' und Himmel se
 </div>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-आपो॒ हि ष्ठा म॑यो॒भुव॒स्ता न॑ ऊ॒र्जे द॑धातन । म॒हे रणा॑य॒ चख्ष॑से ।
+आपो॒ हि ष्ठा म॑यो॒भुव॒स्ता न॑ ऊ॒र्जे द॑धातन । म॒हे रणा॑य॒ चक्ष॑से ।
 </details>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/01_Apo_hi.md">
 <details open><summary><h2>०१ आपो हि ...{Loading}...</h2></summary>
@@ -2953,8 +2953,8 @@ Was war der Wald, und was war jener Baum doch, aus dem sie Erd' und Himmel schö
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/9_08-16_nAsadIyam/24_brahma_vanam.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
-ब्रह्म॒ वन॒म् ब्रह्म॒ स वृ॒ख्ष **आ॑सीत्** ॥ 76 ॥  
-यतो॒ द्यावा॑पृथि॒वी **नि॑ष्टत॒ख्षुः**+++(←तक्ष्)+++ ।   
+ब्रह्म॒ वन॒म् ब्रह्म॒ स वृ॒क्ष **आ॑सीत्** ॥ 76 ॥  
+यतो॒ द्यावा॑पृथि॒वी **नि॑ष्टत॒क्षुः**+++(←तक्ष्)+++ ।   
 मनी॑षिणो॒ मन॑सा॒ **विब्र॑वीमि** वः ।  
 **ब्रह्मा॒ध्यति॑ष्ठ॒द्** भुव॑नानि **धा॒रय॑न्न्** ।
 </details>
@@ -2963,8 +2963,8 @@ Was war der Wald, und was war jener Baum doch, aus dem sie Erd' und Himmel schö
 <details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
 <details><summary>मूलम्</summary>
 
-ब्रह्म॒ वन॒म्ब्रह्म॒ स वृ॒ख्ष आ॑सीत् ॥ 76 ॥  
-यतो॒ द्यावा॑पृथि॒वी नि॑ष्टत॒ख्षुः ।   
+ब्रह्म॒ वन॒म्ब्रह्म॒ स वृ॒क्ष आ॑सीत् ॥ 76 ॥  
+यतो॒ द्यावा॑पृथि॒वी नि॑ष्टत॒क्षुः ।   
 मनी॑षिणो॒ मन॑सा॒ विब्र॑वीमि वः ।  
 ब्रह्मा॒ध्यति॑ष्ठ॒द्भुव॑नानि धा॒रय॑न् ।
 </details>

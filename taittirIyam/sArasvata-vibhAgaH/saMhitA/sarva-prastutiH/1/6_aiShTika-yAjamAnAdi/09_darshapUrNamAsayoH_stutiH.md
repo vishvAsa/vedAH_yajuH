@@ -531,7 +531,7 @@ he surrounds the Vedi and he girds the wife (of the sacrificer);
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रोख्ष॑णीश् चाऽऽसा॒दय॑ति,  
+प्रोक्ष॑णीश् चाऽऽसा॒दय॑ति,  
 आज्य॑ञ्च ।
 </details>
 <details><summary>Keith</summary>
@@ -540,12 +540,12 @@ he puts in place the anointing waters and the melted butter.
 </details>
 <details><summary>मूलम्</summary>
 
-प्रोख्ष॑णीश्चाऽऽसा॒दय॑ति ।  
+प्रोक्ष॑णीश्चाऽऽसा॒दय॑ति ।  
 आज्य॑ञ्च  +++(अवसादयति)+++  ।
 </details>
 <details><summary>पद-पाठः</summary>
 
-प्रोख्ष॑णी॒रिति॑ प्र-उख्ष॑णीः । च॒ । आ॒सा॒दय॒तीत्या॑-सा॒दय॑ति ।   
+प्रोक्ष॑णी॒रिति॑ प्र-उक्ष॑णीः । च॒ । आ॒सा॒दय॒तीत्या॑-सा॒दय॑ति ।   
 आज्य॑म् । च॒ ।
 </details>
 

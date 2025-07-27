@@ -128,7 +128,7 @@ One candidate is the AV AraNyaka which was at least partly known down to the tim
 <details><summary>मूलम्</summary>
 
 विष्णो॒ त्वन्नो॒ अन्त॑म॒श्शर्म॑ यच्छ सहन्त्य ।   
-प्र ते॒ धारा॑ मधु॒श्चुत॒ उथ्स॑न्दुह्रते॒ अख्षि॑तम्॥
+प्र ते॒ धारा॑ मधु॒श्चुत॒ उथ्स॑न्दुह्रते॒ अक्षि॑तम्॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -141,7 +141,7 @@ One candidate is the AV AraNyaka which was at least partly known down to the tim
 <details><summary>मूलम्</summary>
 
 विष्णो॒ त्वन्नो॒ अन्त॑म॒श्शर्म॑ यच्छ सहन्त्य ।   
-प्र ते॒ धारा॑ मधु॒श्चुत॒ उथ्स॑न्दुह्रते॒ अख्षि॑तम्॥
+प्र ते॒ धारा॑ मधु॒श्चुत॒ उथ्स॑न्दुह्रते॒ अक्षि॑तम्॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

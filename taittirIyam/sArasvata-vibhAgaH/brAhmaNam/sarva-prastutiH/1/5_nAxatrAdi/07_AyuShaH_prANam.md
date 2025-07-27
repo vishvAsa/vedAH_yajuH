@@ -61,12 +61,12 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व्या॒नाच् चख्षु॒स् सन्त॑नु ।
+व्या॒नाच् चक्षु॒स् सन्त॑नु ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-व्या॒नाच् चख्षु॒स् सन्त॑नु ।
+व्या॒नाच् चक्षु॒स् सन्त॑नु ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -76,12 +76,12 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-चख्षु॑ष॒श् श्रोत्र॒ꣳ॒ सन्त॑नु ।
+चक्षु॑ष॒श् श्रोत्र॒ꣳ॒ सन्त॑नु ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-चख्षु॑ष॒श् श्रोत्र॒ꣳ॒ सन्त॑नु ।
+चक्षु॑ष॒श् श्रोत्र॒ꣳ॒ सन्त॑नु ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -126,13 +126,13 @@ unicode_script: devanagari
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ॒त्मन॑ᳶ पृथि॒वीꣳ सन्त॑नु ।
-पृ॒थि॒व्या अ॒न्तरि॑ख्ष॒ꣳ॒ सन्त॑नु ।
+पृ॒थि॒व्या अ॒न्तरि॑क्ष॒ꣳ॒ सन्त॑नु ।
 </details>
 
 <details><summary>मूलम्</summary>
 
 आ॒त्मन॑ᳶ पृथि॒वीꣳ सन्त॑नु ।
-पृ॒थि॒व्या अ॒न्तरि॑ख्ष॒ꣳ॒ सन्त॑नु ।
+पृ॒थि॒व्या अ॒न्तरि॑क्ष॒ꣳ॒ सन्त॑नु ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -142,13 +142,13 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒न्तरि॑ख्षा॒द् दिव॒ ꣳ॒सन्त॑नु ।
+अ॒न्तरि॑क्षा॒द् दिव॒ ꣳ॒सन्त॑नु ।
 दिव॒स् सुव॒स् सन्त॑नु ॥ 32 ॥  
 </details>
 
 <details><summary>मूलम्</summary>
 
-अ॒न्तरि॑ख्षा॒द् दिव॒ ꣳ॒सन्त॑नु ।
+अ॒न्तरि॑क्षा॒द् दिव॒ ꣳ॒सन्त॑नु ।
 दिव॒स् सुव॒स् सन्त॑नु ॥ 32 ॥  
 </details>
 

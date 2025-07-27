@@ -1714,7 +1714,7 @@ Ihm, diesem Indra, geben wir zum Mord des grossen Vritra Kraft; Der Held erweise
 
 गि॒रा वज्रो॒ न सम्भृ॑तः ।   
 सब॑लो॒ अन॑पच्युतः ।  
-व॒व॒ख्षुर् उ॒ग्रो अस्तृ॑तः ॥ 35 ॥
+व॒व॒क्षुर् उ॒ग्रो अस्तृ॑तः ॥ 35 ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/5_nAxatrAdi/08_atharva-shira-iShTakAH_indro_dadhIcho/208_girA_vajro.md">
@@ -1723,7 +1723,7 @@ Ihm, diesem Indra, geben wir zum Mord des grossen Vritra Kraft; Der Held erweise
 
 गि॒रा वज्रो॒ न **सम्भृ॑तः** ।   
 सब॑लो॒ **अन॑पच्युतः** ।  
-**व॒व॒ख्षुर्**+++(←बह्)+++ उ॒ग्रो **अस्तृ॑तः** ॥ 35 ॥
+**व॒व॒क्षुर्**+++(←बह्)+++ उ॒ग्रो **अस्तृ॑तः** ॥ 35 ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

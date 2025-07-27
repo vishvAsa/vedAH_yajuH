@@ -295,7 +295,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒मु॒द्रस्य॒॑ वो ऽख्षि॑त्या॒ उन्न॑ये ।
+स॒मु॒द्रस्य॒॑ वो ऽक्षि॑त्या॒ उन्न॑ये ।
 </details>
 <details><summary>Keith</summary>
 
@@ -303,7 +303,7 @@ I draw you for the sustenance of the waters.
 </details>
 <details><summary>मूलम्</summary>
 
-स॒मु॒द्रस्य॒॑ वोऽख्षि॑त्या॒ उन्न॑ये ।
+स॒मु॒द्रस्य॒॑ वोऽक्षि॑त्या॒ उन्न॑ये ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

@@ -129,13 +129,13 @@ title = "०८ अग्निर् यजुर्भिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सोमो॑ दी॒ख्षया॑ ।  
+सोमो॑ दी॒क्षया॑ ।  
 (11)  
 </details>
 
 <details><summary>मूलम्</summary>
 
-सोमो॑ दी॒ख्षया॑ ।  
+सोमो॑ दी॒क्षया॑ ।  
 (11)  
 </details>
 
@@ -177,12 +177,12 @@ title = "०८ अग्निर् यजुर्भिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ॒दि॒त्या दख्षि॑णाभिः ।  
+आ॒दि॒त्या दक्षि॑णाभिः ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
-आ॒दि॒त्या दख्षि॑णाभिः ।  
+आ॒दि॒त्या दक्षि॑णाभिः ।  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

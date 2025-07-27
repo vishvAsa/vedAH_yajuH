@@ -341,7 +341,7 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 यम् +++(सोमं)+++ आ॑दि॒त्या अ॒ꣳ॒शुम् **आ॑प्या॒यय॑न्ति॒**  
-यम् अख्षि॑त॒म् अख्षि॑तय॒ᳶ **पिब॑न्ति** ।  
+यम् अक्षि॑त॒म् अक्षि॑तय॒ᳶ **पिब॑न्ति** ।  
 तेन॑ नो॒ राजा॒ वरु॑णो॒ बृह॒स्-पति॒र्  
 **आ प्या॑ययन्तु॒** भुव॑नस्य गो॒पाः ।
 </details>
@@ -350,7 +350,7 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
-यमा॑दि॒त्या अ॒ꣳ॒शुमा॑प्या॒यय॑न्ति॒ यमख्षि॑त॒मख्षि॑तय॒ᳶ पिब॑न्ति ।  
+यमा॑दि॒त्या अ॒ꣳ॒शुमा॑प्या॒यय॑न्ति॒ यमक्षि॑त॒मक्षि॑तय॒ᳶ पिब॑न्ति ।  
 तेन॑ नो॒ राजा॒ वरु॑णो॒ बृह॒स्पति॒रा प्या॑ययन्तु॒ भुव॑नस्य गो॒पाः ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -360,7 +360,7 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 प्राच्या॑न्दि॒शि त्वमि॑न्द्रासि॒ राजो॒तोदी॑च्याव्ँवृत्रहन्वृत्र॒हासि॑ ।   
-यत्र॒ यन्ति॑ स्रो॒त्यास्तत् [44] जि॒तन्ते॑  दख्षिण॒तो वृ॑ष॒भ ए॑धि॒ हव्यः॑ ।
+यत्र॒ यन्ति॑ स्रो॒त्यास्तत् [44] जि॒तन्ते॑  दक्षिण॒तो वृ॑ष॒भ ए॑धि॒ हव्यः॑ ।
 </details>
 </details>
 </div>
@@ -374,7 +374,7 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 प्राच्या॑न् दि॒शि त्वम् **इ॑न्द्रासि॒**  
 राजा॑ +++(वरुणनक्षत्रे शतभिषजि)+++, +उ॒तोदी॑च्याव्ँ +++(→ऊर्ध्वम् अपि वक्रे नक्षत्रचक्रे)+++ वृत्र-हन् **वृत्र॒हासि॑** +++(ज्येष्ठायाम्)+++।   
 यत्र॒ यन्ति॑ स्रो॒त्यास् तज् **जि॒तन्** ते॑  
-दख्षिण॒तो+++(→अधो ऽपि)+++ वृ॑ष॒भ +++(→रोहिण्या ज्येष्ठा-विपरीतया सह)+++ **ए॑धि॒** +++(उदयेन)+++ हव्यः॑ ।
+दक्षिण॒तो+++(→अधो ऽपि)+++ वृ॑ष॒भ +++(→रोहिण्या ज्येष्ठा-विपरीतया सह)+++ **ए॑धि॒** +++(उदयेन)+++ हव्यः॑ ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/2/4/14_kAmyeShTiyAjyApuronuvAkyAH/28_prAchyAn_dishi.md">
@@ -383,7 +383,7 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 
 प्राच्या॑न्दि॒शि त्वमि॑न्द्रासि॒ राजो॒तोदी॑च्याव्ँवृत्रहन्वृत्र॒हासि॑ ।   
 यत्र॒ यन्ति॑ स्रो॒त्यास्तज्जि॒तन्ते॑ ..  
-दख्षिण॒तो वृ॑ष॒भ ए॑धि॒ हव्यः॑ ।
+दक्षिण॒तो वृ॑ष॒भ ए॑धि॒ हव्यः॑ ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -437,9 +437,9 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 
 
 अ॒स्येद् ए॒व **प्र रि॑रिचे** महि॒त्वन्  
-दि॒वᳶ पृ॑थि॒व्याᳶ पर्य् अ॒न्तरि॑ख्षात् +++(स्वस्मिन् पूरणाय)+++।   
+दि॒वᳶ पृ॑थि॒व्याᳶ पर्य् अ॒न्तरि॑क्षात् +++(स्वस्मिन् पूरणाय)+++।   
 स्व॒-राड् इन्द्रो॒ दम॒ आ वि॒श्व-गू॑र्तस्+++(←गुर् उद्यमने)+++  
-स्व॒रिर्+++(=स्वरणीयः)+++ अम॑-त्रो+++(←अम् गतिशब्दादौ)+++ **ववख्षे॒**+++(←वह्)+++ रणा॑य ।
+स्व॒रिर्+++(=स्वरणीयः)+++ अम॑-त्रो+++(←अम् गतिशब्दादौ)+++ **ववक्षे॒**+++(←वह्)+++ रणा॑य ।
 
 </details>
 </div>
@@ -3217,8 +3217,8 @@ Es fahren sieben Stuten dich, o Sonnengott, weitschauender, Im Wagen dich lichth
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-चि॒त्रन्दे॒वाना॒मुद॑गा॒दनी॑क॒ञ्चख्षु॑र्मि॒त्रस्य॒ वरु॑णस्या॒ग्नेः ।   
-आऽप्रा॒ द्यावा॑पृथि॒वी अ॒न्तरि॑ख्ष॒ꣳ॒ सूर्य॑ आ॒त्मा जग॑तस्त॒स्थुषः॑ [47] च॒ ।
+चि॒त्रन्दे॒वाना॒मुद॑गा॒दनी॑क॒ञ्चक्षु॑र्मि॒त्रस्य॒ वरु॑णस्या॒ग्नेः ।   
+आऽप्रा॒ द्यावा॑पृथि॒वी अ॒न्तरि॑क्ष॒ꣳ॒ सूर्य॑ आ॒त्मा जग॑तस्त॒स्थुषः॑ [47] च॒ ।
 </details>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/115/01_chitraM_devAnAmudagAdanIkaM.md">
 <details open><summary><h5>०१ चित्रं देवानामुदगादनीकं ...{Loading}...</h5></summary>

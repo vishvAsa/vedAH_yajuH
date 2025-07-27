@@ -297,11 +297,11 @@ _______
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-वाग॑स्यै॒न्द्री स॑पत्न॒ख्षय॑णी [5]वा॒चा मे॑न्द्रि॒येणाऽऽवि॑श 
+वाग॑स्यै॒न्द्री स॑पत्न॒क्षय॑णी [5]वा॒चा मे॑न्द्रि॒येणाऽऽवि॑श 
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वाग् अ॑सि स॑पत्न॒-ख्षय॑णी।  
+वाग् अ॑सि स॑पत्न॒-क्षय॑णी।  
 वा॒चा मे॑न्द्रि॒येणाऽऽवि॑श। 
 </details>
 <details><summary>Keith</summary>
@@ -310,7 +310,7 @@ Thou art speech, derived from Indra, destroying the foe [2]; do thou enter me wi
 </details>
 <details><summary>मूलम्</summary>
 
-वाग॑सि स॑पत्न॒ख्षय॑णी।  
+वाग॑सि स॑पत्न॒क्षय॑णी।  
 वा॒चा मे॑न्द्रि॒येणाऽऽवि॑श।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -493,7 +493,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्नीषोम॑योर् अ॒हन् दे॑व-य॒ज्यया॒ चख्षु॑ष्मान् भूयासम्।
+अ॒ग्नीषोम॑योर् अ॒हन् दे॑व-य॒ज्यया॒ चक्षु॑ष्मान् भूयासम्।
 </details>
 <details><summary>Keith</summary>
 
@@ -501,7 +501,7 @@ By sacrifice to the gods, Agni and Soma, may I be possessed of sight.
 </details>
 <details><summary>मूलम्</summary>
 
-अ॒ग्नीषोम॑योर॒हन्दे॑वय॒ज्यया॒ चख्षु॑ष्मान्भूयासम्।
+अ॒ग्नीषोम॑योर॒हन्दे॑वय॒ज्यया॒ चक्षु॑ष्मान्भूयासम्।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

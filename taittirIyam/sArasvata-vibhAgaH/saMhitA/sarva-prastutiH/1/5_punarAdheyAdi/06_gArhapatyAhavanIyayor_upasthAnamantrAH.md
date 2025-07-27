@@ -42,7 +42,7 @@ May they all be in our house.
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-अम्भ॒स्स्थाम्भो॑ वो भख्षीय॒ मह॑स्स्थ॒ महो॑ वो भख्षीय॒ सह॑स्स्थ॒ सहो॑ वो भख्षी॒योर्ज॒स्स्थोर्ज॑व्ँवो भख्षीय॒ रेव॑ती॒ रम॑ध्वम॒स्मिल्ँ लो॒के॑ऽस्मिन्गो॒ष्ठे॑ऽस्मिन्ख्षये॒ऽस्मिन् योना॑वि॒हैव स्ते॒तो माऽप॑ गात ब॒ह्वीर्मे॑ भूयास्त
+अम्भ॒स्स्थाम्भो॑ वो भक्षीय॒ मह॑स्स्थ॒ महो॑ वो भक्षीय॒ सह॑स्स्थ॒ सहो॑ वो भक्षी॒योर्ज॒स्स्थोर्ज॑व्ँवो भक्षीय॒ रेव॑ती॒ रम॑ध्वम॒स्मिल्ँ लो॒के॑ऽस्मिन्गो॒ष्ठे॑ऽस्मिन्क्षये॒ऽस्मिन् योना॑वि॒हैव स्ते॒तो माऽप॑ गात ब॒ह्वीर्मे॑ भूयास्त
 </details>
 </details>
 </div>
@@ -56,7 +56,7 @@ _______
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(पशवः!)+++ अम्भ॑स् स्थ।  
-अम्भो॑ वो भख्षीय।
+अम्भो॑ वो भक्षीय।
 </details>
 <details><summary>Keith</summary>
 
@@ -66,7 +66,7 @@ may I share your water.
 <details><summary>मूलम्</summary>
 
 अम्भ॑स्स्थ।  
-अम्भो॑ वो भख्षीय।
+अम्भो॑ वो भक्षीय।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -78,7 +78,7 @@ may I share your water.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(पशवः!)+++ मह॑स् स्थ॒, महो॑ वो भख्षीय ।
++++(पशवः!)+++ मह॑स् स्थ॒, महो॑ वो भक्षीय ।
 </details>
 <details><summary>Keith</summary>
 
@@ -86,7 +86,7 @@ Ye are greatness, may I share your greatness;
 </details>
 <details><summary>मूलम्</summary>
 
-मह॑स्स्थ॒ महो॑ वो भख्षीय ।
+मह॑स्स्थ॒ महो॑ वो भक्षीय ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -94,7 +94,7 @@ Ye are greatness, may I share your greatness;
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(पशवः!)+++ सह॑स्स्थ॒ - सहो॑ वो भख्षी॒य ।
++++(पशवः!)+++ सह॑स्स्थ॒ - सहो॑ वो भक्षी॒य ।
 </details>
 <details><summary>Keith</summary>
 
@@ -102,7 +102,7 @@ ye are might, may I share your might;
 </details>
 <details><summary>मूलम्</summary>
 
-सह॑स्स्थ॒ सहो॑ वो भख्षी॒य ।
+सह॑स्स्थ॒ सहो॑ वो भक्षी॒य ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -110,7 +110,7 @@ ye are might, may I share your might;
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(पशवः!)+++ ऊर्ज॑स् स्थ॒, ऊर्ज॑व्ँव भख्षीय ।
++++(पशवः!)+++ ऊर्ज॑स् स्थ॒, ऊर्ज॑व्ँव भक्षीय ।
 </details>
 <details><summary>Keith</summary>
 
@@ -118,7 +118,7 @@ ye are strength, may I share your strength.
 </details>
 <details><summary>मूलम्</summary>
 
-ऊर्ज॑स्स्थ॒, ऊर्ज॑व्ँव भख्षीय ।
+ऊर्ज॑स्स्थ॒, ऊर्ज॑व्ँव भक्षीय ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -130,7 +130,7 @@ ye are strength, may I share your strength.
 रेव॑ती॒+++(←रयिः)+++ रम॑ध्वम्
 अ॒स्मिन् लो॒के   
 अ॒स्मिन् गो॒ष्ठे   
-अ॒स्मिन् ख्षये॒  
+अ॒स्मिन् क्षये॒  
 ऽस्मिन् योनौ॑  ।  
 इ॒हैव स्त॑ ।  
 इ॒तो  माऽप॑ गात ।  
@@ -147,7 +147,7 @@ be many for me [1].
 रेव॑ती॒ रम॑ध्वम् 
 अ॒स्मिन्लो॒के   
 अ॒स्मिन्गो॒ष्ठे   
-अ॒स्मिन् ख्षये॒ऽस्मिन् योनौ॑  ।  
+अ॒स्मिन् क्षये॒ऽस्मिन् योनौ॑  ।  
 इ॒हैव स्त॑ ।  
 इ॒तो  माऽप॑ गात ।  
 ब॒ह्वीर्मे॑ भूयास्त [21] ।
@@ -793,7 +793,7 @@ Denn dich, o hellster, leuchtender, begehren wir zum Heil nun für die Freunde.
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 वसु॑र् अ॒ग्निर् वसु॑-श्रवाः ।  
-अच्छा॑ **नख्षि**+++(=प्राप्नुहि)+++ द्यु॒मत्त॑मो र॒यिन्दाः॑  ॥
+अच्छा॑ **नक्षि**+++(=प्राप्नुहि)+++ द्यु॒मत्त॑मो र॒यिन्दाः॑  ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/107_vasur_agnir.md">
@@ -806,7 +806,7 @@ Come hither in thy greatest splendour and give us wealth.
 <details><summary>मूलम्</summary>
 
 वसु॑र॒ग्निर्वसु॑श्रवाः ।  
-अच्छा॑ नख्षि द्यु॒मत्त॑मो र॒यिन्दाः॑  ॥
+अच्छा॑ नक्षि द्यु॒मत्त॑मो र॒यिन्दाः॑  ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

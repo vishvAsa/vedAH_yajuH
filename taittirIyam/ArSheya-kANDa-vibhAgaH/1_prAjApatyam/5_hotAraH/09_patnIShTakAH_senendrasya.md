@@ -64,12 +64,12 @@ title = "०९ पत्नीष्टकाः सेनेन्द्रस
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दी॒ख्षा सोम॑स्य ।  
+दी॒क्षा सोम॑स्य ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
-दी॒ख्षा सोम॑स्य ।  
+दी॒क्षा सोम॑स्य ।  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

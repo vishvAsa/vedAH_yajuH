@@ -89,7 +89,7 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/11_rathe_akhSheShu.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-रथे॑, अ॒ख्षेषु॑, वृष॒भस्य॒ वाजे॑ ।  
+रथे॑, अ॒क्षेषु॑, वृष॒भस्य॒ वाजे॑ ।  
 वाते॑, प॒र्जन्ये॒, वरु॑णस्य॒ शुष्मे॑ ।  
 इन्द्र॒य्ँ या दे॒वी सु॒भगा॑ **ज॒जान॑** ।  
 सा न॒ **आग॒न्** वर्च॑सा **सव्ँ विदा॒ना ।**
@@ -99,7 +99,7 @@ unicode_script: devanagari
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
-रथे॑ अ॒ख्षेषु॑ वृष॒भस्य॒ वाजे॑ ।  
+रथे॑ अ॒क्षेषु॑ वृष॒भस्य॒ वाजे॑ ।  
 वाते॑ प॒र्जन्ये॒ वरु॑णस्य॒ शुष्मे॑ ।  
 इन्द्र॒य्ँया दे॒वी सु॒भगा॑ ज॒जान॑ ।  
 सा न॒ आग॒न्वर्च॑सा सव्ँ विदा॒ना ।
@@ -402,7 +402,7 @@ unicode_script: devanagari
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 यतो॒ वातो॒ मनो॑जवाः ।   
-यतः॒ **ख्षर॑न्ति॒** सिन्ध॑वः ।  
+यतः॒ **क्षर॑न्ति॒** सिन्ध॑वः ।  
 तासा॑न् त्वा॒ सर्वा॑साꣳ रु॒चा ।  
 **अ॒भिषि॑ञ्चामि॒** वर्च॑सा ।
 </details>
@@ -412,7 +412,7 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 यतो॒ वातो॒ मनो॑जवाः ।   
-यतः॒ ख्षर॑न्ति॒ सिन्ध॑वः ।  
+यतः॒ क्षर॑न्ति॒ सिन्ध॑वः ।  
 तासा॑न्त्वा॒ सर्वा॑साꣳ रु॒चा ।  
 अ॒भिषि॑ञ्चामि॒ वर्च॑सा ।
 </details>
