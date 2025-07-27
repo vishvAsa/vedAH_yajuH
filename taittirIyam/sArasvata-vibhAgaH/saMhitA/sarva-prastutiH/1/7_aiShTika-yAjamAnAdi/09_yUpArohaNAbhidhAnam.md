@@ -196,7 +196,7 @@ May life accord with the sacrifice, may expiration accord with the sacrifice, ma
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-सुव॑र्दे॒वाꣳ अ॑गन्मा॒मृता॑ अभूम प्र॒जाप॑तेᳶ प्र॒जा अ॑भूम॒ सम॒हम्प्र॒जया॒ सम्मया᳚ प्र॒जा </details>
+सुव॑र्दे॒वाꣳ अ॑गन्मा॒मृता॑ अभूम प्र॒जाप॑तेᳶ प्र॒जा अ॑भूम॒ सम॒हम्प्र॒जया॒ सम्मया॑ प्र॒जा </details>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 17आरुह्य बाहू उद्गृह्णाति - सुवरिति ॥ 
@@ -262,7 +262,7 @@ we have become the offspring of Prajapati.
 <details open><summary><h5>समहम् प्रजया ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सम् अ॒हम् प्र॒जया᳚  +++(भूयासम्)+++  ।
+सम् अ॒हम् प्र॒जया॑  +++(भूयासम्)+++  ।
 </details>
 <details><summary>Keith</summary>
 
@@ -270,7 +270,7 @@ May I be united with offspring,
 </details>
 <details><summary>मूलम्</summary>
 
-सम॒हम्प्र॒जया᳚  +++(भूयासम्)+++  ।
+सम॒हम्प्र॒जया॑  +++(भूयासम्)+++  ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -282,7 +282,7 @@ ___________
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सम् मया᳚ प्र॒जा  +++(भूयात्)+++ ।
+सम् मया॑ प्र॒जा  +++(भूयात्)+++ ।
 </details>
 <details><summary>Keith</summary>
 
@@ -290,7 +290,7 @@ offspring with me.
 </details>
 <details><summary>मूलम्</summary>
 
-सम्मया᳚ प्र॒जा  +++(भूयात्)+++ ।
+सम्मया॑ प्र॒जा  +++(भूयात्)+++ ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -338,7 +338,7 @@ _____________
 </div>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-अन्ना॑य त्वा॒ऽन्नाद्या॑य त्वा॒ वाजा॑य त्वा वाजजि॒त्यायै᳚ त्वा॒ऽमृत॑मसि॒ पुष्टि॑रसि प्र॒जन॑नमसि ॥
+अन्ना॑य त्वा॒ऽन्नाद्या॑य त्वा॒ वाजा॑य त्वा वाजजि॒त्यायै॑ त्वा॒ऽमृत॑मसि॒ पुष्टि॑रसि प्र॒जन॑नमसि ॥
 </details>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -349,7 +349,7 @@ _____________
 अन्ना॑य त्वा  +++(हन्मि)+++ ।  
 अन्नाद्या॑य त्वा  +++(हन्मि)+++ ।  
 वाजा॑य त्वा  +++(हन्मि)+++ ।  
-वाज-जि॒त्यायै᳚ त्वा  +++(हन्मि)+++ ।  
+वाज-जि॒त्यायै॑ त्वा  +++(हन्मि)+++ ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -363,7 +363,7 @@ For the conquering of strength thee!
 अन्ना॑य त्वा  +++(हन्मि)+++ ।  
 अन्नाद्या॑य त्वा  +++(हन्मि)+++ ।  
 वाजा॑य त्वा  +++(हन्मि)+++ ।  
-वाजजि॒त्यायै᳚ त्वा  +++(हन्मि)+++ ।  
+वाजजि॒त्यायै॑ त्वा  +++(हन्मि)+++ ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

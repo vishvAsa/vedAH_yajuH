@@ -156,7 +156,7 @@ The pure I purify you with the pure, the bright with the bright, the immortal wi
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/12_jala-saMskArAdi/05_sadhamAdo_dyumninIr.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-**स॒ध॒+++(=सह)+++-मादो᳚** द्यु॒म्निनी॒र् ऊर्ज॑ ए॒ता  
+**स॒ध॒+++(=सह)+++-मादो॑** द्यु॒म्निनी॒र् ऊर्ज॑ ए॒ता  
 अनि॑भृष्टा अप॒स्युवो॒+++(=अपस्=कर्म-कामाः)+++ **वसा॑नः** ।    
 प॒स्त्या॑सु+++(=गृह-भूतासु)+++ **चक्रे॒** वरु॑णस् स॒धस्थ॑म्  
 अ॒पाꣳ शिशुः॑ मा॒तृत॑मास्व् अ॒न्तः  ॥
@@ -173,7 +173,7 @@ The child [1] of the waters in those most motherly.
 </details>
 <details><summary>मूलम्</summary>
 
-स॒ध॒मादो᳚ द्यु॒म्निनी॒रूर्ज॑ ए॒ता अनि॑भृष्टा अप॒स्युवो॒ वसा॑नः ।    
+स॒ध॒मादो॑ द्यु॒म्निनी॒रूर्ज॑ ए॒ता अनि॑भृष्टा अप॒स्युवो॒ वसा॑नः ।    
 प॒स्त्या॑सु चक्रे॒ वरु॑णस्स॒धस्थ॑म॒पाꣳ शिशुः॑ [21]  मा॒तृत॑मास्व॒न्तः  ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -281,7 +281,7 @@ notified is Pusan, all knower;
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आवि॑न्नौ  मि॒त्रा-वरु॑णाव् ऋता॒-वृधौ᳚ ।
+आवि॑न्नौ  मि॒त्रा-वरु॑णाव् ऋता॒-वृधौ॑ ।
 </details>
 <details><summary>Keith</summary>
 
@@ -289,7 +289,7 @@ notified are Mitra and Varuna, increasing holy order;
 </details>
 <details><summary>मूलम्</summary>
 
-आवि॑न्नौ  मि॒त्रावरु॑णावृता॒वृधौ᳚ ।
+आवि॑न्नौ  मि॒त्रावरु॑णावृता॒वृधौ॑ ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -329,7 +329,7 @@ notified is the goddess Aditi, of all forms;
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आवि॑न्नो॒ ऽयम् अ॒साव् आ॑मुष्याय॒णो᳚  
+आवि॑न्नो॒ ऽयम् अ॒साव् आ॑मुष्याय॒णो॑  
 ऽस्याव्ँ वि॒श्य्  
 अ॑स्मिन् रा॒ष्ट्रे  …
 </details>
@@ -339,7 +339,7 @@ notified is he, N. N., descendant of N. N., in this folk, this kingdom, for grea
 </details>
 <details><summary>मूलम्</summary>
 
-आवि॑न्नो॒ऽयम॒सावा॑मुष्याय॒णो᳚ऽस्याव्ँवि॒श्य॑स्मिन्रा॒ष्ट्रे
+आवि॑न्नो॒ऽयम॒सावा॑मुष्याय॒णो॑ऽस्याव्ँवि॒श्य॑स्मिन्रा॒ष्ट्रे
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -501,11 +501,11 @@ Ye are overcomers of foes.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पा॒त मा᳚ प्र॒त्यञ्च॑म्  ।   
+पा॒त मा॑ प्र॒त्यञ्च॑म्  ।   
 पा॒त मा॑ ति॒र्यञ्च॑म्  ।   
 अ॒न्वञ्च॑म् मा पात ।  
 दि॒ग्भ्यो मा॑ पात॒ ।   
-विश्वा᳚भ्यो मा ना॒ष्ट्राभ्यᳶ॑ पात  ।
+विश्वा॑भ्यो मा ना॒ष्ट्राभ्यᳶ॑ पात  ।
 </details>
 <details><summary>Keith</summary>
 
@@ -514,11 +514,11 @@ Protect me in front, protect me at the side, protect me from behind; from the qu
 </details>
 <details><summary>मूलम्</summary>
 
-पा॒त मा᳚ प्र॒त्यञ्च॑म्  ।   
+पा॒त मा॑ प्र॒त्यञ्च॑म्  ।   
 पा॒त मा॑ ति॒र्यञ्च॑म्  ।   
 अ॒न्वञ्च॑म्मा पात ।  
 दि॒ग्भ्यो मा॑ पात॒ ।   
-विश्वा᳚भ्यो मा ना॒ष्ट्राभ्यᳶ॑ पात  ।
+विश्वा॑भ्यो मा ना॒ष्ट्राभ्यᳶ॑ पात  ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -533,7 +533,7 @@ Protect me in front, protect me at the side, protect me from behind; from the qu
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/12_jala-saMskArAdi/06_hiraNyavarNAv_uShasAv.N.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-हिर॑ण्य-वर्णाव् उ॒षसा᳚व्ँ विरो॒के+++(←रुच्)+++  
+हिर॑ण्य-वर्णाव् उ॒षसा॑व्ँ विरो॒के+++(←रुच्)+++  
 ऽय॑स्-स्थूणा॒व् **उदि॑तौ॒** सूर्य॒स्य ।   
 **आरो॑हतव्ँ** वरुण मित्र॒ +++(रथ/ख-)+++गर्त॒न्  
 तत॑श् **चख्षाथा॒म्**+++(←चक्ष् वीक्षणे)+++ अदि॑ति॒न् दिति॑ञ् च ॥ [23]
@@ -550,7 +550,7 @@ And thence behold ye Aditi and Diti.
 </details>
 <details><summary>मूलम्</summary>
 
-हिर॑ण्यवर्णावु॒षसा᳚व्ँविरो॒केऽय॑स्स्थूणा॒वुदि॑तौ॒ सूर्य॒स्य ।   
+हिर॑ण्यवर्णावु॒षसा॑व्ँविरो॒केऽय॑स्स्थूणा॒वुदि॑तौ॒ सूर्य॒स्य ।   
 आरो॑हतव्ँवरुण मित्र॒ गर्त॒न्तत॑श्चख्षाथा॒मदि॑ति॒न्दिति॑ञ्च ॥ [23]
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>

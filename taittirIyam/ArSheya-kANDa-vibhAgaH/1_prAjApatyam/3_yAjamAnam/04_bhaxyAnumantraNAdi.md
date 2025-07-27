@@ -313,7 +313,7 @@ may the sacrifice reach the sky.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो दे॑व॒यान॒ᳶ पन्था॒स्, तेन॑ य॒ज्ञो दे॒वाꣳ अप्य् ए᳚तु ।
+यो दे॑व॒यान॒ᳶ पन्था॒स्, तेन॑ य॒ज्ञो दे॒वाꣳ अप्य् ए॑तु ।
 </details>
 <details><summary>Keith</summary>
 
@@ -321,7 +321,7 @@ The path that leadeth to the gods, along it may the sacrifice go to the gods.
 </details>
 <details><summary>मूलम्</summary>
 
-यो दे॑व॒यान॒ᳶ पन्था॒स्तेन॑ य॒ज्ञो दे॒वाꣳ अप्ये᳚तु ।
+यो दे॑व॒यान॒ᳶ पन्था॒स्तेन॑ य॒ज्ञो दे॒वाꣳ अप्ये॑तु ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -333,7 +333,7 @@ The path that leadeth to the gods, along it may the sacrifice go to the gods.
 अ॒स्मास्व् इन्द्र॑ **इन्द्रि॒यन् द॑धात्व्**  
 अ॒स्मान् **राय॑** उ॒त +++(उत्तरा)+++ य॒ज्ञास् **स॑चन्ताम्** +++(←समवाये)+++ ।   
 अ॒स्मासु॑ **सन्त्व् आ॒शिष॒स्**,  
-सा नᳶ॑ प्रि॒या सु॒प्रतू᳚र्तिर् म॒घोनी॒॥
+सा नᳶ॑ प्रि॒या सु॒प्रतू॑र्तिर् म॒घोनी॒॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/03_bhaxyAnumantraNAdi/02_asmAsv_indra.md">
@@ -348,7 +348,7 @@ To us be she dear, victorious, bountiful.
 <details><summary>मूलम्</summary>
 
 अ॒स्मास्विन्द्र॑ इन्द्रि॒यन्द॑धात्व॒स्मान्राय॑ उ॒त य॒ज्ञास्स॑चन्ताम् ।   
-अ॒स्मासु॑ सन्त्वा॒शिष॒स्सा नᳶ॑ प्रि॒या सु॒प्रतू᳚र्तिर्म॒घोनी॒॥
+अ॒स्मासु॑ सन्त्वा॒शिष॒स्सा नᳶ॑ प्रि॒या सु॒प्रतू॑र्तिर्म॒घोनी॒॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -462,7 +462,7 @@ _______
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-प्र॒जाप॑तेर्भा॒गो᳚ऽस्यूर्ज॑स्वा॒न्पय॑स्वान् प्राणापा॒नौ मे॑ पाहि 
+प्र॒जाप॑तेर्भा॒गो॑ऽस्यूर्ज॑स्वा॒न्पय॑स्वान् प्राणापा॒नौ मे॑ पाहि 
 </details>
 <details><summary>Keith</summary>
 
@@ -470,11 +470,11 @@ Thou art the portion of Prajapati,
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒जाप॑तेर् भा॒गो᳚ ऽसि ।
+प्र॒जाप॑तेर् भा॒गो॑ ऽसि ।
 </details>
 <details><summary>मूलम्</summary>
 
-प्र॒जाप॑तेर्भा॒गो᳚ऽसि ।
+प्र॒जाप॑तेर्भा॒गो॑ऽसि ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -533,7 +533,7 @@ protect my out-breathing and cross-breathing.
 <details open><summary><h5>अक्षितोऽसि ...{Loading}...</h5></summary>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-अख्षि॑तो॒ऽस्यख्षि॑त्यै त्वा॒ मा मे᳚ ख्षेष्ठा अ॒मुत्रा॒मुष्मि॑न्लो॒के  ॥
+अख्षि॑तो॒ऽस्यख्षि॑त्यै त्वा॒ मा मे॑ ख्षेष्ठा अ॒मुत्रा॒मुष्मि॑न्लो॒के  ॥
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -569,7 +569,7 @@ for imperishableness thee;
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मा मे᳚ ख्षेष्ठा अ॒मुत्रा॒मुष्मि॑न् लो॒के  ॥  [10]
+मा मे॑ ख्षेष्ठा अ॒मुत्रा॒मुष्मि॑न् लो॒के  ॥  [10]
 </details>
 <details><summary>Keith</summary>
 
@@ -577,7 +577,7 @@ mayst thou not perish for me, yonder, in yonder world.
 </details>
 <details><summary>मूलम्</summary>
 
-मा मे᳚ ख्षेष्ठा अ॒मुत्रा॒मुष्मि॑न्लो॒के  ॥  [10]
+मा मे॑ ख्षेष्ठा अ॒मुत्रा॒मुष्मि॑न्लो॒के  ॥  [10]
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

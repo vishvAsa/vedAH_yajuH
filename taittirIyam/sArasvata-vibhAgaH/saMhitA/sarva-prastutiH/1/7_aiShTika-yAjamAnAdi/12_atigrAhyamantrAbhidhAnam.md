@@ -235,8 +235,8 @@ this is thy birthplace; to Indra thee!
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/12_atigrAhyamantrAbhidhAnam/02_ye_grahAH.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-ये ग्रहाः᳚ पञ्चज॒नीना॒  
-येषा᳚न् ति॒स्रᳶ प॑रम॒जाः ।  
+ये ग्रहाः॑ पञ्चज॒नीना॒  
+येषा॑न् ति॒स्रᳶ प॑रम॒जाः ।  
 दैव्य॒ᳵ कोशः॒ [45] समु॑ब्जितः+++(=अधोमुखः)+++ ।  
 तेषा॒व्ँ विशि॑-प्रियाणा॒म्  
 इष॒म् ऊर्ज॒ꣳ॒ **सम॑ग्रभीम्**+++(←स्वरः??)+++ ।
@@ -254,7 +254,7 @@ The food and strength have I seized;
 </details>
 <details><summary>मूलम्</summary>
 
-ये ग्रहाः᳚ पञ्चज॒नीना॒ येषा᳚न्ति॒स्रᳶ प॑रम॒जाः ।  
+ये ग्रहाः॑ पञ्चज॒नीना॒ येषा॑न्ति॒स्रᳶ प॑रम॒जाः ।  
 दैव्य॒ᳵ कोशः॒ [45] समु॑ब्जितः ।  
 तेषा॒व्ँविशि॑प्रियाणा॒म्  इष॒मूर्ज॒ꣳ॒ सम॑ग्रभीम् ।
 </details>
@@ -368,8 +368,8 @@ this is thy birthplace; to Indra thee!
 
 अ॒या+++(=अनया)+++ वि॒-ष्ठा ज॒नय॒न् कर्व॑राणि॒+++(=कर्माणि)+++  
 स हि घृणि॑र्+++(←घृ सेके छादने वा)+++ उ॒रुर् वरा॑य गा॒तुः+++(=मार्गः)+++ ।  
-स **प्रत्य्-उदै᳚द्** ध॒रुणो॒ मध्वो॒ अग्र॒ꣵ॒  
-स्वाया॒य्ँ यत् त॒नुवा᳚न् +++(काम् अपि)+++ त॒नूम् **ऐर॑यत** ।
+स **प्रत्य्-उदै॑द्** ध॒रुणो॒ मध्वो॒ अग्र॒ꣵ॒  
+स्वाया॒य्ँ यत् त॒नुवा॑न् +++(काम् अपि)+++ त॒नूम् **ऐर॑यत** ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/12_atigrAhyamantrAbhidhAnam/04_ayA_viShThA.md">
@@ -384,7 +384,7 @@ What time he moved a body in his own body.
 <details><summary>मूलम्</summary>
 
 अ॒या वि॒ष्ठा ज॒नय॒न्कर्व॑राणि॒ स हि घृणि॑रु॒रुर्वरा॑य गा॒तुः ।  
-स प्रत्युदै᳚द्ध॒रुणो॒ मध्वो॒ अग्र॒ꣵ॒ स्वाया॒य्ँयत्त॒नुवा᳚न्त॒नूमैर॑यत ।
+स प्रत्युदै॑द्ध॒रुणो॒ मध्वो॒ अग्र॒ꣵ॒ स्वाया॒य्ँयत्त॒नुवा॑न्त॒नूमैर॑यत ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

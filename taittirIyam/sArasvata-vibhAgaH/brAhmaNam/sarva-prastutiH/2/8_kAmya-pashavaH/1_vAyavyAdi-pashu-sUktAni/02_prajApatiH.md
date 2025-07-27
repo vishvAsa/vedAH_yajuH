@@ -372,7 +372,7 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/02_rayINAm_patiy.N.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-र॒यी॒णाम् पति॑य्ँ **यज॒तम्**+++(=यजनीयम्)+++ बृ॒हन्त᳚म् ।  
+र॒यी॒णाम् पति॑य्ँ **यज॒तम्**+++(=यजनीयम्)+++ बृ॒हन्त॑म् ।  
 अ॒स्मिन् भरे॒ नृत॑म॒व्ँ वाज॑+++(=अन्न)+++-**सातौ**+++(=दाने)+++ ।  
 प्र॒जा-प॑तिम् प्रथम॒-जाम् ऋ॒तस्य॑ ।   
 **यजा॑म** दे॒वम् अधि॑ नो **ब्रवीतु** ।
@@ -382,7 +382,7 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
-र॒यी॒णाम् पति॑य्ँ यज॒तम् बृ॒हन्त᳚म् ।  
+र॒यी॒णाम् पति॑य्ँ यज॒तम् बृ॒हन्त॑म् ।  
 अ॒स्मिन्भरे॒ नृत॑म॒व्ँवाज॑सातौ ।  
 प्र॒जाप॑तिम्प्रथम॒जामृ॒तस्य॑ ।   
 यजा॑म दे॒वमधि॑ नो ब्रवीतु ।
@@ -401,7 +401,7 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 प्रजा॑-पते॒ त्वन् नि॑धि॒-**पाᳶ** पु॑रा॒णः ।  
-दे॒वाना᳚म् पि॒ता, ज॑नि॒ता प्र॒जाना᳚म् ।  
+दे॒वाना॑म् पि॒ता, ज॑नि॒ता प्र॒जाना॑म् ।  
 पति॒र् विश्व॑स्य॒, जग॑तᳶ पर॒स्-**पाः**+++(=पालकः)+++ ।   
 ह॒विर् नो॑ देव विह॒वे+++(=यज्ञे)+++ **जु॑षस्व** ।
 </details>
@@ -411,7 +411,7 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 <details><summary>मूलम्</summary>
 
 प्रजा॑पते॒ त्वन्नि॑धि॒पाᳶ पु॑रा॒णः ।  
-दे॒वाना᳚म्पि॒ता ज॑नि॒ता प्र॒जाना᳚म् ।  
+दे॒वाना॑म्पि॒ता ज॑नि॒ता प्र॒जाना॑म् ।  
 पति॒र्विश्व॑स्य॒ जग॑तᳶ पर॒स्पाः ।   
 ह॒विर्नो॑ देव विह॒वे जु॑षस्व ।
 </details>
@@ -458,7 +458,7 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 
 प्र॒जाप॑तिम् प्रथ॒मय्ँ य॒ज्ञिया॑नाम् ।  
 दे॒वाना॒म् अग्रे॑ यज॒तय्ँ **य॑जध्वम्** ।  
-स नो॑ **ददातु॒** द्रवि॑णꣳ सु॒वीर्य᳚म् ।  
+स नो॑ **ददातु॒** द्रवि॑णꣳ सु॒वीर्य॑म् ।  
 रा॒यस्-पोष॒व्ँ **वि ष्य॑तु॒**+++(=शिथिलयतु)+++ नाभि॑म्+++(=नहनं)+++ अ॒स्मे ।
 </details>
 </div>
@@ -468,7 +468,7 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 
 प्र॒जाप॑तिम् प्रथ॒मय्ँ य॒ज्ञिया॑नाम् ।  
 दे॒वाना॒मग्रे॑ यज॒तय्ँय॑जध्वम् ।  
-स नो॑ ददातु॒ द्रवि॑णꣳ सु॒वीर्य᳚म् ।  
+स नो॑ ददातु॒ द्रवि॑णꣳ सु॒वीर्य॑म् ।  
 रा॒यस्पोष॒व्ँवि ष्य॑तु॒ नाभि॑म॒स्मे ।
 </details>
 <details><summary>सायण-टीका</summary>

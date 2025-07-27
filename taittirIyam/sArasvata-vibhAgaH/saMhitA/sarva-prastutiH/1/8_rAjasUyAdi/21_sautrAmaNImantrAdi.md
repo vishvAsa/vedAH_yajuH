@@ -19,7 +19,7 @@ title = "२१ सौत्रामणीमन्त्रादि"
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/21_sautrAmaNImantrAdi/02_svAdvIn_tvA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-स्वा॒द्वीन् त्वा᳚ स्वा॒दुना॑  
+स्वा॒द्वीन् त्वा॑ स्वा॒दुना॑  
 ती॒व्रान् ती॒व्रेणा॒मृता॑म॒मृते॑न।  
 सृ॒जामि॒ सम्॥
 </details>
@@ -32,7 +32,7 @@ the sacrificial fee is the northern drawer of the chariot stand.
 </details>
 <details><summary>मूलम्</summary>
 
-स्वा॒द्वीन्त्वा᳚ स्वा॒दुना॑ ती॒व्रान्ती॒व्रेणा॒मृता॑म॒मृते॑न सृ॒जामि॒ सम्
+स्वा॒द्वीन्त्वा॑ स्वा॒दुना॑ ती॒व्रान्ती॒व्रेणा॒मृता॑म॒मृते॑न सृ॒जामि॒ सम्
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -41,7 +41,7 @@ the sacrificial fee is the northern drawer of the chariot stand.
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-सोमे॑न॒ सोमो᳚ऽस्य॒श्विभ्या᳚म्पच्यस्व॒ सर॑स्वत्यै पच्य॒स्वेन्द्रा॑य सु॒त्राम्णे॑ पच्यस्व
+सोमे॑न॒ सोमो॑ऽस्य॒श्विभ्या॑म्पच्यस्व॒ सर॑स्वत्यै पच्य॒स्वेन्द्रा॑य सु॒त्राम्णे॑ पच्यस्व
 </details>
 </details>
 </div>
@@ -51,8 +51,8 @@ the sacrificial fee is the northern drawer of the chariot stand.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सोमे॑न॒ सोमो᳚ऽसि।
-अ॒श्विभ्या᳚म् पच्यस्व।  
+सोमे॑न॒ सोमो॑ऽसि।
+अ॒श्विभ्या॑म् पच्यस्व।  
 सर॑स्वत्यै पच्यस्व ।  
 इन्द्रा॑य सु॒-त्राम्णे॑ पच्यस्व ।  
 </details>
@@ -62,9 +62,9 @@ thou art Soma; be ready for the Aśvins, be ready for Sarasvati, be ready for In
 </details>
 <details><summary>मूलम्</summary>
 
-सोमे॑न॒ सोमो᳚ऽसि।  
+सोमे॑न॒ सोमो॑ऽसि।  
 
-अ॒श्विभ्या᳚म्पच्यस्व।  
+अ॒श्विभ्या॑म्पच्यस्व।  
 
 सर॑स्वत्यै पच्यस्व ।  
 
@@ -85,7 +85,7 @@ thou art Soma; be ready for the Aśvins, be ready for Sarasvati, be ready for In
 
 **पु॒नातु॑** ते **परि॒स्रुत॒ꣳ॒**  
 +++(सुरा-रूपं)+++ सोम॒ꣳ॒ सूर्य॑स्य दुहि॒ता ।  
-वारे॑ण॒+++(=वालेन)+++ शश्व॑ता॒ **तना᳚**+++(←तन्)+++  ॥
+वारे॑ण॒+++(=वालेन)+++ शश्व॑ता॒ **तना॑**+++(←तन्)+++  ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/21_sautrAmaNImantrAdi/03_punAtu_te.md">
@@ -99,7 +99,7 @@ With the eternal sieve.
 <details><summary>मूलम्</summary>
 
 पु॒नातु॑ ते परि॒स्रुत॒ꣳ॒ सोम॒ꣳ॒ सूर्य॑स्य दुहि॒ता ।  
-वारे॑ण॒ शश्व॑ता॒ तना᳚  ॥
+वारे॑ण॒ शश्व॑ता॒ तना॑  ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -130,7 +130,7 @@ With the eternal sieve.
 
 +++(वमने सादृश्येन)+++ वा॒युᳶ **पू॒तᳶ** प॒वित्रे॑ण  
 +++(वमनेन)+++ प्र॒त्यङ्ख् सोमो॒ **अति॑द्रुतः** ।   
-इन्द्र॑स्य॒ युज्य॒स् सखा᳚  ॥
+इन्द्र॑स्य॒ युज्य॒स् सखा॑  ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/21_sautrAmaNImantrAdi/04_vAyupH_pUtapH.md">
@@ -144,7 +144,7 @@ Indra's dear friend.
 <details><summary>मूलम्</summary>
 
 वा॒युᳶ पू॒तᳶ प॒वित्रे॑ण प्र॒त्यङ्ख्सोमो॒ अति॑द्रुतः ।   
-इन्द्र॑स्य॒ युज्य॒स्सखा᳚  ॥
+इन्द्र॑स्य॒ युज्य॒स्सखा॑  ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

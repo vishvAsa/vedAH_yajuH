@@ -969,7 +969,7 @@ ________________
 </div>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒ꣳ॒सर्पो᳚ऽसि ...   
+स॒ꣳ॒सर्पो॑ऽसि ...   
 </details>
 <details><summary>Keith</summary>
 
@@ -977,7 +977,7 @@ Thou art Samsarpa.
 </details>
 <details><summary>मूलम्</summary>
 
-स॒ꣳ॒सर्पो᳚ऽसि ...   
+स॒ꣳ॒सर्पो॑ऽसि ...   
  ॥ [15]  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>

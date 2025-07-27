@@ -26,7 +26,7 @@ unicode_script: devanagari
 
 अ॒हम॑स्मि प्रथम॒जा ऋ॒तस्य॑ ।  
 पूर्व॑न्दे॒वेभ्यो॑ अ॒मृत॑स्य॒ नाभिः॑ ।  
-यो मा॒ ददा॑ति॒ स इदे॒वमावाः᳚ ।  
+यो मा॒ ददा॑ति॒ स इदे॒वमावाः॑ ।  
 अ॒हमन्न॒मन्न॑न॒दन्त॑मद्मि ।
 </details>
 <details><summary>सायण-टीका</summary>
@@ -62,10 +62,10 @@ unicode_script: devanagari
 <details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
 <details><summary>मूलम्</summary>
 
-पूर्व॑म॒ग्नेरपि॑ दह॒त्यन्न᳚म् ।  
+पूर्व॑म॒ग्नेरपि॑ दह॒त्यन्न॑म् ।  
 य॒त्तौ हा॑साते अहमुत्त॒रेषु॑ ।  
-व्यात्त॑मस्य प॒शव॑स्सु॒जम्भ᳚म् ।  
-पश्य॑न्ति॒ धीरा॒ᳶ प्रच॑रन्ति॒ पाकाः᳚ ।
+व्यात्त॑मस्य प॒शव॑स्सु॒जम्भ॑म् ।  
+पश्य॑न्ति॒ धीरा॒ᳶ प्रच॑रन्ति॒ पाकाः॑ ।
 </details>
 <details><summary>सायण-टीका</summary>
 
@@ -104,7 +104,7 @@ unicode_script: devanagari
 <details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
 <details><summary>मूलम्</summary>
 
-जहा᳚म्य् अ॒न्यन् न ज॑हाम्य॒न्यम् ।  
+जहा॑म्य् अ॒न्यन् न ज॑हाम्य॒न्यम् ।  
 अ॒हमन्न॒व्ँ वश॒म् इच् च॑रामि ॥ 59 ॥  
 स॒मा॒नम् अर्थ॒म् पर्ये॑मि भु॒ञ्जत् ।  
 को माम् अन्न॑म् मनु॒ष्यो॑ दयेत ।
@@ -138,8 +138,8 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 परा॑के॒ अन्न॒न्निहि॑तल्ँ लो॒क ए॒तत् ।  
-विश्वै᳚र्दे॒वैᳶ पि॒तृभि॑र्गु॒प्तमन्न᳚म् ।  
-यद॒द्यते॑ लु॒प्यते॒ यत्प॑रो॒प्यते᳚ ।  
+विश्वै॑र्दे॒वैᳶ पि॒तृभि॑र्गु॒प्तमन्न॑म् ।  
+यद॒द्यते॑ लु॒प्यते॒ यत्प॑रो॒प्यते॑ ।  
 श॒त॒त॒मी सा त॒नूर्मे॑ बभूव ।
 </details>
 <details><summary>सायण-टीका</summary>
@@ -192,7 +192,7 @@ unicode_script: devanagari
 अन्नं॑ प्रा॒णम्, अन्न॑म् अपा॒नम् **आ॑हुः** ।  
 अन्नं॑ मृ॒त्युं तम् उ॑ जी॒वातु॑म् +++(=जीवनौषधिम्)+++ **आहुः** ।  
 अन्न॑म् ब्र॒ह्माणो॑ ज॒रस॑व्ँ **वदन्ति** ।  
-अन्न॑म् **आहुᳶ** प्र॒जन॑नम् प्र॒जाना᳚म् ।
+अन्न॑म् **आहुᳶ** प्र॒जन॑नम् प्र॒जाना॑म् ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_01-08_ahamasmi_prathamajA/22_annaM_prANam.md">
@@ -202,7 +202,7 @@ unicode_script: devanagari
 अन्न॑म्प्रा॒णमन्न॑मपा॒नमा॑हुः ।  
 अन्न॑म्मृ॒त्युन्तमु॑ जी॒वातु॑माहुः ।  
 अन्न॑म्ब्र॒ह्माणो॑ ज॒रस॑व्ँवदन्ति ।  
-अन्न॑माहुᳶ प्र॒जन॑नम्प्र॒जाना᳚म् ।
+अन्न॑माहुᳶ प्र॒जन॑नम्प्र॒जाना॑म् ।
 </details>
 <details><summary>सायण-टीका</summary>
 
@@ -782,9 +782,9 @@ Wenn Vāk [die Stimme], die Königin der Götter, unverständliche Worte [den Do
 <details><summary>मूलम्</summary>
 
 अ॒न॒न्तामन्ता॒दधि॒ निर्मि॑ताम्म॒हीम् ।  
-यस्या᳚न्दे॒वा अ॑दधु॒र्भोज॑नानि ।  
-एका᳚ख्षरान्द्वि॒पदा॒ꣳ॒ षट्प॑दाञ्च ।  
-वाच॑न्दे॒वा उप॑ जीवन्ति॒ विश्वे᳚ ।
+यस्या॑न्दे॒वा अ॑दधु॒र्भोज॑नानि ।  
+एका॑ख्षरान्द्वि॒पदा॒ꣳ॒ षट्प॑दाञ्च ।  
+वाच॑न्दे॒वा उप॑ जीवन्ति॒ विश्वे॑ ।
 </details>
 <details><summary>सायण-टीका</summary>
 
@@ -809,8 +809,8 @@ Wenn Vāk [die Stimme], die Königin der Götter, unverständliche Worte [den Do
 <details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
 <details><summary>मूलम्</summary>
 
-वाच॑न्दे॒वा उप॑ जीवन्ति॒ विश्वे᳚ ।  
-वाच॑ङ्गन्ध॒र्वाᳶ प॒शवो॑ मनु॒ष्याः᳚ ।   
+वाच॑न्दे॒वा उप॑ जीवन्ति॒ विश्वे॑ ।  
+वाच॑ङ्गन्ध॒र्वाᳶ प॒शवो॑ मनु॒ष्याः॑ ।   
 वा॒चीमा विश्वा॒ भुव॑ना॒न्यर्पि॑ता ॥ 62 ॥  
 सा नो॒ हव॑ञ्जुषता॒मिन्द्र॑पत्नी ।
 </details>
@@ -839,7 +839,7 @@ Wenn Vāk [die Stimme], die Königin der Götter, unverständliche Worte [den Do
 
 वाग॒ख्षर॑म्प्रथम॒जा ऋ॒तस्य॑ ।  
 वेदा॑नाम्मा॒ताऽमृत॑स्य॒ नाभिः॑ ।   
-सा नो॑ जुषा॒णोप॑ य॒ज्ञमागा᳚त् ।   
+सा नो॑ जुषा॒णोप॑ य॒ज्ञमागा॑त् ।   
 अव॑न्ती दे॒वी सु॒हवा॑ मे अस्तु ।
 </details>
 <details><summary>सायण-टीका</summary>
@@ -2157,7 +2157,7 @@ Den Glauben rufen Morgens wir, den Glauben in der Mittagszeit Den Glauben, wenn 
 
 श्र॒द्धा दे॒वानधि॑ **वस्ते** ।  
 श्र॒द्धा विश्व॑म् इ॒दञ् जग॑त् ।   
-श्र॒द्धाङ् काम॑स्य मा॒तर᳚म् ।   
+श्र॒द्धाङ् काम॑स्य मा॒तर॑म् ।   
 ह॒विषा॑ **वर्धयामसि** ।
 </details>
 </div>
@@ -2167,7 +2167,7 @@ Den Glauben rufen Morgens wir, den Glauben in der Mittagszeit Den Glauben, wenn 
 
 श्र॒द्धा दे॒वानधि॑ वस्ते ।  
 श्र॒द्धा विश्व॑मि॒दञ्जग॑त् ।   
-श्र॒द्धाङ्काम॑स्य मा॒तर᳚म् ।   
+श्र॒द्धाङ्काम॑स्य मा॒तर॑म् ।   
 ह॒विषा॑ वर्धयामसि ।
 </details>
 <details><summary>सायण-टीका</summary>
@@ -2207,7 +2207,7 @@ Den Glauben rufen Morgens wir, den Glauben in der Mittagszeit Den Glauben, wenn 
 
 <details><summary>तैत्तिरीयम् - मूलम्</summary>
 
-ब्रह्म॑ जज्ञा॒नम्प्र॑थ॒मम्पु॒रस्ता᳚त् ।   
+ब्रह्म॑ जज्ञा॒नम्प्र॑थ॒मम्पु॒रस्ता॑त् ।   
 वि सी॑म॒तस्सु॒रुचो॑ वे॒न आ॑वः ।   
 स बु॒ध्निया॑ उप॒ मा अ॑स्य वि॒ष्ठाः ॥ 66 ॥  
 स॒तश्च॒ योनि॒मस॑तश्च॒ विवः॑ ।
@@ -2299,7 +2299,7 @@ Den Glauben rufen Morgens wir, den Glauben in der Mittagszeit Den Glauben, wenn 
 ब्रह्म॑ दे॒वान् **अ॑जनयत्** ।  
 ब्रह्म॒ विश्व॑म् इ॒दञ् जग॑त् ।  
 ब्रह्म॑णः ख्ष॒त्रन् **निर्मि॑तम्** ।   
-ब्रह्म॑ ब्राह्म॒ण आ॒त्मना᳚ ।
+ब्रह्म॑ ब्राह्म॒ण आ॒त्मना॑ ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/21_brahma_devAn.md">
@@ -2309,7 +2309,7 @@ Den Glauben rufen Morgens wir, den Glauben in der Mittagszeit Den Glauben, wenn 
 ब्रह्म॑ दे॒वान॑जनयत् ।  
 ब्रह्म॒ विश्व॑मि॒दञ्जग॑त् ।  
 ब्रह्म॑णः ख्ष॒त्रन्निर्मि॑तम् ।   
-ब्रह्म॑ ब्राह्म॒ण आ॒त्मना᳚ ।
+ब्रह्म॑ ब्राह्म॒ण आ॒त्मना॑ ।
 </details>
 <details><summary>सायण-टीका</summary>
 
@@ -2326,7 +2326,7 @@ Den Glauben rufen Morgens wir, den Glauben in der Mittagszeit Den Glauben, wenn 
 
 अ॒न्तर् अ॑स्मिन्न् इ॒मे लो॒काः ॥ 67 ॥  
 अ॒न्तर् विश्व॑म् इ॒दञ् जग॑त् ।  
-ब्रह्मै॒व भू॒ताना॒ञ् ज्येष्ठ᳚म् ।  
+ब्रह्मै॒व भू॒ताना॒ञ् ज्येष्ठ॑म् ।  
 तेन॒ को॑ **ऽर्हति॒** स्पर्धि॑तुम् ।
 </details>
 </div>
@@ -2336,7 +2336,7 @@ Den Glauben rufen Morgens wir, den Glauben in der Mittagszeit Den Glauben, wenn 
 
 अ॒न्तर॑स्मिन्नि॒मे लो॒काः ॥ 67 ॥  
 अ॒न्तर्विश्व॑मि॒दञ्जग॑त् ।  
-ब्रह्मै॒व भू॒ताना॒ञ्ज्येष्ठ᳚म् ।  
+ब्रह्मै॒व भू॒ताना॒ञ्ज्येष्ठ॑म् ।  
 तेन॒ को॑ऽर्हति॒ स्पर्धि॑तुम् ।
 </details>
 <details><summary>सायण-टीका</summary>
@@ -2382,7 +2382,7 @@ Den Glauben rufen Morgens wir, den Glauben in der Mittagszeit Den Glauben, wenn 
 
 चत॑स्र॒ आशा॒ᳶ प्रच॑रन्त्व॒ग्नयः॑ ।   
 इ॒मन्नो॑ य॒ज्ञन्न॑यतु प्रजा॒नन् ।   
-घृ॒तम्पिन्व॑न्न॒जरꣳ॑ सु॒वीर᳚म् ॥ 68 ॥  
+घृ॒तम्पिन्व॑न्न॒जरꣳ॑ सु॒वीर॑म् ॥ 68 ॥  
 ब्रह्म॑ स॒मिद्भ॑व॒त्याहु॑तीनाम् ।
 </details>
 </div>
@@ -2392,7 +2392,7 @@ Den Glauben rufen Morgens wir, den Glauben in der Mittagszeit Den Glauben, wenn 
 
 चत॑स्र॒ आशा॒ᳶ **प्रच॑रन्त्व्** अ॒ग्नयः॑ ।   
 इ॒मन् नो॑ य॒ज्ञन् **न॑यतु प्रजा॒नन्न्** ।   
-घृ॒तम् **पिन्व॑न्न्** अ॒जरꣳ॑ सु॒वीर᳚म् ॥ 68 ॥  
+घृ॒तम् **पिन्व॑न्न्** अ॒जरꣳ॑ सु॒वीर॑म् ॥ 68 ॥  
 +++(प्रकाशकत्वेन)+++ ब्रह्म॑ स॒मिद् **भ॑व॒त्य्** आहु॑तीनाम् ।
 </details>
 <details><summary>सायण-टीका</summary>
@@ -2962,7 +2962,7 @@ Indra schenkt Gut dem opfernden und spendenden; er theilt ihm mit und entzieht i
 <details><summary>मूलम्</summary>
 
 न ता न॑शन्ति॒  
-न ता अर्वा᳚ ॥ 69 ॥  
+न ता अर्वा॑ ॥ 69 ॥  
 </details>
 <details><summary>सायण-टीका</summary>
 
@@ -3298,7 +3298,7 @@ Nicht holt ein Kriegsross mit bestäubtem Kopf sie ein, noch werden je sie zu de
 गावो॒ भगो॒, गाव॒ इन्द्रो॑ मे अच्छात् ।   
 गाव॒स् सोम॑स्य प्रथ॒मस्य॑ भ॒ख्षः ।   
 इ॒मा या गाव॒स्, स ज॑नास॒ इन्द्रः॑ ।   
-**इ॒च्छामीद्** +हृ॒दा मन॑सा चि॒दिन्द्र᳚म् ।
+**इ॒च्छामीद्** +हृ॒दा मन॑सा चि॒दिन्द्र॑म् ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_27-33_A_gAvo/34_gAvo_bhago.md">
@@ -3308,7 +3308,7 @@ Nicht holt ein Kriegsross mit bestäubtem Kopf sie ein, noch werden je sie zu de
 गावो॒ भगो॒ गाव॒ इन्द्रो॑ मे अच्छात् ।   
 गाव॒स्सोम॑स्य प्रथ॒मस्य॑ भ॒ख्षः ।   
 इ॒मा या गाव॒स्सज॑नास॒ इन्द्रः॑ ।   
-इ॒च्छामीद्धृ॒दा मन॑सा चि॒दिन्द्र᳚म् ।
+इ॒च्छामीद्धृ॒दा मन॑सा चि॒दिन्द्र॑म् ।
 </details>
 <details><summary>सायण-टीका</summary>
 
@@ -3607,7 +3607,7 @@ Ihr Kühe machet fett sogar den magern, den hässlichen auch macht ihr schön vo
 <details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
 <details><summary>मूलम्</summary>
 
-प्र॒जाव॑तीस्सू॒यव॑सꣳ रि॒शन्तीः᳚ ।   
+प्र॒जाव॑तीस्सू॒यव॑सꣳ रि॒शन्तीः॑ ।   
 शु॒द्धा अ॒पस्सु॑प्रपा॒णे पिब॑न्तीः ।   
 मा व॑स्स्ते॒न ई॑शत॒ माऽघशꣳ॑सः ।   
 परि॑ वो हे॒ती रु॒द्रस्य॑ वृञ्ज्यात् ।
@@ -3624,7 +3624,7 @@ Ihr Kühe machet fett sogar den magern, den hässlichen auch macht ihr schön vo
 उपे॒दम् उ॑प॒पर्च॑नम् +++(तृणादिकं)+++।  
 आ॒सु गोषूप॑-**पृच्यताम्** ।   
 उप॑-र्ष॒भस्य॒ रेत॑सि ।   
-उपे᳚न्द्र॒ तव॑ वी॒र्ये᳚ ॥ 70 ॥
+उपे॑न्द्र॒ तव॑ वी॒र्ये॑ ॥ 70 ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_27-33_A_gAvo/41_upedam_upaparchanam.md">
@@ -3634,7 +3634,7 @@ Ihr Kühe machet fett sogar den magern, den hässlichen auch macht ihr schön vo
 उपे॒दमु॑प॒पर्च॑नम् ।  
 आ॒सु गोषूप॑पृच्यताम् ।   
 उप॑र्ष॒भस्य॒ रेत॑सि ।   
-उपे᳚न्द्र॒ तव॑ वी॒र्ये᳚ ॥ 70 ॥
+उपे॑न्द्र॒ तव॑ वी॒र्ये॑ ॥ 70 ॥
 </details>
 <details><summary>सायण-टीका</summary>
 

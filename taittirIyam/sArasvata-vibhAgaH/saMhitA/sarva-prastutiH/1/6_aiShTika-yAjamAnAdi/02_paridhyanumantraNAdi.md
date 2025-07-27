@@ -38,7 +38,7 @@ Thou art secure; may I be secure among my equals, wise, a guardian, a granter of
 
 ध्रु॒वः । अ॒सि॒ ।   
 ध्रु॒वः । अ॒हम् । जा॒तेष्विति॑ स-जा॒तेषु॑ । भू॒या॒स॒म् । 
-धीरः॑ । चेत्ता᳚ । व॒सु॒विदिति॑ वसु-वित् । 
+धीरः॑ । चेत्ता॑ । व॒सु॒विदिति॑ वसु-वित् । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -61,11 +61,11 @@ Thou art secure; may I be secure among my equals, wise, a guardian, a granter of
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-उ॒ग्रो᳚ऽस्य् - उ॒ग्रो॑ ऽहꣳ स॑जा॒तेषु॑ भूयासम्, उ॒ग्रश् चेत्ता॑ वसु॒वित् ।
+उ॒ग्रो॑ऽस्य् - उ॒ग्रो॑ ऽहꣳ स॑जा॒तेषु॑ भूयासम्, उ॒ग्रश् चेत्ता॑ वसु॒वित् ।
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒ग्रो᳚ऽस्य् -  
+उ॒ग्रो॑ऽस्य् -  
 उ॒ग्रो॒॑ ऽहꣳ स॑जा॒तेषु॑ भूयासम्,  
 उ॒ग्रश् चेत्ता॑ वसु॒वित् ।
 </details>
@@ -75,13 +75,13 @@ Thou art dread; may I be dread among my equals, dread, a guardian, a granter of 
 </details>
 <details><summary>मूलम्</summary>
 
-उ॒ग्रो᳚ऽस्य् - उ॒ग्रो॑ ऽहꣳ स॑जा॒तेषु॑ भूयासम्, उ॒ग्रश् चेत्ता॑ वसु॒वित् ।
+उ॒ग्रो॑ऽस्य् - उ॒ग्रो॑ ऽहꣳ स॑जा॒तेषु॑ भूयासम्, उ॒ग्रश् चेत्ता॑ वसु॒वित् ।
 </details>
 <details><summary>पद-पाठः</summary>
 
 उ॒ग्रः । अ॒सि॒ ।  
 उ॒ग्रः । अ॒हम् । स॒जा॒तेष्विति॑ स-जा॒तेषु॑ । भू॒या॒स॒म् ।  
-उ॒ग्रः । चेत्ता᳚ । व॒सु॒विदिति॑ वसु-वित् ।
+उ॒ग्रः । चेत्ता॑ । व॒सु॒विदिति॑ वसु-वित् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -115,7 +115,7 @@ Thou art overcoming; may I be overcoming among my equals, overcoming, a guardian
 </details>
 <details><summary>पद-पाठः</summary>
 
-अ॒भि॒भूरित्य॑भि-भूः । अ॒सि॒ । अ॒भि॒भूरित्य॑भि-भूः । अ॒हम् । स॒जा॒तेष्विति॑ स-जा॒तेषु॑ । भू॒या॒स॒म् । अ॒भि॒भूरित्य॑भि-भूः । चेत्ता᳚ । व॒सु॒विदिति॑ वसु-वित् ।
+अ॒भि॒भूरित्य॑भि-भूः । अ॒सि॒ । अ॒भि॒भूरित्य॑भि-भूः । अ॒हम् । स॒जा॒तेष्विति॑ स-जा॒तेषु॑ । भू॒या॒स॒म् । अ॒भि॒भूरित्य॑भि-भूः । चेत्ता॑ । व॒सु॒विदिति॑ वसु-वित् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -175,7 +175,7 @@ _______
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन्धा॑नास् त्वा सुप्र॒जस॑स् सु॒वीरा॒  
-ज्योग् जी॑वेम बलि॒-हृतो॑ व॒यन् ते᳚  ॥
+ज्योग् जी॑वेम बलि॒-हृतो॑ व॒यन् ते॑  ॥
 </details>
 <details><summary>Keith</summary>
 
@@ -184,11 +184,11 @@ With good heroes, bearing thee tribute.
 </details>
 <details><summary>मूलम्</summary>
 
-इन्धा॑नास्त्वा सुप्र॒जस॑स्सु॒वीरा॒ ज्योग्जी॑वेम बलि॒हृतो॑ व॒यन्ते᳚  ॥
+इन्धा॑नास्त्वा सुप्र॒जस॑स्सु॒वीरा॒ ज्योग्जी॑वेम बलि॒हृतो॑ व॒यन्ते॑  ॥
 </details>
 <details><summary>पद-पाठः</summary>
 
-इन्धा॑नाः । त्वा॒ । सु॒प्र॒जस॒ इति॑ सु-प्र॒जसः॑ । सु॒वीरा॒ इति॑ सु-वीराः᳚ । ज्योक् । जी॒वे॒म॒ । ब॒लि॒हृत॒ इति॑ बलि-हृतः॑ । व॒यम् । ते॒ ॥
+इन्धा॑नाः । त्वा॒ । सु॒प्र॒जस॒ इति॑ सु-प्र॒जसः॑ । सु॒वीरा॒ इति॑ सु-वीराः॑ । ज्योक् । जी॒वे॒म॒ । ब॒लि॒हृत॒ इति॑ बलि-हृतः॑ । व॒यम् । ते॒ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -213,10 +213,10 @@ _______
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/02_paridhyanumantraNAdi/02_yan_me.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-यन् मे॑ अग्ने अ॒स्य य॒ज्ञस्य॒ **रिष्या᳚त्** [4]  
+यन् मे॑ अग्ने अ॒स्य य॒ज्ञस्य॒ **रिष्या॑त्** [4]  
 यद् वा॒ **स्कन्दा॒द्** आज्य॑स्यो॒त वि॑ष्णो ।   
 तेन॑ **हन्मि** स॒पत्न॑न् दुर्मरा॒युम्  
-ऐन॑न् **दधामि॒** निर्ऋ॑त्या उ॒पस्थे᳚ ।
+ऐन॑न् **दधामि॒** निर्ऋ॑त्या उ॒पस्थे॑ ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/02_paridhyanumantraNAdi/02_yan_me.md">
@@ -230,8 +230,8 @@ I place him on the lap of destruction.
 </details>
 <details><summary>मूलम्</summary>
 
-यन्मे॑ अग्ने अ॒स्य य॒ज्ञस्य॒ रिष्या᳚त् [4] यद्वा॒ स्कन्दा॒दाज्य॑स्यो॒त वि॑ष्णो ।   
-तेन॑ हन्मि स॒पत्न॑न्दुर्मरा॒युमैन॑न्दधामि॒ निर्ऋ॑त्या उ॒पस्थे᳚ ।
+यन्मे॑ अग्ने अ॒स्य य॒ज्ञस्य॒ रिष्या॑त् [4] यद्वा॒ स्कन्दा॒दाज्य॑स्यो॒त वि॑ष्णो ।   
+तेन॑ हन्मि स॒पत्न॑न्दुर्मरा॒युमैन॑न्दधामि॒ निर्ऋ॑त्या उ॒पस्थे॑ ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -289,7 +289,7 @@ _______
 
 उच्छु॑ष्मो अग्ने॒ **यज॑मानायैधि॒**  
 नि+++(=न्यक्)+++-शु॑ष्मो अभि॒दास॑ते ।  
-अग्ने॒ **देवे᳚द्ध॒ मन्व्-इ॑द्ध॒** मन्द्र॑-जिह्व॥+++(5)+++
+अग्ने॒ **देवे॑द्ध॒ मन्व्-इ॑द्ध॒** मन्द्र॑-जिह्व॥+++(5)+++
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/02_paridhyanumantraNAdi/03_uchChuShmo_agne.md">
@@ -304,7 +304,7 @@ O Agni, kindled by the gods, kindled by Manu, with sweet tongue,
 
 उच्छु॑ष्मो अग्ने॒ यज॑मानायैधि॒  
 निशु॑ष्मो अभि॒दास॑ते ।  
-अग्ने॒ देवे᳚द्ध॒ मन्व्-इ॑द्ध॒ मन्द्र॑जि॑ह्व॥
+अग्ने॒ देवे॑द्ध॒ मन्व्-इ॑द्ध॒ मन्द्र॑जि॑ह्व॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -400,7 +400,7 @@ _______
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-वाग॑स्यै॒न्द्री स॑पत्न॒ख्षय॑णी [5]वा॒चा मे᳚न्द्रि॒येणाऽऽवि॑श 
+वाग॑स्यै॒न्द्री स॑पत्न॒ख्षय॑णी [5]वा॒चा मे॑न्द्रि॒येणाऽऽवि॑श 
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -435,7 +435,7 @@ Thou art speech, derived from Indra, destroying the foe [2];
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वा॒चा मे᳚न्द्रि॒येणाऽऽवि॑श ।
+वा॒चा मे॑न्द्रि॒येणाऽऽवि॑श ।
 </details>
 
 <details><summary>Keith</summary>
@@ -446,7 +446,7 @@ do thou enter me with speech, with power (indriyena).
 
 <details><summary>मूलम्</summary>
 
-वा॒चा मे᳚न्द्रि॒येणाऽऽवि॑श ।
+वा॒चा मे॑न्द्रि॒येणाऽऽवि॑श ।
 </details>
 <details><summary>पद-पाठः</summary>
 
@@ -472,11 +472,11 @@ _______
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-वस॒न्तमृ॑तू॒नाम्प्री॑णामि॒ स मा᳚ प्री॒तᳶ प्री॑णातु 
+वस॒न्तमृ॑तू॒नाम्प्री॑णामि॒ स मा॑ प्री॒तᳶ प्री॑णातु 
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व॒स॒न्तम् ऋ॑तू॒नाम् प्री॑णामि॒  - स मा᳚ प्री॒तᳶ प्री॑णातु।   
+व॒स॒न्तम् ऋ॑तू॒नाम् प्री॑णामि॒  - स मा॑ प्री॒तᳶ प्री॑णातु।   
 </details>
 <details><summary>Keith</summary>
 
@@ -484,7 +484,7 @@ Of the seasons spring I delight; delighted may it delight me.
 </details>
 <details><summary>मूलम्</summary>
 
-व॒स॒न्तम् ऋ॑तू॒नाम् प्री॑णामि॒  - स मा᳚ प्री॒तᳶ प्री॑णातु
+व॒स॒न्तम् ऋ॑तू॒नाम् प्री॑णामि॒  - स मा॑ प्री॒तᳶ प्री॑णातु
 </details>
 <details><summary>पद-पाठः</summary>
 
@@ -513,7 +513,7 @@ _______
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-ग्री॒ष्ममृ॑तू॒नाम्प्री॑णामि॒ स मा᳚ प्री॒तᳶ प्री॑णातु 
+ग्री॒ष्ममृ॑तू॒नाम्प्री॑णामि॒ स मा॑ प्री॒तᳶ प्री॑णातु 
 </details>
 <details><summary>पद-पाठः</summary>
 
@@ -523,7 +523,7 @@ _______
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ग्री॒ष्मम् ऋ॑तू॒नाम् प्री॑णामि ।  
-स मा᳚ प्री॒तᳶ प्री॑णातु ।
+स मा॑ प्री॒तᳶ प्री॑णातु ।
 </details>
 <details><summary>Keith</summary>
 
@@ -533,7 +533,7 @@ delighted may it delight me.
 <details><summary>मूलम्</summary>
 
 ग्री॒ष्ममृ॑तू॒नाम्प्री॑णामि ।  
-स मा᳚ प्री॒तᳶ प्री॑णातु ।
+स मा॑ प्री॒तᳶ प्री॑णातु ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -550,12 +550,12 @@ _______
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-व॒र्षा ऋ॑तू॒नाम्प्री॑णामि॒ ता मा᳚ प्री॒ताᳶ प्री॑णन्तु 
+व॒र्षा ऋ॑तू॒नाम्प्री॑णामि॒ ता मा॑ प्री॒ताᳶ प्री॑णन्तु 
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व॒र्षा ऋ॑तू॒नाम् प्री॑णामि।   
-ता मा᳚ प्री॒ताᳶ प्री॑णन्तु ।
+ता मा॑ प्री॒ताᳶ प्री॑णन्तु ।
 </details>
 <details><summary>Keith</summary>
 
@@ -564,7 +564,7 @@ Of the seasons the rains I delight; delighted may they delight me.
 <details><summary>मूलम्</summary>
 
 व॒र्षा ऋ॑तू॒नाम्प्री॑णामि।   
-ता मा᳚ प्री॒ताᳶ प्री॑णन्तु ।
+ता मा॑ प्री॒ताᳶ प्री॑णन्तु ।
 </details>
 <details><summary>पद-पाठः</summary>
 
@@ -586,12 +586,12 @@ _______
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-श॒रद॑मृतू॒नाम्प्री॑णामि॒ सा मा᳚ प्री॒ता प्री॑णातु 
+श॒रद॑मृतू॒नाम्प्री॑णामि॒ सा मा॑ प्री॒ता प्री॑णातु 
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श॒रद॑म् ऋतू॒नाम् प्री॑णामि ।  
-सा मा᳚ प्री॒ता प्री॑णातु ।
+सा मा॑ प्री॒ता प्री॑णातु ।
 </details>
 <details><summary>Keith</summary>
 
@@ -600,11 +600,11 @@ Of the seasons the autumn I delight; delighted may it delight me.
 <details><summary>मूलम्</summary>
 
 श॒रद॑मृतू॒नाम्प्री॑णामि ।  
-सा मा᳚ प्री॒ता प्री॑णातु ।
+सा मा॑ प्री॒ता प्री॑णातु ।
 </details>
 <details><summary>पद-पाठः</summary>
 
-श॒रद᳚म् । ऋ॒तू॒नाम् । प्री॒णा॒मि॒ । सा । मा॒ । प्री॒ता । प्री॒णा॒तु॒ । 
+श॒रद॑म् । ऋ॒तू॒नाम् । प्री॒णा॒मि॒ । सा । मा॒ । प्री॒ता । प्री॒णा॒तु॒ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -621,12 +621,12 @@ _______
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-हेमन्तशिशि॒रावृ॑तू॒नाम्प्री॑णामि॒ तौ मा᳚ प्री॒तौ प्री॑णीताम्  
+हेमन्तशिशि॒रावृ॑तू॒नाम्प्री॑णामि॒ तौ मा॑ प्री॒तौ प्री॑णीताम्  
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हे॒म॒न्त॒-शि॒शि॒राव् ऋ॑तू॒नाम् प्री॑णामि ।   
-तौ मा᳚ प्री॒तौ प्री॑णीताम् ।
+तौ मा॑ प्री॒तौ प्री॑णीताम् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -636,7 +636,7 @@ Of the seasons the winter and the cool I delight; delighted may they two delight
 <details><summary>मूलम्</summary>
 
 हे॒म॒न्त॒शि॒शि॒रावृ॑तू॒नाम्प्री॑णामि ।   
-तौ मा᳚ प्री॒तौ प्री॑णीताम् ।
+तौ मा॑ प्री॒तौ प्री॑णीताम् ।
 </details>
 <details><summary>पद-पाठः</summary>
 
@@ -671,7 +671,7 @@ By sacrifice to the gods, Agni and Soma, may I be possessed of sight.
 </details>
 <details><summary>पद-पाठः</summary>
 
-अ॒ग्नीषोम॑यो॒रित्य॒ग्नी-सोम॑योः । अ॒हम् । दे॒व॒य॒ज्ययेति॑ देव-य॒ज्यया᳚ । चख्षु॑ष्मान् । भू॒या॒स॒म् । 
+अ॒ग्नीषोम॑यो॒रित्य॒ग्नी-सोम॑योः । अ॒हम् । दे॒व॒य॒ज्ययेति॑ देव-य॒ज्यया॑ । चख्षु॑ष्मान् । भू॒या॒स॒म् । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -693,7 +693,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्नेर् अ॒हन् दे॑वय॒ज्यया᳚न्ना॒दो भू॑यासम् [6] ।
+अ॒ग्नेर् अ॒हन् दे॑वय॒ज्यया॑न्ना॒दो भू॑यासम् [6] ।
 </details>
 <details><summary>Keith</summary>
 
@@ -701,11 +701,11 @@ By sacrifice to the god Agni, may I be an eater of food [3].
 </details>
 <details><summary>मूलम्</summary>
 
-अ॒ग्नेर॒हन्दे॑वय॒ज्यया᳚न्ना॒दो भू॑यासम् [6] ।
+अ॒ग्नेर॒हन्दे॑वय॒ज्यया॑न्ना॒दो भू॑यासम् [6] ।
 </details>
 <details><summary>पद-पाठः</summary>
 
-अ॒ग्नेः । अ॒हम् । दे॒व॒य॒ज्ययेति॑ देव-य॒ज्यया᳚ । अ॒न्ना॒द इत्य॑न्न-अ॒दः । भू॒या॒स॒म् ।
+अ॒ग्नेः । अ॒हम् । दे॒व॒य॒ज्ययेति॑ देव-य॒ज्यया॑ । अ॒न्ना॒द इत्य॑न्न-अ॒दः । भू॒या॒स॒म् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -788,7 +788,7 @@ By sacrifice to the gods, Agni and Soma, may I be a slayer of foes.
 </details>
 <details><summary>पद-पाठः</summary>
 
-अ॒ग्नीषोम॑यो॒रित्य॒ग्नी-सोम॑योः । अ॒हम् । दे॒व॒य॒ज्ययेति॑ देव-य॒ज्यया᳚ । वृ॒त्र॒हेति॑ वृत्र-हा । भू॒या॒स॒म् । 
+अ॒ग्नीषोम॑यो॒रित्य॒ग्नी-सोम॑योः । अ॒हम् । दे॒व॒य॒ज्ययेति॑ देव-य॒ज्यया॑ । वृ॒त्र॒हेति॑ वृत्र-हा । भू॒या॒स॒म् । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -811,7 +811,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒न्द्रा॒ग्नि॒योर् अ॒हन् दे॑व-य॒ज्यये᳚न्द्रिया॒व्य् अ॑न्ना॒दो भू॑यासम् ।
+इ॒न्द्रा॒ग्नि॒योर् अ॒हन् दे॑व-य॒ज्यये॑न्द्रिया॒व्य् अ॑न्ना॒दो भू॑यासम् ।
 </details>
 <details><summary>Keith</summary>
 
@@ -820,11 +820,11 @@ may I be powerful and an eater of food.
 </details>
 <details><summary>मूलम्</summary>
 
-इ॒न्द्रा॒ग्नि॒योर॒हन्दे॑वय॒ज्यये᳚न्द्रिया॒व्य॑न्ना॒दो भू॑यासम् ।
+इ॒न्द्रा॒ग्नि॒योर॒हन्दे॑वय॒ज्यये॑न्द्रिया॒व्य॑न्ना॒दो भू॑यासम् ।
 </details>
 <details><summary>पद-पाठः</summary>
 
-इ॒न्द्रा॒ग्नि॒योरिती᳚न्द्र-अ॒ग्नि॒योः । अ॒हम् । दे॒व॒य॒ज्ययेति॑ देव-य॒ज्यया᳚ ।    
+इ॒न्द्रा॒ग्नि॒योरिती॑न्द्र-अ॒ग्नि॒योः । अ॒हम् । दे॒व॒य॒ज्ययेति॑ देव-य॒ज्यया॑ ।    
 इ॒न्द्रि॒या॒वी । अ॒न्ना॒द इत्य॑न्न-अ॒दः । भू॒या॒स॒म् । 
 
 </details>
@@ -851,7 +851,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्र॑स्या॒हन् दे॑वय॒ज्यये᳚न्द्रिया॒वी भू॑यासम् ।
+इन्द्र॑स्या॒हन् दे॑वय॒ज्यये॑न्द्रिया॒वी भू॑यासम् ।
 </details>
 <details><summary>Keith</summary>
 
@@ -859,12 +859,12 @@ By sacrifice to the god Indra, may I be powerful.
 </details>
 <details><summary>मूलम्</summary>
 
-इन्द्र॑स्या॒हन्दे॑वय॒ज्यये᳚न्द्रिया॒वी भू॑यासम् ।
+इन्द्र॑स्या॒हन्दे॑वय॒ज्यये॑न्द्रिया॒वी भू॑यासम् ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-इन्द्र॑स्य । अ॒हम् । दे॒व॒य॒ज्ययेति॑ देव-य॒ज्यया᳚ । इ॒न्द्रि॒या॒वी । भू॒या॒स॒म् । 
+इन्द्र॑स्य । अ॒हम् । दे॒व॒य॒ज्ययेति॑ देव-य॒ज्यया॑ । इ॒न्द्रि॒या॒वी । भू॒या॒स॒म् । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -899,7 +899,7 @@ By sacrifice tothe god Mahendra, may I attain superiority and greatness.
 </details>
 <details><summary>पद-पाठः</summary>
 
-म॒हे॒न्द्रस्येति॑ महा-इ॒न्द्रस्य॑ । अ॒हम् । दे॒व॒य॒ज्ययेति॑ देव-य॒ज्यया᳚ । जे॒मान᳚म् । म॒हि॒मान᳚म् । ग॒मे॒य॒म् । 
+म॒हे॒न्द्रस्येति॑ महा-इ॒न्द्रस्य॑ । अ॒हम् । दे॒व॒य॒ज्ययेति॑ देव-य॒ज्यया॑ । जे॒मान॑म् । म॒हि॒मान॑म् । ग॒मे॒य॒म् । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -937,7 +937,7 @@ enjoying long life.
 
 <details><summary>पद-पाठः</summary>
 
-अ॒ग्नेः । स्वि॒ष्ट॒कृत॒ इति॑ स्विष्ट-कृतः॑ । अ॒हम् । दे॒व॒य॒ज्ययेति॑ देव-य॒ज्यया᳚ । आयु॑ष्मान् । य॒ज्ञेन॑ । प्र॒ति॒ष्ठामिति॑ प्रति-स्थाम् । ग॒मे॒य॒म् ॥ 
+अ॒ग्नेः । स्वि॒ष्ट॒कृत॒ इति॑ स्विष्ट-कृतः॑ । अ॒हम् । दे॒व॒य॒ज्ययेति॑ देव-य॒ज्यया॑ । आयु॑ष्मान् । य॒ज्ञेन॑ । प्र॒ति॒ष्ठामिति॑ प्रति-स्थाम् । ग॒मे॒य॒म् ॥ 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

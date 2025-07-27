@@ -491,7 +491,7 @@ Den Wesenkenner führen schon empor die Strahlen, ihn, den Gott, Dass jedermann 
 <details><summary>मूलम्</summary>
 
 उदु॒त्यञ्जा॒तवे॑दसन्दे॒वव्ँव॑हन्ति के॒तवः॑ ।    
-दृ॒शे विश्वा॑य॒ सूर्य᳚म् ॥
+दृ॒शे विश्वा॑य॒ सूर्य॑म् ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

@@ -296,11 +296,11 @@ ________________
 </div>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[विश्वे᳚भ्यस्त्वा दे॒वेभ्यः॑]
+[विश्वे॑भ्यस्त्वा दे॒वेभ्यः॑]
 </details>
 <details><summary>मूलम्</summary>
 
-[विश्वे᳚भ्यस्त्वा दे॒वेभ्यः॑]
+[विश्वे॑भ्यस्त्वा दे॒वेभ्यः॑]
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -314,12 +314,12 @@ _______
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-आग्रय॒णो॑ऽसि॒ स्वा᳚ग्रयणो॒ जिन्व॑ य॒ज्ञञ्जिन्व॑ य॒ज्ञप॑तिम॒भि सव॑ना पाहि॒ विष्णु॒स्त्वाम्पा॑तु॒ विश॒न्त्वम्पा॑हीन्द्रि॒येण
+आग्रय॒णो॑ऽसि॒ स्वा॑ग्रयणो॒ जिन्व॑ य॒ज्ञञ्जिन्व॑ य॒ज्ञप॑तिम॒भि सव॑ना पाहि॒ विष्णु॒स्त्वाम्पा॑तु॒ विश॒न्त्वम्पा॑हीन्द्रि॒येण
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ॒ग्र॒य॒णो॑ऽसि ।  
-स्वा᳚ग्रयणो॒ जिन्व॑ ।    
+स्वा॑ग्रयणो॒ जिन्व॑ ।    
 य॒ज्ञञ्जिन्व॑ य॒ज्ञप॑तिम्  +++(जिन्व)+++ ।
 </details>
 <details><summary>Keith</summary>
@@ -332,7 +332,7 @@ quicken the lord of the sacrifice;
 <details><summary>मूलम्</summary>
 
 आ॒ग्र॒य॒णो॑ऽसि ।  
-स्वा᳚ग्रयणो॒ जिन्व॑ ।    
+स्वा॑ग्रयणो॒ जिन्व॑ ।    
 य॒ज्ञञ्जिन्व॑ य॒ज्ञप॑तिम्  +++(जिन्व)+++ ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -376,7 +376,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ष ते॒ योनि॒र्, विश्वे᳚भ्यस् त्वा दे॒वेभ्यः॑ ॥ [11]
+ए॒ष ते॒ योनि॒र्, विश्वे॑भ्यस् त्वा दे॒वेभ्यः॑ ॥ [11]
 </details>
 <details><summary>Keith</summary>
 
@@ -384,7 +384,7 @@ this is thy birthplace; to the All-gods thee!
 </details>
 <details><summary>मूलम्</summary>
 
-ए॒ष ते॒ योनि॒र्विश्वे᳚भ्यस्त्वा दे॒वेभ्यः॑ ॥ [11]
+ए॒ष ते॒ योनि॒र्विश्वे॑भ्यस्त्वा दे॒वेभ्यः॑ ॥ [11]
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -394,7 +394,7 @@ this is thy birthplace; to the All-gods thee!
 </div>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्नये᳚ त्वा॒ तेज॑स्वते ।  
+अ॒ग्नये॑ त्वा॒ तेज॑स्वते ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -409,7 +409,7 @@ _______
 <details open><summary>विश्वास-टिप्पनी</summary>
 
 
-ए॒ष ते॒ योनि॑र॒ग्नये᳚ त्वा॒ तेज॑स्वते ॥ [30] 
+ए॒ष ते॒ योनि॑र॒ग्नये॑ त्वा॒ तेज॑स्वते ॥ [30] 
 </details>
 <details><summary>Keith</summary>
 
@@ -417,7 +417,7 @@ This is thy birthplace; to Agni the radiant thee!
 </details>
 <details><summary>मूलम्</summary>
 
-ए॒ष ते॒ योनि॑र॒ग्नये᳚ त्वा॒ तेज॑स्वते ॥ [30]   +++(सादनमन्त्रः)+++
+ए॒ष ते॒ योनि॑र॒ग्नये॑ त्वा॒ तेज॑स्वते ॥ [30]   +++(सादनमन्त्रः)+++
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

@@ -1761,7 +1761,7 @@ _______
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 तुभ्य॒न् ता अ॑ङ्गिरस्तम॒  
-विश्वाः᳚ सुख्षि॒तय॒ᳶ पृथ॑क् ।      
+विश्वाः॑ सुख्षि॒तय॒ᳶ पृथ॑क् ।      
 अग्ने॒ कामा॑य येमिरे+++(←यम्)+++ ॥
 </details>
 </div>
@@ -1775,7 +1775,7 @@ O Agni, have turned to gain their wish.
 </details>
 <details><summary>मूलम्</summary>
 
-तुभ्य॒न्ता अ॑ङ्गिरस्तम॒ विश्वाः᳚ सुख्षि॒तय॒ᳶ पृथ॑क् ।      
+तुभ्य॒न्ता अ॑ङ्गिरस्तम॒ विश्वाः॑ सुख्षि॒तय॒ᳶ पृथ॑क् ।      
 अग्ने॒ कामा॑य येमिरे ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -2716,7 +2716,7 @@ _______
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 आयु॑ष्टे वि॒श्वतो॑ दधद्  
-अ॒यम् अ॒ग्निर् वरे᳚ण्यः ।  
+अ॒यम् अ॒ग्निर् वरे॑ण्यः ।  
 पुन॑स् ते प्रा॒ण आय॑ति॒  
 परा॒ यख्ष्मꣳ॑ सुवामि ते ॥
 </details>
@@ -2732,7 +2732,7 @@ I drive away the disease from thee.
 </details>
 <details><summary>मूलम्</summary>
 
-आयु॑ष्टे वि॒श्वतो॑ दधद॒यम॒ग्निर्वरे᳚ण्यः ।  
+आयु॑ष्टे वि॒श्वतो॑ दधद॒यम॒ग्निर्वरे॑ण्यः ।  
 पुन॑स्ते प्रा॒ण आय॑ति॒ परा॒ यख्ष्मꣳ॑ सुवामि ते ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -5176,9 +5176,9 @@ _______
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 **व॒द्मा**+++(←वद्)+++ हि सू॑नो॒ **अस्य्** अ॑द्म॒+++(←अद्)+++-सद्वा॑+++(←सद् + वनिप्)=+++  
-**च॒क्रे अ॒ग्निर्** ज॒नुषा ऽज्म+++(←गतौ)++++अन्न᳚म् ।   
+**च॒क्रे अ॒ग्निर्** ज॒नुषा ऽज्म+++(←गतौ)++++अन्न॑म् ।   
 स त्वन् न॑ ऊर्ज-सन॒ **ऊर्ज॑न् धा॒**  
-राजे॑व **जेर्** अवृ॒के, **ख्षे᳚ष्य्** अ॒न्तः ॥
+राजे॑व **जेर्** अवृ॒के, **ख्षे॑ष्य्** अ॒न्तः ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/14_kAmyeShTiyAjyApuronuvAkyAH/06_vadmA_hi.md">
@@ -5192,8 +5192,8 @@ Be victorious like a king; thou rulest within without a foe.
 </details>
 <details><summary>मूलम्</summary>
 
-व॒द्मा हि सू॑नो॒ अस्य॑द्म॒सद्वा॑ च॒क्रे अ॒ग्निर्ज॒नुषाज्मान्न᳚म् ।   
-स त्वन्न॑ ऊर्जसन॒ ऊर्ज॑न्धा॒ राजे॑व जेरवृ॒के ख्षे᳚ष्य॒न्तः ॥
+व॒द्मा हि सू॑नो॒ अस्य॑द्म॒सद्वा॑ च॒क्रे अ॒ग्निर्ज॒नुषाज्मान्न॑म् ।   
+स त्वन्न॑ ऊर्जसन॒ ऊर्ज॑न्धा॒ राजे॑व जेरवृ॒के ख्षे॑ष्य॒न्तः ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -5234,7 +5234,7 @@ _______
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अग्न॒ आयूꣳ॑षि [30]
-प॒व॒स॒ आ सु॒वोर्ज॒मिष॑ञ्च नः ।  आ॒रे बा॑धस्व दु॒च्छुना᳚म् ॥
+प॒व॒स॒ आ सु॒वोर्ज॒मिष॑ञ्च नः ।  आ॒रे बा॑धस्व दु॒च्छुना॑म् ॥
 </details>
 <div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/066/19_agna_AyUMShi.md">
 <details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>

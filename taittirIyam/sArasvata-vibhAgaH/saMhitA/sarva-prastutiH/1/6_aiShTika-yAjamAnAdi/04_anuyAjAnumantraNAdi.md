@@ -17,7 +17,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब॒र्हिषो॒ ऽहन् दे॑वय॒ज्यया᳚ प्र॒जावा᳚न् भूयासम् ।
+ब॒र्हिषो॒ ऽहन् दे॑वय॒ज्यया॑ प्र॒जावा॑न् भूयासम् ।
 </details>
 <details><summary>Keith</summary>
 
@@ -25,11 +25,11 @@ By sacrifice to the divine straw, may I be possessed of children.
 </details>
 <details><summary>मूलम्</summary>
 
-ब॒र्हिषो॒ऽहन्दे॑वय॒ज्यया᳚ प्र॒जावा᳚न्भूयासम् ।
+ब॒र्हिषो॒ऽहन्दे॑वय॒ज्यया॑ प्र॒जावा॑न्भूयासम् ।
 </details>
 <details><summary>पद-पाठः</summary>
 
-ब॒र्‌हिषः॑ । अ॒हम् । दे॒व॒य॒ज्ययेति॑ देव-य॒ज्यया᳚ । प्र॒जावा॒निति॑ प्र॒जा-वा॒न् । भू॒या॒स॒म् । 
+ब॒र्‌हिषः॑ । अ॒हम् । दे॒व॒य॒ज्ययेति॑ देव-य॒ज्यया॑ । प्र॒जावा॒निति॑ प्र॒जा-वा॒न् । भू॒या॒स॒म् । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -58,7 +58,7 @@ By sacrifice to the god Naraśansa, may I be possessed of cattle.
 </details>
 <details><summary>पद-पाठः</summary>
 
-नरा॒शꣳस॑स्य । अ॒हम् । दे॒व॒य॒ज्ययेति॑ देव-य॒ज्यया᳚ । प॒शु॒मानिति॑ पशु-मान् । भू॒या॒स॒म् ।
+नरा॒शꣳस॑स्य । अ॒हम् । दे॒व॒य॒ज्ययेति॑ देव-य॒ज्यया॑ । प॒शु॒मानिति॑ पशु-मान् । भू॒या॒स॒म् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -88,7 +88,7 @@ By sacrifice to the god Agni Svistakrt, may I attain security through the sacrif
 </details>
 <details><summary>पद-पाठः</summary>
 
-अ॒ग्नेः । स्वि॒ष्ट॒कृत॒ इति॑ स्विष्ट-कृतः॑ । अ॒हम् । दे॒व॒य॒ज्ययेति॑ देव-य॒ज्यया᳚ । आयु॑ष्मान् । य॒ज्ञेन॑ । प्र॒ति॒ष्ठामिति॑ प्रति-स्थाम् । ग॒मे॒य॒म् ।
+अ॒ग्नेः । स्वि॒ष्ट॒कृत॒ इति॑ स्विष्ट-कृतः॑ । अ॒हम् । दे॒व॒य॒ज्ययेति॑ देव-य॒ज्यया॑ । आयु॑ष्मान् । य॒ज्ञेन॑ । प्र॒ति॒ष्ठामिति॑ प्रति-स्थाम् । ग॒मे॒य॒म् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -154,7 +154,7 @@ I May I be victorious through the victory of Agni Svistakrt.
 
 अ॒ग्नीषोम॑यो॒रित्य॒ग्नी-सोम॑योः । अ॒हम् । उज्जि॑ति॒मित्युत्-जि॒ति॒म् । अनु॑ । उदिति॑ । जे॒ष॒म् ।
 
-इ॒न्द्रा॒ग्नि॒योरिती᳚न्द्र-अ॒ग्नि॒योः । अ॒हम् । उज्जि॑ति॒मित्युत्-जि॒ति॒म् । अनु॑ । उदिति॑ । जे॒ष॒म् । 
+इ॒न्द्रा॒ग्नि॒योरिती॑न्द्र-अ॒ग्नि॒योः । अ॒हम् । उज्जि॑ति॒मित्युत्-जि॒ति॒म् । अनु॑ । उदिति॑ । जे॒ष॒म् । 
 
 इन्द्र॑स्य । अ॒हम् । उज्जि॑ति॒मित्युत्-जि॒ति॒म् । अनु॑ । उदिति॑ । जे॒ष॒म् । 
 
@@ -190,7 +190,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
-वाज॑स्य+++(=अन्नस्य)+++ मा प्रस॒वेन᳚+++(=योनिना)++++उद्ग्रा॒भेण+++(=ग्रहेण [जुह्वा])+++ +उद॑ग्रभीत् ।
+वाज॑स्य+++(=अन्नस्य)+++ मा प्रस॒वेन॑+++(=योनिना)++++उद्ग्रा॒भेण+++(=ग्रहेण [जुह्वा])+++ +उद॑ग्रभीत् ।
 </details>
 <details><summary>Keith</summary>
 
@@ -199,7 +199,7 @@ With elevation he hath lifted me up;
 </details>
 <details><summary>मूलम्</summary>
 
-वाज॑स्य मा प्रस॒वेनो᳚द्ग्रा॒भेणोद॑ग्रभीत् ।
+वाज॑स्य मा प्रस॒वेनो॑द्ग्रा॒भेणोद॑ग्रभीत् ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -304,14 +304,14 @@ _______
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-एमा अ॑ग्मन्ना॒शिषो॒ दोह॑कामा॒ इन्द्र॑वन्तः [12]व॒ना॒म॒हे॒ धु॒ख्षी॒महि॑ प्र॒जामिष᳚म् ॥ 
+एमा अ॑ग्मन्ना॒शिषो॒ दोह॑कामा॒ इन्द्र॑वन्तः [12]व॒ना॒म॒हे॒ धु॒ख्षी॒महि॑ प्र॒जामिष॑म् ॥ 
 </details>
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/04_anuyAjAnumantraNAdi/06_AimA_agmann.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 आ+इ॒मा अ॑ग्मन्न् आ॒शिषो॒  
 दोह॑-कामा इन्द्र॑वन्तो  वनामहे ।    
-धु॒ख्षी॒महि॑ प्र॒जाम् इष᳚म्  ॥
+धु॒ख्षी॒महि॑ प्र॒जाम् इष॑म्  ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/04_anuyAjAnumantraNAdi/06_AimA_agmann.md">
@@ -326,7 +326,7 @@ May we milk offspring and food.
 
 एमा अ॑ग्मन्ना॒शिषो॒ दोह॑कामा    
 इन्द्र॑वन्तो  व॒ना॒म॒हे ।    
-धु॒ख्षी॒महि॑ प्र॒जामिष᳚म्  ॥
+धु॒ख्षी॒महि॑ प्र॒जामिष॑म्  ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -347,11 +347,11 @@ _______
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-रोहि॑तेन त्वा॒ऽग्निर्दे॒वता᳚ङ्गमयतु॒ हरि॑भ्या॒न्त्वेन्द्रो॑ दे॒वता᳚ङ्गमय॒त्वेत॑शेन त्वा॒ सूर्यो॑ दे॒वता᳚ङ्गमयतु  
+रोहि॑तेन त्वा॒ऽग्निर्दे॒वता॑ङ्गमयतु॒ हरि॑भ्या॒न्त्वेन्द्रो॑ दे॒वता॑ङ्गमय॒त्वेत॑शेन त्वा॒ सूर्यो॑ दे॒वता॑ङ्गमयतु  
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रोहि॑तेन त्वा॒ ऽग्निर् दे॒वता᳚ङ् गमयतु ।   
+रोहि॑तेन त्वा॒ ऽग्निर् दे॒वता॑ङ् गमयतु ।   
 </details>
 <details><summary>Keith</summary>
 
@@ -359,12 +359,12 @@ With the red steed may Agni convey thee to the god;
 </details>
 <details><summary>मूलम्</summary>
 
-रोहि॑तेन त्वा॒ऽग्निर्दे॒वता᳚ङ्गमयतु ।   
+रोहि॑तेन त्वा॒ऽग्निर्दे॒वता॑ङ्गमयतु ।   
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-रोहि॑तेन । त्वा॒ । अ॒ग्निः । दे॒वता᳚म् । ग॒म॒य॒तु॒ । 
+रोहि॑तेन । त्वा॒ । अ॒ग्निः । दे॒वता॑म् । ग॒म॒य॒तु॒ । 
 
 </details>
 
@@ -381,7 +381,7 @@ With the red steed may Agni convey thee to the god;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-हरि॑भ्या॒न् त्वेन्द्रो॑ दे॒वता᳚ङ् गमय॒तु ।  
+हरि॑भ्या॒न् त्वेन्द्रो॑ दे॒वता॑ङ् गमय॒तु ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -389,12 +389,12 @@ with the tawny ones may Indra convey thee to the god;
 </details>
 <details><summary>मूलम्</summary>
 
-हरि॑भ्या॒न्त्वेन्द्रो॑ दे॒वता᳚ङ्गमय॒तु ।  
+हरि॑भ्या॒न्त्वेन्द्रो॑ दे॒वता॑ङ्गमय॒तु ।  
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-हरि॑भ्या॒मिति॒ हरि॑-भ्या॒म् । त्वा॒ । इन्द्रः॑ । दे॒वता᳚म् । ग॒म॒य॒तु॒ । 
+हरि॑भ्या॒मिति॒ हरि॑-भ्या॒म् । त्वा॒ । इन्द्रः॑ । दे॒वता॑म् । ग॒म॒य॒तु॒ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -403,7 +403,7 @@ with the tawny ones may Indra convey thee to the god;
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एत॑शेन त्वा॒ सूर्यो॑ दे॒वता᳚ङ् गमयतु ।  
+एत॑शेन त्वा॒ सूर्यो॑ दे॒वता॑ङ् गमयतु ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -411,12 +411,12 @@ with Etaśa may Sarya convey thee to the god.
 </details>
 <details><summary>मूलम्</summary>
 
-एत॑शेन त्वा॒ सूर्यो॑ दे॒वता᳚ङ्गमयतु ।  
+एत॑शेन त्वा॒ सूर्यो॑ दे॒वता॑ङ्गमयतु ।  
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-एत॑शेन । त्वा॒ । सूर्यः॑ । दे॒वता᳚म् । ग॒म॒य॒तु॒ । 
+एत॑शेन । त्वा॒ । सूर्यः॑ । दे॒वता॑म् । ग॒म॒य॒तु॒ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -433,7 +433,7 @@ _______
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-वि ते॑ मुञ्चामि रश॒ना वि र॒श्मीन् वि योक्त्रा॒ यानि॑ परि॒चर्त॑नानि ध॒त्ताद॒स्मासु॒ द्रवि॑ण॒य्ँयच्च॑ भ॒द्रम्प्र णो᳚ ब्रूताद्भाग॒धान्दे॒वता॑सु ॥ 
+वि ते॑ मुञ्चामि रश॒ना वि र॒श्मीन् वि योक्त्रा॒ यानि॑ परि॒चर्त॑नानि ध॒त्ताद॒स्मासु॒ द्रवि॑ण॒य्ँयच्च॑ भ॒द्रम्प्र णो॑ ब्रूताद्भाग॒धान्दे॒वता॑सु ॥ 
 </details>
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/04_anuyAjAnumantraNAdi/07_vi_te.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
@@ -441,7 +441,7 @@ _______
 +++(अश्वीकृताग्ने!)+++ वि ते॑ **मुञ्चामि** रश॒ना, वि र॒श्मीन्,  
 वि योक्त्रा॒, यानि॑ परि॒चर्त॑नानि+++(←चृती हिंसादौ)+++ ।  
 **ध॒त्ताद्** अ॒स्मासु॒ द्रवि॑ण॒य्ँ यच् च॑ भ॒द्रम्,  
-+++(तेषु)+++ प्र णो᳚ **ब्रूताद्** भाग॒-धान् दे॒वता॑सु  ॥
++++(तेषु)+++ प्र णो॑ **ब्रूताद्** भाग॒-धान् दे॒वता॑सु  ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/04_anuyAjAnumantraNAdi/07_vi_te.md">
@@ -456,7 +456,7 @@ Proclaim us sharers among the gods.
 <details><summary>मूलम्</summary>
 
 वि ते॑ मुञ्चामि रश॒ना वि र॒श्मीन् वि योक्त्रा॒ यानि॑ परि॒चर्त॑नानि ।  
-ध॒त्ताद् अ॒स्मासु॒ द्रवि॑ण॒य्ँयच्च॑ भ॒द्रम्प्र णो᳚ ब्रूताद्भाग॒धान्दे॒वता॑सु  ॥
+ध॒त्ताद् अ॒स्मासु॒ द्रवि॑ण॒य्ँयच्च॑ भ॒द्रम्प्र णो॑ ब्रूताद्भाग॒धान्दे॒वता॑सु  ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -481,7 +481,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विष्णोः᳚ श॒य्ँ-योर्+++(←यु पृथक्करणे)+++ अ॒हन् दे॑वय॒ज्यया॑ य॒ज्ञेन॑  
+विष्णोः॑ श॒य्ँ-योर्+++(←यु पृथक्करणे)+++ अ॒हन् दे॑वय॒ज्यया॑ य॒ज्ञेन॑  
 प्रति॒ष्ठाङ् ग॑मेयम् ।
 </details>
 <details><summary>Keith</summary>
@@ -490,12 +490,12 @@ By sacrifice to the god Visnu, by the sacrifice, may I attain health and wealth,
 </details>
 <details><summary>मूलम्</summary>
 
-विष्णोः᳚ श॒य्ँयोर॒हन्दे॑वय॒ज्यया॑ य॒ज्ञेन॑ प्रति॒ष्ठाङ्ग॑मेयम् ।
+विष्णोः॑ श॒य्ँयोर॒हन्दे॑वय॒ज्यया॑ य॒ज्ञेन॑ प्रति॒ष्ठाङ्ग॑मेयम् ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-विष्णोः᳚ । शँ॒य्योरिति॑ शम्-योः । अ॒हम् । दे॒व॒य॒ज्ययेति॑ देव-य॒ज्यया᳚ । य॒ज्ञेन॑ । प्र॒ति॒ष्ठामिति॑ प्रति-स्थाम् । ग॒मे॒य॒म् । 
+विष्णोः॑ । शँ॒य्योरिति॑ शम्-योः । अ॒हम् । दे॒व॒य॒ज्ययेति॑ देव-य॒ज्यया॑ । य॒ज्ञेन॑ । प्र॒ति॒ष्ठामिति॑ प्रति-स्थाम् । ग॒मे॒य॒म् । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -519,7 +519,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सोम॑स्या॒हन् दे॑व-य॒ज्यया᳚  
+सोम॑स्या॒हन् दे॑व-य॒ज्यया॑  
 सु॒रेता॒ रेतो॑ धिषीय ।
 </details>
 <details><summary>Keith</summary>
@@ -528,12 +528,12 @@ By sacrifice to the god Soma [3], possessing good seed, may I impregnate seed.
 </details>
 <details><summary>मूलम्</summary>
 
-सोम॑स्या॒हन्दे॑वय॒ज्यया᳚ [13] सु॒रेता॒ रेतो॑ धिषीय ।
+सोम॑स्या॒हन्दे॑वय॒ज्यया॑ [13] सु॒रेता॒ रेतो॑ धिषीय ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-सोम॑स्य । अ॒हम् । दे॒व॒य॒ज्ययेति॑ देव-य॒ज्यया᳚ । सु॒रेता॒ इति॑ सु-रेताः᳚ । रेतः॑ । धि॒षी॒य॒ ।
+सोम॑स्य । अ॒हम् । दे॒व॒य॒ज्ययेति॑ देव-य॒ज्यया॑ । सु॒रेता॒ इति॑ सु-रेताः॑ । रेतः॑ । धि॒षी॒य॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -564,7 +564,7 @@ By sacrifice to the god Tvastr, may I prosper the form of cattle.
 
 <details><summary>पद-पाठः</summary>
 
-त्वष्टुः॑ । अ॒हम् । दे॒व॒य॒ज्ययेति॑ देव-य॒ज्यया᳚ । प॒शू॒नाम् । रू॒पम् । पु॒षे॒य॒म् ।
+त्वष्टुः॑ । अ॒हम् । दे॒व॒य॒ज्ययेति॑ देव-य॒ज्यया॑ । प॒शू॒नाम् । रू॒पम् । पु॒षे॒य॒म् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -588,7 +588,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वाना॒म् पत्नी᳚र्  
+दे॒वाना॒म् पत्नी॑र्  
 अ॒ग्निर् गृ॒ह-प॑तिर् +++(इति)+++  
 य॒ज्ञस्य॑ मिथु॒नम्  ।
 </details>
@@ -598,13 +598,13 @@ The wives of the gods, Agni lord of the house, are the pair of the sacrifice;
 </details>
 <details><summary>मूलम्</summary>
 
-दे॒वाना॒म्पत्नी᳚र्  ..  
+दे॒वाना॒म्पत्नी॑र्  ..  
 अ॒ग्निर्गृ॒हप॑तिर्य॒ज्ञस्य॑ मिथु॒नम्।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-दे॒वाना᳚म् । पत्नीः᳚ । अ॒ग्निः । गृ॒हप॑ति॒रिति॑ गृ॒ह-प॒तिः॒ । य॒ज्ञस्य॑ । मि॒थु॒नम् ।
+दे॒वाना॑म् । पत्नीः॑ । अ॒ग्निः । गृ॒हप॑ति॒रिति॑ गृ॒ह-प॒तिः॒ । य॒ज्ञस्य॑ । मि॒थु॒नम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -632,7 +632,7 @@ by sacrifice to these deities, may I be propagated with a pair.
 </details>
 <details><summary>पद-पाठः</summary>
 
-तयोः᳚ । अ॒हम् । दे॒व॒य॒ज्ययेति॑ देव-य॒ज्यया᳚ । मि॒थु॒नेन॑ । प्रेति॑ । भू॒या॒स॒म् । 
+तयोः॑ । अ॒हम् । दे॒व॒य॒ज्ययेति॑ देव-य॒ज्यया॑ । मि॒थु॒नेन॑ । प्रेति॑ । भू॒या॒स॒म् । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -655,7 +655,7 @@ _______
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-वे॒दो॑ऽसि॒ वित्ति॑रसि वि॒देय॒ कर्मा॑सि क॒रुण॑मसि क्रि॒यासꣳ॑ स॒निर॑सि सनि॒तासि॑ स॒नेय॑ङ्घृ॒तव॑न्तङ्कुला॒यिनꣳ॑ रा॒यस्पोषꣳ॑ सह॒स्रिण॑व्ँवे॒दो द॑दातु वा॒जिन᳚म् ॥
+वे॒दो॑ऽसि॒ वित्ति॑रसि वि॒देय॒ कर्मा॑सि क॒रुण॑मसि क्रि॒यासꣳ॑ स॒निर॑सि सनि॒तासि॑ स॒नेय॑ङ्घृ॒तव॑न्तङ्कुला॒यिनꣳ॑ रा॒यस्पोषꣳ॑ सह॒स्रिण॑व्ँवे॒दो द॑दातु वा॒जिन॑म् ॥
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -705,7 +705,7 @@ Thou art action, thou art making, may I make.
 </details>
 <details><summary>पद-पाठः</summary>
 
-कर्म॑ । अ॒सि॒ । क॒रुण᳚म् । अ॒सि॒ । क्रि॒यास᳚म् । 
+कर्म॑ । अ॒सि॒ । क॒रुण॑म् । अ॒सि॒ । क्रि॒यास॑म् । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -732,7 +732,7 @@ Thou art winning, thou art the winner, may I win.
 </details>
 <details><summary>पद-पाठः</summary>
 
-स॒निः । अ॒सि॒ । स॒नि॒ता । अ॒सि॒ । स॒नेय᳚म् । 
+स॒निः । अ॒सि॒ । स॒नि॒ता । अ॒सि॒ । स॒नेय॑म् । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -751,7 +751,7 @@ Thou art winning, thou art the winner, may I win.
 
 घृ॒तव॑न्तङ् कुला॒यिनं॑+++(=नीडवन्तं)+++   
 रा॒यस्पोषꣳ॑ सह॒स्रिणं॑   
-**वे॒दो द॑दातु** वा॒जिन᳚म् ॥
+**वे॒दो द॑दातु** वा॒जिन॑म् ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/04_anuyAjAnumantraNAdi/08_ghRtavanta~N_kulAyinam.md">
@@ -766,7 +766,7 @@ A thousandfold, strong.
 
 घृ॒तव॑न्तङ् कुला॒यिनं॑   
 रा॒यस्पोषꣳ॑ सह॒स्रिणं॑   
-वे॒दो द॑दातु वा॒जिन᳚म् ॥
+वे॒दो द॑दातु वा॒जिन॑म् ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

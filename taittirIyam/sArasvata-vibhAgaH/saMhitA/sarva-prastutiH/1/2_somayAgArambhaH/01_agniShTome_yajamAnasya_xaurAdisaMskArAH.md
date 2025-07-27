@@ -46,7 +46,7 @@ For length of days, for glory.
 </details>
 <details><summary>पद-पाठः</summary>
 
-आपः॑ । उ॒न्द॒न्तु॒ । जी॒वसे᳚ । दी॒र्घा॒यु॒त्वायेति॑ दीर्घायु-त्वाय॑ । वर्च॑से । 
+आपः॑ । उ॒न्द॒न्तु॒ । जी॒वसे॑ । दी॒र्घा॒यु॒त्वायेति॑ दीर्घायु-त्वाय॑ । वर्च॑से । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -241,7 +241,7 @@ ________
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उद् +++(अद्भ्य)+++ आ᳚भ्य॒श् शुचि॒र् आ पू॒त ए॑मि ।+++(र५)+++
+उद् +++(अद्भ्य)+++ आ॑भ्य॒श् शुचि॒र् आ पू॒त ए॑मि ।+++(र५)+++
 </details>
 <details><summary>Keith</summary>
 
@@ -249,7 +249,7 @@ Forth from these waters do I come bright, in purity.
 </details>
 <details><summary>मूलम्</summary>
 
-उदा᳚भ्य॒श्शुचि॒रा पू॒त ए॑मि ।
+उदा॑भ्य॒श्शुचि॒रा पू॒त ए॑मि ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -285,7 +285,7 @@ Thou art the body of Soma, guard my body.
 <details><summary>पद-पाठः</summary>
 
 सोम॑स्य । त॒नूः । अ॒सि॒ ।   
-त॒नुव᳚म् । मे॒ । पा॒हि॒ । 
+त॒नुव॑म् । मे॒ । पा॒हि॒ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -522,7 +522,7 @@ O lord of the purifier, with thy purifier for whatsoever I purify myself, that m
 
 <details><summary>पद-पाठः</summary>
 
-तस्य॑ । ते॒ । प॒वि॒त्र॒प॒त॒ इति॑ पवित्र-प॒ते॒ । प॒वित्रे॑ण । यस्मै᳚ । कम् । पु॒ने । तत् । श॒के॒य॒म् । 
+तस्य॑ । ते॒ । प॒वि॒त्र॒प॒त॒ इति॑ पवित्र-प॒ते॒ । प॒वित्रे॑ण । यस्मै॑ । कम् । पु॒ने । तत् । श॒के॒य॒म् । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -583,7 +583,7 @@ ________
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रा᳚ग्नी॒ द्यावा॑पृथिवी॒ आप॑ ओषधीः +++(अनुमन्यध्वम्!)+++।+++(र४)+++
+इन्द्रा॑ग्नी॒ द्यावा॑पृथिवी॒ आप॑ ओषधीः +++(अनुमन्यध्वम्!)+++।+++(र४)+++
 </details>
 <details><summary>Keith</summary>
 
@@ -591,12 +591,12 @@ Indra and Agni, heaven and earth, waters, plants.
 </details>
 <details><summary>मूलम्</summary>
 
-इन्द्रा᳚ग्नी॒ द्यावा॑पृथिवी॒ आप॑ ओषधीः ।
+इन्द्रा॑ग्नी॒ द्यावा॑पृथिवी॒ आप॑ ओषधीः ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-इन्द्रा᳚ग्नी॒ इतीन्द्र॑-अ॒ग्नी॒ ।  द्यावा॑पृथिवी॒ इति॒ द्यावा᳚-पृ॒थि॒वी॒ । आपः॑ । ओ॒ष॒धीः॒ ।  
+इन्द्रा॑ग्नी॒ इतीन्द्र॑-अ॒ग्नी॒ ।  द्यावा॑पृथिवी॒ इति॒ द्यावा॑-पृ॒थि॒वी॒ । आपः॑ । ओ॒ष॒धीः॒ ।  
 </details>
 
 
@@ -630,7 +630,7 @@ Thou art the lord of consecrations
 
 <details><summary>पद-पाठः</summary>
 
-त्वम् । दी॒ख्षाणा᳚म् । अधि॑पति॒रित्यधि॑-प॒तिः॒ । अ॒सि॒ ।   
+त्वम् । दी॒ख्षाणा॑म् । अधि॑पति॒रित्यधि॑-प॒तिः॒ । अ॒सि॒ ।   
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -650,7 +650,7 @@ ________
 </details>
 <details><summary>पद-पाठः</summary>
 
-इ॒ह । मा॒ । सन्त᳚म् । पा॒हि॒ ॥ [2]  
+इ॒ह । मा॒ । सन्त॑म् । पा॒हि॒ ॥ [2]  
 </details>
 
 <details><summary>Keith</summary>

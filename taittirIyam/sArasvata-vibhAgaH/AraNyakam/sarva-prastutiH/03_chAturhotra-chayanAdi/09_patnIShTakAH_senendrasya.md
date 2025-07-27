@@ -30,12 +30,12 @@ title = "०९ पत्नीष्टकाः सेनेन्द्रस
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-धेना॒ बृह॒स्पतेः᳚ ।  
+धेना॒ बृह॒स्पतेः॑ ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
-धेना॒ बृह॒स्पतेः᳚ ।  
+धेना॒ बृह॒स्पतेः॑ ।  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -93,12 +93,12 @@ title = "०९ पत्नीष्टकाः सेनेन्द्रस
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रु॒द्राणा᳚न् त्रि॒ष्टुक् ।  
+रु॒द्राणा॑न् त्रि॒ष्टुक् ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
-रु॒द्राणा᳚न्त्रि॒ष्टुक् ।  
+रु॒द्राणा॑न्त्रि॒ष्टुक् ।  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

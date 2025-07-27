@@ -52,9 +52,9 @@ unicode_script = "devanagari"
 <details open><summary><h2>02 चित्रन्नख्षत्रमुदगात्पुरस्तात् ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
-चि॒त्रन्नख्ष॑त्र॒मुद॑गात्पु॒रस्ता᳚त् ।  
+चि॒त्रन्नख्ष॑त्र॒मुद॑गात्पु॒रस्ता॑त् ।  
 अ॒नू॒रा॒धास॒ इति॒ यद्वद॑न्ति ।  
-तन्मि॒त्र ए॑ति प॒थिभि॑र्देव॒यानैः᳚ ।  
+तन्मि॒त्र ए॑ति प॒थिभि॑र्देव॒यानैः॑ ।  
 हि॒र॒ण्ययै॒र्वित॑तैर॒न्तरि॑ख्षे ।  
 
 
@@ -73,8 +73,8 @@ unicode_script = "devanagari"
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/17_mitrAya_svAhA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-मि॒त्राय॒ स्वाहा॑ ऽनूरा॒धेभ्य॒स् स्वाहा᳚ ।  
-मि॒त्र॒धेया॑य॒ स्वाहा॒ ऽभिजि॑त्यै॒ स्वाहा᳚ ॥42॥
+मि॒त्राय॒ स्वाहा॑ ऽनूरा॒धेभ्य॒स् स्वाहा॑ ।  
+मि॒त्र॒धेया॑य॒ स्वाहा॒ ऽभिजि॑त्यै॒ स्वाहा॑ ॥42॥
 </details>
 </div>
 
@@ -109,7 +109,7 @@ unicode_script = "devanagari"
 <details open><summary><h2>03 इन्द्रो ज्येष्ठामनु ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
-इन्द्रो᳚ ज्ये॒ष्ठामनु॒ नख्ष॑त्रमेति ।   
+इन्द्रो॑ ज्ये॒ष्ठामनु॒ नख्ष॑त्रमेति ।   
 यस्मि॑न्वृ॒त्रव्ँ वृ॑त्र॒तूर्ये॑ त॒तार॑ ॥13॥  
 तस्मि॑न्व॒यम॒मृत॒न्दुहा॑नाः ।  
 ख्षुध॑न्तरेम॒ दुरि॑ति॒न्दुरि॑ष्टिम् ।  
@@ -140,8 +140,8 @@ unicode_script = "devanagari"
 <details open><summary><h2>04 पुरन्दराय वृषभाय ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
-पु॒र॒न्द॒राय॑ वृष॒भाय॑ धृ॒ष्णवे᳚ ।  
-अषा॑ढाय॒ सह॑मानाय मी॒ढुषे᳚ ।  
+पु॒र॒न्द॒राय॑ वृष॒भाय॑ धृ॒ष्णवे॑ ।  
+अषा॑ढाय॒ सह॑मानाय मी॒ढुषे॑ ।  
 इन्द्रा॑य ज्ये॒ष्ठा मधु॑म॒द्दुहा॑ना ।  
 उ॒रुङ्कृ॑णोतु॒ यज॑मानाय लो॒कम् ।   
 
@@ -162,8 +162,8 @@ unicode_script = "devanagari"
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/18_indrAya_svAhA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-इन्द्रा॑य॒ स्वाहा᳚ ज्ये॒ष्ठायै॒ स्वाहा᳚ ।  
-ज्यैष्ठ्या॑य॒ स्वाहा॒ ऽभिजि॑त्यै॒ स्वाहा᳚ ॥43॥
+इन्द्रा॑य॒ स्वाहा॑ ज्ये॒ष्ठायै॒ स्वाहा॑ ।  
+ज्यैष्ठ्या॑य॒ स्वाहा॒ ऽभिजि॑त्यै॒ स्वाहा॑ ॥43॥
 </details>
 </div>
 
@@ -202,9 +202,9 @@ unicode_script = "devanagari"
 <details><summary>मूलम्</summary>
 
 मूल॑म्प्र॒जाव्ँ वी॒रव॑तीव्ँ विदेय ।  
-परा᳚च्येतु॒ निर्ऋ॑तिᳶ परा॒चा ।  
+परा॑च्येतु॒ निर्ऋ॑तिᳶ परा॒चा ।  
 गोभि॒र्नख्ष॑त्रम्प॒शुभि॒स्सम॑क्तम् ।  
-अह॑र्भूया॒द्यज॑मानाय॒ मह्य᳚म् ॥14॥  
+अह॑र्भूया॒द्यज॑मानाय॒ मह्य॑म् ॥14॥  
 
 
 </details>
@@ -234,7 +234,7 @@ unicode_script = "devanagari"
 अह॑र्नो अ॒द्य सु॑वि॒ते द॑धातु ।   
 मूल॒न्नख्ष॑त्र॒मिति॒ यद्वद॑न्ति ।  
 परा॑चीव्ँ वा॒चा निर्ऋ॑तिन्नुदामि ।  
-शि॒वम्प्र॒जायै॑ शि॒वम॑स्तु॒ मह्य᳚म् ।  
+शि॒वम्प्र॒जायै॑ शि॒वम॑स्तु॒ मह्य॑म् ।  
 
 
 </details>
@@ -252,7 +252,7 @@ unicode_script = "devanagari"
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/19_prajApataye_svAhA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-प्र॒जाप॑तये॒ स्वाहा॒ मूला॑य॒ स्वाहा᳚ । प्र॒जायै॒ स्वाहा᳚ ॥44॥
+प्र॒जाप॑तये॒ स्वाहा॒ मूला॑य॒ स्वाहा॑ । प्र॒जायै॒ स्वाहा॑ ॥44॥
 </details>
 </div>
 
@@ -295,7 +295,7 @@ unicode_script = "devanagari"
 
 या दि॒व्या आप॒ᳶ पय॑सा सम्बभू॒वुः ।   
 या अ॒न्तरि॑ख्ष उ॒त पार्थि॑वी॒र्याः ।  
-यासा॑मषा॒ढा अ॑नु॒यन्ति॒ काम᳚म् ।   
+यासा॑मषा॒ढा अ॑नु॒यन्ति॒ काम॑म् ।   
 ता न॒ आप॒श्शꣵ स्यो॒ना भ॑वन्तु ।  
 
 
@@ -324,7 +324,7 @@ unicode_script = "devanagari"
 <details open><summary><h2>08 याश्च कूप्या ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
-याश्च॒ कूप्या॒ याश्च॑ ना॒द्या᳚स्समु॒द्रियाः᳚ ।   
+याश्च॒ कूप्या॒ याश्च॑ ना॒द्या॑स्समु॒द्रियाः॑ ।   
 याश्च॑ वैश॒न्तीरु॒त प्रा॑स॒चीर्याः ॥15॥   
 यासा॑मषा॒ढा मधु॑ भ॒ख्षय॑न्ति॒ ।  
 ता न॒ आप॒श्शꣵ स्यो॒ना भ॑वन्तु ।
@@ -348,9 +348,9 @@ unicode_script = "devanagari"
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/20_adbhyas_svAhA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-अ॒द्भ्यस् स्वाहा॑ ऽषा॒ढाभ्य॒स् स्वाहा᳚ ।  
-स॒मु॒द्राय॒ स्वाहा॒ कामा॑य॒ स्वाहा᳚ ।  
-अ॒भिजि॑त्यै॒  स्वाहा᳚ ॥45॥
+अ॒द्भ्यस् स्वाहा॑ ऽषा॒ढाभ्य॒स् स्वाहा॑ ।  
+स॒मु॒द्राय॒ स्वाहा॒ कामा॑य॒ स्वाहा॑ ।  
+अ॒भिजि॑त्यै॒  स्वाहा॑ ॥45॥
 </details>
 </div>
 
@@ -420,7 +420,7 @@ unicode_script = "devanagari"
 
 शु॒भ्राᳵ क॒न्या॑ युव॒तय॑स्सु॒पेश॑सः ।   
 क॒र्म॒कृत॑स्सु॒कृतो॑ वी॒र्या॑वतीः ।  
-विश्वा᳚न्दे॒वान् ह॒विषा॑ व॒र्धय॑न्तीः ।     
+विश्वा॑न्दे॒वान् ह॒विषा॑ व॒र्धय॑न्तीः ।     
 अ॒षा॒ढाᳵ काम॒मुप॑ यान्तु य॒ज्ञम् ॥16॥  
 
 
@@ -440,7 +440,7 @@ unicode_script = "devanagari"
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/21_vishvebhyo_devebhyas.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-विश्वे᳚भ्यो दे॒वेभ्य॒स् स्वाहा॑ ऽषा॒ढाभ्य॒स् स्वाहा᳚ । अ॒न॒प॒ज॒य्याय॒ स्वाहा॒ जित्यै॒ स्वाहा᳚ ॥46॥
+विश्वे॑भ्यो दे॒वेभ्य॒स् स्वाहा॑ ऽषा॒ढाभ्य॒स् स्वाहा॑ । अ॒न॒प॒ज॒य्याय॒ स्वाहा॒ जित्यै॒ स्वाहा॑ ॥46॥
 </details>
 </div>
 
@@ -475,7 +475,7 @@ unicode_script = "devanagari"
 <details><summary>मूलम्</summary>
 
 यस्मि॒न्ब्रह्मा॒ऽभ्यज॑य॒थ्सर्व॑मे॒तत् ।   
-अ॒मुञ्च॑ लो॒कमि॒दमू॑ च॒ सर्व᳚म् ।  
+अ॒मुञ्च॑ लो॒कमि॒दमू॑ च॒ सर्व॑म् ।  
 तन्नो॒ नख्ष॑त्रमभि॒जिद्वि॒जित्य॑ ।  
 श्रिय॑न्दधा॒त्वहृ॑णीयमानम् ।  
 
@@ -508,7 +508,7 @@ unicode_script = "devanagari"
 उ॒भौ लो॒कौ ब्रह्म॑णा॒ सञ्जि॑ते॒मौ ।  
 तन्नो॒ नख्ष॑त्रमभि॒जिद्विच॑ष्टाम् ।  
 तस्मि॑न्व॒यम्पृत॑ना॒स्सञ्ज॑येम ।  
-तन्नो॑ दे॒वासो॒ अनु॑जानन्तु॒ काम᳚म् ।
+तन्नो॑ दे॒वासो॒ अनु॑जानन्तु॒ काम॑म् ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -524,7 +524,7 @@ unicode_script = "devanagari"
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/22_brahmaNe_svAhA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-ब्रह्म॑णे॒ स्वाहा॑ ऽभि॒जिते॒ स्वाहा᳚ । ब्र॒ह्म॒लो॒काय॒ स्वाहा॒ ऽभिजि॑त्यै॒ स्वाहा᳚ ॥47॥
+ब्रह्म॑णे॒ स्वाहा॑ ऽभि॒जिते॒ स्वाहा॑ । ब्र॒ह्म॒लो॒काय॒ स्वाहा॒ ऽभिजि॑त्यै॒ स्वाहा॑ ॥47॥
 </details>
 </div>
 
@@ -567,7 +567,7 @@ unicode_script = "devanagari"
 <details><summary>मूलम्</summary>
 
 शृ॒ण्वन्ति॑ श्रो॒णाम॒मृत॑स्य गो॒पाम् ।  
-पुण्या॑मस्या॒ उप॑शृणोमि॒ वाच᳚म् ॥17 ॥  
+पुण्या॑मस्या॒ उप॑शृणोमि॒ वाच॑म् ॥17 ॥  
 म॒हीन्दे॒वीव्ँ विष्णु॑पत्नीमजू॒र्याम् ।  
 प्र॒तीची॑मेनाꣳ ह॒विषा॑ यजामः ।  
 
@@ -618,8 +618,8 @@ unicode_script = "devanagari"
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/23_viShNave_svAhA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-विष्ण॑वे॒ स्वाहा᳚ श्रो॒णायै॒ स्वाहा᳚ ।  
-श्लोका॑य॒ स्वाहा᳚ श्रु॒ताय॒ स्वाहा᳚ ॥48॥
+विष्ण॑वे॒ स्वाहा॑ श्रो॒णायै॒ स्वाहा॑ ।  
+श्लोका॑य॒ स्वाहा॑ श्रु॒ताय॒ स्वाहा॑ ॥48॥
 </details>
 </div>
 
@@ -660,7 +660,7 @@ unicode_script = "devanagari"
 
 अ॒ष्टौ दे॒वा वस॑वस्सो॒म्यासः॑ ।  
 चत॑स्रो दे॒वीर॒जरा॒श्श्रवि॑ष्ठाः ।  
-ते य॒ज्ञम्पा᳚न्तु॒ रज॑सᳶ प॒रस्ता᳚त् ।  
+ते य॒ज्ञम्पा॑न्तु॒ रज॑सᳶ प॒रस्ता॑त् ।  
 स॒व्ँव॒थ्स॒रीण॑म॒मृतꣵ॑ स्व॒स्ति ॥18॥  
 
 
@@ -688,7 +688,7 @@ unicode_script = "devanagari"
 <details open><summary><h2>16 यज्ञन्नᳶ पान्तु ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
-य॒ज्ञन्न॑ᳶ पान्तु॒ वस॑वᳶ पु॒रस्ता᳚त् ।  
+य॒ज्ञन्न॑ᳶ पान्तु॒ वस॑वᳶ पु॒रस्ता॑त् ।  
 द॒ख्षि॒ण॒तो॑ऽभिय॑न्तु॒ श्रवि॑ष्ठाः ।   
 पुण्य॒न्नख्ष॑त्रम॒भिसव्ँ वि॑शाम ।  
 मा नो॒ अरा॑तिर॒घश॒ꣳ॒साऽग॑न् ।  
@@ -709,8 +709,8 @@ unicode_script = "devanagari"
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/24_vasubhyas_svAhA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-वसु॑भ्य॒स् स्वाहा॒ श्रवि॑ष्ठाभ्य॒स् स्वाहा᳚ ।  
-अग्रा॑य॒ स्वाहा॒ परी᳚त्यै॒ स्वाहा᳚ ॥49॥
+वसु॑भ्य॒स् स्वाहा॒ श्रवि॑ष्ठाभ्य॒स् स्वाहा॑ ।  
+अग्रा॑य॒ स्वाहा॒ परी॑त्यै॒ स्वाहा॑ ॥49॥
 </details>
 </div>
 
@@ -802,7 +802,7 @@ unicode_script = "devanagari"
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/25_varuNAya_svAhA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-वरु॑णाय॒ स्वाहा॑ श॒तभि॑षजे॒ स्वाहा᳚ । भे॒ष॒जेभ्य॒स् स्वाहा᳚ ॥50॥
+वरु॑णाय॒ स्वाहा॑ श॒तभि॑षजे॒ स्वाहा॑ । भे॒ष॒जेभ्य॒स् स्वाहा॑ ॥50॥
 </details>
 </div>
 
@@ -843,9 +843,9 @@ unicode_script = "devanagari"
 <details open><summary><h2>19 अज एकपादुदगात्पुरस्तात् ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
-अ॒ज एक॑पा॒दुद॑गात्पु॒रस्ता᳚त् ।  
+अ॒ज एक॑पा॒दुद॑गात्पु॒रस्ता॑त् ।  
 विश्वा॑ भू॒तानि॑ प्रति॒मोद॑मानः ।  
-तस्य॑ दे॒वाᳶ प्र॑स॒वय्ँय॑न्ति॒ सर्वे᳚ ।   
+तस्य॑ दे॒वाᳶ प्र॑स॒वय्ँय॑न्ति॒ सर्वे॑ ।   
 प्रो॒ष्ठ॒प॒दासो॑ अ॒मृत॑स्य गो॒पाः ।  
 
 
@@ -876,7 +876,7 @@ unicode_script = "devanagari"
 वि॒भ्राज॑मानस्समिधा॒न उ॒ग्रः ।   
 आऽन्तरि॑ख्षमरुह॒दग॒न्द्याम् ।  
 तꣳ सूर्य॑न्दे॒वम॒जमेक॑पादम् ।  
-प्रो॒ष्ठ॒प॒दासो॒ अनु॑यन्ति॒ सर्वे᳚ ॥20॥  
+प्रो॒ष्ठ॒प॒दासो॒ अनु॑यन्ति॒ सर्वे॑ ॥20॥  
 
 
 
@@ -894,8 +894,8 @@ unicode_script = "devanagari"
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/26_ajAyaikapade_svAhA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-अ॒जायैक॑पदे॒ स्वाहा᳚ प्रोष्ठप॒देभ्य॒स् स्वाहा᳚ ।  
-तेज॑से॒ स्वाहा᳚ ब्रह्मवर्च॒साय॒ स्वाहा᳚ ॥51॥
+अ॒जायैक॑पदे॒ स्वाहा॑ प्रोष्ठप॒देभ्य॒स् स्वाहा॑ ।  
+तेज॑से॒ स्वाहा॑ ब्रह्मवर्च॒साय॒ स्वाहा॑ ॥51॥
 </details>
 </div>
 
@@ -937,8 +937,8 @@ unicode_script = "devanagari"
 
 अहि॑र्बु॒ध्निय॒ᳶ प्रथ॑मान एति ।  
 श्रेष्ठो॑ दे॒वाना॑मु॒त मानु॑षाणाम् ।  
-तम्ब्रा᳚ह्म॒णास्सो॑म॒पास्सो॒म्यासः॑ ।    
-प्रो॒ष्ठ॒प॒दासो॑ अ॒भिर॑ख्षन्ति॒ सर्वे᳚ ।
+तम्ब्रा॑ह्म॒णास्सो॑म॒पास्सो॒म्यासः॑ ।    
+प्रो॒ष्ठ॒प॒दासो॑ अ॒भिर॑ख्षन्ति॒ सर्वे॑ ।
 
 
 </details>
@@ -987,8 +987,8 @@ unicode_script = "devanagari"
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/27_ahaye_budhniyAya.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-अह॑ये बु॒ध्निया॑य॒ स्वाहा᳚  
-प्रोष्ठप॒देभ्य॒स् स्वाहा᳚ । प्र॒ति॒ष्ठायै॒ स्वाहा᳚ ॥52॥
+अह॑ये बु॒ध्निया॑य॒ स्वाहा॑  
+प्रोष्ठप॒देभ्य॒स् स्वाहा॑ । प्र॒ति॒ष्ठायै॒ स्वाहा॑ ॥52॥
 </details>
 </div>
 
@@ -1032,7 +1032,7 @@ unicode_script = "devanagari"
 <details open><summary><h2>23 पूषा रेवत्यन्वेति ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
-पू॒षा रे॒वत्यन्वे॑ति॒ पन्था᳚म् ।   
+पू॒षा रे॒वत्यन्वे॑ति॒ पन्था॑म् ।   
 पु॒ष्टि॒पती॑ पशु॒पा वाज॑बस्त्यौ ॥21॥  
 इ॒मानि॑ ह॒व्या प्रय॑ता जुषा॒णा ।   
 सु॒गैर्नो॒ यानै॒रुप॑याताय्ँ य॒ज्ञम् ।  
@@ -1082,7 +1082,7 @@ unicode_script = "devanagari"
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/28_pUShNe_svAhA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-पू॒ष्णे स्वाहा॑ रे॒वत्यै॒ स्वाहा᳚ । प॒शुभ्य॒स् स्वाहा᳚ ॥53॥
+पू॒ष्णे स्वाहा॑ रे॒वत्यै॒ स्वाहा॑ । प॒शुभ्य॒स् स्वाहा॑ ॥53॥
 </details>
 </div>
 
@@ -1123,7 +1123,7 @@ unicode_script = "devanagari"
 <details><summary>मूलम्</summary>
 
 तद॒श्विना॑वश्व॒युजोप॑याताम् ।   
-शुभ॒ङ्गमि॑ष्ठौ सु॒यमे॑भि॒रश्वैः᳚ ।  
+शुभ॒ङ्गमि॑ष्ठौ सु॒यमे॑भि॒रश्वैः॑ ।  
 स्वन्नख्ष॑त्रꣳ ह॒विषा॒ यज॑न्तौ ।     
 मध्वा॒ सम्पृ॑क्तौ॒ यजु॑षा॒ सम॑क्तौ ॥22॥  
 
@@ -1153,10 +1153,10 @@ unicode_script = "devanagari"
 <details open><summary><h2>26 यौ देवानाम्भिषजौ ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
-यौ दे॒वाना᳚म्भि॒षजौ॑ हव्यवा॒हौ ।  
+यौ दे॒वाना॑म्भि॒षजौ॑ हव्यवा॒हौ ।  
 विश्व॑स्य दू॒ताव॒मृत॑स्य गो॒पौ ।  
 तौ नख्ष॑त्रञ्जुजुषा॒णोप॑याताम् ।  
-नमो॒ऽश्विभ्या᳚ङ्कृणुमोऽश्व॒युग्भ्या᳚म् ।
+नमो॒ऽश्विभ्या॑ङ्कृणुमोऽश्व॒युग्भ्या॑म् ।
 
 
 </details>
@@ -1174,8 +1174,8 @@ unicode_script = "devanagari"
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/29_ashvibhyAM_svAhA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-अ॒श्विभ्या॒ꣳ॒ स्वाहा᳚ ऽश्व॒युग्भ्या॒ꣳ॒ स्वाहा᳚ ।   
-श्रोत्रा॑य॒ स्वाहा॒ श्रुत्यै॒ स्वाहा᳚ ॥54॥
+अ॒श्विभ्या॒ꣳ॒ स्वाहा॑ ऽश्व॒युग्भ्या॒ꣳ॒ स्वाहा॑ ।   
+श्रोत्रा॑य॒ स्वाहा॒ श्रुत्यै॒ स्वाहा॑ ॥54॥
 </details>
 </div>
 
@@ -1242,7 +1242,7 @@ unicode_script = "devanagari"
 <details open><summary><h2>28 यस्मिन्नख्षत्रे यम ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
-यस्मि॒न्नख्ष॑त्रे य॒म एति॒ राजा᳚ ।  
+यस्मि॒न्नख्ष॑त्रे य॒म एति॒ राजा॑ ।  
 यस्मि॑न्नेनम॒भ्यषि॑ञ्चन्त दे॒वाः ।  
 तद॑स्य चि॒त्रꣳ ह॒विषा॑ यजाम ।  
 अप॑ पा॒प्मान॒म्भर॑णीर्भरन्तु ।
@@ -1273,8 +1273,8 @@ unicode_script = "devanagari"
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/30_yamAya_svAhA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-य॒माय॒ स्वाहा॑ ऽप॒भर॑णीभ्य॒स् स्वाहा᳚ ।  
-रा॒ज्याय॒ स्वाहा॒ ऽभिजि॑त्यै॒ स्वाहा᳚ ॥55॥
+य॒माय॒ स्वाहा॑ ऽप॒भर॑णीभ्य॒स् स्वाहा॑ ।  
+रा॒ज्याय॒ स्वाहा॒ ऽभिजि॑त्यै॒ स्वाहा॑ ॥55॥
 </details>
 </div>
 
@@ -1308,7 +1308,7 @@ unicode_script = "devanagari"
 <details open><summary><h2>29 निवेशनी ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
-नि॒वेश॑नी स॒ङ्गम॑नी॒ वसू॑ना॒व्ँविश्वा॑ रू॒पाणि॒ वसू᳚न्यावे॒शय॑न्ती ।  
+नि॒वेश॑नी स॒ङ्गम॑नी॒ वसू॑ना॒व्ँविश्वा॑ रू॒पाणि॒ वसू॑न्यावे॒शय॑न्ती ।  
 स॒ह॒स्र॒पो॒षꣳ सु॒भगा॒ ररा॑णा॒ सा न॒ आ ग॒न्वर्च॑सा सव्ँविदा॒ना ।
 </details>
 <details><summary>मूलम्</summary>
@@ -1341,7 +1341,7 @@ unicode_script = "devanagari"
 <details><summary>मूलम्</summary>
 
 यत्ते॑ दे॒वा अद॑धुर्भाग॒धेय॒ममा॑वास्ये स॒व्ँवस॑न्तो महि॒त्वा ।   
-सा नो॑ य॒ज्ञम्पि॑पृहि विश्ववारे र॒यिन्नो॑ धेहि सुभगे सु॒वीर᳚म् ।
+सा नो॑ य॒ज्ञम्पि॑पृहि विश्ववारे र॒यिन्नो॑ धेहि सुभगे सु॒वीर॑म् ।
 </details>
 <details><summary>मूलम्</summary>
 
@@ -1363,6 +1363,6 @@ ________________
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/31_amAvAsyAyai_svAhA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-अ॒मा॒वा॒स्या॑यै॒ स्वाहा॒ कामा॑य॒ स्वाहा ऽऽग॑त्यै॒ स्वाहा᳚ ॥56॥
+अ॒मा॒वा॒स्या॑यै॒ स्वाहा॒ कामा॑य॒ स्वाहा ऽऽग॑त्यै॒ स्वाहा॑ ॥56॥
 </details>
 </div>

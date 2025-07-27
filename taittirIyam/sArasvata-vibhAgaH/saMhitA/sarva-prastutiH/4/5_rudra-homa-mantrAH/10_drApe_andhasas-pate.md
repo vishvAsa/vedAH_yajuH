@@ -62,7 +62,7 @@ Be not one of these injured.
 या ते॑ रुद्र शि॒वा त॒नूश्  
 शि॒वा वि॒श्वाह॑+++(←अहो)+++-भेषजी ।   
 शि॒वा रु॒द्रस्य॑ भेष॒जी  
-तया॑ नो **मृड** जी॒वसे᳚ ।
+तया॑ नो **मृड** जी॒वसे॑ ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/03_yA_te.md">
@@ -77,7 +77,7 @@ With that show mercy on us for life.
 <details><summary>मूलम्</summary>
 
 या ते॑ रुद्र शि॒वा त॒नूश्शि॒वा वि॒श्वाह॑भेषजी ।   
-शि॒वा रु॒द्रस्य॑ भेष॒जी तया॑ नो मृड जी॒वसे᳚ ।
+शि॒वा रु॒द्रस्य॑ भेष॒जी तया॑ नो मृड जी॒वसे॑ ।
 </details>
 <details><summary>सायण-टीका</summary>
 
@@ -90,7 +90,7 @@ With that show mercy on us for life.
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/04_imAM_rudrAya.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-इ॒माꣳ रु॒द्राय॑ त॒वसे॑ कप॒र्दिने᳚  
+इ॒माꣳ रु॒द्राय॑ त॒वसे॑ कप॒र्दिने॑  
 ख्ष॒यद्-वी॑राय॒+++(←बहुव्रीहिः)+++ **प्र भ॑रामहे** म॒तिम् ।   
 यथा॑ न॒श् **शम् अस॑द्** द्वि॒पदे॒ चतु॑ष्पदे॒  
 विश्व॑म् पु॒ष्टङ् ग्रा॒मे॑ अस्मि॒न्न्  अना॑तुरम् ।
@@ -106,7 +106,7 @@ And that all in this village be prosperous [1] and free from ill.
 </details>
 <details><summary>मूलम्</summary>
 
-इ॒माꣳ रु॒द्राय॑ त॒वसे॑ कप॒र्दिने᳚ ख्ष॒यद्वी॑राय॒ प्र भ॑रामहे म॒तिम् ।   
+इ॒माꣳ रु॒द्राय॑ त॒वसे॑ कप॒र्दिने॑ ख्ष॒यद्वी॑राय॒ प्र भ॑रामहे म॒तिम् ।   
 यथा॑ न॒श्शमस॑द्द्वि॒पदे॒ चतु॑ष्पदे॒ विश्व॑म्पु॒ष्टङ्ग्रा॒मे॑ अ॒स्मिन्न् [21]  अना॑तुरम् ।
 </details>
 <details><summary>सायण-टीका</summary>
@@ -226,7 +226,7 @@ With oblations lot us serve thee with honour.
 **आ॒रात्**+++(=दूरं)+++ ते॑ गो॒-घ्न+++(य्)+++ उ॒त पू॑रुष॒-घ्ने +++(घोर-शरीरे)+++  
 ख्ष॒यद्-वी॑राय **सु॒म्नम्** अ॒स्मे+++(=अस्मत्-कृते)+++ ते॑ **अस्तु** ।   
 **रख्षा॑** च नो॒ **अधि॑** च देव **ब्रू॒ह्य्**  
-अधा॑ च न॒श् **शर्म॑ यच्छ** द्वि॒-बर्हाः᳚+++(=दृढ)+++ ।
+अधा॑ च न॒श् **शर्म॑ यच्छ** द्वि॒-बर्हाः॑+++(=दृढ)+++ ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/08_ArAt_te.md">
@@ -241,7 +241,7 @@ And grant us protection in abundance.
 <details><summary>मूलम्</summary>
 
 आ॒रात्ते॑ गो॒घ्न उ॒त पू॑रुष॒घ्ने ख्ष॒यद्वी॑राय सु॒म्नम॒स्मे ते॑ अस्तु ।   
-रख्षा॑ च नो॒ अधि॑ च देव ब्रू॒ह्यधा॑ च न॒श्शर्म॑ यच्छ द्वि॒बर्हाः᳚ ।
+रख्षा॑ च नो॒ अधि॑ च देव ब्रू॒ह्यधा॑ च न॒श्शर्म॑ यच्छ द्वि॒बर्हाः॑ ।
 </details>
 <details><summary>सायण-टीका</summary>
 
@@ -265,7 +265,7 @@ And grant us protection in abundance.
 **स्तु॒हि श्रु॒तङ्** +++(रथ-)+++ग॑र्त॒-सद॒य्ँ युवा॑नम्  
 मृ॒गन् न भी॒मम्, उ॑पह॒त्नुम् उ॒ग्रम् ।   
 **मृ॒डा** ज॑रि॒त्रे+++(=गायकाय)+++ रु॑द्र॒ **स्तवा॑नो**+++(=स्तुतो)+++  
-अ॒न्यन् ते॑ अ॒स्मन् **नि व॑पन्तु॒** सेनाः᳚ ।   
+अ॒न्यन् ते॑ अ॒स्मन् **नि व॑पन्तु॒** सेनाः॑ ।   
 
 </details>
 </div>

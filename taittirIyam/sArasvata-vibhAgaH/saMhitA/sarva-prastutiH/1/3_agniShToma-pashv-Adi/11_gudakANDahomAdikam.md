@@ -26,7 +26,7 @@ Go to the ocean, hail!
 </details>
 <details><summary>पद-पाठः</summary>
 
-स॒मु॒द्रम् । ग॒च्छ॒ । स्वाहा᳚ । 
+स॒मु॒द्रम् । ग॒च्छ॒ । स्वाहा॑ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -50,7 +50,7 @@ Go to the atmosphere, hail!
 
 <details><summary>पद-पाठः</summary>
 
-अ॒न्तरि॑ख्षम् । ग॒च्छ॒ । स्वाहा᳚ ।
+अ॒न्तरि॑ख्षम् । ग॒च्छ॒ । स्वाहा॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -74,7 +74,7 @@ Go to god Savitr, hail!
 
 <details><summary>पद-पाठः</summary>
 
-दे॒वम् । स॒वि॒तार᳚म् । ग॒च्छ॒ । स्वाहा᳚ । 
+दे॒वम् । स॒वि॒तार॑म् । ग॒च्छ॒ । स्वाहा॑ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -98,7 +98,7 @@ Go to day and night, hail!
 
 <details><summary>पद-पाठः</summary>
 
-अ॒हो॒रा॒त्रे इत्य॑हः-रा॒त्रे । ग॒च्छ॒ । स्वाहा᳚ । 
+अ॒हो॒रा॒त्रे इत्य॑हः-रा॒त्रे । ग॒च्छ॒ । स्वाहा॑ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -109,7 +109,7 @@ Go to day and night, hail!
 ________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मि॒त्रावरु॑णौ गच्छ॒ स्वाहा᳚  ।
+मि॒त्रावरु॑णौ गच्छ॒ स्वाहा॑  ।
 </details>
 <details><summary>Keith</summary>
 
@@ -117,12 +117,12 @@ Go to Mitra and Varuna, hail!
 </details>
 <details><summary>मूलम्</summary>
 
-मि॒त्रावरु॑णौ गच्छ॒ स्वाहा᳚  ।
+मि॒त्रावरु॑णौ गच्छ॒ स्वाहा॑  ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । ग॒च्छ॒ । स्वाहा᳚ । 
+मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । ग॒च्छ॒ । स्वाहा॑ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -146,7 +146,7 @@ Go to Soma, hail!
 
 <details><summary>पद-पाठः</summary>
 
-सोम᳚म् । ग॒च्छ॒ । स्वाहा᳚ । 
+सोम॑म् । ग॒च्छ॒ । स्वाहा॑ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -170,7 +170,7 @@ Go to the sacrifice, hail!
 
 <details><summary>पद-पाठः</summary>
 
-य॒ज्ञम् । ग॒च्छ॒ । स्वाहा᳚ ।
+य॒ज्ञम् । ग॒च्छ॒ । स्वाहा॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -194,7 +194,7 @@ Go to the meters, hail!
 
 <details><summary>पद-पाठः</summary>
 
-छन्दाꣳ॑सि । ग॒च्छ॒ । स्वाहा᳚ । 
+छन्दाꣳ॑सि । ग॒च्छ॒ । स्वाहा॑ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -217,7 +217,7 @@ Go to the sky and the earth, hail!
 </details>
 <details><summary>पद-पाठः</summary>
 
-द्यावा॑पृथि॒वी इति॒ द्यावा᳚-पृ॒थि॒वी । ग॒च्छ॒ । स्वाहा᳚ । 
+द्यावा॑पृथि॒वी इति॒ द्यावा॑-पृ॒थि॒वी । ग॒च्छ॒ । स्वाहा॑ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -241,7 +241,7 @@ Go to the clouds of the sky, hail!
 
 <details><summary>पद-पाठः</summary>
 
-नभः॑ । दि॒व्यम् । ग॒च्छ॒ । स्वाहा᳚ । 
+नभः॑ । दि॒व्यम् । ग॒च्छ॒ । स्वाहा॑ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -252,7 +252,7 @@ Go to the clouds of the sky, hail!
 ________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्निव्ँवै᳚श्वान॒रङ्ग॑च्छ॒ स्वाहा॑ ।
+अ॒ग्निव्ँवै॑श्वान॒रङ्ग॑च्छ॒ स्वाहा॑ ।
 </details>
 <details><summary>Keith</summary>
 
@@ -260,12 +260,12 @@ Go to Agni Vaiśvanara, hail!
 </details>
 <details><summary>मूलम्</summary>
 
-अ॒ग्निव्ँवै᳚श्वान॒रङ्ग॑च्छ॒ स्वाहा॑ ।
+अ॒ग्निव्ँवै॑श्वान॒रङ्ग॑च्छ॒ स्वाहा॑ ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-अ॒ग्निम् । वै॒श्वा॒न॒रम् । ग॒च्छ॒ । स्वाहा᳚ । 
+अ॒ग्निम् । वै॒श्वा॒न॒रम् । ग॒च्छ॒ । स्वाहा॑ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -337,7 +337,7 @@ May I acquire body, skin, son, and grandson.
 
 <details><summary>पद-पाठः</summary>
 
-त॒नूम् । त्वच᳚म् । पु॒त्रम् । नप्ता॑रम् । अ॒शी॒य॒ । 
+त॒नूम् । त्वच॑म् । पु॒त्रम् । नप्ता॑रम् । अ॒शी॒य॒ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -352,12 +352,12 @@ _______
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-शुग॑सि॒ तम॒भि शो॑च॒ यो᳚ऽस्मान्द्वेष्टि॒ यञ्च॑ व॒यन्द्वि॒ष्मः।
+शुग॑सि॒ तम॒भि शो॑च॒ यो॑ऽस्मान्द्वेष्टि॒ यञ्च॑ व॒यन्द्वि॒ष्मः।
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शुग॑सि ।  
-तम् अ॒भि शो॑च॒ यो᳚ऽस्मान् द्वेष्टि॒  
+तम् अ॒भि शो॑च॒ यो॑ऽस्मान् द्वेष्टि॒  
 यञ् च॑ व॒यन् द्वि॒ष्मः।
 </details>
 <details><summary>Keith</summary>
@@ -368,7 +368,7 @@ pain him who hateth us and whom we hate.
 <details><summary>मूलम्</summary>
 
 शुग॑सि ।  
-तम॒भि शो॑च॒ यो᳚ऽस्मान्द्वेष्टि॒ यञ्च॑ व॒यन्द्वि॒ष्मः।
+तम॒भि शो॑च॒ यो॑ऽस्मान्द्वेष्टि॒ यञ्च॑ व॒यन्द्वि॒ष्मः।
 </details>
 
 <details><summary>पद-पाठः</summary>

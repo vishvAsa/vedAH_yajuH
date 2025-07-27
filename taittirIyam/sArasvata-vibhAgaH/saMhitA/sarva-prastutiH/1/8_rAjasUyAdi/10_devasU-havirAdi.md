@@ -16,7 +16,7 @@ title = "१० देवसू-हविरादि"
 
 अ॒ग्नये॑ गृ॒हप॑तये  
 पुरो॒डाश॑म् अ॒ष्टाक॑पाल॒न् निर्व॑पति  
-कृ॒ष्णाना᳚व्ँ व्रीही॒णाम् …  
+कृ॒ष्णाना॑व्ँ व्रीही॒णाम् …  
 </details>
 <details><summary>Keith</summary>
 
@@ -24,7 +24,7 @@ To Agni, lord of the house, he offers a cake of black rice on eight potsherds;
 </details>
 <details><summary>मूलम्</summary>
 
-अ॒ग्नये॑ गृ॒हप॑तये पुरो॒डाश॑म॒ष्टाक॑पाल॒न्निर्व॑पति  कृ॒ष्णाना᳚व्ँ व्रीही॒णाꣳ …
+अ॒ग्नये॑ गृ॒हप॑तये पुरो॒डाश॑म॒ष्टाक॑पाल॒न्निर्व॑पति  कृ॒ष्णाना॑व्ँ व्रीही॒णाꣳ …
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -43,7 +43,7 @@ to Soma, lord of the forest, an oblation of millet;
 </details>
 <details><summary>मूलम्</summary>
 
-कृ॒ष्णाना᳚व्ँव्रीही॒णाꣳ सोमा॑य॒ वन॒स्पत॑ये
+कृ॒ष्णाना॑व्ँव्रीही॒णाꣳ सोमा॑य॒ वन॒स्पत॑ये
 श्यामा॒कञ्च॒रुम्  +++(निर्व॑पति)+++  ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -120,7 +120,7 @@ to Indra, the noblest, a cake of large rice on eleven potsherds;
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मि॒त्राय॑ स॒त्याया॒ऽऽम्बाना᳚ञ् च॒रुं       
+मि॒त्राय॑ स॒त्याया॒ऽऽम्बाना॑ञ् च॒रुं       
 </details>
 <details><summary>Keith</summary>
 
@@ -128,7 +128,7 @@ to Mitra, the true, an oblation of Amba grain,
 </details>
 <details><summary>मूलम्</summary>
 
-मि॒त्राय॑ स॒त्याया॒ऽऽम्बाना᳚ञ्च॒रुं       
+मि॒त्राय॑ स॒त्याया॒ऽऽम्बाना॑ञ्च॒रुं       
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -156,12 +156,12 @@ and to Varuna, lord of right, an oblation made of barley.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒वि॒ता त्वा᳚ प्रस॒वानाꣳ॑ **सुवताम्**  
+स॒वि॒ता त्वा॑ प्रस॒वानाꣳ॑ **सुवताम्**  
 अ॒ग्निर् गृ॒हप॑तीना॒ꣳ॒  
 सोमो॒ वन॒स्पती॑नाꣳ  
 रु॒द्रᳶ प॑शू॒नां [18] 
 बृह॒स्पति॑र् वा॒चाम्  
-इन्द्रो᳚ ज्ये॒ष्ठाना᳚म्  
+इन्द्रो॑ ज्ये॒ष्ठाना॑म्  
 मि॒त्रस् स॒त्याना॒व्ँ 
 वरु॑णो॒ धर्म॑पतीनाम्॥
 </details>
@@ -178,8 +178,8 @@ Varuna of lords of right.
 </details>
 <details><summary>मूलम्</summary>
 
-स॒वि॒ता त्वा᳚ प्रस॒वानाꣳ॑ सुवताम्  
-अ॒ग्निर्गृ॒हप॑तीना॒ꣳ॒ सोमो॒ वन॒स्पती॑नाꣳ रु॒द्रᳶ प॑शू॒नां [18]बृह॒स्पति॑र्वा॒चामिन्द्रो᳚ ज्ये॒ष्ठाना᳚म्मि॒त्रस्स॒त्याना॒व्ँवरु॑णो॒ धर्म॑पतीनाम्॥
+स॒वि॒ता त्वा॑ प्रस॒वानाꣳ॑ सुवताम्  
+अ॒ग्निर्गृ॒हप॑तीना॒ꣳ॒ सोमो॒ वन॒स्पती॑नाꣳ रु॒द्रᳶ प॑शू॒नां [18]बृह॒स्पति॑र्वा॒चामिन्द्रो॑ ज्ये॒ष्ठाना॑म्मि॒त्रस्स॒त्याना॒व्ँवरु॑णो॒ धर्म॑पतीनाम्॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -280,14 +280,14 @@ Soma is the king of us Brahmans.
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-प्रति॒ त्यन्नाम॑ रा॒ज्यम॑धायि॒ स्वान्त॒नुव॒व्ँवरु॑णो अशिश्रे॒च्छुचे᳚र्मि॒त्रस्य॒ व्रत्या॑ अभू॒माम॑न्महि मह॒त ऋ॒तस्य॒ नाम॒ सर्वे॒ व्राता॒ वरु॑णस्याभूव॒न्वि मि॒त्र एवै॒ररा॑तिमतारी॒दसू॑षुदन्त य॒ज्ञिया॑ ऋ॒तेन॒ व्यु॑ त्रि॒तो ज॑रि॒माण॑न्न आनड् 
+प्रति॒ त्यन्नाम॑ रा॒ज्यम॑धायि॒ स्वान्त॒नुव॒व्ँवरु॑णो अशिश्रे॒च्छुचे॑र्मि॒त्रस्य॒ व्रत्या॑ अभू॒माम॑न्महि मह॒त ऋ॒तस्य॒ नाम॒ सर्वे॒ व्राता॒ वरु॑णस्याभूव॒न्वि मि॒त्र एवै॒ररा॑तिमतारी॒दसू॑षुदन्त य॒ज्ञिया॑ ऋ॒तेन॒ व्यु॑ त्रि॒तो ज॑रि॒माण॑न्न आनड् 
 </details>
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/10_devasU-havirAdi/02_prati_tyan.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 प्रति॒ त्यन् नाम॑ रा॒ज्यम् **अ॑धायि॒**  
 स्वान् त॒नुव॒व्ँ वरु॑णो **अशिश्रेत्** ।   
-शुचे᳚र् मि॒त्रस्य॒ व्रत्या॑ **अभू॒म**  
+शुचे॑र् मि॒त्रस्य॒ व्रत्या॑ **अभू॒म**  
 +**अम॑न्महि** मह॒त ऋ॒तस्य॒ नाम॑ ॥
 </details>
 </div>
@@ -303,7 +303,7 @@ We have magnified the name of the great holy order.
 <details><summary>मूलम्</summary>
 
 प्रति॒ त्यन्नाम॑ रा॒ज्यम॑धायि॒ स्वान्त॒नुव॒व्ँवरु॑णो अशिश्रेत् ।   
-शुचे᳚र्मि॒त्रस्य॒ व्रत्या॑ अभू॒माम॑न्महि मह॒त ऋ॒तस्य॒ नाम॑ ॥
+शुचे॑र्मि॒त्रस्य॒ व्रत्या॑ अभू॒माम॑न्महि मह॒त ऋ॒तस्य॒ नाम॑ ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -352,7 +352,7 @@ Trita hath taken possession of our old age.
 <details open><summary><h5>विष्णोः क्रमः ...{Loading}...</h5></summary>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-विष्णो॒ᳵ क्रमो॑ऽसि॒ विष्णोः᳚ क्रा॒न्तम॑सि॒  विष्णो॒र्विक्रा᳚न्तमसि ।
+विष्णो॒ᳵ क्रमो॑ऽसि॒ विष्णोः॑ क्रा॒न्तम॑सि॒  विष्णो॒र्विक्रा॑न्तमसि ।
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -372,7 +372,7 @@ Thou art the stepping of Visnu,
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विष्णोः᳚ क्रा॒न्तम॑सि ।
+विष्णोः॑ क्रा॒न्तम॑सि ।
 </details>
 <details><summary>Keith</summary>
 
@@ -380,7 +380,7 @@ thou art the step of Visnu,
 </details>
 <details><summary>मूलम्</summary>
 
-विष्णोः᳚ क्रा॒न्तम॑सि ।
+विष्णोः॑ क्रा॒न्तम॑सि ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -388,7 +388,7 @@ thou art the step of Visnu,
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विष्णो॒र्विक्रा᳚न्तमसि ।
+विष्णो॒र्विक्रा॑न्तमसि ।
 </details>
 <details><summary>Keith</summary>
 
@@ -396,7 +396,7 @@ thou art the stride of Visnu.
 </details>
 <details><summary>मूलम्</summary>
 
-विष्णो॒र्विक्रा᳚न्तमसि ।
+विष्णो॒र्विक्रा॑न्तमसि ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

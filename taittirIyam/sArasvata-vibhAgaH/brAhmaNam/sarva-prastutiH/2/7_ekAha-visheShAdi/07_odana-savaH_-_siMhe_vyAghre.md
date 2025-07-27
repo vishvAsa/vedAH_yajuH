@@ -11,7 +11,7 @@ unicode_script: devanagari
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 सि॒ꣳ॒हे व्या॒घ्र उ॒त या पृदा॑कौ+++(=अजगरे)+++ ।  
-**त्विषि॑र्** अ॒ग्नौ ब्रा᳚ह्म॒णे सूर्ये॒ या ।  
+**त्विषि॑र्** अ॒ग्नौ ब्रा॑ह्म॒णे सूर्ये॒ या ।  
 इन्द्र॒य्ँ या **दे॒वी** सु॒भगा॑ **ज॒जान॑** ।  
 सा न॒ **आग॒न्** वर्च॑सा **सव्ँ विदा॒ना** ।
 </details>
@@ -21,7 +21,7 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 सि॒ꣳ॒हे व्या॒घ्र उ॒त या पृदा॑कौ ।  
-त्विषि॑र॒ग्नौ ब्रा᳚ह्म॒णे सूर्ये॒ या ।  
+त्विषि॑र॒ग्नौ ब्रा॑ह्म॒णे सूर्ये॒ या ।  
 इन्द्र॒य्ँया दे॒वी सु॒भगा॑ ज॒जान॑ ।  
 सा न॒ आग॒न्वर्च॑सा सव्ँ विदा॒ना ।
 </details>
@@ -89,8 +89,8 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/11_rathe_akhSheShu.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-रथे॑, अ॒ख्षेषु॑, वृष॒भस्य॒ वाजे᳚ ।  
-वाते॑, प॒र्जन्ये॒, वरु॑णस्य॒ शुष्मे᳚ ।  
+रथे॑, अ॒ख्षेषु॑, वृष॒भस्य॒ वाजे॑ ।  
+वाते॑, प॒र्जन्ये॒, वरु॑णस्य॒ शुष्मे॑ ।  
 इन्द्र॒य्ँ या दे॒वी सु॒भगा॑ **ज॒जान॑** ।  
 सा न॒ **आग॒न्** वर्च॑सा **सव्ँ विदा॒ना ।**
 </details>
@@ -99,8 +99,8 @@ unicode_script: devanagari
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
-रथे॑ अ॒ख्षेषु॑ वृष॒भस्य॒ वाजे᳚ ।  
-वाते॑ प॒र्जन्ये॒ वरु॑णस्य॒ शुष्मे᳚ ।  
+रथे॑ अ॒ख्षेषु॑ वृष॒भस्य॒ वाजे॑ ।  
+वाते॑ प॒र्जन्ये॒ वरु॑णस्य॒ शुष्मे॑ ।  
 इन्द्र॒य्ँया दे॒वी सु॒भगा॑ ज॒जान॑ ।  
 सा न॒ आग॒न्वर्च॑सा सव्ँ विदा॒ना ।
 </details>
@@ -214,7 +214,7 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/38_tejasvad_astu.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-तेज॑स्वद् **अस्तु** मे॒ मुख᳚म् ।  
+तेज॑स्वद् **अस्तु** मे॒ मुख॑म् ।  
 तेज॑स्व॒च् छिरो॑ **अस्तु** मे ।  
 तेज॑स्वान् वि॒श्वत॑ᳶ प्र॒त्यङ्ङ् ।  
 तेज॑सा॒ **सम्पि॑पृग्धि** मा ।
@@ -224,7 +224,7 @@ unicode_script: devanagari
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
-तेज॑स्वदस्तु मे॒ मुख᳚म् ।  
+तेज॑स्वदस्तु मे॒ मुख॑म् ।  
 तेज॑स्व॒च्छिरो॑ अस्तु मे ।
 तेज॑स्वान् वि॒श्वत॑ᳶ प्र॒त्यङ्ङ् ।  
 तेज॑सा॒ सम्पि॑पृग्धि मा ।
@@ -260,7 +260,7 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/45_ojasvad_astu.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-ओज॑स्वद् **अस्तु** मे॒ मुख᳚म् ।
+ओज॑स्वद् **अस्तु** मे॒ मुख॑म् ।
 ओज॑स्व॒च् छिरो॑ **अस्तु** मे ।  
 ओज॑स्वान् वि॒श्वत॑ᳶ प्र॒त्यङ्ङ् ।
 ओज॑सा॒ **सम्पि॑पृग्धि** मा ।
@@ -270,7 +270,7 @@ unicode_script: devanagari
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
-ओज॑स्वदस्तु मे॒ मुख᳚म् ।
+ओज॑स्वदस्तु मे॒ मुख॑म् ।
 ओज॑स्व॒च्छिरो॑ अस्तु मे ।  
 ओज॑स्वान् वि॒श्वत॑ᳶ प्र॒त्यङ्ङ् ।
 ओज॑सा॒ सम्पि॑पृग्धि मा ।
@@ -294,7 +294,7 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/50_payasvad_astu.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-पय॑स्वद् **अस्तु** मे॒ मुख᳚म् ।  
+पय॑स्वद् **अस्तु** मे॒ मुख॑म् ।  
 पय॑स्व॒च्छिरो॑ **अस्तु** मे ।   
 पय॑स्वान् वि॒श्वत॑ᳶ प्र॒त्यङ्ङ् ।   
 पय॑सा॒ **सम्पि॑पृग्धि** मा ॥19॥
@@ -304,7 +304,7 @@ unicode_script: devanagari
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
-पय॑स्वदस्तु मे॒ मुख᳚म् ।  
+पय॑स्वदस्तु मे॒ मुख॑म् ।  
 पय॑स्व॒च्छिरो॑ अस्तु मे ।   
 पय॑स्वान् वि॒श्वत॑ᳶ प्र॒त्यङ्ङ् ।   
 पय॑सा॒ सम्पि॑पृग्धि मा ॥19॥
@@ -328,7 +328,7 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/55_AyuShmad_astu.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-आयु॑ष्मद् **अस्तु** मे॒ मुखम्᳚ ।  
+आयु॑ष्मद् **अस्तु** मे॒ मुखम्॑ ।  
 आयु॑ष्म॒च् छिरो॑ **अस्तु** मे ।   
 आयु॑ष्मान् वि॒श्वत॑ᳶ प्र॒त्यङ्ङ् ।   
 आयु॑षा॒ **सम्पि॑पृग्धि** मा ।
@@ -338,7 +338,7 @@ unicode_script: devanagari
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
-आयु॑ष्मदस्तु मे॒ मुखम्᳚ ।  
+आयु॑ष्मदस्तु मे॒ मुखम्॑ ।  
 आयु॑ष्म॒च्छिरो॑ अस्तु मे ।   
 आयु॑ष्मान् वि॒श्वत॑ᳶ प्र॒त्यङ्ङ् ।   
 आयु॑षा॒ सम्पि॑पृग्धि मा ।
@@ -354,7 +354,7 @@ unicode_script: devanagari
 
 इ॒मम् अ॑ग्न॒ आयु॑षे॒ वर्च॑से **कृधि** ।  
 प्रि॒यꣳ रेतो॑ वरुण सोम राजन् ।  
-मा॒तेवा᳚स्मा अदिते॒ शर्म॑ **यच्छ** ।  
+मा॒तेवा॑स्मा अदिते॒ शर्म॑ **यच्छ** ।  
 विश्वे॑ देवा॒ जर॑-दष्टि॒र् यथा **ऽस॑त्** ॥20॥
 </details>
 </div>
@@ -364,7 +364,7 @@ unicode_script: devanagari
 
 इ॒मम॑ग्न॒ आयु॑षे॒ वर्च॑से कृधि ।  
 प्रि॒यꣳ रेतो॑ वरुण सोम राजन् ।  
-मा॒तेवा᳚स्मा अदिते॒ शर्म॑ यच्छ ।  
+मा॒तेवा॑स्मा अदिते॒ शर्म॑ यच्छ ।  
 विश्वे॑ देवा॒ जर॑दष्टि॒र्यथाऽस॑त् ॥20॥
 </details>
 <details><summary>सायण-टीका</summary>
@@ -403,7 +403,7 @@ unicode_script: devanagari
 
 यतो॒ वातो॒ मनो॑जवाः ।   
 यतः॒ **ख्षर॑न्ति॒** सिन्ध॑वः ।  
-तासा᳚न् त्वा॒ सर्वा॑साꣳ रु॒चा ।  
+तासा॑न् त्वा॒ सर्वा॑साꣳ रु॒चा ।  
 **अ॒भिषि॑ञ्चामि॒** वर्च॑सा ।
 </details>
 </div>
@@ -413,7 +413,7 @@ unicode_script: devanagari
 
 यतो॒ वातो॒ मनो॑जवाः ।   
 यतः॒ ख्षर॑न्ति॒ सिन्ध॑वः ।  
-तासा᳚न्त्वा॒ सर्वा॑साꣳ रु॒चा ।  
+तासा॑न्त्वा॒ सर्वा॑साꣳ रु॒चा ।  
 अ॒भिषि॑ञ्चामि॒ वर्च॑सा ।
 </details>
 <details><summary>सायण-टीका</summary>
@@ -425,8 +425,8 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/69_samudra_ivAsi.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-स॒मु॒द्र **इ॑वासि** ग॒ह्मना᳚ ।  
-सोम॑ इवा॒स्य् **अदा᳚भ्यः** ।  
+स॒मु॒द्र **इ॑वासि** ग॒ह्मना॑ ।  
+सोम॑ इवा॒स्य् **अदा॑भ्यः** ।  
 अ॒ग्निर् इ॑व वि॒श्वत॑ᳶ प्र॒त्यङ्ङ् ।  
 सूर्य॑ इव॒ ज्योति॑षा वि॒भूः ॥21॥+++(5)+++
 </details>
@@ -435,8 +435,8 @@ unicode_script: devanagari
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
-स॒मु॒द्र इ॑वासि ग॒ह्मना᳚ ।  
-सोम॑ इवा॒स्यदा᳚भ्यः ।  
+स॒मु॒द्र इ॑वासि ग॒ह्मना॑ ।  
+सोम॑ इवा॒स्यदा॑भ्यः ।  
 अ॒ग्निरि॑व वि॒श्वत॑ᳶ प्र॒त्यङ्ङ् ।  
 सूर्य॑ इव॒ ज्योति॑षा वि॒भूः ॥21॥
 </details>
@@ -451,7 +451,7 @@ unicode_script: devanagari
 अ॒पाय्ँय ऊ॒र्मौ रसः॑ । तम॒हम॒स्मा आ॑मुष्याय॒णाय॑  ।ओज॑से वी॒र्या॑य गृह्णामि ।   
 
 
-अ॒पाय्ँ यो म॑ध्य॒तो रसः॑ । तम॒हम॒स्मा आ॑मुष्याय॒णाय॑ । पुष्ट्यै᳚ प्र॒जन॑नाय गृह्णामि ।   
+अ॒पाय्ँ यो म॑ध्य॒तो रसः॑ । तम॒हम॒स्मा आ॑मुष्याय॒णाय॑ । पुष्ट्यै॑ प्र॒जन॑नाय गृह्णामि ।   
 
 अ॒पाय्ँ यो य॒ज्ञियो॒ रसः॑ । तम॒हम॒स्मा आ॑मुष्याय॒णाय॑ । आयु॑षे दीर्घायु॒त्वाय॑ गृह्णामि ॥22॥
 </details>
@@ -494,12 +494,12 @@ unicode_script: devanagari
 
 अ॒पाय्ँ यो म॑ध्य॒तो रसः॑ ।  
 तम् अ॒हम् अ॒स्मा आ॑मुष्याय॒णाय॒  
-पुष्ट्यै᳚ प्र॒जन॑नाय **गृह्णामि** ।  
+पुष्ट्यै॑ प्र॒जन॑नाय **गृह्णामि** ।  
 </details>
 <details><summary>मूलम्</summary>
 
 अ॒पाय्ँ यो म॑ध्य॒तो रसः॑ ।  
-तम॒हम॒स्मा आ॑मुष्याय॒णाय॒ पुष्ट्यै᳚ प्र॒जन॑नाय गृह्णामि ।  
+तम॒हम॒स्मा आ॑मुष्याय॒णाय॒ पुष्ट्यै॑ प्र॒जन॑नाय गृह्णामि ।  
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

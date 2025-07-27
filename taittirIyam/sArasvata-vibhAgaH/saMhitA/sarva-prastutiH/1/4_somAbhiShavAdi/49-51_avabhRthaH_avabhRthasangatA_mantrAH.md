@@ -381,7 +381,7 @@ _______
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अग्नेर् अनी॑कम् **अ॒प आ वि॑वेश** ।  
-अपा᳚न्नपात्! प्रति॒-रख्ष॑न्न् +++(वरुणस्य)+++ असु॒र्य॑न्+++(=असुरस्वं)+++ ....    
+अपा॑न्नपात्! प्रति॒-रख्ष॑न्न् +++(वरुणस्य)+++ असु॒र्य॑न्+++(=असुरस्वं)+++ ....    
 दमे॑+++(=यज्ञागारे)+++-दमे [49] **स॒मिध॑य्ँ यख्ष्य्** अग्ने  ॥
 </details>
 </div>
@@ -396,7 +396,7 @@ In each home [1] do thou offer the kindling-stick, O Agni;
 <details><summary>मूलम्</summary>
 
 अग्नेरनी॑कम॒प आ वि॑वेश ।  
-अपा᳚न्नपात्प्रति॒रख्ष॑न्नसु॒र्य॑न्....    
+अपा॑न्नपात्प्रति॒रख्ष॑न्नसु॒र्य॑न्....    
 दमे॑दमे [49] स॒मिध॑य्ँयख्ष्यग्ने  ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -613,7 +613,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दुर्मि॒त्रास् तस्मै॑ भूयासुः र्यो᳚ऽस्मान्द्वेष्टि॒ यञ्च॑ व॒यन्द्वि॒ष्मः।
+दुर्मि॒त्रास् तस्मै॑ भूयासुः र्यो॑ऽस्मान्द्वेष्टि॒ यञ्च॑ व॒यन्द्वि॒ष्मः।
 </details>
 <details><summary>Keith</summary>
 
@@ -621,7 +621,7 @@ be they hostile to him who hateth us and whom we hate.
 </details>
 <details><summary>मूलम्</summary>
 
-दुर्मि॒त्रास् तस्मै॑ भूयासुः र्यो᳚ऽस्मान्द्वेष्टि॒ यञ्च॑ व॒यन्द्वि॒ष्मः।
+दुर्मि॒त्रास् तस्मै॑ भूयासुः र्यो॑ऽस्मान्द्वेष्टि॒ यञ्च॑ व॒यन्द्वि॒ष्मः।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -639,7 +639,7 @@ _______
 
 देवी॑र् आप **ए॒ष वो॒ गर्भ॒स्** -  
 तव्ँ व॒स् सुप्री॑त॒ꣳ॒ **सुभृ॑तम् अकर्म**।  
-दे॒वेषु॑ नस् **सु॒कृतो᳚ ब्रूतात्** ।
+दे॒वेषु॑ नस् **सु॒कृतो॑ ब्रूतात्** ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/49-51_avabhRthaH_avabhRthasangatA_mantrAH/05_devIr_Apa.md">
@@ -650,7 +650,7 @@ Ye divine waters, this is thy foetus, glad and well tended have we made it for y
 </details>
 <details><summary>मूलम्</summary>
 
-देवी॑राप ए॒ष वो॒ गर्भ॒स्तव्ँव॒स्सुप्री॑त॒ꣳ॒ सुभृ॑तमकर्म दे॒वेषु॑ नस्सु॒कृतो᳚ ब्रूतात् ।
+देवी॑राप ए॒ष वो॒ गर्भ॒स्तव्ँव॒स्सुप्री॑त॒ꣳ॒ सुभृ॑तमकर्म दे॒वेषु॑ नस्सु॒कृतो॑ ब्रूतात् ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

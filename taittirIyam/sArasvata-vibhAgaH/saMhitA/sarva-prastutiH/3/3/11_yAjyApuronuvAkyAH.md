@@ -1305,7 +1305,7 @@ Nach vielen Seiten wandern windgetrieben, o heller Agni, deine hellen Strahlen, 
 त्वाम् अ॑ग्ने॒ मानु॑षीर् **ईडते॒** विशो॑  
 होत्रा॒विद॒व्ँविवि॑चिꣳ रत्न॒धात॑मम् ।  
 गुहा॒ **सन्तꣳ॑** सुभग वि॒श्व-द॑र्शतन्  
-तुविष्+++(=प्रवृद्ध)+++-म॒णसꣳ॑+++(→तुविष्व॒णसं॑ शाकले)+++ सु॒यज॑ङ् घृत॒-श्रिय᳚म् ।
+तुविष्+++(=प्रवृद्ध)+++-म॒णसꣳ॑+++(→तुविष्व॒णसं॑ शाकले)+++ सु॒यज॑ङ् घृत॒-श्रिय॑म् ।
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष्टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/3/11_yAjyApuronuvAkyAH/07_tvAm_agne.md">
@@ -1314,7 +1314,7 @@ Nach vielen Seiten wandern windgetrieben, o heller Agni, deine hellen Strahlen, 
 
 त्वाम॑ग्ने॒ मानु॑षीरीडते॒ विशो॑ होत्रा॒विद॒व्ँविवि॑चिꣳ रत्न॒धात॑मम् ।  
 
-गुहा॒ सन्तꣳ॑ सुभग वि॒श्वद॑र्शतन्तुविष्म॒णसꣳ॑ सु॒यज॑ङ्घृत॒श्रिय᳚म् ।
+गुहा॒ सन्तꣳ॑ सुभग वि॒श्वद॑र्शतन्तुविष्म॒णसꣳ॑ सु॒यज॑ङ्घृत॒श्रिय॑म् ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -2548,18 +2548,18 @@ Breitflechtige Sinīvālī, die du der Götter Schwester bist, Geniess' den darg
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/3/11_yAjyApuronuvAkyAH/48_kuhUm_aham.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-कु॒हूम्+++(=नष्टचन्द्राऽमावास्या)+++ अ॒हꣳ सु॒भगा᳚व्ँ विद्म॒न्-आप॑सम्+++(=कर्माणं)+++  
-अ॒स्मिन् य॒ज्ञे सु॒हवा᳚ञ् **जोहवीमि** ।  
+कु॒हूम्+++(=नष्टचन्द्राऽमावास्या)+++ अ॒हꣳ सु॒भगा॑व्ँ विद्म॒न्-आप॑सम्+++(=कर्माणं)+++  
+अ॒स्मिन् य॒ज्ञे सु॒हवा॑ञ् **जोहवीमि** ।  
 सा नो॑ **ददातु॒** श्रव॑णम् पितृ॒णान्  
-तस्या᳚स् ते देवि ह॒विषा॑ **विधेम** ।
+तस्या॑स् ते देवि ह॒विषा॑ **विधेम** ।
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष्टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/3/11_yAjyApuronuvAkyAH/48_kuhUm_aham.md">
 <details><summary><h5>सर्वाष्टीकाः ...{Loading}...</h5></summary>
 <details><summary>मूलम्</summary>
 
-कु॒हूम॒हꣳ सु॒भगा᳚व्ँ विद्म॒नाप॑सम॒स्मिन्य॒ज्ञे सु॒हवा᳚ञ्जोहवीमि ।  
-सा नो॑ ददातु॒ श्रव॑णम्पितृ॒णान्तस्या᳚स्ते देवि ह॒विषा॑ विधेम ।
+कु॒हूम॒हꣳ सु॒भगा॑व्ँ विद्म॒नाप॑सम॒स्मिन्य॒ज्ञे सु॒हवा॑ञ्जोहवीमि ।  
+सा नो॑ ददातु॒ श्रव॑णम्पितृ॒णान्तस्या॑स्ते देवि ह॒विषा॑ विधेम ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

@@ -104,7 +104,7 @@ protect me when afflicted.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 [वि॒देर् - अ॒ग्निर् नभो॒ +++(इति ते)+++ नाम॑+अग्ने॑ अङ्गिरो॒]  
-यो᳚ ऽस्याम् [पृ॑थि॒व्याम् असि] ।
+यो॑ ऽस्याम् [पृ॑थि॒व्याम् असि] ।
 </details>
 <details><summary>Keith</summary>
 
@@ -112,7 +112,7 @@ May Agni, named Nabhas, know (thee), Agni Angiras, thou who art in this earth.
 </details>
 <details><summary>मूलम्</summary>
 
-वि॒देर॒ग्निर्नभो॒ नामाग्ने॑ अङ्गिरो॒ यो᳚ऽस्याम् पृ॑थि॒व्यामसि ।
+वि॒देर॒ग्निर्नभो॒ नामाग्ने॑ अङ्गिरो॒ यो॑ऽस्याम् पृ॑थि॒व्यामसि ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -411,7 +411,7 @@ ________
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(स्तनयित्नुः)+++ इ॒न्द्र॒-घो॒षस् त्वा॒ वसु॑भिᳶ +++(सह)+++ पु॒रस्ता᳚त् पातु ।
++++(स्तनयित्नुः)+++ इ॒न्द्र॒-घो॒षस् त्वा॒ वसु॑भिᳶ +++(सह)+++ पु॒रस्ता॑त् पातु ।
 </details>
 <details><summary>Keith</summary>
 
@@ -419,7 +419,7 @@ May the cry of Indra guard thee in front with the Vasus;
 </details>
 <details><summary>मूलम्</summary>
 
-इन्द्रघो॒षस्त्वा॒ वसु॑भिᳶ पु॒रस्ता᳚त्पातु ।
+इन्द्रघो॒षस्त्वा॒ वसु॑भिᳶ पु॒रस्ता॑त्पातु ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -736,7 +736,7 @@ ________
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्नेर्  +++(भस भर्त्सनदीप्त्योः→)+++भस्मा᳚सि । अ॒ग्नेᳶ +++(भस्मवद् दीप्तिसाधनं)+++ पुरी॑षम् असि ॥
+अ॒ग्नेर्  +++(भस भर्त्सनदीप्त्योः→)+++भस्मा॑सि । अ॒ग्नेᳶ +++(भस्मवद् दीप्तिसाधनं)+++ पुरी॑षम् असि ॥
 </details>
 <details><summary>Keith</summary>
 
@@ -745,11 +745,11 @@ Thou art the ashes of Agni; thou art the rubble of Agni.
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-अ॒ग्नेर्भस्मा᳚स्य॒ग्नेᳶ पुरी॑षमसि ॥ [24]
+अ॒ग्नेर्भस्मा॑स्य॒ग्नेᳶ पुरी॑षमसि ॥ [24]
 </details>
 <details><summary>मूलम्</summary>
 
-अग्नेर्भस्मा᳚सि ।  
+अग्नेर्भस्मा॑सि ।  
 अ॒ग्नेᳶ पुरी॑षमसि ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>

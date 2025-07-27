@@ -18,11 +18,11 @@ ________
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-आकू᳚त्यै प्र॒युजे॒ऽग्नये॒ स्वाहा॑ मे॒धायै॒ मन॑से॒ऽग्नये॒ स्वाहा॑ दी॒ख्षायै॒ तप॑से॒ऽग्नये॒ स्वाहा॒ सर॑स्वत्यै पू॒ष्णे᳚ऽग्नये॒ स्वाहा
+आकू॑त्यै प्र॒युजे॒ऽग्नये॒ स्वाहा॑ मे॒धायै॒ मन॑से॒ऽग्नये॒ स्वाहा॑ दी॒ख्षायै॒ तप॑से॒ऽग्नये॒ स्वाहा॒ सर॑स्वत्यै पू॒ष्णे॑ऽग्नये॒ स्वाहा
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आकू᳚त्यै+++(=सङ्कल्पाय)+++ प्र॒युजे॒ ऽग्नये॒ स्वाहा॑ ।
+आकू॑त्यै+++(=सङ्कल्पाय)+++ प्र॒युजे॒ ऽग्नये॒ स्वाहा॑ ।
 </details>
 <details><summary>Keith</summary>
 
@@ -30,7 +30,7 @@ To the purpose, to the impulse, to Agni, hail!
 </details>
 <details><summary>मूलम्</summary>
 
-आकू᳚त्यै प्र॒युजे॒ऽग्नये॒ स्वाहा॑ ।
+आकू॑त्यै प्र॒युजे॒ऽग्नये॒ स्वाहा॑ ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -71,7 +71,7 @@ To consecration, to penance, to Agni, hail!
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर॑स्वत्यै पू॒ष्णे᳚ऽग्नये॒ स्वाहा॑ ।
+सर॑स्वत्यै पू॒ष्णे॑ऽग्नये॒ स्वाहा॑ ।
 </details>
 <details><summary>Keith</summary>
 
@@ -79,7 +79,7 @@ To Sarasvati, to Prisan, to Agni, hail!
 </details>
 <details><summary>मूलम्</summary>
 
-सर॑स्वत्यै पू॒ष्णे᳚ऽग्नये॒ स्वाहा॑ ।
+सर॑स्वत्यै पू॒ष्णे॑ऽग्नये॒ स्वाहा॑ ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -102,7 +102,7 @@ ________
 द्यावा॑-पृथि॒वी उ॒र्व् अ॑न्तरि॑ख्षम्, बृह॒स्पति॑र्  
 नो ह॒विषा॑ वृधातु। 
 
-(… स्वाहा᳚।)
+(… स्वाहा॑।)
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/02_dIxA/02_Apo_devIr.md">
@@ -130,11 +130,11 @@ May Brhaspati rejoice in our oblation,
 </div>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-… स्वाहा᳚।
+… स्वाहा॑।
 </details>
 <details><summary>मूलम्</summary>
 
-… स्वाहा᳚।
+… स्वाहा॑।
 </details>
 <details><summary>Keith</summary>
 
@@ -161,9 +161,9 @@ ________
 विश्वे॑ +++(सवितुः)+++ दे॒वस्य॑ ने॒तुर्,  
 +++(अतो ऽयम्)+++ मर्तो॑ ऽवृणीत +++(तस्य सवितुः)+++ स॒ख्यम्।  
 विश्वे॑ रा॒य+++(ः)+++, +++(त्वम् अग्ने तस्य)+++ इ॑षुध्यसि+++(=इषुधिर् इवाचरसि)+++  
-द्यु॒म्नव्ँ+++(=धनं)+++ वृ॑णीत, +++(त्वञ्च तम्)+++ पु॒ष्यसे᳚।+++(४)+++  
+द्यु॒म्नव्ँ+++(=धनं)+++ वृ॑णीत, +++(त्वञ्च तम्)+++ पु॒ष्यसे॑।+++(४)+++  
  
-(… स्वाहा᳚ ।)
+(… स्वाहा॑ ।)
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/02_dIxA/03_vishve_devasya.md">
@@ -177,13 +177,13 @@ Let him choose glory that he may prosper,
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-विश्वे॑ दे॒वस्य॑ ने॒तुर्मर्तो॑ऽवृणीत स॒ख्यव्ँविश्वे॑ रा॒य इ॑षुध्यसि द्यु॒म्नव्ँवृ॑णीत पु॒ष्यसे॒ स्वाहा᳚
+विश्वे॑ दे॒वस्य॑ ने॒तुर्मर्तो॑ऽवृणीत स॒ख्यव्ँविश्वे॑ रा॒य इ॑षुध्यसि द्यु॒म्नव्ँवृ॑णीत पु॒ष्यसे॒ स्वाहा॑
 </details>
 <details><summary>मूलम्</summary>
 
 विश्वे॑ दे॒वस्य॑ ने॒तुर्मर्तो॑ऽवृणीत स॒ख्यम्।  
-विश्वे॑ रा॒य इ॑षुध्यसि द्यु॒म्नव्ँवृ॑णीत पु॒ष्यसे᳚।  
-(स्वाहा᳚ ।)
+विश्वे॑ रा॒य इ॑षुध्यसि द्यु॒म्नव्ँवृ॑णीत पु॒ष्यसे॑।  
+(स्वाहा॑ ।)
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -213,7 +213,7 @@ Let him choose glory that he may prosper,
 </div>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्वाहा॑॑।
+स्वाहा॑।
 </details>
 <details><summary>Keith</summary>
 
@@ -221,7 +221,7 @@ Let him choose glory that he may prosper,
 </details>
 <details><summary>मूलम्</summary>
 
-स्वाहा॑॑।
+स्वाहा॑।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -237,10 +237,10 @@ ________
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऋख्-सा॒मयो॒श् शिल्पे᳚ स्थः।+++(५)+++  
+ऋख्-सा॒मयो॒श् शिल्पे॑ स्थः।+++(५)+++  
 +++('एष वा ऋचो वर्णो यच्छुक्लं कृष्णाजिनस्य' इत्यादि ब्राह्मणम् ।)+++  
 ते वा॒म् आ र॑+++(ल)+++भे ।  
-ते मा᳚ पातम् आऽस्य य॒ज्ञस्यो॒दृचः॑+++(=आसमाप्तेः)+++।+++(र४)+++  
+ते मा॑ पातम् आऽस्य य॒ज्ञस्यो॒दृचः॑+++(=आसमाप्तेः)+++।+++(र४)+++  
 </details>
 <details><summary>Keith</summary>
 
@@ -250,13 +250,13 @@ do ye two [1] protect me until the completion of this sacrifice.
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-ऋख्सा॒मयो॒श्शिल्पे᳚ स्थ॒स्ते वा॒मा र॑भे ते मा᳚ [3]पा॒त॒माऽस्य य॒ज्ञस्यो॒दृचः
+ऋख्सा॒मयो॒श्शिल्पे॑ स्थ॒स्ते वा॒मा र॑भे ते मा॑ [3]पा॒त॒माऽस्य य॒ज्ञस्यो॒दृचः
 </details>
 <details><summary>मूलम्</summary>
 
-ऋख्सा॒मयो॒श्शिल्पे᳚ स्थः।  
+ऋख्सा॒मयो॒श्शिल्पे॑ स्थः।  
 ते वा॒मा र॑भे ।  
-ते मा᳚ पातम् आऽस्य य॒ज्ञस्यो॒दृचः॑।
+ते मा॑ पातम् आऽस्य य॒ज्ञस्यो॒दृचः॑।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

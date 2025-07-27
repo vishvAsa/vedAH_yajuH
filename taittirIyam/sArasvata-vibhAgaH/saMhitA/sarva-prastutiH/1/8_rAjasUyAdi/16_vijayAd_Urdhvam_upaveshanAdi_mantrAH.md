@@ -56,7 +56,7 @@ thou art Varuna.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सम् अ॒हव्ँ विश्वै᳚र् दे॒वैः।
+सम् अ॒हव्ँ विश्वै॑र् दे॒वैः।
 </details>
 <details><summary>Keith</summary>
 
@@ -64,7 +64,7 @@ May I be united with the All-gods.
 </details>
 <details><summary>मूलम्</summary>
 
-सम॒हव्ँविश्वै᳚र्दे॒वैः।
+सम॒हव्ँविश्वै॑र्दे॒वैः।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -146,8 +146,8 @@ May she hurt thee not; may she hurt me not.
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 **निष॑साद** धृ॒त-व्र॑तो॒  
-वरु॑णᳶ प॒स्त्या᳚स्व्+++(=गृहेषु|अप्सु)+++ आ ।  
-साम्रा᳚ज्याय सु॒-क्रतुः॑॥
+वरु॑णᳶ प॒स्त्या॑स्व्+++(=गृहेषु|अप्सु)+++ आ ।  
+साम्रा॑ज्याय सु॒-क्रतुः॑॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/16_vijayAd_Urdhvam_upaveshanAdi_mantrAH/02_niShasAda_dhRtavrato.md">
@@ -160,8 +160,8 @@ In the waters, with keen insight, for lordship.
 <details><summary>मूलम्</summary>
 
 … निष॑साद धृ॒तव्र॑तो॒   
-वरु॑णᳶ प॒स्त्या᳚स्वा ।  
-साम्रा᳚ज्याय सु॒क्रतुः॑॥
+वरु॑णᳶ प॒स्त्या॑स्वा ।  
+साम्रा॑ज्याय सु॒क्रतुः॑॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -250,7 +250,7 @@ O Brahman!
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वꣳ रा॑जन् ब्र॒ह्माऽसि॑।    
-इन्द्रो॑ऽसि स॒त्यौजाः᳚ [31]
+इन्द्रो॑ऽसि स॒त्यौजाः॑ [31]
 </details>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -259,7 +259,7 @@ Thou, O king, art the Brahman priest, thou art Indra of true force [1].
 <details><summary>मूलम्</summary>
 
 त्वꣳ रा॑जन्ब्र॒ह्माऽसि॑।    
-इन्द्रो॑ऽसि स॒त्यौजाः᳚ [31]
+इन्द्रो॑ऽसि स॒त्यौजाः॑ [31]
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -472,7 +472,7 @@ O thou of true rule!
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒पान् नप्त्रे॒ स्वाहा᳚ ।
+अ॒पान् नप्त्रे॒ स्वाहा॑ ।
 </details>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -480,7 +480,7 @@ To the son of the waters hail!
 </details>
 <details><summary>मूलम्</summary>
 
-अ॒पान्नप्त्रे॒ स्वाहा᳚ ।
+अ॒पान्नप्त्रे॒ स्वाहा॑ ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -492,7 +492,7 @@ To the son of the waters hail!
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऊ॒र्जो नप्त्रे॒ स्वाहा᳚ ।
+ऊ॒र्जो नप्त्रे॒ स्वाहा॑ ।
 </details>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -500,7 +500,7 @@ To the son of strength hail!
 </details>
 <details><summary>मूलम्</summary>
 
-ऊ॒र्जो नप्त्रे॒ स्वाहा᳚ ।
+ऊ॒र्जो नप्त्रे॒ स्वाहा॑ ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -512,10 +512,10 @@ To the son of strength hail!
 अष्टमे षोडशोनुवाकः ॥  
 </details>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/15_rathena_digvijayArthaM_mantrAH/agnaye_gRhapataye_svAhA.md">
-<details open><summary><h5>अ॒ग्नये॑ गृ॒ह-प॑तये॒ स्वाहा᳚ ।    ...{Loading}...</h5></summary>
+<details open><summary><h5>अ॒ग्नये॑ गृ॒ह-प॑तये॒ स्वाहा॑ ।    ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्नये॑ गृ॒ह-प॑तये॒ स्वाहा᳚ ।   
+अ॒ग्नये॑ गृ॒ह-प॑तये॒ स्वाहा॑ ।   
 </details>
 <details><summary>Keith</summary>
 
@@ -523,7 +523,7 @@ To Agni, lord of the house, hail!
 </details>
 <details><summary>मूलम्</summary>
 
-अ॒ग्नये॑ गृ॒ह-प॑तये॒ स्वाहा᳚ ।   
+अ॒ग्नये॑ गृ॒ह-प॑तये॒ स्वाहा॑ ।   
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

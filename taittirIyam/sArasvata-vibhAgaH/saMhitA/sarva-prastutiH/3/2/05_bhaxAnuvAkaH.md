@@ -17,7 +17,7 @@ title = "०५ भक्षानुवाकः"
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-भख्षेहि॒ मा वि॑श दीर्घायु॒त्वाय॑ शन्तनु॒त्वाय॑ रा॒यस्पोषा॑य॒ वर्च॑से सुप्रजा॒स्त्वायेहि॑ वसो पुरोवसो प्रि॒यो मे॑ हृ॒दो᳚ऽस्य॒श्विनो᳚स्त्वा बा॒हुभ्याꣳ॑ सघ्यासम्
+भख्षेहि॒ मा वि॑श दीर्घायु॒त्वाय॑ शन्तनु॒त्वाय॑ रा॒यस्पोषा॑य॒ वर्च॑से सुप्रजा॒स्त्वायेहि॑ वसो पुरोवसो प्रि॒यो मे॑ हृ॒दो॑ऽस्य॒श्विनो॑स्त्वा बा॒हुभ्याꣳ॑ सघ्यासम्
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -39,7 +39,7 @@ Food come hither, enter me for long life, for health, for increase of wealth, fo
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **एहि॑** वसो! पुरो-वसो!  
-प्रि॒यो मे॑ हृ॒दो᳚ऽसि ।  
+प्रि॒यो मे॑ हृ॒दो॑ऽसि ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -47,7 +47,7 @@ Come hither, O Vasu, preceded by wealth; thou art dear to my heart.
 </details>
 <details><summary>मूलम्</summary>
 
-एहि॑ वसो पुरोवसो प्रि॒यो मे॑ हृ॒दो᳚ऽसि ।  
+एहि॑ वसो पुरोवसो प्रि॒यो मे॑ हृ॒दो॑ऽसि ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -55,7 +55,7 @@ Come hither, O Vasu, preceded by wealth; thou art dear to my heart.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒श्विनो᳚स् त्वा बा॒हुभ्याꣳ॑ **सघ्यासम्**+++(←ग्रहणे)+++ ।
+अ॒श्विनो॑स् त्वा बा॒हुभ्याꣳ॑ **सघ्यासम्**+++(←ग्रहणे)+++ ।
 </details>
 <details><summary>Keith</summary>
 
@@ -63,7 +63,7 @@ May I grasp thee with the arms of the Aśvins.
 </details>
 <details><summary>मूलम्</summary>
 
-अ॒श्विनो᳚स्त्वा बा॒हुभ्याꣳ॑ सघ्यासम् ।
+अ॒श्विनो॑स्त्वा बा॒हुभ्याꣳ॑ सघ्यासम् ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -652,7 +652,7 @@ Of mortal man do to us, O immortal?
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
-यन्म॑ आ॒त्मनो॑ मि॒न्दाभू॑द॒ग्निस्तत्पुन॒राहा᳚र्जा॒तवे॑दा॒ विच॑र्षणिः ।
+यन्म॑ आ॒त्मनो॑ मि॒न्दाभू॑द॒ग्निस्तत्पुन॒राहा॑र्जा॒तवे॑दा॒ विच॑र्षणिः ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -803,7 +803,7 @@ Rejoice therein, O fathers, according to your shares.
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-नमो॑ वᳶ पितरो॒ रसा॑य॒ नमो॑ वᳶ पितर॒श्शुष्मा॑य॒ नमो॑ वᳶ पितरो जी॒वाय॒ नमो॑ वᳶ पितरः [20]  स्व॒धायै॒ नमो॑ वᳶ पितरो म॒न्यवे॒ नमो॑ वᳶ पितरो घो॒राय॒ पित॑रो॒ नमो॑ वो॒ य ए॒तस्मि॑ल्ँलो॒के स्थ यु॒ष्माꣳस्तेऽनु॒ ये᳚ऽस्मिल्ँ लो॒के मान्तेऽनु॒ य ए॒तस्मि॑ल्ँलो॒के स्थ यू॒यन्तेषा॒व्ँवसि॑ष्ठा भूयास्त॒ ये᳚ऽस्मिल्ँ लो॒के॑ऽहन्तेषा॒व्ँवसि॑ष्ठो भूयासम्
+नमो॑ वᳶ पितरो॒ रसा॑य॒ नमो॑ वᳶ पितर॒श्शुष्मा॑य॒ नमो॑ वᳶ पितरो जी॒वाय॒ नमो॑ वᳶ पितरः [20]  स्व॒धायै॒ नमो॑ वᳶ पितरो म॒न्यवे॒ नमो॑ वᳶ पितरो घो॒राय॒ पित॑रो॒ नमो॑ वो॒ य ए॒तस्मि॑ल्ँलो॒के स्थ यु॒ष्माꣳस्तेऽनु॒ ये॑ऽस्मिल्ँ लो॒के मान्तेऽनु॒ य ए॒तस्मि॑ल्ँलो॒के स्थ यू॒यन्तेषा॒व्ँवसि॑ष्ठा भूयास्त॒ ये॑ऽस्मिल्ँ लो॒के॑ऽहन्तेषा॒व्ँवसि॑ष्ठो भूयासम्
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -922,7 +922,7 @@ Ye that are in that world, may they follow you;
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ये᳚ऽस्मिल्ँ लो॒के मान् तेऽनु॑ ।
+ये॑ऽस्मिल्ँ लो॒के मान् तेऽनु॑ ।
 </details>
 <details><summary>Keith</summary>
 
@@ -930,7 +930,7 @@ ye that are in this world, may they follow me.
 </details>
 <details><summary>मूलम्</summary>
 
-ये᳚ऽस्मिल्ँ लो॒के मान्तेऽनु॑ ।
+ये॑ऽस्मिल्ँ लो॒के मान्तेऽनु॑ ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -954,7 +954,7 @@ Ye that are in that world, of them be ye the most fortunate;
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ये᳚ऽस्मिल्ँ लो॒के॑ ऽहन् तेषा॒व्ँवसि॑ष्ठो भूयासम् ।
+ये॑ऽस्मिल्ँ लो॒के॑ ऽहन् तेषा॒व्ँवसि॑ष्ठो भूयासम् ।
 </details>
 <details><summary>Keith</summary>
 
@@ -962,7 +962,7 @@ ye that are in this world, of these may I be the most fortunate.
 </details>
 <details><summary>मूलम्</summary>
 
-ये᳚ऽस्मिल्ँ लो॒के॑ऽहन्तेषा॒व्ँवसि॑ष्ठो भूयासम् ।
+ये॑ऽस्मिल्ँ लो॒के॑ऽहन्तेषा॒व्ँवसि॑ष्ठो भूयासम् ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

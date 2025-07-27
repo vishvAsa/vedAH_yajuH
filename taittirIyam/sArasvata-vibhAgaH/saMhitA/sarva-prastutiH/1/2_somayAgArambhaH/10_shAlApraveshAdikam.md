@@ -65,7 +65,7 @@ Thou art the hospitality of Soma. For Visnu thee!
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अति॑थेर्+++(=अतनशीलस्य [सुर्यस्य वायोर् वा])+++ आति॒थ्यम॑सि॒, +++(सर्वदेवतात्मने)+++ विष्ण॑वे त्वा॒ऽग्नये᳚ त्वा +++(निर्वपामि)+++  ।
+अति॑थेर्+++(=अतनशीलस्य [सुर्यस्य वायोर् वा])+++ आति॒थ्यम॑सि॒, +++(सर्वदेवतात्मने)+++ विष्ण॑वे त्वा॒ऽग्नये॑ त्वा +++(निर्वपामि)+++  ।
 </details>
 <details><summary>Keith</summary>
 
@@ -73,11 +73,11 @@ Thou art the hospitality of the stranger. For Visnu thee!
 </details>
 <details><summary>मूलम्</summary>
 
-अति॑थेराति॒थ्यम॑सि॒, विष्ण॑वे त्वा॒ऽग्नये᳚ त्वा  +++(निर्वपामि)+++  ।
+अति॑थेराति॒थ्यम॑सि॒, विष्ण॑वे त्वा॒ऽग्नये॑ त्वा  +++(निर्वपामि)+++  ।
 </details>
 <details><summary>पद-पाठः</summary>
 
-अति॑थेः । आ॒ति॒थ्यम् । अ॒सि॒ । विष्ण॑वे । त्वा॒ । अ॒ग्नये᳚ । त्वा॒ ।
+अति॑थेः । आ॒ति॒थ्यम् । अ॒सि॒ । विष्ण॑वे । त्वा॒ । अ॒ग्नये॑ । त्वा॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -99,7 +99,7 @@ For Agni thee, giver of wealth, for Visnu thee;
 </details>
 <details><summary>पद-पाठः</summary>
 
-रा॒य॒स्पो॒ष॒दाव्न्न॒ इति॑ रायस्पोष-दाव्न्ने᳚ । विष्ण॑वे । त्वा॒ । 
+रा॒य॒स्पो॒ष॒दाव्न्न॒ इति॑ रायस्पोष-दाव्न्ने॑ । विष्ण॑वे । त्वा॒ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -121,7 +121,7 @@ for the eagle, bringer of the Soma, thee, for Visnu thee!
 </details>
 <details><summary>पद-पाठः</summary>
 
-श्ये॒नाय॑ । त्वा॒ । सो॒म॒भृत॒ इति॑ सोम-भृते᳚ । विष्ण॑वे । त्वा॒ ।  
+श्ये॒नाय॑ । त्वा॒ । सो॒म॒भृत॒ इति॑ सोम-भृते॑ । विष्ण॑वे । त्वा॒ ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -160,7 +160,7 @@ May they all envelop the sacrifice!
 
 <details><summary>पद-पाठः</summary>
 
-या । ते॒ । धामा॑नि । ह॒विषा᳚ । यज॑न्ति । ता । ते॒ । विश्वा᳚ । प॒रि॒भूरिति॑ परि-भूः । अ॒स्तु॒ । य॒ज्ञम् । 
+या । ते॒ । धामा॑नि । ह॒विषा॑ । यज॑न्ति । ता । ते॒ । विश्वा॑ । प॒रि॒भूरिति॑ परि-भूः । अ॒स्तु॒ । य॒ज्ञम् । 
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -316,7 +316,7 @@ Be prosperity ours from our friendship with the gods.
 </details>
 <details><summary>पद-पाठः</summary>
 
-शँ॒य्योरिति॑ शं-योः । दे॒वाना᳚म् । 
+शँ॒य्योरिति॑ शं-योः । दे॒वाना॑म् । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -344,7 +344,7 @@ May we be not severed from our service of the gods.
 </details>
 <details><summary>पद-पाठः</summary>
 
-स॒ख्यात् । मा । दे॒वाना᳚म् । अ॒पसः॑ । छि॒थ्स्म॒हि॒ ।
+स॒ख्यात् । मा । दे॒वाना॑म् । अ॒पसः॑ । छि॒थ्स्म॒हि॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -361,7 +361,7 @@ ________
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-आप॑तये त्वा गृह्णामि॒ परि॑पतये त्वा गृह्णामि॒ तनू॒नप्त्रे᳚ त्वा गृह्णामि शाक्व॒राय॑ त्वा गृह्णामि॒ शक्म॒न्नोजि॑ष्ठाय त्वा गृह्णा॒मि
+आप॑तये त्वा गृह्णामि॒ परि॑पतये त्वा गृह्णामि॒ तनू॒नप्त्रे॑ त्वा गृह्णामि शाक्व॒राय॑ त्वा गृह्णामि॒ शक्म॒न्नोजि॑ष्ठाय त्वा गृह्णा॒मि
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -407,7 +407,7 @@ for him who rushes around I seize thee;
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तनू॒+++(=जल)+++नप्त्रे᳚+++(=शरीरस्थायाग्नये)+++ त्वा गृह्णामि।
+तनू॒+++(=जल)+++नप्त्रे॑+++(=शरीरस्थायाग्नये)+++ त्वा गृह्णामि।
 </details>
 <details><summary>Keith</summary>
 
@@ -415,11 +415,11 @@ for Tanunapat I seize thee;
 </details>
 <details><summary>मूलम्</summary>
 
-तनू॒नप्त्रे᳚ त्वा गृह्णामि।
+तनू॒नप्त्रे॑ त्वा गृह्णामि।
 </details>
 <details><summary>पद-पाठः</summary>
 
-तनू॒नप्त्र॒ इति॒ तनू᳚-नप्त्रे᳚ । त्वा॒ । गृ॒ह्णा॒मि॒ । 
+तनू॒नप्त्र॒ इति॒ तनू॑-नप्त्रे॑ । त्वा॒ । गृ॒ह्णा॒मि॒ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -493,9 +493,9 @@ the unapproachable might of the gods, guarding from imprecations, impervious to 
 </details>
 <details><summary>पद-पाठः</summary>
 
-अना॑धृष्ट॒मित्यना᳚-धृ॒ष्ट॒म् । अ॒सि॒ ।  
+अना॑धृष्ट॒मित्यना॑-धृ॒ष्ट॒म् । अ॒सि॒ ।  
 अ॒ना॒धृ॒ष्यमित्य॑ना-धृ॒ष्यम् ।  
-दे॒वाना᳚म् । ओजः॑ ।   
+दे॒वाना॑म् । ओजः॑ ।   
 अ॒भि॒श॒स्ति॒पा इत्य॑भिशस्ति-पाः ।   अ॒न॒भि॒श॒स्ते॒न्यम् इत्य् अ॑नभि-श॒स्ते॒न्यम् । 
 </details>
 

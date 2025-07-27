@@ -17,20 +17,20 @@ title = "३० ‘ता सूर्या चन्द्रमसा’,"
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA/02_tA_sUryAchandramasA.md">
 <details open><summary><h13>विश्वास-प्रस्तुतिः ...{Loading}...</h13></summary>
 
-ता सू᳚र्याचन्द्र॒मसा॑ विश्व॒-भृत्त॑मा म॒हत् ।   
+ता सू॑र्याचन्द्र॒मसा॑ विश्व॒-भृत्त॑मा म॒हत् ।   
 तेजो॒ वसु॑मद् **राजतो** दि॒वि ।  
-सामा᳚त्माना **चरतस्** साम-चा॒रिणा᳚ +++(न भेद-चारिणौ)+++ ।  
-ययो᳚र् व्र॒तन् न **म॒मे** जातु॑ दे॒वयोः᳚ ।
+सामा॑त्माना **चरतस्** साम-चा॒रिणा॑ +++(न भेद-चारिणौ)+++ ।  
+ययो॑र् व्र॒तन् न **म॒मे** जातु॑ दे॒वयोः॑ ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA/02_tA_sUryAchandramasA.md">
 <details open><summary><h13>सर्वाष् टीकाः ...{Loading}...</h13></summary>
 <details><summary>मूलम्</summary>
 
-ता सू᳚र्याचन्द्र॒मसा॑ विश्व॒भृत्त॑मा म॒हत् ।   
+ता सू॑र्याचन्द्र॒मसा॑ विश्व॒भृत्त॑मा म॒हत् ।   
 तेजो॒ वसु॑मद्राजतो दि॒वि ।  
-सामा᳚त्माना चरतस्सामचा॒रिणा᳚ ।  
-ययो᳚र्व्र॒तन्न म॒मे जातु॑ दे॒वयोः᳚ ।
+सामा॑त्माना चरतस्सामचा॒रिणा॑ ।  
+ययो॑र्व्र॒तन्न म॒मे जातु॑ दे॒वयोः॑ ।
 </details>
 <details><summary>सायण-टीका</summary>
 
@@ -45,7 +45,7 @@ title = "३० ‘ता सूर्या चन्द्रमसा’,"
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA/07_ubhAv_antau.md">
 <details open><summary><h13>विश्वास-प्रस्तुतिः ...{Loading}...</h13></summary>
 
-उ॒भाव् अन्तौ॒ **परि॑ यात॒** अर्म्या᳚+++(=गत्या)+++ ।   
+उ॒भाव् अन्तौ॒ **परि॑ यात॒** अर्म्या॑+++(=गत्या)+++ ।   
 दि॒वो न र॒श्मीꣳस् **त॑नु॒तो व्य्** अ॑र्ण॒वे ।   
 उ॒भा **भु॑व॒न्ती** भुव॑ना क॒वि-क्र॑तू ।   
 सूर्या॒ न च॒न्द्रा **च॑रतो** ह॒ता-म॑ती ।
@@ -55,7 +55,7 @@ title = "३० ‘ता सूर्या चन्द्रमसा’,"
 <details open><summary><h13>सर्वाष् टीकाः ...{Loading}...</h13></summary>
 <details><summary>मूलम्</summary>
 
-उ॒भावन्तौ॒ परि॑ यात॒ अर्म्या᳚ ।   
+उ॒भावन्तौ॒ परि॑ यात॒ अर्म्या॑ ।   
 दि॒वो न र॒श्मीꣳस्त॑नु॒तो व्य॑र्ण॒वे ।   
 उ॒भा भु॑व॒न्ती भुव॑ना क॒विक्र॑तू ।   
 सूर्या॒ न च॒न्द्रा च॑रतो ह॒ताम॑ती ।
@@ -74,9 +74,9 @@ title = "३० ‘ता सूर्या चन्द्रमसा’,"
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA/11_patI_dyumad.md">
 <details open><summary><h13>विश्वास-प्रस्तुतिः ...{Loading}...</h13></summary>
 
-पती᳚ द्यु॒मद् वि॑श्व॒-विदा॑ उ॒भा दि॒वः ।   
+पती॑ द्यु॒मद् वि॑श्व॒-विदा॑ उ॒भा दि॒वः ।   
 सूर्या॑ उ॒भा च॒न्द्रम॑सा विचख्ष॒णा ॥ 71 ॥  
-वि॒श्व-वा॑रा **वरिवा**+++(=पूजितौ)+++ +उ॒भा वरे᳚ण्या ।  
+वि॒श्व-वा॑रा **वरिवा**+++(=पूजितौ)+++ +उ॒भा वरे॑ण्या ।  
 ता नो॑ **ऽवतम्** मति॒मन्ता॒ महि॑व्रता ।
 </details>
 </div>
@@ -84,9 +84,9 @@ title = "३० ‘ता सूर्या चन्द्रमसा’,"
 <details open><summary><h13>सर्वाष् टीकाः ...{Loading}...</h13></summary>
 <details><summary>मूलम्</summary>
 
-पती᳚ द्यु॒मद्वि॑श्व॒विदा॑ उ॒भा दि॒वः ।   
+पती॑ द्यु॒मद्वि॑श्व॒विदा॑ उ॒भा दि॒वः ।   
 सूर्या॑ उ॒भा च॒न्द्रम॑सा विचख्ष॒णा ॥ 71 ॥  
-वि॒श्ववा॑रा वरिवो॒भा वरे᳚ण्या ।  
+वि॒श्ववा॑रा वरिवो॒भा वरे॑ण्या ।  
 ता नो॑ऽवतम्मति॒मन्ता॒ महि॑व्रता ।
 </details>
 <details><summary>सायण-टीका</summary>
@@ -105,7 +105,7 @@ title = "३० ‘ता सूर्या चन्द्रमसा’,"
 वि॒श्व॒-वप॑री+++(←वप्)+++ प्र॒तर॑णा **तर॒न्ता** ।   
 सु॒व॒र्-विदा॑ दृ॒शये॒ भूरि॑-रश्मी ।  
 सूर्या॒ हि च॒न्द्रा वसु॑ त्वे॒ष-द॑र्शता ।   
-म॒न॒स्विनो॒भा **ऽनु॑चर॒तो** नु॒ सन् दिव᳚म् ।
+म॒न॒स्विनो॒भा **ऽनु॑चर॒तो** नु॒ सन् दिव॑म् ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA/15_vishvavaparI_prataraNA.md">
@@ -115,7 +115,7 @@ title = "३० ‘ता सूर्या चन्द्रमसा’,"
 वि॒श्व॒वप॑री प्र॒तर॑णा तर॒न्ता ।   
 सु॒व॒र्विदा॑ दृ॒शये॒ भूरि॑रश्मी ।  
 सूर्या॒ हि च॒न्द्रा वसु॑ त्वे॒षद॑र्शता ।   
-म॒न॒स्विनो॒भानु॑चर॒तोनु॒ सन्दिव᳚म् ।
+म॒न॒स्विनो॒भानु॑चर॒तोनु॒ सन्दिव॑म् ।
 </details>
 <details><summary>सायण-टीका</summary>
 
@@ -433,7 +433,7 @@ Die sieben Ströme wahren schutzreich seinen Ruhm, die weiten Erd' und Himmel se
 
 पू॒र्वा॒प॒रञ् **च॑रतो** मा॒ययै॒तौ ।   
 शिशू॒ **क्रीड॑न्तौ॒** परि॑ यातो अ-ध्व॒रम्+++(=अ-हिंसम्  →यज्ञम्)+++ ।  
-विश्वा᳚न्य् +++(तयोर्)+++ अ॒न्यो भुव॑ना **ऽभि॒ चष्टे᳚** ।  
+विश्वा॑न्य् +++(तयोर्)+++ अ॒न्यो भुव॑ना **ऽभि॒ चष्टे॑** ।  
 ऋ॒तून् अ॒न्यो **वि॒दध॑ज् जायते॒** पुनः॑ ।+++(5)+++
 </details>
 </div>
@@ -443,7 +443,7 @@ Die sieben Ströme wahren schutzreich seinen Ruhm, die weiten Erd' und Himmel se
 
 पू॒र्वा॒प॒रञ्च॑रतो मा॒ययै॒तौ ।   
 शिशू॒ क्रीड॑न्तौ॒ परि॑ यातो अध्व॒रम् ।  
-विश्वा᳚न्य॒न्यो भुव॑नाऽभि॒ चष्टे᳚ ।  
+विश्वा॑न्य॒न्यो भुव॑नाऽभि॒ चष्टे॑ ।  
 ऋ॒तून॒न्यो वि॒दध॑ज्जायते॒ पुनः॑ ।
 </details>
 <details><summary>सायण-टीका</summary>
@@ -466,7 +466,7 @@ Die sieben Ströme wahren schutzreich seinen Ruhm, die weiten Erd' und Himmel se
 </details>
 <details><summary>मूलम्</summary>
 
-हिर॑ण्यवर्णा॒श्शुच॑यᳶ पाव॒का यासा॒ꣳ॒ राजा᳚ ।
+हिर॑ण्यवर्णा॒श्शुच॑यᳶ पाव॒का यासा॒ꣳ॒ राजा॑ ।
 </details>
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/03_hiraNyavarNAsh_shuchayapH.md">
 <details open><summary><h8>विश्वास-प्रस्तुतिः ...{Loading}...</h8></summary>
@@ -522,20 +522,20 @@ Die sieben Ströme wahren schutzreich seinen Ruhm, die weiten Erd' und Himmel se
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-यासा᳚न्दे॒वा दि॒वि कृ॒ण्वन्ति॑ भ॒ख्षय्ँया अ॒न्तरि॑ख्षे बहु॒धा भव॑न्ति । याᳶ पृ॑थि॒वीम्पय॑सो॒न्दन्ति॑ [1]  
+यासा॑न्दे॒वा दि॒वि कृ॒ण्वन्ति॑ भ॒ख्षय्ँया अ॒न्तरि॑ख्षे बहु॒धा भव॑न्ति । याᳶ पृ॑थि॒वीम्पय॑सो॒न्दन्ति॑ [1]  
 शु॒क्रास्ता न॒ आप॒श्शꣳ स्यो॒ना भ॑वन्तु ।
 </details>
 </details>
 </div>
 <details><summary>मूलम्</summary>
 
-यासा᳚न् दे॒वाश्  
+यासा॑न् दे॒वाश्  
 शि॒वेन॑ मा॒ चख्षु॑षा पश्यत ।
 </details>
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/12_yAsAn_devA.md">
 <details open><summary><h8>विश्वास-प्रस्तुतिः ...{Loading}...</h8></summary>
 
-यासा᳚न् दे॒वा दि॒वि **कृ॒ण्वन्ति॑** भ॒ख्षय्ँ -  
+यासा॑न् दे॒वा दि॒वि **कृ॒ण्वन्ति॑** भ॒ख्षय्ँ -  
 या अ॒न्तरि॑ख्षे बहु॒धा **भव॑न्ति** ।  
 याᳶ पृ॑थि॒वीम् **पय॑सो॒न्दन्ति॑** शु॒क्रास् -  
 ता न॒ आप॒श् शꣳ स्यो॒ना **भ॑वन्तु** ।
@@ -545,7 +545,7 @@ Die sieben Ströme wahren schutzreich seinen Ruhm, die weiten Erd' und Himmel se
 <details open><summary><h8>विश्वास-प्रस्तुतिः ...{Loading}...</h8></summary>
 <details><summary>मूलम्</summary>
 
-यासा᳚न् दे॒वा दि॒वि कृ॒ण्वन्ति॑ भ॒ख्षय्ँ - या अ॒न्तरि॑ख्षे बहु॒धा भव॑न्ति ।  
+यासा॑न् दे॒वा दि॒वि कृ॒ण्वन्ति॑ भ॒ख्षय्ँ - या अ॒न्तरि॑ख्षे बहु॒धा भव॑न्ति ।  
 याᳶ पृ॑थि॒वीम् पय॑सो॒न्दन्ति॑ शु॒क्रास् - ता न॒ आप॒श् शꣳ स्यो॒ना भ॑वन्तु ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -600,7 +600,7 @@ Die sieben Ströme wahren schutzreich seinen Ruhm, die weiten Erd' und Himmel se
 आपो॑ भ॒द्रा, घृ॒तम् इद् आप॑ आसुर् -  
 अ॒ग्नीषोमौ॑ **बिभ्र॒त्य्**, आप॒ इत् ताः ।  
 ती॒व्रो रसो॑ मधु॒-पृचा॑म् अरङ्-ग॒म +++(→रसः)+++  
-**आ** मा᳚ प्रा॒णेन॑ स॒ह वर्च॑सा **गन्न्** ।
+**आ** मा॑ प्रा॒णेन॑ स॒ह वर्च॑सा **गन्न्** ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/5/6/01_kumbheShTakopAdhAna-mantrAH/37_Apo_bhadrA.md">
@@ -608,7 +608,7 @@ Die sieben Ströme wahren schutzreich seinen Ruhm, die weiten Erd' und Himmel se
 <details><summary>मूलम्</summary>
 
 आपो॑ भ॒द्रा घृ॒तमिदाप॑ आसुर् - अ॒ग्नीषोमौ॑ बिभ्र॒त्याप॒ इत्ताः ।  
-ती॒व्रो रसो॑ मधु॒पृचा॑मरङ्ग॒म आ मा᳚ प्रा॒णेन॑ स॒ह वर्च॑सा गन्न् ।
+ती॒व्रो रसो॑ मधु॒पृचा॑मरङ्ग॒म आ मा॑ प्रा॒णेन॑ स॒ह वर्च॑सा गन्न् ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

@@ -77,7 +77,7 @@ it is placed in the world of the sacrifice between the fore- and the after-offer
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ताम् आ᳚ह्रि॒यमा॑णाम् अ॒भि म॑न्त्रयेत॒ -  
+ताम् आ॑ह्रि॒यमा॑णाम् अ॒भि म॑न्त्रयेत॒ -  
 "सुरू॑पवर्षवर्ण॒ एही"ति॑।  
 </details>
 <details><summary>Keith</summary>
@@ -86,7 +86,7 @@ Over it as it is brought up he should say, 'O thou of fair rain colour, come hit
 </details>
 <details><summary>मूलम्</summary>
 
-तामा᳚ह्रि॒यमा॑णाम॒भि म॑न्त्रयेत ।  
+तामा॑ह्रि॒यमा॑णाम॒भि म॑न्त्रयेत ।  
 
 सुरू॑पवर्षवर्ण॒ एहीति॑।  
 </details>
@@ -267,7 +267,7 @@ verily he lets the calf go to the mother
 ## इडा मानवी
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-सर्वे॑ण॒ वै य॒ज्ञेन॑ दे॒वास्सु॑व॒र्गल्ँलो॒कमा॑यन्पाकय॒ज्ञेन॒ मनु॑रश्राम्य॒थ्सेडा॒ मनु॑मु॒पाव॑र्तत॒ तान्दे॑वासु॒रा व्य॑ह्वयन्त प्र॒तीची᳚न्दे॒वाᳶ परा॑ची॒मसु॑रा॒स्सा दे॒वानु॒पाव॑र्तत प॒शवो॒ वै तद्दे॒वान॑वृणत प॒शवोऽसु॑रानजहुः 
+सर्वे॑ण॒ वै य॒ज्ञेन॑ दे॒वास्सु॑व॒र्गल्ँलो॒कमा॑यन्पाकय॒ज्ञेन॒ मनु॑रश्राम्य॒थ्सेडा॒ मनु॑मु॒पाव॑र्तत॒ तान्दे॑वासु॒रा व्य॑ह्वयन्त प्र॒तीची॑न्दे॒वाᳶ परा॑ची॒मसु॑रा॒स्सा दे॒वानु॒पाव॑र्तत प॒शवो॒ वै तद्दे॒वान॑वृणत प॒शवोऽसु॑रानजहुः 
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -326,7 +326,7 @@ the gods and the Asuras called severally upon her,
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒तीची᳚न् दे॒वाः ।   
+प्र॒तीची॑न् दे॒वाः ।   
 परा॑ची॒मसु॑राः ।
 </details>
 <details><summary>Keith</summary>
@@ -336,7 +336,7 @@ the Asuras indirectly;
 </details>
 <details><summary>मूलम्</summary>
 
-प्र॒तीची᳚न्दे॒वाः ।  
+प्र॒तीची॑न्दे॒वाः ।  
 परा॑ची॒मसु॑राः ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -419,7 +419,7 @@ The theologians say, 'He would invoke the Ida indeed who in invoking the Ida sho
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"सा नᳶ॑ प्रि॒या, सु॒प्रतू᳚र्तिर्, म॒घोनी"त्य् आह।  
+"सा नᳶ॑ प्रि॒या, सु॒प्रतू॑र्तिर्, म॒घोनी"त्य् आह।  
 इडा॑म् ए॒वोप॒हूया॒ऽऽत्मान॒म् इडा॑या॒म् उप॑ ह्वयते ।  
 </details>
 <details><summary>Keith</summary>
@@ -428,7 +428,7 @@ The theologians say, 'He would invoke the Ida indeed who in invoking the Ida sho
 </details>
 <details><summary>मूलम्</summary>
 
-सा नᳶ॑ प्रि॒या सु॒प्रतू᳚र्तिर्म॒घोनीत्याह।  
+सा नᳶ॑ प्रि॒या सु॒प्रतू॑र्तिर्म॒घोनीत्याह।  
 इडा॑मे॒वोप॒हूया॒ऽऽत्मान॒मिडा॑या॒मुप॑ ह्वयते ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -442,7 +442,7 @@ The theologians say, 'He would invoke the Ida indeed who in invoking the Ida sho
 
 व्य॑स्तम् इव॒ वा ए॒तद् य॒ज्ञस्य॒ यद् इडा॑।  
 सा॒मि+++(=अर्धम्)+++ प्रा॒श्ञन्ति॑ [4] ।  
-सा॒मि मा᳚र्जयन्ते  ।  
+सा॒मि मा॑र्जयन्ते  ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -452,7 +452,7 @@ The Ida is as it were a breach in the sacrifice; half they eat [4], half they wi
 
 व्य॑स्तमिव॒ वा ए॒तद्य॒ज्ञस्य॒ यदिडा॑।  
 सा॒मि प्रा॒श्ञन्ति॑ [4] ।  
-सा॒मि मा᳚र्जयन्ते  ।  
+सा॒मि मा॑र्जयन्ते  ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

@@ -88,7 +88,7 @@ Go to day and night, hail!
 ________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मि॒त्रावरु॑णौ गच्छ॒ स्वाहा᳚  ।
+मि॒त्रावरु॑णौ गच्छ॒ स्वाहा॑  ।
 </details>
 <details><summary>Keith</summary>
 
@@ -96,7 +96,7 @@ Go to Mitra and Varuna, hail!
 </details>
 <details><summary>मूलम्</summary>
 
-मि॒त्रावरु॑णौ गच्छ॒ स्वाहा᳚  ।
+मि॒त्रावरु॑णौ गच्छ॒ स्वाहा॑  ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -196,7 +196,7 @@ Go to the clouds of the sky, hail!
 ________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्निव्ँवै᳚श्वान॒रङ्ग॑च्छ॒ स्वाहा॑ ।
+अ॒ग्निव्ँवै॑श्वान॒रङ्ग॑च्छ॒ स्वाहा॑ ।
 </details>
 <details><summary>Keith</summary>
 
@@ -204,7 +204,7 @@ Go to Agni Vaiśvanara, hail!
 </details>
 <details><summary>मूलम्</summary>
 
-अ॒ग्निव्ँवै᳚श्वान॒रङ्ग॑च्छ॒ स्वाहा॑ ।
+अ॒ग्निव्ँवै॑श्वान॒रङ्ग॑च्छ॒ स्वाहा॑ ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -275,12 +275,12 @@ _______
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-शुग॑सि॒ तम॒भि शो॑च॒ यो᳚ऽस्मान्द्वेष्टि॒ यञ्च॑ व॒यन्द्वि॒ष्मः।
+शुग॑सि॒ तम॒भि शो॑च॒ यो॑ऽस्मान्द्वेष्टि॒ यञ्च॑ व॒यन्द्वि॒ष्मः।
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शुग॑सि ।  
-तम् अ॒भि शो॑च॒ यो᳚ऽस्मान् द्वेष्टि॒  
+तम् अ॒भि शो॑च॒ यो॑ऽस्मान् द्वेष्टि॒  
 यञ् च॑ व॒यन् द्वि॒ष्मः।
 </details>
 <details><summary>Keith</summary>
@@ -291,7 +291,7 @@ pain him who hateth us and whom we hate.
 <details><summary>मूलम्</summary>
 
 शुग॑सि ।  
-तम॒भि शो॑च॒ यो᳚ऽस्मान्द्वेष्टि॒ यञ्च॑ व॒यन्द्वि॒ष्मः।
+तम॒भि शो॑च॒ यो॑ऽस्मान्द्वेष्टि॒ यञ्च॑ व॒यन्द्वि॒ष्मः।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

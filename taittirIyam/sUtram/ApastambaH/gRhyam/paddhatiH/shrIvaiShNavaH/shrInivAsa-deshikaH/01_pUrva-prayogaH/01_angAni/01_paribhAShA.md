@@ -268,15 +268,15 @@ title = "०१ परिभाषा"
 अङ्ग-लोपे  
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/baudhAyanaH/gRhyam/mantraH/yajuH/sarva-prastutiH/bhUr_bhuvas_suvas_svAhA.md">
-<details open><summary><h5>भूर् भुव॒स् सु॒व॒स् स्वाहा᳚ ...{Loading}...</h5></summary>
+<details open><summary><h5>भूर् भुव॒स् सु॒व॒स् स्वाहा॑ ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ओं भूर् भुव॒स् सुव॒स् स्वाहा᳚ ॥  
+ओं भूर् भुव॒स् सुव॒स् स्वाहा॑ ॥  
 (प्रजापतय इदं न मम) ॥१॥
 </details>
 <details><summary>मूलम्</summary>
 
-ओं भूर् भुव॒स् सुव॒स् स्वाहा᳚ ॥  
+ओं भूर् भुव॒स् सुव॒स् स्वाहा॑ ॥  
 (प्रजापतय इदं न मम) ॥१॥
 </details>
 </details>

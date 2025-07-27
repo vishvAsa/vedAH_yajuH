@@ -19,7 +19,7 @@ _______
 त्रि॒ꣳ॒शत् त्रय॑श् +++(=३३)+++ च ग॒णिनो॑ रु॒जन्तो॒  
 दिवꣳ॑ रु॒द्राᳶ पृ॑थि॒वीञ् च॑ सचन्ते ।  
 ए॒का॒द॒शासो॑ अफ्सु॒-षद॑स् सु॒तꣳ   
-सोम॑ञ् जुषन्ता॒ꣳ॒ सव॑नाय॒ विश्वे᳚ ॥
+सोम॑ञ् जुषन्ता॒ꣳ॒ सव॑नाय॒ विश्वे॑ ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/11_bhrAtRvyavata_AgrahayaNagrahaH/02_triMshat_trayash.md">
@@ -36,7 +36,7 @@ May all of them accept the Soma pressed for the pressing.
 त्रि॒ꣳ॒शत्त्रय॑श्च ग॒णिनो॑ रु॒जन्तो॒ ..  
 दिवꣳ॑ रु॒द्राᳶ पृ॑थि॒वीञ्च॑ सचन्ते ।  
 ए॒का॒द॒शासो॑ अफ्सु॒षद॑स्सु॒तꣳ   
-सोम॑ञ्जुषन्ता॒ꣳ॒ सव॑नाय॒ विश्वे᳚ ॥
+सोम॑ञ्जुषन्ता॒ꣳ॒ सव॑नाय॒ विश्वे॑ ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -93,11 +93,11 @@ ________________
 </div>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[विश्वे᳚भ्यस्त्वा दे॒वेभ्यः॑]
+[विश्वे॑भ्यस्त्वा दे॒वेभ्यः॑]
 </details>
 <details><summary>मूलम्</summary>
 
-[विश्वे᳚भ्यस्त्वा दे॒वेभ्यः॑]
+[विश्वे॑भ्यस्त्वा दे॒वेभ्यः॑]
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -111,12 +111,12 @@ _______
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-आग्रय॒णो॑ऽसि॒ स्वा᳚ग्रयणो॒ जिन्व॑ य॒ज्ञञ्जिन्व॑ य॒ज्ञप॑तिम॒भि सव॑ना पाहि॒ विष्णु॒स्त्वाम्पा॑तु॒ विश॒न्त्वम्पा॑हीन्द्रि॒येण
+आग्रय॒णो॑ऽसि॒ स्वा॑ग्रयणो॒ जिन्व॑ य॒ज्ञञ्जिन्व॑ य॒ज्ञप॑तिम॒भि सव॑ना पाहि॒ विष्णु॒स्त्वाम्पा॑तु॒ विश॒न्त्वम्पा॑हीन्द्रि॒येण
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ॒ग्र॒य॒णो॑ऽसि ।  
-स्वा᳚ग्रयणो॒ जिन्व॑ ।    
+स्वा॑ग्रयणो॒ जिन्व॑ ।    
 य॒ज्ञञ्जिन्व॑ य॒ज्ञप॑तिम्  +++(जिन्व)+++ ।
 </details>
 <details><summary>Keith</summary>
@@ -129,7 +129,7 @@ quicken the lord of the sacrifice;
 <details><summary>मूलम्</summary>
 
 आ॒ग्र॒य॒णो॑ऽसि ।  
-स्वा᳚ग्रयणो॒ जिन्व॑ ।    
+स्वा॑ग्रयणो॒ जिन्व॑ ।    
 य॒ज्ञञ्जिन्व॑ य॒ज्ञप॑तिम्  +++(जिन्व)+++ ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -173,7 +173,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ष ते॒ योनि॒र्, विश्वे᳚भ्यस् त्वा दे॒वेभ्यः॑ ॥ [11]
+ए॒ष ते॒ योनि॒र्, विश्वे॑भ्यस् त्वा दे॒वेभ्यः॑ ॥ [11]
 </details>
 <details><summary>Keith</summary>
 
@@ -181,7 +181,7 @@ this is thy birthplace; to the All-gods thee!
 </details>
 <details><summary>मूलम्</summary>
 
-ए॒ष ते॒ योनि॒र्विश्वे᳚भ्यस्त्वा दे॒वेभ्यः॑ ॥ [11]
+ए॒ष ते॒ योनि॒र्विश्वे॑भ्यस्त्वा दे॒वेभ्यः॑ ॥ [11]
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

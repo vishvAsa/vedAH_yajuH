@@ -8,7 +8,7 @@ title = "१० ३ मधु"
 
 मधु॒ वाता॑ ऋताय॒ते  
 मधु॑ ख्षरन्ति॒ सिन्ध॑वः ।  
-माद्ध्वी᳚र् नस् स॒न्त्व् ओष॑धीः ॥
+माद्ध्वी॑र् नस् स॒न्त्व् ओष॑धीः ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/10_3/01_madhu_vAtA.md">
@@ -17,7 +17,7 @@ title = "१० ३ मधु"
 
 मधु॒ वाता॑ ऋताय॒ते  
 मधु॑ ख्षरन्ति॒ सिन्ध॑वः ।  
-माद्ध्वी᳚र् नस् स॒न्त्व् ओष॑धीः ॥
+माद्ध्वी॑र् नस् स॒न्त्व् ओष॑धीः ॥
 </details>
 </details>
 </div>

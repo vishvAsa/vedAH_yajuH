@@ -12,7 +12,7 @@ _______
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-उ॒प॒या॒मगृ॑हीतो॒ऽसीन्द्रा॑य त्वा बृ॒हद्व॑ते॒ वय॑स्वत उक्था॒युवे॒ यत्त॑ इन्द्र बृ॒हद्वय॒स्तस्मै᳚ त्वा॒ विष्ण॑वे त्वा ।
+उ॒प॒या॒मगृ॑हीतो॒ऽसीन्द्रा॑य त्वा बृ॒हद्व॑ते॒ वय॑स्वत उक्था॒युवे॒ यत्त॑ इन्द्र बृ॒हद्वय॒स्तस्मै॑ त्वा॒ विष्ण॑वे त्वा ।
 </details>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/10_AgrayaNagrahaH/upayAmagRhItaH.md">
 <details open><summary><h5>उपयामगृहीतः ...{Loading}...</h5></summary>
@@ -48,11 +48,11 @@ ________________
 </div>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[विश्वे᳚भ्यस्त्वा दे॒वेभ्यः॑]
+[विश्वे॑भ्यस्त्वा दे॒वेभ्यः॑]
 </details>
 <details><summary>मूलम्</summary>
 
-[विश्वे᳚भ्यस्त्वा दे॒वेभ्यः॑]
+[विश्वे॑भ्यस्त्वा दे॒वेभ्यः॑]
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -66,12 +66,12 @@ _______
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-आग्रय॒णो॑ऽसि॒ स्वा᳚ग्रयणो॒ जिन्व॑ य॒ज्ञञ्जिन्व॑ य॒ज्ञप॑तिम॒भि सव॑ना पाहि॒ विष्णु॒स्त्वाम्पा॑तु॒ विश॒न्त्वम्पा॑हीन्द्रि॒येण
+आग्रय॒णो॑ऽसि॒ स्वा॑ग्रयणो॒ जिन्व॑ य॒ज्ञञ्जिन्व॑ य॒ज्ञप॑तिम॒भि सव॑ना पाहि॒ विष्णु॒स्त्वाम्पा॑तु॒ विश॒न्त्वम्पा॑हीन्द्रि॒येण
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ॒ग्र॒य॒णो॑ऽसि ।  
-स्वा᳚ग्रयणो॒ जिन्व॑ ।    
+स्वा॑ग्रयणो॒ जिन्व॑ ।    
 य॒ज्ञञ्जिन्व॑ य॒ज्ञप॑तिम्  +++(जिन्व)+++ ।
 </details>
 <details><summary>Keith</summary>
@@ -84,7 +84,7 @@ quicken the lord of the sacrifice;
 <details><summary>मूलम्</summary>
 
 आ॒ग्र॒य॒णो॑ऽसि ।  
-स्वा᳚ग्रयणो॒ जिन्व॑ ।    
+स्वा॑ग्रयणो॒ जिन्व॑ ।    
 य॒ज्ञञ्जिन्व॑ य॒ज्ञप॑तिम्  +++(जिन्व)+++ ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -128,7 +128,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ष ते॒ योनि॒र्, विश्वे᳚भ्यस् त्वा दे॒वेभ्यः॑ ॥ [11]
+ए॒ष ते॒ योनि॒र्, विश्वे॑भ्यस् त्वा दे॒वेभ्यः॑ ॥ [11]
 </details>
 <details><summary>Keith</summary>
 
@@ -136,7 +136,7 @@ this is thy birthplace; to the All-gods thee!
 </details>
 <details><summary>मूलम्</summary>
 
-ए॒ष ते॒ योनि॒र्विश्वे᳚भ्यस्त्वा दे॒वेभ्यः॑ ॥ [11]
+ए॒ष ते॒ योनि॒र्विश्वे॑भ्यस्त्वा दे॒वेभ्यः॑ ॥ [11]
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -150,7 +150,7 @@ this is thy birthplace; to the All-gods thee!
 इन्द्रा॑य त्वा +++(बृहता साम्ना पृष्ठाख्येन)+++ बृ॒हद्-व॑ते॒  
 वय॑स्वत उक्था॒युवे॑+++(=उक्थ-कामाय)+++ ।   
 यत् त॑ इन्द्र बृ॒हद्-वय॒स्  
-तस्मै᳚ त्वा॒ विष्ण॑वे त्वा ॥
+तस्मै॑ त्वा॒ विष्ण॑वे त्वा ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/12_ukthyagrahaH/02_indrAya_tvA.md">
@@ -165,7 +165,7 @@ To that thee! To Visnu thee!
 <details><summary>मूलम्</summary>
 
 इन्द्रा॑य त्वा बृ॒हद्व॑ते॒ वय॑स्वत उक्था॒युवे॑ ।   
-यत्त॑ इन्द्र बृ॒हद्वय॒स्तस्मै᳚ त्वा॒ विष्ण॑वे त्वा ॥
+यत्त॑ इन्द्र बृ॒हद्वय॒स्तस्मै॑ त्वा॒ विष्ण॑वे त्वा ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -186,7 +186,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ष ते॒ योनि॒र्, इन्द्रा॑य त्वोक्था॒युवे᳚+++(=उक्थ-कामाय)+++ ॥ [13]  
+ए॒ष ते॒ योनि॒र्, इन्द्रा॑य त्वोक्था॒युवे॑+++(=उक्थ-कामाय)+++ ॥ [13]  
 </details>
 <details><summary>Keith</summary>
 
@@ -194,7 +194,7 @@ This is thy birthplace; to Indra, eager for praise, thee!
 </details>
 <details><summary>मूलम्</summary>
 
-ए॒ष ते॒ योनि॒रिन्द्रा॑य त्वोक्था॒युवे᳚ ॥ [13]  
+ए॒ष ते॒ योनि॒रिन्द्रा॑य त्वोक्था॒युवे॑ ॥ [13]  
 </details>
 
 

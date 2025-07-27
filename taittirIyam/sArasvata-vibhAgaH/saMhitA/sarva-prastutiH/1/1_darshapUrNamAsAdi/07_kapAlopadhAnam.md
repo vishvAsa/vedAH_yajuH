@@ -41,7 +41,7 @@ ____
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अपा᳚ ऽग्ने॒, ऽग्निम् आ॒मा+++(=अपक्वा)+++-द॑ञ् जहि +++(, पक्वादं रक्ष)+++ ।
+अपा॑ ऽग्ने॒, ऽग्निम् आ॒मा+++(=अपक्वा)+++-द॑ञ् जहि +++(, पक्वादं रक्ष)+++ ।
 </details>
 <details><summary>Keith</summary>
 
@@ -49,12 +49,12 @@ O Agni, drive off the fire that eats raw flesh,
 </details>
 <details><summary>मूलम्</summary>
 
-अपा᳚ऽग्ने॒ऽग्निमा॒माद॑ञ्जहि ।
+अपा॑ऽग्ने॒ऽग्निमा॒माद॑ञ्जहि ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-अपेति॑ । अ॒ग्ने॒ । अ॒ग्निम् । आ॒माद॒मित्या॑म-अद᳚म् । ज॒हि॒ ।
+अपेति॑ । अ॒ग्ने॒ । अ॒ग्निम् । आ॒माद॒मित्या॑म-अद॑म् । ज॒हि॒ ।
 </details>
 
 
@@ -85,7 +85,7 @@ send away the corpse-eating one
 
 <details><summary>पद-पाठः</summary>
 
-निरिति॑ । क्र॒व्याद॒मिति॑ क्रव्य-अद᳚म् । से॒ध॒ । 
+निरिति॑ । क्र॒व्याद॒मिति॑ क्रव्य-अद॑म् । से॒ध॒ । 
 </details>
 
 
@@ -117,7 +117,7 @@ bring hither the fire that sacrifices to the gods.
 
 <details><summary>पद-पाठः</summary>
 
-एति॑ । दे॒व॒यज॒मिति॑ देव-यज᳚म् । व॒ह॒ ।
+एति॑ । दे॒व॒यज॒मिति॑ देव-यज॑म् । व॒ह॒ ।
 </details>
 
 
@@ -337,7 +337,7 @@ Thou are supporting, make the heaven firm, make the eye [1] firm, make the ear f
 
 <details><summary>पद-पाठः</summary>
 
-ध॒रुण᳚म् । अ॒सि॒ । दिव᳚म् । दृ॒ꣳ॒ह॒ । चख्षुः॑ । दृ॒ꣳ॒ह॒ । श्रोत्र᳚म् । दृ॒ꣳ॒ह॒ ।
+ध॒रुण॑म् । अ॒सि॒ । दिव॑म् । दृ॒ꣳ॒ह॒ । चख्षुः॑ । दृ॒ꣳ॒ह॒ । श्रोत्र॑म् । दृ॒ꣳ॒ह॒ ।
 </details>
 
 
@@ -401,7 +401,7 @@ Thou art a support, make the quarters firm, make the organ firm, make offspring 
 
 <details><summary>पद-पाठः</summary>
 
-धर्म॑ । अ॒सि॒ । दिशः॑ । दृ॒ꣳ॒ह॒ । योनि᳚म् । दृ॒ꣳ॒ह॒ । प्र॒जामिति॑ प्र-जाम् । दृ॒ꣳ॒ह॒ । 
+धर्म॑ । अ॒सि॒ । दिशः॑ । दृ॒ꣳ॒ह॒ । योनि॑म् । दृ॒ꣳ॒ह॒ । प्र॒जामिति॑ प्र-जाम् । दृ॒ꣳ॒ह॒ । 
 </details>
 
 
@@ -537,7 +537,7 @@ ____
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/07_kapAlopadhAnam/yAni_gharme.md">
 <details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
 
-यानि॑ घ॒र्मे **क॒पाला᳚न्य्**  
+यानि॑ घ॒र्मे **क॒पाला॑न्य्**  
 **उपचि॒न्वन्ति॑** वे॒धसः॑+++(=अध्वर्यवः)+++ ।  
 **पू॒ष्णस् तान्य्** अपि॑ +++(श्रपण-)+++व्र॒त+++(य् समाप्ते)+++  
 **इ॑न्द्र-वा॒यू वि मु॑ञ्चताम्** ॥ [11]   
@@ -558,7 +558,7 @@ Indra and Vayu set them free.
 </details>
 <details><summary>मूलम्</summary>
 
-यानि॑ घ॒र्मे क॒पाला᳚न्युपचि॒न्वन्ति॑ वे॒धसः॑ ।  
+यानि॑ घ॒र्मे क॒पाला॑न्युपचि॒न्वन्ति॑ वे॒धसः॑ ।  
 पू॒ष्णस्तान्यपि॑ व्र॒त इ॑न्द्रवा॒यू वि मु॑ञ्चताम् ॥ [11]
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>

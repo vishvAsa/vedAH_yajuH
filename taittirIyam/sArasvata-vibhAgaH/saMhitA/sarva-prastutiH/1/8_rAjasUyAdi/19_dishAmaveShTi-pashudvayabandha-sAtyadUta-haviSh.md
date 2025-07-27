@@ -57,7 +57,7 @@ To the All-gods (he offers) an oblation; the sacrificial fee is a tawny heifer.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मै॒त्रा॒व॒रु॒णीम् आ॒मिख्षा᳚म् +++(निर्वपति)+++  ।     
+मै॒त्रा॒व॒रु॒णीम् आ॒मिख्षा॑म् +++(निर्वपति)+++  ।     
 व॒शा+++(=वन्ध्या)+++ दख्षि॑णा  ।
 </details>
 <details><summary>Keith</summary>
@@ -66,7 +66,7 @@ To Mitra and Varuna (he offers) clotted curds; the sacrificial fee is a cow.
 </details>
 <details><summary>मूलम्</summary>
 
-मै॒त्रा॒व॒रु॒णीमा॒मिख्षा᳚म् +++(निर्वपति)+++  ।     
+मै॒त्रा॒व॒रु॒णीमा॒मिख्षा॑म् +++(निर्वपति)+++  ।     
 व॒शा दख्षि॑णा  ।
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -103,7 +103,7 @@ To the Adityas he sacrifices a sheep in young, to the Maruts a dappled heifer.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒श्विभ्या᳚म् पू॒ष्णे पु॑रो॒डाश॒न् द्वा-द॑श-कपाल॒न् निर्व॑पति ।
+अ॒श्विभ्या॑म् पू॒ष्णे पु॑रो॒डाश॒न् द्वा-द॑श-कपाल॒न् निर्व॑पति ।
 </details>
 <details><summary>Keith</summary>
 
@@ -111,7 +111,7 @@ To the Aśvins and Pusan he offers a cake on twelve potsherds;
 </details>
 <details><summary>मूलम्</summary>
 
-अ॒श्विभ्या᳚म् पू॒ष्णे पु॑रो॒डाश॒न् द्वा-द॑श-कपाल॒न् निर्व॑पति ।
+अ॒श्विभ्या॑म् पू॒ष्णे पु॑रो॒डाश॒न् द्वा-द॑श-कपाल॒न् निर्व॑पति ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

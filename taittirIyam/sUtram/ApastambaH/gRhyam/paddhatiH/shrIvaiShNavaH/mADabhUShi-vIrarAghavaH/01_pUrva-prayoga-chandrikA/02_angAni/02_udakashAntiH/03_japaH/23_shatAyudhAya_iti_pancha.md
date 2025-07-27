@@ -7,10 +7,10 @@ title = "२३ 'शतायुधाय'"
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/7/02/34_shatAyudhAya_shatavIryAya.md">
 <details open><summary><h4>34 शतायुधाय शतवीर्याय ...{Loading}...</h4></summary>
 
-श॒तायु॑धाय श॒तवी᳚र्याय  
-श॒तोत॑ये ऽभिमाति॒-षाहे᳚ +++(नमः)+++।
+श॒तायु॑धाय श॒तवी॑र्याय  
+श॒तोत॑ये ऽभिमाति॒-षाहे॑ +++(नमः)+++।
 श॒तय्ँ यो न॑श् श॒रदो॒ **अजी॑ता॒न्**  
-इन्द्रो॑ **नेष॒द्** अति॑ दुरि॒तानि॒ विश्वा᳚ ।
+इन्द्रो॑ **नेष॒द्** अति॑ दुरि॒तानि॒ विश्वा॑ ।
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/7/02/38_ye_chatvArapH.md">
@@ -19,7 +19,7 @@ title = "२३ 'शतायुधाय'"
 ये च॒त्वारᳶ॑ प॒थयो॑+++(=पन्थानो)+++ देव॒याना॑  
 अन्त॒रा द्यावा॑-पृथि॒वी **वि॒यन्ति॑** ।  
 तेषा॒य्ँ यो अ-ज्या॑नि॒म्+++(←ज्या जरायां)+++ अ-जी॑तिम् **आ॒वहा॒त्** -  
-तस्मै॑ नो देवाᳶ **परि॑ दत्ते॒ह** सर्वे᳚ ।
+तस्मै॑ नो देवाᳶ **परि॑ दत्ते॒ह** सर्वे॑ ।
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/7/02/42_grIShmo_hemanta.md">
@@ -36,7 +36,7 @@ title = "२३ 'शतायुधाय'"
 
 इ॒दु॒व॒थ्स॒राय॑+++(=संवत्सर+२)+++ परिवथ्स॒राय॑+++(=संवत्सर+१)+++  
 सव्ँवथ्स॒राय॑ **कृणुता** बृ॒हन् नमः॑ ।   
-तेषा᳚व्ँ व॒यꣳ सु॑म॒तौ य॒ज्ञिया॑ना॒ञ्  
+तेषा॑व्ँ व॒यꣳ सु॑म॒तौ य॒ज्ञिया॑ना॒ञ्  
 ज्योग् अजी॑ता॒ अह॑तास् **स्याम** ।
 </details>
 </div>
@@ -46,6 +46,6 @@ title = "२३ 'शतायुधाय'"
 भ॒द्रान् न॒श् श्रेय॒स् **सम॑नैष्ट** देवा॒स्!  
 त्वया॑ ऽव॒सेन॒+++(←अव=रक्षणे)+++ **सम॑शीमहि** त्वा +++(सोम!)+++।   
 स नो॑ मयो॒-भूᳶ पि॑तो+++(=अन्न)+++ **आ वि॑शस्व॒**  
-शन् तो॒काय॑ त॒नुवे᳚ स्यो॒नः ।
+शन् तो॒काय॑ त॒नुवे॑ स्यो॒नः ।
 </details>
 </div>

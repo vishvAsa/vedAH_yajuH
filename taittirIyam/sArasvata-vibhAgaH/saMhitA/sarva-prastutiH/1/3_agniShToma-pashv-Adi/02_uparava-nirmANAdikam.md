@@ -312,7 +312,7 @@ thou art Viśvaraj, slayer of all destructive things [1].
 </details>
 <details><summary>पद-पाठः</summary>
 
-वि॒श्वा॒राडिति॑ विश्व-राट् । अ॒सि॒ । विश्वा॑साम् । ना॒ष्ट्राणा᳚म् । ह॒न्ता । [3]
+वि॒श्वा॒राडिति॑ विश्व-राट् । अ॒सि॒ । विश्वा॑साम् । ना॒ष्ट्राणा॑म् । ह॒न्ता । [3]
 
 </details>
 
@@ -505,7 +505,7 @@ I lay down the two Which slay the Raksas, which slay the spell, and which are of
 </details>
 <details><summary>पद-पाठः</summary>
 
-र॒ख्षो॒हणा॒विति॑ रख्षः-हनौ᳚ । व॒ल॒ग॒हना॒विति॑ वलग-हनौ᳚ । उपेति॑ । द॒धा॒मि॒ । वै॒ष्ण॒वी इति॑ । 
+र॒ख्षो॒हणा॒विति॑ रख्षः-हनौ॑ । व॒ल॒ग॒हना॒विति॑ वलग-हनौ॑ । उपेति॑ । द॒धा॒मि॒ । वै॒ष्ण॒वी इति॑ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -532,7 +532,7 @@ I surround the two which slay the Raksas, which slay the spell, and which are of
 </details>
 <details><summary>पद-पाठः</summary>
 
-र॒ख्षो॒हणा॒विति॑ रख्षः-हनौ᳚ । व॒ल॒ग॒हना॒विति॑ वलग-हनौ᳚ । परीति॑ । ऊ॒हा॒मि॒ । वै॒ष्ण॒वी इति॑ । 
+र॒ख्षो॒हणा॒विति॑ रख्षः-हनौ॑ । व॒ल॒ग॒हना॒विति॑ वलग-हनौ॑ । परीति॑ । ऊ॒हा॒मि॒ । वै॒ष्ण॒वी इति॑ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -559,7 +559,7 @@ I bestrew the two which slay the Raksas, which slay the spell, and which are of 
 </details>
 <details><summary>पद-पाठः</summary>
 
-ख्षो॒हणा॒विति॑ रख्षः-हनौ᳚ । व॒ल॒ग॒हना॒विति॑ वलग-हनौ᳚ । परीति॑ । स्तृ॒णा॒मि॒ । वै॒ष्ण॒वी इति॑ । 
+ख्षो॒हणा॒विति॑ रख्षः-हनौ॑ । व॒ल॒ग॒हना॒विति॑ वलग-हनौ॑ । परीति॑ । स्तृ॒णा॒मि॒ । वै॒ष्ण॒वी इति॑ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -587,7 +587,7 @@ The two which slay the Raksas, which slay the spell, and which are of Visnu.
 </details>
 <details><summary>पद-पाठः</summary>
 
-र॒ख्षो॒हणा॒विति॑ रख्षः-हनौ᳚ । व॒ल॒ग॒हना॒विति॑ वलग-हनौ᳚ । वै॒ष्ण॒वी इति॑ । 
+र॒ख्षो॒हणा॒विति॑ रख्षः-हनौ॑ । व॒ल॒ग॒हना॒विति॑ वलग-हनौ॑ । वै॒ष्ण॒वी इति॑ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -619,7 +619,7 @@ call forth to Indra with a great voice.
 <details><summary>पद-पाठः</summary>
 
 बृ॒हन् । अ॒सि॒ । बृ॒हद्ग्रा॒वेति॑ बृ॒हत्-ग्रा॒वा॒ ।   
-बृ॒ह॒तीम् । इन्द्रा॑य । वाच᳚म् । व॒द॒ ॥ [4]
+बृ॒ह॒तीम् । इन्द्रा॑य । वाच॑म् । व॒द॒ ॥ [4]
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

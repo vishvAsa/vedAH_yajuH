@@ -222,7 +222,7 @@ He offers an oblation to Aditya; the sacrificial fee is a choice (ox).
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्नी॒षो॒मीय᳚म् [1]एका॑दशकपालम्  +++(निर्वपति)+++ ।   
+अ॒ग्नी॒षो॒मीय॑म् [1]एका॑दशकपालम्  +++(निर्वपति)+++ ।   
 
 हिर॑ण्य॒न् दख्षि॑णा।
 </details>
@@ -232,7 +232,7 @@ He offers an oblation to Aditya; the sacrificial fee is a choice (ox).
 </details>
 <details><summary>मूलम्</summary>
 
-अ॒ग्नी॒षो॒मीय᳚म् [1]एका॑दशकपालम्  +++(निर्वपति)+++ ।   
+अ॒ग्नी॒षो॒मीय॑म् [1]एका॑दशकपालम्  +++(निर्वपति)+++ ।   
 
 हिर॑ण्य॒न्दख्षि॑णा।
 </details>

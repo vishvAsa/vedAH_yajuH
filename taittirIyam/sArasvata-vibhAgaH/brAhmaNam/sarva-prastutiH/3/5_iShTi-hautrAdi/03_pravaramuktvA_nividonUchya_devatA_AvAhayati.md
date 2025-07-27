@@ -21,12 +21,12 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-असा॒वसौ᳚ ।  
+असा॒वसौ॑ ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
-असा॒वसौ᳚ ।  
+असा॒वसौ॑ ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -81,12 +81,12 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒णीर्य॒ज्ञाना᳚म् ।  
+प्र॒णीर्य॒ज्ञाना॑म् ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
-प्र॒णीर्य॒ज्ञाना᳚म् ।  
+प्र॒णीर्य॒ज्ञाना॑म् ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -96,12 +96,12 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-र॒थीर॑ध्व॒राणा᳚म् ।  
+र॒थीर॑ध्व॒राणा॑म् ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
-र॒थीर॑ध्व॒राणा᳚म् ।  
+र॒थीर॑ध्व॒राणा॑म् ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -111,12 +111,12 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒तूर्तो॒ होता᳚ ।  
+अ॒तूर्तो॒ होता॑ ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
-अ॒तूर्तो॒ होता᳚ ।  
+अ॒तूर्तो॒ होता॑ ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -141,12 +141,12 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आस्पात्र॑ञ्जु॒हूर्दे॒वाना᳚म् ॥5॥  
+आस्पात्र॑ञ्जु॒हूर्दे॒वाना॑म् ॥5॥  
 </details>
 
 <details><summary>मूलम्</summary>
 
-आस्पात्र॑ञ्जु॒हूर्दे॒वाना᳚म् ॥5॥  
+आस्पात्र॑ञ्जु॒हूर्दे॒वाना॑म् ॥5॥  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -295,12 +295,12 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वाꣳ आ᳚ज्य॒पाꣳ आव॑ह ।  
+दे॒वाꣳ आ॑ज्य॒पाꣳ आव॑ह ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
-दे॒वाꣳ आ᳚ज्य॒पाꣳ आव॑ह ।  
+दे॒वाꣳ आ॑ज्य॒पाꣳ आव॑ह ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -340,12 +340,12 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ चा᳚ग्ने दे॒वान् वह॑ ।  
+आ चा॑ग्ने दे॒वान् वह॑ ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
-आ चा᳚ग्ने दे॒वान् वह॑ ।  
+आ चा॑ग्ने दे॒वान् वह॑ ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

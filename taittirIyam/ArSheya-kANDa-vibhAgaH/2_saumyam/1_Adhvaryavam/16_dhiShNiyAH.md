@@ -28,7 +28,7 @@ _______
 <details open><summary><h5>रौद्रेण ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रौद्रे॒णानी॑केन पा॒हि मा᳚ऽग्ने।  
+रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने।  
 पिपृ॒हि मा॑।  
 मा मा॑ हिꣳसीः।
 </details>
@@ -40,7 +40,7 @@ hurt me not.
 </details>
 <details><summary>मूलम्</summary>
 
-रौद्रे॒णानी॑केन पा॒हि मा᳚ऽग्ने पिपृ॒हि मा॒ मा मा॑ हिꣳसीः
+रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने पिपृ॒हि मा॒ मा मा॑ हिꣳसीः
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -78,7 +78,7 @@ Thou art the bearer which carrieth the offering.
 <details open><summary><h5>रौद्रेण ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रौद्रे॒णानी॑केन पा॒हि मा᳚ऽग्ने।  
+रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने।  
 पिपृ॒हि मा॑।  
 मा मा॑ हिꣳसीः।
 </details>
@@ -90,7 +90,7 @@ hurt me not.
 </details>
 <details><summary>मूलम्</summary>
 
-रौद्रे॒णानी॑केन पा॒हि मा᳚ऽग्ने पिपृ॒हि मा॒ मा मा॑ हिꣳसीः
+रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने पिपृ॒हि मा॒ मा मा॑ हिꣳसीः
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -130,7 +130,7 @@ Thou art the savoury, the wise.
 <details open><summary><h5>रौद्रेण ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रौद्रे॒णानी॑केन पा॒हि मा᳚ऽग्ने।  
+रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने।  
 पिपृ॒हि मा॑।  
 मा मा॑ हिꣳसीः।
 </details>
@@ -142,7 +142,7 @@ hurt me not.
 </details>
 <details><summary>मूलम्</summary>
 
-रौद्रे॒णानी॑केन पा॒हि मा᳚ऽग्ने पिपृ॒हि मा॒ मा मा॑ हिꣳसीः
+रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने पिपृ॒हि मा॒ मा मा॑ हिꣳसीः
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -181,7 +181,7 @@ Thou art Tutha, the all-knower.
 <details open><summary><h5>रौद्रेण ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रौद्रे॒णानी॑केन पा॒हि मा᳚ऽग्ने।  
+रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने।  
 पिपृ॒हि मा॑।  
 मा मा॑ हिꣳसीः।
 </details>
@@ -193,7 +193,7 @@ hurt me not.
 </details>
 <details><summary>मूलम्</summary>
 
-रौद्रे॒णानी॑केन पा॒हि मा᳚ऽग्ने पिपृ॒हि मा॒ मा मा॑ हिꣳसीः
+रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने पिपृ॒हि मा॒ मा मा॑ हिꣳसीः
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -231,7 +231,7 @@ Thou art Uśij, the wise.
 <details open><summary><h5>रौद्रेण ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रौद्रे॒णानी॑केन पा॒हि मा᳚ऽग्ने।  
+रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने।  
 पिपृ॒हि मा॑।  
 मा मा॑ हिꣳसीः।
 </details>
@@ -243,7 +243,7 @@ hurt me not.
 </details>
 <details><summary>मूलम्</summary>
 
-रौद्रे॒णानी॑केन पा॒हि मा᳚ऽग्ने पिपृ॒हि मा॒ मा मा॑ हिꣳसीः
+रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने पिपृ॒हि मा॒ मा मा॑ हिꣳसीः
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -285,7 +285,7 @@ Thou art Anghari, Bamhhari.
 <details open><summary><h5>रौद्रेण ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रौद्रे॒णानी॑केन पा॒हि मा᳚ऽग्ने।  
+रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने।  
 पिपृ॒हि मा॑।  
 मा मा॑ हिꣳसीः।
 </details>
@@ -297,7 +297,7 @@ hurt me not.
 </details>
 <details><summary>मूलम्</summary>
 
-रौद्रे॒णानी॑केन पा॒हि मा᳚ऽग्ने पिपृ॒हि मा॒ मा मा॑ हिꣳसीः
+रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने पिपृ॒हि मा॒ मा मा॑ हिꣳसीः
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -339,7 +339,7 @@ Thou art the seeker of aid, the worshipper.
 <details open><summary><h5>रौद्रेण ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रौद्रे॒णानी॑केन पा॒हि मा᳚ऽग्ने।  
+रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने।  
 पिपृ॒हि मा॑।  
 मा मा॑ हिꣳसीः।
 </details>
@@ -351,7 +351,7 @@ hurt me not.
 </details>
 <details><summary>मूलम्</summary>
 
-रौद्रे॒णानी॑केन पा॒हि मा᳚ऽग्ने पिपृ॒हि मा॒ मा मा॑ हिꣳसीः
+रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने पिपृ॒हि मा॒ मा मा॑ हिꣳसीः
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -389,7 +389,7 @@ Thou art the bright, the Marjaliya.
 <details open><summary><h5>रौद्रेण ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रौद्रे॒णानी॑केन पा॒हि मा᳚ऽग्ने।  
+रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने।  
 पिपृ॒हि मा॑।  
 मा मा॑ हिꣳसीः।
 </details>
@@ -401,7 +401,7 @@ hurt me not.
 </details>
 <details><summary>मूलम्</summary>
 
-रौद्रे॒णानी॑केन पा॒हि मा᳚ऽग्ने पिपृ॒हि मा॒ मा मा॑ हिꣳसीः
+रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने पिपृ॒हि मा॒ मा मा॑ हिꣳसीः
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -441,7 +441,7 @@ Thou art the king, Kr̥śanu.
 <details open><summary><h5>रौद्रेण ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रौद्रे॒णानी॑केन पा॒हि मा᳚ऽग्ने।  
+रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने।  
 पिपृ॒हि मा॑।  
 मा मा॑ हिꣳसीः।
 </details>
@@ -453,7 +453,7 @@ hurt me not.
 </details>
 <details><summary>मूलम्</summary>
 
-रौद्रे॒णानी॑केन पा॒हि मा᳚ऽग्ने पिपृ॒हि मा॒ मा मा॑ हिꣳसीः
+रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने पिपृ॒हि मा॒ मा मा॑ हिꣳसीः
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -491,7 +491,7 @@ Thou art the purifying, around which men must sit.
 <details open><summary><h5>रौद्रेण ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रौद्रे॒णानी॑केन पा॒हि मा᳚ऽग्ने।  
+रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने।  
 पिपृ॒हि मा॑।  
 मा मा॑ हिꣳसीः।
 </details>
@@ -503,7 +503,7 @@ hurt me not.
 </details>
 <details><summary>मूलम्</summary>
 
-रौद्रे॒णानी॑केन पा॒हि मा᳚ऽग्ने पिपृ॒हि मा॒ मा मा॑ हिꣳसीः
+रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने पिपृ॒हि मा॒ मा मा॑ हिꣳसीः
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -541,7 +541,7 @@ Thou art the impetuous, the cloudy.
 <details open><summary><h5>रौद्रेण ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रौद्रे॒णानी॑केन पा॒हि मा᳚ऽग्ने।  
+रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने।  
 पिपृ॒हि मा॑।  
 मा मा॑ हिꣳसीः।
 </details>
@@ -553,7 +553,7 @@ hurt me not.
 </details>
 <details><summary>मूलम्</summary>
 
-रौद्रे॒णानी॑केन पा॒हि मा᳚ऽग्ने पिपृ॒हि मा॒ मा मा॑ हिꣳसीः
+रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने पिपृ॒हि मा॒ मा मा॑ हिꣳसीः
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -591,7 +591,7 @@ Thou art the untouched, the preparer of the offering.
 <details open><summary><h5>रौद्रेण ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रौद्रे॒णानी॑केन पा॒हि मा᳚ऽग्ने।  
+रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने।  
 पिपृ॒हि मा॑।  
 मा मा॑ हिꣳसीः।
 </details>
@@ -603,7 +603,7 @@ hurt me not.
 </details>
 <details><summary>मूलम्</summary>
 
-रौद्रे॒णानी॑केन पा॒हि मा᳚ऽग्ने पिपृ॒हि मा॒ मा मा॑ हिꣳसीः
+रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने पिपृ॒हि मा॒ मा मा॑ हिꣳसीः
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -641,7 +641,7 @@ Thou art be whose home is right, whose light is the heaven.
 <details open><summary><h5>रौद्रेण ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रौद्रे॒णानी॑केन पा॒हि मा᳚ऽग्ने।  
+रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने।  
 पिपृ॒हि मा॑।  
 मा मा॑ हिꣳसीः।
 </details>
@@ -653,7 +653,7 @@ hurt me not.
 </details>
 <details><summary>मूलम्</summary>
 
-रौद्रे॒णानी॑केन पा॒हि मा᳚ऽग्ने पिपृ॒हि मा॒ मा मा॑ हिꣳसीः
+रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने पिपृ॒हि मा॒ मा मा॑ हिꣳसीः
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -691,7 +691,7 @@ Thou art be whose light is the Brahman, whose home is the heaven.
 <details open><summary><h5>रौद्रेण ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रौद्रे॒णानी॑केन पा॒हि मा᳚ऽग्ने।  
+रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने।  
 पिपृ॒हि मा॑।  
 मा मा॑ हिꣳसीः।
 </details>
@@ -703,7 +703,7 @@ hurt me not.
 </details>
 <details><summary>मूलम्</summary>
 
-रौद्रे॒णानी॑केन पा॒हि मा᳚ऽग्ने पिपृ॒हि मा॒ मा मा॑ हिꣳसीः
+रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने पिपृ॒हि मा॒ मा मा॑ हिꣳसीः
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -723,7 +723,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒जो᳚ऽस्य् एक॑-पात् ।  
+अ॒जो॑ऽस्य् एक॑-पात् ।  
 +++(पूर्वप्रोष्ठपद-नक्षत्र-दैवतम्। ३५००BCE इति समये सूर्यस्य +उत्तरायणारम्भस्थानम्। )+++
 </details>
 <details><summary>Keith</summary>
@@ -732,7 +732,7 @@ Thou art the goat with one foot.
 </details>
 <details><summary>मूलम्</summary>
 
-अ॒जो᳚ऽस्येक॑पात् ।
+अ॒जो॑ऽस्येक॑पात् ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -742,7 +742,7 @@ Thou art the goat with one foot.
 <details open><summary><h5>रौद्रेण ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रौद्रे॒णानी॑केन पा॒हि मा᳚ऽग्ने।  
+रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने।  
 पिपृ॒हि मा॑।  
 मा मा॑ हिꣳसीः।
 </details>
@@ -754,7 +754,7 @@ hurt me not.
 </details>
 <details><summary>मूलम्</summary>
 
-रौद्रे॒णानी॑केन पा॒हि मा᳚ऽग्ने पिपृ॒हि मा॒ मा मा॑ हिꣳसीः
+रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने पिपृ॒हि मा॒ मा मा॑ हिꣳसीः
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -796,7 +796,7 @@ Thou art the dragon of the deep.
 <details open><summary><h5>रौद्रेण ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रौद्रे॒णानी॑केन पा॒हि मा᳚ऽग्ने।  
+रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने।  
 पिपृ॒हि मा॑।  
 मा मा॑ हिꣳसीः।
 </details>
@@ -808,7 +808,7 @@ hurt me not.
 </details>
 <details><summary>मूलम्</summary>
 
-रौद्रे॒णानी॑केन पा॒हि मा᳚ऽग्ने पिपृ॒हि मा॒ मा मा॑ हिꣳसीः
+रौद्रे॒णानी॑केन पा॒हि मा॑ऽग्ने पिपृ॒हि मा॒ मा मा॑ हिꣳसीः
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -823,7 +823,7 @@ hurt me not.
 
 अत्र धिष्णियास्व् अन्तिमौ मन्त्रगुच्छौ -
 
-> अ॒जो᳚ऽस्येक॑पात्
+> अ॒जो॑ऽस्येक॑पात्
 > …
 > अहि॑रसि बु॒ध्नियः॑ ।
 > …

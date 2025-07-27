@@ -28,9 +28,9 @@ title = "०१ ०६"
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अश्व॑क्रा॒न्ते र॑थक्रा॒न्ते॒  
-वि॒ष्णुक्रा᳚न्ते व॒सुन्ध॑रा ।  
+वि॒ष्णुक्रा॑न्ते व॒सुन्ध॑रा ।  
 शिरसा॑ धारि॑ता दे॒वी॒   
-र॒क्ष॒स्व मां᳚ पदे॒ पदे ॥
+र॒क्ष॒स्व मां॑ पदे॒ पदे ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_06/07_ashvakrAnte_rathakrAnte.md">
@@ -38,9 +38,9 @@ title = "०१ ०६"
 <details><summary>मूलम्</summary>
 
 अश्व॑क्रा॒न्ते र॑थक्रा॒न्ते॒  
-वि॒ष्णुक्रा᳚न्ते व॒सुन्ध॑रा ।  
+वि॒ष्णुक्रा॑न्ते व॒सुन्ध॑रा ।  
 शिरसा॑ धारि॑ता दे॒वी॒   
-र॒क्ष॒स्व मां᳚ पदे॒ पदे ॥
+र॒क्ष॒स्व मां॑ पदे॒ पदे ॥
 </details>
 </details>
 </div>

@@ -728,7 +728,7 @@ Wie Götter der Asurenschar, der starken, schenkten ihr Vertraun, So mache du au
 
 श्र॒द्धां दे॑वा॒ यज॑मानाः ।  
 वा॒युगो॑पा॒ उपा॑सते ।  
-श्र॒द्धाꣳ हृ॑द॒य्य॑याऽऽकू᳚त्या ।  
+श्र॒द्धाꣳ हृ॑द॒य्य॑याऽऽकू॑त्या ।  
 श्र॒द्धया॑ हूयते ह॒विः ।
 </details>
 
@@ -1194,7 +1194,7 @@ Den Glauben rufen Morgens wir, den Glauben in der Mittagszeit Den Glauben, wenn 
 
 श्र॒द्धा दे॒वानधि॑ **वस्ते** ।  
 श्र॒द्धा विश्व॑म् इ॒दञ् जग॑त् ।   
-श्र॒द्धाङ् काम॑स्य मा॒तर᳚म् ।   
+श्र॒द्धाङ् काम॑स्य मा॒तर॑म् ।   
 ह॒विषा॑ **वर्धयामसि** ।
 </details>
 </div>
@@ -1204,7 +1204,7 @@ Den Glauben rufen Morgens wir, den Glauben in der Mittagszeit Den Glauben, wenn 
 
 श्र॒द्धा दे॒वानधि॑ वस्ते ।  
 श्र॒द्धा विश्व॑मि॒दञ्जग॑त् ।   
-श्र॒द्धाङ्काम॑स्य मा॒तर᳚म् ।   
+श्र॒द्धाङ्काम॑स्य मा॒तर॑म् ।   
 ह॒विषा॑ वर्धयामसि ।
 </details>
 <details><summary>सायण-टीका</summary>

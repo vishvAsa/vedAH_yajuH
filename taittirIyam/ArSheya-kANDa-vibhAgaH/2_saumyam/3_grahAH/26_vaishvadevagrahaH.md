@@ -48,7 +48,7 @@ Homage to the great bull!
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ष ते॒ योनि॒र्, विश्वे᳚भ्यस्त्वा दे॒वेभ्यः॑ ॥ [17]
+ए॒ष ते॒ योनि॒र्, विश्वे॑भ्यस्त्वा दे॒वेभ्यः॑ ॥ [17]
 </details>
 <details><summary>Keith</summary>
 
@@ -56,7 +56,7 @@ This is thy birthplace; to the All-gods thee!
 </details>
 <details><summary>मूलम्</summary>
 
-ए॒ष ते॒ योनि॒र्विश्वे᳚भ्यस्त्वा दे॒वेभ्यः॑ ॥ [17]
+ए॒ष ते॒ योनि॒र्विश्वे॑भ्यस्त्वा दे॒वेभ्यः॑ ॥ [17]
 </details>
 </details>
 </div>

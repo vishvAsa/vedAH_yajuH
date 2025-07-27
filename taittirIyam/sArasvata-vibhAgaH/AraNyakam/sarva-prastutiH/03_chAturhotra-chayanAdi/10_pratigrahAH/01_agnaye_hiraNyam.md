@@ -8,16 +8,16 @@ title = "०१ अग्नये हिरण्यम्"
 <details><summary>मूलम् (संयुक्तम् आरण्यके)</summary>
 
 दे॒वस्य॑ त्वा सवि॒तुः प्र॑स॒वे ।  
-अ॒श्विनो᳚र्बा॒हुभ्या᳚म् ।  
-पू॒ष्णो हस्ता᳚भ्यां॒ प्रति॑गृह्णामि ।
+अ॒श्विनो॑र्बा॒हुभ्या॑म् ।  
+पू॒ष्णो हस्ता॑भ्यां॒ प्रति॑गृह्णामि ।
 </details>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
 <details open><summary><h10>देवस्य त्वा सवितुः ...{Loading}...</h10></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे᳚+++(=अनुज्ञायां)+++,
-ऽश्विनो᳚र् बा॒हुभ्या᳚म्,
-पू॒ष्णो हस्ता᳚भ्याम्…
+दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे॑+++(=अनुज्ञायां)+++,
+ऽश्विनो॑र् बा॒हुभ्या॑म्,
+पू॒ष्णो हस्ता॑भ्याम्…
 </details>
 <details><summary>Keith</summary>
 
@@ -27,8 +27,8 @@ with the hands of Pusan.
 </details>
 <details><summary>मूलम्</summary>
 
-दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे᳚ऽश्विनो᳚र् बा॒हुभ्या᳚म्,
-पू॒ष्णो हस्ता᳚भ्यां॒…
+दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे॑ऽश्विनो॑र् बा॒हुभ्या॑म्,
+पू॒ष्णो हस्ता॑भ्यां॒…
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -57,12 +57,12 @@ ______________
 </div>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-राजा᳚ त्वा॒ वरु॑णो नयतु  
+राजा॑ त्वा॒ वरु॑णो नयतु  
 देवि दख्षिणे॒ऽग्नये॒ हिर॑ण्यम् ।  
 </details>
 <details><summary>मूलम्</summary>
 
-राजा᳚ त्वा॒ वरु॑णो नयतु  
+राजा॑ त्वा॒ वरु॑णो नयतु  
 देवि दख्षिणे॒ऽग्नये॒ हिर॑ण्यम् ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -132,12 +132,12 @@ ______________
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कामै॒तत् ते᳚ ।  
+कामै॒तत् ते॑ ।  
 ए॒षा ते॑ काम॒ दख्षि॑णा ।
 </details>
 <details><summary>मूलम्</summary>
 
-कामै॒तत् ते᳚ ।  
+कामै॒तत् ते॑ ।  
 ए॒षा ते॑ काम॒ दख्षि॑णा ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -150,11 +150,11 @@ ______________
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒त्ता॒नस् त्वा᳚ङ्गीर॒सः प्रति॑गृह्णातु ।
+उ॒त्ता॒नस् त्वा॑ङ्गीर॒सः प्रति॑गृह्णातु ।
 </details>
 <details><summary>मूलम्</summary>
 
-उ॒त्ता॒नस् त्वा᳚ङ्गीर॒सः प्रति॑गृह्णातु ।
+उ॒त्ता॒नस् त्वा॑ङ्गीर॒सः प्रति॑गृह्णातु ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

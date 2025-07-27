@@ -122,7 +122,7 @@ protect me when afflicted.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 [वि॒देर् - अ॒ग्निर् नभो॒ +++(इति ते)+++ नाम॑+अग्ने॑ अङ्गिरो॒]  
-यो᳚ ऽस्याम् [पृ॑थि॒व्याम् असि] ।
+यो॑ ऽस्याम् [पृ॑थि॒व्याम् असि] ।
 </details>
 <details><summary>Keith</summary>
 
@@ -130,12 +130,12 @@ May Agni, named Nabhas, know (thee), Agni Angiras, thou who art in this earth.
 </details>
 <details><summary>मूलम्</summary>
 
-वि॒देर॒ग्निर्नभो॒ नामाग्ने॑ अङ्गिरो॒ यो᳚ऽस्याम् पृ॑थि॒व्यामसि ।
+वि॒देर॒ग्निर्नभो॒ नामाग्ने॑ अङ्गिरो॒ यो॑ऽस्याम् पृ॑थि॒व्यामसि ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-वि॒देः । अ॒ग्निः । नभः॑ । नाम॑ ।  अग्ने᳚ । अ॒ङ्गि॒रः॒ ।   
+वि॒देः । अ॒ग्निः । नभः॑ । नाम॑ ।  अग्ने॑ । अ॒ङ्गि॒रः॒ ।   
 यः । अ॒स्याम् । पृ॒थि॒व्याम् । असि॑ । 
 
 </details>
@@ -170,7 +170,7 @@ come with the name of Ayus
 </details>
 <details><summary>पद-पाठः</summary>
 
-आयु॑षा । नाम्ना᳚ । एति॑ । इ॒हि॒ । 
+आयु॑षा । नाम्ना॑ । एति॑ । इ॒हि॒ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -234,7 +234,7 @@ May Agni, named Nabhas, know (thee), Agni Angiras, thou who art in the second ea
 </details>
 <details><summary>पद-पाठः</summary>
 
-अग्ने᳚ । अ॒ङ्गि॒रः॒ । यः । द्वि॒तीय॑स्याम् । तृ॒तीय॑स्याम् । (पृ॒थि॒व्याम् । असि॑ ।)
+अग्ने॑ । अ॒ङ्गि॒रः॒ । यः । द्वि॒तीय॑स्याम् । तृ॒तीय॑स्याम् । (पृ॒थि॒व्याम् । असि॑ ।)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -284,9 +284,9 @@ May Agni, named Nabhas, know (thee), Agni Angiras, thou who art in the third ear
 
 <details><summary>पद-पाठः</summary>
 
-अग्ने᳚ । अ॒ङ्गि॒रः॒ । यः । तृ॒तीय॑स्याम् । पृ॒थि॒व्याम् । असि॑ ।  
-आयु॑षा । नाम्ना᳚ । एति॑ । इ॒हि॒ ।   
-यत् । ते॒ । अना॑धृष्ट॒मित्यना᳚-धृ॒ष्ट॒म् । नाम॑ । [22]  य॒ज्ञिय᳚म् । तेन॑ । त्वा॒ । एति॑ । द॒धे॒ । 
+अग्ने॑ । अ॒ङ्गि॒रः॒ । यः । तृ॒तीय॑स्याम् । पृ॒थि॒व्याम् । असि॑ ।  
+आयु॑षा । नाम्ना॑ । एति॑ । इ॒हि॒ ।   
+यत् । ते॒ । अना॑धृष्ट॒मित्यना॑-धृ॒ष्ट॒म् । नाम॑ । [22]  य॒ज्ञिय॑म् । तेन॑ । त्वा॒ । एति॑ । द॒धे॒ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -477,7 +477,7 @@ ________
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(स्तनयित्नुः)+++ इ॒न्द्र॒-घो॒षस् त्वा॒ वसु॑भिᳶ +++(सह)+++ पु॒रस्ता᳚त् पातु ।
++++(स्तनयित्नुः)+++ इ॒न्द्र॒-घो॒षस् त्वा॒ वसु॑भिᳶ +++(सह)+++ पु॒रस्ता॑त् पातु ।
 </details>
 <details><summary>Keith</summary>
 
@@ -485,11 +485,11 @@ May the cry of Indra guard thee in front with the Vasus;
 </details>
 <details><summary>मूलम्</summary>
 
-इ॒न्द्र॒घो॒षस्त्वा॒ वसु॑भिᳶ पु॒रस्ता᳚त्पातु ।
+इ॒न्द्र॒घो॒षस्त्वा॒ वसु॑भिᳶ पु॒रस्ता॑त्पातु ।
 </details>
 <details><summary>पद-पाठः</summary>
 
-इ॒न्द्र॒घो॒ष इती᳚न्द्र-घो॒षः । त्वा॒ । वसु॑भि॒रिति॒ वसु॑-भिः॒ । पु॒रस्ता᳚त् । पा॒तु॒ । 
+इ॒न्द्र॒घो॒ष इती॑न्द्र-घो॒षः । त्वा॒ । वसु॑भि॒रिति॒ वसु॑-भिः॒ । पु॒रस्ता॑त् । पा॒तु॒ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -603,7 +603,7 @@ Thou art a lioness, overcoming rivals; hail!
 <details><summary>पद-पाठः</summary>
 
 सि॒ꣳ॒हीः । अ॒सि॒ ।   
-स॒प॒त्न॒सा॒हीति॑ सपत्न-सा॒ही । स्वाहा᳚ । 
+स॒प॒त्न॒सा॒हीति॑ सपत्न-सा॒ही । स्वाहा॑ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -633,7 +633,7 @@ Thou art a lioness, bestowing fair offspring; hail!
 <details><summary>पद-पाठः</summary>
 
 सि॒ꣳ॒हीः । अ॒सि॒ ।  
-सु॒प्र॒जा॒वनि॒रिति॑ सुप्रजा-वनिः॑ । स्वाहा᳚ । 
+सु॒प्र॒जा॒वनि॒रिति॑ सुप्रजा-वनिः॑ । स्वाहा॑ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -667,7 +667,7 @@ Thou art a lioness, [2] bestowing increase of wealth; hail!
 <details><summary>पद-पाठः</summary>
 
 सि॒ꣳ॒हीः । [23]  अ॒सि॒ ।  
-रा॒य॒स्पो॒ष॒वनि॒रिति॑ रायस्पोष-वनिः॑ । स्वाहा᳚ । 
+रा॒य॒स्पो॒ष॒वनि॒रिति॑ रायस्पोष-वनिः॑ । स्वाहा॑ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -696,7 +696,7 @@ Thou art a lioness, winning (the favour of) the Adityas hail!
 <details><summary>पद-पाठः</summary>
 
 सि॒ꣳ॒हीः । अ॒सि॒ ।   
-आ॒दि॒त्य॒वनि॒रित्या॑दित्य-वनिः॑ । स्वाहा᳚ । 
+आ॒दि॒त्य॒वनि॒रित्या॑दित्य-वनिः॑ । स्वाहा॑ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -731,7 +731,7 @@ Thou art a lioness; bring the gods to the pious sacrificer; hail!
 <details><summary>पद-पाठः</summary>
 
 सि॒ꣳ॒हीः । अ॒सि॒ ।   
-एति॑ । व॒ह॒ । दे॒वान् । दे॒व॒य॒त इति॑ देव-य॒ते । यज॑मानाय । स्वाहा᳚ । 
+एति॑ । व॒ह॒ । दे॒वान् । दे॒व॒य॒त इति॑ देव-य॒ते । यज॑मानाय । स्वाहा॑ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -860,7 +860,7 @@ thou restest inviolable, strengthen the heaven.
 <details><summary>पद-पाठः</summary>
 
 अ॒च्यु॒त॒ख्षिदित्य॑च्युत-ख्षित् । अ॒सि॒ ।   
-दिव᳚म् । दृ॒ꣳ॒ह॒ । 
+दिव॑म् । दृ॒ꣳ॒ह॒ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -875,7 +875,7 @@ ________
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्नेर्  +++(भस भर्त्सनदीप्त्योः→)+++भस्मा᳚सि । अ॒ग्नेᳶ +++(भस्मवद् दीप्तिसाधनं)+++ पुरी॑षम् असि ॥
+अ॒ग्नेर्  +++(भस भर्त्सनदीप्त्योः→)+++भस्मा॑सि । अ॒ग्नेᳶ +++(भस्मवद् दीप्तिसाधनं)+++ पुरी॑षम् असि ॥
 </details>
 <details><summary>Keith</summary>
 
@@ -884,11 +884,11 @@ Thou art the ashes of Agni; thou art the rubble of Agni.
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-अ॒ग्नेर्भस्मा᳚स्य॒ग्नेᳶ पुरी॑षमसि ॥ [24]
+अ॒ग्नेर्भस्मा॑स्य॒ग्नेᳶ पुरी॑षमसि ॥ [24]
 </details>
 <details><summary>मूलम्</summary>
 
-अग्नेर्भस्मा᳚सि ।  
+अग्नेर्भस्मा॑सि ।  
 अ॒ग्नेᳶ पुरी॑षमसि ॥
 </details>
 <details><summary>पद-पाठः</summary>

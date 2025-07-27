@@ -36,7 +36,7 @@ ____
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अपा᳚ ऽग्ने॒, ऽग्निम् आ॒मा+++(=अपक्वा)+++-द॑ञ् जहि +++(, पक्वादं रक्ष)+++ ।
+अपा॑ ऽग्ने॒, ऽग्निम् आ॒मा+++(=अपक्वा)+++-द॑ञ् जहि +++(, पक्वादं रक्ष)+++ ।
 </details>
 <details><summary>Keith</summary>
 
@@ -44,7 +44,7 @@ O Agni, drive off the fire that eats raw flesh,
 </details>
 <details><summary>मूलम्</summary>
 
-अपा᳚ऽग्ने॒ऽग्निमा॒माद॑ञ्जहि ।
+अपा॑ऽग्ने॒ऽग्निमा॒माद॑ञ्जहि ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -462,7 +462,7 @@ ____
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/07_kapAlopadhAnam/yAni_gharme.md">
 <details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
 
-यानि॑ घ॒र्मे **क॒पाला᳚न्य्**  
+यानि॑ घ॒र्मे **क॒पाला॑न्य्**  
 **उपचि॒न्वन्ति॑** वे॒धसः॑+++(=अध्वर्यवः)+++ ।  
 **पू॒ष्णस् तान्य्** अपि॑ +++(श्रपण-)+++व्र॒त+++(य् समाप्ते)+++  
 **इ॑न्द्र-वा॒यू वि मु॑ञ्चताम्** ॥ [11]   
@@ -483,7 +483,7 @@ Indra and Vayu set them free.
 </details>
 <details><summary>मूलम्</summary>
 
-यानि॑ घ॒र्मे क॒पाला᳚न्युपचि॒न्वन्ति॑ वे॒धसः॑ ।  
+यानि॑ घ॒र्मे क॒पाला॑न्युपचि॒न्वन्ति॑ वे॒धसः॑ ।  
 पू॒ष्णस्तान्यपि॑ व्र॒त इ॑न्द्रवा॒यू वि मु॑ञ्चताम् ॥ [11]
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>

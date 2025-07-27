@@ -228,7 +228,7 @@ ________
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उद् +++(अद्भ्य)+++ आ᳚भ्य॒श् शुचि॒र् आ पू॒त ए॑मि ।+++(र५)+++
+उद् +++(अद्भ्य)+++ आ॑भ्य॒श् शुचि॒र् आ पू॒त ए॑मि ।+++(र५)+++
 </details>
 <details><summary>Keith</summary>
 
@@ -236,7 +236,7 @@ Forth from these waters do I come bright, in purity.
 </details>
 <details><summary>मूलम्</summary>
 
-उदा᳚भ्य॒श्शुचि॒रा पू॒त ए॑मि ।
+उदा॑भ्य॒श्शुचि॒रा पू॒त ए॑मि ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -540,7 +540,7 @@ ________
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रा᳚ग्नी॒ द्यावा॑पृथिवी॒ आप॑ ओषधीः +++(अनुमन्यध्वम्!)+++।+++(र४)+++
+इन्द्रा॑ग्नी॒ द्यावा॑पृथिवी॒ आप॑ ओषधीः +++(अनुमन्यध्वम्!)+++।+++(र४)+++
 </details>
 <details><summary>Keith</summary>
 
@@ -548,7 +548,7 @@ Indra and Agni, heaven and earth, waters, plants.
 </details>
 <details><summary>मूलम्</summary>
 
-इन्द्रा᳚ग्नी॒ द्यावा॑पृथिवी॒ आप॑ ओषधीः ।
+इन्द्रा॑ग्नी॒ द्यावा॑पृथिवी॒ आप॑ ओषधीः ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

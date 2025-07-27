@@ -1896,7 +1896,7 @@ _______
 
 अ॒यन् नो॑ अ॒ग्निर् **वरि॑वᳵ+++(=अवकाशं)+++ कृणोत्व्**  
 अ॒यम् **मृधᳶ॑ पु॒र ए॑तु** प्रभि॒न्दन् ।  
-अ॒यꣳ **शत्रू᳚ञ् जयतु॒** जर्हृ॑षाणो॒  
+अ॒यꣳ **शत्रू॑ञ् जयतु॒** जर्हृ॑षाणो॒  
 ऽयव्ँ **वाज॑ञ् जयतु॒** वाज॑-सातौ+++(←सन् दाने)+++  ॥
 </details>
 </div>
@@ -1912,7 +1912,7 @@ May he win booty in the contest for booty.
 <details><summary>मूलम्</summary>
 
 अ॒यन्नो॑ अ॒ग्निर्वरि॑वᳵ कृणोत्व॒यम्मृधᳶ॑ पु॒र ए॑तु प्रभि॒न्दन् ।  
-अ॒यꣳ शत्रू᳚ञ्जयतु॒ जर्हृ॑षाणो॒ऽयव्ँवाज॑ञ्जयतु॒ वाज॑सातौ  ॥
+अ॒यꣳ शत्रू॑ञ्जयतु॒ जर्हृ॑षाणो॒ऽयव्ँवाज॑ञ्जयतु॒ वाज॑सातौ  ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -1934,8 +1934,8 @@ _______
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अ॒ग्निना॒ग्निस् **समि॑ध्यते**  
-क॒विर् गृ॒हप॑ति॒र् युवा᳚ ।    
-ह॒व्य॒-वाड्+++(←वह्)+++ जु॒ह्वा᳚स्यः  ॥
+क॒विर् गृ॒हप॑ति॒र् युवा॑ ।    
+ह॒व्य॒-वाड्+++(←वह्)+++ जु॒ह्वा॑स्यः  ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/52_kAmyeShTiyAjyApuronuvAkyAH/05_agninAgnis_samidhyate.md">
@@ -1948,8 +1948,8 @@ The bearer of the oblation, with ladle in his mouth.
 </details>
 <details><summary>मूलम्</summary>
 
-अ॒ग्निना॒ग्निस्समि॑ध्यते क॒विर्गृ॒हप॑ति॒र्युवा᳚ ।    
-ह॒व्य॒वाड्जु॒ह्वा᳚स्यः  ॥
+अ॒ग्निना॒ग्निस्समि॑ध्यते क॒विर्गृ॒हप॑ति॒र्युवा॑ ।    
+ह॒व्य॒वाड्जु॒ह्वा॑स्यः  ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

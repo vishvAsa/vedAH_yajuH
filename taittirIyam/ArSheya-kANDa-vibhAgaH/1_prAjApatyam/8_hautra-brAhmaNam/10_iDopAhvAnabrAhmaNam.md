@@ -13,7 +13,7 @@ title = "१० इडोपाह्वानब्राह्मणम्"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सꣵश्र॑वा ह सौवर्चन॒सस् तुमि॑ञ्ज॒म् औपो॑दितिम् उवाच॒  
-"यथ् स॒त्रिणा॒ꣳ॒ होता ऽभू॒ᳵ काम् इडा॒म् उपा᳚ह्वथा॒" इति॑ ।
+"यथ् स॒त्रिणा॒ꣳ॒ होता ऽभू॒ᳵ काम् इडा॒म् उपा॑ह्वथा॒" इति॑ ।
 </details>
 <details><summary>Keith</summary>
 
@@ -22,7 +22,7 @@ Samśravas Sauvarcanasa said to Tumiñja Aupoditi:
 </details>
 <details><summary>मूलम्</summary>
 
-सꣵश्र॑वा ह सौवर्चन॒सस्तुमि॑ञ्ज॒मौपो॑दितिमुवाच॒ यथ्स॒त्रिणा॒ꣳ॒ होताऽभू॒ᳵ कामिडा॒मुपा᳚ह्वथा॒ इति॑ ।
+सꣵश्र॑वा ह सौवर्चन॒सस्तुमि॑ञ्ज॒मौपो॑दितिमुवाच॒ यथ्स॒त्रिणा॒ꣳ॒ होताऽभू॒ᳵ कामिडा॒मुपा॑ह्वथा॒ इति॑ ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -33,7 +33,7 @@ Samśravas Sauvarcanasa said to Tumiñja Aupoditi:
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"ताम् उपा᳚ह्व॒" इति॑ होवाच॒  
+"ताम् उपा॑ह्व॒" इति॑ होवाच॒  
 "या प्रा॒णेन॑ दे॒वान् दा॒धार॑,  
 व्या॒नेन॑ मनु॒ष्या॑न्,  
 अपा॒नेन॑ पि॒तॄन्" इति॑।  
@@ -44,7 +44,7 @@ Samśravas Sauvarcanasa said to Tumiñja Aupoditi:
 </details>
 <details><summary>मूलम्</summary>
 
-तामुपा᳚ह्व॒ इति॑ होवाच॒ या प्रा॒णेन॑ दे॒वान्दा॒धार॑ व्या॒नेन॑ मनु॒ष्या॑नपा॒नेन॑ पि॒तॄनिति॑। 
+तामुपा॑ह्व॒ इति॑ होवाच॒ या प्रा॒णेन॑ दे॒वान्दा॒धार॑ व्या॒नेन॑ मनु॒ष्या॑नपा॒नेन॑ पि॒तॄनिति॑। 
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -72,7 +72,7 @@ Samśravas Sauvarcanasa said to Tumiñja Aupoditi:
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"शरी॑र॒व्ँ वा अ॑स्यै॒ तद् उपा᳚ह्वथा॒" इति॑ होवाच॒,  
+"शरी॑र॒व्ँ वा अ॑स्यै॒ तद् उपा॑ह्वथा॒" इति॑ होवाच॒,  
 "गौर्वै [7] अ॑स्यै॒ शरी॑रम् ।"  
 </details>
 <details><summary>Keith</summary>
@@ -81,7 +81,7 @@ Samśravas Sauvarcanasa said to Tumiñja Aupoditi:
 </details>
 <details><summary>मूलम्</summary>
 
-"शरी॑र॒व्ँ वा अ॑स्यै॒ तद् उपा᳚ह्वथा॒" इति॑ होवाच॒,  
+"शरी॑र॒व्ँ वा अ॑स्यै॒ तद् उपा॑ह्वथा॒" इति॑ होवाच॒,  
 "गौर्वै [7] अ॑स्यै॒ शरी॑रम् ।"
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -147,7 +147,7 @@ she whom they slay for the Fathers (supports) the Fathers by her inspiration;
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"अथ॒ वैतामुपा᳚ह्व॒" इति॑ होवाच॒  
+"अथ॒ वैतामुपा॑ह्व॒" इति॑ होवाच॒  
 "या प्र॒जाᳶ प्र॒भव॑न्ती॒ᳶ प्रत्या॒भव॒ती"ति॑ ।
 </details>
 <details><summary>Keith</summary>
@@ -156,7 +156,7 @@ she whom they slay for the Fathers (supports) the Fathers by her inspiration;
 </details>
 <details><summary>मूलम्</summary>
 
-अथ॒ वैतामुपा᳚ह्व॒ इति॑ होवाच॒  
+अथ॒ वैतामुपा॑ह्व॒ इति॑ होवाच॒  
 या प्र॒जाᳶ प्र॒भव॑न्ती॒ᳶ प्रत्या॒भव॒तीति॑ । 
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -167,7 +167,7 @@ she whom they slay for the Fathers (supports) the Fathers by her inspiration;
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"अन्न॒व्ँ वा अ॑स्यै॒ तद् [8] उपा᳚ह्वथा॒" इति॑ होवा॒च ।  
+"अन्न॒व्ँ वा अ॑स्यै॒ तद् [8] उपा॑ह्वथा॒" इति॑ होवा॒च ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -175,7 +175,7 @@ she whom they slay for the Fathers (supports) the Fathers by her inspiration;
 </details>
 <details><summary>मूलम्</summary>
 
-अन्न॒व्ँवा अ॑स्यै॒ तद् [8] उपा᳚ह्वथा॒ इति॑ होवा॒च ।  
+अन्न॒व्ँवा अ॑स्यै॒ तद् [8] उपा॑ह्वथा॒ इति॑ होवा॒च ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -185,7 +185,7 @@ she whom they slay for the Fathers (supports) the Fathers by her inspiration;
 
 ओष॑धयो॒ वा अ॑स्या॒ अन्न॑म् ।   
 ओष॑धयो॒ वै प्र॒जाᳶ प्र॒भव॑न्ती॒ᳶ, प्रत्या भ॑वन्ति ।   
-य ए॒वव्ँ वेदा᳚न्ना॒दो भ॑व॒ति ।   
+य ए॒वव्ँ वेदा॑न्ना॒दो भ॑व॒ति ।   
 </details>
 <details><summary>Keith</summary>
 
@@ -196,7 +196,7 @@ he who knows thus becomes an eater of food.
 
 ओष॑धयो॒ वा अ॑स्या॒ अन्न॑म् ।   
 ओष॑धयो॒ वै प्र॒जाᳶ प्र॒भव॑न्ती॒ᳶ प्रत्या भ॑वन्ति ।   
-य ए॒वव्ँवेदा᳚न्ना॒दो भ॑व॒ति ।   
+य ए॒वव्ँवेदा॑न्ना॒दो भ॑व॒ति ।   
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -204,7 +204,7 @@ he who knows thus becomes an eater of food.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"अथ॒ वै ताम् उपा᳚ह्व॒" इति॑ होवाच॒
+"अथ॒ वै ताम् उपा॑ह्व॒" इति॑ होवाच॒
 "या प्र॒जाᳶ प॑रा॒भव॑न्तीर् अनुगृ॒ह्णाति॒ प्रत्या॒भव॑न्तीर्गृ॒ह्णाती"ति॑ ।
 </details>
 <details><summary>Keith</summary>
@@ -214,7 +214,7 @@ he who knows thus becomes an eater of food.
 </details>
 <details><summary>मूलम्</summary>
 
-अथ॒ वै तामुपा᳚ह्व॒ इति॑ होवाच॒
+अथ॒ वै तामुपा॑ह्व॒ इति॑ होवाच॒
 या प्र॒जाᳶ प॑रा॒भव॑न्तीरनुगृ॒ह्णाति॒ प्रत्या॒भव॑न्तीर्गृ॒ह्णातीति॑ ।   
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -227,7 +227,7 @@ he who knows thus becomes an eater of food.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"प्रति॒ष्ठाव्ँवा अ॑स्यै॒ तदुपा᳚ह्वथा॒" इति॑ होवाच ।  
+"प्रति॒ष्ठाव्ँवा अ॑स्यै॒ तदुपा॑ह्वथा॒" इति॑ होवाच ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -235,7 +235,7 @@ Her support then hast thou invoked', he replied.
 </details>
 <details><summary>मूलम्</summary>
 
-प्रति॒ष्ठाव्ँवा अ॑स्यै॒ तदुपा᳚ह्वथा॒ इति॑ होवाच ।  
+प्रति॒ष्ठाव्ँवा अ॑स्यै॒ तदुपा॑ह्वथा॒ इति॑ होवाच ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -266,7 +266,7 @@ he who knows thus finds support.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"अथ॒ वै तामुपा᳚ह्व॒" इति॑ होवाच॒  
+"अथ॒ वै तामुपा॑ह्व॒" इति॑ होवाच॒  
 "यस्यै॑ नि॒क्रम॑णे घृ॒तम् प्र॒जास् स॒ञ्जीव॑न्ती॒ᳶ पिब॒न्ती"ति॑ ।  
 </details>
 <details><summary>Keith</summary>
@@ -275,7 +275,7 @@ he who knows thus finds support.
 </details>
 <details><summary>मूलम्</summary>
 
-अथ॒ वै तामुपा᳚ह्व॒ इति॑ होवाच॒ यस्यै॑ नि॒क्रम॑णे घृ॒तम्प्र॒जास्स॒ञ्जीव॑न्ती॒ᳶ पिब॒न्तीति॑ ।  
+अथ॒ वै तामुपा॑ह्व॒ इति॑ होवाच॒ यस्यै॑ नि॒क्रम॑णे घृ॒तम्प्र॒जास्स॒ञ्जीव॑न्ती॒ᳶ पिब॒न्तीति॑ ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -317,7 +317,7 @@ he who knows thus finds support.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"ए॒ष वा इडा॒म् उपा᳚ह्वथा॒" इति॑ होवाच ।  
+"ए॒ष वा इडा॒म् उपा॑ह्वथा॒" इति॑ होवाच ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -325,7 +325,7 @@ he who knows thus finds support.
 </details>
 <details><summary>मूलम्</summary>
 
-ए॒ष वा इडा॒मुपा᳚ह्वथा॒ इति॑ होवाच ।  
+ए॒ष वा इडा॒मुपा॑ह्वथा॒ इति॑ होवाच ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -333,7 +333,7 @@ he who knows thus finds support.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वृष्टि॒र् वा इडा᳚।  
+वृष्टि॒र् वा इडा॑।  
 वृष्ट्यै॒ वै नि॒क्रम॑णे घृ॒तम् प्र॒जास् स॒ञ्जीव॑न्तीᳶ पिबन्ति ।  
 </details>
 <details><summary>Keith</summary>
@@ -342,7 +342,7 @@ The Ida is rain; in the step of rain people drink the ghee they live upon;
 </details>
 <details><summary>मूलम्</summary>
 
-वृष्टि॒र्वा इडा᳚।  
+वृष्टि॒र्वा इडा॑।  
 वृष्ट्यै॒ वै नि॒क्रम॑णे घृ॒तम्प्र॒जास्स॒ञ्जीव॑न्तीᳶ पिबन्ति ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>

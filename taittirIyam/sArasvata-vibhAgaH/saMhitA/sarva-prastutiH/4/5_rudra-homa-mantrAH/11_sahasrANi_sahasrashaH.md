@@ -20,7 +20,7 @@ title = "११ स॒हस्रा॑णि सहस्र॒शो"
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 स॒हस्रा॑णि सहस्र॒शो  
-ये **रु॒द्रा** अधि॒ भूम्या᳚म् ।   
+ये **रु॒द्रा** अधि॒ भूम्या॑म् ।   
 तेषाꣳ॑ सहस्र-योज॒ने **ऽव॒**  
 धन्वा॑नि **तन्मसि** ।+++(4)+++
 </details>
@@ -36,7 +36,7 @@ At a thousand leagues.
 </details>
 <details><summary>मूलम्</summary>
 
-स॒हस्रा॑णि सहस्र॒शो ये रु॒द्रा अधि॒ भूम्या᳚म् ।   
+स॒हस्रा॑णि सहस्र॒शो ये रु॒द्रा अधि॒ भूम्या॑म् ।   
 तेषाꣳ॑ सहस्रयोज॒नेऽव॒ धन्वा॑नि तन्मसि ।
 </details>
 <details><summary>सायण-टीका</summary>
@@ -53,7 +53,7 @@ At a thousand leagues.
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/03_asmin_mahaty.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-अ॒स्मिन् म॑ह॒त्य् अ॑र्ण॒वे᳚  
+अ॒स्मिन् म॑ह॒त्य् अ॑र्ण॒वे॑  
 ऽन्तरि॑ख्षे **भ॒वा** अधि॑ ।   
 {तेषाꣳ॑ सहस्र-योज॒ने **ऽव॒**  
 धन्वा॑नि **तन्मसि** ।}
@@ -70,7 +70,7 @@ At a thousand leagues.}
 </details>
 <details><summary>मूलम्</summary>
 
-अ॒स्मिन्म॑ह॒त्य॑र्ण॒वे᳚ऽन्तरि॑ख्षे भ॒वा अधि॑ ।   
+अ॒स्मिन्म॑ह॒त्य॑र्ण॒वे॑ऽन्तरि॑ख्षे भ॒वा अधि॑ ।   
 {तेषाꣳ॑ सहस्रयोज॒नेऽव॒ धन्वा॑नि तन्मसि }
 </details>
 <details><summary>सायण-टीका</summary>
@@ -84,7 +84,7 @@ At a thousand leagues.}
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/04_nIlagrIvAsh_shitikaNThAsh.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-+++(एकदेशे)+++ नील॑-ग्रीवाश् +++(अपरत्र)+++ शिति॒-कण्ठा᳚श्  
++++(एकदेशे)+++ नील॑-ग्रीवाश् +++(अपरत्र)+++ शिति॒-कण्ठा॑श्  
 **श॒र्वा** अ॒धः ख्ष॑मा-च॒राः ।  
 तेषाꣳ॑ सहस्र-योज॒ने **ऽव॒**  
 धन्वा॑नि **तन्मसि** ।
@@ -101,7 +101,7 @@ At a thousand leagues.}
 </details>
 <details><summary>मूलम्</summary>
 
-नील॑ग्रीवाश्शिति॒कण्ठा᳚श्श॒र्वा अ॒धः ख्ष॑माच॒राः ।  
+नील॑ग्रीवाश्शिति॒कण्ठा॑श्श॒र्वा अ॒धः ख्ष॑माच॒राः ।  
 {तेषाꣳ॑ सहस्रयोज॒नेऽव॒ धन्वा॑नि तन्मसि }
 </details>
 <details><summary>सायण-टीका</summary>
@@ -353,14 +353,14 @@ At a thousand leagues.
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-नमो॑ रु॒द्रेभ्यो॒ ये पृ॑थि॒व्याय्ँये᳚ऽन्तरि॑ख्षे॒ ये दि॒वि येषा॒मन्न॒व्ँवातो॑ व॒र्षमिष॑व॒स्तेभ्यो॒ दश॒ प्राची॒र्दश॑ दख्षि॒णा दश॑ प्र॒तीची॒र्दशोदी॑ची॒र्दशो॒र्ध्वास्तेभ्यो॒ नम॒स्ते नो॑ मृडयन्तु॒ ते यन्द्वि॒ष्मो यश्च॑ नो॒ द्वेष्टि॒ तव्ँवो॒ जम्भे॑ दधामि ॥ [27]
+नमो॑ रु॒द्रेभ्यो॒ ये पृ॑थि॒व्याय्ँये॑ऽन्तरि॑ख्षे॒ ये दि॒वि येषा॒मन्न॒व्ँवातो॑ व॒र्षमिष॑व॒स्तेभ्यो॒ दश॒ प्राची॒र्दश॑ दख्षि॒णा दश॑ प्र॒तीची॒र्दशोदी॑ची॒र्दशो॒र्ध्वास्तेभ्यो॒ नम॒स्ते नो॑ मृडयन्तु॒ ते यन्द्वि॒ष्मो यश्च॑ नो॒ द्वेष्टि॒ तव्ँवो॒ जम्भे॑ दधामि ॥ [27]
 </details>
 </details>
 </div>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नमो॑ रु॒द्रेभ्यो॒ ये पृ॑थि॒व्याम्   
-{येषा॒म् अन्न᳚म् इष॑वस्}  
+{येषा॒म् अन्न॑म् इष॑वस्}  
 </details>
 <details><summary>Keith</summary>
 
@@ -369,7 +369,7 @@ whose arrows are food,
 </details>
 <details><summary>मूलम्</summary>
 
-नमो॑ रु॒द्रेभ्यो॒ ये पृ॑थि॒व्याम्  {येषा॒मन्न᳚मिष॑वः}  
+नमो॑ रु॒द्रेभ्यो॒ ये पृ॑थि॒व्याम्  {येषा॒मन्न॑मिष॑वः}  
 </details>
 <details><summary>सायण-टीका</summary>
 
@@ -409,7 +409,7 @@ to them homage, be they merciful to us,
 </div>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(नमो॑ रु॒द्रेभ्यो॒ )+++ ये᳚ऽन्तरि॑ख्षे { येषा॒व्ँ वात॒ इष॑वः}  
++++(नमो॑ रु॒द्रेभ्यो॒ )+++ ये॑ऽन्तरि॑ख्षे { येषा॒व्ँ वात॒ इष॑वः}  
 </details>
 <details><summary>Keith</summary>
 
@@ -417,7 +417,7 @@ to them homage, be they merciful to us,
 </details>
 <details><summary>मूलम्</summary>
 
-+++(नमो॑ रु॒द्रेभ्यो॒ )+++ ये᳚ऽन्तरि॑ख्षे { येषा॒व्ँवात॒ इष॑वः}  
++++(नमो॑ रु॒द्रेभ्यो॒ )+++ ये॑ऽन्तरि॑ख्षे { येषा॒व्ँवात॒ इष॑वः}  
 </details>
 <details><summary>सायण-टीका</summary>
 

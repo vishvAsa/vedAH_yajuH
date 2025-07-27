@@ -7,10 +7,10 @@ title = "०२ समारोपणम्"
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/8/20_yA_te.md">
 <details open><summary><h2>20 या ते ...{Loading}...</h2></summary>
 
-या ते॑ अग्ने य॒ज्ञिया॑ त॒नूस्तयेह्यारो॑हा॒त्माऽऽत्मान᳚म् ।  
+या ते॑ अग्ने य॒ज्ञिया॑ त॒नूस्तयेह्यारो॑हा॒त्माऽऽत्मान॑म् ।  
 अच्छा॒ वसू॑नि कृ॒ण्वन्न॒स्मे नर्या॑ पु॒रूणि॑ ।
 
-य॒ज्ञो भू॒त्वा य॒ज्ञमासी॑द॒ स्वाय्ँयोनि᳚म् ।  
+य॒ज्ञो भू॒त्वा य॒ज्ञमासी॑द॒ स्वाय्ँयोनि॑म् ।  
 जात॑वेदो॒ भुव॒ आ जाय॑मान॒स्सख्ष॑य॒ एहि॑ ।
 
 </details>
