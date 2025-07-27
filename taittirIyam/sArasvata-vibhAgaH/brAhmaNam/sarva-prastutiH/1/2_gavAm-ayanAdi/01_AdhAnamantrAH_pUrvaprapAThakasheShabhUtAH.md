@@ -404,7 +404,7 @@ unicode_script: devanagari
 दे॒वाना॑म् ब्रह्म-वा॒दव्ँ वद॑ता॒य्ँ यत् ।   
 उ॒पाशृ॑णोस् सु॒श्रवा॒ वै श्रु॒तो॑ ऽसि ।  
 ततो॒ माम् आवि॑शतु ब्रह्म-वर्च॒सम् ।  
-तथ् स॒म्भर॒ँ॒ स् तद् अव॑रुन्धीय सा॒क्षात् ।
+तथ् स॒म्भरँ॒ स् तद् अव॑रुन्धीय सा॒क्षात् ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/2_gavAm-ayanAdi/1/58_devAnAm_brahmavAdav.N.md">
@@ -414,7 +414,7 @@ unicode_script: devanagari
 दे॒वाना॑म् ब्रह्म-वा॒दव्ँ वद॑ता॒य्ँ यत् ।   
 उ॒पाशृ॑णोस् सु॒श्रवा॒ वै श्रु॒तो॑ ऽसि ।  
 ततो॒ माम् आवि॑शतु ब्रह्म-वर्च॒सम् ।  
-तथ् स॒म्भर॒ँ॒ स् तद् अव॑रुन्धीय सा॒क्षात् ।
+तथ् स॒म्भरँ॒ स् तद् अव॑रुन्धीय सा॒क्षात् ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -540,7 +540,7 @@ unicode_script: devanagari
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अ॒श्व॒त्थाद् ध॑व्यवा॒हाद् धि जा॒ताम् ।    
-अ॒ग्नेस् त॒नूय्ँ य॒ज्ञिया॒ँ॒ सम्भ॑रामि ।  
+अ॒ग्नेस् त॒नूय्ँ य॒ज्ञियाँ॒ सम्भ॑रामि ।  
 शा॒न्त-यो॑निँ शमी-ग॒र्भम् ।  
 अ॒ग्नये॒ प्रज॑नयि॒तवे॑ ।
 </details>
@@ -550,7 +550,7 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 अ॒श्व॒त्थाद् ध॑व्यवा॒हाद् धि जा॒ताम् ।    
-अ॒ग्नेस् त॒नूय्ँ य॒ज्ञिया॒ँ॒ सम्भ॑रामि ।  
+अ॒ग्नेस् त॒नूय्ँ य॒ज्ञियाँ॒ सम्भ॑रामि ।  
 शा॒न्त-यो॑निँ शमी-ग॒र्भम् ।  
 अ॒ग्नये॒ प्रज॑नयि॒तवे॑ ।
 </details>
@@ -966,9 +966,9 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/138_Arohatan_dashatam.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-आरो॑हतन् द॒शत॒ँ॒ शक्व॑री॒र् मम॑ ।  
+आरो॑हतन् द॒शतँ॒ शक्व॑री॒र् मम॑ ।  
 ऋ॒तेना॑ग्न॒ आयु॑षा॒ वर्च॑सा स॒ह ।  
-ज्योग् जीव॑न्त॒ उत्त॑राम् उत्तरा॒ँ॒ समा॑म् ।  
+ज्योग् जीव॑न्त॒ उत्त॑राम् उत्तराँ॒ समा॑म् ।  
 दर्श॑म॒हम् पू॒र्ण-मा॑सय्ँ य॒ज्ञय्ँ यथा॒ यजै॑ ।
 </details>
 </div>
@@ -976,9 +976,9 @@ unicode_script: devanagari
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
-आरो॑हतन् द॒शत॒ँ॒ शक्व॑री॒र् मम॑ ।  
+आरो॑हतन् द॒शतँ॒ शक्व॑री॒र् मम॑ ।  
 ऋ॒तेना॑ग्न॒ आयु॑षा॒ वर्च॑सा स॒ह ।  
-ज्योग् जीव॑न्त॒ उत्त॑राम् उत्तरा॒ँ॒ समा॑म् ।  
+ज्योग् जीव॑न्त॒ उत्त॑राम् उत्तराँ॒ समा॑म् ।  
 दर्श॑म॒हम् पू॒र्ण-मा॑सय्ँ य॒ज्ञय्ँ यथा॒ यजै॑ ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>

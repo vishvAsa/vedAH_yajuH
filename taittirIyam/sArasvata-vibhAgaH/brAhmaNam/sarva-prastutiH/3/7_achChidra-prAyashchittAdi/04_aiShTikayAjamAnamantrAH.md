@@ -249,7 +249,7 @@ unicode_script: devanagari
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अ॒न्त॒राऽग्नी प॒शवः॑ ।  
-दे॒व॒स॒ँ॒सद॒माग॑मन् ।  
+दे॒व॒सँ॒सद॒माग॑मन् ।  
 तान्पूर्व॒ᳶ परि॑गृह्णामि ।  
 स्व आ॒यत॑ने मनी॒षया॑ ।
 </details>
@@ -259,7 +259,7 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 अ॒न्त॒राऽग्नी प॒शवः॑ ।  
-दे॒व॒स॒ँ॒सद॒माग॑मन् ।  
+दे॒व॒सँ॒सद॒माग॑मन् ।  
 तान्पूर्व॒ᳶ परि॑गृह्णामि ।  
 स्व आ॒यत॑ने मनी॒षया॑ ।
 </details>
@@ -365,7 +365,7 @@ unicode_script: devanagari
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 अज॑स्र॒न्त्वाँ स॑भापा॒लाः ॥28॥  
-वि॒ज॒यभा॑ग॒ँ॒ समि॑न्धताम् ।  
+वि॒ज॒यभा॑गँ॒ समि॑न्धताम् ।  
 अग्ने॑ दी॒दा॑य मे सभ्य ।  
 विजि॑त्यै श॒रद॑श्श॒तम् ।
 </details>
@@ -375,7 +375,7 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 अज॑स्र॒न्त्वाँ स॑भापा॒लाः ॥28॥  
-वि॒ज॒यभा॑ग॒ँ॒ समि॑न्धताम् ।  
+वि॒ज॒यभा॑गँ॒ समि॑न्धताम् ।  
 अग्ने॑ दी॒दा॑य मे सभ्य ।  
 विजि॑त्यै श॒रद॑श्श॒तम् ।
 </details>
@@ -831,7 +831,7 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/04/113_trayastriMsho-si_tantUnAm.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-त्र॒य॒स्त्रि॒ँ॒शो॑ऽसि॒ तन्तू॑नाम् ।  
+त्र॒य॒स्त्रिँ॒शो॑ऽसि॒ तन्तू॑नाम् ।  
 प॒वित्रे॑ण स॒हाग॑हि ॥35॥  
 शि॒वेयँ रज्जु॑रभि॒धानी॑ ।  
 अ॒घ्नि॒यामुप॑सेवताम् ।
@@ -841,7 +841,7 @@ unicode_script: devanagari
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
-त्र॒य॒स्त्रि॒ँ॒शो॑ऽसि॒ तन्तू॑नाम् ।  
+त्र॒य॒स्त्रिँ॒शो॑ऽसि॒ तन्तू॑नाम् ।  
 प॒वित्रे॑ण स॒हाग॑हि ॥35॥  
 शि॒वेयँ रज्जु॑रभि॒धानी॑ ।  
 अ॒घ्नि॒यामुप॑सेवताम् ।

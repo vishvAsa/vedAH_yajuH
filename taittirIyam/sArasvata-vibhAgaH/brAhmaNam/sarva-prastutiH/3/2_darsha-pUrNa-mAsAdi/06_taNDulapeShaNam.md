@@ -3,19 +3,19 @@ title: ०६ तण्डुलपेषणम्
 unicode_script: devanagari
 ---
 
-## अव॑धूत॒ँ॒
+## अव॑धूतँ॒
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/05_vrIhyavaghAtaH/avadhUtam.md" unfilled newLevelForH1="5" includeTitle="false">   
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"अव॑धूत॒ँ॒ रक्षो ऽव॑धूता॒ अरा॑तय॒" इत्य् आ॑ह ।  
+"अव॑धूतँ॒ रक्षो ऽव॑धूता॒ अरा॑तय॒" इत्य् आ॑ह ।  
 रक्ष॑सा॒म् अप॑हत्यै ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-"अव॑धूत॒ँ॒ रक्षोऽव॑धूता॒ अरा॑तय॒" इत्या॑ह ।  
+"अव॑धूतँ॒ रक्षोऽव॑धूता॒ अरा॑तय॒" इत्या॑ह ।  
 रक्ष॑सा॒मप॑हत्यै ।
 </details>
 

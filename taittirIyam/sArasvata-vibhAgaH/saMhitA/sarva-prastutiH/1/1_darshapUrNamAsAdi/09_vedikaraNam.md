@@ -149,7 +149,7 @@ O earth whereon sacrifice is offered to the gods, let me harm not the root of th
 
 <details><summary>पद-पाठः</summary>
 
-पृथि॑वि । दे॒व॒य॒ज॒नीति॑ देव-य॒ज॒नि॒ । ओष॑ध्याः । ते॒ । मूल॑म् । मा । हि॒ँ॒सि॒ष॒म् ।
+पृथि॑वि । दे॒व॒य॒ज॒नीति॑ देव-य॒ज॒नि॒ । ओष॑ध्याः । ते॒ । मूल॑म् । मा । हिँ॒सि॒ष॒म् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

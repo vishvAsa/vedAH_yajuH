@@ -83,8 +83,8 @@ thou art Soma; be ready for the Aśvins, be ready for Sarasvati, be ready for In
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/21_sautrAmaNImantrAdi/03_punAtu_te.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-**पु॒नातु॑** ते **परि॒स्रुत॒ँ॒**  
-+++(सुरा-रूपं)+++ सोम॒ँ॒ सूर्य॑स्य दुहि॒ता ।  
+**पु॒नातु॑** ते **परि॒स्रुतँ॒**  
++++(सुरा-रूपं)+++ सोमँ॒ सूर्य॑स्य दुहि॒ता ।  
 वारे॑ण॒+++(=वालेन)+++ शश्व॑ता॒ **तना॑**+++(←तन्)+++  ॥
 </details>
 </div>
@@ -98,7 +98,7 @@ With the eternal sieve.
 </details>
 <details><summary>मूलम्</summary>
 
-पु॒नातु॑ ते परि॒स्रुत॒ँ॒ सोम॒ँ॒ सूर्य॑स्य दुहि॒ता ।  
+पु॒नातु॑ ते परि॒स्रुतँ॒ सोमँ॒ सूर्य॑स्य दुहि॒ता ।  
 वारे॑ण॒ शश्व॑ता॒ तना॑  ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -199,7 +199,7 @@ Who have not gone to the reverential cutting of the straw.
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-आ॒श्वि॒नन्धू॒म्रमा ल॑भते सारस्व॒तम्मे॒षमै॒न्द्रमृ॑ष॒भमै॒न्द्रमेका॑दशकपाल॒न्निर्व॑पति सावि॒त्रन्द्वाद॑शकपालव्ँवारु॒णन्दश॑कपाल॒ँ॒ सोम॑प्रतीकाᳶ पितरस्तृप्णुत॒ वड॑बा॒ दक्षि॑णा ॥
+आ॒श्वि॒नन्धू॒म्रमा ल॑भते सारस्व॒तम्मे॒षमै॒न्द्रमृ॑ष॒भमै॒न्द्रमेका॑दशकपाल॒न्निर्व॑पति सावि॒त्रन्द्वाद॑शकपालव्ँवारु॒णन्दश॑कपालँ॒ सोम॑प्रतीकाᳶ पितरस्तृप्णुत॒ वड॑बा॒ दक्षि॑णा ॥
 </details>
 </details>
 </div>

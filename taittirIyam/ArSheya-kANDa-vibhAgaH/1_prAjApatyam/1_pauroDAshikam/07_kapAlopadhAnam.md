@@ -109,7 +109,7 @@ ____
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-निर्द॑ग्ध॒ँ॒ रक्षो॒,  
+निर्द॑ग्धँ॒ रक्षो॒,  
 निर्द॑ग्धा॒ अरा॑तयः ।
 </details>
 <details><summary>Keith</summary>
@@ -119,7 +119,7 @@ The Raksas is burnt, the evil spirits are burnt.
 </details>
 <details><summary>मूलम्</summary>
 
-निर्द॑ग्ध॒ँ॒ रक्षो॒ निर्द॑ग्धा॒ अरा॑तयः ।
+निर्द॑ग्धँ॒ रक्षो॒ निर्द॑ग्धा॒ अरा॑तयः ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -157,7 +157,7 @@ Thou art firm; make firm the earth, make life firm, make offspring firm,
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-ध्रु॒वम॑सि पृथि॒वीन्दृ॒ँ॒हायु॑र्दृँह प्र॒जान्दृँ॑ह सजा॒तान॒स्मै यज॑मानाय॒ पर्यू॑ह
+ध्रु॒वम॑सि पृथि॒वीन्दृँ॒हायु॑र्दृँह प्र॒जान्दृँ॑ह सजा॒तान॒स्मै यज॑मानाय॒ पर्यू॑ह
 </details>
 <details><summary>मूलम्</summary>
 
@@ -278,7 +278,7 @@ Thou are supporting, make the heaven firm, make the eye [1] firm, make the ear f
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-ध॒रुण॑मसि॒ दिव॑न्दृँह॒ चक्षुः॑ [10]दृ॒ँ॒ह॒ श्रोत्र॑न्दृँह सजा॒तान॒स्मै यज॑मानाय॒ पर्यू॑ह
+ध॒रुण॑मसि॒ दिव॑न्दृँह॒ चक्षुः॑ [10]दृँ॒ह॒ श्रोत्र॑न्दृँह सजा॒तान॒स्मै यज॑मानाय॒ पर्यू॑ह
 </details>
 <details><summary>मूलम्</summary>
 

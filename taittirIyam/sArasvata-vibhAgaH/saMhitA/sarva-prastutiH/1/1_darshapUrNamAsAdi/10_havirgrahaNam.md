@@ -13,7 +13,7 @@ title: १० हविर्ग्रहणम्
 <details open><summary><h5>प्रत्युष्टं रक्षः ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रत्यु॑ष्ट॒ँ॒ रक्ष॒ᳶ, प्रत्यु॑ष्टा॒ अरा॑तयः+++(=अदातारः)+++।
+प्रत्यु॑ष्टँ॒ रक्ष॒ᳶ, प्रत्यु॑ष्टा॒ अरा॑तयः+++(=अदातारः)+++।
 </details>
 <details><summary>Keith</summary>
 
@@ -22,11 +22,11 @@ The Raksas is burned up, the evil spirits are burned up.
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-प्रत्यु॑ष्ट॒ँ॒ रक्ष॒ᳶ प्रत्यु॑ष्टा॒ अरा॑तयः
+प्रत्यु॑ष्टँ॒ रक्ष॒ᳶ प्रत्यु॑ष्टा॒ अरा॑तयः
 </details>
 <details><summary>मूलम्</summary>
 
-प्रत्यु॑ष्ट॒ँ॒ रक्षः॑ ।  
+प्रत्यु॑ष्टँ॒ रक्षः॑ ।  
 प्रत्यु॑ष्टा॒ अरा॑तयः ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -394,14 +394,14 @@ ____
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-म॒ही॒नाम्पयो॒ऽस्योष॑धीना॒ँ॒ रस॒स्तस्य॒ तेऽक्षी॑यमाणस्य॒ निः [17]व॒पा॒मि
+म॒ही॒नाम्पयो॒ऽस्योष॑धीनाँ॒ रस॒स्तस्य॒ तेऽक्षी॑यमाणस्य॒ निः [17]व॒पा॒मि
 </details>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/mahInAm.md">
 <details open><summary><h5>महीनाम् ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(आज्य!)+++ म॒ही॒नाम् +++(गवां)+++ पयो॑ ऽसि  ।  
-ओष॑धीना॒ँ॒ रसः॑।
+ओष॑धीनाँ॒ रसः॑।
 </details>
 <details><summary>Keith</summary>
 
@@ -411,7 +411,7 @@ of plants the sap.
 <details><summary>मूलम्</summary>
 
 म॒ही॒नाम्पयो॑ऽसि  ।  
-ओष॑धीना॒ँ॒ रसः॑ +++(असि)+++ ।
+ओष॑धीनाँ॒ रसः॑ +++(असि)+++ ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -460,7 +460,7 @@ __
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(आज्य!)+++ म॒ही॒नाम् +++(गवां)+++ पयो॑ ऽसि  ।  
-ओष॑धीना॒ँ॒ रसः॑।
+ओष॑धीनाँ॒ रसः॑।
 </details>
 <details><summary>Keith</summary>
 
@@ -470,7 +470,7 @@ of plants the sap.
 <details><summary>मूलम्</summary>
 
 म॒ही॒नाम्पयो॑ऽसि  ।  
-ओष॑धीना॒ँ॒ रसः॑ +++(असि)+++ ।
+ओष॑धीनाँ॒ रसः॑ +++(असि)+++ ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -483,7 +483,7 @@ of plants the sap.
 </div>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-म॒ही॒नाम्पयो॒ऽस्योष॑धीना॒ँ॒ रसः
+म॒ही॒नाम्पयो॒ऽस्योष॑धीनाँ॒ रसः
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

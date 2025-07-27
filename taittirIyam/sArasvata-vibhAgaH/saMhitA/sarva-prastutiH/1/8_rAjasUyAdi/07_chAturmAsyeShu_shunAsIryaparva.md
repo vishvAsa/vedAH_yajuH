@@ -268,8 +268,8 @@ that sit above, led by Brhaspati; that slay the Raksases; may they protect us, m
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-समू॑ढ॒ँ॒ रक्षः॑ ।  
-सन्द॑ग्ध॒ँ॒ रक्षः॑ ।   
+समू॑ढँ॒ रक्षः॑ ।  
+सन्द॑ग्धँ॒ रक्षः॑ ।   
 </details>
 <details><summary>Keith</summary>
 
@@ -277,12 +277,12 @@ The Raksases are collected, the Raksases are burnt up;
 </details>
 <details><summary>मूलम्</summary>
 
-समू॑ढ॒ँ॒ रक्षः॑ ।  
-सन्द॑ग्ध॒ँ॒ रक्षः॑ ।   
+समू॑ढँ॒ रक्षः॑ ।  
+सन्द॑ग्धँ॒ रक्षः॑ ।   
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-समू॑ढ॒ँ॒ रक्ष॒स्सन्द॑ग्ध॒ँ॒ रक्ष॑ इ॒दम॒हँ रक्षो॒ऽभि सन्द॑हामि
+समू॑ढँ॒ रक्ष॒स्सन्द॑ग्धँ॒ रक्ष॑ इ॒दम॒हँ रक्षो॒ऽभि सन्द॑हामि
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

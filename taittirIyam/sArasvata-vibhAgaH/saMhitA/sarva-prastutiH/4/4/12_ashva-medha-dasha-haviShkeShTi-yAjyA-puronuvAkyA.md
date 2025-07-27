@@ -180,9 +180,9 @@ Do thou guard this in the midst with the wind, with the ocean.
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 प्राची॑ दि॒शाँ स॒ह-य॑शा॒ यश॑स्वती॒  
-विश्वे॑ देवाᳶ प्रा॒वृषाह्ना॒ँ॒ सुव॑र्वती ।    
+विश्वे॑ देवाᳶ प्रा॒वृषाह्नाँ॒ सुव॑र्वती ।    
 इ॒दङ् क्ष॒त्रन् **दु॒ष्टर॑म् अ॒स्त्व्** ओजो  
-ऽना॑धृष्टँ सह॒स्रिय॒ँ॒ सह॑स्वत् ।
+ऽना॑धृष्टँ सह॒स्रियँ॒ सह॑स्वत् ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/06_prAchI_dishAm.md">
@@ -196,8 +196,8 @@ Force unoverpowerable, a thousandfold and mighty.
 </details>
 <details><summary>मूलम्</summary>
 
-प्राची॑ दि॒शाँ स॒हय॑शा॒ यश॑स्वती॒ विश्वे॑ देवाᳶ प्रा॒वृषाह्ना॒ँ॒ सुव॑र्वती ।    
-इ॒दङ्क्ष॒त्रन्दु॒ष्टर॑म॒स्त्वोजोऽना॑धृष्टँ सह॒स्रिय॒ँ॒ सह॑स्वत् ।
+प्राची॑ दि॒शाँ स॒हय॑शा॒ यश॑स्वती॒ विश्वे॑ देवाᳶ प्रा॒वृषाह्नाँ॒ सुव॑र्वती ।    
+इ॒दङ्क्ष॒त्रन्दु॒ष्टर॑म॒स्त्वोजोऽना॑धृष्टँ सह॒स्रियँ॒ सह॑स्वत् ।
 </details>
 <details><summary>सायण-टीका</summary>
 

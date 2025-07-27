@@ -406,18 +406,18 @@ title = "०६ प्राजापत्यादिव्रतानां 
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/07_pravargyAdi/82_pRthivI_samit"  newLevelForH1="5" includeTitle="false"> 
 पृ॒थि॒वी स॒मित् ।  
-ताम॒ग्निस्समि॑न्धे । साऽग्निँ समि॑न्धे । ताम॒हँ समि॑न्धे । सा मा॒ समि॑द्धा । आयु॑षा॒ तेज॑सा । वर्च॑सा श्रि॒या । यश॑सा ब्रह्मवर्च॒सेन॑ । अ॒न्नाद्ये॑न॒ समि॑न्ता॒ँ॒ स्वाहा॑ । 
+ताम॒ग्निस्समि॑न्धे । साऽग्निँ समि॑न्धे । ताम॒हँ समि॑न्धे । सा मा॒ समि॑द्धा । आयु॑षा॒ तेज॑सा । वर्च॑सा श्रि॒या । यश॑सा ब्रह्मवर्च॒सेन॑ । अ॒न्नाद्ये॑न॒ समि॑न्ताँ॒ स्वाहा॑ । 
 </div>
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/07_pravargyAdi/83_antarixaM_samit"  newLevelForH1="5" includeTitle="false"> 
-अ॒न्तरि॑क्ष॒ँ॒ स॒मित् । (82)  
-ताव्ँ वा॒युस्समि॑न्धे । सा वा॒युँ समि॑न्धे । ताम॒हँ समि॑न्धे । सा मा॒ समि॑द्धा । आयु॑षा॒ तेज॑सा । वर्च॑सा श्रि॒या । यश॑सा ब्रह्मवर्च॒सेन॑ । अ॒न्नाद्ये॑न॒ समि॑न्ता॒ँ॒ स्वाहा॑ । 
+अ॒न्तरि॑क्षँ॒ स॒मित् । (82)  
+ताव्ँ वा॒युस्समि॑न्धे । सा वा॒युँ समि॑न्धे । ताम॒हँ समि॑न्धे । सा मा॒ समि॑द्धा । आयु॑षा॒ तेज॑सा । वर्च॑सा श्रि॒या । यश॑सा ब्रह्मवर्च॒सेन॑ । अ॒न्नाद्ये॑न॒ समि॑न्ताँ॒ स्वाहा॑ । 
 </div>
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/07_pravargyAdi/84_dyaus_samit"  newLevelForH1="5" includeTitle="false"> 
 
 द्यौस्स॒मित् । तामा॑दि॒त्यस्समि॑न्धे । (83)  
-साऽऽदि॒त्यँ समि॑न्धे । ताम॒हँ समि॑न्धे । सा मा॒ समि॑द्धा । आयु॑षा॒ तेज॑सा । वर्च॑सा श्रि॒या । यश॑सा ब्रह्मवर्च॒सेन॑ । अ॒न्नाद्ये॑न॒ समिन्ता॒ँ॒ स्वाहा॑ ।
+साऽऽदि॒त्यँ समि॑न्धे । ताम॒हँ समि॑न्धे । सा मा॒ समि॑द्धा । आयु॑षा॒ तेज॑सा । वर्च॑सा श्रि॒या । यश॑सा ब्रह्मवर्च॒सेन॑ । अ॒न्नाद्ये॑न॒ समिन्ताँ॒ स्वाहा॑ ।
 </div>
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/07_pravargyAdi/84_prAjApatyA_me"  newLevelForH1="5" includeTitle="false"> 

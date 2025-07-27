@@ -37,8 +37,8 @@ title = "०८ ऐन्द्र-ऋचः"
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/12_kAmyeShTi-mantrAH/06_trAtAram_indram.md">
 <details open><summary><h4>06 त्रातारम् इन्द्रम् ...{Loading}...</h4></summary>
 
-त्रा॒तार॒म् इन्द्र॑म् अवि॒तार॒म् इन्द्र॒ँ॒  
-हवे॑हवे सु॒हव॒ँ॒ शूर॒म् इन्द्र॑म् ।   
+त्रा॒तार॒म् इन्द्र॑म् अवि॒तार॒म् इन्द्रँ॒  
+हवे॑हवे सु॒हवँ॒ शूर॒म् इन्द्र॑म् ।   
 **हु॒वे** नु श॒क्रम् पु॑रुहू॒तम् इन्द्रँ॑  
 स्व॒स्ति नो॑ म॒घवा॑ **धा॒त्व्** इन्द्रः॑  ॥
 </details>

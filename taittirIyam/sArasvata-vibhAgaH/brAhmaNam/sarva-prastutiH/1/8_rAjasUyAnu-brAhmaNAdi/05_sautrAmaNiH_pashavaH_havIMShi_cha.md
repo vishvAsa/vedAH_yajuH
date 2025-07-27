@@ -47,17 +47,17 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-यन्न॒स्तः ।  स सि॒ँ॒हः ।   
+यन्न॒स्तः ।  स सिँ॒हः ।   
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यन्न॒स्तस् स सि॒ँ॒हः ।   
+यन्न॒स्तस् स सिँ॒हः ।   
 </details>
 
 <details><summary>मूलम्</summary>
 
-यन्न॒स्तस् स सि॒ँ॒हः ।   
+यन्न॒स्तस् स सिँ॒हः ।   
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

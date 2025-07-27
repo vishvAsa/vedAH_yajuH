@@ -427,12 +427,12 @@ Unovercomable art thou, overcoming, overcome our enemies, over come those that p
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मधु॒ नक्त॑मु॒तोषसि॒ मधु॑म॒त्पार्थि॑व॒ँ॒ रजः॑।  
+मधु॒ नक्त॑मु॒तोषसि॒ मधु॑म॒त्पार्थि॑वँ॒ रजः॑।  
 मधु॒ द्यौर॑स्तु नᳶ पि॒ता ।
 </details>
 <details><summary>मूलम्</summary>
 
-मधु॒ नक्त॑मु॒तोषसि॒ मधु॑म॒त्पार्थि॑व॒ँ॒ रजः॑।  
+मधु॒ नक्त॑मु॒तोषसि॒ मधु॑म॒त्पार्थि॑वँ॒ रजः॑।  
 मधु॒ द्यौर॑स्तु नᳶ पि॒ता ।
 </details>
 <details><summary>सायण-टीका</summary>
@@ -575,12 +575,12 @@ Unovercomable art thou, overcoming, overcome our enemies, over come those that p
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यु॒क्ष्वा हि दे॑व॒हूत॑मा॒ँ॒ अश्वाँ॑ अग्ने र॒थीरि॑व ।  
+यु॒क्ष्वा हि दे॑व॒हूत॑माँ॒ अश्वाँ॑ अग्ने र॒थीरि॑व ।  
 नि होता॑ पू॒र्व्यस्स॑दः ।  
 </details>
 <details><summary>मूलम्</summary>
 
-यु॒क्ष्वा हि दे॑व॒हूत॑मा॒ँ॒ अश्वाँ॑ अग्ने र॒थीरि॑व ।  
+यु॒क्ष्वा हि दे॑व॒हूत॑माँ॒ अश्वाँ॑ अग्ने र॒थीरि॑व ।  
 नि होता॑ पू॒र्व्यस्स॑दः ।  
 </details>
 <details><summary>सायण-टीका</summary>

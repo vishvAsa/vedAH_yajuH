@@ -401,7 +401,7 @@ Agni desiring a share after being established assailed the offspring and cattle 
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-उ॒द्वास्य॒ पुन॒रा द॑धीत भाग॒धेये॑नै॒वैन॒ँ॒ सम॑र्धय॒त्यथो॒ शान्ति॑रे॒वास्यै॒षा 
+उ॒द्वास्य॒ पुन॒रा द॑धीत भाग॒धेये॑नै॒वैनँ॒ सम॑र्धय॒त्यथो॒ शान्ति॑रे॒वास्यै॒षा 
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -421,7 +421,7 @@ Having removed it, one should re-establish it;
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भा॒ग॒धेये॑नै॒वैन॒ँ॒ सम॑र्धयति ।
+भा॒ग॒धेये॑नै॒वैनँ॒ सम॑र्धयति ।
 </details>
 <details><summary>Keith</summary>
 
@@ -429,7 +429,7 @@ thus he unites him with his own portion;
 </details>
 <details><summary>मूलम्</summary>
 
-भा॒ग॒धेये॑नै॒वैन॒ँ॒ सम॑र्धयति ।  
+भा॒ग॒धेये॑नै॒वैनँ॒ सम॑र्धयति ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

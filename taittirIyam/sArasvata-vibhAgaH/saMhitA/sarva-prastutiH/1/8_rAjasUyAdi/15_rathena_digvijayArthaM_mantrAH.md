@@ -371,7 +371,7 @@ To Soma, lord of the forest, hail! To Indra's strength hail! To the Maruts' forc
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_2/01_haMsash_shuchiShad.md">
 <details open><summary><h5>01 हंसश् शुचिषद् ...{Loading}...</h5></summary>
 
-+++(अहं)+++ ह॒ँ॒सश् शु॑चि॒-षद्, वसु॑र् अन्तरिक्ष॒-सद्,  
++++(अहं)+++ हँ॒सश् शु॑चि॒-षद्, वसु॑र् अन्तरिक्ष॒-सद्,  
 +होता॑ वेदि॒-षद्, अति॑थिर् दुरोण॒-सत् ।  
 नृ॒-षद्, व॑र॒-सद्, ऋ॑त॒-सद् व्यो॑म॒-सद्,  
 अ॒ब्-जा, गो॒-जा, ऋ॑त॒-जा, अ॑द्रि॒-जा, ऋ॒तं बृ॒हत् ॥
@@ -381,7 +381,7 @@ To Soma, lord of the forest, hail! To Indra's strength hail! To the Maruts' forc
 <details open><summary><h5>01 हंसश् शुचिषद् ...{Loading}...</h5></summary>
 <details><summary>मूलम्</summary>
 
-ह॒ँ॒सश्शु॑चि॒षद्वसु॑रन्तरिक्ष॒सद्धोता॑ वेदि॒षदति॑थिर्दुरोण॒सत् ।  
+हँ॒सश्शु॑चि॒षद्वसु॑रन्तरिक्ष॒सद्धोता॑ वेदि॒षदति॑थिर्दुरोण॒सत् ।  
 नृ॒षद्व॑र॒सदृ॑त॒सद्व्यो॑म॒सद॒ब्जा गो॒जा ऋ॑त॒जा अ॑द्रि॒जा ऋ॒तम्बृ॒हत् ॥ [30]
 </details>
 <details><summary>Keith</summary>

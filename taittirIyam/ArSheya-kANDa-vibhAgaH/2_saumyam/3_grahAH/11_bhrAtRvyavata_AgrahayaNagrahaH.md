@@ -16,10 +16,10 @@ _______
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/11_bhrAtRvyavata_AgrahayaNagrahaH/02_triMshat_trayash.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-त्रि॒ँ॒शत् त्रय॑श् +++(=३३)+++ च ग॒णिनो॑ रु॒जन्तो॒  
+त्रिँ॒शत् त्रय॑श् +++(=३३)+++ च ग॒णिनो॑ रु॒जन्तो॒  
 दिवँ॑ रु॒द्राᳶ पृ॑थि॒वीञ् च॑ सचन्ते ।  
 ए॒का॒द॒शासो॑ अप्सु॒-षद॑स् सु॒तँ   
-सोम॑ञ् जुषन्ता॒ँ॒ सव॑नाय॒ विश्वे॑ ॥
+सोम॑ञ् जुषन्ताँ॒ सव॑नाय॒ विश्वे॑ ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/11_bhrAtRvyavata_AgrahayaNagrahaH/02_triMshat_trayash.md">
@@ -33,10 +33,10 @@ May all of them accept the Soma pressed for the pressing.
 </details>
 <details><summary>मूलम्</summary>
 
-त्रि॒ँ॒शत्त्रय॑श्च ग॒णिनो॑ रु॒जन्तो॒ ..  
+त्रिँ॒शत्त्रय॑श्च ग॒णिनो॑ रु॒जन्तो॒ ..  
 दिवँ॑ रु॒द्राᳶ पृ॑थि॒वीञ्च॑ सचन्ते ।  
 ए॒का॒द॒शासो॑ अप्सु॒षद॑स्सु॒तँ   
-सोम॑ञ्जुषन्ता॒ँ॒ सव॑नाय॒ विश्वे॑ ॥
+सोम॑ञ्जुषन्ताँ॒ सव॑नाय॒ विश्वे॑ ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

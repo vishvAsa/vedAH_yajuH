@@ -239,7 +239,7 @@ this is thy birthplace; to Indra thee!
 येषा॑न् ति॒स्रᳶ प॑रम॒जाः ।  
 दैव्य॒ᳵ कोशः॒ [45] समु॑ब्जितः+++(=अधोमुखः)+++ ।  
 तेषा॒व्ँ विशि॑-प्रियाणा॒म्  
-इष॒म् ऊर्ज॒ँ॒ **सम॑ग्रभीम्**+++(←स्वरः??)+++ ।
+इष॒म् ऊर्जँ॒ **सम॑ग्रभीम्**+++(←स्वरः??)+++ ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/12_atigrAhyamantrAbhidhAnam/02_ye_grahAH.md">
@@ -256,7 +256,7 @@ The food and strength have I seized;
 
 ये ग्रहाः॑ पञ्चज॒नीना॒ येषा॑न्ति॒स्रᳶ प॑रम॒जाः ।  
 दैव्य॒ᳵ कोशः॒ [45] समु॑ब्जितः ।  
-तेषा॒व्ँविशि॑प्रियाणा॒म्  इष॒मूर्ज॒ँ॒ सम॑ग्रभीम् ।
+तेषा॒व्ँविशि॑प्रियाणा॒म्  इष॒मूर्जँ॒ सम॑ग्रभीम् ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -303,7 +303,7 @@ this is thy birthplace; to Indra thee!
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/12_atigrAhyamantrAbhidhAnam/03_apAM_rasam.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-अ॒पाँ रस॒म्, उद्-व॑यस॒ँ॒+++(=उज्जीवनम्)+++,  
+अ॒पाँ रस॒म्, उद्-व॑यसँ॒+++(=उज्जीवनम्)+++,  
 सूर्य॑-रश्मिँ स॒माभृ॑तम् ।  
 अ॒पाँ रस॑स्य॒ यो रस॒स्  
 तव्ँ वो॑ **गृह्णाम्य्** उत्त॒मम् ॥
@@ -320,7 +320,7 @@ That of you I take which is the best;
 </details>
 <details><summary>मूलम्</summary>
 
-अ॒पाँ रस॒मुद्व॑यस॒ँ॒ सूर्य॑रश्मिँ स॒माभृ॑तम् ।  
+अ॒पाँ रस॒मुद्व॑यसँ॒ सूर्य॑रश्मिँ स॒माभृ॑तम् ।  
 अ॒पाँ रस॑स्य॒ यो रस॒स्तव्ँवो॑ गृह्णाम्युत्त॒मम् ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -368,7 +368,7 @@ this is thy birthplace; to Indra thee!
 
 अ॒या+++(=अनया)+++ वि॒-ष्ठा ज॒नय॒न् कर्व॑राणि॒+++(=कर्माणि)+++  
 स हि घृणि॑र्+++(←घृ सेके छादने वा)+++ उ॒रुर् वरा॑य गा॒तुः+++(=मार्गः)+++ ।  
-स **प्रत्य्-उदै॑द्** ध॒रुणो॒ मध्वो॒ अग्र॒ँ॒  
+स **प्रत्य्-उदै॑द्** ध॒रुणो॒ मध्वो॒ अग्रँ॒  
 स्वाया॒य्ँ यत् त॒नुवा॑न् +++(काम् अपि)+++ त॒नूम् **ऐर॑यत** ।
 </details>
 </div>
@@ -384,7 +384,7 @@ What time he moved a body in his own body.
 <details><summary>मूलम्</summary>
 
 अ॒या वि॒ष्ठा ज॒नय॒न्कर्व॑राणि॒ स हि घृणि॑रु॒रुर्वरा॑य गा॒तुः ।  
-स प्रत्युदै॑द्ध॒रुणो॒ मध्वो॒ अग्र॒ँ॒ स्वाया॒य्ँयत्त॒नुवा॑न्त॒नूमैर॑यत ।
+स प्रत्युदै॑द्ध॒रुणो॒ मध्वो॒ अग्रँ॒ स्वाया॒य्ँयत्त॒नुवा॑न्त॒नूमैर॑यत ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

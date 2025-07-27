@@ -862,7 +862,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/10_aryamNe_svAhA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-अ॒र्य॒म्णे स्वाहा॒ फल्गु॑नीभ्या॒ँ॒ स्वाहा॑ ,  
+अ॒र्य॒म्णे स्वाहा॒ फल्गु॑नीभ्याँ॒ स्वाहा॑ ,  
 प॒शुभ्य॒स् स्वाहा॑ ॥35॥
 </details>
 </div>
@@ -950,7 +950,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/11_bhagAya_svAhA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-भगा॑य॒ स्वाहा॒ फल्गु॑नीभ्या॒ँ॒ स्वाहा॑ । श्रैष्ठ्या॑य॒ स्वाहा॑ ॥36॥
+भगा॑य॒ स्वाहा॒ फल्गु॑नीभ्याँ॒ स्वाहा॑ । श्रैष्ठ्या॑य॒ स्वाहा॑ ॥36॥
 </details>
 </div>
 
@@ -1065,7 +1065,7 @@ Corvus- α , β , γ , δ , ε Corvi.
 त्वष्टा॒ नक्ष॑त्रम् **अ॒भ्ये॑ति** चि॒त्राम् +++(=Spica)+++।  
 सु॒भँस॑सय्ँ +++(=सुजघनां)+++ युव॒तिँ **रोच॑मानाम्**।  
 **नि॒वे॒शय॑न्न्** अ॒मृता॒न् मर्त्याँ॑श् च।  
-रू॒पाणि॑ **पि॒ँ॒शन्** +++(=निरूपयन्)+++ भुव॑नानि॒ विश्वा॑।  
+रू॒पाणि॑ **पिँ॒शन्** +++(=निरूपयन्)+++ भुव॑नानि॒ विश्वा॑।  
 
 </details>
 </div>
@@ -1076,7 +1076,7 @@ Corvus- α , β , γ , δ , ε Corvi.
 त्वष्टा॒ नक्ष॑त्रम॒भ्ये॑ति चि॒त्राम् ।  
 सु॒भँस॑सय्ँ युव॒तिँ रोच॑मानाम् ॥9॥  
 नि॒वे॒शय॑न्न॒मृता॒न्मर्त्याँ॑श्च ।  
-रू॒पाणि॑ पि॒ँ॒शन्भुव॑नानि॒ विश्वा॑ ।  
+रू॒पाणि॑ पिँ॒शन्भुव॑नानि॒ विश्वा॑ ।  
 
 
 
@@ -1307,7 +1307,7 @@ Corvus- α , β , γ , δ , ε Corvi.
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/15_indrAgnibhyAM_svAhA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-इ॒न्द्रा॒ग्निभ्या॒ँ॒ स्वाहा॒ विशा॑खाभ्या॒ँ॒ स्वाहा॑ ।  
+इ॒न्द्रा॒ग्निभ्याँ॒ स्वाहा॒ विशा॑खाभ्याँ॒ स्वाहा॑ ।  
 श्रैष्ठ्या॑य॒ स्वाहा॒ ऽभिजि॑त्यै॒ स्वाहा॑ ॥40॥
 </details>
 </div>

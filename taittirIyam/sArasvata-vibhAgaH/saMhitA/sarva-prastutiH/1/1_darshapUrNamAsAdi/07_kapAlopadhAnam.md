@@ -135,7 +135,7 @@ ____
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-निर्द॑ग्ध॒ँ॒ रक्षो॒,  
+निर्द॑ग्धँ॒ रक्षो॒,  
 निर्द॑ग्धा॒ अरा॑तयः ।
 </details>
 <details><summary>Keith</summary>
@@ -145,7 +145,7 @@ The Raksas is burnt, the evil spirits are burnt.
 </details>
 <details><summary>मूलम्</summary>
 
-निर्द॑ग्ध॒ँ॒ रक्षो॒ निर्द॑ग्धा॒ अरा॑तयः ।
+निर्द॑ग्धँ॒ रक्षो॒ निर्द॑ग्धा॒ अरा॑तयः ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,7 +190,7 @@ Thou art firm; make firm the earth, make life firm, make offspring firm,
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-ध्रु॒वम॑सि पृथि॒वीन्दृ॒ँ॒हायु॑र्दृँह प्र॒जान्दृँ॑ह सजा॒तान॒स्मै यज॑मानाय॒ पर्यू॑ह
+ध्रु॒वम॑सि पृथि॒वीन्दृँ॒हायु॑र्दृँह प्र॒जान्दृँ॑ह सजा॒तान॒स्मै यज॑मानाय॒ पर्यू॑ह
 </details>
 <details><summary>मूलम्</summary>
 
@@ -202,7 +202,7 @@ Thou art firm; make firm the earth, make life firm, make offspring firm,
 
 <details><summary>पद-पाठः</summary>
 
-ध्रु॒वम् । अ॒सि॒ । पृ॒थि॒वीम् । दृ॒ँ॒ह॒ । आयुः॑ । दृ॒ँ॒ह॒ । प्र॒जामिति॑ प्र-जाम् । दृ॒ँ॒ह॒ ।
+ध्रु॒वम् । अ॒सि॒ । पृ॒थि॒वीम् । दृँ॒ह॒ । आयुः॑ । दृँ॒ह॒ । प्र॒जामिति॑ प्र-जाम् । दृँ॒ह॒ ।
 </details>
 
 
@@ -271,7 +271,7 @@ Thou art a supporter, make firm the atmosphere, make expiration firm, make inspi
 
 <details><summary>पद-पाठः</summary>
 
-ध॒र्त्रम् । अ॒सि॒ । अ॒न्तरि॑क्षम् । दृ॒ँ॒ह॒ । प्रा॒णमिति॑ प्र-अ॒नम् । दृ॒ँ॒ह॒ । अ॒पा॒नमित्य॑प-अ॒नम् । दृ॒ँ॒ह॒ । 
+ध॒र्त्रम् । अ॒सि॒ । अ॒न्तरि॑क्षम् । दृँ॒ह॒ । प्रा॒णमिति॑ प्र-अ॒नम् । दृँ॒ह॒ । अ॒पा॒नमित्य॑प-अ॒नम् । दृँ॒ह॒ । 
 </details>
 
 
@@ -325,7 +325,7 @@ Thou are supporting, make the heaven firm, make the eye [1] firm, make the ear f
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-ध॒रुण॑मसि॒ दिव॑न्दृँह॒ चक्षुः॑ [10]दृ॒ँ॒ह॒ श्रोत्र॑न्दृँह सजा॒तान॒स्मै यज॑मानाय॒ पर्यू॑ह
+ध॒रुण॑मसि॒ दिव॑न्दृँह॒ चक्षुः॑ [10]दृँ॒ह॒ श्रोत्र॑न्दृँह सजा॒तान॒स्मै यज॑मानाय॒ पर्यू॑ह
 </details>
 <details><summary>मूलम्</summary>
 
@@ -337,7 +337,7 @@ Thou are supporting, make the heaven firm, make the eye [1] firm, make the ear f
 
 <details><summary>पद-पाठः</summary>
 
-ध॒रुण॑म् । अ॒सि॒ । दिव॑म् । दृ॒ँ॒ह॒ । चक्षुः॑ । दृ॒ँ॒ह॒ । श्रोत्र॑म् । दृ॒ँ॒ह॒ ।
+ध॒रुण॑म् । अ॒सि॒ । दिव॑म् । दृँ॒ह॒ । चक्षुः॑ । दृँ॒ह॒ । श्रोत्र॑म् । दृँ॒ह॒ ।
 </details>
 
 
@@ -401,7 +401,7 @@ Thou art a support, make the quarters firm, make the organ firm, make offspring 
 
 <details><summary>पद-पाठः</summary>
 
-धर्म॑ । अ॒सि॒ । दिशः॑ । दृ॒ँ॒ह॒ । योनि॑म् । दृ॒ँ॒ह॒ । प्र॒जामिति॑ प्र-जाम् । दृ॒ँ॒ह॒ । 
+धर्म॑ । अ॒सि॒ । दिशः॑ । दृँ॒ह॒ । योनि॑म् । दृँ॒ह॒ । प्र॒जामिति॑ प्र-जाम् । दृँ॒ह॒ । 
 </details>
 
 

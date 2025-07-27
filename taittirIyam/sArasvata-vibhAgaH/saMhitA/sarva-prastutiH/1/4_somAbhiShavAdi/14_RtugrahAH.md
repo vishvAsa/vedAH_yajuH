@@ -62,7 +62,7 @@ Thou art Madhu
 <details open><summary><h5>अनुषङ्गः ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ँ॒ह॒स्प॒त्याय॑ त्वा   +++(जुष्टं गृण्हामि)+++
+अँ॒ह॒स्प॒त्याय॑ त्वा   +++(जुष्टं गृण्हामि)+++
 </details>
 <details><summary>Keith</summary>
 
@@ -70,7 +70,7 @@ To Anhaspatya thee!
 </details>
 <details><summary>मूलम्</summary>
 
-अ॒ँ॒ह॒स्प॒त्याय॑ त्वा
+अँ॒ह॒स्प॒त्याय॑ त्वा
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -139,7 +139,7 @@ and Madhava
 <details open><summary><h5>अनुषङ्गः ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ँ॒ह॒स्प॒त्याय॑ त्वा   +++(जुष्टं गृण्हामि)+++
+अँ॒ह॒स्प॒त्याय॑ त्वा   +++(जुष्टं गृण्हामि)+++
 </details>
 <details><summary>Keith</summary>
 
@@ -147,7 +147,7 @@ To Anhaspatya thee!
 </details>
 <details><summary>मूलम्</summary>
 
-अ॒ँ॒ह॒स्प॒त्याय॑ त्वा
+अँ॒ह॒स्प॒त्याय॑ त्वा
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -216,7 +216,7 @@ thou art Çukra
 <details open><summary><h5>अनुषङ्गः ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ँ॒ह॒स्प॒त्याय॑ त्वा   +++(जुष्टं गृण्हामि)+++
+अँ॒ह॒स्प॒त्याय॑ त्वा   +++(जुष्टं गृण्हामि)+++
 </details>
 <details><summary>Keith</summary>
 
@@ -224,7 +224,7 @@ To Anhaspatya thee!
 </details>
 <details><summary>मूलम्</summary>
 
-अ॒ँ॒ह॒स्प॒त्याय॑ त्वा
+अँ॒ह॒स्प॒त्याय॑ त्वा
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -293,7 +293,7 @@ and Çuci
 <details open><summary><h5>अनुषङ्गः ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ँ॒ह॒स्प॒त्याय॑ त्वा   +++(जुष्टं गृण्हामि)+++
+अँ॒ह॒स्प॒त्याय॑ त्वा   +++(जुष्टं गृण्हामि)+++
 </details>
 <details><summary>Keith</summary>
 
@@ -301,7 +301,7 @@ To Anhaspatya thee!
 </details>
 <details><summary>मूलम्</summary>
 
-अ॒ँ॒ह॒स्प॒त्याय॑ त्वा
+अँ॒ह॒स्प॒त्याय॑ त्वा
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -370,7 +370,7 @@ thou art Nabha
 <details open><summary><h5>अनुषङ्गः ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ँ॒ह॒स्प॒त्याय॑ त्वा   +++(जुष्टं गृण्हामि)+++
+अँ॒ह॒स्प॒त्याय॑ त्वा   +++(जुष्टं गृण्हामि)+++
 </details>
 <details><summary>Keith</summary>
 
@@ -378,7 +378,7 @@ To Anhaspatya thee!
 </details>
 <details><summary>मूलम्</summary>
 
-अ॒ँ॒ह॒स्प॒त्याय॑ त्वा
+अँ॒ह॒स्प॒त्याय॑ त्वा
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -447,7 +447,7 @@ and Nabbasya;
 <details open><summary><h5>अनुषङ्गः ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ँ॒ह॒स्प॒त्याय॑ त्वा   +++(जुष्टं गृण्हामि)+++
+अँ॒ह॒स्प॒त्याय॑ त्वा   +++(जुष्टं गृण्हामि)+++
 </details>
 <details><summary>Keith</summary>
 
@@ -455,7 +455,7 @@ To Anhaspatya thee!
 </details>
 <details><summary>मूलम्</summary>
 
-अ॒ँ॒ह॒स्प॒त्याय॑ त्वा
+अँ॒ह॒स्प॒त्याय॑ त्वा
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -524,7 +524,7 @@ thou art Isa
 <details open><summary><h5>अनुषङ्गः ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ँ॒ह॒स्प॒त्याय॑ त्वा   +++(जुष्टं गृण्हामि)+++
+अँ॒ह॒स्प॒त्याय॑ त्वा   +++(जुष्टं गृण्हामि)+++
 </details>
 <details><summary>Keith</summary>
 
@@ -532,7 +532,7 @@ To Anhaspatya thee!
 </details>
 <details><summary>मूलम्</summary>
 
-अ॒ँ॒ह॒स्प॒त्याय॑ त्वा
+अँ॒ह॒स्प॒त्याय॑ त्वा
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -601,7 +601,7 @@ and Urja;
 <details open><summary><h5>अनुषङ्गः ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ँ॒ह॒स्प॒त्याय॑ त्वा   +++(जुष्टं गृण्हामि)+++
+अँ॒ह॒स्प॒त्याय॑ त्वा   +++(जुष्टं गृण्हामि)+++
 </details>
 <details><summary>Keith</summary>
 
@@ -609,7 +609,7 @@ To Anhaspatya thee!
 </details>
 <details><summary>मूलम्</summary>
 
-अ॒ँ॒ह॒स्प॒त्याय॑ त्वा
+अँ॒ह॒स्प॒त्याय॑ त्वा
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -678,7 +678,7 @@ thou art Saha
 <details open><summary><h5>अनुषङ्गः ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ँ॒ह॒स्प॒त्याय॑ त्वा   +++(जुष्टं गृण्हामि)+++
+अँ॒ह॒स्प॒त्याय॑ त्वा   +++(जुष्टं गृण्हामि)+++
 </details>
 <details><summary>Keith</summary>
 
@@ -686,7 +686,7 @@ To Anhaspatya thee!
 </details>
 <details><summary>मूलम्</summary>
 
-अ॒ँ॒ह॒स्प॒त्याय॑ त्वा
+अँ॒ह॒स्प॒त्याय॑ त्वा
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -755,7 +755,7 @@ ________________
 <details open><summary><h5>अनुषङ्गः ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ँ॒ह॒स्प॒त्याय॑ त्वा   +++(जुष्टं गृण्हामि)+++
+अँ॒ह॒स्प॒त्याय॑ त्वा   +++(जुष्टं गृण्हामि)+++
 </details>
 <details><summary>Keith</summary>
 
@@ -763,7 +763,7 @@ To Anhaspatya thee!
 </details>
 <details><summary>मूलम्</summary>
 
-अ॒ँ॒ह॒स्प॒त्याय॑ त्वा
+अँ॒ह॒स्प॒त्याय॑ त्वा
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -832,7 +832,7 @@ ________________
 <details open><summary><h5>अनुषङ्गः ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ँ॒ह॒स्प॒त्याय॑ त्वा   +++(जुष्टं गृण्हामि)+++
+अँ॒ह॒स्प॒त्याय॑ त्वा   +++(जुष्टं गृण्हामि)+++
 </details>
 <details><summary>Keith</summary>
 
@@ -840,7 +840,7 @@ To Anhaspatya thee!
 </details>
 <details><summary>मूलम्</summary>
 
-अ॒ँ॒ह॒स्प॒त्याय॑ त्वा
+अँ॒ह॒स्प॒त्याय॑ त्वा
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -910,7 +910,7 @@ ________________
 <details open><summary><h5>अनुषङ्गः ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ँ॒ह॒स्प॒त्याय॑ त्वा   +++(जुष्टं गृण्हामि)+++
+अँ॒ह॒स्प॒त्याय॑ त्वा   +++(जुष्टं गृण्हामि)+++
 </details>
 <details><summary>Keith</summary>
 
@@ -918,7 +918,7 @@ To Anhaspatya thee!
 </details>
 <details><summary>मूलम्</summary>
 
-अ॒ँ॒ह॒स्प॒त्याय॑ त्वा
+अँ॒ह॒स्प॒त्याय॑ त्वा
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -969,7 +969,7 @@ ________________
 </div>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒ँ॒सर्पो॑ऽसि ...   
+सँ॒सर्पो॑ऽसि ...   
 </details>
 <details><summary>Keith</summary>
 
@@ -977,7 +977,7 @@ Thou art Samsarpa.
 </details>
 <details><summary>मूलम्</summary>
 
-स॒ँ॒सर्पो॑ऽसि ...   
+सँ॒सर्पो॑ऽसि ...   
  ॥ [15]  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -993,7 +993,7 @@ Thou art Samsarpa.
 <details open><summary><h5>अंहस्पत्याय ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ँ॒ह॒स्प॒त्याय॑ त्वा   +++(जुष्टं गृण्हामि)+++
+अँ॒ह॒स्प॒त्याय॑ त्वा   +++(जुष्टं गृण्हामि)+++
 </details>
 <details><summary>Keith</summary>
 
@@ -1001,7 +1001,7 @@ To Anhaspatya thee!
 </details>
 <details><summary>मूलम्</summary>
 
-अ॒ँ॒ह॒स्प॒त्याय॑ त्वा
+अँ॒ह॒स्प॒त्याय॑ त्वा
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

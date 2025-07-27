@@ -495,7 +495,7 @@ By the sacrifice there is offering, by the cooked food satisfying. He who knowin
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षीय॑ते॒ वा अ॒मुष्मि॑ल्ँलो॒के ।  
-अन्न॑म् इ॒तᳶ प्र॑दान॒ँ॒ ह्य् अ॑मुष्मि॑ल्ँ लो॒के प्र॒जा उ॑प॒जीव॑न्ति ।  
+अन्न॑म् इ॒तᳶ प्र॑दानँ॒ ह्य् अ॑मुष्मि॑ल्ँ लो॒के प्र॒जा उ॑प॒जीव॑न्ति ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -505,7 +505,7 @@ for given hence in yonder world people live upon it;
 <details><summary>मूलम्</summary>
 
 क्षीय॑ते॒ वा अ॒मुष्मि॑ल्ँलो॒के ।  
-अन्न॑मि॒तᳶ प्र॑दान॒ँ॒ ह्य॑मुष्मि॑ल्ँलो॒के प्र॒जा उ॑प॒जीव॑न्ति ।  
+अन्न॑मि॒तᳶ प्र॑दानँ॒ ह्य॑मुष्मि॑ल्ँलो॒के प्र॒जा उ॑प॒जीव॑न्ति ।  
 </details>
 <details><summary>पद-पाठः</summary>
 

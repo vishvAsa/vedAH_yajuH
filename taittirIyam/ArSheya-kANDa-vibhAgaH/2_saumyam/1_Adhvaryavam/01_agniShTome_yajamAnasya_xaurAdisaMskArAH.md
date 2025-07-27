@@ -70,7 +70,7 @@ O plant, protect him.
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-ओष॑धे॒ त्राय॑स्वैन॒ँ॒ स्वधि॑ते॒ मैनँ॑ हिँसीः
+ओष॑धे॒ त्राय॑स्वैनँ॒ स्वधि॑ते॒ मैनँ॑ हिँसीः
 </details>
 <details><summary>मूलम्</summary>
 

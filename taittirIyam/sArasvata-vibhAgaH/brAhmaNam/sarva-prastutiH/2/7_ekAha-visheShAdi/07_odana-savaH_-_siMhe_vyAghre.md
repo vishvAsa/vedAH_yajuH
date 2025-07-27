@@ -10,7 +10,7 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/02_siMhe_vyAghra.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-सि॒ँ॒हे व्या॒घ्र उ॒त या पृदा॑कौ+++(=अजगरे)+++ ।  
+सिँ॒हे व्या॒घ्र उ॒त या पृदा॑कौ+++(=अजगरे)+++ ।  
 **त्विषि॑र्** अ॒ग्नौ ब्रा॑ह्म॒णे सूर्ये॒ या ।  
 इन्द्र॒य्ँ या **दे॒वी** सु॒भगा॑ **ज॒जान॑** ।  
 सा न॒ **आग॒न्** वर्च॑सा **सव्ँ विदा॒ना** ।
@@ -20,7 +20,7 @@ unicode_script: devanagari
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
-सि॒ँ॒हे व्या॒घ्र उ॒त या पृदा॑कौ ।  
+सिँ॒हे व्या॒घ्र उ॒त या पृदा॑कौ ।  
 त्विषि॑र॒ग्नौ ब्रा॑ह्म॒णे सूर्ये॒ या ।  
 इन्द्र॒य्ँया दे॒वी सु॒भगा॑ ज॒जान॑ ।  
 सा न॒ आग॒न्वर्च॑सा सव्ँ विदा॒ना ।

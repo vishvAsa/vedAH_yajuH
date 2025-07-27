@@ -811,7 +811,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 
 
-{अ॒र्य॒म्णे स्वाहा॒ फल्गु॑नीभ्या॒ँ॒ स्वाहा॑।  
+{अ॒र्य॒म्णे स्वाहा॒ फल्गु॑नीभ्याँ॒ स्वाहा॑।  
 प॒शुभ्यः॒ स्वाहा॑।}
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/09_phAlgunyaH/">
@@ -894,7 +894,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 
 
-{भगा॑य॒ स्वाहा॒ फल्गु॑नीभ्या॒ँ॒ स्वाहा॑।  
+{भगा॑य॒ स्वाहा॒ फल्गु॑नीभ्याँ॒ स्वाहा॑।  
 श्रेष्टाया॑य॒ स्वाहा॑।}
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/10_phAlgunyaH/">
@@ -1003,7 +1003,7 @@ Corvus- α , β , γ , δ , ε Corvi.
 त्वष्टा॒ नक्ष॑त्रम् **अ॒भ्ये॑ति** चि॒त्राम् +++(=Spica)+++।  
 सु॒भँस॑सय्ँ +++(=सुजघनां)+++ युव॒तिँ **रोच॑मानाम्**।  
 **नि॒वे॒शय॑न्न्** अ॒मृता॒न् मर्त्याँ॑श् च।  
-रू॒पाणि॑ **पि॒ँ॒शन्** +++(=निरूपयन्)+++ भुव॑नानि॒ विश्वा॑।  
+रू॒पाणि॑ **पिँ॒शन्** +++(=निरूपयन्)+++ भुव॑नानि॒ विश्वा॑।  
 
 </details>
 </div>
@@ -1014,7 +1014,7 @@ Corvus- α , β , γ , δ , ε Corvi.
 त्वष्टा॒ नक्ष॑त्रम॒भ्ये॑ति चि॒त्राम् ।  
 सु॒भँस॑सय्ँ युव॒तिँ रोच॑मानाम् ॥9॥  
 नि॒वे॒शय॑न्न॒मृता॒न्मर्त्याँ॑श्च ।  
-रू॒पाणि॑ पि॒ँ॒शन्भुव॑नानि॒ विश्वा॑ ।  
+रू॒पाणि॑ पिँ॒शन्भुव॑नानि॒ विश्वा॑ ।  
 
 
 
@@ -1232,7 +1232,7 @@ Corvus- α , β , γ , δ , ε Corvi.
 
 
 
-{इ॒न्द्रा॒ग्निभ्या॒ँ॒ स्वाहा॒ विशा॑खाभ्या॒ँ॒ स्वाहा॑।  
+{इ॒न्द्रा॒ग्निभ्याँ॒ स्वाहा॒ विशा॑खाभ्याँ॒ स्वाहा॑।  
 श्रैष्ठ्या॑य॒ स्वाहा॒ऽभिजि॑त्यै॒ स्वाहा॑।}
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/14_vishAkhe/">

@@ -323,7 +323,7 @@ ________
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(हे उत्तरवेदे!)+++ सि॒ँ॒हीर् अ॑सि ।  
++++(हे उत्तरवेदे!)+++ सिँ॒हीर् अ॑सि ।  
 म॒हि॒षीर् अ॑सि ।
 </details>
 <details><summary>Keith</summary>
@@ -333,16 +333,16 @@ thou art a buffalo.
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-सि॒ँ॒हीर॑सि महि॒षीर॑सि
+सिँ॒हीर॑सि महि॒षीर॑सि
 </details>
 <details><summary>मूलम्</summary>
 
-सि॒ँ॒हीर॑सि ।  
+सिँ॒हीर॑सि ।  
 म॒हि॒षीर॑सि ।
 </details>
 <details><summary>पद-पाठः</summary>
 
-सि॒ँ॒हीः । अ॒सि॒ ।   
+सिँ॒हीः । अ॒सि॒ ।   
 म॒हि॒षीः । अ॒सि॒ । 
 </details>
 
@@ -590,7 +590,7 @@ ________
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सि॒ँ॒हीर् अ॑सि, सपत्न-सा॒ही स्वाहा॑ ।
+सिँ॒हीर् अ॑सि, सपत्न-सा॒ही स्वाहा॑ ।
 </details>
 <details><summary>Keith</summary>
 
@@ -598,11 +598,11 @@ Thou art a lioness, overcoming rivals; hail!
 </details>
 <details><summary>मूलम्</summary>
 
-सि॒ँ॒हीर॑सि सपत्नसा॒ही स्वाहा॑ ।
+सिँ॒हीर॑सि सपत्नसा॒ही स्वाहा॑ ।
 </details>
 <details><summary>पद-पाठः</summary>
 
-सि॒ँ॒हीः । अ॒सि॒ ।   
+सिँ॒हीः । अ॒सि॒ ।   
 स॒प॒त्न॒सा॒हीति॑ सपत्न-सा॒ही । स्वाहा॑ । 
 </details>
 
@@ -620,7 +620,7 @@ ________
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सि॒ँ॒हीर् अ॑सि, सुप्रजा॒-वनि॒स्+++(=काङ्क्षा)+++ स्वाहा॑ ।
+सिँ॒हीर् अ॑सि, सुप्रजा॒-वनि॒स्+++(=काङ्क्षा)+++ स्वाहा॑ ।
 </details>
 <details><summary>Keith</summary>
 
@@ -628,11 +628,11 @@ Thou art a lioness, bestowing fair offspring; hail!
 </details>
 <details><summary>मूलम्</summary>
 
-सि॒ँ॒हीर॑सि सुप्रजा॒वनि॒स्स्वाहा॑ ।
+सिँ॒हीर॑सि सुप्रजा॒वनि॒स्स्वाहा॑ ।
 </details>
 <details><summary>पद-पाठः</summary>
 
-सि॒ँ॒हीः । अ॒सि॒ ।  
+सिँ॒हीः । अ॒सि॒ ।  
 सु॒प्र॒जा॒वनि॒रिति॑ सुप्रजा-वनिः॑ । स्वाहा॑ । 
 </details>
 
@@ -649,7 +649,7 @@ ________
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सि॒ँ॒हीर् अ॑सि, रायस्+++(←छान्दसष् षष्ठ्या अलुक्)+++-पोष॒-वनि॒स्+++(=काङ्क्षा)+++ स्वाहा॑ ।
+सिँ॒हीर् अ॑सि, रायस्+++(←छान्दसष् षष्ठ्या अलुक्)+++-पोष॒-वनि॒स्+++(=काङ्क्षा)+++ स्वाहा॑ ।
 </details>
 <details><summary>Keith</summary>
 
@@ -657,16 +657,16 @@ Thou art a lioness, [2] bestowing increase of wealth; hail!
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-सि॒ँ॒हीः [23]अ॒सि॒ रा॒य॒स्पो॒ष॒वनि॒स्स्वाहा॑ ।
+सिँ॒हीः [23]अ॒सि॒ रा॒य॒स्पो॒ष॒वनि॒स्स्वाहा॑ ।
 </details>
 <details><summary>मूलम्</summary>
 
-सि॒ँ॒हीर॑सि रायस्पोष॒वनि॒स्स्वाहा॑ ।
+सिँ॒हीर॑सि रायस्पोष॒वनि॒स्स्वाहा॑ ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-सि॒ँ॒हीः । [23]  अ॒सि॒ ।  
+सिँ॒हीः । [23]  अ॒सि॒ ।  
 रा॒य॒स्पो॒ष॒वनि॒रिति॑ रायस्पोष-वनिः॑ । स्वाहा॑ । 
 </details>
 
@@ -683,7 +683,7 @@ ________
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सि॒ँ॒हीर् अ॑स्य्, आदित्य॒-वनि॒स्+++(=काङ्क्षा)+++ स्वाहा॑ ।
+सिँ॒हीर् अ॑स्य्, आदित्य॒-वनि॒स्+++(=काङ्क्षा)+++ स्वाहा॑ ।
 </details>
 <details><summary>Keith</summary>
 
@@ -691,11 +691,11 @@ Thou art a lioness, winning (the favour of) the Adityas hail!
 </details>
 <details><summary>मूलम्</summary>
 
-सि॒ँ॒हीर॑स्यादित्य॒वनि॒स्स्वाहा॑ ।
+सिँ॒हीर॑स्यादित्य॒वनि॒स्स्वाहा॑ ।
 </details>
 <details><summary>पद-पाठः</summary>
 
-सि॒ँ॒हीः । अ॒सि॒ ।   
+सिँ॒हीः । अ॒सि॒ ।   
 आ॒दि॒त्य॒वनि॒रित्या॑दित्य-वनिः॑ । स्वाहा॑ । 
 </details>
 
@@ -713,7 +713,7 @@ ________
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सि॒ँ॒हीर् अ॑सि । आ व॑ह दे॒वान् , देवय॒ते+++(=देवान् कामयमानाय, 'शतुरनुमः' इति चतुर्थ्या उदात्तत्वम्)+++ यज॑मानाय॒ स्वाहा॑ ।
+सिँ॒हीर् अ॑सि । आ व॑ह दे॒वान् , देवय॒ते+++(=देवान् कामयमानाय, 'शतुरनुमः' इति चतुर्थ्या उदात्तत्वम्)+++ यज॑मानाय॒ स्वाहा॑ ।
 </details>
 <details><summary>Keith</summary>
 
@@ -721,16 +721,16 @@ Thou art a lioness; bring the gods to the pious sacrificer; hail!
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-सि॒ँ॒हीर॒स्या व॑ह दे॒वान्दे॑वय॒ते यज॑मानाय॒ स्वाहा॑
+सिँ॒हीर॒स्या व॑ह दे॒वान्दे॑वय॒ते यज॑मानाय॒ स्वाहा॑
 </details>
 <details><summary>मूलम्</summary>
 
-सि॒ँ॒हीर॑सि ।  
+सिँ॒हीर॑सि ।  
 आ व॑ह दे॒वान् , देवय॒ते यज॑मानाय॒ स्वाहा॑ ।
 </details>
 <details><summary>पद-पाठः</summary>
 
-सि॒ँ॒हीः । अ॒सि॒ ।   
+सिँ॒हीः । अ॒सि॒ ।   
 एति॑ । व॒ह॒ । दे॒वान् । दे॒व॒य॒त इति॑ देव-य॒ते । यज॑मानाय । स्वाहा॑ । 
 </details>
 
@@ -790,7 +790,7 @@ Thou containest all life, strengthen the earth;
 </details>
 <details><summary>पद-पाठः</summary>
 
-वि॒श्वायु॒रिति॑ वि॒श्व-आ॒युः॒ । अ॒सि॒ । पृ॒थि॒वीम् । दृ॒ँ॒ह॒ । 
+वि॒श्वायु॒रिति॑ वि॒श्व-आ॒युः॒ । अ॒सि॒ । पृ॒थि॒वीम् । दृँ॒ह॒ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -827,7 +827,7 @@ thou restest firm, strengthen the atmosphere;
 <details><summary>पद-पाठः</summary>
 
 ध्रु॒व॒क्षिदिति॑ ध्रुव-क्षित् । अ॒सि॒ ।  
-अ॒न्तरि॑क्षम् । दृ॒ँ॒ह॒ । 
+अ॒न्तरि॑क्षम् । दृँ॒ह॒ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -860,7 +860,7 @@ thou restest inviolable, strengthen the heaven.
 <details><summary>पद-पाठः</summary>
 
 अ॒च्यु॒त॒क्षिदित्य॑च्युत-क्षित् । अ॒सि॒ ।   
-दिव॑म् । दृ॒ँ॒ह॒ । 
+दिव॑म् । दृँ॒ह॒ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

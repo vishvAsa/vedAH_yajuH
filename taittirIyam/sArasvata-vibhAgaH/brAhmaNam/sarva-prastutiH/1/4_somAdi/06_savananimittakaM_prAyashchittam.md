@@ -709,12 +709,12 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-र॒थ॒न्त॒रसा॑म एषा॒ँ॒ सोम॑स् स्यात् ।  
+र॒थ॒न्त॒रसा॑म एषाँ॒ सोम॑स् स्यात् ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
-र॒थ॒न्त॒रसा॑म एषा॒ँ॒ सोम॑स् स्यात् ।  
+र॒थ॒न्त॒रसा॑म एषाँ॒ सोम॑स् स्यात् ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

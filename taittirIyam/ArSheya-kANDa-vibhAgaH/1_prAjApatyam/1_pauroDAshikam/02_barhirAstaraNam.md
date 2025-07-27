@@ -48,7 +48,7 @@ ____
 <details open><summary><h2>प्रत्युष्टं रक्षः ...{Loading}...</h2></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रत्यु॑ष्ट॒ँ॒ रक्ष॒ᳶ, प्रत्यु॑ष्टा॒ अरा॑तयः+++(=अदातारः)+++।
+प्रत्यु॑ष्टँ॒ रक्ष॒ᳶ, प्रत्यु॑ष्टा॒ अरा॑तयः+++(=अदातारः)+++।
 </details>
 <details><summary>Keith</summary>
 
@@ -57,11 +57,11 @@ The Raksas is burned up, the evil spirits are burned up.
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-प्रत्यु॑ष्ट॒ँ॒ रक्ष॒ᳶ प्रत्यु॑ष्टा॒ अरा॑तयः
+प्रत्यु॑ष्टँ॒ रक्ष॒ᳶ प्रत्यु॑ष्टा॒ अरा॑तयः
 </details>
 <details><summary>मूलम्</summary>
 
-प्रत्यु॑ष्ट॒ँ॒ रक्षः॑ ।  
+प्रत्यु॑ष्टँ॒ रक्षः॑ ।  
 प्रत्यु॑ष्टा॒ अरा॑तयः ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>

@@ -93,7 +93,7 @@ title = "०८ विधुराग्निसन्धानक्रमः"
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_11_jAtavedase_sunavAma_taittirIyakam/09_pRtanAjitaM_sahamAnam.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-पृ॒त॒ना॒जित॒ँ सह॑मानम् उ॒ग्रम्  
+पृ॒त॒ना॒जितँ॒ सह॑मानम् उ॒ग्रम्  
 अ॒ग्निँ हु॑वेम पर॒मात् स॒धस्था॑त्+++(=सहवासाद् [देशात्])+++।  
 स नः॑ पर्ष॒द्+++(=पारयति)+++ अति॑ दु॒र्गाणि॒ विश्वा॒  
 क्षाम॑द्+++(=क्षममाणः)+++ दे॒वो अति॑ दुरि॒तात्य् अ॒ग्निः॥

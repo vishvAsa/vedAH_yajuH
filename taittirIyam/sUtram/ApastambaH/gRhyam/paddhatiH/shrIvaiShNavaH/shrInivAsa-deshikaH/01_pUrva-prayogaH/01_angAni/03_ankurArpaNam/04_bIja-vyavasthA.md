@@ -358,7 +358,7 @@ To the self of thee, O man.
 अति॒ विश्वाः॑ +++(शरीरम्)+++ **परि॒ ष्ठास्**  
 स्ते॒न इ॑व व्र॒जम् **अ॑क्रमुः** ।  
 ओष॑धय॒ᳶ **प्राचु॑च्यवु॒र्**  
-यत् किञ् च॑ त॒नुवा॒ँ॒ रपः॑ ।
+यत् किञ् च॑ त॒नुवाँ॒ रपः॑ ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/12_ati_vishvAH.md">
@@ -373,7 +373,7 @@ Every defilement in the body.
 <details><summary>मूलम्</summary>
 
 अति॒ विश्वाः॑ परि॒ष्ठास्स्ते॒न इ॑व व्र॒जम॑क्रमुः ।  
-ओष॑धय॒ᳶ प्राचु॑च्यवु॒र्यत्किञ्च॑ त॒नुवा॒ँ॒ रपः॑ ।
+ओष॑धय॒ᳶ प्राचु॑च्यवु॒र्यत्किञ्च॑ त॒नुवाँ॒ रपः॑ ।
 </details>
 <details><summary>सायण-टीका</summary>
 
@@ -593,7 +593,7 @@ Give ye him healing.
 
 **मा** वो॑ रिषत् **खनि॒ता**,  
 +++(तथा)+++ यस्मै॑ चा॒हङ् **खना॑मि** वः ।  
-द्वि॒पच् चतु॑ष्पद् अ॒स्माक॒ँ॒  
+द्वि॒पच् चतु॑ष्पद् अ॒स्माकँ॒  
 सर्व॑म् **अ॒स्त्व् अना॑तुरम्** ।
 </details>
 </div>
@@ -609,7 +609,7 @@ Be free from disease.
 <details><summary>मूलम्</summary>
 
 मा वो॑ रिषत्खनि॒ता यस्मै॑ चा॒हङ्खना॑मि वः ।  
-द्वि॒पच्चतु॑ष्पद॒स्माक॒ँ॒ सर्व॑म॒स्त्वना॑तुरम् ।
+द्वि॒पच्चतु॑ष्पद॒स्माकँ॒ सर्व॑म॒स्त्वना॑तुरम् ।
 </details>
 <details><summary>सायण-टीका</summary>
 

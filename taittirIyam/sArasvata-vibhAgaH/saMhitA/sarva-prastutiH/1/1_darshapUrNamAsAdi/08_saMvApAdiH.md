@@ -380,7 +380,7 @@ ____
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अन्तरि॑त॒ँ॒ रक्षो॒  
+अन्तरि॑तँ॒ रक्षो॒  
 ऽन्तरि॑ता॒ अरा॑तयः +++(→दि॒वि नाको॒ नामा॒ग्नी र॑क्षो॒हा)+++।  
 +++(अप्रदग्धश् च यजमानः।)+++
 </details>
@@ -390,7 +390,7 @@ I The Raksas is obstructed, the evil spirits are obstructed.
 </details>
 <details><summary>मूलम्</summary>
 
-अन्तरि॑त॒ँ॒ रक्षो॒ऽन्तरि॑ता॒ अरा॑तयः ।
+अन्तरि॑तँ॒ रक्षो॒ऽन्तरि॑ता॒ अरा॑तयः ।
 </details>
 
 <details><summary>पद-पाठः</summary>

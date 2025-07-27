@@ -466,7 +466,7 @@ Die sieben Ströme wahren schutzreich seinen Ruhm, die weiten Erd' und Himmel se
 </details>
 <details><summary>मूलम्</summary>
 
-हिर॑ण्यवर्णा॒श्शुच॑यᳶ पाव॒का यासा॒ँ॒ राजा॑ ।
+हिर॑ण्यवर्णा॒श्शुच॑यᳶ पाव॒का यासाँ॒ राजा॑ ।
 </details>
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/03_hiraNyavarNAsh_shuchayapH.md">
 <details open><summary><h8>विश्वास-प्रस्तुतिः ...{Loading}...</h8></summary>
@@ -495,14 +495,14 @@ Die sieben Ströme wahren schutzreich seinen Ruhm, die weiten Erd' und Himmel se
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-यासा॒ँ॒ राजा॒ वरु॑णो॒ याति॒ मध्ये॑ सत्यानृ॒ते अ॑व॒पश्य॒ञ्जना॑नाम् । म॒धु॒श्चुत॒श्शुच॑यो॒ याᳶ पा॑व॒कास्ता न॒ आप॒श्शँ स्यो॒ना भ॑वन्तु ।
+यासाँ॒ राजा॒ वरु॑णो॒ याति॒ मध्ये॑ सत्यानृ॒ते अ॑व॒पश्य॒ञ्जना॑नाम् । म॒धु॒श्चुत॒श्शुच॑यो॒ याᳶ पा॑व॒कास्ता न॒ आप॒श्शँ स्यो॒ना भ॑वन्तु ।
 </details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/08_yAsAM_rAjA.md">
 <details open><summary><h8>विश्वास-प्रस्तुतिः ...{Loading}...</h8></summary>
 
-यासा॒ँ॒ राजा॒ वरु॑णो॒ **याति॒** मध्ये॑,  
+यासाँ॒ राजा॒ वरु॑णो॒ **याति॒** मध्ये॑,  
 सत्यानृ॒ते **अ॑व॒पश्य॒ञ्** जना॑नाम् ।  
 म॒धु॒श्-**चुत॒श्** शुच॑यो॒ याᳶ पा॑व॒कास् -  
 ता न॒ आप॒श् शँ स्यो॒ना **भ॑वन्तु** ।
@@ -512,7 +512,7 @@ Die sieben Ströme wahren schutzreich seinen Ruhm, die weiten Erd' und Himmel se
 <details open><summary><h8>विश्वास-प्रस्तुतिः ...{Loading}...</h8></summary>
 <details><summary>मूलम्</summary>
 
-यासा॒ँ॒ राजा॒ वरु॑णो॒ याति॒ मध्ये॑, सत्यानृ॒ते अ॑व॒पश्य॒ञ् जना॑नाम् ।
+यासाँ॒ राजा॒ वरु॑णो॒ याति॒ मध्ये॑, सत्यानृ॒ते अ॑व॒पश्य॒ञ् जना॑नाम् ।
 
 म॒धु॒श्चुत॒श् शुच॑यो॒ याᳶ पा॑व॒कास् - ता न॒ आप॒श् शँ स्यो॒ना भ॑वन्तु ।
 </details>

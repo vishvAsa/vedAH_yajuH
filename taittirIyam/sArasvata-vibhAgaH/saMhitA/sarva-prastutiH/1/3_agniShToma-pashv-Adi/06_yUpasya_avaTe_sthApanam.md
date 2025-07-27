@@ -288,7 +288,7 @@ Support the sky, fill the atmosphere, with thy base make firm the earth.
 </details>
 <details><summary>पद-पाठः</summary>
 
-उदिति॑ । दिव॑म् । स्त॒भा॒न॒ । एति॑ । अ॒न्तरि॑क्षम् । पृ॒ण॒ । पृ॒थि॒वीम् । उप॑रेण । दृ॒ँ॒ह॒ । 
+उदिति॑ । दिव॑म् । स्त॒भा॒न॒ । एति॑ । अ॒न्तरि॑क्षम् । पृ॒ण॒ । पृ॒थि॒वीम् । उप॑रेण । दृँ॒ह॒ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

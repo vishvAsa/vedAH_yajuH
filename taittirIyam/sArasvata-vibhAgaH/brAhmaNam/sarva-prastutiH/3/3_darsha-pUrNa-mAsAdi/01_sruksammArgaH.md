@@ -3,19 +3,19 @@ title: ०१ स्रुक्-सम्मार्गः
 unicode_script: devanagari
 ---
 
-## प्रत्यु॑ष्ट॒ँ॒ रक्ष॒ᳶ
+## प्रत्यु॑ष्टँ॒ रक्ष॒ᳶ
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/02_barhirAharaNam/pratyuShTaM_raxaH.md"  newLevelForH1="5" includeTitle="false"> 
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"प्रत्यु॑ष्ट॒ँ॒ रक्ष॒ᳶ प्रत्यु॑ष्टा॒ अरा॑तय॒" इत्या॑ह ।  
+"प्रत्यु॑ष्टँ॒ रक्ष॒ᳶ प्रत्यु॑ष्टा॒ अरा॑तय॒" इत्या॑ह ।  
 रक्ष॑सा॒म् अप॑हत्यै ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-"प्रत्यु॑ष्ट॒ँ॒ रक्ष॒ᳶ प्रत्यु॑ष्टा॒ अरा॑तय॒" इत्या॑ह ।  
+"प्रत्यु॑ष्टँ॒ रक्ष॒ᳶ प्रत्यु॑ष्टा॒ अरा॑तय॒" इत्या॑ह ।  
 रक्ष॑सा॒म् अप॑हत्यै ।
 </details>
 </div>  

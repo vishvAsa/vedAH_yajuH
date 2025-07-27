@@ -76,12 +76,12 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-चक्षु॑ष॒श् श्रोत्र॒ँ॒ सन्त॑नु ।
+चक्षु॑ष॒श् श्रोत्रँ॒ सन्त॑नु ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-चक्षु॑ष॒श् श्रोत्र॒ँ॒ सन्त॑नु ।
+चक्षु॑ष॒श् श्रोत्रँ॒ सन्त॑नु ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -93,14 +93,14 @@ unicode_script: devanagari
 
 श्रोत्रा॒न् मन॒स् सन्त॑नु ।
 
-मन॑सो॒ वाच॒ँ॒ सन्त॑नु ।
+मन॑सो॒ वाचँ॒ सन्त॑नु ।
 </details>
 
 <details><summary>मूलम्</summary>
 
 श्रोत्रा॒न् मन॒स् सन्त॑नु ।
 
-मन॑सो॒ वाच॒ँ॒ सन्त॑नु ।
+मन॑सो॒ वाचँ॒ सन्त॑नु ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -110,12 +110,12 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वा॒च आ॒त्मान॒ँ॒ सन्त॑नु ।
+वा॒च आ॒त्मानँ॒ सन्त॑नु ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-वा॒च आ॒त्मान॒ँ॒ सन्त॑नु ।
+वा॒च आ॒त्मानँ॒ सन्त॑नु ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -126,13 +126,13 @@ unicode_script: devanagari
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ॒त्मन॑ᳶ पृथि॒वीँ सन्त॑नु ।
-पृ॒थि॒व्या अ॒न्तरि॑क्ष॒ँ॒ सन्त॑नु ।
+पृ॒थि॒व्या अ॒न्तरि॑क्षँ॒ सन्त॑नु ।
 </details>
 
 <details><summary>मूलम्</summary>
 
 आ॒त्मन॑ᳶ पृथि॒वीँ सन्त॑नु ।
-पृ॒थि॒व्या अ॒न्तरि॑क्ष॒ँ॒ सन्त॑नु ।
+पृ॒थि॒व्या अ॒न्तरि॑क्षँ॒ सन्त॑नु ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

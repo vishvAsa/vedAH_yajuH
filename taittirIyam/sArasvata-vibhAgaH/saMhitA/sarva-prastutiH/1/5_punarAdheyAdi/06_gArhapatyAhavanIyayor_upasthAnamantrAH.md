@@ -176,11 +176,11 @@ _______
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-स॒ँ॒हि॒तासि॑ विश्वरू॒पीरा मो॒र्जा वि॒शाऽऽगौ॑प॒त्येनाऽऽरा॒यस्पोषे॑ण सहस्रपो॒षव्ँवᳶ॑ पुष्यास॒म्मयि॑ वो॒ राय॑श्श्रयन्ताम् ॥  
+सँ॒हि॒तासि॑ विश्वरू॒पीरा मो॒र्जा वि॒शाऽऽगौ॑प॒त्येनाऽऽरा॒यस्पोषे॑ण सहस्रपो॒षव्ँवᳶ॑ पुष्यास॒म्मयि॑ वो॒ राय॑श्श्रयन्ताम् ॥  
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒ँ॒हि॒ता ऽसि॑ +++(मात्रा)+++ विश्वरू॒पीर् -  
+सँ॒हि॒ता ऽसि॑ +++(मात्रा)+++ विश्वरू॒पीर् -  
 आ मो॒र्जा  वि॑श॒
 आ गौ॑प॒त्येन॑   
 आरा॒यस्-पोषे॑ण ।
@@ -191,7 +191,7 @@ Thou art composed of every form; enter me with strength, with lordship of kine, 
 </details>
 <details><summary>मूलम्</summary>
 
-स॒ँ॒हि॒तासि॑ विश्वरू॒पीर्  - 
+सँ॒हि॒तासि॑ विश्वरू॒पीर्  - 
 आ मो॒र्जा  वि॑श॒
 आ गौ॑प॒त्येन॑   
 आरा॒यस्पोषे॑ण ।
@@ -505,7 +505,7 @@ _______
 
 राज॑न्तम् अध्व॒राणा॑ङ्,  
 गो॒पाम् ऋ॒तस्य॒, दीदि॑विम् ।  
-वर्ध॑मान॒ँ॒ स्वे दमे॑+++(=गृहे)+++ ॥
+वर्ध॑मानँ॒ स्वे दमे॑+++(=गृहे)+++ ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/70_rAjantam_adhvarANA~N.md">
@@ -519,7 +519,7 @@ Waxing in his own horne.
 <details><summary>मूलम्</summary>
 
 राज॑न्तमध्व॒राणा॑ङ्गो॒पामृ॒तस्य॒ दीदि॑विम् ।  
-वर्ध॑मान॒ँ॒ स्वे दमे॑  ॥
+वर्ध॑मानँ॒ स्वे दमे॑  ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

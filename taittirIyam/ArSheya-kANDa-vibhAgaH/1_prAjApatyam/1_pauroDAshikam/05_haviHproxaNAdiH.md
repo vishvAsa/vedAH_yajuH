@@ -210,7 +210,7 @@ ____
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अव॑धूत॒ँ॒ रक्षोऽव॑धूता॒ अरा॑त॒यः ।
+अव॑धूतँ॒ रक्षोऽव॑धूता॒ अरा॑त॒यः ।
 </details>
 <details><summary>Keith</summary>
 
@@ -508,7 +508,7 @@ ____
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-परा॑पूत॒ँ॒ रक्ष॒ᳶ  
+परा॑पूतँ॒ रक्ष॒ᳶ  
 परा॑पूता॒ अरा॑तयः  ।
 
 +++('यज्ञँ रक्षाँस्यनुप्राविशन्' (तै.ब्रा. 3.2.5) इति ब्राह्मणम् ॥)+++
@@ -519,7 +519,7 @@ The Raksas is cleared away, the evil spirits are cleared away.
 </details>
 <details><summary>मूलम्</summary>
 
-परा॑पूत॒ँ॒ रक्ष॒ᳶ परा॑पूता॒ अरा॑तयः  ।
+परा॑पूतँ॒ रक्ष॒ᳶ परा॑पूता॒ अरा॑तयः  ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

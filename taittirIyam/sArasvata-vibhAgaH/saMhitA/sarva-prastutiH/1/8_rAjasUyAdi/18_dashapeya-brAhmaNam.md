@@ -192,7 +192,7 @@ a cow to the Maitravaruna,
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऋ॒ष॒भम् ब्रा॑ह्मणाच्छ॒ँ॒सिने॑   +++(ददाति)+++ ।
+ऋ॒ष॒भम् ब्रा॑ह्मणाच्छँ॒सिने॑   +++(ददाति)+++ ।
 </details>
 <details><summary>Keith</summary>
 
@@ -200,7 +200,7 @@ a bull to the Brahmanacchansin,
 </details>
 <details><summary>मूलम्</summary>
 
-ऋ॒ष॒भम्ब्रा॑ह्मणाच्छ॒ँ॒सिने॑   +++(ददाति)+++ ।
+ऋ॒ष॒भम्ब्रा॑ह्मणाच्छँ॒सिने॑   +++(ददाति)+++ ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

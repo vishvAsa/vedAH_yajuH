@@ -345,7 +345,7 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/2/4/14_kAmyeShTiyAjyApuronuvAkyAH/23_yam_AdityA.md">
 <details open><summary><h8>विश्वास-प्रस्तुतिः ...{Loading}...</h8></summary>
 
-यम् +++(सोमं)+++ आ॑दि॒त्या अ॒ँ॒शुम् **आ॑प्या॒यय॑न्ति॒**  
+यम् +++(सोमं)+++ आ॑दि॒त्या अँ॒शुम् **आ॑प्या॒यय॑न्ति॒**  
 यम् अक्षि॑त॒म् अक्षि॑तय॒ᳶ **पिब॑न्ति** ।  
 तेन॑ नो॒ राजा॒ वरु॑णो॒ बृह॒स्-पति॒र्  
 **आ प्या॑ययन्तु॒** भुव॑नस्य गो॒पाः ।
@@ -355,7 +355,7 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 <details open><summary><h8>सर्वाष् टीकाः ...{Loading}...</h8></summary>
 <details><summary>मूलम्</summary>
 
-यमा॑दि॒त्या अ॒ँ॒शुमा॑प्या॒यय॑न्ति॒ यमक्षि॑त॒मक्षि॑तय॒ᳶ पिब॑न्ति ।  
+यमा॑दि॒त्या अँ॒शुमा॑प्या॒यय॑न्ति॒ यमक्षि॑त॒मक्षि॑तय॒ᳶ पिब॑न्ति ।  
 तेन॑ नो॒ राजा॒ वरु॑णो॒ बृह॒स्पति॒रा प्या॑ययन्तु॒ भुव॑नस्य गो॒पाः ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>

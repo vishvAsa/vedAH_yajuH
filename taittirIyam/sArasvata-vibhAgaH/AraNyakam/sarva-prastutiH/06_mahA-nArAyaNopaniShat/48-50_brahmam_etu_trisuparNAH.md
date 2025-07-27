@@ -545,7 +545,7 @@ O schaffe alles Ungemach von uns hinweg, Gott Savitar; Was heilsam ist, das scha
 <details open><summary><h5>03 मधु नक्तम् ...{Loading}...</h5></summary>
 
 मधु॒ नक्त॑म् उ॒तोषसि॒  
-मधु॑म॒त् पार्थि॑व॒ँ॒ रजः॑ ।   
+मधु॑म॒त् पार्थि॑वँ॒ रजः॑ ।   
 मधु॒ द्यौर॑स्तु नः पि॒ता ॥
 </details>
 </div>
@@ -554,7 +554,7 @@ O schaffe alles Ungemach von uns hinweg, Gott Savitar; Was heilsam ist, das scha
 <details><summary>मूलम्</summary>
 
 मधु॒ नक्त॑म् उ॒तोषसि॒  
-मधु॑म॒त् पार्थि॑व॒ँ॒ रजः॑ ।   
+मधु॑म॒त् पार्थि॑वँ॒ रजः॑ ।   
 मधु॒ द्यौर॑स्तु नः पि॒ता ॥
 </details>
 </details>
@@ -888,7 +888,7 @@ Der Götter Beter und der Priester Führer, der Sänger Dichter und der Stier de
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_2/01_haMsash_shuchiShad.md">
 <details open><summary><h5>01 हंसश् शुचिषद् ...{Loading}...</h5></summary>
 
-+++(अहं)+++ ह॒ँ॒सश् शु॑चि॒-षद्, वसु॑र् अन्तरिक्ष॒-सद्,  
++++(अहं)+++ हँ॒सश् शु॑चि॒-षद्, वसु॑र् अन्तरिक्ष॒-सद्,  
 +होता॑ वेदि॒-षद्, अति॑थिर् दुरोण॒-सत् ।  
 नृ॒-षद्, व॑र॒-सद्, ऋ॑त॒-सद् व्यो॑म॒-सद्,  
 अ॒ब्-जा, गो॒-जा, ऋ॑त॒-जा, अ॑द्रि॒-जा, ऋ॒तं बृ॒हत् ॥
@@ -898,7 +898,7 @@ Der Götter Beter und der Priester Führer, der Sänger Dichter und der Stier de
 <details open><summary><h5>01 हंसश् शुचिषद् ...{Loading}...</h5></summary>
 <details><summary>मूलम्</summary>
 
-ह॒ँ॒सश्शु॑चि॒षद्वसु॑रन्तरिक्ष॒सद्धोता॑ वेदि॒षदति॑थिर्दुरोण॒सत् ।  
+हँ॒सश्शु॑चि॒षद्वसु॑रन्तरिक्ष॒सद्धोता॑ वेदि॒षदति॑थिर्दुरोण॒सत् ।  
 नृ॒षद्व॑र॒सदृ॑त॒सद्व्यो॑म॒सद॒ब्जा गो॒जा ऋ॑त॒जा अ॑द्रि॒जा ऋ॒तम्बृ॒हत् ॥ [30]
 </details>
 <details><summary>Keith</summary>

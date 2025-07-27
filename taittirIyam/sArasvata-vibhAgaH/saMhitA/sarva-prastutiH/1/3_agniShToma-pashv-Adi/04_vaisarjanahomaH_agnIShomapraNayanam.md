@@ -18,7 +18,7 @@ _______
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-त्वँ सो॑म तनू॒कृद्भ्यो॒ द्वेषो॑भ्यो॒ऽन्यकृ॑तेभ्य उ॒रु य॒न्तासि॒ वरू॑थ॒ँ॒ स्वाहा॑
+त्वँ सो॑म तनू॒कृद्भ्यो॒ द्वेषो॑भ्यो॒ऽन्यकृ॑तेभ्य उ॒रु य॒न्तासि॒ वरू॑थँ॒ स्वाहा॑
 </details>
 <div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/079/03_tvaM_soma.md">
 <details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>

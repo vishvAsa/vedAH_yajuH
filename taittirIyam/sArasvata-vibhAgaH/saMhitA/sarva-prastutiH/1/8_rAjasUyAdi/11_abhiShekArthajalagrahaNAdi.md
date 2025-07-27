@@ -1941,7 +1941,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒पामोष॑धीना॒ँ॒ रस॑स्स्थ  ।      
+अ॒पामोष॑धीनाँ॒ रस॑स्स्थ  ।      
 </details>
 <details><summary>Keith</summary>
 
@@ -1949,7 +1949,7 @@ ye are the sap of the waters, of the plants.
 </details>
 <details><summary>मूलम्</summary>
 
-अ॒पामोष॑धीना॒ँ॒ रस॑स्स्थ  ।      
+अ॒पामोष॑धीनाँ॒ रस॑स्स्थ  ।      
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -2023,7 +2023,7 @@ Ye are givers of the kingdom; give N. N. the kingdom.
 </div>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[अ॒पामोष॑धीना॒ँ॒ रस॑स्स्थ  ।]
+[अ॒पामोष॑धीनाँ॒ रस॑स्स्थ  ।]
 </details>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
 <details open><summary><h5>राष्ट्रदाः अमुष्मै ...{Loading}...</h5></summary>

@@ -341,12 +341,12 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदा॑वस॒थे ऽन्न॒ँ॒ हर॑न्ति ।  
+यदा॑वस॒थे ऽन्नँ॒ हर॑न्ति ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
-यदा॑वस॒थे ऽन्न॒ँ॒ हर॑न्ति ।  
+यदा॑वस॒थे ऽन्नँ॒ हर॑न्ति ।  
 </details>
 
 
