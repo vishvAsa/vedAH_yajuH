@@ -406,7 +406,7 @@ ________________
 </div>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वा॒यवे᳚ त्वा  ।
+वा॒यवे॑ त्वा  ।
 </details>
 <details><summary>Keith</summary>
 
@@ -414,7 +414,7 @@ to Vayu thee!
 </details>
 <details><summary>मूलम्</summary>
 
-वा॒यवे᳚ त्वा  ।
+वा॒यवे॑ त्वा  ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -720,7 +720,7 @@ ________________
 </div>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒न्द्र॒वा॒युभ्या᳚न्त्वा ।
+इ॒न्द्र॒वा॒युभ्या॑न्त्वा ।
 </details>
 <details><summary>Keith</summary>
 
@@ -728,7 +728,7 @@ ________________
 </details>
 <details><summary>मूलम्</summary>
 
-इ॒न्द्र॒वा॒युभ्या᳚न्त्वा ।
+इ॒न्द्र॒वा॒युभ्या॑न्त्वा ।
 </details>
 
 _______
@@ -758,7 +758,7 @@ This is thy birthplace;
 </div>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒जोषा᳚भ्यान् +++(इन्द्रवायुभ्यां)+++ त्वा ॥  [5]
+स॒जोषा॑भ्यान् +++(इन्द्रवायुभ्यां)+++ त्वा ॥  [5]
 </details>
 <details><summary>Keith</summary>
 
@@ -767,7 +767,7 @@ to the comrades thee!
 </details>
 <details><summary>मूलम्</summary>
 
-स॒जोषा᳚भ्यान्त्वा ॥  [5]
+स॒जोषा॑भ्यान्त्वा ॥  [5]
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

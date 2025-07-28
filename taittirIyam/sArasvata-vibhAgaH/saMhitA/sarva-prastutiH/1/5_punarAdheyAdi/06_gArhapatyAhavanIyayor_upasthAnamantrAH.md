@@ -42,7 +42,7 @@ May they all be in our house.
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-अम्भ॒स्स्थाम्भो॑ वो भख्षीय॒ मह॑स्स्थ॒ महो॑ वो भख्षीय॒ सह॑स्स्थ॒ सहो॑ वो भख्षी॒योर्ज॒स्स्थोर्ज॑व्ँवो भख्षीय॒ रेव॑ती॒ रम॑ध्वम॒स्मिल्ँ लो॒के᳚ऽस्मिन्गो॒ष्ठे᳚ऽस्मिन्ख्षये॒ऽस्मिन् योना॑वि॒हैव स्ते॒तो माऽप॑ गात ब॒ह्वीर्मे॑ भूयास्त
+अम्भ॒स्स्थाम्भो॑ वो भक्षीय॒ मह॑स्स्थ॒ महो॑ वो भक्षीय॒ सह॑स्स्थ॒ सहो॑ वो भक्षी॒योर्ज॒स्स्थोर्ज॑व्ँवो भक्षीय॒ रेव॑ती॒ रम॑ध्वम॒स्मिल्ँ लो॒के॑ऽस्मिन्गो॒ष्ठे॑ऽस्मिन्क्षये॒ऽस्मिन् योना॑वि॒हैव स्ते॒तो माऽप॑ गात ब॒ह्वीर्मे॑ भूयास्त
 </details>
 </details>
 </div>
@@ -56,7 +56,7 @@ _______
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(पशवः!)+++ अम्भ॑स् स्थ।  
-अम्भो॑ वो भख्षीय।
+अम्भो॑ वो भक्षीय।
 </details>
 <details><summary>Keith</summary>
 
@@ -66,7 +66,7 @@ may I share your water.
 <details><summary>मूलम्</summary>
 
 अम्भ॑स्स्थ।  
-अम्भो॑ वो भख्षीय।
+अम्भो॑ वो भक्षीय।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -78,7 +78,7 @@ may I share your water.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(पशवः!)+++ मह॑स् स्थ॒, महो॑ वो भख्षीय ।
++++(पशवः!)+++ मह॑स् स्थ॒, महो॑ वो भक्षीय ।
 </details>
 <details><summary>Keith</summary>
 
@@ -86,7 +86,7 @@ Ye are greatness, may I share your greatness;
 </details>
 <details><summary>मूलम्</summary>
 
-मह॑स्स्थ॒ महो॑ वो भख्षीय ।
+मह॑स्स्थ॒ महो॑ वो भक्षीय ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -94,7 +94,7 @@ Ye are greatness, may I share your greatness;
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(पशवः!)+++ सह॑स्स्थ॒ - सहो॑ वो भख्षी॒य ।
++++(पशवः!)+++ सह॑स्स्थ॒ - सहो॑ वो भक्षी॒य ।
 </details>
 <details><summary>Keith</summary>
 
@@ -102,7 +102,7 @@ ye are might, may I share your might;
 </details>
 <details><summary>मूलम्</summary>
 
-सह॑स्स्थ॒ सहो॑ वो भख्षी॒य ।
+सह॑स्स्थ॒ सहो॑ वो भक्षी॒य ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -110,7 +110,7 @@ ye are might, may I share your might;
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(पशवः!)+++ ऊर्ज॑स् स्थ॒, ऊर्ज॑व्ँव भख्षीय ।
++++(पशवः!)+++ ऊर्ज॑स् स्थ॒, ऊर्ज॑व्ँव भक्षीय ।
 </details>
 <details><summary>Keith</summary>
 
@@ -118,7 +118,7 @@ ye are strength, may I share your strength.
 </details>
 <details><summary>मूलम्</summary>
 
-ऊर्ज॑स्स्थ॒, ऊर्ज॑व्ँव भख्षीय ।
+ऊर्ज॑स्स्थ॒, ऊर्ज॑व्ँव भक्षीय ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -130,8 +130,8 @@ ye are strength, may I share your strength.
 रेव॑ती॒+++(←रयिः)+++ रम॑ध्वम्
 अ॒स्मिन् लो॒के   
 अ॒स्मिन् गो॒ष्ठे   
-अ॒स्मिन् ख्षये॒  
-ऽस्मिन् योनौ᳚  ।  
+अ॒स्मिन् क्षये॒  
+ऽस्मिन् योनौ॑  ।  
 इ॒हैव स्त॑ ।  
 इ॒तो  माऽप॑ गात ।  
 ब॒ह्वीर्मे॑ भूयास्त [21] ।
@@ -147,7 +147,7 @@ be many for me [1].
 रेव॑ती॒ रम॑ध्वम् 
 अ॒स्मिन्लो॒के   
 अ॒स्मिन्गो॒ष्ठे   
-अ॒स्मिन् ख्षये॒ऽस्मिन् योनौ᳚  ।  
+अ॒स्मिन् क्षये॒ऽस्मिन् योनौ॑  ।  
 इ॒हैव स्त॑ ।  
 इ॒तो  माऽप॑ गात ।  
 ब॒ह्वीर्मे॑ भूयास्त [21] ।
@@ -176,11 +176,11 @@ _______
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-स॒ꣳ॒हि॒तासि॑ विश्वरू॒पीरा मो॒र्जा वि॒शाऽऽगौ॑प॒त्येनाऽऽरा॒यस्पोषे॑ण सहस्रपो॒षव्ँवᳶ॑ पुष्यास॒म्मयि॑ वो॒ राय॑श्श्रयन्ताम् ॥  
+सँ॒हि॒तासि॑ विश्वरू॒पीरा मो॒र्जा वि॒शाऽऽगौ॑प॒त्येनाऽऽरा॒यस्पोषे॑ण सहस्रपो॒षव्ँवᳶ॑ पुष्यास॒म्मयि॑ वो॒ राय॑श्श्रयन्ताम् ॥  
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒ꣳ॒हि॒ता ऽसि॑ +++(मात्रा)+++ विश्वरू॒पीर् -  
+सँ॒हि॒ता ऽसि॑ +++(मात्रा)+++ विश्वरू॒पीर् -  
 आ मो॒र्जा  वि॑श॒
 आ गौ॑प॒त्येन॑   
 आरा॒यस्-पोषे॑ण ।
@@ -191,7 +191,7 @@ Thou art composed of every form; enter me with strength, with lordship of kine, 
 </details>
 <details><summary>मूलम्</summary>
 
-स॒ꣳ॒हि॒तासि॑ विश्वरू॒पीर्  - 
+सँ॒हि॒तासि॑ विश्वरू॒पीर्  - 
 आ मो॒र्जा  वि॑श॒
 आ गौ॑प॒त्येन॑   
 आरा॒यस्पोषे॑ण ।
@@ -503,9 +503,9 @@ _______
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/70_rAjantam_adhvarANA~N.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-राज॑न्तम् अध्व॒राणा᳚ङ्,  
+राज॑न्तम् अध्व॒राणा॑ङ्,  
 गो॒पाम् ऋ॒तस्य॒, दीदि॑विम् ।  
-वर्ध॑मान॒ꣵ॒ स्वे दमे᳚+++(=गृहे)+++ ॥
+वर्ध॑मानँ॒ स्वे दमे॑+++(=गृहे)+++ ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/70_rAjantam_adhvarANA~N.md">
@@ -518,8 +518,8 @@ Waxing in his own horne.
 </details>
 <details><summary>मूलम्</summary>
 
-राज॑न्तमध्व॒राणा᳚ङ्गो॒पामृ॒तस्य॒ दीदि॑विम् ।  
-वर्ध॑मान॒ꣵ॒ स्वे दमे᳚  ॥
+राज॑न्तमध्व॒राणा॑ङ्गो॒पामृ॒तस्य॒ दीदि॑विम् ।  
+वर्ध॑मानँ॒ स्वे दमे॑  ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -548,7 +548,7 @@ _______
 
 स नᳶ॑ पि॒तेव॑ सू॒नवे  
 ऽग्ने॑ **सूपाय॒नो भ॑व** ।  
-**सच॑स्वा**+++(=सङ्गच्छस्व)+++ नस् स्व॒स्तये᳚  ॥
+**सच॑स्वा**+++(=सङ्गच्छस्व)+++ नस् स्व॒स्तये॑  ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/75_sa_napH.md">
@@ -562,7 +562,7 @@ Befriend us for prosperity.
 <details><summary>मूलम्</summary>
 
 स नᳶ॑ पि॒तेव॑ सू॒नवेऽग्ने॑ सूपाय॒नो भ॑व ।  
-सच॑स्वा नस्स्व॒स्तये᳚  ॥
+सच॑स्वा नस्स्व॒स्तये॑  ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -583,7 +583,7 @@ _______
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/80_agne_tvan.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-अग्ने᳚ [22] त्वन् नो॒ अन्त॑मः+++(=अन्तिकतमः)+++ ।  
+अग्ने॑ [22] त्वन् नो॒ अन्त॑मः+++(=अन्तिकतमः)+++ ।  
 उ॒त त्रा॒ता **शि॒वो भ॑व** वरू॒थ्यः॑+++(=गृह्यः)+++  ॥
 </details>
 </div>
@@ -596,7 +596,7 @@ Our protector, kindly, a shield;
 </details>
 <details><summary>मूलम्</summary>
 
-अग्ने᳚ [22] त्वन्नो॒ अन्त॑मः ।  
+अग्ने॑ [22] त्वन्नो॒ अन्त॑मः ।  
 उ॒त त्रा॒ता शि॒वो भ॑व वरू॒थ्यः॑  ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -793,7 +793,7 @@ Denn dich, o hellster, leuchtender, begehren wir zum Heil nun für die Freunde.
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 वसु॑र् अ॒ग्निर् वसु॑-श्रवाः ।  
-अच्छा॑ **नख्षि**+++(=प्राप्नुहि)+++ द्यु॒मत्त॑मो र॒यिन्दाः᳚  ॥
+अच्छा॑ **नक्षि**+++(=प्राप्नुहि)+++ द्यु॒मत्त॑मो र॒यिन्दाः॑  ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/107_vasur_agnir.md">
@@ -806,7 +806,7 @@ Come hither in thy greatest splendour and give us wealth.
 <details><summary>मूलम्</summary>
 
 वसु॑र॒ग्निर्वसु॑श्रवाः ।  
-अच्छा॑ नख्षि द्यु॒मत्त॑मो र॒यिन्दाः᳚  ॥
+अच्छा॑ नक्षि द्यु॒मत्त॑मो र॒यिन्दाः॑  ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -830,7 +830,7 @@ _______
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऊ॒र्जा वᳶ॑ पश्यामि ।  
-ऊ॒र्जा मा᳚  पश्यत ।
+ऊ॒र्जा मा॑  पश्यत ।
 </details>
 <details><summary>Keith</summary>
 
@@ -839,7 +839,7 @@ With strength I gaze on you; gaze on me with strength.
 <details><summary>मूलम्</summary>
 
 ऊ॒र्जा वᳶ॑ पश्यामि ।  
-ऊ॒र्जा मा᳚  पश्यत ।
+ऊ॒र्जा मा॑  पश्यत ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -866,7 +866,7 @@ With increase of wealth I gaze on you; gaze on me with increase of wealth.
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/121_iDAH_stha.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-**इडाः᳚+++(=अन्नानि)+++ स्थ** मधु॒-कृत॑स्,  
+**इडाः॑+++(=अन्नानि)+++ स्थ** मधु॒-कृत॑स्,  
 स्यो॒ना **माऽऽवि॑श॒त॒** +इरा॒ मदः॑ ।
 सहस्रपो॒षव्ँ वᳶ॑ **पुष्यास॒म्**  
 मयि॑ वो॒ **राय॑श् श्रयन्ताम्** ॥
@@ -882,7 +882,7 @@ may I prosper with your thousandfold   prosperity [3], may your wealth rest on m
 </details>
 <details><summary>मूलम्</summary>
 
-इडाः᳚ स्थ मधु॒कृत॑स्स्यो॒ना माऽऽवि॑श॒तेरा॒ मदः॑ ।
+इडाः॑ स्थ मधु॒कृत॑स्स्यो॒ना माऽऽवि॑श॒तेरा॒ मदः॑ ।
 स॒ह॒स्र॒पो॒षव्ँवᳶ॑ पुष्यासं [23] मयि॑ वो॒ राय॑श्श्रयन्ताम् ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -2190,7 +2190,7 @@ _______
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 परि॑ त्वाग्ने॒! पुर॑व्ँ+++(=दुर्गं)+++ व॒यव्ँ  
-विप्रꣳ॑ सहस्य! **धीमहि** ।  
+विप्रँ॑ सहस्य! **धीमहि** ।  
 धृ॒षद्+++(=धर्षक)+++-व॑र्णन् दि॒वे-दि॑वे  
 भे॒त्तार॑म् भङ्गु॒राव॑तः  ॥  
 +++(→ह॒न्तारं॑ भङ्गु॒राव॑ताम् इति शाकले)+++
@@ -2207,7 +2207,7 @@ Destroyer of that which may be broken.
 </details>
 <details><summary>मूलम्</summary>
 
-परि॑ त्वाग्ने॒ पुर॑व्ँव॒यव्ँविप्रꣳ॑ सहस्य धीमहि ।  
+परि॑ त्वाग्ने॒ पुर॑व्ँव॒यव्ँविप्रँ॑ सहस्य धीमहि ।  
 धृ॒षद्व॑र्णन्दि॒वेदि॑वे भे॒त्तार॑म्भङ्गु॒राव॑तः  ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -2232,7 +2232,7 @@ _______
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-अग्ने॑ गृहपते सुगृहप॒तिर॒हन्त्वया॑ गृ॒हप॑तिना भूयासꣳ सुगृहप॒तिर्मया॒ त्वङ्गृ॒हप॑तिना भूयाश्श॒तꣳ हिमाः …
+अग्ने॑ गृहपते सुगृहप॒तिर॒हन्त्वया॑ गृ॒हप॑तिना भूयासँ सुगृहप॒तिर्मया॒ त्वङ्गृ॒हप॑तिना भूयाश्श॒तँ हिमाः …
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2256,7 +2256,7 @@ ____________
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-श॒तꣳ हिमा॑स् ताम् आ॒शिष॒म् आशा॑से ।
+श॒तँ हिमा॑स् ताम् आ॒शिष॒म् आशा॑से ।
 
 +++(अजातपुत्र-पक्षे - )+++ तन्त॑वे॒ ज्योति॑ष्मती॒न् ताम् आ॒शिष॒म् आशा॑से ।  
 +++(जातपुत्र-पक्षे -)+++ [ताम् आ॒शिष॒म् आशा॑से] अ॒मुष्मै॒+++(→अपत्य-नाम-निर्देशः)+++ ज्योति॑ष्मतीम् ॥  [24]
@@ -2269,7 +2269,7 @@ bringing light for N. N.+++(= nomina / names)+++
 </details>
 <details><summary>मूलम्</summary>
 
-श॒तꣳ हिमा॑स् तामा॒शिष॒माशा॑से ।
+श॒तँ हिमा॑स् तामा॒शिष॒माशा॑से ।
 
 +++(अजातपुत्र-पक्षे - )+++ तन्त॑वे॒ ज्योति॑ष्मती॒न्  
 तामा॒शिष॒माशा॑से ।  

@@ -19,8 +19,8 @@ title = "०३ चातुर्मास्येषु वरुणप्र
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऐ॒न्द्रा॒ग्नम् एका॑दशकपालम्   +++(निर्वपति)+++  ।   
-मा॒रु॒तीम् आ॒मिख्षा᳚म् ।   
-वा॒रु॒णीम् आ॒मिख्षा᳚म्  ।   
+मा॒रु॒तीम् आ॒मिक्षा॑म् ।   
+वा॒रु॒णीम् आ॒मिक्षा॑म्  ।   
 का॒यम्+++(←कः प्रजापतिः)+++ एक॑कपालम् ।   
 </details>
 <details><summary>Keith</summary>
@@ -33,8 +33,8 @@ and on one potsherd to Ka.
 <details><summary>मूलम्</summary>
 
 ऐ॒न्द्रा॒ग्नमेका॑दशकपालम्   +++(निर्वपति)+++  ।   
-मा॒रु॒तीमा॒मिख्षा᳚म् ।   
-वा॒रु॒णीमा॒मिख्षा᳚म्  ।   
+मा॒रु॒तीमा॒मिक्षा॑म् ।   
+वा॒रु॒णीमा॒मिक्षा॑म्  ।   
 का॒यमेक॑कपालम् ।   
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -86,7 +86,7 @@ Rejoicing in the mush.
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/03_chAturmAsyeShu_varuNapraghAsaparva/03_mo_ShU.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-मो षू+++(←सु+उ)+++ ण॑+++(ः)+++ इन्द्र पृ॒थ्सु देव +  
+मो षू+++(←सु+उ)+++ ण॑+++(ः)+++ इन्द्र पृ॒त्सु देव +  
 +**अस्तु॑** स्म +++(पराजितिः)+++ ते शुष्मिन्न् अव॒या+++(=ऊत्या)+++ ।  
 म॒ही ह्य् अ॑स्य मी॒ढुषो॑ य॒व्या +++(←यु पृथक्करणे, →वन्दते)+++ ,  
 ह॒विष्म॑तो म॒रुतो॒ +++(→मरुद्वतः)+++ **वन्द॑ते॒** गीः  ॥
@@ -103,7 +103,7 @@ Rich in oblation are the Maruts whom our song praises.
 </details>
 <details><summary>मूलम्</summary>
 
-मो षू ण॑ इन्द्र पृ॒थ्सु दे॒वास्तु॑ स्म ते शुष्मिन्नव॒या ।
+मो षू ण॑ इन्द्र पृ॒त्सु दे॒वास्तु॑ स्म ते शुष्मिन्नव॒या ।
 म॒ही ह्य॑स्य मी॒ढुषो॑ य॒व्या ।  
 ह॒विष्म॑तो म॒रुतो॒ वन्द॑ते॒ गीः  ॥
 </details>
@@ -143,7 +143,7 @@ Rich in oblation are the Maruts whom our song praises.
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-यद्ग्रामे॒ यदर॑ण्ये॒ यत् स॒भाया॒य्ँयदि॑न्द्रि॒ये । यच्छू॒द्रे यद॒र्य॑ एन॑श्चकृ॒मा व॒यम् । यदेक॒स्याधि॒ धर्म॑णि॒ तस्या॑व॒यज॑नमसि॒ स्वाहा᳚ ॥  
+यद्ग्रामे॒ यदर॑ण्ये॒ यत् स॒भाया॒य्ँयदि॑न्द्रि॒ये । यच्छू॒द्रे यद॒र्य॑ एन॑श्चकृ॒मा व॒यम् । यदेक॒स्याधि॒ धर्म॑णि॒ तस्या॑व॒यज॑नमसि॒ स्वाहा॑ ॥  
 </details>
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/03_chAturmAsyeShu_varuNapraghAsaparva/04_yad_grAme.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
@@ -153,7 +153,7 @@ Rich in oblation are the Maruts whom our song praises.
 यच् छू॒द्रे यद् अ॒र्ये॑ ..   
 एन॑श् चकृ॒मा व॒यम् ।     
 यद् एक॒स्याधि॒ धर्म॑णि॒    
-तस्या॑व॒यज॑नम् असि॒ स्वाहा᳚  ॥
+तस्या॑व॒यज॑नम् असि॒ स्वाहा॑  ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/03_chAturmAsyeShu_varuNapraghAsaparva/04_yad_grAme.md">
@@ -173,7 +173,7 @@ Of that thou art the expiation; hail!
 यच्छू॒द्रे यद॒र्ये॑ ..   
 एन॑श्चकृ॒मा व॒यम् ।     
 यदेक॒स्याधि॒ धर्म॑णि॒  ..    
-तस्या॑व॒यज॑नमसि॒ स्वाहा᳚  ॥
+तस्या॑व॒यज॑नमसि॒ स्वाहा॑  ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

@@ -359,7 +359,7 @@ Gut führ uns heute zu und Gut auch morgen, und Tag für Tag, o Savitar, uns Gut
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-2इमामनुद्रुत्य उपयामगृहीतोसि देवाय त्वा सवित्र इति गृह्णाति । 'एष वै गायत्रो देवानाम्' इत्यादि ब्राह्मणम् ; 'विश्वे देवास्तृतीयꣳ सवनं नोदयच्छन्' इत्यादि च ॥
+2इमामनुद्रुत्य उपयामगृहीतोसि देवाय त्वा सवित्र इति गृह्णाति । 'एष वै गायत्रो देवानाम्' इत्यादि ब्राह्मणम् ; 'विश्वे देवास्तृतीयँ सवनं नोदयच्छन्' इत्यादि च ॥
 </details>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/23_sAvitragrahaH/upayAmagRhItaH.md">
 <details open><summary><h5>उपयामगृहीतः ...{Loading}...</h5></summary>

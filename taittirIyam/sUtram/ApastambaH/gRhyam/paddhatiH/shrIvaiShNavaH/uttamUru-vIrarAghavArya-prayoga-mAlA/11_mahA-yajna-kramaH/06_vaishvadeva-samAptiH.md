@@ -2,7 +2,7 @@
 title = "०६ वैश्वदेव-समाप्तिः"
 
 +++
-ततः, ‘ओं श्रीविष्ण॑वे॒ स्वाहा᳚', इत्यग्नौ दर्भौ प्रक्षिप्य, (श्री विष्णवे परमात्मन इदं न मम) इत्युक्त्वा उत्थाय,
+ततः, ‘ओं श्रीविष्ण॑वे॒ स्वाहा॑', इत्यग्नौ दर्भौ प्रक्षिप्य, (श्री विष्णवे परमात्मन इदं न मम) इत्युक्त्वा उत्थाय,
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/189/01_agne_naya.md">
 <details open><summary><h5>०१ अग्ने नय ...{Loading}...</h5></summary>

@@ -367,7 +367,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ष ते॒ योनि॑र्, वी॒रता᳚म् पाहि ॥ [9]  
+ए॒ष ते॒ योनि॑र्, वी॒रता॑म् पाहि ॥ [9]  
 </details>
 <details><summary>Keith</summary>
 
@@ -375,7 +375,7 @@ This is thy birthplace; guard the folk.
 </details>
 <details><summary>मूलम्</summary>
 
-ए॒ष ते॒ योनि॑र्वी॒रता᳚म्पाहि ॥ [9]  
+ए॒ष ते॒ योनि॑र्वी॒रता॑म्पाहि ॥ [9]  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

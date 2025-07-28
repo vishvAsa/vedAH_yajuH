@@ -669,7 +669,7 @@ Dir räumten alles ein die Götter alle, der grossen Indramacht beim Vritrakampf
 इ॒न्द्रा॒णीमा॒सु नारि॑षु  
 सु॒पत्नी॑म् अ॒हम् अ॑श्रवम् ।   
 न ह्य् अ॒स्या अप॒रञ् च॒न +++(→किम् अन्यत्!)+++  
-ज॒रसा᳚ [47]मर॑ते॒ पतिः॑  ॥
+ज॒रसा॑ [47]मर॑ते॒ पतिः॑  ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/13_kAmyeShTayaH/02_indrANImAsu_nAriShu.md">
@@ -684,7 +684,7 @@ Shall her husband die of old age.
 <details><summary>मूलम्</summary>
 
 इ॒न्द्रा॒णीमा॒सु नारि॑षु सु॒पत्नी॑म॒हम॑श्रवम् ।   
-न ह्य॒स्या अप॒रञ्च॒न ज॒रसा᳚ [47]मर॑ते॒ पतिः॑  ॥
+न ह्य॒स्या अप॒रञ्च॒न ज॒रसा॑ [47]मर॑ते॒ पतिः॑  ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -982,7 +982,7 @@ Doch, o Indrānī, ich habe keine Freude ohne diesen Genossen, den Vrischākapi,
 <details><summary>मूलम्</summary>
 
 नाहमि॑न्द्राणि रारण॒ सख्यु॑र्वृ॒षाक॑पेर् ऋ॒ते ।   
-यस्ये॒दमप्यꣳ॑ ह॒विᳶ प्रि॒यन्दे॒वेषु॒ गच्छ॑ति  ॥
+यस्ये॒दमप्यँ॑ ह॒विᳶ प्रि॒यन्दे॒वेषु॒ गच्छ॑ति  ॥
 </details>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -1654,9 +1654,9 @@ Zur Hülfe flieg' aus deinen Armen, Indra, dein Blitz herbei, des grossen, kühn
 <details><summary>मूलम्</summary>
 
 आ ते॑ म॒ह इ॑न्द्रो॒त्यु॑ग्र॒ सम॑न्यवो॒..     
-यत् स॒मर॑न्त॒ सेनाः᳚ ।   
+यत् स॒मर॑न्त॒ सेनाः॑ ।   
  पता॑ति दि॒द्युन्नर्य॑स्य बाहु॒वो...
- र्मा ते᳚ [48] मनो॑ विष्व॒द्रिय॒ग्विचा॑रीत्  ॥
+ र्मा ते॑ [48] मनो॑ विष्व॒द्रिय॒ग्विचा॑रीत्  ॥
 </details>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -2435,10 +2435,10 @@ So bring doch her, lass niemand es verhindern, da wir dich kennen als den Herrn 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/13_kAmyeShTayaH/03_pradAtAraM_havAmaha.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-प्र॒दा॒तारꣳ॑ **हवामह॒**  
+प्र॒दा॒तारँ॑ **हवामह॒**  
 इन्द्र॒म् आ ह॒विषा॑ व॒यम् ।    
 उ॒भा हि हस्ता॒  वसु॑ना पृ॒णस्वा  
-**ऽऽप्र य॑च्छ॒** दख्षि॑णा॒द् ओत स॒व्यात्  ॥
+**ऽऽप्र य॑च्छ॒** दक्षि॑णा॒द् ओत स॒व्यात्  ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/13_kAmyeShTayaH/03_pradAtAraM_havAmaha.md">
@@ -2452,10 +2452,10 @@ Give to us from the left and the right.
 </details>
 <details><summary>मूलम्</summary>
 
-प्र॒दा॒तारꣳ॑ हवामह॒   
+प्र॒दा॒तारँ॑ हवामह॒   
 इन्द्र॒मा ह॒विषा॑ व॒यम् ।    
 उ॒भा हि हस्ता॒  वसु॑ना पृ॒णस्वा..  +++(११ अक्षराणि)+++
-ऽऽप्र य॑च्छ॒ दख्षि॑णा॒दोत स॒व्यात्  ॥ +++(१० अक्षराणि)+++
+ऽऽप्र य॑च्छ॒ दक्षि॑णा॒दोत स॒व्यात्  ॥ +++(१० अक्षराणि)+++
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -2471,7 +2471,7 @@ Give to us from the left and the right.
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 प्र॒दा॒ता व॒ज्री वृ॑ष॒भस् +++(आ)+++तु॑रा॒-षाट्+++(←सह्)+++  
-छु॒ष्मी राजा॑ वृत्र॒-हा सो॑म॒पावा᳚ ।   
+छु॒ष्मी राजा॑ वृत्र॒-हा सो॑म॒पावा॑ ।   
 अ॒स्मिन् य॒ज्ञे ब॒र्हिष्य् आ **नि॒षद्य॑** +  
 +अथा॑ **भव॒** यज॑मानाय॒ शय्ँ योः+++(←यु मिश्रणामिश्रणयोः)+++  ॥
 </details>
@@ -2487,7 +2487,7 @@ Be thou health and wealth to the sacrificer.
 </details>
 <details><summary>मूलम्</summary>
 
-प्र॒दा॒ता व॒ज्री वृ॑ष॒भस्तु॑रा॒षाट्छु॒ष्मी राजा॑ वृत्र॒हा सो॑म॒पावा᳚ ।   
+प्र॒दा॒ता व॒ज्री वृ॑ष॒भस्तु॑रा॒षाट्छु॒ष्मी राजा॑ वृत्र॒हा सो॑म॒पावा॑ ।   
 अ॒स्मिन् य॒ज्ञे ब॒र्हिष्या नि॒षद्याथा॑ भव॒ यज॑मानाय॒ शय्ँयोः  ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -3270,7 +3270,7 @@ With Indra splendid feasts be ours enriched with ample spoil, wherewith, Wealthy
 अ॒भीके॑+++(=समीपे)+++ चिद् उ लोक॒कृत्  
 स॒ङ्गे स॒मत्सु॑+++(=युद्धेषु)+++ वृत्र॒-हा ।  
 अ॒स्माक॑म् **बोधि** चोदि॒ता   
-**नभ॑न्ताम्**+++(=नश्यन्तु)+++ अन्य॒केषा᳚म् ।  
+**नभ॑न्ताम्**+++(=नश्यन्तु)+++ अन्य॒केषा॑म् ।  
 ज्या॒का अधि॒ धन्व॑सु  ॥  [51]
 
 </details>

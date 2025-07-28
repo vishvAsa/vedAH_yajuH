@@ -16,21 +16,21 @@ unicode_script = "devanagari"
 
 </details>
 <div class="js_include" includetitle="false" newlevelforh1="2" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/1/01_prANo_rakhShati.md">
-<details open><summary><h2>01 प्राणो रख्षति ...{Loading}...</h2></summary>
+<details open><summary><h2>01 प्राणो रक्षति ...{Loading}...</h2></summary>
 
-प्रा॒णो **र॑ख्षति॒** विश्व॒म् **एज॑त्** ।  
+प्रा॒णो **र॑क्षति॒** विश्व॒म् **एज॑त्** ।  
 **इर्यो॑ भू॒त्वा** ब॑हु॒धा ब॒हूनि॑ ।  
 स इथ् सर्व॒व्ँ **व्या॑नशे**+++(=व्याप्तवान्)+++ ।  
 
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/5_upahomAdi/1/01_prANo_rakhShati.md">
-<details open><summary><h2>01 प्राणो रख्षति ...{Loading}...</h2></summary>
+<details open><summary><h2>01 प्राणो रक्षति ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
-प्रा॒णो र॑ख्षति॒ विश्व॒मेज॑त् ।  
+प्रा॒णो र॑क्षति॒ विश्व॒मेज॑त् ।  
 इर्यो॑ भू॒त्वा ब॑हु॒धा ब॒हूनि॑ ।  
-स इथ्सर्व॒व्ँ व्या॑नशे ।  
+स इत्सर्व॒व्ँ व्या॑नशे ।  
 
 </details>
 <details><summary>सायणटीका</summary>
@@ -45,8 +45,8 @@ unicode_script = "devanagari"
 <details open><summary><h2>02 यो देवो ...{Loading}...</h2></summary>
 
 यो दे॒वो दे॒वेषु॑ वि॒भूर् अ॒न्तः ।  
-आ-वृ॑द् **ऊ॒दात्**+++(←वचने)+++ ख्षेत्रिय् अ॑ध्व॒-गद् वृषा᳚ ।  
-तम् इत् प्रा॒णम् मन॒सोप॑ **शिख्षत** ।  
+आ-वृ॑द् **ऊ॒दात्**+++(←वचने)+++ क्षेत्रिय् अ॑ध्व॒-गद् वृषा॑ ।  
+तम् इत् प्रा॒णम् मन॒सोप॑ **शिक्षत** ।  
 अग्र॑न् दे॒वाना॑म् इ॒दम् **अ॑त्तु** नो ह॒विः ।  
 
 <details><summary>विश्वास-टिप्पनी</summary>
@@ -60,8 +60,8 @@ unicode_script = "devanagari"
 <details><summary>मूलम्</summary>
 
 यो दे॒वो दे॒वेषु॑ वि॒भूर॒न्तः ।  
-आवृ॑दू॒दात्ख्षेत्रिय॑ध्व॒गद्वृषा᳚ ।  
-तमित्प्रा॒णम्मन॒सोप॑ शिख्षत ।  
+आवृ॑दू॒दात्क्षेत्रिय॑ध्व॒गद्वृषा॑ ।  
+तमित्प्रा॒णम्मन॒सोप॑ शिक्षत ।  
 अग्र॑न्दे॒वाना॑मि॒दम॑त्तु नो ह॒विः ।  
 </details>
 <details><summary>सायणटीका</summary>
@@ -103,7 +103,7 @@ unicode_script = "devanagari"
 <details open><summary><h2>04 आ न ...{Loading}...</h2></summary>
 
 आ न॑ **एतु** पुरश् च॒रम् ।  
-स॒ह दे॒वैर् इ॒मꣳ हव᳚म्+++(=आह्वानम्)+++ ।  
+स॒ह दे॒वैर् इ॒मँ हव॑म्+++(=आह्वानम्)+++ ।  
 मन॒श् श्रेय॑सिश्रेयसि ।  
 कर्म॑न्+++(→णि)+++ य॒ज्ञ-प॑ति॒न् **दध॑त्** ।+++(5)+++
 
@@ -114,7 +114,7 @@ unicode_script = "devanagari"
 <details><summary>मूलम्</summary>
 
 आ न॑ एतु पुरश्च॒रम् ।  
-स॒ह दे॒वैरि॒मꣳ हव᳚म् ।  
+स॒ह दे॒वैरि॒मँ हव॑म् ।  
 मन॒श्श्रेय॑सिश्रेयसि ।  
 कर्म॑न्य॒ज्ञप॑ति॒न्दध॑त् ।            
 
@@ -131,7 +131,7 @@ unicode_script = "devanagari"
 <div class="js_include" includetitle="false" newlevelforh1="2" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/1/05_juShatAmme_vAgidam.md">
 <details open><summary><h2>05 जुषताम्मे वागिदम् ...{Loading}...</h2></summary>
 
-**जु॒षता᳚म्** मे॒ वाग् इ॒दꣳ ह॒विः ।  
+**जु॒षता॑म्** मे॒ वाग् इ॒दँ ह॒विः ।  
 वि॒राड् दे॒वी पु॒रोहि॑ता ।  
 ह॒व्य॒-वाड् **अन॑पायिनी** ।
 
@@ -141,7 +141,7 @@ unicode_script = "devanagari"
 <details open><summary><h2>05 जुषताम्मे वागिदम् ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
-जु॒षता᳚म्मे॒ वागि॒दꣳ ह॒विः ।  
+जु॒षता॑म्मे॒ वागि॒दँ ह॒विः ।  
 वि॒राड्दे॒वी पु॒रोहि॑ता ।  
 ह॒व्य॒वाडन॑पायिनी ।
 
@@ -159,9 +159,9 @@ unicode_script = "devanagari"
 <details open><summary><h2>06 यया रूपाणि ...{Loading}...</h2></summary>
 
 यया॑ रू॒पाणि॑ बहु॒धा **वद॑न्ति** ।  
-पेशाꣳ॑सि दे॒वाᳶ प॑र॒मे ज॒नित्रे᳚ ।          
+पेशाँ॑सि दे॒वाᳶ प॑र॒मे ज॒नित्रे॑ ।          
 सा नो॑ वि॒राड् **अन॑पस्फुरन्ती** ॥2॥                   
-वाग्-दे॒वी **जु॑षताम्** इ॒दꣳ ह॒विः ।  
+वाग्-दे॒वी **जु॑षताम्** इ॒दँ ह॒विः ।  
 
 </details>
 </div>
@@ -170,9 +170,9 @@ unicode_script = "devanagari"
 <details><summary>मूलम्</summary>
 
 यया॑ रू॒पाणि॑ बहु॒धा वद॑न्ति ।  
-पेशाꣳ॑सि दे॒वाᳶ प॑र॒मे ज॒नित्रे᳚ ।          
+पेशाँ॑सि दे॒वाᳶ प॑र॒मे ज॒नित्रे॑ ।          
 सा नो॑ वि॒राडन॑पस्फुरन्ती ॥2॥                          
-वाग्दे॒वी जु॑षतामि॒दꣳ ह॒विः ।  
+वाग्दे॒वी जु॑षतामि॒दँ ह॒विः ।  
 
 </details>
 <details><summary>सायणटीका</summary>
@@ -184,23 +184,23 @@ unicode_script = "devanagari"
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/1/07_chakhShurdevAnAnjyotiramRte.md">
-<details open><summary><h2>07 चख्षुर्देवानाञ्ज्योतिरमृते ...{Loading}...</h2></summary>
+<details open><summary><h2>07 चक्षुर्देवानाञ्ज्योतिरमृते ...{Loading}...</h2></summary>
 
-चख्षु॑र् दे॒वाना॒ञ् +++(→सूर्यः)+++ ज्योति॑र् अ॒मृते॒ **न्य॑क्तम्** ।  
+चक्षु॑र् दे॒वाना॒ञ् +++(→सूर्यः)+++ ज्योति॑र् अ॒मृते॒ **न्य॑क्तम्** ।  
 अ॒स्य +++(→सर्वस्य)+++ वि॒ज्ञाना॑य बहु॒धा **निधी॑यते** ।  
 तस्य॑ +++(→चक्षुषोः)+++ सु॒म्नम् **अ॑शीमहि** ।  
-मा नो॑ **हासीद्** विचख्ष॒णम् ।  
+मा नो॑ **हासीद्** विचक्ष॒णम् ।  
 
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/5_upahomAdi/1/07_chakhShurdevAnAnjyotiramRte.md">
-<details open><summary><h2>07 चख्षुर्देवानाञ्ज्योतिरमृते ...{Loading}...</h2></summary>
+<details open><summary><h2>07 चक्षुर्देवानाञ्ज्योतिरमृते ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
-चख्षु॑र्दे॒वाना॒ञ्ज्योति॑र॒मृते॒ न्य॑क्तम् ।  
+चक्षु॑र्दे॒वाना॒ञ्ज्योति॑र॒मृते॒ न्य॑क्तम् ।  
 अ॒स्य वि॒ज्ञाना॑य बहु॒धा निधी॑यते ।  
 तस्य॑ सु॒म्नम॑शीमहि ।  
-मा नो॑ हासीद्विचख्ष॒णम् ।  
+मा नो॑ हासीद्विचक्ष॒णम् ।  
 </details>
 <details><summary>सायणटीका</summary>
 
@@ -216,10 +216,10 @@ unicode_script = "devanagari"
 <div class="js_include" includetitle="false" newlevelforh1="2" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/1/08_AyurinnapH_pratIryatAm.md">
 <details open><summary><h2>08 आयुरिन्नᳶ प्रतीर्यताम् ...{Loading}...</h2></summary>
 
-आयु॒र् इन् न॒ᳶ **प्रती᳚र्यताम्** ।  
-अन॑न्धा॒श् चख्षु॑षा व॒यम् ।  
+आयु॒र् इन् न॒ᳶ **प्रती॑र्यताम्** ।  
+अन॑न्धा॒श् चक्षु॑षा व॒यम् ।  
 जी॒वा ज्योति॑र् **अशीमहि** ।  
-सुव॒र् ज्योति॑र् उ॒तामृत᳚म् ।  
+सुव॒र् ज्योति॑र् उ॒तामृत॑म् ।  
 
 </details>
 </div>
@@ -227,10 +227,10 @@ unicode_script = "devanagari"
 <details open><summary><h2>08 आयुरिन्नᳶ प्रतीर्यताम् ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
-आयु॒रिन्न॒ᳶ प्रती᳚र्यताम् ।  
-अन॑न्धा॒श्चख्षु॑षा व॒यम् ।  
+आयु॒रिन्न॒ᳶ प्रती॑र्यताम् ।  
+अन॑न्धा॒श्चक्षु॑षा व॒यम् ।  
 जी॒वा ज्योति॑रशीमहि ।  
-सुव॒र्ज्योति॑रु॒तामृत᳚म् ।  
+सुव॒र्ज्योति॑रु॒तामृत॑म् ।  
 
 </details>
 <details><summary>सायणटीका</summary>
@@ -273,7 +273,7 @@ unicode_script = "devanagari"
 <div class="js_include" includetitle="false" newlevelforh1="2" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/1/10_yena_prAchyA.md">
 <details open><summary><h2>10 येन प्राच्या ...{Loading}...</h2></summary>
 
-येन॒ प्राच्या॑ उ॒त द॑ख्षि॒णा ।
+येन॒ प्राच्या॑ उ॒त द॑क्षि॒णा ।
 प्र॒तीच्यै॑ दि॒शश् **शृ॒ण्वन्त्य्** उ॑त्त॒रात् ।  
 तद् इच् छ्रोत्र॑म् **बहु॒धोद्यमा॑नम्** ।  
 अ॒रान् न ने॒मिᳶ परि॒ सर्व॑म् **बभूव** ॥3॥+++(5)+++  
@@ -284,7 +284,7 @@ unicode_script = "devanagari"
 <details open><summary><h2>10 येन प्राच्या ...{Loading}...</h2></summary>
 <details><summary>मूलम्</summary>
 
-येन॒ प्राच्या॑ उ॒त द॑ख्षि॒णा ।
+येन॒ प्राच्या॑ उ॒त द॑क्षि॒णा ।
 प्र॒तीच्यै॑ दि॒शश्शृ॒ण्वन्त्यु॑त्त॒रात् ।  
 तदिच्छ्रोत्र॑म्बहु॒धोद्यमा॑नम् ।  
 अ॒रान्न ने॒मिᳶ परि॒ सर्व॑म्बभूव ॥3॥  

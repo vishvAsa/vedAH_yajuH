@@ -15,10 +15,10 @@ ____
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कृष्णो᳚ऽसि ।   
+कृष्णो॑ऽसि ।   
 +++('अग्निर्देवेभ्यो निलायत । कृष्णो रूपं कृत्वा । स वनस्पतीन्प्राविशत्' (तै.ब्रा. 3.3.6) इत्यादिब्राह्मणोक्तो)+++  
-आ॒ख॒रे॒ष्ठो᳚ +++(←आखनति भुवम् इति)+++ ऽसि ।  
-अ॒ग्नये᳚ त्वा॒ +++(प्रोक्षामि)+++ +++(इति)+++ स्वाहा᳚ +++(←स्वा वाग् आह)+++ ।
+आ॒ख॒रे॒ष्ठो॑ +++(←आखनति भुवम् इति)+++ ऽसि ।  
+अ॒ग्नये॑ त्वा॒ +++(प्रोक्षामि)+++ +++(इति)+++ स्वाहा॑ +++(←स्वा वाग् आह)+++ ।
 </details>
 <details><summary>Keith</summary>
 
@@ -26,13 +26,13 @@ Thou art a black deer, living in the lair, to Agni thee, hail!
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-कृष्णो᳚ऽस्याखरे॒ष्ठो᳚ऽग्नये᳚ त्वा॒ स्वाहा᳚
+कृष्णो॑ऽस्याखरे॒ष्ठो॑ऽग्नये॑ त्वा॒ स्वाहा॑
 </details>
 <details><summary>मूलम्</summary>
 
-कृष्णो᳚ऽसि ।   
-आ॒ख॒रे॒ष्ठो᳚ऽसि ।  
-अ॒ग्नये᳚ त्वा  +++(प्रोक्षामि)+++ ।
+कृष्णो॑ऽसि ।   
+आ॒ख॒रे॒ष्ठो॑ऽसि ।  
+अ॒ग्नये॑ त्वा  +++(प्रोक्षामि)+++ ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -40,7 +40,7 @@ Thou art a black deer, living in the lair, to Agni thee, hail!
 </details>
 <details><summary>मूलम्</summary>
 
-स्वाहा᳚ ।
+स्वाहा॑ ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -58,7 +58,7 @@ ____
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वेदि॑र्+++(=वेदयित्री [हविषाम्])+++ असि ।  
-ब॒र्हिषे᳚ त्वा॒ +++(प्रोक्षामि)+++ +++(इति)+++ स्वाहा᳚ +++(←स्वा वाग् आह)+++।
+ब॒र्हिषे॑ त्वा॒ +++(प्रोक्षामि)+++ +++(इति)+++ स्वाहा॑ +++(←स्वा वाग् आह)+++।
 </details>
 <details><summary>Keith</summary>
 
@@ -66,13 +66,13 @@ Thou art the altar, to the strew thee, hail!
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-－वेदि॑रसि ब॒र्हिषे᳚ त्वा॒ स्वाहा॑
+－वेदि॑रसि ब॒र्हिषे॑ त्वा॒ स्वाहा॑
 </details>
 <details><summary>मूलम्</summary>
 
 वेदि॑रसि ।  
-ब॒र्हिषे᳚ त्वा  +++(प्रोक्षामि)+++  ।  
-स्वाहा᳚ ।
+ब॒र्हिषे॑ त्वा  +++(प्रोक्षामि)+++  ।  
+स्वाहा॑ ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -89,7 +89,7 @@ ____
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब॒र्हिर् अ॑सि ।  
-स्रु॒ग्भ्यस् त्वा॒ +++(प्रोक्षामि)+++ +++(इति)+++ स्वाहा᳚ +++(←स्वा वाग् आह)+++ ।  
+स्रु॒ग्भ्यस् त्वा॒ +++(प्रोक्षामि)+++ +++(इति)+++ स्वाहा॑ +++(←स्वा वाग् आह)+++ ।  
 +++('प्रजा वै बर्हिः । यजमानस्स्रुचः' (तै.ब्रा. 3.3.6) इत्यादि ब्राह्मणम् ॥)+++
 </details>
 <details><summary>Keith</summary>
@@ -103,8 +103,8 @@ Thou art the strew, to the ladles thee, hail
 <details><summary>मूलम्</summary>
 
 ब॒र्हिर॑सि ।  
-स्रु॒ग्भ्यस्त्वा᳚   +++(प्रोक्षामि)+++ 
-स्वाहा᳚ ।
+स्रु॒ग्भ्यस्त्वा॑   +++(प्रोक्षामि)+++ 
+स्वाहा॑ ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -123,9 +123,9 @@ ____
 <details open><summary><h2>दिवे त्वा ...{Loading}...</h2></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दि॒वे त्वा᳚  +++(प्रोक्षामि)+++ ।  
-अन्तरि॑ख्षाय त्वा  +++(प्रोक्षामि)+++ ।  
-पृ॒थि॒व्यै त्वा᳚ +++(प्रोक्षामि)+++ ।
+दि॒वे त्वा॑  +++(प्रोक्षामि)+++ ।  
+अन्तरि॑क्षाय त्वा  +++(प्रोक्षामि)+++ ।  
+पृ॒थि॒व्यै त्वा॑ +++(प्रोक्षामि)+++ ।
 
 </details>
 <details><summary>Keith</summary>
@@ -134,13 +134,13 @@ To sky thee, to atmosphere thee, to earth thee!
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-－ दि॒वे त्वा॒ऽन्तरि॑ख्षाय त्वा पृथि॒व्यै त्वा
+－ दि॒वे त्वा॒ऽन्तरि॑क्षाय त्वा पृथि॒व्यै त्वा
 </details>
 <details><summary>मूलम्</summary>
 
-दि॒वे त्वा᳚ ।  
-अन्तरि॑ख्षाय त्वा।  
-पृ॒थि॒व्यै त्वा᳚।
+दि॒वे त्वा॑ ।  
+अन्तरि॑क्षाय त्वा।  
+पृ॒थि॒व्यै त्वा॑।
 
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -225,7 +225,7 @@ ____
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(बर्हिः!)+++ ऊर्णा᳚-म्रदसन्+++(=मृदुं)+++ त्वा स्तृणामि स्व्+आ॒स॒-स्थन् दे॒वेभ्यः॑।
++++(बर्हिः!)+++ ऊर्णा॑-म्रदसन्+++(=मृदुं)+++ त्वा स्तृणामि स्व्+आ॒स॒-स्थन् दे॒वेभ्यः॑।
 </details>
 <details><summary>Keith</summary>
 
@@ -233,7 +233,7 @@ Soft as wool I strew thee, offering a good seat to the gods.
 </details>
 <details><summary>मूलम्</summary>
 
-ऊर्णा᳚म्रदसन् त्वा स्तृणामि स्वा॒स॒स्थन्दे॒वेभ्यः॑ ।
+ऊर्णा॑म्रदसन् त्वा स्तृणामि स्वा॒स॒स्थन्दे॒वेभ्यः॑ ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -292,7 +292,7 @@ ____
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(दक्षिण-परिधे!)+++ इन्द्र॑स्य बा॒हुर॑सि दख्षि॑णः, यज॑मानस्य परि॒धिः, इ॒ड+++(=इड्-वान् = अन्नवान्)+++  ई॑डि॒तः ।  
++++(दक्षिण-परिधे!)+++ इन्द्र॑स्य बा॒हुर॑सि दक्षि॑णः, यज॑मानस्य परि॒धिः, इ॒ड+++(=इड्-वान् = अन्नवान्)+++  ई॑डि॒तः ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -300,11 +300,11 @@ Thou art the right arm of Indra,  the fence of the sacrificer, praised and to be
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-इन्द्र॑स्य बा॒हुर॑सि [19]दख्षि॑णो॒ यज॑मानस्य परि॒धिरि॒ड ई॑डि॒तः
+इन्द्र॑स्य बा॒हुर॑सि [19]दक्षि॑णो॒ यज॑मानस्य परि॒धिरि॒ड ई॑डि॒तः
 </details>
 <details><summary>मूलम्</summary>
 
-इन्द्र॑स्य बा॒हुर॑सि दख्षि॑णः   
+इन्द्र॑स्य बा॒हुर॑सि दक्षि॑णः   
 यज॑मानस्य परि॒धिः  इ॒ड ई॑डि॒तः ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -358,7 +358,7 @@ ____
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(हे कुण्ड! उत्तर-परिधि-रूपः)+++ सूर्य॑स् त्वा पु॒रस्ता᳚त् पातु कस्या᳚श्चिद् अ॒भिश॑स्त्याः ।
++++(हे कुण्ड! उत्तर-परिधि-रूपः)+++ सूर्य॑स् त्वा पु॒रस्ता॑त् पातु कस्या॑श्चिद् अ॒भिश॑स्त्याः ।
 </details>
 <details><summary>Keith</summary>
 
@@ -366,7 +366,7 @@ May the sun in the east protect thee from all evil.
 </details>
 <details><summary>मूलम्</summary>
 
-सूर्य॑स्त्वा पु॒रस्ता᳚त्पातु॒ कस्या᳚श्चिद॒भिश॑स्त्याः ।
+सूर्य॑स्त्वा पु॒रस्ता॑त्पातु॒ कस्या॑श्चिद॒भिश॑स्त्याः ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -384,8 +384,8 @@ ____
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/11_havirAsanAdiH/70_vItihotran_tvA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-वी॒ति+++(=इष्ट)+++हो᳚त्रन्+++(=ह्वानं)+++ त्वा कवे  
-द्यु॒मन्त॒ꣳ॒ समि॑धीम॒हि ।  
+वी॒ति+++(=इष्ट)+++हो॑त्रन्+++(=ह्वानं)+++ त्वा कवे  
+द्यु॒मन्तँ॒ समि॑धीम॒हि ।  
 +++(हे)+++ अग्ने॑! बृ॒हन्त॑म् अध्व॒रे ॥
 </details>
 </div>
@@ -399,11 +399,11 @@ O Agni, thee that art mighty at the sacrifice.
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-वी॒तिहो᳚त्रन्त्वा कवे द्यु॒मन्त॒ꣳ॒ समि॑धीम॒ह्यग्ने॑ बृ॒हन्त॑मध्व॒रे
+वी॒तिहो॑त्रन्त्वा कवे द्यु॒मन्तँ॒ समि॑धीम॒ह्यग्ने॑ बृ॒हन्त॑मध्व॒रे
 </details>
 <details><summary>मूलम्</summary>
 
-वी॒तिहो᳚त्रन्त्वा कवे द्यु॒मन्त॒ꣳ॒ समि॑धीम॒हि ।  
+वी॒तिहो॑त्रन्त्वा कवे द्यु॒मन्तँ॒ समि॑धीम॒हि ।  
 अग्ने॑ बृ॒हन्त॑मध्व॒रे ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -451,7 +451,7 @@ ____
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(प्रस्तर)+++ वसू॑नाꣳ रु॒द्राणा॑म् आदि॒त्याना॒ꣳ॒ सद॑सि सीद ।
++++(प्रस्तर)+++ वसू॑नाँ रु॒द्राणा॑म् आदि॒त्यानाँ॒ सद॑सि सीद ।
 </details>
 <details><summary>Keith</summary>
 
@@ -459,7 +459,7 @@ Sit on the seat of the Vasus, Rudras, Adityas.
 </details>
 <details><summary>मूलम्</summary>
 
-वसू॑नाꣳ रु॒द्राणा॑मादि॒त्याना॒ꣳ॒ सद॑सि सीद ।
+वसू॑नाँ रु॒द्राणा॑मादि॒त्यानाँ॒ सद॑सि सीद ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -483,7 +483,7 @@ Thou art named juhu
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-जु॒हूरु॑प॒भृद्ध्रु॒वाऽसि॑ घृ॒ताची॒ नाम्ना᳚ प्रि॒येण॒ नाम्ना᳚ प्रि॒ये सद॑सि सीद
+जु॒हूरु॑प॒भृद्ध्रु॒वाऽसि॑ घृ॒ताची॒ नाम्ना॑ प्रि॒येण॒ नाम्ना॑ प्रि॒ये सद॑सि सीद
 </details>
 <details><summary>मूलम्</summary>
 
@@ -497,7 +497,7 @@ Thou art named juhu
 <details open><summary><h5>घृताची ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-घृ॒ताची॒ नाम्ना᳚ प्रि॒येण॒ नाम्ना᳚ प्रि॒ये सद॑सि सीद ।
+घृ॒ताची॒ नाम्ना॑ प्रि॒येण॒ नाम्ना॑ प्रि॒ये सद॑सि सीद ।
 </details>
 <details><summary>Keith</summary>
 
@@ -505,7 +505,7 @@ Loving the ghee, sit on thy dear seat with thy dear name.
 </details>
 <details><summary>मूलम्</summary>
 
-घृ॒ताची॒ नाम्ना᳚ प्रि॒येण॒ नाम्ना᳚ प्रि॒ये सद॑सि सीद ।
+घृ॒ताची॒ नाम्ना॑ प्रि॒येण॒ नाम्ना॑ प्रि॒ये सद॑सि सीद ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -526,7 +526,7 @@ ____
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ॒प॒भृद् अ॑सि ।   
-[घृ॒ताची॒ नाम्ना᳚ प्रि॒येण॒ नाम्ना᳚ प्रि॒ये सद॑सि सीद ] ।  
+[घृ॒ताची॒ नाम्ना॑ प्रि॒येण॒ नाम्ना॑ प्रि॒ये सद॑सि सीद ] ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -544,7 +544,7 @@ Thou art named upabhrt
 <details open><summary><h5>घृताची ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-घृ॒ताची॒ नाम्ना᳚ प्रि॒येण॒ नाम्ना᳚ प्रि॒ये सद॑सि सीद ।
+घृ॒ताची॒ नाम्ना॑ प्रि॒येण॒ नाम्ना॑ प्रि॒ये सद॑सि सीद ।
 </details>
 <details><summary>Keith</summary>
 
@@ -552,7 +552,7 @@ Loving the ghee, sit on thy dear seat with thy dear name.
 </details>
 <details><summary>मूलम्</summary>
 
-घृ॒ताची॒ नाम्ना᳚ प्रि॒येण॒ नाम्ना᳚ प्रि॒ये सद॑सि सीद ।
+घृ॒ताची॒ नाम्ना॑ प्रि॒येण॒ नाम्ना॑ प्रि॒ये सद॑सि सीद ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -578,7 +578,7 @@ Thou art named dhruva.
 </details>
 <details><summary>मूलम्</summary>
 
-ध्रु॒वाऽसि॑ घृ॒ताची॒ नाम्ना᳚ प्रि॒येण॒ नाम्ना᳚ प्रि॒ये सद॑सि सीद ।
+ध्रु॒वाऽसि॑ घृ॒ताची॒ नाम्ना॑ प्रि॒येण॒ नाम्ना॑ प्रि॒ये सद॑सि सीद ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -589,7 +589,7 @@ Thou art named dhruva.
 <details open><summary><h5>घृताची ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-घृ॒ताची॒ नाम्ना᳚ प्रि॒येण॒ नाम्ना᳚ प्रि॒ये सद॑सि सीद ।
+घृ॒ताची॒ नाम्ना॑ प्रि॒येण॒ नाम्ना॑ प्रि॒ये सद॑सि सीद ।
 </details>
 <details><summary>Keith</summary>
 
@@ -597,7 +597,7 @@ Loving the ghee, sit on thy dear seat with thy dear name.
 </details>
 <details><summary>मूलम्</summary>
 
-घृ॒ताची॒ नाम्ना᳚ प्रि॒येण॒ नाम्ना᳚ प्रि॒ये सद॑सि सीद ।
+घृ॒ताची॒ नाम्ना॑ प्रि॒येण॒ नाम्ना॑ प्रि॒ये सद॑सि सीद ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -619,7 +619,7 @@ ____
 ता वि॑ष्णो पाहि ।  
 पा॒हि य॒ज्ञम् ।  
 पा॒हि य॒ज्ञप॑तिम् ।  
-पा॒हि माय्ँ य॑ज्ञ॒निय᳚म् ॥ [20]
+पा॒हि माय्ँ य॑ज्ञ॒निय॑म् ॥ [20]
 </details>
 <details><summary>Keith</summary>
 
@@ -629,15 +629,15 @@ Protect the sacrifice, protect the lord of the sacrifice, protect me that conduc
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-एता अ॑सदन्थ्सुकृ॒तस्य॑ लो॒के ता वि॑ष्णो पाहि पा॒हि य॒ज्ञम्पा॒हि य॒ज्ञप॑तिम्पा॒हि माय्ँय॑ज्ञ॒निय᳚म् ॥ [20]
+एता अ॑सदन्त्सुकृ॒तस्य॑ लो॒के ता वि॑ष्णो पाहि पा॒हि य॒ज्ञम्पा॒हि य॒ज्ञप॑तिम्पा॒हि माय्ँय॑ज्ञ॒निय॑म् ॥ [20]
 </details>
 <details><summary>मूलम्</summary>
 
-ए॒ता अ॑सदन्थ्सुकृ॒तस्य॑ लो॒के ।   
+ए॒ता अ॑सदन्त्सुकृ॒तस्य॑ लो॒के ।   
 ता वि॑ष्णो पाहि ।   
 पा॒हि य॒ज्ञम् ।  
 पा॒हि य॒ज्ञप॑तिम् ।  
-पा॒हि माय्ँय॑ज्ञ॒निय᳚म् ॥
+पा॒हि माय्ँय॑ज्ञ॒निय॑म् ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

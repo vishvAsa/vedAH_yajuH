@@ -41,38 +41,18 @@ title = "०२ उत्सर्जनम्"
 
 <details><summary>मूलम् - संयुक्तम्</summary>
 
-वायो᳚ व्रतप॒तेऽग्ने᳚ व्रतपते ।
+वायो॑ व्रतप॒तेऽग्ने॑ व्रतपते ।
 </details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वायो᳚ व्रतप॒ते
+वायो॑ व्रतप॒ते
 </details>
 
 <details><summary>मूलम्</summary>
 
-वायो᳚ व्रतप॒ते
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-… व्र॒तम् अ॑चारिषम् । तद् अ॑शक॒न्, तन् मे॑ ऽराधि ।
-</details>
-
-<details><summary>मूलम्</summary>
-
-व्र॒तम॑चारिषम् । तद॑शक॒न्तन्मे॑ऽराधि ।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-अग्ने᳚ व्रतपते!
-</details>
-
-<details><summary>मूलम्</summary>
-
-अग्ने᳚ व्रतपते!
+वायो॑ व्रतप॒ते
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -87,12 +67,32 @@ title = "०२ उत्सर्जनम्"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व्र॒ताना᳚व्ँव्रतपते
+अग्ने॑ व्रतपते!
 </details>
 
 <details><summary>मूलम्</summary>
 
-व्र॒ताना᳚व्ँव्रतपते
+अग्ने॑ व्रतपते!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+… व्र॒तम् अ॑चारिषम् । तद् अ॑शक॒न्, तन् मे॑ ऽराधि ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+व्र॒तम॑चारिषम् । तद॑शक॒न्तन्मे॑ऽराधि ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+व्र॒ताना॑व्व्ँरतपते
+</details>
+
+<details><summary>मूलम्</summary>
+
+व्र॒ताना॑व्व्ँरतपते
 </details>
 
 

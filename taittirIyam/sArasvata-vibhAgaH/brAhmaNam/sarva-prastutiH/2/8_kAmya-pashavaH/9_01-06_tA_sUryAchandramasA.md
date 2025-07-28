@@ -10,20 +10,20 @@ title = "९ ०१-०६ ता सूर्याचन्द्रमसा"
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA/02_tA_sUryAchandramasA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-ता सू᳚र्याचन्द्र॒मसा॑ विश्व॒-भृत्त॑मा म॒हत् ।   
+ता सू॑र्याचन्द्र॒मसा॑ विश्व॒-भृत्त॑मा म॒हत् ।   
 तेजो॒ वसु॑मद् **राजतो** दि॒वि ।  
-सामा᳚त्माना **चरतस्** साम-चा॒रिणा᳚ +++(न भेद-चारिणौ)+++ ।  
-ययो᳚र् व्र॒तन् न **म॒मे** जातु॑ दे॒वयोः᳚ ।
+सामा॑त्माना **चरतस्** साम-चा॒रिणा॑ +++(न भेद-चारिणौ)+++ ।  
+ययो॑र् व्र॒तन् न **म॒मे** जातु॑ दे॒वयोः॑ ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA/02_tA_sUryAchandramasA.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
-ता सू᳚र्याचन्द्र॒मसा॑ विश्व॒भृत्त॑मा म॒हत् ।   
+ता सू॑र्याचन्द्र॒मसा॑ विश्व॒भृत्त॑मा म॒हत् ।   
 तेजो॒ वसु॑मद्राजतो दि॒वि ।  
-सामा᳚त्माना चरतस्सामचा॒रिणा᳚ ।  
-ययो᳚र्व्र॒तन्न म॒मे जातु॑ दे॒वयोः᳚ ।
+सामा॑त्माना चरतस्सामचा॒रिणा॑ ।  
+ययो॑र्व्र॒तन्न म॒मे जातु॑ दे॒वयोः॑ ।
 </details>
 <details><summary>सायण-टीका</summary>
 
@@ -38,8 +38,8 @@ title = "९ ०१-०६ ता सूर्याचन्द्रमसा"
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA/07_ubhAv_antau.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-उ॒भाव् अन्तौ॒ **परि॑ यात॒** अर्म्या᳚+++(=गत्या)+++ ।   
-दि॒वो न र॒श्मीꣳस् **त॑नु॒तो व्य्** अ॑र्ण॒वे ।   
+उ॒भाव् अन्तौ॒ **परि॑ यात॒** अर्म्या॑+++(=गत्या)+++ ।   
+दि॒वो न र॒श्मीँस् **त॑नु॒तो व्य्** अ॑र्ण॒वे ।   
 उ॒भा **भु॑व॒न्ती** भुव॑ना क॒वि-क्र॑तू ।   
 सूर्या॒ न च॒न्द्रा **च॑रतो** ह॒ता-म॑ती ।
 </details>
@@ -48,8 +48,8 @@ title = "९ ०१-०६ ता सूर्याचन्द्रमसा"
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
-उ॒भावन्तौ॒ परि॑ यात॒ अर्म्या᳚ ।   
-दि॒वो न र॒श्मीꣳस्त॑नु॒तो व्य॑र्ण॒वे ।   
+उ॒भावन्तौ॒ परि॑ यात॒ अर्म्या॑ ।   
+दि॒वो न र॒श्मीँस्त॑नु॒तो व्य॑र्ण॒वे ।   
 उ॒भा भु॑व॒न्ती भुव॑ना क॒विक्र॑तू ।   
 सूर्या॒ न च॒न्द्रा च॑रतो ह॒ताम॑ती ।
 </details>
@@ -67,9 +67,9 @@ title = "९ ०१-०६ ता सूर्याचन्द्रमसा"
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA/11_patI_dyumad.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-पती᳚ द्यु॒मद् वि॑श्व॒-विदा॑ उ॒भा दि॒वः ।   
-सूर्या॑ उ॒भा च॒न्द्रम॑सा विचख्ष॒णा ॥ 71 ॥  
-वि॒श्व-वा॑रा **वरिवा**+++(=पूजितौ)+++ +उ॒भा वरे᳚ण्या ।  
+पती॑ द्यु॒मद् वि॑श्व॒-विदा॑ उ॒भा दि॒वः ।   
+सूर्या॑ उ॒भा च॒न्द्रम॑सा विचक्ष॒णा ॥ 71 ॥  
+वि॒श्व-वा॑रा **वरिवा**+++(=पूजितौ)+++ +उ॒भा वरे॑ण्या ।  
 ता नो॑ **ऽवतम्** मति॒मन्ता॒ महि॑व्रता ।
 </details>
 </div>
@@ -77,9 +77,9 @@ title = "९ ०१-०६ ता सूर्याचन्द्रमसा"
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
-पती᳚ द्यु॒मद्वि॑श्व॒विदा॑ उ॒भा दि॒वः ।   
-सूर्या॑ उ॒भा च॒न्द्रम॑सा विचख्ष॒णा ॥ 71 ॥  
-वि॒श्ववा॑रा वरिवो॒भा वरे᳚ण्या ।  
+पती॑ द्यु॒मद्वि॑श्व॒विदा॑ उ॒भा दि॒वः ।   
+सूर्या॑ उ॒भा च॒न्द्रम॑सा विचक्ष॒णा ॥ 71 ॥  
+वि॒श्ववा॑रा वरिवो॒भा वरे॑ण्या ।  
 ता नो॑ऽवतम्मति॒मन्ता॒ महि॑व्रता ।
 </details>
 <details><summary>सायण-टीका</summary>
@@ -98,7 +98,7 @@ title = "९ ०१-०६ ता सूर्याचन्द्रमसा"
 वि॒श्व॒-वप॑री+++(←वप्)+++ प्र॒तर॑णा **तर॒न्ता** ।   
 सु॒व॒र्-विदा॑ दृ॒शये॒ भूरि॑-रश्मी ।  
 सूर्या॒ हि च॒न्द्रा वसु॑ त्वे॒ष-द॑र्शता ।   
-म॒न॒स्विनो॒भा **ऽनु॑चर॒तो** नु॒ सन् दिव᳚म् ।
+म॒न॒स्विनो॒भा **ऽनु॑चर॒तो** नु॒ सन् दिव॑म् ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA/15_vishvavaparI_prataraNA.md">
@@ -108,7 +108,7 @@ title = "९ ०१-०६ ता सूर्याचन्द्रमसा"
 वि॒श्व॒वप॑री प्र॒तर॑णा तर॒न्ता ।   
 सु॒व॒र्विदा॑ दृ॒शये॒ भूरि॑रश्मी ।  
 सूर्या॒ हि च॒न्द्रा वसु॑ त्वे॒षद॑र्शता ।   
-म॒न॒स्विनो॒भानु॑चर॒तोनु॒ सन्दिव᳚म् ।
+म॒न॒स्विनो॒भानु॑चर॒तोनु॒ सन्दिव॑म् ।
 </details>
 <details><summary>सायण-टीका</summary>
 
@@ -426,7 +426,7 @@ Die sieben Ströme wahren schutzreich seinen Ruhm, die weiten Erd' und Himmel se
 
 पू॒र्वा॒प॒रञ् **च॑रतो** मा॒ययै॒तौ ।   
 शिशू॒ **क्रीड॑न्तौ॒** परि॑ यातो अ-ध्व॒रम्+++(=अ-हिंसम्  →यज्ञम्)+++ ।  
-विश्वा᳚न्य् +++(तयोर्)+++ अ॒न्यो भुव॑ना **ऽभि॒ चष्टे᳚** ।  
+विश्वा॑न्य् +++(तयोर्)+++ अ॒न्यो भुव॑ना **ऽभि॒ चष्टे॑** ।  
 ऋ॒तून् अ॒न्यो **वि॒दध॑ज् जायते॒** पुनः॑ ।+++(5)+++
 </details>
 </div>
@@ -436,7 +436,7 @@ Die sieben Ströme wahren schutzreich seinen Ruhm, die weiten Erd' und Himmel se
 
 पू॒र्वा॒प॒रञ्च॑रतो मा॒ययै॒तौ ।   
 शिशू॒ क्रीड॑न्तौ॒ परि॑ यातो अध्व॒रम् ।  
-विश्वा᳚न्य॒न्यो भुव॑नाऽभि॒ चष्टे᳚ ।  
+विश्वा॑न्य॒न्यो भुव॑नाऽभि॒ चष्टे॑ ।  
 ऋ॒तून॒न्यो वि॒दध॑ज्जायते॒ पुनः॑ ।
 </details>
 <details><summary>सायण-टीका</summary>

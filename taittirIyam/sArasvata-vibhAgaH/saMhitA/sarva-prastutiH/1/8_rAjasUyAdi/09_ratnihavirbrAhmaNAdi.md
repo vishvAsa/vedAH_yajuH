@@ -10,7 +10,7 @@ title = "०९ रत्निहविर्ब्राह्मणादि"
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-बा॒र्ह॒स्प॒त्यञ्च॒रुन्निर्व॑पति ब्र॒ह्मणो॑ गृ॒हे शि॑तिपृ॒ष्ठो दख्षि॑णै॒न्द्रमेका॑दशकपालꣳ राज॒न्य॑स्य गृ॒ह ऋ॑ष॒भो दख्षि॑णा ऽऽदि॒त्यञ्च॒रुम्महि॑ष्यै गृ॒हे धे॒नुर्दख्षि॑णा 
+बा॒र्ह॒स्प॒त्यञ्च॒रुन्निर्व॑पति ब्र॒ह्मणो॑ गृ॒हे शि॑तिपृ॒ष्ठो दक्षि॑णै॒न्द्रमेका॑दशकपालँ राज॒न्य॑स्य गृ॒ह ऋ॑ष॒भो दक्षि॑णा ऽऽदि॒त्यञ्च॒रुम्महि॑ष्यै गृ॒हे धे॒नुर्दक्षि॑णा 
 </details>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -22,7 +22,7 @@ title = "०९ रत्निहविर्ब्राह्मणादि"
 
 बा॒र्ह॒स्प॒त्यञ् च॒रुन् निर्व॑पति,  
 ब्र॒ह्मणो॑ गृ॒हे।    
-शि॑ति+++(=श्वेत)+++-पृ॒ष्ठो दख्षि॑णा  ।
+शि॑ति+++(=श्वेत)+++-पृ॒ष्ठो दक्षि॑णा  ।
 </details>
 <details><summary>Keith</summary>
 
@@ -32,7 +32,7 @@ To Brhaspati he offers an oblation in the house of the Brahman (priest); the sac
 
 बा॒र्ह॒स्प॒त्यञ्च॒रुन्निर्व॑पति  
 ब्र॒ह्मणो॑ गृ॒हे   
-शि॑तिपृ॒ष्ठो दख्षि॑णा  ।
+शि॑तिपृ॒ष्ठो दक्षि॑णा  ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -44,7 +44,7 @@ To Brhaspati he offers an oblation in the house of the Brahman (priest); the sac
 ऐ॒न्द्रम् एका॑दशकपालम्   +++(निर्व॑प॒ति)+++  
 रा॒ज॒न्य॑स्य गृ॒हे।     
 
-ऋ॑ष॒भो दख्षि॑णा  ।
+ऋ॑ष॒भो दक्षि॑णा  ।
 </details>
 <details><summary>Keith</summary>
 
@@ -56,7 +56,7 @@ To Brhaspati he offers an oblation in the house of the Brahman (priest); the sac
 
 रा॒ज॒न्य॑स्य गृ॒हे।     
 
-ऋ॑ष॒भो दख्षि॑णा  ।
+ऋ॑ष॒भो दक्षि॑णा  ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -67,7 +67,7 @@ To Brhaspati he offers an oblation in the house of the Brahman (priest); the sac
 आ॒दि॒त्यञ्च॒रुम्  
 म॒हि॑ष्यै गृ॒हे  +++(निर्व॑प॒ति)+++।     
 
-धे॒नुर्दख्षि॑णा ।
+धे॒नुर्दक्षि॑णा ।
 </details>
 <details><summary>Keith</summary>
 
@@ -79,7 +79,7 @@ To Aditya (he offers) an oblation in the house of the chief wife; the sacrificia
 
 महि॑ष्यै गृ॒हे  +++(निर्व॑प॒ति)+++।     
 
-धे॒नुर्दख्षि॑णा ।
+धे॒नुर्दक्षि॑णा ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -89,9 +89,9 @@ To Aditya (he offers) an oblation in the house of the chief wife; the sacrificia
 
 नै॒र्ऋ॒तञ् च॒रुम्  
 प॑रिवृ॒क्त्यै॑ +++(→उपेक्षित-पत्न्याः)+++ गृ॒हे  
-कृ॒ष्णाना᳚व्ँ व्रीही॒णान् न॒ख-नि॑र्भिन्नम्   +++(निर्व॑प॒ति)+++।
+कृ॒ष्णाना॑व्ँ व्रीही॒णान् न॒ख-नि॑र्भिन्नम्   +++(निर्व॑प॒ति)+++।
 
-कृ॒ष्णा कू॒टा+++(=भग्नशृङ्गा)+++ दख्षि॑णा ।
+कृ॒ष्णा कू॒टा+++(=भग्नशृङ्गा)+++ दक्षि॑णा ।
 </details>
 <details><summary>Keith</summary>
 
@@ -101,9 +101,9 @@ To Nirrti (he offers) an oblation in the house of the neglected wife, made up of
 
 नै॒र्ऋ॒तञ्च॒रुम्  
 प॑रिवृ॒क्त्यै॑ गृ॒हे   
-कृ॒ष्णाना᳚व्ँव्रीही॒णान्न॒खनि॑र्भिन्नम् ।
+कृ॒ष्णाना॑व्व्ँरीही॒णान्न॒खनि॑र्भिन्नम् ।
 
-कृ॒ष्णा कू॒टा दख्षि॑णा ।
+कृ॒ष्णा कू॒टा दक्षि॑णा ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -115,7 +115,7 @@ To Nirrti (he offers) an oblation in the house of the neglected wife, made up of
 आ॒ग्ने॒यम् अ॒ष्टाक॑पालम्  
 से॒ना॒न्यो॑ गृ॒हे  +++(निर्व॑प॒ति)+++।    
 
-हिर॑ण्य॒न् दख्षि॑णा  ।
+हिर॑ण्य॒न् दक्षि॑णा  ।
 </details>
 <details><summary>Keith</summary>
 
@@ -127,7 +127,7 @@ To Agni (he offers) on eight potsherds in the house of the leader of the host; t
 
 से॒ना॒न्यो॑ गृ॒हे  +++(निर्व॑प॒ति)+++।    
 
-हिर॑ण्य॒न्दख्षि॑णा  ।
+हिर॑ण्य॒न्दक्षि॑णा  ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -138,7 +138,7 @@ To Agni (he offers) on eight potsherds in the house of the leader of the host; t
 वा॒रु॒णन् दश॑कपालं    
 सू॒तस्य॑ गृ॒हे  +++(निर्व॑प॒ति)+++।    
 
-म॒हा-नि॑रष्टो॒+++(=निर्वृषणो)+++ दख्षि॑णा ।
+म॒हा-नि॑रष्टो॒+++(=निर्वृषणो)+++ दक्षि॑णा ।
 </details>
 <details><summary>Keith</summary>
 
@@ -150,7 +150,7 @@ To Varuna (he offers) on ten potsherds in the house of the minstrel; the sacrifi
 
 सू॒तस्य॑ गृ॒हे  +++(निर्व॑प॒ति)+++।    
 
-म॒हानि॑रष्टो॒ दख्षि॑णा ।
+म॒हानि॑रष्टो॒ दक्षि॑णा ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -158,9 +158,9 @@ To Varuna (he offers) on ten potsherds in the house of the minstrel; the sacrifi
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मा॒रु॒तꣳ स॒प्तक॑पालम् 
+मा॒रु॒तँ स॒प्तक॑पालम् 
 ग्राम॒ण्यो॑ गृ॒हे   +++(निर्व॑प॒ति)+++।  
-पृश्ञि॒र् दख्षि॑णा ।
+पृश्ञि॒र् दक्षि॑णा ।
 </details>
 <details><summary>Keith</summary>
 
@@ -168,10 +168,10 @@ To the Maruts (he offers) on seven potsherds in the house of the village headman
 </details>
 <details><summary>मूलम्</summary>
 
-मा॒रु॒तꣳ स॒प्तक॑पालम्   
+मा॒रु॒तँ स॒प्तक॑पालम्   
 ग्राम॒ण्यो॑ गृ॒हे   +++(निर्व॑प॒ति)+++।  
 
-पृश्ञि॒र्दख्षि॑णा ।
+पृश्ञि॒र्दक्षि॑णा ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -180,9 +180,9 @@ To the Maruts (he offers) on seven potsherds in the house of the village headman
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा॒वि॒त्रन् द्वाद॑शकपालं [15]  
-ख्ष॒त्तुर्+++(=दासिपुत्रस्य)+++ गृ॒हे  +++(निर्व॑प॒ति)+++।    
+क्ष॒त्तुर्+++(=दासिपुत्रस्य)+++ गृ॒हे  +++(निर्व॑प॒ति)+++।    
 
-उ॑पध्व॒स्तो+++(=परिभूतनिजवर्णो)+++ दख्षि॑णा ।
+उ॑पध्व॒स्तो+++(=परिभूतनिजवर्णो)+++ दक्षि॑णा ।
 </details>
 <details><summary>Keith</summary>
 
@@ -192,9 +192,9 @@ To Savitr (he offers) on twelve potsherds [1] in the house of the carver; the sa
 
 सा॒वि॒त्रन्द्वाद॑शकपालम्   +++(निर्व॑प॒ति)+++ ।    [15]
 
-ख्ष॒त्तुर्गृ॒हे  +++(निर्व॑प॒ति)+++।    
+क्ष॒त्तुर्गृ॒हे  +++(निर्व॑प॒ति)+++।    
 
-उ॑पध्व॒स्तो दख्षि॑णा ।
+उ॑पध्व॒स्तो दक्षि॑णा ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -205,7 +205,7 @@ To Savitr (he offers) on twelve potsherds [1] in the house of the carver; the sa
 आ॒श्वि॒नन् द्वि॑कपा॒लं  
 सङ्ग्रही॒तुर् गृ॒हे   +++(निर्व॑प॒ति)+++।   
 
-स॒वा॒त्यौ॑+++(=सोदर्यौ)+++ दख्षि॑णा ।
+स॒वा॒त्यौ॑+++(=सोदर्यौ)+++ दक्षि॑णा ।
 </details>
 <details><summary>Keith</summary>
 
@@ -217,7 +217,7 @@ To the Aśvins (he offers) on two potsherds in the house of the charioteer; the 
 
 स॒ङ्ग्र॒ही॒तुर्गृ॒हे   +++(निर्व॑प॒ति)+++।   
 
-स॒वा॒त्यौ॑ दख्षि॑णा ।
+स॒वा॒त्यौ॑ दक्षि॑णा ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -228,7 +228,7 @@ To the Aśvins (he offers) on two potsherds in the house of the charioteer; the 
 पौ॒ष्णञ्च॒रुम्  
 भागदु॒घस्य॑ गृ॒हे    +++(निर्व॑प॒ति)+++।  
 
-श्या॒मो दख्षि॑णा ।
+श्या॒मो दक्षि॑णा ।
 </details>
 <details><summary>Keith</summary>
 
@@ -240,7 +240,7 @@ To Pusan (he offers) an oblation in the house of the divider; the sacrificial fe
 
 भा॒ग॒दु॒घस्य॑ गृ॒हे    +++(निर्व॑प॒ति)+++।  
 
-श्या॒मो दख्षि॑णा ।
+श्या॒मो दक्षि॑णा ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -249,9 +249,9 @@ To Pusan (he offers) an oblation in the house of the divider; the sacrificial fe
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रौ॒द्रङ् गा॑वीधु॒कञ् च॒रुम्  
-अख्षावा॒पस्य॑ गृ॒हे +++(निर्व॑प॒ति)+++।   
+अक्षावा॒पस्य॑ गृ॒हे +++(निर्व॑प॒ति)+++।   
 
-श॒बल॒ उद्वा॑र+++(=उद्वाल)+++ दख्षि॑णा  ।    
+श॒बल॒ उद्वा॑र+++(=उद्वाल)+++ दक्षि॑णा  ।    
 </details>
 <details><summary>Keith</summary>
 
@@ -261,9 +261,9 @@ To Rudra (he offers) an oblation of Gavidhuka in the house of the thrower of the
 
 रौ॒द्रङ् गा॑वीधु॒कञ् +++(=गावीधुक-तृणजम्)+++ च॒रुम्  
 
-अ॒ख्षा॒वा॒पस्य॑ गृ॒हे +++(निर्व॑प॒ति)+++।   
+अ॒क्षा॒वा॒पस्य॑ गृ॒हे +++(निर्व॑प॒ति)+++।   
 
-श॒बल॒ उद्वा॑र दख्षि॑णा  ।    
+श॒बल॒ उद्वा॑र दक्षि॑णा  ।    
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -272,7 +272,7 @@ To Rudra (he offers) an oblation of Gavidhuka in the house of the thrower of the
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन्द्रा॑य सु॒-त्राम्णे॑ पुरो॒डाश॒म् एका॑दशकपाल॒म् प्रति॒ निर्व॑प॒ति+   
-इन्द्रा॑याꣳहो॒मुचे॒ +++(चानेन मन्त्रेण - )+++  
+इन्द्रा॑याँहो॒मुचे॒ +++(चानेन मन्त्रेण - )+++  
 +++(केचिदृषभं दक्षिणामाहुः ॥)+++
 </details>
 <details><summary>Keith</summary>
@@ -281,7 +281,7 @@ To Indra, the good protector, he offers a cake on eleven potsherds and to Indra,
 </details>
 <details><summary>मूलम्</summary>
 
-इन्द्रा॑य सु॒त्राम्णे॑ पुरो॒डाश॒मेका॑दशकपाल॒म्प्रति॒ निर्व॑प॒तीन्द्रा॑याꣳहो॒मुचे
+इन्द्रा॑य सु॒त्राम्णे॑ पुरो॒डाश॒मेका॑दशकपाल॒म्प्रति॒ निर्व॑प॒तीन्द्रा॑याँहो॒मुचे
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -328,7 +328,7 @@ There is (an offering) to Mitra and Brhaspati;
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-… श्वे॒तायै᳚ श्वे॒तव॑थ्सायै दु॒ग्धे +++(बार्हस्पत्यः कर्तव्यः)+++,  
+… श्वे॒तायै॑ श्वे॒तव॑त्सायै दु॒ग्धे +++(बार्हस्पत्यः कर्तव्यः)+++,  
 +++(मैत्रस् तु -)+++ स्व॑यम्+++(तञ्चनतो)+++-मू॒र्ते  
 +++(बदरादि-संयोगेन)+++ स्व॑यम्-मथि॒त  
 +++(आतपे स्थापनेन स्वयं विलीनय्)+++ आज्ये॒ …  
@@ -339,7 +339,7 @@ in the milk of a white (cow) with a white calf which has curdled itself, and in 
 </details>
 <details><summary>मूलम्</summary>
 
-श्वे॒तायै᳚ श्वे॒तव॑थ्सायै दु॒ग्धे स्व॑यम्-मू॒र्ते स्व॑यम्मथि॒त आज्ये॒  
+श्वे॒तायै॑ श्वे॒तव॑त्सायै दु॒ग्धे स्व॑यम्-मू॒र्ते स्व॑यम्मथि॒त आज्ये॒  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -379,7 +379,7 @@ in a dish of Aśvattha wood [2] with four corners (made) of a branch which has f
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-क॒र्णाꣳश् चाक॑र्णाꣳश्+++(=निष्फलीकृताः)+++ च तण्डु॒लान् वि चि॑नुयात् ।  
+क॒र्णाँश् चाक॑र्णाँश्+++(=निष्फलीकृताः)+++ च तण्डु॒लान् वि चि॑नुयात् ।  
 </details>
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -387,7 +387,7 @@ he should scatter husked and unhusked rice grains;
 </details>
 <details><summary>मूलम्</summary>
 
-क॒र्णाꣳश्चाक॑र्णाꣳश्च तण्डु॒लान् वि चि॑नुयात् ।  
+क॒र्णाँश्चाक॑र्णाँश्च तण्डु॒लान् वि चि॑नुयात् ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -418,7 +418,7 @@ the husked ones in the milk are Brhaspati's, the unhusked in the butter are Mitr
 स्व॑यङ्कृ॒ता वेदि॑र् भवति  
 स्वयन्-दि॒नम् ब॒र्हिस्,  
 स्व॑यङ्-कृ॒त इ॒ध्मस्,  
-सैव श्वे॒ता श्वे॒त-व॑थ्सा॒ दख्षि॑णा ॥  
+सैव श्वे॒ता श्वे॒त-व॑त्सा॒ दक्षि॑णा ॥  
 +++(एषु समन्त्रकसंस्कारो न क्रियते च।)+++
 </details>
 <details><summary>Keith</summary>
@@ -427,7 +427,7 @@ the Vedi must be self-made, the strew self-cut, the kindling-stick self-made; th
 </details>
 <details><summary>मूलम्</summary>
 
-स्व॑यङ्कृ॒ता वेदि॑र्भवति स्वयन्दि॒नम्ब॒र्हिस्स्व॑यङ्कृ॒त इ॒ध्मस्सैव श्वे॒ता श्वे॒तव॑थ्सा॒ दख्षि॑णा ॥
+स्व॑यङ्कृ॒ता वेदि॑र्भवति स्वयन्दि॒नम्ब॒र्हिस्स्व॑यङ्कृ॒त इ॒ध्मस्सैव श्वे॒ता श्वे॒तव॑त्सा॒ दक्षि॑णा ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

@@ -61,7 +61,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-चख्षु॑स् त॒ आ प्या॑यताम् ।
+चक्षु॑स् त॒ आ प्या॑यताम् ।
 </details>
 <details><summary>Keith</summary>
 
@@ -69,7 +69,7 @@ let thine eye swell,
 </details>
 <details><summary>मूलम्</summary>
 
-चख्षु॑स्त॒ आ प्या॑यताम् ।
+चक्षु॑स्त॒ आ प्या॑यताम् ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -106,9 +106,9 @@ _______
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/09_pashu-prANApyAyanAdi/02_yA_te.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-या ते᳚ प्रा॒णाञ् **छुग्** ज॒गाम    
-या चख्षु॒र्, या श्रोत्र᳚म्   
-यत् ते᳚ **क्रू॒रय्ँ** यद् आस्थि॑तम्   
+या ते॑ प्रा॒णाञ् **छुग्** ज॒गाम    
+या चक्षु॒र्, या श्रोत्र॑म्   
+यत् ते॑ **क्रू॒रय्ँ** यद् आस्थि॑तम्   
 तत् त॒ **आ प्या॑यताम्**,      
 तत् त॑ ए॒तेन॑ **शुन्धताम्**।
 </details>
@@ -127,13 +127,13 @@ let that hereby be pure.
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-या ते᳚ प्रा॒णाञ्छुग्ज॒गाम॒ या चख्षु॒र्या श्रोत्र॒य्ँयत्ते᳚ क्रू॒रय्ँयदास्थि॑त॒न्तत्त॒ आ प्या॑यता॒न्तत्त॑ ए॒तेन॑ शुन्धताम्
+या ते॑ प्रा॒णाञ्छुग्ज॒गाम॒ या चक्षु॒र्या श्रोत्र॒य्ँयत्ते॑ क्रू॒रय्ँयदास्थि॑त॒न्तत्त॒ आ प्या॑यता॒न्तत्त॑ ए॒तेन॑ शुन्धताम्
 </details>
 <details><summary>मूलम्</summary>
 
-या ते᳚ प्रा॒णाञ्छुग्ज॒गाम  +++(८ अष्टाक्षराणि च)+++    
-या चख्षु॒र्या श्रोत्र᳚म्  +++(ऋतु ६ अक्षराणि)+++   
-यत्ते᳚ क्रू॒रय्ँयदास्थि॑तम्  +++(वसु ८ अक्षराणि)+++   
+या ते॑ प्रा॒णाञ्छुग्ज॒गाम  +++(८ अष्टाक्षराणि च)+++    
+या चक्षु॒र्या श्रोत्र॑म्  +++(ऋतु ६ अक्षराणि)+++   
+यत्ते॑ क्रू॒रय्ँयदास्थि॑तम्  +++(वसु ८ अक्षराणि)+++   
 तत्त॒ आ प्या॑यताम्  +++(षट् ६ अक्षराणि)+++    
 तत्त॑ ए॒तेन॑ शुन्धताम्  +++(अष्ट ८ अक्षराणि)+++   ॥
 </details>
@@ -203,14 +203,14 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शु॒द्धाश् च॒रित्राः᳚ ।  
+शु॒द्धाश् च॒रित्राः॑ ।  
 शम् अ॒द्भ्यः ।   
 शमोष॑धीभ्यः ।  
 शम्पृ॑थि॒व्यै ।  
 </details>
 <details><summary>मूलम्</summary>
 
-शु॒द्धाश् च॒रित्राः᳚ ।  
+शु॒द्धाश् च॒रित्राः॑ ।  
 शम् अ॒द्भ्यः ।   
 शम् ओष॑धीभ्यः ।  
 शम् पृ॑थि॒व्यै ।  
@@ -238,7 +238,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शम् अहो᳚भ्याम् ।
+शम् अहो॑भ्याम् ।
 </details>
 <details><summary>Keith</summary>
 
@@ -246,7 +246,7 @@ Hail to night and day!
 </details>
 <details><summary>मूलम्</summary>
 
-शमहो᳚भ्याम् ।
+शमहो॑भ्याम् ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -271,7 +271,7 @@ O plant, protect him.
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-ओष॑धे॒ त्राय॑स्वैन॒ꣵ॒ स्वधि॑ते॒ मैनꣳ॑ हिꣳसीः
+ओष॑धे॒ त्राय॑स्वैनँ॒ स्वधि॑ते॒ मैनँ॑ हिँसीः
 </details>
 <details><summary>मूलम्</summary>
 
@@ -300,7 +300,7 @@ _______
 <details open><summary><h5>स्वधिते ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्वधि॑ते॒+++(=क्षुर)+++! मैनꣳ॑ हिꣳसीः  ।+++(र४)+++
+स्वधि॑ते॒+++(=क्षुर)+++! मैनँ॑ हिँसीः  ।+++(र४)+++
 </details>
 <details><summary>Keith</summary>
 
@@ -308,7 +308,7 @@ Axe, hurt him not.
 </details>
 <details><summary>मूलम्</summary>
 
-स्वधि॑ते॒ मैनꣳ॑ हिꣳसीः  ।
+स्वधि॑ते॒ मैनँ॑ हिँसीः  ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -330,12 +330,12 @@ _______
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-रख्ष॑साम्भा॒गो॑ऽसी॒दम॒हꣳ रख्षो॑ऽध॒मन्तमो॑ नयामि 
+रक्ष॑साम्भा॒गो॑ऽसी॒दम॒हँ रक्षो॑ऽध॒मन्तमो॑ नयामि 
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रख्ष॑साम् भा॒गो॑ ऽसि ।  
-इ॒दम् अ॒हꣳ रख्षो॑ ऽध॒मन् तमो॑ नयामि।
+रक्ष॑साम् भा॒गो॑ ऽसि ।  
+इ॒दम् अ॒हँ रक्षो॑ ऽध॒मन् तमो॑ नयामि।
 </details>
 <details><summary>Keith</summary>
 
@@ -344,8 +344,8 @@ This Raksas here I lead to the lowest darkness.
 </details>
 <details><summary>मूलम्</summary>
 
-रख्ष॑साम्भा॒गो॑ऽसि।  
-इ॒दम॒हꣳ रख्षो॑ऽध॒मन्तमो॑ नयामि ।
+रक्ष॑साम्भा॒गो॑ऽसि।  
+इ॒दम॒हँ रक्षो॑ऽध॒मन्तमो॑ नयामि ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -355,7 +355,7 @@ This Raksas here I lead to the lowest darkness.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो᳚ ऽस्मान् द्वेष्टि॒  
+यो॑ ऽस्मान् द्वेष्टि॒  
 यञ् च॑ व॒यन् द्वि॒ष्म  
 इ॒दम् ए॑नम्  
 अध॒मन् तमो॑ नयामि ।
@@ -367,7 +367,7 @@ here him I lead to the lowest darkness.
 </details>
 <details><summary>मूलम्</summary>
 
-यो᳚ऽस्मान्द्वेष्टि॒ यञ्च॑ व॒यन्द्वि॒ष्म इ॒दमे॑नमध॒मन्तमो॑ नयामि ।
+यो॑ऽस्मान्द्वेष्टि॒ यञ्च॑ व॒यन्द्वि॒ष्म इ॒दमे॑नमध॒मन्तमो॑ नयामि ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -463,7 +463,7 @@ _______
 <details open><summary><h5>उर्वन्तरिक्षम् ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒र्व् अ᳕न्तरि॑ख्ष॒म् अन्वि॑हि ।  
+उ॒र्व् अ᳕न्तरि॑क्ष॒म् अन्वि॑हि ।  
 +++(महान् पन्थाः, सुखेन गच्छेति भावः ॥)+++
 </details>
 <details><summary>Keith</summary>
@@ -472,7 +472,7 @@ Fare along the wide atmosphere.
 </details>
 <details><summary>मूलम्</summary>
 
-उ॒र्व॑न्तरि॑ख्ष॒मन्वि॑हि ।
+उ॒र्व॑न्तरि॑क्ष॒मन्वि॑हि ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -494,7 +494,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वायो॒ वीहि॑ स्तो॒काना᳚म्  ।
+वायो॒ वीहि॑ स्तो॒काना॑म्  ।
 </details>
 <details><summary>Keith</summary>
 
@@ -502,7 +502,7 @@ O Vayu, taste the drops.
 </details>
 <details><summary>मूलम्</summary>
 
-वायो॒ वीहि॑ स्तो॒काना᳚म्  ।
+वायो॒ वीहि॑ स्तो॒काना॑म्  ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

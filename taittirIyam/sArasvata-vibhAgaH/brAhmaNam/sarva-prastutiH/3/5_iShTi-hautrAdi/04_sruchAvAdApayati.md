@@ -7,13 +7,13 @@ unicode_script: devanagari
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ॒ग्निर् होता॒ वेत्व॒ग्निः ।  
-हो॒त्रव्ँ वे᳚त्तु प्रावि॒त्रम् ।  
+हो॒त्रव्ँ वे॑त्तु प्रावि॒त्रम् ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
 अ॒ग्निर् होता॒ वेत्व॒ग्निः ।  
-हो॒त्रव्ँ वे᳚त्तु प्रावि॒त्रम् ।  
+हो॒त्रव्ँ वे॑त्तु प्रावि॒त्रम् ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -38,12 +38,12 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सा॒धु ते॑ यजमान दे॒वता᳚ ।  
+सा॒धु ते॑ यजमान दे॒वता॑ ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
-सा॒धु ते॑ यजमान दे॒वता᳚ ।  
+सा॒धु ते॑ यजमान दे॒वता॑ ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -83,14 +83,14 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ईडा॑महै दे॒वाꣳ ई॒डेन्या॑न् ।  
+ईडा॑महै दे॒वाँ ई॒डेन्या॑न् ।  
 न॒म॒स्याम॑ नम॒स्या॑न् ।   
 यजा॑म य॒ज्ञिया॑न् ॥7॥  
 </details>
 
 <details><summary>मूलम्</summary>
 
-ईडा॑महै दे॒वाꣳ ई॒डेन्या॑न् ।  
+ईडा॑महै दे॒वाँ ई॒डेन्या॑न् ।  
 न॒म॒स्याम॑ नम॒स्या॑न् ।   
 यजा॑म य॒ज्ञिया॑न् ॥7॥  
 </details>

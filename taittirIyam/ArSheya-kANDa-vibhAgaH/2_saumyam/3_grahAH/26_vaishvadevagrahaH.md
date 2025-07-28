@@ -14,12 +14,12 @@ _______
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-सु॒शर्मा॑ऽसि सुप्रतिष्ठा॒नो बृ॒हदु॒ख्षे नमः॑ ।
+सु॒शर्मा॑ऽसि सुप्रतिष्ठा॒नो बृ॒हदु॒क्षे नमः॑ ।
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(वैश्वदेवगण!)+++ सु॒शर्मा॑ऽसि सुप्रतिष्ठा॒नः।  
-बृ॒हद् +++(→नमः)+++ उ॒ख्षे+++(=सेक्त्रे वृषभाय)+++ नमः॑ ।
+बृ॒हद् +++(→नमः)+++ उ॒क्षे+++(=सेक्त्रे वृषभाय)+++ नमः॑ ।
 </details>
 <details><summary>Keith</summary>
 
@@ -30,7 +30,7 @@ Homage to the great bull!
 <details><summary>मूलम्</summary>
 
 सु॒शर्मा॑ऽसि सुप्रतिष्ठा॒नः।   
-बृ॒हदु॒ख्षे नमः॑ ।
+बृ॒हदु॒क्षे नमः॑ ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -48,7 +48,7 @@ Homage to the great bull!
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ष ते॒ योनि॒र्, विश्वे᳚भ्यस्त्वा दे॒वेभ्यः॑ ॥ [17]
+ए॒ष ते॒ योनि॒र्, विश्वे॑भ्यस्त्वा दे॒वेभ्यः॑ ॥ [17]
 </details>
 <details><summary>Keith</summary>
 
@@ -56,7 +56,7 @@ This is thy birthplace; to the All-gods thee!
 </details>
 <details><summary>मूलम्</summary>
 
-ए॒ष ते॒ योनि॒र्विश्वे᳚भ्यस्त्वा दे॒वेभ्यः॑ ॥ [17]
+ए॒ष ते॒ योनि॒र्विश्वे॑भ्यस्त्वा दे॒वेभ्यः॑ ॥ [17]
 </details>
 </details>
 </div>

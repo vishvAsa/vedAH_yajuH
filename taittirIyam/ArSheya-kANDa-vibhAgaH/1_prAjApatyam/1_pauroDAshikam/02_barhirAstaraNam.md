@@ -48,7 +48,7 @@ ____
 <details open><summary><h2>प्रत्युष्टं रक्षः ...{Loading}...</h2></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रत्यु॑ष्ट॒ꣳ॒ रख्ष॒ᳶ, प्रत्यु॑ष्टा॒ अरा॑तयः+++(=अदातारः)+++।
+प्रत्यु॑ष्टँ॒ रक्ष॒ᳶ, प्रत्यु॑ष्टा॒ अरा॑तयः+++(=अदातारः)+++।
 </details>
 <details><summary>Keith</summary>
 
@@ -57,11 +57,11 @@ The Raksas is burned up, the evil spirits are burned up.
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-प्रत्यु॑ष्ट॒ꣳ॒ रख्ष॒ᳶ प्रत्यु॑ष्टा॒ अरा॑तयः
+प्रत्यु॑ष्टँ॒ रक्ष॒ᳶ प्रत्यु॑ष्टा॒ अरा॑तयः
 </details>
 <details><summary>मूलम्</summary>
 
-प्रत्यु॑ष्ट॒ꣳ॒ रख्षः॑ ।  
+प्रत्यु॑ष्टँ॒ रक्षः॑ ।  
 प्रत्यु॑ष्टा॒ अरा॑तयः ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -86,7 +86,7 @@ ____
 
 प्र+इ॒यम् +++(अश्वपर्शोर् धारा)+++ **अ॑गाद्**, धि॒षणा॑+++(=धृष्टा [लवने])+++ ब॒र्हिर् अच्छ॒ +++(आप्तुं)+++  
 मनु॑ना कृ॒ता, स्व॒धया॒+++(=अश्वमांसेन)+++ वित॑ष्टा॒+++(=वितनूकृता)+++।  
-त +++(कवयो बर्हिर्)+++ **आव॑हन्ति** क॒वयᳶ॑ पु॒रस्ता᳚द्  
+त +++(कवयो बर्हिर्)+++ **आव॑हन्ति** क॒वयᳶ॑ पु॒रस्ता॑द्  
 दे॒वेभ्यो॒ जुष्ट॑म्, इ॒ह +++(वेद्यां)+++ ब॒र्हिर् आ॒सदे॑+++(=आसादयितव्यम्)+++।
 </details>
 </div>
@@ -101,12 +101,12 @@ The delightful straw for the gods to sit on here.
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-प्रेयम॑गाद्धि॒षणा॑ ब॒र्हिरच्छ॒ मनु॑ना कृ॒ता स्व॒धया॒ वित॑ष्टा॒ त आव॑हन्ति क॒वयᳶ॑ पु॒रस्ता᳚द्दे॒वेभ्यो॒ जुष्ट॑मि॒ह ब॒र्हिरा॒सदे॑
+प्रेयम॑गाद्धि॒षणा॑ ब॒र्हिरच्छ॒ मनु॑ना कृ॒ता स्व॒धया॒ वित॑ष्टा॒ त आव॑हन्ति क॒वयᳶ॑ पु॒रस्ता॑द्दे॒वेभ्यो॒ जुष्ट॑मि॒ह ब॒र्हिरा॒सदे॑
 </details>
 <details><summary>मूलम्</summary>
 
 प्रेयम॑गाद्धि॒षणा॑ ब॒र्हिरच्छ॒ मनु॑ना कृ॒ता स्व॒धया॒ वित॑ष्टा ।   
-त आव॑हन्ति क॒वयᳶ॑ पु॒रस्ता᳚द्दे॒वेभ्यो॒ जुष्ट॑मि॒ह ब॒र्हिरा॒सदे॑ ॥
+त आव॑हन्ति क॒वयᳶ॑ पु॒रस्ता॑द्दे॒वेभ्यो॒ जुष्ट॑मि॒ह ब॒र्हिरा॒सदे॑ ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -153,7 +153,7 @@ ____
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वाना᳚म् परि-षू॒तम्+++(=गृहीतम्)+++ अ॑सि। 
+दे॒वाना॑म् परि-षू॒तम्+++(=गृहीतम्)+++ अ॑सि। 
 </details>
 <details><summary>Keith</summary>
 
@@ -162,7 +162,7 @@ Thou art impelled by the gods.
 </details>
 <details><summary>मूलम्</summary>
 
-दे॒वाना᳚म्परिषू॒तम॑सि ।
+दे॒वाना॑म्परिषू॒तम॑सि ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -334,7 +334,7 @@ O divine straw, rise with a hundred shoots,
 <details open><summary><h5>सहस्र-वल्शाः ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒हस्र॑-वल्शाः॒+++(=प्ररोहाः)+++ वि व॒यꣳ रु॑हेम ।
+स॒हस्र॑-वल्शाः॒+++(=प्ररोहाः)+++ वि व॒यँ रु॑हेम ।
 </details>
 <details><summary>Keith</summary>
 
@@ -342,7 +342,7 @@ Let us rise with a thousand shoots.
 </details>
 <details><summary>मूलम्</summary>
 
-स॒हस्र॑वल्शाः॒ [2] विव॒यꣳ रु॑हेम ।
+स॒हस्र॑वल्शाः॒ [2] विव॒यँ रु॑हेम ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -394,7 +394,7 @@ ____
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सु॒स॒म्भृता᳚ +++(रज्ज्वा)+++ त्वा॒ सम्भ॑रामि +++(इतरमुष्टिभिस् सह)+++ ।
+सु॒स॒म्भृता॑ +++(रज्ज्वा)+++ त्वा॒ सम्भ॑रामि +++(इतरमुष्टिभिस् सह)+++ ।
 </details>
 <details><summary>Keith</summary>
 
@@ -402,7 +402,7 @@ I gather thee with good gathering.
 </details>
 <details><summary>मूलम्</summary>
 
-सु॒स॒म्भृता᳚ त्वा॒ सम्भ॑रामि ।
+सु॒स॒म्भृता॑ त्वा॒ सम्भ॑रामि ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -467,7 +467,7 @@ ____
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पू॒षा ते᳚ ग्र॒न्थिङ् ग्र॑थ्नातु  ।
+पू॒षा ते॑ ग्र॒न्थिङ् ग्र॑थ्नातु  ।
 </details>
 <details><summary>Keith</summary>
 
@@ -475,7 +475,7 @@ Let Pusan tie a knot for thee,
 </details>
 <details><summary>मूलम्</summary>
 
-पू॒षा ते᳚ ग्र॒न्थिङ्ग्र॑थ्नातु  ।
+पू॒षा ते॑ ग्र॒न्थिङ्ग्र॑थ्नातु  ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -490,7 +490,7 @@ ____
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स +++(ग्रन्थिः)+++ ते॒ मा +++(प्रदेशान्तरम्)+++ ऽऽस्था᳚त् ।
+स +++(ग्रन्थिः)+++ ते॒ मा +++(प्रदेशान्तरम्)+++ ऽऽस्था॑त् ।
 </details>
 <details><summary>Keith</summary>
 
@@ -498,7 +498,7 @@ that knot shall mount me.
 </details>
 <details><summary>मूलम्</summary>
 
-स ते॒ माऽऽस्था᳚त् ।
+स ते॒ माऽऽस्था॑त् ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -537,7 +537,7 @@ ____
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-बृह॒स्पते᳚र् मू॒र्ध्ना ह॑रामि ।  
+बृह॒स्पते॑र् मू॒र्ध्ना ह॑रामि ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -545,7 +545,7 @@ I seize thee with the head of Brhaspati.
 </details>
 <details><summary>मूलम्</summary>
 
-बृह॒स्पते᳚र्मू॒र्ध्ना ह॑रामि ।
+बृह॒स्पते॑र्मू॒र्ध्ना ह॑रामि ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -562,7 +562,7 @@ ____
 <details open><summary><h2>उर्वन्तरिक्षम् ...{Loading}...</h2></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒र्व् अ᳕न्तरि॑ख्ष॒म् अन्वि॑हि ।  
+उ॒र्व् अ᳕न्तरि॑क्ष॒म् अन्वि॑हि ।  
 +++(महान् पन्थाः, सुखेन गच्छेति भावः ॥)+++
 </details>
 <details><summary>Keith</summary>
@@ -571,7 +571,7 @@ Fare along the wide atmosphere.
 </details>
 <details><summary>मूलम्</summary>
 
-उ॒र्व॑न्तरि॑ख्ष॒मन्वि॑हि ।
+उ॒र्व॑न्तरि॑क्ष॒मन्वि॑हि ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

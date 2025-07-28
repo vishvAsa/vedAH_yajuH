@@ -7,12 +7,12 @@ title = "१७ संसृपां दशसङ्ख्याकहविष
 
 <details><summary>मूलम् - संयुक्तम्</summary>
 
-आ॒ग्ने॒यम॒ष्टाक॑पाल॒न्निर्व॑पति॒ हिर॑ण्य॒न्दख्षि॑णा सारस्व॒तञ्च॒रुव्ँव॑थ्सत॒री दख्षि॑णा सावि॒त्रन्द्वाद॑शकपालमुपध्व॒स्तो दख्षि॑णा पौ॒ष्णञ्च॒रुꣵ श्या॒मो दख्षि॑णा बार्‌हस्प॒त्यञ्च॒रुꣳ शि॑तिपृ॒ष्ठो दख्षि॑णै॒न्द्रमेका॑दशकपालमृष॒भो दख्षि॑णा वारु॒णन्दश॑कपालम्म॒हानि॑रष्टो॒ दख्षि॑णा सौ॒म्यञ्च॒रुम्ब॒भ्रुर्दख्षि॑णा त्वा॒ष्ट्रम॒ष्टाक॑पालꣳ शु॒ण्ठो दख्षि॑णा वैष्ण॒वन्त्रि॑कपा॒लव्ँवा॑म॒नो दख्षि॑णा ॥
+आ॒ग्ने॒यम॒ष्टाक॑पाल॒न्निर्व॑पति॒ हिर॑ण्य॒न्दक्षि॑णा सारस्व॒तञ्च॒रुव्ँव॑त्सत॒री दक्षि॑णा सावि॒त्रन्द्वाद॑शकपालमुपध्व॒स्तो दक्षि॑णा पौ॒ष्णञ्च॒रुँ श्या॒मो दक्षि॑णा बार्‌हस्प॒त्यञ्च॒रुँ शि॑तिपृ॒ष्ठो दक्षि॑णै॒न्द्रमेका॑दशकपालमृष॒भो दक्षि॑णा वारु॒णन्दश॑कपालम्म॒हानि॑रष्टो॒ दक्षि॑णा सौ॒म्यञ्च॒रुम्ब॒भ्रुर्दक्षि॑णा त्वा॒ष्ट्रम॒ष्टाक॑पालँ शु॒ण्ठो दक्षि॑णा वैष्ण॒वन्त्रि॑कपा॒लव्ँवा॑म॒नो दक्षि॑णा ॥
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ॒ग्ने॒यम् अ॒ष्टा-क॑पाल॒न् निर्व॑पति॒, 
-हिर॑ण्य॒न् दख्षि॑णा ।
+हिर॑ण्य॒न् दक्षि॑णा ।
 </details>
 <details><summary>Keith</summary>
 
@@ -21,7 +21,7 @@ He offers to Agni on eight potsherds; the sacrificial fee is gold.
 <details><summary>मूलम्</summary>
 
 आ॒ग्ने॒यम॒ष्टाक॑पाल॒न्निर्व॑पति॒  ..
-हिर॑ण्य॒न्दख्षि॑णा ।
+हिर॑ण्य॒न्दक्षि॑णा ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -32,7 +32,7 @@ He offers to Agni on eight potsherds; the sacrificial fee is gold.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा॒र॒स्व॒तञ् च॒रुम्  +++(निर्वपति)+++ ।
-व॒थ्स॒त॒री+++(=पौगण्ड-वत्सा)+++ दख्षि॑णा ।
+व॒त्स॒त॒री+++(=पौगण्ड-वत्सा)+++ दक्षि॑णा ।
 </details>
 <details><summary>Keith</summary>
 
@@ -41,7 +41,7 @@ He offers to Agni on eight potsherds; the sacrificial fee is gold.
 <details><summary>मूलम्</summary>
 
 सा॒र॒स्व॒तञ्च॒रुम्  +++(निर्वपति)+++ ,
-व॒थ्स॒त॒री दख्षि॑णा ।
+व॒त्स॒त॒री दक्षि॑णा ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -50,7 +50,7 @@ He offers to Agni on eight potsherds; the sacrificial fee is gold.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा॒वि॒त्रन् द्वाद॑श-कपालम्  +++(निर्वपति)+++ ।    
-उ॒प॒ध्व॒स्तो दख्षि॑णा ।
+उ॒प॒ध्व॒स्तो दक्षि॑णा ।
 </details>
 <details><summary>हिन्दी</summary>
 
@@ -59,7 +59,7 @@ To Savitr (he offers) on twelve potsherds; the sacrificial fee is a speckled (ox
 <details><summary>मूलम्</summary>
 
 सा॒वि॒त्रन्द्वाद॑शकपालम्  +++(निर्वपति)+++ ,    
-उ॒प॒ध्व॒स्तो +++(=शबलोक्षो)+++ दख्षि॑णा ।
+उ॒प॒ध्व॒स्तो +++(=शबलोक्षो)+++ दक्षि॑णा ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -68,7 +68,7 @@ To Savitr (he offers) on twelve potsherds; the sacrificial fee is a speckled (ox
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पौ॒ष्णञ् च॒रुम्  +++(निर्वपति)+++ ,   
-श्या॒मो दख्षि॑णा ।
+श्या॒मो दक्षि॑णा ।
 </details>
 <details><summary>Keith</summary>
 
@@ -77,7 +77,7 @@ To Pusan (he offers) an oblation; the sacrificial fee is a dark (ox),
 <details><summary>मूलम्</summary>
 
 पौ॒ष्णञ्च॒रुम्  +++(निर्वपति)+++ ,   
-श्या॒मो दख्षि॑णा ।
+श्या॒मो दक्षि॑णा ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -86,7 +86,7 @@ To Pusan (he offers) an oblation; the sacrificial fee is a dark (ox),
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बा॒र्र्ह॒स्प॒त्यञ् च॒रुम्  +++(निर्वपति)+++ ।   
-शि॒ति॒पृ॒ष्ठो  दख्षि॑णा ।
+शि॒ति॒पृ॒ष्ठो  दक्षि॑णा ।
 </details>
 <details><summary>Keith</summary>
 
@@ -95,7 +95,7 @@ To Brhaspati (he offers) an oblation; the sacrificial fee is a white-backed (ox)
 <details><summary>मूलम्</summary>
 
 बा॒र्र्ह॒स्प॒त्यञ्च॒रुम्  +++(निर्वपति)+++ ,   
-शि॒ति॒पृ॒ष्ठो  दख्षि॑णा ।
+शि॒ति॒पृ॒ष्ठो  दक्षि॑णा ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -104,7 +104,7 @@ To Brhaspati (he offers) an oblation; the sacrificial fee is a white-backed (ox)
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऐ॒न्द्रम् एका॑दशकपालम्  +++(निर्वपति)+++ ।  
-ऋ॒ष॒भो दख्षि॑णा ।
+ऋ॒ष॒भो दक्षि॑णा ।
 </details>
 <details><summary>Keith</summary>
 
@@ -113,7 +113,7 @@ To Indra (he offers) on eleven potsherds; the sacrificial fee is a bull.
 <details><summary>मूलम्</summary>
 
 ऐ॒न्द्रमेका॑दशकपालम्  +++(निर्वपति)+++ ,  
-ऋ॒ष॒भो दख्षि॑णा ।
+ऋ॒ष॒भो दक्षि॑णा ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -122,7 +122,7 @@ To Indra (he offers) on eleven potsherds; the sacrificial fee is a bull.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वा॒रु॒णन् दश॑कपालम्  +++(निर्वपति)+++ ,  
-म॒हानि॑रष्टो॒+++(=पीडितवृषणो)+++ दख्षि॑णा ।
+म॒हानि॑रष्टो॒+++(=पीडितवृषणो)+++ दक्षि॑णा ।
 </details>
 <details><summary>Keith</summary>
 
@@ -131,7 +131,7 @@ To Varuna (he offers) on ten potsherds; the sacrificial fee is a great castrated
 <details><summary>मूलम्</summary>
 
 वा॒रु॒णन्दश॑कपालम्  +++(निर्वपति)+++ ,  
-म॒हानि॑रष्टो॒ दख्षि॑णा ।
+म॒हानि॑रष्टो॒ दक्षि॑णा ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -140,7 +140,7 @@ To Varuna (he offers) on ten potsherds; the sacrificial fee is a great castrated
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सौ॒म्यञ् च॒रुम्  +++(निर्वपति)+++ ,  
-ब॒भ्रुर् दख्षि॑णा ।
+ब॒भ्रुर् दक्षि॑णा ।
 </details>
 <details><summary>Keith</summary>
 
@@ -149,7 +149,7 @@ To Soma (he offers) an oblation; the sacrificial fee is a brown (ox).
 <details><summary>मूलम्</summary>
 
 सौ॒म्यञ्च॒रुम्  +++(निर्वपति)+++ ,  
-ब॒भ्रुर्दख्षि॑णा ।
+ब॒भ्रुर्दक्षि॑णा ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -158,7 +158,7 @@ To Soma (he offers) an oblation; the sacrificial fee is a brown (ox).
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वा॒ष्ट्रम् अ॒ष्टाक॑पालम्  +++(निर्वपति)+++ ,   
-शु॒ण्ठो+++(=अल्पकायो)+++ दख्षि॑णा ।
+शु॒ण्ठो+++(=अल्पकायो)+++ दक्षि॑णा ।
 </details>
 <details><summary>Keith</summary>
 
@@ -167,7 +167,7 @@ To Tvastr (he offers) on eight potsherds; the sacrificial fee is a white (ox)
 <details><summary>मूलम्</summary>
 
 त्वा॒ष्ट्रम॒ष्टाक॑पालम्  +++(निर्वपति)+++ ,   
-शु॒ण्ठो दख्षि॑णा ।
+शु॒ण्ठो दक्षि॑णा ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -176,7 +176,7 @@ To Tvastr (he offers) on eight potsherds; the sacrificial fee is a white (ox)
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वै॒ष्ण॒वन् त्रि॑-कपा॒लम् +++(निर्वपति)+++।   
-वा॒म॒नो दख्षि॑णा ॥ [33]
+वा॒म॒नो दक्षि॑णा ॥ [33]
 </details>
 <details><summary>Keith</summary>
 
@@ -185,7 +185,7 @@ To Vishnu (he offers) on three potsherds; the sacrificial fee is a dwarf (ox).
 <details><summary>मूलम्</summary>
 
 वै॒ष्ण॒वन्त्रि॑कपा॒लम् +++(निर्वपति)+++ ,   
-वा॒म॒नो दख्षि॑णा ॥ [33]
+वा॒म॒नो दक्षि॑णा ॥ [33]
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

@@ -12,11 +12,11 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विष्णो॒ᳵ क्रमो᳚ऽस्य् - अभिमाति॒हा।
+विष्णो॒ᳵ क्रमो॑ऽस्य् - अभिमाति॒हा।
 </details>
 <details><summary>मूलम्</summary>
 
-विष्णो॒ᳵ क्रमो᳚ऽस्यभिमाति॒हा ।
+विष्णो॒ᳵ क्रमो॑ऽस्यभिमाति॒हा ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -70,8 +70,8 @@ excluded is he whom we hate.
 ## विष्णुक्रममन्त्रः २
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विष्णो॒ᳵ **क्रमो᳚ ऽस्य् अभिशस्ति॒हा**।
-त्रैष्टु॑भेन॒ छन्द॑सान्तरि॑ख्ष॒म् अनु॒ वि क्र॑मे।
+विष्णो॒ᳵ **क्रमो॑ ऽस्य् अभिशस्ति॒हा**।
+त्रैष्टु॑भेन॒ छन्द॑सान्तरि॑क्ष॒म् अनु॒ वि क्र॑मे।
 </details>
 <details><summary>Keith</summary>
 
@@ -79,7 +79,7 @@ Thou art the step of Visnu, smiting imprecations; with the Tristubh metre I step
 </details>
 <details><summary>मूलम्</summary>
 
-विष्णो॒ᳵ क्रमो᳚ऽस्यभिशस्ति॒हा त्रैष्टु॑भेन॒ छन्द॑सान्तरि॑ख्ष॒मनु॒ वि क्र॑मे।
+विष्णो॒ᳵ क्रमो॑ऽस्यभिशस्ति॒हा त्रैष्टु॑भेन॒ छन्द॑सान्तरि॑क्ष॒मनु॒ वि क्र॑मे।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -110,7 +110,7 @@ excluded is he whom we hate.
 ## विष्णुक्रममन्त्रः ३
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विष्णो॒ᳵ क्रमो᳚ऽस्यरातीय॒तो ह॒न्ता जाग॑तेन॒ छन्द॑सा॒ दिव॒मनु॒ वि क्र॑मे।
+विष्णो॒ᳵ क्रमो॑ऽस्यरातीय॒तो ह॒न्ता जाग॑तेन॒ छन्द॑सा॒ दिव॒मनु॒ वि क्र॑मे।
 </details>
 <details><summary>Keith</summary>
 
@@ -119,7 +119,7 @@ with the Jagati metre I step across the sky;
 </details>
 <details><summary>मूलम्</summary>
 
-विष्णो॒ᳵ क्रमो᳚ऽस्यरातीय॒तो ह॒न्ता जाग॑तेन॒ छन्द॑सा॒ दिव॒मनु॒ वि क्र॑मे।
+विष्णो॒ᳵ क्रमो॑ऽस्यरातीय॒तो ह॒न्ता जाग॑तेन॒ छन्द॑सा॒ दिव॒मनु॒ वि क्र॑मे।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

@@ -39,7 +39,7 @@ title = "०४ बीज-व्यवस्था"
 
 या **जा॒ता** ओष॑धयो  
 दे॒वेभ्य॑स् त्रि-यु॒गम् पु॒रा ।  
-**मन्दा॑मि** ब॒भ्रूणा॑म् अहꣳ  
+**मन्दा॑मि** ब॒भ्रूणा॑म् अहँ  
 श॒तन् धामा॑नि स॒प्त च॑ ।
 </details>
 </div>
@@ -55,7 +55,7 @@ The seven and a hundred abodes.
 <details><summary>मूलम्</summary>
 
 या जा॒ता ओष॑धयो दे॒वेभ्य॑स्त्रियु॒गम्पु॒रा ।  
-मन्दा॑मि ब॒भ्रूणा॑महꣳ श॒तन्धामा॑नि स॒प्त च॑ ।
+मन्दा॑मि ब॒भ्रूणा॑महँ श॒तन्धामा॑नि स॒प्त च॑ ।
 </details>
 <details><summary>सायण-टीका</summary>
 
@@ -140,7 +140,7 @@ The plants are strong to help.
 
 "ओष॑धी॒र्"+++(=ओष=दाह/पाक+धीः)+++ इति॑ मातर॒स्  
 तद् वो॑ देवी॒र् **उप॑ ब्रुवे** ।  
-रपाꣳ॑सि+++(=पापानि)+++ **विघ्न॒तीर्** इ॑त॒  
+रपाँ॑सि+++(=पापानि)+++ **विघ्न॒तीर्** इ॑त॒  
 रप॑श् **चा॒तय॑मानाः** ।
 </details>
 </div>
@@ -156,7 +156,7 @@ Defilement [1] destroying.
 <details><summary>मूलम्</summary>
 
 ओष॑धी॒रिति॑ मातर॒स्तद्वो॑ देवी॒रुप॑ ब्रुवे ।  
-रपाꣳ॑सि विघ्न॒तीरि॑त॒ रपः॑ [24]  चा॒तय॑मानाः ।
+रपाँ॑सि विघ्न॒तीरि॑त॒ रपः॑ [24]  चा॒तय॑मानाः ।
 </details>
 <details><summary>सायण-टीका</summary>
 
@@ -192,7 +192,7 @@ If ye shall gain this man.
 <details><summary>मूलम्</summary>
 
 अ॒श्व॒त्थे वो॑ नि॒षद॑नम्प॒र्णे वो॑ वस॒तिᳵ कृ॒ता ।  
-गो॒भाज॒ इत्किला॑सथ॒ यथ्स॒नव॑थ॒ पूरु॑षम् ।
+गो॒भाज॒ इत्किला॑सथ॒ यत्स॒नव॑थ॒ पूरु॑षम् ।
 </details>
 <details><summary>सायण-टीका</summary>
 
@@ -210,7 +210,7 @@ If ye shall gain this man.
 
 यद् अ॒हव्ँ **वा॒जय॑न्न्** इ॒मा  
 ओष॑धी॒र् हस्त॑ **आद॒धे** ।  
-आ॒त्मा यख्ष्म॑स्य **नश्यति**  
+आ॒त्मा यक्ष्म॑स्य **नश्यति**  
 पु॒रा जी॑व॒-गृभो॑ यथा ।
 </details>
 </div>
@@ -226,7 +226,7 @@ As before one that taketh alive.
 <details><summary>मूलम्</summary>
 
 यद॒हव्ँवा॒जय॑न्नि॒मा ओष॑धी॒र्हस्त॑ आद॒धे ।  
-आ॒त्मा यख्ष्म॑स्य नश्यति पु॒रा जी॑व॒गृभो॑ यथा ।
+आ॒त्मा यक्ष्म॑स्य नश्यति पु॒रा जी॑व॒गृभो॑ यथा ।
 </details>
 <details><summary>सायण-टीका</summary>
 
@@ -242,7 +242,7 @@ As before one that taketh alive.
 यद् ओष॑धयस् **स॒ङ्गच्छ॑न्ते॒**  
 राजा॑न॒स् समि॑ताव् इव ।  
 विप्र॒स् स **उ॑च्यते** भि॒षग्  
-र॑ख्षो॒-हा ऽमी॑व॒-चात॑नः ।
+र॑क्षो॒-हा ऽमी॑व॒-चात॑नः ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/08_yad_oShadhayas.md">
@@ -259,7 +259,7 @@ Slayer of Raksases, overpowerer of diseases.
 <details><summary>मूलम्</summary>
 
 यदोष॑धयस्स॒ङ्गच्छ॑न्ते॒ राजा॑न॒स्समि॑ताविव ।  
-विप्र॒स्स उ॑च्यते भि॒षग्र॑ख्षो॒हामी॑व॒चात॑नः ।  
+विप्र॒स्स उ॑च्यते भि॒षग्र॑क्षो॒हामी॑व॒चात॑नः ।  
 </details>
 <details><summary>सायण-टीका</summary>
 
@@ -270,8 +270,8 @@ Slayer of Raksases, overpowerer of diseases.
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
 "निष्कृ॑ति॒र्" नाम॑ वो मा॒ता  
-ऽथा॑ यू॒यꣵ स्थ॒ "सङ्कृ॑तीः" ।  
-स॒राᳶ प॑त॒त्रिणीः᳚ **स्थन॒**  
+ऽथा॑ यू॒यँ स्थ॒ "सङ्कृ॑तीः" ।  
+स॒राᳶ प॑त॒त्रिणीः॑ **स्थन॒**  
 यद् **आ॒मय॑ति॒ निष्कृ॑त** ।
 
 </details>
@@ -286,8 +286,8 @@ Remove whatever is unwell.
 </details>
 <details><summary>मूलम्</summary>
 
-निष्कृ॑ति॒र्नाम॑ वो मा॒ताथा॑ यू॒यꣵ स्थ॒ सङ्कृ॑तीः ।  
-स॒राᳶ प॑त॒त्रिणीः᳚ [25]  स्थ॒न॒ यदा॒मय॑ति॒ निष्कृ॑त ।
+निष्कृ॑ति॒र्नाम॑ वो मा॒ताथा॑ यू॒यँ स्थ॒ सङ्कृ॑तीः ।  
+स॒राᳶ प॑त॒त्रिणीः॑ [25]  स्थ॒न॒ यदा॒मय॑ति॒ निष्कृ॑त ।
 </details>
 <details><summary>सायण-टीका</summary>
 
@@ -329,7 +329,7 @@ Do ye further this speech of mine.
 
 उच् छुष्मा॒ ओष॑धीना॒ङ्  
 गावो॑ गो॒ष्ठाद् **इ॑वेरते** ।  
-धनꣳ॑ **सनि॒ष्यन्ती॑नाम्**  
+धनँ॑ **सनि॒ष्यन्ती॑नाम्**  
 आ॒त्मान॒न् तव॑ पूरुष ।
 </details>
 </div>
@@ -344,7 +344,7 @@ To the self of thee, O man.
 <details><summary>मूलम्</summary>
 
 उच्छुष्मा॒ ओष॑धीना॒ङ्गावो॑ गो॒ष्ठादि॑वेरते ।  
-धनꣳ॑ सनि॒ष्यन्ती॑नामा॒त्मान॒न्तव॑ पूरुष ।
+धनँ॑ सनि॒ष्यन्ती॑नामा॒त्मान॒न्तव॑ पूरुष ।
 </details>
 <details><summary>सायण-टीका</summary>
 
@@ -355,10 +355,10 @@ To the self of thee, O man.
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/12_ati_vishvAH.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
-अति॒ विश्वाः᳚ +++(शरीरम्)+++ **परि॒ ष्ठास्**  
+अति॒ विश्वाः॑ +++(शरीरम्)+++ **परि॒ ष्ठास्**  
 स्ते॒न इ॑व व्र॒जम् **अ॑क्रमुः** ।  
 ओष॑धय॒ᳶ **प्राचु॑च्यवु॒र्**  
-यत् किञ् च॑ त॒नुवा॒ꣳ॒ रपः॑ ।
+यत् किञ् च॑ त॒नुवाँ॒ रपः॑ ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/12_ati_vishvAH.md">
@@ -372,8 +372,8 @@ Every defilement in the body.
 </details>
 <details><summary>मूलम्</summary>
 
-अति॒ विश्वाः᳚ परि॒ष्ठास्स्ते॒न इ॑व व्र॒जम॑क्रमुः ।  
-ओष॑धय॒ᳶ प्राचु॑च्यवु॒र्यत्किञ्च॑ त॒नुवा॒ꣳ॒ रपः॑ ।
+अति॒ विश्वाः॑ परि॒ष्ठास्स्ते॒न इ॑व व्र॒जम॑क्रमुः ।  
+ओष॑धय॒ᳶ प्राचु॑च्यवु॒र्यत्किञ्च॑ त॒नुवाँ॒ रपः॑ ।
 </details>
 <details><summary>सायण-टीका</summary>
 
@@ -386,7 +386,7 @@ Every defilement in the body.
 
 यास्  त॑ **आत॒स्थुर्** आ॒त्मान॒य्ँ  
 या **आ॑विवि॒शुᳶ** परुᳶ॑+++(=पर्व)+++-परुः ।  
-तास् ते॒ यख्ष्म॒व्ँ **वि बा॑धन्ताम्**  
+तास् ते॒ यक्ष्म॒व्ँ **वि बा॑धन्ताम्**  
 उ॒ग्रो म॑ध्यम॒-शीर्+++(←शयने)+++ इ॑व ।
 </details>
 </div>
@@ -401,7 +401,7 @@ Like a dread intercessor.
 <details><summary>मूलम्</summary>
 
 याः [26]  त॒ आ॒त॒स्थुरा॒त्मान॒य्ँया आ॑विवि॒शुᳶ परुᳶ॑परुः ।  
-तास्ते॒ यख्ष्म॒व्ँवि बा॑धन्तामु॒ग्रो म॑ध्यम॒शीरि॑व ।
+तास्ते॒ यक्ष्म॒व्ँवि बा॑धन्तामु॒ग्रो म॑ध्यम॒शीरि॑व ।
 </details>
 <details><summary>सायण-टीका</summary>
 
@@ -412,8 +412,8 @@ Like a dread intercessor.
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/14_sAkay.N_yakhShma.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
-सा॒कय्ँ य॑ख्ष्म॒ **प्र प॑त**  
-श्ये॒नेन॑, किकिदी॒विना᳚+++(=blue jay)+++ ।  
+सा॒कय्ँ य॑क्ष्म॒ **प्र प॑त**  
+श्ये॒नेन॑, किकिदी॒विना॑+++(=blue jay)+++ ।  
 सा॒कव्ँ वात॑स्य॒ ध्राज्या॑+++(=डयनेन)+++,  
 सा॒कन् **न॑श्य** नि॒हाक॑या+++(=चण्डमारुतेन)+++ ।
 </details>
@@ -429,7 +429,7 @@ With the whirlwind do thou disappear.
 </details>
 <details><summary>मूलम्</summary>
 
-सा॒कय्ँय॑ख्ष्म॒ प्र प॑त श्ये॒नेन॑ किकिदी॒विना᳚ ।  
+सा॒कय्ँय॑क्ष्म॒ प्र प॑त श्ये॒नेन॑ किकिदी॒विना॑ ।  
 सा॒कव्ँवात॑स्य॒ ध्राज्या॑ सा॒कन्न॑श्य नि॒हाक॑या ।
 </details>
 <details><summary>सायण-टीका</summary>
@@ -445,9 +445,9 @@ With the whirlwind do thou disappear.
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/15_ashvAvatIM_somavatIm.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
-अ॒श्वा॒व॒तीꣳ सो॑मव॒तीम्  
+अ॒श्वा॒व॒तीँ सो॑मव॒तीम्  
 ऊ॒र्जय॑न्ती॒म् उद्-ओ॑जसम् ।  
-**आ वि॑थ्सि॒**+++(=आलभे)+++ सर्वा॒ ओष॑धीर्  
+**आ वि॑त्सि॒**+++(=आलभे)+++ सर्वा॒ ओष॑धीर्  
 अ॒स्मा अ॑-रि॒ष्ट--ता॑तये+++(←तन्)+++ ।
 </details>
 </div>
@@ -462,8 +462,8 @@ For his safety.
 </details>
 <details><summary>मूलम्</summary>
 
-अ॒श्वा॒व॒तीꣳ सो॑मव॒तीमू॒र्जय॑न्ती॒मुदो॑जसम् ।  
-आ वि॑थ्सि॒ सर्वा॒ ओष॑धीर॒स्मा अ॑रि॒ष्टता॑तये ।
+अ॒श्वा॒व॒तीँ सो॑मव॒तीमू॒र्जय॑न्ती॒मुदो॑जसम् ।  
+आ वि॑त्सि॒ सर्वा॒ ओष॑धीर॒स्मा अ॑रि॒ष्टता॑तये ।
 </details>
 <details><summary>सायण-टीका</summary>
 
@@ -476,9 +476,9 @@ For his safety.
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
 याᳶ फ॒लिनी॒र् या अ॑-फ॒ला  
-अ॑-पु॒ष्पा याश् च॑ पु॒ष्पिणीः᳚ ।  
+अ॑-पु॒ष्पा याश् च॑ पु॒ष्पिणीः॑ ।  
 बृह॒स्पति॑-**प्रसूता॒स्**  
-ता नो॑ **मुञ्च॒न्त्व्** अꣳह॑सः ।
+ता नो॑ **मुञ्च॒न्त्व्** अँह॑सः ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/16_yApH_phalinIr.md">
@@ -492,8 +492,8 @@ May they free us from tribulation.
 </details>
 <details><summary>मूलम्</summary>
 
-याᳶ फ॒लिनी॒र्या अ॑फ॒ला अ॑पु॒ष्पा याश्च॑ पु॒ष्पिणीः᳚ ।  
-बृह॒स्पति॑प्रसूता॒स्ता नो॑ मुञ्च॒न्त्वꣳह॑सः ।
+याᳶ फ॒लिनी॒र्या अ॑फ॒ला अ॑पु॒ष्पा याश्च॑ पु॒ष्पिणीः॑ ।  
+बृह॒स्पति॑प्रसूता॒स्ता नो॑ मुञ्च॒न्त्वँह॑सः ।
 </details>
 <details><summary>सायण-टीका</summary>
 
@@ -593,7 +593,7 @@ Give ye him healing.
 
 **मा** वो॑ रिषत् **खनि॒ता**,  
 +++(तथा)+++ यस्मै॑ चा॒हङ् **खना॑मि** वः ।  
-द्वि॒पच् चतु॑ष्पद् अ॒स्माक॒ꣳ॒  
+द्वि॒पच् चतु॑ष्पद् अ॒स्माकँ॒  
 सर्व॑म् **अ॒स्त्व् अना॑तुरम्** ।
 </details>
 </div>
@@ -609,7 +609,7 @@ Be free from disease.
 <details><summary>मूलम्</summary>
 
 मा वो॑ रिषत्खनि॒ता यस्मै॑ चा॒हङ्खना॑मि वः ।  
-द्वि॒पच्चतु॑ष्पद॒स्माक॒ꣳ॒ सर्व॑म॒स्त्वना॑तुरम् ।
+द्वि॒पच्चतु॑ष्पद॒स्माकँ॒ सर्व॑म॒स्त्वना॑तुरम् ।
 </details>
 <details><summary>सायण-टीका</summary>
 
@@ -621,9 +621,9 @@ Be free from disease.
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
 ओष॑धय॒स् **सव्ँव॑दन्ते॒**  
-सोमे॑न स॒ह राज्ञा᳚ ।  
+सोमे॑न स॒ह राज्ञा॑ ।  
 "यस्मै॑ क॒रोति॑ ब्राह्म॒णस्  
-तꣳ रा॑जन् **पारयामसि**" ॥ [28]
+तँ रा॑जन् **पारयामसि**" ॥ [28]
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/21_oShadhayas_sav.Nvadante.md">
@@ -637,8 +637,8 @@ We, O king, bring to safety.'
 </details>
 <details><summary>मूलम्</summary>
 
-ओष॑धय॒स्सव्ँव॑दन्ते॒ सोमे॑न स॒ह राज्ञा᳚ ।  
-यस्मै॑ क॒रोति॑ ब्राह्म॒णस्तꣳ रा॑जन्पारयामसि ॥ [28]
+ओष॑धय॒स्सव्ँव॑दन्ते॒ सोमे॑न स॒ह राज्ञा॑ ।  
+यस्मै॑ क॒रोति॑ ब्राह्म॒णस्तँ रा॑जन्पारयामसि ॥ [28]
 </details>
 <details><summary>सायण-टीका</summary>
 

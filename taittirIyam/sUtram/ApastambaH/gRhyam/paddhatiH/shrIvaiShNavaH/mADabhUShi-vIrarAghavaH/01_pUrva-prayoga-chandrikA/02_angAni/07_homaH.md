@@ -211,31 +211,31 @@ title = "०७ होमः"
 प्रजा॑पते॒ न त्वद् +++(विश्वा जातानि→)+++ ए॒तान्य् अ॒न्यो  
 विश्वा॑ जा॒तानि॒ **परि॒** ता **ब॑भूव** ।  
 यत्-का॑मास् ते जुहु॒मस् तन् नो॑ **अस्तु**  
-व॒यꣵ **स्या॑म॒** पत॑यो रयी॒णाम्॥
+व॒यँ **स्या॑म॒** पत॑यो रयी॒णाम्॥
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/baudhAyanaH/gRhyam/mantraH/yajuH/sarva-prastutiH/vyAhRti-homAH_3.md">
 <details open><summary><h5>व्याहृति-होमाः ४ ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-(ओं) भूस्स्वाहा᳚ ॥
+(ओं) भूस्स्वाहा॑ ॥
 (अ॒ग्नय॑ +इ॒दं न म॑म)
 
-(ओं) भुव॒स्स्वाहा᳚ ॥
+(ओं) भुव॒स्स्वाहा॑ ॥
 (वा॒यव॑ +इ॒दं न म॑म)
 
-(ओं) सुव॒स्स्वाहा᳚ ॥  
+(ओं) सुव॒स्स्वाहा॑ ॥  
 (सूर्या॑य +इ॒दं न म॑म)
 </details>
 <details><summary>मूलम्</summary>
 
-(ओं) भूस्स्वाहा᳚ ॥
+(ओं) भूस्स्वाहा॑ ॥
 (अग्नय इदं न मम)
 
-(ओं) भुव॒स्स्वाहा᳚ ॥
+(ओं) भुव॒स्स्वाहा॑ ॥
 (वायव इदं न मम)
 
-(ओं) सुव॒स्स्वाहा᳚ ॥  
+(ओं) सुव॒स्स्वाहा॑ ॥  
 (सूर्याय इदं न मम)
 </details>
 </details>
@@ -247,13 +247,13 @@ title = "०७ होमः"
 यद् अ॑स्य॒ कर्म॒णो ऽत्यरी॑रिचं॒  
 यद् वा॒ न्यू॑नम् इ॒हाक॑रम् ।  
 अ॒ग्निष् टत् स्वि॑ष्ट॒कृद् वि॒द्वान्थ्  
-सर्व॒ꣵ स्वि॑ष्ट॒ꣵ सुहु॑तं करोतु॒  
-स्वाहा᳚ ।
+सर्वँ॒ स्वि॑ष्टँ॒ सुहु॑तं करोतु॒  
+स्वाहा॑ ।
 </details>
 <details><summary>मूलम्</summary>
 
 यद॑स्य॒ कर्म॒णोऽत्यरी॑रिचं॒ यद्वा॒ न्यू॑नमि॒हाक॑रम् ।  
-अ॒ग्निष्टत्स्वि॑ष्ट॒कृद्वि॒द्वान्थ्सर्व॒ग्ग्॒ स्वि॑ष्ट॒ग्ं॒ सुहु॑तं करोतु॒ स्वाहा᳚ ।
+अ॒ग्निष्टत्स्वि॑ष्ट॒कृद्वि॒द्वान्त्सर्व॒ग्ग्॒ स्वि॑ष्टँ॒ सुहु॑तं करोतु॒ स्वाहा॑ ।
 </details>
 </details>
 </div>
@@ -287,15 +287,15 @@ title = "०७ होमः"
 [[10]]
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/baudhAyanaH/gRhyam/mantraH/yajuH/sarva-prastutiH/bhUr_bhuvas_suvas_svAhA.md">
-<details open><summary><h5>भूर् भुव॒स् सु॒व॒स् स्वाहा᳚ ...{Loading}...</h5></summary>
+<details open><summary><h5>भूर् भुव॒स् सु॒व॒स् स्वाहा॑ ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ओं भूर् भुव॒स् सुव॒स् स्वाहा᳚ ॥  
+ओं भूर् भुव॒स् सुव॒स् स्वाहा॑ ॥  
 (प्रजापतय इदं न मम) ॥१॥
 </details>
 <details><summary>मूलम्</summary>
 
-ओं भूर् भुव॒स् सुव॒स् स्वाहा᳚ ॥  
+ओं भूर् भुव॒स् सुव॒स् स्वाहा॑ ॥  
 (प्रजापतय इदं न मम) ॥१॥
 </details>
 </details>
@@ -310,10 +310,10 @@ title = "०७ होमः"
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/35_anAjnAtay.NyadAjnAtam_yajnasya.md">
 <details open><summary><h4>35 अनाज्ञातय्ँयदाज्ञातम् यज्ञस्य ...{Loading}...</h4></summary>
 
-अना᳚ज्ञात॒य्ँयदाज्ञा॑तम् ।  
+अना॑ज्ञात॒य्ँयदाज्ञा॑तम् ।  
 य॒ज्ञस्य॑ क्रि॒यते॒ मिथु॑ ।  
 अग्ने॒ तद॑स्य कल्पय ।  
-त्वꣳ हि वेत्थ॑ यथात॒थम् ।
+त्वँ हि वेत्थ॑ यथात॒थम् ।
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/38_puruShasammito_yajnaH.md">
@@ -322,16 +322,16 @@ title = "०७ होमः"
 पुरु॑षसम्मितो य॒ज्ञः ।  
 य॒ज्ञᳶ पुरु॑षसम्मितः ।  
 अग्ने॒ तद॑स्य कल्पय ।  
-त्वꣳ हि वेत्थ॑ यथात॒थम् ।
+त्वँ हि वेत्थ॑ यथात॒थम् ।
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/41_yatpAkatrA_manasA.md">
 <details open><summary><h4>41 यत्पाकत्रा मनसा ...{Loading}...</h4></summary>
 
-यत्पा॑क॒त्रा मन॑सा दी॒नद॑ख्षा॒ न ।  
+यत्पा॑क॒त्रा मन॑सा दी॒नद॑क्षा॒ न ।  
 य॒ज्ञस्य॑ म॒न्वते॒ मर्ता॑सः ।  
 अ॒ग्निष्टद्धोता॑ क्रतु॒विद्वि॑जा॒नन्न् ।  
-यजि॑ष्ठो दे॒वाꣳ ऋ॑तु॒शो य॑जाति ॥115॥
+यजि॑ष्ठो दे॒वाँ ऋ॑तु॒शो य॑जाति ॥115॥
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/001/04_tvaM_no.md">
@@ -376,7 +376,7 @@ title = "०७ होमः"
 
 इ॒दव्ँ विष्णु॒र् +++(अग्नि-विद्युत्-सूर्यात्मना)+++ **वि च॑क्रमे**  
 +++(पृथिव्याम् अन्तरिक्षे दिवि च)+++ त्रे॒धा **नि द॑धे** प॒दम् ।  
-+++(तैर् आधारैर् जगत्)+++ **सम् ऊ॑ढम्** अस्य पाꣳसु॒रे +++(ले इति साम्नि, पांसुमति [पादे])+++ ॥
++++(तैर् आधारैर् जगत्)+++ **सम् ऊ॑ढम्** अस्य पाँसु॒रे +++(ले इति साम्नि, पांसुमति [पादे])+++ ॥
 
 </details>
 </div>
@@ -388,30 +388,30 @@ title = "०७ होमः"
 <details open><summary><h5>व्याहृति-होमाः ४ ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-(ओं) भूस्स्वाहा᳚ ॥
+(ओं) भूस्स्वाहा॑ ॥
 (अ॒ग्नय॑ +इ॒दं न म॑म)
 
-(ओं) भुव॒स्स्वाहा᳚ ॥
+(ओं) भुव॒स्स्वाहा॑ ॥
 (वा॒यव॑ +इ॒दं न म॑म)
 
-(ओं) सुव॒स्स्वाहा᳚ ॥  
+(ओं) सुव॒स्स्वाहा॑ ॥  
 (सूर्या॑य +इ॒दं न म॑म)
 
-(ओं) भूर्भुव॒स्सुव॒स्स्वाहा᳚ ॥  
+(ओं) भूर्भुव॒स्सुव॒स्स्वाहा॑ ॥  
 (प्र॒जाप॑तय +इ॒दं न म॑म)  
 </details>
 <details><summary>मूलम्</summary>
 
-(ओं) भूस्स्वाहा᳚ ॥
+(ओं) भूस्स्वाहा॑ ॥
 (अग्नय इदं न मम)
 
-(ओं) भुव॒स्स्वाहा᳚ ॥
+(ओं) भुव॒स्स्वाहा॑ ॥
 (वायव इदं न मम)
 
-(ओं) सुव॒स्स्वाहा᳚ ॥  
+(ओं) सुव॒स्स्वाहा॑ ॥  
 (सूर्याय इदं न मम)
 
-(ओं) भूर्भुव॒स्सुव॒स्स्वाहा᳚ ॥  
+(ओं) भूर्भुव॒स्सुव॒स्स्वाहा॑ ॥  
 (प्रजापतय इदं न मम)  
 
 </details>

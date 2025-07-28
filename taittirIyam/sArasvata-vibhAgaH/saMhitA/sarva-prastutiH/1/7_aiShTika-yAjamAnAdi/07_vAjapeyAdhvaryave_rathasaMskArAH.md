@@ -118,7 +118,7 @@ ______________
 वाज॑स्य॒ नु प्र॑स॒वे - मा॒तर॑म् म॒हीम्  
 अदि॑ति॒न् **नाम॒** वच॑सा **करामहे** ।   
 यस्या॑म् इ॒दव्ँ विश्व॒म् भुव॑नम् आवि॒वेश॒,  
-तस्या᳚न् नो दे॒वस् स॑वि॒ता +++(रथस्य)+++ धर्म॑ साविषत्+++(←षू प्रसवे)+++  ॥
+तस्या॑न् नो दे॒वस् स॑वि॒ता +++(रथस्य)+++ धर्म॑ साविषत्+++(←षू प्रसवे)+++  ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/03_vAjasya_nu.md">
@@ -133,7 +133,7 @@ In her may the god Savitr instigate right for us.
 <details><summary>मूलम्</summary>
 
 वाज॑स्य॒ नु प्र॑स॒वे मा॒तर॑म्म॒हीमदि॑ति॒न्नाम॒ वच॑सा करामहे ।   
-यस्या॑मि॒दव्ँविश्व॒म्भुव॑नमावि॒वेश॒ तस्या᳚न्नो दे॒वस्स॑वि॒ता धर्म॑ साविषत्  ॥
+यस्या॑मि॒दव्ँविश्व॒म्भुव॑नमावि॒वेश॒ तस्या॑न्नो दे॒वस्स॑वि॒ता धर्म॑ साविषत्  ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -145,7 +145,7 @@ In her may the god Savitr instigate right for us.
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-अ॒फ्सु [32]अ॒न्तर॒मृत॑म॒फ्सु भे॑ष॒जम॒पामु॒त  प्रश॑स्ति॒ष्वश्वा॑ भवथ वाजिनः ॥
+अ॒प्सु [32]अ॒न्तर॒मृत॑म॒प्सु भे॑ष॒जम॒पामु॒त  प्रश॑स्ति॒ष्वश्वा॑ भवथ वाजिनः ॥
 </details>
 </details>
 </div>
@@ -156,7 +156,7 @@ In her may the god Savitr instigate right for us.
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/04_aphsv_antar.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-अ॒फ्स्व् अ॑न्तर् अ॒मृत॑म्, अ॒फ्सु भे॑ष॒जम्,  
+अ॒प्स्व् अ॑न्तर् अ॒मृत॑म्, अ॒प्सु भे॑ष॒जम्,  
 अ॒पाम् उ॒त प्रश॑स्ति॒षु … ।  
 अश्वा॑! भवथ वाजिनः!  ॥
 </details>
@@ -171,7 +171,7 @@ Be ye steeds, O ye that are strong.
 </details>
 <details><summary>मूलम्</summary>
 
-अ॒फ्स्व॑न्तर॒मृत॑म॒फ्सु भे॑ष॒जम॒पामु॒त प्रश॑स्ति॒षु ।  
+अ॒प्स्व॑न्तर॒मृत॑म॒प्सु भे॑ष॒जम॒पामु॒त प्रश॑स्ति॒षु ।  
 अश्वा॑ भवथ वाजिनः  ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -192,8 +192,8 @@ Be ye steeds, O ye that are strong.
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/05_vAyur_vA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-वा॒युर् वा᳚ त्वा॒, मनु॑र् वा त्वा,  
-गन्ध॒र्वास् स॒प्त-विꣳ॑शतिः +++(खे नक्षत्राणि)+++।  
+वा॒युर् वा॑ त्वा॒, मनु॑र् वा त्वा,  
+गन्ध॒र्वास् स॒प्त-विँ॑शतिः +++(खे नक्षत्राणि)+++।  
 ते अग्रे॒ +++(सौरम्)+++ अश्व॑म् आयुञ्ज॒न्  
 ते अ॑स्मिञ् ज॒वम् आद॑धुः  ॥
 </details>
@@ -209,7 +209,7 @@ They placed swiftness in it.
 </details>
 <details><summary>मूलम्</summary>
 
-वा॒युर्वा᳚ त्वा॒ मनु॑र्वा त्वा गन्ध॒र्वास्स॒प्तविꣳ॑शतिः ।  
+वा॒युर्वा॑ त्वा॒ मनु॑र्वा त्वा गन्ध॒र्वास्स॒प्तविँ॑शतिः ।  
 ते अग्रे॒ अश्व॑मायुञ्ज॒न्ते अ॑स्मिञ्ज॒वमाद॑धुः  ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -234,14 +234,14 @@ They placed swiftness in it.
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-अपा᳚न्नपादाशुहेम॒न्य ऊ॒र्मिᳵ क॒कुद्मा॒न्प्रतू᳚र्तिर्वाज॒सात॑म॒स्तेना॒यव्ँवाजꣳ॑ सेत्  ॥ 
+अपा॑न्नपादाशुहेम॒न्य ऊ॒र्मिᳵ क॒कुद्मा॒न्प्रतू॑र्तिर्वाज॒सात॑म॒स्तेना॒यव्ँवाजँ॑ सेत्  ॥ 
 </details>
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/06_apAnnapAd_Ashuheman.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-+++(अश्व!)+++ अपा᳚न्नपाद्! आशुहेम॒न्!  य ऊ॒र्मिᳵ ...   
-क॒कुद्मा॒न्, प्रतू᳚र्तिर्, वाज॒सात॑मः ।  
-तेना॒यव्ँ वाजꣳ॑ सेत्+++(←सिध्)+++  ॥
++++(अश्व!)+++ अपा॑न्नपाद्! आशुहेम॒न्!  य ऊ॒र्मिᳵ ...   
+क॒कुद्मा॒न्, प्रतू॑र्तिर्, वाज॒सात॑मः ।  
+तेना॒यव्ँ वाजँ॑ सेत्+++(←सिध्)+++  ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/06_apAnnapAd_Ashuheman.md">
@@ -254,9 +254,9 @@ with it may he win the prize.
 </details>
 <details><summary>मूलम्</summary>
 
-अपा᳚न्नपादाशुहेम॒न्  य ऊ॒र्मिᳵ ...   
-क॒कुद्मा॒न्प्रतू᳚र्तिर्वाज॒सात॑मः ।  
-तेना॒यव्ँवाजꣳ॑ सेत्  ॥
+अपा॑न्नपादाशुहेम॒न्  य ऊ॒र्मिᳵ ...   
+क॒कुद्मा॒न्प्रतू॑र्तिर्वाज॒सात॑मः ।  
+तेना॒यव्ँवाजँ॑ सेत्  ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -273,7 +273,7 @@ with it may he win the prize.
 <details open><summary><h5>विष्णोः क्रमः ...{Loading}...</h5></summary>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-विष्णो॒ᳵ क्रमो॑ऽसि॒ विष्णोः᳚ क्रा॒न्तम॑सि॒  विष्णो॒र्विक्रा᳚न्तमसि ।
+विष्णो॒ᳵ क्रमो॑ऽसि॒ विष्णोः॑ क्रा॒न्तम॑सि॒  विष्णो॒र्विक्रा॑न्तमसि ।
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -293,7 +293,7 @@ Thou art the stepping of Visnu,
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विष्णोः᳚ क्रा॒न्तम॑सि ।
+विष्णोः॑ क्रा॒न्तम॑सि ।
 </details>
 <details><summary>Keith</summary>
 
@@ -301,7 +301,7 @@ thou art the step of Visnu,
 </details>
 <details><summary>मूलम्</summary>
 
-विष्णोः᳚ क्रा॒न्तम॑सि ।
+विष्णोः॑ क्रा॒न्तम॑सि ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -309,7 +309,7 @@ thou art the step of Visnu,
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विष्णो॒र्विक्रा᳚न्तमसि ।
+विष्णो॒र्विक्रा॑न्तमसि ।
 </details>
 <details><summary>Keith</summary>
 
@@ -317,7 +317,7 @@ thou art the stride of Visnu.
 </details>
 <details><summary>मूलम्</summary>
 
-विष्णो॒र्विक्रा᳚न्तमसि ।
+विष्णो॒र्विक्रा॑न्तमसि ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -334,7 +334,7 @@ thou art the stride of Visnu.
 
 अ॒ङ्कौ+++(=लक्षणभूतौ)+++ न्य॒ङ्काव्+++(←नि+अञ्च्)+++ अ॒भितो॒ रथ॒य्ँ यौ +++(चक्रौ‌/ पक्षौ)+++   
 ध्वा॒न्तव्ँ+++(←ध्वन्)+++ वा॑ता॒ग्रम् अनु॑ स॒ञ्चर॑न्तौ ।  
-दू॒रे-हे॑तिर् इन्द्रि॒यावा᳚न् पत॒त्री   
+दू॒रे-हे॑तिर् इन्द्रि॒यावा॑न् पत॒त्री   
 ते नो॒ ऽग्नय॒ᳶ पप्र॑यᳶ पारयन्तु ॥ [33]
 </details>
 </div>
@@ -350,7 +350,7 @@ The fires which are furtherers, further us.
 
 अ॒ङ्कौ न्य॒ङ्काव॒भितो॒ रथ॒य्ँयौ   
 ध्वा॒न्तव्ँवा॑ता॒ग्रमनु॑ स॒ञ्चर॑न्तौ ।  
-दू॒रेहे॑तिरिन्द्रि॒यावा᳚न्पत॒त्री   
+दू॒रेहे॑तिरिन्द्रि॒यावा॑न्पत॒त्री   
 ते नो॒ऽग्नय॒ᳶ पप्र॑यᳶ पारयन्तु ॥ [33]
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>

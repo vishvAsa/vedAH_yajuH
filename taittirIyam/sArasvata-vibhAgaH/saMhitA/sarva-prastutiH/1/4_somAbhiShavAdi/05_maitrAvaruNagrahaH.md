@@ -343,7 +343,7 @@ This is thy birthplace;
 </div>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऋ॒ता॒युभ्या᳚न्त्वा ॥  [6]
+ऋ॒ता॒युभ्या॑न्त्वा ॥  [6]
 </details>
 <details><summary>Keith</summary>
 
@@ -351,7 +351,7 @@ to the righteous thee!
 </details>
 <details><summary>मूलम्</summary>
 
-ऋ॒ता॒युभ्या᳚न्त्वा ॥  [6]
+ऋ॒ता॒युभ्या॑न्त्वा ॥  [6]
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
