@@ -15,9 +15,9 @@ title = "१० १-०६-९२ परिध्यनुमन्त्रण-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ध्रु॒वो॑ऽसि ।  
-ध्रु॒वो॑ऽहँ स॑जा॒तेषु॑ भूयास॒म् 
+ध्रु॒वो॒॑ऽहँ स॑जा॒तेषु॑ भूयास॒म् 
 
-इत्या॑ह ।   
+इत्य् आ॑ह ।   
 ध्रु॒वान् ए॒वैना॑न् कुरुते ।  
 </details>
 <details><summary>Keith</summary>
@@ -45,9 +45,9 @@ verily he makes them secure.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > उ॒ग्रो॑ऽसि ।
-उ॒ग्रो॑ऽहँ स॑जा॒तेषु॑ भूयास॒म् 
+उ॒ग्रो॒॑ऽहँ स॑जा॒तेषु॑ भूयास॒म् 
 
-इत्य् आ॒ह ।  
+इत्य् आ॑ह ।  
 अप्र॑तिवादिन ए॒वैना॑न् कुरुते ।  
 </details>
 <details><summary>Keith</summary>
@@ -58,7 +58,7 @@ verily he makes them harmonious.
 <details><summary>मूलम्</summary>
 
 उ॒ग्रो॑ऽसि ।
-उ॒ग्रो॑ऽहँ स॑जा॒तेषु॑ भूयास॒मित्या॒ह ।  
+उ॒ग्रो॑ऽहँ स॑जा॒तेषु॑ भूयास॒मित्या॑ह ।  
 अप्र॑तिवादिन ए॒वैना॑न्कुरुते ।  
 </details>
 <details><summary>पद-पाठः</summary>
@@ -74,8 +74,8 @@ verily he makes them harmonious.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> अभि॒भूर् अ॑सि ।  
-अभि॒भूर॒हँ स॑जा॒तेषु॑ भूयास॒म्
+> अ॒भि॒भूर् अ॑सि ।  
+अ॒भि॒भूर् अ॒हँ स॑जा॒तेषु॑ भूयास॒म्
 
 इत्य् आ॑ह ।  
 य ए॒वैन॑म् प्रत्यु॒त्पिपी॑ते॒+++(←पीङ् पाने)+++,  
@@ -89,8 +89,8 @@ verily he overthrows him who rises against him.
 </details>
 <details><summary>मूलम्</summary>
 
-अभि॒भूर॑सि ।  
-अभि॒भूर॒हँ स॑जा॒तेषु॑ भूयास॒मित्या॑ह ।  
+अ॒भि॒भूर॑सि ।  
+अ॒भि॒भूर॒हँ स॑जा॒तेषु॑ भूयास॒मित्या॑ह ।  
 य ए॒वैन॑म्प्रत्यु॒त्पिपी॑ते॒ तमुपा॑स्यते ।  
 </details>
 
@@ -110,7 +110,7 @@ verily he overthrows him who rises against him.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"यु॒नज्मि॑ त्वा॒ ब्रह्म॑णा॒ दैव्ये॒ने"त्या॑ह ।  
+"यु॒नज्मि॑ त्वा॒ ब्रह्म॑णा॒ दैव्ये॒ने"त्य् आ॑ह ।  
 ए॒ष वा अ॒ग्नेर् योग॒स्, तेन॑ [33] ए॒वैन॑य्ँ युनक्ति ।
 </details>
 <details><summary>Keith</summary>
