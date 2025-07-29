@@ -617,7 +617,6 @@ Hail! go to Urdhva-nabhas, offspring of the Maruts.
 
 स्वाहा॑ । 
 ऊ॒र्ध्वन॑भस॒मित्यू॒र्ध्व-न॒भ॒स॒म् । मा॒रु॒तम् । ग॒च्छ॒त॒म् ॥ [17]
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
