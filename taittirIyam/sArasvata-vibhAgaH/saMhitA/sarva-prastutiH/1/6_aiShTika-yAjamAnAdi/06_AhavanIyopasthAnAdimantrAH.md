@@ -815,6 +815,8 @@ Du flammst, o Agni, Leben aus, erzeuge Trank und Speise uns, Das Unheil stosse w
 आ॒रे बा॑धस्व दु॒च्छुना॑म् ॥
 </details>
 </div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/066/21_agne_pavasva.md">
+<details open><summary><h5>२१ अग्ने पवस्व ...{Loading}...</h5></summary>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -834,7 +836,6 @@ Du flammst, o Agni, Leben aus, erzeuge Trank und Speise uns, Das Unheil stosse w
 
 अग्ने॑ । पव॑स्व । स्वपा॒ इति॑ सु-अपाः॑ । अ॒स्मे इति॑ । वर्चः॑ । सु॒वीर्य॒मिति॑ सु-वीर्य॑म् ॥ दध॑त् । पोष॑म् । र॒यिम् । मयि॑ ॥
 </details>
-
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/09/066/21_agne_pavasva.md">
 <details open><summary><h5>021 ...{Loading}...</h5></summary>
@@ -1069,7 +1070,6 @@ O Agni, flamme uns herbei schönwirkend Glanz und Heldenkraft; Er schenke Gut un
 </details>
 </details>
 </div>
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 व्याख्याते चैते 'त्वमग्ने रुद्रः' इत्यत्र । 

@@ -615,7 +615,7 @@ The sacrificer is a bolt, the enemy of man is hunger; in that he fasts without e
 वज्रो॒ वै य॒ज्ञः ।  
 क्षुत्खलु॒ वै म॑नु॒ष्य॑स्य॒ भ्रातृ॑व्यः ।  
 यदना॑श्वानुप॒वस॑ति ।   
-वज्रे॑णै॒व सा॒क्षात्क्षुध॒म्भ्रातृ॑व्यँ हन्ति ॥ [24]
+वज्रे॑णै॒व सा॒क्षात् क्षुध॒म्भ्रातृ॑व्यँ हन्ति ॥ [24]
 </details>
 
 <details><summary>पद-पाठः</summary>
