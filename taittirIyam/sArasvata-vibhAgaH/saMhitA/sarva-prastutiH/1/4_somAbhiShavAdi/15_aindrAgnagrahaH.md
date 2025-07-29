@@ -310,7 +310,7 @@ ________________
 </div>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒न्द्रा॒ग्निभ्या᳚न्त्वा ।  
+इ॒न्द्रा॒ग्निभ्या॑न्त्वा ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -318,7 +318,7 @@ to Indra and Agni thee!
 </details>
 <details><summary>मूलम्</summary>
 
-इ॒न्द्रा॒ग्निभ्या᳚न्त्वा ।  
+इ॒न्द्रा॒ग्निभ्या॑न्त्वा ।  
 </details>
 
 _______
@@ -328,7 +328,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ष ते॒ योनि॑र्, इन्द्रा॒ग्निभ्या᳚न्त्वा ॥ [16]  
+ए॒ष ते॒ योनि॑र्, इन्द्रा॒ग्निभ्या॑न्त्वा ॥ [16]  
 </details>
 <details><summary>Keith</summary>
 
@@ -336,7 +336,7 @@ This is thy birthplace; to Indra and Agni thee!
 </details>
 <details><summary>मूलम्</summary>
 
-ए॒ष ते॒ योनि॑रिन्द्रा॒ग्निभ्या᳚न्त्वा ॥ [16]  
+ए॒ष ते॒ योनि॑रिन्द्रा॒ग्निभ्या॑न्त्वा ॥ [16]  
 </details>
 
 इति चतुर्थे पञ्चदशोनुवाकः ॥  

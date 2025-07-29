@@ -14,20 +14,20 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA/02_tA_sUryAchandramasA.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
-ता सू᳚र्याचन्द्र॒मसा॑ विश्व॒-भृत्त॑मा म॒हत् ।   
+ता सू॑र्याचन्द्र॒मसा॑ विश्व॒-भृत्त॑मा म॒हत् ।   
 तेजो॒ वसु॑मद् **राजतो** दि॒वि ।  
-सामा᳚त्माना **चरतस्** साम-चा॒रिणा᳚ +++(न भेद-चारिणौ)+++ ।  
-ययो᳚र् व्र॒तन् न **म॒मे** जातु॑ दे॒वयोः᳚ ।
+सामा॑त्माना **चरतस्** साम-चा॒रिणा॑ +++(न भेद-चारिणौ)+++ ।  
+ययो॑र् व्र॒तन् न **म॒मे** जातु॑ दे॒वयोः॑ ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA/02_tA_sUryAchandramasA.md">
 <details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
 <details><summary>मूलम्</summary>
 
-ता सू᳚र्याचन्द्र॒मसा॑ विश्व॒भृत्त॑मा म॒हत् ।   
+ता सू॑र्याचन्द्र॒मसा॑ विश्व॒भृत्त॑मा म॒हत् ।   
 तेजो॒ वसु॑मद्राजतो दि॒वि ।  
-सामा᳚त्माना चरतस्सामचा॒रिणा᳚ ।  
-ययो᳚र्व्र॒तन्न म॒मे जातु॑ दे॒वयोः᳚ ।
+सामा॑त्माना चरतस्सामचा॒रिणा॑ ।  
+ययो॑र्व्र॒तन्न म॒मे जातु॑ दे॒वयोः॑ ।
 </details>
 <details><summary>सायण-टीका</summary>
 
@@ -42,8 +42,8 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA/07_ubhAv_antau.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
-उ॒भाव् अन्तौ॒ **परि॑ यात॒** अर्म्या᳚+++(=गत्या)+++ ।   
-दि॒वो न र॒श्मीꣳस् **त॑नु॒तो व्य्** अ॑र्ण॒वे ।   
+उ॒भाव् अन्तौ॒ **परि॑ यात॒** अर्म्या॑+++(=गत्या)+++ ।   
+दि॒वो न र॒श्मीँस् **त॑नु॒तो व्य्** अ॑र्ण॒वे ।   
 उ॒भा **भु॑व॒न्ती** भुव॑ना क॒वि-क्र॑तू ।   
 सूर्या॒ न च॒न्द्रा **च॑रतो** ह॒ता-म॑ती ।
 </details>
@@ -52,8 +52,8 @@ unicode_script: devanagari
 <details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
 <details><summary>मूलम्</summary>
 
-उ॒भावन्तौ॒ परि॑ यात॒ अर्म्या᳚ ।   
-दि॒वो न र॒श्मीꣳस्त॑नु॒तो व्य॑र्ण॒वे ।   
+उ॒भावन्तौ॒ परि॑ यात॒ अर्म्या॑ ।   
+दि॒वो न र॒श्मीँस्त॑नु॒तो व्य॑र्ण॒वे ।   
 उ॒भा भु॑व॒न्ती भुव॑ना क॒विक्र॑तू ।   
 सूर्या॒ न च॒न्द्रा च॑रतो ह॒ताम॑ती ।
 </details>
@@ -71,9 +71,9 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA/11_patI_dyumad.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
-पती᳚ द्यु॒मद् वि॑श्व॒-विदा॑ उ॒भा दि॒वः ।   
-सूर्या॑ उ॒भा च॒न्द्रम॑सा विचख्ष॒णा ॥ 71 ॥  
-वि॒श्व-वा॑रा **वरिवा**+++(=पूजितौ)+++ +उ॒भा वरे᳚ण्या ।  
+पती॑ द्यु॒मद् वि॑श्व॒-विदा॑ उ॒भा दि॒वः ।   
+सूर्या॑ उ॒भा च॒न्द्रम॑सा विचक्ष॒णा ॥ 71 ॥  
+वि॒श्व-वा॑रा **वरिवा**+++(=पूजितौ)+++ +उ॒भा वरे॑ण्या ।  
 ता नो॑ **ऽवतम्** मति॒मन्ता॒ महि॑व्रता ।
 </details>
 </div>
@@ -81,9 +81,9 @@ unicode_script: devanagari
 <details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
 <details><summary>मूलम्</summary>
 
-पती᳚ द्यु॒मद्वि॑श्व॒विदा॑ उ॒भा दि॒वः ।   
-सूर्या॑ उ॒भा च॒न्द्रम॑सा विचख्ष॒णा ॥ 71 ॥  
-वि॒श्ववा॑रा वरिवो॒भा वरे᳚ण्या ।  
+पती॑ द्यु॒मद्वि॑श्व॒विदा॑ उ॒भा दि॒वः ।   
+सूर्या॑ उ॒भा च॒न्द्रम॑सा विचक्ष॒णा ॥ 71 ॥  
+वि॒श्ववा॑रा वरिवो॒भा वरे॑ण्या ।  
 ता नो॑ऽवतम्मति॒मन्ता॒ महि॑व्रता ।
 </details>
 <details><summary>सायण-टीका</summary>
@@ -102,7 +102,7 @@ unicode_script: devanagari
 वि॒श्व॒-वप॑री+++(←वप्)+++ प्र॒तर॑णा **तर॒न्ता** ।   
 सु॒व॒र्-विदा॑ दृ॒शये॒ भूरि॑-रश्मी ।  
 सूर्या॒ हि च॒न्द्रा वसु॑ त्वे॒ष-द॑र्शता ।   
-म॒न॒स्विनो॒भा **ऽनु॑चर॒तो** नु॒ सन् दिव᳚म् ।
+म॒न॒स्विनो॒भा **ऽनु॑चर॒तो** नु॒ सन् दिव॑म् ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA/15_vishvavaparI_prataraNA.md">
@@ -112,7 +112,7 @@ unicode_script: devanagari
 वि॒श्व॒वप॑री प्र॒तर॑णा तर॒न्ता ।   
 सु॒व॒र्विदा॑ दृ॒शये॒ भूरि॑रश्मी ।  
 सूर्या॒ हि च॒न्द्रा वसु॑ त्वे॒षद॑र्शता ।   
-म॒न॒स्विनो॒भानु॑चर॒तोनु॒ सन्दिव᳚म् ।
+म॒न॒स्विनो॒भानु॑चर॒तोनु॒ सन्दिव॑म् ।
 </details>
 <details><summary>सायण-टीका</summary>
 
@@ -379,7 +379,7 @@ Die sieben Ströme wahren schutzreich seinen Ruhm, die weiten Erd' und Himmel se
 
 पू॒र्वा॒प॒रञ् **च॑रतो** मा॒ययै॒तौ ।   
 शिशू॒ **क्रीड॑न्तौ॒** परि॑ यातो अ-ध्व॒रम्+++(=अ-हिंसम्  →यज्ञम्)+++ ।  
-विश्वा᳚न्य् +++(तयोर्)+++ अ॒न्यो भुव॑ना **ऽभि॒ चष्टे᳚** ।  
+विश्वा॑न्य् +++(तयोर्)+++ अ॒न्यो भुव॑ना **ऽभि॒ चष्टे॑** ।  
 ऋ॒तून् अ॒न्यो **वि॒दध॑ज् जायते॒** पुनः॑ ।+++(5)+++
 </details>
 </div>
@@ -389,7 +389,7 @@ Die sieben Ströme wahren schutzreich seinen Ruhm, die weiten Erd' und Himmel se
 
 पू॒र्वा॒प॒रञ्च॑रतो मा॒ययै॒तौ ।   
 शिशू॒ क्रीड॑न्तौ॒ परि॑ यातो अध्व॒रम् ।  
-विश्वा᳚न्य॒न्यो भुव॑नाऽभि॒ चष्टे᳚ ।  
+विश्वा॑न्य॒न्यो भुव॑नाऽभि॒ चष्टे॑ ।  
 ऋ॒तून॒न्यो वि॒दध॑ज्जायते॒ पुनः॑ ।
 </details>
 <details><summary>सायण-टीका</summary>
@@ -412,7 +412,7 @@ Die sieben Ströme wahren schutzreich seinen Ruhm, die weiten Erd' und Himmel se
 </details>
 <details><summary>मूलम्</summary>
 
-हिर॑ण्यवर्णा॒श्शुच॑यᳶ पाव॒का यासा॒ꣳ॒ राजा᳚ ।
+हिर॑ण्यवर्णा॒श्शुच॑यᳶ पाव॒का यासाँ॒ राजा॑ ।
 </details>
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/03_hiraNyavarNAsh_shuchayapH.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
@@ -420,7 +420,7 @@ Die sieben Ströme wahren schutzreich seinen Ruhm, die weiten Erd' und Himmel se
 हिर॑ण्यवर्णा॒श् शुच॑यᳶ पाव॒का,  
 यासु॑ **जा॒तᳵ** क॒श्यपो॒, यास्व् इन्द्रः॑ ।  
 अ॒ग्निय्ँ या गर्भ॑न् **दधि॒रे**, विरू॑पा॒स् -  
-ता न॒ आप॒श् शꣳ स्यो॒ना **भ॑वन्तु** ।
+ता न॒ आप॒श् शँ स्यो॒ना **भ॑वन्तु** ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/5/6/01_hiraNyavarNAsh_shuchayaH/03_hiraNyavarNAsh_shuchayapH.md">
@@ -429,7 +429,7 @@ Die sieben Ströme wahren schutzreich seinen Ruhm, die weiten Erd' und Himmel se
 
 हिर॑ण्यवर्णा॒श् शुच॑यᳶ पाव॒का, यासु॑ जा॒तᳵ क॒श्यपो॒, यास्विन्द्रः॑ ।
 
-अ॒ग्निय्ँ या गर्भ॑न् दधि॒रे, विरू॑पा॒स् - ता न॒ आप॒श्शꣳ स्यो॒ना भ॑वन्तु ।
+अ॒ग्निय्ँ या गर्भ॑न् दधि॒रे, विरू॑पा॒स् - ता न॒ आप॒श्शँ स्यो॒ना भ॑वन्तु ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -441,26 +441,26 @@ Die sieben Ströme wahren schutzreich seinen Ruhm, die weiten Erd' und Himmel se
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-यासा॒ꣳ॒ राजा॒ वरु॑णो॒ याति॒ मध्ये॑ सत्यानृ॒ते अ॑व॒पश्य॒ञ्जना॑नाम् । म॒धु॒श्चुत॒श्शुच॑यो॒ याᳶ पा॑व॒कास्ता न॒ आप॒श्शꣳ स्यो॒ना भ॑वन्तु ।
+यासाँ॒ राजा॒ वरु॑णो॒ याति॒ मध्ये॑ सत्यानृ॒ते अ॑व॒पश्य॒ञ्जना॑नाम् । म॒धु॒श्चुत॒श्शुच॑यो॒ याᳶ पा॑व॒कास्ता न॒ आप॒श्शँ स्यो॒ना भ॑वन्तु ।
 </details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/08_yAsAM_rAjA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-यासा॒ꣳ॒ राजा॒ वरु॑णो॒ **याति॒** मध्ये॑,  
+यासाँ॒ राजा॒ वरु॑णो॒ **याति॒** मध्ये॑,  
 सत्यानृ॒ते **अ॑व॒पश्य॒ञ्** जना॑नाम् ।  
 म॒धु॒श्-**चुत॒श्** शुच॑यो॒ याᳶ पा॑व॒कास् -  
-ता न॒ आप॒श् शꣳ स्यो॒ना **भ॑वन्तु** ।
+ता न॒ आप॒श् शँ स्यो॒ना **भ॑वन्तु** ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/5/6/01_hiraNyavarNAsh_shuchayaH/08_yAsAM_rAjA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
-यासा॒ꣳ॒ राजा॒ वरु॑णो॒ याति॒ मध्ये॑, सत्यानृ॒ते अ॑व॒पश्य॒ञ् जना॑नाम् ।
+यासाँ॒ राजा॒ वरु॑णो॒ याति॒ मध्ये॑, सत्यानृ॒ते अ॑व॒पश्य॒ञ् जना॑नाम् ।
 
-म॒धु॒श्चुत॒श् शुच॑यो॒ याᳶ पा॑व॒कास् - ता न॒ आप॒श् शꣳ स्यो॒ना भ॑वन्तु ।
+म॒धु॒श्चुत॒श् शुच॑यो॒ याᳶ पा॑व॒कास् - ता न॒ आप॒श् शँ स्यो॒ना भ॑वन्तु ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -468,31 +468,31 @@ Die sieben Ströme wahren schutzreich seinen Ruhm, die weiten Erd' und Himmel se
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-यासा᳚न्दे॒वा दि॒वि कृ॒ण्वन्ति॑ भ॒ख्षय्ँया अ॒न्तरि॑ख्षे बहु॒धा भव॑न्ति । याᳶ पृ॑थि॒वीम्पय॑सो॒न्दन्ति॑ [1]  
-शु॒क्रास्ता न॒ आप॒श्शꣳ स्यो॒ना भ॑वन्तु ।
+यासा॑न्दे॒वा दि॒वि कृ॒ण्वन्ति॑ भ॒क्षय्ँया अ॒न्तरि॑क्षे बहु॒धा भव॑न्ति । याᳶ पृ॑थि॒वीम्पय॑सो॒न्दन्ति॑ [1]  
+शु॒क्रास्ता न॒ आप॒श्शँ स्यो॒ना भ॑वन्तु ।
 </details>
 </details>
 </div>
 <details><summary>मूलम्</summary>
 
-यासा᳚न् दे॒वाश्  
-शि॒वेन॑ मा॒ चख्षु॑षा पश्यत ।
+यासा॑न् दे॒वाश्  
+शि॒वेन॑ मा॒ चक्षु॑षा पश्यत ।
 </details>
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/12_yAsAn_devA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-यासा᳚न् दे॒वा दि॒वि **कृ॒ण्वन्ति॑** भ॒ख्षय्ँ -  
-या अ॒न्तरि॑ख्षे बहु॒धा **भव॑न्ति** ।  
+यासा॑न् दे॒वा दि॒वि **कृ॒ण्वन्ति॑** भ॒क्षय्ँ -  
+या अ॒न्तरि॑क्षे बहु॒धा **भव॑न्ति** ।  
 याᳶ पृ॑थि॒वीम् **पय॑सो॒न्दन्ति॑** शु॒क्रास् -  
-ता न॒ आप॒श् शꣳ स्यो॒ना **भ॑वन्तु** ।
+ता न॒ आप॒श् शँ स्यो॒ना **भ॑वन्तु** ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/5/6/01_hiraNyavarNAsh_shuchayaH/12_yAsAn_devA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
-यासा᳚न् दे॒वा दि॒वि कृ॒ण्वन्ति॑ भ॒ख्षय्ँ - या अ॒न्तरि॑ख्षे बहु॒धा भव॑न्ति ।  
-याᳶ पृ॑थि॒वीम् पय॑सो॒न्दन्ति॑ शु॒क्रास् - ता न॒ आप॒श् शꣳ स्यो॒ना भ॑वन्तु ।
+यासा॑न् दे॒वा दि॒वि कृ॒ण्वन्ति॑ भ॒क्षय्ँ - या अ॒न्तरि॑क्षे बहु॒धा भव॑न्ति ।  
+याᳶ पृ॑थि॒वीम् पय॑सो॒न्दन्ति॑ शु॒क्रास् - ता न॒ आप॒श् शँ स्यो॒ना भ॑वन्तु ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -500,16 +500,16 @@ Die sieben Ströme wahren schutzreich seinen Ruhm, die weiten Erd' und Himmel se
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-शि॒वेन॑ मा॒ चख्षु॑षा पश्यतापश्शि॒वया॑ त॒नुवोप॑ स्पृशत॒ त्वच॑म्मे । सर्वाꣳ॑ अ॒ग्नीꣳ र॑फ्सु॒षदो॑ हुवे वो॒ मयि॒ वर्चो॒ बल॒मोजो॒ नि ध॑त्त ।
+शि॒वेन॑ मा॒ चक्षु॑षा पश्यतापश्शि॒वया॑ त॒नुवोप॑ स्पृशत॒ त्वच॑म्मे । सर्वाँ॑ अ॒ग्नीँ र॑प्सु॒षदो॑ हुवे वो॒ मयि॒ वर्चो॒ बल॒मोजो॒ नि ध॑त्त ।
 </details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/16_shivena_mA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-शि॒वेन॑ मा॒ चख्षु॑षा **पश्यतापश्** -  
+शि॒वेन॑ मा॒ चक्षु॑षा **पश्यतापश्** -  
 शि॒वया॑ त॒नुवोप॑ **स्पृशत॒** त्वच॑म् मे ।  
-सर्वाꣳ॑ अ॒ग्नीꣳर् अ॑फ्सु॒-षदो॑ **हुवे** वो॒,  
+सर्वाँ॑ अ॒ग्नीँर् अ॑प्सु॒-षदो॑ **हुवे** वो॒,  
 मयि॒ वर्चो॒ बल॒म् ओजो॒ **नि ध॑त्त** ।
 </details>
 </div>
@@ -517,9 +517,9 @@ Die sieben Ströme wahren schutzreich seinen Ruhm, die weiten Erd' und Himmel se
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
-शि॒वेन॑ मा॒ चख्षु॑षा पश्यतापश् - शि॒वया॑ त॒नुवोप॑ स्पृशत॒ त्वच॑म् मे ।
+शि॒वेन॑ मा॒ चक्षु॑षा पश्यतापश् - शि॒वया॑ त॒नुवोप॑ स्पृशत॒ त्वच॑म् मे ।
 
-सर्वाꣳ॑ अ॒ग्नीꣳ र॑फ्सु॒षदो॑ हुवे वो॒, मयि॒ वर्चो॒ बल॒मोजो॒ नि ध॑त्त ।
+सर्वाँ॑ अ॒ग्नीँ र॑प्सु॒षदो॑ हुवे वो॒, मयि॒ वर्चो॒ बल॒मोजो॒ नि ध॑त्त ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -546,7 +546,7 @@ Die sieben Ströme wahren schutzreich seinen Ruhm, die weiten Erd' und Himmel se
 आपो॑ भ॒द्रा, घृ॒तम् इद् आप॑ आसुर् -  
 अ॒ग्नीषोमौ॑ **बिभ्र॒त्य्**, आप॒ इत् ताः ।  
 ती॒व्रो रसो॑ मधु॒-पृचा॑म् अरङ्-ग॒म +++(→रसः)+++  
-**आ** मा᳚ प्रा॒णेन॑ स॒ह वर्च॑सा **गन्न्** ।
+**आ** मा॑ प्रा॒णेन॑ स॒ह वर्च॑सा **गन्न्** ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/5/6/01_kumbheShTakopAdhAna-mantrAH/37_Apo_bhadrA.md">
@@ -554,7 +554,7 @@ Die sieben Ströme wahren schutzreich seinen Ruhm, die weiten Erd' und Himmel se
 <details><summary>मूलम्</summary>
 
 आपो॑ भ॒द्रा घृ॒तमिदाप॑ आसुर् - अ॒ग्नीषोमौ॑ बिभ्र॒त्याप॒ इत्ताः ।  
-ती॒व्रो रसो॑ मधु॒पृचा॑मरङ्ग॒म आ मा᳚ प्रा॒णेन॑ स॒ह वर्च॑सा गन्न् ।
+ती॒व्रो रसो॑ मधु॒पृचा॑मरङ्ग॒म आ मा॑ प्रा॒णेन॑ स॒ह वर्च॑सा गन् ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -593,7 +593,7 @@ Die sieben Ströme wahren schutzreich seinen Ruhm, die weiten Erd' und Himmel se
 </div>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-आपो॒ हि ष्ठा म॑यो॒भुव॒स्ता न॑ ऊ॒र्जे द॑धातन । म॒हे रणा॑य॒ चख्ष॑से ।
+आपो॒ हि ष्ठा म॑यो॒भुव॒स्ता न॑ ऊ॒र्जे द॑धातन । म॒हे रणा॑य॒ चक्ष॑से ।
 </details>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/01_Apo_hi.md">
 <details open><summary><h2>०१ आपो हि ...{Loading}...</h2></summary>
@@ -830,7 +830,7 @@ But even if thought is the ultimate and primal creative act, the origin of the  
 
 
 नास॑द् आसी॒न्, नो सदा॑सीत् त॒दानी॑म् । नासी॒द् रजो॒, नो व्यो॑मा प॒रो यत् ।  
-किम् आव॑रिवः॒+++(=आवरणीयं)+++? कुह॒+++(=क्व)+++? कस्य॒ शर्मन्॑+++(णे)+++? अम्भः॒ किम् आ॑सी॒द् गह॑नं गभी॒रम् ?  
+किम् आव॑रिवः॒+++(=आवरणीयं)+++? कुह॒+++(=क्व)+++? कस्य॒ शर्म॑न्+++(णे)+++? अम्भः॒ किम् आ॑सी॒द् गह॑नं गभी॒रम् ?  
 
 </details>
 </div>
@@ -1131,7 +1131,7 @@ Zu jener Zeit war weder Sein, noch Nichtsein, nicht war der Luftraum, noch der H
 
 
 न मृ॒त्युर्, अ॒मृतं॒ तर्हि॒ न । रात्रि॑या॒ अह्न॑ आसीत् प्रके॒तः+++(=सङ्केतः [ज्योतींषि])+++ ।  
-आनी॑द् +++(=अचेष्टयत)+++ अवा॒तꣳ +++(स्वयमाश्रयेण)+++स्व॒धया॒ तद् एक॑म् +++(ब्रह्म)+++। तस्मा॑द् +हा॒ऽन्यं न प॒रः किञ्च॒नास॑ ।
+आनी॑द् +++(=अचेष्टयत)+++ अवा॒तँ +++(स्वयमाश्रयेण)+++स्व॒धया॒ तद् एक॑म् +++(ब्रह्म)+++। तस्मा॑द् +हा॒ऽन्यं न प॒रः किञ्च॒नास॑ ।
 
 </details>
 </div>
@@ -1417,7 +1417,7 @@ Nicht Tod und nicht Unsterblichkeit war damals, nicht gab's des Tages noch der N
 <details open><summary><h10>विश्वास-प्रस्तुतिः ...{Loading}...</h10></summary>
 
 
-तम॑ +++(ब्रह्म)+++ आसी॒त्, तम॑सा गू॒ढम् अग्रे॑ प्रके॒तम् +++(=रहस्यम्)+++। +++(यथा)+++ स॒लि॒लꣳ सर्व॑म् आ इ॒दम् ।  
+तम॑ +++(ब्रह्म)+++ आसी॒त्, तम॑सा गू॒ढम् अग्रे॑ प्रके॒तम् +++(=रहस्यम्)+++। +++(यथा)+++ स॒लि॒लँ सर्व॑म् आ इ॒दम् ।  
 तु॒च्छेना॒भ्व् अपिहितं॒ यद् आसी॑त् । तम॑स॒स् त॑न्-महि॒ना जा॑य॒तैक॑म् +++(जगत्)+++।  
 
 </details>
@@ -2722,7 +2722,7 @@ Von wannen diese Schöpfung sei gekommen, ob sie geschaffen oder unerschaffen, D
 किं स्वि॒द्वनं॒ क उ॒ स वृ॒क्ष **आ॑स॒**+++(आ॑सीत् इति तैत्तिरीयपाठः)+++ -  
 यतो॒ द्यावा॑पृथि॒वी **नि॑ष्टत॒क्षुः**+++(←तक्ष्)+++ ।  
 मनी॑षिणो॒ मन॑सा **पृ॒च्छतेद्** उ॒ तद् -  
-यद् **अ॒ध्यति॑ष्ठद्** भुव॑नानि **धा॒रयन्॑** ।  
+यद् **अ॒ध्यति॑ष्ठद्** भुव॑नानि **धा॒रय॑न्** ।  
 
 </details>
 </div>
@@ -2953,20 +2953,20 @@ Was war der Wald, und was war jener Baum doch, aus dem sie Erd' und Himmel schö
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/9_08-16_nAsadIyam/24_brahma_vanam.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
-ब्रह्म॒ वन॒म् ब्रह्म॒ स वृ॒ख्ष **आ॑सीत्** ॥ 76 ॥  
-यतो॒ द्यावा॑पृथि॒वी **नि॑ष्टत॒ख्षुः**+++(←तक्ष्)+++ ।   
+ब्रह्म॒ वन॒म् ब्रह्म॒ स वृ॒क्ष **आ॑सीत्** ॥ 76 ॥  
+यतो॒ द्यावा॑पृथि॒वी **नि॑ष्टत॒क्षुः**+++(←तक्ष्)+++ ।   
 मनी॑षिणो॒ मन॑सा॒ **विब्र॑वीमि** वः ।  
-**ब्रह्मा॒ध्यति॑ष्ठ॒द्** भुव॑नानि **धा॒रयन्न्॑** ।
+**ब्रह्मा॒ध्यति॑ष्ठ॒द्** भुव॑नानि **धा॒रय॑न्न्** ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/9_08-16_nAsadIyam/24_brahma_vanam.md">
 <details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
 <details><summary>मूलम्</summary>
 
-ब्रह्म॒ वन॒म्ब्रह्म॒ स वृ॒ख्ष आ॑सीत् ॥ 76 ॥  
-यतो॒ द्यावा॑पृथि॒वी नि॑ष्टत॒ख्षुः ।   
+ब्रह्म॒ वन॒म्ब्रह्म॒ स वृ॒क्ष आ॑सीत् ॥ 76 ॥  
+यतो॒ द्यावा॑पृथि॒वी नि॑ष्टत॒क्षुः ।   
 मनी॑षिणो॒ मन॑सा॒ विब्र॑वीमि वः ।  
-ब्रह्मा॒ध्यति॑ष्ठ॒द्भुव॑नानि धा॒रयन्न्॑ ।
+ब्रह्मा॒ध्यति॑ष्ठ॒द्भुव॑नानि धा॒रय॑न् ।
 </details>
 <details><summary>सायण-टीका</summary>
 
@@ -3000,8 +3000,8 @@ Was war der Wald, und was war jener Baum doch, aus dem sie Erd' und Himmel schö
 <details open><summary><h7>०१ प्रातरग्निम् प्रातरिन्द्रम् ...{Loading}...</h7></summary>
 <details><summary>मूलम्</summary>
 
-प्रा॒तर॒ग्निं प्रा॒तरिन्द्रꣳ॑ हवामहे प्रा॒तर्मि॒त्रावरु॑णा प्रा॒तर॒श्विना॑ ।  
-प्रा॒तर्भगं॑ पू॒षणं॒ ब्रह्म॑ण॒स्पति॑म्प्रा॒तस्सोम॑मु॒त रु॒द्रꣳ हु॑वेम ।  
+प्रा॒तर॒ग्निं प्रा॒तरिन्द्रँ॑ हवामहे प्रा॒तर्मि॒त्रावरु॑णा प्रा॒तर॒श्विना॑ ।  
+प्रा॒तर्भगं॑ पू॒षणं॒ ब्रह्म॑ण॒स्पति॑म्प्रा॒तस्सोम॑मु॒त रु॒द्रँ हु॑वेम ।  
 </details>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/041/01_prAtaragniM_prAtarindraM.md">
 <details open><summary><h12>001 ...{Loading}...</h12></summary>
@@ -3285,7 +3285,7 @@ Frühmorgens laden Agni wir und Indra ein, frühmorgens Mitra-Varuna, die Ritter
 <details open><summary><h7>०२ प्रातर्जितम् भगमुग्रम् ...{Loading}...</h7></summary>
 <details><summary>मूलम्</summary>
 
-प्रा॒त॒र्जितं॒ भग॑मु॒ग्रꣳ हु॑वेम व॒यं पु॒त्रमदि॑ते॒र्यो वि॑ध॒र्ता ।  
+प्रा॒त॒र्जितं॒ भग॑मु॒ग्रँ हु॑वेम व॒यं पु॒त्रमदि॑ते॒र्यो वि॑ध॒र्ता ।  
 आ॒ध्रश्चि॒द्यं मन्य॑मानस्तु॒रश्चि॒द्राजा॑ चि॒द्यं भगं॑ भ॒क्षीत्याह॑ ।  
 </details>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/041/02_prAtarjitaM_bhagamugraM.md">
@@ -3899,7 +3899,7 @@ O Bhaga, Führer, Bhaga, wahrhaft reicher, begünst'ge, Bhaga, dieses Lied, uns 
 <details open><summary><h9>०४ उतेदानीं भगवन्तः ...{Loading}...</h9></summary>
 
 
-उ॒तेदानीं॒ **भग॑वन्तः स्याम॒॒**+  
+उ॒तेदानीं॒ **भग॑वन्तः स्याम॒**+  
 +उ॒त प्र॑पि॒त्व +++(=सायङ्काले)+++ उ॒त मध्ये॒ अह्ना॑म् ।  
 उ॒तोदि॑ता मघ-व॒न्त्! सूर्य॑स्य  
 व॒यं दे॒वानां॑ **सुम॒तौ स्या॑म** ॥४॥  
@@ -3913,7 +3913,7 @@ O Bhaga, Führer, Bhaga, wahrhaft reicher, begünst'ge, Bhaga, dieses Lied, uns 
 <details><summary>मूलम्</summary>
 
 उ॒तेदानीं॒ भग॑वन्तस्स्यामो॒त प्रपि॒त्व उ॒त मध्ये॒ अह्ना॑म् ।  
-उ॒तोदि॑ता मघव॒न्त्सूर्य॑स्य व॒यन्दे॒वानाꣳ॑ सुम॒तौ स्या॑म ।  
+उ॒तोदि॑ता मघव॒न्त्सूर्य॑स्य व॒यन्दे॒वानाँ॑ सुम॒तौ स्या॑म ।  
 </details>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/041/04_utedAnIM_bhagavantaH.md">
 <details open><summary><h12>004 ...{Loading}...</h12></summary>
@@ -4189,7 +4189,7 @@ Auch jetzt versorge uns mit reichem Antheil beim Tages Anbruch und in Tages Mitt
 <details open><summary><h7>०५ भग एव ...{Loading}...</h7></summary>
 <details><summary>मूलम्</summary>
 
-भग॑ ए॒व भग॑वाꣳ अस्तु देवा॒स्तेन॑ व॒यं भग॑वन्तस्स्याम ।  
+भग॑ ए॒व भग॑वाँ अस्तु देवा॒स्तेन॑ व॒यं भग॑वन्तस्स्याम ।  
 तन्त्वा॑ भग॒ सर्व॒ इज्जो॑हवीमि॒ स नो॑ भग पुरए॒ता भ॑वे॒ह ।  
 </details>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/041/05_bhaga_eva.md">

@@ -15,7 +15,7 @@ _______
 
 +++(आश्विनशस्त्रादिभिः)+++ प्रा॒त॒र्-युजौ॒ **वि मु॑च्येथा॒म्**  
 अश्वि॑ना॒व् **एह ग॑च्छतम्** ।  
-अ॒स्य सोम॑स्य पी॒तये᳚ ॥
+अ॒स्य सोम॑स्य पी॒तये॑ ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/07_AshvinagrahaH/02_prAtaryujau_vi.md">
@@ -29,7 +29,7 @@ To drink this Soma.
 <details><summary>मूलम्</summary>
 
 प्रा॒त॒र्युजौ॒ वि मु॑च्येथा॒मश्वि॑ना॒वेह ग॑च्छतम् ।  
-अ॒स्य सोम॑स्य पी॒तये᳚ ॥
+अ॒स्य सोम॑स्य पी॒तये॑ ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -75,7 +75,7 @@ ________________
 </div>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒श्विभ्या᳚न्त्वा ।
+अ॒श्विभ्या॑न्त्वा ।
 </details>
 <details><summary>Keith</summary>
 
@@ -83,7 +83,7 @@ to the Aśvins thee!
 </details>
 <details><summary>मूलम्</summary>
 
-अ॒श्विभ्या᳚न्त्वा ।
+अ॒श्विभ्या॑न्त्वा ।
 </details>
 
 _______
@@ -94,7 +94,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ष ते॒ योनि॑र्, अ॒श्विभ्या᳚न् त्वा ॥ [8]  
+ए॒ष ते॒ योनि॑र्, अ॒श्विभ्या॑न् त्वा ॥ [8]  
 </details>
 <details><summary>Keith</summary>
 
@@ -102,7 +102,7 @@ This is thy birthplace; to the Aśvins thee!
 </details>
 <details><summary>मूलम्</summary>
 
-ए॒ष ते॒ योनि॑र॒श्विभ्या᳚न्त्वा ॥ [8]  
+ए॒ष ते॒ योनि॑र॒श्विभ्या॑न्त्वा ॥ [8]  
 </details>
 
 इति चतुर्थे सप्तमोनुवाकः ॥  

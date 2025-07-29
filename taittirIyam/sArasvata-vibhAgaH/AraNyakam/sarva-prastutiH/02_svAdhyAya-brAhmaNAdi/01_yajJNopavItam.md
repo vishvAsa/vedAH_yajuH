@@ -77,13 +77,13 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विप॑रीतं प्राचीनावी॒तꣳ  
+विप॑रीतं प्राचीनावी॒तँ  
 स॒व्ँवीतं॑ मानु॒षम् । 1 ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-विप॑रीतं प्राचीनावी॒तꣳ  
+विप॑रीतं प्राचीनावी॒तँ  
 स॒व्ँवीतं॑ मानु॒षम् । 1 ।
 </details>
 

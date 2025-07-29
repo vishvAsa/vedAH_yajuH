@@ -8,12 +8,12 @@ unicode_script = "devanagari"
 ## सामिधेनीरनूच्य प्रवरमाह
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अग्ने॑ म॒हाꣳ अ॑सि ब्राह्मण भारत ।  
+अग्ने॑ म॒हाँ अ॑सि ब्राह्मण भारत ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
-अग्ने॑ म॒हाꣳ अ॑सि ब्राह्मण भारत ।  
+अग्ने॑ म॒हाँ अ॑सि ब्राह्मण भारत ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -23,12 +23,12 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-असा॒वसौ᳚ ।  
+असा॒वसौ॑ ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
-असा॒वसौ᳚ ।  
+असा॒वसौ॑ ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -68,12 +68,12 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-क॒वि॒श॒स्तो ब्रह्म॑सꣳशितो घृ॒ताह॑वनः ।  
+क॒वि॒श॒स्तो ब्रह्म॑सँशितो घृ॒ताह॑वनः ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
-क॒वि॒श॒स्तो ब्रह्म॑सꣳशितो घृ॒ताह॑वनः ।  
+क॒वि॒श॒स्तो ब्रह्म॑सँशितो घृ॒ताह॑वनः ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -83,12 +83,12 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒णीर्य॒ज्ञाना᳚म् ।  
+प्र॒णीर्य॒ज्ञाना॑म् ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
-प्र॒णीर्य॒ज्ञाना᳚म् ।  
+प्र॒णीर्य॒ज्ञाना॑म् ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -98,12 +98,12 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-र॒थीर॑ध्व॒राणा᳚म् ।  
+र॒थीर॑ध्व॒राणा॑म् ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
-र॒थीर॑ध्व॒राणा᳚म् ।  
+र॒थीर॑ध्व॒राणा॑म् ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -113,12 +113,12 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒तूर्तो॒ होता᳚ ।  
+अ॒तूर्तो॒ होता॑ ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
-अ॒तूर्तो॒ होता᳚ ।  
+अ॒तूर्तो॒ होता॑ ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -143,12 +143,12 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आस्पात्र॑ञ्जु॒हूर्दे॒वाना᳚म् ॥5॥  
+आस्पात्र॑ञ्जु॒हूर्दे॒वाना॑म् ॥5॥  
 </details>
 
 <details><summary>मूलम्</summary>
 
-आस्पात्र॑ञ्जु॒हूर्दे॒वाना᳚म् ॥5॥  
+आस्पात्र॑ञ्जु॒हूर्दे॒वाना॑म् ॥5॥  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -173,12 +173,12 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒राꣳ इ॑वाग्ने ने॒मिर्दे॒वाꣳ स्त्वम्प॑रि॒भूर॑सि ।  
+अ॒राँ इ॑वाग्ने ने॒मिर्दे॒वाँ स्त्वम्प॑रि॒भूर॑सि ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
-अ॒राꣳ इ॑वाग्ने ने॒मिर्दे॒वाꣳ स्त्वम्प॑रि॒भूर॑सि ।  
+अ॒राँ इ॑वाग्ने ने॒मिर्दे॒वाँ स्त्वम्प॑रि॒भूर॑सि ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -297,12 +297,12 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वाꣳ आ᳚ज्य॒पाꣳ आव॑ह ।  
+दे॒वाँ आ॑ज्य॒पाँ आव॑ह ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
-दे॒वाꣳ आ᳚ज्य॒पाꣳ आव॑ह ।  
+दे॒वाँ आ॑ज्य॒पाँ आव॑ह ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -312,12 +312,12 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्निꣳ हो॒त्रायाव॑ह ।  
+अ॒ग्निँ हो॒त्रायाव॑ह ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
-अ॒ग्निꣳ हो॒त्रायाव॑ह ।  
+अ॒ग्निँ हो॒त्रायाव॑ह ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -342,12 +342,12 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ चा᳚ग्ने दे॒वान् वह॑ ।  
+आ चा॑ग्ने दे॒वान् वह॑ ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
-आ चा᳚ग्ने दे॒वान् वह॑ ।  
+आ चा॑ग्ने दे॒वान् वह॑ ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

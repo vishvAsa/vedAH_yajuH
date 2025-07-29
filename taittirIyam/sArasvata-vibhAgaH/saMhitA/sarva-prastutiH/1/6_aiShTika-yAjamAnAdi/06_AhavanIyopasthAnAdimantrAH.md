@@ -72,7 +72,7 @@ to the heaven we have come.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒न्दृश॑स् ते॒ मा छि॑थ्सि ।
+स॒न्दृश॑स् ते॒ मा छि॑त्सि ।
 </details>
 <details><summary>Keith</summary>
 
@@ -80,11 +80,11 @@ May I not be cut off from seeing thee;
 </details>
 <details><summary>मूलम्</summary>
 
-स॒न्दृश॑स्ते॒ मा छि॑थ्सि ।
+स॒न्दृश॑स्ते॒ मा छि॑त्सि ।
 </details>
 <details><summary>पद-पाठः</summary>
 
-स॒न्दृश॒ इति॑ सम्-दृशः॑ । ते॒ । मा । छि॒थ्सि॒ ।  
+स॒न्दृश॒ इति॑ सम्-दृशः॑ । ते॒ । मा । छि॒त्सि॒ ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -99,7 +99,7 @@ May I not be cut off from seeing thee;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत् ते॒ तप॒स् तस्मै॑ ते॒ मा ऽऽवृ॑ख्षि ।
+यत् ते॒ तप॒स् तस्मै॑ ते॒ मा ऽऽवृ॑क्षि ।
 </details>
 <details><summary>Keith</summary>
 
@@ -107,11 +107,11 @@ what heat is thine, to that of thee may I not be brought low.
 </details>
 <details><summary>मूलम्</summary>
 
-यत्ते॒ तप॒स्तस्मै॑ ते॒ माऽऽवृ॑ख्षि ।
+यत्ते॒ तप॒स्तस्मै॑ ते॒ माऽऽवृ॑क्षि ।
 </details>
 <details><summary>पद-पाठः</summary>
 
-यत् । ते॒ । तपः॑ । तस्मै᳚ । ते॒ । मा । एति॑ । वृ॒ख्षि॒ ।
+यत् । ते॒ । तपः॑ । तस्मै॑ । ते॒ । मा । एति॑ । वृ॒क्षि॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -220,14 +220,14 @@ _______
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-इ॒दम॒हम॒मुम्भ्रातृ॑व्यमा॒भ्यो दि॒ग्भ्यो᳚ऽस्यै दि॒वो᳚ऽस्माद॒न्तरि॑ख्षाद॒स्यै पृ॑थि॒व्या अ॒स्माद॒न्नाद्या॒न्निर्भ॑जामि॒ निर्भ॑क्त॒स्स यन्द्वि॒ष्मः । [17] 
+इ॒दम॒हम॒मुम्भ्रातृ॑व्यमा॒भ्यो दि॒ग्भ्यो॑ऽस्यै दि॒वो॑ऽस्माद॒न्तरि॑क्षाद॒स्यै पृ॑थि॒व्या अ॒स्माद॒न्नाद्या॒न्निर्भ॑जामि॒ निर्भ॑क्त॒स्स यन्द्वि॒ष्मः । [17] 
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ॒दम् अ॒हम् अ॒मुम्+++(←नामनिर्देशः)+++ भ्रातृ॑व्यम्  
-आ॒भ्यो दि॒ग्भ्यो᳚  
-ऽस्यै दि॒वो᳚  
-ऽस्माद् अ॒न्तरि॑ख्षाद्  
+आ॒भ्यो दि॒ग्भ्यो॑  
+ऽस्यै दि॒वो॑  
+ऽस्माद् अ॒न्तरि॑क्षाद्  
 अ॒स्यै पृ॑थि॒व्या +++(← उदात्तयणः … इति स्वरः)+++  
 अ॒स्माद् अ॒न्नाद्या॒न् निर्भ॑जामि
 </details>
@@ -237,11 +237,11 @@ Here do I exclude my enemy, N. N., from these quarters, this sky, this atmospher
 </details>
 <details><summary>मूलम्</summary>
 
-इ॒दम॒हम॒मुम्भ्रातृ॑व्यमा॒भ्यो दि॒ग्भ्यो᳚ऽस्यै दि॒वो᳚ऽस्माद॒न्तरि॑ख्षाद॒स्यै पृ॑थि॒व्या अ॒स्माद॒न्नाद्या॒न्निर्भ॑जामि
+इ॒दम॒हम॒मुम्भ्रातृ॑व्यमा॒भ्यो दि॒ग्भ्यो॑ऽस्यै दि॒वो॑ऽस्माद॒न्तरि॑क्षाद॒स्यै पृ॑थि॒व्या अ॒स्माद॒न्नाद्या॒न्निर्भ॑जामि
 </details>
 <details><summary>पद-पाठः</summary>
 
-इ॒दम् । अ॒हम् । अ॒मुम् । भ्रातृ॑व्यम् । आ॒भ्यः । दि॒ग्भ्य इति॑ दिक्-भ्यः । अ॒स्यै॒ । दि॒वः । अ॒स्मा॒त्॒ । अ॒न्तरि॑ख्षात् । अ॒स्यै । पृ॒थि॒व्याः । अ॒स्मात् । अ॒न्नाद्या॒दित्य॑न्न-अद्या᳚त् । निरिति॑ । भ॒जा॒मि॒ । 
+इ॒दम् । अ॒हम् । अ॒मुम् । भ्रातृ॑व्यम् । आ॒भ्यः । दि॒ग्भ्य इति॑ दिक्-भ्यः । अ॒स्यै॒ । दि॒वः । अ॒स्मा॒त् । अ॒न्तरि॑क्षात् । अ॒स्यै । पृ॒थि॒व्याः । अ॒स्मात् । अ॒न्नाद्या॒दित्य॑न्न-अद्या॑त् । निरिति॑ । भ॒जा॒मि॒ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -322,7 +322,7 @@ I have been united with the light.
 </details>
 <details><summary>पद-पाठः</summary>
 
-समिति॑ । ज्योति॑षा । अ॒भू॒व॒म्॒ ।
+समिति॑ । ज्योति॑षा । अ॒भू॒व॒म् ।
 </details>
 
 
@@ -348,7 +348,7 @@ _______
 </details>
 <details><summary>पद-पाठः</summary>
 
-ऐ॒न्द्रीम् । आ॒वृत॒मित्या᳚-वृत᳚म् । अ॒न्वाव॑र्त॒ इत्य॑नु-आव॑र्ते । 
+ऐ॒न्द्रीम् । आ॒वृत॒मित्या॑-वृत॑म् । अ॒न्वाव॑र्त॒ इत्य॑नु-आव॑र्ते । 
 </details>
 
 <details><summary>Keith</summary>
@@ -366,7 +366,7 @@ I turn the turning of Indra.
 
 <details><summary>सायण-टीका</summary>
 
-ऐन्द्रीमिति। कल्पः - ‘दक्षिणमꣳसमभि पर्यावर्तत ऐन्द्रीमावृतमन्वावर्त इति’ इति।  
+ऐन्द्रीमिति। कल्पः - ‘दक्षिणमँसमभि पर्यावर्तत ऐन्द्रीमावृतमन्वावर्त इति’ इति।  
 परमैश्वर्ययोगादादित्य इन्द्रः। तदीयमावर्तनमन्वहमपि प्रादक्षिण्येनाऽऽवर्ते।  
 </details>
 
@@ -379,7 +379,7 @@ _______
 <details open><summary><h5>समहम् प्रजया ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सम् अ॒हम् प्र॒जया᳚  +++(भूयासम्)+++  ।
+सम् अ॒हम् प्र॒जया॑  +++(भूयासम्)+++  ।
 </details>
 <details><summary>Keith</summary>
 
@@ -387,7 +387,7 @@ May I be united with offspring,
 </details>
 <details><summary>मूलम्</summary>
 
-सम॒हम्प्र॒जया᳚  +++(भूयासम्)+++  ।
+सम॒हम्प्र॒जया॑  +++(भूयासम्)+++  ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -399,7 +399,7 @@ ___________
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सम् मया᳚ प्र॒जा  +++(भूयात्)+++ ।
+सम् मया॑ प्र॒जा  +++(भूयात्)+++ ।
 </details>
 <details><summary>Keith</summary>
 
@@ -407,7 +407,7 @@ offspring with me.
 </details>
 <details><summary>मूलम्</summary>
 
-सम्मया᳚ प्र॒जा  +++(भूयात्)+++ ।
+सम्मया॑ प्र॒जा  +++(भूयात्)+++ ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -417,7 +417,7 @@ __________
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सम॒हꣳ रा॒यस्पोषे॑ण  +++(भूयासम्)+++  ।
+सम॒हँ रा॒यस्पोषे॑ण  +++(भूयासम्)+++  ।
 </details>
 <details><summary>Keith</summary>
 
@@ -425,7 +425,7 @@ May I be united with increase of wealth,
 </details>
 <details><summary>मूलम्</summary>
 
-सम॒हꣳ रा॒यस्पोषे॑ण  +++(भूयासम्)+++  ।
+सम॒हँ रा॒यस्पोषे॑ण  +++(भूयासम्)+++  ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -484,7 +484,7 @@ Kindled, O Agni, shine for me;
 
 <details><summary>सायण-टीका</summary>
 
-समिद्ध इति। कल्पः - ‘अथाऽऽहवनीये समिधमादधाति समिद्धो अग्ने मे दीदिहि समेद्धा ते अग्ने दीद्यासꣳ स्वाहेति’ इति।  
+समिद्ध इति। कल्पः - ‘अथाऽऽहवनीये समिधमादधाति समिद्धो अग्ने मे दीदिहि समेद्धा ते अग्ने दीद्यासँ स्वाहेति’ इति।  
 
 अत्र समित्प्रक्षेपाय स्वाहेति शब्दोऽध्याहृतः। 
 </details>
@@ -503,7 +503,7 @@ kindling thee, O Agni, may I shine.
 </details>
 <details><summary>पद-पाठः</summary>
 
-स॒मे॒द्धेति॑ सम्-ए॒द्धा । ते॒ । अ॒ग्ने॒ । दी॒द्या॒स॒म्॒ । 
+स॒मे॒द्धेति॑ सम्-ए॒द्धा । ते॒ । अ॒ग्ने॒ । दी॒द्या॒स॒म् । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -535,7 +535,7 @@ Be rich the sacrifice; may I be rich.
 </details>
 <details><summary>पद-पाठः</summary>
 
-वसु॑मा॒निति॒ वसु॑-मा॒न्॒ । य॒ज्ञः । वसी॑यान् । भू॒या॒स॒म्॒ । 
+वसु॑मा॒निति॒ वसु॑-मा॒न् । य॒ज्ञः । वसी॑यान् । भू॒या॒स॒म् । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -636,7 +636,7 @@ duchúnām ← duchúnā- (nominal stem)
 
 <details><summary>पद-पाठः-तैत्तिरीयः</summary>
 
-अग्ने᳚ । आयूꣳ॑षि । प॒व॒से॒ । एति॑ । सु॒व॒ । ऊर्ज᳚म् । इष᳚म् । च॒ । नः॒ ॥ आ॒रे । बा॒ध॒स्व॒ । दु॒च्छुना᳚म् ॥ 
+अग्ने॑ । आयूँ॑षि । प॒व॒से॒ । एति॑ । सु॒व॒ । ऊर्ज॑म् । इष॑म् । च॒ । नः॒ ॥ आ॒रे । बा॒ध॒स्व॒ । दु॒च्छुना॑म् ॥ 
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -815,16 +815,27 @@ Du flammst, o Agni, Leben aus, erzeuge Trank und Speise uns, Das Unheil stosse w
 आ॒रे बा॑धस्व दु॒च्छुना॑म् ॥
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/066/21_agne_pavasva.md">
-<details open><summary><h5>२१ अग्ने पवस्व ...{Loading}...</h5></summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्ने॒ **पव॑स्व॒** स्व्-अपा॑+++(←अपस्=कर्म)+++  
 अ॒स्मे वर्चः॑ सु॒वीर्य॑म् ।  
-**दध॑द्** र॒यिं मयि॒ पोष॑म् ॥
-
+**दध॒त्** पोष॑म् र॒यिं मयि॑ ॥
 </details>
-</div>
+
+<details><summary>मूलम्</summary>
+
+अग्ने॒ **पव॑स्व॒** स्व्-अपा॑+++(←अपस्=कर्म)+++  
+अ॒स्मे वर्चः॑ सु॒वीर्य॑म् ।  
+**दध॒त्** पोष॑म् र॒यिं मयि॑ ॥
+</details>
+
+<details><summary>पद-पाठः- तैत्तिरीयः</summary>
+
+अग्ने॑ । पव॑स्व । स्वपा॒ इति॑ सु-अपाः॑ । अ॒स्मे इति॑ । वर्चः॑ । सु॒वीर्य॒मिति॑ सु-वीर्य॑म् ॥ दध॑त् । पोष॑म् । र॒यिम् । मयि॑ ॥
+</details>
+
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/09/066/21_agne_pavasva.md">
 <details open><summary><h5>021 ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -1058,13 +1069,14 @@ O Agni, flamme uns herbei schönwirkend Glanz und Heldenkraft; Er schenke Gut un
 </details>
 </details>
 </div>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 व्याख्याते चैते 'त्वमग्ने रुद्रः' इत्यत्र । 
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-अग्ने॑ गृहपते सुगृहप॒तिर॒हन्त्वया॑ गृ॒हप॑तिना भूयासꣳ सुगृहप॒तिर्मया॒ त्वङ्गृ॒हप॑तिना भूयाश्श॒तꣳ हिमा॒स्तामा॒शिष॒मा शा॑से॒ तन्त॑वे॒ ज्योति॑ष्मती॒न्तामा॒शिष॒माशा॑से॒ऽमुष्मै॒ ज्योति॑ष्मती॒ङ्कस्त्वा॑ युनक्ति॒ स त्वा॒ विमु॑ञ्च॒त्वग्ने᳚ व्रतपते व्र॒तम॑चारिष॒न्तद॑शक॒न्तन्मे॑ऽराधि य॒ज्ञो ब॑भूव॒ स आ [19]ब॒भू॒व॒ स प्र ज॑ज्ञे॒ स वा॑वृधे । 
+अग्ने॑ गृहपते सुगृहप॒तिर॒हन्त्वया॑ गृ॒हप॑तिना भूयासँ सुगृहप॒तिर्मया॒ त्वङ्गृ॒हप॑तिना भूयाश्श॒तँ हिमा॒स्तामा॒शिष॒मा शा॑से॒ तन्त॑वे॒ ज्योति॑ष्मती॒न्तामा॒शिष॒माशा॑से॒ऽमुष्मै॒ ज्योति॑ष्मती॒ङ्कस्त्वा॑ युनक्ति॒ स त्वा॒ विमु॑ञ्च॒त्वग्ने॑ व्रतपते व्र॒तम॑चारिष॒न्तद॑शक॒न्तन्मे॑ऽराधि य॒ज्ञो ब॑भूव॒ स आ [19]ब॒भू॒व॒ स प्र ज॑ज्ञे॒ स वा॑वृधे । 
 </details>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/agne_gRhapate.md">
 <details open><summary><h5>अग्ने गृहपते ...{Loading}...</h5></summary>
@@ -1074,11 +1086,12 @@ O Agni, flamme uns herbei schönwirkend Glanz und Heldenkraft; Er schenke Gut un
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-अग्ने॑ गृहपते सुगृहप॒तिर॒हन्त्वया॑ गृ॒हप॑तिना भूयासꣳ सुगृहप॒तिर्मया॒ त्वङ्गृ॒हप॑तिना भूयाश्श॒तꣳ हिमाः …
+अग्ने॑ गृहपते सुगृहप॒तिर॒हन्त्वया॑ गृ॒हप॑तिना भूयासँ सुगृहप॒तिर्मया॒ त्वङ्गृ॒हप॑तिना भूयाश्श॒तँ हिमाः …
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अग्ने॑ गृहपते! सुगृह-प॒तिर् अ॒हन् त्वया॑ गृ॒ह-प॑तिना भूयासम् ।  
+अग्ने॑ गृहपते! सुगृह-प॒तिर्  
+अ॒हन् त्वया॑ गृ॒ह-प॑तिना भूयासम् ।  
 सु॒गृ॒ह॒प॒तिर् मया॒ त्वङ् गृ॒हप॑तिना भूयाः ।
 </details>
 <details><summary>Keith</summary>
@@ -1098,7 +1111,7 @@ ____________
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-श॒तꣳ हिमा॑स् ताम् आ॒शिष॒म् आशा॑से ।
+श॒तँ हिमा॒स् ताम् आ॒शिष॒म् आशा॑से ।
 
 +++(अजातपुत्र-पक्षे - )+++ तन्त॑वे॒ ज्योति॑ष्मती॒न् ताम् आ॒शिष॒म् आशा॑से ।  
 +++(जातपुत्र-पक्षे -)+++ [ताम् आ॒शिष॒म् आशा॑से] अ॒मुष्मै॒+++(→अपत्य-नाम-निर्देशः)+++ ज्योति॑ष्मतीम् ॥  [24]
@@ -1111,7 +1124,7 @@ bringing light for N. N.+++(= nomina / names)+++
 </details>
 <details><summary>मूलम्</summary>
 
-श॒तꣳ हिमा॑स् तामा॒शिष॒माशा॑से ।
+श॒तँ हिमा॒स् तामा॒शिष॒माशा॑से ।
 
 +++(अजातपुत्र-पक्षे - )+++ तन्त॑वे॒ ज्योति॑ष्मती॒न्  
 तामा॒शिष॒माशा॑से ।  
@@ -1144,7 +1157,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कस्त्वा॑ युनक्ति॒ स त्वा॒ विमु॑ञ्च॒तु ।
+कस्त्वा॑ युनक्ति॒ स त्वा॒ विमु॑ञ्चतु ।
 </details>
 <details><summary>Keith</summary>
 
@@ -1152,7 +1165,7 @@ Who yoketh thee? Let him set thee free.
 </details>
 <details><summary>मूलम्</summary>
 
-कस्त्वा॑ युनक्ति॒ स त्वा॒ विमु॑ञ्च॒तु ।
+कस्त्वा॑ युनक्ति॒ स त्वा॒ विमु॑ञ्चतु ।
 </details>
 <details><summary>पद-पाठः</summary>
 
@@ -1177,7 +1190,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अग्ने᳚ व्रतपते व्र॒तम् अ॑चारिषम् ।
+अग्ने॑ व्रतपते व्र॒तम् अ॑चारिषम् ।
 </details>
 <details><summary>Keith</summary>
 
@@ -1185,11 +1198,11 @@ O Agni, lord of vows, I have performed my vow;
 </details>
 <details><summary>मूलम्</summary>
 
-अग्ने᳚ व्रतपते व्र॒तम॑चारिषम् ।
+अग्ने॑ व्रतपते व्र॒तम॑चारिषम् ।
 </details>
 <details><summary>पद-पाठः</summary>
 
-अग्ने᳚ । व्र॒त॒प॒त॒ इति॑ व्रत-प॒ते॒ । व्र॒तम् । अ॒चा॒रि॒ष॒म्॒ । 
+अग्ने॑ । व्र॒त॒प॒त॒ इति॑ व्रत-प॒ते॒ । व्र॒तम् । अ॒चा॒रि॒ष॒म् । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1217,7 +1230,7 @@ for that I have had strength;
 </details>
 <details><summary>पद-पाठः</summary>
 
-तत् । अ॒श॒क॒म्॒ । 
+तत् । अ॒श॒क॒म् । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1289,13 +1302,13 @@ It hath been born, it hath waxed great;
 
 <details><summary>सायण-टीका</summary>
 
-यज्ञो बभूवेति। कल्पः - ‘अथ यज्ञस्य पुनरालम्भे जपति यज्ञो बभूव स आ बभूव स प्र यज्ञे स वावृधे। स देवानामधिपतिर्बभूव सो अस्माꣳ अधिपतीन्करोतु वयꣳ स्याम पतयो रयीणामिति’ इति।  
+यज्ञो बभूवेति। कल्पः - ‘अथ यज्ञस्य पुनरालम्भे जपति यज्ञो बभूव स आ बभूव स प्र यज्ञे स वावृधे। स देवानामधिपतिर्बभूव सो अस्माँ अधिपतीन्करोतु वयँ स्याम पतयो रयीणामिति’ इति।  
 इदानीमनुष्ठितोऽयं यज्ञो बभूव संपूर्णोऽभूत्। स यज्ञ आबभूव पुनरप्यावृत्तो भवतु। स यज्ञः प्रजज्ञेऽस्माननालस्येनानुष्ठातॄन्प्रज्ञातवान्। अत एवास्मद्गृहे स यज्ञो वावृधे पुनःपुनरनुष्ठानेन वर्धताम्। 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स दे॒वाना॒म् अधि॑पतिर्बभूव ।   
+स दे॒वाना॒म् अधि॑पतिर् बभूव ।   
 </details>
 <details><summary>Keith</summary>
 
@@ -1307,7 +1320,7 @@ It hath become the overlord of the gods,
 </details>
 <details><summary>पद-पाठः</summary>
 
-सः । दे॒वाना᳚म् । अधि॑पति॒रित्यधि॑-प॒तिः॒ । ब॒भू॒व॒ । 
+सः । दे॒वाना॑म् । अधि॑पति॒रित्यधि॑-प॒तिः॒ । ब॒भू॒व॒ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1322,7 +1335,7 @@ It hath become the overlord of the gods,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो अ॒स्माꣳ अधि॑पतीन् करोतु  ।
+सो अ॒स्माँ अधि॑पतीन् करोतु  ।
 </details>
 <details><summary>Keith</summary>
 
@@ -1330,11 +1343,11 @@ May it make us overlords,
 </details>
 <details><summary>मूलम्</summary>
 
-सो अ॒स्माꣳ अधि॑पतीन्करोतु  ।
+सो अ॒स्माँ अधि॑पतीन्करोतु  ।
 </details>
 <details><summary>पद-पाठः</summary>
 
-सः । अ॒स्मान् । अधि॑पती॒नित्यधि॑-प॒ती॒न्॒ । क॒रो॒तु॒ । 
+सः । अ॒स्मान् । अधि॑पती॒नित्यधि॑-प॒ती॒न् । क॒रो॒तु॒ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1349,7 +1362,7 @@ May it make us overlords,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व॒यꣵ स्या॑म॒ पत॑यो रयी॒णाम्  ॥
+व॒यँ स्या॑म॒ पत॑यो रयी॒णाम्  ॥
 </details>
 <details><summary>Keith</summary>
 
@@ -1357,7 +1370,7 @@ May we be lords of wealth.
 </details>
 <details><summary>मूलम्</summary>
 
-व॒यꣵ स्या॑म॒ पत॑यो रयी॒णाम्  ॥
+व॒यँ स्या॑म॒ पत॑यो रयी॒णाम्  ॥
 </details>
 <details><summary>पद-पाठः</summary>
 
@@ -1382,10 +1395,10 @@ _______
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/06_AhavanIyopasthAnAdimantrAH/02_gomAM_agne.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-गोमाꣳ॑ अ॒ग्ने, ऽवि॑माꣳ, अ॒श्वी **य॒ज्ञो**  
+गोमाँ॑ अ॒ग्ने, ऽवि॑माँ, अ॒श्वी **य॒ज्ञो**  
 नृ॒वथ्+++(→देव)+++-स॑खा॒ सद॒म्+++(=सदा)+++ इद् अ॑प्रमृ॒ष्यः ।  
-इडा॑वाꣳ ए॒षो +++(→य॒ज्ञो)+++ अ॑सुर प्र॒जावा᳚न्  
-दी॒र्घो र॒यिᳶ पृ॑थु-बु॒ध्नस्+++(=मूलः)+++ स॒भावान्॑ ॥ [20]
+इडा॑वाँ ए॒षो +++(→य॒ज्ञो)+++ अ॑सुर प्र॒जावा॑न्  
+दी॒र्घो र॒यिᳶ पृ॑थु-बु॒ध्नस्+++(=मूलः)+++ स॒भावा॑न् ॥ [20]
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/06_AhavanIyopasthAnAdimantrAH/02_gomAM_agne.md">
@@ -1399,8 +1412,8 @@ Enduring wealth, deep based and rich in houses.
 </details>
 <details><summary>मूलम्</summary>
 
-गोमाꣳ॑ अ॒ग्नेऽवि॑माꣳ अ॒श्वी य॒ज्ञो नृ॒वथ्स॑खा॒ सद॒मिद॑प्रमृ॒ष्यः ।  
-इडा॑वाꣳ ए॒षो अ॑सुर प्र॒जावा᳚न्दी॒र्घो र॒यिᳶ पृ॑थुबु॒ध्नस्स॒भावान्॑ ॥ [20]
+गोमाँ॑ अ॒ग्नेऽवि॑माँ अ॒श्वी य॒ज्ञो नृ॒वत्स॑खा॒ सद॒मिद॑प्रमृ॒ष्यः ।  
+इडा॑वाँ ए॒षो अ॑सुर प्र॒जावा॑न्दी॒र्घो र॒यिᳶ पृ॑थुबु॒ध्नस्स॒भावा॑न् ॥ [20]
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

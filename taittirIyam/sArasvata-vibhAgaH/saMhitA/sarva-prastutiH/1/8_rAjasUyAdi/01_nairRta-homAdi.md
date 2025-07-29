@@ -41,7 +41,7 @@ Anumati he offers a cake on eight potsherds;
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-धे॒नुर् दख्षि॑णा ।
+धे॒नुर् दक्षि॑णा ।
 </details>
 <details><summary>Keith</summary>
 
@@ -49,7 +49,7 @@ the sacrificial fee is a cow.
 </details>
 <details><summary>मूलम्</summary>
 
-धे॒नुर्दख्षि॑णा ।
+धे॒नुर्दक्षि॑णा ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -70,7 +70,7 @@ the sacrificial fee is a cow.
 +++(आनुमत-पेषणे)+++  
 ये प्र॒त्यञ्च॒श्+++(=पश्चिमं)+++ शम्या॑या **अव॒-शीय॑न्ते॒**+++(=पतन्ति)+++   
 तं+ नैर्ऋ॒तम् एक॑-कपालङ् +++(निर्वपेत्)+++,  
-कृ॒ष्णव्ँ वासः॑ कृ॒ष्ण-तू॑ष॒न्+++(=दशान्तं)+++ दख्षि॑णा ।   
+कृ॒ष्णव्ँ वासः॑ कृ॒ष्ण-तू॑ष॒न्+++(=दशान्तं)+++ दक्षि॑णा ।   
 </details>
 <details><summary>Keith</summary>
 
@@ -79,7 +79,7 @@ The (grains) which are thrown down to the west of the support he (offers) on one
 <details><summary>मूलम्</summary>
 
 ये प्र॒त्यञ्च॒श्शम्या॑या अव॒शीय॑न्ते॒+++(=अवपतन्ति)+++   
-तन्नैर्॑ऋ॒तमेक॑कपालङ्कृ॒ष्णव्ँवासः॑ कृ॒ष्णतू॑ष॒न्दख्षि॑णा ।
+तन्नैर्॑ऋ॒तमेक॑कपालङ्कृ॒ष्णव्ँवासः॑ कृ॒ष्णतू॑ष॒न्दक्षि॑णा ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -130,7 +130,7 @@ Go away, hail! rejoicing in the oblation.
 
 ए॒ष ते॑ निर्ऋते भा॒गो,  
 भूते॑! ह॒विष्म॑त्य् **असि**।  
-**मु॒ञ्चेमम्** अꣳह॑सः॥
+**मु॒ञ्चेमम्** अँह॑सः॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/01_nairRta-homAdi/02_eSha_te.md">
@@ -143,7 +143,7 @@ Free him from evil. Hail!
 </details>
 <details><summary>मूलम्</summary>
 
-ए॒ष ते॑ निर्‌ऋते भा॒गो भूते॑ ह॒विष्म॑त्यसि मु॒ञ्चेममꣳह॑सः
+ए॒ष ते॑ निर्‌ऋते भा॒गो भूते॑ ह॒विष्म॑त्यसि मु॒ञ्चेममँह॑सः
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -180,7 +180,7 @@ Honour to him who hath done this.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ॒दि॒त्य॒ञ् च॒रुन् निर्व॑पति॒, वरो॒ +++(→ वृषः)+++ दख्षि॑णा ।
+आ॒दि॒त्य॒ञ् च॒रुन् निर्व॑पति॒, वरो॒ +++(→ वृषः)+++ दक्षि॑णा ।
 </details>
 <details><summary>Keith</summary>
 
@@ -188,7 +188,7 @@ He offers an oblation to Aditya; the sacrificial fee is a choice (ox).
 </details>
 <details><summary>मूलम्</summary>
 
-आ॒दि॒त्य॒ञ्च॒रुन्निर्व॑पति॒ वरो॒ दख्षि॑णा ।
+आ॒दि॒त्य॒ञ्च॒रुन्निर्व॑पति॒ वरो॒ दक्षि॑णा ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -201,7 +201,7 @@ He offers an oblation to Aditya; the sacrificial fee is a choice (ox).
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ॒ग्ना॒वै॒ष्ण॒वम् एका॑दश-कपालम्   +++(निर्वपति)+++ ॥   
-वा॒म॒नो व॒ही+++(=वाहकपशुः)+++ दख्षि॑णा।   
+वा॒म॒नो व॒ही+++(=वाहकपशुः)+++ दक्षि॑णा।   
 </details>
 <details><summary>Keith</summary>
 
@@ -210,7 +210,7 @@ He offers an oblation to Aditya; the sacrificial fee is a choice (ox).
 <details><summary>मूलम्</summary>
 
 आ॒ग्ना॒वै॒ष्ण॒वमेका॑दशकपालम्   +++(निर्वपति)+++ ॥   
-वाम॒नो व॒ही दख्षि॑णा।   
+वाम॒नो व॒ही दक्षि॑णा।   
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -222,9 +222,9 @@ He offers an oblation to Aditya; the sacrificial fee is a choice (ox).
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्नी॒षो॒मीय᳚म् [1]एका॑दशकपालम्  +++(निर्वपति)+++ ।   
+अ॒ग्नी॒षो॒मीय॑म् [1]एका॑दशकपालम्  +++(निर्वपति)+++ ।   
 
-हिर॑ण्य॒न् दख्षि॑णा।
+हिर॑ण्य॒न् दक्षि॑णा।
 </details>
 <details><summary>Keith</summary>
 
@@ -232,9 +232,9 @@ He offers an oblation to Aditya; the sacrificial fee is a choice (ox).
 </details>
 <details><summary>मूलम्</summary>
 
-अ॒ग्नी॒षो॒मीय᳚म् [1]एका॑दशकपालम्  +++(निर्वपति)+++ ।   
+अ॒ग्नी॒षो॒मीय॑म् [1]एका॑दशकपालम्  +++(निर्वपति)+++ ।   
 
-हिर॑ण्य॒न्दख्षि॑णा।
+हिर॑ण्य॒न्दक्षि॑णा।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -248,7 +248,7 @@ He offers an oblation to Aditya; the sacrificial fee is a choice (ox).
 
 ऐ॒न्द्रम् एका॑दशकपालम् +++(निर्वपति)+++ ।   
 
-ऋ॒ष॒भो+++(=वृषभः)+++ व॒ही दख्षि॑णा  ।   
+ऋ॒ष॒भो+++(=वृषभः)+++ व॒ही दक्षि॑णा  ।   
 </details>
 <details><summary>Keith</summary>
 
@@ -258,7 +258,7 @@ He offers an oblation to Aditya; the sacrificial fee is a choice (ox).
 
 ऐ॒न्द्रमेका॑दशकपालम् +++(निर्वपति)+++ ।   
 
-ऋ॒ष॒भो व॒ही दख्षि॑णा  ।   
+ऋ॒ष॒भो व॒ही दक्षि॑णा  ।   
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -274,7 +274,7 @@ He offers an oblation to Aditya; the sacrificial fee is a choice (ox).
 
 ऐ॒न्द्रन् दधि॑ ।   
 
-ऋ॒ष॒भो+++(=वृषभो)+++ व॒ही दख्षि॑णा।   
+ऋ॒ष॒भो+++(=वृषभो)+++ व॒ही दक्षि॑णा।   
 </details>
 <details><summary>Keith</summary>
 
@@ -286,7 +286,7 @@ He offers an oblation to Aditya; the sacrificial fee is a choice (ox).
 
 ऐ॒न्द्रन्दधि॑ ।   
 
-ऋ॒ष॒भो व॒ही दख्षि॑णा।   
+ऋ॒ष॒भो व॒ही दक्षि॑णा।   
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -300,7 +300,7 @@ He offers an oblation to Aditya; the sacrificial fee is a choice (ox).
 
 ऐ॒न्द्रा॒ग्नन् द्वाद॑शकपालव्ँ, वैश्वदे॒वञ् च॒रुम्  +++(निर्वपति)+++ ।   
 
-प्र॒थ॒म॒जो व॒थ्सो दख्षि॑णा  ।   
+प्र॒थ॒म॒जो व॒त्सो दक्षि॑णा  ।   
 </details>
 <details><summary>Keith</summary>
 
@@ -310,7 +310,7 @@ He offers an oblation to Aditya; the sacrificial fee is a choice (ox).
 
 ऐ॒न्द्रा॒ग्नन्द्वाद॑शकपालव्ँवैश्वदे॒वञ्च॒रुम्  +++(निर्वपति)+++ ।   
 
-प्र॒थ॒म॒जो व॒थ्सो दख्षि॑णा  ।   
+प्र॒थ॒म॒जो व॒त्सो दक्षि॑णा  ।   
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -322,9 +322,9 @@ He offers an oblation to Aditya; the sacrificial fee is a choice (ox).
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सौ॒म्यꣵ श्या॑मा॒कञ् च॒रुम्  +++(निर्वपति)+++ ।   
+सौ॒म्यँ श्या॑मा॒कञ् च॒रुम्  +++(निर्वपति)+++ ।   
 
-वासो॒ दख्षि॑णा  ।
+वासो॒ दक्षि॑णा  ।
 </details>
 <details><summary>Keith</summary>
 
@@ -332,9 +332,9 @@ He offers an oblation to Aditya; the sacrificial fee is a choice (ox).
 </details>
 <details><summary>मूलम्</summary>
 
-सौ॒म्यꣵ श्या॑मा॒कञ्च॒रुम्  +++(निर्वपति)+++ ।   
+सौ॒म्यँ श्या॑मा॒कञ्च॒रुम्  +++(निर्वपति)+++ ।   
 
-वासो॒ दख्षि॑णा  ।
+वासो॒ दक्षि॑णा  ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -346,13 +346,13 @@ He offers an oblation to Aditya; the sacrificial fee is a choice (ox).
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-सर॑स्वत्यै च॒रुꣳ सर॑स्वते च॒रुम्मि॑थु॒नौ गावौ॒ दख्षि॑णा  
+सर॑स्वत्यै च॒रुँ सर॑स्वते च॒रुम्मि॑थु॒नौ गावौ॒ दक्षि॑णा  
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर॑स्वत्यै च॒रुम्  +++(निर्वपति)+++  ।  
 सर॑स्वते च॒रुम्  +++(निर्वपति)+++  ।  
-मि॒थु॒नौ गावौ॒ दख्षि॑णा ॥ [2]
+मि॒थु॒नौ गावौ॒ दक्षि॑णा ॥ [2]
 </details>
 <details><summary>Keith</summary>
 
@@ -362,7 +362,7 @@ He offers an oblation to Aditya; the sacrificial fee is a choice (ox).
 
 सर॑स्वत्यै च॒रुम्  +++(निर्वपति)+++  ।  
 सर॑स्वते च॒रुम्  +++(निर्वपति)+++  ।  
-मि॒थु॒नौ गावौ॒ दख्षि॑णा ॥ [2]
+मि॒थु॒नौ गावौ॒ दक्षि॑णा ॥ [2]
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

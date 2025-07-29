@@ -5,12 +5,12 @@ title = "८४ अग्ने व्रतपते"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अग्ने᳚ व्रतपते!
+अग्ने॑ व्रतपते!
 </details>
 
 <details><summary>मूलम्</summary>
 
-अग्ने᳚ व्रतपते!
+अग्ने॑ व्रतपते!
 </details>
 
 
@@ -35,17 +35,17 @@ title = "८४ अग्ने व्रतपते"
 
 <details><summary>संयुक्त-मूलम्</summary>
 
-वायो᳚ व्रतपत॒ आदि॑त्य व्रतपते ।
+वायो॑ व्रतपत॒ आदि॑त्य व्रतपते ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वायो᳚ व्रतपते
+वायो॑ व्रतपते
 </details>
 
 <details><summary>मूलम्</summary>
 
-वायो᳚ व्रतपते
+वायो॑ व्रतपते
 </details>
 
 
@@ -96,12 +96,12 @@ title = "८४ अग्ने व्रतपते"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व्र॒ताना᳚व्ँव्रतपते
+व्र॒ताना॑व्व्ँरतपते
 </details>
 
 <details><summary>मूलम्</summary>
 
-व्र॒ताना᳚व्ँव्रतपते
+व्र॒ताना॑व्व्ँरतपते
 </details>
 
 

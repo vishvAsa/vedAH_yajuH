@@ -79,7 +79,7 @@ the gods, in anticipation of the contest, deposited in Agni their desirable rich
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तेनापा᳚क्रामत् ।  
+तेनापा॑क्रामत् ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -87,7 +87,7 @@ and went away with it.
 </details>
 <details><summary>मूलम्</summary>
 
-तेनापा᳚क्रामत् ।  
+तेनापा॑क्रामत् ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -95,11 +95,11 @@ and went away with it.
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-तद्दे॒वा वि॒जित्या॑व॒रुरु॑थ्समाना॒ अन्वा॑य॒न्तद॑स्य॒ सह॒साऽदि॑थ्सन्त  सो॑ऽरोदी॒द्यदरो॑दी॒त्तद्रु॒द्रस्य॑ रुद्र॒त्वम् 
+तद्दे॒वा वि॒जित्या॑व॒रुरु॑त्समाना॒ अन्वा॑य॒न्तद॑स्य॒ सह॒साऽदि॑त्सन्त  सो॑ऽरोदी॒द्यदरो॑दी॒त्तद्रु॒द्रस्य॑ रुद्र॒त्वम् 
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद् दे॒वा वि॒जित्य॑व॒रुरु॑थ्समाना॒ +++(अग्निम्)+++ अन्वा॑यन् ।  
+तद् दे॒वा वि॒जित्य॑व॒रुरु॑त्समाना॒ +++(अग्निम्)+++ अन्वा॑यन् ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -107,7 +107,7 @@ The gods having defeated (the Asuras) pursued (Agni) desirous of recovering it.
 </details>
 <details><summary>मूलम्</summary>
 
-तद्दे॒वा वि॒जित्या॑व॒रुरु॑थ्समाना॒ अन्वा॑यन् ।  
+तद्दे॒वा वि॒जित्या॑व॒रुरु॑त्समाना॒ अन्वा॑यन् ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -118,11 +118,11 @@ The gods having defeated (the Asuras) pursued (Agni) desirous of recovering it.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद॑स्य॒ सह॒साऽऽदि॑थ्सन्त ।  
+तद॑स्य॒ सह॒साऽऽदि॑त्सन्त ।  
 </details>
 <details><summary>मूलम्</summary>
 
-तद॑स्य॒ सह॒साऽऽदि॑थ्सन्त ।  
+तद॑स्य॒ सह॒साऽऽदि॑त्सन्त ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -153,11 +153,11 @@ He wept; in that he wept (arodit), that is why Rudra has his name.
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-यदश्र्वशी॑यत॒ तद् [1]र॒ज॒तꣳ हिर॑ण्यमभव॒त्तस्मा᳚द्रज॒तꣳ हिर॑ण्यमदख्षि॒ण्यम॑श्रु॒जꣳ हि 
+यदश्र्वशी॑यत॒ तद् [1]र॒ज॒तँ हिर॑ण्यमभव॒त्तस्मा॑द्रज॒तँ हिर॑ण्यमदक्षि॒ण्यम॑श्रु॒जँ हि 
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् अश्र्व् अशी॑यत॒, तद्  रज॒तꣳ हिर॑ण्यम् अभवत् ।  
+यद् अश्र्व् अशी॑यत॒, तद्  रज॒तँ हिर॑ण्यम् अभवत् ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -165,7 +165,7 @@ The tear that [1] was shed became silver;
 </details>
 <details><summary>मूलम्</summary>
 
-यदश्र्वशी॑यत॒ तद्  रज॒तꣳ हिर॑ण्यमभवत् ।  
+यदश्र्वशी॑यत॒ तद्  रज॒तँ हिर॑ण्यमभवत् ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -173,7 +173,7 @@ The tear that [1] was shed became silver;
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा᳚द् रज॒तꣳ हिर॑ण्यम् अदख्षि॒ण्यम् - अ॑श्रु॒-जꣳ  हि ।
+तस्मा॑द् रज॒तँ हिर॑ण्यम् अदक्षि॒ण्यम् - अ॑श्रु॒-जँ  हि ।
 </details>
 <details><summary>Keith</summary>
 
@@ -181,7 +181,7 @@ therefore silver is not a suitable gift, for it is born of tears.
 </details>
 <details><summary>मूलम्</summary>
 
-तस्मा᳚द्रज॒तꣳ हिर॑ण्यमदख्षि॒ण्यम॑श्रु॒जꣳ  हि ।
+तस्मा॑द्रज॒तँ हिर॑ण्यमदक्षि॒ण्यम॑श्रु॒जँ  हि ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -192,11 +192,11 @@ therefore silver is not a suitable gift, for it is born of tears.
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-यो ब॒र्हिषि॒ ददा॑ति - पु॒राऽस्य॑ सव्ँवथ्स॒राद् गृ॒हे रु॑दन्ति तस्मा᳚द्ब॒र्हिषि॒ न देयम् 
+यो ब॒र्हिषि॒ ददा॑ति - पु॒राऽस्य॑ सव्ँवत्स॒राद् गृ॒हे रु॑दन्ति तस्मा॑द्ब॒र्हिषि॒ न देयम् 
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो ब॒र्हिषि॒ +++(अग्निर् इव)+++ ददा॑ति - पु॒राऽस्य॑ सव्ँवथ्स॒राद् गृ॒हे रु॑दन्ति ।  
+यो ब॒र्हिषि॒ +++(अग्निर् इव)+++ ददा॑ति - पु॒राऽस्य॑ सव्ँवत्स॒राद् गृ॒हे रु॑दन्ति ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -204,7 +204,7 @@ He who gives on the strew, in his house before the year is out they weep;
 </details>
 <details><summary>मूलम्</summary>
 
-यो ब॒र्हिषि॒ ददा॑ति पु॒राऽस्य॑ सव्ँवथ्स॒राद्गृ॒हे रु॑दन्ति ।  
+यो ब॒र्हिषि॒ ददा॑ति पु॒राऽस्य॑ सव्ँवत्स॒राद्गृ॒हे रु॑दन्ति ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -212,7 +212,7 @@ He who gives on the strew, in his house before the year is out they weep;
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा᳚द्ब॒र्हिषि॒ न देयम् ।
+तस्मा॑द्ब॒र्हिषि॒ न देयम् ।
 </details>
 <details><summary>Keith</summary>
 
@@ -220,7 +220,7 @@ therefore one should not give on the strew.
 </details>
 <details><summary>मूलम्</summary>
 
-तस्मा᳚द्ब॒र्हिषि॒ न देयम् ।
+तस्मा॑द्ब॒र्हिषि॒ न देयम् ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -231,11 +231,11 @@ therefore one should not give on the strew.
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-सो॒᳚ऽग्निर॑ब्रवीद्भा॒ग्य॑सा॒न्यथ॑ व इ॒दमिति॑ पुनरा॒धेय॑न्ते॒ केव॑ल॒मित्य॑ब्रुवन् 
+सो॒॑ऽग्निर॑ब्रवीद्भा॒ग्य॑सा॒न्यथ॑ व इ॒दमिति॑ पुनरा॒धेय॑न्ते॒ केव॑ल॒मित्य॑ब्रुवन् 
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो॒᳚ऽग्निर् अ॑ब्रवीत् - भा॒ग्य् अ॑सानि॒, अथ॑ व इ॒दमिति॑   ।  
+सो॒॑ऽग्निर् अ॑ब्रवीत् - भा॒ग्य् अ॑सानि॒, अथ॑ व इ॒दमिति॑   ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -243,7 +243,7 @@ Agni said, 'Let me have a share; then this will be yours.'
 </details>
 <details><summary>मूलम्</summary>
 
-सो॒᳚ऽग्निर॑ब्रवीत् - भा॒ग्य॑सानि॒, अथ॑ व इ॒दमिति॑  ।  
+सो॒॑ऽग्निर॑ब्रवीत् - भा॒ग्य॑सानि॒, अथ॑ व इ॒दमिति॑  ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -295,21 +295,21 @@ They replied, 'The re-establishing shall be thine alone.'
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-तम्पू॒षाऽऽध॑त्त॒ तेन॑ [2]पू॒षाऽऽर्ध्नो॒त्तस्मा᳚त्पौ॒ष्णाᳶ प॒शव॑ उच्यन्ते तन्त्वष्टाऽऽध॑त्त॒ तेन॒ त्वष्टा᳚ऽऽर्ध्नो॒त्तस्मा᳚त्त्वा॒ष्ट्राᳶ प॒शव॑ उच्यन्ते तम्मनु॒राऽध॑त्त॒ तेन॒ मनु॑रार्ध्नो॒त्तस्मा᳚न्मान॒व्यᳶ॑ प्र॒जा उ॑च्यन्ते तन्धा॒ताऽऽध॑त्त॒ तेन॑ धा॒ताऽऽर्ध्नो᳚त् सव्ँवथ्स॒रो वै धा॒ता तस्मा᳚त् सव्ँवथ्स॒रम्प्र॒जाᳶ प॒शवोऽनु॒ प्र जा॑यन्ते । 
+तम्पू॒षाऽऽध॑त्त॒ तेन॑ [2]पू॒षाऽऽर्ध्नो॒त्तस्मा॑त्पौ॒ष्णाᳶ प॒शव॑ उच्यन्ते तन्त्वष्टाऽऽध॑त्त॒ तेन॒ त्वष्टा॑ऽऽर्ध्नो॒त्तस्मा॑त्त्वा॒ष्ट्राᳶ प॒शव॑ उच्यन्ते तम्मनु॒राऽध॑त्त॒ तेन॒ मनु॑रार्ध्नो॒त्तस्मा॑न्मान॒व्यᳶ॑ प्र॒जा उ॑च्यन्ते तन्धा॒ताऽऽध॑त्त॒ तेन॑ धा॒ताऽऽर्ध्नो॑त् सव्ँवत्स॒रो वै धा॒ता तस्मा॑त् सव्ँवत्स॒रम्प्र॒जाᳶ प॒शवोऽनु॒ प्र जा॑यन्ते । 
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तम्पू॒षाऽऽध॑त्त ।  
-तेन॑ पू॒षाऽर्ध्नो᳚त् ।  
-तस्मा᳚त् पौ॒ष्णाᳶ प॒शव॑ उच्यन्ते।
+तेन॑ पू॒षाऽर्ध्नो॑त् ।  
+तस्मा॑त् पौ॒ष्णाᳶ प॒शव॑ उच्यन्ते।
 
 तन्त्वष्टाऽऽध॑त्त ।  
-तेन॒ त्वष्टा᳚ऽऽर्ध्नोत् ।  
-तस्मा᳚त् त्वा॒ष्ट्राᳶ प॒शव॑ उच्यन्ते ।
+तेन॒ त्वष्टा॑ऽऽर्ध्नोत् ।  
+तस्मा॑त् त्वा॒ष्ट्राᳶ प॒शव॑ उच्यन्ते ।
 
 तम् मनु॒र् आऽध॑त्त ।  
 तेन॒ मनु॑र् आर्ध्नोत् ।   
-तस्मा᳚न् मान॒व्यᳶ॑ प्र॒जा उ॑च्यन्ते ।  
+तस्मा॑न् मान॒व्यᳶ॑ प्र॒जा उ॑च्यन्ते ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -318,14 +318,14 @@ Pusan established it; therefore [2] did Pusan prosper; therefore cattle are said
 <details><summary>मूलम्</summary>
 
 तम्पू॒षाऽऽध॑त्त ।  
-तेन॑ पू॒षाऽर्ध्नो᳚त् ।  
-तस्मा᳚त्पौ॒ष्णाᳶ प॒शव॑ उच्यन्ते।   
+तेन॑ पू॒षाऽर्ध्नो॑त् ।  
+तस्मा॑त्पौ॒ष्णाᳶ प॒शव॑ उच्यन्ते।   
 तन्त्वष्टाऽऽध॑त्त ।  
-तेन॒ त्वष्टा᳚ऽऽर्ध्नोत् ।  
-तस्मा᳚त्त्वा॒ष्ट्राᳶ प॒शव॑ उच्यन्ते ।  
+तेन॒ त्वष्टा॑ऽऽर्ध्नोत् ।  
+तस्मा॑त्त्वा॒ष्ट्राᳶ प॒शव॑ उच्यन्ते ।  
 तम्मनु॒राऽध॑त्त ।  
 तेन॒ मनु॑रार्ध्नोत् ।   
-तस्मा᳚न्मान॒व्यᳶ॑ प्र॒जा उ॑च्यन्ते ।  
+तस्मा॑न्मान॒व्यᳶ॑ प्र॒जा उ॑च्यन्ते ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -336,9 +336,9 @@ Pusan established it; therefore [2] did Pusan prosper; therefore cattle are said
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तन्धा॒ताऽऽध॑त्त ।  
-तेन॑ धा॒ताऽऽर्ध्नो᳚त् ।
-सव्ँवथ्स॒रो वै धा॒ता ।  
-तस्मा᳚त् सव्ँवथ्स॒रम् प्र॒जाᳶ प॒शवोऽनु॒ प्र जा॑यन्ते ।
+तेन॑ धा॒ताऽऽर्ध्नो॑त् ।
+सव्ँवत्स॒रो वै धा॒ता ।  
+तस्मा॑त् सव्ँवत्स॒रम् प्र॒जाᳶ प॒शवोऽनु॒ प्र जा॑यन्ते ।
 </details>
 <details><summary>Keith</summary>
 
@@ -348,9 +348,9 @@ Dhatr is the year; therefore offspring and cattle are born in the course of the 
 <details><summary>मूलम्</summary>
 
 तन्धा॒ताऽऽध॑त्त ।  
-तेन॑ धा॒ताऽऽर्ध्नो᳚त् ।
-सव्ँवथ्स॒रो वै धा॒ता ।  
-तस्मा᳚त् सव्ँवथ्स॒रम्प्र॒जाᳶ प॒शवोऽनु॒ प्र जा॑यन्ते ।
+तेन॑ धा॒ताऽऽर्ध्नो॑त् ।
+सव्ँवत्स॒रो वै धा॒ता ।  
+तस्मा॑त् सव्ँवत्स॒रम्प्र॒जाᳶ प॒शवोऽनु॒ प्र जा॑यन्ते ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -358,13 +358,13 @@ Dhatr is the year; therefore offspring and cattle are born in the course of the 
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-य ए॒वम्पु॑नरा॒धेय॒स्यर्द्धि॒व्ँवेद॑ [3]ऋ॒ध्नोत्ये॒व यो᳚ऽस्यै॒वम्ब॒न्धुता॒व्ँवेद॒ बन्धु॑मान्भवति
+य ए॒वम्पु॑नरा॒धेय॒स्यर्द्धि॒व्ँवेद॑ [3]ऋ॒ध्नोत्ये॒व यो॑ऽस्यै॒वम्ब॒न्धुता॒व्ँवेद॒ बन्धु॑मान्भवति
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य ए॒वम् पु॑नर्-आ॒धेय॒स्यर्द्धि॒व्ँ वेद॑  ऋ॒ध्नोत्य् ए॒व ।  
 
-यो᳚ऽस्यै॒वम् ब॒न्धुता॒व्ँ वेद॒ बन्धु॑मान् भवति ।
+यो॑ऽस्यै॒वम् ब॒न्धुता॒व्ँ वेद॒ बन्धु॑मान् भवति ।
 </details>
 <details><summary>Keith</summary>
 
@@ -375,7 +375,7 @@ He who knows his connexions becomes possessed of connexions himself.
 
 य ए॒वम्पु॑नरा॒धेय॒स्यर्द्धि॒व्ँवेद॑  ऋ॒ध्नोत्ये॒व ।  
 
-यो᳚ऽस्यै॒वम्ब॒न्धुता॒व्ँवेद॒ बन्धु॑मान्भवति ।
+यो॑ऽस्यै॒वम्ब॒न्धुता॒व्ँवेद॒ बन्धु॑मान्भवति ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -401,7 +401,7 @@ Agni desiring a share after being established assailed the offspring and cattle 
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-उ॒द्वास्य॒ पुन॒रा द॑धीत भाग॒धेये॑नै॒वैन॒ꣳ॒ सम॑र्धय॒त्यथो॒ शान्ति॑रे॒वास्यै॒षा 
+उ॒द्वास्य॒ पुन॒रा द॑धीत भाग॒धेये॑नै॒वैनँ॒ सम॑र्धय॒त्यथो॒ शान्ति॑रे॒वास्यै॒षा 
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -421,7 +421,7 @@ Having removed it, one should re-establish it;
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भा॒ग॒धेये॑नै॒वैन॒ꣳ॒ सम॑र्धयति ।
+भा॒ग॒धेये॑नै॒वैनँ॒ सम॑र्धयति ।
 </details>
 <details><summary>Keith</summary>
 
@@ -429,7 +429,7 @@ thus he unites him with his own portion;
 </details>
 <details><summary>मूलम्</summary>
 
-भा॒ग॒धेये॑नै॒वैन॒ꣳ॒ सम॑र्धयति ।  
+भा॒ग॒धेये॑नै॒वैनँ॒ सम॑र्धयति ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -461,12 +461,12 @@ verily he is appeased.
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-पुन॑र्वस्वो॒राद॑धीतै॒तद्वै पु॑नरा॒धेय॑स्य॒ नख्ष॑त्र॒य्ँयत्पुन॑र्वसू॒ स्वाया॑मे॒वैन॑न्दे॒वता॑यामा॒धाय॑ ब्रह्मवर्च॒सी भ॑वति 
+पुन॑र्वस्वो॒राद॑धीतै॒तद्वै पु॑नरा॒धेय॑स्य॒ नक्ष॑त्र॒य्ँयत्पुन॑र्वसू॒ स्वाया॑मे॒वैन॑न्दे॒वता॑यामा॒धाय॑ ब्रह्मवर्च॒सी भ॑वति 
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुन॑र्वस्वो॒र् आद॑धीत ।  
-ए॒तद् वै पु॑नरा॒धेय॑स्य॒ नख्ष॑त्र॒य्ँ यत् पुन॑र्वसू ।  
+ए॒तद् वै पु॑नरा॒धेय॑स्य॒ नक्ष॑त्र॒य्ँ यत् पुन॑र्वसू ।  
 स्वाया॑म् ए॒वैन॑न् दे॒वता॑याम् आ॒धाय॑ ब्रह्मवर्च॒सी भ॑वति ।
 </details>
 <details><summary>Keith</summary>
@@ -476,7 +476,7 @@ He should establish under Punarvasu; Punarvasu is the Naksatra for the re-establ
 <details><summary>मूलम्</summary>
 
 पुन॑र्वस्वो॒रा द॑धीत ।  
-ए॒तद्वै पु॑नरा॒धेय॑स्य॒ नख्ष॑त्र॒य्ँयत्पुन॑र्वसू।  
+ए॒तद्वै पु॑नरा॒धेय॑स्य॒ नक्ष॑त्र॒य्ँयत्पुन॑र्वसू।  
 स्वाया॑मे॒वैन॑न्दे॒वता॑यामा॒धाय॑ ब्रह्मवर्च॒सी भ॑वति ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>

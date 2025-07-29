@@ -55,7 +55,7 @@ _______
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-प्र॒जाप॑तेर्वि॒भान्नाम॑ लो॒कस्तस्मिꣵ॑स्त्वा दधामि स॒ह यज॑मानेन 
+प्र॒जाप॑तेर्वि॒भान्नाम॑ लो॒कस्तस्मिँ॑स्त्वा दधामि स॒ह यज॑मानेन 
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -81,14 +81,14 @@ Prajapati's is the world called Vibhan.
 
 <details><summary>सायण-टीका</summary>
 
-प्रजापतेरिति। कल्पः - ‘अथ यजमानभागं प्राश्नाति प्रजापतेर्विभान्नाम लोकस्तस्मिꣳस्त्वा दधामि सह यजमानेनेति’ इति।  
+प्रजापतेरिति। कल्पः - ‘अथ यजमानभागं प्राश्नाति प्रजापतेर्विभान्नाम लोकस्तस्मिँस्त्वा दधामि सह यजमानेनेति’ इति।  
 
 यद्यपि स्वर्गादिलोकाः सर्वे प्रजापतिना सृष्टत्वात्तत्संबन्धिनस्तथाऽप्यकर्मभूमित्वेन यजमानान्प्रति विशेषेण न भान्तीति नास्ति एतेषां विभाञ्‍शब्द-वाच्यः। 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मिꣵ॑स् त्वा दधामि स॒ह यज॑मानेन ।
+तस्मिँ॑स् त्वा दधामि स॒ह यज॑मानेन ।
 </details>
 <details><summary>Keith</summary>
 
@@ -96,11 +96,11 @@ In it I place thee along with the sacrificer.
 </details>
 <details><summary>मूलम्</summary>
 
-तस्मिꣵ॑स्त्वा दधामि स॒ह यज॑मानेन ।
+तस्मिँ॑स्त्वा दधामि स॒ह यज॑मानेन ।
 </details>
 <details><summary>पद-पाठः</summary>
 
-तस्मिन्न्॑ । त्वा॒ । द॒धा॒मि॒ । स॒ह । यज॑मानेन ।
+तस्मि॑न् । त्वा॒ । द॒धा॒मि॒ । स॒ह । यज॑मानेन ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -121,11 +121,11 @@ _______
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-सद॑सि॒ सन्मे॑ भूया॒स्सर्व॑मसि॒ सर्व॑म्मे भूयाᳶ पू॒र्णम॑सि पू॒र्णम्मे॑ भूया॒ अख्षि॑तमसि॒ मा मे᳚ ख्षेष्ठाः 
+सद॑सि॒ सन्मे॑ भूया॒स्सर्व॑मसि॒ सर्व॑म्मे भूयाᳶ पू॒र्णम॑सि पू॒र्णम्मे॑ भूया॒ अक्षि॑तमसि॒ मा मे॑ क्षेष्ठाः 
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सद् अ॑सि॒, सन्मे॑ भूयाः ।
+सद् अ॑सि॒, सन् मे॑ भूयाः ।
 </details>
 <details><summary>Keith</summary>
 
@@ -166,7 +166,7 @@ thou art all, be all for me;
 </details>
 <details><summary>पद-पाठः</summary>
 
-सर्व᳚म् । अ॒सि॒ । सर्व᳚म् । मे॒ । भू॒याः॒ ।  
+सर्व॑म् । अ॒सि॒ । सर्व॑म् । मे॒ । भू॒याः॒ ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -181,7 +181,7 @@ thou art all, be all for me;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पू॒र्णम॑सि पू॒र्णम् मे॑ भूयाः ।
+पू॒र्णम् अ॑सि पू॒र्णम् मे॑ भूयाः ।
 </details>
 <details><summary>Keith</summary>
 
@@ -208,7 +208,7 @@ thou art full, be full for me;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अख्षि॑तम् असि॒ - मा मे᳚ ख्षेष्ठाः ।
+अक्षि॑तम् असि॒ - मा मे॑ क्षेष्ठाः ।
 </details>
 <details><summary>Keith</summary>
 
@@ -216,11 +216,11 @@ thou art imperishable, perish not for me.
 </details>
 <details><summary>मूलम्</summary>
 
-अख्षि॑तमसि॒ मा मे᳚ ख्षेष्ठाः ।
+अक्षि॑तमसि॒ मा मे॑ क्षेष्ठाः ।
 </details>
 <details><summary>पद-पाठः</summary>
 
-अख्षि॑तम् । अ॒सि॒ । मा । मे॒ । ख्षे॒ष्ठाः॒ ।
+अक्षि॑तम् । अ॒सि॒ । मा । मे॒ । क्षे॒ष्ठाः॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -240,7 +240,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्राच्या᳚न् दि॒शि दे॒वा ऋ॒त्विजो॑ +++(आत्मानं मां च)+++ मार्जयन्ताम्+++(=शोधयन्ताम्)+++ ।
+प्राच्या॑न् दि॒शि दे॒वा ऋ॒त्विजो॑ +++(आत्मानं मां च)+++ मार्जयन्ताम्+++(=शोधयन्ताम्)+++ ।
 </details>
 <details><summary>Keith</summary>
 
@@ -248,11 +248,11 @@ In the eastern quarter may the gods, the priests, make (me) bright;
 </details>
 <details><summary>मूलम्</summary>
 
-प्राच्या᳚न्दि॒शि दे॒वा ऋ॒त्विजो॑ मार्जयन्ताम् ।
+प्राच्या॑न्दि॒शि दे॒वा ऋ॒त्विजो॑ मार्जयन्ताम् ।
 </details>
 <details><summary>पद-पाठः</summary>
 
-प्राच्या᳚म् । दि॒शि । दे॒वाः । ऋ॒त्विजः॑ । मा॒र्ज॒य॒न्ता॒म्॒ । 
+प्राच्या॑म् । दि॒शि । दे॒वाः । ऋ॒त्विजः॑ । मा॒र्ज॒य॒न्ता॒म् । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -271,7 +271,7 @@ In the eastern quarter may the gods, the priests, make (me) bright;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दख्षि॑णायां [15] दि॒शि मासाः᳚ पि॒तरो॑ मार्जयन्ताम्।  
+दक्षि॑णायां [15] दि॒शि मासाः॑ पि॒तरो॑ मार्जयन्ताम्।  
 </details>
 <details><summary>Keith</summary>
 
@@ -279,11 +279,11 @@ in the southern [1] quarter may the months, the fathers, make (me) bright;
 </details>
 <details><summary>मूलम्</summary>
 
-दख्षि॑णायां [15] दि॒शि मासाः᳚ पि॒तरो॑ मार्जयन्ताम्।  
+दक्षि॑णायां [15] दि॒शि मासाः॑ पि॒तरो॑ मार्जयन्ताम्।  
 </details>
 <details><summary>पद-पाठः</summary>
 
-दख्षि॑णायाम् । दि॒शि । मासाः᳚ । पि॒तरः॑ । मा॒र्ज॒य॒न्ता॒म्॒ । 
+दक्षि॑णायाम् । दि॒शि । मासाः॑ । पि॒तरः॑ । मा॒र्ज॒य॒न्ता॒म् । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -292,7 +292,7 @@ in the southern [1] quarter may the months, the fathers, make (me) bright;
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒तीच्या᳚न्दि॒शि गृ॒हाᳶ प॒शवो॑ मार्जयन्ताम् ।  
+प्र॒तीच्या॑न् दि॒शि गृ॒हाᳶ प॒शवो॑ मार्जयन्ताम् ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -300,11 +300,11 @@ in the western quarter may the houses, the cattle, make (me) bright;
 </details>
 <details><summary>मूलम्</summary>
 
-प्र॒तीच्या᳚न्दि॒शि गृ॒हाᳶ प॒शवो॑ मार्जयन्ताम् ।  
+प्र॒तीच्या॑न्दि॒शि गृ॒हाᳶ प॒शवो॑ मार्जयन्ताम् ।  
 </details>
 <details><summary>पद-पाठः</summary>
 
-प्र॒तीच्या᳚म् । दि॒शि । गृ॒हाः । प॒शवः॑ । मा॒र्ज॒य॒न्ता॒म्॒ । 
+प्र॒तीच्या॑म् । दि॒शि । गृ॒हाः । प॒शवः॑ । मा॒र्ज॒य॒न्ता॒म् । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -313,7 +313,7 @@ in the western quarter may the houses, the cattle, make (me) bright;
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उदी᳚च्यान् दि॒श्य् आप॒ ओष॑धयो॒ वन॒स्पत॑यो मार्जयन्ताम्
+उदी॑च्यान् दि॒श्य् आप॒ ओष॑धयो॒ वन॒स्पत॑यो मार्जयन्ताम्
 </details>
 <details><summary>Keith</summary>
 
@@ -321,17 +321,17 @@ in the northern quarter may the waters, the plants, the trees make (me) bright;
 </details>
 <details><summary>मूलम्</summary>
 
-उदी᳚च्यान्दि॒श्याप॒ ओष॑धयो॒ वन॒स्पत॑यो मार्जयन्ताम्
+उदी॑च्यान्दि॒श्याप॒ ओष॑धयो॒ वन॒स्पत॑यो मार्जयन्ताम्
 </details>
 <details><summary>पद-पाठः</summary>
 
-उदी᳚च्याम् । दि॒शि । आपः॑ । ओष॑धयः । वन॒स्पत॑यः । मा॒र्ज॒य॒न्ता॒म्॒ । 
+उदी॑च्याम् । दि॒शि । आपः॑ । ओष॑धयः । वन॒स्पत॑यः । मा॒र्ज॒य॒न्ता॒म् । 
 </details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऊ॒र्ध्वाया᳚न् दि॒शि य॒ज्ञस् स॑व्ँवथ्स॒रो य॒ज्ञप॑तिर् मार्जयन्ताम् ।
+ऊ॒र्ध्वाया॑न् दि॒शि य॒ज्ञस् स॑व्ँवत्स॒रो य॒ज्ञप॑तिर् मार्जयन्ताम् ।
 </details>
 <details><summary>Keith</summary>
 
@@ -339,11 +339,11 @@ in the zenith may the sacrifice, the year, the lord of the sacrifice make (me) b
 </details>
 <details><summary>मूलम्</summary>
 
-ऊ॒र्ध्वाया᳚न् दि॒शि य॒ज्ञस्स॑व्ँवथ्स॒रो य॒ज्ञप॑तिर्मार्जयन्ताम् ।
+ऊ॒र्ध्वाया॑न् दि॒शि य॒ज्ञस्स॑व्ँवत्स॒रो य॒ज्ञप॑तिर्मार्जयन्ताम् ।
 </details>
 <details><summary>पद-पाठः</summary>
 
-ऊ॒र्ध्वाया᳚म् । दि॒शि । य॒ज्ञः । सँ॒व्व॒थ्स॒र इति॑ सम्-व॒थ्स॒रः । य॒ज्ञप॑ति॒रिति॑ य॒ज्ञ-प॒तिः॒ । मा॒र्ज॒य॒न्ता॒म्॒ । 
+ऊ॒र्ध्वाया॑म् । दि॒शि । य॒ज्ञः । सँ॒व्व॒त्स॒र इति॑ सम्-व॒त्स॒रः । य॒ज्ञप॑ति॒रिति॑ य॒ज्ञ-प॒तिः॒ । मा॒र्ज॒य॒न्ता॒म् । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

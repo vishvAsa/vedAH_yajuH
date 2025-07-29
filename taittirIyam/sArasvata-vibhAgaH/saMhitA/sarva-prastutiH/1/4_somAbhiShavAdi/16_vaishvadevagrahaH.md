@@ -255,7 +255,7 @@ ________________
 </div>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विश्वे᳚भ्यस्त्वा दे॒वेभ्यः॑ ।
+विश्वे॑भ्यस्त्वा दे॒वेभ्यः॑ ।
 </details>
 <details><summary>Keith</summary>
 
@@ -263,7 +263,7 @@ to the All-gods thee!
 </details>
 <details><summary>मूलम्</summary>
 
-विश्वे᳚भ्यस्त्वा दे॒वेभ्यः॑ ।
+विश्वे॑भ्यस्त्वा दे॒वेभ्यः॑ ।
 </details>
 
 
@@ -277,7 +277,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ष ते॒ योनि॒र्, विश्वे᳚भ्यस्त्वा दे॒वेभ्यः॑ ॥ [17]
+ए॒ष ते॒ योनि॒र्, विश्वे॑भ्यस्त्वा दे॒वेभ्यः॑ ॥ [17]
 </details>
 <details><summary>Keith</summary>
 
@@ -285,7 +285,7 @@ This is thy birthplace; to the All-gods thee!
 </details>
 <details><summary>मूलम्</summary>
 
-ए॒ष ते॒ योनि॒र्विश्वे᳚भ्यस्त्वा दे॒वेभ्यः॑ ॥ [17]
+ए॒ष ते॒ योनि॒र्विश्वे॑भ्यस्त्वा दे॒वेभ्यः॑ ॥ [17]
 </details>
 </details>
 </div>

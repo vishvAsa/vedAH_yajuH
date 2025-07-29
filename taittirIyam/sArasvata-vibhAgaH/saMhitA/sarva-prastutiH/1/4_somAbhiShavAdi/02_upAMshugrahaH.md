@@ -37,7 +37,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वृषा॒ वृष्णो॑ अ॒ꣳ॒शुभ्या॒ङ्+++(=काण्डाभ्यां)+++ गभ॑स्ति+++(=बाहु|किरण)+++-पूतः ।
+वृषा॒ वृष्णो॑ अँ॒शुभ्या॒ङ्+++(=काण्डाभ्यां)+++ गभ॑स्ति+++(=बाहु|किरण)+++-पूतः ।
 </details>
 <details><summary>Keith</summary>
 
@@ -46,7 +46,7 @@ with the shoots of the male;
 </details>
 <details><summary>मूलम्</summary>
 
-वृषा॒ वृष्णो॑ अ॒ꣳ॒शुभ्या॒ङ्गभ॑स्तिपूतः ।
+वृषा॒ वृष्णो॑ अँ॒शुभ्या॒ङ्गभ॑स्तिपूतः ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -61,8 +61,8 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वो दे॒वाना᳚म् प॒वित्र॑म् असि;    
-येषा᳚म् भा॒गो ऽसि॒, तेभ्य॑स् त्वा  +++(गृण्हामि)+++ ।
+दे॒वो दे॒वाना॑म् प॒वित्र॑म् असि;    
+येषा॑म् भा॒गो ऽसि॒, तेभ्य॑स् त्वा  +++(गृण्हामि)+++ ।
 </details>
 <details><summary>Keith</summary>
 
@@ -71,8 +71,8 @@ thou art the god purifier of gods; to those thee whose portion thou art!
 </details>
 <details><summary>मूलम्</summary>
 
-दे॒वो दे॒वाना᳚म्प॒वित्र॑मसि ...    
-येषा᳚म्भा॒गोऽसि॒ तेभ्य॑स्त्वा  +++(गृण्हामि)+++ ।
+दे॒वो दे॒वाना॑म्प॒वित्र॑मसि ...    
+येषा॑म्भा॒गोऽसि॒ तेभ्य॑स्त्वा  +++(गृण्हामि)+++ ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -132,7 +132,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विश्वे᳚भ्यस् त्वेन्द्रि॒येभ्यो॑ दि॒व्येभ्य॒ᳶ पार्थि॑वेभ्यः ।
+विश्वे॑भ्यस् त्वेन्द्रि॒येभ्यो॑ दि॒व्येभ्य॒ᳶ पार्थि॑वेभ्यः ।
 </details>
 <details><summary>Keith</summary>
 
@@ -142,7 +142,7 @@ and earth thee!
 </details>
 <details><summary>मूलम्</summary>
 
-विश्वे᳚भ्यस्त्वेन्द्रि॒येभ्यो॑ दि॒व्येभ्य॒ᳶ पार्थि॑वेभ्यः ।
+विश्वे॑भ्यस्त्वेन्द्रि॒येभ्यो॑ दि॒व्येभ्य॒ᳶ पार्थि॑वेभ्यः ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -184,7 +184,7 @@ _______
 <details open><summary><h10>उर्वन्तरिक्षम् ...{Loading}...</h10></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒र्व् अ᳕न्तरि॑ख्ष॒म् अन्वि॑हि ।  
+उ॒र्व् अ᳕न्तरि॑क्ष॒म् अन्वि॑हि ।  
 +++(महान् पन्थाः, सुखेन गच्छेति भावः ॥)+++
 </details>
 <details><summary>Keith</summary>
@@ -193,7 +193,7 @@ Fare along the wide atmosphere.
 </details>
 <details><summary>मूलम्</summary>
 
-उ॒र्व॑न्तरि॑ख्ष॒मन्वि॑हि ।
+उ॒र्व॑न्तरि॑क्ष॒मन्वि॑हि ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -211,7 +211,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्वाहा᳚ त्वा सुभव॒स्! सूर्या॑य
+स्वाहा॑ त्वा सुभव॒स्! सूर्या॑य
 </details>
 <details><summary>Keith</summary>
 
@@ -219,7 +219,7 @@ Hail! Thee, of kindly nature, to the sun!
 </details>
 <details><summary>मूलम्</summary>
 
-स्वाहा᳚ त्वा सुभव॒स्सूर्या॑य
+स्वाहा॑ त्वा सुभव॒स्सूर्या॑य
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

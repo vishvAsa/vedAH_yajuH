@@ -1157,7 +1157,7 @@ _______
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-विव॑स्व आदित्यै॒ष ते॑ सोमपी॒थस्तेन॑ मन्दस्व॒ तेन॑ तृप्य तृ॒प्यास्म॑ ते व॒यं त॑र्पयि॒तारो॒ या दि॒व्या वृष्टि॒स्तया᳚ त्वा श्रीणामि ॥
+विव॑स्व आदित्यै॒ष ते॑ सोमपी॒थस्तेन॑ मन्दस्व॒ तेन॑ तृप्य तृ॒प्यास्म॑ ते व॒यं त॑र्पयि॒तारो॒ या दि॒व्या वृष्टि॒स्तया॑ त्वा श्रीणामि ॥
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1187,7 +1187,7 @@ Delight in it, have gladness in it; may we that gladden thee have gladness;
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-या दि॒व्या वृष्टि॒स्तया᳚ त्वा श्रीणामि ॥
+या दि॒व्या वृष्टि॒स्तया॑ त्वा श्रीणामि ॥
 </details>
 <details><summary>Keith</summary>
 
@@ -1195,7 +1195,7 @@ With the rain of the sky I mix thee.
 </details>
 <details><summary>मूलम्</summary>
 
-या दि॒व्या वृष्टि॒स्तया᳚ त्वा श्रीणामि ॥
+या दि॒व्या वृष्टि॒स्तया॑ त्वा श्रीणामि ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

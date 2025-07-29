@@ -48,7 +48,7 @@ _______
 
 स॒ह **र॒य्या**+++(←उदात्तयणः इति स्वरः)+++ **नि व॑र्त॒स्व**  
 +अग्ने॒ **पिन्व॑स्व॒** धार॑या ।  
-वि॒श्व-फ्स्नि॑या+++(←प्सा भक्षणि)+++ वि॒श्वत॒स्-परि॑  ॥
+वि॒श्व-प्स्नि॑या+++(←प्सा भक्षणि)+++ वि॒श्वत॒स्-परि॑  ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/04_abhitaH_puroDAsham/03_saha_rayyA.md">
@@ -62,7 +62,7 @@ All gaining on every side.
 <details><summary>मूलम्</summary>
 
 स॒ह र॒य्या नि व॑र्त॒स्वाग्ने॒ पिन्व॑स्व॒ धार॑या ।  
-वि॒श्वफ्स्नि॑या वि॒श्वत॒स्परि॑  ॥
+वि॒श्वप्स्नि॑या वि॒श्वत॒स्परि॑  ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

@@ -18,9 +18,9 @@ title = "०५ चातुर्मास्येषु साकमेधे
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सोमा॑य पितृ॒मते॑+++(←'ह्रस्वनुडभ्यां मतुप्')+++ पुरो॒डाश॒ꣳ॒ षट्-क॑पाल॒न् निर्व॑पति,  
+सोमा॑य पितृ॒मते॑+++(←'ह्रस्वनुडभ्यां मतुप्')+++ पुरो॒डाशँ॒ षट्-क॑पाल॒न् निर्व॑पति,  
 पि॒तृभ्यो॑ बर्हि॒षद्भ्यो॑ धा॒नाᳶ,  
-पि॒तृभ्यो᳚ ऽग्निष्व्-आ॒त्तेभ्यो॑ ऽभिवा॒न्या॑यै+++(=अन्यवत्स-दोह्या)+++ दु॒ग्धे म॒न्थम्+++(=द्रवयुक्तास् सक्तवः)+++ ।
+पि॒तृभ्यो॑ ऽग्निष्व्-आ॒त्तेभ्यो॑ ऽभिवा॒न्या॑यै+++(=अन्यवत्स-दोह्या)+++ दु॒ग्धे म॒न्थम्+++(=द्रवयुक्तास् सक्तवः)+++ ।
 </details>
 <details><summary>Keith</summary>
 
@@ -30,8 +30,8 @@ for the Pitrs prepared by Agni he milks a beverage from a cow which has to be wo
 </details>
 <details><summary>मूलम्</summary>
 
-सोमा॑य पितृ॒मते॑ पुरो॒डाश॒ꣳ॒ षट्क॑पाल॒न्निर्व॑पति  
-पि॒तृभ्यो॑ बर्हि॒षद्भ्यो॑ धा॒नाᳶ पि॒तृभ्यो᳚ऽग्निष्वा॒त्तेभ्यो॑ऽभिवा॒न्या॑यै दु॒ग्धे म॒न्थम् ।
+सोमा॑य पितृ॒मते॑ पुरो॒डाशँ॒ षट्क॑पाल॒न्निर्व॑पति  
+पि॒तृभ्यो॑ बर्हि॒षद्भ्यो॑ धा॒नाᳶ पि॒तृभ्यो॑ऽग्निष्वा॒त्तेभ्यो॑ऽभिवा॒न्या॑यै दु॒ग्धे म॒न्थम् ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -122,8 +122,8 @@ O bountiful one, fair to see;
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 **प्र** नू॒नम् पू॒र्ण-व॑न्धुरस्+++(=रथाग्रः)+++  
-स्तु॒तो **या॑सि॒** वशा॒ꣳ॒ अनु॑  ॥    
-**योजा॒** न्व् इ॑न्द्र ते॒ हरी᳚ ॥ [7]
+स्तु॒तो **या॑सि॒** वशाँ॒ अनु॑  ॥    
+**योजा॒** न्व् इ॑न्द्र ते॒ हरी॑ ॥ [7]
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/03_pra_nUnam.md">
@@ -137,8 +137,8 @@ Yoke, O Indra, thy two bay steeds [1].
 <details><summary>मूलम्</summary>
 
 सुस॒न्दृश॑न्त्वा व॒यम्मघ॑वन्मन्दिषी॒महि॑  ॥    
-प्र नू॒नम्पू॒र्णव॑न्धुरस्स्तु॒तो या॑सि॒ वशा॒ꣳ॒ अनु॑  ॥    
-योजा॒ न्वि॑न्द्र ते॒ हरी᳚ ॥ [7]
+प्र नू॒नम्पू॒र्णव॑न्धुरस्स्तु॒तो या॑सि॒ वशाँ॒ अनु॑  ॥    
+योजा॒ न्वि॑न्द्र ते॒ हरी॑ ॥ [7]
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -471,7 +471,7 @@ Die weisen, herrlich glänzenden, sie speisten jetzt, berauschten sich Und schü
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-**अख्ष॑न्**+++(=भुक्तवन्तः)+++ पि॒तरो, **ऽमी॑मदन्त** पि॒तरो, **ऽती॑तृपन्त** पि॒तरो, **ऽमी॑मृजन्त** पि॒तरः॑  ॥  
+**अक्ष॑न्**+++(=भुक्तवन्तः)+++ पि॒तरो, **ऽमी॑मदन्त** पि॒तरो, **ऽती॑तृपन्त** पि॒तरो, **ऽमी॑मृजन्त** पि॒तरः॑  ॥  
 </details>
 <details><summary>Keith</summary>
 
@@ -479,7 +479,7 @@ The Pitrs have eaten, the Pitrs have rejoiced, the Pitrs have been glad, the Pit
 </details>
 <details><summary>मूलम्</summary>
 
-अख्ष॑न्पि॒तरोऽमी॑मदन्त पि॒तरोऽती॑तृपन्त पि॒तरोऽमी॑मृजन्त पि॒तरः॑  ॥  
+अक्ष॑न्पि॒तरोऽमी॑मदन्त पि॒तरोऽती॑तृपन्त पि॒तरोऽमी॑मृजन्त पि॒तरः॑  ॥  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -494,7 +494,7 @@ The Pitrs have eaten, the Pitrs have rejoiced, the Pitrs have been glad, the Pit
 
 **परे॑त** पितरस् सोम्या  
 गम्भी॒रैᳶ प॒थिभिᳶ॑ पू॒र्व्यैः  ।   
-अथा॑ पि॒तॄन्थ् सु॑वि॒दत्रा॒ꣳ॒  
+अथा॑ पि॒तॄन्थ् सु॑वि॒दत्राँ॒  
 **अपी॑त** य॒मेन॒ ये स॑ध॒माद॒म् **मद॑न्ति**  ॥
 </details>
 </div>
@@ -510,7 +510,7 @@ Who carouse in company with Yama.
 <details><summary>मूलम्</summary>
 
 परे॑त पितरस्सोम्या गम्भी॒रैᳶ प॒थिभिᳶ॑ पू॒र्व्यैः  ।   
-अथा॑ पि॒तॄन्थ्सु॑वि॒दत्रा॒ꣳ॒ अपी॑त य॒मेन॒ ये स॑ध॒माद॒म्मद॑न्ति  ॥
+अथा॑ पि॒तॄन्त्सु॑वि॒दत्राँ॒ अपी॑त य॒मेन॒ ये स॑ध॒माद॒म्मद॑न्ति  ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -528,7 +528,7 @@ Who carouse in company with Yama.
 
 +++(पितॄन् अनु प्रेषितम्)+++  
 मनो॒ न्व् **आ हु॑वामहे**  
-नाराश॒ꣳ॒सेन॒ स्तोमे॑न +++(←शाकले "सोमेन")+++ ।    
+नाराशँ॒सेन॒ स्तोमे॑न +++(←शाकले "सोमेन")+++ ।    
 पितृ॒णाञ् +++(←६.४.५ छन्दस्युभयथा)+++ च॒ च॒ मन्म॑भिः+++(=मननीयैः)+++  ॥
 </details>
 </div>
@@ -542,7 +542,7 @@ And the reverence of the Pitrs.
 </details>
 <details><summary>मूलम्</summary>
 
-मनो॒ न्वा हु॑वामहे नाराश॒ꣳ॒सेन॒ स्तोमे॑न ।    
+मनो॒ न्वा हु॑वामहे नाराशँ॒सेन॒ स्तोमे॑न ।    
 पितृ॒णाञ् च॒ मन्म॑भिः  ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -562,7 +562,7 @@ And the reverence of the Pitrs.
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 **आ** [8] न **एतु** मन॒ᳶ पुन॒ᳵ  
-क्रत्वे॒ दख्षा॑य जी॒वसे᳚ ॥   
+क्रत्वे॒ दक्षा॑य जी॒वसे॑ ॥   
 ज्योक् च॒ सूर्य॑न् दृ॒शे  ॥
 </details>
 </div>
@@ -576,7 +576,7 @@ And that long we may see the sun.
 </details>
 <details><summary>मूलम्</summary>
 
-आ [8] +न॒ ए॒तु॒ मन॒ᳶ पुन॒ᳵ क्रत्वे॒ दख्षा॑य जी॒वसे᳚ ॥   
+आ [8] +न॒ ए॒तु॒ मन॒ᳶ पुन॒ᳵ क्रत्वे॒ दक्षा॑य जी॒वसे॑ ॥   
 ज्योक्च॒ सूर्य॑न्दृ॒शे  ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -594,7 +594,7 @@ And that long we may see the sun.
 
 पुन॑र् नᳶ पि॒तरो॒ +++(तान् अनुगतं)+++ मनो॒  
 ददा॑तु॒ दैव्यो॒ जनः॑  ॥   
-जी॒वव्ँ व्रातꣳ॑+++(=समूहम्)+++ सचेमहि+++(=सेवेमहि)+++  ॥
+जी॒वव्ँ व्रातँ॑+++(=समूहम्)+++ सचेमहि+++(=सेवेमहि)+++  ॥
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH/atharva/paippalAdam/saMhitA/sarvASh_TIkAH/19/024/12_punar_naH_pitaro.md">
@@ -614,7 +614,7 @@ May we belong to the band of the living.
 </div>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-यद॒न्तरि॑ख्षम्पृथि॒वीमु॒त द्याय्ँयन्मा॒तर॑म्पि॒तर॑व्ँवा जिहिꣳसि॒म ॥ अ॒ग्निर्मा॒ तस्मा॒देन॑सो॒ गार्ह॑पत्य॒ᳶ प्र मु॑ञ्चतु दुरि॒ता यानि॑ चकृ॒म क॒रोतु॒ माम॑ने॒नस᳚म् ॥ [9]
+यद॒न्तरि॑क्षम्पृथि॒वीमु॒त द्याय्ँयन्मा॒तर॑म्पि॒तर॑व्ँवा जिहिँसि॒म ॥ अ॒ग्निर्मा॒ तस्मा॒देन॑सो॒ गार्ह॑पत्य॒ᳶ प्र मु॑ञ्चतु दुरि॒ता यानि॑ चकृ॒म क॒रोतु॒ माम॑ने॒नस॑म् ॥ [9]
 </details>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -623,12 +623,12 @@ May we belong to the band of the living.
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/07_yad_antarikhSham.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-यद् अ॒न्तरि॑ख्षम् पृथि॒वीम् उ॒त द्याय्ँ  
-यन् मा॒तर॑म् पि॒तर॑व्ँ वा **जिहिꣳसि॒म**  ॥    
+यद् अ॒न्तरि॑क्षम् पृथि॒वीम् उ॒त द्याय्ँ  
+यन् मा॒तर॑म् पि॒तर॑व्ँ वा **जिहिँसि॒म**  ॥    
 अ॒ग्निर् मा॒ तस्मा॒द् एन॑सो॒ ..   
 गार्ह॑पत्य॒ᳶ **प्र मु॑ञ्चतु** ..  
 दुरि॒ता यानि॑ **चकृ॒म** ..  
-**क॒रोतु॒** माम् अ॑ने॒नस᳚म् ॥
+**क॒रोतु॒** माम् अ॑ने॒नस॑म् ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/07_yad_antarikhSham.md">
@@ -643,12 +643,12 @@ In respect of all the ill we have wrought.
 </details>
 <details><summary>मूलम्</summary>
 
-यद॒न्तरि॑ख्षम्पृथि॒वीमु॒त द्याँ ...  
-य्यन्मा॒तर॑म्पि॒तर॑व्ँवा जिहिꣳसि॒म  ॥    
+यद॒न्तरि॑क्षम्पृथि॒वीमु॒त द्याँ ...  
+य्यन्मा॒तर॑म्पि॒तर॑व्ँवा जिहिँसि॒म  ॥    
 अ॒ग्निर्मा॒ तस्मा॒देन॑सो॒ ..   
 गार्ह॑पत्य॒ᳶ प्र मु॑ञ्चतु ..  
 दुरि॒ता यानि॑ चकृ॒म ..  
-क॒रोतु॒ माम॑ने॒नस᳚म् ॥
+क॒रोतु॒ माम॑ने॒नस॑म् ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

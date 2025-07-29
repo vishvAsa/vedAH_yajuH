@@ -51,7 +51,7 @@ _______
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/02_AhavanIyam/03_yat_tvA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-यत् त्वा᳚ [10] क्रु॒द्धᳶ **प॑रो॒वप॑**+++(=उद्वासितवान् अस्मि)+++,  
+यत् त्वा॑ [10] क्रु॒द्धᳶ **प॑रो॒वप॑**+++(=उद्वासितवान् अस्मि)+++,  
 म॒न्युना॒ यद् अव॑र्त्या ।    
 सु॒कल्प॑म् अग्ने॒ तत् तव॒,  
 +++(यतः पुनराधाने)+++ पुन॒स् **त्वोद्दी॑पयामसि**  ॥
@@ -68,7 +68,7 @@ Again thee we relight.
 </details>
 <details><summary>मूलम्</summary>
 
-यत्त्वा᳚ [10] क्रु॒द्धᳶ प॑रो॒वप॑ ..  
+यत्त्वा॑ [10] क्रु॒द्धᳶ प॑रो॒वप॑ ..  
 म॒न्युना॒ यद् अव॑र्त्या ।    
 सु॒कल्प॑मग्ने॒ तत्तव॒ ..  
 पुन॒स्त्वोद्दी॑पयामसि  ॥

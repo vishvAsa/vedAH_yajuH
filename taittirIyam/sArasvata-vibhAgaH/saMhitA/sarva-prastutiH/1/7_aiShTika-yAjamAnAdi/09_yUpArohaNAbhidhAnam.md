@@ -7,7 +7,7 @@ title = "०९ यूपारोहणाभिधानम्"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ख्ष॒त्रस्योल्ब॑म् असि ।  
+क्ष॒त्रस्योल्ब॑म् असि ।  
 </details>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -15,7 +15,7 @@ title = "०९ यूपारोहणाभिधानम्"
 </details>
 <details><summary>मूलम्</summary>
 
-ख्ष॒त्रस्योल्ब॑म्+++(=जरायुर्)+++ असि ।  
+क्ष॒त्रस्योल्ब॑म्+++(=जरायुर्)+++ असि ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -31,7 +31,7 @@ Thou art the caul of the kingly class.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ख्ष॒त्रस्य॒ योनि॑र् असि ।  
+क्ष॒त्रस्य॒ योनि॑र् असि ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -39,7 +39,7 @@ thou art the womb of the kingly class
 </details>
 <details><summary>मूलम्</summary>
 
-ख्ष॒त्रस्य॒ योनि॑रसि ।  
+क्ष॒त्रस्य॒ योनि॑रसि ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -87,7 +87,7 @@ Yes, let us two mount the heaven;
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒हन् ना॑व् उ॒भयो॒स् +++(कृते)+++ सुवो॑ रोख्ष्यामि ।  
+अ॒हन् ना॑व् उ॒भयो॒स् +++(कृते)+++ सुवो॑ रोक्ष्यामि ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -95,7 +95,7 @@ I will mount the heaven for us both.
 </details>
 <details><summary>मूलम्</summary>
 
-अ॒हन्ना॑वु॒भयो॒स्सुवो॑ रोख्ष्यामि ।  
+अ॒हन्ना॑वु॒भयो॒स्सुवो॑ रोक्ष्यामि ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -166,7 +166,7 @@ Strength, instigation, the later born, inspiration, heaven, the head, the Vyaśn
 प्रा॒णो य॒ज्ञेन॑ कल्पताम् ।  
 अ॒पा॒नो [38] य॒ज्ञेन॑ कल्पताम् ।  
 व्या॒नो य॒ज्ञेन॑ कल्पताम् ।  
-चख्षु॑र् य॒ज्ञेन॑ कल्पताम् ।  
+चक्षु॑र् य॒ज्ञेन॑ कल्पताम् ।  
 श्रोत्र॑य्ँ य॒ज्ञेन॑ कल्पताम् ।  
 मनो॑ य॒ज्ञेन॑ कल्पताम्  ।  
 वाग् य॒ज्ञेन॑ कल्पताम्  ।  
@@ -183,7 +183,7 @@ May life accord with the sacrifice, may expiration accord with the sacrifice, ma
 प्रा॒णो य॒ज्ञेन॑ कल्पताम् ।  
 अ॒पा॒नो [38] य॒ज्ञेन॑ कल्पताम् ।  
 व्या॒नो य॒ज्ञेन॑ कल्पताम् ।  
-चख्षु॑र्य॒ज्ञेन॑ कल्पताम् ।  
+चक्षु॑र्य॒ज्ञेन॑ कल्पताम् ।  
 श्रोत्र॑य्ँय॒ज्ञेन॑ कल्पताम् ।  
 मनो॑ य॒ज्ञेन॑ कल्पताम्  ।  
 वाग्य॒ज्ञेन॑ कल्पताम्  ।  
@@ -196,14 +196,14 @@ May life accord with the sacrifice, may expiration accord with the sacrifice, ma
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-सुव॑र्दे॒वाꣳ अ॑गन्मा॒मृता॑ अभूम प्र॒जाप॑तेᳶ प्र॒जा अ॑भूम॒ सम॒हम्प्र॒जया॒ सम्मया᳚ प्र॒जा </details>
+सुव॑र्दे॒वाँ अ॑गन्मा॒मृता॑ अभूम प्र॒जाप॑तेᳶ प्र॒जा अ॑भूम॒ सम॒हम्प्र॒जया॒ सम्मया॑ प्र॒जा </details>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 17आरुह्य बाहू उद्गृह्णाति - सुवरिति ॥ 
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सुव॑र् दे॒वाꣳ अ॑गन् ।  
+सुव॑र् दे॒वाँ अ॑गन् ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -211,7 +211,7 @@ We have come to the heaven, to the gods;
 </details>
 <details><summary>मूलम्</summary>
 
-सुव॑र्दे॒वाꣳ अ॑गन् ।  
+सुव॑र्दे॒वाँ अ॑गन् ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -262,7 +262,7 @@ we have become the offspring of Prajapati.
 <details open><summary><h5>समहम् प्रजया ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सम् अ॒हम् प्र॒जया᳚  +++(भूयासम्)+++  ।
+सम् अ॒हम् प्र॒जया॑  +++(भूयासम्)+++  ।
 </details>
 <details><summary>Keith</summary>
 
@@ -270,7 +270,7 @@ May I be united with offspring,
 </details>
 <details><summary>मूलम्</summary>
 
-सम॒हम्प्र॒जया᳚  +++(भूयासम्)+++  ।
+सम॒हम्प्र॒जया॑  +++(भूयासम्)+++  ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -282,7 +282,7 @@ ___________
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सम् मया᳚ प्र॒जा  +++(भूयात्)+++ ।
+सम् मया॑ प्र॒जा  +++(भूयात्)+++ ।
 </details>
 <details><summary>Keith</summary>
 
@@ -290,7 +290,7 @@ offspring with me.
 </details>
 <details><summary>मूलम्</summary>
 
-सम्मया᳚ प्र॒जा  +++(भूयात्)+++ ।
+सम्मया॑ प्र॒जा  +++(भूयात्)+++ ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -300,7 +300,7 @@ __________
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सम॒हꣳ रा॒यस्पोषे॑ण  +++(भूयासम्)+++  ।
+सम॒हँ रा॒यस्पोषे॑ण  +++(भूयासम्)+++  ।
 </details>
 <details><summary>Keith</summary>
 
@@ -308,7 +308,7 @@ May I be united with increase of wealth,
 </details>
 <details><summary>मूलम्</summary>
 
-सम॒हꣳ रा॒यस्पोषे॑ण  +++(भूयासम्)+++  ।
+सम॒हँ रा॒यस्पोषे॑ण  +++(भूयासम्)+++  ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -338,7 +338,7 @@ _____________
 </div>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-अन्ना॑य त्वा॒ऽन्नाद्या॑य त्वा॒ वाजा॑य त्वा वाजजि॒त्यायै᳚ त्वा॒ऽमृत॑मसि॒ पुष्टि॑रसि प्र॒जन॑नमसि ॥
+अन्ना॑य त्वा॒ऽन्नाद्या॑य त्वा॒ वाजा॑य त्वा वाजजि॒त्यायै॑ त्वा॒ऽमृत॑मसि॒ पुष्टि॑रसि प्र॒जन॑नमसि ॥
 </details>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -349,7 +349,7 @@ _____________
 अन्ना॑य त्वा  +++(हन्मि)+++ ।  
 अन्नाद्या॑य त्वा  +++(हन्मि)+++ ।  
 वाजा॑य त्वा  +++(हन्मि)+++ ।  
-वाज-जि॒त्यायै᳚ त्वा  +++(हन्मि)+++ ।  
+वाज-जि॒त्यायै॑ त्वा  +++(हन्मि)+++ ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -363,7 +363,7 @@ For the conquering of strength thee!
 अन्ना॑य त्वा  +++(हन्मि)+++ ।  
 अन्नाद्या॑य त्वा  +++(हन्मि)+++ ।  
 वाजा॑य त्वा  +++(हन्मि)+++ ।  
-वाजजि॒त्यायै᳚ त्वा  +++(हन्मि)+++ ।  
+वाजजि॒त्यायै॑ त्वा  +++(हन्मि)+++ ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

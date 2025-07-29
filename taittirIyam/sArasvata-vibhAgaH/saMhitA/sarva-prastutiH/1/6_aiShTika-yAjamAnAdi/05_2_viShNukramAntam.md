@@ -10,15 +10,15 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विष्णो॒ᳵ क्रमो᳚ऽस्य् - अभिमाति॒हा।
+विष्णो॒ᳵ क्रमो॑ऽस्य् - अभिमाति॒हा।
 </details>
 <details><summary>मूलम्</summary>
 
-विष्णो॒ᳵ क्रमो᳚ऽस्यभिमाति॒हा ।
+विष्णो॒ᳵ क्रमो॑ऽस्यभिमाति॒हा ।
 </details>
 <details><summary>पद-पाठः</summary>
 
-विष्णोः᳚ । क्रमः॑ । अ॒सि॒ । अ॒भि॒मा॒ति॒हेत्य॑भिमाति-हा । 
+विष्णोः॑ । क्रमः॑ । अ॒सि॒ । अ॒भि॒मा॒ति॒हेत्य॑भिमाति-हा । 
 </details>
 
 
@@ -36,7 +36,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-गा॑य॒त्रेण॒ छन्द॑सा पृथि॒वीम् +++(विष्णुम्)+++ अनु॒ वि क्र॑मे।
+गा॒य॒त्रेण॒ छन्द॑सा पृथि॒वीम् +++(विष्णुम्)+++ अनु॒ वि क्र॑मे।
 </details>
 <details><summary>Keith</summary>
 
@@ -44,7 +44,7 @@ Thou art the step of Visnu, smiting enmity; with the Gayatri metre I step across
 </details>
 <details><summary>मूलम्</summary>
 
-गा॑य॒त्रेण॒ छन्द॑सा पृथि॒वीमनु॒ वि क्र॑मे ।
+गा॒य॒त्रेण॒ छन्द॑सा पृथि॒वीमनु॒ वि क्र॑मे ।
 </details>
 <details><summary>पद-पाठः</summary>
 
@@ -87,8 +87,8 @@ excluded is he whom we hate.
 ## विष्णुक्रममन्त्रः २
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विष्णो॒ᳵ **क्रमो᳚ ऽस्य् अभिशस्ति॒हा**।
-त्रैष्टु॑भेन॒ छन्द॑सान्तरि॑ख्ष॒म् अनु॒ वि क्र॑मे।
+विष्णो॒ᳵ **क्रमो॑ ऽस्य् अभिशस्ति॒हा**।
+त्रैष्टु॑भेन॒ छन्द॑साऽन्तरि॑क्ष॒म् अनु॒ वि क्र॑मे।
 </details>
 <details><summary>Keith</summary>
 
@@ -96,11 +96,11 @@ Thou art the step of Visnu, smiting imprecations; with the Tristubh metre I step
 </details>
 <details><summary>मूलम्</summary>
 
-विष्णो॒ᳵ क्रमो᳚ऽस्यभिशस्ति॒हा त्रैष्टु॑भेन॒ छन्द॑सान्तरि॑ख्ष॒मनु॒ वि क्र॑मे।
+विष्णो॒ᳵ क्रमो॑ऽस्यभिशस्ति॒हा त्रैष्टु॑भेन॒ छन्द॑सान्तरि॑क्ष॒मनु॒ वि क्र॑मे।
 </details>
 <details><summary>पद-पाठः</summary>
 
-विष्णोः᳚ । क्रमः॑ । अ॒सि॒ । अ॒भि॒श॒स्ति॒हेत्य॑भिशस्ति-हा । त्रैष्टु॑भेन । छन्द॑सा । अ॒न्तरि॑ख्षम् । अनु॑ । वीति॑ । क्र॒मे॒ । 
+विष्णोः॑ । क्रमः॑ । अ॒सि॒ । अ॒भि॒श॒स्ति॒हेत्य॑भिशस्ति-हा । त्रैष्टु॑भेन । छन्द॑सा । अ॒न्तरि॑क्षम् । अनु॑ । वीति॑ । क्र॒मे॒ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -132,7 +132,8 @@ excluded is he whom we hate.
 ## विष्णुक्रममन्त्रः ३
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विष्णो॒ᳵ क्रमो᳚ऽस्यरातीय॒तो ह॒न्ता जाग॑तेन॒ छन्द॑सा॒ दिव॒मनु॒ वि क्र॑मे।
+विष्णो॒ᳵ क्रमो॑ऽस्य् अरातीय॒तो ह॒न्ता  
+जाग॑तेन॒ छन्द॑सा॒ दिव॒म् अनु॒ वि क्र॑मे।
 </details>
 <details><summary>Keith</summary>
 
@@ -141,12 +142,12 @@ with the Jagati metre I step across the sky;
 </details>
 <details><summary>मूलम्</summary>
 
-विष्णो॒ᳵ क्रमो᳚ऽस्यरातीय॒तो ह॒न्ता जाग॑तेन॒ छन्द॑सा॒ दिव॒मनु॒ वि क्र॑मे।
+विष्णो॒ᳵ क्रमो॑ऽस्यरातीय॒तो ह॒न्ता जाग॑तेन॒ छन्द॑सा॒ दिव॒मनु॒ वि क्र॑मे।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-विष्णोः᳚ । क्रमः॑ । अ॒सि॒ । अ॒रा॒ती॒य॒तः । ह॒न्ता । जाग॑तेन । छन्द॑सा । दिव᳚म् । अनु॑ । वीति॑ । क्र॒मे॒ । 
+विष्णोः॑ । क्रमः॑ । अ॒सि॒ । अ॒रा॒ती॒य॒तः । ह॒न्ता । जाग॑तेन । छन्द॑सा । दिव॑म् । अनु॑ । वीति॑ । क्र॒मे॒ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -194,7 +195,7 @@ with the Anustubh metre I stop across the quarters;
 </details>
 <details><summary>पद-पाठः</summary>
 
-विष्णोः᳚ । क्रमः॑ । अ॒सि॒ । श॒त्रू॒य॒त इति॑ शत्रु-य॒तः । ह॒न्ता । आनु॑ष्टुभे॒नेत्यानु॑-स्तु॒भे॒न॒ । छन्द॑सा । दिशः॑ । अनु॑ । वीति॑ । क्र॒मे॒ ।
+विष्णोः॑ । क्रमः॑ । अ॒सि॒ । श॒त्रू॒य॒त इति॑ शत्रु-य॒तः । ह॒न्ता । आनु॑ष्टुभे॒नेत्यानु॑-स्तु॒भे॒न॒ । छन्द॑सा । दिशः॑ । अनु॑ । वीति॑ । क्र॒मे॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -210,3 +211,25 @@ with the Anustubh metre I stop across the quarters;
 इति षष्ठे पञ्चमोनुवाकः ॥
 
 </details>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/05_viShNukramAntam/nirbhaktaH.md">
+<details open><summary><h5>निर्भक्तः ...{Loading}...</h5></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+निर्भ॑क्त॒स् स यन्द्वि॒ष्मः ।
+</details>
+<details><summary>Keith</summary>
+
+excluded is he whom we hate.
+</details>
+<details><summary>मूलम्</summary>
+
+निर्भ॑क्त॒स्स यन्द्वि॒ष्मः ।
+</details>
+<details><summary>भट्टभास्कर-टीका</summary>
+
+इत्थं यस्माद्विष्णुरेव भूत्वाहं विक्रमे त्वं च यथा विष्णोः क्रमोसि अतो निर्भक्तः स मया क्रान्तया इतः पृथिव्या स निर्भक्तः निर्वासितो विनाशितोस्तु यं द्विष्मः । उपक्रमे श्रुतत्वादभिमातिर्गम्यते । 'गतिरनन्तरः' इति गतेः प्रकृतिस्वरत्वम् । एतेनोत्तरे व्याख्याताः ।
+</details>
+</details>
+</div>  
+

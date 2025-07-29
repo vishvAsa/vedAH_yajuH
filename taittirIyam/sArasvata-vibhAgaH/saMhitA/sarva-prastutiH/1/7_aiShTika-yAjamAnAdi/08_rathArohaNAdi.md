@@ -20,7 +20,7 @@ title = "०८ रथारोहणादि"
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वस्या॒हꣳ स॑वि॒तुᳶ प्र॑स॒वे बृह॒स्पति॑ना वाज॒जिता॒ वाज॑ञ् जेषम् ।  
+दे॒वस्या॒हँ स॑वि॒तुᳶ प्र॑स॒वे बृह॒स्पति॑ना वाज॒जिता॒ वाज॑ञ् जेषम् ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -28,7 +28,7 @@ On the instigation of the god Savitr, through Brhaspati, winner of the prize, ma
 </details>
 <details><summary>मूलम्</summary>
 
-दे॒वस्या॒हꣳ स॑वि॒तुᳶ प्र॑स॒वे बृह॒स्पति॑ना वाज॒जिता॒ वाज॑ञ्जेषम् ।  
+दे॒वस्या॒हँ स॑वि॒तुᳶ प्र॑स॒वे बृह॒स्पति॑ना वाज॒जिता॒ वाज॑ञ्जेषम् ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -41,9 +41,9 @@ On the instigation of the god Savitr, through Brhaspati, winner of the prize, ma
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/02_devasyAhaM_savitupH.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-दे॒वस्या॒हꣳ स॑वि॒तुᳶ प्र॑स॒वे  
+दे॒वस्या॒हँ स॑वि॒तुᳶ प्र॑स॒वे  
 बृह॒स्पति॑ना वाज॒जिता॒  
-वर्षि॑ष्ठ॒न् नाकꣳ॑ रुहेयम् ।
+वर्षि॑ष्ठ॒न् नाकँ॑ रुहेयम् ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/02_devasyAhaM_savitupH.md">
@@ -54,7 +54,7 @@ On the instigation of the god Savitr, through Brhaspati, winner of the prize, ma
 </details>
 <details><summary>मूलम्</summary>
 
-दे॒वस्या॒हꣳ स॑वि॒तुᳶ प्र॑स॒वे बृह॒स्पति॑ना वाज॒जिता॒ वर्षि॑ष्ठ॒न्नाकꣳ॑ रुहेयम् ।
+दे॒वस्या॒हँ स॑वि॒तुᳶ प्र॑स॒वे बृह॒स्पति॑ना वाज॒जिता॒ वर्षि॑ष्ठ॒न्नाकँ॑ रुहेयम् ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -99,7 +99,7 @@ To Indra utter your voices, make Indra win the prize, Indra hath won the prize.
 
 अश्वा॑जनि+++(=कशा)+++ वाजिनि॒  
 वाजे॑षु वाजिनीव॒ति ।  
-अश्वा᳚न्थ् स॒मथ्सु॑+++(=सङ्ग्रामेषु)+++ वाजय  ॥
+अश्वा॑न्थ् स॒मत्सु॑+++(=सङ्ग्रामेषु)+++ वाजय  ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/03_ashvAjani_vAjini.md">
@@ -112,7 +112,7 @@ Do thou in the contests strengthen the steeds.
 <details><summary>मूलम्</summary>
 
 अश्वा॑जनि वाजिनि॒ वाजे॑षु वाजिनीव॒ति ।  
-अश्वा᳚न्थ्स॒मथ्सु॑ वाजय  ॥
+अश्वा॑न्त्स॒मत्सु॑ वाजय  ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -179,7 +179,7 @@ the strong.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वाजि॑नो॒ वाज॑न् धावत ।  
-म॒रुता᳚म् प्रस॒वे ज॑यत ।  
+म॒रुता॑म् प्रस॒वे ज॑यत ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -189,7 +189,7 @@ conquer on the instigation of the Maruts:
 <details><summary>मूलम्</summary>
 
 वाजि॑नो॒ वाज॑न्धावत ।  
-म॒रुता᳚म् प्रस॒वे ज॑यत ।
+म॒रुता॑म् प्रस॒वे ज॑यत ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -202,7 +202,7 @@ conquer on the instigation of the Maruts:
 
 वि योज॑ना मिमीध्वम् ।+++(5)+++  
 अध्व॑नस्स्कभ्नीत [34] ।  
-काष्ठा᳚ङ्गच्छत ।
+काष्ठा॑ङ्गच्छत ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/04_vi_yojanA.md">
@@ -217,7 +217,7 @@ attain the goal.
 
 वि योज॑ना मिमीध्वम् ।  
 अध्व॑नस्स्कभ्नीत [34] ।  
-काष्ठा᳚ङ्गच्छत ।
+काष्ठा॑ङ्गच्छत ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -580,7 +580,7 @@ All hearken to our cry.
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 मि॒त-द्र॑वस् सहस्र॒-सा+++(←सन् दाने)+++ मे॒ध-सा॑ता सनि॒ष्यवः॑ ।  
-म॒हो ये रत्नꣳ॑ समि॒थेषु॑+++(=सङ्ग्रामेषु)+++ जभ्रि॒रे ॥
+म॒हो ये रत्नँ॑ समि॒थेषु॑+++(=सङ्ग्रामेषु)+++ जभ्रि॒रे ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/06_mitadravas_sahasrasA.md">
@@ -594,7 +594,7 @@ The steeds, which have won in the contests great prizes.
 <details><summary>मूलम्</summary>
 
 मि॒तद्र॑वस्सहस्र॒सा मे॒धसा॑ता सनि॒ष्यवः॑ ।  
-म॒हो ये रत्नꣳ॑ समि॒थेषु॑ जभ्रि॒रे ॥
+म॒हो ये रत्नँ॑ समि॒थेषु॑ जभ्रि॒रे ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -615,8 +615,8 @@ The steeds, which have won in the contests great prizes.
 
 शन् नो॑ भवन्तु वा॒जिनो॒ हवे॑षु  
 दे॒व-ता॑ता+++(=विस्तारे [यज्ञे])+++ मि॒त-द्र॑वस् स्व्-अ॒र्काः ।  
-ज॒म्भय॒न्तो ऽहि॒व्ँ वृक॒ꣳ॒ रख्षाꣳ॑सि॒  
-सने᳚म्य्+++(→सदा)+++ अ॒स्मद् यु॑यवन्न्+++(←यु पृथक्करणे)+++ [35] अमी॑वाः+++(=रोगान्)+++  ॥
+ज॒म्भय॒न्तो ऽहि॒व्ँ वृकँ॒ रक्षाँ॑सि॒  
+सने॑म्य्+++(→सदा)+++ अ॒स्मद् यु॑यवन्न्+++(←यु पृथक्करणे)+++ [35] अमी॑वाः+++(=रोगान्)+++  ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/07_shan_no.md">
@@ -632,8 +632,8 @@ Forever may they remove from us evil [2].
 
 शन्नो॑ भवन्तु वा॒जिनो॒ हवे॑षु  
 दे॒वता॑ता मि॒तद्र॑वस्स्व॒र्काः ।  
-ज॒म्भय॒न्तोऽहि॒व्ँवृक॒ꣳ॒ ..  
-रख्षाꣳ॑सि॒ सने᳚म्य॒स्मद्यु॑यवन्न् [35] अमी॑वाः  ॥
+ज॒म्भय॒न्तोऽहि॒व्ँवृकँ॒ ..  
+रक्षाँ॑सि॒ सने॑म्य॒स्मद्यु॑यवन्न् [35] अमी॑वाः  ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -654,10 +654,10 @@ Forever may they remove from us evil [2].
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/08_eSha_sya.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-ए॒ष स्य+++(=स)+++ वा॒जी ख्षि॑प॒णिन्+++(=कशां)+++ तु॑रण्यति+++(←तुरण् त्वरायाम्)+++   
-ग्री॒वाया᳚म् ब॒द्धो, अ॑पिक॒ख्ष +++(=भुजे)+++ आ॒सनि॑+++(=आस्ये)+++ ।  
-क्रतु॑न् दधि॒+++(←धा)+++-क्रा+++(←क्रम्)+++ अनु॑ स॒न्तवी᳚त्वत्+++(←तु वृद्धौ)+++   
-प॒थाम् अङ्का॒ꣳ॒स्य् अन्व् आ॒पनी॑फणत्+++(← फण् गतौ?)+++   ॥
+ए॒ष स्य+++(=स)+++ वा॒जी क्षि॑प॒णिन्+++(=कशां)+++ तु॑रण्यति+++(←तुरण् त्वरायाम्)+++   
+ग्री॒वाया॑म् ब॒द्धो, अ॑पिक॒क्ष +++(=भुजे)+++ आ॒सनि॑+++(=आस्ये)+++ ।  
+क्रतु॑न् दधि॒+++(←धा)+++-क्रा+++(←क्रम्)+++ अनु॑ स॒न्तवी॑त्वत्+++(←तु वृद्धौ)+++   
+प॒थाम् अङ्काँ॒स्य् अन्व् आ॒पनी॑फणत्+++(← फण् गतौ?)+++   ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/08_eSha_sya.md">
@@ -671,10 +671,10 @@ Springeth along the bends of the ways.
 </details>
 <details><summary>मूलम्</summary>
 
-ए॒ष स्य वा॒जी ख्षि॑प॒णिन्तु॑रण्यति   
-ग्री॒वाया᳚म्ब॒द्धो अ॑पिक॒ख्ष आ॒सनि॑ ।  
-क्रतु॑न्दधि॒क्रा अनु॑ स॒न्तवी᳚त्वत्..   
-प॒थामङ्का॒ꣳ॒स्यन्वा॒पनी॑फणत्  ॥
+ए॒ष स्य वा॒जी क्षि॑प॒णिन्तु॑रण्यति   
+ग्री॒वाया॑म्ब॒द्धो अ॑पिक॒क्ष आ॒सनि॑ ।  
+क्रतु॑न्दधि॒क्रा अनु॑ स॒न्तवी॑त्वत्..   
+प॒थामङ्काँ॒स्यन्वा॒पनी॑फणत्  ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -1050,7 +1050,7 @@ Und dieses schnellen Läufers Fittich fliegt dahin, wie eines Vogels, der begehr
 
 **आ** मा॒ वाज॑स्य प्रस॒वो **ज॑गम्या॒द्**  
 आ द्यावा॑पृथि॒वी वि॒श्व-श॑म्-भू ।  
-**आ** मा॑ **गन्ताम्** पि॒तरा᳚ [36] मा॒तरा॒  
+**आ** मा॑ **गन्ताम्** पि॒तरा॑ [36] मा॒तरा॒  
 **चा** ऽऽमा॒ सोमो॑ अमृत॒त्वाय॑ **गम्यात्**  ॥
 </details>
 </div>
@@ -1066,7 +1066,7 @@ May Soma come to me for immortality.
 <details><summary>मूलम्</summary>
 
 आ मा॒ वाज॑स्य प्रस॒वो ज॑गम्या॒दा द्यावा॑पृथि॒वी वि॒श्वश॑म्भू ।  
-आ मा॑ गन्ताम्पि॒तरा᳚ [36] मा॒तरा॒ चाऽऽमा॒ सोमो॑ अमृत॒त्वाय॑ गम्यात्  ॥
+आ मा॑ गन्ताम्पि॒तरा॑ [36] मा॒तरा॒ चाऽऽमा॒ सोमो॑ अमृत॒त्वाय॑ गम्यात्  ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -1084,9 +1084,9 @@ May Soma come to me for immortality.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वाजि॑नो वाज-जितो॒  
-वाजꣳ॑ सरि॒ष्यन्तो॒  
+वाजँ॑ सरि॒ष्यन्तो॒  
 वाज॑ञ् जे॒ष्यन्तो॒  
-बृह॒स्पते᳚र् भा॒गम् अव॑ **जिघ्रत** ।  
+बृह॒स्पते॑र् भा॒गम् अव॑ **जिघ्रत** ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -1094,7 +1094,7 @@ O ye steeds, prize winning, about to run for the prize, about to win the prize, 
 </details>
 <details><summary>मूलम्</summary>
 
-वाजि॑नो वाजजितो॒ वाजꣳ॑ सरि॒ष्यन्तो॒ वाज॑ञ्जे॒ष्यन्तो॒ बृह॒स्पते᳚र्भा॒गमव॑ जिघ्रत ।  
+वाजि॑नो वाजजितो॒ वाजँ॑ सरि॒ष्यन्तो॒ वाज॑ञ्जे॒ष्यन्तो॒ बृह॒स्पते॑र्भा॒गमव॑ जिघ्रत ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -1107,9 +1107,9 @@ O ye steeds, prize winning, about to run for the prize, about to win the prize, 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वाजि॑नो वाजजितो॒  
-वाजꣳ॑ ससृ॒वाꣳसो॒  
-वाज॑ञ् जिगि॒वाꣳसो॒  
-बृह॒स्पते᳚र् भा॒गे **नि मृ॑ढ्वम्** +++(←मृज् शौचे)+++ ।  
+वाजँ॑ ससृ॒वाँसो॒  
+वाज॑ञ् जिगि॒वाँसो॒  
+बृह॒स्पते॑र् भा॒गे **नि मृ॑ढ्वम्** +++(←मृज् शौचे)+++ ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -1117,7 +1117,7 @@ O ye steeds, prize winning, that have run for the prize, that have won the prize
 </details>
 <details><summary>मूलम्</summary>
 
-वाजि॑नो वाजजितो॒ वाजꣳ॑ ससृ॒वाꣳसो॒ वाज॑ञ्जिगि॒वाꣳसो॒ बृह॒स्पते᳚र्भा॒गे नि मृ॑ढ्वम् ।  
+वाजि॑नो वाजजितो॒ वाजँ॑ ससृ॒वाँसो॒ वाज॑ञ्जिगि॒वाँसो॒ बृह॒स्पते॑र्भा॒गे नि मृ॑ढ्वम् ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

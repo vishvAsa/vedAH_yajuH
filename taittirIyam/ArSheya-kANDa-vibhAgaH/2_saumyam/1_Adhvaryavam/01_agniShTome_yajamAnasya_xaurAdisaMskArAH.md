@@ -70,7 +70,7 @@ O plant, protect him.
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-ओष॑धे॒ त्राय॑स्वैन॒ꣵ॒ स्वधि॑ते॒ मैनꣳ॑ हिꣳसीः
+ओष॑धे॒ त्राय॑स्वैनँ॒ स्वधि॑ते॒ मैनँ॑ हिँसीः
 </details>
 <details><summary>मूलम्</summary>
 
@@ -95,7 +95,7 @@ ________
 <details open><summary><h5>स्वधिते ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्वधि॑ते॒+++(=क्षुर)+++! मैनꣳ॑ हिꣳसीः  ।+++(र४)+++
+स्वधि॑ते॒+++(=क्षुर)+++! मैनँ॑ हिँसीः  ।+++(र४)+++
 </details>
 <details><summary>Keith</summary>
 
@@ -103,7 +103,7 @@ Axe, hurt him not.
 </details>
 <details><summary>मूलम्</summary>
 
-स्वधि॑ते॒ मैनꣳ॑ हिꣳसीः  ।
+स्वधि॑ते॒ मैनँ॑ हिँसीः  ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -228,7 +228,7 @@ ________
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उद् +++(अद्भ्य)+++ आ᳚भ्य॒श् शुचि॒र् आ पू॒त ए॑मि ।+++(र५)+++
+उद् +++(अद्भ्य)+++ आ॑भ्य॒श् शुचि॒र् आ पू॒त ए॑मि ।+++(र५)+++
 </details>
 <details><summary>Keith</summary>
 
@@ -236,7 +236,7 @@ Forth from these waters do I come bright, in purity.
 </details>
 <details><summary>मूलम्</summary>
 
-उदा᳚भ्य॒श्शुचि॒रा पू॒त ए॑मि ।
+उदा॑भ्य॒श्शुचि॒रा पू॒त ए॑मि ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -317,8 +317,8 @@ ________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वृ॒त्रस्य॑ क॒नीनि॑का+++(=अक्षिस्थकृष्ण-मण्डलम्)+++ ऽसि ।    
-च॒ख्षु॒ष्पा अ॑सि ।  
-चख्षु॑र् मे पाहि ।+++(र५)+++
+च॒क्षु॒ष्पा अ॑सि ।  
+चक्षु॑र् मे पाहि ।+++(र५)+++
 </details>
 <details><summary>Keith</summary>
 
@@ -328,13 +328,13 @@ guard my eye.
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-वृ॒त्रस्य॑ क॒नीनि॑काऽसि चख्षु॒ष्पा अ॑सि॒ चख्षु॑र्मे पाहि
+वृ॒त्रस्य॑ क॒नीनि॑काऽसि चक्षु॒ष्पा अ॑सि॒ चक्षु॑र्मे पाहि
 </details>
 <details><summary>मूलम्</summary>
 
 वृ॒त्रस्य॑ क॒नीनि॑काऽसि ।    
-च॒ख्षु॒ष्पा अ॑सि ।  
-चख्षु॑र्मे पाहि ।
+च॒क्षु॒ष्पा अ॑सि ।  
+चक्षु॑र्मे पाहि ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -540,7 +540,7 @@ ________
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रा᳚ग्नी॒ द्यावा॑पृथिवी॒ आप॑ ओषधीः +++(अनुमन्यध्वम्!)+++।+++(र४)+++
+इन्द्रा॑ग्नी॒ द्यावा॑पृथिवी॒ आप॑ ओषधीः +++(अनुमन्यध्वम्!)+++।+++(र४)+++
 </details>
 <details><summary>Keith</summary>
 
@@ -548,7 +548,7 @@ Indra and Agni, heaven and earth, waters, plants.
 </details>
 <details><summary>मूलम्</summary>
 
-इन्द्रा᳚ग्नी॒ द्यावा॑पृथिवी॒ आप॑ ओषधीः ।
+इन्द्रा॑ग्नी॒ द्यावा॑पृथिवी॒ आप॑ ओषधीः ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -563,7 +563,7 @@ ________
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्वन् दी॒ख्षाणा॒म् अधि॑पतिर् असि ।+++(र४)+++
+त्वन् दी॒क्षाणा॒म् अधि॑पतिर् असि ।+++(र४)+++
 </details>
 <details><summary>Keith</summary>
 
@@ -571,11 +571,11 @@ Thou art the lord of consecrations
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-त्वन्दी॒ख्षाणा॒मधि॑पतिरसी॒ह मा॒ सन्त॑म्पाहि ॥ [2]
+त्वन्दी॒क्षाणा॒मधि॑पतिरसी॒ह मा॒ सन्त॑म्पाहि ॥ [2]
 </details>
 <details><summary>मूलम्</summary>
 
-त्वन्दी॒ख्षाणा॒मधि॑पतिरसि ।
+त्वन्दी॒क्षाणा॒मधि॑पतिरसि ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

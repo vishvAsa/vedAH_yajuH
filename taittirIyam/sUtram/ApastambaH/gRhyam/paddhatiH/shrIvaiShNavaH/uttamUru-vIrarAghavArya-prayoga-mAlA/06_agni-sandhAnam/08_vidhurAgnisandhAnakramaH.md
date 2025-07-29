@@ -44,7 +44,7 @@ title = "०८ विधुराग्निसन्धानक्रमः"
 
 प्रधानाहुतीः 
 
-> ओं भूर्भुवस्सुव॒स्स्वाहा᳚ ॥  
+> ओं भूर्भुवस्सुव॒स्स्वाहा॑ ॥  
 (प्रजापतय इदं न मम) 
 
 इति हुत्वा
@@ -70,11 +70,11 @@ title = "०८ विधुराग्निसन्धानक्रमः"
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/6/05_chityAm_agni-sthApanAdi-mAruta-homAntam/08_tAM_savitur.md"  newLevelForH1="5" includeTitle="false">  
 
-(२) ओं ताँ स॑वि॒तुर्वरे᳚ण्यस्य चि॒त्रामाऽहं वृ॑णे सुम॒तिं वि॒श्वज॑न्याम् ।  
+(२) ओं ताँ स॑वि॒तुर्वरे॑ण्यस्य चि॒त्रामाऽहं वृ॑णे सुम॒तिं वि॒श्वज॑न्याम् ।  
 याम॑स्य॒ कण्वो॒ अदु॑ह॒त्प्रपी॑नीँ स॒हस्र॑धारां॒ पय॑सा म॒हीं गाँ
 
 </div>
-> स्वाहा᳚ ॥ (सवित्र इदं न मम)
+> स्वाहा॑ ॥ (सवित्र इदं न मम)
 
 
 [[21]]
@@ -85,16 +85,16 @@ title = "०८ विधुराग्निसन्धानक्रमः"
 
 विश्वा॑नि नो दु॒र्गहा॑ जातवेदः॒  
 सिन्धुं॒ न ना॒वा दु॑रि॒ताऽति॑ पर्षि।  
-अग्ने॑ अत्रि॒वन् मन॑सा गृणा॒नो॑॑  
-ऽस्माकं॑ बोध्य् अवि॒ता त॒नूना॑॑म्॥
+अग्ने॑ अत्रि॒वन् मन॑सा गृणा॒नो॑  
+ऽस्माकं॑ बोध्य् अवि॒ता त॒नूना॑म्॥
 </details>
 </div>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_11_jAtavedase_sunavAma_taittirIyakam/09_pRtanAjitaM_sahamAnam.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-पृ॒त॒ना॒जित॒ꣳ सह॑मानम् उ॒ग्रम्  
-अ॒ग्निꣳ हु॑वेम पर॒मात् स॒धस्था॑॑त्+++(=सहवासाद् [देशात्])+++।  
+पृ॒त॒ना॒जितँ॒ सह॑मानम् उ॒ग्रम्  
+अ॒ग्निँ हु॑वेम पर॒मात् स॒धस्था॑त्+++(=सहवासाद् [देशात्])+++।  
 स नः॑ पर्ष॒द्+++(=पारयति)+++ अति॑ दु॒र्गाणि॒ विश्वा॒  
 क्षाम॑द्+++(=क्षममाणः)+++ दे॒वो अति॑ दुरि॒तात्य् अ॒ग्निः॥
 </details>
@@ -132,10 +132,10 @@ title = "०८ विधुराग्निसन्धानक्रमः"
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/35_anAjnAtay.NyadAjnAtam_yajnasya.md">
 <details open><summary><h4>35 अनाज्ञातय्ँयदाज्ञातम् यज्ञस्य ...{Loading}...</h4></summary>
 
-अना᳚ज्ञात॒य्ँयदाज्ञा॑तम् ।  
+अना॑ज्ञात॒य्ँयदाज्ञा॑तम् ।  
 य॒ज्ञस्य॑ क्रि॒यते॒ मिथु॑ ।  
 अग्ने॒ तद॑स्य कल्पय ।  
-त्वꣳ हि वेत्थ॑ यथात॒थम् ।
+त्वँ हि वेत्थ॑ यथात॒थम् ।
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/38_puruShasammito_yajnaH.md">
@@ -144,16 +144,16 @@ title = "०८ विधुराग्निसन्धानक्रमः"
 पुरु॑षसम्मितो य॒ज्ञः ।  
 य॒ज्ञᳶ पुरु॑षसम्मितः ।  
 अग्ने॒ तद॑स्य कल्पय ।  
-त्वꣳ हि वेत्थ॑ यथात॒थम् ।
+त्वँ हि वेत्थ॑ यथात॒थम् ।
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/41_yatpAkatrA_manasA.md">
 <details open><summary><h4>41 यत्पाकत्रा मनसा ...{Loading}...</h4></summary>
 
-यत्पा॑क॒त्रा मन॑सा दी॒नद॑ख्षा॒ न ।  
+यत्पा॑क॒त्रा मन॑सा दी॒नद॑क्षा॒ न ।  
 य॒ज्ञस्य॑ म॒न्वते॒ मर्ता॑सः ।  
 अ॒ग्निष्टद्धोता॑ क्रतु॒विद्वि॑जा॒नन्न् ।  
-यजि॑ष्ठो दे॒वाꣳ ऋ॑तु॒शो य॑जाति ॥115॥
+यजि॑ष्ठो दे॒वाँ ऋ॑तु॒शो य॑जाति ॥115॥
 </details>
 </div>
 

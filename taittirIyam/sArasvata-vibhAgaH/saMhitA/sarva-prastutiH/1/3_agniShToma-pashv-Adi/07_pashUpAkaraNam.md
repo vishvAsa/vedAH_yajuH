@@ -14,7 +14,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒षे त्वा᳚ +++(ऽऽददामि)+++।
+इ॒षे त्वा॑ +++(ऽऽददामि)+++।
 </details>
 <details><summary>Keith</summary>
 
@@ -22,7 +22,7 @@ For striving thee!
 </details>
 <details><summary>मूलम्</summary>
 
-इ॒षे त्वा᳚ ।
+इ॒षे त्वा॑ ।
 </details>
 <details><summary>पद-पाठः</summary>
 
@@ -43,7 +43,7 @@ _______
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-उप॒वीर॒स्युपो॑ दे॒वान्दैवी॒र्विश॒ᳶ प्रागु॒र्वह्नी॑रु॒शिजो॒ बृह॑स्पते धा॒रया॒ वसू॑नि ह॒व्या ते᳚ स्वदन्ता॒न्देव॑ त्वष्ट॒र्वसु॑ रण्व॒ रेव॑ती॒ रम॑ध्वम् 
+उप॒वीर॒स्युपो॑ दे॒वान्दैवी॒र्विश॒ᳶ प्रागु॒र्वह्नी॑रु॒शिजो॒ बृह॑स्पते धा॒रया॒ वसू॑नि ह॒व्या ते॑ स्वदन्ता॒न्देव॑ त्वष्ट॒र्वसु॑ रण्व॒ रेव॑ती॒ रम॑ध्वम् 
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -89,8 +89,8 @@ the priests, the eager ones.
 </details>
 <details><summary>पद-पाठः</summary>
  
-उपो॒ इति॑ । दे॒वान् । दैवीः᳚ । विशः॑ । प्रेति॑ । अ॒गुः॒ ।  
-वह्नीः᳚ । उ॒शिजः॑ ।
+उपो॒ इति॑ । दे॒वान् । दैवीः॑ । विशः॑ । प्रेति॑ । अ॒गुः॒ ।  
+वह्नीः॑ । उ॒शिजः॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -106,7 +106,7 @@ ________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बृह॑स्पते +++(→ब्रह्मन्)+++! धा॒रया॒ वसू॑नि।  
-+++(हे पशो!)+++ ह॒व्या ते᳚ स्वदन्ताम्+++(←स्वद आस्वादने)+++।   
++++(हे पशो!)+++ ह॒व्या ते॑ स्वदन्ताम्+++(←स्वद आस्वादने)+++।   
 </details>
 <details><summary>Keith</summary>
 
@@ -116,13 +116,13 @@ Let thy oblations taste sweet.
 <details><summary>मूलम्</summary>
 
 बृह॑स्पते धा॒रया॒ वसू॑नि।  
-ह॒व्या ते᳚ स्वदन्ताम्।   
+ह॒व्या ते॑ स्वदन्ताम्।   
 </details>
 
 <details><summary>पद-पाठः</summary>
 
 बृह॑स्पते । धा॒रय॑ । वसू॑नि ।   
-ह॒व्या । ते॒ । स्व॒द॒न्ता॒म्॒ । 
+ह॒व्या । ते॒ । स्व॒द॒न्ता॒म् । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -184,7 +184,7 @@ Thou art the birthplace of Agni.
 </details>
 <details><summary>पद-पाठः</summary>
 
-अ॒ग्नेः । ज॒नित्र᳚म् । अ॒सि॒ । 
+अ॒ग्नेः । ज॒नित्र॑म् । अ॒सि॒ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -234,7 +234,7 @@ Thou art Urvaśi,
 </details>
 <details><summary>पद-पाठः</summary>
 
-उ॒र्वशी᳚ । अ॒सि॒ । 
+उ॒र्वशी॑ । अ॒सि॒ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -261,7 +261,7 @@ thou art Ayu, thou art Pururavas.
 </details>
 <details><summary>पद-पाठः</summary>
 
-आ॒युः । अ॒सि॒ । पु॒रू॒रवाः᳚ । 
+आ॒युः । अ॒सि॒ । पु॒रू॒रवाः॑ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -288,7 +288,7 @@ Anointed with ghee, do ye produce a male.
 </details>
 <details><summary>पद-पाठः</summary>
 
-घृ॒तेन॑ । अ॒क्ते इति॑ । वृष॑णम् । द॒धा॒था॒म्॒ । 
+घृ॒तेन॑ । अ॒क्ते इति॑ । वृष॑णम् । द॒धा॒था॒म् । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -359,15 +359,15 @@ _______
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-भव॑तं [12]न॒स्सम॑नसौ॒ समो॑कसावरे॒पसौ᳚ ।  मा य॒ज्ञꣳ हिꣳ॑सिष्ट॒म्मा य॒ज्ञप॑तिञ्जातवेदसौ शि॒वौ भ॑वतम॒द्य नः॑ ॥ 
+भव॑तं [12]न॒स्सम॑नसौ॒ समो॑कसावरे॒पसौ॑ ।  मा य॒ज्ञँ हिँ॑सिष्ट॒म्मा य॒ज्ञप॑तिञ्जातवेदसौ शि॒वौ भ॑वतम॒द्य नः॑ ॥ 
 </details>
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/07_pashUpAkaraNam/02_bhavataM_nas.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 +++(मथिताग्ने, आहवनीयाग्ने च!)+++  
 भव॑तं न॒स् स-म॑नसौ॒  
-सम्-ओ॑कसाव्+++(=गृहौ)+++ अ-रे॒पसौ᳚+++(←रेपस्=दुष्ट)+++ ।     
-मा य॒ज्ञꣳ हिꣳ॑सिष्ट॒म्  
+सम्-ओ॑कसाव्+++(=गृहौ)+++ अ-रे॒पसौ॑+++(←रेपस्=दुष्ट)+++ ।     
+मा य॒ज्ञँ हिँ॑सिष्ट॒म्  
 मा य॒ज्ञप॑तिञ् +++(हे)+++ जातवेदसौ ।  
 शि॒वौ भ॑वतम् अ॒द्य नः॑ ॥
 </details>
@@ -384,8 +384,8 @@ be ye two auspicious to-day with us.
 </details>
 <details><summary>मूलम्</summary>
 
-भव॑तं न॒स्सम॑नसौ॒ समो॑कसावरे॒पसौ᳚ ।  
-मा य॒ज्ञꣳ हिꣳ॑सिष्ट॒म्मा य॒ज्ञप॑तिञ्जातवेदसौ ।  
+भव॑तं न॒स्सम॑नसौ॒ समो॑कसावरे॒पसौ॑ ।  
+मा य॒ज्ञँ हिँ॑सिष्ट॒म्मा य॒ज्ञप॑तिञ्जातवेदसौ ।  
 शि॒वौ भ॑वतम॒द्य नः॑ ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -416,7 +416,7 @@ _______
 अ॒ग्नाव् अ॒ग्निश् च॑रति॒ प्रवि॑ष्ट॒  
 ऋषी॑णाम् पु॒त्त्रो अ॑धिरा॒ज ए॒षः ।    
 स्वा॒हा॒-कृत्य॒ ब्रह्म॑णा ते जुहोमि॒  
-मा दे॒वाना᳚म् मिथु॒या क॑र् भाग॒-धेय᳚म् ॥ [13]
+मा दे॒वाना॑म् मिथु॒या क॑र् भाग॒-धेय॑म् ॥ [13]
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/07_pashUpAkaraNam/03_agnAv_agnish.md">
@@ -431,7 +431,7 @@ Do thou not spoil the share of the gods.
 <details><summary>मूलम्</summary>
 
 अ॒ग्नाव॒ग्निश्च॑रति॒ प्रवि॑ष्ट॒ ऋषी॑णाम्पु॒त्त्रो अ॑धिरा॒ज ए॒षः ।    
-स्वा॒हा॒कृत्य॒ ब्रह्म॑णा ते जुहोमि॒ मा दे॒वाना᳚म्मिथु॒या क॑र्भाग॒धेय᳚म् ॥ [13]
+स्वा॒हा॒कृत्य॒ ब्रह्म॑णा ते जुहोमि॒ मा दे॒वाना॑म्मिथु॒या क॑र्भाग॒धेय॑म् ॥ [13]
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

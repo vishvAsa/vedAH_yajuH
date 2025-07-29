@@ -266,7 +266,7 @@ ________________
 </div>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒श्विभ्या᳚न्त्वा ।
+अ॒श्विभ्या॑न्त्वा ।
 </details>
 <details><summary>Keith</summary>
 
@@ -274,7 +274,7 @@ to the Aśvins thee!
 </details>
 <details><summary>मूलम्</summary>
 
-अ॒श्विभ्या᳚न्त्वा ।
+अ॒श्विभ्या॑न्त्वा ।
 </details>
 
 _______
@@ -284,7 +284,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ष ते॒ योनि॒र्; माध्वी᳚भ्यान् त्वा ॥ [7]  
+ए॒ष ते॒ योनि॒र्; माध्वी॑भ्यान् त्वा ॥ [7]  
 </details>
 <details><summary>Keith</summary>
 
@@ -292,7 +292,7 @@ This is thy birthplace; to the sweet thee!
 </details>
 <details><summary>मूलम्</summary>
 
-ए॒ष ते॒ योनि॒र्माध्वी᳚भ्यान्त्वा ॥ [7]  
+ए॒ष ते॒ योनि॒र्माध्वी॑भ्यान्त्वा ॥ [7]  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

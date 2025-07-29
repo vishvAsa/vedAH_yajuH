@@ -10,7 +10,7 @@ title = "२१ माहेन्द्रग्रहः"
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-1बृहत्पृष्ठपक्षे माहेन्द्रं गृह्णाति - महाꣳइन्द्रो नृवदिति चतुष्पदया त्रिष्टुभा ॥
+1बृहत्पृष्ठपक्षे माहेन्द्रं गृह्णाति - महाँइन्द्रो नृवदिति चतुष्पदया त्रिष्टुभा ॥
 </details>
 <div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/019/01_mahA_N_indro.md">
 <details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>

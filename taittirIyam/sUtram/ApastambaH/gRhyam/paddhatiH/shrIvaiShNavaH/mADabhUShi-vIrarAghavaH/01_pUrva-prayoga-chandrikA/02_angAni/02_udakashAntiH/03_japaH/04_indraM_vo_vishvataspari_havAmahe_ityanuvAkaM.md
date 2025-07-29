@@ -1224,7 +1224,7 @@ Dir räumten alles ein die Götter alle, der grossen Indramacht beim Vritrakampf
 <details open><summary><h9>आ यस्मिन् ...{Loading}...</h9></summary>
 
 
-आ यस्मि᳚न्थ् +++(विषुवकाले रोहिण्यां स्थिते पुरा)+++ स॒प्त +++(कृत्तिकास्थाः अश्वाः?)+++ **वा॑स॒वास्**  
+आ यस्मि॑न्थ् +++(विषुवकाले रोहिण्यां स्थिते पुरा)+++ स॒प्त +++(कृत्तिकास्थाः अश्वाः?)+++ **वा॑स॒वास्**  
 **तिष्ठ॑न्ति** स्व्-आ॒रुहो॑ यथा ।  
 ऋषि॑र्+++(→सूर्यः)+++ ह दीर्घ॒-श्रुत्त॑म॒  
 इन्द्र॑स्य घ॒र्मो+++(→सूर्यः, प्रवर्ग्यपात्रम्)+++ अति॑थिः  ॥
@@ -1243,7 +1243,7 @@ The glowing pot is the guest of Indra.
 </details>
 <details><summary>मूलम्</summary>
 
-आ यस्मि᳚न्थ्स॒प्त वा॑स॒वास्तिष्ठ॑न्ति स्वा॒रुहो॑ यथा ।  
+आ यस्मि॑न्त्स॒प्त वा॑स॒वास्तिष्ठ॑न्ति स्वा॒रुहो॑ यथा ।  
 ऋषि॑र्ह दीर्घ॒श्रुत्त॑म॒ इन्द्र॑स्य घ॒र्मो अति॑थिः  ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -2184,10 +2184,10 @@ Die Sänger singen dir ein Lied und Preisgesang die preisenden; Die Beter haben 
 <details open><summary><h9>अंहोमुचे प्र ...{Loading}...</h9></summary>
 
 
-अ॒ꣳ॒हो॒मुचे॒ प्र **भ॑रेमा** मनी॒षाम्  
+अँ॒हो॒मुचे॒ प्र **भ॑रेमा** मनी॒षाम्  
 ओ॑षिष्ठ॒+++(←ओष दाहे)+++-दाव्न्ने॑+++(=दात्रे)+++ सुम॒तिङ् गृ॑णा॒नाः ।   
 इ॒दम् इ॑न्द्र॒ प्रति॑ ह॒व्यङ् **गृ॑भाय**+++(←गृह्)+++  
-स॒त्यास् **स॑न्तु॒** यज॑मानस्य॒ कामाः᳚  ॥
+स॒त्यास् **स॑न्तु॒** यज॑मानस्य॒ कामाः॑  ॥
 
 </details>
 </div>
@@ -2202,8 +2202,8 @@ May the desires of the sacrificer be fulfilled.
 </details>
 <details><summary>मूलम्</summary>
 
-अ॒ꣳ॒हो॒मुचे॒ प्र भ॑रेमा मनी॒षामो॑षिष्ठ॒दाव्न्ने॑ सुम॒तिङ्गृ॑णा॒नाः ।   
-इ॒दमि॑न्द्र॒ प्रति॑ ह॒व्यङ्गृ॑भाय स॒त्यास्स॑न्तु॒ यज॑मानस्य॒ कामाः᳚  ॥
+अँ॒हो॒मुचे॒ प्र भ॑रेमा मनी॒षामो॑षिष्ठ॒दाव्न्ने॑ सुम॒तिङ्गृ॑णा॒नाः ।   
+इ॒दमि॑न्द्र॒ प्रति॑ ह॒व्यङ्गृ॑भाय स॒त्यास्स॑न्तु॒ यज॑मानस्य॒ कामाः॑  ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -2594,8 +2594,8 @@ Wenn mich der Trunk ergriffen und erregt hat, dann preis' ich Indra vor dem Tag 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/12_kAmyeShTi-mantrAH/02_pra_samrAjam.md">
 <details open><summary><h8>विश्वास-प्रस्तुतिः ...{Loading}...</h8></summary>
 
-प्र स॒म्राज॑म्, प्रथ॒मम् अ॑ध्व॒राणा᳚म्, [48]   
-अꣳहो॒मुच॑व्ँ, वृष॒भय्ँ य॒ज्ञिया॑नाम् ।  
+प्र स॒म्राज॑म्, प्रथ॒मम् अ॑ध्व॒राणा॑म्, [48]   
+अँहो॒मुच॑व्ँ, वृष॒भय्ँ य॒ज्ञिया॑नाम् ।  
 अ॒पान् नपा॑तम्, अश्विना॒ हय॑न्तम्+++(←हय गतौ)+++  
 अ॒स्मिन् न॑र इन्द्रि॒यन् ध॑त्त॒म् ओजः॑  ॥
 </details>
@@ -2611,8 +2611,8 @@ Do ye confer power and strength on this one.
 </details>
 <details><summary>मूलम्</summary>
 
-प्र स॒म्राज॑म्प्रथ॒मम॑ध्व॒राणा᳚म् [48]   
-अꣳहो॒मुच॑व्ँवृष॒भय्ँय॒ज्ञिया॑नाम् ।  
+प्र स॒म्राज॑म्प्रथ॒मम॑ध्व॒राणा॑म् [48]   
+अँहो॒मुच॑व्ँवृष॒भय्ँय॒ज्ञिया॑नाम् ।  
 अ॒पान्नपा॑तमश्विना॒ हय॑न्तम्  
 अ॒स्मिन्न॑र इन्द्रि॒यन्ध॑त्त॒मोजः॑  ॥
 </details>
@@ -2646,8 +2646,8 @@ Do ye confer power and strength on this one.
 
 वि न॑ इन्द्र॒ मृधो॑+++(=योद्धॄन्)+++ जहि  
 नी॒चा य॑च्छ पृतन्य॒तः+++(←पृतना + क्यच्)+++ ।   
-अ॒ध॒स्-प॒दन् तम् ई᳚ङ् कृधि॒  
-यो अ॒स्माꣳ अ॑भि॒दास॑ति+++(←दसु उपक्षये)+++  ॥
+अ॒ध॒स्-प॒दन् तम् ई॑ङ् कृधि॒  
+यो अ॒स्माँ अ॑भि॒दास॑ति+++(←दसु उपक्षये)+++  ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/12_kAmyeShTi-mantrAH/03_vi_na.md">
@@ -2662,7 +2662,7 @@ Who is hostile to us.
 <details><summary>मूलम्</summary>
 
 वि न॑ इन्द्र॒ मृधो॑ जहि नी॒चा य॑च्छ पृतन्य॒तः ।   
-अ॒ध॒स्प॒दन्तमी᳚ङ्कृधि॒ यो अ॒स्माꣳ अ॑भि॒दास॑ति  ॥
+अ॒ध॒स्प॒दन्तमी॑ङ्कृधि॒ यो अ॒स्माँ अ॑भि॒दास॑ति  ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -2972,8 +2972,8 @@ Zu grosser Macht und Herrschaft bist du, Indra, geboren als der Lebenden Gebiete
 
 **मृ॒गो** न भी॒मᳵ कु॑च॒रो गि॑रि॒ष्ठाᳶ  
 प॑रा॒वतः॒ [49] **आ ज॑गामा॒** पर॑स्याः ।  
-सृ॒कꣳ+++(←सृ|सृक्)+++ **स॒ꣳ॒शाय॑** प॒विम् इ॑न्द्र ति॒ग्मव्ँ  
-वि शत्रू᳚न् ताढि॒ वि मृधो॑+++(=योद्धॄन्)+++ **नुदस्व**  ॥
+सृ॒कँ+++(←सृ|सृक्)+++ **सँ॒शाय॑** प॒विम् इ॑न्द्र ति॒ग्मव्ँ  
+वि शत्रू॑न् ताढि॒ वि मृधो॑+++(=योद्धॄन्)+++ **नुदस्व**  ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/12_kAmyeShTi-mantrAH/04_mRgo_na.md">
@@ -2987,7 +2987,7 @@ Smite the foes, drive away the enemy.
 <details><summary>मूलम्</summary>
 
 मृ॒गो न भी॒मᳵ कु॑च॒रो गि॑रि॒ष्ठाᳶ प॑रा॒वतः॒ [49] आ ज॑गामा॒ पर॑स्याः ।  
-सृ॒कꣳ स॒ꣳ॒शाय॑ प॒विमि॑न्द्र ति॒ग्मव्ँवि शत्रू᳚न्ताढि॒ वि मृधो॑ नुदस्व  ॥
+सृ॒कँ सँ॒शाय॑ प॒विमि॑न्द्र ति॒ग्मव्ँवि शत्रू॑न्ताढि॒ वि मृधो॑ नुदस्व  ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -3055,9 +3055,9 @@ Of him who is hostile to us.
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/12_kAmyeShTi-mantrAH/06_trAtAram_indram.md">
 <details open><summary><h8>विश्वास-प्रस्तुतिः ...{Loading}...</h8></summary>
 
-त्रा॒तार॒म् इन्द्र॑म् अवि॒तार॒म् इन्द्र॒ꣳ॒  
-हवे॑हवे सु॒हव॒ꣳ॒ शूर॒म् इन्द्र᳚म् ।   
-**हु॒वे** नु श॒क्रम् पु॑रुहू॒तम् इन्द्रꣵ॑  
+त्रा॒तार॒म् इन्द्र॑म् अवि॒तार॒म् इन्द्रँ॒  
+हवे॑हवे सु॒हवँ॒ शूर॒म् इन्द्र॑म् ।   
+**हु॒वे** नु श॒क्रम् पु॑रुहू॒तम् इन्द्रँ॑  
 स्व॒स्ति नो॑ म॒घवा॑ **धा॒त्व्** इन्द्रः॑  ॥
 </details>
 </div>
@@ -3072,8 +3072,8 @@ May Indra in his bounty bestow on us prosperity
 </details>
 <details><summary>मूलम्</summary>
 
-त्रा॒तार॒मिन्द्र॑मवि॒तार॒मिन्द्र॒ꣳ॒ हवे॑हवे सु॒हव॒ꣳ॒ शूर॒मिन्द्र᳚म् ।   
-हु॒वे नु श॒क्रम्पु॑रुहू॒तमिन्द्रꣵ॑ स्व॒स्ति नो॑ म॒घवा॑ धा॒त्विन्द्रः॑  ॥
+त्रा॒तार॒मिन्द्र॑मवि॒तार॒मिन्द्रँ॒ हवे॑हवे सु॒हवँ॒ शूर॒मिन्द्र॑म् ।   
+हु॒वे नु श॒क्रम्पु॑रुहू॒तमिन्द्रँ॑ स्व॒स्ति नो॑ म॒घवा॑ धा॒त्विन्द्रः॑  ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

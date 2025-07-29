@@ -999,7 +999,7 @@ _______
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **तु॒थो** वो॑ वि॒श्ववे॑दा॒  
-**वि भ॑जतु॒** वर्षि॑ष्ठे॒ अधि॒ नाके᳚ ॥
+**वि भ॑जतु॒** वर्षि॑ष्ठे॒ अधि॒ नाके॑ ॥
 </details>
 <details><summary>Keith</summary>
 
@@ -1007,7 +1007,7 @@ May Tutha, all knowing, allot to you in the highest firmament.
 </details>
 <details><summary>मूलम्</summary>
 
-तु॒थो वो॑ वि॒श्ववे॑दा॒ वि भ॑जतु॒ वर्षि॑ष्ठे॒ अधि॒ नाके᳚ ॥
+तु॒थो वो॑ वि॒श्ववे॑दा॒ वि भ॑जतु॒ वर्षि॑ष्ठे॒ अधि॒ नाके॑ ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -1015,7 +1015,7 @@ May Tutha, all knowing, allot to you in the highest firmament.
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-ए॒तत्ते॑ अग्ने॒ राध॒ ऐति॒ सोम॑च्युत॒न्तन्मि॒त्रस्य॑ प॒था न॑य॒र्तस्य॑ प॒था प्रेत॑ च॒न्द्रद॑ख्षिणा य॒ज्ञस्य॑ प॒था सु॑वि॒ता नय॑न्तीः 
+ए॒तत्ते॑ अग्ने॒ राध॒ ऐति॒ सोम॑च्युत॒न्तन्मि॒त्रस्य॑ प॒था न॑य॒र्तस्य॑ प॒था प्रेत॑ च॒न्द्रद॑क्षिणा य॒ज्ञस्य॑ प॒था सु॑वि॒ता नय॑न्तीः 
 </details>
 
 _______
@@ -1028,7 +1028,7 @@ _______
 
 ए॒तत् ते॑ अग्ने॒ **राध॒ ऐति॒** सोम॑-च्युतम् ..   
 तन् **मि॒त्रस्य॑ प॒था न॑य** ।   
-ऋ॒तस्य॑ प॒था **प्रेत॑ च॒न्द्र+++(=भ्राजमद्)+++-द॑ख्षिणा** ..   
+ऋ॒तस्य॑ प॒था **प्रेत॑ च॒न्द्र+++(=भ्राजमद्)+++-द॑क्षिणा** ..   
 य॒ज्ञस्य॑ प॒था सु॑वि॒ता+++(=सु+इता)+++ नय॑न्तीः ॥
 </details>
 </div>
@@ -1045,7 +1045,7 @@ Leading prosperity by the path of the sacrifice.
 
 ए॒तत्ते॑ अग्ने॒ राध॒ ऐति॒ सोम॑च्युतम् ..   
 तन्मि॒त्रस्य॑ प॒था न॑य ।   
-ऋ॒तस्य॑ प॒था प्रेत॑ च॒न्द्रद॑ख्षिणा ..   
+ऋ॒तस्य॑ प॒था प्रेत॑ च॒न्द्रद॑क्षिणा ..   
 य॒ज्ञस्य॑ प॒था सु॑वि॒ता नय॑न्तीः ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1073,9 +1073,9 @@ _______
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/44-45_daxiNAsangatAmantrAH_dAxiNahomAdiH/04_brAhmaNam_adya.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-**ब्रा॒ह्म॒णम्** अ॒द्य **रा᳚ध्यास॒म्**+++(=साधयेयं)+++  
+**ब्रा॒ह्म॒णम्** अ॒द्य **रा॑ध्यास॒म्**+++(=साधयेयं)+++  
 ऋषि॑म् आर्षे॒यम् पि॑तृ॒मन्त॑म्  
-पैतृम॒त्यꣳ+++(←पितृमत् + ण्यः)+++ सु॒-धातु॑-दख्षिणम् ।
+पैतृम॒त्यँ+++(←पितृमत् + ण्यः)+++ सु॒-धातु॑-दक्षिणम् ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/44-45_daxiNAsangatAmantrAH_dAxiNahomAdiH/04_brAhmaNam_adya.md">
@@ -1086,7 +1086,7 @@ May I win a Brahman to-day, a seer and sprung from seers, of (famous) father and
 </details>
 <details><summary>मूलम्</summary>
 
-ब्रा॒ह्म॒णम॒द्य रा᳚ध्यास॒मृषि॑मार्षे॒यम्पि॑तृ॒मन्त॑म्पैतृम॒त्यꣳ सु॒धातु॑दख्षिणम् ।
+ब्रा॒ह्म॒णम॒द्य रा॑ध्यास॒मृषि॑मार्षे॒यम्पि॑तृ॒मन्त॑म्पैतृम॒त्यँ सु॒धातु॑दक्षिणम् ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -1108,7 +1108,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वि **सुव॒ᳶ पश्य॒** व्य॑न्तरि॑ख्षम्  +++(पश्य)+++ ।
+वि **सुव॒ᳶ पश्य॒** व्य॑न्तरि॑क्षम्  +++(पश्य)+++ ।
 </details>
 <details><summary>Keith</summary>
 
@@ -1116,7 +1116,7 @@ Gaze on the heaven, gaze on the atmosphere.
 </details>
 <details><summary>मूलम्</summary>
 
-वि सुव॒ᳶ पश्य॒ व्य॑न्तरि॑ख्षम्  +++(पश्य)+++ ।
+वि सुव॒ᳶ पश्य॒ व्य॑न्तरि॑क्षम्  +++(पश्य)+++ ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -1130,7 +1130,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-**यत॑स्व**  सद॒स्यैः᳚ ।
+**यत॑स्व**  सद॒स्यैः॑ ।
 </details>
 <details><summary>Keith</summary>
 
@@ -1138,7 +1138,7 @@ Join those in the seat.
 </details>
 <details><summary>मूलम्</summary>
 
-यत॑स्व  सद॒स्यैः᳚ ।
+यत॑स्व  सद॒स्यैः॑ ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -1153,11 +1153,11 @@ _______
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-अस्मद्दा᳚त्रा देव॒त्रा ग॑च्छत॒ मधु॑मतीᳶ प्रदा॒तार॒मा वि॑श॒तान॑वहाया॒स्मान्दे॑व॒याने॑न प॒थेत॑ सु॒कृता᳚ल्ँलो॒के सी॑दत॒ तन्न॑स्सꣵस्कृ॒तम् ॥ [45]
+अस्मद्दा॑त्रा देव॒त्रा ग॑च्छत॒ मधु॑मतीᳶ प्रदा॒तार॒मा वि॑श॒तान॑वहाया॒स्मान्दे॑व॒याने॑न प॒थेत॑ सु॒कृता॑ल्ँलो॒के सी॑दत॒ तन्न॑स्सँस्कृ॒तम् ॥ [45]
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒स्मद्-दा᳚त्रा! **देव॒त्रा ग॑च्छत** ।  
+अ॒स्मद्-दा॑त्रा! **देव॒त्रा ग॑च्छत** ।  
 मधु॑मतीᳶ **प्रदा॒तार॒म् आ वि॑शत**।  
 </details>
 <details><summary>Keith</summary>
@@ -1167,7 +1167,7 @@ full of sweetness; enter the giver;
 </details>
 <details><summary>मूलम्</summary>
 
-अ॒स्मद्दा᳚त्रा राा देव॒त्रा ग॑च्छत ।  
+अ॒स्मद्दा॑त्रा राा देव॒त्रा ग॑च्छत ।  
 मधु॑मतीᳶ प्रदा॒तार॒मा वि॑शत।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1179,8 +1179,8 @@ full of sweetness; enter the giver;
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन॑वहाया॒स्मान् **दे॑व॒याने॑न प॒थेत॑** ।  
-सु॒कृता᳚ल्ँ लो॒के **सी॑दत** ।  
-+++(स्थानं)+++ तन् न॑स् सꣵस्कृ॒तम् ॥ [45]
+सु॒कृता॑ल्ँ लो॒के **सी॑दत** ।  
++++(स्थानं)+++ तन् न॑स् सँस्कृ॒तम् ॥ [45]
 </details>
 <details><summary>Keith</summary>
 
@@ -1191,8 +1191,8 @@ Be this complete for us.
 <details><summary>मूलम्</summary>
 
 अन॑वहाया॒स्मान्दे॑व॒याने॑न प॒थेत॑ ।  
-सु॒कृता᳚ल्ँलो॒के सी॑दत ।  
-तन्न॑स्सꣵस्कृ॒तम् ॥ [45]
+सु॒कृता॑ल्ँलो॒के सी॑दत ।  
+तन्न॑स्सँस्कृ॒तम् ॥ [45]
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

@@ -14,7 +14,7 @@ title = "०३ प्रणीति-पात्रम्"
 </div>
 
 
-'घ॒र्मो दे॒वाꣳ अप्ये॑तु' इति अन्यपात्रम् आनीय तस्मिन् पात्रे जलं पूरयित्वा व्याहृतिभिरुपतिष्ठेत । 
+'घ॒र्मो दे॒वाँ अप्ये॑तु' इति अन्यपात्रम् आनीय तस्मिन् पात्रे जलं पूरयित्वा व्याहृतिभिरुपतिष्ठेत । 
 
 **यदि** प्रणीताः प्रणीयमाना वा सर्वा आपः **परासिच्येरन्**  
 ‘अक्षितोस्यक्षित्यै त्वा मा मे क्षेष्ठा अमुत्रामुष्मिन्लोके' इत्यभिमन्त्र्य  
@@ -23,11 +23,11 @@ title = "०३ प्रणीति-पात्रम्"
 <details open><summary><h5>अक्षितोऽसि ...{Loading}...</h5></summary>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-अख्षि॑तो॒ऽस्यख्षि॑त्यै त्वा॒ मा मे᳚ ख्षेष्ठा अ॒मुत्रा॒मुष्मि॑न्लो॒के  ॥
+अक्षि॑तो॒ऽस्यक्षि॑त्यै त्वा॒ मा मे॑ क्षेष्ठा अ॒मुत्रा॒मुष्मि॑न्लो॒के  ॥
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अख्षि॑तो॒ऽसि ।
+अक्षि॑तो॒ऽसि ।
 </details>
 <details><summary>Keith</summary>
 
@@ -35,7 +35,7 @@ Thou art imperishable,
 </details>
 <details><summary>मूलम्</summary>
 
-अख्षि॑तो॒ऽसि ।
+अक्षि॑तो॒ऽसि ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -43,7 +43,7 @@ Thou art imperishable,
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अख्षि॑त्यै त्वा +++(ददामि)+++।
+अक्षि॑त्यै त्वा +++(ददामि)+++।
 </details>
 <details><summary>Keith</summary>
 
@@ -51,7 +51,7 @@ for imperishableness thee;
 </details>
 <details><summary>मूलम्</summary>
 
-अख्षि॑त्यै त्वा ।
+अक्षि॑त्यै त्वा ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -59,7 +59,7 @@ for imperishableness thee;
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मा मे᳚ ख्षेष्ठा अ॒मुत्रा॒मुष्मि॑न् लो॒के  ॥  [10]
+मा मे॑ क्षेष्ठा अ॒मुत्रा॒मुष्मि॑न् लो॒के  ॥  [10]
 </details>
 <details><summary>Keith</summary>
 
@@ -67,7 +67,7 @@ mayst thou not perish for me, yonder, in yonder world.
 </details>
 <details><summary>मूलम्</summary>
 
-मा मे᳚ ख्षेष्ठा अ॒मुत्रा॒मुष्मि॑न्लो॒के  ॥  [10]
+मा मे॑ क्षेष्ठा अ॒मुत्रा॒मुष्मि॑न्लो॒के  ॥  [10]
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -143,7 +143,7 @@ mayst thou not perish for me, yonder, in yonder world.
 
 त॒तम् म॒ आप॒स् तद् उ॑ तायते॒ पुनः॑ ।  
 स्वादि॑ष्ठा धी॒तिर्+++(=धारकं हविः)+++ उ॒चथा॑य+++(=कर्मणे)+++ शस्यते ।  
-अ॒यꣳ स॑मु॒द्र उ॒त वि॒श्व-भे॑षजः ।  
+अ॒यँ स॑मु॒द्र उ॒त वि॒श्व-भे॑षजः ।  
 स्वाहा॑-कृतस्य॒ सम् उ॑ तृप्णुत+++(=तृप्यत)++++ऋभुवः ।
 </details>
 </div>

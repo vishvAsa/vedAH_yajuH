@@ -15,13 +15,13 @@ title = "०६ अग्नि-सन्धान-प्रयोगः"
 <details open><summary><h10>नमस् सदसे ...{Loading}...</h10></summary>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-नम॒स्सद॑से॒ नम॒स्सद॑स॒स्पत॑ये॒ नम॒स्सखी॑नाम्पुरो॒गाणा॒ञ्चख्षु॑षे॒ नमो॑ दि॒वे नमᳶ॑ पृथि॒व्यै
+नम॒स्सद॑से॒ नम॒स्सद॑स॒स्पत॑ये॒ नम॒स्सखी॑नाम्पुरो॒गाणा॒ञ्चक्षु॑षे॒ नमो॑ दि॒वे नमᳶ॑ पृथि॒व्यै
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नम॒स् सद॑से॥  
 नम॒स् सद॑स॒स्-पत॑ये॥    
-नम॒स् सखी॑नाम् पुरो॒गाणा॒ञ् चख्षु॑षे॥    
+नम॒स् सखी॑नाम् पुरो॒गाणा॒ञ् चक्षु॑षे॥    
 नमो॑ दि॒वे॥   
 नमᳶ॑ पृथि॒व्यै॥
 </details>
@@ -29,7 +29,7 @@ title = "०६ अग्नि-सन्धान-प्रयोगः"
 
 नम॒स्सद॑से  
 नम॒स्सद॑स॒स्पत॑ये    
-नम॒स्सखी॑नाम्पुरो॒गाणा॒ञ्चख्षु॑षे    
+नम॒स्सखी॑नाम्पुरो॒गाणा॒ञ्चक्षु॑षे    
 नमो॑ दि॒वे   
 नमᳶ॑ पृथि॒व्यै
 </details>
@@ -43,7 +43,7 @@ title = "०६ अग्नि-सन्धान-प्रयोगः"
 <details open><summary><h9>267 सप्रथ सभाम् ...{Loading}...</h9></summary>
 
 सप्र॑थ स॒भाम् मे॑ गोपाय ।  
-ये च॒ सभ्या᳚स् सभा॒सदः॑ ।  
+ये च॒ सभ्या॑स् सभा॒सदः॑ ।  
 तानि॑न्द्रि॒याव॑तᳵ कुरु ।  
 सर्व॒म् आयु॒र् उपा॑सताम् ।
 </details>
@@ -391,15 +391,15 @@ title = "०६ अग्नि-सन्धान-प्रयोगः"
 ### व्याहृतयः
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/baudhAyanaH/gRhyam/mantraH/yajuH/sarva-prastutiH/bhUr_bhuvas_suvas_svAhA.md">
-<details open><summary><h5>भूर् भुव॒स् सु॒व॒स् स्वाहा᳚ ...{Loading}...</h5></summary>
+<details open><summary><h5>भूर् भुव॒स् सु॒व॒स् स्वाहा॑ ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ओं भूर् भुव॒स् सुव॒स् स्वाहा᳚ ॥  
+ओं भूर् भुव॒स् सुव॒स् स्वाहा॑ ॥  
 (प्रजापतय इदं न मम) ॥१॥
 </details>
 <details><summary>मूलम्</summary>
 
-ओं भूर् भुव॒स् सुव॒स् स्वाहा᳚ ॥  
+ओं भूर् भुव॒स् सुव॒स् स्वाहा॑ ॥  
 (प्रजापतय इदं न मम) ॥१॥
 </details>
 </details>
@@ -412,10 +412,10 @@ title = "०६ अग्नि-सन्धान-प्रयोगः"
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/35_anAjnAtay.NyadAjnAtam_yajnasya.md">
 <details open><summary><h4>35 अनाज्ञातय्ँयदाज्ञातम् यज्ञस्य ...{Loading}...</h4></summary>
 
-अना᳚ज्ञात॒य्ँयदाज्ञा॑तम् ।  
+अना॑ज्ञात॒य्ँयदाज्ञा॑तम् ।  
 य॒ज्ञस्य॑ क्रि॒यते॒ मिथु॑ ।  
 अग्ने॒ तद॑स्य कल्पय ।  
-त्वꣳ हि वेत्थ॑ यथात॒थम् ।
+त्वँ हि वेत्थ॑ यथात॒थम् ।
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/38_puruShasammito_yajnaH.md">
@@ -424,16 +424,16 @@ title = "०६ अग्नि-सन्धान-प्रयोगः"
 पुरु॑षसम्मितो य॒ज्ञः ।  
 य॒ज्ञᳶ पुरु॑षसम्मितः ।  
 अग्ने॒ तद॑स्य कल्पय ।  
-त्वꣳ हि वेत्थ॑ यथात॒थम् ।
+त्वँ हि वेत्थ॑ यथात॒थम् ।
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/41_yatpAkatrA_manasA.md">
 <details open><summary><h4>41 यत्पाकत्रा मनसा ...{Loading}...</h4></summary>
 
-यत्पा॑क॒त्रा मन॑सा दी॒नद॑ख्षा॒ न ।  
+यत्पा॑क॒त्रा मन॑सा दी॒नद॑क्षा॒ न ।  
 य॒ज्ञस्य॑ म॒न्वते॒ मर्ता॑सः ।  
 अ॒ग्निष्टद्धोता॑ क्रतु॒विद्वि॑जा॒नन्न् ।  
-यजि॑ष्ठो दे॒वाꣳ ऋ॑तु॒शो य॑जाति ॥115॥
+यजि॑ष्ठो दे॒वाँ ऋ॑तु॒शो य॑जाति ॥115॥
 </details>
 </div>
 
@@ -466,7 +466,7 @@ title = "०६ अग्नि-सन्धान-प्रयोगः"
 पुन॑स् त्वा ऽऽदि॒त्या रु॒द्रा वस॑वः॒ **समि॑न्धतां॒**,  
 पुन॑र् ब्र॒ह्माणो॑ वसुनीथ! य॒ज्ञैः ।  
 घृ॒तेन॒ त्वं त॒नुवो॑ **वर्धयस्व**,  
-स॒त्याः **स॑न्तु॒** यज॑मानस्य॒ कामाः᳚ ॥
+स॒त्याः **स॑न्तु॒** यज॑मानस्य॒ कामाः॑ ॥
 
 +++(अग्नये वसुनीथायेदं न मम॥)+++
 </details>
@@ -475,7 +475,7 @@ title = "०६ अग्नि-सन्धान-प्रयोगः"
 <details open><summary><h4>27 मनो ज्योतिर् ...{Loading}...</h4></summary>
 
 मनो॒ ज्योति॑र् **जुषता॒म्**, आज्य॒व्ँ  
-विच्छि॑न्नय्ँ **य॒ज्ञꣳ सम्** इ॒मन् **द॑धातु** ।  
+विच्छि॑न्नय्ँ **य॒ज्ञँ सम्** इ॒मन् **द॑धातु** ।  
 या +++(अन्यैर्)+++ **इ॒ष्टा उ॒षसो॑**, +++(मया तु)+++  नि॒-म्रुच॑श्+++(←स्तेये)+++ च॒  
 तास् **सन्द॑धामि** ह॒विषा॑ घृ॒तेन॑  ॥
 
@@ -530,15 +530,15 @@ title = "०६ अग्नि-सन्धान-प्रयोगः"
 
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/baudhAyanaH/gRhyam/mantraH/yajuH/sarva-prastutiH/bhUr_bhuvas_suvas_svAhA.md">
-<details open><summary><h5>भूर् भुव॒स् सु॒व॒स् स्वाहा᳚ ...{Loading}...</h5></summary>
+<details open><summary><h5>भूर् भुव॒स् सु॒व॒स् स्वाहा॑ ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ओं भूर् भुव॒स् सुव॒स् स्वाहा᳚ ॥  
+ओं भूर् भुव॒स् सुव॒स् स्वाहा॑ ॥  
 (प्रजापतय इदं न मम) ॥१॥
 </details>
 <details><summary>मूलम्</summary>
 
-ओं भूर् भुव॒स् सुव॒स् स्वाहा᳚ ॥  
+ओं भूर् भुव॒स् सुव॒स् स्वाहा॑ ॥  
 (प्रजापतय इदं न मम) ॥१॥
 </details>
 </details>
@@ -548,10 +548,10 @@ title = "०६ अग्नि-सन्धान-प्रयोगः"
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/35_anAjnAtay.NyadAjnAtam_yajnasya.md">
 <details open><summary><h4>35 अनाज्ञातय्ँयदाज्ञातम् यज्ञस्य ...{Loading}...</h4></summary>
 
-अना᳚ज्ञात॒य्ँयदाज्ञा॑तम् ।  
+अना॑ज्ञात॒य्ँयदाज्ञा॑तम् ।  
 य॒ज्ञस्य॑ क्रि॒यते॒ मिथु॑ ।  
 अग्ने॒ तद॑स्य कल्पय ।  
-त्वꣳ हि वेत्थ॑ यथात॒थम् ।
+त्वँ हि वेत्थ॑ यथात॒थम् ।
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/38_puruShasammito_yajnaH.md">
@@ -560,16 +560,16 @@ title = "०६ अग्नि-सन्धान-प्रयोगः"
 पुरु॑षसम्मितो य॒ज्ञः ।  
 य॒ज्ञᳶ पुरु॑षसम्मितः ।  
 अग्ने॒ तद॑स्य कल्पय ।  
-त्वꣳ हि वेत्थ॑ यथात॒थम् ।
+त्वँ हि वेत्थ॑ यथात॒थम् ।
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/41_yatpAkatrA_manasA.md">
 <details open><summary><h4>41 यत्पाकत्रा मनसा ...{Loading}...</h4></summary>
 
-यत्पा॑क॒त्रा मन॑सा दी॒नद॑ख्षा॒ न ।  
+यत्पा॑क॒त्रा मन॑सा दी॒नद॑क्षा॒ न ।  
 य॒ज्ञस्य॑ म॒न्वते॒ मर्ता॑सः ।  
 अ॒ग्निष्टद्धोता॑ क्रतु॒विद्वि॑जा॒नन्न् ।  
-यजि॑ष्ठो दे॒वाꣳ ऋ॑तु॒शो य॑जाति ॥115॥
+यजि॑ष्ठो दे॒वाँ ऋ॑तु॒शो य॑जाति ॥115॥
 </details>
 </div>
 
@@ -600,30 +600,30 @@ title = "०६ अग्नि-सन्धान-प्रयोगः"
 <details open><summary><h5>व्याहृति-होमाः ४ ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-(ओं) भूस्स्वाहा᳚ ॥
+(ओं) भूस्स्वाहा॑ ॥
 (अ॒ग्नय॑ +इ॒दं न म॑म)
 
-(ओं) भुव॒स्स्वाहा᳚ ॥
+(ओं) भुव॒स्स्वाहा॑ ॥
 (वा॒यव॑ +इ॒दं न म॑म)
 
-(ओं) सुव॒स्स्वाहा᳚ ॥  
+(ओं) सुव॒स्स्वाहा॑ ॥  
 (सूर्या॑य +इ॒दं न म॑म)
 
-(ओं) भूर्भुव॒स्सुव॒स्स्वाहा᳚ ॥  
+(ओं) भूर्भुव॒स्सुव॒स्स्वाहा॑ ॥  
 (प्र॒जाप॑तय +इ॒दं न म॑म)  
 </details>
 <details><summary>मूलम्</summary>
 
-(ओं) भूस्स्वाहा᳚ ॥
+(ओं) भूस्स्वाहा॑ ॥
 (अग्नय इदं न मम)
 
-(ओं) भुव॒स्स्वाहा᳚ ॥
+(ओं) भुव॒स्स्वाहा॑ ॥
 (वायव इदं न मम)
 
-(ओं) सुव॒स्स्वाहा᳚ ॥  
+(ओं) सुव॒स्स्वाहा॑ ॥  
 (सूर्याय इदं न मम)
 
-(ओं) भूर्भुव॒स्सुव॒स्स्वाहा᳚ ॥  
+(ओं) भूर्भुव॒स्सुव॒स्स्वाहा॑ ॥  
 (प्रजापतय इदं न मम)  
 
 </details>
