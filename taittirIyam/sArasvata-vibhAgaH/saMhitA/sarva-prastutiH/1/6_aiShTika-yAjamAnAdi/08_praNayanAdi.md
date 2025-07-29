@@ -533,7 +533,8 @@ After speaking he remains silent, to support the sacrifice.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथो॒ मन॑सा॒ वै प्र॒जाप॑तिर् य॒ज्ञम् अ॑तनुत ।  
-मन॑सै॒व तद् य॒ज्ञन् त॑नुते॒ रक्ष॑सा॒म् अन्-अ॑न्व्-अवचाराय ।
+मन॑सै॒व तद् य॒ज्ञन् त॑नुते॒  
+रक्ष॑सा॒म् अन्-अ॑न्व्-अवचाराय ।
 </details>
 <details><summary>Keith</summary>
 
@@ -569,7 +570,9 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो वै य॒ज्ञय्ँ योग॒ आग॑ते यु॒नक्ति॑ - यु॒ङ्क्ते यु॑ञ्जा॒नेषु॑ ।
+यो वै य॒ज्ञय्ँ  
+योग॒ आग॑ते यु॒नक्ति॑ -  
+यु॒ङ्क्ते यु॑ञ्जा॒नेषु॑ ।
 </details>
 <details><summary>Keith</summary>
 
@@ -597,7 +600,8 @@ He who yokes the sacrifice when the yoking (time) arrives yokes it indeed among 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"कस्त्वा॑ युनक्ति॒ स त्वा॑ युन॒क्त्व्" इत्य् आ॑ह ।   
+"कस् त्वा॑ युनक्ति॒  
+स त्वा॑ युन॒क्त्व्" इत्य् आ॑ह ।   
 प्र॒जाप॑ति॒र् वै कः,  
 प्र॒जाप॑तिनै॒वैन॑य्ँ युनक्ति,  
 यु॒ङ्क्ते यु॑ञ्जा॒नेषु॑ ॥ [28]
