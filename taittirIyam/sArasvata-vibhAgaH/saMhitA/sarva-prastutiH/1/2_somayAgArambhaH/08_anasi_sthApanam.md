@@ -198,7 +198,7 @@ ________
 वने॑षु॒ व्य॑न्तरि॑क्षन् ततान॒  
 वाज॒म्+++(=वेगम्)+++ अर्व॑त्सु॒+++(=अश्वेषु)+++, पयो॑ अघ्नि॒यासु॑+++(=गोषु)+++ ।  
 हृ॒त्सु क्रतु॒व्ँ वरु॑णो, वि॒क्ष्व्+++(=मर्त्येषु/ गृहेषु?)+++ अ॑ग्निं   
-दि॒वि सूर्य॑म् अदधा॒थ् सोम॒म् अद्रौ॑ ॥
+दि॒वि सूर्य॑म् अदधा॒त् सोम॒म् अद्रौ॑ ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/08_anasi_sthApanam/03_vaneShu_vyantarikhShan.md">
@@ -534,7 +534,7 @@ Tearless, slaying not man, furthering the prayer.
 
 <details><summary>पद-पाठः</summary>
 
-उस्रौ॑ । एति॑ । इ॒त॒म् । धू॒र्‌षा॒हा॒विति॑ धूः-सा॒हौ॒ । अ॒न॒श्रू इति॑ ।   
+उस्रौ॑ । एति॑ । इ॒त॒म् । धू॒र्षा॒हा॒विति॑ धूः-सा॒हौ॒ । अ॒न॒श्रू इति॑ ।   
 अवी॑रहणा॒वित्यवी॑र-ह॒नौ॒ । ब्र॒ह्म॒चोद॑ना॒विति॑ ब्रह्म-चोद॑नौ । 
 </details>
 

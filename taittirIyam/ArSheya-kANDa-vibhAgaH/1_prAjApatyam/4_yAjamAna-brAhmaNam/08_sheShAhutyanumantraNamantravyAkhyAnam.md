@@ -50,7 +50,7 @@ by Naraśansa Prajapati created cattle; verily he creates cattle.
 
 "नरा॒शँस॑स्या॒हन् दे॑वय॒ज्यया॑ पशु॒मान् भू॑यास॒म्" इत्य् आ॑ह ।  
 नरा॒शँसे॑न॒ वै प्र॒जाप॑तिᳶ प॒शून् अ॑सृजत ।  
-तेनै॒व प॒शून्थ् सृ॑जते ।   
+तेनै॒व प॒शून्त् सृ॑जते ।   
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

@@ -539,7 +539,7 @@ May that which is increased by the rain recognize thee.
 
 <details><summary>पद-पाठः</summary>
 
-प्रतीति॑ । त्वा॒ । व॒र्‌षवृ॑द्ध॒मिति॑ व॒र्‌ष-वृ॒द्ध॒म् । वे॒त्तु॒ ।
+प्रतीति॑ । त्वा॒ । व॒र्षवृ॑द्ध॒मिति॑ व॒र्ष-वृ॒द्ध॒म् । वे॒त्तु॒ ।
 </details>
 
 

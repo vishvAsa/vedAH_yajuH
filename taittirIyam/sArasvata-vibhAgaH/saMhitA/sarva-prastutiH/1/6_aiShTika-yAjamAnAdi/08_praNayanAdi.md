@@ -24,12 +24,12 @@ He who offers sacrifice without faith, they place not faith in his sacrifice. He
 </details>
 <details><summary>मूलम्</summary>
 
-यो वै श्र॒द्धामना॑रभ्य य॒ज्ञेन॒ यज॑ते  ।
+यो वै श्र॒द्धामना॑रभ्य य॒ज्ञेन॒ यज॑ते  ।  
 नास्ये॒ष्टाय॒ श्रद्द॑धते ।  
 अ॒पᳶ प्र ण॑यति ।  
 श्र॒द्धा वा आपः॑ । 
 श्र॒द्धामे॒वाऽऽरभ्य॑ य॒ज्ञेन॑ यजते ।  
-उ॒भये॑ऽस्य देवमनु॒ष्या इ॒ष्टाय॒ श्रद्द॑धते
+उ॒भये॑ऽस्य देवमनु॒ष्या इ॒ष्टाय॒ श्रद्द॑धते   
 </details>
 <details><summary>पद-पाठः</summary>
 
@@ -141,7 +141,7 @@ mind is this (earth) [1]; verily with this (earth) he brings them forward.
 
 <details><summary>पद-पाठः</summary>
 
-इ॒यम् । वै । मनः॑ ।
+इ॒यम् । वै । मनः॑ ।  
 अ॒नया॑ । ए॒व । ए॒नाः॒ । प्रेति॑ । न॒य॒ति॒ । 
 
 </details>
@@ -199,7 +199,7 @@ The sacrifice of him who knows thus does not spill.
 
 य॒ज्ञा॒यु॒धानि॒ सम्भ॑रति ।  
 य॒ज्ञो वै य॑ज्ञायु॒धानि॑ ।    
-य॒ज्ञम् ए॒व तथ् सम्भ॑रति ।  
+य॒ज्ञम् ए॒व तत् सम्भ॑रति ।  
 यद् एक॑म् एकँ स॒म्भरे॑त् - पितृ-देव॒त्या॑नि स्युः ।   
 यत् स॒ह सर्वा॑णि - मानु॒षाणि॑।  
 द्वे-द्वे॒ सम्भ॑रति -  
@@ -300,6 +300,7 @@ If a man knows the ten weapons of the sacrifice, his sacrifice is in order at th
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्फ्यश् [26] च॑ क॒पाला॑नि चाग्निहोत्र॒हव॑णी च  ..  
+.  
 </details>
 <details><summary>Keith</summary>
 
@@ -307,7 +308,7 @@ The wooden sword [2], the potsherds, the offering-spoon,
 </details>
 <details><summary>मूलम्</summary>
 
-स्फ्यश् [26] च॑ क॒पाला॑नि चाग्निहोत्र॒हव॑णी च  ..  
+स्फ्यश् [26] च॑ क॒पाला॑नि चाग्निहोत्र॒हव॑णी च  .  ..  
 </details>
 <details><summary>पद-पाठः</summary>
 
@@ -515,7 +516,7 @@ After speaking he remains silent, to support the sacrifice.
 </details>
 <details><summary>पद-पाठः</summary>
 
-तत् । उ॒दि॒त्वा । वाच॑म् । य॒च्छ॒ति॒ । य॒ज्ञस्य॑ । धृत्यै॑ ।
+तत् । उ॒दि॒त्वा । वाच॑म् । य॒च्छ॒ति॒ । य॒ज्ञस्य॑ । धृत्यै॑ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -636,4 +637,6 @@ He who yokes the sacrifice when the yoking (time) arrives yokes it indeed among 
 योगविध्युन्नयनमभिप्रेत्य तत्र करणभूतं मन्त्रमुदाहृत्य व्याचष्टे-  
 
 कस्त्वा युनक्तीति। अयमपि मन्त्रः पूर्वप्रपाठके समाम्नातः। यः प्रजापतिः सर्वदा सर्वेषां यजमानानां यज्ञं युनक्ति स एवाद्य मदीयं यज्ञं युनक्तु रथेऽश्वमिव मयि यज्ञं संबध्नातु। अनेन मन्त्रेण यज्ञं युञ्ज्यादित्युन्नीतो विधिः।  
+इति षष्ठेष्टमोनुवाकः ॥  
+
 </details>

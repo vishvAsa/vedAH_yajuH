@@ -112,7 +112,7 @@ He offers to the sacrificial strew, verily lie wins autumn.
 
 स्वा॒हा॒का॒रय्ँ य॑जति।   
 हे॒म॒न्तम् ए॒वाव॑ रुन्द्धे ।   
-तस्मा॒थ् स्वाहा॑कृता॒ हेम॑न् प॒शवोऽव॑ सीदन्ति ।
+तस्मा॒त् स्वाहा॑कृता॒ हेम॑न् प॒शवोऽव॑ सीदन्ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -844,7 +844,7 @@ They completed it with the cry of 'Hail!' in the fore-sacrifices.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि वा ए॒तद् य॒ज्ञञ् छि॑न्दन्ति॒  
-यथ् स्वा॑हाका॒रेण॑ प्रया॒जेषु॑ सँस्था॒पय॑न्ति।  
+यत् स्वा॑हाका॒रेण॑ प्रया॒जेषु॑ सँस्था॒पय॑न्ति।  
 </details>
 
 <details><summary>Keith</summary>

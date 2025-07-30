@@ -152,12 +152,12 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अग॑च्छ॒थ् स्वारा॑ज्यम् ।  
+अग॑च्छ॒त् स्वारा॑ज्यम् ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
-अग॑च्छ॒थ् स्वारा॑ज्यम् ।  
+अग॑च्छ॒त् स्वारा॑ज्यम् ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -550,12 +550,12 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् ब्रह्म॑ण॒श् शम॑ल॒म् आसी॒त्थ् सा गाथा॑ नाराशँ॒स्य् अ॑भवत् ।  
+यद् ब्रह्म॑ण॒श् शम॑ल॒म् आसी॒त्त् सा गाथा॑ नाराशँ॒स्य् अ॑भवत् ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
-यद् ब्रह्म॑ण॒श् शम॑ल॒म् आसी॒त्थ् सा गाथा॑ नाराशँ॒स्य् अ॑भवत् ।  
+यद् ब्रह्म॑ण॒श् शम॑ल॒म् आसी॒त्त् सा गाथा॑ नाराशँ॒स्य् अ॑भवत् ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

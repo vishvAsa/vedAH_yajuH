@@ -111,7 +111,7 @@ O thou of fair rain colour, come
 </details>
 <details><summary>पद-पाठः</summary>
 
-सुरू॑पवर्‌षवर्ण॒ इति॒ सुरू॑प-व॒र्‌ष॒व॒र्णे॒ । एति॑ । इ॒हि॒ ।  
+सुरू॑पवर्षवर्ण॒ इति॒ सुरू॑प-व॒र्ष॒व॒र्णे॒ । एति॑ । इ॒हि॒ ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -172,7 +172,7 @@ Touch the heads.
 </details>
 <details><summary>पद-पाठः</summary>
 
-नीति॑ । उ॒ । शी॒र्‌षाणि॑ । मृ॒ड्ढ्व॒म् ।
+नीति॑ । उ॒ । शी॒र्षाणि॑ । मृ॒ड्ढ्व॒म् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

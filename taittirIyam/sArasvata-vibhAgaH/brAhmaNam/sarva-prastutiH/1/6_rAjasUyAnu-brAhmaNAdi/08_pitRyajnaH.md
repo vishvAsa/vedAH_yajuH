@@ -459,12 +459,12 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वर्‌षी॑यानि॒ध्म इ॒ध्माद् भ॑वति॒ व्यावृ॑त्त्यै ।  
+वर्षी॑यानि॒ध्म इ॒ध्माद् भ॑वति॒ व्यावृ॑त्त्यै ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
-वर्‌षी॑यानि॒ध्म इ॒ध्माद् भ॑वति॒ व्यावृ॑त्त्यै ।  
+वर्षी॑यानि॒ध्म इ॒ध्माद् भ॑वति॒ व्यावृ॑त्त्यै ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -548,12 +548,12 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यथ् समू॑ल॒न् तत् पि॑तृ॒णाम् ।  
+यत् समू॑ल॒न् तत् पि॑तृ॒णाम् ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
-यथ् समू॑ल॒न् तत् पि॑तृ॒णाम् ।  
+यत् समू॑ल॒न् तत् पि॑तृ॒णाम् ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

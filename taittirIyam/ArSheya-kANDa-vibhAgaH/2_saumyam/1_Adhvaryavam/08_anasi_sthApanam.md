@@ -200,7 +200,7 @@ ________
 वने॑षु॒ व्य॑न्तरि॑क्षन् ततान॒  
 वाज॒म्+++(=वेगम्)+++ अर्व॑त्सु॒+++(=अश्वेषु)+++, पयो॑ अघ्नि॒यासु॑+++(=गोषु)+++ ।  
 हृ॒त्सु क्रतु॒व्ँ वरु॑णो, वि॒क्ष्व्+++(=मर्त्येषु/ गृहेषु?)+++ अ॑ग्निं   
-दि॒वि सूर्य॑म् अदधा॒थ् सोम॒म् अद्रौ॑ ॥
+दि॒वि सूर्य॑म् अदधा॒त् सोम॒म् अद्रौ॑ ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/08_anasi_sthApanam/03_vaneShu_vyantarikhShan.md">

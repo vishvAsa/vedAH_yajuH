@@ -831,7 +831,7 @@ to Nirrti thee
 </details>
 <details><summary>पद-पाठः</summary>
 
-निर्‌ऋ॑त्या॒ इति॒ निः-ऋ॒त्यै॒ । त्वा॒ । 
+निर्ऋ॑त्या॒ इति॒ निः-ऋ॒त्यै॒ । त्वा॒ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

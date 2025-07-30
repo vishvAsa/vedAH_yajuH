@@ -343,7 +343,7 @@ in the zenith may the sacrifice, the year, the lord of the sacrifice make (me) b
 </details>
 <details><summary>पद-पाठः</summary>
 
-ऊ॒र्ध्वाया॑म् । दि॒शि । य॒ज्ञः । सँ॒व्व॒त्स॒र इति॑ सम्-व॒त्स॒रः । य॒ज्ञप॑ति॒रिति॑ य॒ज्ञ-प॒तिः॒ । मा॒र्ज॒य॒न्ता॒म् । 
+ऊ॒र्ध्वाया॑म् । दि॒शि । य॒ज्ञः । स॒व्ँव॒त्स॒र इति॑ सम्-व॒त्स॒रः । य॒ज्ञप॑ति॒रिति॑ य॒ज्ञ-प॒तिः॒ । मा॒र्ज॒य॒न्ता॒म् । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

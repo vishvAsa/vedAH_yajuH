@@ -117,7 +117,7 @@ _______
 **नमो॒ ऽग्नये** ऽप्र॑तिविद्धाय॒,
 नमो ऽना॑धृष्टाय॒, नम॑स् स॒म्राजे॑ ।  
 अ-षा॑ढो+++(=सह्यः)+++ अ॒ग्निर् बृ॒हद्-व॑या+++(=अपरिमितान्नः)+++  
-विश्व॒जिथ् सह॑न्त्य॒श्+++(=अभिभवनशीलश्)+++ श्रेष्ठो॑ गन्ध॒र्वः  ॥
+विश्व॒जित् सह॑न्त्य॒श्+++(=अभिभवनशीलश्)+++ श्रेष्ठो॑ गन्ध॒र्वः  ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/12_namo.agnaye.md">

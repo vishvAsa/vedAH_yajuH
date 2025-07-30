@@ -29,7 +29,7 @@ By sacrifice to the divine straw, may I be possessed of children.
 </details>
 <details><summary>पद-पाठः</summary>
 
-ब॒र्‌हिषः॑ । अ॒हम् । दे॒व॒य॒ज्ययेति॑ देव-य॒ज्यया॑ । प्र॒जावा॒निति॑ प्र॒जा-वा॒न् । भू॒या॒स॒म् । 
+ब॒र्हिषः॑ । अ॒हम् । दे॒व॒य॒ज्ययेति॑ देव-य॒ज्यया॑ । प्र॒जावा॒निति॑ प्र॒जा-वा॒न् । भू॒या॒स॒म् । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -495,7 +495,7 @@ By sacrifice to the god Visnu, by the sacrifice, may I attain health and wealth,
 
 <details><summary>पद-पाठः</summary>
 
-विष्णोः॑ । शँ॒य्योरिति॑ शम्-योः । अ॒हम् । दे॒व॒य॒ज्ययेति॑ देव-य॒ज्यया॑ । य॒ज्ञेन॑ । प्र॒ति॒ष्ठामिति॑ प्रति-स्थाम् । ग॒मे॒य॒म् । 
+विष्णोः॑ । श॒य्ँयोरिति॑ शम्-योः । अ॒हम् । दे॒व॒य॒ज्ययेति॑ देव-य॒ज्यया॑ । य॒ज्ञेन॑ । प्र॒ति॒ष्ठामिति॑ प्रति-स्थाम् । ग॒मे॒य॒म् । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
