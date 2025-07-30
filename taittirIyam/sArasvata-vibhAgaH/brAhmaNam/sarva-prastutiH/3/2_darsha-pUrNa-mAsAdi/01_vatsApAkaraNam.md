@@ -534,7 +534,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॑थ् सा॒यम् प॒शव॒ उप॑स॒माव॑र्तन्ते ।
+तस्मा॑त् सा॒यम् प॒शव॒ उप॑स॒माव॑र्तन्ते ।
 </details>
 
 <details><summary>मूलम्</summary>

@@ -112,7 +112,7 @@ unicode_script: devanagari
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र॒जाप॑तिᳶ प्र॒जा **अ॑सृजत** ।  
-ता अ॑स्माथ् सृ॒ष्टाᳶ परा॑चीर् **आयन्न्** ।  
+ता अ॑स्मात् सृ॒ष्टाᳶ परा॑चीर् **आयन्न्** ।  
 </details>
 
 <details><summary>मूलम्</summary>

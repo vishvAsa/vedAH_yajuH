@@ -115,7 +115,7 @@ Fear not men.
 </details>
 <details><summary>पद-पाठः</summary>
 
-धर्‌ष॑ । मानु॑षान् ।
+धर्ष॑ । मानु॑षान् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -423,7 +423,7 @@ make the sacrifice of the lord of the sacrifice most successful.
 </details>
 <details><summary>पद-पाठः</summary>
 
-वर्‌षी॑यः । वर्‌षी॑यसि । य॒ज्ञे । य॒ज्ञप॑ति॒मिति॑ य॒ज्ञ-प॒ति॒म् । धाः॒ । 
+वर्षी॑यः । वर्षी॑यसि । य॒ज्ञे । य॒ज्ञप॑ति॒मिति॑ य॒ज्ञ-प॒ति॒म् । धाः॒ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

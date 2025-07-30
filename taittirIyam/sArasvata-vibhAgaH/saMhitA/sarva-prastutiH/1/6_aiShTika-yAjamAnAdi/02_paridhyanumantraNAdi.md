@@ -568,7 +568,7 @@ Of the seasons the rains I delight; delighted may they delight me.
 </details>
 <details><summary>पद-पाठः</summary>
 
-व॒र्‌षाः । ऋ॒तू॒नाम् । प्री॒णा॒मि॒ । ताः । मा॒ । प्री॒ताः । प्री॒ण॒न्तु॒ ।
+व॒र्षाः । ऋ॒तू॒नाम् । प्री॒णा॒मि॒ । ताः । मा॒ । प्री॒ताः । प्री॒ण॒न्तु॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

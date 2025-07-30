@@ -104,7 +104,7 @@ they then grow more numerous.
 ## सायम्प्रातश्च होमः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यथ् सा॒यञ् जु॒होति॒ - रेत॑ ए॒व तथ् सि॑ञ्चति।   
+यत् सा॒यञ् जु॒होति॒ - रेत॑ ए॒व तत् सि॑ञ्चति।   
 प्रैव प्रा॑त॒स्तने॑न जनयति ।
 </details>
 <details><summary>Keith</summary>

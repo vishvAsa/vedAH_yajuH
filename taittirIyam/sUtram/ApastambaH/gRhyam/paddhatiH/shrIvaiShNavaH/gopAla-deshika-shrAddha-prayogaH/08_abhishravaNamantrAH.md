@@ -5250,7 +5250,7 @@ _____________________________________________________
 सन्त॑तँ सि॒राभि॑स्+++(=नाडीभिस्)+++ तु॒  
 **लम्ब॑त्य्** आ-+++(पूर्वोक्त-पद्म)+++कोश॒-सन्नि॑भम् ।  
 तस्यान्ते॑ सुषि॒रँ सू॒क्ष्मं  
-तस्मि॑न्थ् स॒र्वं **प्रति॑ष्ठितम्** ।
+तस्मि॑न्त् स॒र्वं **प्रति॑ष्ठितम्** ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/11-12_sahasrashIrSham/09_santataM_sirAbhis.md">
@@ -9396,7 +9396,7 @@ Of thee, O god Soma, that art purified in the waters, that art pressed by men, o
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ताव् आऽप॑रा॒र्धाथ् स॑व्ँवत्स॒रस्य +++(प्रत्यहं)+++  
+ताव् आऽप॑रा॒र्धात् स॑व्ँवत्स॒रस्य +++(प्रत्यहं)+++  
 +अ॒न्यो॑न्यो गृह्येते ।  
 ताव् उ॒भौ स॒ह म॑हा-व्र॒ते गृ॑ह्येते ।  
 </details>
@@ -9492,7 +9492,7 @@ Of thee, O god Soma, that art purified in the waters, that art pressed by men, o
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथ॒ यथ् स॒व्ँ वाति॑,  
+अथ॒ यत् स॒व्ँ वाति॑,  
 तद् अ॑स्य +++(कल्पित-शरीरस्य)+++ स॒मञ्च॑नञ्+++(→सङ्कोचः)+++ च प्र॒सार॑णञ् च ।  
 अथो॑ स॒म्पद् ए॒वास्य॒ सा ।
 </details>

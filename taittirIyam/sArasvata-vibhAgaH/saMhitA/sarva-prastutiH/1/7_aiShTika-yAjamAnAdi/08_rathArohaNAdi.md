@@ -99,7 +99,7 @@ To Indra utter your voices, make Indra win the prize, Indra hath won the prize.
 
 अश्वा॑जनि+++(=कशा)+++ वाजिनि॒  
 वाजे॑षु वाजिनीव॒ति ।  
-अश्वा॑न्थ् स॒मत्सु॑+++(=सङ्ग्रामेषु)+++ वाजय  ॥
+अश्वा॑न्त् स॒मत्सु॑+++(=सङ्ग्रामेषु)+++ वाजय  ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/03_ashvAjani_vAjini.md">

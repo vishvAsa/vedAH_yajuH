@@ -355,7 +355,7 @@ the Asuras were defeated.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-गाम् ए॒व तथ् सँस्क॑रोति ।  
+गाम् ए॒व तत् सँस्क॑रोति ।  
 सास्मै॒ सँस्कृ॒तेष॒म् ऊर्ज॑न् दुहे ।  
 </details>
 

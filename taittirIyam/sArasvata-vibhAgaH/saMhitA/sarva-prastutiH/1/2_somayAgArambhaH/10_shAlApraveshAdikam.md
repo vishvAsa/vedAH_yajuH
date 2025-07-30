@@ -316,7 +316,7 @@ Be prosperity ours from our friendship with the gods.
 </details>
 <details><summary>पद-पाठः</summary>
 
-शँ॒य्योरिति॑ शं-योः । दे॒वाना॑म् । 
+श॒य्ँयोरिति॑ शं-योः । दे॒वाना॑म् । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

@@ -748,7 +748,7 @@ at the new moon referring to his increase.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथ् सँ॒स्थाप्य॒ वार्त्र॑घ्नँ ह॒विर्,  
+तत् सँ॒स्थाप्य॒ वार्त्र॑घ्नँ ह॒विर्,  
 वज्र॑म् आ॒दाय॒ पुन॑र् अ॒भ्या॑यत।  
 </details>
 
@@ -1056,7 +1056,7 @@ The cow brought the (brilliance); therefore they feed off both things that are i
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ए॒तद्वा अ॒ग्नेस् तेजो॒ यद् घृ॒तम्,  
-ए॒तथ् सोम॑स्य॒ यत् पयः॑  ,  
+ए॒तत् सोम॑स्य॒ यत् पयः॑  ,  
 </details>
 
 <details><summary>Keith</summary>

@@ -323,7 +323,7 @@ verily he invokes this blessing.
 ## आहवनीयोपस्थानम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"तथ् स॑वि॒तुर् वरे॑ण्य॒म्" इत्या॑ह॒ - प्रसू॑त्यै ।
+"तत् स॑वि॒तुर् वरे॑ण्य॒म्" इत्या॑ह॒ - प्रसू॑त्यै ।
 </details>
 <details><summary>Keith</summary>
 

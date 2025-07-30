@@ -494,7 +494,7 @@ The Pitrs have eaten, the Pitrs have rejoiced, the Pitrs have been glad, the Pit
 
 **परे॑त** पितरस् सोम्या  
 गम्भी॒रैᳶ प॒थिभिᳶ॑ पू॒र्व्यैः  ।   
-अथा॑ पि॒तॄन्थ् सु॑वि॒दत्राँ॒  
+अथा॑ पि॒तॄन्त् सु॑वि॒दत्राँ॒  
 **अपी॑त** य॒मेन॒ ये स॑ध॒माद॒म् **मद॑न्ति**  ॥
 </details>
 </div>
