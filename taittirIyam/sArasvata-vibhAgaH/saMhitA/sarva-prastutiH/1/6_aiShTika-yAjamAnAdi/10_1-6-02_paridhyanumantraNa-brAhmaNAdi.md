@@ -308,7 +308,7 @@ verily at the beginning of the sacrifice he makes the Brahman.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सव्ँवत्स॒रे प॒र्याग॑त ए॒ताभि॑रे् ए॒वासा॑दयेत् ।  
+स॒व्ँव॒त्स॒रे प॒र्याग॑त ए॒ताभि॑रे् ए॒वासा॑दयेत् ।  
 ब्रह्म॑णै॒वोभ॒यत॑स् सव्ँवत्स॒रम् परि॑गृह्णाति ।
 </details>
 <details><summary>Keith</summary>
