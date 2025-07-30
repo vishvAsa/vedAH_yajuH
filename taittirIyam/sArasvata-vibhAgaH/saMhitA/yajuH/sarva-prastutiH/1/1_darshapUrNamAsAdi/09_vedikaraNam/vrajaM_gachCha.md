@@ -62,7 +62,7 @@ May heaven rain for thee.
 
 <details><summary>पद-पाठः</summary>
 
-वर्‌ष॑तु । ते॒ । द्यौः ।
+वर्ष॑तु । ते॒ । द्यौः ।
 </details>
 
 

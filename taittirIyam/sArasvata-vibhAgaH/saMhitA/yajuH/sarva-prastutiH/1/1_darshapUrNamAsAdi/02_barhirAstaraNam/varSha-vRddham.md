@@ -20,7 +20,7 @@ Thou art made to grow by the rains.
 
 <details><summary>पद-पाठः</summary>
 
-व॒र्‌षवृ॑द्ध॒मिति॑ व॒र्‌ष-वृ॒द्ध॒म् । अ॒सि॒ ।
+व॒र्षवृ॑द्ध॒मिति॑ व॒र्ष-वृ॒द्ध॒म् । अ॒सि॒ ।
 </details>
 
 

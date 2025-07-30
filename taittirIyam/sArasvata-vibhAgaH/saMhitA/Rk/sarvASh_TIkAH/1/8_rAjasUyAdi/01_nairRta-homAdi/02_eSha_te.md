@@ -13,7 +13,7 @@ Free him from evil. Hail!
 
 <details><summary>मूलम्</summary>
 
-ए॒ष ते॑ निर्‌ऋते भा॒गो भूते॑ ह॒विष्म॑त्यसि मु॒ञ्चेममँह॑सः
+ए॒ष ते॑ निर्ऋते भा॒गो भूते॑ ह॒विष्म॑त्यसि मु॒ञ्चेममँह॑सः
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
