@@ -571,7 +571,7 @@ They made it ready for him; they made power and strength rest in him; verily the
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "सम॑नैषु॒ᳶ, प्रत्य॑धुक्षन्  ।  
-शृ॒तम् **अ॑क्रन्न्** ।  
+शृ॒तम् **अ॑क्रन्** ।  
 न तु मा॑ +++(प्रीणने→)+++धिनो॒ती"त्य् अ॑ब्रवीत् ।  
 </details>
 

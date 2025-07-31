@@ -17583,7 +17583,7 @@ Den Glauben rufen Morgens wir, den Glauben in der Mittagszeit Den Glauben, wenn 
 <details><summary>मूलम्</summary>
 
 चत॑स्र॒ आशा॒ᳶ **प्रच॑रन्त्व्** अ॒ग्नयः॑ ।   
-इ॒मन् नो॑ य॒ज्ञन् **न॑यतु प्रजा॒नन्न्** ।   
+इ॒मन् नो॑ य॒ज्ञन् **न॑यतु प्रजा॒नन्** ।   
 घृ॒तम् **पिन्व॑न्न्** अ॒जरँ॑ सु॒वीर॑म् ॥ 68 ॥  
 +++(प्रकाशकत्वेन)+++ ब्रह्म॑ स॒मिद् **भ॑व॒त्य्** आहु॑तीनाम् ।
 </details>
@@ -19701,7 +19701,7 @@ Die sieben Ströme wahren schutzreich seinen Ruhm, die weiten Erd' und Himmel se
 आपो॑ भ॒द्रा, घृ॒तम् इद् आप॑ आसुर् -  
 अ॒ग्नीषोमौ॑ **बिभ्र॒त्य्**, आप॒ इत् ताः ।  
 ती॒व्रो रसो॑ मधु॒-पृचा॑म् अरङ्-ग॒म +++(→रसः)+++  
-**आ** मा॑ प्रा॒णेन॑ स॒ह वर्च॑सा **गन्न्** ।
+**आ** मा॑ प्रा॒णेन॑ स॒ह वर्च॑सा **गन्** ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/5/6/01_kumbheShTakopAdhAna-mantrAH/37_Apo_bhadrA.md">
@@ -32452,7 +32452,7 @@ Dies bitt' ich dich, verehrend mit Gebeten, und darum wirbt mit Opfertrank der O
 आपो॑ भ॒द्रा, घृ॒तम् इद् आप॑ आसुर् -  
 अ॒ग्नीषोमौ॑ **बिभ्र॒त्य्**, आप॒ इत् ताः ।  
 ती॒व्रो रसो॑ मधु॒-पृचा॑म् अरङ्-ग॒म +++(→रसः)+++  
-**आ** मा॑ प्रा॒णेन॑ स॒ह वर्च॑सा **गन्न्** ।
+**आ** मा॑ प्रा॒णेन॑ स॒ह वर्च॑सा **गन्** ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/5/6/01_kumbheShTakopAdhAna-mantrAH/37_Apo_bhadrA.md">
@@ -33324,7 +33324,7 @@ Für solchen gehn wir euch zur Hand, zu dessen Sitz ihr eilend naht, Ihr Wasser 
 आपो॑ भ॒द्रा, घृ॒तम् इद् आप॑ आसुर् -  
 अ॒ग्नीषोमौ॑ **बिभ्र॒त्य्**, आप॒ इत् ताः ।  
 ती॒व्रो रसो॑ मधु॒-पृचा॑म् अरङ्-ग॒म +++(→रसः)+++  
-**आ** मा॑ प्रा॒णेन॑ स॒ह वर्च॑सा **गन्न्** ।
+**आ** मा॑ प्रा॒णेन॑ स॒ह वर्च॑सा **गन्** ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/5/6/01_kumbheShTakopAdhAna-mantrAH/37_Apo_bhadrA.md">
