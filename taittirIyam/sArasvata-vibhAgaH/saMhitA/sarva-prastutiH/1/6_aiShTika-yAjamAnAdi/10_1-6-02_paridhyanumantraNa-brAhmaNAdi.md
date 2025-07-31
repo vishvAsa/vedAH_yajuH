@@ -505,7 +505,7 @@ verily the blessing of his sacrifice falls to his foe [4].
 पुरोऽनुवा॒क्या॑या अर्ध॒र्च एका॑न् दध्याद्  
 या॒ज्या॑यै पु॒रस्ता॒द् एका॑य्ँ  
 या॒ज्या॑या अर्ध॒र्च एका॑म्।  
-तथै॑नान् त्स॒माव॑ती य॒ज्ञस्या॒ऽऽशीर्ग॑च्छति।
+तथै॑नान्त् स॒माव॑ती य॒ज्ञस्या॒ऽऽशीर् ग॑च्छति।
 </details>
 <details><summary>Keith</summary>
 
@@ -523,6 +523,12 @@ and thus the blessing of the sacrifice falls to them equally.
 या॒ज्या॑यै पु॒रस्ता॒देका॑य्ँ  या॒ज्या॑या अर्ध॒र्च एका॒न् 
 तथै॑नान्त्स॒माव॑ती य॒ज्ञस्या॒ऽऽशीर्ग॑च्छति॒
 </details>
+
+<details><summary>मूलम् - सात्वलेकर-दामोदरः</summary>
+
+यान्का॒मये॑त॒ यज॑मानान्त्स॒माव॑त्येतान् 
+</details>
+
 
 <details><summary>पद-पाठः</summary>
 
@@ -549,7 +555,7 @@ and thus the blessing of the sacrifice falls to them equally.
 
 यथा॒ वै प॒र्जन्य॒स् सुवृ॑ष्ट॒व्ँ वर्ष॑ति ..   
 ए॒वय्ँ य॒ज्ञो यज॑मानाय वर्षति ।  
-स्थल॑या +उ॒द॒कम् प॑रिगृ॒ह्णन्ति -   
+स्थल॑या +उ॒द॒कम् प॑रिगृ॒ह्णन्ति॑ -   
 आ॒शिषा॑ य॒ज्ञय्ँ यज॑मान॒ᳶ परि॑गृह्णाति ।
 </details>
 <details><summary>Keith</summary>
@@ -561,7 +567,7 @@ they surround the water with a mound, the sacrificer surrounds the sacrifice wit
 
 यथा॒ वै प॒र्जन्य॒स्सुवृ॑ष्ट॒व्ँवर्ष॑ति ..   
 ए॒वय्ँय॒ज्ञो यज॑मानाय वर्षति ।  
-स्थल॑योद॒कम्प॑रिगृ॒ह्णन्ति ।   
+स्थल॑योद॒कम्प॑रिगृ॒ह्णन्ति॑ ।   
 आ॒शिषा॑ य॒ज्ञय्ँयज॑मान॒ᳶ परि॑गृह्णाति ।
 </details>
 <details><summary>पद-पाठः</summary>
@@ -581,7 +587,8 @@ they surround the water with a mound, the sacrificer surrounds the sacrifice wit
 ## आघाराभिमन्त्रणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"मनो॑ऽसि प्राजाप॒त्यं [37], मन॑सा मा भू॒तेनाऽऽवि॒शे"त्या॑ह ।  
+"मनो॑ऽसि प्राजाप॒त्यं [37],  
+मन॑सा मा भू॒तेनाऽऽवि॒शे"त्या॑ह ।  
 मनो॒ वै प्रा॑जाप॒त्यम्,  
 प्राजाप॒त्यो य॒ज्ञो,  
 मन॑ ए॒व य॒ज्ञम् आ॒त्मन् ध॑त्ते ।
