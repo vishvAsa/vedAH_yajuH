@@ -94,7 +94,7 @@ Bear the nation here.
 **अ॒भि-ति॑ष्ठ** पृतन्य॒तः ।  
 अध॑रे **सन्तु॒** शत्र॑वः ।  
 इन्द्र॑ इव वृत्र॒-हा **ति॑ष्ठ** ।  
-अ॒पः क्षेत्रा॑णि **स॒ञ्जय॑न्न्** ।
+अ॒पः क्षेत्रा॑णि **स॒ञ्जय॑न्** ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_20-24_A_tvA_hArSham/12_abhitiShTha_pRtanyataH.md">
@@ -124,7 +124,7 @@ Thoroughly winning (their) deeds and lands.
 
 इन्द्र॑ एणम् **अदीधरत्** ।
 ध्रु॒वन् ध्रु॒वेण॑ ह॒विषा॑ ।
-तस्मै॑ दे॒वा **अधि॑-ब्रवन्न्** ।
+तस्मै॑ दे॒वा **अधि॑-ब्रवन्** ।
 अ॒यञ् च॒ ब्रह्म॑ण॒स्-पतिः॑ ॥20॥
 </details>
 </div>

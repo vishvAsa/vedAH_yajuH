@@ -546,7 +546,7 @@ Die sieben Ströme wahren schutzreich seinen Ruhm, die weiten Erd' und Himmel se
 आपो॑ भ॒द्रा, घृ॒तम् इद् आप॑ आसुर् -  
 अ॒ग्नीषोमौ॑ **बिभ्र॒त्य्**, आप॒ इत् ताः ।  
 ती॒व्रो रसो॑ मधु॒-पृचा॑म् अरङ्-ग॒म +++(→रसः)+++  
-**आ** मा॑ प्रा॒णेन॑ स॒ह वर्च॑सा **गन्न्** ।
+**आ** मा॑ प्रा॒णेन॑ स॒ह वर्च॑सा **गन्** ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/5/6/01_kumbheShTakopAdhAna-mantrAH/37_Apo_bhadrA.md">
@@ -2956,7 +2956,7 @@ Was war der Wald, und was war jener Baum doch, aus dem sie Erd' und Himmel schö
 ब्रह्म॒ वन॒म् ब्रह्म॒ स वृ॒क्ष **आ॑सीत्** ॥ 76 ॥  
 यतो॒ द्यावा॑पृथि॒वी **नि॑ष्टत॒क्षुः**+++(←तक्ष्)+++ ।   
 मनी॑षिणो॒ मन॑सा॒ **विब्र॑वीमि** वः ।  
-**ब्रह्मा॒ध्यति॑ष्ठ॒द्** भुव॑नानि **धा॒रय॑न्न्** ।
+**ब्रह्मा॒ध्यति॑ष्ठ॒द्** भुव॑नानि **धा॒रय॑न्** ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/9_08-16_nAsadIyam/24_brahma_vanam.md">
