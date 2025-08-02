@@ -286,7 +286,7 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 अब॑धिरो भवति ।
-य ए॒वव्ँवेद॑ ।
+य ए॒वव्ँ वेद॑ ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

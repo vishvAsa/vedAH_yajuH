@@ -344,7 +344,7 @@ unicode_script = "devanagari"
 
 तौ प्रा॑णापा॒नौ ।
 अव्य॑र्धुकᳶ प्राणापा॒नाभ्या॑म्भवति ।
-य ए॒वव्ँवेद॑ ॥5॥  
+य ए॒वव्ँ वेद॑ ॥5॥  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -357,7 +357,7 @@ unicode_script = "devanagari"
 
 तौ प्रा॑णापा॒नौ ।  
 अव्य॑र्धुकᳶ प्राणापा॒नाभ्या॑म्भवति ।  
-य ए॒वव्ँवेद॑ ॥5॥  
+य ए॒वव्ँ वेद॑ ॥5॥  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -370,7 +370,7 @@ unicode_script = "devanagari"
 
 तौ प्रा॑णापा॒नौ ।  
 अव्य॑र्धुकᳶ प्राणापा॒नाभ्या॑म्भवति ।  
-य ए॒वव्ँवेद॑ ॥5॥  
+य ए॒वव्ँ वेद॑ ॥5॥  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

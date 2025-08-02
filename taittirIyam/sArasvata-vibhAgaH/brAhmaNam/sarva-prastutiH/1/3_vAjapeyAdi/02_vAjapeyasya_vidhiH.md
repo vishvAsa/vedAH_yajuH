@@ -317,7 +317,7 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 अन्न॒व्ँवै वा॑ज॒पेयः॑ ।
-य ए॒वव्ँवेद॑ ।
+य ए॒वव्ँ वेद॑ ।
 अत्यन्न॑म् ।
 </details>
 
@@ -354,7 +354,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-ब्रह्म॒ वै वा॑ज॒पेयः॑ । य ए॒वव्ँवेद॑ ।
+ब्रह्म॒ वै वा॑ज॒पेयः॑ । य ए॒वव्ँ वेद॑ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -407,7 +407,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-य ए॒वव्ँवेद॑ ।
+य ए॒वव्ँ वेद॑ ।
 क॒रोति॑ वा॒चा वी॒र्य॑म् ।
 </details>
 

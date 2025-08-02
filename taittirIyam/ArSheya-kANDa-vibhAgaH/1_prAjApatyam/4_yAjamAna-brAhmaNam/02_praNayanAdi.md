@@ -94,7 +94,7 @@ The sacrifice of him who knows thus does not spill.
 </details>
 <details><summary>मूलम्</summary>
 
-अस्क॑न्नहविर्भवति॒ य ए॒वव्ँवेद॑ ।
+अस्क॑न्नहविर्भवति॒ य ए॒वव्ँ वेद॑ ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -218,7 +218,7 @@ the lower and upper millstones,
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ए॒तानि॒ वै दश॑ यज्ञायु॒धानि  ।  
-य ए॒वव्ँवेद॑ मुख॒तो॑ऽस्य य॒ज्ञᳵ क॑ल्पते ।
+य ए॒वव्ँ वेद॑ मुख॒तो॑ऽस्य य॒ज्ञᳵ क॑ल्पते ।
 </details>
 <details><summary>Keith</summary>
 
@@ -228,7 +228,7 @@ these are the ten weapons of the sacrifice; the sacrifice of him who knows thus 
 
 दृ॒षच्चोप॑ला च ...  
 ए॒तानि॒ वै दश॑ यज्ञायु॒धानि  ।  
-य ए॒वव्ँवेद॑ मुख॒तो॑ऽस्य य॒ज्ञᳵ क॑ल्पते ।
+य ए॒वव्ँ वेद॑ मुख॒तो॑ऽस्य य॒ज्ञᳵ क॑ल्पते ।
 </details>
 _______
 ## हविर्-निर्वापः

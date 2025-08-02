@@ -743,7 +743,7 @@ In his offspring a strong one is born who knows thus.
 </details>
 <details><summary>मूलम्</summary>
 
-आऽस्य॑ प्र॒जाया॑व्ँवा॒जी जा॑यते॒ य ए॒वव्ँवेद॑ ॥ [20]
+आऽस्य॑ प्र॒जाया॑व्ँवा॒जी जा॑यते॒ य ए॒वव्ँ वेद॑ ॥ [20]
 </details>
 
 <details><summary>पद-पाठः</summary>

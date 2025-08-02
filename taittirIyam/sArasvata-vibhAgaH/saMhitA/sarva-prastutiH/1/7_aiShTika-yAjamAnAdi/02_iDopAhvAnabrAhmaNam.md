@@ -237,7 +237,7 @@ she whom they slay for the Fathers (supports) the Fathers by her inspiration;
 </details>
 <details><summary>मूलम्</summary>
 
-य ए॒वव्ँवेद॑ पशु॒मान्भ॑व॒ति ।  
+य ए॒वव्ँ वेद॑ पशु॒मान्भ॑व॒ति ।  
 </details>
 <details><summary>पद-पाठः</summary>
 
@@ -329,7 +329,7 @@ he who knows thus becomes an eater of food.
 
 ओष॑धयो॒ वा अ॑स्या॒ अन्न॑म् ।   
 ओष॑धयो॒ वै प्र॒जाᳶ प्र॒भव॑न्ती॒ᳶ प्रत्या भ॑वन्ति ।   
-य ए॒वव्ँवेदा॑न्ना॒दो भ॑व॒ति ।   
+य ए॒वव्ँ वेदा॑न्ना॒दो भ॑व॒ति ।   
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -435,7 +435,7 @@ he who knows thus finds support.
 
 इयव्ँवा अ॑स्यै प्रति॒ष्ठा [9] ।  
 इ॒यव्ँवै प्र॒जाᳶ प॑रा॒भव॑न्ती॒रनु॑गृह्णाति प्रत्या॒भव॑न्तीर्गृह्णाति ।  
-य ए॒वव्ँवेद॒ प्रत्ये॒व ति॑ष्ठ॒ति ।  
+य ए॒वव्ँ वेद॒ प्रत्ये॒व ति॑ष्ठ॒ति ।  
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -635,7 +635,7 @@ he who knows thus is propagated with offspring; he becomes an eater of food.
 </details>
 <details><summary>मूलम्</summary>
 
-य ए॒वव्ँवेद॒  । 
+य ए॒वव्ँ वेद॒  । 
 प्रैव जा॑यतेऽन्ना॒दो भ॑वति ॥ [10]
 </details>
 
