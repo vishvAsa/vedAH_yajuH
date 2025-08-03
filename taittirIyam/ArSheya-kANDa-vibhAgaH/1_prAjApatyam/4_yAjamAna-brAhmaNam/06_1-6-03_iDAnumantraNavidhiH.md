@@ -28,7 +28,7 @@ Cattle attend the cooked offerings of him who has established a fire
 </details>
 <details><summary>मूलम्</summary>
 
-पा॒क॒य॒ज्ञव्ँवा अन्वाहि॑ताग्नेᳶ प॒शव॒ उप॑ तिष्ठन्ते ।  
+पा॒क॒य॒ज्ञव्ँ वा अन्वाहि॑ताग्नेᳶ प॒शव॒ उप॑ तिष्ठन्ते ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
