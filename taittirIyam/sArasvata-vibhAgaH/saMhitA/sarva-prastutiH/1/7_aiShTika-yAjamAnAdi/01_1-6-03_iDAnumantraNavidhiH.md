@@ -136,11 +136,16 @@ Over it as it is brought up he should say, 'O thou of fair rain colour, come hit
 सुरू॑पवर्षवर्ण॒ एहीति॑ ।  
 </details>
 
+<details><summary>मूलम् - सात्वलेकरः</summary>
+
+म॑न्त्रयते॒
+</details>
+
+
 <details><summary>पद-पाठः</summary>
 
 ताम् । आ॒ह्रि॒यमा॑णा॒मित्या॑-ह्रि॒यमा॑णाम् । अ॒भीति॑ । म॒न्त्र॒ये॒त॒ ।  
 सुरू॑पवर्षवर्ण॒इति॒सुरू॑प-व॒र्ष॒व॒र्णे॒ । एति॑ ।  इ॒हि॒ । इति॑ ।  
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -272,8 +277,8 @@ the Asuras, being milked by the sacrifice, were defeated;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो वै य॒ज्ञस्य॒ दोह॑व्ँ वि॒द्वान् यज॒ते  
-ऽप्य् अ॒न्यय्ँ यज॑मानन् दुहे ।  
+यो वै य॒ज्ञस्य॒ दोह॑व्ँ वि॒द्वान् यजते,  
+अप्य् अ॒न्यय्ँ यज॑मानन् दुहे ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -377,7 +382,8 @@ and willingly the Ida is milked for the sacrificer;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ते वा इडा॑यै॒ स्तना॒ → "इडोप॑हू॒ते"ति॑ +++(वचने)+++, वा॒युर् व॒त्सः।  
+ए॒ते वा इडा॑यै॒ स्तनाः →।  
+"इडोप॑हू॒ते"ति॑ +++(वचने)+++, वा॒युर् व॒त्सः।  
 </details>
 <details><summary>Keith</summary>
 
@@ -513,7 +519,7 @@ the Ida went to Manu;
 ## प्रतीच्याह्वानम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तान्दे॑वासु॒रा व्य॑ह्वयन्त ।  
+तां दे॑वासु॒रा व्य᳕ह्वयन्त ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -541,7 +547,7 @@ the gods and the Asuras called severally upon her,
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र॒तीची॑न् दे॒वाः ।   
-परा॑ची॒मसु॑राः ।
+परा॑ची॒म् असु॑राः ।
 </details>
 <details><summary>Keith</summary>
 
