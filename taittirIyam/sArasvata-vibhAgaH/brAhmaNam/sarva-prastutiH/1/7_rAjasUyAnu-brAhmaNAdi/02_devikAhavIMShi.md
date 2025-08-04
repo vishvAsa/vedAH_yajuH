@@ -142,7 +142,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-वी॒र्य॑व्ँवा अ॒ग्निः ।
+वी॒र्य॑व्ँ वा अ॒ग्निः ।
 वी॒र्य॑मिन्द्रः॑ ।
 वी॒र्य॑व्ँविष्णुः॑ ।
 </details>

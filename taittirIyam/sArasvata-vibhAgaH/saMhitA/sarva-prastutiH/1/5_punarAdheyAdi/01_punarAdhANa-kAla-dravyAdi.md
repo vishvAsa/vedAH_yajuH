@@ -393,7 +393,7 @@ Agni desiring a share after being established assailed the offspring and cattle 
 </details>
 <details><summary>मूलम्</summary>
 
-भाग॒धेय॒व्ँवा अ॒ग्निराहि॑त इ॒च्छमा॑नᳶ प्र॒जाम्प॒शून् यज॑मान॒स्योप॑ दोद्राव ।
+भाग॒धेय॒व्ँ वा अ॒ग्निराहि॑त इ॒च्छमा॑नᳶ प्र॒जाम्प॒शून् यज॑मान॒स्योप॑ दोद्राव ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

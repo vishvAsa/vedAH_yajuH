@@ -169,7 +169,7 @@ verily at the beginning of the sacrifice he makes the Brahman [2].
 <details><summary>मूलम्</summary>
 
 अग्निहो॒त्रमे॒ताभि॒र्व्याहृ॑तीभि॒रुप॑ सादयेत ।  
-यज्ञमु॒खव्ँवा अ॑ग्निहो॒त्रम् ।   
+यज्ञमु॒खव्ँ वा अ॑ग्निहो॒त्रम् ।   
 ब्रह्मै॒ता व्याहृ॑तयो यज्ञमु॒ख ए॒व ब्रह्म॑ [34] +कु॒रु॒ते।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>

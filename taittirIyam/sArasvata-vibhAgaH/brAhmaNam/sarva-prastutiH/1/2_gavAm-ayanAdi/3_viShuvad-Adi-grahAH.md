@@ -332,7 +332,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-इ॒यव्ँवा अदि॑तिः ।
+इ॒यव्ँ वा अदि॑तिः ।
 अ॒स्यामे॒व प्रति॑तिष्ठन्ति ।
 </details>
 

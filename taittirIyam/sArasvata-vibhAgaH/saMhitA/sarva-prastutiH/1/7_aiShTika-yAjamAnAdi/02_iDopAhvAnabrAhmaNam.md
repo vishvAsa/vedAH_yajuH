@@ -18,7 +18,8 @@ title = "०२ इडोपाह्वानब्राह्मणम्"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सँश्र॑वा ह सौवर्चन॒सस् तुमि॑ञ्ज॒म् औपो॑दितिम् उवाच॒  
-"यत् स॒त्रिणाँ॒ होता ऽभू॒ᳵ काम् इडा॒म् उपा॑ह्वथा॒" इति॑ ।
+"यत् स॒त्रिणाँ॒ होता ऽभू॒ᳵ  
+काम् इडा॒म् उपा॑ह्वथा॒" इति॑ ।
 </details>
 <details><summary>Keith</summary>
 
@@ -58,6 +59,7 @@ Samśravas Sauvarcanasa said to Tumiñja Aupoditi:
 व्या॒नेन॑ मनु॒ष्या॑न्,  
 अपा॒नेन॑ पि॒तॄन्" इति॑।  
 </details>
+
 <details><summary>Keith</summary>
 
 'Her I have invoked', he said, 'who supports the gods by her expiration, men by her cross-breathing, and the Pitrs by her inspiration.' 
@@ -124,7 +126,7 @@ Samśravas Sauvarcanasa said to Tumiñja Aupoditi:
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "शरी॑र॒व्ँ वा अ॑स्यै॒ तद् उपा॑ह्वथा॒" इति॑ होवाच॒,  
-"गौर्वै [7] अ॑स्यै॒ शरी॑रम् ।"  
+"गौर् वा [7] अ॑स्यै॒ शरी॑रम् ।"  
 </details>
 <details><summary>Keith</summary>
 
@@ -133,7 +135,7 @@ Samśravas Sauvarcanasa said to Tumiñja Aupoditi:
 <details><summary>मूलम्</summary>
 
 "शरी॑र॒व्ँ वा अ॑स्यै॒ तद् उपा॑ह्वथा॒" इति॑ होवाच॒,  
-"गौर्वै [7] अ॑स्यै॒ शरी॑रम् ।"
+"गौर्वै [7] +अ॑स्यै॒ शरी॑रम् ।"
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -192,8 +194,8 @@ of the cow were they two talking.
 यया॑ मनु॒ष्या॑ जीव॑न्ति॒,  
 सा व्या॒नेन॑ मनु॒ष्या॑न्  
 
-याम्पि॒तृभ्यो॒ घ्नन्ति॒  
-साऽपा॒नेन॑ पि॒तॄन्। 
+याम् पि॒तृभ्यो॒ घ्नन्ति॒  
+सा ऽपा॒नेन॑ पि॒तॄन्। 
 </details>
 <details><summary>Keith</summary>
 
@@ -229,7 +231,8 @@ she whom they slay for the Fathers (supports) the Fathers by her inspiration;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य ए॒वव्ँ वेद॑ पशु॒मान् भ॑व॒ति ।  
+य ए॒वव्ँ वेद॑ -  
+पशु॒मान् भ॑वति ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -237,7 +240,7 @@ she whom they slay for the Fathers (supports) the Fathers by her inspiration;
 </details>
 <details><summary>मूलम्</summary>
 
-य ए॒वव्ँ वेद॑ पशु॒मान्भ॑व॒ति ।  
+य ए॒वव्ँ वेद॑ पशु॒मान्भ॑वति ।  
 </details>
 <details><summary>पद-पाठः</summary>
 
@@ -252,7 +255,7 @@ she whom they slay for the Fathers (supports) the Fathers by her inspiration;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"अथ॒ वैतामुपा॑ह्व॒" इति॑ होवाच॒  
+"अथ॒ वै ताम् उपा॑ह्व॒" इति॑ होवाच॒  
 "या प्र॒जाᳶ प्र॒भव॑न्ती॒ᳶ प्रत्या॒भव॒ती"ति॑ ।
 </details>
 <details><summary>Keith</summary>
@@ -287,7 +290,7 @@ she whom they slay for the Fathers (supports) the Fathers by her inspiration;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"अन्न॒व्ँ वा अ॑स्यै॒ तद् उपा॑ह्वथा॒" इति॑ होवा॒च ।  
+"अन्न॒व्ँ वा अ॑स्यै॒ तद् उपा॑ह्वथा॒" इति॑ होवाच ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -295,7 +298,7 @@ she whom they slay for the Fathers (supports) the Fathers by her inspiration;
 </details>
 <details><summary>मूलम्</summary>
 
-अन्न॒व्ँवा अ॑स्यै॒ तद् उपा॑ह्वथा॒ इति॑ होवा॒च ।  
+अन्न॒व्ँ वा अ॑स्यै॒ तद् उपा॑ह्वथा॒ इति॑ होवाच ।  
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -317,8 +320,9 @@ she whom they slay for the Fathers (supports) the Fathers by her inspiration;
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ओष॑धयो॒ वा अ॑स्या॒ अन्न॑म् ।   
-ओष॑धयो॒ वै प्र॒जाᳶ प्र॒भव॑न्ती॒ᳶ, प्रत्या भ॑वन्ति ।   
-य ए॒वव्ँ वेदा॑न्ना॒दो भ॑व॒ति ।   
+ओष॑धयो॒ वै प्र॒जाᳶ प्र॒भव॑न्ती॒ᳶ,  
+प्रत्या भ॑वन्ति ।   
+य ए॒वव्ँ वेदा॑न्ना॒दो भ॑वति ।   
 </details>
 <details><summary>Keith</summary>
 
@@ -329,7 +333,7 @@ he who knows thus becomes an eater of food.
 
 ओष॑धयो॒ वा अ॑स्या॒ अन्न॑म् ।   
 ओष॑धयो॒ वै प्र॒जाᳶ प्र॒भव॑न्ती॒ᳶ प्रत्या भ॑वन्ति ।   
-य ए॒वव्ँ वेदा॑न्ना॒दो भ॑व॒ति ।   
+य ए॒वव्ँ वेदा॑न्ना॒दो भ॑वति ।   
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -353,7 +357,7 @@ he who knows thus becomes an eater of food.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "अथ॒ वै ताम् उपा॑ह्व॒" इति॑ होवाच॒
-"या प्र॒जाᳶ प॑रा॒भव॑न्तीर् अनुगृ॒ह्णाति॒ प्रत्या॒भव॑न्तीर्गृ॒ह्णाती"ति॑ ।
+"या प्र॒जाᳶ प॑रा॒भव॑न्तीर् अनुगृ॒ह्णाति॒ प्रत्या॒भव॑न्तीर् गृ॒ह्णाती"ति॑ ।
 </details>
 <details><summary>Keith</summary>
 
@@ -392,7 +396,7 @@ he who knows thus becomes an eater of food.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"प्रति॒ष्ठाव्ँवा अ॑स्यै॒ तदुपा॑ह्वथा॒" इति॑ होवाच ।  
+"प्रति॒ष्ठाव्ँ वा अ॑स्यै॒ तदुपा॑ह्वथा॒" इति॑ होवाच ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -400,7 +404,7 @@ Her support then hast thou invoked', he replied.
 </details>
 <details><summary>मूलम्</summary>
 
-प्रति॒ष्ठाव्ँवा अ॑स्यै॒ तदुपा॑ह्वथा॒ इति॑ होवाच ।  
+प्रति॒ष्ठाव्ँ वा अ॑स्यै॒ तदुपा॑ह्वथा॒ इति॑ होवाच ।  
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -433,7 +437,7 @@ he who knows thus finds support.
 </details>
 <details><summary>मूलम्</summary>
 
-इयव्ँवा अ॑स्यै प्रति॒ष्ठा [9] ।  
+इयव्ँ वा अ॑स्यै प्रति॒ष्ठा [9] ।  
 इ॒यव्ँवै प्र॒जाᳶ प॑रा॒भव॑न्ती॒रनु॑गृह्णाति प्रत्या॒भव॑न्तीर्गृह्णाति ।  
 य ए॒वव्ँ वेद॒ प्रत्ये॒व ति॑ष्ठ॒ति ।  
 </details>
