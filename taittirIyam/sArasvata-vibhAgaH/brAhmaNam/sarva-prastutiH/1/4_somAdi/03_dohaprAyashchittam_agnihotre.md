@@ -313,7 +313,7 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 यद॑भिदु॒ह्यात् ।
-आर्ते॒ नाना॑र्तय्ँय॒ज्ञस्य॒ सँसृ॑जेत् ।
+आर्ते॒ नाना॑र्तय्ँ य॒ज्ञस्य॒ सँसृ॑जेत् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

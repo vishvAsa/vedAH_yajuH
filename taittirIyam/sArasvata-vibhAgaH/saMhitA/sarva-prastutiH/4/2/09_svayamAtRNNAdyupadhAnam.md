@@ -455,12 +455,12 @@ Unovercomable art thou, overcoming, overcome our enemies, over come those that p
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-म॒ही द्यौᳶ पृ॑थि॒वी च॑ न इ॒मय्ँय॒ज्ञम्मि॑मिक्षताम् ।  
+म॒ही द्यौᳶ पृ॑थि॒वी च॑ न इ॒मय्ँ य॒ज्ञम्मि॑मिक्षताम् ।  
 पि॒पृ॒तान्नो॒ भरी॑मभिः ।  
 </details>
 <details><summary>मूलम्</summary>
 
-म॒ही द्यौᳶ पृ॑थि॒वी च॑ न इ॒मय्ँय॒ज्ञम्मि॑मिक्षताम् ।  
+म॒ही द्यौᳶ पृ॑थि॒वी च॑ न इ॒मय्ँ य॒ज्ञम्मि॑मिक्षताम् ।  
 पि॒पृ॒तान्नो॒ भरी॑मभिः ।  
 </details>
 <details><summary>सायण-टीका</summary>

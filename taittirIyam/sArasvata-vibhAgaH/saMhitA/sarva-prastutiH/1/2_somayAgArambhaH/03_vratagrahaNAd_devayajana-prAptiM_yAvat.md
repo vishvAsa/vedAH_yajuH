@@ -41,7 +41,7 @@ May it guide us safely according as we will.
 <details><summary>मूलम्</summary>
 
 दैवी॒न्धिय॑म्मनामहे सुमृडी॒काम॒भिष्ट॑ये ।  
-वर्चो॒धाय्ँय॒ज्ञवा॑हसँ सुपा॒रा नो॑ अस॒द्वशे॑ ॥
+वर्चो॒धाय्ँ य॒ज्ञवा॑हसँ सुपा॒रा नो॑ अस॒द्वशे॑ ॥
 </details>
 <details><summary>भास्करटीका</summary>
 

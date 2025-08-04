@@ -367,7 +367,7 @@ to the people (falls) the blessing of what (is performed) with the Rc;
 </details>
 <details><summary>मूलम्</summary>
 
-यदृ॒चा विश॑य्ँय॒ज्ञस्या॒ऽऽशीर्ग॑च्छति ।
+यदृ॒चा विश॑य्ँ य॒ज्ञस्या॒ऽऽशीर्ग॑च्छति ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -566,7 +566,7 @@ they surround the water with a mound, the sacrificer surrounds the sacrifice wit
 <details><summary>मूलम्</summary>
 
 यथा॒ वै प॒र्जन्य॒स्सुवृ॑ष्ट॒व्ँवर्ष॑ति ..   
-ए॒वय्ँय॒ज्ञो यज॑मानाय वर्षति ।  
+ए॒वय्ँ य॒ज्ञो यज॑मानाय वर्षति ।  
 स्थल॑योद॒कम्प॑रिगृ॒ह्णन्ति॑ ।   
 आ॒शिषा॑ य॒ज्ञय्ँयज॑मान॒ᳶ परि॑गृह्णाति ।
 </details>
