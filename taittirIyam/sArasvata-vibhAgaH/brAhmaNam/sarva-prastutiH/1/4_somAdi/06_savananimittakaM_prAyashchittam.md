@@ -527,7 +527,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-इ॒यव्ँवै सर्प॑तो॒ राज्ञी॑ ।
+इ॒यव्ँ वै सर्प॑तो॒ राज्ञी॑ ।
 अ॒स्या ए॒वैन॒म्परि॑ददति ।
 </details>
 

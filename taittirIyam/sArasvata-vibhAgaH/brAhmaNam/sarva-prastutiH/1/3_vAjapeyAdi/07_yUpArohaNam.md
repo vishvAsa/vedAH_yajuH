@@ -53,7 +53,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-प॒वित्र॒व्ँवै द॒र्भाः ।
+प॒वित्र॒व्ँ वै द॒र्भाः ।
 पु॒नात्ये॒वैन॑म् ।
 </details>
 
@@ -675,7 +675,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-अ॒मृत॒व्ँवै हिर॑ण्यम् ।
+अ॒मृत॒व्ँ वै हिर॑ण्यम् ।
 अ॒मृतँ॑ सुव॒र्गो लो॒कः ॥46॥  
 अ॒मृत॑ ए॒व सु॑व॒र्गे लो॒के प्रति॑तिष्ठति ।
 </details>

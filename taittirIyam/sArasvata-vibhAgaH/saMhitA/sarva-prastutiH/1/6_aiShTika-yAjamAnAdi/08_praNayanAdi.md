@@ -134,7 +134,7 @@ mind is this (earth) [1]; verily with this (earth) he brings them forward.
 </details>
 <details><summary>मूलम्</summary>
 
-इ॒यव्ँवै मनः॑ [25] । 
+इ॒यव्ँ वै मनः॑ [25] । 
 
 अ॒नयै॒वैना॒ᳶ प्र ण॑यति ।
 </details>

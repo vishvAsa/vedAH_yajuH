@@ -186,7 +186,7 @@ strength is food, verily he wins food;
 <details><summary>मूलम्</summary>
 
 वाज॑वतीभ्या॒व्व्ँयू॑हति ।   
-अन्न॒व्ँवै वाजोऽन्न॑मे॒वाव॑रुन्धे ।  
+अन्न॒व्ँ वै वाजोऽन्न॑मे॒वाव॑रुन्धे ।  
 </details>
 
 <details><summary>पद-पाठः</summary>

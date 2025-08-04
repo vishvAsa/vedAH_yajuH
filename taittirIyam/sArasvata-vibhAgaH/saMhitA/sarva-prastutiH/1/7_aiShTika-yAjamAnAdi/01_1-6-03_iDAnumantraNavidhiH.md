@@ -198,7 +198,7 @@ The gods milked the sacrifice,
 </details>
 <details><summary>मूलम्</summary>
 
-य॒ज्ञव्ँवै दे॒वा अदु॑ह्रन् ।  
+य॒ज्ञव्ँ वै दे॒वा अदु॑ह्रन् ।  
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -921,7 +921,7 @@ The [5] sacrificial fee which he gives at the sacrifice his cattle accompany;
 </details>
 <details><summary>मूलम्</summary>
 
-याव्ँवै [5] य॒ज्ञे दक्षि॑णा॒न्ददा॑ति॒, ताम॑स्य प॒शवोऽनु॒ सङ्क्रा॑मन्ति ।
+याव्ँ वै [5] य॒ज्ञे दक्षि॑णा॒न्ददा॑ति॒, ताम॑स्य प॒शवोऽनु॒ सङ्क्रा॑मन्ति ।
 </details>
 
 <details><summary>पद-पाठः</summary>
