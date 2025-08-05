@@ -151,7 +151,7 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 ज्योति॑ष्मन्तोऽस्मा इ॒मे लो॒का भ॑वन्ति ।
-य ए॒वव्ँवेद॑ ।
+य ए॒वव्ँ वेद॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -264,7 +264,7 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 दृँह॑न्तेऽस्मा इ॒मे लो॒काᳶ प्र॒जया॑ प॒शुभिः॑ ।
-य ए॒वव्ँवेद॑ ।
+य ए॒वव्ँ वेद॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -317,7 +317,7 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 एक॒मग्रे॑ क॒पाल॒मुप॑दधाति ।  
-एक॒व्ँवा अग्रे॑ क॒पाल॒म्पुरु॑षस्य स॒म्भव॑ति ॥52॥  
+एक॒व्ँ वा अग्रे॑ क॒पाल॒म्पुरु॑षस्य स॒म्भव॑ति ॥52॥  
 अथ॒ द्वे ।  
 अथ॒ त्रीणि॑ ।   
 अथ॑ च॒त्वारि॑ ।  

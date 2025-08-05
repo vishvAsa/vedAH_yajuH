@@ -53,7 +53,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते॑ **ऽब्रुवन्न्** ।
+ते॑ **ऽब्रुवन्** ।
 "कस्मै॒ नु स॒त्रम् **आ॑स्महे** ।
 +++(वयं)+++ ये॑ ऽस्या +++(पृश्न्याः प्रयोजनाय)+++ ओष॑धी॒र् **न ज॒नया॑म॒**" इति॑ ।
 </details>
@@ -140,7 +140,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते॑ **ऽब्रुवन्न्** ।
+ते॑ **ऽब्रुवन्** ।
 "क इ॒दम् इ॒त्थम् **अ॑क॒र्**" इति॑ ।
 </details>
 
@@ -157,7 +157,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"व॒यम् भा॑ग॒-धेय॑म् **इ॒च्छमा॑ना॒**" इति॑ पि॒तरो॑ **ऽब्रुवन्न्** ।
+"व॒यम् भा॑ग॒-धेय॑म् **इ॒च्छमा॑ना॒**" इति॑ पि॒तरो॑ **ऽब्रुवन्** ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -187,7 +187,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"अ॒ग्नि॒-हो॒त्र ए॒व नोऽप्य् अ॒स्त्व्" इत्य् **अ॑ब्रुवन्न्** ।
+"अ॒ग्नि॒-हो॒त्र ए॒व नोऽप्य् अ॒स्त्व्" इत्य् **अ॑ब्रुवन्** ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -225,7 +225,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततो॒ वै त ओष॑धीर् **अस्वदयन्न्** ।
+ततो॒ वै त ओष॑धीर् **अस्वदयन्** ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -296,7 +296,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दश॑ मा॒ रात्री॑र् जा॒तन् **न दो॑हन्न्** ।
+दश॑ मा॒ रात्री॑र् जा॒तन् **न दो॑हन्** ।
 </details>
 
 <details><summary>मूलम्</summary>

@@ -30,7 +30,7 @@ Secretly offering is made to one set of gods, openly to another.
 </details>
 <details><summary>मूलम्</summary>
 
-प॒रोक्ष॒व्ँवा अ॒न्ये दे॒वा इ॒ज्यन्ते॑ ।  
+प॒रोक्ष॒व्ँ वा अ॒न्ये दे॒वा इ॒ज्यन्ते॑ ।  
 प्र॒त्यक्ष॑म॒न्ये ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>

@@ -441,7 +441,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-अन्न॒व्ँवै भ॒द्रम् ।
+अन्न॒व्ँ वै भ॒द्रम् ।
 अ॒न्नाद्ये॑नै॒वैनँ॒ सँसृ॑जति ।
 </details>
 

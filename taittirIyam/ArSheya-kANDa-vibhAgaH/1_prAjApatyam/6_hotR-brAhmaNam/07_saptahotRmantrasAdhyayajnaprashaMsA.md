@@ -337,7 +337,7 @@ unicode_script = "devanagari"
 <details><summary>मूलम्</summary>
 
 य ए॒वव्ँ वेद॑ ।
-उपै॑नय्ँय॒ज्ञो न॑मति ।
+उपै॑नय्ँ य॒ज्ञो न॑मति ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

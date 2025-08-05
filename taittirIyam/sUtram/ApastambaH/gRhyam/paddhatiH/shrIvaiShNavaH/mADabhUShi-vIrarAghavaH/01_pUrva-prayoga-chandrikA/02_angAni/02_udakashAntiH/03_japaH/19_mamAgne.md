@@ -737,7 +737,7 @@ Ihr weiten sechs Göttinnen schaffet Raum uns, ihr Götter alle, zeigt euch hier
 <details><summary>मूलम्</summary>
 
 धा॒ता धा॑तृ॒णाम्भुव॑नस्य॒ यस्पति॑र्दे॒वँ स॑वि॒तार॑मभिमाति॒षाह॑म् ।   
-इ॒मय्ँय॒ज्ञम॒श्विनो॒भा बृह॒स्पति॑र्दे॒वाᳶ पा॑न्तु॒ यज॑मानन्न्य॒र्थात् ।
+इ॒मय्ँ य॒ज्ञम॒श्विनो॒भा बृह॒स्पति॑र्दे॒वाᳶ पा॑न्तु॒ यज॑मानन्न्य॒र्थात् ।
 </details>
 <details><summary>सायण-टीका</summary>
 

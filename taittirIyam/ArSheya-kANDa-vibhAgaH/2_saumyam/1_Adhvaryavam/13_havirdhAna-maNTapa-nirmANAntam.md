@@ -1011,7 +1011,7 @@ Come ye two then forward, ordaining the offering; bring upward the sacrifice; do
 </details>
 <details><summary>मूलम्</summary>
 
-प्राची॒ प्रेत॑मध्व॒रङ्क॒ल्पय॑न्ती ऊ॒र्ध्वय्ँय॒ज्ञन्न॑यत॒म्मा जी॑ह्वरतम् ।
+प्राची॒ प्रेत॑मध्व॒रङ्क॒ल्पय॑न्ती ऊ॒र्ध्वय्ँ य॒ज्ञन्न॑यत॒म्मा जी॑ह्वरतम् ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

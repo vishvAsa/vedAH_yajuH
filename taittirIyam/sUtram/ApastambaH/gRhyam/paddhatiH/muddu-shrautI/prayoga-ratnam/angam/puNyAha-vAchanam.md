@@ -330,7 +330,7 @@ script: grantha
 आपो॑ भ॒द्रा, घृ॒तम् इद् आप॑ आसुर् -  
 अ॒ग्नीषोमौ॑ **बिभ्र॒त्य्**, आप॒ इत् ताः ।  
 ती॒व्रो रसो॑ मधु॒-पृचा॑म् अरङ्-ग॒म +++(→रसः)+++  
-**आ** मा॑ प्रा॒णेन॑ स॒ह वर्च॑सा **गन्न्** ।
+**आ** मा॑ प्रा॒णेन॑ स॒ह वर्च॑सा **गन्** ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/5/6/01_kumbheShTakopAdhAna-mantrAH/37_Apo_bhadrA.md">
@@ -1100,7 +1100,7 @@ Für solchen gehn wir euch zur Hand, zu dessen Sitz ihr eilend naht, Ihr Wasser 
 आपो॑ भ॒द्रा, घृ॒तम् इद् आप॑ आसुर् -  
 अ॒ग्नीषोमौ॑ **बिभ्र॒त्य्**, आप॒ इत् ताः ।  
 ती॒व्रो रसो॑ मधु॒-पृचा॑म् अरङ्-ग॒म +++(→रसः)+++  
-**आ** मा॑ प्रा॒णेन॑ स॒ह वर्च॑सा **गन्न्** ।
+**आ** मा॑ प्रा॒णेन॑ स॒ह वर्च॑सा **गन्** ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/5/6/01_kumbheShTakopAdhAna-mantrAH/37_Apo_bhadrA.md">

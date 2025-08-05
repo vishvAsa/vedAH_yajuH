@@ -169,7 +169,7 @@ verily at the beginning of the sacrifice he makes the Brahman [2].
 <details><summary>मूलम्</summary>
 
 अग्निहो॒त्रमे॒ताभि॒र्व्याहृ॑तीभि॒रुप॑ सादयेत ।  
-यज्ञमु॒खव्ँवा अ॑ग्निहो॒त्रम् ।   
+यज्ञमु॒खव्ँ वा अ॑ग्निहो॒त्रम् ।   
 ब्रह्मै॒ता व्याहृ॑तयो यज्ञमु॒ख ए॒व ब्रह्म॑ [34] +कु॒रु॒ते।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -217,7 +217,7 @@ verily at the beginning of the sacrifice he makes the Brahman.
 <details><summary>मूलम्</summary>
 
 दर्शपूर्णमा॒सौ चा॑तुर्मा॒स्यान्या॒लभ॑मान ए॒ताभि॒र्व्याहृ॑तीभिर् ह॒वीँष्यासा॑दयेत् ।  
-यज्ञमु॒खव्ँवै द॑र्शपूर्णमा॒सौ चा॑तुर्मा॒स्यानि॒ ।  
+यज्ञमु॒खव्ँ वै द॑र्शपूर्णमा॒सौ चा॑तुर्मा॒स्यानि॒ ।  
 ब्रह्मै॒ता व्याहृ॑तयः।    
 यज्ञमु॒ख ए॒व ब्रह्म॑ कुरुते ।  
 </details>
@@ -271,7 +271,7 @@ to the people (falls) the blessing of what (is performed) with the Rc;
 </details>
 <details><summary>मूलम्</summary>
 
-यदृ॒चा विश॑य्ँय॒ज्ञस्या॒ऽऽशीर्ग॑च्छ॒ति ।
+यदृ॒चा विश॑य्ँ य॒ज्ञस्या॒ऽऽशीर्ग॑च्छ॒ति ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -366,7 +366,7 @@ verily the blessing of his sacrifice falls to his foe [4].
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यान् का॒मये॑त॒ यज॑मानान्थ् "स॒माव॑त्य् एनान् य॒ज्ञस्या॒ऽऽशीर् ग॑च्छे॒द्" इति
+यान् का॒मये॑त॒ यज॑मानान्त्  "स॒माव॑त्य् एनान् य॒ज्ञस्या॒ऽऽशीर् ग॑च्छे॒द्" इति
 तेषा॑म् ए॒ता व्याहृ॑तीᳶ  
 पुरोऽनुवा॒क्या॑या अर्ध॒र्च एका॑न् दध्याद्  
 या॒ज्या॑यै पु॒रस्ता॒द् एका॑य्ँ  
@@ -410,7 +410,7 @@ they surround the water with a mound, the sacrificer surrounds the sacrifice wit
 <details><summary>मूलम्</summary>
 
 यथा॒ वै प॒र्जन्य॒स्सुवृ॑ष्ट॒व्ँवर्ष॑ति ..   
-ए॒वय्ँय॒ज्ञो यज॑मानाय वर्षति ।  
+ए॒वय्ँ य॒ज्ञो यज॑मानाय वर्षति ।  
 स्थल॑योद॒कम्प॑रिगृ॒ह्णन्ति ।   
 आ॒शिषा॑ य॒ज्ञय्ँयज॑मान॒ᳶ परि॑गृह्णाति ।
 </details>

@@ -655,7 +655,7 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 अथो॒ खलु॑ ।
-य॒दैवैन॑य्ँय॒ज्ञ उ॑प॒नमे॑त् ।
+य॒दैवैन॑य्ँ य॒ज्ञ उ॑प॒नमे॑त् ।
 अथाद॑धीत ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>

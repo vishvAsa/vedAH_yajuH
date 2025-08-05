@@ -380,7 +380,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-प्र॒जन॑न॒व्ँवा अ॒ग्निः ।
+प्र॒जन॑न॒व्ँ वा अ॒ग्निः ।
 प्र॒जन॑नमे॒वोपै॒तीति॑ ।
 </details>
 

@@ -28,7 +28,7 @@ Cattle attend the cooked offerings of him who has established a fire
 </details>
 <details><summary>मूलम्</summary>
 
-पा॒क॒य॒ज्ञव्ँवा अन्वाहि॑ताग्नेᳶ प॒शव॒ उप॑ तिष्ठन्ते ।  
+पा॒क॒य॒ज्ञव्ँ वा अन्वाहि॑ताग्नेᳶ प॒शव॒ उप॑ तिष्ठन्ते ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -122,7 +122,7 @@ The gods milked the sacrifice,
 </details>
 <details><summary>मूलम्</summary>
 
-य॒ज्ञव्ँवै दे॒वा अदु॑ह्रन् ।  
+य॒ज्ञव्ँ वै दे॒वा अदु॑ह्रन् ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -464,7 +464,7 @@ The Ida is as it were a breach in the sacrifice; half they eat [4], half they wi
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒तत् प्रति॒ वा असु॑राणाय्ँय॒ज्ञो व्य॑च्छिद्यत ।  
+ए॒तत् प्रति॒ वा असु॑राणाय्ँ य॒ज्ञो व्य॑च्छिद्यत ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -472,7 +472,7 @@ in this regard the sacrifice of the Asuras was broken;
 </details>
 <details><summary>मूलम्</summary>
 
-ए॒तत्प्रति॒ वा असु॑राणाय्ँय॒ज्ञो व्य॑च्छिद्यत ।  
+ए॒तत्प्रति॒ वा असु॑राणाय्ँ य॒ज्ञो व्य॑च्छिद्यत ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -513,7 +513,7 @@ verily by the holy power (Brahman) he unites the sacrifice-
 बृह॒स्पति॑स्तनुतामि॒मन्न॒ इत्या॑ह ।  
 ब्रह्म॒ वै दे॒वाना॒म्बृह॒स्पतिः॑ ।  
 ब्रह्म॑णै॒व य॒ज्ञँ सन्द॑धाति ।  
-विच्छि॑न्नय्ँय॒ज्ञँ समि॒मन्द॑धा॒त्वित्या॑ह॒ सन्त॑त्यै ।  
+विच्छि॑न्नय्ँ य॒ज्ञँ समि॒मन्द॑धा॒त्वित्या॑ह॒ सन्त॑त्यै ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -554,7 +554,7 @@ The [5] sacrificial fee which he gives at the sacrifice his cattle accompany;
 </details>
 <details><summary>मूलम्</summary>
 
-याव्ँवै [5] य॒ज्ञे दक्षि॑णा॒न्ददा॑ति॒, ताम॑स्य प॒शवोऽनु॒ सङ्क्रा॑मन्ति ।
+याव्ँ वै [5] य॒ज्ञे दक्षि॑णा॒न्ददा॑ति॒, ताम॑स्य प॒शवोऽनु॒ सङ्क्रा॑मन्ति ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

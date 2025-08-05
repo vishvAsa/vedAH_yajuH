@@ -9350,7 +9350,7 @@ Of thee, O god Soma, that art purified in the waters, that art pressed by men, o
 </details>
 <details><summary>मूलम्</summary>
 
-इ॒यव्ँवा अदि॑तिः ।
+इ॒यव्ँ वा अदि॑तिः ।
 अ॒स्यामे॒व प्रति॑तिष्ठन्ति ।
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

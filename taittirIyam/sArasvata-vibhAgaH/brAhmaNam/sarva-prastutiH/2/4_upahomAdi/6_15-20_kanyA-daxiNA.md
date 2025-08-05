@@ -138,7 +138,7 @@ title = "६ १५-२० कन्या-दक्षिणा"
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/6_15-20_kanyA-daxiNA/17_Apas_tath.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-आप॒स् तथ् +++(पूर्वोक्त-कन्या-रूप-दक्षिणां)+++ स॒त्यम् **आभ॑रन्न्** ।  
+आप॒स् तथ् +++(पूर्वोक्त-कन्या-रूप-दक्षिणां)+++ स॒त्यम् **आभ॑रन्** ।  
 यशो॑ य॒ज्ञस्य॒ दक्षि॑णाम् ।  
 अ॒सौ मे॒ काम॒स् **समृ॑द्ध्यताम्** ।  
 न हि स्पश॒म् **अवि॑दन्न्** अ॒न्यम् अ॒स्मात् ।

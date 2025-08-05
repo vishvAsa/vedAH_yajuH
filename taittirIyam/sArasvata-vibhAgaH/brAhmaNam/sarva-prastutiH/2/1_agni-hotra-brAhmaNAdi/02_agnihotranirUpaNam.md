@@ -523,7 +523,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-रात्रि॒व्ँवा अनु॑ प्र॒जाᳶ प्रजा॑यन्ते ।
+रात्रि॒व्ँ वा अनु॑ प्र॒जाᳶ प्रजा॑यन्ते ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

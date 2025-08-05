@@ -625,7 +625,7 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/04/83_apAmmedhyay.Nyajniyam_sadevam.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-अ॒पाम्मेध्य॑य्ँय॒ज्ञिय॑म् ।  
+अ॒पाम्मेध्य॑य्ँ य॒ज्ञिय॑म् ।  
 सदे॑वँ शि॒वम॑स्तु मे ॥32॥  
 आ॒च्छे॒त्ता वो॒ मा रि॑षम् ।  
 जीवा॑नि श॒रद॑श्श॒तम् ।
@@ -635,7 +635,7 @@ unicode_script: devanagari
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
-अ॒पाम्मेध्य॑य्ँय॒ज्ञिय॑म् ।  
+अ॒पाम्मेध्य॑य्ँ य॒ज्ञिय॑म् ।  
 सदे॑वँ शि॒वम॑स्तु मे ॥32॥  
 आ॒च्छे॒त्ता वो॒ मा रि॑षम् ।  
 जीवा॑नि श॒रद॑श्श॒तम् ।

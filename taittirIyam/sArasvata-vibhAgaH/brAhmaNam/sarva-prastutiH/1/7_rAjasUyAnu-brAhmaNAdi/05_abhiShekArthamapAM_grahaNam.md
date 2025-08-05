@@ -197,7 +197,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-अन्न॒व्ँवै म॒रुतः॑ ।
+अन्न॒व्ँ वै म॒रुतः॑ ।
 अन्न॑मे॒वाव॑रुन्धे ।
 </details>
 

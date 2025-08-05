@@ -453,7 +453,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 <details><summary>मूलम्</summary>
 
 पुन॑र्नो दे॒व्यदि॑तिस्स्पृणोतु ।   
-पुन॑र्वसू न॒ᳶ पुन॒रेता॑य्ँय॒ज्ञम् ।  
+पुन॑र्वसू न॒ᳶ पुन॒रेता॑य्ँ य॒ज्ञम् ।  
 पुन॑र्नो दे॒वा अ॒भिय॑न्तु॒ सर्वे॑ ।    
 पुन॑ᳶपुनर्वो ह॒विषा॑ यजामः ।    
 
