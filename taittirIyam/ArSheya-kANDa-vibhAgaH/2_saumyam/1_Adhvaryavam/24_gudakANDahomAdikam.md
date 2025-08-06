@@ -196,7 +196,7 @@ Go to the clouds of the sky, hail!
 ________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्निव्ँवै॑श्वान॒रङ्ग॑च्छ॒ स्वाहा॑ ।
+अ॒ग्निव्ँ वै॑श्वान॒रङ्ग॑च्छ॒ स्वाहा॑ ।
 </details>
 <details><summary>Keith</summary>
 
@@ -204,7 +204,7 @@ Go to Agni Vaiśvanara, hail!
 </details>
 <details><summary>मूलम्</summary>
 
-अ॒ग्निव्ँवै॑श्वान॒रङ्ग॑च्छ॒ स्वाहा॑ ।
+अ॒ग्निव्ँ वै॑श्वान॒रङ्ग॑च्छ॒ स्वाहा॑ ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

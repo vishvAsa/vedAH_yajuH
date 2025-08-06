@@ -232,7 +232,7 @@ ____
 सु॒-प्र॒जस॑स् त्वा व॒यँ  
 सु॒-पत्नी॒र् **उप॑ सेदिम** ।  
 अग्ने॑ सपत्न॒-दम्भ॑न॒म् +++(त्वां)+++  
-**अ-द॑ब्धासो॒** अ-दा॑॑भ्यम् ॥
+**अ-द॑ब्धासो॒** अ-दा॑भ्यम् ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/41_suprajasas_tvA.md">
@@ -247,7 +247,7 @@ The undeceivable, we that are not deceived.
 <details><summary>मूलम्</summary>
 
 सु॒प्र॒जस॑स्त्वा व॒यँ सु॒पत्नी॒रुप॑ [16] सेदिम ।  
-अग्ने॑ सपत्न॒दम्भ॑न॒मद॑ब्धासो॒ अदा॑॑भ्यम् ॥
+अग्ने॑ सपत्न॒दम्भ॑न॒मद॑ब्धासो॒ अदा॑भ्यम् ॥
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
