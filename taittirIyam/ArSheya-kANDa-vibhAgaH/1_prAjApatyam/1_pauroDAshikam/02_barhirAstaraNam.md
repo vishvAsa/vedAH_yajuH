@@ -199,7 +199,7 @@ Thou art made to grow by the rains.
 
 <details><summary>पद-पाठः</summary>
 
-व॒ऱ्षवृ॑द्ध॒मिति॑ व॒र्,ष-वृ॒द्ध॒म्॒ । अ॒सि॒ ।
+व॒ऱ्षवृ॑द्ध॒मिति॑ व॒र्,ष-वृ॒द्ध॒म् । अ॒सि॒ ।
 </details>
 
 
@@ -258,7 +258,7 @@ Let me hit thy joints,
 
 <details><summary>पद-पाठः</summary>
 
-पर्व॑ । ते॒ । रा॒ध्या॒स॒म्॒ ।
+पर्व॑ । ते॒ । रा॒ध्या॒स॒म् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -286,7 +286,7 @@ Let me come to no harm in cutting thee.
 
 <details><summary>पद-पाठः</summary>
 
-आ॒च्छे॒त्तेत्या॑-छे॒त्ता । ते॒ । मा । रि॒ष॒म्॒ ।
+आ॒च्छे॒त्तेत्या॑-छे॒त्ता । ते॒ । मा । रि॒ष॒म् ।
 </details>
 
 
@@ -319,7 +319,7 @@ O divine straw, rise with a hundred shoots,
 
 <details><summary>पद-पाठः</summary>
 
-देव॑बऱ्हि॒रिति॒ देव॑-ब॒र्,हिः॒ । श॒तव॑ल्,श॒मिति॑ श॒त-व॒ल्,श॒म्॒ । वीति॑ । रो॒ह॒ । 
+देव॑बऱ्हि॒रिति॒ देव॑-ब॒र्,हिः॒ । श॒तव॑ल्,श॒मिति॑ श॒त-व॒ल्,श॒म् । वीति॑ । रो॒ह॒ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

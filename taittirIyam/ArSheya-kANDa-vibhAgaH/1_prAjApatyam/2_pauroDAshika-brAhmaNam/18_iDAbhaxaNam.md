@@ -261,7 +261,7 @@ unicode_script = "devanagari"
 
 <details><summary>मूलम्</summary>
 
-यज॑मानन्दे॒वा अ॑ब्रुवन्न् ।
+यज॑मानन्दे॒वा अ॑ब्रुवन् ।
 ह॒विर्नो॒ निर्व॒पेति॑ ।
 </details>
 

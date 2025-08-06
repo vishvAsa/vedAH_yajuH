@@ -1130,7 +1130,7 @@ _______
 गोमाँ॑ अ॒ग्ने, ऽवि॑माँ, अ॒श्वी **य॒ज्ञो**  
 नृ॒वथ्+++(→देव)+++-स॑खा॒ सद॒म्+++(=सदा)+++ इद् अ॑प्रमृ॒ष्यः ।  
 इडा॑वाँ ए॒षो +++(→य॒ज्ञो)+++ अ॑सुर प्र॒जावा॑न्  
-दी॒र्घो र॒यिᳶ पृ॑थु-बु॒ध्नस्+++(=मूलः)+++ स॒भावान्॑ ॥ [20]
+दी॒र्घो र॒यिᳶ पृ॑थु-बु॒ध्नस्+++(=मूलः)+++ स॒भावा॑न् ॥ [20]
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/06_AhavanIyopasthAnAdimantrAH/02_gomAM_agne.md">
@@ -1145,7 +1145,7 @@ Enduring wealth, deep based and rich in houses.
 <details><summary>मूलम्</summary>
 
 गोमाँ॑ अ॒ग्नेऽवि॑माँ अ॒श्वी य॒ज्ञो नृ॒वत्स॑खा॒ सद॒मिद॑प्रमृ॒ष्यः ।  
-इडा॑वाँ ए॒षो अ॑सुर प्र॒जावा॑न्दी॒र्घो र॒यिᳶ पृ॑थुबु॒ध्नस्स॒भावान्॑ ॥ [20]
+इडा॑वाँ ए॒षो अ॑सुर प्र॒जावा॑न्दी॒र्घो र॒यिᳶ पृ॑थुबु॒ध्नस्स॒भावा॑न् ॥ [20]
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

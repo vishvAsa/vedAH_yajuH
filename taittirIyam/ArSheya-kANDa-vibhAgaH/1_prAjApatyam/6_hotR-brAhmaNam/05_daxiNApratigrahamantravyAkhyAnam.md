@@ -7,12 +7,12 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वा वै वरु॑णमयाजयन्न् ।
+दे॒वा वै वरु॑णमयाजयन् ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-दे॒वा वै वरु॑णमयाजयन्न् ।
+दे॒वा वै वरु॑णमयाजयन् ।
 </details>
 
 
@@ -40,7 +40,7 @@ unicode_script = "devanagari"
 
 <details><summary>मूलम्</summary>
 
-ते॑ऽब्रुवन्न् ।
+ते॑ऽब्रुवन् ।
 व्या॒वृत्य॒ प्रति॑गृह्णाम ।
 तथा॑ नो॒ दक्षि॑णा॒ न व्ले॑ष्य॒तीति॑ ।
 </details>

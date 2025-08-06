@@ -205,7 +205,7 @@ Abide ye, numerous, with this lord of cattle.
 
 <details><summary>पद-पाठः</summary>
 
-ध्रुवाः । अस्मिन्न् । गोपताविति गो-पतौ । स्यात । बह्वीः । 
+ध्रुवाः । अस्मिन् । गोपताविति गो-पतौ । स्यात । बह्वीः । 
 </details>
 
 

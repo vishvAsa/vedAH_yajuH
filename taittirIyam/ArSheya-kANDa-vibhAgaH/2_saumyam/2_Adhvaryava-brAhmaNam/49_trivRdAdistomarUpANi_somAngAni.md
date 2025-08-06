@@ -110,7 +110,7 @@ unicode_script = "devanagari"
 
 <details><summary>मूलम्</summary>
 
-तय्ँयद॒स्या अध्य॒जन॑यन्न् ।
+तय्ँयद॒स्या अध्य॒जन॑यन् ।
 तस्मा॑दादि॒त्यः ॥ 44 ॥   
 </details>
 
@@ -179,7 +179,7 @@ unicode_script = "devanagari"
 
 <details><summary>मूलम्</summary>
 
-तन्त्रि॒वृताऽह॑रन्न् ।
+तन्त्रि॒वृताऽह॑रन् ।
 याव॑ती त्रि॒वृतो॒ मात्रा॑ ।
 </details>
 
@@ -213,7 +213,7 @@ unicode_script = "devanagari"
 
 <details><summary>मूलम्</summary>
 
-तम्प॑ञ्चद॒शेनाह॑रन्न् ।
+तम्प॑ञ्चद॒शेनाह॑रन् ।
 याव॑ती पञ्चद॒शस्य॒ मात्रा॑ ॥ 45 ॥  
 </details>
 
@@ -236,7 +236,7 @@ unicode_script = "devanagari"
 
 <details><summary>मूलम्</summary>
 
-तँ स॑प्तद॒शेनाह॑रन्न् ।
+तँ स॑प्तद॒शेनाह॑रन् ।
 याव॑ती सप्तद॒शस्य॒ मात्रा॑ ।
 </details>
 
@@ -285,7 +285,7 @@ unicode_script = "devanagari"
 
 <details><summary>मूलम्</summary>
 
-तमे॑कविँ॒शेनाह॑रन्न् ।
+तमे॑कविँ॒शेनाह॑रन् ।
 याव॑त्येकविँ॒शस्य॒ मात्रा॑ ।
 </details>
 
@@ -618,18 +618,18 @@ unicode_script = "devanagari"
 <details><summary>मूलम्</summary>
 
 ते कु॒श्यौ॑ ।
-व्य॑घ्नन्न् ।
+व्य॑घ्नन् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते कु॒श्यौ॑ व्य् अ॑घ्नन्न् ।  
+ते कु॒श्यौ॑ व्य् अ॑घ्नन् ।  
 ते अ॑होरा॒त्रे अ॑भवताम् ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
-ते कु॒श्यौ॑ व्य् अ॑घ्नन्न् ।  
+ते कु॒श्यौ॑ व्य् अ॑घ्नन् ।  
 ते अ॑होरा॒त्रे अ॑भवताम् ।  
 </details>
 

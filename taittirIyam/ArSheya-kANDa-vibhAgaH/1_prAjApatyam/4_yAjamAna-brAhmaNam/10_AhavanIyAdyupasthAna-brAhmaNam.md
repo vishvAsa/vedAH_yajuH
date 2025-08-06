@@ -544,7 +544,7 @@ verily he releases his vow [6], for atonement, to prevent burning.
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-परा॒ङ्॒ वाव य॒ज्ञ ए॑ति॒, न नि व॑र्तते ।  
+परा॒ङ् वाव य॒ज्ञ ए॑ति॒, न नि व॑र्तते ।  
 पुन॒र् यो वै य॒ज्ञस्य॑ पुनर्-आल॒म्भव्ँ वि॒द्वान् यज॑ते॒,  
 तम् अ॒भि नि व॑र्तते ।  
 </details>
@@ -555,7 +555,7 @@ to him who sacrifices knowing the restoration of the sacrifice it does turn back
 </details>
 <details><summary>मूलम्</summary>
 
-परा॒ङ्॒वाव य॒ज्ञ ए॑ति॒ न नि व॑र्तते ।  
+परा॒ङ्वाव य॒ज्ञ ए॑ति॒ न नि व॑र्तते ।  
 पुन॒र्यो वै य॒ज्ञस्य॑ पुनराल॒म्भव्ँवि॒द्वान् यज॑ते॒ तम॒भि नि व॑र्तते ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
