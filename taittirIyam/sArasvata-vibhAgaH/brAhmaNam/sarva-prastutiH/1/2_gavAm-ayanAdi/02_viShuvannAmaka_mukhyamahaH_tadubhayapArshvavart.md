@@ -1,9 +1,8 @@
 ---
 title: ०२ विषुवन्नामक मुख्यमहः, तदुभयपार्श्ववर्तिनि चत्वार्यहानि
 unicode_script: devanagari
+
 ---
-
-
 ##  अनुवाकः २
 ## गवामयनब्राह्मणम्, वैश्वदेवं काण्डम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -356,7 +355,7 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 बृ॒हद्वै सु॑व॒र्गो लो॒कः ।
-बृ॒ह॒तैव सु॑व॒र्गल्ँलो॒कय्ँय॑न्ति ।
+बृ॒ह॒तैव सु॑व॒र्गल्ँ लो॒कय्ँय॑न्ति ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -493,4 +492,3 @@ unicode_script: devanagari
 इति द्वितीयोऽनुवाकः ॥  
 
 </details>
-

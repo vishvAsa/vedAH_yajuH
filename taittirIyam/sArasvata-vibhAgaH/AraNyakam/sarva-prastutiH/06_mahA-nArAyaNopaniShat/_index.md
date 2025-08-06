@@ -2112,7 +2112,7 @@ Das Meer erbrauste in dem ersten Himmel, des Weltalls König, die Geschöpfe zeu
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_1/03_sapta_prANAH.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
-स॒प्त प्रा॒णाः प्र॒भव॑न्ति॒ तस्मा॑थ्  
+स॒प्त प्रा॒णाः प्र॒भव॑न्ति॒ तस्मा॑त्  
 स॒प्तार्चिष॑स् स॒मिध॑स् स॒प्त जि॒ह्वाः ।  
 स॒प्त इ॒मे लो॒का येषु॒  चर॑न्ति प्रा॒णा  
 गु॒हाश॑या॒न् निहि॑तास् स॒प्त-स॑प्त ॥
@@ -2122,7 +2122,7 @@ Das Meer erbrauste in dem ersten Himmel, des Weltalls König, die Geschöpfe zeu
 <details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
 <details><summary>मूलम्</summary>
 
-स॒प्त प्रा॒णाः प्र॒भव॑न्ति॒ तस्मा॑थ्  
+स॒प्त प्रा॒णाः प्र॒भव॑न्ति॒ तस्मा॑त्  
 स॒प्तार्चिष॑स् स॒मिध॑स् स॒प्त जि॒ह्वाः ।  
 स॒प्त इ॒मे लो॒का येषु॒  चर॑न्ति प्रा॒णा  
 गु॒हाश॑या॒न् निहि॑तास् स॒प्त-स॑प्त ॥

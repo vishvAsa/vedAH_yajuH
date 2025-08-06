@@ -473,7 +473,7 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 तय्ँयद॑व॒वर्जे॑युः ।
-क्रू॒र॒कृता॑मिवैषाल्ँलो॒कस्स्या॑त् ।
+क्रू॒र॒कृता॑मिवैषाल्ँ लो॒कस्स्या॑त् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -665,7 +665,7 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 त्रय॑ इ॒मे लो॒काः ।
-ए॒भ्य ए॒वैन॑ल्ँलो॒केभ्यो॑ धुवते ।
+ए॒भ्य ए॒वैन॑ल्ँ लो॒केभ्यो॑ धुवते ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

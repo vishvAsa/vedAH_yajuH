@@ -500,7 +500,7 @@ By the sacrifice there is offering, by the cooked food satisfying. He who knowin
 
 अक्षि॑तो॒ऽसि ।  
 अक्षि॑त्यै त्वा॒ मा मे॑ क्षेष्ठाः ।  
-अ॒मुत्रा॒मुष्मि॑ल्ँलो॒क इत्या॑ह ।  
+अ॒मुत्रा॒मुष्मि॑ल्ँ लो॒क इत्या॑ह ।  
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -532,8 +532,8 @@ for given hence in yonder world people live upon it;
 
 <details><summary>मूलम्</summary>
 
-क्षीय॑ते॒ वा अ॒मुष्मि॑ल्ँलो॒के ।  
-अन्न॑मि॒तᳶ प्र॑दानँ॒ ह्य॑मुष्मि॑ल्ँलो॒के प्र॒जा उ॑प॒जीव॑न्ति ।  
+क्षीय॑ते॒ वा अ॒मुष्मि॑ल्ँ लो॒के ।  
+अन्न॑मि॒तᳶ प्र॑दानँ॒ ह्य॑मुष्मि॑ल्ँ लो॒के प्र॒जा उ॑प॒जीव॑न्ति ।  
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -563,7 +563,7 @@ in that he touches thus, he makes it imperishable; his food perishes not in yond
 <details><summary>मूलम्</summary>
 
 यदे॒वम॑भिमृ॒शत्यक्षि॑तिमे॒वैन॑द्गमयति ।  
-नास्या॒मुष्मि॑ल्ँलो॒केऽन्न॑ङ्क्षीयते ॥ [14]
+नास्या॒मुष्मि॑ल्ँ लो॒केऽन्न॑ङ्क्षीयते ॥ [14]
 </details>
 
 <details><summary>पद-पाठः</summary>

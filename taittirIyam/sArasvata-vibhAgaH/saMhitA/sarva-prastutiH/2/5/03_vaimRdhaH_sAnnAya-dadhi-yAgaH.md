@@ -817,7 +817,7 @@ One should disregard that and offer ready (milk) first; verily one places power 
 ### तञ्चनम्  
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत् पू॒तीकै॑र् वा पर्ण-व॒ल्कैर् वा॑ त॒ञ्च्याथ्  
+यत् पू॒तीकै॑र् वा पर्ण-व॒ल्कैर् वा॑ त॒ञ्च्यात्  
 सौ॒म्यन् तत् ।  
 </details>
 

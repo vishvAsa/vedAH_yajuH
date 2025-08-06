@@ -228,7 +228,7 @@ Pure be the world where the Pitrs sit.
 </details>
 <details><summary>मूलम्</summary>
 
-शुन्ध॑ताल्ँलो॒कᳶ पि॑तृ॒षद॑नः ।
+शुन्ध॑ताल्ँ लो॒कᳶ पि॑तृ॒षद॑नः ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

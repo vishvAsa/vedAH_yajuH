@@ -369,7 +369,7 @@ unicode_script: devanagari
 </details>
 <details><summary>मूलम्</summary>
 
-ते सु॑व॒र्गल्ँ लो॒कमा प्रारो॑हन्न्  ।   
+ते सु॑व॒र्गल्ँ लो॒कमा प्रारो॑हन् ।   
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

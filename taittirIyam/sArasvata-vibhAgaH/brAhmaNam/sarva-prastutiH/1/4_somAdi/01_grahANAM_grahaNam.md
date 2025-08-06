@@ -1,8 +1,8 @@
 ---
-title:  ०१ ग्रहाणां ग्रहणम्‌
+title: ०१ ग्रहाणां ग्रहणम्‌
 unicode_script: devanagari
----
 
+---
 ## सोमादिब्राह्मणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -244,7 +244,7 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 यच्च॑म॒साञ्जु॒होति॑ ।
-तेनै॒वानु॑रूपेण॒ यज॑मानस्सुव॒र्गल्ँलो॒कमे॑ति ।
+तेनै॒वानु॑रूपेण॒ यज॑मानस्सुव॒र्गल्ँ लो॒कमे॑ति ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -615,4 +615,3 @@ unicode_script: devanagari
 इति चतुर्थे प्रथमोऽनुवाकः ॥  
 
 </details>
-

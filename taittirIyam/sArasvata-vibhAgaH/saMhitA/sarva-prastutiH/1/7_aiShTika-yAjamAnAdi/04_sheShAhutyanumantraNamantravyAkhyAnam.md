@@ -435,7 +435,7 @@ he makes the sacrificer to go by the steeds of the gods to the world of heaven.
 </details>
 <details><summary>मूलम्</summary>
 
-यदे॒तैᳶ प्र॑स्त॒रम्प्र॒हर॑ति देवा॒श्वैरे॒व यज॑मानँ सुव॒र्गल्ँलो॒कङ्ग॑मयति ।  
+यदे॒तैᳶ प्र॑स्त॒रम्प्र॒हर॑ति देवा॒श्वैरे॒व यज॑मानँ सुव॒र्गल्ँ लो॒कङ्ग॑मयति ।  
 </details>
 
 <details><summary>पद-पाठः</summary>

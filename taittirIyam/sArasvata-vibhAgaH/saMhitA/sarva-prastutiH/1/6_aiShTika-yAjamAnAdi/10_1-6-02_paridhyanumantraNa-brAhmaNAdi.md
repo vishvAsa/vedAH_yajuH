@@ -150,7 +150,7 @@ with the unsuccessful part they overcame the Asuras.
 </details>
 <details><summary>मूलम्</summary>
 
-य॒ज्ञस्य॒ वै समृ॑द्धेन दे॒वास्सु॑व॒र्गल्ँलो॒कमा॑यन् ।   
+य॒ज्ञस्य॒ वै समृ॑द्धेन दे॒वास्सु॑व॒र्गल्ँ लो॒कमा॑यन् ।   
 य॒ज्ञस्य॒ व्यृ॑द्धे॒नासु॑रा॒न्परा॑भावयन् ।
 </details>
 <details><summary>पद-पाठः</summary>
@@ -178,7 +178,7 @@ with the unsuccessful part he overcomes the foes.
 <details><summary>मूलम्</summary>
 
 यन्मे॑ अग्ने अ॒स्य य॒ज्ञस्य॒ रिष्या॒दित्या॑ह ।  
-य॒ज्ञस्यै॒व तत्समृ॑द्धेन॒ यज॑मानस्सुव॒र्गल्ँलो॒कमे॑ति
+य॒ज्ञस्यै॒व तत्समृ॑द्धेन॒ यज॑मानस्सुव॒र्गल्ँ लो॒कमे॑ति
 य॒ज्ञस्य॒ व्यृ॑द्धेन॒ भ्रातृ॑व्या॒न्परा॑ भावयति
 </details>
 <details><summary>पद-पाठः</summary>

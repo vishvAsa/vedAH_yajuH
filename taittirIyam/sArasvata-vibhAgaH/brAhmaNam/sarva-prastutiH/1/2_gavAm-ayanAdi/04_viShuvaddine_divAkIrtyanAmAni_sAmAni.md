@@ -1,8 +1,8 @@
 ---
 title: ०४ विषुवद्दिने दिवाकीर्त्यनामानि सामानि
 unicode_script: devanagari
----
 
+---
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ए॒क॒-विँ॒श ए॒ष भ॑वति ।  
@@ -22,7 +22,7 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 ए॒तेन॒ वै दे॒वा ए॑कविँ॒शेन॑ ।
-आ॒दि॒त्यमि॒त उ॑त्त॒मँ सु॑व॒र्गल्ँलो॒कमारो॑हयन् ।
+आ॒दि॒त्यमि॒त उ॑त्त॒मँ सु॑व॒र्गल्ँ लो॒कमारो॑हयन् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -343,4 +343,3 @@ unicode_script: devanagari
 इति द्वितीये चतुर्थोऽनुवाकः॥  
 
 </details>
-

@@ -1,8 +1,8 @@
 ---
 title: ०७ , यूपारोहणम्
 unicode_script: devanagari
----
 
+---
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता॒र्प्यय्ँ यज॑मान॒म् परि॑धापयति ।  
@@ -360,7 +360,7 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 प्रा॒णाने॒व य॑थास्था॒नङ्क॑ल्पयि॒त्वा ।
-सु॒व॒र्गल्ँलो॒कमे॑ति ।
+सु॒व॒र्गल्ँ लो॒कमे॑ति ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -399,7 +399,7 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 याव॑दे॒वास्यास्ति॑ ।
-तेन॑ स॒ह सु॑व॒र्गल्ँलो॒कमे॑ति ।
+तेन॑ स॒ह सु॑व॒र्गल्ँ लो॒कमे॑ति ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -465,7 +465,7 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑तेᳶ प्र॒जा अ॑भू॒मेत्या॑ह ।
-प्रा॒जा॒प॒त्यो वा अ॒यल्ँलो॒कः ।
+प्रा॒जा॒प॒त्यो वा अ॒यल्ँ लो॒कः ।
 अ॒स्मादे॒व तेन॑ लो॒कान्नैति॑ ॥44॥  
 </details>
 
@@ -777,4 +777,3 @@ unicode_script: devanagari
 इति तृतीये सप्तमोऽनुवाकः ॥  
 
 </details>
-

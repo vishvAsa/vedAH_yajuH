@@ -1,8 +1,8 @@
 ---
-title: ०८  पुरोडाशनिष्पादनम् 
+title: ०८  पुरोडाशनिष्पादनम्
 unicode_script: devanagari
----
 
+---
 ## संवपनम्
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/04_havir-nirvApaH/devasya_tvA_savituH.md"  newLevelForH1="5" includeTitle="false"> 
 
@@ -647,7 +647,7 @@ unicode_script: devanagari
 "सम्ब्रह्म॑णा **पृच्य॒स्वे**"त्य् **आ॑ह** ।  
 प्रा॒णा वै ब्रह्म॑ ॥63॥    
 प्रा॒णाᳶ प॒शवः॑ ।  
-प्रा॒णैर् ए॒व प॒शून्थ् **सम्पृ॑णक्ति** ।  
+प्रा॒णैर् ए॒व प॒शून्त् **सम्पृ॑णक्ति** ।  
 **न प्र॒मायु॑का** भवन्ति ।  
 </details>
 

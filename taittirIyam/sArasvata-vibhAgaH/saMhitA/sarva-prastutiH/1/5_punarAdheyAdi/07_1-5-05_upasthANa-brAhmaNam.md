@@ -41,7 +41,7 @@ verily he yokes a Stoma with it.
 </details>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-उपेत्या॑ह प्र॒जा वै प॒शव॒ उपे॒मल्ँलो॒कम्प्र॒जामे॒व प॒शूनि॒मल्ँलो॒कमुपै॑ति 
+उपेत्या॑ह प्र॒जा वै प॒शव॒ उपे॒मल्ँ लो॒कम्प्र॒जामे॒व प॒शूनि॒मल्ँ लो॒कमुपै॑ति 
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -55,8 +55,8 @@ verily he approaches cattle and offspring and this world.
 </details>
 <details><summary>मूलम्</summary>
 
-उपेत्या॑ह प्र॒जा वै प॒शव॒ उपे॒मल्ँलो॒कम् ।  
-प्र॒जामे॒व प॒शूनि॒मल्ँलो॒कमुपै॑ति ।
+उपेत्या॑ह प्र॒जा वै प॒शव॒ उपे॒मल्ँ लो॒कम् ।  
+प्र॒जामे॒व प॒शूनि॒मल्ँ लो॒कमुपै॑ति ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
