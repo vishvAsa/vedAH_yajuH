@@ -129,7 +129,7 @@ Samśravas Sauvarcanasa said to Tumiñja Aupoditi:
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "श꣡रीरव्ँ वा꣡ अस्यै त꣡द् उ꣡पाह्वथा" इ꣡ति होवाच,  
-"गौ꣡र् वा꣡ [7] अस्यै श꣡रीरम् ।"  
+"गौ꣡र् वा꣡ [7] +अस्यै श꣡रीरम् ।"  
 </details>
 
 <details><summary>Keith</summary>
@@ -175,7 +175,7 @@ of the cow were they two talking.
 
 <details><summary>मूलम्</summary>
 
-गाव्ँवाव तौ तत्पर्य॑वदताम् ।  
+गाव्ँ वाव तौ तत्पर्य॑वदताम् ।  
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,12 +196,12 @@ of the cow were they two talking.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या꣡ यज्ञे꣡ दीय꣡ते,  
-सा꣡ प्राणे꣡न देवा꣡न् दाधार,  
+सा꣡ प्राणे꣡न देवा꣡न् **दाधार**,  
 
 य꣡या मनुष्या᳕ जी꣡वन्ति,  
 सा꣡ व्याने꣡न मनुष्या᳕न्  
 
-याम् पितृ꣡भ्यो घ्न꣡न्ति  
+या꣡म् पितृ꣡भ्यो घ्न꣡न्ति  
 सा꣡ ऽपाने꣡न पितॄ꣡न्। 
 </details>
 
@@ -215,7 +215,7 @@ she whom they slay for the Fathers (supports) the Fathers by her inspiration;
 <details><summary>मूलम्</summary>
 
 या य॒ज्ञे दी॒यते॒ सा प्रा॒णेन॑ दे॒वान्दा॑धार॒   
-यया॑ मनु॒ष्या॑ जीव॑न्ति॒ सा व्या॒नेन॑ मनु॒ष्या॑न्  
+यया॑ मनु॒ष्या॑ जीव॑न्ति॒ सा व्या॒नेन॑ मनु॒ष्या॑न्।  
 याम्पि॒तृभ्यो॒ घ्नन्ति॒ साऽपा॒नेन॑ पि॒तॄन्
 </details>
 

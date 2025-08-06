@@ -1,6 +1,7 @@
 ---
-title: ०६ सवननिमित्तकं प्रायश्चित्तम्  
+title: ०६ सवननिमित्तकं प्रायश्चित्तम्
 unicode_script: devanagari
+
 ---
 ## सोमादिब्राह्मणम्
 
@@ -179,7 +180,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-इ॒यव्ँवाव र॑थन्त॒रम् ।
+इ॒यव्ँ वाव र॑थन्त॒रम् ।
 अ॒सौ बृ॒हत् ।
 आ॒भ्यामे॒वैन॑म॒न्तरे॑ति ।
 </details>
@@ -754,4 +755,3 @@ unicode_script: devanagari
 इति षष्ठोऽनुवाकः ॥  
 
 </details>
-

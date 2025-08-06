@@ -98,7 +98,7 @@ of the cow were they two talking.
 </details>
 <details><summary>मूलम्</summary>
 
-गाव्ँवाव तौ तत्पर्य॑वदताम् ।  
+गाव्ँ वाव तौ तत्पर्य॑वदताम् ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

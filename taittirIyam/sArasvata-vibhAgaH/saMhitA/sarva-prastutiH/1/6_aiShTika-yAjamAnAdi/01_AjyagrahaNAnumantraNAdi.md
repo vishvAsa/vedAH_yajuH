@@ -42,7 +42,7 @@ Instigated by Brhaspati may the sacrificer here come to no harm.
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-आज्य॑मसि स॒त्यम॑सि स॒त्यस्याध्य॑क्षमसि ह॒विर॑सि वैश्वान॒रव्ँवै॑श्वदे॒वमुत्पू॑तशुष्मँ स॒त्यौजाः
+आज्य॑मसि स॒त्यम॑सि स॒त्यस्याध्य॑क्षमसि ह॒विर॑सि वैश्वान॒रव्ँ वै॑श्वदे॒वमुत्पू॑तशुष्मँ स॒त्यौजाः
 </details>
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -101,7 +101,7 @@ thou art the oblation of Vaiśvanara, of the All-gods, with pure strength, of tr
 </details>
 <details><summary>मूलम्</summary>
 
-ह॒विर॑सि वैश्वान॒रव्ँवै॑श्वदे॒वमुत्पू॑तशुष्मँ स॒त्यौजाः॑ ।
+ह॒विर॑सि वैश्वान॒रव्ँ वै॑श्वदे॒वमुत्पू॑तशुष्मँ स॒त्यौजाः॑ ।
 </details>
 
 <details><summary>पद-पाठः</summary>
