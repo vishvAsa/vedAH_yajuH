@@ -322,7 +322,7 @@ Glück werde mir, wenn ich dich, Agni, rufe, Heil sei den Leibern, wenn wir dich
 मम॑ दे॒वा वि॑ह॒वे **स॑न्तु॒** सर्व॒  
 इन्द्रा॑वन्तो म॒रुतो॒ विष्णु॑र् अ॒ग्निः ।   
 ममा॒न्तरि॑क्षम् उ॒रु गो॒पम् **अ॑स्तु॒**  
-मह्य॒व्ँ वातᳶ॑ **पवता॒ङ्** कामे॑ अ॒स्मिन्न् ।
+मह्य॒व्ँ वातᳶ॑ **पवता॒ङ्** कामे॑ अ॒स्मिन् ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/14_vihavyAkhyeShTakopadhAnam/23_mama_devA.md">
@@ -330,7 +330,7 @@ Glück werde mir, wenn ich dich, Agni, rufe, Heil sei den Leibern, wenn wir dich
 <details><summary>मूलम्</summary>
 
 मम॑ दे॒वा वि॑ह॒वे स॑न्तु॒ सर्व॒ इन्द्रा॑वन्तो म॒रुतो॒ विष्णु॑र॒ग्निः ।   
-ममा॒न्तरि॑क्षमु॒रु गो॒पम॑स्तु॒ मह्य॒व्ँवातᳶ॑ पवता॒ङ्कामे॑ अ॒स्मिन्न् ।
+ममा॒न्तरि॑क्षमु॒रु गो॒पम॑स्तु॒ मह्य॒व्ँवातᳶ॑ पवता॒ङ्कामे॑ अ॒स्मिन् ।
 </details>
 <details><summary>सायण-टीका</summary>
 

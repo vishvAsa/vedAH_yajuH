@@ -608,7 +608,7 @@ Die sieben Ströme wahren schutzreich seinen Ruhm, die weiten Erd' und Himmel se
 <details><summary>मूलम्</summary>
 
 आपो॑ भ॒द्रा घृ॒तमिदाप॑ आसुर् - अ॒ग्नीषोमौ॑ बिभ्र॒त्याप॒ इत्ताः ।  
-ती॒व्रो रसो॑ मधु॒पृचा॑मरङ्ग॒म आ मा॑ प्रा॒णेन॑ स॒ह वर्च॑सा गन्न् ।
+ती॒व्रो रसो॑ मधु॒पृचा॑मरङ्ग॒म आ मा॑ प्रा॒णेन॑ स॒ह वर्च॑सा गन् ।
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -920,7 +920,7 @@ But even if thought is the ultimate and primal creative act, the origin of the  
 
 
 नास॑द् आसी॒न्, नो सदा॑सीत् त॒दानी॑म् । नासी॒द् रजो॒, नो व्यो॑मा प॒रो यत् ।  
-किम् आव॑रिवः॒+++(=आवरणीयं)+++? कुह॒+++(=क्व)+++? कस्य॒ शर्मन्॑+++(णे)+++? अम्भः॒ किम् आ॑सी॒द् गह॑नं गभी॒रम् ?  
+किम् आव॑रिवः॒+++(=आवरणीयं)+++? कुह॒+++(=क्व)+++? कस्य॒ शर्म॑न्+++(णे)+++? अम्भः॒ किम् आ॑सी॒द् गह॑नं गभी॒रम् ?  
 
 </details>
 </div>
@@ -3274,7 +3274,7 @@ Von wannen diese Schöpfung sei gekommen, ob sie geschaffen oder unerschaffen, D
 किं स्वि॒द्वनं॒ क उ॒ स वृ॒क्ष **आ॑स॒**+++(आ॑सीत् इति तैत्तिरीयपाठः)+++ -  
 यतो॒ द्यावा॑पृथि॒वी **नि॑ष्टत॒क्षुः**+++(←तक्ष्)+++ ।  
 मनी॑षिणो॒ मन॑सा **पृ॒च्छतेद्** उ॒ तद् -  
-यद् **अ॒ध्यति॑ष्ठद्** भुव॑नानि **धा॒रयन्॑** ।  
+यद् **अ॒ध्यति॑ष्ठद्** भुव॑नानि **धा॒रय॑न्** ।  
 
 </details>
 </div>
@@ -3571,7 +3571,7 @@ Was war der Wald, und was war jener Baum doch, aus dem sie Erd' und Himmel schö
 ब्रह्म॒ वन॒म् ब्रह्म॒ स वृ॒क्ष **आ॑सीत्** ॥ 76 ॥  
 यतो॒ द्यावा॑पृथि॒वी **नि॑ष्टत॒क्षुः**+++(←तक्ष्)+++ ।   
 मनी॑षिणो॒ मन॑सा॒ **विब्र॑वीमि** वः ।  
-**ब्रह्मा॒ध्यति॑ष्ठ॒द्** भुव॑नानि **धा॒रयन्न्॑** ।
+**ब्रह्मा॒ध्यति॑ष्ठ॒द्** भुव॑नानि **धा॒रय॑न्** ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/9_08-16_nAsadIyam/24_brahma_vanam.md">
@@ -3581,7 +3581,7 @@ Was war der Wald, und was war jener Baum doch, aus dem sie Erd' und Himmel schö
 ब्रह्म॒ वन॒म्ब्रह्म॒ स वृ॒क्ष आ॑सीत् ॥ 76 ॥  
 यतो॒ द्यावा॑पृथि॒वी नि॑ष्टत॒क्षुः ।   
 मनी॑षिणो॒ मन॑सा॒ विब्र॑वीमि वः ।  
-ब्रह्मा॒ध्यति॑ष्ठ॒द्भुव॑नानि धा॒रयन्न्॑ ।
+ब्रह्मा॒ध्यति॑ष्ठ॒द्भुव॑नानि धा॒रय॑न् ।
 </details>
 <details><summary>सायण-टीका</summary>
 

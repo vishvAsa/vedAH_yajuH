@@ -177,7 +177,7 @@ Defilement [1] destroying.
 अ॒श्व॒त्थे वो॑ **नि॒षद॑नम्**  
 प॒र्णे वो॑ **वस॒तिᳵ** कृ॒ता ।  
 गो॒-भाज॒ इत् **किला॑सथ॒**  
-यथ् **स॒नव॑थ॒**+++(←दाने)+++ पूरु॑षम् ।
+यत् **स॒नव॑थ॒**+++(←दाने)+++ पूरु॑षम् ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/06_ashvatthe_vo.md">

@@ -399,7 +399,7 @@ Notes: This section is entirely Vedic illustrating the hybrid nature of the Hira
 
 
 अ॒मी॒व॒हा+++(=व्याधिहा)+++ वास्तो॑ष्पते॒  
-विश्वा॑ रू॒पाण्य् आ॑ वि॒शन्न् ।  
+विश्वा॑ रू॒पाण्य् आ॑ वि॒शन् ।  
 सखा॑ सु॒शेव॑+++(फ)+++ एधि नः ।  
 
 </details>
@@ -1087,7 +1087,7 @@ Notes: The initial invocation of Prajāpati, Indra, Yama, Varuṇa and Soma in a
 
 पा॒व॒मा॒नीर् **दि॑शन्तु** नः ।  
 इ॒मल्ँ लो॒कम् अथो॑ अ॒मुम् ।  
-कामा॒न्थ् **सम॑र्धयन्तु** नः ।  
+कामा॒न्त् **सम॑र्धयन्तु** नः ।  
 दे॒वीर् दे॒वैस् **स॒माभृ॑ताः** ।           
 
 </details>
