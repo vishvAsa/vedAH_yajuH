@@ -1,6 +1,7 @@
 +++
 title = "शुन्धन्ताम्"
 unicode_script = "devanagari"
+
 +++
 
 <details open=""><summary>विश्वास-प्रस्तुतिः</summary>
@@ -14,7 +15,7 @@ Pure be the world where the Pitrs sit.
 
 <details><summary>मूलम्</summary>
 
-शुन्ध॑ताल्ँलो॒कᳶ पि॑तृ॒षद॑नः ।
+शुन्ध॑ताल्ँ लो॒कᳶ पि॑तृ॒षद॑नः ।
 </details>
 
 <details><summary>पद-पाठः</summary>

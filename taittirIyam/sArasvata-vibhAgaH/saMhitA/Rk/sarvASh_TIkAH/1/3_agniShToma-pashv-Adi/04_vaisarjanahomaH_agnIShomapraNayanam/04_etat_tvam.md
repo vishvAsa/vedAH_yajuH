@@ -20,7 +20,7 @@ So, O Soma, god to the gods, hast thou gone, and I here man to man, with offspri
 <details><summary>पद-पाठः</summary>
 
 ए॒तत् । त्वम् । सो॒म॒ । दे॒वः । दे॒वान् । उपेति॑ । अ॒गाः॒ ।   
-इ॒दम् । अ॒हम् । म॒नु॒ष्यः॑ । म॒नु॒ष्यान्॑ ।    
+इ॒दम् । अ॒हम् । म॒नु॒ष्यः॑ । म॒नु॒ष्या॑न् ।    
 स॒ह । प्र॒जयेति॑ प्र-जया॑ । स॒ह । रा॒यः । पोषे॑ण । 
 </details>
 
