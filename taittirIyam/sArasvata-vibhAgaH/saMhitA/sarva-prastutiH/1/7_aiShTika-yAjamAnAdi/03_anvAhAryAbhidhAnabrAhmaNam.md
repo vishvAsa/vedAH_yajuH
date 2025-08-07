@@ -56,7 +56,7 @@ Secretly offering is made to one set of gods, openly to another.
 य꣡द् +++(परोक्षं यष्टव्यान्)+++ य꣡जते,  
 य꣡ एव꣡ देवाᳶ꣡ परो꣡क्षम् इज्य꣡न्ते,  
 ता꣡न् एव꣡ त꣡द् यजति  
-य꣡द् अन्वाहार्य᳕म् आह꣡रति। 
+य꣡द् अन्वाहार्य᳙म् आह꣡रति। 
 </details>
 
 <details><summary>Keith</summary>
@@ -157,8 +157,8 @@ This is his sacrificial fee: verily he mends the rent in the sacrifice;
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य꣡द् वै꣡ यज्ञ꣡स्य क्रूर꣡य्ँ य꣡द् वि꣡लिष्टं  
-त꣡द् अन्वाहार्ये᳕ण [11] +अन्वा꣡हरति ।  
-त꣡द् अन्वाहार्य᳕स्यान्वाहार्यत्व꣡म् ।  
+त꣡द् अन्वाहार्ये᳙ण [11] +अन्वा꣡हरति ।  
+त꣡द् अन्वाहार्य᳙स्यान्वाहार्यत्व꣡म् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -195,7 +195,7 @@ whatever in the sacrifice is harsh or is injured, that he makes good (anvaharati
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देव-दूता꣡ वा꣡ एते꣡ य꣡द् ऋत्वि꣡जः।,  
-य꣡द् अन्वाहार्य᳕म् आह꣡रति  
+य꣡द् अन्वाहार्य᳙म् आह꣡रति  
 देवदूता꣡न् एव꣡ प्रीणाति ।  
 </details>
 
@@ -230,10 +230,10 @@ Now the priests are the messengers of the gods; in that he brings the Anvaharya 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा꣡पतिर् देवे꣡भ्यो यज्ञा꣡न् व्या꣡दिशत् ।  
-स꣡ रिरिचानो᳕ +++(←रिक्तीभवन्न् [ऽहम् इति])+++ ऽमन्यत ।  
-स꣡ एत꣡म् अन्वाहार्य᳕म् अ꣡भक्तम् अपश्यत् ।  
+स꣡ रिरिचानो᳙ +++(←रिक्तीभवन्न् [ऽहम् इति])+++ ऽमन्यत ।  
+स꣡ एत꣡म् अन्वाहार्य᳙म् अ꣡भक्तम् अपश्यत् ।  
 त꣡म् आत्म꣡न्न् अधत्त ।  
-स꣡ वा꣡ एष꣡ प्राजापत्यो꣡ य꣡द् अन्वाहार्यः᳕ ।  
+स꣡ वा꣡ एष꣡ प्राजापत्यो꣡ य꣡द् अन्वाहार्यः᳙ ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -275,7 +275,7 @@ Prajapati distributed the sacrifice to the gods; he reflected that he was empty;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य꣡स्यैव꣡व्ँ विदु꣡षो ऽन्वाहार्य᳕ आह्रिय꣡ते  
+य꣡स्यैव꣡व्ँ विदु꣡षो ऽन्वाहार्य᳙ आह्रिय꣡ते  
 साक्षा꣡द् एव꣡ प्रजा꣡पतिम् ऋध्नोति ।  
 अ꣡परिमितो निरु꣡प्यो꣡,  
 ऽपरिमितᳶ प्रजा꣡पतिᳶ,  
@@ -315,10 +315,10 @@ he, who knowing thus brings the Anvaharya, assuredly enjoys Prajapati. An unlimi
 
 देवा꣡ वै꣡ य꣡द् यज्ञे꣡ ऽकुर्वत,  
 त꣡द् अ꣡सुरा अकुर्वत।  
-ते꣡ देवा꣡ एत꣡म् प्राजापत्य꣡म् अन्वाहार्य᳕म् अपश्यन्।  
+ते꣡ देवा꣡ एत꣡म् प्राजापत्य꣡म् अन्वाहार्य᳙म् अपश्यन्।  
 त꣡म् अन्वा꣡हरन्त।  
 त꣡तो देवा꣡ अ꣡भवन् +++(→चादिलोपे विभाषा)+++, प꣡रा꣡सुरा ।  
-य꣡स्यैव꣡व्ँ विदु꣡षो ऽन्वाहार्य᳕ आह्रिय꣡ते,  
+य꣡स्यैव꣡व्ँ विदु꣡षो ऽन्वाहार्य᳙ आह्रिय꣡ते,  
 भ꣡वत्यात्म꣡ना  
 प꣡रा ऽस्य भ्रा꣡तृव्यो +++(परा-)+++भवति।
 </details>
@@ -363,7 +363,7 @@ Whatever the gods did in the sacrifice, the Asuras did; the gods perceived the A
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यज्ञे꣡न वा꣡ इष्टी꣡, पक्वे꣡न पूर्ती꣡ +++(यजमानः)+++।  
-य꣡स्यैव꣡व्ँ विदु꣡षो ऽन्वाहार्य᳕ आह्रिय꣡ते, स꣡ त्वेवे꣡ष्टापूर्ती꣡।
+य꣡स्यैव꣡व्ँ विदु꣡षो ऽन्वाहार्य᳙ आह्रिय꣡ते, स꣡ त्वेवे꣡ष्टापूर्ती꣡।
 </details>
 
 <details><summary>Keith</summary>
@@ -398,7 +398,7 @@ By the sacrifice there is offering, by the cooked food satisfying. He who knowin
 ## मन्त्र-निरुक्तयः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रजा꣡पतेर् भागो᳕ऽसि [13] +इ꣡त्याह ।  
+प्रजा꣡पतेर् भागो᳙ऽसि [13] +इ꣡त्याह ।  
 प्रजा꣡पतिम् एव꣡ भागधे꣡येन स꣡मर्धयति  ।  
 </details>
 
@@ -528,7 +528,7 @@ By the sacrifice there is offering, by the cooked food satisfying. He who knowin
 
 क्षी꣡यते वा꣡ अमु꣡ष्मिल्ँ लोके꣡ ।  
 अ꣡न्नम् इतᳶ꣡प्रदानँ  
-ह्य् अ᳕मु꣡ष्मिल्ँ लोके꣡ प्रजा꣡ उपजी꣡वन्ति ।  
+ह्य् अ᳙मु꣡ष्मिल्ँ लोके꣡ प्रजा꣡ उपजी꣡वन्ति ।  
 </details>
 
 <details><summary>Keith</summary>

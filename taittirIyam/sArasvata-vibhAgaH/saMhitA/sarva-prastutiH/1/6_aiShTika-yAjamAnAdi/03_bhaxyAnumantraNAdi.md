@@ -58,7 +58,7 @@ _______
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो मेऽन्ति॑ दू॒रे᳕ ऽराती॒यति॒  
+यो मेऽन्ति॑ दू॒रे᳙ ऽराती॒यति॒  
 तम् ए॒तेन॑ जेषम् ।
 </details>
 <details><summary>Keith</summary>

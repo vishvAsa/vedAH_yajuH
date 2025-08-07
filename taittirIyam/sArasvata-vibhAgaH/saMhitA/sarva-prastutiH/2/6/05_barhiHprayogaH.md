@@ -630,7 +630,7 @@ He puts it forward (with its points) to the east; verily he makes the sacrificer
 
 न विष्व॑ञ्च॒व्ँ वि यु॑यात् ।  
 यद् विष्व॑ञ्चव्ँ वियु॒यात्  
-स्त्र्य् अ᳕स्य जायेत ।
+स्त्र्य् अ᳙स्य जायेत ।
 </details>
 
 <details><summary>Keith</summary>
@@ -765,7 +765,7 @@ He smooths it with his hand, for the protection of the sacrificer.
 ब्र॒ह्म॒वा॒दिनो॑ वदन्ति॒ -  
 "किय्ँ य॒ज्ञस्य॒ यज॑मान॒" इति॑।  
 "प्र॒स्त॒र" इति॑ ।  
-"तस्य॒ क्व᳕ सुव॒र्गो लो॒क" इति॑।  
+"तस्य॒ क्व᳙ सुव॒र्गो लो॒क" इति॑।  
 "आ॒ह॒व॒नीय॒" इति॑ ब्रूयात् ।  
 </details>
 

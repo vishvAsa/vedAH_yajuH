@@ -544,7 +544,7 @@ the Ida went to Manu;
 ## प्रतीच्याह्वानम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तां꣡ देवासुरा꣡ व्य᳕ह्वयन्त ।  
+तां꣡ देवासुरा꣡ व्य᳙ह्वयन्त ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -778,7 +778,7 @@ who in invoking the Ida should invoke himself in the Ida.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व्य᳕स्तम् इव वा꣡ एत꣡द् यज्ञ꣡स्य य꣡द् इ꣡डा।  
+व्य᳙स्तम् इव वा꣡ एत꣡द् यज्ञ꣡स्य य꣡द् इ꣡डा।  
 सामि꣡+++(=अर्धम्)+++ प्राश्ञ꣡न्ति ।  
 सामि꣡ मार्जयन्ते  ।  
 </details>
@@ -822,7 +822,7 @@ The Ida is as it were a breach in the sacrifice; half they eat [4], half they wi
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एत꣡त् प्र꣡ति वा꣡ अ꣡सुराणाय्ँ यज्ञो꣡ व्य᳕च्छिद्यत ।  
+एत꣡त् प्र꣡ति वा꣡ अ꣡सुराणाय्ँ यज्ञो꣡ व्य᳙च्छिद्यत ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -999,7 +999,7 @@ The [5] sacrificial fee which he gives at the sacrifice his cattle accompany;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स꣡ एष꣡ ईजानो᳕ ऽपशु꣡र् भा꣡वुकः ।  
+स꣡ एष꣡ ईजानो᳙ ऽपशु꣡र् भा꣡वुकः ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -1029,7 +1029,7 @@ he having sacrificed is like to become without cattle;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"य꣡जमानेन ख꣡लु वै꣡ त꣡त् कार्य᳕म्" इ꣡त्य् आहुर् -  
+"य꣡जमानेन ख꣡लु वै꣡ त꣡त् कार्य᳙म्" इ꣡त्य् आहुर् -  
 "य꣡था देवत्रा꣡ दत्त꣡ङ् कुर्वीत꣡,  
 +++(तथा)+++ आत्म꣡न् पशू꣡न् रम꣡येते꣡"ति ।  
 </details>

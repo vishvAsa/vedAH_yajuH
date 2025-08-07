@@ -187,7 +187,7 @@ With the victory of the new and full moon sacrifices [1] the gods conquered, and
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वा꣡जवतीभ्याव्ँ +++(दर्वी)+++ व्यू᳕हति ।   
+वा꣡जवतीभ्याव्ँ +++(दर्वी)+++ व्यू᳙हति ।   
 अ꣡न्नव्ँ वै꣡ वा꣡जो꣡, ऽन्नम् एवा꣡वरुन्धे ।  
 </details>
 
@@ -668,7 +668,7 @@ and thereby he confers upon himself the form of cattle.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"वेदो᳕ऽसि, वि꣡त्तिर् असि, विदे꣡ये꣡"त्य् आह ।  
+"वेदो᳙ऽसि, वि꣡त्तिर् असि, विदे꣡ये꣡"त्य् आह ।  
 वेदे꣡न वै꣡ देवा꣡ अ꣡सुराणाव्ँ वित्त꣡व्ँ वे꣡द्यम् अविन्दन्त ।  
 त꣡द् वेद꣡स्य वेदत्व꣡म् ।  
 </details>

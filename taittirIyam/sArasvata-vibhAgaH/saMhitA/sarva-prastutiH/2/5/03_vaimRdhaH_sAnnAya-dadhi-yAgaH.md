@@ -852,7 +852,7 @@ If he curdles it with Putika plants or with bark, that is fit for Soma;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत् क्व᳕लै +++(त॒ञ्च्याथ्)+++ - राक्ष॒सन् तत् ।  
+यत् क्व᳙लै +++(त॒ञ्च्याथ्)+++ - राक्ष॒सन् तत् ।  
 </details>
 
 <details><summary>Keith</summary>
