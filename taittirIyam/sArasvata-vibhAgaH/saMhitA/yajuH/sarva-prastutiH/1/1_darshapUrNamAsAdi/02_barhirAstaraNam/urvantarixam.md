@@ -1,6 +1,7 @@
 +++
 title = "उर्वन्तरिक्षम्"
 unicode_script = "devanagari"
+
 +++
 
 
@@ -11,7 +12,7 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒र्व् अ᳕न्तरि॑क्ष॒म् अन्वि॑हि ।  
+उ॒र्व् अ᳙न्तरि॑क्ष॒म् अन्वि॑हि ।  
 +++(महान् पन्थाः, सुखेन गच्छेति भावः ॥)+++
 </details>
 
