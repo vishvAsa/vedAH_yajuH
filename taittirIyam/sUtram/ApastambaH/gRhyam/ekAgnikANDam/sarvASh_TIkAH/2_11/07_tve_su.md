@@ -18,9 +18,9 @@ title = "०७ त्वे सु"
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-तुवे꣡ सु꣡ पुत्र शवसो  
-अ꣡वृत्रन् का꣡मकातयः  
-न꣡ त्वा꣡म् इन्द्रा꣡ति रिच्यते
+तुवे᳓ सु᳓ पुत्र शवसो  
+अ᳓वृत्रन् का᳓मकातयः  
+न᳓ त्वा᳓म् इन्द्रा᳓ति रिच्यते
 </details>
 <details><summary>Vedaweb annotation</summary>
 
