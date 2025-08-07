@@ -91,7 +91,7 @@ The gods who receive offering secretly, he thus offers to them in sacrifice; in 
 
 एते꣡ वै꣡ देवाᳶ꣡ प्रत्य꣡क्षय्ँ  
 य꣡द् ब्राह्मणा꣡स् -  
-ता꣡न् एव꣡ ते꣡न प्रीणाति꣡ ।  
+ता꣡न् एव꣡ ते꣡न प्रीणाति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -101,7 +101,7 @@ the Brahmans are the gods openly--them he verily delights.
 
 <details><summary>मूलम्</summary>
 
-ए॒ते वै दे॒वाᳶ प्र॒त्यक्ष॒य्ँयद्ब्रा॑ह्म॒णास्ताने॒व तेन॑ प्रीणा॒ति ।  
+ए॒ते वै दे॒वाᳶ प्र॒त्यक्ष॒य्ँयद्ब्रा॑ह्म॒णास्ताने॒व तेन॑ प्रीणाति ।  
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,7 +156,7 @@ This is his sacrificial fee: verily he mends the rent in the sacrifice;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य꣡द् वै꣡ यज्ञ꣡स्य क्रूर꣡य्ँ य꣡द् वि꣡लिष्टं꣡
+य꣡द् वै꣡ यज्ञ꣡स्य क्रूर꣡य्ँ य꣡द् वि꣡लिष्टं  
 त꣡द् अन्वाहार्ये᳕ण [11] +अन्वा꣡हरति ।  
 त꣡द् अन्वाहार्य᳕स्यान्वाहार्यत्व꣡म् ।  
 </details>
@@ -168,8 +168,8 @@ whatever in the sacrifice is harsh or is injured, that he makes good (anvaharati
 
 <details><summary>मूलम्</summary>
 
-यद्वै य॒ज्ञस्य॑ क्रू॒रय्ँयद्विलि॑ष्टं
-तद॑न्वाहा॒र्ये॑ण [11] अ॒न्वाह॑रति ।  
+यद्वै य॒ज्ञस्य॑ क्रू॒रय्ँयद्विलि॑ष्टं॒
+तद॑न्वाहा॒र्ये॑ण [11] +अ॒न्वाह॑रति ।  
 तद॑न्वाहा॒र्य॑स्यान्वाहार्य॒त्वम् ।  
 </details>
 
@@ -194,7 +194,7 @@ whatever in the sacrifice is harsh or is injured, that he makes good (anvaharati
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-देवदूता꣡ वा꣡ एते꣡ य꣡द् ऋत्वि꣡जः।,  
+देव-दूता꣡ वा꣡ एते꣡ य꣡द् ऋत्वि꣡जः।,  
 य꣡द् अन्वाहार्य᳕म् आह꣡रति  
 देवदूता꣡न् एव꣡ प्रीणाति ।  
 </details>
@@ -276,8 +276,10 @@ Prajapati distributed the sacrifice to the gods; he reflected that he was empty;
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य꣡स्यैव꣡व्ँ विदु꣡षो ऽन्वाहार्य᳕ आह्रिय꣡ते  
-साक्षा꣡द् एव꣡ प्रजा꣡पतिम् ऋध्नोति꣡ ।  
-अ꣡परिमितो निरु꣡प्यो꣡, ऽपरिमितᳶ प्रजा꣡पतिᳶ, प्रजा꣡पतेः꣡ [12] आ꣡प्त्यै ।  
+साक्षा꣡द् एव꣡ प्रजा꣡पतिम् ऋध्नोति ।  
+अ꣡परिमितो निरु꣡प्यो꣡,  
+ऽपरिमितᳶ प्रजा꣡पतिᳶ,  
+प्रजा꣡पतेर् [12] आ꣡प्त्यै ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -287,8 +289,8 @@ he, who knowing thus brings the Anvaharya, assuredly enjoys Prajapati. An unlimi
 
 <details><summary>मूलम्</summary>
 
-यस्यै॒वव्ँवि॒दुषो॑ऽन्वाहा॒र्य॑ आह्रि॒यते॑ सा॒क्षादे॒व प्र॒जाप॑तिमृध्नो॒ति ।  
-अप॑रिमितो नि॒रुप्योऽप॑रिमितᳶ प्र॒जाप॑तिᳶ प्र॒जाप॑तेः [12] आप्त्यै॑ ।  
+यस्यै॒वव्ँवि॒दुषो॑ऽन्वाहा॒र्य॑ आह्रि॒यते॑ सा॒क्षादे॒व प्र॒जाप॑तिमृध्नोति ।  
+अप॑रिमितो नि॒रुप्योऽप॑रिमितᳶ प्र॒जाप॑तिᳶ प्र॒जाप॑तेः [12] +आप्त्यै॑ ।  
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -311,11 +313,14 @@ he, who knowing thus brings the Anvaharya, assuredly enjoys Prajapati. An unlimi
 ## शत्रुनाशः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-देवा꣡ वै꣡ य꣡द्यज्ञे꣡ ऽकुर्वत, त꣡द् अ꣡सुरा अकुर्वत।  
+देवा꣡ वै꣡ य꣡द् यज्ञे꣡ ऽकुर्वत,  
+त꣡द् अ꣡सुरा अकुर्वत।  
 ते꣡ देवा꣡ एत꣡म् प्राजापत्य꣡म् अन्वाहार्य᳕म् अपश्यन्।  
-त꣡म् अन्वा꣡हरन्त। त꣡तो देवा꣡ अ꣡भवन् प꣡रा꣡सुरा।  
+त꣡म् अन्वा꣡हरन्त।  
+त꣡तो देवा꣡ अ꣡भवन् +++(→चादिलोपे विभाषा)+++, प꣡रा꣡सुरा ।  
 य꣡स्यैव꣡व्ँ विदु꣡षो ऽन्वाहार्य᳕ आह्रिय꣡ते,  
-भ꣡वत्यात्म꣡ना प꣡रा ऽस्य भ्रा꣡तृव्यो +++(परा-)+++भवति।
+भ꣡वत्यात्म꣡ना  
+प꣡रा ऽस्य भ्रा꣡तृव्यो +++(परा-)+++भवति।
 </details>
 
 <details><summary>Keith</summary>
@@ -393,7 +398,7 @@ By the sacrifice there is offering, by the cooked food satisfying. He who knowin
 ## मन्त्र-निरुक्तयः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रजा꣡पतेर् भागो᳕ऽसि꣡ [13] +इ꣡त्याह ।  
+प्रजा꣡पतेर् भागो᳕ऽसि [13] +इ꣡त्याह ।  
 प्रजा꣡पतिम् एव꣡ भागधे꣡येन स꣡मर्धयति  ।  
 </details>
 
@@ -426,7 +431,7 @@ By the sacrifice there is offering, by the cooked food satisfying. He who knowin
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऊ꣡र्जस्वान् प꣡यस्वान् इ꣡त्याह ।  
+ऊ꣡र्जस्वान् प꣡यस्वान् इ꣡त्य् आह ।  
 ऊ꣡र्जमेवा꣡स्मिन्प꣡यो दधाति ।  
 </details>
 
@@ -456,7 +461,7 @@ By the sacrifice there is offering, by the cooked food satisfying. He who knowin
 
 प्राणापानौ꣡ मे  पाहि ।  
 समानव्यानौ꣡ मे पाही꣡त्याह ।  
-आशि꣡षमेवै꣡ता꣡मा꣡ शास्ते ।  
+आशि꣡षमेवै꣡ता꣡म् आ꣡ शास्ते ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -486,9 +491,10 @@ By the sacrifice there is offering, by the cooked food satisfying. He who knowin
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ꣡क्षितोऽसि꣡ ।  
-अ꣡क्षित्यै त्वा मा꣡ मे क्षेष्ठाः ।  
-अमु꣡त्रामु꣡ष्मिल्ँलोक꣡ इ꣡त्याह ।  
+अ꣡क्षितोऽसि ।  
+अ꣡क्षित्यै त्वा,  
+मा꣡ मे क्षेष्ठाः ।  
+अमु꣡त्रामु꣡ष्मिल्ँ लोक꣡ इ꣡त्याह ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -498,7 +504,7 @@ By the sacrifice there is offering, by the cooked food satisfying. He who knowin
 
 <details><summary>मूलम्</summary>
 
-अक्षि॑तो॒ऽसि ।  
+अक्षि॑तोऽसि ।  
 अक्षि॑त्यै त्वा॒ मा मे॑ क्षेष्ठाः ।  
 अ॒मुत्रा॒मुष्मि॑ल्ँ लो॒क इत्या॑ह ।  
 </details>
@@ -520,8 +526,9 @@ By the sacrifice there is offering, by the cooked food satisfying. He who knowin
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-क्षी꣡यते वा꣡ अमु꣡ष्मिल्ँलोके꣡ ।  
-अ꣡न्नम् इतᳶ꣡ प्रदानँ ह्य् अ᳕मु꣡ष्मिल्ँ लोके꣡ प्रजा꣡ उपजी꣡वन्ति ।  
+क्षी꣡यते वा꣡ अमु꣡ष्मिल्ँ लोके꣡ ।  
+अ꣡न्नम् इतᳶ꣡प्रदानँ  
+ह्य् अ᳕मु꣡ष्मिल्ँ लोके꣡ प्रजा꣡ उपजी꣡वन्ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -533,7 +540,7 @@ for given hence in yonder world people live upon it;
 <details><summary>मूलम्</summary>
 
 क्षीय॑ते॒ वा अ॒मुष्मि॑ल्ँ लो॒के ।  
-अन्न॑मि॒तᳶ प्र॑दानँ॒ ह्य॑मुष्मि॑ल्ँ लो॒के प्र॒जा उ॑प॒जीव॑न्ति ।  
+अन्न॑मि॒तᳶप्र॑दानँ॒ ह्य॑मुष्मि॑ल्ँ लो॒के प्र॒जा उ॑प॒जीव॑न्ति ।  
 </details>
 
 <details><summary>पद-पाठः</summary>
