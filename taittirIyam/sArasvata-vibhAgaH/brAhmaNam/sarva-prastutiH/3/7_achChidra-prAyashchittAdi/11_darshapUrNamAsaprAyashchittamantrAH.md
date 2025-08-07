@@ -299,10 +299,10 @@ unicode_script: devanagari
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-सुअस्तिदा꣡ विश꣡स् प꣡तिर्  
-वृत्रहा꣡ विमृधो꣡ वशी꣡  
-वृ꣡षे꣡न्द्रः पुर꣡ एतु नः  
-सोमपा꣡ अभयंकरः꣡
+सुअस्तिदा᳓ विश᳓स् प᳓तिर्  
+वृत्रहा᳓ विमृधो᳓ वशी᳓  
+वृ᳓षे᳓न्द्रः पुर᳓ एतु नः  
+सोमपा᳓ अभयंकरः᳓
 </details>
 <details><summary>Vedaweb annotation</summary>
 

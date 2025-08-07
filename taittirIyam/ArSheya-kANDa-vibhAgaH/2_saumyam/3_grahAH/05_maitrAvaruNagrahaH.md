@@ -31,9 +31,9 @@ _______
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-अयं꣡ वाम् मित्रावरुणा  
-सुतः꣡ सो꣡म ऋतावृधा  
-म꣡मे꣡द् इह꣡ श्रुतं ह꣡वम्
+अयं᳓ वाम् मित्रावरुणा  
+सुतः᳓ सो᳓म ऋतावृधा  
+म᳓मे᳓द् इह᳓ श्रुतं ह᳓वम्
 </details>
 <details><summary>Vedaweb annotation</summary>
 

@@ -319,10 +319,10 @@ title = "११ राजसूयगता याज्यापुरोनु
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ स꣡ मित्र म꣡र्तो अस्तु प्र꣡यस्वान्  
-य꣡स् त आदित्य शि꣡क्षति व्रते꣡न  
-न꣡ हन्यते न꣡ जीयते तुवो꣡तो  
-नइ꣡नम् अं꣡हो अश्नोत्य् अ꣡न्तितो न꣡ दूरा꣡त्
+प्र᳓ स᳓ मित्र म᳓र्तो अस्तु प्र᳓यस्वान्  
+य᳓स् त आदित्य शि᳓क्षति व्रते᳓न  
+न᳓ हन्यते न᳓ जीयते तुवो᳓तो  
+नइ᳓नम् अं᳓हो अश्नोत्य् अ᳓न्तितो न᳓ दूरा᳓त्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -670,9 +670,9 @@ Der Mensch, o Mitra, sei vor allen glücklich, der dir, Aditja, dient nach deine
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-य꣡च् चिद् धि꣡ ते वि꣡शो यथा  
-प्र꣡ देव वरुण व्रत꣡म्  
-मिनीम꣡सि द्य꣡वि-द्यवि
+य᳓च् चिद् धि᳓ ते वि᳓शो यथा  
+प्र᳓ देव वरुण व्रत᳓म्  
+मिनीम᳓सि द्य᳓वि-द्यवि
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -921,10 +921,10 @@ Wie sehr wir auch, o Varuna, verletzen dein Gebot, o Gott, Nach Menschen Weise T
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-य꣡त् किं꣡ चेदं꣡ वरुण दइ꣡विये ज꣡ने  
-अभिद्रोह꣡म् मनुषि꣡याश् च꣡रामसि  
-अ꣡चित्ती य꣡त् त꣡व ध꣡र्मा युयोपिम꣡  
-मा꣡ नस् त꣡स्माद् ए꣡नसो देव रीरिषः
+य᳓त् किं᳓ चेदं᳓ वरुण दइ᳓विये ज᳓ने  
+अभिद्रोह᳓म् मनुषि᳓याश् च᳓रामसि  
+अ᳓चित्ती य᳓त् त᳓व ध᳓र्मा युयोपिम᳓  
+मा᳓ नस् त᳓स्माद् ए᳓नसो देव रीरिषः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -1231,10 +1231,10 @@ Was wir auch hier, o Varuna, nach Menschen Art für Unrecht üben am Geschlecht 
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-कितवा꣡सो य꣡द् रिरिपु꣡र् न꣡ दीवि꣡  
-य꣡द् वा घा सत्य꣡म् उत꣡ य꣡न् न꣡ विद्म꣡  
-स꣡र्वा ता꣡ वि꣡ ष्य शिथिरे꣡व देव  
-अ꣡धा ते स्याम वरुण प्रिया꣡सः
+कितवा᳓सो य᳓द् रिरिपु᳓र् न᳓ दीवि᳓  
+य᳓द् वा घा सत्य᳓म् उत᳓ य᳓न् न᳓ विद्म᳓  
+स᳓र्वा ता᳓ वि᳓ ष्य शिथिरे᳓व देव  
+अ᳓धा ते स्याम वरुण प्रिया᳓सः
 </details>
 <details><summary>Vedaweb annotation</summary>
 

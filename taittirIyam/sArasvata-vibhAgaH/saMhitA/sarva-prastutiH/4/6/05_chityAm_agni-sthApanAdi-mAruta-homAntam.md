@@ -450,9 +450,9 @@ O All-gods [3], do ye sit with the sacrificer.
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡इद्धो अग्ने दीदिहि पुरो꣡ नो  
-अ꣡जस्रया सुऊर्मि꣡या यविष्ठ  
-तुवां꣡ श꣡श्वन्त उ꣡प यन्ति वा꣡जाः
+प्र᳓इद्धो अग्ने दीदिहि पुरो᳓ नो  
+अ᳓जस्रया सुऊर्मि᳓या यविष्ठ  
+तुवां᳓ श᳓श्वन्त उ᳓प यन्ति वा᳓जाः
 </details>
 <details><summary>मूलम् - तैत्तिरीयम्</summary>
 
@@ -718,10 +718,10 @@ Entflammt, o Agni, strahle uns vor Augen mit deinem Licht, das nie verlischt, o 
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-विधे꣡म ते परमे꣡ ज꣡न्मन् अग्ने  
-विधे꣡म स्तो꣡मैर् अ꣡वरे सध꣡स्थे  
-य꣡स्माद् यो꣡नेर् उदा꣡रिथा य꣡जे त꣡म्  
-प्र꣡ त्वे꣡ हवीं꣡षि जुहुरे स꣡मिद्धे
+विधे᳓म ते परमे᳓ ज᳓न्मन् अग्ने  
+विधे᳓म स्तो᳓मैर् अ᳓वरे सध᳓स्थे  
+य᳓स्माद् यो᳓नेर् उदा᳓रिथा य᳓जे त᳓म्  
+प्र᳓ त्वे᳓ हवीं᳓षि जुहुरे स᳓मिद्धे
 </details>
 <details><summary>Vedaweb annotation</summary>
 

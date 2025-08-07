@@ -32,9 +32,9 @@ _______
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्राग्नी आ꣡ गतं सुतं꣡  
-गीर्भि꣡र् न꣡भो व꣡रेणियम्  
-अस्य꣡ पातं धिये꣡षिता꣡
+इ᳓न्द्राग्नी आ᳓ गतं सुतं᳓  
+गीर्भि᳓र् न᳓भो व᳓रेणियम्  
+अस्य᳓ पातं धिये᳓षिता᳓
 </details>
 <details><summary>Vedaweb annotation</summary>
 

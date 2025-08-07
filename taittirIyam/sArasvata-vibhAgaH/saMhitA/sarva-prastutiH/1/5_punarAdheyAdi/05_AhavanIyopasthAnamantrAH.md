@@ -44,9 +44,9 @@ The Reverence of the Fire
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-उपप्रय꣡न्तो अध्वर꣡म्  
-म꣡न्त्रं वोचेम अग्न꣡ये  
-आरे꣡ अस्मे꣡ च शृण्वते꣡
+उपप्रय᳓न्तो अध्वर᳓म्  
+म᳓न्त्रं वोचेम अग्न᳓ये  
+आरे᳓ अस्मे᳓ च शृण्वते᳓
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -275,9 +275,9 @@ _______
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-अस्य꣡ प्रत्ना꣡म् अ꣡नु द्यु꣡तं  
-शुक्रं꣡ दुदुह्रे अ꣡ह्रयः  
-प꣡यः सहस्रसा꣡म् ऋ꣡षिम्
+अस्य᳓ प्रत्ना᳓म् अ᳓नु द्यु᳓तं  
+शुक्रं᳓ दुदुह्रे अ᳓ह्रयः  
+प᳓यः सहस्रसा᳓म् ऋ᳓षिम्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -504,9 +504,9 @@ _______
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-अग्नि꣡र् मूर्धा꣡ दिवः꣡ ककु꣡त्  
-प꣡तिः पृथिविया꣡ अय꣡म्  
-अपां꣡ रे꣡तांसि जिन्वति
+अग्नि᳓र् मूर्धा᳓ दिवः᳓ ककु᳓त्  
+प᳓तिः पृथिविया᳓ अय᳓म्  
+अपां᳓ रे᳓तांसि जिन्वति
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -728,10 +728,10 @@ _______
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-अय꣡म् इह꣡ प्रथमो꣡ धायि धातृ꣡भिर्  
-हो꣡ता य꣡जिष्ठो अध्वरे꣡षु ई꣡डियः  
-य꣡म् अ꣡प्नवानो भृ꣡गवो विरुरुचु꣡र्  
-व꣡नेषु चित्रं꣡ विभु꣡वं विशे꣡-विशे
+अय᳓म् इह᳓ प्रथमो᳓ धायि धातृ᳓भिर्  
+हो᳓ता य᳓जिष्ठो अध्वरे᳓षु ई᳓डियः  
+य᳓म् अ᳓प्नवानो भृ᳓गवो विरुरुचु᳓र्  
+व᳓नेषु चित्रं᳓ विभु᳓वं विशे᳓-विशे
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -1052,10 +1052,10 @@ Errichtet wurde dieser von den Ordnern hier, der beste Opfrer, bei den Festen pr
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-उभा꣡ वाम् इन्द्रअग्नी आहुव꣡ध्या  
-उभा꣡ रा꣡धसः सह꣡ मादय꣡ध्यै  
-उभा꣡ दाता꣡राव् इषां᳐꣡ रयीणा꣡म्  
-उभा꣡ वा꣡जस्य सात꣡ये हुवे वाम्
+उभा᳓ वाम् इन्द्रअग्नी आहुव᳓ध्या  
+उभा᳓ रा᳓धसः सह᳓ मादय᳓ध्यै  
+उभा᳓ दाता᳓राव् इषां᳐᳓ रयीणा᳓म्  
+उभा᳓ वा᳓जस्य सात᳓ये हुवे वाम्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -1440,9 +1440,9 @@ _______
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡ग्न आ꣡यूंषि पवस  
-आ꣡ सुवो꣡र्जम् इ꣡षं च नः  
-आरे꣡ बाधस्व दुछु꣡नाम्
+अ᳓ग्न आ᳓यूंषि पवस  
+आ᳓ सुवो᳓र्जम् इ᳓षं च नः  
+आरे᳓ बाधस्व दुछु᳓नाम्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -1699,9 +1699,9 @@ _______
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡ग्ने प꣡वस्व सुअ꣡पा  
-अस्मे꣡ व꣡र्चः सुवी꣡रियम्  
-द꣡धद् रयि꣡म् म꣡यि पो꣡षम्
+अ᳓ग्ने प᳓वस्व सुअ᳓पा  
+अस्मे᳓ व᳓र्चः सुवी᳓रियम्  
+द᳓धद् रयि᳓म् म᳓यि पो᳓षम्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -1948,9 +1948,9 @@ _______
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡ग्ने पवाक+ रोचि꣡षा  
-मन्द्र꣡या देव जिह्व꣡या  
-आ꣡ देवा꣡न् वक्षि य꣡क्षि च
+अ᳓ग्ने पवाक+ रोचि᳓षा  
+मन्द्र᳓या देव जिह्व᳓या  
+आ᳓ देवा᳓न् वक्षि य᳓क्षि च
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -2238,9 +2238,9 @@ _______
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-अग्निः꣡ शु꣡चिव्रततमः  
-शु꣡चिर् वि꣡प्रः शु꣡चिः कविः꣡  
-शु꣡ची रोचत आ꣡हुतः
+अग्निः᳓ शु᳓चिव्रततमः  
+शु᳓चिर् वि᳓प्रः शु᳓चिः कविः᳓  
+शु᳓ची रोचत आ᳓हुतः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -2458,9 +2458,9 @@ _______
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-उ꣡द् अग्ने शु꣡चयस् त꣡व  
-शुक्रा꣡ भ्रा꣡जन्त ईरते  
-त꣡व ज्यो꣡तींषि अर्च꣡यः
+उ᳓द् अग्ने शु᳓चयस् त᳓व  
+शुक्रा᳓ भ्रा᳓जन्त ईरते  
+त᳓व ज्यो᳓तींषि अर्च᳓यः
 </details>
 <details><summary>Vedaweb annotation</summary>
 

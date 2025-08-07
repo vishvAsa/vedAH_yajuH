@@ -43,9 +43,9 @@ title = "०४ छन्दोभिधेेष्टकोपधानम्"
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-अग्नि꣡र् मूर्धा꣡ दिवः꣡ ककु꣡त्  
-प꣡तिः पृथिविया꣡ अय꣡म्  
-अपां꣡ रे꣡तांसि जिन्वति
+अग्नि᳓र् मूर्धा᳓ दिवः᳓ ककु᳓त्  
+प᳓तिः पृथिविया᳓ अय᳓म्  
+अपां᳓ रे᳓तांसि जिन्वति
 </details>
 <details><summary>Vedaweb annotation</summary>
 

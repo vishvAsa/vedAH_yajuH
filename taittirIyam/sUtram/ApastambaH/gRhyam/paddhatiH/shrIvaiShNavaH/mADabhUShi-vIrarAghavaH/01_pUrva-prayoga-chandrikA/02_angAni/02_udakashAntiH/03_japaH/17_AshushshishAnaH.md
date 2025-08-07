@@ -42,10 +42,10 @@ title = "१७ 'आशुश्शिशानः'"
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-आशुः꣡ शि꣡शानो वृषभो꣡ न꣡ भीमो꣡  
-घनाघनः꣡ क्षो꣡भणश् चर्षणीना꣡म्  
-संक्र꣡न्दनो ऽनिमिष꣡ एकवीरः꣡  
-शतं꣡ से꣡ना अजयत् साक꣡म् इ꣡न्द्रः
+आशुः᳓ शि᳓शानो वृषभो᳓ न᳓ भीमो᳓  
+घनाघनः᳓ क्षो᳓भणश् चर्षणीना᳓म्  
+संक्र᳓न्दनो ऽनिमिष᳓ एकवीरः᳓  
+शतं᳓ से᳓ना अजयत् साक᳓म् इ᳓न्द्रः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -325,10 +325,10 @@ Der schnelle, der gleich wildem Stier erregt ist, der starke Kämpfer, der die M
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-संक्र꣡न्दनेनानिमिषे꣡ण जिष्णु꣡ना  
-युत्कारे꣡ण दुश्च्यवने꣡न धृष्णु꣡ना  
-त꣡द् इ꣡न्द्रेण जयत त꣡त् सहध्वं  
-यु꣡धो नर इ꣡षुहस्तेन वृ꣡ष्णा
+संक्र᳓न्दनेनानिमिषे᳓ण जिष्णु᳓ना  
+युत्कारे᳓ण दुश्च्यवने᳓न धृष्णु᳓ना  
+त᳓द् इ᳓न्द्रेण जयत त᳓त् सहध्वं  
+यु᳓धो नर इ᳓षुहस्तेन वृ᳓ष्णा
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -589,10 +589,10 @@ Mit ihm, dem Donnrer, der nicht schlummernd Sieg gewinnt, der Schlacht erregt vo
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ इ꣡षुहस्तैः स꣡ निषङ्गि꣡भिर् वशी꣡  
-सं꣡स्रष्टा स꣡ यु꣡ध इ꣡न्द्रो गणे꣡न  
-संसृष्टजि꣡त् सोमपा꣡ बाहुशर्धी꣡  
-उग्र꣡धन्वा प्र꣡तिहिताभिर् अ꣡स्ता
+स᳓ इ᳓षुहस्तैः स᳓ निषङ्गि᳓भिर् वशी᳓  
+सं᳓स्रष्टा स᳓ यु᳓ध इ᳓न्द्रो गणे᳓न  
+संसृष्टजि᳓त् सोमपा᳓ बाहुशर्धी᳓  
+उग्र᳓धन्वा प्र᳓तिहिताभिर् अ᳓स्ता
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -881,10 +881,10 @@ Mit seiner Schar, die Pfeile trägt und Köcher, theilt seine Kämpfe der gewalt
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-बृ꣡हस्पते प꣡रि दीया र꣡थेन  
-रक्षोहा꣡मि꣡त्राँ अपबा꣡धमानः  
-प्रभञ्ज꣡न् से꣡नाः प्रमृणो꣡ युधा꣡ ज꣡यन्न्  
-अस्मा꣡कम् एधि अविता꣡ र꣡थानाम्
+बृ᳓हस्पते प᳓रि दीया र᳓थेन  
+रक्षोहा᳓मि᳓त्राँ अपबा᳓धमानः  
+प्रभञ्ज᳓न् से᳓नाः प्रमृणो᳓ युधा᳓ ज᳓यन्न्  
+अस्मा᳓कम् एधि अविता᳓ र᳓थानाम्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -1151,10 +1151,10 @@ Brihaspati, flieg' her mit deinem Wagen, Gespenster tödtend, jeden Feind verjag
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-गोत्रभि꣡दं गोवि꣡दं व꣡ज्रबाहुं  
-ज꣡यन्तम् अ꣡ज्म प्रमृण꣡न्तम् ओ꣡जसा  
-इमं꣡ सजाता अ꣡नु वीरयध्वम्  
-इ꣡न्द्रं सखायो अ꣡नु सं꣡ रभध्वम्
+गोत्रभि᳓दं गोवि᳓दं व᳓ज्रबाहुं  
+ज᳓यन्तम् अ᳓ज्म प्रमृण᳓न्तम् ओ᳓जसा  
+इमं᳓ सजाता अ᳓नु वीरयध्वम्  
+इ᳓न्द्रं सखायो अ᳓नु सं᳓ रभध्वम्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -1440,10 +1440,10 @@ Der blitzbewehrt den Stall erschliesst, die Kühe erringt und Bahn sich bricht m
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-बलविज्ञाय꣡ स्थ꣡विरः प्र꣡वीरः  
-स꣡हस्वान् वाजी꣡ स꣡हमान उग्रः꣡  
-अभि꣡वीरो अभि꣡सत्वा सहोजा꣡  
-जइ꣡त्रम् इन्द्र र꣡थम् आ꣡ तिष्ठ गोवि꣡त्
+बलविज्ञाय᳓ स्थ᳓विरः प्र᳓वीरः  
+स᳓हस्वान् वाजी᳓ स᳓हमान उग्रः᳓  
+अभि᳓वीरो अभि᳓सत्वा सहोजा᳓  
+जइ᳓त्रम् इन्द्र र᳓थम् आ᳓ तिष्ठ गोवि᳓त्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -1739,10 +1739,10 @@ Durch Stärke kenntlich, fest, der Helden kühnster, siegreich, gewaltig, stark 
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-अभि꣡ गोत्रा꣡णि स꣡हसा गा꣡हमानो  
-अदयो꣡ वीरः꣡ शत꣡मन्युर् इ꣡न्द्रः  
-दुश्च्यवनः꣡ पृतनाषा꣡ळ् अयुध्यो꣡  
-अस्मा꣡कं से꣡ना अवतु प्र꣡ युत्सु꣡
+अभि᳓ गोत्रा᳓णि स᳓हसा गा᳓हमानो  
+अदयो᳓ वीरः᳓ शत᳓मन्युर् इ᳓न्द्रः  
+दुश्च्यवनः᳓ पृतनाषा᳓ळ् अयुध्यो᳓  
+अस्मा᳓कं से᳓ना अवतु प्र᳓ युत्सु᳓
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -2003,10 +2003,10 @@ Der mit Gewalt sich in die Ställe eintaucht, Held Indra ohne Mitleid vielfach z
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्र आसां नयिता꣡+ बृ꣡हस्प꣡तिर्  
-द꣡क्षिणा यज्ञः꣡ पुर꣡ एतु सो꣡मः  
-देवसेना꣡नाम् अभिभञ्जतीनां꣡  
-ज꣡यन्तीनाम् मरु꣡तो यन्तु अ꣡ग्रम्
+इ᳓न्द्र आसां नयिता᳓+ बृ᳓हस्प᳓तिर्  
+द᳓क्षिणा यज्ञः᳓ पुर᳓ एतु सो᳓मः  
+देवसेना᳓नाम् अभिभञ्जतीनां᳓  
+ज᳓यन्तीनाम् मरु᳓तो यन्तु अ᳓ग्रम्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -2267,10 +2267,10 @@ Ihr Führer sei uns Indra und Brihaspati, vor dringe Opfer, Opferlohn und Soma, 
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्रस्य वृ꣡ष्णो व꣡रुणस्य रा꣡ज्ञ  
-आदित्या꣡नाम् मरु꣡तां श꣡र्ध उग्र꣡म्  
-महा꣡मनसाम् भुवनच्यवा꣡नां  
-घो꣡षो देवा꣡नां ज꣡यताम् उ꣡द् अस्थात्
+इ᳓न्द्रस्य वृ᳓ष्णो व᳓रुणस्य रा᳓ज्ञ  
+आदित्या᳓नाम् मरु᳓तां श᳓र्ध उग्र᳓म्  
+महा᳓मनसाम् भुवनच्यवा᳓नां  
+घो᳓षो देवा᳓नां ज᳓यताम् उ᳓द् अस्थात्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -2524,10 +2524,10 @@ Des Königs Varuna, des Helden Indra, der Maruts, der Aditja's Schar ist mächti
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-अस्मा꣡कम् इ꣡न्द्रः स꣡मृतेषु ध्वजे꣡षु  
-अस्मा꣡कं या꣡ इ꣡षवस् ता꣡ जयन्तु  
-अस्मा꣡कं वीरा꣡ उ꣡त्तरे भवन्तु  
-अस्माँ꣡ उ देवा अवता ह꣡वेषु
+अस्मा᳓कम् इ᳓न्द्रः स᳓मृतेषु ध्वजे᳓षु  
+अस्मा᳓कं या᳓ इ᳓षवस् ता᳓ जयन्तु  
+अस्मा᳓कं वीरा᳓ उ᳓त्तरे भवन्तु  
+अस्माँ᳓ उ देवा अवता ह᳓वेषु
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -2812,10 +2812,10 @@ Es schirme unsre Kämpf' und Fahnen Indra; es seien unsre Pfeile, die da siegen,
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-उ꣡द् धर्षय मघवन्न् आ꣡युधानि  
-उ꣡त् स꣡त्वनाम् मामका꣡नाम् म꣡नांसि  
-उ꣡द् वृत्रहन् वाजि꣡नां वा꣡जिनानि  
-उ꣡द् र꣡थानां ज꣡यतां यन्तु घो꣡षाः
+उ᳓द् धर्षय मघवन्न् आ᳓युधानि  
+उ᳓त् स᳓त्वनाम् मामका᳓नाम् म᳓नांसि  
+उ᳓द् वृत्रहन् वाजि᳓नां वा᳓जिनानि  
+उ᳓द् र᳓थानां ज᳓यतां यन्तु घो᳓षाः
 </details>
 <details><summary>Vedaweb annotation</summary>
 

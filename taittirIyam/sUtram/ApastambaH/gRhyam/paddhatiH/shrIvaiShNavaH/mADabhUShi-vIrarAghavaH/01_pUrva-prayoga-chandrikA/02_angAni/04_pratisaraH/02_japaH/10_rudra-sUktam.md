@@ -70,10 +70,10 @@ O bounteous one, be merciful to our children and descendants.
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-स्तुहि꣡ श्रुतं꣡ गर्तस꣡दं यु꣡वानम्  
-मृगं꣡ न꣡ भीम꣡म् उपहत्नु꣡म् उग्र꣡म्  
-मॄळा꣡+ जरित्रे꣡ रुदर+ स्त꣡वानो  
-अन्यं꣡ ते अस्म꣡न् नि꣡ वपन्तु से꣡नाः
+स्तुहि᳓ श्रुतं᳓ गर्तस᳓दं यु᳓वानम्  
+मृगं᳓ न᳓ भीम᳓म् उपहत्नु᳓म् उग्र᳓म्  
+मॄळा᳓+ जरित्रे᳓ रुदर+ स्त᳓वानो  
+अन्यं᳓ ते अस्म᳓न् नि᳓ वपन्तु से᳓नाः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -486,10 +486,10 @@ And approach us bearing the spear [4].
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-त्व꣡म् अग्ने रुद्रो꣡ अ꣡सुरो महो꣡ दिव꣡स्  
-तुवं꣡ श꣡र्धो मा꣡रुतम् पृक्ष꣡ ईशिषे  
-तुवं꣡ वा꣡तैर् अरुणइ꣡र् यासि शंगय꣡स्  
-तुव꣡म् पूषा꣡ विधतः꣡ पासि नु꣡ त्म꣡ना
+त्व᳓म् अग्ने रुद्रो᳓ अ᳓सुरो महो᳓ दिव᳓स्  
+तुवं᳓ श᳓र्धो मा᳓रुतम् पृक्ष᳓ ईशिषे  
+तुवं᳓ वा᳓तैर् अरुणइ᳓र् यासि शंगय᳓स्  
+तुव᳓म् पूषा᳓ विधतः᳓ पासि नु᳓ त्म᳓ना
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -850,10 +850,10 @@ Und Rudra bist du, des erhabnen Himmels Geist, die Marutschar, o Agni, Labung wo
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ वो रा꣡जानम् अध्वर꣡स्य रुद्रं꣡  
-हो꣡तारं सत्यय꣡जं रो꣡दसीयोः  
-अग्नि꣡म् पुरा꣡ तनयित्नो꣡र् अचि꣡त्ताद्  
-धि꣡रण्यरूपम् अ꣡वसे कृणुध्वम्
+आ᳓ वो रा᳓जानम् अध्वर᳓स्य रुद्रं᳓  
+हो᳓तारं सत्यय᳓जं रो᳓दसीयोः  
+अग्नि᳓म् पुरा᳓ तनयित्नो᳓र् अचि᳓त्ताद्  
+धि᳓रण्यरूपम् अ᳓वसे कृणुध्वम्
 </details>
 <details><summary>Vedaweb annotation</summary>
 

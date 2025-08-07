@@ -301,10 +301,10 @@ unicode_script: devanagari
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-देवीं꣡ वा꣡चम् अजनयन्त देवा꣡स्  
-तां꣡ विश्व꣡रूपाः पश꣡वो वदन्ति  
-सा꣡ नो मन्द्रा꣡ इ꣡षम् ऊ꣡र्जं दु꣡हाना  
-धेनु꣡र् वा꣡ग् अस्मा꣡न् उ꣡प सु꣡ष्टुतइ꣡तु
+देवीं᳓ वा᳓चम् अजनयन्त देवा᳓स्  
+तां᳓ विश्व᳓रूपाः पश᳓वो वदन्ति  
+सा᳓ नो मन्द्रा᳓ इ᳓षम् ऊ᳓र्जं दु᳓हाना  
+धेनु᳓र् वा᳓ग् अस्मा᳓न् उ᳓प सु᳓ष्टुतइ᳓तु
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -493,7 +493,7 @@ The thunder entering into all beings,becomes the speaker of moral truth, eṣā 
 <details><summary>Jamison Brereton</summary>
 
 The gods begat goddess Speech. The beasts of all forms speak her. Gladdening, milking out refreshment and nourishment for us, let  Speech, the milk-cow, come well praised to us.
-꣡</details>
+</details>
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/100/10-11.md">
 <details open><summary><h12>10-11 ...{Loading}...</h12></summary>
@@ -555,10 +555,10 @@ Die Göttin Vāk haben die Götter erzeugt, die vielgestaltigen Thieren reden si
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-य꣡द् वा꣡ग् व꣡दन्ति अविचेतना꣡नि  
-रा꣡ष्ट्री देवा꣡नां निषसा꣡द मन्द्रा꣡  
-च꣡तस्र ऊ꣡र्जं दुदुहे प꣡यांसि  
-कु꣡व स्विद् अस्याः परमं꣡ जगाम
+य᳓द् वा᳓ग् व᳓दन्ति अविचेतना᳓नि  
+रा᳓ष्ट्री देवा᳓नां निषसा᳓द मन्द्रा᳓  
+च᳓तस्र ऊ᳓र्जं दुदुहे प᳓यांसि  
+कु᳓व स्विद् अस्याः परमं᳓ जगाम
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -904,10 +904,10 @@ Wenn Vāk [die Stimme], die Königin der Götter, unverständliche Worte [den Do
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-चत्वा꣡रि वा꣡क् प꣡रिमिता पदा꣡नि  
-ता꣡नि विदुर् ब्राह्मणा꣡ ये꣡ मनीषि꣡णः  
-गु꣡हा त्री꣡णि नि꣡हिता ने꣡ङ्गयन्ति  
-तुरी꣡यं वाचो꣡ मनुष्या᳡ वदन्ति
+चत्वा᳓रि वा᳓क् प᳓रिमिता पदा᳓नि  
+ता᳓नि विदुर् ब्राह्मणा᳓ ये᳓ मनीषि᳓णः  
+गु᳓हा त्री᳓णि नि᳓हिता ने᳓ङ्गयन्ति  
+तुरी᳓यं वाचो᳓ मनुष्या᳡ वदन्ति
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -1181,10 +1181,10 @@ Die Rede hat vier abgegrenzte Gattungen; die sind bekannt den Brahmanen, welche 
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-श्रद्ध꣡याग्निः꣡ स꣡म् इध्यते  
-श्रद्ध꣡या हूयते हविः꣡  
-श्रद्धा꣡म् भ꣡गस्य मूर्ध꣡नि  
-व꣡चसा꣡ वेदयामसि
+श्रद्ध᳓याग्निः᳓ स᳓म् इध्यते  
+श्रद्ध᳓या हूयते हविः᳓  
+श्रद्धा᳓म् भ᳓गस्य मूर्ध᳓नि  
+व᳓चसा᳓ वेदयामसि
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -1380,10 +1380,10 @@ Durch Glauben wird das Feu'r entflammt, durch Glauben Opferguss geweiht; Auch au
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-प्रियं꣡ श्रद्धे द꣡दतः  
-प्रियं꣡ श्रद्धे दि꣡दासतः  
-प्रिय꣡म् भोजे꣡षु य꣡ज्वसु  
-इद꣡म् म उदितं꣡ कृधि
+प्रियं᳓ श्रद्धे द᳓दतः  
+प्रियं᳓ श्रद्धे दि᳓दासतः  
+प्रिय᳓म् भोजे᳓षु य᳓ज्वसु  
+इद᳓म् म उदितं᳓ कृधि
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -1583,10 +1583,10 @@ O Glaube, lieb mach dieses Wort des Spenders, der noch spenden will, Mach lieb e
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-य꣡था देवा꣡ अ꣡सुरेषु  
-श्रद्धा꣡म् उग्रे꣡षु चक्रिरे꣡  
-एव꣡म् भोजे꣡षु य꣡ज्वसु  
-अस्मा꣡कम् उदितं꣡ कृधि
+य᳓था देवा᳓ अ᳓सुरेषु  
+श्रद्धा᳓म् उग्रे᳓षु चक्रिरे᳓  
+एव᳓म् भोजे᳓षु य᳓ज्वसु  
+अस्मा᳓कम् उदितं᳓ कृधि
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -1783,10 +1783,10 @@ Wie Götter der Asurenschar, der starken, schenkten ihr Vertraun, So mache du au
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-श्रद्धां꣡ देवा꣡ य꣡जमाना  
-वायु꣡गोपा उ꣡पासते  
-श्रद्धां꣡ हृदय्य᳡या꣡कूत्या  
-श्रद्ध꣡या विन्दते व꣡सु
+श्रद्धां᳓ देवा᳓ य᳓जमाना  
+वायु᳓गोपा उ᳓पासते  
+श्रद्धां᳓ हृदय्य᳡या᳓कूत्या  
+श्रद्ध᳓या विन्दते व᳓सु
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -1975,10 +1975,10 @@ Den Glauben ehren andachtsvoll die Götter, die der Wind beschirmt; Der Glaube w
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-श्रद्धा꣡म् प्रात꣡र् हवामहे  
-श्रद्धा꣡म् मध्यं꣡दिनम् प꣡रि  
-श्रद्धां꣡ सू꣡र्यस्य निम्रु꣡चि  
-श्र꣡द्धे श्र꣡द् धापयेह꣡ नः
+श्रद्धा᳓म् प्रात᳓र् हवामहे  
+श्रद्धा᳓म् मध्यं᳓दिनम् प᳓रि  
+श्रद्धां᳓ सू᳓र्यस्य निम्रु᳓चि  
+श्र᳓द्धे श्र᳓द् धापयेह᳓ नः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -2433,10 +2433,10 @@ Den Glauben rufen Morgens wir, den Glauben in der Mittagszeit Den Glauben, wenn 
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ गा꣡वो अग्मन्न् उत꣡ भद्र꣡म् अक्रन्  
-सी꣡दन्तु गोष्ठे꣡ रण꣡यन्तु अस्मे꣡  
-प्रजा꣡वतीः पुरुरू꣡पा इह꣡ स्युर्  
-इ꣡न्द्राय पूर्वी꣡र् उष꣡सो दु꣡हानाः
+आ᳓ गा᳓वो अग्मन्न् उत᳓ भद्र᳓म् अक्रन्  
+सी᳓दन्तु गोष्ठे᳓ रण᳓यन्तु अस्मे᳓  
+प्रजा᳓वतीः पुरुरू᳓पा इह᳓ स्युर्  
+इ᳓न्द्राय पूर्वी᳓र् उष᳓सो दु᳓हानाः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -2701,10 +2701,10 @@ Gekommen sind die Kühe, Holdes wirkend, sie mögen ruhn im Stall, bei uns sich 
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्रो य꣡ज्वने पृणते꣡ च शिक्षति  
-उ꣡पे꣡द् ददाति न꣡ सुव꣡म् मुषायति  
-भू꣡यो-भूयो रयि꣡म् इ꣡द् अस्य वर्ध꣡यन्न्  
-अ꣡भिन्ने खिल्ये꣡ नि꣡ दधाति देवयु꣡म्
+इ᳓न्द्रो य᳓ज्वने पृणते᳓ च शिक्षति  
+उ᳓पे᳓द् ददाति न᳓ सुव᳓म् मुषायति  
+भू᳓यो-भूयो रयि᳓म् इ᳓द् अस्य वर्ध᳓यन्न्  
+अ᳓भिन्ने खिल्ये᳓ नि᳓ दधाति देवयु᳓म्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -3021,10 +3021,10 @@ Indra schenkt Gut dem opfernden und spendenden; er theilt ihm mit und entzieht i
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-न꣡ ता꣡ अ꣡र्वा रेणु꣡ककाटो अश्नुते  
-न꣡ संस्कृतत्र꣡म् उ꣡प यन्ति ता꣡ अभि꣡  
-उरुगाय꣡म् अ꣡भयं त꣡स्य ता꣡ अ꣡नु  
-गा꣡वो म꣡र्तस्य वि꣡ चरन्ति य꣡ज्वनः
+न᳓ ता᳓ अ᳓र्वा रेणु᳓ककाटो अश्नुते  
+न᳓ संस्कृतत्र᳓म् उ᳓प यन्ति ता᳓ अभि᳓  
+उरुगाय᳓म् अ᳓भयं त᳓स्य ता᳓ अ᳓नु  
+गा᳓वो म᳓र्तस्य वि᳓ चरन्ति य᳓ज्वनः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -3343,10 +3343,10 @@ Nicht holt ein Kriegsross mit bestäubtem Kopf sie ein, noch werden je sie zu de
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-यूयं꣡ गावो मेदयथा कृशं꣡ चिद्  
-अश्रीरं꣡ चित् कृणुथा सुप्र꣡तीकम्  
-भद्रं꣡ गृहं꣡ कृणुथ भद्रवाचो  
-बृह꣡द् वो व꣡य उच्यते सभा꣡सु
+यूयं᳓ गावो मेदयथा कृशं᳓ चिद्  
+अश्रीरं᳓ चित् कृणुथा सुप्र᳓तीकम्  
+भद्रं᳓ गृहं᳓ कृणुथ भद्रवाचो  
+बृह᳓द् वो व᳓य उच्यते सभा᳓सु
 </details>
 <details><summary>Vedaweb annotation</summary>
 

@@ -30,9 +30,9 @@ _______
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-महाँ꣡ इ꣡न्द्रो य꣡ ओ꣡जसा  
-पर्ज꣡न्यो वृष्टिमाँ꣡ इव  
-स्तो꣡मैर् वत्स꣡स्य वावृधे
+महाँ᳓ इ᳓न्द्रो य᳓ ओ᳓जसा  
+पर्ज᳓न्यो वृष्टिमाँ᳓ इव  
+स्तो᳓मैर् वत्स᳓स्य वावृधे
 </details>
 <details><summary>Vedaweb annotation</summary>
 

@@ -40,10 +40,10 @@ title = "१३ काम्येष्टयः"
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡न्व् अ꣡ह मा꣡सा अ꣡नु इ꣡द् व꣡नानि  
-अ꣡नु ओ꣡षधीर् अ꣡नु प꣡र्वतासः  
-अ꣡नु इ꣡न्द्रं रो꣡दसी वावशाने꣡  
-अ꣡न्व् आ꣡पो अजिहत जा꣡यमानम्
+अ᳓न्व् अ᳓ह मा᳓सा अ᳓नु इ᳓द् व᳓नानि  
+अ᳓नु ओ᳓षधीर् अ᳓नु प᳓र्वतासः  
+अ᳓नु इ᳓न्द्रं रो᳓दसी वावशाने᳓  
+अ᳓न्व् आ᳓पो अजिहत जा᳓यमानम्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -332,10 +332,10 @@ Dem Indra gaben Monde nach und Wälder, dem Indra die Gewächse und die Berge, D
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡नु ते दायि मह꣡ इन्द्रिया꣡य  
-सत्रा꣡ ते वि꣡श्वम् अ꣡नु वृत्रह꣡त्ये  
-अ꣡नु क्षत्र꣡म् अ꣡नु स꣡हो यजत्रा꣡  
-इ꣡न्द्र देवे꣡भिर् अ꣡नु ते नृष꣡ह्ये
+अ᳓नु ते दायि मह᳓ इन्द्रिया᳓य  
+सत्रा᳓ ते वि᳓श्वम् अ᳓नु वृत्रह᳓त्ये  
+अ᳓नु क्षत्र᳓म् अ᳓नु स᳓हो यजत्रा᳓  
+इ᳓न्द्र देवे᳓भिर् अ᳓नु ते नृष᳓ह्ये
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -718,11 +718,11 @@ Shall her husband die of old age.
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-ना꣡ह꣡म् इन्द्राणि रारण  
-स꣡ख्युर् वृषा꣡कपेर् ऋते꣡  
-य꣡स्येद꣡म् अ꣡पियं हविः꣡  
-प्रियं꣡ देवे꣡षु ग꣡छति  
-वि꣡श्वस्माद् इ꣡न्द्र उ꣡त्तरः
+ना᳓ह᳓म् इन्द्राणि रारण  
+स᳓ख्युर् वृषा᳓कपेर् ऋते᳓  
+य᳓स्येद᳓म् अ᳓पियं हविः᳓  
+प्रियं᳓ देवे᳓षु ग᳓छति  
+वि᳓श्वस्माद् इ᳓न्द्र उ᳓त्तरः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -1010,10 +1010,10 @@ Doch, o Indrānī, ich habe keine Freude ohne diesen Genossen, den Vrischākapi,
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-यो꣡ जात꣡ एव꣡ प्रथमो꣡ म꣡नस्वान्  
-देवो꣡ देवा꣡न् क्र꣡तुना पर्य꣡भूषत्  
-य꣡स्य शु꣡ष्माद् रो꣡दसी अ꣡भ्यसेतां  
-नृम्ण꣡स्य मह्ना꣡ स꣡ जनास इ꣡न्द्रः
+यो᳓ जात᳓ एव᳓ प्रथमो᳓ म᳓नस्वान्  
+देवो᳓ देवा᳓न् क्र᳓तुना पर्य᳓भूषत्  
+य᳓स्य शु᳓ष्माद् रो᳓दसी अ᳓भ्यसेतां  
+नृम्ण᳓स्य मह्ना᳓ स᳓ जनास इ᳓न्द्रः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -1335,10 +1335,10 @@ Der kaum geboren, kühngesinnt die Götter der Gott zuerst mit Muth und Kraft be
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ ते मह꣡ इन्दर+ ऊती꣡ उग्र  
-स꣡मन्यवो य꣡त् सम꣡रन्त से꣡नाः  
-प꣡ताति दिद्यु꣡न् न꣡रियस्य बाह्वो꣡र्  
-मा꣡ ते म꣡नो विष्वद्रि꣡अग् वि꣡ चारीत्
+आ᳓ ते मह᳓ इन्दर+ ऊती᳓ उग्र  
+स᳓मन्यवो य᳓त् सम᳓रन्त से᳓नाः  
+प᳓ताति दिद्यु᳓न् न᳓रियस्य बाह्वो᳓र्  
+मा᳓ ते म᳓नो विष्वद्रि᳓अग् वि᳓ चारीत्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -1683,10 +1683,10 @@ Zur Hülfe flieg' aus deinen Armen, Indra, dein Blitz herbei, des grossen, kühn
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-मा꣡ नो मर्धीर् आ꣡ भरा दद्धि꣡ त꣡न् नः  
-प्र꣡ दाशु꣡षे दा꣡तवे भू꣡रि य꣡त् ते  
-न꣡व्ये देष्णे꣡ शस्ते꣡ अस्मि꣡न् त उक्थे꣡  
-प्र꣡ ब्रवाम वय꣡म् इन्द्र स्तुव꣡न्तः
+मा᳓ नो मर्धीर् आ᳓ भरा दद्धि᳓ त᳓न् नः  
+प्र᳓ दाशु᳓षे दा᳓तवे भू᳓रि य᳓त् ते  
+न᳓व्ये देष्णे᳓ शस्ते᳓ अस्मि᳓न् त उक्थे᳓  
+प्र᳓ ब्रवाम वय᳓म् इन्द्र स्तुव᳓न्तः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -2071,10 +2071,10 @@ Versäume nicht uns, bringe her das viele, was dein ja ist, dem Frommen es zu sc
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ तू꣡ भर मा꣡किर् एत꣡त् प꣡रि ष्ठाद्  
-विद्मा꣡ हि꣡ त्वा व꣡सुपतिं व꣡सूनाम्  
-इ꣡न्द्र य꣡त् ते मा꣡हिनं द꣡त्रम् अ꣡स्ति  
-अस्म꣡भ्यं त꣡द् ध꣡रिअश्व प्र꣡ यन्धि
+आ᳓ तू᳓ भर मा᳓किर् एत᳓त् प᳓रि ष्ठाद्  
+विद्मा᳓ हि᳓ त्वा व᳓सुपतिं व᳓सूनाम्  
+इ᳓न्द्र य᳓त् ते मा᳓हिनं द᳓त्रम् अ᳓स्ति  
+अस्म᳓भ्यं त᳓द् ध᳓रिअश्व प्र᳓ यन्धि
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -2524,10 +2524,10 @@ Be thou health and wealth to the sacrificer.
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्रः सुत्रा꣡मा सुअ꣡वाँ अ꣡वोभिः  
-सुमॄळीको꣡+ भवतु विश्व꣡वेदाः  
-बा꣡धतां द्वे꣡षो अ꣡भयं कृणोतु  
-सुवी꣡रियस्य प꣡तयः सियाम
+इ᳓न्द्रः सुत्रा᳓मा सुअ᳓वाँ अ᳓वोभिः  
+सुमॄळीको᳓+ भवतु विश्व᳓वेदाः  
+बा᳓धतां द्वे᳓षो अ᳓भयं कृणोतु  
+सुवी᳓रियस्य प᳓तयः सियाम
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -2888,10 +2888,10 @@ Schönschirmend sei, der alles kennet, Indra, und gnadenreich, mit Hülfen kräf
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-त꣡स्य वयं꣡ सुमतउ꣡ यज्ञि꣡यस्य  
-अ꣡पि भद्रे꣡ सौमनसे꣡ सियाम  
-स꣡ सुत्रा꣡मा सुअ꣡वाँ इ꣡न्द्रो अस्मे꣡  
-आरा꣡च् चिद् द्वे꣡षः सनुत꣡र् युयोतु
+त᳓स्य वयं᳓ सुमतउ᳓ यज्ञि᳓यस्य  
+अ᳓पि भद्रे᳓ सौमनसे᳓ सियाम  
+स᳓ सुत्रा᳓मा सुअ᳓वाँ इ᳓न्द्रो अस्मे᳓  
+आरा᳓च् चिद् द्वे᳓षः सनुत᳓र् युयोतु
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -3107,7 +3107,7 @@ _________
 
 Might we be in the favor of him who deserves the sacrifice, in his  propitious benevolence.  
 Let Indra of good protection, of good help to us keep hatred away even  from a distance.
-꣡</details>
+</details>
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/11-13.md">
 <details open><summary><h7>11-13 ...{Loading}...</h7></summary>

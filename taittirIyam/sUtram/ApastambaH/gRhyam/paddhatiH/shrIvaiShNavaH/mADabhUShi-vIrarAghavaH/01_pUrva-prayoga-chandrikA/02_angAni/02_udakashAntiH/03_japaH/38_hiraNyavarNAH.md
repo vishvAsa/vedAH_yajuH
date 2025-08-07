@@ -310,9 +310,9 @@ title = "३८ ‘हिरण्यवर्णाः’"
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡पो हि꣡ ष्ठा꣡ मयोभु꣡वस्  
-ता꣡ न ऊर्जे꣡ दधातन  
-महे꣡ र꣡णाय च꣡क्षसे
+आ᳓पो हि᳓ ष्ठा᳓ मयोभु᳓वस्  
+ता᳓ न ऊर्जे᳓ दधातन  
+महे᳓ र᳓णाय च᳓क्षसे
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -544,9 +544,9 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-यो꣡ वः शिव꣡तमो र꣡सस्  
-त꣡स्य भाजयतेह꣡ नः  
-उशती꣡र् इव मात꣡रः
+यो᳓ वः शिव᳓तमो र᳓सस्  
+त᳓स्य भाजयतेह᳓ नः  
+उशती᳓र् इव मात᳓रः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -758,9 +758,9 @@ Welch segenreichster Saft euch ist, an dem lasst Theil uns haben hier, Den liebe
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-त꣡स्मा अ꣡रं गमाम वो  
-य꣡स्य क्ष꣡याय जि꣡न्वथ  
-आ꣡पो जन꣡यथा च नः
+त᳓स्मा अ᳓रं गमाम वो  
+य᳓स्य क्ष᳓याय जि᳓न्वथ  
+आ᳓पो जन᳓यथा च नः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -1182,9 +1182,9 @@ Für solchen gehn wir euch zur Hand, zu dessen Sitz ihr eilend naht, Ihr Wasser 
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡पो हि꣡ ष्ठा꣡ मयोभु꣡वस्  
-ता꣡ न ऊर्जे꣡ दधातन  
-महे꣡ र꣡णाय च꣡क्षसे
+आ᳓पो हि᳓ ष्ठा᳓ मयोभु᳓वस्  
+ता᳓ न ऊर्जे᳓ दधातन  
+महे᳓ र᳓णाय च᳓क्षसे
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -1416,9 +1416,9 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-यो꣡ वः शिव꣡तमो र꣡सस्  
-त꣡स्य भाजयतेह꣡ नः  
-उशती꣡र् इव मात꣡रः
+यो᳓ वः शिव᳓तमो र᳓सस्  
+त᳓स्य भाजयतेह᳓ नः  
+उशती᳓र् इव मात᳓रः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -1630,9 +1630,9 @@ Welch segenreichster Saft euch ist, an dem lasst Theil uns haben hier, Den liebe
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-त꣡स्मा अ꣡रं गमाम वो  
-य꣡स्य क्ष꣡याय जि꣡न्वथ  
-आ꣡पो जन꣡यथा च नः
+त᳓स्मा अ᳓रं गमाम वो  
+य᳓स्य क्ष᳓याय जि᳓न्वथ  
+आ᳓पो जन᳓यथा च नः
 </details>
 <details><summary>Vedaweb annotation</summary>
 

@@ -129,9 +129,9 @@ unicode_script = "devanagari"
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-स꣡दसस् प꣡तिम् अ꣡द्भुतम्  
-प्रिय꣡म् इ꣡न्द्रस्य का꣡मियम्  
-सनि꣡म् मेधा꣡म् अयासिषम्
+स᳓दसस् प᳓तिम् अ᳓द्भुतम्  
+प्रिय᳓म् इ᳓न्द्रस्य का᳓मियम्  
+सनि᳓म् मेधा᳓म् अयासिषम्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -852,10 +852,10 @@ This hymn presents a cosmogony with tápas “ascetic heat, fervor” as the ult
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-ऋतं꣡ च सत्यं꣡ चाभी꣡द्धात्  
-त꣡पसो꣡ ऽधि अजायत  
-त꣡तो रा꣡त्री अजायत  
-त꣡तः समुद्रो꣡ अर्णवः꣡
+ऋतं᳓ च सत्यं᳓ चाभी᳓द्धात्  
+त᳓पसो᳓ ऽधि अजायत  
+त᳓तो रा᳓त्री अजायत  
+त᳓तः समुद्रो᳓ अर्णवः᳓
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -1136,10 +1136,10 @@ Genaht ist dieser bunte Stier; zum Vater und zur Mutter hat Er sich gesetzt beim
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-समुद्रा꣡द् अर्णवा꣡द् अ꣡धि  
-संवत्सरो꣡ अजायत  
-अहोरात्रा꣡णि विद꣡धद्  
-वि꣡श्वस्य मिषतो꣡ वशी꣡
+समुद्रा᳓द् अर्णवा᳓द् अ᳓धि  
+संवत्सरो᳓ अजायत  
+अहोरात्रा᳓णि विद᳓धद्  
+वि᳓श्वस्य मिषतो᳓ वशी᳓
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -1356,10 +1356,10 @@ Er wandelt in des Lichtes Raum, vor seinem Hauch erlischt das Roth, Der starke h
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-सूर्याचन्द्रम꣡सौ धाता꣡  
-यथापूर्व꣡म् अकल्पयत्  
-दि꣡वं च पृथिवीं꣡ च  
-अन्त꣡रिक्षम् अ꣡थो सु꣡वः
+सूर्याचन्द्रम᳓सौ धाता᳓  
+यथापूर्व᳓म् अकल्पयत्  
+दि᳓वं च पृथिवीं᳓ च  
+अन्त᳓रिक्षम् अ᳓थो सु᳓वः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -1655,10 +1655,10 @@ __________________
 वृषा॑ प॒वित्रे॒ अधि॒ सानो॒ +++(=समुच्छ्रिते)+++ अव्ये॑  
 बृ॒हत् सोमो॑ वावृधे सुवा॒न इन्दुः॑ +++(=अद्रिः इति साम्नि?)+++ ४०
 
-अ꣡क्रा꣢न्त्समु꣣द्रः꣡ प्र꣢थ꣣मे꣡ वि꣢꣫धर्म꣣न्  
-ज꣡न꣢य꣣न्प्र꣡जा भु꣢꣯वनस्य꣣ गो꣢पाः।  
-वृ꣡षा꣢ प꣣वि꣢त्रे꣣ अ꣢धि꣣ सा꣢नो꣣  
-अ꣡व्ये꣢ बृ꣣ह꣡त्सोमो꣢꣯ वावृधे स्वा꣣नो꣡ अद्रिः꣢꣯ ॥1 ॥
+अ᳓क्रा꣢न्त्समु꣣द्रः᳓ प्र꣢थ꣣मे᳓ वि꣢꣫धर्म꣣न्  
+ज᳓न꣢य꣣न्प्र᳓जा भु꣢꣯वनस्य꣣ गो꣢पाः।  
+वृ᳓षा꣢ प꣣वि꣢त्रे꣣ अ꣢धि꣣ सा꣢नो꣣  
+अ᳓व्ये꣢ बृ꣣ह᳓त्सोमो꣢꣯ वावृधे स्वा꣣नो᳓ अद्रिः꣢꣯ ॥1 ॥
 
 </details>
 </div>
@@ -1672,10 +1672,10 @@ __________________
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡क्रान् समुद्रः꣡ प्रथमे꣡ वि꣡धर्मञ्  
-जन꣡यन् प्रजा꣡ भु꣡वनस्य रा꣡जा  
-वृ꣡षा पवि꣡त्रे अ꣡धि सा꣡नो अ꣡व्ये  
-बृह꣡त् सो꣡मो वावृधे स्वान꣡° इ꣡न्दुः
+अ᳓क्रान् समुद्रः᳓ प्रथमे᳓ वि᳓धर्मञ्  
+जन᳓यन् प्रजा᳓ भु᳓वनस्य रा᳓जा  
+वृ᳓षा पवि᳓त्रे अ᳓धि सा᳓नो अ᳓व्ये  
+बृह᳓त् सो᳓मो वावृधे स्वान᳓° इ᳓न्दुः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -2171,10 +2171,10 @@ Das Meer erbrauste in dem ersten Himmel, des Weltalls König, die Geschöpfe zeu
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-ब्रह्मा꣡ देवा꣡नाम् पदवीः꣡ कवीना꣡म्  
-ऋ꣡षिर् वि꣡प्राणाम् महिषो꣡ मृगा꣡णाम्  
-श्येनो꣡ गृ꣡ध्राणां स्व꣡धितिर् व꣡नानां  
-सो꣡मः पवि꣡त्रम् अ꣡ति एति रे꣡भन्
+ब्रह्मा᳓ देवा᳓नाम् पदवीः᳓ कवीना᳓म्  
+ऋ᳓षिर् वि᳓प्राणाम् महिषो᳓ मृगा᳓णाम्  
+श्येनो᳓ गृ᳓ध्राणां स्व᳓धितिर् व᳓नानां  
+सो᳓मः पवि᳓त्रम् अ᳓ति एति रे᳓भन्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -2537,9 +2537,9 @@ Seated among men, seated in the highest, seated in holy order, seated in the fir
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-अद्या꣡ नो देव सवितः  
-प्रजा꣡वत् सावीः सउ꣡भगम्  
-प꣡रा दुष्व꣡प्नियं सुव
+अद्या᳓ नो देव सवितः  
+प्रजा᳓वत् सावीः सउ᳓भगम्  
+प᳓रा दुष्व᳓प्नियं सुव
 </details>
 <details><summary>मूलम् तैत्तिरीयम्</summary>
 
@@ -2764,9 +2764,9 @@ O schaffe heut, Gott Savitar, uns kinderreichen Segen her; Fort schaffe böses T
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-वि꣡श्वानि देव सवितर्  
-दुरिता꣡नि प꣡रा सुव  
-य꣡द् भद्रं꣡ त꣡न् न आ꣡ सुव
+वि᳓श्वानि देव सवितर्  
+दुरिता᳓नि प᳓रा सुव  
+य᳓द् भद्रं᳓ त᳓न् न आ᳓ सुव
 </details>
 <details><summary>मूलम् तैत्तिरीयम्</summary>
 
@@ -3144,10 +3144,10 @@ O schaffe alles Ungemach von uns hinweg, Gott Savitar; Was heilsam ist, das scha
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-चत्वा꣡रि शृ꣡ङ्गा त्र꣡यो अस्य पा꣡दा  
-दुवे꣡ शीर्षे꣡ सप्त꣡ ह꣡स्तासो अस्य  
-त्रि꣡धा बद्धो꣡ वृषभो꣡ रोरवीति  
-महो꣡ देवो꣡ म꣡र्तियाँ आ꣡ विवेश
+चत्वा᳓रि शृ᳓ङ्गा त्र᳓यो अस्य पा᳓दा  
+दुवे᳓ शीर्षे᳓ सप्त᳓ ह᳓स्तासो अस्य  
+त्रि᳓धा बद्धो᳓ वृषभो᳓ रोरवीति  
+महो᳓ देवो᳓ म᳓र्तियाँ आ᳓ विवेश
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -3455,10 +3455,10 @@ Vier Hörner hat er, auf drei Füssen steht er, zwei Köpfe sind ihm und der Hä
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-त्रि꣡धा हित꣡म् पणि꣡भिर् गुह्य꣡मानं  
-ग꣡वि देवा꣡सो घृत꣡म् अ꣡न्व् अविन्दन्  
-इ꣡न्द्र ए꣡कं सू꣡र्य ए꣡कं जजान  
-वेना꣡द् ए꣡कं स्वध꣡या नि꣡ष् टतक्षुः
+त्रि᳓धा हित᳓म् पणि᳓भिर् गुह्य᳓मानं  
+ग᳓वि देवा᳓सो घृत᳓म् अ᳓न्व् अविन्दन्  
+इ᳓न्द्र ए᳓कं सू᳓र्य ए᳓कं जजान  
+वेना᳓द् ए᳓कं स्वध᳓या नि᳓ष् टतक्षुः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -4671,9 +4671,9 @@ ________________________
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-त꣡त् सवितु꣡र् व꣡रेणियम्  
-भ꣡र्गो देव꣡स्य धीमहि  
-धि꣡यो यो꣡ नः प्रचोद꣡यात्
+त᳓त् सवितु᳓र् व᳓रेणियम्  
+भ᳓र्गो देव᳓स्य धीमहि  
+धि᳓यो यो᳓ नः प्रचोद᳓यात्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -6018,9 +6018,9 @@ bahurUpI was archaic but popular para-vedic mantra used outside of core saMhitA 
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-अद्या꣡ नो देव सवितः  
-प्रजा꣡वत् सावीः सउ꣡भगम्  
-प꣡रा दुष्व꣡प्नियं सुव
+अद्या᳓ नो देव सवितः  
+प्रजा᳓वत् सावीः सउ᳓भगम्  
+प᳓रा दुष्व᳓प्नियं सुव
 </details>
 <details><summary>मूलम् तैत्तिरीयम्</summary>
 
@@ -6245,9 +6245,9 @@ O schaffe heut, Gott Savitar, uns kinderreichen Segen her; Fort schaffe böses T
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-वि꣡श्वानि देव सवितर्  
-दुरिता꣡नि प꣡रा सुव  
-य꣡द् भद्रं꣡ त꣡न् न आ꣡ सुव
+वि᳓श्वानि देव सवितर्  
+दुरिता᳓नि प᳓रा सुव  
+य᳓द् भद्रं᳓ त᳓न् न आ᳓ सुव
 </details>
 <details><summary>मूलम् तैत्तिरीयम्</summary>
 
@@ -6572,10 +6572,10 @@ O schaffe alles Ungemach von uns hinweg, Gott Savitar; Was heilsam ist, das scha
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-ब्रह्मा꣡ देवा꣡नाम् पदवीः꣡ कवीना꣡म्  
-ऋ꣡षिर् वि꣡प्राणाम् महिषो꣡ मृगा꣡णाम्  
-श्येनो꣡ गृ꣡ध्राणां स्व꣡धितिर् व꣡नानां  
-सो꣡मः पवि꣡त्रम् अ꣡ति एति रे꣡भन्
+ब्रह्मा᳓ देवा᳓नाम् पदवीः᳓ कवीना᳓म्  
+ऋ᳓षिर् वि᳓प्राणाम् महिषो᳓ मृगा᳓णाम्  
+श्येनो᳓ गृ᳓ध्राणां स्व᳓धितिर् व᳓नानां  
+सो᳓मः पवि᳓त्रम् अ᳓ति एति रे᳓भन्
 </details>
 <details><summary>Vedaweb annotation</summary>
 

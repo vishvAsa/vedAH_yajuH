@@ -145,10 +145,10 @@ unicode_script: devanagari
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-अस्य꣡ श्र꣡वो नदि꣡यः सप्त꣡ बिभ्रति  
-द्या꣡वाक्षा꣡मा पृथिवी꣡ दर्शतं꣡ व꣡पुः  
-अस्मे꣡ सूर्याचन्द्रम꣡साभिच꣡क्षे  
-श्रद्धे꣡ क꣡म् इन्द्र चरतो वितर्तुर꣡म्
+अस्य᳓ श्र᳓वो नदि᳓यः सप्त᳓ बिभ्रति  
+द्या᳓वाक्षा᳓मा पृथिवी᳓ दर्शतं᳓ व᳓पुः  
+अस्मे᳓ सूर्याचन्द्रम᳓साभिच᳓क्षे  
+श्रद्धे᳓ क᳓म् इन्द्र चरतो वितर्तुर᳓म्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -614,9 +614,9 @@ Die sieben Ströme wahren schutzreich seinen Ruhm, die weiten Erd' und Himmel se
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡पो हि꣡ ष्ठा꣡ मयोभु꣡वस्  
-ता꣡ न ऊर्जे꣡ दधातन  
-महे꣡ र꣡णाय च꣡क्षसे
+आ᳓पो हि᳓ ष्ठा᳓ मयोभु᳓वस्  
+ता᳓ न ऊर्जे᳓ दधातन  
+महे᳓ र᳓णाय च᳓क्षसे
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -851,10 +851,10 @@ But even if thought is the ultimate and primal creative act, the origin of the  
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-ना꣡सद् आसीन् नो꣡ स꣡द् आसीत् तदा꣡नीं  
-ना꣡सीद् र꣡जो नो꣡ वि꣡ओमा परो꣡ य꣡त्  
-कि꣡म् आ꣡वरीवः कु꣡ह क꣡स्य श꣡र्मन्न्  
-अ꣡म्भः कि꣡म् आसीद् ग꣡हनं गभीर꣡म्
+ना᳓सद् आसीन् नो᳓ स᳓द् आसीत् तदा᳓नीं  
+ना᳓सीद् र᳓जो नो᳓ वि᳓ओमा परो᳓ य᳓त्  
+कि᳓म् आ᳓वरीवः कु᳓ह क᳓स्य श᳓र्मन्न्  
+अ᳓म्भः कि᳓म् आसीद् ग᳓हनं गभीर᳓म्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -1152,10 +1152,10 @@ Zu jener Zeit war weder Sein, noch Nichtsein, nicht war der Luftraum, noch der H
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-न꣡ मृत्यु꣡र् आसीद् अमृ꣡तं न꣡ त꣡र्हि  
-न꣡ रा꣡त्रिया अ꣡ह्न आसीत् प्रकेतः꣡  
-आ꣡नीद् अवातं꣡ स्वध꣡या त꣡द् ए꣡कं  
-त꣡स्माद् धान्य꣡न् न꣡ परः꣡ किं꣡ चना꣡स
+न᳓ मृत्यु᳓र् आसीद् अमृ᳓तं न᳓ त᳓र्हि  
+न᳓ रा᳓त्रिया अ᳓ह्न आसीत् प्रकेतः᳓  
+आ᳓नीद् अवातं᳓ स्वध᳓या त᳓द् ए᳓कं  
+त᳓स्माद् धान्य᳓न् न᳓ परः᳓ किं᳓ चना᳓स
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -1439,10 +1439,10 @@ Nicht Tod und nicht Unsterblichkeit war damals, nicht gab's des Tages noch der N
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-त꣡म आसीत् त꣡मसा गूळ्ह꣡म् अ꣡ग्रे  
-अप्रकेतं꣡ सलिलं꣡ स꣡र्वम् आ इद꣡म्  
-तुछ्ये꣡नाभु꣡ अ꣡पिहितं य꣡द् आ꣡सीत्  
-त꣡पसस् त꣡न् महिना꣡जायतइ꣡कम्
+त᳓म आसीत् त᳓मसा गूळ्ह᳓म् अ᳓ग्रे  
+अप्रकेतं᳓ सलिलं᳓ स᳓र्वम् आ इद᳓म्  
+तुछ्ये᳓नाभु᳓ अ᳓पिहितं य᳓द् आ᳓सीत्  
+त᳓पसस् त᳓न् महिना᳓जायतइ᳓कम्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -1710,10 +1710,10 @@ Nur Dunkel war, verhüllt von Dunkel, anfangs und unerkennbar wogte dieses alles
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-का꣡मस् त꣡द् अ꣡ग्रे स꣡म् अवर्तता꣡धि  
-म꣡नसो रे꣡तः प्रथमं꣡ य꣡द् आ꣡सीत्  
-सतो꣡ ब꣡न्धुम् अ꣡सति नि꣡र् अविन्दन्  
-हृदि꣡ प्रती꣡ष्या कव꣡यो मनीषा꣡
+का᳓मस् त᳓द् अ᳓ग्रे स᳓म् अवर्तता᳓धि  
+म᳓नसो रे᳓तः प्रथमं᳓ य᳓द् आ᳓सीत्  
+सतो᳓ ब᳓न्धुम् अ᳓सति नि᳓र् अविन्दन्  
+हृदि᳓ प्रती᳓ष्या कव᳓यो मनीषा᳓
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -1974,10 +1974,10 @@ Da regte sich zuerst in ihm Begierde, als sich des Geistes erster Same zeigte; E
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-तिरश्ची꣡नो वि꣡ततो रश्मि꣡र् एषाम्  
-अधः꣡ स्विद् आसी꣡३द् उप꣡रि स्विद् आसी३त्  
-रेतोधा꣡ आसन् महिमा꣡न आसन्  
-स्वधा꣡ अव꣡स्तात् प्र꣡यतिः पर꣡स्तात्
+तिरश्ची᳓नो वि᳓ततो रश्मि᳓र् एषाम्  
+अधः᳓ स्विद् आसी᳓३द् उप᳓रि स्विद् आसी३त्  
+रेतोधा᳓ आसन् महिमा᳓न आसन्  
+स्वधा᳓ अव᳓स्तात् प्र᳓यतिः पर᳓स्तात्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -2217,10 +2217,10 @@ Und quer hindurch, war ihre Schnur gezogen, was war darunter? und was war darüb
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-को꣡ अद्धा꣡ वेद क꣡ इह꣡ प्र꣡ वोचत्  
-कु꣡त आ꣡जाता कु꣡त इयं꣡ वि꣡सृष्टिः  
-अर्वा꣡ग् देवा꣡ अस्य꣡ विस꣡र्जनेन  
-अ꣡था को꣡ वेद य꣡त आबभू꣡व
+को᳓ अद्धा᳓ वेद क᳓ इह᳓ प्र᳓ वोचत्  
+कु᳓त आ᳓जाता कु᳓त इयं᳓ वि᳓सृष्टिः  
+अर्वा᳓ग् देवा᳓ अस्य᳓ विस᳓र्जनेन  
+अ᳓था को᳓ वेद य᳓त आबभू᳓व
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -2475,10 +2475,10 @@ Wer weiss es recht? wer mag es hier verkünden? woher entstand, woher sie kam di
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-इयं꣡ वि꣡सृष्टिर् य꣡त आबभू꣡व  
-य꣡दि वा दधे꣡ य꣡दि वा न꣡  
-यो꣡ अस्या꣡ध्यक्षः परमे꣡ वि꣡ओमन्  
-सो꣡ अङ्ग꣡ वेद य꣡दि वा न꣡ वे꣡द
+इयं᳓ वि᳓सृष्टिर् य᳓त आबभू᳓व  
+य᳓दि वा दधे᳓ य᳓दि वा न᳓  
+यो᳓ अस्या᳓ध्यक्षः परमे᳓ वि᳓ओमन्  
+सो᳓ अङ्ग᳓ वेद य᳓दि वा न᳓ वे᳓द
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -2736,10 +2736,10 @@ Von wannen diese Schöpfung sei gekommen, ob sie geschaffen oder unerschaffen, D
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-किं꣡ स्विद् व꣡नं क꣡ उ स꣡ वृक्ष꣡ आस  
-य꣡तो द्या꣡वापृथिवी꣡ निष्टतक्षुः꣡  
-म꣡नीषिणो म꣡नसा पृछ꣡ते꣡द् उ त꣡द्  
-य꣡द् अध्य꣡तिष्ठद् भु꣡वनानि धार꣡यन्
+किं᳓ स्विद् व᳓नं क᳓ उ स᳓ वृक्ष᳓ आस  
+य᳓तो द्या᳓वापृथिवी᳓ निष्टतक्षुः᳓  
+म᳓नीषिणो म᳓नसा पृछ᳓ते᳓द् उ त᳓द्  
+य᳓द् अध्य᳓तिष्ठद् भु᳓वनानि धार᳓यन्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -3013,10 +3013,10 @@ Was war der Wald, und was war jener Baum doch, aus dem sie Erd' und Himmel schö
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-प्रात꣡र् अग्नि꣡म् प्रात꣡र् इ꣡न्द्रं हवामहे  
-प्रात꣡र् मित्रा꣡व꣡रुणा प्रात꣡र् अश्वि꣡ना  
-प्रात꣡र् भ꣡गम् पूष꣡णम् ब्र꣡ह्मणस् प꣡तिम्  
-प्रातः꣡ सो꣡मम् उत꣡ रुद्रं꣡ हुवेम
+प्रात᳓र् अग्नि᳓म् प्रात᳓र् इ᳓न्द्रं हवामहे  
+प्रात᳓र् मित्रा᳓व᳓रुणा प्रात᳓र् अश्वि᳓ना  
+प्रात᳓र् भ᳓गम् पूष᳓णम् ब्र᳓ह्मणस् प᳓तिम्  
+प्रातः᳓ सो᳓मम् उत᳓ रुद्रं᳓ हुवेम
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -3298,10 +3298,10 @@ Frühmorgens laden Agni wir und Indra ein, frühmorgens Mitra-Varuna, die Ritter
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-प्रातर्जि꣡तम् भ꣡गम् उग्रं꣡ हुवेम  
-वय꣡म् पुत्र꣡म् अ꣡दितेर् यो꣡ विधर्ता꣡  
-आध्र꣡श् चिद् य꣡म् म꣡न्यमानस् तुर꣡श् चिद्  
-रा꣡जा चिद् य꣡म् भ꣡गम् भक्षी꣡ति आ꣡ह
+प्रातर्जि᳓तम् भ᳓गम् उग्रं᳓ हुवेम  
+वय᳓म् पुत्र᳓म् अ᳓दितेर् यो᳓ विधर्ता᳓  
+आध्र᳓श् चिद् य᳓म् म᳓न्यमानस् तुर᳓श् चिद्  
+रा᳓जा चिद् य᳓म् भ᳓गम् भक्षी᳓ति आ᳓ह
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -3613,10 +3613,10 @@ Wir wollen den, der früh gewinnt und austheilt, den mächt'gen Bhaga, den Aditj
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-भ꣡ग प्र꣡णेतर् भ꣡ग स꣡त्यराधो  
-भ꣡गेमां꣡ धि꣡यम् उ꣡द् अवा द꣡दन् नः  
-भ꣡ग प्र꣡ णो जनय गो꣡भिर् अ꣡श्वैर्  
-भ꣡ग प्र꣡ नृ꣡भिर् नृव꣡न्तः सियाम
+भ᳓ग प्र᳓णेतर् भ᳓ग स᳓त्यराधो  
+भ᳓गेमां᳓ धि᳓यम् उ᳓द् अवा द᳓दन् नः  
+भ᳓ग प्र᳓ णो जनय गो᳓भिर् अ᳓श्वैर्  
+भ᳓ग प्र᳓ नृ᳓भिर् नृव᳓न्तः सियाम
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -3925,10 +3925,10 @@ O Bhaga, Führer, Bhaga, wahrhaft reicher, begünst'ge, Bhaga, dieses Lied, uns 
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-उते꣡दा꣡नीम् भ꣡गवन्तः सियाम  
-उत꣡ प्रपित्व꣡ उत꣡ म꣡ध्ये अ꣡ह्नाम्  
-उतो꣡दिता मघवन् सू꣡रियस्य  
-वयं꣡ देवा꣡नां सुमतउ꣡ सियाम
+उते᳓दा᳓नीम् भ᳓गवन्तः सियाम  
+उत᳓ प्रपित्व᳓ उत᳓ म᳓ध्ये अ᳓ह्नाम्  
+उतो᳓दिता मघवन् सू᳓रियस्य  
+वयं᳓ देवा᳓नां सुमतउ᳓ सियाम
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -4202,10 +4202,10 @@ Auch jetzt versorge uns mit reichem Antheil beim Tages Anbruch und in Tages Mitt
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-भ꣡ग एव꣡ भ꣡गवाँ अस्तु देवास्  
-ते꣡न वय꣡म् भ꣡गवन्तः सियाम  
-तं꣡ त्वा भग स꣡र्व इ꣡ज् जोहवीति  
-स꣡ नो भग पुरएता꣡ भवेह꣡
+भ᳓ग एव᳓ भ᳓गवाँ अस्तु देवास्  
+ते᳓न वय᳓म् भ᳓गवन्तः सियाम  
+तं᳓ त्वा भग स᳓र्व इ᳓ज् जोहवीति  
+स᳓ नो भग पुरएता᳓ भवेह᳓
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -4521,10 +4521,10 @@ Ja reich an Gaben sei, o Götter, Bhaga, durch ihn auch mögen wir an Gaben reic
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-स꣡म् अध्वरा꣡य उष꣡सो नमन्त  
-दधिक्रा꣡वेव शु꣡चये पदा꣡य  
-अर्वाचीनं꣡ वसुवि꣡दम् भ꣡गं नो  
-र꣡थम् ऽवा꣡श्वा° वाजि꣡न आ꣡ वहन्तु
+स᳓म् अध्वरा᳓य उष᳓सो नमन्त  
+दधिक्रा᳓वेव शु᳓चये पदा᳓य  
+अर्वाचीनं᳓ वसुवि᳓दम् भ᳓गं नो  
+र᳓थम् ऽवा᳓श्वा° वाजि᳓न आ᳓ वहन्तु
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -4804,10 +4804,10 @@ Zum Opfer mögen sich die Morgenröthen, wie Dadhikra zum hellen Orte wenden; Si
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡श्वावतीर् गो꣡मतीर् न उषा꣡सो  
-वीर꣡वतीः स꣡दम् उछन्तु भद्राः꣡  
-घृतं꣡ दु꣡हाना विश्व꣡तः प्र꣡पीता  
-यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः
+अ᳓श्वावतीर् गो᳓मतीर् न उषा᳓सो  
+वीर᳓वतीः स᳓दम् उछन्तु भद्राः᳓  
+घृतं᳓ दु᳓हाना विश्व᳓तः प्र᳓पीता  
+यूय᳓म् पात सुअस्ति᳓भिः स᳓दा नः
 </details>
 <details><summary>Vedaweb annotation</summary>
 

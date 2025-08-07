@@ -373,9 +373,9 @@ Of the wide-stepping Visnu, the mighty!
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-वि꣡ष्णोः क꣡र्माणि पश्यत  
-य꣡तो व्रता꣡नि पस्पशे꣡  
-इ꣡न्द्रस्य यु꣡जियः स꣡खा
+वि᳓ष्णोः क᳓र्माणि पश्यत  
+य᳓तो व्रता᳓नि पस्पशे᳓  
+इ᳓न्द्रस्य यु᳓जियः स᳓खा
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -602,9 +602,9 @@ _______
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-त꣡द् वि꣡ष्णोः परम꣡म् पदं꣡  
-स꣡दा पश्यन्ति सूर꣡यः  
-दिवी꣡व च꣡क्षुर् आ꣡ततम्
+त᳓द् वि᳓ष्णोः परम᳓म् पदं᳓  
+स᳓दा पश्यन्ति सूर᳓यः  
+दिवी᳓व च᳓क्षुर् आ᳓ततम्
 </details>
 <details><summary>Vedaweb annotation</summary>
 

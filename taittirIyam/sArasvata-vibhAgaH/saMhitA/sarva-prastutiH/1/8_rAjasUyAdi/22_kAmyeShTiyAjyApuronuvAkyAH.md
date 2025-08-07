@@ -119,9 +119,9 @@ May your tongue move forth to the ghee.
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ णो देवी꣡ स꣡रस्वती  
-वा꣡जेभिर् वाजि꣡नीवती  
-धीना꣡म् अवित्रि꣡ अवतु
+प्र᳓ णो देवी᳓ स᳓रस्वती  
+वा᳓जेभिर् वाजि᳓नीवती  
+धीना᳓म् अवित्रि᳓ अवतु
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -254,7 +254,7 @@ Further us, she that aideth prayer.
 
 Let goddess Sarasvatī, rich in prize mares, with her prizes  
 help us—the helper of visionary thoughts.
-꣡</details>
+</details>
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/061/04-06.md">
 <details open><summary><h7>04-06 ...{Loading}...</h7></summary>
@@ -350,10 +350,10 @@ Es schirm der Andacht Schirmerin Sarasvati, die Göttin uns, Mit Kräften sie, d
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ नो दिवो꣡ बृहतः꣡ प꣡र्वताद् आ꣡  
-स꣡रस्वती यजता꣡ गन्तु यज्ञ꣡म्  
-ह꣡वं देवी꣡ जुजुषाणा꣡ घृता꣡ची  
-शग्मां꣡ नो वा꣡चम् उशती꣡ शृणोतु
+आ᳓ नो दिवो᳓ बृहतः᳓ प᳓र्वताद् आ᳓  
+स᳓रस्वती यजता᳓ गन्तु यज्ञ᳓म्  
+ह᳓वं देवी᳓ जुजुषाणा᳓ घृता᳓ची  
+शग्मां᳓ नो वा᳓चम् उशती᳓ शृणोतु
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -682,9 +682,9 @@ Zu unserm Opfer komme her vom Himmel, vom hohen Berg Sarasvati, die hehre; Die b
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-बृ꣡हस्पते जुष꣡स्व नो  
-हव्या꣡नि विश्वदेविय  
-रा꣡स्व र꣡त्नानि दाशु꣡षे
+बृ᳓हस्पते जुष᳓स्व नो  
+हव्या᳓नि विश्वदेविय  
+रा᳓स्व र᳓त्नानि दाशु᳓षे
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -893,10 +893,10 @@ Nimm, unsre Opfer gnädig an mit allen Göttern, Andachtsherr, Gib Schätze dem 
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-एवा꣡ पित्रे꣡ विश्व꣡देवाय वृ꣡ष्णे  
-यज्ञइ꣡र् विधेम न꣡मसा हवि꣡र्भिः  
-बृ꣡हस्पते सुप्रजा꣡ वीर꣡वन्तो  
-वयं꣡ सियाम प꣡तयो रयीणा꣡म्
+एवा᳓ पित्रे᳓ विश्व᳓देवाय वृ᳓ष्णे  
+यज्ञइ᳓र् विधेम न᳓मसा हवि᳓र्भिः  
+बृ᳓हस्पते सुप्रजा᳓ वीर᳓वन्तो  
+वयं᳓ सियाम प᳓तयो रयीणा᳓म्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -1210,10 +1210,10 @@ So lasst dem Stier, dem Vater aller Götter, voll Demuth uns durch Tränk' und O
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-बृ꣡हस्पते अ꣡ति य꣡द् अर्यो꣡ अ꣡र्हाद्  
-द्युम꣡द् विभा꣡ति क्र꣡तुमज् ज꣡नेषु  
-य꣡द् दीद꣡यच् छ꣡वस र्तप्रजात  
-त꣡द् अस्मा꣡सु द्र꣡विणं धेहि चित्र꣡म्
+बृ᳓हस्पते अ᳓ति य᳓द् अर्यो᳓ अ᳓र्हाद्  
+द्युम᳓द् विभा᳓ति क्र᳓तुमज् ज᳓नेषु  
+य᳓द् दीद᳓यच् छ᳓वस र्तप्रजात  
+त᳓द् अस्मा᳓सु द्र᳓विणं धेहि चित्र᳓म्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -1549,9 +1549,9 @@ Brihaspati, was recht dem Frommen werth gilt, was glänzend strahlt und wirksam 
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ नो मित्रावरुणा  
-घृतइ꣡र् ग꣡व्यूतिम् उक्षतम्  
-म꣡ध्वा र꣡जांसि सुक्रतू
+आ᳓ नो मित्रावरुणा  
+घृतइ᳓र् ग᳓व्यूतिम् उक्षतम्  
+म᳓ध्वा र᳓जांसि सुक्रतू
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -1790,10 +1790,10 @@ Benetzt, o Mitra-Varuna, mit Butter unsern Weideplatz, Mit Meth die Räume, Tref
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ बाह꣡वा सिसृतं जीव꣡से न  
-आ꣡ नो ग꣡व्यूतिम् उक्षतं घृते꣡न  
-आ꣡ नो ज꣡ने श्रवयतं युवाना  
-श्रुत꣡म् मे मित्रावरुणा ह꣡वेमा꣡
+प्र᳓ बाह᳓वा सिसृतं जीव᳓से न  
+आ᳓ नो ग᳓व्यूतिम् उक्षतं घृते᳓न  
+आ᳓ नो ज᳓ने श्रवयतं युवाना  
+श्रुत᳓म् मे मित्रावरुणा ह᳓वेमा᳓
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -2113,10 +2113,10 @@ O streckt die Arme vor, damit wir leben, besprengt mit fetter Nahrung unsre Wies
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-अग्निं꣡ वः पूर्वियं꣡ गिरा꣡  
-देव꣡म् ईळे व꣡सूना᳐म्  
-सपर्य꣡न्तः पुरुप्रिय꣡म्  
-मित्रं꣡ न꣡ क्षेत्रसा꣡धसम्
+अग्निं᳓ वः पूर्वियं᳓ गिरा᳓  
+देव᳓म् ईळे व᳓सूना᳐म्  
+सपर्य᳓न्तः पुरुप्रिय᳓म्  
+मित्रं᳓ न᳓ क्षेत्रसा᳓धसम्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -2339,11 +2339,11 @@ Den Agni preise ich zuerst mit Lied, den Gott der Schätze gibt, den Hort des Fe
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-मक्षू꣡ देव꣡वतो र꣡थः  
-शू꣡रो वा पृत्सु꣡ का꣡सु चित्  
-देवा꣡नां᳐ य꣡ इ꣡न् म꣡नो  
-य꣡जमान इ꣡यक्षति  
-अभी꣡द् अ꣡यज्वनो भुवत्
+मक्षू᳓ देव᳓वतो र᳓थः  
+शू᳓रो वा पृत्सु᳓ का᳓सु चित्  
+देवा᳓नां᳐ य᳓ इ᳓न् म᳓नो  
+य᳓जमान इ᳓यक्षति  
+अभी᳓द् अ᳓यज्वनो भुवत्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -2627,11 +2627,11 @@ Des Frommen Wagen wie ein Held eilt schnell voran in jedem Kampf; Wer recht der 
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-न꣡ यजमान रिष्यसि  
-न꣡ सुन्वान न꣡ देवयो  
-देवा꣡नां᳐ य꣡ इ꣡न् म꣡नो  
-य꣡जमान इ꣡यक्षति  
-अभी꣡द् अ꣡यज्वनो भुवत्
+न᳓ यजमान रिष्यसि  
+न᳓ सुन्वान न᳓ देवयो  
+देवा᳓नां᳐ य᳓ इ᳓न् म᳓नो  
+य᳓जमान इ᳓यक्षति  
+अभी᳓द् अ᳓यज्वनो भुवत्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -2904,11 +2904,11 @@ Nicht trifft dich Schaden, Opferer, nicht Somapresser, Frommer dich; Wer recht d
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡सद् अ꣡त्र सुवी꣡रियम्  
-उत꣡ त्य꣡द् आशुअ꣡श्वियम्  
-देवा꣡नां᳐ य꣡ इ꣡न् म꣡नो  
-य꣡जमान इ꣡यक्षति  
-अभी꣡द् अ꣡यज्वनो भुवत्
+अ᳓सद् अ᳓त्र सुवी᳓रियम्  
+उत᳓ त्य᳓द् आशुअ᳓श्वियम्  
+देवा᳓नां᳐ य᳓ इ᳓न् म᳓नो  
+य᳓जमान इ᳓यक्षति  
+अभी᳓द् अ᳓यज्वनो भुवत्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -3192,11 +3192,11 @@ Bei ihm muss Heldenfülle sein und schneller Rosse Vollbesitz; Wer recht der Gö
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-न꣡किष् टं꣡ क꣡र्मणा नशन्  
-न꣡ प्र꣡ योषन् न꣡ योषति  
-देवा꣡नां᳐ य꣡ इ꣡न् म꣡नो  
-य꣡जमान इ꣡यक्षति  
-अभी꣡द् अ꣡यज्वनो भुवत्
+न᳓किष् टं᳓ क᳓र्मणा नशन्  
+न᳓ प्र᳓ योषन् न᳓ योषति  
+देवा᳓नां᳐ य᳓ इ᳓न् म᳓नो  
+य᳓जमान इ᳓यक्षति  
+अभी᳓द् अ᳓यज्वनो भुवत्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -3491,10 +3491,10 @@ Niemand verletzet durch sein Thun, noch scheucht er den, noch wehrt ihn ab; Wer 
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-उ꣡प क्षरन्ति सि꣡न्धवो मयोभु꣡व  
-ईजानं꣡ च यक्ष्य꣡माणं च धेन꣡वः  
-पृण꣡न्तं च प꣡पुरिं च श्रवस्य꣡वो  
-घृत꣡स्य धा꣡रा उ꣡प यन्ति विश्व꣡तः
+उ᳓प क्षरन्ति सि᳓न्धवो मयोभु᳓व  
+ईजानं᳓ च यक्ष्य᳓माणं च धेन᳓वः  
+पृण᳓न्तं च प᳓पुरिं च श्रवस्य᳓वो  
+घृत᳓स्य धा᳓रा उ᳓प यन्ति विश्व᳓तः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -3846,10 +3846,10 @@ Whatever sin we have done remove from us.
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-सो꣡मारुद्रा युव꣡म् एता꣡नि अस्मे꣡  
-वि꣡श्वा तनू꣡षु भेषजा꣡नि धत्तम्  
-अ꣡व स्यतम् मुञ्च꣡तं य꣡न् नो अ꣡स्ति  
-तनू꣡षु बद्धं꣡ कृत꣡म् ए꣡नो अस्म꣡त्
+सो᳓मारुद्रा युव᳓म् एता᳓नि अस्मे᳓  
+वि᳓श्वा तनू᳓षु भेषजा᳓नि धत्तम्  
+अ᳓व स्यतम् मुञ्च᳓तं य᳓न् नो अ᳓स्ति  
+तनू᳓षु बद्धं᳓ कृत᳓म् ए᳓नो अस्म᳓त्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -4190,10 +4190,10 @@ O Soma-Rudra, alle Arzeneien, die wohlbekannten, legt in unsre Leiber; Macht fre
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-सो꣡मापूषणा ज꣡नना रयीणां꣡  
-ज꣡नना दिवो꣡ ज꣡नना पृथिव्याः꣡  
-जातउ꣡ वि꣡श्वस्य भु꣡वनस्य गोपउ꣡  
-देवा꣡ अकृण्वन्न् अमृ꣡तस्य ना꣡भिम्
+सो᳓मापूषणा ज᳓नना रयीणां᳓  
+ज᳓नना दिवो᳓ ज᳓नना पृथिव्याः᳓  
+जातउ᳓ वि᳓श्वस्य भु᳓वनस्य गोपउ᳓  
+देवा᳓ अकृण्वन्न् अमृ᳓तस्य ना᳓भिम्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -4494,10 +4494,10 @@ x
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-इमउ꣡ देवउ꣡ जा꣡यमानौ जुषन्त  
-इमउ꣡ त꣡मांसि गूहताम् अ꣡जुष्टा  
-आभ्या꣡म् इ꣡न्द्रः पक्व꣡म् आमा꣡सु अन्तः꣡  
-सोमापूष꣡भ्यां जनद् उस्रि꣡यासु
+इमउ᳓ देवउ᳓ जा᳓यमानौ जुषन्त  
+इमउ᳓ त᳓मांसि गूहताम् अ᳓जुष्टा  
+आभ्या᳓म् इ᳓न्द्रः पक्व᳓म् आमा᳓सु अन्तः᳓  
+सोमापूष᳓भ्यां जनद् उस्रि᳓यासु
 </details>
 <details><summary>Vedaweb annotation</summary>
 

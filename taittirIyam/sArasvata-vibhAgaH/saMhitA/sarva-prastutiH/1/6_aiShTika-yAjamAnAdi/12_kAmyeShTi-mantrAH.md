@@ -60,9 +60,9 @@ title = "१२ काम्येष्टिमन्त्राः"
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्रं वो विश्व꣡तस् प꣡रि  
-ह꣡वामहे ज꣡नेभियः  
-अस्मा꣡कम् अस्तु के꣡वलः
+इ᳓न्द्रं वो विश्व᳓तस् प᳓रि  
+ह᳓वामहे ज᳓नेभियः  
+अस्मा᳓कम् अस्तु के᳓वलः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -301,10 +301,10 @@ Wir rufen euch den Indra her von allen Orten, jedem Volk; Uns sei er eigen, kein
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्रं न꣡रो नेम꣡धिता हवन्ते  
-य꣡त् पा꣡रिया युन꣡जते धि꣡यस् ताः꣡  
-शू꣡रो नृ꣡षाता श꣡वसश् चकान꣡  
-आ꣡ गो꣡मति व्रजे꣡ भजा तुवं꣡ नः
+इ᳓न्द्रं न᳓रो नेम᳓धिता हवन्ते  
+य᳓त् पा᳓रिया युन᳓जते धि᳓यस् ताः᳓  
+शू᳓रो नृ᳓षाता श᳓वसश् चकान᳓  
+आ᳓ गो᳓मति व्रजे᳓ भजा तुवं᳓ नः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -675,9 +675,9 @@ Den Indra rufen im Gefecht die Männer, dass er erfolgreich diese Bitten mache; 
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-इन्द्रिया꣡णि शतक्रतो  
-या꣡ ते ज꣡नेषु पञ्च꣡सु  
-इ꣡न्द्र ता꣡नि त आ꣡ वृणे
+इन्द्रिया᳓णि शतक्रतो  
+या᳓ ते ज᳓नेषु पञ्च᳓सु  
+इ᳓न्द्र ता᳓नि त आ᳓ वृणे
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -933,10 +933,10 @@ Die Indrakräfte wünsch' ich her, die, Indra, hundertwirkender, Du bei den fün
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡नु ते दायि मह꣡ इन्द्रिया꣡य  
-सत्रा꣡ ते वि꣡श्वम् अ꣡नु वृत्रह꣡त्ये  
-अ꣡नु क्षत्र꣡म् अ꣡नु स꣡हो यजत्रा꣡  
-इ꣡न्द्र देवे꣡भिर् अ꣡नु ते नृष꣡ह्ये
+अ᳓नु ते दायि मह᳓ इन्द्रिया᳓य  
+सत्रा᳓ ते वि᳓श्वम् अ᳓नु वृत्रह᳓त्ये  
+अ᳓नु क्षत्र᳓म् अ᳓नु स᳓हो यजत्रा᳓  
+इ᳓न्द्र देवे᳓भिर् अ᳓नु ते नृष᳓ह्ये
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -1366,10 +1366,10 @@ The glowing pot is the guest of Indra.
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-आमा꣡सु पक्व꣡म् अइ꣡रय  
-आ꣡ सू꣡र्यं रोहयो दिवि꣡  
-घर्मं꣡ न꣡ सा꣡मन् तपता सुवृक्ति꣡भिर्  
-जु꣡ष्टं गि꣡र्वणसे बृह꣡त्
+आमा᳓सु पक्व᳓म् अइ᳓रय  
+आ᳓ सू᳓र्यं रोहयो दिवि᳓  
+घर्मं᳓ न᳓ सा᳓मन् तपता सुवृक्ति᳓भिर्  
+जु᳓ष्टं गि᳓र्वणसे बृह᳓त्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -1673,9 +1673,9 @@ In rohen schufst du gare Milch, erhobst die Sonn' am Himmelsraum, Entflammt wie 
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्रम् इ꣡द् गाथि꣡नो बृह꣡द्  
-इ꣡न्द्रम् अर्के꣡भिर् अर्कि꣡णः  
-इ꣡न्द्रं वा꣡णीर् अनूषत
+इ᳓न्द्रम् इ᳓द् गाथि᳓नो बृह᳓द्  
+इ᳓न्द्रम् अर्के᳓भिर् अर्कि᳓णः  
+इ᳓न्द्रं वा᳓णीर् अनूषत
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -1959,10 +1959,10 @@ Den Indra preist der Sänger Schar, mit Preisgesang die preisenden, Den Indra la
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-गा꣡यन्ति त्वा गायत्रि꣡णो  
-अ꣡र्चन्ति अर्क꣡म् अर्कि꣡णः  
-ब्रह्मा꣡णस् त्वा शतक्रत  
-उ꣡द् वंश꣡म् इव येमिरे
+गा᳓यन्ति त्वा गायत्रि᳓णो  
+अ᳓र्चन्ति अर्क᳓म् अर्कि᳓णः  
+ब्रह्मा᳓णस् त्वा शतक्रत  
+उ᳓द् वंश᳓म् इव येमिरे
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -2366,10 +2366,10 @@ May the desires of the sacrificer be fulfilled.
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-विवे꣡ष य꣡न् मा धिष꣡णा जजा꣡न  
-स्त꣡वै पुरा꣡ पा꣡रियाद् इ꣡न्द्रम् अ꣡ह्नः  
-अं꣡हसो य꣡त्र पीप꣡रद् य꣡था नो  
-नावे꣡व या꣡न्तम् उभ꣡ये हवन्ते
+विवे᳓ष य᳓न् मा धिष᳓णा जजा᳓न  
+स्त᳓वै पुरा᳓ पा᳓रियाद् इ᳓न्द्रम् अ᳓ह्नः  
+अं᳓हसो य᳓त्र पीप᳓रद् य᳓था नो  
+नावे᳓व या᳓न्तम् उभ᳓ये हवन्ते
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -2845,10 +2845,10 @@ Who is hostile to us.
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्र क्षत्र꣡म् · अभि꣡ वाम꣡म् ओ꣡जो  
-अ꣡जायथा वृषभ चर्षणीना꣡म्  
-अ꣡पानुदो ज꣡नम् अमित्रय꣡न्तम्  
-उरुं꣡ देवे꣡भ्यो अकृणोर् उलोक꣡म्†
+इ᳓न्द्र क्षत्र᳓म् · अभि᳓ वाम᳓म् ओ᳓जो  
+अ᳓जायथा वृषभ चर्षणीना᳓म्  
+अ᳓पानुदो ज᳓नम् अमित्रय᳓न्तम्  
+उरुं᳓ देवे᳓भ्यो अकृणोर् उलोक᳓म्†
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -3353,10 +3353,10 @@ May we be dear to you among the princes.
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡नवस् ते र꣡थम् अ꣡श्वाय तक्षन्  
-त्व꣡ष्टा व꣡ज्रम् पुरुहूत द्युम꣡न्तम्  
-ब्रह्मा꣡ण इ꣡न्द्रम् मह꣡यन्तो अर्कइ꣡र्  
-अ꣡वर्धयन्न् अ꣡हये ह꣡न्तवा꣡ उ
+अ᳓नवस् ते र᳓थम् अ᳓श्वाय तक्षन्  
+त्व᳓ष्टा व᳓ज्रम् पुरुहूत द्युम᳓न्तम्  
+ब्रह्मा᳓ण इ᳓न्द्रम् मह᳓यन्तो अर्कइ᳓र्  
+अ᳓वर्धयन्न् अ᳓हये ह᳓न्तवा᳓ उ
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -3692,10 +3692,10 @@ Die Menschen machten für dein Ross den Wagen Tvaschtar den lichten Blitz, o vie
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-वृ꣡ष्णे य꣡त् ते वृ꣡षणो अर्क꣡म् अ꣡र्चान्  
-इ꣡न्द्र ग्रा꣡वाणो अ꣡दितिः सजो꣡षाः  
-अनश्वा꣡सो ये꣡ पव꣡यो अरथा꣡  
-इ꣡न्द्रेषिता अभ्य् अ꣡वर्तन्त द꣡स्यून्
+वृ᳓ष्णे य᳓त् ते वृ᳓षणो अर्क᳓म् अ᳓र्चान्  
+इ᳓न्द्र ग्रा᳓वाणो अ᳓दितिः सजो᳓षाः  
+अनश्वा᳓सो ये᳓ पव᳓यो अरथा᳓  
+इ᳓न्द्रेषिता अभ्य् अ᳓वर्तन्त द᳓स्यून्
 </details>
 <details><summary>Vedaweb annotation</summary>
 

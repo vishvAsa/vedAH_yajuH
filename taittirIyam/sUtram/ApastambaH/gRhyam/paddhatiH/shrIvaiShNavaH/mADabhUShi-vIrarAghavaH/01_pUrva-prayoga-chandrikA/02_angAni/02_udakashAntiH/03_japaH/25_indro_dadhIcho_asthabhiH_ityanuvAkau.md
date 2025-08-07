@@ -35,9 +35,9 @@ title = "२५ 'इन्द्रो दधीचो अस्थभिः'"
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्रो दधीचो꣡ अस्थ꣡भिर्  
-वृत्रा꣡णि अ꣡प्रतिष्कुतः  
-जघा꣡न नवती꣡र् न꣡व
+इ᳓न्द्रो दधीचो᳓ अस्थ᳓भिर्  
+वृत्रा᳓णि अ᳓प्रतिष्कुतः  
+जघा᳓न नवती᳓र् न᳓व
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -255,9 +255,9 @@ Mit Dadhiank's Gebeinen schlug, Indra, dem niemand widersteht, Die neunundneunzi
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-इछ꣡न्न् अ꣡श्वस्य य꣡च् छि꣡रः  
-प꣡र्वतेषु अ꣡पश्रितम्  
-त꣡द् विदच् छर्यणा꣡वति
+इछ᳓न्न् अ᳓श्वस्य य᳓च् छि᳓रः  
+प᳓र्वतेषु अ᳓पश्रितम्  
+त᳓द् विदच् छर्यणा᳓वति
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -475,9 +475,9 @@ Verlangend nach des Rosses Haupt, das in den Bergen sich versteckt, Fand er's am
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡त्रा꣡ह गो꣡र् अमन्वत  
-ना꣡म त्व꣡ष्टुर् अपीचि꣡यम्  
-इत्था꣡ चन्द्र꣡मसो गृहे꣡
+अ᳓त्रा᳓ह गो᳓र् अमन्वत  
+ना᳓म त्व᳓ष्टुर् अपीचि᳓यम्  
+इत्था᳓ चन्द्र᳓मसो गृहे᳓
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -764,9 +764,9 @@ Dort fanden sie das Wesen auf des Stiers, den Tvaschtar hielt versteckt. Dort en
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्रम् इ꣡द् गाथि꣡नो बृह꣡द्  
-इ꣡न्द्रम् अर्के꣡भिर् अर्कि꣡णः  
-इ꣡न्द्रं वा꣡णीर् अनूषत
+इ᳓न्द्रम् इ᳓द् गाथि᳓नो बृह᳓द्  
+इ᳓न्द्रम् अर्के᳓भिर् अर्कि᳓णः  
+इ᳓न्द्रं वा᳓णीर् अनूषत
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -1040,9 +1040,9 @@ Den Indra preist der Sänger Schar, mit Preisgesang die preisenden, Den Indra la
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्र इ꣡द् ध꣡रियोः स꣡चा  
-स꣡म्मिश्ल आ꣡ वचोयु꣡जा  
-इ꣡न्द्रो वज्री꣡ हिरण्य꣡यः
+इ᳓न्द्र इ᳓द् ध᳓रियोः स᳓चा  
+स᳓म्मिश्ल आ᳓ वचोयु᳓जा  
+इ᳓न्द्रो वज्री᳓ हिरण्य᳓यः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -1285,9 +1285,9 @@ Indra mit seiner Füchse Paar, dem Wagen, der aufs Wort sich schirrt, der goldne
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्रो दीर्घा꣡य च꣡क्षस  
-आ꣡ सू꣡र्यं रोहयद् दिवि꣡  
-वि꣡ गो꣡भिर् अ꣡द्रिम् ऐरयत्
+इ᳓न्द्रो दीर्घा᳓य च᳓क्षस  
+आ᳓ सू᳓र्यं रोहयद् दिवि᳓  
+वि᳓ गो᳓भिर् अ᳓द्रिम् ऐरयत्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -1531,9 +1531,9 @@ Die Sonne liess er, weit zu schaun, am Himmel steigen, er zerschlug Den Fels und
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्र वा꣡जेषु नो अव  
-सह꣡स्रप्रधनेषु च  
-उग्र꣡ उग्रा꣡भिर् ऊति꣡भिः
+इ᳓न्द्र वा᳓जेषु नो अव  
+सह᳓स्रप्रधनेषु च  
+उग्र᳓ उग्रा᳓भिर् ऊति᳓भिः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -1753,9 +1753,9 @@ Hilf in den Schlachten, Indra, uns, im Kampf, der tausend Schätze bringt, Mit m
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-त꣡म् इ꣡न्द्रं वाजयामसि  
-महे꣡ वृत्रा꣡य ह꣡न्तवे  
-स꣡ वृ꣡षा वृषभो꣡ भुवत्
+त᳓म् इ᳓न्द्रं वाजयामसि  
+महे᳓ वृत्रा᳓य ह᳓न्तवे  
+स᳓ वृ᳓षा वृषभो᳓ भुवत्
 </details>
 <details><summary>Vedaweb annotation</summary>
 

@@ -245,7 +245,7 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/1/1/12-1_0682_kayA_nashchitra.md">
 <details open><summary><h8>12-1_0682 कया नश्चित्र ...{Loading}...</h8></summary>
 
-क꣡या꣢ नश्चि꣣त्र꣡ आ भुव꣢꣯दू꣣ती꣢ स꣣दा꣢वृ꣣धः꣢ स꣡खा꣢। क꣢या꣣ श꣡चि꣢ष्ठया वृ꣣ता꣢ ॥ 12-1:0682 ॥
+क᳓या꣢ नश्चि꣣त्र᳓ आ भुव꣢꣯दू꣣ती꣢ स꣣दा꣢वृ꣣धः꣢ स᳓खा꣢। क꣢या꣣ श᳓चि꣢ष्ठया वृ꣣ता꣢ ॥ 12-1:0682 ॥
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/031/01_kayA_nashchitra.md">
 <details open><summary><h10>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h10></summary>
@@ -262,7 +262,7 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/1/1/12-2_0683_kastvA_satyo.md">
 <details open><summary><h7>12-2_0683 कस्त्वा सत्यो ...{Loading}...</h7></summary>
 
-क꣡स्त्वा꣢ स꣣त्यो꣡ मदा꣢꣯नां꣣ मँ꣡हि꣢ष्ठो मत्स꣣द꣡न्ध꣢सः। दृ꣣ढा꣡ चि꣢दा꣣रु꣢जे꣣ व꣡सु꣢ ॥ 12-2:0683 ॥
+क᳓स्त्वा꣢ स꣣त्यो᳓ मदा꣢꣯नां꣣ मँ᳓हि꣢ष्ठो मत्स꣣द᳓न्ध꣢सः। दृ꣣ढा᳓ चि꣢दा꣣रु꣢जे꣣ व᳓सु꣢ ॥ 12-2:0683 ॥
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/031/02_kastvA_satyo.md">
 <details open><summary><h9>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h9></summary>
@@ -279,7 +279,7 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/1/1/12-3_0684_abhI_Shu.md">
 <details open><summary><h7>12-3_0684 अभी षु ...{Loading}...</h7></summary>
 
-अ꣣भी꣢꣫ षु णः꣣ स꣡खी꣢नामवि꣣ता꣡ ज꣢रितृ꣣णा꣢म्। श꣣तं꣡ भ꣢वास्यू꣣त꣡ये꣢ ॥ 12-3:0684 ॥॥12(टा)॥
+अ꣣भी꣢꣫ षु णः꣣ स᳓खी꣢नामवि꣣ता᳓ ज꣢रितृ꣣णा꣢म्। श꣣तं᳓ भ꣢वास्यू꣣त᳓ये꣢ ॥ 12-3:0684 ॥॥12(टा)॥
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/031/03_abhI_Shu.md">
 <details open><summary><h9>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h9></summary>

@@ -39,9 +39,9 @@ unicode_script = "devanagari"
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-त꣡त् सवितु꣡र् व꣡रेणियम्  
-भ꣡र्गो देव꣡स्य धीमहि  
-धि꣡यो यो꣡ नः प्रचोद꣡यात्
+त᳓त् सवितु᳓र् व᳓रेणियम्  
+भ᳓र्गो देव᳓स्य धीमहि  
+धि᳓यो यो᳓ नः प्रचोद᳓यात्
 </details>
 <details><summary>Vedaweb annotation</summary>
 

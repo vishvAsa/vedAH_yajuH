@@ -43,9 +43,9 @@ title = "११ याज्यापुरोनुवाक्याः"
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-इदं꣡ वाम् आसि꣡ये हविः꣡  
-प्रिय꣡म् इन्द्राबृहस्पती  
-उक्थ꣡म् म꣡दश् च शस्यते
+इदं᳓ वाम् आसि᳓ये हविः᳓  
+प्रिय᳓म् इन्द्राबृहस्पती  
+उक्थ᳓म् म᳓दश् च शस्यते
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -278,9 +278,9 @@ Hier steht der liebe Opfertrank vor euch, Indra-Brihaspati, Verkündet wird euch
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-अयं꣡ वाम् प꣡रि षिच्यते  
-सो꣡म इन्द्राबृहस्पती  
-चा꣡रुर् म꣡दाय पीत꣡ये
+अयं᳓ वाम् प᳓रि षिच्यते  
+सो᳓म इन्द्राबृहस्पती  
+चा᳓रुर् म᳓दाय पीत᳓ये
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -497,9 +497,9 @@ Euch wird, Indra-Brihaspati, ergossen dieser Somasaft, Der schön zum Trunk und 
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-अस्मे꣡ इन्द्राबृहस्पती  
-रयिं꣡ धत्तं शतग्वि꣡नम्  
-अ꣡श्वावन्तं सहस्रि꣡णम्
+अस्मे᳓ इन्द्राबृहस्पती  
+रयिं᳓ धत्तं शतग्वि᳓नम्  
+अ᳓श्वावन्तं सहस्रि᳓णम्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -698,10 +698,10 @@ O gebt, Indra-Brihaspati, den Reichthum uns, der hundertfach, An Rossen reich is
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-बृ꣡हस्प꣡तिर् नः प꣡रि पातु पश्चा꣡द्  
-उतो꣡त्तरस्माद् अ꣡धराद् अघायोः꣡  
-इ꣡न्द्रः पुर꣡स्ताद् उत꣡ मध्यतो꣡ नः  
-स꣡खा स꣡खिभ्यो व꣡रिवः कृणोतु
+बृ᳓हस्प᳓तिर् नः प᳓रि पातु पश्चा᳓द्  
+उतो᳓त्तरस्माद् अ᳓धराद् अघायोः᳓  
+इ᳓न्द्रः पुर᳓स्ताद् उत᳓ मध्यतो᳓ नः  
+स᳓खा स᳓खिभ्यो व᳓रिवः कृणोतु
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -998,10 +998,10 @@ Brihaspati beschütze uns von Westen von Norden und von Süden vor dem Frevler, 
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-वि꣡ ते वि꣡ष्वग् वा꣡तजूतासो अग्ने  
-भा꣡मासः शुचे शु꣡चयश् चरन्ति  
-तुविम्रक्षा꣡सो दिविया꣡ न꣡वग्वा  
-व꣡ना वनन्ति धृषता꣡ रुज꣡न्तः
+वि᳓ ते वि᳓ष्वग् वा᳓तजूतासो अग्ने  
+भा᳓मासः शुचे शु᳓चयश् चरन्ति  
+तुविम्रक्षा᳓सो दिविया᳓ न᳓वग्वा  
+व᳓ना वनन्ति धृषता᳓ रुज᳓न्तः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -1644,10 +1644,10 @@ The goddess, easy to invoke, grant us protection [4].
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-राका꣡म् अहं꣡ सुह꣡वां सुष्टुती꣡ हुवे  
-शृणो꣡तु नः सुभ꣡गा बो꣡धतु त्म꣡ना  
-सी꣡व्यत्व् अ꣡पः सूचिया꣡छिद्यमानया  
-द꣡दातु वीरं꣡ शत꣡दायम् उक्थि꣡यम्
+राका᳓म् अहं᳓ सुह᳓वां सुष्टुती᳓ हुवे  
+शृणो᳓तु नः सुभ᳓गा बो᳓धतु त्म᳓ना  
+सी᳓व्यत्व् अ᳓पः सूचिया᳓छिद्यमानया  
+द᳓दातु वीरं᳓ शत᳓दायम् उक्थि᳓यम्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -1979,10 +1979,10 @@ Die gern erhört, die Rākā ruf' ich mit Gesang, es höre uns die reiche und be
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-या꣡स् ते राके सुमत꣡यः सुपे꣡शसो  
-या꣡भिर् द꣡दासि दाशु꣡षे व꣡सूनि  
-ता꣡भिर् नो अद्य꣡ सुम꣡ना उपा꣡गहि  
-सहस्रपोषं꣡ सुभगे र꣡राणा
+या᳓स् ते राके सुमत᳓यः सुपे᳓शसो  
+या᳓भिर् द᳓दासि दाशु᳓षे व᳓सूनि  
+ता᳓भिर् नो अद्य᳓ सुम᳓ना उपा᳓गहि  
+सहस्रपोषं᳓ सुभगे र᳓राणा
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -2290,10 +2290,10 @@ Mit reichen Gaben, die dir, Rākā, eigen sind, durch die du Güter dem Verehren
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-सि꣡नीवालि पृ꣡थुष्टुके  
-या꣡ देवा꣡नाम् अ꣡सि स्व꣡सा  
-जुष꣡स्व हव्य꣡म् आ꣡हुतम्  
-प्रजां꣡ देवि दिदिड्ढि नः
+सि᳓नीवालि पृ᳓थुष्टुके  
+या᳓ देवा᳓नाम् अ᳓सि स्व᳓सा  
+जुष᳓स्व हव्य᳓म् आ᳓हुतम्  
+प्रजां᳓ देवि दिदिड्ढि नः
 </details>
 <details><summary>Vedaweb annotation</summary>
 

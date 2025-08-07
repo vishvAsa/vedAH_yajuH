@@ -573,9 +573,9 @@ title = "+०२ उदकशान्तिः (पूर्णपाठः)"
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्रं वो विश्व꣡तस् प꣡रि  
-ह꣡वामहे ज꣡नेभियः  
-अस्मा꣡कम् अस्तु के꣡वलः
+इ᳓न्द्रं वो विश्व᳓तस् प᳓रि  
+ह᳓वामहे ज᳓नेभियः  
+अस्मा᳓कम् अस्तु के᳓वलः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -804,10 +804,10 @@ Wir rufen euch den Indra her von allen Orten, jedem Volk; Uns sei er eigen, kein
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्रं न꣡रो नेम꣡धिता हवन्ते  
-य꣡त् पा꣡रिया युन꣡जते धि꣡यस् ताः꣡  
-शू꣡रो नृ꣡षाता श꣡वसश् चकान꣡  
-आ꣡ गो꣡मति व्रजे꣡ भजा तुवं꣡ नः
+इ᳓न्द्रं न᳓रो नेम᳓धिता हवन्ते  
+य᳓त् पा᳓रिया युन᳓जते धि᳓यस् ताः᳓  
+शू᳓रो नृ᳓षाता श᳓वसश् चकान᳓  
+आ᳓ गो᳓मति व्रजे᳓ भजा तुवं᳓ नः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -1165,9 +1165,9 @@ Den Indra rufen im Gefecht die Männer, dass er erfolgreich diese Bitten mache; 
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-इन्द्रिया꣡णि शतक्रतो  
-या꣡ ते ज꣡नेषु पञ्च꣡सु  
-इ꣡न्द्र ता꣡नि त आ꣡ वृणे
+इन्द्रिया᳓णि शतक्रतो  
+या᳓ ते ज᳓नेषु पञ्च᳓सु  
+इ᳓न्द्र ता᳓नि त आ᳓ वृणे
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -1412,10 +1412,10 @@ Die Indrakräfte wünsch' ich her, die, Indra, hundertwirkender, Du bei den fün
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡नु ते दायि मह꣡ इन्द्रिया꣡य  
-सत्रा꣡ ते वि꣡श्वम् अ꣡नु वृत्रह꣡त्ये  
-अ꣡नु क्षत्र꣡म् अ꣡नु स꣡हो यजत्रा꣡  
-इ꣡न्द्र देवे꣡भिर् अ꣡नु ते नृष꣡ह्ये
+अ᳓नु ते दायि मह᳓ इन्द्रिया᳓य  
+सत्रा᳓ ते वि᳓श्वम् अ᳓नु वृत्रह᳓त्ये  
+अ᳓नु क्षत्र᳓म् अ᳓नु स᳓हो यजत्रा᳓  
+इ᳓न्द्र देवे᳓भिर् अ᳓नु ते नृष᳓ह्ये
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -1824,10 +1824,10 @@ The glowing pot is the guest of Indra.
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-आमा꣡सु पक्व꣡म् अइ꣡रय  
-आ꣡ सू꣡र्यं रोहयो दिवि꣡  
-घर्मं꣡ न꣡ सा꣡मन् तपता सुवृक्ति꣡भिर्  
-जु꣡ष्टं गि꣡र्वणसे बृह꣡त्
+आमा᳓सु पक्व᳓म् अइ᳓रय  
+आ᳓ सू᳓र्यं रोहयो दिवि᳓  
+घर्मं᳓ न᳓ सा᳓मन् तपता सुवृक्ति᳓भिर्  
+जु᳓ष्टं गि᳓र्वणसे बृह᳓त्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -2119,9 +2119,9 @@ In rohen schufst du gare Milch, erhobst die Sonn' am Himmelsraum, Entflammt wie 
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्रम् इ꣡द् गाथि꣡नो बृह꣡द्  
-इ꣡न्द्रम् अर्के꣡भिर् अर्कि꣡णः  
-इ꣡न्द्रं वा꣡णीर् अनूषत
+इ᳓न्द्रम् इ᳓द् गाथि᳓नो बृह᳓द्  
+इ᳓न्द्रम् अर्के᳓भिर् अर्कि᳓णः  
+इ᳓न्द्रं वा᳓णीर् अनूषत
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -2396,10 +2396,10 @@ Den Indra preist der Sänger Schar, mit Preisgesang die preisenden, Den Indra la
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-गा꣡यन्ति त्वा गायत्रि꣡णो  
-अ꣡र्चन्ति अर्क꣡म् अर्कि꣡णः  
-ब्रह्मा꣡णस् त्वा शतक्रत  
-उ꣡द् वंश꣡म् इव येमिरे
+गा᳓यन्ति त्वा गायत्रि᳓णो  
+अ᳓र्चन्ति अर्क᳓म् अर्कि᳓णः  
+ब्रह्मा᳓णस् त्वा शतक्रत  
+उ᳓द् वंश᳓म् इव येमिरे
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -2779,10 +2779,10 @@ May the desires of the sacrificer be fulfilled.
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-विवे꣡ष य꣡न् मा धिष꣡णा जजा꣡न  
-स्त꣡वै पुरा꣡ पा꣡रियाद् इ꣡न्द्रम् अ꣡ह्नः  
-अं꣡हसो य꣡त्र पीप꣡रद् य꣡था नो  
-नावे꣡व या꣡न्तम् उभ꣡ये हवन्ते
+विवे᳓ष य᳓न् मा धिष᳓णा जजा᳓न  
+स्त᳓वै पुरा᳓ पा᳓रियाद् इ᳓न्द्रम् अ᳓ह्नः  
+अं᳓हसो य᳓त्र पीप᳓रद् य᳓था नो  
+नावे᳓व या᳓न्तम् उभ᳓ये हवन्ते
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -3231,10 +3231,10 @@ Who is hostile to us.
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्र क्षत्र꣡म् · अभि꣡ वाम꣡म् ओ꣡जो  
-अ꣡जायथा वृषभ चर्षणीना꣡म्  
-अ꣡पानुदो ज꣡नम् अमित्रय꣡न्तम्  
-उरुं꣡ देवे꣡भ्यो अकृणोर् उलोक꣡म्†
+इ᳓न्द्र क्षत्र᳓म् · अभि᳓ वाम᳓म् ओ᳓जो  
+अ᳓जायथा वृषभ चर्षणीना᳓म्  
+अ᳓पानुदो ज᳓नम् अमित्रय᳓न्तम्  
+उरुं᳓ देवे᳓भ्यो अकृणोर् उलोक᳓म्†
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -3692,10 +3692,10 @@ May we be dear to you among the princes.
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡नवस् ते र꣡थम् अ꣡श्वाय तक्षन्  
-त्व꣡ष्टा व꣡ज्रम् पुरुहूत द्युम꣡न्तम्  
-ब्रह्मा꣡ण इ꣡न्द्रम् मह꣡यन्तो अर्कइ꣡र्  
-अ꣡वर्धयन्न् अ꣡हये ह꣡न्तवा꣡ उ
+अ᳓नवस् ते र᳓थम् अ᳓श्वाय तक्षन्  
+त्व᳓ष्टा व᳓ज्रम् पुरुहूत द्युम᳓न्तम्  
+ब्रह्मा᳓ण इ᳓न्द्रम् मह᳓यन्तो अर्कइ᳓र्  
+अ᳓वर्धयन्न् अ᳓हये ह᳓न्तवा᳓ उ
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -4023,10 +4023,10 @@ Die Menschen machten für dein Ross den Wagen Tvaschtar den lichten Blitz, o vie
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-वृ꣡ष्णे य꣡त् ते वृ꣡षणो अर्क꣡म् अ꣡र्चान्  
-इ꣡न्द्र ग्रा꣡वाणो अ꣡दितिः सजो꣡षाः  
-अनश्वा꣡सो ये꣡ पव꣡यो अरथा꣡  
-इ꣡न्द्रेषिता अभ्य् अ꣡वर्तन्त द꣡स्यून्
+वृ᳓ष्णे य᳓त् ते वृ᳓षणो अर्क᳓म् अ᳓र्चान्  
+इ᳓न्द्र ग्रा᳓वाणो अ᳓दितिः सजो᳓षाः  
+अनश्वा᳓सो ये᳓ पव᳓यो अरथा᳓  
+इ᳓न्द्रेषिता अभ्य् अ᳓वर्तन्त द᳓स्यून्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -5431,10 +5431,10 @@ Savitr, Varuna, Brhaspati, the worshipful, the slayer of Raksases, hail!
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-आशुः꣡ शि꣡शानो वृषभो꣡ न꣡ भीमो꣡  
-घनाघनः꣡ क्षो꣡भणश् चर्षणीना꣡म्  
-संक्र꣡न्दनो ऽनिमिष꣡ एकवीरः꣡  
-शतं꣡ से꣡ना अजयत् साक꣡म् इ꣡न्द्रः
+आशुः᳓ शि᳓शानो वृषभो᳓ न᳓ भीमो᳓  
+घनाघनः᳓ क्षो᳓भणश् चर्षणीना᳓म्  
+संक्र᳓न्दनो ऽनिमिष᳓ एकवीरः᳓  
+शतं᳓ से᳓ना अजयत् साक᳓म् इ᳓न्द्रः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -5714,10 +5714,10 @@ Der schnelle, der gleich wildem Stier erregt ist, der starke Kämpfer, der die M
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-संक्र꣡न्दनेनानिमिषे꣡ण जिष्णु꣡ना  
-युत्कारे꣡ण दुश्च्यवने꣡न धृष्णु꣡ना  
-त꣡द् इ꣡न्द्रेण जयत त꣡त् सहध्वं  
-यु꣡धो नर इ꣡षुहस्तेन वृ꣡ष्णा
+संक्र᳓न्दनेनानिमिषे᳓ण जिष्णु᳓ना  
+युत्कारे᳓ण दुश्च्यवने᳓न धृष्णु᳓ना  
+त᳓द् इ᳓न्द्रेण जयत त᳓त् सहध्वं  
+यु᳓धो नर इ᳓षुहस्तेन वृ᳓ष्णा
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -5978,10 +5978,10 @@ Mit ihm, dem Donnrer, der nicht schlummernd Sieg gewinnt, der Schlacht erregt vo
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-स꣡ इ꣡षुहस्तैः स꣡ निषङ्गि꣡भिर् वशी꣡  
-सं꣡स्रष्टा स꣡ यु꣡ध इ꣡न्द्रो गणे꣡न  
-संसृष्टजि꣡त् सोमपा꣡ बाहुशर्धी꣡  
-उग्र꣡धन्वा प्र꣡तिहिताभिर् अ꣡स्ता
+स᳓ इ᳓षुहस्तैः स᳓ निषङ्गि᳓भिर् वशी᳓  
+सं᳓स्रष्टा स᳓ यु᳓ध इ᳓न्द्रो गणे᳓न  
+संसृष्टजि᳓त् सोमपा᳓ बाहुशर्धी᳓  
+उग्र᳓धन्वा प्र᳓तिहिताभिर् अ᳓स्ता
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -6270,10 +6270,10 @@ Mit seiner Schar, die Pfeile trägt und Köcher, theilt seine Kämpfe der gewalt
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-बृ꣡हस्पते प꣡रि दीया र꣡थेन  
-रक्षोहा꣡मि꣡त्राँ अपबा꣡धमानः  
-प्रभञ्ज꣡न् से꣡नाः प्रमृणो꣡ युधा꣡ ज꣡यन्न्  
-अस्मा꣡कम् एधि अविता꣡ र꣡थानाम्
+बृ᳓हस्पते प᳓रि दीया र᳓थेन  
+रक्षोहा᳓मि᳓त्राँ अपबा᳓धमानः  
+प्रभञ्ज᳓न् से᳓नाः प्रमृणो᳓ युधा᳓ ज᳓यन्न्  
+अस्मा᳓कम् एधि अविता᳓ र᳓थानाम्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -6540,10 +6540,10 @@ Brihaspati, flieg' her mit deinem Wagen, Gespenster tödtend, jeden Feind verjag
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-गोत्रभि꣡दं गोवि꣡दं व꣡ज्रबाहुं  
-ज꣡यन्तम् अ꣡ज्म प्रमृण꣡न्तम् ओ꣡जसा  
-इमं꣡ सजाता अ꣡नु वीरयध्वम्  
-इ꣡न्द्रं सखायो अ꣡नु सं꣡ रभध्वम्
+गोत्रभि᳓दं गोवि᳓दं व᳓ज्रबाहुं  
+ज᳓यन्तम् अ᳓ज्म प्रमृण᳓न्तम् ओ᳓जसा  
+इमं᳓ सजाता अ᳓नु वीरयध्वम्  
+इ᳓न्द्रं सखायो अ᳓नु सं᳓ रभध्वम्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -6829,10 +6829,10 @@ Der blitzbewehrt den Stall erschliesst, die Kühe erringt und Bahn sich bricht m
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-बलविज्ञाय꣡ स्थ꣡विरः प्र꣡वीरः  
-स꣡हस्वान् वाजी꣡ स꣡हमान उग्रः꣡  
-अभि꣡वीरो अभि꣡सत्वा सहोजा꣡  
-जइ꣡त्रम् इन्द्र र꣡थम् आ꣡ तिष्ठ गोवि꣡त्
+बलविज्ञाय᳓ स्थ᳓विरः प्र᳓वीरः  
+स᳓हस्वान् वाजी᳓ स᳓हमान उग्रः᳓  
+अभि᳓वीरो अभि᳓सत्वा सहोजा᳓  
+जइ᳓त्रम् इन्द्र र᳓थम् आ᳓ तिष्ठ गोवि᳓त्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -7128,10 +7128,10 @@ Durch Stärke kenntlich, fest, der Helden kühnster, siegreich, gewaltig, stark 
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-अभि꣡ गोत्रा꣡णि स꣡हसा गा꣡हमानो  
-अदयो꣡ वीरः꣡ शत꣡मन्युर् इ꣡न्द्रः  
-दुश्च्यवनः꣡ पृतनाषा꣡ळ् अयुध्यो꣡  
-अस्मा꣡कं से꣡ना अवतु प्र꣡ युत्सु꣡
+अभि᳓ गोत्रा᳓णि स᳓हसा गा᳓हमानो  
+अदयो᳓ वीरः᳓ शत᳓मन्युर् इ᳓न्द्रः  
+दुश्च्यवनः᳓ पृतनाषा᳓ळ् अयुध्यो᳓  
+अस्मा᳓कं से᳓ना अवतु प्र᳓ युत्सु᳓
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -7392,10 +7392,10 @@ Der mit Gewalt sich in die Ställe eintaucht, Held Indra ohne Mitleid vielfach z
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्र आसां नयिता꣡+ बृ꣡हस्प꣡तिर्  
-द꣡क्षिणा यज्ञः꣡ पुर꣡ एतु सो꣡मः  
-देवसेना꣡नाम् अभिभञ्जतीनां꣡  
-ज꣡यन्तीनाम् मरु꣡तो यन्तु अ꣡ग्रम्
+इ᳓न्द्र आसां नयिता᳓+ बृ᳓हस्प᳓तिर्  
+द᳓क्षिणा यज्ञः᳓ पुर᳓ एतु सो᳓मः  
+देवसेना᳓नाम् अभिभञ्जतीनां᳓  
+ज᳓यन्तीनाम् मरु᳓तो यन्तु अ᳓ग्रम्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -7656,10 +7656,10 @@ Ihr Führer sei uns Indra und Brihaspati, vor dringe Opfer, Opferlohn und Soma, 
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्रस्य वृ꣡ष्णो व꣡रुणस्य रा꣡ज्ञ  
-आदित्या꣡नाम् मरु꣡तां श꣡र्ध उग्र꣡म्  
-महा꣡मनसाम् भुवनच्यवा꣡नां  
-घो꣡षो देवा꣡नां ज꣡यताम् उ꣡द् अस्थात्
+इ᳓न्द्रस्य वृ᳓ष्णो व᳓रुणस्य रा᳓ज्ञ  
+आदित्या᳓नाम् मरु᳓तां श᳓र्ध उग्र᳓म्  
+महा᳓मनसाम् भुवनच्यवा᳓नां  
+घो᳓षो देवा᳓नां ज᳓यताम् उ᳓द् अस्थात्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -7913,10 +7913,10 @@ Des Königs Varuna, des Helden Indra, der Maruts, der Aditja's Schar ist mächti
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-अस्मा꣡कम् इ꣡न्द्रः स꣡मृतेषु ध्वजे꣡षु  
-अस्मा꣡कं या꣡ इ꣡षवस् ता꣡ जयन्तु  
-अस्मा꣡कं वीरा꣡ उ꣡त्तरे भवन्तु  
-अस्माँ꣡ उ देवा अवता ह꣡वेषु
+अस्मा᳓कम् इ᳓न्द्रः स᳓मृतेषु ध्वजे᳓षु  
+अस्मा᳓कं या᳓ इ᳓षवस् ता᳓ जयन्तु  
+अस्मा᳓कं वीरा᳓ उ᳓त्तरे भवन्तु  
+अस्माँ᳓ उ देवा अवता ह᳓वेषु
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -8201,10 +8201,10 @@ Es schirme unsre Kämpf' und Fahnen Indra; es seien unsre Pfeile, die da siegen,
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-उ꣡द् धर्षय मघवन्न् आ꣡युधानि  
-उ꣡त् स꣡त्वनाम् मामका꣡नाम् म꣡नांसि  
-उ꣡द् वृत्रहन् वाजि꣡नां वा꣡जिनानि  
-उ꣡द् र꣡थानां ज꣡यतां यन्तु घो꣡षाः
+उ᳓द् धर्षय मघवन्न् आ᳓युधानि  
+उ᳓त् स᳓त्वनाम् मामका᳓नाम् म᳓नांसि  
+उ᳓द् वृत्रहन् वाजि᳓नां वा᳓जिनानि  
+उ᳓द् र᳓थानां ज᳓यतां यन्तु घो᳓षाः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -8918,10 +8918,10 @@ Empor, o mächt'ger, richte unsre Waffen, empor die Geister meiner tapfern Helde
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-म꣡माग्ने व꣡र्चो विहवे꣡षु अस्तु  
-वयं꣡ त्वे꣡न्धानास् तनु꣡वम् पुषेम  
-म꣡ह्यं नमन्ताम् प्रदि꣡शश् च꣡तस्रस्  
-त्व꣡या꣡ध्यक्षेण पृ꣡तना जयेम
+म᳓माग्ने व᳓र्चो विहवे᳓षु अस्तु  
+वयं᳓ त्वे᳓न्धानास् तनु᳓वम् पुषेम  
+म᳓ह्यं नमन्ताम् प्रदि᳓शश् च᳓तस्रस्  
+त्व᳓या᳓ध्यक्षेण पृ᳓तना जयेम
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -9283,10 +9283,10 @@ Glück werde mir, wenn ich dich, Agni, rufe, Heil sei den Leibern, wenn wir dich
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-दे꣡वीः षळ् उर्वीर् उरु꣡ नः कृणोत  
-वि꣡श्वे देवास इह꣡ वीरयध्वम्  
-मा꣡ हास्महि प्रज꣡या मा꣡ तनू꣡भिर्  
-मा꣡ रधाम द्विषते꣡ सोम राजन्
+दे᳓वीः षळ् उर्वीर् उरु᳓ नः कृणोत  
+वि᳓श्वे देवास इह᳓ वीरयध्वम्  
+मा᳓ हास्महि प्रज᳓या मा᳓ तनू᳓भिर्  
+मा᳓ रधाम द्विषते᳓ सोम राजन्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -9641,10 +9641,10 @@ Ihr weiten sechs Göttinnen schaffet Raum uns, ihr Götter alle, zeigt euch hier
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-उरुव्य꣡चा नो महिषः꣡ श꣡र्म यंसद्  
-अस्मि꣡न् ह꣡वे पुरुहूतः꣡ पुरुक्षुः꣡  
-स꣡ नः प्रजा꣡यै हरिअश्व मॄळय+  
-इ꣡न्द्र मा꣡ नो रीरिषो मा꣡ प꣡रा दाः
+उरुव्य᳓चा नो महिषः᳓ श᳓र्म यंसद्  
+अस्मि᳓न् ह᳓वे पुरुहूतः᳓ पुरुक्षुः᳓  
+स᳓ नः प्रजा᳓यै हरिअश्व मॄळय+  
+इ᳓न्द्र मा᳓ नो रीरिषो मा᳓ प᳓रा दाः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -9972,10 +9972,10 @@ Der umfangsreiche Stier verleihe Schutz uns, bei diesem Ruf der vielgerufne Näh
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-ये꣡ नः सप꣡त्ना अ꣡प ते꣡ भवन्तु  
-इन्द्राग्नि꣡भ्याम् अ꣡व बाधामहे ता꣡न्  
-व꣡सवो रुद्रा꣡ आदित्या꣡ उपरिस्पृ꣡शम् मा  
-उग्रं꣡ चे꣡त्तारम् अधिराज꣡म् अक्रन्
+ये᳓ नः सप᳓त्ना अ᳓प ते᳓ भवन्तु  
+इन्द्राग्नि᳓भ्याम् अ᳓व बाधामहे ता᳓न्  
+व᳓सवो रुद्रा᳓ आदित्या᳓ उपरिस्पृ᳓शम् मा  
+उग्रं᳓ चे᳓त्तारम् अधिराज᳓म् अक्रन्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -10909,10 +10909,10 @@ Agni through the hymn which brings (him).
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-पृष्टो꣡ दिवि꣡ पृष्टो꣡ अग्निः꣡ पृथिव्या꣡म्  
-पृष्टो꣡ वि꣡श्वा ओ꣡षधीर् आ꣡ विवेश  
-वैश्वानरः꣡ स꣡हसा पृष्टो꣡ अग्निः꣡  
-स꣡ नो दि꣡वा स꣡ रिषः꣡ पातु न꣡क्तम्
+पृष्टो᳓ दिवि᳓ पृष्टो᳓ अग्निः᳓ पृथिव्या᳓म्  
+पृष्टो᳓ वि᳓श्वा ओ᳓षधीर् आ᳓ विवेश  
+वैश्वानरः᳓ स᳓हसा पृष्टो᳓ अग्निः᳓  
+स᳓ नो दि᳓वा स᳓ रिषः᳓ पातु न᳓क्तम्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -11789,9 +11789,9 @@ him whom we hate and him who hateth us, I place him within your jaws.
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्रो दधीचो꣡ अस्थ꣡भिर्  
-वृत्रा꣡णि अ꣡प्रतिष्कुतः  
-जघा꣡न नवती꣡र् न꣡व
+इ᳓न्द्रो दधीचो᳓ अस्थ᳓भिर्  
+वृत्रा᳓णि अ᳓प्रतिष्कुतः  
+जघा᳓न नवती᳓र् न᳓व
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -12009,9 +12009,9 @@ Mit Dadhiank's Gebeinen schlug, Indra, dem niemand widersteht, Die neunundneunzi
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-इछ꣡न्न् अ꣡श्वस्य य꣡च् छि꣡रः  
-प꣡र्वतेषु अ꣡पश्रितम्  
-त꣡द् विदच् छर्यणा꣡वति
+इछ᳓न्न् अ᳓श्वस्य य᳓च् छि᳓रः  
+प᳓र्वतेषु अ᳓पश्रितम्  
+त᳓द् विदच् छर्यणा᳓वति
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -12229,9 +12229,9 @@ Verlangend nach des Rosses Haupt, das in den Bergen sich versteckt, Fand er's am
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡त्रा꣡ह गो꣡र् अमन्वत  
-ना꣡म त्व꣡ष्टुर् अपीचि꣡यम्  
-इत्था꣡ चन्द्र꣡मसो गृहे꣡
+अ᳓त्रा᳓ह गो᳓र् अमन्वत  
+ना᳓म त्व᳓ष्टुर् अपीचि᳓यम्  
+इत्था᳓ चन्द्र᳓मसो गृहे᳓
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -12518,9 +12518,9 @@ Dort fanden sie das Wesen auf des Stiers, den Tvaschtar hielt versteckt. Dort en
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्रम् इ꣡द् गाथि꣡नो बृह꣡द्  
-इ꣡न्द्रम् अर्के꣡भिर् अर्कि꣡णः  
-इ꣡न्द्रं वा꣡णीर् अनूषत
+इ᳓न्द्रम् इ᳓द् गाथि᳓नो बृह᳓द्  
+इ᳓न्द्रम् अर्के᳓भिर् अर्कि᳓णः  
+इ᳓न्द्रं वा᳓णीर् अनूषत
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -12794,9 +12794,9 @@ Den Indra preist der Sänger Schar, mit Preisgesang die preisenden, Den Indra la
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्र इ꣡द् ध꣡रियोः स꣡चा  
-स꣡म्मिश्ल आ꣡ वचोयु꣡जा  
-इ꣡न्द्रो वज्री꣡ हिरण्य꣡यः
+इ᳓न्द्र इ᳓द् ध᳓रियोः स᳓चा  
+स᳓म्मिश्ल आ᳓ वचोयु᳓जा  
+इ᳓न्द्रो वज्री᳓ हिरण्य᳓यः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -13039,9 +13039,9 @@ Indra mit seiner Füchse Paar, dem Wagen, der aufs Wort sich schirrt, der goldne
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्रो दीर्घा꣡य च꣡क्षस  
-आ꣡ सू꣡र्यं रोहयद् दिवि꣡  
-वि꣡ गो꣡भिर् अ꣡द्रिम् ऐरयत्
+इ᳓न्द्रो दीर्घा᳓य च᳓क्षस  
+आ᳓ सू᳓र्यं रोहयद् दिवि᳓  
+वि᳓ गो᳓भिर् अ᳓द्रिम् ऐरयत्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -13285,9 +13285,9 @@ Die Sonne liess er, weit zu schaun, am Himmel steigen, er zerschlug Den Fels und
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्र वा꣡जेषु नो अव  
-सह꣡स्रप्रधनेषु च  
-उग्र꣡ उग्रा꣡भिर् ऊति꣡भिः
+इ᳓न्द्र वा᳓जेषु नो अव  
+सह᳓स्रप्रधनेषु च  
+उग्र᳓ उग्रा᳓भिर् ऊति᳓भिः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -13507,9 +13507,9 @@ Hilf in den Schlachten, Indra, uns, im Kampf, der tausend Schätze bringt, Mit m
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-त꣡म् इ꣡न्द्रं वाजयामसि  
-महे꣡ वृत्रा꣡य ह꣡न्तवे  
-स꣡ वृ꣡षा वृषभो꣡ भुवत्
+त᳓म् इ᳓न्द्रं वाजयामसि  
+महे᳓ वृत्रा᳓य ह᳓न्तवे  
+स᳓ वृ᳓षा वृषभो᳓ भुवत्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -15133,10 +15133,10 @@ Ihm, diesem Indra, geben wir zum Mord des grossen Vritra Kraft; Der Held erweise
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-देवीं꣡ वा꣡चम् अजनयन्त देवा꣡स्  
-तां꣡ विश्व꣡रूपाः पश꣡वो वदन्ति  
-सा꣡ नो मन्द्रा꣡ इ꣡षम् ऊ꣡र्जं दु꣡हाना  
-धेनु꣡र् वा꣡ग् अस्मा꣡न् उ꣡प सु꣡ष्टुतइ꣡तु
+देवीं᳓ वा᳓चम् अजनयन्त देवा᳓स्  
+तां᳓ विश्व᳓रूपाः पश᳓वो वदन्ति  
+सा᳓ नो मन्द्रा᳓ इ᳓षम् ऊ᳓र्जं दु᳓हाना  
+धेनु᳓र् वा᳓ग् अस्मा᳓न् उ᳓प सु᳓ष्टुतइ᳓तु
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -15388,7 +15388,7 @@ The thunder entering into all beings,becomes the speaker of moral truth, eṣā 
 <details><summary>Jamison Brereton</summary>
 
 The gods begat goddess Speech. The beasts of all forms speak her. Gladdening, milking out refreshment and nourishment for us, let  Speech, the milk-cow, come well praised to us.
-꣡</details>
+</details>
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/100/10-11.md">
 <details open><summary><h20>10-11 ...{Loading}...</h20></summary>
@@ -15450,10 +15450,10 @@ Die Göttin Vāk haben die Götter erzeugt, die vielgestaltigen Thieren reden si
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-य꣡द् वा꣡ग् व꣡दन्ति अविचेतना꣡नि  
-रा꣡ष्ट्री देवा꣡नां निषसा꣡द मन्द्रा꣡  
-च꣡तस्र ऊ꣡र्जं दुदुहे प꣡यांसि  
-कु꣡व स्विद् अस्याः परमं꣡ जगाम
+य᳓द् वा᳓ग् व᳓दन्ति अविचेतना᳓नि  
+रा᳓ष्ट्री देवा᳓नां निषसा᳓द मन्द्रा᳓  
+च᳓तस्र ऊ᳓र्जं दुदुहे प᳓यांसि  
+कु᳓व स्विद् अस्याः परमं᳓ जगाम
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -15853,10 +15853,10 @@ Wenn Vāk [die Stimme], die Königin der Götter, unverständliche Worte [den Do
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-चत्वा꣡रि वा꣡क् प꣡रिमिता पदा꣡नि  
-ता꣡नि विदुर् ब्राह्मणा꣡ ये꣡ मनीषि꣡णः  
-गु꣡हा त्री꣡णि नि꣡हिता ने꣡ङ्गयन्ति  
-तुरी꣡यं वाचो꣡ मनुष्या᳡ वदन्ति
+चत्वा᳓रि वा᳓क् प᳓रिमिता पदा᳓नि  
+ता᳓नि विदुर् ब्राह्मणा᳓ ये᳓ मनीषि᳓णः  
+गु᳓हा त्री᳓णि नि᳓हिता ने᳓ङ्गयन्ति  
+तुरी᳓यं वाचो᳓ मनुष्या᳡ वदन्ति
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -16184,10 +16184,10 @@ Die Rede hat vier abgegrenzte Gattungen; die sind bekannt den Brahmanen, welche 
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-श्रद्ध꣡याग्निः꣡ स꣡म् इध्यते  
-श्रद्ध꣡या हूयते हविः꣡  
-श्रद्धा꣡म् भ꣡गस्य मूर्ध꣡नि  
-व꣡चसा꣡ वेदयामसि
+श्रद्ध᳓याग्निः᳓ स᳓म् इध्यते  
+श्रद्ध᳓या हूयते हविः᳓  
+श्रद्धा᳓म् भ᳓गस्य मूर्ध᳓नि  
+व᳓चसा᳓ वेदयामसि
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -16419,10 +16419,10 @@ Durch Glauben wird das Feu'r entflammt, durch Glauben Opferguss geweiht; Auch au
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-प्रियं꣡ श्रद्धे द꣡दतः  
-प्रियं꣡ श्रद्धे दि꣡दासतः  
-प्रिय꣡म् भोजे꣡षु य꣡ज्वसु  
-इद꣡म् म उदितं꣡ कृधि
+प्रियं᳓ श्रद्धे द᳓दतः  
+प्रियं᳓ श्रद्धे दि᳓दासतः  
+प्रिय᳓म् भोजे᳓षु य᳓ज्वसु  
+इद᳓म् म उदितं᳓ कृधि
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -16661,10 +16661,10 @@ O Glaube, lieb mach dieses Wort des Spenders, der noch spenden will, Mach lieb e
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-य꣡था देवा꣡ अ꣡सुरेषु  
-श्रद्धा꣡म् उग्रे꣡षु चक्रिरे꣡  
-एव꣡म् भोजे꣡षु य꣡ज्वसु  
-अस्मा꣡कम् उदितं꣡ कृधि
+य᳓था देवा᳓ अ᳓सुरेषु  
+श्रद्धा᳓म् उग्रे᳓षु चक्रिरे᳓  
+एव᳓म् भोजे᳓षु य᳓ज्वसु  
+अस्मा᳓कम् उदितं᳓ कृधि
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -16897,10 +16897,10 @@ Wie Götter der Asurenschar, der starken, schenkten ihr Vertraun, So mache du au
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-श्रद्धां꣡ देवा꣡ य꣡जमाना  
-वायु꣡गोपा उ꣡पासते  
-श्रद्धां꣡ हृदय्य᳡या꣡कूत्या  
-श्रद्ध꣡या विन्दते व꣡सु
+श्रद्धां᳓ देवा᳓ य᳓जमाना  
+वायु᳓गोपा उ᳓पासते  
+श्रद्धां᳓ हृदय्य᳡या᳓कूत्या  
+श्रद्ध᳓या विन्दते व᳓सु
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -17125,10 +17125,10 @@ Den Glauben ehren andachtsvoll die Götter, die der Wind beschirmt; Der Glaube w
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-श्रद्धा꣡म् प्रात꣡र् हवामहे  
-श्रद्धा꣡म् मध्यं꣡दिनम् प꣡रि  
-श्रद्धां꣡ सू꣡र्यस्य निम्रु꣡चि  
-श्र꣡द्धे श्र꣡द् धापयेह꣡ नः
+श्रद्धा᳓म् प्रात᳓र् हवामहे  
+श्रद्धा᳓म् मध्यं᳓दिनम् प᳓रि  
+श्रद्धां᳓ सू᳓र्यस्य निम्रु᳓चि  
+श्र᳓द्धे श्र᳓द् धापयेह᳓ नः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -17625,10 +17625,10 @@ Den Glauben rufen Morgens wir, den Glauben in der Mittagszeit Den Glauben, wenn 
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡ गा꣡वो अग्मन्न् उत꣡ भद्र꣡म् अक्रन्  
-सी꣡दन्तु गोष्ठे꣡ रण꣡यन्तु अस्मे꣡  
-प्रजा꣡वतीः पुरुरू꣡पा इह꣡ स्युर्  
-इ꣡न्द्राय पूर्वी꣡र् उष꣡सो दु꣡हानाः
+आ᳓ गा᳓वो अग्मन्न् उत᳓ भद्र᳓म् अक्रन्  
+सी᳓दन्तु गोष्ठे᳓ रण᳓यन्तु अस्मे᳓  
+प्रजा᳓वतीः पुरुरू᳓पा इह᳓ स्युर्  
+इ᳓न्द्राय पूर्वी᳓र् उष᳓सो दु᳓हानाः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -17950,10 +17950,10 @@ Gekommen sind die Kühe, Holdes wirkend, sie mögen ruhn im Stall, bei uns sich 
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-इ꣡न्द्रो य꣡ज्वने पृणते꣡ च शिक्षति  
-उ꣡पे꣡द् ददाति न꣡ सुव꣡म् मुषायति  
-भू꣡यो-भूयो रयि꣡म् इ꣡द् अस्य वर्ध꣡यन्न्  
-अ꣡भिन्ने खिल्ये꣡ नि꣡ दधाति देवयु꣡म्
+इ᳓न्द्रो य᳓ज्वने पृणते᳓ च शिक्षति  
+उ᳓पे᳓द् ददाति न᳓ सुव᳓म् मुषायति  
+भू᳓यो-भूयो रयि᳓म् इ᳓द् अस्य वर्ध᳓यन्न्  
+अ᳓भिन्ने खिल्ये᳓ नि᳓ दधाति देवयु᳓म्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -18336,10 +18336,10 @@ Indra schenkt Gut dem opfernden und spendenden; er theilt ihm mit und entzieht i
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-न꣡ ता꣡ अ꣡र्वा रेणु꣡ककाटो अश्नुते  
-न꣡ संस्कृतत्र꣡म् उ꣡प यन्ति ता꣡ अभि꣡  
-उरुगाय꣡म् अ꣡भयं त꣡स्य ता꣡ अ꣡नु  
-गा꣡वो म꣡र्तस्य वि꣡ चरन्ति य꣡ज्वनः
+न᳓ ता᳓ अ᳓र्वा रेणु᳓ककाटो अश्नुते  
+न᳓ संस्कृतत्र᳓म् उ᳓प यन्ति ता᳓ अभि᳓  
+उरुगाय᳓म् अ᳓भयं त᳓स्य ता᳓ अ᳓नु  
+गा᳓वो म᳓र्तस्य वि᳓ चरन्ति य᳓ज्वनः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -18724,10 +18724,10 @@ Nicht holt ein Kriegsross mit bestäubtem Kopf sie ein, noch werden je sie zu de
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-यूयं꣡ गावो मेदयथा कृशं꣡ चिद्  
-अश्रीरं꣡ चित् कृणुथा सुप्र꣡तीकम्  
-भद्रं꣡ गृहं꣡ कृणुथ भद्रवाचो  
-बृह꣡द् वो व꣡य उच्यते सभा꣡सु
+यूयं᳓ गावो मेदयथा कृशं᳓ चिद्  
+अश्रीरं᳓ चित् कृणुथा सुप्र᳓तीकम्  
+भद्रं᳓ गृहं᳓ कृणुथ भद्रवाचो  
+बृह᳓द् वो व᳓य उच्यते सभा᳓सु
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -19249,10 +19249,10 @@ Ihr Kühe machet fett sogar den magern, den hässlichen auch macht ihr schön vo
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-अस्य꣡ श्र꣡वो नदि꣡यः सप्त꣡ बिभ्रति  
-द्या꣡वाक्षा꣡मा पृथिवी꣡ दर्शतं꣡ व꣡पुः  
-अस्मे꣡ सूर्याचन्द्रम꣡साभिच꣡क्षे  
-श्रद्धे꣡ क꣡म् इन्द्र चरतो वितर्तुर꣡म्
+अस्य᳓ श्र᳓वो नदि᳓यः सप्त᳓ बिभ्रति  
+द्या᳓वाक्षा᳓मा पृथिवी᳓ दर्शतं᳓ व᳓पुः  
+अस्मे᳓ सूर्याचन्द्रम᳓साभिच᳓क्षे  
+श्रद्धे᳓ क᳓म् इन्द्र चरतो वितर्तुर᳓म्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -19769,9 +19769,9 @@ Die sieben Ströme wahren schutzreich seinen Ruhm, die weiten Erd' und Himmel se
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡पो हि꣡ ष्ठा꣡ मयोभु꣡वस्  
-ता꣡ न ऊर्जे꣡ दधातन  
-महे꣡ र꣡णाय च꣡क्षसे
+आ᳓पो हि᳓ ष्ठा᳓ मयोभु᳓वस्  
+ता᳓ न ऊर्जे᳓ दधातन  
+महे᳓ र᳓णाय च᳓क्षसे
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -20042,10 +20042,10 @@ But even if thought is the ultimate and primal creative act, the origin of the  
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-ना꣡सद् आसीन् नो꣡ स꣡द् आसीत् तदा꣡नीं  
-ना꣡सीद् र꣡जो नो꣡ वि꣡ओमा परो꣡ य꣡त्  
-कि꣡म् आ꣡वरीवः कु꣡ह क꣡स्य श꣡र्मन्न्  
-अ꣡म्भः कि꣡म् आसीद् ग꣡हनं गभीर꣡म्
+ना᳓सद् आसीन् नो᳓ स᳓द् आसीत् तदा᳓नीं  
+ना᳓सीद् र᳓जो नो᳓ वि᳓ओमा परो᳓ य᳓त्  
+कि᳓म् आ᳓वरीवः कु᳓ह क᳓स्य श᳓र्मन्न्  
+अ᳓म्भः कि᳓म् आसीद् ग᳓हनं गभीर᳓म्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -20421,10 +20421,10 @@ Zu jener Zeit war weder Sein, noch Nichtsein, nicht war der Luftraum, noch der H
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-न꣡ मृत्यु꣡र् आसीद् अमृ꣡तं न꣡ त꣡र्हि  
-न꣡ रा꣡त्रिया अ꣡ह्न आसीत् प्रकेतः꣡  
-आ꣡नीद् अवातं꣡ स्वध꣡या त꣡द् ए꣡कं  
-त꣡स्माद् धान्य꣡न् न꣡ परः꣡ किं꣡ चना꣡स
+न᳓ मृत्यु᳓र् आसीद् अमृ᳓तं न᳓ त᳓र्हि  
+न᳓ रा᳓त्रिया अ᳓ह्न आसीत् प्रकेतः᳓  
+आ᳓नीद् अवातं᳓ स्वध᳓या त᳓द् ए᳓कं  
+त᳓स्माद् धान्य᳓न् न᳓ परः᳓ किं᳓ चना᳓स
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -20783,10 +20783,10 @@ Nicht Tod und nicht Unsterblichkeit war damals, nicht gab's des Tages noch der N
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-त꣡म आसीत् त꣡मसा गूळ्ह꣡म् अ꣡ग्रे  
-अप्रकेतं꣡ सलिलं꣡ स꣡र्वम् आ इद꣡म्  
-तुछ्ये꣡नाभु꣡ अ꣡पिहितं य꣡द् आ꣡सीत्  
-त꣡पसस् त꣡न् महिना꣡जायतइ꣡कम्
+त᳓म आसीत् त᳓मसा गूळ्ह᳓म् अ᳓ग्रे  
+अप्रकेतं᳓ सलिलं᳓ स᳓र्वम् आ इद᳓म्  
+तुछ्ये᳓नाभु᳓ अ᳓पिहितं य᳓द् आ᳓सीत्  
+त᳓पसस् त᳓न् महिना᳓जायतइ᳓कम्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -21117,10 +21117,10 @@ Nur Dunkel war, verhüllt von Dunkel, anfangs und unerkennbar wogte dieses alles
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-का꣡मस् त꣡द् अ꣡ग्रे स꣡म् अवर्तता꣡धि  
-म꣡नसो रे꣡तः प्रथमं꣡ य꣡द् आ꣡सीत्  
-सतो꣡ ब꣡न्धुम् अ꣡सति नि꣡र् अविन्दन्  
-हृदि꣡ प्रती꣡ष्या कव꣡यो मनीषा꣡
+का᳓मस् त᳓द् अ᳓ग्रे स᳓म् अवर्तता᳓धि  
+म᳓नसो रे᳓तः प्रथमं᳓ य᳓द् आ᳓सीत्  
+सतो᳓ ब᳓न्धुम् अ᳓सति नि᳓र् अविन्दन्  
+हृदि᳓ प्रती᳓ष्या कव᳓यो मनीषा᳓
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -21441,10 +21441,10 @@ Da regte sich zuerst in ihm Begierde, als sich des Geistes erster Same zeigte; E
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-तिरश्ची꣡नो वि꣡ततो रश्मि꣡र् एषाम्  
-अधः꣡ स्विद् आसी꣡३द् उप꣡रि स्विद् आसी३त्  
-रेतोधा꣡ आसन् महिमा꣡न आसन्  
-स्वधा꣡ अव꣡स्तात् प्र꣡यतिः पर꣡स्तात्
+तिरश्ची᳓नो वि᳓ततो रश्मि᳓र् एषाम्  
+अधः᳓ स्विद् आसी᳓३द् उप᳓रि स्विद् आसी३त्  
+रेतोधा᳓ आसन् महिमा᳓न आसन्  
+स्वधा᳓ अव᳓स्तात् प्र᳓यतिः पर᳓स्तात्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -21741,10 +21741,10 @@ Und quer hindurch, war ihre Schnur gezogen, was war darunter? und was war darüb
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-को꣡ अद्धा꣡ वेद क꣡ इह꣡ प्र꣡ वोचत्  
-कु꣡त आ꣡जाता कु꣡त इयं꣡ वि꣡सृष्टिः  
-अर्वा꣡ग् देवा꣡ अस्य꣡ विस꣡र्जनेन  
-अ꣡था को꣡ वेद य꣡त आबभू꣡व
+को᳓ अद्धा᳓ वेद क᳓ इह᳓ प्र᳓ वोचत्  
+कु᳓त आ᳓जाता कु᳓त इयं᳓ वि᳓सृष्टिः  
+अर्वा᳓ग् देवा᳓ अस्य᳓ विस᳓र्जनेन  
+अ᳓था को᳓ वेद य᳓त आबभू᳓व
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -22062,10 +22062,10 @@ Wer weiss es recht? wer mag es hier verkünden? woher entstand, woher sie kam di
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-इयं꣡ वि꣡सृष्टिर् य꣡त आबभू꣡व  
-य꣡दि वा दधे꣡ य꣡दि वा न꣡  
-यो꣡ अस्या꣡ध्यक्षः परमे꣡ वि꣡ओमन्  
-सो꣡ अङ्ग꣡ वेद य꣡दि वा न꣡ वे꣡द
+इयं᳓ वि᳓सृष्टिर् य᳓त आबभू᳓व  
+य᳓दि वा दधे᳓ य᳓दि वा न᳓  
+यो᳓ अस्या᳓ध्यक्षः परमे᳓ वि᳓ओमन्  
+सो᳓ अङ्ग᳓ वेद य᳓दि वा न᳓ वे᳓द
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -22389,10 +22389,10 @@ Von wannen diese Schöpfung sei gekommen, ob sie geschaffen oder unerschaffen, D
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-किं꣡ स्विद् व꣡नं क꣡ उ स꣡ वृक्ष꣡ आस  
-य꣡तो द्या꣡वापृथिवी꣡ निष्टतक्षुः꣡  
-म꣡नीषिणो म꣡नसा पृछ꣡ते꣡द् उ त꣡द्  
-य꣡द् अध्य꣡तिष्ठद् भु꣡वनानि धार꣡यन्
+किं᳓ स्विद् व᳓नं क᳓ उ स᳓ वृक्ष᳓ आस  
+य᳓तो द्या᳓वापृथिवी᳓ निष्टतक्षुः᳓  
+म᳓नीषिणो म᳓नसा पृछ᳓ते᳓द् उ त᳓द्  
+य᳓द् अध्य᳓तिष्ठद् भु᳓वनानि धार᳓यन्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -22729,10 +22729,10 @@ Was war der Wald, und was war jener Baum doch, aus dem sie Erd' und Himmel schö
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-प्रात꣡र् अग्नि꣡म् प्रात꣡र् इ꣡न्द्रं हवामहे  
-प्रात꣡र् मित्रा꣡व꣡रुणा प्रात꣡र् अश्वि꣡ना  
-प्रात꣡र् भ꣡गम् पूष꣡णम् ब्र꣡ह्मणस् प꣡तिम्  
-प्रातः꣡ सो꣡मम् उत꣡ रुद्रं꣡ हुवेम
+प्रात᳓र् अग्नि᳓म् प्रात᳓र् इ᳓न्द्रं हवामहे  
+प्रात᳓र् मित्रा᳓व᳓रुणा प्रात᳓र् अश्वि᳓ना  
+प्रात᳓र् भ᳓गम् पूष᳓णम् ब्र᳓ह्मणस् प᳓तिम्  
+प्रातः᳓ सो᳓मम् उत᳓ रुद्रं᳓ हुवेम
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -23071,10 +23071,10 @@ Frühmorgens laden Agni wir und Indra ein, frühmorgens Mitra-Varuna, die Ritter
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-प्रातर्जि꣡तम् भ꣡गम् उग्रं꣡ हुवेम  
-वय꣡म् पुत्र꣡म् अ꣡दितेर् यो꣡ विधर्ता꣡  
-आध्र꣡श् चिद् य꣡म् म꣡न्यमानस् तुर꣡श् चिद्  
-रा꣡जा चिद् य꣡म् भ꣡गम् भक्षी꣡ति आ꣡ह
+प्रातर्जि᳓तम् भ᳓गम् उग्रं᳓ हुवेम  
+वय᳓म् पुत्र᳓म् अ᳓दितेर् यो᳓ विधर्ता᳓  
+आध्र᳓श् चिद् य᳓म् म᳓न्यमानस् तुर᳓श् चिद्  
+रा᳓जा चिद् य᳓म् भ᳓गम् भक्षी᳓ति आ᳓ह
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -23455,10 +23455,10 @@ Wir wollen den, der früh gewinnt und austheilt, den mächt'gen Bhaga, den Aditj
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-भ꣡ग प्र꣡णेतर् भ꣡ग स꣡त्यराधो  
-भ꣡गेमां꣡ धि꣡यम् उ꣡द् अवा द꣡दन् नः  
-भ꣡ग प्र꣡ णो जनय गो꣡भिर् अ꣡श्वैर्  
-भ꣡ग प्र꣡ नृ꣡भिर् नृव꣡न्तः सियाम
+भ᳓ग प्र᳓णेतर् भ᳓ग स᳓त्यराधो  
+भ᳓गेमां᳓ धि᳓यम् उ᳓द् अवा द᳓दन् नः  
+भ᳓ग प्र᳓ णो जनय गो᳓भिर् अ᳓श्वैर्  
+भ᳓ग प्र᳓ नृ᳓भिर् नृव᳓न्तः सियाम
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -23836,10 +23836,10 @@ O Bhaga, Führer, Bhaga, wahrhaft reicher, begünst'ge, Bhaga, dieses Lied, uns 
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-उते꣡दा꣡नीम् भ꣡गवन्तः सियाम  
-उत꣡ प्रपित्व꣡ उत꣡ म꣡ध्ये अ꣡ह्नाम्  
-उतो꣡दिता मघवन् सू꣡रियस्य  
-वयं꣡ देवा꣡नां सुमतउ꣡ सियाम
+उते᳓दा᳓नीम् भ᳓गवन्तः सियाम  
+उत᳓ प्रपित्व᳓ उत᳓ म᳓ध्ये अ᳓ह्नाम्  
+उतो᳓दिता मघवन् सू᳓रियस्य  
+वयं᳓ देवा᳓नां सुमतउ᳓ सियाम
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -24164,10 +24164,10 @@ Auch jetzt versorge uns mit reichem Antheil beim Tages Anbruch und in Tages Mitt
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-भ꣡ग एव꣡ भ꣡गवाँ अस्तु देवास्  
-ते꣡न वय꣡म् भ꣡गवन्तः सियाम  
-तं꣡ त्वा भग स꣡र्व इ꣡ज् जोहवीति  
-स꣡ नो भग पुरएता꣡ भवेह꣡
+भ᳓ग एव᳓ भ᳓गवाँ अस्तु देवास्  
+ते᳓न वय᳓म् भ᳓गवन्तः सियाम  
+तं᳓ त्वा भग स᳓र्व इ᳓ज् जोहवीति  
+स᳓ नो भग पुरएता᳓ भवेह᳓
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -24546,10 +24546,10 @@ Ja reich an Gaben sei, o Götter, Bhaga, durch ihn auch mögen wir an Gaben reic
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-स꣡म् अध्वरा꣡य उष꣡सो नमन्त  
-दधिक्रा꣡वेव शु꣡चये पदा꣡य  
-अर्वाचीनं꣡ वसुवि꣡दम् भ꣡गं नो  
-र꣡थम् ऽवा꣡श्वा° वाजि꣡न आ꣡ वहन्तु
+स᳓म् अध्वरा᳓य उष᳓सो नमन्त  
+दधिक्रा᳓वेव शु᳓चये पदा᳓य  
+अर्वाचीनं᳓ वसुवि᳓दम् भ᳓गं नो  
+र᳓थम् ऽवा᳓श्वा° वाजि᳓न आ᳓ वहन्तु
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -24886,10 +24886,10 @@ Zum Opfer mögen sich die Morgenröthen, wie Dadhikra zum hellen Orte wenden; Si
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡श्वावतीर् गो꣡मतीर् न उषा꣡सो  
-वीर꣡वतीः स꣡दम् उछन्तु भद्राः꣡  
-घृतं꣡ दु꣡हाना विश्व꣡तः प्र꣡पीता  
-यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः
+अ᳓श्वावतीर् गो᳓मतीर् न उषा᳓सो  
+वीर᳓वतीः स᳓दम् उछन्तु भद्राः᳓  
+घृतं᳓ दु᳓हाना विश्व᳓तः प्र᳓पीता  
+यूय᳓म् पात सुअस्ति᳓भिः स᳓दा नः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -27861,10 +27861,10 @@ _______
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-न꣡वो-नवो भवति जा꣡यमानो  
-अ꣡ह्नां केतु꣡र् उष꣡साम् एति अ꣡ग्रम्  
-भागं꣡ देवे꣡भ्यो वि꣡ दधाति आय꣡न्  
-प्र꣡ चन्द्र꣡मास् तिरते दीर्घ꣡म् आ꣡युः
+न᳓वो-नवो भवति जा᳓यमानो  
+अ᳓ह्नां केतु᳓र् उष᳓साम् एति अ᳓ग्रम्  
+भागं᳓ देवे᳓भ्यो वि᳓ दधाति आय᳓न्  
+प्र᳓ चन्द्र᳓मास् तिरते दीर्घ᳓म् आ᳓युः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -28400,9 +28400,9 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-उ꣡द् उ त्यं꣡ जात꣡वेदसं  
-देवं꣡ वहन्ति केत꣡वः  
-दृशे꣡ वि꣡श्वाय सू꣡रियम्
+उ᳓द् उ त्यं᳓ जात᳓वेदसं  
+देवं᳓ वहन्ति केत᳓वः  
+दृशे᳓ वि᳓श्वाय सू᳓रियम्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -28657,10 +28657,10 @@ Den Wesenkenner führen schon empor die Strahlen, ihn, den Gott, Dass jedermann 
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-चित्रं꣡ देवा꣡नाम् उ꣡द् अगाद् अ꣡नीकं  
-च꣡क्षुर् मित्र꣡स्य व꣡रुणस्य अग्नेः꣡  
-आ꣡प्रा द्या꣡वापृथिवी꣡ अन्त꣡रिक्षं  
-सू꣡र्य आत्मा꣡ ज꣡गतस् तस्थु꣡षश् च
+चित्रं᳓ देवा᳓नाम् उ᳓द् अगाद् अ᳓नीकं  
+च᳓क्षुर् मित्र᳓स्य व᳓रुणस्य अग्नेः᳓  
+आ᳓प्रा द्या᳓वापृथिवी᳓ अन्त᳓रिक्षं  
+सू᳓र्य आत्मा᳓ ज᳓गतस् तस्थु᳓षश् च
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -29058,9 +29058,9 @@ Aditi, who giveth good protection and good guidance.
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-इदं꣡ वि꣡ष्णुर् वि꣡ चक्रमे  
-त्रे᳐धा꣡ नि꣡ दधे पद꣡म्  
-स꣡मूळ्हम् अस्य पांसुरे꣡
+इदं᳓ वि᳓ष्णुर् वि᳓ चक्रमे  
+त्रे᳐धा᳓ नि᳓ दधे पद᳓म्  
+स᳓मूळ्हम् अस्य पांसुरे᳓
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -29314,10 +29314,10 @@ Vischnu durchschritt die ganze Welt, trat dreimal nieder mit dem Fuss, An seinem
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ त꣡द् वि꣡ष्णु स्तवते वीरि꣡येण  
-मृगो꣡ न꣡ भीमः꣡ कुचरो꣡ गिरिष्ठाः꣡  
-य꣡स्योरु꣡षु त्रिषु꣡ विक्र꣡मणेषु  
-अधिक्षिय꣡न्ति भु꣡वनानि वि꣡श्वा
+प्र᳓ त᳓द् वि᳓ष्णु स्तवते वीरि᳓येण  
+मृगो᳓ न᳓ भीमः᳓ कुचरो᳓ गिरिष्ठाः᳓  
+य᳓स्योरु᳓षु त्रिषु᳓ विक्र᳓मणेषु  
+अधिक्षिय᳓न्ति भु᳓वनानि वि᳓श्वा
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -29618,9 +29618,9 @@ Gerühmt wird Vischnu wegen dieser Grossthat, gleich wildem Löwen, der durch Be
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-अग्नि꣡र् मूर्धा꣡ दिवः꣡ ककु꣡त्  
-प꣡तिः पृथिविया꣡ अय꣡म्  
-अपां꣡ रे꣡तांसि जिन्वति
+अग्नि᳓र् मूर्धा᳓ दिवः᳓ ककु᳓त्  
+प᳓तिः पृथिविया᳓ अय᳓म्  
+अपां᳓ रे᳓तांसि जिन्वति
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -30538,10 +30538,10 @@ Lengthen our days for us.
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-उ꣡द् उत्तमं꣡ वरुण पा꣡शम् अस्म꣡द्  
-अ꣡वाधमं꣡ वि꣡ मध्यमं꣡ श्रथाय  
-अ꣡था वय꣡म् आदितिय व्रते꣡ त꣡व  
-अ꣡नागसो अ꣡दितये सियाम
+उ᳓द् उत्तमं᳓ वरुण पा᳓शम् अस्म᳓द्  
+अ᳓वाधमं᳓ वि᳓ मध्यमं᳓ श्रथाय  
+अ᳓था वय᳓म् आदितिय व्रते᳓ त᳓व  
+अ᳓नागसो अ᳓दितये सियाम
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -30900,10 +30900,10 @@ All these are Varuna's ordinances.
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-य꣡त् किं꣡ चेदं꣡ वरुण दइ꣡विये ज꣡ने  
-अभिद्रोह꣡म् मनुषि꣡याश् च꣡रामसि  
-अ꣡चित्ती य꣡त् त꣡व ध꣡र्मा युयोपिम꣡  
-मा꣡ नस् त꣡स्माद् ए꣡नसो देव रीरिषः
+य᳓त् किं᳓ चेदं᳓ वरुण दइ᳓विये ज᳓ने  
+अभिद्रोह᳓म् मनुषि᳓याश् च᳓रामसि  
+अ᳓चित्ती य᳓त् त᳓व ध᳓र्मा युयोपिम᳓  
+मा᳓ नस् त᳓स्माद् ए᳓नसो देव रीरिषः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -31202,10 +31202,10 @@ Was wir auch hier, o Varuna, nach Menschen Art für Unrecht üben am Geschlecht 
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-कितवा꣡सो य꣡द् रिरिपु꣡र् न꣡ दीवि꣡  
-य꣡द् वा घा सत्य꣡म् उत꣡ य꣡न् न꣡ विद्म꣡  
-स꣡र्वा ता꣡ वि꣡ ष्य शिथिरे꣡व देव  
-अ꣡धा ते स्याम वरुण प्रिया꣡सः
+कितवा᳓सो य᳓द् रिरिपु᳓र् न᳓ दीवि᳓  
+य᳓द् वा घा सत्य᳓म् उत᳓ य᳓न् न᳓ विद्म᳓  
+स᳓र्वा ता᳓ वि᳓ ष्य शिथिरे᳓व देव  
+अ᳓धा ते स्याम वरुण प्रिया᳓सः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -31575,10 +31575,10 @@ Wenn wir getäuscht beim Spiel wie falsche Spieler, wenn wir gefehlt, unwissend 
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡व ते हे꣡ळो वरुण न꣡मोभिर्  
-अ꣡व यज्ञे꣡भिर् ईमहे हवि꣡र्भिः  
-क्ष꣡यन्न् अस्म꣡भ्यम् असुर प्रचेता  
-रा꣡जन्न् ए꣡नांसि शिश्रथः कृता꣡नि
+अ᳓व ते हे᳓ळो वरुण न᳓मोभिर्  
+अ᳓व यज्ञे᳓भिर् ईमहे हवि᳓र्भिः  
+क्ष᳓यन्न् अस्म᳓भ्यम् असुर प्रचेता  
+रा᳓जन्न् ए᳓नांसि शिश्रथः कृता᳓नि
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -31889,10 +31889,10 @@ O Varuna, wir wenden deinen Zorn ab, durch Opfer, durch Gebet, durch Trankesspen
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-त꣡त् त्वा यामि ब्र꣡ह्मणा व꣡न्दमानस्  
-त꣡द् आ꣡ शास्ते य꣡जमानो हवि꣡र्भिः  
-अ꣡हेळमानो वरुणेह꣡ बोधि  
-उ꣡रुशंस मा꣡ न आ꣡युः प्र꣡ मोषीः
+त᳓त् त्वा यामि ब्र᳓ह्मणा व᳓न्दमानस्  
+त᳓द् आ᳓ शास्ते य᳓जमानो हवि᳓र्भिः  
+अ᳓हेळमानो वरुणेह᳓ बोधि  
+उ᳓रुशंस मा᳓ न आ᳓युः प्र᳓ मोषीः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -32516,9 +32516,9 @@ Dies bitt' ich dich, verehrend mit Gebeten, und darum wirbt mit Opfertrank der O
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡पो हि꣡ ष्ठा꣡ मयोभु꣡वस्  
-ता꣡ न ऊर्जे꣡ दधातन  
-महे꣡ र꣡णाय च꣡क्षसे
+आ᳓पो हि᳓ ष्ठा᳓ मयोभु᳓वस्  
+ता᳓ न ऊर्जे᳓ दधातन  
+महे᳓ र᳓णाय च᳓क्षसे
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -32750,9 +32750,9 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-यो꣡ वः शिव꣡तमो र꣡सस्  
-त꣡स्य भाजयतेह꣡ नः  
-उशती꣡र् इव मात꣡रः
+यो᳓ वः शिव᳓तमो र᳓सस्  
+त᳓स्य भाजयतेह᳓ नः  
+उशती᳓र् इव मात᳓रः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -32964,9 +32964,9 @@ Welch segenreichster Saft euch ist, an dem lasst Theil uns haben hier, Den liebe
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-त꣡स्मा अ꣡रं गमाम वो  
-य꣡स्य क्ष꣡याय जि꣡न्वथ  
-आ꣡पो जन꣡यथा च नः
+त᳓स्मा अ᳓रं गमाम वो  
+य᳓स्य क्ष᳓याय जि᳓न्वथ  
+आ᳓पो जन᳓यथा च नः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -33388,9 +33388,9 @@ Für solchen gehn wir euch zur Hand, zu dessen Sitz ihr eilend naht, Ihr Wasser 
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-आ꣡पो हि꣡ ष्ठा꣡ मयोभु꣡वस्  
-ता꣡ न ऊर्जे꣡ दधातन  
-महे꣡ र꣡णाय च꣡क्षसे
+आ᳓पो हि᳓ ष्ठा᳓ मयोभु᳓वस्  
+ता᳓ न ऊर्जे᳓ दधातन  
+महे᳓ र᳓णाय च᳓क्षसे
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -33622,9 +33622,9 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-यो꣡ वः शिव꣡तमो र꣡सस्  
-त꣡स्य भाजयतेह꣡ नः  
-उशती꣡र् इव मात꣡रः
+यो᳓ वः शिव᳓तमो र᳓सस्  
+त᳓स्य भाजयतेह᳓ नः  
+उशती᳓र् इव मात᳓रः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -33836,9 +33836,9 @@ Welch segenreichster Saft euch ist, an dem lasst Theil uns haben hier, Den liebe
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-त꣡स्मा अ꣡रं गमाम वो  
-य꣡स्य क्ष꣡याय जि꣡न्वथ  
-आ꣡पो जन꣡यथा च नः
+त᳓स्मा अ᳓रं गमाम वो  
+य᳓स्य क्ष᳓याय जि᳓न्वथ  
+आ᳓पो जन᳓यथा च नः
 </details>
 <details><summary>Vedaweb annotation</summary>
 

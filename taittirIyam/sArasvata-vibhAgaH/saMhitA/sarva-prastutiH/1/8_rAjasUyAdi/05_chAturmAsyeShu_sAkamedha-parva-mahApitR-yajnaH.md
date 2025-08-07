@@ -174,11 +174,11 @@ Yoke, O Indra, thy two bay steeds [1].
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡क्षन्न् अ꣡मीमदन्त हि꣡  
-अ꣡व प्रिया꣡ अधूषत  
-अ꣡स्तोषत स्व꣡भानवो  
-वि꣡प्रा न꣡विष्ठया मती꣡  
-यो꣡जा नु꣡ इन्द्र ते ह꣡री
+अ᳓क्षन्न् अ᳓मीमदन्त हि᳓  
+अ᳓व प्रिया᳓ अधूषत  
+अ᳓स्तोषत स्व᳓भानवो  
+वि᳓प्रा न᳓विष्ठया मती᳓  
+यो᳓जा नु᳓ इन्द्र ते ह᳓री
 </details>
 <details><summary>Vedaweb annotation</summary>
 

@@ -36,10 +36,10 @@ _______
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-न꣡वो-नवो भवति जा꣡यमानो  
-अ꣡ह्नां केतु꣡र् उष꣡साम् एति अ꣡ग्रम्  
-भागं꣡ देवे꣡भ्यो वि꣡ दधाति आय꣡न्  
-प्र꣡ चन्द्र꣡मास् तिरते दीर्घ꣡म् आ꣡युः
+न᳓वो-नवो भवति जा᳓यमानो  
+अ᳓ह्नां केतु᳓र् उष᳓साम् एति अ᳓ग्रम्  
+भागं᳓ देवे᳓भ्यो वि᳓ दधाति आय᳓न्  
+प्र᳓ चन्द्र᳓मास् तिरते दीर्घ᳓म् आ᳓युः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -575,9 +575,9 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-उ꣡द् उ त्यं꣡ जात꣡वेदसं  
-देवं꣡ वहन्ति केत꣡वः  
-दृशे꣡ वि꣡श्वाय सू꣡रियम्
+उ᳓द् उ त्यं᳓ जात᳓वेदसं  
+देवं᳓ वहन्ति केत᳓वः  
+दृशे᳓ वि᳓श्वाय सू᳓रियम्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -832,10 +832,10 @@ Den Wesenkenner führen schon empor die Strahlen, ihn, den Gott, Dass jedermann 
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-चित्रं꣡ देवा꣡नाम् उ꣡द् अगाद् अ꣡नीकं  
-च꣡क्षुर् मित्र꣡स्य व꣡रुणस्य अग्नेः꣡  
-आ꣡प्रा द्या꣡वापृथिवी꣡ अन्त꣡रिक्षं  
-सू꣡र्य आत्मा꣡ ज꣡गतस् तस्थु꣡षश् च
+चित्रं᳓ देवा᳓नाम् उ᳓द् अगाद् अ᳓नीकं  
+च᳓क्षुर् मित्र᳓स्य व᳓रुणस्य अग्नेः᳓  
+आ᳓प्रा द्या᳓वापृथिवी᳓ अन्त᳓रिक्षं  
+सू᳓र्य आत्मा᳓ ज᳓गतस् तस्थु᳓षश् च
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -1233,9 +1233,9 @@ Aditi, who giveth good protection and good guidance.
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-इदं꣡ वि꣡ष्णुर् वि꣡ चक्रमे  
-त्रे᳐धा꣡ नि꣡ दधे पद꣡म्  
-स꣡मूळ्हम् अस्य पांसुरे꣡
+इदं᳓ वि᳓ष्णुर् वि᳓ चक्रमे  
+त्रे᳐धा᳓ नि᳓ दधे पद᳓म्  
+स᳓मूळ्हम् अस्य पांसुरे᳓
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -1489,10 +1489,10 @@ Vischnu durchschritt die ganze Welt, trat dreimal nieder mit dem Fuss, An seinem
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡ त꣡द् वि꣡ष्णु स्तवते वीरि꣡येण  
-मृगो꣡ न꣡ भीमः꣡ कुचरो꣡ गिरिष्ठाः꣡  
-य꣡स्योरु꣡षु त्रिषु꣡ विक्र꣡मणेषु  
-अधिक्षिय꣡न्ति भु꣡वनानि वि꣡श्वा
+प्र᳓ त᳓द् वि᳓ष्णु स्तवते वीरि᳓येण  
+मृगो᳓ न᳓ भीमः᳓ कुचरो᳓ गिरिष्ठाः᳓  
+य᳓स्योरु᳓षु त्रिषु᳓ विक्र᳓मणेषु  
+अधिक्षिय᳓न्ति भु᳓वनानि वि᳓श्वा
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -1793,9 +1793,9 @@ Gerühmt wird Vischnu wegen dieser Grossthat, gleich wildem Löwen, der durch Be
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-अग्नि꣡र् मूर्धा꣡ दिवः꣡ ककु꣡त्  
-प꣡तिः पृथिविया꣡ अय꣡म्  
-अपां꣡ रे꣡तांसि जिन्वति
+अग्नि᳓र् मूर्धा᳓ दिवः᳓ ककु᳓त्  
+प᳓तिः पृथिविया᳓ अय᳓म्  
+अपां᳓ रे᳓तांसि जिन्वति
 </details>
 <details><summary>Vedaweb annotation</summary>
 

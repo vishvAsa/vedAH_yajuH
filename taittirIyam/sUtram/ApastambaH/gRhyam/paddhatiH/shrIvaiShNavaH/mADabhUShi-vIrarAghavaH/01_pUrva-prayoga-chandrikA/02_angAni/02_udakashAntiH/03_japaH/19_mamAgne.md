@@ -43,10 +43,10 @@ title = "१९ ‘ममाग्ने’,"
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-म꣡माग्ने व꣡र्चो विहवे꣡षु अस्तु  
-वयं꣡ त्वे꣡न्धानास् तनु꣡वम् पुषेम  
-म꣡ह्यं नमन्ताम् प्रदि꣡शश् च꣡तस्रस्  
-त्व꣡या꣡ध्यक्षेण पृ꣡तना जयेम
+म᳓माग्ने व᳓र्चो विहवे᳓षु अस्तु  
+वयं᳓ त्वे᳓न्धानास् तनु᳓वम् पुषेम  
+म᳓ह्यं नमन्ताम् प्रदि᳓शश् च᳓तस्रस्  
+त्व᳓या᳓ध्यक्षेण पृ᳓तना जयेम
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -408,10 +408,10 @@ Glück werde mir, wenn ich dich, Agni, rufe, Heil sei den Leibern, wenn wir dich
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-दे꣡वीः षळ् उर्वीर् उरु꣡ नः कृणोत  
-वि꣡श्वे देवास इह꣡ वीरयध्वम्  
-मा꣡ हास्महि प्रज꣡या मा꣡ तनू꣡भिर्  
-मा꣡ रधाम द्विषते꣡ सोम राजन्
+दे᳓वीः षळ् उर्वीर् उरु᳓ नः कृणोत  
+वि᳓श्वे देवास इह᳓ वीरयध्वम्  
+मा᳓ हास्महि प्रज᳓या मा᳓ तनू᳓भिर्  
+मा᳓ रधाम द्विषते᳓ सोम राजन्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -766,10 +766,10 @@ Ihr weiten sechs Göttinnen schaffet Raum uns, ihr Götter alle, zeigt euch hier
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-उरुव्य꣡चा नो महिषः꣡ श꣡र्म यंसद्  
-अस्मि꣡न् ह꣡वे पुरुहूतः꣡ पुरुक्षुः꣡  
-स꣡ नः प्रजा꣡यै हरिअश्व मॄळय+  
-इ꣡न्द्र मा꣡ नो रीरिषो मा꣡ प꣡रा दाः
+उरुव्य᳓चा नो महिषः᳓ श᳓र्म यंसद्  
+अस्मि᳓न् ह᳓वे पुरुहूतः᳓ पुरुक्षुः᳓  
+स᳓ नः प्रजा᳓यै हरिअश्व मॄळय+  
+इ᳓न्द्र मा᳓ नो रीरिषो मा᳓ प᳓रा दाः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -1097,10 +1097,10 @@ Der umfangsreiche Stier verleihe Schutz uns, bei diesem Ruf der vielgerufne Näh
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-ये꣡ नः सप꣡त्ना अ꣡प ते꣡ भवन्तु  
-इन्द्राग्नि꣡भ्याम् अ꣡व बाधामहे ता꣡न्  
-व꣡सवो रुद्रा꣡ आदित्या꣡ उपरिस्पृ꣡शम् मा  
-उग्रं꣡ चे꣡त्तारम् अधिराज꣡म् अक्रन्
+ये᳓ नः सप᳓त्ना अ᳓प ते᳓ भवन्तु  
+इन्द्राग्नि᳓भ्याम् अ᳓व बाधामहे ता᳓न्  
+व᳓सवो रुद्रा᳓ आदित्या᳓ उपरिस्पृ᳓शम् मा  
+उग्रं᳓ चे᳓त्तारम् अधिराज᳓म् अक्रन्
 </details>
 <details><summary>Vedaweb annotation</summary>
 

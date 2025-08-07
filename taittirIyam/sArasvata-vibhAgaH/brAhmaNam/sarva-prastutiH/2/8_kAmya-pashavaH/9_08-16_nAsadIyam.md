@@ -57,10 +57,10 @@ But even if thought is the ultimate and primal creative act, the origin of the  
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-ना꣡सद् आसीन् नो꣡ स꣡द् आसीत् तदा꣡नीं  
-ना꣡सीद् र꣡जो नो꣡ वि꣡ओमा परो꣡ य꣡त्  
-कि꣡म् आ꣡वरीवः कु꣡ह क꣡स्य श꣡र्मन्न्  
-अ꣡म्भः कि꣡म् आसीद् ग꣡हनं गभीर꣡म्
+ना᳓सद् आसीन् नो᳓ स᳓द् आसीत् तदा᳓नीं  
+ना᳓सीद् र᳓जो नो᳓ वि᳓ओमा परो᳓ य᳓त्  
+कि᳓म् आ᳓वरीवः कु᳓ह क᳓स्य श᳓र्मन्न्  
+अ᳓म्भः कि᳓म् आसीद् ग᳓हनं गभीर᳓म्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -436,10 +436,10 @@ Zu jener Zeit war weder Sein, noch Nichtsein, nicht war der Luftraum, noch der H
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-न꣡ मृत्यु꣡र् आसीद् अमृ꣡तं न꣡ त꣡र्हि  
-न꣡ रा꣡त्रिया अ꣡ह्न आसीत् प्रकेतः꣡  
-आ꣡नीद् अवातं꣡ स्वध꣡या त꣡द् ए꣡कं  
-त꣡स्माद् धान्य꣡न् न꣡ परः꣡ किं꣡ चना꣡स
+न᳓ मृत्यु᳓र् आसीद् अमृ᳓तं न᳓ त᳓र्हि  
+न᳓ रा᳓त्रिया अ᳓ह्न आसीत् प्रकेतः᳓  
+आ᳓नीद् अवातं᳓ स्वध᳓या त᳓द् ए᳓कं  
+त᳓स्माद् धान्य᳓न् न᳓ परः᳓ किं᳓ चना᳓स
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -798,10 +798,10 @@ Nicht Tod und nicht Unsterblichkeit war damals, nicht gab's des Tages noch der N
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-त꣡म आसीत् त꣡मसा गूळ्ह꣡म् अ꣡ग्रे  
-अप्रकेतं꣡ सलिलं꣡ स꣡र्वम् आ इद꣡म्  
-तुछ्ये꣡नाभु꣡ अ꣡पिहितं य꣡द् आ꣡सीत्  
-त꣡पसस् त꣡न् महिना꣡जायतइ꣡कम्
+त᳓म आसीत् त᳓मसा गूळ्ह᳓म् अ᳓ग्रे  
+अप्रकेतं᳓ सलिलं᳓ स᳓र्वम् आ इद᳓म्  
+तुछ्ये᳓नाभु᳓ अ᳓पिहितं य᳓द् आ᳓सीत्  
+त᳓पसस् त᳓न् महिना᳓जायतइ᳓कम्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -1132,10 +1132,10 @@ Nur Dunkel war, verhüllt von Dunkel, anfangs und unerkennbar wogte dieses alles
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-का꣡मस् त꣡द् अ꣡ग्रे स꣡म् अवर्तता꣡धि  
-म꣡नसो रे꣡तः प्रथमं꣡ य꣡द् आ꣡सीत्  
-सतो꣡ ब꣡न्धुम् अ꣡सति नि꣡र् अविन्दन्  
-हृदि꣡ प्रती꣡ष्या कव꣡यो मनीषा꣡
+का᳓मस् त᳓द् अ᳓ग्रे स᳓म् अवर्तता᳓धि  
+म᳓नसो रे᳓तः प्रथमं᳓ य᳓द् आ᳓सीत्  
+सतो᳓ ब᳓न्धुम् अ᳓सति नि᳓र् अविन्दन्  
+हृदि᳓ प्रती᳓ष्या कव᳓यो मनीषा᳓
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -1456,10 +1456,10 @@ Da regte sich zuerst in ihm Begierde, als sich des Geistes erster Same zeigte; E
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-तिरश्ची꣡नो वि꣡ततो रश्मि꣡र् एषाम्  
-अधः꣡ स्विद् आसी꣡३द् उप꣡रि स्विद् आसी३त्  
-रेतोधा꣡ आसन् महिमा꣡न आसन्  
-स्वधा꣡ अव꣡स्तात् प्र꣡यतिः पर꣡स्तात्
+तिरश्ची᳓नो वि᳓ततो रश्मि᳓र् एषाम्  
+अधः᳓ स्विद् आसी᳓३द् उप᳓रि स्विद् आसी३त्  
+रेतोधा᳓ आसन् महिमा᳓न आसन्  
+स्वधा᳓ अव᳓स्तात् प्र᳓यतिः पर᳓स्तात्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -1756,10 +1756,10 @@ Und quer hindurch, war ihre Schnur gezogen, was war darunter? und was war darüb
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-को꣡ अद्धा꣡ वेद क꣡ इह꣡ प्र꣡ वोचत्  
-कु꣡त आ꣡जाता कु꣡त इयं꣡ वि꣡सृष्टिः  
-अर्वा꣡ग् देवा꣡ अस्य꣡ विस꣡र्जनेन  
-अ꣡था को꣡ वेद य꣡त आबभू꣡व
+को᳓ अद्धा᳓ वेद क᳓ इह᳓ प्र᳓ वोचत्  
+कु᳓त आ᳓जाता कु᳓त इयं᳓ वि᳓सृष्टिः  
+अर्वा᳓ग् देवा᳓ अस्य᳓ विस᳓र्जनेन  
+अ᳓था को᳓ वेद य᳓त आबभू᳓व
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -2077,10 +2077,10 @@ Wer weiss es recht? wer mag es hier verkünden? woher entstand, woher sie kam di
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-इयं꣡ वि꣡सृष्टिर् य꣡त आबभू꣡व  
-य꣡दि वा दधे꣡ य꣡दि वा न꣡  
-यो꣡ अस्या꣡ध्यक्षः परमे꣡ वि꣡ओमन्  
-सो꣡ अङ्ग꣡ वेद य꣡दि वा न꣡ वे꣡द
+इयं᳓ वि᳓सृष्टिर् य᳓त आबभू᳓व  
+य᳓दि वा दधे᳓ य᳓दि वा न᳓  
+यो᳓ अस्या᳓ध्यक्षः परमे᳓ वि᳓ओमन्  
+सो᳓ अङ्ग᳓ वेद य᳓दि वा न᳓ वे᳓द
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -2404,10 +2404,10 @@ Von wannen diese Schöpfung sei gekommen, ob sie geschaffen oder unerschaffen, D
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-किं꣡ स्विद् व꣡नं क꣡ उ स꣡ वृक्ष꣡ आस  
-य꣡तो द्या꣡वापृथिवी꣡ निष्टतक्षुः꣡  
-म꣡नीषिणो म꣡नसा पृछ꣡ते꣡द् उ त꣡द्  
-य꣡द् अध्य꣡तिष्ठद् भु꣡वनानि धार꣡यन्
+किं᳓ स्विद् व᳓नं क᳓ उ स᳓ वृक्ष᳓ आस  
+य᳓तो द्या᳓वापृथिवी᳓ निष्टतक्षुः᳓  
+म᳓नीषिणो म᳓नसा पृछ᳓ते᳓द् उ त᳓द्  
+य᳓द् अध्य᳓तिष्ठद् भु᳓वनानि धार᳓यन्
 </details>
 <details><summary>Vedaweb annotation</summary>
 

@@ -77,10 +77,10 @@ The identity of the Sādhyas (in vss. 7 and 16) is not clear. Their name means  
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-सह꣡स्रशीर्षा पु꣡रुषः  
-सहस्राक्षः꣡ सह꣡स्रपात्  
-स꣡ भू꣡मिं विश्व꣡तो वृत्वा꣡  
-अ꣡त्य् अतिष्ठद् दशाङ्गुल꣡म्
+सह᳓स्रशीर्षा पु᳓रुषः  
+सहस्राक्षः᳓ सह᳓स्रपात्  
+स᳓ भू᳓मिं विश्व᳓तो वृत्वा᳓  
+अ᳓त्य् अतिष्ठद् दशाङ्गुल᳓म्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -291,10 +291,10 @@ Tausendköpfig war der Urmensch, tausendäugig, tausendfüssig; nachdem er die E
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-पु꣡रुष एवे꣡दं꣡ स꣡र्वं  
-य꣡द् भूतं꣡ य꣡च् च भ꣡वियम्  
-उता꣡मृतत्व꣡स्ये꣡शानो  
-य꣡द् अ꣡न्नेनातिरो꣡हति
+पु᳓रुष एवे᳓दं᳓ स᳓र्वं  
+य᳓द् भूतं᳓ य᳓च् च भ᳓वियम्  
+उता᳓मृतत्व᳓स्ये᳓शानो  
+य᳓द् अ᳓न्नेनातिरो᳓हति
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -521,10 +521,10 @@ Der Urmensch ist alles dies, was gewesen ist, und was sein wird; er gebietet üb
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-एता꣡वान् अस्य महिमा꣡  
-अ꣡तो ज्या꣡यांश् च पू꣡रुषः  
-पा꣡दो ऽस्य वि꣡श्वा भूता꣡नि  
-त्रिपा꣡द् अस्यामृ꣡तं दिवि꣡
+एता᳓वान् अस्य महिमा᳓  
+अ᳓तो ज्या᳓यांश् च पू᳓रुषः  
+पा᳓दो ऽस्य वि᳓श्वा भूता᳓नि  
+त्रिपा᳓द् अस्यामृ᳓तं दिवि᳓
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -738,10 +738,10 @@ So bedeutend ist seine Grösse, und noch grösser ist der Urmensch; ein Viertel 
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-त्रिपा꣡द् ऊर्ध्व꣡ उ꣡द् ऐत् पु꣡रुषः  
-पा꣡दो ऽस्येहा꣡भवत् पु꣡नः  
-त꣡तो वि꣡ष्वङ् वि꣡ अक्रामत्  
-साशनानशने꣡ अभि꣡
+त्रिपा᳓द् ऊर्ध्व᳓ उ᳓द् ऐत् पु᳓रुषः  
+पा᳓दो ऽस्येहा᳓भवत् पु᳓नः  
+त᳓तो वि᳓ष्वङ् वि᳓ अक्रामत्  
+साशनानशने᳓ अभि᳓
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -975,10 +975,10 @@ Mit drei Vierteln ging der Urmensch oben hinauf, ein Viertel von ihm erschien wi
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-त꣡स्माद् विरा꣡ळ् अजायत  
-विरा꣡जो अ꣡धि पू꣡रुषः  
-स꣡ जातो꣡ अ꣡त्य् अरिच्यत  
-पश्चा꣡द् भू꣡मिम् अ꣡थो पुरः꣡
+त᳓स्माद् विरा᳓ळ् अजायत  
+विरा᳓जो अ᳓धि पू᳓रुषः  
+स᳓ जातो᳓ अ᳓त्य् अरिच्यत  
+पश्चा᳓द् भू᳓मिम् अ᳓थो पुरः᳓
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -1209,10 +1209,10 @@ Von ihm ward der Allherrscher [virâj] geboren und vom Allherrscher der Urmensch
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-य꣡त् पु꣡रुषेण हवि꣡षा  
-देवा꣡ यज्ञ꣡म् अ꣡तन्वत  
-वसन्तो꣡ अस्यासीद् आ꣡ज्यं  
-ग्रीष्म꣡ इध्मः꣡ शर꣡द् धविः꣡
+य᳓त् पु᳓रुषेण हवि᳓षा  
+देवा᳓ यज्ञ᳓म् अ᳓तन्वत  
+वसन्तो᳓ अस्यासीद् आ᳓ज्यं  
+ग्रीष्म᳓ इध्मः᳓ शर᳓द् धविः᳓
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -1417,10 +1417,10 @@ Als die Götter ihr Opfer mit dem Urmenschen als dem Opfertrank kunstvoll bereit
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-सप्ता꣡स्यासन् परिध꣡यस्  
-त्रिः꣡ सप्त꣡ समि꣡धः कृताः꣡  
-देवा꣡ य꣡द् यज्ञं꣡ तन्वाना꣡  
-अ꣡बध्नन् पु꣡रुषम् पशु꣡म्
+सप्ता᳓स्यासन् परिध᳓यस्  
+त्रिः᳓ सप्त᳓ समि᳓धः कृताः᳓  
+देवा᳓ य᳓द् यज्ञं᳓ तन्वाना᳓  
+अ᳓बध्नन् पु᳓रुषम् पशु᳓म्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -1631,10 +1631,10 @@ Diesen zuerst geborenen Urmenschen benetzten sie als ihr Opfer auf der heiligen 
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-तं꣡ यज्ञ꣡म् बर्हि꣡षि प्रउ꣡क्षन्  
-पु꣡रुषं जात꣡म् अग्रतः꣡  
-ते꣡न देवा꣡ अयजन्त  
-साधिया꣡ ऋ꣡षयश् च ये꣡
+तं᳓ यज्ञ᳓म् बर्हि᳓षि प्रउ᳓क्षन्  
+पु᳓रुषं जात᳓म् अग्रतः᳓  
+ते᳓न देवा᳓ अयजन्त  
+साधिया᳓ ऋ᳓षयश् च ये᳓
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -1844,10 +1844,10 @@ Aus diesem vollständig dargebrachten Opfer sammelte sich das triefende Opfersch
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-त꣡स्माद् यज्ञा꣡त् सर्वहु꣡तः  
-स꣡म्भृतम् पृषदाजिय꣡म्  
-पशू꣡न् तां꣡श् चक्रे वायव्या᳡न्  
-आरण्या꣡न् ग्रामिया꣡श् च ये꣡
+त᳓स्माद् यज्ञा᳓त् सर्वहु᳓तः  
+स᳓म्भृतम् पृषदाजिय᳓म्  
+पशू᳓न् तां᳓श् चक्रे वायव्या᳡न्  
+आरण्या᳓न् ग्रामिया᳓श् च ये᳓
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -2149,10 +2149,10 @@ Aus diesem vollständig dargebrachten Opfer entsprangen die Hymnen [des Rig-Veda
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-त꣡स्माद् यज्ञा꣡त् सर्वहु꣡त  
-ऋ꣡चः सा꣡मानि जज्ञिरे  
-छ꣡न्दांसि जज्ञिरे त꣡स्माद्  
-य꣡जुस् त꣡स्माद् अजायत
+त᳓स्माद् यज्ञा᳓त् सर्वहु᳓त  
+ऋ᳓चः सा᳓मानि जज्ञिरे  
+छ᳓न्दांसि जज्ञिरे त᳓स्माद्  
+य᳓जुस् त᳓स्माद् अजायत
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -2384,10 +2384,10 @@ Aus ihm entsprangen die Rosse und alle mit zwei Zahnreihen versehenen Thiere; au
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-त꣡स्माद् अ꣡श्वा अजायन्त  
-ये꣡ के꣡ च उभया꣡दतः  
-गा꣡वो ह जज्ञिरे त꣡स्मात्  
-त꣡स्माज् जाता꣡ अजाव꣡यः
+त᳓स्माद् अ᳓श्वा अजायन्त  
+ये᳓ के᳓ च उभया᳓दतः  
+गा᳓वो ह जज्ञिरे त᳓स्मात्  
+त᳓स्माज् जाता᳓ अजाव᳓यः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -2584,10 +2584,10 @@ Als sie den Urmenschen umgestalteten, wie vielfach wandelten sie ihn um? Was war
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-य꣡त् पु꣡रुषं वि꣡ अ꣡दधुः  
-कतिधा꣡ वि꣡ अकल्पयन्  
-मु꣡खं कि꣡म् अस्य कउ꣡ बाहू꣡  
-का꣡ ऊरू꣡ पा꣡दा उच्येते
+य᳓त् पु᳓रुषं वि᳓ अ᳓दधुः  
+कतिधा᳓ वि᳓ अकल्पयन्  
+मु᳓खं कि᳓म् अस्य कउ᳓ बाहू᳓  
+का᳓ ऊरू᳓ पा᳓दा उच्येते
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -2791,10 +2791,10 @@ Sein Mund ward zum Brahmanen, seine Arme zum Rādschanja, seine Schenkel zum Vai
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-ब्राह्मणो᳡ ऽस्य मु꣡खम् आसीद्  
-बाहू꣡ राजनि꣡यः कृतः꣡  
-ऊरू꣡ त꣡द् अस्य य꣡द् वइ꣡श्यः  
-पद्भ्यां꣡ शूद्रो꣡ अजायत
+ब्राह्मणो᳡ ऽस्य मु᳓खम् आसीद्  
+बाहू᳓ राजनि᳓यः कृतः᳓  
+ऊरू᳓ त᳓द् अस्य य᳓द् वइ᳓श्यः  
+पद्भ्यां᳓ शूद्रो᳓ अजायत
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -3009,10 +3009,10 @@ Aus seinem Geiste entsprang der Mond, aus seinem Auge die Sonne, aus seinem Mund
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-चन्द्र꣡मा म꣡नसो जात꣡श्  
-च꣡क्षोः सू꣡र्यो अजायत  
-मु꣡खाद् इ꣡न्द्रश् च अग्नि꣡श् च  
-प्राणा꣡द् वायु꣡र् अजायत
+चन्द्र᳓मा म᳓नसो जात᳓श्  
+च᳓क्षोः सू᳓र्यो अजायत  
+मु᳓खाद् इ᳓न्द्रश् च अग्नि᳓श् च  
+प्राणा᳓द् वायु᳓र् अजायत
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -3220,10 +3220,10 @@ Aus seinem Nabel ward die Luft, aus seinem Kopf entstand der Himmel, aus seinen 
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-ना꣡भ्या आसीद् अन्त꣡रिक्षं  
-शीर्ष्णो꣡ द्यउः꣡ स꣡म् अवर्तत  
-पद्भ्या꣡म् भू꣡मिर् दि꣡शः श्रो꣡त्रात्  
-त꣡था लोकाँ꣡ अकल्पयन्
+ना᳓भ्या आसीद् अन्त᳓रिक्षं  
+शीर्ष्णो᳓ द्यउः᳓ स᳓म् अवर्तत  
+पद्भ्या᳓म् भू᳓मिर् दि᳓शः श्रो᳓त्रात्  
+त᳓था लोकाँ᳓ अकल्पयन्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -3455,10 +3455,10 @@ Sieben Umschlusshölzer waren ihm, dreimal sieben Schichten des Brennholzes wurd
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-यज्ञे꣡न यज्ञ꣡म् अयजन्त देवा꣡स्  
-ता꣡नि ध꣡र्माणि प्रथमा꣡नि आसन्  
-ते꣡ ह ना꣡कम् महिमा꣡नः सचन्त  
-य꣡त्र पू꣡र्वे साधियाः꣡ स꣡न्ति देवाः꣡
+यज्ञे᳓न यज्ञ᳓म् अयजन्त देवा᳓स्  
+ता᳓नि ध᳓र्माणि प्रथमा᳓नि आसन्  
+ते᳓ ह ना᳓कम् महिमा᳓नः सचन्त  
+य᳓त्र पू᳓र्वे साधियाः᳓ स᳓न्ति देवाः᳓
 </details>
 <details><summary>Vedaweb annotation</summary>
 

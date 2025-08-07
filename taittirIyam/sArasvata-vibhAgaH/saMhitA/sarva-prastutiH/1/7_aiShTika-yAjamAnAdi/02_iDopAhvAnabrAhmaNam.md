@@ -17,9 +17,9 @@ title = "०२ इडोपाह्वानब्राह्मणम्"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सँ꣡श्रवा ह सौवर्चनस꣡स् तु꣡मिञ्जम् औ꣡पोदितिम् उवाच  
-"य꣡त् सत्रि꣡णाँ हो꣡ता꣡ ऽभूᳵ  
-का꣡म् इ꣡डाम् उ꣡पाह्वथा" इ꣡ति ।
+सँ᳓श्रवा ह सौवर्चनस᳓स् तु᳓मिञ्जम् औ᳓पोदितिम् उवाच  
+"य᳓त् सत्रि᳓णाँ हो᳓ता᳓ ऽभूᳵ  
+का᳓म् इ᳓डाम् उ᳓पाह्वथा" इ᳓ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -55,10 +55,10 @@ Samśravas Sauvarcanasa said to Tumiñja Aupoditi:
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"ता꣡म् उ꣡पाह्व" इ꣡ति होवाच  
-"या꣡ प्राणे꣡न देवा꣡न् दाधा꣡र,  
-व्याने꣡न मनुष्या᳙न्,  
-अपाने꣡न पितॄ꣡न्" इ꣡ति।  
+"ता᳓म् उ᳓पाह्व" इ᳓ति होवाच  
+"या᳓ प्राणे᳓न देवा᳓न् दाधा᳓र,  
+व्याने᳓न मनुष्या᳙न्,  
+अपाने᳓न पितॄ᳓न्" इ᳓ति।  
 </details>
 
 <details><summary>Keith</summary>
@@ -92,8 +92,8 @@ Samśravas Sauvarcanasa said to Tumiñja Aupoditi:
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"छिन꣡त्ति सा꣡ न꣡ छिनत्ती꣡३"ति ।   
-"छिन꣡त्ती꣡"ति होवाच ।  
+"छिन᳓त्ति सा᳓ न᳓ छिनत्ती᳓३"ति ।   
+"छिन᳓त्ती᳓"ति होवाच ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -128,8 +128,8 @@ Samśravas Sauvarcanasa said to Tumiñja Aupoditi:
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"श꣡रीरव्ँ वा꣡ अस्यै त꣡द् उ꣡पाह्वथा" इ꣡ति होवाच,  
-"गौ꣡र् वा꣡ [7] +अस्यै श꣡रीरम् ।"  
+"श᳓रीरव्ँ वा᳓ अस्यै त᳓द् उ᳓पाह्वथा" इ᳓ति होवाच,  
+"गौ᳓र् वा᳓ [7] +अस्यै श᳓रीरम् ।"  
 </details>
 
 <details><summary>Keith</summary>
@@ -165,7 +165,7 @@ Samśravas Sauvarcanasa said to Tumiñja Aupoditi:
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-गा꣡व्ँ वा꣡व꣡ तौ꣡ त꣡त् प꣡र्यवदताम् ।  
+गा᳓व्ँ वा᳓व᳓ तौ᳓ त᳓त् प᳓र्यवदताम् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -195,14 +195,14 @@ of the cow were they two talking.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-या꣡ यज्ञे꣡ दीय꣡ते,  
-सा꣡ प्राणे꣡न देवा꣡न् **दाधार**,  
+या᳓ यज्ञे᳓ दीय᳓ते,  
+सा᳓ प्राणे᳓न देवा᳓न् **दाधार**,  
 
-य꣡या मनुष्या᳙ जी꣡वन्ति,  
-सा꣡ व्याने꣡न मनुष्या᳙न्,  
+य᳓या मनुष्या᳙ जी᳓वन्ति,  
+सा᳓ व्याने᳓न मनुष्या᳙न्,  
 
-या꣡म् पितृ꣡भ्यो घ्न꣡न्ति  
-सा꣡ ऽपाने꣡न पितॄ꣡न्। 
+या᳓म् पितृ᳓भ्यो घ्न᳓न्ति  
+सा᳓ ऽपाने᳓न पितॄ᳓न्। 
 </details>
 
 <details><summary>Keith</summary>
@@ -240,8 +240,8 @@ she whom they slay for the Fathers (supports) the Fathers by her inspiration;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य꣡ एव꣡व्ँ वे꣡द -  
-पशुमा꣡न् भवति ।  
+य᳓ एव᳓व्ँ वे᳓द -  
+पशुमा᳓न् भवति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -266,8 +266,8 @@ she whom they slay for the Fathers (supports) the Fathers by her inspiration;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"अ꣡थ वै꣡ ता꣡म् उ꣡पाह्व" इ꣡ति होवाच  
-"या꣡ प्रजाᳶ꣡ प्रभ꣡वन्तीᳶ प्र꣡त्याभ꣡वती꣡"ति ।
+"अ᳓थ वै᳓ ता᳓म् उ᳓पाह्व" इ᳓ति होवाच  
+"या᳓ प्रजाᳶ᳓ प्रभ᳓वन्तीᳶ प्र᳓त्याभ᳓वती᳓"ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -303,7 +303,7 @@ she whom they slay for the Fathers (supports) the Fathers by her inspiration;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"अ꣡न्नव्ँ वा꣡ अस्यै त꣡द् उ꣡पाह्वथा" इ꣡ति होवाच ।  
+"अ᳓न्नव्ँ वा᳓ अस्यै त᳓द् उ᳓पाह्वथा" इ᳓ति होवाच ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -334,10 +334,10 @@ she whom they slay for the Fathers (supports) the Fathers by her inspiration;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ओ꣡षधयो वा꣡ अस्या अ꣡न्नम् ।   
-ओ꣡षधयो वै꣡ प्रजाᳶ꣡ प्रभ꣡वन्तीᳶ,  
-प्र꣡त्या꣡ भवन्ति ।   
-य꣡ एव꣡व्ँ वे꣡दान्नादो꣡ भवति ।   
+ओ᳓षधयो वा᳓ अस्या अ᳓न्नम् ।   
+ओ᳓षधयो वै᳓ प्रजाᳶ᳓ प्रभ᳓वन्तीᳶ,  
+प्र᳓त्या᳓ भवन्ति ।   
+य᳓ एव᳓व्ँ वे᳓दान्नादो᳓ भवति ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -373,9 +373,9 @@ he who knows thus becomes an eater of food.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"अ꣡थ वै꣡ ता꣡म् उ꣡पाह्व" इ꣡ति होवाच
-"या꣡ प्रजाᳶ꣡ पराभ꣡वन्तीर् अनुगृह्णा꣡ति  
-प्र꣡त्याभ꣡वन्तीर् गृह्णा꣡ती꣡"ति ।
+"अ᳓थ वै᳓ ता᳓म् उ᳓पाह्व" इ᳓ति होवाच
+"या᳓ प्रजाᳶ᳓ पराभ᳓वन्तीर् अनुगृह्णा᳓ति  
+प्र᳓त्याभ᳓वन्तीर् गृह्णा᳓ती᳓"ति ।
 </details>
 
 <details><summary>Keith</summary>
@@ -415,8 +415,8 @@ he who knows thus becomes an eater of food.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"प्रतिष्ठा꣡व्ँ वा꣡ अस्यै  
-त꣡द् उ꣡पाह्वथा" इ꣡ति होवाच ।  
+"प्रतिष्ठा᳓व्ँ वा᳓ अस्यै  
+त᳓द् उ᳓पाह्वथा" इ᳓ति होवाच ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -446,9 +446,9 @@ Her support then hast thou invoked', he replied.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इय꣡व्ँ +++(भूर्)+++ वा꣡ अस्यै प्रतिष्ठा꣡ [9] ।  
-इय꣡व्ँ वै꣡ प्रजाᳶ꣡ पराभ꣡वन्तीर् अ꣡नुगृह्णाति, प्रत्याभ꣡वन्तीर् गृह्णाति ।  
-य꣡ एव꣡व्ँ वे꣡द प्र꣡त्य् एव꣡ तिष्ठति ।  
+इय᳓व्ँ +++(भूर्)+++ वा᳓ अस्यै प्रतिष्ठा᳓ [9] ।  
+इय᳓व्ँ वै᳓ प्रजाᳶ᳓ पराभ᳓वन्तीर् अ᳓नुगृह्णाति, प्रत्याभ᳓वन्तीर् गृह्णाति ।  
+य᳓ एव᳓व्ँ वे᳓द प्र᳓त्य् एव᳓ तिष्ठति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -489,8 +489,8 @@ he who knows thus finds support.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"अ꣡थ वै꣡ ता꣡म् उ꣡पाह्व" इ꣡ति होवाच  
-"य꣡स्यै निक्र꣡मणे घृत꣡म् प्रजा꣡स् सञ्जी꣡वन्तीᳶ पि꣡बन्ती꣡"ति ।  
+"अ᳓थ वै᳓ ता᳓म् उ᳓पाह्व" इ᳓ति होवाच  
+"य᳓स्यै निक्र᳓मणे घृत᳓म् प्रजा᳓स् सञ्जी᳓वन्तीᳶ पि᳓बन्ती᳓"ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -526,7 +526,7 @@ he who knows thus finds support.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"छिन꣡त्ति सा꣡ न꣡ छिनत्ती꣡३"ति ।  
+"छिन᳓त्ति सा᳓ न᳓ छिनत्ती᳓३"ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -556,8 +556,8 @@ he who knows thus finds support.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"न꣡ छिनत्ती꣡ति" होवाच  
-"प्र꣡ तु꣡ जनयती꣡"ति ।  
+"न᳓ छिनत्ती᳓ति" होवाच  
+"प्र᳓ तु᳓ जनयती᳓"ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -589,7 +589,7 @@ he who knows thus finds support.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"एष꣡ वा꣡ इ꣡डाम् उ꣡पाह्वथा" इ꣡ति होवाच ।  
+"एष᳓ वा᳓ इ᳓डाम् उ᳓पाह्वथा" इ᳓ति होवाच ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -619,8 +619,8 @@ he who knows thus finds support.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वृ꣡ष्टिर् वा꣡ इ꣡डा।  
-वृ꣡ष्ट्यै वै꣡ निक्र꣡मणे घृत꣡म् प्रजा꣡स् सञ्जी꣡वन्तीᳶ पिबन्ति ।  
+वृ᳓ष्टिर् वा᳓ इ᳓डा।  
+वृ᳓ष्ट्यै वै᳓ निक्र᳓मणे घृत᳓म् प्रजा᳓स् सञ्जी᳓वन्तीᳶ पिबन्ति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -658,9 +658,9 @@ The Ida is rain; in the step of rain people drink the ghee they live upon;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य꣡ एव꣡व्ँ वे꣡द   
-प्रै꣡व꣡ जायते,  
-अन्नादो꣡ भवति ॥ [10]
+य᳓ एव᳓व्ँ वे᳓द   
+प्रै᳓व᳓ जायते,  
+अन्नादो᳓ भवति ॥ [10]
 </details>
 
 <details><summary>Keith</summary>

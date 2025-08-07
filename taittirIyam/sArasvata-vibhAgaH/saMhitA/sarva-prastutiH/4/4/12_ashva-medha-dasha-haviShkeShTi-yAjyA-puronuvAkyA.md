@@ -600,10 +600,10 @@ Agni through the hymn which brings (him).
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-पृष्टो꣡ दिवि꣡ पृष्टो꣡ अग्निः꣡ पृथिव्या꣡म्  
-पृष्टो꣡ वि꣡श्वा ओ꣡षधीर् आ꣡ विवेश  
-वैश्वानरः꣡ स꣡हसा पृष्टो꣡ अग्निः꣡  
-स꣡ नो दि꣡वा स꣡ रिषः꣡ पातु न꣡क्तम्
+पृष्टो᳓ दिवि᳓ पृष्टो᳓ अग्निः᳓ पृथिव्या᳓म्  
+पृष्टो᳓ वि᳓श्वा ओ᳓षधीर् आ᳓ विवेश  
+वैश्वानरः᳓ स᳓हसा पृष्टो᳓ अग्निः᳓  
+स᳓ नो दि᳓वा स᳓ रिषः᳓ पातु न᳓क्तम्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -1054,9 +1054,9 @@ With what to us radiant shall he be?
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-क꣡या नश् चित्र꣡ आ꣡ भुवद्  
-ऊती꣡ सदा꣡वृधः स꣡खा  
-क꣡या श꣡चिष्ठया वृता꣡
+क᳓या नश् चित्र᳓ आ᳓ भुवद्  
+ऊती᳓ सदा᳓वृधः स᳓खा  
+क᳓या श᳓चिष्ठया वृता᳓
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -1300,10 +1300,10 @@ Who to-day yoketh?
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-को꣡ अद्य꣡ युङ्क्ते धुरि꣡ गा꣡ ऋत꣡स्य  
-शि꣡मीवतो भामि꣡नो दुर्हृणायू꣡न्  
-आस꣡न्निषून् हृत्सुव꣡सो मयोभू꣡न्  
-य꣡ एषाम् भृत्या꣡म् ऋण꣡धत् स꣡ जीवात्
+को᳓ अद्य᳓ युङ्क्ते धुरि᳓ गा᳓ ऋत᳓स्य  
+शि᳓मीवतो भामि᳓नो दुर्हृणायू᳓न्  
+आस᳓न्निषून् हृत्सुव᳓सो मयोभू᳓न्  
+य᳓ एषाम् भृत्या᳓म् ऋण᳓धत् स᳓ जीवात्
 </details>
 <details><summary>Vedaweb annotation</summary>
 

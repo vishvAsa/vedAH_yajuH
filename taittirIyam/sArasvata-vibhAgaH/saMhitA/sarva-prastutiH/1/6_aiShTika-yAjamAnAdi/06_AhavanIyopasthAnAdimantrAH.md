@@ -574,9 +574,9 @@ _______
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡ग्न आ꣡यूंषि पवस  
-आ꣡ सुवो꣡र्जम् इ꣡षं च नः  
-आरे꣡ बाधस्व दुछु꣡नाम्
+अ᳓ग्न आ᳓यूंषि पवस  
+आ᳓ सुवो᳓र्जम् इ᳓षं च नः  
+आरे᳓ बाधस्व दुछु᳓नाम्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -847,9 +847,9 @@ Du flammst, o Agni, Leben aus, erzeuge Trank und Speise uns, Das Unheil stosse w
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡ग्ने प꣡वस्व सुअ꣡पा  
-अस्मे꣡ व꣡र्चः सुवी꣡रियम्  
-द꣡धद् रयि꣡म् म꣡यि पो꣡षम्
+अ᳓ग्ने प᳓वस्व सुअ᳓पा  
+अस्मे᳓ व᳓र्चः सुवी᳓रियम्  
+द᳓धद् रयि᳓म् म᳓यि पो᳓षम्
 </details>
 <details><summary>Vedaweb annotation</summary>
 

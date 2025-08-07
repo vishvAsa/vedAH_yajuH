@@ -266,9 +266,9 @@ _______
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-उ꣡प त्वाग्ने दिवे꣡-दिवे  
-दो꣡षावस्तर् धिया꣡ वय꣡म्  
-न꣡मो भ꣡रन्त ए꣡मसि
+उ᳓प त्वाग्ने दिवे᳓-दिवे  
+दो᳓षावस्तर् धिया᳓ वय᳓म्  
+न᳓मो भ᳓रन्त ए᳓मसि
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -623,8 +623,8 @@ Our protector, kindly, a shield;
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-तं꣡ त्वा शोचिष्ठ दीदिवः  
-सुम्ना꣡य नून꣡म् ईमहे स꣡खिभ्यः
+तं᳓ त्वा शोचिष्ठ दीदिवः  
+सुम्ना᳓य नून᳓म् ईमहे स᳓खिभ्यः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -931,9 +931,9 @@ _______
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-त꣡त् सवितु꣡र् व꣡रेणियम्  
-भ꣡र्गो देव꣡स्य धीमहि  
-धि꣡यो यो꣡ नः प्रचोद꣡यात्
+त᳓त् सवितु᳓र् व᳓रेणियम्  
+भ᳓र्गो देव᳓स्य धीमहि  
+धि᳓यो यो᳓ नः प्रचोद᳓यात्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -1640,9 +1640,9 @@ _______
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-सोमा꣡नं सुअ꣡रणं  
-कृणुहि꣡ ब्रह्मणस् पते  
-कक्षी꣡वन्तं य꣡ औशिजः꣡
+सोमा᳓नं सुअ᳓रणं  
+कृणुहि᳓ ब्रह्मणस् पते  
+कक्षी᳓वन्तं य᳓ औशिजः᳓
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -1890,10 +1890,10 @@ _______
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-कदा꣡ चन꣡ स्तरी꣡र् असि  
-ने꣡न्द्र सश्चसि दाशु꣡षे  
-उ꣡पोपे꣡न् नु꣡ मघवन् भू꣡य इ꣡न् नु꣡ ते  
-दा꣡नं देव꣡स्य पृच्यते
+कदा᳓ चन᳓ स्तरी᳓र् असि  
+ने᳓न्द्र सश्चसि दाशु᳓षे  
+उ᳓पोपे᳓न् नु᳓ मघवन् भू᳓य इ᳓न् नु᳓ ते  
+दा᳓नं देव᳓स्य पृच्यते
 </details>
 <details><summary>Vedaweb annotation</summary>
 

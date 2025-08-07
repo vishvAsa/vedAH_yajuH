@@ -35,10 +35,10 @@ title = "३७ वारुणम्"
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-उ꣡द् उत्तमं꣡ वरुण पा꣡शम् अस्म꣡द्  
-अ꣡वाधमं꣡ वि꣡ मध्यमं꣡ श्रथाय  
-अ꣡था वय꣡म् आदितिय व्रते꣡ त꣡व  
-अ꣡नागसो अ꣡दितये सियाम
+उ᳓द् उत्तमं᳓ वरुण पा᳓शम् अस्म᳓द्  
+अ᳓वाधमं᳓ वि᳓ मध्यमं᳓ श्रथाय  
+अ᳓था वय᳓म् आदितिय व्रते᳓ त᳓व  
+अ᳓नागसो अ᳓दितये सियाम
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -397,10 +397,10 @@ All these are Varuna's ordinances.
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-य꣡त् किं꣡ चेदं꣡ वरुण दइ꣡विये ज꣡ने  
-अभिद्रोह꣡म् मनुषि꣡याश् च꣡रामसि  
-अ꣡चित्ती य꣡त् त꣡व ध꣡र्मा युयोपिम꣡  
-मा꣡ नस् त꣡स्माद् ए꣡नसो देव रीरिषः
+य᳓त् किं᳓ चेदं᳓ वरुण दइ᳓विये ज᳓ने  
+अभिद्रोह᳓म् मनुषि᳓याश् च᳓रामसि  
+अ᳓चित्ती य᳓त् त᳓व ध᳓र्मा युयोपिम᳓  
+मा᳓ नस् त᳓स्माद् ए᳓नसो देव रीरिषः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -699,10 +699,10 @@ Was wir auch hier, o Varuna, nach Menschen Art für Unrecht üben am Geschlecht 
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-कितवा꣡सो य꣡द् रिरिपु꣡र् न꣡ दीवि꣡  
-य꣡द् वा घा सत्य꣡म् उत꣡ य꣡न् न꣡ विद्म꣡  
-स꣡र्वा ता꣡ वि꣡ ष्य शिथिरे꣡व देव  
-अ꣡धा ते स्याम वरुण प्रिया꣡सः
+कितवा᳓सो य᳓द् रिरिपु᳓र् न᳓ दीवि᳓  
+य᳓द् वा घा सत्य᳓म् उत᳓ य᳓न् न᳓ विद्म᳓  
+स᳓र्वा ता᳓ वि᳓ ष्य शिथिरे᳓व देव  
+अ᳓धा ते स्याम वरुण प्रिया᳓सः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -1072,10 +1072,10 @@ Wenn wir getäuscht beim Spiel wie falsche Spieler, wenn wir gefehlt, unwissend 
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡व ते हे꣡ळो वरुण न꣡मोभिर्  
-अ꣡व यज्ञे꣡भिर् ईमहे हवि꣡र्भिः  
-क्ष꣡यन्न् अस्म꣡भ्यम् असुर प्रचेता  
-रा꣡जन्न् ए꣡नांसि शिश्रथः कृता꣡नि
+अ᳓व ते हे᳓ळो वरुण न᳓मोभिर्  
+अ᳓व यज्ञे᳓भिर् ईमहे हवि᳓र्भिः  
+क्ष᳓यन्न् अस्म᳓भ्यम् असुर प्रचेता  
+रा᳓जन्न् ए᳓नांसि शिश्रथः कृता᳓नि
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -1386,10 +1386,10 @@ O Varuna, wir wenden deinen Zorn ab, durch Opfer, durch Gebet, durch Trankesspen
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-त꣡त् त्वा यामि ब्र꣡ह्मणा व꣡न्दमानस्  
-त꣡द् आ꣡ शास्ते य꣡जमानो हवि꣡र्भिः  
-अ꣡हेळमानो वरुणेह꣡ बोधि  
-उ꣡रुशंस मा꣡ न आ꣡युः प्र꣡ मोषीः
+त᳓त् त्वा यामि ब्र᳓ह्मणा व᳓न्दमानस्  
+त᳓द् आ᳓ शास्ते य᳓जमानो हवि᳓र्भिः  
+अ᳓हेळमानो वरुणेह᳓ बोधि  
+उ᳓रुशंस मा᳓ न आ᳓युः प्र᳓ मोषीः
 </details>
 <details><summary>Vedaweb annotation</summary>
 

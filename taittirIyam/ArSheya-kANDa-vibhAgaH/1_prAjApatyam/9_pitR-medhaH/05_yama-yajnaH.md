@@ -70,10 +70,10 @@ title = "०५ यम-यज्ञः"
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-यमे꣡ इव य꣡तमाने य꣡द् अइ꣡तम्  
-प्र꣡ वाम् भरन् मा꣡नुषा देवय꣡न्तः  
-आ꣡ सीदतं स्व꣡म् उलोकं꣡† वि꣡दाने  
-सुआसस्थे꣡ भवतम् इ꣡न्दवे नः
+यमे᳓ इव य᳓तमाने य᳓द् अइ᳓तम्  
+प्र᳓ वाम् भरन् मा᳓नुषा देवय᳓न्तः  
+आ᳓ सीदतं स्व᳓म् उलोकं᳓† वि᳓दाने  
+सुआसस्थे᳓ भवतम् इ᳓न्दवे नः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -385,10 +385,10 @@ Als ihr herbeikamt wie zwei zusammengehende Schwestern, brachten euch die fromme
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-यमा꣡य सो꣡मं सुनुत  
-यमा꣡य जुहुता हविः꣡  
-यमं꣡ ह यज्ञो꣡ गछति  
-अग्नि꣡दूतो अ꣡रंकृतः
+यमा᳓य सो᳓मं सुनुत  
+यमा᳓य जुहुता हविः᳓  
+यमं᳓ ह यज्ञो᳓ गछति  
+अग्नि᳓दूतो अ᳓रंकृतः
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -623,10 +623,10 @@ Dem Jama keltert Somasaft, ergiesst dem Jama Opfertrank; Zu Jama geht das Opfer 
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-यमा꣡य घृत꣡वद् धवि꣡र्  
-जुहो꣡त प्र꣡ च तिष्ठत  
-स꣡ नो देवे꣡षु आ꣡ यमद्  
-दीर्घ꣡म् आ꣡युः प्र꣡ जीव꣡से
+यमा᳓य घृत᳓वद् धवि᳓र्  
+जुहो᳓त प्र᳓ च तिष्ठत  
+स᳓ नो देवे᳓षु आ᳓ यमद्  
+दीर्घ᳓म् आ᳓युः प्र᳓ जीव᳓से
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -889,10 +889,10 @@ Den fettversehnen Opfertrank ergiesst dem Jama, tretet vor; Er lenk uns zu den G
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-यमा꣡य म꣡धुमत्तमं  
-रा꣡ज्ञे हव्यं꣡ जुहोतन  
-इदं꣡ न꣡म ऋ꣡षिभ्यः पूर्वजे꣡भियः  
-पू꣡र्वेभ्यः पथिकृ꣡द्भियः
+यमा᳓य म᳓धुमत्तमं  
+रा᳓ज्ञे हव्यं᳓ जुहोतन  
+इदं᳓ न᳓म ऋ᳓षिभ्यः पूर्वजे᳓भियः  
+पू᳓र्वेभ्यः पथिकृ᳓द्भियः
 </details>
 <details><summary>Vedaweb annotation</summary>
 

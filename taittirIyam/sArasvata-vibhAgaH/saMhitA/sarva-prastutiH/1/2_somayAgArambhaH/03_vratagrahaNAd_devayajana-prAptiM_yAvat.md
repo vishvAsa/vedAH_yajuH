@@ -184,9 +184,9 @@ ________
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-त्व꣡म् अग्ने व्रतपा꣡ असि  
-देव꣡ आ꣡ म꣡र्तियेषु आ꣡  
-तुवं꣡ यज्ञे꣡षु ई꣡डियः
+त्व᳓म् अग्ने व्रतपा᳓ असि  
+देव᳓ आ᳓ म᳓र्तियेषु आ᳓  
+तुवं᳓ यज्ञे᳓षु ई᳓डियः
 </details>
 <details><summary>Vedaweb annotation</summary>
 

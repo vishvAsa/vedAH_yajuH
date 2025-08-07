@@ -31,9 +31,9 @@ _______
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-तर꣡णिर् विश्व꣡दर्शतो  
-ज्योतिष्कृ꣡द् असि सूरिय  
-वि꣡श्वम् आ꣡ भासि रोचन꣡म्
+तर᳓णिर् विश्व᳓दर्शतो  
+ज्योतिष्कृ᳓द् असि सूरिय  
+वि᳓श्वम् आ᳓ भासि रोचन᳓म्
 </details>
 <details><summary>Vedaweb annotation</summary>
 

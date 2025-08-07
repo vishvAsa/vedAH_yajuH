@@ -30,9 +30,9 @@ _______
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-हि꣡रण्यपाणिम् ऊत꣡ये  
-सविता꣡रम् उ꣡प ह्वये  
-स꣡ चे꣡त्ता देव꣡ता पद꣡म्
+हि᳓रण्यपाणिम् ऊत᳓ये  
+सविता᳓रम् उ᳓प ह्वये  
+स᳓ चे᳓त्ता देव᳓ता पद᳓म्
 </details>
 <details><summary>Vedaweb annotation</summary>
 

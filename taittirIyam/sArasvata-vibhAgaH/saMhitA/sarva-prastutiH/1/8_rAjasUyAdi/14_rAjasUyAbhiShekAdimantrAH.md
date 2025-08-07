@@ -279,10 +279,10 @@ O Rudra, that highest active name of thee, to that thou art offered, thou art of
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-प्र꣡जापते न꣡ त्व꣡द् एता꣡नि अन्यो꣡  
-वि꣡श्वा जाता꣡नि प꣡रि ता꣡ बभूव  
-य꣡त्कामास् ते जुहुम꣡स् त꣡न् नो अस्तु  
-वयं꣡ सियाम प꣡तयो रयीणा꣡म्
+प्र᳓जापते न᳓ त्व᳓द् एता᳓नि अन्यो᳓  
+वि᳓श्वा जाता᳓नि प᳓रि ता᳓ बभूव  
+य᳓त्कामास् ते जुहुम᳓स् त᳓न् नो अस्तु  
+वयं᳓ सियाम प᳓तयो रयीणा᳓म्
 </details>
 <details><summary>मूलम् - तैत्तिरीयम्</summary>
 

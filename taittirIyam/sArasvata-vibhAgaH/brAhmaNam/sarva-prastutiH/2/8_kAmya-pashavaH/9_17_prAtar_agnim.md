@@ -35,10 +35,10 @@ title = "९ १७ प्रातर् अग्निम्"
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-प्रात꣡र् अग्नि꣡म् प्रात꣡र् इ꣡न्द्रं हवामहे  
-प्रात꣡र् मित्रा꣡व꣡रुणा प्रात꣡र् अश्वि꣡ना  
-प्रात꣡र् भ꣡गम् पूष꣡णम् ब्र꣡ह्मणस् प꣡तिम्  
-प्रातः꣡ सो꣡मम् उत꣡ रुद्रं꣡ हुवेम
+प्रात᳓र् अग्नि᳓म् प्रात᳓र् इ᳓न्द्रं हवामहे  
+प्रात᳓र् मित्रा᳓व᳓रुणा प्रात᳓र् अश्वि᳓ना  
+प्रात᳓र् भ᳓गम् पूष᳓णम् ब्र᳓ह्मणस् प᳓तिम्  
+प्रातः᳓ सो᳓मम् उत᳓ रुद्रं᳓ हुवेम
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -377,10 +377,10 @@ Frühmorgens laden Agni wir und Indra ein, frühmorgens Mitra-Varuna, die Ritter
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-प्रातर्जि꣡तम् भ꣡गम् उग्रं꣡ हुवेम  
-वय꣡म् पुत्र꣡म् अ꣡दितेर् यो꣡ विधर्ता꣡  
-आध्र꣡श् चिद् य꣡म् म꣡न्यमानस् तुर꣡श् चिद्  
-रा꣡जा चिद् य꣡म् भ꣡गम् भक्षी꣡ति आ꣡ह
+प्रातर्जि᳓तम् भ᳓गम् उग्रं᳓ हुवेम  
+वय᳓म् पुत्र᳓म् अ᳓दितेर् यो᳓ विधर्ता᳓  
+आध्र᳓श् चिद् य᳓म् म᳓न्यमानस् तुर᳓श् चिद्  
+रा᳓जा चिद् य᳓म् भ᳓गम् भक्षी᳓ति आ᳓ह
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -761,10 +761,10 @@ Wir wollen den, der früh gewinnt und austheilt, den mächt'gen Bhaga, den Aditj
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-भ꣡ग प्र꣡णेतर् भ꣡ग स꣡त्यराधो  
-भ꣡गेमां꣡ धि꣡यम् उ꣡द् अवा द꣡दन् नः  
-भ꣡ग प्र꣡ णो जनय गो꣡भिर् अ꣡श्वैर्  
-भ꣡ग प्र꣡ नृ꣡भिर् नृव꣡न्तः सियाम
+भ᳓ग प्र᳓णेतर् भ᳓ग स᳓त्यराधो  
+भ᳓गेमां᳓ धि᳓यम् उ᳓द् अवा द᳓दन् नः  
+भ᳓ग प्र᳓ णो जनय गो᳓भिर् अ᳓श्वैर्  
+भ᳓ग प्र᳓ नृ᳓भिर् नृव᳓न्तः सियाम
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -1142,10 +1142,10 @@ O Bhaga, Führer, Bhaga, wahrhaft reicher, begünst'ge, Bhaga, dieses Lied, uns 
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-उते꣡दा꣡नीम् भ꣡गवन्तः सियाम  
-उत꣡ प्रपित्व꣡ उत꣡ म꣡ध्ये अ꣡ह्नाम्  
-उतो꣡दिता मघवन् सू꣡रियस्य  
-वयं꣡ देवा꣡नां सुमतउ꣡ सियाम
+उते᳓दा᳓नीम् भ᳓गवन्तः सियाम  
+उत᳓ प्रपित्व᳓ उत᳓ म᳓ध्ये अ᳓ह्नाम्  
+उतो᳓दिता मघवन् सू᳓रियस्य  
+वयं᳓ देवा᳓नां सुमतउ᳓ सियाम
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -1470,10 +1470,10 @@ Auch jetzt versorge uns mit reichem Antheil beim Tages Anbruch und in Tages Mitt
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-भ꣡ग एव꣡ भ꣡गवाँ अस्तु देवास्  
-ते꣡न वय꣡म् भ꣡गवन्तः सियाम  
-तं꣡ त्वा भग स꣡र्व इ꣡ज् जोहवीति  
-स꣡ नो भग पुरएता꣡ भवेह꣡
+भ᳓ग एव᳓ भ᳓गवाँ अस्तु देवास्  
+ते᳓न वय᳓म् भ᳓गवन्तः सियाम  
+तं᳓ त्वा भग स᳓र्व इ᳓ज् जोहवीति  
+स᳓ नो भग पुरएता᳓ भवेह᳓
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -1852,10 +1852,10 @@ Ja reich an Gaben sei, o Götter, Bhaga, durch ihn auch mögen wir an Gaben reic
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-स꣡म् अध्वरा꣡य उष꣡सो नमन्त  
-दधिक्रा꣡वेव शु꣡चये पदा꣡य  
-अर्वाचीनं꣡ वसुवि꣡दम् भ꣡गं नो  
-र꣡थम् ऽवा꣡श्वा° वाजि꣡न आ꣡ वहन्तु
+स᳓म् अध्वरा᳓य उष᳓सो नमन्त  
+दधिक्रा᳓वेव शु᳓चये पदा᳓य  
+अर्वाचीनं᳓ वसुवि᳓दम् भ᳓गं नो  
+र᳓थम् ऽवा᳓श्वा° वाजि᳓न आ᳓ वहन्तु
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -2192,10 +2192,10 @@ Zum Opfer mögen sich die Morgenröthen, wie Dadhikra zum hellen Orte wenden; Si
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡श्वावतीर् गो꣡मतीर् न उषा꣡सो  
-वीर꣡वतीः स꣡दम् उछन्तु भद्राः꣡  
-घृतं꣡ दु꣡हाना विश्व꣡तः प्र꣡पीता  
-यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः
+अ᳓श्वावतीर् गो᳓मतीर् न उषा᳓सो  
+वीर᳓वतीः स᳓दम् उछन्तु भद्राः᳓  
+घृतं᳓ दु᳓हाना विश्व᳓तः प्र᳓पीता  
+यूय᳓म् पात सुअस्ति᳓भिः स᳓दा नः
 </details>
 <details><summary>Vedaweb annotation</summary>
 

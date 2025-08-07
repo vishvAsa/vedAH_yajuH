@@ -32,9 +32,9 @@ _______
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡ग्न आ꣡यूंषि पवस  
-आ꣡ सुवो꣡र्जम् इ꣡षं च नः  
-आरे꣡ बाधस्व दुछु꣡नाम्
+अ᳓ग्न आ᳓यूंषि पवस  
+आ᳓ सुवो᳓र्जम् इ᳓षं च नः  
+आरे᳓ बाधस्व दुछु᳓नाम्
 </details>
 <details><summary>Vedaweb annotation</summary>
 

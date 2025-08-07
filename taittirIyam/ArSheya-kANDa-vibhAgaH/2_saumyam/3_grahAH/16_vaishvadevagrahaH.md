@@ -32,9 +32,9 @@ _______
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-ओ꣡मासश् चर्षणीधृतो  
-वि꣡श्वे देवास आ꣡ गत  
-दाश्वां꣡सो दाशु꣡षः सुत꣡म्
+ओ᳓मासश् चर्षणीधृतो  
+वि᳓श्वे देवास आ᳓ गत  
+दाश्वां᳓सो दाशु᳓षः सुत᳓म्
 </details>
 <details><summary>Vedaweb annotation</summary>
 

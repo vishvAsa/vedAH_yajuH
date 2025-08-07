@@ -23,10 +23,10 @@ title = "८ १५-२० श्रद्धया"
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-श्रद्ध꣡याग्निः꣡ स꣡म् इध्यते  
-श्रद्ध꣡या हूयते हविः꣡  
-श्रद्धा꣡म् भ꣡गस्य मूर्ध꣡नि  
-व꣡चसा꣡ वेदयामसि
+श्रद्ध᳓याग्निः᳓ स᳓म् इध्यते  
+श्रद्ध᳓या हूयते हविः᳓  
+श्रद्धा᳓म् भ᳓गस्य मूर्ध᳓नि  
+व᳓चसा᳓ वेदयामसि
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -258,10 +258,10 @@ Durch Glauben wird das Feu'r entflammt, durch Glauben Opferguss geweiht; Auch au
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-प्रियं꣡ श्रद्धे द꣡दतः  
-प्रियं꣡ श्रद्धे दि꣡दासतः  
-प्रिय꣡म् भोजे꣡षु य꣡ज्वसु  
-इद꣡म् म उदितं꣡ कृधि
+प्रियं᳓ श्रद्धे द᳓दतः  
+प्रियं᳓ श्रद्धे दि᳓दासतः  
+प्रिय᳓म् भोजे᳓षु य᳓ज्वसु  
+इद᳓म् म उदितं᳓ कृधि
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -500,10 +500,10 @@ O Glaube, lieb mach dieses Wort des Spenders, der noch spenden will, Mach lieb e
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-य꣡था देवा꣡ अ꣡सुरेषु  
-श्रद्धा꣡म् उग्रे꣡षु चक्रिरे꣡  
-एव꣡म् भोजे꣡षु य꣡ज्वसु  
-अस्मा꣡कम् उदितं꣡ कृधि
+य᳓था देवा᳓ अ᳓सुरेषु  
+श्रद्धा᳓म् उग्रे᳓षु चक्रिरे᳓  
+एव᳓म् भोजे᳓षु य᳓ज्वसु  
+अस्मा᳓कम् उदितं᳓ कृधि
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -742,10 +742,10 @@ Wie Götter der Asurenschar, der starken, schenkten ihr Vertraun, So mache du au
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-श्रद्धां꣡ देवा꣡ य꣡जमाना  
-वायु꣡गोपा उ꣡पासते  
-श्रद्धां꣡ हृदय्य᳡या꣡कूत्या  
-श्रद्ध꣡या विन्दते व꣡सु
+श्रद्धां᳓ देवा᳓ य᳓जमाना  
+वायु᳓गोपा उ᳓पासते  
+श्रद्धां᳓ हृदय्य᳡या᳓कूत्या  
+श्रद्ध᳓या विन्दते व᳓सु
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -970,10 +970,10 @@ Den Glauben ehren andachtsvoll die Götter, die der Wind beschirmt; Der Glaube w
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-श्रद्धा꣡म् प्रात꣡र् हवामहे  
-श्रद्धा꣡म् मध्यं꣡दिनम् प꣡रि  
-श्रद्धां꣡ सू꣡र्यस्य निम्रु꣡चि  
-श्र꣡द्धे श्र꣡द् धापयेह꣡ नः
+श्रद्धा᳓म् प्रात᳓र् हवामहे  
+श्रद्धा᳓म् मध्यं᳓दिनम् प᳓रि  
+श्रद्धां᳓ सू᳓र्यस्य निम्रु᳓चि  
+श्र᳓द्धे श्र᳓द् धापयेह᳓ नः
 </details>
 <details><summary>Vedaweb annotation</summary>
 

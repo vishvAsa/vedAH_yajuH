@@ -248,10 +248,10 @@ That he may embolden us.
 </details>
 <details><summary>Thomson & Solcum</summary>
 
-त्रि꣡यम्बकं यजामहे  
-सुग꣡न्धिम् पुष्टिव꣡र्धनम्  
-उर्वारुक꣡म् ऽव° ब꣡न्धनान्  
-मृत्यो꣡र् मुक्षीय मा꣡मृ꣡तात्
+त्रि᳓यम्बकं यजामहे  
+सुग᳓न्धिम् पुष्टिव᳓र्धनम्  
+उर्वारुक᳓म् ऽव° ब᳓न्धनान्  
+मृत्यो᳓र् मुक्षीय मा᳓मृ᳓तात्
 </details>
 <details><summary>Vedaweb annotation</summary>
 
@@ -435,7 +435,7 @@ Sugandhim = **divya** gandhopetam, of celestial fragrance (yathāvṛkṣasya sa
 
 We sacrifice to Tryambaka the fragrant, increaser of prosperity.  
 Like a cucumber from its stem, might I be freed from death, not from  deathlessness.
-꣡</details>
+</details>
 <details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/059/09-12.md">
 <details open><summary><h7>09-12 ...{Loading}...</h7></summary>
