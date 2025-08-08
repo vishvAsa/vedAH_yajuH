@@ -24,7 +24,16 @@ title = "१० सम्भाव्यानि प्रायश्चित
 शिला-नाशे  
 ऽन्यच्-छिला-त्रयं पूर्ववत् **प्रतिष्ठाप्यावाह्य स्पृष्ट्वा जपेत्** -
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yajnaH/01_AyAtu_devas.md"></div>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yajnaH/01_AyAtu_devas.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+**आया॑तु** दे॒वस् सु॒मना॑भिर् ऊ॒तिभि॑र्  
+य॒मो हवा+++(य्)++++इ॒ह प्रय॑ताभिर् **अ॒क्ता** ।  
+आसी॑दताँ सुप्र॒यते॑ह ब॒र्हिष्य्  
+ऊर्जा॑-यजात्यै मम॑ शत्रु॒-हत्यै॑ ।  
++++(आरण्यक-स्वर-व्यत्ययः॥)+++
+</details>
+</div>
 
  इति ॥ 
 

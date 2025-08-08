@@ -15,7 +15,115 @@ title = "०२ उत्सर्जनम्"
 अग्निप्रतिष्ठाद्य्-अग्नि-मुखान्ते पूर्ववत् प्रधानाहुतीः हुत्वा,  
 माणवकम् उत्थाप्य,  
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/07_pravargyAdi/84_agne_vratapate"></div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/07_pravargyAdi/84_agne_vratapate">
+<details open><summary><h5>८४ अग्ने व्रतपते ...{Loading}...</h5></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अग्ने॑ व्रतपते!
+</details>
+
+<details><summary>मूलम्</summary>
+
+अग्ने॑ व्रतपते!
+</details>
+<div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<details open><summary><h9>02 व्रतञ्चरिष्यामि तच्छकेयन्तन्मे ...{Loading}...</h9></summary>
+
+(…) व्र॒तञ्च॑रिष्यामि । (84)  
+तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<details open><summary><h9>02 व्रतञ्चरिष्यामि तच्छकेयन्तन्मे ...{Loading}...</h9></summary>
+<details><summary>मूलम्</summary>
+
+(…) व्र॒तञ्च॑रिष्यामि । (84)  
+तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
+</details>
+</details>
+</div>
+<details><summary>संयुक्त-मूलम्</summary>
+
+वायो॑ व्रतपत॒ आदि॑त्य व्रतपते ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वायो॑ व्रतपते
+</details>
+
+<details><summary>मूलम्</summary>
+
+वायो॑ व्रतपते
+</details>
+<div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<details open><summary><h9>02 व्रतञ्चरिष्यामि तच्छकेयन्तन्मे ...{Loading}...</h9></summary>
+
+(…) व्र॒तञ्च॑रिष्यामि । (84)  
+तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<details open><summary><h9>02 व्रतञ्चरिष्यामि तच्छकेयन्तन्मे ...{Loading}...</h9></summary>
+<details><summary>मूलम्</summary>
+
+(…) व्र॒तञ्च॑रिष्यामि । (84)  
+तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
+</details>
+</details>
+</div>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आदि॑त्य व्रतपते
+</details>
+
+<details><summary>मूलम्</summary>
+
+आदि॑त्य व्रतपते
+</details>
+<div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<details open><summary><h9>02 व्रतञ्चरिष्यामि तच्छकेयन्तन्मे ...{Loading}...</h9></summary>
+
+(…) व्र॒तञ्च॑रिष्यामि । (84)  
+तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<details open><summary><h9>02 व्रतञ्चरिष्यामि तच्छकेयन्तन्मे ...{Loading}...</h9></summary>
+<details><summary>मूलम्</summary>
+
+(…) व्र॒तञ्च॑रिष्यामि । (84)  
+तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
+</details>
+</details>
+</div>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+व्र॒ताना॑व्व्ँरतपते
+</details>
+
+<details><summary>मूलम्</summary>
+
+व्र॒ताना॑व्व्ँरतपते
+</details>
+<div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<details open><summary><h9>02 व्रतञ्चरिष्यामि तच्छकेयन्तन्मे ...{Loading}...</h9></summary>
+
+(…) व्र॒तञ्च॑रिष्यामि । (84)  
+तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<details open><summary><h9>02 व्रतञ्चरिष्यामि तच्छकेयन्तन्मे ...{Loading}...</h9></summary>
+<details><summary>मूलम्</summary>
+
+(…) व्र॒तञ्च॑रिष्यामि । (84)  
+तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
+</details>
+</details>
+</div>
+</details>
+</div>
 <details><summary>विश्वास-टिप्पनी</summary>
 
 > अग्ने व्रतपते काण्डर्षिभ्यः प्राजापत्यव्रतमचारिषं तदशकं तन्मे राधि । वायो व्रतपते काण्डर्षिभ्यः प्राजापत्यव्रतमचारिषं तदशकं तन्मे राधि । आदित्यव्रतपते काण्डर्षिभ्यः प्राजापत्यव्रतमचारिषं तदशकं तन्मे राधि ।
