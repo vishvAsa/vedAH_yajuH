@@ -7,13 +7,11 @@ title = "०४ ०८ उत्तरेण यजुषा"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01b/08_aryamNo_agnim.md">
 <details open><summary><h2>०८ अर्यम्णो अग्निम् ...{Loading}...</h2></summary>
 
-
 अ॒र्य॒म्णो +++(प्रसादात्)+++ अ॒ग्निं परि॑यन्तु क्षि॒प्रं  
 प्रती॑क्षन्ताँ॒ श्वश्र्वो॑ दे॒वरा॑श् च ।  
 
 </details>
 </div>
-
 
 तस्मिन्नुत्तरया +++(=खेऽनस)+++ दक्षिणं युगच्छिद्रं प्रतिष्ठाप्य,  
 
@@ -26,15 +24,12 @@ title = "०४ ०८ उत्तरेण यजुषा"
 
 (अत्रेतिहासमाचक्षते - अपाला नाम काचित् कन्या श्वित्रिणी +++(=श्वेतकुष्टवती)+++ । तां न कश्चिदुपयेमे । तस्याश्च मनसि कामः सदा बभूव, कथमहं इन्द्रं यजे इति । सा कदाचित् स्नानार्थं नद्याम् अवतीर्णा स्रोतसा ह्रियमाणा, तम् एव कामं मनसि दधाना, स्रोतसा ऽपनीतं सोमम् अपश्यत् । तं दन्तैः पिष्ट्वा तद्रसं इन्द्राय उपाहरत् । तम् इन्द्रः पीत्वा रथस्यानसो+++(=शकटस्य)+++ युगस्येति त्रयाणां छिद्रेषु अपो निस्सार्य, ताभिः तां त्रिः पूर्त्वा सूर्यवर्चसम् अकरोत् । तदेतत् “कन्या वारवायती” (ऋग्वेदे) इत्यस्मिन् वर्गे द्रष्टव्यम् । रथ इति षष्ठ्यर्थे प्रथमा । रथादीनां खेषु छिद्रेषु, अपो निस्सार्य त्रिः पूर्त्वी । छान्दसो रेफोपजनः । पूत्वा शोधयित्वा हे शचीपते हे इन्द्र । त्वं अपालां नाम कन्यां सूर्यवर्चसं अकरत् अकरोः । पुरुषव्यत्ययश्छान्दसः । तथैव एनामपि कुर्वित्यर्थः ॥ )  
 
-
-
 </details>
 </div>
 
 छिद्रे सुवर्णमुत्तरया +++(=शं ते हिरण्यम्)+++ ऽन्तर्धाय,  
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01b/10_shan_te_hiraNyam.md">
 <details open><summary><h2>शन् ते हिरण्यम् ...{Loading}...</h2></summary>
-
 
 +++(युगच्छिद्रे सुवर्णनिधानम् - )+++  
 शन् ते॒ +++(छिद्रे निधीयमानं)+++ हिर॑ण्यँ॒ शम् उ॑ स॒न्त्व् आप॒श्  
@@ -45,7 +40,6 @@ title = "०४ ०८ उत्तरेण यजुषा"
 </details>
 </div>
 
-
 ### स्नानम्  
 उत्तराभिः पञ्चभिस् +++(=हिरण्यवर्णा)+++ स्नापयित्वा,  
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/01_hiraNyavarNAshshuchayaH_pAvakAH.md">
@@ -53,12 +47,10 @@ title = "०४ ०८ उत्तरेण यजुषा"
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/033_ApaH/01_hiraNyavarNAH_shuchayaH.md">
 <details open><summary><h4>०१ हिरण्यवर्णाः शुचयः ...{Loading}...</h4></summary>
 
-
 हिर॑ण्य-वर्णा॒श् शुच॑यः पाव॒काः  
 प्रच॑क्रमुर् ‌हि॒त्वा ऽव॒द्यम् आपः॑ ।  
 श॒तं प॒वित्रा॒ वित॑ता॒ ह्य् आ॑सु॒ +++(अप्सु)+++  
 ताभि॑ष् ट्वा दे॒वस् स॑वि॒ता पु॑नातु ।+++(र५)+++ 
-
 
 </details>
 </div>
@@ -123,23 +115,21 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/010/12_pari_tvA.md">
 <details open><summary><h4>१२ परि त्वा ...{Loading}...</h4></summary>
 
-परि॑ त्वा गिर्-वणो॒+++(=सम्भक्तः)+++  
-गिर॑ इ॒मा भ॑वन्तु वि॒श्वतः॑ ।  
-वृ॒द्धायु॒म्+++(=वृद्धगम्)+++ अनु॒ वृद्ध॑यो॒,  
-+++(त्वया)+++ जुष्टा॑ भवन्तु॒ जुष्ट॑यः ।+++(र४)+++
+प᳓रि त्वा गिर्-वणो+++(=सम्भक्तः)+++  
+गि᳓र इमा᳓ भवन्तु विश्व᳓तः ।  
+वृद्धा᳓युम्+++(=वृद्धगम्)+++ अ᳓नु वृ᳓द्धयो,  
++++(त्वया)+++ जु᳓ष्टा भवन्तु जु᳓ष्टयः ।+++(र४)+++
 
 </details>
 </div>
 </details>
 </div>
-
 
 ## योक्त्रबन्धनम्  
 उत्तरया +++(=आशासाना सौमनसम्)+++ योक्त्रेण सन्नह्यति ८  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/07_AshAsAnA_saumanasam.md">
 <details open><summary><h2>०७ आशासाना सौमनसम् ...{Loading}...</h2></summary>
-
 
 आ॒शासा॑ना सौमन॒सं  
 प्र॒जां सौभा॑ग्यं तनूम्।  

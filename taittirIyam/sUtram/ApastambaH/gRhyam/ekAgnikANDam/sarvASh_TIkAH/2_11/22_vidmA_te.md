@@ -17,6 +17,7 @@ title = "२२ विद्मा ते"
 - ऋषिः - वत्सप्रिः
 - छन्दः - त्रिष्टुप्
 </details>
+
 <details><summary>Thomson & Solcum</summary>
 
 विद्मा᳓ ते अग्ने त्रे᳐धा᳓ त्रया᳓णि  
@@ -24,6 +25,7 @@ title = "२२ विद्मा ते"
 विद्मा᳓ ते ना᳓म परमं᳓ गु᳓हा य᳓द्  
 विद्मा᳓ त᳓म् उ᳓त्सं य᳓त आजग᳓न्थ
 </details>
+
 <details><summary>Vedaweb annotation</summary>
 
 _________
@@ -102,11 +104,13 @@ yátas ← yátas (invariable)
 {}
 
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 वि॒द्म । ते॒ । अ॒ग्ने॒ । त्रे॒धा । त्र॒याणि॑ । वि॒द्म । ते॒ । धाम॑ । विऽभृ॑ता । पु॒रु॒ऽत्रा ।  
 वि॒द्म । ते॒ । नाम॑ । प॒र॒मम् । गुहा॑ । यत् । वि॒द्म । तम् । उत्स॑म् । यतः॑ । आ॒ऽज॒गन्थ॑ ॥
 </details>
+
 <details><summary>Hellwig Grammar</summary>
 
 -   *vidmā* ← *vidma* ← *vid*
@@ -247,14 +251,17 @@ _________
 _________
 
 </details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **अग्ने** **ते** तव **त्रेधा** त्रिषु स्थानेषु पृथिव्यन्तरिक्षद्युलोकेषु स्थितानि **त्रयाणि** अग्निवाय्वादित्याख्यानि त्रीणि रूपाणि **विद्म** वयं जानीमः। किंच हे अग्ने **ते** तव **धाम** धामानि स्थानानि **विभृता** विभृतानि **पुरुत्रा** बहुधा बहूनि वा गार्हपत्याहवनीयान्वाहार्यपचनादीनि **विद्म** । किंच **ते** तव **गुहा** गूढम् अवेदविद्भिरविज्ञातं **परमम्** उत्कृष्टं वेदे प्रसिद्धं **यत्** **नाम** अस्ति तत् **विद्म** वेदविदो वयं विजानीमः । किंच त्वं **यतः** यस्मात् **आजगन्थ** आगतवानसि । उत्पन्नवानित्यर्थः । **तम्** **उत्सम्** उत्स्यन्दयितारमुत्पादयितारं कारणात्मानं **विद्म** जानीमः ॥
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 विद्मा त इति ॥ हे अग्ने । ते तव स्वभूताति? त्रेधा त्रिषु स्थानेषु पृथिव्यामन्तरिक्षे दिवि च स्थितानि त्रयाणि त्रीणि रूपाणि अग्निवाय्वादित्याख्यानि विद्म जानीमः तथा ते सद्म सद्मानि स्थानानि विभृतं विभृतानि । हृग्रहोर्भः इति छन्दसि भः विहृतानि पुरुत्रा बहुनि वा गार्हपत्याहवनीयादीनि विद्म । तथा ते नाम परमं गुहा गूढं अविज्ञातं अवेदविद्भिः यदेवम्भूतं तव नाम तदपि वयं विद्म । तथा यतः त्वं आजगन्थ आगतवानसि तमप्युत्सं विद्म । उत्सः प्रस्रवणं स चापामुत्पत्तिस्थानमिति तेनो त्पत्तिस्थानमात्रं लक्ष्यते ॥
 </details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -267,24 +274,29 @@ _________
 
 In heaven, earth and mid-air-- and as Agni, **Vāyu** and **Sūrya**-- as the household and other fires
 </details>
+
 <details><summary>Jamison Brereton</summary>
 
 We know your threefold triads, Agni; we know your domains dispersed  in many places.  
 We know your highest name, which is hidden; we know the wellspring  whence you have come here.
 </details>
+
 <details><summary>Griffith</summary>
 
 Agni, we know thy three powers in three stations, we know thy forms in many a place divided.  
      We know what name supreme thou hast in secret: we know the source from which thou hast proceeded.
 </details>
+
 <details><summary>Geldner</summary>
 
 Wir kennen deine dreimal dreierlei Formen, o Agni; wir kennen deine Formen, die vielerorts verteilt sind. Wir kennen deinen höchsten Namen, der geheim ist; wir kennen den Quell, von wannen du gekommen bist.
 </details>
+
 <details><summary>Grassmann</summary>
 
 Wir kennen Agni dreifach deine Dreiheit, wir kennen deine vielvertheilten Stätten, Und deinen höchsten Namen, den verborgnen; den Born auch kennen wir, von dem du ausgingst.
 </details>
+
 <details><summary>Elizarenkova</summary>
 
 Мы знаем, о Агни, твои трижды троякие (жилища).  
@@ -292,6 +304,7 @@ Wir kennen Agni dreifach deine Dreiheit, wir kennen deine vielvertheilten Stätt
 Мы знаем твое высшее имя, которое в тайне.  
 Мы знаем тот источник, откуда ты пришел.
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अग्निः
@@ -299,14 +312,17 @@ Wir kennen Agni dreifach deine Dreiheit, wir kennen deine vielvertheilten Stätt
 - निचृत्त्रिष्टुप्
 - धैवतः
 </details>
+
 <details><summary>ब्रह्ममुनि - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अग्ने) हे अग्नि ! (ते त्रेधा त्रयाणि विद्म) तेरे तीन प्रकार के तीन स्वरूपों को हम जानें (ते पुरुत्रा विभृता धाम विद्म) तेरे बहुत प्रकार से फैले हुए स्थानों को, खनिज वस्तुओं को जानें-जानते हैं (ते परमं नाम यत्-गुहा विद्म) तेरे अत्यन्त अभीष्ट प्रशंसनीय स्वरूप को जो विज्ञान क्रिया में है, उसे हम जानें (तम्-उत्सं यतः-आजगन्थ विद्म) उसस्रोत को भी हम जानें, जहाँ से तू उत्पन्न होता है ॥२॥
 </details>
+
 <details><summary>ब्रह्ममुनि - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य जैसे अन्य-अन्य विज्ञानों में कुशलता प्राप्त करता है, वैसे-वैसे उसे अग्निविज्ञान में भी कुशलता प्राप्त करनी चाहिए। अर्थात् अग्नि के भिन्न-भिन्न रूप और उसके भिन्न-भिन्न उत्पत्तिस्थान तथा खनिज पदार्थ जिनसे अग्नि उत्पन्न होती है, उन्हें भी जानना चाहिए ॥२॥
 </details>
+
 <details><summary>ब्रह्ममुनि - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अग्ने) हे अग्ने ! (ते त्रेधा त्रयाणि विद्म) तव त्रिविधानि त्रीणि स्वरूपाणि सम्यगुपयोगतो जानीयाम (ते पुरुत्रा विभृता धाम विद्म) तव बहुत्र विधृतानि धामानि स्थानानि खनिजानि वस्तूनि जानीयाम (ते परमं नाम यत् गुहा विद्म) तव परममभीष्टतमं नाम प्रशंसनीयं स्वरूपं यद् विज्ञानक्रियायां तज्जानीयाम “गुहा बुद्धौ विज्ञाने” [ऋ० १।६७।४ दयानन्दः] (तम्-उत्सं यतः-आजगन्थ विद्म) तमुत्स्यन्दयितारमाशयं जानीयाम यत आगच्छसि ॥२॥

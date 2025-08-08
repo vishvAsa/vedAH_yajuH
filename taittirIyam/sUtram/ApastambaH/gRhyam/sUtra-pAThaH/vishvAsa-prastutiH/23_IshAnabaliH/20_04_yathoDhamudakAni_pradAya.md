@@ -11,7 +11,6 @@ title = "२० ०४ यथोढमुदकानि प्रदाय"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/11_-30_upaspRshatu_mIDhvAnmIDhuShe.md">
 <details open><summary><h2>११ -३० उपस्पृशतु मीढ्वान्मीढुषे ...{Loading}...</h2></summary>
 
-
 उप॑स्पृशतु मी॒ढ्वान्, मी॒ढुषे॒ स्वाहा।  
 उप॑स्पृशतु मी॒ढुषी॑ मी॒ढुष्यै॒ स्वाहा॑ ।  
 ज॒य॒न्तोप॑स्पृश जय॒न्ताय॒+++(=स्कन्दाय)+++ स्वाहा॑ ।  
@@ -41,7 +40,6 @@ title = "२० ०४ यथोढमुदकानि प्रदाय"
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/31_agnaye_sviShTakRte.md">
 <details open><summary><h2>३१ अग्नये स्विष्टकृते ...{Loading}...</h2></summary>
-
 
 अ॒ग्नये॑ स्विष्ट॒कृते॒ सुहु॑तहुत॒ आहु॑तीनां॒ कामा॑नाँ समर्द्धयि॒त्रे स्वाहा॑ ।  
 

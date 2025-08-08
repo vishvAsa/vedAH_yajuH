@@ -11,8 +11,6 @@ title = "१९ ०७ नवानाँ स्थालीपाकँ"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/01_parameShThyasi_paramAm.md">
 <details open><summary><h2>०१ परमेष्ठ्यसि परमाम् ...{Loading}...</h2></summary>
 
-
-
 +++(अगारस्तूपे स्थितः)+++ प॒र॒मे॒ष्ठ्य् असि॑।  
 पर॒मां माँ॒ श्रियं॑ गमय ।  
 

@@ -15,6 +15,7 @@ title = "०२ अनृक्षरा ऋजवस्सन्तु"
 - ऋषिः - सावित्री सूर्या ऋषिका
 - छन्दः - त्रिष्टुप्
 </details>
+
 <details><summary>Thomson & Solcum</summary>
 
 अनृक्षरा᳓ ऋज᳓वः सन्तु प᳓न्था  
@@ -22,6 +23,7 @@ title = "०२ अनृक्षरा ऋजवस्सन्तु"
 स᳓म् अर्यमा᳓ स᳓म् भ᳓गो नो निनीयात्  
 सं᳓ जास्पत्यं᳓ सुय᳓मम् अस्तु देवाः
 </details>
+
 <details><summary>Vedaweb annotation</summary>
 
 _________
@@ -97,11 +99,13 @@ suyámam ← suyáma- (nominal stem)
 {case:NOM, gender:N, number:SG}
 
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 अ॒नृ॒क्ष॒राः । ऋ॒जवः॑ । स॒न्तु॒ । पन्थाः॑ । येभिः॑ । सखा॑यः । यन्ति॑ । नः॒ । व॒रे॒ऽयम् ।  
 सम् । अ॒र्य॒मा । सम् । भगः॑ । नः॒ । नि॒नी॒या॒त् । सम् । जाः॒ऽप॒त्यम् । सु॒ऽयम॑म् । अ॒स्तु॒ । दे॒वाः॒ ॥
 </details>
+
 <details><summary>Hellwig Grammar</summary>
 
 -   *anṛkṣarā* ← *anṛkṣarāḥ* ← *anṛkṣara*
@@ -227,14 +231,17 @@ _________
 _________
 
 </details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे देवाः **पन्थाः** पन्थानो मार्गाः अनृक्षराः । ऋक्षरः कण्टक उच्यते । कण्टकरहिताः **ऋजवः** अकुटिलाश्च **सन्तु** **येभिः** यैः पथिभिः **नः** अस्माकं **सखायः** वरप्रेषिताः **वरेयं** वरैर्याचितव्यं पितरं प्रति **यन्ति** गच्छन्ति ते पन्था इति । किंच **अर्यमा** देवः **नः** अस्मान् **सं** **निनीयात्** सम्यक् प्रापयेत् । तथा भगः देवः **सं** निनीयात् । हे **देवाः** आसंगतमस्तु पतिकुलमिति शेषः । तथेदं **जास्पत्यं** जायापत्योर्युगलं **सुयममस्तु** सुमिथुनमस्तु ॥
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 अनृक्षरा ऋजव अनृक्षरा इति ॥ कन्यागृहं गच्छताम्, एतेषां पन्थाः पन्थानः, अनृक्षराः कंटकशर्करादिरहिताः, ऋजवश्च सन्तु, येभिः यैः पथिभिः, नः अस्माकं, सखायः सुहृदः, इमे यन्ति गच्छन्ति, वरेयं वरणीयं कन्यायाः पित्रादिकं प्रति । नः आवां च, अर्यमा भगश्च, सम् निनीयात् सन्नयतु सङ्गमयतु । आवयोश्च जास्पत्यं जायापतिभावः सम्यक् सुयममस्तु सुसम्बद्धमस्तु, हे देवाः ॥
 </details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -242,25 +249,30 @@ _________
 
 “Smooth and straight be the paths by which our friends repair to the bride's father; may **Aryaman**, may Bhaga conduct us, and may the union of the wife and husband be easily accomplished, O gods.”
 </details>
+
 <details><summary>Jamison Brereton</summary>
 
 Let the paths be straight and harmless to men, by which the comrades  go to the wooing.  
 Aryaman and Bhaga should lead us all together. Let the united  
 household be easy to hold fast, o gods.
 </details>
+
 <details><summary>Griffith</summary>
 
 Straight in direction be the path:s, and thornless, whereon our fellows travel to the wooing.  
      Let Aryaman and Bhaga lead us: perfect, O Gods, the union of the wife and husband.
 </details>
+
 <details><summary>Geldner</summary>
 
 Dornenlos, richtig sollen die Wege sein, auf denen unsere Freunde auf die Werbung ausziehen. Aryaman und Bhaga sollen uns zusammenführen. Gemeinsam soll uns ein leicht zu führendes Hausregiment sein, o Götter!
 </details>
+
 <details><summary>Grassmann</summary>
 
 Dornenlos und gerade seien die Pfade, auf denen unsere Freunde zur Vermählung gehen; Arjaman und Bhaga möge uns insgesammt leiten, leicht zu verwalten sei der Hausstand.
 </details>
+
 <details><summary>Elizarenkova</summary>
 
 Да будут прямыми (и) без шипов пути,  
@@ -268,6 +280,7 @@ Dornenlos und gerade seien die Pfade, auf denen unsere Freunde zur Vermählung g
 Пусть Арьяман, пусть Бхага сведут нас вместе!  
 Пусть будет легко править совместно домом и домочадцами, о боги!
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - नृर्णा विवाहमन्त्रा आशीः प्रायाः
@@ -275,14 +288,17 @@ Dornenlos und gerade seien die Pfade, auf denen unsere Freunde zur Vermählung g
 - त्रिष्टुप्
 - धैवतः
 </details>
+
 <details><summary>ब्रह्ममुनि - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (देवाः) हे विद्वानों ! (पन्थाः) तुम्हारे बताए मार्ग (अनृक्षराः)कण्टकरहित-बाधारहित (ऋजवः) सरल (सन्तु)हों (येभिः) जिन मार्गों से (नः) हमारे (वरेयं सखायः) यह मेरा वर और उसके सहायक मित्रसम्बन्धी जन (यन्ति) जाते हैं और (नः) हमारा (अर्यमा) आशीर्वाद देनेवाला वृद्धजन (सं निनीयात्) सम्यक् ले जाये (भगः) भाग्यविधाता पुरोहित (सम्)सम्यक् लेजाये (जास्पत्यम्) जायापतिकर्म-सन्तानोत्पादन (संसुयमम्) सम्यक् सुनियन्त्रित (अस्तु) होवे ॥२३॥
 </details>
+
 <details><summary>ब्रह्ममुनि - भावार्थः</summary>
 
 भावार्थभाषाः -  विद्वान् जन वर वधू को गृहस्थ का ऐसा मार्ग सुझावें, जो बाधा से रहित हो तथा जिससे वर और उसके पारिवारिक जन ठीक चलें। वृद्धजन पुरोहित आशीर्वाद देवें कि सन्तानोत्पत्ति अच्छी हो ॥२३॥
 </details>
+
 <details><summary>ब्रह्ममुनि - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (देवाः) हे विद्वांसः ! (पन्थाः) पन्थानो मार्गाः (अनृक्षराः-ऋजवः सन्तु) कण्टकरहिता बाधारहिताः “अनृक्षरा ऋक्षरः कण्टकः” [निरु० ९।३०] सरलाः सन्तु (येभिः-नः-वरेयं सखायः-यन्ति) यैर्मार्गैरस्माकमयं वरस्तत्सहायकाः सखायः सम्बन्धिनो गच्छन्ति (नः-अर्यमा सन्निनीयात्-भगः सम्) अस्माकं वृद्धजनो य आशीर्वादं ददाति “अर्यमेति तमाहुर्यो ददाति” [तै० १।१।२।४] सम्यग्नयेत्-भगो भाग्यविधाता पुरोहितो यः सम्यग्नयेत् (जास्पत्यं संसुयमम्-अस्तु) जायापतिकर्म सन्तानोत्पादनं सम्यक् सुनियन्त्रितं भवतु ॥२३॥

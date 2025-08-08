@@ -9,7 +9,6 @@ title = "२१ ०९ भुक्तवतोऽनुव्रज्य"
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/02-04_mArjayantAm_mama_pitaraH.md">
 <details open><summary><h2>०२-०७ मार्जयन्ताम् मम ...{Loading}...</h2></summary>
 
-
 मा॒र्जय॑न्तां॒ मम॑ पि॒तरो॑, मा॒र्जय॑न्तां॒ मम॑ पिताम॒हा मा॒र्जय॑न्तां॒ मम॑ प्रपिताम॒हाः ।  
 
 </details>
@@ -17,19 +16,16 @@ title = "२१ ०९ भुक्तवतोऽनुव्रज्य"
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/05-07_mArjayantAm_mama_mAtaraH.md">
 <details open><summary><h2>०२-०७ मार्जयन्ताम् मम ...{Loading}...</h2></summary>
 
-
 मा॒र्जय॑न्तां॒ मम॑ मा॒तरो॑, मा॒र्जय॑न्तां॒ मम॑ पिताम॒ह्यो॑, मा॒र्जय॑न्तां॒ मम॑ प्रपिताम॒ह्यः॑ ।  
 
 </details>
 </div>
-
 
 ### उत्तरैर्दक्षिणापवर्गान् पिण्डान्दत्वा  
 उत्तरैर् दक्षिणापवर्गान् पिण्डान्दत्त्वा  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/08-19_etatte_tatAsau.md">
 <details open><summary><h2>०८-१९ एतत्ते ततासौ ...{Loading}...</h2></summary>
-
 
 ए॒तत्ते॑ तताऽसौ॒+++(←नामनिर्देशः)+++, ये च॒ त्वाम् अनु॑ +++(जीवन्ति)+++।  
 ए॒तत्ते॑ पितामहाऽसौ॒+++(←नामनिर्देशः)+++, ये च॒ त्वाम् अनु॑ +++(जीवन्ति)+++।  
@@ -41,14 +37,12 @@ title = "२१ ०९ भुक्तवतोऽनुव्रज्य"
 </details>
 </div>
 
-
 ### उत्तरैरुपस्थानम्  
 पूर्ववदुत्तरैरपो दत्त्वा  
 उत्तरैरुपस्थाय  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/20_-26_ye_cha.md">
 <details open><summary><h2>२० -२६ ये च ...{Loading}...</h2></summary>
-
 
 ये च॒ वो +++(पितरः)+++ ऽत्र॒, ये चा॒स्मास्व् आशँ॑सन्ते॒+++(→प्रार्थयन्ते स्वधाम्)+++  
 याश् च॒ वो ऽत्र॒ याश् चा॒स्मास्व् आशँ॑सन्ते॒,  
@@ -67,7 +61,6 @@ title = "२१ ०९ भुक्तवतोऽनुव्रज्य"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/27_-28_putrAnpautrAnabhi_tarpayantIrApo.md">
 <details open><summary><h2>२७ -२८ पुत्रान्पौत्रानभि तर्पयन्तीरापो ...{Loading}...</h2></summary>
 
-
 पु॒त्रान् पौत्रा॑न् अ॒भि त॒र्पय॑न्ती॒र् आपो॒ मधु॑मतीर् इ॒माः  
 स्व॒धां +++(मातृसहित)+++पि॒तृभ्यो॑ अ॒मृतं॒ दुहा॑ना॒ आपो॑ दे॒वीर् उ॒भयाँ॑स् तर्पयन्तु ।  
 तृप्य॑त॒ तृप्य॑त॒ तृप्य॑त ।  
@@ -85,7 +78,6 @@ title = "२१ ०९ भुक्तवतोऽनुव्रज्य"
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/29_prANe_niviShTo-mRtam.md">
 <details open><summary><h2>२९ प्राणे निविष्टोऽमृतम् ...{Loading}...</h2></summary>
-
 
 प्रा॒णे निवि॑ष्टो॒ ऽमृतं॑+++(→अमरणहेतुमन्नं)+++ जुहोमि॒, ब्रह्म॑णि म आ॒त्माऽमृ॑त॒त्वाय॑ ।  
 

@@ -7,7 +7,6 @@ title = "१९ ०९ उत्तरेण यजुषा"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/02_pratyavarUDho_no.md">
 <details open><summary><h2>०२ प्रत्यवरूढो नो ...{Loading}...</h2></summary>
 
-
 प्र॒त्यव॑रूढो नो हेम॒न्तः ।  
 
 </details>
@@ -19,7 +18,6 @@ title = "१९ ०९ उत्तरेण यजुषा"
 +++(नवस्वस्तरे संविशन् )+++  
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/03-07_pratixatre_pratitiShThAmi.md">
 <details open><summary><h2>०३-०७ प्रतिक्षत्रे प्रतितिष्ठामि ...{Loading}...</h2></summary>
-
 
 प्रति॑ क्ष॒त्रे, प्रति॑तिष्ठामि रा॒ष्ट्रे ।  
 प्रत्य् अश्वे॑षु॒, प्रति॑तिष्ठामि॒ गोषु॑ ।  

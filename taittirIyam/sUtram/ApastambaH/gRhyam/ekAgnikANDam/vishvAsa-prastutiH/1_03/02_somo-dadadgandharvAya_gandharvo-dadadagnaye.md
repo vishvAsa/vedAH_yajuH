@@ -6,10 +6,9 @@ title = "०२ सोमोऽददद्गन्धर्वाय गन्
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/41_somo_dadadgandharvAya.md">
 <details open><summary><h2>४१ सोमो ददद्गन्धर्वाय ...{Loading}...</h2></summary>
 
-सोमो॑ऽददद् गन्ध॒र्वाय॑  
-गन्ध॒र्वो ऽद॑दद् अ॒ग्नये॑ ।  
-र॒यिञ् च॑ पु॒त्राँश् चा॑दाद्  
-अ॒ग्निर् मह्य॒म् अथो॑ इ॒माम् ।  
-
+सो᳓मो ददद् गन्धर्वा᳓य  
+गन्धर्वो᳓ ददद् अग्न᳓ये  
+रयिं᳓ च पुत्रां᳓श् च अदाद्  
+अग्नि᳓र् म᳓ह्यम् अ᳓थो इमा᳓म्
 </details>
 </div>

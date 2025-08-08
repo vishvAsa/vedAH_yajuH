@@ -9,6 +9,7 @@ Let the god Savitr purify you,
 with a filter that has no flaw,  
 with the rays of the bright sun.
 </details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वो व॑स्सवि॒तोत्पु॑ना॒त्वच्छि॑द्रेण प॒वित्रे॑ण ।   
@@ -20,11 +21,9 @@ with the rays of the bright sun.
 दे॒वः । वः॒ । स॒वि॒ता । उदिति॑ । पु॒ना॒तु॒ । अच्छि॑द्रेण । प॒वित्रे॑ण । वसोः॑ । सूर्य॑स्य । र॒श्मिभि॒रिति॑ र॒श्मि-भिः॒ ।
 </details>
 
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हे आपः **देवस्सविता** सर्वस्य प्रेरकः, **वः** युष्मान् **उत्पुनातु** ऊर्ध्वं शोधयतु । 
-
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/bhaTTa-bhAskara-TIkA/1/1_darshapUrNamAsAdiH/05_haviHproxaNAdiH/achChidreNa.md">
 <details open><summary><h5>अच्छिद्रेण ...{Loading}...</h5></summary>

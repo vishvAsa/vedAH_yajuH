@@ -9,7 +9,6 @@ title = "२० -२५ हेतयो नामस्थ"
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/tebhyo_vo_namaH.md">
 <details open><summary><h5>Tebhyo vo nama H ...{Loading}...</h5></summary>
 
-
 तेभ्यो॑ वो॒ नम॒स्, ते नो॑ मृडयत।
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/te_yaM_dviShmaH.md">
@@ -20,14 +19,17 @@ title = "२० -२५ हेतयो नामस्थ"
 यश्च॑ नो॒ **द्वेष्टि॒**  
 तव्ँ वो॒ **जम्भे॑ दधामि** ॥
 </details>
+
 <details><summary>Keith</summary>
 
 him whom we hate and him who hateth us, I place him within your jaws.
 </details>
+
 <details><summary>मूलम्</summary>
 
 ते यन्द्वि॒ष्मो यश्च॑ नो॒ द्वेष्टि॒ तव्ँवो॒ जम्भे॑ दधामि
 </details>
+
 <details><summary>सायण-टीका</summary>
 
 ते च वयं नगस्कृतरुद्राः सन्तो यं वैरिणं तूष्णीमवस्थितमपि द्विष्मः, यश्च वैरी नोऽस्मांस्तुष्णीमवस्थितानपि द्वेष्टि तमुभयविधं वैरिणं हे रुद्रा वो युष्माकं जम्मे विदारितास्ये दधामि स्थापयामि।
@@ -37,12 +39,9 @@ him whom we hate and him who hateth us, I place him within your jaws.
 </details>
 </div>  
 
-
-
 नि॒लि॒म्पा नाम॑ स्थ॒, तेषां॑ वो दक्षि॒णा गृ॒हा, पि॒तरो॑ व॒ इष॑वः॒, सग॑रो वात-ना॒मम्।  
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/tebhyo_vo_namaH.md">
 <details open><summary><h5>Tebhyo vo nama H ...{Loading}...</h5></summary>
-
 
 तेभ्यो॑ वो॒ नम॒स्, ते नो॑ मृडयत।
 
@@ -54,14 +53,17 @@ him whom we hate and him who hateth us, I place him within your jaws.
 यश्च॑ नो॒ **द्वेष्टि॒**  
 तव्ँ वो॒ **जम्भे॑ दधामि** ॥
 </details>
+
 <details><summary>Keith</summary>
 
 him whom we hate and him who hateth us, I place him within your jaws.
 </details>
+
 <details><summary>मूलम्</summary>
 
 ते यन्द्वि॒ष्मो यश्च॑ नो॒ द्वेष्टि॒ तव्ँवो॒ जम्भे॑ दधामि
 </details>
+
 <details><summary>सायण-टीका</summary>
 
 ते च वयं नगस्कृतरुद्राः सन्तो यं वैरिणं तूष्णीमवस्थितमपि द्विष्मः, यश्च वैरी नोऽस्मांस्तुष्णीमवस्थितानपि द्वेष्टि तमुभयविधं वैरिणं हे रुद्रा वो युष्माकं जम्मे विदारितास्ये दधामि स्थापयामि।
@@ -75,7 +77,6 @@ him whom we hate and him who hateth us, I place him within your jaws.
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/tebhyo_vo_namaH.md">
 <details open><summary><h5>Tebhyo vo nama H ...{Loading}...</h5></summary>
 
-
 तेभ्यो॑ वो॒ नम॒स्, ते नो॑ मृडयत।
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/te_yaM_dviShmaH.md">
@@ -86,14 +87,17 @@ him whom we hate and him who hateth us, I place him within your jaws.
 यश्च॑ नो॒ **द्वेष्टि॒**  
 तव्ँ वो॒ **जम्भे॑ दधामि** ॥
 </details>
+
 <details><summary>Keith</summary>
 
 him whom we hate and him who hateth us, I place him within your jaws.
 </details>
+
 <details><summary>मूलम्</summary>
 
 ते यन्द्वि॒ष्मो यश्च॑ नो॒ द्वेष्टि॒ तव्ँवो॒ जम्भे॑ दधामि
 </details>
+
 <details><summary>सायण-टीका</summary>
 
 ते च वयं नगस्कृतरुद्राः सन्तो यं वैरिणं तूष्णीमवस्थितमपि द्विष्मः, यश्च वैरी नोऽस्मांस्तुष्णीमवस्थितानपि द्वेष्टि तमुभयविधं वैरिणं हे रुद्रा वो युष्माकं जम्मे विदारितास्ये दधामि स्थापयामि।
@@ -108,7 +112,6 @@ him whom we hate and him who hateth us, I place him within your jaws.
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/tebhyo_vo_namaH.md">
 <details open><summary><h5>Tebhyo vo nama H ...{Loading}...</h5></summary>
 
-
 तेभ्यो॑ वो॒ नम॒स्, ते नो॑ मृडयत।
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/te_yaM_dviShmaH.md">
@@ -119,14 +122,17 @@ him whom we hate and him who hateth us, I place him within your jaws.
 यश्च॑ नो॒ **द्वेष्टि॒**  
 तव्ँ वो॒ **जम्भे॑ दधामि** ॥
 </details>
+
 <details><summary>Keith</summary>
 
 him whom we hate and him who hateth us, I place him within your jaws.
 </details>
+
 <details><summary>मूलम्</summary>
 
 ते यन्द्वि॒ष्मो यश्च॑ नो॒ द्वेष्टि॒ तव्ँवो॒ जम्भे॑ दधामि
 </details>
+
 <details><summary>सायण-टीका</summary>
 
 ते च वयं नगस्कृतरुद्राः सन्तो यं वैरिणं तूष्णीमवस्थितमपि द्विष्मः, यश्च वैरी नोऽस्मांस्तुष्णीमवस्थितानपि द्वेष्टि तमुभयविधं वैरिणं हे रुद्रा वो युष्माकं जम्मे विदारितास्ये दधामि स्थापयामि।
@@ -140,7 +146,6 @@ him whom we hate and him who hateth us, I place him within your jaws.
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/tebhyo_vo_namaH.md">
 <details open><summary><h5>Tebhyo vo nama H ...{Loading}...</h5></summary>
 
-
 तेभ्यो॑ वो॒ नम॒स्, ते नो॑ मृडयत।
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/te_yaM_dviShmaH.md">
@@ -151,14 +156,17 @@ him whom we hate and him who hateth us, I place him within your jaws.
 यश्च॑ नो॒ **द्वेष्टि॒**  
 तव्ँ वो॒ **जम्भे॑ दधामि** ॥
 </details>
+
 <details><summary>Keith</summary>
 
 him whom we hate and him who hateth us, I place him within your jaws.
 </details>
+
 <details><summary>मूलम्</summary>
 
 ते यन्द्वि॒ष्मो यश्च॑ नो॒ द्वेष्टि॒ तव्ँवो॒ जम्भे॑ दधामि
 </details>
+
 <details><summary>सायण-टीका</summary>
 
 ते च वयं नगस्कृतरुद्राः सन्तो यं वैरिणं तूष्णीमवस्थितमपि द्विष्मः, यश्च वैरी नोऽस्मांस्तुष्णीमवस्थितानपि द्वेष्टि तमुभयविधं वैरिणं हे रुद्रा वो युष्माकं जम्मे विदारितास्ये दधामि स्थापयामि।
@@ -173,7 +181,6 @@ him whom we hate and him who hateth us, I place him within your jaws.
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/tebhyo_vo_namaH.md">
 <details open><summary><h5>Tebhyo vo nama H ...{Loading}...</h5></summary>
 
-
 तेभ्यो॑ वो॒ नम॒स्, ते नो॑ मृडयत।
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/te_yaM_dviShmaH.md">
@@ -184,14 +191,17 @@ him whom we hate and him who hateth us, I place him within your jaws.
 यश्च॑ नो॒ **द्वेष्टि॒**  
 तव्ँ वो॒ **जम्भे॑ दधामि** ॥
 </details>
+
 <details><summary>Keith</summary>
 
 him whom we hate and him who hateth us, I place him within your jaws.
 </details>
+
 <details><summary>मूलम्</summary>
 
 ते यन्द्वि॒ष्मो यश्च॑ नो॒ द्वेष्टि॒ तव्ँवो॒ जम्भे॑ दधामि
 </details>
+
 <details><summary>सायण-टीका</summary>
 
 ते च वयं नगस्कृतरुद्राः सन्तो यं वैरिणं तूष्णीमवस्थितमपि द्विष्मः, यश्च वैरी नोऽस्मांस्तुष्णीमवस्थितानपि द्वेष्टि तमुभयविधं वैरिणं हे रुद्रा वो युष्माकं जम्मे विदारितास्ये दधामि स्थापयामि।

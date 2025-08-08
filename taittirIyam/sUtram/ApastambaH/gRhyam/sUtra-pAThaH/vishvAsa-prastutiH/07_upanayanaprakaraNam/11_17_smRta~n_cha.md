@@ -7,7 +7,6 @@ title = "११ १७ स्मृतञ् च"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/02-10_smRtancha_me.md">
 <details open><summary><h2>०२-१० स्मृतञ्च मे ...{Loading}...</h2></summary>
 
-
 स्मृ॒तञ् च॒ मे, ऽस्मृ॑तञ्च मे॒ - तन् म॑ उ॒भयं॑ व्र॒तं,  
 नि॒न्दा च॒ मे ऽनि॑न्दा च मे॒ - तन् म॑ उ॒भयं॑ व्र॒तँ,  
 श्र॒द्धा च॒ मे ऽश्र॑द्धा च मे॒ - तन् म॑ उ॒भयं॑ व्र॒तं,  
@@ -25,7 +24,6 @@ title = "११ १७ स्मृतञ् च"
 </details>
 </div>
 
-
 ## वरदानम्
 गुरवे वरं +++(अग्न्याधाने "गौर्वै वरः"(आप.श्रौ.४११४))+++ दत्त्वा  
 
@@ -37,7 +35,6 @@ title = "११ १७ स्मृतञ् च"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/11_udAyuShA_svAyuShodoShadhInAm.md">
 <details open><summary><h2>११ उदायुषा स्वायुषोदोषधीनाम् ...{Loading}...</h2></summary>
 
-
 उद् आयु॑षा स्वा॒युषा,  
 +उद् ओष॑धीनाँ॒ रसे॑न॒+,  
 +उत् प॒र्जन्य॑स्य॒ शुष्मे॑ण+++(=बलेन)++++  
@@ -47,18 +44,13 @@ title = "११ १७ स्मृतञ् च"
 </details>
 </div>
 
-
 ## आदित्योपस्थानम्
 उत्तरैर् +++("तच्चक्षुर्देव हितम्")+++ आदित्यम् उपतिष्ठते १७  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/12_tachchaxurdevahitam_purastAchChukramuchcharat.md">
 <details open><summary><h2>१२ तच्चक्षुर्देवहितम् पुरस्ताच्छुक्रमुच्चरत् ...{Loading}...</h2></summary>
 
-
-+++(सूर्यस्)+++ तच् चक्षु॑र् दे॒व+++(नि)+++हि॑तं पु॒रस्ता॑च् छु॒क्र+++(द्ध)+++म् उ॒च्चर॑त् ।  
-
-
-
++++(सूर्यस्)+++ तच् चक्षु॑र् दे॒व+++(नि)+++हि॑तं पु॒रस्ता॑च् छु॒क्र+++(द्ध)+++म् उ॒च्चर॑त् -  
 पश्ये॑म श॒रद॑श् श॒तं  
 जीवे॑म श॒रद॑श् श॒तं  
 नन्दा॑म श॒रद॑श् श॒तं  

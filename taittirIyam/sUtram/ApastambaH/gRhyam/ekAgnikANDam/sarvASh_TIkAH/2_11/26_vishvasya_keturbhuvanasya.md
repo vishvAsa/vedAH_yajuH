@@ -15,6 +15,7 @@ title = "२६ विश्वस्य केतुर्भुवनस्य
 - ऋषिः - वत्सप्रिः
 - छन्दः - त्रिष्टुप्
 </details>
+
 <details><summary>Thomson & Solcum</summary>
 
 वि᳓श्वस्य केतु᳓र् भु᳓वनस्य ग᳓र्भ  
@@ -22,6 +23,7 @@ title = "२६ विश्वस्य केतुर्भुवनस्य
 वीळुं᳓ चिद् अ᳓द्रिम् अभिनत् पराय᳓ञ्  
 ज᳓ना य᳓द् अग्नि᳓म् अ᳓यजन्त प᳓ञ्च
 </details>
+
 <details><summary>Vedaweb annotation</summary>
 
 _________
@@ -91,11 +93,13 @@ yát ← yá- (pronoun)
 {case:NOM, gender:N, number:SG}
 
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 विश्व॑स्य । के॒तुः । भुव॑नस्य । गर्भः॑ । आ । रोद॑सी॒ इति॑ । अ॒पृ॒णा॒त् । जाय॑मानः ।  
 वी॒ळुम् । चि॒त् । अद्रि॑म् । अ॒भि॒न॒त् । प॒रा॒ऽयन् । जनाः॑ । यत् । अ॒ग्निम् । अय॑जन्त । पञ्च॑ ॥
 </details>
+
 <details><summary>Hellwig Grammar</summary>
 
 -   *viśvasya* ← *viśva*
@@ -220,14 +224,17 @@ _________
 _________
 
 </details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **विश्वस्य** सर्वस्य **केतुः** प्रज्ञापकः **भुवनस्य** उदकस्य **गर्भः** गर्भभूतोऽग्निः **जायमानः** प्रादुर्भवन्नेव **रोदसी** द्यावापृथिव्यौ **आ** **अपृणात्** आपूरयति । **परायन्** परागच्छन् **वीळुं** **चित्** दृढमपि **अद्रिं** मेघम् **अभिनत्** भिनत्ति च । कदेत्यत्राह । **यत्** यदा **पञ्च** **जनाः** मनुष्याः **अग्निमयजन्त** यजन्ते ॥ ॥ २८ ॥
-</details>
+᳓</details>
+
 <details><summary>हरदत्तः</summary>
 
 विश्वस्येति ॥ विश्वस्य केतुः सर्वस्य ज्ञाता भुवनस्य भूत जातस्य गर्भः वैश्वानरात्मना । एवम्भूतोऽग्निः जायमान एव रोदसी आऽपृणात् आपूरयति स्वेन तेजसा । किञ्च - वीडुं चित् वीडुरिति दृढनाम, दृढमपि अद्रिं मेघं पर्वतं वा अभिनत् भिनत्ति परायन् परागच्छन् यत् यदा अग्निं एनं पञ्च जनाः निषादपञ्चमाश्चत्वारो वर्णाः अयजन्त यजन्ते तदा हविर्गृहीत्वा प्रतिगच्छन् पर्वतादिकमपि भित्त्वा गच्छतीत्यर्थः ॥
-</details>
+᳓</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -240,23 +247,28 @@ _________
 
 Five classes: pañcajanāḥ = five men; or, the four chief priests and the **yajamāna**
 </details>
+
 <details><summary>Jamison Brereton</summary>
 
 Beacon of all creation, the embryo filled both world-halves while he was  being born. He split even the solid rock in leaving it, when the five peoples sacrificed  to Agni.
 </details>
+
 <details><summary>Griffith</summary>
 
 Germ of the world, ensign of all creation, be sprang to life and filled the earth and heavens.  
      Even the firm rock he cleft when passing over, when the Five Tribes brought sacrifice to Agni.
 </details>
+
 <details><summary>Geldner</summary>
 
 Das Banner des Alls, das Kind der Welt hat er bei seiner Geburt Himmel und Erde erfüllt. Er spaltete sogar den festen Fels in die Ferne ziehend, als die fünf Völker den Agni anbeteten.
 </details>
+
 <details><summary>Grassmann</summary>
 
 Als Spross des Weltalls, aller Wesen Leuchte, erfüllte Erd' und Himmel der geborne, Den festen Fels auch brach er, als er hinging, als die fünf Stämme huldigten dem Agni.
 </details>
+
 <details><summary>Elizarenkova</summary>
 
 Знамя всего, зародыш вселенной,  
@@ -264,6 +276,7 @@ Als Spross des Weltalls, aller Wesen Leuchte, erfüllte Erd' und Himmel der gebo
 Даже твердую скалу расколол он, уходя вдаль,  
 Когда пять народов почтили Агни.
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अग्निः
@@ -271,14 +284,17 @@ Als Spross des Weltalls, aller Wesen Leuchte, erfüllte Erd' und Himmel der gebo
 - त्रिष्टुप्
 - धैवतः
 </details>
+
 <details><summary>ब्रह्ममुनि - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (विश्वस्य केतुः) संसार का प्रकाशक, प्रेरक, संचालक (भुवनस्य गर्भः) प्राणिमात्र का ग्रहण करनेवाला-स्वीकार करनेवाला (जायमानः-रोदसी-अपृणात्) उदय होता हुआ द्युलोक और पृथ्वीलोक को अपने प्रकाश से भर देता है-छिन्न-भिन्न कर देता है (परायन् वीळुं चित्-अद्रिम्-अभिनत्) बलवान्मेघ को भी पराक्रम से तोड़ देता है-छिन्न-भिन्न कर देता है (यत्-पञ्च जनाः-अग्निम्-अयजन्त) ब्राह्मण, क्षत्रिय, वैश्य, शूद्र, निषाद नामक पाँचों जन जब अग्निहोत्र में अग्नि का यजन करते हैं, उस समय ॥६॥
 </details>
+
 <details><summary>ब्रह्ममुनि - भावार्थः</summary>
 
 भावार्थभाषाः -  सूर्य संसार में प्रगति देनेवाला है, आकाश और पृथ्वी के मध्य में अपने प्रकाश को भर देता है। मनुष्यमात्र जब सामूहिकरूप से यजन करते हैं और यज्ञ में मेघ बनते हैं, उन मेघों को पृथ्वी पर बरसा देनेवाला सूर्य है। वह मेघों को छिन्न-भिन्न कर पृथ्वी पर बरसा देता है, जो प्राणियों के पोषण का निमित्त बनता है ॥६॥
 </details>
+
 <details><summary>ब्रह्ममुनि - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (विश्वस्य केतुः) संसारस्य प्रद्योतयिता प्रेरयिता चालयिता (भुवनस्य गर्भः) भूतजातस्य प्राणिमात्रस्य ग्रहणकर्त्ता स्वीकर्त्ता (जायमानः-रोदसी-अपृणात्) उदयन् द्यावापृथिव्यौ स्वप्रकाशेन पूरयति (परायन् वीळुं चित्-अद्रिम्-अभिनत्) बलवन्तमपि मेघम् “अद्रिर्मेघनाम” [निघ० १।१०] पराक्रमं कुर्वन् भिनत्ति (यत् पञ्च जनाः-अग्निम्-अयजन्त) ब्राह्मणक्षत्रियवैश्यशूद्रनिषादाः यदाऽग्निहोत्रेऽग्निं यजन्ति-अग्निहोत्रं कुर्वन्ति तदा “पञ्चजना………चत्वारो वर्णा निषादः पञ्चमः [निरु० ३।८] ॥६॥

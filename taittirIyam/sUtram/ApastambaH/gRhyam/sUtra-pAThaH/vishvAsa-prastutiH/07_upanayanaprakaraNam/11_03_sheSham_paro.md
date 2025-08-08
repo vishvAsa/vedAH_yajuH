@@ -7,7 +7,6 @@ title = "११ ०३ शेषम् परो"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/28_eSha_te.md">
 <details open><summary><h2>२८ एष ते ...{Loading}...</h2></summary>
 
-
 +++(आचार्यः-)+++ ए॒ष ते॑ देव सूर्य ब्रह्मचा॒री।  
 तं गो॑पाय, स॒ मा मृ॑त।  
 ए॒ष ते॑ सूर्य पु॒त्रस्, स दी॑र्घा॒युस्, स॒ मा मृ॑त ।  

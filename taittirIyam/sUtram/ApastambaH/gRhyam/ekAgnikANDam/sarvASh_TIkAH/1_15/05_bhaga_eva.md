@@ -15,6 +15,7 @@ title = "०५ भग एव"
 - ऋषिः - वसिष्ठः
 - छन्दः - त्रिष्टुप्
 </details>
+
 <details><summary>Thomson & Solcum</summary>
 
 भ᳓ग एव᳓ भ᳓गवाँ अस्तु देवास्  
@@ -22,6 +23,7 @@ title = "०५ भग एव"
 तं᳓ त्वा भग स᳓र्व इ᳓ज् जोहवीति  
 स᳓ नो भग पुरएता᳓ भवेह᳓
 </details>
+
 <details><summary>Vedaweb annotation</summary>
 
 _________
@@ -100,11 +102,13 @@ sá ← sá- ~ tá- (pronoun)
 {case:NOM, gender:M, number:SG}
 
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 भगः॑ । ए॒व । भग॑ऽवान् । अ॒स्तु॒ । दे॒वाः॒ । तेन॑ । व॒यम् । भग॑ऽवन्तः । स्या॒म॒ ।  
 तम् । त्वा॒ । भ॒ग॒ । सर्वः॑ । इत् । जो॒ह॒वी॒ति॒ । सः । नः॒ । भ॒ग॒ । पु॒रः॒ऽए॒ता । भ॒व॒ । इ॒ह ॥
 </details>
+
 <details><summary>Hellwig Grammar</summary>
 
 -   *bhaga* ← *bhagaḥ* ← *bhaga*
@@ -254,6 +258,7 @@ _________
 _________
 
 </details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे देवाः **भगः** देवः **एव** **भगवान्** धनवान् **अस्तु** । **तेन** भगेन देवेन धनेन वा **वयं** **भगवन्तः** **स्याम** धनवन्तो भवेम । हे **भग** **तं** प्रसिद्धं **त्वा** त्वां **सर्व** **इत्** सर्व एव जनः **जोहवीति** भृशं पुनःपुनर्वाह्वयति । हे **भग** देव **सः** त्वम् **इह** अस्मिन् यज्ञे **नः** अस्माकं **पुरएता** पुरोगन्ता **भव** ॥
@@ -261,14 +266,17 @@ _________________
 हे देवाः भगाख्यो देव एव मगवानस्तु तेन देवेन भगवन्तः सौभाग्यवन्तः स्याम । हे भगाख्य देव तं तादृशं त्वां सर्वइत् सर्व एव लोकः जोहवीमि आह्वयतीत्यर्थः । हे भगदेव स त्वमिह अस्मिन् कर्मणि नोऽस्माकं पुर एता पुरतो गन्ता भव ॥
 
 </details>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 21अथ हविषः पुरोनुवाक्यामाह ।
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 भग एवेति ॥ हे **देवाः** । देवः **भगः** सः स्वयं भग **एव** सन् **भगवान् अस्तु** भगेन देवेन तद्वान् अस्तु एवं नाम तद्वत्त्वं श्लाघनीयमित्यर्थः । **तेन** भगेन **वयं भगवन्तस्स्याम** । हे भग । य एवम्भूतोसि **तं त्वा** त्वां **सर्व इत्** सर्वं एव जनो **जोहवीमि**, पुरुषव्यत्ययः । जोहवीति । बह्वृचाः तथौवाधीयते । हे भग । स त्वं नः अस्माकं पुरएता नेता भव इह कर्मणि ॥
 </details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -281,17 +289,18 @@ _________
 
 Bhaga:Bhaga eva **bhagavān** **astu** dhanavān, having wealth; **pura** eta = **puro** ganta, one who goes before; may mean,**purohita**, or family priest
 </details>
+
 <details><summary>Jamison Brereton</summary>
 
 Let Bhaga himself be possessed of portion, o gods. In this way might we  be possessed of portion [/accompanied by Bhaga].  
 Each and every one constantly calls on you, Bhaga. Become our guide  here, Bhaga.
 </details>
+
 <details><summary>Jamison Brereton Notes</summary>
 
 The punning continues here with a clever twist: even Bhaga himself should become possessed of a portion (bhágavant-) (a); (only) in this way (téna) will we become bhágavant- (b). In other words, Bhaga needs to get his own portion before he can pass it on to us.
 
 This vs. forms a slight ring with vs. 1: the intensive verb johavīti provides one additional stem to the two forms of √hū in vs. 1, havāmahe and huvema.
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/041/03-05.md">
 <details open><summary><h7>03-05 ...{Loading}...</h7></summary>
@@ -302,19 +311,23 @@ The concatenation continues in the next vss. The ending of vs. 3, … nṛvánta
 </details>
 </div>
 </details>
+
 <details><summary>Griffith</summary>
 
 May Bhaga verily be bliss-bestower, and through him, Gods! may happiness attend us.  
      As such, O Bhaga, all with might invoke thee: as such be thou our Champion here, O Bhaga.
 </details>
+
 <details><summary>Geldner</summary>
 
 Bhaga allein muß der Glückbringer sein, ihr Götter. Durch ihn möchten wir glücklich sein. Dich, Bhaga, ruft jedermann an; du Bhaga, sei uns hier der Anführer!
 </details>
+
 <details><summary>Grassmann</summary>
 
 Ja reich an Gaben sei, o Götter, Bhaga, durch ihn auch mögen wir an Gaben reich sein; Drum ruft zu dir, o Bhaga, wahrlich jeder, so gehe du, o Bhaga, hier voran uns.
 </details>
+
 <details><summary>Elizarenkova</summary>
 
 Это Бхага пусть будет носителем счастья, о боги!  
@@ -322,6 +335,7 @@ Ja reich an Gaben sei, o Götter, Bhaga, durch ihn auch mögen wir an Gaben reic
 Ведь каждый громко зовет тебя, о Бхага.  
 Будь нам тут, о Бхага, идущим впереди!
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - भगः
@@ -329,34 +343,42 @@ Ja reich an Gaben sei, o Götter, Bhaga, durch ihn auch mögen wir an Gaben reic
 - निचृत्त्रिष्टुप्
 - धैवतः
 </details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 
 फिर मनुष्य क्या करके कैसे हों, इस विषय को अगले मन्त्र में कहते हैं ॥
 </details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  हे (भगः) सकल ऐश्वर्य्य के देनेवाले ! जो आप (भगः) अत्यन्त सेवा करने योग्य (भगवान्) सकलैश्वर्य्यसम्पन्न (अस्तु) होओ (तेनैव) उन्हीं भगवान् के साथ (वयम्) हम (देवाः) विद्वान् लोग (भगवन्तः) सकलैश्वर्य्य युक्त (स्याम) हों, हे सकलैश्वर्य्य देनेवाले ! जो (सर्वः) सर्व मनुष्य (तम्) उन (त्वा) आपको (जोहवीति) निरन्तर प्रशंसा करता है (सः) वह (इह) इस समय में (नः) हमारे (पुरएता) आगे जानेवाला हो और हे (भग) सेवा करने योग्य वस्तु देनेवाले ! आप ही हमारे अर्थ आगे जानेवाले (भव) हूजिये ॥५॥
 </details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
 भावार्थभाषाः -  हे जगदीश्वर जो सकलैश्वर्य्यवान् आप सब को सब ऐश्वर्य्य देते हैं, उन के सहाय से सब मनुष्य धनाढ्य होवें ॥५॥
 </details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
 
 अन्वय:  हे भग ! यो भवान् भगो भगवानस्तु तेनैव भगवता सह वयं देवा भगवन्तस्स्याम, हे भग ! यस्सर्वो जनस्तं त्वा जोहवीति स इह नोऽस्माकं पुरएताऽस्तु हे भग ! त्वमिदस्मर्थं पुरएता भव ॥५॥
 </details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 
 पुनर्मनुष्याः किं कृत्वा कीदृशा भवेयुरित्याह ॥
 </details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (भगः) भजनीयः (एव) (भगवान्) सकलैश्वर्यसम्पन्नः (अस्तु) (देवाः) विद्वांसः (तेन) (वयम्) (भगवन्तः) सकलैश्वर्ययुक्ताः (स्याम) (तम्) (त्वा) त्वाम् (भग) सर्वैश्वर्यप्रद (सर्वः) सम्पूर्णः (इत्) एव (जोहवीति) भृशं प्रशंसति (सः) (नः) अस्माकम् (भग) भजनीय वस्तुप्रद (पुरएता) यः पुर एति अग्रगामी भवति सः (भव) (इह) अस्मिन् वर्तमाने समये ॥५॥
 </details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
 भावार्थभाषाः -  हे जगदीश्वर ! यो भगवान् भवान् सर्वान् सर्वमैश्वर्यं ददाति तत्सहायेन सर्वे मनुष्याः धनाढ्या भवन्तु ॥५॥
 </details>
+
 <details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
 
 भावार्थभाषाः -  हे जगदीश्वरा ! तू संपूर्ण ऐश्वर्यवान असून सर्वांना सर्व ऐश्वर्य देतोस, त्या साह्यामुळे सर्व माणसे धनवान व्हावीत. ॥ ५ ॥

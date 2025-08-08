@@ -9,8 +9,6 @@ title = "०१ १६ उत्तरेणाग्निन्"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/01_AgantrA_samaganmahi.md">
 <details open><summary><h2>०१ आगन्त्रा समगन्महि ...{Loading}...</h2></summary>
 
-
-
 आ॒ग॒न्त्रा +++(छात्रेण)+++ **सम॑गन्महि॒**  
 प्र सु॑ मृ॒त्युं **यु॑योतन**+++(←यौतिः पृथग्भावे)+++ ।  
 अरि॑ष्टा॒स् **सञ्च॑रेमहि** स्व॒स्ति,  

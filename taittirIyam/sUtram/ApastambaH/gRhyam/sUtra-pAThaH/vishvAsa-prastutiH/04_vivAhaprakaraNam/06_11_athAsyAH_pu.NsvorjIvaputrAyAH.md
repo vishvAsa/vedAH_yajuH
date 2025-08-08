@@ -9,7 +9,6 @@ __________________
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_09/02_somenAdityA_balinassomena.md">
 <details open><summary><h2>०२ सोमेनादित्या बलिनस्सोमेन ...{Loading}...</h2></summary>
 
-
 सोमे॑नादि॒त्या ब॒लिन॒स्  
 सोमे॑न पृथि॒वी दृ॒ढा ।  
 अथो॒ नक्ष॑त्राणाम् ए॒षाम्  
@@ -39,13 +38,12 @@ __________________
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/27_iha_priyaM.md">
 <details open><summary><h4>२७ इह प्रियं ...{Loading}...</h4></summary>
 
-
-इ॒ह प्रि॒यं प्र॒जया॑ ते॒ समृ॑ध्यताम॒स्मिन्गृ॒हे गार्ह॑पत्याय जागृहि ।  
-ए॒ना पत्या॑ त॒न्वं१॒॑ सं सृ॑ज॒स्वाधा॒ जिव्री॑ वि॒दथ॒मा व॑दाथः ॥
-
+इह᳓ प्रिय᳓म् प्रज᳓या ते स᳓म् ऋध्यताम्  
+अस्मि᳓न् गृहे᳓ गा᳓र्हपत्याय जागृहि  
+एना᳓ प᳓त्या तनु᳓वं सं᳓ सृजस्व  
+अ᳓धा जि᳓व्री विद᳓थम् आ᳓ वदाथः
 </details>
 </div>
-
 
 इ॒ह प्रि॒यं प्र॒जया॑ ते॒ समृ॑द्ध्यताम्,  
 अ॒स्मिन् गृ॒हे गार्ह॑पत्याय +++(भावाय)+++ जागृहि +++(अतिथीनामग्नीनां च सेवया)+++।  
@@ -59,11 +57,10 @@ __________________
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/33_sumangalIriyaM_vadhUrimAM.md">
 <details open><summary><h4>३३ सुमङ्गलीरियं वधूरिमां ...{Loading}...</h4></summary>
 
-
-सु॒म॒ङ्ग॒लीर् इ॒यं व॒धूर्  
-इ॒माँ स॑मेत॒ पश्य॑त ।  
-सौभा॑ग्यम् अ॒स्यै द॒त्वाया+++(=दत्वा)+++-  
-ऽथाऽऽस्तं॒ +++(स्वस्वगृहाणि)+++ वि परे॑तन+++(=गच्छत)+++ ।+++(र४)+++  
+सुमङ्गली᳓र् इयं᳓ वधू᳓र्  
+इमाँ᳓ समेत प᳓श्यत ।  
+सौ᳓भाग्यम् अस्यै᳓ दत्वा᳓या᳓+++(=दत्वा)+++-  
+ऽथा᳓ऽऽस्तं +++(स्वस्वगृहाणि)+++ वि᳓ प᳓रेतन+++(=गच्छत)+++ ।+++(र४)+++  
 
 </details>
 </div>

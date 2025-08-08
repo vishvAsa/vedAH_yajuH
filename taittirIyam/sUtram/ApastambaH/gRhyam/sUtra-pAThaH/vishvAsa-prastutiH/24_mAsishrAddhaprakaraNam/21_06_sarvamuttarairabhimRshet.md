@@ -7,7 +7,6 @@ title = "२१ ०६ सर्वमुत्तरैरभिमृशेत
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/16_eSha_te.md">
 <details open><summary><h2>१६ एष ते ...{Loading}...</h2></summary>
 
-
 ए॒ष ते॑ तत॒ +++(स्वधासमुद्रः)+++ मधु॑माँ ऊ॒र्मिस् सर॑स्वा॒न्।  
 यावा॑न् अ॒ग्निश् च॑ पृथि॒वी च॒ ताव॑त्य् अस्य मा॒त्रा।  
 ताव॑तीन् त ए॒तां मात्रा॑न् ददामि।  

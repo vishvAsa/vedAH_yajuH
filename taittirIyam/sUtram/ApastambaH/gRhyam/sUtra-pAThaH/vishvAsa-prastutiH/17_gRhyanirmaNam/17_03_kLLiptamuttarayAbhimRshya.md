@@ -11,11 +11,9 @@ title = "१७ ०३ कॢप्तमुत्तरयाभिमृश्
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/022/15_syonA_pRthivi.md">
 <details open><summary><h4>१५ स्योना पृथिवि ...{Loading}...</h4></summary>
 
-
-+++(अभिमृशति)+++  
-स्यो॒ना+++(=सुखरूपा)+++ पृ॑थिवि॒ भवा॑+  
-ऽनृक्ष॒रा+++(=कण्टकादिरहिता)+++ नि॒वेश॑नी ।  
-यच्छा॑ न॒श् शर्म॑ स॒प्रथाः॑+++(=सकीर्तिः)+++ ।
+स्योना᳓+++(=सुखरूपा)+++ पृथिवि भव+  
+अनृक्षरा᳓+++(=कण्टकादिरहिता)+++ निवे᳓शनी ।  
+य᳓च्छा नश् श᳓र्म सप्र᳓थाः+++(=सकीर्तिः)+++ ।
 
 </details>
 </div>
@@ -29,7 +27,6 @@ __________________
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/03_ihaiva_tiShTha.md">
 <details open><summary><h2>०३ इहैव तिष्ठ ...{Loading}...</h2></summary>
 
-
 इ॒हैव ति॑ष्ठ॒ निमि॑ता॒+++(=निखाता)+++  
 +++(तक्षकृत-)+++तिल्व॑ला+++(=तिलकवती)+++ स्या॒द् इरा॑+++(=अन्न)+++वती ।  
 मध्ये॒ ताल्प्य॑स्य+++(=गृह्यस्य [द्वारस्य])+++ तिष्ठा॒न्+++(त्)+++  
@@ -39,7 +36,6 @@ __________________
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/04_A_tvA.md">
 <details open><summary><h2>०४ आ त्वा ...{Loading}...</h2></summary>
-
 
 आ त्वा॑ कुमा॒रस् तरु॑ण॒  
 आ व॒त्सो जग॑ता स॒ह ।  

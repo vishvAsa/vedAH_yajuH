@@ -8,7 +8,6 @@ title = "१० ०९ स्नातम् अग्नेर्"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/01_AyurdA_deva.md">
 <details open><summary><h2>०१ आयुर्दा देव ...{Loading}...</h2></summary>
 
-
 आ॒यु॒र्दा दे॑व ज॒रसं॑ गृणा॒नो  
 घृ॒त+++(√ क्षरणदीप्त्यो)+++-प्र॑तीको+++(=अवयवो)+++ घृ॒त-पृ॑ष्ठो अग्ने ।  
 घृ॒तं पिब॑न्न् अ॒मृत॒ञ् चारु॒ गव्यं॑  

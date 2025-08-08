@@ -7,10 +7,12 @@ unicode_script = "devanagari"
 
 कृष्णाजिनम् अवधूनोति
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अव॑धूतँ॒ रक्षोऽव॑धूता॒ अरा॑त॒यः ।
 </details>
+
 <details><summary>Keith</summary>
 
 The Raksas is shaken off, the evil spirits are shaken off.
@@ -26,14 +28,12 @@ The Raksas is shaken off, the evil spirits are shaken off.
 अव॑धूत॒मित्यव॑-धू॒त॒म् । रक्षः॑ । अव॑धूता॒ इत्यव॑-धू॒ताः॒ । अरा॑तयः ।
 </details>
 
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 6कृष्णाजिनमवधूनोति - अवधूतमिति यजुरादिकयैकपदया गायत्र्या ॥ अवधूतं विनाशितम् । शिष्टं व्यख्यातं प्रत्युष्टादि मन्त्रेण (तै.सं. 1.1.2) । 'गतिरनन्तरः' (पा.सू. 6.2.49) इति पूर्वपदप्रकृतिस्वरत्वम् ॥
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/bhaTTa-bhAskara-TIkA/1/2_somayAgArambhaH/02_barhirAstaraNam/raxorAtI.md">
 <details open><summary><h5>रक्षोऽराती ...{Loading}...</h5></summary>
-
 
 रक्षेर् असुनि अर्थविपर्यासः । 'क्षर मूर्छने' इत्यस्य वर्णविपर्यासो वा ।
 
@@ -42,28 +42,30 @@ The Raksas is shaken off, the evil spirits are shaken off.
 </div>
 </details>
 
-
 ____
-
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 कृष्णाजिनम् अवस्तृणाति
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अदि॑त्या॒स् त्वग॑सि ।  
 प्रति॑ +++(तादृशीं)+++ त्वा॒+++(ं)+++ पृ॒थि॒वी +++(स्वस्या उपरि)+++ वे॑त्तु ।
 </details>
+
 <details><summary>Keith</summary>
 
 Thou art the skin of Aditi, may the earth' recognize thee [1].
 
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अदि॑त्या॒स्त्वग॑सि प्रति॑ त्वा॒ [7]पृ॒थि॒वी वे॑त्तु ।
 </details>
+
 <details><summary>मूलम्</summary>
 
 अदि॑त्या॒स्त्वग॑सि ।  
@@ -74,7 +76,6 @@ Thou art the skin of Aditi, may the earth' recognize thee [1].
 
 अदि॑त्याः । त्वक् । अ॒सि॒ । प्रतीति॑ । त्वा॒ । पृ॒थि॒वी । वे॒त्तु॒ ।
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 

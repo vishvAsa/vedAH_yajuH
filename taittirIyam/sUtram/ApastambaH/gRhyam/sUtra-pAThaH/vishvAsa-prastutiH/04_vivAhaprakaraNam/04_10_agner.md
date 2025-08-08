@@ -9,10 +9,10 @@ title = "०४ १० अग्नेर्"
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/40_somaH_prathamo.md">
 <details open><summary><h4>४० सोमः प्रथमो ...{Loading}...</h4></summary>
 
-सोमः॑ प्रथ॒मो वि॑विदे +++(लेभे)+++  
-गन्ध॒र्वो वि॑विद॒ उत्त॑रः ।  
-तृ॒तीयो॑ अ॒ग्निष् टे॒ पति॑स्  
-तु॒रीय॑स्ते मनुष्य॒जाः ।+++(र५)+++  
+सो᳓मः प्रथमो᳓ विविदे +++(लेभे)+++  
+गन्धर्वो᳓ विविद उ᳓त्तरः ।  
+तृती᳓यो अग्नि᳓ष् टे प᳓तिस्  
+तुरी᳓यस्ते मनुष्यजाः᳓ ।+++(र५)+++  
 
 </details>
 </div>
@@ -25,11 +25,10 @@ title = "०४ १० अग्नेर्"
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/41_somo_dadadgandharvAya.md">
 <details open><summary><h4>४१ सोमो ददद्गन्धर्वाय ...{Loading}...</h4></summary>
 
-सोमो॑ऽददद् गन्ध॒र्वाय॑  
-गन्ध॒र्वो ऽद॑दद् अ॒ग्नये॑ ।  
-र॒यिञ् च॑ पु॒त्राँश् चा॑दाद्  
-अ॒ग्निर् मह्य॒म् अथो॑ इ॒माम् ।  
-
+सो᳓मो ददद् गन्धर्वा᳓य  
+गन्धर्वो᳓ ददद् अग्न᳓ये  
+रयिं᳓ च पुत्रां᳓श् च अदाद्  
+अग्नि᳓र् म᳓ह्यम् अ᳓थो इमा᳓म्
 </details>
 </div>
 </details>

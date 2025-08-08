@@ -7,7 +7,6 @@ title = "१७ ०९ तस्मिन्विषूचीनाग्रा
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/15_annapate-nnasya_no.md">
 <details open><summary><h2>१५ अन्नपतेऽन्नस्य नो ...{Loading}...</h2></summary>
 
-
 अन्न॑प॒ते ऽन्न॑स्य नो देहि।  
 अ॒न॒मी॒वस्य॑+++(=आरोग्यकरस्य)+++ शु॒ष्मिणः॑+++(=बलिनः)+++ ।  
 प्रप्र॑ दा॒तार॑न् तारिषः।  
