@@ -2,16 +2,15 @@
 title = "४५ एकाहेषु अग्निष्टोमविधिः"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/7/1/01_ekAheShu_agniShTomavidhiH"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/7/1/01_ekAheShu_agniShTomavidhiH">
+<details open><summary><h1>०१ एकाहेषु अग्निष्टोमविधिः ...{Loading}...</h1></summary>
 
 ## परिचयः
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(नानाफलक-विकृति)+++प्र॒जन॑न॒ञ् ज्योतिः॑+++(→अग्निष्टोमः)+++ ।
 </details>
-
 
 ______________
 
@@ -25,7 +24,6 @@ ______________
 +++(अग्निष्टोमस्य द्वादशस्तोत्रस्य नवतिशतं १९० = 9+60+15+68+17+21 स्तोत्रीया भवन्ति । ताश्च दशभिर् ह्रियमाणाः शुद्धं भागं प्रयच्छन्तीति विराट्-सम्पत्तिः, नैवम् उक्थ्यादीनां दशके सम्पूर्णे समाप्तिरिति ।)+++
 </details>
 
-
 ______________
 <details><summary>Keith</summary>
 
@@ -36,15 +34,12 @@ it is produced according to the Viraj.
 Therefore it is called light. 
 </details>
 
-
 ## स्तोमकलनम्
-
 
 <details open><summary>विश्वास-टिप्पनी</summary>
 
 त्रिवृत्-पञ्चदशौ स्तोमौ प्रातः (१ त्रिवृत्, ४ पञ्चदशाः वस्तुतः)। पञ्चदशसप्तदशौ माध्यन्दिनसवने (१ पञ्चदश, ४ सप्तदशाः वस्तुतः)। सप्तदशैकविंशौ तृतीयसवने। आहत्य १२ स्तोमाः, १९० = (9+60)+(15+68)+(17+21) स्तोत्रीयाः।
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -68,7 +63,6 @@ ______________
 +++( पञ्चदशो माध्यन्दिनः पवमान इति पञ्चदश १५ स्तोत्रीयाः । सप्तदशानि पृष्ठानि; तत्र अष्टषष्टिः १७*४ = ६८ स्तोत्रीयाः ।)+++  
 </details>
 
-
 ______________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -85,8 +79,6 @@ ______________
 पुरु॑ष-सम्मितो॒+++(=तुल्यः)+++ वा ए॒ष य॒ज्ञो ऽस्थू॑रिः+++(=अनेकाश्वशकटम् →अग्निष्टोमः इति शाखान्तरादपि, यतः प्रतिसवनं द्वाभ्यां युज्यमानस् स्वकार्यं करोति)+++।
 </details>
 
-
-
 <details><summary>Keith</summary>
 
 Two Stomas bear the morning pressing, like expiration and inspiration;  
@@ -96,17 +88,13 @@ two the third pressing, like speech and support.
 This sacrifice is commensurate with man, and is perfect [1]. 
 </details>
 
-
 ## फलस्मारणम्
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यङ् काम॑ङ् का॒मय॑ते, तम् ए॒तेना॒ऽभ्य॑श्ञुते।
 सर्वँ॒ ह्य् अस्थू॑रिणा ऽभ्यश्ञु॒ते ।
 </details>
-
-
 
 +++(अग्नेस्स्तोमो यज्ञायज्ञीयः, तदन्तः क्रतुरग्निष्टोमः।)+++  
 अ॒ग्नि॒ष्टो॒मेन॒ वै प्र॒जाप॑तिᳶ प्र॒जा अ॑सृजत ।  
@@ -121,9 +109,7 @@ By means of the Agnistoma Prajapati created off spring;
 by means of the Agnistoma he grasped them.
 </details>
 
-
 ## अश्वतर-दक्षिणा-योग्यता
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -134,8 +120,6 @@ by means of the Agnistoma he grasped them.
 अथो॑ आ॒हु॒ᳶ प्र॒जासु॑ न्य॑मा॒र्डिति । तस्मा॑द् य॒मौ जा॑येते ।+++(४)+++  
 </details>
 
-
-
 <details><summary>Keith</summary>
 
 When he grasped them the mule escaped. Following it he took its seed,  
@@ -145,16 +129,11 @@ They also say, 'In the plants [2] he placed it.' Therefore plants, though not an
 They also say, 'He placed it in offspring.' Therefore twins are born.
 </details>
 
-
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मा॑द् अश्वत॒रो न प्र जा॑यत । आत्त॑-रेता॒ हि तस्मा॑द् ब॒र्हिष्य्+++(→यज्ञे दक्षिणादौ)+++ अन॑वकॢप्तः ।  
 स॒र्व॒-वे॒द॒से+++(=धनाय [यज्ञाय])+++ वा॑, स॒हस्रे॑+++(→सहस्रदक्षिणाय)+++  वाऽव॑क्ल्प्तः। +++(प्राकृतीर्दक्षिणा)+++ अति॒ ह्य् अप्र॑+++(प्ल)+++वत +++(विकृतियागेषु तु भवति)+++। +++('हि च' इति निघातप्रतिषेधः ।)+++
 </details>
-
-
 
 <details><summary>Keith</summary>
 
@@ -162,9 +141,7 @@ Therefore the mule has no offspring, for his seed has been taken from him.
 Therefore he is not suitable for the sacrifice, but is suitable if there is a sacrifice when one gives (to the priests) all one's goods or a thousand, for he escaped.
 </details>
 
-
 ## प्राशस्त्यकथनम्
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -173,17 +150,12 @@ Therefore he is not suitable for the sacrifice, but is suitable if there is a sa
 प्र॒जाप॑ति॒र् वा+++(वै)+++व ज्येष्ठः॑ । स ह्य् ए॑तेनाऽऽग्रे ऽय॑जत । +++(अतो ऽग्निष्ठोमो ज्येष्ठः।)+++
 </details>
 
-
-
-
 <details><summary>Keith</summary>
 
 He who knowing thus sacrifices with the Agnistoma begets unborn offspring and grasps those that are born. Therefore they say, 'It is the best of sacrifices [3].'
 </details>
 
-
 ## स्तोमोत्पत्तिः
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -191,8 +163,6 @@ He who knowing thus sacrifices with the Agnistoma begets unborn offspring and gr
 स मु॑ख॒तस् त्रि॒वृत॒न्+++(=नवस्तोत्रीयं स्तोमं, त्र्यवयवास्तिस्रो वृत्तयोस्येति)+++ निर् अ॑मिमीत ।  
 तम् अ॒ग्निर् दे॒वताऽन्व॑सृज्यत, गाय॒त्री छन्दो॑, रथन्त॒रँ साम॑, ब्राह्म॒णो म॑नु॒ष्या॑णाम्, अ॒जᳶ प॑शू॒नाम्। तस्मा॒त् ते मुख्याः॑। मुख॒तो ह्यसृ॑ज्य॒न्त । +++("अग्न॒ आ या॑हि" इत्यादेस् त्र्यर्चस्य भवति।)+++
 </details>
-
-
 
 <details><summary>Keith</summary>
 
@@ -203,15 +173,11 @@ After it the god Agni was created, the Gayatri metre, the Rathantara Saman, of m
 </details>
 _____
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उर॑सो बा॒हुभ्या॑म् पञ्चद॒शन् +++(स्तोत्रीयं)+++ निर् अ॑मिमीत ।  
 तम् इन्द्रो॑ दे॒वताऽन्व॑सृज्यत - त्रि॒ष्टुप् छन्दो॑, बृ॒हत् साम॑, राज॒न्यो॑ मनु॒ष्या॑णा॒म्, अविᳶ॑ पशू॒नाम्। तस्मा॒त्ते वी॒र्या॑वन्तः। वी॒र्या॑द् ध्य् असृ॑ज्यन्त। +++("त्वामिद्धि हवा॑महे सा॒ता…")+++
 </details>
-
-
 
 <details><summary>Keith</summary>
 
@@ -220,8 +186,6 @@ After it the god Indra was created, the Tristubh metre, the Brhat [4] Saman, of 
 
 </details>
 _____
-
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -233,8 +197,6 @@ _____
 भूयि॑ष्ठा॒ हि दे॒वता॒ अन्व् असृ॑ज्यन्त ।
 </details>
 
-
-
 <details><summary>Keith</summary>
 
 From the middle he meted out the Saptadaça Stoma.  
@@ -245,9 +207,6 @@ Therefore are they more numerous than others, for they were created after the mo
 </details>
 _____
 
-
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प॒त्त+++(=पद्भ्यां)+++ ए॑क-विँ॒शन् निर् अ॑मिमीत ।  
@@ -256,8 +215,6 @@ _____
 तस्मा॑च् छू॒द्रो य॒ज्ञे +++(दक्षिणात्वेन)+++ ऽन॑वकॢप्तः । +++(यतो)+++ न हि दे॒वता॒ अन्वसृ॑ज्यत । +++(अश्वस् तु याग-योग्य एव - सर्वदेवताधारत्वात्।)+++  
 तस्मा॒त् पादा॒व् उप॑ जीवतः +++(शूद्राश्वौ)+++। प॒त्तो ह्यसृ॑ज्येताम् ।
 </details>
-
-
 
 <details><summary>Keith</summary>
 
@@ -268,9 +225,6 @@ Therefore the Çudra is not fit for the sacrifice, for he was not created after 
 Therefore they depend on their feet, for they were created from the feet. 
 </details>
 _____
-
-
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -283,8 +237,6 @@ _____
 य ए॒वव्ँ वेदै॒तस्मि॑न्न् ए॒व श्र॑यते ।  ए॒तस्मि॒न् प्रति॑ तिष्ठति ॥
 </details>
 
-
-
 <details><summary>Keith</summary>
 
 The Trivrt is the breaths;  
@@ -296,5 +248,5 @@ In this they rest, in this they find support.
 He who knows thus rests on this, finds, support in this.
 
 </details>
-
+</details>
 </div>

@@ -7,11 +7,6 @@ publisher: a. subbaraman. mylapore veda adhyayana sabha
 authors: e. balasubrahmanya sastri, janbunatha sastri, n.v. nataraja dikshitar  
 english translation by: Sundararajan Subramanian
 
-
-
-
-
-
 # Introduction
 
 ॐ शुक्लाम्बरधरं विष्णुं शशिवर्णं चतुर्भुजम्।  
@@ -280,19 +275,16 @@ I pray day and night to the Gaṇeśa – the one who is the reason behind the 
 ध्याने मनसि मे जातः पुत्रत्वं पालय प्रभो।  
 मम पुत्र इति ख्यातो लोकेऽस्मिन् भगवान् भव॥
 
-
 # महागणपतिहोमप्रयोगः
 
 In the morning, perform the snāna and other nitya karmas, i.e. sandhyāvandana and aupāsana. Having finished them, perform the homa with a pure (śuddha) mind.
 The vadhyar should recite the mantra below:
-
 
 ऋ॒द्ध्यास्म॑ ह॒व्यैर्नम॑सोप॒सद्य॑। मि॒त्रं दे॒वं मि॑त्र॒धेयं॑ नो अस्तु।  
 अ॒नू॒रा॒धान् ह॒विषा॑ व॒र्धय॑न्तः। श॒तं जी॑वेम श॒रदः॒ सवी॑राः॥
 दीर्घायुष्यमस्तु॥
 
 Having recited this, accept the pavitra given by the vadhyar with both hands and wear it on the ring finger of the right hand.
-
 
 ## सभावन्दनम्
 
@@ -305,21 +297,17 @@ Having recited this, accept the pavitra given by the vadhyar with both hands and
 Having recited this, put some akṣatas on some brāhmaṇas and do a namaskāra to them.
 Place the pavitra on the right ear and perform ācamana twice. Then wear the pavitra again and light the lamp in the svāmi sannidhi. Take two maṅgala coconuts (i.e. smeared with haldi) in the two hands, and do a namaskāra to the svāmi, do a namaskāra to elders -- this is the tradition we follow at the beginning, and it should be followed here.
 
-
 ## अनुज्ञा
 
 Next, ask for permission (anujñā) while standing
-
 
 अशेषे हे परिषत् भवत्पादमूले मया समर्पितां इमां सौवर्णीं दक्षिणां यत्किञ्चित् दक्षिणां यथोक्त-दक्षिणामिव स्वीकृत्य
 
 Having said this, give the appropriate agreed-upon dakṣiṇā to the brāhmaṇas. Then recite the request below for permission to perform the karma.
 
-
 ... नक्षत्रे ... राशौ जातस्य ... शर्मणः मम सहकुटुम्बस्य सभ्रातृकस्य सपरिवारकस्य क्षेमस्थैर्य-वीर्यविजय-आयुरारोग्य-ऐश्वर्याभिवृद्ध्यर्थं समस्त-सन्मङ्गलावाप्त्यर्थं समस्त-दुरितोपशान्त्यर्थं इष्टकाम्यार्थ-सिद्ध्यर्थं महागणाति-प्रसादसिद्ध्यर्थं महागणपति-प्रसादेन सकल-बाधा-निवृत्ति-द्वारा चिन्तित-मनोरथावाप्त्यर्थं राजद्वारे सर्वानुकूल्य-सिद्ध्यर्थं सर्वाभीष्ट-सिद्ध्यर्थं नालिकेरादि-द्रव्यैः यथासम्भवं यथामति श्रीमहागणपति-मूलमन्त्रेण महागणपति-होमाख्यं शुभकर्म कर्तुं योग्यता-सिद्धिं अनुगृहाण॥
 
 The brāhmaṇas will reply with the line below by way of assent.
-
 
 योग्यता-सिद्धिरस्तु॥
 
@@ -327,12 +315,10 @@ The brāhmaṇas will reply with the line below by way of assent.
 
 Sit down on the āsana, and take akṣata in the hands.
 
-
 शुक्लाम्बरधरं विष्णुं शशिवर्णं चतुर्भुजम्।  
 प्रसन्नवदनं ध्यायेत् सर्वविघ्नोपशान्तये॥
 
 Having recited this completely, form fists with both hands and gently tap both sides of the head six times with them.
-
 
 ॐ भूः ... भूर्भुवः॒सुव॒रोम्॥
 ममोपात्त-समस्त-दुरितक्षयद्वारा श्रीपरमेश्वर-प्रीत्यर्थं
@@ -342,9 +328,7 @@ Having recited this completely, form fists with both hands and gently tap both s
 
 Discard the akṣatas to the North, and then with the instruction अप उपस्पृश्य, take some water with the uddhariṇī and wash the hands.
 
-
 With haldi powder (and water), make a small gaṇeśa vigraha and then start the pūjā. Always use maṅgala akṣatas (i.e. smeared with haldi).
-
 
 ॐ ग॒णानां॑ त्वा ग॒णप॑तिँ हवामहे क॒विं क॑वी॒नामु॑प॒मश्र॑वस्तमम्।  
 ज्ये॒ष्ठ॒राजं॒ ब्रह्म॑णां ब्रह्मणस्पत॒ आ नः॑ शृ॒ण्वन्नू॒तिभिः॑ सीद॒ साद॑नम्॥  
@@ -352,85 +336,67 @@ With haldi powder (and water), make a small gaṇeśa vigraha and then start th
 
 Place some akṣatas on top of the gaṇeśa bimba.
 
-
 विघ्नेश्वरं आवाहयामि।
 
 Gently place some akṣatas on top of the gaṇeśa bimba. Focus your mind on the thought that with the word āvāhayāmi, gaṇeśa has entered the vigraha. The mind should be focused on the steps of the pūjā, and no other errant thoughts, speech or actions should be entertained.
-
 
 विघ्नेश्वराय नमः। आसनं समर्पयामि।
 
 Saying this, place some akṣatas. (When placing the akṣatas on the bimba, it should be done with humility. The hands should be held with palms upwards and should be offered from the finger-tips. It should not be thrown on on the vigraha).
 
-
 When offering water with samarpayāmi in the next offerings, take water with the uddharinī and pour it into another discard vessel.
-
 
 पाद्यं समर्पयामि।
 
-
 Take an uddhariṇī of water closer to the feet of the devatā to wash them, and then pour it into another vessel.
-
 
 अर्घ्यं समर्पयामि।
 
 Take an uddhariṇī of water close to both hands of the devatā to wash them, and then pour it into another vessel.
 
-
 आचमनीयं समर्पयामि।
 
 Take an uddhariṇī of water close to the face of the devatā (offering water to sip) and then pour it into another vessel.
-
 
 स्नानं समर्पयामि।
 
 Using the uddhariṇī, sprinkle some water on the bimba
 
-
 स्नानानन्तरं आचमनीयं समर्पयामि।
 
 Take an uddhariṇī of water close to the face of the devatā (offering water to sip) and then pour it into another vessel.
-
 
 वस्त्रार्थं अक्षतान् स्मर्पयामि।
 
 Put some akṣatā on the devatā (in place of offering clothing)
 
-
 उपवीतार्थं अक्षतान् समर्पयामि।
 
 Put some akṣatā on the devatā (in place of offering the yajñopavīta)
-
 
 आभरणार्थं अक्षतान् समर्पयामि।
 
 Put some akṣatā on the devatā (in place of offering jewellery)
 
-
 गन्धान् धारयामि।
 
 Put some candana (sandalwood paste) on top of the bimba with the ring finger of the right hand.
-
 
 गन्धोपरि हरिद्राकुङ्कुमं समर्पयामि।
 
 Put some kuṅkumam on top of the candana with the ring finger of the right hand.
 
-
 अक्षतान् समर्पयामि।
 
 Put some akṣatā on the devatā
-
 
 पुष्पमालां समर्पयामि।
 
 Offer a garland of flowers to the devatā
 
-
 पुष्पैः पूजयामि।
 
 Say this and then offer loose flowers with the 16+1=17 names below. Saying each name, offer the flower with humility. It should be offered with the fingertips of palms facing upwards. The flowers should not be thrown. Do not untie a garland for these flowers, and do not take apart the flower to offer it's petals.
-
 
 ॐ सुमुखाय नमः। ॐ एकदन्ताय नमः। ॐ कपिलाय नमः।
 ॐ गजकर्णकाय नमः। ॐ लम्बोदराय नमः। ॐ विकटाय नमः।
@@ -442,65 +408,51 @@ Say this and then offer loose flowers with the 16+1=17 names below. Saying each 
 
 Offering arul grass to vighneśvara is auspicious. It should be offered in twos, and not as singles.  
 
-
 धूपदीपार्थं अक्षतान् समर्पयामि।
 
 Put some akṣatā on the devatā
 
-
 For naivedya, break a coconut and offer it's two halves, having removed it's tuft. Also offer some bananas (offering a minimum of two ... never a single banana)
-
 
 ॐ भूर्भुवः॒सुवः॑।
 
 Having said the mantra above, perform pariśecana.
 
-
 तत्स॑वि॒तुवरे॑ण्यं॒ भर्गो॑ दे॒वस्य॑ धीमहि। धियो॒ यो नः॑ प्रचो॒दया॑त्॥
 
 Having said the mantra above, perform prokṣana (sprinkle)
-
 
 देव॑ सवितः॒ प्र सु॑व।
 
 With the mantra above, perform a second pariśecana
 
-
 स॒त्यं त्व॒र्तेन॒ परि॑षिञ्चामि।
 
 With the mantra above, perform a third pariśecana
-
 
 अ॒मृ॒तो॒प॒स्तर॑णमसि।
 
 With the mantra above, pour some water into another vessel. Then take some akṣatas in hand
 
-
 ॐ प्रा॒णाय॒ स्वाहा॑। अ॒पा॒नाय॒ स्वाहा॑। व्या॒नाय॒ स्वाहा॑। उ॒दा॒नाय॒ स्वाहा। स॒मा॒नाय॒ स्वाहा॑। ब्रह्म॑णे॒ स्वाहा॥
 
 Having recited these mantras, take the hand from the place with the naivedya and wave it towards the bimba to offer it to gaṇeśa.
-
 
 विघ्नेश्वराय नमः। नालिकेर-खण्डद्वयं, कदलीफलं/फलानि अमृतं सर्वं निवेदयामि।
 
 Saying the above, put the akṣatas on the bimba.
 
-
 अ॒मृ॒ता॒पि॒धा॒नम॑सि।
 
 Saying the above, pour some water into another vessel.
 
-
 निवेदनानन्तरं आचमनीयं समर्पयामि।
 
-
 Saying the above, take some water with an uddhariṇī close to the mouth and pour some water into another vessel.
-
 
 भूर्भुवः॒सुवः॑।
 
 Saying the above, do prokṣana of a betel leaf and tāmbūla
-
 
 पूगीफलसमायुक्तं नागवल्लीदलैर्युतम्।  
 कर्पूरचूर्णसंयुक्तं ताम्बूलं प्रतिहृह्यताम्॥  
@@ -508,29 +460,23 @@ Saying the above, do prokṣana of a betel leaf and tāmbūla
 
 Saying the above, put some akṣata in front of the bimba.
 
-
 कर्पूरनीराजनं समर्पयामि।
 
 Saying the above, light the camphor and move it around the mūrti thrice clockwise.
-
 
 मन्त्रपुष्पं समर्पयामि।
 
 Then offer some akṣata or flowers with the mantra above and offer it to the bimba.
 
-
 स्वर्णपुष्पं समर्पयामि।
 
 Saying the above, offer a coin to the devatā
-
 
 समस्तोपचारान् समर्पयामि।
 
 Saying the above, offer some akṣata
 
-
 Then join the palms and recite the mantras below
-
 
 वक्रतुण्ड महाकाय सूर्यकोटि समप्रभ।  
 अविघ्नं कुरु मे देव सर्वकार्येषु सर्वदा॥  
@@ -544,7 +490,6 @@ Then join the palms and recite the mantras below
 
 Declaring दर्भेष्वासीनः, take a minimum of four darbhas and place them as a seat with their tips pointing north. Then declaring दर्भान् धारयमानः, take another minimum of four darbhas with tips pointing north and folde them around the right ring finger.   
 
-
 ## सङ्कल्पः
 
 शुक्लाम्बरधरं विष्णुं शशिवर्णं चतुर्भुजम्।  
@@ -557,23 +502,19 @@ Declaring दर्भेष्वासीनः, take a minimum of four darbha
 
 State the sankalpa above.
 
-
 ग॒णानां॑ त्वा ग॒णप॑तिँ हवामहे क॒विं क॑वी॒नामु॑प॒मश्र॑वस्तमम्।  
 ज्ये॒ष्ठ॒राजं॒ ब्रह्म॑णां ब्रह्मणस्पत॒ आ नः॑ शृ॒ण्वन्नू॒तिभिः॑ सीद॒ साद॑नम्॥  
 अस्मात् हरिद्राबिम्बात् विघ्नेश्वरं यथास्थानं प्रतिष्ठापयामि।
 
 Having recited the mantras above, move the turmeric gaṇeśa slightly to the north
 
-
 शोभनार्थे क्षेमाय पुनरागमनाय च।
 
 Saying the above, take some prasāda from gaṇeśa
 
-
 ग्रहप्रीतिदीनम्
 
 Take the dakṣiṇā in the hands and have the wife pour a little water in them. Then recite the following
-
 
 हिरण्यगर्भगर्भस्त्वं हेमबीज विभावसोः।  
 अनन्तपुण्यफलदमतः शान्तिं प्रयच्छ मे॥
@@ -582,36 +523,29 @@ Take the dakṣiṇā in the hands and have the wife pour a little water in the
 
 Having recited this, pour the water on the ground and give the dakṣiṇā to brāhmaṇas
 
-
 ## ऋत्विग्वरणम्
 
 The ācarya for the mahā gaṇapati homa should now be invited
-
 
 मया सङ्कल्पित-महागणपति-होम-कर्मणि सकलकर्म कर्तुं आचार्यं त्वां वृणे॥
 
 Give a bunch of darbha to the ācārya, he should be requested to perform the japa and homa.
 
-
 सर्वेभ्यो ब्राह्मणेभ्यो नमः।
 
 Having said this, put akṣatas on the other brāhmaṇas [that will be assisting]
-
 
 यूयं अन्योन्य-साहाय्येन महागणपति-जपहोमाख्यं कर्म कुरुध्वम्।
 
 Having said this, place the akṣatas.  The brāhmaṇas should reply with वयं कुर्मः.
 
-
 यजमानेन सङ्कल्पित-महागणपति-जप-होम-कर्म वयं अन्योन्य-साहाय्येन करिष्यामः। तदङ्गं कलशपूजां करिष्ये
 
 The main ācārya should say the saṅkalpa above. Then the kalaśa pūjā should be performed (which some traditions follow)
 
-
 ## कलशपूजा
 
 Having decorated the small pañcapātra with candana, kuṅkuma,  maṅgalākṣata and flowers, put some tulasī in the water. Close it's mouth with the right hand and recite the following mantras.
-
 
 कलशस्य मुखे विष्णुः कण्ठे रुद्रः समाश्रितः।  
 मूले तत्र स्थितो ब्रह्मा मध्ये मातृगणाः स्मृताः॥  
@@ -624,73 +558,58 @@ Having decorated the small pañcapātra with candana, kuṅkuma,  maṅgalāk
 
 Then take a flower and sprinkle that water on oneself and all the other pūjā items.
 
-
 आगमार्थं तु देवानां गमनार्थं तु रक्षसाम्।  
 घण्टारवं करोम्यादौ देवताह्वान-लाञ्छनम्॥
 
 Ring the bell with the mantra above.
 
-
 ## कुम्भस्थापनम्
 
 On a square ground, washed by fresh cowdung, spread unhusked rice on top. Place a leaf on top and scatter husked rice on top. On top of this place a leaf or plate (tāmbāla) with urad dal and then scatter sesame (todo: black or white?) seeds on them. Draw a padmam on top and place at least 4 darbhas with tips facing East.
-
 
 ## उल्लेखनम्
 
 Next comes the ullekhanam with the mantras below. A 2x2 grid is drawn with three vertical and horizontal lines.
 First three lines are drawn from west to east with the three mantras below:
 
-
 ब्रह्म॑ जज्ञा॒नम् - प्र॒थ॒मम् - पु॒रस्ता॑त् - विसी॑म॒तः - सु॒रुचः॑ - वे॒न आ॑वः - स बु॒ध्नियाः॑ - उ॒प॒माः - अ॒स्य॒वि॒ष्ठाः - स॒तश्च॒ योनि॑म् - अस॑तश्च॒ विवः॑॥
 
 With the mantra above, draw a line in the middle from west to east.
 
-
 नाके॑ सुप॒र्णम् - उ॒प॒यत् - पत॑न्तं - हृ॒दा - वेन॑न्तः - अ॒भ्यच॑क्षतत्त्वा - हिर॑ण्यपक्षं - वरु॑णस्य - दू॒तं - य॒मस्य॒ - योनिं॑ - शकु॒नम् - भु॒र॒ण्युम्।
 
 With the mantra above, draw a line in the southern side from west to east.
-
 
 आ प्या॑यस्व - समे॑तु ते - वि॒श्वतः॑ - सो॒म॒ - वृष्णि॑यम् - भवा॒ वाज॑स्य - स॒ङ्ग॒थे॥
 
 With the mantra above, draw a line in the northern side from west to east.
 Then three lines are drawn from south to north with the three mantras below:
 
-
 यो रु॒द्रः - अ॒ग्नौ - यो अ॒प्सु - य ओष॑धीषु - यो रु॒द्रः - विश्वा॑ - भुव॑ना - आ॒वि॒वेश॑ - तस्मै॑ रु॒द्राय॑ - नमो॑ अस्तु॥
 
 With the mantra above, draw a line in the middle from south to north. Then say अप उपस्पृश्य and touch water.
-
 
 इ॒दं विष्णुः॑ - विच॑क्रमे - त्रे॒धा निद॑धे - प॒दम्। समू॑ढमस्य - पाँ॒सु॒रे।
 
 With the mantra above, draw a line in the west from south to north.
 
-
 इन्द्रं॒ विश्वाः॑ - अ॒वी॒वृ॒ध॒न् - स॒मु॒द्रव्य॑चसं॒ गिरः॑। र॒थीत॑मं - र॒थी॒नां - वाजा॑नां - सत्प॑तिं - पति॑म्॥
 
 With the mantra above, draw a line in the east from south to north.
 
-
 With दर्भान्निरस्य, the darbha in the hand should be discarded to the north.  अप उपस्पृश्य. Water should be touched.
-
 
 On top of this ullekhana (in the center) a kalaśa should be placed (It should be made of one of gold, silver, copper, brass or pañcaloha. Vessels made of any other material should be avoided)
 
-
 Recite the mantra below and then place the kumbha.
-
 
 ब्रह्म॑ जज्ञा॒नम् - प्र॒थ॒मम् - पु॒रस्ता॑त् - विसी॑म॒तः - सु॒रुचः॑ - वे॒न आ॑वः - स बु॒ध्नियाः॑ - उ॒प॒माः - अ॒स्य॒वि॒ष्ठाः - स॒तश्च॒ योनि॑म् - अस॑तश्च॒ विवः॑॥
 
 While touching the kumbha (filled with water) with some darbha, the mantras below should be recited.
 
-
 आपो॒ वा इ॒दँ सर्व॑म् - विश्वा॑ भू॒तान्यापः॑ - प्रा॒णा वा आपः॑ - प॒शव॒ आपः॑ - अन्न॒मापः॑ - अमृ॑त॒मापः॑ - स॒म्राडापः॑ - वि॒राडापः॑ - स्व॒राडापः॑ - छन्दाँ॒स्यापः॑ - ज्योतीँ॒ष्यापः॑ - यजूँ॒ष्यापः॑ - स॒त्यमापः॑ - सर्वा॑ दे॒वता॒ आपः॑ - भूर्भुवः॒सुवः॑ - आप॒ ॐ॥
 
 Then take water from the pañcapātra in an uddhariṇī and put it into the kumbha six times -- i.e. each time the word "praṇayati" comes below.
-
 
 (१) अ॒पः प्रण॑यति। श्र॒द्धा वै - आप॑। श्र॒द्धां - ए॒वारभ्य॑ - प्र॒णीय॑ - प्रच॑रति।  
 (२) अ॒पः प्रण॑यति। य॒ज्ञो वै - आप॑। य॒ज्ञं - ए॒वारभ्य॑ - प्र॒णीय॑ - प्रच॑रति।  
@@ -703,7 +622,6 @@ Then take water from the pañcapātra in an uddhariṇī and put it into the 
 
 Now take 2 darbhas between the two hands (with tips facing north). With the three sentences below, purify (utpavanam) the water three times by moving the darbhas in the kalasha water from west to east. The darbhas should be held in the hands with palms upwards and should be held between the ring and thumb fingers of each hand. Once the utpavanam is complete, these two darbhas should be placed inside the kumbha with tips facing up.
 
-
 दे॒वो वः॑ - स॒वि॒ता - उत्पु॑नतु। अच्छि॑द्रेण - प॒वित्रे॑ण।
 वसोः॑ - सूर्य॑स्य - र॒श्मिभिः।
 
@@ -711,7 +629,6 @@ Now take 2 darbhas between the two hands (with tips facing north). With the thre
 तं भा॒गं - चि॒त्रिमी॑महे॥
 
 With the mantras above, a gold or silver coin should be placed in the kumbha.
-
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/kUrchAgrai_rAxasAn.md">
 <details open><summary><h5>कूर्चाग्रैः राक्षसान् ...{Loading}...</h5></summary>
@@ -722,6 +639,7 @@ With the mantras above, a gold or silver coin should be placed in the kumbha.
 त्वाम् अर्पयामि कुम्भेऽस्मिन्  
 साफल्यं कुरु कर्मणि॥
 </details>
+
 <details><summary>मूलम्</summary>
 
 कूर्चाग्रैः राक्षसान् घोरान्  
@@ -732,9 +650,7 @@ With the mantras above, a gold or silver coin should be placed in the kumbha.
 </details>
 </div>  
 
-
 Then with the mantras above, a kūrca should be placed on top of the kalaśa.
-
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/vRxarAja-samudbhUtAH.md">
 <details open><summary><h5>वृक्षराज-समुद्भूताः ...{Loading}...</h5></summary>
@@ -745,6 +661,7 @@ Then with the mantras above, a kūrca should be placed on top of the kalaśa.
 युष्मान् कुम्भेष्व् अर्पयामि  
 सर्व-दोषापनुत्तये॥
 </details>
+
 <details><summary>मूलम्</summary>
 
 वृक्षराज-समुद्भूताः शाखायाः पल्लवत्वचः।  
@@ -753,9 +670,7 @@ Then with the mantras above, a kūrca should be placed on top of the kalaśa.
 </details>
 </div>  
 
-
 Saying this, a mango leaf bunch should be placed at the neck.
-
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/nAlikera-samudbhUta.md">
 <details open><summary><h5>नालिकेर-समुद्भूत ...{Loading}...</h5></summary>
@@ -766,6 +681,7 @@ Saying this, a mango leaf bunch should be placed at the neck.
 शिखया दुरितं सर्वं  
 पापं पीडां च मे **नुद**॥
 </details>
+
 <details><summary>मूलम्</summary>
 
 नालिकेर-समुद्भूत त्रिनेत्र हरसम्मित।  
@@ -774,9 +690,7 @@ Saying this, a mango leaf bunch should be placed at the neck.
 </details>
 </div>  
 
-
 Saying this, a coconut smeared with haldi should be placed on top.
-
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/sarve_samudrAH.md">
 <details open><summary><h5>सर्वे समुद्राः ...{Loading}...</h5></summary>
@@ -785,6 +699,7 @@ Saying this, a coconut smeared with haldi should be placed on top.
 सर्वे समुद्राः सरितस्तीर्थानि च नदा ह्रदाः।  
 आयान्तु मम सहकुटुम्बस्य दुरितक्षयकारकाः॥
 </details>
+
 <details><summary>मूलम्</summary>
 
 सर्वे समुद्राः सरितस्तीर्थानि च नदा ह्रदाः।  
@@ -793,9 +708,7 @@ Saying this, a coconut smeared with haldi should be placed on top.
 </details>
 </div>  
 
-
 Saying this, the kalaśa should be touched.
-
 
 इ॒मं मे॑ वरुण श्रुधी॒ हव॑म॒द्या च॑ मृडय। त्वाम॑व॒स्युराच॑के॥  
 तत्त्वा॑ यामि॒ ब्रह्म॑णा॒ वन्द॑मान॒स्तदाशा॑स्ते॒ यज॑मानो ह॒विर्भिः॑।  
@@ -804,19 +717,15 @@ Saying this, the kalaśa should be touched.
 
 Saying this, akṣata should be offered.
 
-
 वरुणं आवाहयामि।
 
 Saying this, akṣata should be placed. (Contemplate on varuṇa and invite him. With that belief, he will be present)
 
-
 Now with the mahāgaṇapati mantra, a silver idol of mahāgaṇapati should be placed on top of the kalaśa. (Alternatively, a coin can be used in place of the likeness). Mahāgaṇapati should then be invoked there. (In some traditions a lamp is placed and durgā is invoked and worshipped). (The mahāgaṇapati mūla mantra upadeśa should be received from a qualified guru, and thus, the mūla mantra is not given here)  
-
 
 ## न्यासः
 
 Next comes the nyāsa. The aṅganyāsa for the body, and the karnyāsa for the fingers.
-
 
 अस्य श्रीगमहागणपति-महामन्त्रस्य गणकऋषिः। निचृद्गायत्रीच्छन्दः। महागणपतिर्देवता। गां बीजम्। गीं शक्तिः। गूं कीलकम्। श्रीमहागणपति-प्रसाद-सिद्ध्यर्थं जपे विनियोगः॥
 
@@ -846,16 +755,13 @@ Next comes the nyāsa. The aṅganyāsa for the body, and the karnyāsa for t
 
 Perform 12x japa with the complete mūla mantra
 
-
 अस्मिन् कुम्भे अस्यां प्रतिमायां महागणपतिं ध्यायामि।
 
 With this, flowers and maṅgalākṣata should be placed on the pratimā which sits on top of the kalaśa. Contemplate mentally on mahāgaṇapati in both the pratimā and kalaśa.
 
-
 महागणपतिं आवाहयामि।
 
 Saying this, put some akṣata.
-
 
 ## प्राणप्रतिष्ठा
 
@@ -885,31 +791,25 @@ Saying this, put some akṣata.
 
 Take the two hands (like the añjali mudrā) and join them only on the ring fingers with palms upwards.
 
-
 स्थापितो भव।
 
 Turn the palms from the previous mudrā downwards.
-
 
 सन्निहितो भव।
 
 Show the hands in aṅjali mudrā
 
-
 सन्निरुद्धो भव।
 
 Put both hands in fists with thumbs extended upwards
-
 
 अवकुण्ठितो भव।
 
 Join the hands in closed position and show it towards front.
 
-
 सुप्रीतो भव।
 
 Open the palms and show it as if you are praying, with the palms facing upwards
-
 
 सुप्रसन्नो भव।
 
@@ -919,16 +819,13 @@ Open up the palms more (fingers not touching each other)
 
 Join the palms in praying position
 
-
 वरदो भव।
 
 Open up the palms more  with palms facing downwards now(fingers not touching each other)
 
-
 प्रसीद प्रसीद।
 
 Open the palms and show it as if you are praying, with the palms facing upwards
-
 
 स्वामिन् सर्व-जगन्नाथ यावत्पूजावसानकम्।  
 तावत् त्वं प्रीतिभावेन बिम्बेऽस्मिन् सन्निधिं कुरु॥  
@@ -936,13 +833,11 @@ Open the palms and show it as if you are praying, with the palms facing upwards
 
 Put some akṣata or flowers
 
-
 ## प्रणवजपः
 
 (पञ्चदश-संस्कारार्थं पञ्चदशवारं जपं कृत्वा)
 
 The letter "ॐ" should first be repeated 15 times. Naivedya of honey mixed with milk should now be offered.
-
 
 ॐ भूर्भुवः॒सुवः॑।
 
@@ -961,72 +856,58 @@ The letter "ॐ" should first be repeated 15 times. Naivedya of honey mixed with
 
 Now perform the ṣoḍaśopacāra pūjā with the mūla mantra
 
-
 ॐ श्रीं ... स्वाहा। महागणपतये नमः। रत्नसिंहासनं समर्पयामि।
 
 Put some akṣata
-
 
 ॐ श्रीं ... स्वाहा। महागणपतये नमः। पादयोः पाद्यं समर्पयामि।
 
 Pour some water as mentioned before into a small vessel.
 
-
 ॐ श्रीं ... स्वाहा। महागणपतये नमः। हस्तयोः अर्घ्यं समर्पयामि।
 
 Pour some water into a small vessel.
 
-
 ॐ श्रीं ... स्वाहा। महागणपतये नमः। मुखे आचमनीयं समर्पयामि।
 
 Pour some water into a small vessel.
-
 
 आपो॒ हि ष्ठा म॑यो॒भुवः॑। ता न॑ ऊ॒र्जे द॑धातन। म॒हे रणा॑य॒ चक्ष॑से। यो वः॑ शि॒वत॑मो॒ रसः॑। तस्य॑ भाजयते॒ह नः॑। उ॒श॒तीरि॑व मा॒तरः॑। तस्मा॒ अर॑ङ्गमाम वः। यस्य॒ क्षया॑य॒ जिन्व॑थ। आपो॑ ज॒नय॑था च नः।
 ॐ भूर्भुवः॒सुवः॑ स्नानं समर्पयामि।
 
 Do prokṣana of the vigraha taking water with an uddhariṇī.
 
-
 स्नानानन्तरं आचमनीयं समर्पयामि।
 
 Pour some water into a small vessel.
-
 
 ॐ श्रीं ... स्वाहा। महागणपतये नमः। वस्त्रं समर्पयामि।
 
 Offer a vastra
 
-
 ॐ श्रीं ... स्वाहा। महागणपतये नमः। यज्ञोपवीतार्थं अक्षतान् समर्पयामि।
 
 Offer akṣata
-
 
 ॐ श्रीं ... स्वाहा। महागणपतये नमः। आभरणार्थं अक्षतान् समर्पयामि।
 
 Offer akṣata
 
-
 ॐ श्रीं ... स्वाहा। महागणपतये नमः। गन्धान् धारयामि।
 
 Apply some sandalwood paste.
-
 
 ॐ श्रीं ... स्वाहा। महागणपतये नमः। गन्धोपरि हरिद्रा-कुङ्कुमं समर्पयामि।
 
 Apply some kuṅkumum power.
 
-
 अक्षतान् समर्पयामि।
 
 Offer maṅgala akṣata
 
-
 ॐ श्रीं ... वशमानय स्वाहा। महागणपतये नमः। पुष्पमालां समर्पयामि।
 
 Offer a garland of flowers
-
 
 ॐ सुमुखाय नमः। ॐ एकदन्ताय नमः। ॐ कपिलाय नमः।
 ॐ गजकर्णकाय नमः। ॐ लम्बोदराय नमः। ॐ विकटाय नमः।
@@ -1038,27 +919,22 @@ Offer a garland of flowers
 
 Having performed the arcanā above, perform archanā 16 times with the mūla mantra. Then do the aṣṭottara śata nāma pūjā with the 108 names found at the end of this book.
 
-
 ॐ महागणपतये नमः। नानाविध-पत्र-पुष्पाणि समर्पयामि॥
 
 ॐ श्रीं ... वशमानय स्वाहा। महागणपतये नमः। धूपं आघ्रापयामि।
 
 Light the sāmbrāṇi dūpa or agarbatti
 
-
 ॐ श्रीं ... वशमानय स्वाहा। महागणपतये नमः। दीपं दर्शयामि।
 
 Show a dīpa lit with a ghee wick
-
 
 ## प्रधाननैवेद्यम्
 
 Prepare as much of the homa dravyas as are required for the homa.
 For the homa -- long strips of coconut, gajjery, honey, ghee, puffed rice (nel pori), flat rice (avil), sattumaavu(?), sugarcane, some sesame seeds, banana (cut into coin sized pieces), modakam, appam -- all of this should be mixed.
 
-
 Traditionally, 1/3rd of this homa dravya should be taken for the pradhāna naivedya.
-
 
 ( एकस्मिन् नालिकेरे गुडमुदधिफलं द्वे पले क्षौद्रमाज्यम्।  
 जालानां मुष्टिरष्टौ पृथुकमपि तथा सक्तवश्च क्रमेण।  
@@ -1077,106 +953,82 @@ Traditionally, 1/3rd of this homa dravya should be taken for the pradhāna naiv
 
 Now start the homa in the homa kunda. ( ullekhanam, agni pratiṣṭhā up until the agni mukha should be performed according to one's own gr̥hya sūtra. Here the āpastamba sūtra is followed )
 
-
 स्थण्डिलं कल्पयित्वा।
 
 A square vedi should be prepared with fine sand sloping towards the north. Then with the bottom of the darbha
 
-
 प्राचीः पूर्वमुदक्सँस्थं दक्षिणारम्भमालिखेत्।
 
-
 With this from the west towards the east draw three lines. The first line in the south, then middle, then north.
-
 
 अथोदीचीः पुरःसँस्थं पश्चिमारम्भमालिखेत्।
 
 With this from the south towards the north draw three lines. The first line in the west, then middle, then east.
 Then put those darbhas in the middle of the vedi. Take some water in a small vessel and pour it in the palm (facing upwards), and then saying अवाक्करोऽवोक्ष्य, turn the palm downwards and sprinkle water on those dharbhas. Place the vessel down, and then discard the darbha in the south-west saying तृणन्निरस्य. Then saying अप उपस्पृश्य, touch some water. Have the agni brought in a copper plate, stand on the eastside of the vedi (facing west) , place the agni in the vedi.
 
-
 भूर्भुवः॒सुव॒रोम्। (इत्यगिं प्रतिष्ठाप्य)
 
 Establish the agni, and put some akṣata and water in the plate in which the fire was brought.
-
 
 उत्सिच्यते अवोक्षणतोयशेषं प्राक्तोयमन्यत् निदधाति।
 
 Discard the remainder of the water in the vessel ( which was used to sprinkle on the dharbas) to the east of the Agni. Then fill the vessel with fresh water and place it to the east of the agni.
 
-
 अग्निमिध्वा।
 
 Place a samit in the agni.
-
 
 अग्निं प्रज्वाल्य।
 
 Fan the fire until the flames are established.
 
-
 paristaraṇam -- In the east of the fire with north facing tips place 16 darbhas. In the south of the fire with east facing tips place 16 darbhas. In the west of the fire with north facing tips place 16 darbhas. In the north of the fire with east facing tips place 16 darbhas.
-
 
 The tips of the darbhas in the south should be raised above the tips of the darbha that it touches (i.e. in the east and west). The tips of the darbhas in the north should be placed below the tips of the darbha that it touches (i.e. in the east and west).
 
-
 To the north of the northern paristaraṇam 12 darbhas with tips facing east should be laid down for पात्रसादनं. Next in twos
-
 
 दर्वीं, आज्यस्थालीं, प्रोक्षणीं, प्रणीतां, इतरदर्वीं, इध्मम्।
 
 These 6 patras should be laid in twos, from the west, upside down.
 
-
 पात्रसादनम्।
 
 Saying this, to the west of the agni (in front of us) 6 darbhas should be laid with tips facing north.
-
 
 प्रणितोत्तरासनम्।
 
 Saying this, 12 darbhas should be placed between the northern paristaraṇa and the pātrasādana darbhas with tips facing east for the praṇītā pātra.
 
-
 ब्रह्मदक्षिणासनम्।
 
 To the south of the agni, with tips facing east 4 darbhas should be laid for brahma. 2 darbhas with similar length of 6-7 1/2 aṅgulas should be made into a pavitra and worn. All the patras placed upside down should be touched.
 
-
 The prokṣaṇī patra should be placed in front of the yajamāna in the darbha. The pavitra should be placed with tips facing north. Some akṣata should be placed in it, and water should be poured. With the thumb and ring fingers the water should be purified from west to east. The vessels in the north should be placed upright and the bundle of samidh should be untied. The pavitra should be used to do prokshaṇa of these items thrice. The prokṣaṇa pātra should be placed to the south.
 
-
 Then the praṇītā patra should be taken and placed in front on the. Some akśata and water should be placed in it. It shoudl be purified thrice (from west to east) and should be lifted in line with the north. It should be placed on the north on the darbhas placed for this vessel.
-
 
 वरुणाय नमः। सकलाराधनैः स्वर्चितम्।
 
 Saying this, akṣatā should be placed there and it should be covered with darbha.
 
-
 अस्मिन् महागणपति-होम-कर्मणि ब्राह्मणस्य इदमासनम्।
 
 Place a seat for brahma with darbha.
-
 
 ब्रह्मणे नमः। सकलाराधनैः स्वर्चितम्।
 
 Saying this, put some akṣata.
 
-
 आज्यसंस्कारः
 
 The ghee vessel in the north should be placed in the darbha in front (outside the paristaraṇa). The pavitra will be placed on top and ghee melted in the fire should be warmed on the fire and poured in the vessel. From the northern part of the fire, three pieces of lit coals should be taken and placed to the left of the yajamāṇa outside the paristaraṇa on top of flattened dried cow-dung. The ghee pot should be placed on top of it. Now one darbha should be shown to the fire and lit and the darbha shoudl be shown to the ghee and discarded to the north. Then two darbha tips should be taken (without cutting with the nails) and shoudl be placed in the ghee. One more darbha should be taken and shown to the fire and lit. It should be shown in a clockwise manner to the ghee vessel and discarded. The ghee pot should be placed to the north, and the lit coals should be placed back in the fire. The ghee pot should be placed in front and pavitra (with the tips facing north) should be used to purify the ghee pot once from east to west and again push it to the east. This should be repeated thrice. The pavitra knot should be undone. Touch the hands to water and place the pavitra in the fire with tips facing east.
-
 
 दर्वीसंस्कारः
 
 Palaśa (jack fruit) or whatever leaves are to be used for homa, those two "darvi" leaves with "yena juhoti" shoudl be shown in the fire with the hollow facing the fire.
 
-
 Hold both darvis in the left hand and take three darbhas in the right hand. Use the darbhas to clean the darvis in the crevice and Show the darvis once again to the fire. Do proksaṇa thrice and then place the to the north of the ghee pot. The darbhas should touch water and then be place in the fire.
-
 
 अदि॒तेऽनु॑मन्यस्व।
 
@@ -1208,151 +1060,121 @@ Hold both darvis in the left hand and take three darbhas in the right hand. Use 
 
 (Offer aksata)
 
-
 महागणपतिं आवाहयामि।
 
 (Offer aksata)
-
 
 ॐ श्रीं ... स्वाहा। महागणपतये नमः। आसनं समर्पयामि।
 
 [todo: sundar. missing instructions]
 
-
 ॐ श्रीं ... स्वाहा। महागणपतये नमः। रत्नसिंहासनं समर्पयामि।
 
 [todo: sundar. missing instructions]
-
 
 ॐ श्रीं ... स्वाहा। महागणपतये नमः। पादयोः पाद्यं समर्पयामि।
 
 Saying the above, take some water with an uddhariṇī close to the feet of the deity and pour it into argya vessel.
 
-
 ॐ श्रीं ... स्वाहा। महागणपतये नमः। हस्तयोः अर्घ्यं समर्पयामि।
 
 Saying the above, take some water with an uddhariṇī , do the bhavna as if offering it to the deity with 2 hands and then pour it into argya vessel.
-
 
 ॐ श्रीं ... स्वाहा। महागणपतये नमः। मुखे आचमनीयं समर्पयामि।
 
 Saying the above, take some water with an uddhariṇī close to the mouth and pour it into argya vessel.
 
-
 ॐ श्रीं ... स्वाहा। महागणपतये नमः। मधुपर्कं समर्पयामि।
 
 Mix equal portions of milk, curd, honey, ghee, show it to the face of the deity and then pour it in to argya vessel
-
 
 ॐ श्रीं ... स्वाहा। महागणपतये नमः। स्नानं समर्पयामि।
 
 Having said the mantra above, perform prokṣana (sprinkle) water on the diety (Snanam)
 
-
 स्नानानन्तरं आचमनीयं समर्पयामि।
 
 Saying the above, take some water with an uddhariṇī and pour it into argya vessel.
-
 
 ॐ श्रीं ... स्वाहा। महागणपतये नमः। वस्त्रार्थं अक्षतान् समर्पयामि।
 
 Saying the above, offer aksata (turmeric & Kumkum mixed) to the diety, in place of vastra to the deity
 
-
 ॐ श्रीं ... स्वाहा। महागणपतये नमः। उपवीतार्थं अक्षतान् समर्पयामि।
 
 Saying the above, offer aksata (turmeric & Kumkum mixed) to the diety, in place of upaveetham to the deity
-
 
 ॐ श्रीं ... स्वाहा। महागणपतये नमः। गन्धान् समर्पयामि।
 
 Apply the sandal paste on the forehead and chest of the deity.
 
-
 ॐ श्रीं ... स्वाहा। महागणपतये नमः। पुष्पाणि समर्पयामि।
 
 Offer flowers to the deity
-
 
 ॐ श्रीं ... स्वाहा। महागणपतये नमः। धूपं आघ्रापयामि।
 
 Sprinkle sambrani or dasangam in fire and show the smoke to the deity. Instead offer lighted incense sticks to the deity
 
-
 ॐ श्रीं ... स्वाहा। महागणपतये नमः। दीपं दर्शयामि।
 
 take a ghee lamp, with 3 wicks, and show it to the deity from the head to toe 3 times in clockwise direction.
-
 
 ॐ भूर्भुवः॒सुवः॑ ... ब्रह्म॑णे॒ स्वाहा॑।
 
 ॐ श्रीं ... स्वाहा। महागणपतये नमः। आज्योपहारं समर्पयामि।
 (saying above, offer ghee in to the agni)
 
-
 अ॒मृ॒ता॒पि॒धा॒नम॑सि।
 
 Pour water into argya vessel. Offer tambula as neivedyam
-
 
 ॐ श्रीं ... स्वाहा। महागणपतये नमः। कर्पूर-ताम्बूलं समर्पयामि।
 
 Offer the tambula into agni.
 
-
 कर्पूर-नीराजनं दर्शयामि।
 
 Perform camphor harathi
-
 
 ॐ श्रीं ... स्वाहा। महागणपतये नमः। प्रदक्षिण-नमस्कारान् समर्पयामि।
 
 (offer aksata)
 
-
 ## प्रधानहोमः
 
 Starting with pranava (ॐ) till vaśamānaya svāhā, each padam(word) is added and offered as ahuti
-
 
 ॐ स्वाहा, ॐ श्रीं स्वाहा, ॐ श्रीं ह्रीं स्वाहा, ॐ श्रीं ह्रीं क्लीं स्वाहा…
 
 Like this, with every word in the mūla mantra, subsequent word is added and offered as āhuti. Finally the full mūla mantra is recited and ājya homam is performed. Then all the prepared dravyas (Traditionally, kozhukattai, appam, grass, samit, rice pori, sugarcane, ājya, fruits, cane sugar, honey are mixed together and offered in the homam for atleast 8 muṣṭis (handfuls)). Either these dravyas can be offered individually or mixed, for a minimum of 8 āvr̥ttis (repetitions) up to 1000 āvr̥ttis, based on individual convenience. While doing homa, we have to visualize as if we are offering these dravyas into the mouth of the Lord Gaṇapati in Agni.
 
-
 Reciting mūla mantra, offer ghee 8 times into the homam. Hold the ghee vessel in left hand.
-
 
 ॐ श्रीं ... स्वाहा। महागणपतय इदं न मम।
 
 Take the mixture of coconut and other dravyas, recite the below mantra and offer 8 or 16 āvr̥ttis.
 
-
 ॐ गणानां त्वा ... सीद साद॑नम्।
 
 Perform homa with 8 āvr̥ttis of the following mantra
-
 
 तत्पुरु॑षाय वि॒द्महे॑ वक्रतु॒ण्डाय॑ धीमहि। तन्नो॑ दन्तिः प्रचो॒दया॑त्॥
 
 Perform homa with 8 āvr̥ttis of the following mantra
 
-
 वक्रतुण्ड महाकाय सूर्यकोटि-समप्रभ।
 
 Perform homa with atleast 4 āvr̥ttis, with the following mantra
-
 
 ... नक्षत्रे ... राशौ जातस्य शर्मणः अस्य यजमानस्य सकुटुम्बस्य अनुकूलं प्रयच्छ प्रयच्छ, प्रतिकूलं नाशय नाशय, आपदो नाशय नाशय, संपदो वर्धय वर्धय, सर्वत्र विजयं प्रापय प्रापय, सर्वजनानुकूल्यं कुरु कुरु।
 अविघ्नं कुरु मे देव सर्वकार्येषु सर्वदा स्वाहा॥
 
 Offer 8 avratis of arugampul (Bermuda grass) dipped in milk or ghee, reciting moola mantra.
 
-
 ॐ श्रीं ... स्वाहा। महागणपतय इदं न मम॥
 
 Offer 8 avratis , with puffed rice (nel pori)
-
 
 उत्तिष्ठ पुरुष हरित-पिङ्गल-लोहिताक्ष धन-धान्य-समृद्धिं देहि देहि दापय दापय स्वाहा। महागणपतय इदं न मम॥
 (नालिकेर-कपालैः)
@@ -1360,13 +1182,11 @@ Offer 8 avratis , with puffed rice (nel pori)
 Take the coconut shell that was taken for homa and offer it in 2 reciting the following mantras.
 First take the half which has the eyes and offer it in homa reciting the following mantra.
 
-
 जा॒तवे॑दसे सुनवाम॒ सोम॑मरातीय॒तो निद॑हाति॒ वेदः॑।
 स नः॑ पर्ष॒दति॑ दु॒र्गाणि॒ विश्वा॑ ना॒वेव॒ सिन्धुं॑ दुरि॒तात्य॒ग्निः स्वाहा॑।  
 अग्निरूपाय महागणपतय इदं न मम॥
 
 Take the other half of the coconut shell and offer it as ahuti in agni, reciting the following mantra.
-
 
 ध्रु॒वासु॑ त्वा॒सु क्षि॒तिषु॑ क्षि॒यन्तो॒ व्य(१)स्मत्पाशं॒ वरु॑णो मुमोचत्।
 अवो॑ वन्वा॒ना अदि॑तेरु॒पस्था॑द् यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः॒ स्वाहा॑॥  
@@ -1374,11 +1194,9 @@ Take the other half of the coconut shell and offer it as ahuti in agni, reciting
 
 Again reciting mūla mantra, offer 8 āhutis with ghee
 
-
 ॐ श्रीं ... स्वाहा। महागणपतय इदं न मम॥
 
 With this pradhāna homam is completed.
-
 
 ## जयादिहोमः
 
@@ -1540,47 +1358,34 @@ With this pradhāna homam is completed.
 
 परिध्यञ्जनम्  Using a big leaf, take the ghee and offer it on the central paridhi (big boundary stick immediately around the ḫire). Again take ghee using the leaf and offer it  on the paridhi placed to the south and north of the fire respectiely.
 
-
 प्रधानं दक्षिनतः Keep the Big leaf in the south and keep the small leaf between the ghee vessel and the big leaf.
 आज्यस्थालीं उत्तरतः Ghee vessel is kept in the same place.
 
-
 पात्रप्रयुक्तं तृणं अत्रबर्हिः Take the few dharbas that was placed to the west of Agni and all the dharbas in the north
-
 
 प्रधानदर्व्या अग्नम् -wrap the big leaf in the top of the dharbas,
 
-
 इतरस्यां मध्यम्- small leaf in the middle
 
-
 आज्यस्थाल्यां मूलम् - use the tip of dharbas to dip into ghee as if you are wiping the ghee of the vessel. Do this process 3 times.
-
 
 Then keep aside one dharba (do not keep it on lap) . Offer the rest from the tip to the base into Agni
 अप उपस्पृश्य – Offer that one dharbha that was kept aside into the Agni.
 
-
 Reciting (निदैशनं च) एतत् 3 times, show the index finger towards agni.
 अग्निं अभिमन्त्रणं च – keep two hands on 2 sides of the agni, near the Paridhi (left and right side) and pray to agni.
 
-
 Then join the hands together and pray Agni.
-
 
 Then reciting भूमौ निर्मार्ष्टि touch the earth with the thumb.
 
-
 परिधिप्रहरः Take the paridhi in the center and offer it into Agni first. While offering, point the tip towards east.
 
-
 Recite इतरौ प्रहरन् – Take the other 2 paridhis and offer it in the Agni . If other Aahara Samiths are remaining, offer them too into Agni.
-
 
 ## प्रायश्चित्तहोमः
 
 Take the small leaf and offer ghee into Agni for each of the aahuti in the following verses.
-
 
 अस्मिन् कर्मणि अविज्ञात-प्रायश्चित्तानि करिष्ये।
 
@@ -1633,7 +1438,6 @@ After reciting the above, offer ghee into agni. Then recite the following verse.
 
 Next we do the pūrṇāhuti homam. (In general custom, the ghee needs to be offered using sruk (the big offering spoon). However it it is common to wrap a coconut/ fruits with silk cloth and offer it)
 
-
 पू॒र्णा॒हु॒तिमु॑त्त॒मां जु॑होति। सर्वं॒ वै पू॑र्णाहु॒तिः। सर्व॑मे॒वाप्नो॑ति।
 अथो॑ इ॒यं वै पू॑र्णाहु॒तिः। अ॒स्यामे॒व प्रति॑ तिष्ठति॥
 
@@ -1641,12 +1445,10 @@ Next we do the pūrṇāhuti homam. (In general custom, the ghee needs to be o
 
 Then offer ahutis using the mūla mantra till all the things offered in homa are completely consumed by agni
 
-
 ॐ श्रीं ... वशमानय स्वाहा॑॥
  (ॐ श्रीं वशमानय स्वाहा॑॥)
 
 Then do the mūla mantra japa 16 times. Then per convenience recite gaṇapati atharvaśīrṣa, bhāgya sukta, durgā sukta and śrī sūkta. Then recite the gaṇeśa gāyatrī (below).
-
 
 तत्पुरु॑षाय वि॒द्महे॑ वक्रतु॒ण्डाय॑ धीमहि। तन्नो॑ दन्तिः प्रचो॒दया॑त्॥
 
@@ -1654,26 +1456,21 @@ Then do the mūla mantra japa 16 times. Then per convenience recite gaṇapati 
 
 Take the 2 leaves and offer ghee in homa reciting the following mantra.
 
-
 स॒प्त ते॑ अग्ने स॒मिध॑ स॒प्त जि॒ह्वाः स॒प्तर्ष॑यः स॒प्त धाम॑ प्रि॒याणि॑।  
 स॒प्त होत्रा॑ सप्त॒धा त्वा॑ यजन्ति स॒प्त योनी॒रा पृ॑णस्वा घृ॒तेन॒ स्वाहा॑॥
 
 Then recite,
-
 
 अग्नये सप्तवत इदं न मम।  
 (ॐ श्रीं ... वशमानय स्वाहा)
 
 Place the ghee vessel in the north
 
-
 अप उपस्पृश्य। प्रायश्चित्त-प्राणायामः।
 
 do prāṇāyāma
 
-
 Then using water circle the homa kunda
-
 
 अदि॑ते - अन्व॑मँस्थाः। South  
 अनु॑मते - अन्व॑मँस्थाः। - West  
@@ -1682,14 +1479,11 @@ Then using water circle the homa kunda
 
 And do pariśecana.
 
-
 Recite the following verse and put akṣatā in the praṇītī water vessel (in north).
-
 
 वरुणाय नमः। सकलाराधनैः स्वर्चितम्।
 
 Place the vessel in front of you, hold the vessel using left hand , take one uddarini of water and offer 2 drops on each direction of the vessel reciting the following
-
 
 प्राच्यां – East  
 दक्षिणायां -  South  
@@ -1698,11 +1492,9 @@ Place the vessel in front of you, hold the vessel using left hand , take one udd
 ऊर्ध्वायां – toward the top  
 अधः all the water in uddarini needs to be offered down towards east. Then do proksana for self and wife.
 
-
 ब्रह्मन् वरं ते ददामि।
 
 Give dakṣiṇā to brahmā and recite the following:
-
 
 ब्रह्मणे नमः। सकलाराधनैः स्वर्चितम्।
 
@@ -1710,17 +1502,14 @@ Give dakṣiṇā to brahmā and recite the following:
 
 Offer one samith in agni
 
-
 स्वाहा॑। अग्नेरुपस्थानं करिष्ये।
 
 Stand up and recite the following.
-
 
 अग्ने॒ नय॑ सु॒पथा॑ रा॒ये अ॒स्मान् विश्वा॑नि देव व॒युना॑नि वि॒द्वान्। यु॒यो॒ध्य॑स्मज्जु॑हुरा॒णमेनो॒ भूयि॑ष्ठां ते॒ नम॑उक्तिं विधेम॥ अग्नये नमः।
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/mantrahInam_hutAshana.md">
 <details open><summary><h5>मन्त्रहीनं - हुताशन ...{Loading}...</h5></summary>
-
 
 (अग्नये नमः)
 
@@ -1731,6 +1520,7 @@ Stand up and recite the following.
 यद्धुतं तु मया देव  
 परिपूर्णं तदस्तु ते ॥  
 </details>
+
 <details><summary>मूलम्</summary>
 
 मन्त्रहीनं क्रियाहीनं  
@@ -1749,6 +1539,7 @@ Stand up and recite the following.
 यानि तेषाम् अशेषाणां  
 कृष्णानुस्मरणं परम् ॥
 </details>
+
 <details><summary>मूलम्</summary>
 
 प्रायश्चित्तान्यशेषाणि  
@@ -1772,37 +1563,29 @@ Stand up and recite the following.
 
 Do a namaskāra
 
-
 अग्नौ आवाहितं महागणपतिं हृदि प्रवेशयामि।
 
 Take one of the flowers previously offered to gaṇapati. Smell it and visualize his entry into a lotus in the heart.
-
 
 ## पुनर्पूजा
 
 Do this for kumbha
 
-
 महागणपतये आसानार्थं अक्षतान् समर्पयामि।
 
 Offer Aksata
-
 
 पाद्यं समर्पयामि।
 
 Offer water in arghya vessel
 
-
 अर्घ्यं समर्पयामि।
 
-
 Offer water in arghya vessel
-
 
 आचमनीयं समर्पयामि।
 
 Offer water in arghya vessel
-
 
 स्नानं समर्पयामि।
 आपो॒ हिष्ठा ... आपो॑ ज॒नय॑था च नः।
@@ -1813,41 +1596,33 @@ Offer water in arghya vessel
 
 Do prokṣaṇa
 
-
 स्नानानन्तरं आचमनीयं समर्पयामि।
 
 Offer water in arghya  vessel
-
 
 वस्त्र-यज्ञोपवीत-आभरणार्थं अक्षतान् समर्पयामि।
 
 Offer akṣatā
 
-
 गन्धान् धारयामि।
 
 Offer Sandal paste
-
 
 हरिद्रा कुङ्कुमं समर्पयामि।
 
 Offer kumkuma
 
-
 अक्षतान् समर्पयामि।
 
 Offer akṣatā
-
 
 पुष्पाणि समर्पयामि।
 
 Offer flowers
 
-
 पुष्पैः पूजयामि।
 
 Do puṣpārcanā reciting the following.
-
 
 ॐ सुमुखाय नमः। ॐ एकदन्ताय नमः। ॐ कपिलाय नमः।
 ॐ गजकर्णकाय नमः। ॐ लम्बोदराय नमः। ॐ विकटाय नमः।
@@ -1861,19 +1636,15 @@ Do puṣpārcanā reciting the following.
 
 Offer dhūpa
 
-
 श्रीमहागणपतये नमः। दीपं संदर्शयामि।
 
 Offer dīpa
 
-
 Naivedya – First sprinkle water in the naivedya place and clean it, then keep the naivedya vessel there. In the neivedyam, offer one tulasī leaf.
-
 
 ॐ भूर्भुवः॒सुवः॑
 
 Do pariśecana (with each of the following three mantras)
-
 
 तत्स॑वि॒तुर्वरे॑ण्यं॒ भर्गो॑ दे॒वस्य॑ धीमहि। धियो॒ यो नः॑ प्रचो॒दया॑त्॥
 देव॑ सवितः॒ प्रसु॑व।
@@ -1881,7 +1652,6 @@ Do pariśecana (with each of the following three mantras)
 अ॒मृ॒तो॒प॒स्तर॑णमसि।
 
 Offer water in arghya vessel
-
 
 ॐ प्रा॒णाय॒ स्वाहा॑। अ॒पा॒नाय॒ स्वाहा॑। व्या॒नाय॒ स्वाहा॑। उ॒दा॒नाय॒ स्वाहा। स॒मा॒नाय॒ स्वाहा॑। ब्रह्म॑णे॒ स्वाहा॥
 
@@ -1897,23 +1667,19 @@ Offer water in arghya vessel
 
 Offer water in arghya vessel
 
-
 नैवेद्यानन्तरं आचमनीयं समर्पयामि।
 
 Offer water in arghya vessel
 
-
 भूर्भुवः॒सुवः॑।
 
 Offer water on some beetel leaves (or nuts/bananas) and recite the following verse
-
 
 पूगीफल-समायुक्तं नागवल्लीदलैर्युतम्।  
 कर्पूरचूर्त्ण संयुक्तं ताम्बूलं प्रतिगृह्यताम्॥  
 श्रीमहागणपतये नमः। कर्पूर-ताम्बूलं समर्पयामि॥
 
 Offer nīrājana (camphor).
-
 
 चन्द्रादित्यौ च ताराणि विद्युदग्निः त्वमेव च।  
 त्वमेव सर्वज्योतींषि भज नीराजनं प्रभो॥  
@@ -1924,7 +1690,6 @@ Offer nīrājana (camphor).
 
 Take the offered nīrājana (as prasāda) with both hands.
 
-
 यो॑ऽपां पुष्पं॒ वेद॑। पुष्प॑वान् प्र॒जावा॑न् पशु॒मान् भ॑वति।  
 च॒न्द्रमा॒ वा अ॒पां पुष्प॑म्। पुष्प॑वान् प्र॒जावा॑न् पशु॒मान् भ॑वति॥
 
@@ -1934,7 +1699,6 @@ Take the offered nīrājana (as prasāda) with both hands.
 
 Offer flowers and do pradakṣiṇā reciting the following
 
-
 यानि कानि च पापानि जन्मान्तर-कृतानि च।  
 तानि तानि विनश्यन्तु प्रदक्षिण-पदे पदे॥
 
@@ -1942,7 +1706,6 @@ Offer flowers and do pradakṣiṇā reciting the following
 प्रदक्षिणं करोमीश प्रसीद गणनायक॥
 
 Do namaskāra and then offer your prayers
-
 
 गजाननं भूतगणादि-सेवितं कपित्थ-जम्बू-फलसार-भक्षितम्।  
 उमासुतं शोक-विनाश-कारणं नमामि विघ्नेश्वर-पाद-पङ्कजम्॥
@@ -1956,28 +1719,22 @@ Do namaskāra and then offer your prayers
 
 Offer flowers
 
-
 महागणपतये नमः। छत्र-चामरादि-समस्तोपचारान् समर्पयामि॥
 
 Offer Aksata
 
-
 Then do the 'deva tarpaṇa' (it means we are satisfying the deity) take water in the uddhariṇī with the left hand and offer it through the right hand. It should the poured into the palm and should drop out through the tips of the fingers.
-
 
 सुमुखं तर्पयामि। एकदन्तं तर्पयामि। कपिलं तर्पयामि। गजकर्णकं तर्पयामि। लम्बोदरं तर्पयामि। विकटं तर्पयामि। विघ्नराजं तर्पयामि। विनायकं तर्पयामि। धूमकेतुं तर्पयामि। गणाध्यक्षं तर्पयामि। फालचन्द्रं तर्पयामि। गजाननं तर्पयामि। वक्रतुण्डं तर्पयामि। शूर्पकर्णं तर्पयामि। हेरम्बं तर्पयामि। स्कन्दपूवजं तर्पयामि। महागणपतये नमः समस्तोपचारान् समर्पयामि॥
 
 Offer flowers
 
-
 Udhvasanam -  recite moola mantra for 16 times.
 [todo: match 16 with 12 below)
-
 
 ॐ श्रीं ... स्वाहा॥
 
 (12 times)
-
 
 गां हृदयाय नमः। गीं शिरसे स्वाहा।
 गूं शिखायै वषट्। गैं कवचाय हुम्।
@@ -2009,7 +1766,6 @@ Udhvasanam -  recite moola mantra for 16 times.
 
 Offer flowers to the kumbha. Move the kumba a little towards the north. Take the kumba water and do prokṣaṇa for oneself and one's wife and then for everyone else.
 
-
 आपो॒ हि ष्ठा म॑यो॒भुवः॑। ता न॑ ऊ॒र्जे द॑धातन। म॒हे रणा॑य॒ चक्ष॑से।  
 यो वः॑ शि॒वत॑मो॒ रसः॑। तस्य॑ भाजयते॒ह नः॑। उ॒श॒तीरि॑व मा॒तरः॑।  
 तस्मा॒ अर॑ङ्गमाम वः। यस्य॒ क्षया॑य॒ जिन्व॑थ। आपो॑ ज॒नय॑था च नः।
@@ -2020,12 +1776,10 @@ Offer flowers to the kumbha. Move the kumba a little towards the north. Take the
 
 Now take the kumba tīrtha in an uddarini (left hand) and pour it into the right hand, keep the aṅgavastra  under the hand and drink it (without touching the mouth) reciting the following verse. Give the tīrtha to one's wife and then to everyone else.
 
-
 अकाल-मृत्यु-हरणं सर्व-व्याधि-निवारणम्।  
 सर्व-पाप-क्षयकरं मन्त्रपूतोदकं शुभम्॥
 
 ṭake the Raksha from the north-eastern side of the homa and apply it on the forehead
-
 
 बृ॒हत्साम॑ - क्ष॒त्र॒भृत् - वृ॒द्धवृ॑ष्णियम्।  
 त्रि॒ष्टुभौजः॑ - शु॒भि॒तं - उ॒ग्रवी॑रम्।  
@@ -2034,14 +1788,12 @@ ṭake the Raksha from the north-eastern side of the homa and apply it on the fo
 
 Then offer daksina to the priests/Brahmin who performed the puja. (when is it self?). Then take akṣatā and water in hand, recite the following and pour it on the ground.
 
-
 कायेन वाचा मनसेन्द्रियैर्वा बुद्ध्यात्मना वा प्रकृतेः स्वभावात्।  
 करोमि यद्यत् सकलं परस्मै नारायणायेति समर्पयामि॥
 
 मया कृतमिदं महागणपति-होमाख्यं कर्म ॐ तत्सत् ब्रह्मार्पणमस्तु॥
 
 Then distribute prasadam to everyone. If possible, feed the brāhmaṇas.
-
 
 ## गणेश-अष्टोत्तरशत-नामावलिः
 

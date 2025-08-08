@@ -3,7 +3,8 @@ title = "१३ पत्नीसंयाजे सोमाह्वानम
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/3/5_iShTi-hautrAdi/13_patnIsaMyAje_somAhvAnam"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/3/5_iShTi-hautrAdi/13_patnIsaMyAje_somAhvAnam">
+<details open><summary><h1>१३ पत्नीसंयाजे सोमाह्वानम् ...{Loading}...</h1></summary>
 
 ## इष्टिहौत्रम्  
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -45,8 +46,6 @@ unicode_script = "devanagari"
 अदि॑तिरिव सुपु॒त्रा ।  
 उत्त॑रस्यान्देवय॒ज्याया॒मुप॑हूता ।  
 भूय॑सि हवि॒ष्कर॑ण॒ उप॑हूता ।  
-
-
 
 दि॒व्ये धाम॒न्नुप॑हूता ।  
 इ॒दम्मे॑ दे॒वा ह॒विर्जु॑षन्ता॒मिति॒ तस्मि॒न्नुप॑हूता ।  
@@ -94,8 +93,6 @@ unicode_script = "devanagari"
 उत्त॑रस्यान्देवय॒ज्याया॒मुप॑हूता ।  
 भूय॑सि हवि॒ष्कर॑ण॒ उप॑हूता ।  
 
-
-
 दि॒व्ये धाम॒न्नुप॑हूता ।  
 इ॒दम्मे॑ दे॒वा ह॒विर्जु॑षन्ता॒मिति॒ तस्मि॒न्नुप॑हूता ।  
 विश्व॑मस्याᳶ प्रि॒यमुप॑हूतम् ।  
@@ -110,5 +107,6 @@ unicode_script = "devanagari"
 
 प्रश्नश्च समाप्तः ॥  
 
+</details>
 </details>
 </div>

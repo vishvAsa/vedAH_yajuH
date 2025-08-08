@@ -3,11 +3,11 @@ title = "५० सवनीयपशुपुरोडाशाः"
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/1/5_nAxatrAdi/11_savanIyapashupuroDAshAH"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/1/5_nAxatrAdi/11_savanIyapashupuroDAshAH">
+<details open><summary><h1>११  सवनीयपशुपुरोडाशाः ...{Loading}...</h1></summary>
 
 ## आध्वरब्राह्मणम्
 ## नक्षत्रेष्टिकाण्डम्‌
-
 
 <details><summary>मूलम्</summary>
 
@@ -29,7 +29,6 @@ unicode_script = "devanagari"
 
 1 ये वै चत्वातस्स्तोमा इति ॥ ये त्रिवृदादयः चत्वार एव स्तोमाः स्युः तत् कृतं पुष्कलं पृथुलधर्मकेण कृतेन तुल्यम् ।
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -83,7 +82,6 @@ unicode_script = "devanagari"
 त्रि॒वृत् प॑ञ्चद॒शस् स॑प्तद॒श ए॑कविँ॒शः ॥ 51 ॥  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 ए॒तानि॒ वाव तानि॒ ज्योतीँ॑षि ।
@@ -104,7 +102,6 @@ unicode_script = "devanagari"
 
 त्रिवृदादीनां ज्योतिषां प्रसिद्धत्वादेवास्य ज्योतिष्टोमात्मकतासिद्धिरित्याह - वाव तानि ज्योतींषीति ॥ द्योतनहेतुत्वाद्यज्ञस्य एतानि ज्योतींषि एतत्स्तोमत्वात् ज्योतिष्टोमत्वम् ॥
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -161,7 +158,6 @@ unicode_script = "devanagari"
 तद् आ॑हुः ॥ 52 ॥  
 "यद् अ॒श्विभ्या॑न् धा॒नाः ।  पू॒ष्णᳵ क॑र॒म्भः ।  भार॑त्यै परिवा॒पः ।  मि॒त्रावरु॑णयोᳶ पय॒स्या ।
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -225,7 +221,6 @@ unicode_script = "devanagari"
 5 तं वसव इत्यादि ॥ वस्वादय इव यद्यष्टाकपालादीन् प्रातस्सवनादिषु कुर्यात्
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 स यद॒ष्टाक॑पालान्प्रातस्सव॒ने कु॒र्यात् ।
@@ -251,7 +246,6 @@ unicode_script = "devanagari"
 तत् यज्ञस्य विलोम प्रतिलोम कियते सवनीययागस्यैन्द्रत्वात् ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 एका॑दशकपालाने॒व प्रा॑तस्सव॒ने कु॑र्यात् ।
@@ -274,7 +268,6 @@ unicode_script = "devanagari"
 
 तस्मात् एकादशकपालानेव सर्वेषु कुर्यात् इति ॥
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -305,8 +298,8 @@ unicode_script = "devanagari"
 
 6 तदाहुरित्यादि ॥ गतम् ॥
 
-
 इति पञ्चमे एकादशोऽनुवाकः ॥  
 
+</details>
 </details>
 </div>

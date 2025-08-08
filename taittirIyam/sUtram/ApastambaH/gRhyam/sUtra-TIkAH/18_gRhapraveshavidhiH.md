@@ -9,12 +9,10 @@ title = "१८ गृहप्रवेशविधिः"
 <div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/18_gRhapraveshavidhiH/17_07_pAlAshaM_shamImayam.md">
 <details open><summary><h3>१७ ०७ पालाशं शमीमयम् ...{Loading}...</h3></summary>
 
-
 पालाशं शमीमयं वेध्मम् +++(पाकाग्वाव्)+++ आदीप्योत्तरयर्चा +++("उद्ध्रियमाण"इत्येतया पञ्चपादया)+++ ऽग्निम् उद्धृत्य  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/12_uddhriyamANa_uddhara.md">
 <details open><summary><h5>१२ उद्ध्रियमाण उद्धर ...{Loading}...</h5></summary>
-
 
 उ॒द्ध्रि॒यमा॑ण॒ उद्ध॑र पा॒प्मनो॑ मा॒  
 यद् अवि॑द्वा॒न् यच् च॑ वि॒द्वाँश् च॒कार॑ ।  
@@ -25,14 +23,12 @@ title = "१८ गृहप्रवेशविधिः"
 </details>
 </div>
 
-
 __________________
 ###### अगारप्रतिपादनम्
 उत्तरेण यजुषा +++("इन्द्र स्य गृहा वसुमन्तो वरूथिनः")+++ ऽगारं प्रपाद्य  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/13_indrasya_gRhA.md">
 <details open><summary><h5>१३ इन्द्रस्य गृहा ...{Loading}...</h5></summary>
-
 
 इन्द्र॑स्य +++(मम)+++ गृ॒हा वसु॑मन्तो वरू॒थिन॒स्+++(=गृह[+अवयवा])+++ -  
 तान् अ॒हँ सु॒मन॑सः॒ प्रप॑द्ये ।  
@@ -46,7 +42,6 @@ __________________
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/14_amRtAhutimamRtAyAnjuhomyagnim_pRthivyAmamRtasya.md">
 <details open><summary><h5>१४ अमृताहुतिममृतायाञ्जुहोम्यग्निम् पृथिव्याममृतस्य ...{Loading}...</h5></summary>
-
 
 अ॒मृ॒ता॒हु॒तिम् अ॒मृता॑याञ् जुहोम्य्+++(→स्थापयामि)+++  
 अ॒ग्निं पृ॑थि॒व्याम् अ॒मृत॑स्य॒ जित्यै॑ ।  
@@ -65,6 +60,7 @@ __________________
 
 7. He sets a piece of Palāśa wood or of Śamī wood on fire, takes the fire up (in a dish) with the next verse (II, 15, 12), carries it to the house with the next Yajus (II, 15, 13), and places the fire in the north-eastern part of the house with the next (II, 15, 14).
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 अथ प्रवेशनविधिः ।
@@ -75,6 +71,7 @@ __________________
 बीजवतो गृहान् प्रतिपद्यते (आश्व.गृ.२-१०-२) इत्याश्वलायनः ।
 बीज-ग्रहणं सर्वेषाम् एव गृहोपकरणानाम् उपलक्षणम् ।
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **पालाशं शमीमयं वेध्मं**काष्ठम् _औपासने_ ऽग्नाव् आदीपयति । इध्मम् इति च "अग्निषु महत इध्मान् आदधाति" इतिवद् अनियतं संख्यादिकं विवक्षितम् ।
@@ -87,7 +84,6 @@ __________________
 यद्य् अहनि प्रवेशस् तदा रात्रिलिङ्गया, रात्रौ चेद् अहर् लिङ्गया ।
 
 रात्रौ च प्रवेशश् शिष्टाचार-प्रसिद्ध इति पूर्वमेवोक्तः ।
-
 
 ##### इध्मादीपनम्
 तत्र प्रवेक्ष्यन् **पालाशं शमीमयं वा इध्मं** अग्नाव् **आदीपयति** ।
@@ -169,12 +165,14 @@ ________________________
 
 8. The place for the water-barrel is to the south of that spot.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 एवं प्रतिष्ठितस्याग्नेः **दक्षिणमुदधानायतनं** कर्तव्यम् ।
 उदकं धीयते यत्र तत् उदधानं मणिकाख्यम् ।
 ________________________
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **तस्मात्** प्रतिष्ठिताग्नेर्दक्षिण**मुदधानस्य** मणिकस्या**यतनं** भवति ॥८॥
@@ -199,7 +197,6 @@ ________________________
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/15_annapate-nnasya_no.md">
 <details open><summary><h5>१५ अन्नपतेऽन्नस्य नो ...{Loading}...</h5></summary>
 
-
 अन्न॑प॒ते ऽन्न॑स्य नो देहि।  
 अ॒न॒मी॒वस्य॑+++(=आरोग्यकरस्य)+++ शु॒ष्मिणः॑+++(=बलिनः)+++ ।  
 प्रप्र॑ दा॒तार॑न् तारिषः।  
@@ -215,11 +212,13 @@ ________________________
 
 9. He strews there Darbha grass, so that its points are turned in every direction, pours rice and barley-grains over the (grass) with the next (verse, II, 15, 15), and thereon he places the water-barrel.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 **तस्मिन्न्** आयतने (१)**विषूचीनाग्रान्** सर्वतोदिक्कान् **दर्भान् संस्तीर्य तेषु** दर्भेषु **व्रीहीन् यवांश्च** संयुक्तान् **निवपति उत्तरयर्चा** "अन्नपत" इत्येतया (२)ततस् तस्मिन्नायतने **उदधानं प्रतिष्ठापयति** यथा निश्चलं भवति तथा स्थापयति ॥९॥
 ________________________
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **तस्मिन्** उदधानस्थाने **विषूचीनाग्रान्** नानादिगग्रान् **दर्भान् संस्तीर्य, तेषु** दर्भेषु **उत्तरया** "अन्नपतेऽन्नस्य" इत्येतया **ब्रीहियवांश्च** संयुक्तान् **न्युप्य** तेषू**दधानं प्रतिष्ठापयति** ॥९॥
@@ -244,7 +243,6 @@ ________________________
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/16_ariShTA_asmAkam.md">
 <details open><summary><h5>१६ अरिष्टा अस्माकम् ...{Loading}...</h5></summary>
 
-
 अरि॑ष्टा अ॒स्माकं॑ वी॒रास् स॑न्तु॒  
 मा परा॑ सेचि मे॒ धन॑म् ।+++(र४)+++  
 
@@ -258,6 +256,7 @@ ________________________
 
 10. With the next (Yajus, II, 15, 16) he pours four potfuls of water into it.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 **उत्तरेण यजुषा**"अरिष्टा अस्माकम्" इत्यनेन ।
@@ -265,6 +264,7 @@ ________________________
 तत्र चतुर्भिर्वा कुम्भैः पृथगानयनमेकेनैव वाऽथ पुनः पूरयित्वा, यथा–"तिस्रः स्रु च उत्सिच्ये"ति ॥१०॥
 ________________________
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **तस्मिन्** उदधाने **उत्तरेण** "अरिष्टा अस्माकं" इत्यनेन **यजुषा चतुर उदकुम्भानानयति ।**
@@ -291,7 +291,6 @@ ________________________
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/17_bhUmirbhUmimagAnmAtA_mAtaramapyagAt.md">
 <details open><summary><h5>१७ भूमिर्भूमिमगान्माता मातरमप्यगात् ...{Loading}...</h5></summary>
 
-
 भूमि॒र् भूमि॑म् अगान्  
 मा॒ता मा॒तर॒म् अप्य् अ॑गात् ।  
 भू॒यास्म॑ पु॒त्रैः प॒शुभि॒र्  
@@ -307,12 +306,14 @@ ________________________
 
 11. If (the barrel) breaks, he recites the next (verse, II, 15, 17) over it.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 अथ यदि तदुदधानं भिद्यते तत् **उत्तरयर्चा** "भूमिर्भूमि"मित्येतया **अनुमन्त्रयते** ।
 कालान्तरे दीर्ण एतद्भवति उदधानान्तरेऽपि तत्स्थानापन्ने ॥११॥
 ________________________
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 यदि **दीर्ण** मणिकं स्यात्तदा **उत्तरया** "भूमिर्भूमिमगात्" इत्येतया**नुमन्त्रयते** ।
@@ -340,11 +341,10 @@ ________________________
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/054/01_vAstoShpate_prati.md">
 <details open><summary><h7>०१ वास्तोष्पते प्रति ...{Loading}...</h7></summary>
 
-
-वास्तो॑ष्पते॒ प्रति॑ जानीह्य् अ॒स्मान्त्  
-स्व्-आ॑वे॒शो+++(=सुगमो)+++ अ॑नमी॒वो+++(=आरोग्यकरः)+++ भ॑वा नः ।  
-यत् त्वेम॑हे॒ प्रति॒ तन् नो॑ जुषस्व॒  
-शं न॑ एधि द्वि॒पदे॒ शं चतु॑ष्पदे ।
+वा᳓स्तोष्पते प्र᳓ति जानीह्य् अस्मा᳓न्त्  
+स्व्-आवेशो᳓+++(=सुगमो)+++ अनमीवो᳓+++(=आरोग्यकरः)+++ भवा नः ।  
+य᳓त् त्वे᳓महे प्र᳓ति त᳓न् नो जुषस्व  
+शं᳓ न एधि द्विप᳓दे शं᳓ च᳓तुष्पदे ।
 
 </details>
 </div>
@@ -355,11 +355,10 @@ ________________________
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/054/03_vAstoShpate_shagmayA.md">
 <details open><summary><h7>०३ वास्तोष्पते शग्मया ...{Loading}...</h7></summary>
 
-
-वास्तो॑ष्पते श॒ग्मया॑+++(=सुखया)+++ सँ॒सदा॑ ते  
-सक्षी॒महि॑+++(←सच समवाये)+++ र॒ण्वया॑+++(=रममाणया)+++ गातु॒मत्या॑+++(=गामिन्या)+++) ।  
-आवः॒ क्षेम॑+++(य्=लब्धस्य रक्षणे)+++ उ॒त योगे॒+++(=अलब्धस्य लाभे)+++ वरं॑ नो  
-+++(हे विश्वेदेवाः)+++ यू॒यम् पा॑त स्व॒स्तिभिः॒ सदा॑ नः ।  
+वा᳓स्तोष्पते शग्म᳓या+++(=सुखया)+++ सँस᳓दा ते  
+सक्षीम᳓हि+++(←सच समवाये)+++ रण्व᳓या+++(=रममाणया)+++ गातुम᳓त्या+++(=गामिन्या)+++) ।  
+आ᳓वः क्षे᳓म+++(य्=लब्धस्य रक्षणे)+++ उत᳓ यो᳓गे+++(=अलब्धस्य लाभे)+++ व᳓रं नो  
++++(हे विश्वेदेवाः)+++ यूय᳓म् पात स्वस्ति᳓भिः स᳓दा नः ।  
 
 </details>
 </div>
@@ -370,11 +369,10 @@ ________________________
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/054/02_vAstoShpate_prataraNo.md">
 <details open><summary><h7>०२ वास्तोष्पते प्रतरणो ...{Loading}...</h7></summary>
 
-
-वास्तो॑ष्पते प्र॒तर॑णो न एधि॒  
-गोभि॒र् अश्वे॑भिर् इन्दो+++(←इन्दिर् ऐश्वर्यकर्मा/ उदिर्वा क्लेदकर्मा)+++ ।  
-अ॒जरा॑सस् ते स॒ख्ये स्या॑म  
-पि॒तेव॑ पु॒त्रान् प्रति॑ नो जुषस्व ।  
+वा᳓स्तोष्पते प्रत᳓रणो न एधि  
+गो᳓भिर् अ᳓श्वेभिर् इन्दो+++(←इन्दिर् ऐश्वर्यकर्मा/ उदिर्वा क्लेदकर्मा)+++ ।  
+अज᳓रासस् ते सख्ये᳓ स्याम  
+पिते᳓व पुत्रा᳓न् प्र᳓ति नो जुषस्व ।  
 
 </details>
 </div>
@@ -385,10 +383,9 @@ ________________________
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/055/01_amIvahA_vAstoShpate.md">
 <details open><summary><h7>०१ अमीवहा वास्तोष्पते ...{Loading}...</h7></summary>
 
-
-अ॒मी॒व॒हा+++(=व्याधिहा)+++ वास्तो॑ष्पते॒  
-विश्वा॑ रू॒पाण्य् आ॑ वि॒शन् ।  
-सखा॑ सु॒शेव॑+++(फ)+++ एधि नः ।  
+अमीवहा᳓+++(=व्याधिहा)+++ वास्तोष्पते  
+वि᳓श्वा रूपा᳓ण्य् आ **विश᳓न्** ।  
+स᳓खा सुशे᳓व+++(फ)+++ **एधि** नः ।  
 
 </details>
 </div>
@@ -402,6 +399,7 @@ ________________________
 
 12. After the ceremonies from the putting of wood on the fire down to the Ājyabhāga oblations have been performed, he offers the (four) oblations (indicated by the) next (Mantras; II, 15, 18-21); then he enters upon the performance of the Jaya and following oblations.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 चतस्रः **उत्तराः** प्रधानाहुतयः"वास्तोष्पते प्रतिजानीहि, वास्तोष्पते शग्मया, वास्तोष्पते प्रतरणो न एधि, अमीवहा वास्तोष्पत"इति ।
@@ -416,6 +414,7 @@ ________________________
 अतस् तत् प्रतिषेधद्वारेण स्थालीपाकप्रतिषेध एवायं सम्पद्यते ॥१२॥
 ________________________
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **उत्तरा आहुती**श्चतस्रः प्रधानाहुतीः ताश्च "वास्तोष्पते प्रतिजानीहि" (तै.सं. ३-४-१०) इति द्वे, "वास्तोष्पते प्रतरणो नः" इति द्वे ।
@@ -446,7 +445,6 @@ ________________________
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/22_shivaM_shivam.md">
 <details open><summary><h5>२२ शिवं शिवम् ...{Loading}...</h5></summary>
 
-
 शि॒वँ॒ शि॒वम् ॥
 
 </details>
@@ -466,6 +464,7 @@ ________________________
 
 13. Having performed (the rites) down to the sprinkling (of water) round (the fire), he should sprinkle (water) with a water-pot around the house or the resting-place on the inside, with the next Yajus (II, 15, 22) three times from left to right; then he should serve cakes, flour, and boiled rice to the Brāhmaṇas.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 परिषेचनान्तवचनं आनन्तर्यार्थम् ।
@@ -482,6 +481,7 @@ ________________________
 इतिशब्दः समुच्चयार्थः ॥१३॥
 इति हरदत्तविरचितायां गृह्यसूत्रवृत्तावनाकुलायां सप्तदशः खण्डः ॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 परिषेचनान्त**मुत्तरेण** "शिवँ शिवम्" इत्यनेन **यजुषा** उदकुम्भेन सकृदुपात्तेन **अगारं निवेशनं वान्तरतो** न बहिः **त्रिः प्रदक्षिणं परिषिच्य ब्राह्मणान् भोजयेदपूपादिभिः** ।

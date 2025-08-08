@@ -6,7 +6,6 @@ unicode_script: devanagari
 ---
 अस्य विस्तारो [ऽत्र](../TippanI/aShTakA/)।
 
-
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/25_aShTakAshrAddham/21_10_yA_mAdhyAH.md">
 <details open><summary><h2>२१ १० या माध्याः ...{Loading}...</h2></summary>
 
@@ -48,7 +47,6 @@ unicode_script: devanagari
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/30_yA~n_janAH.md">
 <details open><summary><h4>३० याञ् जनाः ...{Loading}...</h4></summary>
 
-
 यां जनाः॑ प्रति॒-नन्द॑न्ति॒  
 रात्रिं॑ धे॒नुम् इ॑वाय॒तीम् ।  
 सं॒व॒त्स॒रस्य॒ या पत्नी॒ +++(एकाष्टका)+++  
@@ -86,7 +84,6 @@ unicode_script: devanagari
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/31_vaha_vapAm.md">
 <details open><summary><h4>३१ वह वपाम् ...{Loading}...</h4></summary>
 
-
 वह॑ व॒पां जा॑तवेदः पि॒तृभ्यो॒  
 यत्रै॒नान् वे॑त्थ॒ निहि॑तान् परा॒के+++(=दूरे)+++ ।  
 मेद॑सः॒ कूल्या॒+++(=नद्या)+++ उप॒ तान् क्ष॑रन्तु  
@@ -98,7 +95,6 @@ unicode_script: devanagari
 </details>
 </div>  
 
-
 ## मांसौदनमुत्तराभिः
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/25_aShTakAshrAddham/22_05_mA.NsaudanamuttarAbhiH.md">
 <details open><summary><h2>२२ ०५ माँसौदनमुत्तराभिः  ...{Loading}...</h2></summary>
@@ -107,7 +103,6 @@ unicode_script: devanagari
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/32_yA~n_janAH.md">
 <details open><summary><h4>३२ याञ् जनाः ...{Loading}...</h4></summary>
-
 
 यां जनाः॑ प्रति॒-नन्द॑न्ति॒  
 रात्रिं॑ धे॒नुम् इ॑वाय॒तीम् ।  
@@ -118,7 +113,6 @@ unicode_script: devanagari
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/33_iyameva_sA.md">
 <details open><summary><h4>३३ इयमेव सा ...{Loading}...</h4></summary>
-
 
 इ॒यम् +++(उषाः)+++ ए॒व सा या प्र॑थ॒मा व्यौच्छ॑द्+++(←उछीँ विवासे)+++  
 अ॒न्तर् अ॒स्याञ् +++(पृथिव्यां)+++ च॑रति॒ +++(आदित्यम्)+++ प्रवि॑ष्टा ।  
@@ -132,7 +126,6 @@ unicode_script: devanagari
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/34_ChandasvatI_uShasA.md">
 <details open><summary><h4>३४ छन्दस्वती उषसा ...{Loading}...</h4></summary>
 
-
 छन्द॑स्वती उ॒षसा॒+++(सौ)+++ पेपि॑शाने+++(=दीप्यमाने)+++  
 समा॒नय्ँ योनि॒म् +++(आदित्यं)+++ अनु॑ स॒ञ्चर॑न्ती ।  
 सूर्य॑पत्नी॒ वि च॑रतᳶ प्र-जान॒ती  
@@ -143,7 +136,6 @@ unicode_script: devanagari
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/35_Rtasya_panthAmanu.md">
 <details open><summary><h4>३५ ऋतस्य पन्थामनु ...{Loading}...</h4></summary>
 
-
 ऋ॒तस्य॒ पन्था॒म् अनु॑ +++(कार्यभेदात्)+++ ति॒स्र आगु॒स्  
 त्रयो॑ घ॒र्मासो॒ अनु॒ ज्योति॒षा ऽगुः॑ ।  
 प्र॒जाम् एका॒ रक्ष॒त्य्, ऊर्ज॒म् एका॑  
@@ -153,7 +145,6 @@ unicode_script: devanagari
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/36_ekAShTakAm_pashyata.md">
 <details open><summary><h4>३६ एकाष्टकाम् पश्यत ...{Loading}...</h4></summary>
-
 
 ए॒का॒ष्ट॒कां प॑श्यत॒ दोह॑माना॒म्  
 अन्नं॑ माँ॒सव॑द् घृ॒तव॑त् स्व॒धाव॑त् ।  
@@ -166,7 +157,6 @@ unicode_script: devanagari
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/37_aulUkhalA_grAvANo.md">
 <details open><summary><h4>३७ औलूखला ग्रावाणो ...{Loading}...</h4></summary>
 
-
 औ॒लू॒ख॒ला+++(=उलूखलाः)+++ ग्रावा॑णो॒ घोष॑म् अक्रत  
 ह॒विः कृ॒ण्वन्तः॑ परिवत्स॒रीण॑म् ।  
 ए॒का॒ष्ट॒के सु॑प्र॒जा वी॒रव॑न्तो  
@@ -176,7 +166,6 @@ unicode_script: devanagari
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/38_ekAShTakA_tapasA.md">
 <details open><summary><h4>३८ एकाष्टका तपसा ...{Loading}...</h4></summary>
-
 
 ए॒का॒ष्ट॒का तप॑सा॒ तप्य॑माना  
 संवत्स॒रस्य॒ पत्नी॑ दुदुहे॒ प्रपी॑ना ।+++(४)+++  
@@ -198,7 +187,6 @@ unicode_script: devanagari
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_21/01_ukthyashchAsyatirAtrashcha.md">
 <details open><summary><h4>०१ उक्थ्यश्चास्यतिरात्रश्च ...{Loading}...</h4></summary>
 
-
 +++(एकाष्टके!)+++ उ॒क्थ्य॑श् चास्य् अतिरा॒त्रश् च॑  
 साद्य॒स्क्रीश्+++(=सद्यस्क्र-क्रतुः)+++ छन्द॑सा स॒ह ।  
 अ॒पू॒प॒-घृ॒ताहु॑ते॒ नम॑स् ते  
@@ -211,7 +199,6 @@ unicode_script: devanagari
 </details>
 </div>  
 
-
 ## आज्याहुतीरुत्तराः
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/25_aShTakAshrAddham/22_07_AjyAhutIruttarAH.md">
 <details open><summary><h2>२२ ०७ आज्याहुतीरुत्तराः ...{Loading}...</h2></summary>
@@ -220,7 +207,6 @@ unicode_script: devanagari
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_21/02-04_bhUH_pRthivyagninarchAmum.md">
 <details open><summary><h4>०२-०४ भूः पृथिव्यग्निनर्चामुम् ...{Loading}...</h4></summary>
-
 
 भूः- पृ॑थि॒व्य्+++(व्या)+++ अ॑ग्निना॑+ऋ॒चा ऽमुं मयि॒ कामं॒ नियु॑नज्मि॒ स्वाहा॑ ।  
 भुवो॑- वा॒युना॒ ऽन्तरि॑क्षेण॒ साम्ना॒ ऽमुं मयि॒ कामं॒ नियु॑नज्मि॒ स्वाहा॑ ।  
@@ -231,7 +217,6 @@ unicode_script: devanagari
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_21/05_janadadbhiratharvAngirobhiramum_mayi.md">
 <details open><summary><h4>०५ जनदद्भिरथर्वाङ्गिरोभिरमुम् मयि ...{Loading}...</h4></summary>
 
-
 ज॒नद्+++(=व्याहृतिविशेषो यस् सामस्वपि श्रूयते। नारायणानुवाके तु जनः इति विसर्जनीयान्तं पठ्यते ॥)+++-  
 अ॒द्भिर् अथ॑र्वाङ्गि॒रोभि॑र् अ॒मुं मयि॒ कामं॒ नियु॑नज्मि॒ स्वाहा॑ ।  
 
@@ -240,7 +225,6 @@ unicode_script: devanagari
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_21/06-07_rochanAyAjirAyAgnaye_devajAtave.md">
 <details open><summary><h4>०६-०७ रोचनायाजिरायाग्नये देवजातवे ...{Loading}...</h4></summary>
 
-
 रो॒च॒नाय॑ +अ॒जि॒राय+++(←अज गतिक्षेपणयोः)+++ +अ॒ग्नये॑ दे॒व-जा॑तवे॒+++(=ज्ञात्रे)+++ स्वाहा॑ ।  
 के॒तवे॒+++(=ज्ञात्रे)+++ मन॑वे॒ ब्रह्म॑णे दे॒व-जा॑तवे॒+++(=ज्ञात्रे)+++ स्वाहा॑ ।  
 
@@ -248,7 +232,6 @@ unicode_script: devanagari
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_21/08-09_svadhA_svAhA.md">
 <details open><summary><h4>०८-०९ स्वधा स्वाहा ...{Loading}...</h4></summary>
-
 
 स्व॒धा स्वाहा॑ ।  
 अ॒ग्नये॑ कव्य॒वाह॑नाय स्व॒धा स्वाहा॑ ।  
@@ -271,7 +254,6 @@ unicode_script: devanagari
 
 </details>
 </div>  
-
 
 ## दध्यञ्जलिहोमः
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/25_aShTakAshrAddham/22_10_athaitadaparan_dadhna.md">

@@ -10,7 +10,6 @@ _______
 <div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/33-35_sangAhanam/ApyAyasva.md">
 <details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
 
-
 **आ प्या॑यस्व** मदिन्-तम॒  
 सोम॒ विश्वा॑भिर् ऊ॒तिभिः॑ ।  
 भवा॑ नस् स॒प्रथ॑स्तमः ॥ 
@@ -25,11 +24,13 @@ Swell, O sweetest Soma,
 With all thy aids,  
 Be fullest of help for us.
 </details>
+
 <details><summary>मूलम्</summary>
 
 आ प्या॑यस्व मदिन्तम॒ सोम॒ विश्वा॑भिरू॒तिभिः॑ ।  
 भवा॑ नस्स॒प्रथ॑स्तमः ॥ 
 </details>
+
 <details open><summary>भट्टभास्कर-टीका</summary>
 
 **सोम! मदिन्तम!** मादयितृतम! ।  

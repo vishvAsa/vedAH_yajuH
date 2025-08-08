@@ -2,15 +2,14 @@
 title = "०३ पश्चात् अग्निर् होता"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/03_pashchAt_agnir_hotA"  newLevelForH1="1" includeTitle="true">
-
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/03_pashchAt_agnir_hotA">
+<details open><summary><h1>०३ पश्चात् अग्निर् होता ...{Loading}...</h1></summary>
 
 ## होता
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1पश्चाद् उदञ्चं पञ्चहोतारम् उपदधाति - अग्निर्होतेति ॥ 
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -21,7 +20,6 @@ title = "०३ पश्चात् अग्निर् होता"
 
 देवानां आह्वातृत्वादग्नेर्होतृत्वम् । 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -38,12 +36,10 @@ title = "०३ पश्चात् अग्निर् होता"
 कर्मठत्वात् अश्विनौ अध्वर्यू अध्वरस्य नेतारौ अध्वर्युः प्रतिप्रस्थाता च । 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 अ॒श्विना॑ऽध्व॒र्यू ।
 </details>
-  
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -55,21 +51,14 @@ title = "०३ पश्चात् अग्निर् होता"
 त्वष्टा अग्नीत् आग्नीध्रः उत्तेजनहेतुत्वात्, अग्नीधश्च विहरणादिकृत्त्वात् । 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 त्वष्टा॒ऽग्नीत् ।  
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मि॒त्र उ॑पव॒क्ता ।  
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-मित्र उपवक्ता ब्रह्मा, कर्मसाक्षित्वात् ॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -77,25 +66,23 @@ title = "०३ पश्चात् अग्निर् होता"
 मित्र उपवक्ता ब्रह्मा, कर्मसाक्षित्वात् ॥
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 मि॒त्र उ॑पव॒क्ता ।  
 </details>
 
-
+## ग्रहेष्टका
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-2अथ ग्रहेष्टकामुपदधाति ॥ 
+2अथ ग्रहेष्टकाम् उपदधाति ॥ 
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोम॒स् +++(वल्ली-रूपेण)+++ सोम॑स्य **पुरो॒-गाः** ।  
-शु॒क्रश् शु॒क्रस्य॑ **पुरो॒गाः** ।  
+शु॒क्रश् शु॒क्रस्य॑ **पुरो॒-गाः** ।  
 **श्रा॒तास्**+++(=पक्वाः)+++ त॑ इन्द्र॒ सोमाः॑ ।  
-वाता॑पेर्+++(←वात+आप्)+++ हवन॒-श्रुत॒स् +++(←श्रुत् ←श्रु [त इन्द्र])+++ स्वाहा॑ ।
+वाता॑पेर्+++(←वात+आप्)+++ हवन॒-**श्रुत॒स्** +++(←श्रुत् ←श्रु [त इन्द्र])+++ स्वाहा॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -109,7 +96,6 @@ title = "०३ पश्चात् अग्निर् होता"
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 सोम॒स् सोम॑स्य पुरो॒गाः ।  
@@ -118,7 +104,7 @@ title = "०३ पश्चात् अग्निर् होता"
 वाता॑पेर्हवन॒श्रुत॒स्स्वाहा॑ ।
 </details>
 
-
 (3) 
 
+</details>
 </div>

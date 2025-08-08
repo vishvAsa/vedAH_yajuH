@@ -1,6 +1,7 @@
 ---
-title: ०५ आज्य-ग्रहणम् 
+title: ०५ आज्य-ग्रहणम्
 unicode_script: devanagari
+
 ---
 ## अवेक्षणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -26,9 +27,8 @@ unicode_script: devanagari
 
 आहुतेः कस्या अप्यलोपोऽनन्तरायः यदेतदाज्यावेक्षणं पूर्वमुक्तं तत्र विशेषं वक्तुं तत्प्रस्तौति — ‘देवासुराः संयत्ता आसन्। स एतमिन्द्र आज्यस्यावकाशमपश्यत्। तेनावैक्षत। 
 </details>
-
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/3_darsha-pUrNa-mAsAdi/05_Ajya-grahaNam/tato_devA_abhavan.md" unfilled newLevelForH1="5" includeTitle="false">   
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/3_darsha-pUrNa-mAsAdi/05_Ajya-grahaNam/tato_devA_abhavan.md">
+<details open><summary><h5>ततो॑ दे॒वा अभ॑वन् ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो॑ दे॒वा अभ॑वन्न् +++(←`चादिलोपे विभाषा`)+++,  
@@ -41,14 +41,27 @@ Then the gods prospered,
 the Asuras were defeated. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 ततो॑ दे॒वा अभ॑वन् ।  
 पराऽसु॑राः ।
 </details>
-</div>
 
+<details><summary>पद-पाठः</summary>
+
+ततः॑ । दे॒वाः । अभ॑वन् ।  
+परेति॑ । असु॑राः ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+ततो देवा अभवन्। पराऽसुराः।  
+_________________________________
+
+देवानां यज्ञं दृष्ट्वा तथैवानुचरतामसुराणां देवसमानं विजयं दृष्ट्वा देवास्तानसुरान्वञ्चयित्वाऽनुष्ठितेनानुनिर्वाप्येण स्वयं विजयं प्राप्ता असुराश्च पराभूताः। 
+</details>
+</details>
+</div>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य ए॒वव्ँ वि॒द्वान् आज्य॑म् अ॒वेक्ष॑ते॒  
@@ -74,7 +87,6 @@ the Asuras were defeated.
 </details>
 
 <details><summary>मूलम्</summary>
-
 
 ई॒श्व॒रो वा ए॒षो॑ऽन्धो भवि॑तोः ।  
 

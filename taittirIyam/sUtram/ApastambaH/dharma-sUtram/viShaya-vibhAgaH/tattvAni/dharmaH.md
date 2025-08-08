@@ -91,7 +91,6 @@ unicode_script: devanagari
 </details>
 </div>
 
-
 ## आश्रमाः
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/01_chatvAra_AshramA_gArhasthyamAchAryakulam.md">
 <details open><summary><h4>01 चत्वार आश्रमा गार्हस्थ्यमाचार्यकुलम् ...{Loading}...</h4></summary>
@@ -188,7 +187,6 @@ unicode_script: devanagari
 <details open><summary><h4>06 अन्यच्चापरिगृहीतम् ...{Loading}...</h4></summary>
 
 अन्यच्चापरिगृहीतम् +++(यथा मूलफलादिः)+++५
-
 
 </details>
 </div>

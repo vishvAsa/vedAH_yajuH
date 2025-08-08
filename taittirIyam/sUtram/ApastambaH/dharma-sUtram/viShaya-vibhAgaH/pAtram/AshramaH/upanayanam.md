@@ -33,8 +33,6 @@ unicode_script: devanagari
 </details>
 </div>
 
-
-
 ## कालः
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/19_vasante_brAhmaNam_upanayIta.md">
 <details open><summary><h4>19 वसन्ते ब्राह्मणम् उपनयीत, ...{Loading}...</h4></summary>
@@ -160,11 +158,9 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="3" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/067/21_yadanti_yachcha.md">
 <details open><summary><h7>२१ यदन्ति यच्च ...{Loading}...</h7></summary>
 
-
-यदन्ति॒ यच् च॑ दूर॒के  
-भ॒यं वि॒न्दति॒ मामि॒ह ।  
-पव॑मान॒ वि तज् ज॑हि ॥
-
+य᳓द् अ᳓न्ति य᳓च् च दूरके᳓  
+भयं᳓ विन्द᳓ति मा᳓म् इह᳓  
+प᳓वमान वि᳓ त᳓ज् जहि
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/067__22-27__pavamAnas_so/">
@@ -172,61 +168,52 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="3" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/067/22_pavamAnaH_so.md">
 <details open><summary><h10>२२ पवमानः सो ...{Loading}...</h10></summary>
 
-
-पव॑मानः॒ सो अ॒द्य नः॑  
-प॒वित्रे॑ण॒ विच॑र्षणिः ।  
-यः पो॒ता, स पु॑नातु नः ॥
-
+प᳓वमानः सो᳓ अद्य᳓ नः  
+पवि᳓त्रेण वि᳓चर्षणिः  
+यः᳓ पोता᳓ स᳓ पुनातु नः
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/067/23_yatte_pavitramarchiShyagne.md">
 <details open><summary><h10>२३ यत्ते पवित्रमर्चिष्यग्ने ...{Loading}...</h10></summary>
 
-
-यत् ते॑ प॒वित्र॑म् अ॒र्चिष्य्  
-अग्ने॒ वित॑तम् अ॒न्तरा ।  
-ब्रह्म॒ तेन॑ पुनीहि नः ॥
-
+य᳓त् ते पवि᳓त्रम् अर्चि᳓षि  
+अ᳓ग्ने वि᳓ततम् अन्त᳓र् आ᳓  
+ब्र᳓ह्म ते᳓न पुनीहि नः
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/067/24_yatte_pavitramarchivadagne.md">
 <details open><summary><h10>२४ यत्ते पवित्रमर्चिवदग्ने ...{Loading}...</h10></summary>
 
-
-यत् ते॑ प॒वित्र॑म् अर्चि॒वद्+++(=अर्चिष्मत्)+++  
-अग्ने॒ तेन॑ पुनीहि नः ।  
-ब्र॒ह्म॒-स॒वैः पु॑नीहि नः ॥
+य᳓त् ते पवि᳓त्रम् अर्चिव᳓द्+++(=अर्चिष्मत्)+++  
+अ᳓ग्ने ते᳓न पुनीहि नः ।  
+ब्रह्म-सवैः᳓ पुनीहि नः ॥
 
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/067/25_ubhAbhyAM_deva.md">
 <details open><summary><h10>२५ उभाभ्यां देव ...{Loading}...</h10></summary>
 
-
-उ॒भाभ्यां॑ देव सवितः  
-प॒वित्रे॑ण स॒वेन॑ च ।  
-मां पु॑नीहि वि॒श्वतः॑ ॥
-
+उभा᳓भ्यां देव सवितः  
+पवि᳓त्रेण सवे᳓न च  
+मा᳐᳓म् पुनीहि विश्व᳓तः
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/067/26_tribhiShTvaM_deva.md">
 <details open><summary><h10>२६ त्रिभिष्ट्वं देव ...{Loading}...</h10></summary>
 
-
-त्रि॒भिष् - ट्वं दे॑व सवित॒र्  
-वर्षि॑ष्ठैः, सोम॒ धाम॑भिः ।  
-अग्ने॒ दक्षैः॑ - पुनीहि नः ॥
+त्रिभि᳓ष् - ट्वं᳓ देव सवितर्  
+व᳓र्षिष्ठैः, सोम धा᳓मभिः ।  
+अ᳓ग्ने द᳓क्षैः - पुनीहि नः ॥
 
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/067/27_punantu_mAM.md">
 <details open><summary><h10>२७ पुनन्तु मां ...{Loading}...</h10></summary>
 
-
-पु॒नन्तु॒ मां दे॑व-ज॒नाः  
-पु॒नन्तु॒ वस॑वो धि॒या ।  
-विश्वे॑ देवाः पुनी॒त मा॒  
-जात॑वेदः पुनी॒हि मा॑ ॥
+पुन᳓न्तु मां᳓ देव-जनाः᳓  
+पुन᳓न्तु व᳓सवो धिया᳓ ।  
+वि᳓श्वे देवाः पुनीत᳓ मा  
+जा᳓तवेदः पुनीहि᳓ मा ॥
 
 </details>
 </div>
@@ -245,15 +232,14 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/1/1/12-1_0682_kayA_nashchitra.md">
 <details open><summary><h8>12-1_0682 कया नश्चित्र ...{Loading}...</h8></summary>
 
-क᳓या꣢ नश्चि꣣त्र᳓ आ भुव꣢꣯दू꣣ती꣢ स꣣दा꣢वृ꣣धः꣢ स᳓खा꣢। क꣢या꣣ श᳓चि꣢ष्ठया वृ꣣ता꣢ ॥ 12-1:0682 ॥
+क꣡या꣢ नश्चि꣣त्र꣡ आ भुव꣢꣯दू꣣ती꣢ स꣣दा꣢वृ꣣धः꣢ स꣡खा꣢। क꣢या꣣ श꣡चि꣢ष्ठया वृ꣣ता꣢ ॥ 12-1:0682 ॥
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/031/01_kayA_nashchitra.md">
 <details open><summary><h10>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h10></summary>
 
-
-कया॑ नश् चि॒त्र +++(=चयनीयः)+++ **आ भु॑वद्**  
-**ऊ॒ती** +++(=रक्षणम्/ तर्पणम् [तेन])+++, स॒दा-वृ॑धः॒ +++(=वर्धमानः)+++ सखा॑ ।  
-कया॒ शचि॑ष्ठया +++(=प्रज्ञावता)+++ वृ॒ता +++(=वर्तनेन)+++ १
+क᳓या नश् चित्र᳓ +++(→इन्द्रः)+++ **आ᳓ भुवद्**  
+**ऊती᳓** +++(=रक्षणम्/ तर्पणम् [तेन])+++, सदा᳓-वृधः +++(=वर्धमानः)+++ स᳓खा ।  
+क᳓या श᳓चिष्ठया +++(=प्रज्ञावता)+++ वृता᳓ +++(=वर्तनेन)+++ १
 
 </details>
 </div>
@@ -262,15 +248,14 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/1/1/12-2_0683_kastvA_satyo.md">
 <details open><summary><h7>12-2_0683 कस्त्वा सत्यो ...{Loading}...</h7></summary>
 
-क᳓स्त्वा꣢ स꣣त्यो᳓ मदा꣢꣯नां꣣ मँ᳓हि꣢ष्ठो मत्स꣣द᳓न्ध꣢सः। दृ꣣ढा᳓ चि꣢दा꣣रु꣢जे꣣ व᳓सु꣢ ॥ 12-2:0683 ॥
+क꣡स्त्वा꣢ स꣣त्यो꣡ मदा꣢꣯नां꣣ म꣡ꣳहि꣢ष्ठो मत्स꣣द꣡न्ध꣢सः। दृ꣣ढा꣡ चि꣢दा꣣रु꣢जे꣣ व꣡सु꣢ ॥ 12-2:0683 ॥
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/031/02_kastvA_satyo.md">
 <details open><summary><h9>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h9></summary>
 
-
-कस्त्वा॑ स॒त्यो मदा॑नां॒  
-मंहि॑ष्ठो +++(=पूज्यः)+++ मत्स॒द् +++(=मादयेद्)+++ अन्ध॑सः+++(= भोज्यः ([सोमः])+++) ।  
-दृ॒ऴा +++(=ढम्)+++ चि॑दा॒रुजे॒ +++(=सम्भङ्क्तुम्)+++ वसु॑ २
+क᳓स् त्वा सत्यो᳓ म᳓दानां  
+मं᳓हिष्ठो +++(=पूज्यः)+++ **मत्सद्** +++(=मादयेद्)+++ अ᳓न्धसः+++(= भोज्यः (→[सोमः])+++) ।  
+दृळ्हा᳓ +++(=ढम्)+++ चिद् **आरु᳓जे** +++(=सम्भङ्क्तुम्)+++ व᳓सु २
 
 </details>
 </div>
@@ -279,22 +264,20 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/1/1/12-3_0684_abhI_Shu.md">
 <details open><summary><h7>12-3_0684 अभी षु ...{Loading}...</h7></summary>
 
-अ꣣भी꣢꣫ षु णः꣣ स᳓खी꣢नामवि꣣ता᳓ ज꣢रितृ꣣णा꣢म्। श꣣तं᳓ भ꣢वास्यू꣣त᳓ये꣢ ॥ 12-3:0684 ॥॥12(टा)॥
+अ꣣भी꣢꣫ षु णः꣣ स꣡खी꣢नामवि꣣ता꣡ ज꣢रितृ꣣णा꣢म्। श꣣तं꣡ भ꣢वास्यू꣣त꣡ये꣢ ॥ 12-3:0684 ॥॥12(टा)॥
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/031/03_abhI_Shu.md">
 <details open><summary><h9>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h9></summary>
 
-
-अ॒भी षु णः॒ सखी॑नाम्  
-अवि॒ता ज॑रितॄ॒णाम् +++(=स्तोतॄणाम्)+++।  
-श॒तं भ॑वास्यू॒तिभिः॑ +++(=रक्षाभिः)+++३  
+अभी᳓ षु᳓ णः स᳓खीनाम्  
+**अविता᳓** जरितॄणा᳓म् +++(=स्तोतॄणाम्)+++।  
+शतं᳓ **भवास्य्** ऊति᳓भिः +++(=रक्षाभिः)+++३  
 +++(अभिभवसि = सम्मुखो भवसि)+++
 
 </details>
 </div>
 </details>
 </div>  
-
 
 ###### साम - वामदेव्यम्।
 

@@ -39,7 +39,6 @@ unicode_script: devanagari
 </details>
 </div>  
 
-
 +++(विच्छिन्नाग्निसन्धानम् इतो ऽनुमेयम्। )+++
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/05_17_anugato_manthyaH.md">
@@ -95,7 +94,6 @@ unicode_script: devanagari
 </details>
 </details>
 </div>  
-
 
 ## होमः  
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/07_19_sAyam_prAtarata.md">

@@ -22,7 +22,6 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhanirUpaNam/01_12_agnimidhvA.md">
 <details open><summary><h2>०१ १२ अग्निमिध्वा ...{Loading}...</h2></summary>
 
-
 परिस्तरणम् - +++(क्रमो ऽन्यत्रोक्तः।)+++ अग्निमिध्वा प्रागग्रैर्दर्भैरग्निं परिस्तृणाति १२
 
 </details>
@@ -62,7 +61,6 @@ unicode_script: devanagari
 
 ततोऽप उपस्पृशेत् - "रौद्रराक्षस" इति परिशिष्टवचनात्। ततस्तयोर्मूलाद् आरभ्याऽग्राद् अद्भिर्मार्जनम् ।
 
-
 आज्यसंस्काराय प्रोक्षणीसंस्काराय प्रणीताप्रणयनाय च प्रयुज्यते।
 </details>
 </details>
@@ -75,7 +73,6 @@ unicode_script: devanagari
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhanirUpaNam/01_20_apareNAgnim_pavitrAntarhite.md">
 <details open><summary><h2>०१ २० अपरेणाग्निम् पवित्रान्तर्हिते ...{Loading}...</h2></summary>
-
 
 अपरेणाग्निं पवित्रान्तर्हिते पात्रेऽप आनीयोदगग्राभ्यां पवित्राभ्यां त्रिर् उत्पूय,  
 समं प्राणैर् हृत्वोत्तरेणाग्निं दर्भेषु सादयित्वा, दर्भैः प्रच्छाद्य २०
@@ -140,7 +137,6 @@ unicode_script: devanagari
 
 अदि॒तेऽनु॑ मन्यस्व। +++(इति दक्षिणतः, प्राचीनम्)+++
 
-
 </details>
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/02_anumate-nu_manyasva.md">
@@ -183,7 +179,6 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhanirUpaNam/02_06_athAjyabhAgau_juhotyagnaye.md">
 <details open><summary><h2>०२ ०६ अथाज्यभागौ जुहोत्यग्नये ...{Loading}...</h2></summary>
 
-
 आज्यभागौ - अथाज्यभागौ जुहोत्य् अग्नये स्वाहेत्युत्तरार्धपूर्वार्धे, सोमाय स्वाहेति दक्षिणार्धपूर्वार्धे, समं पूर्वेण +++(=आघारहोमसममात्रा ऽऽज्य)+++ ६
 
 </details>
@@ -205,10 +200,11 @@ unicode_script: devanagari
 
 यद् अ॑स्य॒ कर्म॒णो ऽत्यरी॑रिचं॒  
 यद् वा॒ न्यू॑नम् इ॒हाक॑रम् ।  
-अ॒ग्निष् टत् स्वि॑ष्ट॒कृद् वि॒द्वान्त्  
+अ॒ग्निष् टत् स्वि॑ष्ट॒कृद् वि॒द्वान्थ्  
 सर्वँ॒ स्वि॑ष्टँ॒ सुहु॑तं करोतु॒  
 स्वाहा॑ ।
 </details>
+
 <details><summary>मूलम्</summary>
 
 यद॑स्य॒ कर्म॒णोऽत्यरी॑रिचं॒ यद्वा॒ न्यू॑नमि॒हाक॑रम् ।  
@@ -218,7 +214,6 @@ unicode_script: devanagari
 </div>
 
 +इति ७  
-
 
 <details><summary>विश्वास-टिप्पनी</summary>
 

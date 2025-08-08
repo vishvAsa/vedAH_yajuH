@@ -1,8 +1,8 @@
 ---
-title: ०२ बर्हिराहरणम् 
+title: ०२ बर्हिराहरणम्
 unicode_script: devanagari
----
 
+---
 ## पर्शु-ग्रहणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -23,19 +23,29 @@ unicode_script: devanagari
 
 अत्र ब्राह्मणम् — ‘ देवस्य त्वा सवितुः प्रसव इत्यश्वपर्शुमादत्ते प्रसूत्यै। 
 </details>
-
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/04_havir-nirvApaH/ashvinor_bAhubhyAm.md"  newLevelForH1="5" includeTitle="false"> 
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/04_havir-nirvApaH/ashvinor_bAhubhyAm.md">
+<details open><summary><h5>अ॒श्विनो॑र् बा॒हुभ्या॒म् ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"अ॒श्विनो॑र् बा॒हुभ्या॒म्" इत्य् आ॑ह ।
+"अ॒श्विनो॑र् बा॒हुभ्या॒म्" इत्य् आ॑ह ।  
 अ॒श्विनौ॒ हि दे॒वाना॑म् अध्व॒र्यू आस्ता॑म् ।
+</details>
+
+<details><summary>Keith</summary>
+
+'With the arms of the Aśvins', he says, for the Aśvins were the Adhvaryus of the gods. 
 </details>
 
 <details><summary>मूलम्</summary>
 
 "अ॒श्विनो॑र्बा॒हुभ्या॒"मित्या॑ह ।
 अ॒श्विनौ॒ हि दे॒वाना॑मध्व॒र्यू आस्ता॑म् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒श्विनोः॑ । बा॒हुभ्या॒मिति॑ बा॒हु-भ्या॒म् । इति॑ । आ॒ह॒ ।
+अ॒श्विनौ॑ । हि । दे॒वाना॑म् । अ॒ध्व॒र्यू इति॑ । आस्ता॑म् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -46,11 +56,17 @@ unicode_script: devanagari
 <details><summary>सायण-टीका</summary>
 
 अश्विनोर्बाहुभ्यामित्याह। अश्विनौ हि देवानामध्वर्यू आस्ताम्। 
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"पू॒ष्णो हस्ता॑भ्या॒म्" इत्य् आ॑ह॒ यत्यै॑ ।
+"पू॒ष्णो हस्ता॑भ्या॒"म् इत्य् आ॑ह॒ यत्यै॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+'With the hands of Pusan', he says, for restraint. 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -58,14 +74,21 @@ unicode_script: devanagari
 "पू॒ष्णो हस्ता॑भ्या॒"मित्या॑ह॒ यत्यै॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+पू॒ष्णः । हस्ता॑भ्याम् । इति॑ । आ॒ह॒ । यत्यै॑ । 4 ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
-यत्यै यमनाय धारणाय ॥
+**यत्यै** यमनाय धारणाय ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
 
-पूष्णो हस्ताभ्यामित्याह पत्यै’ (ब्रा॰ का॰ ३ प्र॰ २ अ॰ २) इति। यतिर्नियतिः। यद्यद्यज्ञसाधनमुपादेयं तत्सर्वं पोषकस्य देवस्य हस्ताभ्यामेवेति नियमः।
+पूष्णो हस्ताभ्यामित्याह यत्यै (ब्रा. का.३ प्र.२ अ.९) इति ।
+
+</details>
 </details>
 </div>  
 
@@ -164,9 +187,8 @@ unicode_script: devanagari
 </details>
 
 ## प्रत्यु॑ष्टँ॒ रक्ष॒ᳶ
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/02_barhirAharaNam/pratyuShTaM_raxaH.md"  newLevelForH1="5" includeTitle="false"> 
-
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/02_barhirAharaNam/pratyuShTaM_raxaH.md">
+<details open><summary><h5>प्रत्यु॑ष्टँ॒ रक्ष॒ᳶ ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "प्रत्यु॑ष्टँ॒ रक्ष॒ᳶ प्रत्यु॑ष्टा॒ अरा॑तय॒" इत्या॑ह ।  
@@ -181,9 +203,12 @@ unicode_script: devanagari
 
 <details><summary>सायण-टीका</summary>
 
-अस्मिल्लँवनसाधने निगूढं रक्षसामथ वैरिणां च स्वरूपमत्यन्तं दग्धं भवतु। मन्त्रप्रयोजनमाह - ‘प्रत्युष्टँ रक्षः प्रत्युष्टा अरातय इत्याह। रक्षसामपहत्यै’ (ब्रा॰ का॰ ३ प्र॰ २ अ॰ २) इति।
-</details>
+व्याचष्टे — “प्रत्युष्टँ रक्षः प्रत्युष्टा अरातय इत्याह। रक्षसामपहत्यै” (ब्रा. का. ३ प्र. २ अ. ४ ) इति।  
+___________________________________________
 
+अनिष्टपरिहारायेष्टसिद्धये चोभौ मन्त्रावित्याह – ‘प्रत्युष्टँ रक्षः प्रत्युष्टा अरातय इत्याह। रक्षसामपहत्यै। 
+</details>
+</details>
 </div>  
 
 ## प्रेयम् अ॑गाद्
@@ -279,7 +304,6 @@ unicode_script: devanagari
 
 तृतीयभागे पदार्थं पुरस्ताच्छब्दतात्पर्यं चाऽऽह - ‘ त आवहन्ति कवयः पुरस्तादित्याह। शुश्रुवाँसो वै कवयः। यज्ञः पुरस्तात्। मुखत एव यज्ञमारभते’ (ब्रा॰ का॰ ३ प्र॰ २ अ॰ २) इति। होमाधारस्याऽऽहवनीयस्य पूर्वदिक्स्थत्वाद्यज्ञः पुरस्ताद्वर्तत इत्युच्यते। तच्छब्दपाठेन पुरस्तादेव यज्ञ आरब्धो भवति। 
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -401,7 +425,6 @@ unicode_script: devanagari
 बर्हिस् स्तम्बपरिग्रहे तेषां मध्ये किंचिद् यद् **उच्छिंष्यात्** 'विष्णो॒स् स्तूपो॑ऽसि' इत्युत्सृजेत् । अतः तत् यज्ञस्य अतिरेचयेत् तस्य स्तम्बस्य यज्ञसम्बन्धं निवर्तयेत् । अयुक्तं च परिषूतस्य अतिरिक्तत्वम्, तस्मादयं पक्षो दृष्टः ।
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(उच्छेद-वारणाय)+++  
@@ -513,7 +536,6 @@ unicode_script: devanagari
 
 पुनःप्ररोहसमृद्ध्यर्थं पर्वसादनमित्याह — ‘पर्व ते साध्यासमित्याहर्द्ध्यै” (ब्रा॰ का॰ ३ प्र॰ २ अ॰ २) इति।
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -822,9 +844,8 @@ unicode_script: devanagari
 
 प्राशस्त्याद्ब्रह्मत्वेन बृहस्पतिं स्तौति – ‘बृहस्पतेर्मूर्ध्ना हरामीत्याह। ब्रह्म वै देवानां बृहस्पतिः। ब्रह्मणैवैनद्धरति’ (ब्रा॰ का॰ ३ प्र॰ २ अ॰ २) इति।
 </details>
-
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/02_barhirAharaNam/urv-antarixam.md"  newLevelForH1="5" includeTitle="false">   
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/02_barhirAharaNam/urv-antarixam.md">
+<details open><summary><h5>उ॒र्व॑न्तरि॑क्ष॒म् ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "उ॒र्व॑न्तरि॑क्ष॒म् अन्वि॒ही"त्या॑ह॒ गत्यै॑ ।
@@ -842,10 +863,10 @@ unicode_script: devanagari
 
 <details><summary>सायण-टीका</summary>
 
-इहीत्यस्य शब्दस्य विवक्षां दर्शयति – ‘उर्वन्तरिक्षमन्विहीत्याह गत्यै’ (ब्रा॰ का॰ ३ प्र॰ २ अ॰ २) इति।
+व्याचष्टे — ‘उर्वन्तरिक्षमन्विहीत्याह गत्यै’ (ब्रा. का. ३ प्र. २ अ. ४ ) इति।
+</details>
 </details>
 </div>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "दे॒व॒ङ्-ग॒मम् अ॒सी"त्य् आ॑ह ।   
@@ -869,9 +890,8 @@ unicode_script: devanagari
 </details>
 
 ## अनधस् सादनम्
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/01_vatsApAkaraNam/anadhaH.md"  newLevelForH1="5" includeTitle="false"> 
-
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/01_vatsApAkaraNam/anadhaH.md">
+<details open><summary><h5>अनधस् सादनम् ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन॑धस् **सादयति॒** -  
@@ -894,7 +914,7 @@ unicode_script: devanagari
 
 <details><summary>सायण-टीका</summary>
 
-पलाशशाखाया इव बर्हिषो भूमौ स्थापनं निषिध्योच्चप्रदेशस्थापनं विधत्ते — ‘अनधः सादयति। गर्भाणां धृत्या अप्रपादाय। तस्माद्गर्भाः प्रजानामप्रपादुकाः। 
+शाखाबर्हिषोरिव सांनाय्येऽपि विधत्ते — ‘अनधः सादयति। गर्भाणां धृत्या अप्रपादाय। तस्माद्गर्भाः प्रजानामप्रपादुकाः। 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -915,18 +935,16 @@ unicode_script: devanagari
 
 उपरीवेति । ऊर्ध्वायामेव दिशि । इवशब्दोऽवधारणे । उपरितनत्वसामान्यात् तच्छब्दस्य । स्वर्गस्य समष्टयै सम्यक् प्राप्त्यै भवति तस्या उपरिसादनम् ॥
 
-
 इति तैत्तिरीयब्राह्मणे तृतीये द्वितीये प्रथमोऽनुवाकः ॥
 
 </details>
 
 <details><summary>सायण-टीका</summary>
 
-उपरीव निदधाति। उपरीव हि सुवर्गो लोकः। सुवर्गस्य लोकस्य समष्ट्यै’ (ब्रा॰ का॰ ३ प्र॰ २ अ॰ २) इति।
+उपरीव निदधाति। उपरीव हि सुवर्गो लोकः। सुवर्गस्य लोकस्य समष्ट्यै’ (ब्रा. का. ३ प्र. २ अ. ३) इति।  
 </details>
-
-</div>  
-
+</details>
+</div>
 <details><summary>भट्टभास्कर-टीका</summary>
 
 26अनघ इत्यादि व्याख्यातम् ॥
@@ -934,4 +952,3 @@ unicode_script: devanagari
  इति तैत्तिरीयब्राह्मणे तृतीये द्वितीये द्वितीयोऽनुऽवाकः ॥  
 
 </details>
-

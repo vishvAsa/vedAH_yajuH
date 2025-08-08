@@ -61,7 +61,7 @@ title = "०३ आ-दशम-दिन-कृत्यानि"
 इति सङ्कल्प्य, हिरण्यं हस्ते निधाय, 
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/hiraNya-garbha-garbhasthaM_sampradade/">
-<details open><summary><h5>Hira Nya garbha garbhastha M sampradade ...{Loading}...</h5></summary>
+<details open><summary><h5>हिरण्य-गर्भ--गर्भ-स्थं … सम्प्रददे ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/purANam/agni-purANam/sarva-prastutiH/167_ayutalaxakoTihomAH/hiraNya-garbha-garbhastham.md">
 <details open><summary><h10>हिरण्य-गर्भ--गर्भ-स्थं ...{Loading}...</h10></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -71,6 +71,7 @@ title = "०३ आ-दशम-दिन-कृत्यानि"
 अनन्त-पुण्य-फल-दम्  
 अतश् शान्तिं प्रयच्छ मे॥
 </details>
+
 <details><summary>मूलम्</summary>
 
 हिरण्यगर्भगर्भस्थं  
@@ -327,7 +328,7 @@ _________
 > श्रीभगवदाज्ञया भगवत्प्रीत्यर्थं मम पितुः प्रेतस्य श्मशानाग्निनाशप्रायश्चित्तार्थं प्राजापत्यकृच्छ्रत्रयं यत्किञ्चिद्धिरण्यरूपेण करिष्ये 
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/hiraNya-garbha-garbhasthaM_sampradade/">
-<details open><summary><h5>Hira Nya garbha garbhastha M sampradade ...{Loading}...</h5></summary>
+<details open><summary><h5>हिरण्य-गर्भ--गर्भ-स्थं … सम्प्रददे ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/purANam/agni-purANam/sarva-prastutiH/167_ayutalaxakoTihomAH/hiraNya-garbha-garbhastham.md">
 <details open><summary><h10>हिरण्य-गर्भ--गर्भ-स्थं ...{Loading}...</h10></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -337,6 +338,7 @@ _________
 अनन्त-पुण्य-फल-दम्  
 अतश् शान्तिं प्रयच्छ मे॥
 </details>
+
 <details><summary>मूलम्</summary>
 
 हिरण्यगर्भगर्भस्थं  

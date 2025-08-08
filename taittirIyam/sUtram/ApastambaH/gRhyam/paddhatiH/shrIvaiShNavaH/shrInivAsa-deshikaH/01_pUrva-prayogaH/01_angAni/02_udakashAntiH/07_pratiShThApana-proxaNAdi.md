@@ -11,11 +11,10 @@ title = "०७ प्रतिष्ठापन-प्रोक्षणाद
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/137/06_Apa_idvA.md">
 <details open><summary><h5>०६ आप इद्वा ...{Loading}...</h5></summary>
 
-
-आप॒ इद् वा उ॑ भेष॒जीर्  
-आपो॑ अमीव॒-चात॑नीः।  
-आपो॒ विश्व॑स्य भेष॒जीस्  
-तास्ते॑ **कृण्वन्तु** भेष॒जम् ॥
+आ᳓प इ᳓द् वा᳓ उ भेषजी᳓र्  
+आ᳓पो अमीव-चा᳓तनीः।  
+आ᳓पो वि᳓श्वस्य भेषजी᳓स्  
+ता᳓स्ते **कृण्वन्तु** भेषज᳓म् ॥
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/akAla-mRtyu-haraNam.md">
@@ -29,6 +28,7 @@ title = "०७ प्रतिष्ठापन-प्रोक्षणाद
 (पाशि+++(=वरुण)+++-कुम्भोदकं शुभम् ॥)
 (विष्णु-पादोदकं शुभम्)
 </details>
+
 <details><summary>मूलम्</summary>
 
 अकालमृत्युहरणं  
@@ -41,13 +41,11 @@ title = "०७ प्रतिष्ठापन-प्रोक्षणाद
 </details>
 </div>
 
-
 इति वा प्राशयेत् (प्राश्नीयाद्वा)
 
 <details><summary>तमिऴ्</summary>
 
 உலர்ந்த வஸ்திரதாரணம் இத்" என்கிற மந்திரத்தினால் ப்ராசனம் அகாலம்ருத்யுஹரணமும் சொல்லலாம். புண்ட்ரதாரணம் "ஆப்
 </details>
-
 
 [[15]]

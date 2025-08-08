@@ -3,7 +3,8 @@ title = "०३ प्रवरमुक्त्वा निविदोनू
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/3/5_iShTi-hautrAdi/03_pravaramuktvA_nividonUchya_devatA_AvAhayati"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/3/5_iShTi-hautrAdi/03_pravaramuktvA_nividonUchya_devatA_AvAhayati">
+<details open><summary><h1>०३ प्रवरमुक्त्वा निविदोनूच्य देवता आवाहयति ...{Loading}...</h1></summary>
 
 ## सामिधेनीरनूच्य प्रवरमाह
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -369,8 +370,8 @@ unicode_script = "devanagari"
 
 तत आहूतान् सुयजा शोभनयजनेन यागेन यज च हे जातवेदः! जातप्रमाज्ञान! जानासि हि तथा कर्तुम् । 'चवायोगे प्रथमा' इति प्रथमा तिङ्विभक्तिर्निहन्यते ॥
 
-
 इति तैत्तिरीये ब्राह्मणे तृतीये पञ्चमे इष्टिहौत्रे तृतीयोऽनुवाकः ॥  
 
+</details>
 </details>
 </div>

@@ -2,9 +2,8 @@
 title = "१२ राज-गव्य्-उत्सर्गादि"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/04_pitR-medhAdi/12_rAja-gavy-utsargAdi"  newLevelForH1="1" includeTitle="true">
-
-
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/04_pitR-medhAdi/12_rAja-gavy-utsargAdi">
+<details open><summary><h1>१२ राज-गव्य्-उत्सर्गादि ...{Loading}...</h1></summary>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1अथ उपाकृतां राजगवीं घ्नन्त्य् उत्सृजन्ति वा ।  
@@ -123,7 +122,6 @@ title = "१२ राज-गव्य्-उत्सर्गादि"
 एषा कामं पिबतु उदकम्, तृणानि च अत्तु । 
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ओमुत्सृ॒जत ॥ (27)  
@@ -140,5 +138,5 @@ title = "१२ राज-गव्य्-उत्सर्गादि"
     
 इत्यारण्यके चतुर्थे प्रश्ने द्वादशोऽनुवाकः ॥
 </details>
-
+</details>
 </div>

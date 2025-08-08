@@ -66,7 +66,6 @@ unicode_script = "devanagari"
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/hiraNyakeshI/gRhyam/paddhatiH/mAdhvA/mantrAdi/vyAhRti-homaH.md">
 <details open><summary><h3>व्याहृति-होमः ...{Loading}...</h3></summary>
 
-
 व्यस्त-समस्तव्याहृतीनां विश्वामित्र-जमदग्नि-भरद्वाज-प्रजापतय ऋषयः ।  
 अग्नि-वायु-सूर्य-प्रजापतयो देवताः ।  
 गायत्र्य् उष्णिग् अनुष्टुब् बृहत्यश् छन्दांसि।  
@@ -79,8 +78,6 @@ unicode_script = "devanagari"
 
 </details>
 </div>  
-
-
 
 मूलमन्त्रेण अष्टवारं आज्येन हुत्वा,  
 
@@ -158,7 +155,6 @@ unicode_script = "devanagari"
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/hiraNyakeshI/gRhyam/paddhatiH/mAdhvA/mantrAdi/vyAhRti-homaH.md">
 <details open><summary><h3>व्याहृति-होमः ...{Loading}...</h3></summary>
 
-
 व्यस्त-समस्तव्याहृतीनां विश्वामित्र-जमदग्नि-भरद्वाज-प्रजापतय ऋषयः ।  
 अग्नि-वायु-सूर्य-प्रजापतयो देवताः ।  
 गायत्र्य् उष्णिग् अनुष्टुब् बृहत्यश् छन्दांसि।  
@@ -212,7 +208,6 @@ unicode_script = "devanagari"
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/hiraNyakeshI/gRhyam/paddhatiH/mAdhvA/mantrAdi/vyAhRti-homaH.md">
 <details open><summary><h3>व्याहृति-होमः ...{Loading}...</h3></summary>
 
-
 व्यस्त-समस्तव्याहृतीनां विश्वामित्र-जमदग्नि-भरद्वाज-प्रजापतय ऋषयः ।  
 अग्नि-वायु-सूर्य-प्रजापतयो देवताः ।  
 गायत्र्य् उष्णिग् अनुष्टुब् बृहत्यश् छन्दांसि।  
@@ -256,7 +251,6 @@ unicode_script = "devanagari"
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/hiraNyakeshI/gRhyam/paddhatiH/mAdhvA/mantrAdi/vyAhRti-homaH.md">
 <details open><summary><h3>व्याहृति-होमः ...{Loading}...</h3></summary>
 
-
 व्यस्त-समस्तव्याहृतीनां विश्वामित्र-जमदग्नि-भरद्वाज-प्रजापतय ऋषयः ।  
 अग्नि-वायु-सूर्य-प्रजापतयो देवताः ।  
 गायत्र्य् उष्णिग् अनुष्टुब् बृहत्यश् छन्दांसि।  
@@ -269,7 +263,6 @@ unicode_script = "devanagari"
 
 </details>
 </div>  
-
 
 ## समापनम्
 प्रागादिपरिस्तरणानि उत्तरे विसृजेत् ।  
@@ -330,7 +323,6 @@ unicode_script = "devanagari"
 
 > ॐ हिरण्यगर्भः समवर्तता भूतस्य जातः पतिरेक आसीत्।
 स दोधार पृथिवीं द्यामुतेमां कस्मै दे॒वाय॑ हविर्षा विधेम॥ 
-
 
 प्रजापते इति मन्त्रस्य हिरण्यगर्भः प्रजापतिस्त्रिष्टुप् प्रजापत्युपस्थाने विनियोगः ।
 

@@ -4,7 +4,6 @@ title = "०८ कर्म-मध्ये ऽग्नि-नाशे"
 +++
 कर्ममध्येऽग्निनाशे 'अयं ते योनिः' इति समिधि भस्म समारोप्य 
 
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/8/19_ayante_yonir.md">
 <details open><summary><h5>19 अयन्ते योनिर् ...{Loading}...</h5></summary>
 
@@ -37,20 +36,63 @@ title = "०८ कर्म-मध्ये ऽग्नि-नाशे"
 </details>
 </div>  
 
-
-
 प्रणवेन 'भूरग्नये च' इति चतुर्भिः, 
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/04_bhUr_agnaye/">
 <details open><summary><h5>०४ भूर् अग्नये ...{Loading}...</h5></summary>
-
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भूर॒ग्नये॑ च पृथि॒व्यै च॑ मह॒ते च॒ स्वाहा॑॥  
-भुवो॑ वा॒यवे॑ चा॒न्तरि॑क्षाय च मह॒ते च॒ स्वाहा॑॥  
-सुव॑रादि॒त्याय॑ च दि॒वे च॑ मह॒ते च॒ स्वाहा॑॥  
-भूर्भुव॒स्सुव॑श्च॒न्द्रम॑से च॒ नक्ष॑त्रेभ्यश्च दि॒ग्भ्यश्च॑ मह॒ते  च॒ स्वाहा॑॥  
-नमो॑ दे॒वेभ्य॑स् स्व॒धा पि॒तृभ्यो॒, भूर्भुव॒स्सुव॒र्मह॒रोम् । (14) - । 4 ।
+(अग्नये महत इदं न मम)
+</details>
 
+<details><summary>मूलम्</summary>
+
+भूर॒ग्नये॑ च पृथि॒व्यै च॑ मह॒ते च॒ स्वाहा॑॥  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भुवो॑ वा॒यवे॑ चा॒न्तरि॑क्षाय च मह॒ते च॒ स्वाहा॑॥  
+(वायवे महत इदं न मम)
+</details>
+
+<details><summary>मूलम्</summary>
+
+भुवो॑ वा॒यवे॑ चा॒न्तरि॑क्षाय च मह॒ते च॒ स्वाहा॑॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सुव॑रादि॒त्याय॑ च दि॒वे च॑ मह॒ते च॒ स्वाहा॑॥  
+(आदित्याय महत इदं न मम)
+</details>
+
+<details><summary>मूलम्</summary>
+
+सुव॑रादि॒त्याय॑ च दि॒वे च॑ मह॒ते च॒ स्वाहा॑॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भूर्भुव॒स्सुव॑श्च॒न्द्रम॑से च॒ नक्ष॑त्रेभ्यश्च दि॒ग्भ्यश्च॑ मह॒ते  च॒ स्वाहा॑॥  
+(चन्द्रमसे महत इदम्)
+</details>
+
+<details><summary>मूलम्</summary>
+
+भूर्भुव॒स्सुव॑श्च॒न्द्रम॑से च॒ नक्ष॑त्रेभ्यश्च दि॒ग्भ्यश्च॑ मह॒ते  च॒ स्वाहा॑॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नमो॑ दे॒वेभ्य॑स् स्व॒धा पि॒तृभ्यो॒, भूर्भुव॒स्सुव॒र्मह॒रोम् । (14) - । 4 ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+नमो॑ दे॒वेभ्य॑स् स्व॒धा पि॒तृभ्यो॒, भूर्भुव॒स्सुव॒र्मह॒रोम् । (14) - । 4 ।
+</details>
 </details>
 </div>  
 
@@ -58,7 +100,6 @@ title = "०८ कर्म-मध्ये ऽग्नि-नाशे"
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/mano_jyotir.md">
 <details open><summary><h5>मनो ज्योतिर् ...{Loading}...</h5></summary>
-
 
 मनो॒ ज्योति॑र् **जुषता॒म्**, आज्य॒व्ँ  
 विच्छि॑न्नय्ँ **य॒ज्ञँ सम्** इ॒मन् **द॑धातु** ।  

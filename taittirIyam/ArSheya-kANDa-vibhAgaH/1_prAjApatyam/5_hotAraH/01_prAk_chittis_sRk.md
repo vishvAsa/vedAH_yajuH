@@ -2,7 +2,8 @@
 title = "०१ प्राक् चित्तिस् सृक्"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/01_prAk_chittis_sRk"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/01_prAk_chittis_sRk">
+<details open><summary><h1>०१ प्राक् चित्तिस् सृक् ...{Loading}...</h1></summary>
 
 ## होता
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -19,7 +20,6 @@ title = "०१ प्राक् चित्तिस् सृक्"
 
 'चित्तिस्स्रुक्, तया देवतया' इत्यादिर् उपधानक्रमः ।  
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -38,11 +38,15 @@ title = "०१ प्राक् चित्तिस् सृक्"
 सैव स्रुक्कार्यमकरोदित्यर्थः ।  
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+पुरा कदाचित्प्रजापतिः प्रजा उत्पादयितुं कामयमानस्तदुपायं वेदेषु परौक्ष्य दशहोत्राख्यं मन्त्रमपश्यत् । 
+</details>
+
 <details><summary>मूलम्</summary>
 
 चित्ति॒स्स्रुक् ।
 </details>
-  
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -69,12 +73,10 @@ title = "०१ प्राक् चित्तिस् सृक्"
 वाग्वेदिः वाक् अभिलापात्मिका वेदिः, सर्वाभिधेयाधारत्वात् । 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 वाग्वेदिः॑ ।
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -107,12 +109,10 @@ title = "०१ प्राक् चित्तिस् सृक्"
 यथोक्तं 'अनेन जीवेनात्मनाऽनुप्रविश्य नामरूपे व्याकरवाणि' इति ।  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 केतो॑ अ॒ग्निः ।  
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -127,12 +127,10 @@ title = "०१ प्राक् चित्तिस् सृक्"
 तथाऽन्येषां 'अग्नीत् ' इत्येव पाठः । 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 विज्ञा॑तम॒ग्निः ।
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -175,13 +173,11 @@ title = "०१ प्राक् चित्तिस् सृक्"
 प्राणो हविः प्राजापत्यः प्राणः बललक्षणः स एव हविः इष्टसाधनं, अग्निर्वा, हविषां अग्निरूपत्वात् । 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 प्रा॒णो ह॒विः ।
 </details>
 
-  
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सामा॑ध्व॒र्युः ।
@@ -209,7 +205,6 @@ title = "०१ प्राक् चित्तिस् सृक्"
 2अथ ग्रहेष्टकामुपदधाति - वाचस्पत इति ॥ तं ग्रहेणागृह्णात्' इति ब्राह्मणम् । 
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वाच॑स्पते! विधे! नामन्न्! +++(इष्टिके!)+++  
@@ -227,7 +222,6 @@ title = "०१ प्राक् चित्तिस् सृक्"
 इत्यारण्यके तृतीये प्रथमोऽनुवाकः ॥  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 वाच॑स्पते विधे नामन् ।  
@@ -237,5 +231,5 @@ title = "०१ प्राक् चित्तिस् सृक्"
 आऽस्मासु॑ नृ॒म्णन्धा॒त्स्वाहा॑ ॥ (1)  
 
 </details>
-
+</details>
 </div>

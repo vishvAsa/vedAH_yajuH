@@ -2,7 +2,8 @@
 title = "२१ पशु-विशसनादि"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/3_agniShToma-pashv-Adi/08_pashu-vishasanAdi"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/3_agniShToma-pashv-Adi/08_pashu-vishasanAdi">
+<details open><summary><h1>०८ पशु-विशसनादि ...{Loading}...</h1></summary>
 
 (उपाकृताग्नीषोमीय-पशु-विशसनम् )पशोः संज्ञपनम्
 
@@ -15,25 +16,33 @@ _______
 
 1अथ पशुरशनाम् आदत्ते - आ दद इति ॥
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
-<details open><summary><h5>देवस्य त्वा सवितुः ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
+<details open><summary><h6>देवस्य त्वा सवितुः ...{Loading}...</h6></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे॑+++(=अनुज्ञायां)+++,
-ऽश्विनो॑र् बा॒हुभ्या॑म्,
+दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे॒॑+++(=अनुज्ञायां)+++,  
++++(देवाध्वर्यू→)+++ ऽश्विनो॑र् बा॒हुभ्या॑म्,  
 पू॒ष्णो हस्ता॑भ्याम्…
 </details>
+
 <details><summary>Keith</summary>
 
 On the instigation of god Savitr,  
 with the arms of the Aśvins,  
 with the hands of Pusan.
 </details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे॑ऽश्विनो॑र् बा॒हुभ्या॑म्,
 पू॒ष्णो हस्ता॑भ्यां॒…
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+दे॒वस्य॑ । त्वा॒ । स॒वि॒तुः । प्र॒स॒व इति॑ प्र-स॒वे । अ॒श्विनोः॑ । बा॒हुभ्या॒मिति॑ बा॒हु-भ्या॒म् । पू॒ष्णः । हस्ता॑भ्याम् ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 **सवितुस्** सर्वप्रेरकस्य **देवस्य** **प्रसवे** प्रेरणायां तेनैव प्रेरितोहं  
@@ -53,14 +62,22 @@ ______________
 
 आ द॑दे ।
 </details>
+
 <details><summary>Keith</summary>
 
 I grasp thee.
 </details>
+
 <details><summary>मूलम्</summary>
 
 आ द॑दे ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+एति॑ । द॒दे॒ ।  
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 1अथ पशुरशनाम् आदत्ते - आ दद इति ॥ गृह्नामीत्यर्थः । अस्य शेषभूतस्सावित्रो 'देवस्य त्वा' इत्यादिना व्याख्यात एव ॥
@@ -71,18 +88,27 @@ _______
 
 2तया अक्ष्णया पशुम् अभिनिदधाति - ऋतस्य त्वेति ॥ 
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋ॒तस्य॑ त्वा देव-हवि॒ᳶ! पाशे॒नाऽऽर॑भे ।
 </details>
+
 <details><summary>Keith</summary>
 
 Offering to the gods, I seize thee with the noose of sacred order.
 </details>
+
 <details><summary>मूलम्</summary>
 
 ऋ॒तस्य॑ त्वा देवहवि॒ᳶ पाशे॒नाऽऽर॑भे ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+ऋ॒तस्य॑ । त्वा॒ । दे॒व॒ह॒वि॒रिति॑ देव-ह॒विः॒ । पाशे॑न । एति॑ । र॒भे॒ । 
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 2तया अक्ष्णया पशुम् अभिनिदधाति - ऋतस्य त्वेति ॥ हे देवहविः देवानां हविर्भूत पशो, ऋतस्य सत्यस्य यज्ञस्य वा पाशेन बन्धिकयानया रशनया त्वामालभे बध्नामि । यद्वा - ऋतस्य यज्ञस्यार्थाय त्वां पाशेन बध्नामि । 'सत्यं वा ऋतम्' इत्यादि ब्राह्मणम्, 'अक्ष्णया परि हरति' इत्यादि च ॥
@@ -93,18 +119,27 @@ _______
 
 3तेन यूपे पशुं नियुनक्ति - धर्षा मानुषानिति ॥
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धर्षा॒ मानु॑षान्  ।
 </details>
+
 <details><summary>Keith</summary>
 
 Fear not men.
 </details>
+
 <details><summary>मूलम्</summary>
 
 धर्षा॒ मानु॑षान्  ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+धर्ष॑ । मानु॑षान् ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 3तेन यूपे पशुं नियुनक्ति - धर्षा मानुषानिति ॥ मनुष्येभ्य आगता उपद्रवा मानुषाः । अत्र 'हलस्तद्धितस्य' इति यलोपः, वृषादित्वादाद्युदात्तत्वम् । उत्सादिर्वा द्रष्टव्यः । तान् धर्ष अभिभव यागसाधनत्वेन देवत्वप्राप्त्या मानुषोपद्रवरहितो भवेत्यर्थः । धृष प्रसहने, चौरादिक उदात्तेदाधृषीयः । प्रसहनमभिभवः । 'द्व्यचोतस्तिङः' इति संहितायां दीर्घत्वम् । यद्वा - मनुष्या एव मानुषाः । 'मनोर्जातौ' इत्यञ् । तान् धर्ष देवत्वप्राप्त्यैव ॥
@@ -115,24 +150,34 @@ _______
 
 4पशुं प्रोक्षति - अद्भ्यस्त्वेति ॥
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अ॒द्भ्यस्त्वौष॑धीभ्य॒ᳶ प्रोक्षा॑मि ।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ॒द्भ्यस् त्वा॑   
 ओष॑धीभ्य॒ᳶ प्रोक्षा॑मि ।
 </details>
+
 <details><summary>Keith</summary>
 
 For the waters thee, for the plants thee, I sprinkle.
 </details>
+
 <details><summary>मूलम्</summary>
 
 अ॒द्भ्यस्त्वा॑   
 ओष॑धीभ्य॒ᳶ प्रोक्षा॑मि ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒द्भ्य इत्य॑त्-भ्यः । त्वा॒ । ओष॑धीभ्य॒ इत्योष॑धि-भ्यः॒ । प्रेति॑ । उ॒क्षा॒मि॒ । 
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 4पशुं प्रोक्षति - अद्भ्यस्त्वेति ॥ तादर्थ्ये चतुर्थी, आप ओषधयश्च भूयासुरित्येवमथर्म् । 
@@ -145,18 +190,27 @@ _______
 
 5पाययति - अपां पेरुरसीति ॥
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ॒पाम् पे॒रुर्+++(=पाता)+++ अ॑सि ।
 </details>
+
 <details><summary>Keith</summary>
 
 Thou art a drinker of the waters.
 </details>
+
 <details><summary>मूलम्</summary>
 
 अ॒पाम्पे॒रुर॑सि ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒पाम् । पे॒रुः । अ॒सि॒ । 
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 5पाययति - अपां पेरुरसीति ॥ हे पशो अपां पेरु पातासि त्वं, ततः इमाः पिबेति गम्यते । यद्वा - असीति पञ्चमो लकारः, अपां पाता भव । पूर्ववदद्भ्योविभक्तेरुदात्तत्वम् । पा पाने, 'मापो रुरिच्च' इति पिबतेरुप्रत्ययः इकारश्च, पेरुः । 'एष ह्यपां पाता' इत्यादि ब्राह्मणं । पानेन चान्तश्शुद्धिः क्रियते । 'पाययत्यन्तरत एवैनम्मेध्यं करोति' ` इति च ब्राह्मणम् ॥
@@ -167,20 +221,29 @@ _______
 
 6अधस्ताद् उपोक्षति - स्वात्तमिति द्विपदया गायत्र्या ॥
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वा॒त्तञ् चि॒त् सद् ए॑वँ ह॒व्यम्   
 आपो॑ देेवी॒स् स्वद॑तैनम् ।
 </details>
+
 <details><summary>Keith</summary>
 
 Ye divine waters, make it palatable, a very palatable offering for the gods.
 </details>
+
 <details><summary>मूलम्</summary>
 
 स्वा॒त्तञ्चि॒त् सदे॑वँ ह॒व्यम् ..   
 आपो॑ देेवी॒स्स्वद॑तैनम् ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+स्वा॒त्तम् । चि॒त् । सदे॑व॒मिति॒ स-दे॒व॒म् । ह॒व्यम् । आपः॑ । दे॒वीः॒ । स्वद॑त । ए॒न॒म् । 
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 6अधस्तादुपोक्षति - स्वात्तमिति द्विपदया गायत्र्या ॥ 
@@ -197,26 +260,37 @@ _______
 
 7जुह्वा पशुं समनक्ति ललाटे ककुदि श्रोण्यां च – सन्ते प्राण इति पुरउष्णिहा त्रिपदया द्वादश-वस्व्-अष्टाक्षरया ॥ तत्र **ललाटे समनक्ति** - सन्ते प्राणो वायुना गच्छतामिति । 
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 सन्ते॑ प्रा॒णो वा॒युना॑ गच्छताँ॒ सय्ँयज॑त्रै॒रङ्गा॑नि॒ सय्ँ य॒ज्ञप॑तिरा॒शिषा॑ 
 </details>
+
 <details><summary>प्रदीपसिंहः</summary>
 
 द्वादश १२, वसु ८, अष्ट ८ अक्षराणि इति भाष्ये । अत्र न्यूनाक्षराणि सन्ति।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सन् ते॑ प्रा॒णो वा॒युना॑ गच्छताँ।  
 </details>
+
 <details><summary>Keith</summary>
 
 Let thy breath be united with the wind,  
 </details>
+
 <details><summary>मूलम्</summary>
 
 सन्ते॑ प्रा॒णो वा॒युना॑ गच्छताम् ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+समिति॑ । ते॒ । प्रा॒ण इति॑ प्र-अ॒नः । वा॒युना॑ । ग॒च्छ॒ता॒म् । 
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 7जुह्वा पशुं समनक्ति ललाटे ककुदि श्रोण्यां च – सन्ते प्राण इति पुरउष्णिहा त्रिपदया द्वादशवस्वष्टाक्षरया ॥ तत्र ललाटे समनक्ति - सन्ते प्राणो वायुना गच्छतामिति । 
@@ -229,18 +303,27 @@ _______
 
 8ककुदि समनक्ति - सं यजत्रैरिति ॥
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सय्ँ यज॑त्रै॒र् अङ्गा॑नि +++(गच्छताम्)+++ ।
 </details>
+
 <details><summary>Keith</summary>
 
 thy limbs with the sacrificial,  
 </details>
+
 <details><summary>मूलम्</summary>
 
 सय्ँयज॑त्रै॒रङ्गा॑नि  +++(गच्छताम्)+++ ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+समिति॑ । यज॑त्रैः । अङ्गा॑नि । 
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 8ककुदि समनक्ति - सं यजत्रैरिति ॥ त्वदीयान्यङ्गानि हृदयादीनि यजत्रैर्यागैस्सङ्गच्छन्तां यागसाधनानि भवन्तु । यद्वा - यागसाधनैस्सङ्गच्छन्तां यागसाधनमध्ये वर्तन्ताम् । गच्छन्तामिति लौकिको वाक्यशेषः, अनुषङ्गस्याभावात् । 'अमिनक्षियजिवधिपतिभ्योऽत्रन्' इति यजेरत्रन्प्रत्ययः । 'विश्वरूपो वै त्वाष्ट्र उपारिष्टात् पशुमभ्यवमीत्' इत्यादि ब्राह्मणम् ॥
@@ -251,18 +334,27 @@ _______
 
 9दक्षिणस्यां श्रोण्यां समनक्ति - सं यज्ञपतिरिति 
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सय्ँ य॒ज्ञप॑तिर् आ॒शिषा॑ +++(गच्छताम्)+++ ।
 </details>
+
 <details><summary>Keith</summary>
 
 the lord of the sacrifice with his prayer.
 </details>
+
 <details><summary>मूलम्</summary>
 
 सय्ँ य॒ज्ञप॑तिरा॒शिषा॑  +++(गच्छताम्)+++ ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+समिति॑ । य॒ज्ञप॑ति॒रिति॑ य॒ज्ञ-प॒तिः॒ । आ॒शिषेत्या॑-शिषा॑ । 
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 9दक्षिणस्यां श्रोण्यां समनक्ति - सं यज्ञपतिरिति ॥ यज्ञपतिर्यजमान आशिषा प्रार्थनापदेन सङ्गच्छताम् । लौकिक एव वाक्यशेषः, लोकिकेन बहुवचनेन वैदिकस्य व्यवहितत्वात् । 'पत्यावैश्वर्य' इति यज्ञपतिशब्दे पूर्वपदस्य प्रकृतिस्वरत्वम् । आङ्पूर्वाच्छासेः क्विपि इत्वे कृदुत्तरपदप्रकृतिस्वरत्वम् ॥
@@ -273,18 +365,27 @@ _______
 
 10स्वधितिं स्वरुं च जुह्वाम् अङ्क्त्वा ताभ्यां पशुं समनक्ति - घृतेनेति ॥ 
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 घृ॒तेना॒क्तौ प॒शुन् त्रा॑येथाः ।
 </details>
+
 <details><summary>Keith</summary>
 
 Anointed with ghee, do ye guard the beast.
 </details>
+
 <details><summary>मूलम्</summary>
 
 घृ॒तेना॒क्तौ प॒शुन्त्रा॑येथाः ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+घृ॒तेन॑ । अ॒क्तौ । प॒शुम् । त्रा॒ये॒था॒म् । 
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 10स्वधितिं स्वरुं च जुह्वाम् अङ्क्त्वा ताभ्यां पशुं समनक्ति - घृतेनेति ॥ हे स्वरो स्वधिते घृतेन प्रयाजशेषेणानेन अक्तौ सन्तौ पशुं त्रायेथाम् समञ्जनेन रक्षतम् । 'वज्रो वै स्वधितिर्वज्रो यूपशकलः' इत्यादि ब्राह्मणम् ॥
@@ -295,22 +396,32 @@ _______
 
 11पशुम् उदञ्चन् नीयमानम् अनुमन्त्रयते - रेवतीर् यज्ञपतिम् इति यजुर्-आदिकया, उरो अन्तरिक्षेति पञ्चपदया रुद्रेशवसुमुनिस्वराक्षरया ॥
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 रेव॑तीर्य॒ज्ञप॑तिम्प्रिय॒धाऽऽवि॑श॒तोरो॑ अन्तरिक्ष स॒जूर्दे॒वेन॑ [14]वाते॑ना॒ऽस्य ह॒विष॒स्त्मना॑ यज॒ सम॑स्य त॒नुवा॑ भव॒ वर्षी॑यो॒ वर्षी॑यसि य॒ज्ञे य॒ज्ञप॑तिन्धाः
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रे-व॑तीर् य॒ज्ञ-प॑तिम् प्रिय॒-धा ऽऽवि॑शत ।
 </details>
+
 <details><summary>Keith</summary>
 
 Ye wealthy ones, do ye kindly resort to the lord of the sacrifice.
 </details>
+
 <details><summary>मूलम्</summary>
 
 रेव॑तीर्य॒ज्ञप॑तिम्प्रिय॒धाऽऽवि॑शत ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+रेव॑तीः । य॒ज्ञप॑ति॒मिति॑ य॒ज्ञ-प॒ति॒म् । प्रि॒य॒धेति॑ प्रिय-धा । एति॑ । वि॒श॒त॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 11पशुम् उदञ्चन् नीयमानम् अनुमन्त्रयते - रेवतीर् यज्ञपतिम् इति यजुरादिकया, उरो अन्तरिक्षेति पञ्चपदया रुद्रेशवसुमुनिस्वराक्षरया ॥ 
@@ -320,8 +431,8 @@ Ye wealthy ones, do ye kindly resort to the lord of the sacrifice.
 यद्वा - व्यत्ययेन असङ्ख्याया अपि विधार्थे धाप्रत्ययः । प्रियप्रकारेणेत्यर्थः । यज्ञदेवता वा यज्ञपतिस्तां प्रीतिर्पूवकं भक्ष्यत्वेन सयुग्भावेन वा आविशत ।   
 यद्वा - सर्वे पशव उच्यन्ते - वयमस्माकमेको हन्तुं नीयत इति उद्वेगं मा कार्ष्ट । यजमानस्योपभोगाय प्रीतिपूर्वकं तस्मिन्वर्तध्वम् ।
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/08_pashu-vishasanAdi/02_uro_antarikhSha.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/08_pashu-vishasanAdi/02_uro_antarikhSha.md">
+<details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 उरो॑ अन्तरिक्ष!  
 स॒जूर् दे॒वेन॑ वाते॑ना॒  
@@ -329,8 +440,8 @@ Ye wealthy ones, do ye kindly resort to the lord of the sacrifice.
 सम् अ॑स्य त॒नुवा॑ भव।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/08_pashu-vishasanAdi/02_uro_antarikhSha.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/08_pashu-vishasanAdi/02_uro_antarikhSha.md">
+<details open><summary><h5>सर्वाष् टीकाः ...{Loading}...</h5></summary>
 <details><summary>Keith</summary>
 
 O broad atmosphere,  
@@ -338,11 +449,18 @@ in unison with the god [1] wind,
 sacrifice with the life of this offering;  
 be united with its body
 </details>
+
 <details><summary>मूलम्</summary>
 
 उरो॑ अन्तरिक्ष स॒जूर्दे॒वेन॑  +++(रुद्र -११ अक्षराणि)+++  ।  वाते॑ना॒ऽस्य ह॒विष॒स्त्मना॑ यज  +++( ईश- ११ अक्षराणि)+++  
 सम॑स्य त॒नुवा॑ भव  +++(वसु ८ अक्षराणि)+++ ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+उरो॒ इति॑ । अ॒न्त॒रि॒क्ष॒ । स॒जूरिति॑ स-जूः । दे॒वेन॑ । [14]1 । वाते॑न । अ॒स्य । ह॒विषः॑ । त्मना॑ । य॒ज॒ । समिति॑ । अ॒स्य॒ । त॒नुवा॑ । भ॒व॒ । 
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अन्तरिक्षशब्देन पशोस्सुषिराणि श्रोत्रादीनीन्द्रियाण्युच्यन्ते; समुदायापेक्षमेकवचनम् ।  हे उरो विस्तीर्ण अन्तरिक्ष श्रोत्रादीन्द्रियसमुदाय त्वं सजूः समानप्रीतिर्भूत्वा । 'समानस्य छन्दसि' इति सभावः, 'ससजुषोः' इति रुत्वम्, 'त्रिचक्रादीनामन्तः' इत्युत्तरपदान्तोदात्तत्वम् । केन सजूः? देवेन दीप्तिमता वातेन पशुप्रायेन ।   
@@ -359,15 +477,23 @@ be united with its body
 
 वर्षी॑यो॒ वर्षी॑यसि य॒ज्ञे य॒ज्ञप॑तिन्धाः ।  
 </details>
+
 <details><summary>Keith</summary>
 
 extending more broadly,  
 make the sacrifice of the lord of the sacrifice most successful.
 </details>
+
 <details><summary>मूलम्</summary>
 
 वर्षी॑यो॒ वर्षी॑यसि य॒ज्ञे य॒ज्ञप॑तिन्धाः ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+वर्षी॑यः । वर्षी॑यसि । य॒ज्ञे । य॒ज्ञप॑ति॒मिति॑ य॒ज्ञ-प॒ति॒म् । धाः॒ । 
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अपि च - हे वर्षीयः प्रवृद्धतरश्रोत्रादीन्द्रियसमुदाय वर्षीयसि प्रवृद्धतरे यज्ञे यज्ञपतिं यजमानं धाः धारय अविघ्नेन स्थापय । हविष्यमस्य अनुभावय शीघ्रं यज्ञं निर्वर्तय । यद्वा - यज्ञफले स्थापय यागसाधनद्वारेण यनमानं यज्ञफलभाजं कुरु ।  
@@ -379,24 +505,33 @@ _______
 
 12 पशुनिहननस्थाने निहन्यमानाय बर्हिर् उपास्यति - पृथिव्या इति ॥
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृ॒थि॒व्यास् स॒म्पृचᳶ॑ पाहि ।
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/pRthivyAH.md">
-<details open><summary><h5>पृथिव्याः ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/pRthivyAH.md">
+<details open><summary><h6>पृथिव्याः ...{Loading}...</h6></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृ॒थि॒व्यास् स॒म्पृच॑ᳶ पाहि ।
 </details>
+
 <details><summary>Keith</summary>
 
 Guard from the contact of earth.
 </details>
+
 <details><summary>मूलम्</summary>
 
-पृ॒थि॒व्यास्स॒म्पृच॑ᳶ पाहि ।
+पृ॒थि॒व्यास् स॒म्पृच॑ᳶ पाहि ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+पृ॒थि॒व्याः । स॒म्पृच॒ इति॑ सम्-पृचः॑ । पा॒हि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ङीष उदात्तत्वात् 'उदात्तयणो हल्पूर्वात्' (पा.सू. 6.1.174) इति विभक्तेरुदात्तत्वम् । संपृचन्तीति संपृचः । 'क्विप्च' (पा.सू. 3.2.76) इति क्विप् । कृदुत्तरपदप्रकृतिस्वरत्वम् (पा.सू. 6.2.139) । नित्यसमासत्वाद्विभक्तिस्वराभावः । पृथिवीसम्पृक्तानस्मान्पाहि । दिविष्ठस्त्वम्, उपरि निधानात् ॥
@@ -407,6 +542,7 @@ Guard from the contact of earth.
 
 पृ॒थि॒व्यास्स॒म्पृचᳶ॑ पाहि ।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 12 पशुनिहननस्थाने निहन्यमानाय बर्हिरुपास्यति - पृथिव्या इति ॥ प्रस्तरनिधाने व्याख्यातम् । अत्रैवं वा - पृथिवीसम्पर्कदोषात्पशुं रक्षेति । 'पृथिव्यास्सम्पृचः पाहीति बर्हिरुपास्यत्यस्कन्दायास्कन्नँहि तद्यद्बर्हिषि स्कन्दति' ` इति च ब्राह्मणम् । यद्वा - पृथिवीसाम्पर्कादन्यान्पशून्रक्षेति ॥
@@ -417,18 +553,27 @@ _______
 
 13पत्नीम् आदित्यम् उदीक्षयति - नमस्त आतानेति ॥ 
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नम॑स् त आतान ।
 </details>
+
 <details><summary>Keith</summary>
 
 Homage to thee, O extended one.
 </details>
+
 <details><summary>मूलम्</summary>
 
 नम॑स्त आतान ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । ते॒ । आ॒ता॒नेत्या॑-ता॒न॒ । 
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 13पत्नीम् आदित्यम् उदीक्षयति - नमस्त आतानेति ॥ हे आतान आदिव्य तुभ्यं नम इदमस्तु । आतन्वन्ति विस्तारयान्ति विश्वं जगदित्यातानाः आदित्यरश्मयः । 'आदित्यस्य वै रश्मय आतानास्तेभ्य एव नमस्करोति' `इति ब्राह्मणम् । 'पश्चाल्लोका वा एषा प्राच्युदानयिते यत्पत्नी' इति च । तनोतेराङ्पूर्वात्पचाद्यच् । यद्वा - आतन्यन्ते विस्तार्यन्ते भास्करेणेत्यातानाः रश्मयः । कर्मणि घञ्, थाथादिस्वरेणोत्तरपदान्तोदात्तत्वम् । अत्र तु तद्वानादित्य एवातान इत्युच्यते ॥
@@ -439,6 +584,7 @@ _______
 
 14प्राचीम् उदानयन् वाचयति - अनर्वा प्रेहीति ॥ 
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ॒न॒र्वा प्रेहि॑  
@@ -446,6 +592,7 @@ _______
 स॒ह प्र॒जया॑  
 स॒ह  रा॒यस्पोषे॑ण  ।
 </details>
+
 <details><summary>Keith</summary>
 
 Come forward, irresistible,  
@@ -453,12 +600,21 @@ along the stream of ghee,
 with offspring,  
 with increase of wealth.
 </details>
+
 <details><summary>मूलम्</summary>
 
 अ॒न॒र्वा प्रेहि॑  
 घृ॒तस्य॑ कु॒ल्यामनु॑  
 स॒ह प्र॒जया॑ स॒ह  रा॒यस्पोषे॑ण  ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒न॒र्वा । प्रेति॑ । इ॒हि॒ ।   
+घृ॒तस्य॑ । कु॒ल्याम् । अन्विति॑ ।   
+स॒ह । प्र॒जयेति॑ प्र-जया॑ । स॒ह । रा॒यः । पोषे॑ण । 
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 14प्राचीम् उदानयन् वाचयति - अनर्वा प्रेहीति ॥ कुत्सितमरणं गमनमर्वा; 'भ्रातृव्यो वा अर्वा' ` इति च ब्राह्मणम् । 'अवद्यावमाधमार्वरेफाः कुत्सिते' इत्यर्तेः कनिन् प्रययोर्वादेशश्च निपात्यते तद्रहित अनर्वा । बहुव्रीहौ 'नञ्सुभ्याम्' इत्युत्तरपदान्तोदात्तत्वम् । यस्मात्त्वमनर्वा अनवद्या सदा भर्तुर्वशंगता तस्मात्प्रेहि प्राचीं गच्छ, प्राच्यां हि स्वर्गो लोकः । प्रशब्देन प्राक्त्वं द्योत्यते, यथा 'प्रेयमगात्' इति ।
@@ -473,8 +629,8 @@ _______
 
 15अपोवेक्षमाणां पत्नीं वाचयति - आपो देवीरिति चतुष्पदयानुष्टुभा विद्युन्मालया ॥ 
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/08_pashu-vishasanAdi/03_Apo_devIsh.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/08_pashu-vishasanAdi/03_Apo_devIsh.md">
+<details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 आपो॑ देवीश् शुद्धायुवश्  
 शु॒द्धा यू॒यन् दे॒वाँ ऊ॑ड्ढ्वम् ।    
@@ -482,17 +638,24 @@ _______
 +++(युष्मत्-)+++परिवे॒ष्टारो॑ वो भूयास्म ॥ [15]
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/08_pashu-vishasanAdi/03_Apo_devIsh.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/08_pashu-vishasanAdi/03_Apo_devIsh.md">
+<details open><summary><h5>सर्वाष् टीकाः ...{Loading}...</h5></summary>
 <details><summary>Keith</summary>
 
 O ye waters, goddesses, purifying and pure, do ye bring the gods;  
 may we, pure and served (by you), be servers upon you.
 </details>
+
 <details><summary>मूलम्</summary>
 
 आपो॑ देवीश्शुद्धायुवश्शु॒द्धा यू॒यन्दे॒वाँ ऊ॑ड्ढ्वम् ।    
 शु॒द्धा व॒यम्परि॑विष्टाᳶ परिवे॒ष्टारो॑ वो भूयास्म ॥ [15]
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+आपः॑ । दे॒वीः॒ । शु॒द्धा॒यु॒व॒ इति॑ शुद्ध-यु॒वः॒ । शु॒द्धाः । यू॒यम् । दे॒वान् । ऊ॒ढ्व॒म् ।   
+शु॒द्धाः । व॒यम् । परि॑विष्टा॒ इति॒ परि॑-वि॒ष्टाः॒ । प॒रि॒वे॒ष्टार॒ इति॑ परि-वे॒ष्टारः॑ । वः॒ । भू॒या॒स्म॒ ॥ [15]
 </details>
 </details>
 </div>
@@ -500,6 +663,7 @@ may we, pure and served (by you), be servers upon you.
 
 अत्र विद्युन्माला इति व्याख्याने- मो मो गो गो इति तल्लक्षणम् । अत्र  तल्लक्षणं न स्पष्टम् ।श्रद्धा युवम् इत्यत्र यू इति दीर्धेण भवितव्यमिति भाति । द्वितीयार्धे लक्षणं कथम् ?-विचारणीयोयं भागः
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 15अपोवेक्षमाणां पत्नीं वाचयति - आपो देवीरिति चतुष्पदयानुष्टुभा विद्युन्मालया ॥ हे आपो देवीः देव्यः । 'वा छन्दसि' इति 'पूर्वसवर्णदीर्घत्वम् । शुद्धायुवः शुद्धा आपः शुद्धान् देशकालादीनिच्छन्ति आत्मनः परेषां वा । 'छन्दसि परेच्छायामपि' इति क्यच्, 'नच्छन्दस्यपुत्रस्य' इतीत्वप्रतिषेधे 'अकृत्सार्वधातुकयोः' इति दीर्घः, 'क्याच्छन्दसि' इत्युप्रत्ययः, 'जसादिषु वा वचनं प्राङ्णौ चङ्युपधाया' इति 'जसि च' इति गुणो न क्रियते ।   
@@ -508,7 +672,7 @@ may we, pure and served (by you), be servers upon you.
 यद्वा - ऊहतेरनुदात्तेतः प्राप्तिकर्मणो लोटि पूर्ववच्छपो लुक् । यद्वा - देवान्प्राति ऊढ्वं यथेमं पशुं देवा भुञ्जते तथा ऊढ्वं यतध्वमिति यावत् । अत्र देवानित्यत्र नकारस्य संहितायां 'आतोऽटि नित्यं' इति रुत्वम्, 'अत्रानुनासिकः पूर्वस्य तु वा' इत्यनुनासिकः, 'अनुनासिकात्परोनुस्वारः' । वयमपि युष्माभिः परिविष्टास्सर्वतोनुप्रविष्टाः अत एव शुद्धाः युष्मदवेक्षणादियोग्याः वः युष्माकं परिवेष्टारः सर्वतः परिवेष्टारो भूयास्म अवेक्षणादिना । 'गतिरनन्तरः' इति परिशब्दे पूर्वपदप्रकृतिस्वरत्वम् । परिवेष्टृशब्दे कृदुत्तरपदप्रकृतिस्वरत्वम् ॥
 </details>
 
-
 इति तृतीये अष्टमोनुवाकः ॥  
 
+</details>
 </div>

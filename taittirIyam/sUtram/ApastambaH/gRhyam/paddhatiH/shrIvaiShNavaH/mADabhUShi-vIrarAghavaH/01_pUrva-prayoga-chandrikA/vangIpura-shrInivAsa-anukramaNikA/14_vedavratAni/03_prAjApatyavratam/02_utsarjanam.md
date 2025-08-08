@@ -15,98 +15,7 @@ title = "०२ उत्सर्जनम्"
 अग्निप्रतिष्ठाद्य्-अग्नि-मुखान्ते पूर्ववत् प्रधानाहुतीः हुत्वा,  
 माणवकम् उत्थाप्य,  
 
-<div class="js_include" url="84_agne_vratapate.md"  newLevelForH1="5" includeTitle="false"> 
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-आदि॑त्य व्रतपते
-</details>
-
-<details><summary>मूलम्</summary>
-
-आदि॑त्य व्रतपते
-</details>
-
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-… व्र॒तम् अ॑चारिषम् । तद् अ॑शक॒न्, तन् मे॑ ऽराधि ।
-</details>
-
-<details><summary>मूलम्</summary>
-
-व्र॒तम॑चारिषम् । तद॑शक॒न्तन्मे॑ऽराधि ।
-</details>
-
-
-<details><summary>मूलम् - संयुक्तम्</summary>
-
-वायो॑ व्रतप॒तेऽग्ने॑ व्रतपते ।
-</details>
-
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-वायो॑ व्रतप॒ते
-</details>
-
-<details><summary>मूलम्</summary>
-
-वायो॑ व्रतप॒ते
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-… व्र॒तम् अ॑चारिषम् । तद् अ॑शक॒न्, तन् मे॑ ऽराधि ।
-</details>
-
-<details><summary>मूलम्</summary>
-
-व्र॒तम॑चारिषम् । तद॑शक॒न्तन्मे॑ऽराधि ।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-अग्ने॑ व्रतपते!
-</details>
-
-<details><summary>मूलम्</summary>
-
-अग्ने॑ व्रतपते!
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-… व्र॒तम् अ॑चारिषम् । तद् अ॑शक॒न्, तन् मे॑ ऽराधि ।
-</details>
-
-<details><summary>मूलम्</summary>
-
-व्र॒तम॑चारिषम् । तद॑शक॒न्तन्मे॑ऽराधि ।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-व्र॒ताना॑व्व्ँरतपते
-</details>
-
-<details><summary>मूलम्</summary>
-
-व्र॒ताना॑व्व्ँरतपते
-</details>
-
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-… व्र॒तम् अ॑चारिषम् । तद् अ॑शक॒न्, तन् मे॑ ऽराधि ।
-</details>
-
-<details><summary>मूलम्</summary>
-
-व्र॒तम॑चारिषम् । तद॑शक॒न्तन्मे॑ऽराधि ।
-</details>  
-</div>
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/07_pravargyAdi/84_agne_vratapate"></div>
 <details><summary>विश्वास-टिप्पनी</summary>
 
 > अग्ने व्रतपते काण्डर्षिभ्यः प्राजापत्यव्रतमचारिषं तदशकं तन्मे राधि । वायो व्रतपते काण्डर्षिभ्यः प्राजापत्यव्रतमचारिषं तदशकं तन्मे राधि । आदित्यव्रतपते काण्डर्षिभ्यः प्राजापत्यव्रतमचारिषं तदशकं तन्मे राधि ।
@@ -120,9 +29,7 @@ title = "०२ उत्सर्जनम्"
 कुतस् तर्हि प्रयोगग्रन्थोष्व् अन्यथा?
 </details>
 
-
 [[89]]
-
 
 जयादि प्रतिपद्यते ।  
 परिषेचनान्तं कृत्वा ।  

@@ -77,7 +77,6 @@ unicode_script: devanagari
 
 तस्यां क्रयशब्दः संस्तुतिमात्रम् । धर्माद्धि संबन्धः ११-२  
 
-
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/13/12_ekadhanena_jyeShTham.md">

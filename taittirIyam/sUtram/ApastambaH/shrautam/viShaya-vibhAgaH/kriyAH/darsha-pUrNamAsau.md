@@ -78,7 +78,6 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/01/01/04_devA_gAtuvido_gAtuM.md">
 <details open><summary><h2>04 देवा गातुविदो गातुं ...{Loading}...</h2></summary>
 
-
 "देवा गातुविदो गातुं यज्ञाय विन्दत । मनसस्पतिना देवेन वाताद्यज्ञः प्रयुज्यतामि"ति जपित्वा  
 "ममाग्ने वर्चो विहवेष्वस्त्वि"त्याहवनीयमुपसमिन्द्धे ।  
 उत्तरया गार्हपत्यम्  
@@ -572,7 +571,6 @@ unicode_script: devanagari
 </div>
 </details>
 </div>  
-
 
 ## वेदनिर्माणम्
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/01/06/04_tvayA_vediM_vividuH.md">

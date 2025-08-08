@@ -11,6 +11,7 @@ _______
 1उपांशुपात्रेण पात्नीवतम् आग्रयणाद् गृह्णाति - बृहस्पतिसुतस्येति ॥  
 तत्र प्रथमा त्रिपदा गायत्री।
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 बृह॒स्पति॑सुतस्य त इन्दो इन्द्रि॒याव॑त॒ᳶ पत्नी॑वन्त॒ङ्ग्रह॑ङ्गृह्णा॒मि ।
@@ -31,11 +32,13 @@ Of thee, O drop, pressed by Brhaspati,
 and possessing power,  
 I draw the cup connected with the wives.
 </details>
+
 <details><summary>मूलम्</summary>
 
 बृह॒स्पति॑सुतस्य त इन्द्रो इन्द्रि॒याव॑तः ।  
 पत्नी॑वन्त॒ङ्ग्रह॑ङ्गृह्णा॒मि ।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तत्र बृहस्पतिसुतस्येति प्रथमा व्याख्यायते । सोम उच्यते ।  
@@ -45,31 +48,33 @@ I draw the cup connected with the wives.
 </details>
 </div>
 
-
-
-
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 उत्तरया जुहोति । द्वितीया द्विपदा षोडशाक्षरा स्वाहाकारान्ता स्वयं यजुः । 
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अग्ना३ इ पत्नी॒वा३स्स॒जूर्दे॒वेन॒ त्वष्ट्रा॒ सोम॑म्पिब॒ स्वाहा॑ ॥ [28]
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्ना३इ! पत्नी॒वा३स्!  
 स॒जूर्+++(←स-जुष्)+++ दे॒वेन॒ त्वष्ट्रा॑! सोम॑म् पिब॒ स्वाहा॑ ॥ [28]
 </details>
+
 <details><summary>Keith</summary>
 
 O Agni, with the wives, in unison with the god Tvastr, drink the Soma, hail.
 </details>
+
 <details><summary>मूलम्</summary>
 
 अग्ना३इ पत्नी॒वा३स् स॒जूर् दे॒वेन॒ त्वष्ट्रा॑ सोम॑म्पिब॒ स्वाहा॑ ॥ [28]
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 2अथ द्वितीया - हे **अग्ने पत्नीवन् देवेन त्वष्ट्रा सजूः** समानप्रीतिः । नास्य पाने ऽन्वयः । 'ससजुषोः' इति रुत्वम् । 

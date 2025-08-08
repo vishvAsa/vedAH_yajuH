@@ -92,7 +92,6 @@ unicode_script: devanagari
 </details>
 </div>
 
-
 ## आयुध-मनोरञ्जन-निरोधः
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/25/14_AyudhagrahaNan_nRttagItavAditrANIti_rAjAdhInebhyo-nyatra.md">
 <details open><summary><h4>14 आयुधग्रहणन् नृत्तगीतवादित्राणीति राजाधीनेभ्योऽन्यत्र ...{Loading}...</h4></summary>
@@ -151,7 +150,6 @@ unicode_script: devanagari
 तत्र यन्मुष्यते तैस्तत्प्रतिदाप्यम् ८
 </details>
 </div>
-
 
 दण्डन-विचारोऽन्यत्रोक्तः।
 

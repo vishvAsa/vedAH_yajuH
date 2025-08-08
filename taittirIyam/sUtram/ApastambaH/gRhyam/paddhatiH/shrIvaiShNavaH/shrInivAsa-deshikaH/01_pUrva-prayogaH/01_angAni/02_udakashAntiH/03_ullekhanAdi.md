@@ -17,7 +17,6 @@ title = "०३ उल्लेखनादि"
 
 </details>
 
-
 तत्र मध्ये 
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/13/03_brahma_jajnAnam.md">
@@ -31,20 +30,17 @@ title = "०३ उल्लेखनादि"
 </details>
 </div>  
 
-
 मध्ये पश्चिमाद् आरभ्य प्राचीम् उल्लिखेत् ॥
-
 
 [[10]]
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/123/06_nAke_suparNamupa.md">
 <details open><summary><h5>०६ नाके सुपर्णमुप ...{Loading}...</h5></summary>
 
-
-नाके॑ सुप॒र्णम् +++(→सूर्यं)+++ उप॒ यत् पत॑न्तं  
-हृ॒दा **वेन॑न्तो अ॒भ्यच॑क्षत** त्वा ।  
-हिर॑ण्य-पक्षं॒ +++(शतभिषक्-स्थ-)+++वरु॑णस्य दू॒तं  
-य॒मस्य॒ योनौ॑ +++(→भरण्यां)+++ शकु॒नं भु॑र॒ण्युम्+++(←भृ)+++ ॥
+ना᳓के सुपर्ण᳓म् +++(→सूर्यं)+++ उ᳓प य᳓त् प᳓तन्तं  
+हृदा᳓ **वे᳓नन्तो अभ्य᳓चक्षत** त्वा ।  
+हि᳓रण्य-पक्षं +++(शतभिषक्-स्थ-)+++व᳓रुणस्य दूतं᳓  
+यम᳓स्य यो᳓नौ +++(→भरण्यां)+++ शकुनं᳓ भुरण्यु᳓म्+++(←भृ)+++ ॥
 
 </details>
 </div>
@@ -54,10 +50,9 @@ title = "०३ उल्लेखनादि"
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/091/16_A_pyAyasva.md">
 <details open><summary><h5>१६ आ प्यायस्व ...{Loading}...</h5></summary>
 
-
-**आ प्या॑यस्व॒ समे॑तु** ते  
-वि॒श्वतः॑ सोम॒ वृष्ण्य॑म् ।  
-**भवा॒** वाज॑स्य **सङ्ग॒थे**+++(=संगमने)+++ ॥
+**आ᳓ प्यायस्व स᳓मेतु** ते  
+विश्व᳓तः सोम वृ᳓ष्ण्यम् ।  
+**भ᳓वा** वा᳓जस्य **सङ्गथे᳓**+++(=संगमने)+++ ॥
 
 </details>
 </div>
@@ -79,10 +74,9 @@ title = "०३ उल्लेखनादि"
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/022/17_idaM_viShNurvi.md">
 <details open><summary><h2>१७ इदं विष्णुर्वि ...{Loading}...</h2></summary>
 
-
-इ॒दव्ँ विष्णु॒र् +++(अग्नि-विद्युत्-सूर्यात्मना)+++ **वि च॑क्रमे**  
-+++(पृथिव्याम् अन्तरिक्षे दिवि च)+++ त्रे॒धा **नि द॑धे** प॒दम् ।  
-+++(तैर् आधारैर् जगत्)+++ **सम् ऊ॑ढम्** अस्य पाँसु॒रे +++(ले इति साम्नि, पांसुमति [पादे])+++ ॥
+इद᳓व्ँ वि᳓ष्णुर् +++(अग्नि-विद्युत्-सूर्यात्मना)+++ **वि᳓ चक्रमे**  
++++(पृथिव्याम् अन्तरिक्षे दिवि च)+++ त्रेधा᳓ **नि᳓ दधे** पद᳓म् ।  
++++(तैर् आधारैर् जगत्)+++ **स᳓म् ऊढम्** अस्य पाँसुरे᳓ +++(ले इति साम्नि, पांसुमति [पादे])+++ ॥
 
 </details>
 </div>
@@ -92,16 +86,13 @@ title = "०३ उल्लेखनादि"
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/011/01_indraM_vishvA.md">
 <details open><summary><h5>०१ इन्द्रं विश्वा ...{Loading}...</h5></summary>
 
-
-इन्द्रं॒ विश्वा॑ **अवीवृधन्त्**  
-समु॒द्र+++(वत्)+++-व्य॑चसं॒ गिरः॑ ।  
-र॒थीत॑मं र॒थीनां॒,  
-वाजा॑नां॒ सत्-प॑तिं॒ पति॑म् ॥
+इ᳓न्द्रं वि᳓श्वा **अवीवृधन्त्**  
+समुद्र᳓+++(वत्)+++-व्यचसं गि᳓रः ।  
+रथी᳓तमं रथी᳓नां,  
+वा᳓जानां स᳓त्-पतिं प᳓तिम् ॥
 
 </details>
 </div>
-
-
 
 इति पुरस्ताद् दक्षिणत आरभ्य उदग् अवसानम् उल्लिखेत ॥ 
 
@@ -116,7 +107,6 @@ title = "०३ उल्लेखनादि"
 तन्तुवेष्टितं सुधूपितं कुम्भं,  
 ब्रह्मजज्ञानम् इति (पूर्वोक्त) मन्त्रेण प्रतिष्ठाप्य 
 
-
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/13/03_brahma_jajnAnam.md">
 <details open><summary><h4>०३ ब्रह्म जज्ञानम् ...{Loading}...</h4></summary>
 
@@ -127,7 +117,5 @@ title = "०३ उल्लेखनादि"
 
 </details>
 </div>  
-
-
 
 तस्मिन् तिरः पवित्रम् उदगग्रं निधाय व्याहृतीभिः, 

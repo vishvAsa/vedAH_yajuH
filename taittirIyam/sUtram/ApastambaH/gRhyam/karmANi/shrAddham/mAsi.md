@@ -32,7 +32,6 @@ unicode_script: devanagari
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/01_yanme_mAtA.md">
 <details open><summary><h4>०१ यन्मे माता ...{Loading}...</h4></summary>
 
-
 यन् मे॑ मा॒ता प्रलु॑लोभ॒ चर॒त्य् अन॑नुव्रता,  
 तन् मे॒ रेतः॑ पि॒ता वृ॑ङ्क्ताम्+++(=आच्छिद्य स्वीकरोतु)+++।  
 आ॒भुर्+++(←आभवतीति)+++ अ॒न्यो +++(बलेर् दूरम्)+++ ऽव॑पद्यताम्।+++(र५)+++  
@@ -42,7 +41,6 @@ unicode_script: devanagari
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/02_yAstiShThanti_yA.md">
 <details open><summary><h4>०२ यास्तिष्ठन्ति या ...{Loading}...</h4></summary>
-
 
 यास् तिष्ठ॑न्ति॒, या धाव॑न्ति॒,  
 या आ॑र्द्रो॒घ्नीः+++(=कूलादिघ्नीः)+++ परि॑त॒स्थुषीः॑ ।  
@@ -57,7 +55,6 @@ unicode_script: devanagari
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/03_yanme_pitAmahI.md">
 <details open><summary><h4>०३ यन्मे पितामही ...{Loading}...</h4></summary>
 
-
 यन् मे॑ पिताम॒ही प्रलु॑लोभ॒ चर॒त्य् अन॑नुव्रता,  
 तन् मे॒ रेतः॑ पिताम॒हो वृ॑ङ्क्ताम्+++(=आच्छिद्य स्वीकरोतु)+++।  
 आ॒भुर्+++(←आभवतीति)+++ अ॒न्यो +++(बलेर् दूरम्)+++ ऽव॑पद्यताम्।  
@@ -67,7 +64,6 @@ unicode_script: devanagari
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/04_antardadhe_parvatairantarmahyA.md">
 <details open><summary><h4>०४ अन्तर्दधे पर्वतैरन्तर्मह्या ...{Loading}...</h4></summary>
-
 
 अ॒न्तर् द॑धे॒ पर्व॑तैर्  
 अ॒न्तर् मह्या॑ पृथि॒व्या ।  
@@ -82,7 +78,6 @@ unicode_script: devanagari
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/05_yanme_prapitAmahI.md">
 <details open><summary><h4>०५ यन्मे प्रपितामही ...{Loading}...</h4></summary>
 
-
 यन् मे॑ प्रपिताम॒ही प्रलु॑लोभ॒ चर॒त्य् अन॑नुव्रता,  
 तन् मे॒ रेतः॑ प्रपिताम॒हो वृ॑ङ्क्ताम्+++(=आच्छिद्य स्वीकरोतु)+++।  
 आ॒भुर्+++(←आभवतीति)+++ अ॒न्यो +++(बलेर् दूरम्)+++ ऽव॑पद्यताम्।  
@@ -92,7 +87,6 @@ unicode_script: devanagari
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/06_antardadha_RtubhirahorAtraishcha.md">
 <details open><summary><h4>०६ अन्तर्दध ऋतुभिरहोरात्रैश्च ...{Loading}...</h4></summary>
-
 
 अ॒न्तर्द॑ध ऋ॒तुभि॑र्  
 अहोरा॒त्रैश् च॑ +++(काल)+++स॒न्धिभिः॑ ।  
@@ -106,7 +100,6 @@ unicode_script: devanagari
 ##### अन्येभ्यः
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/07_ye_cheha.md">
 <details open><summary><h4>०७ ये चेह ...{Loading}...</h4></summary>
-
 
 ये चे॒ह पि॒तरो॒ ये च॒ नेह॒  
 याँश् च॑ वि॒द्म याँ उ॑ च॒ न प्र॑ वि॒द्म ।  
@@ -128,7 +121,6 @@ unicode_script: devanagari
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/08-13_svAhA_pitre.md">
 <details open><summary><h4>०८-१३ स्वाहा पित्रे ...{Loading}...</h4></summary>
 
-
 - स्वाहा॑ पि॒त्रे
 - पि॒त्रे स्वाहा॒
 - स्वाहा॑ पि॒त्रे
@@ -141,7 +133,6 @@ unicode_script: devanagari
 </div>
 </details>
 </div>  
-
 
 ### अभिमर्शः कर्त्रा  
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/24_mAsishrAddhaprakaraNam/21_05_etadvA_viparItam.md">
@@ -158,7 +149,6 @@ unicode_script: devanagari
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/16_eSha_te.md">
 <details open><summary><h4>१६ एष ते ...{Loading}...</h4></summary>
-
 
 ए॒ष ते॑ तत॒ +++(स्वधासमुद्रः)+++ मधु॑माँ ऊ॒र्मिस् सर॑स्वा॒न्।  
 यावा॑न् अ॒ग्निश् च॑ पृथि॒वी च॒ ताव॑त्य् अस्य मा॒त्रा।  
@@ -199,7 +189,6 @@ unicode_script: devanagari
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/01_pRthivI_te.md">
 <details open><summary><h4>०१ पृथिवी ते ...{Loading}...</h4></summary>
 
-
 +++(हे अन्न -)+++ पृ॒थि॒वी ते॒ पात्रं॒,   
 द्यौर् अ॑पि॒धानम्।   
 ब्रह्म॑णस् त्वा॒ मुखे॑ जुहोमि।  
@@ -226,7 +215,6 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/02-04_mArjayantAm_mama_pitaraH.md">
 <details open><summary><h4>०२-०७ मार्जयन्ताम् मम ...{Loading}...</h4></summary>
 
-
 मा॒र्जय॑न्तां॒ मम॑ पि॒तरो॑, मा॒र्जय॑न्तां॒ मम॑ पिताम॒हा मा॒र्जय॑न्तां॒ मम॑ प्रपिताम॒हाः ।  
 
 </details>
@@ -234,19 +222,16 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/05-07_mArjayantAm_mama_mAtaraH.md">
 <details open><summary><h4>०२-०७ मार्जयन्ताम् मम ...{Loading}...</h4></summary>
 
-
 मा॒र्जय॑न्तां॒ मम॑ मा॒तरो॑, मा॒र्जय॑न्तां॒ मम॑ पिताम॒ह्यो॑, मा॒र्जय॑न्तां॒ मम॑ प्रपिताम॒ह्यः॑ ।  
 
 </details>
 </div>
-
 
 #### उत्तरैर्दक्षिणापवर्गान् पिण्डान्दत्वा  
 उत्तरैर् दक्षिणापवर्गान् पिण्डान्दत्त्वा  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/08-19_etatte_tatAsau.md">
 <details open><summary><h4>०८-१९ एतत्ते ततासौ ...{Loading}...</h4></summary>
-
 
 ए॒तत्ते॑ तताऽसौ॒+++(←नामनिर्देशः)+++, ये च॒ त्वाम् अनु॑ +++(जीवन्ति)+++।  
 ए॒तत्ते॑ पितामहाऽसौ॒+++(←नामनिर्देशः)+++, ये च॒ त्वाम् अनु॑ +++(जीवन्ति)+++।  
@@ -258,14 +243,12 @@ unicode_script: devanagari
 </details>
 </div>
 
-
 #### उत्तरैरुपस्थानम्  
 पूर्ववदुत्तरैरपो दत्त्वा  
 उत्तरैरुपस्थाय  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/20_-26_ye_cha.md">
 <details open><summary><h4>२० -२६ ये च ...{Loading}...</h4></summary>
-
 
 ये च॒ वो +++(पितरः)+++ ऽत्र॒, ये चा॒स्मास्व् आशँ॑सन्ते॒+++(→प्रार्थयन्ते स्वधाम्)+++  
 याश् च॒ वो ऽत्र॒ याश् चा॒स्मास्व् आशँ॑सन्ते॒,  
@@ -284,7 +267,6 @@ unicode_script: devanagari
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/27_-28_putrAnpautrAnabhi_tarpayantIrApo.md">
 <details open><summary><h4>२७ -२८ पुत्रान्पौत्रानभि तर्पयन्तीरापो ...{Loading}...</h4></summary>
 
-
 पु॒त्रान् पौत्रा॑न् अ॒भि त॒र्पय॑न्ती॒र् आपो॒ मधु॑मतीर् इ॒माः  
 स्व॒धां +++(मातृसहित)+++पि॒तृभ्यो॑ अ॒मृतं॒ दुहा॑ना॒ आपो॑ दे॒वीर् उ॒भयाँ॑स् तर्पयन्तु ।  
 तृप्य॑त॒ तृप्य॑त॒ तृप्य॑त ।  
@@ -302,7 +284,6 @@ unicode_script: devanagari
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/29_prANe_niviShTo-mRtam.md">
 <details open><summary><h4>२९ प्राणे निविष्टोऽमृतम् ...{Loading}...</h4></summary>
-
 
 प्रा॒णे निवि॑ष्टो॒ ऽमृतं॑+++(→अमरणहेतुमन्नं)+++ जुहोमि॒, ब्रह्म॑णि म आ॒त्माऽमृ॑त॒त्वाय॑ ।  
 

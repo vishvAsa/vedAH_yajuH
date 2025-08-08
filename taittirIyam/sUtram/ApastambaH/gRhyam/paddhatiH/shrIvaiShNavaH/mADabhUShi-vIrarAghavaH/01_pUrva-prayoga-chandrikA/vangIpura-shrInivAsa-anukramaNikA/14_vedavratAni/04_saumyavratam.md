@@ -37,14 +37,13 @@ title = "०४ सौम्यव्रतम्"
 
 > या ते धामानि हविषा यजन्ति ता ते विश्वा परिभूरस्तु यज्ञं गयस्फानः प्रतरणस्सुवीरो वीरहा प्रचरा सोम दुर्यान्त्स्वाहा - सोमायेदम् ।  
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/091/22_tvamimA_oShadhIH.md"  newLevelForH1="5" includeTitle="false"> 
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/091/22_tvamimA_oShadhIH.md">
+<details open><summary><h5>२२ त्वमिमा ओषधीः ...{Loading}...</h5></summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-त्वमि॒मा ओष॑धीस्सोम॒ विश्वाः॑ ।  
-त्वम॒पो अ॑जनय॒स्त्वङ्गाः ।   
-त्वमात॑तन्थो॒र्व॑न्तरि॑क्षम् ।  
-त्वञ्ज्योति॑षा॒ वि तमो॑ ववर्थ ॥ 15 ॥
+तुव᳓म् इमा᳓ ओ᳓षधीः सोम वि᳓श्वास्  
+तुव᳓म् अपो᳓ अजनयस् तुवं᳓ गाः᳓  
+त्व᳓म् आ᳓ ततन्थ उरु᳓ अन्त᳓रिक्षं  
+तुवं᳓ ज्यो᳓तिषा वि᳓ त᳓मो ववर्थ
 </details>
 </div>  
 
@@ -64,30 +63,132 @@ title = "०४ सौम्यव्रतम्"
 
 अग्नेः पश्चात् तिष्ठन् 
 
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/07_pravargyAdi/82_pRthivI_samit">
+<details open><summary><h5>८२ पृ॒थि॒वी स॒मित् ...{Loading}...</h5></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/07_pravargyAdi/82_pRthivI_samit"  newLevelForH1="5" includeTitle="false"> 
 पृ॒थि॒वी स॒मित् ।  
-ताम॒ग्निस्समि॑न्धे । साऽग्निँ समि॑न्धे । ताम॒हँ समि॑न्धे । सा मा॒ समि॑द्धा । आयु॑षा॒ तेज॑सा । वर्च॑सा श्रि॒या । यश॑सा ब्रह्मवर्च॒सेन॑ । अ॒न्नाद्ये॑न॒ समि॑न्ताँ॒ स्वाहा॑ । 
-</div>
+</details>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/07_pravargyAdi/83_antarixaM_samit"  newLevelForH1="5" includeTitle="false"> 
+<details><summary>मूलम्</summary>
+
+पृ॒थि॒वी स॒मित् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ताम॒ग्निस्समि॑न्धे ।  
+साऽग्निँ समि॑न्धे ।  
+</details>
+
+<details><summary>मूलम्</summary>
+
+ताम॒ग्निस्समि॑न्धे ।  
+साऽग्निँ समि॑न्धे ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ताम॒हँ समि॑न्धे ।  
+सा मा॒ समि॑द्धा । आयु॑षा॒ तेज॑सा । वर्च॑सा श्रि॒या । यश॑सा ब्रह्मवर्च॒सेन॑ । अ॒न्नाद्ये॑न॒ समि॑न्ताँ॒ स्वाहा॑ । 
+</details>
+
+<details><summary>मूलम्</summary>
+
+ताम॒हँ समि॑न्धे ।  
+सा मा॒ समि॑द्धा । आयु॑षा॒ तेज॑सा । वर्च॑सा श्रि॒या । यश॑सा ब्रह्मवर्च॒सेन॑ । अ॒न्नाद्ये॑न॒ समि॑न्ताँ॒ स्वाहा॑ । 
+</details>
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/07_pravargyAdi/83_antarixaM_samit">
+<details open><summary><h5>८३ अ॒न्तरि॑क्षँ॒ स॒मित् ...{Loading}...</h5></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अ॒न्तरि॑क्षँ॒ स॒मित् । (82)  
-ताव्ँ वा॒युस्समि॑न्धे । सा वा॒युँ समि॑न्धे । ताम॒हँ समि॑न्धे । सा मा॒ समि॑द्धा । आयु॑षा॒ तेज॑सा । वर्च॑सा श्रि॒या । यश॑सा ब्रह्मवर्च॒सेन॑ । अ॒न्नाद्ये॑न॒ समि॑न्ताँ॒ स्वाहा॑ । 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॒न्तरि॑क्षँ॒ स॒मित् । (82)  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ताव्ँ वा॒युस्समि॑न्धे ।  
+सा वा॒युँ समि॑न्धे । 
+</details>
+
+<details><summary>मूलम्</summary>
+
+ताव्ँ वा॒युस्समि॑न्धे ।  
+सा वा॒युँ समि॑न्धे । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ताम॒हँ समि॑न्धे ।  
+सा मा॒ समि॑द्धा । आयु॑षा॒ तेज॑सा । वर्च॑सा श्रि॒या । यश॑सा ब्रह्मवर्च॒सेन॑ । अ॒न्नाद्ये॑न॒ समि॑न्ताँ॒ स्वाहा॑ । 
+</details>
+
+<details><summary>मूलम्</summary>
+
+ताम॒हँ समि॑न्धे ।  
+सा मा॒ समि॑द्धा । आयु॑षा॒ तेज॑सा । वर्च॑सा श्रि॒या । यश॑सा ब्रह्मवर्च॒सेन॑ । अ॒न्नाद्ये॑न॒ समि॑न्ताँ॒ स्वाहा॑ । 
+</details>
+</details>
 </div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/07_pravargyAdi/84_dyaus_samit">
+<details open><summary><h5>८३ अ॒न्तरि॑क्षँ॒ स॒मित् ...{Loading}...</h5></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/07_pravargyAdi/84_dyaus_samit"  newLevelForH1="5" includeTitle="false"> 
+द्यौस्स॒मित् ।  
+</details>
 
-द्यौस्स॒मित् । तामा॑दि॒त्यस्समि॑न्धे । (83)  
-साऽऽदि॒त्यँ समि॑न्धे । ताम॒हँ समि॑न्धे । सा मा॒ समि॑द्धा । आयु॑षा॒ तेज॑सा । वर्च॑सा श्रि॒या । यश॑सा ब्रह्मवर्च॒सेन॑ । अ॒न्नाद्ये॑न॒ समिन्ताँ॒ स्वाहा॑ ।
+<details><summary>मूलम्</summary>
+
+द्यौस्स॒मित् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तामा॑दि॒त्यस्समि॑न्धे । (83)  
+साऽऽदि॒त्यँ समि॑न्धे । 
+</details>
+
+<details><summary>मूलम्</summary>
+
+तामा॑दि॒त्यस्समि॑न्धे । (83)  
+साऽऽदि॒त्यँ समि॑न्धे । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ताम॒हँ समि॑न्धे ।  
+सा मा॒ समि॑द्धा । आयु॑षा॒ तेज॑सा । वर्च॑सा श्रि॒या । यश॑सा ब्रह्मवर्च॒सेन॑ । अ॒न्नाद्ये॑न॒ समिन्ताँ॒ स्वाहा॑ । 
+</details>
+
+<details><summary>मूलम्</summary>
+
+ताम॒हँ समि॑न्धे ।  
+सा मा॒ समि॑द्धा । आयु॑षा॒ तेज॑सा । वर्च॑सा श्रि॒या । यश॑सा ब्रह्मवर्च॒सेन॑ । अ॒न्नाद्ये॑न॒ समिन्ताँ॒ स्वाहा॑ । 
+</details>
+</details>
 </div>
-
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/07_pravargyAdi/84_prAjApatyA_me"  newLevelForH1="5" includeTitle="false"> 
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/07_pravargyAdi/84_prAjApatyA_me">
+<details open><summary><h5>८४ प्रा॒जा॒प॒त्या मे॑ ...{Loading}...</h5></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रा॒जा॒प॒त्या मे॑ स॒मिद॑सि सपत्न॒क्षय॑णी । भ्रा॒तृ॒व्य॒हा मे॑ऽसि॒ स्वाहा॑ ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रा॒जा॒प॒त्या मे॑ स॒मिद॑सि सपत्न॒क्षय॑णी । भ्रा॒तृ॒व्य॒हा मे॑ऽसि॒ स्वाहा॑ ।
+</details>
+</details>
 </div>
 
 इति चतुर्भिः आमूलाग्रम् आज्याभ्यक्ताश्चतस्रः औदुम्बरीः समिधो ऽग्नाव् आदधाति । 
-
 
 [[91]]
 

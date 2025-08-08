@@ -82,6 +82,5 @@ unicode_script: devanagari
 
 तस्यां क्रयशब्दः संस्तुतिमात्रम् । धर्माद्धि संबन्धः ११-२  
 
-
 </details>
 </div>

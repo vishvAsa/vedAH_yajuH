@@ -8,24 +8,27 @@ title = "०२ दीक्षा"
 ६ अनुष्टुप्
 सोमऋषिः
 
-
 ________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 स्रुवेण चतस्रो दीक्षाहुतीर्जुहोति-।
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 आकू॑त्यै प्र॒युजे॒ऽग्नये॒ स्वाहा॑ मे॒धायै॒ मन॑से॒ऽग्नये॒ स्वाहा॑ दी॒क्षायै॒ तप॑से॒ऽग्नये॒ स्वाहा॒ सर॑स्वत्यै पू॒ष्णे॑ऽग्नये॒ स्वाहा
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आकू॑त्यै+++(=सङ्कल्पाय)+++ प्र॒युजे॒ ऽग्नये॒ स्वाहा॑ ।
 </details>
+
 <details><summary>Keith</summary>
 
 To the purpose, to the impulse, to Agni, hail!  
 </details>
+
 <details><summary>मूलम्</summary>
 
 आकू॑त्यै प्र॒युजे॒ऽग्नये॒ स्वाहा॑ ।
@@ -40,18 +43,22 @@ To the purpose, to the impulse, to Agni, hail!
 
 1-4स्रुवेण चतस्रो दीक्षाहुतीर्जुहोति - आकूत्या इति ॥ आकूतिस्सङ्कल्पः ॥ 'तादौ च' इति गतेः प्रकृतिस्वरत्वम् । प्रयुङ्क्ते इति प्रयुक्, कर्मणां प्रयोक्ता । क्विपि कृदुत्तरपदप्रकृतिस्वरत्वम् । य आकूतिर्भूत्वा कर्माणि प्रयुङ्क्ते प्रवर्तयति, तस्मा अग्नये स्वाहा हुतमिदमस्तु ॥ 'आकूत्या हि पुरुषः' इत्यादि ब्राह्मणम् ।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मे॒धायै॒ मन॑से॒ऽग्नये॒ स्वाहा॑ ।
 </details>
+
 <details><summary>Keith</summary>
 
 To wisdom, to thought, to Agni, hail!  
 </details>
+
 <details><summary>मूलम्</summary>
 
 मे॒धायै॒ मन॑से॒ऽग्नये॒ स्वाहा॑ ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 मे॒धायै॑ । मन॑से । अ॒ग्नये॑ । स्वाहा॑ । 
@@ -61,19 +68,23 @@ To wisdom, to thought, to Agni, hail!
 
 मेधा ग्रन्थार्थधारणशक्तिः । मनुत इति मनः । मनोतेरसुन् । यो मेधा भूत्वा सर्वान् दुर्बोधानपि मनुते जानाति, तस्मा अग्नये स्वाहा इति ।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दी॒क्षायै॒ तप॑से॒ऽग्नये॒ स्वाहा॑ ।
 </details>
+
 <details><summary>Keith</summary>
 
 To consecration, to penance, to Agni, hail!  
 
 </details>
+
 <details><summary>मूलम्</summary>
 
 दी॒क्षायै॒ तप॑से॒ऽग्नये॒ स्वाहा॑ ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 दी॒क्षायै॑ । तप॑से । अ॒ग्नये॑ । स्वाहा॑ । 
@@ -83,18 +94,22 @@ To consecration, to penance, to Agni, hail!
 
 दीक्षा मौण्ड्यस्नानादिलक्षणा । तपतीति तपः । तपतेरसुन् । यो दीक्षा भूत्वा तपति दुःखयति तस्मा अग्नये स्वाहा ।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर॑स्वत्यै पू॒ष्णे॑ऽग्नये॒ स्वाहा॑ ।
 </details>
+
 <details><summary>Keith</summary>
 
 To Sarasvati, to Prisan, to Agni, hail!
 </details>
+
 <details><summary>मूलम्</summary>
 
 सर॑स्वत्यै पू॒ष्णे॑ऽग्नये॒ स्वाहा॑ ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 सर॑स्वत्यै । पू॒ष्णे । अ॒ग्नये॑ । स्वाहा॑ ।  
@@ -110,6 +125,7 @@ ________
 
 स्रुचा पञ्चमीं जुहोति।
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 आपो॑ देवीर्बृहतीर्विश्वशम्भुवो॒ द्यावा॑पृथि॒वी उ॒र्व॑न्तरि॑क्षम्बृह॒स्पति॑र्नो ह॒विषा॑ वृधातु॒ स्वाहा
@@ -132,12 +148,19 @@ O ye divine, vast, all-sootbing waters!
 Heaven and earth, wide atmosphere!  
 May Brhaspati rejoice in our oblation,
 </details>
+
 <details><summary>मूलम्</summary>
 
 आपो॑ देवीर्बृहतीर्विश्वशम्भुवो॒ ...  +++(१२ अक्षराणि)+++   
 द्यावा॑पृथि॒वी उ॒र्व॑न्तरि॑क्षम् +++(१० अक्षराणि)+++   +++(असि)+++  ।    
 बृह॒स्पति॑र्नो ह॒विषा॑ वृधातु .... +++(११ अक्षराणि, पादत्रयेषु आहत्य ३३ अक्षराणि भवन्ति । १-२पादयोर्यव्यत्यासः)+++
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+आपः॑ । दे॒वीः॒ । बृ॒ह॒तीः॒ । वि॒श्व॒श॒म्भु॒व॒ इति॑ विश्व-श॒म्भु॒वः॒ । द्यावा॑पृथि॒वी इति॒ द्यावा॑-पृ॒थि॒वी । उ॒रु । अ॒न्तरि॑क्षम् । बृह॒स्पतिः॑ । नः॒ । ह॒विषा॑ । वृ॒धा॒तु॒ ।   
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 5स्रुचा पञ्चमीं जुहोति - आप इति त्रिपदया विराजा । एकादशाक्षरास्त्रयः पादाः । उक्तं च, 'ईशैश्च' इति ॥   
@@ -151,10 +174,12 @@ May Brhaspati rejoice in our oblation,
 
 … स्वाहा॑।
 </details>
+
 <details><summary>मूलम्</summary>
 
 … स्वाहा॑।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 स्वाहा॑ । 
@@ -164,16 +189,14 @@ May Brhaspati rejoice in our oblation,
 
 hail!
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 स्वाहा सुहुतं चेदमस्तु, युष्मभ्यं वर्धयितव्येभ्यो लोकेभ्यः वर्धयित्रे च बृहस्पतये । एवं स्वाहाकाराधिक्यात् यजुरन्ता विराडियं वेदितव्या । एवमृग्यजुषसमुदायत्वात् अस्य यजुरित्यपि व्यपदेष्टुं शक्यते । यथा 'यदेतद्यजुर्न ब्रूयात्' इति । भवति ह्यवयवधर्मेणापि समुदायव्यपदेशः, यथा कृष्टेषु चूर्णमिति । अनवसानत्वाद्वा यजुष्ट्वम् ॥
 
 </details>
 
-
 ________
-
-
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -199,16 +222,24 @@ Of the god who leadeth.
 Every man prayeth for wealth;  
 Let him choose glory that he may prosper,
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 विश्वे॑ दे॒वस्य॑ ने॒तुर्मर्तो॑ऽवृणीत स॒ख्यव्ँविश्वे॑ रा॒य इ॑षुध्यसि द्यु॒म्नव्ँवृ॑णीत पु॒ष्यसे॒ स्वाहा॑
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+विश्वे॑ । दे॒वस्य॑ । ने॒तुः । मर्तः॑ । वृ॒णी॒त॒ । स॒ख्यम् । विश्वे॑ । रा॒यः । इ॒षु॒ध्य॒सि॒ । द्यु॒म्नम् । वृ॒णी॒त॒ । पु॒ष्यसे॑ । 
+</details>
+
 <details><summary>मूलम्</summary>
 
 विश्वे॑ दे॒वस्य॑ ने॒तुर्मर्तो॑ऽवृणीत स॒ख्यम्।  
 विश्वे॑ रा॒य इ॑षुध्यसि द्यु॒म्नव्ँवृ॑णीत पु॒ष्यसे॑।  
 (स्वाहा॑ ।)
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 सप्ताक्षरं प्रथमं पदं, अष्टाक्षराणि त्रीण्यन्यानि ॥  
@@ -239,14 +270,17 @@ Let him choose glory that he may prosper,
 
 स्वाहा॑।
 </details>
+
 <details><summary>Keith</summary>
 
  hail!
 </details>
+
 <details><summary>मूलम्</summary>
 
 स्वाहा॑।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 स्वाहा॑ । 
@@ -257,13 +291,12 @@ Let him choose glory that he may prosper,
 स्वाहा सुहुतमिदमौद्ग्रहणाख्यं हविरस्तु । यज्ञस्योद्ग्रहणहेतुत्वादियमृगुद्ग्रहणी, इदं हविरौद्ग्रहणम् यदनया दीयते । 'प्रजापतिर्यज्ञमसृजत सोस्मात्सृष्टः पराङैत्स प्रयजुरव्लीनात्' इत्यादि ब्राह्मणम् ॥
 </details>
 
-
-
 ________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 कृष्णाजिनस्य शुक्ल-कृष्णे अङ्गुष्ठाङ्गुलिभ्यां सम्मृशति।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋख्-सा॒मयो॒श् शिल्पे॑ स्थः।+++(५)+++  
@@ -271,12 +304,14 @@ ________
 ते वा॒म् आ र॑+++(ल)+++भे ।  
 ते मा॑ पातम् आऽस्य य॒ज्ञस्यो॒दृचः॑+++(=आसमाप्तेः)+++।+++(र४)+++  
 </details>
+
 <details><summary>Keith</summary>
 
 Ye are images of the Rc and the Saman.  
 I grasp you two;  
 do ye two [1] protect me until the completion of this sacrifice.
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ऋ॒क्सा॒मयो॒श्शिल्पे॑ स्थ॒स्ते वा॒मा र॑भे ते मा॑ [3]पा॒त॒माऽस्य य॒ज्ञस्यो॒दृचः
@@ -310,8 +345,6 @@ do ye two [1] protect me until the completion of this sacrifice.
 
 </details>
 
-
-
 ________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -335,10 +368,12 @@ Sharpen his strength, his insight;
 May we mount that safe ship  
 Whereby we' may pass over all our difficulties.
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 इ॒मान्धियँ॒ शिक्ष॑माणस्य देव॒ क्रतु॒न्दक्ष॑व्ँवरुण॒ सँशि॑शाधि॒ ययाऽति॒ विश्वा॑ दुरि॒ता तरे॑म सु॒तर्मा॑ण॒मधि॒ नावँ॑ रुहे॒म
 </details>
+
 <details><summary>मूलम्</summary>
 
 इ॒मान्धियँ॒ शिक्ष॑माणस्य देव॒ ...  
@@ -346,6 +381,12 @@ Whereby we' may pass over all our difficulties.
 ययाऽति॒ विश्वा॑ दुरि॒ता तरे॑म   
 सु॒तर्मा॑ण॒मधि॒ नावँ॑ रुहेम॥
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+इ॒माम् । धिय॑म् । शिक्ष॑माणस्य । दे॒व॒ । क्रतु॑म् । दक्ष॑म् । व॒रु॒ण॒ । समिति॑ । शि॒शा॒धि॒ । यया॑ । अतीति॑ । विश्वा॑ । दु॒रि॒तेति॑ दुः-इ॒ता । तरे॑म । सु॒तर्मा॑ण॒मिति॑ सु-तर्मा॑णम् । अधीति॑ । नाव॑म् । रु॒हे॒म॒ । 
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 8कृष्णाजिनमभिसर्पति - इमामिति त्रिष्टुभा चतुष्पदया ॥ तत्र देवशब्दान्तः प्रथमः । इमामग्निष्टोमविषयां धियं प्रज्ञां शिक्षमाणस्योपाददानस्य पुरुषस्य । शिक्ष विद्योपादाने । 'अदुपदेशात्' इति लसार्वधातुकानुदात्तत्वे धातुस्वरः । दक्षमभिवृद्धिकरम् । दक्ष वृद्धौ शीघ्रार्थे च । प्रवर्तकं वा । क्रतुमग्निष्टोमाख्यमिममस्मदीयं यागं हे देव वरुण संशिशाधि संशितं कुरु, स्वकार्यसमर्थमित्यर्थः । श्यतेर्लोटि 'बहुलं छन्दसि' इति शपश्श्लुः, 'बहुलं छन्दसि' इत्यभ्यासस्येत्वम् 'सेर्ह्यपिच्च' इति 'वा छन्दसि' इत्यपित्त्वप्रतिषेधात् पित्त्वेन ङित्त्वाभावात् 'अङितश्च' इति ईडभावः ।   
@@ -355,16 +396,12 @@ Whereby we' may pass over all our difficulties.
 </details>
 </div>
 
-
-
-
-
-
 ________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 मेखलां पर्यस्यति।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऊर्ग्॑+++(=बलम्)+++ अस्य् आ॒ङ्गि॒र॒सी +ऊर्ण॑-म्रदा+++(=मृद्वी)+++।  
@@ -372,6 +409,7 @@ ________
 पा॒हि मा॑ ।  
 मा मा॑ हिँसीः ।+++(र४)+++
 </details>
+
 <details><summary>Keith</summary>
 
 Thou art the strength of the Angirases, soft as wool;  
@@ -379,10 +417,12 @@ grant me strength,
 guard me,  
 harm me not.
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ऊर्ग॑स्याङ्गिर॒स्यूर्ण॑म्रदा॒ ऊर्ज॑म्मे यच्छ पा॒हि मा॒ मा मा॑ हिँसीः
 </details>
+
 <details><summary>मूलम्</summary>
 
 ऊर्ग॑स्या॒ङ्गि॒र॒सी ...  
@@ -398,7 +438,6 @@ harm me not.
 पा॒हि । मा॒ । मा । मा॒ । हिँ॒सीः॒ । 
 </details>
 
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 9मेखलां पर्यस्यति - ऊर्गसीति ॥ ऊर्जयतेः सम्पदादिलक्षणः क्विप् । बलं रसो वाभिधीयते । अङ्गिरसामियमाङ्गिरसीति, यामङ्गिरसो व्यभजन्त ॥  
@@ -409,27 +448,29 @@ harm me not.
 पाहि च माम् । तिङः परत्वान्न निहन्यते । मा च मा हिंसीः ॥
 </details>
 
-
-
 ________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 वाससा यजमानं प्रोर्णोति।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विष्णो॒श्+++(=यज्ञस्य)+++ शर्मा॑सि॒, शर्म॒ यज॑मानस्य +++(असि)+++।  
 शर्म॑ मे यच्छ।  
 </details>
+
 <details><summary>Keith</summary>
 
 Thou art the protection of Visnu, the protection of the sacrificer,  
 grant me protection.
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 विष्णो॒श्शर्मा॑सि॒ शर्म॒ यज॑मानस्य॒ शर्म॑ मे यच्छ
 </details>
+
 <details><summary>मूलम्</summary>
 
 विष्णो॒श्शर्मा॑सि ।  
@@ -449,30 +490,32 @@ grant me protection.
 10वाससा यजमानं प्रोर्णोति - विष्णोरिति ॥ विष्णोरपि शर्म सुखमसि सुखहेतुरसि । यज्ञो वै विष्णुः । किञ्च - यजमानस्य शर्मासि । लसार्वधातुकानुदात्तत्वे धातुस्वरः । ईदृशस्त्वं मह्यमपि शर्म यच्छ देहि ॥
 </details>
 
-
-
-
 ________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 वसन-च्छिद्रेषु यजमानं वाचयति।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(हे वासः!)+++ नक्ष॑त्राणाम् मा ऽतीका॒शात् +++(छिद्रात्)+++ पा॒हि  ।+++(र४)+++
 </details>
+
 <details><summary>Keith</summary>
 
 Guard me from the lustre of the Naksatras.
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 नक्ष॑त्राणाम्माऽतीका॒शात् पा॒हि
 </details>
+
 <details><summary>मूलम्</summary>
 
 नक्ष॑त्राणाम्माऽतीका॒शात्पा॑हि  ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 नक्ष॑त्राणाम् । मा॒ । अ॒ती॒का॒शात् । पा॒हि॒ । 
@@ -483,26 +526,29 @@ Guard me from the lustre of the Naksatras.
 11वसनच्छिद्रेषु यजमानं वाचयति - नक्षत्राणामिति ॥ अतीकाशश्छिद्रं, अतीत्य काशत इत्यतीकाशः । पचाद्यच्, घञ् वाधिकरणे, उभयत्रापि थाथादिस्वरेणान्तोदात्तत्वम्, 'इकः काशे' इति दीर्घत्वम् । नक्षत्राणां सम्बन्धी योतीकाशः नक्षत्रदेवत्यत्वान्नक्षत्राणामतीकाश इति । तस्मान्मां पाहि । हे वासः अतीकाशनिमित्तमनाच्छादनं दोषत्वेन न मन्तव्यम् । नक्षत्राण्येव हि तं दोषं परिहरिष्यन्तीति भावः ॥
 </details>
 
-
 ________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 कृष्ण-विषाणे यजमानाय प्रयच्छति।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन्द्र॑स्य॒ योनि॑र् असि ।  
 +++( 'यज्ञो दक्षिणामभ्यध्यायत्तां समभवत्' इत्यारभ्य 'सा कृष्णविषाणाऽभवत्' इत्यन्ते ब्राह्मणे स्पष्टमिन्द्रयोनित्वमस्याः ॥)+++  
 मा मा॑ हिँसीः ।
 </details>
+
 <details><summary>Keith</summary>
 
 Thou art the birthplace of Indra [2]; harm me not.
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 इन्द्र॑स्य॒ योनि॑रसि [4]मा मा॑ हिँसीःᳶ
 </details>
+
 <details><summary>मूलम्</summary>
 
 इन्द्र॑स्य॒ योनि॑रसि ।  
@@ -521,20 +567,22 @@ Thou art the birthplace of Indra [2]; harm me not.
 12कृष्णविषाणे यजमानाय प्रयच्छति - इन्द्रस्येति ॥ इन्द्रस्यापि योनिः कारणमसि त्वम् । ईदृशी त्वं मा मा हिंसीः । त्वां यजमानाय प्रयच्छामीति भावः । 'यज्ञो दक्षिणामभ्यध्यायत्तां समभवत्' इत्यारभ्य 'सा कृष्णविषाणाऽभवत्' इत्यन्ते ब्राह्मणे स्पष्टमिन्द्रयोनित्वमस्याः ॥
 </details>
 
-
 ________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 तयान्तर्वेदि लोष्टम् उद्धन्ति।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(हे पृथिवि!)+++ कृ॒ष्यै त्वा॑ सुस॒स्यायै॑ +++(उद्धरामि)+++।+++(र४)+++
 </details>
+
 <details><summary>Keith</summary>
 
 For ploughing thee, for good crops,
 </details>
+
 <details><summary>मूलम्</summary>
 
 कृ॒ष्यै त्वा॑ सुस॒स्यायै॑ ।
@@ -557,41 +605,61 @@ ________
 </details>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/02_dIxA/supippalAH.md">
 <details open><summary><h5>सुपिप्पलाः ...{Loading}...</h5></summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+9चषालं प्रतिमुञ्चाति - सुपिप्पलाभ्य इति ॥
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सु॒पि॒प्प॒लाभ्य॑स्+++(=सुफलेभ्यः)+++ त्वौष॑धीभ्यः +++(कण्डूये)+++।+++(र४)+++
 </details>
+
 <details><summary>Keith</summary>
 
 For the plants with good berries thee!
 </details>
+
 <details><summary>मूलम्</summary>
 
 सु॒पि॒प्प॒लाभ्य॑स्त्वौष॑धीभ्यः ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+<details><summary>पद-पाठः</summary>
+
+सु॒पि॒प्प॒लाभ्य॒ इति॑ सु-पि॒प्प॒लाभ्यः॑ । त्वा॒ । ओष॑धीभ्य॒ इत्योष॑धि-भ्यः॒ ।  
+</details>
+</details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 यास्सुपिप्पलाः शोभनफलाः शोभनकरणिका ओषधयः, तदर्थं त्वां कण्डूये इति शेषः । पूर्ववत्स्वरः । ओषधिशब्दे तु दासीभारादित्वात् पूर्वपदप्रकृतिस्वरत्वम् । 'ओषधेश्च विभक्तावप्रथमायाम्' इति दीर्घः । 'यद्धस्तेन कण्डूयत' इत्यादि ब्राह्मणम् ॥
 </details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+9चषालं प्रतिमुञ्चाति - सुपिप्पलाभ्य इति ॥ व्याख्यातमेव । शोभनफलानामोषधीनामर्थाय त्वां चषालं यूपस्याग्रे प्रतिमुञ्चामीति शेषः । 'तस्माच्छीर्षत ओषधयः फलं गृह्णन्ति' `इति ब्राह्मणम् ॥
+</details>
 </details>
 </div>  
-
 
 ________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 औदुम्बरं दण्डं यजमानाय प्रयच्छति।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(हे दण्ड!)+++ सु॒+उ॒प॒स्था दे॒वो वन॒स्पति॑र् ऊ॒र्ध्वो +++(त्वम्)+++ मा॑ पा॒ह्य् ओदृचः+++(=आसमाप्तेः)+++।
 </details>
+
 <details><summary>Keith</summary>
 
 Thou art of easy access, divine tree. Being erect, guard me until the completion (of the sacrifice).
 </details>
+
 <details><summary>मूलम्</summary>
 
 सू॒प॒स्था दे॒वो वन॒स्पति॑रू॒र्ध्वो मा॑ पा॒ह्योदृचः ।
@@ -616,6 +684,7 @@ _____
 उ॒रोर् अ॒न्तरि॑क्षात् [आर॑भे ] स्वाहा॑ । +++('अन्तरिक्षे हि यज्ञः' इति च ब्राह्मणम् ।)+++  
 य॒ज्ञव्ँ वाता॒द् आ र॑भे ॥
 </details>
+
 <details><summary>Keith</summary>
 
 Hail!  
@@ -624,6 +693,7 @@ from heaven and earth, hail!
 from the broad atmosphere, hail!  
 from the wind the sacrifice I grasp.
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 स्वाहा॑ य॒ज्ञम्मन॑सा॒ स्वाहा॒ द्यावा॑पृथि॒वीभ्याँ॒ स्वाहो॒रोर॒न्तरि॑क्षा॒त्स्वाहा॑ य॒ज्ञव्ँ वाता॒दा र॑भे ॥ [5]

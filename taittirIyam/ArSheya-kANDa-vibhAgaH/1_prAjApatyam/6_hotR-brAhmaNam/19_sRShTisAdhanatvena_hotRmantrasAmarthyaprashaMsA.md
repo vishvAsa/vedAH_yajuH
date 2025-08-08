@@ -3,8 +3,8 @@ title = "१९ सृष्टिसाधनत्वेन होतृमन
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/3_hotR-brAhmaNAdi/08_sRShTisAdhanatvena_hotRmantrasAmarthyaprashaMsA"  newLevelForH1="1" includeTitle="true">
-
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/3_hotR-brAhmaNAdi/08_sRShTisAdhanatvena_hotRmantrasAmarthyaprashaMsA">
+<details open><summary><h1>०८ सृष्टिसाधनत्वेन होतृमन्त्रसामर्थ्यप्रशंसा ...{Loading}...</h1></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र॒जाप॑तिरकामयत॒ प्र जा॑ये॒येति॑ ।
@@ -38,7 +38,6 @@ unicode_script = "devanagari"
 
 हरितश्श्यावश्च श्वेतसंसर्गवर्णः नीलपाण्डुः, हरितसुवर्ण इति केचित् । 'अन्तर्वत्पतिवतोः' निपातान्मतुप् ।
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -138,7 +137,6 @@ unicode_script = "devanagari"
 तेनासुना असुरानसृजत । तेन असुना सृष्टत्वात् असुमन्तः प्राणवन्तोऽसुरा अभूवन् ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 य ए॒वमसु॑राणामसुर॒त्वव्ँ वेद॑ ।
@@ -207,7 +205,6 @@ unicode_script = "devanagari"
 पितृभावमनुसन्दधता सृष्टत्वात् पितरः ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 य ए॒वम्पि॑तृ॒णाम्पि॑तृ॒त्वव्ँ वेद॑ ।  
@@ -275,7 +272,6 @@ unicode_script = "devanagari"
 
 तस्मात् तदानीं जाता मनुष्याः मन्यमानस्यापत्यत्वात् मनुष्याः । 'मनोर्जातौ' इति यत्, षुक्च ।
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -347,7 +343,6 @@ unicode_script = "devanagari"
 तत्रान्तरे देवानसृजत । तस्माद्दीप्तिमद्देहसम्बन्धाद्देवाः ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 य ए॒वन्दे॒वाना॑न्देव॒त्वव्ँ वेद॑ ।
@@ -368,7 +363,6 @@ unicode_script = "devanagari"
 
 एवं वेदितुः सर्वो दिवसो देवत्रैव भवति देवन एव भवति । 'देवमनुष्य' इत्यादिना त्राप्रत्ययः ।
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -409,5 +403,6 @@ unicode_script = "devanagari"
 एवं वेदिता तेषु सर्वेष्वपि तत्तदम्भस्सदृशो विख्यातो भवति, व्याप्तिमांश्च भवति, नभ इव ॥
 ईति तैत्तिरीयब्राह्मणे द्वितीयाष्टके तृतीयप्रपाठके अष्टमोऽनुवाकः ॥  
 
+</details>
 </details>
 </div>

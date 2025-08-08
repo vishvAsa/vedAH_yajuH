@@ -7,10 +7,7 @@ author: मु॰ अ॰ वै॰ अनन्तरामशास्त्र
 publisher: वैदिकवर्धिनीमुद्रणालयः (kumbakonam)   
 script: grantha
 
-
-
 ## विषयानुक्रमणिका
-
 
 ॐ
 
@@ -84,7 +81,6 @@ script: grantha
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/mantrahInam_hutAshana.md">
 <details open><summary><h5>मन्त्रहीनं - हुताशन ...{Loading}...</h5></summary>
 
-
 (अग्नये नमः)
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -94,6 +90,7 @@ script: grantha
 यद्धुतं तु मया देव  
 परिपूर्णं तदस्तु ते ॥  
 </details>
+
 <details><summary>मूलम्</summary>
 
 मन्त्रहीनं क्रियाहीनं  
@@ -112,6 +109,7 @@ script: grantha
 यानि तेषाम् अशेषाणां  
 कृष्णानुस्मरणं परम् ॥
 </details>
+
 <details><summary>मूलम्</summary>
 
 प्रायश्चित्तान्यशेषाणि  
@@ -205,6 +203,7 @@ script: grantha
 ऋ॒तात् स॒त्यम् उपै॑मि॥  
 मयि॑ श्र॒द्धा। 
 </details>
+
 <details><summary>मूलम्</summary>
 
 विद्यु॑द् असि॒,  
@@ -214,7 +213,6 @@ script: grantha
 </details>
 </details>
 </div>  
-
 
 (अप उपस्पृश्य) (१) हस्तौ पादौ च आमणिबन्धनात् प्रक्षाल्य।
 त्रिरपः पीत्वा। द्विः परिमृज्य। सकृदुपस्पृश्य।
@@ -279,6 +277,7 @@ script: grantha
 ऋ॒तात् स॒त्यम् उपा॑गाम्।  
 अ॒प्सु श्र॒द्धा। 
 </details>
+
 <details><summary>मूलम्</summary>
 
 वृष्टि॑रसि॒,  वृश्च॑ मे पा॒प्मा॑नम्, ऋ॒तात् स॒त्यम् उपा॑गाम्।  
@@ -286,7 +285,6 @@ script: grantha
 </details>
 </details>
 </div>  
-
 
 (इति अप उपस्पृश्य आचामेत्)॥
 
@@ -552,7 +550,6 @@ script: grantha
 ## काण्डऋषितर्पणम्
 
 अथ सर्वे नद्यां काण्डऋषितर्पणं कुर्युः॥
-
 
 शुक्लाम्बरधरं + शान्तये॥
 
@@ -1179,7 +1176,6 @@ script: grantha
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/mantrahInam_hutAshana.md">
 <details open><summary><h5>मन्त्रहीनं - हुताशन ...{Loading}...</h5></summary>
 
-
 (अग्नये नमः)
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1189,6 +1185,7 @@ script: grantha
 यद्धुतं तु मया देव  
 परिपूर्णं तदस्तु ते ॥  
 </details>
+
 <details><summary>मूलम्</summary>
 
 मन्त्रहीनं क्रियाहीनं  
@@ -1207,6 +1204,7 @@ script: grantha
 यानि तेषाम् अशेषाणां  
 कृष्णानुस्मरणं परम् ॥
 </details>
+
 <details><summary>मूलम्</summary>
 
 प्रायश्चित्तान्यशेषाणि  

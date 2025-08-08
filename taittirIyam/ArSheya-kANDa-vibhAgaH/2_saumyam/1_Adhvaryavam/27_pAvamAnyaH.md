@@ -3,15 +3,14 @@ title = "२७ पावमान्यः"
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/1/4_somAdi/08_pAvamAnyaH"  newLevelForH1="1" includeTitle="true">
-
-
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/1/4_somAdi/08_pAvamAnyaH">
+<details open><summary><h1>०८ पावमानीमन्त्राः ...{Loading}...</h1></summary>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 'अनारभ्याधीतानां प्रकृतिगामित्वम्'इति न्यायात् दर्शपूर्णमासयोश् चाविनियोगात् ज्योतिष्ठेम एकाहानां प्रकृतौ एकविंशत्या दर्भपुञ्जीलैः पाव्यमानो यजमानो जपति। अन्यत्र च स्मार्ते स्नानादौ मार्जनार्थोऽयमनुवाकः । सोमः काण्डऋषिः ॥
 </details>
-<div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/01_pavamAnas_suvarjanaH.md">
-<details><summary><h4>01 पवमानस् सुवर्जनः ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" open unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/01_pavamAnas_suvarjanaH.md">
+<details><summary><h5>01 पवमानस् सुवर्जनः ...{Loading}...</h5></summary>
 
 पव॑मान॒स् सुव॒र्-जनः॑ ।  
 प॒वित्रे॑ण॒ +++(नाना-विषयेषु)+++ विच॑र्षणिः ।  
@@ -19,16 +18,16 @@ unicode_script = "devanagari"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/01_pavamAnas_suvarjanaH.md">
-<details><summary><h4>01 पवमानस् सुवर्जनः ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/01_pavamAnas_suvarjanaH.md">
+<details><summary><h5>01 पवमानस् सुवर्जनः ...{Loading}...</h5></summary>
 <details><summary>मूलम्</summary>
 
 पव॑मान॒स् सुव॒र्जनः॑ ।  
 प॒वित्रे॑ण॒ विच॑र्षणिः ।  
 यᳶ पोता॒ स पु॑नातु मा ।  
 
-
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 1 प्रथमा - पवमान इति गायत्री ॥ **पवमानः** शोधनकुशलः **सुवर्जनः** स्वर्गवास्येव यो जनः - समस्तमेव स्वरिति स्वर्गवासी जन उच्यते । [स्वर्गवासिनमभिघत्ते] 'मञ्चाः क्रोशन्ति'इतिवत् ।   
@@ -36,8 +35,8 @@ unicode_script = "devanagari"
 </details>
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/02_punantu_mA.md">
-<details><summary><h4>02 पुनन्तु मा ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" open unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/02_punantu_mA.md">
+<details><summary><h5>02 पुनन्तु मा ...{Loading}...</h5></summary>
 
 **पु॒नन्तु॑** मा **देवज॒नाः** ।  
 पु॒नन्तु॒ **मन॑वो** धि॒या ।  
@@ -45,16 +44,16 @@ unicode_script = "devanagari"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/02_punantu_mA.md">
-<details><summary><h4>02 पुनन्तु मा ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/02_punantu_mA.md">
+<details><summary><h5>02 पुनन्तु मा ...{Loading}...</h5></summary>
 <details><summary>मूलम्</summary>
 
 पु॒नन्तु॑ मा देवज॒नाः ।  
 पु॒नन्तु॒ मन॑वो धि॒या ।  
 पु॒नन्तु॒ विश्व॑ आ॒यवः॑ ।  
 
-
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 2 द्वितीया - गायत्री ॥ **पुनन्तु मा देवजनाः** देवा एव ये जनाः पुनन्तु च  
@@ -63,8 +62,8 @@ unicode_script = "devanagari"
 </details>
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/03_jAtavedapH_pavitravat.md">
-<details><summary><h4>03 जातवेदᳶ पवित्रवत् ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" open unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/03_jAtavedapH_pavitravat.md">
+<details><summary><h5>03 जातवेदᳶ पवित्रवत् ...{Loading}...</h5></summary>
 
 जात॑वेदᳶ प॒वित्र॑वत् ।  
 प॒वित्रे॑ण **पुनाहि**+++(=पुनीहि)+++ मा ।  
@@ -73,8 +72,8 @@ unicode_script = "devanagari"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/03_jAtavedapH_pavitravat.md">
-<details><summary><h4>03 जातवेदᳶ पवित्रवत् ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/03_jAtavedapH_pavitravat.md">
+<details><summary><h5>03 जातवेदᳶ पवित्रवत् ...{Loading}...</h5></summary>
 <details><summary>मूलम्</summary>
 
 जात॑वेदᳶ प॒वित्र॑वत् ।  
@@ -82,6 +81,7 @@ unicode_script = "devanagari"
 शु॒क्रेण॑ देव॒ दीद्य॑त् ।  
 अग्ने॒ क्रत्वा॒ क्रतूँ॒रनु॑ ॥46॥
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 3 तृतीया - अनुष्टुप् ॥ हे **जातवेदः**! जातानां वेदितः! **पवित्रवत्** पवित्रार्हं यथा पवित्राणि शोधयितुम् अर्हन्ति । 'तदर्हम्'इति वतिः । तद्-अनुरूपं **मां पुनाहि** पुनीहि । ईत्वाभावश्छान्दसः ।  **पवित्रेण** दर्शनादिना पुनीहि।  
@@ -90,8 +90,8 @@ unicode_script = "devanagari"
 </details>
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/04_yat_te.md">
-<details><summary><h4>04 यत् ते ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" open unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/04_yat_te.md">
+<details><summary><h5>04 यत् ते ...{Loading}...</h5></summary>
 
 यत् ते॑ **प॒वित्र॑म् अ॒र्चिषि॑** ।  
 अग्ने॒ वित॑तम् अन्त॒रा ।  
@@ -99,16 +99,16 @@ unicode_script = "devanagari"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/04_yat_te.md">
-<details><summary><h4>04 यत् ते ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/04_yat_te.md">
+<details><summary><h5>04 यत् ते ...{Loading}...</h5></summary>
 <details><summary>मूलम्</summary>
 
 यत् ते॑ प॒वित्र॑म् अ॒र्चिषि॑ ।  
 अग्ने॒ वित॑तम् अन्त॒रा ।  
 ब्रह्म॒ तेन॑ पुनीमहे ।  
 
-
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 4 अथ चतुर्थी - यत्त इति गायत्री ॥ हे **अग्ने**! **यत् ते** तव **अर्चिषि अन्तरा** ज्वालासु मध्ये **विततं ब्रह्म** परिबृढं पवित्ररूपं **तेन** आत्मानं **पुनीमहे** ।  
@@ -116,8 +116,8 @@ unicode_script = "devanagari"
 </details>
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/05_ubhAbhyAn_deva.md">
-<details><summary><h4>05 उभाभ्यान् देव ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" open unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/05_ubhAbhyAn_deva.md">
+<details><summary><h5>05 उभाभ्यान् देव ...{Loading}...</h5></summary>
 
 उ॒भाभ्या॑न् देव **सवितः** ।  
 प॒वित्रे॑ण स॒वेन॑ च ।  
@@ -125,35 +125,34 @@ unicode_script = "devanagari"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/05_ubhAbhyAn_deva.md">
-<details><summary><h4>05 उभाभ्यान् देव ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/05_ubhAbhyAn_deva.md">
+<details><summary><h5>05 उभाभ्यान् देव ...{Loading}...</h5></summary>
 <details><summary>मूलम्</summary>
 
 उ॒भाभ्या॑न् देव सवितः ।  
 प॒वित्रे॑ण स॒वेन॑ च ।  
 इ॒दम् ब्रह्म॑ पुनीमहे ।  
 
-
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 5 अथ पञ्चमी - उभाभ्यामिति गायत्री ॥ हे देव! सवितः! सर्वस्य प्रेरक! यश्च सवः अनुज्ञा प्रेरणं वा ताभ्यां इदं ब्रह्म पुनीमहे । गतम् ॥
 </details>
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/06_vaishvadevI_punatI.md">
-<details><summary><h4>06 वैश्वदेवी पुनती ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" open unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/06_vaishvadevI_punatI.md">
+<details><summary><h5>06 वैश्वदेवी पुनती ...{Loading}...</h5></summary>
 
 वै॒श्व॒दे॒वी **पु॑न॒ती** दे॒व्य् **आगा॑त्**+++(=आगच्छतु)+++ ।  
 यस्यै॑ ब॒ह्वीस् त॒नुवो॑ वी॒त-पृ॑ष्ठाः+++(=कान्त-स्तुतयः)+++ ।  
 तया॒ **मद॑न्तस्** सध॒-माद्ये॑षु +++(=सह माद्यन्ति येषु सवनेषु)+++ ।  
 व॒यँ **स्या॑म॒** पत॑यो रयी॒णाम् ॥47॥  
 
-
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/06_vaishvadevI_punatI.md">
-<details><summary><h4>06 वैश्वदेवी पुनती ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/06_vaishvadevI_punatI.md">
+<details><summary><h5>06 वैश्वदेवी पुनती ...{Loading}...</h5></summary>
 <details><summary>मूलम्</summary>
 
 वै॒श्व॒दे॒वी पु॑न॒ती दे॒व्यागा॑त् ।  
@@ -161,8 +160,8 @@ unicode_script = "devanagari"
 तया॒ मद॑न्तस् सध॒माद्ये॑षु ।  
 व॒यँ स्या॑म॒ पत॑यो रयी॒णाम् ॥47॥  
 
-
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 6 अथ षष्ठी - वैश्वदेवीति त्रिष्टुप् ॥  
@@ -173,19 +172,18 @@ unicode_script = "devanagari"
 </details>
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/07_vaishvAnaro_rashmibhir.md">
-<details><summary><h4>07 वैश्वानरो रश्मिभिर् ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" open unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/07_vaishvAnaro_rashmibhir.md">
+<details><summary><h5>07 वैश्वानरो रश्मिभिर् ...{Loading}...</h5></summary>
 
 **वै॒श्वा॒न॒रो** र॒श्मिभि॑र् मा **पुनातु** ।   
 **वात॑ᳶ** प्रा॒णेने॑षि॒रो+++(←इष गतौ)+++ म॑यो॒भूः ।  
 **द्यावा॑पृथि॒वी** पय॑सा॒ पयो॑भिः +++(इति क्रमशः)+++ ।   
 ऋ॒ताव॑री+++(=ऋतवत्यौ)+++ य॒ज्ञिये॑ मा **पुनीताम्** ।  
 
-
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/07_vaishvAnaro_rashmibhir.md">
-<details><summary><h4>07 वैश्वानरो रश्मिभिर् ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/07_vaishvAnaro_rashmibhir.md">
+<details><summary><h5>07 वैश्वानरो रश्मिभिर् ...{Loading}...</h5></summary>
 <details><summary>मूलम्</summary>
 
 वै॒श्वा॒न॒रो र॒श्मिभि॑र् मा पुनातु ।   
@@ -193,8 +191,8 @@ unicode_script = "devanagari"
 द्यावा॑पृथि॒वी पय॑सा॒ पयो॑भिः ।   
 ऋ॒ताव॑री य॒ज्ञिये॑ मा पुनीताम् ।  
 
-
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 7 अथ सप्तमी - वैश्वानर इति त्रिष्टुप् ॥ **वैश्वानरः** विश्वेषां नराणां स्वामित्वेन सम्बन्धी अग्निरादित्यो वा । **मां** **रश्मिभिः** पवित्रैः **पुनातु** ।  
@@ -205,8 +203,8 @@ unicode_script = "devanagari"
 </details>
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/08_bRhadbhis_savitas.md">
-<details><summary><h4>08 बृहद्भिस् सवितस् ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" open unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/08_bRhadbhis_savitas.md">
+<details><summary><h5>08 बृहद्भिस् सवितस् ...{Loading}...</h5></summary>
 
 बृ॒हद्भि॑स् सवित॒स् तृभिः॑+++(=त्रिभिः [लोकगणनया]/ तृप्यतेः करणे क्विप्)+++ ।   
 वर्षि॑ष्ठैर्+++(=प्रवृद्ध-धर्मैः)+++ देव॒ मन्म॑भिः+++(=मननीयैः)+++ ।  
@@ -214,16 +212,16 @@ unicode_script = "devanagari"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/08_bRhadbhis_savitas.md">
-<details><summary><h4>08 बृहद्भिस् सवितस् ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/08_bRhadbhis_savitas.md">
+<details><summary><h5>08 बृहद्भिस् सवितस् ...{Loading}...</h5></summary>
 <details><summary>मूलम्</summary>
 
 बृ॒हद्भि॑स् सवित॒स् तृभिः॑ ।   
 वर्षि॑ष्ठैर् देव॒ मन्म॑भिः ।  
 अग्ने॒ दक्षै॑ᳶ पुनाहि मा ।  
 
-
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 8 अथाष्टमी - बृहद्भिरिति गायत्री ॥ हे **सवितः**! **बृहद्भिः** महद्भिः **तृभिः** त्रिषु लोकेषु त्रिधा स्थितैः - छान्दसं प्रसारणम् । यद्वा - सर्वस्य प्रीणनैः - तृप्यतेः करणे क्विप्, छान्दसोऽन्त्यलोपः आद्युदात्तत्वं च । त्रिशब्दपक्षेऽपि उपोत्तमत्वाभावत् 'झल्युपोत्तमम्'इति न सिद्ध्यति ।  
@@ -231,8 +229,8 @@ unicode_script = "devanagari"
 </details>
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/09_yena_devA.md">
-<details><summary><h4>09 येन देवा ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" open unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/09_yena_devA.md">
+<details><summary><h5>09 येन देवा ...{Loading}...</h5></summary>
 
 येन॑ दे॒वा **अपु॑नत** ।   
 येनापो॑ दि॒व्यङ् **कशः॑**+++(←कशेर् गतिकर्मणो ऽसुन्)+++ ।  
@@ -241,8 +239,8 @@ unicode_script = "devanagari"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/09_yena_devA.md">
-<details><summary><h4>09 येन देवा ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/09_yena_devA.md">
+<details><summary><h5>09 येन देवा ...{Loading}...</h5></summary>
 <details><summary>मूलम्</summary>
 
 येन॑ दे॒वा अपु॑नत ।   
@@ -250,8 +248,8 @@ unicode_script = "devanagari"
 तेन॑ दि॒व्येन॒ ब्रह्म॑णा ॥48॥  
 इ॒दम् ब्रह्म॑ पुनीमहे ।  
 
-
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 9 अथ नवमी - येन देवा इत्यनुष्टुप् ॥  
@@ -259,8 +257,8 @@ unicode_script = "devanagari"
 </details>
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/10_yapH_pAvamAnIr.md">
-<details><summary><h4>10 यᳶ पावमानीर् ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" open unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/10_yapH_pAvamAnIr.md">
+<details><summary><h5>10 यᳶ पावमानीर् ...{Loading}...</h5></summary>
 
 यᳶ पा॑वमा॒नीर् **अ॒ध्येति॑** ।  
 **ऋषि॑भि॒स् सम्भृ॑तँ॒** रस॑म् ।  
@@ -269,8 +267,8 @@ unicode_script = "devanagari"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/10_yapH_pAvamAnIr.md">
-<details><summary><h4>10 यᳶ पावमानीर् ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/10_yapH_pAvamAnIr.md">
+<details><summary><h5>10 यᳶ पावमानीर् ...{Loading}...</h5></summary>
 <details><summary>मूलम्</summary>
 
 यᳶ पा॑वमा॒नीर् अ॒ध्येति॑ ।  
@@ -278,8 +276,8 @@ unicode_script = "devanagari"
 सर्वँ॒ स पू॒तम॑श्ञाति ।   
 स्व॒दि॒तम् मा॑त॒रिश्व॑ना ।   
 
-
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 10 अथ दशमी - यः पावमानीरित्यनुष्टुप् ॥ 
@@ -291,8 +289,8 @@ unicode_script = "devanagari"
 </details>
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/11_pAvamAnIr_yo.md">
-<details><summary><h4>11 पावमानीर् यो ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" open unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/11_pAvamAnIr_yo.md">
+<details><summary><h5>11 पावमानीर् यो ...{Loading}...</h5></summary>
 
 पा॒व॒मा॒नीर् यो **अ॒ध्येति॑** ।   
 ऋषि॑भि॒स् **सम्भृ॑तँ॒** रस॑म् ।  
@@ -301,8 +299,8 @@ unicode_script = "devanagari"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/11_pAvamAnIr_yo.md">
-<details><summary><h4>11 पावमानीर् यो ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/11_pAvamAnIr_yo.md">
+<details><summary><h5>11 पावमानीर् यो ...{Loading}...</h5></summary>
 <details><summary>मूलम्</summary>
 
 पा॒व॒मा॒नीर् यो अ॒ध्येति॑ ।   
@@ -310,8 +308,8 @@ unicode_script = "devanagari"
 तस्मै॒ सर॑स्वती दुहे ।   
 क्षी॒रँ स॒र्पिर् मधू॑द॒कम् ।
 
-
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 11 अथ एकादशी - पावमानीरित्यनुष्टुप् ॥ अर्धर्चो गतः ।  
@@ -319,8 +317,8 @@ unicode_script = "devanagari"
 </details>
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/12_pAvamAnIs_svastyayanIH.md">
-<details><summary><h4>12 पावमानीस् स्वस्त्ययनीः ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" open unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/12_pAvamAnIs_svastyayanIH.md">
+<details><summary><h5>12 पावमानीस् स्वस्त्ययनीः ...{Loading}...</h5></summary>
 
 पा॒व॒मा॒नीस् **स्व॒स्त्य्-अय॑नीः** ॥49॥   
 सु॒-दुघा॒ हि पय॑स्वतीः ।  
@@ -329,8 +327,8 @@ unicode_script = "devanagari"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/12_pAvamAnIs_svastyayanIH.md">
-<details><summary><h4>12 पावमानीस् स्वस्त्ययनीः ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/12_pAvamAnIs_svastyayanIH.md">
+<details><summary><h5>12 पावमानीस् स्वस्त्ययनीः ...{Loading}...</h5></summary>
 <details><summary>मूलम्</summary>
 
 पा॒व॒मा॒नीस् स्व॒स्त्यय॑नीः ॥49॥  
@@ -338,8 +336,8 @@ unicode_script = "devanagari"
 ऋषि॑भि॒स् सम्भृ॑तो॒ रसः॑ ।
 ब्रा॒ह्म॒णेष्व् अ॒मृतँ॑ हि॒तम् ।  
 
-
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 12 अथ द्वादशी - पावमानीर् इत्यनुष्टुप् ॥  
@@ -351,8 +349,8 @@ unicode_script = "devanagari"
 </details>
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/13_pAvamAnIr_dishantu.md">
-<details><summary><h4>13 पावमानीर् दिशन्तु ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" open unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/13_pAvamAnIr_dishantu.md">
+<details><summary><h5>13 पावमानीर् दिशन्तु ...{Loading}...</h5></summary>
 
 पा॒व॒मा॒नीर् **दि॑शन्तु** नः ।  
 इ॒मल्ँ लो॒कम् अथो॑ अ॒मुम् ।  
@@ -361,8 +359,8 @@ unicode_script = "devanagari"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/13_pAvamAnIr_dishantu.md">
-<details><summary><h4>13 पावमानीर् दिशन्तु ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/13_pAvamAnIr_dishantu.md">
+<details><summary><h5>13 पावमानीर् दिशन्तु ...{Loading}...</h5></summary>
 <details><summary>मूलम्</summary>
 
 पा॒व॒मा॒नीर् दि॑शन्तु नः ।  
@@ -370,17 +368,16 @@ unicode_script = "devanagari"
 कामा॒न्त् सम॑र्धयन्तु नः ।  
 दे॒वीर् दे॒वैस् स॒माभृ॑ताः ।           
 
-
-
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 13 अथ त्रयोदशी - पावमनीरित्यनुष्टुप् ॥ पावमानीः पावमान्यः नः अस्मभ्यं दिशन्तु ददतु इमं च लोकं अथो अपि च अमुं च लोकम् । किञ्च - नः अस्माकं कामान् अस्यां अमुष्या च स्थितान् समर्धयन्तु समृद्धान् कुर्वन्तु देवीः देव्यः देवनादिमत्यः देवैः समाभृताः एकत्र समाहृताः । 'हृग्रहोर्भः'॥
 </details>
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/14_pAvamAnIs_svastyayanIH.md">
-<details><summary><h4>14 पावमानीस् स्वस्त्ययनीः ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" open unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/14_pAvamAnIs_svastyayanIH.md">
+<details><summary><h5>14 पावमानीस् स्वस्त्ययनीः ...{Loading}...</h5></summary>
 
 पा॒व॒मा॒नीस् **स्व॒स्त्य्-अय॑नीः** ।  
 सु॒-दुघा॒ हि घृ॑त॒श्-**चुतः॑**+++(=क्षारयित्र्यः)+++ ।  
@@ -389,8 +386,8 @@ unicode_script = "devanagari"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/14_pAvamAnIs_svastyayanIH.md">
-<details><summary><h4>14 पावमानीस् स्वस्त्ययनीः ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/14_pAvamAnIs_svastyayanIH.md">
+<details><summary><h5>14 पावमानीस् स्वस्त्ययनीः ...{Loading}...</h5></summary>
 <details><summary>मूलम्</summary>
 
 पा॒व॒मा॒नीस् स्व॒स्त्यय॑नीः ।  
@@ -398,14 +395,15 @@ unicode_script = "devanagari"
 ऋषि॑भि॒स् सम्भृ॑तो॒ रसः॑ ॥50॥  
 ब्रा॒ह्म॒णेष्व् अ॒मृतँ॑ हि॒तम् ।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 14 अथ चतुर्दशी - पावमानीरित्यनुष्टुबेव ॥ पावमानीरिति गतम् । घृतश्-चुत इति विशेषः - घृतस्योदकस्य क्षारयित्र्यः कर्मसिद्ध्या वृष्टिहेतुत्वात् ॥
 </details>
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/15_yena_devApH.md">
-<details><summary><h4>15 येन देवाᳶ ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" open unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/15_yena_devApH.md">
+<details><summary><h5>15 येन देवाᳶ ...{Loading}...</h5></summary>
 
 येन॑ दे॒वाᳶ प॒वित्रे॑ण ।  
 आ॒त्मान॑म् **पु॒नते॒** सदा॑ ।  
@@ -414,8 +412,8 @@ unicode_script = "devanagari"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/15_yena_devApH.md">
-<details><summary><h4>15 येन देवाᳶ ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/15_yena_devApH.md">
+<details><summary><h5>15 येन देवाᳶ ...{Loading}...</h5></summary>
 <details><summary>मूलम्</summary>
 
 येन॑ दे॒वाᳶ प॒वित्रे॑ण ।  
@@ -423,16 +421,16 @@ unicode_script = "devanagari"
 तेन॑ स॒हस्र॑धारेण ।   
 पा॒व॒मा॒न्यᳶ पु॑नन्तु मा ।            
 
-
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 15 अथ पञ्चदशी - येनेति त्रिष्टुबेव ॥ देवाः वस्वादयः ऋत्विगादयो वा येन पवित्रेण पवमानेन रूपेण पावमानीनां सम्बन्धिना आत्मानं सदा पुनते तेन सहस्रधारेण बहुप्रकारशोधनेन पवित्रेण आत्मीयेन पावमान्यः एताः ऋचः मा मां पुनन्तु ॥
 </details>
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/16_prAjApatyam_pavitram.md">
-<details><summary><h4>16 प्राजापत्यम् पवित्रम् ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" open unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/16_prAjApatyam_pavitram.md">
+<details><summary><h5>16 प्राजापत्यम् पवित्रम् ...{Loading}...</h5></summary>
 
 प्रा॒जा॒प॒त्यम् प॒वित्र॑म् ।  
 श॒तोद्या॑मँ हिर॒ण्मय॑म् ।  
@@ -441,8 +439,8 @@ unicode_script = "devanagari"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/16_prAjApatyam_pavitram.md">
-<details><summary><h4>16 प्राजापत्यम् पवित्रम् ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/16_prAjApatyam_pavitram.md">
+<details><summary><h5>16 प्राजापत्यम् पवित्रम् ...{Loading}...</h5></summary>
 <details><summary>मूलम्</summary>
 
 प्रा॒जा॒प॒त्यम् प॒वित्र॑म् ।  
@@ -450,8 +448,8 @@ unicode_script = "devanagari"
 तेन॑ ब्रह्म॒विदो॑ व॒यम् ।  
 पू॒तम् ब्रह्म॑ पुनीमहे ।  
 
-
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 16 अथ षोडशी - प्राजापत्यमित्यनुष्टुबेव ॥  
@@ -459,8 +457,8 @@ unicode_script = "devanagari"
 </details>
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/17_indras_sunItI.md">
-<details><summary><h4>17 इन्द्रस् सुनीती ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" open unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/17_indras_sunItI.md">
+<details><summary><h5>17 इन्द्रस् सुनीती ...{Loading}...</h5></summary>
 
 **इन्द्र॑स्** सुनी॒ती+++(त्या)+++ स॒ह मा॑ पुनातु ।  
 **सोम॑स्** स्व॒स्त्या **वरु॑णस्** स॒मीच्या॑+++(=सम्यगञ्चनया)+++ ।  
@@ -469,8 +467,8 @@ unicode_script = "devanagari"
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/17_indras_sunItI.md">
-<details><summary><h4>17 इन्द्रस् सुनीती ...{Loading}...</h4></summary>
+<div class="js_include collapsed" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/17_indras_sunItI.md">
+<details><summary><h5>17 इन्द्रस् सुनीती ...{Loading}...</h5></summary>
 <details><summary>मूलम्</summary>
 
 इन्द्र॑स् सुनी॒ती स॒ह मा॑ पुनातु ।  
@@ -478,8 +476,8 @@ unicode_script = "devanagari"
 य॒मो राजा॑ प्रमृ॒णाभि॑ᳶ पुनातु मा ।   
 जा॒तवे॑दा मो॒र्जय॑न्त्या पुनातु ॥51॥  
 
-
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 17 अथ सप्तदशी - इन्द्रः सुनीतीति त्रिष्टुप् ॥  
@@ -493,5 +491,5 @@ unicode_script = "devanagari"
 </details>
 </details>
 </div>
-
+</details>
 </div>

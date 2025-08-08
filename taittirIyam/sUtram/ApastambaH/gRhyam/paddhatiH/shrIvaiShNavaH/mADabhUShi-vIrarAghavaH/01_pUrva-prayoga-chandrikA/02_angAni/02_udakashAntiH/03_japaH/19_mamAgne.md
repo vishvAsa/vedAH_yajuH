@@ -25,12 +25,10 @@ title = "१९ ‘ममाग्ने’,"
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/128/01_mamAgne_varcho.md">
 <details open><summary><h9>०१ ममाग्ने वर्चो ...{Loading}...</h9></summary>
 
-
-ममा॑ग्ने॒ वर्चो॑ विह॒वेष्व् **अ॑स्तु**  
-व॒यन् त्वेन्धा॑नास् त॒नुव॑म् **पुषेम** ।   
-मह्य॑न् **नमन्ताम्** प्र॒दिश॒श् चत॑स्र॒स्  
-त्वया ऽध्य॑क्षेण॒ पृत॑ना **जयेम** ।   
-
+म᳓माग्ने व᳓र्चो विहवे᳓षु अस्तु  
+वयं᳓ त्वे᳓न्धानास् तनु᳓वम् पुषेम  
+म᳓ह्यं नमन्ताम् प्रदि᳓शश् च᳓तस्रस्  
+त्व᳓या᳓ध्यक्षेण पृ᳓तना जयेम
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाः टीकाः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/128/01_mamAgne_varcho.md">
@@ -41,6 +39,7 @@ title = "१९ ‘ममाग्ने’,"
 - ऋषिः - विहव्यः
 - छन्दः - त्रिष्टुप्
 </details>
+
 <details><summary>Thomson & Solcum</summary>
 
 म᳓माग्ने व᳓र्चो विहवे᳓षु अस्तु  
@@ -48,6 +47,7 @@ title = "१९ ‘ममाग्ने’,"
 म᳓ह्यं नमन्ताम् प्रदि᳓शश् च᳓तस्रस्  
 त्व᳓या᳓ध्यक्षेण पृ᳓तना जयेम
 </details>
+
 <details><summary>Vedaweb annotation</summary>
 
 _________
@@ -117,11 +117,13 @@ tváyā ← tvám (pronoun)
 {case:INS, number:SG}
 
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 मम॑ । अ॒ग्ने॒ । वर्चः॑ । वि॒ऽह॒वेषु॑ । अ॒स्तु॒ । व॒यम् । त्वा॒ । इन्धा॑नाः । त॒न्व॑म् । पु॒षे॒म॒ ।  
 मह्य॑म् । न॒म॒न्ता॒म् । प्र॒ऽदिशः॑ । चत॑स्रः । त्वया॑ । अधि॑ऽअक्षेण । पृत॑नाः । ज॒ये॒म॒ ॥
 </details>
+
 <details><summary>Hellwig Grammar</summary>
 
 -   *mamāgne* ← *mama* ← *mad*
@@ -239,6 +241,7 @@ _________
 _________
 
 </details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **अग्ने** । विविधमाहूयन्ते येषु शूरा इति विहवाः संग्रामाः । यद्वा । विविधं यागार्थं देवा आहूयन्त एष्विति विहवा यज्ञाः ॥ ‘ ह्वः संप्रसारणं व न्यभ्युपविषु ' (पा. सू. ३. ३. ७२) इत्यधिकरणेऽप संप्रसारणं च । थाथादिनीत्तरपदान्तोदात्तत्वम् । संग्रामेषु यज्ञेषु वा **वर्चः** दीप्तिः त्वदनुग्रहात् **मम** **अस्तु** अवतु । **वयं** च **त्वा** त्वाम् **इन्धानाः** समिद्भिर्दीपयन्तः **तन्वं** तब शरीरं **पुषेम** हविर्भिर्वर्धयेम ॥ इन्धेः शानचि श्नसोरल्लोप उदात्तनिवृत्तिस्वरेण शानच आद्युदात्तत्वे प्राप्ते  विभाषा वेण्विन्धानयोः  (पा. सू. ६, ६, २१५) इत्याद्युदात्तत्वम् ॥ तन्वं पुषेम ॥ पुषेर्लिङि लिङ्याशिष्यङ् ॥ अपि च **मह्यं** मदर्थम् ।  ‘ ङयि च ' ( पा. सू. ६, ६, २१२ ) इत्यमद्   आद्युदात्तत्वम् ॥ **चतस्रः** **प्रदिशः** प्रकृष्टा दिशः । तद्वासिनो जना इत्यर्थः । **नमन्तां** स्वत एव प्रह्वीभवन्तु । नमतेः कर्मकर्तरि लोटि न दुहस्नुनमाम् ' इति यक्प्रतिषेधः ॥ **त्वया** अस्माभिर्हविर्भिः प्रवर्धितेन **अध्यक्षेण** ईश्वरेण सता **पृतनाः** शत्रुसेनाः **जयेम** अभिभवेम ॥
@@ -248,6 +251,7 @@ _________________
 मह्यं यजमानाय प्राच्याद्याश्चतस्त्रः प्रदिशो नमन्तां वश्या भवन्तु, तत्रत्या जना मदधीना भवन्तु।  
 अध्यक्षेण स्वामिना त्वया सहिता वयं पृतना विरोधि सेना जयेम।
 </details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -255,24 +259,29 @@ _________
 
 “May glory **Agni**, be mine in battle, may we, kindling you, cherish your person n, may the (inhabitants ofthe) four quarters bow down before me, may we with you for our leader overcome (hostile) armies.”
 </details>
+
 <details><summary>Jamison Brereton</summary>
 
 Mine be the luster at the competing invocations, o Agni. Might we thrive  in our body as we kindle you in your body.  
 To me let the four quarters bow. With you as our overseer might we win  battles.
 </details>
+
 <details><summary>Griffith</summary>
 
 LET me win glory, Agni, in our battles: enkindling thee, may we support our bodies.  
      May the four regions bend and bow before me: with thee for guardian may we win in combat.
 </details>
+
 <details><summary>Geldner</summary>
 
 Mein soll in den Wettanrufungen der Götter der Glanz sein, o Agni; wir wollen dich anzünden und deinen Leib pflegen. Vor mir sollen sich die vier Weltgegenden neigen. Mit dir als Aufseher wollen wir die Kämpfe gewinnen!
 </details>
+
 <details><summary>Grassmann</summary>
 
 Glück werde mir, wenn ich dich, Agni, rufe, Heil sei den Leibern, wenn wir dich entzünden; Die vier Welträume mögen mir sich beugen, durch deinen Schutz lass uns in Schlachten siegen.
 </details>
+
 <details><summary>Elizarenkova</summary>
 
 У меня, о Агни, пусть будет блеск во время призывов-состязаний!  
@@ -280,6 +289,7 @@ Glück werde mir, wenn ich dich, Agni, rufe, Heil sei den Leibern, wenn wir dich
 Мне пусть поклоняться четыре стороны света!  
 С тобою как с надзирателем пусть мы выиграем сражения!
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - विश्वेदेवा:
@@ -287,22 +297,27 @@ Glück werde mir, wenn ich dich, Agni, rufe, Heil sei den Leibern, wenn wir dich
 - विराट्त्रिष्टुप्
 - धैवतः
 </details>
+
 <details><summary>ब्रह्ममुनि - विषयः</summary>
 
 इस सूक्त में सेनाध्यक्ष शत्रुओं का नाशक राष्ट्र में भ्रमण करके शत्रुओं को प्राप्त कर दण्ड दे, विद्वान् जन राजा को प्रोत्साहित करें, सूर्यादि धारकों का धारक परमात्मा उपास्य है, आदि विषय हैं।
 </details>
+
 <details><summary>ब्रह्ममुनि - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अग्ने) हे अग्रणी सेनानायक ! या ब्रह्मा ! (विहवेषु) विविध आह्वान-स्थान संग्रामों में या यज्ञों में (मम) मेरे में (वर्चः) तेज (अस्तु) हो (वयम्) हम (त्वा) तुझे (इन्धानाः) दीप्त करते हुए या प्रबल शब्दों से प्रोत्साहित करते हुए (तन्वम्) अपने आत्मा को (पुषेम) पुष्ट करें (प्रदिशः-चतस्रः) प्रमुख चार दिशाएँ-वहाँ स्थित मनुष्य-प्रजाजन या सामन्यजन (मह्यम्) मेरे लिए (नमन्ताम्) अपने आत्मा को समर्पित करें (त्वया-अध्यक्षेण) तुझ सेनाध्यक्ष के द्वारा या विद्याध्यक्ष के द्वारा (पृतनाः)संग्रामों को या मनुष्यों को (जयेम) जीतें या अभिभूत करें-स्वाधीन करें ॥१॥
 </details>
+
 <details><summary>ब्रह्ममुनि - भावार्थः</summary>
 
 भावार्थभाषाः -  राजा का सेनाध्यक्ष तेजस्वी चारों दिशाओं में रहनेवाले शत्रु पर विजय पानेवाला हो एवं उसका पुरोहित महान् विद्वान् अपने शब्दों से प्रोत्साहित करनेवाला होना चाहिये ॥१॥
 </details>
+
 <details><summary>ब्रह्ममुनि - विषयः</summary>
 
 अत्र सूक्ते सेनाध्यक्षः शत्रूणां नाशकः राष्ट्रे भ्रमणं कृत्वा दुष्टान् प्राप्य दण्डयेत्, विद्वांसो राजानं प्रोत्साहयेयुः, परमात्मा सर्वसूर्यादीनां धारकाणामपि धारकस्तस्योपासना कर्त्तव्येत्येवमादयो विषयाः सन्ति।
 </details>
+
 <details><summary>ब्रह्ममुनि - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अग्ने) हे अग्रणी ! सेनानायक ! ब्रह्मन् ! वा (विहवेषु) विविधह्वानस्थानेषु सङ्ग्रामेषु यज्ञेषु वा (मम वर्चः-अस्तु) मयि ‘सप्तम्यर्थे षष्ठी’ वर्चस्तेजो भवतु (वयं त्वा-इन्धानाः-तन्वं पुषेम) वयं त्वां दीपयन्तो बलवच्छब्दैः प्रोत्साहयन्तः स्वात्मानं पुष्येम “आत्मा वै तनूः” [श० ६।७।२।६] (प्रदिशः-चतस्रः) प्रमुखदिशश्चतस्रस्तत्रस्थाः-मनुष्याः प्रजाजना यद्वा सामान्यजनाः (मह्यं नमन्ताम्) मह्यं स्वात्मानं समर्पयन्तु (त्वया-अध्यक्षेण) त्वया सेनाध्यक्षेण यद्वा विद्याध्यक्षेण (पृतनाः-जयेम) सङ्ग्रामान् “पृतनाः सङ्ग्रामनाम” [निघ० २।१७] जयेम यद्वा मनुष्यान् “पृतनाः मनुष्यनाम” [निघ० २।३] अभिभवेम ॥१॥
@@ -332,6 +347,7 @@ Glück werde mir, wenn ich dich, Agni, rufe, Heil sei den Leibern, wenn wir dich
 मम॑ दे॒वा वि॑ह॒वे स॑न्तु॒ सर्व॒ इन्द्रा॑वन्तो म॒रुतो॒ विष्णु॑र॒ग्निः ।   
 ममा॒न्तरि॑क्षमु॒रु गो॒पम॑स्तु॒ मह्य॒व्ँवातᳶ॑ पवता॒ङ्कामे॑ अ॒स्मिन् ।
 </details>
+
 <details><summary>सायण-टीका</summary>
 
 अथ द्वितीयामाह– मम देबा इति।  
@@ -359,6 +375,7 @@ Glück werde mir, wenn ich dich, Agni, rufe, Heil sei den Leibern, wenn wir dich
 मयि॑ दे॒वा द्रवि॑ण॒मा य॑जन्ता॒म्मय्या॒शीर॑स्तु॒ मयि॑ दे॒वहू॑तिः ।   
 दैव्या॒ होता॑रा वनिषन्त [29]  पूर्वेऽरि॑ष्टास्स्याम त॒नुवा॑ सु॒वीराः॑ ।
 </details>
+
 <details><summary>सायण-टीका</summary>
 
 अथ तृतीयामाह– मयि देवा इति।  
@@ -377,11 +394,13 @@ Glück werde mir, wenn ich dich, Agni, rufe, Heil sei den Leibern, wenn wir dich
 एनो॒ **मा नि गा॑ङ्** कत॒मच्च॒न+अ॒हव्ँ  
 विश्वे॑ देवासो॒ अधि॑ **वोचता** मे ।   
 </details>
+
 <details><summary>मूलम्</summary>
 
 मह्य॑य्ँयजन्तु॒ मम॒ यानि॑ ह॒व्याकू॑तिस्स॒त्या मन॑सो मे अस्तु ।   
 एनो॒ मा नि गा॑ङ्कत॒मच्च॒नाहव्ँविश्वे॑ देवासो॒ अधि॑ वोचता मे ।   
 </details>
+
 <details><summary>सायण-टीका</summary>
 
 अथ चतुर्थीमाह– मह्यं यजन्त्विति।  
@@ -391,11 +410,10 @@ Glück werde mir, wenn ich dich, Agni, rufe, Heil sei den Leibern, wenn wir dich
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/128/05_devIH_ShaLurvIruru.md">
 <details open><summary><h9>०५ देवीः षळुर्वीरुरु ...{Loading}...</h9></summary>
 
-
-देवीः॑ षड्-उर्वीर् उ॒रु ण॑ᳵ **कृणोत॒**  
-विश्वे॑ देवास इ॒ह **वी॑रयध्वम्** ।   
-**मा हा॑स्महि** प्र॒जया॒ मा त॒नूभि॒र्  
-**मा र॑धाम** द्विष॒ते सो॑म राजन् ।   
+दे᳓वीः षड्-उर्वीर् उरु᳓ णᳵ **कृणोत**  
+वि᳓श्वे देवास इह᳓ **वीरयध्वम्** ।   
+**मा᳓ हास्महि** प्रज᳓या मा᳓ तनू᳓भिर्  
+**मा᳓ रधाम** द्विषते᳓ सोम राजन् ।   
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाः टीकाः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/128/05_devIH_ShaLurvIruru.md">
@@ -406,6 +424,7 @@ Glück werde mir, wenn ich dich, Agni, rufe, Heil sei den Leibern, wenn wir dich
 - ऋषिः - विहव्यः
 - छन्दः - त्रिष्टुप्
 </details>
+
 <details><summary>Thomson & Solcum</summary>
 
 दे᳓वीः षळ् उर्वीर् उरु᳓ नः कृणोत  
@@ -413,6 +432,7 @@ Glück werde mir, wenn ich dich, Agni, rufe, Heil sei den Leibern, wenn wir dich
 मा᳓ हास्महि प्रज᳓या मा᳓ तनू᳓भिर्  
 मा᳓ रधाम द्विषते᳓ सोम राजन्
 </details>
+
 <details><summary>Vedaweb annotation</summary>
 
 _________
@@ -488,11 +508,13 @@ soma ← sóma- (nominal stem)
 {case:VOC, gender:M, number:SG}
 
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 देवीः॑ । ष॒ट् । उ॒र्वीः॒ । उ॒रु । नः॒ । कृ॒णो॒त॒ । विश्वे॑ । दे॒वा॒सः॒ । इ॒ह । वी॒र॒य॒ध्व॒म् ।  
 मा । हा॒स्म॒हि॒ । प्र॒ऽजया॑ । मा । त॒नूभिः॑ । मा । र॒धा॒म॒ । द्वि॒ष॒ते । सो॒म॒ । रा॒ज॒न् ॥
 </details>
+
 <details><summary>Hellwig Grammar</summary>
 
 -   *devīḥ* ← *devī*
@@ -628,6 +650,7 @@ _________
 _________
 
 </details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **षट्** **उर्वीः** षट्संख्याका उर्व्यः । एताश्चान्यत्राम्नायन्ते -- ' षण्मोर्वीरंहसः पान्तु द्यौश्च पृथिवी चाहश्च रात्रिश्चापश्चौषधयश्च इति । ईदृश्यो हे **देवीः** देव्यः ॥ जसि वा छन्दसि । इति पूर्वसवर्णदीर्घः ।  ‘ नामन्त्रिते समानाधिकरणे सामान्यवचनम् ' इत्यस्याविद्यमानत्वनिषेधेन षळुर्वीरित्यनयोरामन्त्रितयोः पदात्परत्वादाष्टमिकमामन्त्रितानुदात्तत्वम् ॥ ता यूयम् **उरु** विस्तीर्णं धनं **नः** अस्माकं **कृणोत** कुरुत ॥  ‘ कृवि हिंसाकरणयोश्च ।  ‘ धिन्विकृण्व्योरच्च ' इत्युप्रत्ययः ।  ‘तप्तनप्तनथनाश्च । इति तस्य तबादेशः ॥ हे **विश्वे** सर्वे **देवासः** देवाः यूयं च **इह** अस्मिन् धने प्राप्तव्ये विषये **वीरयध्वं** विक्रामयत । यथा वयं तद्धनं लभेमहि तथा वीर्यवन्तो यूयं प्रयतध्वमित्यर्थः ॥  ‘ वीर विक्रान्तौ । अपि च **प्रजया** पुत्रादिरूपया **मा** **हास्महि** वयं मा परित्यज्येमहि । **मा** च **तनूभिः** शरीरैस्त्यज्येमहि । अस्मान् कदाचिदपि पुत्रादयः शरीराणि च मा परित्याक्षुरित्यर्थः ॥ **ओहाक्** त्यागे । अस्मात् कर्मणि लुङि चिण्वद्भावाभावे रूपमेतत् ॥ तथा हे **राजन्** राजमान यद्वास्माकं स्वामिन् हे **सोम** **द्विषते** अप्रीतिं कुर्वते ॥ द्विषेः शतरि अदादित्वात् शपो लुक् । 'शतुरनुमः । इति विभक्तेरुदात्तत्वम् । 'षष्ठ्यर्थे चतुर्थी वक्तव्या ' इति चतुर्थी ॥ द्विषतः शत्रोः  **मा** **रधाम** मा वशं प्राप्नुयाम तथा त्वं कुर्वित्यर्थः ।  ‘ रध्यतिर्वशगमने ' (निरु. ६. ३२ ) इति यास्कः । यद्वा । द्विषते शत्रवे तदर्थं मा रधाम । परिपक्वा हननार्हा मा भूम ॥  ‘ रध हिंसासंराद्ध्योः । संराद्धिः पाक इति तद्वृत्तिः । माङि लुङि पुषादित्वात् च्लेरङादेशः ॥ ॥ १५ ॥
@@ -636,6 +659,7 @@ ________________
 अथ पञ्चमीमाह – देवीः षडुर्वीरिति।   देवीः षडुर्वीरुर्वीनामिकाः षट्संख्याका हे देव्यः।     २२६४ अत एव शाखान्तरेऽग्न्युपस्थाने समाम्नातम् “षण्मोर्वीरंहसस्पान्तु द्यौश्च पृथिवी चाऽऽपश्चौपधमश्चोर्क्च सूनृता च” इति।   तादृश्यो हे देव्यो नोऽरमदीयमिदं कर्मोरु कृणोत विस्तीर्णं कुरुत।   विश्वे देवासो हे विश्वे देवा इह कर्मणि वीरयध्वं वीरा भवत।   विघ्नं परिहरतेत्यर्थः।   वयं प्रजया पुत्रादिरूपया मा हास्महि परित्यक्ता मा भूम।   तथा तनूभिः पुष्टशरीरैर्मा हारमहि।   हे सोम राजन्द्विषते वैरिणे मा रधाम कार्यसिद्धिं मा करवाम।
 
 </details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -648,24 +672,29 @@ _________
 
 You six: heaven, earth, day, night, water and plural nts
 </details>
+
 <details><summary>Jamison Brereton</summary>
 
 You six broad goddesses, create broad (space) for us. All you gods, act as  heroes here.  
 May we not be bereft of offspring, nor of our own bodies. May we not  become subject to him who hates us, o King Soma.
 </details>
+
 <details><summary>Griffith</summary>
 
 Ye six divine Expanses, grant us freedom: here, all ye Gods, acquit yourselves like heroes.  
      Let us not lose our children or our bodies: let us not benefit the foe, King Soma!
 </details>
+
 <details><summary>Geldner</summary>
 
 Ihr sechs göttlichen Räume, gebet uns Raum, alle Götter zeiget euch hier als Männer! Nicht möchten wir der Kinder noch des eigenen Leibes verlustigt gehen; nicht wollen wir dem Feinde erliegen, König Soma!
 </details>
+
 <details><summary>Grassmann</summary>
 
 Ihr weiten sechs Göttinnen schaffet Raum uns, ihr Götter alle, zeigt euch hier als Helden, Nicht sei Verlust an Leben uns und Kindern, gib nicht uns preis dem Hasser, König Soma.
 </details>
+
 <details><summary>Elizarenkova</summary>
 
 О вы, шесть божественных широких (пространств), создайте нам широкий (простор)!  
@@ -673,6 +702,7 @@ Ihr weiten sechs Göttinnen schaffet Raum uns, ihr Götter alle, zeigt euch hier
 Да не окажемся мы ни без потомства, ни без тел (наших)!  
 Да не попадем мы во власть к ненавистнику, о царь Сома!
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - विश्वेदेवा:
@@ -680,14 +710,17 @@ Ihr weiten sechs Göttinnen schaffet Raum uns, ihr Götter alle, zeigt euch hier
 - त्रिष्टुप्
 - धैवतः
 </details>
+
 <details><summary>ब्रह्ममुनि - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (षट्)छः वसन्त आदि ऋतुएँ या छः पृथिवी, जल, अग्नि, वायु, दिन, रात्रि (उर्वीः)महत्त्ववाली (देवीः)दिव्यगुणवाली वस्तुएँ (नः) हमारे लिये (उरु) बहुत अन्न आदि (कृणोत) करें (विश्वे देवासः) सब विद्वान् विद्युत् मेघ आदि (इह वीरयध्वम्) इस राष्ट्र में बल कार्य करो (प्रजया मा हास्महि) सन्तान से त्यक्त रहित हम न होवें (तनूभिः)अङ्गोंसे रहित न हों (सोम-राजन्) हे उत्पादक सर्वत्र राजमान परमात्मन् ! (द्विषते मा रधाम) हम द्वेष करनेवाले शत्रु के वश में न होवें ॥५॥
 </details>
+
 <details><summary>ब्रह्ममुनि - भावार्थः</summary>
 
 भावार्थभाषाः -  छः वस्तुएँ या पृथिवी जल अग्नि वायु दिन रात बहुत अन्नादिसम्पन्न करनेवाले हों, ऐसा प्रयत्न राष्ट्र के विद्वान् जन करते हैं, मेघादि भी अनुकूल वर्षा कर ऐसा उपचार करते रहें, सन्तान से अपनेअङ्गोंसे फलते-फूलते रहें, शत्रु के वश में भी कभी न आवें, यह यत्न करना चाहिये ॥५॥
 </details>
+
 <details><summary>ब्रह्ममुनि - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (षट्-उर्वी-देवीः) हे षट्सङ्ख्याकाः महत्यो देव्यर्ऋतुरूपाः यद्वा अग्निः पृथिवी आपो वातोहश्च रात्रिः “षण्मोर्वीरंहसस्पान्तु-अग्निश्च पृथिवी चापश्च वाजश्चाहोरात्रिश्च” [श० १।५।१।२२] (नः-उरु कृणोत अस्मभ्यं बहु खल्वन्नादिकं कुरुत (विश्वे देवासः) सर्वे देवा विद्वांसस्तथा मध्यस्थाना विद्युन्मेघादयश्च (इह वीरयध्वम्) अस्मिन् राष्ट्रे बलकार्यं कुरुत (प्रजया मा हास्महि) सन्तत्या पुत्रादिकया न त्यक्ता भवेम “ओहाक् त्यागे” [जुहो०] (तनूभिः-मा) स्वाङ्गैर्न रहिता भवेम (सोम राजन्) के उत्पादक सर्वत्र राजमान परमात्मन् ! (द्विषते मा रधाम) द्वेष्टुः शत्रोः, “षष्ठ्यर्थे चतुर्थी छान्दसी” न वशं गच्छेम “रध्यतिर्वशगमने” [निरु० ६।३२] ॥५॥
@@ -717,6 +750,7 @@ Ihr weiten sechs Göttinnen schaffet Raum uns, ihr Götter alle, zeigt euch hier
 अ॒ग्निर्म॒न्युम्प्र॑तिनु॒दन्पु॒रस्ता॑त् [30]  अद॑ब्धो गो॒पाᳶ परि॑ पाहि न॒स्त्वम् ।   
 प्र॒त्यञ्चो॑ यन्तु नि॒गुत॒ᳶ पुन॒स्ते॑ऽमैषा॑ञ्चि॒त्तम्प्र॒बुधा॒ वि ने॑शत् ।
 </details>
+
 <details><summary>सायण-टीका</summary>
 
 अथ षष्ठीमाह– अग्निर्मन्युमिति ।   अयमग्निर्मन्युं वैरिणां कोपं प्रतिनुदन्निराकुर्वन्पुरस्ता दस्माकं पुरतो गच्छत्विति शेषः ।   हेऽग्ने त्वमदव्यः केनाप्यहिंसितो गोपा रक्षणसमर्थः सन्नोऽस्मान्परिपत्हि सर्वतः पालय ।   तव पालने सति **ते** वैरिणः **प्रत्यञ्चः** प्रतिमुखाः विमुखा सन्तो **निगुतो** नितरां गमनशीलाः पलायनपराः पुनर्यन्तु भूयो भूयो यत्र क्वापि गच्छन्तु।   **एषां** वैरिणां **चित्तम्** अन्तःकरणं प्रबुधा **ऽमा विनेशत्** प्रबोधेन सह विनश्यतु।
@@ -739,6 +773,7 @@ Ihr weiten sechs Göttinnen schaffet Raum uns, ihr Götter alle, zeigt euch hier
 धा॒ता धा॑तृ॒णाम्भुव॑नस्य॒ यस्पति॑र्दे॒वँ स॑वि॒तार॑मभिमाति॒षाह॑म् ।   
 इ॒मय्ँ य॒ज्ञम॒श्विनो॒भा बृह॒स्पति॑र्दे॒वाᳶ पा॑न्तु॒ यज॑मानन्न्य॒र्थात् ।
 </details>
+
 <details><summary>सायण-टीका</summary>
 
 अथ सप्तमीमाह– धाता धातृणामिति।   घातृणां जगत्कर्तॄणां दक्षप्रजापत्यादीनामपि धाता यः  स्रष्टा भुवनस्य लोकस्य पतिः पालकश्च।   तथाऽश्विनोमोभावश्विनौ बृहस्पतिश्चेत्येते देवा नोऽस्मदीयमिमं यज्ञं यजमानं च न्यर्थात्फलवैगुण्यलक्षणाद्वैयर्थ्यात्पान्तु रक्षन्तु।   कीदृशं यज्ञम्, देवं तत्तन्मन्त्रव्यवहारयुक्तं सवितारं महाफलजनकमभिमातिषाहं पापलक्षणस्याभिमातेररेरमिभवितारम्।
@@ -748,11 +783,10 @@ Ihr weiten sechs Göttinnen schaffet Raum uns, ihr Götter alle, zeigt euch hier
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/128/08_uruvyachA_no.md">
 <details open><summary><h9>०८ उरुव्यचा नो ...{Loading}...</h9></summary>
 
-
-उ॒रु॒-व्यचा॑ नो महि॒षश् शर्म॑ **यँसद्**  
-अ॒स्मिन् हवे॑ पुरुहू॒तᳶ पु॑रु॒क्षु ।   
-स नᳶ॑ प्र॒जायै॑ हर्यश्व **मृड॒येन्द्र॒**  
-**मा** नो **रीरिषो॒** मा परा॑ **दाः** ।   
+उरु-व्य᳓चा नो महिष᳓श् श᳓र्म **यँसद्**  
+अस्मि᳓न् ह᳓वे पुरुहूतᳶ᳓ पुरुक्षु᳓ ।   
+स᳓ नᳶ प्रजा᳓यै हर्यश्व **मृडये᳓न्द्र**  
+**मा᳓** नो᳓ **री᳓रि᳓षो** मा᳓ प᳓रा **दाः** ।   
 
 </details>
 </div>
@@ -764,6 +798,7 @@ Ihr weiten sechs Göttinnen schaffet Raum uns, ihr Götter alle, zeigt euch hier
 - ऋषिः - विहव्यः
 - छन्दः - त्रिष्टुप्
 </details>
+
 <details><summary>Thomson & Solcum</summary>
 
 उरुव्य᳓चा नो महिषः᳓ श᳓र्म यंसद्  
@@ -771,6 +806,7 @@ Ihr weiten sechs Göttinnen schaffet Raum uns, ihr Götter alle, zeigt euch hier
 स᳓ नः प्रजा᳓यै हरिअश्व मॄळय+  
 इ᳓न्द्र मा᳓ नो रीरिषो मा᳓ प᳓रा दाः
 </details>
+
 <details><summary>Vedaweb annotation</summary>
 
 _________
@@ -849,11 +885,13 @@ rīriṣaḥ ← √riṣ- (root)
 {number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
 
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 उ॒रु॒ऽव्यचाः॑ । नः॒ । म॒हि॒षः । शर्म॑ । यं॒स॒त् । अ॒स्मिन् । हवे॑ । पु॒रु॒ऽहू॒तः । पु॒रु॒ऽक्षुः ।  
 सः । नः॒ । प्र॒ऽजायै॑ । ह॒रि॒ऽअ॒श्व॒ । मृ॒ळ॒य॒ । इन्द्र॑ । मा । नः॒ । रि॒रि॒षः॒ । मा । परा॑ । दाः॒ ॥
 </details>
+
 <details><summary>Hellwig Grammar</summary>
 
 -   *uruvyacā* ← *uru*
@@ -1008,6 +1046,7 @@ _________
 _________
 
 </details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **उरुव्यचाः** विस्तीर्णव्यापनः **महिषः** महान् पूज्यो वा **पुरुहूतः** बहुभिर्यजमानैराहूतः **पुरुक्षुः** बहुनिवासः ॥ क्षियतेः ‘मितद्र्वादिभ्य उपसंख्यानम् ' (पा. सू. ३. २. १८०. १ ) इति डुप्रत्ययः ॥ यद्वा । पुरुभिर्बहुभिः शब्द्यमानः स्तूयमानः ॥ पूर्ववत् डुप्रत्ययः । औणादिके कर्मणि क्विपि वा  ‘ अनित्यमागमशासनम् ' इति तुगभावः ॥ ईदृशः इन्द्रः **अस्मिन्** **हवे** यज्ञे । हूयन्ते अस्मिन् हवींषीति हवो यज्ञः । जुहोतेरधिकरणेऽप् ॥ यद्वा । अस्मिन् हवे त्वद्विषये आह्वाने ॥  ‘ भावेऽनुपसर्गस्य ' इति ह्वयतेरप् संप्रसारणं च ॥ **नः** अस्मभ्यं **शर्म** सुखं **यंसत्** यच्छतु ददात्वित्यर्थः॥ यमेर्लेट्यडागमः ।  ‘ सिब्बहुलम् ' इति सिप् ॥ हे **हर्यश्व** हरी अश्वौ यस्य तादृश हे **इन्द्र** **सः** त्वं **नः** अस्माकं **प्रजायै** । द्वितीयार्थे चतुर्थी। प्रजां पुत्रपौत्रादिकां **मृळय** सुखय । **नः** अस्मान्  **मा** **रीरिषः** मा हिंसीः । **मा** च **परा** **दाः** । परादानं परित्यागः । मा परित्याक्षीरित्यर्थः ॥
@@ -1016,6 +1055,7 @@ ________________
 अथाष्टमीमाह – उरुव्यचा इति।   पुरुभिर्बहुभिर्यजमानेर्हूत आहूतः पुरुहूत इन्द्रः।   हुयतेऽ–स्मिन्निति ह वो यज्ञस्तस्मिन्यज्ञे स इन्द्रो नोऽस्मार्क शमं सुखं यं सद्यच्छतु।   कीदृश इन्द्रः, उरव्यचा अत्यन्तं व्याप्तो बहुदेशाधिपतिरित्यर्थः।   महिषो महाञ्शोर्यादिगुणसंपन्नः।   पुरुक्षु पुरुषु बहुमन्त्रेषु क्षूयते शब्द्यते प्रतिपाद्यत् इति पुरुक्षुः पुरुक्षुरेव पुरुक्षु।   हरिनामानावश्वौ यस्यासौ हर्यश्वः।   तादृश हे इन्द्र प्रजायै पुत्रा दिप्रजासिद्ध्यर्थं स त्वं नोऽस्मान्मृडय सुखय, नोऽस्मान्मा रीरिपो मा हिंसीर्मा परादा मा च तिरस्कुरु।
 
 </details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -1023,24 +1063,29 @@ _________
 
 “May the omnipresent (**Indra**), the mighty one, who is invoked by many, and lauded by many, bestow ablessing on this our sacrifice; be gracious to our offspring, Indra, lord of bay horses; harm us not, desert us not.”
 </details>
+
 <details><summary>Jamison Brereton</summary>
 
 The buffalo of broad expanse will offer shelter to us at this invocation— he who is invoked by many, who provides many cattle.  
 Show mercy to our offspring, o you of the fallow bays. Do not harm us  nor hand us over.
 </details>
+
 <details><summary>Griffith</summary>
 
 Foodful, and much-invoked, at this our calling may the great Bull vouchsafe us wide protection.  
      Lord of Bay Coursers, Indra, blew our children: harm us not, give us riot as prey to others.
 </details>
+
 <details><summary>Geldner</summary>
 
 Der umfängliche Büffel soll uns Zuflucht gewähren bei diesem Anruf, der Vielgerufene, Viehreiche. Sei unseren Kindern gnädig, o Falbenherr; schädige uns nicht, Indra, gib uns nicht preis!
 </details>
+
 <details><summary>Grassmann</summary>
 
 Der umfangsreiche Stier verleihe Schutz uns, bei diesem Ruf der vielgerufne Nährer, Sei unsern Kindern hold, o Füchselenker, verletz uns nicht, o Indra, noch gib preis uns.
 </details>
+
 <details><summary>Elizarenkova</summary>
 
 Огромный буйвол пусть дарует нам защиту  
@@ -1048,6 +1093,7 @@ Der umfangsreiche Stier verleihe Schutz uns, bei diesem Ruf der vielgerufne Näh
 Будь милостив к нашему потомству, о хозяин буланых коней!  
 О Индра, не причини нам вреда, не выдай нас!
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - विश्वेदेवा:
@@ -1055,14 +1101,17 @@ Der umfangsreiche Stier verleihe Schutz uns, bei diesem Ruf der vielgerufne Näh
 - त्रिष्टुप्
 - धैवतः
 </details>
+
 <details><summary>ब्रह्ममुनि - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (उरुव्यचाः)बहुत व्याप्त (महिषः) महान्-अनन्त (पुरुहूतः) बहुत आमन्त्रण करने योग्य (पुरुक्षुः)बहुत अन्न देनेवाला परमात्मा (अस्मिन् हवे) इस यज्ञ में (नः) हमें (शर्म यंसत्) सुख देवे (सः) वह (हर्यश्व) हरणशील व्यापन स्वभाववाले (इन्द्र) परमात्मन् ! (नः) हमें (प्रजायै)प्रजा प्राप्ति के लिए (मृळय)सुखी कर (नः) हमें (मा-रीरिषः) मत पीड़ित कर (मा परादाः) न हमें त्याग ॥८॥
 </details>
+
 <details><summary>ब्रह्ममुनि - भावार्थः</summary>
 
 भावार्थभाषाः -  परमात्मा बहुव्यापी अनन्त अनेक प्रकार से आमन्त्रण करने योग्य बहुत अन्नभोग देनेवाला है, वह सन्तानप्राप्ति के द्वारा सुखी करता है, वह न हमें पीड़ा देता है, न त्यागता है, उस ऐसे परमात्मा की स्तुति करनी चाहिए ॥८॥
 </details>
+
 <details><summary>ब्रह्ममुनि - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (उरुव्यचाः) बहुव्याप्तः (महिषः) महान्-अनन्तः (पुरुहूतः) बहुह्वातव्यः (पुरुक्षुः) बह्वन्नप्रदः परमात्मा (अस्मिन् हवे नः शर्म यंसत्) अत्र यज्ञेऽस्मभ्यं सुखं यच्छतु ददातु (सः) स खलु (हर्यश्व-इन्द्र) हरणशील व्यापनस्वभाववन् “हर्यश्व हरणशीला व्यापनस्वभावा यस्य तत्सम्बुद्धौ” [ऋ० ३।३२।५ दयानन्दः] ऐश्वर्यवन् परमात्मन् ! (नः प्रजायै मृडय) अस्मान् प्रजायै-प्रजाप्राप्तये सुखय (नः-मा रीरिषः) अस्मान् न पीडय (मा परादाः) नास्मान् त्यज ॥८॥
@@ -1079,11 +1128,10 @@ Der umfangsreiche Stier verleihe Schutz uns, bei diesem Ruf der vielgerufne Näh
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/128/09_ye_naH.md">
 <details open><summary><h9>०९ ये नः ...{Loading}...</h9></summary>
 
-
-ये न॑स् स॒पत्ना॒ **अप॒** ते **भ॑वन्त्व्**  
-इन्द्रा॒ग्निभ्या॒म् अव॑ **बाधामहे॒** तान् ।   
-वस॑वो रु॒द्रा आ॑दि॒त्या उ॑परि॒-स्पृश॑म्  
-मो॒ग्रञ् चेत्ता॑रम् अधिरा॒जम् **अ॑क्रन्** ।
+ये᳓ नस् सप᳓त्ना **अ᳓प** ते᳓ **भवन्त्व्**  
+इन्द्राग्नि᳓भ्याम् अ᳓व **बाधामहे** ता᳓न् ।   
+व᳓सवो रुद्रा᳓ आदित्या᳓ उपरि-स्पृ᳓शम्  
+मोग्र᳓ञ् चे᳓त्तारम् अधिराज᳓म् **अक्रन्** ।
 
 </details>
 </div>
@@ -1095,6 +1143,7 @@ Der umfangsreiche Stier verleihe Schutz uns, bei diesem Ruf der vielgerufne Näh
 - ऋषिः - विहव्यः
 - छन्दः - जगती
 </details>
+
 <details><summary>Thomson & Solcum</summary>
 
 ये᳓ नः सप᳓त्ना अ᳓प ते᳓ भवन्तु  
@@ -1102,6 +1151,7 @@ Der umfangsreiche Stier verleihe Schutz uns, bei diesem Ruf der vielgerufne Näh
 व᳓सवो रुद्रा᳓ आदित्या᳓ उपरिस्पृ᳓शम् मा  
 उग्रं᳓ चे᳓त्तारम् अधिराज᳓म् अक्रन्
 </details>
+
 <details><summary>Vedaweb annotation</summary>
 
 _________
@@ -1174,11 +1224,13 @@ ugrám ← ugrá- (nominal stem)
 {case:ACC, gender:M, number:SG}
 
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 ये । नः॒ । स॒ऽपत्नाः॑ । अप॑ । ते । भ॒व॒न्तु॒ । इ॒न्द्रा॒ग्निऽभ्या॑म् । अव॑ । बा॒धा॒म॒हे॒ । तान् ।  
 वस॑वः । रु॒द्राः । आ॒दि॒त्याः । उ॒प॒रि॒ऽस्पृश॑म् । मा॒ । उ॒ग्रम् । चेत्ता॑रम् । अ॒धि॒ऽरा॒जम् । अ॒क्र॒न् ॥
 </details>
+
 <details><summary>Hellwig Grammar</summary>
 
 -   *ye* ← *yad*
@@ -1317,6 +1369,7 @@ _________
 _________
 
 </details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **नः** अस्माकं **ये** **सपत्नाः** शत्रवः **ते** **अप** **भवन्तु** अपगता भवन्तु । स्वस्थानादपगताः प्रच्युता भवन्तु । **तान्** सपत्नान् **इन्द्राग्निभ्यां** हविर्भिः स्तुत्या च प्रसन्नाभ्यामनुगृहीता वयम् **अव** **बाधामहे** निकृष्टतरं विनाशयामः । अपि च **वसवो** **रुद्रा** **आदित्याः** च **मा** माम् उपरिस्पृशम् उन्नतपदस्य संस्प्रष्टारं सर्वेभ्यः श्रेष्ठम् **अक्रन्**  कुर्वन्तु । तथा **उग्रम्** उद्गूर्णबलं **चेत्तारं** चेतितारम् ॥ छान्दस इडभावः ॥ सर्वस्य ज्ञातारम् **अधिराजं** सर्वेषामधीश्वरं च मां कुर्वन्तु ॥ करोतेश्छान्दसे लुङि  ‘ मन्त्रे घस इत्यादिना च्लेर्लुक् ॥ । १६ ॥ ॥ १० ॥
@@ -1326,6 +1379,7 @@ _____________________
 अथ नवमीमाह–  २२६५ ये न सपत्ना इति।   ये केचिन्नोऽस्माकं सपत्नाः शत्रवः सन्ति तेऽपभ वन्त्वपनययुक्ता भवन्तु।   वयं तान्सपत्नानिन्द्राग्निभ्यामनुग्रहयृक्ताभ्यां सहिता अवबाधामहे सर्वथा बाधितान्कुर्मः।   वसुरुद्रादित्या देवता मामेतादृशमक्रन्कुर्वन्तु।   कीदृशमिति तदुच्यतेउपरितनं स्वर्गं स्पृशतीत्युपरिस्पृक्तम्, उग्रं शत्रुतिरस्कारक्षमं, चेत्तारमभिज्ञातारम्, अधिराजमन्येषां सर्वेषामधिपतिम्।
 
 </details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -1333,24 +1387,29 @@ _________
 
 “May those who are our foes be driven off; may we through **Indra** and **Agni** destroy them; may theVasus, the **Rudras**, and the **Ādityas** make me the high- reaching, fierce, intelligent, supreme ruler.”
 </details>
+
 <details><summary>Jamison Brereton</summary>
 
 Whoever are our rivals, let them keep away: with Indra and Agni we will  thrust them down.  
 The Vasus, Rudras, and Ādityas have made me one who touches on high,  a formidable observer, an over-king.
 </details>
+
 <details><summary>Griffith</summary>
 
 Let those who are our foemen stay. afar from us: with Indra and with Agni we will drive them off.  
      Vasus, Adityas, Rudras have exalted me, made me far-reaching, inighty, thinker, sovran lord.
 </details>
+
 <details><summary>Geldner</summary>
 
 Unsere Nebenbuhler sollen sich wegheben, mit Indra und Agni unterdrücken wir sie. Die Vasu´s, Rudra´s, Aditya´s haben mich zum überragenden, zum gewaltigen Meister und Oberherrn gemacht.
 </details>
+
 <details><summary>Grassmann</summary>
 
 Es mögen fern von uns die Feinde bleiben, durch Indra, Agni stossen wir zurück sie; Die Vasu's, Rudra's, die Aditja's haben, zum hohen, grossen Hort und Herrn gemacht mich.
 </details>
+
 <details><summary>Elizarenkova</summary>
 
 (Те,) что наши соперники, пусть они уберутся!  
@@ -1358,6 +1417,7 @@ Es mögen fern von uns die Feinde bleiben, durch Indra, Agni stossen wir zurück
 Васу, Рудры, Адитьи сделали меня  
 Выдающимся, могучим знатоком, верховным владыкой.
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - विश्वेदेवा:
@@ -1365,14 +1425,17 @@ Es mögen fern von uns die Feinde bleiben, durch Indra, Agni stossen wir zurück
 - पादनिचृज्ज्गती
 - निषादः
 </details>
+
 <details><summary>ब्रह्ममुनि - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (नः) हमारे (येसपत्नाः)जो शत्रु हैं, (ते) वे (अप भवन्तु) पृथक् हो जावें (तान्) उनको (इन्द्राग्निभ्याम्) संग्राम में विद्युदग्नि शक्ति सम्पन्न अस्त्रों से या (अप बाधामहे) होम में वायु अग्नि के द्वारा पीड़ित करें, (वसवः) वसानेवाले (रुद्राः) उपदेश करनेवाले (आदित्याः) स्वीकार करनेवाले जन, यज्ञ में ऋतुएँ, रश्मियाँ (मा-उपरिस्पृशम्) मुझे ऊँचे पद प्राप्त करनेवाले (उग्रं चेत्तारम्) तेजस्वी चेतानेवाले (अधिराजम्) अधिराजमान (अक्रन्) करें ॥९॥
 </details>
+
 <details><summary>ब्रह्ममुनि - भावार्थः</summary>
 
 भावार्थभाषाः -  शत्रु दूर रहें, उन्हें विद्युदग्नि शक्ति सम्पन्न अस्त्रों द्वारा संग्राम में पीड़ित करना चाहिये, वसानेवाले, उपदेश देनेवाले, स्वीकार करनेवाले जन तेजस्वी अधिकारी को राजा बनावें एवं जो अन्य प्राणियों को पीड़ा देते हैं, वे दूर हों, उन्हें यज्ञ में अग्नि और वायु होमे हुए पदार्थ द्वारा नष्ट करें, वायुएँ, ऋतुएँ, रश्मियाँ मनुष्य को स्वस्थ बनाती हैं ॥९॥
 </details>
+
 <details><summary>ब्रह्ममुनि - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (नः) अस्माकं (ये सपत्नाः) ये शत्रवः सन्ति (ते-अप भवन्तु) ते पृथग्भवन्तु (तान्-इन्द्राग्निभ्याम्-अप बाधामहे) तान् सङ्ग्रामे विद्युदग्नि-शक्तिसम्पन्नास्त्राभ्यां होमे वाय्वग्निभ्यां पीडयामहे (वसवः-रुद्राः-आदित्याः) वासयितारः-उपदेष्टारः स्वीकारकर्त्तारो जनाः-यज्ञे वायवः, ऋतवः, रश्मयः (मा-उपरिस्पृशम्-उग्रं चेत्तारम्-अधिराजम्-अक्रन्) मामुपरिपदप्रापकं तेजस्विनं चेतयितारमधिराजमानं कुर्वन्तु ॥९॥
@@ -1402,6 +1465,7 @@ Es mögen fern von uns die Feinde bleiben, durch Indra, Agni stossen wir zurück
 अ॒र्वाञ्च॒मिन्द्र॑म॒मुतो॑ हवामहे॒ यो गो॒जिद्ध॑न॒जिद॑श्व॒जिद्यः ।   
 इ॒मन्नो॑ य॒ज्ञव्ँवि॑ह॒वे जु॑षस्वा॒स्य कु॑र्मो हरिवो मे॒दिन॑न्त्वा ॥ [32]
 </details>
+
 <details><summary>सायण-टीका</summary>
 
 अथ दशमीमाह– अर्वाञ्चमिन्द्रमिति।   य इन्द्रो गोजित्परकीयगवां जेता, तथा यो धनजित्परकीयधनस्य जेता, योऽश्वजीत्परकीयाश्वानां जेताऽस्ति, अर्वाञ्चमस्मदभिमुखं तमिन्द्रममुतोऽमुं यज्ञं निमित्तीकृत्य हवामह आह्वयामः।   हे इन्द्र विहवे विविधाह्वाने सति नोऽस्मदीयमिमं यज्ञं जुषस्व सेवस्य।   हरिनामकावश्वौ यस्य स हरिवान्।   हे हरिव इन्द्र त्वामस्य यजमानस्य **मेदिनं** स्नेहवन्तं कुर्मः।

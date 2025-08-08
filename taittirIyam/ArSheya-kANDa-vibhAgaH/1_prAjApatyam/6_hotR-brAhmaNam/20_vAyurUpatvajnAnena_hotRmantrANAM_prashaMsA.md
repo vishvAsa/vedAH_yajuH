@@ -3,8 +3,8 @@ title = "२० वायुरूपत्वज्ञानेन होतृ
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/3_hotR-brAhmaNAdi/09_vAyurUpatvajnAnena_hotRmantrANAM_prashaMsA"  newLevelForH1="1" includeTitle="true">
-
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/3_hotR-brAhmaNAdi/09_vAyurUpatvajnAnena_hotRmantrANAM_prashaMsA">
+<details open><summary><h1>०९ वायुरूपत्वज्ञानेन होतृमन्त्राणां प्रशंसा ...{Loading}...</h1></summary>
 <details><summary>मूलम्</summary>
 
 ब्र॒ह्म॒वा॒दिनो॑ वदन्ति ।
@@ -267,7 +267,6 @@ unicode_script = "devanagari"
 दिग्भ्य इति । पुरोवातादिहेतुत्वात् दिक्षु वातस्सञ्चरति दिग्विशेषैस्सङ्गत्य ऋतुधर्मान् प्रवर्तयति ॥
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 स यत्पु॒रस्ता॒द्वाति॑ ।
@@ -288,7 +287,6 @@ unicode_script = "devanagari"
 
 3स यदित्यादि ॥ स वायुः यदा पुरस्तात् पूर्वस्या दिशौ वाति तदाऽसौ प्राण एव भूत्वा प्रजानां प्राणतुल्यः पूर्वस्या आगच्छति ।
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -336,7 +334,6 @@ unicode_script = "devanagari"
 प्रा॒ण इ॑व प्रि॒यᳶ प्र॒जाना॑म्भवति ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 य ए॒वव्ँ वेद॑ ।
@@ -357,7 +354,6 @@ unicode_script = "devanagari"
 
 अथैवं वेदिता प्राण इव प्रजानां प्रियो भवति । किमुच्यते प्राण इव प्रिय इति? ननु स एष एवं पवमानमहिमेवेदी प्राण एव सर्वप्रजानाम् । विदुषा हि सर्वं संधार्यते ॥
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -402,7 +398,6 @@ unicode_script = "devanagari"
 
 एतादृश एव हि भूत्वा दक्षिणतो गच्छति, सर्वाप्यायकत्वात् । स खल्वेवं वेदिता स्वयं मातारश्चैव । एवं विदुषा हि सर्वमाप्यते ॥
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -452,7 +447,6 @@ unicode_script = "devanagari"
 पू॒तम॑श्ञाति ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 य ए॒वव्ँ वेद॑ ।
@@ -473,7 +467,6 @@ unicode_script = "devanagari"
 
 पूतं एव स्वयं चाश्नाति भुङ्क्ते । किं बहुना, स एष वेदिता पवमान एव स्वयम् ॥
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -506,7 +499,6 @@ unicode_script = "devanagari"
 स॒वि॒तेव॒ स्वाना॑म्भवति ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 य ए॒वव्ँ वेद॑ ।
@@ -527,7 +519,6 @@ unicode_script = "devanagari"
 
 अथ एवं वेदिता स्वानां ज्ञातीनामपि सवितृतुल्यो भवति । किमुच्यते सवितेवेत्यादि ननु स एव स्वयं सवितैव ॥
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -565,7 +556,6 @@ unicode_script = "devanagari"
 
 निन्दितृदर्शनेऽपि न निन्दितः स इति दर्शयति - ते उपवदितारोऽस्य पुरस्तात्पाप्मानः तद्दिगवस्थितान् उपवदितारः स्वयं गृह्णन्तीति । एवं विद्वत्संबन्धेन साऽपि दिक् विपाप्मा भवतीति ॥
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -733,7 +723,6 @@ unicode_script = "devanagari"
 12स यामियादि ॥ स विद्वान् यां दिशं सनिं भिक्षणं एष्यन् स्यात् यां दिशं भिक्षितुमेष्यन् स्यात् सननीयं भक्तं सनिं 'वन षण संभक्तौ' औणादिकं इप्रत्ययः । गत्यर्थत्वात् द्विकर्मकत्वम् । सन्येषणं वा ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 य॒दा तान्दिश॒व्ँवातो॑ वा॒यात् ।
@@ -790,7 +779,6 @@ unicode_script = "devanagari"
 अस्य कीर्तिस्तत्र प्रथमं प्रथते, अयमेव सर्वजनचित्तस्थो भवति । वेदितुरेव वा इदं फलम् ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 दान॑कामा अस्मै प्र॒जा भ॑वन्ति ।
@@ -813,5 +801,6 @@ unicode_script = "devanagari"
 
 इति तैत्तिरीयब्राह्मणे द्वितीयाष्टके तृतीयप्रपाठके नवमोऽनुवाकः ॥  
 
+</details>
 </details>
 </div>

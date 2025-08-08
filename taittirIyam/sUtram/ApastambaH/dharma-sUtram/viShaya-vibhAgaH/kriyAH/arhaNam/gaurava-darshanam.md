@@ -373,7 +373,6 @@ unicode_script: devanagari
 </details>
 </div>
 
-
 ## समावृत्तस्य गुरौ
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/07/27_anyatropasangrahaNAduchChiShTAshanAchchAchAryavadAchAryadAre_vRttiH.md">
 <details open><summary><h4>27 अन्यत्रोपसङ्ग्रहणादुच्छिष्टाशनाच्चाचार्यवदाचार्यदारे वृत्तिः ...{Loading}...</h4></summary>

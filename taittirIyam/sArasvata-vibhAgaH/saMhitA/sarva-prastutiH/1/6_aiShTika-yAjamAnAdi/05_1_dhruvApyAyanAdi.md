@@ -7,7 +7,6 @@ title = "०५.१ ध्रुवाप्यायनादि"
 १ विराट् स्थाना
 प्रजापतिर्ऋषिः
 
-
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -31,44 +30,62 @@ For each sacrifice for the worshippers;
 In the udder of the sun maiden, in the lap of Aditi,  
 Broad streamed be the earth at this sacrifice.
 </details>
+
 <details><summary>मूलम्</summary>
 
 आ प्या॑यतान्ध्रु॒वा घृ॒तेन॑ य॒ज्ञय्ँय॑ज्ञ॒म्प्रति॑ देव॒यद्भ्यः॑ ।   
 सू॒र्याया॒ ऊधोऽदि॑त्या उ॒पस्थ॑ उ॒रुधा॑रा पृथि॒वी य॒ज्ञे अ॒स्मिन्न्  ॥
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+एति॑ । प्या॒य॒ता॒म् । ध्रु॒वा । घृ॒तेन॑ । य॒ज्ञय्यँ॑ज्ञ॒मिति॑ य॒ज्ञम्-य॒ज्ञ॒म् । प्रतीति॑ । दे॒व॒यद्भ्य॒ इति॑ देव॒यत्-भ्यः॒ ॥   
+सू॒र्यायाः॑ । ऊधः॑ । अदि॑त्याः । उ॒पस्थ॒ इत्यु॒प-स्थे॒ । उ॒रुधा॒रेत्यु॒रु-धा॒रा॒ । पृ॒थि॒वी । य॒ज्ञे । अ॒स्मिन्न् ॥ 
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 इयं विराट्त्रिष्टुप् ॥ **आप्यायतां** वर्धतां सदा पूर्यतां **घृतेन ध्रुवा** । **यज्ञंयज्ञं प्रति** सर्वेषु यज्ञेषु । वीप्सायां प्रतेः कर्म-प्रवचनीयत्वम् । **देवयद्भ्यः** देवानात्मन इच्छद्भ्यः । 'न छन्दस्य् अपुत्रस्य' इतीत्वाभावः । देवान् वा **देवयद्भ्यः** तृप्तान् क्रीडयद्भ्यः ऋत्विग्भ्यः । यथा तेभ्यः पर्याप्तं भवति तथा **आप्यायताम्** । द्वितीयपक्षे लसार्वधातुकानुदात्तत्वाभावश् छान्दसः । सैव ध्रुवा विशेष्यते - सूर्यायास्सूर्यवत्याः द्योस्तिष्ठद्गोस्थनीयायाः ऊधः अधोगतापीनभाग स्थानीया । 'सूर्याद्देवतायां चाप्' । अदित्या अदीनायाः पृथिव्या उत्तानायाः उत्सङ्गस्थाना; सर्वोपजीव्यत्वात् । देवमातुरेव वोपस्थ उत्सङ्गः, देवानामुपलालनस्थानत्वात् ।  
 
 किञ्च - **उरुधारा** महाधारा सन्तत-प्रस्नवनी **पृथिवी** विस्तीर्णा । यद्वा - **उरुधारा पृथिवी** महार्थसाधनपृथिवीस्थानीया । तादृशी **ध्रुवा ऽस्मिन् यज्ञे** सर्वयज्ञार्थमाप्यायतामिति ॥
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+चतुर्थेऽनूयाजादिशेषहोमानुमन्त्रणमुक्तम्। पञ्चमे त्वाप्यायनादिमन्त्रा उच्यन्ते।  
+आ प्यायतामिति। कल्पः - ‘ध्रुवामाप्यायमानामनुमन्त्रयते - आ प्याययतां ध्रुवा घृतेन यज्ञंयज्ञं प्रति देवयद्भ्यः। सूर्याया ऊधोऽदित्या उपस्थ उरुधारा पृथिवी यज्ञे अस्मिन्निति’ इति।  
+
+यज्ञंयज्ञं प्रति तां तामाहुतिं प्रति देवयद्भ्यो देवान्होतुमिच्छद्भ्य ऋत्विग्भ्यः। पर्याप्तेन घृतेनेयं ध्रुवाऽऽप्यायतां पुनः पुनः पूर्यताम्। ऊधःशब्देन पयःपूर्णस्तनसंघोऽभिधीयते। सूर्याशब्देनोषा आदित्यपत्नी विवक्ष्यते। तत्पत्नीत्वं च नक्षत्रेष्टावाम्नायते – ‘उषा वा अकामयत। प्रियाऽऽदित्यस्य सुभगा स्यामिति’ (ब्रा॰ का॰ ३ प्र॰ १ अ॰ ६) इति। इवशब्दोऽत्राध्याहर्तव्यः। यथा सूर्याया गोरूपधारिण्या ऊधः पयःपूर्णं तथा ध्रुवा घृतेनाऽऽप्यायताम्। किंच, अदित्या वेदिरूपायाः पृथिव्या उपस्थ उत्सङ्गे वर्तमाना सेयं ध्रुवोरूधारा महाधारा पुनः पुनः सिच्यमानाभिराज्यधारामिरुपेताऽत एव पृथिवी विस्तीर्णा सत्यस्मिन्सर्वस्मिन्यज्ञे सम्यगाप्यायताम्। 
+</details>
 </details>
 </div>
-
-
-
 
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2यजमानभागं प्राश्नाति - प्रजापतेरिति ॥ 
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 प्र॒जाप॑तेर्वि॒भान्नाम॑ लो॒कस्तस्मिँ॑स्त्वा दधामि स॒ह यज॑मानेन 
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र॒जाप॑तेर् वि॒भान् नाम॑ लो॒कः  ।  
 </details>
+
 <details><summary>Keith</summary>
 
 Prajapati's is the world called Vibhan. 
 </details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑तेर्वि॒भान्नाम॑ लो॒कः  ।  
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 प्र॒जाप॑ते॒रिति॑ प्र॒जा-प॒तेः॒ । वि॒भानिति॑ वि-भान् । नाम॑ । लो॒कः । 
@@ -90,14 +107,17 @@ Prajapati's is the world called Vibhan.
 
 तस्मिँ॑स् त्वा दधामि स॒ह यज॑मानेन ।
 </details>
+
 <details><summary>Keith</summary>
 
 In it I place thee along with the sacrificer.
 </details>
+
 <details><summary>मूलम्</summary>
 
 तस्मिँ॑स्त्वा दधामि स॒ह यज॑मानेन ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 तस्मि॑न् । त्वा॒ । द॒धा॒मि॒ । स॒ह । यज॑मानेन ।
@@ -113,28 +133,32 @@ In it I place thee along with the sacrificer.
 विभान्नामके प्रजापतिसंबन्धिनि तस्मिन्भूलोके हविर्भागभक्षकेण यजमानेन मया सह त्वां स्थापयामि।
 </details>
 
-
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3पूर्णपात्र आनीयमाने यजमानं वाचयति - सदसीत्यादि ॥ 
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 सद॑सि॒ सन्मे॑ भूया॒स्सर्व॑मसि॒ सर्व॑म्मे भूयाᳶ पू॒र्णम॑सि पू॒र्णम्मे॑ भूया॒ अक्षि॑तमसि॒ मा मे॑ क्षेष्ठाः 
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सद् अ॑सि॒, सन् मे॑ भूयाः ।
 </details>
+
 <details><summary>Keith</summary>
 
 Thou art real, be real for me; 
 </details>
+
 <details><summary>मूलम्</summary>
 
 सद॑सि॒ सन्मे॑ भूयाः ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 सत् । अ॒सि॒ । सत् । मे॒ । भू॒याः॒ ।  
@@ -151,19 +175,21 @@ Thou art real, be real for me;
 पूर्णपात्र आनीयमानेऽध्वर्युणेति शेषः। हे पूर्णपात्र त्वं सदसि संयवनादिकार्यकारितया शोभनमसि। अतो मम फलप्रदानेन सद्भूयाः शोभनं भूयाः। 
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्व॑म् असि॒, सर्व॑म् मे भूयाः ।
 </details>
+
 <details><summary>Keith</summary>
 
 thou art all, be all for me;
 </details>
+
 <details><summary>मूलम्</summary>
 
 सर्व॑मसि॒ सर्व॑म्मे भूयाः ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 सर्व॑म् । अ॒सि॒ । सर्व॑म् । मे॒ । भू॒याः॒ ।  
@@ -183,14 +209,17 @@ thou art all, be all for me;
 
 पू॒र्णम् अ॑सि पू॒र्णम् मे॑ भूयाः ।
 </details>
+
 <details><summary>Keith</summary>
 
 thou art full, be full for me; 
 </details>
+
 <details><summary>मूलम्</summary>
 
 पू॒र्णम॑सि पू॒र्णम्मे॑ भूयाः ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 पू॒र्णम् । अ॒सि॒ । पू॒र्णम् । मे॒ । भू॒याः॒ ।  
@@ -210,14 +239,17 @@ thou art full, be full for me;
 
 अक्षि॑तम् असि॒ - मा मे॑ क्षेष्ठाः ।
 </details>
+
 <details><summary>Keith</summary>
 
 thou art imperishable, perish not for me.
 </details>
+
 <details><summary>मूलम्</summary>
 
 अक्षि॑तमसि॒ मा मे॑ क्षेष्ठाः ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 अक्षि॑तम् । अ॒सि॒ । मा । मे॒ । क्षे॒ष्ठाः॒ ।
@@ -238,18 +270,22 @@ _______
 
 4-8दिशो व्युत्सिञ्चति - प्राच्यामित्यादि ॥ अत्र ब्राह्मणम् । 'सर्वाणि वै भूतानि व्रतमुपयन्तमनूपयन्ति' इति । 
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राच्या॑न् दि॒शि दे॒वा ऋ॒त्विजो॑ +++(आत्मानं मां च)+++ मार्जयन्ताम्+++(=शोधयन्ताम्)+++ ।
 </details>
+
 <details><summary>Keith</summary>
 
 In the eastern quarter may the gods, the priests, make (me) bright; 
 </details>
+
 <details><summary>मूलम्</summary>
 
 प्राच्या॑न्दि॒शि दे॒वा ऋ॒त्विजो॑ मार्जयन्ताम् ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 प्राच्या॑म् । दि॒शि । दे॒वाः । ऋ॒त्विजः॑ । मा॒र्ज॒य॒न्ता॒म् । 
@@ -268,19 +304,21 @@ In the eastern quarter may the gods, the priests, make (me) bright;
 अत एव ब्राह्मणमाम्नायते – ‘सर्वाणि वै भूतानि व्रक्षमुपयन्तमनूपयन्ति’ इति। मासगृहादीनामचेतनत्वेऽपि तदभिमानिनः पुरुषा इह विवक्षिताः। अन्तर्धानादिशक्तियोगादेतेषामदर्शनमविरुद्धम्। त एते देवादयस्तस्यां तस्यां दिशि मार्जयन्तां शोधयन्ताम्।  
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दक्षि॑णायां [15] दि॒शि मासाः॑ पि॒तरो॑ मार्जयन्ताम्।  
 </details>
+
 <details><summary>Keith</summary>
 
 in the southern [1] quarter may the months, the fathers, make (me) bright; 
 </details>
+
 <details><summary>मूलम्</summary>
 
 दक्षि॑णायां [15] दि॒शि मासाः॑ पि॒तरो॑ मार्जयन्ताम्।  
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 दक्षि॑णायाम् । दि॒शि । मासाः॑ । पि॒तरः॑ । मा॒र्ज॒य॒न्ता॒म् । 
@@ -290,18 +328,22 @@ in the southern [1] quarter may the months, the fathers, make (me) bright;
 
 एतेन दक्षिणायामित्यादयो व्याख्याताः । मासास्त्रिंशदहोरात्रात्मकाः । पितरस्स्वपित्रादयः, सोमपितृमदादयश्च ।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र॒तीच्या॑न् दि॒शि गृ॒हाᳶ प॒शवो॑ मार्जयन्ताम् ।  
 </details>
+
 <details><summary>Keith</summary>
 
 in the western quarter may the houses, the cattle, make (me) bright; 
 </details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒तीच्या॑न्दि॒शि गृ॒हाᳶ प॒शवो॑ मार्जयन्ताम् ।  
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 प्र॒तीच्या॑म् । दि॒शि । गृ॒हाः । प॒शवः॑ । मा॒र्ज॒य॒न्ता॒म् । 
@@ -311,36 +353,42 @@ in the western quarter may the houses, the cattle, make (me) bright;
 
 गृहा आवसथाः येषु निवसन्ति जन्तवः । पशवः द्विविधाः ग्राम्या आरण्याश्च द्विचतुष्पदात्मकाः दोहनवहनादिकार्यक्षमाः ।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उदी॑च्यान् दि॒श्य् आप॒ ओष॑धयो॒ वन॒स्पत॑यो मार्जयन्ताम्
 </details>
+
 <details><summary>Keith</summary>
 
 in the northern quarter may the waters, the plants, the trees make (me) bright; 
 </details>
+
 <details><summary>मूलम्</summary>
 
 उदी॑च्यान्दि॒श्याप॒ ओष॑धयो॒ वन॒स्पत॑यो मार्जयन्ताम्
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 उदी॑च्याम् । दि॒शि । आपः॑ । ओष॑धयः । वन॒स्पत॑यः । मा॒र्ज॒य॒न्ता॒म् । 
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऊ॒र्ध्वाया॑न् दि॒शि य॒ज्ञस् स॑व्ँवत्स॒रो य॒ज्ञप॑तिर् मार्जयन्ताम् ।
 </details>
+
 <details><summary>Keith</summary>
 
 in the zenith may the sacrifice, the year, the lord of the sacrifice make (me) bright.
 </details>
+
 <details><summary>मूलम्</summary>
 
 ऊ॒र्ध्वाया॑न् दि॒शि य॒ज्ञस्स॑व्ँवत्स॒रो य॒ज्ञप॑तिर्मार्जयन्ताम् ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 ऊ॒र्ध्वाया॑म् । दि॒शि । य॒ज्ञः । स॒व्ँव॒त्स॒र इति॑ सम्-व॒त्स॒रः । य॒ज्ञप॑ति॒रिति॑ य॒ज्ञ-प॒तिः॒ । मा॒र्ज॒य॒न्ता॒म् । 

@@ -17,17 +17,14 @@ unicode_script: devanagari
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_01/01_uShNena_vAyavudakenehyaditiH.md">
 <details open><summary><h4>०१ उष्णेन वायवुदकेनेह्यदितिः ...{Loading}...</h4></summary>
 
-
-+++(उष्णा आपः शीतास्वानयति)+++ उ॒ष्णेन॑ वायवुद॒केनेह्य्, अदि॑तिः॒ केशा॑न् **वपतु** ।
++++(उष्णा आपः शीतास्वानयति)+++ उ॒ष्णेन॑ वायवुद॒केनेह्य्, अदि॑तिः॒ केशान्॑ **वपतु** ।
 
 </details>
 </div>
 
-
 उत्तरया +++(आप उन्दन्त्विऽत्येतया)+++ शिर उनत्ति ५  
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_01/02_Apa_undantu.md">
 <details open><summary><h4>०२ आप उन्दन्तु ...{Loading}...</h4></summary>
-
 
 +++(शिरस उन्दनम् = आर्द्रीकरणम्)+++ आप॑ **उन्दन्तु** जी॒वसे॑  
 दीर्घायु॒त्वाय॒ वर्च॑से ।  
@@ -44,13 +41,10 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/10_06_trIMstrIn.md">
 <details open><summary><h2>१० ०६ त्रींस्त्रीन् ...{Loading}...</h2></summary>
 
-
 त्रींस्त्रीन् दर्भान् अन्तर्धायोत्तराभिश् चतसृभिः +++("येनावपत्"इत्यादिभिः)+++ प्रतिमन्त्रं प्रतिदिशं प्रवपति ६  
-
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_01/03_yenAvapatsavitA_xureNa.md">
 <details open><summary><h4>०३ येनावपत्सविता क्षुरेण ...{Loading}...</h4></summary>
-
 
 +++(प्राच्यान्दिशि)+++ **येनाव॑पत्** सवि॒ता क्षु॒रेण॒  
 सोम॑स्य॒ राज्ञो॒ वरु॑णस्य वि॒द्वान् ।  
@@ -63,7 +57,6 @@ unicode_script: devanagari
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_01/04_yena_pUShA.md">
 <details open><summary><h4>०४ येन पूषा ...{Loading}...</h4></summary>
 
-
 +++(दक्षिणतः)+++ येन॑ पू॒षा बृह॒स्पते॑र् अ॒ग्नेर्  
 इन्द्र॑स्य॒ चाऽऽयु॒षे **ऽव॑पत्** ।  
 तेना॒स्याऽऽयु॑षे **वप॒**  
@@ -74,7 +67,6 @@ unicode_script: devanagari
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_01/05_yena_bhUyashcharAtyayanjyokcha.md">
 <details open><summary><h4>०५ येन भूयश्चरात्ययञ्ज्योक्च ...{Loading}...</h4></summary>
 
-
 +++(पश्चात्)+++ येन॒ भूय॒श् **चरा॑त्य्** अ॒यञ्,  
 ज्योक् च॒ **पश्या॑ति॒** सूर्य॑म् ।  
 तेना॒स्याऽऽयु॑षे **वप॒**  
@@ -84,7 +76,6 @@ unicode_script: devanagari
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_01/06_yena_pUShA.md">
 <details open><summary><h4>०६ येन पूषा ...{Loading}...</h4></summary>
-
 
 +++(उत्तरे)+++ येन॑ पू॒षा बृह॒स्पते॑र् अ॒ग्नेर्  
 इन्द्र॑स्य॒ चाऽऽयु॒षे **ऽव॑पत्** ।  
@@ -105,9 +96,8 @@ unicode_script: devanagari
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_01/07_yatxureNa_marchayatA.md">
 <details open><summary><h4>०७ यत्क्षुरेण मर्चयता ...{Loading}...</h4></summary>
 
-
 +++(नापितम् अनुमन्त्रयति-)+++ यत् क्षु॒रेण॑ म॒र्चय॑ता +++(=तीक्ष्णेन)+++  
-सुपे॒शसा॒ वप्त्रा॒ **वप॑सि॒** केशा॑न् ।  
+सुपे॒शसा॒ वप्त्रा॒ **वप॑सि॒** केशान्॑ ।  
 **शुन्धि॒** शिरो॒, मास्यायुः॒ **प्रमो॑षीः** ।
 
 </details>
@@ -123,7 +113,6 @@ unicode_script: devanagari
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_01/08_uptvAya_keshAn.md">
 <details open><summary><h4>०८ उप्त्वाय केशान् ...{Loading}...</h4></summary>
-
 
 **उ॒प्त्वास्य॒** केशा॒न् वरु॑णस्य॒ राज्ञो॒,  
 बृह॒स्पति॑स् सवि॒ता सोमो॑ अ॒ग्निः ।  

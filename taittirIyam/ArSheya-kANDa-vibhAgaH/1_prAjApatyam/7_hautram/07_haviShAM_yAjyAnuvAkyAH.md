@@ -3,8 +3,8 @@ title = "०७ हविषां याज्यानुवाक्याः
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/3/5_iShTi-hautrAdi/07_haviShAM_yAjyAnuvAkyAH"  newLevelForH1="1" includeTitle="true">
-
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/3/5_iShTi-hautrAdi/07_haviShAM_yAjyAnuvAkyAH">
+<details open><summary><h1>०७ हविषां याज्यानुवाक्याः ...{Loading}...</h1></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ॒ग्निर्मू॒र्धा दि॒वᳵ क॒कुत् ।  
@@ -320,7 +320,6 @@ unicode_script = "devanagari"
   - टीका  अथ तत्रैव स्विष्टकृतः पुरोनुवाक्यामाह— पिप्रीहि देवानिति ।   हे यविष्ठ युवतमाग्न उशतः कामयमानान्दवोन्पिप्रीह्यतिशयेन प्रीणय ।   हे स्त्रतुपते सूर्यात्मना कालपरिपालक त्वमृतून्कालविशेषा  २०३७ न्विद्वाञ्जानन्वर्तसे ।   तस्मादिहोचिते काले यज ।   देवेषु भवा ये दैव्या ऋत्विजः सन्ति ‘अग्निर्होता ।   अश्विनाऽध्वर्यू ।   त्वष्टाऽग्नीत्” इत्यादिनाऽऽम्रातास्तेमिर्स्तेदवैः सह त्वमस्य यजमानस्य संबन्धिनां होतॄणामृत्विजां मध्य आयजिष्ठः सर्वतो यष्टृतमोऽसि ।   
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 अ॒ग्निँ स्वि॑ष्ट॒कृत॑म् ।  
@@ -438,5 +437,6 @@ unicode_script = "devanagari"
 
 इति तैत्तिरीयब्राह्मणे तृतीये पञ्चमे सप्तमोऽनुवाकः ॥  
 
+</details>
 </details>
 </div>

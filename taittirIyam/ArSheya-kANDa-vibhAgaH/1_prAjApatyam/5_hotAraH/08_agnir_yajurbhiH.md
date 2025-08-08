@@ -2,9 +2,8 @@
 title = "०८ अग्निर् यजुर्भिः"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/08_agnir_yajurbhiH"  newLevelForH1="1" includeTitle="true">
-
-
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/08_agnir_yajurbhiH">
+<details open><summary><h1>०८ अग्निर् यजुर्भिः ...{Loading}...</h1></summary>
 <details><summary>भट्टभास्कर-टीका</summary>
 
 1अथ सम्भारयजूंषि अग्निर्यजुर्भिरित्यादीनि ॥ 'हृदयं यजूंषि पत्न्यश्च' इत्यादिषु विनियोगः । हृदयं 'सुवर्णं धर्मं' इत्यनुवाकः । एतानि यजूंषि । पत्न्यो वक्ष्यन्ते ‘सेनेन्द्रस्य' इत्यादयः । 
@@ -35,7 +34,6 @@ title = "०८ अग्निर् यजुर्भिः"
 सविता स्तोमैः त्रिवृदादिभिः यज्ञं सम्भृतवान् । एवं सर्वत्र । 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 स॒वि॒ता स्तोमैः॑ ।  
@@ -51,7 +49,6 @@ title = "०८ अग्निर् यजुर्भिः"
 उक्थामदैः स्तोत्रशस्त्रैः । 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 इन्द्र॑ उक्थाम॒दैः ।  
@@ -59,7 +56,7 @@ title = "०८ अग्निर् यजुर्भिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मि॒त्रावरु॑णावा॒शिषा॑ ।  
+मि॒त्रावरु॑णाव् आ॒शिषा॑ ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -67,13 +64,11 @@ title = "०८ अग्निर् यजुर्भिः"
 आशिषा प्रार्थनामन्त्रैः । गतमन्यत् । 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 मि॒त्रावरु॑णाव् आ॒शिषा॑ ।  
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अङ्गि॑रसो॒ धिष्णि॑यैर॒ग्निभिः॑ ।  
@@ -86,7 +81,7 @@ title = "०८ अग्निर् यजुर्भिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-म॒रुत॑स् सदो-हविर्-धा॒नाभ्या॑म् ।  
+म॒रुत॑स् सदो--हविर्-धा॒नाभ्या॑म् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -104,17 +99,15 @@ title = "०८ अग्निर् यजुर्भिः"
 आपः॒ प्रोक्ष॑णीभिः ।  
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ओष॑धयो ब॒र्हि॒षा॑ ।  
+ओष॑धयो बर्हि॒षा॑ ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
-ओष॑धयो ब॒र्हि॒षा॑ ।  
+ओष॑धयो बर्हि॒षा॑ ।  
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -126,7 +119,6 @@ title = "०८ अग्निर् यजुर्भिः"
 अदि॑ति॒र्वेद्या॑ ।  
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोमो॑ दी॒क्षया॑ ।  
@@ -151,7 +143,7 @@ title = "०८ अग्निर् यजुर्भिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विष्णु॑र्य॒ज्ञेन॑ ।  
+विष्णु॑र् य॒ज्ञेन॑ ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -159,7 +151,6 @@ title = "०८ अग्निर् यजुर्भिः"
 विष्णुर्यज्ञेन तद्वान् । 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 विष्णु॑र्य॒ज्ञेन॑ ।  
@@ -194,10 +185,10 @@ title = "०८ अग्निर् यजुर्भिः"
 
 विश्वे॑ दे॒वा ऊ॒र्जा ।
 </details>
-  
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पू॒षा स्व॑गाका॒रेण॑ ।  
+पू॒षा स्व॑गा-का॒रेण॑ ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -205,23 +196,20 @@ title = "०८ अग्निर् यजुर्भिः"
 स्वगाकारेण यथायथं हविस्स्वामिनां हविस्सम्बन्धकरणेन । 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 पू॒षा स्व॑गाका॒रेण॑ ।  
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-बृह॒स्पतिः॑ पुरो॒धया॑ ।  
+बृह॒स्-पतिः॑ पुरो॒धया॑ ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 पुरोधया प्राधान्येन, ब्रह्मत्वेन वा उद्गीथेन उद्गानेन द्वितीयया चतुर्थ्या वा विभक्त्या । 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -248,7 +236,6 @@ title = "०८ अग्निर् यजुर्भिः"
 पवित्रेण दशापवित्रेण । 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 अ॒न्तरि॑क्षं प॒वित्रे॑ण ।  
@@ -264,16 +251,14 @@ title = "०८ अग्निर् यजुर्भिः"
 पात्रैः उर्ध्वपात्रैः 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 वा॒युः पात्रैः॑ ।  
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒हँ श्र॒द्धया॑ ।  
+अ॒हँ श्र॒द्धया॑ ।+++(5)+++  
 (12)  
 </details>
 
@@ -283,12 +268,10 @@ title = "०८ अग्निर् यजुर्भिः"
 इत्यारण्यके तृतीये अष्टमोऽनुवाकः ॥  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 अ॒हँ श्र॒द्धया॑ ।  
 (12)  
 </details>
-
-
+</details>
 </div>

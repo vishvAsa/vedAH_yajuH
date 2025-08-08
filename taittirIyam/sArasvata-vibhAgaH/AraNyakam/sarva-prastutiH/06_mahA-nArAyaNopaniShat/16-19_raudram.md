@@ -10,13 +10,10 @@ title = "१६-१९ रौद्रम्"
 विश्वं॑ भू॒तं  भुव॑नञ्चि॒त्रं ब॑हु॒धा जा॒तञ्जाय॑मानञ्च॒ यत् ।  
 सर्वो॒ ह्ये॑ष रु॒द्रस्तस्मै॑ रु॒द्राय॒ नमो॑ अस्तु ॥ (31)
 
-
-
 ## 17
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/17_kad_rudrAya.md">
 <details open><summary><h5>१७ कद् रुद्राय ...{Loading}...</h5></summary>
-
 
 कद्रु॒द्राय॒ प्रचे॑तसे  
 मी॒ढुष्ट॑माय॒ तव्य॑से ।  
@@ -24,17 +21,12 @@ title = "१६-१९ रौद्रम्"
 </details>
 </div>  
 
-
 सर्वो॒ ह्ये॑ष रु॒द्रस्  
 तस्मै॑ रु॒द्राय॒ नमो॑ अस्तु । (32)
-
-
 
 ## 18
 
 नमो हिरण्यबाहवे हिरण्यपतये ऽम्बिकापतय उमापतये॑ नमो॒ नमः । (33)
-
-
 
 ## 19
 

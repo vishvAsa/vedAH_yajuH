@@ -18,13 +18,17 @@ unicode_script: devanagari
 
 यथोक्तमादानं विधत्ते — देवस्य त्वा सवितुः प्रसव इति स्फ्यमादत्ते प्रसूत्यै । 
 </details>
-
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/04_havir-nirvApaH/ashvinor_bAhubhyAm.md"  newLevelForH1="5" includeTitle="false"> 
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/04_havir-nirvApaH/ashvinor_bAhubhyAm.md">
+<details open><summary><h5>अ॒श्विनो॑र् बा॒हुभ्या॒म् ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"अ॒श्विनो॑र् बा॒हुभ्या॒म्" इत्य् आ॑ह ।
+"अ॒श्विनो॑र् बा॒हुभ्या॒म्" इत्य् आ॑ह ।  
 अ॒श्विनौ॒ हि दे॒वाना॑म् अध्व॒र्यू आस्ता॑म् ।
+</details>
+
+<details><summary>Keith</summary>
+
+'With the arms of the Aśvins', he says, for the Aśvins were the Adhvaryus of the gods. 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -33,14 +37,31 @@ unicode_script: devanagari
 अ॒श्विनौ॒ हि दे॒वाना॑मध्व॒र्यू आस्ता॑म् ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अ॒श्विनोः॑ । बा॒हुभ्या॒मिति॑ बा॒हु-भ्या॒म् । इति॑ । आ॒ह॒ ।
+अ॒श्विनौ॑ । हि । दे॒वाना॑म् । अ॒ध्व॒र्यू इति॑ । आस्ता॑म् ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अध्वर्यू इति । अध्वरस्य नेतारौ मणिबन्धादुपरि वा स्तः ।
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+अश्विनोर्बाहुभ्यामित्याह। अश्विनौ हि देवानामध्वर्यू आस्ताम्। 
+
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"पू॒ष्णो हस्ता॑भ्या॒म्" इत्य् आ॑ह॒ यत्यै॑ ।
+"पू॒ष्णो हस्ता॑भ्या॒"म् इत्य् आ॑ह॒ यत्यै॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+'With the hands of Pusan', he says, for restraint. 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -48,43 +69,49 @@ unicode_script: devanagari
 "पू॒ष्णो हस्ता॑भ्या॒"मित्या॑ह॒ यत्यै॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+पू॒ष्णः । हस्ता॑भ्याम् । इति॑ । आ॒ह॒ । यत्यै॑ । 4 ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
-यत्यै यमनाय धारणाय ॥
+**यत्यै** यमनाय धारणाय ॥
 </details>
-</div>  
 
+<details><summary>सायण-टीका</summary>
 
+पूष्णो हस्ताभ्यामित्याह यत्यै (ब्रा. का.३ प्र.२ अ.९) इति ।
+
+</details>
+</details>
+</div>
 <details><summary>भट्टभास्कर-टीका</summary>
 
 1देवस्य त्वेति स्फ्यादानम् ॥ गतम् ॥
 </details>
-
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/09_vedikaraNam/indrasya_bAhuH.md" unfilled newLevelForH1="5" includeTitle="false">   
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-"आद॑दे।"
-</details>
-
-<details><summary>मूलम्</summary>
-
-"आद॑दे।"
-</details>
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/09_vedikaraNam/indrasya_bAhuH.md">
+<details open><summary><h5>इन्द्रस्य बाहुः ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "इन्द्र॑स्य बा॒हुर् अ॑सि॒ दक्षि॑ण॒" इत्य् आ॑ह ।  
-इ॒न्द्रि॒यम् ए॒व यज॑माने दधाति ।  
+इ॒न्द्रि॒यम् ए॒व यज॑माने दधाति ।
 </details>
 
 <details><summary>मूलम्</summary>
 
 "इन्द्र॑स्य बा॒हुर् अ॑सि॒ दक्षि॑ण॒" इत्य् आ॑ह ।  
-इ॒न्द्रि॒यम् ए॒व यज॑माने दधाति ।  
+इ॒न्द्रि॒यम् ए॒व यज॑माने दधाति ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+मन्त्रस्य प्रथमभाग इन्द्रशब्दविविक्षामाह — ‘आदद इन्द्रस्य बाहुरसि दक्षिण इत्याह । इन्द्रियमेव यजमाने दधाति’ (ब्रा. का.३ प्र.२ अ.९) इति । अत्राऽऽदद इति पदं पूर्वमन्त्रस्वरूपम् । तच्च स्पष्टार्थम् । इन्द्रस्येति मन्त्रादिः ।  
+_________________________________________________________
+इन्द्रस्य बाहुरसि दक्षिण इत्याह। इन्द्रियमेव यजमाने दधाति। 
+</details>
 </details>
 </div>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "स॒हस्र॑-भृष्टिश् श॒तते॑जा॒" इत्य् आ॑ह ।  
@@ -837,7 +864,7 @@ unicode_script: devanagari
 पुरी॑षवतीङ्करोति ।  
 प्र॒जा वै प॒शव॒ᳶ पुरी॑षम् ।  
 प्र॒जयै॒वैन॑म्प॒शुभि॒ᳶ पुरी॑षवन्तङ्करोति ।  
-</details> 
+</details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -894,7 +921,6 @@ unicode_script: devanagari
 मन्त्रार्थो मन्त्रपदेष्वेवाभिव्यक्त इत्याह — “ऋतमस्यृतसदनमस्यृतश्रीरसीत्याह । यथायजुरेवैतत्” (ब्रा. का. ३ प्र. २ अ. ९) इति।
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्रू॒रम् इ॑व॒ वा ए॒तत् क॑रोति॒ यद् वेदि॑ङ् **क॒रोति॑** ।    
@@ -907,7 +933,6 @@ unicode_script: devanagari
 यद्वेदि॑ङ्क॒रोति॑ ।
 धा अ॑सि स्व॒धा अ॒सीति॑ योयुप्यते॒ शान्त्यै॑ ।
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -1109,7 +1134,6 @@ unicode_script: devanagari
 <details><summary>भट्टभास्कर-टीका</summary>
 
 14स्फ्यमित्यादि ॥ गतम् ॥
-
 
 इति तैत्तिरीये ब्राह्मणे तृतीये द्वितीये नवमः ॥  
 

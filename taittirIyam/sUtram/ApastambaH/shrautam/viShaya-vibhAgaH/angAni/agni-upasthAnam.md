@@ -23,7 +23,6 @@ unicode_script: devanagari
 </details>
 </div>  
 
-
 ## आहवनीये
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/16/01_agnyupasthAnaM_vyAkhyAsyAmaH.md">
 <details open><summary><h2>01 अग्न्युपस्थानं व्याख्यास्यामः ...{Loading}...</h2></summary>
@@ -183,7 +182,7 @@ unicode_script: devanagari
 </div>  
 
 ## आहवनीये
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../kriyAH/svastyayana/"></div>  
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../kriyAH/svastyayanam/"></div>  
 
 ### साधारणभागः
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/17/12_mA_naH_shaMso.md">

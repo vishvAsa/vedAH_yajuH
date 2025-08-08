@@ -48,7 +48,6 @@ unicode_script: devanagari
 </div>
   
 
-
 ### सुरा
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/25/03_surApo-gnisparshAM_surAm_pibet.md">
 <details open><summary><h4>03 सुरापोऽग्निस्पर्शां सुराम् पिबेत् ...{Loading}...</h4></summary>
@@ -63,7 +62,6 @@ unicode_script: devanagari
 </details>
 </div>
   
-
 
 ## वाग्दोषे
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/26/03_anAkroshyamAkrushyAnRtaM_voktvA_trirAtramaxIrAxArAlavaNabhojanam.md">
@@ -218,7 +216,6 @@ unicode_script: devanagari
 <details open><summary><h4>15 आतमितोः प्राणमायच्छेदित्येके १५ ...{Loading}...</h4></summary>
 
 आतमितोः प्राणमायच्छेदित्येके +++(तावद् वा प्राणान् आयमयेद् यावद् अङ्गग्लानिर् न स्यात्)+++१५  
-
 
 </details>
 </div>
@@ -668,7 +665,6 @@ unicode_script: devanagari
 </div>
   
 
-
 ### भ्रूणहा
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/10/28/21_atha_bhrUNahA_shvAjina~N.md">
 <details open><summary><h4>21 अथ भ्रूणहा श्वाजिनङ् ...{Loading}...</h4></summary>
@@ -746,7 +742,6 @@ unicode_script: devanagari
 चक्षुनिरोधस्त्वेतेषु ब्राह्मणस्य १७
 </details>
 </div>
-
 
 ### प्राणिहत्यायाम्
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/25/13_vAyasaprachalAkabarhiNachakravAkahaMsabhAsamaNDUkanakulaDerikAshvahiMsAyAM_shUdra_vatprAyashchittam.md">

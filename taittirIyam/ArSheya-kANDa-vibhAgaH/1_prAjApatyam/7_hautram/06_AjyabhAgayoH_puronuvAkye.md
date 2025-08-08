@@ -3,8 +3,8 @@ title = "०६ आज्यभागयोः पुरोनुवाक्य
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/3/5_iShTi-hautrAdi/06_AjyabhAgayoH_puronuvAkye"  newLevelForH1="1" includeTitle="true">
-
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/3/5_iShTi-hautrAdi/06_AjyabhAgayoH_puronuvAkye">
+<details open><summary><h1>०६  आज्यभागयोः पुरोनुवाक्ये ...{Loading}...</h1></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ॒ग्निर्वृ॒त्राणि॑ जङ्घनत् ।  
@@ -116,5 +116,6 @@ unicode_script = "devanagari"
 
 इति तैत्तिरीयब्राह्मणे तृतीये पञ्चमे षष्ठोऽनुवाकः ॥  
 
+</details>
 </details>
 </div>

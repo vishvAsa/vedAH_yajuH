@@ -28,20 +28,19 @@ title = "भू-सूक्तम्"
 In thy lap, O goddess Aditi, Agni  
 I place, food-eater for the eating of food.
 </details>
+
 <details><summary>मूलम्</summary>
 
 भूमि॑र्भू॒म्ना द्यौर्व॑रि॒णाऽन्तरि॑क्षम्महि॒त्वा ।  
 उ॒पस्थे॑ ते देव्यदिते॒ऽग्निम॑न्ना॒दम॒न्नाद्या॒याऽऽद॑धे  ॥
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 प्रथमोपरिष्टाद्भृहती, अन्त्यस्य पादस्य द्वादशाक्षरत्वात् । हे देवि **अदिते** अखाण्डिते भूमे । आहवनीयो भूमित्वेन स्तूयते । **भूम्ना** बहुत्वेन विपुलत्वेन त्वं भूमिरेवासि । **द्यौर्** असि त्वं **वरिणा** उरुत्वेन । ताद्धर्म्यात्ताच्छब्द्यम् । अ[म?]कारलोपश्छान्दसः । अन्तरिक्षमसि माहित्वा माहात्म्येन । व्यञ्जनविपर्ययः । सर्वत्रोदात्तनिवृत्तिस्वरेण तृतीयाया उदात्तत्वम् । महित्वशब्दात्तृतीयाया आकारो वा । अत्र **तवोपस्थे** उत्सङ्गे गार्हपत्यात्मनि अग्निमन्नादमन्नस्य हविषोत्तारं **अन्नाद्याय** अन्नादनसामर्थ्यात्मिकायै ऋद्ध्यै **आदधे** स्थापयामि । पचाद्यचि **अन्नादः** । इतरत्र छान्दसो भावे यत् । 'लघावन्ते' इति मध्योदात्त उपस्थशब्दः । मरुद्वृधादित्वाद्वा ॥
 </details>
 </details>
 </div>
-
-
-
 
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -65,11 +64,13 @@ And reached again the mother
   
 And the father, faring to the heaven.
 </details>
+
 <details><summary>मूलम्</summary>
 
 आऽयङ्गौᳶ पृश्ञि॑रक्रमी॒दस॑नन्मा॒तर॒म्पुनः॑ ।  
 पि॒तर॑ञ्च प्र॒यन्त्सुवः॑  ॥
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 इदानीमादित्यात्मना स्तूयते - **अयम् अग्निः गौर्** आदित्यात्मा गच्छतीति **गौः** गमनशीलः **पृश्निः** शुक्लवर्णः आदित्यानामे[मै]व वा । **आक्रमीत्** अयमेवादित्यात्मना विश्वम् आक्रामतीति । 
@@ -80,9 +81,6 @@ And the father, faring to the heaven.
 </details>
 </details>
 </div>
-
-
-
 
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -106,11 +104,13 @@ Thirty places be ruleth;
 Speech resorteth to the bird  
 Bear it with the days.
 </details>
+
 <details><summary>मूलम्</summary>
 
 त्रिँ॒शद्धाम॒ वि रा॑जति॒ वाक्प॑त॒ङ्गाय॑ शिश्रिये ।  
 प्रत्य॑स्य वह॒ द्युभिः  ॥
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 **त्रिंशद् धामानि** स्थानानि **विराजति** प्रकाशवद् भवति । उभयत्रापि वचनव्यत्ययः । त्रिंशन् मुहूर्ता उच्यन्ते । [पञ्चदशाह्नः]पञ्चदश रात्रेः । 
@@ -147,11 +147,13 @@ With her inspiration from his expiration,
 She wandereth between the worlds;  
 The bull discerneth the heaven.
 </details>
+
 <details><summary>मूलम्</summary>
 
 अ॒स्य प्रा॒णाद॑पान॒त्य॑न्तश्च॑रति रोच॒ना ।  
 व्य॑ख्यन्महि॒षस्सुवः॑  ॥
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अपानतीति प्रथमपादान्तः । अस्याग्नेः **रोचना** दीप्तिः रोचनशीला । 'अनुदात्तेतश्च' इति युच् । **अन्तश्** शरीरेषु **चरति** । किं कुर्वती **प्राणात्** प्राणनव्यापारात् अनन्तरम् **अपानती** अपाननव्यापारं कुर्वती । जीवानां ऊर्ध्वगमनं प्राणनं, अधोगमनम् अपाननम् । जीवश्श्वासवायुः ।  
@@ -163,9 +165,6 @@ The bull discerneth the heaven.
 </details>
 </details>
 </div>
-
-
-
 
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -190,6 +189,7 @@ In rage or through misfortune,
 That of thee, O Agni, be in good order,  
 Again thee we relight.
 </details>
+
 <details><summary>मूलम्</summary>
 
 यत्त्वा॑ [10] क्रु॒द्धᳶ प॑रो॒वप॑ ..  
@@ -197,6 +197,7 @@ Again thee we relight.
 सु॒कल्प॑मग्ने॒ तत्तव॒ ..  
 पुन॒स्त्वोद्दी॑पयामसि  ॥
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तवेति तृतीयपादान्तः ॥ **यत्** येन कारणेन ऋद्ध्यभावेन **क्रुद्धो** ऽहं त्वामपि **परोवप** परोप्तवान् उद्वासितवानस्मि । 'णलुत्तमो वा' इति णित्त्वाभावः । 'यद्वृत्तान्नित्यम्' इति निघाताभावे 'तिङि चोदात्तवति' इति गतेरनुदात्तत्वम्, समासश्च । लिति प्रत्ययात्पूर्वस्योदात्तत्वम् । 
@@ -205,9 +206,6 @@ Again thee we relight.
 </details>
 </details>
 </div>
-
-
-
 
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -232,11 +230,13 @@ Was spread over the earth,
 That the Adityas, the All-gods  
 And the Vasus gathered together.
 </details>
+
 <details><summary>मूलम्</summary>
 
 यत्ते॑ म॒न्युप॑रोप्तस्य पृथि॒वीमनु॑ दध्व॒से ।  
 आ॒दि॒त्या विश्वे॒ तद्दे॒वा वस॑वश्च स॒माभ॑रन्न्  ॥
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 **ते** तव **मन्युपरोप्तस्य** मन्युना हेतुना मयोद्वासितस्य । 'तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् । **यत्** तेजः **पृथिवीम् अनुदध्वसे** ध्वस्तं पृथिवीम् अनुप्रविश्य वा नष्टं बभूव **तदादित्या विश्वे देवा वसवश्च समाभरन्** समाभरन्तु । 'हृग्रहोः' इति भत्वम् ॥
@@ -245,7 +245,6 @@ And the Vasus gathered together.
 </div>
 </details>
 </div>  
-
 
 [[68]]
 
@@ -272,10 +271,8 @@ And the Vasus gathered together.
 तन् नो॑ धरा प्रचो॒दया॑त् ॥  
 (स्वाहा॑ ॥ धुनुर्धराया इदं न मम)
 
-
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/13_shRNvanti_shroNAmamRtasya.md">
 <details open><summary><h2>13 शृण्वन्ति श्रोणाममृतस्य ...{Loading}...</h2></summary>
-
 
 **शृ॒ण्वन्ति॑** श्रो॒णाम् अ॒मृत॑स्य गो॒पाम्।  
 पुण्या॑म् अस्या॒ **उप॑शृणोमि॒** वाच॑म्।  
@@ -289,7 +286,6 @@ And the Vasus gathered together.
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/14_tredhA_viShNururugAyo.md">
 <details open><summary><h2>14 त्रेधा विष्णुरुरुगायो ...{Loading}...</h2></summary>
-
 
 त्रे॒धा विष्णु॑र् उरु-गा॒यो+++(गेयो)+++ **विच॑क्रमे**।  
 म॒हीन् दिव॑म् पृथि॒वीम् अ॒न्तरि॑क्षम्।  

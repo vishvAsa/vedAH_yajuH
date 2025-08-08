@@ -3,8 +3,8 @@ title = "१७ होतृप्रशंसाप्रसङ्गेन क
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/3_hotR-brAhmaNAdi/06_hotRprashaMsAprasangena_kratUnAm_RtvigvisheShav"  newLevelForH1="1" includeTitle="true">
-
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/3_hotR-brAhmaNAdi/06_hotRprashaMsAprasangena_kratUnAm_RtvigvisheShav">
+<details open><summary><h1>०६ होतृप्रशंसाप्रसङ्गेन क्रतूनाम् ऋत्विग्विशेषव्यवस्थापनं, अग्निहोत्रस्य प्राशस्त्यं च ...{Loading}...</h1></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र॒जाप॑तिᳶ प्र॒जास्सृ॒ष्ट्वा व्य॑स्रँसत ।
@@ -37,12 +37,12 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"आत्म॒॒न् हा ३" इत्यह्व॑यत् ।
+"आत्म॒न् हा ३" इत्यह्व॑यत् ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-"आत्म॒॒न् हा ३" इत्यह्व॑यत् ।
+"आत्म॒न् हा ३" इत्यह्व॑यत् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -95,7 +95,6 @@ unicode_script = "devanagari"
 अथापः कुसिंन्धं कबन्धं कळेबरं कण्ठात्पूर्वं उपौहन् उपायन् प्रजापतये निष्पादितवत्यः । कुशिमात्मकोशं दधातीति कृशिन्धः । पृषोदरादिः ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तस्मा॑दग्निहो॒त्रस्य॑ यज्ञक्र॒तोः ।
@@ -116,7 +115,6 @@ unicode_script = "devanagari"
 
 यस्मात्सकृदाह्वाने आपः प्रतिश्रुत्य अग्निहोत्रेण सहागताः, तस्मादग्निहोत्रस्य एक एवर्त्विक् अध्वर्युः ।
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -184,7 +182,6 @@ unicode_script = "devanagari"
 ते चत्वार्यङ्गानि हस्तौ पादौ चोपौहन् ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तस्मा॑द्दर्शपूर्णमा॒सयो॑र्यज्ञक्र॒तोः ।
@@ -227,7 +224,6 @@ unicode_script = "devanagari"
 3-6एवं पञ्चकृत्व इत्यादि व्याख्येयम् ॥ सर्वत्र यागरूपस्याभिन्नत्वात् यज्ञक्रतोरित्येकवचनम् । यथा - 'वसवो देवता रुद्रा देवता' इति । लोमादीनि पञ्च । छवो त्वक् । 'कृदिकारादक्तिनः' इति ङीष् ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तस्मा॑च्चातुर्मा॒स्याना॑य्ँयज्ञक्र॒तोः ॥ 24 ॥  
@@ -264,7 +260,6 @@ unicode_script = "devanagari"
 ते प॑शुब॒न्धेनै॒व य॑ज्ञक्र॒तुनोप॑प॒र्याव॑र्तन्त ।  
 त उपौ॑ह॒न्त्स्तना॑वा॒ण्डौ शि॒श्ञमवा॑ञ्चम्प्रा॒णम् ।
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -320,7 +315,6 @@ unicode_script = "devanagari"
 
 सप्तशीर्षण्यानिति । द्वे चक्षुषी द्वे श्रोत्रे द्वे नासिके एकमास्यमिति ।
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -392,7 +386,6 @@ unicode_script = "devanagari"
 तस्मात्संवत्सरे क्रतौ अन्ये सर्वेऽपि यज्ञक्रतवोऽवरुध्यन्ते प्रकृतिविकृतिरूपेण सर्वे तत्रान्तर्भवन्ति ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तस्मा॒द्दश॑होता॒ चतु॑र्होता ।  
@@ -419,7 +412,6 @@ unicode_script = "devanagari"
 तस्मादित्यादि । यस्मादेवमग्निहोत्रेण एकहोत्रा प्रथमं कुसिन्धे उपानीते पश्चाद्दर्शपूर्णमासादिभिरङ्गैरुपकृतं, तस्माद्दशहोत्रादयः पञ्चापि आत्मविशेषा एकहोत्रे परस्मै आत्मने बलिं हरन्ति उपकुर्वन्ति ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 ऐन॒मप्र॑तिख्यातङ्गच्छति ।  
@@ -441,5 +433,6 @@ unicode_script = "devanagari"
 एवं वेदित्रे सर्वाः प्रजाः बलिं हरन्ति प्रतिख्यातरहितं चैश्वर्यमेनमागच्छति ॥
 इति तैत्तिरीयब्राह्मणे द्वितीयाष्टके तृतीयप्रपाठके षष्ठोऽनुवाकः ॥  
 
+</details>
 </details>
 </div>

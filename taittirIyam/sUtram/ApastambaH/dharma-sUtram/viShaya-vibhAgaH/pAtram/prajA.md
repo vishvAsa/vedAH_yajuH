@@ -58,7 +58,6 @@ unicode_script: devanagari
 </div>
   
 
-
 ## प्रजा-पाप-फलम्
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/24/09_tatra_ye_pApakRtasta.md">
 <details open><summary><h4>09 तत्र ये पापकृतस्त ...{Loading}...</h4></summary>
@@ -131,7 +130,6 @@ unicode_script: devanagari
 मा वः क्षेत्रे परबीजानि वाप्सुः ।  
 जनयितुः पुत्रो भवति सांपराये  
 मोघं वेत्ता कुरुते तन्तुमेतम् ६ इति।  
-
 
 </details>
 </div>

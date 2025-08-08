@@ -11,6 +11,7 @@ title = "२१ सौत्रामणीमन्त्रादि"
  २-३ गायत्री, ४ त्रिष्टुप्, ७ एकपदा त्रिष्टुप्
 विश्वेदेवा ऋषयः
 </details>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1अथ राजसूयेनेष्ट्वा सौत्रामण्या यजेत, तामधिकृत्योच्यते । वैश्वदेवं काण्डम् ।  
@@ -30,15 +31,18 @@ title = "२१ सौत्रामणीमन्त्रादि"
 
 the sacrificial fee is the northern drawer of the chariot stand.
 </details>
+
 <details><summary>मूलम्</summary>
 
 स्वा॒द्वीन्त्वा॑ स्वा॒दुना॑ ती॒व्रान्ती॒व्रेणा॒मृता॑म॒मृते॑न सृ॒जामि॒ सम्
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 इयं गायत्री, एकादशकः पादः, अभितस्सप्तकः ॥
 सुराभिप्रायेणाह – स्वाद्वीं स्वादुरसां स्वादुना स्वादुरसेनानेन तीव्रामुत्कृष्टां त्वां तीव्रेनोत्कृष्टेनानेन । यद्वा - उत्कृष्टरसत्वं तीव्रत्वम् । तीव स्थौल्ये, औणाणादिको रप्रत्ययः । अमृतां अमृतत्वहेतुं त्वां अमृतेनामृतत्वहेतुनानेन सोमेन सोमसदृशेन प्रशस्तेन संसृजामि । पादादित्वान्न निहन्यते । 'सोममेवैनां करोति' इत्यादिब्राह्मणम् । यद्वा - सम्यक् सृजामि सोमेन समायुत्य पादयामि । ओदनं करोमि ॥
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 सोमे॑न॒ सोमो॑ऽस्य॒श्विभ्या॑म्पच्यस्व॒ सर॑स्वत्यै पच्य॒स्वेन्द्रा॑य सु॒त्राम्णे॑ पच्यस्व
@@ -49,6 +53,7 @@ the sacrificial fee is the northern drawer of the chariot stand.
 
 2तामुपरिस्थितामभिमृशति - सोमोसीति ॥ 
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोमे॑न॒ सोमो॑ऽसि।
@@ -56,10 +61,12 @@ the sacrificial fee is the northern drawer of the chariot stand.
 सर॑स्वत्यै पच्यस्व ।  
 इन्द्रा॑य सु॒-त्राम्णे॑ पच्यस्व ।  
 </details>
+
 <details><summary>Keith</summary>
 
 thou art Soma; be ready for the Aśvins, be ready for Sarasvati, be ready for Indra, the good protector.
 </details>
+
 <details><summary>मूलम्</summary>
 
 सोमे॑न॒ सोमो॑ऽसि।  
@@ -70,12 +77,14 @@ thou art Soma; be ready for the Aśvins, be ready for Sarasvati, be ready for In
 
 इन्द्रा॑य सु॒त्राम्णे॑ पच्यस्व ।  
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 सोमवत्प्रशस्तोसि । अश्विभ्यामश्व्यर्थं पच्यस्व सुरारूपेण । कर्मवद्भावात् यगात्मनेपदे, स्वयमेव पच्यस्वेति ।   
 सरस्वत्यै पच्यस्व ।
 इन्द्राय सुत्रामृणे । सुष्ठु त्रायते शत्रुभ्य इति सुत्रामा । 'आतो मनिन्' इति मनिन् । 'एताभ्यो ह्येषा देवताभ्यः पच्यते' इत्यादि ब्राह्मणम् । यद्वा - सोमोसि सोमसमो वा भव । पावनो भव । सुनोतेःक्रन् सुरा तत एव मन्प्रत्यये सोमः ॥
 </details>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3सुरां पुनाति वालेन - पुनात्विति गायत्र्या ॥ 
@@ -96,11 +105,13 @@ Let the daughter of the Sun
 Purify for thee the flowing Soma  
 With the eternal sieve.
 </details>
+
 <details><summary>मूलम्</summary>
 
 पु॒नातु॑ ते परि॒स्रुतँ॒ सोमँ॒ सूर्य॑स्य दुहि॒ता ।  
 वारे॑ण॒ शश्व॑ता॒ तना॑  ॥
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हे इन्द्र तव **ते** तुभ्यं वा  
@@ -141,11 +152,13 @@ Vayu purified by the strainer,
 Soma hath sped away,  
 Indra's dear friend.
 </details>
+
 <details><summary>मूलम्</summary>
 
 वा॒युᳶ पू॒तᳶ प॒वित्रे॑ण प्र॒त्यङ्क्सोमो॒ अति॑द्रुतः ।   
 इन्द्र॑स्य॒ युज्य॒स्सखा॑  ॥
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 **पवित्रेणानेन पूतस्सोमः इन्द्रस्य युज्यः सखा** ।  
@@ -179,11 +192,13 @@ Reap the barley in order, removing it,
 Hither bring the food of those  
 Who have not gone to the reverential cutting of the straw.
 </details>
+
 <details><summary>मूलम्</summary>
 
 कु॒विद॒ङ्ग यव॑मन्तो॒ यव॑ञ्चि॒द्यथा॒ दान्त्य॑नुपू॒र्वव्ँवि॒यूय॑ ।   
 इ॒हेहै॑षाङ्कृणुत॒ भोज॑नानि॒ ये ब॒र्हिषो॒ नमो॑वृक्ति॒न्न ज॒ग्मुः  ॥
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 **कुविद्** इति बहु-प्रसिद्धानुवादे । अङ्गेत्यप्रातिलोम्ये बहुप्रसिद्धमेतत् सर्वानुकूलमिति द्योतयतः । किम्पुनस्तत् ? आह - **यवमन्तः** बहुयवाः । यवग्रहणेन यवितव्या यव-मुद्ग-व्रीहि-गोधूमादयो धान्यविशेषा गृह्यन्ते । भूम्नि मतुप् । 'यथा चित्' इति द्वे अप्युपमानार्थे, एकानेकोपमेयत्वादुपमायाः । यवमिति जातावेकवचनम् ।  
@@ -197,6 +212,7 @@ Who have not gone to the reverential cutting of the straw.
 सर्वत्र स्थानेस्थाने गृहेगृहे लोकेलोके वा । 'अनुदात्तं च' इति द्वितीयस्य निघातः ।  
 **वियूयेति** यौतेर्ल्यपि छान्दसो दीर्घः । उक्तमेषां भोजनानि कृणुतेति, केषामित्याह - ये बर्हिषो यज्ञस्य **नमोवृक्तिं** नमस्कारनाशनं सान्नस्य[साङ्गस्य]नाशनं **न जमुर्** न गताः ये यज्ञस्य नमस्कारादिकं न नाशयन्ति अस्माकमुपकारिणः तेषां कृणुत । ये पुनर्नाशयन्ति ते त्वनेन विनाश्यन्ताम् । यथोक्तं 'नमोवृक्तिमेवैषां वृङ्क्ते' इति । नमश्शब्दे ऊर्यादिगतित्वात् 'तादौ च निति' इति प्रकृतिस्वरत्वम् ॥
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 आ॒श्वि॒नन्धू॒म्रमा ल॑भते सारस्व॒तम्मे॒षमै॒न्द्रमृ॑ष॒भमै॒न्द्रमेका॑दशकपाल॒न्निर्व॑पति सावि॒त्रन्द्वाद॑शकपालव्ँवारु॒णन्दश॑कपालँ॒ सोम॑प्रतीकाᳶ पितरस्तृप्णुत॒ वड॑बा॒ दक्षि॑णा ॥
@@ -207,40 +223,48 @@ Who have not gone to the reverential cutting of the straw.
 
 6अथ त्रीन् पशून् विदधाति - आश्विनमिति ॥ 
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ॒श्वि॒नन् धू॒म्रम् +++(वृषम्)+++ **आ ल॑भते**,  
 सारस्व॒तम् मे॒षम्,    
 ऐै॒न्द्रम् ऋ॑ष॒भम्  ।
 </details>
+
 <details><summary>Keith</summary>
 
 To the Aśvins he sacrifices a dusky (ox), to Sarasvati a ram, to Indra a bull.
 </details>
+
 <details><summary>मूलम्</summary>
 
 आ॒श्वि॒नन्धू॒म्रमा ल॑भते ।  
 सारस्व॒तम्मे॒षम् +++(आलभते)+++ ।    
 ऐै॒न्द्रमृ॑ष॒भम्  +++(आलभते)+++ ।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 आश्विनं धूम्रललाममालभते । सारस्वतं सरस्वत्यै मेषम् । ऐन्द्रमृषभम् । सुराग्रहाश्च त्रयो भवन्ति आश्विनसारस्वतैन्द्राः ॥
 </details>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 7अथ त्रीन् पुरोडाशान्विदधाति - ऐन्द्रमेकादशकपालमिति ॥ ऐन्द्रसावित्रवारुणाः ॥
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऐ॒न्द्रम् एका॑दश-कपाल॒न् निर्व॑पति  
 सावि॒त्रन् द्वा-द॑शकपालं,   
 वारु॒णन् दश॑-कपालम्।
 </details>
+
 <details><summary>Keith</summary>
 
 To Indra he offers on eleven potsherds, to Savitr on twelve potsherds, to Varuna on ten potsherds.
 </details>
+
 <details><summary>मूलम्</summary>
 
 ऐ॒न्द्रमेका॑दशकपाल॒न्निर्व॑पति  
@@ -248,39 +272,47 @@ To Indra he offers on eleven potsherds, to Savitr on twelve potsherds, to Varuna
 वारु॒णन् दश॑कपालम्।   
 
 </details>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8अथ शतातृण्णायां स्थाल्यां सुराशेषम् अवनयति - सोमप्रतीका इति ॥ 
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोम॑-प्रतीकाᳶ पितरस् तृप्णुत ।  
 </details>
+
 <details><summary>Keith</summary>
 
 O Pitrs, beaded by Soma, rejoice.
 </details>
+
 <details><summary>मूलम्</summary>
 
 सोम॑-प्रतीकाᳶ पितरस् तृप्णुत ।  
 </details>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 सोमप्रतीकाः सोमः प्रतीकः उपक्रमो येषां ते । हे सोमप्रभृतयः पितरस् **तृप्णुत** अनेन सुराशेषेण तृप्यत । व्यत्ययेन श्नुः । 
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वड॑बा॒ दक्षि॑णा  ॥[37]
 </details>
+
 <details><summary>Keith</summary>
 
 The sacrificial fee is a mare.
 </details>
+
 <details><summary>मूलम्</summary>
 
 वड॑बा॒ दक्षि॑णा  ॥[37]
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अस्मिन् कर्मणि वडबा अश्वा दक्षिणा । 'उत वा एषाश्वं सूते' इति ब्राह्मणम् ॥ सौत्रामणी समाप्ता ॥

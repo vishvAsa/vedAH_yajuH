@@ -5,7 +5,6 @@ unicode_script: devanagari
 ---
 [तैत्तिरियारण्यके अत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_036_Taittiriya_Aranyakam_With_Sayana_Bhashya_Part_1_-_Babasastri_Phadke_1898#page/n145/mode/2up)।
 
-
 ## क्रमः
 ब्र॒ह्म॒य॒ज्ञेन॑ य॒क्ष्यमा॑णः॒  
 प्राच्या॑न्दि॒शि ग्रामा॒द् अछ॑दिर्-द॒र्श+++(=छदतृणानि यथा न दृश्यन्ते)+++ उदी॑च्यां प्रागुदी॒च्याव्ँ वो॒दित॑ आदि॒त्ये  
@@ -34,12 +33,10 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/164/39_Rcho_axare.md">
 <details open><summary><h2>३९ ऋचो अक्षरे ...{Loading}...</h2></summary>
 
-
-ऋ॒चो अ॒क्षरे॑ पर॒मे व्यो॑म॒न्  
-यस्मि॑न्दे॒वा अधि॒ विश्वे॑ निषे॒दुः।  
-यस्तन्न वेद॒ किमृ॒चा क॑रिष्यति॒  
-य इत्तद्वि॒दुस् त इ॒मे समा॑सते॥
-
+ऋचो᳓ अक्ष᳓रे परमे᳓ वि᳓ओमन्  
+य᳓स्मिन् देवा᳓ अ᳓धि वि᳓श्वे निषेदुः᳓  
+य᳓स् त᳓न् न᳓ वे᳓द कि᳓म् ऋचा᳓ करिष्यति  
+य᳓ इ᳓त् त᳓द् विदु᳓स् त᳓ इमे᳓ स᳓म् आसते
 </details>
 </div>
 

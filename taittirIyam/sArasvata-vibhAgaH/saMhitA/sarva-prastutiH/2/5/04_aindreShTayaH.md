@@ -1,4 +1,4 @@
-+++  
++++
 title = "०४ ऐन्द्रेष्टयः"
 
 +++
@@ -10,7 +10,6 @@ title = "०४ ऐन्द्रेष्टयः"
 
 प्रजापतिऋषिः ।  
 </details>
-
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -31,7 +30,6 @@ The theologians say,
 > 'He would indeed offer the new and full moon (sacrifices)  
 > who should offer them with Indra.'  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -69,7 +67,6 @@ At the full moon there is the subsequent offering of the enemy-dispelling (oblat
 and by it the full moon has Indra.  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 वै॒मृ॒धᳶ पू॒र्णमा॑सेऽनुनिर्वा॒प्यो॑ भवति ।  
@@ -81,7 +78,6 @@ and by it the full moon has Indra.
 वै॒मृ॒धः । पू॒र्णमा॑स॒ इति॑ पू॒र्ण-मा॒से॒ । अ॒नु॒नि॒र्वा॒प्य॑ इत्य॑नु-नि॒र्वा॒प्यः॑ । भ॒व॒ति॒ ।  
 तेन॑ । पू॒र्णमा॑स॒ इति॑ पू॒र्ण-मा॒सः॒ । सेन्द्र॒ इति॒ स-इ॒न्द्रः॒ ।  
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -95,7 +91,6 @@ There are curds for Indra at the new moon;
 verily the new moon has Indra.  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 ऐ॒न्द्रन्दध्य॑मावा॒स्या॑या॒न्तेना॑मावा॒स्या॑ सेन्द्रा॑।  
@@ -105,7 +100,6 @@ verily the new moon has Indra.
 
 ऐ॒न्द्रम् । दधि॑ । अ॒मा॒वा॒स्या॑या॒मित्य॑मा-वा॒स्या॑याम् । तेन॑ । अ॒मा॒वा॒स्येत्य॑मा-वा॒स्या॑ । सेन्द्रेति॒ स-इ॒न्द्रा॒ ।  
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -120,21 +114,19 @@ He who knowing thus offers, the new and full moon sacrifices, offers them with I
 and day after day it becomes better for him who has so sacrificed.  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 य ए॒वव्ँवि॒द्वान्द॑र्शपूर्णमा॒सौ यज॑ते ।  
 सेन्द्रा॑वे॒वैनौ॑ यजते ।  
 श्वश्श्वो॑ऽस्मा ईजा॒नाय॒ वसी॑यो भवति ।  
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 यः । ए॒वम् । वि॒द्वान् । द॒र्श॒पू॒र्ण॒मा॒साविति॑ दर्श-पू॒र्ण॒मा॒सौ । यज॑ते ।  
 सेन्द्रा॒विति॒ स-इ॒न्द्रौ॒ । ए॒व । ए॒नौ॒ । य॒ज॒ते॒ ।  
 श्वश्श्व॒ इति॒ श्वः-श्वः॒ । अ॒स्मै॒ । ई॒जा॒नाय॑ । वसी॑यः । भ॒व॒ति॒ ।  
 </details>
-
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -210,18 +202,15 @@ an oblation for Sarasvant;
 after performing the full moon (sacrifice) they offered this.  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 ताम् पौ॑र्णमा॒सँ सँ॒स्थाप्यानु॒ निर॑वपन् ।  
 </details>
 
-
 <details><summary>पद-पाठः</summary>
 
 ताम् । पौ॒र्ण॒मा॒समिति॑ पौर्ण-मा॒सम् । सँ॒स्थाप्येति॑ सम्-स्थाप्य॑ । अनु॑ । निरिति॑ । अ॒व॒प॒न् ।  
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -232,31 +221,41 @@ after performing the full moon (sacrifice) they offered this.
 अत्र एतामिष्टिम् इति भट्टभास्करभाष्ये प्रतीकग्रहणं कृतम् । एताम् इत्यस्य वक्ष्यमाणाम् इति अर्थः प्रदर्शितः ।  मूलपाठे ताम् इति वर्तते । अतः ताम् इति प्रतीको वा स्यात् भाष्ये । अथवा आर्षत्वात् मूलस्य ताम् इत्यस्य एतामति व्याख्या इति वा वाच्यम् इति वाच्यमिति भाति ।
 
 </details>
-
-
-
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/3_darsha-pUrNa-mAsAdi/05_Ajya-grahaNam/tato_devA_abhavan.md" unfilled newLevelForH1="5" includeTitle="false">
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/3_darsha-pUrNa-mAsAdi/05_Ajya-grahaNam/tato_devA_abhavan.md">
+<details open><summary><h5>ततो॑ दे॒वा अभ॑वन् ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततो॑ दे॒वा अभ॑व॒न्न् +++(←`चादिलोपे विभाषा`)+++,  
+ततो॑ दे॒वा अभ॑वन्न् +++(←`चादिलोपे विभाषा`)+++,  
 पराऽसु॑राः +++(चाभवन्)+++।  
 </details>
 
 <details><summary>Keith</summary>
 
 Then the gods prospered,  
-the Asuras were defeated.  
+the Asuras were defeated. 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
 ततो॑ दे॒वा अभ॑वन् ।  
-पराऽसु॑राः ।  
+पराऽसु॑राः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ततः॑ । दे॒वाः । अभ॑वन् ।  
+परेति॑ । असु॑राः ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+ततो देवा अभवन्। पराऽसुराः।  
+_________________________________
+
+देवानां यज्ञं दृष्ट्वा तथैवानुचरतामसुराणां देवसमानं विजयं दृष्ट्वा देवास्तानसुरान्वञ्चयित्वाऽनुष्ठितेनानुनिर्वाप्येण स्वयं विजयं प्राप्ता असुराश्च पराभूताः। 
+</details>
 </details>
 </div>
-
 <details><summary>पद-पाठः</summary>
 
 ततः॑ । दे॒वाः । अभ॑वन् ।  
@@ -275,7 +274,6 @@ He who has enemies should offer this offering
 after performing the full moon (sacrifice).  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 यो भ्रातृ॑व्यवा॒न्त्स्यात् ।  
@@ -287,7 +285,6 @@ after performing the full moon (sacrifice).
 यः । भ्रातृ॑व्यवा॒निति॒ भ्रातृ॑व्य-वा॒न् । स्यात् ।  
 सः । पौ॒र्ण॒मा॒समिति॑ पौर्ण-मा॒सम् । सँ॒स्थाप्येति॑ सम्-स्थाप्य॑ । ए॒ताम् । इष्टि॑म् । अनु॑ । निरिति॑ । व॒पे॒त् ।  
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -313,13 +310,13 @@ Whatever he has, all that [2] he appropriates.
 
 मि॒थु॒नान्प॒शून्त्सा॑रस्व॒ताभ्या॒य्ँयाव॑दे॒वास्यास्ति॒ तत्सर्व॑व्ँवृङ्क्ते ।  
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 पौ॒र्ण॒मा॒सेनेति॑ पौर्ण-मा॒सेन॑ । ए॒व । वज्र॑म् । भ्रातृ॑व्याय । प्र॒हृत्येति॑ प्र-हृत्य॑ । आ॒ग्ना॒वै॒ष्ण॒वेनेत्या॑ग्ना-वै॒ष्ण॒वेन॑ । दे॒वताः॑ । च॒ । य॒ज्ञम् । च॒ । भ्रातृ॑व्यस्य । वृ॒ङ्क्ते॒ ।  
 
 मि॒थु॒नान् । प॒शून् । सा॒र॒स्व॒ताभ्या॑म् । याव॑त् । ए॒व । अ॒स्य॒ । अस्ति॑ । तत् । सर्व॑म् । वृ॒ङ्क्ते॒ ।  
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -349,7 +346,6 @@ One should sacrifice [only] at the full moon,
 if one has enemies, not at the new moon;  
 having slain one's enemy one does not cause him to grow again.  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -390,7 +386,6 @@ having slain one's enemy one does not cause him to grow again.
 He who desires cattle should sacrifice with the Sakamprasthayiya.  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 साकम्प्रस्था॒यीये॑न यजेत प॒शुका॑मः ।  
@@ -400,7 +395,6 @@ He who desires cattle should sacrifice with the Sakamprasthayiya.
 
 सा॒क॒म्प्र॒स्था॒यीये॒नेति॑ साकम्-प्र॒स्था॒यीये॑न । य॒जे॒त॒ । प॒शुका॑म॒ इति॑ प॒शु-का॒मः॒ ।  
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -420,13 +414,11 @@ He who desires cattle should sacrifice with the Sakamprasthayiya.
 नान्यस्मै॑ ददाति ।  
 </details>
 
-
 <details><summary>Keith</summary>
 
 The man to whom they bring (any thing) in small measure is not himself pleased,  
 and does not give to another.  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -454,7 +446,6 @@ and does not give to another.
 But he, to whom they bring in large measure, is himself pleased,  
 and gives to another.  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -492,7 +483,6 @@ One should offer in full and large measure;
 Indra then being pleased delights him with offspring and cattle.  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 पू॒र्णँ हो॑त॒व्य॑म्  ।  
@@ -528,11 +518,11 @@ Indra then being pleased delights him with offspring and cattle.
 He offers with a wooden vessel,  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 दा॒रु॒पा॒त्रेण॑ जुहोति ।  
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 दा॒रु॒पा॒त्रेणेति॑ दारु-पा॒त्रेण॑ । जु॒हो॒ति॒ ।  
@@ -557,7 +547,6 @@ He offers with a wooden vessel,
 
 for an earthenware one does not hold the offering.  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -596,7 +585,6 @@ cattle are strength;
 verily by strength he wins for him strength and cattle.  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 औदु॑म्बरम् [24] भ॒व॒त्यूर्ग्वा उ॑दु॒म्बर॒ ऊर्क्प॒शव॑ ऊ॒र्जैवास्मा॒ ऊर्ज॑म्प॒शूनव॑ रुन्द्धे
@@ -607,7 +595,6 @@ verily by strength he wins for him strength and cattle.
 ऊ॒र्जैवास्मा॒ ऊर्ज॑म् प॒शूनव॑ रुन्द्धे ।  
 </details>
 
-
 <details><summary>पद-पाठः</summary>
 
 औदु॑म्बरम् । भ॒व॒ति॒ ।  
@@ -615,7 +602,6 @@ verily by strength he wins for him strength and cattle.
 ऊर्क् । प॒शवः॑ ।  
 ऊ॒र्जा । ए॒व । अ॒स्मै॒ । ऊर्ज॑म् । प॒शून् । अवेति॑ । रु॒न्द्धे॒ ।  
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -645,7 +631,6 @@ The prosperous are three;
 a learned (Brahman), a village headman, and a warrior.  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 नाग॑तश्रीर्महे॒न्द्रय्ँय॑जेत॒ त्रयो॒ वै ग॒तश्रि॑यश्शुश्रु॒वान्ग्रा॑म॒णी रा॑ज॒न्यः॑।  
@@ -665,7 +650,6 @@ a learned (Brahman), a village headman, and a warrior.
 राज्ञोपत्यं **राजन्यः** । 'राजश्वशुराद्यत्', 'राज्ञोपत्ये जातिग्रहणम्' इति क्षत्रिय उच्यते ।  
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषा॑म् महे॒न्द्रो दे॒वता॑ ।  
@@ -676,7 +660,6 @@ a learned (Brahman), a village headman, and a warrior.
 Their deity is Mahendra.  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तेषा॑म्महे॒न्द्रो दे॒वता॑ ।  
@@ -686,6 +669,7 @@ Their deity is Mahendra.
 
  तेषा॑म् । म॒हे॒न्द्र इति॑ महा-इ॒न्द्रः । दे॒वता॑ ।  
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 स्पष्टमेतयोर्गतश्रीत्वं, यतो हिन्द्र एषां देवता । तस्मादेभ्योऽन्योऽगतश्रीः महेन्द्रं यष्टुं नार्हति ॥  
@@ -715,7 +699,6 @@ Their deity is Mahendra.
 He who sacrifices beyond his own deity loses his own deity,  
 and does not obtain another,  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -750,7 +733,6 @@ and does not obtain another,
 
 and becomes worse.  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -789,7 +771,6 @@ and becomes worse.
 For a year one should sacrifice to Indra, for the vow extends not beyond the year;  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 स॒व्ँव॒त्स॒रमिन्द्र॑य्ँयजेत ।  
@@ -823,7 +804,6 @@ For a year one should sacrifice to Indra, for the vow extends not beyond the yea
 verily [4] his own deity, being sacrificed to, kindles him with prosperity  
 and he becomes richer.  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -865,7 +845,6 @@ and he becomes richer.
 After the year he should offer a cake on eight potsherds to Agni, lord of vows;  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 स॒व्ँव॒त्स॒रस्य॑ प॒रस्ता॑द॒ग्नये॑ व्र॒तप॑तये पुरो॒डाश॑म॒ष्टाक॑पाल॒न्निर्व॑पेत् ।  
@@ -876,12 +855,10 @@ After the year he should offer a cake on eight potsherds to Agni, lord of vows;
 स॒व्ँव॒त्स॒रस्येति॑ सम्-व॒त्स॒रस्य॑ । प॒रस्ता॑त् । अ॒ग्नये॑ । व्र॒तप॑तय॒ इति॑ व्र॒त-प॒त॒ये॒ । पु॒रो॒डाश॑म् । अ॒ष्टाक॑पाल॒मित्य॒ष्टा-क॒पा॒ल॒म् । निरिति॑ । व॒पे॒त् ।  
 </details>
 
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 10ततस्समाप्ते संवत्सरे गते अग्नये व्रतपतये पुरोडाशमष्टाकपालं निर्वपेत् ।  
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -899,6 +876,7 @@ causes him to take up the vow who has slain his foe (vrtra).
 
 स॒व्ँव॒त्स॒रमे॒वैन॑व्ँवृ॒त्रञ्ज॑घ्नि॒वाँस॑म॒ग्निर्व्र॒तप॑तिर्व्र॒तमा ल॑म्भयति।  
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 स॒व्ँव॒त्स॒रमिति॑ सम्-व॒त्स॒रम् । ए॒व । ए॒न॒म् । वृ॒त्रम् । ज॒घ्नि॒वाँस॑म् । अ॒ग्निः । व्र॒तप॑ति॒रिति॑ व्र॒त-प॒तिः॒ । व्र॒तम् । एति॑ । ल॒म्भ॒य॒ति॒ ।  
@@ -923,7 +901,6 @@ causes him to take up the vow who has slain his foe (vrtra).
 
 Thereafter he may sacrifice at will.  
 </details>
-
 
 <details><summary>मूलम्</summary>
 

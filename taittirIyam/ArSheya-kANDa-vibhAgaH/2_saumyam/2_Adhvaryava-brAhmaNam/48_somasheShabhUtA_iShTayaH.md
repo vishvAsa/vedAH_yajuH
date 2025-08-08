@@ -3,7 +3,8 @@ title = "४८ सोमशेषभूता इष्टयः"
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/1/5_nAxatrAdi/09_somasheShabhUtA_iShTayaH"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/1/5_nAxatrAdi/09_somasheShabhUtA_iShTayaH">
+<details open><summary><h1>०९  सोमशेषभूता इष्टयः ...{Loading}...</h1></summary>
 
 ## अध्वरब्राह्मणम्
 ## नक्षत्रेष्टिकाण्डम्‌
@@ -28,7 +29,6 @@ unicode_script = "devanagari"
 
 1 देवासुरा इत्यादि ॥ अपन्यधत्त देवसमूहसकाशादपकृष्य गूढं निहितवान् नेदेनमसुरा बलीयांसो हन्युरित्यभिप्रायेण ।
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -61,7 +61,6 @@ unicode_script = "devanagari"
 
 ते दे॒वाᳶ प्र॒जाप॑तिम् उपस॒मेत्यो॑चुः ।  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -120,7 +119,6 @@ unicode_script = "devanagari"
 तदिष्टीनामिति ।
 अन्विष्य अन्वविन्दन्निति ।
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -307,7 +305,6 @@ unicode_script = "devanagari"
 एवं एतदन्ता हि एता देवता अकुर्वत । तस्मादेतदन्तास्सन्तिष्ठन्त इति ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 इति॑ दे॒वा अ॑कुर्वत ।
@@ -339,7 +336,6 @@ unicode_script = "devanagari"
 
 ते दे॒वा ऊ॑चुः ।  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -373,7 +369,6 @@ unicode_script = "devanagari"
 
 त उ॑पाँ॒शू॑प॒सद॑म् अतन्वत ।  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -443,7 +438,6 @@ unicode_script = "devanagari"
 
 तथो॑ ए॒वैतदे॑व॒व्ँविद् यज॑मानः ।  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -565,7 +559,6 @@ unicode_script = "devanagari"
 9 स एष इति ॥ उपवसथीये अहन् सौत्यात् पूर्वस्मिन् दिने । अनुप्रवचनादित्वाच्छः । द्विदेवत्यः अग्नीषोमीयः ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 द्व॒यव्ँ वा अ॒स्मिल्ँ लो॒के यज॑मानः ।
@@ -588,7 +581,6 @@ unicode_script = "devanagari"
 
 द्वयं वा इत्यादि । अस्थि च मांसं च इत्युभयं यजमानः यजमानशरीरं विद्वान् स्वयं द्विदेवत्येन द्वयमुभयं संस्कुरुते साधु प्रशस्तं लभते ॥
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -627,7 +619,6 @@ unicode_script = "devanagari"
 
 यजमान्श्चायं पञ्चपञ्ची त्वगादिपञ्चकवान् पञ्चभिः पञ्चमानो देहः पञ्चपञ्चः तद्वान् पञ्चपञ्ची । पचि विस्तारे । यद्वा - पञ्चप्रकारैः कोशैः त्वगादिभिः तद्वान् । 'प्रकारे गुणवचनस्य'इति सङ्ख्याया अपि चोदिते द्विर्वचनम् ।
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -711,8 +702,8 @@ unicode_script = "devanagari"
 
 तस्मात् एतया ऋचा बहिष्पवमान उपसद्यः उपसत्तव्यः । सदेः छान्दसः क्यप् ॥
 
-
 इति पञ्चमे नवमोऽनुवाकः ॥  
 
+</details>
 </details>
 </div>

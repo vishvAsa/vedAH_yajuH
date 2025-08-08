@@ -117,7 +117,6 @@ unicode_script: devanagari
 </details>
 </div>
 
-
 ## उत्तरीयम्, कम्बलः
 
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/01_mAnjiShThaM_rAjanyasya.md">
@@ -135,7 +134,6 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/03_hAriNam.md">
 <details open><summary><h4>03 उत्तरीयम्, कम्बलः हारिणम्, ...{Loading}...</h4></summary>
 
-
 हारिणम्+++(=मृगजम्)+++, ऐणेयं+++(=मृगीजम्)+++ वा +++(blackbuck-जात्या, न वर्णेन)+++ कृष्णं ब्राह्मणस्य +++(अजिनम्, न श्वेतैणेयम्)+++ ३
 </details>
 </div>
@@ -148,13 +146,11 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/05_rauravM_rAjanyasya.md">
 <details open><summary><h4>05 रौरवं राजन्यस्य ...{Loading}...</h4></summary>
 
-
 रौरवं+++(→ रौतीति - barasingha? Chital?)+++ राजन्यस्य ५   
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/06_bastAjinaM_vaishyasya.md">
 <details open><summary><h4>06 बस्ताजिनम् ...{Loading}...</h4></summary>
-
 
 बस्ताजिनं वैश्यस्य ॥ ६ ॥
 
@@ -163,7 +159,6 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/07_AvikaM_sArvavarNikam.md">
 <details open><summary><h4>07 आविकं सार्ववर्णिकम्  ...{Loading}...</h4></summary>
 
-
 आविकं सार्ववर्णिकम् ॥ ७ ॥  
 
 </details>
@@ -171,14 +166,12 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/08_kambalashcha.md">
 <details open><summary><h4>08 कम्बलश्च ...{Loading}...</h4></summary>
 
-
 कम्बलश् च +++(आविकः)+++ ॥८॥
 
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/09_brahmavRuddhimicchan.md">
 <details open><summary><h4>09 ब्रह्मवृद्धिम् इच्छन् ...{Loading}...</h4></summary>
-
 
 ब्रह्मवृद्धिमिच्छन्न् अजिनान्य् एव वसीत,  
 क्षत्रवृद्धिम् इच्छन् वस्त्राण्य् एव,  
@@ -255,13 +248,13 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/05/23_sarvAhNaM_suyukto-dhyayanAdanantaro-dhyAye.md">
 <details open><summary><h4>23 सर्वाह्णं सुयुक्तोऽध्ययनादनन्तरोऽध्याये ...{Loading}...</h4></summary>
 
-सर्वाह्णं सुयुक्तोऽध्ययनादनन्तरोऽध्याये २३
+सर्वाह्णं सुयुक्तो ऽध्ययनाद् अनन्तरोऽध्याये २३
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/05/24_tathA_gurukarmasu.md">
 <details open><summary><h4>24 तथा गुरुकर्मसु ...{Loading}...</h4></summary>
 
-तथा गुरुकर्मसु २४
+तथा गुरु-कर्मसु २४
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/05/25_manasA_chAnadhyAye.md">
@@ -518,13 +511,13 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/05/23_sarvAhNaM_suyukto-dhyayanAdanantaro-dhyAye.md">
 <details open><summary><h4>23 सर्वाह्णं सुयुक्तोऽध्ययनादनन्तरोऽध्याये ...{Loading}...</h4></summary>
 
-सर्वाह्णं सुयुक्तोऽध्ययनादनन्तरोऽध्याये २३
+सर्वाह्णं सुयुक्तो ऽध्ययनाद् अनन्तरोऽध्याये २३
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/05/24_tathA_gurukarmasu.md">
 <details open><summary><h4>24 तथा गुरुकर्मसु ...{Loading}...</h4></summary>
 
-तथा गुरुकर्मसु २४
+तथा गुरु-कर्मसु २४
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/06/28_cheShTati_cha_chikIrShantachChaktiviShaye.md">
@@ -670,7 +663,6 @@ unicode_script: devanagari
 </details>
 </div>
 
-
 ## समिदाधानम्
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/13_sAyam_prAtar_udakumbham.md">
 <details open><summary><h4>13 सायम् प्रातर् उदकुम्भम् ...{Loading}...</h4></summary>
@@ -693,7 +685,10 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/16_agnim_iddhvA_parisamUhya.md">
 <details open><summary><h4>16 अग्निम् इद्ध्वा परिसमूह्य ...{Loading}...</h4></summary>
 
-अग्निम् इद्ध्वा परिसमूह्य समिध आदध्यात् सायं प्रातर् यथोपदेशम् १६
+अग्निम् **इद्ध्वा**  
+परिसमूह्य +++(मार्जयित्वा)+++  
+समिध **आदध्यात्**  
+सायं प्रातर् यथोपदेशम् १६
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/17_sAyam_evAgnipUjety_eke.md">
@@ -705,7 +700,8 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/18_samiddham_agnim_pANinA.md">
 <details open><summary><h4>18 समिद्धम् अग्निम् पाणिना ...{Loading}...</h4></summary>
 
-समिद्धम् अग्निं पाणिना परिसमूहेन् - न समूहन्या १८
+समिद्धम् अग्निं  
+पाणिना परिसमूहेन् - न समूहन्या १८
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/19_prAk_tu_yAthAkAmI.md">

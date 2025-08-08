@@ -70,7 +70,6 @@ unicode_script: devanagari
 </div>
   
 
-
 ## शरीरस्थितिः
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/15/10_nApsu_sataH_prayamaNamvidyate.md">
 <details open><summary><h4>10 नाप्सु सतः प्रयमणम्विद्यते ...{Loading}...</h4></summary>
@@ -90,7 +89,6 @@ unicode_script: devanagari
 तिष्ठन्न+आचामेत्प्रह्वो वा १
 </details>
 </div>
-
 
 ## विधिः
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/16/02_AsInastrirAchAmeddhRdayangamAbhiradbhiH.md">

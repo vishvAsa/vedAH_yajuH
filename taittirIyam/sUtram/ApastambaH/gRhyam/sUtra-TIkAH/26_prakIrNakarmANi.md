@@ -19,10 +19,12 @@ title = "२६ प्रकीर्णकर्माणि"
 
 13. If he goes out in order to beg for something, let him murmur the next (Mantras, II, 21, 10-16) and then state his desire.
 </details>
+
 <details><summary>हरदत्त-प्रस्तावः</summary>
 
 अथावशिष्टानां मन्त्राणां येषु विनियोगस्तानि कर्माणि व्याचष्टे—
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 सन्यर्थं दातारं गत्वा ।
@@ -31,6 +33,7 @@ title = "२६ प्रकीर्णकर्माणि"
 तमर्थं प्रब्रूयात् यदर्थमागतः ।
 सप्तमे मन्त्रे असावित्यत्र प्रदातुर्नामग्रहणं, सम्बुध्या ॥१३॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **सनिर्**याञ्चा भिक्षणम् ।
@@ -65,10 +68,12 @@ title = "२६ प्रकीर्णकर्माणि"
 
 14. If he has obtained a chariot, he has the horses put to it, lets it face the east, and touches with the next (verse, II, 21, 17) the two wheels of the chariot or the two side-pieces.
 </details>
+
 <details><summary>हरदत्त-प्रस्तावः</summary>
 
 इदानीं यदि याच्ञया रथादीनि लब्धानि, तदा केन विधिना स्वीकारः? इत्युत्तरे विधये आरभ्यन्ते—
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 यदि रथो लभ्यते ततस्तं लब्ध्वा योजयति कर्मकरैर्युगधुरोः करोति ।
@@ -80,6 +85,7 @@ title = "२६ प्रकीर्णकर्माणि"
 पाणिभ्यामुभाभ्यामभिमर्शनम् ।
 तथा चाश्वलायनः—"रथमारोक्ष्यन्नाना पाणिभ्यां चक्रे अभिमृशेत् ( आश्व.गृ.२-६-१) इति ॥१४॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 रथश्चेल्लब्धः तं कर्मकरैर्वाहाभ्यां **योजयित्वा**थ तं **प्राञ्चं** प्राङमुखम् **अवस्थाप्य उत्तरया** "अङ्कौ न्यङ्कौ" इत्येतया **रथचक्रे** उभे पाणिभ्यां युगपद् **अभिमृशति** ।
@@ -111,6 +117,7 @@ title = "२६ प्रकीर्णकर्माणि"
 
 15. With the next Yajus (II, 21, 18) he should mount, and drive with the next (verse, II, 21, 19) towards the east or north, and should then drive off on his business.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 ततः **उत्तरेण यजुषा** "अध्वनामध्वपत्" इत्यनेन ।
@@ -122,6 +129,7 @@ title = "२६ प्रकीर्णकर्माणि"
 द्वितीयादिषु तु न भवति ।
 लब्ध्वेति वचनात् ॥१५॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 तेन **उत्तरेण** "अध्वनामध्वपते" इत्यनेन **यजुषा** रथं स्वयम् **अधिरुह्य** ।
@@ -156,12 +164,14 @@ title = "२६ प्रकीर्णकर्माणि"
 
 16. Let him mount a horse with the next (formulas, II, 21, 20-30),
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 लब्ध्वेत्यनुवर्तते ।
 **उत्तरैर्** एकादशभिः "अश्वोऽसि हयोऽसि" इत्यादिभिः ।
 रथलाभवदश्वलाभो व्याख्यातः ॥१६॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **अश्वश्**चेद्याच्ञया लब्धः **तमुत्तरैर्** मन्त्रैः "अश्वोऽसि" इत्यादिभिर् **आरोहेत्** ॥१६॥
@@ -191,6 +201,7 @@ title = "२६ प्रकीर्णकर्माणि"
 
 17. An elephant with the next (formula, II, 21, 31).
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 लब्ध्वाऽऽरोहेदिति वर्तते ।
@@ -201,6 +212,7 @@ title = "२६ प्रकीर्णकर्माणि"
 मन्त्रे चाभिनिदधामीति द्रष्टव्यः ।
 तेन मन्त्रे लिङ्गस्याविरोधः ॥१७॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 पूर्ववद्व्याख्यानम् ।
@@ -230,11 +242,9 @@ title = "२६ प्रकीर्णकर्माणि"
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/022/15_syonA_pRthivi.md">
 <details open><summary><h7>१५ स्योना पृथिवि ...{Loading}...</h7></summary>
 
-
-+++(अभिमृशति)+++  
-स्यो॒ना+++(=सुखरूपा)+++ पृ॑थिवि॒ भवा॑+  
-ऽनृक्ष॒रा+++(=कण्टकादिरहिता)+++ नि॒वेश॑नी ।  
-यच्छा॑ न॒श् शर्म॑ स॒प्रथाः॑+++(=सकीर्तिः)+++ ।
+स्योना᳓+++(=सुखरूपा)+++ पृथिवि भव+  
+अनृक्षरा᳓+++(=कण्टकादिरहिता)+++ निवे᳓शनी ।  
+य᳓च्छा नश् श᳓र्म सप्र᳓थाः+++(=सकीर्तिः)+++ ।
 
 </details>
 </div>
@@ -242,8 +252,6 @@ title = "२६ प्रकीर्णकर्माणि"
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/09_baDitthA_parvatAnAnkhidrambibharShi.md">
 <details open><summary><h5>०९ बडित्था पर्वतानाङ्खिद्रम्बिभर्षि ...{Loading}...</h5></summary>
-
-
 
 बड् इ॒त्था+++(त्थं)+++ पर्व॑तानाङ्+++(→मेघानाम्)+++  
 खि॒द्रम्+++(=छिद्रं →छेदनम्)+++ बि॑भर्षि पृथिवि ।  
@@ -261,15 +269,16 @@ title = "२६ प्रकीर्णकर्माणि"
 
 18. [^4]  If any harm is done him by these two (beasts), let him touch the earth as indicated above.
 
-
 [^4]:  See VII, 19, 11. On reṣaṇe, comp. below, 23, 9.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 ताभ्यां अश्वहस्तिभ्यां, **रेषणे** शरीरोपमर्दे जाते **पूर्ववत्** हेमन्तप्रत्यवरोहणवत् **पृथिवीमभिमृशेत्** ।
 "स्योना पृथिवि" "बडित्थे"त्येताभ्याम् ।
 पूर्ववदिति न जातकर्म गृह्यते, व्यवधानात् ॥१८॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **ताभ्यां** तयोरश्वहस्तिनोः ।
@@ -303,6 +312,7 @@ title = "२६ प्रकीर्णकर्माणि"
 
 19. If he is going to a dispute, he takes the parasol and the staff in his left hand.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 यत्र स्थानेऽर्थादिनिमित्ते प्रत्यर्थिभिः सम्वदते स **सम्वादः ।
@@ -313,6 +323,7 @@ title = "२६ प्रकीर्णकर्माणि"
 
 इति श्रीहरदत्तमिश्रविरचितायां गृह्यवृत्तावनाकुलायां द्वाविंशः खण्डः ॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **सम्वादः** ऋणादानादिव्यवहारः ।
@@ -346,6 +357,7 @@ title = "२६ प्रकीर्णकर्माणि"
 
 1. Having sacrificed, with his right hand, a fist full of chaff with the next (verse, II, 21, 32), he should go away and murmur the next (verse, 33).
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 छत्रदण्डौ सव्येन पाणिना धारयन्नेव **दक्षिणेन** पाणिना फलीकरणानां मुष्टिं जुहोति ।
@@ -360,6 +372,7 @@ title = "२६ प्रकीर्णकर्माणि"
 "अवयज इति" लिङ्गात् ।
 दक्षिणेनेति वचनं होमकाले छत्रदण्डयोः सव्येन धारणार्थम्  सव्यस्य व्यापृतत्वात् दक्षिणेनैव होमः इति ॥१॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 सव्यपाणिधृतच्छत्रदण्ड एव **दक्षिणेन** पाणिना **फलीकरणमुष्टिमुत्तरया** "अव जिह्वक" इत्येतया स्वाग्नौ जुहोति ।
@@ -394,6 +407,7 @@ title = "२६ प्रकीर्णकर्माणि"
 
 2. Over an angry person let him recite the two next (formulas, II, 22, 1. 2); then his anger will be appeased.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 **उत्तराभ्यां** "या त एषा रराट्या" इत्येताभ्याम् ।
@@ -406,6 +420,7 @@ title = "२६ प्रकीर्णकर्माणि"
 क्रोधश्चात्मविषयः ।
 परविषयो वा ॥२॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 यदि क्रुद्धः प्रत्यर्थी वा व्यवहारद्रष्टा वा, तत्क्रोधशान्तिं चासाविच्छति, तदा **उत्तराभ्यां** "या त एषा" इत्येताभ्यां **क्रुद्धम्** इतरं **वाभिमन्त्रयेत** ।
@@ -438,9 +453,9 @@ title = "२६ प्रकीर्णकर्माणि"
 
 3. [^1]  One who wishes that his wife should not be touched by other men, should have big living centipedes ground to powder, and should insert (that powder) with the next (formula, II, 22, 3), while she is sleeping, into her secret parts.
 
-
 [^1]:  23, 3. Comp. Hiraṇyak. I, 4, 14, 7.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 ( **असंभवेप्सुः**, अमैथुनेप्सुः) ।
@@ -457,6 +472,7 @@ title = "२६ प्रकीर्णकर्माणि"
 एवं कृते संबाध उपभोगयोग्यो न भवति व्यभिचारशङ्कायामिदम् ।
 वेश्याविषयं वा ॥३॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 यः प्रवत्स्यन् गृहे वा प्रजातन्तुं रक्षितुं स्वभार्यायां परपुरुषशुक्लस्यासम्भवमिच्छति स **परेषामसम्भवेप्सुः** ।
@@ -494,10 +510,12 @@ title = "२६ प्रकीर्णकर्माणि"
 
 4. For success (in the generation of children) let him wash (his wife) with the urine of a red-brown cow.
 </details>
+
 <details><summary>हरदत्त-प्रस्तावः</summary>
 
 अथ यदा परपुरुषशङ्काऽपैति तदा स्वशुक्लसम्भवसिध्यर्थे भैषज्यमुच्यते—
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 **सिध्यर्थे** कार्यसिद्धेः प्रार्थनायां उपभोगयोग्यत्वे चिकीर्षित इत्यर्थः ।
@@ -505,6 +523,7 @@ title = "२६ प्रकीर्णकर्माणि"
 इदमत्र भैषज्यमित्यर्थः ।
 बभ्रूः कपिलवर्णा गौः ॥४॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 कपिलायाः गोमूत्रेण प्रक्षालयीत सम्बाधम् ॥४॥
@@ -534,6 +553,7 @@ title = "२६ प्रकीर्णकर्माणि"
 
 5. For success (in trade) let him sacrifice with the next (verse - II, 22, 4 - some portion) from the articles of trade which he has in his house.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 **अस्य** कुटुम्बिनो गृहे **यत्** द्रव्यं **पण्यं** क्रय्यं तस्य सिध्यर्थे अर्धापकर्षादिना सिद्धिस्स्यादित्येवमर्थम् ।
@@ -550,6 +570,7 @@ title = "२६ प्रकीर्णकर्माणि"
 पुनः सिध्यर्थवचनं अस्य कर्मान्तरत्वज्ञापनार्थम् ।
 अन्यथा पूर्वस्यैव विकल्पविधिस्सम्भाव्येत ॥५॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 क्रय्यद्रव्यानुसारेणाज्यभागान्तमग्निमुखान्तं वा कृत्वा, तस्मात्पण्यादादायो**त्तरया** "यदहं धनेन" इत्येतया **जुहुयात्** ।
@@ -582,9 +603,9 @@ title = "२६ प्रकीर्णकर्माणि"
 
 6. [^2]  If he wishes that somebody be not estranged from him, let him pour his own urine into the horn of a living animal, and sprinkle (it) with the next two (verses, II, 22, 5. 6) three times from right to left around (the person) while he is sleeping.
 
-
 [^2]:  6, 7. Comp. Pāraskara III, 7; Hiraṇyak. I, 4, 13, 19 seqq.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 **यं** भृत्यं मत्तोऽयं न छिद्येतोति **कामयेत** नापगच्छेदिति यावज्जीवं मदधीन एव स्यादिति तत्र तत्कामे जीवतो गोर्विषाणं स्वयं पतितमादाय स्वं मूत्रमानीय तेन तं भृत्यं सुप्तं **उत्तराभ्यां** "परि त्वा गिरेरम्" इत्येताभ्यां त्रिः प्रसव्यं परिषिञ्चेत् ।
@@ -593,6 +614,7 @@ title = "२६ प्रकीर्णकर्माणि"
 आनीयेति वचनात् पूर्वमन्यस्मिन् पात्रे मूत्रयित्वा शौचञ्च कृत्वा ततो विषाणोपनयनम् ।
 परिषीतोऽसि इति मन्त्रलिङ्गात् स्त्रीष्विदं न भवति ॥६॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **यं** भर्तारं सपत्न्यामन्यस्यां वा इन्द्रियदौर्बल्यादनुरक्तं या स्त्री **कामयेत** अयं भर्ता **मत्** मत्तो **न च्छिद्येत** अस्य मय्यविच्छेदेन स्नेहस्स्यादिति सा स्त्री **जीवविषाणे** जीवन्त्या गोर्विषाणे बलात्पातिते स्वं **मूत्रमानीय** तेन भर्तारं **सुप्तं उत्तराभ्यां** "परि त्वा गिरेरमहं" इत्येताभ्यां **त्रिः प्रसव्यं परिषिञ्चेत्** ।
@@ -624,10 +646,12 @@ title = "२६ प्रकीर्णकर्माणि"
 
 7. In a path which servants or labourers use to run away, he should put plates (used for protecting the hands when holding a hot sacrificial pan) on (a fire), and should offer the oblations (indicated by the) next (Mantras, II, 22, 7-10).
 </details>
+
 <details><summary>हरदत्त-प्रस्तावः</summary>
 
 अथ भृत्यादीनां पलायितानां पुनरागमनकामस्य कर्माह—
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 अथ भृत्यानां पलायितानां निवृत्तिमिच्छतः कर्म ये कुर्वन्ति दासा अन्ये वा ते दासकर्मकराः **येन यथा पलायेरन्** तस्मिन् पथि **इण्वानि** दारुमयानि निगलानि **उपसमाधाय** प्रज्वाल्य तस्मिन्नग्नावुत्तराश्चतस्र आहुतीर्जुहुयात् "आवर्तन वर्तये"त्येताः ।
@@ -641,6 +665,7 @@ title = "२६ प्रकीर्णकर्माणि"
 अयमप्यपूर्वो होमः ।
 सर्वेष्व् एतेषु यथा सम्भवम् अग्निर् औपासन एव ॥७॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 दासाश्च भृतिकर्मकराश्च **दासकर्मकराः** ।
@@ -674,6 +699,7 @@ title = "२६ प्रकीर्णकर्माणि"
 
 8. If a fruit falls on him from a tree, or a bird befouls him, or a drop of water falls on him when no rain is expected, he should wipe that off with the next (Mantras, II, 22, 11-13), according to the characteristics (contained in these Mantras).
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 **एनं** स्नातकं **वृक्षात्** प्रच्युतफलं **यद्यभिनिपतेत्** शिरसि प्रदेशान्तरे वा ।
@@ -685,6 +711,7 @@ title = "२६ प्रकीर्णकर्माणि"
 यथालिङ्गवचनं त्रयेऽपि मन्त्राः एकस्मिन्निमित्ते मा भूवन्निति ।
 तीर्थाद्यतिक्रमवत् स्यात् प्रसङ्गः, विधेर्वलीयस्त्वात् ॥८॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **यद्येनं** द्विजं **वृक्षात्फलं अभि** उपरि नीचैरकस्मात् **पतेत्**, यदि **वा वयः** पक्षी पक्षाभ्यामेनम् **अभिविक्षिपेत्** उपरि पक्षवातेन धुनुयात्, यदि **वा अवर्षतर्क्ये** अभ्रशून्ये नभसि तस्माद् **बिन्दुर्**अपां स्तोकः अभिनिपतेत्, व्याख्यातम् ।
@@ -720,10 +747,12 @@ title = "२६ प्रकीर्णकर्माणि"
 
 9. If a post of his house puts forth shoots, or if honey is made in his house (by bees), or if the footprint of a dove is seen on the hearth, or if diseases arise in his household, or in the case of other miracles or prodigies, let him perform in the new-moon night, at dead of night, at a place where he does not hear the noise of water, the rites from the putting (of wood) on the fire down to the Ājyabhāga oblations, and let him offer the oblations (indicated in the) next (Mantras, II, 22, 14-23), and enter upon the performance of the Jaya and following oblations.
 </details>
+
 <details><summary>हरदत्त-प्रस्तावः</summary>
 
 अथाद्भुतप्रायश्चित्तम्—
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 अथाद्भुतोत्पातप्रायश्चित्तम् ।
@@ -761,6 +790,7 @@ title = "२६ प्रकीर्णकर्माणि"
 तत्रापि शम्याः परिध्यर्थे ।
 अस्यापि प्रायश्चित्तस्यास्मिन्नेव शास्त्र उपदिष्टत्वात् ॥९॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 तत्रा**द्भुताः** स्वभावतः पूर्वमभूतास्सन्तो भवन्तीति ।
@@ -814,6 +844,7 @@ title = "२६ प्रकीर्णकर्माणि"
 
 End of the Āpastambīya-Gṛhya-sūtra.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 अथ अमात्यानां शरीररेषणे इत्यस्मिन्नद्भुते कश्चिद्विशेषः येषां पूर्वापरा अन्वञ्चः प्रमीयन्ते ते **अभिमृतास्**तेभ्यस्तदर्थं तेषां मृत्युशमनार्थं उत्तरं कर्म होममिमं कृत्वा परिषेचनान्तेऽश्मानं **परिधिं** अन्तर्धानं मृत्त्युनिवारणार्थं प्रतिष्ठापयति **उत्तरयर्चा** "इमं जीवेभ्य" इत्येतया ।
@@ -824,6 +855,7 @@ End of the Āpastambīya-Gṛhya-sūtra.
 
 ॥ संपूर्णाऽनाकुला वृत्तिः ॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 ततः **परिषेचनान्तं** तन्त्रशेषं करोति ।

@@ -59,10 +59,9 @@ title = "०५ भोजनम्"
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/04_shaM_no.md">
 <details open><summary><h2>०४ शं नो ...{Loading}...</h2></summary>
 
-
-शं नो॑ दे॒वीर॒भिष्ट॑य॒  
-आपो॑ भवन्तु पी॒तये॑ ।  
-शं योर्+++(=[अ]मिश्रणाय)+++ अ॒भि स्र॑वन्तु नः ॥ ०४॥
+शं᳓ नो देवी᳓रभि᳓ष्टय  
+आ᳓पो भवन्तु पीत᳓ये ।  
+शं᳓ यो᳓र्+++(=[अ]मिश्रणाय)+++ अभि᳓ स्रवन्तु नः ॥ ०४॥
 
 </details>
 </div>
@@ -107,7 +106,6 @@ title = "०५ भोजनम्"
 शय्ँयोर् अ॒भि स्र॑वन्तु नः ।
 </details>
 </div>  
-
 
 इति मन्त्रेण,  
 स-तिल-पुष्पादर्भाग्र+++(नञ् विवक्षितम्??)+++-गन्धाभिर् अद्भिः पूर्ववत् 
@@ -154,12 +152,10 @@ title = "०५ भोजनम्"
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/015/01_udIratAmavara_utparAsa.md">
 <details open><summary><h5>०१ उदीरतामवर उत्परास ...{Loading}...</h5></summary>
 
-
-उदी॑रता॒म् अव॑र॒ उत् परा॑स॒  
-उन् म॑ध्य॒माः पि॒तरः॑ सो॒म्यासः॑ ।  
-असुं॒ य ई॒युर् अ॑वृ॒का ऋ॑त॒ज्ञास्  
-ते नो॑ऽवन्तु पि॒तरो॒ हवे॑षु ॥
-
+उ᳓द् ईरताम् अ᳓वर उ᳓त् प᳓रास  
+उ᳓न् मध्यमाः᳓ पित᳓रः सोमिया᳓सः  
+अ᳓सुं य᳓ ईयु᳓र् अवृका᳓ ऋतज्ञा᳓स्  
+ते᳓ नो अवन्तु पित᳓रो ह᳓वेषु
 </details>
 </div>  
 
@@ -186,15 +182,13 @@ title = "०५ भोजनम्"
 <div class="js_include" newlevelforh1="2" title="" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/069/08_archata_prArchata.md">
 <details open><summary><h2> ...{Loading}...</h2></summary>
 
-
-अर्च॑त॒ प्रार्च॑त +++(नराः)+++  
-प्रिय॑मेधासो॒ +++(=प्रियमेध-सम्बद्धाः)+++ अर्च॑त ।  
-अर्च॑न्तु पुत्र॒का उ॒त  
-पुरं न धृ॒ष्णु +++(=धर्षणशीलः)+++ +अ॑र्चत ।।  
+अ᳓र्चत प्रा᳓र्चत᳓ +++(नराः)+++  
+प्रि᳓यमेधासो +++(=प्रियमेध-सम्बद्धाः)+++ अ᳓र्चत ।  
+अ᳓र्चन्तु पुत्रका᳓ उत᳓  
+पु᳓रं᳓ न᳓ धृष्णु᳓ +++(=धर्षणशीलः)+++ +अर्चत ।।  
 
 </details>
 </div>
-
 
 इति मन्त्रेण ‘इदं वो अर्चनं’ 
 
@@ -226,7 +220,6 @@ title = "०५ भोजनम्"
 </details>
 </div>  
 
-
 इति मन्त्रेण  
 पूर्ववत् ‘इमानि पुष्पाणि, श्रीतुलसीदलानि च’ इति दद्यात् ॥
 
@@ -250,28 +243,25 @@ title = "०५ भोजनम्"
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_05/01_uddIpyasva_jAtavedo.md">
 <details open><summary><h5>01 उद्दीप्यस्व जातवेदो ...{Loading}...</h5></summary>
 
-उद्दी॑प्यस्व जातवेदो  
-ऽप॒घ्नन्निर्ऋ॑तिं॒ मम॑ ।  
-प॒शूँश्च॒ मह्य॒म् आव॑ह॒  
+**उद्दी॑प्यस्व** जातवेदो  
+**ऽप॒घ्नन्** निर्ऋ॑तिं॒ मम॑ ।  
+प॒शूँश्च॒ मह्य॒म् **आव॑ह॒**  
 जीव॑नञ् च॒ दिशो॑ दिश ॥
 </details>
 </div>  
-
 
 ‘अवलोकनार्थम् अयं वो दीपः'
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/008/04_yuvA_suvAsAH.md">
 <details open><summary><h5>०४ युवा सुवासाः ...{Loading}...</h5></summary>
 
-
-युवा॑ सु॒वासाः॒ परि॑वीत॒ +++(यूप)+++ **आगा॒त्**  
-स उ॒ **श्रेया॑न् भवति॒** जाय॑मानः ।  
-तं धीरा॑सः क॒वय॒ **उन्न॑यन्ति**  
-स्वा॒ध्यो॒३॒॑+++(=सु+आ+धियः)+++ मन॑सा देव॒यन्तः॑+++(=देवकामाः)+++ ॥
+यु᳓वा सुवा᳓साः प᳓रिवीत +++(यूप)+++ **आ᳓गात्**  
+स᳓ उ **श्रे᳓यान् भवति** जा᳓यमानः ।  
+तं᳓ धी᳓रासः कव᳓य **उ᳓न्नयन्ति**  
+स्वाध्यो३᳓+++(=सु+आ+धियः)+++ म᳓नसा देवय᳓न्तः+++(=देवकामाः)+++ ॥
 
 </details>
 </div>  
-
 
 आच्छादनार्थम् इदं वस्त्रं  
 (अभावे यज्ञोपवीतं, दर्भान् वा)  
@@ -321,33 +311,72 @@ title = "०५ भोजनम्"
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/02_svAdhyAya-brAhmaNAdi/01_niyata-yajJNa-prashaMsA/">
 <details open><summary><h2>०१ नियत-यज्ञ-प्रशंसा ...{Loading}...</h2></summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+तैत्तिरीयारण्यकम् ॥  
+अथ द्वितीयः प्रपाठकः ॥  
+अथ स्वाध्यायब्राह्मणं काठकशेषमारभ्यते ।  
+उक्तं च -  
+
+> स्वाध्यायब्राह्मणं काण्डं  
+> काठके पठितो विधिः । 
+
+इति ।  
+
+ऋषिर्ब्रह्मा स्वयम्भूर् नाम ।  
+तत्र “स्वाध्यायोऽध्येतव्यः” इत्यादौ यज्ञोपवीतविधानार्थो ऽयम् अनुवाकः[दः] ।  
+एतेनैव सिद्धे “निवीतं मनुष्याणां” इत्यादि-विधानं  
+तद्-भ्रेषे श्रौतप्रायश्चित्तार्थम् ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सह॒ वै दे॒वाना॒ञ् चासु॑राणाञ् च य॒ज्ञौ प्रत॑ताव् आस्ताव्ँ,  
 "व॒यँ स्व॒र्गल्ँ लो॒कम् ए॑ष्यामो, व॒यम् ए॑ष्याम॒" इति।  
 </details>
+
 <details><summary>मूलम्</summary>
 
 सह॒ वै दे॒वाना॒ञ् चासु॑राणाञ् च य॒ज्ञौ प्रत॑ताव् आस्ताव्ँ,  
 "व॒यँ स्व॒र्गल्ँ लो॒कम् ए॑ष्यामो, व॒यम् ए॑ष्याम॒" इति।  
 </details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+1सह वा इति ॥ सह वै यज्ञौ प्रततौ आरब्धौ आस्तां देवानामसुराणां च वयं स्वर्गं लोकं स्वामित्वेन एष्याम इति कृत्वा । यदा देवानां प्रवृत्तिरासीत् तदा असुराणामपि वयं स्वर्गं लोकमेष्याम इत्यासीत् । एवमन्योन्याभिभवेनैव यज्ञौ युगपदास्ताम् ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते ऽसु॑रास् स॒न्नह्य॒ सह॑सै॒वाच॑रन्।  
 ब्रह्म॒चर्ये॑ण॒ तप॑सैव दे॒वाः।  
 </details>
+
 <details><summary>मूलम्</summary>
 
 ते ऽसु॑रास् स॒न्नह्य॒ सह॑सै॒वाच॑रन्।  
 ब्रह्म॒चर्ये॑ण॒ तप॑सैव दे॒वाः।  
 </details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+तत्र तेऽसुराः सन्नह्य कतोत्साहाः कृतसन्नाहाः सहसा भुजबलमात्रेणैव आचरन् यागमारब्धवन्तः । ते देवास् तु ब्रह्मचर्यात्मना तपसा इत्थम्भूता एव यथोक्तं यज्ञमाचरन् । ब्रह्म व्रतं शास्त्रीयो नियमः यज्ञोपवीतीत्यादि, तस्य चरणं ब्रह्मचर्यम् । ‘गदमदचरयमश्चानुपसर्गे' इति यत् । 
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेऽसु॑रा अमुह्यँ॒स्, ते न प्राजा॑नँ॒स्, ते परा॑ऽभव॒न्, ते न स्व॒र्गल्ँ लो॒कमा॑य॒न्।  
 </details>
+
 <details><summary>मूलम्</summary>
 
 तेऽसु॑रा अमुह्यँ॒स्, ते न प्राजा॑नँ॒स्, ते परा॑ऽभव॒न्, ते न स्व॒र्गल्ँ लो॒कमा॑य॒न्।  
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+ततस् ते असुरा अयथोक्तमाचरन्तो अमुह्यन् वैचित्यमगमन् । मुह वैचित्ये । ततो न किञ्चित् कर्तव्याकर्तव्यम् अजानन् ।  
+ततश्चैव ते पराभवन् विनष्टा अभवन्, प्रारब्धकर्मफलालाभो विनाशः । ततस् ते स्वर्गं लोकं नायन्न गताः । अय गतौ ॥
 </details>
 </details>
 </div>
@@ -358,23 +387,43 @@ title = "०५ भोजनम्"
 प्रसृ॑तेन॒ वै य॒ज्ञेन॑ दे॒वास् स्व॒र्गल्ँ लो॒कम् आ॑य॒न्।  
 अप्रसृ॑ते॒नासु॑रा॒न् परा॑भावय॒न्।  
 </details>
+
 <details><summary>मूलम्</summary>
 
 प्रसृ॑तेन॒ वै य॒ज्ञेन॑ दे॒वास् स्व॒र्गल्ँ लो॒कम् आ॑य॒न्।  
 अप्रसृ॑ते॒नासु॑रा॒न् परा॑भावय॒न्।  
 </details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+2अथ कीदृशः पुनस्स यज्ञः येन देवास्स्वर्गं लोकमायन् यद्रहिताश्चासुराः पराभवन् ? अत्राह - प्रसृतेनेति ॥ प्रसृतेन प्रकृष्टसरणेन प्रशस्तगमनेन यज्ञेन इष्ट्वा देवाः स्वर्गं लोकं गताः, नप्रसृतेन प्रसृतविपरीतेन यज्ञेनेष्टवतोऽसुरान् पराभावयन् । नप्रसृतमप्रसृतं नलोपाभावश्छान्दसः । असुराः पराभूता इत्यर्थः ॥  
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रसृ॑तो ह॒ वै य॑ज्ञोपवी॒तिनो॑ य॒ज्ञो, ऽप्र॑सृ॒तो ऽनु॑पवी॒तिनः।  
-यत्किञ् च॑ ब्राह्म॒णो य॑ज्ञोपवी॒त्य् अधी॑ते॒ यज॑त ए॒व तत्।  
-तस्मा॑द् यज्ञोपवी॒त्य् ए॑वाधी॑यीत या॒जये॒द् यजे॑त वा।  
+प्रसृ॑तो ह॒ वै य॑ज्ञोपवी॒तिनो॑ य॒ज्ञो,  
+ऽप्र॑सृ॒तो ऽनु॑पवी॒तिनः।  
+यत्किञ् च॑ ब्राह्म॒णो य॑ज्ञोपवी॒त्य् अधी॑ते॒  
+यज॑त ए॒व तत्।  
+तस्मा॑द् यज्ञोपवी॒त्य् ए॑वाधी॑यीत  
+या॒जये॒द् यजे॑त वा।  
 </details>
+
 <details><summary>मूलम्</summary>
 
 प्रसृ॑तो ह॒ वै य॑ज्ञोपवी॒तिनो॑ य॒ज्ञो, ऽप्र॑सृ॒तो ऽनु॑पवी॒तिनः।  
 यत्किञ् च॑ ब्राह्म॒णो य॑ज्ञोपवी॒त्य् अधी॑ते॒ यज॑त ए॒व तत्।  
 तस्मा॑द् यज्ञोपवी॒त्य् ए॑वाधी॑यीत या॒जये॒द् यजे॑त वा।  
 </details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+3कः पुनस्तर्हि प्रसृतो यज्ञ इत्याह - यज्ञोपवीतिनो यज्ञः प्रसृतः प्रसृतगुणकः । यज्ञोपवीतस्य लक्षणमिदानीमेव वक्ष्यते । अनुपवीतिनो ऽयज्ञोपवीतिनः यज्ञोपवीतिविपरीतस्य यो यज्ञः सोऽप्रसृतः प्रसृतगुणरहितः । 'देवलक्ष्ममेव तत् कुरुते' इति श्रुतेर् यज्ञोपवीतस्य यज्ञसाधनत्वात् तद्वतो यज्ञः प्रसृतः, इतरस्साधनवैकल्येन अयज्ञत्वादप्रसृतः ।  
+
+तस्माद् यत्किञ्च ब्राह्मणो यज्ञोपवीतवान् अधीते अध्ययनेनार्थमवबुध्यते तत्तेन यजते एव, न केवलमयमधीते नार्थं जानाति, अपितु यजत एव ।  
+तस्माद्यज्ञोपवीत्येव अध्ययनं यजनं याजनं च कुर्याद् यज्ञस्य प्रसृत्यै प्रसृतगुणकत्वाय ॥  
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य॒ज्ञस्य॒ प्रसृ॑त्या॒  
@@ -384,6 +433,7 @@ title = "०५ भोजनम्"
 ऽव॑ धत्ते स॒व्यम्  
 इति॑ यज्ञोपवी॒तम् ए॒तद् ए॒व।  
 </details>
+
 <details><summary>मूलम्</summary>
 
 य॒ज्ञस्य॒ प्रसृ॑त्या॒  
@@ -393,15 +443,29 @@ title = "०५ भोजनम्"
 ऽव॑ धत्ते स॒व्यम्  
 इति॑ यज्ञोपवी॒तम् ए॒तद् ए॒व।  
 </details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+4अथ कथं नाम यज्ञः प्रसृतस्स्यादिति - अजिनं वासो वेति द्रव्यविधिः । अथ यज्ञोपवीतस्य लक्षणमाह - दक्षिणत उपवीय देहस्यदक्षिणमर्धमुपवीय उपच्छाद्य । व्येञ् संरवणे, ल्यपि सम्प्रसारणे 'हलः' इति दीर्घः ।  
+स च न सर्वात्मना उपच्छाद्यः, अपि तु प्रागन्तावीतं दक्षिणमर्धं कृत्वा दक्षिणं बाहुमुद्धरते उपरि करोति सव्यम् अवधत्ते अधस्तात्करोति स्थापयति इत्येतद् यज्ञोपवीतं यज्ञसाधनमुपवीतं देवसम्बन्धीत्यर्थः ।  
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विप॑रीतं प्राचीनावी॒तँ  
 स॒व्ँवीतं॑ मानु॒षम् । 1 ।
 </details>
+
 <details><summary>मूलम्</summary>
 
 विप॑रीतं प्राचीनावी॒तँ  
 स॒व्ँवीतं॑ मानु॒षम् । 1 ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+एतदेव विपरीतं प्राचीनावीतं यथा सव्यत उपवीय सव्यं बाहुमुद्धरते अवधत्ते दक्षिणमिति । सञ्ज्ञेयं 'प्राचीनावीती निर्वपति' इत्याद्यर्थम् । अन्वर्था चेयं सञ्ज्ञा, प्राचीनस्य उपवीतस्य आवीतम् आवेष्टनरूपं विपरीतात्मकत्वादिति । तेन पित्र्यमुक्तं भवति दैवविपरीतत्वात्पित्र्यस्य । संवीतं समं वीतम् अंसद्वयावलम्बनेन वीतं संवीतम् । उभावपि बाहू यत्राधः क्रियते तत् संवीतं मानुषं मनुष्याणां स्वं भवति ॥  
+इत्यारण्यके द्वितीये प्रथमोनुवाकः ॥
 </details>
 </details>
 </div>
@@ -418,6 +482,7 @@ title = "०५ भोजनम्"
 तान् प्र॒जाप॑तिर् अब्रवी॒द् - "योध॑य॒ध्वमि"ति।  
 तस्मा॒द् उत्ति॑ष्ठन्तँ॒ ह वा॒ तानि॒ रक्षाँ॑स्यादि॒त्यय्ँ योध॑यन्ति॒ याव॑दस्त॒मन्व॑गा॒त्।  
 </details>
+
 <details><summary>मूलम्</summary>
 
 रक्षाँ॑सि॒ ह वा॑ पुरोऽनुवा॒के तपोग्र॑म् अतिष्ठन्त।  
@@ -427,23 +492,38 @@ title = "०५ भोजनम्"
 तस्मा॒द् उत्ति॑ष्ठन्तँ॒ ह वा॒ तानि॒ रक्षाँ॑स्यादि॒त्यय्ँ योध॑यन्ति॒ याव॑दस्त॒मन्व॑गा॒त्।  
 </details>
 
+<details><summary>भट्टभास्कर-टीका</summary>
+
+अथ स्वाध्यायात्प्राग्भावित्वादादावेव सन्ध्योपासनविधिं तावदाह - रक्षांसीति ॥ पुरोऽनुवाके पूर्वस्मिन्काले । अनु पश्चादुच्यत इत्यनुवाकः । इत्थं पूर्वमासीदिति यस्सर्वदाऽनूच्यते स कालः पुरोऽनुवाकः, पुराकल्प इति यावत् । तत्र रक्षांसि हवा हवार्थं युद्धार्थं ‘सुपां सुलुक्' इति चतुर्थ्या आकारः । यद्वा - हवेति निपातसमुदायः प्रसिद्ध्यर्थः । वैशब्दसमानार्थो वा हवाशब्दः । तपो ऽग्रं श्रेष्ठं तीव्रम् अतिष्ठन्त आस्थितवन्तः । आस्थाने तिष्ठतिर्वर्तते । व्यत्ययेनात्मनेपदम् । यद्वा - 'प्रकाशनस्थेयाख्ययोश्च' इत्यात्मनेपदम् । तीव्र तपः प्रकाशितवन्तः । अन्तर्भावितण्यर्थोऽयम् । तपसश्च अनुष्ठेयत्वेनाज्ञीप्स्यमानत्वात् 'श्लाघह्नुङ्स्थाशपां ज्ञीप्स्यमानः' इति चतुर्थ्यभावः । अन्य आह - पुरोऽनुवाकः प्रातरनुवाकः । तेन चाग्निष्टोमो लक्ष्यते - यज्ञे वर्तमानास्तपः कृतवन्त इति । अपर आह - पूर्वस्यां दिश्यनूच्यमाने देशे पुरोऽनुवाके कुरुक्षेत्रे इति । अथ तान् तानि रक्षांसि । लिङ्गव्यत्ययः । यद्वा - शेर्लोपेऽपि नुम् प्रवर्तते । प्रजापतिर् वरेण देयेन उपामन्त्रयत वरं वृणीध्वमिति रहस्युपच्छन्दितवान् । अथ तानि वरमवृणीत अवृणत । वर्णव्यत्ययेन ईकारः । वचनव्यत्ययो वा । वरमाह - आदियो नो ऽस्मान् योद्धै योधयेत्, वयं च तं योधयेम इति । प्रजापतिश् च अब्रवीद् योधयध्वमिति । युधेर्लेटि शपो लुकि 'छन्दस्युभयथा' इति तिङ आर्धधातुकत्वाद्गुणः । टेरेत्वे 'वैतोऽन्यत्र' इत्य् ऐकारे कृते संहितायामायादेशे ‘लोपश्शाकल्यस्य' इति लोपः । ण्यन्तादेव वा लेटि पूर्ववदार्धधातुकत्वेन णिलोपः । 'बुधयुधनश' इति परस्मैपदं व्यत्ययेन न प्रवर्तते । यो मन्यते 'अस्तु' इत्यध्याहारेण आदित्योऽस्माकं योद्धाऽस्त्विति, तस्यापि संहितायां गुणाभावाय यतितव्यमिति नाश्वासः । यस्मादेवं वरमलभन्त तस्माद्वरबलेन उत्तिष्ठन्तं - उर्ध्वकर्मत्वेन परस्मैपदं - उद्यन्तमादित्यं तानि रक्षांसि योधयन्ति । हवेति व्याख्यातम् । 
+
+यावदस्तमन्वगाद् यावति कालेऽस्तं गच्छति तदाऽपीत्यर्थः । अस्तं यन्तं च योधयन्तीत्युक्तं भवति । छान्दसो लुङ् ॥  
+</details>
+
 ### अर्घ्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तानि॑ ह॒ वा ए॒तानि॒ रक्षाँ॑सि  
 गायत्रि॒याऽभि॑मन्त्रिते॒नाम्भ॑सा शाम्यन्ति।  
 </details>
+
 <details><summary>मूलम्</summary>
 
 तानि॑ ह॒ वा ए॒तानि॒ रक्षाँ॑सि  
 गायत्रि॒याऽभि॑मन्त्रिते॒नाम्भ॑सा शाम्यन्ति।  
 </details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+2इदानीं तेषां रक्षसां शान्तिं विदधाति - तानि तथा युध्यमानानि रक्षांस्य् एतानि गायत्र्या साविञ्या अभिमन्त्रितेनाम्भसा ऊर्द्धं विक्षिप्तेन शाम्यन्ति । तस्मात्तथा कुर्यादिति विधिः । 
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदु॑ ह॒ वा ए॒ते ब्र॑ह्मवा॒दिनः॑ पू॒र्वाभि॑मु॒खाः स॒न्ध्याया॑ङ्  
 गायत्रि॒या ऽभि॑मन्त्रिता॒ आप॑ ऊ॒र्ध्वं विक्षि॑पन्ति।  
 ता ए॒ता आपो॑ व॒ज्रीभू॒त्वा तानि॒ रक्षाँ॑सि म॒न्देहारु॑णे द्वी॒पे प्रक्षि॑पन्ति।
 </details>
+
 <details><summary>मूलम्</summary>
 
 तदु॑ ह॒ वा ए॒ते ब्र॑ह्मवा॒दिनः॑ पू॒र्वाभि॑मु॒खाः स॒न्ध्याया॑ङ्  
@@ -451,17 +531,26 @@ title = "०५ भोजनम्"
 ता ए॒ता आपो॑ व॒ज्रीभू॒त्वा तानि॒ रक्षाँ॑सि म॒न्देहारु॑णे द्वी॒पे प्रक्षि॑पन्ति।
 </details>
 
+<details><summary>भट्टभास्कर-टीका</summary>
+
+तदु ह वै तस्मादेव हि खल्व् एते ब्रह्मवादिनः ब्रह्मणो वेदितारो ब्राह्मणादयः पूर्वाभिमुखास्तिष्ठन्तः सन्ध्याथां प्रातः गायत्र्या आभिमन्त्रिता आपो ऽपः - विभक्तिव्यत्ययः - ऊर्ध्वं विक्षिपन्ति । उपलक्षणत्वात्सायं प्रत्यङ्मुखा इत्यवगम्यते । ता एता आपो वज्रीभूत्वा तानि रक्षांसि मन्देहा मन्देहनाम्नां रक्षसां - "सुपां सुलुक्” इति षष्ठ्या आकारः - तेषां रक्षसां स्वभूते अरुणे अरुणनाम्नि द्वीपे प्रक्षिपन्ति पातयन्ति । 
+</details>
 
 ### प्रदक्षिणीकरणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत् प्र॑दक्षि॒णं प्रक्र॑मन्ति॒, तेन॑ पा॒प्मान॒म् अव॑धून्वन्ति।  
 </details>
+
 <details><summary>मूलम्</summary>
 
 यत् प्र॑दक्षि॒णं प्रक्र॑मन्ति॒, तेन॑ पा॒प्मान॒म् अव॑धून्वन्ति।  
 </details>
 
+<details><summary>भट्टभास्कर-टीका</summary>
+
+यत्प्रदक्षिणं प्रक्रमन्ति दक्षिणप्रारम्भमावर्तन्ते तेन पाप्मानम् आत्मस्थम् अवधून्वन्ति । 
+</details>
 
 ### ब्रह्म-भावनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -472,6 +561,7 @@ title = "०५ भोजनम्"
 ब्रह्मै॒व सन् ब्रह्मा॒प्येति॒-  
 य ए॒वव्ँ वेद॑ ।2।
 </details>
+
 <details><summary>मूलम्</summary>
 
 उ॒द्यन्त॑म् अस्त॒य्ँ यन्त॑म् आदि॒त्यम् अ॑भिध्या॒यन्  
@@ -479,6 +569,12 @@ title = "०५ भोजनम्"
 असाव् आ॑दि॒त्यो ब्र॒ह्मेति॒ -  
 ब्रह्मै॒व सन् ब्रह्मा॒प्येति॒-  
 य ए॒वव्ँ वेद॑ ।2।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+तस्माद् उद्यन्तमस्तंयन्तञ्चादित्यमभिध्यायन् आभिमुख्येन चिन्तयन् कुर्वंश्च प्रदक्षिणं विद्वांश्च असावादियो ब्रह्मेत्य् असावेवादित्यः परम्ब्रह्मेति ब्रह्मादित्ययोरभेदम् आदित्येन चात्मन ऐक्यं जानन् ब्राह्मणः सकलं भद्रं कल्याणम् अश्नुते न केवलं स्वर्गादिकमेव, अपितु सकलं कल्याणम् । अथ य एवं वेद सोऽपि ब्रह्मैव सन् ब्रह्माप्येति ब्रह्मणा ऐक्यं प्रतिपद्यते, किं पुनस्स्वर्गादि सकलं भद्रमश्नुत इति । यद्वा - असावादित्यो ब्रह्मेति विद्वान् तेन चादित्येनात्मन ऐक्यात् स्वयमपि ब्रह्मैव आदित्यः सन् कुर्वन् आचरन् एवं विशिष्टमादित्योपस्थानम् आचरन् सकलं भद्रमश्नुते अपवर्गमपि प्राप्नोति । अथ य एवं वेदिता सोऽपि ब्रह्माप्येति प्राप्नोति ॥  
+इति द्वितीथे द्वितीयोऽनुवाकः ॥
 </details>
 </details>
 </div>
@@ -499,7 +595,6 @@ title = "०५ भोजनम्"
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/16_eSha_te.md">
 <details open><summary><h5>१६ एष ते ...{Loading}...</h5></summary>
-
 
 ए॒ष ते॑ तत॒ +++(स्वधासमुद्रः)+++ मधु॑माँ ऊ॒र्मिस् सर॑स्वा॒न्।  
 यावा॑न् अ॒ग्निश् च॑ पृथि॒वी च॒ ताव॑त्य् अस्य मा॒त्रा।  
@@ -522,7 +617,6 @@ title = "०५ भोजनम्"
 </details>
 </div>  
 
-
 [^8]:
 
     > अवधेयम् -  
@@ -533,8 +627,6 @@ title = "०५ भोजनम्"
     इति +अभिनव-देशिकाः ।
 
 [[125]]
-
-
 
 ### देव-पात्रे
 अथ देव-पात्रे उदङ्-मुखः  
@@ -550,10 +642,8 @@ title = "०५ भोजनम्"
 इति प्रदक्षिणं परिषिच्य,  
 (विश्वेदेवहस्ते शुद्धोदकं दत्वा,)
 
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/01_pRthivI_te.md">
 <details open><summary><h5>०१ पृथिवी ते ...{Loading}...</h5></summary>
-
 
 +++(हे अन्न -)+++ पृ॒थि॒वी ते॒ पात्रं॒,   
 द्यौर् अ॑पि॒धानम्।   
@@ -568,16 +658,14 @@ title = "०५ भोजनम्"
 </details>
 </div>  
 
-
 इति सव्येन पात्रमालभ्य दक्षिणेन ब्राह्मणहस्तं गृहीत्वा, अन्नं सर्वं स्पर्शयित्वा 
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/022/17_idaM_viShNurvi.md">
 <details open><summary><h2>१७ इदं विष्णुर्वि ...{Loading}...</h2></summary>
 
-
-इ॒दव्ँ विष्णु॒र् +++(अग्नि-विद्युत्-सूर्यात्मना)+++ **वि च॑क्रमे**  
-+++(पृथिव्याम् अन्तरिक्षे दिवि च)+++ त्रे॒धा **नि द॑धे** प॒दम् ।  
-+++(तैर् आधारैर् जगत्)+++ **सम् ऊ॑ढम्** अस्य पाँसु॒रे +++(ले इति साम्नि, पांसुमति [पादे])+++ ॥
+इद᳓व्ँ वि᳓ष्णुर् +++(अग्नि-विद्युत्-सूर्यात्मना)+++ **वि᳓ चक्रमे**  
++++(पृथिव्याम् अन्तरिक्षे दिवि च)+++ त्रेधा᳓ **नि᳓ दधे** पद᳓म् ।  
++++(तैर् आधारैर् जगत्)+++ **स᳓म् ऊढम्** अस्य पाँसुरे᳓ +++(ले इति साम्नि, पांसुमति [पादे])+++ ॥
 
 </details>
 </div>  
@@ -651,7 +739,6 @@ title = "०५ भोजनम्"
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/yaJNeshvaraH__eko_viShNuH/">
 <details open><summary><h5>यज्ञेश्वरो … एको विष्णुः ...{Loading}...</h5></summary>
 
-
 यज्ञेश्वरो हव्य-समस्त-कव्य-  
 **भोक्ता** ऽव्ययात्मा हरिर् ईश्वरो ऽत्र ।  
 तत्-सन्निधानाद् **अपयान्तु** सद्यो  
@@ -663,7 +750,6 @@ title = "०५ भोजनम्"
 **भुङ्क्ते** विश्व-भुग् अव्ययः ॥ 
 </details>
 </div>  
-
 
 इति +उच्चार्य
 
@@ -719,6 +805,7 @@ title = "०५ भोजनम्"
 शि॒वो मा॑ ऽऽवि॒शाऽप्र॑दाहाय।  
 समा॒नाय॒ स्वाहा॑ ।
 </details>
+
 <details><summary>मूलम्</summary>
 
 प्रा॒णे निवि॑ष्टो॒ ऽमृत॑ञ्जुहोमि।  
@@ -749,6 +836,7 @@ title = "०५ भोजनम्"
 
 ब्रह्म॑णि म आ॒त्माऽमृ॑त॒त्वाय॑ । (48)
 </details>
+
 <details><summary>मूलम्</summary>
 
 ब्रह्म॑णि म आ॒त्माऽमृ॑त॒त्वाय॑ । (48)
@@ -852,10 +940,6 @@ title = "०५ भोजनम्"
 २२. इतिहासपुराणादीनि इत्यादि श्रावयेत् ॥  
 (अभिश्रवणमन्त्राः पु. १४४-१५५ द्रष्टव्याः ॥)
 
-
-
-
-
 ## तृप्ति-प्रश्नाः
 भोजनान्ते अन्नादिकं पात्रे परिकल्प्य, 
 
@@ -932,14 +1016,12 @@ title = "०५ भोजनम्"
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/082/02_axannamImadanta_hyava.md">
 <details open><summary><h5>०२ अक्षन्नमीमदन्त ह्यव ...{Loading}...</h5></summary>
 
-
-**अक्ष॒न्न्**+++(=भुक्तवन्तः)+++, **अमी॑मदन्त॒** ह्य् अव॑ प्रि॒या **अ॑धूषत**+++(=अकम्पयन् [=वक्तुम् अशक्नुवन्])+++ ।  
-**अस्तो॑षत॒**+++(=अस्तुवन्)+++ स्वभा॑नवो॒ विप्रा॒   
-नवि॑ष्ठया म॒ती+++(त्या)+++, +++(अतो रथे)+++ **योजा॒**+++(=योजय)+++ न्वि् इ॑न्द्र ते॒ हरी॑ ॥  
+**अ᳓क्षन्न्**+++(=भुक्तवन्तः)+++, **अ᳓मीमदन्त** ह्य् अ᳓व प्रिया᳓ **अधूषत**+++(=अकम्पयन् [=वक्तुम् अशक्नुवन्])+++ ।  
+**अ᳓स्तोषत**+++(=अस्तुवन्)+++ स्व᳓भानवो वि᳓प्रा   
+न᳓विष्ठया मती᳓+++(त्या)+++, +++(अतो रथे)+++ **यो᳓जा**+++(=योजय)+++ न्वि्᳓ इन्द्र ते ह᳓री ॥  
 
 </details>
 </div>  
-
 
 इति च जपित्वा
 
@@ -1161,169 +1243,210 @@ title = "०५ भोजनम्"
 
 18षद्भिर्नमस्कारैरुपतिष्ठते - नमो व इति ॥ 
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 नमो॑ वᳶ पितरो॒ रसा॑य॒ नमो॑ वᳶ पितर॒श्शुष्मा॑य॒ नमो॑ वᳶ पितरो जी॒वाय॒ नमो॑ वᳶ पितरः [20]  स्व॒धायै॒ नमो॑ वᳶ पितरो म॒न्यवे॒ नमो॑ वᳶ पितरो घो॒राय॒ पित॑रो॒ नमो॑ वो॒ य ए॒तस्मि॑ल्ँ लो॒के स्थ यु॒ष्माँस्तेऽनु॒ ये॑ऽस्मिल्ँ लो॒के मान्तेऽनु॒ य ए॒तस्मि॑ल्ँ लो॒के स्थ यू॒यन्तेषा॒व्ँवसि॑ष्ठा भूयास्त॒ ये॑ऽस्मिल्ँ लो॒के॑ऽहन्तेषा॒व्ँवसि॑ष्ठो भूयासम्
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नमो॑ वᳶ पितरो॒ रसा॑य । [पित॑रो॒ नमो॑ वः।],
 </details>
+
 <details><summary>Keith</summary>
 
 Homage to your taste, O fathers; 
 </details>
+
 <details><summary>मूलम्</summary>
 
 नमो॑ वᳶ पितरो॒ रसा॑य । [पित॑रो॒ नमो॑ वः।],
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हे पितरः युष्मभ्यं नमः नमस्करोमि रसाय रसार्थं रसवान् भूयासमिति । 'पितरो नमो वः' इत्यादिकं षट्स्वप्यजुषज्यते ।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नमो॑ वᳶ पितर॒श् शुष्मा॑य +++(पित॑रो॒ नमो॑ वः )+++,,
 </details>
+
 <details><summary>Keith</summary>
 
 homage to your birth, O fathers; 
 </details>
+
 <details><summary>मूलम्</summary>
 
 नमो॑ वᳶ पितर॒श्शुष्मा॑य +++(पित॑रो॒ नमो॑ वः )+++,,
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 शुष्मो बलम् ।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नमो॑ वᳶ पितरो जी॒वाय । [पित॑रो॒ नमो॑ वः।],
 </details>
+
 <details><summary>Keith</summary>
 
 homage to your life, O fathers; 
 </details>
+
 <details><summary>मूलम्</summary>
 
 नमो॑ वᳶ पितरो जी॒वाय । [पित॑रो॒ नमो॑ वः।],
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 जीवः प्राणः ।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नमो॑ वᳶ पि॒त॒र॒स् स्व॒धायै॑ । [पित॑रो॒ नमो॑ वः।],,
 </details>
+
 <details><summary>Keith</summary>
 
 homage to your [5] custom, O fathers; 
 </details>
+
 <details><summary>मूलम्</summary>
 
 नमो॑ वᳶ पि॒त॒र॒स्स्व॒धायै॑ । [पित॑रो॒ नमो॑ वः।],,
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 स्वधा अन्नम् ।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नमो॑ वᳶ पितरो म॒न्यवे॑ । [पित॑रो॒ नमो॑ वः।],,
 </details>
+
 <details><summary>Keith</summary>
 
 homage to your anger, O fathers; 
 </details>
+
 <details><summary>मूलम्</summary>
 
 नमो॑ वᳶ पितरो म॒न्यवे॑ । [पित॑रो॒ नमो॑ वः।],,
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 मन्युर्दीप्तिः, क्रोधो वा ।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नमो॑ वᳶ पितरो घो॒राय॑ ,  
 पित॑रो॒ नमो॑ वः ।
 </details>
+
 <details><summary>Keith</summary>
 
 homage to your terrors, O fathers; O fathers, homage to you.
 </details>
+
 <details><summary>मूलम्</summary>
 
 नमो॑ वᳶ पितरो घो॒राय॑ ,  
 पित॑रो॒ नमो॑ वः ।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 घोरः क्रूरम् । एतयोः स्थाने प्राधान्यं प्रार्थ्यते ।
 हे पितरः युष्मभ्यं नमः । फलमनपेक्ष्य सप्तमोयं नमस्कारः क्रियते । पुनर्वचनं फलनिरपेक्षया नमस्कारार्थम् । अन्य आहुः - पितृसंबन्धिभ्यो रसादिभ्यः प्रथमं षण्णमस्काराः, ततः पितृभ्य एव सप्तम इति ।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य ए॒तस्मि॑ल्ँ लो॒के स्थ यु॒ष्माँस्तेऽनु॑ ।
 </details>
+
 <details><summary>Keith</summary>
 
 Ye that are in that world, may they follow you;
 </details>
+
 <details><summary>मूलम्</summary>
 
 य ए॒तस्मि॑ल्ँ लो॒के स्थ यु॒ष्माँस्तेऽनु॑ ।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ये एतस्मिन् लोके पितरः स्थ । एतस्मिन्निति पितृलोकं व्यपदिशति । स्थेति सर्वपित्रभिप्रायेणोक्तम् । ते सर्वे युष्माननुसन्तु युष्मत्प्रधाना भवन्तु । 'हीने' इत्यनोः कर्मप्रवचनीयत्वम् । युष्मानिति पित्रादित्रयं व्यपदिशति ।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये॑ऽस्मिल्ँ लो॒के मान् तेऽनु॑ ।
 </details>
+
 <details><summary>Keith</summary>
 
 ye that are in this world, may they follow me.
 </details>
+
 <details><summary>मूलम्</summary>
 
 ये॑ऽस्मिल्ँ लो॒के मान्तेऽनु॑ ।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अस्मिन् मनुष्यलोके मनुष्याः स्थ, ते सर्वे मामनु सन्तु मत्प्रधाना भवन्तु ।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य ए॒तस्मि॑ल्ँ लो॒के स्थ यू॒यन् तेषा॒व्ँ वसि॑ष्ठा भूयास्त ।
 </details>
+
 <details><summary>Keith</summary>
 
 Ye that are in that world, of them be ye the most fortunate; 
 </details>
+
 <details><summary>मूलम्</summary>
 
 य ए॒तस्मि॑ल्ँ लो॒के स्थ यू॒यन्तेषा॒व्ँवसि॑ष्ठा भूयास्त ।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ये यूयमेतस्मिन् लोके स्थ तेषां पितॄणां यूयं वसिष्ठाः वसुमत्तमा भूयास्त ।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये॑ऽस्मिल्ँ लो॒के॑ ऽहन् तेषा॒व्ँवसि॑ष्ठो भूयासम् ।
 </details>
+
 <details><summary>Keith</summary>
 
 ye that are in this world, of these may I be the most fortunate.
 </details>
+
 <details><summary>मूलम्</summary>
 
 ये॑ऽस्मिल्ँ लो॒के॑ऽहन्तेषा॒व्ँवसि॑ष्ठो भूयासम् ।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 येऽस्मिन् लोके सन्ति मनुष्यास्तेषां मनुष्याणामहं वसिष्ठो वसुमत्तमो भूयासम् । वसुशब्दादिष्ठनि 'विन्मतोर्लुक्' इति लुक्, 'टेः' इति टिलोपः ॥
@@ -1366,6 +1489,7 @@ ye that are in this world, of these may I be the most fortunate.
 
 ऽष्टाव॑ष्टाव॒न्येषु॒ धिष्णि॑ये॒षूप॑ दधात्य॒ष्टाश॑फाᳶ प॒शवᳶ॑ प॒शूने॒वाव॑ रुन्द्धे॒ षण्मा॑र्जा॒लीये॒ षड्वा ऋ॒तव॑ ऋ॒तव॒ᳵ खलु॒ वै दे॒वाᳶ पि॒तर॑ ऋ॒तूने॒व दे॒वान्पि॒तॄन्प्री॑णाति ॥ [55]
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अष्टाव् अ॑ष्टाव॒न्येषु॒ धिष्णि॑ये॒षूप॑ दधाति ।  
@@ -1374,6 +1498,7 @@ ye that are in this world, of these may I be the most fortunate.
 ऋ॒तव॒ᳵ खलु॒ वै दे॒वाᳶ पि॒तरः॑ ।  
 ऋ॒तूने॒व दे॒वान्पि॒तॄन्प्री॑णाति ॥ [55]
 </details>
+
 <details><summary>मूलम्</summary>
 
 अष्टाव॑ष्टाव॒न्येषु॒ धिष्णि॑ये॒षूप॑ दधाति ।  
@@ -1382,6 +1507,7 @@ ye that are in this world, of these may I be the most fortunate.
 ऋ॒तव॒ᳵ खलु॒ वै दे॒वाᳶ पि॒तरः॑ ।  
 ऋ॒तूने॒व दे॒वान्पि॒तॄन्प्री॑णाति ॥ [55]
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 14अष्टाविति ॥ एकां याजुषीम् । सप्त च लोकंपृणाः ।  
@@ -1392,7 +1518,6 @@ ye that are in this world, of these may I be the most fortunate.
 </details>
 </details>
 </div>  
-
 
 इत्य् उपस्थाय -  
 **उपवीती** - प्रदक्षिणीकृत्य प्रणम्योत्थाय,
@@ -1405,15 +1530,58 @@ ye that are in this world, of these may I be the most fortunate.
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/05-09_agnirAyuShmAntsa_vanaspatibhirAyuShmAntena.md">
 <details open><summary><h2>०५-०९ अग्निरायुष्मान्त्स वनस्पतिभिरायुष्मान्तेन ...{Loading}...</h2></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/2/3/10_AyuShkAmeShTimantrAH/agnir_AyuShmAn.md">
+<details open><summary><h4>अ॒ग्निरायु॑ष्मा॒न्त्स ...{Loading}...</h4></summary>
+<details><summary>मूलम् (संयुक्तम्)</summary>
 
+अ॒ग्निरायु॑ष्मा॒न्त्स वन॒स्पति॑भि॒रायु॑ष्मा॒न्तेन॒ त्वायु॒षायु॑ष्मन्तङ्करोमि॒ सोम॒ आयु॑ष्मा॒न्त्स ओष॑धीभिर्य॒ज्ञ आयु॑ष्मा॒न्त्स दक्षि॑णाभि॒र्ब्रह्मायु॑ष्म॒त्तद्ब्रा॑ह्म॒णैरायु॑ष्मद्दे॒वा आयु॑ष्मन्त॒स्ते॑ऽमृते॑न पि॒तर॒ आयु॑ष्मन्त॒स्ते स्व॒धयायु॑ष्मन्त॒स्तेन॒ त्वायु॒षायु॑ष्मन्तङ्करोमि ॥ [40]
+</details>
 
-अ॒ग्निर् आयु॑ष्मा॒न्त्, स वन॒स्पति॑भि॒र् आयु॑ष्मा॒न्, तेन॒ त्वाऽऽयु॒षाऽऽयु॑ष्मन्तं करोमि ।  
-सोम॒ आयु॑ष्मा॒न्त्, स ओष॑धीभि॒र् आयु॑ष्मा॒न्, तेन॒ …।  
-य॒ज्ञ आयु॑ष्मा॒न्त्, स दक्षि॑णाभि॒र् आयु॑ष्मा॒न्, तेन॒ …।  
-ब्रह्मायु॑ष्मत्, तद् ब्रा॑ह्म॒णैर् आयु॑ष्म॒त्, तेन॒ …।  
-दे॒वा आयु॑ष्मन्त॒स्, ते॑ऽमृते॒नायु॑ष्मन्त॒स्, तेन॒ …।  
-[पि॒तर॒ आयु॑ष्मन्त॒स् ते स्व॒धयायु॑ष्मन्त॒स्, तेन॒ …।]
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
++++(हे यजमान)+++  
+अ॒ग्निर् आयु॑ष्मा॒न् ,   
+स वन॒स्-पति॑भि॒र् आयु॑ष्मा॒न् ,   
+तेन॒ त्वा ऽऽयु॒षा ऽऽयु॑ष्मन्तङ् करोमि ।
+
+सोम॒ आयु॑ष्मा॒न् स ओष॑धीभिर् [आयु॑ष्मा॒न् तेन॒ त्वा ऽऽयु॒षा ऽऽयु॑ष्मन्तङ् करोमि ।]
+
++++(हे यजमान)+++ य॒ज्ञ [आयु॑ष्मा॒न्], स दक्षि॑णाभि॒र् आयु॑ष्मा॒न्, [तेन॒ त्वा ऽऽयु॒षा ऽऽयु॑ष्मन्तङ् करोमि ।]
+
++++(हे यजमान)+++ ब्रह्मायु॑ष्म॒त्, तद्ब्रा॑ह्म॒णैरायु॑ष्मत् , [तेन॒ त्वा ऽऽयु॒षा ऽऽयु॑ष्मन्तङ् करोमि ।]
+
++++(हे यजमान)+++ दे॒वा आयु॑ष्मन्तः।  
+ते॒॑ऽमृते॑न [+आयु॑ष्मन्तः]  [तेन॒ त्वा ऽऽयु॒षा ऽऽयु॑ष्मन्तङ् करोमि ।]  
+
+पि॒तर॒ आयु॑ष्मन्त॒स् ते स्व॒धयाऽऽयु॑ष्मन्त॒स्, तेन॒ त्वा ऽऽयु॒षा ऽऽयु॑ष्मन्तङ् करोमि । 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॒ग्निरायु॑ष्मा॒न् ,   
+स वन॒स्पति॑भि॒रायु॑ष्मा॒न् ,   
+तेन॒ त्वायु॒षायु॑ष्मन्तङ्करोमि ।
+
+सोम॒ आयु॑ष्मा॒न् ,
+स ओष॑धीभिर्य॒ज्ञ आयु॑ष्मा॒न्,
+
+स दक्षि॑णाभि॒र्ब्रह्मायु॑ष्म॒त्,
+
+तद्ब्रा॑ह्म॒णैरायु॑ष्मत् ,
+
+दे॒वा  आयु॑ष्मन्तः
+ते॑ऽमृते॑न  
+पि॒तर॒ आयु॑ष्मन्त॒स्ते स्व॒धयायु॑ष्मन्त॒स्तेन॒ त्वायु॒षायु॑ष्मन्तङ्करोमि
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+अग्निरायुष्मान् दीर्घायुः । स वनस्पतिभिरायुष्मान् तैर्हेतुभिस्तैर्वासह । तेनायुषा उभयेनायुषा त्वामायुष्मन्तं करोमि दीर्घायुषं करोमि । हे यजमान सोमादिषु 'आयुष्मान्तेन' इत्याद्यनुषज्यते । सोम ओषधीभिः, यज्ञो दक्षिणाभिः ब्रह्म ब्राह्मणैः, देवा अमृतेन, पितरस्स्वधया ॥
+
+इति द्वितीये तृतीये दशमोनुवाकः ॥
+</details>
+</details>
+</div>
 </details>
 </div>
 
@@ -1434,6 +1602,7 @@ ye that are in this world, of these may I be the most fortunate.
 अनुग्रहश् च युष्माभिः  
 कृतोऽस्मासु दयालुभिः ॥  
 </details>
+
 <details><summary>मूलम्</summary>
 
 धन्या वयं भवत्पाद-  
@@ -1441,6 +1610,7 @@ ye that are in this world, of these may I be the most fortunate.
 अनुग्रहश् च युष्माभिः  
 कृतोऽस्मासु दयालुभिः ॥  
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पत्र-शाकादि-दानेन  
@@ -1448,6 +1618,7 @@ ye that are in this world, of these may I be the most fortunate.
 तत्-क्लेश-जातं चित्तेषु  
 विस्मृत्य क्षन्तुम् अर्हथ ॥  
 </details>
+
 <details><summary>मूलम्</summary>
 
 पत्र-शाकादि-दानेन  
@@ -1455,6 +1626,7 @@ ye that are in this world, of these may I be the most fortunate.
 तत्-क्लेश-जातं चित्तेषु  
 विस्मृत्य क्षन्तुम् अर्हथ ॥
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मन्त्र-हीनं क्रिया-हीनं  
@@ -1462,6 +1634,7 @@ ye that are in this world, of these may I be the most fortunate.
 श्राद्धं सम्पूर्णतां यातु  
 प्रसादात् भवतां मम ॥  
 </details>
+
 <details><summary>मूलम्</summary>
 
 मन्त्र-हीनं क्रिया-हीनं  
@@ -1469,6 +1642,7 @@ ye that are in this world, of these may I be the most fortunate.
 श्राद्धं सम्पूर्णतां यातु  
 प्रसादात् भवतां मम ॥
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्य मे सफलं जन्म  
@@ -1476,6 +1650,7 @@ ye that are in this world, of these may I be the most fortunate.
 अद्य मे वंशजाः सर्वे  
 याता वोऽनुग्रहात् दिवम् 
 </details>
+
 <details><summary>मूलम्</summary>
 
 अद्य मे सफलं जन्म  
@@ -1486,22 +1661,19 @@ ye that are in this world, of these may I be the most fortunate.
 </details>
 </div>  
 
-
 इत्युपचारान् उत्त्वा,  
 पादौ निपीड्य
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/038/08_vAjevAje_avata_vAjino.md">
 <details open><summary><h5>०८ वाजेवाजेऽवत वाजिनो ...{Loading}...</h5></summary>
 
-
-वाजे॑वाजे ऽवत वाजिनो! नो॒  
-धने॑षु, विप्रा! अमृता! ऋत-ज्ञाः ।  
-अ॒स्य मध्वः॑ पिबत मा॒दय॑ध्वं  
-तृ॒प्ता या॑त प॒थिभि॑र् देव॒-यानैः॑ ॥
+वा᳓जेवाजे ऽवत वाजिनो! नो  
+ध᳓नेषु, विप्रा! अमृता! ऋत-ज्ञाः ।  
+अस्य᳓ म᳓ध्वः पिबत माद᳓यध्वं  
+तृप्ता᳓ यात पथि᳓भिर् देव-या᳓नैः ॥
 
 </details>
 </div>  
-
 
 इति प्रतिब्राह्मणम् उक्त्वा,
 
@@ -1521,15 +1693,25 @@ ye that are in this world, of these may I be the most fortunate.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वा॒म॒दे॒वाय॒ नमो॑  
-ज्ये॒ष्ठाय॒ नमो॑  
+ज्ये॒ष्ठाय॒ नमः॑  
+(श्रेष्ठा॑य॒ नमो॑)  
 रु॒द्राय॒ नमः॒  
-काला॑य॒ नमः॒  
+का॒लाय॒+++(~~काला॑य॒~~)+++ नमः॒  
 कल॑-विकरणाय॒ नमो॒  
 बल॑-विकरणाय॒ नमो॒  
+(बला॑य॒ नमो॑)  
 बल॑-प्रमथनाय॒ नम॒स्  
 सर्व॑-भूत-दमनाय॒ नमो॑  
-म॒नोन्म॑नाय॒ नमः॑ । (59)
+म॒नोन्म॑नाय॒ +++(←स्वरः?? व्युत्पत्तिः?)+++ नमः॑ । (59)
 </details>
+
+<details><summary>स्वरोहः</summary>
+
+तत्पुरुषग्रहणे -
+
+वा॒म॒दे॒वाय॒ नमो॑ ज्ये॒ष्ठाय॒ नमः॒ श्रेष्ठा॑य॒ नमो॑ रु॒द्राय॒ नमः॑ का॒लाय॒ नमः॑ कलवि॒कर॑णाय॒ नमो॑ बलवि॒कर॑णाय॒ नमो॒ बला॑य॒ नमो॑ बलप्र॒मथ॑नाय॒ नमः॑ सर्वभूत॒दम॑नाय॒ नमः॑।
+</details>
+
 <details><summary>मूलम्</summary>
 
 वा॒म॒दे॒वाय॒ नमो॑  
@@ -1541,7 +1723,70 @@ ye that are in this world, of these may I be the most fortunate.
 बल॑प्रमथनाय॒ नम॒स्  
 सर्व॑भूतदमनाय॒ नमो॑  
 म॒नोन्म॑नाय॒ नमः॑ । (59)
+</details>
 
+<details><summary>मूलम् - आन्ध्र-पाठः</summary>
+
+वा॒म॒दे॒वाय॒ नमो॑  
+ज्ये॒ष्ठाय॒ नमः॑  
+श्रे॒ष्ठाय॒ नमो॑  
+रु॒द्राय॒ नमः॒  
+काला॑य॒ नमः॒  
+कल॑विकरणाय॒ नमो॒  
+बल॑विकरणाय॒ नमो॒  
+बला॑य॒ नमो॒  
+बल॑प्रमथनाय॒ नमः॒
+सर्व॑भूतदमनाय॒ नमो॑  
+म॒नोन्म॑नाय॒ नमः॑
+</details>
+
+<details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
+
+The vAmadeva mantra of the pa~nchabrahma-s is the mantra of the 11 rudra-s. It names a total of 11 rudra-s, an ancient number associated with the rudra-s. The shatapatha brAhmaNa of the shuklayajurveda gives a different list of rudra-s, 9 in number. Notably, this number is important in the later tAntrika tradition (e.g., navAtman bhairava and the navAtman mantra of the early Urdhvasrotas; 9^2 also underlies the structure of the vyomavyApin mantra).  
+
+9 female forms of these rudra-s are the 9 shakti-s of the central maNDala of shiva in both the dakShiNasrotas and Urdhvasrotas. They are arranged as an ogdoad in an 8-petalled lotus around sadAshiva or svachChanda-bhairava, with manonmanI as the shakti in the center alongside shiva.+++(4)+++ 
+
+However, some texts, like the saiddhAntika texts, kiraNa and parAkhya, list 9 rudra-s.  
+These are extracted from the original 11 of the vAmadeva mantra parallel to the 9 shakti-s of rudra:
+
+1. vAmadeva; 2. jyeShTha; 3. rudra; 4. kAla; 5. kalavikaraNa (kalAkShepa); 6. balavikaraNa (balakShepa); 7. balapramathana; 8. sarvabhutasdamana; 9. manonmana
+
+> The corresponding Śaktis extracted from this mantra include all but shreSTha and bala, suggesting that the drAviDapATha could be the older one. - GA
+
+The parAkhya tantra, which lists slightly different variants (in brackets) of some of these rudra-s mentions explicitly that they reside with the respective shakti-s. 
+
+The sAdhaka of the nine-bIja navAtman invokes the 9 rudra-s on padmapITha-s blossoming in the chidabdhiH.
+
+But analysis of the pa~nchabrahma-s from various sources shows that the vAmadeva yajuSh is polymorphic across different traditions:
+
+**The 9-name version**: 
+
+We believe this variant goes back to the late kR^iShNa-yajurveda itself. Although the bodhAyana-s follow the taittirIya shruti, they have their own mantrapATha and prayoga with variants. They have a rite known as the pa~nchabrahma-nyAsa, which gives the vAmadeva mantra with 9 names:
+
+> vAmadevAya namo jyeShThAya namo rudrAya namaH kAlAya namaH kalavikaraNAya namo balavikaraNAya namo balapramathanAya namaH sarvabhUtadamanAya namo manonmanAya namaH ||
+
+The 9 names are used for the rudra-sarvopachAra-pUjA in the bodhAyana payoga.
+
+This 9-name version of the brahma-mantra was inherited by some siddhAnta-tantra-s, e.g., 1. kAlottara, which specifies it for several prayoga-s. 2. nishvAsa-kArika. The system of 9 rudra-s and 9 shakti-s is clearly derived from the bodhAyana variant. The invocation of the rudra-shakti-s specified by the female forms of the alternating names in the mantra is already seen in the bodhAyana prayoga.
+
+**The 8-name version**: 
+
+OM vAmadevAya namo jyeShThAya namo rudrAya namaH kAlAya namaH kalavikaraNAya namo balapramathanAya namaH sarvabhUtadamanAya namo manonmanAya namaH ||
+
+This is specified by the second adhyAya of the pAshupatasUtra-s. Some saiddhAntika-s prescribe this instead of the 9-name version. For example, it is explicitly provided by the deshika-s j~nAnashiva and vimalashiva, and mahArAja bhojadeva paramAra in their respective prayoga manuals.
+
+A corrupt version of the 8-name version is also provided by the pa~ncharAtra vaiShNava sanatkumAra tantra.
+
+**The 7-name version**:  
+OM vAmadevAya jyeShThAya namo rudrAya cha namaH | kalavikaraNAya namo balapramathanAya namaH | sarvabhUtadamanAya shrImanonmanAya namaH ||
+
+This version is found in the sanatkumArIya pa~nchabrahma (siddha-shaMkara) tantra. Above is the version in the printed text. Its quasi-metrical variant is seen in a prayoga based on it:
+
+> vAmadevAya jyeShThAya namo rudrAya cha namaH |  
+namaH kalavikaraNAya balapramathanAya |  
+namaH sarvabhUtadamanAya manonmanAya cha ||
+
+The more common 11, 9, and 8 name variants probably emerged early and existed side by side, depending on the theological principle onto which they were mapped.
 </details>
 </details>
 </div>  

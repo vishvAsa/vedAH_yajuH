@@ -7,9 +7,6 @@ author: muddu śroutigal
 publisher: rāja veda kāvya pāṭhaśālā (kumbakonam)  
 script: grantha
 
-
-
-
 ॥ अथ सर्वतन्त्रसाधारणाग्निमुखप्रयोगः ॥
 
 ## उल्लेखनम्
@@ -36,7 +33,6 @@ script: grantha
 ## ब्रह्मवरणम्
 
 अस्मिन्नमुकहोमकर्मणि ब्रह्माणं त्वां वृणे। ब्रह्मणे नमः, सकलाराधनैः स्वर्चितम्।
-
 
 ## आज्यसंस्कारः
 

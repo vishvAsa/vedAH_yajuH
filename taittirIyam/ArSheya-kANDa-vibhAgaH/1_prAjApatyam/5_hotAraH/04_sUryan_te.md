@@ -2,8 +2,8 @@
 title = "०४ सूर्यन् ते"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/04_sUryan_te"  newLevelForH1="1" includeTitle="true">
-
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/04_sUryan_te">
+<details open><summary><h1>०४ सूर्यन् ते ...{Loading}...</h1></summary>
 
 ## होता
 
@@ -31,7 +31,6 @@ title = "०४ सूर्यन् ते"
 सूर्य॑न्ते॒ चक्षुः॑ ।  
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वातं॑ प्रा॒णः ।  
@@ -41,7 +40,6 @@ title = "०४ सूर्यन् ते"
 
 वातमनुप्रविष्टस्तव प्राणः त्वदीयेन प्राणेन विश्वं प्राणितीति । 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -58,7 +56,6 @@ title = "०४ सूर्यन् ते"
 द्यां पृष्ठं उपरिभागः, स एव द्यौरिति । 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 द्यां पृ॒ष्ठम् ।  
@@ -74,7 +71,6 @@ title = "०४ सूर्यन् ते"
 अन्तरिक्षं तव अत्मा । 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 अ॒न्तरि॑क्षमा॒त्मा ।  
@@ -89,7 +85,6 @@ title = "०४ सूर्यन् ते"
 
 अङ्गैः अवयवैः यज्ञं, तव अङ्गानि यज्ञाङ्गानि । 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -111,7 +106,6 @@ title = "०४ सूर्यन् ते"
 पृथिवीं शरीरैः शरीरेण । वचनव्यत्ययः । शरीरभेदैर्वा तव शरीरं पृथिवी इति ॥
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 पृ॒थि॒वीँ शरी॑रैः ।  
@@ -123,7 +117,6 @@ title = "०४ सूर्यन् ते"
 
 2अथ ग्रहः ॥ 
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -150,6 +143,5 @@ title = "०४ सूर्यन् ते"
 दि॒वि दे॑वा॒वृधँ॒ होत्रा॒मेर॑यस्व॒ स्वाहा॑ ।  
 (4)  
 </details>
-
-
+</details>
 </div>

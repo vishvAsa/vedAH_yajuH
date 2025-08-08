@@ -11,27 +11,24 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_18/07_parAdehi_shAbalyam.md">
 <details open><summary><h2>०७ परादेहि शाबल्यम् ...{Loading}...</h2></summary>
 
-
 परा॑देहि शाब॒ल्यं॑  
 ब्र॒ह्मभ्यो॒ विभ॑जा॒ वसु॑ ।  
 कृ॒त्यैषा प॒द्-वती॑ भू॒त्वा  
 जा॒याऽऽवि॑शते॒ पति॑म् ।
 
-
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/29_parA_dehi.md">
 <details open><summary><h4>२९ परा देहि ...{Loading}...</h4></summary>
 
-
-परा॑ देहि शामु॒ल्यं॑ ब्र॒ह्मभ्यो॒ वि भ॑जा॒ वसु॑ ।  
-कृ॒त्यैषा प॒द्वती॑ भू॒त्व्या जा॒या वि॑शते॒ पति॑म् ॥
-
+प᳓रा देहि शामुलि᳓यम्  
+ब्रह्म᳓भ्यो वि᳓ भजा व᳓सु  
+कृत्यइ᳓षा᳓ पद्व᳓ती भूत्वी᳓  
+आ᳓ जाया᳓ विशते प᳓तिम्
 </details>
 </div>
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_18/08_ashlIlA_tanUrbhava.md">
 <details open><summary><h2>०८ अश्लीला तनूर्भव ...{Loading}...</h2></summary>
-
 
 अ॒श्ली॒ला +++(पति-)+++त॒नूर् भ॑व॒  
 रुश॑ती+++(=हिंसती →हिंस्यमाना)+++ पा॒पया॑ ऽमु॒या +++(दानकृत्यया)+++।  
@@ -44,7 +41,6 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_18/09_krUrametat_kaTukametadapAShThavaddviShavannaitadattave.md">
 <details open><summary><h2>०९ क्रूरमेतत् कटुकमेतदपाष्ठवद्द्विषवन्नैतदत्तवे ...{Loading}...</h2></summary>
 
-
 क्रू॒रम् ए॒तत् +++(वासः)+++ कटु॑कम्+++(=रुजाकारि)+++ ए॒तद्  
 अ॑पा॒ष्ठ+++(=प्रतिकूल)+++व॑द् वि॒षव॒न् नैतद् अत्त॑वे ।  
 सू॒र्यां +++(विवाहदेवीं)+++ यः प्र॒त्यक्षं॑ वि॒द्यात्  
@@ -54,7 +50,6 @@ unicode_script: devanagari
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_18/10_AshasanaM_vishasanamatho.md">
 <details open><summary><h2>१० आशसनं विशसनमथो ...{Loading}...</h2></summary>
-
 
 आ॒शस॑नं+++(=क्षतकरणं)+++ वि॒शस॑न॒म्+++(=चर्मणां पृथक्करणं)+++  
 अथो॑ अधि वि॒चर्त॑नम्+++(=त्वचोन्यत्र मोचनं)+++ +++(एतद् वासः)+++।  

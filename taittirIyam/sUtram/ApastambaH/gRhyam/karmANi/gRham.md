@@ -17,7 +17,6 @@ unicode_script: devanagari
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/01_yadbhUmeH_krUram.md">
 <details open><summary><h4>०१ यद्भूमेः क्रूरम् ...{Loading}...</h4></summary>
 
-
 यद् भूमेः॑ क्रू॒रं तद् इ॒तो ह॑रामि॒,  
 परा॑ची॒न् निर्ऋ॑तिं॒ निर्वा॑हयामि ।  
 इ॒दँ श्रेयो॑ ऽव॒सान॒म्+++(=स्थानम्)+++ आग॑न्म+++(=आगतवन्तो)+++ देवा॒,  
@@ -35,7 +34,6 @@ unicode_script: devanagari
 </details>
 </div>  
 
-
 __________________
 
 ### स्थूणावधानम्
@@ -52,11 +50,9 @@ __________________
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/022/15_syonA_pRthivi.md">
 <details open><summary><h6>१५ स्योना पृथिवि ...{Loading}...</h6></summary>
 
-
-+++(अभिमृशति)+++  
-स्यो॒ना+++(=सुखरूपा)+++ पृ॑थिवि॒ भवा॑+  
-ऽनृक्ष॒रा+++(=कण्टकादिरहिता)+++ नि॒वेश॑नी ।  
-यच्छा॑ न॒श् शर्म॑ स॒प्रथाः॑+++(=सकीर्तिः)+++ ।
+स्योना᳓+++(=सुखरूपा)+++ पृथिवि भव+  
+अनृक्षरा᳓+++(=कण्टकादिरहिता)+++ निवे᳓शनी ।  
+य᳓च्छा नश् श᳓र्म सप्र᳓थाः+++(=सकीर्तिः)+++ ।
 
 </details>
 </div>
@@ -70,7 +66,6 @@ __________________
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/03_ihaiva_tiShTha.md">
 <details open><summary><h4>०३ इहैव तिष्ठ ...{Loading}...</h4></summary>
 
-
 इ॒हैव ति॑ष्ठ॒ निमि॑ता॒+++(=निखाता)+++  
 +++(तक्षकृत-)+++तिल्व॑ला+++(=तिलकवती)+++ स्या॒द् इरा॑+++(=अन्न)+++वती ।  
 मध्ये॒ ताल्प्य॑स्य+++(=गृह्यस्य [द्वारस्य])+++ तिष्ठा॒न्+++(त्)+++  
@@ -80,7 +75,6 @@ __________________
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/04_A_tvA.md">
 <details open><summary><h4>०४ आ त्वा ...{Loading}...</h4></summary>
-
 
 आ त्वा॑ कुमा॒रस् तरु॑ण॒  
 आ व॒त्सो जग॑ता स॒ह ।  
@@ -111,15 +105,13 @@ __________________
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/05_Rtena_sthUNAvadhiroha.md">
 <details open><summary><h4>०५ ऋतेन स्थूणावधिरोह ...{Loading}...</h4></summary>
 
-
 ऋ॒तेन॒ स्थूणा॑व्+++(=स्तम्भम्)+++ अ॒धिरो॑ह वँ॒शो  
-ऽग्रो वि॒राज॒न्न् अप॑सेध शत्रू॑न् ।  
+ऽग्रो वि॒राज॒न्न् अप॑सेध शत्रून्॑ ।  
 
 </details>
 </div>
 </details>
 </div>  
-
 
 ### सिद्धागाराभिमन्त्रणम्
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/17_gRhyanirmaNam/17_06_sammitamuttarairyathAlingam.md">
@@ -129,7 +121,6 @@ __________________
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/06-11_brahma_cha.md">
 <details open><summary><h4>०६-११ ब्रह्म च ...{Loading}...</h4></summary>
-
 
 ब्रह्म॑ च ते क्ष॒त्रञ् च॒ पूर्वे॒ स्थूणे॑ अ॒भिर॑क्षतु ।  
 य॒ज्ञश् च॒ दक्षि॑णाश् च॒ दक्षि॑णे [स्थूणे॑ अ॒भिर॑क्षतु]।  
@@ -143,7 +134,6 @@ __________________
 </details>
 </div>  
 
-
 ## प्रवेशविधिः
 
 ### अग्निस्थापनम्
@@ -151,12 +141,10 @@ __________________
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/18_gRhapraveshavidhiH/17_07_pAlAshaM_shamImayam.md">
 <details open><summary><h2>१७ ०७ पालाशं शमीमयम् ...{Loading}...</h2></summary>
 
-
 पालाशं शमीमयं वेध्मम् +++(पाकाग्वाव्)+++ आदीप्योत्तरयर्चा +++("उद्ध्रियमाण"इत्येतया पञ्चपादया)+++ ऽग्निम् उद्धृत्य  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/12_uddhriyamANa_uddhara.md">
 <details open><summary><h4>१२ उद्ध्रियमाण उद्धर ...{Loading}...</h4></summary>
-
 
 उ॒द्ध्रि॒यमा॑ण॒ उद्ध॑र पा॒प्मनो॑ मा॒  
 यद् अवि॑द्वा॒न् यच् च॑ वि॒द्वाँश् च॒कार॑ ।  
@@ -167,14 +155,12 @@ __________________
 </details>
 </div>
 
-
 __________________
 ##### अगारप्रतिपादनम्
 उत्तरेण यजुषा +++("इन्द्र स्य गृहा वसुमन्तो वरूथिनः")+++ ऽगारं प्रपाद्य  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/13_indrasya_gRhA.md">
 <details open><summary><h4>१३ इन्द्रस्य गृहा ...{Loading}...</h4></summary>
-
 
 इन्द्र॑स्य +++(मम)+++ गृ॒हा वसु॑मन्तो वरू॒थिन॒स्+++(=गृह[+अवयवा])+++ -  
 तान् अ॒हँ सु॒मन॑सः॒ प्रप॑द्ये ।  
@@ -189,7 +175,6 @@ __________________
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/14_amRtAhutimamRtAyAnjuhomyagnim_pRthivyAmamRtasya.md">
 <details open><summary><h4>१४ अमृताहुतिममृतायाञ्जुहोम्यग्निम् पृथिव्याममृतस्य ...{Loading}...</h4></summary>
 
-
 अ॒मृ॒ता॒हु॒तिम् अ॒मृता॑याञ् जुहोम्य्+++(→स्थापयामि)+++  
 अ॒ग्निं पृ॑थि॒व्याम् अ॒मृत॑स्य॒ जित्यै॑ ।  
 तया॑ ऽन॒न्तं काम॑म् अ॒हञ् ज॑यानि  
@@ -201,7 +186,6 @@ __________________
 </div>
 </details>
 </div>  
-
 
 ### उदधानायतनम्
 #### उदधानप्रतिष्ठा
@@ -219,7 +203,6 @@ __________________
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/15_annapate-nnasya_no.md">
 <details open><summary><h4>१५ अन्नपतेऽन्नस्य नो ...{Loading}...</h4></summary>
-
 
 अन्न॑प॒ते ऽन्न॑स्य नो देहि।  
 अ॒न॒मी॒वस्य॑+++(=आरोग्यकरस्य)+++ शु॒ष्मिणः॑+++(=बलिनः)+++ ।  
@@ -240,7 +223,6 @@ __________________
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/16_ariShTA_asmAkam.md">
 <details open><summary><h4>१६ अरिष्टा अस्माकम् ...{Loading}...</h4></summary>
 
-
 अरि॑ष्टा अ॒स्माकं॑ वी॒रास् स॑न्तु॒  
 मा परा॑ सेचि मे॒ धन॑म् ।+++(र४)+++  
 
@@ -255,7 +237,6 @@ __________________
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/17_bhUmirbhUmimagAnmAtA_mAtaramapyagAt.md">
 <details open><summary><h4>१७ भूमिर्भूमिमगान्माता मातरमप्यगात् ...{Loading}...</h4></summary>
-
 
 भूमि॒र् भूमि॑म् अगान्  
 मा॒ता मा॒तर॒म् अप्य् अ॑गात् ।  
@@ -273,7 +254,6 @@ __________________
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/17_bhUmirbhUmimagAnmAtA_mAtaramapyagAt.md">
 <details open><summary><h4>१७ भूमिर्भूमिमगान्माता मातरमप्यगात् ...{Loading}...</h4></summary>
-
 
 भूमि॒र् भूमि॑म् अगान्  
 मा॒ता मा॒तर॒म् अप्य् अ॑गात् ।  
@@ -296,11 +276,10 @@ __________________
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/054/01_vAstoShpate_prati.md">
 <details open><summary><h6>०१ वास्तोष्पते प्रति ...{Loading}...</h6></summary>
 
-
-वास्तो॑ष्पते॒ प्रति॑ जानीह्य् अ॒स्मान्त्  
-स्व्-आ॑वे॒शो+++(=सुगमो)+++ अ॑नमी॒वो+++(=आरोग्यकरः)+++ भ॑वा नः ।  
-यत् त्वेम॑हे॒ प्रति॒ तन् नो॑ जुषस्व॒  
-शं न॑ एधि द्वि॒पदे॒ शं चतु॑ष्पदे ।
+वा᳓स्तोष्पते प्र᳓ति जानीह्य् अस्मा᳓न्त्  
+स्व्-आवेशो᳓+++(=सुगमो)+++ अनमीवो᳓+++(=आरोग्यकरः)+++ भवा नः ।  
+य᳓त् त्वे᳓महे प्र᳓ति त᳓न् नो जुषस्व  
+शं᳓ न एधि द्विप᳓दे शं᳓ च᳓तुष्पदे ।
 
 </details>
 </div>
@@ -311,11 +290,10 @@ __________________
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/054/03_vAstoShpate_shagmayA.md">
 <details open><summary><h6>०३ वास्तोष्पते शग्मया ...{Loading}...</h6></summary>
 
-
-वास्तो॑ष्पते श॒ग्मया॑+++(=सुखया)+++ सँ॒सदा॑ ते  
-सक्षी॒महि॑+++(←सच समवाये)+++ र॒ण्वया॑+++(=रममाणया)+++ गातु॒मत्या॑+++(=गामिन्या)+++) ।  
-आवः॒ क्षेम॑+++(य्=लब्धस्य रक्षणे)+++ उ॒त योगे॒+++(=अलब्धस्य लाभे)+++ वरं॑ नो  
-+++(हे विश्वेदेवाः)+++ यू॒यम् पा॑त स्व॒स्तिभिः॒ सदा॑ नः ।  
+वा᳓स्तोष्पते शग्म᳓या+++(=सुखया)+++ सँस᳓दा ते  
+सक्षीम᳓हि+++(←सच समवाये)+++ रण्व᳓या+++(=रममाणया)+++ गातुम᳓त्या+++(=गामिन्या)+++) ।  
+आ᳓वः क्षे᳓म+++(य्=लब्धस्य रक्षणे)+++ उत᳓ यो᳓गे+++(=अलब्धस्य लाभे)+++ व᳓रं नो  
++++(हे विश्वेदेवाः)+++ यूय᳓म् पात स्वस्ति᳓भिः स᳓दा नः ।  
 
 </details>
 </div>
@@ -326,11 +304,10 @@ __________________
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/054/02_vAstoShpate_prataraNo.md">
 <details open><summary><h6>०२ वास्तोष्पते प्रतरणो ...{Loading}...</h6></summary>
 
-
-वास्तो॑ष्पते प्र॒तर॑णो न एधि॒  
-गोभि॒र् अश्वे॑भिर् इन्दो+++(←इन्दिर् ऐश्वर्यकर्मा/ उदिर्वा क्लेदकर्मा)+++ ।  
-अ॒जरा॑सस् ते स॒ख्ये स्या॑म  
-पि॒तेव॑ पु॒त्रान् प्रति॑ नो जुषस्व ।  
+वा᳓स्तोष्पते प्रत᳓रणो न एधि  
+गो᳓भिर् अ᳓श्वेभिर् इन्दो+++(←इन्दिर् ऐश्वर्यकर्मा/ उदिर्वा क्लेदकर्मा)+++ ।  
+अज᳓रासस् ते सख्ये᳓ स्याम  
+पिते᳓व पुत्रा᳓न् प्र᳓ति नो जुषस्व ।  
 
 </details>
 </div>
@@ -341,10 +318,9 @@ __________________
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/055/01_amIvahA_vAstoShpate.md">
 <details open><summary><h6>०१ अमीवहा वास्तोष्पते ...{Loading}...</h6></summary>
 
-
-अ॒मी॒व॒हा+++(=व्याधिहा)+++ वास्तो॑ष्पते॒  
-विश्वा॑ रू॒पाण्य् आ॑ वि॒शन् ।  
-सखा॑ सु॒शेव॑+++(फ)+++ एधि नः ।  
+अमीवहा᳓+++(=व्याधिहा)+++ वास्तोष्पते  
+वि᳓श्वा रूपा᳓ण्य् आ **विश᳓न्** ।  
+स᳓खा सुशे᳓व+++(फ)+++ **एधि** नः ।  
 
 </details>
 </div>
@@ -352,7 +328,6 @@ __________________
 </div>
 </details>
 </div>  
-
 
 ### उदकुम्भेन परिषेचनम्
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/18_gRhapraveshavidhiH/17_13_pariShechanAnta~N_kRtvottareNa.md">
@@ -362,7 +337,6 @@ __________________
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/22_shivaM_shivam.md">
 <details open><summary><h4>२२ शिवं शिवम् ...{Loading}...</h4></summary>
-
 
 शि॒वँ॒ शि॒वम् ॥
 

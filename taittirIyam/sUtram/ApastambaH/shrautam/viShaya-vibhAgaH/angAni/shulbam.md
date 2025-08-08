@@ -55,7 +55,6 @@ unicode_script: devanagari
 </details>
 </div>  
 
-
 ## अगारः
 {देवकर्मभ्य} उत्तरत उपचारो (=सञ्चारावकाशः) विहारः (=आगारः) १०
 
@@ -69,7 +68,6 @@ unicode_script: devanagari
 यो वा यज्ञियो वृक्षः फलग्रहिः ५
 </details>
 </div>  
-
 
 ### स्रुचः
 
@@ -105,7 +103,6 @@ unicode_script: devanagari
 
 </details>
 </div>
-
 
 ### अहोमार्थाः
 

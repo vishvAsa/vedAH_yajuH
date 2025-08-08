@@ -35,10 +35,12 @@ Let not robbers find thee;
 Let not the evil-working wolves (find) thee;  
 Nor the Gandharva, Viçvavasu, injure thee.
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 प्रच्य॑वस्व भुवस्पते॒ विश्वा॑न्य॒भि धामा॑नि॒ मा त्वा॑ परिप॒री वि॑द॒न्मा त्वा॑ परिप॒न्थिनो॑ विद॒न्मा त्वा॒ वृका॑ अघा॒यवो॒ मा ग॑न्ध॒र्वो वि॒श्वाव॑सु॒रा द॑घत्
 </details>
+
 <details><summary>मूलम्</summary>
 
 +++(अतिजगतीछन्दोनुगुणः मन्त्रः)+++  
@@ -50,6 +52,14 @@ Nor the Gandharva, Viçvavasu, injure thee.
 मा त्वा॒ वृका॑ अघा॒यवः॑।   +++(८ अक्षराणि)+++     
 मा ग॑न्ध॒र्वो वि॒श्वाव॑सु॒रा द॑घत् ।  +++(११ अक्षराणि - चतुर्थपादः विवृद्धाक्षरः)+++
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+प्रेति॑ । च्य॒व॒स्व॒ । भु॒वः॒ । प॒ते॒ । विश्वा॑नि । अ॒भीति॑ । धामा॑नि ।   
+मा । त्वा॒ । प॒रि॒प॒रीति॑ परि-प॒री । वि॒द॒त् । मा । त्वा॒ । प॒रि॒प॒न्थिन॒ इति॑ परि-प॒न्थिनः॑ । वि॒द॒न् । मा । त्वा॒ । वृकाः॑ । अ॒घा॒यव॒ इत्य॑घ-यवः॑ ।  
+ मा । ग॒न्ध॒र्वः । वि॒श्वाव॑सु॒रिति॑ वि॒श्व-व॒सुः॒ । एति॑ । द॒घ॒त् ।    
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 प्रच्यवस्व प्रकर्षेणास्माद्देशाद्गच्छ भुवः भुवनस्य पते सोम । 'षष्ठ्याः पतिपुत्र' इत्यादिना सत्वं, 'सुबामन्त्रिते' इति पराङ्गवद्भावात् षष्ठ्यामन्त्रितसमुदायो निहन्यते ।
@@ -84,13 +94,25 @@ Become an eagle and fly away
 to the place in the house of the sacrificer  
 which we have prepared with the gods (for thee).
 </details>
+
 <details><summary>मूलम्</summary>
 
 श्ये॒नो भू॒त्वा परा॑ पत  
 यज॑मानस्य नो गृ॒हे ।  
 दे॒वैस्सँ॑स्कृ॒तम् ।    
+
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+श्ये॒नः । भू॒त्वा । परेति॑ । प॒त॒ । यज॑मानस्य । नः॒ । गृ॒हे । दे॒वैः । सँ॒स्कृ॒तम् । 
+</details>
+
+<details><summary>प्रदीपसिंहः</summary>
+
 +++(अत्र तृतीयपादः ह्रसिष्ठः चतुर्थो वर्षिष्ठः इति व्याख्याने । अयं न स्पष्टः मूले ।)+++
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 2अथ द्वितीया श्येन इत्यनुष्टुप् । अत्र तृतीयः पादो ह्रसिष्ठः, चतुर्थो वर्षिष्ठः ॥  
@@ -99,29 +121,28 @@ which we have prepared with the gods (for thee).
 </details>
 </div>
 
-
-
-
-
-
 ## उपस्थानादिकम्
 ________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अध्वर्यु-यजमानौ गच्छतः।।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(हे सोम!)+++ यज॑मानस्य स्व॒स्त्यय॑न्य् अ॒सि  ।  
 </details>
+
 <details><summary>Keith</summary>
 
 Thou art the good luck of the sacrificer.
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 －यज॑मानस्य स्व॒स्त्यय॑न्य॒स्यपि॒ पन्था॑मगस्महि स्वस्ति॒गाम॑ने॒हस॒य्ँयेन॒ विश्वा॒ᳶ परि॒ द्विषो॑ वृ॒णक्ति॑ वि॒न्दते॒ वसु॒
 </details>
+
 <details><summary>मूलम्</summary>
 
 यज॑मानस्य स्व॒स्त्यय॑न्य॒सि  ।
@@ -155,6 +176,7 @@ Which leadeth to bliss, without a foe,
 Whereby a man defeateth all his foes  
 and winneth wealth.
 </details>
+
 <details><summary>मूलम्</summary>
 
 अपि॒ पन्था॑मगस्महि  
@@ -162,6 +184,13 @@ and winneth wealth.
 येन॒ विश्वा॒ᳶ परि॒ द्विषो॑  
 वृ॒णक्ति॑ वि॒न्दते॒ वसु॑ ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+अपीति॑ । पन्था॑म् । अ॒ग॒स्म॒हि॒ । स्व॒स्ति॒गामिति॑ स्वस्ति-गाम् । अ॒ने॒हस॑म् ।   
+येन॑ । विश्वाः॑ । परीति॑ । द्विषः॑ । वृ॒णक्ति॑ । वि॒न्दते॑ । वसु॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 सतिशिष्टत्वादीनि[दि] प्वरस्य अथ तृतीया - अपिपन्थामित्यनुष्टुप् ।  
@@ -175,10 +204,6 @@ and winneth wealth.
 </details>
 </details>
 </div>
-
-
-
-
 
 ________
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -204,10 +229,12 @@ This worship, this reverence offer to the god;
 To the far seeing, god-born, the banner,  
 The son of the sky, the sun, do ye sing.
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 －नमो॑ मि॒त्रस्य॒ वरु॑णस्य॒ चक्ष॑से म॒हो दे॒वाय॒ तदृ॒तँ स॑पर्यत दूरे॒दृशे॑ दे॒वजा॑ताय के॒तवे॑ दि॒वस्पु॒त्राय॒ सूर्या॑य शँसत॒
 </details>
+
 <details><summary>मूलम्</summary>
 
 नमो॑ मि॒त्रस्य॒ वरु॑णस्य॒ चक्ष॑से  
@@ -215,6 +242,13 @@ The son of the sky, the sun, do ye sing.
 दू॒रे॒दृशे॑ दे॒वजा॑ताय के॒तवे॑   
 दि॒वस्पु॒त्राय॒ सूर्या॑य शँसत ॥
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । मि॒त्रस्य॑ । वरु॑णस्य । चक्ष॑से । म॒हः । दे॒वाय॑ । तत् । ऋ॒तम् । स॒प॒र्य॒त॒ ।  
+दू॒रे॒दृश॒ इति॑ दूरे-दृशे॑ । दे॒वजा॑ता॒येति॑ दे॒व-जा॒ता॒य॒ । के॒तवे॑ । दि॒वः । पु॒त्राय॑ । सूर्या॑य । शँ॒स॒त॒ । 
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 5राजानं प्रत्युपतिष्ठते - नमो मित्रस्येति जगत्या ॥
@@ -228,10 +262,6 @@ The son of the sky, the sun, do ye sing.
 </details>
 </div>
 
-
-
-
-
 ________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -244,25 +274,33 @@ ________
 
 वरु॑णस्य॒ +++(सोमस्य च)+++ स्कम्भ॑नम्+++(=धारयिता)+++ असि ।
 </details>
+
 <details><summary>Keith</summary>
 
 Thou art the pillar of Varuna.
 </details>
+
 <details><summary>मूलम्</summary>
 
 वरु॑णस्य॒ स्कम्भ॑नमसि ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+वरु॑णस्य । स्कम्भ॑नम् । अ॒सि॒ । 
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 वरुणस्य स्कम्भनं स्तम्भनमुत्पादयिता त्वमसि यागद्वारेण । यद्वा - वरुणस्य वरणीयस्य वारयितुर्वा सोमस्य स्कम्भनं धारायिता असि ॥
 </details>
 </details>
 </div>
-
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 वरु॑णस्य॒ स्कम्भ॑नमसि॒ वरु॑णस्य स्कम्भ॒सर्ज॑नम॒स्युन्मु॑क्तो॒ वरु॑णस्य॒ पाशः॑ ॥ [17]
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 वरु॑णस्य । स्कम्भ॑नम् । अ॒सि॒ ।   
@@ -283,21 +321,23 @@ ________
 
 शम्याम् उद्-वृहति।
 </details>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/varuNasya_skambhanam.md">
 <details open><summary><h5>वरुणस्य स्कम्भनम् ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वरु॑णस्य॒ +++(सोमस्य च)+++ स्कम्भ॑नम्+++(=धारयिता)+++ असि ।
 </details>
+
 <details><summary>Keith</summary>
 
 Thou art the pillar of Varuna.
 </details>
+
 <details><summary>मूलम्</summary>
 
 वरु॑णस्य॒ स्कम्भ॑नमसि ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 वरु॑णस्य । स्कम्भ॑नम् । अ॒सि॒ । 
@@ -308,37 +348,23 @@ Thou art the pillar of Varuna.
 वरुणस्य स्कम्भनं स्तम्भनमुत्पादयिता त्वमसि यागद्वारेण । यद्वा - वरुणस्य वरणीयस्य वारयितुर्वा सोमस्य स्कम्भनं धारायिता असि ॥
 </details>
 </details>
-
-
-<details><summary>मूलम्</summary>
-
-वरु॑णस्य स्कम्भ॒सर्ज॑नमसि ।
-</details>
-
-<details><summary>पद-पाठः</summary>
-
-वरु॑णस्य । स्क॒म्भ॒सर्ज॑न॒मिति॑ स्कम्भ-सर्ज॑नम् । अ॒सि॒ । 
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-7शम्यामुद्वृहति - वरुणस्य स्कम्भसर्जनमसीति ॥ व्याख्यातमेतत् । अत्रापि स एवार्थः । सर्जनं विसर्जनं वेदितव्यम् ॥
-</details>
-
 </div>
 ________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 योक्त्रम् अपनयति।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उन् मु॑क्तो॒ वरु॑णस्य॒ पाशः॑ ॥
 </details>
+
 <details><summary>Keith</summary>
 
 Varuna's noose is loosened.
 </details>
+
 <details><summary>मूलम्</summary>
 
 उन्मु॑क्तो॒ वरु॑णस्य॒ पाशः॑ ॥
@@ -354,6 +380,5 @@ Varuna's noose is loosened.
 
 8योक्त्रमपनयति - उन्मुक्तो वरुणस्य पाश इति ॥ अपनीतोसीत्यर्थः । यद्वा - त्वय्यपनीते वरुणस्य पाशः उन्मुक्तो भवतीति ॥
 </details>
-
 
 इति द्वितीये नवमोनुवाकः  

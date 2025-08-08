@@ -18,7 +18,6 @@ unicode_script: devanagari
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/15_AbhiShTvAhan_dashabhirabhimRshAmi.md">
 <details open><summary><h4>१५ आभिष्ट्वाहन् दशभिरभिमृशामि ...{Loading}...</h4></summary>
 
-
 +++(अङ्गुलीभिर्)+++ आ॒भिष् ट्वा॒ ऽहं द॒शभि॑र् अ॒भिमृ॑शामि॒ - दश॒मास्या॑य॒ सूत॑वे ।+++(र४)+++  
 
 </details>
@@ -42,7 +41,6 @@ unicode_script: devanagari
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/17_dasha_mAsAnChashayAno.md">
 <details open><summary><h4>१७ दश मासाञ्छशयानो ...{Loading}...</h4></summary>
 
-
 दश॒ मासा॒ञ् छश॑यानो  
 धा॒त्रा हि तथा॑ कृ॒तम् ।  
 ऐतु॒ गर्भो॒ अक्षि॑तो  
@@ -52,7 +50,6 @@ unicode_script: devanagari
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/18_AyamanIryamayata_garbhamApo.md">
 <details open><summary><h4>१८ आयमनीर्यमयत गर्भमापो ...{Loading}...</h4></summary>
-
 
 आ॒यम॑नीर् यमयत॒ गर्भ॒म्  
 आपो॑ देवी॒स् सर॑स्वतीः ।  

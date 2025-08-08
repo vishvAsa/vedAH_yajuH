@@ -2,10 +2,10 @@
 title = "४७ अतिरात्रविधिः"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/7/1/03_atirAtravidhiH"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/7/1/03_atirAtravidhiH">
+<details open><summary><h1>०३ अतिरात्रविधिः ...{Loading}...</h1></summary>
 
 ## अग्निष्टोमात् परमेव सर्वस्तोम अधिकारः
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -13,16 +13,11 @@ title = "४७ अतिरात्रविधिः"
 स त्वै य॑जेत, यो॑ऽग्निष्टो॒मेन॒ +++(त्रिवृत्-पञ्चदश-सप्तदश-एकविशात्मकेन चतुष्टोमेन)+++ यज॑मानोऽथ॒ सर्व॑स्तोमेन॒ +++(चतुष्टोमादिक-सप्तविंश-त्रयस्त्रिंशात्मकेन)+++ यजे॒तेति॑ ।  
 </details>
 
-
-
 <details><summary>Keith</summary>
 
 The theologians say,  
 'He indeed would really sacrifice, who having sacrificed with the Agnistoma should also sacrifice with the Sarvastoma.'
 </details>
-
-
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -32,8 +27,6 @@ The theologians say,
 इति॑ खलु॒ वै य॒ज्ञेन॒ यज॑मानो यजते ।
 </details>
 
-
-
 <details><summary>Keith</summary>
 
 If they omit the Trivrt Stoma,  
@@ -41,9 +34,6 @@ then his vital airs are omitted,
 but he who offers the sacrifice does so with the wish,  
 'May it be in my vital airs'. 
 </details>
-
-
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -53,8 +43,6 @@ but he who offers the sacrifice does so with the wish,
 इति॑ खलु॒ वै य॒ज्ञेन॒ यज॑मानो यजते ।
 </details>
 
-
-
 <details><summary>Keith</summary>
 
 If they omit the Pañcadaça Stoma,  
@@ -62,9 +50,6 @@ his strength is omitted,
 but he who offers the sacrifice does so with the wish,  
 'May it be in my strength.'
 </details>
-
-
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -74,8 +59,6 @@ but he who offers the sacrifice does so with the wish,
 इति॒ खलु॒ वै य॒ज्ञेन॒ यज॑मानो यजते।
 </details>
 
-
-
 <details><summary>Keith</summary>
 
 If they omit the Saptadaça Stoma [1],  
@@ -84,10 +67,6 @@ but he who offers the sacrifice does so with the wish,
 'May it be in my offspring.' 
 </details>
 
-
-
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यस्यै॑कविँ॒शम् अ॑न्त॒र्+++(रा)+++-यन्ति॑  
@@ -95,9 +74,6 @@ but he who offers the sacrifice does so with the wish,
 प्रति॒ष्ठाया॒म् मे ऽप्य् अ॑स॒द्  +++(भागित्वम्)+++  
 इति॒ खलु॒ वै य॒ज्ञेन॒ यज॑मानो यजते।
 </details>
-
-
-
 
 If they omit the Ekavinça Stoma,  
 his support is omitted,  
@@ -111,10 +87,6 @@ ______________________
 +++(त्रिणव-त्रयस्त्रिंशयोः चतुष्टोमेऽस्मिन् कः प्रसंगः? सत्यम्, एतयोर् अप्य् अन्तराय-दोषश्रवणात् एताव् अप्य् अग्निष्टोमे ऋद्ध्या संपाद्याव् इति भावः । तत्कथमेतौ संपादितौ स्यातामिति? आज्यानि चत्वारि पञ्चदशान्नानि संभूय षष्टिस् स्तोत्रिया भवन्ति। ताश्च द्वौ त्रिंशद् वर्गौ तत्रैकस्मात्तिस्र उद्ध्रियन्ते एताश् चेतरत्र दीयन्ते - ६० = २७ + ३३।)+++  
 </details>
 
-
-
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यस्य॑ त्रि॒ण॒वम् +++(सप्तविंशस्तोत्रियम्)+++ अ॑न्त॒र्+++(रा)+++-यन्ति॑,  
@@ -124,8 +96,6 @@ ______________________
 खलु॒ वै य॒ज्ञेन॒ यज॑मानो यजते।
 </details>
 
-
-
 <details><summary>Keith</summary>
 
 If they omit the Trinava Stoma,  
@@ -133,9 +103,6 @@ his seasons and the strength of the Naksatras are omitted,
 but he who offers the sacrifice does so with the wish,  
 'May it be in my seasons and the strength of the Naksatras' [2]. 
 </details>
-
-
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -145,8 +112,6 @@ but he who offers the sacrifice does so with the wish,
 इति॑ खलु॒ वै य॒ज्ञेन॒ यज॑मानो यजते
 </details>
 
-
-
 <details><summary>Keith</summary>
 
 If they omit the Trayastrinça Stoma,  
@@ -155,9 +120,7 @@ and he who offers the sacrifice does so with the wish,
 'May it be in my deities.' 
 </details>
 
-
 ## अतिरात्रविधानम्
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -166,12 +129,10 @@ and he who offers the sacrifice does so with the wish,
 +++(प्रकृतियागे)+++ त्रि॒वृद् वै स्तोमा॑नाम् अव॒मः। +++(अतिरात्रे तु)+++ त्रि॒वृत् प॑र॒मः। य ए॒वव्ँ वेद॑, पर॒मता॑म् ए॒व ग॑च्छति ॥+++(४)+++
 </details>
 
-
-
 <details><summary>Keith</summary>
 
 He who knows the lowest of the Stomas attaining the first place, obtains him self the first place.  
 The Trivrt is the lowest of Stomas, the Trivrt occupies the first place. He who know thus obtains the first place.
 </details>
-
+</details>
 </div>

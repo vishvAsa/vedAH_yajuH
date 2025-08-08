@@ -7,6 +7,7 @@ title = "०१ नैरृतहोमादि"
 विश्वेदेवा ऋषयः  
 आनुमतनैर्ऋतादयो यागाः ,आनुमताद्यष्टेष्टिब्राह्मणम्, नैर्ऋतहोमाङ्गमन्त्राः
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 प्रस्तावना
@@ -23,38 +24,47 @@ title = "०१ नैरृतहोमादि"
 
 तत्रास्मिन् प्रश्ने कर्माणि विधीयन्ते मन्त्राश्च केवलमाम्नायन्ते, न विनियुज्यन्ते । औपानुवाक्ये तु कर्माणि च विधीयन्ते मन्त्राश्चाम्नायन्ते तदानीमेव च ते विनियुज्यन्ते इति विशेषः ।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनु॑मत्यै पुरो॒डाश॑म् अ॒ष्टाक॑पाल॒न् निर्व॑पति ।  
 </details>
+
 <details><summary>Keith</summary>
 
 Anumati he offers a cake on eight potsherds;
 </details>
+
 <details><summary>मूलम्</summary>
 
 अनु॑मत्यै पुरो॒डाश॑म॒ष्टाक॑पाल॒न्निर्व॑पति ।  
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तत्र राजसूये पवित्रेऽग्निष्टोमे पञ्चम्यां संस्थिते षष्ठीमारभ्यान्वहमनुमत्यादयोऽष्टौ यागास्सन्ति, तान्विदधाति - अनुमत्यै पुरोडाशमष्टाकपालं निर्वपतीत्यादि ॥ अनुब्राह्मणं च भवति - 'अष्टावेतानि हवींषि भवन्ति' इति । तत्र षष्ठ्यामानुमतमष्टाकपालं निर्वपति । या[यया] सर्वं क्रियते [साऽनुमतिः ।] अनुमतिरिति 'इयमेवास्मै राज्यमनुमन्यते' इत्यनुमत्यभिमानिनी वा काचिद्देवता पृथिवीत्वेन रूप्यते । 'तादौ च निति' इति गतेः प्रकृति-स्वरत्वम् । तस्यै पुरोडाशमष्टाकपालं निर्वपति तदुद्देशेन पृथक्करोति । अष्टसु कपालेषु संस्कृत इति तद्धितार्थे द्विगुः, 'द्विगोर्लुगनपत्ये' इति प्राग्दीव्यतीयस्य लुक्, 'अष्टनः कपाले हविष्युपसङ्ख्यानम्' इति पूर्वपदस्यात्वम्, 'इगन्त-काल-कपाल' इति पूर्वपदप्रकृतिस्वरत्वम् ।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धे॒नुर् दक्षि॑णा ।
 </details>
+
 <details><summary>Keith</summary>
 
 the sacrificial fee is a cow. 
 </details>
+
 <details><summary>मूलम्</summary>
 
 धे॒नुर्दक्षि॑णा ।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तत्र धेनुः प्रत्यग्रप्रसवा गौर्दक्षिणा देया । 'दक्षिणस्या दिगाख्यायाम्' इत्याद्युदात्तत्वम् ॥
 </details>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2 तथास्मिन्नेव नैरृतं विधातुमाह - ये प्रत्यञ्च इत्यादि ॥  
@@ -65,6 +75,7 @@ the sacrificial fee is a cow.
 प्रथमम् आनुमतम् आसाद्यते ।  
 प्रचरणन् तु - नैरृत-यागात् पश्चाद् इति विवेकः ।  
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(आनुमत-पेषणे)+++  
@@ -72,15 +83,18 @@ the sacrificial fee is a cow.
 तं+ नैर्ऋ॒तम् एक॑-कपालङ् +++(निर्वपेत्)+++,  
 कृ॒ष्णव्ँ वासः॑ कृ॒ष्ण-तू॑ष॒न्+++(=दशान्तं)+++ दक्षि॑णा ।   
 </details>
+
 <details><summary>Keith</summary>
 
 The (grains) which are thrown down to the west of the support he (offers) on one potsherd to Nirrti; the sacrificial fee is a black garment with a black fringe.  
 </details>
+
 <details><summary>मूलम्</summary>
 
 ये प्र॒त्यञ्च॒श्शम्या॑या अव॒शीय॑न्ते॒+++(=अवपतन्ति)+++   
 तन्नैर्॑ऋ॒तमेक॑कपालङ्कृ॒ष्णव्ँवासः॑ कृ॒ष्णतू॑ष॒न्दक्षि॑णा ।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तत्रानुमतं पिषन्,  
@@ -95,24 +109,29 @@ The (grains) which are thrown down to the west of the support he (offers) on one
 **तम्** इत्येककपालापेक्षयैकवचनम् । पूर्ववत्समासादिः । विबाधन-पृथिव्येव निरृतिः, पृथिव्येव विश्वमनुगृह्णाति निगृह्णाति च । ब्राह्मणं च भवति । 'इयं निरृतिः' इति । देवतान्तरं वा पूर्ववत् ।   
 तत्र **कृष्णं वासः कृष्णतूषं** कृष्णदशान्तं दक्षिणा ॥
 </details>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3 तत्र नैरृतेन प्रचरितुं  
 दक्षिणम् अपरम् अवान्तरदेशं गमिष्यन्  
 गार्हपत्ये जुहोति - वीहीति ॥ 
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "वीहि॒" स्वाहा "ऽऽहु॑तिञ् जुषा॒णः" ।
 </details>
+
 <details><summary>Keith</summary>
 
 Go away, hail! rejoicing in the oblation.  
 </details>
+
 <details><summary>मूलम्</summary>
 
 +++(हे गार्हपत्य!)+++ वीहि॒ स्वाहाऽऽहु॑तिञ् जुषा॒णः ।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 **वीहि** विगच्छ विगच्छद्भिरस्माभिः विश्लिष्टो भव मास्माननूत्थाय बाधिष्ट ।
@@ -121,6 +140,7 @@ Go away, hail! rejoicing in the oblation.
 
 तस्मादिमामाहुतिं जुषाणस्सेवमानः शान्तो भूत्वा इहैवास्स्वेत्यर्थः । स्वाहाकृतामिमामाहुतिं जुषाण इति वा । 'तादौ च' इति गतेः प्रकृतिस्वरत्वम् । जुषेश्शानचि 'बहुलं छन्दसि' इति शपो लुक्, व्यत्ययेन सार्वधातुकत्वादनुदात्तत्वाभावः, ताच्छीलिको वा चानश् । 'यदहुत्वा गार्हपत्य ईयुः' इत्यादि ब्राह्मणम् ॥
 </details>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4 नैरृतं सर्वं जुहोति - एष त इति गायत्री । यजुरिति केचित् ॥ 
@@ -141,10 +161,12 @@ This is thy share, O Nirrti;
 O thou who hast prospered, thou art rich in oblation;  
 Free him from evil. Hail!
 </details>
+
 <details><summary>मूलम्</summary>
 
 ए॒ष ते॑ निर्ऋते भा॒गो भूते॑ ह॒विष्म॑त्यसि मु॒ञ्चेममँह॑सः
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 मुञ्चेति तिङः परत्वात् पादादित्वान् न निहन्यते ।  
@@ -158,116 +180,142 @@ Free him from evil. Hail!
 
 5 पुनरेत्य गार्हपत्ये जुहोति -
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वाहा॒ नमो॒ य इ॒दञ्च॒कार
 </details>
+
 <details><summary>Keith</summary>
 
 Honour to him who hath done this.
 </details>
+
 <details><summary>मूलम्</summary>
 
 स्वाहा॒ नमो॒ य इ॒दञ्च॒कार
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 स्वाहा स्वाहुतमिदमाज्यमस्तु, नमः नमस्कारश्चास्तु । (कतमस्मै) कस्मै? यो हवा इदमस्मत्प्रार्थितं चकार तथैव कृतवान्, निरृतिं यष्टुं गच्छतोऽस्मान् सोढ्वा अननूत्थाय अत्रैव शान्तोऽवस्थित इति यावत् । यद्वा - इदं विश्वं चराचरं जगच्चकार ॥
 </details>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 6 श्वो भूते आदित्यं चरुं निर्वपति - 
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ॒दि॒त्य॒ञ् च॒रुन् निर्व॑पति॒, वरो॒ +++(→ वृषः)+++ दक्षि॑णा ।
 </details>
+
 <details><summary>Keith</summary>
 
 He offers an oblation to Aditya; the sacrificial fee is a choice (ox). 
 </details>
+
 <details><summary>मूलम्</summary>
 
 आ॒दि॒त्य॒ञ्च॒रुन्निर्व॑पति॒ वरो॒ दक्षि॑णा ।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अदितिः देवमाता पृथिवी वा, सा देवतास्य आदित्यः । 'दित्यदिति' इति ण्यः । 'उभयीष्वेव प्रजासु' इत्यादि ब्राह्मणम् । तत्र वरो दक्षिणा, गौर्वरः ॥
 </details>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 7 श्वो भूते आग्नावैष्णवमेकादशकपालं निर्वपति - 
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ॒ग्ना॒वै॒ष्ण॒वम् एका॑दश-कपालम्   +++(निर्वपति)+++ ॥   
 वा॒म॒नो व॒ही+++(=वाहकपशुः)+++ दक्षि॑णा।   
 </details>
+
 <details><summary>Keith</summary>
 
 (He offers) to Agni and Visnu on eleven potsherds; the sacrificial fee is a dwarf beast of burden. 
 </details>
+
 <details><summary>मूलम्</summary>
 
 आ॒ग्ना॒वै॒ष्ण॒वमेका॑दशकपालम्   +++(निर्वपति)+++ ॥   
 वाम॒नो व॒ही दक्षि॑णा।   
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 'अग्निस्सर्वा देवताः' इत्यादि ब्राह्मणम् । अत्र वामनो वही दक्षिणा । वामनो ह्रस्वाङ्गः, **वही** वहन-देशवान् । 'यद्वही । तेनाग्नेयः' इत्यादि ब्राह्मणम् ॥
 </details>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8 श्वो भूते अग्नीषोमीयमेकादशकपालं निर्वपति - अग्नीषोमाभ्यां वा इन्द्रः' इत्यादि ब्राह्मणम् । 
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ॒ग्नी॒षो॒मीय॑म् [1]एका॑दशकपालम्  +++(निर्वपति)+++ ।   
 
 हिर॑ण्य॒न् दक्षि॑णा।
 </details>
+
 <details><summary>Keith</summary>
 
 (He offers) to Agni and Soma [1] on eleven potsherds; the sacrificial fee is gold. 
 </details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्नी॒षो॒मीय॑म् [1]एका॑दशकपालम्  +++(निर्वपति)+++ ।   
 
 हिर॑ण्य॒न्दक्षि॑णा।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 'द्यावापृथिवीशुनासीर' इति छः । तत्र हिरण्यं दक्षिणा 'हिरण्यं दक्षिणा समृद्ध्यै' भवति ॥
 </details>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 9 श्वो भूते ऐन्द्रमेकादशकपालं निर्वपति - 'इन्द्रो वृत्रं हत्वा' इति ब्राह्मणम् । 
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऐ॒न्द्रम् एका॑दशकपालम् +++(निर्वपति)+++ ।   
 
 ऋ॒ष॒भो+++(=वृषभः)+++ व॒ही दक्षि॑णा  ।   
 </details>
+
 <details><summary>Keith</summary>
 
 (He offers) to Indra on eleven potsherds; the sacrificial fee is a bull as a beast of burden. 
 </details>
+
 <details><summary>मूलम्</summary>
 
 ऐ॒न्द्रमेका॑दशकपालम् +++(निर्वपति)+++ ।   
 
 ऋ॒ष॒भो व॒ही दक्षि॑णा  ।   
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तत्र ऋषभो वही दक्षिणा । **ऋषभस्** सेक्ता खेलगतिर्वा । अत्रायं पञ्चम ऐन्द्रो विधीयते, अनुब्राह्मणे तु ऐन्द्राग्नः, अत्र कथं भाव्यमिति भाव्यं ; विकल्पो वा तुल्यबलत्वात् ॥
 </details>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 10 श्वो भूते आग्नेयमष्टाकपालं निर्वपति, ऐन्द्रं च दधि - द्विहविष्कोऽयं यागः । 'अग्निर्वै यज्ञमुखम्' इत्यादि ब्राह्मणम् । 
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ॒ग्ने॒यम् अ॒ष्टाक॑पालम् +++(निर्वपति)+++ ।   
@@ -276,10 +324,12 @@ He offers an oblation to Aditya; the sacrificial fee is a choice (ox).
 
 ऋ॒ष॒भो+++(=वृषभो)+++ व॒ही दक्षि॑णा।   
 </details>
+
 <details><summary>Keith</summary>
 
 (He offers) to Agni on eight potsherds, and curds to Indra; the sacrificial fee is a bull as a beast of burden. 
 </details>
+
 <details><summary>मूलम्</summary>
 
 आ॒ग्ने॒यम॒ष्टाक॑पालम् +++(निर्वपति)+++ ।   
@@ -288,82 +338,99 @@ He offers an oblation to Aditya; the sacrificial fee is a choice (ox).
 
 ऋ॒ष॒भो व॒ही दक्षि॑णा।   
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ऋषभो वही दक्षिणा ॥
 </details>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 11 श्वो भूते ऐन्द्राग्नं द्वादशकपालं निर्वपति, वैश्वदेवं चरुं निर्वपति - 'देवा वा ओषधीश्वाजिमयुः' इत्यादि ब्राह्मणम् । 
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऐ॒न्द्रा॒ग्नन् द्वाद॑शकपालव्ँ, वैश्वदे॒वञ् च॒रुम्  +++(निर्वपति)+++ ।   
 
 प्र॒थ॒म॒जो व॒त्सो दक्षि॑णा  ।   
 </details>
+
 <details><summary>Keith</summary>
 
 (He offers) to Indra and Agni on twelve potsherds, and an oblation (caru) to the All-gods; the sacrificial fee is a first-born calf. 
 </details>
+
 <details><summary>मूलम्</summary>
 
 ऐ॒न्द्रा॒ग्नन्द्वाद॑शकपालव्ँ वैश्वदे॒वञ्च॒रुम्  +++(निर्वपति)+++ ।   
 
 प्र॒थ॒म॒जो व॒त्सो दक्षि॑णा  ।   
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अत्र प्रथमजः प्रथमजातो वत्सो दक्षिणा ।
 </details>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अस्मिन् यागे सौम्यं श्यामाकं चरुं निर्वपति - 'सोमो वा अकृष्टपच्यस्य राजा' इत्यादि ब्राह्मणम् । 
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सौ॒म्यँ श्या॑मा॒कञ् च॒रुम्  +++(निर्वपति)+++ ।   
 
 वासो॒ दक्षि॑णा  ।
 </details>
+
 <details><summary>Keith</summary>
 
 (He offers) an oblation of millet to Soma; the sacrificial fee is a garment. 
 </details>
+
 <details><summary>मूलम्</summary>
 
 सौ॒म्यँ श्या॑मा॒कञ्च॒रुम्  +++(निर्वपति)+++ ।   
 
 वासो॒ दक्षि॑णा  ।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 श्यामाकशब्दाद्विकारे 'कोपधाच्च' इत्यण् । तत्र वासो दक्षिणा । 'सौम्यं हि देवतया वासः' । त्रिहविष्कोऽयं यागः । `अष्टावेतानि हवींषि' इति ब्राह्मणानुसारेण व्याख्यायते वत्सवाससी दक्षिणा इति ॥
 </details>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 12 श्वो भूते सरस्वत्यै चरुं निर्वपति, सरस्वते चरुम् - स्त्रीपुंसात्मके द्वे देवते । 
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 सर॑स्वत्यै च॒रुँ सर॑स्वते च॒रुम्मि॑थु॒नौ गावौ॒ दक्षि॑णा  
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर॑स्वत्यै च॒रुम्  +++(निर्वपति)+++  ।  
 सर॑स्वते च॒रुम्  +++(निर्वपति)+++  ।  
 मि॒थु॒नौ गावौ॒ दक्षि॑णा ॥ [2]
 </details>
+
 <details><summary>Keith</summary>
 
 (He offers) an oblation to Sarasvati, and an oblation to Sarasvant; the sacrificial fee is a pair of oxen.
 </details>
+
 <details><summary>मूलम्</summary>
 
 सर॑स्वत्यै च॒रुम्  +++(निर्वपति)+++  ।  
 सर॑स्वते च॒रुम्  +++(निर्वपति)+++  ।  
 मि॒थु॒नौ गावौ॒ दक्षि॑णा ॥ [2]
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अयमपि द्विहविष्कः । मिथुनौ स्त्रीपुंसौ गावौ दक्षिणा ॥

@@ -7,9 +7,6 @@ author: muddu śroutigal
 publisher: rāja veda kāvya pāṭhaśālā (kumbakonam)  
 script: grantha
 
-
-
-
 सू -- उपनयनं व्याख्यास्यामो गर्भाष्टमेषु ब्राह्मणमुपनयीत गर्भैकादशेषु राज्यं गर्भद्वादशेषु वैश्यं वसन्तो ग्रीष्मः शरदित्यृतवो वर्णानुपूर्व्येण ब्राह्मणान् भोजयित्वाऽऽशिषो वाचयित्वा 
 
 उपनयनकर्माङ्गं [[उदकशान्तिं][udaka], [अङ्कुरं][ankur], [प्रतिसरं][pratisara], [अभ्युदयं][nandi], [पुण्याहं][punya] च कृत्वा॥   
@@ -19,7 +16,6 @@ script: grantha
 [pratisara]:{{ site.baseurl }}{% link prayoga/ratna/pratisarabandha.md %} 
 [nandi]:{{ site.baseurl }}{% link prayoga/ratna/nandi.md %} 
 [punya]:{{ site.baseurl }}{% link prayoga/ratna/punyahavachana.md %} 
-
 
 नक्षत्रे राशौ जातं शर्माणमिमं मम कुमारमुपनेष्ये॥ यज्ञोपवीतशुद्ध्यर्थं पुण्याहवाचनं करिष्ये॥ पुण्याहं कृत्वा, तत्तीर्थेन यज्ञोपवीतं कुर्मारं च प्रोक्ष्यानुज्ञां कुर्यात्॥ 
 
@@ -307,7 +303,6 @@ script: grantha
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/mantrahInam_hutAshana.md">
 <details open><summary><h5>मन्त्रहीनं - हुताशन ...{Loading}...</h5></summary>
 
-
 (अग्नये नमः)
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -317,6 +312,7 @@ script: grantha
 यद्धुतं तु मया देव  
 परिपूर्णं तदस्तु ते ॥  
 </details>
+
 <details><summary>मूलम्</summary>
 
 मन्त्रहीनं क्रियाहीनं  
@@ -335,6 +331,7 @@ script: grantha
 यानि तेषाम् अशेषाणां  
 कृष्णानुस्मरणं परम् ॥
 </details>
+
 <details><summary>मूलम्</summary>
 
 प्रायश्चित्तान्यशेषाणि  

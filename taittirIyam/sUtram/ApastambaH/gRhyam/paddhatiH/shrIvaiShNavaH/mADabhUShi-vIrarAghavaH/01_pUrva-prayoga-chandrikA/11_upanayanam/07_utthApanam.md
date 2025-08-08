@@ -9,9 +9,9 @@ title = "०७ उत्थापनम्"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/01_sushravassushravasam_mA.md">
 <details open><summary><h2>०१ सुश्रवस्सुश्रवसम् मा ...{Loading}...</h2></summary>
 
-
 सु॒श्रव॑स् +++(पलाश!)+++ सु॒श्रव॑सं मा कुरु।+++(५)+++  
-यथा॒ त्वँ सु॒श्रव॑स् सु॒श्रवा॑ अस्य्, ए॒वम् अ॒हँ सु॒श्रव॑स् सु॒श्रवा॑ भूयासम्॥  
+यथा॒ त्वँ सु॒श्रव॑स् सु॒श्रवा॑ अस्य्,  
+ए॒वम् अ॒हँ सु॒श्रव॑स् सु॒श्रवा॑ भूयासम्॥  
 यथा॒ त्वँ सु॒श्रव॑स्! सु॒श्रवो॑! दे॒वानां॑ निधिगो॒पो॑ ऽस्य्,  
 ए॒वम॒हं ब्रा॑ह्म॒णानां॒ ब्रह्म॑णो निधि-गो॒पो भू॑यासम् ।+++(५)+++  
 
@@ -24,7 +24,6 @@ title = "०७ उत्थापनम्"
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/02-10_smRtancha_me.md">
 <details open><summary><h2>०२-१० स्मृतञ्च मे ...{Loading}...</h2></summary>
-
 
 स्मृ॒तञ् च॒ मे, ऽस्मृ॑तञ्च मे॒ - तन् म॑ उ॒भयं॑ व्र॒तं,  
 नि॒न्दा च॒ मे ऽनि॑न्दा च मे॒ - तन् म॑ उ॒भयं॑ व्र॒तँ,  
@@ -63,21 +62,29 @@ title = "०७ उत्थापनम्"
 <details open><summary><h15>देवस्य त्वा सवितुः ...{Loading}...</h15></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे॑+++(=अनुज्ञायां)+++,
-ऽश्विनो॑र् बा॒हुभ्या॑म्,
+दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे॒॑+++(=अनुज्ञायां)+++,  
++++(देवाध्वर्यू→)+++ ऽश्विनो॑र् बा॒हुभ्या॑म्,  
 पू॒ष्णो हस्ता॑भ्याम्…
 </details>
+
 <details><summary>Keith</summary>
 
 On the instigation of god Savitr,  
 with the arms of the Aśvins,  
 with the hands of Pusan.
 </details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे॑ऽश्विनो॑र् बा॒हुभ्या॑म्,
 पू॒ष्णो हस्ता॑भ्यां॒…
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+दे॒वस्य॑ । त्वा॒ । स॒वि॒तुः । प्र॒स॒व इति॑ प्र-स॒वे । अ॒श्विनोः॑ । बा॒हुभ्या॒मिति॑ बा॒हु-भ्या॒म् । पू॒ष्णः । हस्ता॑भ्याम् ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 **सवितुस्** सर्वप्रेरकस्य **देवस्य** **प्रसवे** प्रेरणायां तेनैव प्रेरितोहं  
@@ -97,6 +104,7 @@ ______________
 
 प्रति॑गृह्णामि
 </details>
+
 <details><summary>मूलम्</summary>
 
 प्रति॑गृह्णामि
@@ -108,11 +116,13 @@ ______________
 राजा॑ त्वा॒ वरु॑णो नयतु  
 देवि दक्षिणे॒ऽग्नये॒ हिर॑ण्यम् ।  
 </details>
+
 <details><summary>मूलम्</summary>
 
 राजा॑ त्वा॒ वरु॑णो नयतु  
 देवि दक्षिणे॒ऽग्नये॒ हिर॑ण्यम् ।  
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हे हिरण्यात्मिके ! देवि! दक्षिणे! राजा वरुणः त्वां हिरण्यं अग्नये नयतु । तच्चेयमिष्टकाऽस्ति ।  
@@ -125,38 +135,45 @@ ______________
 वयो॑+++(=अन्नम्)+++ दा॒त्रे ।  
 मयो॒ मह्य॑म् अस्तु प्रतिग्रही॒त्रे ।
 </details>
+
 <details><summary>मूलम्</summary>
 
 तेना॑मृत॒त्वम॑श्याम् ।  
 वयो॑ दा॒त्रे ।  
 मयो॒ मह्य॑मस्तु प्रतिग्रही॒त्रे ।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तेन हिरण्येन प्रतिगृहीतेन इष्टकाभूतेन अहं अमृतत्वं अश्यां प्राप्यासम् ।  
 वयः अन्नं दात्रे हिरण्यं दत्तवतेऽस्तु । मां च तत्प्रतिग्रहीत्रे मयः सुखमस्तु, दातुरेवोपकारकत्वात् ।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क इ॒दङ्कस्मा॑ अदात् ।  
 कामः॒ कामा॑य ।
 </details>
+
 <details><summary>मूलम्</summary>
 
 क इ॒दङ्कस्मा॑ अदात् ।  
 कामः॒ कामा॑य ।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 किञ्च - कः प्रजापतिरेव कस्मै प्रजापतये इदं हिरण्यं अदात्, न देवदत्तो मह्यम् । अनिर्ज्ञातपरमार्थः प्रजापतिः कशब्देनोच्यते । यद्वा - क इति प्रजापतेस्संज्ञा, व्यत्ययेन स्मैभावः । कामः इच्छा । काम एव कामाय ददाति ।  
 अन्य आह - इदं हिरण्यं को नाम कस्मै वा दातुमर्हति कामादृते । तस्मात् कामः कामाय ददाति ।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कामो॑ दा॒ता ।  
 (15)  
 कामः॑ प्रतिग्रही॒ता ।
 </details>
+
 <details><summary>मूलम्</summary>
 
 कामो॑ दा॒ता ।  
@@ -164,30 +181,36 @@ ______________
 कामः॑ प्रतिग्रही॒ता ।
 
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कामँ॑ समु॒द्रम् आवि॑श ।  
 कामे॑न त्वा॒ प्रति॑गृह्णामि ।
 </details>
+
 <details><summary>मूलम्</summary>
 
 कामँ॑ समु॒द्रमावि॑श ।  
 कामे॑न त्वा॒ प्रति॑गृह्णामि ।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तथा हि - काम एव दाता, काम एव प्रतिग्रहीता, न देवदत्तो, न चाहम् । तस्मात् समुद्र समुद्रसदृशं अनन्तत्वात् काममाविश । ततः कामेनैकीभावमापन्नं त्वां अहं प्रतिगृह्णामि ।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कामै॒तत् ते॑ ।  
 ए॒षा ते॑ काम॒ दक्षि॑णा ।
 </details>
+
 <details><summary>मूलम्</summary>
 
 कामै॒तत् ते॑ ।  
 ए॒षा ते॑ काम॒ दक्षि॑णा ।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 एवं हिरण्यमुक्त्वा  
@@ -196,14 +219,17 @@ ______________
 एतत् ते हिरण्यं, त्वमेव प्रतिगृहाण ।  
 एषा हि त्वदीया दक्षिणा इदानीमिष्टकाभूता ।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ॒त्ता॒नस् त्वा॑ङ्गीर॒सः प्रति॑गृह्णातु ।
 </details>
+
 <details><summary>मूलम्</summary>
 
 उ॒त्ता॒नस् त्वा॑ङ्गीर॒सः प्रति॑गृह्णातु ।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अथ दक्षिणां प्रत्याह -  
@@ -224,7 +250,6 @@ ______________
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/11_udAyuShA_svAyuShodoShadhInAm.md">
 <details open><summary><h2>११ उदायुषा स्वायुषोदोषधीनाम् ...{Loading}...</h2></summary>
 
-
 उद् आयु॑षा स्वा॒युषा,  
 +उद् ओष॑धीनाँ॒ रसे॑न॒+,  
 +उत् प॒र्जन्य॑स्य॒ शुष्मे॑ण+++(=बलेन)++++  
@@ -239,7 +264,6 @@ ______________
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/12_tachchaxurdevahitam_purastAchChukramuchcharat.md">
 <details open><summary><h2>१२ तच्चक्षुर्देवहितम् पुरस्ताच्छुक्रमुच्चरत् ...{Loading}...</h2></summary>
-
 
 +++(सूर्यस्)+++ तच् चक्षु॑र् दे॒व+++(नि)+++हि॑तं पु॒रस्ता॑च् छु॒क्र+++(द्ध)+++म् उ॒च्चर॑त् -  
 पश्ये॑म श॒रद॑श् श॒तं  
@@ -264,8 +288,6 @@ ______________
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/13_yasminbhUtancha_bhavyancha.md">
 <details open><summary><h2>१३ यस्मिन्भूतञ्च भव्यञ्च ...{Loading}...</h2></summary>
-
-
 
 यस्मि॑न् भू॒तञ् च॒ भव्य॑ञ् च॒  
 सर्वे॑ लो॒कास् स॒माहि॑ताः ।  

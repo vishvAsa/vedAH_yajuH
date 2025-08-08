@@ -2,7 +2,8 @@
 title = "१२ आघारः"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/1_darshapUrNamAsAdi/12_AghAraH"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/1_darshapUrNamAsAdi/12_AghAraH">
+<details open><summary><h1>१२ आघारः ...{Loading}...</h1></summary>
 
 १ एकपदा गायत्री, ८ द्विपदा गायत्री ।  प्रजापतिर्ऋषिः
 ____
@@ -11,26 +12,32 @@ ____
 
 1अग्रेण जुहूप्रभृतौ प्राञ्चमञ्जलिं करोति - भुवनमिति यजुरादिकयैकपदया गायत्र्या ॥
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भुव॑नम् असि। वि प्र॑थ॒स्वाग्ने॒ यष्ट॑र्, इ॒दन् नमः॑ ।
+भुव॑नम् +++(→यज्ञः)+++ असि। +++(प्र॒जया॑ प॒शुभि॑ᳶ)+++ वि प्र॑थ॒स्वाग्ने॒ यष्ट॑र्, इ॒दन् नमः॑ ।
 </details>
+
 <details><summary>Keith</summary>
 
 Thou art the world, be extended.  
 O Agni, sacrificer, this reverence.
 </details>
+
 <details><summary>मूलम्</summary>
 
 भुव॑नमसि॒ वि प्र॑थ॒स्वाग्ने॒ यष्ट॑रि॒दन्नमः॑ ।
 </details>
-<details><summary>भट्टभास्कर-टीका</summary>
 
+<details><summary>पद-पाठः</summary>
+
+भुव॑नम् । अ॒सि॒ । वीति॑ । प्र॒थ॒स्व॒ । अग्ने॑ । यष्टः॑ । इ॒दम् । नमः॑ ॥
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
 
 हे अग्ने यष्टः यागस्य निर्वर्तक । 'अग्निर्वै देवानां यष्टा' (तै.ब्रा. 3.3.7) इति ब्राह्मणम् । पादादित्वादग्न इति न निहन्यते । 'आमन्त्रितं पूर्वमविद्यमानवत्' (पा.सू. 8.1.72) इति तस्याविद्यमानत्वात् यष्टरित्यपि न निहन्यते । द्वयोरपि षाष्ठिकमाद्युदात्तत्वम् (पा.सू. 6.1.198) । त्वं भुवनमसि त्वदायत्तत्वात्समस्तभूतजातस्य । तस्मात् विप्रथस्व विस्तीर्णो भव । तुभ्यमिदं नमः, अयमञ्जलिस्त्वां प्रीणयितुं क्रियते ॥
 </details>
-
-
 
 ____
 
@@ -38,29 +45,38 @@ ____
 
 2दक्षिणेन जुहूमादत्ते - जुह्विति ॥
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जु॒ह्वेहि॑ ।  
 अ॒ग्निस् त्वा॑ ह्वयति देवय॒ज्यायै॑ ।
 </details>
+
 <details><summary>Keith</summary>
 
 O juhu, come hither, Agni summons thee for the sacrifice to the gods.
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 जुह्वेह्य॒ग्निस्त्वा॑ ह्वयति देवय॒ज्याया॒ उप॑भृ॒देहि॑ दे॒वस्त्वा॑ सवि॒ता ह्व॑यति देवय॒ज्यायै ।
 </details>
+
 <details><summary>मूलम्</summary>
 
 जु॒ह्वेहि॑ ।  
 अ॒ग्निस्त्वा॑ ह्वयति देवय॒ज्यायै॑ ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+जुहु॑ । एति॑ । इ॒हि॒ । अ॒ग्निः । त्वा॒ । ह्व॒य॒ति॒ । दे॒व॒य॒ज्याया॒ इति॑ देव-य॒ज्यायै॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हे जुहु एहि अस्मद्धस्तमागच्छ । यतोग्निस्त्वां देवयज्यायै देवयागार्थमाह्वयति । 'छन्दसि निष्टर्क्य' (पा.सू. 3.1.123) इत्यत्र देवयज्याशब्दो यप्रत्ययान्तो निपातितः । 'आग्नेयी वै जुहूः' (तै.ब्रा. 3.3.7) इत्यादि ब्राह्मणम् ॥
 </details>
-
 
 ____
 
@@ -68,26 +84,33 @@ ____
 
 3सव्येनोपभृतमादत्ते - उपभृदिति ॥
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उप॑भृ॒द् एहि॑ ।  
 दे॒वस् त्वा॑ सवि॒ता ह्व॑यति देवय॒ज्यायै॑ ।  
 </details>
+
 <details><summary>Keith</summary>
 
 O upabhrt, come hither, the god Savitr summons thee for the sacrifice to the gods.
 </details>
+
 <details><summary>मूलम्</summary>
 
 उप॑भृ॒देहि॑ ।  
 दे॒वस्त्वा॑ सवि॒ता ह्व॑यति देवय॒ज्यायै॑ ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+उप॑भृ॒दित्युप॑-भृ॒त् । एति॑ । इ॒हि॒ । दे॒वः । त्वा॒ । स॒वि॒ता । ह्व॒य॒ति॒ । दे॒व॒य॒ज्याया॒ इति॑ देव-य॒ज्यायै॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हे उपभृत् एहि । यतस्सर्वस्य प्रेरकस्सविता देवयज्यायै आह्वयति । 'सावित्र्युपभृत्' (तै.ब्रा. 3.3.7) इत्यादि ब्राह्मणम् ॥
 </details>
-
-
 
 ____
 
@@ -95,64 +118,92 @@ ____
 
 अत्याक्रामं जपति - अग्नाविष्णू इति ॥
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अग्ना॑विष्णू॒+++(=यज्ञौ)+++ मा वा॒म् अव॑ क्रमिषम् ।  
-+++(यज्ञश्चान्तर्वेदि स्रुचामग्रत आस्ते।)+++
+अग्ना॑विष्णू॒+++(→आहवनीय-यज्ञौ)+++ मा वा॒म् अव॑ क्रमिषम् ।  
++++(यज्ञश् चान्तर्वेदि स्रुचामग्रत आस्ते।)+++
 </details>
+
 <details><summary>Keith</summary>
 
 O Agni and Visnu, let me not step down upon you.
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अग्ना॑विष्णू॒ मा वा॒मव॑ क्रमिष॒व्ँवि जि॑हाथा॒म्मा मा॒ सन्ता॑प्तल्ँ लो॒कम्मे॑ लोककृतौ कृणुतम्
 </details>
+
 <details><summary>मूलम्</summary>
 
 अग्ना॑विष्णू॒ मा वा॒मव॑ क्रमिषम् ...
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+अग्ना॑विष्णू॒ इत्यग्ना॑-वि॒ष्णू॒ । मा । वा॒म् । अवेति॑ । क्र॒मि॒ष॒म् ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 4अग्निराहवनीयः, विष्णुर्यज्ञः, यज्ञश्चान्तर्वेदि स्रुचामग्रत आस्ते ; तावाह हे अग्नाविष्णू युवामहं मावक्रमिषम् अवक्रम्य मा गाम् । 'नेटि' (पा.सू. 7.2.4) इत्यादिना वृद्धिप्रतिषेधः ।  
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(मार्गदानाय)+++ वि जि॑हाथाम्+++(=विगच्छतम्)+++ ।
 </details>
+
 <details><summary>Keith</summary>
 
 Be ye parted,  
 </details>
+
 <details><summary>मूलम्</summary>
 
 वि जि॑हाथाम् ...
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+वीति॑ । जि॒हा॒था॒म् । 
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तदर्थं युवां विजिहाथां मम मार्गप्रदानार्थं विगच्छतम् ।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मा मा॒ सन्ता॑प्तम् ।  
 लो॒कम् मे॑ +++(हे)+++ लोककृतौ +++( वां)+++ कृणुतम् ।   
 </details>
+
 <details><summary>Keith</summary>
 
 consume me not.    
 Make ye a place for me, ye place-makers.
 </details>
+
 <details><summary>मूलम्</summary>
 
 मा मा॒ सन्ता॑प्तम् ...  
 लो॒कम्मे॑ लोककृतौ कृणुतम् ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+मा । मा॒ । समिति॑ । ता॒प्त॒म् ।
+लो॒कम् । मे॒ । लो॒क॒कृ॒ता॒विति॑ लोक-कृ॒तौ॒ । कृ॒णु॒त॒म् ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 मा मां च मा सन्ताप्तं सन्तप्तं मा कार्ष्टम् । 'झलो झलि' (पा.सू. 8.2.26) इति सिचो लोपः, 'वदव्रज' (पा.सू. 7.2.3) इति वृद्धिः ।  
 वां लोककृतौ स्थानप्रदौ मम च लोकं स्थानं कृणुतं कुरुतम् । 'धिन्विकृण्व्योरच' (पा.सू. 3.1.80) इत्युप्रत्ययः । 'अतो लोपः' (पा.सू. 6.4.48) ॥
 </details>
-
 
 ____
 
@@ -160,18 +211,27 @@ ____
 
 स्थानं कल्पयति
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विष्णो॒स् स्थान॑म् असि ।
+विष्णो॒स् +++(→यज्ञस्य)+++ स्थान॑म् असि ।
 </details>
+
 <details><summary>Keith</summary>
 
 Thou art the abode of Visnu.
 </details>
+
 <details><summary>मूलम्</summary>
 
 विष्णो॒स्स्थान॑मसि ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+विष्णोः॑ । स्थान॑म् । अ॒सि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 5स्थानं कल्पयति - विष्णोरिति ॥ विष्णोर्यज्ञात्मनः स्थानमसि, अतः प्रशस्तेऽस्मिन् स्थाने स्थित्वा यागं निर्वर्तयामीति भावः ॥
@@ -183,16 +243,16 @@ ____
 
 आघारम् आघारयति
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/12_AghAraH/37_ita_indro.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/12_AghAraH/37_ita_indro.md">
+<details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 इ॒त +++(अस्माद् आघारात्)+++ इन्द्रो॑ अकृणोद् वी॒र्या॑णि समा॒रभ्य॑  
 +++(अयम् आघार)+++ ऊ॒र्ध्वो अ॑ध्व॒रो दि॑वि॒स्पृश॑म् ।   
 +++(आघारवद्)+++ अह्रु॑तो+++(=अकुटिलः)+++ य॒ज्ञो य॒ज्ञप॑ते॒र् इन्द्रा॑वा॒न् ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/12_AghAraH/37_ita_indro.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/12_AghAraH/37_ita_indro.md">
+<details open><summary><h5>सर्वाष् टीकाः ...{Loading}...</h5></summary>
 <details><summary>Keith</summary>
 
 Hence Indra wrought mighty deeds.  
@@ -200,16 +260,24 @@ Great, grasping the sky, imperishable.
 The sacrifice of the lord of the sacrifice is undisturbed.  
 Offered to Indra, hail!
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 इ॒त  इन्द्रो॑ अकृणोद्वी॒र्या॑णि समा॒रभ्यो॒र्ध्वो अ॑ध्व॒रो दि॑वि॒स्पृश॒मह्रु॑तो य॒ज्ञो य॒ज्ञप॑ते॒रिन्द्रा॑वा॒न्त्स्वाहा॑
 </details>
+
 <details><summary>मूलम्</summary>
 
 इ॒त इन्द्रो॑ अकृणोद्वी॒र्या॑णि समा॒रभ्य॑  
 ऊ॒र्ध्वो अ॑ध्व॒रो दि॑वि॒स्पृश॑म्।  
 अह्रु॑तो य॒ज्ञो य॒ज्ञप॑ते॒रिन्द्रा॑वा॒न् ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+इ॒तः । इन्द्रः॑ । अ॒कृ॒णो॒त् । वी॒र्या॑णि । 10K । स॒मा॒रभ्येति॑ सम्-आ॒रभ्य॑ । ऊ॒र्ध्वः । अ॒ध्व॒रः । दि॒वि॒स्पृश॒मिति॑ दिवि-स्पृश॑म् । 11L । अह्रु॑तः । य॒ज्ञः । य॒ज्ञप॑ते॒रिति॑ य॒ज्ञ-प॒तेः॒ । इन्द्रा॑वा॒नितीन्द्र॑-वा॒न् । 
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 6आघारमाघारयति - इत इति ॥ इतः अस्मादाघारात् समारभ्य इन्द्रो वीर्याणि वृत्रवधादीनि अकृणोत् करोति स्म । 'अनुदात्ते च कुधपरे' (पा.सू. 6.1.120) इति प्रकृतिभावः । पूर्ववदुप्रत्ययः ।
@@ -224,15 +292,21 @@ Offered to Indra, hail!
 
 स्वाहा॑ ।
 </details>
+
 <details><summary>मूलम्</summary>
 
 स्वाहा॑ ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+स्वाहा॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 स्वाहा स्वयमेवेत्थं सरस्वत्याह । अह्रुत इति 'ह्रु ह्वरेश्छन्दसि' (पा.सू. 7.2.31) इति ह्रुभावः । होमपक्षे स्वाहेति प्रक्षेपार्थो निपातः ॥
 </details>
-
 
 ____
 
@@ -240,24 +314,26 @@ ____
 
 स्रुचमुद्गृह्णाति
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बृ॒हद् भाः ।  
 </details>
+
 <details><summary>Keith</summary>
 
 Great light.
 </details>
+
 <details><summary>मूलम्</summary>
 
 बृ॒हद्भाः ।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 7स्रुचमुद्गृह्णाति - बृहदिति ॥ क्रियाविशेषणम् । भासत इति भाः । 'भ्राजभास' (पा.सू. 3.2.177) इत्यादिना क्विप् । यस्मादयमग्निरनेनाघारेण भृशं भासते ज्वलति तस्मात्स्रुचमुद्गृह्णामीति भावः ॥
 </details>
-
-
 
 ____
 
@@ -265,24 +341,29 @@ ____
 
 उदङ्ङ् अत्याक्रामं जपति
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पा॒हि मा॑ग्ने॒ दुश्च॑रितात् ।   
 आ मा॒ सुच॑रिते भज+++(=स्थापय)+++ ।   
 </details>
+
 <details><summary>Keith</summary>
 
 Guard me, O Agni, from misfortune, place me in good fortune.
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 पा॒हि मा॑ग्ने॒ दुश्च॑रिता॒दा मा॒ सुच॑रिते भज ।
 </details>
+
 <details><summary>मूलम्</summary>
 
 पा॒हि मा॑ग्ने॒ दुश्च॑रितात् ।   
 आ मा॒ सुच॑रिते भज ।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 8उदङ्ङत्याक्रामं जपति - पाहीति द्विपदया गायत्र्या ॥   
@@ -296,31 +377,36 @@ ____
 
 जुह्वा ध्रुवां समनक्ति
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(हे निर्वर्तिताघारा जुहूः!)+++ म॒खस्य॒ शिरो॑ऽसि ।  
 +++(अतस् ते)+++ सञ् ज्योति॑षा॒ +++(घृतेन ध्रौवं)+++ ज्योति॑र्  अङ्क्ताम्+++(=संगच्छताम्)+++ ॥ [21]
 </details>
+
 <details><summary>Keith</summary>
 
 Thou art the head of Makha,  
 be light united with light.
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 － म॒खस्य॒ शिरो॑ऽसि॒ सञ्ज्योति॑षा॒ ज्योति॑रङ्क्ताम् ॥ [21]
 </details>
+
 <details><summary>मूलम्</summary>
 
 म॒खस्य॒ शिरो॑ऽसि ।  
 सञ्ज्योति॑षा॒ ज्योति॑रङ्क्ताम् ॥ [21]
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 9जुह्वा ध्रुवां समनक्ति - मखस्येति ॥ निर्वर्तिताघारा जुहूरभिमन्त्र्यते । हे जुहु मखस्य यज्ञस्य शिरः शिर इव उत्तमाङ्गमसि । तस्मात्तव ज्योतिषा घृतेन इदं ध्रौवं ज्योतिर्घृतं समङ्क्तां संगच्छताम् । व्यत्ययेनात्मनेपदम् । 'शिरो वा एतद्यज्ञस्य । यदाघारः' (तै.ब्रा. 3.3.7) इति ब्राह्मणम् ॥
 
 </details>
 
-
 इति द्वादशोनुवाकः  
+</details>
 </div>

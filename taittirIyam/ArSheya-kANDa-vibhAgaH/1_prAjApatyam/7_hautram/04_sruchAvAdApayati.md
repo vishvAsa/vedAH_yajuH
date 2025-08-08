@@ -3,8 +3,8 @@ title = "०४ स्रुचावादापयति"
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/3/5_iShTi-hautrAdi/04_sruchAvAdApayati"  newLevelForH1="1" includeTitle="true">
-
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/3/5_iShTi-hautrAdi/04_sruchAvAdApayati">
+<details open><summary><h1>०४ स्रुचावादापयति ...{Loading}...</h1></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ॒ग्निर् होता॒ वेत्व॒ग्निः ।  
@@ -102,5 +102,6 @@ unicode_script = "devanagari"
 
 इति तैत्तिरीये ब्राह्मणे तृतीये पञ्चमे चतुर्थोऽनुवाकः ॥  
 
+</details>
 </details>
 </div>

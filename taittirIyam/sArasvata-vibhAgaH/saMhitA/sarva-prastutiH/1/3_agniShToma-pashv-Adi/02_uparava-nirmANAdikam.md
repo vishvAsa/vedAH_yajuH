@@ -6,24 +6,27 @@ title = "०२ उपरवनिर्माणादिकम्"
 
  सोमऋषिः
 
-
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 उपरवान् खनति पूर्वयोर् दक्षिणम् एवाग्रे - रक्षोहण इति ॥ 
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 र॒क्षो॒-हणो॑ +++(अभिचार-हेतुक--निखात--)+++वल-ग॒--हनो॑ वैष्ण॒वान् ख॑नामि ।
 </details>
+
 <details><summary>Keith</summary>
 
 I dig those which slay the Raksas, which slay the spell, which are of Visnu.
 </details>
+
 <details><summary>मूलम्</summary>
 
 र॒क्षो॒हणो॑ वलग॒हनो॑ वैष्ण॒वान्ख॑नामि ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 र॒क्षो॒हण॒ इति॑ रक्षः-हनः॑ । व॒ल॒ग॒हन॒ इति॑ वलग-हनः॑ । वै॒ष्ण॒वान् । ख॒ना॒मि॒ । 2B ।
@@ -47,26 +50,41 @@ _______
 
 2पांसूनुद्वपति - इदमहमिति ॥ 
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 इदम॒हन्तव्ँव॑ल॒गमुद्व॑पामि॒ यन्न॑स्समा॒नो यमस॑मानो निच॒खाने॒दमे॑न॒मध॑रङ्करोमि॒ यो न॑स्समा॒नो योऽस॑मानोऽराती॒यति॑ गाय॒त्रेण॒ छन्द॒सा 
 </details>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/02_uparava-nirmANAdikam/idam_aham.md">
 <details open><summary><h5>इदम् अहम् ...{Loading}...</h5></summary>
+<details><summary>मूलम् (संयुक्तम्)</summary>
+
+इदम॒हन्तव्ँव॑ल॒गमुद्व॑पामि॒ यन्न॑स्समा॒नो यमस॑मानो निच॒खाने॒दमे॑न॒मध॑रङ्करोमि॒ यो न॑स्समा॒नो योऽस॑मानोऽराती॒यति॑ 
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ॒दम् अ॒हन् तव्ँ **व॑ल॒गम् उद्व॑पामि॒**  
 यन् न॑स् समा॒नो  
-यम् अस॑मानो निच॒खान॑ ...
+यम् अस॑मानो निच॒खान॑।
 </details>
+
 <details><summary>Keith</summary>
 
 Here do I cast out the spell which an equal or an unequal hath buried against us.
 </details>
+
 <details><summary>मूलम्</summary>
 
-इ॒दम॒हन्तव्ँव॑ल॒गमुद्व॑पामि॒ यन्न॑स्समा॒नो यमस॑मानो निच॒खान ......
+इ॒दम॒हन्तव्ँव॑ल॒गमुद्व॑पामि॒   
+यन्न॑स्समा॒नो यमस॑मानो निच॒खान॑ ...
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+इ॒दम् । अ॒हम् । तम् । व॒ल॒गमिति॑ वल-गम् । उदिति॑ । व॒पा॒मि॒ । यम् । नः॒ । स॒मा॒नः । यम् । अस॑मानः । नि॒च॒खानेति॑ नि-च॒खान॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 2पांसूनुद्वपति - इदमहमिति ॥ इदमिति क्रियाविशेषणम् । तं वलगमहमिदमुद्वपामि उद्धृत्य बहिः प्रक्षिपामि । कमित्याह – नः अस्माकं समानस्तुल्यः यं वलगं निचखान । 'तिङि चोदात्तवति' इति गतेरनुदात्तत्वम् । उदात्तवता तिङा' इति समासः । यश्चास्माकमसमानः अतुल्यः ऊनः उत्कृष्टो वा वलग निचखान, तमुद्वपामीति । 'द्वौ वाव पुरुषौ यश्चैव समानो यश्चासमानः' इत्यादि ब्राह्मणम् ।
@@ -80,37 +98,54 @@ ________
 योऽस॑मानो ऽराती॒यति॑  
 …
 </details>
+
 <details><summary>Keith</summary>
 
 Here do I overthrow him who equal or unequal is ill-disposed to us.
 </details>
+
 <details><summary>मूलम्</summary>
 
-इ॒दमे॑न॒मध॑रङ्करोमि॒  यो न॑स्समा॒नो योऽस॑मानोऽराती॒यति॑ …
+इ॒दमे॑न॒मध॑रङ्करोमि॒ यो न॑स्समा॒नो योऽस॑मानोऽराती॒यति॑ …
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+इ॒दम् । ए॒न॒म् । अध॑रम् । क॒रो॒मि॒ ।   
+यः । नः॒ । स॒मा॒नः ।   
+यः । अस॑मानः । अ॒रा॒ती॒यति॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 किञ्च – एनमहमधरं अधोगतिं करोमि । इदमिति पूर्ववत्क्रियाविशेषणम् । कमित्याह - योस्माकं समानो यश्चासमानो जनः अरातीयति अरातिरिवाचरति । यद्वा - अस्मानरातीयति यस्समानोसमानो वा । 'उपमानादाचारे' इति क्यच् ।
 
 </details>
+
+<details><summary>प्रदीपसिंहः</summary>
+
+अत्र विश्वासप्रस्तुतौ मूले पि वाक्यविभागे दोषः भाति। निचखानेदम् इदं पूर्ववाक्यम् समाप्तमासीत् । इदम् इति पदम् अग्रिमवाक्यान्वयि । 
+किञ्च – एनमहमधरं अधोगतिं करोमि । इदमिति पूर्ववत्क्रियाविशेषणम् । इति टीका । अतः व्यत्यासः कृतः
+</details>
 </details>
 </div>
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गाय॒त्रेण॒ छन्द॑सा ।
 
 </details>
+
 <details><summary>Keith</summary>
 
 The spell is overcome by the Gayatri metre.
 </details>
+
 <details><summary>मूलम्</summary>
 
 गाय॒त्रेण॒ छन्द॑सा ।
 
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 गा॒य॒त्रेण॑ । छन्द॑सा । 
@@ -128,6 +163,7 @@ _______
 
 अव॑-बाढो+++(=बद्धो)+++ वल॒गः ।
 </details>
+
 <details><summary>मूलम्</summary>
 
 अव॑बाढो वल॒गः ।
@@ -148,6 +184,7 @@ _______
 
 4उपरवान् क्रमेणावमृशतो ऽध्वर्युयजमानौ । ते चाधस्तात् सतृण्णाः । 'तस्मात्सतृण्णा अन्तरतः प्राणाः इति ब्राह्मणम् । बहिरसतृण्णाः । 'न सम्भिनत्ति तस्मादसभिन्नाः प्राणाः' इति ब्राह्मणम् । पूर्वयोर्दक्षिणमेवाध्वर्युरवमृशत्युत्तरं यजमानः ।    
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(अध्वर्यो!)+++ किम् अत्र॑?
@@ -179,14 +216,17 @@ ________
 
 +++(भो यजमान!)+++ भ॒द्रम्।
 </details>
+
 <details><summary>Keith</summary>
 
 Good.
 </details>
+
 <details><summary>मूलम्</summary>
 
 भ॒द्रम्।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 भ॒द्रम् । 
@@ -202,14 +242,17 @@ ________
 
 +++(अध्वर्यो!)+++ तन् नौ॑ स॒ह ।
 </details>
+
 <details><summary>Keith</summary>
 
  Let it be ours.
 </details>
+
 <details><summary>मूलम्</summary>
 
 तन्नौ॑ स॒ह ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 तत् । नौ॒ । स॒ह । 
@@ -225,22 +268,27 @@ _______
 
 7-10उपरवान् अभिमृशति सर्वान् एवानुर्पूवं - विराडिति ॥ 
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 वि॒राड॑सि सपत्न॒हा स॒म्राड॑सि भ्रातृव्य॒हा स्व॒राड॑स्यभिमाति॒हा वि॑श्वा॒राड॑सि॒ विश्वा॑सान्ना॒ष्ट्राणाँ॑ ह॒न्ता [3]
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि॒राड् अ॑सि सपत्न॒हा ।  
 </details>
+
 <details><summary>Keith</summary>
 
 Thou art Viraj, slaying our rivals; 
 </details>
+
 <details><summary>मूलम्</summary>
 
 वि॒राड॑सि सपत्न॒हा ।  
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 वि॒राडिति॑ वि-राट् । अ॒सि॒ । स॒प॒त्न॒हेति॑ सपत्न-हा । 
@@ -256,14 +304,17 @@ ________
 
 स॒म्राड् अ॑सि भ्रातृव्य॒हा ।  
 </details>
+
 <details><summary>Keith</summary>
 
 thou art Samraj, slaying our foes; 
 </details>
+
 <details><summary>मूलम्</summary>
 
 स॒म्राड॑सि भ्रातृव्य॒हा ।  
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 स॒म्राडिति॑ सम्-राट् । अ॒सि॒ । भ्रा॒तृ॒व्य॒हेति॑ भ्रातृव्य-हा । 
@@ -279,14 +330,17 @@ ________
 
 स्व॒राड् अ॑स्य् अभिमाति॒हा।  
 </details>
+
 <details><summary>Keith</summary>
 
 thou art Svaraj, slaying the enemy; 
 </details>
+
 <details><summary>मूलम्</summary>
 
 स्व॒राड॑स्यभिमाति॒हा।  
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 स्व॒राडिति॑ स्व-राट् । अ॒सि॒ । अ॒भि॒मा॒ति॒हेत्य॑भिमाति-हा ।
@@ -302,14 +356,17 @@ ________
 
 वि॒श्वा॒राड् अ॑सि॒ विश्वा॑सान् ना॒ष्ट्राणाँ॑ ह॒न्ता ।
 </details>
+
 <details><summary>Keith</summary>
 
 thou art Viśvaraj, slayer of all destructive things [1].
 </details>
+
 <details><summary>मूलम्</summary>
 
 वि॒श्वा॒राड॑सि॒ विश्वा॑सान्ना॒ष्ट्राणाँ॑ ह॒न्ता ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 वि॒श्वा॒राडिति॑ विश्व-राट् । अ॒सि॒ । विश्वा॑साम् । ना॒ष्ट्राणा॑म् । ह॒न्ता । [3]
@@ -327,19 +384,23 @@ _______
 
 11उपरवान्प्रोक्षति - रक्षोहण इति ॥
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 र॒क्षो॒-हणो॑ वलग॒-हन॒ᳶ प्रोक्षा॑मि वैष्ण॒वान्।
 </details>
+
 <details><summary>Keith</summary>
 
 I sprinkle those which slay the Raksas, which slay the spell, and which are of Visnu.
 
 </details>
+
 <details><summary>मूलम्</summary>
 
 र॒क्षो॒हणो॑ वलग॒हन॒ᳶ प्रोक्षा॑मि वैष्ण॒वान्।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 क्षो॒हण॒ इति॑ रक्षः-हनः॑ । व॒ल॒ग॒हन॒ इति॑ वलग-हनः॑ । प्रेति॑ । उ॒क्षा॒मि॒ । वै॒ष्ण॒वान् । 
@@ -355,14 +416,17 @@ ________
 
 र॒क्षो॒हणो॑ वलग॒-हनोऽव॑ नयामि वैष्ण॒वान्।
 </details>
+
 <details><summary>Keith</summary>
 
 I pour down those which slay the Raksas, which slay the spell, and which are of Visnu.
 </details>
+
 <details><summary>मूलम्</summary>
 
 र॒क्षो॒हणो॑ वलग॒हनोऽव॑ नयामि वैष्ण॒वान्।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 र॒क्षो॒हण॒ इति॑ रक्षः-हनः॑ । व॒ल॒ग॒हन॒ इति॑ वलग-हनः॑ । अवेति॑ । न॒या॒मि॒ । वै॒ष्ण॒वान् । 
@@ -378,6 +442,7 @@ _______
 
 13तेषु यवान्प्रस्कन्दयति - यवोसीति ॥
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यवो॑ऽसि य॒वया॒स्मद्द्वेषो॑ य॒वयारा॑तीः 
@@ -390,22 +455,33 @@ _______
 य॒वय॑+++(=अपनय)+++ +अ॒स्मद्-द्वेषः॑ ।    
 य॒वय॒ +अरा॑तीः ।
 </details>
+
 <details><summary>Keith</summary>
 
 Thou art barley (yava);  
 bar (yavaya) from us foes,  
 bar evil spirits.
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यवो॑ऽसि य॒वया॒स्मद्द्वेषः॑ [1] य॒वयारा॑तीः ।
 </details>
+
 <details><summary>मूलम्</summary>
 
 यवो॑ऽसि।  
 य॒वया॒स्मद्द्वेषः॑ ।    
 य॒वयारा॑तीः ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+यवः॑ । अ॒सि॒ ।   
+य॒वय॑ । अ॒स्मत् । द्वेषः॑ । [1]
+य॒वय॑ । अरा॑तीः । 
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 यावयति अपनयति क्षुधमिति **यवः** ।  
@@ -417,7 +493,11 @@ bar evil spirits.
 
 किञ्च - अरातीः अदातॄन् शत्रूञ्श्च यवय । रातेः कर्तरि क्तिनि क्तिचि वा नञ्समासेऽव्ययपूर्वपदप्रकृतिस्वरत्वम् । अस्मदीयांश्च शत्रून्नाशयेत्यर्थः । अपदात्परत्वादिदमाख्यार्तं न निहन्यते । 'ऊर्ग्वै यवः' इत्यादि बाह्मणम् ॥
 </details>
-``
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+13तेषु यवान्प्रस्कन्दयति - यवोसीति ॥ व्याख्यातम् । 'प्राणेष्वेवोर्जं दधाति' `इति ब्राह्मणम् ॥
+</details>
 </details>
 </div>
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -430,23 +510,28 @@ _______
 
 14उपरवान् बर्हिषा ऽवस्तृणाति - रक्षोहण इति ॥
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 रक्षो॒हणो॑ वलग॒हनोऽव॑ स्तृणामि वैष्ण॒वान्र॑क्षो॒हणो॑ वलग॒हनो॒ऽभि जु॑होमि वैष्ण॒वान्र॑क्षो॒हणौ॑ वलग॒हना॒वुप॑ दधामि वैष्ण॒वी र॑क्षो॒हणौ॑ वलग॒हनौ॒ पर्यू॑हामि वैष्ण॒वी र॑क्षो॒हणौ॑ वलग॒हनौ॒ परि॑ स्तृणामि वैष्ण॒वी र॑क्षो॒हणौ॑ वलग॒हनौ॑ वैष्ण॒वी बृ॒हन्न॑सि बृ॒हद्ग्रा॑वा बृह॒तीमिन्द्रा॑य॒ वाच॑व्ँवद ॥ [4]
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 र॒क्षो॒हणो॑ वलग॒हनोऽव॑ स्तृणामि वैष्ण॒वान् ।
 </details>
+
 <details><summary>Keith</summary>
 
 I bestrew those which slay the Raksas, which slay the spell, and which are of Visnu.
 
 </details>
+
 <details><summary>मूलम्</summary>
 
 र॒क्षो॒हणो॑ वलग॒हनोऽव॑ स्तृणामि वैष्ण॒वान् ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 र॒क्षो॒हण॒ इति॑ रक्षः-हनः॑ । व॒ल॒ग॒हन॒ इति॑ वलग-हनः॑ । अवेति॑ । स्तृ॒णा॒मि॒ । वै॒ष्ण॒वान् । 
@@ -457,25 +542,27 @@ I bestrew those which slay the Raksas, which slay the spell, and which are of Vi
 14उपरवान् बर्हिषा ऽवस्तृणाति - रक्षोहण इति ॥ युष्मानवस्तृणामीत्यधस्ताच्छादयामीत्यर्थः । शिष्टं स्पष्टम् । 'तस्माल्लोमशा अन्तरतः प्राणाः' `इति ब्राह्मणम् ॥
 </details>
 
-
-
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 15हिरण्यम् अन्तर्धाय स्रुवाहुत्या उपरवान् अभिजुहोति - रक्षोहण इति ॥
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 र॒क्षो॒-हणो॑ वलग॒हनो॒ऽभि जु॑होमि वैष्ण॒वान् ।
 </details>
+
 <details><summary>Keith</summary>
 
 I pour the libation over those which slay the Raksas, which slay the spell, and which are of Visnu.
 \</details>
+
 <details><summary>मूलम्</summary>
 
 र॒क्षो॒हणो॑ वलग॒हनो॒ऽभि जु॑होमि वैष्ण॒वान् ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 र॒क्षो॒हण॒ इति॑ रक्षः-हनः॑ । व॒ल॒ग॒हन॒ इति॑ वलग-हनः॑ । अ॒भीति॑ । जु॒हो॒मि॒ । वै॒ष्ण॒वान् । 
@@ -491,18 +578,22 @@ _______
 
 16अधिषवणफलके उपदधाति - रक्षोहणाविति ॥ 
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 र॒क्षो॒हणौ॑ वलग॒हना॒व् उप॑ दधामि वैष्ण॒वी ।
 </details>
+
 <details><summary>Keith</summary>
 
 I lay down the two Which slay the Raksas, which slay the spell, and which are of Visnu.
 </details>
+
 <details><summary>मूलम्</summary>
 
 र॒क्षो॒हणौ॑ वलग॒हना॒वुप॑ दधामि वैष्ण॒वी ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 र॒क्षो॒हणा॒विति॑ रक्षः-हनौ॑ । व॒ल॒ग॒हना॒विति॑ वलग-हनौ॑ । उपेति॑ । द॒धा॒मि॒ । वै॒ष्ण॒वी इति॑ । 
@@ -518,18 +609,22 @@ _______
 
 17अधिषवणफलके प्रदक्षिणं पुरीषेण पर्यूहति - रक्षोहणाविति ॥ 
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 र॒क्षो॒हणौ॑ वलग॒हनौ॒ पर्यू॑हामि वैष्ण॒वी  ।
 </details>
+
 <details><summary>Keith</summary>
 
 I surround the two which slay the Raksas, which slay the spell, and which are of Visnu.
 </details>
+
 <details><summary>मूलम्</summary>
 
 र॒क्षो॒हणौ॑ वलग॒हनौ॒ पर्यू॑हामि वैष्ण॒वी  ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 र॒क्षो॒हणा॒विति॑ रक्षः-हनौ॑ । व॒ल॒ग॒हना॒विति॑ वलग-हनौ॑ । परीति॑ । ऊ॒हा॒मि॒ । वै॒ष्ण॒वी इति॑ । 
@@ -545,18 +640,22 @@ _______
 
 18एते बर्हिषा परिस्तृणाति - रक्षोहणाविति ॥
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 र॒क्षो॒हणौ॑ वलग॒हनौ॒ परि॑ स्तृणामि वैष्ण॒वी ।
 </details>
+
 <details><summary>Keith</summary>
 
 I bestrew the two which slay the Raksas, which slay the spell, and which are of Visnu.
 </details>
+
 <details><summary>मूलम्</summary>
 
 र॒क्षो॒हणौ॑ वलग॒हनौ॒ परि॑ स्तृणामि वैष्ण॒वी ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 क्षो॒हणा॒विति॑ रक्षः-हनौ॑ । व॒ल॒ग॒हना॒विति॑ वलग-हनौ॑ । परीति॑ । स्तृ॒णा॒मि॒ । वै॒ष्ण॒वी इति॑ । 
@@ -572,19 +671,23 @@ _______
 
 19एते अभिमृशति
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 र॒क्षो॒हणौ॑ वलग॒हनौ॑ वैष्ण॒वी ।
 </details>
+
 <details><summary>Keith</summary>
 
 The two which slay the Raksas, which slay the spell, and which are of Visnu.
 
 </details>
+
 <details><summary>मूलम्</summary>
 
 र॒क्षो॒हणौ॑ वलग॒हनौ॑ वैष्ण॒वी ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 र॒क्षो॒हणा॒विति॑ रक्षः-हनौ॑ । व॒ल॒ग॒हना॒विति॑ वलग-हनौ॑ । वै॒ष्ण॒वी इति॑ । 
@@ -600,16 +703,19 @@ _______
 
 20फलके ग्राव्णोद्वादयति - बृहन्निति ॥
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बृ॒हन्न् अ॑सि बृ॒हद्-ग्रा॑वा ।  
 बृह॒तीम् इन्द्रा॑य॒ वाच॑व्ँ वद ॥ [4]
 </details>
+
 <details><summary>Keith</summary>
 
 Thou art great, with a great pressing stone;   
 call forth to Indra with a great voice.
 </details>
+
 <details><summary>मूलम्</summary>
 
 बृ॒हन्न॑सि बृ॒हद्ग्रा॑वा ।  

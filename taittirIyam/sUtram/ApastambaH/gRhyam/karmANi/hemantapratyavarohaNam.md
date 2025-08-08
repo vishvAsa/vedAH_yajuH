@@ -19,7 +19,6 @@ unicode_script: devanagari
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/02_pratyavarUDho_no.md">
 <details open><summary><h4>०२ प्रत्यवरूढो नो ...{Loading}...</h4></summary>
 
-
 प्र॒त्यव॑रूढो नो हेम॒न्तः ।  
 
 </details>
@@ -31,7 +30,6 @@ unicode_script: devanagari
 +++(नवस्वस्तरे संविशन् )+++  
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/03-07_pratixatre_pratitiShThAmi.md">
 <details open><summary><h4>०३-०७ प्रतिक्षत्रे प्रतितिष्ठामि ...{Loading}...</h4></summary>
-
 
 प्रति॑ क्ष॒त्रे, प्रति॑तिष्ठामि रा॒ष्ट्रे ।  
 प्रत्य् अश्वे॑षु॒, प्रति॑तिष्ठामि॒ गोषु॑ ।  
@@ -60,11 +58,9 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/022/15_syonA_pRthivi.md">
 <details open><summary><h6>१५ स्योना पृथिवि ...{Loading}...</h6></summary>
 
-
-+++(अभिमृशति)+++  
-स्यो॒ना+++(=सुखरूपा)+++ पृ॑थिवि॒ भवा॑+  
-ऽनृक्ष॒रा+++(=कण्टकादिरहिता)+++ नि॒वेश॑नी ।  
-यच्छा॑ न॒श् शर्म॑ स॒प्रथाः॑+++(=सकीर्तिः)+++ ।
+स्योना᳓+++(=सुखरूपा)+++ पृथिवि भव+  
+अनृक्षरा᳓+++(=कण्टकादिरहिता)+++ निवे᳓शनी ।  
+य᳓च्छा नश् श᳓र्म सप्र᳓थाः+++(=सकीर्तिः)+++ ।
 
 </details>
 </div>
@@ -72,8 +68,6 @@ unicode_script: devanagari
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/09_baDitthA_parvatAnAnkhidrambibharShi.md">
 <details open><summary><h4>०९ बडित्था पर्वतानाङ्खिद्रम्बिभर्षि ...{Loading}...</h4></summary>
-
-
 
 बड् इ॒त्था+++(त्थं)+++ पर्व॑तानाङ्+++(→मेघानाम्)+++  
 खि॒द्रम्+++(=छिद्रं →छेदनम्)+++ बि॑भर्षि पृथिवि ।  

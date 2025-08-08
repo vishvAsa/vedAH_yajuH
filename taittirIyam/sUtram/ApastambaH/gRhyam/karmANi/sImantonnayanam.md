@@ -22,7 +22,6 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/11_sImantonnayanam/14_02_brAhmaNAn_bhojayitvA-.ashiSho.md">
 <details open><summary><h2>१४ ०२ ब्राह्मणान् भोजयित्वाऽऽशिषो ...{Loading}...</h2></summary>
 
-
 ब्राह्मणान् भोजयित्वा ऽशिषो वाचयित्वा,  
 अग्नेर् उपसमाधानाद्य्-आज्यभागान्ते  
 ऽन्वारब्धायाम् +++(चौले - अन्वारब्धे)+++  
@@ -31,10 +30,8 @@ unicode_script: devanagari
 परिषेचनान्तं कृत्वा  
    
 
-
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/01_dhAtA_dadAtu.md">
 <details open><summary><h4>०१ धाता ददातु ...{Loading}...</h4></summary>
-
 
 धा॒ता द॑दातु नो र॒यिम्  
 ईशा॑नो॒ जग॑त॒स्+++(!)+++पतिः॑ ।  
@@ -44,7 +41,6 @@ unicode_script: devanagari
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/02_dhAtA_prajAyA.md">
 <details open><summary><h4>०२ धाता प्रजाया ...{Loading}...</h4></summary>
-
 
 धा॒ता प्र॒जाया॑ उ॒त रा॒य ई॑शे +++(=ईष्टे)+++   
 धा॒तेदं विश्व॒म् भुव॑नं जजान ।   
@@ -56,7 +52,6 @@ unicode_script: devanagari
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/03_dhAtA_dadAtu.md">
 <details open><summary><h4>०३ धाता ददातु ...{Loading}...</h4></summary>
 
-
 धा॒ता द॑दातु नो र॒यिम्  
 प्राचीं॑ जी॒वातु॒म् अक्षि॑ताम् ।  
 व॒यं दे॒वस्य॑ धीमहि  
@@ -66,7 +61,6 @@ unicode_script: devanagari
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/04_dhAtA_dadAtu.md">
 <details open><summary><h4>०४ धाता ददातु ...{Loading}...</h4></summary>
-
 
 धा॒ता द॑दातु दा॒शुषे॒ वसू॑नि  
 प्र॒जाका॑माय मी॒ढुषे॑ +++(=सेक्त्रे)+++ दुरो॒णे +++(=दारेषु)+++ ।  
@@ -80,11 +74,10 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/004/10_yastvA_hRdA.md">
 <details open><summary><h6>१० यस्त्वा हृदा ...{Loading}...</h6></summary>
 
-
-यस् **त्वा॑** हृ॒दा की॒रिणा॒ +++(=स्तोत्रिणा)+++ मन्य॑मा॒नो  
-ऽम॑र्त्यं॒ मर्त्यो॒ **जोह॑वीमि** ।  
-जात॑वेदो॒ **यशो॑** अ॒स्मासु॑ **धेहि**  
-प्र॒जाभि॑र् अग्ने **अमृत॒त्वम् अ॑श्याम्** ॥
+य᳓स् **त्वा** हृदा᳓ कीरि᳓णा +++(=स्तोत्रिणा)+++ म᳓न्यमानो᳓  
+ऽमर्त्यं म᳓र्त्यो **जो᳓हवीमि** ।  
+जा᳓तवेदो **य᳓शो** अस्मा᳓सु **धेहि**  
+प्रजा᳓भिर् अग्ने **अमृतत्व᳓म् अश्याम्** ॥
 
 </details>
 </div>
@@ -95,11 +88,10 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/004/11_yasmai_tvaM.md">
 <details open><summary><h6>११ यस्मै त्वं ...{Loading}...</h6></summary>
 
-
-यस्मै॒ त्वँ सु॒कृते॑ जातवेद॒ उ  
-लो॒कम् अ॑ग्ने कृ॒णवः॑ +++(=कुर्याः)+++ स्यो॒नम् +++(सुखमयम्)+++।  
-अ॒श्विनँ॒ स पु॒त्रिणं॑ वी॒रव॑न्तं॒  
-गोम॑न्तँ र॒यिं न॑शते +++(=प्राप्नोति)+++ स्व॒स्ति ॥
+य᳓स्मै त्वँ᳓ सुकृ᳓ते जातवेद उ᳓  
+लोक᳓म् अग्ने कृण᳓वः +++(=कुर्याः)+++ स्योन᳓म् +++(सुखमयम्)+++।  
+अश्वि᳓नँ स᳓ पुत्रि᳓णं वीर᳓वन्तं  
+गो᳓मन्तँ रयिं᳓ नशते +++(=प्राप्नोति)+++ स्वस्ति᳓ ॥
 
 </details>
 </div>
@@ -110,10 +102,9 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/092/14_tve_su.md">
 <details open><summary><h6>१४ त्वे सु ...{Loading}...</h6></summary>
 
-
-त्वे सु पु॑त्त्र शव॒सो  
-ऽवृ॑त्र॒न् +++(=अवर्तन्त)+++ काम॑-कातयः +++(=कामकामनाः)+++ ।  
-न त्वाम् इ॒न्द्राति॑ रिच्यते ।।
+त्वे᳓ सु᳓ पुत्त्र +++(आमन्त्रिताङ्गत्वाद् अनुदात्तः←)+++शवसो᳓  
+ऽवृत्रन् +++(=अवर्तन्त)+++ का᳓म-कातयः +++(=काम-कामनाः [सुतयः])+++ ।  
+न᳓ त्वा᳓म् इन्द्रा᳓ति रिच्यते ।।
 
 </details>
 </div>
@@ -124,12 +115,10 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/026/02_ukthaukthe_soma.md">
 <details open><summary><h6>०२ उक्थौक्थे सोम ...{Loading}...</h6></summary>
 
-
-
-उ॒क्थउ॑क्थे॒ सोम॒ इन्द्रं॑ ममाद  
-नी॒थेनी॑थे +++(समाप्ते समाप्ते)+++ म॒घवा॑नँ सु॒तासः॑ ।  
-यद् ईँ स॒बाधः॑ पि॒तरं॒ न पु॒त्राः  
-स॑मा॒न-द॑क्षा॒ +++(=समानबलाः)+++ अव॑से॒ हव॑न्ते ।
+उक्थ᳓उक्थे सो᳓म इ᳓न्द्रं ममाद  
+नीथे᳓नीथे +++(समाप्ते समाप्ते)+++ मघ᳓वानँ सुता᳓सः ।  
+य᳓द् ईँ᳓ सबा᳓धः पित᳓रं न᳓ पुत्राः᳓  
+समान᳓-दक्षा +++(=समानबलाः)+++ अ᳓वसे ह᳓वन्ते ।
 
 </details>
 </div>
@@ -137,7 +126,6 @@ unicode_script: devanagari
 </div>
 </details>
 </div>  
-
 
 ### सीमन्तोन्नयनम्
 
@@ -171,7 +159,6 @@ unicode_script: devanagari
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/12_yaugandharireva_no.md">
 <details open><summary><h4>१२ यौगन्धरिरेव नो ...{Loading}...</h4></summary>
 
-
 यौग॑न्धरिर् ए॒व नो॒ राजेति॒ साल्वी॑र् अवादिषुः ।  
 विवृ॑त्तचक्रा॒ आसी॑ना॒स् तीरे॑ण यमुने॒ तव॑ ।  
 
@@ -188,7 +175,6 @@ unicode_script: devanagari
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/13_soma_eva.md">
 <details open><summary><h4>१३ सोम एव ...{Loading}...</h4></summary>
-
 
 सोम॑ ए॒व नो॒ राजेत्य्  
 आ॑हुर्ब्राह्म॒णीः प्र॒जाः ।  

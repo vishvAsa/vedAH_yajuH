@@ -9,13 +9,15 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/05/12_sadA_mahAntamapararAtramutthAya_gurostiShThanprAtarabhivAdamabhivAdayItAsAvaham.md">
 <details open><summary><h4>12 सदा महान्तमपररात्रमुत्थाय गुरोस्तिष्ठन्प्रातरभिवादमभिवादयीतासावहम् ...{Loading}...</h4></summary>
 
-सदा महान्तमपररात्रमुत्थाय गुरोस्तिष्ठन्प्रातरभिवादमभिवादयीतासावहं भो इति १२
+सदा महान्तम् अपररात्रम् उत्थाय  
+गुरोस् तिष्ठन्  
+प्रातर् अभिवादम् अभिवादयीत - "असाव् अहं भो" इति १२
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/05/13_samAnagrAme_cha_vasatAmanyeShAmapi.md">
 <details open><summary><h4>13 समानग्रामे च वसतामन्येषामपि ...{Loading}...</h4></summary>
 
-समानग्रामे च वसतामन्येषामपि वृद्धतराणां प्राक् प्रातराशात् १३
+समान-ग्रामे च वसताम् अन्येषाम् अपि वृद्धतराणां प्राक् प्रातर्-आशात् १३
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/05/14_proShya_cha_samAgame.md">
@@ -27,19 +29,22 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/05/15_svargamAyushchepsan.md">
 <details open><summary><h4>15 स्वर्गमायुश्चेप्सन् ...{Loading}...</h4></summary>
 
-स्वर्गमायुश्चेप्सन् १५
+स्वर्गम् आयुश् चेप्सन् १५
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/05/16_daxiNambAhuM_shrotrasamam_prasArya.md">
 <details open><summary><h4>16 दक्षिणम्बाहुं श्रोत्रसमम् प्रसार्य ...{Loading}...</h4></summary>
 
-दक्षिणम्बाहुं श्रोत्रसमं प्रसार्य ब्राह्मणोऽभिवादयीतोरःसमं राजन्यो मध्यसमं वैश्यो नीचैः शूद्रः प्रञ्जलिम् १६
+दक्षिणम् बाहुं श्रोत्र-समं प्रसार्य ब्राह्मणोऽभिवादयीत उरःसमं  
+राजन्यो मध्यसमं  
+वैश्यो नीचैः  
+शूद्रः प्राञ्जलि १६
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/05/17_plAvana~n_cha_nAmno-bhivAdanapratyabhivAdane.md">
 <details open><summary><h4>17 प्लावनञ् च नाम्नोऽभिवादनप्रत्यभिवादने ...{Loading}...</h4></summary>
 
-प्लावनं च नाम्नोऽभिवादनप्रत्यभिवादने च पूर्वेषां वर्णानाम् १७
+प्लावनं च नाम्नो +++(ऽन्तिमस्वरस्य)+++ ऽभिवादन+++(सम्बद्ध)+++-प्रत्यभिवादने च पूर्वेषां वर्णानाम् १७
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/05/18_udite_tvAditya_AchAryeNa.md">
@@ -63,13 +68,15 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/05/21_daxiNena_pANinA_daxiNam.md">
 <details open><summary><h4>21 दक्षिणेन पाणिना दक्षिणम् ...{Loading}...</h4></summary>
 
-दक्षिणेन पाणिना दक्षिणं पादमधस्तादभ्यधिमृश्य सकुष्ठिकमुपसंगृह्णीयात् २१
+दक्षिणेन पाणिना दक्षिणं पादम्  
+अधस्ताद् अभ्यधिमृश्य सकुष्ठिकम् उपसंगृह्णीयात् २१
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/05/22_ubhAbhyAmevobhAvabhipIDayata_upasangrAhyAv_ityeke.md">
 <details open><summary><h4>22 उभाभ्यामेवोभावभिपीडयत उपसङ्ग्राह्याव् इत्येके ...{Loading}...</h4></summary>
 
-उभाभ्यामेवोभावभिपीडयत उपसंग्राह्याव् इत्येके २२
+उभाभ्याम् एवोभाव् अभिपीडयत  
+उपसंग्राह्याव् इत्य् एके २२
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/14/18_aprayatena_nAbhivAdyam.md">

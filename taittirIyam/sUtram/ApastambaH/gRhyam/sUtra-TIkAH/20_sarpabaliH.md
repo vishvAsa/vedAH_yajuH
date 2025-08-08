@@ -19,13 +19,14 @@ title = "२० सर्पबलिः"
 
 5. [^3]  On the day of the full moon of (the month) Śrāvaṇa after sunset a Sthālīpāka (is offered).
 
-
 [^3]:  Here follows a description of the Sarpabali.
 </details>
+
 <details><summary>हरदत्त-प्रस्तावः</summary>
 
 अथ सर्पबलेर्यस्मिन् काले येन विधिनोपक्रमस्तमाह—
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 अथ सर्पबलिर् नाम कर्म नित्यं संवत्सरे संवत्सरे कर्तव्यम् उपदिश्यते। तस्य श्रावण्यां पौर्णमास्याम् आरम्भः
@@ -44,6 +45,7 @@ title = "२० सर्पबलिः"
 तत्र सायम् आहुतिं हुत्वा स्थाली-पाक-कर्म प्रतिपद्यते - पार्वणेनातोऽन्यानीत्युक्तं, पौर्णमास्यां पौर्णमासीति च ।
 श्रावण्यै पौर्णमास्यै सङ्कल्पितान् व्रीहिन् यवान् वा निरुप्य प्रतिष्ठिताभिधारणान्तं कृत्वाग्नेरुपसमाधानादि द्वन्द्वं न्यञ्चि पात्राणि किंशुक-पुष्पैर् आरग्वध-मय-समिद्भिश् च सह ॥५॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 श्रवणेन नक्षत्रेण युक्ता पौर्णमासी **श्रावणी** । +++(श्रवणेन नक्षत्रेण)+++ अयुक्तापीह +++(पौर्णमासी)+++ विवक्षिता, नित्यत्वात् सर्पबलेः । श्रावणमासस्य पौर्णमासीत्यर्थः । न तु श्रावणमासस्य श्रवणनक्षत्रम्, श्रवणस्य पौर्णमासी-विशेषणार्थत्वात्, "पौर्णमास्यां" (आप.प.२-२०.) इति वचनाच् च । अथ चान्द्रमसमासानां चैत्रादीनां, पौर्णमासीनां च चैत्र्यादीनां निर्णयार्थौ श्लोकौ—
@@ -78,7 +80,6 @@ title = "२० सर्पबलिः"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_16/13-15_jagdho_mashako.md">
 <details open><summary><h5>१३-१५ जग्धो मशको ...{Loading}...</h5></summary>
 
-
 ज॒ग्धो मश॑को, ज॒ग्धा वितृ॑ष्टिर्, ज॒ग्धो व्य॑द्ध्व॒रः स्वाहा॑ ।  
 ज॒ग्धो व्य॑द्ध्व॒रो,  ज॒ग्धो मश॑को,  ज॒ग्धा वितृ॑ष्टि॒स् स्वाहा॑ ।  
 ज॒ग्धा वितृ॑ष्टिर्, ज॒ग्धो व्य॑द्ध्व॒रो, ज॒ग्धो मश॑क॒स् स्वाहा॑ ॥ +++(र५ विन्यासे ऽत्र सर्पाकृतिः)+++
@@ -93,9 +94,9 @@ title = "२० सर्पबलिः"
 
 6. [^4]  After the ceremonies down to the Ājyabhāga oblations have been performed in the same way as at the fortnightly sacrifices, he sacrifices of the Sthālīpāka, and with each of the next (formulas, II, 16, 15-17) he offers with his joined hands Kiṃśuka flowers.
 
-
 [^4]:  Comp. above, III, 7, 2-3.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 सर्वं पार्वणवदित्त्युच्यते– स्थालीपाकादेव पार्वणवज् जुहोति, न किंशुकानीति । तेन तेष्व् अवदानकल्पो न भवति । स्विष्टकृतश् चावदानं तेभ्यो न भवति ।
@@ -112,6 +113,7 @@ title = "२० सर्पबलिः"
 प्रतिमन्त्रम् इत्त्य् उच्यते प्रतिमन्त्रं किंशुकानां बहुत्वं यथा स्याद् इति ।
 अन्यथा एकैकस्य किंशुकस्य होमः प्राप्नोति, यथा समिधाम् ॥६॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 ततः **पार्वण**वद् अग्नेर् उपसमाधाना**द्य्-आज्यभागान्ते** अग्निम-ुखान्त इत्यर्थः ; सर्वेष्व् औषध-हविष्केषु तन्त्रवत्सु कर्मसु अग्नि-मुखस्य विहितत्वात् ।
@@ -142,7 +144,6 @@ title = "२० सर्पबलिः"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/01_indra_jahi.md">
 <details open><summary><h5>०१ इन्द्र जहि ...{Loading}...</h5></summary>
 
-
 इन्द्र॑ जहि दन्द॒शूकं॑  
 प॒क्षिणं॒ यस् स॑रीसृ॒पः ।  
 दं॒क्ष्यन्त॑ञ् च द॒शन्त॑ञ् च॒  
@@ -153,7 +154,6 @@ title = "२० सर्पबलिः"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/02_apsujAta_sarevRddha.md">
 <details open><summary><h5>०२ अप्सुजात सरेवृद्ध ...{Loading}...</h5></summary>
 
-
 अ॒प्सु जा॑त॒ सरे॑ वृद्ध  
 दे॒वाना॒म् अपि॑ हस्त्य ।  
 त्वम् अ॑ग्न इन्द्र॒-प्रेषि॑त॒स्  
@@ -163,7 +163,6 @@ title = "२० सर्पबलिः"
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/03_trANamasi_paritrANamasi.md">
 <details open><summary><h5>०३ त्राणमसि परित्राणमसि ...{Loading}...</h5></summary>
-
 
 त्राण॑म् असि।  
 प॒रि॒त्राण॑म् असि।  
@@ -180,6 +179,7 @@ title = "२० सर्पबलिः"
 
 7. With the next (three) verses (II, 17, 1-3) (he offers) pieces of Āragvadha wood (Cathartocarpus fistula);
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 **आरग्वधो** राजवृक्षः ।
@@ -188,6 +188,7 @@ title = "२० सर्पबलिः"
 समिध आदधाति जुहोति वा ।
 सर्वथा स्वाहाकारान्ता मन्त्राः ॥७॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 अथो**त्तराभिस्तिसृभिः** "इन्द्र जहि दन्दशूकं "इत्यादिभिः प्रत्यृचम् ।
@@ -216,7 +217,6 @@ title = "२० सर्पबलिः"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/04_tatsatyaM_yatte-mAvAsyAyAncha.md">
 <details open><summary><h5>०४ तत्सत्यं यत्तेऽमावास्यायाञ्च ...{Loading}...</h5></summary>
 
-
 +++(सर्पाधिपते!)+++ तत् स॒त्यं यत् ते॑ ऽमावा॒स्या॑याञ् च पौर्णमा॒स्याञ् च॒ विष॑ब॒लिँ हर॑न्ति॒।  
 सर्व॑ उदर-स॒र्पिणः॑ तत् +++(बलिं)+++ ते॒ प्रेर॑ते॒+++(=प्राप्नुवन्ति)+++, त्वयि॒ संवि॑शन्ति।  
 त्वयि॑ नस् स॒तस्+++(=आश्रितान्)+++, त्वयि॑ स॒द्भ्यो +++(सर्पेभ्यो)+++, व॒र्षाभ्यो॑ नः॒ परि॑देहि ।  
@@ -227,9 +227,8 @@ title = "२० सर्पबलिः"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/05_namo_astu.md">
 <details open><summary><h5>०५ नमो अस्तु ...{Loading}...</h5></summary>
 
-
 नमो॑ अस्तु स॒र्पेभ्यो॑  
-ये के च पृथि॒वीम् अनु॑।  
+ये के च॑ पृथि॒वीम् अनु॑।  
 ये अ॒न्तरि॑क्षे दि॒वि  
 तेभ्य॑स् स॒र्पेभ्यो॒ नमः॑॥
 
@@ -238,9 +237,7 @@ title = "२० सर्पबलिः"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/06_ye-do_rochane.md">
 <details open><summary><h5>०६ येऽदो रोचने ...{Loading}...</h5></summary>
 
-
-
-ये॑ऽदो, रो॑च॒ने दि॒वो,  
+ये॒॑ ऽदो, रो॑च॒ने दि॒वो,  
 ये वा॒ सूर्य॑स्य र॒श्मिषु॑ ।  
 येषा॑म् अ॒प्सु सदः॑ कृ॒तं  
 तेभ्यः॑ स॒र्पेभ्यो॒ नमः॑ ॥
@@ -249,7 +246,6 @@ title = "२० सर्पबलिः"
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/07_yA_iShavo.md">
 <details open><summary><h5>०७ या इषवो ...{Loading}...</h5></summary>
-
 
 या इष॑वो यातु॒धाना॑नां॒  
 ये वा॒ वन॒स्पतीँ॒र् अनु॑ ।  
@@ -266,10 +262,12 @@ title = "२० सर्पबलिः"
 
 8. Then the Ājya oblations (indicated by the) next (Mantras, II, 17, 4-7).
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 **उत्तराश्** चतस्र **आज्याहुतीर्** जुहोति तत्सत्यं यत्तेऽमावास्यायां, "नमो अस्तु सर्पेभ्य" इति तिस्रः ॥८॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **उत्तराश्** चतस्रः "तत्सत्यं यत्तेऽमावास्यायाम्" इत्येका, "नमो अस्तु सर्पेभ्यः" इति तिस्रश्च ॥८॥
@@ -299,12 +297,14 @@ title = "२० सर्पबलिः"
 
 9. Then he enters upon the performance of the Jaya and following oblations.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 एवमेता एकादश प्रधानाहुतीर्हुत्वा सौविष्टकृतं च स्थालीपाकादेव हुत्वा ततो जयादि प्रतिपद्यते किंशुकप्रभृतीनामप्याहुतीनां प्राधान्यज्ञापनार्थमिदं वचनम् ।
 अन्यथा पौर्णमास्यामस्तमिते स्थालीपाक इति विहितत्वात् पौर्ममास्यां पौर्णमासीति च तस्य देवताभिधानादर्शकर्मकत्वाच्च किंशुकानां प्रधानत्वं न गम्येत ।
 ततश्च पार्वणवदुपहोमान्तं कृत्वा ततः किंशुकादीनां हेमः प्राप्नोति ॥९॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 एतच्च वचनं जयादिप्राप्यर्थम्, स्थालीपाककिंशुकसमिदाज्याहुतीनामेकदशानां प्राधान्यज्ञापनार्थं च ।
@@ -337,7 +337,6 @@ title = "२० सर्पबलिः"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/08_namo_astu.md">
 <details open><summary><h5>०८ नमो अस्तु ...{Loading}...</h5></summary>
 
-
 नमो॑ **अस्तु** स॒र्पेभ्यो॒  
 ये पार्थि॑वा॒ य आ॑न्तरि॒क्ष्या॑ ये दि॒व्या॑ ये दि॒श्याः॑ ।  
 +++(उपक्रमे)+++ तेभ्य॑ इ॒मं ब॒लिँ **ह॑रिष्यामि** ।  
@@ -353,6 +352,7 @@ title = "२० सर्पबलिः"
 
 10. Having performed (the rites) down to the sprinkling (of water) round (the fire), he silently takes the objects required (for the rites which he is going to perform), goes out in an easterly or northerly direction, prepares a raised surface, draws on it three lines directed towards the east and three towards the north, pours water on the (lines), and lays (an offering of) flour (for the serpents) on them, with the next (formula, II, 17, 8).
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 परिषेचनान्तवचनमानन्तर्यार्थम् ।
@@ -374,6 +374,7 @@ title = "२० सर्पबलिः"
 ततस्तासु लेखासु **उत्तरयर्चा** "नमोऽस्तु सर्पेभ्यो ये पार्थिवा" इत्येतया सक्तून्निवपति हस्तेन दर्व्या वा, आश्वलायनके दर्शनात् ।
 तास्विति वचनं ताः सर्वा लेखाः यथा बलिर्व्याप्नुयादित्येवमर्थम् ॥१०॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 अथ तन्त्रशेषं समाप्य, **सम्भारान्** उत्तरत्रोपयोक्ष्यमाणान् सक्त्वादीनादाय, **वाग्यतः प्राचीमुदीचीं वा दिशमुपनिष्क्रम्य, स्थणडिलं** पीठं **कल्पयित्वा तत्र** पीठे दक्षिणस्या आरभ्य **प्राचीस्तिस्रः**, प्रतीच्या आरभ्य **उदीचीस्तिस्रश्च रेखा लिखित्वाद्भिरुपनिनीय तासु** षट्सु लेखासु लेखनक्रमेणो**त्तरया** "नमो अस्तु सर्पेभ्यो ये पार्थिवाः" इत्यादिकया "बलिं हरिष्यामि" इत्यन्तया **सक्तून्निन्निवपति** ।
@@ -406,6 +407,7 @@ title = "२० सर्पबलिः"
 
 11. Silently (he lays down) unground (?) grain, roasted grain, collyrium, ointment, (the fragrant substance called) Sthagara, and Uśīra root.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 **संपुष्का** अक्षता अखण्डितैस् तण्डुलैः कृताः  
@@ -415,6 +417,7 @@ title = "२० सर्पबलिः"
 
 तेन सर्वत्र पूर्वेण मन्त्रेणैव निवपने प्राप्ते तूष्णीमिति मन्त्रप्रतिषेधः ॥११॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **सम्पुष्काः** सम्पुष्टा इति धानाविशेषणं अखण्डिततण्डुलैः कृता **धाना** इत्यर्थः ।
@@ -448,8 +451,6 @@ title = "२० सर्पबलिः"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/09-10_taxaka_vaishAleya.md">
 <details open><summary><h5>०९-१० तक्षक वैशालेय ...{Loading}...</h5></summary>
 
-
-
 तक्ष॑क॒, वैशा॑लेय- धृ॒तरा॑ष्ट्रैरावतस् ते जी॑वा॒स्,  
 त्वयि॑ नस् स॒तस्, त्वयि॑ स॒द्भ्यो +++(सर्पेभ्यो)+++, व॒र्षाभ्यो॑ नः॒ परि॑देहि ।  
 धृ॒तरा॑ष्ट्रैरावत॒ तक्ष॑कस् ते वै॑शाले॒यो जी॑वा॒स् …।  
@@ -459,7 +460,6 @@ title = "२० सर्पबलिः"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/11_-12_ahiMsAtibalaste_jIvAstvayi.md">
 <details open><summary><h5>११ -१२ अहिंसातिबलस्ते जीवास्त्वयि ...{Loading}...</h5></summary>
 
-
 अहिँ॑सातिब॒लस्ते जी॑वा॒स् …।  
 अति॑बलाहिँ॒सस्ते जी॑वा॒स्  …।  
 +++(व्यस्तप्रयोगे सम्बोधन इह स्वरव्यत्ययः।)+++
@@ -468,7 +468,6 @@ title = "२० सर्पबलिः"
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/13_ye_dandashUkAH.md">
 <details open><summary><h5>१३ ये दन्दशूकाः ...{Loading}...</h5></summary>
-
 
 ये द॑न्द॒शूकाः॒ पार्थि॑वा॒स्- ताँस् त्वम् इ॒तः प॒रो गव्यू॑तिं॒ निवे॑शय ।  
 सन्ति॒ वै न॑श् श॒फिन॒स्, सन्ति॑ द॒ण्डिन॒स्, ते वो॒ नेद् +धि॒नसा॒न्, न्येद् यू॒यम् अ॒स्मान् हि॒नसा॑त ।  
@@ -480,7 +479,6 @@ title = "२० सर्पबलिः"
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/14_samIchI_nAmAsi.md">
 <details open><summary><h5>१४ समीची नामासि ...{Loading}...</h5></summary>
-
 
 स॒मीची॒ नामा॑सि॒ प्राची॒ दिक्। तस्या॑स् ते॒ ऽग्निर् अधि॑पतिर्, असि॒तो र॑क्षि॒ता।  
 
@@ -498,7 +496,6 @@ title = "२० सर्पबलिः"
 
 ###### मन्त्रः
 
-
 ओ॒ज॒स्विनी॒ नामा॑सि दक्षि॒णा दिक्।  
 तस्या॑स् त॒ इन्द्रोऽधि॑पतिः, पृदा॑कू र॑क्षि॒ता  
 
@@ -509,7 +506,6 @@ title = "२० सर्पबलिः"
 ते यं द्वि॒ष्मो, यश् च॑ नो॒ द्वेष्टि॒ - तं वां॒ जंभे॑ दधामि ।
 </details>
 </div>  
-
 
 प्राची॒ नामा॑सि प्र॒तीची॒ दिक्।  
 तस्या॑स् ते॒ सोमोऽधि॑पतिः स्व॒जो र॑क्षि॒ता  
@@ -532,7 +528,6 @@ title = "२० सर्पबलिः"
 ते यं द्वि॒ष्मो, यश् च॑ नो॒ द्वेष्टि॒ - तं वां॒ जंभे॑ दधामि ।
 </details>
 </div>  
-
 
 अधि॑पत्नी॒ नामा॑सि बृह॒ती दिक्।  
 तस्या॑स् ते॒ बृह॒स्पति॒र् अधि॑पतिः श्वि॒त्रो र॑क्षि॒ता  
@@ -560,13 +555,11 @@ title = "२० सर्पबलिः"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/20_-25_hetayo_nAmastha.md">
 <details open><summary><h7>२० -२५ हेतयो नामस्थ ...{Loading}...</h7></summary>
 
-
 हे॒तयो॒ नाम॑ स्थ॒, तेषां॑ वः पु॒रो गृ॒हा, अ॒ग्निर् व॒ इष॑वः, सलि॒लो वा॑त-ना॒मम्।  
 +++(वाताशिनो हि सर्पाः। तस्य वातस्य नमयिता = उपस्थापयिता। नपुंसकलिङ्गं सामान्यविवक्षायाः।)+++  
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/tebhyo_vo_namaH.md">
 <details open><summary><h12>Tebhyo vo nama H ...{Loading}...</h12></summary>
-
 
 तेभ्यो॑ वो॒ नम॒स्, ते नो॑ मृडयत।
 
@@ -578,14 +571,17 @@ title = "२० सर्पबलिः"
 यश्च॑ नो॒ **द्वेष्टि॒**  
 तव्ँ वो॒ **जम्भे॑ दधामि** ॥
 </details>
+
 <details><summary>Keith</summary>
 
 him whom we hate and him who hateth us, I place him within your jaws.
 </details>
+
 <details><summary>मूलम्</summary>
 
 ते यन्द्वि॒ष्मो यश्च॑ नो॒ द्वेष्टि॒ तव्ँवो॒ जम्भे॑ दधामि
 </details>
+
 <details><summary>सायण-टीका</summary>
 
 ते च वयं नगस्कृतरुद्राः सन्तो यं वैरिणं तूष्णीमवस्थितमपि द्विष्मः, यश्च वैरी नोऽस्मांस्तुष्णीमवस्थितानपि द्वेष्टि तमुभयविधं वैरिणं हे रुद्रा वो युष्माकं जम्मे विदारितास्ये दधामि स्थापयामि।
@@ -595,12 +591,9 @@ him whom we hate and him who hateth us, I place him within your jaws.
 </details>
 </div>  
 
-
-
 नि॒लि॒म्पा नाम॑ स्थ॒, तेषां॑ वो दक्षि॒णा गृ॒हा, पि॒तरो॑ व॒ इष॑वः॒, सग॑रो वात-ना॒मम्।  
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/tebhyo_vo_namaH.md">
 <details open><summary><h12>Tebhyo vo nama H ...{Loading}...</h12></summary>
-
 
 तेभ्यो॑ वो॒ नम॒स्, ते नो॑ मृडयत।
 
@@ -612,14 +605,17 @@ him whom we hate and him who hateth us, I place him within your jaws.
 यश्च॑ नो॒ **द्वेष्टि॒**  
 तव्ँ वो॒ **जम्भे॑ दधामि** ॥
 </details>
+
 <details><summary>Keith</summary>
 
 him whom we hate and him who hateth us, I place him within your jaws.
 </details>
+
 <details><summary>मूलम्</summary>
 
 ते यन्द्वि॒ष्मो यश्च॑ नो॒ द्वेष्टि॒ तव्ँवो॒ जम्भे॑ दधामि
 </details>
+
 <details><summary>सायण-टीका</summary>
 
 ते च वयं नगस्कृतरुद्राः सन्तो यं वैरिणं तूष्णीमवस्थितमपि द्विष्मः, यश्च वैरी नोऽस्मांस्तुष्णीमवस्थितानपि द्वेष्टि तमुभयविधं वैरिणं हे रुद्रा वो युष्माकं जम्मे विदारितास्ये दधामि स्थापयामि।
@@ -633,7 +629,6 @@ him whom we hate and him who hateth us, I place him within your jaws.
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/tebhyo_vo_namaH.md">
 <details open><summary><h12>Tebhyo vo nama H ...{Loading}...</h12></summary>
 
-
 तेभ्यो॑ वो॒ नम॒स्, ते नो॑ मृडयत।
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/te_yaM_dviShmaH.md">
@@ -644,14 +639,17 @@ him whom we hate and him who hateth us, I place him within your jaws.
 यश्च॑ नो॒ **द्वेष्टि॒**  
 तव्ँ वो॒ **जम्भे॑ दधामि** ॥
 </details>
+
 <details><summary>Keith</summary>
 
 him whom we hate and him who hateth us, I place him within your jaws.
 </details>
+
 <details><summary>मूलम्</summary>
 
 ते यन्द्वि॒ष्मो यश्च॑ नो॒ द्वेष्टि॒ तव्ँवो॒ जम्भे॑ दधामि
 </details>
+
 <details><summary>सायण-टीका</summary>
 
 ते च वयं नगस्कृतरुद्राः सन्तो यं वैरिणं तूष्णीमवस्थितमपि द्विष्मः, यश्च वैरी नोऽस्मांस्तुष्णीमवस्थितानपि द्वेष्टि तमुभयविधं वैरिणं हे रुद्रा वो युष्माकं जम्मे विदारितास्ये दधामि स्थापयामि।
@@ -661,11 +659,10 @@ him whom we hate and him who hateth us, I place him within your jaws.
 </details>
 </div>  
 
-अ॒वस्थावा॑नो॒ नाम॑ स्थ॒, तेषां॑ व उत्त॒रद् गृ॒हा, आपो॑ व॒ इषवः॒, समु॒द्रो वा॑तना॒मम्।  
+अ॒व॒स्थावा॑नो॒ नाम॑ स्थ॒, तेषां॑ व उत्त॒रद् गृ॒हा, आपो॑ व॒ इष॑वः॒, समु॒द्रो वा॑तना॒मम्।  
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/tebhyo_vo_namaH.md">
 <details open><summary><h12>Tebhyo vo nama H ...{Loading}...</h12></summary>
-
 
 तेभ्यो॑ वो॒ नम॒स्, ते नो॑ मृडयत।
 
@@ -677,14 +674,17 @@ him whom we hate and him who hateth us, I place him within your jaws.
 यश्च॑ नो॒ **द्वेष्टि॒**  
 तव्ँ वो॒ **जम्भे॑ दधामि** ॥
 </details>
+
 <details><summary>Keith</summary>
 
 him whom we hate and him who hateth us, I place him within your jaws.
 </details>
+
 <details><summary>मूलम्</summary>
 
 ते यन्द्वि॒ष्मो यश्च॑ नो॒ द्वेष्टि॒ तव्ँवो॒ जम्भे॑ दधामि
 </details>
+
 <details><summary>सायण-टीका</summary>
 
 ते च वयं नगस्कृतरुद्राः सन्तो यं वैरिणं तूष्णीमवस्थितमपि द्विष्मः, यश्च वैरी नोऽस्मांस्तुष्णीमवस्थितानपि द्वेष्टि तमुभयविधं वैरिणं हे रुद्रा वो युष्माकं जम्मे विदारितास्ये दधामि स्थापयामि।
@@ -698,7 +698,6 @@ him whom we hate and him who hateth us, I place him within your jaws.
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/tebhyo_vo_namaH.md">
 <details open><summary><h12>Tebhyo vo nama H ...{Loading}...</h12></summary>
 
-
 तेभ्यो॑ वो॒ नम॒स्, ते नो॑ मृडयत।
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/te_yaM_dviShmaH.md">
@@ -709,14 +708,17 @@ him whom we hate and him who hateth us, I place him within your jaws.
 यश्च॑ नो॒ **द्वेष्टि॒**  
 तव्ँ वो॒ **जम्भे॑ दधामि** ॥
 </details>
+
 <details><summary>Keith</summary>
 
 him whom we hate and him who hateth us, I place him within your jaws.
 </details>
+
 <details><summary>मूलम्</summary>
 
 ते यन्द्वि॒ष्मो यश्च॑ नो॒ द्वेष्टि॒ तव्ँवो॒ जम्भे॑ दधामि
 </details>
+
 <details><summary>सायण-टीका</summary>
 
 ते च वयं नगस्कृतरुद्राः सन्तो यं वैरिणं तूष्णीमवस्थितमपि द्विष्मः, यश्च वैरी नोऽस्मांस्तुष्णीमवस्थितानपि द्वेष्टि तमुभयविधं वैरिणं हे रुद्रा वो युष्माकं जम्मे विदारितास्ये दधामि स्थापयामि।
@@ -731,7 +733,6 @@ him whom we hate and him who hateth us, I place him within your jaws.
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/tebhyo_vo_namaH.md">
 <details open><summary><h12>Tebhyo vo nama H ...{Loading}...</h12></summary>
 
-
 तेभ्यो॑ वो॒ नम॒स्, ते नो॑ मृडयत।
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/te_yaM_dviShmaH.md">
@@ -742,14 +743,17 @@ him whom we hate and him who hateth us, I place him within your jaws.
 यश्च॑ नो॒ **द्वेष्टि॒**  
 तव्ँ वो॒ **जम्भे॑ दधामि** ॥
 </details>
+
 <details><summary>Keith</summary>
 
 him whom we hate and him who hateth us, I place him within your jaws.
 </details>
+
 <details><summary>मूलम्</summary>
 
 ते यन्द्वि॒ष्मो यश्च॑ नो॒ द्वेष्टि॒ तव्ँवो॒ जम्भे॑ दधामि
 </details>
+
 <details><summary>सायण-टीका</summary>
 
 ते च वयं नगस्कृतरुद्राः सन्तो यं वैरिणं तूष्णीमवस्थितमपि द्विष्मः, यश्च वैरी नोऽस्मांस्तुष्णीमवस्थितानपि द्वेष्टि तमुभयविधं वैरिणं हे रुद्रा वो युष्माकं जम्मे विदारितास्ये दधामि स्थापयामि।
@@ -763,8 +767,6 @@ him whom we hate and him who hateth us, I place him within your jaws.
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/26_apashvetapadA_jahi.md">
 <details open><summary><h5>२६ अपश्वेतपदा जहि ...{Loading}...</h5></summary>
 
-
-
 अप॑ श्वेत +++(सर्पाधिपते)+++ प॒दा+++(वि३)+++ ज॑हि॒+++(→हन)+++  
 पूर्वे॑ण॒ चाप॑रेण च ।  
 स॒प्त च॒ मानु॑षीर् इ॒मास् +++(सर्पजातीः- ब्राह्मणानां तिस्रः वैश्यानां द्वे, शूद्राणां च द्वे)+++  
@@ -774,7 +776,6 @@ him whom we hate and him who hateth us, I place him within your jaws.
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/27_na_vai.md">
 <details open><summary><h5>२७ न वै ...{Loading}...</h5></summary>
-
 
 न वै श्वे॒तस्या॑ऽध्याचा॒रे+++(=आधिपत्ये)+++  
 ऽहि॑र् ज॒घान॒ कञ्च॒न ।  
@@ -794,6 +795,7 @@ him whom we hate and him who hateth us, I place him within your jaws.
 
 With the next (formulas, II, 17, 9-26) he should worship (the serpents), should sprinkle water round (the oblations), should return (to his house) silently without looking back, should sprinkle (water) with a water-pot from left to right, thrice around the house or the resting-place on the inside, with the two verses, 'Beat away O white one, with thy foot' (II, 17, 27. 28), and should offer food to the Brāhmaṇas.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 एवमेवैतं बलिं सप्तभिर्द्रव्यैर्दत्वा ततस्तां बलिदेवतामुपतिष्ठते ।
@@ -808,6 +810,7 @@ With the next (formulas, II, 17, 9-26) he should worship (the serpents), should 
 
 इति श्रीहरदत्तविरचितायां गृह्यवृत्तावनाकुलायामष्टादशः खण्डः ॥१७॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 अथ **उत्तरैर्** मन्त्रैः "तक्षक वेशालेय" इत्यादिभिरष्टादशभिः मान्त्रवर्णिकीं बलिदेवतामुपतिष्ठते ।
@@ -845,11 +848,13 @@ With the next (formulas, II, 17, 9-26) he should worship (the serpents), should 
 
 1. The unground grain (which is left over, see above, VII, 18, 11) they give to the boys to eat.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 बलिहरणशिष्टाः **धानाः कुमारान् प्राशयन्ति** ये प्राशने समर्थाः ।
 कुमारीणाम् अपि प्राशनमेकशेषनिर्देशात् ॥ १ ॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **धानाः** या बलिहरणशिष्टाः **कुमारान् प्राशयन्ति** ।
@@ -880,6 +885,7 @@ With the next (formulas, II, 17, 9-26) he should worship (the serpents), should 
 
 2. Let him repeat in the same way this Bali-offering of whatever food he has got or of flour, from that day to full moon of (the month) Mārgaśīrṣa.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 यद् इदं बलिहरणं वाग्यतस् संभारान् आदायेत्याद्य् अप्रतीक्षमाणस् तूष्णीम् इत्येतदन्तं (आप.गृ.१८-१०-१२.) तद् अस्मात् कर्मण **ऊर्ध्वम् आमार्गशीर्ष्याः पर्वणश् चतुर्षु मासेषु यद् अशनीयस्या**न्न-विशेषस्य **सक्तूनां वा** ऽहरहः कर्तव्यम् । यद् यद् अन्नम् अशनार्थं गृहे क्रियते तदशनीयम् ।
@@ -917,6 +923,7 @@ With the next (formulas, II, 17, 9-26) he should worship (the serpents), should 
 वक्ष्यति ।
 प्रयोजनमस्य तत्रैव वक्ष्यामः ॥२॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **अत ऊर्ध्वं** अस्माच् छ्रावण्यां कृतात् कर्मण ऊर्ध्वम् ।
@@ -955,6 +962,7 @@ With the next (formulas, II, 17, 9-26) he should worship (the serpents), should 
 
 3. On the day of the full moon of Mārgaśīrṣa after sunset a Sthālīpāka (is offered as above, VII, 18, 5).
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 श्रावण्यां पौर्णमास्याम् इत्यनेनैतत् व्याख्यातम् ।
@@ -976,6 +984,7 @@ With the next (formulas, II, 17, 9-26) he should worship (the serpents), should 
 अस्तमित इत्त्युच्यते– अहनि मा भूदिति ।
 एवमित्यस्य धर्मप्रापणे कालविधौ चोभयत्र शक्तिर्नास्तीत्युक्तम् ॥३॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 साकाङ्क्षत्वाद् **एवं**-शब्दोऽनुवर्तते ।
@@ -1006,6 +1015,7 @@ With the next (formulas, II, 17, 9-26) he should worship (the serpents), should 
 
 4. In the Mantra for the Bali-offering he changes (the word 'I shall offer' into) 'I have offered.'
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 **सन्नामः** ऊहः—हरिष्यामीत्यस्य स्थाने अहार्षमिति ।
@@ -1015,6 +1025,7 @@ With the next (formulas, II, 17, 9-26) he should worship (the serpents), should 
 किञ्च कृत्स्नमेवैतत् कर्म धानाप्राशनान्तं स्थालीपाकशब्देन गृह्यते एतच्च दर्शितं भवति ।
 बलिहरणस्योत्तरसूत्रे प्रयोजनम् ॥४॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 उक्तार्थमेतत् ॥४॥
@@ -1044,6 +1055,7 @@ With the next (formulas, II, 17, 9-26) he should worship (the serpents), should 
 
 5. Then he does not offer (the Bali) any longer.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 **अत्र** मार्गशीर्ष-संज्ञके कर्मण्य् **एनं** बलिम् उत्सृजति ।
@@ -1053,6 +1065,7 @@ With the next (formulas, II, 17, 9-26) he should worship (the serpents), should 
 शिष्टस्य बलेः प्रतिषेधार्थम् इदम् ।
 आमार्गशीर्ष्या इत्य् एतत्तु श्रावण-शेषस्य बलेर् अवसान-विधानार्थम् ॥५॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **अत्र** अस्मिन्न् उत्सर्जने कृते, **एनम्** अहर् अहः क्रियमाणं बलिम् **उत्सृजति** ।

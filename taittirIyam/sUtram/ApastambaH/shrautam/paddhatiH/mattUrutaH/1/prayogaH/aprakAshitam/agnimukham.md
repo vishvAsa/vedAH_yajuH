@@ -36,13 +36,18 @@ unicode_script = "devanagari"
 अदि॒तेऽनु॑ मन्यस्व । दक्षिणतः प्राचीनं । अनु॑म॒तेऽनु॑ मन्यस्व पश्चादुदीचीनं । सर॑स्व॒तेऽनु॑ मन्यस्व । उत्तरतः प्राचीनं । देव॑ सवितः॒ प्रसु॑व । इति समंतं परिषिच्य ।
 
 ## अग्नेरलंकरणम्
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/agnaye_jAtavedase_sahojase.md"  newLevelForH1="5" includeTitle="false"> 
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/agnaye_jAtavedase_sahojase.md">
+<details open><summary><h5>Agnaye j Atavedase sahojase ...{Loading}...</h5></summary>
 
 अग्नये नमः, जातवेदसे नमः,  
-सहोजसे नमः, अजिरा प्रभवे नमः,  
+सहोजसे नमः, अजिरा-प्रभवे नमः,  
 वैश्वानराय नमः, नर्यापसे नमः,  
-पङ्क्तिराधसे नमः, विसर्पिणे नमः,
+पङ्क्तिराधसे नमः, विसर्पिणे नमः
 
++++(इति ऐन्द्र्यादिदिक्षु अग्निमर्चयेत् ।)+++
+
++++("मध्ये यज्ञपुरुषाय नमः" इति क्वचित्।)+++
+</details>
 </div>  
 
 मध्ये श्री यज्ञ पुरुषाय नमः । 

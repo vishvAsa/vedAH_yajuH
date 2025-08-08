@@ -3,8 +3,8 @@ title = "०८ इडोपाह्वानम्"
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/3/5_iShTi-hautrAdi/08_iDopAhvAnam"  newLevelForH1="1" includeTitle="true">
-
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/3/5_iShTi-hautrAdi/08_iDopAhvAnam">
+<details open><summary><h1>०८ इडोपाह्वानम् ...{Loading}...</h1></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उप॑हूतँ रथन्त॒रँ स॒ह पृ॑थि॒व्या ।   
@@ -101,5 +101,6 @@ unicode_script = "devanagari"
 
 इति तैत्तिरीये ब्राह्मणे तृतीये पञ्चमे अष्टमोऽनुवाकः ॥  
 
+</details>
 </details>
 </div>

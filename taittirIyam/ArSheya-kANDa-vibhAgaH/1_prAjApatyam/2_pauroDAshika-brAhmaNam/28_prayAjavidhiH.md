@@ -2,11 +2,12 @@
 title = "२८ प्रयाजविधिः"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/2/6/01_prayAjavidhiH"  newLevelForH1="1" includeTitle="true">
-
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/2/6/01_prayAjavidhiH">
+<details open><summary><h1>०१ प्रयाजविधिः ...{Loading}...</h1></summary>
 
 प्रजापतिर्ऋषिः
 
+## ऋतु-जयः
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 स॒मिधो॑ यजति वस॒न्तमे॒वर्तू॒नामव॑ रुन्द्धे॒ तनू॒नपा॑तय्ँयजति ग्री॒ष्ममे॒वाव॑ रुन्द्धे
@@ -15,7 +16,12 @@ title = "२८ प्रयाजविधिः"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स॒मिधो॑ यजति।  
-व॒स॒न्तमे॒वर्तू॒नामव॑ रुन्द्धे ।  
+व॒स॒न्तम् ए॒व र्तू॒नाम् अव॑ रुन्द्धे ।  
+</details>
+
+<details><summary>Keith</summary>
+
+He offers to the kindling-sticks; verily he wins spring among the seasons. 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -31,8 +37,13 @@ title = "२८ प्रयाजविधिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तनू॒नपा॑तय्ँयजति ।   
-ग्री॒ष्ममे॒वाव॑ रुन्द्धे ।  
+तनू॒-नपा॑तय्ँ यजति ।   
+ग्री॒ष्मम् ए॒वाव॑ रुन्द्धे ।  
+</details>
+
+<details><summary>Keith</summary>
+
+He offers to Tanunapat; verily he wins the hot season. 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -54,7 +65,12 @@ title = "२८ प्रयाजविधिः"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ॒डो य॑जति  ।   
-व॒र्षा ए॒वाव॑ रुन्द्धे ।   
+व॒र्षा ए॒वाव॑रुन्द्धे ।   
+</details>
+
+<details><summary>Keith</summary>
+
+He offers to the oblations; verily he wins the rains. 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -70,16 +86,19 @@ title = "२८ प्रयाजविधिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब॒र्हिर्य॑जति ।   
-श॒रद॑मे॒वाव॑ रुन्द्धे।   
-स्वा॒हा॒का॒रय्ँय॑जति।   
+ब॒र्हिर् य॑जति ।   
+श॒रद॑म् ए॒वाव॑ रुन्धे।   
+</details>
+
+<details><summary>Keith</summary>
+
+He offers to the sacrificial strew, verily lie wins autumn.
 </details>
 
 <details><summary>मूलम्</summary>
 
 ब॒र्हिर्य॑जति ।   
 श॒रद॑मे॒वाव॑ रुन्द्धे।   
-स्वा॒हा॒का॒रय्ँय॑जति।   
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -89,14 +108,22 @@ title = "२८ प्रयाजविधिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-हे॒म॒न्तमे॒वाव॑ रुन्द्धे ।   
-तस्मा॒त्स्वाहा॑कृता॒ हेम॑न्प॒शवोऽव॑ सीदन्ति ।  
+स्वा॒हा॒का॒रय्ँ य॑जति।   
+हे॒म॒न्तम् ए॒वाव॑ रुन्द्धे ।   
+तस्मा॒त् स्वाहा॑कृता॒ हेम॑न् प॒शवोऽव॑ सीदन्ति ।
+</details>
+
+<details><summary>Keith</summary>
+
+He offers with the cry of 'Hail!'; verily he wins the winter.  
+Therefore in winter animals over which the cry of 'Hail!' is raised perish.
 </details>
 
 <details><summary>मूलम्</summary>
 
+स्वा॒हा॒का॒रय्ँय॑जति।   
 हे॒म॒न्तमे॒वाव॑ रुन्द्धे ।   
-तस्मा॒त्स्वाहा॑कृता॒ हेम॑न्प॒शवोऽव॑ सीदन्ति ।  
+तस्मा॒त्स्वाहा॑कृता॒ हेम॑न्प॒शवोऽव॑ सीदन्ति ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -109,40 +136,40 @@ title = "२८ प्रयाजविधिः"
 उ॒षस॑ ए॒व दे॒वता॑ना॒मव॑ रुन्द्धे॒ तनू॒नपा॑तय्ँयजति य॒ज्ञमे॒वाव॑ रुन्द्धे [1]  इ॒डो य॑जति प॒शूने॒वाव॑ रुन्द्धे ब॒र्हिर्य॑जति प्र॒जामे॒वाव॑ रुन्द्धे
 </details>
 
+## दिनांशादि-जयः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स॒मिधो॑ यजति ।   
+उ॒षस॑ ए॒व दे॒वता॑ना॒म् अव॑ रुन्धे  ।
+</details>
+
+<details><summary>Keith</summary>
+
+He offers to the kindling sticks; verily he wins the dawns of the goddesses. 
 </details>
 
 <details><summary>मूलम्</summary>
 
 स॒मिधो॑ यजति ।   
+उ॒षस॑ ए॒व दे॒वता॑ना॒मव॑ रुन्द्धे  ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 3पुनरपि फलान्तरवत्तया प्रयाजाः स्तूयन्ते - उषस इति ॥
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-उ॒षस॑ ए॒व दे॒वता॑ना॒मव॑ रुन्द्धे  ।   
-</details>
-
-<details><summary>मूलम्</summary>
-
-उ॒षस॑ ए॒व दे॒वता॑ना॒मव॑ रुन्द्धे  ।   
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
 
 समिद्धत्वान्वयाद्देवानां योग्या उषसः उदयान् लभन्ते ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तनू॒नपा॑तय्ँयजति  ।   
-य॒ज्ञमे॒वाव॑ रुन्द्धे  ।     
+तनू॒-नपा॑तय्ँ **यजति**  ।   
+य॒ज्ञम् ए॒वाव॑ रुन्द्धे  ।     
+</details>
+
+<details><summary>Keith</summary>
+
+He offers to Tanunapat; verily he wins the sacrifice [1].
 </details>
 
 <details><summary>मूलम्</summary>
@@ -159,7 +186,12 @@ title = "२८ प्रयाजविधिः"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ॒डो य॑जति  ।   
-प॒शूने॒वाव॑ रुन्द्धे  ।   
+प॒शून् ए॒वाव॑ रुन्द्धे  ।   
+</details>
+
+<details><summary>Keith</summary>
+
+He offers to the oblations; verily he wins cattle. 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -175,8 +207,13 @@ title = "२८ प्रयाजविधिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब॒र्हिर्य॑जति  ।   
-प्र॒जामे॒वाव॑ रुन्द्धे  ।  
+ब॒र्हिर् य॑जति  ।   
+प्र॒जाम् ए॒वाव॑ रुन्द्धे  ।  
+</details>
+
+<details><summary>Keith</summary>
+
+He offers to the sacrificial strew; verily he wins offspring. 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -197,12 +234,36 @@ title = "२८ प्रयाजविधिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒मान॑यत उप॒भृत॒स्तेजो॒ वा आज्य॑म् ।
+स॒मान॑यत उप॒भृतः॑। 
+</details>
+
+<details><summary>Keith</summary>
+
+He takes (the oblation) from the Upabhrt. 
 </details>
 
 <details><summary>मूलम्</summary>
 
-स॒मान॑यत उप॒भृत॒स्तेजो॒ वा आज्य॑म् ।
+स॒मान॑यत उप॒भृतः॑। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तेजो॒ वा आज्य॑म् ।
+प्र॒जा ब॒र्हिᳶ,  
+प्र॒जास्व् ए॒व तेजो॑ दधाति  ।
+</details>
+
+<details><summary>Keith</summary>
+
+The oblation is brilliance, the sacrificial strew offspring;  
+verily he places brilliance in offspring. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+तेजो॒ वा आज्य॑म् ।
+प्र॒जा ब॒र्हिᳶ प्र॒जास्वे॒व तेजो॑ दधाति  ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -212,14 +273,17 @@ title = "२८ प्रयाजविधिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒जा ब॒र्हिᳶ प्र॒जास्वे॒व तेजो॑ दधाति  ।   
-स्वा॒हा॒का॒रय्ँय॑जति ।   
-वाच॑मे॒वाव॑ रुन्द्धे ।   
+स्वा॒हा॒का॒रय्ँ य॑जति ।   
+वाच॑म् ए॒वाव॑ रुन्द्धे ।   
+</details>
+
+<details><summary>Keith</summary>
+
+He offers with the cry of 'Hail!'; verily he wins speech. 
 </details>
 
 <details><summary>मूलम्</summary>
 
-प्र॒जा ब॒र्हिᳶ प्र॒जास्वे॒व तेजो॑ दधाति  ।   
 स्वा॒हा॒का॒रय्ँय॑जति ।   
 वाच॑मे॒वाव॑ रुन्द्धे ।   
 </details>
@@ -232,14 +296,22 @@ title = "२८ प्रयाजविधिः"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दश॒ सम्प॑द्यन्ते ।   
-दशा॑क्षरा वि॒राट् ।    
-वि॒राजै॒वान्नाद्य॒मव॑ रुन्द्धे ।   
+दशा॑क्षरा वि॒राट् ।  (अन्नं॑ वि॒राट्।)  
+वि॒राजै॒वान्नाद्य॒म् अव॑ रुन्द्धे ।   
+</details>
+
+<details><summary>Keith</summary>
+
+They make up ten,  
+the Viraj has ten syllables,  
+~~the Viraj is food;~~ verily he wins food by the Viraj. 
 </details>
 
 <details><summary>मूलम्</summary>
 
 दश॒ सम्प॑द्यन्ते ।   
-दशा॑क्षरा वि॒राट् ।    
+दशा॑क्षरा वि॒राट् ।   
+(अन्नं॑ वि॒राट्। इति सायणपाठे।)  
 वि॒राजै॒वान्नाद्य॒मव॑ रुन्द्धे ।   
 </details>
 
@@ -253,18 +325,23 @@ title = "२८ प्रयाजविधिः"
 स॒मिधो॑ यजति अ॒स्मिन्ने॒व लो॒के प्रति॑ तिष्ठति॒ तनू॒नपा॑तय्ँयजति [2]  य॒ज्ञ ए॒वान्तरि॑क्षे॒ प्रति॑ तिष्ठती॒डो य॑जति प॒शुष्वे॒व प्रति॑ तिष्ठति ब॒र्हिर्य॑जति॒ य ए॒व दे॑व॒याना॒ᳶ पन्था॑न॒स्तेष्वे॒व प्रति॑ तिष्ठति स्वाहाका॒रय्ँय॑जति सुव॒र्ग ए॒व लो॒के प्रति॑ तिष्ठत्ये॒ताव॑न्तो॒ वै दे॑वलो॒कास्तेष्वे॒व य॑थापू॒र्वम्प्रति॑ तिष्ठति
 </details>
 
+## प्रतिष्ठा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स॒मिधो॑ यजति ।   
-अ॒स्मिन्ने॒व लो॒के प्रति॑ तिष्ठति ।   
-तनू॒नपा॑तय्ँयजति ।   
+अ॒स्मिन्न् ए॒व लो॒के प्रति॑ तिष्ठति ।   
+</details>
+
+<details><summary>Keith</summary>
+
+He offers to the kindling-sticks;  
+verily he finds support in this world. 
 </details>
 
 <details><summary>मूलम्</summary>
 
 स॒मिधो॑ यजति ।   
 अ॒स्मिन्ने॒व लो॒के प्रति॑ तिष्ठति ।   
-तनू॒नपा॑तय्ँयजति ।   
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -274,14 +351,34 @@ title = "२८ प्रयाजविधिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+तनू॒-नपा॑तय्ँ यजति ।   
 य॒ज्ञ ए॒वान्तरि॑क्षे॒ प्रति॑ तिष्ठति ।  
-इ॒डो य॑जति ।  
-प॒शुष्वे॒व प्रति॑ तिष्ठति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+He offers to Tanunapat [2]; verily in the sacrifice and in the atmosphere he finds support. 
 </details>
 
 <details><summary>मूलम्</summary>
 
+तनू॒नपा॑तय्ँयजति ।   
 य॒ज्ञ ए॒वान्तरि॑क्षे॒ प्रति॑ तिष्ठति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इ॒डो य॑जति ।  
+प॒शुष्व् ए॒व प्रति॑ तिष्ठति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+He offers to the oblations; verily in cattle he finds support. 
+</details>
+
+<details><summary>मूलम्</summary>
+
 इ॒डो य॑जति ।  
 प॒शुष्वे॒व प्रति॑ तिष्ठति ।  
 </details>
@@ -293,8 +390,14 @@ title = "२८ प्रयाजविधिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब॒र्हिर्य॑जति ।  
-य ए॒व दे॑व॒याना॒ᳶ पन्था॑न॒स्तेष्वे॒व प्रति॑ तिष्ठति ।
+ब॒र्हिर् य॑जति ।  
+य ए॒व दे॑व॒याना॒ᳶ पन्था॑न॒स्   
+तेष्व् ए॒व प्रति॑ तिष्ठति ।
+</details>
+
+<details><summary>Keith</summary>
+
+He offers to the sacrificial strew; verily he finds support in the paths that lead to the gods. 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -310,14 +413,19 @@ title = "२८ प्रयाजविधिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्वा॒हा॒का॒रय्ँय॑जति ।  
-सुव॒र्ग ए॒व लो॒के प्रति॑ तिष्ठति ।  
+स्वा॒हा॒का॒रय्ँ य॑जति ।  
+सु॒व॒र्ग ए॒व लो॒के प्रति॑ तिष्ठति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+He offers with the cry of 'Hail!'; verily he finds support in the world of heaven. 
 </details>
 
 <details><summary>मूलम्</summary>
 
 स्वा॒हा॒का॒रय्ँय॑जति ।  
-सुव॒र्ग ए॒व लो॒के प्रति॑ तिष्ठति ।  
+सु॒व॒र्ग ए॒व लो॒के प्रति॑ तिष्ठति ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -327,7 +435,14 @@ title = "२८ प्रयाजविधिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ताव॑न्तो॒ वै दे॑वलो॒कास्तेष्वे॒व य॑थापू॒र्वम्प्रति॑ तिष्ठति ।
+ए॒ताव॑न्तो॒ वै दे॑वलो॒कास्  
+तेष्व् ए॒व य॑थापू॒र्वम् प्रति॑ तिष्ठति ।
+</details>
+
+<details><summary>Keith</summary>
+
+So many are the worlds of the gods;  
+verily in them in order he finds support. 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -340,18 +455,24 @@ title = "२८ प्रयाजविधिः"
 देवलोका इति । सुखहेतुत्वात् देवलोकत्वमेषाम् । यथापूर्वमिति । यथाक्रमं प्रयाजादिनां क्रमात् ॥
 </details>
 
+## प्रयाजः
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 देवासु॒रा ए॒षु लो॒केष्व॑स्पर्धन्त॒ ते दे॒वाᳶ प्र॑या॒जैरे॒भ्यो लो॒केभ्योऽसु॑रा॒न्प्राणु॑दन्त॒ तत्प्र॑या॒जाना॑म् [3] प्र॒या॒ज॒त्वय्ँयस्यै॒वव्ँवि॒दुषᳶ॑ प्रया॒जा इ॒ज्यन्ते
-े
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वा॒सु॒रा ए॒षु  लो॒केष्व॑स्पर्धन्त ।  
-ते दे॒वाᳶ प्र॑या॒जैरे॒भ्यो लो॒केभ्योऽसु॑रा॒न्प्राणु॑दन्त ।  
-तत्प्र॑या॒जाना॑म् प्रयाज॒त्वम् ,  
-यस्यै॒वव्ँवि॒दुषᳶ॑ प्रया॒जा इ॒ज्यन्ते॑ ।  
+दे॒वा॒सु॒रा ए॒षु लो॒केष्व् अ॑स्पर्धन्त ।  
+ते दे॒वाᳶ प्र॑या॒जैर् ए॒भ्यो लो॒केभ्यो ऽसु॑रा॒न् **प्राणु॑दन्त** ।  
+तत् प्र॑या॒जाना॑म् प्रयाज॒त्वम्।  
+</details>
+
+<details><summary>Keith</summary>
+
+The gods and the Asuras contended as to these worlds.  
+The gods by the fore-sacrifices drove the Asuras away from these worlds;  
+that is why the fore-sacrifices [3] are so called.  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -359,7 +480,6 @@ title = "२८ प्रयाजविधिः"
 दे॒वा॒सु॒रा ए॒षु  लो॒केष्व॑स्पर्धन्त ।  
 ते दे॒वाᳶ प्र॑या॒जैरे॒भ्यो लो॒केभ्योऽसु॑रा॒न्प्राणु॑दन्त ।  
 तत्प्र॑या॒जाना॑म् प्रयाज॒त्वम् ,  
-यस्यै॒वव्ँवि॒दुषᳶ॑ प्रया॒जा इ॒ज्यन्ते॑ ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -374,14 +494,35 @@ title = "२८ प्रयाजविधिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रैभ्यो लो॒केभ्यो॒ भ्रातृ॑व्यान्नुदते ।  
-अ॒भि॒क्राम॑ञ्जहोत्य॒भिजि॑त्यै ।  
+यस्यै॒वव्ँ वि॒दुषᳶ॑ प्रया॒जा इ॒ज्यन्ते॒  
+प्रैभ्यो लो॒केभ्यो॒ भ्रातृ॑व्यान् नुदते ।  
+</details>
+
+<details><summary>Keith</summary>
+
+He for whom knowing thus are offered the fore-sacrifices, drives his enemy away from these worlds. 
 </details>
 
 <details><summary>मूलम्</summary>
 
+यस्यै॒वव्ँवि॒दुषᳶ॑ प्रया॒जा इ॒ज्यन्ते॑ ।  
 प्रैभ्यो लो॒केभ्यो॒ भ्रातृ॑व्यान्नुदते ।  
-अ॒भि॒क्राम॑ञ्जहोत्य॒भिजि॑त्यै ।  
+</details>
+
+## अभिक्रामः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ॒भि॒क्राम॑ञ् जुहोत्य् अ॒भिजि॑त्यै ।  
+</details>
+
+<details><summary>Keith</summary>
+
+He offers stepping near, for conquest. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॒भि॒क्राम॑ञ्जुहोत्य॒भिजि॑त्यैै । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -389,27 +530,45 @@ title = "२८ प्रयाजविधिः"
 8अभिक्राममिति ॥ अभिक्रम्याभिक्रम्य आभिमुख्येनाक्रम्य ॥
 </details>
 
+## प्रयाज-मिथुनम्
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-यो वै प्र॑या॒जाना॑म्मिथु॒नव्ँवेद॒ प्र प्र॒जया॑ प॒शुभि॑र्मिथु॒नैर्जा॑यते स॒मिधो॑ ब॒ह्वीरि॑व यजति॒ तनू॒नपा॑त॒मेक॑मिव मिथु॒नन्तदि॒डो ब॒ह्वीरि॑व यजति ब॒र्हिरेक॑मिव मिथु॒नन्तदे॒तद्वै प्र॑या॒जाना॑म्मिथु॒नम्य ए॒वव्ँ वेद॒ प्र [4]  प्र॒जया॑ प॒शुभि॑र्मिथु॒नैर्जा॑यते
+यो वै प्र॑या॒जाना॑म्मिथु॒नव्ँवेद॒ प्र प्र॒जया॑ प॒शुभि॑र्मिथु॒नैर्जा॑यते स॒मिधो॑ ब॒ह्वीरि॑व यजति॒ तनू॒नपा॑त॒मेक॑मिव मिथु॒नन्तद् इ॒डो ब॒ह्वीरि॑व यजति ब॒र्हिरेक॑मिव मिथु॒नन्तद्  
+ए॒तद्वै प्र॑या॒जाना॑म्मिथु॒नम्य ए॒वव्ँ वेद॒ प्र [4]  प्र॒जया॑ प॒शुभि॑र्मिथु॒नैर्जा॑यते
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो वै प्र॑या॒जाना॑म्मिथु॒नव्ँवेद॑ ।  
-प्र प्र॒जया॑ प॒शुभि॑र्मिथु॒नैर्जा॑यते ।   
-स॒मिधो॑ ब॒ह्वीरि॑व यजति ।   
+यो वै प्र॑या॒जाना॑म् मिथु॒नव्ँ वेद॒  
+प्र प्र॒जया॑ प॒शुभि॑र् मिथु॒नैर् जा॑यते
+</details>
 
-तनू॒नपा॑त॒मेक॑मिव मिथु॒नम् ,   
+<details><summary>Keith</summary>
+
+He who knows the pairing of the fore sacrifices is propagated with offspring, with cattle, with pairings. 
 </details>
 
 <details><summary>मूलम्</summary>
 
-यो वै प्र॑या॒जाना॑म्मिथु॒नव्ँवेद॑ ।  
-प्र प्र॒जया॑ प॒शुभि॑र्मिथु॒नैर्जा॑यते ।   
-स॒मिधो॑ ब॒ह्वीरि॑व यजति ।   
+यो वै प्र॑या॒जाना॑म्मिथु॒नव्ँवेद॒ प्र प्र॒जया॑ प॒शुभि॑र्मिथु॒नैर्जा॑यते
+</details>
 
-तनू॒नपा॑त॒मेक॑मिव मिथु॒नम् ,   
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स॒मिधो॑ ब॒ह्वीर् इ॑व यजति,   
+तनू॒नपा॑त॒म् एक॑म् इव। मि॒थु॒नन् तत्।   
+</details>
+
+<details><summary>Keith</summary>
+
+He offers to the kindling-sticks as many,  
+to Tanunapat as one, and that makes a pair. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+स॒मिधो॑ ब॒ह्वीरि॑व यजति ।   
+तनू॒नपा॑त॒मेक॑मिव मिथु॒नन्तद् ,   
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -419,18 +578,18 @@ title = "२८ प्रयाजविधिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तदि॒डो ब॒ह्वीरि॑व यजति ।      
-ब॒र्हिरेक॑मिव मिथु॒नम् ।  
-तदे॒तद्वै प्र॑या॒जाना॑म्मिथु॒नम्य ए॒वव्ँ वेद॑ ।  
-प्र प्र॒जया॑ प॒शुभि॑र्मिथु॒नैर्जा॑यते ।  
+इ॒डो ब॒ह्वीर् इ॑व यजति,  
+ब॒र्हिर् एक॑म् इव - मिथु॒नन् तत्
+</details>
+
+<details><summary>Keith</summary>
+
+He offers to the kindling-sticks (sic) as many, to the sacrificial strew as one, and that makes a pair. 
 </details>
 
 <details><summary>मूलम्</summary>
 
-तदि॒डो ब॒ह्वीरि॑व यजति ।      
-ब॒र्हिरेक॑मिव मिथु॒नम् ।  
-तदे॒तद्वै प्र॑या॒जाना॑म्मिथु॒नम्य ए॒वव्ँ वेद॑ ।  
-प्र प्र॒जया॑ प॒शुभि॑र्मिथु॒नैर्जा॑यते ।  
+इ॒डो ब॒ह्वीरि॑व यजति ब॒र्हिरेक॑मिव मिथु॒नन्तद्
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -438,6 +597,24 @@ title = "२८ प्रयाजविधिः"
 बह्वीरिति । स्त्रीत्वं बहुलं चाविवक्षितम् । एकमिवेत्यत्रापि पुंस्त्वमेकत्वं च । लिङ्गवचनविशेषयोरग्नावपारमार्थ्यमिवशब्देन द्योत्यते । एवमिडाबर्हिषोर्वेदितव्यम् ॥
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ए॒तद् वै प्र॑या॒जाना॑म् मिथु॒नम्।  
+य ए॒वव्ँ वेद॒ प्र [4]  प्र॒जया॑ प॒शुभि॑र् मिथु॒नैर् जा॑यते।
+</details>
+
+<details><summary>Keith</summary>
+
+That is the pairing of the fore-sacrifices.  
+He who knows thus [4] is propagated with offspring, with cattle, with pairings. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+ए॒तद् वै प्र॑या॒जाना॑म्मिथु॒नम्य ए॒वव्ँ वेद॒ प्र [4]  प्र॒जया॑ प॒शुभि॑र्मिथु॒नैर्जा॑यते
+</details>
+
+## प्रयाजानुजाय-वर्मता
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 दे॒वाना॒व्ँ वा अनि॑ष्टा दे॒वता॒ आस॒न्नथासु॑रा य॒ज्ञम॑जिघाँस॒न्ते दे॒वा गा॑य॒त्रीव्व्ँयौ॑ह॒न्पञ्चा॒क्षरा॑णि प्रा॒चीना॑नि॒ त्रीणि॑ प्रती॒चीना॑नि॒ ततो॒ वर्म॑ य॒ज्ञायाभ॑व॒द्वर्म॒ यज॑मानाय
@@ -445,7 +622,12 @@ title = "२८ प्रयाजविधिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वाना॒व्ँ वा अनि॑ष्टा दे॒वता॒ आस॑न् ।
+दे॒वाना॒व्ँ वा अन्-इ॑ष्टा दे॒वता॒ आस॑न् ।
+</details>
+
+<details><summary>Keith</summary>
+
+These deities were not sacrificed to by the gods; 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -460,7 +642,12 @@ title = "२८ प्रयाजविधिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथासु॑रा य॒ज्ञम॑जिघाँसन् ।  
+अथासु॑रा य॒ज्ञम् अ॑जिघाँसन् ।  
+</details>
+
+<details><summary>Keith</summary>
+
+then the Asuras were fain to harm the sacrifice. 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -475,30 +662,25 @@ title = "२८ प्रयाजविधिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते दे॒वा गा॑य॒त्रीव्व्ँयौ॑हन् ।  
+ते दे॒वा गा॑य॒त्रीव्ँ व्यौ॑हन् -  
+पञ्चा॒क्षरा॑णि प्रा॒चीना॑नि॒, त्रीणि॑ प्रती॒चीना॑नि ।
+</details>
+
+<details><summary>Keith</summary>
+
+The gods divided the Gayatri,  
+five syllables in front and three behind. 
 </details>
 
 <details><summary>मूलम्</summary>
 
 ते दे॒वा गा॑य॒त्रीव्व्ँयौ॑हन् ।  
+पञ्चा॒क्षरा॑णि प्रा॒चीना॑नि॒ त्रीणि॑ प्रती॒चीना॑नि ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अथ तत् ज्ञात्वा देवा गायत्रीं अष्टाक्षरां व्यौहन् व्यूहद्वयं कृतवन्तः ।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-पञ्चा॒क्षरा॑णि प्रा॒चीना॑नि॒ त्रीणि॑ प्रती॒चीना॑नि ।  
-</details>
-
-<details><summary>मूलम्</summary>
-
-पञ्चा॒क्षरा॑णि प्रा॒चीना॑नि॒ त्रीणि॑ प्रती॒चीना॑नि ।  
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
 
 पञ्चाक्षराणि यज्ञस्य प्राचीनानि पुरस्तात्स्थितान्येको व्यूहः । त्रीण्यक्षराणि प्रतीचीनानि पश्चात् स्थितान्यन्यो व्यूहः ।
 </details>
@@ -506,6 +688,11 @@ title = "२८ प्रयाजविधिः"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो॒ वर्म॑ य॒ज्ञायाभ॑व॒द्,  वर्म॒ यज॑मानाय +++(अभवत् )+++
+</details>
+
+<details><summary>Keith</summary>
+
+Then the sacrifice was protected, and the sacrificer. 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -525,18 +712,20 @@ title = "२८ प्रयाजविधिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत्प्र॑याजानूया॒जा  इ॒ज्यन्ते॑ ।
+यत् प्र॑याजानूया॒जा इ॒ज्यन्ते॒  
+वर्मै॒व तद् य॒ज्ञाय॑ क्रियते॒  
+वर्म॒ यज॑मानाय॒, भ्रातृ॑व्याभिभूत्यै+++(←बहुव्रीहिः??)+++
+</details>
 
-वर्मै॒व तद्य॒ज्ञाय॑ क्रियते ।  
-वर्म॒ यज॑मानाय॒ भ्रातृ॑व्याभिभूत्यै ।  
+<details><summary>Keith</summary>
+
+In that the fore- and after sacrifices are offered,  
+protection is afforded to the sacrifice and to the sacrificer, for the overcoming of the enemy. 
 </details>
 
 <details><summary>मूलम्</summary>
 
-यत्प्र॑याजानूया॒जा  इ॒ज्यन्ते॑ ।
-
-वर्मै॒व तद्य॒ज्ञाय॑ क्रियते ।  
-वर्म॒ यज॑मानाय॒ भ्रातृ॑व्याभिभूत्यै ।  
+यत्प्र॑याजानूया॒जा इ॒ज्यन्ते॒ वर्मै॒व तद्य॒ज्ञाय॑ क्रियते॒ वर्म॒ यज॑मानाय॒ भ्रातृ॑व्याभिभूत्यै
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -546,13 +735,18 @@ title = "२८ प्रयाजविधिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॒द्वरू॑थम् वरू॑थम्पु॒रस्ता॑त् ,  
-वर्षी॑यᳶ प॒श्चाद्ध्रसी॑यः ।
+तस्मा॒द् वरू॑थम्+++(←वृ)+++ पु॒रस्ता॑त् वर्षी॑यᳶ  
+प॒श्चाद् +ध्रसी॑यः ।
+</details>
+
+<details><summary>Keith</summary>
+
+Therefore a covering is larger in front and smaller behind.
 </details>
 
 <details><summary>मूलम्</summary>
 
-तस्मा॒द्वरू॑थम् वरू॑थम्पु॒रस्ता॑त् ,  
+तस्मा॒द्वरू॑थम् पु॒रस्ता॑त् ,  
 वर्षी॑यᳶ प॒श्चाद्ध्रसी॑यः ।
 </details>
 
@@ -561,6 +755,7 @@ title = "२८ प्रयाजविधिः"
 वरूथमिति । रक्षकं सेनाबलादिकं पुरस्ताद्वर्षीयः वृद्धतरः । 'प्रियस्थिर' इत्यादिना वर्षादेशः । पश्चाद्ध्रसीयः ह्रस्वतरः । 'स्थूलदूर' इत्यादिना यणादिलोपः ॥
 </details>
 
+## सन्तानम्
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 दे॒वा वै पु॒रा रक्षो॑भ्यः [5]  इति॑ स्वाहाका॒रेण॑ प्रया॒जेषु॑ य॒ज्ञँ सँ॒स्थाप्य॑मपश्य॒न्तँ स्वा॑हाका॒रेण॑ प्रया॒जेषु॒ सम॑स्थापय॒न्वि वा ए॒तद्य॒ज्ञञ्छि॑न्दन्ति॒ यत्स्वा॑हाका॒रेण॑ प्रया॒जेषु॑ सँस्था॒पय॑न्ति प्रया॒जानि॒ष्ट्वा ह॒वीँष्य॒भि घा॑रयति य॒ज्ञस्य॒ सन्त॑त्या॒ अथो॑ ह॒विरे॒वाक॒रथो॑ यथापू॒र्वमुपै॑ति
@@ -568,14 +763,19 @@ title = "२८ प्रयाजविधिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वा वै पु॒रा  रक्षो॑भ्य॒ इति॑।  
-स्वा॒हा॒का॒रेण॑ प्रया॒जेषु॑ य॒ज्ञँ सँ॒स्थाप्य॑मपश्यन् ।   
+दे॒वा वै "पु॒रा रक्षो॑भ्य॒" [5]  इति॑  
+स्वाहाका॒रेण॑ प्रया॒जेषु॑  
+य॒ज्ञँ सँ॒स्थाप्य॑म् अपश्यन्।
+</details>
+
+<details><summary>Keith</summary>
+
+The gods thought that the sacrifice must be completed (in the fore-sacrifice) before the Raksases [5] with the cry of 'Hail!' 
 </details>
 
 <details><summary>मूलम्</summary>
 
-दे॒वा वै पु॒रा  रक्षो॑भ्य॒ इति॑।  
-स्वा॒हा॒का॒रेण॑ प्रया॒जेषु॑ य॒ज्ञँ सँ॒स्थाप्य॑मपश्यन् ।   
+दे॒वा वै पु॒रा रक्षो॑भ्यः [5]  इति॑ स्वाहाका॒रेण॑ प्रया॒जेषु॑ य॒ज्ञँ सँ॒स्थाप्य॑मपश्य॒न्
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -590,6 +790,11 @@ title = "२८ प्रयाजविधिः"
 तँ स्वा॑हाका॒रेण॑ प्रया॒जेषु॒ सम॑स्थापयन् ।  
 </details>
 
+<details><summary>Keith</summary>
+
+They completed it with the cry of 'Hail!' in the fore-sacrifices. 
+</details>
+
 <details><summary>मूलम्</summary>
 
 तँ स्वा॑हाका॒रेण॑ प्रया॒जेषु॒ सम॑स्थापयन् ।  
@@ -602,49 +807,52 @@ title = "२८ प्रयाजविधिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वि वा ए॒तद्य॒ज्ञञ्छि॑न्दन्ति ।  
-यत्स्वा॑हाका॒रेण॑ प्रया॒जेषु॑ सँस्था॒पय॑न्ति ।  
-प्रया॒जानि॒ष्ट्वा ह॒वीँष्य॒भि घा॑रयति य॒ज्ञस्य॒ सन्त॑त्यै ।  
+वि वा ए॒तद् य॒ज्ञञ् छि॑न्दन्ति॒  
+यत् स्वा॑हाका॒रेण॑ प्रया॒जेषु॑ सँस्था॒पय॑न्ति।  
+</details>
+
+<details><summary>Keith</summary>
+
+They split the sacrifice who complete it with the cry of 'Hail!' in the fore-sacrifices.  
 </details>
 
 <details><summary>मूलम्</summary>
 
 वि वा ए॒तद्य॒ज्ञञ्छि॑न्दन्ति ।  
 यत्स्वा॑हाका॒रेण॑ प्रया॒जेषु॑ सँस्था॒पय॑न्ति ।  
-प्रया॒जानि॒ष्ट्वा ह॒वीँष्य॒भि घा॑रयति य॒ज्ञस्य॒ सन्त॑त्यै ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-तदेव प्रतिपादयति - वि वा एतदित्यादि । यदि प्रयाजान्तो यज्ञः संस्थाप्यते विच्छेद एवायं यज्ञस्य क्रियते न पुनस्सर्वोऽयं यज्ञस्संस्थाप्यते । तस्मात्प्रयाजानिष्ट्वाऽनुपूर्वं हवींष्यभिघारयति । यज्ञस्याविच्छेदाय देवा अपि तथाऽकुर्वन्निति ।
+तदेव प्रतिपादयति - वि वा एतदित्यादि । यदि प्रयाजान्तो यज्ञः संस्थाप्यते विच्छेद एवायं यज्ञस्य क्रियते न पुनस्सर्वोऽयं यज्ञस्संस्थाप्यते । 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथो॑ ह॒विरे॒वाकः॑ ।  
+प्र॒या॒जान् इ॒ष्ट्वा ह॒वीँष्य् अ॒भि घा॑रयति य॒ज्ञस्य॒ सन्त॑त्यै ।  
+अथो॑ ह॒विर् ए॒वाकः॑ ।  
+अथो॑ यथापू॒र्वम् उपै॑ति ।
+</details>
+
+<details><summary>Keith</summary>
+
+Having offered the fore sacrifices  
+he sprinkles the oblations, for the continuity of the sacrifice;  
+then verily he makes the oblation,  
+and then he proceeds in order.  
 </details>
 
 <details><summary>मूलम्</summary>
 
+प्रया॒जानि॒ष्ट्वा ह॒वीँष्य् अ॒भि घा॑रयति य॒ज्ञस्य॒ सन्त॑त्यै ।  
 अथो॑ ह॒विरे॒वाकः॑ ।  
+अथो॑ यथापू॒र्वमुपै॑ति ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
+तस्मात्प्रयाजानिष्ट्वाऽनुपूर्वं हवींष्यभिघारयति । यज्ञस्याविच्छेदाय देवा अपि तथाऽकुर्वन्निति ।  
 अथो अपिच हविष्ट्वमेव हविषामनेनाभिघारणेनाकः करोति । छान्दसे लुङि 'मन्त्रे घस' इत्यादिना' च्लेर्लुक् ।  
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-अथो॑ यथापू॒र्वमुपै॑ति ।  
-</details>
-
-<details><summary>मूलम्</summary>
-
-अथो॑ यथापू॒र्वमुपै॑ति ।  
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
 
 अथो अपिच यथापूर्वं अनुक्रमेण पदार्थानुपैति । इदं कृतमिदं कृतमिदानीं कर्तव्यमिति बुद्ध्या उपसंप्राप्नोति ॥
 </details>
@@ -656,9 +864,18 @@ title = "२८ प्रयाजविधिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पि॒ता वै प्र॑या॒जाᳶ, प्र॒जानू॑या॒जाः ,    
-यत्प्र॑या॒जानि॒ष्ट्वा ह॒वीँष्य॑भिघा॒रय॑ति .. ,   
-पि॒तैव तत्पु॒त्रेण॒ साधा॑रणम् कुरुते ।  
+पि॒ता वै प्र॑या॒जाᳶ, प्र॒जा ऽनू॑या॒जाः।    
+यत् प्र॑या॒जान् इ॒ष्ट्वा  
+ह॒वीँष्य् अ॑भिघा॒रय॑ति ,   
+पि॒तैव तत् पु॒त्रेण॒ साधा॑रणं कुरुते ।  
+</details>
+
+<details><summary>Keith</summary>
+
+The fore-sacrifices are the father, the after-sacrifices the son;  
+in that having offered the fore-sacrifices  
+he sprinkles the oblations,  
+the father makes common property with the son [6]. 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -673,21 +890,25 @@ title = "२८ प्रयाजविधिः"
 13पिता वा इत्यादि ॥ पूर्वमुत्पन्नत्वात्प्राधान्याच्च पितृस्थानीयाः प्रयाजाः । विपर्ययात्प्रजास्थानीया अनूयाजाः । अस्मात् प्रयाजशेषेण हविषामभिघारणेन पिता स्वयमेवात्मीयं धनं पुत्रेण साधारणं कुरुते । सह ध्रियत इति साधारणम् । 'आग्नीध्रसाधारणादञ् वक्तव्यः' इति अञ् प्रत्ययः ॥
 </details>
 
-<details><summary>मूलम् (संयुक्तम्)</summary>
-
-तस्मा॑दाहु॒र्यश्चै॒वव्ँवेद॒ यश्च॒ न क॒था पु॒त्रस्य॒ केव॑लङ्क॒था साधा॑रणम्पि॒तुरिति
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मा॑दाहु॒र्यश्चै॒वव्ँवेद॑ ।  
-यश्च॒ न क॒था पु॒त्रस्य॒ केव॑लङ्क॒था साधा॑रणम्पि॒तुरिति॑ ।  
+तस्मा॑द् आहु॒र् यश् चै॒वव्ँ वेद॒ यश्च॒ न  
+
+> क॒था पु॒त्रस्य॒ केव॑लङ्, क॒था साधा॑रणम् पि॒तुर्  
+
+इति॑
+</details>
+
+<details><summary>Keith</summary>
+
+Therefore they say, who know it or who know not, 
+
+> 'How is it the son's only, how is the father's common?' 
 </details>
 
 <details><summary>मूलम्</summary>
 
-तस्मा॑दाहु॒र्यश्चै॒वव्ँवेद॑ ।  
-यश्च॒ न क॒था पु॒त्रस्य॒ केव॑लङ्क॒था साधा॑रणम्पि॒तुरिति॑ ।  
+तस्मा॑दाहु॒र्यश्चै॒वव्ँवेद॒ यश्च॒ न क॒था पु॒त्रस्य॒ केव॑लङ्क॒था साधा॑रणम्पि॒तुरिति॑
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -700,9 +921,18 @@ title = "२८ प्रयाजविधिः"
 अस्क॑न्नमे॒व तद्यत्प्र॑या॒जेष्वि॒ष्टेषु॒ स्कन्द॑ति गाय॒त्र्ये॑व तेन॒ गर्भ॑न्धत्ते॒ सा प्र॒जाम्प॒शून्यज॑मानाय॒ प्र ज॑नयति ॥ [7]  
 </details>
 
+## अस्कन्नता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अस्क॑न्नमे॒व तद्यत्प्र॑या॒जेष्वि॒ष्टेषु॒ स्कन्द॑ति ।  
+अस्क॑न्नम् ए॒व तद्  
+यत् प्र॑या॒जेष्व् इ॒ष्टेषु॒ स्कन्द॑ति ।  
+</details>
+
+<details><summary>Keith</summary>
+
+That which spills  
+when the fore-sacrifices are offered  
+is not really spilt. 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -717,12 +947,17 @@ title = "२८ प्रयाजविधिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-गाय॒त्र्ये॑व तेन॒ गर्भ॑न्धत्ते ।  
+गा॒य॒त्र्य् ए॒॑व तेन॒ गर्भ॑न् धत्ते ।  
+</details>
+
+<details><summary>Keith</summary>
+
+The Gayatri conceives through it, 
 </details>
 
 <details><summary>मूलम्</summary>
 
-गाय॒त्र्ये॑व तेन॒ गर्भ॑न्धत्ते ।  
+गा॒य॒त्र्ये॑व तेन॒ गर्भ॑न्धत्ते ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -732,7 +967,12 @@ title = "२८ प्रयाजविधिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सा प्र॒जाम्प॒शून्यज॑मानाय॒ प्र ज॑नयति ॥  
+सा प्र॒जाम् प॒शून् यज॑मानाय॒ प्र ज॑नयति ॥  
+</details>
+
+<details><summary>Keith</summary>
+
+and produces offspring and cattle for the sacrificer.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -746,5 +986,5 @@ title = "२८ प्रयाजविधिः"
 
 इति द्वितीये षष्ठे प्रथमोऽनुवाकः ॥  
 </details>
-
+</details>
 </div>

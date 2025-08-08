@@ -98,7 +98,6 @@ unicode_script: devanagari
 </details>
 </div>  
 
-
 ## पित्राह्वानम्
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/01/07/13_apahatA_asurA_raxAMsi.md">
 <details open><summary><h2>13 अपहता असुरा रक्षांसि ...{Loading}...</h2></summary>

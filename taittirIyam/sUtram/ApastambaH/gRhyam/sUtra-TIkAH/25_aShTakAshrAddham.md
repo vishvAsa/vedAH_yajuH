@@ -20,10 +20,12 @@ title = "२५ अष्टकाश्राद्धम्"
 
 10. Of the dark fortnight that follows after the full moon of Māgha, the eighth day falls under (the constellation of) Jyeṣṭhā: this day is called Ekāṣṭakā.
 </details>
+
 <details><summary>हरदत्त-प्रस्तावः</summary>
 
 एवं प्रकृतिभूतं मासिश्राद्धं व्याख्यायेदानीं तद्विकृतिभूतं प्रतिसंवत्सरमनुष्ठेयं अष्टकाख्यं पाकयज्ञान्तरं व्याख्यास्यन्, तस्य कालविधिमाह—
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 व्याख्यातः श्राद्धविधिः ।
@@ -34,6 +36,7 @@ title = "२५ अष्टकाश्राद्धम्"
 **द्व्यष्टका**ग्रहणस्य प्रयोजनं मृग्यम् ।
 किमर्थं ज्येष्ठया सम्पद्यत इति? यदा द्वयोरह्नोरष्टमी तदा ज्येष्ठासंयुक्तायां क्रिया यथा स्यादिदि ॥१०॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **माघ्याः** माघमासस्य सम्बन्धिन्याः **पौर्णमास्याः उपरिष्टादूर्ध्वं या व्यष्टका** कृष्णपक्ष इत्यर्थः ।
@@ -71,10 +74,12 @@ title = "२५ अष्टकाश्राद्धम्"
 
 11. In the evening before that day (he performs) the preparatory ceremony.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 +++(सम्पादकटिप्पनी - इदं सूत्रम् अग्रिमे व्याख्यातम् । )+++
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 +++(सम्पादकटिप्पनी - इदं सूत्रम् अग्रिमे व्याख्यातम् । )+++
@@ -103,9 +108,9 @@ title = "२५ अष्टकाश्राद्धम्"
 
 12. [^2]  He bakes a cake of four cups (of rice).
 
-
 [^2]:  12, 13. Comp. Hiraṇyak. II, 5, 14, 3 seq.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 उप समीपे क्रियत इत्युपकारः ।
@@ -117,6 +122,7 @@ title = "२५ अष्टकाश्राद्धम्"
 तस्यास्सायमित्यन्वये अष्टम्यामस्तमितेऽपूपं प्राप्नोति, नवम्यां पशुः, "दशम्यामन्वष्टका", तच्छास्त्रेष्वप्रसिद्धम् ।
 औपकार्यशब्दश्चानर्थकः ॥१२॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 त्रिपदमिदं सूत्रम् ।
@@ -159,6 +165,7 @@ title = "२५ अष्टकाश्राद्धम्"
 
 13. (The cake is prepared) in eight dishes (like a Puroḍāśa), according to some (teachers).
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 **सायम्**अपूपाष्टाकपालो हविः **इत्येके** मन्यन्ते ।
@@ -169,6 +176,7 @@ title = "२५ अष्टकाश्राद्धम्"
 एतच्च पित्र्यस्याङ्गमपि कर्म स्वयं पित्र्यं न भवति, "तेन" प्राचीनावीतादि न भवति ॥१२॥
 इति श्रीहरदत्तमिश्रविरचितायां गृह्यसूत्रवृत्तावनाकुलायामेकविंशःखण्डः ॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 अष्टसु कपालेषु संस्कृतः पुरोडाशो**ऽष्टकपालः** ।
@@ -197,7 +205,6 @@ title = "२५ अष्टकाश्राद्धम्"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/30_yA~n_janAH.md">
 <details open><summary><h5>३० याञ् जनाः ...{Loading}...</h5></summary>
 
-
 यां जनाः॑ प्रति॒-नन्द॑न्ति॒  
 रात्रिं॑ धे॒नुम् इ॑वाय॒तीम् ।  
 सं॒व॒त्स॒रस्य॒ या पत्नी॒ +++(एकाष्टका)+++  
@@ -214,9 +221,9 @@ title = "२५ अष्टकाश्राद्धम्"
 
 1. [^1]  After the ceremonies down to the Ājyabhāga oblations have been performed in the same way as at the fortnightly sacrifices, he makes with his joined hands oblations of the cake with the next (verse, II, 20, 27).
 
-
 [^1]:  22, 1. Comp. above, VII, 18, 6.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 प्रतिष्ठिताभिधारणान्ते कृते अग्नेरुपसमाधानाद्याज्यभागान्तं कृत्वा पार्वणवदवदानकल्पेनापूपादुत्तरयर्चा अञ्जलिना **जुहोति** "यां जनाः प्रतिनन्दन्ती"त्येतया ।
@@ -227,6 +234,7 @@ title = "२५ अष्टकाश्राद्धम्"
 पार्वणवद्वचनं अञ्जलिहोमानामधर्मग्राहकत्वात् अवदानकल्पप्राप्त्यर्थं अञ्जलिनापि जुह्वत् पार्वणवदवदानकल्पेन जुहोतीति ।
 सादनप्रोक्षणसंमार्जनान्यञ्जलेर्न भवन्ति ॥१॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 ततः **पार्वणवदग्नेर्** उपसमाधानाद्यग्निमुखान्ते, स्वकीयेनावदानधर्मेणापूपात्पुरोडाशाद्वावदाय उत्तरयर्चा "यां जनाः प्रतिनन्दन्ति" इत्येतया अञ्जलिना जुहोति ।
@@ -262,9 +270,9 @@ title = "२५ अष्टकाश्राद्धम्"
 
 2. [^2]  The rest (of the cake) he makes ready, divides (it) into eight parts and offers it to the Brāhmaṇas.
 
-
 [^2]:  I believe that śeṣaḥ means the rest of the cake. The word 'siddhaḥ' possibly refers to such preparations of the food as are indicated in Hiraṇyak. II, 5, 14, 7. Haradatta understands śeṣaḥ as the rest of the rites (tantrasya śeṣaḥ): 'The rest of the rites is p. 294 the regular one, without alterations:' it must be admitted that the expressions used by Hiraṇyak. II, 5, 14, 10 would agree well with this explanation.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 तन्त्रस्य शेषस्**सिद्धो** भवति अविकृत इत्यर्थः ।
@@ -273,6 +281,7 @@ title = "२५ अष्टकाश्राद्धम्"
 "तेन सर्पिष्मता ब्राह्मणम्" इत्येकस्य भक्षणे प्राप्तेऽष्टाभ्य उपहारो विधायते ।
 तत्र ये ब्राह्मणाः श्वोभूते भोक्तारः तेभ्यो निवेद्योपवसति ॥३॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 अपूपस्य **शेषस्सिद्धः उपहरति** प्राशनार्थमिति चानुवादः, **तं** शेषं सर्पिष्मन्तमष्टधा कृत्वा अष्टभ्यो **ब्रह्मणेभ्य** इति विधातुम् ।
@@ -307,6 +316,7 @@ title = "२५ अष्टकाश्राद्धम्"
 
 3. On the following day he touches a cow with a Darbha blade, with the words, 'I touch thee agreeable to the Fathers.'
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 दर्भेणेत्येकत्वमविवक्षितम् ।
@@ -319,6 +329,7 @@ title = "२५ अष्टकाश्राद्धम्"
 "अपरपक्षस्यापराह्णः श्रेयानि"त्येष च कालः ।
 सर्वत्र प्राचीनावीतम् ॥३॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 अथ **श्वोभूते** अष्टम्याम् ।
@@ -347,7 +358,6 @@ title = "२५ अष्टकाश्राद्धम्"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/31_vaha_vapAm.md">
 <details open><summary><h5>३१ वह वपाम् ...{Loading}...</h5></summary>
 
-
 वह॑ व॒पां जा॑तवेदः पि॒तृभ्यो॒  
 यत्रै॒नान् वे॑त्थ॒ निहि॑तान् परा॒के+++(=दूरे)+++ ।  
 मेद॑सः॒ कूल्या॒+++(=नद्या)+++ उप॒ तान् क्ष॑रन्तु  
@@ -364,9 +374,9 @@ title = "२५ अष्टकाश्राद्धम्"
 
 4. [^3]  Having silently offered five Ājya oblations, and having cooked, the omentum of the (cow), and performed the 'spreading under' and the sprinkling over (of Ājya), he sacrifices (the omentum) with the next (verse, II, 20, 28) with a Palāśa leaf from the middle or the end (of the stalk).
 
-
 [^3]:  See above, V, 13, 16.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 तूष्णीमित्यनुच्यमाने सम्प्रदानाभावे होमानिवृत्तेः देवताकल्पनायां प्राप्तायां या एताः पाशुबन्धिक्यः पश्वाहुयः
@@ -385,6 +395,7 @@ title = "२५ अष्टकाश्राद्धम्"
 एवं पञ्चाज्याहुतीर्हुत्वा तूष्णीं संज्ञप्य वपाञ्च वपाश्रपणीभ्यां तूष्णीमुद्धृत्य औपासने श्रपयित्वाभिघार्य बर्हिषि प्रतिष्ठाप्य पुनरभिघार्य ततस्तामुपस्तीर्णाभिघारितां मध्यमेनान्तमेन वा पलाशपर्णेन जुहोति **उत्तरयर्चा** "वह वपाम्" इत्येतया ।
 पर्णस्य वपाश्रपण्योश्च पात्रैस्सह सादनादि भवति ॥४॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **तूष्णीं** स्वाहाकारेणापि विना **पञ्चाज्याहुतीर्जुहोति**, मन्त्रप्राप्त्यभावात् ।
@@ -412,7 +423,6 @@ title = "२५ अष्टकाश्राद्धम्"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/32_yA~n_janAH.md">
 <details open><summary><h5>३२ याञ् जनाः ...{Loading}...</h5></summary>
 
-
 यां जनाः॑ प्रति॒-नन्द॑न्ति॒  
 रात्रिं॑ धे॒नुम् इ॑वाय॒तीम् ।  
 सं॒व॒त्स॒रस्य॒ या पत्नी॒ +++(एकाष्टका)+++  
@@ -422,7 +432,6 @@ title = "२५ अष्टकाश्राद्धम्"
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/33_iyameva_sA.md">
 <details open><summary><h5>३३ इयमेव सा ...{Loading}...</h5></summary>
-
 
 इ॒यम् +++(उषाः)+++ ए॒व सा या प्र॑थ॒मा व्यौच्छ॑द्+++(←उछीँ विवासे)+++  
 अ॒न्तर् अ॒स्याञ् +++(पृथिव्यां)+++ च॑रति॒ +++(आदित्यम्)+++ प्रवि॑ष्टा ।  
@@ -436,7 +445,6 @@ title = "२५ अष्टकाश्राद्धम्"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/34_ChandasvatI_uShasA.md">
 <details open><summary><h5>३४ छन्दस्वती उषसा ...{Loading}...</h5></summary>
 
-
 छन्द॑स्वती उ॒षसा॒+++(सौ)+++ पेपि॑शाने+++(=दीप्यमाने)+++  
 समा॒नय्ँ योनि॒म् +++(आदित्यं)+++ अनु॑ स॒ञ्चर॑न्ती ।  
 सूर्य॑पत्नी॒ वि च॑रतᳶ प्र-जान॒ती  
@@ -447,7 +455,6 @@ title = "२५ अष्टकाश्राद्धम्"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/35_Rtasya_panthAmanu.md">
 <details open><summary><h5>३५ ऋतस्य पन्थामनु ...{Loading}...</h5></summary>
 
-
 ऋ॒तस्य॒ पन्था॒म् अनु॑ +++(कार्यभेदात्)+++ ति॒स्र आगु॒स्  
 त्रयो॑ घ॒र्मासो॒ अनु॒ ज्योति॒षा ऽगुः॑ ।  
 प्र॒जाम् एका॒ रक्ष॒त्य्, ऊर्ज॒म् एका॑  
@@ -457,7 +464,6 @@ title = "२५ अष्टकाश्राद्धम्"
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/36_ekAShTakAm_pashyata.md">
 <details open><summary><h5>३६ एकाष्टकाम् पश्यत ...{Loading}...</h5></summary>
-
 
 ए॒का॒ष्ट॒कां प॑श्यत॒ दोह॑माना॒म्  
 अन्नं॑ माँ॒सव॑द् घृ॒तव॑त् स्व॒धाव॑त् ।  
@@ -470,7 +476,6 @@ title = "२५ अष्टकाश्राद्धम्"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/37_aulUkhalA_grAvANo.md">
 <details open><summary><h5>३७ औलूखला ग्रावाणो ...{Loading}...</h5></summary>
 
-
 औ॒लू॒ख॒ला+++(=उलूखलाः)+++ ग्रावा॑णो॒ घोष॑म् अक्रत  
 ह॒विः कृ॒ण्वन्तः॑ परिवत्स॒रीण॑म् ।  
 ए॒का॒ष्ट॒के सु॑प्र॒जा वी॒रव॑न्तो  
@@ -480,7 +485,6 @@ title = "२५ अष्टकाश्राद्धम्"
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/38_ekAShTakA_tapasA.md">
 <details open><summary><h5>३८ एकाष्टका तपसा ...{Loading}...</h5></summary>
-
 
 ए॒का॒ष्ट॒का तप॑सा॒ तप्य॑माना  
 संवत्स॒रस्य॒ पत्नी॑ दुदुहे॒ प्रपी॑ना ।+++(४)+++  
@@ -498,6 +502,7 @@ title = "२५ अष्टकाश्राद्धम्"
 
 5. (He sacrifices) boiled rice together with the meat (of the cow) with the next (verses, II, 20, 29-35),
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 (हुतायां वपायां पशोर्विशसनं कारयित्वा अन्वष्टकार्थं........गृहेषु श्रपयित्वा अन्यानि च हविष्यौदनादीनि तान्यभिघार्य बर्हिषि प्रतिष्ठाप्य पुनरभिघार्य दर्व्या जुहोत्यवदानकल्पेन ।
@@ -518,6 +523,7 @@ title = "२५ अष्टकाश्राद्धम्"
 पिष्टान्नमुत्तरयेति वक्ष्यति ।
 तेन सप्तभिर्ऋग्भिर्मांसौदनस्य होमः ॥५॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 मांसमिश्र ओदनो **मांसौदनः**। तं **उत्तराभिः** "यां जनाः प्रतिनन्दन्ति" इत्यादिभिस्सप्तभिर्जुहोति ।
@@ -544,7 +550,6 @@ title = "२५ अष्टकाश्राद्धम्"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_21/01_ukthyashchAsyatirAtrashcha.md">
 <details open><summary><h5>०१ उक्थ्यश्चास्यतिरात्रश्च ...{Loading}...</h5></summary>
 
-
 +++(एकाष्टके!)+++ उ॒क्थ्य॑श् चास्य् अतिरा॒त्रश् च॑  
 साद्य॒स्क्रीश्+++(=सद्यस्क्र-क्रतुः)+++ छन्द॑सा स॒ह ।  
 अ॒पू॒प॒-घृ॒ताहु॑ते॒ नम॑स् ते  
@@ -562,10 +567,12 @@ title = "२५ अष्टकाश्राद्धम्"
 
 6. Food prepared of meal with the next (verse, II, 21, 1),
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 पिष्टेन कृतमन्नं तस्य पयसि श्रपणम् **उत्तरयर्चा** "उक्थ्यश्चे"त्येतया जुहोति ॥६॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 पिष्टेन कृतमन्नं **पिष्टान्नं** पयसि शृतं प्रसिद्धम् ।
@@ -595,7 +602,6 @@ title = "२५ अष्टकाश्राद्धम्"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_21/02-04_bhUH_pRthivyagninarchAmum.md">
 <details open><summary><h5>०२-०४ भूः पृथिव्यग्निनर्चामुम् ...{Loading}...</h5></summary>
 
-
 भूः- पृ॑थि॒व्य्+++(व्या)+++ अ॑ग्निना॑+ऋ॒चा ऽमुं मयि॒ कामं॒ नियु॑नज्मि॒ स्वाहा॑ ।  
 भुवो॑- वा॒युना॒ ऽन्तरि॑क्षेण॒ साम्ना॒ ऽमुं मयि॒ कामं॒ नियु॑नज्मि॒ स्वाहा॑ ।  
 स्व॑र्- दिवा॑ ऽऽदि॒त्येन॒ यजु॑षा॒ ऽमुं मयि॒ कामं॒ नियु॑नज्मि॒ स्वाहा॑ ।+++(५)+++  
@@ -605,7 +611,6 @@ title = "२५ अष्टकाश्राद्धम्"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_21/05_janadadbhiratharvAngirobhiramum_mayi.md">
 <details open><summary><h5>०५ जनदद्भिरथर्वाङ्गिरोभिरमुम् मयि ...{Loading}...</h5></summary>
 
-
 ज॒नद्+++(=व्याहृतिविशेषो यस् सामस्वपि श्रूयते। नारायणानुवाके तु जनः इति विसर्जनीयान्तं पठ्यते ॥)+++-  
 अ॒द्भिर् अथ॑र्वाङ्गि॒रोभि॑र् अ॒मुं मयि॒ कामं॒ नियु॑नज्मि॒ स्वाहा॑ ।  
 
@@ -614,7 +619,6 @@ title = "२५ अष्टकाश्राद्धम्"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_21/06-07_rochanAyAjirAyAgnaye_devajAtave.md">
 <details open><summary><h5>०६-०७ रोचनायाजिरायाग्नये देवजातवे ...{Loading}...</h5></summary>
 
-
 रो॒च॒नाय॑ +अ॒जि॒राय+++(←अज गतिक्षेपणयोः)+++ +अ॒ग्नये॑ दे॒व-जा॑तवे॒+++(=ज्ञात्रे)+++ स्वाहा॑ ।  
 के॒तवे॒+++(=ज्ञात्रे)+++ मन॑वे॒ ब्रह्म॑णे दे॒व-जा॑तवे॒+++(=ज्ञात्रे)+++ स्वाहा॑ ।  
 
@@ -622,7 +626,6 @@ title = "२५ अष्टकाश्राद्धम्"
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_21/08-09_svadhA_svAhA.md">
 <details open><summary><h5>०८-०९ स्वधा स्वाहा ...{Loading}...</h5></summary>
-
 
 स्व॒धा स्वाहा॑ ।  
 अ॒ग्नये॑ कव्य॒वाह॑नाय स्व॒धा स्वाहा॑ ।  
@@ -637,10 +640,12 @@ title = "२५ अष्टकाश्राद्धम्"
 
 7. Then the Ājya oblations (indicated by the) next (Mantras, II, 21, 2-9).
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 उत्तरैर्मन्त्रैः "भूः पृथिव्यग्निनर्चे"त्यादिभिः अष्टाभिराज्यस्य जुहोतीत्यर्थः ॥७॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 उत्तरमन्त्रकरणिका **आज्याहुतीर्** अष्टौ जुहोतीत्यर्थः ।
@@ -671,6 +676,7 @@ title = "२५ अष्टकाश्राद्धम्"
 
 8. (The rites) from the Sviṣṭakṛt down to the offering of the Piṇḍas are the same (as at the Śrāddha).
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 **स्विष्टकृत्प्रभृति पिण्डनिधानान्तं** कर्म कृत्स्नं मासिश्राद्धवदिहापि कर्तव्यमित्यर्थः ।
@@ -681,6 +687,7 @@ title = "२५ अष्टकाश्राद्धम्"
 आरब्धे चाभोजनमासमापनादिति ।
 पञ्चयज्ञाश्च लुप्यन्ते ॥८॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **स्विष्टकृदादि** तन्त्रशेषं सर्वाभिमर्शनादि च प्रदक्षिणीकृत्येत्येवमन्तं ब्राह्मणभोजनं, पिण्डनिधानं, ग्रासवरार्ध्यं प्राश्नीयादित्येवमन्तं, सर्वं पदार्थजातं मासिश्राद्धवदिहापि कर्तव्यमेवेत्यर्थः ।
@@ -711,6 +718,7 @@ title = "२५ अष्टकाश्राद्धम्"
 
 9. Some (teachers) prescribe the Piṇḍa offering for the day after the Aṣṭakā.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 न पिण्डनिधानमित्युच्यमानेऽन्वष्टकायामपि पिण्डनिधानं न स्यात् ।
@@ -721,6 +729,7 @@ title = "२५ अष्टकाश्राद्धम्"
 तेन दध्यञ्जलिः कृत्स्नैकाष्टकाकरणात् विकल्प्यते सापूपेन सान्वष्टकेनेति केचित् ।
 वयं तु ब्रूमः— अष्टकायामकृतायां भोजनमस्य न भवतीत्येतदर्थमेव वचनमन्वष्टकायां यत् पिण्डदानं तदिह......नास्मिन् कर्मणि पृथक्कर्तव्यमिति ॥९॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 या श्वोभूतोऽन्वष्टकेति विधास्यते तस्याम् **अन्वष्टकायामेव पिण्डनिधानं** पिण्डप्रदानं नाष्टकायाम् **इत्येके** आचार्या **उपदिशन्ति** ।
@@ -769,10 +778,12 @@ title = "२५ अष्टकाश्राद्धम्"
 
 10. Here (follows) another (way for celebrating the Aṣṭakā sacrifice). He sacrifices curds with his joined hands in the same way as the cake.
 </details>
+
 <details><summary>हरदत्त-प्रस्तावः</summary>
 
 एवं मुख्यकल्पमुपदिश्य, अथानुकल्पमुपदिशन्ति—
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 एवमष्टकायां मुख्यः कल्पो दर्शितः ।
@@ -800,6 +811,7 @@ title = "२५ अष्टकाश्राद्धम्"
 यदि तस्या अपि प्रत्याम्नायः स्यात् तामभिधायायमनुकल्पो वक्तव्यस्स्यादिति । )
 अन्ये तु सापूपस्य सान्वष्टकस्य कृत्स्नस्याष्टकाकर्मणो निवर्तको दध्यञ्जलिरिति ॥१०॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **यया** "यां जनाः" इत्येतया **अपूपं** जुहोति, तया ऋचा **दध्नस्**स्वावदानधर्मेणावदाया**ञ्जलिना जुहोति** ।
@@ -839,11 +851,13 @@ title = "२५ अष्टकाश्राद्धम्"
 
 11. Having left over from the meat of the (cow, see above, 3. 4) as much as is required, on the day after (the Aṣṭakā) (he performs) the rite of the Anvaṣṭakā.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 **अत एवा**स्या एव गोरेकाष्टकायामालब्धायां मांसं यस्य यथार्थं यावत्प्रयोजनं शिष्ट्वा श्वोभूते नवम्यामन्वष्टकानाम कर्म कर्तव्यम् ।
 भूयांसमतो माहिषेणेत्यादीनां निवृत्त्यर्थ एवकारः ॥११॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **श्वोभूते** नवम्याम् **अन्वष्टकाख्यं** कर्म कर्तव्यम् ।
@@ -874,6 +888,7 @@ title = "२५ अष्टकाश्राद्धम्"
 
 12. This rite has been explained in the description of the monthly Śrāddha.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 मासिश्राद्धवदन्वष्टका कर्तव्येत्यर्थः ।
@@ -1000,6 +1015,7 @@ title = "२५ अष्टकाश्राद्धम्"
 प्रयोगश्च–पार्वणश्राद्धवदेव ।
 एतावदत्र नाना युग्मा ब्राह्मणाः प्रदक्षिणमुपचारो यज्ञोपवीतं यवैस्तिलार्थ इति ॥१२॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 तस्या अन्वष्टकायाः कल्पो मासिश्राद्धवत्कर्तव्य इत्यर्थः ।

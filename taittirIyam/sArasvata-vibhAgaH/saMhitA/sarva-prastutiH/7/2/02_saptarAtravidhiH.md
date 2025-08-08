@@ -9,8 +9,6 @@ title = "०२ सप्तरात्रविधिः"
 अथाष्टौ सप्तरात्राः - कौसुरुबिन्दः प्रथमः, सप्तर्षीणां द्वितीयः, प्राजापत्यस्तृतीयः, छन्दोम-पवमानश् चतुर्थः, पृष्ट्यावलम्बः पञ्चमः, सत्त्रसम्मितष्षष्ठः, ऐन्द्रस्सप्तमः, जनकसप्तरात्रोष्टमः ।
 </details>
 
-
-
 ## फलम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -20,8 +18,6 @@ title = "०२ सप्तरात्रविधिः"
 तेन॒ वै स याव॑न्तो ग्रा॒म्याᳶ प॒शव॒स् तान् अवा॑रुन्ध ।  
 य ए॒वव्ँ वि॒द्वान्त् स॑प्तरा॒त्रेण॒ यज॑ते, याव॑न्त ए॒व ग्रा॒म्याᳶ प॒शव॒स्, तान् ए॒वाव॑ रुन्धे ।  
 </details>
-
-
 
 ## विधानम्
 
@@ -38,6 +34,7 @@ title = "०२ सप्तरात्रविधिः"
 प॒ञ्च॒द॒शो +++(बृहत्सामा +उक्थ्यो?)+++ भ॑वति । इ॒न्द्रि॒यम् ए॒वाव॑ रुन्धते ।  
 स॒प्त॒द॒शो +++(वैरूपसामा +उक्थ्यो?)+++ भवति। [2] अ॒न्नाद्य॒स्याव॑रुद्ध्यै । अथो॒ प्रैव तेन॑ जायन्ते ।  
 </details>
+
 <details><summary>Keith</summary>
 
 There is an Agnistoma characterized by the Trivrt (Stoma); verily he wins brilliance.  
@@ -57,14 +54,12 @@ There is a Saptadaśa (Stoma), for the obtainment of food; verily also he gains 
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/brAhmaNam/sarva-prastutiH/7/1/10_pancharAtravidhiH/25-vidhAnam.md">
 <details open><summary><h3>२५-विधानम् ...{Loading}...</h3></summary>
-
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प॒ञ्च॒विँ॒शो॑ ऽग्निष्टो॒मो +++(यागः)+++ भ॑वति॒ प्र॒जाप॑ते॒र् आप्त्यै॑ ।  
 म॒हा॒व्र॒त॒वा॑न् +++(=ये महाव्रतधर्माः 'स्तुवन्त्यनुश्नोकेन' इत्याद्याः तद्वान्)+++ अ॒न्नाद्य॑स्य अव॑रुद्ध्यै । +++(यथोक्तं महाव्रते 'तदन्नं पञ्चविंशमभवत्' इति ।)+++
 </details>
+
 <details><summary>Keith</summary>
 
 There is an Agnistoma with the Pañcadaśa (Stoma), for the gaining of Prajapati;  
@@ -78,6 +73,7 @@ There is an Agnistoma with the Pañcadaśa (Stoma), for the gaining of Prajapati
 
 वि॒श्व॒जिथ् +++(सहस्रदक्षिणत्वादिधर्मः)+++ सर्व॑पृष्ठो+++(=रथन्तर-बृहद्-वैरूप-वैराज-शाक्वर-रैवत-पृष्ठः)+++ ऽतिरा॒त्रो भ॑वति॒, सर्व॑स्या॒भिजि॑त्यै ॥ 
 </details>
+
 <details><summary>Keith</summary>
 
 There is a Viśvajit Atiratra, with all the Prstha (Stotras), for the winning of all.
@@ -90,6 +86,7 @@ There is a Viśvajit Atiratra, with all the Prstha (Stotras), for the winning of
 +++(तद्)+++ यथा॑ दु॒ग्धाम् +++(गां दोग्धा)+++ उ॑प॒सीद॑त्य् ए॒वम् उ॑त्त॒मम् अह॑स् स्या॒त् +++(निस्सारम्)+++ । नैक॑रा॒त्रश् च॒न स्या॑त् +++(विश्वजित्)+++।
 +++(तस्मात्)+++ बृ॒ह॒द्-र॒थ॒न्त॒रे पूर्वे॒ष्व् अह॒स्सूप॑ यन्ति +++(वैरूपादिभिर् विना)+++।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ॒यव्ँ वाव र॑थन्त॒रम्, अ॒सौ बृ॒हत् +++( चास्ति)+++। आ॒भ्यामे॒व न य॒न्त्य्, अथो॑ अ॒नयो॑र् ए॒व प्रति॑ तिष्ठन्ति ।  

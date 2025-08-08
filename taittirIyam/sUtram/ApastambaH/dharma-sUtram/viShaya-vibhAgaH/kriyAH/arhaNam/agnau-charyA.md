@@ -87,7 +87,6 @@ unicode_script: devanagari
 </div>
   
 
-
 ## पात्र-विवेकः
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/15/18_agnin_nAprayata_AsIdet.md">
 <details open><summary><h4>18 अग्निन् नाप्रयत आसीदेत् ...{Loading}...</h4></summary>
@@ -120,7 +119,6 @@ unicode_script: devanagari
 <details open><summary><h4>12 प्रतिमुखमग्निमाह्रियमाणम् नाप्रतिष्ठितम् भूमौ ...{Loading}...</h4></summary>
 
 प्रतिमुखमग्निमाह्रियमाणम् नाप्रतिष्ठितं भूमौ प्रदक्षिणीकुर्यात्  +++(प्रतिष्ठिते तु प्रदक्षिणीकुर्यात्)+++११   
-
 
 </details>
 </div>

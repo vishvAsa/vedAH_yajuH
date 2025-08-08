@@ -2,9 +2,8 @@
 title = "१० नवमी-कृत्यम्"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/04_pitR-medhAdi/10_navamI-kRtyam"  newLevelForH1="1" includeTitle="true">
-
-
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/04_pitR-medhAdi/10_navamI-kRtyam">
+<details open><summary><h1>१० नवमी-कृत्यम् ...{Loading}...</h1></summary>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1नवम्यां व्युष्टायां  
@@ -13,7 +12,6 @@ title = "१० नवमी-कृत्यम्"
 अपरेणाग्निं रोहितं चर्मानडुहं प्राचीनग्रीवम् उत्तरलोमास्तीर्य  
 तद्-वेतस-मालिनो ज्ञातीन् आरोहयति - आरोहतेति ॥  
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -37,7 +35,6 @@ title = "१० नवमी-कृत्यम्"
 2अथैनान् अनुपूर्वान् कल्पयति - यथाऽहानीति ॥ 
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथाहा॑न्यनुपूर्वं भव॑न्ति॒ यथ॒र्तव॑ ऋ॒तुभि॒र्यन्ति॑ कॢ॒प्ताः ।  
@@ -59,7 +56,6 @@ title = "१० नवमी-कृत्यम्"
 
 3अथ प्रतिलोमकृतया वारण्या स्रुचा चतुर्गृहीते द्वे आहुती जुहोति - न हीति ॥ 
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -99,7 +95,6 @@ title = "१० नवमी-कृत्यम्"
 
 5उत्तरेणाग्निं लोहितोऽनड्वान् प्राङ्मुखोऽवस्थितो भवति । तं ज्ञातयोऽन्वारभन्ते - अनड्वाहम् इति ॥ 
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -146,7 +141,6 @@ title = "१० नवमी-कृत्यम्"
 
 7जघन्यो वेतसशाखया अवकाभिश्च पदानि संलोपयन्नेति - मृत्योरिति ॥ 
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -258,7 +252,6 @@ title = "१० नवमी-कृत्यम्"
 12अजम् एतदहः पचन्ति यवोदनं च - अजोसि इति ॥ अजस्य प्राश्नन्ति । यवोसीति यवोदनं च ॥ 
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ॒जो॑ऽस्यजा॒स्मद॒घा द्वेषाँ॑सि
@@ -268,13 +261,12 @@ title = "१० नवमी-कृत्यम्"
 
 अ॒जो॑ऽस्यजा॒स्मद॒घा द्वेषाँ॑सि
 </details>
- 
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अजोसि । त्वं तद्विकारमांसस्य अयं प्रकृतिशब्दो ऽज क्षिप । अस्मद् अस्मत्तो ऽघानि द्वेषांसि द्विषां चास्मासु शत्रूणाम् । 
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य॒वो॑ऽसि य॒वया॒स्मद॒घा द्वेषाँ॑सि ॥ (24)
@@ -284,11 +276,11 @@ title = "१० नवमी-कृत्यम्"
 
 य॒वो॑ऽसि य॒वया॒स्मद॒घा द्वेषाँ॑सि ॥ (24)
 </details>
-  
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 यवोसीति निगदसिद्धम् । यवय अस्मत्तः पृथक्कुरु ॥  
 इत्यारण्यके चतुर्थे दशमोऽनुवाकः ॥
 </details>
-
+</details>
 </div>

@@ -76,7 +76,6 @@ unicode_script: devanagari
 </details>
 </div>  
 
-
 ## उद्बोधनम्
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/01/02_adhivRxasUrya_AviHsUrye_vA.md">
 <details open><summary><h2>02 अधिवृक्षसूर्य आविःसूर्ये वा ...{Loading}...</h2></summary>
@@ -137,7 +136,6 @@ unicode_script: devanagari
 </details>
 </div>  
 
-
 ## इध्माहरणम्
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/02/02_svayaM_yajamAna_idhmAnAharati.md">
 <details open><summary><h2>02 स्वयं यजमान इध्मानाहरति ...{Loading}...</h2></summary>
@@ -191,7 +189,6 @@ unicode_script: devanagari
 
 </details>
 </div>  
-
 
 ## परिसमूहनम्, परिस्तरणम्
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/03/01_parisamUhanenAgnInalankurvanti.md">
@@ -659,7 +656,7 @@ unicode_script: devanagari
 </div>  
 
 ## प्रातरवनेकः
-अधिश्रिते उन्नयने वानेनोपस्थानम् अन्यत्रोक्तम् - [अग्न्युपस्थानप्रकरणे](../../angAni/agni-upasthAna/) ।
+अधिश्रिते उन्नयने वानेनोपस्थानम् अन्यत्रोक्तम् - [अग्न्युपस्थानप्रकरणे](../../angAni/agni-upasthAnam/) ।
 
 ## आहवनीय-होमः
 ### उन्नयनम्
@@ -674,7 +671,6 @@ unicode_script: devanagari
 
 ![](../../../../../../images/shrauta-yAga/upakaraNa/sruk-big-sruva-small.jpg)
 ![](../../../../../../images/shrauta-yAga/upakaraNa/agnihotra-havanI.png)
-
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/07/01_devasya_tvA_savituH.md">
 <details open><summary><h2>01 देवस्य त्वा सवितुः ...{Loading}...</h2></summary>
@@ -769,7 +765,6 @@ unicode_script: devanagari
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/06/08/04_pashUnme_yachChetyapareNa_gArhapatyamunnayanadeshe-bhitarAM.md">
 <details open><summary><h2>04 पशून्मे यच्छेत्यपरेण गार्हपत्यमुन्नयनदेशेऽभितरां ...{Loading}...</h2></summary>
-
 
 "पशून्मे यच्छे"त्यपरेण गार्हपत्यम् उन्नयनदेशे ऽभितरां+++(=अतिसमीपे)+++ वा सादयित्वा  
 गार्हपत्ये हस्तं प्रताप्य  
@@ -1213,4 +1208,4 @@ unicode_script: devanagari
 
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../angAni/agni-upasthAna/"></div> 
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../../angAni/agni-upasthAnam/"></div> 

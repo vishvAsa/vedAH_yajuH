@@ -3,8 +3,8 @@ title = "२१ दशहोतृमन्त्राणां काम्य
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/3_hotR-brAhmaNAdi/10_dashahotRmantrANAM_kAmyaprayogaH"  newLevelForH1="1" includeTitle="true">
-
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/3_hotR-brAhmaNAdi/10_dashahotRmantrANAM_kAmyaprayogaH">
+<details open><summary><h1>१० दशहोतृमन्त्राणां काम्यप्रयोगः ...{Loading}...</h1></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र॒जाप॑ति॒स्सोमँ॒ राजा॑नमसृजत ।
@@ -38,7 +38,6 @@ unicode_script = "devanagari"
 
 अथ सोमस्तान् वेदान् हस्तेऽकुरुत हस्तेऽगृह्णात् ।
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -91,7 +90,6 @@ unicode_script = "devanagari"
 अथ सा सीता भर्तुः द्वेष्या पितरं प्रजापतिमुपससार उपाजगाम
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 नम॑स्ते अस्तु भगवः ।
@@ -131,7 +129,6 @@ unicode_script = "devanagari"
 2अथ किं तवागतमिति पित्रा पृष्टा सोवाच - सोमं राजानं कामयेऽहं स तु श्रद्धामेव कामयत इति ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तस्या॑ उ॒ ह स्था॑ग॒रम॑लङ्का॒रङ्क॑ल्पयि॒त्वा ।
@@ -163,7 +160,6 @@ unicode_script = "devanagari"
 अथ संभारैः 'अग्रिर्यजुर्भिः' इत्याद्यैः पत्नीभिश्च 'सेनेन्द्रस्य'14 इत्यादिभिः तां मुखे अलंकृत्य तस्या मुखं लेपयित्वा अस्य सोमस्य अर्धं अर्धांशं समीपं आवव्राज आगमयामास ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 ताँ हो॒दीक्ष्यो॑वाच ।
@@ -186,7 +182,6 @@ unicode_script = "devanagari"
 
 उच्छ्रितमीक्षणमुदीक्षणं, वशीकरणप्रयोगसामर्थ्येन अयथापूर्वं सौत्सुक्यमीक्षित्वा तामुवाच - मामुपावर्तस्व किमर्धेऽध्वनि स्थीयते ।
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -241,7 +236,6 @@ unicode_script = "devanagari"
 यस्मादियं सीता प्रियं वस्तु ययाचे तस्माल्लोकेऽपि स्त्रियो भोगमुद्दिश्य प्रियं दायं षुरुषमाहारयन्त एव ॥
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 स यᳵ का॒मये॑त प्रि॒यस्स्या॒मिति॑ ॥45॥  
@@ -275,5 +269,6 @@ unicode_script = "devanagari"
 1स य इत्यादि ॥ गतम् ॥
 इति तैतिरीयब्राह्मणे द्वितीयाष्टके तृतीयप्रपाठके दशमोऽनुवाकः ॥  
 
+</details>
 </details>
 </div>

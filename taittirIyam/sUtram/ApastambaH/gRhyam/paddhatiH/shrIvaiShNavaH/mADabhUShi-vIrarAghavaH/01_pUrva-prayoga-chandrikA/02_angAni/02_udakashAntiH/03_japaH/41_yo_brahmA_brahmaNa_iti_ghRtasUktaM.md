@@ -6,14 +6,26 @@ title = "४१ 'यो ब्रह्मा ब्रह्मणः'"
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/baudhAyanaH/gRhyam/mantrAdi/AyuShya-ghRta-sUktam__yo_brahmA">
 <details open><summary><h5>आयुष्य‌/घृत-सूक्तम् ...{Loading}...</h5></summary>
+<details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
+
+The modern taittirIyaka-s have a remarkable sUkta known as the AyuShya-sUkta. It is somewhat metrically irregular and has pseudo-accents. It is probably the first extant H text to call on a group of goddesses reminiscent of the mAtR^i-s of later tAntrika tradition. 
+
+Its opening verse features the verb "ujjahAra" which is not typical of core Vedic corpus. While accents were vanishing or losing regularity in the later yajus tradition, this sUkta has entirely descended into pseudo-accents. 
+
+This makes us suspect it was not originally a text of the yajus tradition at all, and the pseudo-accents were added onto text that was acquired without accents from a tradition external to it. The internal evidence of the sUkta suggests that it was likely from a lost AV text. 
+
+One candidate is the AV AraNyaka which was at least partly known down to the time of shaMkarAcharya. He cites the abhichArika incantation that opens it (though memory of that continues among atharvan-s and is deployed while opening certain abhichArika rites).
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(मृगशिरसि यथा दृश्यते)+++  
 यो ब्रह्मा **ब्रह्मण उज्जहार**  
-प्राणैः **शिरः** कृत्तिवासाः पिनाकी +++(आर्द्रा-स्थः)+++।  
+प्राणैः **शिरः** कृत्ति-वासाः पिनाकी +++(आर्द्रा-स्थः)+++।  
 ईशानो देवः स न आयुर् **दधातु**  
 तस्मै **जुहोमि** हविषा घृतेन ॥ १ ॥
 </details>
+
 <details><summary>मूलम्</summary>
 
 +++(मृगशिरसि यथा दृश्यते)+++  
@@ -22,6 +34,7 @@ title = "४१ 'यो ब्रह्मा ब्रह्मणः'"
 ईशानो देवः स न आयुर् **दधातु**  
 तस्मै **जुहोमि** हविषा घृतेन ॥ १ ॥
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(आर्द्रा-रूपेण)+++ **विभ्राजमानः** सरिरस्य+++(=सलिलस्य [आकाशगङ्गायाः])+++ मध्याद्  
@@ -29,6 +42,7 @@ title = "४१ 'यो ब्रह्मा ब्रह्मणः'"
 स मृत्यु-पाशान् **अपनुद्य** घोरान्  
 इहायुषेणो घृतम् **अत्तु** देवः ॥ २ ॥
 </details>
+
 <details><summary>मूलम्</summary>
 
 +++(आर्द्रा-रूपेण)+++ **विभ्राजमानः** सरिरस्य+++(=सलिलस्य [आकाशगङ्गायाः])+++ मध्याद्  
@@ -36,6 +50,7 @@ title = "४१ 'यो ब्रह्मा ब्रह्मणः'"
 स मृत्यु-पाशान् **अपनुद्य** घोरान्  
 इहायुषेणो घृतम् **अत्तु** देवः ॥ २ ॥
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रह्म-ज्योतिर् ब्रह्म-पत्नीषु गर्भं  
@@ -43,6 +58,7 @@ title = "४१ 'यो ब्रह्मा ब्रह्मणः'"
 सुवर्ण-रम्भ-ग्रहम् अर्कम् **अर्च्यं**  
 तम् आयुषे **वर्धयामो** घृतेन ॥ ३ ॥
 </details>
+
 <details><summary>मूलम्</summary>
 
 ब्रह्म ज्योतिर् ब्रह्म-पत्नीषु गर्भं  
@@ -51,6 +67,7 @@ title = "४१ 'यो ब्रह्मा ब्रह्मणः'"
 तमायुषे वर्धयामो घृतेन ॥ ३ ॥
 
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रियं लक्ष्मीम् औबलाम् अम्बिकां गां  
@@ -58,11 +75,13 @@ title = "४१ 'यो ब्रह्मा ब्रह्मणः'"
 तां विद्यां ब्रह्म-योनिँ सरूपाम्  
 इहायुषे **तर्पयामो** घृतेन ॥ ४ ॥
 </details>
+
 <details><summary>मूलम्</summary>
 
 श्रियं लक्ष्मी-मौबला-मम्बिकां गां षष्ठीं च यामिन्द्रसेनेत्युदाहुः ।  
 तां विद्यां ब्रह्मयोनिँ सरूपामिहायुषे तर्पयामो घृतेन ॥ ४ ॥
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दाक्षायण्यः सर्व-योन्यः स-योन्यः  
@@ -70,11 +89,13 @@ title = "४१ 'यो ब्रह्मा ब्रह्मणः'"
 स-सूनवः स-पतयः स-यूथ्या  
 आयुषेणो घृतम् इदं **जुषन्ताम्** ॥ ५ ॥
 </details>
+
 <details><summary>मूलम्</summary>
 
 दाक्षायण्यः सर्वयोन्यः सयोन्यः सहस्रशो विश्वरूपा विरूपाः ।  
 ससूनवः सपतयः सयूथ्या आयुषेणो घृतमिदं जुषन्ताम् ॥ ५ ॥
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिव्या गणा बहु-रूपाः पुराणा  
@@ -82,11 +103,13 @@ title = "४१ 'यो ब्रह्मा ब्रह्मणः'"
 तेभ्यो **जुहोमि** बहुधा घृतेन  
 **मा** नः प्रजाँ **रीरिषो** मोत वीरान् ॥ ६ ॥
 </details>
+
 <details><summary>मूलम्</summary>
 
 दिव्या गणा बहुरूपाः पुराणा आयुश्छिदो नः प्रमथ्नन्तु वीरान् ।  
 तेभ्यो जुहोमि बहुधा घृतेन मा नः प्रजाँ रीरिषो मोत वीरान् ॥ ६ ॥
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एकः पुरस्तात् य इदं **बभूव**  
@@ -94,11 +117,13 @@ title = "४१ 'यो ब्रह्मा ब्रह्मणः'"
 यम् अप्य् **एति** भुवनँ साम्पराये  
 स नो हविर् घृतम् इहायुषे **ऽत्तु** देवः ॥ ७ ॥
 </details>
+
 <details><summary>मूलम्</summary>
 
 एकः पुरस्तात् य इदं बभूव यतो बभूव भुवनस्य गोपाः ।  
 यमप्येति भुवनँ सा॑म्पराये स नो हविर्घृत-मिहायुषे॑त्तु देवः ॥ ७ ॥
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वसून् रुद्रान् आदित्यान् मरुतोऽथ साध्यान्  
@@ -106,6 +131,7 @@ title = "४१ 'यो ब्रह्मा ब्रह्मणः'"
 भृगून् सर्पाँश् चाङ्गिरसोऽथ सर्वान्  
 घृतँ **हुत्वा** स्वायुष्या **महयाम** शश्वत् ॥ ८ ॥
 </details>
+
 <details><summary>मूलम्</summary>
 
 वसून् रुद्रा-नादित्यान् मरुतोऽथ साध्यान् ऋभून् यक्षान् गन्धर्वाग्श्च  
@@ -121,6 +147,7 @@ title = "४१ 'यो ब्रह्मा ब्रह्मणः'"
 विष्णो॒ त्वन्नो॒ अन्त॑म॒श्शर्म॑ यच्छ सहन्त्य ।   
 प्र ते॒ धारा॑ मधु॒श्चुत॒ उत्स॑न्दुह्रते॒ अक्षि॑तम्॥
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 मन्त्रार्थस्तु - हे **विष्णो** यज्ञात्मन् सोम **त्वं नः** अस्माकं **अन्तिमः** अन्तिकतमः प्रत्यासन्नतमः । 'तमेतादेश्च' इति कलोपः । सः त्वमस्मभ्यं **शर्म** सुखं **यच्छ** देहि । हे **सहन्त्य** परेषामभिभवितः महाप्रभाव । सहतेरौणादिको झच् । सहन्ताः सोढारः, ततस्स्वार्थिको यः । सहन्त्य ते तव धाराः रसप्रवाहाः मधुश्चुतः मधुरं रसं क्षरन्त्यः **उत्सं** कूपभूतं **अक्षितं** अनुपक्षीणं सोमरसं प्रदुह्रते प्रकर्षेण दुहताम् । तेन यच्छुष्यति तदाप्यायितं भवति । दुहेश्छान्दसे लेटि 'बहुलं छन्दसि' इति रुडागमः ॥
@@ -134,6 +161,7 @@ title = "४१ 'यो ब्रह्मा ब्रह्मणः'"
 विष्णो॒ त्वन्नो॒ अन्त॑म॒श्शर्म॑ यच्छ सहन्त्य ।   
 प्र ते॒ धारा॑ मधु॒श्चुत॒ उत्स॑न्दुह्रते॒ अक्षि॑तम्॥
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 मन्त्रार्थस्तु - हे **विष्णो** यज्ञात्मन् सोम **त्वं नः** अस्माकं **अन्तिमः** अन्तिकतमः प्रत्यासन्नतमः । 'तमेतादेश्च' इति कलोपः । सः त्वमस्मभ्यं **शर्म** सुखं **यच्छ** देहि । हे **सहन्त्य** परेषामभिभवितः महाप्रभाव । सहतेरौणादिको झच् । सहन्ताः सोढारः, ततस्स्वार्थिको यः । सहन्त्य ते तव धाराः रसप्रवाहाः मधुश्चुतः मधुरं रसं क्षरन्त्यः **उत्सं** कूपभूतं **अक्षितं** अनुपक्षीणं सोमरसं प्रदुह्रते प्रकर्षेण दुहताम् । तेन यच्छुष्यति तदाप्यायितं भवति । दुहेश्छान्दसे लेटि 'बहुलं छन्दसि' इति रुडागमः ॥

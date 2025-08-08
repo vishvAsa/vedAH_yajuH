@@ -7,9 +7,6 @@ author: muddu śroutigal
 publisher: rāja veda kāvya pāṭhaśālā (kumbakonam)  
 script: grantha
 
-
-
-
 ## शान्तिकालः
 
 आदौ शान्तिकाल उच्यते। जन्मनक्षत्रे पुण्यनक्षत्रे विवाहचौलोपनयनसमावर्तन-सीमन्तेषु अन्येषु मङ्गलकार्येषु ग्रहोपरागे ग्रहोत्पाते द्विपात्सु चतुष्पात्सु भयोत्पन्ने दुस्वप्ने भयङ्करे च उदकशान्तिं कुर्यात्॥
@@ -26,8 +23,6 @@ script: grantha
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="../upAngam/gaNapati-pUjA/">
 <details open><summary><h5>गणपति-पूजा ...{Loading}...</h5></summary>
-
-
 
 source: āśvalāyana pūrvāpara prayoga  
 author: muddu śroutigal  
@@ -81,7 +76,6 @@ script: grantha
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="../upAngam/kumbha-kAryam/">
 <details open><summary><h5>कुम्भ-कार्यम् ...{Loading}...</h5></summary>
 
-
 शुचौ समे देशे गोमयेन गोचर्ममात्रं चतुरश्रं स्थण्डिलमुपलिप्य, सैकतवद्द्रोणपरिमित-व्रीहिभिः स्थण्डिलं कृत्वा, तदुपरि तण्डुलराशिं निक्षिप्य,
 
 ###### उल्लेखनम्
@@ -106,14 +100,12 @@ script: grantha
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/031/04_A_pyAyasva.md">
 <details open><summary><h9>०४ आ प्यायस्व ...{Loading}...</h9></summary>
 
-
-**आ प्या॑यस्व॒ समे॑तु** ते  
-वि॒श्वतः॑ सोम॒ वृष्ण्य॑म् ।  
-**भवा॒** वाज॑स्य **सङ्ग॒थे**+++(=संगमने)+++ ॥
+**आ᳓ प्यायस्व स᳓मेतु** ते  
+विश्व᳓तः सोम वृ᳓ष्ण्यम् ।  
+**भ᳓वा** वा᳓जस्य **सङ्गथे᳓**+++(=संगमने)+++ ॥
 
 </details>
 </div>  
-
 
 (आ प्या॑यस्व - समे॑तु ते - वि॒श्वतः॑ - सो॒म॒ - वृ॒ष्णि॑यम्।  
 भवा॒ वाज॑स्य - स॒ङ्ग॒थे॥)
@@ -196,7 +188,6 @@ script: grantha
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="../upAngam/varuNa-pUjA/">
 <details open><summary><h5>वरुण-पूजा ...{Loading}...</h5></summary>
 
-
 इ॒मं मे॑ वरुण श्रुधी॒ हव॑म॒द्या च॑ मृडय। त्वाम॑व॒स्युराच॑के॥
 
 तत्त्वा॑यामि॒ ब्रह्म॑णा॒ वन्द॑मान॒स्तदाशा॑स्ते॒ यज॑मानो ह॒विर्भिः॑।  
@@ -212,8 +203,6 @@ script: grantha
 धूपं, दीपं, नैवेद्यं, गुडोपहारं निवेदयामि। ताम्बूलं, मन्त्रपुष्पं, सुवर्णपुष्पम्। एवं षोडशोपचारान् कृत्वा।
 </details>
 </div>
-
-
 
 ## उदकशान्तिजपः
 उदकशान्तिजपकर्मणि ऋत्विजं त्वां वृणे। इत्यृत्विजो वृत्वा, (उदकशान्तिजपं कुरुध्वम्)
