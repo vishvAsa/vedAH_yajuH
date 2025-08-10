@@ -4,35 +4,35 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 +++
 
 ## वैश्वदेवम्
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/05_om_agnaye.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/05_om_agnaye.md">
 <details open><summary><h2>०५ ओम् अग्नये ...{Loading}...</h2></summary>
 
 - ओम्+++(इत्यनुज्ञाक्षरं)+++ अ॒ग्नये॒ स्वाहा॑+++(हविःप्रदानार्थः)+++।  
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/06_somAya_svAhA.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/06_somAya_svAhA.md">
 <details open><summary><h2>०६ सोमाय स्वाहा ...{Loading}...</h2></summary>
 
 - सोमा॑य॒ स्वाहा॑।+++(कैश्चिन्नोच्यते मन्त्रः।)+++  
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/07_vishvebhyo_devebhyas.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/07_vishvebhyo_devebhyas.md">
 <details open><summary><h2>०७ विश्वेभ्यो देवेभ्यस् ...{Loading}...</h2></summary>
 
 - विश्वे॑भ्यो दे॒वेभ्य॒स् स्वाहा॑।  
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/08_dhruvAya_bhUmAya.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/08_dhruvAya_bhUmAya.md">
 <details open><summary><h2>०८ ध्रुवाय भूमाय ...{Loading}...</h2></summary>
 
 - +++(खे)+++ ध्रु॒वाय॑ भू॒माय॑+++(=भूम्ने)+++ स्वाहा॑।  
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/09_dhruvaxitaye_svAhA.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/09_dhruvaxitaye_svAhA.md">
 <details open><summary><h2>०९ ध्रुवक्षितये स्वाहा ...{Loading}...</h2></summary>
 
 ध्रु॒व॒-क्षित॑ये॒+++(←स्वरः??)+++ +++(खे)+++ स्वाहा॑।  
@@ -40,21 +40,21 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/10_achyutaxitaye_svAhA.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/10_achyutaxitaye_svAhA.md">
 <details open><summary><h2>१० अच्युतक्षितये स्वाहा ...{Loading}...</h2></summary>
 
 अ॒च्यु॒त॒-क्षित॑ये॒+++(←स्वरः??)+++  स्वाहा॑।  
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/11_agnaye_sviShTakRte.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/11_agnaye_sviShTakRte.md">
 <details open><summary><h2>११ अग्नये स्विष्टकृते ...{Loading}...</h2></summary>
 
 - अ॒ग्नये॑ स्विष्ट॒कृते॑ स्वाहा॑।+++(=रुद्रोऽग्निस्स्विष्टकृत्)+++  
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/13_dharmAya_svAhA.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/13_dharmAya_svAhA.md">
 <details open><summary><h2>१३ धर्माय स्वाहा ...{Loading}...</h2></summary>
 
 - धर्मा॑य स्वाहा॑ । अध॑र्माय स्वाहा॑। +++(अपरेणाग्निं सप्तमाष्टमाभ्यामुदगपवर्गम् २०)+++  
@@ -62,21 +62,21 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/14_oShadhivanaspatibhyas_svAhA.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/14_oShadhivanaspatibhyas_svAhA.md">
 <details open><summary><h2>१४ ओषधिवनस्पतिभ्यस् स्वाहा ...{Loading}...</h2></summary>
 
 - ओ॒ष॒धि॒व॒न॒स्प॒तिभ्य॒स् स्वाहा॑। र॒क्षो॒दे॒व॒ज॒नेभ्य॒स् स्वाहा॑ । +++(मध्येऽगारस्य दशमैकादशाभ्यां प्रागपवर्गम् २२)+++  
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/15_gRhyabhyas_svAhA.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/15_gRhyabhyas_svAhA.md">
 <details open><summary><h2>१५ गृह्यभ्यस् स्वाहा ...{Loading}...</h2></summary>
 
 - +++(वास्तुविद्याप्रसिद्धेभ्यः)+++ गृह्या॑भ्य॒स् स्वाहा॑। अ॒व॒साने॑भ्यस्+++(=सीमाभ्यः)+++ स्वाहा॑ । अ॒व॒सान॑पतिभ्य॒स् स्वाहा॑ । स॒र्व॒भू॒तेभ्य॒स् स्वाहा॑ । +++(उत्तरपूर्वदेशेऽगारस्योत्तरैश्चतुर्भिः २३)+++  
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/16_kAmaya_svAhA.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/16_kAmaya_svAhA.md">
 <details open><summary><h2>१६ कामय स्वाहा ...{Loading}...</h2></summary>
 
 - काम॑य॒ स्वाहा॑ । +++(शय्यादेशे कामलिङ्गेन)+++  
@@ -84,14 +84,14 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/17_yadejati_jagati.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/17_yadejati_jagati.md">
 <details open><summary><h2>१७ यदेजति जगति ...{Loading}...</h2></summary>
 
 - यद् एज॑ति+++(=कम्पते)+++ जग॑ति यच् च॒ चेष्ट॑ति, नाम्नो॑ भा॒गो ऽयं, नाम्ने॒ स्वाहा॑। +++(उत्तरेणापिधान्याम् (अर्गले)३)+++  
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/18_pRthivyai_svAhA.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/18_pRthivyai_svAhA.md">
 <details open><summary><h2>१८ पृथिव्यै स्वाहा ...{Loading}...</h2></summary>
 
 +++(उत्तरैर्ब्रह्मसदने)+++  
@@ -101,21 +101,21 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/19_svadhA_pitRbhyas.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/19_svadhA_pitRbhyas.md">
 <details open><summary><h2>१९ स्वधा पितृभ्यस् ...{Loading}...</h2></summary>
 
 - स्व॒धा पि॒तृभ्य॒स् स्वाहा॑। +++( दक्षिणतः पितृलिङ्गेन प्राचीनावीत्य् अवाचीन-पाणिः कुर्यात् ५)+++  
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/20_namo_rudrAya.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/20_namo_rudrAya.md">
 <details open><summary><h2>२० नमो रुद्राय ...{Loading}...</h2></summary>
 
 - नमो॑ रु॒द्राय॑ पशु॒पत॑ये॒ स्वाहा॑। +++(रौद्र उत्तरो यथा देवताभ्यः ६ तयोर् नाना परिषेचनं धर्म-भेदात् ७)+++  
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/21_ye_bhUtAH.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/21_ye_bhUtAH.md">
 <details open><summary><h2>२१ ये भूताः ...{Loading}...</h2></summary>
 
 - ये भू॒ताः प्र॒चर॑न्ति दिवा॒ /नक्तं॒  
@@ -128,7 +128,7 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 
 ## समारोपणावारोपणे
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/8/19_ayante_yonir.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/8/19_ayante_yonir.md">
 <details open><summary><h5>19 अयन्ते योनिर् ...{Loading}...</h5></summary>
 
 अ॒यन् ते॒ **योनि॑र्** ऋ॒त्वियः॑ ।  
@@ -138,7 +138,7 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/8/21_upAvaroha_jAtavedapH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/8/21_upAvaroha_jAtavedapH.md">
 <details open><summary><h5>21 उपावरोह जातवेदᳶ ...{Loading}...</h5></summary>
 
 उ॒पाव॑रोह जातवेद॒ᳶ पुन॒स् त्वम् ॥41॥  
@@ -148,7 +148,7 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/6/05_chityAm_agni-sthApanAdi-mAruta-homAntam/07_AjuhvAnas_supratIkapH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/6/05_chityAm_agni-sthApanAdi-mAruta-homAntam/07_AjuhvAnas_supratIkapH.md">
 <details open><summary><h5>07 आजुह्वानस् सुप्रतीकᳶ ...{Loading}...</h5></summary>
 
 **आ॒जुह्वा॑नस्**+++(=हूयमानः)+++ सु॒-प्रती॑कᳶ पु॒रस्ता॒द्  
@@ -157,7 +157,7 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 विश्वे॑ देवाः॒! यज॑मानश् च **सीदत** ।
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/45_udbudhyasvAgne_prati.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/45_udbudhyasvAgne_prati.md">
 <details open><summary><h5>45 उद्बुध्यस्वाग्ने प्रति ...{Loading}...</h5></summary>
 
 **उद्बु॑ध्यस्वाग्ने॒** प्रति॑ जागृह्य्  
@@ -169,16 +169,16 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 
 ## जयादिः
 ### जयाः
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/4/04_jayahomamantrAH_tatprashaMsA_cha/chittaM_cha_chittish_cha.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/4/04_jayahomamantrAH_tatprashaMsA_cha/chittaM_cha_chittish_cha.md">
 <details open><summary><h5>चि॒त्तं च॒ ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-चि॒त्तं च॒ [स्वाहा॑]। चित्ति॒श् च॒ [स्वाहा॑]।  
-आकू॑तं॒ च॒ [स्वाहा॑]।  आकू॑तिश् च॒ [स्वाहा॑]।  
-विज्ञा॑तं च॒ [स्वाहा॑]।  वि॒ज्ञानं॑ च॒ [स्वाहा॑]।  
-मन॑श् च॒ [स्वाहा॑]। शक्व॑रीश् च॒ [स्वाहा॑]।  
-दर्श॑श् च॒ [स्वाहा॑]। पू॒र्णमा॑सश् च॒ [स्वाहा॑]।  
-बृ॒हच् च॒ [स्वाहा॑]।  र॒थ॒न्त॒रं च॒ [स्वाहा॑]।
+चित्तं᳓ च [स्वा᳓हा]। चि᳓त्तिश् च [स्वा᳓हा]।  
+आ᳓कूतं च [स्वा᳓हा]।  आ᳓कूतिश् च [स्वा᳓हा]।  
+वि᳓ज्ञातं च [स्वा᳓हा]।  विज्ञा᳓नं च [स्वा᳓हा]।  
+म᳓नश् च [स्वा᳓हा]। श᳓क्वरीश् च [स्वा᳓हा]।  
+द᳓र्शश् च [स्वा᳓हा]। पूर्ण᳓मासश् च [स्वा᳓हा]।  
+बृह᳓च् च [स्वा᳓हा]।  रथन्तरं᳓ च [स्वा᳓हा]।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -210,71 +210,77 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/4/04_jayahomamantrAH_tatprashaMsA_cha/02_prajApatir_jayAn.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/4/04_jayahomamantrAH_tatprashaMsA_cha/02_prajApatir_jayAn.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-प्र॒जाप॑ति॒र् जया॒न् इन्द्रा॑य॒ वृष्णे॒  
-प्राय॑च्छद् उ॒ग्रᳶ पृ॑त॒नाज्ये॑षु॒।  
-तस्मै॒ विश॒स् सम॑नमन्त॒ सर्वा॒स्  
-स उ॒ग्रस् स हि हव्यो॑ ब॒भूव॑॥  
-[स्वाहा॑॥]
+प्रजा᳓पतिर् ज᳓यान् इ᳓न्द्राय वृ᳓ष्णे  
+प्रा᳓यच्छद् उग्रᳶ᳓ पृतना᳓ज्येषु।  
+त᳓स्मै वि᳓शस् स᳓मनमन्त स᳓र्वास्  
+स᳓ उग्र᳓स् स᳓ हि᳓ ह᳓व्यो बभू᳓व॥  
+[स्वा᳓हा॥]
 </details>
+
 </div>
 
-### अभ्यातानाः
-अ॒ग्निर्भू॒ताना॒म् [अधि॑पतिः॒ स मा॑व॒तु, अ॒स्मिन्ब्रह्म॑न्न् +++(अ॒स्मिन्ब्रह्म॑ण्य् इत्यथर्ववेदे)+++ अ॒स्मिन्क्ष॒त्रे॑ ऽस्यामा॒शिष्य॒स्याम्पु॑रो॒धाया॑म् अ॒स्मिन्कर्म॑न्न॒स्यां दे॒वहू॑त्याम् [स्वाहा]]…।
+<details open><summary>विश्वास-प्रस्तुतिः - सङ्क्षेपः</summary>
 
-इन्द्रो॑ ज्ये॒ष्ठाना॑म् ……। य॒मः पृ॑थि॒व्या…। वा॒युर् अ॒न्तरि॑क्षस्य॒…।  
-सूर्यो॑ दि॒वः…। च॒न्द्रमा॒ नक्ष॑त्राणा॒म्…। बृह॒स्पति॒र् ब्रह्म॑णः…।  
-मि॒त्रः स॒त्याना॒म्…। वरु॑णो॒ऽपा॑म्…। स॒मु॒द्रः स्रो॒त्याना॒म्…।  
-अन्नँ॒ साम्रा॑ज्याना॒म् अधि॑पति॒, तन् मा॑वतु॒…।  
-सोम॒ ओष॑धीनाम्…। स॒वि॒ता प्र॑स॒वानाम्…।  
-रु॒द्रः प॑शू॒नाम्…। त्वष्टा॑ रू॒पाणाम्…। विष्णुः॒ पर्व॑तानाम्…। म॒रुतो॑ ग॒णाना॒म् अधि॑पतय॒स् ते मा॑वन्तु॒…।  
-पित॑रः पितामहाः परेऽवरे॒ ततास् ततामहा इ॒ह मा॑वत …। …।…।  
+अग्नि᳓र्भूता᳓नाम् [अ᳓धिपतिः स᳓ माऽवतु, अस्मि᳓न्ब्र᳓ह्मन्न् +++(अस्मिन्ब्रह्मण्य् इत्यथर्ववेदे)+++᳓ अस्मि᳓न्क्षत्रे᳙ ऽस्यामाशि᳓ष्यस्या᳓म्पुरोधा᳓याम् अस्मि᳓न्क᳓र्मन्नस्यां᳓ देव᳓हूत्याम् [स्वा᳓हा᳓]]…।
 
-### राष्ट्रभृतः
-ऋ॒ता॒षाड् +++(=ऋतेन शाततीति)+++ ऋ॒तधा॑मा॒ ऽग्निर् ग॑न्ध॒र्वः।  
-तस्यौष॑धयोऽप्स॒रस॒ ऊर्जो॒ नाम॑। ता इ॒दं ब्रह्म॑ क्ष॒त्रं पा॑न्तु।  
-स इ॒दं ब्रह्म॑ क्ष॒त्रं पा॑तु। तस्मै॒ स्वाहा॒ । ताभ्यः॒ स्वाहा॑ ।
+इ᳓न्द्रो ज्येष्ठा᳓नाम् ……। यमः᳓ पृथिव्या᳓…। वायु᳓र् अन्त᳓रिक्षस्य…।  
+सू᳓र्यो दिवः᳓…। चन्द्र᳓मा न᳓क्षत्राणाम्…। बृ᳓हस्प᳓तिर् ब्र᳓ह्मणः…।  
+मित्रः᳓ सत्या᳓नाम्…। व᳓रुणोऽपा᳙म्…। समुद्रः᳓ स्रोत्या᳓नाम्…।  
+अ᳓न्नँ सा᳓म्राज्यानाम् अ᳓धिपति, त᳓न् माऽवतु…।  
+सो᳓म ओ᳓षधीनाम्…। सविता᳓ प्रसवा᳓ना᳓म्…।  
+रुद्रः᳓ पशूना᳓म्…। त्व᳓ष्टा रूपा᳓णा᳓म्…। वि᳓ष्णुः प᳓र्वतानाम्…। मरु᳓तो गणा᳓नाम् अ᳓धिपतयस् ते᳓ मावन्तु…।  
+पि᳓तरः पितामहाः परेऽवरे त᳓ता᳓स् त᳓ता᳓म᳓हा᳓ इह᳓ मावत …। …।…।
+</details>
 
-सँ॒हि॒तो वि॒श्वसा॑मा॒ +++(=विश्वानि सामान्यवसितान्यस्मिन्)+++ सूर्यो॑ ग॑न्ध॒र्वः ।    
-तस्य॒ मरी॑चयोऽप्स॒रस॒ आ॒युवो॒ नाम॑ । … ।
 
-सु॒षु॒म्नः+++(=सुखम्)+++ सूर्य॑रश्मिश् च॒न्द्रमा॑ ग॑न्ध॒र्वः ।   
-तस्य॒ नक्ष॑त्राण्य् अप्स॒रसो॑ बे॒कुर॑यो॒+++(=चित्तविकारहेतवः)+++ नाम॑ । … ।
+<details open><summary>विश्वास-प्रस्तुतिः - सङ्क्षेपः</summary>
 
-भु॒ज्युस् +++(=पालयिता, यो भुनक्ति)+++ सु॑प॒र्णो य॒ज्ञो ग॑न्ध॒र्वः ।    
-तस्य॒ दक्षि॑णा अप्स॒रस॑स् स्त॒वा नाम॑ । … ।
+ऋताषा᳓ड् +++(=ऋतेन शाततीति)+++ ऋत᳓धामा ऽग्नि᳓र् गन्धर्वः᳓।  
+त᳓स्यौ᳓षधयोऽप्सर᳓स ऊ᳓र्जो ना᳓म। स᳓ इदं᳓ ब्र᳓ह्म क्षत्रं᳓ पातु। ता᳓ इदं᳓ ब्र᳓ह्म क्षत्रं᳓ पान्तु।  
+त᳓स्मै स्वा᳓हा । ता᳓भ्यः स्वा᳓हा ।
 
-प्र॒जाप॑तिर्वि॒श्वक॑र्मा॒ मनो॑ गन्ध॒र्वः ।   
-तस्य॑र्क्सा॒मान्य् अप्स॒रसो॒ वह्न॑यो॒ +++(सौन्दर्यं वहन्तीति)+++ नाम॑ । … ।
+सँहितो᳓ विश्व᳓सामा +++(=विश्वानि सामान्यवसितान्यस्मिन्)+++ सू᳓र्यो गन्धर्वः᳓ ।    
+त᳓स्य म᳓रीचयोऽप्सर᳓स आयु᳓वो ना᳓म । … ।
 
-इ॒षि॒रो +++(इष्यमानवस्तुवत्त्वात्)+++ वि॒श्वव्य॑चा॒ +++(विश्वं वियातीति)+++ वातो॑ ग॑न्ध॒र्वः ।   
-तस्यापो॑ऽप्स॒रसो॑ मु॒दा नाम॑ । … ।
+सुषुम्नः᳓+++(=सुखम्)+++ सू᳓र्यरश्मिश् चन्द्र᳓मा गन्धर्वः᳓ ।   
+त᳓स्य न᳓क्षत्राण्य् अप्सर᳓सो बेकु᳓रयो+++(=चित्तविकारहेतवः)+++ ना᳓म । … ।
 
-भुव॑नस्य-पते॒ यस्य॑ त उ॒परि॑ गृ॒हा इ॒ह च॑ ।
-स नो॑ रा॒स्व+++(=देहि)+++ +आज्या॑निँ+++(=दीर्घायुः)+++ रा॒यस्पोषाँ॑  
-सु॒वीर्यँ॑ संवत्स॒रीणाँ॑ स्व॒स्तिँ स्वाहा॑ ।
+भुज्यु᳓स् +++(=पालयिता, यो भुनक्ति)+++ सुपर्णो᳓ यज्ञो᳓ गन्धर्वः᳓ ।    
+त᳓स्य द᳓क्षिणा अप्सर᳓सस् स्तवा᳓ ना᳓म । … ।
 
-प॒र॒मे॒ष्ठ्य् +++(=परमस्थानो)+++ अधि॑पतिर् मृ॒त्युर् ग॑न्ध॒र्वः ।   
-तस्य॒ विश्व॑म् अप्स॒रसो॒ भुवो॒ नाम॑ । … ।
+प्रजा᳓पतिर्विश्व᳓कर्मा म᳓नो गन्धर्वः᳓ ।   
+त᳓स्यर्क्सामा᳓न्य् अ᳓प्सर᳓सो व᳓ह्नयो +++(सौन्दर्यं वहन्तीति)+++ ना᳓म । … ।
 
-सु॒क्षि॒तिस् सुभू॑तिर् भद्र॒कृत् सुव॑र्वान् प॒र्जन्यो॑ ग॑न्ध॒र्वः ।   
-तस्य॒ वि॒द्युतो॑ऽप्स॒रसो॒ रुचो॒  नाम॑ । … ।
+इषिरो᳓ +++(इष्यमानवस्तुवत्त्वात्)+++ विश्व᳓व्यचा +++(विश्वं वियातीति)+++ वा᳓तो गन्धर्वः᳓ ।   
+त᳓स्या᳓पोऽप्सर᳓सो मुदा᳓ ना᳓म । … ।
 
-दू॒रेहे॑तिर् अमृड॒यो मृ॒त्युर् ग॑न्ध॒र्वः ।   
-तस्य॒ प्र॒जा अ॑प्स॒रसो॒ भी॒रुवो॒ नाम॑ । … ।
+भु᳓वनस्य-पते य᳓स्य त उप᳓रि गृहा᳓ इह᳓ च ।
+स᳓ नो रास्व᳓+++(=देहि)+++ +आ᳓ज्यानिँ+++(=दीर्घायुः)+++ राय᳓स्पो᳓षाँ  
+सुवी᳓र्यँ संवत्सरी᳓णाँ स्वस्तिँ᳓ स्वा᳓हा ।
 
-चारुः॑ कृपणका॒शी +++(कृपणेषु मनो दीपयतीति)+++ कामो॑ ग॑न्ध॒र्वः ।  
-तस्या॒धयो॑ +++(=चित्तक्लेशाधिदेवताः)+++ ऽप्स॒रस॑श् शो॒चय॑ती॒र् नाम॑ । … ।
+परमेष्ठ्य् +++(=परमस्थानो)+++ अ᳓धिपतिर् मृत्यु᳓र् गन्धर्वः᳓ ।   
+त᳓स्य वि᳓श्वम् अप्सर᳓सो भु᳓वो ना᳓म । … ।
 
-स नो॑ भुवनस्य-पते॒ यस्य॑ त उ॒परि॑ गृ॒हा इ॒ह च॑।  
-उ॒रु+++(=विपुल)+++ब्रह्म॑णे॒ ऽस्मै क्ष॒त्राय॒  
-महि॒+++(=महत्)+++ शर्म॑ यच्छ॒ स्वाहा॑ ॥
+सुक्षिति᳓स् सु᳓भूतिर् भद्रकृ᳓त् सु᳓वर्वान् पर्ज᳓न्यो गन्धर्वः᳓ ।   
+त᳓स्य विद्यु᳓तोऽप्सर᳓सो रु᳓चो  ना᳓म । … ।
+
+दूरे᳓हेतिर् अमृडयो᳓ मृत्यु᳓र् गन्धर्वः᳓ ।   
+त᳓स्य प्रजा᳓ अप्सर᳓सो भीरु᳓वो ना᳓म । … ।
+
+चा᳓रुः कृपणकाशी᳓ +++(कृपणेषु मनो दीपयतीति)+++ का᳓मो गन्धर्वः᳓ ।  
+त᳓स्याध᳓यो +++(=चित्तक्लेशाधिदेवताः)+++ ऽप्सर᳓सश् शोच᳓यतीर् ना᳓म । … ।
+
+स᳓ नो भुवनस्य-पते य᳓स्य त उप᳓रि गृहा᳓ इह᳓ च।  
+उरु᳓+++(=विपुल)+++ब्र᳓ह्मणे ऽस्मै᳓ क्षत्रा᳓य  
+म᳓हि+++(=महत्)+++ श᳓र्म यच्छ स्वा᳓हा ॥
+</details>
 
 ## प्राजापत्यादि
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/121/10_prajApate_na.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/121/10_prajApate_na.md">
 <details open><summary><h2>१० प्रजापते न ...{Loading}...</h2></summary>
 
 प्र᳓जापते न᳓ त्व᳓द् +++(विश्वा जातानि→)+++ एता᳓न्य् अन्यो᳓  
@@ -283,18 +289,18 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 वयँ᳓ **स्याम** प᳓तयो रयीणा᳓म्॥
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/baudhAyanaH/gRhyam/mantraH/yajuH/sarva-prastutiH/vyAhRti-homAH_3.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/baudhAyanaH/gRhyam/mantraH/yajuH/sarva-prastutiH/vyAhRti-homAH_3.md">
 <details open><summary><h5>व्याहृति-होमाः ४ ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-(ओं) भूस्स्वाहा॑ ॥
-(अ॒ग्नय॑ +इ॒दं न म॑म)
+(ओं᳓) भू᳓स्स्वा᳓हा ॥
+(अग्न᳓य +इदं᳓ न᳓ मम)
 
-(ओं) भुव॒स्स्वाहा॑ ॥
-(वा॒यव॑ +इ॒दं न म॑म)
+(ओं) भुवस्स्वा᳓हा ॥
+(वाय᳓व +इदं᳓ न᳓ मम)
 
-(ओं) सुव॒स्स्वाहा॑ ॥  
-(सूर्या॑य +इ॒दं न म॑म)
+(ओं) सुवस्स्वा᳓हा ॥  
+(सू᳓र्याय +इदं᳓ न᳓ मम)
 </details>
 
 <details><summary>मूलम्</summary>
@@ -310,15 +316,15 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/yad_asya_karmaNaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/yad_asya_karmaNaH.md">
 <details open><summary><h5>Yad asya karmaNaH ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् अ॑स्य॒ कर्म॒णो ऽत्यरी॑रिचं॒  
-यद् वा॒ न्यू॑नम् इ॒हाक॑रम् ।  
-अ॒ग्निष् टत् स्वि॑ष्ट॒कृद् वि॒द्वान्थ्  
-सर्वँ॒ स्वि॑ष्टँ॒ सुहु॑तं करोतु॒  
-स्वाहा॑ ।
+य᳓द् अस्य क᳓र्मणो᳓ ऽत्य᳓रीरिचं  
+य᳓द् वा न्यू᳙नम् इहा᳓करम् ।  
+अग्नि᳓ष् ट᳓त् स्विष्टकृ᳓द् विद्वा᳓न्थ्  
+स᳓र्वँ स्वि᳙ष्टँ सु᳓हुतं करोतु  
+स्वा᳓हा ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -328,7 +334,7 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/35_anAjnAtay.NyadAjnAtam_yajnasya.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/35_anAjnAtay.NyadAjnAtam_yajnasya.md">
 <details open><summary><h4>35 अनाज्ञातय्ँयदाज्ञातम् यज्ञस्य ...{Loading}...</h4></summary>
 
 अना॑ज्ञात॒य्ँयदाज्ञा॑तम् ।  
@@ -337,7 +343,7 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 त्वँ हि वेत्थ॑ यथात॒थम् ।
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/38_puruShasammito_yajnaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/38_puruShasammito_yajnaH.md">
 <details open><summary><h4>38 पुरुषसम्मितो यज्ञः ...{Loading}...</h4></summary>
 
 पुरु॑षसम्मितो य॒ज्ञः ।  
@@ -346,7 +352,7 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 त्वँ हि वेत्थ॑ यथात॒थम् ।
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/41_yatpAkatrA_manasA.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/41_yatpAkatrA_manasA.md">
 <details open><summary><h4>41 यत्पाकत्रा मनसा ...{Loading}...</h4></summary>
 
 यत्पा॑क॒त्रा मन॑सा दी॒नद॑क्षा॒ न ।  
@@ -355,7 +361,7 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 यजि॑ष्ठो दे॒वाँ ऋ॑तु॒शो य॑जाति ॥115॥
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/001/04_tvaM_no.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/001/04_tvaM_no.md">
 <details open><summary><h2>०४ त्वं नो ...{Loading}...</h2></summary>
 
 त्व᳓न् नो अग्ने व᳓रुणस्य विद्वा᳓न्  
@@ -366,7 +372,7 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 +++(अग्नीवरुणाभ्याम् इदं न मम)+++
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/001/05_sa_tvaM.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/001/05_sa_tvaM.md">
 <details open><summary><h2>०५ स त्वं ...{Loading}...</h2></summary>
 
 स᳓ त्व᳓न् नो अग्ने ऽवमो᳓+++(=मूलभूतो)+++ **भव**+ऊती᳓+++(त्या)+++  
@@ -378,7 +384,7 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 +++(अग्नीवरुणाभ्याम् इदं न मम)+++
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/18_ayAshchAgne-syanabhishastIshcha_satyamittvamayA.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/18_ayAshchAgne-syanabhishastIshcha_satyamittvamayA.md">
 <details open><summary><h2>१८ अयाश्चाग्नेऽस्यनभिशस्तीश्च सत्यमित्त्वमया ...{Loading}...</h2></summary>
 
 अ॒याश्+++(=एतुम् योग्यः, गमनशीलो वा)+++ चा॒ग्ने ऽस्य् अ॑नभिश॒स्तीश्च॑+++(=अनवद्यः)+++  
@@ -392,7 +398,7 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 
 ## वसोर्धारादि
 
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/4/7/03_vasordhArA_shaM_cha_me/">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/4/7/03_vasordhArA_shaM_cha_me/">
 <details open><summary><h4>०३ वसोर्धारा होममन्त्राः ...{Loading}...</h4></summary>
 
 अग्निर्ऋषिः
@@ -413,7 +419,7 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शञ्च॑ मे॒ मय॑श्च मे 
+श᳓ञ्च मे म᳓यश्च मे 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -429,7 +435,7 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रि॒यञ्च॑ मेऽनुका॒मश्च॑ मे॒  
+प्रिय᳓ञ्च मेऽनुकाम᳓श्च मे  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -446,7 +452,7 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-काम॑श्च मे सौमन॒सश्च॑ मे  
+का᳓मश्च मे सौमनस᳓श्च मे  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -462,7 +468,7 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भ॒द्रञ्च॑ मे॒ श्रेय॑श्च मे॒
+भद्र᳓ञ्च मे श्रे᳓यश्च मे
 </details>
 
 <details><summary>मूलम्</summary>
@@ -478,7 +484,7 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वस्य॑श्च मे॒ यश॑श्च मे॒
+व᳓स्यश्च मे य᳓शश्च मे
 </details>
 
 <details><summary>मूलम्</summary>
@@ -494,7 +500,7 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भग॑श्च मे॒ द्रवि॑णञ्च मे
+भ᳓गश्च मे द्र᳓विणञ्च मे
 </details>
 
 <details><summary>मूलम्</summary>
@@ -510,7 +516,7 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य॒न्ता च॑ मे ध॒र्ता च॑ मे॒
+यन्ता᳓ च मे धर्ता᳓ च मे
 </details>
 
 <details><summary>मूलम्</summary>
@@ -526,7 +532,7 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-क्षेम॑श्च मे॒ धृति॑श्च मे॒
+क्षे᳓मश्च मे धृ᳓तिश्च मे
 </details>
 
 <details><summary>मूलम्</summary>
@@ -543,7 +549,7 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विश्व॑ञ्च [5] मे॒ मह॑श्च मे
+वि᳓श्वञ्च [5] मे म᳓हश्च मे
 </details>
 
 <details><summary>मूलम्</summary>
@@ -559,7 +565,7 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒व्ँविच्च॑ मे॒ ज्ञात्र॑ञ्च मे॒
+सव्ँवि᳓च्च मे ज्ञा᳓त्रञ्च मे
 </details>
 
 <details><summary>मूलम्</summary>
@@ -576,7 +582,7 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सूश्च॑ मे प्र॒सूश्च॑ मे॒
+सू᳓श्च मे प्रसू᳓श्च मे
 </details>
 
 <details><summary>मूलम्</summary>
@@ -592,7 +598,7 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सीर॑ञ्च मे ल॒यश्च॑ म+
+सी᳓रञ्च मे लय᳓श्च म+
 </details>
 
 <details><summary>मूलम्</summary>
@@ -608,7 +614,7 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऋ॒तञ्च॑ मे॒ऽमृत॑ञ्च मे
+ऋत᳓ञ्च मेऽमृ᳓तञ्च मे
 </details>
 
 <details><summary>मूलम्</summary>
@@ -624,7 +630,7 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+ऽय॒क्ष्मञ्च॒ मेऽना॑मयच्च मे 
++ऽयक्ष्म᳓ञ्च मे᳓ऽनामयच्च मे 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -640,7 +646,7 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-जी॒वातु॑श्च मे दीर्घायु॒त्वञ्च॑ मे
+जीवा᳓तुश्च मे दीर्घायुत्व᳓ञ्च मे
 </details>
 
 <details><summary>मूलम्</summary>
@@ -656,7 +662,7 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+ऽनमि॒त्रञ्च॒ मेऽभ॑यञ्च मे
++ऽन᳓मित्र᳓ञ्च मे᳓ऽभयञ्च मे
 </details>
 
 <details><summary>मूलम्</summary>
@@ -672,7 +678,7 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सु॒गञ्च॑ मे॒ शय॑नञ्च मे
+सुग᳓ञ्च मे श᳓यनञ्च मे
 </details>
 
 <details><summary>मूलम्</summary>
@@ -688,7 +694,7 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सू॒षा च॑ मे सु॒दिन॑ञ्च मे
+सूषा᳓ च मे सुदि᳓नञ्च मे
 </details>
 
 <details><summary>मूलम्</summary>
@@ -706,7 +712,7 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/03_upasthAnam/02_sapta_te.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/03_upasthAnam/02_sapta_te.md">
 <details open><summary><h4>02 सप्त ते ...{Loading}...</h4></summary>
 
 स॒प्त ते॑ अग्ने स॒मिध॑स्, स॒प्त जि॒ह्वास्  
@@ -717,7 +723,7 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 </div>
 
 ## रक्षा
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/07_mA_nas.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/07_mA_nas.md">
 <details open><summary><h5>07 मा नस् ...{Loading}...</h5></summary>
 
 मा न॑स् तो॒के+++(=अपत्यमात्रे)+++ तन॑ये॒ मा न॒ आयु॑षि॒  

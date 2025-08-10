@@ -621,7 +621,7 @@ unicode_script: devanagari
 ### शिरः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त᳓देनम् अ᳓न्ववर्तत । मि᳓त्रद्रुगि᳓ति ॥7॥  
+त᳓द् एनम् अ᳓न्ववर्तत - "मि᳓त्रद्रुग्" इ᳓ति ॥7॥  
 </details>
 
 <details><summary>मूलम्</summary>
