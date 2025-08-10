@@ -466,8 +466,9 @@ unicode_script: devanagari
 </details>
 
 
-## नमूचौ जयः
-### युद्धम्
+## अपामार्गः
+### नमूचौ जयः
+#### युद्धम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓न्द्रो वृत्रँ᳓ हत्वा᳓ ,  
