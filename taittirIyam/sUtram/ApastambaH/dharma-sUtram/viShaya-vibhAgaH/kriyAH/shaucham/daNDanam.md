@@ -226,13 +226,17 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/10/29/08_athAbhishastAH_samavasAya_patitaputreShu.md">
 <details open><summary><h4>08 अथाभिशस्ताः समवसाय पतितपुत्रेषु ...{Loading}...</h4></summary>
 
-अथाभिशस्ताः समवसाय पतित-पुत्रेषु - चरेयुर्धार्म्यमिति सांशित्येतरेतरयाजका इतरेतराध्यापका मिथो विवहमानाः ८
+अथाभिशस्ताः समवसाय  
+पतित-पुत्रेषु चरेयुर् धार्म्यम् इति  
+सांशित्येतरेतर-याजका इतरेतराध्यापका मिथो विवहमानाः ८
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/10/29/09_putrAnsanniShpAdya_brUyurvipra_vrajatatAsmadevaM.md">
 <details open><summary><h4>09 पुत्रान्सन्निष्पाद्य ब्रूयुर्विप्र व्रजततास्मदेवं ...{Loading}...</h4></summary>
 
-पुत्रान्संनिष्पाद्य ब्रूयुर्विप्र व्रजततास्मदेवं ह्यस्मत्स्वार्याः संप्रत्यपत्स्यतेति ९
+पुत्रान्संनिष्पाद्य ब्रूयुर् -  
+"विप्रव्रजततास्मद् -  
+एवं ह्य् अस्मत्स्व् आर्याः संप्रत्यपत्स्यते"ति ९
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/10/29/10_athApi_na_sendri.md">

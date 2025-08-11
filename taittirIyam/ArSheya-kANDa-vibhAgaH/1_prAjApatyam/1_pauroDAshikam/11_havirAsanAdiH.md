@@ -2,7 +2,8 @@
 title = "११ हविरासनादिः"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/1_darshapUrNamAsAdi/11_havirAsanAdiH"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/1_darshapUrNamAsAdi/11_havirAsanAdiH">
+<details open><summary><h1>११ हविरासनादिः ...{Loading}...</h1></summary>
 
 इध्मबर्हिःपूर्वकं वेद्यां हविरासादनादिः।  
 १४ गायत्री, २० एकपदा त्रिष्टुप् ।
@@ -13,40 +14,50 @@ ____
 
 इध्मं प्रोक्षति
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कृष्णो॑ऽसि ।   
+कृष्णो॑ऽस्य्    
 +++('अग्निर्देवेभ्यो निलायत । कृष्णो रूपं कृत्वा । स वनस्पतीन्प्राविशत्' (तै.ब्रा. 3.3.6) इत्यादिब्राह्मणोक्तो)+++  
-आ॒ख॒रे॒ष्ठो॑ +++(←आखनति भुवम् इति)+++ ऽसि ।  
+आखरे॒ष्ठः॑ +++(←आखनति भुवम् इति)+++ ।  
 अ॒ग्नये॑ त्वा॒ +++(प्रोक्षामि)+++ +++(इति)+++ स्वाहा॑ +++(←स्वा वाग् आह)+++ ।
 </details>
+
 <details><summary>Keith</summary>
 
 Thou art a black deer, living in the lair, to Agni thee, hail!
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 कृष्णो॑ऽस्याखरे॒ष्ठो॑ऽग्नये॑ त्वा॒ स्वाहा॑
 </details>
+
 <details><summary>मूलम्</summary>
 
-कृष्णो॑ऽसि ।   
-आ॒ख॒रे॒ष्ठो॑ऽसि ।  
+कृष्णो॑ऽस्याखरे॒ष्ठः ।  
 अ॒ग्नये॑ त्वा  +++(प्रोक्षामि)+++ ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+कृष्णः॑ । अ॒सि॒ । आ॒ख॒रे॒ष्ठ इत्या॑खरे-स्थः । अ॒ग्नये॑ । त्वा॒ । स्वाहा॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 1इध्मं प्रोक्षति - कृष्ण इति ॥ कृष्णः कृष्णमृगः । 'कृष्णस्य(ा)मृगाख्या चेत्' (फि.सू. 11) इति वचनान्मृगाख्यायामाद्युदात्तत्वम् । आखरेष्ठः आखनति समन्ताद्भुवं मूलैरवदारयतीत्याखरो वनस्पतिः । 'खनतेर्डरो वक्तव्यः' (पा.भा. 3.3.125) इति खनतेर्डरप्रत्ययः । तत्र तिष्ठतीत्याखरेष्ठः । 'सुपि स्थः' (पा.सू. 3.2.4) इति कः, 'तत्पुरुषे कृति बहुलम्' (पा.सू. 6.3.14) इत्यलुक्, सुषामादित्वात् (पा.सू. 8.3.98) षत्वम्, थाथादिसूत्रेण (पा.सू. 6.2.144) उत्तरपदान्तोदात्तत्वम् । 'अग्निर्देवेभ्यो निलायत । कृष्णो रूपं कृत्वा । स वनस्पतीन्प्राविशत्' (तै.ब्रा. 3.3.6) इत्यादिब्राह्मणोक्तो योऽग्निः स एव त्वमसीति तदाधारभूतेध्मस्तुतिः । एवंभूतं त्वामिध्मम् अग्नये अग्न्यर्थं प्रोक्षामीति शेषः ।
 </details>
+
 <details><summary>मूलम्</summary>
 
 स्वाहा॑ ।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 एवं कर्तव्यमिति स्वयमेव सरस्वत्याह । विभक्त्यन्त-समुदायात्मा निपातः स्वाहा इति । +++(स्वा - आह इति इङ्ग्यत्वेन न पठ्यते पदकाले इति )+++ संस्कार-विशेषानवधारणात् नावगृह्यते ॥
 </details>
-
 
 ____
 ## वेदिप्रोक्षणम्
@@ -55,25 +66,35 @@ ____
 
 वेदिं प्रोक्षति
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वेदि॑र्+++(=वेदयित्री [हविषाम्])+++ असि ।  
-ब॒र्हिषे॑ त्वा॒ +++(प्रोक्षामि)+++ +++(इति)+++ स्वाहा॑ +++(←स्वा वाग् आह)+++।
+वेदि॑र्+++(=वेदयित्री [हविषाम्] →पृथिवी)+++ असि ।  
+ब॒र्हिषे॑ +++(→प्रजाः)+++ त्वा॒ +++(प्रोक्षामि)+++ +++(इति)+++ स्वाहा॑ +++(←स्वा वाग् आह)+++।
 </details>
+
 <details><summary>Keith</summary>
 
 Thou art the altar, to the strew thee, hail!
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 －वेदि॑रसि ब॒र्हिषे॑ त्वा॒ स्वाहा॑
 </details>
+
 <details><summary>मूलम्</summary>
 
 वेदि॑रसि ।  
 ब॒र्हिषे॑ त्वा  +++(प्रोक्षामि)+++  ।  
 स्वाहा॑ ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+वेदिः॑ । अ॒सि॒ । ब॒र्हिषे॑ । त्वा॒ । स्वाहा॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 2वेदिं प्रोक्षति - वेदिरिति ॥ वेदिः वेदयित्री हविषामाधारत्वेन प्रकाशयित्र्यसि । । 'इन् सर्वधातुभ्यः' (उ.सू. 567) इति वेदेरिन्प्रत्ययः । तां तादृशीं त्वां बर्हिषे बर्हिस्तरणार्थं प्रोक्षामि । एतच्च स्वयमेव वागाह । 'प्रजा वै बर्हिः' (तै.ब्रा. 3.3.6) इत्यादि ब्राह्मणम् ॥
@@ -86,26 +107,36 @@ ____
 
 बर्हिः प्रोक्षति
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब॒र्हिर् अ॑सि ।  
-स्रु॒ग्भ्यस् त्वा॒ +++(प्रोक्षामि)+++ +++(इति)+++ स्वाहा॑ +++(←स्वा वाग् आह)+++ ।  
+ब॒र्हिर् +++(→प्रजाः)+++ अ॑सि ।  
+स्रु॒ग्भ्यस् +++(→यजमानाय)+++ त्वा॒ +++(प्रोक्षामि)+++ +++(इति)+++ स्वाहा॑ +++(←स्वा वाग् आह)+++ ।  
 +++('प्रजा वै बर्हिः । यजमानस्स्रुचः' (तै.ब्रा. 3.3.6) इत्यादि ब्राह्मणम् ॥)+++
 </details>
+
 <details><summary>Keith</summary>
 
 Thou art the strew, to the ladles thee, hail
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ब॒र्हिर॑सि स्रु॒ग्भ्यस्त्वा॒ स्वाहा॑
 </details>
+
 <details><summary>मूलम्</summary>
 
 ब॒र्हिर॑सि ।  
 स्रु॒ग्भ्यस्त्वा॑   +++(प्रोक्षामि)+++ 
 स्वाहा॑ ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+ब॒र्हिः । अ॒सि॒ । स्रु॒ग्भ्य इति॑ स्रुक्-भ्यः । त्वा॒ । स्वाहा॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 3बर्हिः प्रोक्षति - बर्हिरिति ॥ (बर्हिः) बृहत् पर्याप्तमसि । 'बृंहेर्नलोपश्च' (उ.सू. 274) इतीसिप्रत्ययः । तादृशं त्वां स्रुग्भ्यः स्रुगर्थं स्रुचां धारणार्थं प्रोक्षामि ।
@@ -119,30 +150,45 @@ ____
 
 अन्तर्वेद्यूर्ध्वाग्रं बर्हिस्स्थापयित्वा प्रोक्षति
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/11_havirAsanAdiH/dive_tvA.md">
-<details open><summary><h2>दिवे त्वा ...{Loading}...</h2></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/11_havirAsanAdiH/dive_tvA.md">
+<details open><summary><h3>दिवे त्वा ...{Loading}...</h3></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दि॒वे त्वा॑  +++(प्रोक्षामि)+++ ।  
-अन्तरि॑क्षाय त्वा  +++(प्रोक्षामि)+++ ।  
+अ॒न्तरि॑क्षाय त्वा  +++(प्रोक्षामि)+++ ।  
 पृ॒थि॒व्यै त्वा॑ +++(प्रोक्षामि)+++ ।
 
 </details>
+
+<details><summary>प्रदीपसिंहः</summary>
+
+अन्तरिक्षाय इत्यत्र सन्नतरः नासीत् । पदपाठे वर्तते ।
+</details>
+
 <details><summary>Keith</summary>
 
 To sky thee, to atmosphere thee, to earth thee!
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 － दि॒वे त्वा॒ऽन्तरि॑क्षाय त्वा पृथि॒व्यै त्वा
 </details>
+
 <details><summary>मूलम्</summary>
 
 दि॒वे त्वा॑ ।  
-अन्तरि॑क्षाय त्वा।  
+अ॒न्तरि॑क्षाय त्वा।  
 पृ॒थि॒व्यै त्वा॑।
-
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+दि॒वे । त्वा॒ ।   
+अ॒न्तरि॑क्षाय । त्वा॒ ।   
+पृ॒थि॒व्यै । त्वा॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 4अन्तर्वेद्यूर्ध्वाग्रं बर्हिस्स्थापयित्वा प्रोक्षति - दिव इति ॥ अग्रमध्यमूलेषु क्रमेण प्रोक्षणम् । सर्वत्र प्रोक्षामीति शेषः । यागनिर्वृत्तिद्वारेण द्युप्रभृतीनां लोकानां धारणार्थं प्रोक्षणं भवति । 'ऊडिदम्' (पा.सू. 6.1.171) इत्यादिना दिव इति विभक्तेरुदात्तत्वम् । पृथिव्या इत्यादौ 'उदात्तयणो हल्पूर्वात्' (पा.सू. 6.1.174) इति विभक्तेरुदात्तत्वम् ॥
@@ -150,47 +196,61 @@ To sky thee, to atmosphere thee, to earth thee!
 </details>
 </div>  
 
-
-
 ____
 
+## प्रोक्षणीशेष-नयनम्
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 दक्षिणस्याश् श्रोणेर् उत्तरस्याः प्रोक्षणीशेषं निनयति
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(प्रोक्षणीशेष!)+++ स्व॒धा+++(=अन्नं)+++ +++(मासनाम-)+++पि॒तृभ्यः॒ ऊर्ग्+++(=बलप्राणनयोरुद्दीपकं)+++ भ॑व बर्हि॒षद्भ्यः॑ ।  
-+++('मासा वै पितरो बर्हिषदः' (तै.ब्रा. 3.3.6) इत्यादिब्राह्मणप्रसिद्धाः।)+++  
++++(प्रोक्षणीशेष!)+++ स्व॒धा+++(=अन्नं)+++ +++(सर्व-वर्धक-मास-नाम-)+++पि॒तृभ्यः॒ ऊर्ग्+++(=बलप्राणनयोरुद्दीपकं)+++ भ॑व बर्हि॒षद्भ्यः॑ ।  
 +++(हे आपः!)+++ ऊ॒र्जा+++(=रसेन सह)+++ पृ॑थि॒वीङ् ग॑च्छत ।
 </details>
+
 <details><summary>Keith</summary>
 
 Be thou refreshment to the fathers, strength to those that sit on the strew.  
 With strength go ye to the earth.
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 －स्व॒धा पि॒तृभ्य॒ ऊर्ग्भ॑व बर्हि॒षद्भ्य॑ ऊ॒र्जा पृ॑थि॒वीङ्ग॑च्छत
 </details>
+
 <details><summary>मूलम्</summary>
 
 स्व॒धा पि॒तृभ्य॒ ऊर्ग्भ॑व बर्हि॒षद्भ्यः॑ ...
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+स्व॒धेति॑ स्व-धा । पि॒तृभ्य॒ इति॑ पि॒तृ-भ्यः॒ । ऊर्क् । भ॒व॒ । ब॒र्हि॒षद्भ्य॒ इति॑ बर्हि॒षत्-भ्यः॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 5दक्षिणस्याश्श्रोणेरुत्तरस्याः प्रोक्षणीशेषं निनयति - स्वधेति ॥ 'मासा वै पितरो बर्हिषदः' (तै.ब्रा. 3.3.6) इत्यादिब्राह्मणप्रसिद्धा ये मासनामानः पितरो बर्हिष्यागत्य सीदन्ति, तेभ्यस्स्वधा अन्नम् । कीदृशं? ऊर्क् बलप्राणनयोरुद्दीपकं भवेति । समुदायापेक्षमेकवचनम्, अन्नापेक्षं वा ।
 </details>
+
 <details><summary>मूलम्</summary>
 
 ऊ॒र्जा पृ॑थि॒वीङ्ग॑च्छत ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+ऊ॒र्जा । पृ॒थि॒वीम् । ग॒च्छ॒त॒ । 
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 किञ्च - ऊर्जा रसेन सह पृथिवीं गच्छत प्रविशत । अवयवापेक्षं बहुवचनम् । बर्हिषद इति पृषोदरादिवात्सलोपः । 'सत्सूद्विष' (पा.सू. 3.2.61) इत्यादिना क्विप् । कृदुत्तरपदप्रकृतिस्वरत्वम् (पा.सू. 6.2.139) ।  
 ऊर्जेति । 'सावेकाचः' (पा.सू. 6.1.168) इति विभक्तेरुदात्तत्वम् । 'आतोऽनुपसर्गे कः' (पा.सू. 3.2.3) इति कप्रत्ययान्तः स्वधाशब्दः, थाथादिस्वरेणान्तोदात्तः (पा.सू. 6.2.144) ॥
 </details>
-
 
 ____
 
@@ -198,43 +258,61 @@ ____
 
 प्रस्तरं गृह्णाति
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(प्रस्तर!)+++ विष्णो॒स् +++(यज्ञस्य)+++ स्तूपो॑ ऽसि।  
 +++('यज्ञो वै विष्णुः' (तै.ब्रा. 3.3.6) इति ब्राह्मणम् ।)+++
 </details>
+
 <details><summary>Keith</summary>
 
 Thou art the hair-knot of Visnu.
 </details>
+
 <details><summary>मूलम्</summary>
 
 विष्णो॒स्स्तूपो॑ऽसि।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+विष्णोः॑ । स्तूपः॑ । अ॒सि॒ । 
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 6प्रस्तरं गृह्णाति - विष्णोरिति ॥ विष्णुः व्यापको यज्ञः । 'यज्ञो वै विष्णुः' (तै.ब्रा. 3.3.6) इति ब्राह्मणम् । तस्य स्तूपस्सङ्घातोसि । त्वदात्मना यज्ञस्संहत इति स्तुतिः । 'स्त्यस्सम्प्रसारणमुच्च' +++(इदमाकारं सूत्रं नोपलभ्यते??)+++ इति पप्रत्ययः, उकारश्चान्तादेशः, 'दीर्घश्च' इति तत्रानुवर्तते, वृषादित्वादाद्युदात्तत्वम् (पा.सू. 6.1.203) ॥
 </details>
 
-
 ____
+## बर्हिस्-स्तरणम्
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 बर्हिस् स्तृणाति
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(बर्हिः!)+++ ऊर्णा॑-म्रदसन्+++(=मृदुं)+++ त्वा स्तृणामि स्व्+आ॒स॒-स्थन् दे॒वेभ्यः॑।
 </details>
+
 <details><summary>Keith</summary>
 
 Soft as wool I strew thee, offering a good seat to the gods.
 </details>
+
 <details><summary>मूलम्</summary>
 
 ऊर्णा॑म्रदसन् त्वा स्तृणामि स्वा॒स॒स्थन्दे॒वेभ्यः॑ ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+ऊर्णा॑म्रदस॒मित्यूर्णा॑-म्र॒द॒स॒म् । त्वा॒ । स्तृ॒णा॒मि॒ । स्वा॒स॒स्थमिति॑ सु-आ॒स॒स्थम्। दे॒वेभ्यः॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 7बर्हिस्स्तृणाति - ऊर्णाम्रदसमिति ॥ ऊर्णा अविसूत्रं, तद्वन्मृदुः ऊर्णाम्रदाः । म्रद मर्दने, घटादिः । यस्मात् 'प्रथिम्रदि' (उ.सू. 28) इत्यादिना उर्विधीयते तस्मादसुन् । 'उपमानानि सामान्यवचनैः' (पा.सू. 2.1.55) इति तत्पुरुषः । 'तत्पुरुषे तुल्यार्थे' (पा.सू. 6.2.2) इत्यादिना उपमानपूर्वपदप्रकृतिस्वरत्वम् । 'ऊर्णोतेश्च' (उ.सू. 725) इति डप्रत्ययान्तः ऊर्णाशब्दः, वृषादित्वादाद्युदात्तत्वम् (पा.सू. 6.1.203) । तादृशं त्वां स्तृणामि ।
@@ -243,34 +321,46 @@ Soft as wool I strew thee, offering a good seat to the gods.
 यद्वा - स्वासस्थं त्वां देवार्थं स्तृणामि । तादर्थ्ये चतुर्थी (पा.सू. 2.1.36) ॥
 </details>
 
-
 ____
 
+## परिधिः
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 मध्यमं परिधिं पीरदधाति
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(मध्यम-परिधे!)+++ गन्ध॒र्वो॑ऽसि वि॒श्वाव॑सुर्, विश्व॑स्मा॒द् ईष॑तो+++(=ईषमानात् = हिंसकाद्)+++ यज॑मानस्य परि॒धिर्, इ॒ड+++(=इड्-वान् = अन्नवान्)+++ ई॑डि॒तः+++(=स्तुतः)+++। 
++++(मध्यम-परिधे!)+++ ग॒न्ध॒र्वो॑ऽसि वि॒श्वाव॑सुर्,  
+विश्व॑स्मा॒द् ईष॑तो+++(=ईषमानात् = हिंसकाद्)+++ यज॑मानस्य परि॒धिर्,  
+इ॒ड+++(=इड्-वान् = अन्नवान्)+++ ई॑डि॒तः+++(=स्तुतः)+++। 
 </details>
+
 <details><summary>Keith</summary>
 
 Thou art the Gandharva, Viśvavasu (possessing all wealth),  
 the fence of the sacrificer from every attacker,  
 praised and to be praised.
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-गन्ध॒र्वो॑ऽसि वि॒श्वाव॑सुर्विश्व॑स्मा॒दीष॑तो यज॑मानस्य परि॒धिरि॒ड ई॑डि॒तः
+ग॒न्ध॒र्वो॑ऽसि वि॒श्वाव॑सुर्विश्व॑स्मा॒दीष॑तो यज॑मानस्य परि॒धिरि॒ड ई॑डि॒तः
 </details>
+
 <details><summary>मूलम्</summary>
 
-गन्ध॒र्वो॑ऽसि   
+ग॒न्ध॒र्वो॑ऽसि   
 वि॒श्वाव॑सुः  …   
 र्विश्व॑स्मा॒दीष॑तो यज॑मानस्य परि॒धिः     
 इ॒ड ई॑डि॒तः ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+ग॒न्ध॒र्वः । अ॒सि॒ । वि॒श्वाव॑सु॒रिति॑ वि॒श्व-व॒सुः॒ । विश्व॑स्मात् । ईष॑तः । यज॑मानस्य । प॒रि॒धिरिति॑ परि-धिः । इ॒डः । ई॒डि॒तः ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 8मध्यमं परिधिं परिदधाति - गन्धर्व इति ॥ विश्वानि वसून्यस्मिन्निति बहुव्रीहौ 'विश्वस्य वसुराटोः' (पा.सू. 6.3.128) इति पूर्वपदस्य दीर्घत्वम् । 'बहुव्रीहौ विश्वं संज्ञायाम्' (पा.सू. 6.2.106) इति पूर्वपदान्तोदात्तत्वम् । विश्वावसुर्नाम गन्धर्वः, स शत्रुनिग्रहसमर्थः, स एव त्वमसीति परिधेः स्तुतिः । 
@@ -282,31 +372,39 @@ praised and to be praised.
 किञ्च - इडन्नं पशवश्च तद्वान् इडः, तत्साधनत्वात् । अर्श आदित्वादच् (पा.सू. 5.2.127) । अत एव सर्वैरीडितस्स्तुतः ॥
 </details>
 
-
-
 ____
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 दक्षिणं परिदधाति
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(दक्षिण-परिधे!)+++ इन्द्र॑स्य बा॒हुर॑सि दक्षि॑णः, यज॑मानस्य परि॒धिः, इ॒ड+++(=इड्-वान् = अन्नवान्)+++  ई॑डि॒तः ।  
 </details>
+
 <details><summary>Keith</summary>
 
 Thou art the right arm of Indra,  the fence of the sacrificer, praised and to be praised.
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 इन्द्र॑स्य बा॒हुर॑सि [19]दक्षि॑णो॒ यज॑मानस्य परि॒धिरि॒ड ई॑डि॒तः
 </details>
+
 <details><summary>मूलम्</summary>
 
 इन्द्र॑स्य बा॒हुर॑सि दक्षि॑णः   
 यज॑मानस्य परि॒धिः  इ॒ड ई॑डि॒तः ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+इन्द्र॑स्य । बा॒हुः । अ॒सि॒ । दक्षि॑णः । यज॑मानस्य । प॒रि॒धिरिति॑ परि-धिः । इ॒डः । ई॒डि॒तः ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 9दक्षिणं परिदधाति - इन्द्रस्येति ॥ इन्द्रस्य यो दक्षिणो बाहुः महावीर्यः, स एव त्वमसीति दक्षिणस्य परिधेस्स्तुतिः । 'स्वाङ्गाख्यायामादिर्वा' (फि.सू. 9) इति दक्षिणशब्द आद्युदात्तः । गतमन्यत् (तै.सं. 1.1.11) ॥
@@ -321,25 +419,35 @@ ____
 
 उत्तरं परिदधाति
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(हे कुण्ड!)+++ मि॒त्रावरु॑णौ त्वोत्तर॒तᳶ परि॑धत्तां ध्रु॒वेण॒ धर्म॑णा।  
 यज॑मानस्य +++(उत्तर-)+++परि॒धिर्, इ॒ड+++(=इड्-वान् = अन्नवान्)+++  ई॑डि॒तः ।  
 </details>
+
 <details><summary>Keith</summary>
 
 May Mitra and Varuna lay thee around in the north with firm law,  
 thou art the fence of the sacrificer, praised and to be praised.
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 मि॒त्रावरु॑णौ त्वोत्तर॒तᳶ परि॑धत्तान्ध्रु॒वेण॒ धर्म॑णा॒ यज॑मानस्य परि॒धिरि॒ड ई॑डि॒तः
 </details>
+
 <details><summary>मूलम्</summary>
 
 मि॒त्रावरु॑णौ त्वोत्तर॒तᳶ परि॑धत्तान्ध्रु॒वेण॒ धर्म॑णा  
-यज॑मानस्य परि॒धिः   इ॒ड ई॑डि॒तः ।
+यज॑मानस्य परि॒धिः इ॒ड ई॑डि॒तः ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । त्वा॒ । उ॒त्त॒र॒त इत्यु॑त्-त॒र॒तः । परीति॑ । ध॒त्ता॒म् । ध्रु॒वेण॑ । धर्म॑णा । यज॑मानस्य । प॒रि॒धिरिति॑ परि-धिः । इ॒डः । ई॒डि॒तः ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 10उत्तरं परिदधाति - मित्रावरुणाविति ॥ ध्रुवेण अचलेन नित्येन धर्मणा कर्मणा मित्रावरुणावेव च त्वामुत्तरतः परिधत्ताम् । समानमन्यत् ।
@@ -356,56 +464,72 @@ ____
 
 सूर्येण पुरस्तात् परिधानकार्यं करोति
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(हे कुण्ड! उत्तर-परिधि-रूपः)+++ सूर्य॑स् त्वा पु॒रस्ता॑त् पातु कस्या॑श्चिद् अ॒भिश॑स्त्याः ।
 </details>
+
 <details><summary>Keith</summary>
 
 May the sun in the east protect thee from all evil.
 </details>
+
 <details><summary>मूलम्</summary>
 
 सूर्य॑स्त्वा पु॒रस्ता॑त्पातु॒ कस्या॑श्चिद॒भिश॑स्त्याः ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+सूर्यः॑ । त्वा॒ । पु॒रस्ता॑त् । पा॒तु॒ । कस्याः॑ । चि॒त् । अ॒भिश॑स्त्या॒ इत्य॒भि-श॒स्त्याः॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 11सूर्येण पुरस्तात् परिधानकार्यं करोति - सूर्य इति ॥ सूर्य एव त्वां पुरस्तात् पातु रक्षतु । कस्मात् - कस्याश्चित् यतः कुतश्चित् अभिशस्त्याः अपरिमितायाः अभिशापाद्रक्षःप्रभृतिप्रयुक्तात् । शसु हिंसायाम्, 'तितुत्रतथसि' (पा.सू. 7.2.9) इतीट्प्रतिषेधः, 'तादौ च निति कृत्यतौ' (पा.सू. 6.2.50) इति गतेः प्रकृतिस्वरत्वम्, 'निपाता आद्युदात्ताः' (फि.सू. 80) 'उपसर्गाश्चाभिवर्जम्' (फि.सू. 81) इत्यभिशब्दोन्तोदात्तः । एवं कस्याश्चिदित्यत्र 'सावेकाचः' (पा.सू. 6.1.168) इति प्राप्तं विभक्त्युदात्तत्वं 'न गोश्वन्' (पा.सू. 6.1.182) इति प्रतिषिध्यते ॥
 </details>
 
-
-
 ____
+## समिदाधानम्
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 ऊर्ध्वे समिधाव् आदधाति
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/11_havirAsanAdiH/70_vItihotran_tvA.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/11_havirAsanAdiH/70_vItihotran_tvA.md">
+<details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 वी॒ति+++(=इष्ट)+++हो॑त्रन्+++(=ह्वानं)+++ त्वा कवे  
 द्यु॒मन्तँ॒ समि॑धीम॒हि ।  
 +++(हे)+++ अग्ने॑! बृ॒हन्त॑म् अध्व॒रे ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/11_havirAsanAdiH/70_vItihotran_tvA.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/11_havirAsanAdiH/70_vItihotran_tvA.md">
+<details open><summary><h5>सर्वाष् टीकाः ...{Loading}...</h5></summary>
 <details><summary>Keith</summary>
 
 May we kindle thee, O wise one,    
 That dost invite to the sacrifice, the radiant one,    
 O Agni, thee that art mighty at the sacrifice.
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 वी॒तिहो॑त्रन्त्वा कवे द्यु॒मन्तँ॒ समि॑धीम॒ह्यग्ने॑ बृ॒हन्त॑मध्व॒रे
 </details>
+
 <details><summary>मूलम्</summary>
 
 वी॒तिहो॑त्रन्त्वा कवे द्यु॒मन्तँ॒ समि॑धीम॒हि ।  
 अग्ने॑ बृ॒हन्त॑मध्व॒रे ॥
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+वी॒तिहो॑त्र॒मिति॑ वी॒ति-हो॒त्र॒म् । त्वा॒ । क॒वे॒ । द्यु॒मन्त॒मिति॑ द्यु-मन्त॑म् । समिति॑ । इ॒धी॒म॒हि॒ । अग्ने॑ । बृ॒हन्त॑म् । अ॒ध्व॒रे ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 12ऊर्ध्वे समिधावादधाति - वीतिहोत्रमिति त्रिपदया गायत्र्या ॥  
@@ -414,99 +538,130 @@ O Agni, thee that art mighty at the sacrifice.
 </details>
 </div>
 
-
-
-
-
-
 ____
 
+## विधृती
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-बर्हिःप्रस्तरविभागार्थं स्थापिते दर्भद्वयं "विधृती" मादयति
+बर्हिः-प्रस्तर-विभागार्थं स्थापिते दर्भ-द्वयं "विधृती" सादयति
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(दर्भद्वय!)+++ वि॒शो य॒न्त्रे+++(=यमने)+++ स्थः॑।
 </details>
+
 <details><summary>Keith</summary>
 
 Ye two are the props of the people.
 </details>
+
 <details><summary>मूलम्</summary>
 
 वि॒शो य॒न्त्रे स्थः॑।
 </details>
-<details><summary>भट्टभास्कर-टीका</summary>
 
-13विधृती मादयति - विश इति । विशः प्रजायाः यन्त्रे यमने धारिके स्थः । 'गृधृविपचि' (उ.सू. 616) इत्यादिना यमेस्त्रप्रत्ययः । 'सावेकाचः' (पा.सू. 6.1.168) इति विशः परस्याः षष्ठ्या उदात्तत्वम् ॥
+<details><summary>पद-पाठः</summary>
+
+वि॒शः । य॒न्त्रे इति॑ । स्थः॒ ।
 </details>
 
+<details><summary>भट्टभास्कर-टीका</summary>
+
+13विधृती सादयति - विश इति । विशः प्रजायाः यन्त्रे यमने धारिके स्थः । 'गृधृविपचि' (उ.सू. 616) इत्यादिना यमेस्त्रप्रत्ययः । 'सावेकाचः' (पा.सू. 6.1.168) इति विशः परस्याः षष्ठ्या उदात्तत्वम् ॥
+</details>
 
 ____
 
+## प्रस्तर-सादनम्
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-तयोः प्रस्तरं मादयति
+तयोः प्रस्तरं सादयति
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(प्रस्तर)+++ वसू॑नाँ रु॒द्राणा॑म् आदि॒त्यानाँ॒ सद॑सि सीद ।
 </details>
+
 <details><summary>Keith</summary>
 
 Sit on the seat of the Vasus, Rudras, Adityas.
 </details>
+
 <details><summary>मूलम्</summary>
 
 वसू॑नाँ रु॒द्राणा॑मादि॒त्यानाँ॒ सद॑सि सीद ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+वसू॑नाम् । रु॒द्राणा॑म् । आ॒दि॒त्याना॑म् । सद॑सि । सी॒द॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
-14तयोः प्रस्तरं मादयति - वसूनामिति ॥ वस्वादयः प्रसिद्धा देवताः यज्ञभागिन्यः । तासां सदस्त्वेन विधृत्योः स्तुतिः ॥
+14तयोः प्रस्तरं सादयति - वसूनामिति ॥ वस्वादयः प्रसिद्धा देवताः यज्ञभागिन्यः । तासां सदस्त्वेन विधृत्योः स्तुतिः ॥
 </details>
-
 
 ____
-
+## जुह्वादि
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-तत्र जुहूं मादयति
+तत्र जुहूं सादयति
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जु॒हूर् अ॑सि ।  
 </details>
+
 <details><summary>Keith</summary>
 
 Thou art named juhu
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 जु॒हूरु॑प॒भृद्ध्रु॒वाऽसि॑ घृ॒ताची॒ नाम्ना॑ प्रि॒येण॒ नाम्ना॑ प्रि॒ये सद॑सि सीद
 </details>
+
 <details><summary>मूलम्</summary>
 
 जु॒हूः [ अ॑सि]।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+जु॒हूः । 
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
-15तत्र जुहूं मादयति - जुहूरिति ॥ असि घृताचीत्यादिकं वक्ष्यमाणं जुह्वादिभिः प्रत्येकमभिसम्बध्यते । हूयतेऽनयेति जुहूः । 'द्युतिगमिजुहोतीनां द्वे च' (पा.सू. 3.2.178) इति क्विप्, जुहोतेर्दीर्घश्च' (पा.भा. 3.2.178 वा 3) इति दीर्घोनुवर्तते । जुहूस्त्वमसि । त्वया खलु हूयते ।
+15तत्र जुहूं सादयति - जुहूरिति ॥ असि घृताचीत्यादिकं वक्ष्यमाणं जुह्वादिभिः प्रत्येकमभिसम्बध्यते । हूयतेऽनयेति जुहूः । 'द्युतिगमिजुहोतीनां द्वे च' (पा.सू. 3.2.178) इति क्विप्, जुहोतेर्दीर्घश्च' (पा.भा. 3.2.178 वा 3) इति दीर्घोनुवर्तते । जुहूस्त्वमसि । त्वया खलु हूयते ।
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/11_havirAsanAdiH/ghRtAchI.md">
-<details open><summary><h5>घृताची ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/11_havirAsanAdiH/ghRtAchI.md">
+<details open><summary><h6>घृताची ...{Loading}...</h6></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 घृ॒ताची॒ नाम्ना॑ प्रि॒येण॒ नाम्ना॑ प्रि॒ये सद॑सि सीद ।
 </details>
+
 <details><summary>Keith</summary>
 
 Loving the ghee, sit on thy dear seat with thy dear name.
 </details>
+
 <details><summary>मूलम्</summary>
 
 घृ॒ताची॒ नाम्ना॑ प्रि॒येण॒ नाम्ना॑ प्रि॒ये सद॑सि सीद ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+घृ॒ताची॑ । नाम्ना॑ । प्रि॒येण॑ । नाम्ना॑ । प्रि॒ये । सद॑सि । सी॒द॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 पुनश्च विशेष्यते - घृताची त्वम् घृतमञ्चति गच्छति धारकत्वेनेति घृताची । ऋत्विगादिना क्विप् (पा.सू. 3.2.49) । अनुनासिकलोपे 'अचः' (पा.सू. 6.4.138) इत्यकारलोपे 'चौ' (पा.सू. 6.3.138) इति दीर्घः ।  
@@ -515,45 +670,60 @@ Loving the ghee, sit on thy dear seat with thy dear name.
 </details>
 </div>  
 
-
-
 ____
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 उपभृतं सादयति
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ॒प॒भृद् अ॑सि ।   
 [घृ॒ताची॒ नाम्ना॑ प्रि॒येण॒ नाम्ना॑ प्रि॒ये सद॑सि सीद ] ।  
 </details>
+
 <details><summary>Keith</summary>
 
 Thou art named upabhrt
 </details>
+
 <details><summary>मूलम्</summary>
 
 उ॒प॒भृत् ।[अ॑सि ।] ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+उ॒प॒भृदित्यु॑प-भृत् । 
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 16उपभृतं सादयति - उपभृदिति ॥ उपेत्य जुहूं बिभर्तीति उपभृत् । 'अन्येभ्योपि दृश्यते' (पा.सू. 3.2.178) इति क्विप् । ईदृशी त्वमसि । समानमन्यत् ॥
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/11_havirAsanAdiH/ghRtAchI.md">
-<details open><summary><h5>घृताची ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/11_havirAsanAdiH/ghRtAchI.md">
+<details open><summary><h6>घृताची ...{Loading}...</h6></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 घृ॒ताची॒ नाम्ना॑ प्रि॒येण॒ नाम्ना॑ प्रि॒ये सद॑सि सीद ।
 </details>
+
 <details><summary>Keith</summary>
 
 Loving the ghee, sit on thy dear seat with thy dear name.
 </details>
+
 <details><summary>मूलम्</summary>
 
 घृ॒ताची॒ नाम्ना॑ प्रि॒येण॒ नाम्ना॑ प्रि॒ये सद॑सि सीद ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+घृ॒ताची॑ । नाम्ना॑ । प्रि॒येण॑ । नाम्ना॑ । प्रि॒ये । सद॑सि । सी॒द॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 पुनश्च विशेष्यते - घृताची त्वम् घृतमञ्चति गच्छति धारकत्वेनेति घृताची । ऋत्विगादिना क्विप् (पा.सू. 3.2.49) । अनुनासिकलोपे 'अचः' (पा.सू. 6.4.138) इत्यकारलोपे 'चौ' (पा.सू. 6.3.138) इति दीर्घः ।  
@@ -568,37 +738,54 @@ ____
 
 ध्रुवां सादयति
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ध्रु॒वाऽसि॑। 
 </details>
+
 <details><summary>Keith</summary>
 
 Thou art named dhruva.  
 </details>
+
 <details><summary>मूलम्</summary>
 
-ध्रु॒वाऽसि॑ घृ॒ताची॒ नाम्ना॑ प्रि॒येण॒ नाम्ना॑ प्रि॒ये सद॑सि सीद ।
+ध्रु॒वाऽसि॑ ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+ध्रु॒वा । अ॒सि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 17ध्रुवां सादयति - ध्रुवेति ॥ ध्रुवा निश्चला । यत्रैव साद्यते तत्रैव धार्यते न चाल्यते प्राक्समिष्टयजुष इति ध्रुवा । तादृशी त्वमसि । शिष्टं स्पष्टम् ॥
 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/11_havirAsanAdiH/ghRtAchI.md">
-<details open><summary><h5>घृताची ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/11_havirAsanAdiH/ghRtAchI.md">
+<details open><summary><h6>घृताची ...{Loading}...</h6></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 घृ॒ताची॒ नाम्ना॑ प्रि॒येण॒ नाम्ना॑ प्रि॒ये सद॑सि सीद ।
 </details>
+
 <details><summary>Keith</summary>
 
 Loving the ghee, sit on thy dear seat with thy dear name.
 </details>
+
 <details><summary>मूलम्</summary>
 
 घृ॒ताची॒ नाम्ना॑ प्रि॒येण॒ नाम्ना॑ प्रि॒ये सद॑सि सीद ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+घृ॒ताची॑ । नाम्ना॑ । प्रि॒येण॑ । नाम्ना॑ । प्रि॒ये । सद॑सि । सी॒द॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 पुनश्च विशेष्यते - घृताची त्वम् घृतमञ्चति गच्छति धारकत्वेनेति घृताची । ऋत्विगादिना क्विप् (पा.सू. 3.2.49) । अनुनासिकलोपे 'अचः' (पा.सू. 6.4.138) इत्यकारलोपे 'चौ' (पा.सू. 6.3.138) इति दीर्घः ।  
@@ -613,6 +800,7 @@ ____
 
 स्रुचो ऽभिमन्त्रयते
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ए॒ता +++(स्रुचः)+++ अ॑सदन्त् सुकृ॒तस्य॑ +++(यागस्य)+++ लो॒के ।  
@@ -621,16 +809,19 @@ ____
 पा॒हि य॒ज्ञप॑तिम् ।  
 पा॒हि माय्ँ य॑ज्ञ॒निय॑म् ॥ [20]
 </details>
+
 <details><summary>Keith</summary>
 
 These have sat down in the world of good action.  
 Protect them, O Visnu.  
 Protect the sacrifice, protect the lord of the sacrifice, protect me that conduct the sacrifice.
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 एता अ॑सदन्त्सुकृ॒तस्य॑ लो॒के ता वि॑ष्णो पाहि पा॒हि य॒ज्ञम्पा॒हि य॒ज्ञप॑तिम्पा॒हि माय्ँय॑ज्ञ॒निय॑म् ॥ [20]
 </details>
+
 <details><summary>मूलम्</summary>
 
 ए॒ता अ॑सदन्त्सुकृ॒तस्य॑ लो॒के ।   
@@ -639,6 +830,12 @@ Protect the sacrifice, protect the lord of the sacrifice, protect me that conduc
 पा॒हि य॒ज्ञप॑तिम् ।  
 पा॒हि माय्ँय॑ज्ञ॒निय॑म् ॥
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+ए॒ताः । अ॒स॒द॒न् । सु॒कृ॒तस्येति॑ सु-कृ॒तस्य॑ । लो॒के । 9S । ताः । वि॒ष्णो॒ इति॑ । पा॒हि॒ । 10T । पा॒हि । य॒ज्ञम् । पा॒हि । य॒ज्ञप॑ति॒मिति॑ य॒ज्ञ-प॒ति॒म् । पा॒हि । माम् । य॒ज्ञ॒निय॒मिति॑ यज्ञ-निय॑म् ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 18स्रुचोभिमन्त्रयते - एता इति यजुरन्तया त्रिष्टुभैकपदया ॥  
@@ -648,7 +845,6 @@ Protect the sacrifice, protect the lord of the sacrifice, protect me that conduc
 
 </details>
 
-
-
 इति एकादशोनुवाकः  ।
+</details>
 </div>

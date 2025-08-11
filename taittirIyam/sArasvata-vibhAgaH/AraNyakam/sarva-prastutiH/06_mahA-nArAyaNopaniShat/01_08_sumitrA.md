@@ -9,26 +9,29 @@ title = "०१ ०८ सुमित्रा"
 
 इत्यात्मानमभिषिच्य,
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
 
 सु॒मि॒त्रा न॒ आप॒ ओष॑धयस् सन्तु,
 </details>
+
 <details><summary>मूलम्</summary>
 
 सु॒मि॒त्रा न॒ आप॒ ओष॑धयस् सन्तु,
 </details>
-
 
 _________________
 <details><summary>गोपालदेशिकोक्त-विनियोगः</summary>
 
 इति जलं हस्ताभ्यां तीरे त्रिर्निक्षिप्य,
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
 
 दुर्मि॒त्रास् तस्मै॑ भूयासु॒र्  
 यो॑ऽस्मान् द्वेष्टि॒ यञ् च॑ व॒यन् द्वि॒ष्मः ।
 </details>
+
 <details><summary>मूलम्</summary>
 
 दुर्मि॒त्रास् तस्मै॑ भूयासु॒र्  
@@ -40,6 +43,7 @@ _________________
 
 इति तीर्थाधिदैवतं श्रियः पतिं प्रणम्य,
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
 
 नमो॒ऽग्नये॑ऽप्सु॒मते॒,  
@@ -48,13 +52,13 @@ _________________
 नमो वारुण्यै॑,  
 नमो॒ऽद्भ्यः ।
 </details>
+
 <details><summary>मूलम्</summary>
 
 नमो॒ऽग्नये॑ऽप्सु॒मते॒, नम॒  इन्द्रा॑य॒, नमो॒ वरु॑णाय॒, नमो वारुण्यै॑, नमो॒ऽद्भ्यः ।
 </details>
 </details>
 </div>  
-
 
 ______________
 <details><summary>गोपालदेशिकोक्त-विनियोगः</summary>
@@ -64,10 +68,10 @@ ______________
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_08_sumitrA/11_yadapA~N_krUray.N.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-यद॒पाङ् क्रू॒रय्ँ,  
+यद् अ॒पाङ् क्रू॒रय्ँ,  
 यद् अ॑मे॒द्ध्यय्ँ  
 यद् अ॑शा॒न्तन्,  
-तद् अप॑गच्छतात् ।
+तद् **अप॑गच्छतात्** ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_08_sumitrA/11_yadapA~N_krUray.N.md">
@@ -78,8 +82,6 @@ ______________
 </details>
 </details>
 </div>
-
-
 
 ______________
 
@@ -112,7 +114,7 @@ ______________
 
 सो॑ऽहम् अ॑पा॒पो वि॒रजो॒  
 निर्मु॒क्तो मु॑क्त-कि॒ल्बिषः ।  
-नाक॑स्य पृ॒ष्ठम् आरु॑ह्य॒  
+नाक॑स्य पृ॒ष्ठम् **आरु॑ह्य॒**  
 **गच्छे॒द्** ब्रह्म॑-सलो॒कताम् ।
 </details>
 </div>
@@ -126,7 +128,6 @@ ______________
 </details>
 </div>
 
-
 _________________
 <details><summary>गोपालदेशिकोक्त-विनियोगः</summary>
 
@@ -136,9 +137,9 @@ _________________
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 इ॒मं मे॑ गङ्गे यमुने सरस्वति॒  
-शुतु॑द्रि॒ स्तोमँ॑ सचता॒ परु॒ष्णिया ।  
+शुतु॑द्रि॒ स्तोमँ॑ **सचता॒** परु॒ष्णिया ।  
 अ॒सि॒क्नि॒या म॑रुद्-वृधे वि॒तस्त॒या  
-ऽऽर्जी॑कीये श्रुणु॒ह्या सु॒षोम॑या ।
+ऽऽर्जी॑कीये **श्रुणु॒ह्या** सु॒षोम॑या ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_08_sumitrA/19_imaM_me.md">

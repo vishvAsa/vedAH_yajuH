@@ -19,13 +19,14 @@ title = "२२ हेमन्तप्रत्यवरोहणम्"
 
 8. [^1]  (Now follows) the 'redescent' in the winter.
 
-
 [^1]:  Comp. the note on Śāṅkhāyana IV, 17, 1.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 +++(सम्पादकटिप्पनी - सूत्रमिदमग्रिमे व्याख्यातम् ।)+++
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 +++(सम्पादकटिप्पनी - सूत्रमिदमग्रिमे व्याख्यातम् ।)+++
@@ -50,7 +51,6 @@ title = "२२ हेमन्तप्रत्यवरोहणम्"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/02_pratyavarUDho_no.md">
 <details open><summary><h5>०२ प्रत्यवरूढो नो ...{Loading}...</h5></summary>
 
-
 प्र॒त्यव॑रूढो नो हेम॒न्तः ।  
 
 </details>
@@ -62,7 +62,6 @@ title = "२२ हेमन्तप्रत्यवरोहणम्"
 +++(नवस्वस्तरे संविशन् )+++  
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/03-07_pratixatre_pratitiShThAmi.md">
 <details open><summary><h5>०३-०७ प्रतिक्षत्रे प्रतितिष्ठामि ...{Loading}...</h5></summary>
-
 
 प्रति॑ क्ष॒त्रे, प्रति॑तिष्ठामि रा॒ष्ट्रे ।  
 प्रत्य् अश्वे॑षु॒, प्रति॑तिष्ठामि॒ गोषु॑ ।  
@@ -80,6 +79,7 @@ title = "२२ हेमन्तप्रत्यवरोहणम्"
 
 9. With the next Yajus (II, 18, 2) they 'redescend' (or take as their sleeping-place a layer of straw instead of the high bedsteads which they have used before). With the next Yajus formulas (II, 18, 3-7) they lie down on a new layer (of straw) on their right sides,
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 हेमन्तप्रत्यवरोहणं नाम कर्म नित्यं संवत्सरे संवत्सरे कर्तव्यम्, तदुपदिश्यते—हेमन्ते प्राप्ते खट्वां विहाय पलालस्वस्तरे शेते ।
@@ -92,6 +92,7 @@ title = "२२ हेमन्तप्रत्यवरोहणम्"
 नित्यस्यैव संवेशनस्य नियमविधिरयम्—निशायां यत्संवेशनं संवप्नार्थं तदस्यां निशायामेव कर्तव्यमिति ।
 प्रत्यवरोहणमन्त्रोऽपि तस्मिन्नेव काले वक्तव्यः ॥८॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 यस्मिन् कर्माणि हेमन्ते खष्ट्वातः प्रत्यवरोहणं तद्धे**मन्तप्रत्यवरोहणं** नाम कर्मोपदिश्यत इति शेषः ।
@@ -128,10 +129,12 @@ title = "२२ हेमन्तप्रत्यवरोहणम्"
 
 10. The father to the south, the mother to the north (of him), and so the others, one after the other from the eldest to the youngest.
 </details>
+
 <details><summary>हरदत्त-प्रस्तावः</summary>
 
 पुनरपि सूत्रद्वयेन संवेशनमेव विशिनष्टि—
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 तेषां संविशतां यः **पिता** स **दक्षिणश्**शेते या माता सो**त्तरा** ।
@@ -143,6 +146,7 @@ title = "२२ हेमन्तप्रत्यवरोहणम्"
 सर्वे प्राक्शिरसः उदङ्मुखाः मन्त्रविदश्च मन्त्रान् जपेयुः ।
 अनन्तरवचनं संश्लेषार्थम् ॥१०॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **दक्षिणतः पितोत्तरा मातेति** दक्षिणोत्तरत्वमन्योन्यापेक्षम् ।
@@ -156,7 +160,6 @@ title = "२२ हेमन्तप्रत्यवरोहणम्"
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 
 दक्षिणतः पितोत्तरा मातैवमवशिष्टानां ज्येष्ठो ज्येष्ठोऽनन्तरः ।
-
 
 </details>
 </div>
@@ -173,11 +176,9 @@ title = "२२ हेमन्तप्रत्यवरोहणम्"
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/022/15_syonA_pRthivi.md">
 <details open><summary><h7>१५ स्योना पृथिवि ...{Loading}...</h7></summary>
 
-
-+++(अभिमृशति)+++  
-स्यो॒ना+++(=सुखरूपा)+++ पृ॑थिवि॒ भवा॑+  
-ऽनृक्ष॒रा+++(=कण्टकादिरहिता)+++ नि॒वेश॑नी ।  
-यच्छा॑ न॒श् शर्म॑ स॒प्रथाः॑+++(=सकीर्तिः)+++ ।
+स्योना᳓+++(=सुखरूपा)+++ पृथिवि भव+  
+अनृक्षरा᳓+++(=कण्टकादिरहिता)+++ निवे᳓शनी ।  
+य᳓च्छा नश् श᳓र्म सप्र᳓थाः+++(=सकीर्तिः)+++ ।
 
 </details>
 </div>
@@ -185,8 +186,6 @@ title = "२२ हेमन्तप्रत्यवरोहणम्"
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/09_baDitthA_parvatAnAnkhidrambibharShi.md">
 <details open><summary><h5>०९ बडित्था पर्वतानाङ्खिद्रम्बिभर्षि ...{Loading}...</h5></summary>
-
-
 
 बड् इ॒त्था+++(त्थं)+++ पर्व॑तानाङ्+++(→मेघानाम्)+++  
 खि॒द्रम्+++(=छिद्रं →छेदनम्)+++ बि॑भर्षि पृथिवि ।  
@@ -204,11 +203,13 @@ title = "२२ हेमन्तप्रत्यवरोहणम्"
 
 11. After he has arisen, he touches the earth with the next two (verses, II, 18, 8. 9).
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 एवं संविश्य किञ्चित् सुप्त्वा **संहाय** सम्पूर्वो जहातिः शयनादुत्थायासने दृष्टः, "कलिश्शयानो भवति संजिहानस्तु द्वापर" इति ।
 (ऐतरेय ब्रा.पं.७)उत्त्थायाचम्यो**त्तराभ्यां** ऋग्भ्यां "स्योना पृथिवि" "बडित्थे"त्येताभ्यां पृथिवीमभिमृशेयुः ॥११॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **संहाय** सङ्गता एव शयित्वा, न पुनः पृथक्पृथक् । ततस्स्वस्तरादवरुह्य **उत्तराभ्याम्** ऋग्भ्यां **पृथिवीमभिमृशन्ति**।
@@ -239,12 +240,14 @@ title = "२२ हेमन्तप्रत्यवरोहणम्"
 
 12. In the same way the lying down, &c., is repeated thrice.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 **एवं** संवेशनं संहायाभिमर्शनं च मन्त्रवत् त्रिरावर्तनीयमित्यर्थः ।
 प्रत्यवरोहणं तु सकृदेव ।
 "उदित आदित्ये सौर्याणि स्वस्त्ययनानि च जपित्वाऽन्नं संस्कृत्य ब्राह्मणान् भोजयित्वा स्वस्त्ययनं वाचयित्वा"(आश्व.गृ.४-६-१८.) इत्याश्वलायनः ॥१२॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **एवमेतत्संवेशनादि** समन्त्रकमेव **त्रिर्** आवर्तनीयम् ।

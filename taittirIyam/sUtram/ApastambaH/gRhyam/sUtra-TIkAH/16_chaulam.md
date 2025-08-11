@@ -19,6 +19,7 @@ title = "१६ चौलम्"
 
 3. In the third year after his birth the Caula (or tonsure is performed) under (the Nakṣatra of) the two Punarvasus.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 अथ चौलविधिः— यस्मिन् कर्मणि केशाः प्रथमं खण्ड्यते तत् चौलम् ।
@@ -30,6 +31,7 @@ title = "१६ चौलम्"
 एवञ् चेत् कृत्वा अपरेणाग्निं प्राञ्चमिति पुंलिङ्गमुपपद्यते ।
 जन्मग्रहणं गर्भादारभ्य तृतीये वर्षे मा भूदिति ॥३॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **जन्मनोऽधी**ति पूर्ववत् ।
@@ -59,7 +61,6 @@ title = "१६ चौलम्"
 ऽशिषो वाचयित्वा  
 कुमारं भोजयित्वेत्य् एतावद् इह द्रष्टव्यम् ।)+++
 
-
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/16_chaulam/16_04_brAhmaNAnAm_bhojanam.md">
@@ -68,15 +69,16 @@ title = "१६ चौलम्"
 
 4. [^1]  Brāhmaṇas are entertained with food as at the initiation (Upanayana).
 
-
 [^1]:  16, 4. See above, IV, 10, 5.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 उपनयने ब्राह्मण-भोजने विशेषाऽभावात् आदि-पद-लोपोऽत्र द्रष्टव्यः ।
 ब्राह्मण-भोजनादीति ब्राह्मणान् भोजयित्वाऽऽशिषो वाचयित्वा कुमारं भोजयित्व् एत्य् एतावद् इह द्रष्टव्यम् ।
 अनुवाकस्य प्रथमेनेत्य्-आदि-परस्ताद् अति-देक्ष्यते ॥४॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 अत्र च **"ब्राह्मणानां भोजनम्"** इति ग्रहणम् आशीर्वचन-कुमार-भोजनयोर् अपि प्रदर्शनार्थम् ।
@@ -108,9 +110,9 @@ title = "१६ चौलम्"
 
 5. [^2]  The putting (of wood) on the fire, &c. (is performed) as at the Sīmantonnayana.
 
-
 [^2]:  See above, VI, 14. 2.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 अग्नेर् उपसमाधानादि-परिषेचनान्तं सीमन्त-वत् कर्तव्यम् ।
@@ -121,6 +123,7 @@ title = "१६ चौलम्"
 परिषेचनान्तस्य चातिदेशः ।
 यत्तु "गायतम् इति वीणाथिनौ" इत्यादि न तस्यात्रातिदेशः - अपरेणाग्निं प्राञ्चम् इति विधानात् पुनर् उपवेशस्य ॥५॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **अग्नेर् उपसमाधानादि** तन्त्रं सप्रधान-होमं परिषेचनान्तम् इह **सीमन्तवद्**  इति।
@@ -154,15 +157,16 @@ title = "१६ चौलम्"
 
 6. [^3]  He makes (the boy) sit down to the west of the fire, facing the east, combs his hair silently with a porcupine's quill that has three white spots, with three Darbha blades, and with a bunch of unripe Udumbara fruits; and he arranges the locks in the fashion of his ancestral Ṛṣis,
 
-
 [^3]:  Comp. VI, 14, 3.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 **विनयनं** पृथक्करणं वप्तव्यानां शिखार्थानाञ्च ।
 **तूष्णीमिति** वाग्यमनार्थं न मन्त्रप्रतिषेधार्थम्, प्राप्त्यभावात् ।
 **यथर्षि** यावन्त ऋषयो यस्य प्रवरे तावतीश्शिखाः करोति-त्र्यार्षेयस्य तिस्रः पञ्चार्षेयस्य पञ्चेति ॥६॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **प्राञ्चं** प्राङ्मुखम् ।
@@ -198,6 +202,7 @@ title = "१६ चौलम्"
 
 7. Or according to their family custom.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 अथवा **यथा** येन प्रकारेण **एषां** कुमारस्य कुलजानां **कुलधर्मः** प्रवर्तते तथा शिखां करोति ।
@@ -205,6 +210,7 @@ title = "१६ चौलम्"
 तेनास्मिन् कर्मणि पितैव कर्तेति नियमो नास्ति ।
 अन्यत्र तु सति सम्भवे कुमारकर्मसु तस्यैव नियमः ॥७॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 अथवा– **यथा** येन प्रकारेण **एषां** कुलजानां **कुलधर्मः** प्रवर्तते, तथा शिखा कर्तव्या ।
@@ -235,13 +241,14 @@ title = "१६ चौलम्"
 
 8. [^4]  The ceremonies beginning with the pouring together of (warm and cold) water and ending with the putting down of the hair are the same (as above; comp. M. II, 14, 11).
 
-
 [^4]:  See IV, 10, 5-8.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 "उष्णाश्शीतास्वानीये"त्यादि "दर्भस्तम्बे वा निदधाती"त्येवमन्तं उपनयनवत् कर्तव्यमित्यर्थः ॥८॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 व्याख्यातमेवैतत्समावर्तने ॥८॥
@@ -273,12 +280,14 @@ title = "१६ चौलम्"
 
 9. He puts down the razor after having washed it off.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 क्षुरस्य प्रक्षालनं विधीयते ।
 निधानमर्थप्राप्तम् ।
 यदा निदधाति तदा प्रक्षाल्येति ॥९॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 अत्र प्रक्षालनमेव विधीयते; निधानं त्वर्थप्राप्तम् ॥९॥
@@ -308,13 +317,14 @@ title = "१६ चौलम्"
 
 10. [^5]  The ceremony is (repeated) three days with the (same razor). (Then) the rite is finished.
 
-
 [^5]:  I translate as if the words tena tryaham and karmanivṛttiḥ formed two Sūtras.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 तेन क्षुरेण त्रिष्वहोरात्रेषु नापितकर्म न कर्तव्यम् ॥१०॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **तेन** क्षुरेण **त्र्यहं** नापित**कर्मनिवृत्तिस्** स्यात् ॥१०॥
@@ -344,11 +354,13 @@ title = "१६ चौलम्"
 
 11. (The father) gives an optional gift (to the Brāhmaṇa who has assisted).
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 अस्मिन् कर्मणि समाप्ते कुमारस्य पिता ब्रह्मणे वरं ददाति ।
 "गौर् वै वर" इत्त्युक्तम् ॥११॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **वरं** गां पिता **ददाति** दक्षिणत असीनाय ब्राह्मणाय ।
@@ -379,6 +391,7 @@ title = "१६ चौलम्"
 
 12. The Godāna (or the ceremony of shaving the beard, is performed) in the sixteenth year, in exactly the same way or optionally under another constellation.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 यथा चौलं **एवम्** अस्य **गोदाना**ख्यम् अपि कर्म कर्तव्यम् ।
@@ -386,6 +399,7 @@ title = "१६ चौलम्"
 **अन्यस्मिन्नपि नक्षत्रे** पुण्याह एव ।
 पुनर्वसु नियमस्यापवादः ॥१२॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **गोदानम्** इति कर्मनामधेयम् ; यस्मिन्कर्मण्यङ्गभूतं गोदानयोश् शिरःप्रदेशविशेषयोर्वपनम् ।
@@ -420,9 +434,9 @@ title = "१६ चौलम्"
 
 13. [^6]  Or he may perform the Godāna sacred to Agni.
 
-
 [^6]:  'Having performed the same rites as at the opening of the study of the Āgneya-kāṇḍa, he performs an Upasthāna to the deities as taught with regard to the Śukriyavrata.' Haradatta. - 'After the ceremonies down to the Ājyabhāgas have been performed, one chief oblation of Ājya is offered with the formula, "To Agni, the Ṛṣi of the Kāṇḍa, svāhā!"' Sudarśanārya.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 अग्निर्देवता यत्र गोदाने तदग्निगोदानं यस्य सोऽ**ग्निगोदानः** ।
@@ -462,6 +476,7 @@ title = "१६ चौलम्"
 </details>
 </div>
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 अग्नये गोदानं यस्य सोऽ**ग्निगोदानो** ब्रह्मचारी ।
@@ -496,15 +511,16 @@ title = "१६ चौलम्"
 
 14. [^7]  Some prescribe the keeping of a vow through one year in connection with the Godāna.
 
-
 [^7]:  Comp. the statements given in the note on Gobhila III,
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 कृतगोदानस्यापि तच्छेषतया **संवत्सरं** व्रतचरण**मेक** आचार्या **उपदिशन्ति** ।
 चौलगोदानेऽयं विकल्पः ।
 अग्निगोदाने तु काण्डोपाकरणातिदेशात् नित्यमेव यदा व्रतचर्या तदा वरदानादूर्ध्वं देवतोपस्थानं पूर्ववदन्ते, विसर्गश्च पूर्ववदेव ॥१४॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 अधीतेऽपि वेदे, अवश्यं **संवत्सरं गोदानव्रतं** ब्रह्मचर्यं चरितव्यमि**त्येक उपदिशन्ति;** वैकल्पिकमित्यर्थः ॥१४॥
@@ -534,10 +550,12 @@ title = "१६ चौलम्"
 
 15. The difference (between the Kaula and the Godāna) is that (at the Godāna) the whole hair is shaven (without leaving the locks).
 </details>
+
 <details><summary>हरदत्त-प्रस्तावः</summary>
 
 उभयोरपि गोदानयोश्चौलाद्विशेषमाह—
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 अस्मिन् चौलगोदाने तु **एतावन्नाना** पृथग्भावश्चौलात् ।
@@ -548,6 +566,7 @@ title = "१६ चौलम्"
 तथा चाश्वलायनः–केशश्मश्रुलोमनखान्युदक् संस्थानि संप्रेष्यति ।
 (आश्व.गृ.१-१८-६) इति ॥१५॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **एतावन्नाना** एतावान् भेदः ।
@@ -585,15 +604,16 @@ title = "१६ चौलम्"
 
 16. [^8]  According to the followers of the Sāma-veda he should 'touch water.'
 
-
 [^8]:  The udakopasparśana according to the rite of the Sāmavedins is described by Gobhila, I, 2, 5 seqq.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 अस्मिन् गोदानव्रते अहर**हरुदकोपस्पर्शनं** (२)कर्तव्यमिति **छन्दोगा** उपदिशन्ति ।
 त्रिषवणमिति केचित् ॥ १६ ॥
 इति श्रीहरदत्तविरचितायामनाकुलायां गृह्यसूत्रवृत्तौ षोडशः खण्डः ॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 सांवत्सरिकगोदानव्रतपक्षे अहर**हरुदकोपस्पर्शनं छन्दोगा** उपदिशन्ति; विकल्प इत्यर्थः ॥१६॥

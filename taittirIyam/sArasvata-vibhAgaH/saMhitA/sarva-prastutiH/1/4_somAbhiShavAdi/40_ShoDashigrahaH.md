@@ -13,11 +13,10 @@ _______
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/084/01_asAvi_soma.md">
 <details open><summary><h5>०१ असावि सोम ...{Loading}...</h5></summary>
 
-
-**असा॑वि॒ सोम॑** इन्द्र ते॒,  
-शवि॑ष्ठ धृष्ण॒व्! **आ ग॑हि+++(=गच्छ)+++** ।  
-आ त्वा॑ **पृणक्त्व्**+++(=पूरयतु)+++ इन्द्रि॒यं+++(=वीर्यं)+++  
-रजः॒ सूर्यो॒ न र॒श्मिभिः॑ ॥
+**अ᳓सावि सो᳓म** इन्द्र ते,  
+श᳓विष्ठ धृष्णव्! **आ᳓ गहि+++(=गच्छ)+++** ।  
+आ᳓ त्वा **पृणक्त्व्**+++(=पूरयतु)+++ इन्द्रियं᳓+++(=वीर्यं)+++  
+र᳓जः सू᳓र्यो न᳓ रश्मि᳓भिः ॥
 
 </details>
 </div>
@@ -29,13 +28,15 @@ _______
 - ऋषिः - गोतमो राहूगणः
 - छन्दः - अनुष्टुप्
 </details>
+
 <details><summary>Thomson & Solcum</summary>
 
-अ꣡सावि सो꣡म इन्द्र ते  
-श꣡विष्ठ धृष्णव् आ꣡ गहि  
-आ꣡ त्वा पृणक्तु इन्द्रियं꣡  
-र꣡जः सू꣡र्यो न꣡ रश्मि꣡भिः
+अ᳓सावि सो᳓म इन्द्र ते  
+श᳓विष्ठ धृष्णव् आ᳓ गहि  
+आ᳓ त्वा पृणक्तु इन्द्रियं᳓  
+र᳓जः सू᳓र्यो न᳓ रश्मि᳓भिः
 </details>
+
 <details><summary>Vedaweb annotation</summary>
 
 _________
@@ -99,11 +100,13 @@ sū́ryaḥ ← sū́rya- (nominal stem)
 {case:NOM, gender:M, number:SG}
 
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 असा॑वि । सोमः॑ । इ॒न्द्र॒ । ते॒ । शवि॑ष्ठ । धृ॒ष्णो॒ इति॑ । आ । ग॒हि॒ ।  
 आ । त्वा॒ । पृ॒ण॒क्तु॒ । इ॒न्द्रि॒यम् । रजः॑ । सू॒र्यः॑ । न । र॒श्मिऽभिः॑ ॥
 </details>
+
 <details><summary>Hellwig Grammar</summary>
 
 -   *asāvi* ← *su*
@@ -210,10 +213,12 @@ _________
 _________
 
 </details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्र** **ते** त्वदर्थं **सोमः** **असावि** अभिषुतोऽभूत् । हे **शविष्ठ** अतिशयेन बलवन् अत एव **धृष्णो** शत्रूणां धर्षयितरिन्द्र **आ** **गहि** देवयजनदेशमागच्छ । आगतं च त्वाम् **इन्द्रियं** सोमपानेनोत्पन्नं प्रभूतं सामर्थ्यम् **आ** **पृणक्तु** आपूरयतु । **रजः** अन्तरिक्षं **रश्मिभिः** किरणैः **सूर्यो** **न** । यथा सूर्यः पूरयति तद्वत् ॥ शविष्ठ । शवस्विञ्शब्दात् इष्टनि ‘ विन्मतोर्लुक्'।' टेः' इति टिलोपः । पादादित्वात् निघाताभावः । गहि । गमेर्लोटि: बहलं छन्दसि ' इति शपो लुक् ।' अनुदात्तोपदेश इत्यादिना अनुनासिकलोपः । तस्य ‘असिद्धवदत्रा भात्' इति असिद्धवत्त्वात् हेः लुगभावः ॥
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हे **इन्द्र शविष्ठ** बलवत्तम । शवस्वच्-छब्दादिष्ठनि 'विन्मतोर्लुक्' इति मतुपो लुक्, 'टेः' इति टिलोपः । हे **धृष्णो** शत्रूणां धर्षयितः । 'त्रसिगृधिधृषिक्षिपेः क्नुः' इति क्नुप्रत्ययः । **आगहि** आगच्छ अस्मद्यज्ञम् । गमेश्शपो लुक् ।
@@ -222,6 +227,7 @@ _________
 
 किञ्च - **इन्द्रियं** वीर्यं सोमपानेन च प्रभूततां गतं त्वाम् **आपृणक्तु** आपूरयतु । सूर्यमिव रज उदकं यथा रश्मिभिर्द्वारभूतैः सूर्यमापूरयति ॥
 </details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -229,20 +235,24 @@ _________
 
 “The **Soma** has been expressed, **Indra**, for you; potent humber (of your foes), approach; may vigour fill you (by Soma), as the sun fills the firmament with his rays.”
 </details>
+
 <details><summary>Jamison Brereton</summary>
 
 The soma has been pressed for you, Indra. O strongest bold one,  come here.  
 Let Indrian strength permeate you, as the sun permeates the airy realm  with its rays.
 </details>
+
 <details><summary>Jamison Brereton Notes</summary>
 
 Unlike the standard tr., Witzel Gotō take rájaḥ ‘Raum’ with the frame, not the simile: “… soll dich (und) den Raum erfüllen, wie die Sonne …” I assume this is because the simile particle ná, which usually follows the first word of a simile, here follows the second word, by most interpretations (rájaḥ sū́ryo ná raśmíbhiḥ). This does not seem to me sufficient reason to split apart this cosmological image. I attribute the position of ná to the particularly close association of sū́rya- and raśmíbhiḥ, which are frequently adjacent (cf. esp. the identical simile but without a third term … sū́ryo ná raśmíbhiḥ in VIII.43.32, IX.41.5).
 </details>
+
 <details><summary>Griffith</summary>
 
 The Soma hath been pressed for thee, O Indra; mightiest, bold One, come.  
      May Indra-vigour fill thee full, as the Sun fills mid-air with rays.
 </details>
+
 <details><summary>Keith</summary>
 
 The Soma hath been pressed for thee O Indra;  
@@ -250,14 +260,17 @@ O most strong, O impetuous one, come hither;
 Let power encompass thee,  
 Even as the sun encompasses the atmosphere with its rays.
 </details>
+
 <details><summary>Geldner</summary>
 
 Soma ist für dich, Indra, ausgepresst, du Stärkster, Mutiger, komm herbei! Dich soll die Indrakraft durchdringen wie die Sonne mit ihren Strahlen den Raum.
 </details>
+
 <details><summary>Grassmann</summary>
 
 Gepresst ist Soma, Indra, dir, o stärkster, kühner, komme her; Die Indrakraft durchdringe dich, wie Sonnenstrahlen rings die Luft.
 </details>
+
 <details><summary>Elizarenkova</summary>
 
 Выжат сома для тебя, о Индра, –  
@@ -265,6 +278,7 @@ Gepresst ist Soma, Indra, dir, o stärkster, kühner, komme her; Die Indrakraft 
 Да наполнит тебя сила Индры,  
 Как солнце – пространство (своими) лучами!
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्र:
@@ -272,45 +286,53 @@ Gepresst ist Soma, Indra, dir, o stärkster, kühner, komme her; Die Indrakraft 
 - निचृदनुष्टुप्
 - गान्धारः
 </details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 
 अब चौरासीवें सूक्त का आरम्भ किया जाता है। इसके प्रथम मन्त्र में सेनापति के गुणों का उपदेश किया है ॥
 </details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  हे (धृष्णो) प्रगल्भ (शविष्ठ) प्रशंसित बलयुक्त (इन्द्र) परमैश्वर्य देनेहारे सत्पुरुष (ते) तेरे लिये जो (सोमः) अनेक प्रकार के रोगों को विनाश करनेहारी औषधियों का सार हमने (असावि) सिद्ध किया है, जो तेरी (इन्द्रियम्) इन्द्रियों को (सूर्यः) सविता (रश्मिभिः) किरणों से (रजः) लोकों का प्रकाश करने के (न) तुल्य प्रकाश करे उसको तू (आगहि) प्राप्त हो, वह (त्वा) तुझे (आ पृणक्तु) बल और आरोग्यता से युक्त करे ॥ १ ॥
 </details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
 भावार्थभाषाः -  इस मन्त्र में उपमालङ्कार है। प्रजा, सेना और पाठशालाओं की सभाओ में स्थित पुरुषों को योग्य है कि अच्छे प्रकार सूर्य के समान तेजस्वी पुरुष को प्रजा, सेना और पाठशालाओं में अध्यक्ष करके सब प्रकार से उसका सत्कार करना चाहिये, वैसे सभ्यजनों की भी प्रतिष्ठा करनी चाहिये ॥ १ ॥
 </details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
 
 अन्वय:  हे धृष्णो शविष्ठेन्द्र ! ते तुभ्यं यः सोमोऽस्माभिरसावि यस्ते तवेन्द्रियं सूर्यो रश्मिभी रजो नेव प्रकाशयेत् तं त्वमागहि समन्तात् प्राप्नुहि स च त्वा त्वामापृणक्तु ॥ १ ॥
 </details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 
 पुनः सेनाध्यक्षकृत्यमुपदिश्यते ॥
 </details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (असावि) उत्पाद्यते (सोमः) उत्तमोऽनेकविधरोगनाशक ओषधिरसः (इन्द्र) सर्वैश्वर्यप्राप्तिहेतो (ते) तुभ्यम् (शविष्ठ) बलिष्ठ (धृष्णो) प्रगल्भ (आ) आभिमुख्ये (गहि) प्राप्नुहि (आ) समन्तात् (त्वा) त्वाम् (पृणक्तु) सम्पर्कं करोतु (इन्द्रियम्) मनः (रजः) लोकसमूहम् (सूर्यः) सविता (न) इव (रश्मिभिः) किरणैः ॥ १ ॥
 </details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
 भावार्थभाषाः -  अत्रोपमालङ्कारः। प्रजासेनाशालासभास्थैः पुरुषैः सुपरीक्ष्य सूर्यसदृशं प्रजासेनाशालासभाध्यक्षं कृत्वा सर्वथा स सत्कर्त्तव्य एवं सभ्या अपि प्रतिष्ठापयितव्याः ॥ १ ॥
 </details>
+
 <details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - विषयः</summary>
 
 या सूक्तात सेनापतीचे गुणवर्णन असल्यामुळे या सूक्तार्थ्याची संगती पूर्वसूक्तार्थाबरोबर जाणली पाहिजे. ॥
 </details>
+
 <details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
 
 भावार्थभाषाः -  या मंत्रात उपमालंकार आहे, प्रजा, सेना, शाळा व सभा यांच्यात स्थित पुरुषांनी सूर्याप्रमाणे तेजस्वी पुरुषाला प्रजा, सेना शाळेत अध्यक्ष करून सर्व प्रकारे त्याचा सत्कार केला पाहिजे तसे सभ्य लोकांचाही आदर केला पाहिजे. ॥ १ ॥
 </details>
 </details>
 </div>  
-
 
 _______
 
@@ -320,6 +342,7 @@ _______
 
 उ॒प॒या॒मगृ॑हीतो॒ऽसीन्द्रा॑य त्वा षोड॒शिन॑ ए॒ष ते॒ योनि॒रिन्द्रा॑य त्वा षोड॒शिने॑ ॥
 </details>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 (ग्रहणम्)
@@ -330,14 +353,17 @@ _______
 
 उ॒प॒या॒म-गृ॑हीतो ऽसि।
 </details>
+
 <details><summary>Keith</summary>
 
 Thou art taken with a support/ foundation.
 </details>
+
 <details><summary>मूलम्</summary>
 
 उ॒प॒या॒मगृ॑हीतोऽसि।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 उपयम्यन्ते स्वात्मन्येव नियम्यन्ते भूतजातान्यस्मिन् अभिन्नेधिकरणे इत्युपयामः पृथ्वी । 'इयं वा उपयामः' इति ब्राह्मणम् । 'हलश्च' इति घञ्, थाथादिस्वरेणान्तोदात्तत्वम् । तेन गृहीतस्त्वमसि ; कोन्यस्त्वां गृहीतुं क्षम इति भावः ; पृथिव्यापो गृहीष्यामीतिवत् । 'तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् । यद्वा - उपयामार्थं पृथिव्यर्थं गृहीतोसीति ; हे सोम ।   
@@ -355,15 +381,18 @@ ________________
 इन्द्रा॑य त्वा षो॒ड॒शिने॑   +++(ग्रहणमन्त्रः)+++  ।
 
 </details>
+
 <details><summary>Keith</summary>
 
 to Indra of the Sodaśin thee!
 </details>
+
 <details><summary>मूलम्</summary>
 
 उ॒प॒या॒मगृ॑हीतो॒ऽसीन्द्रा॑य त्वा षो॒ड॒शिने॑   +++(ग्रहणमन्त्रः)+++  ।
 
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 2-3ग्रहणसादने व्याख्याते ।  
@@ -376,14 +405,17 @@ __________
 
 (सादनम्)
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ए॒ष ते॒ योनि॒रिन्द्रा॑य त्वा षोड॒शिने॑ ॥ [38]   +++(सादनमन्त्रः)+++
 </details>
+
 <details><summary>Keith</summary>
 
 This is thy birthplace; to Indra of the Sodaśin thee!
 </details>
+
 <details><summary>मूलम्</summary>
 
 ए॒ष ते॒ योनि॒रिन्द्रा॑य त्वा षोड॒शिने॑ ॥ [38]   +++(सादनमन्त्रः)+++

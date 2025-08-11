@@ -1,8 +1,8 @@
 ---
 title: ०६ रथधावनम्
 unicode_script: devanagari
----
 
+---
 ##  वाजपेयब्राह्मणम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -530,7 +530,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-यमे॒व ते वाज॑ल्ँलो॒कमु॒ज्जय॑न्ति ।
+यमे॒व ते वाज॑ल्ँ लो॒कमु॒ज्जय॑न्ति ।
 तम्प॑रि॒क्रीयाव॑रुन्धे ।
 </details>
 
@@ -748,7 +748,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-यमे॒व ते वाज॑ल्ँलो॒कमु॒ज्जय॑न्ति ।
+यमे॒व ते वाज॑ल्ँ लो॒कमु॒ज्जय॑न्ति ।
 तमे॒वाव॑रुन्धे ।
 </details>
 
@@ -774,7 +774,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-यमे॒व ते वाज॑ल्ँलो॒कमि॑न्द्रि॒यन्दु॑न्दु॒भय॑ उ॒ज्जय॑न्ति ।
+यमे॒व ते वाज॑ल्ँ लो॒कमि॑न्द्रि॒यन्दु॑न्दु॒भय॑ उ॒ज्जय॑न्ति ।
 तमे॒वाव॑रुन्धे ॥39॥  
 </details>
 
@@ -795,4 +795,3 @@ unicode_script: devanagari
 इति तृतीये षष्ठोऽनुवाकः ॥  
 
 </details>
-

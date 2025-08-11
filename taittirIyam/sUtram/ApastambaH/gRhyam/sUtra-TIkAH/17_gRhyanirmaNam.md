@@ -14,7 +14,6 @@ title = "१७ गृह्यनिर्मणम्"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/01_yadbhUmeH_krUram.md">
 <details open><summary><h5>०१ यद्भूमेः क्रूरम् ...{Loading}...</h5></summary>
 
-
 यद् भूमेः॑ क्रू॒रं तद् इ॒तो ह॑रामि॒,  
 परा॑ची॒न् निर्ऋ॑तिं॒ निर्वा॑हयामि ।  
 इ॒दँ श्रेयो॑ ऽव॒सान॒म्+++(=स्थानम्)+++ आग॑न्म+++(=आगतवन्तो)+++ देवा॒,  
@@ -30,6 +29,7 @@ title = "१७ गृह्यनिर्मणम्"
 
 1. The ground for building a house should be inclined towards the south-west. He elevates the surface and sweeps (the earth) with a broom of Palāśa wood or of Sami wood, with the next (verse, M. II, 15, 1), in the same (south-west) direction;
 </details>
+
 <details><summary>हरदत्त-प्रस्तावः</summary>
 
 यज्ञेष्वधिकरिष्यमाणस्य पुरुषस्य देहसंस्कारा व्याख्याताः ।
@@ -38,6 +38,7 @@ title = "१७ गृह्यनिर्मणम्"
 विधिवत् प्रवेशादपेक्षितायुर्यज्ञधनादिफलसिद्धिः ।
 अतो मन्त्राम्नानक्रमप्राप्तो गृहनिर्माणप्रवेशयोर्विधिर्व्याख्यायते
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 अथ गृहसम्मानविधिः ।
@@ -53,6 +54,7 @@ title = "१७ गृह्यनिर्मणम्"
 उद्धत्य तान् पांसून् पालाशेन शमीयेन वो**दूहेन** एतामेव दिशं प्रति उत्तरयर्चा "यद्भूमेः क्रूरम्"इत्येतया **उदूहति** उन्नतात् प्रदेशात् अवनते प्रापयति ।
 उदूह्यतेऽनेनेत्युदूहः ॥१॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 योऽगारार्थत्वेनाभिप्रेतोऽवकाशो भूमिभागो **दक्षिणाप्रत्यक्प्रवणः** दक्षिणाप्रतीच्यां नैर्ऋत्यां दिशि निम्नस्त**मुद्धत्य** खनित्रादिना पांसू(१)नुत्खाद्य **पालाशेन शमीमयेन वोदूहेन,** उदूह्यन्ते देशान्तरं प्राप्यन्ते पांसवोऽनेनेत्युदूहः; वादुलूक इत्यर्थः। तेनैतामेव कोणदिशं **उत्तरया** "यद्भूमेः क्रूरम्" इत्येतयो**दूहति** ॥१॥
@@ -84,10 +86,12 @@ title = "१७ गृह्यनिर्मणम्"
 
 2. In the same way three times.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 एवं त्रिरुद्धत्य उधूहति ॥२॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 उदूहतीति सम्बन्धः ।
@@ -118,11 +122,9 @@ title = "१७ गृह्यनिर्मणम्"
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/022/15_syonA_pRthivi.md">
 <details open><summary><h7>१५ स्योना पृथिवि ...{Loading}...</h7></summary>
 
-
-+++(अभिमृशति)+++  
-स्यो॒ना+++(=सुखरूपा)+++ पृ॑थिवि॒ भवा॑+  
-ऽनृक्ष॒रा+++(=कण्टकादिरहिता)+++ नि॒वेश॑नी ।  
-यच्छा॑ न॒श् शर्म॑ स॒प्रथाः॑+++(=सकीर्तिः)+++ ।
+स्योना᳓+++(=सुखरूपा)+++ पृथिवि भव+  
+अनृक्षरा᳓+++(=कण्टकादिरहिता)+++ निवे᳓शनी ।  
+य᳓च्छा नश् श᳓र्म सप्र᳓थाः+++(=सकीर्तिः)+++ ।
 
 </details>
 </div>
@@ -136,7 +138,6 @@ __________________
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/03_ihaiva_tiShTha.md">
 <details open><summary><h5>०३ इहैव तिष्ठ ...{Loading}...</h5></summary>
 
-
 इ॒हैव ति॑ष्ठ॒ निमि॑ता॒+++(=निखाता)+++  
 +++(तक्षकृत-)+++तिल्व॑ला+++(=तिलकवती)+++ स्या॒द् इरा॑+++(=अन्न)+++वती ।  
 मध्ये॒ ताल्प्य॑स्य+++(=गृह्यस्य [द्वारस्य])+++ तिष्ठा॒न्+++(त्)+++  
@@ -146,7 +147,6 @@ __________________
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/04_A_tvA.md">
 <details open><summary><h5>०४ आ त्वा ...{Loading}...</h5></summary>
-
 
 आ त्वा॑ कुमा॒रस् तरु॑ण॒  
 आ व॒त्सो जग॑ता स॒ह ।  
@@ -163,6 +163,7 @@ __________________
 
 3. He touches the ground, which has thus been prepared, with the next (verse, II, 15, 2). Then he has the pits for the posts dug from left to right, throws the earth (from the pits) towards the inside (of the building-ground), and erects the right doorpost with the next two (verses, M. II, 15, 3. 4)
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 एवमुदूह्य ततस्तं भूमिभागं कल्पयन्ति यथा सर्वतस्समं सम्पद्यते ।
@@ -174,6 +175,7 @@ __________________
 एवमन्यथाद्वारेऽप्यगारे यथासम्भवं प्रदक्षिणमभ्यन्तरत्वं च सम्पाद्यम् ।
 एवं **खानयित्वा** गर्तेभ्यः पासूनुदूप्य उद्धत्य तत **उत्तराभ्यां** ऋग्भ्यां "इहैव तिष्ठ" इत्येताभ्यां दक्षिणाद्वारस्थूणां गर्ते **अवदधाति** ॥३॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 कॢप्तमुदूहेन प्रागुदक्प्रवणं कृतं **उत्तरया** "स्योना पृथिवि" इत्यनया** अभिमृश्य स्थूणागर्तान्** स्थूणानां (१)विभागार्थान् गर्तान् कर्मकरैः प्रदक्षिणं **खानयित्वा**भ्यन्तरमारभ्य, न बहिः, **पांसूनुदुप्य उत्तराभ्यां** "इहैव तिष्ठ" इत्येताभ्यां **दक्षिणां** निष्क्रामत एव, न प्रविशतः, द्वारस्थूणामवटे **अवदधाति ।**
@@ -204,10 +206,12 @@ __________________
 
 4. In the same way the other (door-post).
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 एताभ्यामेव द्वाभ्यामृग्भ्यां **इतरां** उत्तराञ्च द्वारस्थूणां अवदधातीत्यर्थः। इह दक्षिणामितरामिति निष्क्रमतः सव्यदक्षिणे प्रत्येतव्ये; न प्रविशतः ॥४॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **इतरां** सव्यां द्वारस्थूणां **एवं** "इहैव तिष्ठ" इत्येताभ्यामेवावदधाति ॥४॥
@@ -233,7 +237,6 @@ __________________
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/05_Rtena_sthUNAvadhiroha.md">
 <details open><summary><h5>०५ ऋतेन स्थूणावधिरोह ...{Loading}...</h5></summary>
 
-
 ऋ॒तेन॒ स्थूणा॑व्+++(=स्तम्भम्)+++ अ॒धिरो॑ह वँ॒शो  
 ऽग्रो वि॒राज॒न्न् अप॑सेध शत्रून्॑ ।  
 
@@ -247,6 +250,7 @@ __________________
 
 5. Having erected after (the door-posts) the other (posts) in the same order in which (the pits) have been dug, he recites the next Yajus (II, 15, 5) over the ridge-pole when it is placed (on the posts),
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 द्वारस्थूणयोः यथाखातं अवधानं मन्त्रवच्च ।
@@ -258,6 +262,7 @@ __________________
 तत्र मन्त्रे स्थूणाविति छान्दसो लिङ्गव्यत्ययः ।
 द्विवचनञ्च यथासम्भवं द्रष्टव्यम् ॥५॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **यथाखातं** खननक्रमेण **इतराः** स्थूणाः तूष्णी**मन्ववधाय** वंशं स्तूपं स्थूणास्वाधीयमानं **उत्तरेण यजुषा** "ऋतेन स्थूणावधिरोह" इत्यनेनाभिमन्त्रयते ॥५॥
@@ -282,7 +287,6 @@ __________________
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/06-11_brahma_cha.md">
 <details open><summary><h5>०६-११ ब्रह्म च ...{Loading}...</h5></summary>
 
-
 ब्रह्म॑ च ते क्ष॒त्रञ् च॒ पूर्वे॒ स्थूणे॑ अ॒भिर॑क्षतु ।  
 य॒ज्ञश् च॒ दक्षि॑णाश् च॒ दक्षि॑णे [स्थूणे॑ अ॒भिर॑क्षतु]।  
 इ॒षश् चो॒र्जश् +++(शारदौ मासौ)+++ चाप॑रे [स्थूणे॑ अ॒भिर॑क्षतु]।  
@@ -300,6 +304,7 @@ __________________
 
 6. The next (six) (Yajus formulas, II, 15, 6-11) over the (house when it is) finished, according to the characteristics contained in the single formulas.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 ततस्तदगारं **सम्मितं** संकॢप्तं **उत्तरैर्मन्त्रैः** "ब्रह्म च ते क्षत्र"मित्यादिभिष्षड्भिः ।
@@ -319,6 +324,7 @@ __________________
 तस्मादाकाङ्क्षैव नास्ति ।
 सन्निधानाच्च स्थूणाप्रतिपत्तिः ॥६॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **सम्मितं** निर्मितमगारं **उत्तरैः** "ब्रह्म च ते क्षत्रं च" इत्यादिभिः पञ्चभिर्मन्त्रैः **यथालिङ्गं** मन्त्रलिङ्गावगतदिङ्मुखोऽभिमन्त्रयते । तत्र पञ्चमेन मध्यमाभिमुखः, अनन्वितत्वात् ।

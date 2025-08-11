@@ -2,9 +2,10 @@
 title = "०६ वाग् होता"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/06_vAg_hotA"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/06_vAg_hotA">
+<details open><summary><h1>०६ वाग् होता ...{Loading}...</h1></summary>
 
-
+## होता
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1उत्तरतः प्राञ्चं षढ्ढोतारमुपदद्धाति - वाग्घोतेति ॥ ‘वाग्घोता षढ्ढोतॄणां' इत्येतद्-ब्राह्मणोक्तत्वाद् अयमेवोत्तरत इत्येके ।  
@@ -21,7 +22,6 @@ title = "०६ वाग् होता"
 वागेव मदीया मम होता 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 वाग्घोता॑ ।  
@@ -36,7 +36,6 @@ title = "०६ वाग् होता"
 
 शस्त्रादिवाक्स्थानीया दीक्षा नियमपरम्परा सैव पत्नी । 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -53,12 +52,11 @@ title = "०६ वाग् होता"
 वातः प्राणः स एव अध्वर्युः कर्तृत्वात् । 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 वातो॑ऽध्व॒र्युः ।  
 </details>
-  
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आपो॑ऽभिग॒रः ।  
@@ -68,7 +66,6 @@ title = "०६ वाग् होता"
 
 आपोऽभिगरः आभिगरिता ब्रह्मा । यद्वा - अभिगरणं उद्देशादिर्यजमानव्यापारः, तद्धेतुत्वात् । 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -85,7 +82,6 @@ title = "०६ वाग् होता"
 मनो हविः आज्यादि, तृप्तिहेतुत्वात् । 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 मनो॑ ह॒विः ।  
@@ -101,7 +97,6 @@ title = "०६ वाग् होता"
 तपसि अग्निस्थानीये तत् मनोहविः जुहोमि स्थापयामि अविनाशेन प्रवर्तयामि इति सूचितं हविग्रहणेन ॥
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तप॑सि जुहोमि ।  
@@ -110,9 +105,9 @@ title = "०६ वाग् होता"
 ## ग्रहः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भूर्भुव॒स्सुवः॑ ।  
-ब्रह्म॑ स्वयं॒भु ।  
-ब्रह्म॑णे स्वयं॒भुवे॒ स्वाहा॑ ।  
+भूर् भुव॒स् सुवः॑ ।  
+ब्रह्म॑ स्वयं॒-भु ।  
+ब्रह्म॑णे स्वयं॒-भुवे॒ स्वाहा॑ ।  
 (6)  
 </details>
 
@@ -122,7 +117,6 @@ title = "०६ वाग् होता"
 इत्यारण्यके तृतीये षष्ठोऽनुवाकः ॥  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 भूर्भुव॒स्सुवः॑ ।  
@@ -130,6 +124,5 @@ title = "०६ वाग् होता"
 ब्रह्म॑णे स्वयं॒भुवे॒ स्वाहा॑ ।  
 (6)  
 </details>
-
-
+</details>
 </div>

@@ -14,7 +14,6 @@ title = "१२ पुंसुवनम्"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/14_puMsuvanamasi.md">
 <details open><summary><h5>१४ पुंसुवनमसि ...{Loading}...</h5></summary>
 
-
 पुँ॒ सु॒वन॑म् असि ।  
 
 </details>
@@ -27,6 +26,7 @@ title = "१२ पुंसुवनम्"
 
 9. The Puṃsavana (i.e. the ceremony to secure the birth of a male child) is performed when the pregnancy has become visible, under the constellation Tiṣya.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 पुमान् येन सूयते **तत्पुंसुवनं** नाम कर्म ।
@@ -41,6 +41,7 @@ title = "१२ पुंसुवनम्"
 **तिष्येण** तच्च तिष्ये कर्तव्यम् ।
 "नक्षत्रे च लुपी"ति अधिकरणे तृतीया ॥९॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **पुंसुवनम्** इत्यपि कर्मनामधेयम्। येन कर्मणा निमित्तेन गर्भिणी पुमांसम् एव सूते तत् **पुंसवनम्** ।  
@@ -69,7 +70,6 @@ title = "१२ पुंसुवनम्"
 
 पुँसवनं व्यक्ते गर्भे तिष्येण ।
 
-
 </details>
 </div>
 
@@ -88,6 +88,7 @@ title = "१२ पुंसुवनम्"
 
 10. From a branch of a Nyagrodha tree, which points eastward or northward, he takes a shoot with two (fruits that look like) testicles. The putting (of wood) on the fire, &c., is performed as at the Sīmantonnayana (Sūtra 2).
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 **न्यग्रोधस्य** वृक्षस्य **या प्राची शाखोदीची वा** तस्याः **शुङ्गाम्** अग्राङ्कुरं **सवृषणां** फलं वृषणमिति व्यपदिश्यते सादृश्यादेव ।
@@ -102,6 +103,7 @@ title = "१२ पुंसुवनम्"
 आज्यभागान्ते ऽन्वारब्धायां "धाता ददातु नो रयिम्" इति चतस्रो यस्त्वा हृदा कीरिणेति चतस्रः । जयादि प्रतिपद्यते ।
 परिषेचनान्ते ततो वक्ष्यमाणं कर्म ॥१०॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **सवृषणां** वृषणाकृतिकेन फलद्वयेन संयुक्तां, **शुङ्गां** अग्राङ्कुरम् ।
@@ -139,10 +141,12 @@ title = "१२ पुंसुवनम्"
 
 11. He causes a girl who has not yet attained maturity to pound (the Nyagrodha shoot) on an upper mill-stone with another upper mill-stone, and to pour water on it; then he makes his wife lie down on her back to the west of the fire, facing the east, and inserts (the pounded substance) with his thumb into her right nostril, with the next Yajus (II, 11, 13).
 </details>
+
 <details><summary>हरदत्त-प्रस्तावः</summary>
 
 अथ समाप्ते तन्त्रशेषे कर्तव्यमाह—
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 यस्याः प्रादुर्भूतं रजः सा अवस्नाता ।
@@ -155,6 +159,7 @@ title = "१२ पुंसुवनम्"
 प्राङ्मुख एव ।
 (पिधाय नयनं स्वयं च प्राङ्मुखः) ॥११॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 स्नाननिमित्तस्य रजसोऽनुत्पन्नत्वात् या न स्नाता तया **अनवस्नातया** कन्यया दृषदर्थापन्ने **दुषत्पुत्रे** शुङ्गां निधाप्य **दृषत्पुत्रान्तरेण** पेषयित्वा तद्रसं वस्त्रेण **प्लावयित्वा** ततो जायामपरेणाग्निं **प्राचीं** प्राक्छिरसं **उत्तानाम्** ऊर्ध्वमूखीं, **निपात्य** शाययित्वा ।
@@ -186,6 +191,7 @@ title = "१२ पुंसुवनम्"
 
 12. Then she will give birth to a son.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 एवमनेन कर्मणा संस्कृता स्त्री **पुमासं जनयति ।**
@@ -205,6 +211,7 @@ title = "१२ पुंसुवनम्"
 प्रथम-ग्रहणं च नानुवर्तते, पुनर्-गर्भ-ग्रहणात् ।
 पुंसवनस्य तु पश्चाद् उपदेशो यथा चतुर्थे मासि तत्क्रियते तस्य पश्चात् प्रयोगार्थ इति ॥१२॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 कर्मणानेन संस्कृता अन्तर्वत्नी **पुमांसं जनयति** इत्य् अर्थवादः - नित्यत्वात् पुंसुवनस्य ।
@@ -243,10 +250,12 @@ title = "१२ पुंसुवनम्"
 
 13. Here follows the ceremony to secure a quick deliverance.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 येन कर्मणा क्षिप्रं सूयते तत् **क्षिप्रंसुवनं** नाम कर्मोच्यते ॥१३॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 येन **क्षिप्रं** शीघ्रं सूतेऽन्तर्वत्नी न चिरं कालं पीड्यते तत् **क्षिप्रंसुवनं** नाम इति कर्मोपदिश्यते ॥१३॥
@@ -271,7 +280,6 @@ title = "१२ पुंसुवनम्"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/15_AbhiShTvAhan_dashabhirabhimRshAmi.md">
 <details open><summary><h5>१५ आभिष्ट्वाहन् दशभिरभिमृशामि ...{Loading}...</h5></summary>
 
-
 +++(अङ्गुलीभिर्)+++ आ॒भिष् ट्वा॒ ऽहं द॒शभि॑र् अ॒भिमृ॑शामि॒ - दश॒मास्या॑य॒ सूत॑वे ।+++(र४)+++  
 
 </details>
@@ -295,7 +303,6 @@ title = "१२ पुंसुवनम्"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/17_dasha_mAsAnChashayAno.md">
 <details open><summary><h5>१७ दश मासाञ्छशयानो ...{Loading}...</h5></summary>
 
-
 दश॒ मासा॒ञ् छश॑यानो  
 धा॒त्रा हि तथा॑ कृ॒तम् ।  
 ऐतु॒ गर्भो॒ अक्षि॑तो  
@@ -305,7 +312,6 @@ title = "१२ पुंसुवनम्"
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/18_AyamanIryamayata_garbhamApo.md">
 <details open><summary><h5>१८ आयमनीर्यमयत गर्भमापो ...{Loading}...</h5></summary>
-
 
 आ॒यम॑नीर् यमयत॒ गर्भ॒म्  
 आपो॑ देवी॒स् सर॑स्वतीः ।  
@@ -322,6 +328,7 @@ title = "१२ पुंसुवनम्"
 
 14. With a shallow cup that has not been used before, he draws water in the direction of the river's current; at his wife s feet he lays down a Tūryantī plant; he should then touch his wife, who is soon to be delivered, on the head, with the next Yajus (II, 11, 14), and should sprinkle her with the water, with the next (three) verses (II, 11, 15-17).
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 **अनाप्रीतेना**स्पृष्टोदकेनानु**स्रोतसं** उदकस्य प्रस्रवतो न प्रतीपम् ।
@@ -334,6 +341,7 @@ title = "१२ पुंसुवनम्"
 दशभिरिति लिङ्गादुभाभ्यां पाणिभ्यामभिमर्शनम् अनुलोमं मुखादारभ्य तत एताभिराहृताभिरेवाद्भिस्तामवोक्षेत् ।
 उत्तराभिस्तिसृभिः ऋग्भिः "यथैव सोमः पर्वत" इत्येताभिः प्रतिमन्त्रमवोक्षणम् ॥१४॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **अनाप्रीतेन** अनुदकलिप्तेन अस्पृष्टोदकेनेत्यर्थः ।
@@ -380,15 +388,12 @@ title = "१२ पुंसुवनम्"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/19_tilade-vapadyasva_na.md">
 <details open><summary><h5>१९ तिलदेऽवपद्यस्व न ...{Loading}...</h5></summary>
 
-
 तिल॒दे +++(जरायो!)+++ ऽव॑पद्यस्व॒+++(=अवपत)+++, न माँ॒सम् अ॑सि॒, नोदल॑+++(र)+++म् ।+++(र४)+++  
 
 </details>
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/20_sthavitryavapadyasva_na.md">
 <details open><summary><h5>२० स्थवित्र्यवपद्यस्व न ...{Loading}...</h5></summary>
-
-
 
 स्थ॒वि॒त्र्य् अव॑पद्यस्व॒, न माँ॒सेषु॒, न स्नाव॑सु॒+++(=tendon)+++ न ब॒द्धम॑सि म॒ज्जसु॑ ।  
 निरै॑तु॒ पृश्नि॒+++(=स्वल्परूपं)+++ शेव॑+++(=सुख)+++लँ शु॒ने ज॒राय्व् अ॒त्तवे॑ ॥ (11)
@@ -403,6 +408,7 @@ title = "१२ पुंसुवनम्"
 
 15. Yadi jarāyu na pated evaṃvihitābhir evādbhir uttarābhyām (II, 11, 18. 19) avokṣet.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 **जरायु** गर्भावेष्ठनं,** तद् **यदि न पतेत्**, तत उत्तरो विधिः कर्तव्यः ।
@@ -410,6 +416,7 @@ title = "१२ पुंसुवनम्"
 एते च कर्मणी स्वभार्याविषयौ ) यक्ष्मगृहीतामन्यां वेति कर्मान्तरे यत्नकरणात् ।
 अन्ये पुनरविशेषेणेच्छन्ति ॥१५॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **यदि** प्रसूतायास्तस्या **जरायु** गर्भप्रावरणं **न पतेत्** तदा "अनाप्रीतेन शरावेण" इत्यादिविधिनाऽहृताभिर् **अद्भिः** "ऐतु गर्भो अक्षितः"

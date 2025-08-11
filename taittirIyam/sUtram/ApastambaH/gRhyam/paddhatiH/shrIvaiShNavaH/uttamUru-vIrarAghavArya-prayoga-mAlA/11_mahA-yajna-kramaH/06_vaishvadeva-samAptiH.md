@@ -7,17 +7,15 @@ title = "०६ वैश्वदेव-समाप्तिः"
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/189/01_agne_naya.md">
 <details open><summary><h5>०१ अग्ने नय ...{Loading}...</h5></summary>
 
-अग्ने॒ **नय॑** सु॒पथा॑ **रा॒ये** अ॒स्मान्  
-विश्वा॑नि देव व॒युना॑नि+++(=ज्ञानानि)+++ वि॒द्वान् ।  
-**यु॒यो॒ध्य्**+++(=अपनय)+++ अ॑स्मज्-जुहुरा॒णम्+++(=कुटिलकारि)+++ एनो॒  
-भूयि॑ष्ठान् ते॒ **नम॑-उक्तिव्ँ विधेम** ॥
+अ᳓ग्ने **न᳓य** सुप᳓था **राये᳓** अस्मा᳓न्  
+वि᳓श्वानि देव वयु᳓नानि+++(=ज्ञानानि)+++ विद्वा᳓न् ।  
+**युयोध्य्**+++(=अपनय)+++ अ᳙स्मज्-जुहुराण᳓म्+++(=कुटिलकारि)+++ ए᳓नो  
+भू᳓यिष्ठान् ते **न᳓म-उक्तिव्ँ विधेम** ॥
 
 </details>
 </div>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/mantrahInam_hutAshana.md">
 <details open><summary><h5>मन्त्रहीनं - हुताशन ...{Loading}...</h5></summary>
-
 
 (अग्नये नमः)
 
@@ -26,8 +24,9 @@ title = "०६ वैश्वदेव-समाप्तिः"
 मन्त्रहीनं क्रियाहीनं  
 भक्तिहीनं हुताशन ।  
 यद्धुतं तु मया देव  
-परिपूर्णं तदस्तु ते ॥
+परिपूर्णं तदस्तु ते ॥  
 </details>
+
 <details><summary>मूलम्</summary>
 
 मन्त्रहीनं क्रियाहीनं  
@@ -46,6 +45,7 @@ title = "०६ वैश्वदेव-समाप्तिः"
 यानि तेषाम् अशेषाणां  
 कृष्णानुस्मरणं परम् ॥
 </details>
+
 <details><summary>मूलम्</summary>
 
 प्रायश्चित्तान्यशेषाणि  

@@ -21,7 +21,6 @@ title = "०४ वेदिविधिः"
 (Saying) 'On the impulse of the god Savitr thee', he takes the sword, for impelling. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 "दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒व" इति॒ स्फ्यम् आ द॑त्ते प्रसू॑त्यै,  
@@ -36,26 +35,74 @@ title = "०४ वेदिविधिः"
 
 1देवस्य त्वेत्यादि ॥ वेदिविधिः । **प्रसूतिः** सवितुरनुज्ञा । अपिच यतत्वाय प्रयत्यै वा ॥
 </details>
-
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/04_havir-nirvApaH/ashvinor_bAhubhyAm.md" unfilled newLevelForH1="5" includeTitle="false"> 
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/04_havir-nirvApaH/ashvinor_bAhubhyAm.md">
+<details open><summary><h5>अ॒श्विनो॑र् बा॒हुभ्या॒म् ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒श्विनो॑र्बा॒हुभ्या॒म् इत्या॑ह ।  
-अ॒श्विनौ॒ हि दे॒वाना॑मध्व॒र्यू आस्ता॑म् ।   
-पू॒ष्णो हस्ता॑भ्या॒मित्या॑ह  यत्यै॑।
+"अ॒श्विनो॑र् बा॒हुभ्या॒म्" इत्य् आ॑ह ।  
+अ॒श्विनौ॒ हि दे॒वाना॑म् अध्व॒र्यू आस्ता॑म् ।
+</details>
+
+<details><summary>Keith</summary>
+
+'With the arms of the Aśvins', he says, for the Aśvins were the Adhvaryus of the gods. 
 </details>
 
 <details><summary>मूलम्</summary>
 
-प्रसू॑त्या अ॒श्विनो॑र्बा॒हुभ्या॒मित्या॑ह ।  
-अ॒श्विनौ॒ हि दे॒वाना॑मध्व॒र्यू आस्ता॑म् ।   
-पू॒ष्णो हस्ता॑भ्या॒मित्या॑ह  यत्यै॑।
+"अ॒श्विनो॑र्बा॒हुभ्या॒"मित्या॑ह ।
+अ॒श्विनौ॒ हि दे॒वाना॑मध्व॒र्यू आस्ता॑म् ।
 </details>
 
-</div>  
+<details><summary>पद-पाठः</summary>
 
+अ॒श्विनोः॑ । बा॒हुभ्या॒मिति॑ बा॒हु-भ्या॒म् । इति॑ । आ॒ह॒ ।
+अ॒श्विनौ॑ । हि । दे॒वाना॑म् । अ॒ध्व॒र्यू इति॑ । आस्ता॑म् ।
+</details>
 
+<details><summary>भट्टभास्कर-टीका</summary>
+
+अध्वर्यू इति । अध्वरस्य नेतारौ मणिबन्धादुपरि वा स्तः ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+अश्विनोर्बाहुभ्यामित्याह। अश्विनौ हि देवानामध्वर्यू आस्ताम्। 
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"पू॒ष्णो हस्ता॑भ्या॒"म् इत्य् आ॑ह॒ यत्यै॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+'With the hands of Pusan', he says, for restraint. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+"पू॒ष्णो हस्ता॑भ्या॒"मित्या॑ह॒ यत्यै॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+पू॒ष्णः । हस्ता॑भ्याम् । इति॑ । आ॒ह॒ । यत्यै॑ । 4 ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+**यत्यै** यमनाय धारणाय ॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+पूष्णो हस्ताभ्यामित्याह यत्यै (ब्रा. का.३ प्र.२ अ.९) इति ।
+
+</details>
+</details>
+</div>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 श॒तभृ॑ष्टिरसि वानस्प॒त्यो द्वि॑ष॒तो व॒ध इत्या॑ह॒ वज्र॑मे॒व तत्सँ श्य॑ति॒
@@ -86,7 +133,6 @@ title = "०४ वेदिविधिः"
 
 </details>
 
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 2शतभृष्टिरसीति ॥ स्फ्याभिमन्त्रणम् । शतपरिपाको वनस्पतिविकारो द्विषतां वधहेरुरिति वचनेन वज्रमेव भ्रातृव्याय प्रहर्तुं सम्यक् निशितं करोति ॥
@@ -115,7 +161,6 @@ verily he deprives his enemy of so much of that [1].
 Therefore they do not deprive one who has no share.  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 स्त॑म्बय॒जुर्ह॑रति ।  
@@ -133,7 +178,6 @@ Therefore they do not deprive one who has no share.
 तस्मा॑त् । न । अ॒भा॒गम् । निरिति॑ । भ॒ज॒न्ति॒ । 
 </details>
 
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 3स्तम्बयजुर् इति मन्त्रेण । तृणपुरीषहरणस्येयं संज्ञा ।   
@@ -150,7 +194,7 @@ Therefore they do not deprive one who has no share.
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-त्रिर्ह॑रति॒ त्रय॑ इ॒मे लो॒का ए॒भ्य ए॒वैन॑ल्ँलो॒केभ्यो॒ निर्भ॑जति तू॒ष्णीञ्च॑तु॒र्थँ ह॑र॒त्यप॑रिमितादे॒वैन॒न्निर्भ॑जति
+त्रिर्ह॑रति॒ त्रय॑ इ॒मे लो॒का ए॒भ्य ए॒वैन॑ल्ँ लो॒केभ्यो॒ निर्भ॑जति तू॒ष्णीञ्च॑तु॒र्थँ ह॑र॒त्यप॑रिमितादे॒वैन॒न्निर्भ॑जति
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -168,11 +212,10 @@ He throws it away thrice;
 these worlds are three; verily he excludes him from these worlds. He throws it silently a fourth time; verily he excludes him from the unmeasured. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 त्रिर्ह॑रति॒,  त्रय॑ इ॒मे लो॒काः ।  
-ए॒भ्य ए॒वैन॑ल्ँलो॒केभ्यो॒ निर्भ॑जति ।  
+ए॒भ्य ए॒वैन॑ल्ँ लो॒केभ्यो॒ निर्भ॑जति ।  
 तू॒ष्णीञ्च॑तु॒र्थँ ह॑रति ।  
 अप॑रिमितादे॒वैन॒न्निर्भ॑जति।
 </details>
@@ -209,7 +252,6 @@ these worlds are three; verily he excludes him from these worlds. He throws it s
 He uproots it; verily what of it is impure he cuts off. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 उद्ध॑न्ति।  
@@ -236,7 +278,6 @@ He uproots it; verily what of it is impure he cuts off.
 
 He uproots it; therefore the plants perish. 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -265,7 +306,6 @@ He uproots it; therefore the plants perish.
 He cuts the root; verily he cuts the root of the enemy. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 मूल॑ञ्छिनत्ति ।  
@@ -276,7 +316,6 @@ He cuts the root; verily he cuts the root of the enemy.
 
 मूल॑म् । छि॒न॒त्ति॒ । भ्रातृ॑व्यस्य । ए॒व । मूल॑म् । छि॒न॒त्ति॒ । 7 ।
 </details>
-
 
 ## खननादि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -291,7 +330,6 @@ He cuts the root; verily he cuts the root of the enemy.
 If dug too deep, it has the Pitrs for its deity;  
 so much does he dig as is measured [2] by Prajapati as the mouth of the sacrifice. 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -322,7 +360,6 @@ so much does he dig as is measured [2] by Prajapati as the mouth of the sacrific
 
 He digs until (he reaches) support; verily he causes the sacrificer to reach support. 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -357,7 +394,6 @@ He digs until (he reaches) support; verily he causes the sacrificer to reach sup
 He makes it higher on the south;  
 verily he makes it the form of the sacrificial ground.  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -428,7 +464,6 @@ verily he makes him full of offspring and cattle.
 He performs the second drawing of a boundary. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 उत्त॑रम्परिग्रा॒हम्परि॑ गृह्णाति ।    
@@ -459,7 +494,6 @@ verily having excluded his enemy from so much of it,
 he performs the second drawing of a boundary for himself.  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 ए॒ताव॑ती॒ वै पृ॑थि॒वी याव॑ती॒  वेदिः॑ ।  
@@ -489,12 +523,10 @@ he performs the second drawing of a boundary for himself.
 Cruelly he acts [3] in making an altar. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 क्रू॒रमि॑व॒ वा ए॒तत्क॑रोति॒ यद्वेदि॑ङ्क॒रोति॑
 </details>
-
 
 <details><summary>पद-पाठः</summary>
 
@@ -516,11 +548,11 @@ Cruelly he acts [3] in making an altar.
 (With the words) 'Thou art the holder, thou art the self holder', it is made smooth, for healing. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 धा अ॑सि, स्व॒धा अ॒सीति॑ योयुप्यते॒ शान्त्यै॑ । [23]  ।  
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 धाः । अ॒सि॒ । स्व॒धेति॑ स्व-धा । अ॒सि॒ । इति॑ । यो॒यु॒प्य॒ते॒ । शान्त्यै॑ । 
@@ -554,7 +586,6 @@ Cruelly he acts [3] in making an altar.
 
 He places the sprinkling waters; the waters are Raksas-slaying; (verily they serve) for slaying the Raksases. He places them in the path made by the sword, for the continuity of the sacrifice. He should think of any one whom he hates; verily does he inflict trouble upon him.
 </details>
-
 
 <details><summary>मूलम्</summary>
 

@@ -20,7 +20,6 @@ unicode_script: devanagari
 </details>
 </div>
 
-
 ## आपदि
 दु॒हे ह॒ वा ए॒ष छन्दाँ॑सि॒, यो +++(आपदि)+++ या॒जय॑ति।  
 

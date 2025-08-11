@@ -29,7 +29,6 @@ title = "०५ अभ्युदयश्राद्धम्"
 
 इति सङ्कल्प्य  
 
-
 … वरणे तु प्रतिवर्गं विश्वे-देवार्थे  
 द्वौ द्वौ विप्रौ +++(→४)+++,  
 पित्रादीनाम् +++(=पितृ-पितामह-प्रपितामहेभ्यः)+++  
@@ -47,8 +46,6 @@ title = "०५ अभ्युदयश्राद्धम्"
 
 +++(श्रीनिवासदेशिको युग्मत्व-विधानाद् विष्ण्व्-अर्थे द्वयं वृणीयाद् इति प्रतिपादयति।)+++
 
-
-
 ## ब्राह्मण-भोजन-रीत्या
 … पार्वणवद् अग्निमुखान्ते  
 वर्ग-द्वय-पितॄन् आवाह्य  
@@ -63,16 +60,13 @@ title = "०५ अभ्युदयश्राद्धम्"
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/011_1-5_upAsmai_madhumatIH">
 <details open><summary><h5>०११ ...{Loading}...</h5></summary>
 
-
 ###### 01 उपास्मै गायता - गायत्री
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/011/01_upAsmai_gAyatA.md">
 <details open><summary><h8>विश्वास-प्रस्तुतिः ...{Loading}...</h8></summary>
 
-
-उपा॑स्मै **गायता** नरः॒  
-पव॑माना॒येन्द॑वे ।  
-अ॒भि दे॒वाँ **इय॑क्षते** ॥
-
+उ᳓पास्मै गायता नरः  
+प᳓वमानाय इ᳓न्दवे  
+अभि᳓ देवाँ᳓ इ᳓यक्षते
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/09/011/01_upAsmai_gAyatA.md">
@@ -83,15 +77,13 @@ title = "०५ अभ्युदयश्राद्धम्"
 </details>
 </div>
 
-
 ###### 02 अभि ते - गायत्री
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/011/02_abhi_te.md">
 <details open><summary><h8>विश्वास-प्रस्तुतिः ...{Loading}...</h8></summary>
 
-
-अ॒भि ते॒ मधु॑ना॒ पयो  
-ऽथ॑र्वाणो **अशिश्रयुः** +++(=मिश्रितवन्तः)+++।  
-दे॒वं दे॒वाय॑ देव॒यु+++(←देवकामम्)+++ ॥
+अभि᳓ ते म᳓धुना प᳓यो᳓  
+ऽथर्वाणो **अशिश्रयुः** +++(=मिश्रितवन्तः)+++।  
+देवं᳓ देवा᳓य देवयु᳓+++(←देवकामम्)+++ ॥
 
 </details>
 </div>
@@ -103,15 +95,13 @@ title = "०५ अभ्युदयश्राद्धम्"
 </details>
 </div>
 
-
 ###### 03 स नः - गायत्री
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/011/03_sa_naH.md">
 <details open><summary><h8>विश्वास-प्रस्तुतिः ...{Loading}...</h8></summary>
 
-
-स नः॑ **पवस्व॒** शं गवे॒  
-शं जना॑य॒ शम् अर्व॑ते+++(=वाजिने)+++ ।  
-शं रा॑ज॒न्न् ओष॑धीभ्यः ॥
+स᳓ नः **पवस्व** शं᳓ ग᳓वे  
+शं᳓ ज᳓नाय श᳓म् अ᳓र्वते+++(=वाजिने)+++ ।  
+शं᳓ राजन्न् ओ᳓षधीभ्यः ॥
 
 </details>
 </div>
@@ -123,15 +113,13 @@ title = "०५ अभ्युदयश्राद्धम्"
 </details>
 </div>
 
-
 ###### 04 बभ्रवे नु - गायत्री
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/011/04_babhrave_nu.md">
 <details open><summary><h8>विश्वास-प्रस्तुतिः ...{Loading}...</h8></summary>
 
-
-ब॒भ्रवे॒ नु स्व-त॑वसे+++(=बलाय)+++  
-ऽरु॒णाय॑ दिवि॒-स्पृशे॑ ।  
-सोमा॑य गा॒थम् **अ॑र्चत** ॥
+बभ्र᳓वे नु᳓ स्व᳓-तवसे+++(=बलाय)+++  
+ऽरुणा᳓य दिवि-स्पृ᳓शे ।  
+सो᳓माय गाथ᳓म् **अर्चत** ॥
 
 </details>
 </div>
@@ -143,15 +131,13 @@ title = "०५ अभ्युदयश्राद्धम्"
 </details>
 </div>
 
-
 ###### 05 हस्तच्युतेभिरद्रिभिः सुतम् - गायत्री
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/011/05_hastachyutebhiradribhiH_sutaM.md">
 <details open><summary><h8>विश्वास-प्रस्तुतिः ...{Loading}...</h8></summary>
 
-
-हस्त॑-च्युतेभि॒र् अद्रि॑भिः  
-सु॒तं सोमं॑ **पुनीतन** ।  
-मधा॒व् **आ धा॑वता॒** मधु॑ ॥
+ह᳓स्त-च्युतेभिर् अ᳓द्रिभिः  
+सुतं᳓ सो᳓मं **पुनीतन** ।  
+म᳓धाव् **आ᳓ धावता** म᳓धु ॥
 
 </details>
 </div>
@@ -164,7 +150,6 @@ title = "०५ अभ्युदयश्राद्धम्"
 </div>
 </details>
 </div>  
-
 
 ### पिण्ड-प्रदानम्
 पिण्ड-प्रदानेषु  
@@ -185,14 +170,12 @@ title = "०५ अभ्युदयश्राद्धम्"
 (अथ वा) ब्राह्मणानां पुरतः  
 अन्न-श्राद्ध-चतुर्गुणं हिरण्यं **निधाय**  
 
-
 ### प्रीणनम्
 'यज्ञेश्वरो हव्य'  
 ‘एको विष्णु'रिति मन्त्रद्वयम् **उच्चार्य** 
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/yaJNeshvaraH__eko_viShNuH/">
 <details open><summary><h5>यज्ञेश्वरो … एको विष्णुः ...{Loading}...</h5></summary>
-
 
 यज्ञेश्वरो हव्य-समस्त-कव्य-  
 **भोक्ता** ऽव्ययात्मा हरिर् ईश्वरो ऽत्र ।  
@@ -205,7 +188,6 @@ title = "०५ अभ्युदयश्राद्धम्"
 **भुङ्क्ते** विश्व-भुग् अव्ययः ॥ 
 </details>
 </div>  
-
 
 > अनेन हिरण्य-रूपेण अभ्युदय-श्राद्धेन  
 (सत्य-वसु-संज्ञक) वसु-सत्याख्य--विश्वे-देव-रूपी,  

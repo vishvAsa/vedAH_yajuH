@@ -19,6 +19,7 @@ title = "०९ समावर्तनम्"
 
 1. Having studied the Veda, when going to take the bath (which signifies the end of his studentship), he enters a cow-shed before sunrise, hangs over its door a skin with the hair inside, and sits there.
 </details>
+
 <details><summary>हरदत्त-प्रस्तावः</summary>
 
 पूर्वत्रोपनयनं व्याख्यातम् ।
@@ -31,6 +32,7 @@ title = "०९ समावर्तनम्"
 "अथात उपाकरणोत्सर्जने व्याख्यास्यामः, इत्यादिकं व्रतपटलं नाम उपनयनानन्तरं व्याचक्षते ।
 नैतत् ; "उपाकरणे समापने च" (आप.गृ.८-१.) इत्यत्रैवानयोर्विध्योर्भाष्यकारेण सम्पूर्णमेव व्याख्यातत्वात्, व्रतपटलाध्ययनस्य च विप्रतिपन्नत्वात्, भाष्ये प्रसङ्गभावाच्च ॥
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 एवमुपनीतश्चरितब्रह्मचर्योऽधीतवेदषडङ्गो यद्याचार्यकुलादन्यमाश्रमं प्रेप्सुर्भवति तस्य स्नानं नाम कर्मोपदिश्यते। यस्मिन् कर्मणि नियमेन विशिष्टं स्नानं विधिवत् भवति तदेतत् स्नानमित्युच्यते ।
@@ -45,6 +47,7 @@ title = "०९ समावर्तनम्"
 वेदं वेदौ वेदान् वा **अधीत्य** पाठतश्चार्थतश्चाधिगम्येत्यर्थः ।
 स्नास्यन्निति वचनं नैष्ठिकस्य उत्तरं कर्म मा भूदिति ॥१॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 वेदं मन्त्रब्राह्मणलक्षणम् ।
@@ -65,7 +68,6 @@ title = "०९ समावर्तनम्"
 
 वेदमधीत्य स्नास्यन् प्रगुदयाद्व्रजं प्रविश्यान्तर्लोम्ना चर्मणा द्वारमपरिधायास्ते ॥
 
-
 </details>
 </div>
 
@@ -84,6 +86,7 @@ title = "०९ समावर्तनम्"
 
 2. On that day the sun should not shine upon him.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 **एनं** एतत्कर्म कुर्वाणम् ।
@@ -91,6 +94,7 @@ title = "०९ समावर्तनम्"
 तेन मूत्रपुरीषादिकमपि तत्रैव व्रजे छायायामपि कर्तव्यम् ।
 आदित्यग्रहणादग्नितापस्य न प्रतिषेधः ॥२॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 अस्मिन्नहनि यावदस्तमयं मूत्रपुरीषोत्सर्जनार्थमप्यसौ मण्डपाद्बहिर्न निर्गच्छेतित्यर्थः ॥२॥
@@ -123,9 +127,9 @@ title = "०९ समावर्तनम्"
 
 3. [^1]  At noon, after (the ceremonies) from the putting (of wood) on the fire down to the Ājyabhāga oblations (have been performed), he puts a piece of Palāśa wood on (the fire) with the next (verse; M. II, 7, 1), sits down to the west of the fire on a mat or on erakā grass, recites the next (verse, II, 7, 2) over a razor, and hands it over to the barber with the next Yajus (II, 7, 3). (The rites) beginning with the pouring together of (warm and cold) water down to the burying of the hair are the same as above (comp. M. II, 7, 4).
 
-
 [^1]:  12, 3. See above, IV, 10, 5-8.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 अथ तस्मिन्नहनि मध्यन्दिने कर्म प्रतिपद्यते ।
@@ -152,6 +156,7 @@ title = "०९ समावर्तनम्"
 तत्राचार्यस्संसर्जनोन्दने कृत्वा क्षुरं नापितादपादाय प्रतिदिशं प्रवाप्य पुनस्तस्मै प्रदाय तं च वपन्तमुत्तरयानुमन्त्रयते ।
 एवमन्तमाचार्यकर्म ॥३॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 यथा मध्यन्दिने प्रधानहोमा भवन्ति तथा कर्म कुर्यात् ।
@@ -196,10 +201,12 @@ title = "०९ समावर्तनम्"
 
 4. He sits down behind the cow-shed, takes the girdle off, and hands it over to a Brahmacārin.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 अथोप्तकेशश्मश्रुनखो व्रजस्य **जघनार्धे** पश्चार्धे **उपविश्य** मेखलां **विस्रस्य** विमुच्य, कस्मैचित् **ब्रह्मचारिणे प्रयच्छति** ॥४॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 अथोप्तकेशादिको **व्रजस्य जघनार्धे** पश्चार्धे **उपविश्येत्यादि** करोति ॥४॥
@@ -229,6 +236,7 @@ title = "०९ समावर्तनम्"
 
 5. The (Brahmacārin) hides it with the next Yajus (II, 7, 5) at the root of an Udumbara tree or in a tuft of Darbha grass.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 **प्रच्छादयति ।
@@ -236,6 +244,7 @@ title = "०९ समावर्तनम्"
 अथ यदि वा स्यात् यज्ञशर्मणो गार्ग्यायणेति ।
 दण्डाजिनयोरप्यस्मिन् काले त्यागः ।
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 स तु ब्रह्मचारी **तां** मेखलां सूत्रोक्तदेशे उपगूहति अप्रकाशां करोति "इदमहं विष्णुशर्मणो गौतमस्य पाप्मानमुपगूहाम्युत्तरो विष्णुशर्मा द्विषद्भ्यः" इत्यनेन यजुषा ।
@@ -267,9 +276,9 @@ title = "०९ समावर्तनम्"
 
 6. [^2]  With water of the description stated above he bathes with the six next (verses; II, 7, 6-11), and with the next (II, 7, 12) he cleanses his teeth with a stick of Udumbara wood.
 
-
 [^2]:  See IV, 10, 5.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 **एवंविहिताभिः** पूर्ववत्संसृष्टाभिः शीतोष्णाभिरित्यर्थः ।
@@ -279,6 +288,7 @@ title = "०९ समावर्तनम्"
 **दतो धावते** दन्तेभ्यो मलमपनयति ।
 **उत्तरया** ऋचा "अन्नाद्याय व्यूहध्वम्" इत्येतया ॥६॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **एवंविहिताभिस्** तूष्णीं मिश्रिताभिश्शीतोष्णाभिर् **अद्भिः** ।
@@ -315,10 +325,12 @@ title = "०९ समावर्तनम्"
 
 7. Having bathed and shampooed his body with such ingredients as are used in bathing, (aromatic powder, &c.),
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 +++(सम्पादकटिप्पनी - इदं सूत्रम् अग्रिमे व्याख्यातम्)+++
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 +++(सम्पादकटिप्पनी - इदं सूत्रम् अग्रिमे व्याख्यातम्)+++
@@ -352,6 +364,7 @@ title = "०९ समावर्तनम्"
 
 8. He puts on with the next Yajus (M. II, 7, 13) a fresh under garment, and anoints himself, after having given the salve in charge of the deities with the next (Mantras, II, 7, 14), with the next (verse, II, 7, 15) with sandal salve which is scented with all kinds of perfumes. With the next (verse, II, 7, 16) he moves about a gold pellet with its setting, which is strung on a string, three times from left to right in a water-pot; with the next (verse, II, 7, 17) he ties the (pellet) to his neck; in the same way, without Mantras, he ties a pellet of Bādara wood to his left hand, and repeats the rites stated above with a fresh upper garment, with the (verses), 'May the rich' (comp. above, IV, 10, 10; M. II, 7, 18).
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 ततः **स्नानीयैः** स्नानार्हैः क्लीतकादिभिः **उच्छादितः** उद्वर्तितः अपकृष्टमलः पुनरपि ताभिरेवाद्भिः **स्नातः उत्तरेण यजुषा** "सोमस्य तनूरसि" इत्यनेन **अहतमन्तरं वासः** येन कटिः प्रच्छाद्यते तदन्तरमित्युच्यते ।
@@ -385,6 +398,7 @@ title = "०९ समावर्तनम्"
 रेवतीस्त्वेत्येताभिरिति वा उत्तराभिरित्येव वा सिद्धे समानवचनमुपनयनवत् प्रयोगार्थम् ।
 तेन उत्तराभ्यामभिमन्त्रयेत्यादि परिहितानुमन्त्रणान्तं गुरोः कर्म ॥७॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 स्नानोपकरणैः क्लीतकमधूकचूर्णादिभिः उद्वर्तितदेहः आमल कपिष्टादिभिः स्नानीयैस्स्नातश्च भवति ॥७॥
@@ -440,6 +454,7 @@ title = "०९ समावर्तनम्"
 
 9. To the skirt (of that garment) he ties two earrings, puts them into the (sacrificial spoon called) Darvi, offers the oblations (indicated by the) next (Mantras; M. II, 8, 1-8), pouring the Ājya over (the ear-rings), and enters upon (the performance of) the Jaya and following oblations.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 **तस्यो**त्तरस्य वाससो **दशायां प्रवर्तौ** कर्णालङ्कारौ सौवर्णौ **प्रबध्य दर्व्यामाधायाज्येन** उत्तरा अष्टौ प्रधानाहुतीर् जुहोति ।
@@ -451,6 +466,7 @@ title = "०९ समावर्तनम्"
 सर्वथा प्रवर्तयोरुपर्यासिक्तेनाज्येन प्रधानहोमः ।
 जयादिवचनं प्रवर्तावपनीय यथासिद्धं प्रतिपद्येतेत्येवमर्थम् ॥९॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **तस्य अनन्तरप्रकृतस्य वाससो **दशायां प्रवर्तौ **कुण्डले सौवर्णे **प्रबध्य** तावुपायेन दर्व्या अग्रे स्थापयित्वा ।
@@ -487,6 +503,7 @@ title = "०९ समावर्तनम्"
 
 10. Having performed (the ceremonies) down to the sprinkling (of water) round (the fire), he should tie (one of the ear-rings) with the same (verses) to his right ear, and with the same (verses one) to his left ear.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 परिषेचनान्तवचनमानन्तर्यार्थम् ।
@@ -496,6 +513,7 @@ title = "०९ समावर्तनम्"
 सव्ये चेत्युच्माने मन्त्राणां विभज्य विनियोगः स्यात् ।
 तस्मात् पुनरेताभिरित्त्युक्तम् ॥१०॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 परिषेचनान्तरमेव **एताभिरेव** "आयुष्यं वर्चस्यम्" इत्यष्टाभिरेव **दक्षिणे कर्णे** प्रवर्तयोरेकं **आबध्रीत** प्रतिमुञ्चेत् ।
@@ -539,6 +557,7 @@ title = "०९ समावर्तनम्"
 
 11. In the same way he should with the following (formulas, M. II, 8, 9-9, 5), according to the characteristics (contained in them), (put) a wreath on his head, anoint (his eyes), look into a mirror, (put on) shoes, (and should take) a parasol and a staff.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 एवमुत्तरैरपि मन्त्रैर्यथालिङ्गं स्रगादीनि षट्द्रव्याण्युपयुञ्जीत यथार्हम् ।
@@ -564,6 +583,7 @@ title = "०९ समावर्तनम्"
 वैणवमित्याश्वलायनः ॥
 (आश्व.गृ.३-८-१५.) ॥११॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 यथा कर्ममध्ये समन्त्रकं प्रवर्त्तौ हि बद्धौ, **एवमुत्तरैर्मन्त्रैर्यथालिङ्गं** मन्त्रलिङ्गानुसारेण स्रगादिषट्कं आबध्नीत कर्तव्यमित्यादि यथार्हं वाक्यशेषः ।
@@ -615,10 +635,12 @@ title = "०९ समावर्तनम्"
 
 12. He keeps silence until the stars appear.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 +++(सम्पादकटिप्पनी - इदं सूत्रम् अग्रिमे व्याख्यातम् ।)+++
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 +++(सम्पादकटिप्पनी - इदं सूत्रम् अग्रिमे व्याख्यातम् ।)+++
@@ -649,6 +671,7 @@ title = "०९ समावर्तनम्"
 
 13. When the stars have appeared, he goes away towards the east or north, worships the quarters (of the horizon) with the next hemistich, and the stars and the moon with the next (M. II, 9, 6).
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 ततः उत्तरेणार्धर्चेन "देवीष्षडुर्वीर्" इत्यनेन प्राङ्मुखः प्राञ्जलिः सर्वा दिशो मनसि कृत्वा मन्त्रान्तेन प्रदक्षिणमावृत्य समनुवीक्षते ।
@@ -656,6 +679,7 @@ title = "०९ समावर्तनम्"
 प्राच्याद्याश्चतस्रः ऊर्ध्वा अधरा चेति ।
 तत **डत्तरेणा**र्धचेन "मा हास्मही"त्यनेन **नक्षत्राणि चन्द्रमसं** च सहोपतिष्ठते ॥१३॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 इदं च व्याख्यातम् ॥१२॥
@@ -687,11 +711,13 @@ title = "०९ समावर्तनम्"
 
 14. Having spoken with a friend he may go where he likes.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 **रातिना** बन्धुना **संभाष्य** किं मया कर्तव्यम्? क आश्रमः प्रतिपत्तव्यः? इति संभाषणं कृत्वा तेन रातिना सह **गच्छति** अवधृतमाश्रम प्रतिपद्यत इत्यर्थ ।
 "बुद्ध्वा कर्माणि यत् कामयेत तदारभेत" (आप.ध.२-२१-५.) इत्यनेनैव सिद्धे पुनर्वचनं प्रव्रजतोऽपि संभाषणान्तं स्नानकर्म यथा स्यादिति ॥१४॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **रातिः** मित्रं; रमयतीति व्युत्पत्या ।

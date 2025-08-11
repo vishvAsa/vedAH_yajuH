@@ -38,7 +38,6 @@ unicode_script: devanagari
 </details>
 </div>  
 
-
 ## कालः, उच्छेषण-व्यवस्था
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/01/11/01_amAvAsyAyAM_rAtryAM_svayaM.md">
 <details open><summary><h2>01 अमावास्यायां रात्र्यां स्वयं ...{Loading}...</h2></summary>

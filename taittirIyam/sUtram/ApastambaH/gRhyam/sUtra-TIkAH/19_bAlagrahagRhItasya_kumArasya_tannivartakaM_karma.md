@@ -25,13 +25,14 @@ title = "१९ बालग्रहगृहीतस्य कुमारस
 
 1. [^1]  When a boy is attacked by the dog-demon (i.e. epilepsy), (the father or another performer of the ceremony), having devoted himself to austerities (such as fasting), covers him with a net. Then he causes a gong to be beaten or a bell to be rung, takes (the boy) by another way than the door into the gambling-hall, raises (the earth in the middle of the hall) at the place in which they gamble, sprinkles it (with water), casts the dice, lays (the boy) on his back on the dice, and besprinkles him with his joined hands with curds and salt, with the next (eleven) (formulas, II, 16, 1-11), in the morning, at noon, and at night.
 
-
 [^1]:  18, 1. Comp. Pāraskara I, 16, 24; Hiraṇyakeśin II, 2, 7.
 </details>
+
 <details><summary>हरदत्त-प्रस्तावः</summary>
 
 अथोत्तरेषां मन्त्राणां विनियोगमाह—
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 बहवो बालग्रहाः दिवसमाससमादिकाः ।
@@ -55,6 +56,7 @@ title = "१९ बालग्रहगृहीतस्य कुमारस
 यावत् कर्म समाप्यते तावत् संसकिङ्कण्योरन्यतरस्य ह्रादनम् ।
 एवमेतत्कर्म जालप्रच्छादनादवोक्षणान्तं त्रिसन्ध्यं कर्तव्यम् ॥१॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 येन गृहीतः कुमारः श्वेव नदति, श्ववद्वा चेष्टते स श्वग्रहः ।
@@ -100,6 +102,7 @@ title = "१९ बालग्रहगृहीतस्य कुमारस
 
 2. Then he will get well.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 **अगदः** अरोगः, रोगनिवृत्तिरस्य प्रयोजनमित्यर्थः ।
@@ -108,6 +111,7 @@ title = "१९ बालग्रहगृहीतस्य कुमारस
 एवमेतस्मिन् कर्मणि त्रिषु कालेषु कृते कुमारोऽगदो भवति ।
 यदि न भवति पुनरपि तपोयुक्तेन कर्तव्यमिति ॥२॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 इह च "शङ्खिनम्" इत्यत्र फलवचनं, सर्वत्र श्रुतितोऽर्थतो वावगतस्य कामिनः कर्मोपदेशः सामर्थ्यात् फलसिद्ध्यवगमपर्यन्त इति प्रदर्शयितुम् ।
@@ -144,15 +148,16 @@ title = "१९ बालग्रहगृहीतस्य कुमारस
 
 3. [^2]  Over a boy who suffers from the 'Śaṅkha' disease, (the father, &c.) having devoted himself to austerities, should recite the next two (verses, II, 16, 12. 13), and should pour (water) on his head with a water-pot with the next (verse, II, 16, 14), in the morning, at noon, and at night.
 
-
 [^2]:  'Saṅkhin is a person attacked by such a disease that he utters cries like the sound of a conch trumpet (śaṅkha).' Haradatta.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 शङ्खो नाम ग्रहः कुमाराणां भयङ्करः, येन गृहीतः शङ्खवन्नदतीति ।
 तेन गृहीतं **शङ्खिनमुत्तराभ्यां** एते ते प्रतिदृश्येते इत्येताभ्यामृग्भ्यां **अभिमन्त्र्य** तत उदकुंभेन **शिरस्तोऽवनयेत**, अभिषिञ्चेद् **उत्तरयर्चा** "ऋषिर्बोधः प्रबोध" इत्येतया
 एवमेतदभिमन्त्रणादि त्रिषु कालेषु कर्तव्यम् ॥३॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 शङ्खोऽपि ग्रहः; येन गृहीतः शङ्खवन्नदति तद्गृहीतश् **शङ्खी** ।
@@ -183,10 +188,12 @@ title = "१९ बालग्रहगृहीतस्य कुमारस
 
 4. Then he will get well.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 पूर्ववदस्य प्रयोजनम् ॥४॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 उक्तार्थम् ॥४॥

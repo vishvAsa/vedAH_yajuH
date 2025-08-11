@@ -95,7 +95,6 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/12_pRShThatash_chAtmanaH.md">
 <details open><summary><h4>12 पृष्ठतश्चाऽऽत्मनः पाणी ...{Loading}...</h4></summary>
 
-
 पृष्ठतश्चात्मनः पाणी न संश्लेषयेत् १२
 
 </details>

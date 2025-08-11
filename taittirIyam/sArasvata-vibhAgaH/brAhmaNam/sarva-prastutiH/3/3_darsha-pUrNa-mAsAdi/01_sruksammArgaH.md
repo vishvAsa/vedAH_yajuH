@@ -1,12 +1,11 @@
 ---
-title: ०१ स्रुक्-सम्मार्गः 
+title: ०१ स्रुक्-सम्मार्गः
 unicode_script: devanagari
+
 ---
-
 ## प्रत्यु॑ष्टँ॒ रक्ष॒ᳶ
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/02_barhirAharaNam/pratyuShTaM_raxaH.md"  newLevelForH1="5" includeTitle="false"> 
-
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/02_barhirAharaNam/pratyuShTaM_raxaH.md">
+<details open><summary><h5>प्रत्यु॑ष्टँ॒ रक्ष॒ᳶ ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "प्रत्यु॑ष्टँ॒ रक्ष॒ᳶ प्रत्यु॑ष्टा॒ अरा॑तय॒" इत्या॑ह ।  
@@ -18,8 +17,16 @@ unicode_script: devanagari
 "प्रत्यु॑ष्टँ॒ रक्ष॒ᳶ प्रत्यु॑ष्टा॒ अरा॑तय॒" इत्या॑ह ।  
 रक्ष॑सा॒म् अप॑हत्यै ।
 </details>
-</div>  
 
+<details><summary>सायण-टीका</summary>
+
+व्याचष्टे — “प्रत्युष्टँ रक्षः प्रत्युष्टा अरातय इत्याह। रक्षसामपहत्यै” (ब्रा. का. ३ प्र. २ अ. ४ ) इति।  
+___________________________________________
+
+अनिष्टपरिहारायेष्टसिद्धये चोभौ मन्त्रावित्याह – ‘प्रत्युष्टँ रक्षः प्रत्युष्टा अरातय इत्याह। रक्षसामपहत्यै। 
+</details>
+</details>
+</div>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "अ॒ग्नेर् व॒स् तेजि॑ष्ठेन॒ तेज॑सा॒ निष्ट॑पा॒मी"त्या॑ह मेध्य॒त्वाय॑ ।
@@ -152,7 +159,6 @@ unicode_script: devanagari
 वेदनं प्रशंसति – ‘समेधन्तेऽस्मा इमे लोकाः प्रजया पशुभिः। य एवं वेद’ (ब्रा. का. ३ प्र. ३ अ. १) इति। 
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि॑ का॒मये॑त॒ वर्षु॑कᳶ प॒र्जन्य॑स् स्या॒द् इत्य्  
@@ -181,7 +187,6 @@ unicode_script: devanagari
 वेदपरिवासनानामग्रमूलावयवयोर्व्यवस्थां दर्शयति — ‘यदि कामयेत वर्षुकः पर्जन्यः स्यादिति। अग्रतः संमृज्यात्। वृष्टिमेव नियच्छति। अवाचीनाग्रा हि वृष्टिः। 
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि॑ का॒मये॒ताव॑र्षुकस् स्या॒दिति॑ ।  
@@ -205,7 +210,6 @@ unicode_script: devanagari
 
 यदि कामयेतावर्षुकः स्यादिति। मूलतः संमृज्यात्। वृष्टिमेवोद्यच्छति’ (ब्रा. का. ३ प्र. ३ अ. १) इति। नियच्छति न्यग्भावेन प्रवर्तयति। उद्यच्छत्योर्ध्वाकारेण वारयति। 
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -307,7 +311,6 @@ unicode_script: devanagari
 अथ तेषां मूलेन स्रुचः मूलं मृज्यात् ।
 </details>
 
-
 <details><summary>सायण-टीका</summary>
 
 दण्डभागे विशेषमाह — ‘अधस्तात्प्रतीचीम्। दण्डमुत्तमतः। मूलेन मूलं प्रतिष्ठित्यै’ (ब्रा. का. ३ प्र. ३ अ. १) इति। 
@@ -335,7 +338,6 @@ unicode_script: devanagari
 
 बिलदण्डयोरुक्तां व्यस्थां लौकिक लिङ्गेन द्रढयति — तस्मादरत्नौ प्राञ्च्युपरिष्टाल्लोमानि। प्रत्यञ्च्यधस्तात्। स्रुग्ध्येषा’ (ब्रा. का. ३ प्र. ३ अ. १) इति।    
 
-
 मणिबन्धादूर्ध्वं सूक्ष्मरोमाणि प्राङ्मुखान्य् अधस्तात्तु प्रत्यङ्मुखानि। एषा हि लौकिकी स्रुक्तद्दृष्टान्तेन वैदिक्यामपि स्रुचि यथोक्तप्रकारो द्रष्टव्यः। 
 
 अत्र केचिदाहुः – 
@@ -344,7 +346,6 @@ unicode_script: devanagari
 
 इति। तर्हि तथैवास्तु।  
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -406,7 +407,6 @@ unicode_script: devanagari
 
 मुखतो वै प्राणोऽपानो भूत्वा। आत्मानमन्नं प्रविश्य। बाह्यतस्तनुवँ शुभयति। 
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

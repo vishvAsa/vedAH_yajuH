@@ -2,11 +2,8 @@
 title = "०८ चरूपध्नम्"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/04_pitR-medhAdi/08_charUpadhnam"  newLevelForH1="1" includeTitle="true">
-
-
-
-
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/04_pitR-medhAdi/08_charUpadhnam">
+<details open><summary><h1>०८ चरूपध्नम् ...{Loading}...</h1></summary>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1तत्र पञ्च चरून् उपदधाति - प्रथमा जगती ।  
@@ -14,7 +11,6 @@ title = "०८ चरूपध्नम्"
 शिष्टं यजुः ।  
 तेषाम् अभिधारणानि घृतं शृतं क्षीरं दधि मध्वित्य् अपूपाभिधाना भवन्ति ।  
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -94,7 +90,6 @@ title = "०८ चरूपध्नम्"
 ते सानुषङ्गाः प्रदृश्यन्ते - अपूपवाञ्च्छृतवांश्चरुर् ये देवानां शृतभागाः शताक्षरा तां रक्षस्वेत्यादि गतम् । अपूपवान् क्षीरवांश्चरुर् 
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो॒नि॒कृतः॑ पथि॒कृत॑स् **सपर्यत** 
@@ -104,7 +99,6 @@ title = "०८ चरूपध्नम्"
 
 यो॒नि॒कृतः॑ पथि॒कृत॑स्सपर्यत 
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -120,7 +114,6 @@ title = "०८ चरूपध्नम्"
 
 अपक्वं पयः क्षीरम् । पक्वं शृतम् । 
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -139,8 +132,6 @@ title = "०८ चरूपध्नम्"
 शताक्षरादयश्छन्दोविशेषाः । अच्युताक्षरा अविपरीताक्षरा अक्षीणाक्षरा अपरिमिताक्षरेत्यर्थः ॥  
 इत्यारण्यके चतुर्थे अष्टमोऽनुवाकः ॥
 </details>
-
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -164,6 +155,5 @@ title = "०८ चरूपध्नम्"
 
 … ये देवानां क्षीरभागाः सहस्राक्षरा तां रक्षस्वेत्यादि गतम् । 
 </details>
-
-
+</details>
 </div>

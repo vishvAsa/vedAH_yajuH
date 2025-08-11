@@ -3,7 +3,8 @@ title = "४९ त्रिवृदादिस्तोमरूपाणि 
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/1/5_nAxatrAdi/10_trivRdAdistomarUpANi_somAngAni"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/1/5_nAxatrAdi/10_trivRdAdistomarUpANi_somAngAni">
+<details open><summary><h1>१०  त्रिवृदादिस्तोमरूपाणि सोमाङ्गानि ...{Loading}...</h1></summary>
 
 ## आध्वरब्राह्मणम्
 ## नक्षत्रेष्टिकाण्डम्‌
@@ -23,7 +24,6 @@ unicode_script = "devanagari"
 1 स समुद्र इत्यादि ॥ समुद्द्रवत्यस्मादिति समुदेत्यस्मादिति वा समुद्रः स्थानविशेषः । यस्मात्प्रजापतिना उपनिहितः इन्द्र आविर्भवति स्म स तादृशः समुद्र उत्तरतः प्राज्वलत् प्रादुरभूत् । इन्द्रस्यादित्यात्मना रूपयिष्यमाणत्वात् तदभिव्यक्तिस्थानस्य समुद्रत्वेन रूपणा । भूम्यन्तेन भूम्याः पार्श्वे । प्रकृत्यादितृतीया । उत्तरस्माद्वेद्यंसादुदक्प्रक्रमे प्राज्वलत् सामर्त्थ्यात् इन्द्रः प्रादुरभूदिति गम्यते ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 ए॒ष वाव स स॑मु॒द्रः ।
@@ -39,7 +39,6 @@ unicode_script = "devanagari"
 
 ए॒ष वाव स स॑मु॒द्रो यच् चात्वा॑लः ।  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -107,10 +106,9 @@ unicode_script = "devanagari"
 2 स इत्यादि ॥ स इन्द्रः पूर्वं प्रजापतिना उपनिहितः इदानीं चात्वाले प्रजायमानः सुवर्णरजताभ्यां कुशीभ्यां कोशाभ्यां समुद्भवाधिकरणाभ्यां परिगृहीतः कोशद्वयेन प्रच्छाद्य विनिहित आसीत् आविरासीत् ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-तय्ँयद॒स्या अध्य॒जन॑यन्न् ।
+तय्ँयद॒स्या अध्य॒जन॑यन् ।
 तस्मा॑दादि॒त्यः ॥ 44 ॥   
 </details>
 
@@ -128,7 +126,6 @@ unicode_script = "devanagari"
 
 तं तादृशं इन्द्रं अस्याः पृथिव्याः चात्वालात्मिकाया अधि उपरि अजनयन् इन्द्रमन्विच्छन्तो देवाः । तस्मात् अयं इन्द्रः आदित्यः उच्यते । अदितिः पृथिवी 'इयं वा अदितिः' तस्याः प्रादुर्भूत इत्यादित्यः ।
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -176,10 +173,9 @@ unicode_script = "devanagari"
 तन् त्रि॒वृता ऽद॑दत ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-तन्त्रि॒वृताऽह॑रन्न् ।
+तन्त्रि॒वृताऽह॑रन् ।
 याव॑ती त्रि॒वृतो॒ मात्रा॑ ।
 </details>
 
@@ -210,10 +206,9 @@ unicode_script = "devanagari"
 तम् प॑ञ्चद॒शेनाद॑दत ।  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-तम्प॑ञ्चद॒शेनाह॑रन्न् ।
+तम्प॑ञ्चद॒शेनाह॑रन् ।
 याव॑ती पञ्चद॒शस्य॒ मात्रा॑ ॥ 45 ॥  
 </details>
 
@@ -233,10 +228,9 @@ unicode_script = "devanagari"
 तँ स॑प्तद॒शेनाद॑दत ।  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-तँ स॑प्तद॒शेनाह॑रन्न् ।
+तँ स॑प्तद॒शेनाह॑रन् ।
 याव॑ती सप्तद॒शस्य॒ मात्रा॑ ।
 </details>
 
@@ -282,10 +276,9 @@ unicode_script = "devanagari"
 तम् ए॑कविँ॒शेनाद॑दत ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-तमे॑कविँ॒शेनाह॑रन्न् ।
+तमे॑कविँ॒शेनाह॑रन् ।
 याव॑त्येकविँ॒शस्य॒ मात्रा॑ ।
 </details>
 
@@ -303,7 +296,6 @@ unicode_script = "devanagari"
 
 पुनरपि तमेकविंशेन अभिप्रास्तुवत इत्यादि । समानम् ॥
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -325,7 +317,6 @@ unicode_script = "devanagari"
 
 4 ते यदित्यादि ॥ यत ऐते उद्गातारः त्रिवृता स्तुवते ततः यजमानं त्रिवृता आददते ।
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -358,7 +349,6 @@ unicode_script = "devanagari"
 अ॒ग्निर् वै त्रि॒वृत् ।  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 याव॒द्वा अ॒ग्नेर्दह॑तो धू॒म उ॒देत्यानु॒ व्येति॑ ।
@@ -379,7 +369,6 @@ unicode_script = "devanagari"
 
 का पुनस्त्रिवृतो मात्रेत्यत आह - अग्निः त्रिवृत् एकस्थानप्रभवत्वात् द्वयोः यावतीः [जनयतः?] प्रजापतेः । तस्य अग्नेर्दहतः दक्षिणतो धूम उदेत्य उत्सृज्य व्याप्य यावत् अनुव्येति अनुविसर्पति तावती अग्नेः मात्रा सैव त्रिवृतो मात्रा अग्नित्वात्त्रिवृतः ।
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -402,7 +391,6 @@ unicode_script = "devanagari"
 तस्मादग्नेरेव मात्रां गमयन्ति यजमानं त्रिवृता स्तुवन्त उद्गातारः । तथा सायुज्यं समानयोगतां समानलोकतां च अग्नेः गमयन्ति ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 अथ॒ यत्प॑ञ्चद॒शेन॑ स्तु॒वते॑ ।
@@ -418,7 +406,6 @@ unicode_script = "devanagari"
 
 अथ॒ यत् प॑ञ्चद॒शेन॑ स्तु॒वते॑ पञ्चद॒शेन+ ए॒व तद् यज॑मान॒म् आद॑दते ॥ 47 ॥  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -473,7 +460,6 @@ unicode_script = "devanagari"
 तत्र पञ्चदश्यां अत्यन्तं च आपूर्यते शुक्ले ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 च॒न्द्रम॑स ए॒वैन॒न्तत् ।
@@ -507,7 +493,6 @@ unicode_script = "devanagari"
 स॒प्त॒द॒शेन+ ए॒व तद् यज॑मान॒म् आद॑दते ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तँ स॑प्तद॒शेनै॒व ह॑रन्ति ॥ 48 ॥  
@@ -534,7 +519,6 @@ unicode_script = "devanagari"
 प्र॒जाप॑ति॒र् वै स॑प्तद॒शः ।  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑तेरे॒वैन॒न्तत् ।
@@ -551,7 +535,6 @@ unicode_script = "devanagari"
 प्र॒जाप॑तेर् ए॒वैन॒न् तन्मात्राँ॒ सायु॑ज्यँ सलो॒कता॑ङ् गमयन्ति ।  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 अथ॒ यद् ए॑कविँ॒शेन॑ स्तु॒वते॑ ।  
@@ -559,7 +542,6 @@ unicode_script = "devanagari"
 
 अथ॒ यद् ए॑कविँ॒शेन॑ स्तु॒वत॑ एकविँ॒शेन+ ए॒व तद् यज॑मान॒म् आद॑दते ।  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -592,7 +574,6 @@ unicode_script = "devanagari"
 अ॒सौ वा आ॑दि॒त्य ए॑कविँ॒शः ।  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 आ॒दि॒त्यस्यै॒वैन॒न्तत् ॥ 49 ॥  
@@ -614,25 +595,23 @@ unicode_script = "devanagari"
 6 योसा प्रकाशोदकदानादिना लोकं धारयति असावादित्यः एव एकविंशः तद्वद्धारकत्वाल्लोकानाम् । तामिमामादित्यस्य मात्रां यजमानं गमयन्ति ऐश्वर्यमात्रां प्रापयन्ति ॥
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 ते कु॒श्यौ॑ ।
-व्य॑घ्नन्न् ।
+व्य॑घ्नन् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते कु॒श्यौ॑ व्य् अ॑घ्नन्न् ।  
+ते कु॒श्यौ॑ व्य् अ॑घ्नन् ।  
 ते अ॑होरा॒त्रे अ॑भवताम् ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
-ते कु॒श्यौ॑ व्य् अ॑घ्नन्न् ।  
+ते कु॒श्यौ॑ व्य् अ॑घ्नन् ।  
 ते अ॑होरा॒त्रे अ॑भवताम् ।  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -656,7 +635,6 @@ unicode_script = "devanagari"
 अहः सुवर्णा रजता रात्रिः ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 स यदा॑दि॒त्य उ॒देति॑ ।
@@ -678,7 +656,6 @@ unicode_script = "devanagari"
 अथ एतयोः इन्द्रकुश्यौ सुवर्णां कुशीं आदित्योऽनुसमेति यदा उदेति अयमस्योदयः । यदा रजतकुश्यनुप्रवेशस्स्यात् तदा अस्तमयः ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 अथ॒ यद॑स्त॒मेति॑ ।
@@ -699,7 +676,6 @@ unicode_script = "devanagari"
 
 एवं इन्द्रस्याहोरात्रव्याप्तं विश्वविजयित्वमुक्तम् ॥
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -753,5 +729,6 @@ unicode_script = "devanagari"
 
 इति पञ्चमे दशमोऽनुवाकः ॥  
 
+</details>
 </details>
 </div>

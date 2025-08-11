@@ -2,8 +2,8 @@
 title = "१७ पूर्वो मरुत्वतीयग्रहः"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/4_somAbhiShavAdi/17_pUrvo_marutvatIyagrahaH"  newLevelForH1="1" includeTitle="true">
-
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/4_somAbhiShavAdi/17_pUrvo_marutvatIyagrahaH">
+<details open><summary><h1>१७ पूर्वो मरुत्वतीयग्रहः ...{Loading}...</h1></summary>
 
 त्रिष्टुप् । सोमऋषिः
 
@@ -12,32 +12,33 @@ _______
 
 1त्रयो मरुत्वतीया माध्यंदिने सवने गृह्यन्ते ॥ 'इन्द्रो मरुद्भिस्सांविद्येन' इत्यादि ब्राह्मणम्  । ते चर्तुपात्रेण गृह्यन्ते । 'तस्य वृत्रं जघ्नुष ऋतवोमुह्यन्' इत्यादि ब्राह्मणम्  । 'वज्रं वा एतं यजमानो भ्रातृव्याय प्रहरति यन्मरुत्वतीयाः' इत्यादि च । तत्र प्रथमं गृह्णाति - मरुत्वन्तमिति त्रिष्टुभा चतुष्पदया ॥
 </details>
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/047/05_marutvantaM_vRShabhaM.md">
-<details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/047/05_marutvantaM_vRShabhaM.md">
+<details open><summary><h6>विश्वास-प्रस्तुतिः ...{Loading}...</h6></summary>
 
-
-म॒रुत्व॑न्तं वृष॒भं वा॑वृधा॒नम्  
-अक॑वारिं+++(=अकुत्सितारिं)+++ दि॒व्यं शा॒सम् इन्द्र॑म् ।  
-वि॒श्वा॒-साह॒म् अव॑से॒ नूत॑नाय+  
-+उ॒ग्रं स॑हो॒-दाम् इ॒ह तं हु॑वेम ॥
+मरु᳓त्वन्तं वृषभं᳓ वावृधान᳓म्  
+अ᳓कवारिं+++(=अकुत्सितारिं)+++ दिव्यं᳓ शास᳓म् इ᳓न्द्रम् ।  
+विश्वा-सा᳓हम् अ᳓वसे नू᳓तनाय+  
++उग्रं᳓ सहो-दा᳓म् इह᳓ तं᳓ हुवेम ॥
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/047/05_marutvantaM_vRShabhaM.md">
-<details open><summary><h5>005 ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/047/05_marutvantaM_vRShabhaM.md">
+<details open><summary><h6>005 ...{Loading}...</h6></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
 - ऋषिः - गाथिनो विश्वामित्रः
 - छन्दः - त्रिष्टुप्
 </details>
+
 <details><summary>Thomson & Solcum</summary>
 
-मरु꣡त्वन्तं वृषभं꣡ वावृधान꣡म्  
-अ꣡कवारिं दिवियं꣡ शास꣡म् इ꣡न्द्रम्  
-विश्वासा꣡हम् अ꣡वसे नू꣡तनाय  
-उग्रं꣡ सहोदा꣡म् इह꣡ तं꣡ हुवेम
+मरु᳓त्वन्तं वृषभं᳓ वावृधान᳓म्  
+अ᳓कवारिं दिवियं᳓ शास᳓म् इ᳓न्द्रम्  
+विश्वासा᳓हम् अ᳓वसे नू᳓तनाय  
+उग्रं᳓ सहोदा᳓म् इह᳓ तं᳓ हुवेम
 </details>
+
 <details><summary>Vedaweb annotation</summary>
 
 _________
@@ -98,11 +99,13 @@ ugrám ← ugrá- (nominal stem)
 {case:ACC, gender:M, number:SG}
 
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 म॒रुत्व॑न्तम् । वृ॒ष॒भम् । व॒वृ॒धा॒नम् । अक॑वऽअरिम् । दि॒व्यम् । शा॒सम् । इन्द्र॑म् ।  
 वि॒श्व॒ऽसह॑म् । अव॑से । नूत॑नाय । उ॒ग्रम् । स॒हः॒ऽदाम् । इ॒ह । तम् । हु॒वे॒म॒ ॥
 </details>
+
 <details><summary>Hellwig Grammar</summary>
 
 -   *marutvantaṃ* ← *marutvantam* ← *marutvat*
@@ -213,10 +216,12 @@ _________
 _________
 
 </details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे इन्द्र **मरुत्वन्तं** मरुद्भिस्तद्वन्तं **वृषभं** मेघभेदनद्वारा अपां वर्षकं **ववृधानं** वृत्रहननादिकर्मसु उत्साहेन वर्धमानम् **अकवारिं**-प्रभूतशत्रुकं यद्वा अकुत्सितारिम् । तथा च मन्त्रः-’ स्वरिरमत्रो ववक्षे रणाय' (ऋ. सं. १. ६१. ९) इति । **दिव्यं** दिवि स्वर्गलोके वर्तमानम् । **शासं** हितोपदेशहितपरिहाराभ्यां शासितारं **विश्वासाहं** विश्वस्य प्रतिपक्षस्य सर्वस्याभिभवितारम् **उग्रं** शत्रुषु उद्गूर्णं **सहोदां** युद्धसहकारिणां मरुतां बलप्रदं **तं** तादृशसामर्थ्योपेतम् **इन्द्रं** **नूतनाय** नवतराय **अवसे** रक्षणाय **इह** कर्मणि **हुवेम** त्वामाह्वयेम ॥ नूतनाय । नवशब्दस्य नू इत्यादेशः ॥ त्नप्तनखाश्च प्रत्यया वक्तव्याः इति तनप्रत्ययः ॥ ॥ ११ ॥
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 **मरुतो** देवविशेषास् तैस् तद्वन्तम् । 'तसौ मत्वर्थे' इति भत्वम् । 'झयः' इति मतुपो वत्वम् । 
@@ -243,6 +248,7 @@ _________
 
 नूतनायाभिनवाय अद्यप्रभृति विशिष्टं रक्षणं कर्तुम् । 'नवस्य नूआदेशः त्नप्तनप्खाश्च प्रत्ययाः' इति तनप्प्रत्ययः ॥
 </details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -250,20 +256,24 @@ _________
 
 “We invoke to this sacrifice for present protection **Indra**, the chief of the **Maruts**, the showerer (of benefits) augmenting (in glory), overcoming many foes, divine regulator (of good and ill), the subduer of all (enemies), the fierce, the bestower of strength.”
 </details>
+
 <details><summary>Jamison Brereton</summary>
 
 Him accompanied by the Maruts, the bull grown strong, not stingy, the  heavenly commander—Indra—  
 the all-conquering, mighty giver of strength—him we would invoke here  for present help.
 </details>
+
 <details><summary>Jamison Brereton Notes</summary>
 
 The first word of this final vs., marútvantam echoes the first word of the hymn, marútvān.
 </details>
+
 <details><summary>Griffith</summary>
 
 The Bull whose strength hath waxed, whom Maruts follow, free-giving Indra, the celestial Ruler,  
      Mighty, all-conquering, the victory-giver, him let us call to grant us new protection.
 </details>
+
 <details><summary>Keith</summary>
 
 Him with the Maruts, the mighty bull,  
@@ -271,14 +281,17 @@ The bountiful, the divine ruler, Indra,
 All-powerful, the dread, giver of strength,  
 For present aid let us invoke.
 </details>
+
 <details><summary>Geldner</summary>
 
 Den erstarkten Bullen in Begleitung der Marutschar, der kein geiziger Herr ist, den himmlischen Gebieter Indra, den Allbezwinger, den gewaltigen Siegverleiher, den wollen wir zu erneutem Beistand hierher rufen.
 </details>
+
 <details><summary>Grassmann</summary>
 
 Den Marutherrscher Indra, den erstarkten, der nimmer geizt, den himmlischen Gebieter, Den Allbesieger, starken Kraftverleiher, ihn rufen wir herbei zu neuer Hülfe.
 </details>
+
 <details><summary>Elizarenkova</summary>
 
 Усилившегося быка, окруженного Марутами,  
@@ -286,6 +299,7 @@ Den Marutherrscher Indra, den erstarkten, der nimmer geizt, den himmlischen Gebi
 Всепобеждающего, грозного, дающего силу, –  
 Его мы здесь хотим призвать, чтобы он сейчас помог.
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्र:
@@ -293,34 +307,42 @@ Den Marutherrscher Indra, den erstarkten, der nimmer geizt, den himmlischen Gebi
 - विराट्त्रिष्टुप्
 - धैवतः
 </details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 
 फिर उसी विषय को अगले मन्त्र में कहते हैं।
 </details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  हे विद्वान् पुरुषो ! आप लोग (इह) इस राज्यव्यवहार में (नूतनाय) नवीन (अवसे) रक्षण आदि के लिये जिस (मरुत्वन्तम्) प्रशंसा करने योग्य मनुष्य हों जिसके उस और (वृषभम्) बलवाले और (वावृधानम्) बढ़ने वा बढ़ानेवाले (अकवारिम्) शत्रुओं से रहित (दिव्यम्) शुद्ध गुण-कर्म और स्वभाव से युक्त (विश्वासाहम्) सबको सहने और (उग्रम्) दुष्टों के नाश करने (सहोदाम्) बल के देने और (इन्द्रम्) अत्यन्त ऐश्वर्य्यवाले (शासम्) शासन करनेवाले की प्रशंसा करो (तम्) उसकी हम लोग (हुवेम) प्रशंसा करें ॥५॥
 </details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
 भावार्थभाषाः -  इस मन्त्र में वाचकलुप्तोपमालङ्कार है। मनुष्यों को चाहिये कि उसीको अपना राजा करें कि जिसमें सम्पूर्ण राजा के धर्म अङ्ग और उपाङ्ग सहित वर्त्तमान हैं ॥५॥ इस सूक्त में राजा और सूर्य्य के गुण वर्णन होने से इस सूक्त के अर्थ की पिछले सूक्त के अर्थ के साथ संगति है, यह जानना चाहिये ॥ यह सैंतालीसवाँ सूक्त और ग्यारहवाँ वर्ग समाप्त हुआ ॥
 </details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
 
 अन्वय:  हे विद्वांसो ! यूयमिह नूतनायावसे यं मरुत्वन्तं वृषभं वावृधानमकवारिं दिव्यं विश्वासाहमुग्रं सहोदामिन्द्रं शासन्नूतनायावसे प्रशंसत तं वयं हुवेम॥५॥
 </details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 
 पुनस्तमेव विषयमाह।
 </details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (मरुत्वन्तम्) प्रशस्ता मरुतो मनुष्या विद्यन्ते यस्य तम् (वृषभम्) बलिष्ठम् (वावृधानम्) वर्द्धमानं वर्द्धयितारं वा (अकवारिम्) अविद्यमानशत्रुम् (दिव्यम्) शूद्धगुणकर्मस्वभावम् (शासम्) प्रशासितारम् (इन्द्रम्) परमैश्वर्य्यवन्तम् (विश्वासाहम्) सर्वसहम् (अवसे) रक्षणाद्याय (नूतनाय) नवीनाय (उग्रम्) दुष्टानां दमयितारम् (सहोदाम्) बलप्रदम् (इह) अस्मिन् राज्यव्यवहारे (तम्) (हुवेम) प्रशंसेम ॥५॥
 </details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
 भावार्थभाषाः -  अत्र वाचकलुप्तोपमालङ्कारः। मनुष्यैः स एव स्वकीयो राजा कर्त्तव्यो यस्मिन् सर्वे राजधर्माः साङ्गोपाङ्गा वर्त्तन्ते ॥५॥ अत्र राजसूर्य्यगुणवर्णनादेतदर्थस्य पूर्वसूक्तार्थेन सह सङ्गतिरस्तीति वेदितव्यम् ॥ इति सप्तचत्वारिंशत्तमं सूक्तमेकादशो वर्गश्च समाप्तः ॥
 </details>
+
 <details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
 
 भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. माणसांनी त्यालाच राजा करावे ज्याच्यामध्ये संपूर्ण राजधर्म पाळण्याची क्षमता असते. ॥ ५ ॥
@@ -330,27 +352,29 @@ Den Marutherrscher Indra, den erstarkten, der nimmer geizt, den himmlischen Gebi
 
 _______
 
-
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/17_pUrvo_marutvatIyagrahaH/upayAmagRhItaH.md">
-<details open><summary><h5>उपयामगृहीतः ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/17_pUrvo_marutvatIyagrahaH/upayAmagRhItaH.md">
+<details open><summary><h6>उपयामगृहीतः ...{Loading}...</h6></summary>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 इमामनुद्रुत्य उपयामगृहीतोसीन्द्राय त्वा मरुत्वत इति गृह्णाति ॥
 </details>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
-<details open><summary><h10>उपयामगृहीतः ...{Loading}...</h10></summary>
+<details open><summary><h11>उपयामगृहीतः ...{Loading}...</h11></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ॒प॒या॒म-गृ॑हीतो ऽसि।
 </details>
+
 <details><summary>Keith</summary>
 
 Thou art taken with a support/ foundation.
 </details>
+
 <details><summary>मूलम्</summary>
 
 उ॒प॒या॒मगृ॑हीतोऽसि।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 उपयम्यन्ते स्वात्मन्येव नियम्यन्ते भूतजातान्यस्मिन् अभिन्नेधिकरणे इत्युपयामः पृथ्वी । 'इयं वा उपयामः' इति ब्राह्मणम् । 'हलश्च' इति घञ्, थाथादिस्वरेणान्तोदात्तत्वम् । तेन गृहीतस्त्वमसि ; कोन्यस्त्वां गृहीतुं क्षम इति भावः ; पृथिव्यापो गृहीष्यामीतिवत् । 'तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् । यद्वा - उपयामार्थं पृथिव्यर्थं गृहीतोसीति ; हे सोम ।   
@@ -367,10 +391,12 @@ ________________
 
 इन्द्रा॑य त्वा म॒रुत्व॑ते ।
 </details>
+
 <details><summary>Keith</summary>
 
 to Indra with the Maruts thee!
 </details>
+
 <details><summary>मूलम्</summary>
 
 इन्द्रा॑य त्वा म॒रुत्व॑ते ।
@@ -381,14 +407,17 @@ _______
 
 2एष ते योनिरिन्द्राय त्वा मरुत्वत इति सादयति ॥
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ए॒ष ते॒ योनि॒र्, इन्द्रा॑य त्वा म॒रुत्व॑ते ॥ [18]
 </details>
+
 <details><summary>Keith</summary>
 
 This is thy birthplace; to Indra with the Maruts thee!
 </details>
+
 <details><summary>मूलम्</summary>
 
 ए॒ष ते॒ योनि॒रिन्द्रा॑य त्वा म॒रुत्व॑ते ॥ [18]
@@ -396,8 +425,7 @@ This is thy birthplace; to Indra with the Maruts thee!
 </details>
 </div>  
 
-
-
 इति चतुर्थे सप्तदशोनुवाकः ॥  
 
+</details>
 </div>

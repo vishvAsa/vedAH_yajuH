@@ -27,46 +27,63 @@ By the Yajus I pour on thee
 Offspring, life, and wealth.  
 Instigated by Brhaspati may the sacrificer here come to no harm.
 </details>
+
 <details><summary>मूलम्</summary>
 
 सन्त्वा॑ सिञ्चामि॒ यजु॑षा प्र॒जामायु॒र्धन॑ञ्च ।  
 बृह॒स्पति॑प्रसूतो॒ यज॑मान इ॒ह मा रि॑षत्  ॥
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+समिति॑ । त्वा॒ । सि॒ञ्चा॒मि॒ । यजु॑षा । प्र॒जामिति॑ प्र-जाम् । आयुः॑ । धन॑म् । च॒ ॥ बृह॒स्पति॑प्रसूत॒ इति॒ बृह॒स्पति॑-प्र॒सू॒तः॒ । यज॑मानः । इ॒ह । मा॒ । रि॒ष॒त् ॥ 
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 संसिञ्चामि सह सिञ्चामि हे स्कन्न त्वां प्रजामायुर्धनञ्च प्रजादिभिस्सह त्वामेकत्र सिश्चामि यजुषाऽनेन मन्त्रेण । यजनसाधनं यजुः । अपेतस्कन्नत्वदोषं प्रजादिसावनं त्वामनेन सेचनेन करोमीत्यर्थः । बृहस्पतिप्रसूतः स्वयमेव बृहस्पतिना प्रसूतोऽनुज्ञातोऽहं करोमि, न पुनर्यथारुचि । तस्माद्यजमान इहास्मिन् स्कन्नापराधे मा रिषत् मा बाधि । रिष्यतेश्छान्दसोऽङ् पुषादिर्वा कर्तव्यः । बृहतां पतिः बृहस्पतिः । 'तद्बृहतोः करपत्योः' इति सुक् । तेन प्रसूत इति । 'तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् । तत्र च 'उभे वनस्पत्यादिषु युगपत्' इति पूर्वोत्तरयोर्युगपत्प्रकृतिस्वरत्वम् । बृहच्छब्दः प्रायेण समासे आद्युदातः, अन्यत्रान्तोदात्तः ॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+तत्र प्रथमानुवाक आज्यग्रहणानुमन्त्रणमन्त्राः प्राधान्येनाभिधीयन्ते।  
+कल्पः — “सं त्वा सिञ्चामीति तत्सँ सिञ्चेदभि वा मन्त्रयेत” इति। तदिति स्कन्नमाज्यमुच्यते। यस्याऽऽज्यमनुत्पूतँ स्कन्देदित्यादिना स्कन्दनस्य प्रकृतत्वात्। यदि शुद्धप्रदेशे स्कन्देत्तदानीमनेन मन्त्रेण पुनः पात्रे प्रक्षिपेत्। अशुचिप्रदेशे स्कन्दने त्वभिमन्त्रणम्।
+
+पाठस्तु -  
+सं त्वा सिञ्चामीति। हे स्कन्नाज्य बृहस्पतिप्रेरितोऽहं प्रजादीन्संपादयेयम। त्वामनेन यजुषा मन्त्रेण पात्रे सम्यक्सिञ्चामि। इह कर्मणि यजमानः स्कन्दनापराधेन मा रिषन्मा हिंस्यताम्। अयं मन्त्र आध्वर्यवः। अतो यजमानस्यान्यत्वेनोक्तिरविरुद्धा।  
+</details>
 </details>
 </div>
-
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-आज्य॑मसि स॒त्यम॑सि स॒त्यस्याध्य॑क्षमसि ह॒विर॑सि वैश्वान॒रव्ँवै॑श्वदे॒वमुत्पू॑तशुष्मँ स॒त्यौजाः
+आज्य॑मसि स॒त्यम॑सि स॒त्यस्याध्य॑क्षमसि ह॒विर॑सि वैश्वान॒रव्ँ वै॑श्वदे॒वमुत्पू॑तशुष्मँ स॒त्यौजाः
 </details>
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2-4आज्यमवेक्षते - आज्यमसीति यजुर्भिः ॥ 
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आज्य॑म् असि ।  
 स॒त्यम् अ॑सि ।  
 स॒त्यस्याध्य॑क्षम् असि ।
 </details>
+
 <details><summary>Keith</summary>
 
 Thou art butter, thou art truth, thou art the overseer of truth, 
 </details>
+
 <details><summary>मूलम्</summary>
 
 आज्य॑मसि ।  
 स॒त्यम॑सि ।
 स॒त्यस्याध्य॑क्षमसि ।
 </details>
-<details><summary>पद-पाठः</summary>
 
+<details><summary>पद-पाठः</summary>
 
 आज्य॑म् । अ॒सि॒ ।   
 स॒त्यम् । अ॒सि॒ ।   
@@ -95,13 +112,15 @@ Thou art butter, thou art truth, thou art the overseer of truth,
 ह॒विर् अ॑सि वैश्वान॒रव्ँ वै॑श्वदे॒वम्  
 उत्पू॑तशुष्मँ स॒त्यौजाः॑।
 </details>
+
 <details><summary>Keith</summary>
 
 thou art the oblation of Vaiśvanara, of the All-gods, with pure strength, of true might; 
 </details>
+
 <details><summary>मूलम्</summary>
 
-ह॒विर॑सि वैश्वान॒रव्ँवै॑श्वदे॒वमुत्पू॑तशुष्मँ स॒त्यौजाः॑ ।
+ह॒विर॑सि वैश्वान॒रव्ँ वै॑श्वदे॒वमुत्पू॑तशुष्मँ स॒त्यौजाः॑ ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,6 +147,7 @@ thou art the oblation of Vaiśvanara, of the All-gods, with pure strength, of tr
 सह॒स्वारा॑तीः ।  
 सह॑स्वारातीय॒तः ॥
 </details>
+
 <details><summary>Keith</summary>
 
 thou art power,  
@@ -135,6 +155,7 @@ overpowering;
 overpower hostility,  
 overpower those who practise hostility; 
 </details>
+
 <details><summary>मूलम्</summary>
 
 सहो॑ऽसि॒ सह॑मानमसि॒ सह॒स्वारा॑तीः ।
@@ -166,15 +187,18 @@ overpower those who practise hostility;
 सह॑स्व पृतन्य॒तः ।  
 स॒हस्र॑वीर्यम् असि ॥
 </details>
+
 <details><summary>Keith</summary>
 
 overpower enmity, overpower those who practise emnity; thou art of a thousandfold strength; 
 </details>
+
 <details><summary>मूलम्</summary>
 
 सह॑स्व॒ पृत॑ना॒स्सह॑स्व पृतन्य॒तः ।  
 स॒हस्र॑वीर्यमसि ॥
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 सह॑स्व । पृत॑नाः । सह॑स्व । पृ॒त॒न्य॒तः ॥ स॒हस्र॑वीर्य॒मिति॑ स॒हस्र॑-वी॒र्य॒म् । अ॒सि॒ ।  
@@ -194,18 +218,22 @@ overpower enmity, overpower those who practise emnity; thou art of a thousandfol
 
 तन्मा॑ जि॒न्वाऽऽज्य॒स्याऽऽज्य॑मसि स॒त्यस्य॑ स॒त्यम॑सि स॒त्यायुः॑ [1]अ॒सि॒ स॒त्यशु॑ष्ममसि स॒त्येन॑ त्वा॒ऽभि घा॑रयामि॒ तस्य॑ ते भक्षीय
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तन्मा॑ जि॒न्व+++(=प्रीणय)+++ ।
 </details>
+
 <details><summary>Keith</summary>
 
 do thou quicken me; 
 </details>
+
 <details><summary>मूलम्</summary>
 
 तन्मा॑ जि॒न्व ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 तत् । मा॒ । जि॒न्व॒ ।   
@@ -225,10 +253,12 @@ do thou quicken me;
 
 आज्य॒स्याऽऽज्य॑म् असि ।
 </details>
+
 <details><summary>Keith</summary>
 
 thou art of butter the butter; 
 </details>
+
 <details><summary>मूलम्</summary>
 
 आज्य॒स्याऽऽज्य॑मसि ।
@@ -253,14 +283,17 @@ thou art of butter the butter;
 
 स॒त्यस्य॑ स॒त्यम् अ॑सि ।
 </details>
+
 <details><summary>Keith</summary>
 
 thou art of truth the truth; 
 </details>
+
 <details><summary>मूलम्</summary>
 
 स॒त्यस्य॑ स॒त्यम॑सि ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 स॒त्यस्य॑ । स॒त्यम् । अ॒सि॒ । 
@@ -280,14 +313,17 @@ thou art of truth the truth;
 
 स॒त्यायु॑र् असि ।
 </details>
+
 <details><summary>Keith</summary>
 
 thou hast true life [1]; 
 </details>
+
 <details><summary>मूलम्</summary>
 
 स॒त्यायु॑रसि ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 स॒त्यायु॒रिति॑ स॒त्य-आ॒युः॒ । अ॒सि॒ । 
@@ -307,10 +343,12 @@ thou hast true life [1];
 
 स॒त्यशु॑ष्मम्+++(=बलम्)+++ असि ।
 </details>
+
 <details><summary>Keith</summary>
 
 thou hast true strength; 
 </details>
+
 <details><summary>मूलम्</summary>
 
 स॒त्यशु॑ष्ममसि ।
@@ -335,14 +373,17 @@ thou hast true strength;
 
 स॒त्येन॑ त्वा॒ऽभि घा॑रयामि ।
 </details>
+
 <details><summary>Keith</summary>
 
 with truth I besprinkle thee; 
 </details>
+
 <details><summary>मूलम्</summary>
 
 स॒त्येन॑ त्वा॒ऽभि घा॑रयामि ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 स॒त्येन॑ । त्वा॒ । अ॒भीति॑ । घा॒र॒या॒मि॒ । 
@@ -362,14 +403,17 @@ with truth I besprinkle thee;
 
 तस्य॑ ते भक्षीय ।
 </details>
+
 <details><summary>Keith</summary>
 
 may I share thee that art such.
 </details>
+
 <details><summary>मूलम्</summary>
 
 तस्य॑ ते भक्षीय ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 तस्य॑ । ते॒ । भ॒क्षी॒य॒ । 
@@ -390,22 +434,27 @@ _______
 
 14- 17अथाज्यग्रहानुमन्त्रणमन्त्राः - यजूंषि तत्र चतुर्भिः जौहवम् अनुमन्त्रयते - पञ्चानां त्वेति ॥ 
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 पञ्चा॒नान्त्वा॒ वाता॑नाय्ँय॒न्त्राय॑ ध॒र्त्राय॑ गृह्णामि पञ्चा॒नान्त्व॑र्तू॒नाय्ँय॒न्त्राय॑ ध॒र्त्राय॑ गृह्णामि पञ्चा॒नान्त्वा॑ दि॒शाय्ँय॒न्त्राय॑ ध॒र्त्राय॑ गृह्णामि पञ्चा॒नान्त्वा॑ पञ्चज॒नाना॑य्ँय॒न्त्राय॑ ध॒र्त्राय॑ गृह्णामि 
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प॒ञ्चा॒नान् त्वा॒ वाता॑नाय्ँ य॒न्त्राय॑ ध॒र्त्राय॑ गृह्णामि ।  
 </details>
+
 <details><summary>Keith</summary>
 
 For a prop, a support, of the five winds I take thee.
 </details>
+
 <details><summary>मूलम्</summary>
 
 प॒ञ्चा॒नान्त्वा॒ वाता॑नाय्ँय॒न्त्राय॑ ध॒र्त्राय॑ गृह्णामि ।  
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 प॒ञ्चा॒नाम् । त्वा॒ । वाता॑नाम् । य॒न्त्राय॑ । ध॒र्त्राय॑ । गृ॒ह्णा॒मि॒ । 
@@ -420,14 +469,17 @@ For a prop, a support, of the five winds I take thee.
 
 प॒ञ्चा॒नान् त्व॑र्तू॒नाय्ँ य॒न्त्राय॑ ध॒र्त्राय॑ गृह्णामि ।  
 </details>
+
 <details><summary>Keith</summary>
 
 For a prop, a support, of the five seasons I take thee.
 </details>
+
 <details><summary>मूलम्</summary>
 
 प॒ञ्चा॒नान्त्व॑र्तू॒नाय्ँय॒न्त्राय॑ ध॒र्त्राय॑ गृह्णामि ।  
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 प॒ञ्चा॒नाम् । त्वा॒ । ऋ॒तू॒नाम् । य॒न्त्राय॑ । ध॒र्त्राय॑ । गृ॒ह्णा॒मि॒ । 
@@ -451,14 +503,17 @@ For a prop, a support, of the five seasons I take thee.
 
 प॒ञ्चा॒नान् त्वा॑ दि॒शाय्ँ य॒न्त्राय॑ ध॒र्त्राय॑ गृह्णामि ।  
 </details>
+
 <details><summary>Keith</summary>
 
 For a prop, a support, of the five quarters I take thee.
 </details>
+
 <details><summary>मूलम्</summary>
 
 प॒ञ्चा॒नान्त्वा॑ दि॒शाय्ँय॒न्त्राय॑ ध॒र्त्राय॑ गृह्णामि ।  
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 प॒ञ्चा॒नाम् । त्वा॒ । दि॒शाम् । य॒न्त्राय॑ । ध॒र्त्राय॑ । गृ॒ह्णा॒मि॒ । 
@@ -480,14 +535,17 @@ For a prop, a support, of the five quarters I take thee.
 
 प॒ञ्चा॒नान् त्वा॑ पञ्चज॒नाना॑य्ँ य॒न्त्राय॑ ध॒र्त्राय॑ गृह्णामि ।
 </details>
+
 <details><summary>Keith</summary>
 
 For a prop, a support, of the five five-peoples I take thee.
 </details>
+
 <details><summary>मूलम्</summary>
 
 प॒ञ्चा॒नान्त्वा॑ पञ्चज॒नाना॑य्ँय॒न्त्राय॑ ध॒र्त्राय॑ गृह्णामि ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 प॒ञ्चा॒नाम् । त्वा॒ । प॒ञ्च॒ज॒नाना॒मिति॑ पञ्च-ज॒नाना॑म् । य॒न्त्राय॑ । ध॒र्त्राय॑ । गृ॒ह्णा॒मि॒ ।
@@ -511,18 +569,22 @@ _______
 
 18-25उत्तरैर् अष्टभिर् औप-भृतम् अनुमन्त्रयते।  
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 च॒रोस्+++(=पात्रस्य)+++ त्वा॒ पञ्च॑बिलस्य य॒न्त्राय॑ ध॒र्त्राय॑ गृह्णामि ।
 </details>
+
 <details><summary>Keith</summary>
 
 For a prop, a support, of the pot with five holes I take thee.
 </details>
+
 <details><summary>मूलम्</summary>
 
 च॒रोस्त्वा॒ पञ्च॑बिलस्य य॒न्त्राय॑ ध॒र्त्राय॑ गृह्णामि ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 च॒रोः । त्वा॒ । पञ्च॑बिल॒स्येति॒ पञ्च॑-बि॒ल॒स्य॒ । य॒न्त्राय॑ । ध॒र्त्राय॑ । गृ॒ह्णा॒मि॒ ।
@@ -544,14 +606,17 @@ For a prop, a support, of the pot with five holes I take thee.
 
 ब्रह्म॑णस् त्वा॒ तेज॑से य॒न्त्राय॑ ध॒र्त्राय॑ गृह्णामि ।
 </details>
+
 <details><summary>Keith</summary>
 
 For the brilliance of the Brahman, for a prop, a support, I take thee.
 </details>
+
 <details><summary>मूलम्</summary>
 
 ब्रह्म॑णस्त्वा॒ तेज॑से य॒न्त्राय॑ ध॒र्त्राय॑ गृह्णामि ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 ब्रह्म॑णः । त्वा॒ । तेज॑से । य॒न्त्राय॑ । ध॒र्त्राय॑ । गृ॒ह्णा॒मि॒ । 
@@ -573,14 +638,17 @@ For the brilliance of the Brahman, for a prop, a support, I take thee.
 
 क्ष॒त्रस्य॒ त्वौज॑से य॒न्त्राय॑ ध॒र्त्राय॑ गृह्णामि ।
 </details>
+
 <details><summary>Keith</summary>
 
 For the might of the ruling class, for a prop, a support, I take thee [2].
 </details>
+
 <details><summary>मूलम्</summary>
 
 क्ष॒त्रस्य॒ त्वौज॑से य॒न्त्राय॑ ध॒र्त्राय॑ गृह्णामि ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 क्ष॒त्रस्य॑ । त्वा॒ । ओज॑से । य॒न्त्राय॑ । ध॒र्त्राय॑ । गृ॒ह्णा॒मि॒ । 
@@ -604,16 +672,19 @@ For the might of the ruling class, for a prop, a support, I take thee [2].
 
 -  [ यन्त्राय यमनाय स्वस्वाधारेष्वविचलनस्थापनाय धर्त्राय जगद्धारणाय जगद्धाणकुशलाय वा त्वां गृह्णामि हे आज्य ।]
 </details>
+
 <details><summary>Keith</summary>
 
 For the people, for a prop, a support I take thee.
 </details>
+
 <details><summary>मूलम्</summary>
 
 वि॒शे त्वा॑ य॒न्त्राय॑ ध॒र्त्राय॑ गृह्णामि ।
 
 -  [ यन्त्राय यमनाय स्वस्वाधारेष्वविचलनस्थापनाय धर्त्राय जगद्धारणाय जगद्धाणकुशलाय वा त्वां गृह्णामि हे आज्य ।]
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 वि॒शे । त्वा॒ । य॒न्त्राय॑ । ध॒र्त्राय॑ । गृ॒ह्णा॒मि॒ । 
@@ -633,6 +704,7 @@ For the people, for a prop, a support I take thee.
 
 सु॒वीर्या॑य त्वा गृह्णामि ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 सु॒वीर्या॒येति॑ सु-वीर्या॑य । त्वा॒ । गृ॒ह्णा॒मि॒ । 
@@ -642,10 +714,12 @@ For the people, for a prop, a support I take thee.
 
 For excellence of strength I take thee.
 </details>
+
 <details><summary>मूलम्</summary>
 
 सु॒वीर्या॑य त्वा गृह्णामि ।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 सुवीर्याय सुष्ठुवीर्यत्वाय । 'वीरवीर्यौ च' इति बहुव्रीहिस्वरः प्रवर्तते, तत्पुरुषो वा 'परादिश्छन्दसि बहुलम्' इति ।
@@ -660,14 +734,17 @@ For excellence of strength I take thee.
 
 सु॒प्र॒जा॒स्त्वाय॑ त्वा गृह्णामि ।
 </details>
+
 <details><summary>Keith</summary>
 
 For wealth of offspring I take thee.
 </details>
+
 <details><summary>मूलम्</summary>
 
 सु॒प्र॒जा॒स्त्वाय॑ त्वा गृह्णामि ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 सु॒प्र॒जा॒स्त्वायेति॑ सुप्रजाः-त्वाय॑ । त्वा॒ । गृ॒ह्णा॒मि॒ ।
@@ -687,14 +764,17 @@ For wealth of offspring I take thee.
 
 रा॒यस्पोषा॑य त्वा गृह्णामि ।
 </details>
+
 <details><summary>Keith</summary>
 
 For increase of wealth I take thee.
 </details>
+
 <details><summary>मूलम्</summary>
 
 रा॒यस्पोषा॑य त्वा गृह्णामि ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 रा॒यः । पोषा॑य । त्वा॒ । गृ॒ह्णा॒मि॒ । 
@@ -714,14 +794,17 @@ For increase of wealth I take thee.
 
 ब्र॒ह्म॒व॒र्च॒साय॑ त्वा गृह्णामि ।   
 </details>
+
 <details><summary>Keith</summary>
 
 For splendour I take thee.
 </details>
+
 <details><summary>मूलम्</summary>
 
 ब्र॒ह्म॒व॒र्च॒साय॑ त्वा गृह्णामि ।   
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 ब्र॒ह्म॒व॒र्च॒सायेति॑ ब्रह्म-व॒र्च॒साय॑ । त्वा॒ । गृ॒ह्णा॒मि॒ । 
@@ -742,12 +825,14 @@ _______
 
 26-27शेषेण ध्रौवम् अनुमत्रयते - भूरस्माकमिति ॥ 
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 भूर॒स्माकँ॑ ह॒विर्दे॒वाना॑मा॒शिषो॒ यज॑मानस्य
 दे॒वाना॑न्त्वा दे॒वता॑भ्यो गृह्णामि
 कामा॑य त्वा गृह्णामि ॥ [3] 
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भूर् अ॒स्माकँ॑,  
@@ -755,11 +840,13 @@ _______
 आ॒शिषो॒ यज॑मानस्य  
 दे॒वाना॑न् त्वा दे॒वता॑भ्यो गृह्णामि। 
 </details>
+
 <details><summary>Keith</summary>
 
 The earth ours,
 the oblation the gods, the benedictions the sacrificers'; for the divinities of the gods I take thee.
 </details>
+
 <details><summary>मूलम्</summary>
 
 भूर॒स्माकँ॑ ह॒विर्दे॒वाना॑मा॒शिषो॒ यज॑मानस्य
@@ -794,10 +881,12 @@ the oblation the gods, the benedictions the sacrificers'; for the divinities of 
 
 कामा॑य त्वा गृह्णामि ॥
 </details>
+
 <details><summary>Keith</summary>
 
 For desire I take thee.
 </details>
+
 <details><summary>मूलम्</summary>
 
 कामा॑य त्वा गृह्णामि ॥

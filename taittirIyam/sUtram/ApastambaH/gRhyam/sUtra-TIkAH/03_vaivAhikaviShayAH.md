@@ -19,10 +19,12 @@ title = "०३ वैवाहिकविषयाः"
 
 12. All seasons are fit for marriage with the exception of the two months of the śiśira season, and of the last summer month.
 </details>
+
 <details><summary>हरदत्त-प्रस्तावः</summary>
 
 एकाग्निविधिकाण्डे विवाह-मन्त्राणां पूर्वमाम्नानात् विवाहम् एव पूर्वं व्याख्यास्यन् तस्योदगयनादि-नियमापवादेन कालमाह—
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 अथ विवाह-विधिः प्राग् उपनयनात् ।
@@ -33,6 +35,7 @@ title = "०३ वैवाहिकविषयाः"
 
 अन्ये तु पूर्वपक्षादेर् अप्य् अपवादं मन्यन्ते ।+++(5)+++ तेषाम् अपरपक्षे रात्रौ च न निषिध्यते विवाहः ॥१२॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **सर्वे षड् ऋतवः** प्रत्येकं मास-द्वय-रूपाः विवाहस्य कालाः । द्वादशापि मासाः सापर-पक्षादिकाः कार्त्स्न्येन काला इत्य् अर्थः । 
@@ -68,6 +71,7 @@ title = "०३ वैवाहिकविषयाः"
 
 13. All Nakṣatras which are stated to be pure, (are fit for marriage);
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 सर्वर्तुविधानस्य सर्वापवादत्वात् पुण्याहविधानार्थमिदम् ।
@@ -76,6 +80,7 @@ title = "०३ वैवाहिकविषयाः"
 तत्र नक्षत्राणि ज्योतिश्शास्त्रादवगन्तव्यानि ।
 प्रातस्सङ्गवो मध्यन्दिनोऽपराह्णस्सायमित्येते मुहूर्ताः ॥१३॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 यानि ज्यौतिषे पुण्योक्तानि शुभफलप्रदत्वेनोक्तानि नक्षत्राणि ।
@@ -107,12 +112,14 @@ title = "०३ वैवाहिकविषयाः"
 
 14. And all auspicious performances.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 "ब्राह्मणान् भोजयित्वाशिषो वाचयित्वे"त्येवमादीनि स्वशास्त्रप्रसिद्धानि ।
 मङ्गलानि स्नातोऽहतवासा गन्धानुलिप्तः, स्रग्वी भुक्तवानित्येवमादीनि नापितकर्माङ्कुरार्पणादीनि लोकप्रसिद्धानि ।
 तान्येतानि सर्वाणि प्रत्येतव्यानि ॥१४॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 शङ्खदुन्दुभिवीणातूणववादित्रसम्प्रवादनानि कुलस्त्रीगीतानि केशश्मश्र्वादिप्रकल्पनाहतधौताच्छिद्रविचित्रवासोधारणगन्धानुलेपनसुगन्धस्रग् धारणापदातिगमनच्छत्रध्वजादीनि शिष्टाचारप्रसिद्धानि मङ्गलानि विवाहे उपसंहर्तव्यानि ॥१४॥
@@ -142,11 +149,13 @@ title = "०३ वैवाहिकविषयाः"
 
 15. And one should learn from women what ceremonies (are required by custom).
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 मन्त्ररहिताः क्रियाः **आवृत** इत्युच्यन्ते ।
 यस्मिन् जनपदे ग्रामे कुले वा या आवृतः प्रसिद्धाः तास्तथैव व्यवस्थिताः यथा प्रतीयेरन्न सर्वत्रैवमर्थम् ॥१५॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **आवृतः** क्रियाः वैवाहिक्यः अविशेषात् समन्त्रका अमन्त्रकाश्च ।
@@ -181,9 +190,9 @@ title = "०३ वैवाहिकविषयाः"
 
 16. [^8]  Under the Invakās (Nakṣatra), (the wooers who go to the girl's father) are sent out: such wooers are welcome.
 
-
 [^8]:  On the Nakṣatra Invakās, comp. Section 3, Sūtra 4. This Sūtra forms a Śloka-hemistich, on which Haradatta observes, 'This verse has not been made by the Sūtrakāra.'
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 नक्षत्रप्रशंसार्था गाथा विवाहप्रकरणे वरप्रसङ्गार्थमुदाहृता ।
@@ -196,6 +205,7 @@ title = "०३ वैवाहिकविषयाः"
 तस्मात् ज्ञायते– स्मृत्यन्तरप्रसिद्धा लौकिक्येवेयं गाथा, न सूत्रकारस्य कृतिरिति ॥१७॥
 ________________________
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **इन्काभिः** मृगशिरसि "नक्षत्रे च लुपि" (पा.२-३-४५. ) इति सप्तम्यर्थे तृतीया ।
@@ -227,14 +237,15 @@ ________________________
 
 1. [^1]  Under the Maghās (Nakṣatra) cows are provided;
 
-
 [^1]:  3, 1, 2. Comp. Ṛg-veda X, 85, 13; Atharva-veda XIV, i, 13; Kauśika-sūtra 75; Rāmāyaṇa I, 71, 24; 72, 13; Weber, Die vedischen Nachrichten von den Naxatra, II, 364 seq. These parallel passages most decidedly show that in Sūtra 2 we ought to read vyuhyate, not vyūhyate.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 यदि मघाभिः गावः क्रयादिना गृह्यन्ते ताश्च गावः प्रतिनन्दिता भवन्ति ।
 तस्मात् गोपरिग्रहे मघाः प्रशस्ताः ॥१॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 "आर्षे दुहितृमते मिथनौ गावौ देयौ" (आप.ध. २-११-१८.) इति वचनादार्षे विवाहे वरैर्दीयमाना गावो दुहितृमद्भिर्मघासु गृह्यन्ते ।
@@ -264,6 +275,7 @@ ________________________
 
 2. Under the Phalgunī (Nakṣatra) marriage is celebrated.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 यदि फल्गुनीभ्यां व्यूह्यते सेना युद्धकाले सा च प्रतिनन्दिता भवति ।
@@ -271,6 +283,7 @@ ________________________
 अविशेषात् पूर्वे उत्तरे च ।
 सर्वत्र "नक्षत्रे च लुपी"(पा.सू.२-३-४५.)त्यधिकरणे तृतीया ॥२॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 अत्र च वधूः फल्गुन्योरेव **व्यूह्यते** नीयते स्वगृहात्, न तु "तां ततः" (आप.गृ.५-११.) इति वचनात् ब्राह्मादिवत्तदानीमेव ॥
@@ -301,9 +314,9 @@ ________________________
 
 3. [^2]  A daughter whom he wishes to be dear (to her husband), a father should give in marriage under the Niṣṭyā (Nakṣatra); thus she becomes dear (to her husband); she does not return (to her father's) house: this is an observance based on a Brāhmaṇa.
 
-
 [^2]:  Comp. Taittirīya Brāhmaṇa I, 5, 2, 3.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 **यां** दुहितरं पिता प्रियां **कामयेत** भर्तुरियं **प्रियास्यादिति तां निष्ठायां** नक्षत्रे दद्यात् ।
@@ -314,6 +327,7 @@ ________________________
 ब्रह्मणावेक्षो विधिरिति वचनात् अन्येऽपि स्मृत्यपेक्षा नक्षत्रविधयो भवन्ति ।
 अन्यथा पुंसवने तिष्यवत् विवाहे इदमेव नक्षत्रं स्यात् ॥३॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 इयं भर्तुः **प्रिय स्यादिति यां दुहितरं** पिता कामयेत तां **निष्ट्यायां** स्वातौ वराय दद्यात् ।
@@ -346,13 +360,14 @@ ________________________
 
 4. [^3]  The word Invakās means Mṛgaśiras; the word Niṣṭyā means Svāti.
 
-
 [^3]:  Comp. Sūtra 3, and above, Section 2, Sūtra 16.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 +++(सम्पादकटिप्पनी- इदं सूत्रम् अग्रिमे व्याख्यातम्।)+++
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 +++(सम्पादकटिप्पनी- इदं सूत्रम् अग्रिमे व्याख्यातम्।)+++
@@ -382,10 +397,12 @@ ________________________
 
 4. the word Niṣṭyā means Svāti.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 छन्दसि प्रयुक्तत्वादेतयोरर्थकथनम् ॥४॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 एते सूत्रे व्यक्तार्थे ॥४-५॥
@@ -415,13 +432,14 @@ ________________________
 
 5. [^4]  At the wedding one cow;
 
-
 [^4]:  5-8. Comp. Śāṅkhāyana-Gṛhya I, 12, 10. It is clear that with the first cow the bride's father has to receive the bridegroom. The 'house' mentioned in Sūtra 6 seems to be the house of the newly-married couple. In the expression 'whom he reveres,' 'he,' according to the commentaries, is the bridegroom.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 विवाहस्थाने गौरालब्धव्या दुहितृमता ॥५॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 विवाहस्थाने गौस्सन्निधाप्या ॥६॥
@@ -450,11 +468,13 @@ ________________________
 
 6. In the house one cow:
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 गृहेषु च गौरालब्धव्या तेनैव दुहितृमता ।
 तयौर्विनियोगः ॥६॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 तथा गृहेषु शालायां अन्या गौस्सन्निधाप्या ॥७॥
@@ -483,16 +503,19 @@ ________________________
 
 7. With the (first cow) he should prepare an Argha reception for the bridegroom as for a guest,
 </details>
+
 <details><summary>हरदत्त-प्रस्तावः</summary>
 
 किमर्थमित्यत आह–
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 या विवाहे गौः तया वरमतिथिवत् पूजयेत् ।
 अतिथिवदिति वचनात् मधुपर्केण च ।
 "गोमधुपर्कार्हो वेदाध्याय" (आप.ध. २-८-५.) इति वचनात् ॥७॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **तया** विवाहस्थाने सन्निधापितया गवा, न त्वनन्तरोक्तया, **वरमतिथिवत् ** अतिथिं यथा तथा **अर्हयेत्** पूजयेत् ।
@@ -523,6 +546,7 @@ ________________________
 
 8. With the other (the bridegroom [?] should do so) for a person whom he reveres.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 **योऽस्य** वरस्या**पचितः** पूज्यः तेन सहागत आचार्यस्तम् **इतरया** गृहेषु या गौरालभ्यते तया ।
@@ -532,6 +556,7 @@ ________________________
 अपचिताय तत्सहायेभ्यश्च गृहेषु पृथगन्नसंस्कारः ।
 गोश्च वपाश्रपणं होमश्चौपासन एवेत्यनुष्ठानप्रकारः ॥८॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **योऽस्य** वरस्य पित्राचार्यत्वादिना सम्बन्धी, लोके **चापचितो** विद्याभिजनादिसम्पत्त्या ।
@@ -567,6 +592,7 @@ ________________________
 
 9. These are the occasions for killing a cow: (the arrival of) a guest, (the Aṣṭakā sacrifice offered to) the Fathers, and marriage.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 एतेष्वेव त्रिषु स्थानेषु गोरालम्भः नान्यत्र पाकयज्ञेषु ।
@@ -576,6 +602,7 @@ ________________________
 कल्पान्तरेष्वीशानयज्ञादावपि गोरालम्भ आम्नातः, तत्प्रतिषेधार्थो नियमः ।
 एवं ब्रुवता कल्पान्तरे दृष्टा अन्ये विशेषा अभ्यनुज्ञाता भवन्ति ॥९॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **अतिथिः** वेदाध्याय्यागतः **पितरः** अष्टकाकर्म, **विवाहश्चेति,** यदेतत्त्त्रयं एतावत् गवालम्भाङ्गकर्मनिमित्तम् ।
@@ -612,19 +639,21 @@ ________________________
 
 10. [^5]  Let (the wooer) avoid in his wooing a girl that sleeps, or cries, or has left home.
 
-
 [^5]:  This Sūtra forms a half-śloka.
 </details>
+
 <details><summary>हरदत्त-प्रस्तावः</summary>
 
 अथ विवाहे वर्जनीयाः कन्या आह–
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 वरेषु वरणार्थं प्राप्तेषु या कन्या स्वपिति रोदिति निष्क्रामति वा गृहात्, तस्या वरणं न कर्त्तव्यम् ।
 अशुभलिङ्गान्येतानीति ।
 परिशब्दोऽत्यन्तप्रतिषेधार्थः मनश्चक्षुषोर्निबन्धे सत्यपीति ॥११॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 या वरेषु वरणार्थं प्राप्तेषु स्वपिति, या रोदिति, या वा गृहान्निष्क्रामति, ता एता **वरणे परिवर्जयेत्** अत्यन्तं वर्जयेत्, ऋद्धौ ज्योतिषादिभिर्ज्ञातायामपि ; यतस्स्वापादीनामत्रानृद्धिलिङ्गत्वं प्रबलत्वं च विवक्षितम् ॥११॥
@@ -654,9 +683,9 @@ ________________________
 
 11. [^6]  And let him avoid one who has been given (to another), and who is guarded (by her relations), and one who looks wicked (?), or who is a most excellent one (?), or (who is like the fabulous deer) śarabha (?), a hunch-back, a girl of monstrous appearance, a bald-headed girl, a girl whose skin is like a frog's (?), a girl who has gone over to another family (?), a girl given to sensual pleasures (?), or a herdess, or one who has too many friends, or who has a fine younger sister, or one whose age is too near to that of the bridegroom (?).
 
-
 [^6]:  Most expressions in this Sūtra are quite doubtful, and their translation rests on the explanations of the commentators (see pp. 44, 45 of Dr. Winternitz's edition), which are evidently for the most part only guesses.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 **दता**वाचान्यस्मै दत्ता ।
@@ -682,6 +711,7 @@ ________________________
 तेन येषु वरणं नास्ति ब्राह्मादिषु विवाहेषु तेष्वप्यासां प्रतिषेधः ।
 किञ्च तदनुवृक्तावत्यन्तप्रतिषेधप्रसङ्गः ॥१२॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 दत्ताद्याःपञ्चदश कन्या वर्जयेत् ।
@@ -732,13 +762,14 @@ ________________________
 
 12. [^7]  Girls who have the name of a Nakṣatra, or of a river, or of a tree, are objectionable.
 
-
 [^7]:  12, 13. These Sūtras would require only slight alterations to make a śloka.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 +++(सम्पादकटिप्पनी- इदं सूत्रम् अग्रिमे व्याख्यातम् ।)+++
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 +++(सम्पादकटिप्पनी- इदं सूत्रम् अग्रिमे व्याख्यातम् ।)+++
@@ -767,6 +798,7 @@ ________________________
 
 13. And all girls in whose names the last letter but one is r or l, one should avoid in wooing.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 नक्षत्रं नाम यासां ता तथा **नक्षत्रनामाः, नदीनामाः वृक्षनामाश्च** रोहिणी गङ्गा करेजेत्यादयः ।
@@ -775,6 +807,7 @@ ________________________
 करा काला सुवेलेत्यादयः ।
 ताः **वरणे परिवर्जयेत्** वरणमप्यासां न कर्तव्यमित्यर्थः ॥१४॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 नक्षत्रस्य नामेव नाम यासां **नक्षत्रनामाः ।** एकस्य नामशब्दस्य लेपः, उष्ट्रमुखादिवत् ।
@@ -815,10 +848,12 @@ ________________________
 
 14. If possible, he should place (the following) objects hidden before the girl, and should say to her, 'Touch (one of these things).'
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 +++(सम्पादकटिप्पनी- इदं सूत्रम् अग्रिमे व्याख्यातम् ।)+++
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 +++(सम्पादकटिप्पनी- इदं सूत्रम् अग्रिमे व्याख्यातम् ।)+++
@@ -847,6 +882,7 @@ ________________________
 
 15. (The objects are), different kinds of seeds mixed together, loose earth from (the kind of sacrificial altar called) vedi, an earth-clod from a field, cow-dung, and an earth-clod from a cemetery.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 "लक्षणसम्पन्नामुपयच्छेत" इति वक्ष्यति ।
@@ -859,6 +895,7 @@ ________________________
 वेद्याः पांसूनाहृतान्, सस्यसम्पन्नात् क्षेत्रादाहृतं लोष्टं, शकृत् गोमयं, श्मशानादाहृतं लोष्टमित्येतानि ।
 बीजानां द्रव्यत्वाव्यभिचारेऽपि द्रव्याणीत्युच्यते–शास्त्रान्तरे दृष्टानामन्येषामपि द्रव्याणामिह विकल्पेन प्राप्त्यर्थं तद्यथा– अविदासिनो हृदात्सर्वसम्पन्ना देवनात् कितवी इरिणादधन्येति (आश्व. गृ. १-५-६.) ॥१६॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 शक्तिस्सामर्थ्यम् ।
@@ -898,13 +935,14 @@ ________________________
 
 16. [^8]  If she touches one of the former (objects, this portends) prosperity as characterized (by the nature of what she has touched).
 
-
 [^8]:  The seeds mean offspring, and so on.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 +++(सम्पादकटिप्पनी- इदं सूत्रम् अग्रिमे व्याख्यातम् ।)+++
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 +++(सम्पादकटिप्पनी- इदं सूत्रम् अग्रिमे व्याख्यातम् ।)+++
@@ -933,12 +971,14 @@ ________________________
 
 17. The last is regarded as objectionable.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 तत्र बीजस्पर्शने प्रजाभिस्समृद्धिः ।
 वेदिपुरीषे यज्ञैः, क्षेत्रलोष्टे धनधान्यैः, गोमये पशुभिः, श्मशानलोष्टे मरणमिति यथालिङ्गार्थः ।
 **उत्तमम्** अन्त्यं द्रव्यं **परिचक्षते** गर्हन्ते वर्जयन्तीत्यर्थः ॥१८॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **पूर्वेषां** चतुर्णामुपस्पर्शने **यथालिङिगमृद्धिः ।**
@@ -972,10 +1012,12 @@ ________________________
 
 18. Let him marry a girl of good family and character, with auspicious characteristics, and of good health.
 </details>
+
 <details><summary>हरदत्त-प्रस्तावः</summary>
 
 उद्वाह्यामाह–
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 उक्ता वर्जनीयाः कन्याः ।
@@ -985,6 +1027,7 @@ ________________________
 **शीलसम्पन्ना** आर्यशीला ।
 **लक्षणसम्पन्ना** स्त्रीलक्षणैरुपेता रोगराहिता क्षयापस्मारादिरहिता ॥१९॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 अत्र **सम्पन्नाम्** इति प्रत्येकं सम्बध्यते ।
@@ -1018,16 +1061,19 @@ ________________________
 
 19. Good family, a good character, auspicious characteristics, learning, and good health: these are the accomplishments of a bridegroom.
 </details>
+
 <details><summary>हरदत्त-प्रस्तावः</summary>
 
 अथ वरगुणानाह–
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 **श्रुतवान्** श्रुताध्ययनसम्पन्नः ।
 वरसम्पत् वरगुणाः ।
 एवंगुणाय कन्यका देयेत्यर्थः ॥१६॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **बन्धुशीललक्षणसम्पन्न** इति पूर्ववद्व्याख्यानम् ।
@@ -1061,23 +1107,38 @@ ________________________
 
 20. A wife who is pleasing to his mind and his eyes, will bring happiness to him; let him pay no attention to the other things: such is the opinion of some.
 </details>
+
 <details><summary>हरदत्त-प्रस्तावः</summary>
 
 अथर्द्धिनिश्चये एकीयं मतमाह–
 </details>
+
 <details><summary>हरदत्तः</summary>
 
-**यस्यां** कन्यायां वरस्य **मनसश्चक्षुषश्च** निबन्धः तृप्तिरुत्पद्यते **तस्यामृद्धिर्** ध्रुवा, **नेतरत्** न दत्तादिगुणदोषाद्यनुदर्शनमादरणीयमित्य् **एके** शिष्टा ब्रुवते ।
-अत्र पक्षे सर्वगुणसम्पन्नायामपि यस्यां मनश्चक्षुषी न निबध्येते सा वर्जनीया ।
-शास्त्रनिषिद्धास्तत्रापि पक्षे वर्ज्या एव, यथा सवर्णा सगोत्रेति ॥२१॥
+**यस्यां** कन्यायां वरस्य **मनसश्चक्षुषश्च** निबन्धः तृप्तिर् उत्पद्यते **तस्याम् ऋद्धिर्** ध्रुवा, **नेतरत्** न दत्तादि-गुण-दोषाद्य्-अनुदर्शनम् आदरणीयम् इत्य् **एके** शिष्टा ब्रुवते ।
+
+अत्र पक्षे सर्व-गुण-सम्पन्नायाम् अपि यस्यां  
+मनश्चक्षुषी न निबध्येते सा वर्जनीया ।  
+
+शास्त्र-निषिद्धास् तत्रापि पक्षे वर्ज्या एव, यथा ऽस-वर्णा स-गोत्रेति ॥२१॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
-**यस्यां** कन्यायां वरस्य **मनश्चक्षुषोर्निबन्धः** नितरां बन्धनं, यस्यामासक्त्यतिशयेन मनश्चक्षुषी निबद्धे अव तिष्ठत इत्यर्थः ।
-**तस्यां **जायायां सत्यां धर्मादीनां समृद्धिः,** नेतरत् **गुणदोषानुदर्शनम् **आद्रियेत** इत्येके ब्रूवते ।
-एतदुक्तं भवति– अत्र मनश्चक्षुषोर्निबन्ध एवादरणे कारणम्, न तु ज्योतिषादिना ज्ञाता गुणाः ।
-तथा तदभाव एव परिवर्जने कारणम्, न स्वापादयो दोषा इति ।
-उभयोरपि मतयोर्दत्तादीनां निषेधमाद्रियेतैव; "सवर्णापूर्वशास्त्रविहितायाम्" (आप.ध. २-१३-१.) "असमानार्षगोत्रजाम्" "पञ्चमात् सप्तमादूर्ध्वम्" इत्यादिवचनजातात् ॥२१॥
+**यस्यां** कन्यायां वरस्य **मनश्-चक्षुषोर् निबन्धः** नितरां बन्धनं,  
+यस्याम् आसक्त्यतिशयेन मनश्चक्षुषी निबद्धे अव तिष्ठत इत्यर्थः ।  
+**तस्यां** जायायां सत्यां धर्मादीनां समृद्धिः, **नेतरत्** गुणदोषानुदर्शनम् **आद्रियेत** इत्येके ब्रूवते ।  
+
+एतदुक्तं भवति–  
+
+अत्र मनश्चक्षुषोर् निबन्ध एवादरणे कारणम्,  
+न तु ज्योतिषादिना ज्ञाता गुणाः ।
+तथा तद्-अभाव एव परिवर्जने कारणम्,  
+न स्वापादयो दोषा इति ।  
+
+उभयोर् अपि मतयोर् दत्तादीनां निषेधम् आद्रियेतैव;  
+"सवर्णापूर्वशास्त्रविहितायाम्" (आप.ध. २-१३-१.) "असमानार्षगोत्रजाम्" "पञ्चमात् सप्तमादूर्ध्वम्" इत्यादिवचनजातात् ॥२१॥
+
 इत्थं सुदर्शनार्येण गृह्यतात्पर्यदर्शनम् ॥
 प्रथमे पटलेऽकारि यथाभाष्यं यथामति ॥
 इति श्रीसुदर्शनाचार्यकृते गृह्यतात्पर्यदर्शने तृतीयः खण्डः ॥

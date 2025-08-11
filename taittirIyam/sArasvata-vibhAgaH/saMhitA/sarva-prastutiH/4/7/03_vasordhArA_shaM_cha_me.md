@@ -6,14 +6,12 @@ title = "०३ वसोर्धारा होममन्त्राः"
 
 चतुर्थकाण्डे सप्तमप्रपाठके तृतियोऽनुवाकः
 
-
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 ९ अथ चतुर्थाष्टके सप्तमप्रपाठके तृतीयोऽनुवाकः ।  
 तृतीयमाह— शं च म इति ।  
 
 </details>
-
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -22,7 +20,7 @@ title = "०३ वसोर्धारा होममन्त्राः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शञ्च॑ मे॒ मय॑श्च मे 
+श᳓ञ्च मे म᳓यश्च मे 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -38,7 +36,7 @@ title = "०३ वसोर्धारा होममन्त्राः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रि॒यञ्च॑ मेऽनुका॒मश्च॑ मे॒  
+प्रिय᳓ञ्च मेऽनुकाम᳓श्च मे  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -55,7 +53,7 @@ title = "०३ वसोर्धारा होममन्त्राः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-काम॑श्च मे सौमन॒सश्च॑ मे  
+का᳓मश्च मे सौमनस᳓श्च मे  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -71,7 +69,7 @@ title = "०३ वसोर्धारा होममन्त्राः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भ॒द्रञ्च॑ मे॒ श्रेय॑श्च मे॒
+भद्र᳓ञ्च मे श्रे᳓यश्च मे
 </details>
 
 <details><summary>मूलम्</summary>
@@ -87,7 +85,7 @@ title = "०३ वसोर्धारा होममन्त्राः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वस्य॑श्च मे॒ यश॑श्च मे॒
+व᳓स्यश्च मे य᳓शश्च मे
 </details>
 
 <details><summary>मूलम्</summary>
@@ -103,7 +101,7 @@ title = "०३ वसोर्धारा होममन्त्राः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भग॑श्च मे॒ द्रवि॑णञ्च मे
+भ᳓गश्च मे द्र᳓विणञ्च मे
 </details>
 
 <details><summary>मूलम्</summary>
@@ -119,7 +117,7 @@ title = "०३ वसोर्धारा होममन्त्राः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य॒न्ता च॑ मे ध॒र्ता च॑ मे॒
+यन्ता᳓ च मे धर्ता᳓ च मे
 </details>
 
 <details><summary>मूलम्</summary>
@@ -135,7 +133,7 @@ title = "०३ वसोर्धारा होममन्त्राः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-क्षेम॑श्च मे॒ धृति॑श्च मे॒
+क्षे᳓मश्च मे धृ᳓तिश्च मे
 </details>
 
 <details><summary>मूलम्</summary>
@@ -152,7 +150,7 @@ title = "०३ वसोर्धारा होममन्त्राः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विश्व॑ञ्च [5] मे॒ मह॑श्च मे
+वि᳓श्वञ्च [5] मे म᳓हश्च मे
 </details>
 
 <details><summary>मूलम्</summary>
@@ -168,7 +166,7 @@ title = "०३ वसोर्धारा होममन्त्राः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒व्ँविच्च॑ मे॒ ज्ञात्र॑ञ्च मे॒
+सव्ँवि᳓च्च मे ज्ञा᳓त्रञ्च मे
 </details>
 
 <details><summary>मूलम्</summary>
@@ -185,7 +183,7 @@ title = "०३ वसोर्धारा होममन्त्राः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सूश्च॑ मे प्र॒सूश्च॑ मे॒
+सू᳓श्च मे प्रसू᳓श्च मे
 </details>
 
 <details><summary>मूलम्</summary>
@@ -201,7 +199,7 @@ title = "०३ वसोर्धारा होममन्त्राः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सीर॑ञ्च मे ल॒यश्च॑ म+
+सी᳓रञ्च मे लय᳓श्च म+
 </details>
 
 <details><summary>मूलम्</summary>
@@ -217,7 +215,7 @@ title = "०३ वसोर्धारा होममन्त्राः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऋ॒तञ्च॑ मे॒ऽमृत॑ञ्च मे
+ऋत᳓ञ्च मेऽमृ᳓तञ्च मे
 </details>
 
 <details><summary>मूलम्</summary>
@@ -233,7 +231,7 @@ title = "०३ वसोर्धारा होममन्त्राः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+ऽय॒क्ष्मञ्च॒ मेऽना॑मयच्च मे 
++अयक्ष्म᳓ञ्च मे᳓ऽनामयच्च मे 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -249,7 +247,7 @@ title = "०३ वसोर्धारा होममन्त्राः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-जी॒वातु॑श्च मे दीर्घायु॒त्वञ्च॑ मे
+जीवा᳓तुश्च मे दीर्घायुत्व᳓ञ्च मे
 </details>
 
 <details><summary>मूलम्</summary>
@@ -265,7 +263,7 @@ title = "०३ वसोर्धारा होममन्त्राः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+ऽनमि॒त्रञ्च॒ मेऽभ॑यञ्च मे
++अन᳓मित्र᳓ञ्च मे᳓ऽभयञ्च मे
 </details>
 
 <details><summary>मूलम्</summary>
@@ -281,7 +279,7 @@ title = "०३ वसोर्धारा होममन्त्राः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सु॒गञ्च॑ मे॒ शय॑नञ्च मे
+सुग᳓ञ्च मे श᳓यनञ्च मे
 </details>
 
 <details><summary>मूलम्</summary>
@@ -297,7 +295,7 @@ title = "०३ वसोर्धारा होममन्त्राः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सू॒षा च॑ मे सु॒दिन॑ञ्च मे
+सूषा᳓ च मे सुदि᳓नञ्च मे
 </details>
 
 <details><summary>मूलम्</summary>

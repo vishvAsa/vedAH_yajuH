@@ -101,9 +101,6 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/24_mUlan_tUlaM_vRhati.md">
 <details open><summary><h4>24 मूलन् तूलं वृहति ...{Loading}...</h4></summary>
 
-
-
-
 > मूलं तूलं+++(→आगामिनी सम्पत्)+++ वृहति+++(=उत्पाटयति)+++  
 > दुर्विवक्तुः प्रजां पशून् आयतनं हिनस्ति ।  
 > "धर्मप्रह्राद! न कुमालनाय +++(इदं कुकर्म)+++"  

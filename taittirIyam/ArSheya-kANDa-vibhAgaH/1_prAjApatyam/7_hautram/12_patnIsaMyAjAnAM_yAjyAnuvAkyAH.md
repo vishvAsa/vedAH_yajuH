@@ -3,8 +3,8 @@ title = "१२ पत्नीसंयाजानां याज्यान
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/3/5_iShTi-hautrAdi/12_patnIsaMyAjAnAM_yAjyAnuvAkyAH"  newLevelForH1="1" includeTitle="true">
-
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/3/5_iShTi-hautrAdi/12_patnIsaMyAjAnAM_yAjyAnuvAkyAH">
+<details open><summary><h1>१२ पत्नीसंयाजानां याज्यानुवाक्याः ...{Loading}...</h1></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आप्या॑यस्व॒ सन्ते॑ ।  
@@ -35,7 +35,6 @@ unicode_script = "devanagari"
 
   - कल्पः—“आ प्यायस्व समेतु त इति सिकता व्यूहत्युत्तरया त्रिष्टुभा राज-न्यस्य” इति ।   तत्र प्रथममन्त्रमाह— आ प्यायस्वेति ।   हे सोम त्वमाप्यायस्व सर्वतो वर्धयस्य ।   वे तव वृष्णियं रेतो विश्वतः सर्वस्माद्वृष्णियादाहारात्समेतु संप्राप्नोतु ।   वाजस्यान्नस्य संगथे संगमने त्वं निमित्तं भव ।  
 +++(अनुकृतव्याख्यानम् - समाप्तम्)+++  
-
 
 +++(अनुकृतव्याख्यानम् - प्रारम्भः)+++
 - सन्ते॒ पयाँ॑सि॒ समु॑ यन्तु॒ वाजा॒स्सव्ँवृष्णि॑यान्यभिमाति॒षाहः॑ ।  
@@ -125,5 +124,6 @@ unicode_script = "devanagari"
 
 इति तैत्तिरीये तृतीयेऽष्टके पञ्चमप्रपाठके द्वादशोऽनुवाकः ॥  
 
+</details>
 </details>
 </div>

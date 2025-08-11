@@ -43,14 +43,15 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/09_dhruvaxitaye_svAhA.md">
 <details open><summary><h4>०९ ध्रुवक्षितये स्वाहा ...{Loading}...</h4></summary>
 
-- ध्रु॒व॒-क्षित॑ये॒ +++(खे)+++ स्वाहा॑। +++(विवाहे ध्रुवदर्शनमन्त्रेऽप्य् अयम् प्रयोगः)+++  
+ध्रु॒व॒-क्षित॑ये॒+++(←स्वरः??)+++ +++(खे)+++ स्वाहा॑।  
++++(विवाहे ध्रुव-दर्शन-मन्त्रेऽप्य् अयम् प्रयोगः)+++  
 
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/10_achyutaxitaye_svAhA.md">
 <details open><summary><h4>१० अच्युतक्षितये स्वाहा ...{Loading}...</h4></summary>
 
-- अ॒च्यु॒त॒क्षित॑ये॒  स्वाहा॑।  
+अ॒च्यु॒त॒-क्षित॑ये॒+++(←स्वरः??)+++  स्वाहा॑।  
 
 </details>
 </div>
@@ -84,9 +85,6 @@ unicode_script: devanagari
 </details>
 </div>  
 
-
-
-
 ## बलिहरणमन्त्राः
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/03/15_balInAn_tasya_tasya.md">
 <details open><summary><h2>15 बलीनान् तस्य तस्य ...{Loading}...</h2></summary>
@@ -107,7 +105,6 @@ unicode_script: devanagari
 सति सूपसंसृष्टेन कार्याः १९
 </details>
 </div>  
-
 
 ## धर्मसूत्रोक्तांशाः
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/viShaya-vibhAgaH/kriyAH/arhaNam/vaishvadevam/">
@@ -243,14 +240,15 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/09_dhruvaxitaye_svAhA.md">
 <details open><summary><h8>०९ ध्रुवक्षितये स्वाहा ...{Loading}...</h8></summary>
 
-- ध्रु॒व॒-क्षित॑ये॒ +++(खे)+++ स्वाहा॑। +++(विवाहे ध्रुवदर्शनमन्त्रेऽप्य् अयम् प्रयोगः)+++  
+ध्रु॒व॒-क्षित॑ये॒+++(←स्वरः??)+++ +++(खे)+++ स्वाहा॑।  
++++(विवाहे ध्रुव-दर्शन-मन्त्रेऽप्य् अयम् प्रयोगः)+++  
 
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/10_achyutaxitaye_svAhA.md">
 <details open><summary><h8>१० अच्युतक्षितये स्वाहा ...{Loading}...</h8></summary>
 
-- अ॒च्यु॒त॒क्षित॑ये॒  स्वाहा॑।  
+अ॒च्यु॒त॒-क्षित॑ये॒+++(←स्वरः??)+++  स्वाहा॑।  
 
 </details>
 </div>

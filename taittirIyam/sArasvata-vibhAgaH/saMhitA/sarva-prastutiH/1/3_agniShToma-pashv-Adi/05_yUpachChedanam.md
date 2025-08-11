@@ -7,7 +7,6 @@ title = "०५ यूपच्छेदनम्"
 
  सोमऋषिः
 
-
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -29,11 +28,20 @@ I have passed by some, I have not approached others.
 I have found thee nearer than the farther, farther than the near.  
 So I welcome thee, that art of Visnu, for the sacrifice to the gods.
 </details>
+
 <details><summary>मूलम्</summary>
 
 अत्य॒न्यानगा॒न्नान्यानुपा॑गाम॒र्वाक्  
 त्वा॒ परै॑रविदम्प॒रोऽव॑रै॒स्  
 तन्त्वा॑ जुषे वैष्ण॒वन्दे॑वय॒ज्यायै॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अतीति॑ । अ॒न्यान् । अगा॑म् । न । अ॒न्यान् । उपेति॑ । अ॒गा॒म् ।  अ॒र्वाक् । त्वा॒ । परैः॑ । अ॒वि॒द॒म् ।  
+
+प॒रः । अव॑रैः । तम् । त्वा॒ । जु॒षे॒ । वै॒ष्ण॒वम् । दे॒व॒य॒ज्याया॒ इति॑ देव-य॒ज्यायै॑ ।
+
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -46,9 +54,6 @@ So I welcome thee, that art of Visnu, for the sacrifice to the gods.
 </details>
 </div>
 
-
-
-
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -60,21 +65,33 @@ _______
 
 दे॒वस् त्वा॑ सवि॒ता मध्वा॑ऽनक्तु ।
 </details>
+
 <details><summary>Keith</summary>
 
 Let the god Savitr anoint thee with honey.
 </details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वस्त्वा॑ सवि॒ता मध्वा॑ऽनक्तु ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+दे॒वः । त्वा॒ । स॒वि॒ता । मध्वा॑ । अ॒न॒क्तु॒ । 
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 2यूपमाज्येनानक्ति - देवस्त्वेति ॥ हे वृक्ष देवस्सविता सर्वस्य प्रेरकस्त्वां मध्वा मदनीयेन मधुरेणाज्येन अनक्तु स्निग्धं करोतु । 'फलिपाटिनमिमनिजनाङ्गुक्पाटिनाकिधतश्च' इति मन्यतेरुप्रत्ययः, धकारश्चान्तादेशः, तत्र च उरित्यनुवर्तते । 'जसादिषु वा वचनं छन्दसि प्राङ्णौ चड्युपधायाः' इति नाभावाभावः । मधुशब्देन चाज्यमुच्यते, 'तेजसैवैनमनक्ति' इति ब्राह्मणदर्शनात् । `तेजो वा आज्यम्' इति ॥
 </details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+8यूपस्याग्रमनक्ति - देवस्त्वेति ॥ व्याख्यातम् ॥  
+</details>
 </details>
 </div>  
-
 
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -83,27 +100,47 @@ _______
 </details>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/oShadhe.md">
 <details open><summary><h5>ओषधे ...{Loading}...</h5></summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+ऊर्ध्वाग्रं बार्हिर् अनूच्छ्रयति - ओषधे त्रायस्वैनमिति ॥
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ओष॑धे॒ त्राय॑स्वैनम्।
 </details>
+
 <details><summary>Keith</summary>
 
 O plant, protect him.
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ओष॑धे॒ त्राय॑स्वैनँ॒ स्वधि॑ते॒ मैनँ॑ हिँसीः
 </details>
+
 <details><summary>मूलम्</summary>
 
 ओष॑धे॒ त्राय॑स्वैनम्।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+ओष॑धे । त्राय॑स्व । ए॒न॒म् ।  
+
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 2ऊर्ध्वाग्रं बर्हिरनुच्छ्रयति - ओषध इति ॥ हे ओषधे बर्हिरात्मिके । आमन्त्रिताद्युदात्तत्वम् । एनं यजमानं त्रायस्व रक्ष । स्वधितिव्यवधानमेव रक्षणं बर्हिषा ॥
 
 +++(अन्यत्र - )+++ 3ऊर्ध्वाग्रं बार्हिर् अनूच्छ्रयति - ओषधे त्रायस्वैनमिति ॥ हे ओषधे बर्हिरेनं यूपार्थं वृक्षं त्रायस्व रक्ष यागसाधनत्वापादनेन वृक्षत्वान्मोचयित्वा उत्तमां गतिं गमय ॥
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+10वपाग्रहणदेशे प्राचीनाग्रं बर्हिर्निदधाति - ओषधे त्रायस्वैनमिति ॥ व्याख्यातम् ॥
 </details>
 </details>
 </div>  
@@ -113,29 +150,48 @@ _______
 
 4स्वधितिना तिर्यञ्चं प्रहरति
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वधि॑ते॒ मैनँ॑ हिँसीः।
 </details>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/svadhite.md">
 <details open><summary><h5>स्वधिते ...{Loading}...</h5></summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+4स्वधितिना तिर्यञ्चं प्रहरति
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वधि॑ते॒+++(=क्षुर)+++! मैनँ॑ हिँसीः  ।+++(र४)+++
 </details>
+
 <details><summary>Keith</summary>
 
 Axe, hurt him not.
 </details>
+
 <details><summary>मूलम्</summary>
 
 स्वधि॑ते॒ मैनँ॑ हिँसीः  ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+स्वधि॑त॒ इति॒ स्व-धि॒ते॒ । मा । ए॒न॒म् । हिँ॒सीः॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 3तस्मिन् बर्हिषि स्वधितिं तिर्यञ्चं निदधाति - स्वधित इति ॥ स्वस्मिन् प्रयोजने धितिरवस्थानमस्येति स्वधितिः स्वकार्यसमर्थः । धाञः आकारस्येकारः, बहुव्रीहित्वात्पूर्वपदप्रकृतिस्वरत्वम्, इह त्वामन्त्रिताद्युदात्तत्वम् । हे स्वधिते क्षुर एनं यजमानं मा हिंसीः । हिंसाप्रतिषेधो वप्तुरप्रमादाय ॥
 
-    4स्वधितिना तिर्यञ्चं प्रहरति - स्वधिते मैनं हिंसीरिति ॥ हे स्वधिते त्वमप्येनं मा हिंसीः उत्तमामेव गतिं गमय । व्याख्यातौ च प्रागेवेतौ मन्त्रौ । 'अनक्षसङ्गं वृश्चेत्' इत्यादि ब्राह्मणम् ॥
+   - स्वधितिना तिर्यञ्चं प्रहरति - स्वधिते मैनं हिंसीरिति ॥ हे स्वधिते त्वमप्येनं मा हिंसीः उत्तमामेव गतिं गमय । व्याख्यातौ च प्रागेवेतौ मन्त्रौ । 'अनक्षसङ्गं वृश्चेत्' इत्यादि ब्राह्मणम् ॥
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+11स्वधितिं निदधाति - स्वधिते मैनं हिंसीरिति ॥ व्याख्यातमेव ॥
 </details>
 </details>
 </div>  
@@ -145,22 +201,26 @@ _______
 
 5पतन्तमनुमन्त्रयते - दिवमग्रेणेति ॥
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 दिव॒मग्रे॑ण॒ मा ले॑खीर॒न्तरि॑क्ष॒म्मध्ये॑न॒ मा हिँ॑सीᳶ पृथि॒व्या सम्भ॑व।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिव॒म् अग्रे॑ण॒ मा ले॑खीः ।  
 अ॒न्तरि॑क्ष॒म् मध्ये॑न॒ मा हिँ॑सीः ।  
 पृ॒थि॒व्या सम्भ॑व।+++(5)+++
 </details>
+
 <details><summary>Keith</summary>
 
 With thy top graze not the sky,  
 with thy middle harm not the atmosphere,  
 with earth be united.
 </details>
+
 <details><summary>मूलम्</summary>
 
 दिव॒मग्रे॑ण॒ मा ले॑खीः ।  
@@ -185,14 +245,17 @@ _______
 
 6आव्रश्चने हिरण्यं निधाय सम्परिस्तीर्याभिजुहोति - वनस्पत इति त्रैष्टुभैकपदया ॥
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वन॑स्पते श॒तव॑ल्शो॒ वि रो॑ह ।
 </details>
+
 <details><summary>Keith</summary>
 
 O tree, grow with a hundred shoots; may we grow with a thousand shoots.
 </details>
+
 <details><summary>मूलम्</summary>
 
 वन॑स्पते श॒तव॑ल्शो॒ वि रो॑ह ।
@@ -219,14 +282,22 @@ _______
 
 स॒हस्र॑-वल्शाः॒+++(=प्ररोहाः)+++ वि व॒यँ रु॑हेम ।
 </details>
+
 <details><summary>Keith</summary>
 
 Let us rise with a thousand shoots.
 </details>
+
 <details><summary>मूलम्</summary>
 
 स॒हस्र॑वल्शाः॒ [2] विव॒यँ रु॑हेम ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+स॒हस्र॑वल्‌शा॒ इति॑ स॒हस्र॑-व॒ल्‌शाः॒ । वीति॑ । व॒यम् । रु॒हे॒म॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 9आत्मानं प्रत्यभिमृशति - सहस्रवल्शा इति त्रिष्टुभैकपदया ॥   
@@ -244,19 +315,23 @@ _______
 
 8 अन्वग्रं शाखाः प्रसूयति - यं त्वेति द्विपदया त्रिष्टुभा ॥
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(तादृशस् त्वं)+++ यन् त्वा॒ऽयँ स्वधि॑ति॒स् तेति॑जानᳶ प्रणि॒नाय॑ मह॒ते सौभ॑गाय ।
 </details>
+
 <details><summary>Keith</summary>
 
 Thou, whom this sharp axe hath brought forward for great good fortune,  
 
 </details>
+
 <details><summary>मूलम्</summary>
 
 यन्त्वा॒ऽयँ स्वधि॑ति॒स्तेति॑जानᳶ प्रणि॒नाय॑ मह॒ते सौभ॑गाय ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 यम् । त्वा॒ । अ॒यम् । स्वधि॑ति॒रिति॒ स्व-धि॒तिः॒ । तेति॑जानः । प्र॒णि॒नायेति॑ प्र-नि॒नाय॑ । म॒ह॒ते । सौभ॑गाय ।
@@ -274,18 +349,31 @@ _______
 </details>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/05_yUpachChedanam/achChinnaH.md">
 <details open><summary><h5>अच्छिन्नः ...{Loading}...</h5></summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+15अधस्ताद् वपरं परिवासयति - अच्छिन्न इति ॥
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अच्छि॑न्नो॒ राय॑स् सु॒वीरः॑ ॥ [9]
 </details>
+
 <details><summary>Keith</summary>
 
 uncut, with wealth of heroes, (give us) riches.
 </details>
+
 <details><summary>मूलम्</summary>
 
 अच्छि॑न्नो॒ राय॑स्सु॒वीरः॑ ॥ [9]
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+अच्छि॑न्नः । रायः॑ । सु॒वीर॒ इति॑ सु-वीरः॑ ॥ [9]
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 9चतुरङ्गुलमग्रं चषालाय+++(=यूप-कटकाय)+++ प्रच्छेदयति - अच्छिन्न इति ॥ अच्छिन्नः । अद्व्ययपूर्वपदप्रकृतिस्वरत्यम् । रायः धनानि देहीति शेषः । यद्वा - अच्छिन्नो धनस्य सुवीरश्च भवेत्यध्याहारः । 'ऊडिदं' इत्यादिना तृतीयादेर्विभक्तेरुदात्तत्वं व्यत्ययेन न क्रियते । ईदृशस्त्वमेव नो रायः । शोभना वीराः पुत्रपौत्रादयोस्य यजमानस्य येन भवन्ति स सुवीरः । 'वीरवीर्यौ च' इत्युत्तरपदाद्युतात्त्वन् । यस्मात्त्वया यजमानस्य आयुष्मन्तः पूत्रादय उत्पद्यन्ते, तस्मात्तेषामभिवृद्ध्यर्थं अविच्छेदेन धनानि देहीति ॥
@@ -293,7 +381,5 @@ uncut, with wealth of heroes, (give us) riches.
 </details>
 </details>
 </div>  
-
-
 
 इति तृतीये पञ्चमोनुवाकः ॥  

@@ -19,9 +19,9 @@ title = "०१ सामान्यपरिभाषाः"
 
 1. [^1]  Now (follow) the ceremonies (the knowledge of) which is derived from practice (and not from the Śruti).
 
-
 [^1]:  1, 1-11. The Paribhāṣās for the Pākayajñas.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 नमो रुद्राय यद्गृह्यमापस्तम्बेन निर्मितम् ।
@@ -34,6 +34,7 @@ title = "०१ सामान्यपरिभाषाः"
 अत्राथशब्देन श्रौतोपदेशानन्तरं स्मार्तोपदेशं करिष्यामीति वदन् तदपेक्षामस्य दर्शयति ।
 तत्र याः परिभाषाः "स त्रयाणां वर्णानां"(आप.परि १-२.) "मन्त्रान्तैः कर्मादीन् सन्निपातयेत्"(आप.परि.२-१.)"रौद्र, राक्षस"(आप.परि. २-९.) "तदिदं सर्वप्रायश्चित्त"मित्येवमाद्यास्ता इहापि भवन्ति (इदंकार्याणि) ॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 यो वर्णैरिज्यते नित्यैः कर्मभिश्चोदितैर्निजैः ।
@@ -102,12 +103,14 @@ title = "०१ सामान्यपरिभाषाः"
 
 2. They should be performed during the northern course of the sun, on days of the first fortnight (of the month), on auspicious days,
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 उदगयनादिविधानं दक्षिणायनादिप्रतिषेधार्थम् ।
 समुच्चयश् चोदगयनादीनां न विकल्पः ।
 **पुण्याहाः** देवनक्षत्राणि ज्योतिश्शास्त्रे प्रसिद्धानि यमनक्षत्राणि च तद्-विहितानि ।
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 उदगयनादयः प्रसिद्धाः ।
@@ -149,7 +152,6 @@ title = "०१ सामान्यपरिभाषाः"
 <div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/01_sAmAnyaparibhAShAH/01_03_yajnopavItinA_kAryANi.md">
 <details open><summary><h3>०१ ०३ यज्ञोपवीतिना कार्याणि ...{Loading}...</h3></summary>
 
-
 +++(देवकर्मसु)+++ यज्ञोपवीतिना ।
 
 </details>
@@ -160,10 +162,12 @@ title = "०१ सामान्यपरिभाषाः"
 
 3. With the sacrificial cord suspended over (the sacrificer's) left shoulder.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 कार्याणि इत्यनुवर्तते ॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 कार्याणीति सम्बन्धः ।
@@ -179,7 +183,6 @@ title = "०१ सामान्यपरिभाषाः"
 
 यज्ञोपवीतिना।
 
-
 </details>
 </div>
 
@@ -190,7 +193,6 @@ title = "०१ सामान्यपरिभाषाः"
 
 प्रदक्षिणम्।
 
-
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/01_sAmAnyaparibhAShAH/01_04_pradaxiNam_pradaxiNam.md">
@@ -199,12 +201,14 @@ title = "०१ सामान्यपरिभाषाः"
 
 4. (The rites should be performed) from left to right.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 प्रदक्षिणं च तानि कर्तव्यानि दक्षिणं पाणिं प्रतिगतं प्रदक्षिणम् ।
 उदाहरणं परिस्तरणादि ।
 ननु–तदिदमुभयमविधेयं, पूर्वमेव श्रौतेषु विहितत्वात् "दैवानी"ति (आप. प. २-१५) तत्रोच्यते, इह मानुषेषु जातकर्मादिष्वप्येतयोः प्रवृत्तिरिष्यते(३)तदर्थमयमारम्भः ।
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 कार्याणीत्येव सम्बन्धः ।
@@ -219,7 +223,6 @@ title = "०१ सामान्यपरिभाषाः"
 
 प्रदक्षिणम्।
 
-
 </details>
 </div>
 
@@ -227,7 +230,6 @@ title = "०१ सामान्यपरिभाषाः"
 
 <div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/01_sAmAnyaparibhAShAH/01_05_purastAdudagvopakramaH_aniyame.md">
 <details open><summary><h3>०१ ०५ पुरस्तादुदग्वोपक्रमः अनियमे ...{Loading}...</h3></summary>
-
 
 +++(देवकर्मसु)+++ पुरस्तादुदग्वोपक्रमः
 
@@ -239,12 +241,14 @@ title = "०१ सामान्यपरिभाषाः"
 
 5. The beginning should be made on the east side or on the north side,
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 अनियमे नियमार्थमिदं वचनम् ।
 दक्षिणतः पश्चाद्वोपक्रामो माभूदिति ।
 परिस्तरणाद्येवोदाहरणम् ॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 कार्य इति शेषः ।
@@ -275,6 +279,7 @@ title = "०१ सामान्यपरिभाषाः"
 
 6. And also the end.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 तेषामपवर्गोऽपि तथा प्रत्येतव्यः ।
@@ -289,6 +294,7 @@ title = "०१ सामान्यपरिभाषाः"
 अन्यथा प्रदक्षिणपरिभाषया सामान्यपरिभाषा बाध्यते किञ्चिद्दैवानि कर्माणीति तत्र विशेषितम् ।
 अत्र मानुषेषु कर्मादिष्वपि प्राप्त्यर्थोऽपवर्गनियमः ॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 पुरस्तादुदग्वा क्रियापरिसमाप्तिः कार्येत्यर्थः ।
@@ -322,13 +328,14 @@ title = "०१ सामान्यपरिभाषाः"
 
 7. [^2]  Ceremonies belonging to the Fathers (are performed) in the second fortnight (of the month),
 
-
 [^2]:  7-10. Comp. 7 with 2, 8 with 3, 9 with 4, 10 with 6.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 +++(सम्पादकटिप्पनी - इदम् सूत्रम् दशमे व्याख्यातम्।)+++
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 +++(सम्पादकटिप्पनी - इदम् सूत्रम् दशमे व्याख्यातम्।)+++
@@ -348,7 +355,6 @@ title = "०१ सामान्यपरिभाषाः"
 <div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/01_sAmAnyaparibhAShAH/01_08_prAchInAvItinA.md">
 <details open><summary><h3>०१ ०८ प्राचीनावीतिना ...{Loading}...</h3></summary>
 
-
 +++(पित्र्येषु)+++ प्राचीनावीतिना ८
 
 </details>
@@ -359,10 +365,12 @@ title = "०१ सामान्यपरिभाषाः"
 
 8. With the sacrificial cord suspended over the right shoulder,
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 +++(सम्पादकटिप्पनी - इदम् सूत्रम् दशमे व्याख्यातम्।)+++
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 +++(सम्पादकटिप्पनी - इदम् सूत्रम् दशमे व्याख्यातम्।)+++
@@ -382,7 +390,6 @@ title = "०१ सामान्यपरिभाषाः"
 <div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/01_sAmAnyaparibhAShAH/01_09_prasavyam.md">
 <details open><summary><h3>०१ ०९ प्रसव्यम् ...{Loading}...</h3></summary>
 
-
 +++(पित्र्येषु)+++ प्रसव्यम् ९
 
 </details>
@@ -393,10 +400,12 @@ title = "०१ सामान्यपरिभाषाः"
 
 9. From right to left,
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 +++(सम्पादकटिप्पनी - इदम् सूत्रम् दशमे व्याख्यातम्।)+++
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 +++(सम्पादकटिप्पनी - इदम् सूत्रम् दशमे व्याख्यातम्।)+++
@@ -426,6 +435,7 @@ title = "०१ सामान्यपरिभाषाः"
 
 10. Ending in the south.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 पितृदैवत्यकर्माण्यपरपक्षे कार्याणि ।
@@ -444,6 +454,7 @@ title = "०१ सामान्यपरिभाषाः"
 तथा "अपरपक्षे पित्र्याणी"त्यस्मिन्नधिकारे (१)अभिहितं प्राचीनावीतमविशेषेण पित्र्ये कर्मणि साङ्गे प्रवर्तते ।
 तेन पित्र्ये आज्यभागान्ते कर्मणि जयादौ च प्राचीनावीतमेव भवति ॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 कार्याणीत्येव ।
@@ -542,6 +553,7 @@ title = "०१ सामान्यपरिभाषाः"
 
 11. Ceremonies occasioned by special occurrences (are performed) according as their occasions demand.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 **निमित्तानि** - यानि **नैमित्तिकानि** कर्माणि, तानि निमित्तम् अवेक्ष्य तद् अनन्तरम् एव कर्तव्यानि, न तत्र +उदगयनाद्य्-अपेक्षा ।
@@ -552,6 +564,7 @@ title = "०१ सामान्यपरिभाषाः"
 गृहप्रवेशनं नैमित्तिकमिति केचित् ।  
 नेत्यन्ये ॥११॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **नैमित्तिकान्य्** आग्रयणातिथ्य-सीमन्तादीनि **निमित्तावेक्षाणि** ।  

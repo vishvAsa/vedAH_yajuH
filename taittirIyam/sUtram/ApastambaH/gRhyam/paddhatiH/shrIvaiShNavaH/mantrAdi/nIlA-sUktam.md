@@ -1,5 +1,6 @@
 +++
 title = "नीला-सूक्तम्"
+
 +++
 
 ("स्वाहा॑ ॥ विष्णुपत्न्या इदं न मम" इति त्यागः)।
@@ -13,7 +14,6 @@ title = "नीला-सूक्तम्"
 
 [मध्येऋच](/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/) आरम्भः??
 </details>
-
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/13_stoma_trayastriMshe.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
@@ -23,7 +23,6 @@ title = "नीला-सूक्तम्"
 पय॑स्वती॒ **रन्ति॒र्**+++(←रम्)+++ +++(इयम्)+++ **आशा॑ नो अस्तु** ।
 </details>
 </div>
-
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/14_dhruvA_dishAv.N.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 

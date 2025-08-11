@@ -45,10 +45,9 @@ title = "उपाकरणम्"
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/018/06_sadasaspatimadbhutaM_priyamindrasya.md">
 <details open><summary><h8>०६ सदसस्पतिमद्भुतं प्रियमिन्द्रस्य ...{Loading}...</h8></summary>
 
-
-सद॑स॒स्पति॒म् अद्भु॑तं  
-प्रि॒यम् इन्द्र॑स्य॒ काम्य॑म् ।  
-स॒निं +++(=दानरूपम्)+++ मे॒धाम् अ॑यासिषम् ६
+स᳓दसस्प᳓तिम् अ᳓द्भुतं  
+प्रिय᳓म् इ᳓न्द्रस्य का᳓म्यम् ।  
+सनिं᳓ +++(=दानरूपम्)+++ मेधा᳓म् अयासिषम् ६
 
 </details>
 </div>
@@ -63,7 +62,6 @@ title = "उपाकरणम्"
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/08_upAkarmotsarjanaprakaraNam/11u_04.md">
 <details open><summary><h2>११उ ०४ ...{Loading}...</h2></summary>
-
 
 परिषेचनान्तं कृत्वा  
 
@@ -80,7 +78,6 @@ title = "उपाकरणम्"
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/08_upAkarmotsarjanaprakaraNam/11u_06.md">
 <details open><summary><h2>११उ ०६ ...{Loading}...</h2></summary>
-
 
 त्र्यहम् एकाहं वा क्षम्याधीयीरन् ६  
 

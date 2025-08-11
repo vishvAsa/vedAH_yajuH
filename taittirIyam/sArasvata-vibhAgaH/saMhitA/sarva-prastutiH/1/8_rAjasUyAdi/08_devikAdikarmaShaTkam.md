@@ -74,7 +74,7 @@ To Agni and Visnu he offers on eleven potsherds, to Indra and Visnu on eleven po
 </details>
 <details><summary>मूलम्</summary>
 
-आग्नावैष्णव॒मेका॑दशकपाल॒न्निर्व॑पत्यैन्द्रावैष्ण॒वमेका॑दशकपालव्ँवैष्ण॒वन्त्रि॑कपा॒लम्
+आग्नावैष्णव॒मेका॑दशकपाल॒न्निर्व॑पत्यैन्द्रावैष्ण॒वमेका॑दशकपालव्ँ वैष्ण॒वन्त्रि॑कपा॒लम्
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 

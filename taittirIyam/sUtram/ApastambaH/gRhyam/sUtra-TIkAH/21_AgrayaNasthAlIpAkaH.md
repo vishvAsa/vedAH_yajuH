@@ -18,6 +18,7 @@ title = "२१ आग्रयणस्थालीपाकः"
 
 6. (Now follows) the Āgrayaṇa sacrifice (or partaking of the first-fruits) of one who has not set up the (Śrauta) fires.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 +++(आग्रयण-शब्दय्)+++ **एतिर्** अत्र प्राशनार्थः । अग्रे प्रथमं अयनं यत्र तद् **आग्रयणम्** । अग्रायणम् इति प्राप्ते छान्दसो दीर्घ-व्यत्ययः ।
@@ -31,6 +32,7 @@ title = "२१ आग्रयणस्थालीपाकः"
 
 वर्षासु श्यामाकैर् यजेत, शरदि व्रीहिभिः, वसन्ते यवैः, यथुर्तु वेणु-यवैर् इति च ॥६॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 उपदिश्यत इति शेषः ।
@@ -81,8 +83,6 @@ title = "२१ आग्रयणस्थालीपाकः"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/01_parameShThyasi_paramAm.md">
 <details open><summary><h5>०१ परमेष्ठ्यसि परमाम् ...{Loading}...</h5></summary>
 
-
-
 +++(अगारस्तूपे स्थितः)+++ प॒र॒मे॒ष्ठ्य् असि॑।  
 पर॒मां माँ॒ श्रियं॑ गमय ।  
 
@@ -96,6 +96,7 @@ title = "२१ आग्रयणस्थालीपाकः"
 
 7. He prepares a Sthālīpāka of the fresh fruits, sacrifices to the deities of the (Śrauta) Āgrayaṇa sacrifice with (Agni) Sviṣṭakṛt as the fourth, fills his mouth with grains, swallows them, sips water, forms a lump of the boiled (sacrificial) food, and throws it up with the next Yajus (II, 18, 1) to the summit of the house.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 - **नवानां** व्रीहीणां यवानां वा औपासने श्रपयित्वा  
@@ -126,6 +127,7 @@ title = "२१ आग्रयणस्थालीपाकः"
 
 तेन+++(←केन??)+++ श्यामाकानां वेणुयवानां चाग्रयणं अनाहिताग्नेर् भवति ॥७॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **नवानां** व्रीहीणां यवानां वा सम्बन्धिनां पत्न्य् अवहन्तीत्यादि-विधिना **स्थालीपाकम्** एव श्रपयित्वा  

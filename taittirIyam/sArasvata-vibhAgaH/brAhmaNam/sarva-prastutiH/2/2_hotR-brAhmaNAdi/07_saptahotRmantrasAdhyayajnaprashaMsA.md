@@ -1,8 +1,8 @@
 ---
-title: ०७ सप्तहोतृमन्त्रसाध्ययज्ञप्रशंसा 
+title: ०७ सप्तहोतृमन्त्रसाध्ययज्ञप्रशंसा
 unicode_script: devanagari
----
 
+---
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र॒जाप॑तिᳶ प्र॒जा अ॑सृजत ।  
@@ -279,12 +279,12 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते॑ऽमुष्मि॑ल्ँलो॒के व्य॑क्षुध्यन् ।
+ते॑ऽमुष्मि॑ल्ँ लो॒के व्य॑क्षुध्यन् ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-ते॑ऽमुष्मि॑ल्ँलो॒के व्य॑क्षुध्यन् ।
+ते॑ऽमुष्मि॑ल्ँ लो॒के व्य॑क्षुध्यन् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

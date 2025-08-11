@@ -3,7 +3,8 @@ title = "०६ सोम-मानादिकम्"
 short_title = "०६ सोममानादिकम्"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/2_somayAgArambhaH/06_soma-mAnAdikam"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/2_somayAgArambhaH/06_soma-mAnAdikam">
+<details open><summary><h1>०६ सोम-मानादिकम् ...{Loading}...</h1></summary>
 
 ०६ सोम-मानादिकम्
 
@@ -16,6 +17,7 @@ ________
 
 1सहिरण्येन पाणिना राजानमभिमृशति - अंशुनेति ॥ 
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अँ॒शुना॑ ते अँ॒शुᳶ+++(=सूक्ष्मावयवः)+++ पृ॑च्यता॒म्, परु॑षा॒+++(=पर्वणा)+++ परुः॑+++(=पर्व)+++।  
@@ -24,6 +26,7 @@ ________
 +++(देवयज्ञादीनाम्)+++ अमात्यो॑ऽसि ।  
 शु॒क्रस्+++(=हिरण्यं)+++ ते॒ +++(परि)+++ग्रहः॑ +++(सहिरण्येन पाणिना ग्रहणात् क्रयणाद् वा)+++।  
 </details>
+
 <details><summary>Keith</summary>
 
 Let thy shoot be joined with shoot, joint with joint,  
@@ -32,10 +35,12 @@ let thy savour, which falls not, cause rejoicing.
 Thou art a home dweller,  
 thy libation is bright.
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अँ॒शुना॑ ते अँ॒शुᳶ पृ॑च्यता॒म्परु॑षा॒ परु॑र्ग॒न्धस्ते॒ काम॑मवतु॒ मदा॑य॒ रसो॒ अच्यु॑तो॒ऽमात्यो॑ऽसि शु॒क्रस्ते॒ ग्रहः
 </details>
+
 <details><summary>मूलम्</summary>
 
 अँ॒शुना॑ ते अँ॒शुᳶ पृ॑च्यता॒म् , परु॑षा॒ परुः॑  +++( पृ॑च्यताम्)+++ ।..  
@@ -44,6 +49,17 @@ thy libation is bright.
 अमात्यो॑ऽसि ।  
 शु॒क्रस्ते॒ ग्रहः॑ ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+अँ॒शुना॑ । ते॒ । अँ॒शुः । पृ॒च्य॒ता॒म् ।   
+परु॑षा । परुः॑ ।   
+ग॒न्धः । ते॒ । काम॑म् । अ॒व॒तु॒ ।   
+मदा॑य । रसः॑ । अच्यु॑तः ।  
+अ॒मात्यः॑ । अ॒सि॒ ।   
+शु॒क्रः । ते॒ । ग्रहः॑ । 
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अंशुस्सूक्ष्मावयवः । त्वदीयोंशुः अंशुना अंश्वन्तरेण पृच्यतां सर्वदा संयुज्यताम्, प्राणा[पाना]दिना निमित्तेन मा कदाचिदपि तेन विश्लिष्टो भूत् ।
@@ -66,8 +82,8 @@ ________
 
 अति-च्छन्दसा +ऋचा सोमं मिमीते।
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/06_soma-mAnAdikam/02_abhi_tyan.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/06_soma-mAnAdikam/02_abhi_tyan.md">
+<details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 अ॒भि त्यन्+++(=तन्)+++ दे॒वँ स॑वि॒तार॑म् ऊ॒ण्योः॑+++(=अवित्र्योः [द्यावापृथिव्योः])+++ क॒विक्र॑तु॒म्  
 अर्चा॑मि स॒त्य-स॑वसँ+++(=सत्यानुज्ञं)+++ रत्न॒धाम् अ॒भि प्रि॒यम् म॒तिम् +++(धारयन्तम्)+++ । +++(पादादित्वान् न स्वरनिघातः)+++  
@@ -75,8 +91,8 @@ ________
 +++(माम् आविश्य स)+++ हिर॑ण्य-पाणिर् अमिमीत +++(सोमं)+++ सु॒क्रतु॑ᳵ कृ॒पा+++(=कृपया)+++ सुवः॑+++(=सुष्ठु वृतः)+++ ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/06_soma-mAnAdikam/02_abhi_tyan.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/06_soma-mAnAdikam/02_abhi_tyan.md">
+<details open><summary><h5>सर्वाष् टीकाः ...{Loading}...</h5></summary>
 <details><summary>Keith</summary>
 
 Unto that god, Savitr, within the two bowls, The sage,  
@@ -84,10 +100,12 @@ I sing, him of true impulse, The bestower of treasures, unto tile+++(=??)+++ wis
 He at whose impulse the resplendent light shone high,
 The golden-banded sage hath measured the heaven with his form.
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अभि त्यन्दे॒वँ स॑वि॒तार॑मू॒ण्योः॑ क॒विक्र॑तु॒मर्चा॑मि स॒त्यस॑वसँ रत्न॒धाम॒भि प्रि॒यम्म॒तिमू॒र्ध्वा यस्या॒मति॒र्भा अदि॑द्युत॒त्सवी॑मनि॒ हिर॑ण्यपाणिरमिमीत सु॒क्रतु॑ᳵ कृ॒पा सुवः॑ ।
 </details>
+
 <details><summary>मूलम्</summary>
 
 अ॒भि त्यन्दे॒वँ स॑वि॒तार॑मू॒ण्योः॑ क॒विक्र॑तु॒म्   +++(१५ अक्षराणि)+++
@@ -95,6 +113,13 @@ The golden-banded sage hath measured the heaven with his form.
 ऊर्ध्वा यस्या॒मति॒र्भा अदि॑द्युत॒त्सवी॑मनि॒   +++(१५अक्षराणि)+++   
 हिर॑ण्यपाणिरमिमीत सु॒क्रतु॑ᳵ कृ॒पा सुवः॑ ॥ +++(१६ अक्षराणि)+++
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒भीति॑ । त्यम् । दे॒वम् । स॒वि॒तार॑म् । ऊ॒ण्योः॑ । क॒विक्र॑तु॒मिति॑ क॒वि-क्र॒तु॒म् । अर्चा॑मि । स॒त्यस॑वस॒मिति॑ स॒त्य-स॒व॒स॒म् । र॒त्न॒धामिति॑ रत्न-धाम् । अ॒भीति॑ । प्रि॒यम् । म॒तिम् ।  
+ऊ॒र्ध्वा । यस्य॑ । अ॒मतिः॑ । भाः । अदि॑द्युतत् । सवी॑मनि । हिर॑ण्यपाणि॒रिति॒ हिर॑ण्य-पा॒णिः॒ । अ॒मि॒मी॒त॒ । सु॒क्रतु॒रिति॑ सु-क्रतुः॑ । कृ॒पा । सुवः॑ ॥ 
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 2अतिच्छन्दसर्चा सोमं मिमीते - **अभित्यं देवम्** इति । अत्यष्टिरियं षोडशाक्षरपादा, 'अर्चामि' इति द्वितीयस्यादिः, 'ऊर्ध्वा यस्य' इति तृतीयस्य, 'हिरण्यपाणिः' इति चतुर्थस्य ॥ 'अतिछन्दा वै सर्वाणि छन्दांसि' इति ब्राह्मणम् ।
@@ -108,34 +133,36 @@ The golden-banded sage hath measured the heaven with his form.
 </details>
 </div>
 
-
-
-
-
-
 ________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अवशिष्टं सोमं मितेनोपसमूहति।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र॒जाभ्य॑स् त्वा +++(अवशिष्टम् उपसमूहामि)+++।
 </details>
+
 <details><summary>Keith</summary>
 
 For offspring thee!
 </details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒जाभ्य॑स्त्वा ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+प्र॒जाभ्य॒ इति॑ प्र-जाभ्यः॑ । त्वा॒ ।   
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 3अवशिष्टं सोमं मितेनोपसमूहति - प्रजाभ्य इति ॥ प्रजानां सदस्यानामर्थाय त्वामवशिष्टं उपसमूहामि मितं प्रापयामि । 'यद्वै तावानेव सोमस्स्यात्' इत्यादि ब्राह्मणम् ॥
 </details>
-
-
 
 ## सन्नहनम्
 ________
@@ -143,45 +170,63 @@ ________
 
 उष्णीषेणोपसन्नह्यति।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रा॒णाय॑ त्वा +++(सोमम् उपनह्यामि)+++।
 </details>
+
 <details><summary>Keith</summary>
 
 For expiration thee!
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 प्रा॒णाय॑ त्वा व्या॒नाय॑ त्वा प्र॒जास्त्वमनु॒ प्राणि॑हि प्र॒जास्त्वामनु॒ प्राण॑न्तु ॥[13]
 </details>
+
 <details><summary>मूलम्</summary>
 
 प्रा॒णाय॑ त्वा ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+प्रा॒णायेति॑ प्र-अ॒नाय॑ । त्वा॒ । 
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 4उष्णीषेणोपसन्नह्यति - प्राणायेति ॥ प्राणार्थं त्वां सोममुपनह्यामीति । 'प्राणमेव पशुषु दधाति' इति ब्राह्मणम् ॥
 </details>
-
 
 ________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 बन्धनं शिथिलीकरोति।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्या॒नाय॑ त्वा +++(अनुशृन्थामि)+++।
 </details>
+
 <details><summary>Keith</summary>
 
 For cross-breathing thee!
 </details>
+
 <details><summary>मूलम्</summary>
 
 व्या॒नाय॑ त्वा ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+व्या॒नायेति॑ वि-अ॒नाय॑ । त्वा॒ । 
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 5बन्धनं शिथिलीकरोति - व्यानायेति ॥ व्यानार्थं त्वामनुशृन्थामीति । 'व्यानमेव पशुषु दधाति' इति ब्राह्मणम् ॥
@@ -192,28 +237,44 @@ ________
 
 यजमानम् अवेक्षयति सोमं।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र॒जास् त्वम् अनु॒ प्राणि॑हि ।  
 प्र॒जास् त्वाम् अनु॒ प्राण॑न्तु ॥   
 </details>
+
 <details><summary>Keith</summary>
 
 Breathe thou after offspring. 
 Let offspring breathe after thee.
 </details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒जास्त्वमनु॒ प्राणि॑हि ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+प्र॒जा इति॑ प्र-जाः । त्वम् । अनु॑ । प्रेति॑ । अ॒नि॒हि॒ ।   
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 6यजमानमवेक्षयति सोमं - प्रजा इति ॥ हे सोम प्रजा अनु त्वं प्राणिहि प्रजार्थं जीवेत्यर्थः ।
 </details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒जास्त्वामनु॒ प्राण॑न्तु ॥
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+प्र॒जा इति॑ प्र-जाः । त्वाम् । अनु॑ । प्रेति॑ । अ॒न॒न्तु॒ ॥ [13]  
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 प्रजाश्च त्वां प्राणन्तमनु प्राणन्तु त्वयि प्राणति ताः प्राणन्तीति ॥
@@ -221,4 +282,5 @@ Let offspring breathe after thee.
 </details>
 इति द्वितीये षष्ठोनुवाकः  
 
+</details>
 </div>

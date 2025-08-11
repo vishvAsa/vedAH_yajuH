@@ -26,20 +26,19 @@ Ye that yoke early be unloosed
 O Aśvins, come ye hither,  
 To drink this Soma.
 </details>
+
 <details><summary>मूलम्</summary>
 
 प्रा॒त॒र्युजौ॒ वि मु॑च्येथा॒मश्वि॑ना॒वेह ग॑च्छतम् ।  
 अ॒स्य सोम॑स्य पी॒तये॑ ॥
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हे **अश्विनौ** यौ युवां **प्रातर्-युजौ** प्रातर्-योक्तारौ तौ **विमुच्येथाम्** यजमानान्तरैर् विमुक्तौ भवतं अन्य-यजमानान् विहाय इहास्मिन्कर्मण्य् आगच्छतम् । किमर्थम् ? - **अस्य सोमस्य पीतये** पानाय । 'क्तिच्कौ च संज्ञायाम्' इति क्तिच्, पानविशेषस्य संज्ञात्वात् ॥
 </details>
 </details>
 </div>
-
-
-
 
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -53,14 +52,17 @@ _______
 
 उ॒प॒या॒म-गृ॑हीतो ऽसि।
 </details>
+
 <details><summary>Keith</summary>
 
 Thou art taken with a support/ foundation.
 </details>
+
 <details><summary>मूलम्</summary>
 
 उ॒प॒या॒मगृ॑हीतोऽसि।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 उपयम्यन्ते स्वात्मन्येव नियम्यन्ते भूतजातान्यस्मिन् अभिन्नेधिकरणे इत्युपयामः पृथ्वी । 'इयं वा उपयामः' इति ब्राह्मणम् । 'हलश्च' इति घञ्, थाथादिस्वरेणान्तोदात्तत्वम् । तेन गृहीतस्त्वमसि ; कोन्यस्त्वां गृहीतुं क्षम इति भावः ; पृथिव्यापो गृहीष्यामीतिवत् । 'तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् । यद्वा - उपयामार्थं पृथिव्यर्थं गृहीतोसीति ; हे सोम ।   
@@ -77,10 +79,12 @@ ________________
 
 अ॒श्विभ्या॑न्त्वा ।
 </details>
+
 <details><summary>Keith</summary>
 
 to the Aśvins thee!
 </details>
+
 <details><summary>मूलम्</summary>
 
 अ॒श्विभ्या॑न्त्वा ।
@@ -92,14 +96,17 @@ _______
 2एष ते योनिरश्विभ्यां त्वेति सादयति ॥
 
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ए॒ष ते॒ योनि॑र्, अ॒श्विभ्या॑न् त्वा ॥ [8]  
 </details>
+
 <details><summary>Keith</summary>
 
 This is thy birthplace; to the Aśvins thee!
 </details>
+
 <details><summary>मूलम्</summary>
 
 ए॒ष ते॒ योनि॑र॒श्विभ्या॑न्त्वा ॥ [8]  

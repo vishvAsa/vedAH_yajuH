@@ -7,6 +7,8 @@ unicode_script = "devanagari"
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/26_AyAtu_varadA/01_AyAtu_varadA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
++++(आरण्यक-स्वर-विकारम् उपेक्षते विश्वासः।)+++
+
 आया॑तु॒ वर॑दा दे॒वी॒  
 अ॒क्षरं॑ ब्रह्म॒संमि॑तम् ।  
 गा॒य॒त्री॑ञ् छन्द॑सां  
@@ -35,6 +37,7 @@ unicode_script = "devanagari"
 सर्व॑म् असि स॒र्वायुः॑।  
 अ॒भि॒भूर् [ओङ् गायत्रीम् आवा॑हयामि । (41)]
 </details>
+
 <details><summary>विश्वास-टिप्पनी - यजुः</summary>
 
 श्येनरूपेणागताया आवाहने कल्पनम् -
@@ -43,6 +46,7 @@ unicode_script = "devanagari"
 - मधाह्ने - युवती सावित्री वृषवाहना शूलहस्ता रोद्ररूपिणी, 
 - सायम् - वृद्धा सरस्वती गरुडवाहना चक्रहस्ता वैष्णवरूपा। 
 </details>
+
 <details><summary>मूलम्</summary>
 
 ओजो॑ऽसि।  

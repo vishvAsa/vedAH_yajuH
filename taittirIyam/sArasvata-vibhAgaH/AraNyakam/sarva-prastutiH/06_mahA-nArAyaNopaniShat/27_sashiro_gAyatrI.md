@@ -9,6 +9,7 @@ unicode_script = "devanagari"
 
 ओं भूः । ओं भुवः॑ । ओँ सुवः॑ । ओं महः॑ । ओञ् जनः॑ । ओं तपः॑ । ओँ स॒त्यम् ।
 </details>
+
 <details><summary>मूलम्</summary>
 
 ओं भूः । ओं भुवः॑ । ओँ सुवः॑ । ओं महः॑ । ओञ्जनः॑ । ओं तपः॑ । ओँ स॒त्यम् ।
@@ -16,16 +17,16 @@ unicode_script = "devanagari"
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/062/10_tatsaviturvareNyaM_bhargo.md">
 <details open><summary><h3>१० तत्सवितुर्वरेण्यं भर्गो ...{Loading}...</h3></summary>
 
-तत् सवि॒तुर् वरे॑ण्य+++(णिय)+++म्  
-भर्गो॑+++(=भर्जनम्)+++ दे॒वस्य॑ धीमहि+++(←धा धारणे/ ध्यै ध्याने / धी आराधने)+++ ।  
-धियो॒ यो नः॑ प्रचो॒दया॑त् ॥  
-(प॒रो-र॑जसे॒ ऽसाव॒द् ओ३म् ॥)
+त᳓त् सवितु᳓र् व᳓रेण्य᳓+++(णिय)+++म्  
+भ᳓र्गो+++(=भर्जनम्)+++ देव᳓स्य धीमहि+++(←धा धारणे/ ध्यै ध्याने / धी आराधने)+++ ।  
+धि᳓यो यो᳓ नः प्रचोद᳓यात् ॥  
+(परो᳓-रजसे ऽसा᳓वद् ओ᳓३म् ॥)
 
-<details><summary>प्रचोदयात्-स्वरः</summary>
+<details><summary>प्र᳓चो᳓द᳓या᳓त्-स्व᳓रः᳓</summary>
 
-प्र + चुद् + णिच् उदात्तः + शप् अनुदात्तः पित्त्वात् + [लेट् → आट् + तिप् अनुदात्तः पित्त्वात्]।  
+प्र᳓ + चु᳓द् + णि᳓च् उ᳓दा᳓त्तः᳓ + श᳓प् अ᳓नु᳓दा᳓त्तः᳓ पि᳓त्त्वा᳓त् + [ले᳓ट् → आ᳓ट् + ति᳓प् अ᳓नु᳓दा᳓त्तः᳓ पि᳓त्त्वा᳓त्]।  
 
-प्रानुदात्तत्वं तिङन्तस्योदात्तवत्त्वात्। तच्च यत्कारसद्भावात्।
+प्रा᳓नु᳓दा᳓त्त᳓त्वं᳓ ति᳓ङ᳓न्त᳓स्यो᳓दा᳓त्त᳓व᳓त्त्वा᳓त्। त᳓च्च᳓ य᳓त्का᳓र᳓स᳓द्भा᳓वा᳓त्।
 </details>
 </details>
 </div>
@@ -37,12 +38,14 @@ unicode_script = "devanagari"
 - ऋषिः - गाथिनो विश्वामित्रः
 - छन्दः - गायत्री
 </details>
+
 <details><summary>Thomson & Solcum</summary>
 
-त꣡त् सवितु꣡र् व꣡रेणियम्  
-भ꣡र्गो देव꣡स्य धीमहि  
-धि꣡यो यो꣡ नः प्रचोद꣡यात्
+त᳓त् सवितु᳓र् व᳓रेणियम्  
+भ᳓र्गो देव᳓स्य धीमहि  
+धि᳓यो यो᳓ नः प्रचोद᳓यात्
 </details>
+
 <details><summary>Vedaweb annotation</summary>
 
 _________
@@ -87,11 +90,13 @@ yáḥ ← yá- (pronoun)
 {case:NOM, gender:M, number:SG}
 
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 तत् । स॒वि॒तुः । वरे॑ण्यम् । भर्गः॑ । दे॒वस्य॑ । धी॒म॒हि॒ ।  
 धियः॑ । यः । नः॒ । प्र॒ऽचो॒दया॑त् ॥
 </details>
+
 <details><summary>Hellwig Grammar</summary>
 
 -   *tat* ← *tad*
@@ -159,6 +164,7 @@ _________
 _________
 
 </details>
+
 <details><summary>ब्राह्मणोद्धरणानि</summary>
 
 सविता वै प्रसवानामीशे॥
@@ -168,6 +174,7 @@ _________
 सर्वेभ्यो वै वेदेभ्यः  
 सावित्र्यनूच्यते॥
 </details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **यः** सविता देवः **नः** अस्माकं **धियः** कर्माणि धर्मादिविषया वा बुद्धीः **प्रचोदयात्** प्रेरयेत्  
@@ -187,6 +194,7 @@ _________
 
 **प्रचोदयात्** । चोदयतेर् लेट्याडागमः । यद्-वृत्त-योगाद् अनिघातः । आगमस्यानुदात्तत्वे णिचः स्वरः ॥ ॥ १० ॥
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 **तत्** तस्य 'सुपां सुलुक्' इति षष्ठ्या लुक् । तस्य **सवितुः देवस्य** दाना[देवना]दिगुणयुक्तस्य स्वभूतं तत्प्रसादलभ्यं वा अत एव **वरेण्यं** वरणीयं सर्वैः प्रार्थनीयं **भर्गः** तेजः अन्नं धनं वा वयं **धीमहि** धारयेम तस्यैव प्रसादात् तस्याधारभूता भवेम । धीङ् आधारे दैवादिकः । 'छन्दसि लुङ्लङ्लिटः' इति लङि 'बहुलं छन्दस्यमाङ्' इत्यडभावः । दधातेर्वा लिङ् । सर्वत्र 'बहुलं छन्दसि' इति शपोलुक् ।   
@@ -202,6 +210,7 @@ _________
 
 एवं बोधप्रकाशाभ्यां समस्तस्य प्रपञ्चस्य उपकुर्वाणं श्रेयोर्थिभिर् भजनीयं सूर्यात्मना स्थितं पारमेश्वरं तेज उपास्यत्वेन उपदिश्यते ॥
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 अथ सावित्री - तत्सवितुरिति ॥  
@@ -209,6 +218,7 @@ _________
 
 सवित्राभ्यनुज्ञातो हि सर्वोपि कर्म करोति सविता वै प्रसवानामीशे इति ब्राह्मणम् ॥
 </details>
+
 <details><summary>विद्यारण्यः</summary>
 
 अथ सर्वदेवात्मनः सर्वशक्तेः सर्वावभासक-तेजो-मयस्य परमात्मनः सर्वात्मकत्व-द्योतनार्थं सर्वात्मकत्व-प्रतिपादक-गायत्री-महा-मन्त्रस्योपासन-प्रकारः प्रकाश्यते ।  
@@ -264,6 +274,7 @@ _________
 स्वभाव-संवित्-प्रविभाति केवला  
 ग्राह्यं ग्रहीतेति मृषैव कल्पना ॥
 </details>
+
 <details><summary>विश्वामित्रः</summary>
 
 देवस्य सवितुस् तस्य  
@@ -291,6 +302,7 @@ _________
 इति ध्यानार्थः॥
 
 </details>
+
 <details><summary>विद्यारण्यः - हिन्दी </summary>
 
 शुद्ध गायत्री जीवात्मा और ब्रह्म की एकता का सूचक है। ‘धियोयोनः प्रचोदयात्’ अर्थात् हमारी बुद्धि को प्रेरणा देता है तथा जो अन्तःकरण की प्रकाशिका तथा सर्व साक्षी है उसे प्रत्यगात्मा कहा जाता है।
@@ -298,6 +310,7 @@ _________
 यहां ‘ॐ’ तत्सत् इस पद से ब्रह्म के तीन प्रकारों का वर्णन है। तत् शब्द स्वतः सिद्ध सब भूतों में स्थित परब्रह्म के लिए कहा जाता है। सविता, सृष्टि, स्थिति, प्रलय लक्षण वाले सब प्रपंच के, समस्त द्वैत भ्रम के अधिष्ठान हैं। वरेण्यं सर्व वरणीयं, निरतिशय एवं आनन्द रूप है। ‘भर्ग’ अविद्या रूपी दोष को नष्ट करने वाला ज्ञान रूप है। ‘देवस्य’ सबका प्रकाशक अखण्ड-आत्मा एवं रस वाला देव है। ‘सवितुर्देवस्य’ यहां षष्ठी है। सम्बन्ध कारक है। राहोः शिरो की तरह औपचारिक है। बुद्धि से सब पदार्थों का साक्षी रूप जो मेरा स्वरूप है वह सब का अधिष्ठान है। उस परमानन्द, सब अनर्थ रहित, स्वयं प्रकाश चैतन्य रूप ब्रह्म का ध्यान करते हैं। इस तरह ब्रह्म अपने ही विवर्त भूत जड़ जगत रज्जु में सर्प की तरह अपवाद है।
 समान अधिकरण होने से एक रूपता है। इस तरह सब का साक्षी जीवात्मा ब्रह्म के साथ तादात्म्य होने के कारण एकत्व है। यह गायत्री मंत्र सर्वात्मक ब्रह्म का बोध कराने वाला है। तीन महाव्याहृतियों का अर्थ यों है। भूः का अर्थ सत है, भुवः सब का प्रकाशक (इस व्युत्पत्ति से चिद् रूप कहलाता है) स्वः सुव्रियते इस व्युत्पत्ति से सबसे प्रथिति सुख रूप है।
 </details>
+
 <details><summary>वेङ्कटनाथः</summary>
 
 > प्रतिपुरुषम् अनेकाः, प्रत्य्-अवस्थं विचित्राश्  
@@ -314,6 +327,7 @@ _________
 
 इति श्रीरङ्गराजस्तवः।
 </details>
+
 <details><summary>चिन्नाण्डवन् - आह्निकार्थप्रकाशिका</summary>
 
 … अनयोर् वचनयोर् भर्गशब्दस्य तेजःपरत्वेन  
@@ -340,7 +354,6 @@ _________
 देवस्य सवितुः वरेण्यं यद्भर्गः तत् ध्यायेम ।  
 आदित्यमण्डलान्तर्वर्तिनं तेजोमयं पुरुषम् अनुचिन्तयामः ।
 
-
 > य एषोऽन्तरादित्ये हिरण्मयः पुरुषः,  
 > अथ य एष एतस्मिन् मण्डलेर्चिषि पुरुषः
 
@@ -354,13 +367,13 @@ _________
 यद् भर्गस् तेजः  
 तत् तेजश् चिन्तयाम इति सिद्धम् ।
 
-
 अत्र मैत्रावरुणीयश्रुतिः +++(=(मै.उ.६-३४))+++ -
 
 > एतत् सवितुर् वरेण्यं ध्रुवम् अचलम् अमृतं भर्गाख्यं विष्णुसंज्ञं सर्वाधारं धाम
 
 इति ।
 </details>
+
 <details><summary>अहिर्बुध्न्यसंहिता</summary>
 
 सावित्रं नाम तज् ज्योतिः  
@@ -447,21 +460,22 @@ _भर्गयत्य्_ अपि तत्-कष्टं
 सा **सुवः** कथिता ब्रह्मन्  
 व्याहृती वाङ्मयी ततः ॥ 
 </details>
+
 <details><summary>नित्यानन्दमिश्रः - प्रचोदयात्</summary>
 
 प्र + चुद सञ्चोदने (चुरादिगण १०.४९) + णिच् + लेट् (शप् + तिप्) = प्रचोदयात्। लेटि छान्दसरूपमिदम्।
 
-
-**निष्पत्तिः** 
+_________
+**निष्पत्तिः**  
 
 प्र चुद → अनुबन्धलोपः → प्र चुद् → सत्यापपाशरूपवीणातूलश्लोकसेनालोमत्वचवर्मवर्णचूर्णचुरादिभ्यो णिच् (३.१.२५) → प्र चुद् णिच् → अनुबन्धलोपः → प्र चुद् इ → पुगन्तलघूपधस्य च (७.३.८६) → प्र चोद् इ → प्र चोदि → सनाद्यन्ता धातवः (३.१.३२) → लः कर्मणि च भावे चाकर्मकेभ्यः (३.४.६९) → विधिनिमन्त्रणामन्त्रणाधीष्टसंप्रश्नप्रार्थनेषु लिङ् (३.३.१६१) → लिङर्थे लेट् (३.४.७) → शेषात्कर्तरि परस्मैपदम् (१.३.७८) → प्र चोदि तिप् → कर्तरि शप् (३.१.६८) → प्र चोदि शप् तिप् → अनुबन्धलोपः → प्र चोदि अ ति → सार्वधातुकार्धधातुकयोः (७.३.८४) → प्र चोदे अ ति → लेटोऽडाटौ (३.४.९४) → आद्यन्तौ टकितौ (१.१.४६) → प्र चोदे अ आट् ति → अनुबन्धलोपः → प्र चोदे अ आ ति → एचोऽयवायावः (६.१.७८) → प्र चोदय् अ आ ति → अकः सवर्णे दीर्घः (६.१.१०१) → प्र चोदय् आ ति → इतश्च लोपः परस्मैपदेषु (३.४.९७) → प्र चोदय् आ त् →  प्रचोदयात्।
 
-
-
-**अर्थः** 
+_________
+**अर्थः**  
 
 यदि प्रार्थने लिङ् स्वीक्रियते तर्हि ‘लिङर्थे लेट्’ (३.४.७) इत्यनेन लेटि सिद्धस्य ‘प्रचोदयात्’ इत्यस्य “प्रकर्षेण सञ्चोदनं कुर्यात्” इत्यर्थः। यदि लडर्थे बहुलव्यत्ययाल्लेट् स्वीक्रियते तर्हि ‘प्रचोदयात्’ इत्यस्य “प्रकर्षेण सञ्चोदनं करोति” इत्यर्थः। 
 </details>
+
 <details><summary>सम्पुटीकरणादि</summary>
 
 वृद्धयमस्मृतौ तृतीयाध्याये -
@@ -510,10 +524,12 @@ _भर्गयत्य्_ अपि तत्-कष्टं
 इति योगयाज्ञवल्क्य-वचन-ग्रहणम्॥
 
 </details>
+
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
 May we focus on the excellent radiance of the deva Savitṛ who will inspire our insights.  
 </details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -530,17 +546,17 @@ _________
 
 Savitā = the **soul**, as one with the soul of the world, **Brahma**; when we meditate on the light which is one with Brahma, his own light, which, from its consuming influences on ignorance and its consequences, is termed **Bhargas**, and is that which is desirable, from its being to be known or worshiped by all (vareṇyam) the property of the supreme being, (**parameśvara**), the creator of the world, and the animator, impeller or urger (savitā), through the internally abiding spirit (antaryām) of all creatures; yaḥ, although masculine, may be relative to the neuter noun bhargas, that light which animates all (**dhiyaḥ**) acts (karmāṇi), or illumes all understanding (**buddhiḥ**); again, **devasya** **savituḥ** may mean, of the bright or radiant sun, as the progenitor of all, sarvasya prasavitur, and bhargas may be understood as the sphere or orb of light, the consumer of sins, pāpānām tāpakam tejo maṇḍalam; bhargas may also mean food, and the prayer may only implore the sun to provide sustenance, tasya prasādād annādi lakṣaṇam phalam **dhīmahi** tasya ādhārabhūta bhavema, we anticipate from his favour the reward that is characterized by food and the like, that is, may we be supported by him
 </details>
+
 <details><summary>Jamison Brereton</summary>
 
 Might we make our own that desirable effulgence of god Savitar, who will rouse forth our insights.
 </details>
+
 <details><summary>Jamison Brereton Notes</summary>
 
 And here, buried in this not particularly noteworthy hymn, is the Gāyatrī mantra, which is itself not particularly noteworthy on its own terms.
 
 Note the play on dhīmahi / dhíyaḥ juxtaposed across the hemistich boundary, belonging to different roots.
-
-
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/062/10-12.md">
 <details open><summary><h5>10-12 ...{Loading}...</h5></summary>
@@ -551,34 +567,41 @@ All three vss. in this tṛca contain déva- (…) savitár- (or vice versa).
 </details>
 </div>
 </details>
+
 <details><summary>Griffith</summary>
 
 May we attain that excellent glory of Savitar the God:  
      So May he stimulate our prayers.
 </details>
+
 <details><summary>Keith</summary>
 
 That excellent glory of Savitr  
 The god we meditate,  
 That be may stimulate our prayers.
 </details>
+
 <details><summary>Geldner</summary>
 
 Dieses vorzügliche Licht des Gottes Savitri empfingen wir, der unsere Gedanken anregen soll.
 </details>
+
 <details><summary>Grassmann</summary>
 
 Dass wir des Gottes Savitar begehrtes Licht erlangten doch, Der unsre Bitten fördere.
 </details>
+
 <details><summary>Elizarenkova</summary>
 
 Мы хотим встретить этот желанный  
 Блеск бога Савитара,  
 Который должен поощрять наши поэтические мысли!
 </details>
+
 <details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
 
-**The mantra-s**
+_________
+**The mantra-s**  
 
 The Sāvitrī is the core mantra used in Savitrupāsanā. It also has other notable deployments, which will be described later. Its ṛṣi is Viśvāmitra of the clan of Gāthin, the chandas is nicṛd gāyatrī and the devatā is Savitṛ. It is from the 3_r__d_ maṇḍala of the Ṛgveda (RV 3.62.10). The meter is termed nicṛd gāyatrī because the syllable count is 23, one short of the usual 24 for a gāyatrī. This arises due to the intrinsic saṃdhi, which creates वरेण्यम् from वरेणियम् . The Sāvitrī goes thus:  
 
@@ -602,7 +625,8 @@ Thus, we get,
 
 May we focus on the excellent radiance of the deva Savitṛ who will inspire our insights.  
 
-**Adjuncts**
+_________
+**Adjuncts**  
 The Sāvitrī is prefixed with the three vyāhṛti-s for the actual japa.  
 
 >  भूर् भुवः सुवः ।  
@@ -659,7 +683,8 @@ A variant inverse deployment involves merely inverting the three feet.
 
 > धियो॒ यो नः॑ प्रचो॒दया॑त् । भर्गो॑ दे॒वस्य॑ धीमहि । तत् स॑वि॒तुर् वरे॑णि॒यों ॥
 
-**The mysteries**
+_________
+**The mysteries**  
 
 The śruti of the the Vājasaneyin-s provides a mystery teaching regarding the Sāvitrī, which associates the 3 feet of the core mantra with a triad of triads, which is summarized below.
 
@@ -681,6 +706,7 @@ The Atharvan tradition holds (the teaching of Maudgalya to Glāva Maitreya) that
 
 The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - सविता
@@ -688,34 +714,42 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 - निचृद्गायत्री
 - षड्जः
 </details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 
 फिर उसी विषय को अगले मन्त्र में कहते हैं।
 </details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  हे मनुष्यो ! सब हम लोग (यः) जो (नः) हम लोगों की (धियः) बुद्धियों को (प्रचोदयात्) उत्तम गुण-कर्म और स्वभावों में प्रेरित करै उस (सवितुः) सम्पूर्ण संसार के उत्पन्न करनेवाले और सम्पूर्ण ऐश्वर्य्य से युक्त स्वामी और (देवस्य) सम्पूर्ण ऐश्वर्य के दाता प्रकाशमान सबके प्रकाश करनेवाले सर्वत्र व्यापक अन्तर्यामी के (तत्) उस (वरेण्यम्) सबसे उत्तम प्राप्त होने योग्य (भर्गः) पापरूप दुःखों के मूल को नष्ट करनेवाले प्रभाव को (धीमहि) धारण करैं ॥१०॥
 </details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
 भावार्थभाषाः -  जो मनुष्य सबके साक्षी, पिता के सदृश वर्त्तमान, न्यायेश, दयालु, शुद्ध, सनातन, सबके आत्माओं के साक्षी परमात्मा की ही स्तुति और प्रार्थना करके उपासना करते हैं, उनको कृपा का समुद्र सबसे श्रेष्ठ परमेश्वर, दुष्ट आचरण से पृथक् करके श्रेष्ठ आचरण में प्रवृत्त करा और पवित्र तथा पुरुषार्थयुक्त करके धर्म, अर्थ, काम और मोक्ष को प्राप्त कराता है ॥१०॥
 </details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
 
 अन्वय:  हे मनुष्याः सर्वे वयं यो नो धियः प्रचोदयात्तस्य सवितुर्देवस्य तद्वरेण्यं भर्गो धीमहि ॥१०॥
 </details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 
 पुनस्तमेव विषयमाह।
 </details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (तत्) (सवितुः) सकलजगदुत्पादकस्य समग्रैश्वर्य्ययुक्तस्येश्वरस्य (वरेण्यम्) सर्वेभ्य उत्कृष्टं प्राप्तुं योग्यम् (भर्गः) भृज्जन्ति पापानि दुःखमूलानि येन तत् (देवस्य) सकलैश्वर्यप्रदातुः प्रकाशमानस्य सर्वप्रकाशकस्य सर्वत्र व्याप्तस्याऽन्तर्यामिणः (धीमहि) दधीमहि (धियः) प्रज्ञाः (यः) (नः) अस्माकम् (प्रचोदयात्) सद्गुणकर्मस्वभावेषु प्रेरयतु ॥१०॥
 </details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
 भावार्थभाषाः -  ये मनुष्याः सर्वसाक्षिणं पितृवद्वर्त्तमानं न्यायेशं दयालुं शुद्धं सनातनं सर्वात्मसाक्षिकं परमात्मानमेव स्तुत्वा प्रार्थयित्वोपासते तान् कृपानिधिः परमगुरुर्दुष्टाचारान्निवर्त्य श्रेष्ठाचारे प्रवर्त्तयित्वा शुद्धान् सम्पाद्य पुरुषार्थयित्वा धर्मार्थकाममोक्षान् प्रापयति ॥१०॥
 </details>
+
 <details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
 
 भावार्थभाषाः -  जी माणसे सर्वांचा साक्षी, पित्याप्रमाणे असणारा, न्यायी, दयाळू, शुद्ध सनातन, सर्वांच्या आत्म्याचा साक्षी अशा परमेश्वराची स्तुती, प्रार्थना व उपासना करतात त्यांना कृपासागर, सर्वात श्रेष्ठ परमेश्वर, दुष्ट आचरणापासून पृथक करून श्रेष्ठ आचरणामध्ये प्रवृत्त करतो. पवित्र व पुरुषार्थयुक्त करून धर्म, अर्थ, काम, मोक्ष प्राप्त करवितो. ॥ १० ॥
@@ -731,6 +765,7 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 ऽमृतं॒ ब्रह्म॒ +++(=मन्त्राः)+++  
 भूर् भुव॒स् सुव॒र् ओम् । (42)
 </details>
+
 <details><summary>मूलम्</summary>
 
 ओमापो॒ ज्योती॒रसो॒ ऽमृतं॒  ब्रह्म॒ भूर्भुव॒स्सुव॒रोम् । (42)

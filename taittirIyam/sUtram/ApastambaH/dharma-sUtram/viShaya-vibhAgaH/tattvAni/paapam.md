@@ -107,7 +107,6 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/08/23/05_krodho_harSho.md">
 <details open><summary><h4>05 क्रोधो हर्षो ...{Loading}...</h4></summary>
 
-
 क्रोधो हर्षो रोषो लोभो मोहो दम्भो द्रोहो मृषोद्यमत्याशपरीवादावसूया काममन्यू अनात्म्यमयोगस्तेषां योगमूलो निर्घातः ॥ १३ ॥ ५ ॥  
 
 </details>

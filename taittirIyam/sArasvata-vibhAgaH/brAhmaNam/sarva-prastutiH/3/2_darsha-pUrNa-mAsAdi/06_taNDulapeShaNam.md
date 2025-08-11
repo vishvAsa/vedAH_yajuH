@@ -1,12 +1,11 @@
 ---
-title: ०६ तण्डुलपेषणम् 
+title: ०६ तण्डुलपेषणम्
 unicode_script: devanagari
+
 ---
-
 ## अव॑धूतँ॒
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/05_vrIhyavaghAtaH/avadhUtam.md" unfilled newLevelForH1="5" includeTitle="false">   
-
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/05_vrIhyavaghAtaH/avadhUtam.md">
+<details open><summary><h5>अवधूतम् ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "अव॑धूतँ॒ रक्षो ऽव॑धूता॒ अरा॑तय॒" इत्य् आ॑ह ।  
@@ -24,6 +23,10 @@ unicode_script: devanagari
 अवधूतमिति कृष्णाजिनाधिवसनम् ।
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+प्रत्युष्टमितिवद्व्याचष्टे –”अवधूतँ रक्षोऽवधूर्तां अरातय इत्याह। रक्षसामपहत्यै” (ब्रा. का. ३ प्र. २ अ. ५) इति।
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -44,6 +47,11 @@ unicode_script: devanagari
 अदित्या इति कृष्णाजिनोत्तरणम् ।
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+मन्त्रस्योक्तार्थपरत्वं दर्शयति — “अदित्यास्त्वगसीत्याह। इयं वा अदितिः अस्या एवैनत्त्वचं करोति। 
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रति॑ त्वा पृथि॒वी वे॒त्त्वित्या॑ह॒ प्रति॑ष्ठित्यै ।
@@ -54,6 +62,10 @@ unicode_script: devanagari
 प्रति॑ त्वा पृथि॒वी वे॒त्त्वित्या॑ह॒ प्रति॑ष्ठित्यै ।
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+प्रति त्वा पृथिवी वेत्त्वित्याह प्रतिष्ठित्यै” (ब्रा. का. ३ प्र. २ अ. ५) इति। 
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -68,6 +80,11 @@ unicode_script: devanagari
 <details><summary>भट्टभास्कर-टीका</summary>
 
 प्रतिष्ठित्या इति । आत्मीयत्वेन पृथिव्या अनुज्ञातत्वात् प्रतिष्ठितत्वम् ॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+देशादिगुणविशिष्टमास्तरणं विधत्ते — “पुरस्तात्प्रतीचीनग्रीवमुत्तरलोमोपस्तृणति मेध्यत्वाय। 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -91,6 +108,12 @@ unicode_script: devanagari
 प्रजा मृगं **ग्राहुकाः** ताच्छील्येन ग्रहीत्र्यः । छान्दस उकञ् ।
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+तस्मात्पुरतात्प्रत्यञ्चः पशवो मेधमुपतिष्ठन्ते। तस्मात्प्रजा मृगंग्राहुकाः” (ब्रा. का. ३ प्र. २ अ. ५) इति।  
+यस्मादाहवनीयस्य पूर्वभागे कृष्णाजिनं पश्चिमशिरस्कमूर्ध्वलोमकमास्तृतं तस्मात्तादृशा एव सन्तो यूपे बद्धाः पशवो यज्ञं सेवन्ते। यस्मादयं पशुभिः सेव्यो यज्ञस्तस्मादेव प्रत्यवायभयरहिताः सत्यः प्रजा यज्ञार्थं मृगग्रहणशीला भवन्ति। 
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य॒ज्ञो दे॒वेभ्यो॒ निला॑यत॒ कृष्णो॑ रू॒पङ् कृ॒त्वा ।
@@ -105,8 +128,13 @@ unicode_script: devanagari
 
 कृष्ण इति । कृष्णमृगो भूत्वा रूपं च तदीयं कृत्वा देवेभ्यो यज्ञो निलायत निरगच्छत् । 'उपसर्गस्यायतौ' इति लत्वम् ।
 </details>
-</div>
 
+<details><summary>सायण-टीका</summary>
+
+कृष्णाजिनस्याऽऽदरे हेतुं ब्रुवंस्तद्विशिष्टमवघातं विधत्ते — “यज्ञो देवेभ्यो निलायत। कृष्णो रूपं कृत्वा। 
+</details>
+</details>
+</div>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत् कृ॑ष्णाजि॒ने ह॒विर् अ॑धिपि॒नष्टि॑,
@@ -247,11 +275,16 @@ unicode_script: devanagari
 </details>
 
 ## अधिवपनम्
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/04_havir-nirvApaH/devasya_tvA_savituH.md"  newLevelForH1="5" includeTitle="false"> 
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/04_havir-nirvApaH/devasya_tvA_savituH.md">
+<details open><summary><h5>दे॒वस्य॑ त्वा ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒व" इत्या॑ह॒ प्रसू॑त्यै ।
+</details>
+
+<details><summary>Keith</summary>
+
+'On the impulse of the god Savitr thee', he says, for impelling.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -259,12 +292,27 @@ unicode_script: devanagari
 "दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒व" इत्या॑ह॒ प्रसू॑त्यै ।
 </details>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/04_havir-nirvApaH/ashvinor_bAhubhyAm.md"  newLevelForH1="5" includeTitle="false"> 
+<details><summary>सायण-टीका</summary>
 
+व्याचष्टे- “देवस्य त्वा सवितुः प्रसव इत्याह प्रसूत्यै।" 
+____________________________________
+
+अत्र वाक्यपूरणायाग्नय इत्यादिकमध्याहृतमतो यथाम्नातमेवानूद्य व्याचष्टे — “देवस्य त्वा सवितुः प्रसव इत्याह प्रसूत्यै।" 
+__________________________________________________________________________________
+
+अत्रानाम्नातमप्यनेनैवाभिप्रायेण व्याचष्टे – “देवस्य त्वा सवितुः प्रसव इत्याह प्रसूत्यै।" 
+</details>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/04_havir-nirvApaH/ashvinor_bAhubhyAm.md">
+<details open><summary><h10>अ॒श्विनो॑र् बा॒हुभ्या॒म् ...{Loading}...</h10></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"अ॒श्विनो॑र् बा॒हुभ्या॒म्" इत्य् आ॑ह ।
+"अ॒श्विनो॑र् बा॒हुभ्या॒म्" इत्य् आ॑ह ।  
 अ॒श्विनौ॒ हि दे॒वाना॑म् अध्व॒र्यू आस्ता॑म् ।
+</details>
+
+<details><summary>Keith</summary>
+
+'With the arms of the Aśvins', he says, for the Aśvins were the Adhvaryus of the gods. 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -273,14 +321,31 @@ unicode_script: devanagari
 अ॒श्विनौ॒ हि दे॒वाना॑मध्व॒र्यू आस्ता॑म् ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अ॒श्विनोः॑ । बा॒हुभ्या॒मिति॑ बा॒हु-भ्या॒म् । इति॑ । आ॒ह॒ ।
+अ॒श्विनौ॑ । हि । दे॒वाना॑म् । अ॒ध्व॒र्यू इति॑ । आस्ता॑म् ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अध्वर्यू इति । अध्वरस्य नेतारौ मणिबन्धादुपरि वा स्तः ।
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+अश्विनोर्बाहुभ्यामित्याह। अश्विनौ हि देवानामध्वर्यू आस्ताम्। 
+
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"पू॒ष्णो हस्ता॑भ्या॒म्" इत्य् आ॑ह॒ यत्यै॑ ।
+"पू॒ष्णो हस्ता॑भ्या॒"म् इत्य् आ॑ह॒ यत्यै॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+'With the hands of Pusan', he says, for restraint. 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -288,13 +353,25 @@ unicode_script: devanagari
 "पू॒ष्णो हस्ता॑भ्या॒"मित्या॑ह॒ यत्यै॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+पू॒ष्णः । हस्ता॑भ्याम् । इति॑ । आ॒ह॒ । यत्यै॑ । 4 ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
-यत्यै यमनाय धारणाय ॥
+**यत्यै** यमनाय धारणाय ॥
 </details>
-</div>  
-</div>  
 
+<details><summary>सायण-टीका</summary>
+
+पूष्णो हस्ताभ्यामित्याह यत्यै (ब्रा. का.३ प्र.२ अ.९) इति ।
+
+</details>
+</details>
+</div>
+</details>
+</div>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "अधि॑वपा॒मी"त्य् आ॑ह ।  
@@ -311,6 +388,7 @@ unicode_script: devanagari
 
 6देवस्येति पुरोडाशीयाधिवपनम् ॥ 'अग्नये जुष्टमधिवपामि' इति विशेषः । तत्र 'अग्नये जुष्टं निर्वपाम्यग्नीषोमाभ्याम्' इति वचनात् यथादेवतमेवैनानधिवपति ॥
 </details>
+
 <details><summary>सायण-टीका</summary>
 
 अधिवपामीत्याह। यथादेवतमेवैनानधिवपति” (ब्रा. का. ३ प्र. २ अ. ६) इति। 

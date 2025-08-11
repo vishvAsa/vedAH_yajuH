@@ -19,6 +19,7 @@ title = "०५ त्रयस्त्रिंशरात्रः"
 द्वे वाव दे॑व-स॒त्त्रे द्वा॑दशा॒हश् चै॒व त्र॑यस्त्रिँशद् अ॒हश् च॑ ।  
 य ए॒वव्ँ वि॒द्वाँस॑स् त्रयस्त्रिँशद्-अ॒हम् आस॑ते , सा॒क्षाद् ए॒व दे॒वता॑ अ॒भ्यारो॑हन्ति ।  
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथा॒ खलु॒ वै श्रेया॑न् अ॒भ्यारू॑ढᳵ का॒मय॑ते॒ , तथा॑ +++(यागादिकं)+++ करोति।  
@@ -27,6 +28,7 @@ title = "०५ त्रयस्त्रिंशरात्रः"
 +++(त्रयस्त्रिंशदहस्तु तमपि दोषं निवर्तयतीति)+++।  
 य ए॒वव्ँ वि॒द्वाँस॑स् त्रयस्त्रिँशद॒हम् आस॑ते॒ , वि पा॒प्मना॒ भ्रातृ॑व्ये॒णाऽऽव॑र्तन्ते ।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अह॒र्भाजो॒ वा ए॒ता दे॒वा अग्र॒ +++(त्रयस्त्रिंशतं)+++ आह॑रन् [18]।  
@@ -37,8 +39,6 @@ title = "०५ त्रयस्त्रिंशरात्रः"
 सर्वे॒ ग्राम॑णीय॒म् प्राप्नु॑वन्ति ।
 </details>
 
-
-
 ## विधानम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -47,29 +47,24 @@ title = "०५ त्रयस्त्रिंशरात्रः"
 </details>
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/brAhmaNam/sarva-prastutiH/7/1/10_pancharAtravidhiH/panchatA-mahimA.md">
 <details open><summary><h3>पञ्चता-महिमा ...{Loading}...</h3></summary>
-
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पञ्च॒ वा ऋ॒तव॑स् सव्ँवत्स॒रः +++(हेमन्त-शिशिरयोर् एकत्वात्, अथवा ऽन्धसि वर्षर्तोर् अभावात्)+++।[38]  
 ऋ॒तुष्वे॒व स॑व्ँवत्स॒रे प्रति॑ तिष्ठति ।
 </details>
+
 <details><summary>Keith</summary>
 
 the year consists of five seasons [3];  
 verily he stands firm in the year with its five seasons.
 </details>
 
-
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथो॒ पञ्चा॑क्षरा प॒ङ्क्तिः ।
 पाङ्क्तो॑ य॒ज्ञो, य॒ज्ञम् ए॒वाव॑ रुन्धे ।
-
 </details>
+
 <details><summary>Keith</summary>
 
 Again the Pankti has five elements,  
@@ -83,16 +78,19 @@ the sacrifice is fivefold; verily he wins the sacrifice.
 त्रय॑ इ॒मे लो॒काः ।  
 ए॒ष्वे॑व लो॒केषु॒ प्रति॑ तिष्ठ॒न्ति [19]।  
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथो॒ त्रीणि॒ वै य॒ज्ञस्य + इ॑न्द्रि॒याणि +++(ऋगादीनि गायत्रादीनि वा सवनानि)+++ ।
 तान्य् ए॒वाव॑ रुन्धते ।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(मध्यममहः)+++ वि॒श्व॒जिद् भ॑वत्य् अ॒न्नाद्य॒स्याव॑रुद्ध्यै ।  
 (तद् एवाहः) सर्व॑पृष्ठो भवति॒ सर्व॑स्या॒भिजि॑त्यै ।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वाग्वै द्वा॑दशा॒हः ।
@@ -101,6 +99,7 @@ the sacrifice is fivefold; verily he wins the sacrifice.
 आ॒प्तामे॒व वाच॒म् उप॑ यन्ति ।
 तस्मा॑द् +++(नाभेर्)+++ उ॒परि॑ष्टाद् वा॒चा व॑दामः ।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ॒वा॒न्त॒रव्ँ वै द॑शरा॒त्रेण॑ प्र॒जाप॑तिᳶ प्र॒जा अ॑सृजत ।[20]  
@@ -109,12 +108,14 @@ the sacrifice is fivefold; verily he wins the sacrifice.
 यद् द॑शरा॒त्रो भव॑ति स॒त्त्रस्यर्द्ध्यै॑ ।  
 अथो॒ यदे॒व पूर्वे॒ष्व् अह॑स्सु॒ +++(प्रमादात्)+++ विलो॑म क्रि॒यते॒ , तस्यै॒वैषा शान्तिः॑ ।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्व्य॒नी॒का+++(=द्विव्यूहा)+++ वा ए॒ता रात्र॑यो॒, यज॑माना विश्व॒जित् +++(मध्यममहः)+++।  
 स॒हाति॑रा॒त्रेण॒ पूर्वा॒ष् षोड॑श , स॒हाति॑रा॒त्रेणोत्त॑रा॒ष् षोड॑श ।   
 य ए॒वव्ँ वि॒द्वाँस॑स् त्रयस्त्रिँशद॒हम् आस॑त॒ , ऐ॑षा॑न् द्व्यनी॒का प्र॒जा जा॑यते ।  
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ॒ति॒रा॒त्राव् अ॒भितो॑ भवत॒ᳶ परि॑गृहीत्यै ॥ [21]  

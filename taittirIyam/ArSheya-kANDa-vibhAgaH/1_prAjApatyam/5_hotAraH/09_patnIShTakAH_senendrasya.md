@@ -2,18 +2,16 @@
 title = "०९ पत्नीष्टकाः सेनेन्द्रस्य"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/09_patnIShTakAH_senendrasya"  newLevelForH1="1" includeTitle="true">
-
-
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/09_patnIShTakAH_senendrasya">
+<details open><summary><h1>०९ पत्नीष्टकाः सेनेन्द्रस्य ...{Loading}...</h1></summary>
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1अथ पत्नीष्टकाः सेनेन्द्रस्येत्याद्याः ॥ पूर्ववद्विनियोगः ।  
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सेनेन्द्र॑स्य +++(सा त्वामुपदधाति)+++।  
+सेनेन्द्र॑स्य +++([पत्नी] सा त्वाम् उपदधाति)+++।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -24,13 +22,11 @@ title = "०९ पत्नीष्टकाः सेनेन्द्रस
 सेनादयो गताः । संज्ञाश्चैताः ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 सेनेन्द्र॑स्य ।  
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धेना॒ बृह॒स्पतेः॑ ।  
@@ -53,14 +49,13 @@ title = "०९ पत्नीष्टकाः सेनेन्द्रस
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वाग्वा॒योः ।  
+वाग् वा॒योः ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
 वाग्वा॒योः ।  
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -74,7 +69,7 @@ title = "०९ पत्नीष्टकाः सेनेन्द्रस
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पृ॒थि॒व्य॑ग्नेः ।  
+पृ॒थि॒व्य् अ॒॑ग्नेः ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -82,10 +77,9 @@ title = "०९ पत्नीष्टकाः सेनेन्द्रस
 पृ॒थि॒व्य॑ग्नेः ।  
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वसू॑नाङ्गाय॒त्री ।  
+वसू॑नाङ् गाय॒त्री ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -93,10 +87,9 @@ title = "०९ पत्नीष्टकाः सेनेन्द्रस
 वसू॑नाङ्गाय॒त्री ।  
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रु॒द्राणा॑न्त्रि॒ष्टुक् ।  
+रु॒द्राणा॑न् त्रि॒ष्टुक् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -106,7 +99,7 @@ title = "०९ पत्नीष्टकाः सेनेन्द्रस
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ॒दि॒त्याना॒ञ्जग॑ती ।  
+आ॒दि॒त्याना॒ञ् जग॑ती ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -116,7 +109,7 @@ title = "०९ पत्नीष्टकाः सेनेन्द्रस
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विष्णो॑रनु॒ष्टुक् ।  
+विष्णो॑र् अनु॒ष्टुक् ।  
 (13) 
 </details>
 
@@ -125,7 +118,6 @@ title = "०९ पत्नीष्टकाः सेनेन्द्रस
 विष्णो॑रनु॒ष्टुक् ।  
 (13) 
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -136,7 +128,6 @@ title = "०९ पत्नीष्टकाः सेनेन्द्रस
 
 वरु॑णस्य वि॒राट् ।  
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -150,7 +141,7 @@ title = "०९ पत्नीष्टकाः सेनेन्द्रस
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒जाप॑ते॒रनु॑मतिः ।  
+प्र॒जाप॑ते॒र् अनु॑मतिः ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -221,7 +212,7 @@ title = "०९ पत्नीष्टकाः सेनेन्द्रस
 ## साधारण-पत्न्यः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-चत॑स्रो॒ दिशः॑ ।  
+चत॑स्रो॒ दिशः॑,  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -229,7 +220,6 @@ title = "०९ पत्नीष्टकाः सेनेन्द्रस
 चतस्रो दिश इत्याद्यास्साधारणपत्न्यः । 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 चत॑स्रो॒ दिशः॑ ।  
@@ -237,7 +227,7 @@ title = "०९ पत्नीष्टकाः सेनेन्द्रस
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-चत॑स्रोऽवान्तरदि॒शाः ।  
+चत॑स्रोऽवान्तरदि॒शाः,  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -245,7 +235,6 @@ title = "०९ पत्नीष्टकाः सेनेन्द्रस
 अवान्तरदिशाः कोणदिशः ।  आकारस्समासान्तः ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 चत॑स्रोऽवान्तरदि॒शाः ।  
@@ -253,7 +242,7 @@ title = "०९ पत्नीष्टकाः सेनेन्द्रस
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अह॑श्च॒ रात्रि॑श्च ।  
+अह॑श्च॒ रात्रि॑श्च,  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -261,10 +250,9 @@ title = "०९ पत्नीष्टकाः सेनेन्द्रस
 अह॑श्च॒ रात्रि॑श्च ।  
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कृ॒षिश्च॒ वृष्टि॑श्च ।  
+कृ॒षिश्च॒ वृष्टि॑श्च,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -272,10 +260,9 @@ title = "०९ पत्नीष्टकाः सेनेन्द्रस
 कृ॒षिश्च॒ वृष्टि॑श्च ।  
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्विषि॒श्चाप॑चितिश्च ।  
+त्विषि॒श् चाप॑चितिश् च,  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -283,16 +270,14 @@ title = "०९ पत्नीष्टकाः सेनेन्द्रस
 त्विषिः दीप्तिः । अपचितिः पूजा । 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 त्विषि॒श्चाप॑चितिश्च ।  
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आप॒श्चौष॑धयश्च ।  
+आप॒श् चौष॑धयश् च,  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -302,7 +287,7 @@ title = "०९ पत्नीष्टकाः सेनेन्द्रस
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऊर्क्च॑ सू॒नृता॑ च दे॒वानां॒ पत्न॑यः ।  
+ऊर्क् च॑ सू॒नृता॑ च दे॒वानां॒ पत्न॑यः ।  
 (14) 
 </details>
 
@@ -312,12 +297,10 @@ title = "०९ पत्नीष्टकाः सेनेन्द्रस
 इत्यारण्यके तृतीये नवमोऽनुवाकः ॥
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 ऊर्क्च॑ सू॒नृता॑ च दे॒वानां॒ पत्न॑यः ।  
 (14) 
 </details>
-
-
+</details>
 </div>

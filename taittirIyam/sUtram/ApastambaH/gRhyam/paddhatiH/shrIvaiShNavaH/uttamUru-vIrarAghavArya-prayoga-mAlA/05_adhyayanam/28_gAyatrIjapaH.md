@@ -29,7 +29,6 @@ title = "२८ गायत्रीजपः"
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/mantrahInam_hutAshana.md">
 <details open><summary><h5>मन्त्रहीनं - हुताशन ...{Loading}...</h5></summary>
 
-
 (अग्नये नमः)
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -39,6 +38,7 @@ title = "२८ गायत्रीजपः"
 यद्धुतं तु मया देव  
 परिपूर्णं तदस्तु ते ॥  
 </details>
+
 <details><summary>मूलम्</summary>
 
 मन्त्रहीनं क्रियाहीनं  
@@ -57,6 +57,7 @@ title = "२८ गायत्रीजपः"
 यानि तेषाम् अशेषाणां  
 कृष्णानुस्मरणं परम् ॥
 </details>
+
 <details><summary>मूलम्</summary>
 
 प्रायश्चित्तान्यशेषाणि  

@@ -194,7 +194,7 @@ he who knowing thus offers the new and the full moon (sacrifices) thus sees with
 
 <details><summary>मूलम्</summary>
 
-य ए॒वव्ँ वि॒द्वान्द॑र्शपूर्णमा॒सौ यज॑ते॒ ताभ्या॑मे॒व सु॑व॒र्गल्ँलो॒कमनु॑ पश्यति    
+य ए॒वव्ँ वि॒द्वान्द॑र्शपूर्णमा॒सौ यज॑ते॒ ताभ्या॑मे॒व सु॑व॒र्गल्ँ लो॒कमनु॑ पश्यति    
 </details>
 
 <details><summary>पद-पाठः</summary>

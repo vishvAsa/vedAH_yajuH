@@ -10,26 +10,31 @@ _______
 
 1सवितृ-पात्रेण वैश्वदेवं कलशाद् गृह्णाति - सुशर्मेति यजुषा ॥ 
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 सु॒शर्मा॑ऽसि सुप्रतिष्ठा॒नो बृ॒हदु॒क्षे नमः॑ ।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(वैश्वदेवगण!)+++ सु॒शर्मा॑ऽसि सुप्रतिष्ठा॒नः।  
 बृ॒हद् +++(→नमः)+++ उ॒क्षे+++(=सेक्त्रे वृषभाय)+++ नमः॑ ।
 </details>
+
 <details><summary>Keith</summary>
 
 Thou givest good protection, and art well established.  
 Homage to the great bull!
 
 </details>
+
 <details><summary>मूलम्</summary>
 
 सु॒शर्मा॑ऽसि सुप्रतिष्ठा॒नः।   
 बृ॒हदु॒क्षे नमः॑ ।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 वैश्वदेवो गण उच्यते । **सुशर्मा** सुसुखः शोभनग्रहो वा त्वमसि । 'सोर्मनसी' इत्युत्तरपदाद्युदात्तत्वम् । 
@@ -44,14 +49,17 @@ Homage to the great bull!
 
 2एष ते योनिर्विश्वेभ्यस्त्वा देवेभ्य इति सादयति ॥ 'वैश्वदेव्यो वै प्रजा असावादित्यश्शुक्रः' इत्यादि ब्राह्मणम्  ॥
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ए॒ष ते॒ योनि॒र्, विश्वे॑भ्यस्त्वा दे॒वेभ्यः॑ ॥ [17]
 </details>
+
 <details><summary>Keith</summary>
 
 This is thy birthplace; to the All-gods thee!
 </details>
+
 <details><summary>मूलम्</summary>
 
 ए॒ष ते॒ योनि॒र्विश्वे॑भ्यस्त्वा दे॒वेभ्यः॑ ॥ [17]

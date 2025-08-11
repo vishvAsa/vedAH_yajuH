@@ -1,9 +1,8 @@
 ---
-title:  ०९ रथारोहणम्, विजयः 
+title: ०९ रथारोहणम्, विजयः
 unicode_script: devanagari
+
 ---
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन्द्र॑स्य॒ वज्रो॑ऽसि॒ वार्त्र॑घ्न॒ इति॒ रथ॑मु॒पाव॑हरति॒ विजि॑त्यै ।  
@@ -489,12 +488,12 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सु॒व॒र्गादे॒वैन॑ल्ँलो॒काद॒न्तर्द॑धाति ।
+सु॒व॒र्गादे॒वैन॑ल्ँ लो॒काद॒न्तर्द॑धाति ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-सु॒व॒र्गादे॒वैन॑ल्ँलो॒काद॒न्तर्द॑धाति ।
+सु॒व॒र्गादे॒वैन॑ल्ँ लो॒काद॒न्तर्द॑धाति ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -576,4 +575,3 @@ unicode_script: devanagari
 इति सप्तमे नवमः ॥  
 
 </details>
-

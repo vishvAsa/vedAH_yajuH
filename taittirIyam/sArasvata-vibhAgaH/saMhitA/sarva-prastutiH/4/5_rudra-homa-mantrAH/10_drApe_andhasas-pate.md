@@ -8,6 +8,7 @@ title = "१० द्रापे॒ अन्ध॑सस्पते॒"
 ७-९ त्रिष्टुप्,१० यवमध्या महाबृहती ।  
 अग्निर्ऋषिः
 </details>
+
 <details><summary>सायण-टीका</summary>
 
 (अथ चतुर्थाष्टके पञ्चमप्रपाठके दशमोऽनुवाकः)।  
@@ -35,11 +36,13 @@ Frighten not nor injure
 (Any) of these people, of these cattle;  
 Be not one of these injured.
 </details>
+
 <details><summary>मूलम्</summary>
 
 द्रापे॒ अन्ध॑सस्पते॒ दरि॑द्र॒न्नील॑लोहित ।   
 ए॒षाम्पुरु॑षाणामे॒षाम्प॑शू॒नाम्मा भेर्मारो॒ मो ए॑षा॒ङ्किञ्च॒नाम॑मत् ।
 </details>
+
 <details><summary>सायण-टीका</summary>
 
 द्रापयति कुत्सितां गतिं प्रापयतीति **द्रापिः**।  
@@ -74,11 +77,13 @@ Auspicious and ever healing,
 Auspicious and healing (form of) Rudra,  
 With that show mercy on us for life.
 </details>
+
 <details><summary>मूलम्</summary>
 
 या ते॑ रुद्र शि॒वा त॒नूश्शि॒वा वि॒श्वाह॑भेषजी ।   
 शि॒वा रु॒द्रस्य॑ भेष॒जी तया॑ नो मृड जी॒वसे॑ ।
 </details>
+
 <details><summary>सायण-टीका</summary>
 
 अथ द्वितीयामाह— या ते रुद्रेति।  
@@ -104,11 +109,13 @@ This prayer we offer up to the impetuous Rudra, With plaited hair, destroyer of 
 That health be for our bipeds and quadrupeds,  
 And that all in this village be prosperous [1] and free from ill.
 </details>
+
 <details><summary>मूलम्</summary>
 
 इ॒माँ रु॒द्राय॑ त॒वसे॑ कप॒र्दिने॑ क्ष॒यद्वी॑राय॒ प्र भ॑रामहे म॒तिम् ।   
 यथा॑ न॒श्शमस॑द्द्वि॒पदे॒ चतु॑ष्पदे॒ विश्व॑म्पु॒ष्टङ्ग्रा॒मे॑ अ॒स्मिन्न् [21]  अना॑तुरम् ।
 </details>
+
 <details><summary>सायण-टीका</summary>
 
 अथ तृतीयामाह— इमाँ रुद्रायेति।  
@@ -136,11 +143,13 @@ Be merciful to us, O Rudra, and give us delight; With honour let us worship thee
 The health and wealth which father Manu won by sacrifice,  
 May we attain that, O Rudra, under thy leadership.
 </details>
+
 <details><summary>मूलम्</summary>
 
 मृ॒डा नो॑ रु॒द्रोत नो॒ मय॑स्कृधि क्ष॒यद्वी॑राय॒ नम॑सा विधेम ते ।   
 यच्छञ्च॒ योश्च॒ मनु॑राय॒जे पि॒ता तद॑श्याम॒ तव॑ रुद्र॒ प्रणी॑तौ ।
 </details>
+
 <details><summary>सायण-टीका</summary>
 
 अथ चतुर्थमाह– मृडा नो रुद्रोतेति।  
@@ -169,11 +178,13 @@ Our waxing or what has waxed,
 Do thou slay, nor father nor mother;  
 Injure not, O Rudra, our dear bodies [2].
 </details>
+
 <details><summary>मूलम्</summary>
 
 मा नो॑ म॒हान्त॑मु॒त मा नो॑ अर्भ॒कम्मा न॒ उक्ष॑न्तमु॒त मा न॑ उक्षि॒तम् ।   
 मा नो॑ वधीᳶ पि॒तर॒म्मोत मा॒तर॑म्प्रि॒या मा न॑स्त॒नुवः॑ [22]  रु॒द्र॒ री॒रि॒षः॒ ।
 </details>
+
 <details><summary>सायण-टीका</summary>
 
 अथ पञ्चमीमाह— मा नो महान्तभिति।  
@@ -204,11 +215,13 @@ Harm us not in our children, our descendants, our life; Harm us not in our cattl
 Smite not in anger our heroes, O Rudra;  
 With oblations lot us serve thee with honour.
 </details>
+
 <details><summary>मूलम्</summary>
 
 मा न॑स्तो॒के तन॑ये॒ मा न॒ आयु॑षि॒ मा नो॒ गोषु॒ मा नो॒ अश्वे॑षु रीरिषः ।   
 वी॒रान्मा नो॑ रुद्र भामि॒तो व॑धीर्ह॒विष्म॑न्तो॒ नम॑सा विधेम ते ।
 </details>
+
 <details><summary>सायण-टीका</summary>
 
 अथ षष्ठीमाह— मा नस्तोक इति।  
@@ -238,11 +251,13 @@ Destroyer of heroes, be goodwill for us;
 Guard us and accord us aid  
 And grant us protection in abundance.
 </details>
+
 <details><summary>मूलम्</summary>
 
 आ॒रात्ते॑ गो॒घ्न उ॒त पू॑रुष॒घ्ने क्ष॒यद्वी॑राय सु॒म्नम॒स्मे ते॑ अस्तु ।   
 रक्षा॑ च नो॒ अधि॑ च देव ब्रू॒ह्यधा॑ च न॒श्शर्म॑ यच्छ द्वि॒बर्हाः॑ ।
 </details>
+
 <details><summary>सायण-टीका</summary>
 
 अथ सप्तमीमाह–  २१३७ आरत्ते गोघ्न इति।  
@@ -261,11 +276,10 @@ And grant us protection in abundance.
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/033/11_stuhi_shrutaM.md">
 <details open><summary><h5>११ स्तुहि श्रुतं ...{Loading}...</h5></summary>
 
-
-**स्तु॒हि श्रु॒तङ्** +++(रथ-)+++ग॑र्त॒-सद॒य्ँ युवा॑नम्  
-मृ॒गन् न भी॒मम्, उ॑पह॒त्नुम् उ॒ग्रम् ।   
-**मृ॒डा** ज॑रि॒त्रे+++(=गायकाय)+++ रु॑द्र॒ **स्तवा॑नो**+++(=स्तुतो)+++  
-अ॒न्यन् ते॑ अ॒स्मन् **नि व॑पन्तु॒** सेनाः॑ ।   
+**स्तुहि᳓ श्रुत᳓ङ्** +++(रथ-)+++गर्त-स᳓दय्ँ यु᳓वानम्  
+मृग᳓न् न᳓ भीम᳓म्, उपहत्नु᳓म् उग्र᳓म् ।   
+**मृडा᳓** जरित्रे᳓+++(=गायकाय)+++ रुद्र **स्त᳓वानो**+++(=स्तुतो)+++  
+अन्य᳓न् ते अस्म᳓न् **नि᳓ वपन्तु** से᳓नाः ।   
 
 </details>
 </div>
@@ -277,13 +291,15 @@ And grant us protection in abundance.
 - ऋषिः - गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः
 - छन्दः - त्रिष्टुप्
 </details>
+
 <details><summary>Thomson & Solcum</summary>
 
-स्तुहि꣡ श्रुतं꣡ गर्तस꣡दं यु꣡वानम्  
-मृगं꣡ न꣡ भीम꣡म् उपहत्नु꣡म् उग्र꣡म्  
-मॄळा꣡+ जरित्रे꣡ रुदर+ स्त꣡वानो  
-अन्यं꣡ ते अस्म꣡न् नि꣡ वपन्तु से꣡नाः
+स्तुहि᳓ श्रुतं᳓ गर्तस᳓दं यु᳓वानम्  
+मृगं᳓ न᳓ भीम᳓म् उपहत्नु᳓म् उग्र᳓म्  
+मॄळा᳓+ जरित्रे᳓ रुदर+ स्त᳓वानो  
+अन्यं᳓ ते अस्म᳓न् नि᳓ वपन्तु से᳓नाः
 </details>
+
 <details><summary>Vedaweb annotation</summary>
 
 _________
@@ -356,11 +372,13 @@ vapantu ← √vap- 2 (root)
 {number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
 
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 स्तु॒हि । श्रु॒तम् । ग॒र्त॒ऽसद॑म् । युवा॑नम् । मृ॒गम् । न । भी॒मम् । उ॒प॒ऽह॒त्नुम् । उ॒ग्रम् ।  
 मृ॒ळ । ज॒रि॒त्रे । रु॒द्र॒ । स्तवा॑नः । अ॒न्यम् । ते॒ । अ॒स्मत् । नि । व॒प॒न्तु॒ । सेनाः॑ ॥
 </details>
+
 <details><summary>Hellwig Grammar</summary>
 
 -   *stuhi* ← *stu*
@@ -485,10 +503,12 @@ _________
 _________
 
 </details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हेस्तोतः श्रुतंविश्रुतम्प्रख्यातंरुद्रंस्तुहि कीदृशं गर्तसदं गर्तोरथस्तत्रसीदन्तंयुवानन्नित्यतरुणं भृगं- नभीमं मृगंसिंहमिवभयङ्करं उपहन्तुं उपहन्तारं शत्रूणांउग्रमुद्गूर्णं हेरुद्र त्वंस्तवानः अस्माभिः स्तू- यमानः सन् जरित्रेस्तोत्रेमह्यम्मृळसुखय तेत्वदीयाः सेनाः अस्मदन्यं अस्मद्भतिरिक्तं पुरुषन्निवपन्तु निघ्नन्तु ॥ ११ ॥
 </details>
+
 <details><summary>सायण-टीका</summary>
 
 अथाष्टमीमाह— स्तुहि श्रुतमिति हे मदीयंवचः श्रुतं प्रसिद्धं रुद्रं स्तुहि।  
@@ -500,6 +520,7 @@ _________
 हे रुद्र स्तवानोऽस्मद्वचसा स्तूयमानो जरित्रे जरणशीले दिने दिने क्षीयमाणेऽस्मच्छरीरे मृड सुखं कुरु।  
 ते त्वदीयाः सेना अस्मदन्यं वैरिणं निवपन्तु विनाशयन्तु
 </details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -507,33 +528,40 @@ _________
 
 “Glorify the renowned **Rudra**, riding in his car, ever youthful, destructive, fierce like a formidable wild beast; Rudra, propitiated by praise, grant happiness to him who praises (you), and let your hosts destroy him who is our adversary.”
 </details>
+
 <details><summary>Jamison Brereton</summary>
 
 Praise the famed youth, sitting upon the high seat, the mighty one,  pouncing like a terrifying wild beast.  
 Being praised, have mercy on the singer, Rudra. Let your weapons cast  down another than us.
 </details>
+
 <details><summary>Keith</summary>
 
 Praise [3] the famous youth, mounted on the chariot seat, Dread and destructive like a fierce wild beast;  
 Being praised, O Rudra, be merciful to the singer; Let thy missiles smite down another than us.
 </details>
+
 <details><summary>Griffith</summary>
 
 Praise him the chariot-borne, the young, the famous, fierce, slaying like a dread beast of the forest.  
      O Rudra, praised, be gracious to the singer. let thy hosts spare us and smite down another.
 </details>
+
 <details><summary>Macdonell</summary>
 
 Praise him the famed, who sits upon the car-seat The young, the fierce, like a dread beast, a slayer. When praised, be gracious, Rudra, to the singer Let thy darts pass us and lay low another.
 </details>
+
 <details><summary>Geldner</summary>
 
 Preise den berühmten, auf dem Hochsitz thronenden Jüngling, der wie ein wildes Tier aufspießt den Gewaltigen ! Gepriesen habe mit dem Sänger Erbarmen o Rudra ! Einen anderem als uns sollen deine Heerscharen niederwerfen!
 </details>
+
 <details><summary>Grassmann</summary>
 
 Sing' dem berühmten, jungen Wagenkämpfer, der kräftig angreift, wie ein grimmer Löwe; Sei hold dem Sänger, Rudra, du gelobter; dein Pfeil vernichte andere als wir sind.
 </details>
+
 <details><summary>Elizarenkova</summary>
 
 Славь знаменитого, сидящего на троне юношу,  
@@ -541,6 +569,7 @@ Sing' dem berühmten, jungen Wagenkämpfer, der kräftig angreift, wie ein grimm
 Прославленный, о Рудра, будь милостив к певцу!  
 Другого, а не нас, пусть повергнут долу твои рати!
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - रुद्रः
@@ -548,34 +577,42 @@ Sing' dem berühmten, jungen Wagenkämpfer, der kräftig angreift, wie ein grimm
 - विराट्त्रिष्टुप्
 - धैवतः
 </details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 
 फिर उसी विषयको अगले मन्त्र में कहा है।
 </details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  हे (रुद्र) अन्यायकारियों को रुलानेवाले सेनापति ! आप (मृगम्) सिंह के (न) समान (भीमम्) भयंकर (श्रुतम्) जो सुने हैं उस (गर्त्तसदम्) घर में बैठकर (उपहत्नुम्) और समीप में मारते हुए (उग्रम्) क्रूर (युवानम्) पूर्ण बलवाले पुरुष की (स्तुहि) स्तुति कर और (जरित्रे) स्तुति करनेवाले के लिये (मृळ) सुखी कर (स्तवानः) स्तुति करता हुआ (अन्यम्) और धर्मात्मा की प्रशंसा कर जिससे विद्वान् (अस्मत्) मेरी उत्तेजना से (ते) तेरी (सेनाः) सेना अर्थात् बल को (नि,वपन्तु) विस्तारें ॥११॥
 </details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
 भावार्थभाषाः -  इस मन्त्र में उपमालङ्कार है। जो राज्य बढ़ाने की इच्छा करें, वे सिंह के समान शत्रुओं में भयंकर और श्रेष्ठों में आनन्द देनेवालों का राजकार्य्य और सेना में सत्कार कर और उनको आज्ञा दे न्याय से निरन्तर राज्य की पालना करे ॥११॥
 </details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
 
 अन्वय:  हे रुद्र सेनेश त्वं मृगं न भीमं श्रुतं गर्त्तसदमुपहत्नुमुग्रं युवानं स्तुहि जरित्रे मृळ स्तवानः सन्नन्यं प्रशंस यतो विद्वांसोऽस्मत्ते सेना निवपन्तु ॥११॥
 </details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 
 पुनस्तमेव विषयमाह।
 </details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (स्तुहि) (श्रुतम्) यश्श्रुतवान् तम् (गर्त्तसदम्) यो गर्त्ते गृहे सीदति तम् (युवानम्) पूर्णबलम् (मृगम्) सिंहम् (न) इव (भीमम्) भयङ्करम् (उपहत्नुम्) य उपहन्ति तम् (उग्रम्) क्रूरम् (मृळ) सुखम्। अत्र द्व्यचोऽतस्तिङ इति दीर्घः (जरित्रे) स्तावकाय (रुद्र) अन्यायकारिणां रोदयितः (स्तवानः) स्तुवन् (अन्यम्) धर्मात्मानम् (ते) तव (अस्मत्) अस्माकं सकाशात् (नि) (वपन्तु) विस्तारयन्तु (सेनाः) बलानि ॥११॥
 </details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
 भावार्थभाषाः -  अत्रोपमालङ्कारः। ये राज्यं वर्द्धितुमिच्छेयुस्ते सिंहवच्छत्रूणां भयंकराञ्छ्रेष्ठानामानन्दप्रदान् राजकार्य्ये सेनायां च सत्कृत्य नियोज्य न्यायेन राज्यं सततं पालयेयुः ॥११॥
 </details>
+
 <details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
 
 भावार्थभाषाः -  या मंत्रात उपमालंकार आहे. जे राज्य वाढविण्याची इच्छा करतात त्यांनी शत्रूंबरोबर सिंहासारखे भयंकर रीतीने वागावे व श्रेष्ठांना आनंद देणाऱ्या लोकांचा राजकार्यात व सेनेमध्ये सत्कार करावा व न्यायाने निरंतर राज्याचे पालन करावे. ॥ ११ ॥
@@ -600,11 +637,13 @@ May the wrath of the brilliant evil worker (pass over us);
 Unstring for the generous donors (thy) strong (bows);  
 O bounteous one, be merciful to our children and descendants.
 </details>
+
 <details><summary>मूलम्</summary>
 
 परि॑ णो रु॒द्रस्य॑ हे॒तिर्वृ॑णक्तु॒ परि॑ त्वे॒षस्य॑ दुर्म॒तिर॑घा॒योः ।   
 अव॑ स्थि॒रा म॒घव॑द्भ्यस्तनुष्व॒ मीढ्व॑स्तो॒काय॒ तन॑याय मृडय ।
 </details>
+
 <details><summary>सायण-टीका</summary>
 
 अथ नवमीमाह— 		परि णो रुद्रस्येति।  
@@ -629,10 +668,17 @@ O bounteous one, be merciful to our children and descendants.
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/sarvASh_TIkAH/16/51_mIDhuShTama_shivatama.md">
 <details open><summary><h5>५१ मीढुष्टम शिवतम ...{Loading}...</h5></summary>
-<details><summary>पदपाठः</summary>
+<details><summary>पदपाठः - दयानन्दादि</summary>
 
 मीढु॑ष्टम। मीढु॑स्त॒मेति॒ मीढुः॑ऽतम। शिव॑त॒मेति॒ शिव॑ऽतम। शि॒वः। नः॒। सु॒मना॒ इति॑ सु॒ऽमनाः॑। भ॒व॒। प॒र॒मे। वृ॒क्षे। आयु॑धम्। नि॒धायेति॑ नि॒ऽधाय॑। कृत्ति॑म्। वसा॑नः। आ। च॒र॒। पिना॑कम्। बिभ्र॑त्। आ। ग॒हि॒। ५१।
 </details>
+
+<details><summary>महीधरः</summary>
+
+म० इयमेकोना यवमध्या त्रिष्टुप् तृतीय एकादशार्णः चत्वारोऽन्येष्टार्णाः पञ्चपादा । अतिशयेन मीढ्वान् मीढुष्टमः । अत्यन्तं शिवः शिवतमः । हे मीढुष्टम अतिशयेन कामसेक्तः, हे शिवतम अत्यन्तं कल्याणकर्तः, नोऽस्मान् प्रति शिवः शान्तः सुमनाः हृष्टचित्तश्च भव । किंच परमे दूरस्थे उन्नते वा वृक्षे वटादौ आयुधं त्रिशूलादिकं निधाय संस्थाप्य कृत्तिं चर्म वसानः परिदधानः सन् आचर आगच्छ तपश्चरेति वा । आगच्छन्नपि पिनाकं धनुर्बिभ्रत् धारयन्सन् आगहि आगच्छ । ज्याशरहीनं धनुर्मात्रं शोधार्थं धारयन्नागच्छेत्यर्थः ॥ ५१ ॥  
+द्विपञ्चाशी।
+</details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - रुद्रा देवताः
@@ -640,6 +686,7 @@ O bounteous one, be merciful to our children and descendants.
 - निचृदार्षी यवमध्या त्रिष्टुप्
 - धैवतः
 </details>
+
 <details><summary>सायण-टीका</summary>
 
 अथ दशमीमाह– मीढुष्ठमेति।  
@@ -648,6 +695,7 @@ O bounteous one, be merciful to our children and descendants.
 २१३८ यथाऽस्माभिर्न दृश्यते तथाऽवस्थाप्य कृत्तिं वसानो व्याघ्रचर्ममात्रं परिदधान आचरास्मदाभिमुख्येनाऽऽगच्छ।  
 आगच्छन्नपि पिनाकं विभ्रद्भूषणार्थं धनुर्मात्रं हस्ते धारयन्त्राणादिकं परित्यज्याऽऽगह्यागच्छ।
 </details>
+
 <details><summary>Keith</summary>
 
 O most bounteous, most auspicious,  
@@ -656,30 +704,37 @@ Placing down thy weapon on the highest tree,
 Clad in thy skin, come,  
 And approach us bearing the spear [4].
 </details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 
 सभाध्यक्षादिकों को क्या करना चाहिये, यह विषय अगले मन्त्र में कहा है ॥
 </details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  हे (मीढुष्टम) अत्यन्तपराक्रमयुक्त (शिवतम) अति कल्याणकारी सभा वा सेना के पति ! आप (नः) हमारे लिये (सुमनाः) प्रसन्न चित्त से (शिवः) सुखकारी (भव) हूजिये (आयुधम्) खड्ग, भुशुण्डी और शतघ्नी आदि शस्त्रों का (निधाय) ग्रहण कर (कृत्तिम्) मृगचर्मादि की अङ्गरखी को (वसानः) शरीर में पहिने (पिनाकम्) आत्मा के रक्षक धनुष् वा बखतर आदि को (बिभ्रत्) धारण किये हुए हम लोगों की रक्षा के लिये (आगहि) आइये (परमे) प्रबल (वृक्षे) काटने योग्य शत्रु की सेना में (आचर) अच्छे प्रकार प्राप्त हूजिये ॥५१ ॥
 </details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
 भावार्थभाषाः -  सभा और सेना के अध्यक्ष आदि लोग अपनी प्रजाओं में मङ्गलाचारी और दुष्टों में अग्नि के तुल्य तेजस्वी दाहक हों, जिससे सब लोग धर्ममार्ग को छोड़ के अधर्म का आचरण कभी न करें ॥५१ ॥
 </details>
+
 <details><summary>दयानन्द-सरस्वती (सं) - विषयः</summary>
 
 सभाध्यक्षादिभिः किं कार्यमित्याह ॥
 </details>
+
 <details><summary>दयानन्द-सरस्वती (सं) - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  हे मीढुष्टम शिवतम सभासेनेश ! त्वं नः सुमनाः शिवो भव। आयुधं निधाय कृत्तिं वसानः पिनाकं बिभ्रत् सन्नस्माकं रक्षणायागहि परमे वृक्ष आचर ॥५१ ॥
 </details>
+
 <details><summary>दयानन्द-सरस्वती (सं) - भावार्थः</summary>
 
 भावार्थभाषाः -  सभासेनेशादयः स्वप्रजासु मङ्गलाचारिणो दुष्टेषु चाग्निरिव दाहकाः स्युर्येन सर्वे धर्मपथं विहायाधर्मं कदापि नाचरेयुः ॥५१ ॥
 </details>
+
 <details><summary>सविता जोशी ← दयानन्दः (म) - भावार्थः</summary>
 
 भावार्थभाषाः -  सभा व सेनेचे अध्यक्ष इत्यादी आपल्या प्रजेचे कल्याण करणारे असावेत व दुष्टांसाठी अग्नीप्रमाणे तेजस्वी व दाहक असावेत. यामुळे सर्व लोक धार्मिक बनून अधर्माचे आचरण करणार नाहीत.
@@ -704,11 +759,13 @@ Homage to thee, O adorable one;
 May thy thousand missiles  
 Smite down another than us.
 </details>
+
 <details><summary>मूलम्</summary>
 
 विकि॑रिद॒ विलो॑हित॒ नम॑स्ते अस्तु भगवः ।   
 यास्ते॑ स॒हस्रँ॑ हे॒तयो॒ऽन्यम॒स्मन्नि व॑पन्तु॒ ताः ।
 </details>
+
 <details><summary>सायण-टीका</summary>
 
 अथैकादशीमाह—  विकिरिदेति।  
@@ -748,11 +805,13 @@ Are the missiles in thine arms;
 O adorable one, do thou turn away  
 The points of those which thou dost rule.
 </details>
+
 <details><summary>मूलम्</summary>
 
 स॒हस्रा॑णि सहस्र॒धा बा॑हु॒वोस्तव॑ हे॒तयः॑ ।   
 तासा॒मीशा॑नो भगवᳶ परा॒चीना॒ मुखा॑ कृधि ॥ [25]
 </details>
+
 <details><summary>सायण-टीका</summary>
 
 अथ द्वादशीमाह— सहस्राणीति।  
@@ -764,8 +823,5 @@ The points of those which thou dost rule.
 </details>
 </details>
 </div>
-
-
-
 
 चतुर्थाष्टके पञ्चमप्रपाठके एकादशोऽनुवाकः

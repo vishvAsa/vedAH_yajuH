@@ -11,25 +11,30 @@ _______
 
 1प्राशित्रे ऽवदीयमाने जपति - अग्निर्मेति ॥ 
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अ॒ग्निर्मा॒ दुरि॑ष्टात्पातु सवि॒ताऽघशँ॑सात् 
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ॒ग्निर् मा॒ दुरि॑ष्टात् पातु  
 सवि॒ता ऽघशँ॑सात् ।
 </details>
+
 <details><summary>Keith</summary>
 
 May I Agni protect me from evil sacrifice,  
 Savitr from evil report.
 </details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्निर्मा॒ दुरि॑ष्टात्पातु   
 सवि॒ताऽघशँ॑सात् ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 अ॒ग्निः । मा॒ । दुरि॑ष्टा॒दिति॒ दुः-इ॒ष्टा॒त् । पा॒तु॒ । स॒वि॒ता । अ॒घशँ॑सा॒दित्य॒घ-शँ॒सा॒त् । 
@@ -46,7 +51,6 @@ Savitr from evil report.
 
 द्वितीयानुवाके हविरनुमन्त्रणमुक्तम्। तृतीयानुवाके भक्षस्येडादिभागस्या-नुमन्त्रणमुच्यते।   
 
-
 अग्निर्मेति। कल्पः - “प्राशित्रेऽवदीयमाने जपति अग्निर्मा दुरिष्टात्पातु सविताऽघशँ सादिति” इति।  
 मन्त्रवैकल्येन क्रियावैकल्येन वा यदिष्टं दुरिष्टं तत्तस्माद्दुरिष्टादग्निर्मां पातु। अघशंसात्पापरुचेरसुरादेः सविता मां पातु।  
 </details>
@@ -56,16 +60,19 @@ _______
 
 2यजमानोऽवदीयमाने जपति - यो म इति ॥ 
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो मेऽन्ति॑ दू॒रे᳕ ऽराती॒यति॒  
+यो मेऽन्ति॑ दू॒रे᳙ ऽराती॒यति॒  
 तम् ए॒तेन॑ जेषम् ।
 </details>
+
 <details><summary>Keith</summary>
 
 Him who near or afar plots evil against me, with this may I conquer.
 
 </details>
+
 <details><summary>मूलम्</summary>
 
 यो मेऽन्ति॑ दू॒रे॑ऽराती॒यति॒ तमे॒तेन॑ जेषम् ।
@@ -93,22 +100,27 @@ _______
 
 3इडाम् आह्रियमाणाम् अनुमन्त्रयते - सुरूपवर्षवार्ण इति ॥ 
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 सुरू॑पवर्षवर्ण॒ एही॒मान्भ॒द्रान्दुर्याँ॑ अ॒भ्येहि …
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुरू॑प-वर्ष-वर्ण॒+++(य्)+++ एहि॑ ।
 </details>
+
 <details><summary>Keith</summary>
 
 O thou of fair rain colour, come  
 </details>
+
 <details><summary>मूलम्</summary>
 
 सुरू॑पवर्षवर्ण॒ एहि॑ ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 सुरू॑पवर्षवर्ण॒ इति॒ सुरू॑प-व॒र्ष॒व॒र्णे॒ । एति॑ । इ॒हि॒ ।  
@@ -132,15 +144,18 @@ O thou of fair rain colour, come
 
 इ॒मान् भ॒द्रान् दुर्याँ॑+++(=यज्ञगृहान्)+++ अ॒भ्येहि॒ माम् अनु॑व्रता।
 </details>
+
 <details><summary>Keith</summary>
 
 To this blessed home,  
 Approach me in devotion.
 </details>
+
 <details><summary>मूलम्</summary>
 
 इ॒मान् भ॒द्रान्दुर्याँ॑ अ॒भ्येहि॒ माम् अनु॑व्रता।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 इ॒मान् । भ॒द्रान् । दुर्या॑न् । अ॒भि । एति॑ । इ॒हि॒ । माम् । अनु॑व्र॒तेत्यनु॑-व्र॒ता॒ ।
@@ -162,14 +177,17 @@ Approach me in devotion.
 
 न्य् उ॒ +++(वक्ष्यमाणानि)+++ शी॒र्षाणि॑ मृढ्वम् ।
 </details>
+
 <details><summary>Keith</summary>
 
 Touch the heads.
 </details>
+
 <details><summary>मूलम्</summary>
 
 न्यु॑ शी॒र्षाणि॑ मृढ्वम् ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 नीति॑ । उ॒ । शी॒र्षाणि॑ । मृ॒ड्ढ्व॒म् ।
@@ -195,21 +213,31 @@ Touch the heads.
 <details open><summary><h5>इड॒ एहि॑ ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इड॒ एहि॑+++(=आ+इ॑हि)+++ ।  
+इड॒+++(य्)+++ एहि॑+++(=आ+इ॑हि)+++ ।  
 अदि॑त॒ एहि॑ ।  
 सर॑स्व॒त्य् एहि॑+++(=आ+इ॑हि)+++ ।
 </details>
+
 <details><summary>Keith</summary>
 
 O Ida, come hither; O Aditi, come hither; 
 O Sarasvati, come hither.
 </details>
+
 <details><summary>मूलम्</summary>
 
 इड॒ एहि॑ ।  
 अदि॑त॒  एहि॑ ।  
 सर॑स्व॒त्येहि॑ ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+इडे॑ । एति॑ । इ॒हि॒ ।   
+अदि॑ते । एति॑ । इ॒हि॒ ।   
+सर॑स्वति । एति॑ । इ॒हि॒ । 
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 **इडादयश्** शब्दा गवां नामानि, यथा - 'इडे रन्तेदिते सरस्वति प्रिये प्रेयसि महि विश्रुत्येतनि ते अघ्निये नामानि' इति । ताच्-छब्द्येनेडा स्तूयते । 
@@ -217,20 +245,29 @@ O Sarasvati, come hither.
 तत्र गवां भेदान् **निमृढ्वम्** इति बहुवचनम् उपपद्यते, हे इडादयो यूयमागत्य मां निमृढ्वमिति ।  यदा तु गोभिर् अभेदेनेडोच्यते हे इडादिरूपे इड इति तदा त्वेकवचनम् एव न्याय्यम् । **इडा** पशुसाधनीड्या वा । **अदितिर्** अदीना अखण्डनीया ।  
 सरस्वती सरणवती सरस्वतीसदृशा वा ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+त एवेडाविशेषा इडादिभिः सूनर्यन्तैः षड्भिर्नामविशेषैः स्पष्टी क्रियन्ते। इडादीनां गोनामविशेषत्वं सप्तमकाण्डे समाम्नातम् – ‘इडे रन्तेऽदिते सरस्वति प्रिये प्रेयसि महि विश्रुत्येतानि ते अघ्‍निये नामानि’ (सं॰ का॰ ७ प्र॰ १ अ॰ ६) इति।  
+एतेषां प्रदर्शनार्थत्वाद्रमत्यादिकमपि द्रष्टव्यम्। 
+</details>
 </details>
 </div>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रन्ति॑र् असि ।
 </details>
+
 <details><summary>Keith</summary>
 
 Thou art delight, 
 </details>
+
 <details><summary>मूलम्</summary>
 
 रन्ति॑रसि ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 रन्तिः॑ । अ॒सि॒ ।  
@@ -240,18 +277,22 @@ Thou art delight,
 
 रन्तिः रतिहेतुरसीहामुत्र च । क्तिचि 'न क्तिचि दीर्घश्च' इति टिलोपाभावः, वृषादिर्द्रष्टव्यः ।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रम॑तिर् असि ।
 </details>
+
 <details><summary>Keith</summary>
 
 thou art delighting, 
 </details>
+
 <details><summary>मूलम्</summary>
 
 रम॑तिरसि ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 रम॑तिः । अ॒सि॒ । 
@@ -261,48 +302,54 @@ thou art delighting,
 
 रमतिः रमणीया । 'रमेर्निन्' इत्यतिप्रत्ययः ।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सू॒-नर्य् अ॑सि ।  
 </details>
+
 <details><summary>Keith</summary>
 
 thou art fair.
 </details>
+
 <details><summary>मूलम्</summary>
 
 सू॒नर्य॑सि ।  
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 सू॒नरी॑ । अ॒सि॒ । 
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 **सूनरी** शोभनमनुष्या, मनुष्याणां सुखहेतुत्वात् । पृषोदरादिः ।  
 यद्वा - सुष्ठु नेत्री सूनरी । नृ नये, सुपूर्वात् 'अच इः' इतीप्रत्ययः, 'कृदिकारादक्तिनः' इति ङीष्, उपसर्गविकारश्छान्दसः, सर्वधानवधारणान्नावगृह्यते ।  
 यद्वा - रन्त्यादीन्यपि त्रीणि गवां नामधेयानि ।
-</details>  
-
+</details>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 जुष्टे॒ जुष्टि॑न्तेऽशी॒योप॑हूत उपह॒वं [8]ते॒ऽशी॒य॒ सा मे॑ स॒त्याशीर॒स्य य॒ज्ञस्य॑ भूयात् 
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जुष्टे॒ जुष्टि॑न् ते ऽशीय।
 </details>
+
 <details><summary>Keith</summary>
 
 O thou in whom joy is taken, may I attain joy from thee
 </details>
+
 <details><summary>मूलम्</summary>
 
 जुष्टे॒ जुष्टि॑न्तेऽशीय।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 जुष्टे॑ । जुष्टि॑म् । ते॒ । अ॒शी॒य॒ ।
@@ -322,14 +369,17 @@ O thou in whom joy is taken, may I attain joy from thee
 
 उप॑हूत+++(य्)+++ उपह॒वं ते॑ऽशीय ।
 </details>
+
 <details><summary>Keith</summary>
 
 O thou who art invoked, may I obtain invocation [1] from thee.
 </details>
+
 <details><summary>मूलम्</summary>
 
 उप॑हूत उपह॒वं तेऽशीय ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 उप॑हूत॒ इत्युप॑-हू॒ते॒ । उ॒प॒ह॒वमित्यु॑प-ह॒वम् । ते॒ । अ॒शी॒य॒ ।
@@ -338,7 +388,7 @@ O thou who art invoked, may I obtain invocation [1] from thee.
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हे उपहूते अनुज्ञाते ते तव उपहवमनुज्ञामशीय । 'ह्वस्सम्प्रसारणं च न्यभ्युपविषु' इत्यप्, 'थाथादिनोत्तरपदान्तोदात्तत्वम् ।
-</details> 
+</details>
 
 <details><summary>सायण-टीका</summary>
 
@@ -349,14 +399,17 @@ O thou who art invoked, may I obtain invocation [1] from thee.
 
 सा मे॑ स॒त्या ऽऽशीर् अ॒स्य य॒ज्ञस्य॑ भूयात् ।
 </details>
+
 <details><summary>Keith</summary>
 
 May the prayer of the sacrificer be fulfilled for me.
 </details>
+
 <details><summary>मूलम्</summary>
 
 सा मे॑ स॒त्याशीर॒स्य य॒ज्ञस्य॑ भूयात् ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 सा । मे॒ । स॒त्या । आ॒शीरित्या॑-शीः । अ॒स्य । य॒ज्ञस्य॑ । भू॒या॒त् ।
@@ -376,18 +429,22 @@ May the prayer of the sacrificer be fulfilled for me.
 
 अरे॑डता॒ मन॑सा॒ तच्छ॑केयय्ँ य॒ज्ञो दिवँ॑ रोहतु  । 
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अरे॑डता॒+++(←रेडृ अनादरे)+++ मन॑सा॒ तच् छ॑केयम् ।
 </details>
+
 <details><summary>Keith</summary>
 
 With untroubled mind may I have strength for this.
 </details>
+
 <details><summary>मूलम्</summary>
 
 अरे॑डता॒ मन॑सा॒ तच्छ॑केयम् ।  
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 अरे॑डता । मन॑सा । तत् । श॒के॒य॒म् । 
@@ -408,14 +465,17 @@ With untroubled mind may I have strength for this.
 
 य॒ज्ञो दिवँ॑ रोहतु  ।
 </details>
+
 <details><summary>Keith</summary>
 
 May the sacrifice mount the sky, 
 </details>
+
 <details><summary>मूलम्</summary>
 
 य॒ज्ञो दिवँ॑ रोहतु  ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 य॒ज्ञः । दिव॑म् । रो॒ह॒तु॒ । 
@@ -435,14 +495,17 @@ May the sacrifice mount the sky,
 
 य॒ज्ञो दिव॑ङ् गच्छतु ।
 </details>
+
 <details><summary>Keith</summary>
 
 may the sacrifice reach the sky.
 </details>
+
 <details><summary>मूलम्</summary>
 
 य॒ज्ञो दिव॑ङ्गच्छतु ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 य॒ज्ञः । दिव॑म् । ग॒च्छ॒तु॒ ।
@@ -463,14 +526,17 @@ may the sacrifice reach the sky.
 यो दे॑व॒यान॒ᳶ पन्था॒स्,  
 तेन॑ य॒ज्ञो दे॒वाँ अप्य् ए॑तु ।
 </details>
+
 <details><summary>Keith</summary>
 
 The path that leadeth to the gods, along it may the sacrifice go to the gods.
 </details>
+
 <details><summary>मूलम्</summary>
 
 यो दे॑व॒यान॒ᳶ पन्था॒स्तेन॑ य॒ज्ञो दे॒वाँ अप्ये॑तु ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 यः । दे॒व॒यान॒ इति॑ देव-यानः॑ । पन्थाः॑ । तेन॑ । य॒ज्ञः । दे॒वान् । अपीति॑ । ए॒तु॒ ।
@@ -485,8 +551,6 @@ The path that leadeth to the gods, along it may the sacrifice go to the gods.
 
 तस्मिन्प्रदेशे गत्वा सभायामुपविष्टा देवा येन मार्गेण हविर्भोजनशालां गच्छन्ति तेनैव मार्गेणायं यज्ञो यज्ञसंबद्धहविर्देवानप्येतु प्राप्नोतु। 
 </details>
-
-
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/03_bhaxyAnumantraNAdi/02_asmAsv_indra.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
@@ -505,17 +569,32 @@ Us may wealth and sacrifices attend
 Ours be blessings;  
 To us be she dear, victorious, bountiful.
 </details>
+
 <details><summary>मूलम्</summary>
 
 अ॒स्मास्विन्द्र॑ इन्द्रि॒यन्द॑धात्व॒स्मान्राय॑ उ॒त य॒ज्ञास्स॑चन्ताम् ।   
 अ॒स्मासु॑ सन्त्वा॒शिष॒स्सा नᳶ॑ प्रि॒या सु॒प्रतू॑र्तिर्म॒घोनी॒॥
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒स्मासु॑ । इन्द्रः॑ । इ॒न्द्रि॒यम् । द॒धा॒तु॒ ।  
+अ॒स्मान् । रायः॑ । उ॒त । य॒ज्ञाः । स॒च॒न्ता॒म् ।  
+अ॒स्मासु॑ । स॒न्तु॒ । आ॒शिष॒ इत्या॑-शिषः॑ ।  
+सा । नः॒ । प्रि॒या । सु॒प्रतू॑र्ति॒रिति॑ सु-प्रतू॑र्तिः । म॒घोनी॑ । 
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 4अस्मास्विति त्रिपदोष्णिक् । त्रिष्टुप्ततः परा । यद्वा - मध्येज्योतिस्त्रिष्टुप् ॥  
 **अस्मासु** त्वत्-प्रसादभाक्षु **इन्द्र इन्द्रियं** वीर्यं **दधातु** । **अस्मान् रायो** धनानि पश्वादीनि अपि च **यज्ञाः** उत्तरे च क्रतवः **सचन्ताम्** । षच समवाये । अस्मास्व् आशिषः अभिप्रेतान्यपि फलानि सन्तु भूतानि सन्तु । **सा** च त्वम् अस्माकं **प्रिया** तृप्तिहेतुः **सुप्रतूर्तिः** सुष्ठु प्रतरणिर् दुःखानाम् । 
 
 यद्वा - सुष्ठु प्रकर्षेण च हिंसिका शत्रूणाम् । 'नसत्तनिषत्त' इति निपातनं निष्ठावद्भावात्क्तिनोपि भवति, 'क्रत्वादयश्च' इत्युत्तरपदाद्युदात्तत्वम् । मघोनी धनवती । 'छन्दसीवनिपौ' इति मत्वर्थीयो वनिः, 'ऋन्नेभ्यः' इति ङीप्, 'श्वयुवमघोनाम्' इति सम्प्रसारणम् । एवङ्गुणोस्माकं भव ॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+तेन यज्ञेन तुष्ट इन्द्रोऽस्मास्विन्द्रियं यज्ञान्तरानुष्ठानाय चक्षुरादिपाटवं दधातु स्थापयतु। तादृशानस्मान्‍रायो यज्ञसाधनानि धनानि यज्ञा उत करिष्यमाणा यज्ञा अपि सचन्तमाश्रयन्तम्। आशिषस्तद्यज्ञफलान्यस्मासु सन्तु। सा तादृशी त्वं नोऽस्मान्प्रति सुप्रतूर्तिः सुष्ठु प्रकर्षेण शत्रूणां हिंसिका मघोनी धनवती च भव।  
 </details>
 </details>
 </div>
@@ -524,16 +603,19 @@ To us be she dear, victorious, bountiful.
 जुष्टि॑र् असि - जु॒षस्व॑ नः।  
 जुष्टा॑ नो ऽसि॒ - जुष्टि॑न् ते गमेयम् ।
 </details>
+
 <details><summary>Keith</summary>
 
 Thou art joy, give joy to us;  
 thou art enjoyed by us [2], may I attain joy from thee.
 </details>
+
 <details><summary>मूलम्</summary>
 
 जुष्टि॑रसि जु॒षस्व॑ नो॒ जुष्टा॑ नः [9]  
 अ॒सि॒ जुष्टि॑न्ते गमेयम् ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 जुष्टिः॑ । अ॒सि॒ । जु॒षस्व॑ । नः॒ । जुष्टा॑ । नः॒ । अ॒सि॒ । जुष्टि॑म् । ते॒ । ग॒मे॒य॒म् । 
@@ -557,7 +639,6 @@ _______
 <div class="js_include" includetitle="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/mano_jyotir.md">
 <details open><summary><h5>मनो ज्योतिर् ...{Loading}...</h5></summary>
 
-
 मनो॒ ज्योति॑र् **जुषता॒म्**, आज्य॒व्ँ  
 विच्छि॑न्नय्ँ **य॒ज्ञँ सम्** इ॒मन् **द॑धातु** ।  
 **बृह॒स्पति॑स् तनुताम्** इ॒मन् नो॒,  
@@ -573,11 +654,18 @@ May be unite this scattered sacrifice;
 May Brhaspati extend it;  
 May the All-gods rejoice herein.
 </details>
+
 <details><summary>मूलम्</summary>
 
 मनो॒ ज्योति॑र्जुषता॒माज्य॒व्ँविच्छि॑न्नय्ँ य॒ज्ञँ समि॒मन्द॑धातु ।  
 बृह॒स्पति॑स्तनुतामि॒मन्नो॒ विश्वे॑ दे॒वा इ॒ह मा॑दयन्ताम्  ॥
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+मनः॑ । ज्योतिः॑ । जु॒ष॒ता॒म् । आज्य॑म् । विच्छि॑न्न॒मिति॒ वि-छि॒न्न॒म् । य॒ज्ञम् । समिति॑ । इ॒मम् । द॒धा॒तु॒ ॥ बृह॒स्पतिः॑ । त॒नु॒ता॒म् । इ॒मम् । नः॒ । विश्वे॑ । दे॒वाः । इ॒ह । मा॒द॒य॒न्ता॒म् ॥ 
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हे अग्ने तव **ज्योतिः** कीदृशं मननीयम् ।  
@@ -589,20 +677,32 @@ May the All-gods rejoice herein.
 
 बृहस्पतिश्च नः अस्माकमिमं यज्ञं तनुतां विश्वे देवाश्च इहास्मिन्कर्मणि मादयन्तां मोद(य)न्ताम् । मद तृप्तियोगे चुरादिः । बृहस्पतिशब्दश्च पारस्करादिः, वनस्पत्यादिश्च । तेन सुडागमः, पूर्वोत्तरपदयोर्युगपत्प्रकृतिस्वरत्वं च ॥
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+मनो ज्योतिरिति।  
+
+कल्पः - “अथान्तर्वेद्यद्भिर्मार्जयते मनो ज्योतिर्जुषता-माज्यं विच्छिन्नं यज्ञँ समिमं दधातु। बृहस्पतिस्तनुतामिमं नो विश्वे देवा इह मादयन्तामिति” इति।   
+
+मनो ज्योतिर्मननीयोऽयमग्निस्तत्तदाहुतिष्वाज्यं सेवताम्। केनापि वैकल्येन विच्छिन्नमिमं यज्ञं वैकल्यपरिहारेण संदधातु। बृहस्पतिः स्वयमेव नोऽस्मदीयमिमं यज्ञ तनुताम्। विश्वे देवा इड यज्ञे मादयन्तां तृप्यन्तु। 
+</details>
 </details>
 </div>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रध्न॒+++(=पिङ्गल!)+++ पिन्व॑स्व।  
 </details>
+
 <details><summary>Keith</summary>
 
 Swell, O ruddy one.
 </details>
+
 <details><summary>मूलम्</summary>
 
 ब्रध्न॒ पिन्व॑स्व … दद॑तो मे॒ मा क्षा॑यि कुर्व॒तो मे॒ मोप॑दसत्।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 ब्रध्न॑ । पिन्व॑स्व ।  
@@ -627,15 +727,18 @@ Swell, O ruddy one.
 दद॑तो मे॒ मा क्षा॑यि।  
 कु॒र्व॒तो मे॒ मोप॑दसत्।
 </details>
+
 <details><summary>Keith</summary>
 
 May (my act) as I give be not destroyed; may (my act) as I work not perish.
 </details>
+
 <details><summary>मूलम्</summary>
 
 दद॑तो मे॒ मा क्षा॑यि।  
 कु॒र्व॒तो मे॒ मोप॑दसत्।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 दद॑तः । मे॒ । मा । क्षा॒यि॒ ।  
@@ -657,22 +760,27 @@ _______
 
 8अन्वाहार्यम् आसन्नम् अभिमन्त्रयते - प्रजापतेरिति ॥ 
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 प्र॒जाप॑तेर्भा॒गो॑ऽस्यूर्ज॑स्वा॒न्पय॑स्वान् प्राणापा॒नौ मे॑ पाहि 
 </details>
+
 <details><summary>Keith</summary>
 
 Thou art the portion of Prajapati, 
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र॒जाप॑तेर् भा॒गो॑ ऽसि ।
 </details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑तेर्भा॒गो॑ऽसि ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 प्र॒जाप॑ते॒रिति॑ प्र॒जा-प॒तेः॒ । भा॒गः । अ॒सि॒ ।
@@ -695,15 +803,18 @@ Thou art the portion of Prajapati,
 
 ऊर्ज॑स्वा॒न् पय॑स्वान् प्राणापा॒नौ मे॑ पाहि ।
 </details>
+
 <details><summary>Keith</summary>
 
 full of strength and milk  
 Protect my expiration and inspiration;
 </details>
+
 <details><summary>मूलम्</summary>
 
 ऊर्ज॑स्वा॒न्पय॑स्वान् प्राणापा॒नौ मे॑ पाहि ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 ऊर्ज॑स्वान् । पय॑स्वान् ।  प्रा॒णा॒पा॒नाविति॑ प्राण-अ॒पा॒नौ । मे॒ । पा॒हि॒ । 
@@ -728,14 +839,17 @@ Protect my expiration and inspiration;
 
 स॒मा॒न॒व्या॒नौ मे॑ पाहि ।
 </details>
+
 <details><summary>Keith</summary>
 
 protect my breathing together and cross-breathing; 
 </details>
+
 <details><summary>मूलम्</summary>
 
 स॒मा॒न॒व्या॒नौ मे॑ पाहि ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 स॒मा॒न॒व्या॒नाविति॑ समान-व्या॒नौ । मे॒ । पा॒हि॒ । 
@@ -750,14 +864,17 @@ protect my breathing together and cross-breathing;
 
 उ॒दा॒न॒व्या॒नौ मे॑ पा॒हि ।
 </details>
+
 <details><summary>Keith</summary>
 
 protect my out-breathing and cross-breathing.
 </details>
+
 <details><summary>मूलम्</summary>
 
 उ॒दा॒न॒व्या॒नौ मे॑ पा॒हि ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 उ॒दा॒न॒व्या॒नावित्यु॑दान-व्या॒नौ । मे॒ । पा॒हि॒ । 
@@ -772,63 +889,95 @@ protect my out-breathing and cross-breathing.
 
 भुक्तस्यान्नरसस्य शरीरे साम्येन नयनं समानव्यापारः। उद्गारादिरुदानव्यापारः। कृत्स्नासु शरीरनाडीषु व्याप्य प्राणापानवृत्योः संधिकाले शरीरस्य बलप्रदानं व्यानव्यापारः। अत एव च्छन्दोगा आमनन्ति – ‘यद्वै प्राणिति स प्राणो यदपानिति सोऽपानः। अथ यः प्राणापानयोः संधिः स व्यानो यो व्यानः सा वाक्तस्मादप्राणन्ननपानन्वाचमभिव्याहरति। अतो यान्यन्यानि वीर्यवन्ति कर्माणि यथाऽग्नेर्मन्थनमाजेः सरणं दृढस्य धनुष आयमनमप्राणन्ननपानँ-स्तानि करोति’ इति। एवं बहुविधव्यापारहेतुत्वात्प्राधान्यं द्योतयितुं व्यानस्य द्विरुक्तिः। यद्वा नागकूर्मादिवायुविशेषाणामत्रान्तर्भामभिप्रेत्य पुनरप्युक्तिः। 
 </details>
-
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/03_bhaxyAnumantraNAdi/axitosi.md">
 <details open><summary><h5>अक्षितोऽसि ...{Loading}...</h5></summary>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अक्षि॑तो॒ऽस्यक्षि॑त्यै त्वा॒ मा मे॑ क्षेष्ठा अ॒मुत्रा॒मुष्मि॑न्लो॒के  ॥
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अक्षि॑तोऽसि ।
 </details>
+
 <details><summary>Keith</summary>
 
 Thou art imperishable,
 </details>
+
 <details><summary>मूलम्</summary>
 
 अक्षि॑तोऽसि ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+अक्षि॑तः । अ॒सि॒ ।  
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अक्षितः अक्षीणोसि ।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अक्षि॑त्यै त्वा +++(ददामि)+++।
 </details>
+
 <details><summary>Keith</summary>
 
 for imperishableness thee;
 </details>
+
 <details><summary>मूलम्</summary>
 
 अक्षि॑त्यै त्वा ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+अक्षि॑त्यै । त्वा॒ ।  
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अक्षित्यै इह चामुत्र चाक्षयाय त्वां ददामीति सामर्थ्यात् ।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मा मे॑ क्षेष्ठा अ॒मुत्रा॒मुष्मि॑ल्ँ लो॒के  ॥  [10]
 </details>
+
 <details><summary>Keith</summary>
 
 mayst thou not perish for me, yonder, in yonder world.
 </details>
+
 <details><summary>मूलम्</summary>
 
 मा मे॑ क्षेष्ठा अ॒मुत्रा॒मुष्मि॑न्लो॒के  ॥  [10]
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+मा । मे॒ । क्षे॒ष्ठाः॒ । अ॒मुत्र॑ । अ॒मुष्मि॑न् । लो॒के ॥ 
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 स त्वममुत्र परलोके अस्मि[मुष्मि]न्नैन्द्रे ब्राह्मे प्राजापत्ये वा मा क्षेष्ठाः परलोके क्षयं मा गमः । यद्वा - मे ममामुष्मिन् लोके यदाहं परलोके भविष्यामि तदा तत्र ममोपभोगार्थम् । इह हि कृत्वा परत्र भुञ्जते । 'क्षीयते वा अमुष्मिन्लोके' इत्यादि ब्राह्मणम् ॥
 
 इति षष्ठे तृतीयोनुवाकः ॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+हेऽन्वाहार्य त्वमक्षितोऽक्षीणोऽसि। अपरिमितो निरुप्य इति ब्राह्मणोक्तेर्दक्षिणाग्नावन्वाहार्यं महान्तमपरिमितमोदनं पचतीति सूत्रकारोक्तेश्च।
+
+तस्मात्परलोकेऽप्यक्षित्यै त्वां ददामीति शेषः। तेनाभिप्रायेण दीयमानत्वादमुत्र परलोके मम भोगाय मा क्षेष्ठाः क्षयं मा प्राप्नुहि। तस्मादहमप्यमुष्मिल्ँलोके त्वां यथेच्छमनुभवामीति शेषः।  
 </details>
 </details>
 </div>

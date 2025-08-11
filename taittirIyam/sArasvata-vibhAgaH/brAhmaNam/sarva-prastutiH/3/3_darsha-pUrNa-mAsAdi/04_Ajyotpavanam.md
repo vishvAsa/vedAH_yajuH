@@ -1,8 +1,8 @@
 ---
 title: ०४ आज्योत्प्लवनम्
 unicode_script: devanagari
----
 
+---
 ## आज्य-विधानम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -196,7 +196,7 @@ unicode_script: devanagari
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "अ॒ग्निस् ते॒ तेजो॒ मा विनै॒द्" इत्य् आ॒हाहिँ॑सायै ।
-स्फ्यस्य॒ वर्त्म॑न्थ् **सादयति** - य॒ज्ञस्य॒ सन्त॑त्यै ।
+स्फ्यस्य॒ वर्त्म॑न्त् **सादयति** - य॒ज्ञस्य॒ सन्त॑त्यै ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -344,7 +344,7 @@ unicode_script: devanagari
 
 त्रिर्यजु॑षा ।
 त्रय॑ इ॒मे लो॒काः ॥19 ॥  
-ए॒षाल्ँलो॒काना॒माप्त्यै॑ ।
+ए॒षाल्ँ लो॒काना॒माप्त्यै॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>

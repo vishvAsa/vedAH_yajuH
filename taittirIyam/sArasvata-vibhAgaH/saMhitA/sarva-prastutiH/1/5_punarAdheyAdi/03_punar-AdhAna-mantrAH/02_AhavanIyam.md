@@ -23,11 +23,13 @@ With her inspiration from his expiration,
 She wandereth between the worlds;  
 The bull discerneth the heaven.
 </details>
+
 <details><summary>मूलम्</summary>
 
 अ॒स्य प्रा॒णाद॑पान॒त्य॑न्तश्च॑रति रोच॒ना ।  
 व्य॑ख्यन्महि॒षस्सुवः॑  ॥
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अपानतीति प्रथमपादान्तः । अस्याग्नेः **रोचना** दीप्तिः रोचनशीला । 'अनुदात्तेतश्च' इति युच् । **अन्तश्** शरीरेषु **चरति** । किं कुर्वती **प्राणात्** प्राणनव्यापारात् अनन्तरम् **अपानती** अपाननव्यापारं कुर्वती । जीवानां ऊर्ध्वगमनं प्राणनं, अधोगमनम् अपाननम् । जीवश्श्वासवायुः ।  
@@ -39,9 +41,6 @@ The bull discerneth the heaven.
 </details>
 </details>
 </div>
-
-
-
 
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -66,6 +65,7 @@ In rage or through misfortune,
 That of thee, O Agni, be in good order,  
 Again thee we relight.
 </details>
+
 <details><summary>मूलम्</summary>
 
 यत्त्वा॑ [10] क्रु॒द्धᳶ प॑रो॒वप॑ ..  
@@ -73,6 +73,7 @@ Again thee we relight.
 सु॒कल्प॑मग्ने॒ तत्तव॒ ..  
 पुन॒स्त्वोद्दी॑पयामसि  ॥
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तवेति तृतीयपादान्तः ॥ **यत्** येन कारणेन ऋद्ध्यभावेन **क्रुद्धो** ऽहं त्वामपि **परोवप** परोप्तवान् उद्वासितवानस्मि । 'णलुत्तमो वा' इति णित्त्वाभावः । 'यद्वृत्तान्नित्यम्' इति निघाताभावे 'तिङि चोदात्तवति' इति गतेरनुदात्तत्वम्, समासश्च । लिति प्रत्ययात्पूर्वस्योदात्तत्वम् । 
@@ -81,9 +82,6 @@ Again thee we relight.
 </details>
 </details>
 </div>
-
-
-
 
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -108,11 +106,13 @@ Was spread over the earth,
 That the Adityas, the All-gods  
 And the Vasus gathered together.
 </details>
+
 <details><summary>मूलम्</summary>
 
 यत्ते॑ म॒न्युप॑रोप्तस्य पृथि॒वीमनु॑ दध्व॒से ।  
 आ॒दि॒त्या विश्वे॒ तद्दे॒वा वस॑वश्च स॒माभ॑रन्न्  ॥
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 **ते** तव **मन्युपरोप्तस्य** मन्युना हेतुना मयोद्वासितस्य । 'तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् । **यत्** तेजः **पृथिवीम् अनुदध्वसे** ध्वस्तं पृथिवीम् अनुप्रविश्य वा नष्टं बभूव **तदादित्या विश्वे देवा वसवश्च समाभरन्** समाभरन्तु । 'हृग्रहोः' इति भत्वम् ॥

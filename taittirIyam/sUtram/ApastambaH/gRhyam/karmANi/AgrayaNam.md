@@ -6,7 +6,6 @@ unicode_script: devanagari
 ---
 अस्य विस्तारो [ऽत्र](../../../../../../general/ArAdhanam/homa/visheShaH/AgrayaNam/)।
 
-
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/21_AgrayaNasthAlIpAkaH/19_06_anAhitAgnerAgrayaNam.md">
 <details open><summary><h2>१९ ०६ अनाहिताग्नेराग्रयणम्  ...{Loading}...</h2></summary>
 
@@ -25,8 +24,6 @@ unicode_script: devanagari
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/01_parameShThyasi_paramAm.md">
 <details open><summary><h4>०१ परमेष्ठ्यसि परमाम् ...{Loading}...</h4></summary>
-
-
 
 +++(अगारस्तूपे स्थितः)+++ प॒र॒मे॒ष्ठ्य् असि॑।  
 पर॒मां माँ॒ श्रियं॑ गमय ।  

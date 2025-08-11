@@ -2,7 +2,8 @@
 title = "०८ संवापादिः"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/1_darshapUrNamAsAdi/08_saMvApAdiH"  newLevelForH1="1" includeTitle="true">
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/1_darshapUrNamAsAdi/08_saMvApAdiH">
+<details open><summary><h1>०८ संवापादिः ...{Loading}...</h1></summary>
 
 २ उपरिष्टाद् बृहती
 ३-४, ११ एकपदा गायत्री
@@ -14,23 +15,72 @@ ____
 
 पिष्टानि संवपति
 </details>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
+<details open><summary><h3>देवस्य त्वा सवितुः ...{Loading}...</h3></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे॒॑+++(=अनुज्ञायां)+++,  
++++(देवाध्वर्यू→)+++ ऽश्विनो॑र् बा॒हुभ्या॑म्,  
+पू॒ष्णो हस्ता॑भ्याम्…
+</details>
+
+<details><summary>Keith</summary>
+
+On the instigation of god Savitr,  
+with the arms of the Aśvins,  
+with the hands of Pusan.
+</details>
+
+<details><summary>मूलम्</summary>
+
+दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे॑ऽश्विनो॑र् बा॒हुभ्या॑म्,
+पू॒ष्णो हस्ता॑भ्यां॒…
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+दे॒वस्य॑ । त्वा॒ । स॒वि॒तुः । प्र॒स॒व इति॑ प्र-स॒वे । अ॒श्विनोः॑ । बा॒हुभ्या॒मिति॑ बा॒हु-भ्या॒म् । पू॒ष्णः । हस्ता॑भ्याम् ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+**सवितुस्** सर्वप्रेरकस्य **देवस्य** **प्रसवे** प्रेरणायां तेनैव प्रेरितोहं  
+
+'थाथघञ्क्ताजबित्रकाणाम्' (पा.सू. 6.2.144) इति सूत्रेण प्रसवशब्दोन्तोदात्तः । **अश्विनोर्बाहुभ्यां** नत्वात्मीयाभ्यामिति स्तुतिः । 'अश्विनौ हि देवानामध्वर्यू आस्ताम्' (तै.ब्रा. 3.2.4) । तथा **पूष्ण** एव **हस्ताभ्यां** पाणितलाभ्याम् । उदात्तनिवृत्तिस्वरेण षष्ठ्या उदात्तत्वम्॥
+______________
+सावित्रो व्याख्यातः । सवितुर् देवस्यानुज्ञाने **अश्विनोर्** एव **बाहुभ्यां पूष्ण** एव **हस्ताभ्याम्** । न त्व् आत्मीयाभ्यामिति ॥
+______________
+तत्र सावित्रो व्याख्यातः ।  
+सवितुर्देवस्य प्रसवे अनुज्ञायां लब्धायामेव  
+अश्विनोरेव बाहुम्यां नात्मीयाभ्यां  
+पूष्णो हस्ताभ्यां
+</details>
+</details>
+</div>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सव्ँ-व॑पामि ।
 </details>
+
 <details><summary>Keith</summary>
 
 I pour together.
 </details>
+
 <details><summary>मूलम्</summary>
 
 सव्ँ व॑पामि ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+समिति॑ । व॒पा॒मि॒ । 
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 1पिष्टानि संवपति - समिति ॥ समित्येकीभावे; सह प्रक्षिपामि । सावित्रशेषश्चायम् । 'अग्नये जुष्टम्' (तै.सं. 1.1.4) इत्यपि लभ्यते ॥
 </details>
-
 
 ____
 
@@ -38,28 +88,36 @@ ____
 
 प्रणीता मदन्तीरानीयमानाः प्रतिमन्त्रयते
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/08_saMvApAdiH/07_sam_Apo.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/08_saMvApAdiH/07_sam_Apo.md">
+<details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
 
-सम् +++(प्रणीता-)+++आपो॑ +++(मदन्ती/क्वथित)+++अ॒द्भिर्॑ अग्मत॒  
-सम् +++(पिष्टरूपा)+++ ओष॑धयो॒ रसे॑न ।  
-सँ रे॒वती॒र्+++(=धनवत्यः)+++ जग॑तीभि॒र्+++(=जङ्गमाभिः)+++  
-मधु॑मती॒र् मधु॑मतीभिस् सृज्यध्वम्  ॥
+सम् +++(प्रणीता-)+++आपो॑ +++(मदन्ती/क्वथित)+++अ॒द्भिर्॑ **अग्मत॒**  
+सम् +++(पिष्टरूपा)+++ ओष॑धयो॒ रसे॑न +++(→परस्पर-जिन्वनम् water cycle ब्राह्मणय् उक्तम्)+++।  
+सँ रे॒वती॒र्+++(=धनवत्यः →आपः)+++ जग॑तीभि॒र्+++(=जङ्गमाभिः →पशवः)+++  
+मधु॑मती॒र् +++(→ओषधीः)+++ मधु॑मतीभिस् **सृज्यध्वम्**  ॥
+
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/08_saMvApAdiH/07_sam_Apo.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/08_saMvApAdiH/07_sam_Apo.md">
+<details open><summary><h5>सर्वाष् टीकाः ...{Loading}...</h5></summary>
 <details><summary>Keith</summary>
 
 The waters have joined with the waters, the plants with sap.  
 Join ye rich ones with the moving ones, sweet ones with the sweet.
 </details>
+
 <details><summary>मूलम्</summary>
 
 समापो॑ अ॒द्भिर॑ग्मत॒ समोष॑धयो॒ रसे॑न ।     
 सँ रे॒वती॒र्जग॑तीभि॒र्मधु॑मती॒र्मधु॑मतीभिस्सृज्यध्वम्  ॥  
 +++([वाजसनेयीसंहितानुसारेण](http://titus.uni-frankfurt.de/texte/etcd/ind/aind/ved/yvw/vs/vst.htm) अत्र मन्त्रविभागः कृतः)+++
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+समिति॑ । आपः॑ । अ॒द्भिरित्य॑त्-भिः । अ॒ग्म॒त॒ । समिति॑ । ओष॑धयः । रसे॑न । 3C । समिति॑ । रे॒वतीः॑ । जग॑तीभिः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । मधु॑मतीभि॒रिति॒ मधु॑-म॒ती॒भिः॒ । सृ॒ज्य॒ध्व॒म् ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 2प्रणीता मदन्तीरानीयमानाः प्रतिमन्त्रयते - समाप इति वस्वष्टवस्वादित्यपदया उपरिष्टाद्बृहत्या ॥  
@@ -72,46 +130,58 @@ Join ye rich ones with the moving ones, sweet ones with the sweet.
 </details>
 </div>
 
-
-
-
-
 ____
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अपः परिप्लावयति
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒द्भ्यᳶ परि॒ प्रजा॑तास् स्थ +++(हे ओषधयः!)+++।   
+अ॒द्भ्यᳶ परि॒ प्रजा॑तास् स्थ +++(हे ओषधयः पार्थिवाः!)+++।   
 सम॒द्भिᳶ पृ॑च्यध्वम् ।
 </details>
+
 <details><summary>Keith</summary>
 
 From the waters ye are born, be united with the waters.
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अ॒द्भ्यᳶ परि॒ प्रजा॑तास्स्थ॒ सम॒द्भिᳶ पृ॑च्यध्वम्
 </details>
+
 <details><summary>मूलम्</summary>
 
 अ॒द्भ्यᳶ परि॒ प्रजा॑तास्स्थ ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒द्भ्य इत्य॑त्-भ्यः । परीति॑ । प्रजा॑ता॒ इति॒ प्र-जा॒ताः॒ । स्थ॒ । 
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 3अपः परिप्लावयति - अद्भ्य इति गायत्र्यैकपदया यजुरन्तया ॥ हे ओषधयः यूयं अद्भ्यः परिप्रजाताः अद्भ्य एव सर्वास्सम्भूताः ।
 </details>
+
 <details><summary>मूलम्</summary>
 
 सम॒द्भिᳶ पृ॑च्यध्वम् ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+समिति॑ । अ॒द्भिरित्य॑त्-भिः । पृ॒च्य॒ध्व॒म् । 
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 यस्मादेवं स्थ, तस्मादाभिरद्भिस्सम्पृच्यध्वं सम्पृक्ता भवत । कर्मणि लकारः । अद्भिस्सम्पर्केण युष्माकमभिवृद्धिरिति । 'यथा सुवृष्टे' (तै.ब्रा. 3.2.8) इत्यादि ब्राह्मणम् । 'ऊडिदम्' (पा.सू. 6.1.171) इत्यादिना अद्भ्यो विभक्तेरुदात्तत्वम् । प्रकृष्टा जाताः प्रजाता इति प्रादिसमासः प्राचार्यवत् । गतित्वाभावात् अव्ययपूर्वपदप्रकृतिस्वरत्वम् (पा.सू. 6.2.2) । यद्वा अन्तर्भावितण्यर्थात् कर्मणि निष्ठायां 'गतिरनन्तरः' (पा.सू. 6.2.49) इति पूर्वपदप्रकृतिस्वरत्वम् ॥
 </details>
-
 
 ____
 
@@ -119,23 +189,31 @@ ____
 
 आलोडयति
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(प्रजानां)+++ जन॑यत्यै त्वा॒ सय्ँयौ॑मि+++(=मिश्रीकरोमि)+++ ।
 </details>
+
 <details><summary>Keith</summary>
 
 For generation I unite thee.
 </details>
+
 <details><summary>मूलम्</summary>
 
 जन॑यत्यै त्वा॒ सय्ँयौ॑मि ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+जन॑यत्यै । त्वा॒ । समिति॑ । यौ॒मि॒ । 
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 4आलोडयति - जनयत्या इति ॥ जनयत्यै प्रजानां जननाय त्वां संयौमि मिश्रीकरोमि । 'अमेरतिः' (उ.सू. 499) इति विधीयमानोऽतिप्रत्ययो बहुलवचनाज्जनेर्ण्यन्तादपि भवति । 'छन्दस्युभयथा' (पा.सू. 3.4.117) इति तस्य सार्वधातुकत्वात् णिलोपाभावः ॥
 </details>
-
 
 ____
 
@@ -143,32 +221,47 @@ ____
 
 व्यूह्याभिमृशति
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ॒ग्नये॑ त्वा +++(ऽभिमृशामि)+++।   
 अ॒ग्नीषोमा॑भ्याम् [त्वा]  +++(ऽभिमृशामि)+++।  
 </details>
+
 <details><summary>Keith</summary>
 
 For Agni thee, for Agni and Soma.
 </details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्नये॑ त्वा ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒ग्नये॑ । त्वा॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 5व्यूह्याभिमृशति - अग्नय इति ॥ अग्न्यर्थं त्वामभिमृशामीति शेषः ॥
 </details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्नीषोमा॑भ्याम्  [ त्वा ] ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒ग्नीषोमा॑भ्या॒मित्य॒ग्नी-सोमा॑भ्याम् ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 6अग्नीषोमाभ्यामित्यत्र त्वेत्यनुषज्यते । पूर्ववच्छेषः । अभिमर्शेन चान्यस्माद्व्यावृत्तिः क्रियते ॥
 </details>
-
 
 ____
 
@@ -176,23 +269,31 @@ ____
 
 पिण्डं करोति
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-म॒खस्य॒ शिरो॑ऽसि ।
+म॒खस्य॒ शिरो॑ऽसि ।+++(5)+++
 </details>
+
 <details><summary>Keith</summary>
 
 Thou art the head of Makha.
 </details>
+
 <details><summary>मूलम्</summary>
 
 म॒खस्य॒ शिरो॑ऽसि ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+म॒खस्य॑ । शिरः॑ । अ॒सि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 7पिण्डं करोति - मखस्य शिरोसीति ॥ यज्ञो वै मखः (तै.ब्रा. 3.2.8), तस्य शिरः मुख्यमङ्गमसि, प्राधान्यात् ॥
 </details>
-
 
 ____
 
@@ -200,24 +301,31 @@ ____
 
 अधिश्रयति
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 घ॒र्मो॑ ऽसि वि॒श्वायुः॑।
 </details>
+
 <details><summary>Keith</summary>
 
 Thou art the cauldron that contains all life.
 </details>
+
 <details><summary>मूलम्</summary>
 
 घ॒र्मो॑ऽसि वि॒श्वायुः ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+घ॒र्मः । अ॒सि॒ । वि॒श्वायु॒रिति॑ वि॒श्व-आ॒युः॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 8अधिश्रयति - घर्म इति ॥ घर्मः प्रवर्ग्य आदित्यो वा, स एवासि, उष्णत्वात् । विश्वमायुर्येन क्रियत इति विश्वायुः, विश्वायुर्नामासि ॥ 'बहुव्रीहौ विश्वं संज्ञायां' (पा.सू. 6.2.106) इति पूर्वपदान्तोदात्तत्वम् ॥
 </details>
-
-
 
 ____
 
@@ -225,26 +333,41 @@ ____
 
 प्रथयति
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/08_saMvApAdiH/uru.md">
-<details open><summary><h5>उरु ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/08_saMvApAdiH/uru.md">
+<details open><summary><h6>उरु ...{Loading}...</h6></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ॒रु प्र॑थस्व ।  
 उ॒रु ते॑ य॒ज्ञप॑तिᳶ प्रथताम् ।
 </details>
+
 <details><summary>Keith</summary>
 
 Be extended wide, let the lord of the sacrifice be extended wide.
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 उ॒रु प्र॑थस्वो॒रु ते॑ य॒ज्ञप॑तिᳶ प्रथताम्
 </details>
+
 <details><summary>मूलम्</summary>
 
 उ॒रु प्र॑थस्व ।  
 उ॒रु ते॑ य॒ज्ञप॑तिᳶ प्रथताम् ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+उ॒रु । प्र॒थ॒स्व॒ ।  
+उ॒रु । ते॒ । य॒ज्ञप॑ति॒रिति॑ य॒ज्ञ-प॒तिः॒ । प्र॒थ॒ता॒म् । 
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उ॒रु । प्र॒थ॒स्व॒ । उ॒रु । ते॒ । य॒ज्ञप॑ति॒रिति॑ य॒ज्ञ-प॒तिः॒ । प्र॒थ॒ता॒म् ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 9प्रथयति - उर्विति ॥ उरु यथा भवति तथा प्रथस्व । यज्ञपतिः यजमानः अनेन तवोरुप्रथनेन उरु प्रथतां पश्वादिभिः । 'पत्यावैश्वर्ये' (पा.सू. 6.2.18) इति पूर्वपदप्रकृतिस्वरत्वम् ॥
@@ -252,31 +375,37 @@ Be extended wide, let the lord of the sacrifice be extended wide.
 </details>
 </div>  
 
-
-
 ____
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 श्लक्ष्णीकरोति
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वच॑ङ् गृह्णीष्व ।
 </details>
+
 <details><summary>Keith</summary>
 
 Grasp the skin.  
 </details>
+
 <details><summary>मूलम्</summary>
 
 त्वच॑ङ्गृह्णीष्व ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+त्वच॑म् । गृ॒ह्णी॒ष्व॒ । 
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 10श्लक्ष्णीकरोति - त्वचमिति ॥ त्वचं गृह्णीष्व त्वचा अतिश्लक्ष्णतनूर्भव । 'सर्वमेवैनँ सतनुम्' (तै.ब्रा. 3.2.8) इत्यादि ब्राह्मणम् ॥
 </details>
-
 
 ____
 
@@ -284,25 +413,34 @@ ____
 
 पर्यग्नि करोति
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्तरि॑तँ॒ रक्षो॒  
-ऽन्तरि॑ता॒ अरा॑तयः ।
+ऽन्तरि॑ता॒ अरा॑तयः +++(→दि॒वि नाको॒ नामा॒ग्नी र॑क्षो॒हा)+++।  
++++(अप्रदग्धश् च यजमानः।)+++
 </details>
+
 <details><summary>Keith</summary>
 
 I The Raksas is obstructed, the evil spirits are obstructed.
 </details>
+
 <details><summary>मूलम्</summary>
 
 अन्तरि॑तँ॒ रक्षो॒ऽन्तरि॑ता॒ अरा॑तयः ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒न्तरि॑त॒मित्य॒न्तः-इ॒त॒म् । रक्षः॑ । अ॒न्तरि॑ता॒ इत्य॒न्तः-इ॒ताः॒ । अरा॑तयः । 
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 11पर्यग्नि करोति - अन्तरितमिति यजुरादिकयैकपदया गायत्र्या ॥  
 अन्तरितं तिरोहितमपनीतम् । 'अन्तरपरिग्रहे' (पा.सू. 1.4.65) इति गतिसंज्ञिकत्वात् 'गतिरनन्तरः' इति पूर्वपदप्रकृतिस्वरत्वम् । व्याख्यातमन्यत् (तै.सं. 1.1.2) । 'घर्मो वा एषोऽशान्तः' (तै.ब्रा. 3.2.8) इत्यादि ब्राह्मणम् ॥
 </details>
-
 
 ____
 
@@ -310,27 +448,37 @@ ____
 
 श्रपयति
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दे॒वस् त्वा॑ सवि॒ता **श्र॑पयतु॒**   
 वर्षि॑ष्ठे॒ अधि॒ नाके॑+++(=द्युवह्नौ रक्षोहन्त्रे)+++।   
 अ॒ग्निस् ते॑ त॒नुव॒म् मा ऽति॑ धाक् ।
 </details>
+
 <details><summary>Keith</summary>
 
 Let the god Savitr make thee ready on the highest firmament.  
 May Agni burn not too much thy body.
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 － दे॒वस्त्वा॑ सवि॒ता श्र॑पयतु॒ वर्षि॑ष्ठे॒ अधि॒ नाके॒ऽग्निस्ते॑ त॒नुव॒म्माऽति॑ धाक्
 </details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वस्त्वा॑ सवि॒ता श्र॑पयतु॒    
 वर्षि॑ष्ठे॒ अधि॒ नाके॑।  
 अ॒ग्निस्ते॑ त॒नुव॒म्माऽति॑ धाक् ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+दे॒वः । त्वा॒ । स॒वि॒ता । श्र॒प॒य॒तु॒ । वर्षि॑ष्ठे । अधीति॑ । नाके॑ । 13N । अ॒ग्निः । ते॒ । त॒नुव॑म् । मा । अतीति॑ । धा॒क् ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 12श्रपयति - देव इति ॥ देवस्सविता सर्वस्य प्रेरकः त्वां श्रपयतु पक्वं करोतु । किमर्थं? - वर्षिष्ठे वृद्धतमे नाके सुखरूपे स्वर्गे निमित्ते । 'निमित्तात्कर्म(सं)योगे' (पा.सू. 2.3.36 वा 6) इति सप्तमी । नाके स्वर्गार्थं त्वां श्रपयतु । सप्तम्यर्थमेवाधिशब्दो द्योतयति । 'अधिपरी अनर्थकौ' (पा.सू. 1.4.93) इति कर्मप्रवचनीयसंज्ञा । यद्वा - देवस्सविता त्वां श्रपयतु ।
@@ -346,20 +494,28 @@ ____
 
 गार्हपत्यम् अभिमन्त्रयते
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/agne_havyam.md">
-<details open><summary><h5>अग्ने हव्यम् ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/agne_havyam.md">
+<details open><summary><h6>अग्ने हव्यम् ...{Loading}...</h6></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्ने॑ ह॒व्यँ र॑क्षस्व ॥ [6]
 </details>
+
 <details><summary>Keith</summary>
 
 O Agni, guard the offering.
 </details>
+
 <details><summary>मूलम्</summary>
 
 अग्ने॑ ह॒व्यँ र॑क्षस्व ॥ [6]
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+अग्ने॑ । ह॒व्यम् । र॒क्ष॒स्व॒ ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 17गार्हपत्यमभिमन्त्रयते - अग्न इति ॥ हे अग्ने गार्हपत्य, इदं हव्यं हवनाय निरुप्तं रक्षस्व । व्यत्ययेनात्मनेपदम् । 'छन्दसि च' (पा.सू. 5.1.67) इति यः ॥
@@ -378,23 +534,31 @@ ____
 
 भस्मनाभिवासयति
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सम् ब्रह्म॑णा पृच्यस्व ।
+सम् ब्रह्म॑णा पृच्यस्व +++(पशु-सम्बन्धाय, अ-खल्वाटत्वाय च)+++।
 </details>
+
 <details><summary>Keith</summary>
 
 Be united with our prayer.
 </details>
+
 <details><summary>मूलम्</summary>
 
 सम्ब्रह्म॑णा पृच्यस्व ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+समिति॑ । ब्रह्म॑णा । पृ॒च्य॒स्व॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 14भस्मनाभिवासयति - समिति ॥ ब्रह्मणा बृहता अनेन भस्मना संपृच्यस्व संपृक्तो भव हे पुरोडाश । पृचेः कर्मणि लकारः । 'मस्तिष्को वै पुरोडाशः' (तै.ब्रा. 3.2.8) इत्यादि ब्राह्मणम् । 'पशोर्वै प्रतिमा परोडाशः' (तै.ब्रा. 3.2.8) इति च ब्राह्मणम् ॥
 </details>
-
 
 ____
 
@@ -402,6 +566,7 @@ ____
 
 पात्रनिर्णेजनीर् अपो निनयति
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ए॒क॒ताय॒ स्वाहा॑ ।   
@@ -409,21 +574,30 @@ ____
 त्रि॒ताय॒ स्वाहा॑ ।  
 +++('तत एकतोजायत' (तै.ब्रा. 3.2.8) इत्यादिब्राह्मणे प्रसिद्धाः तद्-वाच्याः पित्रादयः अग्निष्वात्तादयः ।)+++
 </details>
+
 <details><summary>Keith</summary>
 
 Hail to Ekata, hail to Dvita, hail to Trita.
 
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 एक॒ताय॒ स्वाहा॑ द्वि॒ताय॒ स्वाहा॑ त्रि॒ताय॒ स्वाहा॑ ॥ [12]
 </details>
+
 <details><summary>मूलम्</summary>
 
 एक॒ताय॒ स्वाहा॑ ।   
 द्वि॒ताय॒ स्वाहा॑ ।    
 त्रि॒ताय॒ स्वाहा॑ ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+ए॒क॒ताय॑ । स्वाहा॑ । द्वि॒ताय॑ । स्वाहा॑ । त्रि॒ताय॑ । स्वाहा॑ ॥ [12]
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 15पात्रनिर्णेजनीरपो निनयति - एकतायेति ॥ एकतादयस्संज्ञाशब्दाः 'तत एकतोजायत' (तै.ब्रा. 3.2.8) इत्यादिब्राह्मणे प्रसिद्धाः तद्वाच्याः पित्रादयः अग्निष्वात्तादयः । तेभ्य इमा आहुतयस्सन्त्विति स्वयमेव सरस्वत्याह; न त्वहं मनुष्य इति । एकतोभिपातादस्यास्ति जन्मेत्येकतः । अर्श आदेराकृतिगणत्वादच्प्रत्ययः (पा.सू. 5.2.127) । 'तद्धितश्चासर्वविभक्तिः' (पा.सू. 1.1.38) इत्यव्ययत्वात् 'अव्ययानां भमात्रे टिलोपः' (पा.सू. 4.2.104 वा 2), अस्तिसामानाधिकरण्याभावेपि 'बहुळं छन्दसि' (पा.सू. 5.2.122) इति मत्वर्थीयो दृश्यते । यथा 'सोन्तर्वानभवत्' (तै.ब्रा. 2.2.9) इति । एवं द्वितस्त्रितोपि द्रष्टव्यः । 'देवा वै हविर्भृत्वाऽब्रुवन्' (तै.ब्रा. 3.2.8) इति ब्राह्मणम् ॥
@@ -431,6 +605,6 @@ Hail to Ekata, hail to Dvita, hail to Trita.
 इत्यष्टमोनुवाकः
 </details>
 
-
  इत्यष्टमोनुवाकः  
+</details>
 </div>

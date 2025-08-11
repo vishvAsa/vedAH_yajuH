@@ -3,8 +3,8 @@ title = "१८ अग्निहोत्रस्य सर्वक्रत
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/3_hotR-brAhmaNAdi/07_agnihotrasya_sarvakratusadbhAvasAdhanena_prasha"  newLevelForH1="1" includeTitle="true">
-
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/3_hotR-brAhmaNAdi/07_agnihotrasya_sarvakratusadbhAvasAdhanena_prasha">
+<details open><summary><h1>०७ अग्निहोत्रस्य सर्वक्रतुसद्भावसाधनेन प्रशंसा ...{Loading}...</h1></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र॒जाप॑ति॒ᳶ पुरु॑षमसृजत ।
@@ -19,7 +19,6 @@ unicode_script = "devanagari"
 
 1प्रजापतिः पुरुषमित्यादि ॥ प्रजापतिः परमात्मा पुरुषं हिरण्यगर्भमसृजत ।
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -41,7 +40,6 @@ unicode_script = "devanagari"
 
 अथाग्निः अनन्तरसृष्टोऽब्रवीत् - मम अन्नं अदनीयं अयमस्तु पुरुष इति, तद्व्यतिरिक्तस्याभावात् ।
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -95,7 +93,6 @@ unicode_script = "devanagari"
 
 अथ तद्धोमेन आत्मानमस्पृणोत् अरक्षत्, 'स्पृ प्रीतौ' अत्र रक्षणे । यद्वा - तैरात्मानमप्रीणयत् अरक्षदित्युक्तं भवति ॥
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -235,7 +232,6 @@ unicode_script = "devanagari"
 लोमादिपञ्चकं चात्मनः स्पृणोति ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 च॒तुरुन्न॑यति ।  
@@ -248,7 +244,6 @@ unicode_script = "devanagari"
 
 च॒तुरुन्न॑यति॒ द्विर्जु॑होति॒ , षड्ढो॑तारमे॒व तद्य॑ज्ञक्र॒तुमा॑प्नोति पशुब॒न्धम् , स्तना॑वा॒ण्डौ शि॒श्ञमवा॑ञ्चम्प्रा॒णम् ।
 
-
 तानि॑ चा॒त्मन॑स्स्पृ॒णोति॑ ।
 आ॒दि॒त्यस्य॑ च॒ सायु॑ज्यङ्गच्छति ।
 </details>
@@ -256,7 +251,6 @@ unicode_script = "devanagari"
 <details><summary>मूलम्</summary>
 
 च॒तुरुन्न॑यति॒ द्विर्जु॑होति॒ , षड्ढो॑तारमे॒व तद्य॑ज्ञक्र॒तुमा॑प्नोति पशुब॒न्धम् , स्तना॑वा॒ण्डौ शि॒श्ञमवा॑ञ्चम्प्रा॒णम् ।
-
 
 तानि॑ चा॒त्मन॑स्स्पृ॒णोति॑ ।
 आ॒दि॒त्यस्य॑ च॒ सायु॑ज्यङ्गच्छति ।
@@ -343,5 +337,6 @@ unicode_script = "devanagari"
 आदित्यस्य च सायुज्यं गच्छति ॥
 इति तैत्तिरीयब्राह्मणे द्वितीयाष्टके तृतीयप्रपाठके सप्तमोऽनुवाकः ॥  
 
+</details>
 </details>
 </div>

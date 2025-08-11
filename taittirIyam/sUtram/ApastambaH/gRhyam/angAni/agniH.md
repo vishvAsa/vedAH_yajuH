@@ -21,7 +21,6 @@ unicode_script: devanagari
 </details>
 </div>  
 
-
 ## शान्तिः प्रायश्चित्तं च
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/08_05_sarvatra_svayam.md">
@@ -32,7 +31,6 @@ unicode_script: devanagari
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_09/09_uddIpyasva_jAtavedo-paghnannirRtim.md">
 <details open><summary><h4>०९ उद्दीप्यस्व जातवेदोऽपघ्नन्निर्ऋतिम् ...{Loading}...</h4></summary>
 
-
 उद्दी॑प्यस्व जातवेदो  
 ऽप॒घ्नन् निर्ऋ॑तिं॒ मम॑ ।  
 प॒शूँश् च॒ मह्य॒म् आ व॑ह॒  
@@ -42,7 +40,6 @@ unicode_script: devanagari
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_09/10_mA_no.md">
 <details open><summary><h4>१० मा नो ...{Loading}...</h4></summary>
-
 
 मा नो॑ हिँसीज् जातवेदो॒  
 गाम् अश्वं॒ पुरु॑ष॒ञ् जग॑त् ।  

@@ -19,10 +19,12 @@ title = "१४ नामकरणम्"
 
 8. On the tenth day, after (the mother) has risen and taken a bath, he gives a name to the son. The father and the mother (should pronounce that name first).
 </details>
+
 <details><summary>हरदत्त-प्रस्तावः</summary>
 
 एवं जातकर्मोक्त्वा क्रमप्राप्तं नामकरणमाह—
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 उत्थानं नाम सूतिकालिङ्गानामग्न्युदकुम्भादीनामपनयनम् ।
@@ -38,6 +40,7 @@ title = "१४ नामकरणम्"
 अमुष्मै स्वस्तीति कल्पान्तरे दर्शनात् ।
 केचित् नाम करिष्याव सङ्कल्पमिच्छन्ति ॥८॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **दशम्यां** रात्रौ दशमेऽहनि ।
@@ -76,6 +79,7 @@ title = "१४ नामकरणम्"
 
 9. (It should be a name) of two syllables or of four syllables; the first part should be a noun; the second a verb; it should have a long vowel (or) the Visarga at the end, should begin with a sonant, and contain a semi-vowel.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 अथ नाम्नो लक्षणविशेषः ।
@@ -91,6 +95,7 @@ title = "१४ नामकरणम्"
 **देवताणूकं** देवताभिधायि रुद्रो विष्णुरिति ।
 **पूर्वपुरुषाः** पित्रादयः ॥९॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 अथ व्यवस्थापनीयस्य नाम्नो लक्षणमुच्यते– **द्व्यक्षरं चतुरक्षरं** वेति समासेऽभिप्रेतः, न तु रूढिः "नामपूर्वमाख्यातोत्तरम्" इति पूर्वोत्तरखण्डव्यवस्थापनात् ।
@@ -139,6 +144,7 @@ title = "१४ नामकरणम्"
 
 10. Or it should contain the particle su, for such a name has a firm foundation; thus it is said in a Brāhmaṇa.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 अपि वा अयमपि पक्षः– यस्मिन्नाम्नि "सु" इत्ययमुपसर्गः स्यात् तदेव तत्र लक्षणम् ।
@@ -152,6 +158,7 @@ title = "१४ नामकरणम्"
 सुभद्रस्सुमुख इत्याद्युदाहरणम् ।
 उपसर्ग इति वचनात्सोमसुदित्यादि प्रतिष्ठितं न भवति ॥१०॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 अपि वा यस्मिन्नाम्नि "सु" इत्ययुमुपसर्गस्स्यात् तन्नाम **प्रतिष्ठितं** आयुष्मद्यज्ञादिक्रियावच्च भवति ; यथा– सुजातः सुदर्शन इत्यादि ।
@@ -189,12 +196,14 @@ title = "१४ नामकरणम्"
 
 11. A girl's name should have an odd number of syllables.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 या संख्या अर्थविमितुं न शक्यते सा अयुक् संख्या ।
 अयुञ्जि अक्षराणि यत्र तत् अयुजाक्षरम्–एकाक्षरं त्र्यक्षरमित्यादि ।
 एतावदेव कुमार्या नामलणम्–गौः, वाक्, पृथिवि, पार्वतीति ॥११॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **अयुगक्षरं** विषमाक्षरं **कुमार्या** नाम भवति ।
@@ -223,18 +232,15 @@ title = "१४ नामकरणम्"
 <div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/14_nAmakaraNam/15_12_pravAsAdetya.md">
 <details open><summary><h3>१५ १२ प्रवासादेत्य ...{Loading}...</h3></summary>
 
-
 प्रवासादेत्य पुत्रस्योत्तराभ्यामभिमन्त्रणं +++(=अङ्गादङ्गात्)+++  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/03_angAdangAtsambhavasi_hRdayAdadhi.md">
 <details open><summary><h5>०३ अङ्गादङ्गात्सम्भवसि हृदयादधि ...{Loading}...</h5></summary>
 
-
 अङ्गा॑दङ्गा॒त् संभ॑वसि॒ हृद॑या॒दधि॑ जायसे । वे॒दो वै पुत्र॒नामा॑ऽसि॒ स जी॑व श॒रद॑श्श॒तम् ।  
 
 </details>
 </div>
-
 
 मूर्धन्यवघ्राणं +++(=अश्मा भव)+++  दक्षिणे कर्ण  
 
@@ -244,8 +250,6 @@ title = "१४ नामकरणम्"
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_12/01_ashmA_bhava.md">
 <details open><summary><h7>०१ अश्मा भव ...{Loading}...</h7></summary>
 
-
-
 अश्मा॑ भव पर॒शुर्भ॑व॒ हिर॑ण्य॒मस्तृ॑तं भव ।  
 प॒शू॒नान्त्वा॑ हिङ्का॒रेणा॒भि  जि॑घ्राम्य् असौ+++(→नामनिर्देशः)+++।
 
@@ -254,20 +258,62 @@ title = "१४ नामकरणम्"
 </details>
 </div>
 
-
 ##### कर्णे जपः  
 उत्तरान्मन्त्रान् +++(=अग्निरायुष्मान् स वनस्पतिभिः)+++ जपेत् १२  
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/05-09_agnirAyuShmAntsa_vanaspatibhirAyuShmAntena.md">
 <details open><summary><h5>०५-०९ अग्निरायुष्मान्त्स वनस्पतिभिरायुष्मान्तेन ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/2/3/10_AyuShkAmeShTimantrAH/agnir_AyuShmAn.md">
+<details open><summary><h7>अ॒ग्निरायु॑ष्मा॒न्त्स ...{Loading}...</h7></summary>
+<details><summary>मूलम् (संयुक्तम्)</summary>
 
+अ॒ग्निरायु॑ष्मा॒न्त्स वन॒स्पति॑भि॒रायु॑ष्मा॒न्तेन॒ त्वायु॒षायु॑ष्मन्तङ्करोमि॒ सोम॒ आयु॑ष्मा॒न्त्स ओष॑धीभिर्य॒ज्ञ आयु॑ष्मा॒न्त्स दक्षि॑णाभि॒र्ब्रह्मायु॑ष्म॒त्तद्ब्रा॑ह्म॒णैरायु॑ष्मद्दे॒वा आयु॑ष्मन्त॒स्ते॑ऽमृते॑न पि॒तर॒ आयु॑ष्मन्त॒स्ते स्व॒धयायु॑ष्मन्त॒स्तेन॒ त्वायु॒षायु॑ष्मन्तङ्करोमि ॥ [40]
+</details>
 
-अ॒ग्निर् आयु॑ष्मा॒न्त्, स वन॒स्पति॑भि॒र् आयु॑ष्मा॒न्, तेन॒ त्वाऽऽयु॒षाऽऽयु॑ष्मन्तं करोमि ।  
-सोम॒ आयु॑ष्मा॒न्त्, स ओष॑धीभि॒र् आयु॑ष्मा॒न्, तेन॒ …।  
-य॒ज्ञ आयु॑ष्मा॒न्त्, स दक्षि॑णाभि॒र् आयु॑ष्मा॒न्, तेन॒ …।  
-ब्रह्मायु॑ष्मत्, तद् ब्रा॑ह्म॒णैर् आयु॑ष्म॒त्, तेन॒ …।  
-दे॒वा आयु॑ष्मन्त॒स्, ते॑ऽमृते॒नायु॑ष्मन्त॒स्, तेन॒ …।  
-[पि॒तर॒ आयु॑ष्मन्त॒स् ते स्व॒धयायु॑ष्मन्त॒स्, तेन॒ …।]
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
++++(हे यजमान)+++  
+अ॒ग्निर् आयु॑ष्मा॒न् ,   
+स वन॒स्-पति॑भि॒र् आयु॑ष्मा॒न् ,   
+तेन॒ त्वा ऽऽयु॒षा ऽऽयु॑ष्मन्तङ् करोमि ।
+
+सोम॒ आयु॑ष्मा॒न् स ओष॑धीभिर् [आयु॑ष्मा॒न् तेन॒ त्वा ऽऽयु॒षा ऽऽयु॑ष्मन्तङ् करोमि ।]
+
++++(हे यजमान)+++ य॒ज्ञ [आयु॑ष्मा॒न्], स दक्षि॑णाभि॒र् आयु॑ष्मा॒न्, [तेन॒ त्वा ऽऽयु॒षा ऽऽयु॑ष्मन्तङ् करोमि ।]
+
++++(हे यजमान)+++ ब्रह्मायु॑ष्म॒त्, तद्ब्रा॑ह्म॒णैरायु॑ष्मत् , [तेन॒ त्वा ऽऽयु॒षा ऽऽयु॑ष्मन्तङ् करोमि ।]
+
++++(हे यजमान)+++ दे॒वा आयु॑ष्मन्तः।  
+ते॒॑ऽमृते॑न [+आयु॑ष्मन्तः]  [तेन॒ त्वा ऽऽयु॒षा ऽऽयु॑ष्मन्तङ् करोमि ।]  
+
+पि॒तर॒ आयु॑ष्मन्त॒स् ते स्व॒धयाऽऽयु॑ष्मन्त॒स्, तेन॒ त्वा ऽऽयु॒षा ऽऽयु॑ष्मन्तङ् करोमि । 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अ॒ग्निरायु॑ष्मा॒न् ,   
+स वन॒स्पति॑भि॒रायु॑ष्मा॒न् ,   
+तेन॒ त्वायु॒षायु॑ष्मन्तङ्करोमि ।
+
+सोम॒ आयु॑ष्मा॒न् ,
+स ओष॑धीभिर्य॒ज्ञ आयु॑ष्मा॒न्,
+
+स दक्षि॑णाभि॒र्ब्रह्मायु॑ष्म॒त्,
+
+तद्ब्रा॑ह्म॒णैरायु॑ष्मत् ,
+
+दे॒वा  आयु॑ष्मन्तः
+ते॑ऽमृते॑न  
+पि॒तर॒ आयु॑ष्मन्त॒स्ते स्व॒धयायु॑ष्मन्त॒स्तेन॒ त्वायु॒षायु॑ष्मन्तङ्करोमि
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+अग्निरायुष्मान् दीर्घायुः । स वनस्पतिभिरायुष्मान् तैर्हेतुभिस्तैर्वासह । तेनायुषा उभयेनायुषा त्वामायुष्मन्तं करोमि दीर्घायुषं करोमि । हे यजमान सोमादिषु 'आयुष्मान्तेन' इत्याद्यनुषज्यते । सोम ओषधीभिः, यज्ञो दक्षिणाभिः ब्रह्म ब्राह्मणैः, देवा अमृतेन, पितरस्स्वधया ॥
+
+इति द्वितीये तृतीये दशमोनुवाकः ॥
+</details>
+</details>
+</div>
 </details>
 </div>
 </details>
@@ -278,9 +324,9 @@ title = "१४ नामकरणम्"
 
 12. [^2]  When (the father) returns from a journey, he should address the child and kiss him on his head with the next two (verses, M. II, 14, 3. 4), and should murmur the next Mantras (II, 14, 5) into his right ear.
 
-
 [^2]:  Comp. above, Sūtra 1.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 **प्रवासाद्** आगत्य तु **उत्तराभ्यामभिमन्त्रणमवघ्राणं च** क्रमेण कर्तव्यम् ।
@@ -293,6 +339,7 @@ title = "१४ नामकरणम्"
 उत्तरे मन्त्राः "अग्निरायुष्मानिति पञ्चे"त्यादिष्टाः । तान् पुत्रस्य **दक्षिणे कर्णे जपेत्** ।
 मन्त्रग्रहणं क्रियते "अग्निरायुष्मानिति पञ्चे"त्यस्य पञ्चशब्दस्य मन्त्रेषु वृत्तिरिति प्रज्ञापनार्थम् ॥१२॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **प्रवासादागत्योत्तराभ्यां** "अङ्गादङ्गात्" "अश्मा भव" इत्येताभ्यां **पुत्रस्याभिमन्त्रणं** कर्तव्यम् ।
@@ -323,7 +370,6 @@ title = "१४ नामकरणम्"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/10_sarvasmAdAtmanassambhUtA-si_sA.md">
 <details open><summary><h5>१० सर्वस्मादात्मनस्सम्भूताऽसि सा ...{Loading}...</h5></summary>
 
-
 सर्व॑स्माद् आ॒त्मन॒स् संभू॑ताऽसि॒, सा जी॑व श॒रद॑श् श॒तम् ।  
 
 </details>
@@ -336,12 +382,14 @@ title = "१४ नामकरणम्"
 
 13. With the next Yajus (II, 14, 6) he addresses a daughter (when returning from a journey).
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 प्रवासादेत्य **कुमारीं** स्त्रीप्रजां **उत्तरेण यजुषा** "सर्वस्मादात्मनः सम्भूतासी"त्यनेन **अभिमन्त्रयते** ।
 दुहितरमिति कर्तव्ये कुमारीमिति वचनं प्रदानादूर्ध्वं माभूदिति ।
 पुत्रस्य तु यावज्जीवं भवति पुत्रेऽपि प्रोषितागते अभिमन्त्रणादित्रयं भवति न्यायस्य तुल्यत्वात् ॥१३॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 प्रवासादेत्येत्यनुवर्तते ।

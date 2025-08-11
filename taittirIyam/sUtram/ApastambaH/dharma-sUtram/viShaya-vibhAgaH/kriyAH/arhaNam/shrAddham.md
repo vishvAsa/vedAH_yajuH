@@ -560,13 +560,13 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/19/07_nApajahIta.md">
 <details open><summary><h4>07 नापजहीत ...{Loading}...</h4></summary>
 
-नापजहीत +++(=सव्य-पाणिना न विमुञ्चेत्)+++ ७
+नापजहीत +++(सव्य-पाणिना पात्रम्)+++ ७
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/19/08_apajahIta_vA.md">
 <details open><summary><h4>08 अपजहीत वा ...{Loading}...</h4></summary>
 
-अपजहीत वा ८
+अपजहीत वा +++(प्राणाहुत्य्-ऊर्ध्वम्)+++८
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/19/09_kRtsna~N_grAsa~N_grasIta.md">

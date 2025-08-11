@@ -1,8 +1,8 @@
 ---
-title: ०९ प्रस्तरप्रहरादिकम् 
+title: ०९ प्रस्तरप्रहरादिकम्
 unicode_script: devanagari
----
 
+---
 ## स्रुचाव् व्यूहति
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -155,7 +155,7 @@ unicode_script: devanagari
 
 त्रे॒धाऽन॑क्ति ।  
 त्रय॑ इ॒मे लो॒काः ॥61॥  
-ए॒भ्य ए॒वैन॑ल्ँलो॒केभ्यो॑ऽनक्ति ।
+ए॒भ्य ए॒वैन॑ल्ँ लो॒केभ्यो॑ऽनक्ति ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

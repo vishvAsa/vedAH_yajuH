@@ -2,21 +2,22 @@
 title = "२३ वसाहोमः"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/3_agniShToma-pashv-Adi/10_vasAhomaH"  newLevelForH1="1" includeTitle="true">
-
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/3_agniShToma-pashv-Adi/10_vasAhomaH">
+<details open><summary><h1>१० वसाहोमः ...{Loading}...</h1></summary>
 
  सोमऋषिः
-
 
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1पृषदाज्येन हृदयम् अभिघारयति - सन्ते मनसेति ॥ 
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 सन्ते॒ मन॑सा॒ मन॒स्सम्प्रा॒णेन॑ प्रा॒णो जुष्ट॑न्दे॒वेभ्यो॑ ह॒व्यङ्घृ॒तव॒त् स्वाहा॑ 
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सन् ते॒ मन॑सा॒ मन॒स्  
@@ -25,6 +26,7 @@ _______
 ह॒व्यङ् घृ॒तव॒त् -  
 स्वाहा॑
 </details>
+
 <details><summary>Keith</summary>
 
 Let thy mind with the mind,  
@@ -32,10 +34,17 @@ let thy breath with the breath (of the gods be united)
 Be this offering rich in ghee pleasing to the gods;  
 hail!
 </details>
+
 <details><summary>मूलम्</summary>
 
 सन्ते॒ मन॑सा॒ मन॒स्सम्प्रा॒णेन॑ प्रा॒णो जुष्ट॑न्दे॒वेभ्यो॑ ह॒व्यङ्घृ॒तव॒त् स्वाहा॑
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+समिति॑ । ते॒ । मन॑सा । मनः॑ । समिति॑ । प्रा॒णेनेति॑ प्र-अ॒नेन॑ । प्रा॒ण इति॑ प्र-अ॒नः । जुष्ट॑म् । दे॒वेभ्यः॑ । ह॒व्यम् । घृ॒तव॒दिति॑ घृ॒त-व॒त् । स्वाहा॑ । 
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 1पृषदाज्येन हृदयम् अभिघारयति - सन्ते मनसेति ॥ हे हृदय ते तव मनसा मनस्स्थानीयेन मननीयेन वानेन पृषदाज्येन देवानां मनस्सङ्गतमस्तु, तथा देवानामिदं स्पृहणीयमस्तु यथा तेषां मनो न जहातीति । समित्युपसर्गश्रुतेर्योग्यं क्रियापदमध्याह्रियते ।  
@@ -54,32 +63,50 @@ _______
 
 2पशोर् अवदानानि सम्मृशति - ऐन्द्रः प्राण इत्यनुष्टुभा षट्पदया ॥
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ऐ॒न्द्रᳶप्रा॒णो अङ्गे॑अङ्गे॒ नि दे॑ध्यदै॒न्द्रो॑ऽपा॒नो अङ्गे॑अङ्गे॒ वि बो॑भुव॒द्देव॑ त्वष्ट॒र्भूरि॑ ते॒ सँस॑मेतु॒ विषु॑रूपा॒ यत् सल॑क्ष्माणो॒ भव॑थ देव॒त्रा यन्त॒मव॑से॒ सखा॒योऽनु॑ त्वा मा॒ता पि॒तरो॑ मदन्तु॒ 
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/10_vasAhomaH/02_aindrapH_prANo.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/10_vasAhomaH/02_aindrapH_prANo.md">
+<details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 ऐ॒न्द्रᳶ प्रा॒णो अङ्गे॑अङ्गे॒ नि दे॑ध्यत्+++(←धीङ् आधारे)+++ ।  
 एै॒न्द्रो॑ऽपा॒नो अङ्गे॑अङ्गे॒ वि बो॑भुवत् ।  
 देव॑ त्वष्ट॒र् +++(पशोर्)+++ भूरि॑ ते॒ सँस॑मेतु ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/10_vasAhomaH/02_aindrapH_prANo.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/10_vasAhomaH/02_aindrapH_prANo.md">
+<details open><summary><h5>सर्वाष् टीकाः ...{Loading}...</h5></summary>
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+2पशोर् अवदानानि सम्मृशति - ऐन्द्रः प्राण इत्यनुष्टुभा षट्पदया ॥
+</details>
+
 <details><summary>Keith</summary>
 
 May Indra's expiration be set in every limb;  
 May Indra's inspiration be in every limb.
 O god Tvastr, let mind be united for thee,
 </details>
+
 <details><summary>मूलम्</summary>
 
 ऐ॒न्द्रᳶ प्रा॒णो अङ्गे॑अङ्गे॒ नि दे॑ध्यत् ।  
 एै॒न्द्रो॑ऽपा॒नो अङ्गे॑अङ्गे॒ वि बो॑भुवत् ।  
 देव॑ त्वष्ट॒र् भूरि॑ ते॒ सँस॑मेतु +++(एकीकरणाय)+++ ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+ऐ॒न्द्रः । प्रा॒ण इति॑ प्र-अ॒नः । अङ्गे॑अङ्ग॒ इत्यङ्गे॑-अ॒ङ्गे॒ । नीति॑ । दे॒ध्य॒त् । 
+
+ऐ॒न्द्रः । अ॒पा॒न इत्य॑प-अ॒नः । अङ्गे॑अङ्ग॒ इत्यङ्गे॑-अ॒ङ्गे॒ । वीति॑ । बो॒भु॒व॒त् ।
+
+देव॑ । त्व॒ष्टः॒ । भूरि॑ । ते॒ । सँस॒मिति॒ सम्-स॒म् । ए॒तु॒ । 
+
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 2पशोरवदानानि सम्मृशति - ऐन्द्रः प्राण इत्यनुष्टुभा षट्पदया ॥  
@@ -96,33 +123,46 @@ O god Tvastr, let mind be united for thee,
 </details>
 </div>
 
-
-
-
 ________
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/10_vasAhomaH/03_viShurUpA_yat.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/10_vasAhomaH/03_viShurUpA_yat.md">
+<details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 +++(शरीर-खण्डानि!)+++ विषु॑रूपा॒ यत् **सल॑क्ष्माणो॒**+++(=सलक्षणा [हवीरूपेण])+++ **भव॑थ**,  
 दे॒व॒त्रा+++(=देवस्थानं)+++ यन्त॒म्, अव॑से॒, +++(तस्य पशोः)+++ सखा॑यः   
 अनु॑ त्वा मा॒ता-पि॒तरो॑ **मदन्तु** ।
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/10_vasAhomaH/03_viShurUpA_yat.md">
-<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/10_vasAhomaH/03_viShurUpA_yat.md">
+<details open><summary><h5>सर्वाष् टीकाः ...{Loading}...</h5></summary>
 <details><summary>Keith</summary>
 
 When ye that are various become of one form;  
 Over thee as thou goest among the gods for help let thy comrades  
 And thy father and mother rejoice.
 </details>
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
++++(शरीर-खण्डानि!)+++ विषु॑रूपा॒ यत् **सल॑क्ष्माणो॒**+++(=सलक्षणा [हवीरूपेण])+++ **भव॑थ**,  
+दे॒व॒त्रा+++(=देवस्थानं)+++ यन्त॒म्, अव॑से॒, +++(तस्य पशोः)+++ सखा॑यः   
+अनु॑ त्वा मा॒ता-पि॒तरो॑ **मदन्तु** ।
+</details>
+
 <details><summary>मूलम्</summary>
 
 विषु॑रूपा॒ यत् सल॑क्ष्माणो॒ भव॑थ   
 दे॒व॒त्रा यन्त॒मव॑से॒ सखा॑यः  
 अनु॑त्वा मा॒तापि॒तरो॑ मदन्तु ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+विषु॑रूपा॒ इति॒ विषु॑-रू॒पाः॒ । यत् । सल॑क्ष्माण॒ इति॒ स-ल॒क्ष्मा॒णः॒ । भव॑थ । 
+
+दे॒व॒त्रेति॑ देव-त्रा । यन्त॑म् । अव॑से । खा॑यः । अन्विति॑ । त्वा॒ । मा॒ता । पि॒तरः॑ । म॒द॒न्तु॒ । 
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 किञ्च - हे पशो! सर्वेपि यूयं **विषुरूपा** नानारूपा अतुल्यस्वरूपा अपि सन्त इदानीं **सलक्ष्माणः** समानलक्षणा हवी-रूपेण वा ऽवदान-रूपेण वा देवान् गच्छन्तस् तुल्यस्वरूपा **यद्** यस्माद् **भवथ** । तव खलु हविष्ट्वापत्तौ सर्वेपि युष्मत्-सम्बन्धिनः पशवो जात्य्-अभेदात् हविस्-स्वरूपास् सम्पद्यन्ते । 
@@ -140,35 +180,41 @@ And thy father and mother rejoice.
 
 तदेवाह - **अवसे** रक्षणाय तव चात्मनश् च । तृप्त्यर्थं वा, अवतिर्हि तृप्तौ च पठ्यते । तस्मादसुन् । 'अनुमतमेवैनं मात्रा पित्रा सुवर्गं लोकं गमयति' ` इति च ब्राह्मणम् । मदि हर्षे दैवादिकः विकरणव्यत्ययेन शप् ॥
 </details>
+</details>
+</div>
+
+_______
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 श्रीर॑स्य॒ग्निस्त्वा॑ श्रीणा॒त्वाप॒स्सम॑रिणम् वात॑स्य [18]त्वा॒ ध्रज्यै॑ पू॒ष्णो रँह्या॑ अ॒पामोष॑धीनाँ॒ रोहि॑ष्यै।
 </details>
-</details>
-</div>
-
-
-
-
-________
-
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रीर्+++(←श्रीञ् पाके)+++ अ॑सि ।  
 अ॒ग्निस् त्वा॑ श्रीणा॒तु+++(←श्रीञ् पाके)+++ ।
 </details>
+
 <details><summary>Keith</summary>
 
 Thou art fortune (śri).  
 Let Agni cook (śrinatu) thee.
 </details>
+
 <details><summary>मूलम्</summary>
 
 श्रीर॑सि ।  
 अ॒ग्निस्त्वा॑ श्रीणा॒तु ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+ 
+श्रीः । अ॒सि॒ । 
+अ॒ग्निः । त्वा॒ । श्री॒णा॒तु॒ । 
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 3पार्श्वेन होमार्थां वसां प्रयौति आलोडयति - श्रीरसीति ॥  
@@ -185,6 +231,7 @@ ________
 पू॒ष्णो रँह्या॑+++(य् = वेगाय)+++  
 अ॒पाम् ओष॑धीनाँ॒ **रोहि॑ष्यै**+++(←रुह्)+++ ।
 </details>
+
 <details><summary>Keith</summary>
 
 The waters are come together  
@@ -192,11 +239,20 @@ For the whirl of the wind [1] thee,
 for the rush of Pusan,  
 for the growth of the waters, of the plants.
 </details>
+
 <details><summary>मूलम्</summary>
 
 आप॒स्सम॑रिणन्  
 वात॑स्य त्वा॒ ध्रज्यै॑ पू॒ष्णो रँह्या॑ अ॒पामोष॑धीनाँ॒ रोहि॑ष्यै ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+आपः॑ । समिति॑ । अ॒रि॒ण॒न् ।   
+वात॑स्य । [18]। त्वा॒ । ध्रज्यै॑ । पू॒ष्णः । रँह्यै॑ । अ॒पाम् । ओष॑धीनाम् । रोहि॑ष्यै । 
+
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 किञ्च – तथा क्रियमाणां त्वां **आपस् समरिणन्** - सञ्गच्छन्तु, त्वा मा मुचन्, मा शोषं गमन् इति ।  
@@ -226,53 +282,81 @@ _______
 
 4वसां जुहोति - घृतमिति ॥
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 घृ॒तङ् घृ॑त-पावानᳶ पिबत ।  
 </details>
+
 <details><summary>Keith</summary>
 
 Drink ghee, ye drinkers of ghee; 
 </details>
+
 <details><summary>मूलम्</summary>
 
 घृ॒तङ्घृ॑तपावानᳶ पिबत ।  
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+घृ॒तम् । घृ॒त॒पा॒वा॒न॒ इति॑ घृत-पा॒वा॒नः॒ । पि॒ब॒त॒ । 
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 4वसां जुहोति - घृतमिति ॥ हे घृतपावानो घृतस्य पातारो देवा यूयं घृतं वसागतं पिबत ।  
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वसा॑व्ँ वसा-पावानᳶ पिबत ।
 </details>
+
 <details><summary>Keith</summary>
 
 drink fat, ye drinkers of fat.
 </details>
+
 <details><summary>मूलम्</summary>
 
 वसा॑व्ँवसापावानᳶ पिबत ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+वसा॑म् । व॒सा॒पा॒वा॒न॒ इति॑ वसा-पा॒वा॒नः॒ । पि॒ब॒त॒ । 
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हे वसापावानः वसायाः पातारः, यूयमपि वसां पिबत । पिबतेः 'आतो मनिन्' इत्यादिना वनिप् ।   
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ॒न्तरि॑क्षस्य ह॒विर् अ॑सि॒ स्वाहा॑ ।  
 त्वा॒ऽन्तरि॑क्षाय +++(अर्पयामि)+++।
 </details>
+
 <details><summary>Keith</summary>
 
 Thou art the oblation of the atmosphere.  
 Hail! thee to the atmosphere!
 </details>
+
 <details><summary>मूलम्</summary>
 
 अ॒न्तरि॑क्षस्य ह॒विर॑सि॒ स्वाहा॑ ।  
 त्वा॒ऽन्तरि॑क्षाय ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒न्तरि॑क्षस्य । ह॒विः । अ॒सि॒ । स्वाहा॑ ।   
+त्वा॒ । अ॒न्तरि॑क्षाय ।  
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हे वसे त्वमन्तरिक्षस्य अन्तरिक्षवासिनो देवगणस्य हविरसि ।  
@@ -284,10 +368,12 @@ _______
 
 5वसाहोमोद्रेकेण दिशो जुहोति दिग्भ्यो जुहोति - दिशः प्रादिश इति ॥
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 दिशᳶ॑ प्र॒दिश॑ आ॒दिशो॑ वि॒दिश॑ उ॒द्दिश॒स्स्वाहा॑ दि॒ग्भ्यो नमो॑ दि॒ग्भ्यः ॥ [19]
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(प्रदिगादि-विशेषभिन्ना)+++ दिशः,  
@@ -298,16 +384,24 @@ _______
 +++(इत्य् उक्ताभ्यः)+++ स्वाहा॑ दि॒ग्भ्यः!  
 नमो॑ दि॒ग्भ्यः ॥ [19]
 </details>
+
 <details><summary>Keith</summary>
 
 The quarters, the Pradiśes, the Adiśes, the Vidiśes, the Uddiśes.  
 Hail to the quarters!  
 Homage to the quarters.
 </details>
+
 <details><summary>मूलम्</summary>
 
 दिशᳶ॑ प्र॒दिश॑ आ॒दिशो॑ वि॒दिश॑ उ॒द्दिश॒स्स्वाहा॑ दि॒ग्भ्यो नमो॑ दि॒ग्भ्यः ॥ [19]
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+दिशः॑ । प्र॒दिश॒ इति॑ प्र-दिशः॑ । आ॒दिश॒ इत्या॑-दिशः॑ । वि॒दिश॒ इति॑ वि-दिशः॑ । उ॒द्दिश॒ इत्यु॑त्-दिशः॑ । 5N । स्वाहा॑ । दि॒ग्भ्य इति॑ दिक्-भ्यः । 6O । नमः॑ । दि॒ग्भ्य इति॑ दिक्-भ्यः ॥ [19]
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 5वसाहोमोद्रेकेण दिशो जुहोति दिग्भ्यो जुहोति - दिशः प्रादिश इति ॥ 
@@ -334,4 +428,5 @@ Homage to the quarters.
 
 इति तृतीये दशमोनुवाकः ॥  
 
+</details>
 </div>

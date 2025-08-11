@@ -2,8 +2,8 @@
 title = "१४ ऋतुग्रहाः"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/4_somAbhiShavAdi/14_RtugrahAH"  newLevelForH1="1" includeTitle="true">
-
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/4_somAbhiShavAdi/14_RtugrahAH">
+<details open><summary><h1>१४ ऋतुग्रहाः ...{Loading}...</h1></summary>
 
 सोमऋषिः
 
@@ -18,20 +18,23 @@ _______
 तदर्थम् अन्त्य-मन्त्रादौ समाम्नातं तैर् अप्य् अनुषज्यते,  
 तेषां साकाङ्क्षत्वाच् च; "उपयाम-गृहीतो ऽसि मधुश् चे"त्यादि । 
 </details>
-<div class="js_include" newlevelforh1="5" title="अनुषङ्गः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
-<details open><summary><h5>अनुषङ्गः ...{Loading}...</h5></summary>
+<div class="js_include" newlevelforh1="5" title="अनुषङ्गः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
+<details open><summary><h6>अनुषङ्गः ...{Loading}...</h6></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ॒प॒या॒म-गृ॑हीतो ऽसि।
 </details>
+
 <details><summary>Keith</summary>
 
 Thou art taken with a support/ foundation.
 </details>
+
 <details><summary>मूलम्</summary>
 
 उ॒प॒या॒मगृ॑हीतोऽसि।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 उपयम्यन्ते स्वात्मन्येव नियम्यन्ते भूतजातान्यस्मिन् अभिन्नेधिकरणे इत्युपयामः पृथ्वी । 'इयं वा उपयामः' इति ब्राह्मणम् । 'हलश्च' इति घञ्, थाथादिस्वरेणान्तोदात्तत्वम् । तेन गृहीतस्त्वमसि ; कोन्यस्त्वां गृहीतुं क्षम इति भावः ; पृथिव्यापो गृहीष्यामीतिवत् । 'तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् । यद्वा - उपयामार्थं पृथिव्यर्थं गृहीतोसीति ; हे सोम ।   
@@ -48,32 +51,38 @@ ________________
 
 मधु॑श्च +++(त्वां प्रतिपद्यताम्।)+++
 </details>
+
 <details><summary>Keith</summary>
 
 Thou art Madhu
 </details>
+
 <details><summary>मूलम्</summary>
 
 मधु॑श्च 
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हे सोम उपयाम गृहीतोसि । ततस्त्वां मधुश्च प्रतिपद्यतां सम्प्रदानत्वेन तव वर्तताम् । मधुर्नाम वासन्तिको मासः; 'मधुश्च माधवश्च वासन्तिकावृतू' इति । ऋत्ववयवौ मासावित्यर्थः; यथा 'तस्माद्द्वौद्वावृतू' इति । स च मधुप्रायत्वान्मधुरुच्यते । भूम्नि मत्वर्थीयः, 'मत्वर्थे मासतन्वोः' इति । तस्य 'लुगकारेकाररेफाश्च' इति लुक् । मधुमानित्यर्थः । सोमश्च चार्थः । मासाश्च चान्द्राः; त्रयोदशस्य चान्द्रत्वात्, पौर्णमासी निमित्तस्य चैत्रादिव्यपदेशस्य चान्द्राणामेव सम्भवात् । अत एव मासानुविधायी मधुशब्दः । 'यज्ञेन वै देवास्सुवर्गं लोकमायन्' इत्यादि ब्राह्मणं समस्तोनुवाकः ॥
 </details>
-<div class="js_include" newlevelforh1="5" title="अनुषङ्गः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/14_RtugrahAH/aMhaspatyAya.md">
-<details open><summary><h5>अनुषङ्गः ...{Loading}...</h5></summary>
+<div class="js_include" newlevelforh1="5" title="अनुषङ्गः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/14_RtugrahAH/aMhaspatyAya.md">
+<details open><summary><h6>अनुषङ्गः ...{Loading}...</h6></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अँ॒ह॒स्प॒त्याय॑ त्वा   +++(जुष्टं गृण्हामि)+++
 </details>
+
 <details><summary>Keith</summary>
 
 To Anhaspatya thee!
 </details>
+
 <details><summary>मूलम्</summary>
 
 अँ॒ह॒स्प॒त्याय॑ त्वा
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 यद्वा - यस्मादयं मासिमास्यंशेनांशेन निष्पद्यते तस्मात्संतुष्ट एव मासान्तरैस्सर्पति । त्रिंशता च मासैर्मासत्वेन सम्पद्यते । ईदृशस्त्वमसि न कर्मणां त्रयोदशमासार्होसीति । 'परादिश्छन्दसि बहुलम्' इत्युत्तरपदाद्युदात्तत्वम् ।
@@ -95,20 +104,23 @@ _______
 
 2द्वितीयं गृह्णाति - उपयामगृहीतोसि माधवश्चेति ॥ 
 </details>
-<div class="js_include" newlevelforh1="5" title="अनुषङ्गः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
-<details open><summary><h5>अनुषङ्गः ...{Loading}...</h5></summary>
+<div class="js_include" newlevelforh1="5" title="अनुषङ्गः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
+<details open><summary><h6>अनुषङ्गः ...{Loading}...</h6></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ॒प॒या॒म-गृ॑हीतो ऽसि।
 </details>
+
 <details><summary>Keith</summary>
 
 Thou art taken with a support/ foundation.
 </details>
+
 <details><summary>मूलम्</summary>
 
 उ॒प॒या॒मगृ॑हीतोऽसि।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 उपयम्यन्ते स्वात्मन्येव नियम्यन्ते भूतजातान्यस्मिन् अभिन्नेधिकरणे इत्युपयामः पृथ्वी । 'इयं वा उपयामः' इति ब्राह्मणम् । 'हलश्च' इति घञ्, थाथादिस्वरेणान्तोदात्तत्वम् । तेन गृहीतस्त्वमसि ; कोन्यस्त्वां गृहीतुं क्षम इति भावः ; पृथिव्यापो गृहीष्यामीतिवत् । 'तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् । यद्वा - उपयामार्थं पृथिव्यर्थं गृहीतोसीति ; हे सोम ।   
@@ -125,32 +137,38 @@ ________________
 
 माध॑वश्च +++(त्वां प्रतिपद्यताम्।)+++
 </details>
+
 <details><summary>Keith</summary>
 
 and Madhava
 </details>
+
 <details><summary>मूलम्</summary>
 
 माध॑वश्च +++(त्वां प्रतिपद्यताम्।)+++
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 माधवश्च त्वां प्रतिपद्यतामिति शेषः । एवं सर्वत्र । माधव इति तस्यैव द्वितीयो मासः । 'मधोर्ञ च' इति मत्वर्थे ञप्रत्ययः । मधुमानित्येवार्थः ॥
 </details>
-<div class="js_include" newlevelforh1="5" title="अनुषङ्गः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/14_RtugrahAH/aMhaspatyAya.md">
-<details open><summary><h5>अनुषङ्गः ...{Loading}...</h5></summary>
+<div class="js_include" newlevelforh1="5" title="अनुषङ्गः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/14_RtugrahAH/aMhaspatyAya.md">
+<details open><summary><h6>अनुषङ्गः ...{Loading}...</h6></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अँ॒ह॒स्प॒त्याय॑ त्वा   +++(जुष्टं गृण्हामि)+++
 </details>
+
 <details><summary>Keith</summary>
 
 To Anhaspatya thee!
 </details>
+
 <details><summary>मूलम्</summary>
 
 अँ॒ह॒स्प॒त्याय॑ त्वा
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 यद्वा - यस्मादयं मासिमास्यंशेनांशेन निष्पद्यते तस्मात्संतुष्ट एव मासान्तरैस्सर्पति । त्रिंशता च मासैर्मासत्वेन सम्पद्यते । ईदृशस्त्वमसि न कर्मणां त्रयोदशमासार्होसीति । 'परादिश्छन्दसि बहुलम्' इत्युत्तरपदाद्युदात्तत्वम् ।
@@ -172,20 +190,23 @@ _______
 
 3तृतीयं गृह्णाति - शुक्रश्चेति ॥ 
 </details>
-<div class="js_include" newlevelforh1="5" title="अनुषङ्गः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
-<details open><summary><h5>अनुषङ्गः ...{Loading}...</h5></summary>
+<div class="js_include" newlevelforh1="5" title="अनुषङ्गः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
+<details open><summary><h6>अनुषङ्गः ...{Loading}...</h6></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ॒प॒या॒म-गृ॑हीतो ऽसि।
 </details>
+
 <details><summary>Keith</summary>
 
 Thou art taken with a support/ foundation.
 </details>
+
 <details><summary>मूलम्</summary>
 
 उ॒प॒या॒मगृ॑हीतोऽसि।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 उपयम्यन्ते स्वात्मन्येव नियम्यन्ते भूतजातान्यस्मिन् अभिन्नेधिकरणे इत्युपयामः पृथ्वी । 'इयं वा उपयामः' इति ब्राह्मणम् । 'हलश्च' इति घञ्, थाथादिस्वरेणान्तोदात्तत्वम् । तेन गृहीतस्त्वमसि ; कोन्यस्त्वां गृहीतुं क्षम इति भावः ; पृथिव्यापो गृहीष्यामीतिवत् । 'तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् । यद्वा - उपयामार्थं पृथिव्यर्थं गृहीतोसीति ; हे सोम ।   
@@ -202,32 +223,38 @@ ________________
 
 शु॒क्रश्च॑  +++(त्वां प्रतिपद्यताम्।)+++ ।
 </details>
+
 <details><summary>Keith</summary>
 
 thou art Çukra
 </details>
+
 <details><summary>मूलम्</summary>
 
 शु॒क्रश्च॑  +++(त्वां प्रतिपद्यताम्।)+++ ।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 शूग्दीप्तिरस्मिन्निति भूम्नि तेनैव मत्वर्थीयो रप्रत्ययः । ग्रैष्मो मास उच्यते ॥
 </details>
-<div class="js_include" newlevelforh1="5" title="अनुषङ्गः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/14_RtugrahAH/aMhaspatyAya.md">
-<details open><summary><h5>अनुषङ्गः ...{Loading}...</h5></summary>
+<div class="js_include" newlevelforh1="5" title="अनुषङ्गः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/14_RtugrahAH/aMhaspatyAya.md">
+<details open><summary><h6>अनुषङ्गः ...{Loading}...</h6></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अँ॒ह॒स्प॒त्याय॑ त्वा   +++(जुष्टं गृण्हामि)+++
 </details>
+
 <details><summary>Keith</summary>
 
 To Anhaspatya thee!
 </details>
+
 <details><summary>मूलम्</summary>
 
 अँ॒ह॒स्प॒त्याय॑ त्वा
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 यद्वा - यस्मादयं मासिमास्यंशेनांशेन निष्पद्यते तस्मात्संतुष्ट एव मासान्तरैस्सर्पति । त्रिंशता च मासैर्मासत्वेन सम्पद्यते । ईदृशस्त्वमसि न कर्मणां त्रयोदशमासार्होसीति । 'परादिश्छन्दसि बहुलम्' इत्युत्तरपदाद्युदात्तत्वम् ।
@@ -249,20 +276,23 @@ _______
 
 4चतुर्थं गृह्णाति - शुचिश्चेति ॥ 
 </details>
-<div class="js_include" newlevelforh1="5" title="अनुषङ्गः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
-<details open><summary><h5>अनुषङ्गः ...{Loading}...</h5></summary>
+<div class="js_include" newlevelforh1="5" title="अनुषङ्गः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
+<details open><summary><h6>अनुषङ्गः ...{Loading}...</h6></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ॒प॒या॒म-गृ॑हीतो ऽसि।
 </details>
+
 <details><summary>Keith</summary>
 
 Thou art taken with a support/ foundation.
 </details>
+
 <details><summary>मूलम्</summary>
 
 उ॒प॒या॒मगृ॑हीतोऽसि।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 उपयम्यन्ते स्वात्मन्येव नियम्यन्ते भूतजातान्यस्मिन् अभिन्नेधिकरणे इत्युपयामः पृथ्वी । 'इयं वा उपयामः' इति ब्राह्मणम् । 'हलश्च' इति घञ्, थाथादिस्वरेणान्तोदात्तत्वम् । तेन गृहीतस्त्वमसि ; कोन्यस्त्वां गृहीतुं क्षम इति भावः ; पृथिव्यापो गृहीष्यामीतिवत् । 'तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् । यद्वा - उपयामार्थं पृथिव्यर्थं गृहीतोसीति ; हे सोम ।   
@@ -279,32 +309,38 @@ ________________
 
 शुचि॑श्च  +++(त्वां प्रतिपद्यताम्।)+++ ।
 </details>
+
 <details><summary>Keith</summary>
 
 and Çuci
 </details>
+
 <details><summary>मूलम्</summary>
 
 शुचि॑श्च  +++(त्वां प्रतिपद्यताम्।)+++ ।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 शोचयिता शोषयिता सलिलानां शुचिः; स हि बहूष्णत्वात्सर्वं सलिलं शोषयति । 'इन् सर्वधातुभ्यः' इति शुचेरिन्प्रत्ययः ॥
 </details>
-<div class="js_include" newlevelforh1="5" title="अनुषङ्गः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/14_RtugrahAH/aMhaspatyAya.md">
-<details open><summary><h5>अनुषङ्गः ...{Loading}...</h5></summary>
+<div class="js_include" newlevelforh1="5" title="अनुषङ्गः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/14_RtugrahAH/aMhaspatyAya.md">
+<details open><summary><h6>अनुषङ्गः ...{Loading}...</h6></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अँ॒ह॒स्प॒त्याय॑ त्वा   +++(जुष्टं गृण्हामि)+++
 </details>
+
 <details><summary>Keith</summary>
 
 To Anhaspatya thee!
 </details>
+
 <details><summary>मूलम्</summary>
 
 अँ॒ह॒स्प॒त्याय॑ त्वा
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 यद्वा - यस्मादयं मासिमास्यंशेनांशेन निष्पद्यते तस्मात्संतुष्ट एव मासान्तरैस्सर्पति । त्रिंशता च मासैर्मासत्वेन सम्पद्यते । ईदृशस्त्वमसि न कर्मणां त्रयोदशमासार्होसीति । 'परादिश्छन्दसि बहुलम्' इत्युत्तरपदाद्युदात्तत्वम् ।
@@ -326,20 +362,23 @@ _______
 
 5पञ्चमं गृह्णाति - नभश्चेति ॥ 
 </details>
-<div class="js_include" newlevelforh1="5" title="अनुषङ्गः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
-<details open><summary><h5>अनुषङ्गः ...{Loading}...</h5></summary>
+<div class="js_include" newlevelforh1="5" title="अनुषङ्गः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
+<details open><summary><h6>अनुषङ्गः ...{Loading}...</h6></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ॒प॒या॒म-गृ॑हीतो ऽसि।
 </details>
+
 <details><summary>Keith</summary>
 
 Thou art taken with a support/ foundation.
 </details>
+
 <details><summary>मूलम्</summary>
 
 उ॒प॒या॒मगृ॑हीतोऽसि।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 उपयम्यन्ते स्वात्मन्येव नियम्यन्ते भूतजातान्यस्मिन् अभिन्नेधिकरणे इत्युपयामः पृथ्वी । 'इयं वा उपयामः' इति ब्राह्मणम् । 'हलश्च' इति घञ्, थाथादिस्वरेणान्तोदात्तत्वम् । तेन गृहीतस्त्वमसि ; कोन्यस्त्वां गृहीतुं क्षम इति भावः ; पृथिव्यापो गृहीष्यामीतिवत् । 'तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् । यद्वा - उपयामार्थं पृथिव्यर्थं गृहीतोसीति ; हे सोम ।   
@@ -356,32 +395,38 @@ ________________
 
 नभ॑श्च +++(त्वां प्रतिपद्यताम्।)+++
 </details>
+
 <details><summary>Keith</summary>
 
 thou art Nabha
 </details>
+
 <details><summary>मूलम्</summary>
 
 नभ॑श्च +++(त्वां प्रतिपद्यताम्।)+++
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 नह्यति बध्नाति जन्तूनिति नभः । 'नहेर्दिवि भश्च' इत्यसुन्प्रत्ययः । वार्षिको मास उच्यते । स हि वर्षाभिभवेन जन्तून्प्रवृत्तिशून्यान् करोतीति बध्नाति । यद्वा - न भातीति नभः, स हि मेघाच्छादितत्वात् न भाति । भातेरसुनि नञ्समासे नलोपाभावो बहुलवचनत्वात् ॥
 </details>
-<div class="js_include" newlevelforh1="5" title="अनुषङ्गः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/14_RtugrahAH/aMhaspatyAya.md">
-<details open><summary><h5>अनुषङ्गः ...{Loading}...</h5></summary>
+<div class="js_include" newlevelforh1="5" title="अनुषङ्गः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/14_RtugrahAH/aMhaspatyAya.md">
+<details open><summary><h6>अनुषङ्गः ...{Loading}...</h6></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अँ॒ह॒स्प॒त्याय॑ त्वा   +++(जुष्टं गृण्हामि)+++
 </details>
+
 <details><summary>Keith</summary>
 
 To Anhaspatya thee!
 </details>
+
 <details><summary>मूलम्</summary>
 
 अँ॒ह॒स्प॒त्याय॑ त्वा
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 यद्वा - यस्मादयं मासिमास्यंशेनांशेन निष्पद्यते तस्मात्संतुष्ट एव मासान्तरैस्सर्पति । त्रिंशता च मासैर्मासत्वेन सम्पद्यते । ईदृशस्त्वमसि न कर्मणां त्रयोदशमासार्होसीति । 'परादिश्छन्दसि बहुलम्' इत्युत्तरपदाद्युदात्तत्वम् ।
@@ -403,20 +448,23 @@ _______
 
 6षष्ठं गृह्णाति - नभस्यश्चेति ॥ 
 </details>
-<div class="js_include" newlevelforh1="5" title="अनुषङ्गः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
-<details open><summary><h5>अनुषङ्गः ...{Loading}...</h5></summary>
+<div class="js_include" newlevelforh1="5" title="अनुषङ्गः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
+<details open><summary><h6>अनुषङ्गः ...{Loading}...</h6></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ॒प॒या॒म-गृ॑हीतो ऽसि।
 </details>
+
 <details><summary>Keith</summary>
 
 Thou art taken with a support/ foundation.
 </details>
+
 <details><summary>मूलम्</summary>
 
 उ॒प॒या॒मगृ॑हीतोऽसि।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 उपयम्यन्ते स्वात्मन्येव नियम्यन्ते भूतजातान्यस्मिन् अभिन्नेधिकरणे इत्युपयामः पृथ्वी । 'इयं वा उपयामः' इति ब्राह्मणम् । 'हलश्च' इति घञ्, थाथादिस्वरेणान्तोदात्तत्वम् । तेन गृहीतस्त्वमसि ; कोन्यस्त्वां गृहीतुं क्षम इति भावः ; पृथिव्यापो गृहीष्यामीतिवत् । 'तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् । यद्वा - उपयामार्थं पृथिव्यर्थं गृहीतोसीति ; हे सोम ।   
@@ -433,32 +481,38 @@ ________________
 
 न॒भ॒स्य॑श्च  +++(त्वां प्रतिपद्यताम्।)+++
 </details>
+
 <details><summary>Keith</summary>
 
 and Nabbasya; 
 </details>
+
 <details><summary>मूलम्</summary>
 
 न॒भ॒स्य॑श्च  +++(त्वां प्रतिपद्यताम्।)+++
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 नभातीति नभः, भातेरसुन् । समानमन्यत् । अप्रकाशो नभोस्यास्तीति नभस्यः, 'मत्वर्थे मासतन्वोः' इति यत् ॥
 </details>
-<div class="js_include" newlevelforh1="5" title="अनुषङ्गः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/14_RtugrahAH/aMhaspatyAya.md">
-<details open><summary><h5>अनुषङ्गः ...{Loading}...</h5></summary>
+<div class="js_include" newlevelforh1="5" title="अनुषङ्गः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/14_RtugrahAH/aMhaspatyAya.md">
+<details open><summary><h6>अनुषङ्गः ...{Loading}...</h6></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अँ॒ह॒स्प॒त्याय॑ त्वा   +++(जुष्टं गृण्हामि)+++
 </details>
+
 <details><summary>Keith</summary>
 
 To Anhaspatya thee!
 </details>
+
 <details><summary>मूलम्</summary>
 
 अँ॒ह॒स्प॒त्याय॑ त्वा
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 यद्वा - यस्मादयं मासिमास्यंशेनांशेन निष्पद्यते तस्मात्संतुष्ट एव मासान्तरैस्सर्पति । त्रिंशता च मासैर्मासत्वेन सम्पद्यते । ईदृशस्त्वमसि न कर्मणां त्रयोदशमासार्होसीति । 'परादिश्छन्दसि बहुलम्' इत्युत्तरपदाद्युदात्तत्वम् ।
@@ -480,20 +534,23 @@ _______
 
 7सप्तमं गृह्णाति - इषश्चेति ॥ 
 </details>
-<div class="js_include" newlevelforh1="5" title="अनुषङ्गः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
-<details open><summary><h5>अनुषङ्गः ...{Loading}...</h5></summary>
+<div class="js_include" newlevelforh1="5" title="अनुषङ्गः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
+<details open><summary><h6>अनुषङ्गः ...{Loading}...</h6></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ॒प॒या॒म-गृ॑हीतो ऽसि।
 </details>
+
 <details><summary>Keith</summary>
 
 Thou art taken with a support/ foundation.
 </details>
+
 <details><summary>मूलम्</summary>
 
 उ॒प॒या॒मगृ॑हीतोऽसि।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 उपयम्यन्ते स्वात्मन्येव नियम्यन्ते भूतजातान्यस्मिन् अभिन्नेधिकरणे इत्युपयामः पृथ्वी । 'इयं वा उपयामः' इति ब्राह्मणम् । 'हलश्च' इति घञ्, थाथादिस्वरेणान्तोदात्तत्वम् । तेन गृहीतस्त्वमसि ; कोन्यस्त्वां गृहीतुं क्षम इति भावः ; पृथिव्यापो गृहीष्यामीतिवत् । 'तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् । यद्वा - उपयामार्थं पृथिव्यर्थं गृहीतोसीति ; हे सोम ।   
@@ -510,32 +567,38 @@ ________________
 
 इ॒षश्च॑  +++(त्वां प्रतिपद्यताम्।)+++।
 </details>
+
 <details><summary>Keith</summary>
 
 thou art Isa 
 </details>
+
 <details><summary>मूलम्</summary>
 
 इ॒षश्च॑  +++(त्वां प्रतिपद्यताम्।)+++।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 इडन्नम् । भूम्नि मत्वर्थीयोकारप्रत्ययः । इष इति शारदो मास उच्यते, शरदि हि प्रायेनौषधयस्सम्पद्यन्ते ॥
 </details>
-<div class="js_include" newlevelforh1="5" title="अनुषङ्गः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/14_RtugrahAH/aMhaspatyAya.md">
-<details open><summary><h5>अनुषङ्गः ...{Loading}...</h5></summary>
+<div class="js_include" newlevelforh1="5" title="अनुषङ्गः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/14_RtugrahAH/aMhaspatyAya.md">
+<details open><summary><h6>अनुषङ्गः ...{Loading}...</h6></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अँ॒ह॒स्प॒त्याय॑ त्वा   +++(जुष्टं गृण्हामि)+++
 </details>
+
 <details><summary>Keith</summary>
 
 To Anhaspatya thee!
 </details>
+
 <details><summary>मूलम्</summary>
 
 अँ॒ह॒स्प॒त्याय॑ त्वा
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 यद्वा - यस्मादयं मासिमास्यंशेनांशेन निष्पद्यते तस्मात्संतुष्ट एव मासान्तरैस्सर्पति । त्रिंशता च मासैर्मासत्वेन सम्पद्यते । ईदृशस्त्वमसि न कर्मणां त्रयोदशमासार्होसीति । 'परादिश्छन्दसि बहुलम्' इत्युत्तरपदाद्युदात्तत्वम् ।
@@ -557,20 +620,23 @@ _______
 
 8अष्टमं गृह्णाति - ऊर्जश्चेति ॥ 
 </details>
-<div class="js_include" newlevelforh1="5" title="अनुषङ्गः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
-<details open><summary><h5>अनुषङ्गः ...{Loading}...</h5></summary>
+<div class="js_include" newlevelforh1="5" title="अनुषङ्गः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
+<details open><summary><h6>अनुषङ्गः ...{Loading}...</h6></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ॒प॒या॒म-गृ॑हीतो ऽसि।
 </details>
+
 <details><summary>Keith</summary>
 
 Thou art taken with a support/ foundation.
 </details>
+
 <details><summary>मूलम्</summary>
 
 उ॒प॒या॒मगृ॑हीतोऽसि।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 उपयम्यन्ते स्वात्मन्येव नियम्यन्ते भूतजातान्यस्मिन् अभिन्नेधिकरणे इत्युपयामः पृथ्वी । 'इयं वा उपयामः' इति ब्राह्मणम् । 'हलश्च' इति घञ्, थाथादिस्वरेणान्तोदात्तत्वम् । तेन गृहीतस्त्वमसि ; कोन्यस्त्वां गृहीतुं क्षम इति भावः ; पृथिव्यापो गृहीष्यामीतिवत् । 'तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् । यद्वा - उपयामार्थं पृथिव्यर्थं गृहीतोसीति ; हे सोम ।   
@@ -587,32 +653,38 @@ ________________
 
 ऊ॒र्जश्च॑  +++(त्वां प्रतिपद्यताम्।)+++।
 </details>
+
 <details><summary>Keith</summary>
 
 and Urja; 
 </details>
+
 <details><summary>मूलम्</summary>
 
 ऊ॒र्जश्च॑  +++(त्वां प्रतिपद्यताम्।)+++।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ऊर्ग् रसः, स एव मत्वर्थीयोकारः । तत्र हि गावो बहुक्षीरा भवन्ति । प्रसन्नाश्च सरित्तटाकादयो रसवन्तो भवन्ति ॥
 </details>
-<div class="js_include" newlevelforh1="5" title="अनुषङ्गः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/14_RtugrahAH/aMhaspatyAya.md">
-<details open><summary><h5>अनुषङ्गः ...{Loading}...</h5></summary>
+<div class="js_include" newlevelforh1="5" title="अनुषङ्गः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/14_RtugrahAH/aMhaspatyAya.md">
+<details open><summary><h6>अनुषङ्गः ...{Loading}...</h6></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अँ॒ह॒स्प॒त्याय॑ त्वा   +++(जुष्टं गृण्हामि)+++
 </details>
+
 <details><summary>Keith</summary>
 
 To Anhaspatya thee!
 </details>
+
 <details><summary>मूलम्</summary>
 
 अँ॒ह॒स्प॒त्याय॑ त्वा
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 यद्वा - यस्मादयं मासिमास्यंशेनांशेन निष्पद्यते तस्मात्संतुष्ट एव मासान्तरैस्सर्पति । त्रिंशता च मासैर्मासत्वेन सम्पद्यते । ईदृशस्त्वमसि न कर्मणां त्रयोदशमासार्होसीति । 'परादिश्छन्दसि बहुलम्' इत्युत्तरपदाद्युदात्तत्वम् ।
@@ -634,20 +706,23 @@ _______
 
 9नवमं गृह्णाति - सहश्चेति ॥ 
 </details>
-<div class="js_include" newlevelforh1="5" title="अनुषङ्गः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
-<details open><summary><h5>अनुषङ्गः ...{Loading}...</h5></summary>
+<div class="js_include" newlevelforh1="5" title="अनुषङ्गः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
+<details open><summary><h6>अनुषङ्गः ...{Loading}...</h6></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ॒प॒या॒म-गृ॑हीतो ऽसि।
 </details>
+
 <details><summary>Keith</summary>
 
 Thou art taken with a support/ foundation.
 </details>
+
 <details><summary>मूलम्</summary>
 
 उ॒प॒या॒मगृ॑हीतोऽसि।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 उपयम्यन्ते स्वात्मन्येव नियम्यन्ते भूतजातान्यस्मिन् अभिन्नेधिकरणे इत्युपयामः पृथ्वी । 'इयं वा उपयामः' इति ब्राह्मणम् । 'हलश्च' इति घञ्, थाथादिस्वरेणान्तोदात्तत्वम् । तेन गृहीतस्त्वमसि ; कोन्यस्त्वां गृहीतुं क्षम इति भावः ; पृथिव्यापो गृहीष्यामीतिवत् । 'तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् । यद्वा - उपयामार्थं पृथिव्यर्थं गृहीतोसीति ; हे सोम ।   
@@ -664,32 +739,38 @@ ________________
 
 सह॑श्च  +++(त्वां प्रतिपद्यताम्।)+++
 </details>
+
 <details><summary>Keith</summary>
 
 thou art Saha
 </details>
+
 <details><summary>मूलम्</summary>
 
 सह॑श्च  +++(त्वां प्रतिपद्यताम्।)+++
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हैमन्तिको मास उच्यते । सहते अभिभवतीति सहः । स हि शीतेन प्रजा अभिभवति । कर्तर्यसुन् ॥
 </details>
-<div class="js_include" newlevelforh1="5" title="अनुषङ्गः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/14_RtugrahAH/aMhaspatyAya.md">
-<details open><summary><h5>अनुषङ्गः ...{Loading}...</h5></summary>
+<div class="js_include" newlevelforh1="5" title="अनुषङ्गः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/14_RtugrahAH/aMhaspatyAya.md">
+<details open><summary><h6>अनुषङ्गः ...{Loading}...</h6></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अँ॒ह॒स्प॒त्याय॑ त्वा   +++(जुष्टं गृण्हामि)+++
 </details>
+
 <details><summary>Keith</summary>
 
 To Anhaspatya thee!
 </details>
+
 <details><summary>मूलम्</summary>
 
 अँ॒ह॒स्प॒त्याय॑ त्वा
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 यद्वा - यस्मादयं मासिमास्यंशेनांशेन निष्पद्यते तस्मात्संतुष्ट एव मासान्तरैस्सर्पति । त्रिंशता च मासैर्मासत्वेन सम्पद्यते । ईदृशस्त्वमसि न कर्मणां त्रयोदशमासार्होसीति । 'परादिश्छन्दसि बहुलम्' इत्युत्तरपदाद्युदात्तत्वम् ।
@@ -711,20 +792,23 @@ _______
 
 10दशमं गृह्णाति - सहस्यश्चेति ॥ 
 </details>
-<div class="js_include" newlevelforh1="5" title="अनुषङ्गः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
-<details open><summary><h5>अनुषङ्गः ...{Loading}...</h5></summary>
+<div class="js_include" newlevelforh1="5" title="अनुषङ्गः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
+<details open><summary><h6>अनुषङ्गः ...{Loading}...</h6></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ॒प॒या॒म-गृ॑हीतो ऽसि।
 </details>
+
 <details><summary>Keith</summary>
 
 Thou art taken with a support/ foundation.
 </details>
+
 <details><summary>मूलम्</summary>
 
 उ॒प॒या॒मगृ॑हीतोऽसि।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 उपयम्यन्ते स्वात्मन्येव नियम्यन्ते भूतजातान्यस्मिन् अभिन्नेधिकरणे इत्युपयामः पृथ्वी । 'इयं वा उपयामः' इति ब्राह्मणम् । 'हलश्च' इति घञ्, थाथादिस्वरेणान्तोदात्तत्वम् । तेन गृहीतस्त्वमसि ; कोन्यस्त्वां गृहीतुं क्षम इति भावः ; पृथिव्यापो गृहीष्यामीतिवत् । 'तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् । यद्वा - उपयामार्थं पृथिव्यर्थं गृहीतोसीति ; हे सोम ।   
@@ -741,32 +825,38 @@ ________________
 
 स॒ह॒स्य॑श्च  +++(त्वां प्रतिपद्यताम्।)+++।
 </details>
+
 <details><summary>Keith</summary>
 
  and Sahasya;
 </details>
+
 <details><summary>मूलम्</summary>
 
 स॒ह॒स्य॑श्च  +++(त्वां प्रतिपद्यताम्।)+++।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 प्रजानामभिभावकेन शीतेन तद्वान् । तेनैव यत्प्रत्ययः । शीतवानिति यावत् ॥
 </details>
-<div class="js_include" newlevelforh1="5" title="अनुषङ्गः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/14_RtugrahAH/aMhaspatyAya.md">
-<details open><summary><h5>अनुषङ्गः ...{Loading}...</h5></summary>
+<div class="js_include" newlevelforh1="5" title="अनुषङ्गः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/14_RtugrahAH/aMhaspatyAya.md">
+<details open><summary><h6>अनुषङ्गः ...{Loading}...</h6></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अँ॒ह॒स्प॒त्याय॑ त्वा   +++(जुष्टं गृण्हामि)+++
 </details>
+
 <details><summary>Keith</summary>
 
 To Anhaspatya thee!
 </details>
+
 <details><summary>मूलम्</summary>
 
 अँ॒ह॒स्प॒त्याय॑ त्वा
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 यद्वा - यस्मादयं मासिमास्यंशेनांशेन निष्पद्यते तस्मात्संतुष्ट एव मासान्तरैस्सर्पति । त्रिंशता च मासैर्मासत्वेन सम्पद्यते । ईदृशस्त्वमसि न कर्मणां त्रयोदशमासार्होसीति । 'परादिश्छन्दसि बहुलम्' इत्युत्तरपदाद्युदात्तत्वम् ।
@@ -788,20 +878,23 @@ _______
 
 11एकादशं गृह्णाति - तपश्चेति ॥ 
 </details>
-<div class="js_include" newlevelforh1="5" title="अनुषङ्गः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
-<details open><summary><h5>अनुषङ्गः ...{Loading}...</h5></summary>
+<div class="js_include" newlevelforh1="5" title="अनुषङ्गः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
+<details open><summary><h6>अनुषङ्गः ...{Loading}...</h6></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ॒प॒या॒म-गृ॑हीतो ऽसि।
 </details>
+
 <details><summary>Keith</summary>
 
 Thou art taken with a support/ foundation.
 </details>
+
 <details><summary>मूलम्</summary>
 
 उ॒प॒या॒मगृ॑हीतोऽसि।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 उपयम्यन्ते स्वात्मन्येव नियम्यन्ते भूतजातान्यस्मिन् अभिन्नेधिकरणे इत्युपयामः पृथ्वी । 'इयं वा उपयामः' इति ब्राह्मणम् । 'हलश्च' इति घञ्, थाथादिस्वरेणान्तोदात्तत्वम् । तेन गृहीतस्त्वमसि ; कोन्यस्त्वां गृहीतुं क्षम इति भावः ; पृथिव्यापो गृहीष्यामीतिवत् । 'तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् । यद्वा - उपयामार्थं पृथिव्यर्थं गृहीतोसीति ; हे सोम ।   
@@ -818,32 +911,38 @@ ________________
 
 तप॑श्च  +++(त्वां प्रतिपद्यताम्।)+++।
 </details>
+
 <details><summary>Keith</summary>
 
  thou art Tapa
 </details>
+
 <details><summary>मूलम्</summary>
 
 तप॑श्च  +++(त्वां प्रतिपद्यताम्।)+++।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 शैशिर उच्यते । तपति दहति हिमेनेति तपः । कर्तर्येवासुन् ॥
 </details>
-<div class="js_include" newlevelforh1="5" title="अनुषङ्गः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/14_RtugrahAH/aMhaspatyAya.md">
-<details open><summary><h5>अनुषङ्गः ...{Loading}...</h5></summary>
+<div class="js_include" newlevelforh1="5" title="अनुषङ्गः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/14_RtugrahAH/aMhaspatyAya.md">
+<details open><summary><h6>अनुषङ्गः ...{Loading}...</h6></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अँ॒ह॒स्प॒त्याय॑ त्वा   +++(जुष्टं गृण्हामि)+++
 </details>
+
 <details><summary>Keith</summary>
 
 To Anhaspatya thee!
 </details>
+
 <details><summary>मूलम्</summary>
 
 अँ॒ह॒स्प॒त्याय॑ त्वा
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 यद्वा - यस्मादयं मासिमास्यंशेनांशेन निष्पद्यते तस्मात्संतुष्ट एव मासान्तरैस्सर्पति । त्रिंशता च मासैर्मासत्वेन सम्पद्यते । ईदृशस्त्वमसि न कर्मणां त्रयोदशमासार्होसीति । 'परादिश्छन्दसि बहुलम्' इत्युत्तरपदाद्युदात्तत्वम् ।
@@ -865,20 +964,23 @@ _______
 
 12द्वादशं गृह्णाति - तपस्यश्चेति । 
 </details>
-<div class="js_include" newlevelforh1="5" title="अनुषङ्गः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
-<details open><summary><h5>अनुषङ्गः ...{Loading}...</h5></summary>
+<div class="js_include" newlevelforh1="5" title="अनुषङ्गः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
+<details open><summary><h6>अनुषङ्गः ...{Loading}...</h6></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ॒प॒या॒म-गृ॑हीतो ऽसि।
 </details>
+
 <details><summary>Keith</summary>
 
 Thou art taken with a support/ foundation.
 </details>
+
 <details><summary>मूलम्</summary>
 
 उ॒प॒या॒मगृ॑हीतोऽसि।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 उपयम्यन्ते स्वात्मन्येव नियम्यन्ते भूतजातान्यस्मिन् अभिन्नेधिकरणे इत्युपयामः पृथ्वी । 'इयं वा उपयामः' इति ब्राह्मणम् । 'हलश्च' इति घञ्, थाथादिस्वरेणान्तोदात्तत्वम् । तेन गृहीतस्त्वमसि ; कोन्यस्त्वां गृहीतुं क्षम इति भावः ; पृथिव्यापो गृहीष्यामीतिवत् । 'तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् । यद्वा - उपयामार्थं पृथिव्यर्थं गृहीतोसीति ; हे सोम ।   
@@ -895,33 +997,39 @@ ________________
 
 त॒प॒स्य॑श्च  +++(त्वां प्रतिपद्यताम्।)+++।
 </details>
+
 <details><summary>Keith</summary>
 
  and Tapasya.
 </details>
+
 <details><summary>मूलम्</summary>
 
 त॒प॒स्य॑श्च  +++(त्वां प्रतिपद्यताम्।)+++।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तपता हिमेन तद्वान् तपस्यः । स एव यत् । एवं नभस्सहस्तपश्शब्दाः स्वरानुरोधेनासुन्प्रत्ययान्ता व्याख्याताः । तथैव चाहुर्लौकिकाः -  
 'नभोनभस्यौ कथिताविषोर्जौ सहस्सहस्य्हौ च तपस्तपस्यौ' इति । आचार्याभिप्रायेण त्वेते अकारान्ता लक्ष्यन्ते; यथोक्तं - 'नभाय त्वा जुष्टं गृह्णामि' इत्यादि । तदा ते इमे मत्वर्थीयाकारान्ता द्रष्टव्याः । क्विबन्तेभ्यो वाऽसुन् कार्यः । पचाद्यजन्तेभ्यो वा मत्वर्थीयो लुप्यते । सर्वथा त्वेते वृषादयो द्रष्टव्याः ॥
 </details>
-<div class="js_include" newlevelforh1="5" title="अनुषङ्गः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/14_RtugrahAH/aMhaspatyAya.md">
-<details open><summary><h5>अनुषङ्गः ...{Loading}...</h5></summary>
+<div class="js_include" newlevelforh1="5" title="अनुषङ्गः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/14_RtugrahAH/aMhaspatyAya.md">
+<details open><summary><h6>अनुषङ्गः ...{Loading}...</h6></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अँ॒ह॒स्प॒त्याय॑ त्वा   +++(जुष्टं गृण्हामि)+++
 </details>
+
 <details><summary>Keith</summary>
 
 To Anhaspatya thee!
 </details>
+
 <details><summary>मूलम्</summary>
 
 अँ॒ह॒स्प॒त्याय॑ त्वा
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 यद्वा - यस्मादयं मासिमास्यंशेनांशेन निष्पद्यते तस्मात्संतुष्ट एव मासान्तरैस्सर्पति । त्रिंशता च मासैर्मासत्वेन सम्पद्यते । ईदृशस्त्वमसि न कर्मणां त्रयोदशमासार्होसीति । 'परादिश्छन्दसि बहुलम्' इत्युत्तरपदाद्युदात्तत्वम् ।
@@ -943,20 +1051,23 @@ _______
 
 13त्रयोदशं गृह्णाति - उपयामगृहीतोसि संसर्पोस्यंहस्पत्याय त्वा जुष्टं गृण्हामि इति ॥ 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
-<details open><summary><h5>उपयामगृहीतः ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
+<details open><summary><h6>उपयामगृहीतः ...{Loading}...</h6></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ॒प॒या॒म-गृ॑हीतो ऽसि।
 </details>
+
 <details><summary>Keith</summary>
 
 Thou art taken with a support/ foundation.
 </details>
+
 <details><summary>मूलम्</summary>
 
 उ॒प॒या॒मगृ॑हीतोऽसि।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 उपयम्यन्ते स्वात्मन्येव नियम्यन्ते भूतजातान्यस्मिन् अभिन्नेधिकरणे इत्युपयामः पृथ्वी । 'इयं वा उपयामः' इति ब्राह्मणम् । 'हलश्च' इति घञ्, थाथादिस्वरेणान्तोदात्तत्वम् । तेन गृहीतस्त्वमसि ; कोन्यस्त्वां गृहीतुं क्षम इति भावः ; पृथिव्यापो गृहीष्यामीतिवत् । 'तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् । यद्वा - उपयामार्थं पृथिव्यर्थं गृहीतोसीति ; हे सोम ।   
@@ -973,15 +1084,18 @@ ________________
 
 सँ॒सर्पो॑ऽसि ...   
 </details>
+
 <details><summary>Keith</summary>
 
 Thou art Samsarpa.
 </details>
+
 <details><summary>मूलम्</summary>
 
 सँ॒सर्पो॑ऽसि ...   
  ॥ [15]  
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हे सोम उपयामगृहीतोसि, ततस्त्वामंहस्पत्याय त्वां जुष्टं गृह्णामीति वक्ष्यमाणेन सम्बध्यते । संसर्प इति त्रयोदशो मास उच्यते । स हि द्वादशेन मासेन संसर्पति सङ्गच्छते । 
@@ -991,20 +1105,23 @@ Thou art Samsarpa.
 यद्वा - उपयामगृहीतोसि संसर्पार्थश्चासि।  
 तस्मादंहस्पत्याय त्वां गृह्णामीति । चतुर्थ्यर्थे वा द्वितीया, अंहस्पत्याय तुभ्यमिमं सोमं गृह्णमीति शेषः ॥
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/14_RtugrahAH/aMhaspatyAya.md">
-<details open><summary><h5>अंहस्पत्याय ...{Loading}...</h5></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/14_RtugrahAH/aMhaspatyAya.md">
+<details open><summary><h6>अंहस्पत्याय ...{Loading}...</h6></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अँ॒ह॒स्प॒त्याय॑ त्वा   +++(जुष्टं गृण्हामि)+++
 </details>
+
 <details><summary>Keith</summary>
 
 To Anhaspatya thee!
 </details>
+
 <details><summary>मूलम्</summary>
 
 अँ॒ह॒स्प॒त्याय॑ त्वा
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 यद्वा - यस्मादयं मासिमास्यंशेनांशेन निष्पद्यते तस्मात्संतुष्ट एव मासान्तरैस्सर्पति । त्रिंशता च मासैर्मासत्वेन सम्पद्यते । ईदृशस्त्वमसि न कर्मणां त्रयोदशमासार्होसीति । 'परादिश्छन्दसि बहुलम्' इत्युत्तरपदाद्युदात्तत्वम् ।
@@ -1021,8 +1138,7 @@ To Anhaspatya thee!
 </details>
 </div>  
 
-
-
 इति चतुर्थे चतुर्दशोनुवाकः ॥  
 
+</details>
 </div>

@@ -16,7 +16,6 @@ unicode_script: devanagari
 </div>  
 +++(अत्र क्षारलवणादीनामपि होमो भवति । उक्तानि यथोपदेशं काम्यानि । तत्र द्रवद्रव्येषु दर्वी । तत्र द्रवद्रव्येषु दर्वी । इतरेषु हस्तः ।)+++
 
-
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/06_karmAntarANi/09_02_arthaprAdhvasya_parixave.md">
 <details open><summary><h2>०९ ०२ अर्थप्राध्वस्य परिक्षवे ...{Loading}...</h2></summary>
 
@@ -126,11 +125,9 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/022/15_syonA_pRthivi.md">
 <details open><summary><h6>१५ स्योना पृथिवि ...{Loading}...</h6></summary>
 
-
-+++(अभिमृशति)+++  
-स्यो॒ना+++(=सुखरूपा)+++ पृ॑थिवि॒ भवा॑+  
-ऽनृक्ष॒रा+++(=कण्टकादिरहिता)+++ नि॒वेश॑नी ।  
-यच्छा॑ न॒श् शर्म॑ स॒प्रथाः॑+++(=सकीर्तिः)+++ ।
+स्योना᳓+++(=सुखरूपा)+++ पृथिवि भव+  
+अनृक्षरा᳓+++(=कण्टकादिरहिता)+++ निवे᳓शनी ।  
+य᳓च्छा नश् श᳓र्म सप्र᳓थाः+++(=सकीर्तिः)+++ ।
 
 </details>
 </div>
@@ -138,8 +135,6 @@ unicode_script: devanagari
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/09_baDitthA_parvatAnAnkhidrambibharShi.md">
 <details open><summary><h4>०९ बडित्था पर्वतानाङ्खिद्रम्बिभर्षि ...{Loading}...</h4></summary>
-
-
 
 बड् इ॒त्था+++(त्थं)+++ पर्व॑तानाङ्+++(→मेघानाम्)+++  
 खि॒द्रम्+++(=छिद्रं →छेदनम्)+++ बि॑भर्षि पृथिवि ।  

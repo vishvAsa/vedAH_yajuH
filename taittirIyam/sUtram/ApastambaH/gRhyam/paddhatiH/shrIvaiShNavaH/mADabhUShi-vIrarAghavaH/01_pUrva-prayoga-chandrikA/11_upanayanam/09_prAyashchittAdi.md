@@ -5,7 +5,6 @@ title = "०९ प्रायश्चित्तादि"
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/mantrahInam_hutAshana.md">
 <details open><summary><h5>मन्त्रहीनं - हुताशन ...{Loading}...</h5></summary>
 
-
 (अग्नये नमः)
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -15,6 +14,7 @@ title = "०९ प्रायश्चित्तादि"
 यद्धुतं तु मया देव  
 परिपूर्णं तदस्तु ते ॥  
 </details>
+
 <details><summary>मूलम्</summary>
 
 मन्त्रहीनं क्रियाहीनं  
@@ -33,6 +33,7 @@ title = "०९ प्रायश्चित्तादि"
 यानि तेषाम् अशेषाणां  
 कृष्णानुस्मरणं परम् ॥
 </details>
+
 <details><summary>मूलम्</summary>
 
 प्रायश्चित्तान्यशेषाणि  
@@ -44,7 +45,6 @@ title = "०९ प्रायश्चित्तादि"
 (कृष्ण कृष्ण कृष्ण॥)
 </details>
 </div>
-
 
 ## धारणम्
 एतमग्निं त्र्यहं धारयेत् ।  
@@ -61,7 +61,6 @@ title = "०९ प्रायश्चित्तादि"
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/14_brahmachAryasy_apo-shAna.md">
 <details open><summary><h2>१४ ब्रह्मचार्यस्य्, अपोऽशान ...{Loading}...</h2></summary>
-
 
 ब्र॒ह्म॒चा॒र्य् अ॑सि।   
 (वटुः - बाढम्।) 
@@ -84,7 +83,6 @@ title = "०९ प्रायश्चित्तादि"
 
 </details>
 </div>
-
 
 ## भिक्षा
 आचार्यः तस्मै अरिक्तं पात्रं प्रयच्छन्  

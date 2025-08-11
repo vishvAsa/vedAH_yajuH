@@ -11,7 +11,7 @@ title = "०१ अभ्युदयम्"
 हिरण्यपक्षे - 
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/hiraNya-garbha-garbhasthaM_sampradade/">
-<details open><summary><h5>Hira Nya garbha garbhastha M sampradade ...{Loading}...</h5></summary>
+<details open><summary><h5>हिरण्य-गर्भ--गर्भ-स्थं … सम्प्रददे ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/purANam/agni-purANam/sarva-prastutiH/167_ayutalaxakoTihomAH/hiraNya-garbha-garbhastham.md">
 <details open><summary><h10>हिरण्य-गर्भ--गर्भ-स्थं ...{Loading}...</h10></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -21,6 +21,7 @@ title = "०१ अभ्युदयम्"
 अनन्त-पुण्य-फल-दम्  
 अतश् शान्तिं प्रयच्छ मे॥
 </details>
+
 <details><summary>मूलम्</summary>
 
 हिरण्यगर्भगर्भस्थं  
@@ -46,7 +47,6 @@ _________
 </details>
 </div>  
 
-
 इत्युक्त्वा,  
 
 > वसु-सत्याख्य-विश्व-देवेभ्यः  
@@ -60,7 +60,6 @@ _________
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/yaJNeshvaraH__eko_viShNuH/">
 <details open><summary><h5>यज्ञेश्वरो … एको विष्णुः ...{Loading}...</h5></summary>
-
 
 यज्ञेश्वरो हव्य-समस्त-कव्य-  
 **भोक्ता** ऽव्ययात्मा हरिर् ईश्वरो ऽत्र ।  

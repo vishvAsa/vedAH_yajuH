@@ -13,6 +13,7 @@ title = "०६ ब्रह्मोपदेशः"
 
 नम॒स्सद॑से॒ नम॒स्सद॑स॒स्पत॑ये॒ नम॒स्सखी॑नाम्पुरो॒गाणा॒ञ्चक्षु॑षे॒ नमो॑ दि॒वे नमᳶ॑ पृथि॒व्यै
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नम॒स् सद॑से॥  
@@ -21,6 +22,7 @@ title = "०६ ब्रह्मोपदेशः"
 नमो॑ दि॒वे॥   
 नमᳶ॑ पृथि॒व्यै॥
 </details>
+
 <details><summary>मूलम्</summary>
 
 नम॒स्सद॑से  
@@ -29,6 +31,7 @@ title = "०६ ब्रह्मोपदेशः"
 नमो॑ दि॒वे   
 नमᳶ॑ पृथि॒व्यै
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 'ऐन्द्रं हि देवतया सदः' इति इन्द्रः सदसस्पतिः पालयिता तस्मै नमः । 'षष्ठयाः पतिपुत्र' इति सत्वम् । सखीनां समानख्यानानामृत्विजां पुरोगाणामग्रतो गन्तृणां प्रधानानां सर्वेषामपि चक्षुषे चक्षुसथानीयाय दर्शनहेतवे सवित्रे च नमः । गतमन्यत् ॥
@@ -61,7 +64,6 @@ title = "०६ ब्रह्मोपदेशः"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/12_rAShTrabhRdasyAchAryAsandI_mA.md">
 <details open><summary><h2>१२ राष्ट्रभृदस्याचार्यासन्दी मा ...{Loading}...</h2></summary>
 
-
 +++(हे कूर्च!)+++ रा॒ष्ट्र॒भृद् अ॑स्य् आचार्याऽऽस॒न्दी, मा त्वद्+++(तः)+++ यो॑षम्+++(←यौतिः पृथग्भावे)+++ । 
 
 </details>
@@ -82,7 +84,6 @@ title = "०६ ब्रह्मोपदेशः"
 अनवानादौ तृतीयां व्याहृतिं च संयोज्य  
 गायत्रीं तस्य दक्षिणे कर्णे जपित्वा  
 तथैव तं वाचयित्वा 
-
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/11_11_vyAhRtIrvihRtAH.md">
 <details open><summary><h2>११ ११ व्याहृतीर्विहृताः ...{Loading}...</h2></summary>
@@ -105,16 +106,16 @@ title = "०६ ब्रह्मोपदेशः"
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/062/10_tatsaviturvareNyaM_bhargo.md">
 <details open><summary><h6>१० तत्सवितुर्वरेण्यं भर्गो ...{Loading}...</h6></summary>
 
-तत् सवि॒तुर् वरे॑ण्य+++(णिय)+++म्  
-भर्गो॑+++(=भर्जनम्)+++ दे॒वस्य॑ धीमहि+++(←धा धारणे/ ध्यै ध्याने / धी आराधने)+++ ।  
-धियो॒ यो नः॑ प्रचो॒दया॑त् ॥  
-(प॒रो-र॑जसे॒ ऽसाव॒द् ओ३म् ॥)
+त᳓त् सवितु᳓र् व᳓रेण्य᳓+++(णिय)+++म्  
+भ᳓र्गो+++(=भर्जनम्)+++ देव᳓स्य धीमहि+++(←धा धारणे/ ध्यै ध्याने / धी आराधने)+++ ।  
+धि᳓यो यो᳓ नः प्रचोद᳓यात् ॥  
+(परो᳓-रजसे ऽसा᳓वद् ओ᳓३म् ॥)
 
-<details><summary>प्रचोदयात्-स्वरः</summary>
+<details><summary>प्र᳓चो᳓द᳓या᳓त्-स्व᳓रः᳓</summary>
 
-प्र + चुद् + णिच् उदात्तः + शप् अनुदात्तः पित्त्वात् + [लेट् → आट् + तिप् अनुदात्तः पित्त्वात्]।  
+प्र᳓ + चु᳓द् + णि᳓च् उ᳓दा᳓त्तः᳓ + श᳓प् अ᳓नु᳓दा᳓त्तः᳓ पि᳓त्त्वा᳓त् + [ले᳓ट् → आ᳓ट् + ति᳓प् अ᳓नु᳓दा᳓त्तः᳓ पि᳓त्त्वा᳓त्]।  
 
-प्रानुदात्तत्वं तिङन्तस्योदात्तवत्त्वात्। तच्च यत्कारसद्भावात्।
+प्रा᳓नु᳓दा᳓त्त᳓त्वं᳓ ति᳓ङ᳓न्त᳓स्यो᳓दा᳓त्त᳓व᳓त्त्वा᳓त्। त᳓च्च᳓ य᳓त्का᳓र᳓स᳓द्भा᳓वा᳓त्।
 </details>
 </details>
 </div>
@@ -125,22 +126,21 @@ title = "०६ ब्रह्मोपदेशः"
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/062/10_tatsaviturvareNyaM_bhargo.md">
 <details open><summary><h6>१० तत्सवितुर्वरेण्यं भर्गो ...{Loading}...</h6></summary>
 
-तत् सवि॒तुर् वरे॑ण्य+++(णिय)+++म्  
-भर्गो॑+++(=भर्जनम्)+++ दे॒वस्य॑ धीमहि+++(←धा धारणे/ ध्यै ध्याने / धी आराधने)+++ ।  
-धियो॒ यो नः॑ प्रचो॒दया॑त् ॥  
-(प॒रो-र॑जसे॒ ऽसाव॒द् ओ३म् ॥)
+त᳓त् सवितु᳓र् व᳓रेण्य᳓+++(णिय)+++म्  
+भ᳓र्गो+++(=भर्जनम्)+++ देव᳓स्य धीमहि+++(←धा धारणे/ ध्यै ध्याने / धी आराधने)+++ ।  
+धि᳓यो यो᳓ नः प्रचोद᳓यात् ॥  
+(परो᳓-रजसे ऽसा᳓वद् ओ᳓३म् ॥)
 
-<details><summary>प्रचोदयात्-स्वरः</summary>
+<details><summary>प्र᳓चो᳓द᳓या᳓त्-स्व᳓रः᳓</summary>
 
-प्र + चुद् + णिच् उदात्तः + शप् अनुदात्तः पित्त्वात् + [लेट् → आट् + तिप् अनुदात्तः पित्त्वात्]।  
+प्र᳓ + चु᳓द् + णि᳓च् उ᳓दा᳓त्तः᳓ + श᳓प् अ᳓नु᳓दा᳓त्तः᳓ पि᳓त्त्वा᳓त् + [ले᳓ट् → आ᳓ट् + ति᳓प् अ᳓नु᳓दा᳓त्तः᳓ पि᳓त्त्वा᳓त्]।  
 
-प्रानुदात्तत्वं तिङन्तस्योदात्तवत्त्वात्। तच्च यत्कारसद्भावात्।
+प्रा᳓नु᳓दा᳓त्त᳓त्वं᳓ ति᳓ङ᳓न्त᳓स्यो᳓दा᳓त्त᳓व᳓त्त्वा᳓त्। त᳓च्च᳓ य᳓त्का᳓र᳓स᳓द्भा᳓वा᳓त्।
 </details>
 </details>
 </div>
 </details>
 </div>   
-
 
 ## ओष्ठोपस्पर्शनम्
 
@@ -149,7 +149,6 @@ title = "०६ ब्रह्मोपदेशः"
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/14_avRdhamasau_saumya.md">
 <details open><summary><h2>१४ अवृधमसौ सौम्य ...{Loading}...</h2></summary>
-
 
 +++(सावित्रीग्रहणात्)+++ अवृ॑धम् अ॒सौ+++(←प्राण-सम्बोधने)+++ सौ॑म्य प्रा॒ण, स्वं मे॑ गोपाय ।+++(५)+++
 
@@ -165,7 +164,6 @@ title = "०६ ब्रह्मोपदेशः"
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/15_brahmaNa_ANI.md">
 <details open><summary><h2>१५ ब्रह्मण आणी ...{Loading}...</h2></summary>
-
 
 +++(सावित्री)+++ब्रह्म॑ण+++(=मन्त्रस्य)+++ आ॒णी+++(=कीले)+++ स्थः॑ ॥+++(५)+++
 

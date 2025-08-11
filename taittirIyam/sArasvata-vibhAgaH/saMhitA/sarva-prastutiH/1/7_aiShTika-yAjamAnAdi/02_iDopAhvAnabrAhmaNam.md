@@ -17,15 +17,17 @@ title = "०२ इडोपाह्वानब्राह्मणम्"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सँश्र॑वा ह सौवर्चन॒सस् तुमि॑ञ्ज॒म् औपो॑दितिम् उवाच॒  
-"यत् स॒त्रिणाँ॒ होता ऽभू॒ᳵ  
-काम् इडा॒म् उपा॑ह्वथा॒" इति॑ ।
+सँ᳓श्रवा ह सौवर्चनस᳓स् तु᳓मिञ्जम् औ᳓पोदितिम् उवाच  
+"य᳓त् सत्रि᳓णाँ हो᳓ता᳓ ऽभूᳵ  
+का᳓म् इ᳓डाम् उ᳓पाह्वथा" इ᳓ति ।
 </details>
+
 <details><summary>Keith</summary>
 
 Samśravas Sauvarcanasa said to Tumiñja Aupoditi:  
 'When thou hast been a Hotr of Sattrins, what Ida hast thou invoked?'
 </details>
+
 <details><summary>मूलम्</summary>
 
 सँश्र॑वा ह सौवर्चन॒सस्तुमि॑ञ्ज॒मौपो॑दितिमुवाच॒   
@@ -42,7 +44,6 @@ Samśravas Sauvarcanasa said to Tumiñja Aupoditi:
 
 1संश्रवा इत्यादि प्रासङ्गिकं हौत्रम् । सुवर्चनसोपत्यं संश्रवा नाम उपोदितस्यापत्यं तुमिञ्जन्नामोवाच ।  
 
-
 यदित्यादि । **यत्** यदा । उपाह्वथाः - 'निसमुपविभ्यो ह्वः' इत्यात्मनेपदम्, 'लिपि सिचि ह्वश्च' इत्यङ् ।  
 </details>
 
@@ -54,16 +55,17 @@ Samśravas Sauvarcanasa said to Tumiñja Aupoditi:
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"ताम् उपा॑ह्व॒" इति॑ होवाच॒  
-"या प्रा॒णेन॑ दे॒वान् दा॒धार॑,  
-व्या॒नेन॑ मनु॒ष्या॑न्,  
-अपा॒नेन॑ पि॒तॄन्" इति॑।  
+"ता᳓म् उ᳓पाह्व" इ᳓ति होवाच  
+"या᳓ प्राणे᳓न देवा᳓न् दाधा᳓र,  
+व्याने᳓न मनुष्या᳙न्,  
+अपाने᳓न पितॄ᳓न्" इ᳓ति।  
 </details>
 
 <details><summary>Keith</summary>
 
 'Her I have invoked', he said, 'who supports the gods by her expiration, men by her cross-breathing, and the Pitrs by her inspiration.' 
 </details>
+
 <details><summary>मूलम्</summary>
 
 तामुपा॑ह्व॒ इति॑ होवाच॒ या प्रा॒णेन॑ दे॒वान्दा॒धार॑ व्या॒नेन॑ मनु॒ष्या॑नपा॒नेन॑ पि॒तॄनिति॑। 
@@ -90,14 +92,15 @@ Samśravas Sauvarcanasa said to Tumiñja Aupoditi:
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"छि॒नत्ति॒ सा न छि॑न॒त्ती३"ति॑ ।   
-"छि॒नत्ती"ति॑ होवाच ।  
+"छिन᳓त्ति सा᳓ न᳓ छिनत्ती᳓३"ति ।   
+"छिन᳓त्ती᳓"ति होवाच ।  
 </details>
 
 <details><summary>Keith</summary>
 
 'Does she divide, or does she not divide' (he asked). 'She divides', he replied.
 </details>
+
 <details><summary>मूलम्</summary>
 
 छि॒नत्ति॒ सा न छि॑न॒त्ती३ति॑ ।   
@@ -125,13 +128,15 @@ Samśravas Sauvarcanasa said to Tumiñja Aupoditi:
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"शरी॑र॒व्ँ वा अ॑स्यै॒ तद् उपा॑ह्वथा॒" इति॑ होवाच॒,  
-"गौर् वा [7] अ॑स्यै॒ शरी॑रम् ।"  
+"श᳓रीरव्ँ वा᳓ अस्यै त᳓द् उ᳓पाह्वथा" इ᳓ति होवाच,  
+"गौ᳓र् वा᳓ [7] +अस्यै श᳓रीरम् ।"  
 </details>
+
 <details><summary>Keith</summary>
 
 'Her body then hast thou invoked', he said. Her body is the cow [1]; 
 </details>
+
 <details><summary>मूलम्</summary>
 
 "शरी॑र॒व्ँ वा अ॑स्यै॒ तद् उपा॑ह्वथा॒" इति॑ होवाच॒,  
@@ -160,15 +165,17 @@ Samśravas Sauvarcanasa said to Tumiñja Aupoditi:
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-गाव्ँ वाव तौ तत् पर्य॑वदताम् ।  
+गा᳓व्ँ वा᳓व᳓ तौ᳓ त᳓त् प᳓र्यवदताम् ।  
 </details>
+
 <details><summary>Keith</summary>
 
 of the cow were they two talking. 
 </details>
+
 <details><summary>मूलम्</summary>
 
-गाव्ँवाव तौ तत्पर्य॑वदताम् ।  
+गाव्ँ वाव तौ तत्पर्य॑वदताम् ।  
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -188,25 +195,27 @@ of the cow were they two talking.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-या य॒ज्ञे दी॒यते॒,  
-सा प्रा॒णेन॑ दे॒वान् दा॑धार॒,  
+या᳓ यज्ञे᳓ दीय᳓ते,  
+सा᳓ प्राणे᳓न देवा᳓न् **दाधार**,  
 
-यया॑ मनु॒ष्या॑ जीव॑न्ति॒,  
-सा व्या॒नेन॑ मनु॒ष्या॑न्  
+य᳓या मनुष्या᳙ जी᳓वन्ति,  
+सा᳓ व्याने᳓न मनुष्या᳙न्,  
 
-याम् पि॒तृभ्यो॒ घ्नन्ति॒  
-सा ऽपा॒नेन॑ पि॒तॄन्। 
+या᳓म् पितृ᳓भ्यो घ्न᳓न्ति  
+सा᳓ ऽपाने᳓न पितॄ᳓न्। 
 </details>
+
 <details><summary>Keith</summary>
 
 She who is given in the sacrifice supports the gods with her expiration;  
 she by whom men live (supports) men by her cross-breathing;  
 she whom they slay for the Fathers (supports) the Fathers by her inspiration;
 </details>
+
 <details><summary>मूलम्</summary>
 
 या य॒ज्ञे दी॒यते॒ सा प्रा॒णेन॑ दे॒वान्दा॑धार॒   
-यया॑ मनु॒ष्या॑ जीव॑न्ति॒ सा व्या॒नेन॑ मनु॒ष्या॑न्  
+यया॑ मनु॒ष्या॑ जीव॑न्ति॒ सा व्या॒नेन॑ मनु॒ष्या॑न्।  
 याम्पि॒तृभ्यो॒ घ्नन्ति॒ साऽपा॒नेन॑ पि॒तॄन्
 </details>
 
@@ -231,17 +240,20 @@ she whom they slay for the Fathers (supports) the Fathers by her inspiration;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य ए॒वव्ँ वेद॑ -  
-पशु॒मान् भ॑वति ।  
+य᳓ एव᳓व्ँ वे᳓द -  
+पशुमा᳓न् भवति ।  
 </details>
+
 <details><summary>Keith</summary>
 
  he who knows thus becomes rich in cattle. 
 </details>
+
 <details><summary>मूलम्</summary>
 
 य ए॒वव्ँ वेद॑ पशु॒मान्भ॑वति ।  
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 यः । ए॒वम् । वेद॑ । प॒शु॒मानिति॑ पशु-मान् । भ॒व॒ति॒ । 
@@ -252,16 +264,17 @@ she whom they slay for the Fathers (supports) the Fathers by her inspiration;
 य एवमित्यादि । गतम् ॥
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"अथ॒ वै ताम् उपा॑ह्व॒" इति॑ होवाच॒  
-"या प्र॒जाᳶ प्र॒भव॑न्ती॒ᳶ प्रत्या॒भव॒ती"ति॑ ।
+"अ᳓थ वै᳓ ता᳓म् उ᳓पाह्व" इ᳓ति होवाच  
+"या᳓ प्रजाᳶ᳓ प्रभ᳓वन्तीᳶ प्र᳓त्याभ᳓वती᳓"ति ।
 </details>
+
 <details><summary>Keith</summary>
 
 'Her too I have invoked', he said, 'who is available to people as they increase.' 
 </details>
+
 <details><summary>मूलम्</summary>
 
 अथ॒ वैतामुपा॑ह्व॒ इति॑ होवाच॒  
@@ -290,12 +303,14 @@ she whom they slay for the Fathers (supports) the Fathers by her inspiration;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"अन्न॒व्ँ वा अ॑स्यै॒ तद् उपा॑ह्वथा॒" इति॑ होवाच ।  
+"अ᳓न्नव्ँ वा᳓ अस्यै त᳓द् उ᳓पाह्वथा" इ᳓ति होवाच ।  
 </details>
+
 <details><summary>Keith</summary>
 
 'Her food then [2] hast thou invoked', he replied. 
 </details>
+
 <details><summary>मूलम्</summary>
 
 अन्न॒व्ँ वा अ॑स्यै॒ तद् उपा॑ह्वथा॒ इति॑ होवाच ।  
@@ -319,16 +334,18 @@ she whom they slay for the Fathers (supports) the Fathers by her inspiration;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ओष॑धयो॒ वा अ॑स्या॒ अन्न॑म् ।   
-ओष॑धयो॒ वै प्र॒जाᳶ प्र॒भव॑न्ती॒ᳶ,  
-प्रत्या भ॑वन्ति ।   
-य ए॒वव्ँ वेदा॑न्ना॒दो भ॑वति ।   
+ओ᳓षधयो वा᳓ अस्या अ᳓न्नम् ।   
+ओ᳓षधयो वै᳓ प्रजाᳶ᳓ प्रभ᳓वन्तीᳶ,  
+प्र᳓त्या᳓ भवन्ति ।   
+य᳓ एव᳓व्ँ वे᳓दान्नादो᳓ भवति ।   
 </details>
+
 <details><summary>Keith</summary>
 
 This food is plants, plants are available to people as they increase;  
 he who knows thus becomes an eater of food.
 </details>
+
 <details><summary>मूलम्</summary>
 
 ओष॑धयो॒ वा अ॑स्या॒ अन्न॑म् ।   
@@ -356,14 +373,17 @@ he who knows thus becomes an eater of food.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"अथ॒ वै ताम् उपा॑ह्व॒" इति॑ होवाच॒
-"या प्र॒जाᳶ प॑रा॒भव॑न्तीर् अनुगृ॒ह्णाति॒ प्रत्या॒भव॑न्तीर् गृ॒ह्णाती"ति॑ ।
+"अ᳓थ वै᳓ ता᳓म् उ᳓पाह्व" इ᳓ति होवाच
+"या᳓ प्रजाᳶ᳓ पराभ᳓वन्तीर् अनुगृह्णा᳓ति  
+प्र᳓त्याभ᳓वन्तीर् गृह्णा᳓ती᳓"ति ।
 </details>
+
 <details><summary>Keith</summary>
 
 'Her too I have invoked', he said,  
 'who supports people in distress and succours them as they improve.' 
 </details>
+
 <details><summary>मूलम्</summary>
 
 अथ॒ वै तामुपा॑ह्व॒ इति॑ होवाच॒
@@ -376,7 +396,6 @@ he who knows thus becomes an eater of food.
 या । प्र॒जा इति॑ प्र-जाः । प॒रा॒भव॑न्ती॒रिति॑ परा-भव॑न्तीः । अ॒नु॒गृ॒ह्णातीत्य॑नु-गृ॒ह्णाति॑ ।   
 प्रतीति॑ । आ॒भव॑न्ती॒रित्या॑-भव॑न्तीः । गृ॒ह्णाति॑ । इति॑ । 
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -396,15 +415,18 @@ he who knows thus becomes an eater of food.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"प्रति॒ष्ठाव्ँ वा अ॑स्यै॒ तदुपा॑ह्वथा॒" इति॑ होवाच ।  
+"प्रतिष्ठा᳓व्ँ वा᳓ अस्यै  
+त᳓द् उ᳓पाह्वथा" इ᳓ति होवाच ।  
 </details>
+
 <details><summary>Keith</summary>
 
 Her support then hast thou invoked', he replied. 
 </details>
+
 <details><summary>मूलम्</summary>
 
-प्रति॒ष्ठाव्ँ वा अ॑स्यै॒ तदुपा॑ह्वथा॒ इति॑ होवाच ।  
+प्र॒ति॒ष्ठाव्ँ वा अ॑स्यै॒ तदुपा॑ह्वथा॒ इति॑ होवाच ।  
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -424,10 +446,11 @@ Her support then hast thou invoked', he replied.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒यव्ँ +++(भूर्)+++ वा अ॑स्यै प्रति॒ष्ठा [9] ।  
-इ॒यव्ँ वै प्र॒जाᳶ प॑रा॒भव॑न्ती॒र् अनु॑गृह्णाति, प्रत्या॒भव॑न्तीर् गृह्णाति ।  
-य ए॒वव्ँ वेद॒ प्रत्ये॒व ति॑ष्ठ॒ति ।  
+इय᳓व्ँ +++(भूर्)+++ वा᳓ अस्यै प्रतिष्ठा᳓ [9] ।  
+इय᳓व्ँ वै᳓ प्रजाᳶ᳓ पराभ᳓वन्तीर् अ᳓नुगृह्णाति, प्रत्याभ᳓वन्तीर् गृह्णाति ।  
+य᳓ एव᳓व्ँ वे᳓द प्र᳓त्य् एव᳓ तिष्ठति ।  
 </details>
+
 <details><summary>Keith</summary>
 
 Her support is this (earth) [3],  
@@ -435,11 +458,12 @@ this (earth) supports people in distress
 and succours them as they improve;  
 he who knows thus finds support. 
 </details>
+
 <details><summary>मूलम्</summary>
 
 इ॒यव्ँ वा अ॑स्यै प्रति॒ष्ठा [9] ।  
 इ॒यव्ँ वै प्र॒जाᳶ प॑रा॒भव॑न्ती॒रनु॑गृह्णाति प्रत्या॒भव॑न्तीर्गृह्णाति ।  
-य ए॒वव्ँ वेद॒ प्रत्ये॒व ति॑ष्ठ॒ति ।  
+य ए॒वव्ँ वेद॒ प्रत्ये॒व ति॑ष्ठति ।  
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -465,13 +489,15 @@ he who knows thus finds support.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"अथ॒ वै तामुपा॑ह्व॒" इति॑ होवाच॒  
-"यस्यै॑ नि॒क्रम॑णे घृ॒तम् प्र॒जास् स॒ञ्जीव॑न्ती॒ᳶ पिब॒न्ती"ति॑ ।  
+"अ᳓थ वै᳓ ता᳓म् उ᳓पाह्व" इ᳓ति होवाच  
+"य᳓स्यै निक्र᳓मणे घृत᳓म् प्रजा᳓स् सञ्जी᳓वन्तीᳶ पि᳓बन्ती᳓"ति ।  
 </details>
+
 <details><summary>Keith</summary>
 
 'Her too I have invoked', he said, 'in whose step people drink the ghee they live upon.' 
 </details>
+
 <details><summary>मूलम्</summary>
 
 अथ॒ वै तामुपा॑ह्व॒ इति॑ होवाच॒   
@@ -485,19 +511,12 @@ he who knows thus finds support.
 यस्यै॑ । नि॒क्रम॑ण॒ इति॑ नि-क्रम॑णे । घृ॒तम् । प्र॒जा इति॑ प्र-जाः । स॒ञ्जीव॑न्ती॒रिति॑ सम्-जीव॑न्तीः । पिब॑न्ति । इति॑ ।
 </details>
 
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 9अथ तुमिञ्ज उवाच - **अथेति ॥** 
 लक्षणं चाभिधत्ते - यस्या इत्यादि । यस्या निक्रमणे न्यक्पतने सर्वाः प्रजास्सञ्जीवन्त्यः घृतमुदकं पिबन्ति ।   
 ब्राह्मणान्तरं च भवति 'सा यत्र यत्र न्यक्रामत्ततो घृतमपीड्यत' इति ॥
 </details>
-
-<details><summary>प्रदीपसिंहः</summary>
-
- लक्षणं चाभिधत्ते - यस्य इत्यादि । अत्र यस्य इति टङ्कितम् । यस्या इति साधु
-</details>
-
 
 <details><summary>सायण-टीका</summary>
 
@@ -507,16 +526,19 @@ he who knows thus finds support.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"छि॒नत्ति॒ सा न छि॑न॒त्ती३"ति॑ ।  
+"छिन᳓त्ति सा᳓ न᳓ छिनत्ती᳓३"ति ।  
 </details>
+
 <details><summary>Keith</summary>
 
 'Does she divide, or does she not divide?' (he asked). 
 </details>
+
 <details><summary>मूलम्</summary>
 
 "छि॒नत्ति॒ सा न छि॑न॒त्ती३"ति॑ ।  
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 छि॒नत्ति॑ । सा । न । छि॒न॒त्ती(३) । इति॑ । 
@@ -534,13 +556,15 @@ he who knows thus finds support.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"न छि॑न॒त्तीति॑" होवाच॒  
-"प्र तु ज॑नय॒ती"ति॑ ।  
+"न᳓ छिनत्ती᳓ति" होवाच  
+"प्र᳓ तु᳓ जनयती᳓"ति ।  
 </details>
+
 <details><summary>Keith</summary>
 
 'She does not divide', he said, 'but she propagates.' 
 </details>
+
 <details><summary>मूलम्</summary>
 
 न छि॑न॒त्तीति॑ होवाच ।  
@@ -565,12 +589,14 @@ he who knows thus finds support.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"ए॒ष वा इडा॒म् उपा॑ह्वथा॒" इति॑ होवाच ।  
+"एष᳓ वा᳓ इ᳓डाम् उ᳓पाह्वथा" इ᳓ति होवाच ।  
 </details>
+
 <details><summary>Keith</summary>
 
 'Indeed hast thou invoked the Ida herself ', he replied. 
 </details>
+
 <details><summary>मूलम्</summary>
 
 ए॒ष वा इडा॒मुपा॑ह्वथा॒ इति॑ होवाच ।  
@@ -593,13 +619,15 @@ he who knows thus finds support.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वृष्टि॒र् वा इडा॑।  
-वृष्ट्यै॒ वै नि॒क्रम॑णे घृ॒तम् प्र॒जास् स॒ञ्जीव॑न्तीᳶ पिबन्ति ।  
+वृ᳓ष्टिर् वा᳓ इ᳓डा।  
+वृ᳓ष्ट्यै वै᳓ निक्र᳓मणे घृत᳓म् प्रजा᳓स् सञ्जी᳓वन्तीᳶ पिबन्ति ।  
 </details>
+
 <details><summary>Keith</summary>
 
 The Ida is rain; in the step of rain people drink the ghee they live upon; 
 </details>
+
 <details><summary>मूलम्</summary>
 
 वृष्टि॒र्वा इडा॑।  
@@ -630,13 +658,16 @@ The Ida is rain; in the step of rain people drink the ghee they live upon;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य ए॒वव्ँ वेद॒   
-प्रैव जा॑यते, ऽन्ना॒दो भ॑वति ॥ [10]
+य᳓ एव᳓व्ँ वे᳓द   
+प्रै᳓व᳓ जायते,  
+अन्नादो᳓ भवति ॥ [10]
 </details>
+
 <details><summary>Keith</summary>
 
 he who knows thus is propagated with offspring; he becomes an eater of food.
 </details>
+
 <details><summary>मूलम्</summary>
 
 य ए॒वव्ँ वेद॒  । 
@@ -655,6 +686,5 @@ he who knows thus is propagated with offspring; he becomes an eater of food.
 एवं वेदिता होता प्रकरणाद्वा यजमानः वृष्टिलाभेन प्रजावान् भवति अन्नस्य चात्ता ॥
 
 इति सप्तमे द्वितीयोनुवाकः ॥  
-
 
 </details>

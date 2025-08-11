@@ -38,7 +38,6 @@ title = "०५ नान्दी-श्राद्धम्"
 ततो मातामहानाञ् च  
 वृद्धौ श्राद्ध-त्रयं स्मृतम् ॥  
 
-
 <details><summary>तमिऴ्</summary>
 
 நாந்தீச்ராத்தம் (அப்யுதயம்)
@@ -79,7 +78,6 @@ title = "०५ नान्दी-श्राद्धम्"
 स-पत्नीक--मातृ-प्रपितामह--मातृ-पितामह--मातामहार्थं द्वौ ।  
 विष्ण्वर्थं द्वौ।  
 इति **दश** ब्राह्मणाः । 
-
 
 लोके तावत् **नव** ब्राह्मणाः  
 इति व्यवहारः ।  
@@ -123,7 +121,6 @@ title = "०५ नान्दी-श्राद्धम्"
 பைத்ருகமான மாதர: என்பதாகக் கொள்ள வேண்டும். காரியமானதால் ப்ராசீனாவிதம் ப்ரஸக்தமாக அப்யுதயத்தில் எல்லாம் உபவீதமாகவே செய்ய வேண்டும். "எள்" ஸ்தானத்தில் யவம் அதாவது. அக்ஷதை. ப்ரயோகம் எழுதப்படுகிறது. ஸங்கல்ப்பம். இன்ன காரியத்திற்கு அங்கமான அப்யுதயம் அல்லது செய்யப்பட்ட இன்ன காரியம் செய்யப்படப் போகிற இன்னென்ன காரியங்கள் இவைகளுக்கு அங்கபூதமான அப்யுதயத்தைச் செய்கிறேன் என்று ஸங்கல்ப்பம் செய்து கொள்ள வேண்டும். பிராம்மணர்களை வரிப்பதாக இருந்தால் [[TODO::परिष्कार्यम्??]]
 </details>
 
-
 [[24]]
 
 ## मुख्य-कल्पः
@@ -153,7 +150,6 @@ title = "०५ नान्दी-श्राद्धम्"
 அஸ்மிந்நப்யுதயே ச்சராத்த ஸம்ரக்ஷக ஸ்ரீ விஷ்ணோ: இதமாஸநம் 2 யதாஸ்தானத்தில் உட்கார்ந்து கொண்டு ஹிரண்யகர்ப்ப கர்ப்பஸ்த்தம் [[TODO::परिष्कार्यम्??]]
 
 </details>
-
 
 > अमुक-कर्माङ्गभूतं नान्दी-श्राद्धं (आभ्युदयिकं वा)  
 हिरण्य-रूपेण करिष्ये ।
@@ -206,9 +202,8 @@ title = "०५ नान्दी-श्राद्धम्"
 ### निधानम्
 हिरण्यं निधाय 
 
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/hiraNya-garbha-garbhasthaM_sampradade/">
-<details open><summary><h5>Hira Nya garbha garbhastha M sampradade ...{Loading}...</h5></summary>
+<details open><summary><h5>हिरण्य-गर्भ--गर्भ-स्थं … सम्प्रददे ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/purANam/agni-purANam/sarva-prastutiH/167_ayutalaxakoTihomAH/hiraNya-garbha-garbhastham.md">
 <details open><summary><h10>हिरण्य-गर्भ--गर्भ-स्थं ...{Loading}...</h10></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -218,6 +213,7 @@ title = "०५ नान्दी-श्राद्धम्"
 अनन्त-पुण्य-फल-दम्  
 अतश् शान्तिं प्रयच्छ मे॥
 </details>
+
 <details><summary>मूलम्</summary>
 
 हिरण्यगर्भगर्भस्थं  
@@ -286,10 +282,12 @@ _________
 
 3आर्त्विज्यं वा करिष्यन् शस्त्रं वा प्रतिगरिष्यन् जपति - इडेति ॥ 
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 इडा॑ देव॒हूर्मनु॑र्यज्ञ॒नीर्बृह॒स्पति॑रुक्थाम॒दानि॑ शँसिष॒द्विश्वे॑ दे॒वाः [3]  सू॒क्त॒वाच॒ᳶ पृथि॑वि मात॒र्मा मा॑ हिँसी॒र्मधु॑ मनिष्ये॒ मधु॑ जनिष्ये॒ मधु॑ वक्ष्यामि॒ मधु॑ वदिष्यामि॒ मधु॑मतीन्दे॒वेभ्यो॒ वाच॑मुद्यासँ शुश्रू॒षेण्या॑म्मनु॒ष्ये॑भ्य॒स्तम्मा॑ दे॒वा अ॑वन्तु शो॒भायै॑ पि॒तरोऽनु॑ मदन्तु ॥ [4]  
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इडा॑ देव॒हूर्,  
@@ -297,16 +295,19 @@ _________
 बृह॒स्-पति॑र् उक्था-म॒दानि॑+++(=प्रतिगरान्)+++ **शँसिष॒द्** ,  
 विश्वे॑ दे॒वास् सू॑क्त॒-वाचः॑  ।  
 </details>
+
 <details><summary>Keith</summary>
 
 May Ida who summoneth the gods, Manu who leadeth the sacrifice,  
 May Brhaspati recite the hymns and acclamations.  
 The All-gods [1] are reciters of the hymns.
 </details>
+
 <details><summary>मूलम्</summary>
 
 इडा॑ देव॒हूर्, मनु॑र्यज्ञ॒नीर्, बृह॒स्पति॑रुक्थाम॒दानि॑ शँसिष॒द् , विश्वे॑ दे॒वास्सू॑क्त॒वाचः॑  ।  
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 इडा देवी गौर् वा प्रष्टिर्वा,  
@@ -318,27 +319,30 @@ The All-gods [1] are reciters of the hymns.
 **शंसिषत्** शंसति शस्त्राणि शंसति  
 मदान् प्रतिगरान् शंसति । शंसेर्लेटि 'सिब्बहुलं लेटि' इति सिप् । उक्थशब्दस्य संहितायां छान्दसं दीर्घत्वम् । विश्वेदेवाः सूक्तवाचः सूक्तवाकस्य वक्तारः सूक्तं सूक्तवाकः, तद्ब्रुवन्तीति सूक्तवाचः । 'क्विब्वचि' इत्यादिना क्विप्दीर्घत्वे । यस्मादेवं सर्वमेतदिडादयः कुर्वन्ति तस्मात्सत्यपि प्रमादे न मे कश्चिदपराधः ।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृथि॑वि मात॒र् मा मा॑ हिँसीः ।   
 </details>
+
 <details><summary>Keith</summary>
 
 O earth mother, do not harm me.
 </details>
+
 <details><summary>मूलम्</summary>
 
 पृथि॑वि मात॒र्मा मा॑ हिँसीः ।   
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तस्मात् हे पृथिवि मातः सर्वस्य रक्षिके मा मा हिंसीः ।
 </details>
 </details>
 </div>
-
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/3/02_stotropAkaraNam_pratigarAngamantrAshcha/madhu_maniShye.md"  newLevelForH1="5" includeTitle="false">   
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/3/02_stotropAkaraNam_pratigarAngamantrAshcha/madhu_maniShye.md">
+<details open><summary><h5>मधु॑ मनिष्ये ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मधु॑ **मनिष्ये** ।  
@@ -346,10 +350,12 @@ O earth mother, do not harm me.
 मधु॑ **वक्ष्यामि** ।  
 मधु॑ **वदिष्यामि** ।
 </details>
+
 <details><summary>Keith</summary>
 
 Of honey shall I think, honey shall I produce, honey shall I proclaim, honey shall I speak,
 </details>
+
 <details><summary>मूलम्</summary>
 
 मधु॑ मनिष्ये ।  
@@ -357,53 +363,61 @@ Of honey shall I think, honey shall I produce, honey shall I proclaim, honey sha
 मधु॑ वक्ष्यामि ।  
 मधु॑ वदिष्यामि ।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अहं तु मधु मनिष्ये मधुवदेव मनसा चिन्तयिष्यामि ।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मधु॑मतीन् दे॒वेभ्यो॒ वाच॑म् **उद्यासँ**
 शुश्रू॒षेण्या॑म् मनु॒ष्ये॑भ्यः
 </details>
+
 <details><summary>Keith</summary>
 
 may I utter speech full of honey for the gods, and acceptable to men.
 </details>
+
 <details><summary>मूलम्</summary>
 
 मधु॑मतीन्दे॒वेभ्यो॒ वाच॑मुद्यासँ
 शुश्रू॒षेण्या॑म्मनु॒ष्ये॑भ्यः
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 देवेभ्यो मधुमतीं मधुवदनहेतुं न केवलप्रमादां वाचं उद्यासं वदितुं समर्थो भूयासम् । 'किदाशिषि' इति कित्त्वात् 'वचिस्वपि' इति संप्रसारणम् ।
 
 मनुष्येभ्यः शुश्रूषेण्यां श्रवणीयां श्रुतिसुखहेतुं वाचं उद्यासमित्येव । उभयत्रापि षष्ठ्यर्थे चतुर्थी । सनन्तादौणादिक एण्यप्रत्ययः ।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तम् मा॑ दे॒वा **अ॑वन्तु** शो॒भायै॑ ।
 पि॒तरो **ऽनु॑ मदन्तु** ॥
 </details>
+
 <details><summary>Keith</summary>
 
 May the gods aid me to radiance, may the Pitrs rejoice in me.
 </details>
+
 <details><summary>मूलम्</summary>
 
 तम्मा॑ दे॒वा अ॑वन्तु शो॒भायै॑ ।
 पि॒तरोऽनु॑ मदन्तु ॥
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तं मामेवंगुणं देवा अवन्तु रक्षन्तु शोभायै यथा मया कृतं शोभते तथा अनुमदन्तु अनुमोदन्तां, उत्कृष्टत्वेन समीचीनं करोतीति शोभार्थं पितरश्च अनुमोदन्तु । माद्यतेर्व्यत्ययेन शप् ॥
 
-
 इति तृतीये तृतीये द्वितीयोनुवाकः ॥
 </details>
+</details>
 </div>
-
 
 > शोभनं शोभनं शोभनं ॥ 
 
@@ -416,7 +430,6 @@ May the gods aid me to radiance, may the Pitrs rejoice in me.
 इति साक्षतं जलं **निस्राव्य**,  
 
 </details>
-
 
 वरण-क्रमेण ब्राह्मणेभ्यो दत्वा
 

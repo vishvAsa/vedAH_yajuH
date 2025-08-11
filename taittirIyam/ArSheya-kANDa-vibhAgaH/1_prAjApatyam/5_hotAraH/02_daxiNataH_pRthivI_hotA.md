@@ -2,8 +2,8 @@
 title = "०२ दक्षिणतः पृथिवी होता"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/02_daxiNataH_pRthivI_hotA"  newLevelForH1="1" includeTitle="true">
-
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/02_daxiNataH_pRthivI_hotA">
+<details open><summary><h1>०२ दक्षिणतः पृथिवी होता ...{Loading}...</h1></summary>
 
 ## होता
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -11,7 +11,6 @@ title = "०२ दक्षिणतः पृथिवी होता"
 दक्षिणतः प्राञ्चं चतुर्होतारमुपदधाति - पृथिवी होतेति ॥  
 'पृथिवी होता, तया देवतया' इत्यादिरुपधानक्रमः सर्वत्र ॥
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -24,7 +23,6 @@ title = "०२ दक्षिणतः पृथिवी होता"
 होताऽप्यासीनश्शंसति ।  
 पृथिवी च आसीना भवति, 'आस्त इव हीयं' इति । 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -41,7 +39,6 @@ title = "०२ दक्षिणतः पृथिवी होता"
 दिवश्चाध्वर्युत्वं तिष्ठत्त्वसाम्यात् । तिष्ठन् ह्यध्वर्युः प्रतिगृह्णाति । द्यौश्च तिष्ठन्ती भवति, 'तिष्ठतीव ह्यसौ'10 इति 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 द्यौर॑ध्व॒र्युः ।  
@@ -57,12 +54,11 @@ title = "०२ दक्षिणतः पृथिवी होता"
 रुद्रोऽग्नीत् रुद्रः अग्निः प्राणो वा, स एवाग्नीत् । गतम् । 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 रु॒द्रो॑ऽग्नीत् ।
 </details>
-  
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बृह॒स्पति॑र् उपव॒क्ता ।  
@@ -78,13 +74,11 @@ title = "०२ दक्षिणतः पृथिवी होता"
 बृह॒स्पति॑रुपव॒क्ता ।  
 </details>
 
-
 ## ग्रहेष्टका
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अथ ग्रहेष्टकामुपदधाति - वाचस्पत इति ॥ 
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -104,7 +98,6 @@ title = "०२ दक्षिणतः पृथिवी होता"
 इत्यारण्यके तृतीये द्वितीयोनुवाकः ॥  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 वाच॑स्पते वा॒चो वी॒र्ये॑ण ।  
@@ -115,5 +108,5 @@ title = "०२ दक्षिणतः पृथिवी होता"
 ज॒जन॒दिन्द्र॑मिन्द्रि॒याय॒ स्वाहा॑ ॥ (2) 
 
 </details>
-
+</details>
 </div>

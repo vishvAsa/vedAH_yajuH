@@ -1,8 +1,8 @@
 ---
 title: ०३ दोहनम्
 unicode_script: devanagari
----
 
+---
 ## उपवासः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -179,16 +179,22 @@ unicode_script: devanagari
 
 ## दृँह॑स्व॒
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/03_dohanam/dRMhasva.md"  newLevelForH1="5" includeTitle="false">   
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/03_dohanam/dRMhasva.md">
+<details open><summary><h5>दृँह॑स्व॒ ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"दृँह॑स्व॒ मा ह्वा॒र्"+++(=कुटिलीभव)+++ इत्या॑ह॒ धृत्यै॑ ॥17॥  
+"दृँह॑स्व॒ मा ह्वा॒र्"+++(=कुटिलीभव)+++ इत्या॑ह॒ धृत्यै॑ ॥17॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-"दृँह॑स्व॒ मा ह्वा॒"र्+++(=कुटिलीभव)+++ इत्या॑ह॒ धृत्यै॑ ॥17॥  
+"दृँह॑स्व॒ मा ह्वा॒"र्+++(=कुटिलीभव)+++ इत्या॑ह॒ धृत्यै॑ ॥17॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+तृतीयभागे स्वयमप्यारोढुं शकटस्य धैर्यं संपाद्यत इत्याह — “दृँहस्व मा ह्वारित्याह धृत्यै” (ब्रा. का. ३ प्र. २ अ. ४ ) इति। 
+</details>
 </details>
 </div>
 
@@ -206,7 +212,6 @@ unicode_script: devanagari
 प्रा॒णा वै वस॑वः ।  
 तेषा॒व्ँवा ए॒तद्भा॑ग॒धेय॑म् ।   
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -254,7 +259,6 @@ unicode_script: devanagari
 
 शतसहस्रशब्दसूचितमर्थमाह – ‘शतधारँ सहस्रधारमित्याह। प्राणेष्वेवाऽऽयुर्दधाति सर्वत्वाय’ (ब्रा॰ का॰ ३ प्र॰ २ अ॰ ३) इति। शतायुर्भव सहस्रायुर्भवेत्येवमाशीर्वादो लोके प्रसिद्धः। स चापमृत्युपरिहारेणाऽऽयुषः कार्त्स्न्याय संपद्यते। 
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -331,7 +335,6 @@ unicode_script: devanagari
 
 तस्य शाखापवित्रस्य कालभेदेन कुम्भीमुखे स्थापनप्रकारभेदं विधत्ते – ‘प्राक्सायमधिनि दधाति । तत्प्राणापानयो रूपम् । तिर्यक्प्रातः । तद्दर्शस्य रूपम् । 
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -441,7 +444,6 @@ unicode_script: devanagari
 दि॒वि नाको॒ नामा॒ग्निः ।  
 तस्य॑ वि॒प्रुषो॑ भाग॒धेय॑म् ।   
 
-
 "अ॒ग्नये॑ बृह॒ते नाका॒ये"त्या॑ह ।  
 नाक॑मे॒वाग्निम्भा॑ग॒धेये॑न॒ सम॑र्धयति ।
 
@@ -517,7 +519,6 @@ unicode_script: devanagari
 पवित्रधारणं विधत्ते — ‘धारयन्नास्ते। धारयन्त इव हि दुहन्ति’ (ब्रा॰ का॰ ३ प्र॰ २ अ॰ ३) इति। 
 </details>
 
-
 ## गो-नाम-कीर्तनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -563,7 +564,7 @@ unicode_script: devanagari
 <details><summary>सायण-टीका</summary>
 
 दोग्धुरुत्तरं विधत्ते– अमूमिति नाम गृह्णाति। भद्रमेवाऽऽसां कर्माऽऽविष्करोति (ब्रा. का. ३ प्र. २ अ. ३) इति। 
-</details>                                      
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -985,11 +986,8 @@ unicode_script: devanagari
 
 अत्र रक्षणार्थमेव विष्णुसंबोधनं न त्विन्द्रवद्धविःस्वीकारायेत्यमुमाभिप्रायं विशदयति — ‘विष्णो हव्यँ रक्षस्वेत्याह गुप्त्यै’ (ब्रा. का. ३ प्र. २ अ. ३) इति। 
 </details>
-
-
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/01_vatsApAkaraNam/anadhaH.md"  newLevelForH1="5" includeTitle="false"> 
-
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/01_vatsApAkaraNam/anadhaH.md">
+<details open><summary><h5>अनधस् सादनम् ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन॑धस् **सादयति॒** -  
@@ -1010,6 +1008,10 @@ unicode_script: devanagari
 तदपि अप्रपादाय अप्रच्युतये ।
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+शाखाबर्हिषोरिव सांनाय्येऽपि विधत्ते — ‘अनधः सादयति। गर्भाणां धृत्या अप्रपादाय। तस्माद्गर्भाः प्रजानामप्रपादुकाः। 
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1029,20 +1031,20 @@ unicode_script: devanagari
 
 उपरीवेति । ऊर्ध्वायामेव दिशि । इवशब्दोऽवधारणे । उपरितनत्वसामान्यात् तच्छब्दस्य । स्वर्गस्य समष्टयै सम्यक् प्राप्त्यै भवति तस्या उपरिसादनम् ॥
 
-
 इति तैत्तिरीयब्राह्मणे तृतीये द्वितीये प्रथमोऽनुवाकः ॥
 
 </details>
 
+<details><summary>सायण-टीका</summary>
 
-</div>  
-
+उपरीव निदधाति। उपरीव हि सुवर्गो लोकः। सुवर्गस्य लोकस्य समष्ट्यै’ (ब्रा. का. ३ प्र. २ अ. ३) इति।  
+</details>
+</details>
+</div>
 <details><summary>भट्टभास्कर-टीका</summary>
 
 20अनघ इत्यादि व्याख्यातमेव ॥
 
-
 इति तैत्तिरीये तृतीये द्वितीये तृतीयोऽनुवाकः ॥  
 
 </details>
-

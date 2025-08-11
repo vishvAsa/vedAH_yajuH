@@ -1,8 +1,8 @@
 ---
-title: ०७ आघारः 
+title: ०७ आघारः
 unicode_script: devanagari
----
 
+---
 ## सम्प्रैषः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -270,7 +270,7 @@ unicode_script: devanagari
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथो॑ ए॒ते वै दे॑वा॒श्वाः ।
-दे॒वा॒श्वान् ए॒व तथ् **सम्मा॑र्ष्टि** -
+दे॒वा॒श्वान् ए॒व तत् **सम्मा॑र्ष्टि** -
 सुव॒र्गस्य॑ लो॒कस्य॒ सम॑ष्ट्यै ।
 </details>
 

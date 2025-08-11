@@ -9,7 +9,6 @@ title = "०२ अग्निमुखनिरूपणम्"
 <div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhanirUpaNam/01_12_agnimidhvA.md">
 <details open><summary><h3>०१ १२ अग्निमिध्वा ...{Loading}...</h3></summary>
 
-
 परिस्तरणम् - +++(क्रमो ऽन्यत्रोक्तः।)+++ अग्निमिध्वा प्रागग्रैर्दर्भैरग्निं परिस्तृणाति १२
 
 </details>
@@ -20,13 +19,14 @@ title = "०२ अग्निमुखनिरूपणम्"
 
 12. [^3]  Having set the fire in a blaze, he strews eastward-pointed Darbha grass around it,
 
-
 [^3]:  12 seq. Description of the regular form of a Pākayajña.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 +++(सम्पादकटिप्पनी - इदं सूत्रम् अग्रिमे व्याख्यातम् ।)+++
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 एवं प्रयोगानुबन्धं कालादिकम् उक्त्त्वा, इदानीं सर्व-गार्ह्य-प्रधान-होमानां साधारण-तन्त्र-नामानं प्राच्योदीच्याङ्ग-समुदायं प्रयोज्य-भेदम् आह– "अग्निमिध्वा"इत्यादि" मन्त्र सन्नामः" (आप.गृ.२–८. ) इत्यन्तेन ।
@@ -57,6 +57,7 @@ title = "०२ अग्निमुखनिरूपणम्"
 
 13. Or eastward-pointed and northward-pointed (grass);
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 उक्ताः पाकयज्ञपरिभाषाः अथ तेषां साधारणतन्त्रं वक्ष्यते– अग्निमिध्वेति ।
@@ -74,6 +75,7 @@ title = "०२ अग्निमुखनिरूपणम्"
 अथ वा न सर्वतः प्रागग्रैरेव परिस्तरणं किं तर्हि प्रागग्ररुदगग्रैश्च ।
 तत्रोदगग्राः पश्चात्पुरस्ताच्च ॥९॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 अत्र च अग्निपदार्थविशेषप्रतिपत्त्यर्थं स्मार्तेष्वग्निर्निरूप्यते ।
@@ -148,10 +150,12 @@ title = "०२ अग्निमुखनिरूपणम्"
 
 14. Southward-pointed at sacrifices to the Fathers,
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 +++(सम्पादकटिप्पनी - इदं सूत्रम् अग्रिमे व्याख्यातम् ।)+++
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 +++(सम्पादकटिप्पनी - इदं सूत्रम् अग्रिमे व्याख्यातम् ।)+++
@@ -180,10 +184,12 @@ title = "०२ अग्निमुखनिरूपणम्"
 
 15. Or southward-pointed and eastward-pointed.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 तत्र दक्षिणाग्राः पश्चात् पुरस्ताच्च ॥१५॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 पित्र्येषु मासिश्राद्धादिषु कर्मसु सर्वासु दिक्षु दक्षिणाग्रैः परिस्तृणाति ॥ १४ ॥
@@ -206,14 +212,11 @@ title = "०२ अग्निमुखनिरूपणम्"
 <div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhanirUpaNam/01_16_uttareNAgnin.md">
 <details open><summary><h3>०१ १६ उत्तरेणाग्निन् ...{Loading}...</h3></summary>
 
-
 उत्तरेणाग्निं दर्भान् संस्तीर्य तेष्व् एनम् उत्तरया +++("आगन्त्रा समगन्मही"त्येतया)+++ ऽवस्थाप्य  
 
 +++(उत्तरेणाग्निं दर्भेषु अवस्थापनमन्त्रः)+++  
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_03/01_AgantrA_samaganmahi.md">
 <details open><summary><h5>०१ आगन्त्रा समगन्महि ...{Loading}...</h5></summary>
-
-
 
 आ॒ग॒न्त्रा +++(छात्रेण)+++ **सम॑गन्महि॒**  
 प्र सु॑ मृ॒त्युं **यु॑योतन**+++(←यौतिः पृथग्भावे)+++ ।  
@@ -230,6 +233,7 @@ title = "०२ अग्निमुखनिरूपणम्"
 
 16. To the north of the fire he strews Darbha grass and (on that) he places the vessels (required for sacrifice) upside-down, two by two, if referring to ceremonies directed to the gods,
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 परिस्तरणानन्तरं अग्नेरुत्तरतः पात्रप्रयोगार्थं दर्भान् प्रागग्रान् संस्तृणाति ।
@@ -249,6 +253,7 @@ title = "०२ अग्निमुखनिरूपणम्"
 तदप्युभयं प्रतिपत्तव्यं स्यात्
 अधिकारादेव ॥१६॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 अग्नेरुत्तरतोऽदूरेण दर्भान् संस्तृणाति ।
@@ -290,10 +295,12 @@ title = "०२ अग्निमुखनिरूपणम्"
 
 17. All at once, if to men,
 </details>
+
 <details><summary>हरदत्त-प्रस्तावः</summary>
 
 तत्र मनुष्यसंस्कारकर्मार्थेषु केषुचित् पात्रेष्वपवादमाह–
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 यानि मनुष्यसंयुक्तानि पात्राणि तानि सकृदेव प्रयुनक्ति, न द्वन्द्वम् ।
@@ -303,6 +310,7 @@ title = "०२ अग्निमुखनिरूपणम्"
 केचित् मेखलादीनामेव मनुष्यसंयुक्तानां सकृत् प्रयोगमिच्छन्ति, न होमार्थानाम् ।
 वयं तु मनुष्यसंयुक्तानि मनुष्यकर्मसंयुक्तानीत्यवोचाम ॥१७॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **मनुष्यसंयुक्तानि** मनुष्यद्वारा संयुक्तानि अश्मवासोमेखलादीनि सकृदेव क्रियाभ्यावृत्तिपरिहारेण प्रयुनक्ति, पात्रबहुत्वेऽप्युपायेन ।
@@ -333,10 +341,12 @@ title = "०२ अग्निमुखनिरूपणम्"
 
 18. One by one, if to the Fathers.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 यानिपितृकर्मसंयुक्तानि तान्येकैकशः प्रयुनक्ति एकमेकमित्यर्थः ॥१८॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 पितृकर्मार्थानि दर्व्यादीनि स्वधापात्रादीनि च एकमेकं प्रयुनक्ति ॥१८॥
@@ -368,7 +378,6 @@ title = "०२ अग्निमुखनिरूपणम्"
 
 ततोऽप उपस्पृशेत् - "रौद्रराक्षस" इति परिशिष्टवचनात्। ततस्तयोर्मूलाद् आरभ्याऽग्राद् अद्भिर्मार्जनम् ।
 
-
 आज्यसंस्काराय प्रोक्षणीसंस्काराय प्रणीताप्रणयनाय च प्रयुज्यते।
 </details>
 </details>
@@ -379,9 +388,9 @@ title = "०२ अग्निमुखनिरूपणम्"
 
 19. [^4]  The preparation of the (blades used as) 'purifiers,' the measure of their length, the preparation of the Prokṣaṇī water, and the sprinkling of the vessels are the same here as at the sacrifices of the new and full moon, (but are performed) in silence.
 
-
 [^4]:  Comp. Śrauta-sūtra I, 11, 6 seqq.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 पवित्रयोस्संस्कारः तृणं काष्ठं वेत्येवमादिः ।
@@ -400,6 +409,7 @@ title = "०२ अग्निमुखनिरूपणम्"
 तेनात्राविद्यमानेष्वनूयाजेषु न एकविंशतिदारुरिध्मो भवति ।
 उपहोमास्त्वनूयाजार्थे भवन्ति ॥१९॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 पवित्रयोस्संस्कारो दर्शपूर्ममासाभ्यां तुल्यं मन्त्रवर्ज कार्यः ।
@@ -439,7 +449,6 @@ title = "०२ अग्निमुखनिरूपणम्"
 <div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhanirUpaNam/01_20_apareNAgnim_pavitrAntarhite.md">
 <details open><summary><h3>०१ २० अपरेणाग्निम् पवित्रान्तर्हिते ...{Loading}...</h3></summary>
 
-
 अपरेणाग्निं पवित्रान्तर्हिते पात्रेऽप आनीयोदगग्राभ्यां पवित्राभ्यां त्रिर् उत्पूय,  
 समं प्राणैर् हृत्वोत्तरेणाग्निं दर्भेषु सादयित्वा, दर्भैः प्रच्छाद्य २०
 
@@ -451,9 +460,9 @@ title = "०२ अग्निमुखनिरूपणम्"
 
 20. [^5]  To the west of the fire he pours water into a vessel over which he has laid (two grass blades called) purifiers, purifies (the water) three times with two northward-pointed purifiers, holds it on a level with his nose and mouth, places it to the north of the fire on Darbha grass, and covers it with Darbha grass.
 
-
 [^5]:  This is the Praṇītā water.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 पात्रप्रोक्षणानन्तरमपरेणाग्निं प्रणीतायां पवित्रं निधाय तस्मिन्नुदगग्रे पवित्रे अन्तर्धायाप आनीय्य पवित्राभ्यां उदगग्राभ्यां त्रिरुत्पुनाति प्रागपवर्गम् ।
@@ -466,6 +475,7 @@ title = "०२ अग्निमुखनिरूपणम्"
 सादयित्वा दर्भैः प्रच्छादयति ।
 सर्वञ्चैतत् पवित्रहस्तः करोति ॥२०॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 अग्नेरदूरेण पश्चात् पवित्रान्तर्हिते कस्मिंश्चित् पात्रेऽप आनीयोदगग्राभ्यां पवित्राभ्यां त्रिरुत्पुनाति ।
@@ -501,9 +511,9 @@ title = "०२ अग्निमुखनिरूपणम्"
 
 21. [^6]  On the south side he causes a Brāhmaṇa to sit down on Darbha grass.
 
-
 [^6]:  The Brahman.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 प्रकृतत्वादग्नेः दक्षिणतः ।
@@ -511,6 +521,7 @@ title = "०२ अग्निमुखनिरूपणम्"
 "हौत्रब्रह्मत्वे स्वं कुर्वन् ब्रह्मासनमुपविश्य चि(छ)त्रमुत्तरासङ्गं कमण्डलुं वा तत्र कृत्वाथान्यत् कुर्याद्(खा० सू०१-१-२६.) इति कल्पान्तरम् ।
 कृताकृतमाज्यहोमेषु परिस्तरणम् । तथाज्यभागौ वा ब्रह्मा चेदा(त्या)श्वलायनः ॥२१॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 अग्निमिध्वेति प्रकृतत्वातग्नेर्दक्षिणतो दर्भेषु कंचिद्ब्राह्मणमुपवेशयेत् ।
@@ -549,6 +560,7 @@ title = "०२ अग्निमुखनिरूपणम्"
 
 22. He melts the Ājya, pours it, to the west of the fire, into the Ājya-pot, over which he has laid two purifiers, draws coals (out of the sacrificial fire) towards the mirth, puts (the Ājya) on them, throws light on it by means of a burning (grass-blade), throws two Darbha points into it, moves a firebrand round it three times, takes it from the fire towards the north, sweeps the coals back (into the fire), purifies (the Ājya) three times with two northward-pointed purifiers, moving them backward and forward, and throws the purifiers into the fire.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 अथाज्यसंस्कार तत्र विलापनमाज्यस्य यस्मिन्कस्मिंश्चिदग्नौ भवति उत्तरत्राज्यग्रहणात् ।
@@ -573,6 +585,7 @@ title = "०२ अग्निमुखनिरूपणम्"
 
 इति श्रीहरदत्तविरचितायां गृह्यसूत्रवृत्तावनाकुलायां प्रथमः खण्डः ॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 यद्यपि "सर्पिराज्यं प्रतीयात्" (आप.प.१-२५.) इति परिभाषासिद्धं विलापनं, तथापि विलीनमप्याज्यं होमार्थेऽग्नौ कर्मार्थं पुनर्विलापयेत् ।
@@ -623,6 +636,7 @@ title = "०२ अग्निमुखनिरूपणम्"
 
 1. He warms at the fire the implement with which he sacrifices, wipes it off with Darbha blades, warms it again, sprinkles it (with water), puts it down, touches the Darbha blades with water, and throws them into the fire.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 संमार्जनं सुग्वत् ।
@@ -647,6 +661,7 @@ title = "०२ अग्निमुखनिरूपणम्"
 यदयमौपकार्ये पार्वणवदिति यत्नं करोति तत् ज्ञापयति–अञ्जलिहोमा अधर्मग्राहकाः यावदुक्तधर्माण इति ।
 तेन सादनादि त्रयमञ्जलेर्न भवति ॥१॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 येन पात्रेण दर्व्या स्रुवेणाञ्जलिना वा जुहोति तदग्नौ प्रतितप्येत्यादि व्यक्तार्थम् ।
@@ -695,9 +710,9 @@ title = "०२ अग्निमुखनिरूपणम्"
 
 2. [^1]  As paridhis (or pieces of wood laid round the fire) yoke-pins are used at the marriage, the Upanayana, the Samāvartana, the parting of the (wife's) hair, the tonsure of the child's hair, the cutting of the beard, and at expiatory ceremonies.
 
-
 [^1]:  2, 2. On the paridhi woods, comp. chiefly Hillebrandt, Neu-und Vollmondsopfer, 66 seq.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 अथ परिधीन् परिदधाति ।
@@ -713,6 +728,7 @@ title = "०२ अग्निमुखनिरूपणम्"
 तेन सीमन्तादतिदिष्टे पुंसवने परिधय एव ।
 पार्वणादिषु च पक्वहोमेषु तथा "एवमत ऊर्ध्वम्" इति वैवाहिकेन स्थालीपाकादिति दर्शनात् प्रसङ्गः ॥  २ ॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 विवाहादिषु कर्मसु **परिध्यर्थे** परिधीनां कार्ये परिधीनां स्थान इति यावत्, **शम्याः** युगकीलका भवन्ति ।
@@ -749,7 +765,6 @@ title = "०२ अग्निमुखनिरूपणम्"
 
 अदि॒तेऽनु॑ मन्यस्व। +++(इति दक्षिणतः, प्राचीनम्)+++
 
-
 </details>
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/02_anumate-nu_manyasva.md">
@@ -781,6 +796,7 @@ title = "०२ अग्निमुखनिरूपणम्"
 
 3. He sprinkles water round the fire, on the south side from west to east with (the words), 'Aditi, give thy consent!' on the west side from south to north with 'Anumati, give thy consent!' on the north side from west to east with 'Sarasvatī [sic], give thy consent!' all around with 'God Sāvitrī, give thy impulse!'
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 परिषेचनमुदकेन पर्युक्षणम् ।
@@ -793,6 +809,7 @@ title = "०२ अग्निमुखनिरूपणम्"
 **समन्तं** सम इत्यर्थः ।
 तत्र पुरस्तादुपक्रम्य प्रदक्षिणं सर्वत्र प्रतिमन्त्रमुदकदानम् ॥३॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 अग्निमेवोदकेन परिषिञ्चति न परिध्याद्यङ्गमपि ।
@@ -834,11 +851,13 @@ title = "०२ अग्निमुखनिरूपणम्"
 
 4. At ceremonies belonging to the Fathers (water is sprinkled) only all round (the fire), silently.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 अक्रियमाण एवकारे समन्तपरिषेचने मन्त्रप्रतिषेधार्थमेतत् स्यात् ।
 एवकारात्तु दक्षिणतः प्राचीनमित्यादे त्रयस्य निवृत्तिः ॥४॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 पैतृकेषु कर्मसु समन्तमेव परिषिञ्चति, न दक्षिणतः प्राचीनम्' इत्यादि ।
@@ -869,9 +888,9 @@ title = "०२ अग्निमुखनिरूपणम्"
 
 5. [^2]  Having put a piece of wood on the fire, he offers the two Āghāra oblations as at the sacrifices of the new and full moon, silently.
 
-
 [^2]:  The Śrauta rules on the two Āghāras are given Śrauta-sūtra II, 12, 7; 14, 1.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 इध्म इति समुदायस्योपदेशात् पञ्चदशदारुमिध्मं सकृदेवादधाति ।
@@ -884,6 +903,7 @@ title = "०२ अग्निमुखनिरूपणम्"
 न चाभिप्राणिति ।
 अत्र प्रमाणमुपरिष्टाद्वक्ष्यामः ॥४॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 इध्ममग्नावादधाति ।
@@ -941,7 +961,6 @@ title = "०२ अग्निमुखनिरूपणम्"
 <div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhanirUpaNam/02_06_athAjyabhAgau_juhotyagnaye.md">
 <details open><summary><h3>०२ ०६ अथाज्यभागौ जुहोत्यग्नये ...{Loading}...</h3></summary>
 
-
 आज्यभागौ - अथाज्यभागौ जुहोत्य् अग्नये स्वाहेत्युत्तरार्धपूर्वार्धे, सोमाय स्वाहेति दक्षिणार्धपूर्वार्धे, समं पूर्वेण +++(=आघारहोमसममात्रा ऽऽज्य)+++ ६
 
 </details>
@@ -952,9 +971,9 @@ title = "०२ अग्निमुखनिरूपणम्"
 
 6. [^3]  Then he offers the two Ājyabhāga oblations, over the easterly part of the northerly part (of the fire) with (the words), 'To Agni Svāhā!' over the easterly part of the southerly part (another oblation) exactly like the preceding one, with (the words), 'To Soma Svāhā!'
 
-
 [^3]:  Comp. Śrauta-sūtra II, 18, 5; Hillebrandt, loc. cit., p. 106, note 3.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 अग्नेरुत्तरभाग उत्तरार्धः, पूर्वभागः पूर्वाधः तयोरन्तरालं **उत्तरार्धपूर्वार्धः** ।
@@ -971,6 +990,7 @@ title = "०२ अग्निमुखनिरूपणम्"
 **आज्यभागाव्**इतिहोमयोस्संज्ञा ।
 प्रयोजनमग्नेरुपसमाधानाद्याज्यभागान्त इत्येवमादयः ॥६॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 अथ आघारानन्तरं अर्थकृत्यमप्यकृत्वाऽऽज्यभागनामकावपूर्वौ होमौ जुहोति ।
@@ -1011,6 +1031,7 @@ title = "०२ अग्निमुखनिरूपणम्"
 सर्वँ॒ स्वि॑ष्टँ॒ सुहु॑तं करोतु॒  
 स्वाहा॑ ।
 </details>
+
 <details><summary>मूलम्</summary>
 
 यद॑स्य॒ कर्म॒णोऽत्यरी॑रिचं॒ यद्वा॒ न्यू॑नमि॒हाक॑रम् ।  
@@ -1020,7 +1041,6 @@ title = "०२ अग्निमुखनिरूपणम्"
 </div>
 
 +इति ७  
-
 
 <details><summary>विश्वास-टिप्पनी</summary>
 
@@ -1034,9 +1054,9 @@ title = "०२ अग्निमुखनिरूपणम्"
 
 7. [^4]  Having offered the chief oblations (belonging to each sacrifice) according to prescription, he adds the following oblations, viz. the Jaya, Abhyātāna, Rāṣṭrabhṛt oblations, the oblation to Prajāpati, the Vyāhṛtis one by one, the oblation to (Agni) Sviṣṭakṛt with (the following formula), 'What I have done too much in this ceremony, or what I have done here too little, all that may Agni Sviṣṭakṛt, he who knows, make well sacrificed and well offered. Svāhā!'
 
-
 [^4]:  On the Jaya, Abhyātāna, Rāṣṭrabhṛt formulas, comp. Pāraskara I, 5, 7 seq.; Hiraṇyakeśin I, I, 3, 7 seq.; Taitt. Saṃhitā III, 4, 4-7. The last formula occurs also in Āśvalāyana I, 10, 23; Hiraṇyakeśin I, I, 3, 6, &c.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 **यथोपदेशमिति** ।
@@ -1070,6 +1090,7 @@ title = "०२ अग्निमुखनिरूपणम्"
 श्राद्धे वानुपदेशनं स्थालीपाके च बर्हिरनुप्रहरणं सौविष्टकृतीमित्युच्यते स्विष्टकृद्देवतेति ज्ञापनार्थम् ।
 तेनाज्यहोमस्विष्टकृत् पक्वहोमेषु भवति ॥७॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 यथोपदेशं येन हविरादिना विवाहादिषु प्रधानाहुतय उपदिष्टास्तेन तेन विधानेन ता हुत्वा ।
@@ -1137,9 +1158,9 @@ title = "०२ अग्निमुखनिरूपणम्"
 
 8. [^5]  The sprinkling (of water) round (the fire is repeated) as above; the Mantras are altered so as to say, 'Thou hast given thy consent,' 'Thou hast given thy impulse.'
 
-
 [^5]:  Comp. above, Sūtra 3.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 **पूर्ववदिति** ।
@@ -1156,6 +1177,7 @@ title = "०२ अग्निमुखनिरूपणम्"
 मन्त्रसन्नाम इति मन्त्रग्रहणं मन्त्राणामयमूहविधिर्यथा स्यात्, अन्यथाग्नेरपि सन्नामस्सम्भाव्येत ।
 सन्नामशब्दस्यान्यत्रापि दर्शनात्, यथा–सन्नमयत्यनुमार्ष्टि वेति ॥९॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 अग्नि**परिषेचनं पूर्ववत्** ।
@@ -1198,7 +1220,7 @@ title = "०२ अग्निमुखनिरूपणम्"
 
 लौकिकानां पाकयज्ञशब्दः ॥  
 +++(लोकशब्देन शिष्टा उच्यन्ते ।  
-केचित् - पाकयज्ञ इति विवाहादीनां संज्ञा विधीयते । पाकशब्दोऽल्पवचनः, यथाक्षिप्रं यजेत पाको देव (आप.गृ.२०१५) इति ।  पाकगुणको यज्ञः पाकयज्ञ इति निर्वचने आज्यहोमेषु संज्ञा न स्यात् । )+++  +++(अपरे -  सप्तानां औपासनहोमादीनां&lt;पाकयज्ञशब्दः&gt; संज्ञात्वेन प्रसिद्धः, नतु श्रौतानां विवाहादीनां च, तत्र लोकानामप्रयोगात् । )+++
+केचित् - पाकयज्ञ इति विवाहादीनां संज्ञा विधीयते । पाकशब्दोऽल्पवचनः, यथाक्षिप्रं यजेत पाको देव (आप.गृ.२०१५) इति ।  पाकगुणको यज्ञः पाकयज्ञ इति निर्वचने आज्यहोमेषु संज्ञा न स्यात् । )+++  +++(अपरे -  सप्तानां औपासनहोमादीनां&lt;पाकयज्ञशब्दः> संज्ञात्वेन प्रसिद्धः, नतु श्रौतानां विवाहादीनां च, तत्र लोकानामप्रयोगात् । )+++
 
 </details>
 </div>
@@ -1208,10 +1230,12 @@ title = "०२ अग्निमुखनिरूपणम्"
 
 9. The designation 'Pākayajña' is used of ceremonies connected with worldly life.
 </details>
+
 <details><summary>हरदत्त-प्रस्तावः</summary>
 
 एवं सर्वगार्ह्यहोमानां साधारणं स्मार्तं विधिमुक्त्वा, इदानीं पाकयज्ञेषु वैकल्पिकं श्रौतं विधिमाह–
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 लोके भवा **लौकिकाः** लोकस्मृतिलक्षणा इत्यर्थः ।
@@ -1222,6 +1246,7 @@ title = "०२ अग्निमुखनिरूपणम्"
 तत्संज्ञाप्रयोजनं "यज्ञं वायख्यास्यामः"(आप.प.१-१.) इत्यत्र एतेषामन्तर्भावः ।
 "निऋतिं पाकयज्ञेन यजेते"त्यत्र च धर्मप्राप्तिः ॥१०॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 लोकयन्ति वेदैर्वेदार्थानिति लोकाः त्रैविद्यवृद्धाः शिष्टाः द्विजन्मानः ।
@@ -1259,13 +1284,14 @@ title = "०२ अग्निमुखनिरूपणम्"
 
 10. [^6]  There the ritual based on the Brāhmaṇa (holds good),
 
-
 [^6]:  According to Haradatta, this Sūtra would imply that wheresoever the ritual described in the preceding Sūtras holds good, p. 255 another ritual based on the Brāhmaṇa, and more especially on the treatment of the Agnihotra in the Brāhmaṇa, may be used in its stead.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 +++(सम्पादकटिप्पनी - सूत्रमिदम् अग्रिमे व्याख्यातम् ।)+++
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 +++(सम्पादकटिप्पनी - सूत्रमिदम् अग्रिमे व्याख्यातम् ।)+++
@@ -1285,7 +1311,6 @@ title = "०२ अग्निमुखनिरूपणम्"
 <div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhanirUpaNam/02_11_dvirjuhoti_dvirnimArShTi.md">
 <details open><summary><h3>०२ ११ द्विर्जुहोति द्विर्निमार्ष्टि ...{Loading}...</h3></summary>
 
-
 द्विर्जुहोति +++(=अग्निहोत्राहुत्योरुभयोर्धमः पाकयज्ञेषु प्रधानाहुतिं स्विष्टकृतं चाधिकृत्य विहितः)+++ द्विर्निमार्ष्टि +++(=अग्निहोत्रवल्लेपनिमार्जनम्)+++  द्विः प्राश्नात्य् +++(=अङ्गुलिप्राशनम्, ततः प्रक्षालनम् )+++ उत्सृत्याचामति +++(= यत्तत्रतृतीयं प्राशनं बर्हिषोपयम्योदङ्ङावृत्योत्सृप्याचामतीति तच्चोदितम्)+++ निर्लेढीति +++(=द्विःस्रुचं निर्लेह्य)+++ ११
 
 </details>
@@ -1296,9 +1321,9 @@ title = "०२ अग्निमुखनिरूपणम्"
 
 11. [^7]  (To which the words allude), 'He sacrifices twice; he wipes off (his hand) twice; he partakes twice (of the sacrificial food); having gone away he sips (out of the Sruc) and licks off (the Sruc).'
 
-
 [^7]:  Comp. Taitt. Brāhmaṇa II, 1, 4, 5; Śatapatha Brāhmaṇa II, 3, 1, 18. 21. - At the Agnihotra the sacrificer, having wiped off the Sruc with his hand, wipes off the hand on the Barhis or on the earth (Āpast.-Śraut. VI, 10, 11; 11, 4; Kātyāyana IV, 14, 20). As to the following acts alluded to in this Sūtra, comp. Āpastamba VI, 11, 4. 5; 12, 2.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 तत्र तेषु पाकयज्ञेष्वपरो विधिर्ब्रह्मणावेक्ष इत्याचक्षते ।
@@ -1340,9 +1365,9 @@ title = "०२ अग्निमुखनिरूपणम्"
 </details>
 </div>  
 
-
 एतदाग्निहोत्रिकं नाम तन्त्रं सर्वपाकयज्ञेषु आघारवता तन्त्रेण सह विकल्प्यते ॥११॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 तत्र तेषु पाकयज्ञेषु मध्ये पार्वणादिषु पञ्चसु ब्राह्मणावेक्षो विधिर् भवति । यो विधिः प्रत्यक्षमेव ब्राह्मणमवेक्षते, नाग्निम् इद्ध्वेत्यादिवल् लोकाचारानुमेयम्, सोऽप्येषु विकल्पेन भवतीत्यर्थः । नानयोर् विध्योर् मिथः संसर्गः । नापि स्मार्तस्यानेन बाधः । प्रत्यक्षब्राह्मणस्यापि स्मृत्यनुवादे कल्पसूत्राधिकरणन्यायेन स्मृतितुल्यप्रमाणत्वात् । अत एव "सर्वं पाप्मानं तरति, तरति ब्रह्महत्यां योऽश्वमेधेन यजते" (तै.सं.५-३-१२.) इति श्रुत्या "यजेत वाश्वमेधेन" ( मनु.११-७५.) इति मनुस्मृत्यनुवादेन च अश्वमेधद्वादशवार्षिकयोर्विकल्पः ।
@@ -1387,7 +1412,6 @@ title = "०२ अग्निमुखनिरूपणम्"
 - तां दर्भैरद्भिः प्रक्षालयेदिति।
 </details>
 </div>  
-
 
 ननु – वैश्वदेवौपासनहोमयोः कस्मान् नायं विधिः ? उच्यते ।
 तत्र "उभयतः परिषेचनम्" (आप.गृ.७-२२.) इति एककार्ययोः द्वयोरपि विध्योः परिसङ्ख्यानात् अत एव बर्हिर्लेपप्रतिपत्त्योरभावाच्च ॥

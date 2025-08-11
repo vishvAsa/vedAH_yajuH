@@ -7,9 +7,6 @@ author: muddu śroutigal
 publisher: rāja veda kāvya pāṭhaśālā (kumbakonam)  
 script: grantha
 
-
-
-
 ## सङ्कल्पः
 
 अमुकनक्षत्रे ऽमुकराशौ जातस्य मम कुमारस्य (श्वः) करिष्यमाणामुककर्माङ्गं * बोधायनोक्तप्रकारेण अङ्कुरार्पणकर्म करिष्यामि।
@@ -119,10 +116,9 @@ script: grantha
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/031/04_A_pyAyasva.md">
 <details open><summary><h4>०४ आ प्यायस्व ...{Loading}...</h4></summary>
 
-
-**आ प्या॑यस्व॒ समे॑तु** ते  
-वि॒श्वतः॑ सोम॒ वृष्ण्य॑म् ।  
-**भवा॒** वाज॑स्य **सङ्ग॒थे**+++(=संगमने)+++ ॥
+**आ᳓ प्यायस्व स᳓मेतु** ते  
+विश्व᳓तः सोम वृ᳓ष्ण्यम् ।  
+**भ᳓वा** वा᳓जस्य **सङ्गथे᳓**+++(=संगमने)+++ ॥
 
 </details>
 </div>  

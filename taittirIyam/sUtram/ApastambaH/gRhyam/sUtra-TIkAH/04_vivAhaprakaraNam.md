@@ -19,6 +19,7 @@ title = "०४ विवाहप्रकरणम्"
 
 1. Let him send out as his wooers friends who have assembled, who are versed in the Mantras.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 अथ कन्यावरणविधिः ।
@@ -29,6 +30,7 @@ title = "०४ विवाहप्रकरणम्"
 मन्त्रवत इति ब्राह्मणानामेव ग्रहणम् ।
 तेन क्षत्रियवैश्ययोरपि ब्राह्मणा एव वराः ॥१॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 पूर्वत्र "इन्वकाभिः प्रसृज्यन्ते" (आप.गृ. २-१६.) इति विवाहोपयोगिनो वरप्रेषणस्य कालोऽभिहितः ।
@@ -75,10 +77,10 @@ title = "०४ विवाहप्रकरणम्"
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/23_anRxarA_RjavaH.md">
 <details open><summary><h7>२३ अनृक्षरा ऋजवः ...{Loading}...</h7></summary>
 
-अ॒नृ॒क्ष॒रा+++(=कंटकशर्करादिरहिताः)+++ ऋ॒जव॑स् सन्तु॒ पन्था॒  
-येभि॒स् सखा॑यो॒ यन्ति॑ नो वरे॒यम्+++(=वरणीयं [कन्यायाः पित्रादिकं प्रति])+++ ।  
-सम् अ॑र्य॒मा सं भगो॑ नो+++(=आवाम्, अस्मदो द्वयोश्च इति बहुवचनम्)+++ निनीया॒त्  
-सञ् जा॑स्प॒त्यँ+++(=जायापतिभावः)+++ सु॒यम॑म् अस्तु देवाः ।+++(र५)+++  
+अनृक्षरा᳓+++(=कंटकशर्करादिरहिताः)+++ ऋज᳓वस् सन्तु प᳓न्था  
+ये᳓भिस् स᳓खायो य᳓न्ति नो वरेय᳓म्+++(=वरणीयं [कन्यायाः पित्रादिकं प्रति])+++ ।  
+स᳓म् अर्यमा᳓ सं᳓ भ᳓गो नो+++(=आवाम्, अस्मदो द्वयोश्च इति बहुवचनम्)+++ निनीयात्  
+स᳓ञ् जास्पत्यँ᳓+++(=जायापतिभावः)+++ सुय᳓मम् अस्तु देवाः ।+++(र५)+++  
 
 </details>
 </div>
@@ -92,6 +94,7 @@ title = "०४ विवाहप्रकरणम्"
 
 2. He should recite over them the first two verses (Mantrap. I, 1, 1. 2).
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 गच्छतस्तान् वराननन्तरमाम्नातस्य मन्त्रसमाम्नायस्यादितो द्वाभ्यां ऋग्भ्यां प्रसुग्मन्तेत्येताभ्यां अभिमन्त्रयेत ।
@@ -101,6 +104,7 @@ title = "०४ विवाहप्रकरणम्"
 तत्र ब्राह्मे विवाहे दैवे चार्थलोपात् वरणलोपः कल्पान्तरदर्शनाच्च–नात्र वरान् प्रहिणुयादिति ।
 तथा गान्धर्वराक्षसयोश्च ॥२॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **तान्** प्रस्थितान् ।
@@ -157,10 +161,12 @@ title = "०४ विवाहप्रकरणम्"
 
 3. When he himself has seen (the bride), let him murmur the third (verse; M. I, 1, 3).
 </details>
+
 <details><summary>हरदत्त-प्रस्तावः</summary>
 
 अनन्तरं वरः किं कुर्यादित्यत्राह—
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 ततो विवाहे निश्चिते पूर्वेद्युर्नान्दीश्राद्धं कृत्वा परेद्युर्ब्राह्मणान् भोजयित्वाशिषो वाचयित्वा वरो वधूकुलं गच्छति ।
@@ -172,6 +178,7 @@ title = "०४ विवाहप्रकरणम्"
 तत्र ब्राह्मे विवाह उदकपूर्व प्रतिपादनम् ।
 गान्धर्वराक्षसयोस्तु नैव प्रतिपादनम् ॥३॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 वरः **स्वयं** कन्यां दृष्ट्वा "अभ्रातृघ्नीम्" इति **तृतीयां** ऋचं **जपेत्** ।
@@ -217,11 +224,13 @@ title = "०४ विवाहप्रकरणम्"
 
 4. With the fourth (M. I, 1, 4) let him behold her.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 अवयवश ईक्षणं **समीक्षणम्** ।
 अघोरचक्षुरित्येषा चतुर्थीम् ॥४॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 "अघोरचक्षुः" इत्यनया समीक्षेत ।
@@ -246,7 +255,6 @@ title = "०४ विवाहप्रकरणम्"
 
 अङ्गुष्ठेनोपमध्यमया चाङ्गुल्या दर्भं संगृह्योत्तरेण यजुषा +++(=इदमहमित्यनेन)+++ तस्या भ्रुवोरन्तरँ संमृज्य, प्रतीचीनं +++(प्रत्यग्गतम् उपर्युपरि शिरो )+++ निरस्येत् ५  
 
-
 +++(अङ्गुष्ठेनोपमध्यमया चाङ्गुल्या दर्भं संगृह्योत्तरेण यजुषा भ्रुवोरन्तरं संमृज्य प्रतीचीनं निरस्येत्।)+++  
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01b/05_idamahay.N_yA.md">
 <details open><summary><h5>०५ इदमहय्ँ या ...{Loading}...</h5></summary>
@@ -263,6 +271,7 @@ title = "०४ विवाहप्रकरणम्"
 
 5. Let him seize with his thumb and fourth finger a Darbha blade, and let him wipe (therewith) the interstice between her eye-brows with the next Yajus (M. I, 1, 5), and let him throw it away towards the west.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 मध्यमासमीपे वर्तत इत्युपमध्यमा तयाङ्गुल्या अनामिकयेत्यर्थः ।
@@ -273,6 +282,7 @@ title = "०४ विवाहप्रकरणम्"
 तत उदकोपस्पर्शनं अङ्गुष्ठसाहचर्यादुपमध्यमयेति विशेषणादेव सिद्धे अङ्गुल्येति विशेष्यनिर्देशो विस्पष्टार्थम् ।
 यजुषेति विशेषणं उत्तरेणेति दिग्वाचिताशङ्का मा भूदिति ॥५॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **उपमध्यमा** उपकनिष्ठिका, न तु प्रदेशिनी, तस्या विस्रंसिकेति व्यपदेशात् ।
@@ -316,12 +326,14 @@ title = "०४ विवाहप्रकरणम्"
 
 6. If an omen occurs (such as the bride's or her relations’ weeping), let him murmur the next (verse; M. I, 1, 6).
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 वध्वा स्वबन्धूनां च रोदनं **निमित्तं** जीवा ँ रुदन्तीति लिङ्गात् ।
 उत्तरामृचं "जीवा ँ रुदन्ती"त्येताम्, सर्वत्र समावेशनान्ते विवाहकर्मण्यस्मिन्निमित्तेऽयं जपो भवति ।
 निमित्तावृत्तौ मन्त्र आवर्तते ॥६॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 जीवाँ रुदन्ती"ति मन्त्रलिङ्गानुरूपे निमित्ते प्राप्ते मात्रादिभिः कन्यकया वा अन्योन्यवियोगचिन्तया रोदने कृते इमामृचं जपेत् ॥६॥
@@ -343,7 +355,6 @@ title = "०४ विवाहप्रकरणम्"
 
 युग्मान् समवेतान् मन्त्रवत उत्तरया +++(=व्युक्षत्क्रूर…)+++ ऽद्भ्यः +++(स्नानार्थजलाहरणार्थं)+++ प्रहिणुयात् ॥  
 
-
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01b/07_vyuxat_krUramudachantvApa.md">
 <details open><summary><h5>०७ व्युक्षत् क्रूरमुदचन्त्वाप ...{Loading}...</h5></summary>
 
@@ -362,6 +373,7 @@ title = "०४ विवाहप्रकरणम्"
 
 7. With the next (verse; M. I, 1, 7) let him send an even number of persons who have assembled there, and who are versed in the Mantras, to fetch water.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 वधूस्नापनार्थानामपामाहरणं **उत्तरयर्चा** "व्युक्षत्क्रूरम्" इत्येतया ।
@@ -376,6 +388,7 @@ title = "०४ विवाहप्रकरणम्"
 समवेतवचनमुदकाहरणे सह प्रवृत्त्यर्थम् ।
 मन्त्रवत इति ब्राह्मणानां ग्रहणम्, "आस्यै ब्राह्मणा" इति मन्त्रे दर्शनात् ॥७॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **युग्मान्** समसङ्ख्याकान् ।
@@ -404,13 +417,11 @@ title = "०४ विवाहप्रकरणम्"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01b/08_aryamNo_agnim.md">
 <details open><summary><h5>०८ अर्यम्णो अग्निम् ...{Loading}...</h5></summary>
 
-
 अ॒र्य॒म्णो +++(प्रसादात्)+++ अ॒ग्निं परि॑यन्तु क्षि॒प्रं  
 प्रती॑क्षन्ताँ॒ श्वश्र्वो॑ दे॒वरा॑श् च ।  
 
 </details>
 </div>
-
 
 तस्मिन्नुत्तरया +++(=खेऽनस)+++ दक्षिणं युगच्छिद्रं प्रतिष्ठाप्य,  
 
@@ -423,15 +434,12 @@ title = "०४ विवाहप्रकरणम्"
 
 (अत्रेतिहासमाचक्षते - अपाला नाम काचित् कन्या श्वित्रिणी +++(=श्वेतकुष्टवती)+++ । तां न कश्चिदुपयेमे । तस्याश्च मनसि कामः सदा बभूव, कथमहं इन्द्रं यजे इति । सा कदाचित् स्नानार्थं नद्याम् अवतीर्णा स्रोतसा ह्रियमाणा, तम् एव कामं मनसि दधाना, स्रोतसा ऽपनीतं सोमम् अपश्यत् । तं दन्तैः पिष्ट्वा तद्रसं इन्द्राय उपाहरत् । तम् इन्द्रः पीत्वा रथस्यानसो+++(=शकटस्य)+++ युगस्येति त्रयाणां छिद्रेषु अपो निस्सार्य, ताभिः तां त्रिः पूर्त्वा सूर्यवर्चसम् अकरोत् । तदेतत् “कन्या वारवायती” (ऋग्वेदे) इत्यस्मिन् वर्गे द्रष्टव्यम् । रथ इति षष्ठ्यर्थे प्रथमा । रथादीनां खेषु छिद्रेषु, अपो निस्सार्य त्रिः पूर्त्वी । छान्दसो रेफोपजनः । पूत्वा शोधयित्वा हे शचीपते हे इन्द्र । त्वं अपालां नाम कन्यां सूर्यवर्चसं अकरत् अकरोः । पुरुषव्यत्ययश्छान्दसः । तथैव एनामपि कुर्वित्यर्थः ॥ )  
 
-
-
 </details>
 </div>
 
 छिद्रे सुवर्णमुत्तरया +++(=शं ते हिरण्यम्)+++ ऽन्तर्धाय,  
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01b/10_shan_te_hiraNyam.md">
 <details open><summary><h5>शन् ते हिरण्यम् ...{Loading}...</h5></summary>
-
 
 +++(युगच्छिद्रे सुवर्णनिधानम् - )+++  
 शन् ते॒ +++(छिद्रे निधीयमानं)+++ हिर॑ण्यँ॒ शम् उ॑ स॒न्त्व् आप॒श्  
@@ -442,7 +450,6 @@ title = "०४ विवाहप्रकरणम्"
 </details>
 </div>
 
-
 ##### स्नानम्  
 उत्तराभिः पञ्चभिस् +++(=हिरण्यवर्णा)+++ स्नापयित्वा,  
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/01_hiraNyavarNAshshuchayaH_pAvakAH.md">
@@ -450,12 +457,10 @@ title = "०४ विवाहप्रकरणम्"
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/033_ApaH/01_hiraNyavarNAH_shuchayaH.md">
 <details open><summary><h7>०१ हिरण्यवर्णाः शुचयः ...{Loading}...</h7></summary>
 
-
 हिर॑ण्य-वर्णा॒श् शुच॑यः पाव॒काः  
 प्रच॑क्रमुर् ‌हि॒त्वा ऽव॒द्यम् आपः॑ ।  
 श॒तं प॒वित्रा॒ वित॑ता॒ ह्य् आ॑सु॒ +++(अप्सु)+++  
 ताभि॑ष् ट्वा दे॒वस् स॑वि॒ता पु॑नातु ।+++(र५)+++ 
-
 
 </details>
 </div>
@@ -520,23 +525,21 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/010/12_pari_tvA.md">
 <details open><summary><h7>१२ परि त्वा ...{Loading}...</h7></summary>
 
-परि॑ त्वा गिर्-वणो॒+++(=सम्भक्तः)+++  
-गिर॑ इ॒मा भ॑वन्तु वि॒श्वतः॑ ।  
-वृ॒द्धायु॒म्+++(=वृद्धगम्)+++ अनु॒ वृद्ध॑यो॒,  
-+++(त्वया)+++ जुष्टा॑ भवन्तु॒ जुष्ट॑यः ।+++(र४)+++
+प᳓रि त्वा गिर्-वणो+++(=सम्भक्तः)+++  
+गि᳓र इमा᳓ भवन्तु विश्व᳓तः ।  
+वृद्धा᳓युम्+++(=वृद्धगम्)+++ अ᳓नु वृ᳓द्धयो,  
++++(त्वया)+++ जु᳓ष्टा भवन्तु जु᳓ष्टयः ।+++(र४)+++
 
 </details>
 </div>
 </details>
 </div>
-
 
 #### योक्त्रबन्धनम्  
 उत्तरया +++(=आशासाना सौमनसम्)+++ योक्त्रेण सन्नह्यति ८  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/07_AshAsAnA_saumanasam.md">
 <details open><summary><h5>०७ आशासाना सौमनसम् ...{Loading}...</h5></summary>
-
 
 आ॒शासा॑ना सौमन॒सं  
 प्र॒जां सौभा॑ग्यं तनूम्।  
@@ -553,9 +556,9 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 
 8. [^1]  With the next Yajus (M. I, 1, 8) he places a round piece of Darbha net-work on her head; on that, with the next (verse; M. I, 1, 9) he places a right yoke-hole; on this hole he lays with the next (verse; M. I, 1, 10), a piece of gold, and washes her with the next five verses (M. I, 2, 1-5), (so that the water runs over that gold and through the yoke-hole); with the next (verse; M. I, 2, 6) he causes her to dress in a fresh garment, and with the next (M. I, 2, 7) he girds her with a rope.
 
-
 [^1]:  4, 8. As to the last sentence of this Sūtra, comp. the statements collected by Hillebrandt, Neu- and Vollmondsopfer, p. 59.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 ततस्तैरप्स्वाहृतासु **तस्या** वध्वाश्शिरसि **दर्भेण्वं** दर्भैः परिकल्पितं मण्डलं **उत्तरेण यजुषा** "अर्यम्णो अग्निम्" इत्यनेन **निधाय तस्मिन्नि**ण्वे उत्तरया "खेऽनस" इत्यनया दक्षिणं युगच्छिद्रं दक्षिणस्या युगधुरो बाह्यच्छिद्रं **प्रति**ष्ठाप्य तस्मिन् **छिद्रे सुवर्णमुत्तरय**र्चा "शं ते हिरण्यम्" इत्येतया **अन्तर्धाय** ताभिरद्भिस्ताम् **उत्तराभिः पञ्चभिः** "हिरण्यवर्णा" इत्येताभिः प्रतिमन्त्रं स्नापयति ।
@@ -565,6 +568,7 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 ऊर्ध्वज्ञुमासीनाम् (आप.श्रौ.२-५-२.)
 इत्यादिदार्शपौर्णमासिको विशेष इहेष्यते ॥८॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **दर्भेण्वं**, दर्भैः परिकल्पितमिण्वं निगलाकृतिं परिमण्डलाकारमित्यर्थः ।
@@ -601,10 +605,10 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/26_pUShA_tveto.md">
 <details open><summary><h7>२६ पूषा त्वेतो ...{Loading}...</h7></summary>
 
-पू॒षा त्वा+इ॒तो न॑यतु॒ हस्त॒-गृह्या॒  
-ऽश्विनौ॑ त्वा॒ प्रव॑हताँ॒ रथे॑न ।  
-+++(मदीयान्)+++ गृ॒हान् ग॑च्छ गृ॒हप॑त्नी॒  
-यथा ऽसो॑+++(=स्या)+++ व॒शिनी॒ त्वं वि॒दथ॒म्+++(=यज्ञं)+++ आव॑दासि+++(=आवद)+++ ।। (2)
+पूषा᳓ त्वा᳓+इतो᳓ नयतु ह᳓स्त-गृ᳓ह्या  
+ऽश्वि᳓नौ त्वा प्र᳓वहताँ र᳓थेन ।  
++++(मदीयान्)+++ गृहा᳓न् गच्छ गृह᳓पत्नी  
+य᳓था᳓ ऽसो+++(=स्या)+++ वशि᳓नी त्वं᳓ विद᳓थम्+++(=यज्ञं)+++ आ᳓वदासि+++(=आवद)+++ ।। (2)
 
 </details>
 </div>
@@ -618,6 +622,7 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 
 9. Then he takes hold of her with the next (verse; M. I, 2, 8) by her right hand, leads her to the fire, spreads a mat, west of the fire, so that the points of the blades in it are directed towards the north, and on this mat they both sit down, the bridegroom to the north.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 अथ सन्नहनानन्तरं "यत्र क्वचाग्निम्" इत्यादिकल्पेनाग्निं प्रसाधयति ।
@@ -627,6 +632,7 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 हस्तग्रहणं तु तूष्णीमेव ।
 उदगग्रवचनं दक्षिणाग्रनिवृत्त्यर्थम् ॥९॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **अथ**शब्द उक्तार्थः– अर्थकृत्यप्रतिषेधार्थ इति ।
@@ -656,10 +662,10 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/40_somaH_prathamo.md">
 <details open><summary><h7>४० सोमः प्रथमो ...{Loading}...</h7></summary>
 
-सोमः॑ प्रथ॒मो वि॑विदे +++(लेभे)+++  
-गन्ध॒र्वो वि॑विद॒ उत्त॑रः ।  
-तृ॒तीयो॑ अ॒ग्निष् टे॒ पति॑स्  
-तु॒रीय॑स्ते मनुष्य॒जाः ।+++(र५)+++  
+सो᳓मः प्रथमो᳓ विविदे +++(लेभे)+++  
+गन्धर्वो᳓ विविद उ᳓त्तरः ।  
+तृती᳓यो अग्नि᳓ष् टे प᳓तिस्  
+तुरी᳓यस्ते मनुष्यजाः᳓ ।+++(र५)+++  
 
 </details>
 </div>
@@ -672,11 +678,10 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/41_somo_dadadgandharvAya.md">
 <details open><summary><h7>४१ सोमो ददद्गन्धर्वाय ...{Loading}...</h7></summary>
 
-सोमो॑ऽददद् गन्ध॒र्वाय॑  
-गन्ध॒र्वो ऽद॑दद् अ॒ग्नये॑ ।  
-र॒यिञ् च॑ पु॒त्राँश् चा॑दाद्  
-अ॒ग्निर् मह्य॒म् अथो॑ इ॒माम् ।  
-
+सो᳓मो ददद् गन्धर्वा᳓य  
+गन्धर्वो᳓ ददद् अग्न᳓ये  
+रयिं᳓ च पुत्रां᳓श् च अदाद्  
+अग्नि᳓र् म᳓ह्यम् अ᳓थो इमा᳓म्
 </details>
 </div>
 </details>
@@ -689,6 +694,7 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 
 10. After the ceremonies have been performed from the putting of wood on the fire down to the Ājyabhāga oblations, he recites over her the first two (verses of the third Anuvāka).
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 अथैवम् उपविश्याग्नेर् उपसमाधानादि कर्म प्रतिपद्यते । अग्निमिध्वा प्रागग्रैर् इत्यादि आज्यभागान्ते कर्मणि कृते अथानन्तरम् उपोत्थाय एनाम् आसीनां वधूं तृतीयस्यानुवाकस्यादितो द्वाभ्यामृग्भ्यां "सोमः प्रथम" इत्येताभ्याम् अभिमन्त्रयेत । "अग्नेर् उपसमाधानादि"-वचनं तन्त्रप्राप्त्यर्थम् । आज्यभागान्त-ग्रहणम् अभिमन्त्रणादेर् उत्तरस्य कर्मणः कालोपदेशार्थम् । अथशब्दोऽवस्थान्तरप्रदर्शनार्थः ।
@@ -700,6 +706,7 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 उत्तराभ्यामिति वक्तव्ये आदितो द्वाभ्यां इत्युच्यते मन्त्रसमाम्नाये अनुवाकव्यवस्थाप्रदर्शनार्थम् ।
 तेन "शेषं समावेशने जपेद्" इत्यादावनुवाकशेषस्य ग्रहणम् ॥१०॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 अयं तन्त्रोपदेशः क्रमार्थ इत्युक्तमेव ।
@@ -733,6 +740,7 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 
 11. Then he should take with his right hand, palm down, her right hand which she holds palm up.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 अथ तथैवावस्थितः **अस्यै** अस्याः तथैवासीनाया दक्षिणमुत्तानं हस्तं गृह्णीयात् ।
@@ -746,6 +754,7 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 किं तर्हि? न्यक्ताविधानार्थमनूद्यते–योऽयं दक्षिणो हस्तः सर्वकर्मसु प्रसिद्धः तेन नीचा पाणिग्रहणमिह कर्तव्यमिति ।
 अस्मादेव चानुवादात् सर्वत्र दक्षिणपाणिरिति सिद्धम् ॥११॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 अनेन नित्यविधिना "सोऽभीवाङ्गुष्ठम्" इत्येतावन्मात्रस्य व्यवहितस्यापि सम्बन्धः ।
@@ -781,16 +790,19 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 
 12. If he wishes that only daughters may be born to him, he should seize only the fingers (without the thumb);
 </details>
+
 <details><summary>हरदत्त-प्रस्तावः</summary>
 
 अथ काम्यं विधिद्वयमाह—
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 अङ्गुलीरेव नाङ्गुष्ठं, नापि पाणितलम् ।
 पूर्वोक्तस्यैवायं कामसंयुक्तो विशेषविधिः ।
 तेनेहापि दक्षिणेन नीचा हस्तेनेत्येवमादयो विशेषा भवन्ति ॥१२॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 अङ्गुलीरेव नाङ्गुष्ठम् ।
@@ -821,10 +833,12 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 
 13. If he wishes that only sons may be born to him, the thumb.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 गृह्णीयादित्यनुवर्तते ॥१३॥ ॥१४॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **अभीव लोमानि**, यथा वरस्याङ्गुष्ठलोमानि सर्वाण्येवोपरि भवन्ति तथा गृह्णाति ।
@@ -848,16 +862,15 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 
 गृभ्णामि त इत्येताभिश्चतसृभिः ॥  
 
-
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_03/03_gRbhNAmi_te.md">
 <details open><summary><h5>०३ गृभ्णामि ते ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/36_gRbhNAmi_te.md">
 <details open><summary><h7>३६ गृभ्णामि ते ...{Loading}...</h7></summary>
 
-गृ॒भ्णा+++(ह्णा)+++मि॑ ते सुप्रजा॒स्त्वाय॒ हस्तं॒  
-मया॒ पत्या॑ ज॒रद॑ष्टि॒र् यथा ऽसः॑ ।  
-भगो॑ अर्य॒मा स॑वि॒ता पुर॑न्धि॒र् +++(=बहुप्रज्ञा बहुकर्मा वा)+++  
-मह्य॑न् त्वा ऽदु॒र् गार्ह॑पत्याय+++(=गार्हस्थ्याय)+++ देवाः ।+++(र५)+++   
+गृभ्णा᳓+++(ह्णा)+++मि ते सुप्रजास्त्वा᳓य ह᳓स्तं  
+म᳓या प᳓त्या जर᳓दष्टिर् य᳓था᳓ ऽसः ।  
+भ᳓गो अर्यमा᳓ सविता᳓ पु᳓रन्धिर् +++(=बहुप्रज्ञा बहुकर्मा वा)+++  
+म᳓ह्यन् त्वा ऽदुर् गा᳓र्हपत्याय+++(=गार्हस्थ्याय)+++ देवाः ।+++(र५)+++   
 
 </details>
 </div>
@@ -903,10 +916,12 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 (14. He takes (her hand) so as just to touch her thumb and the little hairs (on her hand),)  
 15. With the four verses, 'I take thy hand' (Mantrap. I, 3, 3-6).
 </details>
+
 <details><summary>हरदत्त-प्रस्तावः</summary>
 
 पूर्वोक्तस्य नित्यस्य काम्ययोश्च मन्त्रानाह–
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 यः माणिग्रहणे कामं नेच्छति स पाणिमभीवाङ्गुष्ठमभीव लोमानि गृह्णीयादित्येव ।
@@ -916,6 +931,7 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 **अङ्गुष्ठञ्च** तथा गृह्णीयादित्यर्थः ।
 "लोमान्ते हस्तं साङ्गुष्ठमुभयकाम" (आश्व. गृ.१-७-५) इत्याश्वलायनः ॥१५॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 गृह्णातीति सम्बन्धः ।
@@ -962,6 +978,7 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 
 16. He then makes her step forward with her right foot, to the north of the fire, in an easterly or northerly direction, with (the formula), 'One step for sap' (M. I, 3, 7).
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 अथेदानीमेनां वधूमुत्त्थाप्योत्तरेणाग्निं यो देशस्तस्मात् प्रक्रम्य प्राचीं वा दिशमभि उदीचीं वा दक्षिणेन पदा सप्त पदानि प्रक्रामयति
@@ -978,6 +995,7 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 पदानाञ्च सप्तसंख्यानियमो "यथोत्तराभिस्तिसृभिः प्रदक्षिणम्" इत्यत्र तिसृणामन्ते परिक्रमणारम्भः तद्वदिहापि स्यात् ।
 "विष्णुस्त्वा न्वेत्वि"ति सर्वत्रानुषजन् जपति प्रथमोत्तमयोः पठितत्वात् ॥  १६ ॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 अथाग्नेरदूरेणोत्तरत आरभ्यैनां **दक्षिणेन पदा** पादेन **प्राचीमुदीचीं वा दिशमभि** प्रागायतान्युदगायतानि वा सप्त पदानि प्रक्रमयति; "एकमिषे" इत्यादिभिस्सप्तभिः "विष्णुस्त्वान्वेतु" इत्यनुषक्तैः प्रतिमन्त्रम् ॥१५॥
@@ -1033,6 +1051,7 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 
 17. At her seventh step he murmurs, 'Be a friend' (M. I, 3, 14).
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 उक्तं सप्तपदानि प्रतिमन्त्रं प्रक्रमयतीति ।
@@ -1040,6 +1059,7 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 तत्र कल्पान्तरे दृश्यते "सप्तमं पदमुपसंगृह्येति ॥१७॥
 प्राग्घोमादित्युच्यते जपपरिमाणार्थम् ॥१॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 स वरस् **सप्तमे पदे** निहिते "सखा सप्तदा" इत्यादि "सूनृते" इत्यन्तं जपति, चातुस्स्वर्येणैव ॥१६॥
@@ -1159,20 +1179,19 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/025/19_imaM_me.md">
 <details open><summary><h5>१९ इमं मे ...{Loading}...</h5></summary>
 
-इ॒मं मे॑ वरुण श्रुधी॒ +++(=श्रुणु)+++  
-हव॑म्+++(=आह्वानम्)+++ अ॒द्या च॑ मृळय +++(=सुखय)+++।  
-त्वाम् अ॑व॒स्युर् आ च॑के +++(=अवदन्)+++॥  
+इमं᳓ मे वरुण श्रुधी +++(=श्रुणु)+++  
+ह᳓वम्+++(=आह्वानम्)+++ अद्या᳓ च मृळय +++(=सुखय)+++।  
+त्वा᳓म् अवस्यु᳓र् आ᳓ चके +++(=अवदन्)+++॥  
 
 </details>
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/11_tattvA_yAmi.md">
 <details open><summary><h5>११ तत्त्वा यामि ...{Loading}...</h5></summary>
 
-
-तत् त्वा॑ **यामि॒** ब्रह्म॑णा॒ **वन्द॑मान॒स्**  
-तद् **आ शा॑स्ते॒** यज॑मानो ह॒विर्भिः॑ ।  
-अहे॑ळमानो +++(=अक्रुध्यन्)+++ वरुणे॒ह **बो॒ध्य्** उरु॑शंस॒  
-मा न॒ आयुः॒ **प्र मो॑षीः** ॥
+त᳓त् त्वा **यामि** ब्र᳓ह्मणा **व᳓न्दमानस्**  
+त᳓द् **आ᳓ शास्ते** य᳓जमानो हवि᳓र्भिः ।  
+अ᳓हेळमानो +++(=अक्रुध्यन्)+++ वरुणेह᳓ **बोध्य्** उ᳓रुशंस  
+मा᳓ न आ᳓युः **प्र᳓ मोषीः** ॥
 
 </details>
 </div>
@@ -1181,10 +1200,12 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/001/04_tvaM_no.md">
 <details open><summary><h7>०४ त्वं नो ...{Loading}...</h7></summary>
 
-त्वन् नो॑ अग्ने॒ वरु॑णस्य वि॒द्वान्  
-दे॒वस्य॒ हेडो+++(=क्रोधो )+++ ऽव॑ यासिसीष्ठाः+++(=यक्षीष्ठाः)+++ ।  
-यजि॑ष्ठो॒ +++(हविर्)+++वह्नि॑तम॒श् शोशु॑चानो॒+++(=देदीप्यमानः)+++  
-विश्वा॒ द्वेषाँ॑सि॒ प्र मु॑मुग्ध्य् अ॒स्मत् ।
+त्व᳓न् नो अग्ने व᳓रुणस्य विद्वा᳓न्  
+देव᳓स्य हे᳓डो᳓+++(=क्रोधो )+++ ऽव यासिसीष्ठाः+++(=यक्षीष्ठाः)+++ ।  
+य᳓जिष्ठो +++(हविर्)+++व᳓ह्नितमश् शो᳓शुचानो+++(=देदीप्यमानः)+++  
+वि᳓श्वा द्वे᳓षाँसि प्र᳓ मुमुग्ध्य् अस्म᳓त् ।
+
++++(अग्नीवरुणाभ्याम् इदं न मम)+++
 </details>
 </div>
 </details>
@@ -1194,11 +1215,11 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/001/05_sa_tvaM.md">
 <details open><summary><h7>०५ स त्वं ...{Loading}...</h7></summary>
 
-स त्वन् नो॑ अग्ने ऽव॒मो+++(=मूलभूतो)+++ **भ॑व॒**+ऊ॒ती+++(त्या)+++  
+स᳓ त्व᳓न् नो अग्ने ऽवमो᳓+++(=मूलभूतो)+++ **भव**+ऊती᳓+++(त्या)+++  
 +++(“अग्निरवमो देवतानां विष्णुः परमः” इति ब्राह्मणम्)+++  
-नेदि॑ष्ठो+++(=अन्तिकतमो)+++ अ॒स्या उ॒षसो॒ व्यु॑ष्टौ+++(=व्युष्टायाम्)+++ ।  
-**अव॑ यक्ष्व** नो॒ वरु॑णँ॒, **ररा॑णो**  
-**वी॒हि**+++(=खाद)+++ मृ॑डी॒कँ+++(=सुखयितारं [हविः])+++ सु॒हवो॑ न **एधि** ।
+ने᳓दिष्ठो+++(=अन्तिकतमो)+++ अस्या᳓ उष᳓सो व्यु᳙ष्टौ+++(=व्युष्टायाम्)+++ ।  
+**अ᳓व यक्ष्व** नो व᳓रुणँ, **र᳓राणो**  
+**वीहि᳓**+++(=खाद)+++ मृडीकँ᳓+++(=सुखयितारं [हविः])+++ सुह᳓वो न **एधि** ।
 
 +++(अग्नीवरुणाभ्याम् इदं न मम)+++
 </details>
@@ -1207,7 +1228,6 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/16_tvamagne_ayA-syayA.md">
 <details open><summary><h5>१६ त्वमग्ने अयाऽस्यया ...{Loading}...</h5></summary>
-
 
 त्वम् अ॑ग्ने अ॒या+++(=एतव्यः/ प्रत्येता)+++ **ऽस्य्**  
 अ॒या **सन्** मन॑सा **हि॒तः** ।  
@@ -1226,9 +1246,9 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 
 2. [^1]  They sit down in their former position, and while she takes hold of him, he offers the oblations (indicated by the) next (Mantras), with (the Mantras), 'To Soma, the acquirer of a wife, Svāhā!' (M. I, 4, I-16), one oblation with each Mantra.
 
-
 [^1]:  5, 2. See 4, 9.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 समाप्य जपमथाग्निं प्रदक्षिणं करोति तया सह प्रदक्षिणं परिक्रामतीत्यर्थः ।
@@ -1250,6 +1270,7 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 तत्रादितश्चत्वारो मन्त्राः स्वाहाकारान्ताः पठिताः ।
 ततो द्वादशर्चः, तास्वन्ते स्वाहाकारः जुहोतिचोदनः स्वाहाकारप्रदानः इति ॥२॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 सखेति जपित्वा, **प्राग्घोमात्** होमात्प्राक् अग्निप्रदक्षिणमेव वध्वा सह कुर्यान्नान्यदर्थकृत्यमावश्यकमपि ; "प्राग्घोमाद्" इत्यधिकग्रहणात् ।
@@ -1307,14 +1328,15 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 
 3. [^2]  He then causes her, to the north of the fire, to tread with her right foot on a stone, with (the verse), 'Tread' (M. I, 5, 1).
 
-
 [^2]:  See below, IV, 10, 9.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 पदप्रक्रणणं पदास्थापनम् **अश्मा** दृषत्पुत्रः ।
 स च प्रागेव पात्रैस्सह प्रतिष्ठापितो भवति ॥२॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 व्यक्तार्थम् ॥२॥
@@ -1344,10 +1366,12 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 
 4. Having 'spread under' Ājya into her joined hands, he pours roasted grain twice (into them), and sprinkles Ājya over it.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 +++(सम्पादकटिप्पनी-  सूत्रमिदम् अग्रिमे व्याख्यातम्।)+++
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 +++(सम्पादकटिप्पनी-  सूत्रमिदम् अग्रिमे व्याख्यातम्।)+++
@@ -1376,6 +1400,7 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 
 5. Some say that an uterine relation of hers pours the grain (into her hands).
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 अथशब्दः स्थानसम्बन्धार्थः ।
@@ -1389,6 +1414,7 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 सोदर्यो लाजानावपतीति वचनात् उपस्तरणाभिघारणे वरस्यैव भवतः ।
 पक्षान्तरे तु तस्यैव सर्वम् ॥४॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 एते अपि सूत्रे व्यक्तार्थे ।
@@ -1431,14 +1457,15 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 
 6. [^3]  He (?) sacrifices (that grain) with (the verse), 'This wife' (M. I, 5, 2).
 
-
 [^3]:  'The action of sacrificing belongs to the bridegroom; the hands of the wife represent the sacrificial vessel.' Haradatta. - 'It is the bridegroom who sacrifices the grain with the verse, "This wife."' Sudarśanārya.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 वरस्यैव जुहोतिक्रिया ।
 पात्रस्थानीयो वध्वञ्जलिः ॥५॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 वर एव "इयं नारी" इत्यनया ऋचाऽभिन्नेन वध्वञ्जलिना देवतीर्थेन लाजान् जुहोति ।
@@ -1480,13 +1507,12 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/38_tubhyamagre_paryavahantsUryAM.md">
 <details open><summary><h7>३८ तुभ्यमग्रे पर्यवहन्त्सूर्यां ...{Loading}...</h7></summary>
 
-
 +++(सूर्या नाम सवितुर्दुहिता विवाहस्य अधिष्ठात्री देवता -  [सूर्यासूक्ते](../../AdityaH/Rk/raibhy_AsId_anudeyI/) दृश्या।)+++  
 
-तुभ्य॒म् +++(अग्नये)+++ अग्रे॒ +++(गन्धर्वाः)+++  पर्य॑वहन्त्  
-सू॒र्यां व॑ह॒तुना॑ स॒ह ।  
-पुनः॒ पति॑भ्यो जा॒यां दा+++(ः)+++  
-अ॑ग्ने प्र॒जया॑ स॒ह ।+++(र५)+++  
+तु᳓भ्यम् +++(अग्नये)+++ अ᳓ग्रे +++(गन्धर्वाः)+++  प᳓र्यवहन्त्  
+सूर्यां᳓ वहतु᳓ना सह᳓ ।  
+पु᳓नः प᳓तिभ्यो जायां᳓ दा᳓+++(ः)+++  
+अग्ने प्रज᳓या सह᳓ ।+++(र५)+++  
 
 </details>
 </div>
@@ -1497,10 +1523,10 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/39_punaH_patnImagniradAdAyuShA.md">
 <details open><summary><h7>३९ पुनः पत्नीमग्निरदादायुषा ...{Loading}...</h7></summary>
 
-पुनः॒ पत्नी॑म् अ॒ग्निर् अ॑दा॒द्  
-आयु॑षा स॒ह वर्च॑सा ।  
-दी॒र्घा॒युर् अ॑स्या॒ यः पति॒स्  
-स ए॑तु श॒रद॑श् श॒तम् ॥+++(र५)+++  
+पु᳓नः प᳓त्नीम् अग्नि᳓र् अदाद्  
+आ᳓युषा सह᳓ व᳓र्चसा ।  
+दीर्घायु᳓र् अस्या यः᳓ प᳓तिस्  
+स᳓ एतु शर᳓दश् शत᳓म् ॥+++(र५)+++  
 
 </details>
 </div>
@@ -1511,9 +1537,9 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/007/03_vishvA_uta.md">
 <details open><summary><h7>०३ विश्वा उत ...{Loading}...</h7></summary>
 
-विश्वा॑ उ॒त त्वया॑ व॒यं  
-धारा॑ उद॒न्या॑+++(=उदक-सम्बन्धिनीः)+++ इव ।  
-अति॑गाहेमहि॒ द्विषः॑ ।+++(५)+++ 
+वि᳓श्वा उत᳓ त्व᳓या वयं᳓  
+धा᳓रा उदन्या᳙+++(=उदक-सम्बन्धिनीः)+++ इव ।  
+अ᳓तिगाहेमहि द्वि᳓षः ।+++(५)+++ 
 
 </details>
 </div>
@@ -1527,9 +1553,9 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 
 7. [^4]  Having gone round the fire, with the right side turned towards it, with the next three (verses; M. I, 5, 3-5) he makes her tread on the stone as above (M. I, 5, 6).
 
-
 [^4]:  See above, Sūtra 3.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 **उत्तराभिस्तिसृभिः** तुभ्यमग्रे पर्यवहन्नित्यादिभिः अग्निं प्रदक्षिणं करोति ।
@@ -1537,6 +1563,7 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 "वचनादेकं कर्म बहुमन्त्रम्" इति ।
 उत्तराभिरिति बहुवचनेनैव त्रित्वपरिग्रहसिद्धे तिसृभिरिति वचनं तिसृभिरेकमेव परिक्रमणं यथा स्यात् प्रतिमन्त्रं क्रियाभ्यावृत्तिर्मा भूदिति ॥६॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 उत्तराभिः"तुभ्यमग्रे पर्यवहन्" इत्यादिभिस्तिसृभिः ।
@@ -1576,11 +1603,13 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 
 8. And the oblation (is performed) with the next (verse; M. I, 5, 7).
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 यथा पुरस्तादिति वर्तते ।
 उत्तरया "अर्यमणं नु देवम्" इत्येतया ॥७॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 लाजहोमश्चोत्तरया "अर्यमणं नु देवम्" इत्येतया ॥७॥
@@ -1609,10 +1638,12 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 
 9. (Then follow) again the circumambulation (M. I, 5, 8-10),
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 +++(सम्पादकटिप्पनी-  सूत्रमिदम् अग्रिमे व्याख्यातम्।)+++
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 +++(सम्पादकटिप्पनी-  सूत्रमिदम् अग्रिमे व्याख्यातम्।)+++
@@ -1631,7 +1662,6 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 <div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/05_09_AsthApanam_punarapi.md">
 <details open><summary><h3>०५ ०९ आस्थापनम् पुनरपि ...{Loading}...</h3></summary>
 
-
 +++(अश्मन)+++ आस्थापनम् ॥  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/08-11_tubhyamagre_paryavahanpunaH.md">
@@ -1639,32 +1669,31 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/38_tubhyamagre_paryavahantsUryAM.md">
 <details open><summary><h7>३८ तुभ्यमग्रे पर्यवहन्त्सूर्यां ...{Loading}...</h7></summary>
 
-
 +++(सूर्या नाम सवितुर्दुहिता विवाहस्य अधिष्ठात्री देवता -  [सूर्यासूक्ते](../../AdityaH/Rk/raibhy_AsId_anudeyI/) दृश्या।)+++  
 
-तुभ्य॒म् +++(अग्नये)+++ अग्रे॒ +++(गन्धर्वाः)+++  पर्य॑वहन्त्  
-सू॒र्यां व॑ह॒तुना॑ स॒ह ।  
-पुनः॒ पति॑भ्यो जा॒यां दा+++(ः)+++  
-अ॑ग्ने प्र॒जया॑ स॒ह ।+++(र५)+++  
+तु᳓भ्यम् +++(अग्नये)+++ अ᳓ग्रे +++(गन्धर्वाः)+++  प᳓र्यवहन्त्  
+सूर्यां᳓ वहतु᳓ना सह᳓ ।  
+पु᳓नः प᳓तिभ्यो जायां᳓ दा᳓+++(ः)+++  
+अग्ने प्रज᳓या सह᳓ ।+++(र५)+++  
 
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/39_punaH_patnImagniradAdAyuShA.md">
 <details open><summary><h7>३९ पुनः पत्नीमग्निरदादायुषा ...{Loading}...</h7></summary>
 
-पुनः॒ पत्नी॑म् अ॒ग्निर् अ॑दा॒द्  
-आयु॑षा स॒ह वर्च॑सा ।  
-दी॒र्घा॒युर् अ॑स्या॒ यः पति॒स्  
-स ए॑तु श॒रद॑श् श॒तम् ॥+++(र५)+++  
+पु᳓नः प᳓त्नीम् अग्नि᳓र् अदाद्  
+आ᳓युषा सह᳓ व᳓र्चसा ।  
+दीर्घायु᳓र् अस्या यः᳓ प᳓तिस्  
+स᳓ एतु शर᳓दश् शत᳓म् ॥+++(र५)+++  
 
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/007/03_vishvA_uta.md">
 <details open><summary><h7>०३ विश्वा उत ...{Loading}...</h7></summary>
 
-विश्वा॑ उ॒त त्वया॑ व॒यं  
-धारा॑ उद॒न्या॑+++(=उदक-सम्बन्धिनीः)+++ इव ।  
-अति॑गाहेमहि॒ द्विषः॑ ।+++(५)+++ 
+वि᳓श्वा उत᳓ त्व᳓या वयं᳓  
+धा᳓रा उदन्या᳙+++(=उदक-सम्बन्धिनीः)+++ इव ।  
+अ᳓तिगाहेमहि द्वि᳓षः ।+++(५)+++ 
 
 </details>
 </div>
@@ -1678,12 +1707,14 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 
 (again) the injunction to tread on the stone (I, 5, 11),
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 पुनरपि परिक्रमणमग्नेः कर्तव्यं आस्थापनञ्चाश्मनः ।
 पुनश्शब्दः क्रियाभ्यावृत्तिद्योतनार्थः ।
 तेनोत्तराभिस्तिसृभिरित्यादिर्भवति ॥९॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 अग्निप्रदक्षिणम् ॥८॥
@@ -1710,10 +1741,10 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/003/02_tvamaryamA_bhavasi.md">
 <details open><summary><h7>०२ त्वमर्यमा भवसि ...{Loading}...</h7></summary>
 
-त्वम् अ॑र्य॒मा भ॑वसि॒ यत् क॒नी+++(न्या)+++ना॒न्  
-नाम॑ स्व॒धा+++(=अन्न)+++व॒त् स्व॑र्यं+++(र्ग्यं)+++ बि॒भर्षि॑ ।  
-अ॒ञ्जन्ति॑+++(=सिञ्चन्ति)+++ वृ॒क्षँ सुधि॑त॒न्+++(=सुष्ठु निहितं)+++ न गोभि॒र्+++(=गोविकारैराज्यादिभिः)+++  
-यद्दम्प॑ती॒ स+++(मान)+++म॑नसा+++(सौ)+++ कृ॒णोषि॑ ।  
+त्व᳓म् अर्यमा᳓ भवसि य᳓त् कनी᳓+++(न्या)+++नान्  
+ना᳓म स्वधा᳓+++(=अन्न)+++वत् स्व᳙र्यं+++(र्ग्यं)+++ बिभ᳓र्षि ।  
+अञ्ज᳓न्ति+++(=सिञ्चन्ति)+++ वृक्षँ᳓ सु᳓धितन्+++(=सुष्ठु निहितं)+++ न᳓ गो᳓भिर्+++(=गोविकारैराज्यादिभिः)+++  
+य᳓द्द᳓म्पती स᳓+++(मान)+++मनसा+++(सौ)+++ कृणो᳓षि ।  
 
 </details>
 </div>
@@ -1727,10 +1758,12 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 
 and (again) the oblation with the next (verse; I, 5, 12);
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 **उत्तरया** "त्वमर्यमा" इत्येतया ऋचा ॥१०॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 "त्वमर्यमा भवसि" इत्येतया ॥१०॥
@@ -1749,7 +1782,6 @@ and (again) the oblation with the next (verse; I, 5, 12);
 <div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/05_11_punaH_parikramaNam.md">
 <details open><summary><h3>०५ ११ पुनः परिक्रमणम् ...{Loading}...</h3></summary>
 
-
 पुनः परिक्रमणम् ॥  
 
 </details>
@@ -1760,10 +1792,12 @@ and (again) the oblation with the next (verse; I, 5, 12);
 
 10. (Then) the circumambulation again (I, 5, 13-15).
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 पुनश्शब्दः पूर्ववत् ॥११॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 "होमश्चोत्तरया" इत्यादिषु पञ्चसु सूत्रेषु "यथा पुरस्तात्" इत्यनुषङ्गः ।
@@ -1794,15 +1828,16 @@ and (again) the oblation with the next (verse; I, 5, 12);
 
 11. [^5]  He enters upon the performance of the Jaya and following oblations.
 
-
 [^5]:  11, 12. See Section 2, Sūtras 7. 8; Section 4, Sūtra 8.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 पूर्वमग्नेरुपसमाधानादिवचनेन तन्त्रप्राप्तिर्दर्शिता ।
 इदं तु वचनं कोलोपदेशार्थं परिक्रमणादूर्ध्वं जयादयो यथा स्युरिति ।
 इतरथा जयादीनुपजुहोतीति वचनाल्लाजहोमानन्तरमुपहोमः स्यात् ततस्तृतीयं परिक्रमणम् ॥१२॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 एतदुक्ताभिप्रायम्– यत्र वचनं तत्रैव जयादयो, नान्यत्र; अन्वारम्भश्चैषु नास्तीति ॥१२॥
@@ -1854,9 +1889,9 @@ and (again) the oblation with the next (verse; I, 5, 12);
 
 12. [^6]  Having performed (the rites) down to the sprinkling (of water) round (the fire), and having untied the rope with the next two verses (I, 5, 16. 17), he should then make her depart (from her father's house in a vehicle), or should have her taken away.
 
-
 [^6]:  12 seq. Comp. Hiraṇyakeśin I, 7, 22, 1 seq.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 परिषेचनान्तग्रहणं तन्त्रशेषोपलक्षणम् ।
@@ -1871,6 +1906,7 @@ and (again) the oblation with the next (verse; I, 5, 12);
 अतः
 उभयत्र वाशब्दः, तेन मनुष्यनयनेऽप्यारोहतीमुत्तराभिरुत्तरया शंत उत्तराभिरित्येवमादयो मन्त्राः सिद्धा भवन्ति ॥१३॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **परिषेचनान्तं कृत्वा,** सामर्थ्यात्तन्त्रशेषं समाप्येत्यर्थः ।
@@ -1919,6 +1955,7 @@ and (again) the oblation with the next (verse; I, 5, 12);
 
 13. Having put that fire (with which the marriage rites have been performed, into a vessel), they carry it behind (the newly-married couple).
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 **एतं** वैवाहिकमग्निम् उखायां **समोप्य**  
@@ -1928,6 +1965,7 @@ and (again) the oblation with the next (verse; I, 5, 12);
 अनुगतो मन्थ्य इत्य्-अत्र श्रौतवद् अवक्षाणेभ्यो मन्थनमिति ।
 **अनुशब्दः** पुरस्तान् नयनअनुशब्द्-दःप्रतिषेधार्थः ॥१४॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **एतं** विवाहाग्निं समोप्योखायाम्  
@@ -1961,10 +1999,12 @@ and (again) the oblation with the next (verse; I, 5, 12);
 
 14. It should be kept constantly.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 +++(सम्पादकटिप्पनी - इदं सूत्रम् अग्रिमे व्याख्यातम्।)+++
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 +++(सम्पादकटिप्पनी - इदं सूत्रम् अग्रिमे व्याख्यातम्।)+++
@@ -1993,10 +2033,12 @@ and (again) the oblation with the next (verse; I, 5, 12);
 
 15. If it goes out, (a new fire) should be kindled by attrition,
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 एष वैवाहिकोऽग्निर् **नित्यः** शाश्वतिको **धार्यः** पत्नी-सम्बन्धानां कर्मणाम् अर्थाय ॥१६॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 पाणि-ग्रहणाद् आरभ्य सर्वाचार-लक्षण-कर्मार्थम् अयम् अग्निर् नित्यः, यावज्-जीवं नोत्सृज्यते; "पाणिग्रहणादिर् अग्निस् तम् औपासनम् इत्य् आचक्षते, तस्मिन् गार्ह्याणि कर्माणि" ( हि. गृ.२६-१,२.) इति हिरण्यकेशि-वचनात् ।  
@@ -2036,10 +2078,12 @@ and (again) the oblation with the next (verse; I, 5, 12);
 
 16. Or it should be fetched from the house of a Śrotriya.
 </details>
+
 <details><summary>हरदत्त-प्रस्तावः</summary>
 
 अस्यौपासनस्योद्वातस्योत्पत्तिमाह–
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 **अनुगतः** उद्-वातः मन्थ्यः मन्थनेनोत्पाद्यः ।  
@@ -2049,6 +2093,7 @@ and (again) the oblation with the next (verse; I, 5, 12);
 तत्र विवाहे अरणीभ्यां मन्थनम्, अनुगते स्वेभ्य एवावक्षाणेभ्य+++(=प्राग्दग्धाङ्गारेभ्यः)+++ इत्युक्तम् ।+++(5)+++
 तदभावे भस्मना अरणी संस्पृश्य मन्थनम् ॥१७॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 यद्य् अयम् अग्निर् **अनुगतः** निर्वाणस् स्यात्, तदा **मन्थ्यः** तेभ्य एवावक्षणेभ्यो+++(=प्राग्दग्धाङ्गारेभ्यः)+++ ऽधिमन्थितव्यः ।
@@ -2079,11 +2124,13 @@ and (again) the oblation with the next (verse; I, 5, 12);
 
 17. Besides, if (the fire) goes out, one of them, either the wife or the husband, should fast.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 श्रुत-वृत्ताऽध्ययन-सम्पन्नो ब्राह्मणः **श्रोत्रियः** तस्य गृहे यः पचनाग्निः तस्माद्वाहार्यः ।
 अस्मिन् पक्षे विवाहेऽप्य् अस्य योनिर् एषैव ॥१८॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 अथवाऽऽधीत-वेदस्य गृहाद् **आहार्यः** ।
@@ -2120,10 +2167,12 @@ and (again) the oblation with the next (verse; I, 5, 12);
 
 18. Or he may sacrifice with the next (verse; M. I, 5, 18), and not fast.
 </details>
+
 <details><summary>हरदत्त-प्रस्तावः</summary>
 
 प्रायश्चित्तमाह–
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 अत्र व्यवहित-कल्पनया पदानां सम्बन्धः ।
@@ -2144,6 +2193,7 @@ and (again) the oblation with the next (verse; I, 5, 12);
 अत एव भार्यायाः पूर्वनिर्देशः तेन यस्मिन् कर्मणि भार्यायास्सहत्वं नास्ति यथोपाकरणसमापनयोस्तस्यैतस्मिन्नग्नावप्रवृत्तिः ।
 सपत्नीबाधनादौ च पत्त्युस्सहत्वाभावेऽपि भार्यासबन्धादेवास्मिन्नग्नौ प्रवृत्तिः ॥१९॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 अन्यतरस्य कालस्य, अह्नो वा रात्रेर्वा सम्बन्धी उपवासः अनशनं भार्यायाः पत्युर्वा भवति ।
@@ -2195,6 +2245,7 @@ and (again) the oblation with the next (verse; I, 5, 12);
 
 19. The next (verse; M. I, 6, 1) is for putting the chariot (on which the young couple is to depart), in position;
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 उत्तरयर्चा "अयाश्चाग्ने" इत्येतया जुहुयात् आहुतिम् एकाम् ।
@@ -2208,6 +2259,7 @@ and (again) the oblation with the next (verse; I, 5, 12);
 अस्यैवाग्नेर्बुद्धिपूर्वोत्सर्गे द्वादशाहादूर्ध्वं विच्छेदे च स्मृत्यन्तरे प्रायश्चित्तमुक्तम् ।
 तत्राप्यग्निसंकार एतावानेव ॥२०॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 अपि वा अग्नाव् **अनुगते उत्तरया** "अयाश्चाग्ने" इत्येतयाऽऽज्यं जुहुयान् नोपवसेत् ।
@@ -2229,7 +2281,6 @@ and (again) the oblation with the next (verse; I, 5, 12);
 <div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/05_21_uttarA_rathasyottambhanI.md">
 <details open><summary><h3>०५ २१ उत्तरा रथस्योत्तम्भनी ...{Loading}...</h3></summary>
 
-
 उत्तरा +++(=सत्येनोत्तभितेत्येषा )+++ रथस्योत्तम्भनी ॥   
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_06/01_satyenottabhitA_bhUmissUryeNottabhitA.md">
@@ -2237,12 +2288,10 @@ and (again) the oblation with the next (verse; I, 5, 12);
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/01_satyenottabhitA_bhUmiH.md">
 <details open><summary><h7>०१ सत्येनोत्तभिता भूमिः ...{Loading}...</h7></summary>
 
-
-
-स॒त्येनोत्त॑भिता॒ भूमि॒स्  
-सूर्ये॒णोत्त॑भिता॒ द्यौः ।  
-ऋ॒तेना॑ऽऽदि॒त्यास् तिष्ठ॑न्ति  
-दि॒वि सोमो॒ अधि॑ श्रि॒तः ।+++(५)+++  
+सत्ये᳓नो᳓त्तभिता भू᳓मिस्  
+सू᳓र्येणो᳓त्तभिता द्यौः᳓ ।  
+ऋते᳓नाऽऽदित्या᳓स् ति᳓ष्ठन्ति  
+दिवि᳓ सो᳓मो अ᳓धि श्रितः᳓ ।+++(५)+++  
 
 </details>
 </div>
@@ -2256,6 +2305,7 @@ and (again) the oblation with the next (verse; I, 5, 12);
 
 20. With the next two (verses; M. I, 6, 2. 3), he puts the two animals to the chariot;
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 अथ दम्पत्योः प्रस्थाने विशेषधर्मा उपदिश्यन्ते ।
@@ -2263,6 +2313,7 @@ and (again) the oblation with the next (verse; I, 5, 12);
 **रथस्योत्तंभनी** अनयर्चा रथस्योत्तम्भनं कर्तव्यमित्यर्थः ।
 केन? वरेण, अधिकृतत्वात् ॥२१॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **उत्तरा** "सत्येनोत्तभिता" इत्येषा **रथस्योत्तम्भनी** उत्तम्भने करणमन्त्रः ॥२१॥
@@ -2289,10 +2340,9 @@ and (again) the oblation with the next (verse; I, 5, 12);
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/006/01_yunjanti_bradhnamaruShaM.md">
 <details open><summary><h7>०१ युञ्जन्ति ब्रध्नमरुषं ...{Loading}...</h7></summary>
 
-
-यु॒ञ्जन्ति॑ ब्र॒द्ध्नम्+++(=महान्तम्)+++ अ॑रु॒षञ्+++(=गन्तारं)+++  
-चर॑न्त॒म् परि॑ त॒स्थुषः॑ ।  
-+++(यावद्)+++ रोच॑न्ते रोच॒ना दि॒वि ।+++(र५)+++  
+युञ्ज᳓न्ति ब्रद्ध्न᳓म्+++(=महान्तम्)+++ अरुष᳓ञ्+++(=गन्तारं)+++  
+च᳓रन्तम् प᳓रि तस्थु᳓षः ।  
++++(यावद्)+++ रो᳓चन्ते रोचना᳓ दिवि᳓ ।+++(र५)+++  
 
 </details>
 </div>
@@ -2303,10 +2353,9 @@ and (again) the oblation with the next (verse; I, 5, 12);
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/030/07_yogeyoge_tavastaraM.md">
 <details open><summary><h7>०७ योगेयोगे तवस्तरं ...{Loading}...</h7></summary>
 
-
-+++(रथादि)+++योगे॑योगे त॒वस्+++(=गति[वत्])+++त॑र॒व्ँ  
-वाजे॑वाजे हवामहे ।  
-+++(वयं स्तोतृत्वेन)+++ सखा॑य॒+++(ः)+++ इन्द्र॑म् ऊ॒तये॑ ।+++(५)+++
++++(रथादि)+++यो᳓गेयोगे तव᳓स्+++(=गति[वत्])+++तरव्ँ  
+वा᳓जेवाजे हवामहे ।  
++++(वयं स्तोतृत्वेन)+++ स᳓खाय+++(ः)+++ इ᳓न्द्रम् ऊत᳓ये ।+++(५)+++
 
 </details>
 </div>
@@ -2320,6 +2369,7 @@ and (again) the oblation with the next (verse; I, 5, 12);
 
 21. First the right one.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 याभ्यामूह्यते रथः तौ **वाहौ** अश्वावनड्वाहौ वा ।
@@ -2330,6 +2380,7 @@ and (again) the oblation with the next (verse; I, 5, 12);
 प्रत्यङ्मुखत्वे च न सिध्यति वचनम् ।
 अन्यत्र तथापवर्ग इत्येव सिद्धम् ॥२२॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **उत्तराभ्यां** "युञ्जन्ति ब्रध्नं" "योगे योगे" इति द्वाभ्यां अश्वावनड्वाहौ वा युगधुरोराबध्नाति ।
@@ -2364,7 +2415,6 @@ and (again) the oblation with the next (verse; I, 5, 12);
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_06/05_uduttaramArohantI_vyasyantI.md">
 <details open><summary><h5>०५ उदुत्तरमारोहन्ती व्यस्यन्ती ...{Loading}...</h5></summary>
 
-
 उदु॑त्त॒रम् आ॒रोह॑न्ती  
 व्य॒स्यन्ती॑ पृतन्य॒तः+++(=योद्धुकामान्)+++ ।  
 मू॒र्द्धानं॒ पत्यु॒र् आ रो॑ह  
@@ -2377,11 +2427,10 @@ and (again) the oblation with the next (verse; I, 5, 12);
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/46_samrAjnI_shvashure.md">
 <details open><summary><h7>४६ सम्राज्ञी श्वशुरे ...{Loading}...</h7></summary>
 
-
-स॒म्राज्ञी॒ श्वशु॑रे भव  
-स॒म्राज्ञी॑ श्वश्रु॒वां भ॑व ।  
-नना॑न्दरि स॒म्राज्ञी॑ भव  
-स॒म्राज्ञी॒ अधि॑ दे॒वृषु॑ ।+++(५)+++  
+सम्रा᳓ज्ञी श्व᳓शुरे भव  
+सम्रा᳓ज्ञी श्वश्रुवां᳓ भव ।  
+न᳓नान्दरि सम्रा᳓ज्ञी भव  
+सम्रा᳓ज्ञी अ᳓धि देवृ᳓षु ।+++(५)+++  
 
 </details>
 </div>
@@ -2389,7 +2438,6 @@ and (again) the oblation with the next (verse; I, 5, 12);
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_06/07_snuShANAM_shvashurANAm.md">
 <details open><summary><h5>०७ स्नुषाणां श्वशुराणाम् ...{Loading}...</h5></summary>
-
 
 स्नु॒षाणाँ॒ श्वशु॑राणां  
 प्र॒जाया॑श्च॒ धन॑स्य च ।  
@@ -2406,6 +2454,7 @@ and (again) the oblation with the next (verse; I, 5, 12);
 
 22. When she mounts (the chariot), he recites over her the next (verses; M. I, 6, 4-7).
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 अथ तं रथं युक्तमारोहति वधूः ।
@@ -2416,6 +2465,7 @@ and (again) the oblation with the next (verse; I, 5, 12);
 "सुचक्रम्" इति मन्त्रलिङ्गात् रथ एव मन्त्रा इत्येके ।
 वधूप्रतिपादनपरत्वात् मन्त्रस्य रथलिङ्गत्वमर्थवाद इत्यन्ये ॥२३॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **रथमारोहतिम्** आरोहन्तीं वधूम् ।
@@ -2443,7 +2493,6 @@ and (again) the oblation with the next (verse; I, 5, 12);
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_06/08_nIlalohite_bhavataH.md">
 <details open><summary><h5>०८ नीललोहिते भवतः ...{Loading}...</h5></summary>
 
-
 नी॒ल॒लो॒हि॒ते +++(सूत्रे)+++ भ॑वतः  
 +++(एकतरेण?)+++ +++(कु)+++कृ॒त्या-स॒क्तिर् +++(दूरं)+++ व्य॑ज्यते ।  
 एध॑न्तेऽस्या ज्ञा॒तयः॒  
@@ -2459,6 +2508,7 @@ and (again) the oblation with the next (verse; I, 5, 12);
 
 23. With the next (verse; M. I, 6, 8), he spreads out two threads in the wheel-tracks (in which the chariot is to go), a dark-blue one in the right (track), a red one in the left.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 द्वे **सूत्रे** नीललोहिते रथस्य वर्त्मनोरुभयोर् भविष्यन्निर्देशोऽयं ययोर्वर्तिष्येते रथचक्रे तयोर्वत्मनोः ।
@@ -2474,6 +2524,7 @@ and (again) the oblation with the next (verse; I, 5, 12);
 अभियानं तु सान्नाय्यकुम्भीवत् द्रष्टव्यम्–अप्रस्रेसाय यज्ञस्योऽखे उपदधाम्यहमिति ।
 सूत्रव्यवस्तरणमश्वादिषु नास्ति रथसंबन्धात् ॥२६॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **वर्त्मनोः** वर्तन्योरित्यर्थपाठः ।
@@ -2506,10 +2557,10 @@ ___________
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/31_ye_vadhvashchandraM.md">
 <details open><summary><h7>३१ ये वध्वश्चन्द्रं ...{Loading}...</h7></summary>
 
-ये व॒द्ध्वश् च॒न्द्रं+++(=आह्लादकं)+++ व॑ह॒तुं+++(=स्त्रीधनं)+++  
-यक्ष्मा॒ यन्ति॒ जनाँ॒ अनु॑ ।  
-पुन॒स् तान् य॒ज्ञिया॑ दे॒वा  
-नय॑न्तु॒ यत॒ आग॑ताः ।+++(र४)+++  
+ये᳓ वद्ध्व᳓श् चन्द्रं᳓+++(=आह्लादकं)+++ वहतुं᳓+++(=स्त्रीधनं)+++  
+य᳓क्ष्मा य᳓न्ति ज᳓नाँ अ᳓नु ।  
+पु᳓नस् ता᳓न् यज्ञि᳓या देवा᳓  
+न᳓यन्तु य᳓त आ᳓गताः ।+++(र४)+++  
 
 </details>
 </div>
@@ -2520,11 +2571,10 @@ ___________
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/32_mA_vidanparipanthino.md">
 <details open><summary><h7>३२ मा विदन्परिपन्थिनो ...{Loading}...</h7></summary>
 
-
-मा वि॑दन् परिप॒न्थिनो॒  
-य आ॒सीद॑न्ति॒ दम्प॑ती ।  
-सु॒गेभि॑र् दु॒र्गम् +++(तौ)+++ अती॑ता॒म्  
-अप॑ द्रा॒+++(द्रव)+++न्त्व् अरा॑तयः ।  
+मा᳓ विदन् परिपन्थि᳓नो  
+य᳓ आसी᳓दन्ति द᳓म्पती ।  
+सुगे᳓भिर् दुर्ग᳓म् +++(तौ)+++ अ᳓तीताम्  
+अ᳓प द्रा+++(द्रव)+++न्त्व् अ᳓रातयः ।  
 
 </details>
 </div>
@@ -2532,7 +2582,6 @@ ___________
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_06/11_sugam_panthAnamAruxamariShTa2m.md">
 <details open><summary><h5>११ सुगम् पन्थानमारुक्षमरिष्ट२म् ...{Loading}...</h5></summary>
-
 
 सु॒गं पन्था॑न॒म् आरु॑क्ष॒+++(ह)+++म्  
 अरि॑ष्टँ स्वस्ति॒-वाह॑नम् ।  
@@ -2549,6 +2598,7 @@ ___________
 
 24. With the next (verses; M. I, 6, 9-11), he walks on these (threads).
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 **ते** सूत्रे **अभियाति** उपरियाति ।
@@ -2558,6 +2608,7 @@ ___________
 मन्त्रलिङ्गात् त्रित्वनियमः ।
 त्रयाणामन्ते गमनारम्भः ॥२५॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 "ये वध्वश्चन्द्रम्" इति तिसृभिर्व्यवस्तीर्णे सूत्रे **अभियाति** उपरिगच्छति ॥२५॥
@@ -2585,11 +2636,10 @@ ___________
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/040/13_tA_mandasAnA.md">
 <details open><summary><h7>१३ ता मन्दसाना ...{Loading}...</h7></summary>
 
-
-ता+++(=तौ)+++ म॑न्दसा॒ना+++(=स्तूयमानौ)+++ मनु॑षो दुरो॒ण+++(=गृहे)+++  
-**आ ध॒त्तँ** र॒यिं द॒श-वी॑रं वच॒स्यवे॑+++(=वचनवते)+++ ।  
-**कृ॒तं**+++(=कुरुतं)+++ ती॒र्थँ सु॑-प्रपा॒णँ **शु॑भस्-पती** +++(अश्विनौ)+++,  
-स्था॒णुं प॑थे॒ष्ठाम् अप॑ दुर्म॒तिँ **ह॑तम्** ।  
+ता᳓+++(=तौ)+++ मन्दसाना᳓+++(=स्तूयमानौ)+++ म᳓नुषो दुरोण᳓+++(=गृहे)+++  
+**आ᳓ धत्तँ᳓** रयिं᳓ दश᳓-वीरं वचस्य᳓वे+++(=वचनवते)+++ ।  
+**कृतं᳓**+++(=कुरुतं)+++ तीर्थँ᳓ सु-प्रपाणँ᳓ **शुभस्-पती** +++(अश्विनौ)+++,  
+स्थाणुं᳓ पथेष्ठा᳓म् अ᳓प दुर्मतिँ᳓ **हतम्** ।  
 
 </details>
 </div>
@@ -2603,6 +2653,7 @@ ___________
 
 25. And when they pass by bathing-places, posts, or cross-roads, let him murmur the next (verse; M. I, 6, 12).
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 अतीत्य गमनमतिक्रमः अतिक्रम एव व्यतिक्रमः, विशब्दोऽनर्थकः, यथोपाय एवाभ्युपाय इति ।
@@ -2613,6 +2664,7 @@ ___________
 न च मन्त्रे तीर्थादयस्स्तूयन्ते ।
 किंतर्ह्यश्विनौ, तेनैकातिक्रमणे इतरयोः श्रवणं व्यर्थं स्यादिति न चोदनीयं, तत्त्पदोद्धारो वा शङ्कनीयः ॥२६॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **तीर्थं** पुण्यनद्यादि ।
@@ -2656,7 +2708,6 @@ ___________
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_07/02_ayanno_mahyAH.md">
 <details open><summary><h5>०२ अयन्नो मह्याः ...{Loading}...</h5></summary>
 
-
 अ॒यन् नो॑ म॒ह्याः+++(=महत्याः [नद्याः])+++ पा॒रँ  
 स्व॒स्ति ने॑ष॒द् वन॒स्पतिः॑ ।  
 सीरा॑+++(=नदि!)+++ नस् सु॒तरा॑ भव  
@@ -2672,6 +2723,7 @@ ___________
 
 1. The next (verse; M. I, 6, 13), he recites over a boat (with which they are going to cross a river).
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 अथ यदि पथि नावा तार्या नदी वापी वा स्यात्तत्र **नावम्** उत्तरयर्चा "अयं नो मह्याः पारं स्वस्ति" इत्येतया **अनुमन्त्रयते**
@@ -2679,6 +2731,7 @@ ___________
 पृष्ठतः स्थित्वा अनुवीक्ष्य मन्त्रोच्चारणमनुमन्त्रणम् ।
 कृतेऽनुमन्त्रणे वरो वधूश्च तामारोहतः ॥१॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 यदि पथि नदी नावा तरितव्या स्यात्, तदा वरः "अयं नो मह्याः पारम्" इत्येतया नावमनुमन्त्रयते ।
@@ -2709,6 +2762,7 @@ ___________
 
 2. And let the wife, when she is crossing, not see the crew.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 ये नावं नयन्ति (ते) नावि भवा नाव्याः कैवर्ताः तान् **तरती** तरन्ती तरणकाल इत्यर्थः ।
@@ -2720,6 +2774,7 @@ ___________
 केचित् नावा तार्या आपो नाव्या इति व्याचक्षते ।
 तेषां पुंलिङ्गनिर्देशोऽनुपपन्नः ॥२॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **नाव्यान्** नौनेतॄन् कैवर्तान् ।
@@ -2749,7 +2804,6 @@ ___________
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_07/03_asya_pAre.md">
 <details open><summary><h5>०३ अस्य पारे ...{Loading}...</h5></summary>
 
-
 +++(तीर्त्वा जपः)+++  
 अ॒स्य॒ +++(नद्यादेः)+++ पा॒रे +++(तीरे)+++ नि॑र्ऋ॒तस्य॑+++(=निस्तरितस्य)+++  
 जी॒वा **ज्योति॑र् अशीमहि** ।  
@@ -2765,12 +2819,14 @@ ___________
 
 3. When they have crossed, let him murmur the next (verse; M. I, 6, 14).
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 **तीर्त्वा** पारं प्राप्य **उत्तराम्** ऋचं "अस्य पार" इत्येतां जपेद्वरः ।
 यदि नदी न भवति तदा या ओषधय इत्येतामपि जपेत् ।
 नदीनां धन्वनाञ्च व्यतिक्रमे इति वक्ष्यति ॥३॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 पारं प्राप्य "अस्य पारे" इत्येतां वर एव जपेत् ॥३॥
@@ -2795,7 +2851,6 @@ ___________
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_07/04_yadRtechidabhishriShaH_purA.md">
 <details open><summary><h5>०४ यदृतेचिदभिश्रिषः पुरा ...{Loading}...</h5></summary>
 
-
 यद् ऋ॒ते-चि॑द् अभि॒श्रि+++(श्लि)+++षः॑  
 पु॒रा ज॒र्तृ+++(तु)+++भ्य॑ आ॒तृदः॑+++(=दृढीकुर्वन्ति)+++ ।  
 सन्धा॑ता स॒न्धिं म॒घवा॑ पुरो॒वसु॒र्+++(=बहुधनः)+++,  
@@ -2805,7 +2860,6 @@ ___________
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_07/05_iDAmagna.md">
 <details open><summary><h5>०५ इडामग्न ...{Loading}...</h5></summary>
-
 
 इडा॑म्+++(=अन्नम्)+++ अग्ने पुरु॒दँसँ॑+++(=बहुदर्शनीयं)+++  
 स॒निङ् गोश् श॑श्वत्त॒मँ हव॑म् आनाय साध+++(य)+++ ।  
@@ -2817,9 +2871,9 @@ ___________
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/025/19_imaM_me.md">
 <details open><summary><h5>१९ इमं मे ...{Loading}...</h5></summary>
 
-इ॒मं मे॑ वरुण श्रुधी॒ +++(=श्रुणु)+++  
-हव॑म्+++(=आह्वानम्)+++ अ॒द्या च॑ मृळय +++(=सुखय)+++।  
-त्वाम् अ॑व॒स्युर् आ च॑के +++(=अवदन्)+++॥  
+इमं᳓ मे वरुण श्रुधी +++(=श्रुणु)+++  
+ह᳓वम्+++(=आह्वानम्)+++ अद्या᳓ च मृळय +++(=सुखय)+++।  
+त्वा᳓म् अवस्यु᳓र् आ᳓ चके +++(=अवदन्)+++॥  
 
 </details>
 </div>
@@ -2831,6 +2885,7 @@ ___________
 
 4. If they have to pass over a cemetery, or if any article (which they carry with them), or their chariot is damaged, the ceremonies from the putting of wood on the fire down to the Ājyabhāga oblations are performed, and while she takes hold of him, he offers the oblations (indicated by the) next (Mantras; M. I, 7, 1-7), then he enters upon the performance of the Jaya and following oblations, and performs (the rites) down to the sprinkling (of water) round (the fire).
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 श्मशानभूमेरध्युपरि व्यतिक्रमे भाण्डे भाजनादौ रथे वा रिष्टे नष्टे रथ इति प्रदर्शनमन्येषु चैवंप्रकारेषु दुर्निमित्तेषु वक्ष्यमाणहोमः कार्यः ।
@@ -2850,6 +2905,7 @@ ___________
 सकृदेव, न पुनः पुनरित्यर्थः ।
 अनन्तरोक्तानां निमित्तानां देशकालभेदेनावृत्तावपि सकृदोवान्तेऽयं होमो भवतीत्यर्थः ॥६॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **श्मशानाधिव्यतिक्रमे** श्मशानभूमेरुपरि व्यतिक्रमे, **भाण्डे** वधूभूषणादौ **रथे वा रिष्टे** नष्टे, अग्नेरुपसमाधानादि परिषेचनान्तं करोति ।
@@ -2878,7 +2934,6 @@ ___________
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_07/11_ye_gandharvA.md">
 <details open><summary><h5>११ ये गन्धर्वा ...{Loading}...</h5></summary>
 
-
 ये ग॑न्ध॒र्वा अ॑प्स॒रस॑श् च दे॒वीर्  
 ए॒षु वृ॒क्षेषु॑ वानस्प॒त्येष् आस॑ते ।  
 शि॒वास् ते अ॒स्यै व॒द्ध्वै॑ भवन्तु॒  
@@ -2887,11 +2942,9 @@ ___________
 </details>
 </div>  
 
-
 #### नद्याद्यतिक्रमे जपः
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_07/12_yA_oShadhayo.md">
 <details open><summary><h5>१२ या ओषधयो ...{Loading}...</h5></summary>
-
 
 या ओष॑धयो॒ या न॒द्यो॑  
 यानि॒ धन्वा॑नि॒+++(=निर्जलस्थानानि)+++ ये वना॑ ।  
@@ -2908,6 +2961,7 @@ ___________
 
 5. If they pass by trees with milky sap or by other trees that serve as marks, by rivers or by deserts, he should murmur the next two (verses; M. I, 7, 8. 9), according to the characteristics in them (which refer to these different cases).
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 **क्षीरिणां** न्यग्रोधादीनामलक्ष्मण्यानाम्, अन्येषामपि **लक्षण्यानां** लक्षणयुक्तानां प्रसिद्धानां सीमावृक्षणामित्यर्थः ।
@@ -2919,6 +2973,7 @@ ___________
 नद्यतिक्रमेऽपि कृत्स्ना भवति ।
 तथा धन्वातिक्रमेऽपि ॥५॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **क्षीरिणः** क्षीरवन्तः प्लक्षन्यग्रोधादयः लक्ष्म चिह्नं तत्र भवाः **लक्ष्मण्याः** दुर्गा तिन्त्रिणिका सीमाकदम्बा इत्येवमादयः ।
@@ -2950,7 +3005,6 @@ ___________
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_07/13_sankAshayAmi_vahatum.md">
 <details open><summary><h5>१३ सङ्काशयामि वहतुम् ...{Loading}...</h5></summary>
 
-
 संका॑शयामि+++(=प्रदर्शयामि)+++ वह॒तुं+++(=स्त्रीधनं)+++ ब्रह्म॑णा  
 गृ॒हैर् +++(सह)+++ अघो॑रेण॒ चक्षु॑षा॒ मैत्रे॑ण ।  
 +++(आभरणादिकम्)+++ प॒र्या-ण॑द्धं वि॒श्वरू॑पं॒ यद् अ॒स्याँ  
@@ -2966,6 +3020,7 @@ ___________
 
 6. With the next (verse) he shows her the house(M. I, 7, 10).
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 अथ स्वं गृहं प्राप्य रथादवरोप्य यद्धनं तस्या वहतुत्वेनागतं तच्च गृहान् प्रपाद्य ततस्तया तान् **सङ्काशयति** सम्यगीक्षयति
@@ -2976,6 +3031,7 @@ ___________
 पत्यै मह्यं स्योनं मुखम् ।
 सविता करोत्विति ॥६॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 वरः स्वगृहान् ज्ञातिधनसंयुक्तान् वधूं"सङ्काशयामि" इति ऋचा **सङ्काशयति** दर्शयति ।
@@ -3006,11 +3062,10 @@ ___________
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/040/12_A_vAmagantsumatirvAjinIvasU.md">
 <details open><summary><h7>१२ आ वामगन्त्सुमतिर्वाजिनीवसू ...{Loading}...</h7></summary>
 
-
-आ वा॑म् अगन्त् सुम॒तिर्, वा॑जिनी+++(=अश्वी)+++वसू॒  
-न्य् +++(हे)+++ अश्वि॑ना, हृ॒त्सु +++(गृहप्राप्ति)+++कामाँ॑ अयँसत+++(=नियती कृताः)+++ ।  
-अभू॑तङ् गो॒पा मि॑थु॒ना शु॑भस्पती  
-प्रि॒या अ॑र्य॒म्णो दुर्याँ॑+++(=गृहान्)+++ अशीमहि+++(=प्रविशेम)+++ ।
+आ᳓ वाम् अगन्त् सुमति᳓र्, वाजिनी+++(=अश्वी)+++वसू  
+न्य् +++(हे)+++ अ᳓श्विना, हृत्सु᳓ +++(गृहप्राप्ति)+++का᳓माँ अयँसत+++(=नियती कृताः)+++ ।  
+अ᳓भूतङ् गोपा᳓ मिथुना᳓ शुभस्पती  
+प्रिया᳓ अर्यम्णो᳓ दु᳓र्याँ+++(=गृहान्)+++ अशीमहि+++(=प्रविशेम)+++ ।
 
 </details>
 </div>
@@ -3018,7 +3073,6 @@ ___________
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_07/15_ayanno_devassavitA.md">
 <details open><summary><h5>१५ अयन्नो देवस्सविता ...{Loading}...</h5></summary>
-
 
 +++(वाह!)+++ अ॒यन् नो॑ दे॒वस् स॑वि॒ता बृह॒स्पति॑र्  
 इन्द्रा॒ग्नी मि॒त्रावरु॑णा स्व॒स्तये॑ ।  
@@ -3035,12 +3089,14 @@ ___________
 
 7. With the next two (verses; M. I, 7, 11. 12) he unyokes the two animals; the right one first.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 उत्तराभ्यां आवामगन् "अयं नो देवस्सविता" इत्येताभ्याम् ।
 योगवदेकैकेन मन्त्रेण विमोकः ॥९॥
 अर्थात् सव्यं पश्चात् ॥१०॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 "आवामगन्" इति द्वाभ्यामेकैकं वाहं विमुञ्चति ॥७॥
@@ -3065,7 +3121,6 @@ _____________
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_08/01_sharma_varmedamAharAsyai.md">
 <details open><summary><h5>०१ शर्म वर्मेदमाहरास्यै ...{Loading}...</h5></summary>
 
-
 शर्म॒ वर्मे॒दम् आह॑रा॒+  
 ऽस्यै नार्या॑ उप॒स्तिरे॑+++(=उपस्तरणे)+++ ।  
 सिनी॑वालि॒+++(=शुक्लप्रथमाकला)+++ प्रजा॑यताम्  
@@ -3078,7 +3133,6 @@ _____________
 +++(गृहान् प्रपादयन् वधूं वाचयति)+++  
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_08/02_gRhAnbhadrAntsumanasaH_prapadye-vIraghnI.md">
 <details open><summary><h5>०२ गृहान्भद्रान्त्सुमनसः प्रपद्येऽवीरघ्नी ...{Loading}...</h5></summary>
-
 
 **गृ॒हान्** भ॒द्रान्त् सु॒मन॑सः॒ **प्रप॒द्ये**  
 ऽवी॑रघ्नी वी॒रव॑तस् सु॒वीरान्॑ ।  
@@ -3095,6 +3149,7 @@ _____________
 
 8. Having, with the next (verse; M. I, 8, 1), spread out, in the centre of the house, a red bull's skin with the neck to the east, with the hair up, he causes her to recite the next (verse; M. I, 8, 2), while he makes her enter the house, (which she does) with her right foot.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 विमुच्य वाहौ वरः पूर्वं गृहं स्वयं प्रविश्य यत्र दम्पत्योर्वासः तत्रागारस्य मध्ये चर्मास्तृणाति उत्तरयर्चा "शर्म वर्मे"त्येतया तच्चानडुहं भवति लोहितञ्च वर्णेन ।
@@ -3106,6 +3161,7 @@ _____________
 प्रपादयन् वाचयतीति वचनान्मन्त्रकर्मणोरादिसंयोगः ।
 न मन्त्रान्ते प्रदानम् ॥०८॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 ततो वरः पूर्वं स्वगृहान् प्रविश्य "शर्म वर्म" इत्येतया यथासूत्रं चर्मास्तीर्य ततो वधूं **दक्षिणेन पदा** गृहान् **प्रपादयन्** प्रवेशयन् "गृहान् भद्रान्" इत्येतां वाचयति ॥०८॥
@@ -3135,6 +3191,7 @@ _____________
 
 9. And she does not stand on the threshold.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 देहलीनामद्वाराधस्ताद्दारु ।
@@ -3144,6 +3201,7 @@ _____________
 प्रपद्य गृहान् अथ तत्कालमशनमश्नीयात्; ततो यस्मिन्नगारे चर्मास्तरणं तस्योत्तरपूर्वदेशे विवाहाग्निं प्रतिष्ठाप्याग्नेरुपसमाधानादि तन्त्रं प्रतिपद्यते ।
 सकृत् पात्राणि शम्याः परिध्यर्थे ॥९॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 सा च प्रविशन्ती देहलीं नाभितिष्ठति ।
@@ -3169,7 +3227,6 @@ _____________
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_08/03_AgangoShTham_mahiShI.md">
 <details open><summary><h5>०३ आगन्गोष्ठम् महिषी ...{Loading}...</h5></summary>
 
-
 आग॑न् गो॒ष्ठं महि॑षी॒ गोभि॒र् अश्वै॒र्  
 आयु॑ष्मत्पत्नी, प्र॒जया॑ स्व॒र्वित् +++(यतो "नापुत्रस्य लोकोस्ति")+++।  
 ब॒ह्वीं प्र॒जाञ् ज॒नय॑न्ती सुरत्ने॒-
@@ -3183,7 +3240,6 @@ _____________
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_08/04_ayamagnirgRhapatissusaMsatpuShTivarddhanaH.md">
 <details open><summary><h5>०४ अयमग्निर्गृहपतिस्सुसंसत्पुष्टिवर्द्धनः ...{Loading}...</h5></summary>
 
-
 अ॒यम् अ॒ग्निर् गृ॒ह-प॑तिस्+++(!)+++  
 सुसँ॒सत्+++(=शोभनसदनः)+++ पु॑ष्टि॒वर्द्ध॑नः ।  
 यथा॒ भग॑स्या॒+++(=भगाय)+++ऽऽभ्यां दद॑द्  
@@ -3193,7 +3249,6 @@ _____________
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_08/05_prajAyA_AbhyAm.md">
 <details open><summary><h5>०५ प्रजाया आभ्याम् ...{Loading}...</h5></summary>
-
 
 प्र॒जाया॑ आभ्यां प्रजापत॒  
 इन्द्रा॑ग्नी॒ शर्म॑ यच्छतम् ।  
@@ -3219,7 +3274,6 @@ _____________
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_08/07_abhivarddhatAm_payasA-bhi.md">
 <details open><summary><h5>०७ अभिवर्द्धताम् पयसाऽभि ...{Loading}...</h5></summary>
 
-
 अ॒भिव॑र्द्धतां॒ पय॑सा॒  
 ऽभि रा॒ष्ट्रेण॑ वर्द्धताम् ।  
 र॒य्या स॒हस्र॑पोषसे॒-  
@@ -3230,7 +3284,6 @@ _____________
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_08/08_ihaiva_stam.md">
 <details open><summary><h5>०८ इहैव स्तम् ...{Loading}...</h5></summary>
 
-
 इ॒हैव स्तं॒ मा वियो॑ष्टं॒  
 विश्व॒म् आयु॒र् व्य॑श्नुतम् ।  
 म॒ह्या+++(य्)+++ इ॑न्द्रस् स्व॒स्तये॑ +++(ऽस्तु)+++ ।+++(र४)+++  
@@ -3239,7 +3292,6 @@ _____________
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_08/09_dhruvaidhi_poShyA.md">
 <details open><summary><h5>०९ ध्रुवैधि पोष्या ...{Loading}...</h5></summary>
-
 
 ध्रु॒वैधि पो॑ष्या॒ मयि॒  
 मह्य॑न् त्वा ऽदा॒द् बृह॒स्पतिः॑ ।  
@@ -3250,7 +3302,6 @@ _____________
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_08/10_tvaShTA_jAyAmajanayat.md">
 <details open><summary><h5>१० त्वष्टा जायामजनयत् ...{Loading}...</h5></summary>
-
 
 त्वष्टा॑ जा॒याम् अ॑जनय॒त्  
 +++("त्वष्टा रुपाणि पिंशतु" इति गर्भाधाने)+++  
@@ -3263,18 +3314,14 @@ _____________
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/025/19_imaM_me.md">
 <details open><summary><h5>१९ इमं मे ...{Loading}...</h5></summary>
 
-इ॒मं मे॑ वरुण श्रुधी॒ +++(=श्रुणु)+++  
-हव॑म्+++(=आह्वानम्)+++ अ॒द्या च॑ मृळय +++(=सुखय)+++।  
-त्वाम् अ॑व॒स्युर् आ च॑के +++(=अवदन्)+++॥  
+इमं᳓ मे वरुण श्रुधी +++(=श्रुणु)+++  
+ह᳓वम्+++(=आह्वानम्)+++ अद्या᳓ च मृळय +++(=सुखय)+++।  
+त्वा᳓म् अवस्यु᳓र् आ᳓ चके +++(=अवदन्)+++॥  
 
 </details>
 </div>
 
-
-
-
 इति श्रीहरदत्तविरचिते एकाग्निकाण्डमन्त्रव्याख्याने अष्टमः खण्डः ॥  
-
 
 #### उपवेषनम्
 परिषेचनान्तं कृत्वोत्तरया +++(=इह गावः प्रजायध्वम्)+++ चर्मण्युपविशत उत्तरो वरः +++(प्राङ्मुखौ)+++ ।  
@@ -3282,7 +3329,6 @@ _____________
 +++(उत्तरया चर्मण्युपविशतः। आमन्त्रितनिघातः छान्दसत्वान्नभवति ।)+++  
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_09/01_iha_gAvaH.md">
 <details open><summary><h5>०१ इह गावः ...{Loading}...</h5></summary>
-
 
 इ॒ह गावः॒ प्रजा॑यद्ध्वम्  
 इ॒हाश्वा॑ इ॒ह पूरु॑षाः ।  
@@ -3299,6 +3345,7 @@ _____________
 
 10. In the north-east part of the house the ceremonies from the putting of wood on the fire down to the Ājyabhāga oblations are performed, and while she takes hold of him, he offers the oblations (indicated by the) next (Mantras; M. I, 8, 3-15); then he enters upon the performance of the Gaya and following oblations, and performs (the rites) down to the sprinkling (of water) round (the fire). Then they sit down with the next (verse; M. I, 9, 1) on the skin, the bridegroom to the north.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 उत्तरास्त्रयोदशप्रधानाहुतीः "आगन्गोष्ठम्" इत्याद्याः लिङ्गविरोधे सत्यपि वर एव जुहोति, विधेर्बलीयस्त्वात् ।
@@ -3313,6 +3360,7 @@ _____________
 इहाग्निसम्बन्धाभावात् उत्तरो वर इत्युक्तम् ।
 प्राङ्मुखौ चोपविशतः ॥१५॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **उत्तराः** "आगन् गोष्ठम्" इत्यादित्रयोदशाहुतीः ।
@@ -3341,7 +3389,6 @@ __________________
 +++(अथ या पुमांसमेव सूतवती जीवपुत्रा च, तस्याः पुत्रं वध्वा अङ्के उपवेशयति।)+++  
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_09/02_somenAdityA_balinassomena.md">
 <details open><summary><h5>०२ सोमेनादित्या बलिनस्सोमेन ...{Loading}...</h5></summary>
-
 
 सोमे॑नादि॒त्या ब॒लिन॒स्  
 सोमे॑न पृथि॒वी दृ॒ढा ।  
@@ -3372,13 +3419,12 @@ __________________
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/27_iha_priyaM.md">
 <details open><summary><h7>२७ इह प्रियं ...{Loading}...</h7></summary>
 
-
-इ॒ह प्रि॒यं प्र॒जया॑ ते॒ समृ॑ध्यताम॒स्मिन्गृ॒हे गार्ह॑पत्याय जागृहि ।  
-ए॒ना पत्या॑ त॒न्वं१॒॑ सं सृ॑ज॒स्वाधा॒ जिव्री॑ वि॒दथ॒मा व॑दाथः ॥
-
+इह᳓ प्रिय᳓म् प्रज᳓या ते स᳓म् ऋध्यताम्  
+अस्मि᳓न् गृहे᳓ गा᳓र्हपत्याय जागृहि  
+एना᳓ प᳓त्या तनु᳓वं सं᳓ सृजस्व  
+अ᳓धा जि᳓व्री विद᳓थम् आ᳓ वदाथः
 </details>
 </div>
-
 
 इ॒ह प्रि॒यं प्र॒जया॑ ते॒ समृ॑द्ध्यताम्,  
 अ॒स्मिन् गृ॒हे गार्ह॑पत्याय +++(भावाय)+++ जागृहि +++(अतिथीनामग्नीनां च सेवया)+++।  
@@ -3392,11 +3438,10 @@ __________________
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/33_sumangalIriyaM_vadhUrimAM.md">
 <details open><summary><h7>३३ सुमङ्गलीरियं वधूरिमां ...{Loading}...</h7></summary>
 
-
-सु॒म॒ङ्ग॒लीर् इ॒यं व॒धूर्  
-इ॒माँ स॑मेत॒ पश्य॑त ।  
-सौभा॑ग्यम् अ॒स्यै द॒त्वाया+++(=दत्वा)+++-  
-ऽथाऽऽस्तं॒ +++(स्वस्वगृहाणि)+++ वि परे॑तन+++(=गच्छत)+++ ।+++(र४)+++  
+सुमङ्गली᳓र् इयं᳓ वधू᳓र्  
+इमाँ᳓ समेत प᳓श्यत ।  
+सौ᳓भाग्यम् अस्यै᳓ दत्वा᳓या᳓+++(=दत्वा)+++-  
+ऽथा᳓ऽऽस्तं +++(स्वस्वगृहाणि)+++ वि᳓ प᳓रेतन+++(=गच्छत)+++ ।+++(र४)+++  
 
 </details>
 </div>
@@ -3410,6 +3455,7 @@ __________________
 
 11. He then places with the next (verse; M. I, 9, 2), the son of a wife who has only sons and whose children are alive, in her lap, gives fruits to the (child) with the next Yajus (M. I, 9, 3), and murmurs the next ṭwo (verses; M. I, 9, 4-5). Then he (and his wife) observe silence until the stars appear.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 या पुमांसमेव सूते न स्त्रियं सा पुंसूः" तस्याः पुंस्वः पुंस्वो जीवपुत्राया इति पाठः ।
@@ -3421,6 +3467,7 @@ __________________
 **आनक्षत्रेभ्यः** नक्षत्राणामुदयादित्यर्थः ।
 कुमारश्च फलानि गृहीत्वा यथार्थं गच्छति ॥११॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 पुंस्वोः पुंस्वाः इत्यर्थपाठः । या पुंस एव सूते न स्त्रीरपि, या च सूत एव, न तु वन्ध्या सती क्रयादिना पुत्रवती, सा पुंसूः ।
@@ -3449,7 +3496,6 @@ __________________
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_09/06_dhruvaxitirddhruvayonirddhruvamasi_ddhruvatassthitam.md">
 <details open><summary><h5>०६ ध्रुवक्षितिर्द्ध्रुवयोनिर्द्ध्रुवमसि द्ध्रुवतस्स्थितम् ...{Loading}...</h5></summary>
 
-
 ध्रु॒व-क्षि॑तिर् ध्रु॒व-यो॑निर्  
 ध्रु॒वम् अ॑सि ध्रु॒वत॑स् स्थि॒तम् ।  
 त्वन् नक्ष॑त्राणां मे॒थ्य्+++(=खलेवाली, खले धान्य-पेषण-स्थाने वाल्यन्ते वृषा इति)+++ असि॒  
@@ -3465,8 +3511,6 @@ __________________
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_09/07_saptaRShayaH_prathamAm.md">
 <details open><summary><h5>०७ सप्तऋषयः प्रथमाम् ...{Loading}...</h5></summary>
 
-
-
 स॒प्त॒ऋ॒षयः॑ प्रथ॒मां कृत्ति॑कानाम् अरुन्ध॒तीम् यद् ध्रु॒वताँ॒ ह नि॒न्युः। षट्कृत्ति॑कामुख्ययो॒गं वह॑न्ति +++(तस्याम्)+++।  
 +++(वधूर्)+++ इयम् अ॒स्माक॑म् एधत्व् अष्ट॒मी ।+++(र५)+++  
 
@@ -3480,6 +3524,7 @@ __________________
 
 12. When the stars have appeared, he goes out (of the house with her) in an easterly or northerly direction, and shows her the polar star and (the star) Arundhatī with the next two verses (M. I, 9, 6-7), according to the characteristics (contained in those verses).
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 उदितेषु नक्षत्रेष्विति वचनात्ततः प्राक् तस्मिन्नेव चर्मणि वाग्यतयोरासनं पश्चादुपनिष्क्रमणम् ।
@@ -3490,6 +3535,7 @@ __________________
 उत्तराभ्यां ध्रुवमरुन्धतीञ्च दर्शयति यथालिङ्गं वेति ।
 तेनोत्तरस्यामृचि सर्वेषां सप्तर्षीणां कृत्तिकादीनामरुन्धत्याश्च सहदर्शनं वध्वाः कर्म पक्षे भवति, केवलमरुन्धत्या एव वा ॥१२॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 उत्तराभ्यां "ध्रुवक्षितिर्ध्रुवयोनिः" इत्येताभ्यां यथालिङ्गं पूर्वया  ध्रुवमुत्तरयाऽरुन्धतीं च दर्शयति वधूम् ।
@@ -3529,9 +3575,9 @@ __________________
 
 1. [^1]  He then makes her offer the sacrifice of a Sthālīpāka sacred to Agni.
 
-
 [^1]:  7, 1 seq. Hiraṇyakeśin I, 7, 23, 2 seq.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 अथेति वचनाद् एतस्याम् एव रात्र्यां स्थालीपाको भवति ।
@@ -3547,6 +3593,7 @@ __________________
 तेन यद् इदं स्थालीपाकरिवेषणं+++(??)+++ व्रीह्यादि-दक्षिणा च तत् वधूधनस्यैव भवति ।
 यत्रैदम् उच्यते "पत्नी हि पारीणह्यस्येशे" इति (तै.सं.६-१-६.) ॥१॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 ननु–"अथ पत्न्यवहन्ति" "श्रपयित्वा" इत्येतावद् एव वक्तव्यम् ; यत उत्तरत्र "अग्निर् देवता" (आप.गृ. ७-५.) इति विधानाद् आग्नेयत्वं सिद्धम्", स्थालीपाकेनेति तु श्रपयित्वेति विधानात्, एनां याजयतीति चान्वारब्धायाम् इति विधानात् ; अतः किमर्थम् इदम् अधिकम् आरभ्यते "अथैनाम् आग्नेयेन स्थालीपाकेन याजयति" इति ?
@@ -3589,6 +3636,7 @@ __________________
 
 2. The wife husks (the rice grains out of which this Sthālīpāka is prepared).
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 अरुन्धतीदर्शनानन्तरमगारं प्रविश्य व्रीहीन् यवान् वा नवानग्नये संकल्पितान् निर्वपति यावद्धोमाय ब्रह्मणभोजनाय च पर्याप्तं मन्यते ।
@@ -3598,6 +3646,7 @@ __________________
 इतरथा याजमानं विज्ञायेत ।
 वधूरिह यजमानेति कृत्वा पार्वणादिषु पत्युरवहननं प्राप्नोति ॥२॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 स्थालीपाकार्थं व्रीह्यादिकम् ।
@@ -3632,6 +3681,7 @@ __________________
 
 3. After he has cooked (the Sthālīpāka), and has sprinkled (Ājya) over it, and has taken it from the fire towards the east or the north, and has sprinkled (Ājya) over it while it stands (there near the fire), (the ceremonies) from the putting of wood on the fire down to the Ājyabhāga oblations (are performed), and while she takes hold of him, he sacrifices of that Sthālīpāka.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 ततस्तानवहतांस्त्रिष्फलीकृतान् प्रक्षाल्य श्रपयति वरः ।
@@ -3651,6 +3701,7 @@ __________________
 ततश्च सकृदुपघातपक्ष एव तत्र भवति, आज्याभावेनोपस्तरणाभिघारणयोरसम्भवात् ।
 विवाहे च "यथा स्थानमुपविश्ये"त्यत्र आज्याहुतिरिति विशेषणाभावादाज्यमेव तत्र धर्मवद्धविः, लाजास्त्वधर्मका इति सिद्धम् ॥३॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 उद्वास्य सौकर्यादपरेणाग्निं प्रतिष्ठाप्य ।
@@ -3684,6 +3735,7 @@ __________________
 
 4. The 'spreading under' and the sprinkling over (of Ājya are done) once; two Avadānas (or cut-off portions are taken).
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 अनेन पौरोडाशिकोऽवदानकल्प इह प्रदर्शितो विज्ञेयः ।
@@ -3694,6 +3746,7 @@ __________________
 तेन चतुरवत्ताभावे उपस्तरणाभिघारणयोरप्यभावः ।
 यथा "सकृदुपहत्य जुहुयात्" (आप.गृ. ७-७.) "दध्न एवाञ्जलिने" (आप. गृ. २२-१०.)त्यादौ ॥४॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 होमदर्व्यां स्रुवेण दर्व्यन्तरेण वा सकृदुपस्तरणं कार्यम् ।
@@ -3727,10 +3780,12 @@ __________________
 
 5. Agni is the deity (of the first oblation); the offering is made with the word Svāhā.
 </details>
+
 <details><summary>हरदत्त-प्रस्तावः</summary>
 
 देवतामाह–
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 प्रधानद्वित्वादुत्तरविवक्षया सिद्धानुवादोऽयम् ।
@@ -3745,6 +3800,7 @@ __________________
 इदं तु वचनं पार्वणातिदिष्टेषु यथोपदेशं देवता इत्यत्र मन्त्रप्रतिषेधार्थम् ।
 तेन "पौर्णमास्यां पौर्णमासी" (आप. गृ. ७-२८.) इत्येवमादिषु यत्र स्थालीपाकस्य देवतैव चोद्यते तत्र देवताशब्देनैव होमः, न तद्दैवत्येन मन्त्रेणेति सिद्धम् ॥५॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 अग्निर्देवतेति विहिताग्निविशेषणार्थमयं परिभाषोक्तानुवादः ।
@@ -3784,9 +3840,9 @@ __________________
 
 6. [^2]  Or he may sacrifice after having picked out, once, a portion (of the sacrificial food with the Darvi spoon).
 
-
 [^2]:  As to the technical meaning of upahatya or upaghātam, comp. the note on Gobhila I, 8, 2; Gṛhya-saṃgraha I, 111.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 यया दर्व्या होमस्तयैव **सकृदुपहत्य** जुहुयात् ।
@@ -3794,6 +3850,7 @@ __________________
 केचित् कुर्वन्ति ।
 जुहुयादिति वचनं स्विष्टकृत्यपि प्राप्यत्यर्थम् ॥६॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 अथवा दर्व्या सकृत् स्थालीपाकाद्गृहीत्वा जुहुयात्, न तु पूर्ववच्चतुरवत्तं पञ्चावत्तं वा अपूर्वत्वाद्दर्विहोमानाम् ॥६॥
@@ -3823,6 +3880,7 @@ __________________
 
 7. Agni Sviṣṭakṛt is the second (deity).
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 **अग्निः स्विष्टकृद् द्वितीयो** भवति देवतात्वेन ।
@@ -3830,6 +3888,7 @@ __________________
 तेन "यथोपदेशं प्रधानाहुतीर्" इत्यादौ स्विष्टकृतोऽपि ग्रहणं भवति ।
 तथा "सकृदुपहत्य जुहुयात्" "स्वाहाकारप्रदान" इत्येतयोश्च प्रवृत्तिः ॥७॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 देवतेति शेषः ।
@@ -3864,15 +3923,18 @@ __________________
 
 8. (At the Sviṣṭakṛt oblation) the 'spreading under' and taking an Avadāna are done once, the sprinkling over (of Ājya) twice.
 </details>
+
 <details><summary>हरदत्त-प्रस्तावः</summary>
 
 अस्य त्ववदानविधिमाह–
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 अत्रापि पौरोडाशिकस्विष्टकृतोऽवदानकल्पः प्रदर्शितो विज्ञेयः ।
 "तेन द्विः पञ्चावत्तिनः उत्तरमुत्तरं ज्यायांसम्, न हविः प्रत्यभिघारयति" (आप. श्रौ.२-२१-३,४,५.) इति विशेषाः इहापि द्रष्टव्याः ॥८॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 सकृदुपस्तरणमवदानं च द्विरभिघारणं च कार्यम् ।
@@ -3905,6 +3967,7 @@ __________________
 
 9. The Avadāna for the first deity (is taken) out of the middle (of the Sthālīpāka);
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 **पूर्वस्य** प्रधानहोमस्येत्यर्थः ।
@@ -3914,6 +3977,7 @@ __________________
 तस्मात् चतुरवत्तपक्षे पौरोडाशिक एव विधिः ।
 इदं तु वचनमुपघातपक्षार्थम् ॥९॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 हविषो मध्यात् पूर्वस्य दैवतस्यावदानं कार्यम् ।
@@ -3946,12 +4010,14 @@ __________________
 
 10. It is offered over the centre (of the fire).
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 आघारसम्भेदो **मध्यम् ।**
 अत्रापि पौरोडाशिक एव होमदेशो दर्शितो विज्ञेयः ।
 तेनाहुतीनामनेकत्वे "पूर्वां पूर्वां संहिताम्" (आप. श्रौ.२-१९-९.) इत्येवमादयो विशेषा इहापि भवन्ति ॥१०॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **होमः** प्रक्षेपः ।
@@ -3984,10 +4050,12 @@ __________________
 
 11. (The Avadāna) for the second (deity is taken) from the northern part (of the Sthālīpāka);
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 अयमप्युपघातपक्षार्थ आरम्भः ॥११॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 उत्तरार्धाद्धविष उत्तरस्य स्विष्टकृत अवदानं कार्यम् ।
@@ -4017,12 +4085,14 @@ __________________
 
 12. It is offered over the easterly part of the northerly part (of the fire).
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 अत्रापि पौरोडाशिकस्य स्विष्टकृतो धर्मो विज्ञेयः ।
 तेना"संसक्तामितराभिर्" (आप. श्रौ. २-२१-६.) इति विशेष इहापि भवति ।
 होमग्रहणे आश्रिमाणे उत्तरार्धपूर्वार्ध इत्यस्य लेपयोः प्रस्तरवदित्त्युत्तरेणापि सम्बन्धस्सम्भाव्येत ॥१२॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 तस्य स्विष्टकृतो **होमो**ऽग्नेर् **उत्तरार्धपूर्वार्धे** ।
@@ -4053,13 +4123,14 @@ __________________
 
 13. [^3]  Having silently anointed (a part of) the Barhis (by dipping it) into the remains both (of the Sthālīpāka and the Ājya) in the way prescribed (in the Śrauta ritual) for the (part of the Barhis called) Prastara, he throws (that part of the Barhis) into the fire.
 
-
 [^3]:  Comp. Śrauta-sūtra III, 5, 9 seqq. - On the prastara, see Hillebrandt, Neu- and Vollmondsopfer, 64. 142. 146.
 </details>
+
 <details><summary>हरदत्त-प्रस्तावः</summary>
 
 होमोपस्तरणाद्यर्थदर्वीद्वयलेपयोः पात्रप्रयोगार्थं संस्तीर्णस्य च वर्हिषः प्रतिपत्तिमाह—
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 यस्मिन् बर्हिषि प्रतिष्ठितं हविराज्यं च तस्मात् किञ्चिदुपादाय तद्बर्हिरन्नस्य चाज्यस्य च यौ लेपौ तयोः प्रस्तरवत् तूष्णीमङ्क्त्वा
@@ -4075,6 +4146,7 @@ __________________
 अक्तस्य तृणमपादायेत्येतदपि भवति ।
 तथा यया होमस्तस्यां प्रतिष्ठापनं च आग्नीध्रकर्म च स्वयमेव करोति ॥१३॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **लेपयोः** दर्वीद्वयलग्नयोः पात्रासादनार्थं संस्तीर्णं **बर्हिः** प्रस्तरवत्तूष्णीमङ्क्त्वा तद्वदेवाग्नौ प्रहरति ।
@@ -4115,13 +4187,14 @@ __________________
 
 14. [^4]  (The rule regarding) the second sprinkling (of water round the fire) is valid (here).
 
-
 [^4]:  See above, I, 2, 8. The upahomas prescribed above, I, 2, 7, are not performed here, but the second paṛṣecana is.
 </details>
+
 <details><summary>हरदत्त-प्रस्तावः</summary>
 
 अत्र वचनाभावात् जयादिनिवृत्तौ सत्यां तद्बद्धक्रममपि परिषेचनं न निवर्तते, अग्नयङ्गत्वादित्याह—
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 **उत्तरं** तन्त्रं जयादि यथासिद्धमत्रापि कर्तव्यमित्यर्थः ।
@@ -4136,6 +4209,7 @@ __________________
 तेनोपहोमानामिह लोपश्चोद्यत इति ।
 तेषाम् "उत्तरम्" इति व्यर्थम् ॥१४॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 स्पष्टेमेतत् ।
@@ -4177,12 +4251,14 @@ __________________
 
 15. He gives (the remains of) that (sacrificial food) with butter to a Brāhmaṇa to eat -
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 **सर्पिष्मतेति** वचनमतिशयार्थमभिघारणेन प्रागपि सर्पिष्मत्वात् ।
 लौकिकेन सर्पिषा प्रभूतेनोपसिच्येत्यर्थः ।
 यो दक्षिणत आस्ते स इह ब्राह्मणः तं भोजयेत् वधूर्वरो वा ॥१५॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **तेन** हविश्शेषेण ।
@@ -4215,9 +4291,9 @@ __________________
 
 16. [^5]  Whom he reveres. To that (Brāhmaṇa) he makes the present of a bull.
 
-
 [^5]:  I have altered in my translation the division of the two sentences. Comp. Hiraṇyakeśin I, 7, 23, 5-6, and the note there.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 **अस्य** वरस्य **योऽपचितः** पूज्यः आचार्यः, **तस्मै ऋषभं** स्थालीपाकस्य दक्षिणां **ददति** वधूः ।
@@ -4225,6 +4301,7 @@ __________________
 तेनासौ परिक्रीतो भवति ।
 दृश्यते चायं न्यायो धर्मशास्त्रे– "न पिता याजयेत् पुत्रं न पुत्रः पितृयाजनम्" इत्याद्युक्त्वा ऽऽचार्याय दक्षिणां दद्युरिति ॥१६॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 अत्रोच्यते– एवं तर्ह्यध्याहारेण वा विपरिणामेन वा व्याख्यायते ।
@@ -4259,6 +4336,7 @@ __________________
 
 17. In the same way, with the exception of the sacrificial gift, they should sacrifice a Sthālīpāka from then onwards, on the days of the new and full moon, after having fasted.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 **अतः** स्थालीपाकाद् **ऊर्ध्वं** दक्षिणां वर्जयित्वा **उपोषिताभ्यां** "पर्वसु चोभयोरुपवास, (आप.ध.२-१-४.) इत्यनेन प्रकारेण कृतोपवासाभ्यां गृहमेधिभ्यां **पर्वसु** पौर्णमासीषु चामावास्यासु च एवमेवाग्नेयस्थालीपाककल्पेन स्थालीपाकः कार्यः ।
@@ -4295,6 +4373,7 @@ __________________
 इति ।
 उभाभ्यां पर्वसु कार्य इत्युच्यमाने पर्वस्वेव स्थालीपाकस्स्यात्, उपवासश्च, निर्देशतुल्यत्वात् ॥१७॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **अतः** स्थालीपाकाद्** ऊर्ध्वं उपोषिताभ्यां** "पर्वसु चोभयोरुपवासः" (आप. ध. २-१-४.) इत्यादिविधिना कृतोपवासाभ्यां जायापतिभ्यां **पर्वसु** पौर्णमासीष्वमावास्यासु च द्वितीयासु **दक्षिणावर्जं** ऋषभदानवर्जं **एवम्** एवंप्रकार एतत्स्थालीपाकसदृशो होमः कर्तव्य इति विधिः ।
@@ -4346,12 +4425,14 @@ __________________
 
 18. Some say that a vessel full (of grain) is the sacrificial gift.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 पात्रशब्द उभयलिङ्गः ।
 धान्यमुष्टिशतस्य पूर्णं पात्रं **पूर्णपात्रम्** इत्याहुः ।
 दक्षिणा चेयं ब्रह्मणे देया ॥१८॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 धान्यादेः पूर्ण यत्किंचित् पात्रं **पूर्णपात्रम्** ।
@@ -4386,9 +4467,9 @@ __________________
 
 19. [^6]  From then onwards he should offer morning and evening with his hand these two oblations (to Agni and to Agni Sviṣṭakṛt) of (rice) grains or of barley.
 
-
 [^6]:  The two regular daily oblations corresponding to the Agnihotra of the Śrauta ritual.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 अस्मात् स्थालीपाकादूर्ध्वं सायञ्च प्रातश्च एते आहुती व्रीहितण्डुलैर्यवैर्वा जुहुयात् ।
@@ -4404,6 +4485,7 @@ __________________
 परिस्तरणं तु भवत्येव ।
 परिषेचनं त्विहैव विधीयते ॥१९॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 सायं प्रातरित्यग्निहोत्रकालानां चतुर्णामुपलक्षणम् ; अग्निहोत्रानुकारित्वादौपासनहोमस्य ।
@@ -4443,12 +4525,14 @@ __________________
 
 20. The deities are the same as at the Sthālīpāka (just described).
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 देवतैव दैवतम् ।
 अग्नये स्वाहेति पूर्वाहुतिः ।
 अग्नये स्विष्टकृते स्वाहेत्युत्तरा ॥२०॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 अयं "एते आहुती" इति प्राप्तस्यानुवादः पूर्वाहुतेर्विकल्पं विधातुम् ; यथा–पात्नीवते "नानुवषट्करोति ।
@@ -4478,6 +4562,7 @@ __________________
 
 21. Some say that the first oblation in the morning is sacred to Sūrya.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 **सौरी** सूर्यदेवत्या ।
@@ -4486,6 +4571,7 @@ __________________
 तत्र यथाकामी प्रक्रमेत ।
 प्रक्रमात्तु नियम्यते ॥२१॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **सौरी** सूर्यदेवत्या "सूर्याय स्वाहा" इति पूर्वाहुतिः प्रातर्होमे इत्येके ॥२१॥
@@ -4514,13 +4600,14 @@ __________________
 
 22. [^7]  Before and after (those oblations) the sprinkling (of water) round (the fire is performed) as stated above.
 
-
 [^7]:  See I, 2, 3. 8.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 अस्य होमस्य परिषेचनं **उभयतः** पुरस्तादुपरिष्टाच्च कर्तव्यम्, यथा पुरस्ताच्चोदितम्— अग्निं परिषिञ्चति पूर्ववत् परिषेचमिति ॥२२॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **उभयतः** एतयोराहुत्योः पुरस्तादुपरिष्टाच्च **परिषेचनं यथा पुरस्ताद्** विहितं "अग्निं परिषिञ्चति" (आप.गृ. २-३.)
@@ -4555,9 +4642,9 @@ __________________
 
 23. [^8]  By the sacrifice of the new and full moon the other ceremonies have been explained (the knowledge of) which is derived from practice.
 
-
 [^8]:  See I, 1, 1.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 पर्वसु भवः पार्वणः । तेन **पार्वणेन** स्थालीपाकेनातो ऽस्मात् पार्वणाद् **अन्यानि कर्माणि व्याख्यातानि यान्य् आचाराद् गृह्यन्ते** = ज्ञायन्ते तानि सर्वाणि । अयमपि कल्पातिदेशः ।
@@ -4577,6 +4664,7 @@ __________________
 
 "आचाराद् यानि गृह्यन्त" इति वचनात् अस्मिन् शास्त्रे ऽनुपदिष्टानाम् अपि शास्त्रान्तर-दृष्टानां पक्व-गुणकानाम् अयम् उपदेशो भवति । यथा– काम्यानां स्थाने काम्याश् चरवः "षडाहुतिश् चरुर्" इत्य् एवमादीनाम् ॥२३॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **पार्वणेन** वैवाहिकेन स्थाली-पाकेन ।
@@ -4672,10 +4760,12 @@ __________________
 
 24. The deities (of those rites) are as stated (with regard to each particular case),
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 +++(सम्पादकटिप्पानी - इदं सूत्रम् अग्रिमे व्याख्यातम्।)+++
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 +++(सम्पादकटिप्पानी - इदं सूत्रम् अग्रिमे व्याख्यातम्।)+++
@@ -4705,6 +4795,7 @@ __________________
 
 having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 पार्वणेनातोन्यानीत्ययं कल्पातिदेशः इत्युक्तम् ।
@@ -4731,6 +4822,7 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 तेन यत्राप्युत्तरा आहुतीर्हुत्वा जयादि प्रतिपद्यते, "आज्याहुतीरुत्तराः जयादि प्रतिपद्यत" इति च क्रमपरं वचनं तत्रापि नित्यमग्निस्विष्टकृदस्मिन्नन्तराले यष्टव्यो भवतीति ।
 प्रकरणाच्च प्रधानाहुतीरुपहोमाश्चान्तरेणेत्यर्थोऽपि लभ्यते ॥२५॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 अत्रास्वपदो विग्रहः, अव्ययीभावसमासत्वात् ।
@@ -4788,9 +4880,9 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 
 25. [^9]  The sacrifice (of a cow) on the arrival of a guest (should be performed as stated below) without alterations.
 
-
 [^9]:  See below, V, 13, 16.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 या गौरतिथय आलभ्यते "गौरिति गां प्राहेति" तदातिथ्यं नाम कर्म **तदविकृतम्** अपूर्वं पार्वणधर्मास्तद्वपाहोमे न कर्तव्या इत्यर्थः ।
@@ -4798,6 +4890,7 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 किं तर्हि ? सर्वेषु पक्वगुणेषु पशुष्वपीति ।
 तेनाष्टकायां काम्यपशुषु च शास्त्रान्तरदृष्टेषु पार्वणधर्मसिद्धिः ॥२८॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 अतिथिर्यस्य कर्मणो निमित्तं त**दातिथ्यम्**, गवालम्भ इत्यर्थः ।
@@ -4832,15 +4925,16 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 
 26. [^10]  (The deities) of the Vaiśvadeva ceremony are the Viśve devās,
 
-
 [^10]:  See Āpastamba Dharma-sūtra II, 2, 3, 1 (S.B.E., vol. ii, p. 103).
 </details>
+
 <details><summary>हरदत्त-प्रस्तावः</summary>
 
 ननु– "नानग्नौ प्रधानम्" इति याज्ञिकवचनात् वैश्वदेवबलिहरणानि तावदङ्गानि ।
 अग्नौ होमेषु च आग्नेयसौविष्टकृतावन्तरेण ये होमास्त एव प्रधानाः ।
 तौ तु सर्पबल्यादिसामान्यादङ्गमित्याशङ्क्याह—
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 "आर्याः प्रयता वैश्वदेव" इति चोदिते वैश्वदेवाख्ये कर्मणि देवतोपदेशोऽयं निर्वापकाले सङ्कल्पार्थम् ।
@@ -4861,6 +4955,7 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 तेनास्मदीयानां स एव वैश्वदेवकल्पो नान्येषु धर्मशास्त्रेषु चोदितः ।
 यज्ञोपवीतिना प्रदक्षिणमित्यादि परिभाषाप्रवृत्तिश्च भवति ॥२७॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **वैश्वदेवम्** इति कर्मनामधेयम् ।
@@ -4924,7 +5019,6 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/sudarshana-sUriH/pancha-mahA-yajJNAH">
 <details open><summary><h9>५ महा-यज्ञाः ...{Loading}...</h9></summary>
 
-
 अथ प्रयोगभाष्यम् ईषद्-भेदं लिख्यते–  
 "वैश्वदेवस्य कर्मोच्यते" प्रसङ्गात् पञ्च-महा-यज्ञानां च ।
 
@@ -4937,7 +5031,6 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 तत् "सुभूतं सा विराडन्नं तन्माक्षायि" इति स्वामी प्रतिब्रूयात् ।  
 
 ततो यदि प्रयाणे गृहे वा वैश्वदेवस्य होमस्य स्थाने ऽग्निर् उपसमाधातव्यः, तत्र धर्मशास्त्रोक्तविधिना उपसमादधाति। एवम् अन्यत्राप्य् औपासनहोमादिषु। 
-
 
 अथ गृहमेधिनो यद् अशनीयमन्नं ततो होमार्थ हविष्यमन्नं पात्रे कल्पयति।  
 अहविष्यं श्रारलवणावरान्नसंसृष्टं द्वितीये।  
@@ -4998,7 +5091,6 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 आसनकल्पनादि सावित्रीजपान्तं कृत्वा वेदस्यादित आरभ्य यथाध्यायमध्ययनमध्यायः कृत्स्नस्य वेदस्यासमाप्तेः ; "श्रावण्यां पौर्णमास्यामध्यायमुपाकृत्य" (आप.ध.१-९-१.) इति वचनात् येन प्रकारेणाध्यायो येन च क्रमेणाधीयतेऽविना चाम्नानैः आदिप्रदिष्टानुषङ्गप्रख्यादिभिः, उत्सृजन् उत्सृज्योत्सृज्य, वाचा मनसा च यावत्तरसं यावच्छक्यमधीयीत ।
 परिधानीयां कृत्वा, वृष्टिरसि ।
 
-
 एवम् अहरहः कृतान्तादारभ्य यावत् समाप्तो वेदः सहैकाग्निविधिकाण्डेन ।   
 समस्तमधीत्य वैश्वदेव मन्त्रानधीत्य ततः प्रसुग्मन्तेति प्रश्नद्वयमधीयीत ।
 एवं विनियोगदर्शनात्,  
@@ -5012,7 +5104,6 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 
 ###### रौद्रम्
 मनुष्ययज्ञान्ते "सर्वान् वैश्वदेवभागिनः कुर्वीत, (आप.ध.२-९-५.) इत्यादिविधानेन सर्वेषु पत्न्यन्तेषु भुक्त्वत्सु, पाकपरिवेषणपात्रेभ्यो लेपान् सङ्कृष्योत्तरतः शुचौ देशे रुद्राय सम्प्रदानभूताय निनयेत्, "रुद्राय स्वाहा" इति । नित्यवच्च निनयनम्; प्रतिपत्तिकर्मत्वात् ।
-
 
 "एवं वास्तु शिवं भवति" (आप.ध.२-४-२३.) इत्यर्थवादः ।
 "द्रव्यसंस्कारकर्मसु परार्थत्वात्" (पू. मी.४-३-१.) इति न्यायात् ।
@@ -5054,13 +5145,14 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 
 27. [^11]  Of ceremonies performed on full-moon days, the full-moon day on which they are performed.
 
-
 [^11]:  For instance, the Srāvaṇī paurṇamāsī is the deity of the ceremony described below, VII, 18, 5 seq.
 </details>
+
 <details><summary>हरदत्त-प्रस्तावः</summary>
 
 इदानीं प्रसङ्गात् सर्पबलेस्तदुत्सर्गस्य च देवतामुपदिशति–
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 "श्रावण्यां 'पौर्णमास्यामस्तमिते स्थालीपाक" इत्यादि पौर्णमास्यां यत् कर्म चोदितं तत्र पौर्णमासीदेवता ।
@@ -5070,6 +5162,7 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 ततो जयादि ।
 "यस्यां क्रियत" इत्यनुच्यमाने पौर्णमास्यै स्वाहेत्येव होमः स्यात् ॥२८॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 यस्यां पौर्णमास्यां श्रावण्यां मार्गशीर्ष्यां च निमित्तभूतायां स्थालीपाकः क्रियते, तस्य सैव पौर्णमासी देवता ।
@@ -5103,15 +5196,16 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 
 1. [^1]  At the opening and concluding ceremonies of the Vedic study, the Ṛṣi who is indicated (as the
 
-
 [^1]:  8, 1. Haradatta observes that at the kāṇḍopākaraṇa and kāṇḍasamāpana the Ṛṣi of that kāṇḍa, at the general adhyāyopākaraṇa and samāpana all kāṇḍarshis, should be worshipped.
 
 Ṛṣi of the Kāṇḍa which they study, is the deity to whom the ceremony belongs),
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 +++(सम्पादकटिप्पानी - इदं सूत्रम् अग्रिमे व्याख्यातम् ।)+++
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 +++(सम्पादकटिप्पानी - इदं सूत्रम् अग्रिमे व्याख्यातम् ।)+++
@@ -5137,10 +5231,9 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/018/06_sadasaspatimadbhutaM_priyamindrasya.md">
 <details open><summary><h7>०६ सदसस्पतिमद्भुतं प्रियमिन्द्रस्य ...{Loading}...</h7></summary>
 
-
-सद॑स॒स्पति॒म् अद्भु॑तं  
-प्रि॒यम् इन्द्र॑स्य॒ काम्य॑म् ।  
-स॒निं +++(=दानरूपम्)+++ मे॒धाम् अ॑यासिषम् ६
+स᳓दसस्प᳓तिम् अ᳓द्भुतं  
+प्रिय᳓म् इ᳓न्द्रस्य का᳓म्यम् ।  
+सनिं᳓ +++(=दानरूपम्)+++ मेधा᳓म् अयासिषम् ६
 
 </details>
 </div>
@@ -5154,6 +5247,7 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 
 2. And in the second place Sadasaspati (cf. Mantrap. I, 9, 8).
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 ##### उपाकर्मोत्सर्जनयोर् द्वैविध्यम्
@@ -5193,7 +5287,6 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 तानीमानि **चत्वारि वेदव्रतानि** यानि प्रतिकाण्डम् **उपाकरणानि** ।  
 यानि समापनानि तानि **व्रतविसर्जनानि** ।  
 
-
 ##### अध्यायोपाकरणसमापने
 **अध्यायोपाकरणे** तु सर्वेषां काण्डर्षीणां होमः, ततस्सदसस्पतेः ।  
 जयादयश्च भवन्ति वा, न वा ।
@@ -5225,7 +5318,6 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 वेदव्रतानि च यदा कदाचित् कुर्वते ।  
 तेषां मूलं मृग्यम् ।
 
-
 ##### शुक्रियाणाम् 
 सर्वेष्व् अपि पक्षेषु शुक्रियाणां पृथग् उपाकरणम् उत्सर्जनञ् च ।  
 
@@ -5235,6 +5327,7 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 जयादि-परिषेचनान्ते मदन्तीर् उपस्पृश्येत्य् एवमादि प्रतिपद्यते ।
 एवम् एव पूर्ववत् विसृज्येत्य् अत्रापि प्रयोगः ॥२॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 अत्र विषयशुध्यर्थम् अध्यायस्य च, प्राजापत्य-सौम्याग्नेय-वैश्वदेवाख्यानां काण्डानां च, तत्-तत्-काण्डाख्य-व्रतानां चोपाकरण-समापनयोश् च स्वरूपम् उच्यते।  
@@ -5258,7 +5351,6 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/sudarshana-sUriH/adhyayana-vratAni">
 <details open><summary><h9>अध्ययन-व्रतानि ...{Loading}...</h9></summary>
 
-
 तथा विषयशुध्यर्थम् एव प्रयोग-भाष्यम् अल्प-भेदम् एव लिख्यते ।  
 आपस्तम्ब-दर्शनानुगतोपदेशेनाध्यायोपाकरणादीनां कर्मोच्यते ।
 
@@ -5267,13 +5359,12 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 
 श्रावण्यां पौर्णमास्यां आचार्यश् शिष्यैस् सह कृत-प्राणायामो "ऽध्यायमुपाकरिष्य" इति सङ्कल्प्य महा-नद्यां विधिवत् स्नात्वा पवित्रपाणिः नव ऋषीन् तर्पयेत्– 
 
-
-प्रजापतिं काण्डऋषिं तर्पयामि।  
+> प्रजापतिं काण्डऋषिं तर्पयामि।  
 सोमं काण्डऋषिं तर्पयामि।  
 अग्निं काण्डऋषिं तर्पयामि।  
 विश्वान्देवान् काण्डऋषिं तर्पयामि।
 
-सांहितीर् देवता उपनिषदस् तर्पयामि।  
+> सांहितीर् देवता उपनिषदस् तर्पयामि।  
 याज्ञिकीर् देवता उपनिषदस् तर्पयामि।  
 वारुणीर् देवता उपनिषदस् तर्पयामि।  
 ब्रह्माणं स्वयंभुवं तर्पयामि।  
@@ -5281,64 +5372,89 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 
 इति।
 
-ततो ऽग्नेरुपसमादानाद्यग्निमुखान्ते अन्वारब्धेष्वन्तेवासिषु नवाज्याहुतीर्जुहोति।
+ततो ऽग्नेर् उपसमादानाद्य्--अग्नि-मुखान्ते  
+अन्वारब्धेष्व् अन्तेवासिषु नवाज्याहुतीर् जुहोति।
 
-प्रजापतये काण्डऋषये स्वाहा।  
+> प्रजापतये काण्डऋषये स्वाहा।  
 सोमाय काण्डऋषये स्वाहा।  
 अग्नये काण्डऋषये स्वाहा।  
 विश्वेभ्यो देवेभ्यः काण्डऋषिभ्यः स्वाहा।
 
 +++(उपहोमाः)+++  
-साँहितीभ्यो देवताभ्य उपनिषद्भ्यः स्वाहा ।
+
+> साँहितीभ्यो देवताभ्य उपनिषद्भ्यः स्वाहा ।
 याज्ञिकीभ्यो देवताभ्य उपनिषद्भ्यः स्वाहा ।
 वारुणीभ्यो देवताभ्य उपनिषद्भ्यस्स्वाहा ।
 ब्रह्मणे स्वयंभुवे स्वाहा ।
 
-सदसस्पतिमित्येतयर्चा नवमीम् आहुतिं जुहोति ।  
+सदसस्पतिम् इत्य् एतय र्चा नवमीम् आहुतिं जुहोति ।  
 
-तत आचार्यप्रमुखाः दर्भेष्वासीना दर्भान् धारयमाणा वेदस्यादितश् चतुरो ऽवरार्ध्यान् अनुवाकान् अधीयीरन् ।  
+तत आचार्य-प्रमुखाः दर्भेष्व् आसीना  
+दर्भान् धारयमाणा  
+वेदस्यादितश् चतुरो ऽवरार्ध्यान् अनुवाकान् अधीयीरन् ।  
 अथ जयादि, परिषेचनान्ते ब्राह्मण-तर्पणम् ।
 
 ###### उत्सर्गः
-एवम् एवोत्सर्गो, न ततोऽधिकं स्मृत्यन्तरोप-संहारेणापि, किन्तु यथापस्तम्बीयं सूत्रम् ।  
-तथा नादितो वेदस्यानुवाकानामध्ययनम् ।  
-जयादयस्तु भवन्ति ।
+एवम् एवोत्सर्गो,  
+न ततोऽधिकं स्मृत्य्-अन्तरोपसंहारेणापि, किन्तु यथापस्तम्बीयं सूत्रम् ।  
+
+तथा नादितो वेदस्यानुवाकानाम् अध्ययनम् ।  
+जयादयस् तु भवन्ति ।
 
 ###### सौम्ये विशेषः
-सौम्याद् ऋते काण्डोपाकरण-समापनयोश् च न सूक्तोपहोम-देवतोपस्थान-जयादयः ।  
-सौम्यस्यैव सूक्तजयादयः ।
-एवमापस्तम्बमत एवावस्थिताः केचित् कुर्वते यथोक्तम् ॥
+सौम्याद् ऋते काण्डोपाकरण-समापनयोश् च  
+न सूक्तोपहोम-देवतोपस्थान-जयादयः ।  
+सौम्यस्यैव सूक्त-जयादयः ।
+एवम् आपस्तम्ब-मत एवावस्थिताः  
+केचित् कुर्वते यथोक्तम् ॥
 
 ###### प्राजापत्य-व्रतम्
 ###### आरम्भः
-अथ प्राजापत्ये व्रते पूर्ववत् स्नात्वा सोमाग्नि-विश्वेदेव-वर्ज्यानां तर्पणम् ।  
-अग्नि-मुखान्ते चान्वारब्धे व्रतिनि जुहोति- प्रजापतये काण्डऋषये स्वाहा ।
+अथ प्राजापत्ये व्रते  
+पूर्ववत् स्नात्वा  
+सोमाग्नि-विश्वेदेव-वर्ज्यानां तर्पणम् ।  
+अग्नि-मुखान्ते चान्वारब्धे  
+व्रतिनि जुहोति-  
 
-"प्रजापते न त्वदेतान्यन्यः" ( तै. ब्रा. २-८-१-२.) इति सूक्तेन प्रत्यृचं षडाहुतीः,  
-चतस्र उपहोमाहुतीः - साँहितीभ्य इत्यादिभिर् एव, सदसस्पतिमित्येतयैव सदसस्पतिं च ।
+> प्रजापतये काण्डऋषये स्वाहा ।
 
-अथ व्रती उपस्थेय-देवता अभिसन्धायाग्निपुरोगाश् चतस्रो देवता उपतिष्ठते ।  
-"अग्ने व्रतपते काण्डऋषिभ्यः {प्राजापत्यं} व्रतं चरिष्यामि, तच् छकेयं, तन् मे राध्यताम् ।  
-{वायो व्रतपते, आदित्य व्रतपते, व्रतानां व्रतपते} - काण्डऋषिभ्यः {प्राजापत्यं} व्रतं चरिष्यामि, तच् छकेयं, तन् मे राध्यताम्," (तै.आ. ४-४१-३.) इत्येतैश् चतुर्भिर् यथादैवतम् ।  
+"प्रजापते न त्वदेतान्यन्यः" ( तै. ब्रा. २-८-१-२.)  
+इति सूक्तेन प्रत्यृचं षडाहुतीः,  
+चतस्र उपहोमाहुतीः -  
+साँहितीभ्य इत्यादिभिर् एव,  
+"सदसस्पतिम्" इत्य् एतयैव सदसस्पतिं च ।
+
+अथ व्रती उपस्थेय-  
+देवता अभिसन्धायाग्निपुरोगाश् चतस्रो देवता उपतिष्ठते ।  
+
+> "अग्ने व्रतपते काण्डऋषिभ्यः {प्राजापत्यं} व्रतं चरिष्यामि,  
+> तच् छकेयं, तन् मे राध्यताम् ।  
+{वायो व्रतपते, आदित्य व्रतपते, व्रतानां व्रतपते} -  
+> काण्डऋषिभ्यः {प्राजापत्यं} व्रतं चरिष्यामि, तच् छकेयं, तन् मे राध्यताम्," (तै.आ. ४-४१-३.) 
+
+इत्येतैश् चतुर्भिर् यथादैवतम् ।  
+
 ततो जयादि, ब्राह्मणतर्पणं च ।  
 
 ###### समाप्तिः
 एवम् एव समापने प्रयोगः - संवत्सरे संवत्सरे पर्यवेते+++(=समाप्ते)+++ ।  
 तत्रोपस्थान-मन्त्रेषु "अचारिषम् अशकम् अराधीति" विशेषः ।
 
-केचित्— सौम्ये केश-श्मश्रु-वापनस्य दृष्टत्वात् प्राजापत्यादिष्व् अपीच्छन्ति ॥
+केचित्— सौम्ये केश-श्मश्रु-वापनस्य दृष्टत्वात्  
+प्राजापत्यादिष्व् अपीच्छन्ति ॥  
 
 एवम् एवाग्नेये वाश्वदेवे च ।
 
 ###### आग्नेयम्
-अग्नये काण्डऋषये स्वाहा; "अग्ने नय" (तै.ब्रा.२-८-३.) इति षडृचं सूक्तम्, ;  
+अग्नये काण्डऋषये स्वाहा;  
+"अग्ने नय" (तै.ब्रा.२-८-३.) इति षडृचं सूक्तम्, ;  
 "अग्ने व्रतपते काण्डऋषिभ्यः {आग्नेयं} व्रतं चरिष्यामि" इत्याग्नेये विशेषः ।
 
 ###### वैश्वदेवम्
 विश्वेभ्यो देवेभ्यः काण्डऋषिभ्यः स्वाहा ; "आ नो विश्वे अस्क्रागमन्तु" (तै. ब्रा.२-८-६-३.) इति षडृचं सूक्तम् ;
 "वैशवदेवं व्रतं चरिष्यामी"ति वैश्वदेवव्रते विशेषः ॥
 
-###### सौम्यम्  - शुक्रियम्
+###### सौम्यम् - शुक्रियम्
 ###### उपाकर्म
 सोमस्य काण्डोपाकरण-समापने शुक्रिय-कल्पोक्ते ।
 अत्राप्युक्तं यत्तदुच्यते– पूर्ववद् उपाकृत्याग्नेर् उपसमाधानाद्य्-अग्निमुखान्ते, "सोमाय काण्डऋषये स्वाहा" ।  
@@ -5350,14 +5466,20 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 प्रथमेनानुवाकेन शान्तिं कृत्वा  
 चतस्र औदुम्बरीस् समिधो घृतान्वक्ता अभ्यादधाति - "पृथिवी समित्" (तै. आ. ४-४१-१०.) इत्यादिभिः ।
 
-अथ देवतोपस्थानम् - "अग्ने व्रतपते काण्डऋषिभ्यः सौम्यं व्रतं चरिष्यामि" इत्यादिभिः ।
+अथ देवतोपस्थानम् -  
+"अग्ने व्रतपते काण्डऋषिभ्यः सौम्यं व्रतं चरिष्यामि" इत्यादिभिः ।
 
-ततः प्रभृति शुक्रिय-मन्त्र-ब्राह्मणानुवाकानां प्रथम-पदानि "युञ्जते" (तै. आ. ४-२.) "सविता" (तै. आ. ५-१२.) इति वाभिव्याहार्य वाचयित्वा जयादि प्रतिपद्यते । 
-परिषेचनान्तं कृत्वा मदन्तीम् उपस्पृश्य, उत्तमेनानुवाकेन शान्तिं कृत्वा ततस् सम्मीलनादि यथासूत्रम् ।
+ततः प्रभृति शुक्रिय-मन्त्र-ब्राह्मणानुवाकानां प्रथम-पदानि "युञ्जते" (तै. आ. ४-२.) "सविता" (तै. आ. ५-१२.) इति वाभिव्याहार्य वाचयित्वा  
+जयादि प्रतिपद्यते ।  
 
-श्वोभूते "वयः सुपर्णाः" (तै.आ. ४-४२-३.) इत्यादित्योपस्थानान्ते ब्राह्मण-भोजनम् ।
+परिषेचनान्तं कृत्वा  
+मदन्तीम् उपस्पृश्य,  
+उत्तमेनानुवाकेन शान्तिं कृत्वा  
+ततस् सम्मीलनादि यथासूत्रम् ।
 
-अथास्य स्वाध्यायविधिः शुक्रियकल्प एवोक्तः ।
+श्वो-भूते "वयः सुपर्णाः" (तै.आ. ४-४२-३.) इत्यादित्योपस्थानान्ते ब्राह्मण-भोजनम् ।
+
+अथास्य स्वाध्यायविधिः शुक्रिय-कल्प एवोक्तः ।
 
 ###### समाप्तिः
 एवं समापने ।  
@@ -5366,7 +5488,6 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 
 </details>
 </div>  
-
 
 ##### सूत्रपरीक्षा
 ###### सूत्राव्यर्थता
@@ -5435,14 +5556,22 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 
 3. They reject a sacrifice performed by a wife or by one who has not received the Upanayana initiation, and a sacrifice of salt or pungent food, or of such food as has an admixture of a despised sort of food.
 </details>
+
 <details><summary>हरदत्त-प्रस्तावः</summary>
 
-"यस्याग्नौ न क्रियते न तद् भोक्तव्यम्" (आप.ध.२-१५-११.) इति धर्मशास्त्रवचनात्  
-शरीर-स्थित्य्-अर्थम् अपि भोजनं  
-द्विजस्य वैश्वदेवशेषेणैव भवितव्यम् ।
+> "यस्याग्नौ न क्रियते  
+> न तद् भोक्तव्यम्" (आप.ध.२-१५-११.) 
 
-"चतू-रात्रम् अहूयमानो ऽग्निर् लौकिकस् सम्पद्यते" इति वचनाद्  
-अहुते ऽग्निहोत्रे सर्वक्रत्व्-अर्थो ऽग्निर् लौकिकस् स्यात् ।  
+इति धर्मशास्त्रवचनात्  
+शरीर-स्थित्य्-अर्थम् अपि भोजनं  
+द्विजस्य वैश्व-देव-शेषेणैव भवितव्यम् ।
+
+> "चतू-रात्रम् अहूयमानो ऽग्निर्  
+> लौकिकस् सम्पद्यते" 
+
+इति वचनाद्  
+अहुते ऽग्निहोत्रे  
+सर्वक्रत्व्-अर्थो ऽग्निर् लौकिकस् स्यात् ।  
 
 ततश् च ज्वरादिभिर् उपद्रवे सत्य् अपि  
 वैश्वदेवाग्निहोत्रादेः तत्-प्रायश्चित्तानां वा होमानाम् अवश्य-कार्यत्वाद्  
@@ -5450,38 +5579,64 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 द्वयोर् अपि स्त्र्य्-अनुपेतयोः येन केनचित् प्रकारेण मन्त्र-लिङ्ग-लोपेनापि तत्र प्रसक्तिः ।
 
 तथा वैश्वदेवस्य श्राद्धादिषु  
-"अथ गृह-मेधिनो यद् अशनीयस्य होमा बलयश्च" (आप.ध. २-३-१२.) इति वचनात्,  
-सुवर्चकायव-**क्षाराभ्यां लवणेन चावरान्नेन** च कोशधान्यापरनाम्ना माषादिना तिल-व्यतिरिक्तेन  
+"अथ गृह-मेधिनो यद् अशनीयस्य होमा बलयश्च" (आप.ध. २-३-१२.)  
+इति वचनात्,  
+सुवर्चकायव-**क्षाराभ्यां लवणेन चावरान्नेन** च 
+कोश-धान्यापर-नाम्ना माषादिना तिल-व्यतिरिक्तेन  
 **संसृष्टस्यापि** भवति हविषो होमे प्रसक्तिः ।
 
 तद् उभयनिषेधार्थम् आह—
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 पाक-यज्ञाधिकारे सर्वत्रायं प्रतिषेधः श्रद्धादिष्व् अप्य्  
 **अवरान्नानि** कोशी-धान्यानि माषादीनि कृष्ण-धान्यानि चणक-कोद्रवादीनि  
 **परिचक्षते** वर्जयन्ति शिष्टाः ।
 
-"न स्त्री जुहुयात् । नानुपेतः । न क्षारलवणहोमो विद्यते" इति प्रतिषेधेनैव सिद्धे  
+> "न स्त्री जुहुयात् । नानुपेतः । न क्षारलवणहोमो विद्यते"  
+
+इति प्रतिषेधेनैव सिद्धे  
 उत्तरार्थोऽयं प्रतिषेधः ।
 
-किञ्च "पाणिग्रहणादि गृह्यं परिचरेत् - स्वयं, पन्त्य् अपि वा पुत्रः कुमार्यन्तेवासीव"(आश्व.गृ.१-९-१.) इति आश्वलायन-वचनेन पन्त्य्-आदीनाम् औपासन-होम-प्राप्त्य्-आशङ्कायां प्रतिषेधः ॥३॥
+किञ्च 
+
+> "पाणिग्रहणादि गृह्यं परिचरेत् -  
+> स्वयं, पन्त्य् अपि वा पुत्रः कुमार्यन्तेवासीव"(आश्व.गृ.१-९-१.)  
+
+इति आश्वलायन-वचनेन  
+पन्त्य्-आदीनाम् औपासन-होम-प्राप्त्य्-आशङ्कायां प्रतिषेधः ॥३॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **स्त्रिया +अनुपेतेन** अनुपनीतेन च  
 **होमं** होम-मात्रं - श्रौतं स्मार्तं च  
-शिष्टाः **परिचक्षते** वर्जयन्ति "यस्मात्, तस्माद् एव ताभ्यां न होतव्यम्" इति वाक्यशेषः ।
+शिष्टाः **परिचक्षते** वर्जयन्ति "यस्मात्,  
+तस्माद् एव ताभ्यां न होतव्यम्" इति वाक्यशेषः ।
 
-**होमम्** इति च सामान्याभिधानेन श्रौतहोमेऽपि स्त्र्यनुपनीतौ शिष्टाः वर्जयन्तीति ज्ञापनात् गार्ह्याधिकारापवादः ।
+**होमम्** इति च सामान्याभिधानेन  
+श्रौतहोमेऽपि स्त्र्यनुपनीतौ शिष्टाः वर्जयन्तीति ज्ञापनात्  
+गार्ह्याधिकारापवादः ।
 
 क्षारेत्यादि व्याख्यात-प्रायम् एव ।
 
-यत् तु धर्मशास्त्रे "न क्षारलवणहोमो विद्यते । तथावरान्न-संसृष्टस्य च" (आप.ध.२-१५-१२,१३.) इति  
-तत् "उदीचीनम् उष्णं भस्मापोह्य तस्मिन् जुहुयात्" (आप.ध.२-१५-१४.) इति विधानार्थोऽनुवादः ।
+यत् तु धर्मशास्त्रे  
 
-यद् अपि तत्रैव "न स्त्री जुहुयात् नानुपेतः" (आप.ध.२-१५-१५,१६) इति  
-तत् क्षारादि यथोष्ण-भस्मनि हूयते, तथा तस्मिन्न् अपि स्त्र्य्-अनुपनीताभ्यां न होतव्यम् इति निषेद्धुम् ॥३॥
+> "न क्षार-लवण-होमो विद्यते ।  
+> तथा ऽवरान्न-संसृष्टस्य च" (आप.ध.२-१५-१२,१३.) 
+
+इति, तत् 
+
+> "उदीचीनम् उष्णं भस्मापोह्य  
+> तस्मिन् जुहुयात्" (आप.ध.२-१५-१४.) 
+
+इति विधानार्थोऽनुवादः।
+
+यद् अपि तत्रैव  
+"न स्त्री जुहुयात् नानुपेतः" (आप.ध.२-१५-१५,१६) इति  
+तत् क्षारादि यथोष्ण-भस्मनि हूयते,  
+तथा तस्मिन्न् अपि स्त्र्य्-अनुपनीताभ्यां न होतव्यम् इति निषेद्धुम् ॥३॥
 </details>
 </details>
 </div>
@@ -5508,10 +5663,12 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 
 4. Sacrifices connected with special wishes and Bali sacrifices (should be performed) as stated (even against the clauses of the last Sūtra).
 </details>
+
 <details><summary>हरदत्त-प्रस्तावः</summary>
 
 अस्य प्रतिषेधस्य प्रतिप्रसवमाह–
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 योऽयं स्त्र्यादीनां प्रतिषेधः स काम्येषु कर्मसु नादरणीयः।  
@@ -5527,6 +5684,7 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 उपदेशाद् एवैषां प्रवृत्तिः -  
 स्वशास्त्रेण शास्त्रान्तरेण वा न प्रतिनिधित्वेन ॥४॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 यानि **काम्यानि** येन प्रकारेणोपदिष्टानि तानि तथैव भवन्ति - नैव तत्र क्षारादिवर्जनम्।   
@@ -5561,7 +5719,6 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_09/09_uddIpyasva_jAtavedo-paghnannirRtim.md">
 <details open><summary><h5>०९ उद्दीप्यस्व जातवेदोऽपघ्नन्निर्ऋतिम् ...{Loading}...</h5></summary>
 
-
 उद्दी॑प्यस्व जातवेदो  
 ऽप॒घ्नन् निर्ऋ॑तिं॒ मम॑ ।  
 प॒शूँश् च॒ मह्य॒म् आ व॑ह॒  
@@ -5571,7 +5728,6 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_09/10_mA_no.md">
 <details open><summary><h5>१० मा नो ...{Loading}...</h5></summary>
-
 
 मा नो॑ हिँसीज् जातवेदो॒  
 गाम् अश्वं॒ पुरु॑ष॒ञ् जग॑त् ।  
@@ -5588,6 +5744,7 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 
 5. Whenever the fire flames up of itself, he should put two pieces of wood on it with the next two (verses: M. I, 9, 9-10),
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 **सर्वत्र** सर्वेषु पाकयज्ञेषु अग्नौ स्वयं प्रज्वलिते धमनादि पुरुषप्रयत्नमन्तरेणेत्यर्थः ।
@@ -5598,6 +5755,7 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 सर्वत्र लौकिके वैदिके गार्ह्ये वाग्नाविति ।
 एककर्मकालेष्वित्यन्ये ॥५॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **सर्वत्र** सर्वाचारलक्षणेषु कर्मसु ।
@@ -5634,10 +5792,12 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 
 6. Or with (the two formulas), 'May fortune reach me! May fortune come to me!'
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 एताभ्यां यजुर्भ्यां एते समिधावादध्यादिति मन्त्रविकल्पः ॥६॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 "उद्दीप्यस्वे"ति ऋग्द्वयेन आपन्मेत्येतद्यजुर्द्वयं विकल्प्यते ॥६॥
@@ -5666,6 +5826,7 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 
 7. Let him notice the day on which he brings his wife home.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 **एतदहः** एतन्नक्षत्रम् ।
@@ -5680,6 +5841,7 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 अथ स विधिरेवेह कस्मान्नोपदिश्यते? उच्यते– इहोपदेशे प्रकरणाद्विवाहाङ्गत्वं विज्ञायेत ।
 ततश्च शम्यादयोऽपि विवाहधर्माः स्युः किञ्च सर्वचरणार्थः तत्रोपदेशः ॥७॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 यस्मिन्नहनि गृहप्रवेशनादि स्थालीपाकान्तं कर्म करोति तद् **एतदहर्** अवधित्वेन **विजानीयात्** तत आरभ्य त्रिरात्रमुभयोरधश्शय्येत्यादि कर्तुम् ।
@@ -5714,6 +5876,7 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 
 8. (From that day) through three nights they should both sleep on the ground, they should be chaste, and should avoid salt and pungent food.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 स्थालीपाकादारभ्य **त्रिरात्रमुभयोः** दम्पत्योः **अधश्शय्या** नोपरि खट्वादौ ।
@@ -5723,6 +5886,7 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 चतुर्थ्यां समावेशनविधानात् इदं तु ब्रह्मचर्यवचनं दार्ढ्यार्थम् ।
 यद्यपि सहशयनमुभयोः, तथापि मैथुनवर्जने यत्नः कार्य इति ॥८॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **उभयोर्** दम्पत्योः स्थालीपाकादारभ्य त्रिरात्रम् **अधश्शय्या** स्यात्, न तु खट्वादौ ।
@@ -5767,11 +5931,13 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 
 9. Between their sleeping-places a staff is interposed, which is anointed with perfumes and wrapped round with a garment or a thread.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 **तयोः** दम्पत्योः **शय्यामन्तरेण** शयनस्य मध्ये **दण्डः** क्षीरिवृक्षोद्भवः **गन्धेन** सुरभिणा **लिप्तः** पुष्पैश्चालङ्कृतः **वाससा सूत्रेण वा परिवीतः तिष्ठति** स्थापयितव्यः ।
 अन्योन्यसंस्पर्शो मा भूदिति ॥९॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **तयोः** व्रतस्थयोर्दम्पत्योर्यावत्त्रिरात्रमभिन्ना शय्या ताम् **एवान्तरेण** तस्या एव मध्ये, न तु त्रिरात्रादूर्ध्वं नानाशय्यामेकशय्यां चान्तरेणापीति ; तयोरिति प्रकृतपरामशात् ।
@@ -5805,11 +5971,10 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/22_udIrShvAto_vishvAvaso.md">
 <details open><summary><h7>२२ उदीर्ष्वातो विश्वावसो ...{Loading}...</h7></summary>
 
-
-उ॒दी॒र्ष्वाऽतो॑ विश्वावसो॒ +++(गन्धर्व)+++  
-नम॑सेडामहे त्वा ।  
-अ॒न्याम् इ॑च्छ प्रफ॒र्व्यँ॑+++(=प्रथमवयसं)+++  
-सञ्जा॒यां पत्या॑ सृज ।  
+उदीर्ष्वा᳓ऽतो विश्वावसो +++(गन्धर्व)+++  
+न᳓मसेडामहे त्वा ।  
+अन्या᳓म् इच्छ प्रफर्व्यँ᳙+++(=प्रथमवयसं)+++  
+सञ्जायां᳓ प᳓त्या सृज ।  
 
 </details>
 </div>
@@ -5820,15 +5985,13 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/21_udIrShvAtaH_pativatI.md">
 <details open><summary><h7>२१ उदीर्ष्वातः पतिवती ...{Loading}...</h7></summary>
 
-
-उदी॒र्ष्व+++(=उद्गच्छ)+++ +अतः॒ पति॑वती॒ ह्ये॒३॒॑षा  
-वि॒श्वाव॑सुं॒ नम॑सा गी॒र्भिर् ई॑ळे ।  
-अ॒न्याम् इ॑च्छ पितृ॒षदं॒ व्य॑क्तां॒  
-स ते॑ भा॒गो ज॒नुषा॒ तस्य॑ विद्धि ॥२१
+उ᳓दीर्ष्व᳓+++(=उद्गच्छ)+++ +अ᳓तः प᳓तिवती ह्ये३᳓षा᳓  
+विश्वा᳓वसुं न᳓मसा गीर्भि᳓र् ईळे ।  
+अन्या᳓म् इच्छ पितृष᳓दं व्य᳙क्तां  
+स᳓ ते भागो᳓ जनु᳓षा त᳓स्य विद्धि ॥२१
 
 </details>
 </div>
-
 
 उ॒दी॒र्ष्वातः॒ पति॑वती॒ ह्य् ए॑षा  
 वि॒श्वाव॑सुं॒ नम॑सा गी॒र्भिर् ई॑ट्टे+++(=याचे)+++ ।  
@@ -5844,22 +6007,17 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_10/03-06_agne_prAyashchitte.md">
 <details open><summary><h5>०३-०६ अग्ने प्रायश्चित्ते ...{Loading}...</h5></summary>
 
-
 अग्ने॑ प्रायश्+++(=विनाश)+++-चित्ते॒+++(=सन्धातः)+++! त्वन् दे॒वानां॒ प्राय॑श्चित्तिर् असि।  
 ब्राह्म॒णस् त्वा॑ ना॒थ-का॑मः॒ प्रप॑द्ये॒।  
 याऽस्यां प॑ति॒घ्नी त॒नूः प्र॑जा॒घ्नी प॑शु॒घ्नी ल॑क्ष्मि॒घ्नी, जा॑र॒घ्नीम् अ॑स्यै॒ ताङ् कृ॑णोमि॒ स्वाहा॑ ।+++(र५)+++  
-
-
 
 वायो॑ प्रायश्चित्ते॒! त्वन् दे॒वानां॒ प्राय॑श्चित्तिर् असि।  
 ब्राह्म॒णस् त्वा॑ ना॒थ-का॑मः॒ प्रप॑द्ये॒।  
 याऽस्यां प॑ति॒घ्नी त॒नूः प्र॑जा॒घ्नी प॑शु॒घ्नी ल॑क्ष्मि॒घ्नी, जा॑र॒घ्नीम् अ॑स्यै॒ ताङ् कृ॑णोमि॒ स्वाहा॑ ।+++(र५)+++  
 
-
 आदि॑त्य प्रायश्चित्ते॒!  त्वन् दे॒वानां॒ प्राय॑श्चित्तिर् असि।  
 ब्राह्म॒णस् त्वा॑ ना॒थ-का॑मः॒ प्रप॑द्ये॒।  
 याऽस्यां प॑ति॒घ्नी त॒नूः प्र॑जा॒घ्नी प॑शु॒घ्नी ल॑क्ष्मि॒घ्नी, जा॑र॒घ्नीम् अ॑स्यै॒ ताङ् कृ॑णोमि॒ स्वाहा॑ ।+++(र५)+++
-
 
 प्रजा॑पते प्रायश्चित्ते॒!  त्वन् दे॒वानां॒ प्राय॑श्चित्तिर् असि।  
 ब्राह्म॒णस् त्वा॑ ना॒थ-का॑मः॒ प्रप॑द्ये॒।  
@@ -5869,7 +6027,6 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_10/07_prasavashchopayAmashcha_kATashchArNavashcha.md">
 <details open><summary><h5>०७ प्रसवश्चोपयामश्च काटश्चार्णवश्च ...{Loading}...</h5></summary>
-
 
 प्र॒स॒वश्+++(=अनुज्ञा)+++ चो॑पया॒मश्+++(=पृथिवी)+++ च॒  
 +++(इयं वा उपयामः इति श्रुतेः)+++  
@@ -5888,7 +6045,6 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_10/08_madhushcha_mAdhavashcha.md">
 <details open><summary><h5>०८ मधुश्च माधवश्च ...{Loading}...</h5></summary>
 
-
 मधु॑श्च॒ माध॑वश्च  
 शु॒क्रश्च॒ शुचि॑श्च॒  
 नभ॑श्च नभ॒स्य॑श् च॒  
@@ -5901,7 +6057,6 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_10/09_chittancha_chittishchAkUtanchAkUtishchAdhItanchAdhItishcha.md">
 <details open><summary><h5>०९ चित्तञ्च चित्तिश्चाकूतञ्चाकूतिश्चाधीतञ्चाधीतिश्च ...{Loading}...</h5></summary>
-
 
 चि॒त्तञ् च॒ चित्ति॒श् चा+  
 ऽकू॑त॒ञ्+++(=अभिप्रेतम्)+++ चाकू॑ति॒श्+++(=अभिप्रायः)+++ च  
@@ -5919,7 +6074,6 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_10/10_bhUssvAhA_bhuvassvAhA.md">
 <details open><summary><h5>१० भूस्स्वाहा भुवस्स्वाहा ...{Loading}...</h5></summary>
 
-
 भूस् स्वाहा॒, भुव॒स् स्वाहा॒, सुव॒स् स्वाहोँ स्वाहा॑ ॥ (10)
 
 </details>
@@ -5929,8 +6083,6 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 
 इति श्रीहरदत्तविरचिते एकाग्निकाण्डमन्त्र व्याख्याने दशमः खण्डः
 
-
-
 ##### परस्परवीक्षणम्
 परिषेचनान्तं कृत्वा,
 अपरेणाग्निं प्राचीम् उपवेश्य तस्याश् शिरस्याज्यशेषाद् व्याहृतिभिर् ओङ्कारचतुर्थाभिरानीयोत्तराभ्यां +++(="अपश्यं त्वे"त्येताभ्यां)+++ यथालिङ्गं +++(=पूर्वया वधूः उत्तरया वरः)+++ मिथस्समीक्ष्य,  
@@ -5939,7 +6091,6 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_11/01_apashyantvA_manasA.md">
 <details open><summary><h5>०१ अपश्यन्त्वा मनसा ...{Loading}...</h5></summary>
-
 
 अप॑श्यन् त्वा॒ मन॑सा॒ चेकि॑तानं॒+++(=जानन्तं)+++  
 तप॑सो जा॒तं तप॑सो॒ विभू॑तम् ।  
@@ -5954,7 +6105,6 @@ ______________
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_11/02_apashyantvA_manasA.md">
 <details open><summary><h5>०२ अपश्यन्त्वा मनसा ...{Loading}...</h5></summary>
 
-
 अप॑श्यन् त्वा॒ मन॑सा॒ दीध्या॑नाँ॒+++(=ध्यायन्तीं)+++  
 स्वायां॑ त॒नूँ+++(न्वां)+++ ऋ॒त्विये॒ +++(काले)+++ नाथ॑मानाम् ।  
 उप॒ माम् +++(सम्भोगकाले)+++ उ॒च्चा यु॑व॒तिर् बुभू॑याः॒+++(=अनुभूयाः)+++  
@@ -5962,7 +6112,6 @@ ______________
 
 </details>
 </div>
-
 
 उत्तरया +++(="समञ्जन्त्वि"त्येतया)+++ ऽज्यशेषेण हृदयदेशौ संमृज्य,  
 ______________
@@ -5972,15 +6121,13 @@ ______________
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/47_samanjantu_vishve.md">
 <details open><summary><h7>४७ समञ्जन्तु विश्वे ...{Loading}...</h7></summary>
 
-
-सम॑ञ्जन्तु॒ विश्वे॑ दे॒वाः  
-समापो॒ हृद॑यानि नौ ।  
-सं मा॑त॒रिश्वा॒ सं धा॒ता  
-समु॒ देष्ट्री॑+++(=दात्री [फलानाम्])+++ दधातु नौ ॥
+स᳓मञ्जन्तु वि᳓श्वे देवाः᳓  
+स᳓मा᳓पो हृ᳓दयानि नौ ।  
+सं᳓ मातरि᳓श्वा सं᳓ धाता᳓  
+स᳓मु दे᳓ष्ट्री+++(=दात्री [फलानाम्])+++ दधातु नौ ॥
 
 </details>
 </div>
-
 
 सम॑ञ्जन्तु॒ विश्वे॑ दे॒वास्  
 समापो॒ हृद॑यानि नौ ।  
@@ -5990,14 +6137,11 @@ ______________
 </details>
 </div>
 
-
-
 ##### अथ जपः  
 उत्तरास् तिस्रो +++(="प्रजापते तन्व"मित्याद्याः)+++ जपित्वा,  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_11/04_prajApate_tanvam.md">
 <details open><summary><h5>०४ प्रजापते तन्वम् ...{Loading}...</h5></summary>
-
 
 प्रजा॑पते त॒न्वं॑ मे जुषस्व॒  
 त्वष्ट॑र् दे॒वेभि॑स् स॒हसा॒म+++(न= सममान)+++ इ॑न्द्र ।  
@@ -6013,10 +6157,10 @@ ______________
 
 +++(गृहप्रवेशे - )+++  
 
-आ नः॑ प्र॒जाञ् ज॑नयतु प्र॒जाप॑तिर्  
-आजर॒साय॒ +++(स्नेहाय)+++ सम॑नक्त्व् अर्य॒मा ।  
-अ-दु॑र्-मङ्गलीः पतिलो॒कम् आ वि॑श॒  
-शन् नो॑ भव द्वि॒पदे॒ शञ् चतु॑ष्पदे ।  
+आ᳓ नः प्रजा᳓ञ् जनयतु प्रजा᳓पतिर्  
+आजरसा᳓य +++(स्नेहाय)+++ स᳓मनक्त्व् अर्यमा᳓ ।  
+अ᳓-दुर्-मङ्गलीः पतिलोक᳓म् आ᳓ विश  
+श᳓न् नो भव द्विप᳓दे श᳓ञ् च᳓तुष्पदे ।  
 
 </details>
 </div>
@@ -6027,24 +6171,20 @@ ______________
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/37_tAM_pUShanChivatamAmerayasva.md">
 <details open><summary><h7>३७ तां पूषञ्छिवतमामेरयस्व ...{Loading}...</h7></summary>
 
-
-तां पू॑षञ् छि॒वत॑मा॒म् एर॑यस्व॒  
-यस्यां॒ बीजं॑ मनु॒ष्या॑ वप॑न्ति ।  
-या न॑ ऊ॒रू उ॑श॒ती+++(=कामयमाना)+++ वि॒स्र+++(श्र)+++या॑तै॒+++(=विश्लिष्टौ कुर्यात्)+++  
-यस्या॑म् उ॒शन्तः॒+++(=कामयमानाः)+++ प्रह॑रेम॒ शेफ॑म् ॥+++(५)+++ (11)
+तां᳓ पूषञ् छिव᳓तमाम् ए᳓रयस्व  
+य᳓स्यां बी᳓जं मनुष्या᳙ व᳓पन्ति ।  
+या᳓ न ऊरू᳓ उशती᳓+++(=कामयमाना)+++ विस्र᳓+++(श्र)+++यातै+++(=विश्लिष्टौ कुर्यात्)+++  
+य᳓स्याम् उश᳓न्तः+++(=कामयमानाः)+++ प्र᳓हरेम शे᳓फम् ॥+++(५)+++ (11)
 
 </details>
 </div>
 </details>
 </div>
-
-
 
 शेषं +++(="आरोहोरु"मित्यादि)+++ समावेशने जपेत् ॥  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_12/01_Arohorumupabarhasva_bAhum.md">
 <details open><summary><h5>०१ आरोहोरुमुपबर्हस्व बाहुम् ...{Loading}...</h5></summary>
-
 
 +++(अन्तरात्मन्!)+++ आरो॑हो॒रुम् उप॑बर्हस्व बा॒हुं  
 परि॑ष्वजस्व जा॒याँ सु॑मन॒स्यमा॑नः +++(=प्रीयमाणः)+++ ।  
@@ -6055,7 +6195,6 @@ ______________
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_12/02_ArdrayA-raNyA_yatrAmanthatpuruSham.md">
 <details open><summary><h5>०२ आर्द्रयाऽरण्या यत्रामन्थत्पुरुषम् ...{Loading}...</h5></summary>
-
 
 आ॒र्द्रया+++(आज्याक्तया)+++ऽर॑ण्या॒ +++(अग्निम्)+++ यत्रा+++(था)+++ऽम॑न्थ॒त्,  
 +++(तथा)+++ पुरु॑षं॒ +++(गर्भम्)+++ पुरु॑षेण +++(शेफेन)+++ श॒क्रः ।  
@@ -6072,6 +6211,7 @@ ______________
 
 10. In the last part of the fourth night he takes up the (staff) with the next two (verses; M. I, 10, 1-2), washes it and put it away; then (the ceremonies) from the putting of wood on the fire down to the Ājyabhāga oblations (are performed), and while she takes hold of him, he sacrifices the oblations (indicated by the) next (Mantras; M. I, 10, 3-9); then he enters upon the performance of the Jaya and following oblations, and performs (the rites) down to the sprinkling (of water) round (the fire). Then he makes her sit down to the west of the fire, facing the east, and pours some Ājya of the remains (of those oblations) on her head with the (three) Vyāhṛtis and the word Om as the fourth (M. I, 10, 10-13). Then they look at each other with the next two verses (M. I, 11, 1-2), according to the characteristics (contained in those verses); with the next verse (M. I, 11, 3) he besmears the region of their hearts with remains of Ājya; then he should murmur the next three verses (I, 11, 4-6), and should murmur the rest (of the Anuvāka; I, 11, 7-11) when cohabiting with her.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 **अपररात्रो** रात्रेस्तृतीयो भागः **उत्तराभ्याम्** उदीर्ष्वात इत्येताभ्याम् ।
@@ -6093,6 +6233,7 @@ ______________
 परिषेचनान्ते एतदेव कर्म यथा स्यात् ।
 तेन भोजनं प्रागेव भवति ॥१०॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 चतुर्थ्या अपररात्रे इति विवृत्यार्थपाठः ।
@@ -6131,8 +6272,6 @@ ______________
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_12/03_aha~N_garbhamadadhAmoShadhIShvaham.md">
 <details open><summary><h5>०३ अहङ् गर्भमदधामोषधीष्वहम् ...{Loading}...</h5></summary>
 
-
-
 अ॒हं गर्भ॒म् अद॑धा॒म् ओष॑धीष्व्  
 अ॒हं विश्वे॑षु॒ भुव॑नेष्व् अ॒न्तः ।  
 अ॒हं प्र॒जा अ॑जनयं पितॄृ॒णाम्  
@@ -6143,7 +6282,6 @@ ______________
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_12/04_putriNemA_kumAriNA.md">
 <details open><summary><h5>०४ पुत्रिणेमा कुमारिणा ...{Loading}...</h5></summary>
 
-
 पु॒त्रिणे॒मा कु॑मा॒रिणा॒ विश्व॒म् आयु॒र् व्य॑श्नुतम् ।  
 उ॒भा हिर॑ण्य-पेशसा+++(=रूपौ)+++ वी॒ति+++(=हविर्)+++हो॑त्रा कृ॒तद्व॑सू (=कृतवसू)।  
 
@@ -6151,7 +6289,6 @@ ______________
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_12/05_dashasyantvA-mRtAya_kaMshamUdho.md">
 <details open><summary><h5>०५ दशस्यन्त्वाऽमृताय कंशमूधो ...{Loading}...</h5></summary>
-
 
 द॒श॒स्यन्त्वा॒ +++(=दशस्यन्तौ =दातारौ)+++ ऽमृता॑य॒ कँ (पादपूरणे) श+++(स)+++म् ऊधो॑  
 रोम॒शँ ह॑थो+++(=श्लिष्टं कुरुतम्)+++ दे॒वेषु॑ कृ॒णुतो॒ दुवः॑ (=परिचरणम्)।+++(४)+++  
@@ -6166,6 +6303,7 @@ ______________
 
 11. Or another person should recite (the rest of the Anuvāka) over her, (before they cohabit).
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 **अन्यो वा** ब्राह्मणः कश्चित् एनौ जायापती समागमिष्यन्तौ अनुवाकशेषेणा**भिमन्त्रयेत** ।
@@ -6178,6 +6316,7 @@ ______________
 यथा वक्ष्यति– "वधूवास उत्तराभिरेतद्विदे दद्यात्" (आप. गृ. ९-११.) इति आश्वलायनेनाप्युक्तं– "सूर्याविदे वधूवस्त्रं दद्यात् ।
 अन्नं ब्राह्मणेभ्यः" (आश्व. गृ. १-८-१३,१४) इति ॥११॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 व्यक्तार्थम् ।
@@ -6198,7 +6337,7 @@ ______________
 <div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/08_12_yadA_malavadvAsAH.md">
 <details open><summary><h3>०८ १२ यदा मलवद्वासाः ...{Loading}...</h3></summary>
 
-यदा मलवद्वासाः स्यादथैनां ब्राह्मण-प्रतिषिद्धानि कर्माणि संशास्ति "यां मलवद्वासस"+++(तै.सं. २.५.१)+++ मित्येतानि ॥
+यदा मलवद्वासाः स्यादथैनां ब्राह्मण-प्रतिषिद्धानि कर्माणि संशास्ति "यां मलवद्वाससम्"+++(तै.सं. २.५.१)+++ इत्येतानि ॥
 
 </details>
 </div>
@@ -6208,9 +6347,9 @@ ______________
 
 12. [^2]  During her (first) monthly illness he instructs her about the things forbidden (to menstruous women), contained in the Brāhmaṇa, in the section, 'A menstruous woman with whom,' &c.
 
-
 [^2]:  Taittirīya Saṃhitā II, 5, 1, 6 seq.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 **मलवद्वासा** इति रजस्वलाया अभिधानम् ।
@@ -6243,6 +6382,7 @@ ______________
 "तिस्रो रात्रीर्" इत्येतेषां प्रतिषेधानां कालनियमः ।
 "अञ्जलिना वा पिबेद्" इत्यादिर्भोजने पात्राविधिः॥१२॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **मलवद्वासाः** कालनिर्गतेन शोणितेन मलिनं वासो वसनं यस्यास्सा; रजस्वलेत्यर्थः ।

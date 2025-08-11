@@ -11,12 +11,10 @@ title = "०२ प्रातःस्मरणम्"
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/041/01_prAtaragniM_prAtarindraM.md">
 <details open><summary><h4>०१ प्रातरग्निं प्रातरिन्द्रं ...{Loading}...</h4></summary>
 
-
-प्रा॒तर् अ॒ग्निं, प्रा॒तर् इन्द्रं॑ **हवामहे**  
-प्रा॒तर् मि॒त्रावरु॑णा, प्रा॒तर् अ॒श्विना॑ ।  
-प्रा॒तर् भगं॑, पू॒षणं॒, ब्रह्म॑ण॒स्पतिं॑  
-प्रा॒तः सोम॑म्, उ॒त रु॒द्रं **हु॑वेम** ॥१॥
-
+प्रात᳓र् अग्नि᳓म् प्रात᳓र् इ᳓न्द्रं हवामहे  
+प्रात᳓र् मित्रा᳓व᳓रुणा प्रात᳓र् अश्वि᳓ना  
+प्रात᳓र् भ᳓गम् पूष᳓णम् ब्र᳓ह्मणस् प᳓तिम्  
+प्रातः᳓ सो᳓मम् उत᳓ रुद्रं᳓ हुवेम
 </details>
 </div>
 </details>
@@ -26,11 +24,10 @@ title = "०२ प्रातःस्मरणम्"
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/041/02_prAtarjitaM_bhagamugraM.md">
 <details open><summary><h4>०२ प्रातर्जितं भगमुग्रं ...{Loading}...</h4></summary>
 
-
-प्रा॒त॒र्-जितं॒ +++(=जयशीलं)+++ भग॑म् उ॒ग्रं **हु॑वेम**  
-व॒यं पु॒त्रम् अदि॑ते॒र् यो वि॑ध॒र्ता।  
-आ॒ध्रश् +++(=दरिद्रश्)+++ चि॒द् यं मन्य॑मानस् तु॒रश्+++(=त्वरमाणो)+++-चि॒द्   
-राजा॑ चि॒द् यं **भगं॑ भ॒क्षी+++(=भजामी)+++त्याह॑** ॥२॥  
+प्रातर्-जि᳓तं +++(=जयशीलं)+++ भ᳓गम् उग्रं᳓ **हुवेम**  
+वयं᳓ पुत्र᳓म् अ᳓दितेर् यो᳓ विधर्ता᳓।  
+आध्र᳓श् +++(=दरिद्रश्)+++ चिद् यं᳓ म᳓न्यमानस् तुर᳓श्+++(=त्वरमाणो)+++-चिद्   
+रा᳓जा चिद् यं᳓ **भ᳓गं भक्षी᳓+++(=भजामी)+++त्या᳓ह** ॥२॥  
 
 </details>
 </div>
@@ -41,11 +38,10 @@ title = "०२ प्रातःस्मरणम्"
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/041/03_bhaga_praNetarbhaga.md">
 <details open><summary><h4>०३ भग प्रणेतर्भग ...{Loading}...</h4></summary>
 
-
-भग॒ प्रणे॑त॒र्, भग॒ सत्य॑राधो॒!  
-भगे॒मां धिय॒म् **उद॑वा॒** +++(=रक्ष)+++ दद॑न् नः ।  
-भग॒ प्र णो॑ **जनय॒** गोभि॒र् अश्वै॒र्  
-भग॒ प्र नृभि॑र् **नृ॒वन्तः॑ स्याम** ॥३॥  
+भ᳓ग प्र᳓णेतर्, भ᳓ग स᳓त्यराधो!  
+भ᳓गेमां᳓ धि᳓यम् **उ᳓दवा** +++(=रक्ष)+++ द᳓दन् नः ।  
+भ᳓ग प्र᳓ णो **जनय** गो᳓भिर् अ᳓श्वैर्  
+भ᳓ग प्र᳓ नृ᳓भिर् **नृव᳓न्तः स्याम** ॥३॥  
 
 </details>
 </div>
@@ -56,11 +52,10 @@ title = "०२ प्रातःस्मरणम्"
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/041/04_utedAnIM_bhagavantaH.md">
 <details open><summary><h4>०४ उतेदानीं भगवन्तः ...{Loading}...</h4></summary>
 
-
-उ॒तेदानीं॒ **भग॑वन्तः स्याम॒॒**+  
-+उ॒त प्र॑पि॒त्व +++(=सायङ्काले)+++ उ॒त मध्ये॒ अह्ना॑म् ।  
-उ॒तोदि॑ता मघ-व॒न्त्! सूर्य॑स्य  
-व॒यं दे॒वानां॑ **सुम॒तौ स्या॑म** ॥४॥  
+उते᳓दा᳓नीं **भ᳓गवन्तः स्याम**+  
++उत᳓ प्रपित्व᳓ +++(=सायङ्काले)+++ उत᳓ म᳓ध्ये अ᳓ह्नाम् ।  
+उतो᳓दिता मघ-वन्त्! सू᳓र्यस्य  
+वयं᳓ देवा᳓नां **सुमतौ᳓ स्याम** ॥४॥  
 
 </details>
 </div>
@@ -68,17 +63,12 @@ title = "०२ प्रातःस्मरणम्"
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_15/05_bhaga_eva.md">
 <details open><summary><h2>०५ भग एव ...{Loading}...</h2></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/041/05_bhaga_eva.md">
-<details open><summary><h4>०५ भग एव ...{Loading}...</h4></summary>
-
 
 भग॑ ए॒व भग॑-वाँ अस्तु देवा॒स्  
 तेन॑ व॒यं **भग॑वन्तः स्याम** ।  
-तं त्वा॑ भग॒ सर्व॒ इज् **जो॑हवीति॒** +++(←जोहवीमीति तैत्तिरीये)+++  
+तं त्वा॑ भग॒ सर्व॒ इज् **जोहवीमि॒** +++(←जोहवीतीति शाकले)+++  
 स नो॑ भग **पुर ए॒ता भ॑वे॒ह** ॥५॥  
 
-</details>
-</div>
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_15/06_samadhvarAyoShaso_namanta.md">
@@ -86,12 +76,11 @@ title = "०२ प्रातःस्मरणम्"
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/041/06_samadhvarAyoShaso_namanta.md">
 <details open><summary><h4>०६ समध्वरायोषसो नमन्त ...{Loading}...</h4></summary>
 
-
-सम् अ॑ध्व॒रायो॒षसो॑ **नमन्त**,  
-दधि॒क्रावे॑व॒ +++(=pegasus-अश्व इव खे)+++ शुच॑ये प॒दाय॑ +++(प्रोष्ठ-पदरूपेण खे, आधाने ऽश्वक्रमवद् भुवि)+++।  
+स᳓म् अध्वरा᳓योष᳓सो **नमन्त**,  
+दधिक्रा᳓वेव +++(=pegasus-अश्व इव खे)+++ शु᳓चये पदा᳓य +++(प्रोष्ठ-पदरूपेण खे, आधाने ऽश्वक्रमवद् भुवि)+++।  
 +++(खचक्रे विपरीतदिशि स्वनक्षत्रय् उत्तर-फाल्गुने वर्त्तित्वाद्)+++  
-अ॒र्वा॒ची॒नं व॑सु॒-विदं॒ +++(=धनलब्धारं)+++ भगं॑ नो॒  
-रथ॑म् इ॒वाश्वा॑ वा॒जिन॒ **आ व॑हन्तु** ॥६॥  
+अर्वाचीनं᳓ वसु-वि᳓दं +++(=धनलब्धारं)+++ भ᳓गं नो  
+र᳓थम् इवा᳓श्वा वाजि᳓न **आ᳓ वहन्तु** ॥६॥  
 +++(३००० BCE इति काले फाल्गुनीषु प्रोष्ठपदासु च सौरायनवर्तनम् अदृश्यतेति प्रासङ्गिकं स्यात्।)+++
 
 </details>
@@ -103,11 +92,10 @@ title = "०२ प्रातःस्मरणम्"
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/041/07_ashvAvatIrgomatIrna_uShAso.md">
 <details open><summary><h4>०७ अश्वावतीर्गोमतीर्न उषासो ...{Loading}...</h4></summary>
 
-
-अश्वा॑वती॒र् गोम॑तीर् न उ॒षासो॑  
-वी॒रव॑ती॒स् **सद॑म् उच्छन्तु** +++(=प्रभातं कुर्वन्तु)+++ भ॒द्राः ।   
-घृ॒तं दुहा॑ना वि॒श्वतः॒ प्रपी॑ना +++(=आप्यायन्त्यः)+++  
-**यू॒यं पा॑त** स्व॒स्तिभि॒स् सदा॑ नः ॥७॥
+अ᳓श्वावतीर् गो᳓मतीर् न उषा᳓सो  
+वीर᳓वतीस् **स᳓दम् उच्छन्तु** +++(=प्रभातं कुर्वन्तु)+++ भद्राः᳓ ।   
+घृतं᳓ दु᳓हाना विश्व᳓तः प्र᳓पीना +++(=आप्यायन्त्यः)+++  
+**यूयं᳓ पात** स्वस्ति᳓भिस् स᳓दा नः ॥७॥
 
 </details>
 </div>
@@ -116,31 +104,26 @@ title = "०२ प्रातःस्मरणम्"
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/082/04_adyA_no.md">
 <details open><summary><h5>०४ अद्या नो ...{Loading}...</h5></summary>
 
-
-अ॒द्या नो॑ देव सवितः  
-प्र॒जाव॑त् **सावीः॒** सौभ॑गम् ।  
-परा॑ दु॒ष्-ष्वप्न्यं॑ **सुव** ॥
+अद्या᳓ नो देव सवितः  
+प्रजा᳓वत् **सावीः** सौ᳓भगम् ।  
+प᳓रा दुष्-ष्व᳓प्न्यं **सुव** ॥
 
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/082/05_vishvAni_deva.md">
 <details open><summary><h5>०५ विश्वानि देव ...{Loading}...</h5></summary>
 
-
-विश्वा॑नि देव सवितर्  
-दुरि॒तानि॒ **परा॑ सुव** ।  
-यद् भ॒द्रं तन् न॒ **आ सु॑व** ॥
-
+वि᳓श्वानि देव सवितर्  
+दुरिता᳓नि प᳓रा सुव  
+य᳓द् भद्रं᳓ त᳓न् न आ᳓ सुव
 </details>
 </div>  
-
 
 [[वेदमन्त्रादिः]]
 
  दुःस्वप्ने पापस्वप्ने च यद्भयं स्वप्नाशने यद(??)मेध्यदर्शने । अग्निर्यविष्ठ्यः प्रणुदतु तद्भुयं शन्नः प्रजाभ्यः शमनः पशुभ्यः ॥  
 
 [[वेदमन्त्रान्तम्]]
-
 
 प्रातः स्मरामि हृदि संस्फुरदात्मतत्त्वं  
 सच्चित्सुखं परमहंसगतिं तुरीयम् ।   
@@ -191,12 +174,4 @@ title = "०२ प्रातःस्मरणम्"
 दुःस्वप्न नाशस्त्विह सुप्रभातं भवेच्च नित्यं भगवत्प्रसादात् ॥१४॥  
 
 इति प्रातःस्मरणम् ॥
-
-
-
-
-
-
-
-
 

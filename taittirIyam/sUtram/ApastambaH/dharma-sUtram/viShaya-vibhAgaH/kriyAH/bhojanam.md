@@ -19,7 +19,6 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/04/09/13_ashTau_grAsAH.md">
 <details open><summary><h4>13 अष्टौ ग्रासा मुनेर्भक्ष्याः ...{Loading}...</h4></summary>
 
-
 > 'अष्टौ ग्रासा मुनेर् भक्ष्याः षोडशाऽरण्य-वासिनः ।  
 द्वात्रिंशतं गृहस्थस्याऽपरिमितं ब्रह्मचारिणः ॥  
 आहिताग्निर् अनरड्वांश् च ब्रह्मचारी च ते त्रयः ।  
@@ -453,7 +452,6 @@ unicode_script: devanagari
 </div>
   
 
-
 ## भोज्यता परिकरजन्या
 ### पाचक-परिवेषक-पङ्क्त्यादौ
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/16/21_aprayatopahatamannamaprayatan_na_tvabhojyam.md">
@@ -783,7 +781,6 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/19/02_ka_AshyAnnaH.md">
 <details open><summary><h4>02 क आश्यान्नः ...{Loading}...</h4></summary>
 
-
 क अश्यान्नः २  
 </details>
 </div>
@@ -802,14 +799,12 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/19/05_yaH_kashchid_dadyAditi.md">
 <details open><summary><h4>06 यः कश्चिद् दद्यादिति ...{Loading}...</h4></summary>
 
-
 यः कश्चिद् दद्यादिति वार्ष्यायणिः +++(आपस्तम्बेनायम् पक्षो निराकरिष्यते ऽग्रे)+++५  
 
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/19/06_yadi_hi_rajaH.md">
 <details open><summary><h4>06 यदि हि रजः ...{Loading}...</h4></summary>
-
 
 यदि ह रजः +++(=पापम्)+++ स्थावरं - पुरुषे भोक्तव्यम्, अथ चेच् चलं - दानेन निर्दोषो भवति ६
 </details>

@@ -3,8 +3,8 @@ title = "०२ सामिधेनीरन्वाह"
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/3/5_iShTi-hautrAdi/02_sAmidhenIranvAha"  newLevelForH1="1" includeTitle="true">
-
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/3/5_iShTi-hautrAdi/02_sAmidhenIranvAha">
+<details open><summary><h1>०२ सामिधेनीरन्वाह ...{Loading}...</h1></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र वो॒ वाजा॑ अ॒भिद्य॑वः ।  
@@ -123,14 +123,14 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वृष॑णन्त्वा व॒यव्ँ वृषन्न्॑ ।  
+वृष॑णन्त्वा व॒यव्ँ वृष॑न् ।  
 वृषा॑ण॒स्समि॑धीमहि ॥3॥  
 अग्ने॒ दीद्य॑तम्बृ॒हत् ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
-वृष॑णन्त्वा व॒यव्ँ वृषन्न्॑ ।  
+वृष॑णन्त्वा व॒यव्ँ वृष॑न् ।  
 वृषा॑ण॒स्समि॑धीमहि ॥3॥  
 अग्ने॒ दीद्य॑तम्बृ॒हत् ।  
 </details>
@@ -238,5 +238,6 @@ unicode_script = "devanagari"
 
 इति तैत्तिरीये ब्राह्मणे इष्टिहौत्रे द्वितीयोऽनुवाकः ॥  
 
+</details>
 </details>
 </div>

@@ -5,8 +5,6 @@ title = "०१ स्त्रीणां जातकादिप्रयो
 
 कन्यापिता ताम्बूलदक्षिणां गृहीत्वा - 
 
-
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/namas_sadase_sabhAM_gopAya/">
 <details open><summary><h5>नम॒स् सद॑से …स॒भाम् मे॑ गोपाय ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/2/04_sphyAdyupasthAnamantrAH_vidhishcha/namas_sadase.md">
@@ -15,6 +13,7 @@ title = "०१ स्त्रीणां जातकादिप्रयो
 
 नम॒स्सद॑से॒ नम॒स्सद॑स॒स्पत॑ये॒ नम॒स्सखी॑नाम्पुरो॒गाणा॒ञ्चक्षु॑षे॒ नमो॑ दि॒वे नमᳶ॑ पृथि॒व्यै
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नम॒स् सद॑से॥  
@@ -23,6 +22,7 @@ title = "०१ स्त्रीणां जातकादिप्रयो
 नमो॑ दि॒वे॥   
 नमᳶ॑ पृथि॒व्यै॥
 </details>
+
 <details><summary>मूलम्</summary>
 
 नम॒स्सद॑से  
@@ -31,6 +31,7 @@ title = "०१ स्त्रीणां जातकादिप्रयो
 नमो॑ दि॒वे   
 नमᳶ॑ पृथि॒व्यै
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 'ऐन्द्रं हि देवतया सदः' इति इन्द्रः सदसस्पतिः पालयिता तस्मै नमः । 'षष्ठयाः पतिपुत्र' इति सत्वम् । सखीनां समानख्यानानामृत्विजां पुरोगाणामग्रतो गन्तृणां प्रधानानां सर्वेषामपि चक्षुषे चक्षुसथानीयाय दर्शनहेतवे सवित्रे च नमः । गतमन्यत् ॥
@@ -52,7 +53,6 @@ title = "०१ स्त्रीणां जातकादिप्रयो
 </details>
 </div> 
 
-
 >
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya.md">
 <details open><summary><h5>अशेषे हे परिषत् ...{Loading}...</h5></summary>
@@ -72,9 +72,8 @@ title = "०१ स्त्रीणां जातकादिप्रयो
 
 > अस्या मम कुमार्याः जातकर्म नामकरण, उपनिष्क्रामण, अन्नप्राशनचूडाकर्मणां स्व-स्वमुख्यकालेषु अकरणेन यो दोषः समजनि तद्दोषपरिहारार्थं प्राजापत्यकृच्छ्रप्रत्याम्नायं यत्किञ्चिद्धिरण्यदानं करिष्ये ।  
 
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/hiraNya-garbha-garbhasthaM_sampradade/">
-<details open><summary><h5>Hira Nya garbha garbhastha M sampradade ...{Loading}...</h5></summary>
+<details open><summary><h5>हिरण्य-गर्भ--गर्भ-स्थं … सम्प्रददे ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/purANam/agni-purANam/sarva-prastutiH/167_ayutalaxakoTihomAH/hiraNya-garbha-garbhastham.md">
 <details open><summary><h10>हिरण्य-गर्भ--गर्भ-स्थं ...{Loading}...</h10></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -84,6 +83,7 @@ title = "०१ स्त्रीणां जातकादिप्रयो
 अनन्त-पुण्य-फल-दम्  
 अतश् शान्तिं प्रयच्छ मे॥
 </details>
+
 <details><summary>मूलम्</summary>
 
 हिरण्यगर्भगर्भस्थं  

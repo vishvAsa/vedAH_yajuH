@@ -20,10 +20,12 @@ _______
 
 Leka, Salekha, Sulekha, may these Adityas rejoicing partake of our oblation;
 </details>
+
 <details><summary>मूलम्</summary>
 
 लेक॒स्सले॑कस्सु॒लेक॒स्ते न॑ आदि॒त्या आज्य॑ञ्जुषा॒णा वि॑यन्तु ।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 द्विपदा विच्छन्दसः, यजूंषि वा । एते **लेकादयो नवादित्याः नः** अस्माकमिदं **आज्यं जुषाणाः** प्रीणानाः **वियन्तु** पिबन्तु । 
@@ -45,10 +47,12 @@ Leka, Salekha, Sulekha, may these Adityas rejoicing partake of our oblation;
 
 Keta, Saketa, Suketa, may these Adityas rejoicing partake of our oblation;
 </details>
+
 <details><summary>मूलम्</summary>
 
 केत॒स्सके॑तस्सु॒केत॒स्ते न॑ आदि॒त्या आज्य॑ञ्जुषा॒णा वि॑यन्तु।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 कित ज्ञाने, सर्वैर्ज्ञायते इति केतः सर्वैरुपासनीयः । सकेतसुकेतौ गतौ ।
@@ -68,10 +72,12 @@ Keta, Saketa, Suketa, may these Adityas rejoicing partake of our oblation;
 
 Vivasvan, Aditi, Devajuti, may these Adityas rejoicing partake of our oblation.
 </details>
+
 <details><summary>मूलम्</summary>
 
 विव॑स्वाँ॒ अदि॑ति॒र्देव॑जूति॒स्ते न॑ आदि॒त्या आज्य॑ञ्जुषा॒णा वि॑यन्तु ॥ [12]
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 विवस्वान् दीप्तिमान् धनवान्वा । अदितिः अखण्डनीयः केनापि । देवजूतिः देवानामपि गतिः, देवैर्वा गन्तव्यः । दासीभारादित्वात्पूर्वपदप्रकृतिस्वरत्वम् । इदं तृतीयाधेयमग्न्याधेयमुपश्रयतीत्येके । पुनराधेयमित्यन्ये ॥

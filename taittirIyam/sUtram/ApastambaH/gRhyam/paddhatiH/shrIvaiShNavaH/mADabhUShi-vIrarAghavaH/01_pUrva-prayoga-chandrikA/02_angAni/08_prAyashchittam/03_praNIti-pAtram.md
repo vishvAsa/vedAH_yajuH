@@ -13,7 +13,6 @@ title = "०३ प्रणीति-पात्रम्"
 </details>
 </div>
 
-
 'घ॒र्मो दे॒वाँ अप्ये॑तु' इति अन्यपात्रम् आनीय तस्मिन् पात्रे जलं पूरयित्वा व्याहृतिभिरुपतिष्ठेत । 
 
 **यदि** प्रणीताः प्रणीयमाना वा सर्वा आपः **परासिच्येरन्**  
@@ -25,88 +24,120 @@ title = "०३ प्रणीति-पात्रम्"
 
 अक्षि॑तो॒ऽस्यक्षि॑त्यै त्वा॒ मा मे॑ क्षेष्ठा अ॒मुत्रा॒मुष्मि॑न्लो॒के  ॥
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अक्षि॑तो॒ऽसि ।
+अक्षि॑तोऽसि ।
 </details>
+
 <details><summary>Keith</summary>
 
 Thou art imperishable,
 </details>
+
 <details><summary>मूलम्</summary>
 
-अक्षि॑तो॒ऽसि ।
+अक्षि॑तोऽसि ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+अक्षि॑तः । अ॒सि॒ ।  
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अक्षितः अक्षीणोसि ।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अक्षि॑त्यै त्वा +++(ददामि)+++।
 </details>
+
 <details><summary>Keith</summary>
 
 for imperishableness thee;
 </details>
+
 <details><summary>मूलम्</summary>
 
 अक्षि॑त्यै त्वा ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+अक्षि॑त्यै । त्वा॒ ।  
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अक्षित्यै इह चामुत्र चाक्षयाय त्वां ददामीति सामर्थ्यात् ।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मा मे॑ क्षेष्ठा अ॒मुत्रा॒मुष्मि॑न् लो॒के  ॥  [10]
+मा मे॑ क्षेष्ठा अ॒मुत्रा॒मुष्मि॑ल्ँ लो॒के  ॥  [10]
 </details>
+
 <details><summary>Keith</summary>
 
 mayst thou not perish for me, yonder, in yonder world.
 </details>
+
 <details><summary>मूलम्</summary>
 
 मा मे॑ क्षेष्ठा अ॒मुत्रा॒मुष्मि॑न्लो॒के  ॥  [10]
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+मा । मे॒ । क्षे॒ष्ठाः॒ । अ॒मुत्र॑ । अ॒मुष्मि॑न् । लो॒के ॥ 
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 स त्वममुत्र परलोके अस्मि[मुष्मि]न्नैन्द्रे ब्राह्मे प्राजापत्ये वा मा क्षेष्ठाः परलोके क्षयं मा गमः । यद्वा - मे ममामुष्मिन् लोके यदाहं परलोके भविष्यामि तदा तत्र ममोपभोगार्थम् । इह हि कृत्वा परत्र भुञ्जते । 'क्षीयते वा अमुष्मिन्लोके' इत्यादि ब्राह्मणम् ॥
 
 इति षष्ठे तृतीयोनुवाकः ॥
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+हेऽन्वाहार्य त्वमक्षितोऽक्षीणोऽसि। अपरिमितो निरुप्य इति ब्राह्मणोक्तेर्दक्षिणाग्नावन्वाहार्यं महान्तमपरिमितमोदनं पचतीति सूत्रकारोक्तेश्च।
+
+तस्मात्परलोकेऽप्यक्षित्यै त्वां ददामीति शेषः। तेनाभिप्रायेण दीयमानत्वादमुत्र परलोके मम भोगाय मा क्षेष्ठाः क्षयं मा प्राप्नुहि। तस्मादहमप्यमुष्मिल्ँलोके त्वां यथेच्छमनुभवामीति शेषः।  
+</details>
 </details>
 </div>  
-
 
 'आपोहिष्ठे'त्य् अन्याद्भिः पूरयित्वा 
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/01_Apo_hi.md">
 <details open><summary><h2>०१ आपो हि ...{Loading}...</h2></summary>
 
-आपो॒ हि ष्ठा म॑यो॒भुव॑स्  
-ता न॑ ऊ॒र्जे+++(जाः)+++ द॑धातन ।  
-म॒हे रणा॑य॒+++(=रमणीयाय)+++ चक्ष॑से+++(=दर्शनाय)+++ ॥
+आ᳓पो हि᳓ ष्ठा᳓ मयो-भु᳓वस्  
+ता᳓ न ऊर्जे᳓+++(जाः)+++ दधातन ।  
+महे᳓ र᳓णाय+++(=रमणीयाय)+++ च᳓क्षसे+++(=दर्शनाय)+++ ॥
 
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/02_yo_vaH.md">
 <details open><summary><h2>०२ यो वः ...{Loading}...</h2></summary>
 
-
-यो वः॑ शि॒वत॑मो॒ रस॑स्  
-तस्य॑ भाजयते॒ह नः॑ ।  
-उ॑श॒तीर्+++(=कामयमाना)+++ इ॑व मा॒तरः॑ ॥
+यो᳓ वः शिव᳓तमो र᳓सस्  
+त᳓स्य भाजयतेह᳓ नः ।  
+उशती᳓र्+++(=कामयमाना)+++ इव मात᳓रः ॥
 
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/03_tasmA_araM.md">
 <details open><summary><h2>०३ तस्मा अरं ...{Loading}...</h2></summary>
 
-
-+++(रसाय)+++ तस्मा॒ अरं॑+++(=शीघ्रम्)+++ गमाम वो  
-यस्य॒ +++(प्रभावेण)+++ क्षया॑य॒+++(=निवासाय)+++ जिन्व॑थ+++(=प्रीणयथ)+++ ।  
-आपो॑ +++(प्रजा)+++ ज॒नय॑था च नः ॥
++++(रसाय)+++ त᳓स्मा अ᳓रं+++(=शीघ्रम्)+++ **गमाम** वो  
+यस्य +++(प्रभावेण)+++ **क्ष᳓याय**+++(=निवासाय)+++ **जि᳓न्वथ**+++(=प्रीणयथ)+++ ।  
+आ᳓पो +++(प्रजा)+++ **जन᳓यथा** च नः ॥  
++++(`चादिषु` च इति न स्वर-निघातः। )+++
 
 </details>
 </div>
@@ -121,6 +152,7 @@ mayst thou not perish for me, yonder, in yonder world.
 प॒शून् मे॑ धारयत।  
 मा म॒ आयुः॑ प्रा॒णः प्र॒जाः प॒शवः॒ परा॑सिच्येरन्।
 </details>
+
 <details><summary>मूलम्</summary>
 
 भूर्  

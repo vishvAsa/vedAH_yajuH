@@ -14,10 +14,9 @@ _______
 <div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/050/04_taraNirvishvadarshato_jyotiShkRdasi.md">
 <details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
 
-
-त॒रणि॑र् वि॒श्व-द॑र्श-तो  
-**ज्योति॒ष्-कृद् अ॑सि** सूर्य ।  
-विश्व॒म् **आ भा॑सि** रोच॒नम् ॥
+तर᳓णिर् विश्व᳓-दर्श-तो  
+**ज्योतिष्-कृ᳓द् असि** सूर्य ।  
+वि᳓श्वम् **आ᳓ भासि** रोचन᳓म् ॥
 
 </details>
 </div>
@@ -29,12 +28,14 @@ _______
 - ऋषिः - प्रस्कण्वः काण्वः
 - छन्दः - गायत्री
 </details>
+
 <details><summary>Thomson & Solcum</summary>
 
-तर꣡णिर् विश्व꣡दर्शतो  
-ज्योतिष्कृ꣡द् असि सूरिय  
-वि꣡श्वम् आ꣡ भासि रोचन꣡म्
+तर᳓णिर् विश्व᳓दर्शतो  
+ज्योतिष्कृ᳓द् असि सूरिय  
+वि᳓श्वम् आ᳓ भासि रोचन᳓म्
 </details>
+
 <details><summary>Vedaweb annotation</summary>
 
 _________
@@ -76,11 +77,13 @@ víśvam ← víśva- (nominal stem)
 {case:NOM, gender:N, number:SG}
 
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 त॒रणिः॑ । वि॒श्वऽद॑र्शतः । ज्यो॒तिः॒ऽकृत् । अ॒सि॒ । सू॒र्य॒ ।  
 विश्व॑म् । आ । भा॒सि॒ । रो॒च॒नम् ॥
 </details>
+
 <details><summary>Hellwig Grammar</summary>
 
 -   *taraṇir* ← *taraṇiḥ* ← *taraṇi*
@@ -147,6 +150,7 @@ _________
 _________
 
 </details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सूर्य** त्वं **तरणिः** तरिता अन्येन गन्तुमशक्यस्य महतोऽध्वनो गन्ता **असि** । तथा च स्मर्यते- ‘ योजनानां सहस्रे द्वे द्वे शते द्वे च योजने । एकेन निमिषार्धेन क्रममाण नमोऽस्तु ते' इति । यद्वा । उपासकानां रोगात् तारयितासि ।  ‘ आरोग्यं भास्करादिच्छेत् ' इति स्मरणात् । 
@@ -164,10 +168,12 @@ _________
 
 **भासि**।  ‘भा दीप्तौ । अन्तर्भावितण्यर्थात् लटि अदादित्वात् शपो लुक् ॥
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तरणिः क्षिप्रगामी पापानां तारयिता वा । तरतेरनिप्रत्ययः । विश्वदर्शतः विश्वं दर्शयितव्यं यस्य सः विश्वदर्शतः । दृशेरौणादिकोतच्प्रत्ययः, 'बहुव्रीहौ विश्वं संज्ञायाम्' इति विश्वशब्दस्यान्तोदात्तत्वम् । यद्वा - विश्वस्य दर्शयिता विश्वदर्शतः । व्यत्ययेन पूर्वपदान्तोदात्तत्वम् । ज्योतिष्कृत् ज्योतिषः प्रकाशस्य कर्ता उत्पादयिता । यद्वा - ज्योतिषां ग्रहनक्षत्रादीनां कर्ता उद्भावयिता, त्वदधीनप्रकाशत्वात्तेषाम् । यथाहुः - 'सूर्याभिमुखानि दीप्यन्ते' इति । हे सूर्य ईदृशस्त्वमसि सत्वं विश्वां रोचनं प्रकाशकं ग्रहनक्षत्रादिकं सुषुम्नाख्येन रश्मिनानुप्रविश्य आभासि दृश्यसे लोकेन, तानि वा प्रकाशयसि, तस्मादुच्यते 'ज्योतिष्कृदसि' इति ॥
 </details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -182,44 +188,53 @@ _________
 
 Jyotiṣkṛt = giving light to all things, even to the moon and the plural nets, by night; for, they are of a watery substance from which the rays of the sun are reflected (like a mirror in a door-way reflecting sun's rays, to light up a chamber); metaphysical explanation: sun is the **supreme spirit**, who enables all beings to pass over the ocean of existence, who is beheld by all desiring final emancipation, who authors true light, and who illuminates everything through the light of the mind
 </details>
+
 <details><summary>Jamison Brereton</summary>
 
 Transiting, visible to all, a light-maker are you, o Sun.  
 You illuminate the whole luminous realm.
 </details>
+
 <details><summary>Jamison Brereton Notes</summary>
 
 I don't understand Geldner’s “pünktlich” for taráṇiḥ, which does not seem to reflect any of the possible meanings of √tṝ ‘cross over, surpass, etc.’. Here the idea is clearly that the Sun crosses the sky.
 </details>
+
 <details><summary>Griffith</summary>
 
 Swift and all beautiful art thou, O Surya, maker of the light,  
      Illuming all the radiant realm.
 </details>
+
 <details><summary>Macdonell</summary>
 
 Swift-moving, visible to all, Maker of light thou art, O Sun, Illuming all the shining space.
 </details>
+
 <details><summary>Keith</summary>
 
 Overcoming, seen of all,  
 Light-making art thou, Surya;  
 Thou dost illumine all the firmament.
 </details>
+
 <details><summary>Geldner</summary>
 
 Pünktlich, allsichtbar, lichtmachend bist du Surya; du bescheinst den ganzen Lichthimmel.
 </details>
+
 <details><summary>Grassmann</summary>
 
 Für alle sichtbar, schnellen Laufs erzeugst du Licht, o Sonnengott, Den ganzen Raum erhellest du.
 </details>
+
 <details><summary>Elizarenkova</summary>
 
 Пересекающий (пространство), всем видный,  
 Создающий свет – (вот каков) ты, Сурья.  
 Ты даруешь все светлое пространство.
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - सूर्यः
@@ -227,34 +242,42 @@ Für alle sichtbar, schnellen Laufs erzeugst du Licht, o Sonnengott, Den ganzen 
 - पिपीलिकामध्यानिचृद्गायत्री
 - षड्जः
 </details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 
 फिर वह कैसा है, इस विषय का उपदेश अगले मंत्र में किया है।
 </details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  हे (सूर्य्य) चराचर के आत्मा ईश्वर ! जिससे (विश्वदर्शतः) विश्व के दिखाने और (तरणिः) शीघ्र सबका आक्रमण करने (ज्योतिष्कृत्) स्वप्रकाश स्वरूप आप ! (रोचनम्) रुचिकारक (विश्वम्) सब जगत् को प्रकाशित करते हैं इसीसे आप स्वप्रकाशस्वरूप हैं ॥४॥
 </details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
 भावार्थभाषाः -  इस मन्त्र में वाचकलुप्तोपमालंकार है। जैसे सूर्य्य और बिजुली बाहर भीतर रहने वाले सब स्थूल पदार्थों को प्रकाशित करते हैं वैसे ही ईश्वर भी सब वस्तु मात्र को प्रकाशित करता है ॥४॥
 </details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
 
 अन्वय:  पुनः स कीदृशइत्युपदिश्यते।
 </details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 
 (तरणिः) क्षिप्रतया संप्लविता (विश्वदर्शतः) यो विश्वस्य दर्शयिता (ज्योतिष्कृत्) यो ज्योतिः प्रकाशात्मकैः सूर्यादिलोकं करोति सः (असि) (सूर्य) सर्वप्रकाशक सर्वात्मन् (विश्वम्) सर्वं जगत् (आ) समन्तात् (भासि) प्रकाशयसि (रोचनम्) अभिप्रेतं रुचिकरम् ॥४॥
 </details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  हे सूर्य्येश्वर ! यतो विश्वदर्शतस्तरणिर्ज्योतिष्कृत् त्वं रोचनं विश्वमाभासि तस्मात्स्वयं प्रकाशोऽसि ॥४॥
 </details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
 भावार्थभाषाः -  अत्र वाचकलुप्तोपमालंकारः। यथा सूर्य्यविद्युतौ बाह्याभ्यन्तरस्थान्मूर्त्तान् पदार्थान् प्रकाशेतान्तथेश्वरः सर्वमखिलं जगत् प्रकाशयति ॥४॥
 </details>
+
 <details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
 
 भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. जसा सूर्य व विद्युत आत बाहेर राहणाऱ्या सर्व स्थूल पदार्थांना प्रकाशित करतात तसेच ईश्वरही सर्व वस्तूंना प्रकाशित करतो. ॥ ४ ॥
@@ -273,14 +296,17 @@ Für alle sichtbar, schnellen Laufs erzeugst du Licht, o Sonnengott, Den ganzen 
 
 उ॒प॒या॒म-गृ॑हीतो ऽसि।
 </details>
+
 <details><summary>Keith</summary>
 
 Thou art taken with a support/ foundation.
 </details>
+
 <details><summary>मूलम्</summary>
 
 उ॒प॒या॒मगृ॑हीतोऽसि।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 उपयम्यन्ते स्वात्मन्येव नियम्यन्ते भूतजातान्यस्मिन् अभिन्नेधिकरणे इत्युपयामः पृथ्वी । 'इयं वा उपयामः' इति ब्राह्मणम् । 'हलश्च' इति घञ्, थाथादिस्वरेणान्तोदात्तत्वम् । तेन गृहीतस्त्वमसि ; कोन्यस्त्वां गृहीतुं क्षम इति भावः ; पृथिव्यापो गृहीष्यामीतिवत् । 'तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् । यद्वा - उपयामार्थं पृथिव्यर्थं गृहीतोसीति ; हे सोम ।   
@@ -297,10 +323,12 @@ ________________
 
 [विश्वे॑भ्यस्त्वा दे॒वेभ्यः॑]
 </details>
+
 <details><summary>मूलम्</summary>
 
 [विश्वे॑भ्यस्त्वा दे॒वेभ्यः॑]
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अस्य ग्रहणमन्त्रस्य साकाङ्क्षत्वात्सादनमन्त्रे श्रुतं विश्वेभ्यस्त्वेति सम्बध्यते ॥
@@ -311,16 +339,19 @@ _______
 
 2अधिवदते ॥
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 आग्रय॒णो॑ऽसि॒ स्वा॑ग्रयणो॒ जिन्व॑ य॒ज्ञञ्जिन्व॑ य॒ज्ञप॑तिम॒भि सव॑ना पाहि॒ विष्णु॒स्त्वाम्पा॑तु॒ विश॒न्त्वम्पा॑हीन्द्रि॒येण
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ॒ग्र॒य॒णो॑ऽसि ।  
 स्वा॑ग्रयणो॒ जिन्व॑ ।    
 य॒ज्ञञ्जिन्व॑ य॒ज्ञप॑तिम्  +++(जिन्व)+++ ।
 </details>
+
 <details><summary>Keith</summary>
 
 thou art the leader,  
@@ -328,36 +359,42 @@ thou art the good leader;
 quicken the sacrifice,  
 quicken the lord of the sacrifice;
 </details>
+
 <details><summary>मूलम्</summary>
 
 आ॒ग्र॒य॒णो॑ऽसि ।  
 स्वा॑ग्रयणो॒ जिन्व॑ ।    
 य॒ज्ञञ्जिन्व॑ य॒ज्ञप॑तिम्  +++(जिन्व)+++ ।  
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 आग्रयणोसि आग्रयणाख्यो ग्रहस्त्वमस्ति । अग्रे इर्यते गृह्यत इत्यग्रयणः ग्रहाणामग्रेसरोसि । 'ते देवा आग्रयाणाग्रान्ग्रहानपश्यन्' इति ब्राह्मणम् । शकन्ध्वादित्वात्पररूपत्वम् । अग्रयाण एवाग्रयणाः । 'सान्नाय्यानुजावर' इत्यादिना स्वार्थिकोण्निपातितः । यद्वा - वाचा अग्रे प्रथममीयत इत्याग्रयणः । 'वाग्वै देवेभ्यः' इत्यादि ब्राह्मणं 'तदाग्रयणस्याग्रयणत्वम्' इत्यन्तम् ।
 
 स्वाग्रयाणः, अग्र्यं श्रैष्ठ्यं यन्ति प्राप्नुवन्त्यनेनेत्याग्रयणः, शोभन आग्रयणस्स्वाग्रयणः । त्वां गृहीत्वा देवा अग्रं पर्यायन् । तथा यजमानोपि त्वां गृहीत्वा समानानामग्रं पर्येत्विति भावः । 'अग्रमेव समानानां पर्येति' इति ब्राह्मणम् । यस्मादीदृशस्त्वमसि तस्माज्जिन्व प्रीणय यज्ञं, यज्ञपतिं च जिन्व । उभयत्रापि वाक्यादित्वान्न निहन्यते । जिवि प्रीणने ।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ॒भि सव॑ना पाहि ।  
 विष्णु॒स् त्वाम् पा॑तु ।  
 विश॒न् त्वम् पा॑हीन्द्रि॒येण॑।
 </details>
+
 <details><summary>Keith</summary>
 
 guard the pressings;  
 let Visnu guard thee,  
 do thou guard the folk with thy power;
 </details>
+
 <details><summary>मूलम्</summary>
 
 अ॒भि सव॑ना पाहि ।  
 विष्णु॒स्त्वाम्पा॑तु ।  
 विश॒न् त्वम् पा॑हीन्द्रि॒येण॑।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 सवना सवनानि, अभि पाहि आभिमुख्येन पालय तवाक्षीणतया । त्वयि हीक्षीणे प्रायश्चित्तप्रसङ्गादरक्षितानि सवनानि स्युः; तस्मान्मा क्षेष्ठा इत्यर्थः ।
@@ -367,24 +404,27 @@ do thou guard the folk with thy power;
 तमपि विशं प्रजां यजमानस्य स्वभूतां पाहि सर्वां वा, इन्द्रियेणेत्थंभूतां प्रजामविकलेन्द्रियां कुर्वित्यर्थः ॥
 </details>
 
-
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3एवमनुद्रुत्य 'एष ते योनिर्विश्वेभ्यस्त्वा देवेभ्यः' इति सादयति ।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ए॒ष ते॒ योनि॒र्, विश्वे॑भ्यस् त्वा दे॒वेभ्यः॑ ॥ [11]
 </details>
+
 <details><summary>Keith</summary>
 
 this is thy birthplace; to the All-gods thee!
 </details>
+
 <details><summary>मूलम्</summary>
 
 ए॒ष ते॒ योनि॒र्विश्वे॑भ्यस्त्वा दे॒वेभ्यः॑ ॥ [11]
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 'वैश्वदेवो ह्येष देवतया' इति ब्राह्मणम् । 'आत्मा वा एष यज्ञस्य यदाग्रयणः' इत्यादि च ॥
@@ -396,10 +436,12 @@ this is thy birthplace; to the All-gods thee!
 सूर्या॑य त्वा॒ भ्राज॑स्वते ।
 
 </details>
+
 <details><summary>Keith</summary>
 
 to Surya the radiant thee!
 </details>
+
 <details><summary>मूलम्</summary>
 
 सूर्या॑य त्वा॒ भ्राज॑स्वते  ।
@@ -410,19 +452,23 @@ _______
 
 (सादनम्)
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ए॒ष ते॒ योनि॒स्सूर्या॑य त्वा॒ भ्राज॑स्वते ॥ [32]   
 </details>
+
 <details><summary>Keith</summary>
 
 This is thy birthplace; to Surya the radiant thee!
 </details>
+
 <details><summary>मूलम्</summary>
 
 ए॒ष ते॒ योनि॒स्सूर्या॑य त्वा॒ भ्राज॑स्वते ॥ [32]   +++(सादनमन्त्रः)+++
 
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 2-3ग्रहणसादने गते । न त्वाम्नातामित्युक्तम् ॥

@@ -3,8 +3,8 @@ title = "१० सूक्तवाकः"
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/3/5_iShTi-hautrAdi/10_sUktavAkaH"  newLevelForH1="1" includeTitle="true">
-
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/3/5_iShTi-hautrAdi/10_sUktavAkaH">
+<details open><summary><h1>१० सूक्तवाकः ...{Loading}...</h1></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ॒दन्द्या॑वापृथिवी भ॒द्रम॑भूत् ।  
@@ -295,7 +295,6 @@ unicode_script = "devanagari"
 किंबहुना - सर्वं प्रियमात्मन आशास्ते ।  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 यद॒नेन॑ ह॒विषाऽऽशा॑स्ते ।  
@@ -374,7 +373,6 @@ unicode_script = "devanagari"
 उ॒भे च॑ नो॒ द्यावा॑पृथि॒वी अँह॑सस्पाताम् ।  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 इ॒ह गति॑र्वा॒मस्ये॒दञ्च॑ ।  
@@ -397,5 +395,6 @@ unicode_script = "devanagari"
 
 इति तैत्तिरीये ब्राह्मणे तृतीये पञ्चमे दशमोऽनुवाकः ॥  
 
+</details>
 </details>
 </div>

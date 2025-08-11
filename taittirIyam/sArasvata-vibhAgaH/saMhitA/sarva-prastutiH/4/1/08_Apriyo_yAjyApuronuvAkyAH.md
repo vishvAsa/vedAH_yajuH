@@ -48,7 +48,7 @@ title = "०८ आप्रियो याज्यापुरोनुवा
 
 पाठान्तरं काशिकानुवादे -
 
-> तनू꣡न꣡पात् (tanu being formed by ऊ Unadi I.80 has acute on the final, according to others it has acute on the first and napat = na pati or na palayati with क्विप् and has acute on the first). 
+> तनू᳓न᳓पात् (tanu being formed by ऊ Unadi I.80 has acute on the final, according to others it has acute on the first and napat = na pati or na palayati with क्विप् and has acute on the first). 
 </details>
 
 

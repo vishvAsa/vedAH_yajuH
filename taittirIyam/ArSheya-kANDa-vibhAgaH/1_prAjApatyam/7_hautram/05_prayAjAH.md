@@ -3,8 +3,8 @@ title = "०५ प्रयाजाः"
 unicode_script = "devanagari"
 
 +++
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/3/5_iShTi-hautrAdi/05_prayAjAH"  newLevelForH1="1" includeTitle="true">
-
+<div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/3/5_iShTi-hautrAdi/05_prayAjAH">
+<details open><summary><h1>०५ प्रयाजाः ...{Loading}...</h1></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स॒मिधो॑ अग्न॒ आज्य॑स्य वियन्तु ।  
@@ -49,5 +49,6 @@ unicode_script = "devanagari"
 
 इति तैत्तिरीये ब्राह्मणे तृतीये पञ्चमे पञ्चमोऽनुवाकः ॥  
 
+</details>
 </details>
 </div>

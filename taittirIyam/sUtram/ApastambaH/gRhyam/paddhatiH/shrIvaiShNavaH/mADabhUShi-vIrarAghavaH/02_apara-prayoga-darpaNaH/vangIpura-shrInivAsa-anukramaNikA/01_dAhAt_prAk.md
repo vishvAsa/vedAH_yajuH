@@ -57,6 +57,7 @@ title = "०१ दाहात् प्राक्"
 अनन्त-पुण्य-फल-दम्  
 अतश् शान्तिं प्रयच्छ मे॥
 </details>
+
 <details><summary>मूलम्</summary>
 
 हिरण्यगर्भगर्भस्थं  
@@ -71,7 +72,6 @@ _________
 </details>
 </details>
 </div>  
-
 
 > तद्धिरण्यम् अक्षतासहितं तुभ्यमहं सम्प्रददे न मम
 
@@ -127,129 +127,156 @@ _________
 
 [[2]]
 
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/1/5_nAxatrAdi/07_AyuShaH_prANam">
 <details open><summary><h5>०७ सन्तत्याख्येष्टकामन्त्राः ...{Loading}...</h5></summary>
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 अग्निचयनशेषा इष्टकोपधानमन्त्राः, तत्र सन्तत्याख्येष्टकामन्त्राः
 </details>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1-12 अतः परं द्वावनुवाकाव् अग्निकाण्डम् अग्न्यार्षेयम् । तत्र प्रथमायां चितौ द्वादश-संततीर् उपदधाति आयुषः प्राणं इत्याद्याः ॥ 
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आयु॑षᳶ प्रा॒णँ सन्त॑नु ।
 </details>
+
 <details><summary>मूलम्</summary>
 
 आयु॑षᳶ प्रा॒णँ सन्त॑नु ।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 **आयुषो** वयसो ऽवस्थितत्वाद्धेतोः **प्राणं संतनु**, संततमविच्छिन्नं कुरु । सति ह्यायुषि प्राणास्सन्तन्यन्ते तस्मादायुरेव तावत्संतनु ततः प्राणादिकमिति गम्यते ।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रा॒णाद् अ॑पा॒नँ सन्त॑नु ।
 </details>
+
 <details><summary>मूलम्</summary>
 
 प्रा॒णाद् अ॑पा॒नँ सन्त॑नु ।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 सत्यपि प्राणे निश्शेषनिष्क्रमणभयादपानाविच्छेदः प्रार्थ्यते ।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ॒पा॒नाद् व्या॒नँ सन्त॑नु ।
 </details>
+
 <details><summary>मूलम्</summary>
 
 अ॒पा॒नाद् व्या॒नँ सन्त॑नु ।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तदुभयसद्भावे रसव्यापनाय व्यानप्रार्थना, अन्यथा शरीरधारणासिद्धेः ।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्या॒नाच् चक्षु॒स् सन्त॑नु ।
 </details>
+
 <details><summary>मूलम्</summary>
 
 व्या॒नाच् चक्षु॒स् सन्त॑नु ।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ध्रियमाणेऽपि शरीरे चक्षुः प्रधानं करणमिति प्रार्थ्यते रूपग्रहणार्थम् ।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चक्षु॑ष॒श् श्रोत्रँ॒ सन्त॑नु ।
 </details>
+
 <details><summary>मूलम्</summary>
 
 चक्षु॑ष॒श् श्रोत्रँ॒ सन्त॑नु ।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 नामग्रहणार्थं श्रोत्रप्रार्थना ।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रोत्रा॒न् मन॒स् सन्त॑नु ।
 
 मन॑सो॒ वाचँ॒ सन्त॑नु ।
 </details>
+
 <details><summary>मूलम्</summary>
 
 श्रोत्रा॒न् मन॒स् सन्त॑नु ।
 
 मन॑सो॒ वाचँ॒ सन्त॑नु ।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 एतेष्ववस्थितेष्वपि वाङ्मनसाधीना व्यवहारस्थिति रिति प्रार्थ्यते ।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वा॒च आ॒त्मानँ॒ सन्त॑नु ।
 </details>
+
 <details><summary>मूलम्</summary>
 
 वा॒च आ॒त्मानँ॒ सन्त॑नु ।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 सर्वेषामेषामवस्थितौ आत्मा तन्त्रं इत्यत्र तस्य सन्तानप्रार्थना ।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ॒त्मन॑ᳶ पृथि॒वीँ सन्त॑नु ।
 पृ॒थि॒व्या अ॒न्तरि॑क्षँ॒ सन्त॑नु ।
 </details>
+
 <details><summary>मूलम्</summary>
 
 आ॒त्मन॑ᳶ पृथि॒वीँ सन्त॑नु ।
 पृ॒थि॒व्या अ॒न्तरि॑क्षँ॒ सन्त॑नु ।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तस्य सन्ततस्य उपकारकत्वात् पृथिव्यादिसन्तानं प्रार्थयते ।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ॒न्तरि॑क्षा॒द् दिव॒ ँ॒सन्त॑नु ।
 दिव॒स् सुव॒स् सन्त॑नु ॥ 32 ॥  
 </details>
+
 <details><summary>मूलम्</summary>
 
 अ॒न्तरि॑क्षा॒द् दिव॒ ँ॒सन्त॑नु ।
 दिव॒स् सुव॒स् सन्त॑नु ॥ 32 ॥  
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 एतेषां सर्वेषां उपकाराय सुवः आदित्यः प्रवर्तत इति
@@ -388,7 +415,6 @@ _________
 द्वादश-गृहीतेन आज्येन  
 "ओं भूर्भुवस्सुवः स्वाहा" - इत्येतया अग्नौ हुत्वा ("प्रजापतय इदम्")
 
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/18_ayAshchAgne-syanabhishastIshcha_satyamittvamayA.md">
 <details open><summary><h2>१८ अयाश्चाग्नेऽस्यनभिशस्तीश्च सत्यमित्त्वमया ...{Loading}...</h2></summary>
 
@@ -426,7 +452,7 @@ _________
 
 यत्पा॑क॒त्रा मन॑सा दी॒नद॑क्षा॒ न ।  
 य॒ज्ञस्य॑ म॒न्वते॒ मर्ता॑सः ।  
-अ॒ग्निष्टद्धोता॑ क्रतु॒विद्वि॑जा॒नन्न् ।  
+अ॒ग्निष्टद्धोता॑ क्रतु॒विद्वि॑जा॒नन् ।  
 यजि॑ष्ठो दे॒वाँ ऋ॑तु॒शो य॑जाति ॥115॥
 </details>
 </div>
@@ -451,6 +477,7 @@ _________
 अनन्त-पुण्य-फल-दम्  
 अतश् शान्तिं प्रयच्छ मे॥
 </details>
+
 <details><summary>मूलम्</summary>
 
 हिरण्यगर्भगर्भस्थं  
@@ -465,7 +492,6 @@ _________
 </details>
 </details>
 </div>  
-
 
 > इदमौपासनयोग्यतासिद्ध्यर्थं यत्किञ्चित् हिरण्यं तुभ्यमहं सम्प्रददे न मम उपवीती प्राणानायम्य प्राचीनावीती अनेककालसायम्प्रातराहुतीनामकरणप्रायश्चित्तार्थम् औपासनहोमद्रव्यतण्डुलदानं करिष्ये
 
@@ -607,6 +633,7 @@ _________
 अनन्त-पुण्य-फल-दम्  
 अतश् शान्तिं प्रयच्छ मे॥
 </details>
+
 <details><summary>मूलम्</summary>
 
 हिरण्यगर्भगर्भस्थं  
@@ -621,7 +648,6 @@ _________
 </details>
 </details>
 </div>  
-
 
 > गोत्रस्य शर्मणः प्रेतस्य मरणसमये भयात् जलमलोत्सर्गप्रायश्चित्तार्थं, पूतीगन्धदोषनिवृत्त्यर्थं वा प्राजापत्यकृच्छ्रत्रयप्रत्याम्नायं यत्किञ्चिद्धिरण्यं नानागोत्रेभ्यः विप्रेभ्यः सम्प्रददे न मम 
 
@@ -698,7 +724,7 @@ _________
 > गोत्रस्य शर्मणः प्रेतस्य पशुभिर्हतप्रायश्चित्तार्थं प्राजापत्यकृच्छ्रप्रतिनिधि यत्किञ्चित् हिरण्यरूपेण करिष्ये ।  
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/hiraNya-garbha-garbhasthaM_sampradade/">
-<details open><summary><h5>Hira Nya garbha garbhastha M sampradade ...{Loading}...</h5></summary>
+<details open><summary><h5>हिरण्य-गर्भ--गर्भ-स्थं … सम्प्रददे ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/purANam/agni-purANam/sarva-prastutiH/167_ayutalaxakoTihomAH/hiraNya-garbha-garbhastham.md">
 <details open><summary><h10>हिरण्य-गर्भ--गर्भ-स्थं ...{Loading}...</h10></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -708,6 +734,7 @@ _________
 अनन्त-पुण्य-फल-दम्  
 अतश् शान्तिं प्रयच्छ मे॥
 </details>
+
 <details><summary>मूलम्</summary>
 
 हिरण्यगर्भगर्भस्थं  
@@ -732,7 +759,6 @@ _________
 </details>
 </details>
 </div>  
-
 
 विप्राय दत्वा,
 
@@ -855,7 +881,7 @@ _________
 
 > अयाश्च होमान्ते । जातवेदसे सुनवाम सोममरातीयतो निजहाति वेदः । स नः पर्षदति दुर्गाणि विश्वा नावेव सिन्धुँ दुरितात्यग्निः स्वाहा । अग्नये जातवेदस इदम् । 
 तामग्निवर्णां तपसा ज्वलन्तीं वैरोचनीं कर्मफलेषु जुष्टाम् । दुर्गां देवीँ शरणमहं प्रपद्ये सुतरसि तरसे नमः स्वाहा । दुर्गाया इदम् ।  
-अग्ने त्वं पारया नव्यो अस्मान् स्वस्तिभिरति दुर्गाणि विश्वा । पूश्च पृथ्वी बहुला न उर्वी भवा तोकाय तनयाय शँय्योः स्वाहा । अग्नय इदम् ।  
+अग्ने त्वं पारया नव्यो अस्मान् स्वस्तिभिरति दुर्गाणि विश्वा । पूश्च पृथ्वी बहुला न उर्वी भवा तोकाय तनयाय शय्ँयोः स्वाहा । अग्नय इदम् ।  
 विश्वानि नो दुर्गहा जातवेदस्सिन्धुन्न नावा दुरितातिपर्षि । 
 >
 > [[25]]

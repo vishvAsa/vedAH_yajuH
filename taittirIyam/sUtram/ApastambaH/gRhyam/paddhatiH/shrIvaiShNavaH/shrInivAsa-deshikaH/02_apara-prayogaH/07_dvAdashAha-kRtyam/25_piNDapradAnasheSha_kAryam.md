@@ -41,10 +41,22 @@ title = "२५ पिण्डप्रदानशेषकार्यम्"
 
 इति उद्वासयेत्। प्रथमतः मध्यमं पिण्डद्वयं, ततः दक्षिणतः स्थितं पिण्डद्वयं, ततः उत्तरस्थितं पिण्डद्वयमिति उद्वासनक्रमः। अधः आस्तृतान्दर्भानादाय 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/yeShAM_na_pitA.md" unfilled newLevelForH1="5" includeTitle="false"> 
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/yeShAM_na_pitA.md">
+<details open><summary><h5>येषां न पिता ...{Loading}...</h5></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> येषां न पिता न भ्राता, न बन्धुः, नान्य गोत्रिणः।  
+येषां न पिता न भ्राता,  
+न बन्धुर्, नान्य गोत्रिणः।  
+ते तृप्तिम् अखिला यान्तु  
+मया त्यक्तैः कुशोदकैः॥ 
+</details>
+
+<details><summary>मूलम्</summary>
+
+येषां न पिता न भ्राता, न बन्धुः, नान्य गोत्रिणः।  
 ते तृप्तिम् अखिला यान्तु मया त्यक्तैः कुशोदकैः॥ 
+</details>
+</details>
 </div>  
 
 इति दर्भाग्रैः कुशोदकानि निनयेत्॥ उपवीती प्रणम्य, प्राचीनावीती - 

@@ -19,10 +19,12 @@ title = "१० मधुपर्कः"
 
 1. Now this (is) another (way for performing the Samāvartana). He bathes silently at a bathing-place and puts silently a piece of wood on (the fire).
 </details>
+
 <details><summary>हरदत्त-प्रस्तावः</summary>
 
 एवं स्नानस्य मुख्यकल्पं विधायानुकल्पं विदधाति–
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 व्याख्यातं स्नानकर्म गरीयश्च मुख्यं च ।
@@ -37,6 +39,7 @@ title = "१० मधुपर्कः"
 वपनादि तु लौकिकमधर्मकं भवति ।
 तत्र प्रयोगः–केशश्मश्रुनखलोमानि वापयित्वा मेखलादण्डमजिनमित्यपनीय तूष्णीमेव तीर्थे स्नात्वा दन्तधावनमौदुम्बरेण काष्ठेन कृत्वा स्नानीयाच्छादितः पुनः स्नात्वा अहते वाससी परिधायाचम्याग्निमुपसमाधाय संपरिस्तीर्य पालाशीं समिधमग्निं मनसा ध्यायन्नाधाय मणिप्रभृतीन्यलङ्करणानि यथोपपादमुपादत्ते तूष्णीमेव सर्वम् ॥१॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **अथापरमेतद्** विधानम् ।
@@ -76,9 +79,9 @@ title = "१० मधुपर्कः"
 
 2. [^1]  He sits down on a bunch of grass, as stated above (comp. M. II, 9, 7), at a place where they are going to honour him (with the Argha reception).
 
-
 [^1]:  13, 2. See above, IV, II, 7.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 उक्तयोरन्यतरेण स्नातको भवति ।
@@ -89,6 +92,7 @@ title = "१० मधुपर्कः"
 तत्र **यत्र** देशे**ऽस्मै अपचितिं कुर्वन्ति** बान्धवाः, तत्र तैर्दत्ते **कूर्चे उपविशति यथापुरस्ताद् **उपनयने आचार्यः ।
 कूर्च प्रत्तमुपादायोदगग्रं निधाय तस्मिन् "राष्ट्रभृदसी"त्यनेनोपविशतीत्यर्थः ॥२॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **यत्र** यस्मिन् स्वधर्मयुक्तस्य कुटुम्बिनो गृहे आतिथ्यार्थमागताय **अस्मै** स्नातकाय **अपचितिं** पूजां मधुपर्काख्यां कुर्वते कुटुम्बिनः ।
@@ -122,6 +126,7 @@ title = "१० मधुपर्कः"
 
 3. A king and a chieftain (sit down) in the same way (as a Brāhmaṇa), with the next two (formulas, M. II, 9, 8. 9), according to the characteristics (contained in them).
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 **एवं राजा स्थपतिश्** च यथा ब्राह्मणः स्नातकः कूर्चे उपविशति ।
@@ -139,6 +144,7 @@ title = "१० मधुपर्कः"
 तत्र "आचार्यायर्त्विजे श्वशुराय राज्ञ"इति राज्ञोऽपचितिः ।
 अधिपतेस्तु श्वशुरत्वेनापचितिः ॥३॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 यथा ब्राह्मणः पूज्यो मन्त्रेणोपविष्टः, एवं **राजा स्थपतिश्चोत्तराभ्यां** यथालिङ्गं "राष्ट्रभृदसि सम्राडासन्दी" इति राजा, "राष्ट्रभृदस्याधिपत्न्यासन्दी" इति स्थपतिश्चोपविशेदित्यर्थः ।
@@ -174,10 +180,12 @@ title = "१० मधुपर्कः"
 
 4. (The host) announces (to the guest), 'The water for washing the feet!'
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 अथ मधुपर्कप्रदाता पादप्रक्षालनार्थं अप उपसंगृह्य "आपः पाद्या" इति प्राह ॥४॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 अथ अपचेता पादप्रक्षालनार्था अप उपसङ्गृह्य "आपः पाद्याः" इति प्राह ।
@@ -209,9 +217,9 @@ title = "१० मधुपर्कः"
 
 5. [^2]  (The guest) should recite the next (verse, II, 9, 10) over (that water) and should stretch out the right foot first to a Brāhmaṇa, the left to a Śūdra.
 
-
 [^2]:  Comp. Āśvalāyana-Gṛhya I, 24, 11. 12.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 अथ पूज्यमानस्ता अपः उत्तरयर्चा "आपः पादावनेजनी"रित्येतयाऽभिमन्त्र्य प्रक्षालयित्रे **"ब्राह्मणाय"** दक्षिणं पादं पूर्वं **प्रयच्छेत्** प्रसारयेत् ।
@@ -224,6 +232,7 @@ title = "१० मधुपर्कः"
 आपः पाद्या इति प्रकरणादेव सिद्धे पादग्रहणमुत्तरत्र पादप्रत्ययो माभूदित्येवमर्थम् ।
 तेन प्रक्षालयित्रुपस्पर्शनं पादे न भवति ॥५॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 अथ पूज्यस्ता अपः "आपः पादावनेजनीः" इत्येतयाऽभिमन्त्र्य प्रथमं **दक्षिणं पादं ब्राह्मणाय** प्रक्षालयित्रे **प्रयच्छेत्** ।
@@ -256,6 +265,7 @@ title = "१० मधुपर्कः"
 
 6. Having touched the person who washes him, he should touch himself (i.e. his own heart) with the next (formula, M. II, 9, II).
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 तथा स्वेन हस्तेनावनेक्तुः पाणी संस्पृशेद् (बौ.गृ.१-२.) इति कल्पान्तरम् ।
@@ -263,6 +273,7 @@ title = "१० मधुपर्कः"
 तच्च हृदयदेशे भवति ।
 आत्मनः स्थानं हि तत् ॥६॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 ततः प्रक्षालितपादस्तं प्रक्षालयितारं पाणावुपस्पृश्य "मयि महः" इति यजुषा आत्मानं हृदयदेशे प्रत्यभिमृशेत् प्रतिलोमेन पाणिना स्पृशेत् ।
@@ -293,11 +304,13 @@ title = "१० मधुपर्कः"
 
 7. (The host, taking the Argha water) in an earthen vessel which he holds with two bunches of grass, announces (to the guest), 'The Argha water!'
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 ततः प्रदाता मृण्मये पात्रे उपनीता अपः **कूर्चाभ्याम्** अधस्तादुपरिष्टाच्च **परिगृह्य "अर्हणीया आप" इति प्राह** निवेदयति ।
 पुष्पाक्षतैस्संयुक्ता इति कल्पान्तरम् ॥७॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 अथार्हयिता मृन्मये पात्र अर्हणार्थाः पुष्पाक्षतसंयुक्ताः अप आनीय, कूर्चाभ्यामधस्तादुपरिष्टाच्च **परिगृह्य** "अर्हणीया आपः" इति प्राह ॥७॥
@@ -327,6 +340,7 @@ title = "१० मधुपर्कः"
 
 8. (The guest) should recite the next (formula, II, 9, 12) over (that water) and should murmur the next Yajus (II, 9, 13), while a part (of the water) is poured over his joined hands.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 अर्हणीया अपः निवेदिता **उत्तरया** "आमाग"न्नित्येतया अभिमन्त्रयते ।
@@ -334,6 +348,7 @@ title = "१० मधुपर्कः"
 एतासामेकदेशमानयति प्रदाता ।
 तस्मिन्न् **आनीयमाने उत्तरं यजुः** "विराजो दोहोऽसी"त्येतत् **जपेत्** पूज्यमानः ॥८॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 अथ पूज्यस्ता अपः "आमागन्" इत्येतया**ऽभिमन्त्र्य** तासामेकदेशे स्तोके स्वाञ्जलौ दात्रा **आनीयमाने** "विराजो दोहोऽसि" इति **यजुर्जपेत्** ॥८॥
@@ -363,6 +378,7 @@ title = "१० मधुपर्कः"
 
 9. Over the rest (of the water) which is poured out towards the east, he recites the next (verse, M. II, 9, 14).
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 अथ तासामपां शेषं पूर्वस्यां दिशि नयति प्रदाता ।
@@ -371,6 +387,7 @@ title = "१० मधुपर्कः"
 भोजनान्त इत्यन्ये ।
 तत्सर्वमपचितिशब्देन चोदितं द्रष्टव्यम् ॥९॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 अथ तासां शेषं दात्रा नीयमानं पूज्यः "समुद्रं वः" इत्येतया अनुमन्त्रयते ।
@@ -402,6 +419,7 @@ title = "१० मधुपर्कः"
 
 10. (The host) pours together curds and honey in a brass vessel, covers it with a larger (brass cover), takes hold of it with two bunches of grass, and announces (to the guest), 'The honey-mixture!'
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 **वर्षीयसा** बृहता **कांस्येन** पात्रेण मधुपर्कं प्राह ।
@@ -409,6 +427,7 @@ title = "१० मधुपर्कः"
 तेनोभयोः पात्रयोः कांस्यनियमः सिद्धो भवति ।
 इतिशब्दः प्रकारे–दधि मध्विति वा पयो मध्विति वेति ॥१०॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 दधि मध्वित्येतद् द्वयं नियमविधानात् कस्मिंश्चित्पात्रे संसृज्य, ततो वर्षीयसा बृहता कांस्येन पात्रेण पिधाय ।
@@ -440,11 +459,13 @@ title = "१० मधुपर्कः"
 
 11. Some take three substances, (those stated before) and ghee.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 त्रयाणां द्रव्याणां समुदायः **त्रिवृत्** ।
 पूर्वोक्ते द्वे दधि मध्विति वा पयो मध्विति वा, घृतञ्च तृतीयम् ॥११॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 त्रयाणां द्रव्याणां समाहारस्त्रिवृच्छब्देनोच्यते ।
@@ -475,11 +496,13 @@ title = "१० मधुपर्कः"
 
 12. Some take five, (the three stated before), and grains, and flour.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 पञ्चानां द्रव्याणां समुदायः **पाङ्क्तम् ।**
 दधि मधु घृतं धानास्सक्तवः इति ॥१२॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 इहापि पञ्चानां समुदायः पाङ्क्तः ।
@@ -510,6 +533,7 @@ title = "१० मधुपर्कः"
 
 13. The guest recites the next two (formulas, M. II, 10, 1. 2) over (the honey-mixture) and sips water with the two Yajus (II, 10, 3. 4) before (eating) and afterwards; with the next (verse, II, 10, 5) he should partake three times (of the food) and should give the remainder to a person towards whom he is kindly disposed.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 अथ तं मधुपर्कम् **उत्तराभ्याम्** ऋग्भ्यां "त्रय्यै विद्यायै, "आमागन्न्" इत्येताभ्यामभिमन्त्र्य पूज्यमानः प्रतिगृह्णाति ।
@@ -523,6 +547,7 @@ title = "१० मधुपर्कः"
 सोऽपि तं प्राश्नाति ।
 सोमभक्षणे मधुपर्कप्राशने भोजने च मध्ये नोच्छिष्टतेति शिष्टाः स्मरन्ति ॥१३॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 अथ पूज्यस्तं मधुपर्कं प्रतिगृह्यापिधानपात्रमपनीय "त्रय्यै विद्यायै" "आमागन् यशसा" इति द्वाभ्यामभिमन्त्र्य ।
@@ -574,11 +599,13 @@ title = "१० मधुपर्कः"
 
 14. A king or a chieftain should only accept it and (give it) to his Purohita.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 एवकारात् प्राशनमकृत्वा पुरोहिताय प्रदानम् ।
 स विधिवत् प्राश्नाति ॥१४॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **राजा स्थपतिश्च** मधुपर्कं **प्रतिगृह्यैव पुरोहिताय** प्रयच्छेत् ।
@@ -611,6 +638,7 @@ title = "१० मधुपर्कः"
 
 15. (The host) announces the cow with (the word), 'The cow!'
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 अथाचाम्योपविष्टाय **गां** निवेदयते गौरिति ।
@@ -620,6 +648,7 @@ title = "१० मधुपर्कः"
 "तद्यथैवादो मनुष्यराज आगतेऽन्यस्मिन् वार्हति उक्षाणं वेहतं वा क्षदन्ते" इति ।
 (ऐ. ब्रा. १-३-४.) एवमर्थमेवात्र गामित्युक्तं गोजातिमात्रस्य निवेदनं यथा स्यात् । अन्यथा गौरिति प्राहेत्येतावता सिद्धं यथा पाद्यदिषु ॥१५॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 प्राशने कृते दाता **"गौः" इति गां प्राह** कथयति ।
@@ -652,6 +681,7 @@ title = "१० मधुपर्कः"
 
 16. After the guest has recited the next (formula, M. II, 10, 6) over (the cow, the host) cools its omentum, and having performed the 'spreading under' and the sprinkling over (of Ājya), he sacrifices it with the next (verse, M. II, 10, 7) with a Palāśa leaf from the middle or the end (of the stalk).
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 अनुजानीयादित्यध्याहारः ।
@@ -669,6 +699,7 @@ title = "१० मधुपर्कः"
 पलाशपर्णेनेत्येव सिद्धे मध्यमेनान्तमेनेति वचनं द्विपर्णस्य पलाशवृन्तस्य पर्णेन होमो मा भूदिति ।
 अभावविकल्पार्थं वापूर्वं मध्यमेन तदभावे अन्तमेनेति ॥१७॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 यदि प्रतिगृहीता संज्ञपनमिच्छेत्, तदा "गौरस्यपहतपाप्मा" इत्येतयाऽनवसानया गामभिमन्त्रयते ।
@@ -706,6 +737,7 @@ title = "१० मधुपर्कः"
 
 17. If the guest chooses to let (the cow) loose, he murmurs the next (formulas, II, 10, 8-11) in a low voice (and says) loudly, 'Om! Let it loose!' (II, 10, 12).
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 अथ यदि गामुत्सृजत्ययं पूज्यमानः स गौरिति प्रोक्ते मन्त्रानुत्तरांश्चतुरो "यज्ञो वर्धताम्" इत्युपांशु जपति ।
@@ -720,6 +752,7 @@ title = "१० मधुपर्कः"
 तेन ब्रह्मणः एवैष विकल्पः सिद्धो भवति ।
 इह प्रसवविधेरभावेऽपि उच्चैरिति वचनादेव प्रसौतिर्द्रष्टव्यः ॥१८॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 यदि पूज्यो गामुत्सृज्यमानामिच्छेत् ।
@@ -753,6 +786,7 @@ title = "१० मधुपर्कः"
 
 18. (In this case) he recites the next (formulas, M. II, 10, 13-17) in a low voice over the food which is announced to him (instead of the cow), (and says) loudly, 'Om! Make it ready!' (II, 10, 18).
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 अथान्नं सामिषं समाहृत्य तस्मे प्राह– भूतमिति ।
@@ -762,6 +796,7 @@ title = "१० मधुपर्कः"
 तदन्नं प्रोक्तमुत्तरैः पञ्चभिर्मन्त्रैर्भूतमित्यादिभिः भोक्तोपांश्वभिमन्त्र्य ओंकल्पयतेत्युच्चैः प्रसौति ।
 प्रसूताः परिवेष्टारः परिवेविषन्ति चतुरो नानागोत्रान् ब्राह्मणान् भोजयतेति ब्रूयात्तेषु भुक्तवत्स्वन्नमस्मा उपाहरन्तीति (बौ. गृ. १-२.) कल्पान्तरम् ॥१९॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 अथ दाता सिद्धमन्नं "भूतं" इति मन्त्रेण पूज्याय प्रब्रूयान्निवेदयेत् ।
@@ -797,6 +832,7 @@ title = "१० मधुपर्कः"
 
 19. For his teacher, for a Ṛtvij, for his father-in-law, for a king he ought to perform this (Arghya ceremony) as often as they visit his house, if at least one year has elapsed (since they came last).
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 आचार्यादयः प्रसिद्धाः ।
@@ -811,6 +847,7 @@ title = "१० मधुपर्कः"
 ऋत्विजे च कर्मणि, राज्ञे चाभिषेकानन्तरम् ।
 अथ तेभ्य एव संवत्सरं विप्रोष्योपगतेभ्यश्च कर्तव्यमिति ॥२०॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 यदेतदर्हणं कूर्चादि भोजनान्तं गृहस्थेन स्नातकाय स्नानदिवस एवागताय कर्तव्यमिति विहितं, तदाचार्यादिभ्यः परि**संवत्सरात्** संवत्सरादूर्ध्वं गृहमुपतिष्ठद्भ्यः उपागतेभ्यः पुनः पुनः कार्यं; न तु स्नातकवत्सकृत् ।
@@ -849,11 +886,13 @@ title = "१० मधुपर्कः"
 
 20. For a renowned teacher (of the Veda the ceremony should be performed) once.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 सकृत्न प्रतिवतसरं कलौ गोरालम्भ्स्य न्षेधाद्रौरित्युत्त्का यज्ञो वर्धतामित्यादि जपेत्मध्यमन्त्रलोपः)प्रवक्त्रे वेदस्य वेदार्थस्य च चित्राय प्रसिद्धाय भिन्नसंशयायेत्यर्थः ।
 एवं भूतायोपस्थिताय सकृदेतदपचितिकर्म कर्तव्यं, न प्रतिसंवत्सरमिति ॥२१॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 प्रवक्ता यः पदवाक्यप्रमाणाभ्यां प्रकर्षेण वक्ति साधुशब्दानामुच्चारयिता, प्रमाणोपपन्नं व्याख्याता चेत्यर्थः ।

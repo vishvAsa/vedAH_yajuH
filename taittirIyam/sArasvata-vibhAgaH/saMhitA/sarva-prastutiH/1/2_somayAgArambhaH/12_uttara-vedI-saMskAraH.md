@@ -15,18 +15,22 @@ ________
 
 शम्यया चात्वालं=उत्तरवेदीं परिमिमीते। प्राक् मिमीते। 
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(हे भूमे!)+++ वि॒त्ताय॑नी मेऽसि।
 </details>
+
 <details><summary>Keith</summary>
 
 Thou I art the abode of riches for me;
 </details>
+
 <details><summary>मूलम्</summary>
 
 वि॒त्ताय॑नी मेऽसि।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 वि॒त्ताय॒नीति॑ वित्त-अय॑नी । मे॒ । अ॒सि॒ । 
@@ -36,22 +40,27 @@ Thou I art the abode of riches for me;
 
 1शम्यया चात्वालं परिमिमीते - वित्तायनीति ॥ शम्यया परिमीयमाणा भूमिरुच्यते । वित्तं धनमग्निलक्षणम्, तस्यायनी प्रापणी त्वमसि । एतेः करणे ल्युट् । ममाग्निप्राप्तिहेतुस्त्वमसि ॥
 </details>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 दक्षिणतो मिमीते
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ति॒क्ताय॑नी+++(←तिज निशातने)+++ मे॒ऽसि ।
 </details>
+
 <details><summary>Keith</summary>
 
 thou art the resort of the afflicted for me;
 </details>
+
 <details><summary>मूलम्</summary>
 
 ति॒क्ताय॑नी मे॒ऽसि ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 ति॒क्ताय॒नीति॑ तिक्त-अय॑नी । मे॒ । अ॒सि॒ । 
@@ -61,22 +70,27 @@ thou art the resort of the afflicted for me;
 
 2दक्षिणतो मिमीते - तिक्तायनीति ॥ तिक्तं तेजः । तिज निशातने । अग्निलक्षणस्य तेजसो मे प्रापण्यसि ॥
 </details>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 पश्चान्मिमीते
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अव॑तान् मा+++(मां→मम)+++ नाथि॒तम्+++(=याचितम्)+++ ।
 </details>
+
 <details><summary>Keith</summary>
 
 protect me when in want;
 </details>
+
 <details><summary>मूलम्</summary>
 
 अव॑तान्मा नाथि॒तम् ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 अव॑तात् । मा॒ । ना॒थि॒तम् । 
@@ -86,18 +100,22 @@ protect me when in want;
 
 3पश्चान्मिमीते - अवतादिति ॥ अवतात् रक्षतात् तर्पयताद्वा । मां नाथितम् । कर्तरि निष्ठा । नाथमानमग्निं याचमानं तत्प्रदानेनावतात् ॥
 </details>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 उत्तरतो मिमीते
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अव॑तान्मा व्यथि॒तम् ।
 </details>
+
 <details><summary>Keith</summary>
 
 protect me when afflicted.
 </details>
+
 <details><summary>मूलम्</summary>
 
 अव॑तान्मा व्यथि॒तम् ।
@@ -112,22 +130,24 @@ protect me when afflicted.
 उत्तरतो मिमीते - अवतादिति ॥ अवताद्रक्षतात् मा व्यथितं भीतम्, किमत्राग्निर्लभ्यते उत न लभ्यत इति संशयेन भीतं चकितं वाग्निप्रदानेन रक्षतु ॥
 </details>
 
-
 ## स्फ्येन प्रहारः
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 चात्वाल-स्थे बर्हिषि स्फ्येन प्रहरति।।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 [वि॒देर् - अ॒ग्निर् नभो॒ +++(इति ते)+++ नाम॑+अग्ने॑ अङ्गिरो॒]  
 यो॑ ऽस्याम् [पृ॑थि॒व्याम् असि] ।
 </details>
+
 <details><summary>Keith</summary>
 
 May Agni, named Nabhas, know (thee), Agni Angiras, thou who art in this earth.
 </details>
+
 <details><summary>मूलम्</summary>
 
 वि॒देर॒ग्निर्नभो॒ नामाग्ने॑ अङ्गिरो॒ यो॑ऽस्याम् पृ॑थि॒व्यामसि ।
@@ -156,18 +176,22 @@ ________
 
 पुरीषम् आदत्ते।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आयु॑षा॒ नाम्नेहि॑ ।  
 </details>
+
 <details><summary>Keith</summary>
 
 come with the name of Ayus
 </details>
+
 <details><summary>मूलम्</summary>
 
 आयु॑षा॒ नाम्नेहि॑।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 आयु॑षा । नाम्ना॑ । एति॑ । इ॒हि॒ । 
@@ -178,27 +202,34 @@ come with the name of Ayus
 6पुरीषमादत्ते - आयुषेति ॥ हे अग्ने (पार्थिव …)! आयुषा ऽस्मभ्यं देयस्यायुषस्साधनेन नाम्ना नभ इत्यनेन त्वया विदितेनोपलक्षितः एहि आगच्छ, त्वामहं ग्रहीतुमारभ इति ॥
 </details>
 
-
 ________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 उत्तरवेद्यां निवपति।
 </details>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/12_uttara-vedI-saMskAraH/yatte.md">
 <details open><summary><h5>यत्ते ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत् ते ऽना॑धृष्ट॒न् नाम॑ य॒ज्ञिय॒न् +++(नभ इत्यादि)+++ तेन॒ त्वा ऽऽद॑धे ।
 </details>
+
 <details><summary>Keith</summary>
 
 Whatsoever unapproached, holy name is thine, [1] therewith I take thee up.
 </details>
+
 <details><summary>मूलम्</summary>
 
 यत्तेऽना॑धृष्ट॒न्नाम॑ य॒ज्ञिय॒न्तेन॒ त्वाऽऽद॑धे ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+यत् । ते॒ । अना॑धृष्ट॒मित्यना॑-धृ॒ष्ट॒म् । नाम॑ । य॒ज्ञिय॑म् । तेन॑ । त्वा॒ । एति॑ । द॒धे॒ ।
+
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 7-9उत्तरवेद्यां निवपति - यत्त इति ॥ हे अग्ने यत्ते तव अनाधृष्टमनभिभूतं केनचिदपि राक्षसादिना, यज्ञियं यज्ञार्हं यज्ञसम्पादनसमर्थं नाम नभ इत्येतत् । तेन त्वामादधे स्थापयामि । उत्तरवेद्यामाहवनीयधारणार्थं पुरीषात्मना त्वयैवायं धारयितुं शक्यते न हि त्वदन्यस्तद्धारयितुं समर्थः । तस्मादेतन्नाम बिभ्रदुत्तरवेद्यामात्मनो महिमानम् आहवनीयं धारयितुं सन्निहितो भूत्वा यज्ञं सम्पादयेति भावः ।
@@ -217,21 +248,26 @@ ________
 
 चात्वाल-स्थे बर्हिषि स्फ्येन प्रहरति। ततः पूर्ववत् पुरिषादानम्, उत्तरवेद्यां च निवपनम्।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 [वि॒देर् - अ॒ग्निर् नभो॒ +++(इति ते)+++ नाम॑+] अग्ने॑ अङ्गिरो॒ यो द्वि॒तीय॑स्यां  [पृ॑थि॒व्याम् +++(अन्तरिक्षे)+++ असि ।  
 </details>
+
 <details><summary>Keith</summary>
 
 May Agni, named Nabhas, know (thee), Agni Angiras, thou who art in the second earth.  
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 －यत्तेऽना॑धृष्ट॒न्नाम॑ य॒ज्ञिय॒न्तेन॒ त्वाऽऽद॒धेऽग्ने॑ अङ्गिरो॒ यो द्वि॒तीय॑स्यान्तृ॒तीय॑स्याम्पृथि॒व्यामस्यायु॑षा॒ नाम्नेहि॒ यत्तेऽना॑धृष्ट॒न्नाम॑ [22]य॒ज्ञिय॒न्तेन॒ त्वाऽऽद॑धे
 </details>
+
 <details><summary>मूलम्</summary>
 [ वि॒देर॒ग्निर्नभो॒ नाम] अग्ने॑ अङ्गिरो॒ यो द्वि॒तीय॑स्यां  
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 अग्ने॑ । अ॒ङ्गि॒रः॒ । यः । द्वि॒तीय॑स्याम् । तृ॒तीय॑स्याम् । (पृ॒थि॒व्याम् । असि॑ ।)
@@ -247,14 +283,23 @@ May Agni, named Nabhas, know (thee), Agni Angiras, thou who art in the second ea
 
 यत् ते ऽना॑धृष्ट॒न् नाम॑ य॒ज्ञिय॒न् +++(नभ इत्यादि)+++ तेन॒ त्वा ऽऽद॑धे ।
 </details>
+
 <details><summary>Keith</summary>
 
 Whatsoever unapproached, holy name is thine, [1] therewith I take thee up.
 </details>
+
 <details><summary>मूलम्</summary>
 
 यत्तेऽना॑धृष्ट॒न्नाम॑ य॒ज्ञिय॒न्तेन॒ त्वाऽऽद॑धे ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+यत् । ते॒ । अना॑धृष्ट॒मित्यना॑-धृ॒ष्ट॒म् । नाम॑ । य॒ज्ञिय॑म् । तेन॑ । त्वा॒ । एति॑ । द॒धे॒ ।
+
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 7-9उत्तरवेद्यां निवपति - यत्त इति ॥ हे अग्ने यत्ते तव अनाधृष्टमनभिभूतं केनचिदपि राक्षसादिना, यज्ञियं यज्ञार्हं यज्ञसम्पादनसमर्थं नाम नभ इत्येतत् । तेन त्वामादधे स्थापयामि । उत्तरवेद्यामाहवनीयधारणार्थं पुरीषात्मना त्वयैवायं धारयितुं शक्यते न हि त्वदन्यस्तद्धारयितुं समर्थः । तस्मादेतन्नाम बिभ्रदुत्तरवेद्यामात्मनो महिमानम् आहवनीयं धारयितुं सन्निहितो भूत्वा यज्ञं सम्पादयेति भावः ।
@@ -263,20 +308,22 @@ Whatsoever unapproached, holy name is thine, [1] therewith I take thee up.
 </details>
 </div>  
 
-
 ________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 चात्वाल-स्थे बर्हिषि स्फ्येन प्रहरति। ततः पूर्ववत् पुरिषादानम्, उत्तरवेद्यां च निवपनम्।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 [वि॒देर् - अ॒ग्निर् नभो॒ +++(इति ते)+++ नाम॑+] अग्ने॑ अङ्गिरो॒ यस् तृ॒तीय॑स्याम्  [पृ॑थि॒व्याम् +++(दिव्य्)+++ असि ।  
 </details>
+
 <details><summary>Keith</summary>
 
 May Agni, named Nabhas, know (thee), Agni Angiras, thou who art in the third earth.  
 </details>
+
 <details><summary>मूलम्</summary>
 
 [ वि॒देर॒ग्निर्नभो॒ नाम अग्ने॑ अङ्गिरो॒ ] यस्तृ॒तीय॑स्याम् पृथि॒व्यामस्यायु॑षा॒ नाम्नेहि॑ । यत्तेऽना॑धृष्ट॒न्नाम॑ य॒ज्ञिय॒न्तेन॒ त्वाऽऽद॑धे ।
@@ -299,13 +346,21 @@ May Agni, named Nabhas, know (thee), Agni Angiras, thou who art in the third ear
 
 यत् ते ऽना॑धृष्ट॒न् नाम॑ य॒ज्ञिय॒न् +++(नभ इत्यादि)+++ तेन॒ त्वा ऽऽद॑धे ।
 </details>
+
 <details><summary>Keith</summary>
 
 Whatsoever unapproached, holy name is thine, [1] therewith I take thee up.
 </details>
+
 <details><summary>मूलम्</summary>
 
 यत्तेऽना॑धृष्ट॒न्नाम॑ य॒ज्ञिय॒न्तेन॒ त्वाऽऽद॑धे ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यत् । ते॒ । अना॑धृष्ट॒मित्यना॑-धृ॒ष्ट॒म् । नाम॑ । य॒ज्ञिय॑म् । तेन॑ । त्वा॒ । एति॑ । द॒धे॒ ।
+
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -321,25 +376,30 @@ ________
 
 पुरीषं सम्प्रयौति।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(हे उत्तरवेदे!)+++ सिँ॒हीर् अ॑सि ।  
 म॒हि॒षीर् अ॑सि ।
 </details>
+
 <details><summary>Keith</summary>
 
 Thou art a lioness;  
 thou art a buffalo.
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 सिँ॒हीर॑सि महि॒षीर॑सि
 </details>
+
 <details><summary>मूलम्</summary>
 
 सिँ॒हीर॑सि ।  
 म॒हि॒षीर॑सि ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 सिँ॒हीः । अ॒सि॒ ।   
@@ -365,19 +425,34 @@ ________
 उ॒रु प्र॑थस्व ।  
 उ॒रु ते॑ य॒ज्ञप॑तिᳶ प्रथताम् ।
 </details>
+
 <details><summary>Keith</summary>
 
 Be extended wide, let the lord of the sacrifice be extended wide.
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 उ॒रु प्र॑थस्वो॒रु ते॑ य॒ज्ञप॑तिᳶ प्रथताम्
 </details>
+
 <details><summary>मूलम्</summary>
 
 उ॒रु प्र॑थस्व ।  
 उ॒रु ते॑ य॒ज्ञप॑तिᳶ प्रथताम् ।
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+उ॒रु । प्र॒थ॒स्व॒ ।  
+उ॒रु । ते॒ । य॒ज्ञप॑ति॒रिति॑ य॒ज्ञ-प॒तिः॒ । प्र॒थ॒ता॒म् । 
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उ॒रु । प्र॒थ॒स्व॒ । उ॒रु । ते॒ । य॒ज्ञप॑ति॒रिति॑ य॒ज्ञ-प॒तिः॒ । प्र॒थ॒ता॒म् ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 9प्रथयति - उर्विति ॥ उरु यथा भवति तथा प्रथस्व । यज्ञपतिः यजमानः अनेन तवोरुप्रथनेन उरु प्रथतां पश्वादिभिः । 'पत्यावैश्वर्ये' (पा.सू. 6.2.18) इति पूर्वपदप्रकृतिस्वरत्वम् ॥
@@ -385,24 +460,27 @@ Be extended wide, let the lord of the sacrifice be extended wide.
 </details>
 </div>  
 
-
 ________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 स्फ्येन दृढीकरोति।।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ध्रुवाऽसि॑ ।
 </details>
+
 <details><summary>Keith</summary>
 
 Thou art firm.
 </details>
+
 <details><summary>मूलम्</summary>
 
 ध्रुवाऽसि॑ ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 ध्रु॒वा । अ॒सि॒ । 
@@ -420,18 +498,22 @@ ________
 
 अद्भिर् अवोक्षति।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दे॒वेभ्य॑श् शुन्धस्व ।
 </details>
+
 <details><summary>Keith</summary>
 
 Be pure for the gods.
 </details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वेभ्य॑श्शुन्धस्व ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 दे॒वेभ्यः॑ । शु॒न्ध॒स्व॒ । 
@@ -447,18 +529,22 @@ ________
 
 सिकताभिर् अनुप्रकिरति।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दे॒वेभ्य॑श् शुम्भस्व+++(←शुभ शुम्भ शोभनार्थे)+++ ।
 </details>
+
 <details><summary>Keith</summary>
 
 be bright for the gods.
 </details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वेभ्य॑श्शुम्भस्व ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 दे॒वेभ्यः॑ । शु॒म्भ॒स्व॒ ।  
@@ -469,24 +555,27 @@ be bright for the gods.
 14सिकताभिरनुप्रकिरति - देवेभ्य इति ॥ देवार्थं शुम्भस्व शोभस्व उज्ज्वला भव । शुभ शुम्भ शोभनार्थे ॥
 </details>
 
-
 ________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 उत्तरवेदेः प्राग्भागं प्रोक्षति।।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(स्तनयित्नुः)+++ इ॒न्द्र॒-घो॒षस् त्वा॒ वसु॑भिᳶ +++(सह)+++ पु॒रस्ता॑त् पातु ।
 </details>
+
 <details><summary>Keith</summary>
 
 May the cry of Indra guard thee in front with the Vasus;
 </details>
+
 <details><summary>मूलम्</summary>
 
 इ॒न्द्र॒घो॒षस्त्वा॒ वसु॑भिᳶ पु॒रस्ता॑त्पातु ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 इ॒न्द्र॒घो॒ष इती॑न्द्र-घो॒षः । त्वा॒ । वसु॑भि॒रिति॒ वसु॑-भिः॒ । पु॒रस्ता॑त् । पा॒तु॒ । 
@@ -497,24 +586,27 @@ May the cry of Indra guard thee in front with the Vasus;
 15उत्तरवेदेः प्राग्भागं प्रोक्षति - इन्द्रघोष इति ॥ इन्द्रस्य घोष इन्द्रघोषः स्तनयित्नुः स वसुभिस्सह त्वां पुरस्तात्पूर्वस्यां दिशि पातु रक्षतु । अनेन प्रोक्षणेन हे उत्तरवेदे त्वदीयं पूर्वभागं पातु ॥
 </details>
 
-
 ________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 दक्षिणभागं प्रोक्षति।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(यमः)+++ मनो॑जवास् त्वा पि॒तृभि॑र्  +++(सह)+++  दक्षिण॒तᳶ पा॑तु ।
 </details>
+
 <details><summary>Keith</summary>
 
 may the swift of mind guard thee on the right with the Pitrs;
 </details>
+
 <details><summary>मूलम्</summary>
 
 मनो॑जवास्त्वा पि॒तृभि॑र्दक्षिण॒तᳶ पा॑तु ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 मनो॑जवा॒ इति॒ मनः॑-ज॒वाः॒ । त्वा॒ । पि॒तृभि॒रिति॑ पि॒तृ-भिः॒ । द॒क्षि॒ण॒तः । पा॒तु॒ । 
@@ -525,24 +617,27 @@ may the swift of mind guard thee on the right with the Pitrs;
 16दक्षिणभागं प्रोक्षति- मनोजवा इति ॥ मनसो जव इव जवो वेगो यस्य स मनोजवाः यमः । तस्य हि मनस इव जवो भवति । जवतेरसुनि जवः । स पितृभिस्सह त्वां दक्षिणतः पातु त्वदीयं दक्षिणभागं पातु ॥
 </details>
 
-
 ________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 पश्चिमभागं प्रोक्षति।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रचे॑तास् त्वा रु॒द्रैᳶ  +++(सह)+++  प॒श्वात्पा॑तु ।
 </details>
+
 <details><summary>Keith</summary>
 
 may the wise one guard thee behind with the Rudras;
 </details>
+
 <details><summary>मूलम्</summary>
 
 प्रचे॑तास्त्वा रु॒द्रैᳶ प॒श्वात्पा॑तु ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 प्रचे॑ता॒ इति॒ प्र-चे॒ताः॒ । त्वा॒ । रु॒द्रैः । प॒श्चात् । पा॒तु॒ । 
@@ -553,24 +648,27 @@ may the wise one guard thee behind with the Rudras;
 17पश्चिमभागं प्रोक्षति - प्रचेता इति ॥ प्रकृष्टचेताः प्रकृष्टविज्ञानो वरुणः । स रुद्रैस्सह त्वां पश्चात्पातु पश्चाद्भागं पातु ॥
 </details>
 
-
 ________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 उत्तरभागं प्रोक्षति।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(त्वष्टा)+++ वि॒श्वक॑र्मा त्वा ऽऽदि॒त्यैर्  +++(सह)+++  उ॑त्तर॒तᳶ पा॑तु ।
 </details>
+
 <details><summary>Keith</summary>
 
 may Viçvakarman guard thee on the left with the Adityas.
 </details>
+
 <details><summary>मूलम्</summary>
 
 वि॒श्वक॑र्मा त्वाऽऽदि॒त्यैरु॑त्तर॒तᳶ पा॑तु ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 वि॒श्वक॒र्मेति॑ वि॒श्व-क॒र्मा॒ । त्वा॒ । आ॒दि॒त्यैः । उ॒त्त॒र॒त इत्यु॑त्-त॒र॒तः । पा॒तु॒ । 
@@ -581,25 +679,28 @@ may Viçvakarman guard thee on the left with the Adityas.
 18उत्तरभागं प्रोक्षति - विश्वकर्मेति ॥ विश्वानि कर्माण्यस्मिन्निति विश्वकर्मा त्वष्टा, लोकपालाधिकाराद्वैश्रवणो वा । 'बहुव्रीहौ विश्वं संज्ञायाम्' इति पूर्वपदान्तोदात्तत्वम् । स आदित्यैस्सह त्वामुत्तरतः पातु तवोत्तरभागं पातु । 'असुरा वज्रमुद्यत्य देवानभ्यायन्त' इत्यादि ब्राह्मणम् ॥
 </details>
 
-
 ## व्याघारादिकम्
 ________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 उत्तरवेदिम् अक्ष्णया=?? व्याघारयति।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सिँ॒हीर् अ॑सि, सपत्न-सा॒ही स्वाहा॑ ।
 </details>
+
 <details><summary>Keith</summary>
 
 Thou art a lioness, overcoming rivals; hail!
 </details>
+
 <details><summary>मूलम्</summary>
 
 सिँ॒हीर॑सि सपत्नसा॒ही स्वाहा॑ ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 सिँ॒हीः । अ॒सि॒ ।   
@@ -612,24 +713,27 @@ Thou art a lioness, overcoming rivals; hail!
 तत्र दक्षिणेंसे सिंहीस्त्वमसि । सपत्नसाही सपत्नानां शत्रूणामभिभवित्री । स्वाहा सुहुतं तवेदमस्तु ॥
 </details>
 
-
 ________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 उत्तरस्यां श्रोण्यां।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सिँ॒हीर् अ॑सि, सुप्रजा॒-वनि॒स्+++(=काङ्क्षा)+++ स्वाहा॑ ।
 </details>
+
 <details><summary>Keith</summary>
 
 Thou art a lioness, bestowing fair offspring; hail!
 </details>
+
 <details><summary>मूलम्</summary>
 
 सिँ॒हीर॑सि सुप्रजा॒वनि॒स्स्वाहा॑ ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 सिँ॒हीः । अ॒सि॒ ।  
@@ -641,24 +745,27 @@ Thou art a lioness, bestowing fair offspring; hail!
 20उत्तरस्यां श्रोण्यां - सिंहीस्त्वमसि सुप्रजावनिः शोभनानामपत्यानां सम्भक्त्री त्वमसि । 'छन्दसि वनसन' इतीन् ॥
 </details>
 
-
 ________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 दक्षिणस्यां श्रोण्यां।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सिँ॒हीर् अ॑सि, रायस्+++(←छान्दसष् षष्ठ्या अलुक्)+++-पोष॒-वनि॒स्+++(=काङ्क्षा)+++ स्वाहा॑ ।
 </details>
+
 <details><summary>Keith</summary>
 
 Thou art a lioness, [2] bestowing increase of wealth; hail!
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 सिँ॒हीः [23]अ॒सि॒ रा॒य॒स्पो॒ष॒वनि॒स्स्वाहा॑ ।
 </details>
+
 <details><summary>मूलम्</summary>
 
 सिँ॒हीर॑सि रायस्पोष॒वनि॒स्स्वाहा॑ ।
@@ -675,24 +782,27 @@ Thou art a lioness, [2] bestowing increase of wealth; hail!
 21दक्षिणस्यां श्रोण्यां - सिंहीस्त्वमसि रायस्पोषस्य धनपुष्टेस्सम्भक्त्री । छान्दसष्षष्ठ्या अलुक् । 'षष्ठ्याः पतिपुत्र' इति सत्वम् ॥
 </details>
 
-
 ________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 उत्तरे ऽंसे।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सिँ॒हीर् अ॑स्य्, आदित्य॒-वनि॒स्+++(=काङ्क्षा)+++ स्वाहा॑ ।
 </details>
+
 <details><summary>Keith</summary>
 
 Thou art a lioness, winning (the favour of) the Adityas hail!
 </details>
+
 <details><summary>मूलम्</summary>
 
 सिँ॒हीर॑स्यादित्य॒वनि॒स्स्वाहा॑ ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 सिँ॒हीः । अ॒सि॒ ।   
@@ -704,30 +814,33 @@ Thou art a lioness, winning (the favour of) the Adityas hail!
 22उत्तरेंसे - सिंहीस्त्वमसि आदित्यवनिः अदितिपुत्राणां सम्भक्त्री ॥
 </details>
 
-
-
 ________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 मध्ये।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सिँ॒हीर् अ॑सि । आ व॑ह दे॒वान् , देवय॒ते+++(=देवान् कामयमानाय, 'शतुरनुमः' इति चतुर्थ्या उदात्तत्वम्)+++ यज॑मानाय॒ स्वाहा॑ ।
 </details>
+
 <details><summary>Keith</summary>
 
 Thou art a lioness; bring the gods to the pious sacrificer; hail!
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 सिँ॒हीर॒स्या व॑ह दे॒वान्दे॑वय॒ते यज॑मानाय॒ स्वाहा॑
 </details>
+
 <details><summary>मूलम्</summary>
 
 सिँ॒हीर॑सि ।  
 आ व॑ह दे॒वान् , देवय॒ते यज॑मानाय॒ स्वाहा॑ ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 सिँ॒हीः । अ॒सि॒ ।   
@@ -739,24 +852,27 @@ Thou art a lioness; bring the gods to the pious sacrificer; hail!
 23मध्ये - सिंहीस्त्वमसि, सा त्वमावह देवान्, यजमानाय यजमानार्थम् । कीदृशाय? देवयते देवान् कामयमानाय । देवानात्मन इच्छतीति क्यच् । 'न छन्दस्यपुत्रस्य' इतित्वाभावो दीर्घश्च निषिध्यते । 'शतुरनुमः' इति चतुर्थ्या उदात्तत्वम् । 'सोत्तरवेदिरब्रवीत्' इत्यादि ब्राह्मणम् ॥
 </details>
 
-
 ________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 स्रुचम् उद्-गृह्णाति।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भू॒तेभ्य॑स् त्वा +++(उद्गृह्णामि)+++।
 </details>
+
 <details><summary>Keith</summary>
 
 To beings thee!
 </details>
+
 <details><summary>मूलम्</summary>
 
 भू॒तेभ्य॑स्त्वा ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 भू॒तेभ्यः॑ । त्वा॒ । 
@@ -767,7 +883,6 @@ To beings thee!
 24स्रुचमुद्गृह्णाति - भूतेभ्य इति ॥ सर्वभूतार्थं त्वामुद्गृह्णामि । यागसाधनद्वारेण सर्वभूतार्थतोद्ग्रहणस्य । 'य एव देवा भूताः' इत्यादि ब्राह्मणम् ॥
 </details>
 
-
 _____
 
 ## परिधिस्थापनादिकम्
@@ -776,18 +891,22 @@ ________
 
 पौतुद्रवान् = देवदारुभवान् परिधीन् परिदधाति।  तत्र मध्यमं परिदधाति।।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(मध्यमपरिधि!)+++ वि॒श्वायु॑र् असि। पृथि॒वीन् दृँ॑ह+++(=दृढीकुरु)+++ ।
 </details>
+
 <details><summary>Keith</summary>
 
 Thou containest all life, strengthen the earth;
 </details>
+
 <details><summary>मूलम्</summary>
 
 वि॒श्वायु॑रसि पृथि॒वीन्दृँ॑ह ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 वि॒श्वायु॒रिति॑ वि॒श्व-आ॒युः॒ । अ॒सि॒ । पृ॒थि॒वीम् । दृँ॒ह॒ । 
@@ -806,24 +925,29 @@ _______
 
 दक्षिणं परिदधाति
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(दक्षिणपरिधि!)+++ ध्रुव॒-क्षिद्+++(=वास्तव्या)+++ असि । अ॒न्तरि॑क्षन् दृँह ।
 </details>
+
 <details><summary>Keith</summary>
 
 thou restest firm, strengthen the atmosphere;
 
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ध्रुव॒क्षिद॑स्य॒न्तरि॑क्षन्दृँह
 </details>
+
 <details><summary>मूलम्</summary>
 
 ध्रुव॒क्षिद॑सि ।  
 अ॒न्तरि॑क्षन्दृँह ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 ध्रु॒व॒क्षिदिति॑ ध्रुव-क्षित् । अ॒सि॒ ।  
@@ -840,23 +964,28 @@ _______
 
 उत्तरं परिदधाति
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(उत्तर-परिधि!)+++ अच्युत॒-क्षिद् अ॑सि । दिव॑न् दृँह।
 </details>
+
 <details><summary>Keith</summary>
 
 thou restest inviolable, strengthen the heaven.
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अच्युत॒क्षिद॑सि॒ दिव॑न्दृँह।
 </details>
+
 <details><summary>मूलम्</summary>
 
 अच्युत॒क्षिद॑सि ।  
 दिव॑न्दृँह।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 अ॒च्यु॒त॒क्षिदित्य॑च्युत-क्षित् । अ॒सि॒ ।   
@@ -873,24 +1002,29 @@ ________
 
 सम्भारान् निवपति।
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ॒ग्नेर्  +++(भस भर्त्सनदीप्त्योः→)+++भस्मा॑सि । अ॒ग्नेᳶ +++(भस्मवद् दीप्तिसाधनं)+++ पुरी॑षम् असि ॥
 </details>
+
 <details><summary>Keith</summary>
 
 Thou art the ashes of Agni; thou art the rubble of Agni.
 
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अ॒ग्नेर्भस्मा॑स्य॒ग्नेᳶ पुरी॑षमसि ॥ [24]
 </details>
+
 <details><summary>मूलम्</summary>
 
 अग्नेर्भस्मा॑सि ।  
 अ॒ग्नेᳶ पुरी॑षमसि ॥
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 अ॒ग्नेः । भस्म॑ । अ॒सि॒ ।   

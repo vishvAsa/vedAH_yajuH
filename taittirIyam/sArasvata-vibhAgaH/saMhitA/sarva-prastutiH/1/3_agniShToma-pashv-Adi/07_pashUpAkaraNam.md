@@ -12,18 +12,22 @@ _______
 
 1बर्हिषी आदत्ते - इषे त्वेति ॥
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ॒षे त्वा॑ +++(ऽऽददामि)+++।
 </details>
+
 <details><summary>Keith</summary>
 
 For striving thee!
 </details>
+
 <details><summary>मूलम्</summary>
 
 इ॒षे त्वा॑ ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 इ॒षे । त्वा॒ । 
@@ -41,22 +45,27 @@ _______
 
 2पशुमुपाकरोति - उपवीरिति ॥
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 उप॒वीर॒स्युपो॑ दे॒वान्दैवी॒र्विश॒ᳶ प्रागु॒र्वह्नी॑रु॒शिजो॒ बृह॑स्पते धा॒रया॒ वसू॑नि ह॒व्या ते॑ स्वदन्ता॒न्देव॑ त्वष्ट॒र्वसु॑ रण्व॒ रेव॑ती॒ रम॑ध्वम् 
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(हे पशो!)+++ उ॒प॒-वीर्+++(←वी गतौ)+++ अ॑सि ।  
 </details>
+
 <details><summary>Keith</summary>
 
 Thou art the impeller.
 </details>
+
 <details><summary>मूलम्</summary>
 
 उ॒प॒वीर॑सि ।  
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 उ॒प॒वीरित्यु॑प-वीः । अ॒सि॒ । 
@@ -72,21 +81,25 @@ _______
 
 तत्र हि देवानां समीपे आभिमुख्येनैनान् पशून् करोति । 
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उप॑ +उ दे॒वान् दैवी॒र् विश॒ᳶ+++(→पशवः)+++ प्रागुः॑,  
 वह्नी॑र् उ॒शिजः॑+++(→कामयमाना [ऋत्विजः])+++ ।
 </details>
+
 <details><summary>Keith</summary>
 
 To the gods the servants of the gods have come,   
 the priests, the eager ones.
 </details>
+
 <details><summary>मूलम्</summary>
 
 उपो॑ दे॒वान् दैवी॒र्विश॒ᳶ  प्रागुः॑,  
 वह्नी॑रु॒शिजः॑ ।
 </details>
+
 <details><summary>पद-पाठः</summary>
  
 उपो॒ इति॑ । दे॒वान् । दैवीः॑ । विशः॑ । प्रेति॑ । अ॒गुः॒ ।  
@@ -108,11 +121,13 @@ ________
 बृह॑स्पते +++(→ब्रह्मन्)+++! धा॒रया॒ वसू॑नि।  
 +++(हे पशो!)+++ ह॒व्या ते॑ स्वदन्ताम्+++(←स्वद आस्वादने)+++।   
 </details>
+
 <details><summary>Keith</summary>
 
 O Bihaspati, guard wealth.  
 Let thy oblations taste sweet.
 </details>
+
 <details><summary>मूलम्</summary>
 
 बृह॑स्पते धा॒रया॒ वसू॑नि।  
@@ -141,11 +156,13 @@ ________
 देव॑ त्वष्ट॒र्! वसु॑ रण्व+++(=रमय)+++।    
 रेव॑ती॒ +++(←रै+मतुम् →पशवः)+++! रम॑ध्वम् ॥
 </details>
+
 <details><summary>Keith</summary>
 
 O god Tvastr make pleasant our possessions.  
 Stay, ye wealthy ones,
 </details>
+
 <details><summary>मूलम्</summary>
 
 देव॑ त्वष्ट॒र्वसु॑ रण्व।    
@@ -170,18 +187,22 @@ _______
 
 3अधिमन्थनशकलं निदधाति - अग्नेर्जनित्रमसीति ॥
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ॒ग्नेर् ज॒नित्र॑म् असि ।
 </details>
+
 <details><summary>Keith</summary>
 
 Thou art the birthplace of Agni.
 </details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्नेर्ज॒नित्र॑मसि ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 अ॒ग्नेः । ज॒नित्र॑म् । अ॒सि॒ । 
@@ -197,14 +218,17 @@ ________
 
 +++(हे शकलौ!)+++ वृष॑णौ स्थः ।
 </details>
+
 <details><summary>Keith</summary>
 
 Ye are the two male ones.
 </details>
+
 <details><summary>मूलम्</summary>
 
 वृष॑णौ स्थः ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 वृष॑णौ । स्थः॒ । 
@@ -220,18 +244,22 @@ _______
 
 5अरणी आदत्ते अधरोत्तरौ क्रमेण - उर्वश्यस्यायुरसि पुरूरवाः इत्येताभ्याम्, यथाहुः - 'उर्वशीत्यधरारणिमादत्ते, पुरूरवा इत्युत्तरारणिम्' इति ॥
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(अधरारणे!)+++ उ॒र्वश्य् अ॑सि ।
 </details>
+
 <details><summary>Keith</summary>
 
 Thou art Urvaśi, 
 </details>
+
 <details><summary>मूलम्</summary>
 
 उ॒र्वश्य॑सि ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 उ॒र्वशी॑ । अ॒सि॒ । 
@@ -247,18 +275,22 @@ _______
 
 6अथोत्तरारणिम् आदत्ते - आयुरसीति ॥
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(उत्तरारणे!)+++ आ॒युर् अ॑सि, पु॒रू॒रवाः॑ ।
 </details>
+
 <details><summary>Keith</summary>
 
 thou art Ayu, thou art Pururavas.
 </details>
+
 <details><summary>मूलम्</summary>
 
 आ॒युर॑सि पु॒रू॒रवाः॑ ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 आ॒युः । अ॒सि॒ । पु॒रू॒रवाः॑ । 
@@ -274,18 +306,22 @@ _______
 
 7आज्यस्थाल्याम् अरणी समनक्ति - घृतेनेति त्रिष्टुभैकपदया ॥
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(अरणी!)+++ घृ॒तेना॒क्ते वृष॑णन् +++(अग्निं)+++ दधाथाम् ।
 </details>
+
 <details><summary>Keith</summary>
 
 Anointed with ghee, do ye produce a male.
 </details>
+
 <details><summary>मूलम्</summary>
 
 घृ॒तेना॒क्ते वृष॑णन्दधाथाम् ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 घृ॒तेन॑ । अ॒क्ते इति॑ । वृष॑णम् । द॒धा॒था॒म् । 
@@ -301,22 +337,27 @@ _______
 
 8-10प्रजातीर्वाचयते - गायत्रमिति ॥
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 गाय॒त्रञ् छन्दोऽनु॒ प्र जा॑यस्व॒ त्रैष्टु॑भ॒ञ्जाग॑त॒ञ्छन्दोऽनु॒ प्रजा॑यस्व  
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गा॒य॒त्रञ्छन्दोऽनु॒ प्र जा॑यस्व ।  
 </details>
+
 <details><summary>Keith</summary>
 
 Be born with the Gayatri metre, 
 </details>
+
 <details><summary>मूलम्</summary>
 
 गा॒य॒त्रञ्छन्दोऽनु॒ प्र जा॑यस्व ।  
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 गा॒य॒त्रम् । छन्दः॑ । अनु॑ । प्रेति॑ । जा॒य॒स्व॒ । 
@@ -333,15 +374,18 @@ ________
 त्रैष्टु॑भम् [छन्दोऽनु॒ प्रजा॑यस्व ]।   
 जाग॑त॒ञ्छन्दोऽनु॒ प्र जा॑यस्व ।  
 </details>
+
 <details><summary>Keith</summary>
 
 with the Tristubh metre, be born with the Jagati metre.
 </details>
+
 <details><summary>मूलम्</summary>
 
 त्रैष्टु॑भम् [छन्दोऽनु॒ प्रजा॑यस्व ]।   
 जाग॑त॒ञ्छन्दोऽनु॒ प्र जा॑यस्व ।  
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 त्रैष्टु॑भम् । जाग॑तम् । छन्दः॑ । अनु॑ । प्रेति॑ । जा॒य॒स्व॒ ।
@@ -357,6 +401,7 @@ _______
 
 11जातम् अग्निम् आहवनीये प्रहरति - भवतन्न इति पङ्क्त्या पञ्चपदया वस्वष्टऋतुदशाक्षरया ॥ 
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 भव॑तं [12]न॒स्सम॑नसौ॒ समो॑कसावरे॒पसौ॑ ।  मा य॒ज्ञँ हिँ॑सिष्ट॒म्मा य॒ज्ञप॑तिञ्जातवेदसौ शि॒वौ भ॑वतम॒द्य नः॑ ॥ 
@@ -382,12 +427,23 @@ Harm not the sacrifice
 nor the lord of the sacrifice, O all-knowing;  
 be ye two auspicious to-day with us.
 </details>
+
 <details><summary>मूलम्</summary>
 
 भव॑तं न॒स्सम॑नसौ॒ समो॑कसावरे॒पसौ॑ ।  
 मा य॒ज्ञँ हिँ॑सिष्ट॒म्मा य॒ज्ञप॑तिञ्जातवेदसौ ।  
 शि॒वौ भ॑वतम॒द्य नः॑ ॥
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+भव॑तम् । [12] नः॒ । सम॑नसा॒विति॒ स-म॒न॒सौ॒ । समो॑कसा॒विति॒ सम्-ओ॒क॒सौ॒ । अ॒रे॒पसौ॑ ॥ 
+
+मा । य॒ज्ञम् । हिँ॒सि॒ष्ट॒म् । मा । य॒ज्ञप॑ति॒मिति॑ य॒ज्ञ-प॒ति॒म् । जा॒त॒वे॒द॒सा॒विति॑ जात-वे॒द॒सौ॒ ।   
+
+शि॒वौ । भ॒व॒त॒म् । अ॒द्य । नः॒ ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 11जातम् अग्निम् आहवनीये प्रहरति - भवतन्न इति पङ्क्त्या पञ्चपदया वस्वष्टऋतुदशाक्षरया ॥ +++(वसु-८. अष्ट८,=१६ अक्षराणि। ऋतु-६ दश १०=१६ अक्षराणि। )+++
@@ -401,9 +457,6 @@ be ye two auspicious to-day with us.
 </details>
 </details>
 </div>
-
-
-
 
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -428,11 +481,19 @@ The son of the Rsis, the overlord he;
 With the cry of Hail! I offer to thee with devotion;  
 Do thou not spoil the share of the gods.
 </details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्नाव॒ग्निश्च॑रति॒ प्रवि॑ष्ट॒ ऋषी॑णाम्पु॒त्त्रो अ॑धिरा॒ज ए॒षः ।    
 स्वा॒हा॒कृत्य॒ ब्रह्म॑णा ते जुहोमि॒ मा दे॒वाना॑म्मिथु॒या क॑र्भाग॒धेय॑म् ॥ [13]
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒ग्नौ । अ॒ग्निः । च॒र॒ति॒ । प्रवि॑ष्ट॒ इति॒ प्र-वि॒ष्टः॒ । ऋषी॑णाम् । पु॒त्रः । अ॒धि॒रा॒ज इत्य॑धि-रा॒जः । ए॒षः ॥   
+स्वा॒हा॒कृत्येति॑ स्वाहा-कृत्य॑ । ब्रह्म॑णा । ते॒ । जु॒हो॒मि॒ । मा । दे॒वाना॑म् । मि॒थु॒या । कः॒ । भा॒ग॒धेय॒मिति॑ भाग-धेय॑म् ॥ [13]
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 12प्रहृत्य स्रुवेणाभिजुहोति - अग्नावग्निरिति चतुष्पदया त्रिष्टुभा ॥ अग्नौ आहवनीये प्रविष्टो मथित्वा तत्र प्रहृतोयमग्निश्चरति चरतु भक्षयतु इदमाज्यम् । 'प्रहृत्य जुहोति जातायैवास्मा अन्नमपि दधाति' ` इति च ब्राह्मणम् । चरतेः पञ्चमो लकारः । प्रविष्ट इति 'गतिरनन्तरः' इति पूर्वपदप्रकृतिस्वरत्वम् । 

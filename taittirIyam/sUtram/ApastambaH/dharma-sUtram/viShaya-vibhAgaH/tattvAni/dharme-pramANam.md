@@ -114,7 +114,6 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/13/07_dRShTo_dharmavyatikramas_sAhasam.md">
 <details open><summary><h4>07 दृष्टो धर्मव्यतिक्रमस् साहसम् ...{Loading}...</h4></summary>
 
-
 दृष्टो धर्मव्यतिक्रमः साहसं च पूर्वेषाम् ७
 </details>
 </div>
@@ -131,7 +130,6 @@ unicode_script: devanagari
 </details>
 </div>
   
-
 
 ## देश-कुलाचारेषु
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/15/01_etena_deshakuladharmA_vyAkhyAtAH.md">

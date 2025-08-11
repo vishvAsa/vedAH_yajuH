@@ -8,10 +8,12 @@ unicode_script = "devanagari"
 
 "कर्म॑णे वान्दे॒वेभ्य॑श् शकेय॒म्" इत्या॑ह॒ शक्त्यै॑ ।
 </details>
+
 <details><summary>मूलम्</summary>
 
 कर्म॑णे वान्दे॒वेभ्य॑श्शकेय॒"मित्या॑ह॒ शक्त्यै॑ ।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 1कर्मणे वामित्यादि ॥ 'कर्मणे वाम्' इतीह कर्मारम्भे हस्तयोस्संमर्शनम् ।
@@ -32,12 +34,14 @@ unicode_script = "devanagari"
 "य॒ज्ञस्य॒ **सन्त॑तिर्** असि  
 य॒ज्ञस्य॑ त्वा॒ सन्त॑त्यै स्तृणामि॒ सन्त॑त्यै ।"
 </details>
+
 <details><summary>मूलम्</summary>
 
 य॒ज्ञस्य॒ वै सन्त॑ति॒मनु॑ प्र॒जाᳶ प॒शवो॒ यज॑मानस्य॒ सन्ता॑यन्ते ।   
 य॒ज्ञस्य॒ विच्छि॑त्ति॒मनु॑ प्र॒जाᳶ प॒शवो॒ यज॑मानस्य॒ विच्छि॑द्यन्ते ।  
 य॒ज्ञस्य॒ सन्त॑तिरसि य॒ज्ञस्य॑ त्वा॒ सन्त॑त्यै स्तृणामि॒ सन्त॑त्यै ।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 यज्ञस्य वा इति । लक्षणेऽनोः कर्मप्रवचनीयत्वम् ।
@@ -53,11 +57,13 @@ unicode_script = "devanagari"
 "त्वा य॒ज्ञस्ये"त्य् आह॑व॒नीया॒त् सन्त॑नोति॒ -  
 यज॑मानस्य प्र॒जायै॑ पशू॒नाँ सन्त॑त्यै ।
 </details>
+
 <details><summary>मूलम्</summary>
 
 "त्वा य॒ज्ञस्ये"त्याह॑व॒नीया॒त्सन्त॑नोति ।  
 यज॑मानस्य प्र॒जायै॑ पशू॒नाँ सन्त॑त्यै ।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 आहवनीयादिति । गार्हपत्यात्प्रक्रम्य संततामुलपराजीं स्तृणात्याहवनीयात् ॥
@@ -77,52 +83,76 @@ unicode_script = "devanagari"
 श्र॒द्धा वा आपः॑ ।  
 श्र॒द्धामे॒वारभ्य॑ प्र॒णीय॒ प्रच॑रति ।
 </details>
+
 <details><summary>मूलम्</summary>
 
 अ॒पᳶ प्रण॑यति ।  
 श्र॒द्धा वा आपः॑ ।  
 श्र॒द्धामे॒वारभ्य॑ प्र॒णीय॒ प्रच॑रति ।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 2अपः प्रणयतीत्यसकृद्विधानं फलविशेषार्थम् ।
+सर्वैः श्रद्धेयत्वादपां श्रद्धात्वम् ।
 </details>
 
-सर्वैः श्रद्धेयत्वादपां श्रद्धात्वम् ।
+<details><summary>सायण-टीका</summary>
+
+प्रणयनं विधत्ते — ‘अपः प्रणयति’ (ब्रा. का. ३ प्र. २ अ. ४ ) इति।  
+
+प्रणयनविधेरर्थवादमाह – ‘श्रद्धा वा आपः। श्रद्धामेवाऽऽरभ्य प्रणीय प्रचरति” (ब्रा. का. ३ प्र. २ अ. ४ ) इति। 
+</details>
+
 <details open><summary>विश्वास-प्रसुतिः</summary>
 
 अ॒पᳶ प्रण॑यति ।  
 य॒ज्ञो वा आपः॑ ॥ 28॥  
 य॒ज्ञमे॒वारभ्य॑ प्र॒णीय॒ प्रच॑रति ।
 </details>
+
 <details><summary>मूलम्</summary>
 
 अ॒पᳶ प्रण॑यति ।  
 य॒ज्ञो वा आपः॑ ॥ 28॥  
 य॒ज्ञमे॒वारभ्य॑ प्र॒णीय॒ प्रच॑रति ।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 इष्टसाधनत्वात् यज्ञत्वमपाम् ।
+प्रचरणं प्रयोगः ।
 </details>
 
-प्रचरणं प्रयोगः ।
+<details><summary>सायण-टीका</summary>
+
+पूर्वोक्तमेव प्रणयनविधिं पुनः पुनरनूय बहुधा स्तौति — “अपः प्रणयति। यज्ञो वा आपः। यज्ञमेवाऽऽरभ्य प्रणीय प्रचरति। 
+</details>
+
 <details open><summary>विश्वास-प्रसुतिः</summary>
 
 अ॒पᳶ प्रण॑यति ।  
 वज्रो॒ वा आपः॑ ।  
 वज्र॑मे॒व भ्रातृ॑व्येभ्यᳶ प्र॒हृत्य॑ प्र॒णीय॒ प्रच॑रति ।
 </details>
+
 <details><summary>मूलम्</summary>
 
 अ॒पᳶ प्रण॑यति ।  
 वज्रो॒ वा आपः॑ ।  
 वज्र॑मे॒व भ्रातृ॑व्येभ्यᳶ प्र॒हृत्य॑ प्र॒णीय॒ प्रच॑रति ।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अरिष्टशमनत्वाद्वज्रत्वम् ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+अपः प्रणयति। वज्रो वा आपः। वज्रमेव भ्रातृव्येभ्य प्रह्रत्य प्रणीय प्रचरति। 
+</details>
+
 <details open><summary>विश्वास-प्रसुतिः</summary>
 
 अ॒पᳶ प्रण॑यति ।    
@@ -137,6 +167,7 @@ unicode_script = "devanagari"
 आपो॒ वै सर्वा॑ दे॒वताः॑ ।   
 दे॒वता॑ ए॒वारभ्य॑ प्र॒णीय॒ प्रच॑रति ।
 </details>
+
 <details><summary>मूलम्</summary>
 
 अ॒पᳶ प्रण॑यति ।    
@@ -151,14 +182,22 @@ unicode_script = "devanagari"
 आपो॒ वै सर्वा॑ दे॒वताः॑ ।   
 दे॒वता॑ ए॒वारभ्य॑ प्र॒णीय॒ प्रच॑रति ।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 सर्व देवताप्रीणनत्वात् सर्व देवतात्वम् ॥
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+अपः प्रणयति। आपो वै रक्षोघ्नीः। रक्षसामपहत्यै। अपः प्रणयति। आपो वै देवानां प्रियं धाम। देवानामेव प्रियं धाम प्रणीय प्रचरति। अपः प्रणयति। आपो वै सर्वा देवताः । देवता एवाऽऽरभ्य प्रणीय प्रचरति” (ब्रा. का. ३ प्र. २ अ. ४ ) इति। 
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-(आपो॒वैशा॒न्ताः । शा॒न्ताभि॑रे॒वास्य॑ शुचँ॑शमयति ॥)
+(आपो॒ वै शा॒न्ताः । शा॒न्ताभि॑र् ए॒वास्य॑ शुचँ॑ शमयति ॥)
 </details>
+
 <details><summary>मूलम्</summary>
 
 (आपो॒वैशा॒न्ताः । शा॒न्ताभि॑रे॒वास्य॑ शुचँ॑शमयति ॥)
@@ -172,11 +211,13 @@ unicode_script = "devanagari"
 "वेषा॑य॒ त्वे"त्या॑ह ।  
 वेषा॑य॒ ह्य् ए॑नद् **आद॒त्ते** +++(शूर्पम्)+++ ।
 </details>
+
 <details><summary>मूलम्</summary>
 
 "वेषा॑य॒ त्वे"त्या॑ह ।  
 वेषा॑य॒ ह्ये॑नदाद॒त्ते ।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 3वेषाय त्वेति शूर्पादानम् ॥ वेषाय व्यापनाय कर्मणे शूर्पमादत्ते॥
@@ -187,12 +228,30 @@ unicode_script = "devanagari"
 शूर्पस्य यज्ञार्थत्वं निर्वापावघातादौ प्रसिद्धमित्याह — “वेषाय त्वेत्याह। वेषाय ह्येनदादत्ते” (ब्रा. का. ३ प्र. २ अ. ४ ) इति।
 </details>
 
-
 ## प्रतितपनम्
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/02_barhirAharaNam/pratyuShTaM_raxaH.md"  newLevelForH1="5" includeTitle="false"> 
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/02_barhirAharaNam/pratyuShTaM_raxaH.md">
+<details open><summary><h5>प्रत्यु॑ष्टँ॒ रक्ष॒ᳶ ...{Loading}...</h5></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"प्रत्यु॑ष्टँ॒ रक्ष॒ᳶ प्रत्यु॑ष्टा॒ अरा॑तय॒" इत्या॑ह ।  
+रक्ष॑सा॒म् अप॑हत्यै ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+"प्रत्यु॑ष्टँ॒ रक्ष॒ᳶ प्रत्यु॑ष्टा॒ अरा॑तय॒" इत्या॑ह ।  
+रक्ष॑सा॒म् अप॑हत्यै ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+व्याचष्टे — “प्रत्युष्टँ रक्षः प्रत्युष्टा अरातय इत्याह। रक्षसामपहत्यै” (ब्रा. का. ३ प्र. २ अ. ४ ) इति।  
+___________________________________________
+
+अनिष्टपरिहारायेष्टसिद्धये चोभौ मन्त्रावित्याह – ‘प्रत्युष्टँ रक्षः प्रत्युष्टा अरातय इत्याह। रक्षसामपहत्यै। 
+</details>
+</details>
 </div>
-
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 4प्रत्युष्टमिति प्रतितपनम् ॥
@@ -208,6 +267,7 @@ unicode_script = "devanagari"
 उ॒प॒स्पृश्यात्ये॑त्य्  
 अ॒ध्व॒र्योश् च॒ यज॑मानस्य॒ चाप्र॑दाहाय ।
 </details>
+
 <details><summary>मूलम्</summary>
 
 "धूर॒सी"त्या॑ह।  
@@ -215,6 +275,7 @@ unicode_script = "devanagari"
 तय्ँ यदनु॑पस्पृश्याती॒याद् अ॒ध्व॒र्युञ्च॒ यज॑मानञ्च॒ प्रद॑हेत् ।  
 उ॒प॒स्पृश्यात्ये॑त्य् अ॒ध्व॒र्योश्च॒ यज॑मानस्य॒ चाप्र॑दाहाय ।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 5धूरसीति धुरोऽभिमर्शनम् ॥ धुर्य इति । यज्ञस्य धुरो वोढा धुर्यः । 'धुरो यढ्ढकौ' ॥
@@ -235,12 +296,14 @@ unicode_script = "devanagari"
 यश् चै॑न॒न् धूर्व॑ति॒  
 ताव् उ॒भौ शु॒चा ऽर्प॑यति ।
 </details>
+
 <details><summary>मूलम्</summary>
 
 "धूर्व॒ तय्ँ यो॑स्मान्धूर्व॑ति॒ तन्धू॑र्व॒ यव्ँव॒यन्धूर्वा॑म॒" इत्या॑ह ।   
 द्वौ वाव पुरु॑षौ ।   
 यञ्चै॒व धूर्व॑ति॒ यश्चै॑न॒न्धूर्व॑ति॒ तावु॒भौ शु॒चाऽर्प॑यति ।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 6धूर्वन्तमिति ॥ धुर्वी हिंसायाम् । 'उपधायां च' इति दीर्घत्वम् ॥
@@ -268,6 +331,7 @@ unicode_script = "devanagari"
 
 अह्रु॑तमसि हवि॒र्धान॒मित्या॒हाना॑र्त्यै ।  
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 7त्वं देवानामिति अनसोऽभिमन्त्रणम् ॥ यथायजुर्वदति अनसो माहात्म्यं तथा सर्वमेतदस्त्वेव ॥
@@ -279,9 +343,8 @@ unicode_script = "devanagari"
 
 द्वितीयभागे व्रीहिभारप्रयुक्तं शैथिल्यं वार्यत इत्याह –”अह्रुतमसि हविर्धानमित्याहानार्त्यै” (ब्रा. का. ३ प्र. २ अ. ४ ) इति। 
 </details>
-
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/03_dohanam/dRMhasva.md"  newLevelForH1="5" includeTitle="false">   
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/03_dohanam/dRMhasva.md">
+<details open><summary><h5>दृँह॑स्व॒ ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "दृँह॑स्व॒ मा ह्वा॒र्"+++(=कुटिलीभव)+++ इत्या॑ह॒ धृत्यै॑ ॥17॥
@@ -291,8 +354,13 @@ unicode_script = "devanagari"
 
 "दृँह॑स्व॒ मा ह्वा॒"र्+++(=कुटिलीभव)+++ इत्या॑ह॒ धृत्यै॑ ॥17॥
 </details>
-</div>
 
+<details><summary>सायण-टीका</summary>
+
+तृतीयभागे स्वयमप्यारोढुं शकटस्य धैर्यं संपाद्यत इत्याह — “दृँहस्व मा ह्वारित्याह धृत्यै” (ब्रा. का. ३ प्र. २ अ. ४ ) इति। 
+</details>
+</details>
+</div>
 
 ## प्रेक्षणम्
 <details open><summary>विश्वास-प्रसुतिः</summary>
@@ -300,11 +368,13 @@ unicode_script = "devanagari"
 "मि॒त्रस्य॑ त्वा॒ चक्षु॑षा॒ प्रेक्ष॒" इत्य् आ॑ह मित्र॒त्वाय॑ ।   
 "मा भेर्, मा सव्ँ वि॑क्था॒, मा त्वा॑ हिँसिष॒म्" इत्य् आ॒हाहिँ॑सायै ।   
 </details>
+
 <details><summary>मूलम्</summary>
 
 "मि॒त्रस्य॑ त्वा॒ चक्षु॑षा॒ प्रेक्ष॒" इत्या॑ह मित्र॒त्वाय॑ ।   
 "मा भेर्मा सव्ँ वि॑क्था॒ मा त्वा॑ हिँसिष॒म्" इत्या॒हाहिँ॑सायै ।   
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 8मित्रस्य त्वेति पुरोडाशीयानां प्रोक्षणम् ॥
@@ -325,12 +395,14 @@ unicode_script = "devanagari"
 "उ॒रु वाता॒ये"त्य् आ॑ह ।   
 अ-वा॑रुणम् ए॒वैन॑त् करोति ।
 </details>
+
 <details><summary>मूलम्</summary>
 
 यद्वै किञ्च॒ वातो॒ नाभि॒वाति॒ तत्सर्व॑व्ँवरुणदेव॒त्य॑म् ।
 "उ॒रु वाता॒ये"त्या॑ह ।   
 अवा॑रुणमे॒वैन॑त्करोति ।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 9उरुवातायेति तृणादिनिरसनम् ॥ यद्वातो न प्रविशति तद्वरुणदेवत्यं वारकेण तमसा गृहीतं, तत् तस्मात् तृणादिनिरसनेन वातसञ्चारार्थं महानवकाशः क्रियत इति यावत् ॥
@@ -342,11 +414,16 @@ unicode_script = "devanagari"
 </details>
 
 ## निर्वापः
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/04_havir-nirvApaH/devasya_tvA_savituH.md"  newLevelForH1="5" includeTitle="false"> 
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/04_havir-nirvApaH/devasya_tvA_savituH.md">
+<details open><summary><h5>दे॒वस्य॑ त्वा ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒व" इत्या॑ह॒ प्रसू॑त्यै ।
+</details>
+
+<details><summary>Keith</summary>
+
+'On the impulse of the god Savitr thee', he says, for impelling.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -354,12 +431,27 @@ unicode_script = "devanagari"
 "दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒व" इत्या॑ह॒ प्रसू॑त्यै ।
 </details>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/04_havir-nirvApaH/ashvinor_bAhubhyAm.md"  newLevelForH1="5" includeTitle="false"> 
+<details><summary>सायण-टीका</summary>
 
+व्याचष्टे- “देवस्य त्वा सवितुः प्रसव इत्याह प्रसूत्यै।" 
+____________________________________
+
+अत्र वाक्यपूरणायाग्नय इत्यादिकमध्याहृतमतो यथाम्नातमेवानूद्य व्याचष्टे — “देवस्य त्वा सवितुः प्रसव इत्याह प्रसूत्यै।" 
+__________________________________________________________________________________
+
+अत्रानाम्नातमप्यनेनैवाभिप्रायेण व्याचष्टे – “देवस्य त्वा सवितुः प्रसव इत्याह प्रसूत्यै।" 
+</details>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/04_havir-nirvApaH/ashvinor_bAhubhyAm.md">
+<details open><summary><h10>अ॒श्विनो॑र् बा॒हुभ्या॒म् ...{Loading}...</h10></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"अ॒श्विनो॑र् बा॒हुभ्या॒म्" इत्य् आ॑ह ।
+"अ॒श्विनो॑र् बा॒हुभ्या॒म्" इत्य् आ॑ह ।  
 अ॒श्विनौ॒ हि दे॒वाना॑म् अध्व॒र्यू आस्ता॑म् ।
+</details>
+
+<details><summary>Keith</summary>
+
+'With the arms of the Aśvins', he says, for the Aśvins were the Adhvaryus of the gods. 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -368,14 +460,31 @@ unicode_script = "devanagari"
 अ॒श्विनौ॒ हि दे॒वाना॑मध्व॒र्यू आस्ता॑म् ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अ॒श्विनोः॑ । बा॒हुभ्या॒मिति॑ बा॒हु-भ्या॒म् । इति॑ । आ॒ह॒ ।
+अ॒श्विनौ॑ । हि । दे॒वाना॑म् । अ॒ध्व॒र्यू इति॑ । आस्ता॑म् ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अध्वर्यू इति । अध्वरस्य नेतारौ मणिबन्धादुपरि वा स्तः ।
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+अश्विनोर्बाहुभ्यामित्याह। अश्विनौ हि देवानामध्वर्यू आस्ताम्। 
+
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"पू॒ष्णो हस्ता॑भ्या॒म्" इत्य् आ॑ह॒ यत्यै॑ ।
+"पू॒ष्णो हस्ता॑भ्या॒"म् इत्य् आ॑ह॒ यत्यै॑ ।
+</details>
+
+<details><summary>Keith</summary>
+
+'With the hands of Pusan', he says, for restraint. 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -383,13 +492,25 @@ unicode_script = "devanagari"
 "पू॒ष्णो हस्ता॑भ्या॒"मित्या॑ह॒ यत्यै॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+पू॒ष्णः । हस्ता॑भ्याम् । इति॑ । आ॒ह॒ । यत्यै॑ । 4 ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
-यत्यै यमनाय धारणाय ॥
+**यत्यै** यमनाय धारणाय ॥
 </details>
-</div>  
-</div>  
 
+<details><summary>सायण-टीका</summary>
+
+पूष्णो हस्ताभ्यामित्याह यत्यै (ब्रा. का.३ प्र.२ अ.९) इति ।
+
+</details>
+</details>
+</div>
+</details>
+</div>
 <details><summary>भट्टभास्कर-टीका</summary>
 
 10देवस्यत्वेति हविषो निर्वापणम् ॥ व्याख्यातम् ।
@@ -412,8 +533,6 @@ unicode_script = "devanagari"
 अग्नये जुष्टं निर्वपामीत्याह। अग्नय एवेनाञ्जुष्टं निर्वपति” (ब्रा. का. ३ प्र. २ अ. ४ ) इति। एनान्व्रीहीन्प्रियं हविर्यथा भवति तथा निर्वपति। 
 </details>
 
-
-
 <details open><summary>विश्वास-प्रसुतिः</summary>
 
 त्रिर् यजु॑षा ।   
@@ -424,6 +543,7 @@ unicode_script = "devanagari"
 अ-प॑रिमितम् **ए॒वाव॑रुन्धे** ।
 स ए॒वम् ए॒वानु॑पू॒र्वँ ह॒वीँषि॒ **निर्व॑पति** ॥33॥
 </details>
+
 <details><summary>मूलम्</summary>
 
 त्रिर्यजु॑षा ।   
@@ -434,6 +554,7 @@ unicode_script = "devanagari"
 अप॑रिमितमे॒वाव॑रुन्धे ।
 स ए॒वमे॒वानु॑पू॒र्वँ ह॒वीँषि॒ निर्व॑पति ॥33॥
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हवींषीति । अग्नीषोमीयादीनि ॥
@@ -451,10 +572,12 @@ unicode_script = "devanagari"
 
 "इ॒दन् दे॒वाना॑म् इ॒दम् उ॑ नस् स॒हे"त्य् आ॑ह॒ व्यावृ॑त्यै ।
 </details>
+
 <details><summary>मूलम्</summary>
 
 "इ॒दन्दे॒वाना॑मि॒दमु॑ नस्स॒हे"त्या॑ह॒ व्यावृ॑त्यै ।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 11इदं देवानामिति निरुप्ताभिमर्शनम् ॥ इदमु न इति निरुप्तशेषाभिमर्शनम् । व्यावृत्तिः निरुप्तानिरुप्तविभागः ॥
@@ -470,6 +593,7 @@ unicode_script = "devanagari"
 
 "स्फा॒त्यै त्वा॒ नारा॑त्या॒" इत्या॑ह॒ गुप्त्यै॑ ।
 </details>
+
 <details><summary>मूलम्</summary>
 
 "स्फा॒त्यै त्वा॒ नारा॑त्या॒" इत्या॑ह॒ गुप्त्यै॑ ।
@@ -484,11 +608,13 @@ unicode_script = "devanagari"
 
 तम॑सीव॒ वा ए॒षो॑ऽन्तश् च॑रति॒ यᳶ प॑री॒णहि॑ ।
 </details>
+
 <details><summary>मूलम्</summary>
 
 तम॑सीव॒ वा ए॒षो॑ऽन्तश्च॑रति ।
 यᳶ प॑री॒णहि॑ ।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 12स्फात्या इति कोष्ठादौ शिष्टावपनम् ॥ परीणत् गहम्, आवपनं वा ॥
@@ -506,11 +632,13 @@ unicode_script = "devanagari"
 
 सुव॑र् ए॒वाभि विप॑श्यति वैश्वान॒रञ् ज्योतिः॑ ।   
 </details>
+
 <details><summary>मूलम्</summary>
 
 "सुव॑र॒भि विख्ये॑षव्ँ वैश्वान॒रञ्ज्योति॒"रित्या॑ह ।
 सुव॑र् ए॒वाभि विप॑श्यति वैश्वान॒रञ् ज्योतिः॑ ।   
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 13सुवरिति आहवनीयानुवीक्षणम् ॥
@@ -529,6 +657,7 @@ unicode_script = "devanagari"
 "दृँह॑न्ता॒न् दुर्या॒+++(=द्वारवन्ति)+++ द्यावा॑पृथि॒व्यो"र् इत्य् आ॑ह ।  
 गृ॒हाणा॒न् द्यावा॑पृथि॒व्योर् धृत्यै॑ ।
 </details>
+
 <details><summary>मूलम्</summary>
 
 द्यावा॑पृथि॒वी ह॒विषि॑ गृही॒त उद॑वेपेताम् ।
@@ -545,12 +674,11 @@ unicode_script = "devanagari"
 
 अदार्ढ्यशङ्कायाः सद्भावाद्दार्ढ्यमाशंसनीयमित्याह — ‘द्यावापृथिवी हविषि गृहीत उदवेपेताम्। दृँहन्तां दुर्या द्यावापृथिव्योरित्याह। गृहाणां द्यावापृथिव्योर्धृत्यै’ (ब्रा. का. ३ प्र. २ अ. ४ ) इति। 
 </details>
-
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/02_barhirAharaNam/urv-antarixam.md"  newLevelForH1="5" includeTitle="false">   
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/02_barhirAharaNam/urv-antarixam.md">
+<details open><summary><h5>उ॒र्व॑न्तरि॑क्ष॒म् ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"उ॒र्व् अ॒॑न्तरि॑क्ष॒म् अन्वि॒ही"त्या॑ह॒ गत्यै॑ ।
+"उ॒र्व॑न्तरि॑क्ष॒म् अन्वि॒ही"त्या॑ह॒ गत्यै॑ ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -562,8 +690,13 @@ unicode_script = "devanagari"
 
 24उर्विति प्रत्यागच्छति ॥ तत्र अन्तरिक्षस्य उरुत्वाभिधानं गत्यै अविहतायै भवति ॥
 </details>
-</div>
 
+<details><summary>सायण-टीका</summary>
+
+व्याचष्टे — ‘उर्वन्तरिक्षमन्विहीत्याह गत्यै’ (ब्रा. का. ३ प्र. २ अ. ४ ) इति।
+</details>
+</details>
+</div>
 <details><summary>भट्टभास्कर-टीका</summary>
 
 15उर्विति गमनम् ॥
@@ -576,12 +709,14 @@ unicode_script = "devanagari"
 इ॒यव्ँ वा अदि॑तिः ।   
 अ॒स्या ए॒वैन॑द् उ॒पस्थे॑ सादयति ।
 </details>
+
 <details><summary>मूलम्</summary>
 
 "अदि॑त्यास्त्वो॒पस्थे॑ सादया॒मी"त्या॑ह ।  
 इ॒यव्ँ वा अदि॑तिः ।   
 अ॒स्या ए॒वैन॑दु॒पस्थे॑ सादयति ।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 16अदित्या इति परेण गार्हपत्यमाहवनीयं वा सादनम् ॥
@@ -591,20 +726,31 @@ unicode_script = "devanagari"
 
 अदितिशब्दस्य भूमिरर्थ इत्याह – ‘अदित्यास्त्वोपस्थे सादयामीत्याह। इयं वा अदितिः। अस्या एवैनदुपस्थे सादयति’ (ब्रा. का. ३ प्र. २ अ. ४ ) इति।
 </details>
-
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/04_havir-nirvApaH/agne_havyam.md"  newLevelForH1="5" includeTitle="false">   
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/04_havir-nirvApaH/agne_havyam.md">
+<details open><summary><h5>अग्ने॑ ह॒व्यँ ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रसुतिः</summary>
 
 "अग्ने॑ ह॒व्यँ र॑क्ष॒स्वे"त्या॑ह॒ गुप्त्यै॑ ॥34॥
 </details>
+
 <details><summary>मूलम्</summary>
 
 "अग्ने॑ ह॒व्यँ र॑क्ष॒स्वे"त्या॑ह॒ गुप्त्यै॑ ॥34॥
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 17अग्ने हव्यमिति गार्हपत्याभिमन्त्रणम् ॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+अत्र हविषो रक्षामात्रं विवक्षितमित्याह- ‘अग्ने हव्यँ रक्षस्वेत्याह गुप्त्यै’ (ब्रा. का. ३ प्र. २ अ. ४ ) इति।
+
+_______________________________
+
+पूर्ववद्व्याचष्टे – ‘अग्ने हव्यँ रक्षस्वेत्याह गुप्त्यै’ (ब्रा. का. ३ प्र. २ अ. ८) इति।  
+</details>
 </details>
 </div>
 

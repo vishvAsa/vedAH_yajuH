@@ -19,6 +19,7 @@ title = "०५ ऋतुसमवेशनम्"
 
 13. After the appearance of her monthly illness, he should, when going to cohabit with her after her illness, recite over her, after she has bathed, the next verses (M. I, 12, 1-13, 4).
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 **रजसः** लोहितस्य ।
@@ -31,6 +32,7 @@ title = "०५ ऋतुसमवेशनम्"
 
 इति श्रीहरहरदत्तविरचितायां गृह्यसूत्रवृत्तावनाकुलायामष्टमः खण्डः ॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **रजसः** शोणितस्य ।
@@ -68,6 +70,7 @@ title = "०५ ऋतुसमवेशनम्"
 
 1. Each following night with an even number, from the fourth (after the beginning of her monthly illness) till the sixteenth, brings more excellent offspring to them, if chosen for the (first) cohabiting after her illness; thus it is said.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 **षोडशीम्** इति पञ्चम्यर्थे द्वितीया ।
@@ -84,6 +87,7 @@ title = "०५ ऋतुसमवेशनम्"
 पश्चात् समावेशनमन्त्राः ।
 विपरीतमन्ये ॥१॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 चतुर्थीप्रभृतीति दीर्घेणार्थपाठः ।

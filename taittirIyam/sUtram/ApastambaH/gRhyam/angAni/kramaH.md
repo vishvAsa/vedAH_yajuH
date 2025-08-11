@@ -6,7 +6,6 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/01_sAmAnyaparibhAShAH/01_05_purastAdudagvopakramaH_aniyame.md">
 <details open><summary><h2>०१ ०५ पुरस्तादुदग्वोपक्रमः अनियमे ...{Loading}...</h2></summary>
 
-
 +++(देवकर्मसु)+++ पुरस्तादुदग्वोपक्रमः
 
 </details>
@@ -20,7 +19,6 @@ unicode_script: devanagari
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/01_sAmAnyaparibhAShAH/01_09_prasavyam.md">
 <details open><summary><h2>०१ ०९ प्रसव्यम् ...{Loading}...</h2></summary>
-
 
 +++(पित्र्येषु)+++ प्रसव्यम् ९
 

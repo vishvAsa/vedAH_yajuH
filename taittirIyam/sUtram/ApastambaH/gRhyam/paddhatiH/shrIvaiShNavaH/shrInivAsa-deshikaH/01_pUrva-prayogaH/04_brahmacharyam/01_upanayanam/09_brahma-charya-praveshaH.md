@@ -13,7 +13,6 @@ title = "०९ ब्रह्म-चर्य-प्रवेशः"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/14_brahmachAryasy_apo-shAna.md">
 <details open><summary><h2>१४ ब्रह्मचार्यस्य्, अपोऽशान ...{Loading}...</h2></summary>
 
-
 ब्र॒ह्म॒चा॒र्य् अ॑सि।   
 (वटुः - बाढम्।) 
 
@@ -45,7 +44,6 @@ title = "०९ ब्रह्म-चर्य-प्रवेशः"
 अन्यः ब्रह्मोपदेष्टा चेत्  
 तस्य पत्नी, आचार्याणी,  
 सापि अभिवादयितुम् अर्हति । 
-
 
 इदम् अभिवादनं भिक्षा-काल एवेति न,  
 किन्तु यदा यदा मातरम् आचार्याणीञ् च नमस्करोति  

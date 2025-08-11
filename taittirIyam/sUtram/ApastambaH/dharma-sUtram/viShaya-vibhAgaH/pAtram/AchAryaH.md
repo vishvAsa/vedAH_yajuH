@@ -84,7 +84,6 @@ unicode_script: devanagari
 </div>
    
 
-
 ## परीक्षा
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/06/01_jAtyAchArasaMshaye_dharmArthamAgatamagnimupasamAdhAya_jAtimAchAra~n.md">
 <details open><summary><h4>01 जात्याचारसंशये धर्मार्थमागतमग्निमुपसमाधाय जातिमाचारञ् ...{Loading}...</h4></summary>

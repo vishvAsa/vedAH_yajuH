@@ -15,7 +15,6 @@ title = "२५ दर्शादितर्पणम्"
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH/prakIrNaH/devaH/classes/pitaraH/Rk/AyAta_pitaraH.md">
 <details open><summary><h5>AyAta_pitaraH ...{Loading}...</h5></summary>
 
-
 आया॑त पितरस् सो॒म्या  
 ग॑म्भी॒रैः प॒थिभिः॑ पू॒र्व्यैः ।  
 प्र॒जाम् अ॒स्मभ्यं॑ ददतो+++(=ददत + उ)+++ र॒यिञ् च॑  
@@ -34,7 +33,6 @@ title = "२५ दर्शादितर्पणम्"
 पि॒ता॒म॒हाः प्रपि॑तामहाश् चानु॒गैस् स॒ह ॥33॥
 </details>
 </div>
-
 
 पित्रादीनामिदमासनम् । सकलाराधनैः स्वर्चितम् ।  
 तिलसहितमुदकं पितृतीर्थेन दद्यात् । मन्त्रं विना (त्रिः)
@@ -72,7 +70,6 @@ title = "२५ दर्शादितर्पणम्"
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/02/34_UrjaM_vahantIramRtam.md">
 <details open><summary><h5>३४ ऊर्जं वहन्तीरमृतम् ...{Loading}...</h5></summary>
-
 
 ऊर्जं॒ वह॑न्तीर् अ॒मृतं॑ घृ॒तं  
 पयः॑ की॒लालं॑ परि॒स्रु॑तम्।  
@@ -120,12 +117,10 @@ title = "२५ दर्शादितर्पणम्"
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/016/12_ushantastvA_ni.md">
 <details open><summary><h5>१२ उशन्तस्त्वा नि ...{Loading}...</h5></summary>
 
-
-उ॒शन्त॑स्त्वा॒ नि धी॑मह्य्  
-उ॒शन्तः॒ समि॑धीमहि ।  
-उ॒शन्न् उ॑श॒त आ व॑ह  
-पि॒तॄन् ह॒विषे॒ अत्त॑वे ॥
-
+उश᳓न्तस् त्वा नि᳓ धीमहि  
+उश᳓न्तः स᳓म् इधीमहि  
+उश᳓न्न् उशत᳓ आ᳓ वह  
+पितॄ᳓न् हवि᳓षे अ᳓त्तवे
 </details>
 </div>  
 
@@ -133,10 +128,29 @@ title = "२५ दर्शादितर्पणम्"
 
 इति तिलैरावाह्य .....
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/A_yantu.md" unfilled newLevelForH1="5" includeTitle="false">   
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/A_yantu.md">
+<details open><summary><h5>५८ आ यन्तु ...{Loading}...</h5></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> आय॑न्तु नः पि॒तर॑स्सो॒म्यासौ॑ऽग्निष्वा॒त्ताः प॒थिर्भिर्देव॒यानैः॑ ।  
+आ य॑न्तु नः पि॒तरः॑ सो॒म्यासो॑  
+ऽग्निष्वा॒त्ताः प॒थिभि॑र् देव॒यानैः॑।  
+अ॒स्मिन् य॒ज्ञे स्व॒धया॒ मद॒न्त्व्  
+अधि॑ ब्रुवन्तु॒ ते᳖ अवन्त्व् अ॒स्मान् ॥
+</details>
+
+<details><summary>मूलम्</summary>
+
+आय॑न्तु नः पि॒तर॑स्सो॒म्यासौ॑ऽग्निष्वा॒त्ताः प॒थिर्भिर्देव॒यानैः॑ ।  
 अ॒स्मिन् य॒ज्ञे स्व॒धया॑ मद॒न्त्वधि॑ ब्रुवन्तु॒ ते अव॑न्त्व॒स्मान् ॥
+
+[MS](/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/19/58_A_yantu.md)
+</details>
+
+<details><summary>टीका</summary>
+
+[MS](/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/sarvASh_TIkAH/19/58_A_yantu.md)
+</details>
+</details>
 </div>
 
 > .... पितृपितामहप्रपितामहानाम् इदमासनम् । सकलाराधनैः स्वर्चितम् ॥
@@ -156,12 +170,10 @@ title = "२५ दर्शादितर्पणम्"
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/016/12_ushantastvA_ni.md">
 <details open><summary><h5>१२ उशन्तस्त्वा नि ...{Loading}...</h5></summary>
 
-
-उ॒शन्त॑स्त्वा॒ नि धी॑मह्य्  
-उ॒शन्तः॒ समि॑धीमहि ।  
-उ॒शन्न् उ॑श॒त आ व॑ह  
-पि॒तॄन् ह॒विषे॒ अत्त॑वे ॥
-
+उश᳓न्तस् त्वा नि᳓ धीमहि  
+उश᳓न्तः स᳓म् इधीमहि  
+उश᳓न्न् उशत᳓ आ᳓ वह  
+पितॄ᳓न् हवि᳓षे अ᳓त्तवे
 </details>
 </div>  
 
@@ -169,12 +181,30 @@ title = "२५ दर्शादितर्पणम्"
 
 इति तिलैरावाह्य ....
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/A_yantu.md" unfilled newLevelForH1="5" includeTitle="false">   
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/A_yantu.md">
+<details open><summary><h5>५८ आ यन्तु ...{Loading}...</h5></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> आय॑न्तु नः पि॒तर॑स्सो॒म्यासौ॑ऽग्निष्वा॒त्ताः प॒थिर्भिर्देव॒यानैः॑ ।  
+आ य॑न्तु नः पि॒तरः॑ सो॒म्यासो॑  
+ऽग्निष्वा॒त्ताः प॒थिभि॑र् देव॒यानैः॑।  
+अ॒स्मिन् य॒ज्ञे स्व॒धया॒ मद॒न्त्व्  
+अधि॑ ब्रुवन्तु॒ ते᳖ अवन्त्व् अ॒स्मान् ॥
+</details>
+
+<details><summary>मूलम्</summary>
+
+आय॑न्तु नः पि॒तर॑स्सो॒म्यासौ॑ऽग्निष्वा॒त्ताः प॒थिर्भिर्देव॒यानैः॑ ।  
 अ॒स्मिन् य॒ज्ञे स्व॒धया॑ मद॒न्त्वधि॑ ब्रुवन्तु॒ ते अव॑न्त्व॒स्मान् ॥
-</div>
 
+[MS](/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/19/58_A_yantu.md)
+</details>
+
+<details><summary>टीका</summary>
+
+[MS](/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/sarvASh_TIkAH/19/58_A_yantu.md)
+</details>
+</details>
+</div>
 
 > ... मातामह-मातुःपितामह-मातुः प्रपिताहानाम् इदमासनम् । सकलाराधनैः स्वर्चितम् ॥  
 ....गोत्रान् ... शर्मणः वसुरूपान् अस्मत्मातुः पितॄन् स्वधा नमस्तर्ययामि । (त्रिः)  
@@ -211,12 +241,10 @@ title = "२५ दर्शादितर्पणम्"
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/016/12_ushantastvA_ni.md">
 <details open><summary><h5>१२ उशन्तस्त्वा नि ...{Loading}...</h5></summary>
 
-
-उ॒शन्त॑स्त्वा॒ नि धी॑मह्य्  
-उ॒शन्तः॒ समि॑धीमहि ।  
-उ॒शन्न् उ॑श॒त आ व॑ह  
-पि॒तॄन् ह॒विषे॒ अत्त॑वे ॥
-
+उश᳓न्तस् त्वा नि᳓ धीमहि  
+उश᳓न्तः स᳓म् इधीमहि  
+उश᳓न्न् उशत᳓ आ᳓ वह  
+पितॄ᳓न् हवि᳓षे अ᳓त्तवे
 </details>
 </div>  
 
@@ -284,12 +312,10 @@ title = "२५ दर्शादितर्पणम्"
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/016/12_ushantastvA_ni.md">
 <details open><summary><h5>१२ उशन्तस्त्वा नि ...{Loading}...</h5></summary>
 
-
-उ॒शन्त॑स्त्वा॒ नि धी॑मह्य्  
-उ॒शन्तः॒ समि॑धीमहि ।  
-उ॒शन्न् उ॑श॒त आ व॑ह  
-पि॒तॄन् ह॒विषे॒ अत्त॑वे ॥
-
+उश᳓न्तस् त्वा नि᳓ धीमहि  
+उश᳓न्तः स᳓म् इधीमहि  
+उश᳓न्न् उशत᳓ आ᳓ वह  
+पितॄ᳓न् हवि᳓षे अ᳓त्तवे
 </details>
 </div>  
 
@@ -297,25 +323,41 @@ title = "२५ दर्शादितर्पणम्"
 
 इति तिलैरावाह्य ... ...
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/A_yantu.md" unfilled newLevelForH1="5" includeTitle="false">   
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/A_yantu.md">
+<details open><summary><h5>५८ आ यन्तु ...{Loading}...</h5></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> आय॑न्तु नः पि॒तर॑स्सो॒म्यासौ॑ऽग्निष्वा॒त्ताः प॒थिर्भिर्देव॒यानैः॑ ।  
+आ य॑न्तु नः पि॒तरः॑ सो॒म्यासो॑  
+ऽग्निष्वा॒त्ताः प॒थिभि॑र् देव॒यानैः॑।  
+अ॒स्मिन् य॒ज्ञे स्व॒धया॒ मद॒न्त्व्  
+अधि॑ ब्रुवन्तु॒ ते᳖ अवन्त्व् अ॒स्मान् ॥
+</details>
+
+<details><summary>मूलम्</summary>
+
+आय॑न्तु नः पि॒तर॑स्सो॒म्यासौ॑ऽग्निष्वा॒त्ताः प॒थिर्भिर्देव॒यानैः॑ ।  
 अ॒स्मिन् य॒ज्ञे स्व॒धया॑ मद॒न्त्वधि॑ ब्रुवन्तु॒ ते अव॑न्त्व॒स्मान् ॥
-</div>
 
+[MS](/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/19/58_A_yantu.md)
+</details>
+
+<details><summary>टीका</summary>
+
+[MS](/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/sarvASh_TIkAH/19/58_A_yantu.md)
+</details>
+</details>
+</div>
 
 > .... गोत्राणां .... शर्मणां .... रूपाणाम् अस्मत्पितृपितामहप्रपितामहानाम् इदमासनम् । सकलाराधनैः स्वर्चितम् ॥
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/02/34_UrjaM_vahantIramRtam.md">
 <details open><summary><h5>३४ ऊर्जं वहन्तीरमृतम् ...{Loading}...</h5></summary>
 
-
 ऊर्जं॒ वह॑न्तीर् अ॒मृतं॑ घृ॒तं  
 पयः॑ की॒लालं॑ परि॒स्रु॑तम्।  
 स्व॒धा स्थ॑ त॒र्पय॑त मे पि॒तॄन् ॥३४॥
 </details>
 </div>  
-
 
 (त्रिः तिलाञ्जलीन् दद्यात्)
 
@@ -334,7 +376,6 @@ title = "२५ दर्शादितर्पणम्"
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/02/34_UrjaM_vahantIramRtam.md">
 <details open><summary><h5>३४ ऊर्जं वहन्तीरमृतम् ...{Loading}...</h5></summary>
-
 
 ऊर्जं॒ वह॑न्तीर् अ॒मृतं॑ घृ॒तं  
 पयः॑ की॒लालं॑ परि॒स्रु॑तम्।  
@@ -357,17 +398,35 @@ title = "२५ दर्शादितर्पणम्"
 
 [[177]]
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/A_yantu.md" unfilled newLevelForH1="5" includeTitle="false">   
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/A_yantu.md">
+<details open><summary><h5>५८ आ यन्तु ...{Loading}...</h5></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> आय॑न्तु नः पि॒तर॑स्सो॒म्यासौ॑ऽग्निष्वा॒त्ताः प॒थिर्भिर्देव॒यानैः॑ ।  
+आ य॑न्तु नः पि॒तरः॑ सो॒म्यासो॑  
+ऽग्निष्वा॒त्ताः प॒थिभि॑र् देव॒यानैः॑।  
+अ॒स्मिन् य॒ज्ञे स्व॒धया॒ मद॒न्त्व्  
+अधि॑ ब्रुवन्तु॒ ते᳖ अवन्त्व् अ॒स्मान् ॥
+</details>
+
+<details><summary>मूलम्</summary>
+
+आय॑न्तु नः पि॒तर॑स्सो॒म्यासौ॑ऽग्निष्वा॒त्ताः प॒थिर्भिर्देव॒यानैः॑ ।  
 अ॒स्मिन् य॒ज्ञे स्व॒धया॑ मद॒न्त्वधि॑ ब्रुवन्तु॒ ते अव॑न्त्व॒स्मान् ॥
+
+[MS](/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/19/58_A_yantu.md)
+</details>
+
+<details><summary>टीका</summary>
+
+[MS](/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/sarvASh_TIkAH/19/58_A_yantu.md)
+</details>
+</details>
 </div>
 
 ... गोत्राणां .... शर्मणां वसुरुद्रादित्यस्वरूपाणाम् अस्मत्मातामहमातृपितामहमातृप्रपितामहानाम् इदमासनम् । सकलाराधनैः स्वर्चितम् ॥
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/02/34_UrjaM_vahantIramRtam.md">
 <details open><summary><h5>३४ ऊर्जं वहन्तीरमृतम् ...{Loading}...</h5></summary>
-
 
 ऊर्जं॒ वह॑न्तीर् अ॒मृतं॑ घृ॒तं  
 पयः॑ की॒लालं॑ परि॒स्रु॑तम्।  
