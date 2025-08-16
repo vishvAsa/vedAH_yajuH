@@ -1,9 +1,8 @@
 ---
 title: ०४ स्रुचावादापयति
 unicode_script: devanagari
+
 ---
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ॒ग्निर् होता॒ वेत्व॒ग्निः ।  
@@ -68,12 +67,12 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वा॒युव॑व्ँवि॒श्ववा॑राम् ।  
+दे॒वा॒युवव्ँ॑वि॒श्ववा॑राम् ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
-दे॒वा॒युव॑व्ँवि॒श्ववा॑राम् ।  
+दे॒वा॒युवव्ँ॑वि॒श्ववा॑राम् ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -102,4 +101,3 @@ unicode_script: devanagari
 इति तैत्तिरीये ब्राह्मणे तृतीये पञ्चमे चतुर्थोऽनुवाकः ॥  
 
 </details>
-

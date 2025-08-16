@@ -30,7 +30,7 @@ Secretly offering is made to one set of gods, openly to another.
 
 <details><summary>मूलम्</summary>
 
-प॒रोक्ष॒व्ँ वा अ॒न्ये दे॒वा इ॒ज्यन्ते॑ ।  
+प॒रोक्षव्ँ॒ वा अ॒न्ये दे॒वा इ॒ज्यन्ते॑ ।  
 प्र॒त्यक्ष॑म॒न्ये ।
 </details>
 
@@ -101,7 +101,7 @@ the Brahmans are the gods openly--them he verily delights.
 
 <details><summary>मूलम्</summary>
 
-ए॒ते वै दे॒वाᳶ प्र॒त्यक्ष॒य्ँयद्ब्रा॑ह्म॒णास्ताने॒व तेन॑ प्रीणाति ।  
+ए॒ते वै दे॒वाᳶ प्र॒त्यक्षय्ँ॒यद्ब्रा॑ह्म॒णास्ताने॒व तेन॑ प्रीणाति ।  
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,7 +156,7 @@ This is his sacrificial fee: verily he mends the rent in the sacrifice;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य᳓द् वै᳓ यज्ञ᳓स्य क्रूर᳓य्ँ य᳓द् वि᳓लिष्टं  
+य᳓द् वै᳓ यज्ञ᳓स्य क्रूरय्ँ᳓ य᳓द् वि᳓लिष्टं  
 त᳓द् अन्वाहार्ये᳙ण [11] +अन्वा᳓हरति ।  
 त᳓द् अन्वाहार्य᳙स्यान्वाहार्यत्व᳓म् ।  
 </details>
@@ -275,7 +275,7 @@ Prajapati distributed the sacrifice to the gods; he reflected that he was empty;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य᳓स्यैव᳓व्ँ विदु᳓षो ऽन्वाहार्य᳙ आह्रिय᳓ते  
+य᳓स्यैवव्ँ᳓ विदु᳓षो ऽन्वाहार्य᳙ आह्रिय᳓ते  
 साक्षा᳓द् एव᳓ प्रजा᳓पतिम् ऋध्नोति ।  
 अ᳓परिमितो निरु᳓प्यो᳓,  
 ऽपरिमितᳶ प्रजा᳓पतिᳶ,  
@@ -318,7 +318,7 @@ he, who knowing thus brings the Anvaharya, assuredly enjoys Prajapati. An unlimi
 ते᳓ देवा᳓ एत᳓म् प्राजापत्य᳓म् अन्वाहार्य᳙म् अपश्यन्।  
 त᳓म् अन्वा᳓हरन्त।  
 त᳓तो देवा᳓ अ᳓भवन् +++(→चादिलोपे विभाषा)+++, प᳓रा᳓सुरा ।  
-य᳓स्यैव᳓व्ँ विदु᳓षो ऽन्वाहार्य᳙ आह्रिय᳓ते,  
+य᳓स्यैवव्ँ᳓ विदु᳓षो ऽन्वाहार्य᳙ आह्रिय᳓ते,  
 भ᳓वत्यात्म᳓ना  
 प᳓रा ऽस्य भ्रा᳓तृव्यो +++(परा-)+++भवति।
 </details>
@@ -363,7 +363,7 @@ Whatever the gods did in the sacrifice, the Asuras did; the gods perceived the A
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यज्ञे᳓न वा᳓ इष्टी᳓, पक्वे᳓न पूर्ती᳓ +++(यजमानः)+++।  
-य᳓स्यैव᳓व्ँ विदु᳓षो ऽन्वाहार्य᳙ आह्रिय᳓ते, स᳓ त्वेवे᳓ष्टापूर्ती᳓।
+य᳓स्यैवव्ँ᳓ विदु᳓षो ऽन्वाहार्य᳙ आह्रिय᳓ते, स᳓ त्वेवे᳓ष्टापूर्ती᳓।
 </details>
 
 <details><summary>Keith</summary>
@@ -506,7 +506,7 @@ By the sacrifice there is offering, by the cooked food satisfying. He who knowin
 
 अक्षि॑तोऽसि ।  
 अक्षि॑त्यै त्वा॒ मा मे॑ क्षेष्ठाः ।  
-अ॒मुत्रा॒मुष्मि॑ल्ँ लो॒क इत्या॑ह ।  
+अ॒मुत्रा॒मुष्मिल्ँ॑ लो॒क इत्या॑ह ।  
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -539,8 +539,8 @@ for given hence in yonder world people live upon it;
 
 <details><summary>मूलम्</summary>
 
-क्षीय॑ते॒ वा अ॒मुष्मि॑ल्ँ लो॒के ।  
-अन्न॑मि॒तᳶप्र॑दानँ॒ ह्य॑मुष्मि॑ल्ँ लो॒के प्र॒जा उ॑प॒जीव॑न्ति ।  
+क्षीय॑ते॒ वा अ॒मुष्मिल्ँ॑ लो॒के ।  
+अन्न॑मि॒तᳶप्र॑दानँ॒ ह्य॑मुष्मिल्ँ॑ लो॒के प्र॒जा उ॑प॒जीव॑न्ति ।  
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -570,7 +570,7 @@ in that he touches thus, he makes it imperishable; his food perishes not in yond
 <details><summary>मूलम्</summary>
 
 यदे॒वम॑भिमृ॒शत्यक्षि॑तिमे॒वैन॑द्गमयति ।  
-नास्या॒मुष्मि॑ल्ँ लो॒केऽन्न॑ङ्क्षीयते ॥ [14]
+नास्या॒मुष्मिल्ँ॑ लो॒केऽन्न॑ङ्क्षीयते ॥ [14]
 </details>
 
 <details><summary>पद-पाठः</summary>

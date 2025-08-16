@@ -1,8 +1,8 @@
 ---
 title: ११ शंयुवाकः
 unicode_script: devanagari
----
 
+---
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1शंयुवाकाय प्रेषितो ब्रवीति - तच्छंयोरित्यादि ॥ 
@@ -18,7 +18,7 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-तच्छ॒य्ँयोरावृ॑णीमहे ।  
+तच्छय्ँ॒योरावृ॑णीमहे ।  
 गा॒तुय्ँ य॒ज्ञाय॑ ।  
 गा॒तुय्ँ य॒ज्ञप॑तये ।  
 </details>
@@ -66,4 +66,3 @@ unicode_script: devanagari
 इत्येकादशोऽनुवाकः ॥  
 
 </details>
-

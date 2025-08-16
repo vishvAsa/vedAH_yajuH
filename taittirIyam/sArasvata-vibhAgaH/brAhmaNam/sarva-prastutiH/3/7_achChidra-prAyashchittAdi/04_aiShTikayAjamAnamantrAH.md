@@ -155,7 +155,7 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/04/22_agningRhNAmi_surathay.Nyo.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-अ॒ग्निङ्गृ॑ह्णामि सु॒रथ॒य्ँयो म॑यो॒भूः ।  
+अ॒ग्निङ्गृ॑ह्णामि सु॒रथय्ँ॒यो म॑यो॒भूः ।  
 य उ॒द्यन्त॑मा॒रोह॑ति॒ सूर्य॒मह्ने॑ ।  
 आ॒दि॒त्यञ्ज्योति॑षा॒ञ्ज्योति॑रुत्त॒मम् ।  
 श्वो य॒ज्ञाय॑ रमतान्दे॒वता॑भ्यः ।
@@ -165,7 +165,7 @@ unicode_script: devanagari
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
-अ॒ग्निङ्गृ॑ह्णामि सु॒रथ॒य्ँयो म॑यो॒भूः ।  
+अ॒ग्निङ्गृ॑ह्णामि सु॒रथय्ँ॒यो म॑यो॒भूः ।  
 य उ॒द्यन्त॑मा॒रोह॑ति॒ सूर्य॒मह्ने॑ ।  
 आ॒दि॒त्यञ्ज्योति॑षा॒ञ्ज्योति॑रुत्त॒मम् ।  
 श्वो य॒ज्ञाय॑ रमतान्दे॒वता॑भ्यः ।
@@ -289,7 +289,7 @@ unicode_script: devanagari
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 इ॒ह प्र॒जा वि॒श्वरू॑पा रमन्ताम् ।  
-अ॒ग्निङ्गृ॒हप॑तिम॒भिस॒व्ँवसा॑नाः ।  
+अ॒ग्निङ्गृ॒हप॑तिम॒भिसव्ँ॒वसा॑नाः ।  
 ताᳶ पूर्व॒ ᳶ परि॑गृह्णामि ॥27॥  
 स्व आ॒यत॑ने मनी॒षया॑ ।
 </details>
@@ -299,7 +299,7 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 इ॒ह प्र॒जा वि॒श्वरू॑पा रमन्ताम् ।  
-अ॒ग्निङ्गृ॒हप॑तिम॒भिस॒व्ँवसा॑नाः ।  
+अ॒ग्निङ्गृ॒हप॑तिम॒भिसव्ँ॒वसा॑नाः ।  
 ताᳶ पूर्व॒ ᳶ परि॑गृह्णामि ॥27॥  
 स्व आ॒यत॑ने मनी॒षया॑ ।
 </details>
@@ -316,7 +316,7 @@ unicode_script: devanagari
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 इ॒ह प॒शवो॑ वि॒श्वरू॑पा रमन्ताम् ।  
-अ॒ग्निङ्गृ॒हप॑तिम॒भिस॒व्ँवसा॑नाः ।  
+अ॒ग्निङ्गृ॒हप॑तिम॒भिसव्ँ॒वसा॑नाः ।  
 तान्पूर्व॒ᳶ परि॑गृह्णामि ।  
 स्व आ॒यत॑ने मनी॒षया॑ ।
 </details>
@@ -326,7 +326,7 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 इ॒ह प॒शवो॑ वि॒श्वरू॑पा रमन्ताम् ।  
-अ॒ग्निङ्गृ॒हप॑तिम॒भिस॒व्ँवसा॑नाः ।  
+अ॒ग्निङ्गृ॒हप॑तिम॒भिसव्ँ॒वसा॑नाः ।  
 तान्पूर्व॒ᳶ परि॑गृह्णामि ।  
 स्व आ॒यत॑ने मनी॒षया॑ ।
 </details>
@@ -652,7 +652,7 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/04/83_apAmmedhyay.Nyajniyam_sadevam.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-अ॒पाम्मेध्य॑य्ँ य॒ज्ञिय॑म् ।  
+अ॒पाम्मेध्यय्ँ॑ य॒ज्ञिय॑म् ।  
 सदे॑वँ शि॒वम॑स्तु मे ॥32॥  
 आ॒च्छे॒त्ता वो॒ मा रि॑षम् ।  
 जीवा॑नि श॒रद॑श्श॒तम् ।
@@ -662,7 +662,7 @@ unicode_script: devanagari
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
-अ॒पाम्मेध्य॑य्ँ य॒ज्ञिय॑म् ।  
+अ॒पाम्मेध्यय्ँ॑ य॒ज्ञिय॑म् ।  
 सदे॑वँ शि॒वम॑स्तु मे ॥32॥  
 आ॒च्छे॒त्ता वो॒ मा रि॑षम् ।  
 जीवा॑नि श॒रद॑श्श॒तम् ।
@@ -840,7 +840,7 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/04/109_tvayA_vediv.NvividupH.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-त्वया॒ वेदि॑व्ँविविदुᳶ पृथि॒वीम् ।  
+त्वया॒ वेदिव्ँ॑विविदुᳶ पृथि॒वीम् ।  
 त्वया॑ य॒ज्ञो जा॑यते विश्व॒दानिः॑ ।  
 अच्छि॑द्रय्ँ य॒ज्ञमन्वे॑षि वि॒द्वान् ।  
 त्वया॒ होता॒ सन्त॑नोत्यर्धमा॒सान् ।
@@ -850,7 +850,7 @@ unicode_script: devanagari
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
-त्वया॒ वेदि॑व्ँ विविदुᳶ पृथि॒वीम् ।  
+त्वया॒ वेदिव्ँ॑ विविदुᳶ पृथि॒वीम् ।  
 त्वया॑ य॒ज्ञो जा॑यते विश्व॒दानिः॑ ।  
 अच्छि॑द्रय्ँ य॒ज्ञम् अन्वे॑षि वि॒द्वान् ।  
 त्वया॒ होता॒ सन्त॑नोत्य् अर्ध-मा॒सान् ।

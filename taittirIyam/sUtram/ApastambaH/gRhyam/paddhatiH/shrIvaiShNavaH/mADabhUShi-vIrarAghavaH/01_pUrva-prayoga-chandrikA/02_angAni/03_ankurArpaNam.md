@@ -713,9 +713,9 @@ Every defilement in the body.
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/13_yAs_ta.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
-यास्  त॑ **आत॒स्थुर्** आ॒त्मान॒य्ँ  
+यास्  त॑ **आत॒स्थुर्** आ॒त्मानय्ँ॒  
 या **आ॑विवि॒शुᳶ** परुᳶ॑+++(=पर्व)+++-परुः ।  
-तास् ते॒ यक्ष्म॒व्ँ **वि बा॑धन्ताम्**  
+तास् ते॒ यक्ष्मव्ँ॒ **वि बा॑धन्ताम्**  
 उ॒ग्रो म॑ध्यम॒-शीर्+++(←शयने)+++ इ॑व ।
 </details>
 </div>
@@ -730,8 +730,8 @@ Like a dread intercessor.
 
 <details><summary>मूलम्</summary>
 
-याः [26]  त॒ आ॒त॒स्थुरा॒त्मान॒य्ँया आ॑विवि॒शुᳶ परुᳶ॑परुः ।  
-तास्ते॒ यक्ष्म॒व्ँवि बा॑धन्तामु॒ग्रो म॑ध्यम॒शीरि॑व ।
+याः [26]  त॒ आ॒त॒स्थुरा॒त्मानय्ँ॒या आ॑विवि॒शुᳶ परुᳶ॑परुः ।  
+तास्ते॒ यक्ष्मव्ँ॒वि बा॑धन्तामु॒ग्रो म॑ध्यम॒शीरि॑व ।
 </details>
 
 <details><summary>सायण-टीका</summary>

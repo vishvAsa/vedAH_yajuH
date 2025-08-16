@@ -336,7 +336,7 @@ Thou art Varuna who guardeth law; thou art of Varuna.
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-वरु॑णोऽसि धृ॒तव्र॑तो वारु॒णम॑सि श॒य्ँयोर्दे॒वानाँ॑ स॒ख्यान्मा दे॒वाना॑म॒पस॑श्छित्स्म॒ह्याप॑तये त्वा गृह्णामि
+वरु॑णोऽसि धृ॒तव्र॑तो वारु॒णम॑सि शय्ँ॒योर्दे॒वानाँ॑ स॒ख्यान्मा दे॒वाना॑म॒पस॑श्छित्स्म॒ह्याप॑तये त्वा गृह्णामि
 </details>
 
 <details><summary>मूलम्</summary>
@@ -363,7 +363,7 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-श॒य्ँ+++(=शमनम्)+++ योर्+++(=बन्धनाद्)+++ दे॒वाना॑म् ।
+शय्ँ॒+++(=शमनम्)+++ योर्+++(=बन्धनाद्)+++ दे॒वाना॑म् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -373,12 +373,12 @@ Be prosperity ours from our friendship with the gods.
 
 <details><summary>मूलम्</summary>
 
-श॒य्ँयोर्दे॒वाना॑म्  +++(भव)+++ ।
+शय्ँ॒योर्दे॒वाना॑म्  +++(भव)+++ ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-श॒य्ँयोरिति॑ शं-योः । दे॒वाना॑म् । 
+शय्ँ॒योरिति॑ शं-योः । दे॒वाना॑म् । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

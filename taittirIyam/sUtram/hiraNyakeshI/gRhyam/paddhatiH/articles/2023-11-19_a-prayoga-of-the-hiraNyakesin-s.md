@@ -616,7 +616,7 @@ with the lordship of Indra, of Brhaspati, I anoint thee.
 
 <details><summary>मूलम्</summary>
 
-तच्छ॒य्ँयोरावृ॑णीमहे ।  
+तच्छय्ँ॒योरावृ॑णीमहे ।  
 गा॒तुय्ँ य॒ज्ञाय॑ ।  
 गा॒तुय्ँ य॒ज्ञप॑तये ।  
 </details>

@@ -504,7 +504,7 @@ This is the taking of the sacrifice and so after taking the sacrifice he sacrifi
 ## वाग्दानम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद् उ॑दि॒त्वा वाच॑य्ँ यच्छति - य॒ज्ञस्य॒ धृत्यै॑ ।  
+तद् उ॑दि॒त्वा वाचय्ँ॑ यच्छति - य॒ज्ञस्य॒ धृत्यै॑ ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -512,7 +512,7 @@ After speaking he remains silent, to support the sacrifice.
 </details>
 <details><summary>मूलम्</summary>
 
-तदु॑दि॒त्वा वाच॑य्ँयच्छति य॒ज्ञस्य॒ धृत्यै॑ ।  
+तदु॑दि॒त्वा वाचय्ँ॑यच्छति य॒ज्ञस्य॒ धृत्यै॑ ।  
 </details>
 <details><summary>पद-पाठः</summary>
 
@@ -604,7 +604,7 @@ He who yokes the sacrifice when the yoking (time) arrives yokes it indeed among 
 "कस् त्वा॑ युनक्ति॒  
 स त्वा॑ युन॒क्त्व्" इत्य् आ॑ह ।   
 प्र॒जाप॑ति॒र् वै कः,  
-प्र॒जाप॑तिनै॒वैन॑य्ँ युनक्ति,  
+प्र॒जाप॑तिनै॒वैनय्ँ॑ युनक्ति,  
 यु॒ङ्क्ते यु॑ञ्जा॒नेषु॑ ॥ [28]
 </details>
 <details><summary>Keith</summary>
@@ -615,7 +615,7 @@ He who yokes the sacrifice when the yoking (time) arrives yokes it indeed among 
 
 कस्त्वा॑ युनक्ति॒ स त्वा॑ युन॒क्त्वित्या॑ह ।   
 प्र॒जाप॑ति॒र्वै कः ...  
-प्र॒जाप॑तिनै॒वैन॑य्ँयुनक्ति यु॒ङ्क्ते यु॑ञ्जा॒नेषु॑ ॥ [28]
+प्र॒जाप॑तिनै॒वैनय्ँ॑युनक्ति यु॒ङ्क्ते यु॑ञ्जा॒नेषु॑ ॥ [28]
 </details>
 <details><summary>पद-पाठः</summary>
 

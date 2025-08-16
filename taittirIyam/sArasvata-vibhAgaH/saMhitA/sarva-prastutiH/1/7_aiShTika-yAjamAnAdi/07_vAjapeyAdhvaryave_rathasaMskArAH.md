@@ -362,7 +362,7 @@ thou art the stride of Visnu.
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/07_ankau_nyankAv.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-अ॒ङ्कौ+++(=लक्षणभूतौ)+++ न्य॒ङ्काव्+++(←नि+अञ्च्)+++ अ॒भितो॒ रथ॒य्ँ यौ +++(चक्रौ‌/ पक्षौ)+++   
+अ॒ङ्कौ+++(=लक्षणभूतौ)+++ न्य॒ङ्काव्+++(←नि+अञ्च्)+++ अ॒भितो॒ रथय्ँ॒ यौ +++(चक्रौ‌/ पक्षौ)+++   
 ध्वा॒न्तव्ँ+++(←ध्वन्)+++ वा॑ता॒ग्रम् अनु॑ स॒ञ्चर॑न्तौ ।  
 दू॒रे-हे॑तिर् इन्द्रि॒यावा॑न् पत॒त्री   
 ते नो॒ ऽग्नय॒ᳶ पप्र॑यᳶ पारयन्तु ॥ [33]
@@ -379,7 +379,7 @@ The fires which are furtherers, further us.
 
 <details><summary>मूलम्</summary>
 
-अ॒ङ्कौ न्य॒ङ्काव॒भितो॒ रथ॒य्ँयौ   
+अ॒ङ्कौ न्य॒ङ्काव॒भितो॒ रथय्ँ॒यौ   
 ध्वा॒न्तव्ँवा॑ता॒ग्रमनु॑ स॒ञ्चर॑न्तौ ।  
 दू॒रेहे॑तिरिन्द्रि॒यावा॑न्पत॒त्री   
 ते नो॒ऽग्नय॒ᳶ पप्र॑यᳶ पारयन्तु ॥ [33]

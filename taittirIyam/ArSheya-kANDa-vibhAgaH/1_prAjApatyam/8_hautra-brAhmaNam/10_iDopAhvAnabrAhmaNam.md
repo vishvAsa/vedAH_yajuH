@@ -141,7 +141,7 @@ Samśravas Sauvarcanasa said to Tumiñja Aupoditi:
 
 <details><summary>मूलम्</summary>
 
-"शरी॑र॒व्ँ वा अ॑स्यै॒ तद् उपा॑ह्वथा॒" इति॑ होवाच॒,  
+"शरी॑रव्ँ॒ वा अ॑स्यै॒ तद् उपा॑ह्वथा॒" इति॑ होवाच॒,  
 "गौर्वै [7] +अ॑स्यै॒ शरी॑रम् ।"
 </details>
 
@@ -167,7 +167,7 @@ Samśravas Sauvarcanasa said to Tumiñja Aupoditi:
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-गा᳓व्ँ वा᳓व᳓ तौ᳓ त᳓त् प᳓र्यवदताम् ।  
+गाव्ँ᳓ वा᳓व᳓ तौ᳓ त᳓त् प᳓र्यवदताम् ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -242,7 +242,7 @@ she whom they slay for the Fathers (supports) the Fathers by her inspiration;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य᳓ एव᳓व्ँ वे᳓द -  
+य᳓ एवव्ँ᳓ वे᳓द -  
 पशुमा᳓न् भवति ।  
 </details>
 
@@ -315,7 +315,7 @@ she whom they slay for the Fathers (supports) the Fathers by her inspiration;
 
 <details><summary>मूलम्</summary>
 
-अन्न॒व्ँ वा अ॑स्यै॒ तद् उपा॑ह्वथा॒ इति॑ होवाच ।  
+अन्नव्ँ॒ वा अ॑स्यै॒ तद् उपा॑ह्वथा॒ इति॑ होवाच ।  
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -339,7 +339,7 @@ she whom they slay for the Fathers (supports) the Fathers by her inspiration;
 ओ᳓षधयो वा᳓ अस्या अ᳓न्नम् ।   
 ओ᳓षधयो वै᳓ प्रजाᳶ᳓ प्रभ᳓वन्तीᳶ,  
 प्र᳓त्या᳓ भवन्ति ।   
-य᳓ एव᳓व्ँ वे᳓दान्नादो᳓ भवति ।   
+य᳓ एवव्ँ᳓ वे᳓दान्नादो᳓ भवति ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -417,7 +417,7 @@ he who knows thus becomes an eater of food.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"प्रतिष्ठा᳓व्ँ वा᳓ अस्यै  
+"प्रतिष्ठाव्ँ᳓ वा᳓ अस्यै  
 त᳓द् उ᳓पाह्वथा" इ᳓ति होवाच ।  
 </details>
 
@@ -448,9 +448,9 @@ Her support then hast thou invoked', he replied.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इय᳓व्ँ +++(भूर्)+++ वा᳓ अस्यै प्रतिष्ठा᳓ [9] ।  
-इय᳓व्ँ वै᳓ प्रजाᳶ᳓ पराभ᳓वन्तीर् अ᳓नुगृह्णाति, प्रत्याभ᳓वन्तीर् गृह्णाति ।  
-य᳓ एव᳓व्ँ वे᳓द प्र᳓त्य् एव᳓ तिष्ठति ।  
+इयव्ँ᳓ +++(भूर्)+++ वा᳓ अस्यै प्रतिष्ठा᳓ [9] ।  
+इयव्ँ᳓ वै᳓ प्रजाᳶ᳓ पराभ᳓वन्तीर् अ᳓नुगृह्णाति, प्रत्याभ᳓वन्तीर् गृह्णाति ।  
+य᳓ एवव्ँ᳓ वे᳓द प्र᳓त्य् एव᳓ तिष्ठति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -660,7 +660,7 @@ The Ida is rain; in the step of rain people drink the ghee they live upon;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य᳓ एव᳓व्ँ वे᳓द   
+य᳓ एवव्ँ᳓ वे᳓द   
 प्रै᳓व᳓ जायते,  
 अन्नादो᳓ भवति ॥ [10]
 </details>

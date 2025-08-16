@@ -74,7 +74,7 @@ To distraction hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒य्ँया॒साय॒ स्वाहा॑ ।
+सय्ँ॒या॒साय॒ स्वाहा॑ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -84,7 +84,7 @@ To attempt hail!
 
 <details><summary>मूलम्</summary>
 
-स॒य्ँया॒साय॒ स्वाहा॑ ।
+सय्ँ॒या॒साय॒ स्वाहा॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

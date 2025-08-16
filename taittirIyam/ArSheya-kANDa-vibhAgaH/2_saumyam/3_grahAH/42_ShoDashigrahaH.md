@@ -13,7 +13,7 @@ title = "४२ षोडशिग्रहः"
 म॒हाँ इन्द्रो॒ वज्र॑बाहुष्  
 षोड॒शी **शर्म॑ यच्छतु** ।  
 **स्व॒स्ति** नो॑ म॒घवा॑ **करोतु॒**  
-**हन्तु॑** पा॒प्मान॒य्ँ यो॑ऽस्मान् द्वेष्टि॑ ॥
+**हन्तु॑** पा॒प्मानय्ँ॒ यो॑ऽस्मान् द्वेष्टि॑ ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/42_ShoDashigrahaH/01_mahAM_indro.md">
@@ -29,7 +29,7 @@ May he smite him who hateth us.
 <details><summary>मूलम्</summary>
 
 म॒हाँ इन्द्रो॒ वज्र॑बाहुष्षोड॒शी शर्म॑ यच्छतु ।  
-स्व॒स्ति नो॑ म॒घवा॑ करोतु॒ हन्तु॑ पा॒प्मान॒य्ँयो॑ऽस्मान्द्वेष्टि॑ ॥
+स्व॒स्ति नो॑ म॒घवा॑ करोतु॒ हन्तु॑ पा॒प्मानय्ँ॒यो॑ऽस्मान्द्वेष्टि॑ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

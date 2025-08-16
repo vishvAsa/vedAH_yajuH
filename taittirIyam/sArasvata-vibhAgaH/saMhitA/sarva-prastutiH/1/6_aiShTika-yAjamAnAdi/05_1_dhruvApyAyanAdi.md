@@ -376,7 +376,7 @@ in the northern quarter may the waters, the plants, the trees make (me) bright;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऊ॒र्ध्वाया॑न् दि॒शि य॒ज्ञस् स॑व्ँवत्स॒रो य॒ज्ञप॑तिर् मार्जयन्ताम् ।
+ऊ॒र्ध्वाया॑न् दि॒शि य॒ज्ञस् सव्ँ॑वत्स॒रो य॒ज्ञप॑तिर् मार्जयन्ताम् ।
 </details>
 
 <details><summary>Keith</summary>
@@ -386,12 +386,12 @@ in the zenith may the sacrifice, the year, the lord of the sacrifice make (me) b
 
 <details><summary>मूलम्</summary>
 
-ऊ॒र्ध्वाया॑न् दि॒शि य॒ज्ञस्स॑व्ँवत्स॒रो य॒ज्ञप॑तिर्मार्जयन्ताम् ।
+ऊ॒र्ध्वाया॑न् दि॒शि य॒ज्ञस्सव्ँ॑वत्स॒रो य॒ज्ञप॑तिर्मार्जयन्ताम् ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-ऊ॒र्ध्वाया॑म् । दि॒शि । य॒ज्ञः । स॒व्ँव॒त्स॒र इति॑ सम्-व॒त्स॒रः । य॒ज्ञप॑ति॒रिति॑ य॒ज्ञ-प॒तिः॒ । मा॒र्ज॒य॒न्ता॒म् । 
+ऊ॒र्ध्वाया॑म् । दि॒शि । य॒ज्ञः । सव्ँ॒व॒त्स॒र इति॑ सम्-व॒त्स॒रः । य॒ज्ञप॑ति॒रिति॑ य॒ज्ञ-प॒तिः॒ । मा॒र्ज॒य॒न्ता॒म् । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

@@ -77,13 +77,13 @@ On the instigation of the god Savitr, through Brhaspati, winner of the prize, ma
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-इन्द्रा॑य॒ वाच॑व्ँवद॒तेन्द्र॒व्ँवाज॑ञ्जापय॒तेन्द्रो॒ वाज॑मजयित् । 
+इन्द्रा॑य॒ वाचव्ँ॑वद॒तेन्द्रव्ँ॒वाज॑ञ्जापय॒तेन्द्रो॒ वाज॑मजयित् । 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रा॑य॒ वाच॑व्ँ वदत ।   
-इन्द्र॒व्ँ वाज॑ञ् जापयत ।   
+इन्द्रा॑य॒ वाचव्ँ॑ वदत ।   
+इन्द्रव्ँ॒ वाज॑ञ् जापयत ।   
 इन्द्रो॒ वाज॑म् अजयित् ।  
 </details>
 
@@ -94,8 +94,8 @@ To Indra utter your voices, make Indra win the prize, Indra hath won the prize.
 
 <details><summary>मूलम्</summary>
 
-इन्द्रा॑य॒ वाच॑व्ँ वदत ।   
-इन्द्र॒व्ँवाज॑ञ्जापयत ।   
+इन्द्रा॑य॒ वाचव्ँ॑ वदत ।   
+इन्द्रव्ँ॒वाज॑ञ्जापयत ।   
 इन्द्रो॒ वाज॑मजयित् ।  
 </details>
 
@@ -612,7 +612,7 @@ In jeder Schlacht helft uns, o Rosse, in Wettkämpfen, o unsterbliche Priester, 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/05_te_no.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-ते नो॒ अर्व॑न्तो+++(=वेगवन्तो)+++, हवन॒+++(=ह्वान)+++-श्रुतो॒ हव॒व्ँ  
+ते नो॒ अर्व॑न्तो+++(=वेगवन्तो)+++, हवन॒+++(=ह्वान)+++-श्रुतो॒ हवव्ँ॒  
 विश्वे॑ **शृण्वन्तु** वा॒जिनः॑  ॥
 </details>
 </div>
@@ -626,7 +626,7 @@ All hearken to our cry.
 
 <details><summary>मूलम्</summary>
 
-ते नो॒ अर्व॑न्तो हवन॒श्रुतो॒ हव॒व्ँविश्वे॑ शृण्वन्तु वा॒जिनः॑  ॥
+ते नो॒ अर्व॑न्तो हवन॒श्रुतो॒ हवव्ँ॒विश्वे॑ शृण्वन्तु वा॒जिनः॑  ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -676,7 +676,7 @@ The steeds, which have won in the contests great prizes.
 
 शन् नो॑ भवन्तु वा॒जिनो॒ हवे॑षु  
 दे॒व-ता॑ता+++(=विस्तारे [यज्ञे])+++ मि॒त-द्र॑वस् स्व्-अ॒र्काः ।  
-ज॒म्भय॒न्तो ऽहि॒व्ँ वृकँ॒ रक्षाँ॑सि॒  
+ज॒म्भय॒न्तो ऽहिव्ँ॒ वृकँ॒ रक्षाँ॑सि॒  
 सने॑म्य्+++(→सदा)+++ अ॒स्मद् यु॑यवन्न्+++(←यु पृथक्करणे)+++ [35] अमी॑वाः+++(=रोगान्)+++  ॥
 </details>
 </div>
@@ -694,7 +694,7 @@ Forever may they remove from us evil [2].
 
 शन्नो॑ भवन्तु वा॒जिनो॒ हवे॑षु  
 दे॒वता॑ता मि॒तद्र॑वस्स्व॒र्काः ।  
-ज॒म्भय॒न्तोऽहि॒व्ँवृकँ॒ ..  
+ज॒म्भय॒न्तोऽहिव्ँ॒वृकँ॒ ..  
 रक्षाँ॑सि॒ सने॑म्य॒स्मद्यु॑यवन्न् [35] अमी॑वाः  ॥
 </details>
 
@@ -1252,7 +1252,7 @@ That ye did make with Indra.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अजी॑जिपत वनस्पतय॒ +++(दुन्दुभिरूपाः)+++! इन्द्र॒व्ँ वाज॒व्ँ, +++(विश्रान्त्यै)+++ विमु॑च्यध्वम्  ॥  [37]
+अजी॑जिपत वनस्पतय॒ +++(दुन्दुभिरूपाः)+++! इन्द्रव्ँ॒ वाजव्ँ॒, +++(विश्रान्त्यै)+++ विमु॑च्यध्वम्  ॥  [37]
 </details>
 
 <details><summary>Keith</summary>
@@ -1262,7 +1262,7 @@ Ye have made Indra win the prize, O trees; now be ye loosed.
 
 <details><summary>मूलम्</summary>
 
-अजी॑जिपत वनस्पतय॒!  इन्द्र॒व्ँवाज॒व्ँविमु॑च्यध्वम्  ॥  [37]
+अजी॑जिपत वनस्पतय॒!  इन्द्रव्ँ॒वाजव्ँ॒विमु॑च्यध्वम्  ॥  [37]
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

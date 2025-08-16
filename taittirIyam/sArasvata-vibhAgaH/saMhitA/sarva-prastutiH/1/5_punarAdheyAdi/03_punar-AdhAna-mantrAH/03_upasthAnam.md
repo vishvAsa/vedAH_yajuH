@@ -10,7 +10,7 @@ _______
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/mano_jyotir.md">
 <details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
 
-मनो॒ ज्योति॑र् **जुषता॒म्**, आज्य॒व्ँ  
+मनो॒ ज्योति॑र् **जुषता॒म्**, आज्यव्ँ॒  
 विच्छि॑न्नय्ँ **य॒ज्ञँ सम्** इ॒मन् **द॑धातु** ।  
 **बृह॒स्पति॑स् तनुताम्** इ॒मन् नो॒,  
 विश्वे॑ दे॒वा इ॒ह **मा॑दयन्ताम्** ॥
@@ -28,7 +28,7 @@ May the All-gods rejoice herein.
 
 <details><summary>मूलम्</summary>
 
-मनो॒ ज्योति॑र्जुषता॒माज्य॒व्ँविच्छि॑न्नय्ँ य॒ज्ञँ समि॒मन्द॑धातु ।  
+मनो॒ ज्योति॑र्जुषता॒माज्यव्ँ॒विच्छि॑न्नय्ँ य॒ज्ञँ समि॒मन्द॑धातु ।  
 बृह॒स्पति॑स्तनुतामि॒मन्नो॒ विश्वे॑ दे॒वा इ॒ह मा॑दयन्ताम्  ॥
 </details>
 

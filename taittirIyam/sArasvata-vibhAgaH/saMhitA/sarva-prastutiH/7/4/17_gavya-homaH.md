@@ -33,7 +33,7 @@ title = "१७ गव्य-होमः"
 प्र॒जाप॑ति॒र् मह्य॑म् ए॒ता +++(गावो)+++ ररा॑णो॒+++(=ददन्)+++ ,  
 विश्वै॑र् दे॒वैᳶ पि॒तृभि॑स् सव्ँविदा॒नः+++(=ऐकमत्यं गतः)+++ ।  
 शि॒वास् स॒तीर् उप॑ नो गो॒ष्ठम् आक॒स्+++(=आकरोतु)+++  
-तासा॑व्ँ व॒यम् प्र॒जया॒ सँ स॑देम ।
+तासाव्ँ॑ व॒यम् प्र॒जया॒ सँ स॑देम ।
 </details>
 <div class="js_include" includetitle="falseZ" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/7/1/11_ashvamedhaH/12_ashvanAmavAchanAdyangamantrAH/iha_dhRtiH.md">
 <details open><summary><h2>इह धृतिः ...{Loading}...</h2></summary>

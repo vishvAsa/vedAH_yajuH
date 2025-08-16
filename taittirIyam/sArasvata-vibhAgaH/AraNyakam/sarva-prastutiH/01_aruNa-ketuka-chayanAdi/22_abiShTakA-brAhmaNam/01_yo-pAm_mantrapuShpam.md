@@ -10,13 +10,13 @@ title = "०१ योऽपाम् (मन्त्रपुष्पम्)"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो॒॑ऽपां पुष्प॒व्ँ वेद॒  
+यो॒॑ऽपां पुष्पव्ँ॒ वेद॒  
 पुष्प॑वान् प्र॒जावा॑न् पशु॒मान् भ॑वति ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
-यो॑ऽपां पुष्प॒व्ँ वेद॑ ।  
+यो॑ऽपां पुष्पव्ँ॒ वेद॑ ।  
 पुष्प॑वान्प्र॒जावा॑न्पशु॒मान्भ॑वति ।  
 </details>
 
@@ -62,16 +62,16 @@ title = "०१ योऽपाम् (मन्त्रपुष्पम्)"
 एवमिदानीम् अपाम् अग्न्यादीनां च परस्पराधार्याधार-भावेन जगत्-प्रतिष्ठाकारणत्वं प्रतिपादयति -  
 </details>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/brAhmaNam/sarva-prastutiH/01_aruNa-ketuka-chayanAdi/22_abiShTakA-brAhmaNam/yo_pAm_Ayatanam.md">
-<details open><summary><h5>यो॑ऽपामा॒यत॑न॒व्ँ वेद॑ ...{Loading}...</h5></summary>
+<details open><summary><h5>यो॑ऽपामा॒यत॑नव्ँ॒ वेद॑ ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो॒॑ ऽपाम् आ॒यत॑न॒व्ँ वेद॑  
+यो॒॑ ऽपाम् आ॒यत॑नव्ँ॒ वेद॑  
 आ॒यत॑नवान् भवति ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-यो॑ऽपामा॒यत॑न॒व्ँ वेद॑ ।  
+यो॑ऽपामा॒यत॑नव्ँ॒ वेद॑ ।  
 आ॒यत॑नवान्भवति ।
 </details>
 
@@ -117,13 +117,13 @@ title = "०१ योऽपाम् (मन्त्रपुष्पम्)"
 </div>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो॑ऽग्नेरा॒यत॑न॒व्ँ वेद॑[77]  
+यो॑ऽग्नेरा॒यत॑नव्ँ॒ वेद॑[77]  
 आ॒यत॑नवान्भवति ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
-यो॑ऽग्नेरा॒यत॑न॒व्ँ वेद॑[77]  
+यो॑ऽग्नेरा॒यत॑नव्ँ॒ वेद॑[77]  
 आ॒यत॑नवान्भवति ।  
 </details>
 
@@ -154,16 +154,16 @@ title = "०१ योऽपाम् (मन्त्रपुष्पम्)"
 य ए॒वव्ँ वेद॑ ।  
 </details>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/brAhmaNam/sarva-prastutiH/01_aruNa-ketuka-chayanAdi/22_abiShTakA-brAhmaNam/yo_pAm_Ayatanam.md">
-<details open><summary><h5>यो॑ऽपामा॒यत॑न॒व्ँ वेद॑ ...{Loading}...</h5></summary>
+<details open><summary><h5>यो॑ऽपामा॒यत॑नव्ँ॒ वेद॑ ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो॒॑ ऽपाम् आ॒यत॑न॒व्ँ वेद॑  
+यो॒॑ ऽपाम् आ॒यत॑नव्ँ॒ वेद॑  
 आ॒यत॑नवान् भवति ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-यो॑ऽपामा॒यत॑न॒व्ँ वेद॑ ।  
+यो॑ऽपामा॒यत॑नव्ँ॒ वेद॑ ।  
 आ॒यत॑नवान्भवति ।
 </details>
 
@@ -209,14 +209,14 @@ title = "०१ योऽपाम् (मन्त्रपुष्पम्)"
 </div>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो वा॒योर् आ॒यत॑न॒व्ँ वेद॑ ।  
+यो वा॒योर् आ॒यत॑नव्ँ॒ वेद॑ ।  
 आ॒यत॑नवान्भवति ।  
 [78]
 </details>
 
 <details><summary>मूलम्</summary>
 
-यो वा॒योरा॒यत॑न॒व्ँ वेद॑ ।  
+यो वा॒योरा॒यत॑नव्ँ॒ वेद॑ ।  
 आ॒यत॑नवान्भवति ।  
 [78]
 </details>
@@ -251,16 +251,16 @@ title = "०१ योऽपाम् (मन्त्रपुष्पम्)"
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/brAhmaNam/sarva-prastutiH/01_aruNa-ketuka-chayanAdi/22_abiShTakA-brAhmaNam/yo_pAm_Ayatanam.md">
-<details open><summary><h5>यो॑ऽपामा॒यत॑न॒व्ँ वेद॑ ...{Loading}...</h5></summary>
+<details open><summary><h5>यो॑ऽपामा॒यत॑नव्ँ॒ वेद॑ ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो॒॑ ऽपाम् आ॒यत॑न॒व्ँ वेद॑  
+यो॒॑ ऽपाम् आ॒यत॑नव्ँ॒ वेद॑  
 आ॒यत॑नवान् भवति ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-यो॑ऽपामा॒यत॑न॒व्ँ वेद॑ ।  
+यो॑ऽपामा॒यत॑नव्ँ॒ वेद॑ ।  
 आ॒यत॑नवान्भवति ।
 </details>
 
@@ -306,13 +306,13 @@ title = "०१ योऽपाम् (मन्त्रपुष्पम्)"
 </div>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो॑ऽमुष्य॒ तप॑त आ॒यत॑न॒व्ँ वेद॑ ।  
+यो॑ऽमुष्य॒ तप॑त आ॒यत॑नव्ँ॒ वेद॑ ।  
 आ॒यत॑नवान्भवति ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-यो॑ऽमुष्य॒ तप॑त आ॒यत॑न॒व्ँ वेद॑ ।  
+यो॑ऽमुष्य॒ तप॑त आ॒यत॑नव्ँ॒ वेद॑ ।  
 आ॒यत॑नवान्भवति ।
 </details>
 
@@ -348,16 +348,16 @@ title = "०१ योऽपाम् (मन्त्रपुष्पम्)"
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/brAhmaNam/sarva-prastutiH/01_aruNa-ketuka-chayanAdi/22_abiShTakA-brAhmaNam/yo_pAm_Ayatanam.md">
-<details open><summary><h5>यो॑ऽपामा॒यत॑न॒व्ँ वेद॑ ...{Loading}...</h5></summary>
+<details open><summary><h5>यो॑ऽपामा॒यत॑नव्ँ॒ वेद॑ ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो॒॑ ऽपाम् आ॒यत॑न॒व्ँ वेद॑  
+यो॒॑ ऽपाम् आ॒यत॑नव्ँ॒ वेद॑  
 आ॒यत॑नवान् भवति ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-यो॑ऽपामा॒यत॑न॒व्ँ वेद॑ ।  
+यो॑ऽपामा॒यत॑नव्ँ॒ वेद॑ ।  
 आ॒यत॑नवान्भवति ।
 </details>
 
@@ -403,13 +403,13 @@ title = "०१ योऽपाम् (मन्त्रपुष्पम्)"
 </div>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यश्च॒न्द्रम॑स आ॒यत॑न॒व्ँ वेद॑ ।
+यश्च॒न्द्रम॑स आ॒यत॑नव्ँ॒ वेद॑ ।
 आ॒यत॑नवान्भवति ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
-यश्च॒न्द्रम॑स आ॒यत॑न॒व्ँ वेद॑ ।
+यश्च॒न्द्रम॑स आ॒यत॑नव्ँ॒ वेद॑ ।
 आ॒यत॑नवान्भवति ।  
 </details>
 
@@ -443,16 +443,16 @@ title = "०१ योऽपाम् (मन्त्रपुष्पम्)"
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/brAhmaNam/sarva-prastutiH/01_aruNa-ketuka-chayanAdi/22_abiShTakA-brAhmaNam/yo_pAm_Ayatanam.md">
-<details open><summary><h5>यो॑ऽपामा॒यत॑न॒व्ँ वेद॑ ...{Loading}...</h5></summary>
+<details open><summary><h5>यो॑ऽपामा॒यत॑नव्ँ॒ वेद॑ ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो॒॑ ऽपाम् आ॒यत॑न॒व्ँ वेद॑  
+यो॒॑ ऽपाम् आ॒यत॑नव्ँ॒ वेद॑  
 आ॒यत॑नवान् भवति ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-यो॑ऽपामा॒यत॑न॒व्ँ वेद॑ ।  
+यो॑ऽपामा॒यत॑नव्ँ॒ वेद॑ ।  
 आ॒यत॑नवान्भवति ।
 </details>
 
@@ -498,13 +498,13 @@ title = "०१ योऽपाम् (मन्त्रपुष्पम्)"
 </div>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो नक्ष॑त्राणामा॒यत॑न॒व्ँ वेद॑ ।  
+यो नक्ष॑त्राणामा॒यत॑नव्ँ॒ वेद॑ ।  
 आ॒यत॑नवान्भवति ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
-यो नक्ष॑त्राणामा॒यत॑न॒व्ँ वेद॑ ।  
+यो नक्ष॑त्राणामा॒यत॑नव्ँ॒ वेद॑ ।  
 आ॒यत॑नवान्भवति ।  
 </details>
 
@@ -541,16 +541,16 @@ title = "०१ योऽपाम् (मन्त्रपुष्पम्)"
 [81]
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/brAhmaNam/sarva-prastutiH/01_aruNa-ketuka-chayanAdi/22_abiShTakA-brAhmaNam/yo_pAm_Ayatanam.md">
-<details open><summary><h5>यो॑ऽपामा॒यत॑न॒व्ँ वेद॑ ...{Loading}...</h5></summary>
+<details open><summary><h5>यो॑ऽपामा॒यत॑नव्ँ॒ वेद॑ ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो॒॑ ऽपाम् आ॒यत॑न॒व्ँ वेद॑  
+यो॒॑ ऽपाम् आ॒यत॑नव्ँ॒ वेद॑  
 आ॒यत॑नवान् भवति ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-यो॑ऽपामा॒यत॑न॒व्ँ वेद॑ ।  
+यो॑ऽपामा॒यत॑नव्ँ॒ वेद॑ ।  
 आ॒यत॑नवान्भवति ।
 </details>
 
@@ -596,13 +596,13 @@ title = "०१ योऽपाम् (मन्त्रपुष्पम्)"
 </div>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यः प॒र्जन्य॑स्या॒यत॑न॒व्ँ वेद॑ ।  
+यः प॒र्जन्य॑स्या॒यत॑नव्ँ॒ वेद॑ ।  
 आ॒यत॑नवान्भवति ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
-यः प॒र्जन्य॑स्या॒यत॑न॒व्ँ वेद॑ ।  
+यः प॒र्जन्य॑स्या॒यत॑नव्ँ॒ वेद॑ ।  
 आ॒यत॑नवान्भवति ।  
 </details>
 
@@ -636,16 +636,16 @@ title = "०१ योऽपाम् (मन्त्रपुष्पम्)"
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/brAhmaNam/sarva-prastutiH/01_aruNa-ketuka-chayanAdi/22_abiShTakA-brAhmaNam/yo_pAm_Ayatanam.md">
-<details open><summary><h5>यो॑ऽपामा॒यत॑न॒व्ँ वेद॑ ...{Loading}...</h5></summary>
+<details open><summary><h5>यो॑ऽपामा॒यत॑नव्ँ॒ वेद॑ ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो॒॑ ऽपाम् आ॒यत॑न॒व्ँ वेद॑  
+यो॒॑ ऽपाम् आ॒यत॑नव्ँ॒ वेद॑  
 आ॒यत॑नवान् भवति ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-यो॑ऽपामा॒यत॑न॒व्ँ वेद॑ ।  
+यो॑ऽपामा॒यत॑नव्ँ॒ वेद॑ ।  
 आ॒यत॑नवान्भवति ।
 </details>
 
@@ -659,12 +659,12 @@ title = "०१ योऽपाम् (मन्त्रपुष्पम्)"
 </div>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒व्ँव॒त्स॒रो वा अ॒पामा॒यत॑नम् ।
+सव्ँ॒व॒त्स॒रो वा अ॒पामा॒यत॑नम् ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-स॒व्ँव॒त्स॒रो वा अ॒पामा॒यत॑नम् ।
+सव्ँ॒व॒त्स॒रो वा अ॒पामा॒यत॑नम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -691,24 +691,24 @@ title = "०१ योऽपाम् (मन्त्रपुष्पम्)"
 </div>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यस्स॑व्ँवत्स॒रस्या॒यत॑न॒व्ँ वेद॑ ।  
+यस्सव्ँ॑वत्स॒रस्या॒यत॑नव्ँ॒ वेद॑ ।  
 आ॒यत॑नवान्भवति ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
-यस्स॑व्ँवत्स॒रस्या॒यत॑न॒व्ँ वेद॑ ।  
+यस्सव्ँ॑वत्स॒रस्या॒यत॑नव्ँ॒ वेद॑ ।  
 आ॒यत॑नवान्भवति ।  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आपो॒ वै स॑व्ँवत्स॒रस्या॒यत॑नम् ।  
+आपो॒ वै सव्ँ॑वत्स॒रस्या॒यत॑नम् ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
-आपो॒ वै स॑व्ँवत्स॒रस्या॒यत॑नम् ।  
+आपो॒ वै सव्ँ॑वत्स॒रस्या॒यत॑नम् ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -732,14 +732,14 @@ title = "०१ योऽपाम् (मन्त्रपुष्पम्)"
 </div>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो॑ऽप्सु नावं॒ प्रति॑ष्ठिता॒व्ँ वेद॑ ।  
+यो॑ऽप्सु नावं॒ प्रति॑ष्ठिताव्ँ॒ वेद॑ ।  
 प्रत्ये॒व ति॑ष्ठति ।  
 [83]
 </details>
 
 <details><summary>मूलम्</summary>
 
-यो॑ऽप्सु नावं॒ प्रति॑ष्ठिता॒व्ँ वेद॑ ।  
+यो॑ऽप्सु नावं॒ प्रति॑ष्ठिताव्ँ॒ वेद॑ ।  
 प्रत्ये॒व ति॑ष्ठति ।  
 [83]
 </details>

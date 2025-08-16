@@ -1402,7 +1402,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4OTMxMzg0NDA
 
 <MISSING_FIG href="../books_images/U-IMG-1697354575PIC9.png"/>
 
-शन्नो॑दे॒वीर॒भिष्ट॑य॒ऽआपोभवन्तु्पीतये॑ । शँय्यो र॒भिस्व॑वन्तुनः ॥ ७ ॥
+शन्नो॑दे॒वीर॒भिष्ट॑य॒ऽआपोभवन्तु्पीतये॑ । शय्ँयो र॒भिस्व॑वन्तुनः ॥ ७ ॥
 
 अथ राहुकण्डिका
 
@@ -2372,7 +2372,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4OTMxMzg0NDA
 
 **हेडोअव॑यासिसीष्ठात्<MISSING_FIG href="../books_images/U-IMG-1695733101Screenshot2023-09-26182810.png"/>॥ यजि॑ष्ठो॒व**
 
-**न्न्हि॑तम॒<MISSING_FIG href="../books_images/U-IMG-1695733224Screenshot2023-09-26182810.png"/>शोशु॑चानो॒ विश्वा॒॒द्वेष॑<MISSING_FIG href="../books_images/U-IMG-1695733300Screenshot2023-09-26183128.png"/>**
+**न्न्हि॑तम॒<MISSING_FIG href="../books_images/U-IMG-1695733224Screenshot2023-09-26182810.png"/>शोशु॑चानो॒ विश्वा॒द्वेष॑<MISSING_FIG href="../books_images/U-IMG-1695733300Screenshot2023-09-26183128.png"/>**
 
 **सि॒प्रमु॑ मुग्ध्य॒स्मत्स्वाहा ॥ इदमग्नी**
 

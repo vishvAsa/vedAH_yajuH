@@ -6,7 +6,7 @@ title = "०१ ०७ मृत्तिके"
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_07_mRttike/01_mRttike_hana.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-मृ॒त्तिके॑ **हन॑** मे पा॒प॒य्ँ  
+मृ॒त्तिके॑ **हन॑** मे पा॒पय्ँ॒  
 य॒न् म॒या दु॑ष्-कृत॒ङ् **कृतम्** ।  
 त्वया॑ ह॒तेन॑ पापे॒न॒  
 **जी॒वा॒मि**  श॑रद॒श्शतम् ॥
@@ -16,7 +16,7 @@ title = "०१ ०७ मृत्तिके"
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
-मृ॒त्तिके॑ हन॑ मे पा॒प॒य्ँ  
+मृ॒त्तिके॑ हन॑ मे पा॒पय्ँ॒  
 य॒न् म॒या दु॑ष्कृत॒ङ् कृतम् ।  
 त्वया॑ ह॒तेन॑ पापे॒न॒  
 जी॒वा॒मि  श॑रद॒श्शतम् ॥

@@ -155,13 +155,13 @@ Rich in oblation are the Maruts whom our song praises.
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-यद्ग्रामे॒ यदर॑ण्ये॒ यत् स॒भाया॒य्ँयदि॑न्द्रि॒ये । यच्छू॒द्रे यद॒र्य॑ एन॑श्चकृ॒मा व॒यम् । यदेक॒स्याधि॒ धर्म॑णि॒ तस्या॑व॒यज॑नमसि॒ स्वाहा॑ ॥  
+यद्ग्रामे॒ यदर॑ण्ये॒ यत् स॒भायाय्ँ॒यदि॑न्द्रि॒ये । यच्छू॒द्रे यद॒र्य॑ एन॑श्चकृ॒मा व॒यम् । यदेक॒स्याधि॒ धर्म॑णि॒ तस्या॑व॒यज॑नमसि॒ स्वाहा॑ ॥  
 </details>
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/03_chAturmAsyeShu_varuNapraghAsaparva/04_yad_grAme.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 यद् ग्रामे॒ यद् अर॑ण्ये॒ ..  
-यत् स॒भाया॒य्ँ, यद् इ॑न्द्रि॒ये ।    
+यत् स॒भायाय्ँ॒, यद् इ॑न्द्रि॒ये ।    
 यच् छू॒द्रे यद् अ॒र्ये॑ ..   
 एन॑श् चकृ॒मा व॒यम् ।     
 यद् एक॒स्याधि॒ धर्म॑णि॒    
@@ -182,7 +182,7 @@ Of that thou art the expiation; hail!
 <details><summary>मूलम्</summary>
 
 यद्ग्रामे॒ यदर॑ण्ये॒ ..  
-यत् स॒भाया॒य्ँयदि॑न्द्रि॒ये ।    
+यत् स॒भायाय्ँ॒यदि॑न्द्रि॒ये ।    
 यच्छू॒द्रे यद॒र्ये॑ ..   
 एन॑श्चकृ॒मा व॒यम् ।     
 यदेक॒स्याधि॒ धर्म॑णि॒  ..    

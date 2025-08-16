@@ -322,7 +322,7 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-देव॑बर्हिश्! श॒त-व॑ल्श॒व्ँ+++(=प्ररोहं)+++ **वि रो॑ह** ।
+देव॑बर्हिश्! श॒त-व॑ल्शव्ँ॒+++(=प्ररोहं)+++ **वि रो॑ह** ।
 </details>
 
 <details><summary>Keith</summary>
@@ -333,7 +333,7 @@ O divine straw, rise with a hundred shoots,
 
 <details><summary>मूलम्</summary>
 
-देव॑बर्हिश्श॒तव॑ल्श॒व्ँवि रो॑ह ।
+देव॑बर्हिश्श॒तव॑ल्शव्ँ॒वि रो॑ह ।
 </details>
 
 <details><summary>पद-पाठः</summary>

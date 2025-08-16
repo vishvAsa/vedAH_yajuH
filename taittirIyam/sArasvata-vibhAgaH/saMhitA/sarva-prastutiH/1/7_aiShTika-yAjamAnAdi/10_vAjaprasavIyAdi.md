@@ -56,7 +56,7 @@ May we as Purohitas watch over the kingship.
 वाज॑स्ये॒दम् प्र॑स॒व **आ ब॑भूव  
 +इ॒मा** च॒ विश्वा॒ भुव॑नानि स॒र्वतः॑ ।   
 स वि॒राज॒म् **पर्ये॑ति** प्रजा॒नन्  
-प्र॒जाम् पुष्टि॑व्ँ व॒र्धय॑मानो अ॒स्मे  ॥
+प्र॒जाम् पुष्टिव्ँ॑ व॒र्धय॑मानो अ॒स्मे  ॥
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/10_vAjaprasavIyAdi/03_vAjasyedam_prasava.md">
@@ -72,7 +72,7 @@ Increasing offspring and prosperity for us.
 <details><summary>मूलम्</summary>
 
 वाज॑स्ये॒दम्प्र॑स॒व आ ब॑भूवे॒मा च॒ विश्वा॒ भुव॑नानि स॒र्वतः॑ ।   
-स वि॒राज॒म्पर्ये॑ति प्रजा॒नन्प्र॒जाम्पुष्टि॑व्ँव॒र्धय॑मानो अ॒स्मे  ॥
+स वि॒राज॒म्पर्ये॑ति प्रजा॒नन्प्र॒जाम्पुष्टिव्ँ॑व॒र्धय॑मानो अ॒स्मे  ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -193,7 +193,7 @@ May the goddess speech be bountiful to us.
 
 अ॒र्य॒मण॒म् बृह॒स्पति॒म्  
 इन्द्र॒न् **दाना॑य चोदय** ।  
-वाच॒व्ँ विष्णुँ॒ सर॑स्वतीँ  
+वाचव्ँ॒ विष्णुँ॒ सर॑स्वतीँ  
 सवि॒तार॑म् [41] च वा॒जिन॑म्  ॥
 </details>
 </div>
@@ -210,7 +210,7 @@ And Savitr the strong.
 <details><summary>मूलम्</summary>
 
 अ॒र्य॒मण॒म्बृह॒स्पति॒मिन्द्र॒न्दाना॑य चोदय ।  
-वाच॒व्ँविष्णुँ॒ सर॑स्वतीँ सवि॒तार॑म् [41] च॒ वा॒जिन॑म्  ॥
+वाचव्ँ॒विष्णुँ॒ सर॑स्वतीँ सवि॒तार॑म् [41] च॒ वा॒जिन॑म्  ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -226,7 +226,7 @@ And Savitr the strong.
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/10_vAjaprasavIyAdi/08_somaM_rAjAnav.N.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-सोमँ॒ राजा॑न॒व्ँ वरु॑णम्  
+सोमँ॒ राजा॑नव्ँ॒ वरु॑णम्  
 अ॒ग्निम् **अ॒न्वार॑भामहे**+++(=आलभामहे)+++ ।  
 आ॒दि॒त्यान् विष्णुँ॒ सूर्य॑म्  
 ब्र॒ह्माण॑ञ् च॒ बृह॒स्पति॑म् ॥
@@ -244,7 +244,7 @@ And Brhaspati, the Brahman (priest).
 
 <details><summary>मूलम्</summary>
 
-सोमँ॒ राजा॑न॒व्ँवरु॑णम॒ग्निम॒न्वार॑भामहे ।  
+सोमँ॒ राजा॑नव्ँ॒वरु॑णम॒ग्निम॒न्वार॑भामहे ।  
 आ॒दि॒त्यान् विष्णुँ॒ सूर्य॑म्ब्र॒ह्माण॑ञ्च॒ बृह॒स्पति॑म् ॥
 </details>
 

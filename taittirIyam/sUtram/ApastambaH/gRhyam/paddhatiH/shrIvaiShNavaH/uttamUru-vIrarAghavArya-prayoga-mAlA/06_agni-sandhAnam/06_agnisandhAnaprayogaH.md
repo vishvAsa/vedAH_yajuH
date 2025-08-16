@@ -426,7 +426,7 @@ y los medios de alcanzarlo).
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/35_anAjnAtay.NyadAjnAtam_yajnasya.md">
 <details open><summary><h4>35 अनाज्ञातय्ँयदाज्ञातम् यज्ञस्य ...{Loading}...</h4></summary>
 
-अना॑ज्ञात॒य्ँयदाज्ञा॑तम् ।  
+अना॑ज्ञातय्ँ॒यदाज्ञा॑तम् ।  
 य॒ज्ञस्य॑ क्रि॒यते॒ मिथु॑ ।  
 अग्ने॒ तद॑स्य कल्पय ।  
 त्वँ हि वेत्थ॑ यथात॒थम् ।
@@ -488,7 +488,7 @@ y los medios de alcanzarlo).
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/27_mano_jyotir.md">
 <details open><summary><h4>27 मनो ज्योतिर् ...{Loading}...</h4></summary>
 
-मनो॒ ज्योति॑र् **जुषता॒म्**, आज्य॒व्ँ  
+मनो॒ ज्योति॑र् **जुषता॒म्**, आज्यव्ँ॒  
 विच्छि॑न्नय्ँ **य॒ज्ञँ सम्** इ॒मन् **द॑धातु** ।  
 या +++(अन्यैर्)+++ **इ॒ष्टा उ॒षसो॑**, +++(मया तु)+++  नि॒-म्रुच॑श्+++(←स्तेये)+++ च॒  
 तास् **सन्द॑धामि** ह॒विषा॑ घृ॒तेन॑  ॥
@@ -561,7 +561,7 @@ y los medios de alcanzarlo).
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/35_anAjnAtay.NyadAjnAtam_yajnasya.md">
 <details open><summary><h4>35 अनाज्ञातय्ँयदाज्ञातम् यज्ञस्य ...{Loading}...</h4></summary>
 
-अना॑ज्ञात॒य्ँयदाज्ञा॑तम् ।  
+अना॑ज्ञातय्ँ॒यदाज्ञा॑तम् ।  
 य॒ज्ञस्य॑ क्रि॒यते॒ मिथु॑ ।  
 अग्ने॒ तद॑स्य कल्पय ।  
 त्वँ हि वेत्थ॑ यथात॒थम् ।
