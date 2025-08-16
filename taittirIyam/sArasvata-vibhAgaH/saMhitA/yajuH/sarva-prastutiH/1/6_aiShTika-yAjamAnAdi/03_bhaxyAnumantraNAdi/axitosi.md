@@ -51,7 +51,7 @@ for imperishableness thee;
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मा मे॑ क्षेष्ठा अ॒मुत्रा॒मुष्मि॑ल्ँ लो॒के  ॥  [10]
+मा मे॑ क्षेष्ठा अ॒मुत्रा॒मुष्मिल्ँ॑ लो॒के  ॥  [10]
 </details>
 <details><summary>Keith</summary>
 
