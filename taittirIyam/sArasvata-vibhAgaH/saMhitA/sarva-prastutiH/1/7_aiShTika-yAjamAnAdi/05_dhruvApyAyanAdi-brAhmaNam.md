@@ -400,7 +400,7 @@ in that he takes the steps of Visnu the sacrificer becoming Visnu wins these wor
 
 <details><summary>सायण-टीका</summary>
 
-अतो यजमानो विष्णुक्रमान्क्रमत इति यत्स विष्णुरेव भूत्वेमाल्ँलोकानभिजयति।  
+अतो यजमानो विष्णुक्रमान्क्रमत इति यत्स विष्णुरेव भूत्वेमाल्ँ लोकानभिजयति।  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
