@@ -6,6 +6,14 @@ title = "पाठ-भेदः"
 
 
 ## आन्तरिको भेदः
+### द्राविडपाठे हि व्यत्यासाः
+> There are DP guys who use sarvam instead of yasmin. Found among some of the DP traditions in Pandya desha (my own father was taught so). There are a few patha bhedas even in DP across samhita and brahmana as well. But they r disappearing now due to standardization of Kanchi style
+
+आरण्यके - 
+
+- क्वचिद् द्राविड-पाठे ऽपि सूक्ष्म-भेद उक्तः - "विज्ञा॑तम् अ॒ग्निः /अ॒ग्नीत्।" इत्यत्र भट्ट-भास्कर आह - "तथाऽन्येषां 'अग्नीत्' इत्येव पाठः"।
+
+
 ### आन्ध्र-द्राविडयोः
 - आन्ध्र-द्राविड-पाठयोर् भेदो वर्तते।
   - भट्टभास्करो द्राविडपाठम् अवलम्बते। सायणमाधवादिभिर् आन्ध्रपाठो ऽवलम्बितः।
@@ -13,7 +21,6 @@ title = "पाठ-भेदः"
 - द्राविड-पाठानुसारिणः केचिद् आन्ध्रपाठम् अप्रामाणिकं मन्यन्ते। यथा मेधासूक्त आन्ध्रकपाठे व्याकरणादि-व्यत्ययो ऽधिको भाति।
 - आरण्यके भेदा दृश्यन्तेतमाम्। 
   - तद्यथा १०मे काण्डे आन्ध्रेषु - ८० अनुवाकाः, कर्णाटेषु - ७४ अनुवाकाः, द्रविडेषु - ६४ अनुवाकाः। 
-  - क्वचिद् द्राविड-पाठे ऽपि सूक्ष्म-भेद उक्तः - "विज्ञा॑तम् अ॒ग्निः /अ॒ग्नीत्।" इत्यत्र भट्ट-भास्कर आह - "तथाऽन्येषां 'अग्नीत्' इत्येव पाठः"।
   - उभयत्रापि वर्तमाने मन्त्रे दृश्यन्ते भेदाः। यथा - मेधासूक्ते, अघोरेभ्योऽथ … इत्यादौ।
   - एकाग्निकाण्डे 
     - वाक्यादौ अभा॒गम॑ग्ने इत्यत्र अ॒भा॒गमग्ने इति स्यात् ।
@@ -24,6 +31,32 @@ title = "पाठ-भेदः"
 - ब्राह्मणे एकत्र 
   - पराङ्कुशाचार्योपदिष्ट-पाठः +अश्वमेध-प्रथमप्रश्ने एवम् एव "तत् स्तोमाः" इति एवम् "एतत्स्तोमाः" इत्यत्र । 
   - "हरीशेन कुत्रचिद्दर्शितभेदः झटिति न स्मरामि ।" इति रामानुजार्यः।  
+
+#### प्रामाणिकता
+> pāñcarātra śeṣa saṃhitā has explicit citations that match with āndhrapāṭha and not drāviḍa pāṭha.
+
+नारायण-सूक्ते -  
+
+- be it appayya or anandagiri, they seem to have used only DP version of the sukta. Like anandagiri using prabhum instead of padam.  
+- The viṣṇu sahasranāma bhāṣya ascribed to AS does quote the version resembling āndhrapāṭham.
+
+
+### सायण-पाठः
+अयम् आन्ध्रनिभः, किञ्च क्वचिद् भिन्नः। आरण्यके -
+
+> sāyaṇa's commentary is not on the 80 anuvāka āndhrapāṭham (AP) that has (स ब्रह्मा स शिवस् स हरिस् सेन्द्रः). He commented on the pāṭha chosen by bhaṭṭa bhāskara (with minor differences)
+
+
+### नम्बूतिरि-पाठः
+
+> sa hariḥ & sa śivaḥ are flipped in order compared to the AP. the "sa hari before sa śiva" pāṭha of nambus (that appears to be cited in this prapañcahṛḍaya) might be the 89 anuvāka one sāyaṇa mentioned as existing. 
+
+प्रपञ्च-हृदये - 
+
+> स ब्रह्मा स हरिस् स शिवस् सेन्द्रः
+
+इति च्छन्दसो व्यभिचरतितराम्। 
+
 
 ### अन्ये
 काशिकायाम् - 
