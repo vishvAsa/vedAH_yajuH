@@ -392,8 +392,8 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/02_rayINAm_patiy.N.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-र॒यी॒णाम् पति॑य्ँ **यज॒तम्**+++(=यजनीयम्)+++ बृ॒हन्त॑म् ।  
-अ॒स्मिन् भरे॒ नृत॑म॒व्ँ वाज॑+++(=अन्न)+++-**सातौ**+++(=दाने)+++ ।  
+र॒यी॒णाम् पतिय्ँ॑ **यज॒तम्**+++(=यजनीयम्)+++ बृ॒हन्त॑म् ।  
+अ॒स्मिन् भरे॒ नृत॑मव्ँ॒ वाज॑+++(=अन्न)+++-**सातौ**+++(=दाने)+++ ।  
 प्र॒जा-प॑तिम् प्रथम॒-जाम् ऋ॒तस्य॑ ।   
 **यजा॑म** दे॒वम् अधि॑ नो **ब्रवीतु** ।
 </details>
@@ -402,8 +402,8 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
-र॒यी॒णाम् पति॑य्ँ यज॒तम् बृ॒हन्त॑म् ।  
-अ॒स्मिन्भरे॒ नृत॑म॒व्ँवाज॑सातौ ।  
+र॒यी॒णाम् पतिय्ँ॑ यज॒तम् बृ॒हन्त॑म् ।  
+अ॒स्मिन्भरे॒ नृत॑मव्ँ॒वाज॑सातौ ।  
 प्र॒जाप॑तिम्प्रथम॒जामृ॒तस्य॑ ।   
 यजा॑म दे॒वमधि॑ नो ब्रवीतु ।
 </details>
@@ -482,7 +482,7 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 प्र॒जाप॑तिम् प्रथ॒मय्ँ य॒ज्ञिया॑नाम् ।  
 दे॒वाना॒म् अग्रे॑ यज॒तय्ँ **य॑जध्वम्** ।  
 स नो॑ **ददातु॒** द्रवि॑णँ सु॒वीर्य॑म् ।  
-रा॒यस्-पोष॒व्ँ **वि ष्य॑तु॒**+++(=शिथिलयतु)+++ नाभि॑म्+++(=नहनं)+++ अ॒स्मे ।
+रा॒यस्-पोषव्ँ॒ **वि ष्य॑तु॒**+++(=शिथिलयतु)+++ नाभि॑म्+++(=नहनं)+++ अ॒स्मे ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/05_prajApatim_prathamay.N.md">
@@ -492,7 +492,7 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 प्र॒जाप॑तिम् प्रथ॒मय्ँ य॒ज्ञिया॑नाम् ।  
 दे॒वाना॒मग्रे॑ यज॒तय्ँय॑जध्वम् ।  
 स नो॑ ददातु॒ द्रवि॑णँ सु॒वीर्य॑म् ।  
-रा॒यस्पोष॒व्ँवि ष्य॑तु॒ नाभि॑म॒स्मे ।
+रा॒यस्पोषव्ँ॒वि ष्य॑तु॒ नाभि॑म॒स्मे ।
 </details>
 
 <details><summary>सायण-टीका</summary>

@@ -107,7 +107,7 @@ ____
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ दे॑व॒यज॑व्ँ वह ।
+आ दे॑व॒यजव्ँ॑ वह ।
 </details>
 
 <details><summary>Keith</summary>
@@ -117,7 +117,7 @@ bring hither the fire that sacrifices to the gods.
 
 <details><summary>मूलम्</summary>
 
-आ दे॑व॒यज॑व्ँवह ।
+आ दे॑व॒यजव्ँ॑वह ।
 </details>
 
 <details><summary>पद-पाठः</summary>

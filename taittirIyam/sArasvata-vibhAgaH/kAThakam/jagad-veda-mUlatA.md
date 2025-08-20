@@ -1,8 +1,8 @@
 ---
 title: जगतो वेदमूलता
 unicode_script: devanagari
----
 
+---
 सायणो [ऽत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_037_Taittiriya_Brahmanam_with_Sayanabhashya_Part_3_-_Narayanasastri_Godbole_1898#page/n281/mode/2up)।
 
 ऋ॒चां प्राची॑ मह॒ती दिगु॑च्यते ।  
@@ -20,7 +20,7 @@ unicode_script: devanagari
 सर्व॒न् तेज॑स् सामरू॒प्यँ ह॑ शश्वत् ।  
 सर्वँ॑ हे॒दं ब्रह्म॑णा+++(=वेदेन!)+++ है॒व सृ॒ष्टम् । 
 
-ऋ॒ग्भ्यो जा॒तव्ँ वैश्य॒व्ँ वर्ण॑माहुः ।  
+ऋ॒ग्भ्यो जा॒तव्ँ वैश्यव्ँ॒ वर्ण॑माहुः ।  
 य॒जु॒र्वे॒दङ् क्ष॑त्रि॒यस्या॑हु॒र् योनि॑म् ।  
 सा॒म॒वे॒दो ब्रा॑ह्म॒णानां॒ प्रसू॑तिः ।  
 पूर्वे॒ पूर्वे॑भ्यो॒ वच॑ ए॒तदू॑चुः । 

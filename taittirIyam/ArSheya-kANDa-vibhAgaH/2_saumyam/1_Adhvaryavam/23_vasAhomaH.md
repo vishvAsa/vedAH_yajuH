@@ -310,7 +310,7 @@ Drink ghee, ye drinkers of ghee;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वसा॑व्ँ वसा-पावानᳶ पिबत ।
+वसाव्ँ॑ वसा-पावानᳶ पिबत ।
 </details>
 
 <details><summary>Keith</summary>
@@ -320,7 +320,7 @@ drink fat, ye drinkers of fat.
 
 <details><summary>मूलम्</summary>
 
-वसा॑व्ँवसापावानᳶ पिबत ।
+वसाव्ँ॑वसापावानᳶ पिबत ।
 </details>
 
 <details><summary>पद-पाठः</summary>

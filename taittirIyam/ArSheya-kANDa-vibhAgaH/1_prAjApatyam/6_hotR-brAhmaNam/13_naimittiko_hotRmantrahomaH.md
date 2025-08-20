@@ -522,12 +522,12 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद्विष्णु॒य्ँयश॑ आर्च्छत् ।
+तद्विष्णुय्ँ॒यश॑ आर्च्छत् ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-तद्विष्णु॒य्ँयश॑ आर्च्छत् ।
+तद्विष्णुय्ँ॒यश॑ आर्च्छत् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -582,7 +582,7 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत्सोम॒य्ँयश॑ आर्च्छत् ।
+तत्सोमय्ँ॒यश॑ आर्च्छत् ।
 तमाऽल॑भत ।
 सोमा॒दधि॑ प॒शून॑सृजत ।
 प॒शुभ्योऽधीन्द्र॑म् ॥7॥  
@@ -590,7 +590,7 @@ unicode_script = "devanagari"
 
 <details><summary>मूलम्</summary>
 
-तत्सोम॒य्ँयश॑ आर्च्छत् ।
+तत्सोमय्ँ॒यश॑ आर्च्छत् ।
 तमाऽल॑भत ।
 सोमा॒दधि॑ प॒शून॑सृजत ।
 प॒शुभ्योऽधीन्द्र॑म् ॥7॥  
@@ -603,12 +603,12 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तदिन्द्र॒य्ँयश॑ आर्च्छत् ।
+तदिन्द्रय्ँ॒यश॑ आर्च्छत् ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-तदिन्द्र॒य्ँयश॑ आर्च्छत् ।
+तदिन्द्रय्ँ॒यश॑ आर्च्छत् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -663,12 +663,12 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नैन॒य्ँयशोऽति॒प्रच्य॑वते ।
+नैनय्ँ॒यशोऽति॒प्रच्य॑वते ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-नैन॒य्ँयशोऽति॒प्रच्य॑वते ।
+नैनय्ँ॒यशोऽति॒प्रच्य॑वते ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -752,12 +752,12 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब॒र्हिषा॒ प्रती॑या॒द्गाव्ँ वाऽश्व॑व्ँवा ।
+ब॒र्हिषा॒ प्रती॑या॒द्गाव्ँ वाऽश्वव्ँ॑वा ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-ब॒र्हिषा॒ प्रती॑या॒द्गाव्ँ वाऽश्व॑व्ँवा ।
+ब॒र्हिषा॒ प्रती॑या॒द्गाव्ँ वाऽश्वव्ँ॑वा ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

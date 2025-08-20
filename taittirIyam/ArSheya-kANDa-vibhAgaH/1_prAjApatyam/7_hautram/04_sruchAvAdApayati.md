@@ -69,12 +69,12 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वा॒युव॑व्ँवि॒श्ववा॑राम् ।  
+दे॒वा॒युवव्ँ॑वि॒श्ववा॑राम् ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
-दे॒वा॒युव॑व्ँवि॒श्ववा॑राम् ।  
+दे॒वा॒युवव्ँ॑वि॒श्ववा॑राम् ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

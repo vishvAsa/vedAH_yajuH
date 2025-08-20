@@ -124,7 +124,7 @@ title = "०८ विधुराग्निसन्धानक्रमः"
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/35_anAjnAtay.NyadAjnAtam_yajnasya.md">
 <details open><summary><h4>35 अनाज्ञातय्ँयदाज्ञातम् यज्ञस्य ...{Loading}...</h4></summary>
 
-अना॑ज्ञात॒य्ँयदाज्ञा॑तम् ।  
+अना॑ज्ञातय्ँ॒यदाज्ञा॑तम् ।  
 य॒ज्ञस्य॑ क्रि॒यते॒ मिथु॑ ।  
 अग्ने॒ तद॑स्य कल्पय ।  
 त्वँ हि वेत्थ॑ यथात॒थम् ।

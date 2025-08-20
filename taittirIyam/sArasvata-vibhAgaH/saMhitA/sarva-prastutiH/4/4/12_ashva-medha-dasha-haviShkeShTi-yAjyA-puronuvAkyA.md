@@ -366,7 +366,7 @@ Aid this sacrifice, full of ghee.
 +++(ख-गङ्गा-रूपा?)+++ सुव॑र्वती सु॒दुघा॑ न॒ᳶ पय॑स्वती  
 दि॒शान् दे॒व्य् **अ॑वतु** नो घृ॒ताची॑ ।    
 त्वङ् गो॒-पाᳶ पु॑र **ए॒तोत** प॒श्चाद्  
-बृह॑स्पते॒ याम्या॑य्ँ +++(दिशि)+++ **युङ्ग्धि॒** वाच॑म् ।
+बृह॑स्पते॒ याम्याय्ँ॑ +++(दिशि)+++ **युङ्ग्धि॒** वाच॑म् ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/11_suvarvatI_sudughA.md">
@@ -381,7 +381,7 @@ O Brhaspati, yoke a voice in the south.
 <details><summary>मूलम्</summary>
 
 सुव॑र्वती सु॒दुघा॑ न॒ᳶ पय॑स्वती दि॒शान्दे॒व्य॑वतु नो घृ॒ताची॑ ।    
-त्वङ्गो॒पाᳶ पु॑रए॒तोत प॒श्चाद्बृह॑स्पते॒ याम्या॑य्ँयुङ्ग्धि॒ वाच॑म् ।
+त्वङ्गो॒पाᳶ पु॑रए॒तोत प॒श्चाद्बृह॑स्पते॒ याम्याय्ँ॑युङ्ग्धि॒ वाच॑म् ।
 </details>
 
 <details><summary>सायण-टीका</summary>

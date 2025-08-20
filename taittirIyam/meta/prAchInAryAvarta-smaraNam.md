@@ -1,6 +1,7 @@
 +++
 title = "प्राचीनार्यावर्तस्मरणम्"
 unicode_script = "devanagari"
+
 +++
 
 ## कृत्यन्तरेषु
@@ -29,7 +30,7 @@ verily he wins the dawn.
 तत्राग्रिम एव भागे -"इन्धा॑नास्त्वा श॒तं हिमा॒"! एवं बहुत्र हिमोल्लेखो वृष्टेर् अप्य् अभ्यधिकम्?!
 
 ## विषुवे साम्मेघ्यम्
-> फल्गुनीपूर्णमा॒से दी॑क्षेर॒न्। मुख॒व्ँवा ए॒तत्। तस्यैकै॒व नि॒र्या यत् साम्मे॑घ्ये विषू॒वान्त् स॒म्पद्य॑ते। (अतस् तथा मा भूत्।) चित्रापूर्णमा॒से दी॑क्षेर॒न्। मुख॒व्ँवा ए॒तत्स॑व्ँवत्स॒रस्य॒ यच्चि॑त्रापूर्णमा॒सो मु॑ख॒त ए॒व स॑व्ँवत्स॒रमा॒रभ्य॑ दीक्षन्ते॒, तस्य॒ न का च॒न नि॒र्या भ॑वति।  
+> फल्गुनीपूर्णमा॒से दी॑क्षेर॒न्। मुखव्ँ॒वा ए॒तत्। तस्यैकै॒व नि॒र्या यत् साम्मे॑घ्ये विषू॒वान्त् स॒म्पद्य॑ते। (अतस् तथा मा भूत्।) चित्रापूर्णमा॒से दी॑क्षेर॒न्। मुखव्ँ॒वा ए॒तत्सव्ँ॑वत्स॒रस्य॒ यच्चि॑त्रापूर्णमा॒सो मु॑ख॒त ए॒व सव्ँ॑वत्स॒रमा॒रभ्य॑ दीक्षन्ते॒, तस्य॒ न का च॒न नि॒र्या भ॑वति।  
 > तैत्तिरीयसंहितायाम् 7.4.8.2
 
 > (One should get consecrated on the Phalguni full-moon day because Phalguna full moon is the "mouth" of the year. Hence, ( such people ) are taken as consecrated from the very beginning of the year. But such people have to accept one 'niryā' ( draw back ), viz., that the Viṣuvān occurs in the cloudly season ( sammeghya ). Hence, one should consecrate on the Citrā full-moon day (ie a month later).) 

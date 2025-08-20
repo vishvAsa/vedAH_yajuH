@@ -394,7 +394,7 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 <div class="js_include" includetitle="false" newlevelforh1="2" open unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/3/03_ye_virUpe.md">
 <details open><summary><h6>03 ये विरूपे ...{Loading}...</h6></summary>
 
-ये विरू॑पे॒ सम॑नसा स॒व्ँ व्यय॑न्ती ।  
+ये विरू॑पे॒ सम॑नसा सव्ँ॒ व्यय॑न्ती ।  
 स॒मा॒नन्तन्तु॑म्परितात॒ना ते॑ ।  
 वि॒भू प्र॒भू अ॑नु॒भू वि॒श्वतो॑ हुवे ।   
 ते नो॒ नक्ष॑त्रे॒ हव॒माग॑मेतम् ।
@@ -404,7 +404,7 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 <details open><summary><h6>03 ये विरूपे ...{Loading}...</h6></summary>
 <details><summary>मूलम्</summary>
 
-ये विरू॑पे॒ सम॑नसा स॒व्ँ व्यय॑न्ती ।  
+ये विरू॑पे॒ सम॑नसा सव्ँ॒ व्यय॑न्ती ।  
 स॒मा॒नन्तन्तु॑म्परितात॒ना ते॑ ।  
 वि॒भू प्र॒भू अ॑नु॒भू वि॒श्वतो॑ हुवे ।   
 ते नो॒ नक्ष॑त्रे॒ हव॒माग॑मेतम् ।
@@ -1271,7 +1271,7 @@ Aditi, who giveth good protection and good guidance.
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/022/17_idaM_viShNurvi.md">
 <details open><summary><h6>१७ इदं विष्णुर्वि ...{Loading}...</h6></summary>
 
-इद᳓व्ँ वि᳓ष्णुर् +++(अग्नि-विद्युत्-सूर्यात्मना)+++ **वि᳓ चक्रमे**  
+इदव्ँ᳓ वि᳓ष्णुर् +++(अग्नि-विद्युत्-सूर्यात्मना)+++ **वि᳓ चक्रमे**  
 +++(पृथिव्याम् अन्तरिक्षे दिवि च)+++ त्रेधा᳓ **नि᳓ दधे** पद᳓म् ।  
 +++(तैर् आधारैर् जगत्)+++ **स᳓म् ऊढम्** अस्य पाँसुरे᳓ +++(ले इति साम्नि, पांसुमति [पादे])+++ ॥
 
@@ -1845,7 +1845,7 @@ Gerühmt wird Vischnu wegen dieser Grossthat, gleich wildem Löwen, der durch Be
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
 
-अन्वय:  हे मनुष्या यस्य निर्मितेषूरुषु त्रिषु विक्रमणेषु विश्वा भुवनान्यधिक्षियन्ति तत् स विष्णुः स्ववीर्येण कुचरो गिरिष्ठा मृगो भीमो नेव विश्वाल्ँलोकान् प्रस्तवते ॥ २ ॥
+अन्वय:  हे मनुष्या यस्य निर्मितेषूरुषु त्रिषु विक्रमणेषु विश्वा भुवनान्यधिक्षियन्ति तत् स विष्णुः स्ववीर्येण कुचरो गिरिष्ठा मृगो भीमो नेव विश्वाल्ँ लोकान् प्रस्तवते ॥ २ ॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>

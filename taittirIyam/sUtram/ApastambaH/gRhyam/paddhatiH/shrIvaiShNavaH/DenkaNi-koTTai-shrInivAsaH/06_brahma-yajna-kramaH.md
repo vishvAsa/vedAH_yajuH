@@ -21,7 +21,9 @@ title = "०६ ब्रह्म-यज्ञ-क्रमः"
 
 इति सात्त्विक-त्यागं कृत्वा
 
-> विद्यु॑दसि॒विद्य॑मेपा॒प्मान॒मृता॑त्स॒त्यमुपै॑मी” 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/mantraH/yajuH/vidyudasi.md" unfilled newLevelForH1="5" includeTitle="false"> विद्यु॑दसि॒विद्य॑मेपा॒प्मान॒मृता॑त्स॒त्यमुपै॑मी
+</div>  
+ 
 
 इति दक्षिण-कर-तलेन अप अदाय वाम-कर-तलं सम्मृज्य -
 

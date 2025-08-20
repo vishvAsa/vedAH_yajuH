@@ -1,8 +1,8 @@
 ---
 title: ०६ होतुरध्रिगुप्रैषः
 unicode_script: devanagari
----
 
+---
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दैव्या॑श्शमितार उ॒त म॑नुष्या॒ आर॑भध्वम् ।  
@@ -200,12 +200,12 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒न्तरे॒वोष्माण॑व्ँ वारयतात् ।   
+अ॒न्तरे॒वोष्माणव्ँ॑ वारयतात् ।   
 </details>
 
 <details><summary>मूलम्</summary>
 
-अ॒न्तरे॒वोष्माण॑व्ँ वारयतात् ।   
+अ॒न्तरे॒वोष्माणव्ँ॑ वारयतात् ।   
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -504,4 +504,3 @@ unicode_script: devanagari
 इति तैत्तिरीयब्राह्मणे तृतीये षष्ठे पशुहौत्रे षष्ठोऽनुवाकः ॥  
 
 </details>
-

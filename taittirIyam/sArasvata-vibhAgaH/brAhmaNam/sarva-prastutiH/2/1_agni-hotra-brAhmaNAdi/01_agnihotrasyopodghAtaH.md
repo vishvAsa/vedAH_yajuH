@@ -1,8 +1,8 @@
 ---
-title:  ०१ अग्निहोत्रस्योपोद्घातः
+title: ०१ अग्निहोत्रस्योपोद्घातः
 unicode_script: devanagari
----
 
+---
 अग्निहोत्रब्राह्मणम्
 
 ## पितृ-भागः
@@ -281,12 +281,12 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो॑ **ऽब्रवी॒द्** "वर॑व्ँ **वृणै** ।
+सो॑ **ऽब्रवी॒द्** "वरव्ँ॑ **वृणै** ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-सो॑ऽब्रवी॒द् "वर॑व्ँवृणै ।
+सो॑ऽब्रवी॒द् "वरव्ँ॑वृणै ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -382,4 +382,3 @@ unicode_script: devanagari
 इति तैत्तिरीयब्राह्मणे द्वितीयेऽष्टके प्रथमे प्रथमोऽनुवाकः ।  
 
 </details>
-

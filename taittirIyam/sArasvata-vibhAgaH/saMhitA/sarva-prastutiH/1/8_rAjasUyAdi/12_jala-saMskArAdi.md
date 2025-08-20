@@ -617,7 +617,7 @@ Protect me in front, protect me at the side, protect me from behind; from the qu
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/12_jala-saMskArAdi/06_hiraNyavarNAv_uShasAv.N.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-हिर॑ण्य-वर्णाव् उ॒षसा॑व्ँ विरो॒के+++(←रुच्)+++  
+हिर॑ण्य-वर्णाव् उ॒षसाव्ँ॑ विरो॒के+++(←रुच्)+++  
 ऽय॑स्-स्थूणा॒व् **उदि॑तौ॒** सूर्य॒स्य ।   
 **आरो॑हतव्ँ** वरुण मित्र॒ +++(रथ/ख-)+++गर्त॒न्  
 तत॑श् **चक्षाथा॒म्**+++(←चक्ष् वीक्षणे)+++ अदि॑ति॒न् दिति॑ञ् च ॥ [23]
@@ -635,7 +635,7 @@ And thence behold ye Aditi and Diti.
 
 <details><summary>मूलम्</summary>
 
-हिर॑ण्यवर्णावु॒षसा॑व्ँविरो॒केऽय॑स्स्थूणा॒वुदि॑तौ॒ सूर्य॒स्य ।   
+हिर॑ण्यवर्णावु॒षसाव्ँ॑विरो॒केऽय॑स्स्थूणा॒वुदि॑तौ॒ सूर्य॒स्य ।   
 आरो॑हतव्ँवरुण मित्र॒ गर्त॒न्तत॑श्चक्षाथा॒मदि॑ति॒न्दिति॑ञ्च ॥ [23]
 </details>
 

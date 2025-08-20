@@ -1,8 +1,8 @@
 ---
 title: ०८ अन्होमाः, अभिषेकाश्च
 unicode_script: devanagari
----
 
+---
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स॒प्तान्न॑-हो॒माञ् जु॑होति ।
@@ -433,18 +433,18 @@ unicode_script: devanagari
 
 <details><summary>मूलम्</summary>
 
-अन्न॒व्ँ वै वाजः॑ ।
+अन्नव्ँ॒ वै वाजः॑ ।
 अन्न॑मे॒वाव॑रुन्धे ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अन्न॒व्ँ वै वाजो॒ ऽन्न॑म् ए॒वाव॑रुन्धे ।  
+अन्नव्ँ॒ वै वाजो॒ ऽन्न॑म् ए॒वाव॑रुन्धे ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
-अन्न॒व्ँ वै वाजो॒ ऽन्न॑म् ए॒वाव॑रुन्धे ।  
+अन्नव्ँ॒ वै वाजो॒ ऽन्न॑म् ए॒वाव॑रुन्धे ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -511,4 +511,3 @@ unicode_script: devanagari
 इति तृतीये अष्टमोऽनुवाकः ॥  
 
 </details>
-

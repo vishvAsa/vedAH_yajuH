@@ -578,7 +578,7 @@ Der Segen schenkt als Stammes Herr den Vritra schlägt, den Feind bezwingt, Als 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/35_anAjnAtay.NyadAjnAtam_yajnasya.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-अना॑ज्ञात॒य्ँयदाज्ञा॑तम् ।  
+अना॑ज्ञातय्ँ॒यदाज्ञा॑तम् ।  
 य॒ज्ञस्य॑ क्रि॒यते॒ मिथु॑ ।  
 अग्ने॒ तद॑स्य कल्पय ।  
 त्वँ हि वेत्थ॑ यथात॒थम् ।
@@ -588,7 +588,7 @@ Der Segen schenkt als Stammes Herr den Vritra schlägt, den Feind bezwingt, Als 
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
-अना॑ज्ञात॒य्ँयदाज्ञा॑तम् ।  
+अना॑ज्ञातय्ँ॒यदाज्ञा॑तम् ।  
 य॒ज्ञस्य॑ क्रि॒यते॒ मिथु॑ ।  
 अग्ने॒ तद॑स्य कल्पय ।  
 त्वँ हि वेत्थ॑ यथात॒थम् ।

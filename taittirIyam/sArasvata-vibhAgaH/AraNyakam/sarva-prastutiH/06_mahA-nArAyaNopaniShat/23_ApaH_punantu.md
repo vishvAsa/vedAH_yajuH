@@ -47,7 +47,7 @@ title = "२३ आपः पुनन्तु"
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/23_ApaH_punantu/03_yaduchChiShTam_abhojyay.N.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-यद् उच्छि॑ष्ट॒म् अभो॑ज्य॒य्ँ  
+यद् उच्छि॑ष्ट॒म् अभो॑ज्यय्ँ॒  
 यद् वा॒ दुश्-च॑रितं॒ +++(~~दु॒श्चरि॑तं॒~~)+++ मम॑ ।  
 सर्वं॑ पुनन्तु॒ माम् आपो॑  
 ऽस॒ताञ् च॑ प्रति॒ग्रहँ॒+++(←कृद्-उत्तर-पद-प्रकृति-स्वरः)+++ स्वाहा॑ ॥ (38)
@@ -58,7 +58,7 @@ title = "२३ आपः पुनन्तु"
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
-यदुच्छि॑ष्ट॒म् अभो॑ज्य॒य्ँ  
+यदुच्छि॑ष्ट॒म् अभो॑ज्यय्ँ॒  
 यद्वा॑ दु॒श्चरि॑तं॒ मम॑ ।  
 सर्वं॑ पुनन्तु॒ मामापो॑  
 ऽस॒ताञ्च॑ प्रति॒ग्रहँ॒ स्वाहा॑ ॥ (38)

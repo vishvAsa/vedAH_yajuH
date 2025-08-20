@@ -332,7 +332,7 @@ Glück werde mir, wenn ich dich, Agni, rufe, Heil sei den Leibern, wenn wir dich
 मम॑ दे॒वा वि॑ह॒वे **स॑न्तु॒** सर्व॒  
 इन्द्रा॑वन्तो म॒रुतो॒ विष्णु॑र् अ॒ग्निः ।   
 ममा॒न्तरि॑क्षम् उ॒रु गो॒पम् **अ॑स्तु॒**  
-मह्य॒व्ँ वातᳶ॑ **पवता॒ङ्** कामे॑ अ॒स्मिन् ।
+मह्यव्ँ॒ वातᳶ॑ **पवता॒ङ्** कामे॑ अ॒स्मिन् ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/14_vihavyAkhyeShTakopadhAnam/23_mama_devA.md">
@@ -340,7 +340,7 @@ Glück werde mir, wenn ich dich, Agni, rufe, Heil sei den Leibern, wenn wir dich
 <details><summary>मूलम्</summary>
 
 मम॑ दे॒वा वि॑ह॒वे स॑न्तु॒ सर्व॒ इन्द्रा॑वन्तो म॒रुतो॒ विष्णु॑र॒ग्निः ।   
-ममा॒न्तरि॑क्षमु॒रु गो॒पम॑स्तु॒ मह्य॒व्ँवातᳶ॑ पवता॒ङ्कामे॑ अ॒स्मिन् ।
+ममा॒न्तरि॑क्षमु॒रु गो॒पम॑स्तु॒ मह्यव्ँ॒वातᳶ॑ पवता॒ङ्कामे॑ अ॒स्मिन् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -384,7 +384,7 @@ Glück werde mir, wenn ich dich, Agni, rufe, Heil sei den Leibern, wenn wir dich
 </div>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मह्य॑य्ँ **यजन्तु॒** मम॒ यानि॑ ह॒व्या  
+मह्यय्ँ॑ **यजन्तु॒** मम॒ यानि॑ ह॒व्या  
 ऽऽकू॑तिस् **स॒त्या** मन॑सो मे **अस्तु** ।   
 एनो॒ **मा नि गा॑ङ्** कत॒मच्च॒न+अ॒हव्ँ  
 विश्वे॑ देवासो॒ अधि॑ **वोचता** मे ।   
@@ -392,7 +392,7 @@ Glück werde mir, wenn ich dich, Agni, rufe, Heil sei den Leibern, wenn wir dich
 
 <details><summary>मूलम्</summary>
 
-मह्य॑य्ँयजन्तु॒ मम॒ यानि॑ ह॒व्याकू॑तिस्स॒त्या मन॑सो मे अस्तु ।   
+मह्यय्ँ॑यजन्तु॒ मम॒ यानि॑ ह॒व्याकू॑तिस्स॒त्या मन॑सो मे अस्तु ।   
 एनो॒ मा नि गा॑ङ्कत॒मच्च॒नाहव्ँविश्वे॑ देवासो॒ अधि॑ वोचता मे ।   
 </details>
 

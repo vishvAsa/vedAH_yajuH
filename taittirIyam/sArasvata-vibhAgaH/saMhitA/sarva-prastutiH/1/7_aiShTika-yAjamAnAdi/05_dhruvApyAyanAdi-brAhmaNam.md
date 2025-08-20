@@ -199,7 +199,7 @@ he places the sacrifice in the sacrifice.
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-ए॒तद्वै सू॒यव॑सँ॒ सोद॑क॒य्ँयद्ब॒र्हिश्चाऽऽप॑श्चै॒तत् [22]यज॑मानस्या॒ऽऽयत॑न॒य्ँयद्वेदि॒र्यत्पू॑र्णपा॒त्रम॑न्तर्वे॒दि नि॒नय॑ति॒ स्व ए॒वाऽऽयत॑ने सू॒यव॑सँ॒ सोद॑कङ्कुरुते 
+ए॒तद्वै सू॒यव॑सँ॒ सोद॑कय्ँ॒यद्ब॒र्हिश्चाऽऽप॑श्चै॒तत् [22]यज॑मानस्या॒ऽऽयत॑नय्ँ॒यद्वेदि॒र्यत्पू॑र्णपा॒त्रम॑न्तर्वे॒दि नि॒नय॑ति॒ स्व ए॒वाऽऽयत॑ने सू॒यव॑सँ॒ सोद॑कङ्कुरुते 
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -252,7 +252,7 @@ in that he places the full bowl within the Vedi, he establishes good grass and g
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-सद॑सि॒ सन्मे॑ भूया॒ इत्या॒हाऽऽपो॒ वै य॒ज्ञ आपो॒ऽमृत॑य्ँ य॒ज्ञमे॒वामृत॑मा॒त्मन्ध॑त्ते 
+सद॑सि॒ सन्मे॑ भूया॒ इत्या॒हाऽऽपो॒ वै य॒ज्ञ आपो॒ऽमृतय्ँ॑ य॒ज्ञमे॒वामृत॑मा॒त्मन्ध॑त्ते 
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -280,7 +280,7 @@ in that he places the full bowl within the Vedi, he establishes good grass and g
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आपो॒ वै य॒ज्ञः ।   
-आपो॒ ऽमृत॑य्ँ, य॒ज्ञम् ए॒वामृत॑म् आ॒त्मन् ध॑त्ते ।  
+आपो॒ ऽमृतय्ँ॑, य॒ज्ञम् ए॒वामृत॑म् आ॒त्मन् ध॑त्ते ।  
 </details>
 <details><summary>Keith</summary>
 
@@ -291,7 +291,7 @@ verily he bestows upon himself the sacrifice and the waters.
 <details><summary>मूलम्</summary>
 
 आपो॒ वै य॒ज्ञः ।   
-आपो॒ऽमृत॑य्ँ य॒ज्ञमे॒वामृत॑मा॒त्मन्ध॑त्ते ।  
+आपो॒ऽमृतय्ँ॑ य॒ज्ञमे॒वामृत॑मा॒त्मन्ध॑त्ते ।  
 </details>
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -400,7 +400,7 @@ in that he takes the steps of Visnu the sacrificer becoming Visnu wins these wor
 
 <details><summary>सायण-टीका</summary>
 
-अतो यजमानो विष्णुक्रमान्क्रमत इति यत्स विष्णुरेव भूत्वेमाल्ँलोकानभिजयति।  
+अतो यजमानो विष्णुक्रमान्क्रमत इति यत्स विष्णुरेव भूत्वेमाल्ँ लोकानभिजयति।  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

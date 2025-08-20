@@ -300,7 +300,7 @@ _______
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/27_mano_jyotir.md">
 <details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
 
-मनो॒ ज्योति॑र् **जुषता॒म्**, आज्य॒व्ँ  
+मनो॒ ज्योति॑र् **जुषता॒म्**, आज्यव्ँ॒  
 विच्छि॑न्नय्ँ **य॒ज्ञँ सम्** इ॒मन् **द॑धातु** ।  
 या +++(अन्यैर्)+++ **इ॒ष्टा उ॒षसो॑**, +++(मया तु)+++  नि॒-म्रुच॑श्+++(←स्तेये)+++ च॒  
 तास् **सन्द॑धामि** ह॒विषा॑ घृ॒तेन॑  ॥
@@ -320,7 +320,7 @@ I unite with oblation and ghee.
 
 <details><summary>मूलम्</summary>
 
-मनो॒ ज्योति॑र् जुषता॒म् आज्य॒व्ँ  
+मनो॒ ज्योति॑र् जुषता॒म् आज्यव्ँ॒  
 विच्छि॑न्नय्ँ य॒ज्ञँ सम् इ॒मन् द॑धातु ।    
 या इ॒ष्टा उ॒षसो॑ नि॒म्रुच॑श् च॒   
 तास् सन्द॑धामि ह॒विषा॑ घृ॒तेन॑  ॥

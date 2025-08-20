@@ -1398,7 +1398,7 @@ Nach vielen Seiten wandern windgetrieben, o heller Agni, deine hellen Strahlen, 
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 त्वाम् अ॑ग्ने॒ मानु॑षीर् **ईडते॒** विशो॑  
-होत्रा॒विद॒व्ँविवि॑चिँ रत्न॒धात॑मम् ।  
+होत्रा॒विदव्ँ॒विवि॑चिँ रत्न॒धात॑मम् ।  
 गुहा॒ **सन्तँ॑** सुभग वि॒श्व-द॑र्शतन्  
 तुविष्+++(=प्रवृद्ध)+++-म॒णसँ॑+++(→तुविष्व॒णसं॑ शाकले)+++ सु॒यज॑ङ् घृत॒-श्रिय॑म् ।
 </details>
@@ -1407,7 +1407,7 @@ Nach vielen Seiten wandern windgetrieben, o heller Agni, deine hellen Strahlen, 
 <details><summary><h5>सर्वाष्टीकाः ...{Loading}...</h5></summary>
 <details><summary>मूलम्</summary>
 
-त्वाम॑ग्ने॒ मानु॑षीरीडते॒ विशो॑ होत्रा॒विद॒व्ँविवि॑चिँ रत्न॒धात॑मम् ।  
+त्वाम॑ग्ने॒ मानु॑षीरीडते॒ विशो॑ होत्रा॒विदव्ँ॒विवि॑चिँ रत्न॒धात॑मम् ।  
 
 गुहा॒ सन्तँ॑ सुभग वि॒श्वद॑र्शतन्तुविष्म॒णसँ॑ सु॒यज॑ङ्घृत॒श्रिय॑म् ।
 </details>
@@ -2713,7 +2713,7 @@ Breitflechtige Sinīvālī, die du der Götter Schwester bist, Geniess' den darg
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/3/11_yAjyApuronuvAkyAH/48_kuhUm_aham.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-कु॒हूम्+++(=नष्टचन्द्राऽमावास्या)+++ अ॒हँ सु॒भगा॑व्ँ विद्म॒न्-आप॑सम्+++(=कर्माणं)+++  
+कु॒हूम्+++(=नष्टचन्द्राऽमावास्या)+++ अ॒हँ सु॒भगाव्ँ॑ विद्म॒न्-आप॑सम्+++(=कर्माणं)+++  
 अ॒स्मिन् य॒ज्ञे सु॒हवा॑ञ् **जोहवीमि** ।  
 सा नो॑ **ददातु॒** श्रव॑णम् पितृ॒णान्  
 तस्या॑स् ते देवि ह॒विषा॑ **विधेम** ।
@@ -2723,7 +2723,7 @@ Breitflechtige Sinīvālī, die du der Götter Schwester bist, Geniess' den darg
 <details><summary><h5>सर्वाष्टीकाः ...{Loading}...</h5></summary>
 <details><summary>मूलम्</summary>
 
-कु॒हूम॒हँ सु॒भगा॑व्ँ विद्म॒नाप॑सम॒स्मिन्य॒ज्ञे सु॒हवा॑ञ्जोहवीमि ।  
+कु॒हूम॒हँ सु॒भगाव्ँ॑ विद्म॒नाप॑सम॒स्मिन्य॒ज्ञे सु॒हवा॑ञ्जोहवीमि ।  
 सा नो॑ ददातु॒ श्रव॑णम्पितृ॒णान्तस्या॑स्ते देवि ह॒विषा॑ विधेम ।
 </details>
 

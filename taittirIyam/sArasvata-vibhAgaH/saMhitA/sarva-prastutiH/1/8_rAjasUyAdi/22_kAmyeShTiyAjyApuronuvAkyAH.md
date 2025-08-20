@@ -64,7 +64,7 @@ May your tongue move forth to the ghee.
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/22_kAmyeShTiyAjyApuronuvAkyAH/03_agnAviShNU_mahi.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-अग्ना॑विष्णू॒ महि॒ धाम॑ प्रि॒यव्ँ वा॑व्ँ  
+अग्ना॑विष्णू॒ महि॒ धाम॑ प्रि॒यव्ँ वाव्ँ॑  
 **वी॒थो** घृ॒तस्य॒ गुह्या॑ **जुषा॒णा** ।  
 दमे॑-दमे सुष्टु॒तीर् **वा॑वृधा॒ना**  
 प्रति॑ वाञ् जि॒ह्वा घृ॒तम् **उच्च॑रण्येत्**  ॥
@@ -82,7 +82,7 @@ May your tongue move forth to the ghee.
 
 <details><summary>मूलम्</summary>
 
-अग्ना॑विष्णू॒ महि॒ धाम॑ प्रि॒यव्ँवा॑व्ँवी॒थो घृ॒तस्य॒ गुह्या॑ जुषा॒णा ।  
+अग्ना॑विष्णू॒ महि॒ धाम॑ प्रि॒यव्ँवाव्ँ॑वी॒थो घृ॒तस्य॒ गुह्या॑ जुषा॒णा ।  
 दमे॑दमे सुष्टु॒तीर्वा॑वृधा॒ना प्रति॑ वाञ्जि॒ह्वा घृ॒तमुच्च॑रण्येत्  ॥
 </details>
 
@@ -4050,7 +4050,7 @@ Whatever sin we have done remove from us.
 
 <details><summary>मूलम्</summary>
 
-सोमा॑रुद्रा॒ वि वृ॑हत॒व्ँविषू॑ची॒ममी॑वा॒ या नो॒ गय॑मावि॒वेश॑ ।      
+सोमा॑रुद्रा॒ वि वृ॑हतव्ँ॒विषू॑ची॒ममी॑वा॒ या नो॒ गय॑मावि॒वेश॑ ।      
 आ॒रे बा॑धेथा॒न्निर्ऋ॑तिम्परा॒चैᳵ कृ॒तञ्चि॒देन॒ᳶ प्रमु॑मुक्तम॒स्मत्  ॥
 </details>
 
