@@ -46,10 +46,11 @@ title = "पाठ-भेदः"
 
 > sāyaṇa's commentary is not on the 80 anuvāka āndhrapāṭham (AP) that has (स ब्रह्मा स शिवस् स हरिस् सेन्द्रः). He commented on the pāṭha chosen by bhaṭṭa bhāskara (with minor differences)
 
+एवं गुर्जर-पाठो ऽपि हरिशब्दो निविष्टो ऽत्रेति मानस-तरङ्गिणी-कृत्। 
 
 ### नम्बूतिरि-पाठः
 
-> sa hariḥ & sa śivaḥ are flipped in order compared to the AP. the "sa hari before sa śiva" pāṭha of nambus (that appears to be cited in this prapañcahṛḍaya) might be the 89 anuvāka one sāyaṇa mentioned as existing. 
+> the "sa hari before sa śiva" pāṭha of nambus (that appears to be cited in this prapañcahṛḍaya). sa hariḥ & sa śivaḥ are flipped in order compared to the AP. - अनिरुद्धः  
 
 प्रपञ्च-हृदये - 
 
