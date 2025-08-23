@@ -3,7 +3,8 @@ title = "०८ गवामयने संवत्सरसत्रदीक
 
 +++
 ## माघपक्षः
-{{< figure src="../../../../../../jyotiSham/history/images/zodiac_history/bce-2300-01-13_kRttikA_anUrAdhAH_equinox_dhaniShThA-shatabhiShak_maghA_solstice.png" title="" class="thumbnail">}}
+![](../../../../../../jyotiSham/history/images/zodiac_history/bce-2300-01-13_kRttikA_anUrAdhAH_equinox_dhaniShThA-shatabhiShak_maghA_solstice.png)
+{caption="" class="thumbnail"}
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

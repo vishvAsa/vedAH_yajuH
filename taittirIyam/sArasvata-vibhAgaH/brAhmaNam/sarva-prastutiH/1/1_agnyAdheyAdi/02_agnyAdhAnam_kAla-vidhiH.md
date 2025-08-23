@@ -8,7 +8,8 @@ unicode_script: devanagari
 आग्न्याधेयब्राह्मणम् अग्न्यार्षेयम्
 </details>
 
-{{< figure src="../../../../../../jyotiSham/history/images/zodiac_history/bce-2300-01-13_kRttikA_anUrAdhAH_equinox_dhaniShThA-shatabhiShak_maghA_solstice.png" title="" class="thumbnail">}}
+![](../../../../../../jyotiSham/history/images/zodiac_history/bce-2300-01-13_kRttikA_anUrAdhAH_equinox_dhaniShThA-shatabhiShak_maghA_solstice.png)
+{caption="" class="thumbnail"}
 
 ## कृत्तिकापक्षः
 

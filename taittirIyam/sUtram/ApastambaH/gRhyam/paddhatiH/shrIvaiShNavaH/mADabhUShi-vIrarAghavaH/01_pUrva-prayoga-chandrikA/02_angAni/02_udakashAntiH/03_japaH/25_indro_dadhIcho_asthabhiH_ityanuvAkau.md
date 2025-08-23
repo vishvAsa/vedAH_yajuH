@@ -263,7 +263,8 @@ Mit Dadhiank's Gebeinen schlug, Indra, dem niemand widersteht, Die neunundneunzi
 प᳓र्वतेष्व्+++(→मेघेषष्व्, हेमन्त-मासेष्व्)+++ **अ᳓पश्रितम्** ।   
 त᳓द् **विदच्** छर्यणा᳓वति ।
 
-{{< figure src="/jyotiSham/astrophysics/history/images/zodiac_history/bce-3000-01-13_rohiNI_jyeShThA_equinox_shatabhiShak_pUrva_phAlgunI_solstice.png" title="" class="thumbnail">}}
+![](/jyotiSham/astrophysics/history/images/zodiac_history/bce-3000-01-13_rohiNI_jyeShThA_equinox_shatabhiShak_pUrva_phAlgunI_solstice.png)
+{caption="" class="thumbnail"}
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाः टीकाः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/084/14_ichChannashvasya_yachChiraH.md">
