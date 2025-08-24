@@ -1,4 +1,4 @@
 .wercker
 /resources
-build_*
+build_*/*
 *_local*
