@@ -146,9 +146,10 @@ With the victory of the new and full moon sacrifices [1] the gods conquered, and
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"अग्ने᳓र् अह᳓म् उ᳓ज्जितिम् अ᳓नू᳓ज्जेषम्" इ᳓त्य् आ᳓ह᳓ ।  
-दर्शपूर्णमास᳓योर् एव᳓ देव᳓तानाय्ँ य᳓जमान उ᳓ज्जितिम् अ᳓नू᳓ज्जयति ।   
-दर्शपूर्णमा᳓सा᳓भ्याम् भ्रा᳓तृव्यान् अ᳓प नुदते ।  
+"अग्ने᳓र् अह᳓म् उ᳓ज्जितिम् अ᳓नू᳓ज्जेषम्" इ᳓त्य् आह ।  
+दर्शपूर्णमास᳓योर् एव᳓  
+देव᳓तानाय्ँ य᳓जमान उ᳓ज्जितिम् अ᳓नू᳓ज्जयति ।   
+दर्शपूर्णमासा᳓भ्याम् भ्रा᳓तृव्यान् अ᳓प नुदते ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -158,9 +159,9 @@ With the victory of the new and full moon sacrifices [1] the gods conquered, and
 
 <details><summary>मूलम्</summary>
 
-अ॒ग्नेर॒हमुज्जि॑ति॒मनूज्जे॑ष॒मित्याह ।  
+अ॒ग्नेर॒हमुज्जि॑ति॒मनूज्जे॑ष॒मित्या॑ह ।  
 द॒र्श॒पू॒र्ण॒मा॒सयो॑रे॒व दे॒वता॑नाय्ँ॒यज॑मान॒ उज्जि॑ति॒मनूज्ज॑यति ।   
-द॒र्श॒पू॒र्ण॒मासाभ्या॒म्भ्रातृ॑व्या॒नप॑ नुदते ।  
+द॒र्श॒पू॒र्ण॒मा॒साभ्या॒म्भ्रातृ॑व्या॒नप॑ नुदते ।  
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -188,7 +189,8 @@ With the victory of the new and full moon sacrifices [1] the gods conquered, and
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वा᳓जवतीभ्याव्ँ +++(दर्वी)+++ व्यू᳙हति ।   
-अ᳓न्नव्ँ वै᳓ वा᳓जो᳓, ऽन्नम् एवा᳓वरुन्धे ।  
+अ᳓न्नव्ँ वै᳓ वा᳓जः,  
+अ᳓न्नम् एवा᳓वरुन्धे ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -223,7 +225,7 @@ strength is food, verily he wins food;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-द्वा᳓भ्याम्प्र᳓तिष्ठित्यै ।  
+द्वा᳓भ्याम् प्र᳓तिष्ठित्यै ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -254,7 +256,8 @@ strength is food, verily he wins food;
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो᳓ वै᳓ यज्ञ᳓स्य द्वौ᳓ दो᳓हौ विद्वा᳓न् य᳓जते,  
-उभय᳓तः [16] एव᳓ यज्ञ᳓न् दुहे - पुर᳓स्ताच् चोप᳓रिष्टाच् च ।  
+उभय᳓त [16] एव᳓ यज्ञ᳓न् दुहे -  
+पुर᳓स्ताच् चोप᳓रिष्टाच् च ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -285,7 +288,7 @@ He who sacrifices knowing the two milkings of the sacrifice milks thus the sacri
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एष᳓ वा᳓ अन्यो᳓ यज्ञ᳓स्य, दो᳓ह इ᳓डायाम् अन्यः᳓ +++(दोहः)+++  ।
+एष᳓ वा᳓ अन्यो᳓ यज्ञ᳓स्य दो᳓ह, इ᳓डायाम् अन्यः᳓ +++(दोहः)+++  ।
 </details>
 
 <details><summary>Keith</summary>
@@ -315,7 +318,8 @@ this is one milking of the sacrifice, another is in the Ida.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य᳓र्हि हो᳓ता य᳓जमानस्य ना᳓म गृह्णीया᳓त् त᳓र्हि ब्रूयाद् -  
+य᳓र्हि हो᳓ता य᳓जमानस्य ना᳓म गृह्णीया᳓त्  
+त᳓र्हि ब्रूयाद् -  
 "आ᳓+इमा᳓ अग्मन्न् आशि᳓षो दो᳓हकामा" इ᳓ति।
 </details>
 
@@ -350,7 +354,7 @@ When the Hotr utters the name of the sacrificer, then he should say,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सँ᳓स्तुता एव᳓ देव᳓ता दुहे᳓ ।  
+सँ᳓स्तुता एव᳓ देव᳓ता दुहे ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -360,7 +364,7 @@ verily he milks the deities which he praises together;
 
 <details><summary>मूलम्</summary>
 
-सँस्तु॑ता ए॒व दे॒वता॑ दु॒हे ।  
+सँस्तु॑ता ए॒व दे॒वता॑ दुहे ।  
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -380,7 +384,8 @@ verily he milks the deities which he praises together;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ᳓थो उभय᳓त एव᳓ यज्ञ᳓न् दुहे - पुर᳓स्ताच् चोप᳓रिष्टाच्च ।  
+अ᳓थो उभय᳓त एव᳓ यज्ञ᳓न् दुहे -  
+पुर᳓स्ताच् चोप᳓रिष्टाच् च ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -481,7 +486,8 @@ he makes the sacrificer to go by the steeds of the gods to the world of heaven.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "वि᳓ ते मुञ्चामि रशना᳓+++(=शिरस्सूत्राणि)+++ वि᳓ रश्मी᳓न्" इ᳓त्य् आह ।  
-एष᳓ वा᳓ अग्ने᳓र् विमोक᳓स्, ते᳓नैवै᳓नव्ँ वि᳓ मुञ्चति ।  
+एष᳓ वा᳓ अग्ने᳓र् विमोक᳓स्,  
+ते᳓नैवै᳓नव्ँ वि᳓ मुञ्चति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -518,7 +524,8 @@ that is the unyoking of Agni; verily thereby he unyokes him.
 
 "वि᳓ष्णोः शय्ँयो᳓र् अह᳓न् देवयज्य᳓या  
 यज्ञे᳓न प्रतिष्ठा᳓ङ् गमेयम्" इ᳓त्य् आह ।  
-यज्ञो᳓ वै᳓ वि᳓ष्णुर्, यज्ञ᳓ एवा᳓न्ततᳶ᳓ प्र᳓ति तिष्ठति ।  
+यज्ञो᳓ वै᳓ वि᳓ष्णुर्,  
+यज्ञ᳓ एवा᳓न्ततᳶ᳓ प्र᳓ति तिष्ठति ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -551,7 +558,8 @@ that is the unyoking of Agni; verily thereby he unyokes him.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"सो᳓मस्याह᳓न् देव-यज्य᳓या सुरे᳓ताः [18]+ रे᳓तो धिषीये᳓"त्याह ।  
+"सो᳓मस्याह᳓न् देव-यज्य᳓या  
+सुरे᳓ता [18] रे᳓तो धिषीये᳓"त्याह ।  
 सो᳓मो वै᳓ रेतोधा᳓स्, ते᳓नैव᳓ रे᳓त आत्म᳓न् धत्ते ।  
 </details>
 
@@ -589,7 +597,8 @@ verily he confers seed upon himself.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"त्व᳓ष्टुर् अह᳓न् देव-यज्य᳓या पशूनाँ᳓ रूप᳓म् पुषेयम्" इ᳓त्य् आह ।  
+"त्व᳓ष्टुर् अह᳓न् देव-यज्य᳓या  
+पशूनाँ᳓ रूप᳓म् पुषेयम्" इ᳓त्य् आह ।  
 त्व᳓ष्टा वै᳓ पशूना᳓म् मिथुना᳓नाँ रूप-कृ᳓त् ।   
 ते᳓नैव᳓ पशूनाँ᳓ रूप᳓म् आत्म᳓न् धत्ते। 
 </details>
@@ -624,10 +633,14 @@ and thereby he confers upon himself the form of cattle.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"देवा᳓नाम् प᳓त्नीर्, अग्नि᳓र् गृह᳓पतिर् यज्ञ᳓स्य मिथुन᳓म् ।  
-त᳓योर् अह᳓न् देवयज्य᳓या मिथुने᳓न प्र᳓ भूयासम्" इ᳓त्य् आह ।  
+"देवा᳓नाम् प᳓त्नीर्,  
+अग्नि᳓र् गृह᳓पतिर्  
+यज्ञ᳓स्य मिथुन᳓म् ।  
+त᳓योर् अह᳓न् देवयज्य᳓या  
+मिथुने᳓न प्र᳓ भूयासम्" इ᳓त्य् आह ।  
 
-एत᳓स्माद् वै᳓ मिथुना᳓त् प्रजा᳓पतिर् मिथुने᳓न [19] प्रा᳓जायत ।  
+एत᳓स्माद् वै᳓ मिथुना᳓त्  
+प्रजा᳓पतिर् मिथुने᳓न [19] प्रा᳓जायत ।  
 त᳓स्माद् एव᳓ य᳓जमानो मिथुने᳓न प्र᳓ जायते ।  
 </details>
 
@@ -745,8 +758,10 @@ Whatever of his foe's he may covet, the name of that he should utter; verily he 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-घृत᳓वन्तङ् कुलायि᳓नँ+++(=नीडिनं)+++ राय᳓स्पो᳓षँ सहस्रि᳓णव्ँ   
-वेदो᳓ ददातु वाजि᳓नम् इ᳓त्य् आह।
+> घृत᳓वन्तङ् कुलायि᳓नँ+++(=नीडिनं)+++ राय᳓स्-पो᳓षँ सहस्रि᳓णव्ँ   
+वेदो᳓ ददातु वाजि᳓नम् 
+
+इ᳓त्य् आह।
 प्र᳓ सह᳓स्रम् पशू᳓न् आप्नोति ।  
 </details>
 
@@ -782,7 +797,8 @@ he obtains a thousand cattle.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ᳓ऽस्य प्रजा᳓याव्ँ वाजी᳓ जायते य᳓ एवव्ँ᳓ वे᳓द ॥ [20]
+आ᳓ऽस्य प्रजा᳓याव्ँ वाजी᳓ जायते  
+य᳓ एवव्ँ᳓ वे᳓द ॥ [20]
 </details>
 
 <details><summary>Keith</summary>

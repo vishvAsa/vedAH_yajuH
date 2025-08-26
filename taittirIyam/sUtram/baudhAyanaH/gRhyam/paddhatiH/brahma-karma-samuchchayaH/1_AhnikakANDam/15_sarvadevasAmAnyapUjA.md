@@ -426,7 +426,8 @@ title = "१५ सर्वदेवसामान्यपूजा"
     > 'देवाग्रे स्थण्डिलं कुर्यात्' इत्यादि पञ्चामृतविधानं वातुलागमेऽभिहितम् ॥
     पञ्चामृतमण्डलम्  
 
-    {{< figure src="../images/panchamrita-maNDalam.jpg" title="" class="thumbnail">}}
+    ![](../images/panchamrita-maNDalam.jpg)
+{caption="" class="thumbnail"}
 
 ## मण्डपार्चनम्
 ॥ अथ मण्डपार्चनम् ॥  

@@ -3,7 +3,8 @@ title: २२ २ ध्रुव-वन्दनम्
 unicode_script: devanagari
 
 ---
-{{< figure src="/jyotiSham/images/precession_sky_chart.jpg"  class="thumbnail">}}
+![](/jyotiSham/images/precession_sky_chart.jpg)
+{class="thumbnail"}
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

@@ -77,7 +77,8 @@ With Agni's keenest flame I burn you.
 </details>
 
 ____
-{{< figure src="/devaH/AryaH/hindukaH/kalpe_svamatam/images/shrauta-yAga/upakaraNa/sruk-big-sruva-small.jpg" title="स्रुक्, स्रुवः" class="thumbnail">}}
+![](/devaH/AryaH/hindukaH/kalpe_svamatam/images/shrauta-yAga/upakaraNa/sruk-big-sruva-small.jpg)
+{caption="स्रुक्, स्रुवः" class="thumbnail"}
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -124,7 +125,8 @@ May I not brush the place of the cattle, I brush thee that art strong and overco
 </details>
 
 ____
-{{< figure src="/devaH/AryaH/hindukaH/kalpe_svamatam/images/shrauta-yAga/upakaraNa/juhU.png" title="जुहू" class="thumbnail">}}
+![](/devaH/AryaH/hindukaH/kalpe_svamatam/images/shrauta-yAga/upakaraNa/juhU.png)
+{caption="जुहू" class="thumbnail"}
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -164,7 +166,8 @@ Speech, breath (may I not brush, I brush thee that art strong and overcomest foe
 </details>
 
 ____
-{{< figure src="/devaH/AryaH/hindukaH/kalpe_svamatam/images/shrauta-yAga/upakaraNa/upabhRt.png" title="उपभृत्" class="thumbnail">}}
+![](/devaH/AryaH/hindukaH/kalpe_svamatam/images/shrauta-yAga/upakaraNa/upabhRt.png)
+{caption="उपभृत्" class="thumbnail"}
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -199,7 +202,8 @@ eye, ear, may I not brush, I brush thee that art strong and overcomest foes.
 </details>
 
 ____
-{{< figure src="/devaH/AryaH/hindukaH/kalpe_svamatam/images/shrauta-yAga/upakaraNa/dhruvA.png" title="ध्रुवा" class="thumbnail">}}
+![](/devaH/AryaH/hindukaH/kalpe_svamatam/images/shrauta-yAga/upakaraNa/dhruvA.png)
+{caption="ध्रुवा" class="thumbnail"}
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
