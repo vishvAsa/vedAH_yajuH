@@ -12,7 +12,7 @@ disablePathToLower = true
   build_url = "https://github.com/vishvAsa/vedAH_yajuH/actions/workflows/build.yml"
   env = "production"
   # disqusShortcode = "vvasuki-site"
-  math = true
+
 
 [outputs]
   home = ["HTML", "RSS", "JSON", "CSV"]
