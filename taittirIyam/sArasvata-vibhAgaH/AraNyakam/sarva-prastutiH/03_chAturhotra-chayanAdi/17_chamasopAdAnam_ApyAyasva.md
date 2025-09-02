@@ -7,16 +7,17 @@ _______
 
 चमसोपदंसने प्रायश्चित्तं - आप्यायस्वेति गायत्री ॥ 
 </details>
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/33-35_sangAhanam/ApyAyasva.md">
+<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/33-35_sangAhanam/ApyAyasva.md">
 <details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
 
-**आ प्या॑यस्व** मदिन्-तम॒  
-सोम॒ विश्वा॑भिर् ऊ॒तिभिः॑ ।  
-भवा॑ नस् स॒प्रथ॑स्तमः ॥ 
+**आ᳓ प्यायस्व** मदिन्-तम  
+सो᳓म वि᳓श्वाभिर् ऊति᳓भिः ।  
+भ᳓वा नस् सप्र᳓थस्तमः ॥ 
 
 </details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/33-35_sangAhanam/ApyAyasva.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/33-35_sangAhanam/ApyAyasva.md">
 <details open><summary><h5>आप्यायस्व ...{Loading}...</h5></summary>
 <details><summary>Keith</summary>
 

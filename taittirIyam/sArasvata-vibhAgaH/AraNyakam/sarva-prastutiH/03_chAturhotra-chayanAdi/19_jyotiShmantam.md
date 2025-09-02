@@ -7,7 +7,7 @@ _______
 
 1द्वादश ज्योतिष्मतीरुपदधाति - ज्योतिष्मतीमिति ॥
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/33-35_sangAhanam/jyotiShmantaM.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/33-35_sangAhanam/jyotiShmantaM.md">
 <details open><summary><h5>ज्योतिष्मन्तम् ...{Loading}...</h5></summary>
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -16,7 +16,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ज्योति॑ष्मतीन्त्वा सादयामि ।
+ज्यो᳓तिष्मतीन्त्वा सादयामि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -36,7 +36,7 @@ I place thee that hast light.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ज्यो॒ति॒ष्कृत॑न्त्वा सादयामि ।
+ज्योतिष्कृ᳓तन्त्वा सादयामि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -56,7 +56,7 @@ I place thee that makest light.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ज्यो॒ति॒र्विद॑न्त्वा सादयामि ।
+ज्योतिर्वि᳓दन्त्वा सादयामि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -76,7 +76,7 @@ I place thee that findest light.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भास्व॑तीन्त्वा सादयामि ।
+भा᳓स्वतीन्त्वा सादयामि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -96,7 +96,7 @@ I place thee that shinest.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ज्वल॑न्तीन्त्वा सादयामि ।
+ज्व᳓लन्तीन्त्वा सादयामि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -116,7 +116,7 @@ I place thee that burnest.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-म॒ल्मला॒भव॑न्तीन्त्वा सादयामि ।
+मल्म᳓लाभ᳓वन्तीन्त्वा सादयामि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -136,7 +136,7 @@ I place thee that flashest.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दीप्य॑मानान्त्वा सादयामि ।
+दी᳓प्यमानान्त्वा सादयामि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -156,7 +156,7 @@ I place thee that art aflame.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रोच॑मानान्त्वा सादया॒मि।
+रो᳓चमानान्त्वा सादयामि᳓।
 </details>
 
 <details><summary>Keith</summary>
@@ -176,7 +176,7 @@ I place thee that blazest.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अज॑स्रान्त्वा  सादयामि  ।
+अ᳓जस्रान्त्वा  सादयामि  ।
 </details>
 
 <details><summary>Keith</summary>
@@ -196,7 +196,7 @@ I place thee that art immortal.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-बृ॒हज्ज्यो॑तिषन्त्वा सादयामि ।
+बृह᳓ज्ज्योतिषन्त्वा सादयामि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -216,7 +216,7 @@ I place thee that hast great light.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-बो॒धय॑न्तीन्त्वा सादयामि  ।
+बोध᳓यन्तीन्त्वा सादयामि  ।
 </details>
 
 <details><summary>Keith</summary>
@@ -236,7 +236,7 @@ I place thee that awakenest.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-जाग्र॑तीन्त्वा सादयामि ॥ [35]
+जा᳓ग्रतीन्त्वा सादयामि ॥ [35]
 </details>
 
 <details><summary>Keith</summary>
