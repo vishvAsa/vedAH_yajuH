@@ -3,12 +3,23 @@ title = "१७ वैश्वानराय रथम्"
 
 +++
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वैश्वानरा᳓य र᳓थम् ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+वै॒श्वा॒न॒राय॒ रथ॑म् ।
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 वैश्वानरः᳓ प्रत्न᳓था+++(=आदित्यवत्)+++ ना᳓कम् **आ᳓रुहत्** ।  
 दिवः᳓ पृष्ठ᳓म् **भ᳓न्दमानस्**+++(=शोभमानः)+++ सुम᳓न्मभिः+++(=सुष्ठुमन्तृभिः)+++ ।  
 स᳓ पूर्वव᳓ज् **जन᳓यज्** जन्त᳓वे ध᳓नम् ।  
-समान᳓म् अज्मा **प᳓रियाति** जा᳓गृविः ।
+समान᳓म् अ᳓ज्मा+++(←~~अज्मा~~)+++ **प᳓रियाति** जा᳓गृविः ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -28,10 +39,6 @@ title = "१७ वैश्वानराय रथम्"
 
 </details>
 
-<details><summary>मूलम्</summary>
-
-वै॒श्वा॒न॒राय॒ रथ॑म् ।
-</details>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarva-prastutiH/03_chAturhotra-chayanAdi/10_pratigrahAH/devasya_tvA_savituH__pratigRhNAmi.md">
 <details open><summary><h5>दे॒वस्य॑ त्वा सवि॒तुः प्रति॑गृह्णामि ...{Loading}...</h5></summary>
 <details><summary>मूलम् (संयुक्तम् आरण्यके)</summary>
@@ -133,7 +140,7 @@ ______________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-क᳓ इद᳓ङ्क᳓स्मा अदात् ।  
+क᳓ इद᳓ङ् क᳓स्मा अदात् ।  
 का᳓मः का᳓माय ।
 </details>
 
