@@ -5661,6 +5661,12 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 
 ## 30
 
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+1उत्तम इत्याद्य् अनुष्टुप् सावित्र्या उत्सर्जने विनियुक्ता ।  
+</details>
+
+
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/30_uttame_shikhare.md">
 <details open><summary><h2>३० उत्तमे शिखरे ...{Loading}...</h2></summary>
 
