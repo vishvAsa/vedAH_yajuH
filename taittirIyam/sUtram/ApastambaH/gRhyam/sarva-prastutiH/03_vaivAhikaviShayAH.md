@@ -6,15 +6,15 @@ title = "०३ वैवाहिकविषयाः"
 
 ## ०२ १२ सर्व-ऋतवो विवाहस्य
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/02_12_sarva-Rtavo_vivAhasya.md">
-<details open><summary><h3>०२ १२ सर्व-ऋतवो विवाहस्य ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/02_12_sarva-Rtavo_vivAhasya.md">
 
 सर्वऋतवो +++(=मासाः)+++ विवाहस्य शैशिरौ मासौ +++(= माघफाल्गुनौ)+++ परिहाप्योत्तमं च नैदाघम् +++(= आषाढः)+++ १२  
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/03_vaivAhikaviShayAH/02_12_sarva-Rtavo_vivAhasya.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 12. All seasons are fit for marriage with the exception of the two months of the śiśira season, and of the last summer month.
@@ -47,26 +47,30 @@ title = "०३ वैवाहिकविषयाः"
 शिशिरस्यर्तोः यौ द्वौ मासौ माघ-फाल्गुनौ, निदाघस्य ग्रीष्मस्य यश् चोत्तमो ऽन्त्य आषाढः, तानेतांस् त्रीन् मासान् **परिहाप्य** वर्जयित्वा । अत्रोत्तमम् इति तमप्-प्रत्ययात् यस् सौरतोऽन्त्यो नैदाघः, यश् चाधिकमासतो द्वितीय आषाढः ताव् अपि पर्युदस्तौ ॥१२॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/03_vaivAhikaviShayAH/02_12_sarva-Rtavo_vivAhasya.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 सर्व-ऋतवो विवाहस्य शैशिरौ मासौ परिहाप्योत्तमं च नैदाघम्।
 
 </details>
+
 </div>
 
 ## ०२ १३ सर्वाणि पुण्योक्तानि
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/02_13_sarvANi_puNyoktAni.md">
-<details open><summary><h3>०२ १३ सर्वाणि पुण्योक्तानि ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/02_13_sarvANi_puNyoktAni.md">
 
 +++(अनेन पूर्वपक्षादिनियमाभावः।)+++ सर्वाणि पुण्योक्तानि नक्षत्राणि +++(सर्वापवादत्वात्पुण्याहविधानार्थमिदम् । तथा च रात्र्यपरपक्षयोः विवाहपिरतिषेधः ।)+++१३
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/03_vaivAhikaviShayAH/02_13_sarvANi_puNyoktAni.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 13. All Nakṣatras which are stated to be pure, (are fit for marriage);
@@ -88,26 +92,30 @@ title = "०३ वैवाहिकविषयाः"
 तत्र पुण्योक्तानि सर्वाण्यत्रोपसंहर्तव्यानि ॥१३॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/03_vaivAhikaviShayAH/02_13_sarvANi_puNyoktAni.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 सर्वाणि पुण्योक्तानि नक्षत्राणि।
 
 </details>
+
 </div>
 
 ## ०२ १४ तथा मङ्गलानि
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/02_14_tathA_mangalAni.md">
-<details open><summary><h3>०२ १४ तथा मङ्गलानि ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/02_14_tathA_mangalAni.md">
 
 तथा मङ्गलानि १४ 
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/03_vaivAhikaviShayAH/02_14_tathA_mangalAni.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 14. And all auspicious performances.
@@ -125,26 +133,30 @@ title = "०३ वैवाहिकविषयाः"
 शङ्खदुन्दुभिवीणातूणववादित्रसम्प्रवादनानि कुलस्त्रीगीतानि केशश्मश्र्वादिप्रकल्पनाहतधौताच्छिद्रविचित्रवासोधारणगन्धानुलेपनसुगन्धस्रग् धारणापदातिगमनच्छत्रध्वजादीनि शिष्टाचारप्रसिद्धानि मङ्गलानि विवाहे उपसंहर्तव्यानि ॥१४॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/03_vaivAhikaviShayAH/02_14_tathA_mangalAni.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 तथा मङ्गलानि।
 
 </details>
+
 </div>
 
 ## ०२ १५ आवृतश्चास्त्रीभ्यः प्रतीयेरन्
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/02_15_AvRtashchAstrIbhyaH_pratIyeran.md">
-<details open><summary><h3>०२ १५ आवृतश्चास्त्रीभ्यः प्रतीयेरन् ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/02_15_AvRtashchAstrIbhyaH_pratIyeran.md">
 
 +++("ब्राह्मणान् भोजयित्वाशिषोवाचयित्वे"त्येवमादीनि स्वशास्त्रप्रसिद्धानि । मङ्गलानि स्नातोऽहतवासा गन्धानुलिप्त, स्रग्वी भुक्तवानित्येवमादीनि नापितकर्माङ्कुरार्पणादीनि लोकप्रसिद्धानि ।)+++ आवृतश्च +++(=प्रसिद्धाः)+++ +आस्त्रीभ्यः प्रतीयेरन् १५  
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/03_vaivAhikaviShayAH/02_15_AvRtashchAstrIbhyaH_pratIyeran.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 15. And one should learn from women what ceremonies (are required by custom).
@@ -166,26 +178,30 @@ title = "०३ वैवाहिकविषयाः"
 न तु सर्वास्सर्वत्र समुच्चिताः ॥१५॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/03_vaivAhikaviShayAH/02_15_AvRtashchAstrIbhyaH_pratIyeran.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 आवृतश्चास्त्रीभ्यः प्रतीयेरन्।
 
 </details>
+
 </div>
 
 ## ०२ १६ इन्वकाभिः प्रसृज्यन्ते
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/02_16_invakAbhiH_prasRjyante.md">
-<details open><summary><h3>०२ १६ इन्वकाभिः प्रसृज्यन्ते ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/02_16_invakAbhiH_prasRjyante.md">
 
 इन्वकाभिः +++(=मृगशिरसि)+++ प्रसृज्यन्ते +++(कन्यार्थं प्रेष्यन्ते)+++ ते वराः प्रतिनन्दिताः १६  
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/03_vaivAhikaviShayAH/02_16_invakAbhiH_prasRjyante.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 16. [^8]  Under the Invakās (Nakṣatra), (the wooers who go to the girl's father) are sent out: such wooers are welcome.
@@ -213,26 +229,30 @@ ________________________
 इति श्रीसुदर्शनाचार्यकृते गृह्यतात्पर्यदर्शने द्वितीयः खण्डः ॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/03_vaivAhikaviShayAH/02_16_invakAbhiH_prasRjyante.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 इन्वकाभिः प्रसृज्यन्ते ते वराः प्रतिनन्दिताः।
 
 </details>
+
 </div>
 
 ## ०३ ०१ मघाभिर्गावो गृह्यन्ते
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_01_maghAbhirgAvo_gRhyante.md">
-<details open><summary><h3>०३ ०१ मघाभिर्गावो गृह्यन्ते ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_01_maghAbhirgAvo_gRhyante.md">
 
 मघाभिर्गावो गृह्यन्ते +++(दानार्थम्)+++१  
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/03_vaivAhikaviShayAH/03_01_maghAbhirgAvo_gRhyante.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 1. [^1]  Under the Maghās (Nakṣatra) cows are provided;
@@ -252,25 +272,29 @@ ________________________
 एतदुक्तं भवति– आर्ष विवाहं मघास्वेव कुर्यात्, न ब्राह्मादिवत् नक्षत्रान्तरेऽपीति ॥१॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/03_vaivAhikaviShayAH/03_01_maghAbhirgAvo_gRhyante.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 मघाभिर्गावो गृह्यन्ते।
 </details>
+
 </div>
 
 ## ०३ ०२ फल्गुनीभ्यां व्यूह्यते
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_02_phalgunIbhyAM_vyUhyate.md">
-<details open><summary><h3>०३ ०२ फल्गुनीभ्यां व्यूह्यते ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_02_phalgunIbhyAM_vyUhyate.md">
 
 फल्गुनीभ्यां व्यूह्यते +++(= सेनाया इति केचित्, विवाहविशेषेषु कन्याया इत्यपरे)+++ २
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/03_vaivAhikaviShayAH/03_02_phalgunIbhyAM_vyUhyate.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 2. Under the Phalgunī (Nakṣatra) marriage is celebrated.
@@ -290,26 +314,30 @@ ________________________
 केचित्– "इन्वकाभिर्" इत्यादि "फल्गुनीभ्यां व्यूह्यते" इत्यन्तमुत्तरत्रेन्वकाशब्दस्य व्याख्यानात् शाखान्तरीया गाथेति कल्पयन्तः, मघासु गवां क्रयादिना स्वीकारः, सेनायाश्च युद्धे व्यूहः, अविशेषात् पूर्वयोरुत्तरयोर्वा फल्गुन्योरिति प्रकृतानुपयोगितया व्याचक्षते ॥२॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/03_vaivAhikaviShayAH/03_02_phalgunIbhyAM_vyUhyate.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 फल्गुनीभ्यां व्यूह्यते।
 
 </details>
+
 </div>
 
 ## ०३ ०३ याङ् कामयेत
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_03_yA~N_kAmayeta.md">
-<details open><summary><h3>०३ ०३ याङ् कामयेत ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_03_yA~N_kAmayeta.md">
 
 यां कामयेत दुहितरं प्रिया स्यादिति, तां निष्ट्यायां दद्यात् प्रियैव भवति, नैव तु पुनरागच्छतीति ब्राह्मणवेक्षो विधिः ३
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/03_vaivAhikaviShayAH/03_03_yA~N_kAmayeta.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 3. [^2]  A daughter whom he wishes to be dear (to her husband), a father should give in marriage under the Niṣṭyā (Nakṣatra); thus she becomes dear (to her husband); she does not return (to her father's) house: this is an observance based on a Brāhmaṇa.
@@ -336,26 +364,30 @@ ________________________
 अत्रापि पूर्ववत् स्मार्तपुण्योक्तनक्षत्रैर्विकल्पः ॥३॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/03_vaivAhikaviShayAH/03_03_yA~N_kAmayeta.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 यां कामयेत दुहितरं प्रिया स्यादिति तां निष्ट्यायां दद्यात् प्रियैव भवति नेव तु पुनरागच्छतीति ब्राह्मणावेक्षो विधिः।
 
 </details>
+
 </div>
 
 ## ०३ ०४ इन्वकाशब्दो मृगशिरसि
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_04_invakAshabdo_mRgashirasi.md">
-<details open><summary><h3>०३ ०४ इन्वकाशब्दो मृगशिरसि ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_04_invakAshabdo_mRgashirasi.md">
 
 इन्वकाशब्दो मृगशिरसि ४
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/03_vaivAhikaviShayAH/03_04_invakAshabdo_mRgashirasi.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 4. [^3]  The word Invakās means Mṛgaśiras; the word Niṣṭyā means Svāti.
@@ -373,26 +405,30 @@ ________________________
 +++(सम्पादकटिप्पनी- इदं सूत्रम् अग्रिमे व्याख्यातम्।)+++
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/03_vaivAhikaviShayAH/03_04_invakAshabdo_mRgashirasi.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 इन्वकाशब्दो मृगशिरसि।
 
 </details>
+
 </div>
 
 ## ०३ ०५ निष्ट्याशब्दस्स्वातौ छन्दसि
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_05_niShTyAshabdassvAtau_Chandasi.md">
-<details open><summary><h3>०३ ०५ निष्ट्याशब्दस्स्वातौ छन्दसि ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_05_niShTyAshabdassvAtau_Chandasi.md">
 
 निष्ट्याशब्दस्स्वातौ।
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/03_vaivAhikaviShayAH/03_05_niShTyAshabdassvAtau_Chandasi.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 4. the word Niṣṭyā means Svāti.
@@ -408,26 +444,30 @@ ________________________
 एते सूत्रे व्यक्तार्थे ॥४-५॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/03_vaivAhikaviShayAH/03_05_niShTyAshabdassvAtau_Chandasi.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 निष्ट्याशब्दस्स्वातौ।
 
 </details>
+
 </div>
 
 ## ०३ ०६ विवाहे गौः
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_06_vivAhe_gauH.md">
-<details open><summary><h3>०३ ०६ विवाहे गौः ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_06_vivAhe_gauH.md">
 
 विवाहे +++(=विवाहस्थाने)+++ गौः ६
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/03_vaivAhikaviShayAH/03_06_vivAhe_gauH.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 5. [^4]  At the wedding one cow;
@@ -445,25 +485,29 @@ ________________________
 विवाहस्थाने गौस्सन्निधाप्या ॥६॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/03_vaivAhikaviShayAH/03_06_vivAhe_gauH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 विवाहे गौः।
 </details>
+
 </div>
 
 ## ०३ ०७ गृहेषु गौः
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_07_gRheShu_gauH.md">
-<details open><summary><h3>०३ ०७ गृहेषु गौः ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_07_gRheShu_gauH.md">
 
 गृहेषु +++(=शालायां)+++ गौः ७  
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/03_vaivAhikaviShayAH/03_07_gRheShu_gauH.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 6. In the house one cow:
@@ -480,25 +524,29 @@ ________________________
 तथा गृहेषु शालायां अन्या गौस्सन्निधाप्या ॥७॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/03_vaivAhikaviShayAH/03_07_gRheShu_gauH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 गृहेषु गौः।
 </details>
+
 </div>
 
 ## ०३ ०८ तया वरमतिथिवदर्हयेत्
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_08_tayA_varamatithivadarhayet.md">
-<details open><summary><h3>०३ ०८ तया वरमतिथिवदर्हयेत् ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_08_tayA_varamatithivadarhayet.md">
 
 तया वरमतिथिवदर्हयेत् ८
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/03_vaivAhikaviShayAH/03_08_tayA_varamatithivadarhayet.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 7. With the (first cow) he should prepare an Argha reception for the bridegroom as for a guest,
@@ -522,26 +570,30 @@ ________________________
 **तया** हविरुत्पत्तिद्वारेणोत्सर्गद्वारेण वा अङ्गभूतया युक्तेन मधुपर्केण वरमेवदाध्यायिनमपि पूजयेदित्यर्थः ॥८॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/03_vaivAhikaviShayAH/03_08_tayA_varamatithivadarhayet.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 तया वरमतिथिवदर्हयेत्।
 
 </details>
+
 </div>
 
 ## ०३ ०९ योऽस्यापचितस्तमितरया
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_09_yo-syApachitastamitarayA.md">
-<details open><summary><h3>०३ ०९ योऽस्यापचितस्तमितरया ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_09_yo-syApachitastamitarayA.md">
 
 योऽस्यापचितस्तमितरया ९  
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/03_vaivAhikaviShayAH/03_09_yo-syApachitastamitarayA.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 8. With the other (the bridegroom [?] should do so) for a person whom he reveres.
@@ -569,25 +621,29 @@ ________________________
 "सर्वेभ्यो वैकामविभवत्वात्" इति कल्पान्तरे सर्वेभ्यः ऋत्विग्भ्यो विकल्पेन गवैकत्वदर्शनादिहापि वरापचितयोर्विकल्पेन प्रसक्तं गवैकत्वं माभूदिति प्रतिषेधार्थं च ॥९॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/03_vaivAhikaviShayAH/03_09_yo-syApachitastamitarayA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 योऽस्यापचितस्तमितरया।
 </details>
+
 </div>
 
 ## ०३ १० एतावद्गोरालम्भस्थानमतिथिः
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_10_etAvadgorAlambhasthAnamatithiH.md">
-<details open><summary><h3>०३ १० एतावद्गोरालम्भस्थानमतिथिः ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_10_etAvadgorAlambhasthAnamatithiH.md">
 
 एतावद्गोरालम्भनम् - अतिथिः पितरो विवाहश्च १०  
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/03_vaivAhikaviShayAH/03_10_etAvadgorAlambhasthAnamatithiH.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 9. These are the occasions for killing a cow: (the arrival of) a guest, (the Aṣṭakā sacrifice offered to) the Fathers, and marriage.
@@ -615,26 +671,30 @@ ________________________
 एवं वदन्नस्माकमपि कल्पान्तरोक्तानपि विशेषान् विकल्पेनानुजानातीति ॥१०॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/03_vaivAhikaviShayAH/03_10_etAvadgorAlambhasthAnamatithiH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 एतावद्गोरालम्भस्थानमतिथिः पितरो विवाहश्च।
 
 </details>
+
 </div>
 
 ## ०३ ११ सुप्तां रुन्दन्तीम्
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_11_suptAM_rundantIm.md">
-<details open><summary><h3>०३ ११ सुप्तां रुन्दन्तीम् ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_11_suptAM_rundantIm.md">
 
 +++(वरे प्राप्ते)+++ सुप्तां रुन्दन्तीं निष्क्रान्तां वरणे परिवर्जयेत् ११  
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/03_vaivAhikaviShayAH/03_11_suptAM_rundantIm.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 10. [^5]  Let (the wooer) avoid in his wooing a girl that sleeps, or cries, or has left home.
@@ -659,26 +719,30 @@ ________________________
 या वरेषु वरणार्थं प्राप्तेषु स्वपिति, या रोदिति, या वा गृहान्निष्क्रामति, ता एता **वरणे परिवर्जयेत्** अत्यन्तं वर्जयेत्, ऋद्धौ ज्योतिषादिभिर्ज्ञातायामपि ; यतस्स्वापादीनामत्रानृद्धिलिङ्गत्वं प्रबलत्वं च विवक्षितम् ॥११॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/03_vaivAhikaviShayAH/03_11_suptAM_rundantIm.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 सुप्तां रुन्दन्तीं निष्क्रान्तां वरणे परिवर्जयेत्।
 
 </details>
+
 </div>
 
 ## ०३ १२ दत्ताङ् गुप्ताम्
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_12_dattA~N_guptAm.md">
-<details open><summary><h3>०३ १२ दत्ताङ् गुप्ताम् ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_12_dattA~N_guptAm.md">
 
 दत्तां गुप्तां +++(=अदर्शिता)+++ द्योताम् +++(=पिङ्गाक्षी, बभ्रुकेशी वा, विषमदृष्टिर्वा)+++ ऋषभां +++(=ऋषभस्येव शरीरं गतिः शीलं वा यस्यास्सा)+++ शरभां +++(=  शीर्णदीप्तिः, सर्वनीललोम्नी वा, अरूपा वा, केचित्दर्शनीया)+++ विनतां +++(=कुब्जां)+++ विकटां +++(विस्तीर्ण-जङ्घां)+++ मुण्डां मण्डूषिकां +++(=वामनाङ्गा, दग्धाङ्गा वा ।)+++ साङ्कारिकां रातां +++(=रतिशीलां)+++ पालीं +++(=वत्सादीनां पालयित्रीं)+++ मित्रां +++(=बहुमित्रां)+++ स्वनुजां +++(=केचित्वरजन्मसंवत्सर एव पश्चाज्जातेति।)+++ वर्षकारीं +++(=स्वेदशीलामिति केचित्। वराद्वर्षेणाधिका ।)+++ च वर्जयेत् १२  
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/03_vaivAhikaviShayAH/03_12_dattA~N_guptAm.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 11. [^6]  And let him avoid one who has been given (to another), and who is guarded (by her relations), and one who looks wicked (?), or who is a most excellent one (?), or (who is like the fabulous deer) śarabha (?), a hunch-back, a girl of monstrous appearance, a bald-headed girl, a girl whose skin is like a frog's (?), a girl who has gone over to another family (?), a girl given to sensual pleasures (?), or a herdess, or one who has too many friends, or who has a fine younger sister, or one whose age is too near to that of the bridegroom (?).
@@ -738,26 +802,30 @@ ________________________
 **परिवर्जयेदि**त्यनुशङ्गे सत्यपि वर्जयेदिति पुनर्वचनं ब्राह्मादिषु सर्वेषु विवाहेष्वासां प्रतिषेधार्थम्; सति गत्यन्तरे ऋद्धावपि परीक्षितायां दत्तेततरासामनिषेधार्थं वा ॥१२॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/03_vaivAhikaviShayAH/03_12_dattA~N_guptAm.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 दत्तां गुप्तां द्योतामृषभां शरभां विनतां विकटां मुण्डां मण्डूषिकां साङ्कारिकां रातां पालीं मित्रां स्वनुजां वर्षकारीं च वर्जयेत्।
 
 </details>
+
 </div>
 
 ## ०३ १३ नक्षत्रनामा नदीनामा
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_13_naxatranAmA_nadInAmA.md">
-<details open><summary><h3>०३ १३ नक्षत्रनामा नदीनामा ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_13_naxatranAmA_nadInAmA.md">
 
 नक्षत्र-नामा नदी-नामा वृक्ष-नामा च गर्हिताः १३
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/03_vaivAhikaviShayAH/03_13_naxatranAmA_nadInAmA.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 12. [^7]  Girls who have the name of a Nakṣatra, or of a river, or of a tree, are objectionable.
@@ -775,25 +843,29 @@ ________________________
 +++(सम्पादकटिप्पनी- इदं सूत्रम् अग्रिमे व्याख्यातम् ।)+++
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/03_vaivAhikaviShayAH/03_13_naxatranAmA_nadInAmA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 नक्षत्रनामा नदीनामा वृक्षनामाच गर्हिताः।
 </details>
+
 </div>
 
 ## ०३ १४ सर्वाश्च रेफलकारोपान्ता
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_14_sarvAshcha_rephalakAropAntA.md">
-<details open><summary><h3>०३ १४ सर्वाश्च रेफलकारोपान्ता ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_14_sarvAshcha_rephalakAropAntA.md">
 
 रेफ-लकारोपान्ता +++(=गौरी शालीत्याद्या)+++ वरणे परिवर्जयेत् १४
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/03_vaivAhikaviShayAH/03_14_sarvAshcha_rephalakAropAntA.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 13. And all girls in whose names the last letter but one is r or l, one should avoid in wooing.
@@ -825,25 +897,29 @@ ________________________
 केचित्– नक्षत्रनामेत्यादिकेयं शास्त्रान्तरगीता गाथा, तस्याः पादपूरणानि "सर्वा वरणे परिवर्जयेद्" इति पदानीति परिकल्पयन्तो, यस्मान्नक्षत्रादिनामा रेफलकारोपान्ताश्च गर्हिताः तस्मात्तास्सर्वो वरणे परिवर्जयेदिति व्याचक्षते ॥१४॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/03_vaivAhikaviShayAH/03_14_sarvAshcha_rephalakAropAntA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 सर्वाश्च रेफलकारोपान्ता वरणे परिवर्जयेत्।
 </details>
+
 </div>
 
 ## ०३ १५ शक्तिविषये द्रव्याणि
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_15_shaktiviShaye_dravyANi.md">
-<details open><summary><h3>०३ १५ शक्तिविषये द्रव्याणि ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_15_shaktiviShaye_dravyANi.md">
 
 कन्या-परीक्षा - शक्तिविषये द्रव्याणि प्रतिच्छन्नान्युपनिधाय ब्रूयादुपस्पृशेति १५  
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/03_vaivAhikaviShayAH/03_15_shaktiviShaye_dravyANi.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 14. If possible, he should place (the following) objects hidden before the girl, and should say to her, 'Touch (one of these things).'
@@ -859,25 +935,29 @@ ________________________
 +++(सम्पादकटिप्पनी- इदं सूत्रम् अग्रिमे व्याख्यातम् ।)+++
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/03_vaivAhikaviShayAH/03_15_shaktiviShaye_dravyANi.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 शक्तिविषये द्रव्याणि प्रतिच्छन्नान्युपनिधाय ब्रूयादुपस्पृशेति।
 </details>
+
 </div>
 
 ## ०३ १६ नाना बीजानि
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_16_nAnA_bIjAni.md">
-<details open><summary><h3>०३ १६ नाना बीजानि ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_16_nAnA_bIjAni.md">
 
 नाना बीजानि संसृष्टानि, वेद्याः पांसून्, क्षेत्राल्लोष्टं, शकृच्, छ्मशानलोष्टमिति १६ 
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/03_vaivAhikaviShayAH/03_16_nAnA_bIjAni.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 15. (The objects are), different kinds of seeds mixed together, loose earth from (the kind of sacrificial altar called) vedi, an earth-clod from a field, cow-dung, and an earth-clod from a cemetery.
@@ -911,26 +991,30 @@ ________________________
 अविशिष्टे प्रसिद्धे ॥१६॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/03_vaivAhikaviShayAH/03_16_nAnA_bIjAni.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 नाना बीजानि संसृष्टानि वेद्याः पाँसून् क्षेत्राल्लोष्टँ शकृच्छ्मशानलोष्टमिति।
 
 </details>
+
 </div>
 
 ## ०३ १७ पूर्वेषामुपस्पर्शने
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_17_pUrveShAmupasparshane.md">
-<details open><summary><h3>०३ १७ पूर्वेषामुपस्पर्शने ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_17_pUrveShAmupasparshane.md">
 
 पूर्वेषामुपस्पर्शने यथालिङ्गमृद्धिः १७
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/03_vaivAhikaviShayAH/03_17_pUrveShAmupasparshane.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 16. [^8]  If she touches one of the former (objects, this portends) prosperity as characterized (by the nature of what she has touched).
@@ -948,25 +1032,29 @@ ________________________
 +++(सम्पादकटिप्पनी- इदं सूत्रम् अग्रिमे व्याख्यातम् ।)+++
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/03_vaivAhikaviShayAH/03_17_pUrveShAmupasparshane.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 पूर्वेषामुपस्पर्शने यथालिङ्गमृद्धिः।
 </details>
+
 </div>
 
 ## ०३ १८ उत्तमम् परिचक्षते
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_18_uttamam_parichaxate.md">
-<details open><summary><h3>०३ १८ उत्तमम् परिचक्षते ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_18_uttamam_parichaxate.md">
 
 उत्तमं परिचक्षते १८
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/03_vaivAhikaviShayAH/03_18_uttamam_parichaxate.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 17. The last is regarded as objectionable.
@@ -988,26 +1076,30 @@ ________________________
 **उत्तमं** श्मशानलोष्टं **परिचक्षते** गर्हन्ते शिष्टाः, जायापत्योरन्यतरस्य वा मरणलिङ्गत्वादिति ॥१८॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/03_vaivAhikaviShayAH/03_18_uttamam_parichaxate.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 उत्तमं परिचक्षते।
 
 </details>
+
 </div>
 
 ## ०३ १९ बन्धुशीललक्षणसम्पन्नामरोगामुपयच्छेत 
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_19_bandhushIlalaxaNasampannAmarogAmupayachCheta.md">
-<details open><summary><h3>०३ १९ बन्धुशीललक्षणसम्पन्नामरोगामुपयच्छेत  ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_19_bandhushIlalaxaNasampannAmarogAmupayachCheta.md">
 
 बन्धुशीललक्षणसम्पन्नामरोगामुपयच्छेत १९ 
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/03_vaivAhikaviShayAH/03_19_bandhushIlalaxaNasampannAmarogAmupayachCheta.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 18. Let him marry a girl of good family and character, with auspicious characteristics, and of good health.
@@ -1037,26 +1129,30 @@ ________________________
 उपयच्छेत उद्वहेत् ॥१९॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/03_vaivAhikaviShayAH/03_19_bandhushIlalaxaNasampannAmarogAmupayachCheta.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 बन्धुशीललक्षणसम्पन्नामरोगामुपयच्छेत ।
 
 </details>
+
 </div>
 
 ## ०३ २० बन्धुशीललक्षणसम्पन्नश्रुतवानरोग
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_20_bandhushIlalaxaNasampannashrutavAnaroga.md">
-<details open><summary><h3>०३ २० बन्धुशीललक्षणसम्पन्नश्रुतवानरोग ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_20_bandhushIlalaxaNasampannashrutavAnaroga.md">
 
 (वर-चयनम् -) बन्धुशील-लक्षण-सम्पन्नश् श्रुतवान् अरोग इति वरसम्पत् २०
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/03_vaivAhikaviShayAH/03_20_bandhushIlalaxaNasampannashrutavAnaroga.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 19. Good family, a good character, auspicious characteristics, learning, and good health: these are the accomplishments of a bridegroom.
@@ -1083,26 +1179,30 @@ ________________________
 एवङ्गुणाय वराय कन्या देयेत्यर्थः ॥२०॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/03_vaivAhikaviShayAH/03_20_bandhushIlalaxaNasampannashrutavAnaroga.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 बन्धुशीललक्षणसम्पन्नश्रुतवानरोग इति वरसम्पत् ।
 
 </details>
+
 </div>
 
 ## ०३ २१ यस्याम्
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_21_yasyAm.md">
-<details open><summary><h3>०३ २१ यस्याम् ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/03_vaivAhikaviShayAH/03_21_yasyAm.md">
 
 यस्यां मनश्-चक्षुषोर् निबन्धस् तस्याम् ऋद्धिर् नेतरद् आद्रियेतेत्य् एके २१
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/03_vaivAhikaviShayAH/03_21_yasyAm.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 20. A wife who is pleasing to his mind and his eyes, will bring happiness to him; let him pay no attention to the other things: such is the opinion of some.
@@ -1145,11 +1245,15 @@ ________________________
 समाप्तश्च प्रथमः पटलः
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/03_vaivAhikaviShayAH/03_21_yasyAm.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 यस्यां मनश्चक्षुषोर्निबन्धस्तस्यामृद्धिर्नेतरदाद्रियेतेत्येके ।
 
 </details>
+
 </div>

@@ -6,15 +6,15 @@ title = "२२ हेमन्तप्रत्यवरोहणम्"
 
 ## १९ ०८ हेमन्तप्रत्यवरोहणम्
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/22_hemantapratyavarohaNam/19_08_hemantapratyavarohaNam.md">
-<details open><summary><h3>१९ ०८ हेमन्तप्रत्यवरोहणम् ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/22_hemantapratyavarohaNam/19_08_hemantapratyavarohaNam.md">
 
 हेमन्तप्रत्यवरोहणम् +++(खट्वायाः)+++८  
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/22_hemantapratyavarohaNam/19_08_hemantapratyavarohaNam.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 8. [^1]  (Now follows) the 'redescent' in the winter.
@@ -32,28 +32,29 @@ title = "२२ हेमन्तप्रत्यवरोहणम्"
 +++(सम्पादकटिप्पनी - सूत्रमिदमग्रिमे व्याख्यातम् ।)+++
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/22_hemantapratyavarohaNam/19_08_hemantapratyavarohaNam.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 हेमन्तप्रत्यवरोहणम्।
 
 </details>
+
 </div>
 
 ## १९ ०९ उत्तरेण यजुषा
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/22_hemantapratyavarohaNam/19_09_uttareNa_yajuShA.md">
-<details open><summary><h3>१९ ०९ उत्तरेण यजुषा ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/22_hemantapratyavarohaNam/19_09_uttareNa_yajuShA.md">
 
 उत्तरेण यजुषा +++("प्रत्यवरूढो नो हेमन्तः"इत्यनेन)+++ प्रत्यवरुह्य  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/02_pratyavarUDho_no.md">
-<details open><summary><h5>०२ प्रत्यवरूढो नो ...{Loading}...</h5></summary>
 
 प्र॒त्यव॑रूढो नो हेम॒न्तः ।  
 
-</details>
 </div>
 
 #### संवेशनमन्त्राः  
@@ -61,7 +62,6 @@ title = "२२ हेमन्तप्रत्यवरोहणम्"
 
 +++(नवस्वस्तरे संविशन् )+++  
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/03-07_pratixatre_pratitiShThAmi.md">
-<details open><summary><h5>०३-०७ प्रतिक्षत्रे प्रतितिष्ठामि ...{Loading}...</h5></summary>
 
 प्रति॑ क्ष॒त्रे, प्रति॑तिष्ठामि रा॒ष्ट्रे ।  
 प्रत्य् अश्वे॑षु॒, प्रति॑तिष्ठामि॒ गोषु॑ ।  
@@ -69,12 +69,13 @@ title = "२२ हेमन्तप्रत्यवरोहणम्"
 इ॒ह +++(स्वस्तरे)+++ धृति॑र्, इ॒ह विधृ॑तिः ।  
 इ॒ह रन्ति॑र्, इ॒ह रम॑तिः ।  
 
-</details>
 </div>
-</details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/22_hemantapratyavarohaNam/19_09_uttareNa_yajuShA.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 9. With the next Yajus (II, 18, 2) they 'redescend' (or take as their sleeping-place a layer of straw instead of the high bedsteads which they have used before). With the next Yajus formulas (II, 18, 3-7) they lie down on a new layer (of straw) on their right sides,
@@ -105,26 +106,30 @@ title = "२२ हेमन्तप्रत्यवरोहणम्"
 दक्षिणानि पार्श्वान्यधः कृत्वा प्रक्छिरसस् **संविशन्ति** ॥९॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/22_hemantapratyavarohaNam/19_09_uttareNa_yajuShA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 उत्तरेण यजुषा प्रत्यवरुह्योत्तरैर्दक्षिणैः पार्श्वैर्नवस्वस्तरे संविशन्ति ।
 
 </details>
+
 </div>
 
 ## १९ १० दक्षिणतः पितोत्तरा
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/22_hemantapratyavarohaNam/19_10_daxiNataH_pitottarA.md">
-<details open><summary><h3>१९ १० दक्षिणतः पितोत्तरा ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/22_hemantapratyavarohaNam/19_10_daxiNataH_pitottarA.md">
 
 दक्षिणतः पितोत्तरा मातैवम् अवशिष्टानां ज्येष्ठो ज्येष्ठो ऽनन्तरः १०  
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/22_hemantapratyavarohaNam/19_10_daxiNataH_pitottarA.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 10. The father to the south, the mother to the north (of him), and so the others, one after the other from the eldest to the youngest.
@@ -155,37 +160,39 @@ title = "२२ हेमन्तप्रत्यवरोहणम्"
 केचित्—सर्वज्येष्ठः पितुर्दक्षिणस्तदनन्तरज्येष्ठो मातुरुत्तर इत्यादीति ॥१०॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/22_hemantapratyavarohaNam/19_10_daxiNataH_pitottarA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 दक्षिणतः पितोत्तरा मातैवमवशिष्टानां ज्येष्ठो ज्येष्ठोऽनन्तरः ।
 
 </details>
+
 </div>
 
 ## १९ ११ सँहायोत्तराभ्याम्
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/22_hemantapratyavarohaNam/19_11_sa.NhAyottarAbhyAm.md">
-<details open><summary><h3>१९ ११ सँहायोत्तराभ्याम् ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/22_hemantapratyavarohaNam/19_11_sa.NhAyottarAbhyAm.md">
 
 +++(किञ्चित्सुप्त्वा)+++ सं-हाय  
 उत्तराभ्यां +++("स्योना पृथिवि" "बडित्थे"त्येताभ्यां)+++ पृथिवीमभिमृशन्ति ११  
 <div class="js_include bg-light-yellow" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/08_syonA_pRthivi.md">
-<details open><summary><h5>०८ स्योना पृथिवि ...{Loading}...</h5></summary>
+
+##### ०८ स्योना पृथिवि …{Loading}…
+
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/022/15_syonA_pRthivi.md">
-<details open><summary><h7>१५ स्योना पृथिवि ...{Loading}...</h7></summary>
 
 स्योना᳓+++(=सुखरूपा)+++ पृथिवि भव+  
 अनृक्षरा᳓+++(=कण्टकादिरहिता)+++ निवे᳓शनी ।  
 य᳓च्छा नश् श᳓र्म सप्र᳓थाः+++(=सकीर्तिः)+++ ।
 
-</details>
 </div>
-</details>
 </div>
+
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/09_baDitthA_parvatAnAnkhidrambibharShi.md">
-<details open><summary><h5>०९ बडित्था पर्वतानाङ्खिद्रम्बिभर्षि ...{Loading}...</h5></summary>
 
 बड् इ॒त्था+++(त्थं)+++ पर्व॑तानाङ्+++(→मेघानाम्)+++  
 खि॒द्रम्+++(=छिद्रं →छेदनम्)+++ बि॑भर्षि पृथिवि ।  
@@ -193,12 +200,13 @@ title = "२२ हेमन्तप्रत्यवरोहणम्"
 म॒ह्ना+++(=महिम्ना)+++ +++(देवादीन्)+++ जि॒नोषि॑+++(=तर्पयसि)+++ म॒हि॒नि॒+++(=महति)+++ ।+++(र४)+++  
 +++(अत्र देवप्रीत्या वृष्टिरिति चक्रम् उच्यते।)+++
 
-</details>
 </div>
-</details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/22_hemantapratyavarohaNam/19_11_sa.NhAyottarAbhyAm.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 11. After he has arisen, he touches the earth with the next two (verses, II, 18, 8. 9).
@@ -216,26 +224,30 @@ title = "२२ हेमन्तप्रत्यवरोहणम्"
 अत्र च मन्त्रोच्चारणयोग्यानामेव, न त्वमन्त्रवतामपि वाचनम् ॥११॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/22_hemantapratyavarohaNam/19_11_sa.NhAyottarAbhyAm.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 सँहायोत्तराभ्यां पृथिवीमभिमृशन्ति ।
 
 </details>
+
 </div>
 
 ## १९ १२ एवं संवेशनादि
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/22_hemantapratyavarohaNam/19_12_evaM_saMveshanAdi.md">
-<details open><summary><h3>१९ १२ एवं संवेशनादि ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/22_hemantapratyavarohaNam/19_12_evaM_saMveshanAdi.md">
 
 एवं संवेशनादि त्रिः १२  
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/22_hemantapratyavarohaNam/19_12_evaM_saMveshanAdi.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 12. In the same way the lying down, &c., is repeated thrice.
@@ -262,11 +274,15 @@ title = "२२ हेमन्तप्रत्यवरोहणम्"
 तथा शास्त्रान्तरादेव गवां शान्त्यर्थः पुत्रादिकामार्थश्च प्रयोगः प्रत्येतव्य इति ।
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/22_hemantapratyavarohaNam/19_12_evaM_saMveshanAdi.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 एवं संवेशनादि त्रिः ।
 
 </details>
+
 </div>

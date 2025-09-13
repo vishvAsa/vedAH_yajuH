@@ -5,7 +5,9 @@ title = "०९ निमन्त्रितैर् जपाः"
 ## १. दोग्ध्री जपः -
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/7/5/18">
-<details open><summary><h5>१८ ...{Loading}...</h5></summary>
+
+#####  …{Loading}…
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1अथ ब्रह्मवर्चसं उपजुहोति - आ ब्रह्मन्नित्यादि ॥ 
@@ -107,7 +109,6 @@ title = "०९ निमन्त्रितैर् जपाः"
 
 इति भट्टभास्करमिश्रविरचिते यजुर्वेदभाष्ये सप्तमे काण्डे पञ्चमे प्रश्ने अष्टादशोनुवाकः ॥
 
-</details>
 </div>  
 
 ## २. नियोगानन्तरं निषङ्गिणी
@@ -117,7 +118,9 @@ title = "०९ निमन्त्रितैर् जपाः"
 [[105]]
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/4/5_rudra-homa-mantrAH/03_namaH_sahamAnAya/">
-<details open><summary><h5>०३ नमः॒ सह॑मानाय ...{Loading}...</h5></summary>
+
+#####  …{Loading}…
+
 <details><summary>विश्वास-टिप्पनी</summary>
 
 निषङ्गिणी। 
@@ -433,10 +436,13 @@ title = "०९ निमन्त्रितैर् जपाः"
 
 नमो॒ अश्‍वे॒भ्योऽश्‍वपतिभ्यश्‍च वो॒ नमः॑ [ २ ] ।।
 </details>
-</details>
+
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/4/5_rudra-homa-mantrAH/07_namo_dundubhyAya">
-<details open><summary><h5>०७ नमो॑ दुन्दु॒भ्या॑य ...{Loading}...</h5></summary>
+
+#####  …{Loading}…
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 अग्निर्ऋषिः
@@ -727,7 +733,7 @@ title = "०९ निमन्त्रितैर् जपाः"
 
 इति श्रीमत्सायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे कृष्णयजुर्वेदीयतैत्तिरीयसंहिताभाष्ये चतुर्थकाण्डे पञ्चमप्रपाठके सप्तमोऽनुवाकः॥  ७ ॥
 </details>
-</details>
+
 </div>  
 
 ## ३. परिवेषणकाले ब्रह्मोद्यम्
@@ -739,7 +745,9 @@ title = "०९ निमन्त्रितैर् जपाः"
     हुतशिष्टान्नातिरिक्तवस्तुपरिवेषणे इत्यर्थः
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/7/4/18_brahmodyam/">
-<details open><summary><h5>१८ ब्रह्मोद्यम् ...{Loading}...</h5></summary>
+
+#####  …{Loading}…
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 १-४ अनुष्टुप्
@@ -899,5 +907,4 @@ title = "०९ निमन्त्रितैर् जपाः"
 
 इति सप्तमे चतुर्थे अष्टादशोनुवाकः ॥  
 
-</details>
 </div>

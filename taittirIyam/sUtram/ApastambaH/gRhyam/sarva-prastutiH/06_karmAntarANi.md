@@ -6,15 +6,15 @@ title = "०६ कर्मान्तराणि"
 
 ## ०९ ०२ अर्थप्राध्वस्य परिक्षवे
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/06_karmAntarANi/09_02_arthaprAdhvasya_parixave.md">
-<details open><summary><h3>०९ ०२ अर्थप्राध्वस्य परिक्षवे ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/06_karmAntarANi/09_02_arthaprAdhvasya_parixave.md">
 
 अर्थप्राध्वस्य +++(अर्थाय प्रस्थितस्य)+++ परिक्षवे परिकासने चाप उपस्पृश्योत्तरे +++(अनुहवं परिहवं)+++ यथालिङ्गं +++(अनुहवे = अन्वाह्वाने, परिहवे, दुःस्वप्ने … ऽपीति हरदत्तः)+++ जपेत् ॥  
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/06_karmAntarANi/09_02_arthaprAdhvasya_parixave.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 2. If he sneezes or coughs while going about on business, he should touch water and should murmur the two following (verses; M. I, 13, 5. 6) according to the characteristics (which they contain).
@@ -72,26 +72,30 @@ title = "०६ कर्मान्तराणि"
 केचित्– यथालिङ्गमिति न केवलं परिक्षवे परिकासने चानयोर्जपः, अन्येषु च मन्त्रलिङ्गप्रतीतेष्वनुहवादिषु दुर्निमित्तेष्वपीति ॥२॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/06_karmAntarANi/09_02_arthaprAdhvasya_parixave.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 अर्थप्राध्वस्य परिक्षवे परिकासने चाप उस्पृश्योत्तरे यथालिङ्गं जपेत्।
 
 </details>
+
 </div>
 
 ## ०९ ०३ एवमुत्तरैर्यथालिङ्गञ्
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/06_karmAntarANi/09_03_evamuttarairyathAlinga~n.md">
-<details open><summary><h3>०९ ०३ एवमुत्तरैर्यथालिङ्गञ् ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/06_karmAntarANi/09_03_evamuttarairyathAlinga~n.md">
 
 एवम् +++(अर्थप्राध्वस्य दुर्निमित्ते ऽप उपस्पृश्य)+++ उत्तरैर्यथालिङ्गं +++(=अग्निरस्त्विति चित्रियपक्षे, सिग्वाते सिगसिनसि, शकुनौ "उद्गातेव शकुने", "आरात्ते अग्निः" इति वनस्पतौ, "नमश्शकृत्सदे" इति शकृद्रीतौ)+++ चित्रियं+++(=अश्वत्थविशेषं)+++ वनस्पतिं+++(पुष्पैर्विना फलवन्तम्)+++ शकृद्रीति सिग्वातं+++(=सिचो वस्त्रस्य वातम्)+++ शकुनिम् +++(=सुवचनम्। अशुभवचनम् इति सुदर्शनः।)+++ इति ॥
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/06_karmAntarANi/09_03_evamuttarairyathAlinga~n.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 3. In the same way with the next (Mantras - M. I, 13, 7-10 - he should address the following objects), according to the characteristics (which those Mantras contain): a conspicuous tree, a heap of excrements, the skirt (of his garment) which is blown against him by the wind, and a shrieking bird.
@@ -127,26 +131,30 @@ title = "०६ कर्मान्तराणि"
 केचित्— शुभवाचं, अशुभदर्शने तु पूर्वसूत्रेणोक्तो जप इति ॥३॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/06_karmAntarANi/09_03_evamuttarairyathAlinga~n.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 एवमुत्तरैर्यथालिङ्गं चित्रियं वनस्पतिं शकृद्रीतिं सिग्वातं शकुनिमिति ।
 
 </details>
+
 </div>
 
 ## ०९ ०४ उभयोर्हृदयसंसर्गेऽप्सुस्त्रिरात्रावरम्
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/06_karmAntarANi/09_04_ubhayorhRdayasaMsarge-psustrirAtrAvaram.md">
-<details open><summary><h3>०९ ०४ उभयोर्हृदयसंसर्गेऽप्सुस्त्रिरात्रावरम् ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/06_karmAntarANi/09_04_ubhayorhRdayasaMsarge-psustrirAtrAvaram.md">
 
 उभयोर् हृदय-संसर्गेप्सुस् त्रिरात्रावरं ब्रह्मचर्यं चरित्वा, +++(पुनर्वस्वोः)+++ स्थालीपाकं श्रपयित्वा ऽऽग्नेरुपसमाधानाद्याज्यभागान्ते ऽन्वारब्धायाँ स्थालीपाकादुत्तरा आहुतीर् +++(सप्त प्रधानाहुतयः प्रातरग्निमित्येवमाद्याः)+++ हुत्वा, जयादि प्रतिपद्यते, परिषेचनान्तं कृत्वा, तेन +++(स्थालीपाकेन)+++ सर्पिष्मता युग्मान् द्व्यवरान् ब्राह्मणान् भोजयित्वा सिद्धिं वाचयीत।
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/06_karmAntarANi/09_04_ubhayorhRdayasaMsarge-psustrirAtrAvaram.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 4. One (for instance, the wife's father) who wishes that the hearts of both (husband and wife) may be in accord should observe chastity through at least three nights and should prepare a Sthālīpāka. Then (the ceremonies) from the putting (of wood) on (the fire) down to the Ājyabhāga oblations (are performed), and while the wife takes hold of him, he sacrifices of the Sthālīpāka the oblations (indicated by the) next (Mantras; M. I, 14, 1-7); then he enters upon the performance of the Jaya and following oblations, and performs (the rites) down to the sprinkling (of water) round (the fire). (The remains of) the (sacrificial food) with butter, he should give to eat to an even number of Brāhmaṇas, at least to two, and should cause them to pronounce wishes for his success.
@@ -185,27 +193,31 @@ title = "०६ कर्मान्तराणि"
 तेन सर्पिष्मतेति च पार्वणसिद्धानुवादो युग्मानिति विधातुम् ॥४॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/06_karmAntarANi/09_04_ubhayorhRdayasaMsarge-psustrirAtrAvaram.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 उभयोर्हृदयसंसर्गेऽप्सुस्त्रिरात्रावरं ब्रह्मचर्यं चरित्वा स्थालीपाकं श्रपयित्वाऽग्नेरुपसमाधानाद्याज्यभागान्तेऽन्वारब्धायां स्थालीपाकादुत्तरा आहुतीर्हुत्वा जयादि प्रतिपद्यते परिषेचनान्तं कृत्वा तेन सर्पिष्मता युग्मान् द्व्यवरान् ब्राह्मणान् भोजयित्वा सिद्धिं वाचयीत ।
 
 </details>
+
 </div>
 
 ## ०९ ०५ श्वस्तिष्येणेति
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/06_karmAntarANi/09_05_shvastiShyeNeti.md">
-<details open><summary><h3>०९ ०५ श्वस्तिष्येणेति ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/06_karmAntarANi/09_05_shvastiShyeNeti.md">
 
 +++(विवाहप्रकरणे तूपदेशात्सकृत्पात्रप्रयोगः शम्याश्च ।)+++  
 श्वस्तिष्येणेति त्रिस्सप्तैर्+++(=२१)+++ यवैः पाठां+++(=ओषधिविशेषम्)+++ परिकिरति - "यदि वारुण्यसि वरुणात्त्वा निष्क्रीणामि यदि सौम्यसि सोमात्त्वा निष्क्रीणामि" इति ५
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/06_karmAntarANi/09_05_shvastiShyeNeti.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 5. [^1]  When the moon, on the following day, will be in conjunction with Tiṣya, she strews three times seven barley-grains around (the plant) Clypea Hernandifolia with (the formula), 'If thou belongest to Varuṇa, I redeem thee from Varuṇa. If thou belongest to Soma, I redeem thee from Soma.'
@@ -227,29 +239,33 @@ title = "०६ कर्मान्तराणि"
 त्रिस्सप्तैरिति छान्दसं रूपम् ॥५॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/06_karmAntarANi/09_05_shvastiShyeNeti.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 श्वस्तिष्येणेति त्रिस्सप्तैर्यवैः पाठां परिकिरति "यदि वारुण्यसि वरुणात्त्वा निष्क्रीणामि यदि सौम्यसि सोमात्त्वा निष्क्रीणामी"ति ।
 
 </details>
+
 </div>
 
 ## ०९ ०६ श्वोभूते
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/06_karmAntarANi/09_06_shvobhUte.md">
-<details open><summary><h3>०९ ०६ श्वोभूते ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/06_karmAntarANi/09_06_shvobhUte.md">
 
 +++(उपोष्य)+++ श्वोभूते +++(पाठाम्)+++ उत्तरया +++("इमां खनीमि")+++ +उत्थाप्य +++(उत्खाय खनित्रेण)+++  
 +उत्तराभिस् तिसृभिर् +++("उत्तानपर्णे")+++ अभिमन्त्र्य  
 उत्तरया +++("अहमस्मी"ति)+++ प्रतिच्छन्नां +++(छित्त्वा)+++ हस्तयोराबध्य  
 शय्याकाले बाहुभ्यां भर्तारं परिगृह्णीयाद् उपधानलिङ्गया +++("उपतेऽधा")+++ ६
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/06_karmAntarANi/09_06_shvobhUte.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 6. On the following day she should set upright (the plant) with the next (verse; M. I, 15, 1), should recite the next three (verses; M. I, 15, 2-4) over it, should tie (its root) with the next (verse; M. I, 15, 5) to her hands so that (her husband) does not see it, and should, when they have gone to bed, embrace her husband with her arms, with the verse alluding to the word upadhāna ('putting on;' M. I, 15, 6).
@@ -275,26 +291,30 @@ title = "०६ कर्मान्तराणि"
 केचित्— आबध्य पाठामूलयोर्हस्तयोरुपधानमेको ऽन्यश्चापिधानं यथा स्यात् तथा परिगृह्णीयादिति ॥६॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/06_karmAntarANi/09_06_shvobhUte.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 श्वोभूते उत्तरयोत्थाप्योत्तराभिस्तिसृभिरभिमन्त्र्योत्तरया प्रतिच्छन्नां हस्तयोराबध्य शय्याकाले बाहुभ्यां भर्तारं परिगृह्णीयादुपधानलिङ्गया ।
 
 </details>
+
 </div>
 
 ## ०९ ०७ वश्यो भवति
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/06_karmAntarANi/09_07_vashyo_bhavati.md">
-<details open><summary><h3>०९ ०७ वश्यो भवति ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/06_karmAntarANi/09_07_vashyo_bhavati.md">
 
 वश्यो भवति ७
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/06_karmAntarANi/09_07_vashyo_bhavati.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 7. Thus he will be subject to her.
@@ -308,26 +328,30 @@ title = "०६ कर्मान्तराणि"
 अस्या अधिकारान्तरसंयोगमाह—
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/06_karmAntarANi/09_07_vashyo_bhavati.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 वश्यो भवति।
 
 </details>
+
 </div>
 
 ## ०९ ०८ सपत्नीबाधनञ्च 
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/06_karmAntarANi/09_08_sapatnIbAdhanancha.md">
-<details open><summary><h3>०९ ०८ सपत्नीबाधनञ्च  ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/06_karmAntarANi/09_08_sapatnIbAdhanancha.md">
 
 सपत्नीबाधनं च।  
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/06_karmAntarANi/09_08_sapatnIbAdhanancha.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 8. By this (rite) also (a wife) overcomes her co-wives.
@@ -353,26 +377,30 @@ title = "०६ कर्मान्तराणि"
 अधिकारान्तरं च युक्तम्; य एकया संसृष्टहृदयोऽप्यन्यां तत्सपत्नीं भार्यां तदधीनधर्मादावपि लोभान्न बाधते सोऽपि कथं नु नाम तदधीनधर्माद्युपेक्षयापि तां बाधेतैवेत्येवमर्थत्वादस्य कर्मणः ॥८॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/06_karmAntarANi/09_08_sapatnIbAdhanancha.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 सपत्नीबाधनञ्च ।
 
 </details>
+
 </div>
 
 ## ०९ ०९ एतेनैव कामेनोत्तरेणानुवाकेन
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/06_karmAntarANi/09_09_etenaiva_kAmenottareNAnuvAkena.md">
-<details open><summary><h3>०९ ०९ एतेनैव कामेनोत्तरेणानुवाकेन ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/06_karmAntarANi/09_09_etenaiva_kAmenottareNAnuvAkena.md">
 
 एतेनैव कामेनोत्तरेणानुवाकेन +++("उदसौ सूर्यो अगात्")+++ सदादित्यमुपतिष्ठते ९
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/06_karmAntarANi/09_09_etenaiva_kAmenottareNAnuvAkena.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 9. For this same purpose she worships the sun daily with the next Anuvāka (M. I, 16).
@@ -396,26 +424,30 @@ title = "०६ कर्मान्तराणि"
 केचित्—इदमुपस्थानं पूर्वाधिकारशेषो वा, सपत्नीबाधनकामे कर्मान्तरं वेति ॥९॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/06_karmAntarANi/09_09_etenaiva_kAmenottareNAnuvAkena.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 एतेनैव कामेनोत्तरेणानुवाकेन सदादित्यमुपतिष्ठते ।
 
 </details>
+
 </div>
 
 ## ०९ १० यक्ष्मगृहीतामन्यां वा
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/06_karmAntarANi/09_10_yaxmagRhItAmanyAM_vA.md">
-<details open><summary><h3>०९ १० यक्ष्मगृहीतामन्यां वा ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/06_karmAntarANi/09_10_yaxmagRhItAmanyAM_vA.md">
 
 यक्ष्मगृहीतामन्यां +++(मातृप्रभृतिं)+++ वा ब्रह्मचर्ययुक्तः पुष्करसंवर्तमूलैरुत्तरैर् +++("अक्षीभ्यां ते नासिकाभ्यां")+++ यथालिङ्गमङ्गानि संमृश्य प्रतीचीनं निरस्येत् +++(प्रतिमन्त्रं सम्मर्शनं निरसनं च ।)+++ १०   
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/06_karmAntarANi/09_10_yaxmagRhItAmanyAM_vA.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 10. If a wife is affected with consumption or is otherwise sick, one who has to observe chastity, should rub her limbs with young lotus leaves which are still rolled up, and with lotus roots, with the next (formulas, limb by limb) according to the characteristics (contained in those formulas; M. I, 17, 1-6), and should throw away (the leaves and roots) towards the west.
@@ -444,26 +476,30 @@ title = "०६ कर्मान्तराणि"
 केचित्— यक्ष्मगृहीतां भार्यां अन्यां वा मात्रादिं पुष्करस्य संवर्तैः परिमण्डलाकारैः मूलैरिति ॥१०॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/06_karmAntarANi/09_10_yaxmagRhItAmanyAM_vA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 यक्ष्मगृहीतामन्यां वा ब्रह्मचर्ययुक्तः पुष्करसंवर्तमूलैरुत्तरैर्यथालिङ्गमङ्गानि सम्मृश्य प्रतीचीनं निरस्येत् ।
 
 </details>
+
 </div>
 
 ## ०९ ११ वधूवास उत्तराभिरेतद्विदे
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/06_karmAntarANi/09_11_vadhUvAsa_uttarAbhiretadvide.md">
-<details open><summary><h3>०९ ११ वधूवास उत्तराभिरेतद्विदे ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/06_karmAntarANi/09_11_vadhUvAsa_uttarAbhiretadvide.md">
 
 वधूवास उत्तराभिर् +++("परा देही"त्यादयश्चतस्रः)+++ एतद्+++(मन्त्रकर्म-)+++विदे दद्यात् ११
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/06_karmAntarANi/09_11_vadhUvAsa_uttarAbhiretadvide.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 11. With the next (verses; M. I, 17, 7-10) he should give the wife's garment (which she has worn at the wedding [?]) to (a Brāhmaṇa) who knows this (ceremony).
@@ -501,11 +537,15 @@ title = "०६ कर्मान्तराणि"
 तृतीयश्च पटलः समाप्तः ॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/06_karmAntarANi/09_11_vadhUvAsa_uttarAbhiretadvide.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 वधूवास उत्तराभिरेतद्विदे दद्यात् ॥
 
 </details>
+
 </div>

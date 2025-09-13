@@ -6,15 +6,15 @@ title = "१६ चौलम्"
 
 ## १६ ०३ जन्मनोऽधि तृतीये
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/16_chaulam/16_03_janmano-dhi_tRtIye.md">
-<details open><summary><h3>१६ ०३ जन्मनोऽधि तृतीये ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/16_chaulam/16_03_janmano-dhi_tRtIye.md">
 
 जन्मनोऽधि तृतीये वर्षे चौलं पुनर्वस्वोः ॥ १६.३ ॥
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/16_chaulam/16_03_janmano-dhi_tRtIye.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 3. In the third year after his birth the Caula (or tonsure is performed) under (the Nakṣatra of) the two Punarvasus.
@@ -40,31 +40,35 @@ title = "१६ चौलम्"
 यस्मिन् कर्मणि चूडासन्निधानं तच्चौळं; ळडयोरभेदात् । **पुनर्वस्वोः;** कर्तव्यमिति शेषः ॥३॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/16_chaulam/16_03_janmano-dhi_tRtIye.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 जन्मनोऽधि तृतीये वर्षे चौलं पुनर्वस्वोः।  
 
 </details>
+
 </div>
 
   
 
 ## १६ ०४ ब्राह्मणानाम् भोजनम्
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/16_chaulam/16_04_brAhmaNAnAm_bhojanam.md">
-<details open><summary><h3>१६ ०४ ब्राह्मणानाम् भोजनम् ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/16_chaulam/16_04_brAhmaNAnAm_bhojanam.md">
 
 ब्राह्मणानां भोजनम् +++(इत्यादिकम्)+++ उपायनवत्॥  
 +++(ब्राह्मणान् भोजयित्वा  
 ऽशिषो वाचयित्वा  
 कुमारं भोजयित्वेत्य् एतावद् इह द्रष्टव्यम् ।)+++
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/16_chaulam/16_04_brAhmaNAnAm_bhojanam.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 4. [^1]  Brāhmaṇas are entertained with food as at the initiation (Upanayana).
@@ -86,26 +90,30 @@ title = "१६ चौलम्"
 उपनयनम् एवोपायनम् ॥४॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/16_chaulam/16_04_brAhmaNAnAm_bhojanam.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 ब्राह्मणानां भोजनम् उपायनवत्।
 
 </details>
+
 </div>
 
 ## १६ ०५ सीमन्तवद् अग्नेर्
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/16_chaulam/16_05_sImantavad_agner.md">
-<details open><summary><h3>१६ ०५ सीमन्तवद् अग्नेर् ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/16_chaulam/16_05_sImantavad_agner.md">
 
 [सीमन्तवद्](../sImantonnayanam/) अग्नेर् उपसमाधानादि ॥  
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/16_chaulam/16_05_sImantavad_agner.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 5. [^2]  The putting (of wood) on the fire, &c. (is performed) as at the Sīmantonnayana.
@@ -131,28 +139,32 @@ title = "१६ चौलम्"
 पात्र-प्रयोग-काले शललल्य्-आदीनां सकृदेव सादनम् ॥५॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/16_chaulam/16_05_sImantavad_agner.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 सीमन्तवद् अग्नेर् उपसमाधानादि।
 
 </details>
+
 </div>
 
 ## १६ ०६ अपरेणाग्निम् प्राञ्चमुपवेश्य
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/16_chaulam/16_06_apareNAgnim_prAnchamupaveshya.md">
-<details open><summary><h3>१६ ०६ अपरेणाग्निम् प्राञ्चमुपवेश्य ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/16_chaulam/16_06_apareNAgnim_prAnchamupaveshya.md">
 
 अपरेणाग्निं प्राञ्चम् उपवेश्य  
 त्रेण्या शलल्या+++(=शल्यक-सूचयः)+++, त्रिभिर् दर्भ-पुञ्जीलैः+++(=सविशाखा नाडीभिः)+++, शलालु+++(=अपक्वोदुम्बर)+++-ग्लप्सेन+++(=गुच्छेन)+++ +इति  
 तूष्णीं केशान् विनीय यथर्षि शिखा निदधाति।  
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/16_chaulam/16_06_apareNAgnim_prAnchamupaveshya.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 6. [^3]  He makes (the boy) sit down to the west of the fire, facing the east, combs his hair silently with a porcupine's quill that has three white spots, with three Darbha blades, and with a bunch of unripe Udumbara fruits; and he arranges the locks in the fashion of his ancestral Ṛṣis,
@@ -176,28 +188,32 @@ title = "१६ चौलम्"
 एकार्षेयस्यैका शिखा द्व्यार्षेयस्य द्वे इत्यादि ॥६॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/16_chaulam/16_06_apareNAgnim_prAnchamupaveshya.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 अपरेणाग्निं प्राञ्चमुपवेश्य त्रेण्या शलल्या त्रिभिर्दर्भपुञ्जीलैः शलालुग्लप्सेनेति तूष्णीं केशान् विनीय यथर्षि शिखा निदधाति।
 
 </details>
+
 </div>
 
   
 
 ## १६ ०७ यथा वैषाम्
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/16_chaulam/16_07_yathA_vaiShAm.md">
-<details open><summary><h3>१६ ०७ यथा वैषाम् ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/16_chaulam/16_07_yathA_vaiShAm.md">
 
 यथा वैषां कुल-धर्मः स्यात् ॥
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/16_chaulam/16_07_yathA_vaiShAm.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 7. Or according to their family custom.
@@ -217,26 +233,30 @@ title = "१६ चौलम्"
 केचित्–एषामिति वचनात् पितुरन्योऽपि चौलकर्तेति ॥७॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/16_chaulam/16_07_yathA_vaiShAm.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 यथा वैषां कुलधर्मः स्यात्।
 
 </details>
+
 </div>
 
 ## १६ ०८ अपाँ
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/16_chaulam/16_08_apA.N.md">
-<details open><summary><h3>१६ ०८ अपाँ ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/16_chaulam/16_08_apA.N.md">
 
 उपनयनवद् दिग्-वपनाद्य् अपां संसर्जनाद्य्-आ-केश-निधानात् समानम् ॥ १६.८ ॥  
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/16_chaulam/16_08_apA.N.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 8. [^4]  The ceremonies beginning with the pouring together of (warm and cold) water and ending with the putting down of the hair are the same (as above; comp. M. II, 14, 11).
@@ -254,28 +274,32 @@ title = "१६ चौलम्"
 व्याख्यातमेवैतत्समावर्तने ॥८॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/16_chaulam/16_08_apA.N.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 अपाँ संसर्जनाद्याकेशनिधानात्समानम्।
 
 </details>
+
 </div>
 
   
 
 ## १६ ०९ क्षुरँ प्रक्षाल्य
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/16_chaulam/16_09_xura.N_praxAlya.md">
-<details open><summary><h3>१६ ०९ क्षुरँ प्रक्षाल्य ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/16_chaulam/16_09_xura.N_praxAlya.md">
 
 क्षुरं प्रक्षाल्य निदधाति ॥  
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/16_chaulam/16_09_xura.N_praxAlya.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 9. He puts down the razor after having washed it off.
@@ -293,26 +317,30 @@ title = "१६ चौलम्"
 अत्र प्रक्षालनमेव विधीयते; निधानं त्वर्थप्राप्तम् ॥९॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/16_chaulam/16_09_xura.N_praxAlya.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 क्षुरँ प्रक्षाल्य निदधाति।
 
 </details>
+
 </div>
 
 ## १६ १० तेन त्र्यहम्
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/16_chaulam/16_10_tena_tryaham.md">
-<details open><summary><h3>१६ १० तेन त्र्यहम् ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/16_chaulam/16_10_tena_tryaham.md">
 
 तेन त्र्य्-अहं कर्म-निवृत्तिः ॥
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/16_chaulam/16_10_tena_tryaham.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 10. [^5]  The ceremony is (repeated) three days with the (same razor). (Then) the rite is finished.
@@ -330,26 +358,30 @@ title = "१६ चौलम्"
 **तेन** क्षुरेण **त्र्यहं** नापित**कर्मनिवृत्तिस्** स्यात् ॥१०॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/16_chaulam/16_10_tena_tryaham.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 तेन त्र्यहं कर्मनिवृत्तिः।
 
 </details>
+
 </div>
 
 ## १६ ११ वरन् ददाति
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/16_chaulam/16_11_varan_dadAti.md">
-<details open><summary><h3>१६ ११ वरन् ददाति ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/16_chaulam/16_11_varan_dadAti.md">
 
 वरं ददाति ॥ 
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/16_chaulam/16_11_varan_dadAti.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 11. (The father) gives an optional gift (to the Brāhmaṇa who has assisted).
@@ -367,26 +399,30 @@ title = "१६ चौलम्"
 यद्य् अन्यश् चौलकर्ता - तदा तस्मै ॥११॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/16_chaulam/16_11_varan_dadAti.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 वरं ददाति।
 
 </details>
+
 </div>
 
 ## १६ १२ एवङ् गोदानम्
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/16_chaulam/16_12_eva~N_godAnam.md">
-<details open><summary><h3>१६ १२ एवङ् गोदानम् ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/16_chaulam/16_12_eva~N_godAnam.md">
 
 एवं +++(=[चौलवत्](../chaulam/))+++ गोदानम् अन्यस्मिन्न् अपि नक्षत्रे षोडशे वर्षे ॥ 
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/16_chaulam/16_12_eva~N_godAnam.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 12. The Godāna (or the ceremony of shaving the beard, is performed) in the sixteenth year, in exactly the same way or optionally under another constellation.
@@ -410,26 +446,30 @@ title = "१६ चौलम्"
 अत्र पक्षान्तरमाह—
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/16_chaulam/16_12_eva~N_godAnam.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 एवं गोदानम् अन्यस्मिन्न् अपि नक्षत्रे षोडशे वर्षे।
 
 </details>
+
 </div>
 
 ## १६ १३ अग्निगोदानो वा
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/16_chaulam/16_13_agnigodAno_vA.md">
-<details open><summary><h3>१६ १३ अग्निगोदानो वा ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/16_chaulam/16_13_agnigodAno_vA.md">
 
 अग्नि-गोदानो +++(ब्रह्मचारी)+++ वा स्यात् ॥  
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/16_chaulam/16_13_agnigodAno_vA.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 13. [^6]  Or he may perform the Godāna sacred to Agni.
@@ -454,7 +494,6 @@ title = "१६ चौलम्"
 अस्यास्मिन् गृह्येऽनुपदिष्टत्वात् यत् गोदानमुपदिष्टं तत्रैव शम्याविधिः ।
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/haradattaH/agni-godAnam/">
-<details open><summary><h9>अग्नि-गोदानम् ...{Loading}...</h9></summary>
 
 तत्र प्रयोगः–  
 ब्राह्मणान् भोजयित्वा  
@@ -473,7 +512,6 @@ title = "१६ चौलम्"
 उभयत्र नान्दी-मुख-श्राद्धं केचित् कुर्वन्ति ।  
 अपरे न ॥ १३ ॥
 
-</details>
 </div>
 </details>
 
@@ -485,28 +523,32 @@ title = "१६ चौलम्"
 ततो जयादि(१) क्षुरप्रक्षालनान्तम् ॥१३॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/16_chaulam/16_13_agnigodAno_vA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 अग्निगोदानो वा स्यात्।
 
 </details>
+
 </div>
 
   
 
 ## १६ १४ संवत्सरङ् गोदानव्रत(२)मेक
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/16_chaulam/16_14_saMvatsara~N_godAnavrata2meka.md">
-<details open><summary><h3>१६ १४ संवत्सरङ् गोदानव्रत(२)मेक ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/16_chaulam/16_14_saMvatsara~N_godAnavrata2meka.md">
 
 संवत्सरं गोदानव्रतमे+++(मित्ये)+++क उपदिशन्ति ॥ १६.१४ ॥
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/16_chaulam/16_14_saMvatsara~N_godAnavrata2meka.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 14. [^7]  Some prescribe the keeping of a vow through one year in connection with the Godāna.
@@ -526,26 +568,30 @@ title = "१६ चौलम्"
 अधीतेऽपि वेदे, अवश्यं **संवत्सरं गोदानव्रतं** ब्रह्मचर्यं चरितव्यमि**त्येक उपदिशन्ति;** वैकल्पिकमित्यर्थः ॥१४॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/16_chaulam/16_14_saMvatsara~N_godAnavrata2meka.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 संवत्सरं गोदानव्रत(२)मेक उपदिशन्ति।
 
 </details>
+
 </div>
 
 ## १६ १५ एतावन्नाना सर्वान्
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/16_chaulam/16_15_etAvannAnA_sarvAn.md">
-<details open><summary><h3>१६ १५ एतावन्नाना सर्वान् ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/16_chaulam/16_15_etAvannAnA_sarvAn.md">
 
 एतावन् नाना+++(=भेदः)+++ - सर्वान् केशान् +++(शिखाम् अपीति केचित्)+++ वापयते +++(आचार्येण, वरदानञ् चाचार्यायैव ।)+++ ॥ 
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/16_chaulam/16_15_etAvannAnA_sarvAn.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 15. The difference (between the Kaula and the Godāna) is that (at the Godāna) the whole hair is shaven (without leaving the locks).
@@ -580,26 +626,30 @@ title = "१६ चौलम्"
 इति सत्रेभ्योऽन्यत्र शिखाया वपनप्रतिषेधात् इहापि नैव शिखाया वपनमिति ॥१५॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/16_chaulam/16_15_etAvannAnA_sarvAn.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 एतावन्नाना सर्वान् केशान् वापयते।
 
 </details>
+
 </div>
 
 ## १६ १६ उदकोपस्पर्शनमिति छन्दोगाः
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/16_chaulam/16_16_udakopasparshanamiti_ChandogAH.md">
-<details open><summary><h3>१६ १६ उदकोपस्पर्शनमिति छन्दोगाः ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/16_chaulam/16_16_udakopasparshanamiti_ChandogAH.md">
 
 +++(अहरहर्)+++ उदकोपस्पर्शनम् इति छन्दोगाः १६
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/16_chaulam/16_16_udakopasparshanamiti_ChandogAH.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 16. [^8]  According to the followers of the Sāma-veda he should 'touch water.'
@@ -621,11 +671,15 @@ title = "१६ चौलम्"
 षष्ठः पटलस्समाप्तः ॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/16_chaulam/16_16_udakopasparshanamiti_ChandogAH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 उदकोपस्पर्शनमिति छन्दोगाः।
 
 </details>
+
 </div>
