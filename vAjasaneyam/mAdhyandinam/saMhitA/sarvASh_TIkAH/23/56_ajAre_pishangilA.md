@@ -7,6 +7,20 @@ title = "५६ अजारे पिशङ्गिला"
 अ॒जा। अ॒रे॒। पि॒श॒ङ्गि॒ला। श्वा॒वित्। श्व॒विदिति॑ श्व॒ऽवित्। कु॒रु॒पिश॒ङ्गि॒लेति॑ कुरुऽपिशङ्गि॒ला। श॒शः। आ॒स्कन्द॒मित्या॒ऽस्कन्द॑म्। अ॒र्ष॒ति॒। अहिः॑। पन्था॑म्। वि। स॒र्प॒ति॒। ५६।
 </details>
 
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+The she-goat is the yellowish one; the dark-yellowish one is the porcupine.  
+The hare moves bounding along; the snake creeps along the path.
+</details>
+
+<details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
+
+Was this brahmodya merely to be understood as said animals, or were the animals additionally metaphors for celestial bodies/phenomena?
+
+We suspect the later. Despite the atypical gender the goat is probably the sun and the hare the moon. But what are the porcupine and the snake?
+</details>
+
+
 <details><summary>महीधरः</summary>
 
 म० अरे अध्वर्यो, अजा पिशंगिला अजा नित्या माया रात्रिर्वा पिशंगिला पिशं रूपं गिलति भक्षयति पिशंगिला माया विश्वं ग्रसते । रात्रावपि रूपाणि न प्रतीयन्ते तमसा । श्वावित् सेधा कुरुपिशंगिला कुरुशब्दोऽनुकरणे ‘पिश अवयवे' इति धातोरिगुपधेति कप्रत्ययः । कुरु इति शब्दमनुकुर्वाणा पिशान् मूलाद्यवयवान् गिलति पिशंगिला । मूलानां शतं कुक्षौ स्थापयति शतं च भक्षयतीति सेधायाः स्वभावः । शशः वन्यो जीवविशेषः आस्कन्दमास्कन्द्यास्कन्द्य अर्षति स तस्य स्वभावः । अहिः सर्पः पन्थां पन्थानं विसर्पति विशेषेण | गच्छति ॥ ५६ ॥  
