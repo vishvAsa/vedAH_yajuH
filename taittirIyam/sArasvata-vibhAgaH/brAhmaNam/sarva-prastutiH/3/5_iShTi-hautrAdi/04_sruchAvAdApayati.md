@@ -20,6 +20,12 @@ unicode_script: devanagari
 1स्रुचावादापयति - अग्निर्होतेति ॥ अयमग्निः होता देवानां यष्टा वेतु पिबत्वाज्यम् । अग्निमयं होत्रं यज्ञं होतव्यं वा हविः वेत्तु यथावज्जानातु । प्रावित्रं प्रकर्षेण तर्पणं पाकं वा सर्वेषाम् ।  
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA.sarva-prastutiH/2/5/09.md"> द्रष्टव्यम्।
+</div>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्मो व॒यम् ।  
