@@ -13,19 +13,23 @@ _______
 
 1अतः परं दर्शपूर्णमासयोर्याजमानब्राह्मणं प्राजापत्यमेव काण्डम् । तत्राग्न्यन्वाधानं विधातुमाह - यथा वा इत्यादि ॥ 
 </details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यथा॒ वै स॑मृतसो॒मा ए॒वव्ँवा ए॒ते स॑मृतय॒ज्ञा यद्द॑र्शपूर्णमा॒सौ कस्य॒ वाह॑ दे॒वा य॒ज्ञमा॒ गच्छ॑न्ति॒ कस्य॑ वा॒ न ब॑हू॒नाय्ँयज॑मानानाय्ँ॒यो वै दे॒वता॒ᳶ पूर्वᳶ॑ परिगृ॒ह्णाति॒ स ए॑ना॒श्श्वो भू॒ते य॑जत ए॒तद्वै दे॒वाना॑मा॒यत॑नय्ँ॒यदा॑हव॒नीयो॑ऽन्त॒राग्नी प॑शू॒नाङ्गार्ह॑पत्यो मनु॒ष्या॑णामन्वाहार्य॒पच॑नᳶ पितृ॒णाम॒ग्निङ्गृ॑ह्णाति॒ स्व ए॒वायत॑ने दे॒वता॒ᳶ परि॑ [21]गृ॒ह्णा॒ति॒ ताश्श्वो भू॒ते य॑जते  
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यथा॒ वै स॑म्+++(→युगपत्)+++-ऋत-सो॒मा+++(→सोमयागा)+++  
-ए॒वव्ँ वा ए॒ते स॑म्+++(→युगपत्)+++-ऋत-य॒ज्ञा यद् द॑र्शपूर्णमा॒सौ ।
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+
+य᳓था वै᳓ सम्+++(→युगपत्)+++-ऋत-सोमा᳓+++(→सोमयागा)+++  
+एवव्ँ᳓ वा᳓ एते᳓ सम्+++(→युगपत्)+++-ऋत-यज्ञा᳓ य᳓द् दर्शपूर्णमासौ᳓ ।
 </details>
+
 <details><summary>Keith</summary>
 
 Even as the Soma (sacrifices) come together in competition, so the new and full moon (sacrifices) are sacrifices which come together in competition. 
 </details>
+
 <details><summary>मूलम्</summary>
 
 यथा॒ वै स॑मृतसो॒मा  
@@ -58,15 +62,17 @@ Even as the Soma (sacrifices) come together in competition, so the new and full 
 यथा वा इति। एकस्मिन्नेव काले संहत्य प्राप्ताः समृतसोमाः सोमयागा एकस्मिन्नेव वसन्तर्तौ बहूनां यजमानानां सोमयागाः संहत्य प्राप्यन्त एवमेव बहूनां यजमानानामेते दर्शपूर्णमासा यज्ञा एकस्मिन्नेव पर्वणि संहत्य प्राप्यन्ते। 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
-कस्य॒ वाऽह॑ दे॒वा य॒ज्ञम् आ॒ गच्छ॑न्ति॒ +++(←चादिषु च)+++  
-कस्य॑ वा॒ न?  
+क᳓स्य वा᳓ऽह देवा᳓ यज्ञ᳓म् आ ग᳓च्छन्ति +++(←चादिषु च)+++  
+क᳓स्य वा न᳓?  
 </details>
+
 <details><summary>Keith</summary>
 
 Whose sacrifice then do the gods approach and whose not? 
 </details>
+
 <details><summary>मूलम्</summary>
 
 कस्य॒ वाह॑ दे॒वा य॒ज्ञमा॒ गच्छ॑न्ति॒  
@@ -89,16 +95,18 @@ Whose sacrifice then do the gods approach and whose not?
 देवताश्चाग्न्यादयो या एकस्य यजमानस्य ताश्चान्यस्यापि। तथा सति देवानां मनसि संकटमुत्पद्यते। तत्संकटमहशब्देन द्योत्यते। देवानां पक्षपातस्यानुचितत्वात्। कस्य यजमानस्य यज्ञं देवा आगच्छन्ति कस्य वा यज्ञं नाऽऽगच्छन्तीति महदेतत्संकटम्। 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब॒हू॒नाय्ँ यज॑मानानाय्ँ॒ यो वै दे॒वता॒ᳶ पूर्वᳶ॑ परिगृ॒ह्णाति॒,  
-स ए॑ना॒श् श्वो भू॒ते य॑जते ।  
-+++(ब॒हू॒नाम् - नामन्यतरस्याम् इति विभक्तिस्वरः)+++
+बहूनाय्ँ᳓ य᳓जमानानाय्ँ यो᳓ वै᳓ देव᳓ताᳶ पू᳓र्वᳶ परिगृह्णा᳓ति,  
+स᳓ एनाश् श्वो᳓ भूते᳓ यजते ।  
++++(बहूना᳓म् - नामन्यतरस्याम् इ᳓ति विभक्तिस्वरः᳓॥)+++
 </details>
+
 <details><summary>Keith</summary>
 
 He, who among many sacrificers first appropriates the gods, sacrifices to them when the next day comes. 
 </details>
+
 <details><summary>मूलम्</summary>
 
 ब॒हू॒नाय्ँयज॑मानानाय्ँ॒यो वै दे॒वता॒ᳶ पूर्वᳶ॑ परिगृ॒ह्णाति॒
@@ -122,17 +130,19 @@ He, who among many sacrificers first appropriates the gods, sacrifices to them w
 यागस्योद्देशत्यागमात्रत्वाद्देवानामागमनमन्तरेणापि सोऽनुष्ठातुं शक्यते। योगसामर्थ्येन वा बहूनि शरीराणि स्वीकृत्य तत्र सर्वत्राऽऽगमिष्यन्ति। इत्थं च परिहारं भगवान्बा-दरायणो देवताधिकरणे विरोधः कर्मणीति चेन्नानेकप्रतिपत्तेर्दर्शनादिति सूत्रयामास। किं बहुनाऽस्य वाक्यस्य देवतापरिग्रहविध्यर्थवादत्वान्न किंचिद्देवानां संकटमस्ति।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒तद् वै दे॒वाना॑म् आ॒यत॑नय्ँ॒ यद् **आ॑हव॒नीयो॑**  
-**ऽन्त॒राग्नी** प॑शू॒नाङ्  
-**गार्ह॑पत्यो** मनु॒ष्या॑णाम्  
-अन्वाहार्य॒-पच॑नᳶ पितृ॒णाम्।
+एत᳓द् वै᳓ देवा᳓नाम् आय᳓तनय्ँ य᳓द् **आहवनी᳓यो**  
+**ऽन्तरा᳓ग्नी᳓** पशूना᳓ङ्  
+**गा᳓र्हपत्यो** मनुष्या᳙णाम्  
+अन्वाहार्य-प᳓चनᳶ पितृणा᳓म्।
 </details>
+
 <details><summary>Keith</summary>
 
 The Ahavaniya is the abode of the gods, between the fires of cattle, the Garhapatya of men, the Anvaharya pacana of the fathers. 
 </details>
+
 <details><summary>मूलम्</summary>
 
 ए॒तद्वै दे॒वाना॑मा॒यत॑नय्ँ॒यदा॑हव॒नीयो॑ऽन्त॒राग्नी प॑शू॒नाङ्गार्ह॑पत्यो मनु॒ष्या॑णामन्वाहार्य॒पच॑नᳶ पितृ॒णाम्।
@@ -167,22 +177,25 @@ The Ahavaniya is the abode of the gods, between the fires of cattle, the Garhapa
 वसून्‍रुद्रानादित्यानिन्द्रेण सह देवता इत्याहवनीयार्थमन्त्रलिङ्गादाहवनीयो देवानां स्थानम्। अन्तराऽग्नी पशव इति मन्त्रलिङ्गादाहवनीयगार्हपत्ययोर्मध्यं पशूनां स्थानम्। इह प्रजा विश्वरूपा रमन्तामिति मन्त्रलिङ्गाद्गार्हपत्यो मनुष्याणां स्थानम्। अन्वाहार्यः पच्‍यतेऽस्मिन्नित्यन्वाहार्यपचनो दक्षिणाग्निः। अयं पितृणामग्निरिति मन्त्रलिङ्गादसौ पितृणां स्थानम्।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्निङ् गृ॑ह्णाति ।  
-स्व ए॒वायत॑ने दे॒वता॒ᳶ परि॑ [21] गृह्णाति ।  
-ताश् श्वो भू॒ते य॑जते ।  
+अग्नि᳓ङ् गृह्णाति ।  
+स्व᳓ एवा᳓य᳓तने देव᳓ताᳶ प᳓रि [21] गृह्णाति ।  
+ता᳓श् श्वो᳓ भूते᳓ यजते ।  
 </details>
+
 <details><summary>Keith</summary>
 
 He takes the fire; verily he appropriates [1] the gods in their own abode; to them he sacrifices when the next day comes. 
 </details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्निङ्गृ॑ह्णाति ।  
 स्व ए॒वायत॑ने दे॒वता॒ᳶ परि॑ [21] गृह्णाति ।  
 ताश्श्वो भू॒ते य॑जते ।  
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 अ॒ग्निम् । गृ॒ह्णा॒ति॒ ।    
@@ -208,21 +221,25 @@ _______
 
 2अथ व्रतोपनयनं विधातुमाह - व्रतेन वा इत्यादि ॥ 
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व्र॒तेन॒ वै मेध्यो॒ **ऽग्निर् व्र॒तप॑तिर्**,  
-ब्राह्म॒णो व्र॑त॒-भृत् ।
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+
+व्रते᳓न वै᳓ मे᳓ध्यो **ऽग्नि᳓र् व्रत᳓पतिर्**,  
+ब्राह्मणो᳓ व्रत-भृ᳓त् ।
 </details>
+
 <details><summary>Keith</summary>
 
 By means of a vow is Agni, lord of vows, pure, the Brahman is a supporter of vows.
 </details>
+
 <details><summary>मूलम्</summary>
 
 व्र॒तेन॒ वै मेध्यो॒ऽग्निर्व्र॒तप॑तिः  
 
 ब्रा॒ह्म॒णो व्र॑त॒भृत् ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 व्र॒तेन॑ । वै । मेध्यः॑ । अ॒ग्निः । व्र॒तप॑ति॒रिति॑ व्र॒त-प॒तिः॒ ।  
@@ -240,17 +257,19 @@ By means of a vow is Agni, lord of vows, pure, the Brahman is a supporter of vow
 व्रतेनेति। वक्ष्यमाणमन्त्रपाठरूपेण व्रतस्वीकारेणैव व्रतपतिरयमग्निर्मेध्यो यागयोग्यो भवति। ब्राह्मणश्च यजमानो व्रतधारी भवति।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
-व्र॒तम् उ॑पै॒ष्यन् ब्रू॑या॒द्  
-"अग्ने॑ व्रतपते व्र॒तञ्च॑रिष्या॒मी"ति॑ ।  
-अ॒ग्निर् वै दे॒वानाव्ँ॑ व्र॒तप॑तिः ।  
-तस्मा॑ ए॒व प्र॑ति॒-प्रोच्य॑ व्र॒तम् आल॑भते  ।
+व्रत᳓म् उपैष्य᳓न् ब्रूयाद्  
+"अ᳓ग्ने व्रतपते व्रत᳓ञ्चरिष्यामी᳓"ति ।  
+अग्नि᳓र् वै᳓ देवा᳓नाव्ँ व्रत᳓पतिः ।  
+त᳓स्मा एव᳓ प्रति-प्रो᳓च्य व्रत᳓म् आ᳓लभते  ।
 </details>
+
 <details><summary>Keith</summary>
 
 When about to undertake a vow he should say, 'O Agni, lord of vows, I shall perform the vow.' Agni is the lord of vows among the gods; verily after announcement to him he undertakes the vow. 
 </details>
+
 <details><summary>मूलम्</summary>
 
 व्र॒तमु॑पै॒ष्यन्ब्रू॑याद्   
@@ -260,6 +279,7 @@ When about to undertake a vow he should say, 'O Agni, lord of vows, I shall perf
 अ॒ग्निर्वै दे॒वानाव्ँ॑ व्र॒तप॑तिः ।  
 तस्मा॑ ए॒व प्र॑ति॒प्रोच्य॑ व्र॒तमाल॑भते  ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 व्र॒तम् । उ॒पै॒ष्यन्नित्यु॑प-ए॒ष्यन् । ब्रू॒या॒त् ।  
@@ -283,16 +303,18 @@ When about to undertake a vow he should say, 'O Agni, lord of vows, I shall perf
 तिथिविशेषेण व्रतोपायनस्य कालविशेषं विधत्ते-  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब॒र्हिषा ॑ पू॒र्णमा॑से व्र॒तम् उपै॑ति,  
-व॒त्सैर् अ॑मावा॒स्या॑याम्।  
-ए॒तद् ध्य् ए॒॑तयो॑र् आ॒यत॑नम् ।
+बर्हि᳓षा पूर्ण᳓मासे व्रत᳓म् उ᳓पैति,  
+वत्सै᳓र् अमावास्या᳙याम्।  
+एत᳓द् ध्य् ए᳓त᳓योर् आय᳓तनम् ।
 </details>
+
 <details><summary>Keith</summary>
 
 At the full moon be undertakes his vow with the (strewing of the) straw, with the (driving away of the) calves at new moon; for that is their abode. 
 </details>
+
 <details><summary>मूलम्</summary>
 
 ब॒र्हिषा॑ पू॒र्णमा॑से व्र॒तमुपै॑ति  
@@ -321,18 +343,22 @@ _______
 
 3अथोपस्तरणं विधातुमाह - उपस्तीर्य इत्यादि ॥ 
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒प॒स्तीर्य॒ᳶ पूर्व॑श् चा॒ग्निर् अप॑र॒श् चेत्य् आ॑हुः ।  
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+
+उपस्ती᳓र्यᳶ पू᳓र्वश् चाग्नि᳓र् अ᳓परश् चे᳓त्य् आहुः ।  
 </details>
+
 <details><summary>Keith</summary>
 
 'The fires, both in the front and at the back, must be bestrewed', they say; 
 </details>
+
 <details><summary>मूलम्</summary>
 
 उ॒प॒स्तीर्य॒ᳶ  पूर्व॑श्चा॒ग्निरप॑र॒श्चेत्या॑हुः ।  
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 उ॒प॒स्तीर्य॒ इत्यु॑प-स्तीर्यः॑ । पूर्वः॑ । च॒ । अ॒ग्निः । अप॑रः । च॒ । इति॑ । आ॒हुः॒ ।
@@ -352,15 +378,17 @@ _______
 उपस्तीर्य इति। परोक्षकथनेन विधिः प्रशस्यते।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
-म॒नु॒ष्याः॒॑ इन् न्वा(=नु+वा) उप॑स्तीर्णम् इ॒च्छन्ति॑ +++(गृहम्)+++   
-किम् उ॑ दे॒वा, येषा॒न् नवा॑वसानम्+++(=गृहम्)+++ ।  
+मनुष्याः᳓ इ᳓न् न्वा᳓(=नु᳓+वा᳓) उ᳓पस्तीर्णम् इच्छ᳓न्ति +++(गृहम्)+++   
+कि᳓म् उ देवा᳓, ये᳓षान् न᳓वावसानम्+++(=गृहम्)+++ ।  
 </details>
+
 <details><summary>Keith</summary>
 
 men [2] indeed desire what is bestrewed, and, how much more the gods whose is a new dwelling. 
 </details>
+
 <details><summary>मूलम्</summary>
 
 म॒नु॒ष्याः॑ [22] इन्न्वा उप॑स्तीर्णमि॒च्छन्ति॑ ।  
@@ -384,18 +412,17 @@ men [2] indeed desire what is bestrewed, and, how much more the gods whose is a 
 मनुष्या इदिति। इन्‍न्वा इति निपातत्रयसमुदायोऽपिशब्दार्थं ब्रूते। अत्यन्तदरिद्रा मनुष्या अपि शीतवातादिपरिहाराय तृणादिभिराच्छन्नं गृहमिच्छन्ति महाप्रभावा देवा उपस्तरणमिच्छन्तीति किमु वक्तव्यम्। 
 </details>
 
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+उ᳓पास्मिञ् +++(तस्योपस्तीर्णे)+++ छ्वो᳓ यक्ष्य᳓माणे देव᳓ता वसन्ति   
 
-उपा॑स्मि॒ञ् +++(तस्योपस्तीर्णे)+++ छ्वो य॒क्ष्यमा॑णे दे॒वता॑ वसन्ति   
-
-य ए॒वव्ँ वि॒द्वान् अ॒ग्निम् उ॑पस्तृ॒णाति॑ ।
+य एवव्ँ᳓ विद्वा᳓न् अग्नि᳓म् उपस्तृणा᳓ति ।
 </details>
+
 <details><summary>Keith</summary>
 
 With him, when sacrifice is to be made on the next day, do the gods dwell, who knowing this bestrews the fire. 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -426,22 +453,26 @@ _______
 
 4अथ सायमाशविषये विकल्पभेदानाह - यजमानेनेत्यादि ॥ 
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यज॑मानेन ग्रा॒म्याश् च॑ प॒शवो॑ ऽव॒रुध्या॑ आर॒ण्याश् चेत्य् आ॑हुः ।   
-यद् ग्रा॒म्यान् उ॑प॒वस॑ति॒ - तेन॑ ग्रा॒म्यान् अव॑ रुन्धे॒,  
-यद् आ॑र॒ण्यस्या॒श्ञाति॒ तेना॑र॒ण्यान् ।  
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+
+य᳓जमानेन ग्राम्या᳓श् च पश᳓वो ऽवरु᳓ध्या आरण्या᳓श् चे᳓त्य् आहुः ।   
+य᳓द् ग्राम्या᳓न् उपव᳓सति - ते᳓न ग्राम्या᳓न् अ᳓व रुन्धे,  
+य᳓द् आरण्य᳓स्याश्ञा᳓ति ते᳓नारण्या᳓न् ।  
 </details>
+
 <details><summary>Keith</summary>
 
 'The sacrificer should win both beasts of the wild and of the village', they say; in that he refrains from those of the village, thereby be wins them; in that he eats of the wild, thereby he wins them of the wild.
 </details>
+
 <details><summary>मूलम्</summary>
 
 यज॑मानेन ग्रा॒म्याश्च॑ प॒शवो॑ऽव॒रुध्या॑ आर॒ण्याश्चेत्या॑हुः ।   
 यद् ग्रा॒म्यानु॑प॒वस॑ति॒ तेन॑ ग्रा॒म्यानव॑ रुन्धे ।  
 यदा॑र॒ण्यस्या॒श्ञाति॒ तेना॑र॒ण्यान् ।  
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 यज॑मानेन । ग्रा॒म्याः । च॒ । प॒शवः॑ । अ॒व॒रुध्या॒ इत्य॑व-रुध्याः॑ । आ॒र॒ण्याः । च॒ । इति॑ । आ॒हुः॒ ।  
@@ -464,21 +495,21 @@ _______
 
 </details>
 
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+य᳓द् अ᳓नाश्वान् उपव᳓सेत् - पितृदेवत्य᳙स् स्यात् ।   
 
-यद् अना॑श्वान् उप॒वसे॑त् - पितृदेव॒त्य॑स् स्यात् ।   
+आरण्य᳓स्याश्ञाति - 
+इन्द्रियं᳓ [23]  वा᳓ आरण्य᳓म्, 
 
-आ॒र॒ण्यस्या॑श्ञाति॒ - 
-इ॒न्द्रि॒यं [23]  वा आ॑र॒ण्यम्, 
-
-इ॒न्द्रि॒यम् ए॒वाऽऽत्मन् ध॑त्ते ।   
+इन्द्रिय᳓म् एवा᳓ऽऽत्म᳓न् धत्ते ।   
 </details>
 
 <details><summary>Keith</summary>
 
 If be were to fast without eating, the Pitrs would be his divinity [3]; he eats of the wild, the wild is power, and so he bestows power upon himself. 
 </details>
+
 <details><summary>मूलम्</summary>
 
 यदना॑श्वानुप॒वसे॑त्   
@@ -518,15 +549,18 @@ _______
 
 5अथ द्वितीयोऽपामशनकल्पः - यदित्यादि ॥ 
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् अना॑श्वान् उप॒वसे॒त् - क्षोधु॑कस्+++(=बुभुक्षाशीलः)+++ स्यात्   ।   
-यद् अ॑श्ञी॒याद्  - रु॒द्रो॑ऽस्य प॒शून् अ॒भिम॑न्येत ।  
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+
+य᳓द् अ᳓नाश्वान् उपव᳓सेत् - क्षो᳓धुकस्+++(=बुभुक्षाशीलः)+++ स्यात्   ।   
+य᳓द् अश्ञीया᳓द्  - रुद्रो᳙ऽस्य पशू᳓न् अभि᳓मन्येत ।  
 </details>
+
 <details><summary>Keith</summary>
 
 If he were to fast without eating, he would be hungry; if he were to eat, Rudra would plan evil against his cattle; 
 </details>
+
 <details><summary>मूलम्</summary>
 
 यदना॑श्वानुप॒वसे॒त् क्षोधु॑कस्स्यात्   ।   
@@ -556,15 +590,17 @@ If he were to fast without eating, he would be hungry; if he were to eat, Rudra 
 अभिमन्येत हन्यात्।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒पो॑ऽश्ञाति॒ तन् नेवा॑शि॒तन् नेवान॑शित॒न् - न क्षोधु॑को॒ भव॑ति ।  
-नास्य॑ रु॒द्रᳶ प॒शून् अ॒भि म॑न्यते ।
+अपो᳙ऽश्ञाति त᳓न् ने᳓वाशित᳓न् ने᳓वा᳓नशितन् - न᳓ क्षो᳓धुको भ᳓वति ।  
+ना᳓स्य रुद्रᳶ᳓ पशू᳓न् अभि᳓ मन्यते ।
 </details>
+
 <details><summary>Keith</summary>
 
 he partakes of water; that is neither eaten nor not eaten; he is not hungry and Rudra does not plot evil against his cattle. 
 </details>
+
 <details><summary>मूलम्</summary>
 
 अ॒पो॑ऽश्ञाति॒    
@@ -572,6 +608,7 @@ he partakes of water; that is neither eaten nor not eaten; he is not hungry and 
 न क्षोधु॑को॒ भव॑ति ।  
 नास्य॑ रु॒द्रᳶ प॒शून॒भि म॑न्यते ।
 </details>
+
 <details><summary>पद-पाठः</summary>
 
 अ॒पः । अ॒श्ञा॒ति॒ ।  
@@ -599,17 +636,20 @@ _______
 
 6अथानशनकल्पः तृतीयः - वज्र इति ॥ 
 </details>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वज्रो॒ वै य॒ज्ञः ।  
-क्षुत् खलु॒ वै म॑नु॒ष्य॑स्य॒ भ्रातृ॑व्यः ।  
-यद् अना॑श्वान् उप॒वस॑ति॒    
-वज्रे॑णै॒व सा॒क्षात् क्षुध॒म् भ्रातृ॑व्यँ हन्ति ॥ [24]
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+
+व᳓ज्रो वै᳓ यज्ञः᳓ ।  
+क्षु᳓त् ख᳓लु वै᳓ मनुष्य᳙स्य भ्रा᳓तृव्यः ।  
+य᳓द् अ᳓नाश्वान् उपव᳓सति    
+व᳓ज्रेणैव᳓ साक्षा᳓त् क्षु᳓धम् भ्रा᳓तृव्यँ हन्ति ॥ [24]
 </details>
+
 <details><summary>Keith</summary>
 
 The sacrificer is a bolt, the enemy of man is hunger; in that he fasts without eating, he straightway smites with the bolt the enemy, hunger.
 </details>
+
 <details><summary>मूलम्</summary>
 
 वज्रो॒ वै य॒ज्ञः ।  

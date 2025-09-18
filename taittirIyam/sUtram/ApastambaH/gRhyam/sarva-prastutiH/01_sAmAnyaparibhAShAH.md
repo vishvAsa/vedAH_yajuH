@@ -6,15 +6,15 @@ title = "०१ सामान्यपरिभाषाः"
 
 ## ०१ ०१ अथ कर्माण्य्
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/01_sAmAnyaparibhAShAH/01_01_atha_karmANy.md">
-<details open><summary><h3>०१ ०१ अथ कर्माण्य् ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/01_sAmAnyaparibhAShAH/01_01_atha_karmANy.md">
 
 अथ कर्माण्य् आचाराद् यानि गृह्यन्ते।
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/01_sAmAnyaparibhAShAH/01_01_atha_karmANy.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 1. [^1]  Now (follow) the ceremonies (the knowledge of) which is derived from practice (and not from the Śruti).
@@ -79,26 +79,30 @@ title = "०१ सामान्यपरिभाषाः"
 तथा श्रौतानन्तरं गार्ह्याधिकारः श्रौतोक्तसार्वत्रिकधर्मामामिह प्राप्त्यर्थ इति ॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/01_sAmAnyaparibhAShAH/01_01_atha_karmANy.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 अथ कर्माण्य् आचाराद् यानि गृह्यन्ते।
 
 </details>
+
 </div>
 
 ## ०१ ०२ उदगयन-पूर्वपक्षाहः-पुण्याहेषु
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/01_sAmAnyaparibhAShAH/01_02_udagayana-pUrvapaxAhaH-puNyAheShu.md">
-<details open><summary><h3>०१ ०२ उदगयन-पूर्वपक्षाहः-पुण्याहेषु ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/01_sAmAnyaparibhAShAH/01_02_udagayana-pUrvapaxAhaH-puNyAheShu.md">
 
 उदगयन-पूर्वपक्षाहः-पुण्याहेषु कार्याणि।
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/01_sAmAnyaparibhAShAH/01_02_udagayana-pUrvapaxAhaH-puNyAheShu.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 2. They should be performed during the northern course of the sun, on days of the first fortnight (of the month), on auspicious days,
@@ -138,26 +142,30 @@ title = "०१ सामान्यपरिभाषाः"
 ज्योतिश्शास्त्रम् अपि (१) वेदाङ्गत्वाद् अगृह्यमाण-कारणत्वात्, शिष्ट-परिगृहीतत्वाच् च कल्पसूत्रादिवद् आदरणीयम् एव । निर्णये तु शिष्टाः प्रमाणं सर्वत्र ॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/01_sAmAnyaparibhAShAH/01_02_udagayana-pUrvapaxAhaH-puNyAheShu.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 उदगयन-पूर्वपक्षाहः-पुण्याहेषु कार्याणि।
 
 </details>
+
 </div>
 
 ## ०१ ०३ यज्ञोपवीतिना कार्याणि
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/01_sAmAnyaparibhAShAH/01_03_yajnopavItinA_kAryANi.md">
-<details open><summary><h3>०१ ०३ यज्ञोपवीतिना कार्याणि ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/01_sAmAnyaparibhAShAH/01_03_yajnopavItinA_kAryANi.md">
 
 +++(देवकर्मसु)+++ यज्ञोपवीतिना ।
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/01_sAmAnyaparibhAShAH/01_03_yajnopavItinA_kAryANi.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 3. With the sacrificial cord suspended over (the sacrificer's) left shoulder.
@@ -177,26 +185,30 @@ title = "०१ सामान्यपरिभाषाः"
 सत्यम्; यत्राप्राप्ति(२)र्हेमन्तप्रत्यवरोहणादिषु तत्रायं विधिस्सार्थ एव ॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/01_sAmAnyaparibhAShAH/01_03_yajnopavItinA_kAryANi.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 यज्ञोपवीतिना।
 
 </details>
+
 </div>
 
 ## ०१ ०४ प्रदक्षिणम् प्रदक्षिणम्
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/01_sAmAnyaparibhAShAH/01_04_pradaxiNam_pradaxiNam.md">
-<details open><summary><h3>०१ ०४ प्रदक्षिणम् प्रदक्षिणम् ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/01_sAmAnyaparibhAShAH/01_04_pradaxiNam_pradaxiNam.md">
 
 प्रदक्षिणम्।
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/01_sAmAnyaparibhAShAH/01_04_pradaxiNam_pradaxiNam.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 4. (The rites should be performed) from left to right.
@@ -217,26 +229,30 @@ title = "०१ सामान्यपरिभाषाः"
 "तथापवर्गः" (आप.गृ.१–६.) इति चेत्थमेव ॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/01_sAmAnyaparibhAShAH/01_04_pradaxiNam_pradaxiNam.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 प्रदक्षिणम्।
 
 </details>
+
 </div>
 
 ## ०१ ०५ पुरस्तादुदग्वोपक्रमः अनियमे
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/01_sAmAnyaparibhAShAH/01_05_purastAdudagvopakramaH_aniyame.md">
-<details open><summary><h3>०१ ०५ पुरस्तादुदग्वोपक्रमः अनियमे ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/01_sAmAnyaparibhAShAH/01_05_purastAdudagvopakramaH_aniyame.md">
 
 +++(देवकर्मसु)+++ पुरस्तादुदग्वोपक्रमः
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/01_sAmAnyaparibhAShAH/01_05_purastAdudagvopakramaH_aniyame.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 5. The beginning should be made on the east side or on the north side,
@@ -255,26 +271,30 @@ title = "०१ सामान्यपरिभाषाः"
 अयं तु सर्वेष्वपि यज्ञायज्ञरूपगार्ह्येष्वप्राप्तत्वाद्विधीयते ॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/01_sAmAnyaparibhAShAH/01_05_purastAdudagvopakramaH_aniyame.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 पुरस्तादुदग्वोपक्रमः।
 
 </details>
+
 </div>
 
 ## ०१ ०६ तथाऽपवर्गः तेषामपवर्गोऽपि
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/01_sAmAnyaparibhAShAH/01_06_tathA-pavargaH_teShAmapavargo-pi.md">
-<details open><summary><h3>०१ ०६ तथाऽपवर्गः तेषामपवर्गोऽपि ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/01_sAmAnyaparibhAShAH/01_06_tathA-pavargaH_teShAmapavargo-pi.md">
 
 तथाऽपवर्गः।
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/01_sAmAnyaparibhAShAH/01_06_tathA-pavargaH_teShAmapavargo-pi.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 6. And also the end.
@@ -304,26 +324,30 @@ title = "०१ सामान्यपरिभाषाः"
 केचित्—प्राचीनानां लेखानामुदगुपक्रमः, उदीचीनां च प्रागपवर्गः, अग्निपरिस्तरणवदुभयविध्यसम्भवात्(२) इति ॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/01_sAmAnyaparibhAShAH/01_06_tathA-pavargaH_teShAmapavargo-pi.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 तथाऽपवर्गः।
 
 </details>
+
 </div>
 
 ## ०१ ०७ अपरपक्षे पित्र्याणि
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/01_sAmAnyaparibhAShAH/01_07_aparapaxe_pitryANi.md">
-<details open><summary><h3>०१ ०७ अपरपक्षे पित्र्याणि ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/01_sAmAnyaparibhAShAH/01_07_aparapaxe_pitryANi.md">
 
 अपरपक्षे पित्र्याणि।
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/01_sAmAnyaparibhAShAH/01_07_aparapaxe_pitryANi.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 7. [^2]  Ceremonies belonging to the Fathers (are performed) in the second fortnight (of the month),
@@ -341,26 +365,30 @@ title = "०१ सामान्यपरिभाषाः"
 +++(सम्पादकटिप्पनी - इदम् सूत्रम् दशमे व्याख्यातम्।)+++
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/01_sAmAnyaparibhAShAH/01_07_aparapaxe_pitryANi.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 अपरपक्षे पित्र्याणि।
 
 </details>
+
 </div>
 
 ## ०१ ०८ प्राचीनावीतिना
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/01_sAmAnyaparibhAShAH/01_08_prAchInAvItinA.md">
-<details open><summary><h3>०१ ०८ प्राचीनावीतिना ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/01_sAmAnyaparibhAShAH/01_08_prAchInAvItinA.md">
 
 +++(पित्र्येषु)+++ प्राचीनावीतिना ८
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/01_sAmAnyaparibhAShAH/01_08_prAchInAvItinA.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 8. With the sacrificial cord suspended over the right shoulder,
@@ -376,26 +404,30 @@ title = "०१ सामान्यपरिभाषाः"
 +++(सम्पादकटिप्पनी - इदम् सूत्रम् दशमे व्याख्यातम्।)+++
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/01_sAmAnyaparibhAShAH/01_08_prAchInAvItinA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 प्राचीनावीतिना।
 
 </details>
+
 </div>
 
 ## ०१ ०९ प्रसव्यम्
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/01_sAmAnyaparibhAShAH/01_09_prasavyam.md">
-<details open><summary><h3>०१ ०९ प्रसव्यम् ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/01_sAmAnyaparibhAShAH/01_09_prasavyam.md">
 
 +++(पित्र्येषु)+++ प्रसव्यम् ९
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/01_sAmAnyaparibhAShAH/01_09_prasavyam.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 9. From right to left,
@@ -411,26 +443,30 @@ title = "०१ सामान्यपरिभाषाः"
 +++(सम्पादकटिप्पनी - इदम् सूत्रम् दशमे व्याख्यातम्।)+++
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/01_sAmAnyaparibhAShAH/01_09_prasavyam.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 प्रसव्यम्।
 
 </details>
+
 </div>
 
 ## ०१ १० दक्षिणतोऽपवर्गः
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/01_sAmAnyaparibhAShAH/01_10_daxiNato-pavargaH.md">
-<details open><summary><h3>०१ १० दक्षिणतोऽपवर्गः ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/01_sAmAnyaparibhAShAH/01_10_daxiNato-pavargaH.md">
 
 दक्षिणतोऽपवर्गः।
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/01_sAmAnyaparibhAShAH/01_10_daxiNato-pavargaH.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 10. Ending in the south.
@@ -529,26 +565,30 @@ title = "०१ सामान्यपरिभाषाः"
 "प्राचीनावीतिना प्रसव्यं दक्षिणतोऽपवर्ग" इति पूर्वसूत्रेण सम्बन्धः ।
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/01_sAmAnyaparibhAShAH/01_10_daxiNato-pavargaH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 दक्षिणतोऽपवर्गः।
 
 </details>
+
 </div>
 
 ## ०१ ११ निमित्तावेक्षाणि नैमित्तिकानि
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/01_sAmAnyaparibhAShAH/01_11_nimittAvexANi_naimittikAni.md">
-<details open><summary><h3>०१ ११ निमित्तावेक्षाणि नैमित्तिकानि ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/01_sAmAnyaparibhAShAH/01_11_nimittAvexANi_naimittikAni.md">
 
 निमित्तावेक्षाणि नैमित्तिकानि।
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/01_sAmAnyaparibhAShAH/01_11_nimittAvexANi_naimittikAni.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 11. Ceremonies occasioned by special occurrences (are performed) according as their occasions demand.
@@ -572,11 +612,15 @@ title = "०१ सामान्यपरिभाषाः"
 अत्रापि सम्भवतः पूर्व-पक्षादेर् नापवादः ॥११॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/01_sAmAnyaparibhAShAH/01_11_nimittAvexANi_naimittikAni.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 निमित्तावेक्षाणि नैमित्तिकानि।
 
 </details>
+
 </div>

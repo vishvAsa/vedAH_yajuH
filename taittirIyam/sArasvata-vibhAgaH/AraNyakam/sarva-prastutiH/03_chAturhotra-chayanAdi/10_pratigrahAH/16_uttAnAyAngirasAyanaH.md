@@ -7,7 +7,7 @@ title = "१६ उत्तानायाङ्गिरसायनः"
 
 उ॒त्ता॒नाया॑ङ्गीर॒सायानः॑ ।  
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarva-prastutiH/03_chAturhotra-chayanAdi/10_pratigrahAH/devasya_tvA_savituH__pratigRhNAmi.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarva-prastutiH/03_chAturhotra-chayanAdi/10_pratigrahAH/devasya_tvA_savituH__pratigRhNAmi.md">
 <details open><summary><h5>दे॒वस्य॑ त्वा सवि॒तुः प्रति॑गृह्णामि ...{Loading}...</h5></summary>
 <details><summary>मूलम् (संयुक्तम् आरण्यके)</summary>
 
@@ -19,9 +19,9 @@ title = "१६ उत्तानायाङ्गिरसायनः"
 <details open><summary><h10>देवस्य त्वा सवितुः ...{Loading}...</h10></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे॒॑+++(=अनुज्ञायां)+++,  
-+++(देवाध्वर्यू→)+++ ऽश्विनो॑र् बा॒हुभ्या॑म्,  
-पू॒ष्णो हस्ता॑भ्याम्…
+देव᳓स्य त्वा सवितुᳶ᳓ प्रसवे᳓+++(=अनुज्ञायां)+++,  
++++(देवाध्वर्यू→)+++ ऽश्वि᳓नोर् बाहु᳓भ्याम्,  
+पूष्णो᳓ ह᳓स्ताभ्याम्…
 </details>
 
 <details><summary>Keith</summary>
@@ -59,7 +59,7 @@ ______________
 </div>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रति॑गृह्णामि
+प्र᳓तिगृह्णामि
 </details>
 
 <details><summary>मूलम्</summary>
@@ -70,8 +70,8 @@ ______________
 </div>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-राजा॑ त्वा॒ वरु॑णो नयतु  
-देवि दक्षिण उत्ता॒नाया॑ङ्गीर॒सायानः॑ ।
+रा᳓जा त्वा व᳓रुणो नयतु  
+देवि दक्षिण उत्ताना᳓याङ्गीरसा᳓या᳓नः ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -84,13 +84,13 @@ ______________
 
 हे हिरण्यात्मिके ! देवि! दक्षिणे! राजा वरुणः त्वां ... नयतु । तच्चेयमिष्टकाऽस्ति ।
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarva-prastutiH/03_chAturhotra-chayanAdi/10_pratigrahAH/tenAmRtatvam_ashyAm.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarva-prastutiH/03_chAturhotra-chayanAdi/10_pratigrahAH/tenAmRtatvam_ashyAm.md">
 <details open><summary><h5>तेना॑मृत॒त्वम॑श्याम् ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तेना॑मृत॒त्वम॑श्याम् ।  
-वयो॑+++(=अन्नम्)+++ दा॒त्रे ।  
-मयो॒ मह्य॑म् अस्तु प्रतिग्रही॒त्रे ।
+ते᳓नामृतत्व᳓मश्याम् ।  
+व᳓यो+++(=अन्नम्)+++ दात्रे᳓ ।  
+म᳓यो म᳓ह्यम् अस्तु प्रतिग्रहीत्रे᳓ ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -108,8 +108,8 @@ ______________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-क इ॒दङ्कस्मा॑ अदात् ।  
-कामः॒ कामा॑य ।
+क᳓ इद᳓ङ्क᳓स्मा अदात् ।  
+का᳓मः का᳓माय ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -126,9 +126,9 @@ ______________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कामो॑ दा॒ता ।  
+का᳓मो दाता᳓ ।  
 (15)  
-कामः॑ प्रतिग्रही॒ता ।
+का᳓मः प्रतिग्रहीता᳓ ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -141,8 +141,8 @@ ______________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कामँ॑ समु॒द्रम् आवि॑श ।  
-कामे॑न त्वा॒ प्रति॑गृह्णामि ।
+का᳓मँ समुद्र᳓म् आ᳓विश ।  
+का᳓मेन त्वा प्र᳓तिगृह्णामि ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -158,8 +158,8 @@ ______________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कामै॒तत् ते॑ ।  
-ए॒षा ते॑ काम॒ दक्षि॑णा ।
+का᳓मैत᳓त् ते ।  
+एषा᳓ ते काम द᳓क्षिणा ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -179,7 +179,7 @@ ______________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒त्ता॒नस् त्वा॑ङ्गीर॒सः प्रति॑गृह्णातु ।
+उत्तान᳓स् त्वाङ्गीरसः᳓ प्र᳓तिगृह्णातु ।
 </details>
 
 <details><summary>मूलम्</summary>

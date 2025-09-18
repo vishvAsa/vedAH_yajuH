@@ -21,7 +21,26 @@ title = "०६ ब्रह्म-यज्ञ-क्रमः"
 
 इति सात्त्विक-त्यागं कृत्वा
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/mantraH/yajuH/vidyudasi.md" unfilled newLevelForH1="5" includeTitle="false"> विद्यु॑दसि॒विद्य॑मेपा॒प्मान॒मृता॑त्स॒त्यमुपै॑मी
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/mantraH/yajuH/vidyudasi.md">
+
+#####  …{Loading}…
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वि᳓द्युद् असि,  
+वि᳓द्य मे पाप्मा᳓नम्, 
+ऋता᳓त् सत्य᳓म् उ᳓पैमि॥  
+म᳓यि श्रद्धा᳓। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+विद्यु॑द् असि॒,  
+विद्य॑ मे पा॒प्मान॑म्, 
+ऋ॒तात् स॒त्यम् उपै॑मि॥
+मयि॑ श्र॒द्धा।
+</details>
+
 </div>  
  
 
@@ -38,7 +57,6 @@ title = "०६ ब्रह्म-यज्ञ-क्रमः"
 "ॐ भूः  
 ॐ भवः  
 ओँ सुवः" इति व्याहृति-त्रयम् उक्ता  
-
 
 > ॐ तत्सवितुर्वरेणियम्  
 ॐ भर्गो देवस्य धीमहि  

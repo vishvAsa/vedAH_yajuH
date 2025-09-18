@@ -7,7 +7,7 @@ _______
 
 1 सन्ति वृष्टयो नाम षोडशेष्टकाः 'इयमेव सा या' इत्याद्याः । तासामियं षोडशी ईयुष्ट इति त्रिष्टुप् ॥ 
 </details>
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/113/11_IyuShTe_ye.md">
+<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/113/11_IyuShTe_ye.md">
 <details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 +++(पूर्वजाः)+++ **ईयु᳓ष् टे᳓ ये᳓** पू᳓र्वतराम् **अ᳓पश्यन्**  
@@ -16,8 +16,9 @@ _______
 आ᳓+उ᳓ ते᳓ +++(प्रजाः)+++ **यन्ति ये᳓ अपरी᳓षु+++(=अनागतासु)+++ प᳓श्यान्** ॥
 
 </details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/113/11_IyuShTe_ye.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/113/11_IyuShTe_ye.md">
 <details open><summary><h5>011 ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 

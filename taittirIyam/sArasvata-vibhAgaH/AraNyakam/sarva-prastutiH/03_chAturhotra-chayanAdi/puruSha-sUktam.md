@@ -3,7 +3,7 @@ title = "पुरुस्ह-सुक्तम् पुरुष-सूक�
 
 +++
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/12_sahasra-shIrShA/">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/12_sahasra-shIrShA/">
 <details open><summary><h5>१२ सहस्र-शीर्षा ...{Loading}...</h5></summary>
 <div class="js_include" newlevelforh1="2" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/090/_index.md">
 <details open><summary><h7>सर्वाष् टीकाः ...{Loading}...</h7></summary>
@@ -87,6 +87,7 @@ The identity of the Sādhyas (in vss. 7 and 16) is not clear. Their name means  
 +++(मुख-मूर्ध्नोर् अन्तरं दशाङ्गुलम्, वाचिक+अव्यक्त-कल्पनयोश् चेति केचित्।)+++
 
 </details>
+
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/090/01_sahasrashIrShA_puruShaH.md">
 <details><summary><h8>मूलम् ...{Loading}...</h8></summary>
@@ -366,6 +367,7 @@ Tausendköpfig war der Urmensch, tausendäugig, tausendfüssig; nachdem er die E
 य᳓द्+++(→यस्माद्)+++ +++(ब्रह्माण्डरूपेण)+++ अ᳓न्नेन+++(=अशितेन)+++ +**अतिरो᳓हति** । ३
 
 </details>
+
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/090/02_puruSha_evedaM.md">
 <details><summary><h8>मूलम् ...{Loading}...</h8></summary>
@@ -663,6 +665,7 @@ Der Urmensch ist alles dies, was gewesen ist, und was sein wird; er gebietet üb
 **पा᳓दोऽस्य वि᳓श्वा भूता᳓नि** ।  
 +++(अवशिष्टस्)+++ **त्रिपा᳓द्** +++(अंशः पर-देवतापूर्णः)+++ **अस्यामृ᳓तं** +++(=अविनाशी)+++ दिवि᳓+++(=परमे व्योम्नि)+++ । 
 </details>
+
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/090/03_etAvAnasya_mahimAto.md">
 <details><summary><h8>मूलम् ...{Loading}...</h8></summary>
@@ -947,6 +950,7 @@ So bedeutend ist seine Grösse, und noch grösser ist der Urmensch; ein Viertel 
 साशनानशने᳓+++(=जीवाजीवे [वस्तू])+++ अभि᳓+++(लक्ष्य)+++ । ४
 
 </details>
+
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/090/04_tripAdUrdhva_udaitpuruShaH.md">
 <details><summary><h8>मूलम् ...{Loading}...</h8></summary>
@@ -1270,6 +1274,7 @@ Mit drei Vierteln ging der Urmensch oben hinauf, ein Viertel von ihm erschien wi
 +++(क्वेति चेत् -)+++ पश्चा᳓द् +++(विराजम्)+++ भू᳓मिम् अ᳓थो +++(जीवानाम्)+++ पुरः᳓+++(=पूर्वम्)+++। ५
 
 </details>
+
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/090/05_tasmAdvirALajAyata_virAjo.md">
 <details><summary><h8>मूलम् ...{Loading}...</h8></summary>
@@ -1572,6 +1577,7 @@ Von ihm ward der Allherrscher [virâj] geboren und vom Allherrscher der Urmensch
 ग्रीष्म᳓ इध्मः᳓ शर᳓द् +++(अन्नादिरूपम्)+++ +हविः᳓ । ६
 
 </details>
+
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/090/06_yatpuruSheNa_haviShA.md">
 <details><summary><h8>मूलम् ...{Loading}...</h8></summary>
@@ -1840,6 +1846,7 @@ Als die Götter ihr Opfer mit dem Urmenschen als dem Opfertrank kunstvoll bereit
 **अ᳓बध्नन्** +++(एकपात्)+++ पु᳓रुषं पशु᳓म् । ७
 
 </details>
+
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/090/07_saptAsyAsanparidhayastriH_sapta.md">
 <details><summary><h8>मूलम् ...{Loading}...</h8></summary>
@@ -2121,6 +2128,7 @@ Diesen zuerst geborenen Urmenschen benetzten sie als ihr Opfer auf der heiligen 
 अ᳓य᳓ज᳓न्त᳓ इ᳓त्य᳓त्र᳓ - अ᳓का᳓र᳓ उ᳓दा᳓त्तः᳓ तै᳓त्ति᳓री᳓ये᳓ - 'च᳓वा᳓यो᳓गे᳓ प्र᳓थ᳓मा᳓'।
 </details>
 </details>
+
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/090/08_taM_yajnaM.md">
 <details><summary><h8>मूलम् ...{Loading}...</h8></summary>
@@ -2406,6 +2414,7 @@ Aus diesem vollständig dargebrachten Opfer sammelte sich das triefende Opfersch
 आरण्या᳓न् ग्राम्याँ᳓श् च ये᳓ । ९  
 
 </details>
+
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/090/09_tasmAdyajnAtsarvahutaH_sambhRtaM.md">
 <details><summary><h8>मूलम् ...{Loading}...</h8></summary>
@@ -2774,6 +2783,7 @@ Aus diesem vollständig dargebrachten Opfer entsprangen die Hymnen [des Rig-Veda
 छ᳓न्दांसि जज्ञिरे त᳓स्माद्  
 य᳓जुस् त᳓स्माद् अजायत
 </details>
+
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/090/10_tasmAdyajnAtsarvahuta_RchaH.md">
 <details><summary><h8>मूलम् ...{Loading}...</h8></summary>
@@ -3079,6 +3089,7 @@ Aus ihm entsprangen die Rosse und alle mit zwei Zahnreihen versehenen Thiere; au
 त᳓स्माज् **जाता᳓** अजाव᳓यः । ११
 
 </details>
+
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/090/11_tasmAdashvA_ajAyanta.md">
 <details><summary><h8>मूलम् ...{Loading}...</h8></summary>
@@ -3345,6 +3356,7 @@ Als sie den Urmenschen umgestalteten, wie vielfach wandelten sie ihn um? Was war
 का᳓व् ऊरू᳓ पा᳓दाव् **उच्येते** ? १२
 
 </details>
+
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/090/12_yatpuruShaM_vyadadhuH.md">
 <details><summary><h8>मूलम् ...{Loading}...</h8></summary>
@@ -3613,6 +3625,7 @@ Sein Mund ward zum Brahmanen, seine Arme zum Rādschanja, seine Schenkel zum Vai
 ऊरू᳓ त᳓द् अस्य य᳓द् वइ᳓श्यः  
 पद्भ्यां᳓ शूद्रो᳓ अजायत
 </details>
+
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/090/13_brAhmaNo_asya_mukhamAsIdbAhU.md">
 <details><summary><h8>मूलम् ...{Loading}...</h8></summary>
@@ -3894,6 +3907,7 @@ Aus seinem Geiste entsprang der Mond, aus seinem Auge die Sonne, aus seinem Mund
 प्राणा᳓द् वायु᳓र् **अजायत** । १४  
 
 </details>
+
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/090/14_chandramA_manaso.md">
 <details><summary><h8>मूलम् ...{Loading}...</h8></summary>
@@ -4168,6 +4182,7 @@ Aus seinem Nabel ward die Luft, aus seinem Kopf entstand der Himmel, aus seinen 
 त᳓था लोकाँ᳓ **अकल्पयन्** । १५
 
 </details>
+
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/090/15_nAbhyA_AsIdantarixaM.md">
 <details><summary><h8>मूलम् ...{Loading}...</h8></summary>
@@ -4501,6 +4516,7 @@ Sieben Umschlusshölzer waren ihm, dreimal sieben Schichten des Brennholzes wurd
 यत्र पू᳓र्वे +++(नानापात्रेषु पश्चात्)+++ साध्याः᳓ **स᳓न्ति** देवाः᳓ । १८
 
 </details>
+
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/090/16_yajnena_yajnamayajanta.md">
 <details><summary><h8>मूलम् ...{Loading}...</h8></summary>
@@ -4834,7 +4850,7 @@ Durch Opfer opferten die Götter das Opfer; das waren die ersten Bräuche; sie, 
 
 [[71]]
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/13_adbhyas_sambhUtaH/">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/13_adbhyas_sambhUtaH/">
 <details open><summary><h5>१३ अद्भ्यस् सम्भूतः ...{Loading}...</h5></summary>
 
 - सायणो [ऽत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_036_Taittiriya_Aranyakam_With_Sayana_Bhashya_Part_1_-_Babasastri_Phadke_1898#page/n197/mode/1up) ।
@@ -4846,11 +4862,12 @@ Durch Opfer opferten die Götter das Opfer; das waren die ersten Bräuche; sie, 
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/03_chAturhotra-chayanAdi/13_adbhyas_sambhUtaH/02_adbhyaH_sambhUtaH.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
-अ॒द्भ्यः संभू॑तः पृथि॒व्यै+++(व्याः)+++ रसा॑च् च +++(विराट् ब्रह्माण्डरूपः)+++।  
-वि॒श्व-क॑र्मणः॒+++(=परिपूर्णपुरुषात् पुरुषसूक्तोक्तात्)+++ सम॑वर्त॒ताधि॑ ।  
-तस्य॒ त्वष्टा॑+++(=त्रिपात् पुरुषः)+++ वि॒दध॑द् रू॒पम् ए॑ति ।  
-तत् पुरु॑षस्य॒ विश्व॒म् आजा॑न॒म् अग्रे॑ । १
+अद्भ्यः᳓ सं᳓भूतः पृथिव्यै᳓+++(व्याः)+++ र᳓साच् च +++(विराट् ब्रह्माण्डरूपः)+++।  
+विश्व᳓-कर्मणः+++(=परिपूर्णपुरुषात् पुरुषसूक्तोक्तात्)+++ स᳓मवर्तता᳓धि ।  
+त᳓स्य त्व᳓ष्टा+++(=त्रिपात् पुरुषः)+++ विद᳓धद् रूप᳓म् एति ।  
+त᳓त् पु᳓रुषस्य वि᳓श्वम् आ᳓जानम् अ᳓ग्रे । १
 </details>
+
 </div>
 <div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/03_chAturhotra-chayanAdi/13_adbhyas_sambhUtaH/02_adbhyaH_sambhUtaH.md">
 <details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
@@ -4869,11 +4886,12 @@ Durch Opfer opferten die Götter das Opfer; das waren die ersten Bräuche; sie, 
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/03_chAturhotra-chayanAdi/13_adbhyas_sambhUtaH/03_vedAham_etam.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
-वेदा॒हम् ए॒तं पुरु॑षं म॒हान्त॑म् ।  
-आ॒दि॒त्य-व॑र्णं॒ तम॑सः॒ पर॑स्तात् ।  
-तम् ए॒वं वि॒द्वान् अ॒मृत॑ इ॒ह भ॑वति ।  
-नान्यः पन्था॑ विद्य॒तेय॑ऽनाय । २
+वे᳓दाह᳓म् एतं᳓ पु᳓रुषं महा᳓न्तम् ।  
+आदित्य᳓-वर्णं त᳓मसः प᳓रस्तात् ।  
+त᳓म् एवं᳓ विद्वा᳓न् अमृ᳓त इह᳓ भवति ।  
+ना᳓न्यः᳓ प᳓न्था विद्यते᳓यऽनाय । २
 </details>
+
 </div>
 <div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/03_chAturhotra-chayanAdi/13_adbhyas_sambhUtaH/03_vedAham_etam.md">
 <details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
@@ -4892,11 +4910,12 @@ Durch Opfer opferten die Götter das Opfer; das waren die ersten Bräuche; sie, 
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/03_chAturhotra-chayanAdi/13_adbhyas_sambhUtaH/04_prajApatish_charati.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
-+++(त्रिपात्)+++ प्र॒जाप॑तिश् चरति॒ गर्भे॑ अ॒न्तः ।  
-अ॒जाय॑मानो बहु॒धा विजा॑यते +++(सहस्रशीर्षा!)+++।  
-तस्य॒ धीराः॒ परि॑जानन्ति॒ योनि॑म् ।  
-मरी॑चीनां +++(ऋषीणां)+++ प॒दम् इ॑च्छन्ति वे॒धसः॑ +++(त्रिपादश् [च])+++। ३
++++(त्रिपात्)+++ प्रजा᳓पतिश् चरति ग᳓र्भे अन्तः᳓ ।  
+अजा᳓यमानो बहुधा᳓ वि᳓जायते +++(सहस्रशीर्षा!)+++।  
+त᳓स्य धी᳓राः प᳓रिजानन्ति यो᳓निम् ।  
+म᳓रीचीनां +++(ऋषीणां)+++ पद᳓म् इच्छन्ति वेध᳓सः +++(त्रिपादश् [च])+++। ३
 </details>
+
 </div>
 <div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/03_chAturhotra-chayanAdi/13_adbhyas_sambhUtaH/04_prajApatish_charati.md">
 <details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
@@ -4916,11 +4935,12 @@ Durch Opfer opferten die Götter das Opfer; das waren die ersten Bräuche; sie, 
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/03_chAturhotra-chayanAdi/13_adbhyas_sambhUtaH/05_yo_devebhya.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
-यो दे॒वेभ्य॑ आ॒तप॑ति+++(=काशते, माध्यन्दिनतः)+++ ।  
-यो दे॒वानां॑ पु॒रोहि॑तः ।  
-पूर्वो॒ यो दे॒वेभ्यो॑ जा॒तः ।  
-नमो॑ रु॒चाय॒+++(=रोचमानाय)+++ ब्राह्म॑ये+++(=वेदवेद्याय परिपूर्णपुरुषाय)+++ । ४
+यो᳓ देवे᳓भ्य आत᳓पति+++(=काशते, माध्यन्दिनतः)+++ ।  
+यो᳓ देवा᳓नां पुरो᳓हितः ।  
+पू᳓र्वो यो᳓ देवे᳓भ्यो जातः᳓ ।  
+न᳓मो रुचा᳓य+++(=रोचमानाय)+++ ब्रा᳓ह्मये+++(=वेदवेद्याय परिपूर्णपुरुषाय)+++ । ४
 </details>
+
 </div>
 <div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/03_chAturhotra-chayanAdi/13_adbhyas_sambhUtaH/05_yo_devebhya.md">
 <details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
@@ -4941,11 +4961,12 @@ Durch Opfer opferten die Götter das Opfer; das waren die ersten Bräuche; sie, 
 <div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/03_chAturhotra-chayanAdi/13_adbhyas_sambhUtaH/06_ruchaM_brAhmam.md">
 <details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
 
-रुचं॑ ब्रा॒ह्मम् **ज॒नय॑न्तः** +++(विद्यया)+++।  
-दे॒वा अग्रे॒ तद् अ॑ब्रुवन् ।  
-यस् त्वा॒ +ए॒वं ब्रा॑ह्म॒णो **वि॒द्यात्** -  
-तस्य॑ दे॒वा **अस॒न्**+++(~~अ॑सन्~~)+++ वशे॑ । ५
+रु᳓चं ब्राह्म᳓म् **जन᳓यन्तः** +++(विद्यया)+++।  
+देवा᳓ अ᳓ग्रे त᳓द् अब्रुवन् ।  
+य᳓स् त्वा +एवं᳓ ब्राह्मणो᳓ **विद्या᳓त्** -  
+त᳓स्य देवा᳓ **अ᳓सन्**+++(~~असन्~~)+++ व᳓शे । ५
 </details>
+
 </div>
 <div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/03_chAturhotra-chayanAdi/13_adbhyas_sambhUtaH/06_ruchaM_brAhmam.md">
 <details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
@@ -4966,13 +4987,13 @@ Durch Opfer opferten die Götter das Opfer; das waren die ersten Bräuche; sie, 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ह्रीश् च॑ ते ल॒क्ष्मीश् च॒ पत्न्यौ॑ ।  
-अ॒हो॒रा॒त्रे पा॒र्श्वे ।  
-नक्ष॑त्राणि रू॒पम् ।  
-अ॒श्विनौ॒ व्यात्त॑म् +++(=मुखम्)+++ ।  
+ह्री᳓श् च ते लक्ष्मी᳓श् च प᳓त्न्यौ ।  
+अहोरात्रे᳓ पार्श्वे᳓ ।  
+न᳓क्षत्राणि रूप᳓म् ।  
+अश्वि᳓नौ व्या᳓त्तम् +++(=मुखम्)+++ ।  
 +++(अश्विनयोः खल्ववर्तत विशुवस्थानम् पुरा।)+++
 
-इ॒ष्टम् म॑निषाण+++(=यच्छ)+++ । अ॒मुं +++(स्वर्लोकं)+++ म॑निषाण ।  सर्व॑म्  मनिषाण । ६
+इष्ट᳓म् मनिषाण+++(=यच्छ)+++ । अमुं᳓ +++(स्वर्लोकं)+++ मनिषाण ।  स᳓र्वम्  मनिषाण । ६
 </details>
 
 <details><summary>मूलम्</summary>

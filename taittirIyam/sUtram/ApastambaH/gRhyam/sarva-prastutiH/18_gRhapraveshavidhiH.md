@@ -6,13 +6,11 @@ title = "१८ गृहप्रवेशविधिः"
 
 ## १७ ०७ पालाशं शमीमयम्
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/18_gRhapraveshavidhiH/17_07_pAlAshaM_shamImayam.md">
-<details open><summary><h3>१७ ०७ पालाशं शमीमयम् ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/18_gRhapraveshavidhiH/17_07_pAlAshaM_shamImayam.md">
 
 पालाशं शमीमयं वेध्मम् +++(पाकाग्वाव्)+++ आदीप्योत्तरयर्चा +++("उद्ध्रियमाण"इत्येतया पञ्चपादया)+++ ऽग्निम् उद्धृत्य  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/12_uddhriyamANa_uddhara.md">
-<details open><summary><h5>१२ उद्ध्रियमाण उद्धर ...{Loading}...</h5></summary>
 
 उ॒द्ध्रि॒यमा॑ण॒ उद्ध॑र पा॒प्मनो॑ मा॒  
 यद् अवि॑द्वा॒न् यच् च॑ वि॒द्वाँश् च॒कार॑ ।  
@@ -20,7 +18,6 @@ title = "१८ गृहप्रवेशविधिः"
 +++(अहनि प्रवेशे)+++ रात्र्या॒ यद् एनः॑ कृ॒तम् अ॑स्ति पा॒पँ  
 सर्व॑स्मा॒न् मोद्धृ॒तो +++(त्वम्)+++ मु॑ञ्च॒ तस्मा॑त् ।  
 
-</details>
 </div>
 
 __________________
@@ -28,12 +25,10 @@ __________________
 उत्तरेण यजुषा +++("इन्द्र स्य गृहा वसुमन्तो वरूथिनः")+++ ऽगारं प्रपाद्य  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/13_indrasya_gRhA.md">
-<details open><summary><h5>१३ इन्द्रस्य गृहा ...{Loading}...</h5></summary>
 
 इन्द्र॑स्य +++(मम)+++ गृ॒हा वसु॑मन्तो वरू॒थिन॒स्+++(=गृह[+अवयवा])+++ -  
 तान् अ॒हँ सु॒मन॑सः॒ प्रप॑द्ये ।  
 
-</details>
 </div>
 
 __________________
@@ -41,7 +36,6 @@ __________________
 उत्तरपूर्वदेशे ऽगारस्योत्तरया +++("अमृताहुति"मित्यनया)+++ ऽग्निं प्रतिष्ठापयति ७
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/14_amRtAhutimamRtAyAnjuhomyagnim_pRthivyAmamRtasya.md">
-<details open><summary><h5>१४ अमृताहुतिममृतायाञ्जुहोम्यग्निम् पृथिव्याममृतस्य ...{Loading}...</h5></summary>
 
 अ॒मृ॒ता॒हु॒तिम् अ॒मृता॑याञ् जुहोम्य्+++(→स्थापयामि)+++  
 अ॒ग्निं पृ॑थि॒व्याम् अ॒मृत॑स्य॒ जित्यै॑ ।  
@@ -50,12 +44,13 @@ __________________
 +अ॒ग्निम् अ॑ग्नौ॒+++(→पृथिव्यां)+++ स्वाहा॑ ।  
 +++(इयं वा अग्निर्वैश्वानरः इति श्रुतेः।)+++
 
-</details>
 </div>
-</details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/18_gRhapraveshavidhiH/17_07_pAlAshaM_shamImayam.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 7. He sets a piece of Palāśa wood or of Śamī wood on fire, takes the fire up (in a dish) with the next verse (II, 15, 12), carries it to the house with the next Yajus (II, 15, 13), and places the fire in the north-eastern part of the house with the next (II, 15, 14).
@@ -141,26 +136,30 @@ ________________________
 पुनरुक्तिः स्फुटार्थतयापि निर्वाह्या । किञ्चागारस्याग्निम् इत्य् अन्वयेऽपि अगाराग्निः शालाग्निः, गृह्याग्निर् औपासनाग्निर् इत्येकार्थतया याज्ञिकानां प्रयोगाद् औपासन एव प्रतिष्ठाप्यः, न पचनाग्निः ॥७॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/18_gRhapraveshavidhiH/17_07_pAlAshaM_shamImayam.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 पालाशं शमीमयं वेध्ममादीप्योत्तरयर्चाऽग्निम् उद्धृत्योत्तरेण यजुषाऽगारं प्रपाद्योत्तर-पूर्वदेशे ऽगारस्योत्तरयाऽग्निं प्रतिष्ठापयति।
 
 </details>
+
 </div>
 
 ## १७ ०८ तस्माद्दक्षिणमुदधानायतनम् भवति
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/18_gRhapraveshavidhiH/17_08_tasmAddaxiNamudadhAnAyatanam_bhavati.md">
-<details open><summary><h3>१७ ०८ तस्माद्दक्षिणमुदधानायतनम् भवति ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/18_gRhapraveshavidhiH/17_08_tasmAddaxiNamudadhAnAyatanam_bhavati.md">
 
 तस्माद् दक्षिणम् उदधानायतनं भवति ८  
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/18_gRhapraveshavidhiH/17_08_tasmAddaxiNamudadhAnAyatanam_bhavati.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 8. The place for the water-barrel is to the south of that spot.
@@ -178,36 +177,39 @@ ________________________
 **तस्मात्** प्रतिष्ठिताग्नेर्दक्षिण**मुदधानस्य** मणिकस्या**यतनं** भवति ॥८॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/18_gRhapraveshavidhiH/17_08_tasmAddaxiNamudadhAnAyatanam_bhavati.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 तस्माद्दक्षिणमुदधानायतनं भवति।
 
 </details>
+
 </div>
 
 ## १७ ०९ तस्मिन्विषूचीनाग्रान् दर्भान्
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/18_gRhapraveshavidhiH/17_09_tasminviShUchInAgrAn_darbhAn.md">
-<details open><summary><h3>१७ ०९ तस्मिन्विषूचीनाग्रान् दर्भान् ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/18_gRhapraveshavidhiH/17_09_tasminviShUchInAgrAn_darbhAn.md">
 
 तस्मिन् विषूचीन् आग्रान्+++(=सर्वतो-दिक्कान्)+++ दर्भान् संस्तीर्य तेषूत्तरया +++("अन्नपत"इत्येतया)+++ व्रीहियवान् न्युप्य तत्रोदधानं प्रतिष्ठापयति ९  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/15_annapate-nnasya_no.md">
-<details open><summary><h5>१५ अन्नपतेऽन्नस्य नो ...{Loading}...</h5></summary>
 
 अन्न॑प॒ते ऽन्न॑स्य नो देहि।  
 अ॒न॒मी॒वस्य॑+++(=आरोग्यकरस्य)+++ शु॒ष्मिणः॑+++(=बलिनः)+++ ।  
 प्रप्र॑ दा॒तार॑न् तारिषः।  
 ऊर्ज॑न्+++(=अन्नं बलं वा)+++ नो धेहि द्वि॒पदे॒ चतु॑ष्पदे ।
 
-</details>
 </div>
-</details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/18_gRhapraveshavidhiH/17_09_tasminviShUchInAgrAn_darbhAn.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 9. He strews there Darbha grass, so that its points are turned in every direction, pours rice and barley-grains over the (grass) with the next (verse, II, 15, 15), and thereon he places the water-barrel.
@@ -224,34 +226,37 @@ ________________________
 **तस्मिन्** उदधानस्थाने **विषूचीनाग्रान्** नानादिगग्रान् **दर्भान् संस्तीर्य, तेषु** दर्भेषु **उत्तरया** "अन्नपतेऽन्नस्य" इत्येतया **ब्रीहियवांश्च** संयुक्तान् **न्युप्य** तेषू**दधानं प्रतिष्ठापयति** ॥९॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/18_gRhapraveshavidhiH/17_09_tasminviShUchInAgrAn_darbhAn.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 तस्मिन्विषूचीनाग्रान् दर्भान् संस्तीर्य तेषूत्तरया व्रीहियवान् न्युप्य तत्रोदधानं प्रतिष्ठापयति।
 
 </details>
+
 </div>
 
 ## १७ १० तस्मिन्नुत्तरेण यजुषा
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/18_gRhapraveshavidhiH/17_10_tasminnuttareNa_yajuShA.md">
-<details open><summary><h3>१७ १० तस्मिन्नुत्तरेण यजुषा ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/18_gRhapraveshavidhiH/17_10_tasminnuttareNa_yajuShA.md">
 
 तस्मिन्न् उत्तरेण यजुषा+++("अरिष्टा अस्माक"मित्यनेन)+++ चतुर उद-कुम्भान् आनयति १०  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/16_ariShTA_asmAkam.md">
-<details open><summary><h5>१६ अरिष्टा अस्माकम् ...{Loading}...</h5></summary>
 
 अरि॑ष्टा अ॒स्माकं॑ वी॒रास् स॑न्तु॒  
 मा परा॑ सेचि मे॒ धन॑म् ।+++(र४)+++  
 
-</details>
 </div>
-</details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/18_gRhapraveshavidhiH/17_10_tasminnuttareNa_yajuShA.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 10. With the next (Yajus, II, 15, 16) he pours four potfuls of water into it.
@@ -272,36 +277,39 @@ ________________________
 यत्र पुनर्मधुपर्कप्राशनादौ आवृत्तिविधिस्तस्या एव क्रियायाः, तत्र सकृदेव मन्त्रः ॥१०॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/18_gRhapraveshavidhiH/17_10_tasminnuttareNa_yajuShA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 तस्मिन्नुत्तरेण यजुषा चतुर उदकुम्भानानयति।
 
 </details>
+
 </div>
 
 ## १७ ११ दीर्घमुत्तरयाऽनुमन्त्रयते अथ
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/18_gRhapraveshavidhiH/17_11_dIrghamuttarayA-numantrayate_atha.md">
-<details open><summary><h3>१७ ११ दीर्घमुत्तरयाऽनुमन्त्रयते अथ ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/18_gRhapraveshavidhiH/17_11_dIrghamuttarayA-numantrayate_atha.md">
 
 +++(यदि उदधानं दीर्णम्,)+++ दीर्णम् उत्तरया +++("भूमिर्भूमिम् अगात्"इत्येतया)+++ ऽनुमन्त्रयते ११  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/17_bhUmirbhUmimagAnmAtA_mAtaramapyagAt.md">
-<details open><summary><h5>१७ भूमिर्भूमिमगान्माता मातरमप्यगात् ...{Loading}...</h5></summary>
 
 भूमि॒र् भूमि॑म् अगान्  
 मा॒ता मा॒तर॒म् अप्य् अ॑गात् ।  
 भू॒यास्म॑ पु॒त्रैः प॒शुभि॒र्  
 यो नो॒ द्वेष्टि॒ स भि॑द्यताम् ।+++(र५)+++  
 
-</details>
 </div>
-</details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/18_gRhapraveshavidhiH/17_11_dIrghamuttarayA-numantrayate_atha.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 11. If (the barrel) breaks, he recites the next (verse, II, 15, 17) over it.
@@ -320,81 +328,76 @@ ________________________
 एतच्च प्रकरणात्कर्माङ्गमेव ॥११॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/18_gRhapraveshavidhiH/17_11_dIrghamuttarayA-numantrayate_atha.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 दीर्घमुत्तरयाऽनुमन्त्रयते।
 
 </details>
+
 </div>
 
 ## १७ १२ अग्नेरुपसमाधानाद्याज्यभागान्ते
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/18_gRhapraveshavidhiH/17_12_agnerupasamAdhAnAdyAjyabhAgAnte.md">
-<details open><summary><h3>१७ १२ अग्नेरुपसमाधानाद्याज्यभागान्ते ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/18_gRhapraveshavidhiH/17_12_agnerupasamAdhAnAdyAjyabhAgAnte.md">
 
 अग्नेर् उपसमाधानाद्य्-आज्यभागान्ते उत्तरा आहुतीर् +++("वास्तोष्पते प्रतिजानीहि, वास्तोष्पते शग्मया, वास्तोष्पते प्रतरणो न एधि, अमीवहा वास्तोष्पत")+++ हुत्वा जयादि प्रतिपद्यते १२  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/18_vAstoShpate_prati.md">
-<details open><summary><h5>१८ वास्तोष्पते प्रति ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/054/01_vAstoShpate_prati.md">
-<details open><summary><h7>०१ वास्तोष्पते प्रति ...{Loading}...</h7></summary>
 
 वा᳓स्तोष्पते प्र᳓ति जानीह्य् अस्मा᳓न्त्  
 स्व्-आवेशो᳓+++(=सुगमो)+++ अनमीवो᳓+++(=आरोग्यकरः)+++ भवा नः ।  
 य᳓त् त्वे᳓महे प्र᳓ति त᳓न् नो जुषस्व  
 शं᳓ न एधि द्विप᳓दे शं᳓ च᳓तुष्पदे ।
 
-</details>
 </div>
-</details>
 </div>
+
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/19_vAstoShpate_shagmayA.md">
-<details open><summary><h5>१९ वास्तोष्पते शग्मया ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/054/03_vAstoShpate_shagmayA.md">
-<details open><summary><h7>०३ वास्तोष्पते शग्मया ...{Loading}...</h7></summary>
 
 वा᳓स्तोष्पते शग्म᳓या+++(=सुखया)+++ सँस᳓दा ते  
 सक्षीम᳓हि+++(←सच समवाये)+++ रण्व᳓या+++(=रममाणया)+++ गातुम᳓त्या+++(=गामिन्या)+++) ।  
 आ᳓वः क्षे᳓म+++(य्=लब्धस्य रक्षणे)+++ उत᳓ यो᳓गे+++(=अलब्धस्य लाभे)+++ व᳓रं नो  
 +++(हे विश्वेदेवाः)+++ यूय᳓म् पात स्वस्ति᳓भिः स᳓दा नः ।  
 
-</details>
 </div>
-</details>
 </div>
+
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/20_vAstoShpate_prataraNo.md">
-<details open><summary><h5>२० वास्तोष्पते प्रतरणो ...{Loading}...</h5></summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/054/02_vAstoShpate_prataraNo.md">
-<details open><summary><h7>०२ वास्तोष्पते प्रतरणो ...{Loading}...</h7></summary>
 
 वा᳓स्तोष्पते प्रत᳓रणो न एधि  
 गो᳓भिर् अ᳓श्वेभिर् इन्दो+++(←इन्दिर् ऐश्वर्यकर्मा/ उदिर्वा क्लेदकर्मा)+++ ।  
 अज᳓रासस् ते सख्ये᳓ स्याम  
 पिते᳓व पुत्रा᳓न् प्र᳓ति नो जुषस्व ।  
 
-</details>
 </div>
-</details>
 </div>
+
 <div class="js_include bg-light-yellow" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/21_amIvahA_vAstoShpate.md">
-<details open><summary><h5>२१ अमीवहा वास्तोष्पते ...{Loading}...</h5></summary>
+
+##### २१ अमीवहा वास्तोष्पते …{Loading}…
+
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/055/01_amIvahA_vAstoShpate.md">
-<details open><summary><h7>०१ अमीवहा वास्तोष्पते ...{Loading}...</h7></summary>
 
 अमीवहा᳓+++(=व्याधिहा)+++ वास्तोष्पते  
 वि᳓श्वा रूपा᳓ण्य् आ **विश᳓न्** ।  
 स᳓खा सुशे᳓व+++(फ)+++ **एधि** नः ।  
 
-</details>
 </div>
-</details>
 </div>
-</details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/18_gRhapraveshavidhiH/17_12_agnerupasamAdhAnAdyAjyabhAgAnte.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 12. After the ceremonies from the putting of wood on the fire down to the Ājyabhāga oblations have been performed, he offers the (four) oblations (indicated by the) next (Mantras; II, 15, 18-21); then he enters upon the performance of the Jaya and following oblations.
@@ -426,28 +429,29 @@ ________________________
 इति सर्वस्मार्तहोमानामविशेषेण औपासनविधानात्, अस्य सूत्रस्योक्तविधयान्यार्थत्वात्, अस्मदीयानां गृह्यान्तरीयाणां चौपासन एव वास्तुहोमाचाराच् च ॥१२॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/18_gRhapraveshavidhiH/17_12_agnerupasamAdhAnAdyAjyabhAgAnte.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 अग्नेरुपसमाधानाद्याज्यभागान्ते उत्तरा आहुतीर्हुत्वा जयादि प्रतिपद्यते।
 
 </details>
+
 </div>
 
 ## १७ १३ परिषेचनान्तङ् कृत्वोत्तरेण
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/18_gRhapraveshavidhiH/17_13_pariShechanAnta~N_kRtvottareNa.md">
-<details open><summary><h3>१७ १३ परिषेचनान्तङ् कृत्वोत्तरेण ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/18_gRhapraveshavidhiH/17_13_pariShechanAnta~N_kRtvottareNa.md">
 
 परिषेचनान्तं कृत्वोत्तरेण +++("शिवं शिव"मित्यनेन)+++ यजुषोदकुम्भेन +++(न हस्तेन)+++ त्रिः प्रदक्षिणम् अन्तरतो+++(=न बहिः)+++ ऽगारं निवेशनं+++(=शयनदेशः)+++ वा परिषिच्य
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/22_shivaM_shivam.md">
-<details open><summary><h5>२२ शिवं शिवम् ...{Loading}...</h5></summary>
 
 शि॒वँ॒ शि॒वम् ॥
 
-</details>
 </div>
 
 #### अग्न्यन्तरानयनम्
@@ -456,10 +460,11 @@ ________________________
 #### ब्राह्मणभोजनम्
 ब्राह्मणान् भोजयेद् अपूपैस् सक्तुभिर् ओदनेनेति १३
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/18_gRhapraveshavidhiH/17_13_pariShechanAnta~N_kRtvottareNa.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 13. Having performed (the rites) down to the sprinkling (of water) round (the fire), he should sprinkle (water) with a water-pot around the house or the resting-place on the inside, with the next Yajus (II, 15, 22) three times from left to right; then he should serve cakes, flour, and boiled rice to the Brāhmaṇas.
@@ -491,11 +496,15 @@ ________________________
 इति श्रीसुदर्शनाचार्यविरचिते गृह्यतात्पर्यदर्शने सप्तदशः खण्डः ।
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/18_gRhapraveshavidhiH/17_13_pariShechanAnta~N_kRtvottareNa.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 परिषेचनान्तं कृत्वोत्तरेण यजुषोदकुम्भेन त्रिः प्रदक्षिणमन्तरतोऽगारं निवेशनं वा परिषिच्य ब्राह्मणान् भोजयेदपूपैस्सक्तुभिरोदनेनेति।
 
 </details>
+
 </div>

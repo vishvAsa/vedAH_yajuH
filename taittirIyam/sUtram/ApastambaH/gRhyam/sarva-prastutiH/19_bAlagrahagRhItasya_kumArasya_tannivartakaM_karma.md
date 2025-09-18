@@ -6,8 +6,7 @@ title = "१९ बालग्रहगृहीतस्य कुमारस
 
 ## १८ ०१ श्वग्रहगृहीतङ् कुमारम्
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/19_bAlagrahagRhItasya_kumArasya_tannivartakaM_karma/18_01_shvagrahagRhIta~N_kumAram.md">
-<details open><summary><h3>१८ ०१ श्वग्रहगृहीतङ् कुमारम् ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/19_bAlagrahagRhItasya_kumArasya_tannivartakaM_karma/18_01_shvagrahagRhIta~N_kumAram.md">
 
 श्वग्रह+++(=श्वेव नदति, श्ववद्वा चेष्टते)+++गृहीतं कुमारं  
 तपोयुक्तो+++(=यावन्मनस्तोषमनशनादियुक्तः)+++ जालेन प्रच्छाद्य कंसं किङ्किणिं+++(=लोहघण्टां)+++ वा ह्रादयन्न्+++(=पुरुषान्तरेण ध्वानयन्)+++  
@@ -17,10 +16,11 @@ title = "१९ बालग्रहगृहीतस्य कुमारस
 अक्षेषूत्तानं +++(=शयानम्)+++ निपात्य  
 दध्ना लवणमिश्रेणाञ्जलिनोत्तरैर् +++("कूर्कुरस्सुकूर्कुर"इत्यादिभिः"श्वानमिच्छ्वादन्न पुरुषं छत्"इत्यन्तैः)+++ अवोक्षेत् प्रातर्मध्यन्दिने सायम् १  
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/19_bAlagrahagRhItasya_kumArasya_tannivartakaM_karma/18_01_shvagrahagRhIta~N_kumAram.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 1. [^1]  When a boy is attacked by the dog-demon (i.e. epilepsy), (the father or another performer of the ceremony), having devoted himself to austerities (such as fasting), covers him with a net. Then he causes a gong to be beaten or a bell to be rung, takes (the boy) by another way than the door into the gambling-hall, raises (the earth in the middle of the hall) at the place in which they gamble, sprinkles it (with water), casts the dice, lays (the boy) on his back on the dice, and besprinkles him with his joined hands with curds and salt, with the next (eleven) (formulas, II, 16, 1-11), in the morning, at noon, and at night.
@@ -78,26 +78,30 @@ title = "१९ बालग्रहगृहीतस्य कुमारस
 अवोक्षणपर्यन्तं च ह्रादनम् ॥१॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/19_bAlagrahagRhItasya_kumArasya_tannivartakaM_karma/18_01_shvagrahagRhIta~N_kumAram.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 श्वग्रहगृहीतं कुमारं तपोयुक्तो जालेन प्रच्छाद्य कँसं किङ्किणिं वा ह्रादयन्नद्वारेण सभां प्रपाद्य सभाया मध्येऽधिदेवनमुद्धत्यावोक्ष्याक्षान्न्युप्याक्षेषूत्तानं निपात्य दध्ना लवणमिश्रेणाञ्जलिनोत्तरैरवोक्षेत्प्रातर्मध्यन्दिने सायम् ।
 
 </details>
+
 </div>
 
 ## १८ ०२ अगदो भवति
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/19_bAlagrahagRhItasya_kumArasya_tannivartakaM_karma/18_02_agado_bhavati.md">
-<details open><summary><h3>१८ ०२ अगदो भवति ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/19_bAlagrahagRhItasya_kumArasya_tannivartakaM_karma/18_02_agado_bhavati.md">
 
 अगदो+++(=अरोगो)+++ भवति २
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/19_bAlagrahagRhItasya_kumArasya_tannivartakaM_karma/18_02_agado_bhavati.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 2. Then he will get well.
@@ -121,29 +125,33 @@ title = "१९ बालग्रहगृहीतस्य कुमारस
 नैतत्, स्वाभिमताभ्यासबोधकशब्दाभावात् ॥२॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/19_bAlagrahagRhItasya_kumArasya_tannivartakaM_karma/18_02_agado_bhavati.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 अगदो भवति।
 
 </details>
+
 </div>
 
 ## १८ ०३ शङ्खिनङ् कुमारम्
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/19_bAlagrahagRhItasya_kumArasya_tannivartakaM_karma/18_03_shankhina~N_kumAram.md">
-<details open><summary><h3>१८ ०३ शङ्खिनङ् कुमारम् ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/19_bAlagrahagRhItasya_kumArasya_tannivartakaM_karma/18_03_shankhina~N_kumAram.md">
 
 शङ्खिनं+++(=शङ्खवन्नदतं)+++ कुमारं तपोयुक्त+++(=यावन्मनस्तोषमनशनादियुक्तः)+++  
 उत्तराभ्याम् +++("एते ते प्रतिदृश्येते"इत्येताभ्यां)+++ अभिमन्त्र्य  
 +++("ऋषिर्बोधः प्रबोधः"इत्येतया)+++ उत्तरयोदकुम्भेन शिरस्तो ऽवनयेत्  
 प्रातर् मध्यन्दिने सायम् ३  
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/19_bAlagrahagRhItasya_kumArasya_tannivartakaM_karma/18_03_shankhina~N_kumAram.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 3. [^2]  Over a boy who suffers from the 'Śaṅkha' disease, (the father, &c.) having devoted himself to austerities, should recite the next two (verses, II, 16, 12. 13), and should pour (water) on his head with a water-pot with the next (verse, II, 16, 14), in the morning, at noon, and at night.
@@ -164,26 +172,30 @@ title = "१९ बालग्रहगृहीतस्य कुमारस
 **उत्तराभ्यां** "एते ते प्रतिदृश्येते" इत्येताभ्यां **उत्तरया** "ऋषिर्बोधः प्रबोधः" इत्येतया **शिरस्तोऽवनयेत्** शिरस्यभिषिञ्चेत्, **उदकुम्भेन** त्रिसन्ध्यम् ॥३॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/19_bAlagrahagRhItasya_kumArasya_tannivartakaM_karma/18_03_shankhina~N_kumAram.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 शङ्खिनं कुमारं तपोयुक्त उत्तराभ्यामभिमन्त्र्योत्तरयोदकुम्भेन शिरस्तोऽवनयेत्प्रातर्मध्यन्दिने सायम् ।
 
 </details>
+
 </div>
 
 ## १८ ०४ अगदो भवति
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/19_bAlagrahagRhItasya_kumArasya_tannivartakaM_karma/18_04_agado_bhavati.md">
-<details open><summary><h3>१८ ०४ अगदो भवति ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/19_bAlagrahagRhItasya_kumArasya_tannivartakaM_karma/18_04_agado_bhavati.md">
 
 अगदो+++(=अरोगो)+++ भवति ४
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/19_bAlagrahagRhItasya_kumArasya_tannivartakaM_karma/18_04_agado_bhavati.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 4. Then he will get well.
@@ -199,10 +211,14 @@ title = "१९ बालग्रहगृहीतस्य कुमारस
 उक्तार्थम् ॥४॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/19_bAlagrahagRhItasya_kumArasya_tannivartakaM_karma/18_04_agado_bhavati.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 अगदो भवति।
 </details>
+
 </div>

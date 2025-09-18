@@ -10,7 +10,7 @@ title = "०८ अग्निर् यजुर्भिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्निर् यजु॑र्भिः +++(सम्भरति)+++।  
+अग्नि᳓र् य᳓जुर्भिः +++(सम्भरति)+++।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -25,14 +25,13 @@ title = "०८ अग्निर् यजुर्भिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒वि॒ता स्तोमैः॑ ।  
+सविता᳓ स्तो᳓मैः ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 सविता स्तोमैः त्रिवृदादिभिः यज्ञं सम्भृतवान् । एवं सर्वत्र । 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -41,14 +40,13 @@ title = "०८ अग्निर् यजुर्भिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्र॑ उक्थाम॒दैः+++(=स्तोत्रशस्त्रैः)+++ ।  
+इ᳓न्द्र उक्थामदैः᳓+++(=स्तोत्रशस्त्रैः)+++ ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 उक्थामदैः स्तोत्रशस्त्रैः । 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -57,7 +55,7 @@ title = "०८ अग्निर् यजुर्भिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मि॒त्रावरु॑णाव् आ॒शिषा॑ ।  
+मित्रा᳓व᳓रुणाव् आशि᳓षा ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -65,16 +63,14 @@ title = "०८ अग्निर् यजुर्भिः"
 आशिषा प्रार्थनामन्त्रैः । गतमन्यत् । 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 मि॒त्रावरु॑णाव् आ॒शिषा॑ ।  
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अङ्गि॑रसो॒ धिष्णि॑यैर॒ग्निभिः॑ ।  
+अ᳓ङ्गिरसो धि᳓ष्णियैर् अग्नि᳓भिः ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -84,7 +80,7 @@ title = "०८ अग्निर् यजुर्भिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-म॒रुत॑स् सदो--हविर्-धा॒नाभ्या॑म् ।  
+मरु᳓तस् सदो--हविर्-धाना᳓भ्याम् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -94,7 +90,7 @@ title = "०८ अग्निर् यजुर्भिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आपः॒ प्रोक्ष॑णीभिः ।  
+आ᳓पः प्रो᳓क्षणीभिः ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -102,10 +98,9 @@ title = "०८ अग्निर् यजुर्भिः"
 आपः॒ प्रोक्ष॑णीभिः ।  
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ओष॑धयो बर्हि॒षा॑ ।  
+ओ᳓षधयो बर्हिषा᳙ ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -113,10 +108,9 @@ title = "०८ अग्निर् यजुर्भिः"
 ओष॑धयो बर्हि॒षा॑ ।  
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अदि॑ति॒र् वेद्या॑ ।  
+अ᳓दितिर् वे᳓द्या ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -124,10 +118,9 @@ title = "०८ अग्निर् यजुर्भिः"
 अदि॑ति॒र्वेद्या॑ ।  
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सोमो॑ दी॒क्षया॑ ।  
+सो᳓मो दीक्ष᳓या ।  
 (11)  
 </details>
 
@@ -139,7 +132,7 @@ title = "०८ अग्निर् यजुर्भिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्वष्टे॒ध्मेन॑ ।  
+त्व᳓ष्टेध्मे᳓न ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -149,14 +142,13 @@ title = "०८ अग्निर् यजुर्भिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विष्णु॑र् य॒ज्ञेन॑ ।  
+वि᳓ष्णुर् यज्ञे᳓न ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 विष्णुर्यज्ञेन तद्वान् । 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -165,7 +157,7 @@ title = "०८ अग्निर् यजुर्भिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वस॑व॒ आज्ये॑न ।  
+व᳓सव आ᳓ज्येन ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -175,7 +167,7 @@ title = "०८ अग्निर् यजुर्भिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ॒दि॒त्या दक्षि॑णाभिः ।  
+आदित्या᳓ द᳓क्षिणाभिः ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -185,17 +177,17 @@ title = "०८ अग्निर् यजुर्भिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विश्वे॑ दे॒वा ऊ॒र्जा ।
+वि᳓श्वे देवा᳓ ऊर्जा᳓ ।
 </details>
 
 <details><summary>मूलम्</summary>
 
 विश्वे॑ दे॒वा ऊ॒र्जा ।
 </details>
-  
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पू॒षा स्व॑गा-का॒रेण॑ ।  
+पूषा᳓ स्वगा-कारे᳓ण ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -203,23 +195,20 @@ title = "०८ अग्निर् यजुर्भिः"
 स्वगाकारेण यथायथं हविस्स्वामिनां हविस्सम्बन्धकरणेन । 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 पू॒षा स्व॑गाका॒रेण॑ ।  
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-बृह॒स्-पतिः॑ पुरो॒धया॑ ।  
+बृ᳓हस्-प᳓तिः पुरोध᳓या ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 पुरोधया प्राधान्येन, ब्रह्मत्वेन वा उद्गीथेन उद्गानेन द्वितीयया चतुर्थ्या वा विभक्त्या । 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -228,7 +217,7 @@ title = "०८ अग्निर् यजुर्भिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒जाप॑तिर् उद्गी॒थेन॑ ।  
+प्रजा᳓पतिर् उद्गीथे᳓न ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -238,7 +227,7 @@ title = "०८ अग्निर् यजुर्भिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒न्तरि॑क्षं प॒वित्रे॑ण ।  
+अन्त᳓रिक्षं पवि᳓त्रेण ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -246,7 +235,6 @@ title = "०८ अग्निर् यजुर्भिः"
 पवित्रेण दशापवित्रेण । 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 अ॒न्तरि॑क्षं प॒वित्रे॑ण ।  
@@ -254,7 +242,7 @@ title = "०८ अग्निर् यजुर्भिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वा॒युः पात्रैः॑ ।  
+वायुः᳓ पा᳓त्रैः ।  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -262,16 +250,14 @@ title = "०८ अग्निर् यजुर्भिः"
 पात्रैः उर्ध्वपात्रैः 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 वा॒युः पात्रैः॑ ।  
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒हँ श्र॒द्धया॑ ।+++(5)+++  
+अहँ᳓ श्रद्ध᳓या ।+++(5)+++  
 (12)  
 </details>
 
@@ -281,10 +267,8 @@ title = "०८ अग्निर् यजुर्भिः"
 इत्यारण्यके तृतीये अष्टमोऽनुवाकः ॥  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 अ॒हँ श्र॒द्धया॑ ।  
 (12)  
 </details>
-

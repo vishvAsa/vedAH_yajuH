@@ -6,15 +6,15 @@ title = "२६ प्रकीर्णकर्माणि"
 
 ## २२ १३ सनिमित्वोत्तरान् जपित्वाऽर्थम्
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/26_prakIrNakarmANi/22_13_sanimitvottarAn_japitvA-rtham.md">
-<details open><summary><h3>२२ १३ सनिमित्वोत्तरान् जपित्वाऽर्थम् ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/26_prakIrNakarmANi/22_13_sanimitvottarAn_japitvA-rtham.md">
 
 सनिम्+++(=भिक्षणम्)+++ इत्वोत्तरान् +++("अन्नमिव ते दृशे भूयास"मित्यादीन् सप्त)+++ जपित्वा ऽर्थं +++(=अपेक्षाम्)+++ ब्रूयात् १३  
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/26_prakIrNakarmANi/22_13_sanimitvottarAn_japitvA-rtham.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 13. If he goes out in order to beg for something, let him murmur the next (Mantras, II, 21, 10-16) and then state his desire.
@@ -44,26 +44,30 @@ title = "२६ प्रकीर्णकर्माणि"
 सप्तमे च मन्त्रे "असा"वित्यत्र समबुद्ध्या दातुर्नामग्रहणम् ॥१३॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/26_prakIrNakarmANi/22_13_sanimitvottarAn_japitvA-rtham.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 सनिमित्वोत्तरान् जपित्वाऽर्थं ब्रूयात्।
 
 </details>
+
 </div>
 
 ## २२ १४ रथं लब्ध्वा
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/26_prakIrNakarmANi/22_14_rathaM_labdhvA.md">
-<details open><summary><h3>२२ १४ रथं लब्ध्वा ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/26_prakIrNakarmANi/22_14_rathaM_labdhvA.md">
 
 रथं लब्ध्वा योजयित्वा प्राञ्चमवस्थाप्योत्तरया +++(ऽअङ्कौ न्यङ्कौऽइत्येतया)+++ रथचक्रे अभिमृशति पक्षसी वा १४  
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/26_prakIrNakarmANi/22_14_rathaM_labdhvA.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 14. If he has obtained a chariot, he has the horses put to it, lets it face the east, and touches with the next (verse, II, 21, 17) the two wheels of the chariot or the two side-pieces.
@@ -93,26 +97,30 @@ title = "२६ प्रकीर्णकर्माणि"
 अन्यथापि पदार्थमाहुः ॥१४॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/26_prakIrNakarmANi/22_14_rathaM_labdhvA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 रथं लब्ध्वा योजयित्वा प्राञ्चमवस्थाप्योत्तरया रथचक्रे अभिमृशति पक्षसी वा।
 
 </details>
+
 </div>
 
 ## २२ १५ उत्तरेण यजुषाऽधिरुह्योत्तरया
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/26_prakIrNakarmANi/22_15_uttareNa_yajuShA-dhiruhyottarayA.md">
-<details open><summary><h3>२२ १५ उत्तरेण यजुषाऽधिरुह्योत्तरया ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/26_prakIrNakarmANi/22_15_uttareNa_yajuShA-dhiruhyottarayA.md">
 
 उत्तरेण यजुषा +++(ऽअध्वनामध्वयत्ऽइत्येन)+++ ऽधिरुह्योत्तरया +++(ऽअयं वामश्विमा रथऽइत्येतया )+++ प्राचीमुदीचीं वा दिशमभिप्रयाय यथार्थं यायात् १५  
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/26_prakIrNakarmANi/22_15_uttareNa_yajuShA-dhiruhyottarayA.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 15. With the next Yajus (II, 21, 18) he should mount, and drive with the next (verse, II, 21, 19) towards the east or north, and should then drive off on his business.
@@ -140,26 +148,30 @@ title = "२६ प्रकीर्णकर्माणि"
 नैतत्; प्रकृतयाच्ञादिना लब्धरथादिविषयत्वेनैवास्य वाक्यस्यार्थवत्त्वोपपत्तेः, "याच्ञया रथादीनि लब्ध्वा" इति भाष्यविरोधाच्च ॥१५॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/26_prakIrNakarmANi/22_15_uttareNa_yajuShA-dhiruhyottarayA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 उत्तरेण यजुषाऽधिरुह्योत्तरया प्राचीमुदीचीं वा दिशमभिप्रयाय यथार्थं यायात् ।
 
 </details>
+
 </div>
 
 ## २२ १६ अश्वमुत्तरैरारोहेत् 
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/26_prakIrNakarmANi/22_16_ashvamuttarairArohet.md">
-<details open><summary><h3>२२ १६ अश्वमुत्तरैरारोहेत्  ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/26_prakIrNakarmANi/22_16_ashvamuttarairArohet.md">
 
 अश्वमुत्तरैर् +++(ऽअश्वोऽसि हयोऽसिऽइत्यादिभिः)+++ आरोहेत् १६  
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/26_prakIrNakarmANi/22_16_ashvamuttarairArohet.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 16. Let him mount a horse with the next (formulas, II, 21, 20-30),
@@ -177,26 +189,30 @@ title = "२६ प्रकीर्णकर्माणि"
 **अश्वश्**चेद्याच्ञया लब्धः **तमुत्तरैर्** मन्त्रैः "अश्वोऽसि" इत्यादिभिर् **आरोहेत्** ॥१६॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/26_prakIrNakarmANi/22_16_ashvamuttarairArohet.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 अश्वमुत्तरैरारोहेत् ।
 
 </details>
+
 </div>
 
 ## २२ १७ हस्तिनमुत्तरया 
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/26_prakIrNakarmANi/22_17_hastinamuttarayA.md">
-<details open><summary><h3>२२ १७ हस्तिनमुत्तरया  ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/26_prakIrNakarmANi/22_17_hastinamuttarayA.md">
 
 हस्तिनमुत्तरया +++(ऽहस्तियशसमसीऽत्येतया)+++ १७  
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/26_prakIrNakarmANi/22_17_hastinamuttarayA.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 17. An elephant with the next (formula, II, 21, 31).
@@ -221,37 +237,39 @@ title = "२६ प्रकीर्णकर्माणि"
 अत्र यद्यपि "वज्रेणाभिनिदधाम्यसौ" इतिलिङ्गादङ्कुशाभिधानार्थता मन्त्रस्य; तथापि "हस्तिनमुत्तरयाऽऽरोहेत्" इति वाचनिकविनियोगस्य बलवत्त्वात्तदनुसार्येव मन्त्रो व्याख्यातव्यः ॥१७॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/26_prakIrNakarmANi/22_17_hastinamuttarayA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 हस्तिनमुत्तरया ।
 
 </details>
+
 </div>
 
 ## २२ १८ ताभ्याँ रेषणे
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/26_prakIrNakarmANi/22_18_tAbhyA.N_reShaNe.md">
-<details open><summary><h3>२२ १८ ताभ्याँ रेषणे ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/26_prakIrNakarmANi/22_18_tAbhyA.N_reShaNe.md">
 
 ताभ्याँ +++(भूमौ पतितस्य)+++ रेषणे +++(=शरीरोपमर्दे)+++ पूर्ववत् +++(ऽस्योना पृथिवीऽइत्येताभ्यां)+++ पृथिवीम् अभिमृशेत् १८
 
 <div class="js_include bg-light-yellow" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/08_syonA_pRthivi.md">
-<details open><summary><h5>०८ स्योना पृथिवि ...{Loading}...</h5></summary>
+
+##### ०८ स्योना पृथिवि …{Loading}…
+
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/022/15_syonA_pRthivi.md">
-<details open><summary><h7>१५ स्योना पृथिवि ...{Loading}...</h7></summary>
 
 स्योना᳓+++(=सुखरूपा)+++ पृथिवि भव+  
 अनृक्षरा᳓+++(=कण्टकादिरहिता)+++ निवे᳓शनी ।  
 य᳓च्छा नश् श᳓र्म सप्र᳓थाः+++(=सकीर्तिः)+++ ।
 
-</details>
 </div>
-</details>
 </div>
+
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/09_baDitthA_parvatAnAnkhidrambibharShi.md">
-<details open><summary><h5>०९ बडित्था पर्वतानाङ्खिद्रम्बिभर्षि ...{Loading}...</h5></summary>
 
 बड् इ॒त्था+++(त्थं)+++ पर्व॑तानाङ्+++(→मेघानाम्)+++  
 खि॒द्रम्+++(=छिद्रं →छेदनम्)+++ बि॑भर्षि पृथिवि ।  
@@ -259,12 +277,13 @@ title = "२६ प्रकीर्णकर्माणि"
 म॒ह्ना+++(=महिम्ना)+++ +++(देवादीन्)+++ जि॒नोषि॑+++(=तर्पयसि)+++ म॒हि॒नि॒+++(=महति)+++ ।+++(र४)+++  
 +++(अत्र देवप्रीत्या वृष्टिरिति चक्रम् उच्यते।)+++
 
-</details>
 </div>
-</details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/26_prakIrNakarmANi/22_18_tAbhyA.N_reShaNe.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 18. [^4]  If any harm is done him by these two (beasts), let him touch the earth as indicated above.
@@ -288,26 +307,30 @@ title = "२६ प्रकीर्णकर्माणि"
 प्रमादाद्भूमौ पतितस्य रेषणे शरीरोपमर्दे जाते इति ॥१८॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/26_prakIrNakarmANi/22_18_tAbhyA.N_reShaNe.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 ताभ्याँ रेषणे पूर्ववत् पृथिवीमभिमृशेत्।
 
 </details>
+
 </div>
 
 ## २२ १९ संवादमेष्यन् सव्येन
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/26_prakIrNakarmANi/22_19_saMvAdameShyan_savyena.md">
-<details open><summary><h3>२२ १९ संवादमेष्यन् सव्येन ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/26_prakIrNakarmANi/22_19_saMvAdameShyan_savyena.md">
 
 संवादम्+++(=ऋणादानादिव्यवहारः)+++ एष्यन्सव्येन पाणिना छत्रं दण्डञ् चादत्ते १९  
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/26_prakIrNakarmANi/22_19_saMvAdameShyan_savyena.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 19. If he is going to a dispute, he takes the parasol and the staff in his left hand.
@@ -332,27 +355,31 @@ title = "२६ प्रकीर्णकर्माणि"
 इति श्रीसुदर्शनाचार्यविरचिते गृह्यतात्पर्यदर्शने द्वाविंशः खण्डस्समाप्तः ॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/26_prakIrNakarmANi/22_19_saMvAdameShyan_savyena.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 संवादमेष्यन् सव्येन पाणिना छत्रं दण्डं चादत्ते ॥
 
 </details>
+
 </div>
 
 ## २३ ०१ दक्षिणेन फलीकरणमुष्टिमुत्तरया
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/26_prakIrNakarmANi/23_01_daxiNena_phalIkaraNamuShTimuttarayA.md">
-<details open><summary><h3>२३ ०१ दक्षिणेन फलीकरणमुष्टिमुत्तरया ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/26_prakIrNakarmANi/23_01_daxiNena_phalIkaraNamuShTimuttarayA.md">
 
 दक्षिणेन फलीकरणमुष्टिमुत्तरया +++(ऽअव जिह्वकेऽत्येतया )+++ हुत्वा  
 गत्वोत्तरां +++(ऽआ ते वाचमास्यांऽइत्येताम्)+++ जपेत् १
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/26_prakIrNakarmANi/23_01_daxiNena_phalIkaraNamuShTimuttarayA.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 1. Having sacrificed, with his right hand, a fist full of chaff with the next (verse, II, 21, 32), he should go away and murmur the next (verse, 33).
@@ -383,26 +410,30 @@ title = "२६ प्रकीर्णकर्माणि"
 इह च सम्बुध्या नामनिर्देशः प्रत्यर्थिन एव ॥१॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/26_prakIrNakarmANi/23_01_daxiNena_phalIkaraNamuShTimuttarayA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 दक्षिणेन फलीकरणमुष्टिमुत्तरया हुत्वा गत्वोत्तरां जपेत् ।
 
 </details>
+
 </div>
 
 ## २३ ०२ क्रुद्धमुत्तराभ्यामभिमन्त्रयेत
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/26_prakIrNakarmANi/23_02_kruddhamuttarAbhyAmabhimantrayeta.md">
-<details open><summary><h3>२३ ०२ क्रुद्धमुत्तराभ्यामभिमन्त्रयेत ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/26_prakIrNakarmANi/23_02_kruddhamuttarAbhyAmabhimantrayeta.md">
 
 क्रुद्धमुत्तराभ्याम् +++(ऽया त एषा रराट्याऽइत्येताभ्याम्)+++ अभिमन्त्रयेत विक्रोधो भवति २
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/26_prakIrNakarmANi/23_02_kruddhamuttarAbhyAmabhimantrayeta.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 2. Over an angry person let him recite the two next (formulas, II, 22, 1. 2); then his anger will be appeased.
@@ -429,26 +460,30 @@ title = "२६ प्रकीर्णकर्माणि"
 नार्थवादमात्रं, सूत्रकारेण बद्धत्वात् ॥२॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/26_prakIrNakarmANi/23_02_kruddhamuttarAbhyAmabhimantrayeta.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 क्रुद्धमुत्तराभ्यामभिमन्त्रयेत विक्रोधो भवति ।
 
 </details>
+
 </div>
 
 ## २३ ०३ असम्भवेप्सुः परेषाँ
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/26_prakIrNakarmANi/23_03_asambhavepsuH_pareShA.N.md">
-<details open><summary><h3>२३ ०३ असम्भवेप्सुः परेषाँ ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/26_prakIrNakarmANi/23_03_asambhavepsuH_pareShA.N.md">
 
 असंभवेप्सुः+++(=मैथुनं विवारयिषुः)+++ परेषां+++(=परनराणाम्)+++ स्थूलाऽऽढारिका+++(=गौलिका सरीसृपविशेषः, या शतचरणा नाम)+++जीवचूर्णानि कारयित्वोत्तरया +++(ऽअव ज्यामिव धन्वनऽइत्येतया)+++ सुप्तायास् सम्बाध+++(=योनौ)+++ उपवपेत् ३  
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/26_prakIrNakarmANi/23_03_asambhavepsuH_pareShA.N.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 3. [^1]  One who wishes that his wife should not be touched by other men, should have big living centipedes ground to powder, and should insert (that powder) with the next (formula, II, 22, 3), while she is sleeping, into her secret parts.
@@ -486,26 +521,30 @@ title = "२६ प्रकीर्णकर्माणि"
 एवं कृते सम्बाध उपभोगयोग्यो न भवति ॥३॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/26_prakIrNakarmANi/23_03_asambhavepsuH_pareShA.N.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 असम्भवेप्सुः परेषाँ स्थूलाढारिकाजीवचूर्णानि कारयित्वोत्तरया सुप्तायास्सम्बाध उपवपेत्।
 
 </details>
+
 </div>
 
 ## २३ ०४ सिद्ध्यर्थे बभ्रुमूत्रेण
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/26_prakIrNakarmANi/23_04_siddhyarthe_babhrumUtreNa.md">
-<details open><summary><h3>२३ ०४ सिद्ध्यर्थे बभ्रुमूत्रेण ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/26_prakIrNakarmANi/23_04_siddhyarthe_babhrumUtreNa.md">
 
 +++(सम्भोगयोग्यता)+++सिद्ध्यर्थे बभ्रु+++(गो)+++मूत्रेण +++(योनिं)+++ प्रक्षालयीत ४
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/26_prakIrNakarmANi/23_04_siddhyarthe_babhrumUtreNa.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 4. For success (in the generation of children) let him wash (his wife) with the urine of a red-brown cow.
@@ -529,26 +568,30 @@ title = "२६ प्रकीर्णकर्माणि"
 कपिलायाः गोमूत्रेण प्रक्षालयीत सम्बाधम् ॥४॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/26_prakIrNakarmANi/23_04_siddhyarthe_babhrumUtreNa.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 सिद्ध्यर्थे बभ्रुमूत्रेण प्रक्षालयीत ।
 
 </details>
+
 </div>
 
 ## २३ ०५ सिद्ध्यर्थे यदस्य
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/26_prakIrNakarmANi/23_05_siddhyarthe_yadasya.md">
-<details open><summary><h3>२३ ०५ सिद्ध्यर्थे यदस्य ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/26_prakIrNakarmANi/23_05_siddhyarthe_yadasya.md">
 
 सिद्ध्यर्थे यदस्य गृहे पण्यं स्यात् तत उत्तरया +++(ऽयदहं धनेनेऽत्येतया)+++ जुहुयात् ५
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/26_prakIrNakarmANi/23_05_siddhyarthe_yadasya.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 5. For success (in trade) let him sacrifice with the next (verse - II, 22, 4 - some portion) from the articles of trade which he has in his house.
@@ -579,26 +622,30 @@ title = "२६ प्रकीर्णकर्माणि"
 मन्त्रे चाहमित्यस्य न विरोधः, स एव भूत्वा स जुहोतीति ॥५॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/26_prakIrNakarmANi/23_05_siddhyarthe_yadasya.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 सिद्ध्यर्थे यदस्य गृहे पण्यँ स्यात्तत उत्तरया जुहुयात् ।
 
 </details>
+
 </div>
 
 ## २३ ०६ यङ् कामयेत
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/26_prakIrNakarmANi/23_06_ya~N_kAmayeta.md">
-<details open><summary><h3>२३ ०६ यङ् कामयेत ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/26_prakIrNakarmANi/23_06_ya~N_kAmayeta.md">
 
 यं कामयेत नायम् अविच्छिद्येतेति जीव+++(गो)+++विषाणे +++(पूरयितुम्)+++ स्वं मूत्रमानीय सुप्तमुत्तराभ्यां +++(ऽपरि त्वा गिरेरऽमित्येताभ्यां)+++ त्रिः प्रसव्यं परिषिञ्चेत् ६  
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/26_prakIrNakarmANi/23_06_ya~N_kAmayeta.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 6. [^2]  If he wishes that somebody be not estranged from him, let him pour his own urine into the horn of a living animal, and sprinkle (it) with the next two (verses, II, 22, 5. 6) three times from right to left around (the person) while he is sleeping.
@@ -622,26 +669,30 @@ title = "२६ प्रकीर्णकर्माणि"
 केचित्—भृत्यविषयमेतत् स्वामिनः कर्मेति ।
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/26_prakIrNakarmANi/23_06_ya~N_kAmayeta.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 यं कामयेत नायं मच्छिद्येतेति जीवविषाणे स्वं मूत्रमानीय सुप्तमुत्तराभ्याँस्त्रिः प्रसव्यं परिषिञ्चेत् ।
 
 </details>
+
 </div>
 
 ## २३ ०७ येन पथा
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/26_prakIrNakarmANi/23_07_yena_pathA.md">
-<details open><summary><h3>२३ ०७ येन पथा ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/26_prakIrNakarmANi/23_07_yena_pathA.md">
 
 येन पथा दासकर्मकराः पलायेरन् तस्मिन्न् इण्वान्य् +++(दारुमयानि निगलानि)+++ उपसमाधायोत्तरा +++(ऽआवर्तन वर्तयेऽत्येताः)+++ आहुतीर् जुहुयात् ।  
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/26_prakIrNakarmANi/23_07_yena_pathA.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 7. In a path which servants or labourers use to run away, he should put plates (used for protecting the hands when holding a hot sacrificial pan) on (a fire), and should offer the oblations (indicated by the) next (Mantras, II, 22, 7-10).
@@ -675,26 +726,30 @@ title = "२६ प्रकीर्णकर्माणि"
 केचित्—पथीण्वान्यग्नौ प्रज्वाल्य, तत्राग्नावेव होम इति ॥७॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/26_prakIrNakarmANi/23_07_yena_pathA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 येन पथा दासकर्मकराः पलायेरन् तस्मिन्निण्वान्युपसमाधायोत्तरा आहुतीर्जुहुयात् ।
 
 </details>
+
 </div>
 
 ## २३ ०८ यद्येनं
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/26_prakIrNakarmANi/23_08_yadyenaM.md">
-<details open><summary><h3>२३ ०८ यद्येनं ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/26_prakIrNakarmANi/23_08_yadyenaM.md">
 
 यद्येनं वृक्षात् फलमभिनिपतेद् वयो +++(=पक्षी)+++ वा ऽभिविक्षिपेद् अवर्षतर्क्ये वा बिन्दुर् अभिनिपतेत् तदुत्तरैर् +++(ऽयदि वृक्षादिऽत्यादिभिः)+++ यथालिङ्गं प्रक्षालयीत ८
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/26_prakIrNakarmANi/23_08_yadyenaM.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 8. If a fruit falls on him from a tree, or a bird befouls him, or a drop of water falls on him when no rain is expected, he should wipe that off with the next (Mantras, II, 22, 11-13), according to the characteristics (contained in these Mantras).
@@ -720,29 +775,33 @@ title = "२६ प्रकीर्णकर्माणि"
 यथालिङ्गमिति तु वचनमेकैकस्मिन्निमित्ते त्रिभिस्त्रिभिः प्रक्षालनं मा भूदिति ॥९॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/26_prakIrNakarmANi/23_08_yadyenaM.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 यद्येनं वृक्षात्फलमभिनिपतेद्वयो वाऽभिविक्षिपेदवर्षतर्क्ये वा बिन्दुरभिनिपतेत्तदुत्तरैर्यथालिङ्गं प्रक्षालयीत ।
 
 </details>
+
 </div>
 
 ## २३ ०९ आगारस्थूणाविरोहणे मधुन
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/26_prakIrNakarmANi/23_09_AgArasthUNAvirohaNe_madhuna.md">
-<details open><summary><h3>२३ ०९ आगारस्थूणाविरोहणे मधुन ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/26_prakIrNakarmANi/23_09_AgArasthUNAvirohaNe_madhuna.md">
 
 आगारस्थूणाविरोहणे+++(=अङ्कुरजनने)+++, +++(अगारे)+++ मधुन उपवेशने, कुप्त्वां+++(चुल्ल्यां, अम्बरीषे)+++ कपोतपददर्शने, ऽमात्यानां +++(अमा सह वसन्तीति पुत्रभ्रात्रादयः, तेषाम् बहूनाम्)+++
 शरीर-रेषणे+++(=व्याधौ मरणे वा)+++, ऽन्येषु चाद्भुतोत्पातेष्व्  
 अमावास्यायां निशायां +++(= चतुर्धाविभक्तायां रात्रेः द्वतीये भागे)+++ यत्रापां न शृणुयात्  
 तदग्नेरुपसमाधानाद्याज्यभागान्त उत्तरा +++(ऽइमं मे वरुण, तत्वायामिऽइत्येकादश)+++ आहुतीर् हुत्वा जयादि प्रतिपद्यते ९  
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/26_prakIrNakarmANi/23_09_AgArasthUNAvirohaNe_madhuna.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 9. If a post of his house puts forth shoots, or if honey is made in his house (by bees), or if the footprint of a dove is seen on the hearth, or if diseases arise in his household, or in the case of other miracles or prodigies, let him perform in the new-moon night, at dead of night, at a place where he does not hear the noise of water, the rites from the putting (of wood) on the fire down to the Ājyabhāga oblations, and let him offer the oblations (indicated in the) next (Mantras, II, 22, 14-23), and enter upon the performance of the Jaya and following oblations.
@@ -817,27 +876,31 @@ title = "२६ प्रकीर्णकर्माणि"
 अत्र प्रजापतय इति प्रतीकेन "प्राजापत्या व्याहृतीः" इतिवत् "प्रजापते न त्वदेतानि" इत्येषैव गृह्यते ॥९॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/26_prakIrNakarmANi/23_09_AgArasthUNAvirohaNe_madhuna.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 आगारस्थूणाविरोहणे मधुन उपवेशने कुप्त्वां कपोतपददर्शनेऽमात्यानां शरीररेषणेऽन्येषु चाद्भुतोत्पातेष्वमावास्यायां निशायां यत्रापां न शृणुयात्तदग्नेरुपसमाधानाद्याज्यभागान्त उत्तरा आहुतीर्हुत्वा जयादि प्रतिपद्यते ।
 
 </details>
+
 </div>
 
 ## २३ १० परिषेचनान्तङ् कृत्वाऽभिमृतेभ्य
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/26_prakIrNakarmANi/23_10_pariShechanAnta~N_kRtvA-bhimRtebhya.md">
-<details open><summary><h3>२३ १० परिषेचनान्तङ् कृत्वाऽभिमृतेभ्य ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/26_prakIrNakarmANi/23_10_pariShechanAnta~N_kRtvA-bhimRtebhya.md">
 
 परिषेचनान्तं कृत्वा  
 ऽभिमृतेभ्य उत्तरया +++(ऽइमं जीवेभ्यऽ इत्येतया)+++ दक्षिणतो ऽश्मानम् +++(मृत्युवारणार्थम्)+++ परिधिं दधाति १०
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/26_prakIrNakarmANi/23_10_pariShechanAnta~N_kRtvA-bhimRtebhya.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 10. Having performed (the ceremonies) down to the sprinkling (of water) round (the fire), he puts up towards the south with the next (verse, II, 22, 24) a stone as a barrier for those among whom a death has occurred.
@@ -880,11 +943,15 @@ End of the Āpastambīya-Gṛhya-sūtra.
 ॥ समाप्तेयं गृह्यसूत्रव्याख्या ॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/26_prakIrNakarmANi/23_10_pariShechanAnta~N_kRtvA-bhimRtebhya.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 परिषेचनान्तं कृत्वाऽभिमृतेभ्य उत्तरया दक्षिणतोऽश्मानं परिधिं दधाति ।
 
 </details>
+
 </div>

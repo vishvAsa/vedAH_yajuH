@@ -57,13 +57,13 @@ title = "०५ भोजनम्"
 गो-घृत-मिश्र-गोमयेन पाद-पृष्ठम् अनुलिप्य,
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/04_shaM_no.md">
-<details open><summary><h2>०४ शं नो ...{Loading}...</h2></summary>
+
+##  …{Loading}…
 
 शं᳓ नो देवी᳓रभि᳓ष्टय  
 आ᳓पो भवन्तु पीत᳓ये ।  
 शं᳓ यो᳓र्+++(=[अ]मिश्रणाय)+++ अभि᳓ स्रवन्तु नः ॥ ०४॥
 
-</details>
 </div>
 
 इति मन्त्रेण,  
@@ -99,12 +99,13 @@ title = "०५ भोजनम्"
 गोमयेन अनुलिप्य
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/06_shan_no.md">
-<details open><summary><h5>06 शन् नो ...{Loading}...</h5></summary>
+
+#####  …{Loading}…
 
 शन् नो॑ दे॒वीर् अ॒भिष्ट॑ये ।  
 आपो॑ भवन्तु पी॒तये॑ ।  
 शय्ँयोर् अ॒भि स्र॑वन्तु नः ।
-</details>
+
 </div>  
 
 इति मन्त्रेण,  
@@ -142,21 +143,24 @@ title = "०५ भोजनम्"
 **प्राचीनावीती**
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH/prakIrNaH/devaH/classes/raxAMsi/Rk/apahatA_asurA.md">
-<details open><summary><h5>अप॑हता॒ असु॑रा॒ ...{Loading}...</h5></summary>
+
+#####  …{Loading}…
 
 अप॑हता॒ असु॑रा॒ रक्षाँ॑सि  
 पिशा॒चा ये क्षय॑न्ति पृथि॒वीम् अनु॑ ।  
 अ॒न्यत्रेतो॑ गच्छन्तु॒ यत्रैषां॑ गतं॒ मनः॑ ॥
-</details>
+
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/015/01_udIratAmavara_utparAsa.md">
-<details open><summary><h5>०१ उदीरतामवर उत्परास ...{Loading}...</h5></summary>
+
+#####  …{Loading}…
 
 उ᳓द् ईरताम् अ᳓वर उ᳓त् प᳓रास  
 उ᳓न् मध्यमाः᳓ पित᳓रः सोमिया᳓सः  
 अ᳓सुं य᳓ ईयु᳓र् अवृका᳓ ऋतज्ञा᳓स्  
 ते᳓ नो अवन्तु पित᳓रो ह᳓वेषु
-</details>
+
 </div>  
 
 इति भुक्ति-देशे तिलान् सिकतांश्च प्रकीर्य -
@@ -180,14 +184,14 @@ title = "०५ भोजनम्"
 ## अर्चनम्
 
 <div class="js_include" newlevelforh1="2" title="" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/069/08_archata_prArchata.md">
-<details open><summary><h2> ...{Loading}...</h2></summary>
+
+##  …{Loading}…
 
 अ᳓र्चत प्रा᳓र्चत᳓ +++(नराः)+++  
 प्रि᳓यमेधासो +++(=प्रियमेध-सम्बद्धाः)+++ अ᳓र्चत ।  
 अ᳓र्चन्तु पुत्रका᳓ उत᳓  
 पु᳓रं᳓ न᳓ धृष्णु᳓ +++(=धर्षणशीलः)+++ +अर्चत ।।  
 
-</details>
 </div>
 
 इति मन्त्रेण ‘इदं वो अर्चनं’ 
@@ -211,20 +215,22 @@ title = "०५ भोजनम्"
 पित्र्यं दक्षिणामुखः कुर्यात् ।)
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH/prakIrNaH/devaH/classes/pAdapAH/Rk/oShadhayaH_pratimodadhvam.md">
-<details open><summary><h5>ओष॑धयः॒ प्रति॑मोदध्वम् ...{Loading}...</h5></summary>
+
+#####  …{Loading}…
 
 ओष॑धयः॒ प्रति॑मोदध्वम्  
 एनं॒ पुष्पा॑वतीः सुपिप्प॒लाः ।  
 अ॒यं वो॒ गर्भ॑ ऋ॒त्वियः॑  
 प्र॒त्नँ स॒धस्थ॒म् आस॑दत् ॥
-</details>
+
 </div>  
 
 इति मन्त्रेण  
 पूर्ववत् ‘इमानि पुष्पाणि, श्रीतुलसीदलानि च’ इति दद्यात् ॥
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/dhUr_asi_dhUpArtham.md">
-<details open><summary><h5>धूर् असि ...{Loading}...</h5></summary>
+
+#####  …{Loading}…
 
 धूर्+++(=धूस्स्थ हिंसको ऽग्निः)+++ अ॑सि  ।  
 +++('एष वै धुर्योग्निः' (तै.ब्रा. 3.2.4) इति ब्राह्मणम्)+++
@@ -234,33 +240,33 @@ title = "०५ भोजनम्"
 तन् धू॑र्व॒ यव्ँ व॒यन् धूर्वा॑मः ।
 त्वन् दे॒वाना॑मसि  ।   
 
-</details>
 </div>  
  
 
 घ्राण-तृप्त्य्-अर्थम् अयं वो धूपः ।
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_05/01_uddIpyasva_jAtavedo.md">
-<details open><summary><h5>01 उद्दीप्यस्व जातवेदो ...{Loading}...</h5></summary>
+
+#####  …{Loading}…
 
 **उद्दी॑प्यस्व** जातवेदो  
 **ऽप॒घ्नन्** निर्ऋ॑तिं॒ मम॑ ।  
 प॒शूँश्च॒ मह्य॒म् **आव॑ह॒**  
 जीव॑नञ् च॒ दिशो॑ दिश ॥
-</details>
+
 </div>  
 
 ‘अवलोकनार्थम् अयं वो दीपः'
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/008/04_yuvA_suvAsAH.md">
-<details open><summary><h5>०४ युवा सुवासाः ...{Loading}...</h5></summary>
+
+#####  …{Loading}…
 
 यु᳓वा सुवा᳓साः प᳓रिवीत +++(यूप)+++ **आ᳓गात्**  
 स᳓ उ **श्रे᳓यान् भवति** जा᳓यमानः ।  
 तं᳓ धी᳓रासः कव᳓य **उ᳓न्नयन्ति**  
 स्वाध्यो३᳓+++(=सु+आ+धियः)+++ म᳓नसा देवय᳓न्तः+++(=देवकामाः)+++ ॥
 
-</details>
 </div>  
 
 आच्छादनार्थम् इदं वस्त्रं  
@@ -310,7 +316,9 @@ title = "०५ भोजनम्"
 'रक्षोघ्नमन्त्रपठनं करिष्ये' इति सङ्कल्प्य,
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/02_svAdhyAya-brAhmaNAdi/01_niyata-yajJNa-prashaMsA/">
-<details open><summary><h2>०१ नियत-यज्ञ-प्रशंसा ...{Loading}...</h2></summary>
+
+##  …{Loading}…
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 तैत्तिरीयारण्यकम् ॥  
@@ -378,10 +386,13 @@ title = "०५ भोजनम्"
 ततस् ते असुरा अयथोक्तमाचरन्तो अमुह्यन् वैचित्यमगमन् । मुह वैचित्ये । ततो न किञ्चित् कर्तव्याकर्तव्यम् अजानन् ।  
 ततश्चैव ते पराभवन् विनष्टा अभवन्, प्रारब्धकर्मफलालाभो विनाशः । ततस् ते स्वर्गं लोकं नायन्न गताः । अय गतौ ॥
 </details>
-</details>
+
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/02_svAdhyAya-brAhmaNAdi/01_yajJNopavItam/">
-<details open><summary><h2>०१ यज्ञोपवीतम् ...{Loading}...</h2></summary>
+
+##  …{Loading}…
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रसृ॑तेन॒ वै य॒ज्ञेन॑ दे॒वास् स्व॒र्गल्ँ लो॒कम् आ॑य॒न्।  
@@ -467,13 +478,15 @@ title = "०५ भोजनम्"
 एतदेव विपरीतं प्राचीनावीतं यथा सव्यत उपवीय सव्यं बाहुमुद्धरते अवधत्ते दक्षिणमिति । सञ्ज्ञेयं 'प्राचीनावीती निर्वपति' इत्याद्यर्थम् । अन्वर्था चेयं सञ्ज्ञा, प्राचीनस्य उपवीतस्य आवीतम् आवेष्टनरूपं विपरीतात्मकत्वादिति । तेन पित्र्यमुक्तं भवति दैवविपरीतत्वात्पित्र्यस्य । संवीतं समं वीतम् अंसद्वयावलम्बनेन वीतं संवीतम् । उभावपि बाहू यत्राधः क्रियते तत् संवीतं मानुषं मनुष्याणां स्वं भवति ॥  
 इत्यारण्यके द्वितीये प्रथमोनुवाकः ॥
 </details>
-</details>
+
 </div>
 
 [[124]]
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/02_svAdhyAya-brAhmaNAdi/02_sandhyA-vandanam/">
-<details open><summary><h2>०२ सन्ध्या-वन्दनम् ...{Loading}...</h2></summary>
+
+##  …{Loading}…
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रक्षाँ॑सि॒ ह वा॑ पुरोऽनुवा॒के तपोग्र॑म् अतिष्ठन्त।  
@@ -576,7 +589,7 @@ title = "०५ भोजनम्"
 तस्माद् उद्यन्तमस्तंयन्तञ्चादित्यमभिध्यायन् आभिमुख्येन चिन्तयन् कुर्वंश्च प्रदक्षिणं विद्वांश्च असावादियो ब्रह्मेत्य् असावेवादित्यः परम्ब्रह्मेति ब्रह्मादित्ययोरभेदम् आदित्येन चात्मन ऐक्यं जानन् ब्राह्मणः सकलं भद्रं कल्याणम् अश्नुते न केवलं स्वर्गादिकमेव, अपितु सकलं कल्याणम् । अथ य एवं वेद सोऽपि ब्रह्मैव सन् ब्रह्माप्येति ब्रह्मणा ऐक्यं प्रतिपद्यते, किं पुनस्स्वर्गादि सकलं भद्रमश्नुत इति । यद्वा - असावादित्यो ब्रह्मेति विद्वान् तेन चादित्येनात्मन ऐक्यात् स्वयमपि ब्रह्मैव आदित्यः सन् कुर्वन् आचरन् एवं विशिष्टमादित्योपस्थानम् आचरन् सकलं भद्रमश्नुते अपवर्गमपि प्राप्नोति । अथ य एवं वेदिता सोऽपि ब्रह्माप्येति प्राप्नोति ॥  
 इति द्वितीथे द्वितीयोऽनुवाकः ॥
 </details>
-</details>
+
 </div>
 
 इति जपित्वा,  
@@ -594,7 +607,8 @@ title = "०५ भोजनम्"
 (कर्त्रा हुतशिष्टान्नस्य जपः [^8])
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/16_eSha_te.md">
-<details open><summary><h5>१६ एष ते ...{Loading}...</h5></summary>
+
+#####  …{Loading}…
 
 ए॒ष ते॑ तत॒ +++(स्वधासमुद्रः)+++ मधु॑माँ ऊ॒र्मिस् सर॑स्वा॒न्।  
 यावा॑न् अ॒ग्निश् च॑ पृथि॒वी च॒ ताव॑त्य् अस्य मा॒त्रा।  
@@ -614,7 +628,6 @@ title = "०५ भोजनम्"
 यथा॑ ऽऽदि॒त्यो ऽक्षि॒तो ऽनु॑पदस्त+++(=उपक्षयरहितः)+++, ए॒वं मह्यं॑ प्रपिताम॒हायाऽक्षि॒तोऽनु॑पदस्तः स्व॒धा भ॑व।  
 तां त्वँ स्व॒धां तैस् स॒होप॑जीव॒, यजूँ॑षि ते महि॒मा ॥ (19)
 
-</details>
 </div>  
 
 [^8]:
@@ -643,7 +656,8 @@ title = "०५ भोजनम्"
 (विश्वेदेवहस्ते शुद्धोदकं दत्वा,)
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/01_pRthivI_te.md">
-<details open><summary><h5>०१ पृथिवी ते ...{Loading}...</h5></summary>
+
+#####  …{Loading}…
 
 +++(हे अन्न -)+++ पृ॒थि॒वी ते॒ पात्रं॒,   
 द्यौर् अ॑पि॒धानम्।   
@@ -653,21 +667,20 @@ title = "०५ भोजनम्"
 भुक्तवतो ऽनुव्रज्य प्रदक्षिणीकृत्य  
 द्वैधं दक्षिणाग्रान् दर्भान् संस्तीर्य  
 +++(भुञ्जानानामपि तृप्तिरस्त्वित्याह -)+++ अक्षि॑तम् असि॒।  
-मैषां॑ क्षेष्ठा+++(←क्षी क्षये)+++ अ॒मुत्रा॒+++(→परलोके)+++ऽमुष्मिल्ँ॑ लो॒के +++(च ब्राह्मणानाम्)+++ ।
+मैषां॑ क्षेष्ठा+++(←क्षी क्षये)+++ अ॒मुत्रा॒+++(→परलोके)+++ऽमुष्मि॑ल्ँ लो॒के +++(च ब्राह्मणानाम्)+++ ।
 
-</details>
 </div>  
 
 इति सव्येन पात्रमालभ्य दक्षिणेन ब्राह्मणहस्तं गृहीत्वा, अन्नं सर्वं स्पर्शयित्वा 
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/022/17_idaM_viShNurvi.md">
-<details open><summary><h2>१७ इदं विष्णुर्वि ...{Loading}...</h2></summary>
 
-इदव्ँ᳓ वि᳓ष्णुर् +++(अग्नि-विद्युत्-सूर्यात्मना)+++ **वि᳓ चक्रमे**  
+##  …{Loading}…
+
+इद᳓व्ँ वि᳓ष्णुर् +++(अग्नि-विद्युत्-सूर्यात्मना)+++ **वि᳓ चक्रमे**  
 +++(पृथिव्याम् अन्तरिक्षे दिवि च)+++ त्रेधा᳓ **नि᳓ दधे** पद᳓म् ।  
 +++(तैर् आधारैर् जगत्)+++ **स᳓म् ऊढम्** अस्य पाँसुरे᳓ +++(ले इति साम्नि, पांसुमति [पादे])+++ ॥
 
-</details>
 </div>  
 
 > विष्णो! हव्यँ रक्ष
@@ -737,7 +750,8 @@ title = "०५ भोजनम्"
 दक्षिणामुखः सव्यं जान्व् आच्य,
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/yaJNeshvaraH__eko_viShNuH/">
-<details open><summary><h5>यज्ञेश्वरो … एको विष्णुः ...{Loading}...</h5></summary>
+
+#####  …{Loading}…
 
 यज्ञेश्वरो हव्य-समस्त-कव्य-  
 **भोक्ता** ऽव्ययात्मा हरिर् ईश्वरो ऽत्र ।  
@@ -748,7 +762,7 @@ title = "०५ भोजनम्"
 पृथक् भूतान्य् अनेकशः ।  
 त्रीन् लोकान् **व्याप्य** भूतात्मा  
 **भुङ्क्ते** विश्व-भुग् अव्ययः ॥ 
-</details>
+
 </div>  
 
 इति +उच्चार्य
@@ -782,7 +796,9 @@ title = "०५ भोजनम्"
 [[128]]
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarva-prastutiH/06_mahA-nArAyaNopaniShat/32-36_prANe_niviShTaH/03_prANAhutir_dIrghaH.md">
-<details open><summary><h5>०३ प्राणाहुतिर् दीर्घः ...{Loading}...</h5></summary>
+
+#####  …{Loading}…
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रा॒णे निवि॑ष्टो॒ ऽमृत॑ञ्जुहोमि।  
@@ -828,10 +844,13 @@ title = "०५ भोजनम्"
 शि॒वो मा॑ ऽऽवि॒शाऽप्र॑दाहाय।  
 समा॒नाय॒ स्वाहा॑ ।
 </details>
-</details>
+
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarva-prastutiH/06_mahA-nArAyaNopaniShat/32-36_prANe_niviShTaH/04_brahmaNi_ma.md">
-<details open><summary><h5>०४ ब्रह्मणि म ...{Loading}...</h5></summary>
+
+#####  …{Loading}…
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रह्म॑णि म आ॒त्माऽमृ॑त॒त्वाय॑ । (48)
@@ -841,7 +860,7 @@ title = "०५ भोजनम्"
 
 ब्रह्म॑णि म आ॒त्माऽमृ॑त॒त्वाय॑ । (48)
 </details>
-</details>
+
 </div>  
 
 इति जपन् प्राणाहुतीः कारयित्वा, 
@@ -953,74 +972,87 @@ title = "०५ भोजनम्"
 (मधुत्रयम्)
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/10_3_madhu">
-<details open><summary><h5>१० ३ मधु ...{Loading}...</h5></summary>
+
+#####  …{Loading}…
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_3/01_madhu_vAtA.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+#########  …{Loading}…
 
 मधु॒ वाता॑ ऋताय॒ते  
 मधु॑ क्षरन्ति॒ सिन्ध॑वः ।  
 माद्ध्वी॑र् नस् स॒न्त्व् ओष॑धीः ॥
-</details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/10_3/01_madhu_vAtA.md">
-<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+
+#########  …{Loading}…
+
 <details><summary>मूलम्</summary>
 
 मधु॒ वाता॑ ऋताय॒ते  
 मधु॑ क्षरन्ति॒ सिन्ध॑वः ।  
 माद्ध्वी॑र् नस् स॒न्त्व् ओष॑धीः ॥
 </details>
-</details>
 </div>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_3/03_madhu_naktam.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+#########  …{Loading}…
 
 मधु॒ नक्त॑म् उ॒तोषसि॒  
 मधु॑म॒त् पार्थि॑वँ॒ रजः॑ ।   
 मधु॒ द्यौर॑स्तु नः पि॒ता ॥
-</details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/10_3/03_madhu_naktam.md">
-<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+
+#########  …{Loading}…
+
 <details><summary>मूलम्</summary>
 
 मधु॒ नक्त॑म् उ॒तोषसि॒  
 मधु॑म॒त् पार्थि॑वँ॒ रजः॑ ।   
 मधु॒ द्यौर॑स्तु नः पि॒ता ॥
 </details>
-</details>
 </div>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_3/05_madhumAn_no.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः ...{Loading}...</h9></summary>
+
+#########  …{Loading}…
 
 मधु॑मान् नो॒ वन॒स्पति॒र्  
 मधु॑माँ अस्तु॒ सूर्यः॑ ।  
 माद्ध्वी॒र् गावो॑ भवन्तु नः ॥
-</details>
+
 </div>
+
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/10_3/05_madhumAn_no.md">
-<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+
+#########  …{Loading}…
+
 <details><summary>मूलम्</summary>
 
 मधु॑मान् नो॒ वन॒स्पति॒र्  
 मधु॑माँ अस्तु॒ सूर्यः॑ ।  
 माद्ध्वी॒र् गावो॑ भवन्तु नः ॥
 </details>
-</details>
 </div>
-</details>
+
 </div>  
 
 > (ओं मधु॒ मधु॒ मधु॑ ॥)
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/082/02_axannamImadanta_hyava.md">
-<details open><summary><h5>०२ अक्षन्नमीमदन्त ह्यव ...{Loading}...</h5></summary>
+
+#####  …{Loading}…
 
 **अ᳓क्षन्न्**+++(=भुक्तवन्तः)+++, **अ᳓मीमदन्त** ह्य् अ᳓व प्रिया᳓ **अधूषत**+++(=अकम्पयन् [=वक्तुम् अशक्नुवन्])+++ ।  
 **अ᳓स्तोषत**+++(=अस्तुवन्)+++ स्व᳓भानवो वि᳓प्रा   
 न᳓विष्ठया मती᳓+++(त्या)+++, +++(अतो रथे)+++ **यो᳓जा**+++(=योजय)+++ न्वि्᳓ इन्द्र ते ह᳓री ॥  
 
-</details>
 </div>  
 
 इति च जपित्वा
@@ -1238,7 +1270,9 @@ title = "०५ भोजनम्"
 (उपस्थानम्)
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/2/05_bhaxAnuvAkaH/namo_vaH.md">
-<details open><summary><h5>नमो वः ...{Loading}...</h5></summary>
+
+#####  …{Loading}…
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 18षद्भिर्नमस्कारैरुपतिष्ठते - नमो व इति ॥ 
@@ -1451,40 +1485,48 @@ ye that are in this world, of these may I be the most fortunate.
 
 येऽस्मिन् लोके सन्ति मनुष्यास्तेषां मनुष्याणामहं वसिष्ठो वसुमत्तमो भूयासम् । वसुशब्दादिष्ठनि 'विन्मतोर्लुक्' इति लुक्, 'टेः' इति टिलोपः ॥
 </details>
-</details>
+
 </div>  
 
 [[137]]
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/29/46_svAduShaM_sadaH.md">
-<details open><summary><h5>४६ स्वादुषं सदः ...{Loading}...</h5></summary>
+
+#####  …{Loading}…
 
 स्वा॒दु॒-षँ॒सदः॑ पि॒तरो॑ वयो॒-धाः  
 कृ॑च्छ्रे॒-श्रितः॒ शक्ती॑वन्तो गभी॒राः।  
 चि॒त्रसे॑ना॒ ऽइषु॑-बला॒ ऽअमृ॑ध्राः+++(=अयोध्याः)+++  
 स॒तो+++(ऽधिक)+++-वी॑रा ऽउ॒रवो॑ व्रात-सा॒हाः ॥४६ ॥
-</details>
+
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/29/47_brAhmaNAsaH_pitaraH.md">
-<details open><summary><h5>४७ ब्राह्मणासः पितरः ...{Loading}...</h5></summary>
+
+#####  …{Loading}…
 
 ब्राह्म॑णासः॒ पित॑रः॒ सोम्या॑सः  
 शि॒वे नो॒ द्यावा॑-पृथि॒वी ऽअ॑ने॒हसा॑।  
 पू॒षा नः॑ **पातु** दुरि॒ताद् ऋ॑ता-वृधो॒  
 रक्षा॒ माकि॑र् **नो ऽअ॒घशँ॑स ऽईशत** ॥४७ ॥
-</details>
+
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/29/48_suparNaM_vaste.md">
-<details open><summary><h5>४८ सुपर्णं वस्ते ...{Loading}...</h5></summary>
+
+#####  …{Loading}…
 
 +++(इषोः पुच्छे)+++ सु॒प॒र्णं व॑स्ते+++(=आच्छादयति)+++, मृ॒गो ऽअ॑स्या॒ दन्तो॒  
 +++(शल्ययोजने)+++ गोभिः॒ सन्न॑द्धा, पतति॒ प्रसू॑ता।  
 यत्रा॒ नरः॒ सं च॒ वि च॒ द्रव॑न्ति॒  
 तत्रा॒स्माभ्य॒म् इष॑वः॒ शर्म॑ यँसन् ॥४८ ॥+++(5)+++
-</details>
+
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/brAhmaNam/sarva-prastutiH/5/4/11/aShTAv_aShTau.md">
-<details open><summary><h5>अ॒ष्टाव् अ॑ष्टाव् ...{Loading}...</h5></summary>
+
+#####  …{Loading}…
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ऽष्टाव॑ष्टाव॒न्येषु॒ धिष्णि॑ये॒षूप॑ दधात्य॒ष्टाश॑फाᳶ प॒शवᳶ॑ प॒शूने॒वाव॑ रुन्द्धे॒ षण्मा॑र्जा॒लीये॒ षड्वा ऋ॒तव॑ ऋ॒तव॒ᳵ खलु॒ वै दे॒वाᳶ पि॒तर॑ ऋ॒तूने॒व दे॒वान्पि॒तॄन्प्री॑णाति ॥ [55]
@@ -1516,7 +1558,7 @@ ye that are in this world, of these may I be the most fortunate.
 
 इति पञ्चमे चतुर्थे एकादशोनुवाकः ॥
 </details>
-</details>
+
 </div>  
 
 इत्य् उपस्थाय -  
@@ -1529,9 +1571,13 @@ ye that are in this world, of these may I be the most fortunate.
 भोक्तारः -
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/05-09_agnirAyuShmAntsa_vanaspatibhirAyuShmAntena.md">
-<details open><summary><h2>०५-०९ अग्निरायुष्मान्त्स वनस्पतिभिरायुष्मान्तेन ...{Loading}...</h2></summary>
+
+##  …{Loading}…
+
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/2/3/10_AyuShkAmeShTimantrAH/agnir_AyuShmAn.md">
-<details open><summary><h4>अ॒ग्निरायु॑ष्मा॒न्त्स ...{Loading}...</h4></summary>
+
+####  …{Loading}…
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अ॒ग्निरायु॑ष्मा॒न्त्स वन॒स्पति॑भि॒रायु॑ष्मा॒न्तेन॒ त्वायु॒षायु॑ष्मन्तङ्करोमि॒ सोम॒ आयु॑ष्मा॒न्त्स ओष॑धीभिर्य॒ज्ञ आयु॑ष्मा॒न्त्स दक्षि॑णाभि॒र्ब्रह्मायु॑ष्म॒त्तद्ब्रा॑ह्म॒णैरायु॑ष्मद्दे॒वा आयु॑ष्मन्त॒स्ते॑ऽमृते॑न पि॒तर॒ आयु॑ष्मन्त॒स्ते स्व॒धयायु॑ष्मन्त॒स्तेन॒ त्वायु॒षायु॑ष्मन्तङ्करोमि ॥ [40]
@@ -1580,9 +1626,8 @@ ye that are in this world, of these may I be the most fortunate.
 
 इति द्वितीये तृतीये दशमोनुवाकः ॥
 </details>
-</details>
 </div>
-</details>
+
 </div>
 
 इति आशीर्वचने कृते,  
@@ -1594,7 +1639,9 @@ ye that are in this world, of these may I be the most fortunate.
 [[138]]
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/dhanyA_vayam__patra-shAkAdi__mantrahInam__adya_me">
-<details open><summary><h5>धन्या वयं, पत्र-शाकादि, मन्त्रहीनं, अद्य मे ...{Loading}...</h5></summary>
+
+#####  …{Loading}…
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धन्या वयं भवत्पाद-  
@@ -1658,21 +1705,21 @@ ye that are in this world, of these may I be the most fortunate.
 अद्य मे वंशजाः सर्वे  
 याता वोऽनुग्रहात् दिवम् 
 </details>
-</details>
+
 </div>  
 
 इत्युपचारान् उत्त्वा,  
 पादौ निपीड्य
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/038/08_vAjevAje_avata_vAjino.md">
-<details open><summary><h5>०८ वाजेवाजेऽवत वाजिनो ...{Loading}...</h5></summary>
+
+#####  …{Loading}…
 
 वा᳓जेवाजे ऽवत वाजिनो! नो  
 ध᳓नेषु, विप्रा! अमृता! ऋत-ज्ञाः ।  
 अस्य᳓ म᳓ध्वः पिबत माद᳓यध्वं  
 तृप्ता᳓ यात पथि᳓भिर् देव-या᳓नैः ॥
 
-</details>
 </div>  
 
 इति प्रतिब्राह्मणम् उक्त्वा,
@@ -1689,7 +1736,9 @@ ye that are in this world, of these may I be the most fortunate.
 विसृष्टाश्च ब्राह्मणाः,
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/44_vAmadevAya_namaH/">
-<details open><summary><h2>४४ वामदेवाय नमः ...{Loading}...</h2></summary>
+
+##  …{Loading}…
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वा॒म॒दे॒वाय॒ नमो॑  
@@ -1788,7 +1837,7 @@ namaH sarvabhUtadamanAya manonmanAya cha ||
 
 The more common 11, 9, and 8 name variants probably emerged early and existed side by side, depending on the theological principle onto which they were mapped.
 </details>
-</details>
+
 </div>  
 
 (इति मन्त्रं जपेयुः)

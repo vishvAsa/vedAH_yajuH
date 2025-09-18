@@ -6,13 +6,11 @@ title = "१५ अन्नप्राशनम्"
 
 ## १६ ०१ जन्मनोऽधि षष्ठे
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/15_annaprAshanam/16_01_janmano-dhi_ShaShThe.md">
-<details open><summary><h3>१६ ०१ जन्मनोऽधि षष्ठे ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/15_annaprAshanam/16_01_janmano-dhi_ShaShThe.md">
 
 जन्मनोऽधि षष्ठे मासि ब्राह्मणान् भोजयित्वाऽऽशिषो वाचयित्वा दधि मधु घृतमोदनमिति सँसृज्योत्तरैर्मन्त्रैः कुमारं प्राशयेत् ।
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/11_-14_bhUrapAn_tvauShadhInAm.md">
-<details open><summary><h5>११ -१४ भूरपान् त्वौषधीनाम् ...{Loading}...</h5></summary>
 
 भूर् अ॒पां त्वौष॑धीनाँ॒ रसं॒ प्राश॑यामि।  
 शि॒वास्त॒ आप॒ ओष॑धयस् सन्त्व्,  
@@ -24,12 +22,13 @@ title = "१५ अन्नप्राशनम्"
 
 तैत्तिरेण माँसेनेत्य् एके २
 
-</details>
 </div>
-</details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/15_annaprAshanam/16_01_janmano-dhi_ShaShThe.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 1. In the sixth month after the child's birth he serves food to Brāhmaṇas and causes them to pronounce auspicious wishes; then he should pour together curds, honey, ghee, and boiled rice, and should give (the mixture) to the boy to eat, with the next (four) Mantras (II, 14, 7-10);
@@ -73,26 +72,30 @@ title = "१५ अन्नप्राशनम्"
 द्वितीयतृतीययोरपि "त्वौषधीनाम्" इत्यादेरनुषङ्गः ॥१॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/15_annaprAshanam/16_01_janmano-dhi_ShaShThe.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 जन्मनोऽधि षष्ठे मासि ब्राह्मणान् भोजयित्वाऽऽशिषो वाचयित्वा दधि मधु घृतमोदनमिति सँसृज्योत्तरैर्मन्त्रैः कुमारं प्राशयेत् ।
 
 </details>
+
 </div>
 
 ## १६ ०२ तैत्तिरेण माँसेनेत्येके
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/15_annaprAshanam/16_02_taittireNa_mA.Nsenetyeke.md">
-<details open><summary><h3>१६ ०२ तैत्तिरेण माँसेनेत्येके ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/15_annaprAshanam/16_02_taittireNa_mA.Nsenetyeke.md">
 
 तैत्तिरेण माँसेनेत्येके।
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/15_annaprAshanam/16_02_taittireNa_mA.Nsenetyeke.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 2. (He should feed him) with partridge, according to some (teachers).
@@ -111,11 +114,15 @@ title = "१५ अन्नप्राशनम्"
 व्यक्तार्थमेतत् ॥२॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/15_annaprAshanam/16_02_taittireNa_mA.Nsenetyeke.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 तैत्तिरेण माँसेनेत्येके।
 
 </details>
+
 </div>

@@ -6,18 +6,18 @@ title = "२३ ईशानबलिः"
 
 ## १९ १३ ईशानाय स्थालीपाकम्
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/19_13_IshAnAya_sthAlIpAkam.md">
-<details open><summary><h3>१९ १३ ईशानाय स्थालीपाकम् ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/19_13_IshAnAya_sthAlIpAkam.md">
 
 ईशानाय स्थालीपाकं श्रपयित्वा, क्षैत्रपत्यं च,  
 प्राचीमुदीचीं वा दिशम् उपतिष्क्रम्य +++(ग्रामात्)+++  
 स्थण्डिलं कल्पयित्वा  
 ऽग्नेर् उपसमाधानादि १३  
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/23_IshAnabaliH/19_13_IshAnAya_sthAlIpAkam.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 13. [^2]  Having prepared a Sthālīpāka for Lana and one for Kṣetrapati, he goes out in an easterly or northerly direction, prepares a raised surface, (and then follow the ceremonies) beginning with the putting of wood on the fire.
@@ -54,26 +54,30 @@ title = "२३ ईशानबलिः"
 तन्त्रविधानं च क्रमार्थमित्युक्तमेव ॥१३॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/23_IshAnabaliH/19_13_IshAnAya_sthAlIpAkam.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 ईशानाय स्थालीपाकं श्रपयित्वा क्षैत्रपत्यं च प्राचीमुदीचीं वा दिशमुपनिष्क्रम्य स्थण्डिलं कल्पयित्वाऽग्नेरुपसमाधानादि ।
 
 </details>
+
 </div>
 
 ## १९ १४ अपरेणाग्निन् द्वे
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/19_14_apareNAgnin_dve.md">
-<details open><summary><h3>१९ १४ अपरेणाग्निन् द्वे ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/19_14_apareNAgnin_dve.md">
 
 अपरेणाग्निं द्वे कुटी कृत्वा १४
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/23_IshAnabaliH/19_14_apareNAgnin_dve.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 14. To the west of the fire he builds two huts.
@@ -95,35 +99,38 @@ title = "२३ ईशानबलिः"
 इति श्रीसुदर्शनाचार्यविरचिते गृह्यतात्पर्यदर्शने एकोनविंशः खण्डस्समाप्तः ॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/23_IshAnabaliH/19_14_apareNAgnin_dve.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 अपरेणाग्निं द्वे कुटी कृत्वा।
 
 </details>
+
 </div>
 
 ## २० ०१ उत्तरया
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_01_uttarayA.md">
-<details open><summary><h3>२० ०१ उत्तरया ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_01_uttarayA.md">
 
 उत्तरया दक्षिणस्याम् ईशानम् आवाहयति १  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/10_A_tvA.md">
-<details open><summary><h5>१० आ त्वा ...{Loading}...</h5></summary>
 
 आ त्वा॑ वहन्तु॒ हर॑य॒स्+++(=हरितवर्णाश्वाः)+++ सचे॑तसश्  
 श्वे॒तैर् अश्वै॑स् स॒ह के॑तु॒मद्भिः॑ ।  
 वाता॑जिरै॒र्+++(=वातगतिभिः)+++ मम॑ ह॒व्याय॑ शर्व+++(←शॄ हिंसायाम्)+++ ।  
 
-</details>
 </div>
-</details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/23_IshAnabaliH/20_01_uttarayA.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 1. [^1]  With the next (verse, II, 18, 10) he has the Īśāna led to the southern (hut),
@@ -143,26 +150,30 @@ title = "२३ ईशानबलिः"
 मूर्तिमानिहागच्छेति ध्यायेत् ॥१॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/23_IshAnabaliH/20_01_uttarayA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 उत्तरया दक्षिणस्यामीशानमावाहयति ।
 
 </details>
+
 </div>
 
 ## २० ०२ लौकिक्या वाचोत्तरस्याम्
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_02_laukikyA_vAchottarasyAm.md">
-<details open><summary><h3>२० ०२ लौकिक्या वाचोत्तरस्याम् ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_02_laukikyA_vAchottarasyAm.md">
 
 लौकिक्या वाचोत्तरस्यां मीढुषीम् २  
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/23_IshAnabaliH/20_02_laukikyA_vAchottarasyAm.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 2. With worldly words the 'bountiful goddess' to the northern (hut),
@@ -178,26 +189,30 @@ title = "२३ ईशानबलिः"
 +++(सम्पादकटिप्पनी - इदं सूत्रम् अग्रिमे व्याख्यातम् ।)+++
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/23_IshAnabaliH/20_02_laukikyA_vAchottarasyAm.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 लौकिक्या वाचोत्तरस्यां मीढुषीम्।
 
 </details>
+
 </div>
 
 ## २० ०३ मध्ये जयन्तम्
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_03_madhye_jayantam.md">
-<details open><summary><h3>२० ०३ मध्ये जयन्तम् ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_03_madhye_jayantam.md">
 
 मध्ये जयन्तम्+++(=स्कन्दः, इन्द्रसूनुर् वा)+++ ३  
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/23_IshAnabaliH/20_03_madhye_jayantam.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 3. To the middle (between the two huts) the 'conqueror.'
@@ -219,19 +234,22 @@ title = "२३ ईशानबलिः"
 अत्र सूत्रे अनुक्तमप्यौचित्यादावाहितेभ्य आसनानि ददाति ॥३॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/23_IshAnabaliH/20_03_madhye_jayantam.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 मध्ये जयन्तम् ।
 
 </details>
+
 </div>
 
 ## २० ०४ यथोढमुदकानि प्रदाय
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_04_yathoDhamudakAni_pradAya.md">
-<details open><summary><h3>२० ०४ यथोढमुदकानि प्रदाय ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_04_yathoDhamudakAni_pradAya.md">
 
 यथोढम् उदकानि प्रदाय  
 त्रीन् ओदनान्+++(→ओदनभागान्)+++ कल्पयित्वा  
@@ -240,7 +258,6 @@ title = "२३ ईशानबलिः"
 सर्वतस् समवदायोत्तरेण यजुषाग्निं स्विष्टकृतम् ।  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/11_-30_upaspRshatu_mIDhvAnmIDhuShe.md">
-<details open><summary><h5>११ -३० उपस्पृशतु मीढ्वान्मीढुषे ...{Loading}...</h5></summary>
 
 उप॑स्पृशतु मी॒ढ्वान्, मी॒ढुषे॒ स्वाहा।  
 उप॑स्पृशतु मी॒ढुषी॑ मी॒ढुष्यै॒ स्वाहा॑ ।  
@@ -267,19 +284,19 @@ title = "२३ ईशानबलिः"
 
 ज॒य॒न्ताय॒ स्वाहा॑ ।  
 
-</details>
 </div>
+
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/31_agnaye_sviShTakRte.md">
-<details open><summary><h5>३१ अग्नये स्विष्टकृते ...{Loading}...</h5></summary>
 
 अ॒ग्नये॑ स्विष्ट॒कृते॒ सुहु॑तहुत॒ आहु॑तीनां॒ कामा॑नाँ समर्द्धयि॒त्रे स्वाहा॑ ।  
 
-</details>
 </div>
-</details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/23_IshAnabaliH/20_04_yathoDhamudakAni_pradAya.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 4. He gives them water to drink in the same order in which they have been led (to their places), takes three portions of boiled rice (from the Sthālīpāka prepared for Īśāna), takes (these portions of rice) to the fire, makes (the three gods) touch them with the next (formulas, II, 18, II-13), sacrifices of these portions, to each god of the portion which belongs to him, with the next (formulas, II, 18, 14-30), cuts off (Avadānas) from all (portions), and sacrifices with the next Yajus (II, 18, 31) to Agni Sviṣṭakṛt.
@@ -329,34 +346,34 @@ title = "२३ ईशानबलिः"
 अतः **सर्वतस्समवदायेति** वचनं आग्रयणमासिश्राद्धादिवत् सकृदेवावदाय स्विष्टकृदिति शङ्कानिरासार्थम् ॥४॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/23_IshAnabaliH/20_04_yathoDhamudakAni_pradAya.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 यथोढमुदकानि प्रदाय त्रीनोदनान् कल्पयित्वाऽग्निमभ्यानीयोत्तरैरुपस्पर्शयित्वा उत्तरैर्यथास्वमोदनेभ्यो हुत्वा सर्वतस्समवदायोत्तरेण यजुषाग्निं स्विष्टकृतम् ।
 </details>
+
 </div>
 
 ## २० ०५ उत्तरेण
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_05_uttareNa.md">
-<details open><summary><h3>२० ०५ उत्तरेण ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_05_uttareNa.md">
 
 उत्तरेण यजुषोपस्थाय  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/32_svasti_naH.md">
-<details open><summary><h5>३२ स्वस्ति नः ...{Loading}...</h5></summary>
 
 स्व॒स्ति नः॑ पूर्ण॒मुखः॒ परि॑क्रामतु ।  
 
-</details>
 </div>
 
 उत्तरैस् सहोदनानि पर्णान्य् एकैकेन द्वे द्वे दत्त्वा  
 देवसेनाभ्यो दशोत्तराभ्यः ५
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/33_-41_gRhapopaspRsha_gRhapAya.md">
-<details open><summary><h5>३३ -४५ गृहपोपस्पृश गृहपाय ...{Loading}...</h5></summary>
 
 - उत्तरस्याम्
   - गृ॒ह॒पोप॑स्पृश। गृह॒पाय॒ स्वाहा॑ ।  
@@ -375,12 +392,13 @@ title = "२३ ईशानबलिः"
   - दे॒व॒से॒ना उप॑स्पृशत। देवसे॒नाभ्यः॒ स्वाहा॑ ।  
   - या आख्या॑ता॒ याश् चाना॑ख्याता देवसे॒ना उप॑स्पृशत। देवसे॒नाभ्यः॒ स्वाहा॑ ।
 
-</details>
 </div>
-</details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/23_IshAnabaliH/20_05_uttareNa.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 5. Having worshipped (the god Īśāna) with the next Yajus (II, 18, 32), he distributes with the next (formulas, II, 18, 33-39) leaves together with portions of boiled rice, two (leaves) with each (Yajus), then ten to the divine hosts (II, 18, 40), and ten to the (divine hosts) that follow (and are referred to in the next Yajus, II, 18, 41).
@@ -419,36 +437,39 @@ title = "२३ ईशानबलिः"
 उत्तरस्मिन् मन्त्रे "या आख्याता याश्चानाख्याता" इति गुणद्वयवत्यस्ता उत्तरा देवसेनाः ॥५॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/23_IshAnabaliH/20_05_uttareNa.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 उत्तरेण यजुषोपस्थायोत्तरैस्सहौदनानि पर्णान्येकैकेन द्वे द्वे दत्वा दश देवसेनाभ्यो दशोत्तराभ्यः ॥
 
 </details>
+
 </div>
 
 ## २० ०६ पूर्ववदुत्तरैः 
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_06_pUrvavaduttaraiH.md">
-<details open><summary><h3>२० ०६ पूर्ववदुत्तरैः  ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_06_pUrvavaduttaraiH.md">
 
 पूर्ववद् उत्तरैः ६  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/42_-45_dvArApopaspRsha.md">
-<details open><summary><h5>३३ -४५ गृहपोपस्पृश गृहपाय ...{Loading}...</h5></summary>
 
 - द्वा॒रा॒पोप॑स्पृश। द्वारा॒पाय॒ स्वाहा॑ ।  
 - द्वा॒रा॒प्युप॑स्पृश द्वारा॒प्यै स्वाहा॑ ।
 - +++(देव्या)+++ अ॒न्वा॒सा॒रिण॒ उप॑स्पृशत। अन्वासा॒रिभ्य॒स् स्वाहा॑ +++(→मध्ये द्वे)+++।
 - नि॒ष॒ङ्गिन्न् +++(जयन्त!)+++ उप॑स्पृश। निष॒ङ्गिणे॒ स्वाहा॑ +++(→दक्षिणस्यां द्वे)+++।
 
-</details>
 </div>
-</details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/23_IshAnabaliH/20_06_pUrvavaduttaraiH.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 6. With the next (formulas, II, 18, 42-45) he does the same as before (i.e. he distributes two leaves with each Mantra).
@@ -500,35 +521,38 @@ title = "२३ ईशानबलिः"
 "निषङ्गिन्" इति जयन्ताय, तस्याप्यावाहितस्य बलिना भाव्यत्वादिति ॥६॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/23_IshAnabaliH/20_06_pUrvavaduttaraiH.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 पूर्ववदुत्तरैः ।
 
 </details>
+
 </div>
 
 ## २० ०७ ओदनपिण्डं संवृत्य
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_07_odanapiNDaM_saMvRtya.md">
-<details open><summary><h3>२० ०७ ओदनपिण्डं संवृत्य ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_07_odanapiNDaM_saMvRtya.md">
 
 +++(होमबलिशेषेभ्यः त्रिभ्यः ओदनेभ्य उपादाय - केचित्जयन्तस्योदनादिति)+++  
 ओदनपिण्डं संवृत्य  
 पर्ण-पुटे ऽवधायोत्तरेण यजुषा वृक्ष आसजति+++(=अवलम्बयति)+++ ७  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/46_namo_niShangiNe.md">
-<details open><summary><h5>४६ नमो निषङ्गिणे ...{Loading}...</h5></summary>
 
 नमो॑ निष॒ङ्गिणे+++(→ इषुव्यतिरिक्तानां शस्त्राणाम् आवासस्थानवते ।)+++
 
-</details>
 </div>
-</details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/23_IshAnabaliH/20_07_odanapiNDaM_saMvRtya.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 7. Having formed a lump of boiled rice, he puts it into a basket of leaves, and with the next Yajus (II, 18, 46) hangs it up on a tree.
@@ -549,26 +573,30 @@ title = "२३ ईशानबलिः"
 कृत्वावलम्बयति ॥७॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/23_IshAnabaliH/20_07_odanapiNDaM_saMvRtya.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 ओदनपिण्डं संवृत्य पर्णपुटेऽवधायोत्तरेण यजुषा वृक्ष आसजति ।
 
 </details>
+
 </div>
 
 ## २० ०८ अत्र रुद्रान्
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_08_atra_rudrAn.md">
-<details open><summary><h3>२० ०८ अत्र रुद्रान् ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_08_atra_rudrAn.md">
 
 अत्र रुद्रान् जपेत् ८  
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/23_IshAnabaliH/20_08_atra_rudrAn.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 8. Here he should murmur the Rudra texts (Taitt. Saṃh. IV, 5),
@@ -590,26 +618,30 @@ title = "२३ ईशानबलिः"
 तथा "नमो रुद्रेभ्यो ये पृथिव्यां येषामन्नमिषवस्तेभ्यः" "नमो रुद्रेभ्यो ये ऽन्तरिक्षे येषां वात इषवस्तेभ्यः" "नमो रुद्रेभ्यो ये दिवि येषां वर्षमिषवस्तेभ्यो दश प्राचीर्दश दक्षिणा" इत्याद्यनुषङ्गः ॥८॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/23_IshAnabaliH/20_08_atra_rudrAn.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 अत्र रुद्रान् जपेत्।
 
 </details>
+
 </div>
 
 ## २० ०९ प्रथमोत्तमौ वा
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_09_prathamottamau_vA.md">
-<details open><summary><h3>२० ०९ प्रथमोत्तमौ वा ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_09_prathamottamau_vA.md">
 
 प्रथमोत्तमौ वा ९  
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/23_IshAnabaliH/20_09_prathamottamau_vA.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 9. Or the first and last (Anuvāka).
@@ -625,26 +657,30 @@ title = "२३ ईशानबलिः"
 अथ वा रुद्राणां **प्रथमोत्तमाव्** एवानुवाकौ जपेत् ॥९॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/23_IshAnabaliH/20_09_prathamottamau_vA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 प्रथमोत्तमौ वा ।
 </details>
+
 </div>
 
 ## २० १० अभित एतमग्निम्
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_10_abhita_etamagnim.md">
-<details open><summary><h3>२० १० अभित एतमग्निम् ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_10_abhita_etamagnim.md">
 
 अभित एतमग्निं गास् स्थापयति  
 यथैता धूमः प्राप्नुयात् १०  
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/23_IshAnabaliH/20_10_abhita_etamagnim.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 10. He places his cows around the fire so that the smoke (of the sacrifice) may reach them.
@@ -669,27 +705,31 @@ title = "२३ ईशानबलिः"
 केचित्— गोशान्त्यर्थमपीदं कर्मेत्यत्रैतत् ज्ञापकमिति ॥१०॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/23_IshAnabaliH/20_10_abhita_etamagnim.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 अभित एतमग्निं गास्स्थापयति यथैना धूमः प्राप्नुयात् ।
 
 </details>
+
 </div>
 
 ## २० ११ ता
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_11_tA.md">
-<details open><summary><h3>२० ११ ता ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_11_tA.md">
 
 ता गन्धैर् दर्भ-ग्रु+++(=गुरु)+++-मुष्टिनावोक्षति  
 वृषाणम्+++(=वृषभं)+++ एवाग्रे ११  
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/23_IshAnabaliH/20_11_tA.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 11. [^2]  With his firmly shut fist full of Darbha grass he besprinkles (them) with scents; the bull first.
@@ -720,26 +760,30 @@ title = "२३ ईशानबलिः"
 ततो गोचराय गाः प्रस्थापयति ॥११॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/23_IshAnabaliH/20_11_tA.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 ता गन्धैर्दर्भग्रुमुष्टिनाऽवोक्षति वृषाणमेवाग्रे ।
 
 </details>
+
 </div>
 
 ## २० १२ गवाम् मर्गेऽनग्नौ
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_12_gavAm_marge-nagnau.md">
-<details open><summary><h3>२० १२ गवाम् मर्गेऽनग्नौ ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_12_gavAm_marge-nagnau.md">
 
 गवां मर्गेऽनग्नौ क्षेत्रस्य पतिं जयते १२  
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/23_IshAnabaliH/20_12_gavAm_marge-nagnau.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 12. He should perform a sacrifice to Kṣetrapati, without a fire, in the path used by his cows.
@@ -759,35 +803,38 @@ title = "२३ ईशानबलिः"
 **अनग्नौ** भूमावेव **क्षेत्रस्य पतिं यजते** ॥१२॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/23_IshAnabaliH/20_12_gavAm_marge-nagnau.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 गवां मर्गेऽनग्नौ क्षेत्रस्य पतिं यजते ।
 
 </details>
+
 </div>
 
 ## २० १३ ईशानवदावाहनम् 
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_13_IshAnavadAvAhanam.md">
-<details open><summary><h3>२० १३ ईशानवदावाहनम्  ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_13_IshAnavadAvAhanam.md">
 
 ईशानवद् आवाहनम् १३  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/10_A_tvA.md">
-<details open><summary><h5>१० आ त्वा ...{Loading}...</h5></summary>
 
 आ त्वा॑ वहन्तु॒ हर॑य॒स्+++(=हरितवर्णाश्वाः)+++ सचे॑तसश्  
 श्वे॒तैर् अश्वै॑स् स॒ह के॑तु॒मद्भिः॑ ।  
 वाता॑जिरै॒र्+++(=वातगतिभिः)+++ मम॑ ह॒व्याय॑ शर्व+++(←शॄ हिंसायाम्)+++ ।  
 
-</details>
 </div>
-</details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/23_IshAnabaliH/20_13_IshAnavadAvAhanam.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 13. He has (the Kṣetrapati) led to his place in the same way as the Īśāna (see above, Sūtra 1).
@@ -805,26 +852,30 @@ title = "२३ ईशानबलिः"
 क्षेत्रस्य पतेर् **आवाहनमीशानवत्**, "आ त्वा वहन्तु" इत्येतयेत्यर्थः ॥१३॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/23_IshAnabaliH/20_13_IshAnavadAvAhanam.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 ईशानवदावाहनम् ।
 
 </details>
+
 </div>
 
 ## २० १४ चतुर्षु सप्तसु
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_14_chaturShu_saptasu.md">
-<details open><summary><h3>२० १४ चतुर्षु सप्तसु ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_14_chaturShu_saptasu.md">
 
 चतुर्षु सप्तसु वा पर्णेषु +++(स)+++नामादेशं +++("क्षेत्रस्य पतये त्वां ददामि" इति)+++ दधाति १४  
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/23_IshAnabaliH/20_14_chaturShu_saptasu.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 14. He puts (portions of boiled rice) into four or seven leaves, naming (the god).
@@ -847,26 +898,30 @@ title = "२३ ईशानबलिः"
 अत्र तु न सहौदनानि पर्णानि देयानि ; पर्णेष्विति सप्तमीनिर्देशात् ॥१४॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/23_IshAnabaliH/20_14_chaturShu_saptasu.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 चतुर्षु सप्तसु वा पर्णेषु नामादेशं दधाति ।
 
 </details>
+
 </div>
 
 ## २० १५ क्षिप्रं यजेत
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_15_xipraM_yajeta.md">
-<details open><summary><h3>२० १५ क्षिप्रं यजेत ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_15_xipraM_yajeta.md">
 
 क्षिप्रं यजेत पाको देवः १५  
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/23_IshAnabaliH/20_15_xipraM_yajeta.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 15. [^3]  Let him sacrifice quickly; the god has a strong digestion (?).
@@ -888,36 +943,39 @@ title = "२३ ईशानबलिः"
 तथा गन्धादि दत्वैवात्रापि बलिरिति ॥१५॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/23_IshAnabaliH/20_15_xipraM_yajeta.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 क्षिप्रं यजेत पाको देवः ।
 
 </details>
+
 </div>
 
 ## २० १६ उत्तराभ्यामुपतिष्ठते 
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_16_uttarAbhyAmupatiShThate.md">
-<details open><summary><h3>२० १६ उत्तराभ्यामुपतिष्ठते  ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_16_uttarAbhyAmupatiShThate.md">
 
 उत्तराभ्याम् उपतिष्ठते १६  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/47_-48_xetrasya_patinA.md">
-<details open><summary><h5>४७ -४८ क्षेत्रस्य पतिना ...{Loading}...</h5></summary>
 
 क्षेत्र॑स्य॒ पति॑ना व॒यँ हि॒तेने॑व जयामसि ।  
 गाम् अश्व॑म् पोषयि॒त्न्व्+++(=पोषयिताता)+++ आ स नः॑ मृ॒डा॒+++(=सुखय)+++ती॒दृशे॑ +++(कर्मणि)+++।  
 क्षेत्र॑स्य पते॒ मधु॑मन्तम् +++(गोयूथ-)+++ऊ॒र्मिन् - धे॒नुर् इ॑व॒ पयो॑ अ॒स्मासु॑ धुक्ष्व - म॒धु॒श्-चुत॑ङ्, घृ॒तम् इ॑व॒ सुपू॑तम्।  
 ऋ॒तस्य॑ न॒ᳶ पत॑यो मृडयन्तु+++(=सुखयन्तु)+++ ।
 
-</details>
 </div>
-</details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/23_IshAnabaliH/20_16_uttarAbhyAmupatiShThate.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 16. With the next two (verses, II, 18, 47. 48) he does worship (to Kṣetrapati).
@@ -933,26 +991,30 @@ title = "२३ ईशानबलिः"
 "क्षेत्रस्य पतिना वयम्" इति द्वाभ्यामृग्भ्यामुपतिष्ठते ॥१६॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/23_IshAnabaliH/20_16_uttarAbhyAmupatiShThate.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 उत्तराभ्यामुपतिष्ठते ।
 
 </details>
+
 </div>
 
 ## २० १७ स्थालीपाकम् ब्राह्मणान्
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_17_sthAlIpAkam_brAhmaNAn.md">
-<details open><summary><h3>२० १७ स्थालीपाकम् ब्राह्मणान् ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_17_sthAlIpAkam_brAhmaNAn.md">
 
 स्थालीपाकं ब्राह्मणान् भोजयेत् १७  
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/23_IshAnabaliH/20_17_sthAlIpAkam_brAhmaNAn.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 17. The Sthālīpāka (belonging to Īśāna) he gives to the Brāhmaṇas to eat;
@@ -974,26 +1036,30 @@ title = "२३ ईशानबलिः"
 अयं च प्राकृतप्रतिपत्त्यनुवादो ब्राह्मणबहुत्वं विधातुम्, सर्पिष्मत्त्वं निवर्तयितुं वा ॥१७॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/23_IshAnabaliH/20_17_sthAlIpAkam_brAhmaNAn.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 स्थालीपाकं ब्राह्मणान् भोजयेत् ।
 
 </details>
+
 </div>
 
 ## २० १८ क्षैत्रपत्यम् प्राश्नन्ति
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_18_xaitrapatyam_prAshnanti.md">
-<details open><summary><h3>२० १८ क्षैत्रपत्यम् प्राश्नन्ति ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_18_xaitrapatyam_prAshnanti.md">
 
 क्षैत्रपत्यं प्राश्नन्ति ये+++(←दौहित्रादीनामपि सम्बन्धिनां प्रतिग्रहार्थम् प्रयोगः)+++ सनाभयो+++(→पुत्राः भ्रातरश्च)+++ भवन्ति १८  
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/23_IshAnabaliH/20_18_xaitrapatyam_prAshnanti.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 18. That belonging to Kṣetrapati his uterine relations eat,
@@ -1015,26 +1081,30 @@ title = "२३ ईशानबलिः"
 **सनाभयस् सपिण्डाः** ॥१८॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/23_IshAnabaliH/20_18_xaitrapatyam_prAshnanti.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 क्षैत्रपत्यं प्राश्नन्ति ये सनाभयो भवन्ति ।
 
 </details>
+
 </div>
 
 ## २० १९ यथा वैषाम्
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_19_yathA_vaiShAm.md">
-<details open><summary><h3>२० १९ यथा वैषाम् ...{Loading}...</h3></summary>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/23_IshAnabaliH/20_19_yathA_vaiShAm.md">
 
 यथा वैषां कुल-धर्मस् स्यात् १९  
 
-</details>
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/23_IshAnabaliH/20_19_yathA_vaiShAm.md">
-<details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 19. Or as is the custom in their family.
@@ -1060,11 +1130,15 @@ title = "२३ ईशानबलिः"
 समाप्तस्सप्तमश्च पटलः ॥
 </details>
 </details>
+
 </div>
+
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/23_IshAnabaliH/20_19_yathA_vaiShAm.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+<details><summary><h4></h4>></summary>
 
 यथा वैषां कुलधर्मस्स्यात् ।
 
 </details>
+
 </div>

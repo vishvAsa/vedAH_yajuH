@@ -7,7 +7,7 @@ _______
 
 1ब्रह्ममेधे प्रेतस्य देहावयवानां स्वकारणोपसंहारे चित्तमित्यादि ।  परमेश्वरस्य प्रपञ्चाधिष्ठातृरूपाण्युच्यन्ते एते शरीरहोमाः इमां देवतां अनेन यजामीति ।
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/4_somAbhiShavAdi/37_rAjagavI_homaH">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/4_somAbhiShavAdi/37_rAjagavI_homaH">
 <details open><summary><h5>३७ राजगवी-होमः ...{Loading}...</h5></summary>
 
 विश्वेदेवा ऋषयः
@@ -19,7 +19,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-चि॒त्तँ स॑न्ता॒नेन॑  +++(यजामि)+++ ।   
+चित्तँ᳓ सन्ताने᳓न  +++(यजामि)+++ ।   
 </details>
 
 <details><summary>मूलम्</summary>
@@ -39,7 +39,7 @@ Citta with the sinew,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भ॒वय्ँ य॒क्ना+++(←यकृत्)+++  +++(यजामि)+++ ।  
+भवय्ँ᳓ यक्ना᳓+++(←यकृत्)+++  +++(यजामि)+++ ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -59,7 +59,7 @@ Bhava with the liver,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रु॒द्रन्तनि॑म्ना  +++(यजामि)+++ ।  
+रुद्र᳓न्त᳓निम्ना  +++(यजामि)+++ ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -79,7 +79,7 @@ Rudra with the taniman,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पशु॒पतिँ॑ स्थूल-हृद॒येन  +++(यजामि)+++ ।  
+प᳓शुप᳓तिँ स्थूल-हृदये᳓न᳓  +++(यजामि)+++ ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -99,7 +99,7 @@ Paśupati with the thick heart,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्निँ हृद॑येन  +++(यजामि)+++ ।  
+अग्निँ᳓ हृ᳓दयेन  +++(यजामि)+++ ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -119,7 +119,7 @@ Agni with the heart,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रु॒द्रल्ँ लोहि॑तेन  +++(यजामि)+++ ।  
+रुद्रल्ँ᳓ लो᳓हितेन  +++(यजामि)+++ ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -139,7 +139,7 @@ Rudra with the blood,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-श॒र्वम् मत॑स्नाभ्याम्+++(=kidneys)+++  +++(यजामि)+++ ।  
+शर्व᳓म् म᳓तस्नाभ्याम्+++(=kidneys)+++  +++(यजामि)+++ ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -159,7 +159,7 @@ Rudra with the blood,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-म॒हा॒दे॒वम् अ॒न्तᳶपा॑र्श्वेन ।  
+महादेव᳓म् अन्तᳶ᳓पार्श्वेन ।  
 </details>
 
 <details><summary>Keith</summary>
@@ -179,7 +179,7 @@ Mahadeva with the intestinal flesh,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ओ॒षि॒ष्ठ॒-हनँ॑ शिङ्गीनिको॒श्या॑भ्याम्   +++(यजामि)+++ ॥ [37]  
+ओषिष्ठ-ह᳓नँ शिङ्गीनिकोश्या᳙भ्याम्   +++(यजामि)+++ ॥ [37]  
 </details>
 
 <details><summary>Keith</summary>

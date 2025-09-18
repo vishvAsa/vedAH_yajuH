@@ -7,7 +7,7 @@ _______
 
 1अश्वमेधे रात्रिहोमेषु प्रयासायेति परमात्मपरिस्पन्दभेदा उच्यन्ते -
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/4_somAbhiShavAdi/36_sruvAhutayaH">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/4_somAbhiShavAdi/36_sruvAhutayaH">
 <details open><summary><h5>३६ स्रुवाहुतयः ...{Loading}...</h5></summary>
 
 विश्वेदेवा ऋषयः
@@ -19,7 +19,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒या॒साय॒ स्वाहा॑ ।
+प्रयासा᳓य स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -39,7 +39,7 @@ To energy hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ॒या॒साय॒ स्वाहा॑ ।
+आयासा᳓य स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -59,7 +59,7 @@ To effort hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वि॒या॒साय॒ स्वाहा॑ ।
+वियासा᳓य स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -79,7 +79,7 @@ To distraction hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सय्ँ॒या॒साय॒ स्वाहा॑ ।
+सय्ँयासा᳓य स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -99,7 +99,7 @@ To attempt hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒द्या॒साय॒ स्वाहा॑ ।
+उद्यासा᳓य स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -119,7 +119,7 @@ To endeavour hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒व॒या॒साय॒ स्वाहा॑ ।
+अवयासा᳓य स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -139,7 +139,7 @@ To striving hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शु॒चे स्वाहा॑ ।
+शुचे᳓ स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -159,7 +159,7 @@ To heat hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शोका॑य॒ स्वाहा॑ ।
+शो᳓काय स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -179,7 +179,7 @@ To burning hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त॒प्य॒त्वै स्वाहा॑ ।
+तप्यत्वै᳓ स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -199,7 +199,7 @@ To heating hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तप॑ते॒ स्वाहा॑ ।
+त᳓पते स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -219,7 +219,7 @@ To the hot hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्र॒ह्म॒ह॒त्यायै॒ स्वाहा॑ ।
+ब्रह्महत्या᳓यै स्वा᳓हा ।
 </details>
 
 <details><summary>Keith</summary>
@@ -239,7 +239,7 @@ To the slaying of a Brahmin hail!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर्व॑स्मै॒ स्वाहा॑ ॥
+स᳓र्वस्मै स्वा᳓हा ॥
 </details>
 
 <details><summary>मूलम्</summary>
