@@ -22,8 +22,8 @@ unicode_script: devanagari
 
 <details><summary>सायण-टीका</summary>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA.sarva-prastutiH/2/5/09.md"> द्रष्टव्यम्।
-</div>
+([अत्र](/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/2/5/09) द्रष्टव्यम्।
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
