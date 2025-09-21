@@ -49,3 +49,8 @@ unicode_script: devanagari
 
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+“ समिधो अग्न आज्यस्य इत्यनुवाकः समिधो यजति " इत्यत्र व्याख्यातः ।  
+([अत्र](/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/2/6/01) द्रष्टव्यम्।)
+</details>

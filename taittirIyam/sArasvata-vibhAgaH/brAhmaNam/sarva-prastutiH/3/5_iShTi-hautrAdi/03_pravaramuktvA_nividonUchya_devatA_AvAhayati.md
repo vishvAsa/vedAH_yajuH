@@ -75,6 +75,11 @@ unicode_script: devanagari
 2प्रवरमुक्त्वा निविदोऽन्वाह - देवेद्धः देवैः ऋत्विग्भिः अमरैर्वा इन्धितः । सर्वत्र 'तृतीया कर्मणि इति पूर्वपदप्रकृतिस्वरत्वम् । मन्विद्धः मनुनाऽपि देवार्थं प्रागेवेद्धः ।  
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+([अत्र](/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA.sarva-prastutiH/2/5/09) द्रष्टव्यम्।)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋषि॑ष्टुतो॒ विप्रा॑नुमदितः ।  
