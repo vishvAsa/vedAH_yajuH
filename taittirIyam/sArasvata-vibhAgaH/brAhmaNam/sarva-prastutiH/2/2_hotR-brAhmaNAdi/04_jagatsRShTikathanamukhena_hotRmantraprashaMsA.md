@@ -5,7 +5,7 @@ unicode_script: devanagari
 ---
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रजा᳓पतिरकामयत प्र᳓ जायेये᳓ति ।
+प्रजा᳓पतिर् अकामयत - "प्र᳓ जायेये᳓"ति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -28,7 +28,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स᳓ एत᳓न्द᳓शहोतारमपश्यत् ।
+स᳓ एत᳓न् द᳓शहोतारम् अपश्यत् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -43,7 +43,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते᳓न दशधा᳓ऽऽत्मा᳓नव्ँविधा᳓य द᳓शहोत्राऽतप्यत ।
+ते᳓न दशधा᳓ ऽऽत्मा᳓नव्ँ विधा᳓य  
+द᳓शहोत्राऽतप्यत ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -65,8 +66,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त᳓स्य चि᳓त्तिस्स्रु᳓गा᳓सीत् ।
-चित्त᳓मा᳓ज्यम् +++(आसीत् )+++।
+त᳓स्य चि᳓त्तिस् स्रु᳓ग् आ᳓सीत् +++(←"चादिलोपे विभाषा")+++,
+चित्त᳓म् आ᳓ज्यम् +++(आसीत् )+++।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -87,7 +88,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त᳓स्यैता᳓वत्येव᳓ वा᳓गा᳓सीत् ।
+त᳓स्यैता᳓वत्य् एव᳓ वा᳓ग् आ᳓सीत् +++(←"चादिलोपे विभाषा"?)+++।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -127,7 +128,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स᳓ च᳓तुर्होतारमसृजत ।
+स᳓ च᳓तुर्-होतारम् असृजत ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -157,7 +158,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ऽनन्दद् - "अ᳓सृक्षि वा᳓ इम᳓"मि᳓ति ।
+सो᳓ऽनन्दद् - "अ᳓सृक्षि वा᳓ इम᳓म्" इ᳓ति ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -179,7 +180,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त᳓स्य सा᳓मो हवि᳓रा᳓सीत् ।
+त᳓स्य सा᳓मो हवि᳓र् आ᳓सीत् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -201,7 +202,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स᳓ च᳓तुर्होत्राऽतप्यत ।
+स᳓ च᳓तुर्होत्रा ऽतप्यत ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -223,7 +224,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो᳓ऽताम्यत् ।
+सो᳓ ऽताम्यत् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -246,7 +247,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स᳓ "भू᳓"रि᳓ति व्या᳓हरत् ।
+स᳓ "भू᳓र्" इ᳓ति व्या᳓हरत् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -266,7 +267,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स᳓ भू᳓मिमसृजत ।
+स᳓ भू᳓मिम् असृजत ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -286,7 +287,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अग्निहोत्र᳓न्दर्शपूर्णमासौ᳓ य᳓जूँषि ।
+अग्निहोत्र᳓न् दर्शपूर्णमासौ᳓ य᳓जूँषि ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -306,17 +307,17 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स᳓ द्विती᳓यमतप्यत ।  
+स᳓ द्विती᳓यम् अतप्यत ।  
 सो᳓ऽताम्यत् ।  
 स᳓ "भु᳓व" इ᳓ति व्या᳓हरत् ॥ 22 ॥  
-सो᳓ऽन्त᳓रिक्षमसृजत ।  
+सो᳓ ऽन्त᳓रिक्षम् असृजत ।  
 चातुर्मास्या᳓नि सा᳓मानि ।  
 
-स᳓ तृती᳓यमतप्यत ।  
+स᳓ तृती᳓यम् अतप्यत ।  
 सो᳓ऽताम्यत् ।  
-स᳓ "सु᳓व"रि᳓ति व्या᳓हरत् ।
-स᳓ दि᳓वमसृजत ।  
-अग्निष्टोम᳓मुक्थ्य᳙मतिरात्र᳓मृ᳓चः ।
+स᳓ "सु᳓वर्" इ᳓ति व्या᳓हरत् ।
+स᳓ दि᳓वम् असृजत ।  
+अग्निष्टोम᳓म् उक्थ्य᳙म् अतिरात्र᳓म् ऋ᳓चः ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -347,7 +348,8 @@ unicode_script: devanagari
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एता᳓ वै᳓ व्या᳓हृतय इमे᳓ लोकाः᳓ ।
-इमा᳓न्ख᳓लु वै᳓ लोका᳓न᳓नु प्रजाᳶ᳓ पश᳓वश्छ᳓न्दाँसि प्रा᳓जायन्त ।
+इमा᳓न् ख᳓लु वै᳓ लोका᳓न्  
+अ᳓नु प्रजाᳶ᳓ पश᳓वश् छ᳓न्दाँसि प्रा᳓जायन्त ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -374,8 +376,9 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य᳓ एव᳓मेताᳶ᳓ प्रजा᳓पतेᳶ प्रथमा᳓ व्या᳓हृतीᳶ प्र᳓जाता वे᳓द  
-प्र᳓ प्रज᳓या पशु᳓भिर्मिथुनै᳓र्जायते ।
+य᳓ एव᳓म् एताᳶ᳓ प्रजा᳓पतेᳶ  
+प्रथमा᳓ व्या᳓हृतीᳶ प्र᳓जाता वे᳓द  
+प्र᳓ प्रज᳓या पशु᳓भिर् मिथुनै᳓र् जायते ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -391,8 +394,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स᳓ प᳓ञ्चहोतारमसृजत ।  
-स᳓ हवि᳓र्ना᳓विन्दत ।  
+स᳓ प᳓ञ्चहोतारम् असृजत ।  
+स᳓ हवि᳓र् ना᳓विन्दत ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -409,9 +412,10 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त᳓स्मै सो᳓मस्तनु᳓वम्प्रा᳓यच्छद् "एत᳓त्ते हवि᳓"रि᳓ति ।
+त᳓स्मै सो᳓मस् तनु᳓वम् प्रा᳓यच्छद्  
+"एत᳓त् ते हवि᳓र्" इ᳓ति ।
 
-स᳓ प᳓ञ्चहोत्राऽतप्यत ।
+स᳓ प᳓ञ्चहोत्रा ऽतप्यत ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -438,8 +442,8 @@ unicode_script: devanagari
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सो᳓ऽताम्यत् ।
-स᳓ प्रत्य᳓ङ्ङबाधत ।
-सो᳓ऽसुरानसृजत ।
+स᳓ प्रत्य᳓ङ्ङ् अबाधत ।
+सो᳓ऽसुरान् असृजत ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -461,7 +465,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त᳓दस्या᳓प्रियमासीत् ॥ 24 ॥  
+त᳓द् अस्या᳓प्रियम् आसीत् ॥ 24 ॥  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -481,8 +485,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त᳓द्दुर्व᳓र्णँ हि᳓रण्यमभवत् ।
-त᳓द्दुर्व᳓र्णस्य हि᳓रण्यस्य ज᳓न्म ।
+त᳓द् दुर्व᳓र्णँ हि᳓रण्यम् अभवत् ।
+त᳓द् दुर्व᳓र्णस्य हि᳓रण्यस्य ज᳓न्म ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -503,10 +507,10 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स᳓ द्विती᳓यमतप्यत ।  
-सो᳓ऽताम्यत् ।  
-स᳓ प्रा᳓ङबाधत ।  
-स᳓ देवा᳓नसृजत ।  
+स᳓ द्विती᳓यम् अतप्यत ।  
+सो᳓ ऽताम्यत् ।  
+स᳓ प्रा᳓ङ् अबाधत ।  
+स᳓ देवा᳓न् असृजत ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -529,7 +533,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त᳓दस्य प्रिय᳓मासीत् ।  
+त᳓द् अस्य प्रिय᳓म् आसीत् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -549,7 +553,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त᳓त्सुव᳓र्णँ हि᳓रण्यमभवत् ।  
+त᳓त् सुव᳓र्णँ हि᳓रण्यम् अभवत् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -569,7 +573,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त᳓त्सुव᳓र्णस्य हि᳓रण्यस्य ज᳓न्म ।  
+त᳓त् सुव᳓र्णस्य हि᳓रण्यस्य ज᳓न्म ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -591,11 +595,11 @@ unicode_script: devanagari
 
 य᳓ एवँ᳓ सुव᳓र्णस्य हि᳓रण्यस्य ज᳓न्म वे᳓द ॥ 25 ॥  
 सुव᳓र्ण आत्म᳓ना भवति ।
-दुर्व᳓र्णोऽस्य भ्रा᳓तृव्यः ।
+दुर्व᳓र्णो ऽस्य भ्रा᳓तृव्यः ।
 
-त᳓स्मात्सुव᳓र्णँ हि᳓रण्यम्भार्य᳙म् ।
+त᳓स्मात् सुव᳓र्णँ हि᳓रण्यम् भार्य᳙म् ।
 सुव᳓र्ण एव᳓ भवति ।
-ऐ᳓नम्प्रिय᳓ङ्गच्छति ना᳓प्रियम् ।
+ऐ᳓नम् प्रिय᳓ङ् गच्छति ना᳓प्रियम् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -621,11 +625,11 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स᳓ सप्त᳓होतारमसृजत ।  
-स᳓ सप्त᳓होत्रैव᳓ सुवर्गल्ँ᳓ लोक᳓मैत् ।  
-त्रिणवे᳓न स्तो᳓मेनैभ्यो᳓ लोके᳓भ्यो᳓ऽसुरान्प्रा᳓णुदत ।  
-त्रयस्त्रिँशे᳓न प्र᳓त्यतिष्ठत् ।  
-एकविँशे᳓न रु᳓चमधत्त ॥ 26 ॥    
+स᳓ सप्त᳓होतारम् असृजत ।  
+स᳓ सप्त᳓होत्रैव᳓ सुवर्गल्ँ᳓ लोक᳓म् ऐत् ।  
+त्रि-णवे᳓न स्तो᳓मेनैभ्यो᳓ लोके᳓भ्यो᳓ ऽसुरान् प्रा᳓णुदत ।  
+त्रयस्-त्रिँशे᳓न प्र᳓त्यतिष्ठत् ।  
+एकविँशे᳓न रु᳓चम् अधत्त ॥ 26 ॥    
 सप्तदशे᳓न प्रा᳓जायत ।  
 </details>
 
@@ -647,11 +651,12 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य᳓ एवव्ँ᳓ विद्वा᳓न्त्सो᳓मेन य᳓जते सप्त᳓होत्रैव᳓ सुवर्गल्ँ᳓ लोक᳓मेति ।
+य᳓ एवव्ँ᳓ विद्वा᳓न्त् सो᳓मेन य᳓जते  
+सप्त᳓-होत्रैव᳓ सुवर्गल्ँ᳓ लोक᳓म् एति ।
 
-त्रिणवे᳓न स्तो᳓मेनैभ्यो᳓ लोके᳓भ्यो भ्रा᳓तृव्यान्प्र᳓णुदते ।  
-त्रयस्त्रिँशे᳓न प्र᳓तितिष्ठति ।  
-एकविँशे᳓न रु᳓चन्धत्ते ।  
+त्रि-णवे᳓न स्तो᳓मेनैभ्यो᳓ लोके᳓भ्यो भ्रा᳓तृव्यान् प्र᳓णुदते ।  
+त्रयस्-त्रिँशे᳓न प्र᳓तितिष्ठति ।  
+एक-विँशे᳓न रु᳓चन् धत्ते ।  
 सप्तदशे᳓न प्र᳓ जायते ।  
 </details>
 
@@ -701,8 +706,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त᳓स्मात्सप्तदश᳓स्स्तो᳓मो न᳓ निर्हृ᳓त्यः ।
-प्रजा᳓पतिर्वै᳓ सप्तदशः᳓ ।
+त᳓स्मात् सप्तदश᳓स् स्तो᳓मो न᳓ निर्हृ᳓त्यः ।
+प्रजा᳓पतिर् वै᳓ सप्तदशः᳓ ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -723,7 +728,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रजा᳓पतिमेव᳓ मध्यतो᳓ धत्ते प्र᳓जात्यै ॥ 27 ॥  
+प्रजा᳓पतिम् एव᳓ मध्यतो᳓ धत्ते प्र᳓जात्यै ॥ 27 ॥  
 </details>
 
 <details><summary>मूलम्</summary>
