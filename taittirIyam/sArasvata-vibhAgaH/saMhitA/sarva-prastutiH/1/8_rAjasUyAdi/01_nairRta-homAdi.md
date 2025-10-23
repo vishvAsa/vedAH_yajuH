@@ -92,7 +92,7 @@ The (grains) which are thrown down to the west of the support he (offers) on one
 <details><summary>मूलम्</summary>
 
 ये प्र॒त्यञ्च॒श्शम्या॑या अव॒शीय॑न्ते॒+++(=अवपतन्ति)+++   
-तन्नैर्॑ऋ॒तमेक॑कपालङ्कृ॒ष्णव्ँवासः॑ कृ॒ष्णतू॑ष॒न्दक्षि॑णा ।
+तन्नै॑र्ऋ॒तमेक॑कपालङ्कृ॒ष्णव्ँवासः॑ कृ॒ष्णतू॑ष॒न्दक्षि॑णा ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
