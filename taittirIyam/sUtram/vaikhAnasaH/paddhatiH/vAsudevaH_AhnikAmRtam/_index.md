@@ -62,3 +62,5 @@ by
 
 VĀSUDEVA BHATTACHARYA  
 T. T. D. Publications Series No. 513  
+
+शिष्टा भागा [अन्यत्र](/AgamaH_vaikhAnasaH/vaikhAnasaH/kriyA/vAsudevaH_AhnikAmRtam/)। 
