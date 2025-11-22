@@ -1,10 +1,14 @@
 +++
 title = "+श्रीनिवास-यज्वा"
 +++
+
+
+<details open><summary>मूलम्</summary>
+
 Source: [TW](https://archive.org/details/CuCy_unpublished-upanishads-by-pandits-of-adyar-library-and-dr.-c.-kunhan-raja-1938-adyar-library/page/n104/mode/1up)
 
 Source: [TW](https://archive.org/details/aprakashita-upanishadah-unpublished-upanishads/page/88/mode/1up)
-
+</details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -16,3 +20,4 @@ Source: [TW](https://archive.org/details/aprakashita-upanishadah-unpublished-upa
 
 किन्त्व् अत्र श्रीनिवासजय्वेत्य् एवोल्लेखः। 
 </details>
+
