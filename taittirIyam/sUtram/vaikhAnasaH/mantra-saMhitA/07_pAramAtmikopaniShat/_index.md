@@ -20,6 +20,10 @@ There are 3 recessions of this sukta -
 
 - The Dravida Patha is more popular in Tamil Nadu, commented upon by BhattaBhaskara.  
 - The Andhra Patha is commented upon by Srinivasa Makin Vedanta Desika, aka Srinivasa Deekshita.  
-  - The anuvakas, and mantras are the same between the 2 recessions, but there are some significant differences in the wordings of the mantras, and their interpretation by both commentators??  
 - prachina vikhanasa patha (rediscovered and published in 2020s)
+
+11 anuvakas, and same count of 105 mantras , across all recessions. Differences - 
+
+- wording in some mantras - few mantras deviate significantly 
+- svaras change
 </details>
