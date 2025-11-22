@@ -16,9 +16,10 @@ The entire Sukta is recited as part of Homas, particularly in the Maha-Shanti Ho
 
 The Paramatmka is also key and plays a central role in Prana-Prathistha ceremonies, as chanting of all 11 anuvakas is deemed to bring life-energy into a Bimba or Vigraha.   
   
-There are 2 recessions of this sukta, mostly due to commentaries by 2 famous ancient authors.  
+There are 3 recessions of this sukta -
 
-- The Dravida Patha is more popular in Tamil Nadu, commented upon by BhattaBhaskara.  The Andhra Patha is commented upon by Srinivasa Makin Vedanta Desika, aka Srinivasa Deekshita.  
-- The anuvakas, and mantras are the same between the 2 recessions, but there are some significant differences in the wordings of the mantras, and their interpretation by both commentators.   
-
+- The Dravida Patha is more popular in Tamil Nadu, commented upon by BhattaBhaskara.  
+- The Andhra Patha is commented upon by Srinivasa Makin Vedanta Desika, aka Srinivasa Deekshita.  
+  - The anuvakas, and mantras are the same between the 2 recessions, but there are some significant differences in the wordings of the mantras, and their interpretation by both commentators.   
+- prachina vikhanasa patha (rediscovered and published in 2020s)
 </details>
