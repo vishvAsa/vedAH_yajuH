@@ -109,3 +109,9 @@ unicode_script: devanagari
 प्रश्नश्च समाप्तः ॥  
 
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+([अत्र](/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/2/6/7_iDopAhvAnavidhiH.md) द्रष्टव्यम्।)
+
+</details>
