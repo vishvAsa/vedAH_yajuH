@@ -87,19 +87,8 @@ unicode_script: devanagari
 प्राणानां प्राणेभ्योऽग्निर्जुहोति, तनुवै तन्वे विलक्षणायै वायुः चक्षुष आदित्यः ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-
-<details>
-</details>
-
-<details><summary>मूलम्</summary>
-
-
-<details>
-</details>
-
-<summary>भट्टभास्कर-टीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 सर्वे इदं मे भूयादिदं ममेति । तेषां सर्वेषामपि हुताद्धोमादेकैव गौरजायत ।
 </details>

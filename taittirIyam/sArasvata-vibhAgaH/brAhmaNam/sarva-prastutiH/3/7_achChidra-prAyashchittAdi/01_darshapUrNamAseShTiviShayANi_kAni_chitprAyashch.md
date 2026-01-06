@@ -695,19 +695,8 @@ unicode_script: devanagari
 एवं कुर्वन् सर्वेणैव यज्ञेन यजते ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-
-<details>
-</details>
-
-<details><summary>मूलम्</summary>
-
-
-<details>
-</details>
-
-<summary>भट्टभास्कर-टीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 अथ इष्ट्यनन्तरं यदा त्रिरात्रीणा स्यात् अथैनां मैथुनकाले उपह्वयेत - अमूहमस्मीति पङ्क्त्या, रायस्पोषायेत्यादियजुरन्तया ॥
 </details>

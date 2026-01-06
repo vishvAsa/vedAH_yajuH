@@ -1040,19 +1040,7 @@ unicode_script: devanagari
 ब्रह्मवर्चसेन मन्त्रबलेन ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-
-<details>
-</details>
-
-<details><summary>मूलम्</summary>
-
-
-<details>
-</details>
-
-<summary>भट्टभास्कर-टीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 यज्ञस्य यजमानस्य ऋद्धिं फलं अनु लक्षीकृत्य तया वा सह संतिष्ठस्व । लक्षणे 'तृतीयार्थे' इत्येव अनोः कर्मप्रवचनीयत्वम् । 'समवप्रविभ्यः' इत्यात्मनेपदम् ।  
 </details>
