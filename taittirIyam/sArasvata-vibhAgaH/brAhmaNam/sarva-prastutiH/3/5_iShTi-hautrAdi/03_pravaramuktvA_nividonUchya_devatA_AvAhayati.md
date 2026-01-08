@@ -46,7 +46,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ᳓साव᳓सौ ।  
+अ᳓साव् अ᳓सौ ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -96,7 +96,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कविशस्तो᳓ ब्र᳓ह्मसँशितो घृता᳓हवनः ।  
+कविशस्तो᳓ ब्र᳓ह्म-सँशितो घृता᳓हवनः ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -111,7 +111,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रणी᳓र्यज्ञा᳓नाम् ।  
+प्रणी᳓र् यज्ञा᳓नाम् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -126,7 +126,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रथी᳓रध्वरा᳓णाम् ।  
+रथी᳓र् अध्वरा᳓णाम् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -156,7 +156,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तू᳓र्णिर्हव्यवा᳓ट् ।  
+तू᳓र्णिर् हव्य-वा᳓ट् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -171,7 +171,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ᳓स्पा᳓त्रञ्जुहू᳓र्देवा᳓नाम् ॥5॥  
+आ᳓स्! पा᳓त्रञ् जुहू᳓र् देवा᳓नाम् ॥5॥  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -186,7 +186,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-चमसो᳓ देवपा᳓नः ।  
+चमसो᳓ देव-पा᳓नः ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -201,7 +201,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अराँ᳓ इवाग्ने नेमि᳓र्देवाँ᳓ स्त्व᳓म्परिभू᳓रसि ।  
+अराँ᳓ इवाग्ने नेमि᳓र् देवाँ᳓स् त्व᳓म् परिभू᳓र् असि ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -231,8 +231,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अग्नि᳓मग्न आ᳓वह ।  
-सो᳓ममा᳓वह ।  
+अग्नि᳓म् अग्न आ᳓वह ।  
+सो᳓मम् आ᳓वह ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -248,7 +248,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अग्नि᳓मा᳓वह ।  
+अग्नि᳓म् आ᳓वह ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -263,7 +263,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रजा᳓पतिमा᳓वह ।   
+प्रजा᳓पतिम् आ᳓वह ।   
 </details>
 
 <details><summary>मूलम्</summary>
@@ -278,7 +278,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अग्नी᳓षो᳓मावा᳓वह ।   
+अग्नी᳓षो᳓माव् आ᳓वह ।   
 </details>
 
 <details><summary>मूलम्</summary>
@@ -308,8 +308,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ᳓न्द्रमा᳓वह ।    
-महेन्द्र᳓मा᳓वह ।    
+इ᳓न्द्रम् आ᳓वह ।    
+महेन्द्र᳓म् आ᳓वह ।    
 </details>
 
 <details><summary>मूलम्</summary>
@@ -355,7 +355,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्व᳓म्महिमा᳓नमा᳓वह ।  
+स्व᳓म् महिमा᳓नम् आ᳓वह ।  
 </details>
 
 <details><summary>मूलम्</summary>

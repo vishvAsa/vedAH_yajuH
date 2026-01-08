@@ -5,8 +5,8 @@ unicode_script: devanagari
 ---
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अग्नि᳓र् हो᳓ता वे᳓त्वग्निः᳓ ।  
-होत्रव्ँ᳓ वेत्तु प्रावित्र᳓म् ।  
+अग्नि᳓र् हो᳓ता, वे᳓त्व् अग्निः᳓ ।  
+होत्रव्ँ᳓ वेत्तु प्रावित्र᳓म्+++(←रक्षणे)+++ ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -38,7 +38,9 @@ unicode_script: devanagari
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-किञ्च - वयमपि मनुष्यहोतारः स्मः यथा सन्तो वर्तामहे यथा सर्वदा यष्टारस्स्याम । दैवहोतृमात्रेण यागानिर्वृत्तेरित्थमुक्तम् ।  
+किञ्च - वयमपि मनुष्यहोतारः स्मः यथा सन्तो वर्तामहे  
+यथा सर्वदा यष्टारस्स्याम ।  
+दैवहोतृमात्रेण यागानिर्वृत्तेरित्थमुक्तम् ।  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -58,7 +60,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-घृत᳓वतीमध्वर्यो स्रु᳓चमा᳓स्यस्व ।  
+घृत᳓वतीम् अध्वर्यो स्रु᳓चम् आ᳓स्यस्व ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -73,7 +75,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-देवायु᳓वव्ँविश्व᳓वाराम् ।  
+देवायु᳓वव्ँ विश्व᳓वाराम् ।  
 </details>
 
 <details><summary>मूलम्</summary>

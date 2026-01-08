@@ -15,7 +15,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त᳓नून᳓पादग्न आ᳓ज्यस्य वेतु ।
+त᳓नून᳓पाद् अग्न आ᳓ज्यस्य वेतु ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -35,7 +35,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-बर्हि᳓रग्न आ᳓ज्यस्य वेतु ।
+बर्हि᳓र् अग्न आ᳓ज्यस्य वेतु ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -46,7 +46,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्वा᳓हाऽग्नि᳓म् ।  
+स्वा᳓हा ऽग्नि᳓म् ।  
 स्वा᳓हा सो᳓मम् ।  
 </details>
 
