@@ -1,12 +1,12 @@
 ---
 title: ०३ प्रवरमुक्त्वा निविदोनूच्य देवता आवाहयति
 unicode_script: devanagari
----
 
+---
 ## सामिधेनीरनूच्य प्रवरमाह
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अग्ने॑ म॒हाँ अ॑सि ब्राह्मण भारत ।  
+अ᳓ग्ने महाँ᳓ असि ब्राह्मण भारत ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -25,7 +25,6 @@ unicode_script: devanagari
 
 कल्पः —  “अथ निवित्-पदान्य् अन्वाह देवेद्धो मन्विद्ध इति सप्तमे स्वनिति अथ चतसृषु” इति।  
 पाठस् तु—  
-
 
 > अग्ने महा ँ असि ब्राह्मण भारत।  
 > असाव् असौ।  
@@ -47,7 +46,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-असा॒वसौ॑ ।  
+अ᳓साव᳓सौ ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -62,7 +61,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वेद्धो॒ मन्वि॑द्धः ।  
+देवे᳓द्धो म᳓न्विद्धः ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -82,7 +81,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऋषि॑ष्टुतो॒ विप्रा॑नुमदितः ।  
+ऋ᳓षिष्टुतो वि᳓प्रानुमदितः ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -97,7 +96,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-क॒वि॒श॒स्तो ब्रह्म॑सँशितो घृ॒ताह॑वनः ।  
+कविशस्तो᳓ ब्र᳓ह्मसँशितो घृता᳓हवनः ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -112,7 +111,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒णीर्य॒ज्ञाना॑म् ।  
+प्रणी᳓र्यज्ञा᳓नाम् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -127,7 +126,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-र॒थीर॑ध्व॒राणा॑म् ।  
+रथी᳓रध्वरा᳓णाम् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -142,7 +141,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒तूर्तो॒ होता॑ ।  
+अतू᳓र्तो हो᳓ता ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -157,7 +156,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तूर्णि॑र्हव्य॒वाट् ।  
+तू᳓र्णिर्हव्यवा᳓ट् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -172,7 +171,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आस्पात्र॑ञ्जु॒हूर्दे॒वाना॑म् ॥5॥  
+आ᳓स्पा᳓त्रञ्जुहू᳓र्देवा᳓नाम् ॥5॥  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -187,7 +186,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-च॒म॒सो दे॑व॒पानः॑ ।  
+चमसो᳓ देवपा᳓नः ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -202,7 +201,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒राँ इ॑वाग्ने ने॒मिर्दे॒वाँ स्त्वम्प॑रि॒भूर॑सि ।  
+अराँ᳓ इवाग्ने नेमि᳓र्देवाँ᳓ स्त्व᳓म्परिभू᳓रसि ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -217,7 +216,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ व॑ह दे॒वान् यज॑मानाय ।  
+आ᳓ वह देवा᳓न् य᳓जमानाय ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -232,8 +231,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्निम॑ग्न॒ आव॑ह ।  
-सोम॒माव॑ह ।  
+अग्नि᳓मग्न आ᳓वह ।  
+सो᳓ममा᳓वह ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -249,7 +248,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्निमाव॑ह ।  
+अग्नि᳓मा᳓वह ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -264,7 +263,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्र॒जाप॑ति॒माव॑ह ।   
+प्रजा᳓पतिमा᳓वह ।   
 </details>
 
 <details><summary>मूलम्</summary>
@@ -279,7 +278,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्नीषोमा॒वाव॑ह ।   
+अग्नी᳓षो᳓मावा᳓वह ।   
 </details>
 
 <details><summary>मूलम्</summary>
@@ -294,7 +293,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒न्द्रा॒ग्नी आव॑ह ।    
+इन्द्राग्नी᳓ आ᳓वह ।    
 </details>
 
 <details><summary>मूलम्</summary>
@@ -309,8 +308,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्र॒माव॑ह ।    
-म॒हे॒न्द्रमाव॑ह ।    
+इ᳓न्द्रमा᳓वह ।    
+महेन्द्र᳓मा᳓वह ।    
 </details>
 
 <details><summary>मूलम्</summary>
@@ -326,7 +325,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वाँ आ॑ज्य॒पाँ आव॑ह ।  
+देवाँ᳓ आज्यपाँ᳓ आ᳓वह ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -341,7 +340,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्निँ हो॒त्रायाव॑ह ।  
+अग्निँ᳓ होत्रा᳓या᳓वह ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -356,7 +355,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्वम्म॑हि॒मान॒माव॑ह ।  
+स्व᳓म्महिमा᳓नमा᳓वह ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -371,7 +370,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ चा॑ग्ने दे॒वान् वह॑ ।  
+आ᳓ चाग्ने देवा᳓न् व᳓ह ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -386,7 +385,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सु॒यजा॑ च यज जातवेदः ॥6॥  
+सुय᳓जा च यज जातवेदः ॥6॥  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -398,8 +397,6 @@ unicode_script: devanagari
 
 तत आहूतान् सुयजा शोभनयजनेन यागेन यज च हे जातवेदः! जातप्रमाज्ञान! जानासि हि तथा कर्तुम् । 'चवायोगे प्रथमा' इति प्रथमा तिङ्विभक्तिर्निहन्यते ॥
 
-
 इति तैत्तिरीये ब्राह्मणे तृतीये पञ्चमे इष्टिहौत्रे तृतीयोऽनुवाकः ॥  
 
 </details>
-
