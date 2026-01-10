@@ -5,7 +5,7 @@ unicode_script: devanagari
 ---
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-देव᳓म्बर्हिः᳓ ।  
+देव᳓म् बर्हिः᳓ ।  
 वसुव᳓ने वसुधे᳓यस्य वेतु ।  
 </details>
 
@@ -44,16 +44,6 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-देवो᳓ अग्नि᳓स्स्विष्टकृ᳓त् ।  
-</details>
-
-<details><summary>मूलम्</summary>
-
-सु॒द्रवि॑णा म॒न्द्रᳵ क॒विः ।   
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 देवो᳓ अग्नि᳓स्स्विष्टकृ᳓त् ।
 </details>
 
@@ -64,8 +54,19 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सत्य᳓मन्मायजी᳓ हो᳓ता ।  
-हो᳓तुर्होतुरा᳓यजीयान् ।
+सुद्र᳓विणा मन्द्रᳵ᳓ कविः᳓ ।   
+</details>
+
+<details><summary>मूलम्</summary>
+
+सु॒द्रवि॑णा म॒न्द्रᳵ क॒विः ।   
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सत्य᳓मन्मा यजी᳓ हो᳓ता ।  
+हो᳓तुर् होतुर् आ᳓यजीयान् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -81,11 +82,11 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ᳓ग्ने या᳓न्देवा᳓न᳓याट् ।  
-याँ᳓ अ᳓पिप्रेः ।  
-ये᳓ ते होत्रे᳓ अ᳓मत्सत ।  
-ताँ᳓ ससनु᳓षीँ हो᳓त्रान्देवङ्गमा᳓म् ।  
-दिवि᳓ देवे᳓षु यज्ञ᳓मे᳓रयेम᳓म् ।
+अ᳓ग्ने या᳓न् देवा᳓न् अ᳓याट्,  
+याँ᳓ अ᳓पिप्रेः ,  
+ये᳓ ते होत्रे᳓ अ᳓मत्सत,  
+ताँ᳓ ससनु᳓षीँ हो᳓त्रान् देवङ्-गमा᳓म्  
+दिवि᳓ देवे᳓षु यज्ञ᳓म् ए᳓रयेम᳓म् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -104,7 +105,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्विष्टकृ᳓च्चा᳓ग्ने हो᳓ता᳓ऽभूः ।  
+स्विष्टकृ᳓च् चा᳓ग्ने हो᳓ता᳓ऽभूः ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -119,7 +120,8 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वसुव᳓ने वसुधे᳓यस्य नमोवाके᳓ वी᳓हि ॥19॥  
+वसुव᳓ने वसुधे᳓यस्य  
+नमोवाके᳓ वी᳓हि ॥19॥  
 </details>
 
 <details><summary>मूलम्</summary>

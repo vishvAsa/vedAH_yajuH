@@ -5,7 +5,8 @@ unicode_script: devanagari
 ---
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-॥ शीक्षावल्ली तैत्तिरीयोपनिषदि ॥ आङ्ग्लानुवादस् सरसो [ऽत्र](https://sanskritdocuments.org/doc_upanishhat/shikshaavalii.html)।
+॥ शीक्षावल्ली तैत्तिरीयोपनिषदि ॥ आङ्ग्लानुवादस् सरसो [ऽत्र](https://sanskritdocuments.org/doc_upanishhat/shikshaavalii.html)।  
+स्वरा व्याकरणं व्यभिचरन्त्य् अत्र। 
 </details>
 
 
