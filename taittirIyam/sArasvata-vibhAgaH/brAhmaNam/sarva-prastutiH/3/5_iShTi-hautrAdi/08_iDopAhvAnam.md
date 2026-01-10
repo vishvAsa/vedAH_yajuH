@@ -3,6 +3,15 @@ title: ०८ इडोपाह्वानम्
 unicode_script: devanagari
 
 ---
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/3/5_iShTi-hautrAdi/08_iDopAhvAnam/upahUtaM_rathantaram.md" unfilled newLevelForH1="5" includeTitle="false"> 
+
+<details><summary>विषयः</summary>
+
+इष्टिहौत्रम्॥
+</details>
+  
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ᳓पहूतँ रथन्तरँ᳓ सह᳓ पृथिव्या᳓ ।   
@@ -13,6 +22,11 @@ unicode_script: devanagari
 
 उप॑हूतँ रथन्त॒रँ स॒ह पृ॑थि॒व्या ।   
 उप॑ मा रथन्त॒रँ स॒ह पृ॑थि॒व्या ह्व॑यताम् ।   
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+1अथेडोपाह्वानम् - उपहूतं रथन्तरमित्यादि ॥ रथन्तरादीनां साम्नां प्राथम्यादिना पृथिव्यादिभिः उपहूतवम् । यद्वा - रममाणानां तरं तारकं रथंतरं अन्नं तत्पृथिव्या सह उपहूतमित्यर्थः । शिष्टं स्पष्टम् ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -77,36 +91,52 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ᳓पहूताँ᳓(४) हो᳓ ।  
-इ᳓डो᳓पहूता ।   
-उ᳓पहूते᳓डा ।  
-उ᳓पो अस्माँ᳓ इ᳓डा ह्वयताम् ।
-इ᳓डो᳓पहूता ।  
-उ᳓पहूते᳓डा ।
+उ᳓पहूताँ᳓ (4) हो᳓ ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-उप॑हू॒ताँ(४) हो ।  
-इडोप॑हूता ।   
-उप॑हू॒तेडा॑ ।  
-उपो॑ अ॒स्माँ इडा॑ ह्वयताम् ।
-इडोप॑हूता ।  
-उप॑हू॒तेडा॑ ।
+उप॑हू॒ताँ (4) हो ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मानवी᳓ घृत᳓पदी मैत्रावरुणी᳓ ।  
+इ᳓डो᳓पहूता ।  
+उ᳓पहूते᳓डा ।  
+उ᳓पो अस्माँ᳓ इ᳓डा ह्वयताम् ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+इडोप॑हूता ।  
+उप॑हू॒तेडा॑ ।  
+उपो॑ अ॒स्माँ इडा॑ ह्वयताम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इ᳓डो᳓पहूता ।  
+उ᳓पहूते᳓डा ।  
+मानवी᳓ घृत᳓पदी मैत्रावरुणी᳓ ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+इडोप॑हूता ।  
+उप॑हू॒तेडा॑ ।  
+मा॒न॒वी घृ॒तप॑दी मैत्रावरु॒णी ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ब्र᳓ह्म देव᳓-कृतम् उ᳓पहूतम् ॥17॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-मा॒न॒वी घृ॒तप॑दी मैत्रावरु॒णी ।  
-ब्रह्म॑ दे॒वकृ॑त॒मुप॑हूतम् ॥17॥  
-
+ब्रह्म॑ दे॒वकृ॑त॒मुप॑हूतम् ॥17॥
 </details>
+</div>  
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -124,19 +154,22 @@ unicode_script: devanagari
 ये य॒ज्ञप॑तिव्ँ॒वर्धा॑न् ।
 </details>
 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/3/5_iShTi-hautrAdi/08_iDopAhvAnam/upahUte_dyAvApRthivI.md" unfilled newLevelForH1="5" includeTitle="false"> 
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ᳓पहूते द्या᳓वापृथिवी᳓ ।
-पूर्वजे᳓ ऋता᳓वरी ।
+उ᳓पहूते द्या᳓वापृथिवी᳓ ।  
+पूर्वजे᳓ ऋता᳓वरी ।  
 देवी᳓ देव᳓पुत्रे ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-उप॑हूते॒ द्यावा॑पृथि॒वी ।
-पू॒र्व॒जे ऋ॒ताव॑री ।
-दे॒वी दे॒वपु॑त्रे ।
+उप॑हूते॒ द्यावा॑पृथि॒वी ।  
+पू॒र्व॒जे ऋ॒ताव॑री ।  
+दे॒वी दे॒वपु॑त्रे ।  
 </details>
+</div>  
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -179,8 +212,6 @@ unicode_script: devanagari
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-1अथेडोपाह्वानम् - उपहूतं रथन्तरमित्यादि ॥ रथन्तरादीनां साम्नां प्राथम्यादिना पृथिव्यादिभिः उपहूतवम् । यद्वा - रममाणानां तरं तारकं रथंतरं अन्नं तत्पृथिव्या सह उपहूतमित्यर्थः । शिष्टं स्पष्टम् ॥  
-
-इति तैत्तिरीये ब्राह्मणे तृतीये पञ्चमे अष्टमोऽनुवाकः ॥  
-
+इति तैत्तिरीये ब्राह्मणे तृतीये पञ्चमे अष्टमोऽनुवाकः ॥
 </details>
+
