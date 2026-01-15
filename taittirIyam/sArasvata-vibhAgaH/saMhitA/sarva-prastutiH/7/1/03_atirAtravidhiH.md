@@ -12,11 +12,6 @@ title = "०३ अतिरात्रविधिः"
 
  
 
-<details><summary>मूलम् (संयुक्तम्)</summary>
-
-ब्र॒ह्म॒वा॒दिनो॑ वदन्ति॒ स त्वै य॑जेत॒ यो॑ऽग्निष्टो॒मेन॒ यज॑मा॒नोऽथ॒ सर्व॑स्तोमेन॒ यजे॒तेति
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्र॒ह्म॒वा॒दिनो॑ वदन्ति -  
@@ -88,12 +83,6 @@ The theologians say,
 </details>
 
 
- 
-<details><summary>मूलम् (संयुक्तम्)</summary>
-
-यस्य॑ त्रि॒वृत॑मन्त॒र्यन्ति॑ प्रा॒णाँस्तस्या॒न्तर्य॑न्ति प्रा॒णेषु॒ मेऽप्य॑स॒दिति॒ खलु॒ वै य॒ज्ञेन॒ यज॑मानो यजते॒
-</details>
-
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -150,13 +139,6 @@ If they omit the Trivrt Stoma,
 then his vital airs are omitted,  
 but he who offers the sacrifice does so with the wish,  
 'May it be in my vital airs'. 
-</details>
-
-
-
-<details><summary>मूलम् (संयुक्तम्)</summary>
-
-यस्य॑ पञ्चद॒शम॑न्त॒र्यन्ति॑ वी॒र्य॑न्तस्या॒न्तर्य॑न्ति वी॒र्ये॑ मेऽप्य॑स॒दिति॒ खलु॒ वै य॒ज्ञेन॒ यज॑मानो यजते  [8]
 </details>
 
 
@@ -236,11 +218,6 @@ but he who offers the sacrifice does so with the wish,
 </details>
 
 
-<details><summary>मूलम् (संयुक्तम्)</summary>
-
-यस्यै॑कविँ॒शम॑न्त॒र्यन्ति॑ प्रति॒ष्ठान्तस्या॒न्तर्य॑न्ति प्रति॒ष्ठाया॒म्मेऽप्य॑स॒दिति॒ खलु॒ वै य॒ज्ञेन॒ यज॑मानो यजते
-</details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -280,11 +257,6 @@ but he who offers the sacrifice does so with the wish,
 
 </details>
 ______________________
-
-<details><summary>मूलम् (संयुक्तम्)</summary>
-
-यस्य॑ त्रिण॒वम॑न्त॒र्यन्त्यृ॒तूँश्च॒ तस्य॑ नक्ष॒त्रिया॑ञ्च वि॒राज॑म॒न्तर्य॑न्त्यृ॒तुषु॒ मेऽप्य॑सन्नक्ष॒त्रिया॑याञ्च वि॒राजीति॑ [9]  खलु॒ वै य॒ज्ञेन॒ यज॑मानो यजते 
-</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -351,10 +323,6 @@ but he who offers the sacrifice does so with the wish,
 </details>
 
 
-<details><summary>मूलम् (संयुक्तम्)</summary>
-
-यस्य॑ त्रयस्त्रिँ॒शम॑न्त॒र्यन्ति॑ दे॒वता॒स्तस्या॒न्तर्य॑न्ति दे॒वता॑सु॒ मेऽप्य॑स॒दिति॒ खलु॒ वै य॒ज्ञेन॒ यज॑मानो यजते
-</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -410,10 +378,6 @@ and he who offers the sacrifice does so with the wish,
 
 ## अतिरात्रविधानम्
 
-<details><summary>मूलम् (संयुक्तम्)</summary>
-
-यो वै स्तोमा॑नामव॒मम्प॑र॒मता॒ङ्गच्छ॑न्तव्ँ॒वेद॑ पर॒मता॑मे॒व ग॑च्छति त्रि॒वृद्वै स्तोमा॑नामव॒मस्त्रि॒वृत्प॑र॒मो य ए॒वव्ँ वेद॑ पर॒मता॑मे॒व ग॑च्छति ॥ [10]
-</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
