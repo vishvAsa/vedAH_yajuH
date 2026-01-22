@@ -551,7 +551,7 @@ There is a Saptadaśa (Stoma), for the obtainment of food; verily also he gains 
 </div>
 
 
-<details><summary>मूलम् (संयुक्तम्)</summary>
+<details><summary>मूलम् </summary>
 
 पञ्चविँ॒शो॑ऽग्निष्टो॒मो भ॑वति प्र॒जाप॑ते॒राप्त्यै॑ महाव्र॒तवा॑न॒न्नाद्य॒स्याव॑रुद्ध्यै  
 </details>
@@ -574,9 +574,11 @@ There is an Agnistoma with the Pañcadaśa (Stoma), for the gaining of Prajapati
 </details>
 </div>
 
-<details><summary>मूलम् (संयुक्तम्)</summary>
+<details><summary>मूलम् /summary>
 
 विश्व॒जित्सर्व॑पृष्ठोऽतिरा॒त्रो भ॑वति॒ सर्व॑स्या॒भिजि॑त्यै ॥ [39]  
+
+इति सप्तमे प्रथमे दशमोनुवाकः ॥  
 </details>
 
 
