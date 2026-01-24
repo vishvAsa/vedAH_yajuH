@@ -4473,7 +4473,8 @@ Sieben Umschlusshölzer waren ihm, dreimal sieben Schichten des Brennholzes wurd
 <details><summary>मूलम्</summary>
 
 धा॒ता पु॒रस्ता॒द्यमु॑दाज॒हार॑ । श॒क्रः प्रवि॒द्वान्प्र॒दिश॒श्चत॑स्रः ।  
-तमे॒वं वि॒द्वान॒मृत॑ इ॒ह भ॑वति । नान्यः पन्था॒ अय॑नाय विद्यते । १७
+सर्वा॑णि रू॒पाणि॑ वि॒चित्य॒ धीरः॑ ।  
+नामा॑नि कृ॒त्वाऽभि॒वद॒न् यद् आस्ते॑ । १६
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
