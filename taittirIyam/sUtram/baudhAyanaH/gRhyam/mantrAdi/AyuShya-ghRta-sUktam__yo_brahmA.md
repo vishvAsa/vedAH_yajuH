@@ -16,7 +16,7 @@ One candidate is the AV AraNyaka which was at least partly known down to the tim
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(मृगशिरसि यथा दृश्यते)+++  
++++(मृग-शिरसि यथा दृश्यते)+++  
 यो ब्रह्मा **ब्रह्मण उज्जहार**  
 प्राणैः **शिरः** कृत्ति-वासाः पिनाकी +++(आर्द्रा-स्थः)+++।  
 ईशानो देवः स न आयुर् **दधातु**  
@@ -25,9 +25,8 @@ One candidate is the AV AraNyaka which was at least partly known down to the tim
 
 <details><summary>मूलम्</summary>
 
-+++(मृगशिरसि यथा दृश्यते)+++  
 यो ब्रह्मा **ब्रह्मण उज्जहार**  
-प्राणैः **शिरः** कृत्तिवासाः पिनाकी +++(आर्द्रा-स्थः)+++।  
+(प्राणैः **शिरः**)(/प्राणेश्वरः) कृत्तिवासाः पिनाकी।  
 ईशानो देवः स न आयुर् **दधातु**  
 तस्मै **जुहोमि** हविषा घृतेन ॥ १ ॥
 </details>
@@ -35,7 +34,7 @@ One candidate is the AV AraNyaka which was at least partly known down to the tim
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(आर्द्रा-रूपेण)+++ **विभ्राजमानः** सरिरस्य+++(=सलिलस्य [आकाशगङ्गायाः])+++ मध्याद्  
-रोचमानो घर्मरुचिर् य **आगात्** ।  
+रोचमानो घर्म-रुचिर् य **आगात्** ।  
 स मृत्यु-पाशान् **अपनुद्य** घोरान्  
 इहायुषेणो घृतम् **अत्तु** देवः ॥ २ ॥
 </details>
@@ -43,7 +42,7 @@ One candidate is the AV AraNyaka which was at least partly known down to the tim
 <details><summary>मूलम्</summary>
 
 +++(आर्द्रा-रूपेण)+++ **विभ्राजमानः** सरिरस्य+++(=सलिलस्य [आकाशगङ्गायाः])+++ मध्याद्  
-रोचमानो घर्मरुचिर् य **आगात्** ।  
+रोचमानो घर्म-रुचिर् य **आगात्** ।  
 स मृत्यु-पाशान् **अपनुद्य** घोरान्  
 इहायुषेणो घृतम् **अत्तु** देवः ॥ २ ॥
 </details>
@@ -62,7 +61,6 @@ One candidate is the AV AraNyaka which was at least partly known down to the tim
 यम् **आदधात्** पुरु-रूपं जयन्तम् ।  
 सुवर्ण-रम्भ-ग्रहम् अर्कम् **अर्च्यं**  
 तमायुषे वर्धयामो घृतेन ॥ ३ ॥
-
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
