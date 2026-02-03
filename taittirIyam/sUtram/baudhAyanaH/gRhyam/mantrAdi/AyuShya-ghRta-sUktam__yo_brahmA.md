@@ -1,5 +1,5 @@
 +++
-title = "आयुष्य\u200c/घृत-सूक्तम्"
+title = "आयुष्य/ घृत-सूक्तम्"
 
 +++
 
@@ -21,6 +21,14 @@ One candidate is the AV AraNyaka which was at least partly known down to the tim
 ईशानो देवः स न आयुर् **दधातु**  
 तस्मै **जुहोमि** हविषा घृतेन ॥ १ ॥
 </details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+![](../images/ArdrA_mRga-shiraH_iNvakAH_kRttikAH.jpg)
+{caption="" class="thumbnail"}
+
+</details>
+
 
 <details><summary>मूलम्</summary>
 
