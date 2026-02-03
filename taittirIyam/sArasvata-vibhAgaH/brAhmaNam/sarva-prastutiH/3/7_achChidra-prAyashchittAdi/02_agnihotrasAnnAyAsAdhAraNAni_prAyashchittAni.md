@@ -45,20 +45,7 @@ unicode_script: devanagari
 य॒ज्ञᳶ प्र॒जाप॑तिः ।           
 प्र॒जाप॑तावे॒व य॒ज्ञम्प्रति॑ष्ठापयति ।  
 </details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-
-<details>
-</details>
-
-<details><summary>मूलम्</summary>
-
-
-<details>
-</details>
-
-<summary>भट्टभास्कर-टीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 प्राजापत्ययेति । 'प्रजापते न त्वत्' इति ।  
 </details>

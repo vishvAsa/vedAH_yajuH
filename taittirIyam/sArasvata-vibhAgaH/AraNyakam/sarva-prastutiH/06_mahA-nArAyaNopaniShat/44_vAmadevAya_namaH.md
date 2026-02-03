@@ -56,6 +56,12 @@ unicode_script = "devanagari"
 </details>
 
 
+<details><summary>सायण-टीका</summary>
+
+उत्तरवक्त्रप्रतिपादकं मन्त्रमाह---  उत्तरवत्क्ररूपो वामदेवस्तस्यैव विग्रहविशेषा ज्येष्ठादिनामतकाः। एते च महादेवपीठशक्तीनां वामादीनां नवानां पतयः पुरुषाः। तेभ्यो नवभ्यो नमस्कारोऽस्तु॥
+</details>
+
+
 <details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
 
 The vAmadeva mantra of the pa~nchabrahma-s is the mantra of the 11 rudra-s. It names a total of 11 rudra-s, an ancient number associated with the rudra-s. The shatapatha brAhmaNa of the shuklayajurveda gives a different list of rudra-s, 9 in number. Notably, this number is important in the later tAntrika tradition (e.g., navAtman bhairava and the navAtman mantra of the early Urdhvasrotas; 9^2 also underlies the structure of the vyomavyApin mantra).  

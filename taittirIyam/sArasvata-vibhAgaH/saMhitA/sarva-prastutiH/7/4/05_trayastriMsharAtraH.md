@@ -45,6 +45,7 @@ title = "०५ त्रयस्त्रिंशरात्रः"
 
 +++(३)+++ प॒ञ्चा॒हा भ॑वन्ति ।  
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/brAhmaNam/sarva-prastutiH/7/1/10_pancharAtravidhiH/panchatA-mahimA.md">
 <details open><summary><h3>पञ्चता-महिमा ...{Loading}...</h3></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -72,6 +73,7 @@ the sacrifice is fivefold; verily he wins the sacrifice.
 </details>
 </details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रीण्या॑श्वि॒नानि॑+++(=अश्विनशस्त्रवन्त्य् अतिरात्राणि)+++ भवन्ति ।  

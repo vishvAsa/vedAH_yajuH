@@ -5,8 +5,8 @@ unicode_script: devanagari
 ---
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्निर् होता॒ वेत्व॒ग्निः ।  
-हो॒त्रव्ँ वे॑त्तु प्रावि॒त्रम् ।  
+अग्नि᳓र् हो᳓ता, वे᳓त्व् अग्निः᳓ ।  
+होत्रव्ँ᳓ वेत्तु प्रावित्र᳓म्+++(←रक्षणे)+++ ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -28,7 +28,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्मो व॒यम् ।  
+स्मो᳓ वय᳓म् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -38,12 +38,14 @@ unicode_script: devanagari
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-किञ्च - वयमपि मनुष्यहोतारः स्मः यथा सन्तो वर्तामहे यथा सर्वदा यष्टारस्स्याम । दैवहोतृमात्रेण यागानिर्वृत्तेरित्थमुक्तम् ।  
+किञ्च - वयमपि मनुष्यहोतारः स्मः यथा सन्तो वर्तामहे  
+यथा सर्वदा यष्टारस्स्याम ।  
+दैवहोतृमात्रेण यागानिर्वृत्तेरित्थमुक्तम् ।  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सा॒धु ते॑ यजमान दे॒वता॑ ।  
+साधु᳓ ते यजमान देव᳓ता ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -58,7 +60,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-घृ॒तव॑तीमध्वर्यो॒ स्रुच॒मास्य॑स्व ।  
+घृत᳓वतीम् अध्वर्यो स्रु᳓चम् आ᳓स्यस्व ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -73,7 +75,7 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वा॒युवव्ँ॑वि॒श्ववा॑राम् ।  
+देवायु᳓वव्ँ विश्व᳓वाराम् ।  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -88,9 +90,9 @@ unicode_script: devanagari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ईडा॑महै दे॒वाँ ई॒डेन्या॑न् ।  
-न॒म॒स्याम॑ नम॒स्या॑न् ।   
-यजा॑म य॒ज्ञिया॑न् ॥7॥  
+ई᳓डामहै देवाँ᳓ ईडे᳓न्यान् ।  
+नमस्या᳓म नमस्या᳙न् ।   
+य᳓जाम यज्ञि᳓यान् ॥7॥  
 </details>
 
 <details><summary>मूलम्</summary>
