@@ -7,7 +7,6 @@ title = "१७ ०६ सम्मितमुत्तरैर्यथाल
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/06-11_brahma_cha.md">
 <details open><summary><h2>०६-११ ब्रह्म च ...{Loading}...</h2></summary>
 
-
 ब्रह्म॑ च ते क्ष॒त्रञ् च॒ पूर्वे॒ स्थूणे॑ अ॒भिर॑क्षतु ।  
 य॒ज्ञश् च॒ दक्षि॑णाश् च॒ दक्षि॑णे [स्थूणे॑ अ॒भिर॑क्षतु]।  
 इ॒षश् चो॒र्जश् +++(शारदौ मासौ)+++ चाप॑रे [स्थूणे॑ अ॒भिर॑क्षतु]।  

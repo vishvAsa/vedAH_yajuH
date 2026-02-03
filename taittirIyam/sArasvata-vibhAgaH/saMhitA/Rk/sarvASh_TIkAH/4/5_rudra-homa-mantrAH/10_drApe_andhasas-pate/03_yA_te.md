@@ -15,7 +15,7 @@ With that show mercy on us for life.
 <details><summary>मूलम्</summary>
 
 या ते॑ रुद्र शि॒वा त॒नूश्शि॒वा वि॒श्वाह॑भेषजी ।   
-शि॒वा रु॒द्रस्य॑ भेष॒जी तया॑ नो मृड जी॒वसे᳚ ।
+शि॒वा रु॒द्रस्य॑ भेष॒जी तया॑ नो मृड जी॒वसे॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>

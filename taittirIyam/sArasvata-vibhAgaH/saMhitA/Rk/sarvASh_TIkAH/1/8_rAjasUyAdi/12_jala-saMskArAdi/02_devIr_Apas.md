@@ -14,7 +14,7 @@ Winning great radiance for the Ksatriya.
 <details><summary>मूलम्</summary>
 
 देवी॑राप॒स्सम्मधु॑मती॒र्मधु॑मतीभिस्सृज्यध्वम् ।  
-महि॒ वर्चः॑ ख्ष॒त्रिया॑य वन्वा॒नाः।
+महि॒ वर्चः॑ क्ष॒त्रिया॑य वन्वा॒नाः।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

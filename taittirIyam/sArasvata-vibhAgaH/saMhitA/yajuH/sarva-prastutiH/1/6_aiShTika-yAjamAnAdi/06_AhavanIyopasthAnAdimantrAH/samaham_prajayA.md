@@ -4,7 +4,7 @@ title = "समहम् प्रजया"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सम् अ॒हम् प्र॒जया᳚  +++(भूयासम्)+++  ।
+सम् अ॒हम् प्र॒जया॑  +++(भूयासम्)+++  ।
 </details>
 
 <details><summary>Keith</summary>
@@ -15,7 +15,12 @@ May I be united with offspring,
 
 <details><summary>मूलम्</summary>
 
-सम॒हम्प्र॒जया᳚  +++(भूयासम्)+++  ।
+सम॒हम्प्र॒जया॑  +++(भूयासम्)+++  ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+समिति॑ । अ॒हम् । प्र॒जयेति॑ प्र-जया॑ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -30,13 +35,13 @@ ___________
 
 <details><summary>सायण-टीका</summary>
 
-समहमिति। कल्पः - ‘अथोदङ्पर्यावर्तते समहं प्रजया सं मया प्रजा समहꣳ रायस्पोषेण सं मया रायस्पोष इति’ इति’ इति।  
+समहमिति। कल्पः - ‘अथोदङ्पर्यावर्तते समहं प्रजया सं मया प्रजा समहँ रायस्पोषेण सं मया रायस्पोष इति’ इति’ इति।  
 अहं प्रजया संगतो भूयासम्। 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सम् मया᳚ प्र॒जा  +++(भूयात्)+++ ।
+सम् मया॑ प्र॒जा  +++(भूयात्)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -47,7 +52,12 @@ offspring with me.
 
 <details><summary>मूलम्</summary>
 
-सम्मया᳚ प्र॒जा  +++(भूयात्)+++ ।
+सम्मया॑ प्र॒जा  +++(भूयात्)+++ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+समिति॑ । मया॑ । प्र॒जेति॑ प्र-जा ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -65,7 +75,7 @@ __________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सम॒हꣳ रा॒यस्पोषे॑ण  +++(भूयासम्)+++  ।
+सम॒हँ रा॒यस्पोषे॑ण  +++(भूयासम्)+++  ।
 </details>
 
 <details><summary>Keith</summary>
@@ -75,7 +85,11 @@ May I be united with increase of wealth,
 
 <details><summary>मूलम्</summary>
 
-सम॒हꣳ रा॒यस्पोषे॑ण  +++(भूयासम्)+++  ।
+सम॒हँ रा॒यस्पोषे॑ण  +++(भूयासम्)+++  ।
+</details>
+<details><summary>पद-पाठः</summary>
+
+समिति॑ । अ॒हम् । रा॒यः । पोषे॑ण । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -104,6 +118,10 @@ increase of wealth with me.
 <details><summary>मूलम्</summary>
 
 सम्मया॑ रा॒यस्पोषः॑   +++(भूयात्)+++  ।
+</details>
+<details><summary>पद-पाठः</summary>
+
+समिति॑ । मया॑ । रा॒यः । पोषः॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

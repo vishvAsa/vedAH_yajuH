@@ -12,7 +12,7 @@ Bestowing great radiance upon the Ksatriya.
 
 <details><summary>मूलम्</summary>
 
-अना॑धृष्टास्सीद॒तोर्ज॑स्वती॒र्महि॒ वर्चः॑ ख्ष॒त्रिया॑य॒ दध॑तीः ।
+अना॑धृष्टास्सीद॒तोर्ज॑स्वती॒र्महि॒ वर्चः॑ क्ष॒त्रिया॑य॒ दध॑तीः ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

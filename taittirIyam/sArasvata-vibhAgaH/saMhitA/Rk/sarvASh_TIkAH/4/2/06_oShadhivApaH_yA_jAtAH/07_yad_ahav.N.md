@@ -15,7 +15,7 @@ As before one that taketh alive.
 <details><summary>मूलम्</summary>
 
 यद॒हव्ँवा॒जय॑न्नि॒मा ओष॑धी॒र्हस्त॑ आद॒धे ।  
-आ॒त्मा यख्ष्म॑स्य नश्यति पु॒रा जी॑व॒गृभो॑ यथा ।
+आ॒त्मा यक्ष्म॑स्य नश्यति पु॒रा जी॑व॒गृभो॑ यथा ।
 </details>
 
 <details><summary>सायण-टीका</summary>

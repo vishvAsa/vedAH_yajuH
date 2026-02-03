@@ -12,7 +12,7 @@ Our protector, kindly, a shield;
 
 <details><summary>मूलम्</summary>
 
-अग्ने᳚ [22] त्वन्नो॒ अन्त॑मः ।  
+अग्ने॑ [22] त्वन्नो॒ अन्त॑मः ।  
 उ॒त त्रा॒ता शि॒वो भ॑व वरू॒थ्यः॑  ॥
 </details>
 

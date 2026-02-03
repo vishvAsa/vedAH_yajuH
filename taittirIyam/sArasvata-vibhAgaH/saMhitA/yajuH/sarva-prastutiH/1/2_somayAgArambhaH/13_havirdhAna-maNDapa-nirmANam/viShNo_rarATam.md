@@ -11,6 +11,7 @@ title = "विष्णो॑ र॒राट॑म्"
 विष्णो॑ र॒राट॑म्+++(=ललाटम्)+++ असि ।
 </details>
 
+
 <details><summary>Keith</summary>
 
 Thou art the forehead of Visnu.
@@ -19,6 +20,11 @@ Thou art the forehead of Visnu.
 <details><summary>मूलम्</summary>
 
 विष्णो॑ र॒राट॑मसि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+विष्णोः॑ । र॒राट॑म् । अ॒सि॒ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -35,7 +41,7 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विष्णोः᳚ पृ॒ष्ठम् अ॑सि ।
+विष्णोः॑ पृ॒ष्ठम् अ॑सि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -46,8 +52,13 @@ Thou art the back of Visnu.
 
 <details><summary>मूलम्</summary>
 
-विष्णोः᳚ पृ॒ष्ठम॑सि ।
+विष्णोः॑ पृ॒ष्ठम॑सि ।
 </details>
+<details><summary>पद-पाठः</summary>
+
+विष्णोः॑ । पृ॒ष्ठम् । अ॒सि॒ । 
+</details>
+
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -63,7 +74,7 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विष्णो॒श् श्नप्त्रे᳚+++(=मुखकोणौ)+++ स्थः ।
+विष्णो॒श् श्नप्त्रे॑+++(=मुखकोणौ)+++ स्थः ।
 </details>
 
 <details><summary>Keith</summary>
@@ -73,7 +84,12 @@ Ye two are the corners' of Visnu's mouth.
 
 <details><summary>मूलम्</summary>
 
-विष्णो॒श्श्ञप्त्रे᳚ स्थः ।
+विष्णो॒श्श्ञप्त्रे॑ स्थः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+विष्णोः॑ । श्ञप्त्रे॒ इति॑ । स्थः॒ । 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -104,6 +120,11 @@ Thou art the thread of Visnu.
 विष्णो॒स्स्यूर॑सि ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+विष्णोः॑ । स्यूः । अ॒सि॒ ।  
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 13दक्षिणबाहौ कुशमुपसङ्गृह्य स्यन्द्यां प्रवर्तयति - विष्णोस्स्यूरिति ॥ विष्णोः स्यूः सेवनी त्वमसि यज्ञस्य । षिवु तन्तुसन्ताने, 'क्विप्च' इति क्विप् 'छ्वोश्शूडनुनासिके च' इत्यूठ् ॥
@@ -118,7 +139,7 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विष्णो᳚र् ध्रु॒वम् अ॑सि ।
+विष्णो॑र् ध्रु॒वम् अ॑सि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -128,8 +149,13 @@ Thou art the fixed point of Visnu.
 
 <details><summary>मूलम्</summary>
 
-विष्णो᳚र्ध्रु॒वम॑सि ।
+विष्णो॑र्ध्रु॒वम॑सि ।
 </details>
+<details><summary>पद-पाठः</summary>
+
+विष्णोः॑ । ध्रु॒वम् । अ॒सि॒ ।
+</details>
+
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -156,8 +182,13 @@ Thou art of Vishu; to Visnu thee!
 
 <details><summary>मूलम्</summary>
 
-वैष्ण॒वम॑सि, विष्ण॑वे त्वा  +++(अभिमृशामि)+++  ॥ [27]
+वै॒ष्ण॒वम॑सि, विष्ण॑वे त्वा  +++(अभिमृशामि)+++  ॥ [27]
 </details>
+<details><summary>पद-पाठः</summary>
+
+वै॒ष्ण॒वम् । अ॒सि॒ । विष्ण॑वे । त्वा॒ ॥ [27] 
+</details>
+
 
 <details><summary>भट्टभास्कर-टीका</summary>
 

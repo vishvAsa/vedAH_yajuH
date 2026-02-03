@@ -9,7 +9,6 @@ title = "०२ ०३ अग्निम्"
 
 अदि॒तेऽनु॑ मन्यस्व। +++(इति दक्षिणतः, प्राचीनम्)+++
 
-
 </details>
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/02_anumate-nu_manyasva.md">

@@ -9,7 +9,6 @@ title = "२० ०७ ओदनपिण्डं संवृत्य"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/46_namo_niShangiNe.md">
 <details open><summary><h2>४६ नमो निषङ्गिणे ...{Loading}...</h2></summary>
 
-
 नमो॑ निष॒ङ्गिणे+++(→ इषुव्यतिरिक्तानां शस्त्राणाम् आवासस्थानवते ।)+++
 
 </details>

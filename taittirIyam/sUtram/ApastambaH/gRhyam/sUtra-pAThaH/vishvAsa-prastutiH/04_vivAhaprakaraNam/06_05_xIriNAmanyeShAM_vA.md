@@ -7,25 +7,22 @@ title = "०६ ०५ क्षीरिणामन्येषां वा"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_07/11_ye_gandharvA.md">
 <details open><summary><h2>११ ये गन्धर्वा ...{Loading}...</h2></summary>
 
-
 ये ग॑न्ध॒र्वा अ॑प्स॒रस॑श् च दे॒वीर्  
 ए॒षु वृ॒क्षेषु॑ वानस्प॒त्येष् आस॑ते ।  
 शि॒वास् ते अ॒स्यै व॒द्ध्वै॑ भवन्तु॒  
-मा हिꣳ॑सिषुर् वह॒तुम्+++(=स्त्रीधनम्)+++ ऊ॒ह्यमा॑नाम् ।  
+मा हिँ॑सिषुर् वह॒तुम्+++(=स्त्रीधनम्)+++ ऊ॒ह्यमा॑नाम् ।  
 
 </details>
 </div>  
-
 
 ## नद्याद्यतिक्रमे जपः
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_07/12_yA_oShadhayo.md">
 <details open><summary><h2>१२ या ओषधयो ...{Loading}...</h2></summary>
 
-
 या ओष॑धयो॒ या न॒द्यो॑  
 यानि॒ धन्वा॑नि॒+++(=निर्जलस्थानानि)+++ ये वना॑ ।  
 ते त्वा॑ वधु प्र॒जाव॑तीं॒  
-प्र त्वे+++(=त्वां)+++ मु॑ञ्च॒न्त्व् अꣳह॑सः ।  
+प्र त्वे+++(=त्वां)+++ मु॑ञ्च॒न्त्व् अँह॑सः ।  
 
 </details>
 </div>

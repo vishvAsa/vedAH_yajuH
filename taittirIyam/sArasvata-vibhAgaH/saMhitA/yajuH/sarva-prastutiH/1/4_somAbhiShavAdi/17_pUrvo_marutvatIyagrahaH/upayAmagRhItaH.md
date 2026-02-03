@@ -13,14 +13,17 @@ unicode_script = "devanagari"
 
 उ॒प॒या॒म-गृ॑हीतो ऽसि।
 </details>
+
 <details><summary>Keith</summary>
 
 Thou art taken with a support/ foundation.
 </details>
+
 <details><summary>मूलम्</summary>
 
 उ॒प॒या॒मगृ॑हीतोऽसि।
 </details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 उपयम्यन्ते स्वात्मन्येव नियम्यन्ते भूतजातान्यस्मिन् अभिन्नेधिकरणे इत्युपयामः पृथ्वी । 'इयं वा उपयामः' इति ब्राह्मणम् । 'हलश्च' इति घञ्, थाथादिस्वरेणान्तोदात्तत्वम् । तेन गृहीतस्त्वमसि ; कोन्यस्त्वां गृहीतुं क्षम इति भावः ; पृथिव्यापो गृहीष्यामीतिवत् । 'तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् । यद्वा - उपयामार्थं पृथिव्यर्थं गृहीतोसीति ; हे सोम ।   
@@ -37,10 +40,12 @@ ________________
 
 इन्द्रा॑य त्वा म॒रुत्व॑ते ।
 </details>
+
 <details><summary>Keith</summary>
 
 to Indra with the Maruts thee!
 </details>
+
 <details><summary>मूलम्</summary>
 
 इन्द्रा॑य त्वा म॒रुत्व॑ते ।
@@ -51,14 +56,17 @@ _______
 
 2एष ते योनिरिन्द्राय त्वा मरुत्वत इति सादयति ॥
 </details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ए॒ष ते॒ योनि॒र्, इन्द्रा॑य त्वा म॒रुत्व॑ते ॥ [18]
 </details>
+
 <details><summary>Keith</summary>
 
 This is thy birthplace; to Indra with the Maruts thee!
 </details>
+
 <details><summary>मूलम्</summary>
 
 ए॒ष ते॒ योनि॒रिन्द्रा॑य त्वा म॒रुत्व॑ते ॥ [18]

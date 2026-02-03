@@ -11,7 +11,7 @@ the sacrificial fee is the northern drawer of the chariot stand.
 
 <details><summary>मूलम्</summary>
 
-स्वा॒द्वीन्त्वा᳚ स्वा॒दुना॑ ती॒व्रान्ती॒व्रेणा॒मृता॑म॒मृते॑न सृ॒जामि॒ सम्
+स्वा॒द्वीन्त्वा॑ स्वा॒दुना॑ ती॒व्रान्ती॒व्रेणा॒मृता॑म॒मृते॑न सृ॒जामि॒ सम्
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -22,5 +22,5 @@ the sacrificial fee is the northern drawer of the chariot stand.
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-सोमे॑न॒ सोमो᳚ऽस्य॒श्विभ्या᳚म्पच्यस्व॒ सर॑स्वत्यै पच्य॒स्वेन्द्रा॑य सु॒त्राम्णे॑ पच्यस्व
+सोमे॑न॒ सोमो॑ऽस्य॒श्विभ्या॑म्पच्यस्व॒ सर॑स्वत्यै पच्य॒स्वेन्द्रा॑य सु॒त्राम्णे॑ पच्यस्व
 </details>

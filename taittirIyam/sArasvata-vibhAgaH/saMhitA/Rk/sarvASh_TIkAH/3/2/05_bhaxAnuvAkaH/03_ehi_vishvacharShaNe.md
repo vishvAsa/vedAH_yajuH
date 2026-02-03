@@ -13,7 +13,7 @@ Come hither, O thou who art of all men [1], with healing and favour; with safety
 
 एहि॑ विश्वचर्षणे श॒म्भूर्म॑यो॒भूः ।  
 स्व॒स्ति मा॑ हरिवर्ण॒ प्र च॑र॒  
-क्रत्वे॒ दख्षा॑य रा॒यस्पोषा॑य सुवी॒रता॑यै ।
+क्रत्वे॒ दक्षा॑य रा॒यस्पोषा॑य सुवी॒रता॑यै ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

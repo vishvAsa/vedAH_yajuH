@@ -5,7 +5,7 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒हस्र॑-वल्शाः॒+++(=प्ररोहाः)+++ वि व॒यꣳ रु॑हेम ।
+स॒हस्र॑-वल्शाः॒+++(=प्ररोहाः)+++ वि व॒यँ रु॑हेम ।
 </details>
 
 <details><summary>Keith</summary>
@@ -16,7 +16,12 @@ Let us rise with a thousand shoots.
 
 <details><summary>मूलम्</summary>
 
-स॒हस्र॑वल्शाः॒ [2] विव॒यꣳ रु॑हेम ।
+स॒हस्र॑वल्शाः॒ [2] विव॒यँ रु॑हेम ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स॒हस्र॑वल्‌शा॒ इति॑ स॒हस्र॑-व॒ल्‌शाः॒ । वीति॑ । व॒यम् । रु॒हे॒म॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

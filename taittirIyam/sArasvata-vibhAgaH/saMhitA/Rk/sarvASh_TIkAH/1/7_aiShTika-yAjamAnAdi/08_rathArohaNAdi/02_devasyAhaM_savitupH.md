@@ -11,7 +11,7 @@ On the instigation of the god Savitr, through Brhaspati, winner of the prize, ma
 
 <details><summary>मूलम्</summary>
 
-दे॒वस्या॒हꣳ स॑वि॒तुᳶ प्र॑स॒वे बृह॒स्पति॑ना वाज॒जिता॒ वर्षि॑ष्ठ॒न्नाकꣳ॑ रुहेयम् ।
+दे॒वस्या॒हँ स॑वि॒तुᳶ प्र॑स॒वे बृह॒स्पति॑ना वाज॒जिता॒ वर्षि॑ष्ठ॒न्नाकँ॑ रुहेयम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

@@ -9,13 +9,12 @@ title = "०५ ०६ उत्तराभिस्तिसृभिः"
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/38_tubhyamagre_paryavahantsUryAM.md">
 <details open><summary><h4>३८ तुभ्यमग्रे पर्यवहन्त्सूर्यां ...{Loading}...</h4></summary>
 
-
 +++(सूर्या नाम सवितुर्दुहिता विवाहस्य अधिष्ठात्री देवता -  [सूर्यासूक्ते](../../AdityaH/Rk/raibhy_AsId_anudeyI/) दृश्या।)+++  
 
-तुभ्य॒म् +++(अग्नये)+++ अग्रे॒ +++(गन्धर्वाः)+++  पर्य॑वहन्त्  
-सू॒र्यां व॑ह॒तुना॑ स॒ह ।  
-पुनः॒ पति॑भ्यो जा॒यां दा+++(ः)+++  
-अ॑ग्ने प्र॒जया॑ स॒ह ।+++(र५)+++  
+तु᳓भ्यम् +++(अग्नये)+++ अ᳓ग्रे +++(गन्धर्वाः)+++  प᳓र्यवहन्त्  
+सूर्यां᳓ वहतु᳓ना सह᳓ ।  
+पु᳓नः प᳓तिभ्यो जायां᳓ दा᳓+++(ः)+++  
+अग्ने प्रज᳓या सह᳓ ।+++(र५)+++  
 
 </details>
 </div>
@@ -26,10 +25,10 @@ title = "०५ ०६ उत्तराभिस्तिसृभिः"
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/39_punaH_patnImagniradAdAyuShA.md">
 <details open><summary><h4>३९ पुनः पत्नीमग्निरदादायुषा ...{Loading}...</h4></summary>
 
-पुनः॒ पत्नी॑म् अ॒ग्निर् अ॑दा॒द्  
-आयु॑षा स॒ह वर्च॑सा ।  
-दी॒र्घा॒युर् अ॑स्या॒ यः पति॒स्  
-स ए॑तु श॒रद॑श् श॒तम् ॥+++(र५)+++  
+पु᳓नः प᳓त्नीम् अग्नि᳓र् अदाद्  
+आ᳓युषा सह᳓ व᳓र्चसा ।  
+दीर्घायु᳓र् अस्या यः᳓ प᳓तिस्  
+स᳓ एतु शर᳓दश् शत᳓म् ॥+++(र५)+++  
 
 </details>
 </div>
@@ -40,9 +39,9 @@ title = "०५ ०६ उत्तराभिस्तिसृभिः"
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/007/03_vishvA_uta.md">
 <details open><summary><h4>०३ विश्वा उत ...{Loading}...</h4></summary>
 
-विश्वा॑ उ॒त त्वया॑ व॒यं  
-धारा॑ उद॒न्या॑+++(=उदक-सम्बन्धिनीः)+++ इव ।  
-अति॑गाहेमहि॒ द्विषः॑ ।+++(५)+++ 
+वि᳓श्वा उत᳓ त्व᳓या वयं᳓  
+धा᳓रा उदन्या᳙+++(=उदक-सम्बन्धिनीः)+++ इव ।  
+अ᳓तिगाहेमहि द्वि᳓षः ।+++(५)+++ 
 
 </details>
 </div>

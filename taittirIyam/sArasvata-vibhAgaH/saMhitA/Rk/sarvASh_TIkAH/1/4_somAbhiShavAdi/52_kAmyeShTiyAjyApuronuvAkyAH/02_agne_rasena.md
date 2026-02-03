@@ -14,7 +14,7 @@ Slayer of Raksases, suppressor of demons.
 <details><summary>मूलम्</summary>
 
 अग्ने॒ रसे॑न॒ तेज॑सा॒ जात॑वेदो॒ वि रो॑चसे ।  
-र॒ख्षो॒हाऽमी॑व॒चात॑नः  ॥
+र॒क्षो॒हाऽमी॑व॒चात॑नः  ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

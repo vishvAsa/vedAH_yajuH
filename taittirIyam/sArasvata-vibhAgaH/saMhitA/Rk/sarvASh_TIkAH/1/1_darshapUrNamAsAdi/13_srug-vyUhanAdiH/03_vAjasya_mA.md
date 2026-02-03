@@ -12,7 +12,7 @@ With elevation he hath lifted me up;
 
 <details><summary>मूलम्</summary>
 
-वाज॑स्य मा प्रस॒वेनो᳚द्ग्रा॒भेणोद॑ग्रभीत् ।
+वाज॑स्य मा प्रस॒वेनो॑द्ग्रा॒भेणोद॑ग्रभीत् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

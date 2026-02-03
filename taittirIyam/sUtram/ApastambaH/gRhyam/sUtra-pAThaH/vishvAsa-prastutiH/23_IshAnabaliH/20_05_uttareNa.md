@@ -7,7 +7,6 @@ title = "२० ०५ उत्तरेण"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/32_svasti_naH.md">
 <details open><summary><h2>३२ स्वस्ति नः ...{Loading}...</h2></summary>
 
-
 स्व॒स्ति नः॑ पूर्ण॒मुखः॒ परि॑क्रामतु ।  
 
 </details>
@@ -18,7 +17,6 @@ title = "२० ०५ उत्तरेण"
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/33_-41_gRhapopaspRsha_gRhapAya.md">
 <details open><summary><h2>३३ -४५ गृहपोपस्पृश गृहपाय ...{Loading}...</h2></summary>
-
 
 - उत्तरस्याम्
   - गृ॒ह॒पोप॑स्पृश। गृह॒पाय॒ स्वाहा॑ ।  
@@ -36,7 +34,6 @@ title = "२० ०५ उत्तरेण"
 - दश देवसेनाभ्यः दश
   - दे॒व॒से॒ना उप॑स्पृशत। देवसे॒नाभ्यः॒ स्वाहा॑ ।  
   - या आख्या॑ता॒ याश् चाना॑ख्याता देवसे॒ना उप॑स्पृशत। देवसे॒नाभ्यः॒ स्वाहा॑ ।
-
 
 </details>
 </div>

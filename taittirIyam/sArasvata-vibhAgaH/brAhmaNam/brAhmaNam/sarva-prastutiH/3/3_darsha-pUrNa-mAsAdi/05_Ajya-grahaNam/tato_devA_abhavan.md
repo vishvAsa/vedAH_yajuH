@@ -1,5 +1,6 @@
 +++
 title = "ततो॑ दे॒वा अभ॑वन्"
+
 +++
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -17,9 +18,15 @@ the Asuras were defeated.
 
 <details><summary>मूलम्</summary>
 
-ततो॑ दे॒वा अभ॑वन्न् ।  
+ततो॑ दे॒वा अभ॑वन् ।  
 पराऽसु॑राः ।
 </details> 
+
+<details><summary>पद-पाठः</summary>
+
+ततः॑ । दे॒वाः । अभ॑वन् ।  
+परेति॑ । असु॑राः ।
+</details>
 
 <details><summary>सायण-टीका</summary>
 

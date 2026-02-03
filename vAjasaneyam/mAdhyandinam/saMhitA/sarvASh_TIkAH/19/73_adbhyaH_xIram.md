@@ -7,6 +7,12 @@ title = "७३ अद्भ्यः क्षीरम्"
 अ॒द्भ्य इत्य॒त्ऽभ्यः। क्षी॒रम्। वि। अ॒पि॒ब॒त्। क्रुङ्। आ॒ङ्गि॒र॒सः। धि॒या। ऋ॒तेन॑। स॒त्यम्। इ॒न्द्रि॒यम्। वि॒पान॒मिति॑ वि॒ऽपान॑म्। शु॒क्रम्। अन्ध॑सः। इन्द्र॑स्य। इ॒न्द्रि॒यम्। इ॒दम्। पयः॑। अमृत॑म्। मधु॑। ७३।
 </details>
 
+<details><summary>महीधरः</summary>
+
+म० हंसः आदित्यः अद्भ्यः सकाशात् छन्दसा वेदेन वेदरूपैः किरणैर्यथा सोमं व्यपिबत् पिबति सोमोदकाभ्यां रविः सोममेव पिबति । ऋतेनेत्युक्तम् । कीदृशो रविः । शुचिषत् शुचि निर्मले गगने सीदतीति शुचिषत् ॥ ७४ ॥  
+पञ्चसप्ततितमी।
+</details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - आङ्गिरसो देवताः
@@ -22,7 +28,6 @@ H tradition holds that certain birds can separate milk from water. We believe it
 We believe (contra main-stream IEists) that its a an ortholog of Germanic krana, and Armenian krownk. The IEist might laryngeally bellow that it violates phonology, but we believe that rather than being dominated by phonology its form was driven by onomatopoeia. This is supported by such forms showing up in Dravidian, Harappan, and Uralic.  
 We translate it as the unrelated flamingo because of the suspicion that it might have been laterally expanded to apply to a filter-feeder that also produces milk. The way this metaphor is used for the kru~N is very similar to how it is used for the haMsa later.
 </details>
-
 
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 

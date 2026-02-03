@@ -15,7 +15,7 @@ The seven and a hundred abodes.
 <details><summary>मूलम्</summary>
 
 या जा॒ता ओष॑धयो दे॒वेभ्य॑स्त्रियु॒गम्पु॒रा ।  
-मन्दा॑मि ब॒भ्रूणा॑महꣳ श॒तन्धामा॑नि स॒प्त च॑ ।
+मन्दा॑मि ब॒भ्रूणा॑महँ श॒तन्धामा॑नि स॒प्त च॑ ।
 </details>
 
 <details><summary>सायण-टीका</summary>

@@ -7,7 +7,6 @@ title = "११ २३ उत्तरया सँशास्ति"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/14_brahmachAryasy_apo-shAna.md">
 <details open><summary><h2>१४ ब्रह्मचार्यस्य्, अपोऽशान ...{Loading}...</h2></summary>
 
-
 ब्र॒ह्म॒चा॒र्य् अ॑सि।   
 (वटुः - बाढम्।) 
 

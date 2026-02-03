@@ -13,7 +13,7 @@ may I prosper with your thousandfold   prosperity [3], may your wealth rest on m
 
 <details><summary>मूलम्</summary>
 
-इडाः᳚ स्थ मधु॒कृत॑स्स्यो॒ना माऽऽवि॑श॒तेरा॒ मदः॑ ।
+इडाः॑ स्थ मधु॒कृत॑स्स्यो॒ना माऽऽवि॑श॒तेरा॒ मदः॑ ।
 स॒ह॒स्र॒पो॒षव्ँवᳶ॑ पुष्यासं [23] मयि॑ वो॒ राय॑श्श्रयन्ताम् ॥
 </details>
 

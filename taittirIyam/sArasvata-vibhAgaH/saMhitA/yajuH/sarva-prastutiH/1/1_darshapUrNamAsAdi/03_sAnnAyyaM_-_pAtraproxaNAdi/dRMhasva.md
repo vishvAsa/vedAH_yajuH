@@ -4,7 +4,7 @@ unicode_script = "devanagari"
 +++
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दृꣳह॑स्व+++(=दृढा भव)+++।  
+दृँह॑स्व+++(=दृढा भव)+++।  
 मा ह्वाः॑+++(=कुटिला भूः)+++।
 </details>
 
@@ -16,17 +16,17 @@ Be firm, waver not.
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-दृꣳह॑स्व॒ मा ह्वाः
+दृँह॑स्व॒ मा ह्वाः
 </details>
 
 <details><summary>मूलम्</summary>
 
-दृꣳह॑स्व॒  मा ह्वाः॑
+दृँह॑स्व॒  मा ह्वाः॑
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-दृꣳह॑स्व । मा । ह्वाः॒ ।
+दृँह॑स्व । मा । ह्वाः॒ ।
 </details>
 
 
