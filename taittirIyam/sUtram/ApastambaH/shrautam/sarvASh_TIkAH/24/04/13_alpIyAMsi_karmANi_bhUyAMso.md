@@ -6,12 +6,12 @@ title = "13 अल्पीयांसि कर्माणि भूयां
 <details><summary>कपर्दिस्वामी</summary>
 
 
-<details>
+</details>
 
 <details><summary>हरदत्तः</summary>
 
 
-<details>
+</details>
 
 <details><summary>Müller</summary>
 

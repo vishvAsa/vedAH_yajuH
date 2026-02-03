@@ -6,12 +6,12 @@ title = "16 प्राचीनावीती प्रसव्यन् द
 <details><summary>कपर्दिस्वामी</summary>
 
 
-<details>
+</details>
 
 <details><summary>हरदत्तः</summary>
 
 
-<details>
+</details>
 
 <details><summary>Müller</summary>
 

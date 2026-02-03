@@ -6,18 +6,18 @@ title = "13 आश्रुतप्रत्याश्रुते याज�
 <details><summary>कपर्दिस्वामी</summary>
 
 
-<details>
+</details>
 
 <details><summary>हरदत्तः</summary>
 
 
-<details>
+</details>
 
 <details><summary>Müller</summary>
 
 With āhutis one should let the act (the pouring out) take place after the Vaṣaṭkāra has been made, or while it is being made.
 
-#####  Commentary
+**Commentary**
 
 The Vaṣaṭkāra consists in the word Vaṣaṭ, to be uttered by the Hotṛ-priest. The five sacrificial interjections are, svāhā, srauṣaṭ, vauṣaṭ, vaṣaṭ, and svadhā.
 </details>

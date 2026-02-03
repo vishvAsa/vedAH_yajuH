@@ -6,18 +6,18 @@ title = "24 कपालानामुपधानकाले प्रथम�
 <details><summary>कपर्दिस्वामी</summary>
 
 
-<details>
+</details>
 
 <details><summary>हरदत्तः</summary>
 
 
-<details>
+</details>
 
 <details><summary>Müller</summary>
 
 The verse is adapted and changed to dhruvo'si.
 
-#####  Commentary
+**Commentary**
 
 Saṃnāma means the same as ūha, i.e. the modification of a verse so as to adapt it to the object for which it is used. In our case, caru, being a masculine, dhṛṣṭi, a feminine, is replaced by dhruva, a masculine.
 </details>

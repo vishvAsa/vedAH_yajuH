@@ -6,12 +6,12 @@ title = "22 अर्थायार्थायाग्निम् प्र�
 <details><summary>कपर्दिस्वामी</summary>
 
 
-<details>
+</details>
 
 <details><summary>हरदत्तः</summary>
 
 
-<details>
+</details>
 
 <details><summary>Müller</summary>
 

@@ -6,12 +6,12 @@ title = "02 आघारे धारायाञ् चादिसंयोग
 <details><summary>कपर्दिस्वामी</summary>
 
 
-<details>
+</details>
 
 <details><summary>हरदत्तः</summary>
 
 
-<details>
+</details>
 
 <details><summary>Müller</summary>
 

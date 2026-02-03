@@ -31,7 +31,7 @@ title = "23 खर्विकान् तृतीयां वाजसने
 
 The Vājasaneyins mention a third, the Kharvikā full moon.
 
-#####  Commentary
+**Commentary**
 
 Kharva means small. If one divides the night into twelve parts, and if in a portion of the twelfth part the greatest distance of sun and moon takes place, then the full moon is called kharvikā, also kṣīṇā. 
 

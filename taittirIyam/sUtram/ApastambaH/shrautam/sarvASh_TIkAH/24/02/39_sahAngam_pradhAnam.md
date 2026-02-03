@@ -6,18 +6,18 @@ title = "39 सहाङ्गम् प्रधानम्"
 <details><summary>कपर्दिस्वामी</summary>
 
 
-<details>
+</details>
 
 <details><summary>हरदत्तः</summary>
 
 
-<details>
+</details>
 
 <details><summary>Müller</summary>
 
 A principal act (pradhāna) is accompanied by auxiliary acts (aṅga).
 
-#####  Commentary
+**Commentary**
 
 This Sūtra forms sometimes part of the preceding Sūtra, and would then refer to the Pitṛyajña only.
 </details>

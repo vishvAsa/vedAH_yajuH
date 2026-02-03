@@ -6,18 +6,18 @@ title = "20 वचनाद्विप्रतिषेधाद्वान�
 <details><summary>कपर्दिस्वामी</summary>
 
 
-<details>
+</details>
 
 <details><summary>हरदत्तः</summary>
 
 
-<details>
+</details>
 
 <details><summary>Müller</summary>
 
 When it is expressly said, or when it is rendered impossible, another priest also may act.
 
-#####  Commentary
+**Commentary**
 
 Vipratishedha is explained by asambhava and aśakti.
 </details>

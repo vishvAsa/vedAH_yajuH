@@ -6,12 +6,12 @@ title = "04 उत्तरस्यादिना पूर्वस्या�
 <details><summary>कपर्दिस्वामी</summary>
 
 
-<details>
+</details>
 
 <details><summary>हरदत्तः</summary>
 
 
-<details>
+</details>
 
 <details><summary>Müller</summary>
 

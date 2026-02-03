@@ -6,12 +6,12 @@ title = "32 दर्शपूर्णमासाविष्टीनाम�
 <details><summary>कपर्दिस्वामी</summary>
 
 
-<details>
+</details>
 
 <details><summary>हरदत्तः</summary>
 
 
-<details>
+</details>
 
 <details><summary>Müller</summary>
 

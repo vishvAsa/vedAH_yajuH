@@ -6,18 +6,18 @@ title = "06 निकायिनान् तु प्रथमः"
 <details><summary>कपर्दिस्वामी</summary>
 
 
-<details>
+</details>
 
 <details><summary>हरदत्तः</summary>
 
 
-<details>
+</details>
 
 <details><summary>Müller</summary>
 
 Of the Nikāyi sacrifices the first serves as Prakṛti.
 
-#####  Commentary
+**Commentary**
 
 Among the Nikāyi sacrifices, lit. those which consist of a number, all having the same name, but different rewards, the first is the prakṛti of the subsequent ones. The commentator calls them sādyaskra &c., and mentions as the first the Agniṣṭoma. See Sūtra CXLVI, and Weber, Ind. Stud. XIII, p. 218.
 </details>

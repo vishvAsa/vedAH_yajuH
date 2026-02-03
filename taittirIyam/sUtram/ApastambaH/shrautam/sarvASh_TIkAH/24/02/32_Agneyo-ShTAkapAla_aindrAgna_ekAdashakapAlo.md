@@ -6,12 +6,12 @@ title = "32 आग्नेयोऽष्टाकपाल ऐन्द्र�
 <details><summary>कपर्दिस्वामी</summary>
 
 
-<details>
+</details>
 
 <details><summary>हरदत्तः</summary>
 
 
-<details>
+</details>
 
 <details><summary>Müller</summary>
 

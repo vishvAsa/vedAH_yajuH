@@ -6,12 +6,12 @@ title = "20 चरुपुरोडाशगणे चरुपुरोडा�
 <details><summary>कपर्दिस्वामी</summary>
 
 
-<details>
+</details>
 
 <details><summary>हरदत्तः</summary>
 
 
-<details>
+</details>
 
 <details><summary>Müller</summary>
 

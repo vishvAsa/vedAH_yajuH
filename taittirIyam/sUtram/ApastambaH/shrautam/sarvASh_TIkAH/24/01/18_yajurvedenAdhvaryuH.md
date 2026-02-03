@@ -6,12 +6,12 @@ title = "18 यजुर्वेदेनाध्वर्युः"
 <details><summary>कपर्दिस्वामी</summary>
 
 
-<details>
+</details>
 
 <details><summary>हरदत्तः</summary>
 
 
-<details>
+</details>
 
 <details><summary>Müller</summary>
 

@@ -6,18 +6,18 @@ title = "16 कुम्भीशूलवपाश्रपणीप्रभ�
 <details><summary>कपर्दिस्वामी</summary>
 
 
-<details>
+</details>
 
 <details><summary>हरदत्तः</summary>
 
 
-<details>
+</details>
 
 <details><summary>Müller</summary>
 
 The rule should stand on account of the fitness of the Kumbhi, a large pot, the Śūla, the spit for boiling the heart, and the two Vapāśrapaṇīs, the spits for roasting the vapā.
 
-#####  Commentary
+**Commentary**
 
 Kumbhī is explained by sroṇyādipākasamarthā
 

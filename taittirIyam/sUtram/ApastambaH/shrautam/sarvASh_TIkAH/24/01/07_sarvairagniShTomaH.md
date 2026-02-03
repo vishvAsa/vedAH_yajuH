@@ -6,18 +6,18 @@ title = "07 सर्वैरग्निष्टोमः"
 <details><summary>कपर्दिस्वामी</summary>
 
 
-<details>
+</details>
 
 <details><summary>हरदत्तः</summary>
 
 
-<details>
+</details>
 
 <details><summary>Müller</summary>
 
 The Agniṣṭoma is prescribed by all.
 
-#####  Commentary
+**Commentary**
 
 By saying all, the Atharva-veda is supposed to be included, at least according to one commentator.
 

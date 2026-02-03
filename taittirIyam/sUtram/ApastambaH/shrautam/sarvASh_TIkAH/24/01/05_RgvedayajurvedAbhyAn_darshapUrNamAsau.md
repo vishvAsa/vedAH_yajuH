@@ -6,12 +6,12 @@ title = "05 ऋग्वेदयजुर्वेदाभ्यान् द�
 <details><summary>कपर्दिस्वामी</summary>
 
 
-<details>
+</details>
 
 <details><summary>हरदत्तः</summary>
 
 
-<details>
+</details>
 
 <details><summary>Müller</summary>
 
