@@ -64,6 +64,13 @@ Source: [TW](https://youtu.be/DFmMzoc0JLk)
 {caption="" class="thumbnail"}
 
 प्राणेश्वर इति पाठस्यापेक्षया प्राणैः **शिरः** इति पाठ एव वरः - खगोलार्थ-संवादात्, पुराण-संवादात्, उज्जहार-शब्दस्य +ऋज्वर्थात्।  
+
+प्राणैः **शिरः** इति पाठः प्राचीन इति 
+
+- Source: [TW](https://archive.org/details/sri_kanaka_sabapathiya_bodhayana_poorva_prayoga_-_s_subramanya_sastry/mode/2up)
+- Descriptive Catalogue of Sanskrit Manuscripts in Madras Vol 07 _No. 3552. आयुष्यसूक्तप्रयोगः - [TW](https://jainqq.org/explore/020192/113)
+
+प्राणेश्वर इति पाठस् तु बहुत्र लभ्यते, प्राचीनलेखकैः सुदर्शनसूरि-निभैर् उल्लिखितः। 
 </details>
 
 
