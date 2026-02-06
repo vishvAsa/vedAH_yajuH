@@ -13,8 +13,9 @@ uttering speech on the occasion of the daily recitation of the Veda only. [^10]
 
 <details><summary>हरदत्त-टीका</summary>
 
-## सूत्रम्
+**सूत्रम्**  
 स्वाध्याय एवोत्सृजमानो वाचम् २१
-## टिप्पनी
+
+**टीका**  
 +++(पूर्वसूत्रे द्रष्टव्यम्।)+++
 </details>
