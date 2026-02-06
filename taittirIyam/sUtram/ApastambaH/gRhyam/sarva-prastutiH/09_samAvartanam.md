@@ -1,6 +1,5 @@
 +++
 title = "०९ समावर्तनम्"
-
 +++
 
 
@@ -14,7 +13,6 @@ title = "०९ समावर्तनम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/09_samAvartanam/12_01_vedamadhItya_snAsyan.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 1. Having studied the Veda, when going to take the bath (which signifies the end of his studentship), he enters a cow-shed before sunrise, hangs over its door a skin with the hair inside, and sits there.
@@ -61,17 +59,12 @@ title = "०९ समावर्तनम्"
 **स्नास्यन्** स्नानाख्यं कर्म करिष्यमाणः **प्रागुदयात्** प्रागादित्योदयात् ।
 **व्रजं** गोशालां परिश्रितां **प्रविश्ये**त्त्यादि व्यक्तार्थम् ॥१॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/09_samAvartanam/12_01_vedamadhItya_snAsyan.md">
 
-<details><summary><h4></h4>></summary>
-
 वेदमधीत्य स्नास्यन् प्रगुदयाद्व्रजं प्रविश्यान्तर्लोम्ना चर्मणा द्वारमपरिधायास्ते ॥
-
-</details>
 
 </div>
 
@@ -85,7 +78,6 @@ title = "०९ समावर्तनम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/09_samAvartanam/12_02_nainametadaharAdityo-bhitapet.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 2. On that day the sun should not shine upon him.
@@ -103,17 +95,12 @@ title = "०९ समावर्तनम्"
 
 अस्मिन्नहनि यावदस्तमयं मूत्रपुरीषोत्सर्जनार्थमप्यसौ मण्डपाद्बहिर्न निर्गच्छेतित्यर्थः ॥२॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/09_samAvartanam/12_02_nainametadaharAdityo-bhitapet.md">
 
-<details><summary><h4></h4>></summary>
-
 नैनमेतदहरादित्योऽभितपेत्।
-
-</details>
 
 </div>
 
@@ -130,7 +117,6 @@ title = "०९ समावर्तनम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/09_samAvartanam/12_03_madhyandine-gnerupasamAdhAnAdyAjyabhAgAnte.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 3. [^1]  At noon, after (the ceremonies) from the putting (of wood) on the fire down to the Ājyabhāga oblations (have been performed), he puts a piece of Palāśa wood on (the fire) with the next (verse; M. II, 7, 1), sits down to the west of the fire on a mat or on erakā grass, recites the next (verse, II, 7, 2) over a razor, and hands it over to the barber with the next Yajus (II, 7, 3). (The rites) beginning with the pouring together of (warm and cold) water down to the burying of the hair are the same as above (comp. M. II, 7, 4).
@@ -184,17 +170,12 @@ title = "०९ समावर्तनम्"
 "अथानुवाकस्य प्रथमेन यजुषा" इत्यारभ्य "तस्मिन् केशानुपयम्योत्तरयोदुम्बरमूले दर्भस्तम्बे वा निदधाति" (आप.गृ.१०-८)
 इत्येवमन्तमुपनयनेन **समानं**, भवतीति शेषः ॥३॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/09_samAvartanam/12_03_madhyandine-gnerupasamAdhAnAdyAjyabhAgAnte.md">
 
-<details><summary><h4></h4>></summary>
-
 मध्यन्दिनेऽग्नेरुपसमाधानाद्याज्यभागान्ते पालाशीं समिधमुत्तरयाऽऽधायापरेणाग्निं कट एरकायां वोपविश्योत्तरया क्षुरमभिमन्त्र्योत्तरेण यजुषा वप्त्रे प्रदायापाँ सँसर्जनाद्या केशनिधानात् समानम् ॥
-
-</details>
 
 </div>
 
@@ -208,7 +189,6 @@ title = "०९ समावर्तनम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/09_samAvartanam/12_04_jaghanArdhe_vrajasyopavishya.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 4. He sits down behind the cow-shed, takes the girdle off, and hands it over to a Brahmacārin.
@@ -223,17 +203,12 @@ title = "०९ समावर्तनम्"
 
 अथोप्तकेशादिको **व्रजस्य जघनार्धे** पश्चार्धे **उपविश्येत्यादि** करोति ॥४॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/09_samAvartanam/12_04_jaghanArdhe_vrajasyopavishya.md">
 
-<details><summary><h4></h4>></summary>
-
 जघनार्धे व्रजस्योपविश्य विस्त्रस्य मेखलां ब्रह्मचारिणे प्रयच्छति ॥
-
-</details>
 
 </div>
 
@@ -247,7 +222,6 @@ title = "०९ समावर्तनम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/09_samAvartanam/12_05_tAM_sa.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 5. The (Brahmacārin) hides it with the next Yajus (II, 7, 5) at the root of an Udumbara tree or in a tuft of Darbha grass.
@@ -266,17 +240,12 @@ title = "०९ समावर्तनम्"
 स तु ब्रह्मचारी **तां** मेखलां सूत्रोक्तदेशे उपगूहति अप्रकाशां करोति "इदमहं विष्णुशर्मणो गौतमस्य पाप्मानमुपगूहाम्युत्तरो विष्णुशर्मा द्विषद्भ्यः" इत्यनेन यजुषा ।
 अत्र च स्नातुर्नामगोत्रे ग्राह्ये ॥५॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/09_samAvartanam/12_05_tAM_sa.md">
 
-<details><summary><h4></h4>></summary>
-
 तां स उत्तरेण यजुषोदौम्बरमूले दर्भस्तम्बे वोपगूहति।
-
-</details>
 
 </div>
 
@@ -291,7 +260,6 @@ title = "०९ समावर्तनम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/09_samAvartanam/12_06_evaM.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 6. [^2]  With water of the description stated above he bathes with the six next (verses; II, 7, 6-11), and with the next (II, 7, 12) he cleanses his teeth with a stick of Udumbara wood.
@@ -320,17 +288,12 @@ title = "०९ समावर्तनम्"
 तन्न ; गुणार्थं प्रधानाभ्यासकल्पनमयुक्तमित्युक्त्वात् ।
 **अथोदुम्बरेण** काष्ठेन दन्तेभ्यो मलं "अन्नाद्याय व्यूहध्वम्" इत्यनया अपनयति ॥६॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/09_samAvartanam/12_06_evaM.md">
 
-<details><summary><h4></h4>></summary>
-
 एवं विहिताभिरेवाद्भिरुत्तराभिष्षड्भिस्स्नात्वोत्तरयोदुम्बरेण दतो धावते।
-
-</details>
 
 </div>
 
@@ -344,7 +307,6 @@ title = "०९ समावर्तनम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/09_samAvartanam/12_07_snAnIyochChAditassnAtaH.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 7. Having bathed and shampooed his body with such ingredients as are used in bathing, (aromatic powder, &c.),
@@ -359,17 +321,12 @@ title = "०९ समावर्तनम्"
 
 +++(सम्पादकटिप्पनी - इदं सूत्रम् अग्रिमे व्याख्यातम्)+++
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/09_samAvartanam/12_07_snAnIyochChAditassnAtaH.md">
 
-<details><summary><h4></h4>></summary>
-
 स्नानीयोच्छादितस्स्नातः।
-
-</details>
 
 </div>
 
@@ -387,7 +344,6 @@ title = "०९ समावर्तनम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/09_samAvartanam/12_08_uttarena_yajuShA-hatamantaram.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 8. He puts on with the next Yajus (M. II, 7, 13) a fresh under garment, and anoints himself, after having given the salve in charge of the deities with the next (Mantras, II, 7, 14), with the next (verse, II, 7, 15) with sandal salve which is scented with all kinds of perfumes. With the next (verse, II, 7, 16) he moves about a gold pellet with its setting, which is strung on a string, three times from left to right in a water-pot; with the next (verse, II, 7, 17) he ties the (pellet) to his neck; in the same way, without Mantras, he ties a pellet of Bādara wood to his left hand, and repeats the rites stated above with a fresh upper garment, with the (verses), 'May the rich' (comp. above, IV, 10, 10; M. II, 7, 18).
@@ -456,17 +412,12 @@ title = "०९ समावर्तनम्"
 तथा आचार्यकुलान्निवृत्तेनेदं स्नानं क्रियते ।
 तत्राचार्यकर्तृकत्वाप्रसक्तिरेव ॥८॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/09_samAvartanam/12_08_uttarena_yajuShA-hatamantaram.md">
 
-<details><summary><h4></h4>></summary>
-
 उत्तरेन यजुषाऽहतमन्तरं वासः परिधाय सार्वसुरभिणा चन्दनेनोत्तरैर्देशताभ्यः प्रदायोत्तरयानुलिप्य मणिं सौवर्णं सोपधानं सूत्रोतमुत्तरयोदपात्रे त्रिः प्रदक्षिणं परिप्लाव्योत्तरया ग्रीवास्वाबध्यैवमेव बादरं मणिं मन्त्रवर्जं सव्ये पाणावाबध्याहतमुत्तरं वासो रेवतीस्त्वेति समानम्।
-
-</details>
 
 </div>
 
@@ -481,7 +432,6 @@ title = "०९ समावर्तनम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/09_samAvartanam/12_09_tasya_dashAyAm.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 9. To the skirt (of that garment) he ties two earrings, puts them into the (sacrificial spoon called) Darvi, offers the oblations (indicated by the) next (Mantras; M. II, 8, 1-8), pouring the Ājya over (the ear-rings), and enters upon (the performance of) the Jaya and following oblations.
@@ -510,17 +460,12 @@ title = "०९ समावर्तनम्"
 वाक्यभेदोऽपि नैव दोष इत्युक्तम् "अग्निमिध्वा" (आप.गृ.१-१२.) इत्यत्र ।
 केचित् – सव्येन हस्तेन अभ्यानायन्नन्येन वाभ्यानायन्निति पाठेन भवितव्यमित्याचक्षते ॥९॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/09_samAvartanam/12_09_tasya_dashAyAm.md">
 
-<details><summary><h4></h4>></summary>
-
 तस्य दशायां प्रवर्तौ प्रबध्य दर्व्यामाधायाज्येनाभ्यानायन्नुत्तरा आहुतीर्हुत्वा जयादि प्रतिपद्यते।
-
-</details>
 
 </div>
 
@@ -534,7 +479,6 @@ title = "०९ समावर्तनम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/09_samAvartanam/12_10_pariShechanAnta~N_kRtvatAbhireva.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 10. Having performed (the ceremonies) down to the sprinkling (of water) round (the fire), he should tie (one of the ear-rings) with the same (verses) to his right ear, and with the same (verses one) to his left ear.
@@ -562,17 +506,12 @@ title = "०९ समावर्तनम्"
 केचित् – एताभिरित्यनेन प्रकृताहुतिपरामर्शादाहुत्यर्था मन्त्रा लक्ष्यन्ते "पितॄणां याज्यानुवाक्याभिरुपतिष्ठते" इतिवदिति ।
 मैवम्– यतः पूर्वत्रोत्तराहुतीरिति लक्षणया प्रकृतानां मन्त्राणामपि परामर्शो वरम्; नत्विहापि वाक्ये लक्षणा ॥१०॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/09_samAvartanam/12_10_pariShechanAnta~N_kRtvatAbhireva.md">
 
-<details><summary><h4></h4>></summary>
-
 परिषेचनान्तं कृत्वताभिरेव दक्षिणे कर्ण आबध्नीतैताभिस्सव्ये।
-
-</details>
 
 </div>
 
@@ -592,7 +531,6 @@ title = "०९ समावर्तनम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/09_samAvartanam/12_11_evamuttarairyathAlingaM.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 11. In the same way he should with the following (formulas, M. II, 8, 9-9, 5), according to the characteristics (contained in them), (put) a wreath on his head, anoint (his eyes), look into a mirror, (put on) shoes, (and should take) a parasol and a staff.
@@ -650,17 +588,12 @@ title = "०९ समावर्तनम्"
 "एवमुत्तरैर्यथालिङ्गम्" इत्यस्य च पूर्वव्याख्यानेऽप्युपपत्तेः ।
 "मयि पर्वत पूरुषम्" इत्यत्र पाठे प्रश्लिष्टेऽपि विभागे निराकाङ्क्षत्वात्, वाक्यभेदावगतेश्च ॥११॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/09_samAvartanam/12_11_evamuttarairyathAlingaM.md">
 
-<details><summary><h4></h4>></summary>
-
 एवमुत्तरैर्यथालिङ्गं स्रजश्शिरस्याञ्जनमादर्शावेक्षणमुपानहौ छत्रं दण्डमिति ॥
-
-</details>
 
 </div>
 
@@ -674,7 +607,6 @@ title = "०९ समावर्तनम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/09_samAvartanam/12_12_vAchaM_yachChatyAnaxatrebhyaH.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 12. He keeps silence until the stars appear.
@@ -689,17 +621,12 @@ title = "०९ समावर्तनम्"
 
 +++(सम्पादकटिप्पनी - इदं सूत्रम् अग्रिमे व्याख्यातम् ।)+++
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/09_samAvartanam/12_12_vAchaM_yachChatyAnaxatrebhyaH.md">
 
-<details><summary><h4></h4>></summary>
-
 वाचं यच्छत्यानक्षत्रेभ्यः।
-
-</details>
 
 </div>
 
@@ -714,7 +641,6 @@ title = "०९ समावर्तनम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/09_samAvartanam/12_13_uditeShu_naxatreShu.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 13. When the stars have appeared, he goes away towards the east or north, worships the quarters (of the horizon) with the next hemistich, and the stars and the moon with the next (M. II, 9, 6).
@@ -734,17 +660,12 @@ title = "०९ समावर्तनम्"
 **उत्तरेणार्धचेन** "देवाष्षडुर्वीः" इत्यनेन **दिशः** अवाचीषष्ठा **उपस्थाय, उत्तरेण** "मा हास्महि" इत्यर्र्धचेन **नक्षत्राणि चन्द्रमसं** चोपतिष्ठते ।
 श्रुतिबलाच्च "मा हास्महि" इत्यत्र नक्षत्राणीत्यध्याहृत्य तानि प्रकाश्यान्येव ॥१३॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/09_samAvartanam/12_13_uditeShu_naxatreShu.md">
 
-<details><summary><h4></h4>></summary>
-
 उदितेषु नक्षत्रेषु प्राचीमुदीचीं वा दिशमुपनिष्क्रम्योत्तरेणार्धर्चेन दिश उपस्थायोत्तरेण नक्षत्राणि चन्द्रमसमिति।
-
-</details>
 
 </div>
 
@@ -758,7 +679,6 @@ title = "०९ समावर्तनम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/09_samAvartanam/12_14_rAtinA_sambhAShya.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 14. Having spoken with a friend he may go where he likes.
@@ -778,16 +698,11 @@ title = "०९ समावर्तनम्"
 एवं च ब्रह्मचर्यादेव प्रव्रजतोऽपि सम्भाषणान्तं स्नानं कृत्वैव प्रव्रज्यात् ॥१४॥
 इति श्रीसुदर्शनाचार्याविरचिते गृह्यतात्पर्यदर्शने द्वादशः खण्डः समाप्तः ॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/09_samAvartanam/12_14_rAtinA_sambhAShya.md">
 
-<details><summary><h4></h4>></summary>
-
 रातिना सम्भाष्य यथार्थं गच्छति।
-
-</details>
 
 </div>

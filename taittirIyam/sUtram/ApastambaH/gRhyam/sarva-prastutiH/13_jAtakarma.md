@@ -1,6 +1,5 @@
 +++
 title = "१३ जातकर्म"
-
 +++
 
 
@@ -178,7 +177,6 @@ title = "१३ जातकर्म"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/13_jAtakarma/15_01_jAtaM_vAtsapreNAbhimRshyottareNa.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 1. [^1]  After he has touched the new-born child with the Vātsapra hymn (Taitt. Saṃh. IV, 2, 2; M. II, 11, 20), and has taken him on his lap with the next Yajus (M. II, II, 21), with the next (three) (verses - II, 11, 22; 12, 1. 2 - one by one) he addresses the child, kisses him on his head, and murmurs (the third verse) into his right ear.
@@ -223,17 +221,12 @@ title = "१३ जातकर्म"
 मधुघृतप्राशनं तु "त्वयि मेधाम्" इति यजुर्भिरेव त्रिभिरिति ।
 तन्न; अनधीयमानपाठाङ्गीकारे अतिप्रसङ्गात् ॥१॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/13_jAtakarma/15_01_jAtaM_vAtsapreNAbhimRshyottareNa.md">
 
-<details><summary><h4></h4>></summary>
-
 जातं वात्सप्रेणाभिमृश्योत्तरेण यजुषोपस्थ आधायोत्तराभ्यामभिमन्त्रणं मूर्धन्यवघ्राणं दक्षिणे कर्णे जापः ।
-
-</details>
 
 </div>
 
@@ -247,7 +240,6 @@ title = "१३ जातकर्म"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/13_jAtakarma/15_02_naxatranAma_cha.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 2. And he gives him a Nakṣatra name.
@@ -294,17 +286,12 @@ title = "१३ जातकर्म"
 एवं सर्वेषां नक्षत्रनाम्नां प्रथमया निर्देशः सूक्तवाके ।
 जातकर्मणि पुनस्सम्बुद्ध्या ॥२॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/13_jAtakarma/15_02_naxatranAma_cha.md">
 
-<details><summary><h4></h4>></summary>
-
 नक्षत्रनाम च निर्दिशति ।
-
-</details>
 
 </div>
 
@@ -318,7 +305,6 @@ title = "१३ जातकर्म"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/13_jAtakarma/15_03_tadrahasyam_bhavati.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 3. That is secret.
@@ -334,17 +320,12 @@ title = "१३ जातकर्म"
 
 नक्षत्रनाम च **रहस्यं** निर्देशेदिति सूत्रे प्रणेतव्ये सूत्रान्तरकरणात् यत् नामनक्षत्रनिबन्धनं, यच्च दशम्यां कृतं तदुभयं  सूक्तवाकान्नप्राशनाभिवादनादिषु नित्यं रहस्यमेव निर्देश्यं भवति ॥३॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/13_jAtakarma/15_03_tadrahasyam_bhavati.md">
 
-<details><summary><h4></h4>></summary>
-
 तद्रहस्यं भवति ।
-
-</details>
 
 </div>
 
@@ -441,7 +422,6 @@ title = "१३ जातकर्म"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/13_jAtakarma/15_04_madhu_ghRtamiti.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 4. He pours together honey and ghee; into this (mixture) he dips a piece of gold which he has tied with a noose to a Darbha blade. With the next (three) formulas (II, 12, 3-5) he gives the boy (by means of the piece of gold, some of the mixture) to eat. With the next five (verses, II, 12, 6-10) he bathes him. Then he pours curds and ghee together and gives him this (mixture which is called) 'sprinkled butter' (pṛṣadājya) to eat out of a brass vessel, with the Vyāhṛtis to which the syllable 'Om' is added as the fourth (II, 12, 11-14). The remainder he should mix with water and pour out in a cow-stable.
@@ -478,17 +458,12 @@ title = "१३ जातकर्म"
 केचित्—मधृघृतसंसर्गोऽपि कांस्ये नियतः ।
 प्राशनद्वयं स्नापनं च प्रतिमन्त्रमिति ॥४॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/13_jAtakarma/15_04_madhu_ghRtamiti.md">
 
-<details><summary><h4></h4>></summary>
-
 मधु घृतमिति सँसृज्य तस्मिन् दर्भेण हिरण्यं निष्टर्क्यं बध्वावदायोत्तरैर्मन्त्रैः कुमारं प्राशयित्वोत्तराभिः पञ्चभिस्स्नापयित्वा दधि घृतमिति सँसृज्य काँस्येन पृषदाज्यं व्याहृतीभिरोङ्कारचतुर्थाभिः कुमारं प्राशयित्वाद्भिः शेषँ सँसृज्य गोष्ठे निनयेत् ।
-
-</details>
 
 </div>
 
@@ -545,7 +520,6 @@ title = "१३ जातकर्म"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/13_jAtakarma/15_05_uttarayA_mAturupastha.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 5. With the next (verse, M. II, 13, 1) he places (the child) in the mother's lap; with the next (II, 13, 2) he causes her to give him her right breast; with the next two (verses, II, 13, 3. 4) he touches the earth, and after (the child) has been laid down, (he touches him) with the next (formula, II, 13, 5).
@@ -576,17 +550,12 @@ title = "१३ जातकर्म"
 इष्टिस्तूक्तेन न्यायेन निमित्तस्वारस्यभङ्गस्य दुर्निवारत्वात् चोदकानुग्रहाच्चाशौचे ऽपगते पर्वण्येव कर्तव्या ।
 **उत्तराभ्यां** "यद्भूमेर्हृदयं" इत्येताभ्यां **पृथिवीं** सकृद् **अभिमृशति**, यत्र कुमारश्शतयिष्यते । ततस्तं कुमारं अभिमृष्टायां भूमौ माता संवेशयति । अथ तं **संविष्टं** "नामयति न रुदति" इति **यजुषा** अभिमृशति ॥५॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/13_jAtakarma/15_05_uttarayA_mAturupastha.md">
 
-<details><summary><h4></h4>></summary>
-
 उत्तरया मातुरुपस्थ आधायोत्तरया दक्षिणं स्तनं प्रतिधाप्योत्तराभ्यां पृथिवीमभिमृश्योत्तरेण यजुषा संविष्टम् ।
-
-</details>
 
 </div>
 
@@ -690,7 +659,6 @@ title = "१३ जातकर्म"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/13_jAtakarma/15_06_uttareNa_yajuShA.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 6. With the next Yajus (II, 13, 6) he places a water-pot at (the child's) head, sacrifices mustard seeds and rice-chaff with his joined hands three times with each of the next (formulas, II, 13, 7-14, 2), repeating each time the word Svāhā, and says (to the people who are accustomed to enter the room in which his wife lies), 'Whenever you enter, strew silently (mustard seeds with rice-chaff) on the fire.'
@@ -732,17 +700,12 @@ title = "१३ जातकर्म"
 केचित् एवकार एवमित्यर्थे ।
 तूष्णीमिति चातिदेशप्राप्तमन्त्रप्रतिषेधार्थमिति ॥६॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/13_jAtakarma/15_06_uttareNa_yajuShA.md">
 
-<details><summary><h4></h4>></summary>
-
 उत्तरेण यजुषा शिरस्त उदकुम्भं निधाय सर्षपान् फलीकरणमिश्रानञ्जलिनोत्तरैस्त्रिस्त्रि प्रतिस्वाहाकारं हुत्वा संशास्ति–प्रविष्ट प्रविष्ट एव तूष्णीमग्नावावपतेति ।
-
-</details>
 
 </div>
 
@@ -756,7 +719,6 @@ title = "१३ जातकर्म"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/13_jAtakarma/15_07_evamaharaharAnirdashatAyAH.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 7. This is to be done until the ten days (after the child's birth) have elapsed.
@@ -779,16 +741,11 @@ title = "१३ जातकर्म"
 **निर्दशा** निर्गता दशभ्योऽहोरात्रेभ्यो या रात्रिस्सा ।
 आदशम्या रात्रेरित्यर्थः ॥७॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/13_jAtakarma/15_07_evamaharaharAnirdashatAyAH.md">
 
-<details><summary><h4></h4>></summary>
-
 एवमहरहरानिर्दशतायाः।
-
-</details>
 
 </div>

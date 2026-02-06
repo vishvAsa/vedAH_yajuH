@@ -1,6 +1,5 @@
 +++
 title = "०६ पिण्डप्रदानविधिः"
-
 +++
 
 पिण्डप्रदानम्
@@ -24,8 +23,6 @@ title = "०६ पिण्डप्रदानविधिः"
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/02-04_mArjayantAm_mama_pitaraH.md">
 
-##  …{Loading}…
-
 मा॒र्जय॑न्तां॒ मम॑ पि॒तरो॑, मा॒र्जय॑न्तां॒ मम॑ पिताम॒हा मा॒र्जय॑न्तां॒ मम॑ प्रपिताम॒हाः ।  
 
 </div>
@@ -33,8 +30,6 @@ title = "०६ पिण्डप्रदानविधिः"
 अपरेषु दर्भेषु -
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/05-07_mArjayantAm_mama_mAtaraH.md">
-
-##  …{Loading}…
 
 मा॒र्जय॑न्तां॒ मम॑ मा॒तरो॑, मा॒र्जय॑न्तां॒ मम॑ पिताम॒ह्यो॑, मा॒र्जय॑न्तां॒ मम॑ प्रपिताम॒ह्यः॑ ।  
 
@@ -47,8 +42,6 @@ title = "०६ पिण्डप्रदानविधिः"
 
 ## पिण्ड-स्थापनम्
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/08-19_etatte_tatAsau.md">
-
-#####  …{Loading}…
 
 ए॒तत्ते॑ तताऽसौ॒+++(←नामनिर्देशः)+++, ये च॒ त्वाम् अनु॑ +++(जीवन्ति)+++।  
 ए॒तत्ते॑ पितामहाऽसौ॒+++(←नामनिर्देशः)+++, ये च॒ त्वाम् अनु॑ +++(जीवन्ति)+++।  
@@ -106,8 +99,6 @@ title = "०६ पिण्डप्रदानविधिः"
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/02-04_mArjayantAm_mama_pitaraH.md">
 
-##  …{Loading}…
-
 मा॒र्जय॑न्तां॒ मम॑ पि॒तरो॑, मा॒र्जय॑न्तां॒ मम॑ पिताम॒हा मा॒र्जय॑न्तां॒ मम॑ प्रपिताम॒हाः ।  
 
 </div>
@@ -118,8 +109,6 @@ title = "०६ पिण्डप्रदानविधिः"
 अपरेषु दर्भेषु -
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/05-07_mArjayantAm_mama_mAtaraH.md">
-
-##  …{Loading}…
 
 मा॒र्जय॑न्तां॒ मम॑ मा॒तरो॑, मा॒र्जय॑न्तां॒ मम॑ पिताम॒ह्यो॑, मा॒र्जय॑न्तां॒ मम॑ प्रपिताम॒ह्यः॑ ।  
 

@@ -1,6 +1,5 @@
 +++
 title = "२५ अष्टकाश्राद्धम्"
-
 +++
 
 
@@ -15,7 +14,6 @@ title = "२५ अष्टकाश्राद्धम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/25_aShTakAshrAddham/21_10_yA_mAdhyAH.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 10. Of the dark fortnight that follows after the full moon of Māgha, the eighth day falls under (the constellation of) Jyeṣṭhā: this day is called Ekāṣṭakā.
@@ -49,17 +47,12 @@ title = "२५ अष्टकाश्राद्धम्"
 तेनायुक्तायामपि गवामयनदीक्षादीनि लभ्यन्ते ॥
 केचित्—यदा द्वयोरह्नोरष्टमी, यस्मिन्वा संवत्सरे द्वौ माघमासौ, तत्र या अष्टमी ज्येष्ठया सम्पद्यते तस्यामेव नासम्पन्नायामित्येवमभिप्राय इति ॥१०॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/25_aShTakAshrAddham/21_10_yA_mAdhyAH.md">
 
-<details><summary><h4></h4>></summary>
-
 या माध्याः पौर्णमास्या उपरिष्टाद्व्यष्टका तस्यामष्टमी ज्येष्ठया सम्पद्यते तामेकाष्टकेत्याचक्षते ।
-
-</details>
 
 </div>
 
@@ -73,7 +66,6 @@ title = "२५ अष्टकाश्राद्धम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/25_aShTakAshrAddham/21_11_tasyAssAyamaupakAryam.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 11. In the evening before that day (he performs) the preparatory ceremony.
@@ -88,16 +80,12 @@ title = "२५ अष्टकाश्राद्धम्"
 
 +++(सम्पादकटिप्पनी - इदं सूत्रम् अग्रिमे व्याख्यातम् । )+++
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/25_aShTakAshrAddham/21_11_tasyAssAyamaupakAryam.md">
 
-<details><summary><h4></h4>></summary>
-
 तस्यास्सायमौपकार्यम्।
-</details>
 
 </div>
 
@@ -111,7 +99,6 @@ title = "२५ अष्टकाश्राद्धम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/25_aShTakAshrAddham/21_12_apUpa~n_chatushsharAvam.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 12. [^2]  He bakes a cake of four cups (of rice).
@@ -149,16 +136,12 @@ title = "२५ अष्टकाश्राद्धम्"
 अपूपः प्रथितावयवः प्रसिद्धः ।
 प्रतिष्ठिताभिघारणान्तं च करोति  ॥१२॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/25_aShTakAshrAddham/21_12_apUpa~n_chatushsharAvam.md">
 
-<details><summary><h4></h4>></summary>
-
 अपूपं चतुश्शरावं श्रपयति।
-</details>
 
 </div>
 
@@ -172,7 +155,6 @@ title = "२५ अष्टकाश्राद्धम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/25_aShTakAshrAddham/21_13_aShTAkapAla_ityeke.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 13. (The cake is prepared) in eight dishes (like a Puroḍāśa), according to some (teachers).
@@ -197,17 +179,12 @@ title = "२५ अष्टकाश्राद्धम्"
 
 इति श्रीसुदर्शनाचार्यविरचिते गृह्यतात्पर्यदर्शने एकविंशः खण्डः ॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/25_aShTakAshrAddham/21_13_aShTAkapAla_ityeke.md">
 
-<details><summary><h4></h4>></summary>
-
 अष्टाकपाल इत्येके ॥
-
-</details>
 
 </div>
 
@@ -231,7 +208,6 @@ title = "२५ अष्टकाश्राद्धम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/25_aShTakAshrAddham/22_01_pArvaNavadAjyabhAgAnte-njalinottarayA-pUpAjjuhoti.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 1. [^1]  After the ceremonies down to the Ājyabhāga oblations have been performed in the same way as at the fortnightly sacrifices, he makes with his joined hands oblations of the cake with the next (verse, II, 20, 27).
@@ -260,17 +236,12 @@ title = "२५ अष्टकाश्राद्धम्"
 तथा "ततस्तूष्णीमाग्निहोत्रं जुहोति" (आप.श्रौ.५-१७-६.) इति तूष्णीकत्वमाधानाङ्गभूतस्य नैयमिकाग्निहोत्रविकृतेः प्रधानस्यैव धर्मः न तदङ्गानामपीति ।
 औपकार्यस्य चौषधिहविष्कत्वादेव सिद्धस्य तन्त्रस्य पुनर्वचनं एतत्स्थानापन्नदधिहोमेऽपि प्राप्त्यर्थमित्युक्तमेव ॥१॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/25_aShTakAshrAddham/22_01_pArvaNavadAjyabhAgAnte-njalinottarayA-pUpAjjuhoti.md">
 
-<details><summary><h4></h4>></summary>
-
 पार्वणवदाज्यभागान्तेऽञ्जलिनोत्तरयाऽपूपाज्जुहोति।
-
-</details>
 
 </div>
 
@@ -284,7 +255,6 @@ title = "२५ अष्टकाश्राद्धम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/25_aShTakAshrAddham/22_02_siddhashsheShastamaShTadhA_kRtvA.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 2. [^2]  The rest (of the cake) he makes ready, divides (it) into eight parts and offers it to the Brāhmaṇas.
@@ -311,16 +281,12 @@ title = "२५ अष्टकाश्राद्धम्"
 एवमौपकार्यं कृत्वा मासिश्राद्धवद्भोक्तृभ्यो ब्राह्मणेभ्यो निवेदयेत् ।
 श्वोऽष्टकाश्राद्धं भविष्यतीति भेदः ॥२॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/25_aShTakAshrAddham/22_02_siddhashsheShastamaShTadhA_kRtvA.md">
 
-<details><summary><h4></h4>></summary>
-
 सिद्धश्शेषस्तमष्टधा कृत्वा ब्राह्मणेभ्य उपहरति ।
-</details>
 
 </div>
 
@@ -334,7 +300,6 @@ title = "२५ अष्टकाश्राद्धम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/25_aShTakAshrAddham/22_03_shvobhUte_darbheNa.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 3. On the following day he touches a cow with a Darbha blade, with the words, 'I touch thee agreeable to the Fathers.'
@@ -358,17 +323,12 @@ title = "२५ अष्टकाश्राद्धम्"
 अथ **श्वोभूते** अष्टम्याम् ।
 ब्राह्मणान् गृहमानीयेत्याद्यग्निमुखान्तं सर्व मासिश्राद्धवत् कृत्वा, अथ **दर्भेणै**केन **गां** स्त्रियं "पितृभ्यस्त्वा जुष्टाम्" उपाकरोमि, इत्यनेन मन्त्रेणोपाकरोति ॥३॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/25_aShTakAshrAddham/22_03_shvobhUte_darbheNa.md">
 
-<details><summary><h4></h4>></summary>
-
 श्वोभूते दर्भेण गामुपाकरोति पितृभ्यस्त्वा जुष्टामुपाकरोमीति ।
-
-</details>
 
 </div>
 
@@ -395,7 +355,6 @@ title = "२५ अष्टकाश्राद्धम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/25_aShTakAshrAddham/22_04_tUShNIm_panchAjyAhutIrhutvA.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 4. [^3]  Having silently offered five Ājya oblations, and having cooked, the omentum of the (cow), and performed the 'spreading under' and the sprinkling over (of Ājya), he sacrifices (the omentum) with the next (verse, II, 20, 28) with a Palāśa leaf from the middle or the end (of the stalk).
@@ -429,17 +388,12 @@ title = "२५ अष्टकाश्राद्धम्"
 **तस्यै** वपामित्यादि व्याख्यातम् ।
 **उत्तरया** "वह वपाम्" इत्येतया ॥४॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/25_aShTakAshrAddham/22_04_tUShNIm_panchAjyAhutIrhutvA.md">
 
-<details><summary><h4></h4>></summary>
-
 तूष्णीं पञ्चाज्याहुतीर्हुत्वा तस्यै वपां श्रपयित्वोपस्तीर्णाभिघारितां मध्यमेनान्तमेन वा पलाशपर्णेनोत्तरया जुहोति ।
-
-</details>
 
 </div>
 
@@ -519,7 +473,6 @@ title = "२५ अष्टकाश्राद्धम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/25_aShTakAshrAddham/22_05_mA.NsaudanamuttarAbhiH.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 5. (He sacrifices) boiled rice together with the meat (of the cow) with the next (verses, II, 20, 29-35),
@@ -553,16 +506,12 @@ title = "२५ अष्टकाश्राद्धम्"
 वपाहोमान्ते गोर्विशसनं कारयित्वाऽन्वष्टकाब्राह्मणभोजनव्यञ्जनार्थं मांसमवशिष्य, इतरत् कृत्स्नं लौकिकप्रकारेण श्रपयित्वा, तदेकदेशं मासिश्राद्धवत् ब्राह्मणभोजनार्थादन्नाद्धोमार्थमुद्धृतेऽन्ने संसृज्य, तेनैव मांसमिश्रेणौदनेन जुहोतीति ।
 न च मांसौदनयोस्सहपाकश्शङ्कनीयः, गोरालम्भात् प्रागेव होमार्थान्नस्योद्धृतत्वात्, मांसौदनयोः पक्तिवैषम्याच्च ॥५॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/25_aShTakAshrAddham/22_05_mA.NsaudanamuttarAbhiH.md">
 
-<details><summary><h4></h4>></summary>
-
 माँसौदनमुत्तराभिः ।
-</details>
 
 </div>
 
@@ -587,7 +536,6 @@ title = "२५ अष्टकाश्राद्धम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/25_aShTakAshrAddham/22_06_piShTAnnamuttarayA_piShTena.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 6. Food prepared of meal with the next (verse, II, 21, 1),
@@ -608,16 +556,12 @@ title = "२५ अष्टकाश्राद्धम्"
 पलाशपर्णं चेह वपाहोममात्रे ।
 अन्यद्दर्व्यैव ॥६॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/25_aShTakAshrAddham/22_06_piShTAnnamuttarayA_piShTena.md">
 
-<details><summary><h4></h4>></summary>
-
 पिष्टान्नमुत्तरया।
-</details>
 
 </div>
 
@@ -660,7 +604,6 @@ title = "२५ अष्टकाश्राद्धम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/25_aShTakAshrAddham/22_07_AjyAhutIruttarAH.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 7. Then the Ājya oblations (indicated by the) next (Mantras, II, 21, 2-9).
@@ -676,17 +619,12 @@ title = "२५ अष्टकाश्राद्धम्"
 उत्तरमन्त्रकरणिका **आज्याहुतीर्** अष्टौ जुहोतीत्यर्थः ।
 ते च "भूः पृथिव्यग्निना" इत्यादयः यजूरूपाः ॥७॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/25_aShTakAshrAddham/22_07_AjyAhutIruttarAH.md">
 
-<details><summary><h4></h4>></summary>
-
 आज्याहुतीरुत्तराः।
-
-</details>
 
 </div>
 
@@ -700,7 +638,6 @@ title = "२५ अष्टकाश्राद्धम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/25_aShTakAshrAddham/22_08_sviShTakRtprabhRti.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 8. (The rites) from the Sviṣṭakṛt down to the offering of the Piṇḍas are the same (as at the Śrāddha).
@@ -722,17 +659,12 @@ title = "२५ अष्टकाश्राद्धम्"
 **स्विष्टकृदादि** तन्त्रशेषं सर्वाभिमर्शनादि च प्रदक्षिणीकृत्येत्येवमन्तं ब्राह्मणभोजनं, पिण्डनिधानं, ग्रासवरार्ध्यं प्राश्नीयादित्येवमन्तं, सर्वं पदार्थजातं मासिश्राद्धवदिहापि कर्तव्यमेवेत्यर्थः ।
 तत्र च मांसौदनात् पिष्टान्नाच्च स्विष्टकृते सहावदानमिति भेदः ॥८॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/25_aShTakAshrAddham/22_08_sviShTakRtprabhRti.md">
 
-<details><summary><h4></h4>></summary>
-
 स्विष्टकृत्प्रभृति समानमापिण्डनिधानात् ।
-
-</details>
 
 </div>
 
@@ -746,7 +678,6 @@ title = "२५ अष्टकाश्राद्धम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/25_aShTakAshrAddham/22_09_anvaShTakAyAmevaike.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 9. Some (teachers) prescribe the Piṇḍa offering for the day after the Aṣṭakā.
@@ -786,17 +717,12 @@ title = "२५ अष्टकाश्राद्धम्"
 अपि वात्यन्तलघुरपि दधिहोमपक्षः कलियुगे व्यवस्थितो द्रष्टव्यः ।
 प्रमाणं तु त्रैविद्यवृद्धाश्शिष्टा एव ॥९॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/25_aShTakAshrAddham/22_09_anvaShTakAyAmevaike.md">
 
-<details><summary><h4></h4>></summary>
-
 अन्वष्टकायामेवैके पिण्डनिधानमुपदिशन्ति ।
-
-</details>
 
 </div>
 
@@ -810,7 +736,6 @@ title = "२५ अष्टकाश्राद्धम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/25_aShTakAshrAddham/22_10_athaitadaparan_dadhna.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 10. Here (follows) another (way for celebrating the Aṣṭakā sacrifice). He sacrifices curds with his joined hands in the same way as the cake.
@@ -863,17 +788,12 @@ title = "२५ अष्टकाश्राद्धम्"
 तेनास्मिन्नपि पक्षे ब्राह्मणभोजनपिण्डप्रदानयोरावृत्तिः ।
 तस्मात् सप्तम्यां रात्रौ ब्राह्मणान्निमन्त्र्याष्टम्यां होमस्थाने दधिहोमः, ततोऽपराह्णे भोजनादि सर्वमविकृतं, नवम्यामन्वष्टकापीति सिद्धम् ॥१०॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/25_aShTakAshrAddham/22_10_athaitadaparan_dadhna.md">
 
-<details><summary><h4></h4>></summary>
-
 अथैतदपरं दध्न एवाञ्जलिना जुहोति ययाऽपूपम् ।
-
-</details>
 
 </div>
 
@@ -887,7 +807,6 @@ title = "२५ अष्टकाश्राद्धम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/25_aShTakAshrAddham/22_11_ata_eva.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 11. Having left over from the meat of the (cow, see above, 3. 4) as much as is required, on the day after (the Aṣṭakā) (he performs) the rite of the Anvaṣṭakā.
@@ -904,17 +823,12 @@ title = "२५ अष्टकाश्राद्धम्"
 **श्वोभूते** नवम्याम् **अन्वष्टकाख्यं** कर्म कर्तव्यम् ।
 **अत एव** गोरष्टकायामालब्धायाः **मांसं यथार्थं** यथाप्रयोजनं **शिष्ट्वा** इत्येतत्प्रथमपक्षविषयम् ॥११॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/25_aShTakAshrAddham/22_11_ata_eva.md">
 
-<details><summary><h4></h4>></summary>
-
 अत एव यथार्थं माँसँ शिष्ट्वा श्वोभूतेऽन्वष्टकाम् ।
-
-</details>
 
 </div>
 
@@ -928,7 +842,6 @@ title = "२५ अष्टकाश्राद्धम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/25_aShTakAshrAddham/22_12_tasyA_mAsishrAddhena.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 12. This rite has been explained in the description of the monthly Śrāddha.
@@ -1067,16 +980,11 @@ title = "२५ अष्टकाश्राद्धम्"
 कल्पातिदेशात् सर्वमिह द्रव्यदेवतादिकं प्राप्यते ।
 तस्मान्निमन्त्रणादि ग्रासप्राशनान्तं सर्वं मासिश्राद्धवदविकृतं कर्तव्यम् ॥१२॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/25_aShTakAshrAddham/22_12_tasyA_mAsishrAddhena.md">
 
-<details><summary><h4></h4>></summary>
-
 तस्या मासिश्राद्धेन कल्पो व्याख्यातः ।
-
-</details>
 
 </div>

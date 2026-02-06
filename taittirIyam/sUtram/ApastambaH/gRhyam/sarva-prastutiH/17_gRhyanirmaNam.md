@@ -1,6 +1,5 @@
 +++
 title = "१७ गृह्यनिर्मणम्"
-
 +++
 
 
@@ -23,7 +22,6 @@ title = "१७ गृह्यनिर्मणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/17_gRhyanirmaNam/17_01_daxiNApratyakpravaNamagArAvakAshamuddhatya.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 1. The ground for building a house should be inclined towards the south-west. He elevates the surface and sweeps (the earth) with a broom of Palāśa wood or of Sami wood, with the next (verse, M. II, 15, 1), in the same (south-west) direction;
@@ -58,17 +56,12 @@ title = "१७ गृह्यनिर्मणम्"
 
 योऽगारार्थत्वेनाभिप्रेतोऽवकाशो भूमिभागो **दक्षिणाप्रत्यक्प्रवणः** दक्षिणाप्रतीच्यां नैर्ऋत्यां दिशि निम्नस्त**मुद्धत्य** खनित्रादिना पांसू(१)नुत्खाद्य **पालाशेन शमीमयेन वोदूहेन,** उदूह्यन्ते देशान्तरं प्राप्यन्ते पांसवोऽनेनेत्युदूहः; वादुलूक इत्यर्थः। तेनैतामेव कोणदिशं **उत्तरया** "यद्भूमेः क्रूरम्" इत्येतयो**दूहति** ॥१॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/17_gRhyanirmaNam/17_01_daxiNApratyakpravaNamagArAvakAshamuddhatya.md">
 
-<details><summary><h4></h4>></summary>
-
 दक्षिणाप्रत्यक्प्रवणमगारावकाशमुद्धत्य पलाशेन शमीमयेन वोदूहेनैतामेव दिशमुत्तरयोदूहति ॥  
-
-</details>
 
 </div>
 
@@ -84,7 +77,6 @@ title = "१७ गृह्यनिर्मणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/17_gRhyanirmaNam/17_02_evan_triH.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 2. In the same way three times.
@@ -101,17 +93,12 @@ title = "१७ गृह्यनिर्मणम्"
 अत्र द्वितीयतृतीययोरप्युदूहयोः मन्त्रावृत्तिः, एवमिति वचनात् ।
 अन्यथा उत्तरया त्रिरुदूहतीत्येव ब्रूयात्, "एवं त्रिः" इति सूत्रान्तरं नारभेत ॥२॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/17_gRhyanirmaNam/17_02_evan_triH.md">
 
-<details><summary><h4></h4>></summary>
-
 एवं त्रिः।
-
-</details>
 
 </div>
 
@@ -162,7 +149,6 @@ __________________
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/17_gRhyanirmaNam/17_03_kLLiptamuttarayAbhimRshya.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 3. He touches the ground, which has thus been prepared, with the next (verse, II, 15, 2). Then he has the pits for the posts dug from left to right, throws the earth (from the pits) towards the inside (of the building-ground), and erects the right doorpost with the next two (verses, M. II, 15, 3. 4)
@@ -185,17 +171,12 @@ __________________
 कॢप्तमुदूहेन प्रागुदक्प्रवणं कृतं **उत्तरया** "स्योना पृथिवि" इत्यनया** अभिमृश्य स्थूणागर्तान्** स्थूणानां (१)विभागार्थान् गर्तान् कर्मकरैः प्रदक्षिणं **खानयित्वा**भ्यन्तरमारभ्य, न बहिः, **पांसूनुदुप्य उत्तराभ्यां** "इहैव तिष्ठ" इत्येताभ्यां **दक्षिणां** निष्क्रामत एव, न प्रविशतः, द्वारस्थूणामवटे **अवदधाति ।**
 अत्र प्रादक्षिण्यस्य चाभ्यन्तरत्वस्य च विधानं पर्यन्तीयास्वेव स्थूणासु; न तु मध्यमासु ॥३॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/17_gRhyanirmaNam/17_03_kLLiptamuttarayAbhimRshya.md">
 
-<details><summary><h4></h4>></summary>
-
 कॢप्तमुत्तरयाभिमृश्य प्रदक्षिणं स्थूणागर्तान् खानयित्वाभ्यन्तरं पाँसूनुदूप्योत्तराभ्यां दक्षिणा द्वारस्थूणामवदधाति ॥
-
-</details>
 
 </div>
 
@@ -209,7 +190,6 @@ __________________
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/17_gRhyanirmaNam/17_04_evamitarAm_etAbhyAmeva.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 4. In the same way the other (door-post).
@@ -224,17 +204,12 @@ __________________
 
 **इतरां** सव्यां द्वारस्थूणां **एवं** "इहैव तिष्ठ" इत्येताभ्यामेवावदधाति ॥४॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/17_gRhyanirmaNam/17_04_evamitarAm_etAbhyAmeva.md">
 
-<details><summary><h4></h4>></summary>
-
 एवमितराम्।
-
-</details>
 
 </div>
 
@@ -256,7 +231,6 @@ __________________
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/17_gRhyanirmaNam/17_05_yathAkhAtamitarA_anvavadhAya.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 5. Having erected after (the door-posts) the other (posts) in the same order in which (the pits) have been dug, he recites the next Yajus (II, 15, 5) over the ridge-pole when it is placed (on the posts),
@@ -278,17 +252,12 @@ __________________
 
 **यथाखातं** खननक्रमेण **इतराः** स्थूणाः तूष्णी**मन्ववधाय** वंशं स्तूपं स्थूणास्वाधीयमानं **उत्तरेण यजुषा** "ऋतेन स्थूणावधिरोह" इत्यनेनाभिमन्त्रयते ॥५॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/17_gRhyanirmaNam/17_05_yathAkhAtamitarA_anvavadhAya.md">
 
-<details><summary><h4></h4>></summary>
-
 यथाखातमितरा अन्ववधाय वँशमाधीयमानमुत्तरेण यजुषाऽभिमन्त्रयते।
-
-</details>
 
 </div>
 
@@ -313,7 +282,6 @@ __________________
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/17_gRhyanirmaNam/17_06_sammitamuttarairyathAlingam.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 6. The next (six) (Yajus formulas, II, 15, 6-11) over the (house when it is) finished, according to the characteristics contained in the single formulas.
@@ -351,16 +319,11 @@ __________________
 अपरे तु–नैवेह कस्यचिद् क्वचिदप्यनुषङ्गः; अनुषज्यमानस्य वैरूप्यात्, अन्तेऽपि च पाठाभावाच्च ।
 वाक्यसमाप्तिस्तु प्रकृततया बुद्धिस्थपदार्थान्वयात्सिध्यति, यथा(२)"इषे त्वा" (तै.सं.१-१-१.) इति मन्त्रस्य बुद्धिस्थच्छेदनान्वयात् छिनद्मीति वाक्यसमाप्तिरिति ॥६॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/17_gRhyanirmaNam/17_06_sammitamuttarairyathAlingam.md">
 
-<details><summary><h4></h4>></summary>
-
 सम्मितमुत्तरैर्यथालिङ्गम्।
-
-</details>
 
 </div>

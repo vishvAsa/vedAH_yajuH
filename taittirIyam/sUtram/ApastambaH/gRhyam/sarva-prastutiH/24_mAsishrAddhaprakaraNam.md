@@ -1,6 +1,5 @@
 +++
 title = "२४ मासिश्राद्धप्रकरणम्"
-
 +++
 
 
@@ -14,7 +13,6 @@ title = "२४ मासिश्राद्धप्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/24_mAsishrAddhaprakaraNam/21_01_mAsishrAddhasyAparapaxe.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 1. [^1]  The times for the monthly Śrāddha are in the second fortnight (of the month), as they are stated.
@@ -47,17 +45,12 @@ title = "२४ मासिश्राद्धप्रकरणम्"
 "अपरपक्षे यथोपदेशं कालाः, इति पुनर्वचनस्य प्रयोजनं "अपरपक्षे पित्र्याणि" (आप.गृ.१-७.) इत्यत्रोक्तम् ।
 केचित्— यस्यां तिथौ प्रथममुपक्रमस्तस्यामेवोत्तरे प्रयोग इति नियमो नास्ति; किन्तु पूर्णेऽपि मासे अपरपक्ष एव यथोपदेशं तिथ्यन्तरेऽपि नित्यः काम्यश्च प्रयोग इति ॥१॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/24_mAsishrAddhaprakaraNam/21_01_mAsishrAddhasyAparapaxe.md">
 
-<details><summary><h4></h4>></summary>
-
 मासिश्राद्धस्यापरपक्षे यथोपदेशं कालाः ।
-
-</details>
 
 </div>
 
@@ -71,7 +64,6 @@ title = "२४ मासिश्राद्धप्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/24_mAsishrAddhaprakaraNam/21_02_shuchIn_mantravato.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 2. Let him feed, without regard of (worldly) purposes, pure Brāhmaṇas, versed in the Mantras, who are not connected with himself by consanguinity or by their Gotra or by the Mantras (such as his teacher or his pupils), an odd number, at least three.
@@ -162,17 +154,12 @@ title = "२४ मासिश्राद्धप्रकरणम्"
 मातामहश्राद्धप्रयोगश्च स्मृत्यन्तरेभ्यो न्यायतश्च प्रत्येतव्यः ।
 तस्मात् सर्वस्य दौहित्रस्य पित्र्यवत् कर्तव्यमेवेति नियमाभावत् सूत्रकारभाष्यकारौ न ब्रूतः ॥२॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/24_mAsishrAddhaprakaraNam/21_02_shuchIn_mantravato.md">
 
-<details><summary><h4></h4>></summary>
-
 शुचीन् मन्त्रवतो योनिगोत्रमन्त्रासम्बन्धानयुग्माँस्त्र्यवराननर्थावेक्षो भोजयेत्।
-
-</details>
 
 </div>
 
@@ -256,7 +243,6 @@ title = "२४ मासिश्राद्धप्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/24_mAsishrAddhaprakaraNam/21_03_annasyottarAbhirjuhoti.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 3. He makes oblations of the food (prepared for the Brāhmaṇas) with the next (verses, II, 19,1-7);
@@ -312,17 +298,12 @@ title = "२४ मासिश्राद्धप्रकरणम्"
 (म.स्मृ.३-२२१,२२२) इति मनुवचनेन व्युत्क्रमप्रमीतपित्रादिकस्यापि श्राद्धविधानात् ।
 ततश्च व्युत्क्रमाच्चेति निषेधः पाक्षिक इति निश्चयादधिकारोऽपि पाक्षिकोऽवगम्यते ॥३॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/24_mAsishrAddhaprakaraNam/21_03_annasyottarAbhirjuhoti.md">
 
-<details><summary><h4></h4>></summary>
-
 अन्नस्योत्तराभिर्जुहोति ।
-
-</details>
 
 </div>
 
@@ -348,7 +329,6 @@ title = "२४ मासिश्राद्धप्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/24_mAsishrAddhaprakaraNam/21_04_AjyAhutIruttarAH.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 4. Then the Ājya oblations (indicated by the) next (Mantras, II, 19, 8-13).
@@ -372,16 +352,12 @@ title = "२४ मासिश्राद्धप्रकरणम्"
 
 एवमन्नहोमान् हुत्वा, अनन्तरम् **उत्तराः** "स्वाहा पित्रे" इत्याद्याष् **षडाज्याहुतीर्** जुहोति ॥४॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/24_mAsishrAddhaprakaraNam/21_04_AjyAhutIruttarAH.md">
 
-<details><summary><h4></h4>></summary>
-
 आज्याहुतीरुत्तराः।
-</details>
 
 </div>
 
@@ -395,7 +371,6 @@ title = "२४ मासिश्राद्धप्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/24_mAsishrAddhaprakaraNam/21_05_etadvA_viparItam.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 5. Or invertedly (i.e. he offers Ājya with the verses referred to in Sūtra 3, and food with those referred to in Sūtra 4).
@@ -467,17 +442,12 @@ title = "२४ मासिश्राद्धप्रकरणम्"
 
 यद्वा **विपरीतमेद्भवति** ,"यन्मे माता" इत्याद्याः पूर्वास्सप्ताज्याहुतयः, "स्वाहा पित्रे" इत्याद्या उत्तराष्षडन्नाहुतय इति ॥५॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/24_mAsishrAddhaprakaraNam/21_05_etadvA_viparItam.md">
 
-<details><summary><h4></h4>></summary>
-
 एतद्वा विपरीतम् ।
-
-</details>
 
 </div>
 
@@ -513,7 +483,6 @@ title = "२४ मासिश्राद्धप्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/24_mAsishrAddhaprakaraNam/21_06_sarvamuttarairabhimRshet.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 6. Let him touch the whole (food) with the next (formulas, II, 19, 14-16).
@@ -534,17 +503,12 @@ title = "२४ मासिश्राद्धप्रकरणम्"
 अथ ब्राह्मणभोजनार्थं हविष्यमहविषयं च सर्वमन्नं **उत्तरैः** "एष ते तत मधुमान्" इत्येतैस्त्रिभिर्मन्त्रैः अभिमृशेत् ।
 एकयत्नेन सर्वस्याभिमर्शनासम्भवे मन्त्रावृत्तिः ; शेषिपरतन्त्रत्वाच्छेषाणाम् ॥६॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/24_mAsishrAddhaprakaraNam/21_06_sarvamuttarairabhimRshet.md">
 
-<details><summary><h4></h4>></summary>
-
 सर्वमुत्तरैरभिमृशेत् ।
-
-</details>
 
 </div>
 
@@ -558,7 +522,6 @@ title = "२४ मासिश्राद्धप्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/24_mAsishrAddhaprakaraNam/21_07_kLLiptAnvA_pratipUruSham.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 7. Or the (single) prepared (portions of food destined) for the single Brāhmaṇas.
@@ -576,16 +539,12 @@ title = "२४ मासिश्राद्धप्रकरणम्"
 अथवा–पित्राद्यर्थेभ्यो ब्राह्मणेभ्यः प्रतिपूरुषं भोजनपात्रेषु **कॢप्तान्** प्रकसल्पितान् भोज्यपदार्थान् एकैकेन मन्त्रेण यथालिङ्गमभिमृशेत् ।
 अत्रापि पित्रादेरेकैकस्य ब्राह्मणबहुत्वे युगपदभिमर्शनासम्भवे च तत्तन्मन्त्रावृत्तिः ॥७॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/24_mAsishrAddhaprakaraNam/21_07_kLLiptAnvA_pratipUruSham.md">
 
-<details><summary><h4></h4>></summary>
-
 कॢप्तान्वा प्रतिपूरुषम् ।
-</details>
 
 </div>
 
@@ -613,7 +572,6 @@ title = "२४ मासिश्राद्धप्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/24_mAsishrAddhaprakaraNam/21_08_uttareNa_yajuShopasparshayitvA.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 8. Having caused them with the next (formula, II, 20, 1) to touch (the food, he gives it to them to eat).
@@ -653,16 +611,12 @@ title = "२४ मासिश्राद्धप्रकरणम्"
 अत्र च मन्त्रे यद्यपि ब्राह्मणानामिति बहुवचनं तथापि युगपत् स्पर्शयितुमशक्यत्वात् प्रतिपूरुषं मन्त्रावृत्तिः, यथा— "वायवस्स्थ" (तै. सं.१-१-१.) इति मन्त्रः प्रतिवत्सम् ।
 एवंविधेषु बहुवचनं प्रयोगसाधुत्वार्थं, एकप्रयोगवचनप्रयोज्यानेकव्यक्त्यभिप्रायं वा ॥८॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/24_mAsishrAddhaprakaraNam/21_08_uttareNa_yajuShopasparshayitvA.md">
 
-<details><summary><h4></h4>></summary>
-
 उत्तरेण यजुषोपस्पर्शयित्वा।
-</details>
 
 </div>
 
@@ -745,7 +699,6 @@ title = "२४ मासिश्राद्धप्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/24_mAsishrAddhaprakaraNam/21_09_bhuktavato-nuvrajya.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 9. When they have eaten (and gone away), he goes after them, circumambulates them, turning his right side towards them, spreads out southward-pointed Darbha grass in two different layers, pours water on it with the next (formulas, II, 20, 2-7), distributes the Piṇḍas, ending in the south, with the next (formulas, II, 20, 8-13), pours out water as before with the next (formulas, 14-19), worships (the ancestors) with the next (formulas, II, 20, 20-23), sprinkles with the next (verse, 24) water three times from right to left round (the Piṇḍas) with a water-pot, besprinkles the vessels, which are turned upside down, repeating the next Yajus (25) at least three times without taking breath, sets up the vessels two by two, cuts off (Avadānas) from all (portions of food), and eats of the remains at least one morsel with the next Yajus (26).
@@ -1179,16 +1132,11 @@ title = "२४ मासिश्राद्धप्रकरणम्"
 
 </div>
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/24_mAsishrAddhaprakaraNam/21_09_bhuktavato-nuvrajya.md">
 
-<details><summary><h4></h4>></summary>
-
 भुक्तवतोऽनुव्रज्य प्रदक्षिणीकृत्य द्वैधं दक्षिणाग्रान् दर्भान् सँस्तीर्य तेषूत्तरैरपो दत्त्वोत्तरैर्दक्षिणापवर्गान् पिण्डान्दत्त्वा पूर्ववदुत्तरैरपो दत्त्वोत्तरैरुपस्थायोत्तरयोदपात्रेण त्रिः प्रसव्यं परिषिच्य न्युब्ज्य पात्राण्युत्तरं यजुरनवानं त्र्यवरार्ध्यमावर्तयित्वा प्रोक्ष्यपात्राणि द्वन्द्वमभ्युदाहृत्य सर्वतस्समवदायोत्तरेण यजुषा शेषस्य ग्रासवरार्ध्यं प्राश्नीयात् ।
-
-</details>
 
 </div>

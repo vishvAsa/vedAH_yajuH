@@ -1,6 +1,5 @@
 +++
 title = "०४ विवाहप्रकरणम्"
-
 +++
 
 
@@ -14,7 +13,6 @@ title = "०४ विवाहप्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/04_01_suhRdassamavetAn_mantravato.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 1. Let him send out as his wooers friends who have assembled, who are versed in the Mantras.
@@ -43,17 +41,12 @@ title = "०४ विवाहप्रकरणम्"
 वरः **प्रहिणुयात्** प्रेषयेत् ।
 एते युग्मा ब्राह्मणाश्चेति केचित् ॥१॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/04_01_suhRdassamavetAn_mantravato.md">
 
-<details><summary><h4></h4>></summary>
-
 सुहृदस्समवेतान् मन्त्रवतो वरान् प्रहिणुयात् ।
-
-</details>
 
 </div>
 
@@ -61,7 +54,7 @@ title = "०४ विवाहप्रकरणम्"
 
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/04_02_tAnAdito_dvAbhyAmabhimantrayeta.md">
 
-तानादितो द्वाभ्यामभिमन्त्रयेत २ +++(कृतप्राणायामोऽवरान् प्रेषयिष्येऽइति सङ्कल्प्य, "प्रसुग्मन्ते"ति द्वाभ्यां वरानभिमन्त्र्य, "यूयममुष्मात्कुलात्मह्यं कन्यां वृणीध्वम्" इति प्रेषयेत् । ततस्ते दुहितृमतो गृहं गत्वा, कन्यां दत्तसगोत्रत्वादिदोषरहितां बन्ध्वादिगुणसम्पन्नां च यत्नतोऽवधार्य, दुहितृमन्तं पित्रीदिकं "गौतमगोत्राय विष्णुशर्मणे वराय भवदीयां कन्यां प्रजासहत्वकर्मभ्यो वृणीमहे"इति ब्रूयुः । ततस्स पित्रादिर् "दास्यामी"ति प्रतिब्रूयात् । ततस्ते प्रत्येत्य, "सिद्धार्ता वय"मिति वरायावेदयेयुः । एतच्च वरप्रेषणाद्यासुरार्षयोरेव, नान्येषु अर्थलोपात् ।)+++
+तानादितो द्वाभ्यामभिमन्त्रयेत २ +++("कृतप्राणायामोऽवरान् प्रेषयिष्ये" इति सङ्कल्प्य, "प्रसुग्मन्ते"ति द्वाभ्यां वरानभिमन्त्र्य, "यूयममुष्मात्कुलात्मह्यं कन्यां वृणीध्वम्" इति प्रेषयेत् । ततस्ते दुहितृमतो गृहं गत्वा, कन्यां दत्तसगोत्रत्वादिदोषरहितां बन्ध्वादिगुणसम्पन्नां च यत्नतोऽवधार्य, दुहितृमन्तं पित्रीदिकं "गौतमगोत्राय विष्णुशर्मणे वराय भवदीयां कन्यां प्रजासहत्वकर्मभ्यो वृणीमहे"इति ब्रूयुः । ततस्स पित्रादिर् "दास्यामी"ति प्रतिब्रूयात् । ततस्ते प्रत्येत्य, "सिद्धार्ता वय"मिति वरायावेदयेयुः । एतच्च वरप्रेषणाद्यासुरार्षयोरेव, नान्येषु अर्थलोपात् ।)+++
 
 +++(हे सुहृदः)+++  
 
@@ -89,7 +82,6 @@ title = "०४ विवाहप्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/04_02_tAnAdito_dvAbhyAmabhimantrayeta.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 2. He should recite over them the first two verses (Mantrap. I, 1, 1. 2).
@@ -126,17 +118,12 @@ title = "०४ विवाहप्रकरणम्"
 ततस्तां वरः प्रतिगृह्य विवाहस्थाने "यत्र क्वचाग्निम्" (आप. ध.२-१-१३.) इत्यादिविधिनाग्निं प्रतिष्ठाप्य, तत्रैव यस्यां शालायां कन्याऽऽस्ते तां गत्वा मधुपर्कं प्रतिगृह्णाति यथार्हं यथाविधि ।
 एवमेव वरापचितोऽपि ॥२॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/04_02_tAnAdito_dvAbhyAmabhimantrayeta.md">
 
-<details><summary><h4></h4>></summary>
-
 तानादितो द्वाभ्यामभिमन्त्रयेत ।
-
-</details>
 
 </div>
 
@@ -159,7 +146,6 @@ title = "०४ विवाहप्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/04_03_svayan_dRShTvA.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 3. When he himself has seen (the bride), let him murmur the third (verse; M. I, 1, 3).
@@ -184,25 +170,29 @@ title = "०४ विवाहप्रकरणम्"
 
 <details><summary>सुदर्शनः</summary>
 
-वरः **स्वयं** कन्यां दृष्ट्वा "अभ्रातृघ्नीम्" इति **तृतीयां** ऋचं **जपेत्** ।
-दृष्ट्वैवचक्षुषी उपसंहरति ।
-जपश्च सर्वत्र चातुस्स्वर्येण ; न तु करणमन्त्रादिवदेकश्रुत्या ।
+वरः **स्वयं** कन्यां दृष्ट्वा  
+"अभ्रातृघ्नीम्" इति **तृतीयां** ऋचं **जपेत्** ।
+दृष्ट्वैव चक्षुषी उपसंहरति ।
+जपश्च सर्वत्र चातुस्स्वर्येण ;  
+न तु करणमन्त्रादिवदेकश्रुत्या ।
 "एकश्रुति दूरात्सम्बुद्धौ" (पा.सू.१-२-३३.) "यज्ञकर्मण्यजपन्यूखसामसु" (पा.सू.१-२-३४.) इति वचनात् ।
-अत्र च स्वयमिति विशेषणं वरयितॄणां प्रकृतानामयं जपो मा भूदिति ।
-केचित्— स्वयं वधूमेव दृष्ट्वा जपेत् ; न तु वरानिति ।
-स्वयं दृष्ट्वेत्यादि च सर्वविवाहानामविकृतम् ॥३॥
-</details>
+
+अत्र च **स्वयम्** इति विशेषणं  
+वरयितॄणां प्रकृतानाम् अयं जपो मा भूद् इति ।
+केचित्— 
+
+> स्वयं वधूमेव दृष्ट्वा जपेत् ;  
+न तु वरान् 
+
+इति ।
+स्वयं दृष्ट्वेत्यादि च सर्वविवाहानाम् अविकृतम् ॥३॥
 </details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/04_03_svayan_dRShTvA.md">
 
-<details><summary><h4></h4>></summary>
-
 स्वयं दृष्ट्वा तृतीयां जपेत्।
-
-</details>
 
 </div>
 
@@ -225,7 +215,6 @@ title = "०४ विवाहप्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/04_04_chaturthyA_samIxeta.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 4. With the fourth (M. I, 1, 4) let him behold her.
@@ -244,17 +233,12 @@ title = "०४ विवाहप्रकरणम्"
 केचित्–समीक्षेत अवयवशो निरीक्षेतेति ।
 अत्र वरो वधूश्च दर्भेष्वासीनौ दर्भान् धारयमाणौ कृतप्राणायामौ सङ्कल्पयेते –आवाभ्यां कर्माणि कर्तव्यानि, प्रजाश्चोत्पादयितव्याः–इति ॥४॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/04_04_chaturthyA_samIxeta.md">
 
-<details><summary><h4></h4>></summary>
-
 चतुर्थ्या समीक्षेत ।
-
-</details>
 
 </div>
 
@@ -275,7 +259,6 @@ title = "०४ विवाहप्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/04_05_anguShThenopamadhyamayA_chAngulyA.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 5. Let him seize with his thumb and fourth finger a Darbha blade, and let him wipe (therewith) the interstice between her eye-brows with the next Yajus (M. I, 1, 5), and let him throw it away towards the west.
@@ -299,17 +282,12 @@ title = "०४ विवाहप्रकरणम्"
 शेषं व्यक्तम् ।
 दर्भं निरस्याप उपस्पृशेत् ॥५॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/04_05_anguShThenopamadhyamayA_chAngulyA.md">
 
-<details><summary><h4></h4>></summary>
-
 अङ्गुष्ठेनोपमध्यमया चाङ्गुल्या दर्भ ँ संगृह्योत्तरेण यजुषा तस्या भ्रुवोरन्तरँ सम्मृज्य प्रतीचीनं निरस्येत्।
-
-</details>
 
 </div>
 
@@ -333,7 +311,6 @@ title = "०४ विवाहप्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/04_06_prApte_nimitta.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 6. If an omen occurs (such as the bride's or her relations’ weeping), let him murmur the next (verse; M. I, 1, 6).
@@ -350,17 +327,12 @@ title = "०४ विवाहप्रकरणम्"
 
 जीवाँ रुदन्ती"ति मन्त्रलिङ्गानुरूपे निमित्ते प्राप्ते मात्रादिभिः कन्यकया वा अन्योन्यवियोगचिन्तया रोदने कृते इमामृचं जपेत् ॥६॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/04_06_prApte_nimitta.md">
 
-<details><summary><h4></h4>></summary>
-
 प्राप्ते निमित्त उत्तरां जपेत् ।
-
-</details>
 
 </div>
 
@@ -383,7 +355,6 @@ title = "०४ विवाहप्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/04_07_yugmAn_samavetAn.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 7. With the next (verse; M. I, 1, 7) let him send an even number of persons who have assembled there, and who are versed in the Mantras, to fetch water.
@@ -412,17 +383,12 @@ title = "०४ विवाहप्रकरणम्"
 एते च ब्राह्मणा एव, "आस्यै ब्राह्मणा" इति मन्त्रलिङ्गात् ।
 ते च ब्राह्मणा यास्वप्सु पुरुषाः स्नानादिषु पूर्वं न मृताः ताभ्यस्तृणावकाद्यपनीयाप आनन्यन्ति ; "अवीरघ्नीः" इति मन्त्रलिङ्गात् ॥७॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/04_07_yugmAn_samavetAn.md">
 
-<details><summary><h4></h4>></summary>
-
 युग्मान् समवेतान् मन्त्रवत उत्तरयाऽद्भ्यः प्रहिणुयात् ।
-
-</details>
 
 </div>
 
@@ -444,10 +410,9 @@ title = "०४ विवाहप्रकरणम्"
 +++(तस्मिन्निण्वे दक्षिणं युगच्छिद्रं प्रतिष्ठापयति )+++  
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01b/09_khe-nasaH_khe.md">
 
-खे+++(=छिन्द्रावकाशे)+++ ऽनसः॒+++(=शकटस्य)+++ खे रथः॒+++(थस्य)+++ खे युग॑स्य +++(अपो निस्सार्य प्रसन्न)+++ शचीपते ।  
-अ॒पा॒लाम् इ॑न्द्र॒ त्रिः पू॒त्व्य्॑ अकर॒त् सूर्य॑वर्चसम् ।+++(र५)+++  
-
-(अत्रेतिहासमाचक्षते - अपाला नाम काचित् कन्या श्वित्रिणी +++(=श्वेतकुष्टवती)+++ । तां न कश्चिदुपयेमे । तस्याश्च मनसि कामः सदा बभूव, कथमहं इन्द्रं यजे इति । सा कदाचित् स्नानार्थं नद्याम् अवतीर्णा स्रोतसा ह्रियमाणा, तम् एव कामं मनसि दधाना, स्रोतसा ऽपनीतं सोमम् अपश्यत् । तं दन्तैः पिष्ट्वा तद्रसं इन्द्राय उपाहरत् । तम् इन्द्रः पीत्वा रथस्यानसो+++(=शकटस्य)+++ युगस्येति त्रयाणां छिद्रेषु अपो निस्सार्य, ताभिः तां त्रिः पूर्त्वा सूर्यवर्चसम् अकरोत् । तदेतत् “कन्या वारवायती” (ऋग्वेदे) इत्यस्मिन् वर्गे द्रष्टव्यम् । रथ इति षष्ठ्यर्थे प्रथमा । रथादीनां खेषु छिद्रेषु, अपो निस्सार्य त्रिः पूर्त्वी । छान्दसो रेफोपजनः । पूत्वा शोधयित्वा हे शचीपते हे इन्द्र । त्वं अपालां नाम कन्यां सूर्यवर्चसं अकरत् अकरोः । पुरुषव्यत्ययश्छान्दसः । तथैव एनामपि कुर्वित्यर्थः ॥ )  
+खे+++(=छिन्द्रावकाशे)+++ ऽनसः॒+++(=शकटस्य)+++, खे रथः॒+++(थस्य)+++, खे युग॑स्य +++(शोधक्य अपो निस्सार्य प्रसन्न)+++ शचीपते ।  
++++(श्वित्रिणीं नद्यां मज्जतीं सोमं दन्तपिष्टम् अर्पयन्तीं)+++  
+अ॒पा॒लाम् इ॑न्द्र॒ त्रिः पू॒र्त्व्य्॑+++(=पूत्वा)+++ अकर॒त् सूर्य॑वर्चसम् ।+++(र५)+++  
 
 </div>
 
@@ -548,7 +513,6 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/04_08_uttareNa_yajuShA.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 8. [^1]  With the next Yajus (M. I, 1, 8) he places a round piece of Darbha net-work on her head; on that, with the next (verse; M. I, 1, 9) he places a right yoke-hole; on this hole he lays with the next (verse; M. I, 1, 10), a piece of gold, and washes her with the next five verses (M. I, 2, 1-5), (so that the water runs over that gold and through the yoke-hole); with the next (verse; M. I, 2, 6) he causes her to dress in a fresh garment, and with the next (M. I, 2, 7) he girds her with a rope.
@@ -580,17 +544,12 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 कृत्स्नविधानम् चेदम् ।
 केचित्–ऐष्टिकसन्नहनविधिप्रदर्शनार्थमिति ॥८॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/04_08_uttareNa_yajuShA.md">
 
-<details><summary><h4></h4>></summary>
-
 उत्तरेण यजुषा तस्याश्शिरसि दर्भेण्वं निधाय तस्मिन्नुत्तरया दक्षिणं युगच्छिद्रं प्रतिष्ठाप्य छिद्रे सुवर्णमुत्तरयान्तर्धायोत्तराभिः पञ्चभिस्स्नापयित्वोत्तरयाऽहतेन वाससाऽऽच्छाद्योत्तरया योक्त्रेण सन्नह्यति ।
-
-</details>
 
 </div>
 
@@ -615,7 +574,6 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/04_09_athainAmuttarayA_daxiNe.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 9. Then he takes hold of her with the next (verse; M. I, 2, 8) by her right hand, leads her to the fire, spreads a mat, west of the fire, so that the points of the blades in it are directed towards the north, and on this mat they both sit down, the bridegroom to the north.
@@ -638,17 +596,12 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 **अग्निमभ्यानीय** अग्न्यभिमुखमानयति; नयत्विति मन्त्रलिङ्गात् ।
 व्यवहितेऽपि नयने विनियोगात् **अपरेणाग्निम्** अग्नेरदूरेण पश्चाद् **उदगग्रं कटमास्तीर्य, तस्मिन्** कटे युगपद् **उपविशतः,** यथोत्तरो **वरो** दक्षिणा वधूः ॥९॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/04_09_athainAmuttarayA_daxiNe.md">
 
-<details><summary><h4></h4>></summary>
-
 अथैनामुत्तरया दक्षिणे हस्ते गृहीत्वाऽग्निमभ्यानीयापरेणाग्निमुदगग्रं कटमास्तीर्य तस्मिन्नुपविशत उत्तरो वरः।
-
-</details>
 
 </div>
 
@@ -685,7 +638,6 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/04_10_agner.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 10. After the ceremonies have been performed from the putting of wood on the fire down to the Ājyabhāga oblations, he recites over her the first two (verses of the third Anuvāka).
@@ -711,17 +663,12 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 केचित्—कल्पान्तरसिद्धोपोत्थानानन्तर्यप्रदर्शनार्थमिति ॥
 **एनां** वधूं वरः**आदित** अनुवाकस्य "सोमः प्रथमः" इत्यस्य "सोमः प्रथमः" इति **द्वाभ्यां** ऋग्भ्यामभिमन्त्रयेत ॥१०॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/04_10_agner.md">
 
-<details><summary><h4></h4>></summary>
-
 अग्नेर् उपसमाधानाद्य्-आज्यभागान्ते ऽथैनाम् आदितो द्वाभ्याम् अभिमन्त्रयेत ।
-
-</details>
 
 </div>
 
@@ -735,7 +682,6 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/04_11_athAsyai_daxiNena.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 11. Then he should take with his right hand, palm down, her right hand which she holds palm up.
@@ -765,17 +711,12 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 इवेत्यवधारकः ।
 उपर्यङ्गुष्ठमेव गृह्णीयात् ॥११॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/04_11_athAsyai_daxiNena.md">
 
-<details><summary><h4></h4>></summary>
-
 अथास्यै दक्षिणेन नीचा हस्तेन दक्षिणमुत्तानँ हस्तं गृह्णीयात् ।
-
-</details>
 
 </div>
 
@@ -789,7 +730,6 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/04_12_yadi_kAmayeta.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 12. If he wishes that only daughters may be born to him, he should seize only the fingers (without the thumb);
@@ -812,17 +752,12 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 अङ्गुलीरेव नाङ्गुष्ठम् ।
 शेषं नित्यवत् ॥१२॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/04_12_yadi_kAmayeta.md">
 
-<details><summary><h4></h4>></summary>
-
 यदि कामयेत स्त्रीरेव जनयेयमित्यङ्गुलीरेव गृह्णीयात् ।
-
-</details>
 
 </div>
 
@@ -836,7 +771,6 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/04_13_yadi_kAmayeta.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 13. If he wishes that only sons may be born to him, the thumb.
@@ -853,17 +787,12 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 शेषं नित्यवदेव ।
 अतो वध्वङ्गुष्ठमप्युत्तानम् ॥१३॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/04_13_yadi_kAmayeta.md">
 
-<details><summary><h4></h4>></summary>
-
 यदि कामयेत पुंस एव जनयेयमित्यङ्गुष्ठमेव सोऽभीवाङ्गुष्ठमभीव लोमानि गृह्णाति ।
-
-</details>
 
 </div>
 
@@ -916,7 +845,6 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/04_14_gRbhNAmi_ta.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 (14. He takes (her hand) so as just to touch her thumb and the little hairs (on her hand),)  
@@ -943,17 +871,12 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 गृह्णातीति सम्बन्धः ।
 सर्वासामन्त एव ॥१४॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/04_14_gRbhNAmi_ta.md">
 
-<details><summary><h4></h4>></summary>
-
 गृभ्णामि त इत्येताभिश्चतसृभिः ।
-
-</details>
 
 </div>
 
@@ -982,7 +905,6 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/04_15_athainAmutteraNAgnin_daxiNena.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 16. He then makes her step forward with her right foot, to the north of the fire, in an easterly or northerly direction, with (the formula), 'One step for sap' (M. I, 3, 7).
@@ -1009,17 +931,12 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 
 अथाग्नेरदूरेणोत्तरत आरभ्यैनां **दक्षिणेन पदा** पादेन **प्राचीमुदीचीं वा दिशमभि** प्रागायतान्युदगायतानि वा सप्त पदानि प्रक्रमयति; "एकमिषे" इत्यादिभिस्सप्तभिः "विष्णुस्त्वान्वेतु" इत्यनुषक्तैः प्रतिमन्त्रम् ॥१५॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/04_15_athainAmutteraNAgnin_daxiNena.md">
 
-<details><summary><h4></h4>></summary>
-
 अथैनामुत्तेरणाग्निं दक्षिणेन पदा प्राचीमुदीचीं वा दिशमभि प्रक्रमय"त्येकमिष" इति ।
-
-</details>
 
 </div>
 
@@ -1058,7 +975,6 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/04_16_sakheti_saptame.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 17. At her seventh step he murmurs, 'Be a friend' (M. I, 3, 14).
@@ -1078,17 +994,12 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 
 इति श्रीसुदर्शनाचार्यकृते गृह्यतात्पर्यदर्शने चतुर्थः खण्डः।
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/04_16_sakheti_saptame.md">
 
-<details><summary><h4></h4>></summary>
-
 सखेति सप्तमे पदे जपति।
-
-</details>
 
 </div>
 
@@ -1242,7 +1153,6 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/05_01_prAgghomAt_pradaxiNamagnim.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 1. Having before the sacrifice gone round the fire, so that their right sides are turned towards it,
@@ -1296,17 +1206,12 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 आधानपवमानेष्ट्यादिष्वयज्ञेषु "यज्ञोपवीती प्रदक्षिणम्" (आप.प.२-१५.) इत्यादयो न प्राप्नुयुः ।
 होमाधारस्तूपसमाहितोऽग्निस्स्थित एव ॥१॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/05_01_prAgghomAt_pradaxiNamagnim.md">
 
-<details><summary><h4></h4>></summary>
-
 प्राग्घोमात् प्रदक्षिणमग्निं कृत्वा यथास्थानमुपविश्यान्वारब्धायामुत्तरा आहुतीर्जुहोति "सोमाय जनिविदे स्वाहे"त्येतैः प्रतिमन्त्रम् ।
-
-</details>
 
 </div>
 
@@ -1329,7 +1234,6 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/05_02_athainAmuttareNAgnin_daxiNena.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 3. [^2]  He then causes her, to the north of the fire, to tread with her right foot on a stone, with (the verse), 'Tread' (M. I, 5, 1).
@@ -1347,17 +1251,12 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 
 व्यक्तार्थम् ॥२॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/05_02_athainAmuttareNAgnin_daxiNena.md">
 
-<details><summary><h4></h4>></summary>
-
 अथैनामुत्तरेणाग्निं दक्षिणेन पदाऽश्मानमास्थापयत्यातिष्ठेति।
-
-</details>
 
 </div>
 
@@ -1371,7 +1270,6 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/05_03_athAsyA_anjalAvupastIrya.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 4. Having 'spread under' Ājya into her joined hands, he pours roasted grain twice (into them), and sprinkles Ājya over it.
@@ -1386,16 +1284,12 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 
 +++(सम्पादकटिप्पनी-  सूत्रमिदम् अग्रिमे व्याख्यातम्।)+++
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/05_03_athAsyA_anjalAvupastIrya.md">
 
-<details><summary><h4></h4>></summary>
-
 अथास्या अञ्जलावुपस्तीर्य द्विर्लाजानोप्याभिघारयति।
-</details>
 
 </div>
 
@@ -1409,7 +1303,6 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/05_04_tasyAssodaryo.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 5. Some say that an uterine relation of hers pours the grain (into her hands).
@@ -1436,17 +1329,12 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 लाजहोमाश्चापूर्वाः, "अस्या अञ्जलावुपस्तीर्य" इत्यादि कृत्स्नविधानात् पार्वणातिदेशाभावात् पाकयज्ञधर्माग्निमुखप्रत्यभिघारणस्विष्टकृल्लेपाञ्जनानामप्राप्तिरेव ॥
 केचित्–कृत्स्नविधानादेव साधारणतन्त्रस्य प्राप्त्यभावात् लाजकिंशुकहोमेषु तन्त्रमध्यस्थं येन जुहोतीत्याद्यञ्जलिसंस्कारमपि नेच्छन्ति ॥४॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/05_04_tasyAssodaryo.md">
 
-<details><summary><h4></h4>></summary>
-
 तस्यास्सोदर्यो लाजानावपतीत्येके।
-
-</details>
 
 </div>
 
@@ -1469,7 +1357,6 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/05_05_juhotIyan_nArIti.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 6. [^3]  He (?) sacrifices (that grain) with (the verse), 'This wife' (M. I, 5, 2).
@@ -1502,17 +1389,12 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 न्यायतोऽभ्यन्तरीभावस्यानियमे विपर्यये वा प्राप्ते, उपवेशनानुवादेन यथास्थानमुत्तर एव वर इत्येतन्नियमार्थ एवायं विधिः। तेन लाजहोमा अप्यासीनेनैव होतव्याः ।
 तस्य"आसीनो दर्वीहोमान् जुहोति" (आप.प.३-१०.) इति सर्वदर्वीहोमानामविशेषेणास्माकं चोदितत्वात्, स्वसूत्रोक्तविषये बहुतराणामपि गृह्यान्तराणामनुपसंहार्यत्वाच्च ॥५॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/05_05_juhotIyan_nArIti.md">
 
-<details><summary><h4></h4>></summary>
-
 जुहोतीयं नारीति।
-
-</details>
 
 </div>
 
@@ -1525,7 +1407,7 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/03_tubhyamagre_paryavahantsUryAm.md">
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/38_tubhyamagre_paryavahantsUryAM.md">
 
-+++(सूर्या नाम सवितुर्दुहिता विवाहस्य अधिष्ठात्री देवता -  [सूर्यासूक्ते](../../AdityaH/Rk/raibhy_AsId_anudeyI/) दृश्या।)+++  
++++(सूर्या नाम सवितुर्दुहिता विवाहस्य अधिष्ठात्री देवता -  [सूर्यासूक्ते](../../../../../../../../../../vedAH_Rk/static/shAkalam/saMhitA/vishvAsa-prastutiH/10/AdityaH/Rk/raibhy_AsId_anudeyI) दृश्या।)+++  
 
 तु᳓भ्यम् +++(अग्नये)+++ अ᳓ग्रे +++(गन्धर्वाः)+++  प᳓र्यवहन्त्  
 सूर्यां᳓ वहतु᳓ना सह᳓ ।  
@@ -1560,7 +1442,6 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/05_06_uttarAbhistisRbhiH.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 7. [^4]  Having gone round the fire, with the right side turned towards it, with the next three (verses; M. I, 5, 3-5) he makes her tread on the stone as above (M. I, 5, 6).
@@ -1581,16 +1462,12 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 उत्तराभिः"तुभ्यमग्रे पर्यवहन्" इत्यादिभिस्तिसृभिः ।
 यथा पुरस्ताता तथा आतिष्ठेममित्यनया ॥६॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/05_06_uttarAbhistisRbhiH.md">
 
-<details><summary><h4></h4>></summary>
-
 उत्तराभिस्तिसृभिः प्रदक्षिणमग्निं कृत्वाऽश्मानमास्थापयति यथा पुरस्तात्।
-</details>
 
 </div>
 
@@ -1613,7 +1490,6 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/05_07_homashchottarayA_yathA.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 8. And the oblation (is performed) with the next (verse; M. I, 5, 7).
@@ -1629,16 +1505,12 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 
 लाजहोमश्चोत्तरया "अर्यमणं नु देवम्" इत्येतया ॥७॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/05_07_homashchottarayA_yathA.md">
 
-<details><summary><h4></h4>></summary>
-
 होमश्चोत्तरया।
-</details>
 
 </div>
 
@@ -1652,7 +1524,6 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/05_08_punaH_parikramaNam.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 9. (Then follow) again the circumambulation (M. I, 5, 8-10),
@@ -1667,16 +1538,12 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 
 +++(सम्पादकटिप्पनी-  सूत्रमिदम् अग्रिमे व्याख्यातम्।)+++
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/05_08_punaH_parikramaNam.md">
 
-<details><summary><h4></h4>></summary>
-
 पुनः परिक्रमणम्।
-</details>
 
 </div>
 
@@ -1689,7 +1556,7 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/08-11_tubhyamagre_paryavahanpunaH.md">
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/38_tubhyamagre_paryavahantsUryAM.md">
 
-+++(सूर्या नाम सवितुर्दुहिता विवाहस्य अधिष्ठात्री देवता -  [सूर्यासूक्ते](../../AdityaH/Rk/raibhy_AsId_anudeyI/) दृश्या।)+++  
++++(सूर्या नाम सवितुर्दुहिता विवाहस्य अधिष्ठात्री देवता -  [सूर्यासूक्ते](../../../../../../../../../../vedAH_Rk/static/shAkalam/saMhitA/vishvAsa-prastutiH/10/AdityaH/Rk/raibhy_AsId_anudeyI) दृश्या।)+++  
 
 तु᳓भ्यम् +++(अग्नये)+++ अ᳓ग्रे +++(गन्धर्वाः)+++  प᳓र्यवहन्त्  
 सूर्यां᳓ वहतु᳓ना सह᳓ ।  
@@ -1720,7 +1587,6 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/05_09_AsthApanam_punarapi.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 (again) the injunction to tread on the stone (I, 5, 11),
@@ -1738,16 +1604,12 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 अग्निप्रदक्षिणम् ॥८॥
 आत्मनः ॥९॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/05_09_AsthApanam_punarapi.md">
 
-<details><summary><h4></h4>></summary>
-
 आस्थापनम्।
-</details>
 
 </div>
 
@@ -1772,7 +1634,6 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/05_10_homashchottarayA_uttarayA.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 and (again) the oblation with the next (verse; I, 5, 12);
@@ -1787,16 +1648,12 @@ and (again) the oblation with the next (verse; I, 5, 12);
 
 "त्वमर्यमा भवसि" इत्येतया ॥१०॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/05_10_homashchottarayA_uttarayA.md">
 
-<details><summary><h4></h4>></summary>
-
 होमश्चोत्तरया।
-</details>
 
 </div>
 
@@ -1810,7 +1667,6 @@ and (again) the oblation with the next (verse; I, 5, 12);
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/05_11_punaH_parikramaNam.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 10. (Then) the circumambulation again (I, 5, 13-15).
@@ -1826,17 +1682,12 @@ and (again) the oblation with the next (verse; I, 5, 12);
 "होमश्चोत्तरया" इत्यादिषु पञ्चसु सूत्रेषु "यथा पुरस्तात्" इत्यनुषङ्गः ।
 कार्यः कार्यमिति च यथालिङ्गं वाक्यशेषः ॥११॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/05_11_punaH_parikramaNam.md">
 
-<details><summary><h4></h4>></summary>
-
 पुनः परिक्रमणम्।
-
-</details>
 
 </div>
 
@@ -1850,7 +1701,6 @@ and (again) the oblation with the next (verse; I, 5, 12);
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/05_12_jayAdi_pratipadyate.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 11. [^5]  He enters upon the performance of the Jaya and following oblations.
@@ -1869,17 +1719,12 @@ and (again) the oblation with the next (verse; I, 5, 12);
 
 एतदुक्ताभिप्रायम्– यत्र वचनं तत्रैव जयादयो, नान्यत्र; अन्वारम्भश्चैषु नास्तीति ॥१२॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/05_12_jayAdi_pratipadyate.md">
 
-<details><summary><h4></h4>></summary>
-
 जयादि प्रतिपद्यते।
-
-</details>
 
 </div>
 
@@ -1913,7 +1758,6 @@ and (again) the oblation with the next (verse; I, 5, 12);
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/05_13_pariShechanAnta~N.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 12. [^6]  Having performed (the rites) down to the sprinkling (of water) round (the fire), and having untied the rope with the next two verses (I, 5, 16. 17), he should then make her depart (from her father's house in a vehicle), or should have her taken away.
@@ -1955,16 +1799,12 @@ and (again) the oblation with the next (verse; I, 5, 12);
 तथैवान्यत्राप्यश्वमेधे "दक्षिणापप्लाव्याहं च त्वं च वृत्रहन्निति ब्रह्म यजमानस्य हस्तं गृह्णाति" (आप. श्रौ.) इति ।
 तथैवात्र "स्मृतं च म इत्येतद्वाचयित्वा गुरवे वरं दत्वोदायुषेत्युत्थाप्य" (आप. गृ.११-१७.) इति ॥१३॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/05_13_pariShechanAnta~N.md">
 
-<details><summary><h4></h4>></summary>
-
 परिषेचनान्तं कृत्वोत्तराभ्यां योक्त्रं विमुच्य तां ततः प्र वा वाहयेत् प्र वा हारयेत्।
-</details>
 
 </div>
 
@@ -1984,7 +1824,6 @@ and (again) the oblation with the next (verse; I, 5, 12);
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/05_14_samopyaitamagnimanuharanti_etam.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 13. Having put that fire (with which the marriage rites have been performed, into a vessel), they carry it behind (the newly-married couple).
@@ -2008,17 +1847,12 @@ and (again) the oblation with the next (verse; I, 5, 12);
 अगृह्यमाणे त्व् एतम् इत्य्-अस्मिन् अ-दृष्टार्थं सर्वार्थस्य लौकिकाग्नेर् अनुहरणं स्यात् ।
 औपासनस्य च गृह्यान्तरेण प्रयाणे विहितं समारोपणं स्यात् ॥१४॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/05_14_samopyaitamagnimanuharanti_etam.md">
 
-<details><summary><h4></h4>></summary>
-
 समोप्यैतमग्निमनुहरन्ति।
-
-</details>
 
 </div>
 
@@ -2032,7 +1866,6 @@ and (again) the oblation with the next (verse; I, 5, 12);
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/05_15_nityaH.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 14. It should be kept constantly.
@@ -2047,16 +1880,12 @@ and (again) the oblation with the next (verse; I, 5, 12);
 
 +++(सम्पादकटिप्पनी - इदं सूत्रम् अग्रिमे व्याख्यातम्।)+++
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/05_15_nityaH.md">
 
-<details><summary><h4></h4>></summary>
-
 नित्यः।
-</details>
 
 </div>
 
@@ -2070,7 +1899,6 @@ and (again) the oblation with the next (verse; I, 5, 12);
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/05_16_dhAryaH_eSha.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 15. If it goes out, (a new fire) should be kindled by attrition,
@@ -2096,16 +1924,12 @@ and (again) the oblation with the next (verse; I, 5, 12);
 "सवर्णापूर्व-शास्त्र-विहितायां यथर्तु गच्छतः पुत्रास्, तेषां कर्मभिस् सम्बन्धः" "दायेनाव्यतिक्रमश् चोभयोः"  "पूर्ववत्याम् असंस्कृतायां वर्णान्तरे च मैथुने दोषः" (आप.ध.२-१३-१,२,३.) इत्य् असवर्ण-दार-सङ्ग्रहणं प्रतिषिध्य स्वयम् एवाह सूत्रकारः– "स त्रयाणां वर्णानाम्"(आप.प.१-२.) इति ।
 त्रयाणाम् इत्य् एतस्य पदस्यार्थो भाष्यकारेण व्याख्यातः "तिस्रो हि तस्य भार्यास् स्मृत्य्-अन्तर-वचनाद् अप्रतिषिद्धाः, तस्य कथं सह ताभिर् अधिकारस् स्याद् इत्य् एवमर्था त्रिसङ्ख्या" इति । एतत् सूत्र-भाष्याभ्याम् असवर्ण-दार-सङ्ग्रहस् स्मृत्यन्तर-विहितो न सर्वथैव निषिद्ध इति गम्यते । तच् चान्येष्व् अप्य् एवं-विधेषु विकल्पस्य ज्ञापकम् एव ॥१६॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/05_16_dhAryaH_eSha.md">
 
-<details><summary><h4></h4>></summary>
-
 धार्यः।
-</details>
 
 </div>
 
@@ -2119,7 +1943,6 @@ and (again) the oblation with the next (verse; I, 5, 12);
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/05_17_anugato_manthyaH.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 16. Or it should be fetched from the house of a Śrotriya.
@@ -2145,17 +1968,12 @@ and (again) the oblation with the next (verse; I, 5, 12);
 यद्य् अयम् अग्निर् **अनुगतः** निर्वाणस् स्यात्, तदा **मन्थ्यः** तेभ्य एवावक्षणेभ्यो+++(=प्राग्दग्धाङ्गारेभ्यः)+++ ऽधिमन्थितव्यः ।
 यदि तानि न स्युर् असमर्थानि वा, तदास्या अरणी संस्पृश्य मन्थितव्यः ॥१७॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/05_17_anugato_manthyaH.md">
 
-<details><summary><h4></h4>></summary>
-
 अनुगतो मन्थ्यः।
-
-</details>
 
 </div>
 
@@ -2169,7 +1987,6 @@ and (again) the oblation with the next (verse; I, 5, 12);
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/05_18_shrotriyAgArAdvAhAryaH.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 17. Besides, if (the fire) goes out, one of them, either the wife or the husband, should fast.
@@ -2192,17 +2009,12 @@ and (again) the oblation with the next (verse; I, 5, 12);
 नष्टेऽपहृते वाग्नाव् इयम् एवोत्पत्तिः ।
 **अनुगत** इत्य् अस्य नष्टापहृतयोः प्रदर्शनार्थत्वात् ॥१८॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/05_18_shrotriyAgArAdvAhAryaH.md">
 
-<details><summary><h4></h4>></summary>
-
 श्रोत्रियागाराद्वाहार्यः।
-
-</details>
 
 </div>
 
@@ -2216,7 +2028,6 @@ and (again) the oblation with the next (verse; I, 5, 12);
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/05_19_upavAsashchAnyatarasya_bhAryAyAH.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 18. Or he may sacrifice with the next (verse; M. I, 5, 18), and not fast.
@@ -2263,17 +2074,12 @@ and (again) the oblation with the next (verse; I, 5, 12);
 केचित् "उपवासश्चान्यतरस्य भार्यायाः पत्युर्वानुगते" इति सूत्रं छित्वा व्यवहितान्वयकल्पनया व्याचक्षते– अनुगतेऽग्नौ भार्यायाः पत्युश्चोपवासोऽन्यतरस्य वेति ।
 अत्र प्रकृतेऽपि पुनरनुगत इति ग्रहणमधिकयत्नमन्तरेणैवंविधानां प्रासङ्गिकार्थता न स्यात्, किन्तु परमप्रकृतार्थतैवेति ज्ञापयितुमिति ॥१९॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/05_19_upavAsashchAnyatarasya_bhAryAyAH.md">
 
-<details><summary><h4></h4>></summary>
-
 उपवासश्चान्यतरस्य भार्यायाः पत्युर्वा।
-
-</details>
 
 </div>
 
@@ -2287,8 +2093,8 @@ and (again) the oblation with the next (verse; I, 5, 12);
 
 अया᳓श्+++(=एतुम् योग्यः, गमनशीलो वा)+++ चाग्ने᳓ ऽस्य् अनभिशस्ती᳓श्च+++(=अनवद्यः)+++  
 सत्य᳓म् इ᳓त् त्व᳓म्+++(←स्वरः शोधितः)+++ अया᳓ असि ।  
-अय᳓सा+++(=प्रतिगन्त्रा←स्वरः शोधितः)+++ म᳓नसा धृतो᳓  
-अय᳓सा हव्य᳓म् ऊहिषे+++(=वहस्व)+++  
+अ᳓यसा+++(←अय् + असुँन्)+++ म᳓नसा धृतो᳓  
+अय᳓सा+++(← इण् + असुँन्)+++ हव्य᳓म् ऊहिषे+++(=वहस्व)+++  
 अया᳓ नो धेहि भेषज᳓म् ।।+++(५)+++
 
 </div>
@@ -2297,7 +2103,6 @@ and (again) the oblation with the next (verse; I, 5, 12);
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/05_20_anugate-pi_vottarayA.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 19. The next (verse; M. I, 6, 1) is for putting the chariot (on which the young couple is to depart), in position;
@@ -2323,17 +2128,12 @@ and (again) the oblation with the next (verse; I, 5, 12);
 अनुगत इति पुनर्-वचनान् नष्टापहृतयोर् नायं विकल्पः, किन्तूपवास एव ।
 अपि वेत्यनेनैव उपवासपक्षे व्यावृत्ते, नोपवसेद् इत्य् आरम्भाद् उपवास-मात्रेणैवायं विकल्पः - प्रायश्चित्तं त्वत्राप्य् अस्त्य् एव +++(5)+++॥२०॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/05_20_anugate-pi_vottarayA.md">
 
-<details><summary><h4></h4>></summary>
-
 अनुगतेऽपि वोत्तरया जुहुयान्नोपवसेत्।
-
-</details>
 
 </div>
 
@@ -2358,7 +2158,6 @@ and (again) the oblation with the next (verse; I, 5, 12);
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/05_21_uttarA_rathasyottambhanI.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 20. With the next two (verses; M. I, 6, 2. 3), he puts the two animals to the chariot;
@@ -2376,17 +2175,12 @@ and (again) the oblation with the next (verse; I, 5, 12);
 
 **उत्तरा** "सत्येनोत्तभिता" इत्येषा **रथस्योत्तम्भनी** उत्तम्भने करणमन्त्रः ॥२१॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/05_21_uttarA_rathasyottambhanI.md">
 
-<details><summary><h4></h4>></summary>
-
 उत्तरा रथस्योत्तम्भनी।
-
-</details>
 
 </div>
 
@@ -2420,7 +2214,6 @@ and (again) the oblation with the next (verse; I, 5, 12);
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/05_22_vAhAvuttarAbhyAM_yunakti.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 21. First the right one.
@@ -2446,17 +2239,12 @@ and (again) the oblation with the next (verse; I, 5, 12);
 नन्वेवं द्वितीयस्य मन्त्रस्यादृष्टार्थता स्यात्?
 सत्यम्– तथापि, द्वाभ्यां द्वाभ्यामेकैकमिति परमाप्तभाष्यकारवचनादेकैकवाहयोजने सहितमन्त्रद्वयाचारः कृत्स्नदेशकालकर्तृव्याप्त इत्यनुमीयते ॥ २२ ॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/05_22_vAhAvuttarAbhyAM_yunakti.md">
 
-<details><summary><h4></h4>></summary>
-
 वाहावुत्तराभ्यां युनक्ति दक्षिणमग्रे।
-
-</details>
 
 </div>
 
@@ -2504,7 +2292,6 @@ and (again) the oblation with the next (verse; I, 5, 12);
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/05_23_ArohatImuttarAbhirabhimantrayate_atha.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 22. When she mounts (the chariot), he recites over her the next (verses; M. I, 6, 4-7).
@@ -2529,16 +2316,12 @@ and (again) the oblation with the next (verse; I, 5, 12);
 रथमेवारोहन्तीं नाश्वादिम्;  सुचक्रिमिति लिङ्गविरोधात् ।
 "उदुत्तरम्" इति वा तिसृभिरश्वादिकमारोहन्तीमभि मन्त्रयते ॥२३॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/05_23_ArohatImuttarAbhirabhimantrayate_atha.md">
 
-<details><summary><h4></h4>></summary>
-
 आरोहतीमुत्तराभिरभिमन्त्रयते।
-</details>
 
 </div>
 
@@ -2561,7 +2344,6 @@ and (again) the oblation with the next (verse; I, 5, 12);
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/05_24_sUtre.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 23. With the next (verse; M. I, 6, 8), he spreads out two threads in the wheel-tracks (in which the chariot is to go), a dark-blue one in the right (track), a red one in the left.
@@ -2592,17 +2374,12 @@ and (again) the oblation with the next (verse; I, 5, 12);
 द्विवचनलिङ्गात् ।
 तयोश्च सूत्रयोर् **दक्षिणस्यां** वर्तन्यां **नीलं** व्यवस्तृणाति, **उत्तरस्यां** च **लोहितम्** ॥२४॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/05_24_sUtre.md">
 
-<details><summary><h4></h4>></summary>
-
 सूत्रे वर्त्मनोर्व्यवस्तृणात्युत्तरया नीलं दक्षिणस्यां लोहितमुत्तरस्याम् ।
-
-</details>
 
 </div>
 
@@ -2648,7 +2425,6 @@ ___________
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/05_25_te_uttarAbhirabhiyAti.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 24. With the next (verses; M. I, 6, 9-11), he walks on these (threads).
@@ -2668,17 +2444,12 @@ ___________
 
 "ये वध्वश्चन्द्रम्" इति तिसृभिर्व्यवस्तीर्णे सूत्रे **अभियाति** उपरिगच्छति ॥२५॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/05_25_te_uttarAbhirabhiyAti.md">
 
-<details><summary><h4></h4>></summary>
-
 ते उत्तराभिरभियाति।
-
-</details>
 
 </div>
 
@@ -2704,7 +2475,6 @@ ___________
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/05_26_tIrthasthANuchatuShpathavyatikrame.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 25. And when they pass by bathing-places, posts, or cross-roads, let him murmur the next (verse; M. I, 6, 12).
@@ -2744,17 +2514,12 @@ ___________
 तस्मात् सूपपादः कृत्स्नाया एव जपः ।
 एष एव न्यायो नदीनां धन्वनां च व्यतिक्रमे ॥२६॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/05_26_tIrthasthANuchatuShpathavyatikrame.md">
 
-<details><summary><h4></h4>></summary>
-
 तीर्थस्थाणुचतुष्पथव्यतिक्रमे चोत्तरां जपेत्।
-
-</details>
 
 </div>
 
@@ -2777,7 +2542,6 @@ ___________
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/06_01_nAvamuttarayA-numantrayate_atha.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 1. The next (verse; M. I, 6, 13), he recites over a boat (with which they are going to cross a river).
@@ -2796,17 +2560,12 @@ ___________
 यदि पथि नदी नावा तरितव्या स्यात्, तदा वरः "अयं नो मह्याः पारम्" इत्येतया नावमनुमन्त्रयते ।
 ततस्तामुभावग्निना सहारोहतः ॥१॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/06_01_nAvamuttarayA-numantrayate_atha.md">
 
-<details><summary><h4></h4>></summary>
-
 नावमुत्तरयाऽनुमन्त्रयते।
-
-</details>
 
 </div>
 
@@ -2820,7 +2579,6 @@ ___________
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/06_02_na_cha.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 2. And let the wife, when she is crossing, not see the crew.
@@ -2847,17 +2605,12 @@ ___________
 वधूर्न पश्येत् ।
 चकारात् वध्वास्तरणदर्शनप्रतिषेधश्च, वरस्य केवलं सह तरणमिति ज्ञापयति ॥२॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/06_02_na_cha.md">
 
-<details><summary><h4></h4>></summary>
-
 न च नाव्यांस्तरती वधूः पश्येत् ।
-
-</details>
 
 </div>
 
@@ -2880,7 +2633,6 @@ ___________
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/06_03_tIrtvottarA~n_japet.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 3. When they have crossed, let him murmur the next (verse; M. I, 6, 14).
@@ -2897,17 +2649,12 @@ ___________
 
 पारं प्राप्य "अस्य पारे" इत्येतां वर एव जपेत् ॥३॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/06_03_tIrtvottarA~n_japet.md">
 
-<details><summary><h4></h4>></summary>
-
 तीर्त्वोत्तरां जपेत्।
-
-</details>
 
 </div>
 
@@ -2947,7 +2694,6 @@ ___________
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/06_04_shmashAnAdivyatikrame_bhANDe.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 4. If they have to pass over a cemetery, or if any article (which they carry with them), or their chariot is damaged, the ceremonies from the putting of wood on the fire down to the Ājyabhāga oblations are performed, and while she takes hold of him, he offers the oblations (indicated by the) next (Mantras; M. I, 7, 1-7), then he enters upon the performance of the Jaya and following oblations, and performs (the rites) down to the sprinkling (of water) round (the fire).
@@ -2981,17 +2727,12 @@ ___________
 **उत्तराः** "यदृते चिदभिश्रिषः" इति सप्तकरणिका आहुतीः ।
 शेषं व्यक्तम् ॥४॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/06_04_shmashAnAdivyatikrame_bhANDe.md">
 
-<details><summary><h4></h4>></summary>
-
 श्मशानादिव्यतिक्रमे भाण्डे रथे वा रिष्टेऽग्नेरुपसमाधानाद्याज्यभागान्ते ऽन्वारब्धायामुत्तरा आहुतीर्हुत्वा जयादि प्रतिपद्यते परिषेचनान्तं करोति ।
-
-</details>
 
 </div>
 
@@ -3024,7 +2765,6 @@ ___________
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/06_05_xIriNAmanyeShAM_vA.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 5. If they pass by trees with milky sap or by other trees that serve as marks, by rivers or by deserts, he should murmur the next two (verses; M. I, 7, 8. 9), according to the characteristics in them (which refer to these different cases).
@@ -3051,17 +2791,12 @@ ___________
 यथालिङ्गमिति वचनं जातकर्मवन्मा भूदिति ।
 क्षीरिणामित्यादि बहुत्वमविवक्षितम्, निमित्तगतत्वात्, हविरुभयत्ववत् ॥५॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/06_05_xIriNAmanyeShAM_vA.md">
 
-<details><summary><h4></h4>></summary>
-
 क्षीरिणामन्येषां वा लक्ष्मण्यानां वृक्षाणां नदीनां धन्वनां च व्यतिक्रम उत्तरे यथालिङ्गं जपेत् ।
-
-</details>
 
 </div>
 
@@ -3086,7 +2821,6 @@ ___________
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/06_06_gRhAnuttarayA_sankAshayati.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 6. With the next (verse) he shows her the house(M. I, 7, 10).
@@ -3110,17 +2844,12 @@ ___________
 उच्यते– "सङ्काशयामि वहतुम्" इति मन्त्रलिङ्गानुसारात् ।
 मन्त्रार्थश्च भाष्योक्तः ॥६॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/06_06_gRhAnuttarayA_sankAshayati.md">
 
-<details><summary><h4></h4>></summary>
-
 गृहानुत्तरया सङ्काशयति ।
-
-</details>
 
 </div>
 
@@ -3155,7 +2884,6 @@ ___________
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/06_07_vAhAvuttarAbhyAM_vimunchati.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 7. With the next two (verses; M. I, 7, 11. 12) he unyokes the two animals; the right one first.
@@ -3172,16 +2900,12 @@ ___________
 
 "आवामगन्" इति द्वाभ्यामेकैकं वाहं विमुञ्चति ॥७॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/06_07_vAhAvuttarAbhyAM_vimunchati.md">
 
-<details><summary><h4></h4>></summary>
-
 वाहावुत्तराभ्यां विमुञ्चति दक्षिणमग्रे।
-</details>
 
 </div>
 
@@ -3216,7 +2940,6 @@ _____________
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/06_08_lohita~n_charmAnaDuham.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 8. Having, with the next (verse; M. I, 8, 1), spread out, in the centre of the house, a red bull's skin with the neck to the east, with the hair up, he causes her to recite the next (verse; M. I, 8, 2), while he makes her enter the house, (which she does) with her right foot.
@@ -3238,17 +2961,12 @@ _____________
 
 ततो वरः पूर्वं स्वगृहान् प्रविश्य "शर्म वर्म" इत्येतया यथासूत्रं चर्मास्तीर्य ततो वधूं **दक्षिणेन पदा** गृहान् **प्रपादयन्** प्रवेशयन् "गृहान् भद्रान्" इत्येतां वाचयति ॥०८॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/06_08_lohita~n_charmAnaDuham.md">
 
-<details><summary><h4></h4>></summary>
-
 लोहितं चर्मानडुहं प्राचीनग्रीवमुत्तरलोम मध्येऽगारस्योत्तरयाऽऽस्तीर्य गृहान् प्रपादयन्नुत्तरां वाचयति दक्षिणेन पदा।
-
-</details>
 
 </div>
 
@@ -3262,7 +2980,6 @@ _____________
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/06_09_na_cha.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 9. And she does not stand on the threshold.
@@ -3283,17 +3000,12 @@ _____________
 सा च प्रविशन्ती देहलीं नाभितिष्ठति ।
 केचित् चकाराद्वरोऽपि–इति ॥९॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/06_09_na_cha.md">
 
-<details><summary><h4></h4>></summary>
-
 न च देहलीमभि तिष्ठति।
-
-</details>
 
 </div>
 
@@ -3407,7 +3119,6 @@ _____________
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/06_10_uttarapUrve.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 10. In the north-east part of the house the ceremonies from the putting of wood on the fire down to the Ājyabhāga oblations are performed, and while she takes hold of him, he offers the oblations (indicated by the) next (Mantras; M. I, 8, 3-15); then he enters upon the performance of the Gaya and following oblations, and performs (the rites) down to the sprinkling (of water) round (the fire). Then they sit down with the next (verse; M. I, 9, 1) on the skin, the bridegroom to the north.
@@ -3435,17 +3146,12 @@ _____________
 पूर्वमास्तीर्णे **चर्मण्युपविशतः** ।
 पूर्ववदुत्तर एव वरः ॥१०॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/06_10_uttarapUrve.md">
 
-<details><summary><h4></h4>></summary>
-
 उत्तरपूर्वे देशेऽगारस्याग्नेरुपसमाधानाद्याज्यभागान्तेऽन्वारब्धायामुत्तरा आहुतीर्हुत्वा जयादि प्रतिपद्यते परिषेचनान्तं कृत्वोत्तरया चर्मण्युपविशत उत्तरो वरः ।
-
-</details>
 
 </div>
 
@@ -3512,7 +3218,6 @@ __________________
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/06_11_athAsyAH_pu.NsvorjIvaputrAyAH.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 11. He then places with the next (verse; M. I, 9, 2), the son of a wife who has only sons and whose children are alive, in her lap, gives fruits to the (child) with the next Yajus (M. I, 9, 3), and murmurs the next ṭwo (verses; M. I, 9, 4-5). Then he (and his wife) observe silence until the stars appear.
@@ -3537,17 +3242,12 @@ __________________
 एवं भूतायाः पुत्रं "सोमेनादित्याः" इत्येतया वध्वा अङ्क उपवेश्य "प्र स्वस्थः" इति यजुषा पुत्राय फलानि कदल्यादीनि प्रदाय "इह प्रियं प्रजया" इति ऋचौ जपित्वा, उभौ वाचं यच्छतः ।
 आनक्षत्रेभ्यः नक्षत्राणामोदयात् ॥११॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/06_11_athAsyAH_pu.NsvorjIvaputrAyAH.md">
 
-<details><summary><h4></h4>></summary>
-
 अथास्याः पुँस्वोर्जीवपुत्रायाः पुत्रमङ्क उत्तरयोपवेश्य तस्मै फलान्युत्तरेण यजुषा प्रदायोत्तरे जपित्वा वाचं यच्छत आ नक्षत्रेभ्यः ।
-
-</details>
 
 </div>
 
@@ -3582,7 +3282,6 @@ __________________
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/06_12_uditeShu_naxatreShu.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 12. When the stars have appeared, he goes out (of the house with her) in an easterly or northerly direction, and shows her the polar star and (the star) Arundhatī with the next two verses (M. I, 9, 6-7), according to the characteristics (contained in those verses).
@@ -3613,17 +3312,12 @@ __________________
 इति श्रीसुदर्शनाचार्यकृते गृह्यतात्पर्यदर्शने षष्ठः खण्डः ॥
 ॥ द्वितीयः पटलश्च समाप्तः ॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/06_12_uditeShu_naxatreShu.md">
 
-<details><summary><h4></h4>></summary>
-
 उदितेषु नक्षत्रेषु प्राचीमुदीचीं वा दिशमुपनिष्क्रम्य उत्तराभ्यां यथालिङ्गं ध्रुवमरुन्धतीं च दर्शयति ।
-
-</details>
 
 </div>
 
@@ -3637,7 +3331,6 @@ __________________
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/07_01_athainAm_Agneyena.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 1. [^1]  He then makes her offer the sacrifice of a Sthālīpāka sacred to Agni.
@@ -3678,17 +3371,12 @@ __________________
 तन् न ; वध्व् एकाधिकारे हि प्रकरणावगत-विवाहाङ्गत्व-बाधः, अधिकारसाध्यभेदेन शास्त्रतदर्थयोर्भेदात् ।
 आचारसिद्ध-वर-कर्तृकत्व-बाधापत्तिश् च - अन्यार्त्विज्येऽप्य् अविरोधात् ॥१॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/07_01_athainAm_Agneyena.md">
 
-<details><summary><h4></h4>></summary>
-
 अथैनाम् आग्नेयेन स्थालीपाकेन याजयति।
-
-</details>
 
 </div>
 
@@ -3702,7 +3390,6 @@ __________________
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/07_02_patnyavahanti.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 2. The wife husks (the rice grains out of which this Sthālīpāka is prepared).
@@ -3728,16 +3415,12 @@ __________________
 अत एव पार्वणादौ नान्वारम्भः ; पत्न्यवहन्तीतिवत् पत्न्यामन्वारब्धायामित्यवचनादिति ।
 मैवम् ; वध्वेकाधिकारस्यैव निरस्तत्वात् ॥२॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/07_02_patnyavahanti.md">
 
-<details><summary><h4></h4>></summary>
-
 पत्न्यवहन्ति।
-</details>
 
 </div>
 
@@ -3751,7 +3434,6 @@ __________________
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/07_03_shrapayitvAbhighArya.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 3. After he has cooked (the Sthālīpāka), and has sprinkled (Ājya) over it, and has taken it from the fire towards the east or the north, and has sprinkled (Ājya) over it while it stands (there near the fire), (the ceremonies) from the putting of wood on the fire down to the Ājyabhāga oblations (are performed), and while she takes hold of him, he sacrifices of that Sthālīpāka.
@@ -3785,17 +3467,12 @@ __________________
 "आज्यभागान्तेऽन्वारब्धायाम्" ।
 उपस्तरणप्रभृत्यन्वारम्भः प्रधानहोमान्तम् ॥३॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/07_03_shrapayitvAbhighArya.md">
 
-<details><summary><h4></h4>></summary>
-
 श्रपयित्वाभिघार्य प्राचीनमुदीचीनं वोद्वास्य प्रतिष्ठितमभिघार्याग्नेरुपसमाधानाद्याज्यभागान्तेऽन्वारब्धायां स्थालीपाकाज्जुहोति।
-
-</details>
 
 </div>
 
@@ -3809,7 +3486,6 @@ __________________
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/07_04_sakRdupastaraNAbhighAraNe.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 4. The 'spreading under' and the sprinkling over (of Ājya are done) once; two Avadānas (or cut-off portions are taken).
@@ -3834,17 +3510,12 @@ __________________
 ततः स्विष्टकृदर्थं चरोः प्रत्यभिघारणम् ।
 अस्यैष्टिकावदानविधिप्रदर्शनार्थत्वादाचाराच्च ॥४॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/07_04_sakRdupastaraNAbhighAraNe.md">
 
-<details><summary><h4></h4>></summary>
-
 सकृदुपस्तरणाभिघारणे द्विरवदानम्।
-
-</details>
 
 </div>
 
@@ -3858,7 +3529,6 @@ __________________
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/07_05_agnirdevatA_svAhAkArapradAnaH.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 5. Agni is the deity (of the first oblation); the offering is made with the word Svāhā.
@@ -3898,17 +3568,12 @@ __________________
 स माभूदस्माकम् ।
 पार्वणेषु तद्विकारेषु च "अमुष्मै स्वाहा" इत्येव जुहुयादित्येवमर्थमिति ॥५॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/07_05_agnirdevatA_svAhAkArapradAnaH.md">
 
-<details><summary><h4></h4>></summary>
-
 अग्निर्देवता स्वाहाकारप्रदानः ।
-
-</details>
 
 </div>
 
@@ -3922,7 +3587,6 @@ __________________
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/07_06_api_vA.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 6. [^2]  Or he may sacrifice after having picked out, once, a portion (of the sacrificial food with the Darvi spoon).
@@ -3942,17 +3606,12 @@ __________________
 
 अथवा दर्व्या सकृत् स्थालीपाकाद्गृहीत्वा जुहुयात्, न तु पूर्ववच्चतुरवत्तं पञ्चावत्तं वा अपूर्वत्वाद्दर्विहोमानाम् ॥६॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/07_06_api_vA.md">
 
-<details><summary><h4></h4>></summary>
-
 अपि वा सकृदुपहत्य जुहुयात् ।
-
-</details>
 
 </div>
 
@@ -3966,7 +3625,6 @@ __________________
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/07_07_agnissviShTakRd_dvitIyaH.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 7. Agni Sviṣṭakṛt is the second (deity).
@@ -3989,17 +3647,12 @@ __________________
 केचित्– पूर्वहोमेन तुल्यधर्मत्वज्ञापनम् ।
 तथा च सति "यथोपदेशं प्रधानाहुतीः" इत्यत्र स्विष्टकृतमपि हुत्वा जयादीत्येवमादि भवेदिति ॥७॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/07_07_agnissviShTakRd_dvitIyaH.md">
 
-<details><summary><h4></h4>></summary>
-
 अग्निस्स्विष्टकृद् द्वितीयः।
-
-</details>
 
 </div>
 
@@ -4013,7 +3666,6 @@ __________________
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/07_08_sakRdupastaraNAvadAne.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 8. (At the Sviṣṭakṛt oblation) the 'spreading under' and taking an Avadāna are done once, the sprinkling over (of Ājya) twice.
@@ -4037,17 +3689,12 @@ __________________
 अवदानं दैवताज्ज्यायः ।
 नापि हविःप्रत्यभिघारणम् ; ऐष्टिकसौविष्टकृतावदानविधिप्रदर्शनार्थत्वात्, आचाराच्च ॥८॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/07_08_sakRdupastaraNAvadAne.md">
 
-<details><summary><h4></h4>></summary>
-
 सकृदुपस्तरणावदाने द्विरभिघारणम्।
-
-</details>
 
 </div>
 
@@ -4061,7 +3708,6 @@ __________________
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/07_09_madhyAt_pUrvasyAvadAnam.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 9. The Avadāna for the first deity (is taken) out of the middle (of the Sthālīpāka);
@@ -4084,17 +3730,12 @@ __________________
 चतुरवत्तपक्षे त्वैष्टिकविधिप्रदर्शनबलान् मध्यादङ्गुष्ठपर्वमात्रावदानम् ।
 "तिरश्चीनमवद्यति पूर्वार्धाद् द्वितीयमनूचीनं चतुरवत्तिनः, पश्चार्धात्तृतीयं पञ्चावत्तिनः" (आप. श्रौ. २-१८-९.) इत्यवदानस्थानसिद्धेः । एतेनोपघातपक्षे चतुरवत्तधर्म उपस्तरणादिर्न प्रवर्तते इति दर्शयति ॥९॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/07_09_madhyAt_pUrvasyAvadAnam.md">
 
-<details><summary><h4></h4>></summary>
-
 मध्यात् पूर्वस्यावदानम्।
-
-</details>
 
 </div>
 
@@ -4108,7 +3749,6 @@ __________________
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/07_10_madhye_homaH.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 10. It is offered over the centre (of the fire).
@@ -4128,17 +3768,12 @@ __________________
 प्रधानाहुतिबहुत्वे "पूर्वां पूर्वां संहिताम्" (आप. श्रौ.२-१९-९.) इति च भवति ।
 अयं तूभयपक्षार्थः ॥१०॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/07_10_madhye_homaH.md">
 
-<details><summary><h4></h4>></summary>
-
 मध्ये होमः।
-
-</details>
 
 </div>
 
@@ -4152,7 +3787,6 @@ __________________
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/07_11_uttarArdhAduttarasya.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 11. (The Avadāna) for the second (deity is taken) from the northern part (of the Sthālīpāka);
@@ -4168,16 +3802,12 @@ __________________
 उत्तरार्धाद्धविष उत्तरस्य स्विष्टकृत अवदानं कार्यम् ।
 अयमपि पूर्ववदुपघातपक्षार्थ एव ॥११॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/07_11_uttarArdhAduttarasya.md">
 
-<details><summary><h4></h4>></summary>
-
 उत्तरार्धादुत्तरस्य।
-</details>
 
 </div>
 
@@ -4191,7 +3821,6 @@ __________________
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/07_12_uttarArdhapUrvArdhe_homaH.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 12. It is offered over the easterly part of the northerly part (of the fire).
@@ -4209,17 +3838,12 @@ __________________
 तस्य स्विष्टकृतो **होमो**ऽग्नेर् **उत्तरार्धपूर्वार्धे** ।
 अस्यापि प्रदर्शनार्थत्वात् "असंसक्तामितराभिराहुतिभिः" (आप. श्रौ. २-२१-६.) इत्यपि भवति ॥१२॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/07_12_uttarArdhapUrvArdhe_homaH.md">
 
-<details><summary><h4></h4>></summary>
-
 उत्तरार्धपूर्वार्धे होमः।
-
-</details>
 
 </div>
 
@@ -4233,7 +3857,6 @@ __________________
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/07_13_lepayoH_prastaravat.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 13. [^3]  Having silently anointed (a part of) the Barhis (by dipping it) into the remains both (of the Sthālīpāka and the Ājya) in the way prescribed (in the Śrauta ritual) for the (part of the Barhis called) Prastara, he throws (that part of the Barhis) into the fire.
@@ -4277,17 +3900,12 @@ __________________
 केचित्— कल्पान्तरादपरेणाग्निं यस्मिन् बर्हिषि हविराज्यं च प्रतिष्ठितं तस्माद्वा, परिस्तरणाद्वा किञ्चिदुपादायाञ्जनमिति ।
 तन्न;  कल्पान्तरोक्तबर्हिःप्रतिष्ठापनोपसंहारस्य पाक्षिकत्वेन नित्यत्ववदञ्जनानुपपत्तेः॥१३॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/07_13_lepayoH_prastaravat.md">
 
-<details><summary><h4></h4>></summary>
-
 लेपयोः प्रस्तरवत् तूष्णीं बर्हिरङ्क्त्वाग्नौ प्रहरति ।
-
-</details>
 
 </div>
 
@@ -4301,7 +3919,6 @@ __________________
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/07_14_siddhamuttaram_pariShechanam.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 14. [^4]  (The rule regarding) the second sprinkling (of water round the fire) is valid (here).
@@ -4345,17 +3962,12 @@ __________________
 आनन्तर्यं तु पाठप्राप्तं न विधेयमेव ।
 तस्माद्वरं यथोक्तशङ्कानिवृत्यर्थमेवेदं सूत्रमिति ॥१४॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/07_14_siddhamuttaram_pariShechanam.md">
 
-<details><summary><h4></h4>></summary>
-
 सिद्धमुत्तरं परिषेचनम् ।
-
-</details>
 
 </div>
 
@@ -4369,7 +3981,6 @@ __________________
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/07_15_tena_sarpiShmatA.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 15. He gives (the remains of) that (sacrificial food) with butter to a Brāhmaṇa to eat -
@@ -4390,16 +4001,12 @@ __________________
 इह तु सर्पिष्मतेति मतुबतिशयार्थः ।
 भोजयेदिति बलाच्च होमब्राह्मणभोजनायालं चरुः कार्यः ॥१५॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/07_15_tena_sarpiShmatA.md">
 
-<details><summary><h4></h4>></summary>
-
 तेन सर्पिष्मता ब्राह्मणं भोजयेत्।
-</details>
 
 </div>
 
@@ -4413,7 +4020,6 @@ __________________
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/07_16_yo-syApachitastasmA_RShabham.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 16. [^5]  Whom he reveres. To that (Brāhmaṇa) he makes the present of a bull.
@@ -4438,17 +4044,12 @@ __________________
 योऽयं लोके विद्याभिजनादिसम्पत्त्या अपचितः तस्मा अयमेतत्स्थालीपाककर्ता ऋषभं ददाति ।
 सर्वथा त्वेतद्विकृतिष्वपि स्थालीपाकान्तरेषु ऋषभदानं नास्त्येव ॥१६॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/07_16_yo-syApachitastasmA_RShabham.md">
 
-<details><summary><h4></h4>></summary>
-
 योऽस्यापचितस्तस्मा ऋषभं ददाति।
-
-</details>
 
 </div>
 
@@ -4462,7 +4063,6 @@ __________________
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/07_17_evamata_Urdhvam.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 17. In the same way, with the exception of the sacrificial gift, they should sacrifice a Sthālīpāka from then onwards, on the days of the new and full moon, after having fasted.
@@ -4531,17 +4131,12 @@ __________________
 मासिश्राद्धस्य त्वारम्भश्चतुर्थीहोमान्ते अपरपक्षे; शिष्टाचारात्, बोधायनवचनात्, कर्ममध्ये कर्मान्तरारम्भस्यायुक्तत्वाच्च ।
 तथा वैश्वदेवस्यापि, "तेषां मन्त्राणामुपयोगे द्वादशाहमधश्शय्या" (आप. ध.२-३-१३.) इत्यादिव्रतं सपत्नीकश्चरित्वा प्रशस्तेऽहन्यारम्भः ॥१७॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/07_17_evamata_Urdhvam.md">
 
-<details><summary><h4></h4>></summary>
-
 एवमत ऊर्ध्वं दक्षिणावर्जमुपोषिताभ्यां पर्वसु कार्यः ।
-
-</details>
 
 </div>
 
@@ -4555,7 +4150,6 @@ __________________
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/07_18_pUrNapAtrastu_daxiNetyeke.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 18. Some say that a vessel full (of grain) is the sacrificial gift.
@@ -4578,16 +4172,12 @@ __________________
 पात्रशब्दश्चोभयलिङ्गः ।
 तुशब्दात् पर्वस्वयं विकल्पो, न वृषभदाने ॥१८॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/07_18_pUrNapAtrastu_daxiNetyeke.md">
 
-<details><summary><h4></h4>></summary>
-
 पूर्णपात्रस्तु दक्षिणेत्येके।
-</details>
 
 </div>
 
@@ -4601,7 +4191,6 @@ __________________
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/07_19_sAyam_prAtarata.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 19. [^6]  From then onwards he should offer morning and evening with his hand these two oblations (to Agni and to Agni Sviṣṭakṛt) of (rice) grains or of barley.
@@ -4640,16 +4229,12 @@ __________________
 "एते" इति विशेषणादत्रापि द्वितीयाहुतिः स्विष्टकृत्स्थानीत्या अङ्गमित्यर्थः । तेनैतां विस्मृत्य कर्मसमाप्तौ नैषा पुनर्होतव्या ।
 किन्तु सर्वप्रायाश्चित्तमेव ॥१९॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/07_19_sAyam_prAtarata.md">
 
-<details><summary><h4></h4>></summary>
-
 सायं प्रातरत ऊर्ध्वं हस्तेनैते आहुती तण्डुलैर्यवैर्वा जुहुयात्।
-</details>
 
 </div>
 
@@ -4663,7 +4248,6 @@ __________________
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/07_20_sthAlIpAkavaddaivatam_devataiva.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 20. The deities are the same as at the Sthālīpāka (just described).
@@ -4681,16 +4265,12 @@ __________________
 अयं "एते आहुती" इति प्राप्तस्यानुवादः पूर्वाहुतेर्विकल्पं विधातुम् ; यथा–पात्नीवते "नानुवषट्करोति ।
 अपि वोपांश्वनुवषट्कुर्यात्" ( आप. श्रौ. १३-१४-९,१०.) इति ॥२०॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/07_20_sthAlIpAkavaddaivatam_devataiva.md">
 
-<details><summary><h4></h4>></summary>
-
 स्थालीपाकवद्दैवतम्।
-</details>
 
 </div>
 
@@ -4704,7 +4284,6 @@ __________________
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/07_21_saurI_pUrvAhutiH.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 21. Some say that the first oblation in the morning is sacred to Sūrya.
@@ -4723,16 +4302,12 @@ __________________
 
 **सौरी** सूर्यदेवत्या "सूर्याय स्वाहा" इति पूर्वाहुतिः प्रातर्होमे इत्येके ॥२१॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/07_21_saurI_pUrvAhutiH.md">
 
-<details><summary><h4></h4>></summary>
-
 सौरी पूर्वाहुतिः प्रातरित्येके।
-</details>
 
 </div>
 
@@ -4746,7 +4321,6 @@ __________________
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/07_22_ubhayataH_pariShechanam.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 22. [^7]  Before and after (those oblations) the sprinkling (of water) round (the fire is performed) as stated above.
@@ -4769,16 +4343,12 @@ __________________
 "सर्वेषु यज्ञक्रतुष्विति" (तै. ब्रा. ३-१०-९.) इत्यत्र "तदिदं सर्वयज्ञेषूपस्पर्शनं भवति" (आप. श्रौ. ४-१-७.) इत्यत्र च सर्वशब्देन प्रकृतपरामर्शिना प्रकृतश्रौतसर्वयज्ञानामेव परामर्शात् ।
 अस्मादेव हेतोः "द्विर्जुहोति" (आप. गृ. २-११.) इत्यादिना परिसङ्ख्याय कृत्स्नविधानाच्चाग्निहोत्रिकविधावपि नैव विद्युद्वृष्टी ॥२२॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/07_22_ubhayataH_pariShechanam.md">
 
-<details><summary><h4></h4>></summary>
-
 उभयतः परिषेचनं यथा पुरस्तात्।
-</details>
 
 </div>
 
@@ -4792,7 +4362,6 @@ __________________
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/07_23_pArvaNenAto.anyAni.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 23. [^8]  By the sacrifice of the new and full moon the other ceremonies have been explained (the knowledge of) which is derived from practice.
@@ -4891,16 +4460,12 @@ __________________
 अतस्तानि तन्त्रसूत्राणि यथोक्तप्रयोजनार्थानि ।
 आग्रयणमपि तन्त्रवदेव ॥२३॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/07_23_pArvaNenAto.anyAni.md">
 
-<details><summary><h4></h4>></summary>
-
 पार्वणेनातो ऽन्यानि कर्माणि व्याख्यातान्य् - आचाराद् यानि गृह्यन्ते।
-</details>
 
 </div>
 
@@ -4914,7 +4479,6 @@ __________________
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/07_24_yathopadeshan_devatAH.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 24. The deities (of those rites) are as stated (with regard to each particular case),
@@ -4929,17 +4493,12 @@ __________________
 
 +++(सम्पादकटिप्पानी - इदं सूत्रम् अग्रिमे व्याख्यातम्।)+++
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/07_24_yathopadeshan_devatAH.md">
 
-<details><summary><h4></h4>></summary>
-
 यथोपदेशं देवताः।
-
-</details>
 
 </div>
 
@@ -4953,7 +4512,6 @@ __________________
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/07_25_agniM_sviShTakRtam.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
@@ -5018,17 +4576,12 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 तथा "अन्तरेण" इत्यस्य यथोक्तश्रुतसम्बन्ध्यन्वयसम्भवे अप्रकृतगम्यमानान्वयो न युक्तः ।
 व्यर्थं चैतत्; स्वमते स्विष्टकृतस्समुच्चयविधानादेव त्रिदोषायाः परिसङ्ख्याया अपि निरस्तत्वात्, तस्य सर्वत्र नित्यत्वेनालोपसिद्धेः ॥२५॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/07_25_agniM_sviShTakRtam.md">
 
-<details><summary><h4></h4>></summary>
-
 अग्निं स्विष्टकृतं चान्तरेण ।
-
-</details>
 
 </div>
 
@@ -5042,7 +4595,6 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/07_26_avikRtamAtithyam.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 25. [^9]  The sacrifice (of a cow) on the arrival of a guest (should be performed as stated below) without alterations.
@@ -5067,17 +4619,12 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 एतच्च प्रदर्शनार्थम् ।
 तेन वपाहोमानन्तरं किंशुकहोमसर्षपहोमफलीकरणहोमादयोऽप्यपूर्वा एव; कृत्स्नविधानस्य तुल्यत्वात् ।
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/07_26_avikRtamAtithyam.md">
 
-<details><summary><h4></h4>></summary>
-
 अविकृतमातिथ्यम् ।
-
-</details>
 
 </div>
 
@@ -5091,7 +4638,6 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/07_27_vaishvadeve_vishve.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 26. [^10]  (The deities) of the Vaiśvadeva ceremony are the Viśve devās,
@@ -5290,17 +4836,12 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 
 </div>
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/07_27_vaishvadeve_vishve.md">
 
-<details><summary><h4></h4>></summary>
-
 वैश्वदेवे विश्वे देवाः।
-
-</details>
 
 </div>
 
@@ -5314,7 +4855,6 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/07_28_paurNamAsyAm_paurNamAsI.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 27. [^11]  Of ceremonies performed on full-moon days, the full-moon day on which they are performed.
@@ -5345,17 +4885,12 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 
 इति श्रीसुदर्शनाचार्यकृते गृह्यतात्पर्यदर्शने सप्तमः खण्डः ॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/07_28_paurNamAsyAm_paurNamAsI.md">
 
-<details><summary><h4></h4>></summary>
-
 पौर्णमास्यां पौर्णमासी यस्यां क्रियते।
-
-</details>
 
 </div>
 
@@ -5369,7 +4904,6 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/08_01_upAkaraNe_samApane.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 1. [^1]  At the opening and concluding ceremonies of the Vedic study, the Ṛṣi who is indicated (as the
@@ -5388,16 +4922,12 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 
 +++(सम्पादकटिप्पानी - इदं सूत्रम् अग्रिमे व्याख्यातम् ।)+++
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/08_01_upAkaraNe_samApane.md">
 
-<details><summary><h4></h4>></summary>
-
 उपाकरणे समापने च ऋषिर्यः प्रज्ञायते।
-</details>
 
 </div>
 
@@ -5421,7 +4951,6 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/08_02_sadasaspatirdvitIyaH.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 2. And in the second place Sadasaspati (cf. Mantrap. I, 9, 8).
@@ -5708,17 +5237,12 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 उक्तविधयानयोर् इहैव प्रयोगस्य प्रसिद्धत्वात्,  
 अन्यत्र प्रसिद्धस्याभ्यन्तरीभाव-वैयर्थ्याच् च ॥२॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/08_02_sadasaspatirdvitIyaH.md">
 
-<details><summary><h4></h4>></summary>
-
 सदसस्पतिर्द्वितीयः।
-
-</details>
 
 </div>
 
@@ -5732,7 +5256,6 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/08_03_striyA-nupetena.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 3. They reject a sacrifice performed by a wife or by one who has not received the Upanayana initiation, and a sacrifice of salt or pungent food, or of such food as has an admixture of a despised sort of food.
@@ -5819,17 +5342,12 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 तत् क्षारादि यथोष्ण-भस्मनि हूयते,  
 तथा तस्मिन्न् अपि स्त्र्य्-अनुपनीताभ्यां न होतव्यम् इति निषेद्धुम् ॥३॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/08_03_striyA-nupetena.md">
 
-<details><summary><h4></h4>></summary>
-
 स्त्रियाऽनुपेतेन क्षारलवणावरान्नसंसृष्टस्य च होमं परिचक्षते।
-
-</details>
 
 </div>
 
@@ -5843,7 +5361,6 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/08_04_yathopadesha~N_kAmyAni.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 4. Sacrifices connected with special wishes and Bali sacrifices (should be performed) as stated (even against the clauses of the last Sūtra).
@@ -5884,17 +5401,12 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 केचित्— **यथोपदेशं काम्यानि बलयश्** चेत्य् अस्माद् एव ज्ञापनाद्+धोम-धर्माणां बलिष्व् अपि प्रसक्तिर् इति ।  
 तेषां सर्पबलौ सक्तु-निर्वापे स्वाहा-कारो दुर्वारः ॥४॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/08_04_yathopadesha~N_kAmyAni.md">
 
-<details><summary><h4></h4>></summary>
-
 यथोपदेशं काम्यानि बलयश्च।
-
-</details>
 
 </div>
 
@@ -5926,7 +5438,6 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/08_05_sarvatra_svayam.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 5. Whenever the fire flames up of itself, he should put two pieces of wood on it with the next two (verses: M. I, 9, 9-10),
@@ -5954,17 +5465,12 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 प्रस्तरप्रहरणेऽपि "न स्वाहाकरोति" (आप.श्रौ.३-६-७.) इत्येतत्, आदधातीत्यादिष्वपि प्रतिषेधदर्शनार्थम् ।
 अन्ये तु– "न स्वाहाकरोति" इत्येष प्रतिषेधः अजुहोतिचोदितेष्वप्यादधातीत्यादिषु स्वाहाकार् ज्ञापयतीति ॥५॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/08_05_sarvatra_svayam.md">
 
-<details><summary><h4></h4>></summary>
-
 सर्वत्र स्वयं प्रज्वलितेऽग्नावुत्तराभ्यां समिधावादध्यात् ।
-
-</details>
 
 </div>
 
@@ -5978,7 +5484,6 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/08_06_ApanmAshrIH_shrIrmAgAditi.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 6. Or with (the two formulas), 'May fortune reach me! May fortune come to me!'
@@ -5993,16 +5498,12 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 
 "उद्दीप्यस्वे"ति ऋग्द्वयेन आपन्मेत्येतद्यजुर्द्वयं विकल्प्यते ॥६॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/08_06_ApanmAshrIH_shrIrmAgAditi.md">
 
-<details><summary><h4></h4>></summary>
-
 आपन्माश्रीः श्रीर्मागादिति वा।
-</details>
 
 </div>
 
@@ -6016,7 +5517,6 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/08_07_etadaharvijAnIyAdyadaharbhAryAmAvahate.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 7. Let him notice the day on which he brings his wife home.
@@ -6046,17 +5546,12 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 प्रकृतत्वादेव च स्थालीपाकादारभ्य त्रिरात्रमुभयोरधश्शय्येत्यादि भविष्यतीति ।
 तन्न; यथोक्तकर्मान्तरे विधेरेव निरस्तत्वात् "पार्वणेन" (आप. गृ. ७-२-३.) इत्यत्र ॥७॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/08_07_etadaharvijAnIyAdyadaharbhAryAmAvahate.md">
 
-<details><summary><h4></h4>></summary>
-
 एतदहर्विजानीयाद्यदहर्भार्यामावहते ।
-
-</details>
 
 </div>
 
@@ -6070,7 +5565,6 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/08_08_trirAtramubhayoradhashshayyA.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 8. (From that day) through three nights they should both sleep on the ground, they should be chaste, and should avoid salt and pungent food.
@@ -6105,17 +5599,12 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 चकारस्तूक्तसमुच्चयार्थ एव ।
 सर्वत्र त्रिरात्रमित्येव ॥८॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/08_08_trirAtramubhayoradhashshayyA.md">
 
-<details><summary><h4></h4>></summary>
-
 त्रिरात्रमुभयोरधश्शय्या ब्रह्मचर्यं क्षारलवणवर्जनं च ।
-
-</details>
 
 </div>
 
@@ -6129,7 +5618,6 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/08_09_tayoshshayyAmantareNa_daNDo.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 9. Between their sleeping-places a staff is interposed, which is anointed with perfumes and wrapped round with a garment or a thread.
@@ -6151,17 +5639,12 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 अत एवायं दण्डो नैयग्रोध औदुम्बर आश्वत्थः प्लाक्षो वा, "एते वै गन्धर्वाप्सरसां गृहाः" (तै.सं.३-४-८.)
 इत्यर्थवादात् ॥९॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/08_09_tayoshshayyAmantareNa_daNDo.md">
 
-<details><summary><h4></h4>></summary>
-
 तयोश्शय्यामन्तरेण दण्डो गन्धलिप्तो वाससा सूत्रेण वा परिवीतस्तिष्ठति ।
-
-</details>
 
 </div>
 
@@ -6380,7 +5863,6 @@ ______________
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/08_10_ta~n_chaturthyA-pararAtra.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 10. In the last part of the fourth night he takes up the (staff) with the next two (verses; M. I, 10, 1-2), washes it and put it away; then (the ceremonies) from the putting of wood on the fire down to the Ājyabhāga oblations (are performed), and while she takes hold of him, he sacrifices the oblations (indicated by the) next (Mantras; M. I, 10, 3-9); then he enters upon the performance of the Jaya and following oblations, and performs (the rites) down to the sprinkling (of water) round (the fire). Then he makes her sit down to the west of the fire, facing the east, and pours some Ājya of the remains (of those oblations) on her head with the (three) Vyāhṛtis and the word Om as the fourth (M. I, 10, 10-13). Then they look at each other with the next two verses (M. I, 11, 1-2), according to the characteristics (contained in those verses); with the next verse (M. I, 11, 3) he besmears the region of their hearts with remains of Ājya; then he should murmur the next three verses (I, 11, 4-6), and should murmur the rest (of the Anuvāka; I, 11, 7-11) when cohabiting with her.
@@ -6426,17 +5908,12 @@ ______________
 अस्मिन्नेव क्रमे यदि दैवादृतुगमनमपि कर्तव्यं स्यात् तदा पूर्वं "आरोहोरुम्" इत्यादिजपः ।
 ततो "विष्णुर्योनिम्" इत्यादिभिरभिमन्त्रणम् ॥१०॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/08_10_ta~n_chaturthyA-pararAtra.md">
 
-<details><summary><h4></h4>></summary>
-
 तं चतुर्थ्याऽपररात्र उत्तराभ्यामुत्थाप्य प्रक्षाल्य निधायाग्नेरुपसमाधानाद्याज्यभागान्तेऽन्वारब्धायामुत्तरा आहुतीर्हुत्वा जयादि प्रतिपद्यते परिषेचनान्तं कृत्वाऽपरेणाग्निं प्राचीमुपवेश्य तस्याश्शिरस्याज्यशेषाद्व्याहृतिभिरोङ्कारचतुर्थाभिरानीयोत्तराभ्यां यथालिङ्गं मिथस्समीक्ष्योत्तरया ऽऽज्यशेषेण हृदयदेशौ सम्मृज्योत्तरास्तिस्रो जपित्वा शेषँ समावेशने जपेत् ।
-
-</details>
 
 </div>
 
@@ -6473,7 +5950,6 @@ ______________
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/08_11_anyo_vainAmabhimantrayeta.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 11. Or another person should recite (the rest of the Anuvāka) over her, (before they cohabit).
@@ -6497,17 +5973,12 @@ ______________
 व्यक्तार्थम् ।
 इदं च "अहं गर्भमदधाम्" इत्यादि लिङ्गविरोधेऽपि श्रुतेर्बलीयस्त्वात् ॥११॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/08_11_anyo_vainAmabhimantrayeta.md">
 
-<details><summary><h4></h4>></summary>
-
 अन्यो वैनामभिमन्त्रयेत।
-
-</details>
 
 </div>
 
@@ -6521,7 +5992,6 @@ ______________
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/08_12_yadA_malavadvAsAH.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 12. [^2]  During her (first) monthly illness he instructs her about the things forbidden (to menstruous women), contained in the Brāhmaṇa, in the section, 'A menstruous woman with whom,' &c.
@@ -6586,16 +6056,11 @@ ______________
 अत्र चामी मैथुनादिनिषेधा अमैथुनादिसङ्कल्प विधयो वेति भाष्ये न विविक्तम् ।
 न्यायतस्तु "तिस्त्रो रात्रीर्व्रतं चरेत्" (तै. सं.२-५-१.) इति वचनात् "नेक्षेतोद्यन्तमस्तंयन्तमादित्यम्" इत्यादि प्राजापत्यविधिवत् सङ्कल्पविधय एव ॥१२॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/04_vivAhaprakaraNam/08_12_yadA_malavadvAsAH.md">
 
-<details><summary><h4></h4>></summary>
-
 यदा मलवद्वासाः स्यादथैनां ब्राह्मणप्रतिषिद्धानि कर्माणि सँशास्ति "या मलवद्वासस"मित्येतानि ।
-
-</details>
 
 </div>

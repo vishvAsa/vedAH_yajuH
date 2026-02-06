@@ -1,6 +1,5 @@
 +++
 title = "२१ आग्रयणस्थालीपाकः"
-
 +++
 
 ## १९ ०६ अनाहिताग्नेराग्रयणम्
@@ -13,7 +12,6 @@ title = "२१ आग्रयणस्थालीपाकः"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/21_AgrayaNasthAlIpAkaH/19_06_anAhitAgnerAgrayaNam.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 6. (Now follows) the Āgrayaṇa sacrifice (or partaking of the first-fruits) of one who has not set up the (Śrauta) fires.
@@ -59,17 +57,12 @@ title = "२१ आग्रयणस्थालीपाकः"
 आग्रयणम् इति कर्मनामधेयम्, येन कर्मणा अग्रे नवद्रव्यं देवान् प्रापयतीति ।
 यत्-कर्म कृत्वेैव वाग्रयणं प्रथमायनं नवान्न-प्राशन-प्राप्तिर् भवतीति ॥६॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/21_AgrayaNasthAlIpAkaH/19_06_anAhitAgnerAgrayaNam.md">
 
-<details><summary><h4></h4>></summary>
-
 अनाहिताग्नेराग्रयणम् ।
-
-</details>
 
 </div>
 
@@ -94,7 +87,6 @@ title = "२१ आग्रयणस्थालीपाकः"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/21_AgrayaNasthAlIpAkaH/19_07_navAnA.N_sthAlIpAka.N.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 7. He prepares a Sthālīpāka of the fresh fruits, sacrifices to the deities of the (Śrauta) Āgrayaṇa sacrifice with (Agni) Sviṣṭakṛt as the fourth, fills his mouth with grains, swallows them, sips water, forms a lump of the boiled (sacrificial) food, and throws it up with the next Yajus (II, 18, 1) to the summit of the house.
@@ -167,16 +159,11 @@ title = "२१ आग्रयणस्थालीपाकः"
 ततस्तं पिण्डमुत्तरेण यजुषा "परमेष्ठ्यसि" इत्यनेन **उद्विद्धेत्** ऊर्ध्वं विक्षिपेत् ।  
 यथागारस्तूपे पृष्ठवंशे पतति तथा विद्धेत् । यकार-लोपश् छान्दसः ॥७॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/21_AgrayaNasthAlIpAkaH/19_07_navAnA.N_sthAlIpAka.N.md">
 
-<details><summary><h4></h4>></summary>
-
 नवानाँ स्थालीपाकँ श्रपयित्वाऽऽग्रयणदेवताभ्यः स्विष्टकृच्चतुर्थाभ्यो हुत्वा तण्डुलानां मुखं पूरयित्वा गीर्त्वाचम्यौदनपिण्डँ संवृत्त्योत्तरेण यजुषागारस्तूप उद्विद्धेत् ।
-
-</details>
 
 </div>
