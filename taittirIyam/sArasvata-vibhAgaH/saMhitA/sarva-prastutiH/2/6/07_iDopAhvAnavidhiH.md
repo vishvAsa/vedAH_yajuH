@@ -730,7 +730,7 @@ He invokes food,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पश᳓वो वा᳓ इ᳓डा   
+पश᳓वो वा᳓ इ᳓डा,   
 पशू᳓न् एवो᳓प ह्वयते ।
 </details>
 
@@ -830,7 +830,7 @@ He invokes four, for cattle are four-footed.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 घृत᳓पदी᳓त्याह ।  
-य᳓देवा᳓स्यै पदा᳓द् घृत᳓म् अ᳓पीड्यत,    
+य᳓द् एवा᳓स्यै पदा᳓द् घृत᳓म् अ᳓पीड्यत,    
 त᳓स्माद् एव᳓म् आह ।  
 </details>
 
@@ -866,6 +866,7 @@ He invokes four, for cattle are four-footed.
 
 'Of Mitra and Varuna', he says, for Mitra and Varuna set her in motion.
 </details>
+
 <details><summary>मूलम्</summary>
 
 मै॒त्रा॒व॒रु॒णीत्या॑ह ।  
@@ -979,7 +980,7 @@ verily he invokes the gods and men.
 
 य᳓ इमय्ँ᳓ यज्ञ᳓म् अ᳓वान्  
 ये᳓ यज्ञ᳓पतिव्ँ व᳓र्धान् इ᳓त्य् आह ।  
-यज्ञा᳓य चैव᳓ य᳓जमानाय चाशि᳓षमा᳓ शास्ते ।  
+यज्ञा᳓य चैव᳓ य᳓जमानाय चाशि᳓षम् आ᳓ शास्ते ।  
 </details>
 
 <details><summary>English</summary>
@@ -1050,7 +1051,7 @@ and make the lord of the sacrifice prosper', he says [4]; verily he invokes a bl
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूर्वजे᳓ ऋता᳓वरी इ᳓त्याह ।  
-पूर्वजे᳓ ह्ये᳙ते᳓ ऋता᳓वरी 
+पूर्वजे᳓ ह्य् ए᳙ते᳓ ऋता᳓वरी 
 </details>
 
 <details><summary>English</summary>
@@ -1084,7 +1085,7 @@ and make the lord of the sacrifice prosper', he says [4]; verily he invokes a bl
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवी᳓ देव᳓पुत्रे इ᳓त्याह ।  
-देवी᳓ ह्ये᳙ते᳓ देव᳓पुत्रे 
+देवी᳓ ह्य् ए᳙ते᳓ देव᳓पुत्रे 
 </details>
 
 <details><summary>English</summary>
@@ -1112,8 +1113,8 @@ and make the lord of the sacrifice prosper', he says [4]; verily he invokes a bl
 ## यजमानाद्य्-उपहूतिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ᳓पहूतोऽयय्ँ᳓य᳓जमान इ᳓त्याह।  
-य᳓जमानमेवो᳓प ह्वयते ।  
+उ᳓पहूतो ऽयय्ँ᳓ य᳓जमान इ᳓त्य् आह।  
+य᳓जमानम् एवो᳓प ह्वयते ।  
 </details>
 
 <details><summary>English</summary>
@@ -1142,8 +1143,8 @@ and make the lord of the sacrifice prosper', he says [4]; verily he invokes a bl
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ᳓त्तरस्यान् देवयज्या᳓याम् उ᳓पहूतो,  
-भू᳓यसि हविष्क᳓करण उ᳓पहूतो,  
-दिव्ये᳓ धा᳓मन्न् उ᳓पहूत  इ᳓त्याह ।
+भू᳓यसि हविष्क᳓रण उ᳓पहूतो,  
+दिव्ये᳓ धा᳓मन्न् उ᳓पहूत इ᳓त्याह ।
 </details>
 
 <details><summary>English</summary>
