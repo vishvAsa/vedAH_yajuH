@@ -2,7 +2,7 @@
 title = "०७ इडोपाह्वानविधिः"
 +++
 
-<details><summary>तमिऴ्</summary>
+<details><summary>विषयः</summary>
 
 इष्टिहोत्रब्राह्मणम्
 </details>
