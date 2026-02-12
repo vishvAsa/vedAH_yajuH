@@ -1,0 +1,384 @@
++++
+title = "२३ गृहस्थ-श्रेष्ठता"
++++
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/23/01_bhUyAMsaM_vA_niyamamichChann.md">
+
+भूयांसं वा नियमम् इच्छन्न्  
+अन्वहम् एव पात्रेण सायं प्रातर् अर्थम् आहरेत् १
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/23/01_bhUyAMsaM_vA_niyamamichChann.md">
+
+<details><summary>Bühler</summary>
+
+1. If he desires (to perform) very great austerities, he (shall not make a hoard of grain, but) collect food every day only, morning and evening, in his vessel. [^1] 
+
+[^1]:  23. The following rules apply to a solitary hermit.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+भूयांसं वा नियममिच्छन्नन्वहमेव पात्रेण सायंप्रातरर्थमाहरेत् ॥ १ ॥  
+
+**टीका**  
+इदमेकाकिनो वानप्रस्थस्य । भूयासं नियममिच्छन्न सस्यं सञ्चिनुयात् । किं तर्हि ? अन्वहमेव पात्रेण येनकेनचित् सायंप्रातश्चाऽर्थमशनीयमात्रमाहरेत् वानप्रस्थेभ्य एव ॥१॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/23/02_tato_mUlaiH_phalaiH.md">
+
+ततो मूलैः फलैः पर्णैस् तृणैर् इति वर्तयंश् चरेद्  
+अन्ततः प्रवृत्तानि +++(=स्वयम्पतितानि)+++,  
+ततोऽपो वायुम् आकाशम्  
+इत्य् अभिनिश्रयेत्।  
+तेषामुत्तर उत्तरः संयोगः फलतो विशिष्टः २
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/23/02_tato_mUlaiH_phalaiH.md">
+
+<details><summary>Bühler</summary>
+
+2. Afterwards he shall wander about, sustaining his life with roots, fruits, leaves, and grass (which he [^2]  collects). Finally (he shall content himself with) what has become detached spontaneously. Then he shall live on water, then on air, (and finally) upon ether. Each succeeding mode of subsistence procures greater rewards.
+
+[^2]:  These Sūtras are repeated in order to show that, according to, the opinion of those who allow hermits to live with their families, the end should be the same.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+ततो मूलैः फलैः पर्णैस्तृणैरिति वर्तयंश्चरेदन्ततः प्रवृत्तानि ततोऽपो वायुमाकाशमित्यभिनिश्रयेत् । तेषामुत्तर उत्तरस्संयोगः फलतो विशिष्टः ॥२॥  
+
+**प्रस्तावः**  
+एवं कियन्तचित्कालं वर्तयित्वा—  
+
+**टीका**  
+सर्वं गतम् ॥२॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/23/03_atha_purANe_shlokAvudAharanti.md">
+
+अथ पुराणे श्लोकाव् उदाहरन्ति ३
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/23/03_atha_purANe_shlokAvudAharanti.md">
+
+<details><summary>Bühler</summary>
+
+3. Now they quote (the following) two verses from a Purāṇa: [^3] 
+
+[^3]:  'The "orders" have been described. Now, giving conflicting opinions, he discusses which of them is the most important.'--Haradatta.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+अथ पुराणे श्लोकावुदाहरन्ति–   
+अष्टाशीतिसहस्राणि ये प्रजामीषिर ऋषयः ।  
+दक्षिणेनाऽर्यम्णः पन्थानं ते श्मशानानि भेजिरे ॥३॥  
+
+**प्रस्तावः**  
+निरूपिता आश्रमाः। अथेदानीं पक्षप्रतिपक्षरूपेण तेषामेव प्राधान्यमप्राधान्यं च निरूप्यते—  
+
+**टीका**  
+अष्टाशीतिसहस्राणि ये गृहस्था ऋषयः प्रजामीषिरे प्रजातिमभ्यनन्दन् ते अर्यम्णो यो दक्षिणेन पन्थाः दक्षिणायनमार्गः तं प्राप्य छान्दोग्योक्तेन [^१]धूमादिमार्गेण गत्वा पुनरपि सम्भूय श्मशानानि भेजिरे मरणं प्रतिपेदिरे। जायस्व म्रियस्वेत्याजीवं जीवभावमापेदिर इति गृहस्थानां निन्दा ॥३॥  
+
+[^१]: छा० उ० ५. १०. ३-६
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/23/04_aShTAshItisahasrANi_ye_prajAmIshira.md">
+
+अष्टाशीति-सहस्राणि ये  
+प्रजाम् ईशिर +++(=अभ्यनन्दन्)+++ ऋर्षयः ।  
+दक्षिणेनार्यम्णः पन्थानं  
+ते श्मशानानि भेजिरे ४
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/23/04_aShTAshItisahasrANi_ye_prajAmIshira.md">
+
+<details><summary>Bühler</summary>
+
+4. Those eighty thousand sages who desired offspring passed to the south by Aryaman's road and obtained burial-grounds. [^4] 
+
+[^4]:  This verse and the next are intended to disparage the order of householders. Haradatta explains 'burial-grounds' by 'new births which lead to new deaths;' but see below, Sūtra 10. See also Yājñ. III, 186-187.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+अष्टाशीतिसहस्राणि ये प्रजां नेषिर ऋषयः ।  
+उत्तरेणाऽर्यम्णः पन्थानं तेऽमृतत्वं हि कल्पते ॥ ४॥  
+
+**टीका**  
+ये[^२]तु प्रजातिं नाभ्यनन्दन् ते उत्तरायणमार्गेण[^३] अर्चिरादिमार्गेण गत्वा अमृतत्त्वं विभक्तिव्यत्ययः, अमृतत्वाय कल्पते वचनव्यत्ययः कल्पन्ते समर्थास्सम्पद्यन्ते ॥४॥  
+
+[^२]: प्रजा. इति च.पु.  
+
+[^३]: छा० उ० ५.१०.१,२
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/23/05_aShTAshItisahasrANi_ye_prajAn.md">
+
+अष्टाशीतिसहस्राणि ये प्रजां नेषिरर्षयः ।  
+उत्तरेणार्यम्णः पन्थानं तेऽमृतत्वं हि कल्पते ५
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/23/05_aShTAshItisahasrANi_ye_prajAn.md">
+
+<details><summary>Bühler</summary>
+
+5. Those eighty thousand sages who desired no offspring passed by Aryaman's road to the north and obtained immortality.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+इत्यूर्ध्वरेतसां प्रशंसा ॥५॥
+
+**टीका**  
+गृहस्थादन्ये त्रयोऽपि ऊर्ध्वरेतसः। तेषामेषा प्रशंसेति ॥ ५ ॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/23/06_ityUrdhvaretasAm_prashaMsA.md">
+
+इत्यूर्ध्वरेतसां +++(=गृहस्थेतरेषाम्)+++ प्रशंसा ६
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/23/06_ityUrdhvaretasAm_prashaMsA.md">
+
+<details><summary>Bühler</summary>
+
+6. Thus are praised those who keep the vow of chastity.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+इत्यूर्ध्वरेतसां प्रशंसा ॥५॥
+
+**टीका**  
+गृहस्थादन्ये त्रयोऽपि ऊर्ध्वरेतसः। तेषामेषा प्रशंसेति ॥ ५ ॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/23/07_athApi_sankalpasiddhayo_bhavanti.md">
+
+अथापि संकल्प-सिद्धयो +++(=सङ्कल्पत एव सिद्धिः)+++ भवन्ति ७
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/23/07_athApi_sankalpasiddhayo_bhavanti.md">
+
+<details><summary>Bühler</summary>
+
+7. Now they accomplish also their wishes merely by conceiving them,
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+अथाऽपि सङ्कल्पसिद्धयो भवन्ति ॥ ६॥  
+
+**प्रस्तावः**  
+पुनरपि तेषामेव प्रकारान्तरेण प्रशंसा—  
+
+**टीका**  
+अथाऽपि अपि च सङ्कल्पादेव सिद्धयो भवन्ति तेषामूर्ध्वरेतसाम् ॥६॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/23/08_yathA_varSham_prajAdAnan.md">
+
+यथा वर्षं, प्रजा-दानं,  
+दूरे दर्शनं, मनो-जवता,  
+यच्चान्यद् एवं युक्तम् ८
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/23/08_yathA_varSham_prajAdAnan.md">
+
+<details><summary>Bühler</summary>
+
+8. For instance, (the desire to procure) rain, to bestow children, second-sight, to move quick as thought, and other (desires) of this description.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+यथा वर्षं प्रजा दानं दूरदर्शनं मनोजवता यच्चान्यदेवंयुक्तम् ॥ ७ ॥  
+
+**प्रस्तावः**  
+तत्रोदाहरणम् -
+
+**टीका**  
+यदि महत्यामनावृष्टौ[^१] सत्यां 'वर्षतु देव' इति ते कामयेरन् तदा कामवर्षी पर्जन्यो भवति । यदि वा कश्चिदपुत्रमनुगृह्णीयुः-पुत्रोऽस्य जायतामिति स पुत्रवानेव भवति । यदि वा [^२]चोलेष्ववस्थितास्तदैव हिमवन्तं दिदृक्षेरन् तथैव तद्भवति। मनस इव जवो येषां ते मनोजवा तेषां भावो मनोजवता । यदि कामयेरन् अमुं देशमियत्यामेव कालकलायां प्राप्नुयामेति, ततो यावता कालेन मनस्तं देशं प्राप्नोति तावता तं देशं प्राप्नुयुरिति । यच्चान्यदेवंयुक्तम् रोगिणामारोग्यादि तदपि सङ्कल्पादेव तथा भवति ॥ ७॥  
+
+[^१]: सत्यां इति नास्ति च. पु.  
+
+[^२]: 'दूरेषु' इति. छ. पु.
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/23/09_tasmAchChrutitaH_pratyaxaphalatvAchcha_vishiShTAnAshramAnetAneke.md">
+
+तस्माच् छ्रुतितः, प्रत्यक्ष-फलत्वाच् च  
+विशिष्टान् आश्रमान् एतान् एके ब्रुवते ९
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/23/09_tasmAchChrutitaH_pratyaxaphalatvAchcha_vishiShTAnAshramAnetAneke.md">
+
+<details><summary>Bühler</summary>
+
+9. Therefore on account of (passages) of the revealed texts, and on account of the visible results, some declare these orders (of men keeping the vow of chastity to be) the most excellent.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+यस्मादेवम्—  
+तस्माच्छ्रुतितः प्रत्यक्षफलत्वाच्च विशिष्टानाश्रमानेतानेके ब्रुवते ॥ ८॥  
+
+**टीका**  
+तस्माच्छ्रुतितः 'यदहरेव विरजेत्तदहरेव प्रव्रजेदि'त्यादिश्रुत्यनुगतत्वादुक्तेन प्रकारेण प्रत्यक्षफलत्वाच्च एतानूर्ध्वरेतसामाश्रमान् विशिष्टान् गार्हस्थ्यादुत्कृष्टानेके ब्रुवत इति ॥ ८॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/23/10_traividyavRddhAnAn_tu_vedAH.md">
+
+त्रैविद्य-वृद्धानां तु  
+वेदाः प्रमाणम्  
+इति निष्ठा।  
+तत्र यानि श्रूयन्ते  
+व्रीहि-यव-पश्व्-आज्य-पयः-कपाल-पत्नी-संबन्धान्य्  
+उच्चैर् नीचैः कार्यम् इति  
+तैर् विरुद्ध आचारो ऽप्रमाणम् इति मन्यन्ते १०
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/23/10_traividyavRddhAnAn_tu_vedAH.md">
+
+<details><summary>Bühler</summary>
+
+10. But (to this we answer): It is the firm opinion of those who are well versed in the threefold sacred learning, that the Vedas are the highest authority. They consider that the (rites) which are ordered there to be performed with rice, yava, animals, clarified butter, milk, potsherds, (in conjunction) with a wife, (and accompanied) by loud or muttered (Mantras), must be performed, and that (hence) a rule of conduct which is opposed to these (rites) is of no authority.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+त्रैवृद्यवृद्धानां तु वेदाः प्रमाणमिति निष्ठा तत्र यानि श्रूयन्ते व्रीहियवपश्वाज्यपयःकपालपत्नीसम्बन्धान्युच्चैर्नीचैः कार्यमिति तैर्विरुद्ध आचारोऽप्रमाणमिति मन्यन्ते ॥ ९॥  
+
+**प्रस्तावः**  
+तदिदं गार्हस्थ्योत्कर्षप्रतिपादनेन निराकरोति—  
+
+**टीका**  
+त्र्यवयवा विद्या **त्रिविद्या** त्रयो वेदाः ।  
+तां ये पाठतश्चाऽर्थतश्च विदन्ति ते **त्रैविद्याः**।  
+तेषु पक्व-ज्ञानास् **त्रेविद्यवृद्धाः** ।  
+तेषां [^१]वेदशास्त्रविदां वेदा एव **प्रमाणम्** अतीन्द्रियेऽर्थ **इति, निष्ठा** निर्णयः ।  
+यथाह भगवान् जैमिनिः— [^२]'चोदनालक्षणोऽर्थो धर्मः, इति[^३] प्रत्यक्षमनिमित्तमि'ति च ।  
+ततश् च **तत्र** वेदे **यानि** कर्माणि श्रूयन्ते,  
+किंलक्षणानि ? व्रीहियवादिभिस् सम्बद्धानि  
+"उच्चैः ऋचा क्रियते, उपांशु यजुषे"त्येवंप्रकाराणि  
+**तैर् विरुद्ध आचारः** प्रमाणं न भवतीति मन्यन्ते ।  
+एतदुक्तं भवति— सर्वेषु वेदेषु सर्वासु च शाखासु अग्निहोत्रादीनि[^४] विश्वसृजामयनपर्यन्तानि  
+कर्माण्येव तात्पर्यतया विधीयन्ते ।  
+अतो गार्हस्थ्यम् एव श्रेष्ठम् ।  
+ऊध्वरेतसां त्वाश्रमास् तद्विरुद्धा  
+नैवाऽऽश्रयणीयाः यदि वेदाः प्रमाणम् इति ।  
+तथा च गौतमः-'ऐकाश्रम्यं त्वाचार्याः प्रत्यक्षविधानात् गार्हस्थ्यस्ये'ति । एवं गार्हस्थ्यं प्रशस्यते ॥९॥  
+
+[^१]: वेदशास्त्रार्थविदा इति छ. पु.  
+
+[^२]: जै० सू० १. १. २.  
+
+[^३]: जै० सू० १. १. ४.  
+
+[^४]:
+
+    सहस्रवत्सरसाध्यं सत्रं विश्वसृजामयनम् । अत्र संवत्सरशब्दो दिनपर इति मीमांसकाः । पू.मी. ६. ७.१३
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/23/11_yattu_shmashAnamuchyate_nAnAkarmaNAmeSho-nte.md">
+
+यत् तु श्मशानम् उच्यते  
++++("दक्षिणेनार्यम्णः पन्थानं ते श्मशानानि भेजिरे" इत्यस्मिन्)+++  
+नाना-कर्मणाम् एषोऽन्ते पुरुष-संस्कारो विधीयते ११
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/23/11_yattu_shmashAnamuchyate_nAnAkarmaNAmeSho-nte.md">
+
+<details><summary>Bühler</summary>
+
+11. But by the term burial-ground (in the text above given) it is intended to ordain the last rites for those who have performed many sacrifices, (and not to mean that dead householders become demons and haunt burial-grounds.) [^5] 
+
+[^5]:  The Sūtra is intended to remove the blame thrown on the order of householders by the verse quoted. Haradatta seems to have forgotten his former explanation of Śmaśānāni.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+यत्तु श्मशानमुच्यते नानाकर्मणामेषोऽन्ते पुरुषसंस्कारो विधीयते ॥ १० ॥  
+
+**प्रस्तावः**  
+श्मशानानि भेजिर इति निन्दां परिहरति—  
+
+**टीका**  
+यत्तु गृहस्थानां श्मशान श्रूयते स एष नानाकर्मणामग्निहोत्रादीनामन्ते पितृमेधाख्यः पुरुषसंस्कारो विधीयते । न तु पिशाचा भूत्वा श्मशानमेव सेवन्त इति ॥ १०॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/23/12_tataH_paramanantyam_phalaM.md">
+
+ततः परम् अनन्त्यं फलं स्वर्ग्य-शब्दं श्रूयते १२
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/23/12_tataH_paramanantyam_phalaM.md">
+
+<details><summary>Bühler</summary>
+
+12. The revealed texts declare that after (the burial follows) a reward without end, which is designated by the term 'heavenly bliss.'
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+ततः परमनन्त्यं फलं स्वर्ग्यशब्दं श्रूयते ॥१२॥  
+
+**प्रस्तावः**  
+कुत इत्याह—   
+
+**टीका**  
+ततः परं श्मशानकर्मणोऽनन्तरम्, अनन्त्यमपरिमितं स्वर्गशब्दवाच्यं फलं श्रूयते-'स एष यज्ञायुधी यजमानोऽञ्जसा स्वर्गं लोकमेती'ति । अनन्त्यं स्वर्ग्यमिति[^५] यकारश्छान्दसः उपजनः अपपाठो वा ॥१२॥  
+
+[^५]: यकारोपजनच्छान्दसः इति भवितुं युक्तम् ।  
+
+इत्यापस्तम्बधर्ममूत्रवृत्तौ द्वितीयप्रश्ने त्रयोविंशी कण्डिका ॥२३॥
+</details>
+
+</div>

@@ -1,0 +1,421 @@
++++
+title = "१३ स्त्री-पुत्र-दायादि"
++++
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/13/01_savarNA-pUrvashAstravihitAyAM_yathartu_gachChataH.md">
+
+सवर्णा-ऽपूर्व+++(=अनन्यव्यूढा)+++-शास्त्रविहितायां यथर्तु गच्छतः पुत्रास्तेषां कर्मभिः संबन्धः १
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/13/01_savarNA-pUrvashAstravihitAyAM_yathartu_gachChataH.md">
+
+<details><summary>Bühler</summary>
+
+1. Sons begotten by a man who approaches in the proper season a woman of equal caste, who has [^1]  not belonged to another man, and who has been married legally, have a right to (follow) the occupations (of their castes),
+
+[^1]:  13. 'Śāstravihitā (translated by "who has been married to him legally") means either "married according to the rites prescribed in the Śāstras," or "possessed of the qualities (which have been described) by (the rule of) the Śāstras, He shall not give his daughter to a man of the same Gotra," and in similar (passages).'Haradatta. See also Colebrooke, Digest, Book V, Text cxcix.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+सवर्णापूर्वशास्त्रविहितायां यथर्तु गच्छतः पुत्रास्तेषां कर्मभिस्सम्बन्धः ॥ १ ॥  
+
+**टीका**  
+सवर्णा चाऽसावपूर्वा च शास्त्रविहिता चेति कर्मधारयः । सवर्णा सजातीया, ब्राह्मणस्य ब्राह्मणीत्यादि । अपूर्वा । अनन्यपूर्वा अन्यस्मा अदत्ता, न विद्यते पूर्वः पतिरस्या इति । शास्त्रविहिता शास्त्रोक्तेन विवाहसंस्कारेण संस्कृता 'सगोत्राय दुहितरं न प्रयच्छे'( २. ११. १५) दित्यादिशास्त्रानुगुणा वा । एवम्भूतायां भार्यायां यथर्तु गृह्योक्तेन ऋतुगमनकल्पेन गच्छतो ये पुत्रा जायन्ते तेषां 'स्वकर्म ब्राह्मणस्ये' (२.१०.४)त्यादिना पूर्वमुक्तैः कर्मभिस्सम्बन्धो भवति । ( गच्छथ इति
+थकारोऽपपाठः) ॥१॥  
+
+- ( ) कुण्डलान्तर्गतो भागो नास्ति घ. ड. पुस्तकयोः ।
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/13/02_dAyenAvyatikramashchobhayoH.md">
+
+दायेनाव्यतिक्रमश् चोभयोः +++(मातापित्रोः)+++ २
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/13/02_dAyenAvyatikramashchobhayoH.md">
+
+<details><summary>Bühler</summary>
+
+2. And to (inherit the) estate,  
+3. If they do not sin against either (of their parents). [^2]
+
+[^2]:  Another (commentator) says, 'Neither of the parents shall pass them over at (the distribution of) the heritage. Both (parents) must leave their property to them.'--Haradatta. The text of the Sūtra admits of either explanation.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+दायेन चाऽव्यतिक्रमश्चोभयोः ॥ २ ॥  
+
+**टीका**  
+उभयोर्मातापित्रोर्दायेन च तेषां सम्बन्धो भवति अव्यतिक्रमश्च । च इति चेदर्थे अव्यतिक्रमश्चेत् , यदि ते मातरं पितरं च न व्यतिक्रमेयुः । व्यतिक्रमे तु दायहानिरिति ॥  
+अपर आह— 'उभयोरपि दायेन तेषां व्यतिक्रमो न कर्तव्यः । अवश्यं देयो दायस्तेभ्य इति ॥ २॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/13/03_pUrvavatyAmasaMskRtAyAM_varNAntare_cha.md">
+
+पूर्ववत्याम्, असंस्कृतायां, वर्णान्तरे च मैथुने दोषः ३
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/13/03_pUrvavatyAmasaMskRtAyAM_varNAntare_cha.md">
+
+<details><summary>Bühler</summary>
+
+4. If a man approaches a woman who had been married before, or was not legally married to him, or, belongs to a different caste, they both commit a sin.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+पूर्ववत्यामसंस्कृतायां वर्णान्तरे च मैथुने दोषः ॥३॥  
+
+**टीका**  
+अन्येन पाणिग्रहणेन तद्वती पूर्ववती । असंस्कृता विवाहसंस्काररहिता । वर्णान्तरं ब्राह्मणादेः क्षत्रियादिः । तेषु पूर्ववत्यादिषु मैथुने सति दोषो भवति । कस्य ? तयोरेव मिथुनीभवतोः ॥ ३ ॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/13/04_tatrApi_doShavAnputra_eva.md">
+
+तत्रापि दोषवान्पुत्र एव ४
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/13/04_tatrApi_doShavAnputra_eva.md">
+
+<details><summary>Bühler</summary>
+
+5. Through their (sin) their son also becomes sinful.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+तत्राऽपि दोषवान् पुत्र एव ॥ ४॥  
+
+**टीका**  
+तत्रेति सप्तम्यास्त्रल्[^१] 'इतराभ्योऽपि दृश्यन्त' इति । ताभ्यामुभाभ्यामपि पुत्र एवाऽतिशयेन दोषवान् । तत्र पूर्ववत्यामुत्पन्नौ कुण्डगोलकौ [^२] 'पत्यौ जीवति कुण्डस्स्यान्मृते भर्तरि गोलक' इति ।  
+असंस्कृतायामुत्पन्नस्य नामान्तरं नास्ति । किं तु दुष्टत्वमेव ।  
+
+[^१]: पा०सू० ५. ३. १४.  
+
+[^२]: म०स्मृ० ३. १७४.  
+
+वर्णान्तरे तु जात्यन्तरम् । तत्र गौतमः —  
+[^२१] अनुलोमाः पुनरनन्तरैकान्तरद्व्यन्तरासु जातास्सवर्णाम्बष्टोग्र निषाददौष्यन्तपारशवाः । प्रतिलोमास्तु सूतमागधायोगवक्षत्तृवैदेहकचण्डाला' इति । एवकारो दुहितृनिवृत्यर्थः । तथा च वसिष्ठः —  
+[^२२] 'पतितेनोत्पादितः पतितो भवत्यन्यत्र स्त्रियास्सा हि परगामिनी तामरिक्थामुपेयादिति । [^2३] स्त्रीरत्नं दुकुलादपी'ति मनुः ॥ ४ ॥  
+
+[^२१]: गौ०ध० ४ १६-१७  
+
+[^२२]: व० ध० १३, ६. मुद्रित व.ध. कोशेषु पाठभेदो दृश्यते ।  
+
+[^२३]: म० स्मृ० २. २३८
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/13/05_utpAdayituH_putra_iti.md">
+
+उत्पादयितुः पुत्र इति हि ब्राह्मणम् ५
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/13/05_utpAdayituH_putra_iti.md">
+
+<details><summary>Bühler</summary>
+
+6. A Brāhmaṇa (says), 'The son belongs to the begetter.' [^3] 
+
+[^3]:  See also Manu IX, 32 seq., where the same difference of opinion occurs.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+उत्पादयितुः पुत्र इति हि ब्राह्मणम् ॥ ५॥  
+
+**प्रस्तावः**  
+पुत्रेभ्यो दायभागं वक्ष्यन् अन्यस्य भार्यायामन्येनोत्पादितः किमुत्पादयितुः ? अहोस्वित् क्षेत्रिण इति विचारे निर्णयमाह —  
+
+**टीका**  
+न केवलं ब्राह्मणमेव । वैदिकगाथा अप्यत्रोदाहरन्तीत्याह—
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/13/06_athApyudAharanti_idAnImevAha~n_janaka.md">
+
+अथाप्युदाहरन्ति ।  
+इदानीमेवाहं जनक स्त्रीणामीर्ष्यामि नो पुरा ।  
+यदा यमस्य सादने जनयितुः पुत्रमब्रुवन् ६-१  
+
+रेतोधाः पुत्रं नयति परेत्य यमसादने ।  
+तस्माद्भार्यां रक्षन्ति बिभ्यन्तः पररेतसः ६-२  
+
+अप्रमत्ता रक्षथ तन्तुमेतं  
+मा वः क्षेत्रे परबीजानि वाप्सुः ।  
+जनयितुः पुत्रो भवति सांपराये  
+मोघं वेत्ता कुरुते तन्तुमेतम् ६ इति।  
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/13/06_athApyudAharanti_idAnImevAha~n_janaka.md">
+
+<details><summary>Bühler</summary>
+
+7. Now they quote also (the following Gāthā from the Veda): '(Having considered myself) formerly a father, I shall not now allow (any longer) my wives (to be approached by other men), since they have declared that a son belongs to the begetter in the world of Yama. The giver of the seed carries off the son after death in Yama's world; therefore they guard [^4]  their wives, fearing the seed of strangers. Carefully watch over (the procreation of) your children, lest stranger seed be sown on your soil. In the next world the son belongs to the begetter, an (imprudent) husband makes the (begetting of) children vain (for himself).'
+
+[^4]:  According to Haradatta this Gāthā gives the sentiments of a husband who neglected to watch his wives, and who had heard from those learned in the law that the sons or his unfaithful wives would in the next world belong to their natural fathers, and that be would not derive any spiritual benefit from their oblations. He adds that this verse does not refer to or prevent the appointment of a eunuch's wife or of a childless widow to a relation. He also quotes a passage from the Śrauta-sūtra 1, 9, 7, in which the dvipitā, 'the son of two fathers,' is mentioned. But Haradatta's view cannot be reconciled with the statements made below, II, 10, 27, 2-7, p. 132 where the Niyoga, is plainly forbidden. Baudhāyana, who (II, 2, 3, 34) quotes the same Gāthā, reads in the first line the vocative 'janaka' instead of the nominative 'janakaḥ,' and in the fifth line 'pare bījāni' instead of 'parabījāni.' The commentator Govindasvāmin adds that the verses are addressed by the Ṛṣi Aupajaṅghani to king Janaka of Videha. The translation of the first line must therefore run thus: 'O Janaka, now I am jealous of my wives, (though I was) not so formerly,' &c. Baudhāyana's readings are probably the older ones, and Govindasvāmin's explanation the right one. See also Colebrooke, Digest, Book V, Text ccli.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+अथाप्युदाहरन्ति —   
+इदानीमेवाहं [^४]जनकः स्त्रीणामीर्ष्यामि नो पुरा।  
+यदा यमस्य सादने जनयितुः पुत्रमब्रुवन् ।  
+रेतोधाः पुत्रं नयति परेत्य यमसादने ।  
+तस्माद्भार्यां रक्षन्ति बिभ्यन्तः पररेतसः ।  
+अप्रमत्ता रक्षथ तन्तुमेतं  
+मा वः क्षेत्रे परबीजानि वाप्सुः ।  
+जनयितुः पुत्रो भवति साम्पराये  
+मोघं वेत्ता कुरुते तन्तुमेतमिति ॥ ६ ॥  
+
+**टीका**  
+जनयितुः पुत्रः क्षत्रिणो वेति विवादे पराजितस्य क्षेत्रिणो वचनम् एतावन्तं कालमहं जनको मन्यमानः इदानीमेव स्त्रीणामीर्ष्यामि परपुरुषसंसर्गं न सहे । कदा इदानीम् ? यदा यमस्य सादने पितृलोके जनयितुः पुत्रो भवति पुत्रकृत्यं परलोकगतस्य जनयितुरेव न क्षेत्रिण इत्यब्रुवन् धर्मज्ञाः । उक्त एवार्थः किञ्चिद्विशेषेणोच्यते-रेतोधा बीजप्रदः पुत्रं नयति पुत्रदत्तं पिण्डादिकमात्मानं नयति प्रापयति । परेत्य मृत्वा । यमसादने यमलोके । तस्मात्कारणात् भार्यां रक्षन्ति पररेतसो बिभ्यन्तः । बिभ्यतः छान्दसो नुम् । अतो यूयमप्यप्रमत्ता अवहिता भूत्वा एतं तन्तुं प्रजासन्तानं रक्षथ । लोडर्थे लट् । रक्षतेत्यर्थः । किमर्थम् ? वः युष्माकम् क्षेत्रे परबीजानि पररेतांति मा वाप्सुः । व्यत्ययेनाऽयं कर्मणि कर्तृप्रत्ययः। मा वाप्सत उप्तानि मा भूवन् । मोप्येरन् ।
+
+[^४]: 'जनक' इति सम्बुध्यन्ततया पठित बौ. ध. २. २. ३४-३६
+
+कथमिति ? (अपर आह-परशब्दाज्जसो लुक् । परे पुरुषाः वः क्षेत्रे बीजानि मा वाप्सुरिति ।) यस्मात् साम्पराये परलोके जनयितुरेव पुत्रफलं भवति वेत्ता [^२१]परिणेता क्षेत्री तु एतं तन्तुं मोघं निष्प्रयोजनं कुरुते आत्मसात्करोति। इतिशब्दो गाथासमाप्तौ । एतच्च क्षेत्रिणोऽनुज्ञातमन्तरेण पुत्रोत्पादनविषयम् । यदा तु क्षेत्री वन्ध्यो रुग्णो वा प्रार्थयते मम क्षेत्रे पुत्रमुत्पादयति, यदा वा सन्तानक्षये विधवां नियुञ्जते यथा विचित्रवीर्यस्य क्षेत्रे सत्यवतीं व्यासेन । तदुत्पन्नः पुत्र उभयोरपि पुत्रो भवति— बीजिनः क्षेत्रिणश्च । द्व्यामुष्यायणश्च स भवति । तथाचाचार्य एवाह —   
+[^२२] 'यदि द्विपिता स्यादेकैकस्मिन् पिण्डे द्वौ द्वावुपलक्षये'दिति । याज्ञवल्क्योऽप्याह—  
+[^२३] 'अपुत्रेण परक्षेत्रे नियोगोत्पादितः सुतः ।  
+उभयोरप्यसौ रिक्थो पिण्डदाता च धर्मतः ॥ इति ।  
+नारदोऽपि—  
+[^२४]द्व्यामुष्यायणको दद्याद्वाभ्यां पिण्डोदके पृथक् ।  
+रिक्थादर्धं समादद्याद्बीजक्षेत्रवतोस्तथा ॥' इति ॥६॥  
+
+- () एतत्कुण्डान्तर्गतोभागः ख च पुस्तकयोरेवास्ति । तत्र 'कथमिति' इति नास्ति ।  
+
+[^२१]: 'भार्याया लब्धा' इति ख. च. पु.  
+
+[^२२]: आप० श्रौ० १. ९. ७.  
+
+[^२३]: या० स्मृ० २. १३०.  
+
+[^२४]: नार० स्मृ० १३. ४३.
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/13/07_dRShTo_dharmavyatikramas_sAhasam.md">
+
+दृष्टो धर्मव्यतिक्रमः साहसं च पूर्वेषाम् ७
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/13/07_dRShTo_dharmavyatikramas_sAhasam.md">
+
+<details><summary>Bühler</summary>
+
+8. Transgression of the law and violence are found amongst the ancient (sages).
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+दृष्टो धर्मव्यतिक्रमस् साहसं च पूर्वेषाम् ॥ ७ ॥  
+
+**प्रस्तावः**  
+यदि पूर्ववत्यादिषु मैथुने दोषः कथं तर्हि [^५] उचथ्यभारद्वाजौ व्यत्यस्य भार्ये जग्मतुः[^६] वसिष्ठश्चण्डालीमक्षमालाम् । [^७]प्रजापतिश्च स्वां दुहितरम् । तत्राऽऽह—  
+
+**टीका**  
+सत्यं दृष्टोऽयमाचारः पूर्वेषाम् । स तु धर्मव्यतिक्रमः, न धर्मः, गृह्यमाणकारणत्वात् । न चैतावदेव, साहसं च पूर्वेषां दृष्टम् । यथा[^८] जामदग्न्येन रामेण पितृवचनादविचोरण मातुश्शिरश्छिन्नम् ॥७॥  
+
+[^५]: महाभारते द्रष्टव्यम् ।  
+
+[^६]: म० स्मृ० ९. २३. महाभा० व० १३२. च द्रष्टव्यम् । अरुन्धत्या एवाक्षमालेति नामान्तरम् ।  
+
+[^७]: ता० ब्रा० ८, २. १०. द्रष्टव्यम् ।  
+
+[^८]: कथेयं महाभा० वन० ११६ अ. द्रष्टव्या ।
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/13/08_teShAn_tejovisheSheNa_pratyavAyo.md">
+
+तेषां तेजोविशेषेण प्रत्यवायो न विद्यते ८
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/13/08_teShAn_tejovisheSheNa_pratyavAyo.md">
+
+<details><summary>Bühler</summary>
+
+9. They committed no sin on account of the greatness of their lustre.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+[^२]तेषां तेजोविशेषेण प्रत्यवायो न विद्यते ॥ ८॥  
+
+**प्रस्तावः**  
+किमिदानी तेषामपि दोषः ? नेत्याह—  
+
+**टीका**  
+तादृश हि तेषां तेजः यदेवंविधैरपि पाप्मभिर्न प्रत्यवयन्ति । [^२] 'तद्यथैषीकातूलमग्नौ प्रोतं प्रदूयेत एवं हाऽस्य पाप्मानः प्रदूयन्ते इति [^३]श्रुतेः ॥ ८॥   
+
+[^१]: इदमनिमं सूत्रं पद्यात्मना निबद्ध तन्त्रवार्तिके।  
+
+[^२]: छान्दो० ५. २४.  
+
+[^३]: 'छान्दोग्ये श्रूयते' इत्यधिक ख. च. पु.
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/13/09_tadanvIxya_prayunjAnaH_sIdatyavaraH.md">
+
+तदन्वीक्ष्य प्रयुञ्जानः सीदत्यवरः ९
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/13/09_tadanvIxya_prayunjAnaH_sIdatyavaraH.md">
+
+<details><summary>Bühler</summary>
+
+10. A man of later times who seeing their (deeds) follows them, falls.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+तदन्वीक्ष्य प्रयुञ्जानस्सीदत्यवरः ॥ ९॥  
+
+**प्रस्तावः**  
+न चैतावता ऽर्वाचीनानामपि तथा प्रसङ्ग इत्याह—  
+
+**टीका**  
+तदिति[^४] 'नपुंसकमनपुंसकेने'त्येकशेष एकवद्भावश्च । तं व्यतिक्रमं तच्च साहसमन्वीक्ष्य दृष्ट्वा स्वयमपि तथा प्रयुञ्जानोऽवर इदानीन्तनः सीदति प्रत्यवैति । न ह्यग्निः सर्वं दहतीत्यस्माकमपि तथा शक्तिरिति ॥९॥  
+
+[^४]: पा० स० १. २. ६९.
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/13/10_dAna~N_krayadharmashchApatyasya_na.md">
+
+दानं क्रयधर्मश्चापत्यस्य न विद्यते १०
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/13/10_dAna~N_krayadharmashchApatyasya_na.md">
+
+<details><summary>Bühler</summary>
+
+11. The gift (or acceptance of a child) and the right to sell (or buy) a child are not recognised. [^5] 
+
+[^5]:  Haradatta thinks that, as most other Smṛtis enumerate the adopted son, and 'the son bought' in their lists of substitutes for lawful sons of the body, Āpastamba's rule can refer only to the gift or sale of an eldest son, or to the gift or sale of a child effected by a woman. Though it is possible that he may be right in his interpretation, it remains a remarkable fact that Āpastamba does not mention the 'twelve kinds of sons,' which are known to other Smṛtis.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+दानं क्रयधर्मश्चाऽपत्यस्य न विद्यते ॥ १० ॥  
+
+**प्रस्तावः**  
+पुत्रप्रसङ्गेनाऽऽह—  
+
+**टीका**  
+दानग्रहणेन विक्रयोऽपि गृह्यते, त्यागसामान्यात् । क्रयधर्म इति च प्रतिग्रहस्याऽपि ग्रहणम् । धर्मग्रहणात् स्वीकारसामान्याच्च । अपत्यस्य दानप्रतिग्रहक्रयविक्रया न कर्तव्याः । द्वादशविधेषु पुत्रेषु दत्तक्रीतयोरपि पुत्रयोर्मन्वादिभिः पठितवान्नाऽयं समान्येन प्रतिषेधः । किं तर्हि ? ज्येष्ठपुत्रविषयः, एकपुत्रविषयः, स्त्रीविषयो वा । तथा च वसिष्ठः —  
+[^५]न ज्येष्ठं पुत्रं दद्यात्प्रतिगृह्णीयाद्वा । न त्वेकं पुत्रं दद्यात् प्रतिगृह्णीयाद्वा स हि सन्तानाय पूर्वेषाम् । न स्त्री पुत्रं दद्यात् प्रतिगृह्णीयाद्वा अन्यत्राऽनुशानाद्भर्तुः । पुत्रं प्रतिग्रहीष्यन् बन्धूनाहूय राज्ञे निवेद्य निवेशनस्य मध्ये अग्निमुपसमाधाय सम्परिस्तीर्य व्याहृतीभिर्हुत्वाऽदूर बान्धवं सन्निकृष्टमेव प्रतिगृह्णीया'दिति । विश्वजिति च सर्वस्वदाने गवादिवदपत्यं न देयमिति । विक्रयस्तु सर्वत्र निषिद्धः । तत्र उपपात
+
+[^५]: व०ध० १५.३-६.  
+
+केषु याज्ञवल्क्य आह —  
+[^१] 'नास्तिक्यं व्रतलोपश्च सुतानां चैव विक्रयः ।' इति ।  
+बह्वृचब्राह्मणेऽपि शुनश्शेपाख्याने दृश्यते-[^२] स ज्येष्ठपुत्रं निगृह्णान उवाचे'त्यादि । पुत्रप्रकरणे अपत्यशब्दोपादानमपि ज्येष्ठपुत्रविषयत्वस्य लिङ्गम् । न पतन्त्यनेनेत्यपत्यमिति ।  
+[^३]ऋणमस्मिन् सन्नयत्यनृतत्वं च गच्छति ।  
+पिता पुत्रस्य जातत्य पश्येच्चेज्जीवतो मुखम् ॥” इति ॥१०॥  
+
+[^१]: या० स्मृ० प्रा० २३६,  
+
+[^२]: ऐ० ब्रा० ७.३.१५.  
+
+[^३]: ऐ० ब्रा० पं० ७.
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/13/11_vivAhe_duhitRmate_dAna~N.md">
+
+विवाहे दुहितृमते दानं काम्यं धर्मार्थं श्रूयते तस्माद्दुहितृमतेऽधिरथं शतं देयं तन्मिथुया कुर्यादिति ११-१  
+
+तस्यां क्रयशब्दः संस्तुतिमात्रम् । धर्माद्धि संबन्धः ११-२  
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/13/11_vivAhe_duhitRmate_dAna~N.md">
+
+<details><summary>Bühler</summary>
+
+12. It is declared in the Veda that at the time of marriage a gift, for (the fulfilment of) his wishes, should be made (by the bridegroom) to the father [^6]  of the bride, in order to fulfil the law. 'Therefore he should give a hundred (cows) besides a chariot; that (gift) he should make bootless (by returning it to the giver).' In reference to those (marriage-rites), the word 'sale' (which occurs in some Smṛtis is only used as) a metaphorical expression; for the union (of the husband and wife) is effected through the law.
+
+[^6]:  This Sūtra seems to be directed against Vasiṣṭha I, 36.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+विवाहे दुहितृमते दानं काम्यं धर्मार्थं श्रूयते तस्माद्दुहितृमतेऽतिरथं शतं देयं तन्मिथुयाकुर्यादिति तस्यां क्रयशब्दस्संस्तुतिमात्रं धर्माद्धि सम्बन्धः ॥१२॥  
+
+**टीका**  
+आर्षे विवाहे दुहितृमते दानं क्वचिद्वेदे श्रूयते । तस्माद्दुहितृमते रथेनाधिकं गवां शत देयम् । तच्च दुहितृमान् मिथुया कुर्यात् । मिथ्या कुर्यात् । [^४]मा देवानां मिथुयाऽकर्भागधेय"मिति दृश्यते । मिथुया कुर्यादिति कोऽर्थः वरायैव पुनर्दद्यादिति । तद्दानं काम्यं कामनिमित्तम् । 'यथा युक्तो विवाहस्तथायुक्ता प्रजा भवतीति (२.१०.४) ऋषितुल्याः पुत्राः यथा स्युरिति ततश्च धमार्थं न प्रजार्थम्, विक्रयार्थम् । यस्तु तस्यां विवाहक्रियायां क्रयशब्दः क्वचित् स्मृतौ दृश्यते, स संस्तुतिमात्रम् द्रव्यप्रसादसाम्यातू । न मुख्यक्रयत्वप्रतिपादनार्थम् । कुतः ? हि यस्मात् धर्मादेव हेतोः सम्बन्धो दम्पत्योरिति । आर्षे दुहितृमते मिथुनौ गावौ देयावित्यत्राप्येष एव न्यायः ।  
+अत्र मनुः —
+[^५] यासां नाऽऽददत्ते शुल्कं ज्ञातयो न स विक्रयः ।  
+अर्हणं तत्कुमारीणामानृशंस्यं च केवलम् ॥' इति ।  
+एतच्च सर्वं 'दानं क्रयधर्मश्चाऽपत्यस्य न विद्यत' इत्यस्य व्यभिचारनिवृत्यर्थं कर्तव्यमित्युक्तम् ॥ ११॥  
+
+[^४]: तै० सं० १, ३. ९.  
+
+[^५]: म०स्मृ० ३. ५४.
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/13/12_ekadhanena_jyeShTham.md">
+
+एकधनेन ज्येष्ठं तोषयित्वा १२
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/13/12_ekadhanena_jyeShTham.md">
+
+<details><summary>Bühler</summary>
+
+13. After having gladdened the eldest son by some (choice portion of his) wealth,
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+एकधनेन ज्येष्ठं तोषयित्वा ॥ १२ ॥
+
+**प्रस्तावः**  
+अथ दायविभागः —
+
+**टीका**  
+
+इत्यापस्तम्बधर्मसूत्रे द्वितीयप्रश्न त्रयोदशी कण्डिका ॥ १३ ॥
+</details>
+
+</div>

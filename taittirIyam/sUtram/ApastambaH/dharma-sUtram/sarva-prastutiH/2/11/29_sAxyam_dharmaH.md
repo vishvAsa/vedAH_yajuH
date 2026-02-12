@@ -1,0 +1,441 @@
++++
+title = "२९ साक्ष्यम्, धर्मः"
++++
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/29/01_prayojayitA_mantA_karteti.md">
+
+प्रयोजयिता मन्ता कर्तेति स्वर्गनरकफलेषु कर्मसु भागिनः १
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/11/29/01_prayojayitA_mantA_karteti.md">
+
+<details><summary>Bühler</summary>
+
+1. He who instigates to, he who assists in, and he who commits (an act, these three) share its rewards in heaven and its punishments in hell.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+प्रयोजयिता मन्ता कर्तेति स्वर्गनरकफलेषु कर्मसु भागिनः ॥१॥  
+
+**प्रस्तावः**  
+ननु[^१] शास्त्रफलं प्रयोक्तरि, तत्कथमन्यकृतमेनोऽन्यं स्पृशतीति, बहुविधत्वात् कर्तृभेदस्येत्याह—  
+
+[^१]: पूर्वमीमांसासूत्रस्या (जै० सू० ३. ७.१८.)नुवादोऽयम् ।
+
+**टीका**  
+धर्ममधर्मं वा प्रकुर्वाणं यः प्रयुंक्ते-इदमित्थं कुर्विति, स प्रयोजयिता । स चाऽनेकप्रकारः-आज्ञापकोऽभ्यर्थयिता अनुग्राहक इति । भृत्यादेर्निकृष्टस्य प्रवर्तना आज्ञा । गुर्वादेराराध्यस्य प्रवर्तनाऽभ्यर्थना । अनुग्रहो द्विविधा-उपदेशस्तत्सधर्माचरणं चेति । तत्र य इत्थमर्थमुपदिशति त्वं शत्रुमित्थं व्यापादय, धर्मार्जनेऽयं तेऽभ्युपाय इति स उपदेष्टा । यः पुनः केनचिज्जिघांसितं पलायमानं वा निरुणद्धि निरुद्धश्च हन्यते स निरोद्धाऽनुग्राहकः । मन्ता अनुमन्ता यस्याऽनुमतिमन्तरेणार्थो न निवर्तते स राजादिको धर्माधर्मयोरनुमन्ता । कर्ता साक्षाक्रियाया निर्वर्तकः । एते त्रयोऽपि स्वर्गफलेषु नरकफलेषु च कर्मसु धर्मेष्वधर्मेषु च भागिनः फलस्यांशभागिनः अंशभाजः । सर्वेषां च यथाकथंचित् कर्तृत्वम् ॥ १॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/29/02_yo_bhUya_Arabhate.md">
+
+यो भूय आरभते तस्मिन्फलविशेषः २
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/11/29/02_yo_bhUya_Arabhate.md">
+
+<details><summary>Bühler</summary>
+
+2. He amongst these who contributes most to the accomplishment (of the act obtains) a greater share of the result.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+यो भूय आरभते तस्मिन् फलविशेषः ॥२॥  
+
+**टीका**  
+तेषु प्रयोजकादिषु यो भूय आरभते यस्य व्यापारोऽर्थनिवृत्तावधिकमुपयुज्यते तस्मिन् फलविशेषो भवति ॥ २॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/29/03_kuTumbinau_dhanasyeshate.md">
+
+कुटुम्बिनौ धनस्येशते ३
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/11/29/03_kuTumbinau_dhanasyeshate.md">
+
+<details><summary>Bühler</summary>
+
+3. Both the wife and the husband have power over (their) common property. [^1] 
+
+[^1]:  29. 'Though this is so, still the wife cannot spend (money) without the permission of her husband, but the husband can do (so without the consent of his wife). That may be known by Sūtra II, 6, 14, 11, "They do not declare it to be a theft if the wife spends money for a good reason during the absence of her husband."'--Haradatta.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+कुटुम्बिनौ धनस्येशाते ॥३॥  
+
+**प्रस्तावः**  
+यद्यप्येवम्—  
+
+**टीका**  
+कुटुम्बिनौ दम्पती। तौ धनस्य परिग्रहे विनियोगे च ईणाते । यद्यप्येवं, तथापि भर्तुरनुशया विना स्त्री न विनियोक्तुं प्रभवति । भर्ता तु प्रभवति । तदेतेन वेदितव्यं 'न हि भर्तुर्विप्रवासे नैमित्तिके दाने स्तेयमुपदिशन्ती'ति (२.१४. २०) ॥ ३॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/29/04_tayoranumate-nye-pi_taddhiteShu_varteran.md">
+
+तयोरनुमतेऽन्येऽपि तद्धितेषु वर्तेरन् ४
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/11/29/04_tayoranumate-nye-pi_taddhiteShu_varteran.md">
+
+<details><summary>Bühler</summary>
+
+4. By their permission, others also may act for their good (in this and the next world, even by spending money). [^2] 
+
+[^2]:  'Others, i.e. the sons and the rest.'--Haradatta.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+तयोरनुमतेऽन्येऽपि तद्धितेषु वर्तेरन् ॥ ४ ॥  
+
+**टीका**  
+तयोर्दम्पत्योरनुमतेऽनुमतौ सत्यामन्येऽपि पुत्रादयः तयोरैहिकेष्वामुष्मिकेषु च हितेषु वर्तेरन् द्रव्यविनियोगेनाऽपि ॥४॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/29/05_vivAde_vidyAbhijanasampannA_vRddhA.md">
+
+विवादे विद्याभिजनसंपन्ना वृद्धा मेधाविनो धर्मेष्वविनिपातिनः ५
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/11/29/05_vivAde_vidyAbhijanasampannA_vRddhA.md">
+
+<details><summary>Bühler</summary>
+
+5. Men of learning and pure descent, who are aged, clever in reasoning, and careful in fulfilling the duties (of their caste and order, shall be the judges) in lawsuits. [^3] 
+
+[^3]:  Yājñ. II, 2.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+विवादे विद्याभिजनसम्पन्ना वृद्धा मेधाविनो धर्मेष्वविनिपातिनः ॥ ५ ॥  
+
+**टीका**  
+अर्थिप्रत्यर्थिनोर्विप्रतिषिद्धो वादो विवादः । तत्र विद्यादिगुणसंयुक्ता निर्णेतारस्स्युरिति वाक्यशेषः । विद्या अध्ययनसम्पत्, अध्ययनसहितं शास्त्रज्ञानं वा । अभिजनः कुलशुद्धिः । वृद्धाः परिणतवयसः । मेधाविनः ऊहापोहकुशलाः । धर्मेषु वर्णाश्रमप्रयुक्तेषु अविनिपातिनः, विनिपातः प्रमादः तद्रहिताः ॥५॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/29/06_sandehe_lingato_daiveneti.md">
+
+संदेहे लिङ्गतो +++(=अनुमानेन)+++ दैवेनेति विचित्य ६
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/11/29/06_sandehe_lingato_daiveneti.md">
+
+<details><summary>Bühler</summary>
+
+6. In doubtful cases (they shall give their decision) after having ascertained (the truth) by inference, ordeals, and the like (means). [^4] 
+
+[^4]:  'And the like, i.e. by cross-examination, &c.'--Haradatta.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+सन्देहे लिङ्गतो देवेनेति विचित्य ॥ ६ ॥  
+
+**टीका**  
+ते च निर्णयन्तस्सन्देहस्थलेषु लिङ्गतोऽतुमानेन दैवेन तप्तमाषादिना इतिशब्दः प्रकारे । यच्चान्यदेवंयुक्तं वचनव्याघातादि तेन च विचित्यार्थस्थितिमन्विष्य निर्णेतारस्स्युरित्यध्याहृतेन वाक्यपरिसमाप्तिः ॥६॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/29/07_puNyAhe_prAtaragnAviddhe.apAmante.md">
+
+पुण्याहे प्रातरग्नाविद्धे ऽपामन्ते राजवत्य् उभयतः +++(उभयपक्षाभ्याम्)+++ समाख्याप्य सर्वानुमते मुख्यः सत्यं प्रश्नं ब्रूयात् ७
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/11/29/07_puNyAhe_prAtaragnAviddhe.apAmante.md">
+
+<details><summary>Bühler</summary>
+
+7. A person who is possessed of good qualities (may be called as a witness, and) shall answer the questions put to him according to the truth on an auspicious day, in the morning, before a kindled fire, standing near (a jar full of) water, in the presence of the king, and with the consent of all (of both parties and of the assessors), after having been exhorted (by the judge) to be fair to both sides. [^5] 
+
+[^5]:  Manu VIII, 87 seq.; Yājñ. II, 68-75.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+पुण्याहे प्रातरग्नाविद्धेऽपामन्ते राजवत्युभयतस्समाख्याप्य सर्वानुमते मुख्यस्सत्यं प्रश्नं ब्रूयात् ॥७॥  
+
+**प्रस्तावः**  
+अथ साक्ष्यविधिः—  
+
+**टीका**  
+पुण्याहो देवनक्षत्रम् , प्रातर्मध्याह्नादिषु अग्नाविद्धे अग्निमिध्वा तत्समीपे अपामन्ते उदकमुपनिधाय तत्समीपे राजवति राजाधिष्ठिते सदसि । राजग्रहणं प्राड्विवाकादेरुपलक्षणम् । उभयत उभयोरर्थिप्रत्यर्थिनोस्समाख्याप्य किमहं युवयोः प्रमाणभूतः साक्षीत्यात्मानं ख्यापयित्वा । यदि वा उभयतः उभयोरपि पक्षयोस्सत्यवचने च असत्यवचने च साक्षिणो यद्भावि फलं तत्—  
+सत्यं ब्रूह्यनृतं त्यक्त्वा सत्येन स्वर्गमेष्यसि ।  
+[^१]अनृतेन महाघोरं नरकं प्रतिपस्यसे ॥  
+
+[^१]: उक्त्वाऽनृतं. इति. च. पु.  
+
+इत्यादिना प्रकारेण समाख्याप्य प्राड्विवाकादिभिः पृष्ट इति शेषः । सर्वानुमते अर्थिप्रत्यर्थिनोस्सभ्यानां चाऽनुमतौ सत्यां सभ्यो मुख्यः साक्षिगुणैरुपेतो दोषैश्च वर्जितस्साक्षी प्रश्नं पृष्टमर्थ सत्यं यथाऽऽत्मना ज्ञातं तथा ब्रूयात् ॥ ७ ॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/29/08_anRte_rAjA_daNDam.md">
+
+अनृते राजा दण्डं प्रणयेत् ८
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/11/29/08_anRte_rAjA_daNDam.md">
+
+<details><summary>Bühler</summary>
+
+8. If (he is found out speaking) an untruth, the king shall punish him. [^6] 
+
+[^6]:  Manu VIII, 119 seq.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+अनृते राजा दण्डं प्रणयेत् ॥ ८॥  
+
+**टीका**  
+साक्षिणाऽनृतमुक्तमिति प्रतिपन्ने राजा[^१] दण्डं प्रणयेत् ।  
+
+अत्र मनुः—  
+"[^२]यस्य दृश्येत् सप्ताहा[^३]दुक्तसाक्ष्यस्य साक्षिणः ।  
+रोगोऽग्निर्ज्ञातिमरणं [^४]दाप्यो दण्ड च तत्समम् ॥” इति ॥ ८॥  
+
+[^१]: तं दण्डयेत् इति क. पु.  
+
+[^२]: म०स्मृ० ८. १०८,  
+
+[^३]: उक्तवाक्यस्य इति च पु.  
+
+[^४]: ऋणं दाप्यो दम च सः इति च.पु. मुद्रितपुस्तकेषु च।
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/29/09_narakashchAtrAdhikaH_sAmparAye.md">
+
+नरकश्चात्राधिकः सांपराये ९
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/11/29/09_narakashchAtrAdhikaH_sAmparAye.md">
+
+<details><summary>Bühler</summary>
+
+9. Besides, in that case, after death, hell (will be his punishment). [^7] 
+
+[^7]:  Manu VIII, 89 seq.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+नरकश्चाऽत्राधिकः साम्पराये ॥ ९॥  
+
+**प्रस्तावः**  
+न केवलमसत्यवचने राजदण्डः, किं तर्हि ?  
+
+**टीका**  
+साम्परायः परलोकः, तत्र नरकश्च भवति, न तु,  
+[^५] राजभिर्धृतदण्डास्तु कृत्वा पापानि मानवाः ।  
+निर्मलास्स्वर्गमायान्ति सन्तस्सुकृतिनो यथा ॥  
+इत्यस्यायं विषय इति ॥९॥  
+
+[^५]: म० स्मृ० ८. ३१८,
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/29/10_satye_svargaH_sarvabhUtaprashaMsA.md">
+
+सत्ये स्वर्गः सर्वभूतप्रशंसा च १०
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/11/29/10_satye_svargaH_sarvabhUtaprashaMsA.md">
+
+<details><summary>Bühler</summary>
+
+10. If he speaks the truth, (his reward will be) heaven and the approbation of all created beings. [^8] 
+
+[^8]:  Manu VIII, 81 seq.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+सत्ये स्वर्गस्सर्वभूतप्रशंसा च ॥ १० ॥  
+
+**टीका**  
+सत्य उक्ते स्वर्गो भवति । सर्वाणि च भूतान्येनं प्रशसन्ति अपि देवाः ॥१०॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/29/11_sA_niShThA_yA.md">
+
+सा निष्ठा या विद्या स्त्रीषु शूद्रेषु च ११
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/11/29/11_sA_niShThA_yA.md">
+
+<details><summary>Bühler</summary>
+
+11. The knowledge which Śūdras and women possess is the completion (of all study). [^9] 
+
+[^9]:  Manu II, 223. The meaning of the Sūtra is, that men ought not to study solely or at first such Śāstras as women or Śūdras also learn, but that at first they must study the Veda. See Manu II, 168. The knowledge which women and Śūdras possess is dancing, music, and other branches of the Arthaśāstra.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+सा निष्ठा या विद्या स्त्रीषु शुद्रेषु च ॥११॥  
+
+**टीका**  
+स्त्रीषु शूद्रेषु च या विद्या सा निष्ठा समाप्तिस्तस्यामप्यधिगतायां विद्याकर्म परितिष्ठतीति ॥ ११ ॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/29/12_AtharvaNasya_vedasya_sheSha.md">
+
+आथर्वणस्य वेदस्य शेष इत्युपदिशन्ति १२
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/11/29/12_AtharvaNasya_vedasya_sheSha.md">
+
+<details><summary>Bühler</summary>
+
+12. They declare, that (this knowledge) is a supplement of the Atharva-Veda.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+आथर्वणस्य वेदस्य शेष इत्युपदिशन्ति ॥ १२ ॥  
+
+**टीका**  
+अथर्वणा प्रोक्तमधीयते ये ते आथर्वणिकाः । वसन्तादिभ्यष्ठक् । तेषां समाम्नायः । "आथर्वणिकस्येकलोपश्च" आथर्वणः । तस्य वेदस्य शेष इत्युपदिशन्ति धर्मज्ञाः-या विद्या स्त्रीषु शूद्रेषु चेति ॥ १२॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/29/13_kRchChrA_dharmasamAptiH_samAmnAtena.md">
+
+कृच्छ्रा धर्मसमाप्तिः समाम्नातेन । लक्षणकर्मणात्तु समाप्यते १३
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/11/29/13_kRchChrA_dharmasamAptiH_samAmnAtena.md">
+
+<details><summary>Bühler</summary>
+
+13. It is difficult to learn the sacred law from (the letter of) the Vedas (only); but by following the indications it is easily accomplished.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+कृच्छ्रा धर्मसमाप्तिस्समाम्नानेन लक्षणकर्मणा तु समाप्यते ॥ १३ ॥  
+
+**टीका**  
+समाम्नानं प्रतिपदपाठः । तेन धर्मसमाप्तिः कृच्छ्रा न शक्या कर्तुम् । किं तु लक्षणकर्मणा समाप्यते येन सामान्येन भिन्नानामध्यधिगमो भवति तल्लक्षणं, तस्य कर्मणा करणेन समाप्यते । कर्मणात्त्विति द्वितकारपाठोऽयमार्षः । आदिति वा निपातस्य प्रश्लेषः । स च सद्य इत्यस्यार्थे द्रष्टव्यः ॥ १३ ॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/29/14_tatra_laxaNam_sarvajanapadeShvekAntasamAhitamAryANAM.md">
+
+तत्र लक्षणम् । सर्वजनपदेष्वेकान्तसमाहितमार्याणां वृत्तं सम्यग्विनीतानां वृद्धानामात्मवतामलोलुपानामदाम्भिकानां वृत्तसादृश्यं भजेत । एवमुभौ लोकावभिजयति १४
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/11/29/14_tatra_laxaNam_sarvajanapadeShvekAntasamAhitamAryANAM.md">
+
+<details><summary>Bühler</summary>
+
+14. The indications for these (doubtful cases are), 'He shall regulate his course of action according to the conduct which is unanimously recognised in all countries by men of the three twice-born castes, who have been properly obedient (to their teachers), who are aged, of subdued senses, neither given to avarice, nor hypocrites. Acting thus he will gain both worlds.' [^10] 
+
+[^10]:  See above, I, 7, 20, 8 and 9.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+तत्र लक्षणम् ॥ १४॥  
+
+**सूत्रम्**  
+सर्वजनपदेष्वेकान्तसमाहितमार्याणां वृत्तं सम्यग्विनीतानां वृद्धानामात्मवतामलोलुपानामदाम्भिकानां वृत्तसादृश्यं भजेत एवमुभौ लोकावमिजयति ॥ १५॥  
+
+**टीका**  
+
+पूर्वेण गतम् ॥ १५ ॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/29/15_strIbhyaH_sarvavarNebhyashcha_dharmasheShAnpratIyAdityeka.md">
+
+स्त्रीभ्यः सर्ववर्णेभ्यश्च धर्मशेषान्प्रतीयादित्येक इत्येके १५
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/11/29/15_strIbhyaH_sarvavarNebhyashcha_dharmasheShAnpratIyAdityeka.md">
+
+<details><summary>Bühler</summary>
+
+15. Some declare, that the remaining duties (which have not been taught here) must be learnt from women and men of all castes.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+स्त्रीभ्यस्सर्ववर्णेभ्यश्च धर्म शेषान्प्रतीयादित्येक इत्येके ॥ १६ ॥  
+
+**टीका**  
+उक्तव्यतिरिक्ता ये धर्मास्ते धर्मशेषास्तान् स्त्र्यादीनामपि सकाशात् प्रतायादित्येके मन्यन्ते । ते च प्रतिजनपदं प्रतिकुलं च भिन्नास्तथैव प्रतिपत्तव्याः । तत्र द्राविडाः कन्यामेषस्थे सवितर्यादित्यपूजामाचरन्ति भूमौ मण्डलमालिख्य, इत्यादीन्युदाहरणानि । द्विरुक्तिरध्यायपरिसमाप्त्यर्था ॥ १६ ॥  
+
+इत्यापस्तम्बधर्मसूत्रवृत्तौ द्वितीयप्रश्ने एकोनविंशी कण्डिका ॥ २९॥  
+
+इति चाऽऽपस्तम्बधर्मसूत्रवृत्तौ श्रीहरदत्तमिश्रविरचितायामुज्ज्वलायां
+द्वितीयप्रश्ने एकादशः पटलः ॥ ११ ॥  
+
+समाप्तो द्वितीयः प्रश्नः ॥
+
+समाप्तमिदमुज्वलोज्वलितमापस्तम्बधर्मसूत्रम् ॥
+</details>
+
+</div>
+
+   
+
+इत्येकादशः पटलः
+
+इति द्वितीयोऽध्यायः
+
+समाप्तं चेदमापस्तम्बीयधर्मसूत्रम्

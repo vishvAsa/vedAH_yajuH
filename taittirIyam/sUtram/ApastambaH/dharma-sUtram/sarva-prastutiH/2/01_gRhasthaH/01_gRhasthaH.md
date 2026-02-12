@@ -1,0 +1,677 @@
++++
+title = "०१ गृहस्थः"
++++
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/01_pANigrahaNAdadhi_gRhamedhinorvratam.md">
+
+पाणिग्रहणादधि गृहमेधिनोर्व्रतम् १
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/01/01/01_pANigrahaNAdadhi_gRhamedhinorvratam.md">
+
+<details><summary>Bühler</summary>
+
+1. After marriage the rites prescribed for a householder and his wife (must be performed). [^1] 
+
+[^1]:  1. According to Haradatta, this rule is intended to refute the opinion of those who hold that the sacred household-fire may be kept, and the prescribed offerings therein may be performed, either from the time of the marriage, or after the division of the family estate. He also states that the use of the dual gṛhamedhinoḥ indicates that husband and wife must perform the rites conjointly. Manu III, 67.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+पाणिग्रहणादधि गृहमेधिनोव्रतम् ॥१॥  
+
+**टीका**  
+पूर्वस्मिन् प्रश्न आद्ययो' पटलयोः प्रायेण ब्रह्मचारिणो धर्मा उक्ताः। इतरेष्वष्टसु सर्वाश्रमाणाम् । एकादशे समावृत्तस्य । इदानीं पाणिग्रहणादारभ्य कर्तव्यानि कर्माण्युच्यन्ते । पाणिर्यस्मि[^१]न्नहनि गृह्यते तत्पाणिग्रहणम्[^२] । अधिशब्द ऊर्ध्वार्थे वर्तते । तस्मादूर्ध्वं गृहमेहधिनोर्गृहस्थाश्रमवतोः यद्व्रतं नियतं कर्तव्यम्, जातावेकवचनम्, तदुच्यते । 'पाणिग्रहणादधी'ति वचनं[^३] भार्यादिरग्निर्दायादिर्वे'ति शास्त्रान्तरोक्तो विकल्पो मा भूदिति । 'गृहमेधिनो'रिति द्विवचनमन्यतरमरणे मा भूदिति[^४] । वैश्वदेवं तु विधुरा अपि कुर्वन्ति ॥ १॥
+
+[^१]: यस्मिन् कर्मणि इति. क. ड. पु.  
+
+[^२]: चतुर्थीकर्म्मान्तो विवाहः इत्यधिकं ड. पु.  
+
+[^३]: गौ० ध० ५. ७  
+
+[^४]: अनेकभार्यस्य एकस्यामपि सत्यां भवत्येव । अनेकाश्रितस्याऽधिकारस्य विद्यमानत्वाच्छास्त्रान्तरत्वाच्च । इत्यधिकं क. पु.
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/02_kAlayorbhojanam.md">
+
+कालयोर्भोजनम् २
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/01/01/02_kAlayorbhojanam.md">
+
+<details><summary>Bühler</summary>
+
+2. He shall eat at the two (appointed) times, (morning and evening) [^2] 
+
+[^2]:  Haradatta thinks that this Sūtra is intended to prevent householders from having more than two meals a day, and to keep them from gluttony. Others are of opinion that its object is to keep householders from excessive fasting, and to make them perform the Prāṇāgnihotra at either meal. At the Prāṇāgnihotra the sacrificer eats five mouthfuls invoking successively, whilst he p. 100 eats, the five vital airs. At the first mouthful he says, 'To Prāṇa svāhā;' at the second, 'To Apāna svāhā,' &c.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+कालयोर्भोजनम् ॥ २ ॥  
+
+**टीका**  
+कालयोरुभयोरपि भोजनं कर्तव्यम्-सायं प्रातश्च, नाऽन्तरेति परिसङ्ख्येयम्, भोजनस्य रागप्राप्तत्वात् । मानवे च स्पष्टमुक्तम्—  
+[^५] सायं प्रातर्द्विजातीनामशनं श्रुतिचोदितम् ।  
+नाऽन्तरा भोजनं कुर्यादग्निहोत्रसमो विधिः ॥' इति ।  
+अन्ये तु नियमं मन्यन्ते[^६] शक्तौ सत्यां गृहमेधिनोरुभयोरपि कालयोरवश्यं भोक्तव्यं प्राणाग्निहोत्रस्याऽलोपायेति ।  
+
+[^५]: वचनमिदं मुद्रितमनुस्मृतिकोशेषु नाऽस्ति । परं तु बहुषु निबन्धेषु परं मानवत्वेनोपन्यस्तम् ।  
+
+[^६]: शक्तौ सत्यां कालयोर्वर्जने च प्राणाग्निहोत्रलोपः । तस्यालोपाय कालयोरवश्यं भोजनं कर्तव्यमिति द. पुस्तके पाठः ।   
+
+तथा च बौधायनः—  
+[^१] 'गृहस्थो ब्रह्मचारी वा योऽनश्नंस्तु तपश्चरेत् ।  
+प्राणाग्निहोत्रलोपेन ह्यवकीर्णी भवेत्तु सः ॥ इति ।  
+[^२]अन्यत्र प्रायश्चित्तात् । प्रायश्चित्ते तु तदेव विधानमिति ॥२॥  
+
+[^१]: बौ०ध० २. ७ २४  
+
+[^२]: अयं भागो घ. पुस्तके नास्ति ।
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/03_atRptishchAnnasya.md">
+
+अतृप्तिश्चान्नस्य ३
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/01/01/03_atRptishchAnnasya.md">
+
+<details><summary>Bühler</summary>
+
+3. And he shall not eat to repletion.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+अतृप्तिश्चाऽन्नस्य ॥ ३ ॥  
+
+**टीका**  
+सुहितार्थयोगे करणे षष्ठी भवति । [^३]'पूरणगुणसुहितार्थे'ति ज्ञापनात् । अनेन तृप्तिं न गच्छताम् । यावत्तृप्ति न भोक्तव्यम् ॥३॥  
+
+[^३]: पा० सू० २. २. ११
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/04_parvasu_chobhayor_upavAsaH.md">
+
+पर्वसु चोभयोर् उपवासः ४
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/01/01/04_parvasu_chobhayor_upavAsaH.md">
+
+<details><summary>Bühler</summary>
+
+4. And both (the householder and his wife) shall fast on (the days of) the new, and full moon,
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+पर्वसु चोभयोरुपवासः ॥ ४॥  
+
+**टीका**  
+पक्षसन्धिः पर्व । इह तु तद्युक्तमहर्गृह्यते । तेषु पर्वसूभयोर्दम्पत्योरुपवासः कर्तव्यः । उपवासो भोजनलोपः ॥ ४॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/05_aupavastam_eva_kAlAntare.md">
+
+औपवस्तम् एव कालान्तरे भोजनम् ५
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/01/01/05_aupavastam_eva_kAlAntare.md">
+
+<details><summary>Bühler</summary>
+
+5. To eat once (on those days in the morning) that also is called fasting. [^3] 
+
+[^3]:  Āśv. Gṛ. Sū. I, 10, 2.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+औपवस्तमेव कालान्तरे भोजनम् ॥ ५ ॥  
+
+**प्रस्तावः**  
+जातिविशेषादुभयोरपि कालयोः प्राप्तावाह—  
+
+**टीका**  
+यत्कालान्तरे एकस्मिन् काले भोजनं तदप्यौ[^४]पवस्तमेव उपवास एव । [^५] 'औपवस्तं तूपवासः' इति निघण्टुः । तदपि दिवा, न रात्रौ; श्रोते तथा दर्शनात् [^६] न तस्य सायमश्नीयादिति । तदिह [^७] एवमत ऊर्ध्वंमित्यादि गृह्ये यदुक्तं तत्रत्य उपवासो व्याख्यातः ॥ ५ ॥  
+
+[^४]: 'वसु, स्तम्भ' इत्यस्माद्दैवादिकाद्भावे क्ते स्वार्थेऽणि च सति औपवस्तमिति रूपं, धातूनामनेकार्थत्वादभोजने वृत्तिरिति च वेदितव्यम् ।  
+
+[^५]: नामलि० का० २. ब्र. २८  
+
+[^६]: आप० श्रौ० ३.  
+
+[^७]: आप० गृ० ७. १७.
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/06_tRptish_chAnnasya.md">
+
+तृप्तिश् चान्नस्य ६
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/01/01/06_tRptish_chAnnasya.md">
+
+<details><summary>Bühler</summary>
+
+6. And they may eat (at that meal) until they are quite satisfied.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+तृप्तिश्चाऽन्नस्य ॥ ६॥  
+
+**टीका**  
+पर्वसु सकृद्भुञ्जानौ यावत्तृप्ति भुजीयाताम् ॥ ६ ॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/07_yachchainayoH_priyaM_syAt.md">
+
+यच्चैनयोः प्रियं स्यात् तद् एतस्मिन्न् अहनि भुञ्जीयाताम् ७
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/01/01/07_yachchainayoH_priyaM_syAt.md">
+
+<details><summary>Bühler</summary>
+
+7. And on (the anniversary of) that (wedding)-day they may eat that food of which they are fond. [^4] 
+
+[^4]:  Haradatta holds that the words 'on that day' do not refer to the days of the new and full moon, the Parvan-days, mentioned in Sūtra 4. His reasons are, first, that the permission to eat food, of which the householder may be particularly fond, has already been given in Sūtra 6, by the term tṛpiḥ, 'satisfaction'; and, secondly, that the singular 'on this day' does not agree with the plural 'on the Parvan-days.' Hence he comes to the conclusion that the words 'on that day' must refer to the wedding-day, mentioned in Sūtra 1, as well as to its anniversary. Haradatta is, probably, right in his explanation, though the reasons adduced here are very weak. A stronger reason for detaching this Sūtra from Sūtra 4 will be brought forward below, under Sūtra 11. Mahādeva, the commentator of the Hiraṇyakeśidharma, adopts the view rejected by Haradatta.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+यच्चैनयोः प्रियं स्यात्तदेतस्मिन्नहानि भुञ्जीयाताम् ॥७॥  
+
+**टीका**  
+'एतस्मिन्नहनी'ति न वक्तव्यम् । प्रकृतत्वात् । यथा 'तृप्तिश्चान्नस्ये'ति पर्वसु भवति, एवमिदमपि भविष्यति। किं च 'पर्वस्विति बहुवचनान्तस्य प्रकृतस्य 'एतस्मिन्नहनी'त्येकवचनान्तेन प्रत्यवमर्शो नाऽतीव समञ्जसः । तस्माद्व्यवहितमपि पाणिग्रहणमहः प्रत्यवमृश्यते । एतदर्थमेव च गृह्ये [^१]एतदहर्विजानीयाद्यदहर्भार्यामावहत' इत्युक्तम् । एतस्मिन् पाणिग्रहणेऽहनि यदेनयोर्दम्पत्योः प्रियं तत् भुञ्जीयाताम् । न तु 'नाऽऽत्मार्थमभिरूपमन्नं पाचये'(२.७-४)दिति निषेधस्याऽय विषय इति । प्रतिसंवत्सरं चैतत्कर्तव्यम् । यथा चैत्रे मासि स्वातौ कृतविवाहस्याऽपरस्मिन्नपि संवत्सरे तस्मिन्मासे स्वातावेव कार्यम् । एवं हि तदेवाऽहरिति भवति । प्रतिमासं तु नक्षत्रागमेऽपि चैत्रादिभेदान्न तदेवेति प्रतिपत्तिः । तस्मात् प्रतिसंवत्सरमिदं विवाहनक्षत्रे कर्तव्यम् । [^२]यथा राज्ञामभिषेकनक्षत्रमेवं हि गृहमेधिनोर्विवाहनक्षत्रमिति ॥ ७ ॥  
+
+[^१]: आप० गृ० ८.७.  
+
+[^२]: यथा इत्यादिग्रन्थः घ. ड. पुस्तकयोर्नास्ति ।
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/08_adhashcha_shayIyAtAm.md">
+
+अधश्च शयीयाताम् ८
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/01/01/08_adhashcha_shayIyAtAm.md">
+
+<details><summary>Bühler</summary>
+
+8. And (on the night of that day) they shall sleep on the ground (on a raised heap of earth). [^5] 
+
+[^5]:  Āśv. Gṛ. Sū. I, 3, 10.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+अधश्च शयीयाताम् ॥ ८ ॥  
+
+**टीका**  
+एतस्मिन्नहनि स्थण्डिलशायिनौ स्याताम् ॥ ८॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/09_maithunavarjana~n_cha.md">
+
+मैथुनवर्जनं च ९
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/01/01/09_maithunavarjana~n_cha.md">
+
+<details><summary>Bühler</summary>
+
+9. And they shall avoid connubial intercourse.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+मैथुनवर्जनं च ॥९॥  
+
+**टीका**  
+[^३]मैथुनवर्जनं चैतस्मिन्नहनि कर्तव्यम् ॥ ९ ॥  
+
+[^३]: 'एतस्मिन्नहनि तन्न कर्तव्यम्' इति छ. पु
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/10_shvobhUte_sthAlIpAkaH.md">
+
+श्वोभूते स्थालीपाकः १०
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/01/01/10_shvobhUte_sthAlIpAkaH.md">
+
+<details><summary>Bühler</summary>
+
+10. And on the day after (that day) a Sthālīpāka must be offered. [^6] 
+
+[^6]:  A Sthālīpāka is an offering at which rice cooked in a pot, sthālī, is offered in the fire. A full description of this kind of sacrifice occurs, Āśv. Gṛ. Sū. I, 10, 1 seq.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+श्वो भूते स्थालीपाकः ॥ १० ॥   
+
+**टीका**  
+स्थालीपाकश्च कर्तव्योऽपरेद्युः ॥ १० ॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/11_tasyopachAraH_pArvaNena_vyAkhyAtaH.md">
+
+तस्योपचारः पार्वणेन व्याख्यातः ११
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/01/01/11_tasyopachAraH_pArvaNena_vyAkhyAtaH.md">
+
+<details><summary>Bühler</summary>
+
+11. The manner in which that offering must be [^7]  performed has been declared by (the description of the Sthālīpāka) to be performed on the days of the new and full moon (the Pārvaṇa).
+
+[^7]:  The Pārvaṇa Sthālīpāka has been described by Āpastamba p. 101 in the Gṛhya-sūtra, III, 7. Again, Haradatta returns to the question whether the words on that day (Sūtra 7) refer to the Parvan-days, or the marriage-day and its anniversaries. He now adds, in favour of the latter view, that the word Pārvaṇena, 'by the rite to be performed on Parvan-days,' by which the Sthālīpāka on Parvan-days is intended, clearly proves the impossibility to refer he preceding rules to the Parvan-days. He adds that some, nevertheless, adopt the explanation rejected by himself.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+तस्योपचारः पार्वणेन व्याख्यातः ॥११॥  
+
+**टीका**  
+तस्य स्थालीपाकस्योपचारः प्रयोगप्रकारः पार्वणेन व्याख्यातः । एतदेव ज्ञापयति-न सामयाचारिकेषु पार्वणातिदेश प्रवर्तत इति । केचित्तु सर्वमेवैतत्पर्वविषयं मन्यन्ते । तेषामुक्तो दोषः । 'पार्वणेन व्याख्यात' इति चाऽनुपपन्नम् । न हि स एव तेन व्याख्यातो भवति । 'श्वो भूते स्थालीपाक' इति च व्यर्थम् । [^४] उपोषिताभ्यां पर्वसु कार्य' इति पूर्वमेवोक्तत्वात् । 'एतदहर्विजानीया'दिति चास्य प्रयोजनं तत्पक्षे चिन्त्यम्[^५] ॥ ११॥  
+
+[^४]: आप० गृ० ७. १५,  
+
+[^५]: सूत्रस्वारस्यं तु पर्वविषयत्व एव पश्यामः ।
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/12_nityaM_loka_upadishanti.md">
+
+नित्यं लोक उपदिशन्ति १२
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/01/01/12_nityaM_loka_upadishanti.md">
+
+<details><summary>Bühler</summary>
+
+12. And they declare (that this rite which is known) amongst the people (must be performed) every (year). [^8] 
+
+[^8]:  They, i.e. the Śiṣṭas, those learned in the law. 'Another commentator says, the rite which will be taught (in the following Sūtra), and which is known from the usage of the learned, is constant, i.e. must be performed in every case. That it is what the "learned" declare.'--Haradatta. The latter explanation of the Sūtra is adopted by Mahādeva.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+नित्यं लोक उपदिशन्ति ॥ १२ ॥  
+
+**टीका**  
+लोके शिष्टाचारसिद्धमेतत्कर्म नित्यं प्रतिसंवत्सरं कर्तव्यमिति शिष्टा उपदिशन्ति ।
+अपर आह- वक्ष्यमाणं कर्म शिष्टाचारसिद्धं नित्यं सार्वत्रिकं इति शिष्टा उपदिशन्ति ॥ १२ ॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/13_yatra_kva_chAgnimupasamAdhAsyansyAttatra.md">
+
+यत्र क्व चाग्निमुपसमाधास्यन्स्यात्तत्र प्राचीरुदीचीश्च तिस्रस्तिस्रो लेखा लिखित्वाद्भिरवोक्ष्याग्निमुपसमिन्ध्यात् १३
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/01/01/13_yatra_kva_chAgnimupasamAdhAsyansyAttatra.md">
+
+<details><summary>Bühler</summary>
+
+13. At every (burnt-offering), when he wishes to place the fire on the altar (called Sthaṇḍila), let him draw on that (altar) three lines from west to east and three lines from south to north, and sprinkle (the altar) with water, turning the palm of the hand downwards, and let him then make the fire burn brightly by adding (fuel). [^9] 
+
+[^9]:  Āśv. Gṛ. Sū. I, 3, 1-3.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+यत्र क्व चाऽग्निमुपसमाधास्यन् स्यात्तत्र प्राचीरुदीचीश्च तिस्रस्तिस्रो रेखा लिखित्वाऽद्भिरवोक्ष्याऽग्निमुपसमिन्ध्यात् ॥ १३ ॥  
+
+**टीका**  
+होमप्रसङ्गादिदमुच्यते- यत्र क्व च गार्ह्ये सामयाचारिके वा कर्मणि गृहेऽरण्ये वाऽग्निमुपसमाधास्यन् प्रतिष्ठापयिष्यन् स्यात्तत्र पूर्वं प्राचीः प्रागग्रास्तिस्रो रेखा विलिखेत् । तत उदीची उदगग्रास्तिस्रः। एवं तिस्रो लेखा लिखित्वाऽद्भिरवोक्षेत् । अवोक्ष्याऽग्निं श्रोत्रियागारादाहृत्य प्रतिष्ठाप्योपसमिन्ध्यादुपसमिन्धीत काष्ठैरभिज्वलयेत् । तत्र[^१] 'पुरस्तादुदग्वोपक्रमः, तथापवर्ग' इति परिभाषितम् । उपदेशक्रमाच्च प्राच्या पूर्वं लेखा लेखनीयाः ततश्चोदीच्यः[^२]।  
+
+[^३]प्राची पूर्वमुदक्संस्थं दक्षिणारम्भमालिखेत् ।  
+अथोदीचीः पुरस्संस्थं पश्चिमारम्भमालिखेत् ॥  
+[^४]अन्ये तु प्राचीरुदगारम्भं दक्षिणान्तमालिखन्ति ॥ १३ ॥  
+
+[^१]: आप० गृ० १. ५, ६.  
+
+[^२]: 'एकमेवेदं कर्मलेखाकरणं नाम स्थण्डिलसंस्काररूपम् । ततश्च' इत्यधिकं घ. ड. पु.  
+
+[^३]: प्राचीः पूर्वं दक्षिणान्तमुदगारभ्यमालिखेत् । इति ख. च. पु.  
+
+[^४]: अन्ये तु प्राचीर्दक्षिणारम्भमालिखन्ति इति च.पु.।
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/14_utsichyaitadudakamuttareNa_pUrveNa_vAnyadupadadhyAt.md">
+
++++(शिष्टम् उदकम्)+++ उत्सिच्यैतदुदकमुत्तरेण पूर्वेण वान्यदुपदध्यात् १४
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/01/01/14_utsichyaitadudakamuttareNa_pUrveNa_vAnyadupadadhyAt.md">
+
+<details><summary>Bühler</summary>
+
+14. He shall pour out (the remainder of) this water used for sprinkling, to the north or to the east (of the altar), and take other (water into the vessel).
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+उत्सिच्यैतदुदकमुत्तरेण पूर्वेण वाऽन्यदुपदध्यात् ॥१४॥
+
+**टीका**  
+एतदवोक्षणशेषोदकमग्नेरुत्तरतः पूर्वतो वा उत्सिञ्चेत् । उसिच्याऽन्यदुदकं पात्रस्थमुपदध्यात्तत्रैव ॥ १४ ॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/15_nityamudadhAnAnyadbhirariktAni_syurgRhamedhinorvratam.md">
+
+नित्यमुदधानान्यद्भिररिक्तानि स्युर्गृहमेधिनोर्व्रतम् १५
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/01/01/15_nityamudadhAnAnyadbhirariktAni_syurgRhamedhinorvratam.md">
+
+<details><summary>Bühler</summary>
+
+15. The water-vessels in the house shall never be empty; that is the duty to be observed by the householder and his wife. [^10] 
+
+[^10]:  Haradatta states that the object of the repetition of the words 'the householder and his wife' is to show that they themselves must fill the water-vessels, and not employ others for this purpose. He adds that, according to another commentator, the object of the repetition is to show that Sūtras 13 and 14 apply not only to householders, but also to students, and that hence students, when they offer the daily oblations of sacred fuel (above, I, 1, 4, 14 seq.), should also perform the rites taught in the preceding Sūtras.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+नित्यमुदधानान्यद्भिररिक्तानि स्युर्गृहमेधिनोर्व्रतम् ॥१५॥  
+
+**टीका**  
+गृहे यावन्त्युदधानान्युदपात्राणि घटकरकादीनि तानि सदाऽद्भिररिक्तानि स्युः । एतदपि गृहमेधिनोर्व्रतम् । पुनः 'गृहमेधिनोरिति वचनमस्मिन् कर्मणि स्वयं कर्तृत्वमेव यथा स्यात् प्रयोजककर्तृत्वं मा भूदिति।  
+अन्य आह— पुन'र्गृहमेधिनो'रिति वचनात् पूर्वसूत्रं ब्रह्मचारिविषयेऽपि 'सावित्र्या समित्सहरमाध्या' (१.२६.१.)दित्यादौ भवति । पाके तु स्त्रिया न भवति । 'उपसमाधास्य'न्निति लिङ्गस्य विवक्षितत्वात् । आर्याः प्रयता' (२.३.१.) इत्यादौ भवतीति ॥१५॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/16_ahanyasaMveshanam.md">
+
+अहन्यसंवेशनम् १६
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/01/01/16_ahanyasaMveshanam.md">
+
+<details><summary>Bühler</summary>
+
+16. Let him not have connubial intercourse (with his wife) in the day-time.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+अहन्यसंवेशनम् ॥ १६ ॥  
+
+**टीका**  
+संवेशन मैथुनं तदहनि न कर्तव्यम् ॥ १६ ॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/17_Rtau_cha_sannipAto.md">
+
+ऋतौ च संनिपातो दारेणानुव्रतम् १७
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/01/01/17_Rtau_cha_sannipAto.md">
+
+<details><summary>Bühler</summary>
+
+17. But let him have connection with his wife at the proper time, according to the rules (of the law). [^11] 
+
+[^11]:  See Manu III, 46-48; Yājñ. I, 79, 80.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+ऋतौ च सन्निपातो दारेणाऽनुव्रतम् ॥ १७ ॥  
+
+**टीका**  
+रजोदर्शनादारभ्य षोडशाऽहोरात्रा ऋतुः । तत्र च सन्निपातः संयागो दारेण सह कर्तव्यः । छान्दसमेकवचनम् । [^१] नित्यं बहुवचनान्तो हि दारशब्दः । अनुव्रतं शास्त्रतो नियमो व्रतं, तदनुरोधेन । तत्र मनुः—  
+[^२] ऋतुः स्वाभाविकः स्त्रीणां रात्रयः षोडश स्मृताः ।  
+चतुर्भिरितरैस्सार्धमहोभिस्सद्विगर्हितैः ॥  
+तासामाद्याश्चतस्त्रस्तु निन्द्या एकादशी च या ।  
+त्रयोदशी च शेषास्तु प्रशस्ता दश रात्रयः'॥  
+[^३] अमावास्यामष्टमीं च पौर्णमासीं चतुर्दशीम् ॥  
+ब्रह्मचारी भवेन्नित्यमप्यृतौ स्नातको द्विजः ।' इति ।  
+याज्ञवल्क्यस्तु —   
+[^४]एवं गच्छन् स्त्रियं क्षामां मघां मूलं च वर्जयेत् । इति ।  
+आचार्यस्तु चतुर्थींप्रभृति गमनमाह-[^५]चतुर्थिप्रभृत्याषोडषीमुत्तरामुत्तरां युग्मां
+प्रजानिश्रेयसमृतुगमनमित्युपदिशन्ति' इति । तदिह षोडशसु रात्रिष्वादितस्तिस्रस्सर्वथा वर्ज्याः । चतुर्थ्येकादशी त्रयोदशी चाऽऽचार्येणाऽनुज्ञाताः मनुना निषिद्धाः । इतरासु दशसु युग्मासु पुत्राः जायन्ते, स्त्रियोऽयुग्मासु । तत्र चो'त्तरामुत्तरा'मिति वचनात् षोडश्यां रात्रौ मघादियोगाभावे गच्छतस्सर्वत उत्कृष्टः पुत्रो भवति । चतुर्थ्यामवमः । मध्ये कल्प्यम् । एवं पञ्चदश्यामुत्कृष्टा दुहिता । पञ्चम्यामवमा । मध्ये कल्प्यम् । षोडशस्वेव गमनं गर्भहेतुः । तत्रापि प्रथमम् । एवं स्थिते नियमविधिरयं-योग्यत्वे सत्यृताववश्यं सन्निपतेत्, असन्निपतन् पुत्रोत्पत्तिं निरुन्धानः प्रत्यवेयादिति । तथा च दोषस्मृतिः—  
+[^६] ऋतुस्नातां तु यो भार्यां सन्निधौ नोपगच्छति ।  
+तस्या रजसि तं मासं पितरस्तस्य शेरते ॥' इति ।  
+
+पुत्रगुणार्थितया पूर्वां पूर्वां वर्जयतो न दोषः । अन्ये तु परिसङ्ख्यां मन्यन्ते-ऋतावेव सन्निपतेन्नाऽन्यत्रेति । तेषामृतावनियमादगमनेऽपि दोषाभावाद्दोषस्मरणमनुपपन्नं स्यात् । सर्वथा विधिर्न भवति । रागप्राप्तत्वात्सन्निपातस्य ॥ १७॥  
+
+[^१]: नित्यं बहुवचनान्तो हि दारशब्दः इति नास्ति क. पु.  
+
+[^२]: म०स्मृ० ३. ४६, ४७.  
+
+[^३]: म०स्मृ० ४. १२८.  
+
+[^४]: या०स्मृ० १. ८०.  
+
+[^५]: आप०गृ० ९. १.  
+
+[^६]: बौ०ध० ४.१०.२०.
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/18_antarAle-pi_dAra_eva.md">
+
+अन्तरालेऽपि दार एव १८
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/01/01/18_antarAle-pi_dAra_eva.md">
+
+<details><summary>Bühler</summary>
+
+18. Let him have connubial intercourse in the interval also, if his wife (desires it, observing the restrictions imposed by the law). [^12] 
+
+[^12]:  Manu III, 45; Yājñ. I, 81.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+अन्तरालेऽपि दार एव ॥ १८ ॥  
+
+**टीका**  
+अन्तरालं मध्यम् । ऋत्वोरन्तराले मध्येऽपि सन्निपातः स्यात् दार एवं सकामे सति । यद्यात्मनो जितेन्द्रियतया न तादृशं पारवश्यम् , तथाऽपि भार्यायामिच्छन्त्यां तद्रक्षणार्थमवश्यं सन्निपतेदिति । वक्ष्यति च [^१]'अप्रमत्ता रक्षथ तन्तुमेत'(२.१३.६.)मित्यादि । अनुव्रतमित्यनुवृत्तेः प्रतिषिद्धेषु दिनेषु न भवति ॥ १८॥  
+
+[^१]: बौ०ध० २. २. ३६. द्रष्टव्यम् ।
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/19_brAhmaNavachanAchcha_saMveshanam.md">
+
+ब्राह्मणवचनाच्च संवेशनम् १९
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/01/01/19_brAhmaNavachanAchcha_saMveshanam.md">
+
+<details><summary>Bühler</summary>
+
+19. (The duty of) connubial intercourse (follows from) the passage of a Brāhmaṇa, ('Let us dwell together until a son be born.') [^13] 
+
+[^13]:  See Taittirīya Saṃhitā II, 5, 1, 5.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+ब्राह्मणवचनाच्च संवेशनम् ॥ १९ ॥  
+
+**टीका**  
+यदिदमनन्तरोक्तं संवेशनं तत्र ब्राह्मणवचनं प्रमाणं [^२]'काममाविजनितोस्सम्भवामे'ति ॥ १९ ॥  
+
+[^२]:
+
+    तै०सं० २. ५. १. यावत्प्रसूति सभोगं प्राप्नुयामेत्यर्थः । अयं स्त्रीभिरिन्द्रात् प्रार्थितो वर ।
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/20_strIvAsasaiva_sannipAtaH_syAt.md">
+
+स्त्रीवाससैव संनिपातः स्यात् २०
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/01/01/20_strIvAsasaiva_sannipAtaH_syAt.md">
+
+<details><summary>Bühler</summary>
+
+20. But during intercourse he shall be dressed in a particular dress kept for this purpose.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+स्त्रीवाससैव सन्निपातस्स्यात् ॥ २० ॥  
+
+**टीका**  
+एवकारो भिन्नक्रमः । स्त्र्युपभोगार्थं वासः स्त्रीवासः । तेन सन्निपात एव स्यात् । न तेन सुप्रक्षालितेनाऽपि ब्रह्मयज्ञादि कर्तव्यमिति यावत् ॥२०॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/21_yAvatsannipAta~n_chaiva_sahashayyA.md">
+
+यावत्संनिपातं चैव सहशय्या २१
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/01/01/21_yAvatsannipAta~n_chaiva_sahashayyA.md">
+
+<details><summary>Bühler</summary>
+
+21. And during intercourse only they shall lie together,
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+यावत्सन्निपातं चैव सह शय्या ॥ २१ ॥  
+
+**टीका**  
+यावत्सन्निपातमेव दम्पत्योस्सह शयनम् ॥ २१ ॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/22_tato_nAnA.md">
+
+ततो नाना २२
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/01/01/22_tato_nAnA.md">
+
+<details><summary>Bühler</summary>
+
+22. Afterwards separate.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+ततो नाना ॥ २२ ॥  
+
+**टीका**  
+ततः पृथक्शयीयाताम् ॥ २२ ॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/23_udakopasparshanam.md">
+
+उदकोपस्पर्शनम् २३
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/01/01/23_udakopasparshanam.md">
+
+<details><summary>Bühler</summary>
+
+23. Then they both shall bathe;
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+उदकोपस्पर्शनम् ॥२३ ॥  
+
+**टीका**  
+ततो द्वयोरप्युदकोपस्पर्शन स्नानं कर्तव्यम् । इदमृतुकाले ॥ २३ ॥  
+
+इत्यापस्तम्बधर्मसूत्रवृत्तावुज्वलायां श्रीहरदत्तविरचितायां
+द्वितीयप्रश्ने प्रथमा कण्डिका ॥१॥
+</details>
+
+</div>

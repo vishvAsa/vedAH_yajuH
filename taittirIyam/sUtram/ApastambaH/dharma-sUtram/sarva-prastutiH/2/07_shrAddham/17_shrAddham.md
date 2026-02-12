@@ -1,0 +1,755 @@
++++
+title = "१७ श्राद्धम्"
++++
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/07/17/01_khaDgopastaraNe_khaDgamAMsenAnantya~N_kAlam.md">
+
+खड्गोपस्तरणे खड्ग-मांसेनानन्त्यं कालम् +++(पितृप्रीतिः)+++ १
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/07/17/01_khaDgopastaraNe_khaDgamAMsenAnantya~N_kAlam.md">
+
+<details><summary>Bühler</summary>
+
+1. (If) rhinoceros' meat (is given to Brāhmaṇas seated) on (seats covered with) the skin of a rhinoceros, (the Manes are satisfied) for a very long time. [^1] 
+
+[^1]:  17. Manu III, 272; Yājñ. I, 259.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+खड्गोपस्तरणे खड्गमांसेनाऽऽनन्त्यं कालम् ॥ १ ॥  
+
+**टीका**  
+खड्गचर्मोपस्तरणेष्वासनेषूपविष्टेभ्यो ब्राह्मणेभ्यो दत्तेन खड्गमांसेनाऽनन्तं कालं प्रीतिभवति । आनन्त्यमिनि पाठे स्वार्थ ष्यञ् ॥ १॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/07/17/02_tathA_shatabalermatsyasya_mAMsena.md">
+
+तथा शत-बलेर्+++(=बहु-शल्यस्य रोहितस्य)+++ मत्स्यस्य मांसेन २
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/07/17/02_tathA_shatabalermatsyasya_mAMsena.md">
+
+<details><summary>Bühler</summary>
+
+2. (The same effect is obtained) by (offering the) flesh (of the fish called) Śatabali, [^2] 
+
+[^2]:  Manu V, 16, where Rohita is explained by Śatabali.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+तथा शतबलेर्मत्स्यस्य मांसेन ॥२॥  
+
+**टीका**  
+शतबलिर् बहुशल्यको रोहिताख्यः ॥ २ ॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/07/17/03_vArdhrANasasya_cha.md">
+
+वार्ध्राणसस्य +++(क्रौञ्चनिभस्य)+++ च ३
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/07/17/03_vArdhrANasasya_cha.md">
+
+<details><summary>Bühler</summary>
+
+3. And by (offering the) meat of the (crane called) Vārdhrāṇasa.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+वार्घ्राणस्य च ॥ ३ ॥  
+
+**टीका**  
+व्याख्यातो वार्घ्राणसः । तस्य मांसेनाऽऽनन्त्यं कालं प्रीतिर्भवति ॥३॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/07/17/04_prayataH_prasannamanAH_sRShTo.md">
+
+प्रयतः प्रसन्न-मनाः सृष्टो+++(=उत्साहवान्)+++ भोजयेद्  
+ब्राह्मणान् ब्रह्म-विदो योनि-गोत्र-मन्त्रान्तेवास्य्-असंबन्धान् ४
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/07/17/04_prayataH_prasannamanAH_sRShTo.md">
+
+<details><summary>Bühler</summary>
+
+4. Pure, with composed mind and full of ardour, he shall feed Brāhmaṇas who know the Vedas, and who are not connected with him by marriage, blood relationship, by the relationship of sacrificial priest and sacrificer, or by the relationship of (teacher and) pupil. [^3] 
+
+[^3]:  Manu III, 128-138, and 149, 188; Yājñ. I, 225.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+प्रयतः प्रसन्नमनास् सृष्टो भोजयेद् ब्राह्मणान् ब्रह्मविदो योनिगोत्रमन्त्रान्तेवास्यसम्बन्धान् ॥ ४ ॥  
+
+**टीका**  
+प्रयतः स्नानाचमनादिना शुद्धः । प्रसन्नमनाः अव्याकुलमनाः । **सृष्टः** उत्साहवान् । [^१] 'सृष्टश्चेब्राह्मणवधे हत्वाऽपी'तिदर्शनात् । [^२] वृत्तिसर्गतायनेषु क्रमः' इत्यत्र च सर्ग उत्साहः । एवंभूतो ब्राह्मणान् भोजयेत् । कीदृशान् ? ब्रह्मविदः आत्मविदः । योन्यादिभिरसम्बन्धान् योनिसम्बन्धा मातुलादयः । गोत्रसम्बन्धा सगोत्राः । मन्त्रसम्बन्धा ऋत्विजो याज्याश्च । अन्तेवासिसम्बन्धाश्शिष्या आचार्याश्च ॥ ४॥  
+
+[^१]: गौ०ध० २२. ११.  
+
+[^२]: पा०सू० १ ३. ३८.
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/07/17/05_guNahAnyAn_tu_pareShAM.md">
+
+गुणहान्यां तु  
+परेषां समुदेतः सोदर्योऽपि भोजयितव्यः ५
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/07/17/05_guNahAnyAn_tu_pareShAM.md">
+
+<details><summary>Bühler</summary>
+
+5. If strangers are deficient in the (requisite) good qualities, even a full brother who possesses them, may be fed (at a Śrāddha).
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+गुणहान्यां तु परेषां समुदेतः सोदर्योऽपि भोजयितव्यः ॥५॥  
+
+**टीका**  
+यदि परे योनिगोत्रादिभिरसम्बन्धा वृत्तादिगुणहीना एव लभ्यन्ते, तदा समुदेतो विद्यावृत्तादिभिर्युक्तः सोदर्योऽपि भोजयितव्यः किमुत मातुलादयः इत्यपिशब्दस्याऽर्थः ॥ ५॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/07/17/06_etenAntevAsino_vyAkhyAtAH.md">
+
+एतेनान्तेवासिनो व्याख्याताः +++(अन्यालाभे भोजनीया इति)+++ ६
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/07/17/06_etenAntevAsino_vyAkhyAtAH.md">
+
+<details><summary>Bühler</summary>
+
+6. (The admissibility of) pupils (and the rest) has been declared hereby.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+एतेनाऽन्तेवासिनो व्याख्याताः ॥ ६॥  
+
+**टीका**  
+एतेन सोदर्येण अन्तेवासिनः बहुवचननिर्देशात् पूर्वत्र निर्दिष्टा योन्यादिभिस्सम्बन्धास्सर्व एव व्याख्याताः-अन्येषामभावे समुदेता भोजयितव्या इति।  
+अत्र मनुः—  
+
+[^३] एष वै प्रथमः कल्पः प्रदाने हव्यकव्ययोः।  
+अनुकल्पस्तु विज्ञेयः सदा सद्भिरनुष्ठितः ॥  
+
+[^३]: म०स्मृ० ३. १४७.  
+
+[^१]मातामहं मातुलं च  
+स्वस्रीयं श्वशुरं गुरुम् ।  
+दौहित्रं[^२] विट्पतिं बन्धुम्  
+ऋत्विग्याज्यौ च भोजयेत् ॥ 
+
+इति ॥६॥  
+
+[^१]: म० स्मृ० ३. १४८.  
+
+[^२]: विट्पतिर्जामाता।
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/07/17/07_athApyudAharanti.md">
+
+अथाप्य् उदाहरन्ति … ७
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/07/17/07_athApyudAharanti.md">
+
+<details><summary>Bühler</summary>
+
+7. Now they quote also (in regard to this matter the following verse):
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+अथाप्युदाहरन्ति ॥७॥  
+
+**टीका**  
+सम्बन्धिनो न भोज्या इत्यस्मिन्नर्थे धर्मज्ञा वचनमुदाहरन्ति ॥ ७ ॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/07/17/08_sambhojanI_nAma_pishAchabhixA.md">
+
+संभोजनी +++(=परस्पर-धर्म-भोजनम्)+++ नाम पिशाच-भिक्षा  
+नैषा पितॄन् गच्छति नोत देवान् ।  
+इहैव सा चरति क्षीण-पुण्या  
+शालान्तरे गौर् इव नष्ट-वत्सा ८
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/07/17/08_sambhojanI_nAma_pishAchabhixA.md">
+
+<details><summary>Bühler</summary>
+
+8. The food eaten (at a sacrifice) by persons related to the giver is, indeed, a gift offered to the goblins. It reaches neither the Manes nor the [^4]  gods. Losing its power (to procure heaven), it errs about in this world as a cow that has lost its calf runs into a strange stable.
+
+[^4]:  See Manu III, 141, where this Tṛṣṭubh has been turned into an Anuṣṭubh.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+सम्भोजनी नाम पिशाचभिक्षा  
+नैषा पितॄन् गच्छति नोऽथ देवान् ।  
+इहैव सा चरति क्षीणपुण्या  
+शालान्तरे गौरिव नष्टवत्सा ॥८॥  
+
+**टीका**  
+परस्परं भुञ्जतेऽस्यामिति सम्भोजनी । अधिकरणे ल्युट् । नामेदमस्याः पिशाचभिक्षायाः । नैषा पितॄन् गच्छति नाऽपि देवान् । किं तु क्षीणपुण्या परलोकप्रयोजनरहिता सती इहैव चरति लोके यथा गौर्मृतवत्सा गृहाभ्यन्तर एव चरति न बहिर्गच्छति तद्वदेतत् ॥८॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/07/17/09_ihaiva_sambhunjatI_daxiNA.md">
+
+"इहैव संभुञ्जती दक्षिणा कुलात् कुलं विनश्यती"ति ९
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/07/17/09_ihaiva_sambhunjatI_daxiNA.md">
+
+<details><summary>Bühler</summary>
+
+9. The meaning (of the verse) is, that gifts which are eaten (and offered) mutually by relations, (and thus go) from one house to the other, perish in this world.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+इहैव सम्भुञ्जतीति दक्षिणा कुलात् कुलं विनश्यति ॥९॥  
+
+**प्रस्तावः**  
+तद्व्याचष्टे—  
+
+**टीका**  
+सम्भुञ्जती परस्परभोजनस्य निमित्तभूता दक्षिणा श्राद्धे दानक्रिया गृहात् गृहं गत्वा इहैव लोके नश्यतीत्यर्थः ॥९॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/07/17/10_tulyaguNeShu_vayovRddhaH_shreyAn.md">
+
+तुल्य-गुणेषु वयो-वृद्धः श्रेयान्,  
+द्रव्य-कृशश् चेप्सन् १०
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/07/17/10_tulyaguNeShu_vayovRddhaH_shreyAn.md">
+
+<details><summary>Bühler</summary>
+
+10. If the good qualities (of several persons who might be invited) are equal, old men and (amongst these) poor ones, who wish to come, have the preference.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+तुल्यगुणेषु वयोवृद्धः श्रेयान्, द्रव्यकृशश् चेप्सन् ॥ १० ॥
+
+**प्रस्तावः**  
+अथ बहुषु तुल्यगुणेषूपस्थितेषु कः परिग्राह्यः ?  
+
+**टीका**  
+यो वयसा वृद्धस्स तावद्ग्राह्यः । तत्रापि यो द्रव्येण कृशः ईप्सन् लिप्समानश्च भवति स ग्राह्यः[^३] । अद्रव्यकृशोऽपि अवृद्धोऽपि, द्वयोस्तु समवाये यथारुचीति ॥ १०॥  
+
+[^३]: या वयो वृद्धो ग्राह्योऽद्रव्यकृशोऽपि । द्रव्यकृशोऽयवृद्धोऽपीति । इति पाठः च. पु.।
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/07/17/11_pUrvedyurnivedanam.md">
+
+पूर्वेद्युर् निवेदनम् ११
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/07/17/11_pUrvedyurnivedanam.md">
+
+<details><summary>Bühler</summary>
+
+11. On the day before (the ceremony) the (first) invitation (must be issued). [^5] 
+
+[^5]:  Manu III, 187; Yājñ. I, 225. According to Haradatta the formula of invitation is, Śvaḥ śrāddham bhavitā, tatrāhavanīyārthe bhavadbhiḥ prasāde kartavya iti, 'to-morrow a Śrāddha will take place. Do me the favour to take at that the place of the Āhavanīya-fire.'
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+पूर्वेद्युर्निवेदनम् ॥ ११ ॥  
+
+**टीका**  
+श्राद्धदिनात्पूर्वेद्युरेव ब्राह्मणेभ्यो निवेदयितव्यम्-श्वः श्राद्धं भविता तत्र भवताऽऽहवनीयार्थे प्रसादः कर्तव्य इति ॥ ११ ॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/07/17/12_aparedyurdvitIyam.md">
+
+अपरेद्युर् द्वितीयम् १२
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/07/17/12_aparedyurdvitIyam.md">
+
+<details><summary>Bühler</summary>
+
+12. On the following day the second invitation takes place. [^6] 
+
+[^6]:  The formula is, Adya śrāddham, 'to-day the Śrāddha takes place.'
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+अपरेद्युर्द्वितीयम् ॥ १२ ॥  
+
+**टीका**  
+अपरेद्युः श्राद्धदिने द्वितीयं निवेदनं कर्तव्यमद्य श्राद्धमिति ॥ १२ ॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/07/17/13_tRtIyamAmantraNam.md">
+
+तृतीयम् आमन्त्रणम् +++(= अगारं प्रत्यानयनम्)+++ १३
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/07/17/13_tRtIyamAmantraNam.md">
+
+<details><summary>Bühler</summary>
+
+13. (On the same day also takes place) the third invitation (which consists in the call to dinner). [^7] 
+
+[^7]:  The call to dinner is, Siddham āgamyatim, 'the food is ready; come.'
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+तृतीयमामन्त्रणम् ॥ १३॥  
+
+**टीका**  
+आमन्त्रणमाह्वानं भोजनकाले सिद्धमागम्यतामिति तत्तृतीयं भवति ॥१३॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/07/17/14_triHprAyameke_shrAddhamupadishanti.md">
+
+त्रिःप्रायम् एके श्राद्धम् उपदिशन्ति … १४
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/07/17/14_triHprAyameke_shrAddhamupadishanti.md">
+
+<details><summary>Bühler</summary>
+
+14. Some declare, that every act at a funeral sacrifice must be repeated three times.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+त्रिःप्रायमेके श्राद्धमुपदिशन्ति ॥ १४ ॥  
+
+**टीका**  
+न केवलं निवेदनमेव त्रिर्भवति । किं तर्हि यच्च यावच्च श्राद्धे तत्सर्वं त्रिरावर्त्यमित्येके मन्यन्ते । अत्र पक्षे होमभोजनपिण्डानाम् अप्यावृत्तिस् तस्मिन्न् एवा ऽपराह्णे ॥ १४ ॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/07/17/15_yathA_prathamamevan_dvitIyan.md">
+
+यथा प्रथमम्, एवं द्वितीयं, तृतीयं च १५
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/07/17/15_yathA_prathamamevan_dvitIyan.md">
+
+<details><summary>Bühler</summary>
+
+15. As (the acts are performed) the first time, so they must be repeated) the second and the third times.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+यथाप्रथमम् एवं द्वितीयं तृतीयं च ॥ १५ ॥  
+
+**टीका**  
+येन प्रकारेण प्रथमश्राद्धं तथैव द्वितीयं तृतीयं च कर्तव्यम् ॥ १५ ॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/07/17/16_sarveShu_vRtteShu_sarvataH.md">
+
++++(उक्तेषु त्रिषु)+++ सर्वेषु वृत्तेषु,  
+सर्वतः समवदाय  
+शेषस्य ग्रासावरार्ध्यं प्राश्नीयाद् यथोक्तम् १६
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/07/17/16_sarveShu_vRtteShu_sarvataH.md">
+
+<details><summary>Bühler</summary>
+
+16. When all (the three oblations) have been [^8]  offered, he shall take a portion of the food of all (three), and shall eat a small mouthful of the remainder in the manner described (in the Gṛhya-sūtra).
+
+[^8]:  Āpastamba Gṛhya-sūtra VIII, 2 1, 9. 'He shall eat it pronouncing the Mantra, "Prāṇe niviṣṭosmṛtaṃ juhomi."' Taitt. Ār. X, 34, 1.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+सर्वेषु वृत्तेषु सर्वतस् समवदाय शेषस्य ग्रासं वरार्ध्यं प्राश्नीयाद् यथोक्तम् ॥ १६ ॥  
+
+**टीका**  
+सर्वेषु श्राद्धेषु त्रिष्वपि वृत्तेषु समाप्तेषु सर्वतस्त्रयाणां श्राद्धानां य ओदनशेषस्ततस्समवदाय ग्रासवरार्ध्यं प्राश्नीयात् यथोकं गृह्ये[^१] 'उत्तरेण यजुषा शेषस्य ग्रासवरार्ध्यं प्राश्नीया'दिति। तत्र प्रयोगः[^२]पूर्वेद्युर्निवेदनम् । तद्वत् परेद्युः प्रातर्भोजनकाले आमन्त्रणं-सिद्धमागम्यतामिति । ततो होमादिपिण्डनिधानान्तमेकैकमपवृज्य ततः सर्वतस्समवदाय ग्रासावरार्ध्यस्य[^३] प्राणे निविष्टे'ति प्राशनमिति ॥ १६॥  
+
+[^१]: आप० गृ० २१. ९.  
+
+[^२]: पूर्वेद्युर्नवावरेभ्यो निवेदनं, इति च. पु. ।  
+
+[^३]: 'प्राणे निविष्टोऽमृतं जुहोमि ब्रह्मणि म आत्माऽमृतत्वाय' इति मन्त्रः ।
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/07/17/17_udIchyavRttistvAsanagatAnAM_hasteShUdapAtrAnayanam.md">
+
+उदीच्य-वृत्तिस् त्व् - 
+आसन-गतानां हस्तेषूदपात्रानयनम् +++("अर्घ्यम्" इति)+++ १७
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/07/17/17_udIchyavRttistvAsanagatAnAM_hasteShUdapAtrAnayanam.md">
+
+<details><summary>Bühler</summary>
+
+17. But the custom of the Northerners is to pour into the hands of the Brāhmaṇas, when they are seated on their seats, (water which has been taken from the water-vessel.) [^9] 
+
+[^9]:  The North of India begins to the north of the river Sarāvati. The rule alluded to is given by Yājñ. I. 226, 229, Manu III, 2 10.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+उदीच्यवृत्तिस्त्वासनगतानां हस्तेषूदपात्रानयनम् ॥१७॥  
+
+**टीका**  
+प्रागुदञ्चौ विभजते हंसः क्षीरोदकं यथा ।  
+विदुषां शब्दसिद्ध्यर्थं सा नः पातु शरावती ॥'  
+इति वैयाकरणाः । तस्याः शरावत्या उदक्तीरवर्तिन उदीच्याः । तेषां वृत्तिराचार आसनेषुपविष्टानां ब्राह्मणानां हस्तेषूदपात्रादर्घ्यपात्रादादायाऽर्घ्यदानमिति । [^४]पितरिदं तेऽर्घ्यम्, पितामहेदं तेऽर्घ्यं, प्रपितामहेदं तेऽर्घ्यमिति मन्त्रा आश्वलायनके[^५] । यद्यप्युदीच्यवृत्तिरित्युक्तं, तथापि प्रकरणसामर्थ्यात् सर्वेषामपि भवति ॥ १७ ॥  
+
+[^४]: 'अमुष्मै स्वधा नम इति गृह्योक्तेन प्रकारेणार्घ्यं दद्यात्' ततस्तिलान् श्राद्धभूमौ विकिरेत्, इति अधिकः पाठो घ. ङ. पुस्तकयोः ।  
+
+[^५]: आश्व०गृ० ४. ८. ३. ।
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/07/17/18_uddhriyatAmagnau_cha_kriyatAmityAmantrayate.md">
+
+"उद्ध्रियताम् अग्नौ च क्रियताम्"  
+इत्य् आमन्त्रयते १८
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/07/17/18_uddhriyatAmagnau_cha_kriyatAmityAmantrayate.md">
+
+<details><summary>Bühler</summary>
+
+18. (At the time of the burnt-offering which is offered at the beginning of the dinner) he addresses the Brāhmaṇas with this Mantra: 'Let it be taken out, and let it be offered in the fire.' [^10] 
+
+[^10]:  Yājñ. I, 235. 20. Manu III. 239.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+'उध्रियतामग्नौ च क्रियता'मित्यामन्त्रयते ॥ १८ ॥  
+
+**टीका**  
+होमकाल उद्ध्रियतामग्नौ च क्रियतामित्यनेन मन्त्रेण ब्राह्मणानामन्त्रयते । मन्त्रे[^१] 'अधीष्टे चे'ति लोट्प्रत्ययः ॥ १८ ॥  
+
+[^१]: पा० सू० ३. ३. ११६.
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/07/17/19_kAmamuddhriyatA~N_kAmamagnau_kriyatAmityattisRShTa.md">
+
+> कामम् उद्ध्रियतां,  
+कामम् अग्नौ क्रियताम्  
+
+इत्य् अतिसृष्ट  
+उद्धरेद् जुहुयाच् च १९
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/07/17/19_kAmamuddhriyatA~N_kAmamagnau_kriyatAmityattisRShTa.md">
+
+<details><summary>Bühler</summary>
+
+19. (They shall give their permission with this Mantra): 'Let it be taken out at thy pleasure, let it be offered in the fire at thy pleasure.' Having received this permission, he shall take out (some of the prepared food) and offer it.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+'काममुध्रियतां काममग्नौ च क्रियता'मित्यतिसृष्ट उद्धरेज्जुहुयाच्च ॥ १९ ॥  
+
+**टीका**  
+अथ ब्राह्मणाः काममुध्रियतां काममग्नौ च क्रियतामित्यतिसृजेयुः अनुजानीयुः । तश्चातिसृष्ट उद्धरेज्जुहुयाच्च । उद्धरणं नाम ब्राह्मणार्थं पक्वादन्नादन्यस्मिन् पात्रे पृथक्करणम् । तत्सूत्रकारेण ज्ञापितमष्टकाश्राद्धे ॥१९॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/07/17/20_shvabhirapapAtraishcha_shrAddhasya_darshanam.md">
+
+श्वभिर् अपपात्रैश् च  
+श्राद्धस्य दर्शनं परिचक्षते २०
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/07/17/20_shvabhirapapAtraishcha_shrAddhasya_darshanam.md">
+
+<details><summary>Bühler</summary>
+
+20. They blame it, if dogs and Apapātras are allowed to see the performance of a funeral-sacrifice.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+श्वभिरपपात्रैश्च श्राद्धस्य दर्शनं परिचक्षते ॥ २० ॥  
+
+**टीका**  
+(श्वभिरिति बहुवचनात् ग्रामसूकरादीनां तादृशानां ग्रहणम्। ) अपपात्राः पतितादयः, प्रतिलोमादयश्च । तैः श्राद्धस्य दर्शनं परिचक्षते गर्हन्ते शिष्टाः । अतो यथा ते न पश्येयुस्तथा[^२]परिश्रिते कर्तव्यमिति ॥२०॥  
+
+- () कुण्डलान्तर्गतो भागः घ. पुस्तके एवास्ति ।  
+
+[^२]: 'परिश्रितेन' इति. क. च. पु. ।
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/07/17/21_shvitraH_shipiviShTaH_paratalpagAmyAyudhIyaputraH.md">
+
+श्वित्रः +++(=श्वेतकुष्टः)+++ शिपि-विष्टः+++(=खल्वाटः)+++ परतल्प-गाम्य् आयुधीय-पुत्रः, शूद्रोत्पन्नो ब्राह्मण्याम्  
+
+इत्य् एते श्राद्धे भुञ्जानाः  
+**पङ्क्ति-दूषणा** भवन्ति २१
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/07/17/21_shvitraH_shipiviShTaH_paratalpagAmyAyudhIyaputraH.md">
+
+<details><summary>Bühler</summary>
+
+21. The following persons defile the company if they are invited to a funeral-sacrifice, viz. a leper, a bald man, the violator of another man's bed, the son of a Brāhmaṇa who follows the profession of a Kṣatriya, and the son of (a Brāhmaṇa who by marrying first a Śūdra wife had himself become) a Śūdra, born from a Brāhmaṇa woman. [^11] 
+
+[^11]:  Manu III, 152-166, and particularly 153 and 154 Yājñ. I. 222-224. Haradatta's explanation of the word 'Śūdra' by 'a Brāhmaṇa who has become a Śūdra' is probably not because the son of a real Śūdra and of a Brāhmaṇa female is a Kaṇḍāla, and has been disposed of by the preceding Sūtra.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+श्वित्रश्शिपिविष्टः परतल्पगाम्यायुधीयपुत्रश्शूद्रोत्पन्नो ब्राह्मण्यामित्येते श्राद्धे भुञ्जानाः पङ्क्तिदूषणा भवन्ति ॥ २१ ॥  
+
+**टीका**  
+[^३]श्वित्र-श्वित्री श्वेतकुष्ठी । शिपिविष्टः खलतिः। विवृतशेफ इत्यन्ये । परतल्पगामी यः परतल्पं गत्वा अकृतप्रायश्चित्तः तस्य ग्रहणम् । आयुधीयपुत्रः क्षत्रियवृत्तिमाश्रितो य आयुधेन जीवति ब्राह्मणः, तस्य पुत्रः। शूद्रेण ब्राह्मण्यामुत्पन्नश्चण्डालः । न तस्य प्रसङ्गः । 'ब्राह्मणान् ब्रह्मविद' इत्युक्तत्वाद् । तस्मादेवं व्याख्येयम्-क्रमविवाहे यः शुद्रायां पूर्वमुत्पाद्य पश्चात् ब्राह्मण्यामुत्पादयति तस्य पुत्रः शूद्रोत्पन्नो ब्राह्मण्यामिति । स हि पिता शुद्रः सम्पन्नः । श्रूयते हि[^४] 'तज्जाया जाया भवति यदस्यां जायते पुनरि'ति । स्मर्यते च—  
+[^५] यदुच्यते द्विजातीनां शूद्राद्दारपरिग्रहः ।  
+न तन्मम मतं यस्मात्तत्राऽयं जायते स्वयम् ॥' इति ।  
+
+[^३]: श्वित्रीमश्वित्री कुष्ठी. इति घ. पु.  
+
+[^४]: ऐ० ब्रा० ७. ३. १३.  
+
+[^५]: या० स्मृ० १. ५७. ।  
+
+[^१]एते श्वित्र्यादयः श्राद्धे भुञ्जानाः पङ्क्तिं दूषयन्ति । अतस्ते न भोज्या इति ॥ २१ ॥  
+
+[^१]:
+
+    इतः पूर्वं वृषलीपतिः वृषली शूद्रकन्या अदत्ता रजस्वला च वृषली तस्याः पतिः निषिद्धद्रव्यविक्रेता तिलकम्बलरसविक्रेता । राजभृत्यः राज्ञस्सकाशात् भृतिं वेतनं गृह्णाति स राजभृत्यः ॥ ब्राह्मण्यामेवोत्पन्नस्सन् यस्योत्पादयिता सन्दिग्धः स तदुत्पन्न एवेति । शिपिविष्टादयः श्राद्धे भुञ्जाना,... इति पाठो घ. पुस्तके।
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/07/17/22_trimadhustrisuparNastriNAchiketashchaturmedhaH_panchAgnirjyeShThasAmago_vedAdhyAyyanUchAnaputraH.md">
+
+त्रिमधुस् त्रिसुपर्णस् त्रिणाचिकेतश् चतुर्मेधः पञ्चाग्निर् ज्येष्ठसामिको वेदाध्याय्य् अनूचानपुत्रः श्रोत्रिय इत्येते  
+श्राद्धे भुञ्जानाः पङ्क्ति-पावना भवन्ति  २२
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/07/17/22_trimadhustrisuparNastriNAchiketashchaturmedhaH_panchAgnirjyeShThasAmago_vedAdhyAyyanUchAnaputraH.md">
+
+<details><summary>Bühler</summary>
+
+22. The following persons sanctify the company if they eat at a funeral-sacrifice, viz. one who has studied the three verses of the Veda containing the word 'Madhu,' each three times; one who has studied the part of the Veda containing the word 'Suparṇa' three times; a Triṇāciketa; one who has studied the Mantras required for the four sacrifices (called Aśvamedha, Puruṣamedha, Sarvamedha, and Pitṛmedha); one who keeps five fires; one who knows the Sāman called Jyeṣṭha; one who fulfils the duty of daily study; the son of one who has studied and is able to teach the whole Veda with its Aṅgas, and a Śrotriya. [^12] 
+
+[^12]:  Compare Manu III, 185, 186; Yājñ. I, 219-221. The three verses to be known by a Trimadhu are, Madhu vātā ṛtāyate, &c., which occur both in the Taitt. Saṃh. and in the Taitt. Ār. The explanation of Trisuparṇa is not certain. Haradatta thinks that it may mean either a person who knows the three verses Catushkapardā yuvatiḥ supeśā, &c., Taittirīya-brāhmaṇa I, 2, 1, 27, &c., or one who knows the three Anuvākas from the Taittirīya Āraṇyaka X, 48-50, beginning, Brahmametu mām, &c. The word 'Triṇāciketa' has three explanations:--a. A person who knows the Nāciketa-fire according to the Taittirīyaka, Kaṭhavallī, and the Śatapatha, i.e. has studied the portions on the Nāciketa-fire in these three books. b. A person who has thrice kindled the Nāciketa-fire. c. A person who has studied the Anuvāka, called Virajas. Caturmedha may also mean 'one who has performed the four sacrifices' enumerated above.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+त्रिमधुस् त्रिसुपर्णस् त्रिणाचिकेतश् चतुर्मेधः पञ्चाग्निर् ज्येष्ठसामिको वेदाध्याय्य् अनूचानपुत्रः श्रोत्रिय इत्येते  
+श्राद्धे भुञ्जानाः पङ्क्तिपावना भवन्ति ॥२२॥  
+
+**टीका**  
+'मधुवाता ऋतायत' इत्येष तृचः[^२]त्रिमधुः । तत्र हि प्रत्यृचं त्रयो मधुशब्दाः । इह तु तदध्यायी पुरुषस्त्रिमधुः । त्रिसुपर्णः [^३] 'चतुष्कपर्दा युवतिः सुपेशा' इत्यादिकस्तृचो बाह्वृचः । अन्ये तु तैत्तिरीयके[^४] ब्रह्ममेतु मा'मित्यादयः त्रयोऽनुवाका इत्याहुः । तत्र हि 'य इमं त्रिसुपर्णमयाचितं ब्राह्मणाय दद्यादि'ति श्रूयते 'आसहस्रात् पङ्क्ति पुनन्ती'ति च । पूर्ववत्पुरुषे वृत्तिः । त्रिणाचिकेतः नाचिकेताऽग्निर्बह्वीषु शखासु विधीयते [^५]तैत्तिरीयके, कठवल्लीषु, शतपथे च । तं यो वेद मन्त्रबाह्मणेन सह स त्रिनाचिकेत [^६]नाचिकेताग्नेस्त्रिश्चेतेत्यन्ये । विरजानुवाकाध्यायीत्यन्ये, [^७]प्राणापानेत्यदि । चतुर्मेधः अश्वमेधः, सर्वमेधः, पुरुषमेधाः, पितृमेध, इति चत्वारो मेधाः । तदध्यायी चतुर्मेधः । चतुर्णां यज्ञानामाहर्तेत्यन्ये ।  
+
+[^२]: मधु वाता ऋतायते, मधु नक्तमुतोषसि, मधुमान्नो वनस्पतिः (तै. सं. ४, २. ९.) इति तिस्त्र ऋचः त्रिमधु ।  
+
+[^३]: चतुष्कपर्दा युवत्तिः, एकस्सुपर्णस्समुद्रम्, सुपर्णं विप्राः, इति तिस्रः ऋचः (ऋ.सं. ८.६.१६.)  
+
+[^४]: ब्रह्ममेतु माम्, ब्रह्ममेधया, ब्रह्ममेधवा, तै. आ. ( महानारायणोपनिषदि.) (३८, ३९, ४०.) इति त्रयोऽनुवाकाः त्रिसुपर्णः।   
+
+[^५]: तैत्तिरीयके. ब्राह्मणे तृतीयाष्टके एकादशे प्रपाठक आम्नातः। कठोपनिषदि प्रथमादित्रिषु वल्लीषु, शतपथे।   
+
+[^६]: नाचिकेताग्नेस्त्रिश्चेतेत्यन्ये, इति. च.पु.  
+
+[^७]: प्राणापानव्योनादानसमाना मे शुध्यन्तां ज्योतिरह विरजा विपाप्मा भूयासं स्वाहा. (तै०आ० ( महाना.) ९५ ) इत्यादिः विरजानुवाकः ।
+
+पञ्चाग्निः सभ्यावसभ्याभ्यां सह । [^२१]पञ्चानां काठकाग्नीनामध्येता वा ज्येष्ठसाम तलवकारिणां प्रसिद्धं उदु त्यं, चित्रमित्येतयोर्गीतम् । तद्गायतीति ज्येष्ठसमागः । ज्येष्ठसामिक इति पाठे व्रीह्यादित्वात् ठन् । वेदाध्यायी स्वाध्यायपरः । अनूचानपुत्रः त्रैविद्यपुत्रः । श्रोत्रिय इत्यपि पठन्ति । तदादरार्थं द्रष्टव्यम् । एते श्राद्धे भुञ्जानाः पङ्क्तिं शोधयन्ति । वेदाध्यायीत्यस्याऽनन्तरमितिशब्दं पठन्ति । सोऽपपाठः । एतेन पञ्चाग्नीत्यविभक्तिकपाठो व्याख्यातः ॥२२॥  
+
+[^२१]:
+
+    सावित्र, नाचिकेत, चातुर्होत्र, वैश्वसृजा, रुणकेतुकाख्या' पञ्च चयनविशेषाः तैत्तिरीयब्राह्मणे ३याष्टके दशमादिषु त्रिषु (काठके. १. २. ३) प्रपाठकेषु समन्त्रका आम्नाता' पञ्चाग्नयः । छान्दोग्योपनिषद्याम्नातपञ्चाग्निविद्याध्यायी पञ्चाग्निरिति मनौ (३. १८५) मेधातिथिः ।
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/07/17/23_na_cha_naktaM.md">
+
+न च नक्तं श्राद्धं कुर्वीत २३
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/07/17/23_na_cha_naktaM.md">
+
+<details><summary>Bühler</summary>
+
+23. He shall not perform (any part of) a funeral sacrifice at night. [^13] 
+
+[^13]:  Manu III, 280.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+न च नक्तं श्राद्धं कुर्वीत ॥ २३ ॥  
+
+**टीका**  
+श्राद्धकर्मण्यारब्धे कारणाद्विलम्बे मध्ये यदादित्योऽस्तमियात् तदा श्राद्धशेषं न कुर्वीत, अपरेद्युर्दिवैव कुर्वीतेति ॥ २३ ॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/07/17/24_Arabdhe_chAbhojanamA_samApanAt.md">
+
+आरब्धे चाभोजनम्  - आ समापनात् २४
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/07/17/24_Arabdhe_chAbhojanamA_samApanAt.md">
+
+<details><summary>Bühler</summary>
+
+24. After having begun (a funeral-sacrifice), he shall not eat until he has finished it. [^14] 
+
+[^14]:  'The Śrāddha is stated to begin with the first invitation to the Brahmans.'--Haradatta.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+आरब्धे चाऽभोजनमासमापनात् (अन्यत्र राहुदर्शनात्) ॥ २४ ॥  
+
+**टीका**  
+पूर्वेद्युर्निवेदनप्रभृत्यापिण्डनिधानान्मध्ये कर्तुर्भोजनप्रतिषेधः । 
+
+अनन्तरमन्यत्र राहुदर्शनादिति पठन्ति । 
+
+'न च नक्त'मित्यस्यापवादः राहुदर्शने नक्तमपि कुर्वीतेति ।  
+उदीच्यास् त्व् एतत् प्रायेण न पठन्ति । तथा च पूर्वैर्न व्याख्यातम् । प्रत्युत 'न च नक्त'मित्येतत् सोमग्रहणविषयम् इति व्याख्यातम् । 
+
+पठ्यमानं तु न च नक्तमित्यस्यानन्तरं पठितुं युक्तम् ॥२४॥   
+
+इत्यापस्तम्बधर्मसूत्रवृत्तौ द्वितीयप्रश्ने सप्तदशी कण्डिका ॥ १७ ॥  
+
+इति चापस्तम्बधर्मसूत्रवृत्तौ हरदत्तमिश्रविरचितायामुज्ज्वलायां द्वितीयप्रश्ने सप्तमः पटलः ॥७॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/07/17/25_anyatra_rAhudarshanAt.md">
+
+अन्यत्र राहु-दर्शनात् +++(यदा नक्तम् अपि कुर्वीत)+++ २५
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+"उदीच्यास् त्व् एतत् प्रायेण न पठन्ति । तथा च पूर्वैर्न व्याख्यातम् ।" इति हरदत्तः। 
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/07/17/25_anyatra_rAhudarshanAt.md">
+
+<details><summary>Bühler</summary>
+
+25. (He shall not perform a funeral-sacrifice at [^15]  night), except if an eclipse of the moon takes place.
+
+[^15]:  'The Northerners do not generally receive this Sūtra, and therefore former commentators have not explained it.'--Haradatta.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+अन्यत्र राहुदर्शनात् ॥ २४ ॥  
+
+**टीका**  
++++(पूर्वसूत्रे द्रष्टव्यम्।)+++
+</details>
+
+</div>
+
+  
+
+इति सप्तमः पटलः

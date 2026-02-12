@@ -1,0 +1,358 @@
++++
+title = "०९ अतिथिः"
++++
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/04/09/01_shvobhUte_yathAmanasan_tarpayitvA.md">
+
+श्वोभूते यथामनसं तर्पयित्वा संसाधयेत् १
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/04/09/01_shvobhUte_yathAmanasan_tarpayitvA.md">
+
+<details><summary>Bühler</summary>
+
+1. And on the following day (he shall search for him), feast him to his heart's content, and accompany him (on his departure). [^1] 
+
+[^1]:  9. Yājñ. I, 113.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+श्वो भूते यथामानसं तर्पयित्वा संसाधयेत् ॥ १॥  
+
+**टीका**  
+अपरेद्युस्तमन्विष्य यथामानसं यथेच्छं तर्पयित्वा संसाधयेत् गच्छन्तमनुव्रजेत् ॥ १ ॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/04/09/02_yAnavantamA_yAnAt.md">
+
+यानवन्तमा यानात् २
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/04/09/02_yAnavantamA_yAnAt.md">
+
+<details><summary>Bühler</summary>
+
+2. (If the guest) possesses a carriage, (he shall accompany him) as far as that.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+यानवन्तमा यानात् ॥ २॥  
+
+**प्रस्तावः**  
+आ कुत इत्यत आह—  
+
+**टीका**  
+स चेदतिथिर्यानवान् भवति, तस्मा तस्याऽऽरोहणादनुव्रजेत् ॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/04/09/03_yAvannAnujAnIyAditaraH.md">
+
+यावन्नानुजानीयादितरः ३
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/04/09/03_yAvannAnujAnIyAditaraH.md">
+
+<details><summary>Bühler</summary>
+
+3. Any other (guest he must accompany), until permission to return is given.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+यावन्नाऽनुजानीयादितरः ॥३॥  
+
+**टीका**  
+इतरो यानरहितो यावन्नाऽनुजानीयात् गच्छेति, तं तावदनुव्रजेत् ॥३॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/04/09/04_apratIbhAyAM_sImno_nivarteta.md">
+
+अप्रतीभायां +++(बुद्धौ न जातायाम्)+++ सीम्नो निवर्तेत ४
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/04/09/04_apratIbhAyAM_sImno_nivarteta.md">
+
+<details><summary>Bühler</summary>
+
+4. If (the guest) forgets (to give leave to depart), the (host) may return on reaching the boundary of his village.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+अप्रतीभायां सीम्नो निवर्तेत ॥ ४ ॥  
+
+**टीका**  
+यदि तस्याऽन्यपरतयाऽनुज्ञायां प्रतीभा बुद्धिर्न जायते, ततस्सीम्नि प्राप्तायां ततो निवर्तेत । प्रतेदीर्घश्छान्दसः। 'संसाधये'दित्यादि सर्वातिथिसाधारणम् । न निराकृतमात्रविषयम् ॥४॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/04/09/05_sarvAnvaishvadeve_bhAginaH_kurvItA.md">
+
+सर्वान्वैश्वदेवे भागिनः कुर्वीता श्व-चाण्डालेभ्यः ५
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/04/09/05_sarvAnvaishvadeve_bhAginaH_kurvItA.md">
+
+<details><summary>Bühler</summary>
+
+5. To all (those who come for food) at (the end of) the Vaiśvadeva he shall give a portion, even to dogs and Caṇḍālas.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+सर्वान्वैश्वदेवे भागिनः कुर्वीता श्वचण्डालेभ्यः ॥५॥  
+
+**टीका**  
+वैश्वदेवान्ते भोजनार्थमुपस्थितान् सर्वानेव भागिनः कुर्वीताऽऽश्वचण्डालेभ्यः । अभिविधावाकारः । तेभ्योऽपि किश्चिद्देयम् । तथा च मनुः —  
+[^१] 'शुनां च पतितानां च श्वपचां पापरोगिणाम् ।  
+वयसां च क्रिमीणां च शनकैर्निर्वपेद्भुवि ॥ इति ॥५॥  
+
+[^१]: म०स्मृ० ३.९२.
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/04/09/06_nAnarhadbhyo_dadyAd_ity.md">
+
+नानर्हद्भ्यो दद्याद् इत्य् एके ६
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/04/09/06_nAnarhadbhyo_dadyAd_ity.md">
+
+<details><summary>Bühler</summary>
+
+6. Some declare that he shall not give anything to unworthy people (such as Caṇḍālas).
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+नाऽनहट्यो दद्यादित्येके ॥ ६ ॥  
+
+**टीका**  
+अनर्हद्भ्यश्चण्डालादिभ्यो न दद्यादित्येके मन्यन्ते । तत्र दानेऽभ्युदयः । अदाने न प्रत्यवायः॥ ६ ॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/04/09/07_upetaH_strINAmanupetasya_chochChiShTaM.md">
+
+उपेतः स्त्रीणामनुपेतस्य चोच्छिष्टं वर्जयेत् ७
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/04/09/07_upetaH_strINAmanupetasya_chochChiShTaM.md">
+
+<details><summary>Bühler</summary>
+
+7. A person who has been initiated shall not eat the leavings of women or of an uninitiated person. [^2] 
+
+[^2]:  After a long discussion on the object of this Sūtra, Haradatta comes to the conclusion that it is given 'against the improper custom to dine out of the same vessel with one's wife and uninitiated children, which prevails in some countries.'
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+उपेतः स्त्रीणामनुपेतस्य चोच्छिष्टं वर्जयेत् ॥ ७ ॥  
+
+**टीका**  
+उपेतः कृतोपनयनोऽसमावृत्तः । स स्त्रीणामनुपेतस्य चोच्छिष्टं वर्जयेत् न भुजीत । एवं सति समावृत्तस्योच्छिष्टं भुञ्जानस्य न दोषः स्यात् । एवं तर्हि उपेत आन्तात् कृतदारोऽकृतदारश्च स्त्रीणामनुपेतस्य चोच्छिष्टं वर्जयत् । एवमप्युपेतस्य यस्य कस्यचिदपि यदुच्छिष्टं तद्भोजने न दोषः स्यात् । पितुर्ज्येष्ठस्य च भ्रातुरुच्छिष्टं भोक्तव्यम्-(१.४ १९) इत्येतन्नियमार्थं भविष्यति-पितुरेव भ्रातुरेवेति। यथेवं सूत्रमेवेदमनर्थकम्। तस्मादेव नियमादन्यत्राऽप्रसङ्गात् । इदं तर्हि प्रयोजनम्-यदा पिताऽनुपेतः पुत्रस्तु प्रायश्चित्तं कृत्वा कृतोपनयनः तदा तं प्रति पितुरनुपेतस्योच्छिष्टं प्रतिषिध्यते । एवं ज्येष्ठेऽपि द्रष्टव्यम् । एतदपि नास्ति प्रयोजनम् । उक्तं हि 'धर्मविप्रतिपत्तावभोज्य(१.४.१२) मिति । 'तेषामभ्यागमनं भोजनं विवाहमिति च वर्जये(१.१.३३)दिति च। तथा स्त्रीणामित्येतत् किमर्थम् १ मातुरुच्छिष्टप्रतिषेधार्थम् । कथं प्रसङ्गः ? 'भ्रातरि पितर्याचार्यवच्छुश्रूषे' (१.१४.५.)ति वचनात्, 'यदुच्छिष्टं प्राश्नाति हविरुच्छिष्टमेव त'(१.४.१,२)दित्याचार्योच्छिष्टस्य हविष्ट्वेन संस्तवाच्च । [^१] एवमपि 'पितुर्ज्येष्ठस्ये'त्यत्र पितुर्ग्रहणादेव सिद्धम् । तस्मात् केषुचिज्जनपदेषु भार्ययाऽनुपेतेन च सह भोजनमाचरन्ति । तथा च बौधायनः — [^२] 'यानि दक्षिणतस्तानि व्याख्यास्यामः । यथैतदनुपेतेन सह भोजनं स्त्रिया सह भोजन'मिति । तस्य दुराचारत्वमनेन प्रतिपाद्यते ॥   
+
+[^१]: नैतदपि सारम् । 'पितुर्ज्येष्ठस्य च' इत्यत्रपितुर्ग्रहणादेव तस्या अप्रसक्तेः, इति.च.पु  
+
+[^२]: बौ०ध० १. १. १८, १९.
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/04/09/08_sarvANyudakapUrvANi_dAnAni.md">
+
+सर्वाण्युदकपूर्वाणि दानानि ८
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/04/09/08_sarvANyudakapUrvANi_dAnAni.md">
+
+<details><summary>Bühler</summary>
+
+8. All gifts are to be preceded by (pouring out) water. [^3] 
+
+[^3]:  'Consequently a gift of food also.' The custom is to pour water, usually with the spoon called Darvī (Pallī), into the extended palm of the recipient's right hand.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+सर्वाण्युदकपूर्वाणि दानानि ॥ ८॥  
+
+**टीका**  
+'सर्वाणी'ति वचनात् भिक्षाप्युदकपूर्वमेव देया ॥ ८॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/04/09/09_yathAshruti_vihAre.md">
+
+यथाश्रुति विहारे +++(=यागशालायाम्)+++९ 
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/04/09/09_yathAshruti_vihAre.md">
+
+<details><summary>Bühler</summary>
+
+9. (But gifts offered to priests) at sacrifices (are to be given) in the manner prescribed by the Veda.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+यथाश्रुति विहारे ॥ ९॥  
+
+**टीका**  
+विहारे यज्ञकर्मणि यानि दानानि दक्षिणादीनि, तानि यथाश्रुत्येव । नोदकपूर्वाणि ॥९॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/04/09/10_ye_nityA_bhAktikAs.md">
+
+ये नित्या भाक्तिकास्तेषामनुपरोधेन संविभागो विहितः १०
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/04/09/10_ye_nityA_bhAktikAs.md">
+
+<details><summary>Bühler</summary>
+
+10. The division of the food must be made in such a manner that those who receive daily portions (slaves) do not suffer by it.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+ये नित्या भाक्तिकास्तेषामनुपरोधेन संविभागो विहितः।  
+
+**टीका**  
+ये नित्या भाक्तिका भक्तार्हाः कर्मकरादयः तेषामुपरोधो यथा न भवति तथा वैश्वदेवान्ते अभ्यागतेभ्यः संविभागः कर्तव्यः ॥ १० ॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/04/09/11_kAmamAtmAnam_bhAryAm_putraM.md">
+
+काममात्मानं भार्यां पुत्रं वोपरुन्ध्यान्न त्वेव दासकर्मकरम् ११
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/04/09/11_kAmamAtmAnam_bhAryAm_putraM.md">
+
+<details><summary>Bühler</summary>
+
+11. At his pleasure, he may stint himself, his wife, or his children, but by no means a slave who does his work.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+काममात्मानं भार्यां पुत्रं वोपरुन्ध्यान्न त्वेव दासकर्मकरम् ॥ ११ ॥  
+
+**टीका**  
+दासो भूत्वा यः कर्म करोति स दासकर्मकरः तं आत्माशुपरोधे नापि नोपरुन्ध्यात् । किं पुनरागतार्थं तं नोपरुन्ध्यादिति[^३] ॥ ११ ॥  
+
+[^३]: 'अतस्तं केवलं कर्मकरं नोपरुन्ध्यात्' इत्यधिकः पाठः क. पुस्तके ।
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/04/09/12_tathA_chAtmano-nuparodha~N_kuryAdyathA.md">
+
+तथा चात्मनोऽनुपरोधं कुर्याद्यथा कर्मस्वसमर्थः स्यात् १२
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/04/09/12_tathA_chAtmano-nuparodha~N_kuryAdyathA.md">
+
+<details><summary>Bühler</summary>
+
+12. And he must not stint himself so much that he becomes unable to perform his duties.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+तथा चाऽऽत्मनोऽनुपरोधं कुर्याद्यथा कर्मसु समर्थस्स्यात् ॥  
+
+**टीका**  
+कर्मसु अग्निहोत्रादिषु आर्जनेषु च यथा स्वयं समर्थो भवति तथाऽऽत्मानं नोपरुन्ध्यात कुटुम्बी ॥ १२॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/04/09/13_ashTau_grAsAH.md">
+
+> 'अष्टौ ग्रासा मुनेर् भक्ष्याः षोडशाऽरण्य-वासिनः ।  
+द्वात्रिंशतं गृहस्थस्याऽपरिमितं ब्रह्मचारिणः ॥  
+आहिताग्निर् अनरड्वांश् च ब्रह्मचारी च ते त्रयः ।  
+अश्नन्त एव सिध्यन्ति नैषां सिद्धिर् अनश्नताम्' 
+
+इति॥
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/04/09/13_ashTau_grAsAH.md">
+
+<details><summary>Bühler</summary>
+
+13. Now they quote also (the following two verses):
+
+'Eight mouthfuls are the meal of an ascetic, sixteen that of a hermit living in the woods, thirty-two that of a householder, and an unlimited quantity that of a student. An Agnihotrin, a draught-ox, and a student, those three can do their work only if they eat; without eating (much), they cannot do it.' [^4] 
+
+[^4]:  Manu VI, 28; Yājñ. III, 55.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+[^१] 'अष्टौ ग्रासा मुनेर्भक्ष्याः षोडशाऽरण्यवासिनः ।  
+द्वात्रिंशतं गृहस्थस्याऽपरिमितं ब्रह्मचारिणः ॥  
+आहिताग्निरनरड्वांश्च ब्रह्मचारी च ते त्रयः ।  
+अश्नन्त एव सिध्यन्ति नैषां सिद्विरनश्नता'मिति   
+
+**प्रस्तावः**  
+अथाऽप्युदाहरन्ति—  
+
+**टीका**  
+अवैतस्मिन्नात्मानं नोपरुन्ध्यादिति विषये [^२]श्लोकावुदाहरन्ति । मुनेः सन्न्यासिनः । भक्ष्या अष्टौ ग्रासाः आस्याविकारेण । अरण्यवासी वानप्रस्थः । तस्य षोडश । द्वात्रिंशत् ग्रासाः गृहस्थस्य । प्रथमार्थे द्वितीया । ब्रह्मचारिणस्तु विद्यार्थस्य नैष्ठिकस्य च ग्रासनियमो नास्ति । द्वितीयेन श्लोकेनाहिताग्निविषये 'कालयोर्भोजन'(२.१.२.)मित्ययमपि नियमो नास्तीति[^३] प्रतिपाद्यते । अनडुग्रहणं दृष्टान्तार्थम् । ब्रह्मचारिग्रहणं दृढार्थम् । सिध्यन्ति स्वकार्यक्षमा भवन्ति ॥ १३ ॥  
+
+[^१]: एतच्छ्लोकद्वयानन्तरं गृहस्थो ब्रह्मचारी वा योऽनश्नन् सुतपश्चरेत् । प्राणाग्निहोत्रलोपेन अवकीर्णी भवेत्तु सः । इत्यधिकस्सूत्रभागो घ. पुस्तके ॥  
+
+[^२]: श्लोकान् इति घ. पु.  
+
+[^३]: प्रतिपादयितुम् इति पु. क.  
+
+इत्यापस्तम्बधर्मसूत्रे नवमी कण्डिका ॥  
+इत्यापस्तम्बधर्मसत्रवृत्तौ हरदत्तविरचितायामुज्ज्वलायां द्वितीयप्रश्ने चतुर्थः पटलः ॥ ४ ॥
+</details>
+
+</div>

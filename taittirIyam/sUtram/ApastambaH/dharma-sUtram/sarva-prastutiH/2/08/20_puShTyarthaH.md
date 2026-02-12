@@ -1,0 +1,589 @@
++++
+title = "२० पुष्ट्यर्थः"
++++
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/20/01_mAsishrAddhe_tilAnAn_droNan.md">
+
+मासि-श्राद्धे  
+तिलानां द्रोणं द्रोणं येनोपायेन +++(= अभ्यङ्ग-पाकादौ)+++ शक्नुयात्  
+तेनोपयोजयेत् १
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/08/20/01_mAsishrAddhe_tilAnAn_droNan.md">
+
+<details><summary>Bühler</summary>
+
+1. At every monthly Śrāddha he shall use, in whatever manner he may be able, one droṇa of sesamum. [^1] 
+
+[^1]:  20. A droṇa equals 128 seers or śeras. The latter is variously reckoned at 1-3 lbs.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+मासि श्राद्धे तिलानां द्रोणंद्रोणं येनोपायेन शक्नुयात् तेनोपयोजयेत् ॥ १॥  
+
+**टीका**  
+येनोपायेनोपयोजयितुं शक्नुयात् अभ्यङ्गे, उद्वर्तने, भक्ष्ये, भोज्ये चेति तेनोपायेन मासिश्राद्धे तिलानां द्रोणं द्रोणमुपयोजयेत् । तत्रैकैकस्य ब्राह्मणस्य तिलानां द्रोणं द्रोणमुपयोजयितुमशक्यत्वात् समुदितानुपयोजयेत् । द्रोणंद्रोणमिति वीप्सावचनं तु प्रतिमासिश्राद्धमुपयोजनार्थमिति केचित् । अन्ये तु एवंभूताः प्रबलाः प्रयत्नेनान्विष्य भोजयितव्या इति ॥ १ ॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/20/02_samudetAMshcha_bhojayenna_chAtadguNAyochChiShTan.md">
+
+समुदेतांश्च भोजयेन्, न चातद्गुणायोच्छिष्टं दद्युः २
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/08/20/02_samudetAMshcha_bhojayenna_chAtadguNAyochChiShTan.md">
+
+<details><summary>Bühler</summary>
+
+2. And he shall feed Brāhmaṇas endowed with all (good qualities), and they shall not give the fragments (of the food) to a person who does not possess the same good qualities (as the Brāhmaṇas).
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+समुदेतांश्च भोजयेन्न चाऽतद्गुणायोच्छिष्टं दद्युः ॥२॥  
+
+**टीका**  
+व्याख्यातमिदम् । दद्युरिति बहुवचनं तथाविधकर्तृबहुत्वापेक्षम् । वचनव्यत्ययो वा ॥२॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/20/03_udagayana_ApUryamANapaxasyaikarAtramavarArdhyamupoShya_tiShyeNa.md">
+
+उदगयन आपूर्यमाण-पक्षस्यैकरात्रम् अवरार्ध्यम् उपोष्य  
+तिष्येण पुष्टिकामः स्थालीपाकं श्रपयित्वा  
+महाराजम्+++(=कुबेरम्)+++ इष्ट्वा  
+तेन सर्पिष्मता ब्राह्मणं भोजयित्वा  
+पुष्ट्य्-अर्थेन सिद्धिं वाचयीत ३
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/08/20/03_udagayana_ApUryamANapaxasyaikarAtramavarArdhyamupoShya_tiShyeNa.md">
+
+<details><summary>Bühler</summary>
+
+3. He who desires prosperity shall fast in the half of the year when the sun goes to the north, under the constellation Tiṣya, in the first half of the month, for (a day and) a night at least, prepare a Sthālīpāka-offering, offer burnt-oblations to Kubera (the god of riches), feed a Brāhmaṇa with that (food prepared for the Sthālīpāka) mixed with clarified butter, and make him wish prosperity with (a Mantra) implying prosperity. [^2] 
+
+[^2]:  The reason why the constellation Tiṣya has been chosen for this rite seems to be that Tiṣya has another name, Puṣya, i.e. 'prosperous'. This sacrifice is to begin on the Tiṣya-day of the month called Taiṣa or Pauṣa (December-January), and to continue for one year.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+उदगयन आपूर्यमाणपक्षस्यैकरात्रमवरार्ध्यमुपोष्य तिष्येण पुष्टिकामः स्थालीपाकं श्रपयित्वा महाराजमिष्ट्वा तेन सर्पिष्मता ब्राह्मणं भोजयित्वा पुष्ट्यर्थेन सिद्धिं वाचयीत ॥३॥  
+
+**प्रस्तावः**  
+अथ पुष्टिकामस्यैवाऽपरः प्रयोग आ पटलसमाप्तेः —  
+
+**टीका**  
+पुष्टिकामः पुरुष एकरात्रावरमुपवासं कृत्वा उदगयनं आपूर्यमाणपक्षस्य पूर्वपक्षस्य सम्बन्धिना तिष्येण तस्मिन्नक्षत्रे स्थालीपाकं श्रपयित्वा [^१]महाराजं वैश्रवणं यजेत । आज्यभागान्ते महाराजाय स्वाहेति प्रधानहोमः । स्विष्टकृदादिजयादयः । परिषेचनान्ते तेन सर्पिष्मता स्थालीपाकेन ब्राह्मणं भोजयेत् । उत्तरविवक्षयेदं वचनम् । भोजयित्वा सिद्धिं वाचयीत पुष्टिरस्त्विति ॥ ३ ॥  
+
+[^१]:
+
+    कुबेराय वैश्रवणाय । महाराजाय नमः । (तै० आर० १. ३१. ) इति मन्त्रे वैश्रवणस्य महाराजपदेन सामानाधिकरण्यात् ॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/20/04_evamaharaharA_parasmAttiShyAt.md">
+
+एवम् अहर् अहर् आ परस्मात् तिष्यात् ४
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/08/20/04_evamaharaharA_parasmAttiShyAt.md">
+
+<details><summary>Bühler</summary>
+
+4. This (rite he shall repeat) daily until the next Tiṣya(-day).
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+एवमहरहरापरस्मात्तिष्यात् ॥ ४॥  
+
+**टीका**  
+एवमिदं स्थालीपाकश्रपणादिसिद्धिवाचनान्तमहरहः कर्तव्यमापरस्मातिष्यात् यावदपरस्तिष्य आगच्छति ॥ ४ ॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/20/05_dvau_dvitIye.md">
+
+द्वौ द्वितीये ५
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/08/20/05_dvau_dvitIye.md">
+
+<details><summary>Bühler</summary>
+
+5. On the second (Tiṣya-day and during the second month he shall feed) two (Brāhmaṇas).
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+द्वौ द्वितीये ॥ ५ ॥  
+
+**टीका**  
+द्वितीये तिष्ये प्राप्ते द्वौ भोजयेत् । अन्यत्समानम् । एवमातृतीयात् ॥५॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/20/06_trIMstRtIye.md">
+
+त्रींस्तृतीये ६
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/08/20/06_trIMstRtIye.md">
+
+<details><summary>Bühler</summary>
+
+6. On the third (Tiṣya-day and during the third month he shall feed) three (Brāhmaṇas).
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+श्रीस्तृतीये ॥ ६ ॥  
+
+**टीका**  
+तृतीये तिष्ये त्रीन् भोजयेदाचतुर्थात् ॥ ६ ॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/20/07_evaM_saMvatsaramabhyuchchayena.md">
+
+एवं संवत्सरम् अभ्युच्चयेन ७
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/08/20/07_evaM_saMvatsaramabhyuchchayena.md">
+
+<details><summary>Bühler</summary>
+
+7. In this manner (the Tiṣya-rite is to be performed) for a year, with a (monthly) increase (of the number of Brāhmaṇas fed).}
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+एवं संवत्सरमभ्युच्चयेन ॥ ७ ॥  
+
+**टीका**  
+एवमेतत्कर्म यावत्संवत्सरः पूर्यते तावत् कर्तव्यम् । ब्राह्मणभोजनं चाऽभ्युच्चयेन भवति । चतुर्थीप्रभृति चत्वारः, पञ्चमप्रभृति पञ्चेत्यादि ॥७॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/20/08_mahAntam_poSham_puShyati.md">
+
+महान्तं पोषं पुष्यति ८
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/08/20/08_mahAntam_poSham_puShyati.md">
+
+<details><summary>Bühler</summary>
+
+8. (Thus) he obtains great prosperity.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+महान्तं पोषं पुष्यति ॥ ८॥  
+
+**प्रस्तावः**  
+एवं कृते फलमाह—  
+
+**टीका**  
+महत्या पुष्टया युक्तो भवति ॥ ८ ॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/20/09_Adita_evopavAsaH.md">
+
+आदित एवोपवासः ९
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/08/20/09_Adita_evopavAsaH.md">
+
+<details><summary>Bühler</summary>
+
+9. But the fasting takes place on the first (Tiṣya-day) only.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+आदित एवोपवासः ॥ ९ ॥  
+
+**टीका**  
+उपवासस्त्वादित एव पुष्ये भवति । न प्रतिपुष्यम् ॥९॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/20/10_AttatejasAm_bhojanaM_varjayet.md">
+
+आत्त-तेजसां भोजनं वर्जयेत् १०
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/08/20/10_AttatejasAm_bhojanaM_varjayet.md">
+
+<details><summary>Bühler</summary>
+
+10. He shall avoid to eat those things which have lost their strength (as butter-milk, curds, and whey).
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+आत्ततेजसा भोजनं वर्जयेत् ॥ १० ॥  
+
+**टीका**  
+आत्ततेजांसि तक्रवाजिनादीनि । तानि नोपभुञ्जीत ॥ १०॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/20/11_bhasmatuShAdhiShThAnam.md">
+
+भस्म-तुषाधिष्ठानम् ११
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/08/20/11_bhasmatuShAdhiShThAnam.md">
+
+<details><summary>Bühler</summary>
+
+11. He shall avoid to tread on ashes or husks of grain. [^3] 
+
+[^3]:  Manu IV, 7 8.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+भस्मतुषाधिष्ठानम् ॥ ११ ॥  
+
+**टीका**  
+वर्जयेदित्येव । भस्मतुषांश्च नाऽधितिष्ठेत् नाऽऽक्रामेत् ॥ ११ ॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/20/12_padA_pAdasya_praxAlanamadhiShThAna~n.md">
+
+पदा पादस्य प्रक्षालनम् अधिष्ठानं च वर्जयेत् १२
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/08/20/12_padA_pAdasya_praxAlanamadhiShThAna~n.md">
+
+<details><summary>Bühler</summary>
+
+12. To wash one foot with the other, or to place one foot on the other,
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+पदा पादस्य प्रक्षालनमधिष्ठानं च वर्जयेत् ॥ १२ ॥  
+
+**टीका**  
+एकेन पादेन पादान्तरस्य प्रक्षालनं अधिष्ठानं च वर्जयेत् न कुर्यात् ॥१२॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/20/13_prenkholana~n_cha_pAdayoH.md">
+
+प्रेङ्खोलनं च पादयोः १३
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/08/20/13_prenkholana~n_cha_pAdayoH.md">
+
+<details><summary>Bühler</summary>
+
+13. And to swing his feet,
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+प्रेङ्खोलनं च पादयोः ॥ १३ ॥  
+
+**टीका**  
+प्रेङ्खोलनं दोलनमितस्ततश्चालनम् ॥ १३ ॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/20/14_jAnuni_chAtyAdhAna~n_janghAyAH.md">
+
+जानुनि चात्याधानं जङ्घायाः १४
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/08/20/14_jAnuni_chAtyAdhAna~n_janghAyAH.md">
+
+<details><summary>Bühler</summary>
+
+14. And to place one leg crosswise over the knee (of the other),
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+जानुनि चाऽत्याधानं जङ्घायाः ॥ १४ ॥  
+
+**टीका**  
+एकस्मिन् जानुनि इतरस्या जङ्घायाः अत्याधानमवस्थापनं च वर्जयेत् ॥ १४ ॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/20/15_nakhaishcha_nakhavAdanam.md">
+
+नखैश् च नखवादनम् १५
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/08/20/15_nakhaishcha_nakhavAdanam.md">
+
+<details><summary>Bühler</summary>
+
+15. And to make his nails
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+नखैश्च नखवादनः ॥ १५ ॥  
+
+**टीका**  
+स्पष्टम् ॥ १५॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/20/16_sphoTanAni_chAkAraNAt.md">
+
+स्फोटनानि चाकारणात् १६
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/08/20/16_sphoTanAni_chAkAraNAt.md">
+
+<details><summary>Bühler</summary>
+
+16. Or to make (his finger-joints) crack without a (good) reason, [^4] 
+
+[^4]:  'Good reasons for cracking the joints are fatigue or rheumatism.'--Haradatta.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+स्फोटनानि चाऽकारणात् ॥ १६ ॥  
+
+**टीका**  
+पर्वसन्धीनां स्फोटनानि वर्जयेत् अकारणात्, कारणं श्रमवातादि । वादनस्फोटनानीति समासपाठेऽप्येष एवार्थः ॥ १६ ॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/20/17_yachchAnyatparichaxate.md">
+
+यच् चान्यत् परिचक्षते १७
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/08/20/17_yachchAnyatparichaxate.md">
+
+<details><summary>Bühler</summary>
+
+17. And all other (acts) which they blame.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+यच्चान्यत्परिचक्षते ॥ १७ ॥  
+
+**टीका**  
+यच्चान्यदेवं उक्तव्यतिरिक्तं तृणच्छेदनादि शिष्टाः परिचक्षते गर्हन्ते तदपि वर्जयेत् ॥ १७ ॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/20/18_yoktA_cha_dharmayukteShu.md">
+
+योक्ता च धर्म-युक्तेषु द्रव्य-परिग्रहेषु च १८
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/08/20/18_yoktA_cha_dharmayukteShu.md">
+
+<details><summary>Bühler</summary>
+
+18. And let him acquire money in all ways that are lawful.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+योक्ता च धर्मयुक्तेष्ठ द्रव्यपरिग्रहेषु च ॥ १८ ॥  
+
+**टीका**  
+एकश्चशब्दोऽनर्थकः । केचिन्नैव पठन्ति । धर्माविरुद्धा ये द्रव्यपरिग्रहास्तेषु च योक्ता उत्पादयिता स्यान्निरीहस्स्यात् ॥ १८ ॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/20/19_pratipAdayitA_cha_tIrthe.md">
+
+प्रतिपादयिता च तीर्थे १९
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/08/20/19_pratipAdayitA_cha_tIrthe.md">
+
+<details><summary>Bühler</summary>
+
+19. And let him spend money on worthy (persons or objects). [^5] 
+
+[^5]:  Manu XI, 6, and passim.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+प्रतिपादयिता च तीर्थे ॥ १९॥  
+
+**टीका**  
+तीर्थं गुणवत् पात्रं, यज्ञो वा । तत्र द्रव्यस्याऽर्जितस्य प्रतिपादयिता स्यात् ॥ १९ ॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/20/20_yantA_chAtIrthe_yato.md">
+
++++(दानस्य नि)+++यन्ता चातीर्थे - यतो न भयं स्यात् २०
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/08/20/20_yantA_chAtIrthe_yato.md">
+
+<details><summary>Bühler</summary>
+
+20. And let him not give anything to an unworthy (person), of whom he does not stand in fear.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+यन्ता चाऽतीर्थे यतो न भयं स्यात् ॥ २० ॥  
+
+**टीका**  
+यन्ता नियन्ता अप्रदाता अतीर्थे अप्रदाता च स्यात् । यतः पुरुषादप्रदानेऽपि न भयं स्यात् । भयसम्भवे तु पिशुनादिभ्यो देयम् ॥ २० ॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/20/21_sangrahItA_cha_manuShyAn.md">
+
+संग्रहीता च मनुष्यान् +++(हितवचनादिभिः)+++ २१
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/08/20/21_sangrahItA_cha_manuShyAn.md">
+
+<details><summary>Bühler</summary>
+
+21. And let him conciliate men (by gifts or kindness).
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+सङ्ग्रहीता च मनुष्यान् ॥ २१ ॥  
+
+**टीका**  
+अर्थप्रदानप्रियवचनानुसरणादिभिर् मनुष्याणां सङ्ग्रहणशीलस् स्यात् ॥ २१ ॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/20/22_bhoktA_cha_dharmAvipratiShiddhAnbhogAn.md">
+
+भोक्ता च धर्माविप्रतिषिद्धान् भोगान् +++(5)+++२२
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/08/20/22_bhoktA_cha_dharmAvipratiShiddhAnbhogAn.md">
+
+<details><summary>Bühler</summary>
+
+22. And he may enjoy the pleasures which are not forbidden by the holy law.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+भोक्ता च धर्माविप्रतिषिद्धान् भोगान् ॥ २२ ॥  
+
+**टीका**  
+धर्माविरुद्धा ये भोगाः स्रक्चन्दनस्वभार्यासेवनादयः, तेषां च भोगशीलस्स्यात् ॥ २२ ॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/20/23_evamubhau_lokA_vabhijayati.md">
+
+एवम् उभौ लोका वभिजयति २३
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/08/20/23_evamubhau_lokA_vabhijayati.md">
+
+<details><summary>Bühler</summary>
+
+23. (Acting) thus he conquers both worlds.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+एवमुभौ लोकावभिजयति ॥ २३ ॥  
+
+**टीका**  
+एवं महत्या पुष्टया युक्त उक्तप्रकारमनुतिष्ठन्नुभौ लोकावभिजयति भोगेनेमं लोकं, तीर्थे प्रतिपादनेन चाऽमुं लोकमिति ॥ २३ ॥  
+
+इत्यापस्तम्बधर्मसूत्रे द्वितीयप्रश्ने विंशी कण्डिका ॥ २० ॥   
+
+इति चापस्तम्बधर्मसूत्रवृत्तौ हरदत्तमिश्रविरचितायामुज्ज्वलायां द्वितीयप्रश्नेऽष्टमः पटलः ॥ ८॥
+</details>
+
+</div>
+
+  
+
+इत्यष्टमः पटलः

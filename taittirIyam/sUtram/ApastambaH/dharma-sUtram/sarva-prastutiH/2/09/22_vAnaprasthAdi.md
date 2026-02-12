@@ -1,0 +1,623 @@
++++
+title = "२२ वानप्रस्थादि"
++++
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/22/01_tasyAraNyamAchChAdanaM_vihitam.md">
+
+तस्यारण्यम् आच्छादनं विहितम् १
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/22/01_tasyAraNyamAchChAdanaM_vihitam.md">
+
+<details><summary>Bühler</summary>
+
+1. A dress of materials procured in the woods (skins or bark) is ordained for him. [^1] 
+
+[^1]:  22. Manu VI, 6.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+तस्याऽऽरण्यमाच्छादनं विहितम् ॥ १ ॥  
+
+**टीका**  
+अरण्ये भवमारण्यमजिनवल्कलादि ॥१॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/22/02_tato_mUlaiH_phalaiH.md">
+
+ततो मूलैः फलैः पर्णैस् तृणैर् इति वर्तयंश् चरेत् २
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/22/02_tato_mUlaiH_phalaiH.md">
+
+<details><summary>Bühler</summary>
+
+2. Then he shall wander about, sustaining his life by roots, fruits, leaves, and grass. [^2] 
+
+[^2]:  Manu VI, 5, 21; Yājñ. III, 46.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+ततो मूलैः फलैः पर्णैस्तृणैरिति वर्तयंश्चरेत् ॥ २ ॥  
+
+**टीका**  
+ततो मूलादिभिर्वर्तयन् वृत्तिः प्राणयात्रा तां कुर्वंश्चरेच्चरणशीलः स्यात् ॥ २॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/22/03_antataH_pravRttAni.md">
+
+अन्ततः प्रवृत्तानि +++(= स्वयम् पतितानि)+++ ३
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/22/03_antataH_pravRttAni.md">
+
+<details><summary>Bühler</summary>
+
+3. In the end (he shall live on) what has become detached spontaneously.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+अन्ततः प्रवृत्तानि ॥३॥  
+
+**टीका**  
+मूलादिभिः स्वयंगृहीतैः कञ्चित्कालं वर्तयित्वा अन्ततः अन्ते प्रवृत्तानि स्वयमेव पतितानि अभिनिश्रयेदिति वक्ष्यमाणेन सम्बन्धः । तान्यभिनिश्रित्य तैर्वतयेदिति ॥ ३॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/22/04_tato-po_vAyumAkAshamityabhinishrayet.md">
+
+ततोऽपो वायुम् आकाशम् इत्य् अभिनिश्रयेत् ४
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/22/04_tato-po_vAyumAkAshamityabhinishrayet.md">
+
+<details><summary>Bühler</summary>
+
+4. Next he shall live on water, (then) on air, then on ether. [^3] 
+
+[^3]:  'Then he shall live on ether, i.e. eat nothing at all.'--Haradatta. Manu VI, 31; Yājñ. III, 55.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+ततोऽपो वायुमाकाशमित्यभिनिश्रयेत् ॥ ४ ॥  
+
+**टीका**  
+ततः कियन्तञ्चित्कालमब्भक्षः ततो वायुभक्षः तत आकाशमभिनिश्रयेत् न किञ्चित् भक्षयेदिति । अभिनिश्रयणं सेवनम् ॥४॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/22/05_teShAmuttara_uttaraH_saMyogaH.md">
+
+तेषाम् उत्तर उत्तरः संयोगः फलतो विशिष्टः ५
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/22/05_teShAmuttara_uttaraH_saMyogaH.md">
+
+<details><summary>Bühler</summary>
+
+5. Each following one of these modes of subsistence is distinguished by a (greater) reward.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+तेषामुत्तर उत्तरस्संयोगः फलतो विशिष्टः ॥५॥  
+
+**टीका**  
+संयुज्यते संश्रयत इति संयोगः । तेषां मूलादीनां मध्ये उत्तरमुत्तरं समाश्रयणं फलतो विशिष्टमिति द्रष्टव्यम् ॥ ५॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/22/06_atha_vAnaprasthasyaivAnupUrvyameka_upadishanti.md">
+
+अथ वानप्रस्थस्यैवानुपूर्व्यम् एक उपदिशन्ति ६
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/22/06_atha_vAnaprasthasyaivAnupUrvyameka_upadishanti.md">
+
+<details><summary>Bühler</summary>
+
+6. Now some (teachers) enjoin for the hermit the successive performance (of the acts prescribed for the several orders). [^4] 
+
+[^4]:  'The word atha, "now," introduces a different opinion. Above, it has been declared that the life in the woods (may be begun) after the studentship only. But some teachers enjoin just for that hermit a successive performance of the acts.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+अथ वानप्रस्थस्यैवाऽऽनुपूर्व्यमेक उपदिशन्ति ॥६॥  
+
+**टीका**  
+अथेति पक्षान्तरोपन्यासे । पूर्वं ब्रह्मचर्यादेव वनप्रवेश उक्तः । एके वाचार्यास्तस्यैव वानप्रस्थस्याऽऽनुपूर्व्य कर्मोपदिशन्ति ॥६॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/22/07_vidyAM_samApya_dAra~N.md">
+
+विद्यां समाप्य  
+दारं कृत्वाग्नीन् आधाय  
+कर्माण्य् आरभते, सोमावरार्ध्यानि यानि श्रूयन्ते ७
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/22/07_vidyAM_samApya_dAra~N.md">
+
+<details><summary>Bühler</summary>
+
+7. After having finished the. study of the Veda, having taken a wife and kindled the sacred fires, he shall begin the rites, which end with the Soma-sacrifices, (performing) as many as are prescribed in the revealed texts.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+विद्यां समाप्य दारं कृत्वाऽग्नीनाधाय कर्माण्यरभते सोमावरार्ध्यानि यानि श्रूयन्ते ॥ ७ ॥  
+
+**प्रस्तावः**  
+कथम्? —
+
+**टीका**  
+ब्रह्मचर्ये स्थितो विद्यां समाप्य गृहस्थश्च भूत्वाऽग्नीनाधाय कर्माणि कुर्यात् । कानि ? सोमावरार्ध्यानि अवरार्धं पश्चार्धं तत्र भवोऽवरार्ध्यः सोमः अवरार्ध्यो येषां तानि सोमावरार्ध्यानि सोमान्तानि हविर्यज्ञाख्यानि चातुर्मास्यादीन् हविर्यज्ञान् सोमं चेत्यर्थः । यानि श्रूयन्ते श्रुतौ विहितानि ॥७॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/22/08_gRhAnkRtvA_sadAraH_saprajaH.md">
+
+गृहान् कृत्वा सदारः सप्रजः सहाग्निभिर् बहिर्ग्रामाद् वसेत् ८
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/22/08_gRhAnkRtvA_sadAraH_saprajaH.md">
+
+<details><summary>Bühler</summary>
+
+8. (Afterwards) he shall build a dwelling, and dwell outside the village with his wife, his children, and his fires, [^5] 
+
+[^5]:  Manu VI, 3 seq.; Yājñ. III, 45.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+गृहान् कृत्वा सदारस्सप्रजस्सहाग्निभिर्बहिर्ग्रामाद्वसेत् ॥ ८ ॥  
+
+**टीका**  
+अथ ग्रामाद्बहिररण्ये गृहान् कृत्वा सकुटुम्बस्सहैव चाग्निभिर्ग्रामाद्बहिर्वसेत् । अस्मिन्पक्षे प्रागुक्तमेकाग्निरित्येतन्नाऽस्ति ॥ ८ ॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/22/09_eko_vA.md">
+
+एको वा ९
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/22/09_eko_vA.md">
+
+<details><summary>Bühler</summary>
+
+9. Or (he may live) alone.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+एको वा ॥ ९ ॥  
+
+**टीका**  
+अथवा पुत्रेषु भार्यां निक्षिप्य स्वयमेक एव वसेत्। अस्मिन् पक्षे 'प्राजापत्यां निरुप्येष्ट'मिति परिव्राज उक्तेन न्यायेन श्रौतानग्नीनात्मनि समारोप्य श्रामणकेनाऽग्निमाधाय एकाग्निर्भवेत् ॥९॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/22/10_shilonChena_vartayet.md">
+
+शिलोञ्छेन+++(=उपात्तशस्यात् क्षेत्रात्
+शेषावचयनेन)+++ वर्तयेत् १०
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/22/10_shilonChena_vartayet.md">
+
+<details><summary>Bühler</summary>
+
+10. He shall support himself by gleaning corn. [^6] 
+
+[^6]:  Haradatta thinks that this rule refers both to the hermit who lives with his family and to him who lives alone. Others refer it to the latter only.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+सिलोञ्छेन वर्तयेत् ॥ १० ॥  
+
+**टीका**  
+व्याख्यातः शिलोञ्छः+++(=उपात्तशस्यात् क्षेत्रात्
+शेषावचयनम्)+++ । तेन वर्तयेत् प्राणयात्रां कुर्यात् । इदं सकुटुम्बस्य एकाकिनश्च साधारणम् । एकाकिन एवेत्यन्ये ॥ १० ॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/22/11_na_chAta_Urdhvam.md">
+
+न चात ऊर्ध्वं प्रतिगृह्णीयात् ११
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/22/11_na_chAta_Urdhvam.md">
+
+<details><summary>Bühler</summary>
+
+11. And after that he shall not any longer take presents.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+न चाऽत ऊर्ध्वं प्रतिगृह्णीयात् ॥ ११ ॥  
+
+**टीका**  
+यदा सिलोञ्छेन वृत्तिर्जाता अत ऊर्ध्वं न कुतश्चिदपि प्रतिगृह्णीयात् ॥११॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/22/12_abhiShiktashcha_juhuyAt.md">
+
+अभिषिक्तश् च जुहुयात् १२
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/22/12_abhiShiktashcha_juhuyAt.md">
+
+<details><summary>Bühler</summary>
+
+12. And he shall sacrifice (only) after having bathed (in the following manner):
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+अभिषिक्तश्च जुहुयात् ॥ १२ ॥  
+
+**टीका**  
+यदा जुहुयात्तदा अभिषिक्तः स्नातः। अनुवादोऽयं स्नाने विशेषं विधातुम् ॥ १२ ॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/22/13_shanairapo-bhyaveyAdabhighnann_abhimukhamAdityamudakamupaspRshet.md">
+
+शनैर् अपोऽभ्यवेयाद्  
+अभिघ्नन्न्  
+अभिमुखम् आदित्यम्  
+उदकम् उपस्पृशेत् +++(=स्नायात्)+++ १३
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/22/13_shanairapo-bhyaveyAdabhighnann_abhimukhamAdityamudakamupaspRshet.md">
+
+<details><summary>Bühler</summary>
+
+13. He shall enter the water slowly, and bathe without+++(??)+++ beating it (with his hand), his face turned towards the sun.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+शनैरपोऽभ्युपेयादभिघ्नन्नभिमुख आदित्यमुदकमुपस्पृशेत् ॥ १३ ॥  
+
+**टीका**  
+शनैरवेगेन जलाशयं प्रविशेत् । प्रविश्य चाऽभिघ्नन् हस्तेनोदकं ताडयन् उदकमुपस्पृशेत् स्नायात् आदित्याभिमुखः ॥ १३ ॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/22/14_iti_sarvatrodakopasparshanavidhiH.md">
+
+इति सर्वत्रोदकोपस्पर्शन-विधिः १४
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/22/14_iti_sarvatrodakopasparshanavidhiH.md">
+
+<details><summary>Bühler</summary>
+
+14. This rule of bathing is valid for all (castes and orders).
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+[^१]इति सर्वत्रोदकोपस्पर्शनविधिः ॥ १४ ॥  
+
+**टीका**  
+सर्ववर्णाश्रमसाधारणमेतत् । तथाचोत्तरत्र तस्य ग्रहणम् ॥ १४ ॥  
+
+[^१]: 'इति विधिः' इत्येव सूत्रम् च्छ. पु.
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/22/15_tasya_dvandvan_dra.md">
+
+तस्य द्वन्द्वं द्रव्याणाम् एक उपदिशन्ति -  
+पाकार्थ-भोजनार्थ-  
+वासि+++(=chisel)+++-परशु-दात्र+++(=असिद)+++-काजानाम्+++(=mallet)+++ १५
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/22/15_tasya_dvandvan_dra.md">
+
+<details><summary>Bühler</summary>
+
+15. Some enjoin (that he shall prepare) two sets of utensils for cooking and eating, (and) of choppers, hatchets, sickles, and mallets. [^7] 
+
+[^7]:  According to Haradatta, the word kāja appears to designate a 'mallet;' in the passage from the Rāmāyaṇa quoted in the Petersburg Dict. the commentator explains it by peṭaka, 'basket.'
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+तस्य द्वन्द्वद्रव्याणामेक उपदिशन्ति पाकार्थं भोजनार्थ वासिपरशुदात्रकाजानाम् ॥ १५ ॥  
+
+**टीका**  
+यानि पाकार्थानि ताम्रभाण्डादीनि । यानि च भोजनार्थानि कांस्यादीनि । वासिर्दर्व्यादि । तेषां सर्वेषां वास्यादीनां चतुर्णा[^२]मेकैकस्य द्वे द्वे द्रव्ये उत्पाद्ये इत्येक उपदिशन्ति । काजमपि वास्यादिवदुपकरणविशेषो दारुमयः ॥ १५॥  
+
+[^२]: एकैकस्यां विधायां इति च पु.
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/22/16_dvandvAnAmekaikamAdAyetarANi_datvAraNyamavatiShTheta.md">
+
+द्वंद्वानाम् एकैकम् आदायेतराणि +++(भार्यायै)+++ दत्वा ऽरण्यम् अवतिष्ठेत १६
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/22/16_dvandvAnAmekaikamAdAyetarANi_datvAraNyamavatiShTheta.md">
+
+<details><summary>Bühler</summary>
+
+16. He shall take one of each pair (of instruments), give the others (to his wife), and (then) go into the forest.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+द्वन्दानामेकैकमादायेतराणि दत्वाऽरण्यमवतिष्ठेत ॥१६॥  
+
+**टीका**  
+तेषां पाकादिसाधनानां द्रव्याणामेकैकं द्रव्यं स्वयमादायेतराणि भार्यायै दत्वा अरण्यमवतिष्ठेत उपतिष्ठेत् आश्रयेदिति ॥ १६ ॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/22/17_tasyAraNyenaivAta_UrdhvaM_homo.md">
+
+तस्यारण्येनैवात ऊर्ध्वं होमो, वृत्तिः, +++(अतिथि-)+++प्रतीक्षा, ऽऽच्छादनं च १७
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/22/17_tasyAraNyenaivAta_UrdhvaM_homo.md">
+
+<details><summary>Bühler</summary>
+
+17. After that time (he shall perform) the burnt-oblations, (sustain) his life, (feed) his guests, and (prepare) his clothes with materials produced in the forest. [^8] 
+
+[^8]:  Yājñ. III, 46.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+तस्याऽऽरण्येनैवाऽत ऊर्ध्वं होमो वृत्तिः प्रतीक्षाच्छादनं च ॥१७॥  
+
+**टीका**  
+तस्य वानप्रस्थस्याऽतोऽरण्यप्रवेशादूर्ध्वं आरण्येनैव नीवारादिना होमः वृत्तिः प्राणयात्रा प्रतीक्षा अतिथिपूजा च आच्छादनं वल्कलादिना ॥ १७ ॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/22/18_yeShu_karmasu_puroDAshAshcharavasteShu.md">
+
+येषु कर्मसु पुरोडाशाश् चरवस्  
+तेषु कार्याः १८
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/22/18_yeShu_karmasu_puroDAshAshcharavasteShu.md">
+
+<details><summary>Bühler</summary>
+
+18. Rice must be used for those sacrifices for which cakes mixed with meat (are employed by the householder).
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+येषु कर्मसु पुरोडाशाश्चरवस्तेषु कार्याः ॥१८॥  
+
+**टीका**  
+येषु दर्शपूर्णमासादिषु पुरोडाशा विहिताः गृहस्थस्य, तेष्वस्य तत्स्थाने [^१]चरवः कार्याः ॥ १८ ॥  
+
+[^१]: अनवस्नावितान्तरूष्मपक्वतण्डुलप्रकृतिकश्चरुः।
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/22/19_sarva~n_chopAMshu_saha.md">
+
+सर्वं चोपांशु - सह स्वाध्यायेन १९
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/22/19_sarva~n_chopAMshu_saha.md">
+
+<details><summary>Bühler</summary>
+
+19. And all (the Mantras), as well as the daily portion of the Veda, (must be recited) inaudibly.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+सर्वं चोपांशु सह स्वाध्यायेन ॥ १९ ॥  
+
+**टीका**  
+सर्वं च कर्मकाण्डं साङ्गं प्रधानमुपांशु भवति पारायणब्रह्मयज्ञाध्ययनेन सह । तदप्युपांशु कर्तव्यमिति ॥ १९ ॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/22/20_nAraNyamabhyAshrAvayet.md">
+
+नारण्यम् अभ्याश्रावयेत् २०
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/22/20_nAraNyamabhyAshrAvayet.md">
+
+<details><summary>Bühler</summary>
+
+20. He shall not make the inhabitants of the forest hear (his recitation). [^9] 
+
+[^9]:  This Sūtra explains the word upāṃśu, 'inaudibly.'
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+नाऽऽरण्यमभ्याश्रावयेत् ॥ २०॥  
+
+**टीका**  
+उपांशुवचनादेव सिद्धे वचनमाभिमुख्यप्रतिषेधार्थम् । तेनाऽरण्यस्था यथा नाऽऽभिमुख्येन शृणुयुः तावदुपांश्विति ॥ २० ॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/22/21_agnyarthaM_sharaNam.md">
+
+अग्न्य्-अर्थं शरणम् +++(=गृहम्)+++ २१
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/22/21_agnyarthaM_sharaNam.md">
+
+<details><summary>Bühler</summary>
+
+21. (He shall have) a house for his fire (only).
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+अग्न्यर्थं शरणम् ॥ २१ ॥  
+
+**टीका**  
+शरणं गृहं तदग्न्यर्थमेव ॥ २१ ॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/22/22_AkAshe_svayam.md">
+
+आकाशे स्वयम् +++(न गृहे)+++ २२
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/22/22_AkAshe_svayam.md">
+
+<details><summary>Bühler</summary>
+
+22. He himself (shall live) in the open air.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+आकाशे स्वयम् ॥ २२ ॥  
+
+**टीका**  
+स्वयं चाऽऽकाश एव वसेत् ॥ २२ ॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/22/23_anupastIrNe_shayyAsane.md">
+
+अनुपस्तीर्णे शय्य्-आसने
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/22/23_anupastIrNe_shayyAsane.md">
+
+<details><summary>Bühler</summary>
+
+23. His couch and seat, must not be covered (with mats).
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+अनुपस्तीर्णे शय्यासने ॥ २३ ॥  
+
+**टीका**  
+शयनं चाऽऽसनं चाऽनुपस्तीर्णे देशे कुर्यात् न तु किञ्चिदुपस्तीर्य ॥२३॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/22/24_nave_sasye_prApte.md">
+
+नवे सस्ये प्राप्ते पुराणम् अनुजानीयात् +++(विसर्जनाय)+++ २४
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/22/24_nave_sasye_prApte.md">
+
+<details><summary>Bühler</summary>
+
+24. If he obtains fresh grain, he shall throw away the old (store). [^10] 
+
+[^10]:  Manu VI, 15; Yājñ. III, 47.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+नवे सस्ये प्राप्ते पुराणमनुजानीयात् ॥ २४ ॥  
+
+**टीका**  
+नवे धान्ये श्यामाकनीवारादौ प्राप्ते जाते पुराणं पूर्वसञ्चितं सस्यमनुजानीयात् परित्यजेत् । तत्र मनुः —  
+[^२] 'त्यजेदाश्वयुजे मासि मुन्यन्नं पूर्वसञ्चितम् ।  
+जीर्णानि चैव वासांसि पुष्पमूलफलानि च ॥' इति ॥ २४ ॥  
+
+[^२]: म० स्मृ० ६.२५.
+इत्यापस्तम्बधर्मसूत्रवृत्तौ द्वितीयप्रश्ने द्वाविंशी कण्डिका ॥ २२ ॥
+</details>
+
+</div>
