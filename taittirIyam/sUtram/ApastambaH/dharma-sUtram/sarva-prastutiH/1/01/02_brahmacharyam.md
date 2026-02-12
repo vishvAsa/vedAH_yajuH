@@ -797,7 +797,7 @@ He who has been initiated shall dwell as a religious student in the house of his
 
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/23_tathA_xAralavaNamadhumAMsAni.md">
 
-तथा क्षार-लवण-मधु-मांसानि +++(गृह्यसूत्र उपनयनप्रकरणे क्षार-लवणयोर् त्र्यहं [नियमनात्](../../../../../../../../../static/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/gRhyam/karmANi/upanayana) मध्वादेरेव त्र्यहादूर्ध्वं नित्यो निषेधः। )+++ २३
+तथा क्षार-लवण-मधु-मांसानि +++(गृह्यसूत्र उपनयनप्रकरणे क्षार-लवणयोर् त्र्यहं [नियमनात्](../../../../../../../../../static/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/23_tathA_xAralavaNamadhumAMsAni.md/(/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/karmANi/upanayanam)) मध्वादेरेव त्र्यहादूर्ध्वं नित्यो निषेधः। )+++ २३
 
 </div>
 
