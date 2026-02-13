@@ -2,7 +2,7 @@
 title = "०२ गृहस्थः"
 +++
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/02/01_api_vA_lepAnpraxAlyAchamya.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/02/01_api_vA_lepAnpraxAlyAchamya.md">
 
 अपि वा लेपान्प्रक्षाल्याचम्य प्रोक्षणमङ्गानाम् १
 
@@ -28,7 +28,7 @@ title = "०२ गृहस्थः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/02/02_sarvavarNAnAM_svadharmAnuShThAne_paramaparimitaM.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/02/02_sarvavarNAnAM_svadharmAnuShThAne_paramaparimitaM.md">
 
 सर्ववर्णानां स्वधर्मानुष्ठाने परमपरिमितं सुखम् २
 
@@ -52,7 +52,7 @@ title = "०२ गृहस्थः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/02/03_tataH_parivRttau_karmaphalasheSheNa.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/02/03_tataH_parivRttau_karmaphalasheSheNa.md">
 
 ततः परिवृत्तौ कर्मफलशेषेण जातिं रूपं वर्णं बलं मेधां प्रज्ञां द्रव्याणि धर्मानुष्ठानमिति प्रतिपद्यते । तच्चक्रवदुभयोर्लोकयोः सुख एव वर्तते ३
 
@@ -81,7 +81,7 @@ title = "०२ गृहस्थः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/02/04_yathauShadhivanaspatInAm_bIjasya_xetrakarmavisheShe.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/02/04_yathauShadhivanaspatInAm_bIjasya_xetrakarmavisheShe.md">
 
 यथौषधिवनस्पतीनां बीजस्य क्षेत्रकर्मविशेषे फलपरिवृद्धिरेवम् ४
 
@@ -110,7 +110,7 @@ title = "०२ गृहस्थः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/02/05_etena_doShaphalaparivRddhiruktA.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/02/05_etena_doShaphalaparivRddhiruktA.md">
 
 एतेन दोषफलपरिवृद्धिरुक्ता ५
 
@@ -136,7 +136,7 @@ title = "०२ गृहस्थः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/02/06_steno-bhishasto_brAhmaNo_rAjanyo.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/02/06_steno-bhishasto_brAhmaNo_rAjanyo.md">
 
 स्तेनोऽभिशस्तो ब्राह्मणो राजन्यो वैश्यो वा परस्मिंल् लोके परिमिते निरये वृत्ते जायते चाण्डालो ब्राह्मणः पौल्कसो राजन्यो वैणो वैश्यः ६
 
@@ -167,7 +167,7 @@ title = "०२ गृहस्थः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/02/07_etenAnye_doShaphalaiH_karmabhiH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/02/07_etenAnye_doShaphalaiH_karmabhiH.md">
 
 एतेनान्ये दोषफलैः कर्मभिः परिध्वंसा दोषफलासु योनिषु जायन्ते वर्णपरिध्वंसायाम् ७
 
@@ -193,7 +193,7 @@ title = "०२ गृहस्थः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/02/08_yathA_chANDAlopasparshane_sambhAShAyAn.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/02/08_yathA_chANDAlopasparshane_sambhAShAyAn.md">
 
 यथा चाण्डालोपस्पर्शने संभाषायां दर्शने च दोषस्तत्र प्रायश्चित्तम् ८
 
@@ -217,7 +217,7 @@ title = "०२ गृहस्थः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/02/09_avagAhanamapAmupasparshane_sambhAShAyAm_brAhmaNasambhAShA.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/02/09_avagAhanamapAmupasparshane_sambhAShAyAm_brAhmaNasambhAShA.md">
 
 अवगाहनमपामुपस्पर्शने संभाषायां ब्राह्मणसंभाषा दर्शने ज्योतिषां दर्शनम् ९
 

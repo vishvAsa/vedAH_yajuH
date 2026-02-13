@@ -2,7 +2,7 @@
 title = "३० स्नातकः"
 +++
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/01_vidyayA_snAtItyeke.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/01_vidyayA_snAtItyeke.md">
 
 विद्यया स्नातीत्येके १
 
@@ -35,7 +35,7 @@ title = "३० स्नातकः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/02_tathA_vratenAShTAchatvAriMshatparImANena.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/02_tathA_vratenAShTAchatvAriMshatparImANena.md">
 
 तथा व्रतेनाष्टाचत्वारिंशत्परीमाणेन २
 
@@ -67,7 +67,7 @@ title = "३० स्नातकः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/03_vidyAvratena_chetyeke.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/03_vidyAvratena_chetyeke.md">
 
 विद्याव्रतेन चेत्येके ३
 
@@ -104,7 +104,7 @@ Some declare, that the student (shall bathe) after (having acquired) the knowled
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/04_teShu_sarveShu_snAtakavadvRttiH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/04_teShu_sarveShu_snAtakavadvRttiH.md">
 
 तेषु सर्वेषु स्नातकवद्वृत्तिः ४
 
@@ -130,7 +130,7 @@ Some declare, that the student (shall bathe) after (having acquired) the knowled
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/05_samAdhivisheShAchChrutivisheShAchcha_pUjAyAm_phalavisheShaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/05_samAdhivisheShAchChrutivisheShAchcha_pUjAyAm_phalavisheShaH.md">
 
 समाधिविशेषाच्छ्रुतिविशेषाच्च पूजायां फलविशेषः ५
 
@@ -157,7 +157,7 @@ Some declare, that the student (shall bathe) after (having acquired) the knowled
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/06_atha_snAtakavratAni.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/06_atha_snAtakavratAni.md">
 
 अथ स्नातकव्रतानि ६
 
@@ -181,7 +181,7 @@ Some declare, that the student (shall bathe) after (having acquired) the knowled
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/07_pUrveNa_grAmAnniShkramaNapraveshanAni_shIlayeduttareNa.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/07_pUrveNa_grAmAnniShkramaNapraveshanAni_shIlayeduttareNa.md">
 
 पूर्वेण ग्रामान् निष्क्रमण-प्रवेशनानि शीलयेद्, उत्तरेण वा ७
 
@@ -205,7 +205,7 @@ Some declare, that the student (shall bathe) after (having acquired) the knowled
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/08_sandhyoshcha_bahirgrAmAdAsanaM_vAgyatashcha.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/08_sandhyoshcha_bahirgrAmAdAsanaM_vAgyatashcha.md">
 
 संध्योश् च बहिर्ग्रामाद् आसनं, वाग्-यतश् च ८
 
@@ -258,7 +258,7 @@ Some declare, that the student (shall bathe) after (having acquired) the knowled
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/09_vipratiShedhe_shrutilaxaNam_balIyaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/09_vipratiShedhe_shrutilaxaNam_balIyaH.md">
 
 विप्रतिषेधे श्रुतिलक्षणं +++(सन्ध्याग्निहोत्रादिचोदकम्)+++ बलीयः ९
 
@@ -289,7 +289,7 @@ Some declare, that the student (shall bathe) after (having acquired) the knowled
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/10_sarvAnrAgAnvAsasi_varjayet.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/10_sarvAnrAgAnvAsasi_varjayet.md">
 
 सर्वान् रागान् वाससि वर्जयेत् १०
 
@@ -315,7 +315,7 @@ Some declare, that the student (shall bathe) after (having acquired) the knowled
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/11_kRShNa~n_cha_svAbhAvikam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/11_kRShNa~n_cha_svAbhAvikam.md">
 
 +++(वस्त्रं यत्)+++ कृष्णं च स्वाभाविकम् ११
 
@@ -339,7 +339,7 @@ Some declare, that the student (shall bathe) after (having acquired) the knowled
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/12_anUdbhAsi_vAso_vasIta.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/12_anUdbhAsi_vAso_vasIta.md">
 
 अनूद्भासि वासो वसीत १२
 
@@ -363,7 +363,7 @@ Some declare, that the student (shall bathe) after (having acquired) the knowled
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/13_apratikRShTa~n_cha_shaktiviShaye.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/13_apratikRShTa~n_cha_shaktiviShaye.md">
 
 अ-प्रतिकृष्टं +++(जीर्णत्वादेः)+++ च शक्तिविषये १३
 
@@ -389,7 +389,7 @@ Some declare, that the student (shall bathe) after (having acquired) the knowled
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/14_divA_cha_shirasaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/14_divA_cha_shirasaH.md">
 
 दिवा च शिरसः प्रावरणं वर्जयेन् - मूत्र-पुरीषयोः कर्म परिहाप्य १४
 
@@ -413,7 +413,7 @@ Some declare, that the student (shall bathe) after (having acquired) the knowled
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/15_shirastu_prAvRtya_mUtrapurIShe.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/15_shirastu_prAvRtya_mUtrapurIShe.md">
 
 शिरस् तु प्रावृत्य मूत्र-पुरीषे कुर्याद् - भूम्यां किंचिद् +++(तृणादि)+++ अन्तर्धाय १५
 
@@ -441,7 +441,7 @@ Some declare, that the student (shall bathe) after (having acquired) the knowled
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/16_ChAyAyAmmUtrapurIShayoH_karma_varjayet.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/16_ChAyAyAmmUtrapurIShayoH_karma_varjayet.md">
 
 छायायाम् मूत्रपुरीषयोः कर्म वर्जयेत् १६
 
@@ -465,7 +465,7 @@ Some declare, that the student (shall bathe) after (having acquired) the knowled
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/17_svAn_tu_ChAyAmavamehet.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/17_svAn_tu_ChAyAmavamehet.md">
 
 स्वां तु छायाम् अव-मेहेत् १७
 
@@ -489,7 +489,7 @@ Some declare, that the student (shall bathe) after (having acquired) the knowled
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/18_na_sopAnahmUtrapurIShe_kuryAtkRShTe.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/18_na_sopAnahmUtrapurIShe_kuryAtkRShTe.md">
 
 न सोपानह् मूत्र-पुरीषे कुर्यात्, कृष्टे, पथ्य्, अप्सु च १८
 
@@ -531,7 +531,7 @@ Some declare, that the student (shall bathe) after (having acquired) the knowled
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/19_tathA_ShThevanamaithunayoH_karmApsu.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/19_tathA_ShThevanamaithunayoH_karmApsu.md">
 
 तथा ष्ठेवन-मैथुनयोः कर्माप्सु वर्जयेत् १९
 
@@ -559,7 +559,7 @@ Some declare, that the student (shall bathe) after (having acquired) the knowled
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/20_agnimAdityamapo_brAhmaNa~N_gA.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/20_agnimAdityamapo_brAhmaNa~N_gA.md">
 
 अग्निम् आदित्यम् अपो ब्राह्मणं गा देवताश् चाभिमुखो मूत्र-पुरीषयोः कर्म वर्जयेत् २०
 
@@ -585,7 +585,7 @@ Some declare, that the student (shall bathe) after (having acquired) the knowled
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/21_ashmAnaM_loShThamArdrAanoShadhivanaspatInUrdhvAnAchChidya_mUtrapurIShayoH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/21_ashmAnaM_loShThamArdrAanoShadhivanaspatInUrdhvAnAchChidya_mUtrapurIShayoH.md">
 
 अश्मानं, लोष्ठम्,  
 आर्द्रान् ओषधि-वनस्पतीन्+++(←पुष्पैर् विना फलन्ति)+++ ऊर्ध्वान् +++(→वातादिभिर् अभग्नान्)+++ आच्छिद्य,  
@@ -614,7 +614,7 @@ Some declare, that the student (shall bathe) after (having acquired) the knowled
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/22_agnimapo_brAhmaNa~N_gA.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/22_agnimapo_brAhmaNa~N_gA.md">
 
 अग्निम्, अपो, ब्राह्मणं, गा, देवता, द्वारं, प्रतीवातं च  
 शक्ति-विषये नाभिप्रसारयीत +++(पादौ)+++२२
@@ -641,7 +641,7 @@ Some declare, that the student (shall bathe) after (having acquired) the knowled
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/23_athApyudAharanti.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/23_athApyudAharanti.md">
 
 अथाप्य् उदाहरन्ति +++(ऽग्रे वक्ष्यमाणम्)+++ २३
 

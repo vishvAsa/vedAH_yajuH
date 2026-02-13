@@ -2,7 +2,7 @@
 title = "२३ अध्यात्मम्"
 +++
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/08/23/01_Atman_pashyan_sarvabhUtAni.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/08/23/01_Atman_pashyan_sarvabhUtAni.md">
 
 आत्मन् पश्यन् सर्वभूतानि न मुह्येच्चिन्तयन्कविः । आत्मानं चैव सर्वत्र यः पश्येत्स वै ब्रह्मा नाकपृष्ठे विराजति १
 
@@ -34,7 +34,7 @@ title = "२३ अध्यात्मम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/08/23/02_nipuNo-NIyAnbisorNAyA_yaH_sarvamAvRtya.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/08/23/02_nipuNo-NIyAnbisorNAyA_yaH_sarvamAvRtya.md">
 
 निपुणोऽणीयान्बिसोर्णाया यः सर्वमावृत्य तिष्ठति । वर्षीयांश्च पृथिव्या ध्रुवः सर्वमारभ्य तिष्ठति । स इन्द्रियैर्जगतोऽस्य ज्ञानादन्योऽनन्यस्य ज्ञेयात्परमेष्ठी विभाजः । तस्मात्कायाः प्रभवन्ति सर्वे स मूलं शाश्वतिकः स नित्यः २
 
@@ -90,7 +90,7 @@ A
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/08/23/03_doShANAn_tu_vinirghAto.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/08/23/03_doShANAn_tu_vinirghAto.md">
 
 दोषाणां तु विनिर्घातो योगमूल इह जीविते । निर्हृत्य भूतदाहीयान् क्षेमं गच्छति पण्डितः ३
 
@@ -140,7 +140,7 @@ wwwPhomemain
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/08/23/04_atha_bhUtadAhIyAndoShAnudAhariShyAmaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/08/23/04_atha_bhUtadAhIyAndoShAnudAhariShyAmaH.md">
 
 अथ भूतदाहीयान्दोषानुदाहरिष्यामः ४
 
@@ -164,7 +164,7 @@ wwwPhomemain
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/08/23/05_krodho_harSho.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/08/23/05_krodho_harSho.md">
 
 क्रोधो हर्षो रोषो लोभो मोहो दम्भो द्रोहो मृषोद्यमत्याशपरीवादावसूया काममन्यू अनात्म्यमयोगस्तेषां योगमूलो निर्घातः ॥ १३ ॥ ५ ॥  
 
@@ -194,7 +194,7 @@ wwwPhomemain
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/08/23/06_akrodho-harSho-roSho-lobho-moho-dambho-drohaH_satyavachanamanatyAsho-paishunamanasUyA_saMvibhAgastyAga.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/08/23/06_akrodho-harSho-roSho-lobho-moho-dambho-drohaH_satyavachanamanatyAsho-paishunamanasUyA_saMvibhAgastyAga.md">
 
 अक्रोधोऽहर्षोऽरोषोऽलोभोऽमोहोऽदम्भोऽद्रोहः सत्यवचनमनत्याशोऽपैशुनमनसूया संविभागस्त्याग आर्जवं मार्दवं शमो दमः सर्वभूतैरविरोधो योग आर्यमानृशंसं तुष्टिरिति सर्वाश्रमाणां समयपदानि तान्यनुतिष्ठन्विधिना सार्वगामी भवति ६
 

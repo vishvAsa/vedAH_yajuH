@@ -2,7 +2,7 @@
 title = "०२ ब्रह्मचर्यम्"
 +++
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/01_pratipUruShaM_sankhyAya_saMvatsarAn.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/01_pratipUruShaM_sankhyAya_saMvatsarAn.md">
 
 प्रति-पूरुषं संख्याय संवत्सरान् यावन्तो ऽनुपेताः स्युः १
 
@@ -26,7 +26,7 @@ title = "०२ ब्रह्मचर्यम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/02_saptabhiH_pAvamAnIbhir_yadanti.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/02_saptabhiH_pAvamAnIbhir_yadanti.md">
 
 सप्तभिः पावमानीभिर् "यदन्ति यच् च दूरक" इति एताभिर्, यजुष्-पवित्रेण, +++(वामदेव्यम्→)+++साम-पवित्रेणाङ्गिरसेणेति  २
 
@@ -255,7 +255,7 @@ title = "०२ ब्रह्मचर्यम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/03_api_vA_vyAhRtIbhir.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/03_api_vA_vyAhRtIbhir.md">
 
 अपि वा व्याहृतीभिर् एव ३
 
@@ -275,7 +275,7 @@ title = "०२ ब्रह्मचर्यम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/04_athAdhyApyaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/04_athAdhyApyaH.md">
 
 अथाध्याप्यः ४
 
@@ -295,7 +295,7 @@ title = "०२ ब्रह्मचर्यम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/05_atha_yasya_prapitAmahAdi.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/05_atha_yasya_prapitAmahAdi.md">
 
 अथ यस्य प्रपितामहादि नानुस्मर्यत उपनयनं - ते श्मशान-संस्तुताः ५
 
@@ -322,7 +322,7 @@ title = "०२ ब्रह्मचर्यम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/06_teShAm_abhyAgamanam_bhojanaM.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/06_teShAm_abhyAgamanam_bhojanaM.md">
 
 तेषाम् अभ्यागमनं भोजनं विवाहम् इति च वर्जयेत्।
 तेषामिच्छतां प्रायश्चित्तं - द्वादशवर्षाणि त्रैविद्यकं ब्रह्मचर्यं चरेद् । अथोपनयनं तत उदकोपस्पर्शनं पावमान्यादिभिः ६
@@ -351,7 +351,7 @@ title = "०२ ब्रह्मचर्यम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/07_atha_gRhamedhopadeshanam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/07_atha_gRhamedhopadeshanam.md">
 
 अथ गृहमेधोपदेशनम् ७
 
@@ -375,7 +375,7 @@ title = "०२ ब्रह्मचर्यम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/08_nAdhyApanam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/08_nAdhyApanam.md">
 
 नाध्यापनम् ८
 
@@ -399,7 +399,7 @@ title = "०२ ब्रह्मचर्यम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/09_tato_yo_nirvartate.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/09_tato_yo_nirvartate.md">
 
 ततो यो निर्वर्तते तस्य संस्कारो यथा प्रथमेऽतिक्रमे ९
 
@@ -423,7 +423,7 @@ title = "०२ ब्रह्मचर्यम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/10_tata_Urdhvam_prakRtivat.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/10_tata_Urdhvam_prakRtivat.md">
 
 तत ऊर्ध्वं प्रकृतिवत् १०
 
@@ -449,7 +449,7 @@ title = "०२ ब्रह्मचर्यम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/11_upetasyAchAryakule_brahmachArivAsaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/11_upetasyAchAryakule_brahmachArivAsaH.md">
 
 उपेतस्याचार्यकुले ब्रह्मचारिवासः ११
 
@@ -479,7 +479,7 @@ He who has been initiated shall dwell as a religious student in the house of his
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/12_aShTAchatvAriMshadvarShANi.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/12_aShTAchatvAriMshadvarShANi.md">
 
 अष्टाचत्वारिंशद्वर्षाणि १२
 
@@ -512,7 +512,7 @@ He who has been initiated shall dwell as a religious student in the house of his
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/13_pAdUnam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/13_pAdUnam.md">
 
 पादूनम् १३
 
@@ -538,7 +538,7 @@ He who has been initiated shall dwell as a religious student in the house of his
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/14_ardhena.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/14_ardhena.md">
 
 अर्धेन १४
 
@@ -566,7 +566,7 @@ He who has been initiated shall dwell as a religious student in the house of his
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/15_tribhirvA.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/15_tribhirvA.md">
 
 त्रिभिर्वा १५
 
@@ -590,7 +590,7 @@ He who has been initiated shall dwell as a religious student in the house of his
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/16_dvAdashAvarArdhyam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/16_dvAdashAvarArdhyam.md">
 
 द्वादशावरार्ध्यम् १६
 
@@ -629,7 +629,7 @@ He who has been initiated shall dwell as a religious student in the house of his
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/17_na_brahmachAriNo_vidyArthasya.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/17_na_brahmachAriNo_vidyArthasya.md">
 
 न ब्रह्मचारिणो विद्यार्थस्य परोपवासोऽस्ति १७
 
@@ -661,7 +661,7 @@ He who has been initiated shall dwell as a religious student in the house of his
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/18_atha_brahmacharyavidhiH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/18_atha_brahmacharyavidhiH.md">
 
 अथ ब्रह्मचर्यविधिः १८
 
@@ -685,7 +685,7 @@ He who has been initiated shall dwell as a religious student in the house of his
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/19_AchAryAdhInaH_syAdanyatra_patanIyebhyaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/19_AchAryAdhInaH_syAdanyatra_patanIyebhyaH.md">
 
 आचार्याधीनः स्यादन्यत्र पतनीयेभ्यः १९
 
@@ -715,7 +715,7 @@ He who has been initiated shall dwell as a religious student in the house of his
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/20_hitakArI_gurorapratilomayanvAchA.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/20_hitakArI_gurorapratilomayanvAchA.md">
 
 हितकारी गुरोरप्रतिलोमयन्वाचा २०
 
@@ -743,7 +743,7 @@ He who has been initiated shall dwell as a religious student in the house of his
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/21_adhAsanashAyI.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/21_adhAsanashAyI.md">
 
 अधासनशायी २१
 
@@ -771,7 +771,7 @@ He who has been initiated shall dwell as a religious student in the house of his
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/22_nAnudeshyam_bhunjIta.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/22_nAnudeshyam_bhunjIta.md">
 
 नानुदेश्यं भुञ्जीत २२
 
@@ -795,7 +795,7 @@ He who has been initiated shall dwell as a religious student in the house of his
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/23_tathA_xAralavaNamadhumAMsAni.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/23_tathA_xAralavaNamadhumAMsAni.md">
 
 तथा क्षार-लवण-मधु-मांसानि +++(गृह्यसूत्र उपनयनप्रकरणे क्षार-लवणयोर् त्र्यहं [नियमनात्](../../../../../../../../../static/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/23_tathA_xAralavaNamadhumAMsAni.md/(/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/karmANi/upanayanam)) मध्वादेरेव त्र्यहादूर्ध्वं नित्यो निषेधः। )+++ २३
 
@@ -825,7 +825,7 @@ He who has been initiated shall dwell as a religious student in the house of his
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/24_adivAsvApI.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/24_adivAsvApI.md">
 
 अदिवास्वापी २४
 
@@ -849,7 +849,7 @@ He who has been initiated shall dwell as a religious student in the house of his
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/25_agandhasevI.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/25_agandhasevI.md">
 
 अगन्धसेवी २५
 
@@ -875,7 +875,7 @@ He who has been initiated shall dwell as a religious student in the house of his
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/26_maithunan_na_charet.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/26_maithunan_na_charet.md">
 
 मैथुनं न चरेत् २६
 
@@ -906,7 +906,7 @@ He who has been initiated shall dwell as a religious student in the house of his
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/27_utsannashlAghaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/27_utsannashlAghaH.md">
 
 उत्सन्न-श्लाघः २७
 
@@ -934,7 +934,7 @@ He who has been initiated shall dwell as a religious student in the house of his
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/28_angAni_na_praxAlayIta.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/28_angAni_na_praxAlayIta.md">
 
 अङ्गानि न प्रक्षालयीत २८
 
@@ -962,7 +962,7 @@ He who has been initiated shall dwell as a religious student in the house of his
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/29_praxAlayIta_tvashuchiliptAni_guror.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/29_praxAlayIta_tvashuchiliptAni_guror.md">
 
 प्रक्षालयीत त्वशुचिलिप्तानि गुरोर् असन्दर्शे २९
 
@@ -996,7 +996,7 @@ He who has been initiated shall dwell as a religious student in the house of his
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/30_nApsu_shlAghamAnaH_snAyAd.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/30_nApsu_shlAghamAnaH_snAyAd.md">
 
 नाप्सु श्लाघमानः स्नायाद् - यदि स्नायाद् दण्डवत् ३०
 
@@ -1028,7 +1028,7 @@ He who has been initiated shall dwell as a religious student in the house of his
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/31_jaTilaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/31_jaTilaH.md">
 
 जटिलः ३१
 
@@ -1054,7 +1054,7 @@ He who has been initiated shall dwell as a religious student in the house of his
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/32_shikhAjaTo_vA_vApayed.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/32_shikhAjaTo_vA_vApayed.md">
 
 शिखाजटो वा वापयेद् इतरान् ३२
 
@@ -1078,7 +1078,7 @@ He who has been initiated shall dwell as a religious student in the house of his
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/33_maunjI_mekhalA_trivRd.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/33_maunjI_mekhalA_trivRd.md">
 
 - मौञ्जी मेखला त्रिवृद् ब्राह्मणस्य, शक्तिविषये दक्षिणावृत्तानाम् ३३
 
@@ -1105,7 +1105,7 @@ He who has been initiated shall dwell as a religious student in the house of his
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/34_jyA_rAjanyasya.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/34_jyA_rAjanyasya.md">
 
 ज्या राजन्यस्य ३४   
 
@@ -1129,7 +1129,7 @@ He who has been initiated shall dwell as a religious student in the house of his
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/35_maunjI_vAyomishrA.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/35_maunjI_vAyomishrA.md">
 
 मौञ्जी वायोमिश्रा ३५
 
@@ -1153,7 +1153,7 @@ He who has been initiated shall dwell as a religious student in the house of his
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/36_AvIsUtraM_vaishyasya.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/36_AvIsUtraM_vaishyasya.md">
 
 आवीसूत्रं वैश्यस्य ३६
 
@@ -1177,7 +1177,7 @@ He who has been initiated shall dwell as a religious student in the house of his
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/37_sairI_tAmalI_vetyeke.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/37_sairI_tAmalI_vetyeke.md">
 
 सैरी तामली वेत्येके ३७
 
@@ -1205,7 +1205,7 @@ He who has been initiated shall dwell as a religious student in the house of his
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/38_pAlAsho_daNDo_brAhmaNasya.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/38_pAlAsho_daNDo_brAhmaNasya.md">
 
 पालाशो दण्डो ब्राह्मणस्य,  
 नैय्यग्रोध-स्कन्धजो ऽवाङ्ग्रो राजन्यस्य,  
@@ -1238,7 +1238,7 @@ He who has been initiated shall dwell as a religious student in the house of his
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/39_vAsaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/39_vAsaH.md">
 
 - वासः ३९
 
@@ -1264,7 +1264,7 @@ He who has been initiated shall dwell as a religious student in the house of his
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/40_shANIxaumA-jinAni.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/40_shANIxaumA-jinAni.md">
 
 शाणी+++(=hemp)+++-क्षौमा+++(=linen/ flax)+++ऽजिनानि  +++(ब्राह्मण-क्षत्रिय-वैश्यानाम्)+++४०
 
@@ -1293,7 +1293,7 @@ He who has been initiated shall dwell as a religious student in the house of his
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/41_kaShAya~n_chaike_vastram.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/41_kaShAya~n_chaike_vastram.md">
 
 कषायं+++(=red Lodh/ kaavi)+++ चैके +++(कार्पासं)+++ वस्त्रम् उपदिशन्ति ४१
 

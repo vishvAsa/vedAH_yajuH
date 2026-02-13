@@ -2,7 +2,7 @@
 title = "११ मार्गदानम्, विवाहः"
 +++
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/11/01_itareShAM_varNAnAmA_prANaviprayogAtsamavexya.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/11/01_itareShAM_varNAnAmA_prANaviprayogAtsamavexya.md">
 
 इतरेषां वर्णानामा प्राणविप्रयोगात्समवेक्ष्य तेषां कर्माणि राजा दण्डम्प्रणयेत् १
 
@@ -29,7 +29,7 @@ title = "११ मार्गदानम्, विवाहः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/11/02_na_cha_sandehe.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/11/02_na_cha_sandehe.md">
 
 न च संदेहे दण्डं कुर्यात् २
 
@@ -53,7 +53,7 @@ title = "११ मार्गदानम्, विवाहः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/11/03_suvichitaM_vichityA_daivaprashnebhyo.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/11/03_suvichitaM_vichityA_daivaprashnebhyo.md">
 
 सुविचितं विचित्या दैवप्रश्नेभ्यो राजा दण्डाय प्रतिपद्येत ३
 
@@ -82,7 +82,7 @@ title = "११ मार्गदानम्, विवाहः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/11/04_evaMvRtto_rAjobhau_lokAvabhijayati.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/11/04_evaMvRtto_rAjobhau_lokAvabhijayati.md">
 
 एवंवृत्तो राजोभौ लोकावभिजयति ४
 
@@ -115,7 +115,7 @@ title = "११ मार्गदानम्, विवाहः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/11/05_rAjnaH_panthA_brAhmaNenAsametya.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/11/05_rAjnaH_panthA_brAhmaNenAsametya.md">
 
 राज्ञः पन्था ब्राह्मणेनासमेत्य ५
 
@@ -144,7 +144,7 @@ title = "११ मार्गदानम्, विवाहः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/11/06_sametya_tu_brAhmaNasyaiva.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/11/06_sametya_tu_brAhmaNasyaiva.md">
 
 समेत्य तु ब्राह्मणस्यैव पन्थाः ६
 
@@ -170,7 +170,7 @@ title = "११ मार्गदानम्, विवाहः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/11/07_yAnasya_bhArAbhinihitasyAturasya_striyA.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/11/07_yAnasya_bhArAbhinihitasyAturasya_striyA.md">
 
 यानस्य भाराभिनिहितस्यातुरस्य स्त्रिया इति सर्वैर्दातव्यः ७
 
@@ -203,7 +203,7 @@ title = "११ मार्गदानम्, विवाहः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/11/08_varNajyAyasA~n_chetarervarNaiH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/11/08_varNajyAyasA~n_chetarervarNaiH.md">
 
 वर्णज्यायसां चेतरेर्वर्णैः ८
 
@@ -227,7 +227,7 @@ title = "११ मार्गदानम्, विवाहः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/11/09_ashiShTapatitamattonmattAnAmAtmasvastyayanArthena_sarvaireva_dAtavyaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/11/09_ashiShTapatitamattonmattAnAmAtmasvastyayanArthena_sarvaireva_dAtavyaH.md">
 
 अशिष्टपतितमत्तोन्मत्तानामात्मस्वस्त्ययनार्थेन सर्वैरेव दातव्यः ९
 
@@ -253,7 +253,7 @@ title = "११ मार्गदानम्, विवाहः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/11/10_dharmacharyayA_jaghanyo_varNaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/11/10_dharmacharyayA_jaghanyo_varNaH.md">
 
 धर्मचर्यया जघन्यो वर्णः पूर्वं पूर्वं वर्णमापद्यते जातिपरिवृत्तौ १०
 
@@ -279,7 +279,7 @@ title = "११ मार्गदानम्, विवाहः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/11/11_adharmacharyayA_pUrvo_varNo.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/11/11_adharmacharyayA_pUrvo_varNo.md">
 
 अधर्मचर्यया पूर्वो वर्णो जघन्यं जघन्यं वर्णमापद्यते जातिपरिवृत्तौ ११
 
@@ -303,7 +303,7 @@ title = "११ मार्गदानम्, विवाहः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/11/12_dharmaprajAsampanne_dAre_nAnyA~N.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/11/12_dharmaprajAsampanne_dAre_nAnyA~N.md">
 
 धर्मप्रजासंपन्ने दारे नान्यां कुर्वीत १२
 
@@ -355,7 +355,7 @@ title = "११ मार्गदानम्, विवाहः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/11/13_anyatarAbhAve_kAryA_prAg.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/11/13_anyatarAbhAve_kAryA_prAg.md">
 
 अन्यतराभावे कार्या प्राग् अग्न्याधेयात् १३
 
@@ -381,7 +381,7 @@ title = "११ मार्गदानम्, विवाहः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/11/14_AdhAne_hi_satI.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/11/14_AdhAne_hi_satI.md">
 
 आधाने हि सती कर्मभिः संबध्यते येषामेतदङ्गम् १४
 
@@ -428,7 +428,7 @@ title = "११ मार्गदानम्, विवाहः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/11/15_sagotrAya_duhitaran_na.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/11/15_sagotrAya_duhitaran_na.md">
 
 सगोत्राय दुहितरं न प्रयच्छेत् १५
 
@@ -454,7 +454,7 @@ title = "११ मार्गदानम्, विवाहः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/11/16_mAtushcha_yonisambandhebhyaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/11/16_mAtushcha_yonisambandhebhyaH.md">
 
 मातुश्च योनिसंबन्धेभ्यः १६
 
@@ -562,7 +562,7 @@ title = "११ मार्गदानम्, विवाहः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/11/17_brAhme_vivAhe_bandhushIlashrutArogyANi.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/11/17_brAhme_vivAhe_bandhushIlashrutArogyANi.md">
 
 ब्राह्मे विवाहे बन्धुशीलश्रुतारोग्याणि बुद्ध्वा प्रजासहत्वकर्मभ्यः प्रतिपादयेच्छक्तिविषयेणालंकृत्य १७
 
@@ -588,7 +588,7 @@ title = "११ मार्गदानम्, विवाहः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/11/18_ArShe_duhitRmate_mithunau.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/11/18_ArShe_duhitRmate_mithunau.md">
 
 आर्षे दुहितृमते मिथुनौ गावौ देयौ १८
 
@@ -614,7 +614,7 @@ title = "११ मार्गदानम्, विवाहः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/11/19_daive_yajnatantra_Rtvije.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/11/19_daive_yajnatantra_Rtvije.md">
 
 दैवे यज्ञतन्त्र ऋत्विजे प्रतिपादयेत् १९
 
@@ -640,7 +640,7 @@ title = "११ मार्गदानम्, विवाहः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/11/20_mithaH_kAmAtsAMvartete_sa.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/11/20_mithaH_kAmAtsAMvartete_sa.md">
 
 मिथः कामात्सांवर्तेते स गान्धर्वः २०
 

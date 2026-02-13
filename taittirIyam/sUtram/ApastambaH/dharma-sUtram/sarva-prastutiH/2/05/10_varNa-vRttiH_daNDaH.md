@@ -2,7 +2,7 @@
 title = "१० वर्ण-वृत्तिः, दण्डः"
 +++
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/10/01_bhixaNe_nimittamAchAryo_vivAho.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/10/01_bhixaNe_nimittamAchAryo_vivAho.md">
 
 भिक्षणे निमित्तमाचार्यो विवाहो यज्ञो मातापित्रोर्बुभूर्षार्हतश्च नियमविलोपः १
 
@@ -28,7 +28,7 @@ title = "१० वर्ण-वृत्तिः, दण्डः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/10/02_tatra_guNAnsamIxya_yathAshakti.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/10/02_tatra_guNAnsamIxya_yathAshakti.md">
 
 तत्र गुणान्समीक्ष्य यथाशक्ति देयम् २
 
@@ -58,7 +58,7 @@ title = "१० वर्ण-वृत्तिः, दण्डः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/10/03_indriyaprItyarthasya_tu_bhixaNamanimittam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/10/03_indriyaprItyarthasya_tu_bhixaNamanimittam.md">
 
 इन्द्रियप्रीत्यर्थस्य तु भिक्षणमनिमित्तम् । न तदाद्रियेत ३
 
@@ -86,7 +86,7 @@ title = "१० वर्ण-वृत्तिः, दण्डः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/10/04_na_tad_Adriyeta.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/10/04_na_tad_Adriyeta.md">
 
 न तदाद्रियेत 
 
@@ -110,7 +110,7 @@ he shall not take heed of that.
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/10/05_svakarma_brAhmaNasya.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/10/05_svakarma_brAhmaNasya.md">
 
 स्वकर्म ब्राह्मणस्याध्ययनमध्यापनम्यज्ञो याजनं दानं प्रतिग्रहणं दायाद्यं शिलोञ्छः ४  
 
@@ -138,7 +138,7 @@ he shall not take heed of that.
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/10/06_anyachchAparigRhItam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/10/06_anyachchAparigRhItam.md">
 
 अन्यच्चापरिगृहीतम् +++(यथा मूलफलादिः)+++५
 
@@ -164,7 +164,7 @@ he shall not take heed of that.
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/10/07_etAnyeva.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/10/07_etAnyeva.md">
 
 एतान्येव क्षत्रियस्याध्यापनयाजनप्रतिग्रहणानीति परिहाप्य दण्डयुद्धाधिकानि ६
 
@@ -190,7 +190,7 @@ he shall not take heed of that.
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/10/08_xatriyavadvaishyasya_daNDayuddhavarja~N_kRShigoraxyavANijyAdhikam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/10/08_xatriyavadvaishyasya_daNDayuddhavarja~N_kRShigoraxyavANijyAdhikam.md">
 
 क्षत्रियवद्वैश्यस्य दण्डयुद्धवर्जं कृषिगोरक्ष्यवाणिज्याधिकम् ७
 
@@ -218,7 +218,7 @@ he shall not take heed of that.
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/10/09_nAnanUchAnamRtvijaM_vRNIte_na.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/10/09_nAnanUchAnamRtvijaM_vRNIte_na.md">
 
 नाननूचानमृत्विजं वृणीते न पणमानम् ८
 
@@ -242,7 +242,7 @@ he shall not take heed of that.
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/10/10_ayAjyo-nadhIyAnaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/10/10_ayAjyo-nadhIyAnaH.md">
 
 अयाज्योऽनधीयानः ९
 
@@ -266,7 +266,7 @@ he shall not take heed of that.
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/10/11_yuddhe_tadyogA_yathopAyamupadishanti.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/10/11_yuddhe_tadyogA_yathopAyamupadishanti.md">
 
 युद्धे तद्योगा यथोपायमुपदिशन्ति तथा प्रतिपत्तव्यम् १०
 
@@ -293,7 +293,7 @@ he shall not take heed of that.
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/10/12_nyastAyudhaprakIrNakeshaprAnjaliparA~NAvRttAnAmAryA_vadham_parichaxate.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/10/12_nyastAyudhaprakIrNakeshaprAnjaliparA~NAvRttAnAmAryA_vadham_parichaxate.md">
 
 न्यस्तायुधप्रकीर्णकेशप्राञ्जलिपराङावृत्तानामार्या वधं परिचक्षते ११
 
@@ -321,7 +321,7 @@ he shall not take heed of that.
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/10/13_shAstrairadhigatAnAmindri_yadaurbalyAdvipratipannAnAM_shAstA.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/10/13_shAstrairadhigatAnAmindri_yadaurbalyAdvipratipannAnAM_shAstA.md">
 
 शास्त्रैरधिगतानामिन्द्रि यदौर्बल्याद्विप्रतिपन्नानां शास्ता निर्वेषमुपदिशेद्यथाकर्म यथोक्तम् १२
 
@@ -347,7 +347,7 @@ he shall not take heed of that.
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/10/14_tasya_chechChAstramatipravarteranrajAna~N_gamayet.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/10/14_tasya_chechChAstramatipravarteranrajAna~N_gamayet.md">
 
 तस्य चेच्छास्त्रमतिप्रवर्तेरन्रजानं गमयेत् १३
 
@@ -371,7 +371,7 @@ he shall not take heed of that.
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/10/15_rAjA_purohitan_dharmArthakushalam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/10/15_rAjA_purohitan_dharmArthakushalam.md">
 
 राजा पुरोहितं धर्मार्थकुशलम् १४
 
@@ -395,7 +395,7 @@ he shall not take heed of that.
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/10/16_sa_brAhmaNAnniyunjyAt.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/10/16_sa_brAhmaNAnniyunjyAt.md">
 
 स ब्राह्मणान्नियुञ्ज्यात् १५
 
@@ -419,7 +419,7 @@ he shall not take heed of that.
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/10/17_balavisheSheNa_vadhadAsyavarjan_niyamairupashoShayet.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/10/17_balavisheSheNa_vadhadAsyavarjan_niyamairupashoShayet.md">
 
 बलविशेषेण वधदास्यवर्जं नियमैरुपशोषयेत् १६
 

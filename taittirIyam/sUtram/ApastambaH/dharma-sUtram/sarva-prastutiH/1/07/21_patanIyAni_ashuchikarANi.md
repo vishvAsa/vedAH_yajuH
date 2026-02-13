@@ -2,7 +2,7 @@
 title = "२१ पतनीयानि, अशुचिकराणि"
 +++
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/01_munjabalbajairmUlaphalaiH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/01_munjabalbajairmUlaphalaiH.md">
 
 मुञ्जबल्बजैर्मूलफलैः १
 
@@ -26,7 +26,7 @@ title = "२१ पतनीयानि, अशुचिकराणि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/02_tRNakAShThairavikRtaiH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/02_tRNakAShThairavikRtaiH.md">
 
 तृणकाष्ठैरविकृतैः २
 
@@ -52,7 +52,7 @@ title = "२१ पतनीयानि, अशुचिकराणि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/03_nAtyantamanvavasyet.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/03_nAtyantamanvavasyet.md">
 
 नात्यन्तमन्ववस्येत् ३
 
@@ -82,7 +82,7 @@ title = "२१ पतनीयानि, अशुचिकराणि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/04_vRttim_prApya_viramet.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/04_vRttim_prApya_viramet.md">
 
 वृत्तिं प्राप्य विरमेत् ४
 
@@ -108,7 +108,7 @@ title = "२१ पतनीयानि, अशुचिकराणि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/05_na_patitaiH_saMvyavahAro.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/05_na_patitaiH_saMvyavahAro.md">
 
 न पतितैः संव्यवहारो विद्यते ५
 
@@ -139,7 +139,7 @@ title = "२१ पतनीयानि, अशुचिकराणि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/06_tathApapAtraiH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/06_tathApapAtraiH.md">
 
 तथापपात्रैः ६
 
@@ -165,7 +165,7 @@ title = "२१ पतनीयानि, अशुचिकराणि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/07_atha_patanIyAni.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/07_atha_patanIyAni.md">
 
 अथ पतनीयानि+++(←द्विजातिकर्मभ्यो हानिः पतनम्)+++ ७
 
@@ -189,7 +189,7 @@ title = "२१ पतनीयानि, अशुचिकराणि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/08_steyam_AbhishastyaM_.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/08_steyam_AbhishastyaM_.md">
 
 स्तेयम्, आभिशस्त्यं +++(←ब्रह्महत्यादिभिर् वक्ष्यमाणैः)+++,  
 पुरुष-वधो, ब्रह्मोज्झं+++(=वेद-त्यागः)+++,  
@@ -224,7 +224,7 @@ title = "२१ पतनीयानि, अशुचिकराणि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/09_gurvIsakhi~N_gurusakhi~n_cha.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/09_gurvIsakhi~N_gurusakhi~n_cha.md">
 
 गुर्वी-सखिं गुरु-सखिं च गत्वा  
 ऽन्यांश् च पर-तल्पान् ९
@@ -251,7 +251,7 @@ title = "२१ पतनीयानि, अशुचिकराणि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/10_nAgurutalpe_patatItyeke.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/10_nAgurutalpe_patatItyeke.md">
 
 नागुरुतल्पे पततीत्येके १०
 
@@ -277,7 +277,7 @@ title = "२१ पतनीयानि, अशुचिकराणि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/11_adharmANAn_tu_satatam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/11_adharmANAn_tu_satatam.md">
 
 अधर्माणां तु सततम् आचारः ११
 
@@ -301,7 +301,7 @@ title = "२१ पतनीयानि, अशुचिकराणि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/12_athAshuchikarANi.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/12_athAshuchikarANi.md">
 
 अथाशुचिकराणि १२
 
@@ -325,7 +325,7 @@ title = "२१ पतनीयानि, अशुचिकराणि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/13_shUdragamanamAryastrINAm.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/13_shUdragamanamAryastrINAm.md">
 
 शूद्र-गमनम् आर्य-स्त्रीणाम् १३
 
@@ -349,7 +349,7 @@ title = "२१ पतनीयानि, अशुचिकराणि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/14_pratiShiddhAnAm_mAMsabhaxaNam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/14_pratiShiddhAnAm_mAMsabhaxaNam.md">
 
 प्रतिषिद्धानां मांस-भक्षणम् १४
 
@@ -373,7 +373,7 @@ title = "२१ पतनीयानि, अशुचिकराणि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/15_shuno_manuShyasya_cha.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/15_shuno_manuShyasya_cha.md">
 
 +++(यथा -)+++ शुनो मनुष्यस्य च  
 कुक्कुट-सूकराणां ग्राम्याणां, क्रव्यादसाम् १५
@@ -401,7 +401,7 @@ title = "२१ पतनीयानि, अशुचिकराणि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/16_manuShyANAm_mUtrapurIShaprAshanam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/16_manuShyANAm_mUtrapurIShaprAshanam.md">
 
 मनुष्याणां मूत्र-पुरीष-प्राशनम् १६
 
@@ -425,7 +425,7 @@ title = "२१ पतनीयानि, अशुचिकराणि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/17_shUdrochChiShTamapapAtrAgamana~n_chAryANAm.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/17_shUdrochChiShTamapapAtrAgamana~n_chAryANAm.md">
 
 शूद्रोच्छिष्टम्,  
 +++(प्रतिलोमाद्य्-)+++अपपात्रा-गमनं चार्याणाम् १७
@@ -450,7 +450,7 @@ title = "२१ पतनीयानि, अशुचिकराणि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/18_etAnyapi_patanIyAnItyeke.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/18_etAnyapi_patanIyAnItyeke.md">
 
 एतान्यपि पतनीयानीत्य् एके १८
 
@@ -474,7 +474,7 @@ title = "२१ पतनीयानि, अशुचिकराणि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/19_ato-nyAni_doShavantyashuchikarANi_bhavanti.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/19_ato-nyAni_doShavantyashuchikarANi_bhavanti.md">
 
 अतोऽन्यानि दोषवन्त्य् अशुचिकराणि भवन्ति १९
 
@@ -498,7 +498,7 @@ title = "२१ पतनीयानि, अशुचिकराणि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/20_doSham_buddhvA_na.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/20_doSham_buddhvA_na.md">
 
 दोषं बुद्ध्वा  
 न पूर्वः परेभ्यः पतितस्य समाख्याने स्याद्,  

@@ -2,7 +2,7 @@
 title = "०४ ब्रह्मचर्यम्"
 +++
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/01_yaduchChiShTam_prAshnAti.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/01_yaduchChiShTam_prAshnAti.md">
 
 यदुच्छिष्टं प्राश्नाति १
 
@@ -26,7 +26,7 @@ title = "०४ ब्रह्मचर्यम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/02_haviruchChiShTameva_tat.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/02_haviruchChiShTameva_tat.md">
 
 हविरुच्छिष्टमेव तत् २
 
@@ -50,7 +50,7 @@ title = "०४ ब्रह्मचर्यम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/03_yadanyAni_dra_vyANi.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/03_yadanyAni_dra_vyANi.md">
 
 यदन्यानि द्रव्याणि यथालाभमुपहरति दक्षिणा एव ताः ३
 
@@ -74,7 +74,7 @@ If he obtains other things (besides food, such as cattle or fuel, and gives them
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/04_sa_eSha_brahmachAriNo.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/04_sa_eSha_brahmachAriNo.md">
 
 स एष ब्रह्मचारिणो यज्ञो नित्यप्रततः ४
 
@@ -98,7 +98,7 @@ If he obtains other things (besides food, such as cattle or fuel, and gives them
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/05_na_chAsmai_shrutivipratiShiddham.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/05_na_chAsmai_shrutivipratiShiddham.md">
 
 न चास्मै श्रुति-विप्रतिषिद्धम् उच्छिष्टं दद्यात् ५
 
@@ -122,7 +122,7 @@ If he obtains other things (besides food, such as cattle or fuel, and gives them
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/06_yathA_xAralavaNamadhumAMsAnIti.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/06_yathA_xAralavaNamadhumAMsAnIti.md">
 
 यथा क्षार-लवण-मधु-मांसानीति ६
 
@@ -151,7 +151,7 @@ If he obtains other things (besides food, such as cattle or fuel, and gives them
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/07_etenAnye_niyamA_vyAkhyAtAH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/07_etenAnye_niyamA_vyAkhyAtAH.md">
 
 एतेनान्ये नियमा व्याख्याताः ७
 
@@ -177,7 +177,7 @@ If he obtains other things (besides food, such as cattle or fuel, and gives them
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/08_shrutirhi_balIyasyAnumAnikAdAchArAt.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/08_shrutirhi_balIyasyAnumAnikAdAchArAt.md">
 
 श्रुतिर्हि बलीयस्यानुमानिकादाचारात् ८
 
@@ -211,7 +211,7 @@ If he obtains other things (besides food, such as cattle or fuel, and gives them
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/09_dRshyate_chApi_pravRttikAraNam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/09_dRshyate_chApi_pravRttikAraNam.md">
 
 दृश्यते चापि प्रवृत्तिकारणम् ९
 
@@ -244,7 +244,7 @@ If he obtains other things (besides food, such as cattle or fuel, and gives them
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/10_prItirhy_upalabhyate.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/10_prItirhy_upalabhyate.md">
 
 प्रीतिर्ह्य् उपलभ्यते १०
 
@@ -273,7 +273,7 @@ If he obtains other things (besides food, such as cattle or fuel, and gives them
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/11_pitur_jyeShThasya_cha.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/11_pitur_jyeShThasya_cha.md">
 
 पितुर् ज्येष्ठस्य च भ्रातुर् उच्छिष्टं भोक्तव्यम् ११
 
@@ -299,7 +299,7 @@ If he obtains other things (besides food, such as cattle or fuel, and gives them
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/12_dharmavipratipattAv_abhojyam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/12_dharmavipratipattAv_abhojyam.md">
 
 धर्म-विप्रतिपत्ताव् अभोज्यम् १२
 
@@ -325,7 +325,7 @@ If he obtains other things (besides food, such as cattle or fuel, and gives them
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/13_sAyam_prAtar_udakumbham.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/13_sAyam_prAtar_udakumbham.md">
 
 सायं प्रातर् उदकुम्भम् आहरेत् १३
 
@@ -351,7 +351,7 @@ If he obtains other things (besides food, such as cattle or fuel, and gives them
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/14_sadAraNyAd_edhAn_AhRtyAdho.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/14_sadAraNyAd_edhAn_AhRtyAdho.md">
 
 सदारण्याद् एधान् आहृत्याधो निदध्यात् १४
 
@@ -391,7 +391,7 @@ If he obtains other things (besides food, such as cattle or fuel, and gives them
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/15_nAstam_ite_samiddhAro.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/15_nAstam_ite_samiddhAro.md">
 
 नास्तम् इते समिद्धारो गच्छेत् १५
 
@@ -417,7 +417,7 @@ If he obtains other things (besides food, such as cattle or fuel, and gives them
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/16_agnim_iddhvA_parisamUhya.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/16_agnim_iddhvA_parisamUhya.md">
 
 अग्निम् **इद्ध्वा**  
 परिसमूह्य +++(मार्जयित्वा)+++  
@@ -448,7 +448,7 @@ If he obtains other things (besides food, such as cattle or fuel, and gives them
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/17_sAyam_evAgnipUjety_eke.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/17_sAyam_evAgnipUjety_eke.md">
 
 सायम् एवाग्नि-पूजेत्य् एके १७
 
@@ -472,7 +472,7 @@ If he obtains other things (besides food, such as cattle or fuel, and gives them
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/18_samiddham_agnim_pANinA.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/18_samiddham_agnim_pANinA.md">
 
 समिद्धम् अग्निं  
 पाणिना परिसमूहेन् - न समूहन्या १८
@@ -499,7 +499,7 @@ If he obtains other things (besides food, such as cattle or fuel, and gives them
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/19_prAk_tu_yAthAkAmI.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/19_prAk_tu_yAthAkAmI.md">
 
 प्राक् तु याथाकामी १९
 
@@ -523,7 +523,7 @@ If he obtains other things (besides food, such as cattle or fuel, and gives them
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/20_nAgnyudakasheSheNa_vRthAkarmANi_kurvItA-.achAmed.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/20_nAgnyudakasheSheNa_vRthAkarmANi_kurvItA-.achAmed.md">
 
 नाग्न्य्-उदक-शेषेण वृथा-कर्माणि कुर्वीताऽऽचामेद् वा २०
 
@@ -549,7 +549,7 @@ If he obtains other things (besides food, such as cattle or fuel, and gives them
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/21_pANisanxubdhenodakenaikapANyA-.avarjitena_cha_nAchAmet.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/21_pANisanxubdhenodakenaikapANyA-.avarjitena_cha_nAchAmet.md">
 
 पाणि-संक्षुब्धेनोदकेनैक-पाण्याऽऽवर्जितेन च नाचामेत् २१
 
@@ -577,7 +577,7 @@ If he obtains other things (besides food, such as cattle or fuel, and gives them
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/22_svapna~n_cha_varjayet.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/22_svapna~n_cha_varjayet.md">
 
 स्वप्नं च वर्जयेत् २२
 
@@ -605,7 +605,7 @@ If he obtains other things (besides food, such as cattle or fuel, and gives them
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/23_athAharaharAchArya~N_gopAyed_dharmArthayuktaiH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/23_athAharaharAchArya~N_gopAyed_dharmArthayuktaiH.md">
 
 अथाहरहराचार्यं गोपायेद् धर्मार्थयुक्तैः कर्मभिः २३
 
@@ -635,7 +635,7 @@ If he obtains other things (besides food, such as cattle or fuel, and gives them
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/24_sa_guptvA_saMvishanbrUyAddharmagopAyamAjUgupamahamiti.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/24_sa_guptvA_saMvishanbrUyAddharmagopAyamAjUgupamahamiti.md">
 
 स गुप्त्वा संविशन्ब्रूयाद्धर्मगोपायमाजूगुपमहमिति २४
 
@@ -673,7 +673,7 @@ If he obtains other things (besides food, such as cattle or fuel, and gives them
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/25_pramAdAdAchAryasya_buddhipUrvaM_vA.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/25_pramAdAdAchAryasya_buddhipUrvaM_vA.md">
 
 प्रमादादाचार्यस्य बुद्धिपूर्वं वा नियमातिक्रमं रहसि बोधयेत् २५
 
@@ -697,7 +697,7 @@ If he obtains other things (besides food, such as cattle or fuel, and gives them
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/26_anivRttau_svaya~N_karmANyArabheta.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/26_anivRttau_svaya~N_karmANyArabheta.md">
 
 अनिवृत्तौ स्वयं कर्माण्यारभेत २६
 
@@ -723,7 +723,7 @@ If he obtains other things (besides food, such as cattle or fuel, and gives them
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/27_nivartayedvA.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/27_nivartayedvA.md">
 
 निवर्तयेद्वा २७
 
@@ -747,7 +747,7 @@ If he obtains other things (besides food, such as cattle or fuel, and gives them
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/28_atha_yaH_pUrvotthAyI.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/28_atha_yaH_pUrvotthAyI.md">
 
 अथ यः पूर्वोत्थायी जघन्यसंवेशी तमाहुर्न स्वपितीति २८
 
@@ -772,7 +772,7 @@ If he obtains other things (besides food, such as cattle or fuel, and gives them
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/29_sa_ya_evam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/29_sa_ya_evam.md">
 
 स य एवं प्रणिहितात्मा ब्रह्मचार्यत्रैवास्य सर्वाणि कर्माणि फलवन्त्यवाप्तानि भवन्ति यान्यपि गृहमेधे २९
 

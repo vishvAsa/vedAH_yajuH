@@ -2,7 +2,7 @@
 title = "२२ अध्यात्मम्"
 +++
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/08/22/01_adhyAtmikAnyogAnanutiShThennyAyasaMhitAnanaishchArikAn.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/08/22/01_adhyAtmikAnyogAnanutiShThennyAyasaMhitAnanaishchArikAn.md">
 
 अध्यात्मिकान् योगान् अनुतिष्ठेन् न्याय-संहितान् अनैश्चारिकान् १
 
@@ -107,7 +107,7 @@ title = "२२ अध्यात्मम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/08/22/02_AtmalAbhAnna_paraM_vidyate.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/08/22/02_AtmalAbhAnna_paraM_vidyate.md">
 
 आत्म-लाभान् न परं विद्यते २
 
@@ -177,7 +177,7 @@ title = "२२ अध्यात्मम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/08/22/03_tatrAtmalAbhIyA~nshlokAnudAhariShyAmaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/08/22/03_tatrAtmalAbhIyA~nshlokAnudAhariShyAmaH.md">
 
 तत्रात्मलाभीयाञ् श्लोकान् उदाहरिष्यामः ३
 
@@ -217,7 +217,7 @@ title = "२२ अध्यात्मम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/08/22/04_pUH_prANinaH_sarva.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/08/22/04_pUH_prANinaH_sarva.md">
 
 पूः प्राणिनः सर्व एव गुहाशयस्य । अहन्यमानस्य विकल्मषस्य ।  
 अचलं चलनिकेतं येऽनुतिष्ठन्ति तेऽमृताः ४
@@ -280,7 +280,7 @@ title = "२२ अध्यात्मम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/08/22/05_yadidamidihediha_loke_viShayamuchyate.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/08/22/05_yadidamidihediha_loke_viShayamuchyate.md">
 
 यदिदमिदिहेदिह लोके विषयमुच्यते । विधूय कविरेतदनुतिष्ठेद्गुहाशयम् ५
 
@@ -323,7 +323,7 @@ title = "२२ अध्यात्मम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/08/22/06_Atmann_evAhamalabdhvaitaddhitaM_sevasva.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/08/22/06_Atmann_evAhamalabdhvaitaddhitaM_sevasva.md">
 
 आत्मन्न् एवाहमलब्ध्वैतद्धितं सेवस्व नाहितम् । अथान्येषु प्रतीच्छामि साधुष्ठानमनपेक्षया । महान्तं तेजसस्कायं सर्वत्र निहितं प्रभुम् ६
 
@@ -373,7 +373,7 @@ title = "२२ अध्यात्मम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/08/22/07_sarvabhUteShu_yo_nityo.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/08/22/07_sarvabhUteShu_yo_nityo.md">
 
 सर्वभूतेषु यो नित्यो विपश्चिदमृतो ध्रुवः । अनङ्गो ऽशब्दोऽशरीरोऽस्पर्शश्च महाञ्शुचिः । स सर्वं परमा काष्ठा स वैषुवतं स वै वैभाजनं पुरम् ७
 
@@ -423,7 +423,7 @@ title = "२२ अध्यात्मम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/08/22/08_taM_yo-nutiShThetsarvatra_prAdhva~n.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/08/22/08_taM_yo-nutiShThetsarvatra_prAdhva~n.md">
 
 तं योऽनुतिष्ठेत्सर्वत्र प्राध्वं चास्य सदाचरेत् । दुर्दर्शं निपुणं युक्तो यः पश्येत्स मोदेत विष्टपे ८
 

@@ -2,7 +2,7 @@
 title = "२३ गृहस्थ-श्रेष्ठता"
 +++
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/23/01_bhUyAMsaM_vA_niyamamichChann.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/23/01_bhUyAMsaM_vA_niyamamichChann.md">
 
 भूयांसं वा नियमम् इच्छन्न्  
 अन्वहम् एव पात्रेण सायं प्रातर् अर्थम् आहरेत् १
@@ -29,7 +29,7 @@ title = "२३ गृहस्थ-श्रेष्ठता"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/23/02_tato_mUlaiH_phalaiH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/23/02_tato_mUlaiH_phalaiH.md">
 
 ततो मूलैः फलैः पर्णैस् तृणैर् इति वर्तयंश् चरेद्  
 अन्ततः प्रवृत्तानि +++(=स्वयम्पतितानि)+++,  
@@ -62,7 +62,7 @@ title = "२३ गृहस्थ-श्रेष्ठता"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/23/03_atha_purANe_shlokAvudAharanti.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/23/03_atha_purANe_shlokAvudAharanti.md">
 
 अथ पुराणे श्लोकाव् उदाहरन्ति ३
 
@@ -95,7 +95,7 @@ title = "२३ गृहस्थ-श्रेष्ठता"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/23/04_aShTAshItisahasrANi_ye_prajAmIshira.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/23/04_aShTAshItisahasrANi_ye_prajAmIshira.md">
 
 अष्टाशीति-सहस्राणि ये  
 प्रजाम् ईशिर +++(=अभ्यनन्दन्)+++ ऋर्षयः ।  
@@ -129,7 +129,7 @@ title = "२३ गृहस्थ-श्रेष्ठता"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/23/05_aShTAshItisahasrANi_ye_prajAn.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/23/05_aShTAshItisahasrANi_ye_prajAn.md">
 
 अष्टाशीतिसहस्राणि ये प्रजां नेषिरर्षयः ।  
 उत्तरेणार्यम्णः पन्थानं तेऽमृतत्वं हि कल्पते ५
@@ -154,7 +154,7 @@ title = "२३ गृहस्थ-श्रेष्ठता"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/23/06_ityUrdhvaretasAm_prashaMsA.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/23/06_ityUrdhvaretasAm_prashaMsA.md">
 
 इत्यूर्ध्वरेतसां +++(=गृहस्थेतरेषाम्)+++ प्रशंसा ६
 
@@ -178,7 +178,7 @@ title = "२३ गृहस्थ-श्रेष्ठता"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/23/07_athApi_sankalpasiddhayo_bhavanti.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/23/07_athApi_sankalpasiddhayo_bhavanti.md">
 
 अथापि संकल्प-सिद्धयो +++(=सङ्कल्पत एव सिद्धिः)+++ भवन्ति ७
 
@@ -205,7 +205,7 @@ title = "२३ गृहस्थ-श्रेष्ठता"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/23/08_yathA_varSham_prajAdAnan.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/23/08_yathA_varSham_prajAdAnan.md">
 
 यथा वर्षं, प्रजा-दानं,  
 दूरे दर्शनं, मनो-जवता,  
@@ -238,7 +238,7 @@ title = "२३ गृहस्थ-श्रेष्ठता"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/23/09_tasmAchChrutitaH_pratyaxaphalatvAchcha_vishiShTAnAshramAnetAneke.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/23/09_tasmAchChrutitaH_pratyaxaphalatvAchcha_vishiShTAnAshramAnetAneke.md">
 
 तस्माच् छ्रुतितः, प्रत्यक्ष-फलत्वाच् च  
 विशिष्टान् आश्रमान् एतान् एके ब्रुवते ९
@@ -264,7 +264,7 @@ title = "२३ गृहस्थ-श्रेष्ठता"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/23/10_traividyavRddhAnAn_tu_vedAH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/23/10_traividyavRddhAnAn_tu_vedAH.md">
 
 त्रैविद्य-वृद्धानां तु  
 वेदाः प्रमाणम्  
@@ -321,7 +321,7 @@ title = "२३ गृहस्थ-श्रेष्ठता"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/23/11_yattu_shmashAnamuchyate_nAnAkarmaNAmeSho-nte.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/23/11_yattu_shmashAnamuchyate_nAnAkarmaNAmeSho-nte.md">
 
 यत् तु श्मशानम् उच्यते  
 +++("दक्षिणेनार्यम्णः पन्थानं ते श्मशानानि भेजिरे" इत्यस्मिन्)+++  
@@ -352,7 +352,7 @@ title = "२३ गृहस्थ-श्रेष्ठता"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/23/12_tataH_paramanantyam_phalaM.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/23/12_tataH_paramanantyam_phalaM.md">
 
 ततः परम् अनन्त्यं फलं स्वर्ग्य-शब्दं श्रूयते १२
 

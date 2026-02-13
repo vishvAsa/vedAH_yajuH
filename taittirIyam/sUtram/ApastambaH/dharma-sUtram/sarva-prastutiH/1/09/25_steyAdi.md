@@ -2,7 +2,7 @@
 title = "२५ स्तेयादि"
 +++
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/25/01_gurutalpagAmI_savRShaNaM_shishnam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/25/01_gurutalpagAmI_savRShaNaM_shishnam.md">
 
 गुरुतल्पगामी सवृषणं शिश्नं परिवास्याञ्जलावाधाय दक्षिणां दिशमनावृत्तिं व्रजेत् १
 
@@ -52,7 +52,7 @@ title = "२५ स्तेयादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/25/02_jvalitAM_vA_sUrmim.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/25/02_jvalitAM_vA_sUrmim.md">
 
 ज्वलितां वा सूर्मिं परिष्वज्य समाप्नुयात् २
 
@@ -78,7 +78,7 @@ title = "२५ स्तेयादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/25/03_surApo-gnisparshAM_surAm_pibet.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/25/03_surApo-gnisparshAM_surAm_pibet.md">
 
 सुरापोऽग्निस्पर्शां +++(क्वतिथां)+++ सुरां पिबेत् ३
 
@@ -109,7 +109,7 @@ title = "२५ स्तेयादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/25/04_stenaH_prakIrNakesho-e_musalamAdAya.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/25/04_stenaH_prakIrNakesho-e_musalamAdAya.md">
 
 स्तेनः प्रकीर्णकेशोऽए मुसलमादाय राजानं गत्वा कर्माचक्षीत । तेनैनं हन्याद्वधे मोक्षः ४
 
@@ -139,7 +139,7 @@ title = "२५ स्तेयादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/25/05_anujnAte-nujnAtAramenaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/25/05_anujnAte-nujnAtAramenaH.md">
 
 अनुज्ञातेऽनुज्ञातारमेनः ५
 
@@ -165,7 +165,7 @@ title = "२५ स्तेयादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/25/06_agniM_vA_pravishettIxNaM.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/25/06_agniM_vA_pravishettIxNaM.md">
 
 अग्निं वा प्रविशेत्तीक्ष्णं वा तप आयच्छेत् ६
 
@@ -196,7 +196,7 @@ title = "२५ स्तेयादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/25/07_bhaktApachayena_vAtmAnaM_samApnuyAt.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/25/07_bhaktApachayena_vAtmAnaM_samApnuyAt.md">
 
 भक्तापचयेन वात्मानं समाप्नुयात् ७
 
@@ -220,7 +220,7 @@ title = "२५ स्तेयादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/25/08_kRchChrasaMvatsaraM_vA_charet.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/25/08_kRchChrasaMvatsaraM_vA_charet.md">
 
 कृच्छ्रसंवत्सरं वा चरेत् ८
 
@@ -246,7 +246,7 @@ title = "२५ स्तेयादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/25/09_athApyudAharanti_steya~N_kRtvA.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/25/09_athApyudAharanti_steya~N_kRtvA.md">
 
 अथाप्युदाहरन्ति । स्तेयं कृत्वा सुरां पीत्वा गुरुदारं च गत्वा ब्रह्महत्यामकृत्वा चतुर्थकाला मितभोजनाः स्युरपोऽभ्यवेयुः सवनानुकल्पम् ९
 
@@ -272,7 +272,7 @@ title = "२५ स्तेयादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/25/10_sthAnAsanAbhyAM_viharanta_ete.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/25/10_sthAnAsanAbhyAM_viharanta_ete.md">
 
 स्थानासनाभ्यां विहरन्त एते त्रिभिर्वर्षैरप पापं नुन्दते १०
 
@@ -310,7 +310,7 @@ title = "२५ स्तेयादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/25/11_prathamaM_varNam_parihApya.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/25/11_prathamaM_varNam_parihApya.md">
 
 प्रथमं वर्णं परिहाप्य प्रथमं वर्णं हत्वा संग्रामं गत्वावतिष्ठेत । तत्रैनं हन्युः ११
 
@@ -336,7 +336,7 @@ title = "२५ स्तेयादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/25/12_api_vA_lomAni.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/25/12_api_vA_lomAni.md">
 
 अपि वा लोमानि त्वचं मांसमिति हावयित्वाग्निं प्रविशेत् १२
 
@@ -364,7 +364,7 @@ title = "२५ स्तेयादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/25/13_vAyasaprachalAkabarhiNachakravAkahaMsabhAsamaNDUkanakulaDerikAshvahiMsAyAM_shUdra_vatprAyashchittam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/25/13_vAyasaprachalAkabarhiNachakravAkahaMsabhAsamaNDUkanakulaDerikAshvahiMsAyAM_shUdra_vatprAyashchittam.md">
 
 वायसप्रचलाकबर्हिणचक्रवाकहंसभासमण्डूकनकुलडेरिकाश्वहिंसायां शूद्र वत्प्रायश्चित्तम् १३
 

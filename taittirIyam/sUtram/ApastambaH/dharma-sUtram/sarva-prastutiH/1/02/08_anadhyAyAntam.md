@@ -2,7 +2,7 @@
 title = "०८ अनध्यायान्तम्"
 +++
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/08/01_yathA_brahmachAriNo_vRttam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/08/01_yathA_brahmachAriNo_vRttam.md">
 
 यथा ब्रह्मचारिणो वृत्तम् १
 
@@ -32,7 +32,7 @@ title = "०८ अनध्यायान्तम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/08/02_mAlyAliptamukha_upaliptakeshashmashrurakto-bhyakto_veShTityupaveShTitI.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/08/02_mAlyAliptamukha_upaliptakeshashmashrurakto-bhyakto_veShTityupaveShTitI.md">
 
 माल्यालिप्तमुख उपलिप्तकेशश्मश्रुरक्तोऽभ्यक्तो वेष्टित्युपवेष्टिती काञ्चुक्युपानही पादुकी २
 
@@ -60,7 +60,7 @@ title = "०८ अनध्यायान्तम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/08/03_udAchAreShu_chAsyaitAni_na.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/08/03_udAchAreShu_chAsyaitAni_na.md">
 
 उदाचारेषु चास्यैतानि न कुर्यात्कारयेद्वा ३
 
@@ -84,7 +84,7 @@ title = "०८ अनध्यायान्तम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/08/04_svairikarmasu_cha.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/08/04_svairikarmasu_cha.md">
 
 स्वैरिकर्मसु च ४
 
@@ -108,7 +108,7 @@ title = "०८ अनध्यायान्तम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/08/05_yathA_dantapraxAlanotsAdanAvalekhanAnIti.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/08/05_yathA_dantapraxAlanotsAdanAvalekhanAnIti.md">
 
 यथा दन्तप्रक्षालनोत्सादनावलेखनानीति ५
 
@@ -135,7 +135,7 @@ title = "०८ अनध्यायान्तम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/08/06_taddravyANA~n_cha_na.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/08/06_taddravyANA~n_cha_na.md">
 
 तद्द्रव्याणां च न कथयेदात्मसंयोगेनाचार्यः ६
 
@@ -166,7 +166,7 @@ title = "०८ अनध्यायान्तम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/08/07_snAtastu_kAle_yathAvidhyabhihRtamAhUto.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/08/07_snAtastu_kAle_yathAvidhyabhihRtamAhUto.md">
 
 स्नातस्तु काले यथाविध्यभिहृतमाहूतो ऽभ्येतो वा न प्रतिसंहरे इत्येके ७
 
@@ -195,7 +195,7 @@ title = "०८ अनध्यायान्तम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/08/08_uchchaistarAn_nAsIta.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/08/08_uchchaistarAn_nAsIta.md">
 
 उच्चैस्तरां नासीत ८
 
@@ -219,7 +219,7 @@ title = "०८ अनध्यायान्तम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/08/09_tathA_bahupAde.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/08/09_tathA_bahupAde.md">
 
 तथा बहुपादे ९
 
@@ -243,7 +243,7 @@ title = "०८ अनध्यायान्तम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/08/10_sarvataH_pratiShThite.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/08/10_sarvataH_pratiShThite.md">
 
 सर्वतः प्रतिष्ठिते १०
 
@@ -269,7 +269,7 @@ title = "०८ अनध्यायान्तम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/08/11_shayyAsane_chAcharite_nAvishet.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/08/11_shayyAsane_chAcharite_nAvishet.md">
 
 शय्यासने चाचरिते नाविशेत् ११
 
@@ -299,7 +299,7 @@ title = "०८ अनध्यायान्तम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/08/12_yAnamukto-dhvanyanvArohet.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/08/12_yAnamukto-dhvanyanvArohet.md">
 
 यानमुक्तोऽध्वन्यन्वारोहेत् १२
 
@@ -328,7 +328,7 @@ title = "०८ अनध्यायान्तम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/08/13_sabhAnikaShakaTasvastarAMshcha.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/08/13_sabhAnikaShakaTasvastarAMshcha.md">
 
 सभानिकषकटस्वस्तरांश्च १३
 
@@ -358,7 +358,7 @@ title = "०८ अनध्यायान्तम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/08/14_nAnabhibhAShito_gurumabhibhASheta_priyAdanyat.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/08/14_nAnabhibhAShito_gurumabhibhASheta_priyAdanyat.md">
 
 नानभिभाषितो गुरुमभिभाषेत प्रियादन्यत् १४
 
@@ -382,7 +382,7 @@ title = "०८ अनध्यायान्तम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/08/15_vyupatodavyupajAvavyabhihAsodAmantraNanAmadheyagrahaNapreShaNAnIti_gurorvarjayet.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/08/15_vyupatodavyupajAvavyabhihAsodAmantraNanAmadheyagrahaNapreShaNAnIti_gurorvarjayet.md">
 
 व्युपतोदव्युपजावव्यभिहासोदामन्त्रणनामधेयग्रहणप्रेषणानीति गुरोर्वर्जयेत् १५
 
@@ -415,7 +415,7 @@ title = "०८ अनध्यायान्तम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/08/16_Apadyartha~n_jnApayet.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/08/16_Apadyartha~n_jnApayet.md">
 
 आपद्यर्थं ज्ञापयेत् १६
 
@@ -441,7 +441,7 @@ title = "०८ अनध्यायान्तम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/08/17_saha_vasansAyam_prAtaranAhUto.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/08/17_saha_vasansAyam_prAtaranAhUto.md">
 
 सह वसन्सायं प्रातरनाहूतो गुरुं दर्शनार्थो गच्छेत् १७
 
@@ -470,7 +470,7 @@ title = "०८ अनध्यायान्तम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/08/18_viproShya_cha_tadahareva.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/08/18_viproShya_cha_tadahareva.md">
 
 विप्रोष्य च तदहरेव पश्येत् १८
 
@@ -494,7 +494,7 @@ title = "०८ अनध्यायान्तम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/08/19_AchAryaprAchAryasannipAte_prAchAryAyaopasangRhyopasanjighRxedAchAryam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/08/19_AchAryaprAchAryasannipAte_prAchAryAyaopasangRhyopasanjighRxedAchAryam.md">
 
 आचार्यप्राचार्यसन्निपाते प्राचार्यायओपसङ्गृह्योपसञ्जिघृक्षेदाचार्यम् १९
 
@@ -518,7 +518,7 @@ title = "०८ अनध्यायान्तम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/08/20_pratiShedheditaraH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/08/20_pratiShedheditaraH.md">
 
 प्रतिषेधेदितरः २०
 
@@ -542,7 +542,7 @@ title = "०८ अनध्यायान्तम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/08/21_lupyate_pUjA_chAsya.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/08/21_lupyate_pUjA_chAsya.md">
 
 लुप्यते पूजा चास्य सकाशे २१
 
@@ -566,7 +566,7 @@ title = "०८ अनध्यायान्तम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/08/22_muhUMshchAchAryakulan_darshanArtho_gachChedyathAshaktyadhihastyamAdAyApi.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/08/22_muhUMshchAchAryakulan_darshanArtho_gachChedyathAshaktyadhihastyamAdAyApi.md">
 
 मुहूंश्चाचार्यकुलं दर्शनार्थो गच्छेद्यथाशक्त्यधिहस्त्यमादायापि दन्तप्रक्षालनानीति २२
 
@@ -590,7 +590,7 @@ title = "०८ अनध्यायान्तम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/08/23_mAtaram_pitaramAcharyamagnIMshcha_gRhANi.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/08/23_mAtaram_pitaramAcharyamagnIMshcha_gRhANi.md">
 
 मातरं पितरम् आचर्यम् अग्नींश् च गृहाणि च रिक्त-पाणिर् नोपगछ्हेद्, राजानं चेन् न श्रुतम् इति २३
 
@@ -615,7 +615,7 @@ title = "०८ अनध्यायान्तम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/08/24_tasmingurorvRttiH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/08/24_tasmingurorvRttiH.md">
 
 तस्मिन्गुरोर्वृत्तिः २३
 
@@ -639,7 +639,7 @@ title = "०८ अनध्यायान्तम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/08/25_putramivainamanukAnxansarvadharmeShvanapachChAdayamAnaH_suyukto_vidyA~N.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/08/25_putramivainamanukAnxansarvadharmeShvanapachChAdayamAnaH_suyukto_vidyA~N.md">
 
 पुत्रमिवैनमनुकाङ्क्षन्सर्वधर्मेष्वनपच्छादयमानः सुयुक्तो विद्यां ग्राहयेत् २४
 
@@ -667,7 +667,7 @@ title = "०८ अनध्यायान्तम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/08/26_na_chainamadhyayanavighnenAtmArtheShUparundhyAdanApatsu.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/08/26_na_chainamadhyayanavighnenAtmArtheShUparundhyAdanApatsu.md">
 
 न चैनमध्ययनविघ्नेनात्मार्थेषूपरुन्ध्यादनापत्सु २५
 
@@ -693,7 +693,7 @@ title = "०८ अनध्यायान्तम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/08/27_antevAsyanantevAsI_bhavati_vinihitAtmA.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/08/27_antevAsyanantevAsI_bhavati_vinihitAtmA.md">
 
 अन्तेवास्यनन्तेवासी भवति विनिहितात्मा गुरावनैपुणमापद्यमानः २६
 
@@ -724,7 +724,7 @@ title = "०८ अनध्यायान्तम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/08/28_AchAryo-pyanAchAryo_bhavati_shrutAtpariharamANaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/08/28_AchAryo-pyanAchAryo_bhavati_shrutAtpariharamANaH.md">
 
 आचार्योऽप्यनाचार्यो भवति श्रुतात्परिहरमाणः २७
 
@@ -750,7 +750,7 @@ title = "०८ अनध्यायान्तम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/08/29_aparAdheShu_chainaM_satatamupAlabheta.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/08/29_aparAdheShu_chainaM_satatamupAlabheta.md">
 
 अपराधेषु चैनं सततमुपालभेत २८
 
@@ -774,7 +774,7 @@ title = "०८ अनध्यायान्तम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/08/30_abhitrAsa_upavAsa_udakopasparshanamadarshanamiti.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/08/30_abhitrAsa_upavAsa_udakopasparshanamadarshanamiti.md">
 
 अभित्रास उपवास उदकोपस्पर्शनमदर्शनमिति दण्डा यथामात्रमा निवृत्तेः २९
 
@@ -803,7 +803,7 @@ title = "०८ अनध्यायान्तम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/08/31_nivRtta~n_charitabrahmacharyamanyebhyo_dharmebhyo-nantaro.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/08/31_nivRtta~n_charitabrahmacharyamanyebhyo_dharmebhyo-nantaro.md">
 
 निवृत्तं चरितब्रह्मचर्यमन्येभ्यो धर्मेभ्योऽनन्तरो भवेत्यतिसृजेत् ३०
 

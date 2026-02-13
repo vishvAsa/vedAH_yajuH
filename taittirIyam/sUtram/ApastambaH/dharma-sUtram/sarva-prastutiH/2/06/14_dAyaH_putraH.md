@@ -2,7 +2,7 @@
 title = "१४ दायः, पुत्रः"
 +++
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/14/01_jIvanputrebhyo_dAyaM_vibhajetsama~N.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/14/01_jIvanputrebhyo_dAyaM_vibhajetsama~N.md">
 
 जीवन्पुत्रेभ्यो दायं विभजेत्समं क्लीबमुन्मत्तं पतितं च परिहाप्य १
 
@@ -48,7 +48,7 @@ title = "१४ दायः, पुत्रः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/14/02_putrAbhAve_yaH_pratyAsannaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/14/02_putrAbhAve_yaH_pratyAsannaH.md">
 
 पुत्राभावे यः प्रत्यासन्नः सपिण्डः २
 
@@ -374,7 +374,7 @@ title = "१४ दायः, पुत्रः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/14/03_tadabhAva_AchArya_AchAryAbhAve-ntevAsI.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/14/03_tadabhAva_AchArya_AchAryAbhAve-ntevAsI.md">
 
 तदभाव आचार्य आचार्याभावेऽन्तेवासी हृत्वा तदर्थेषु धर्मकृत्येषु वोपयोजयेत् ३
 
@@ -399,7 +399,7 @@ title = "१४ दायः, पुत्रः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/14/04_duhitA_vA.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/14/04_duhitA_vA.md">
 
 दुहिता वा ४
 
@@ -425,7 +425,7 @@ title = "१४ दायः, पुत्रः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/14/05_sarvAbhAve_rAjA_dAyaM.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/14/05_sarvAbhAve_rAjA_dAyaM.md">
 
 सर्वाभावे राजा दायं हरेत ५
 
@@ -451,7 +451,7 @@ title = "१४ दायः, पुत्रः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/14/06_jyeShTho_dAyAda_ityeke.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/14/06_jyeShTho_dAyAda_ityeke.md">
 
 ज्येष्ठो दायाद इत्येके ६
 
@@ -479,7 +479,7 @@ title = "१४ दायः, पुत्रः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/14/07_deshavisheShe_suvarNamkRShNA_gAvaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/14/07_deshavisheShe_suvarNamkRShNA_gAvaH.md">
 
 देशविशेषे सुवर्णङ्कृष्णा गावः कृष्णं भौमं ज्येष्ठस्य ७
 
@@ -505,7 +505,7 @@ title = "१४ दायः, पुत्रः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/14/08_rathaH_pituH_parIbhANDa~n.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/14/08_rathaH_pituH_parIbhANDa~n.md">
 
 रथः पितुः परीभाण्डं च गृहे ८
 
@@ -533,7 +533,7 @@ title = "१४ दायः, पुत्रः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/14/09_alankAro_bhAryAyA_jnAtidhana~n.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/14/09_alankAro_bhAryAyA_jnAtidhana~n.md">
 
 अलंकारो भार्याया ज्ञातिधनं चेत्येके ९
 
@@ -561,7 +561,7 @@ title = "१४ दायः, पुत्रः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/14/10_tachChAstrairvipratiShiddham.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/14/10_tachChAstrairvipratiShiddham.md">
 
 तच्छास्त्रैर्विप्रतिषिद्धम् १०
 
@@ -587,7 +587,7 @@ title = "१४ दायः, पुत्रः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/14/11_manuH_putrebhyo_dAyaM.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/14/11_manuH_putrebhyo_dAyaM.md">
 
 मनुः पुत्रेभ्यो दायं व्यभजदित्यविशेषेण श्रूयते ११
 
@@ -620,7 +620,7 @@ title = "१४ दायः, पुत्रः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/14/12_athApi_tasmAdjyeShTham_putran.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/14/12_athApi_tasmAdjyeShTham_putran.md">
 
 अथापि तस्माद्ज्येष्ठं पुत्रं धनेन निरवसाययन्तीत्येकवच्छ्रुयते १२
 
@@ -651,7 +651,7 @@ title = "१४ दायः, पुत्रः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/14/13_athApi_nityAnuvAdamavidhimAhurnyAyavido_yathA.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/14/13_athApi_nityAnuvAdamavidhimAhurnyAyavido_yathA.md">
 
 +++(समाधानम् -)+++ अथापि नित्यानुवादमविधिमाहुर्न्यायविदो, यथा - "तस्मादजावयः पशूनां सह चरन्तीति" "तस्मात्स्नातकस्य मुखं रेभायतीव" "तस्माद्बस्तश्च श्रोत्रियश्चस्त्रीकामतमाविति" १३
 
@@ -680,7 +680,7 @@ title = "१४ दायः, पुत्रः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/14/14_sarve_hi_dharmayuktA.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/14/14_sarve_hi_dharmayuktA.md">
 
 सर्वे हि धर्मयुक्ता भागिनः १४
 
@@ -704,7 +704,7 @@ title = "१४ दायः, पुत्रः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/14/15_yastvadharmeNa_dravyANi_pratipAdayati.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/14/15_yastvadharmeNa_dravyANi_pratipAdayati.md">
 
 यस्त्वधर्मेण द्रव्याणि प्रतिपादयति +++(=व्ययीकरोति)+++ ज्येष्ठोऽपि तमभागं कुर्वीत १५
 
@@ -732,7 +732,7 @@ title = "१४ दायः, पुत्रः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/14/16_jAyApatyor_na_vibhAgo.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/14/16_jAyApatyor_na_vibhAgo.md">
 
 जाया-पत्योर् न विभागो विद्यते १६
 
@@ -763,7 +763,7 @@ title = "१४ दायः, पुत्रः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/14/17_pANigrahaNAddhi_sahatva~N_karmasu.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/14/17_pANigrahaNAddhi_sahatva~N_karmasu.md">
 
 पाणिग्रहणाद्धि सहत्वं कर्मसु १७
 
@@ -790,7 +790,7 @@ title = "१४ दायः, पुत्रः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/14/18_tathA_puNyaphaleShu.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/14/18_tathA_puNyaphaleShu.md">
 
 तथा पुण्यफलेषु १८
 
@@ -818,7 +818,7 @@ title = "१४ दायः, पुत्रः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/14/19_dravyaparigraheShu_cha.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/14/19_dravyaparigraheShu_cha.md">
 
 द्रव्यपरिग्रहेषु च १९
 
@@ -842,7 +842,7 @@ title = "१४ दायः, पुत्रः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/14/20_na_hi_bharturvipravAse.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/14/20_na_hi_bharturvipravAse.md">
 
 न हि भर्तुर्विप्रवासे नैमित्तिके दाने स्तेयमुपदिशन्ति २०
 

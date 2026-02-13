@@ -2,7 +2,7 @@
 title = "१२ अभिनिमृक्तादि"
 +++
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/01_shaktiviShayeNa_dra_vyANi.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/01_shaktiviShayeNa_dra_vyANi.md">
 
 शक्ति-विषयेण द्रव्याणि दत्वा वहेरन् - स आसुरः १
 
@@ -30,7 +30,7 @@ title = "१२ अभिनिमृक्तादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/02_duhitRmataH_prothayitvA_vaheransa.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/02_duhitRmataH_prothayitvA_vaheransa.md">
 
 दुहितृमतः प्रोथयित्वा वहेरन् - स राक्षसः २
 
@@ -61,7 +61,7 @@ title = "१२ अभिनिमृक्तादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/03_teShAn_traya_AdyAH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/03_teShAn_traya_AdyAH.md">
 
 तेषां त्रय आद्याः प्रशस्ताः, पूर्वः पूर्वः श्रेयान् ३
 
@@ -87,7 +87,7 @@ title = "१२ अभिनिमृक्तादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/04_yathA_yukto_vivAhastathA.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/04_yathA_yukto_vivAhastathA.md">
 
 यथा युक्तो विवाहस् - तथा युक्ता प्रजा भवति ४
 
@@ -124,7 +124,7 @@ title = "१२ अभिनिमृक्तादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/05_pANisamUDham_brAhmaNasya_nAproxitam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/05_pANisamUDham_brAhmaNasya_nAproxitam.md">
 
 पाणि-समूढं +++(भूभागम्)+++ ब्राह्मणस्य नाप्रोक्षितम् अभितिष्ठेत् ५
 
@@ -148,7 +148,7 @@ title = "१२ अभिनिमृक्तादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/06_agnim_brAhmaNa~n_chAntareNa.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/06_agnim_brAhmaNa~n_chAntareNa.md">
 
 अग्निं ब्राह्मणं चान्तरेण नातिक्रामेत् ६
 
@@ -172,7 +172,7 @@ title = "१२ अभिनिमृक्तादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/07_brAhmaNAMshcha.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/07_brAhmaNAMshcha.md">
 
 ब्राह्मणांश्च ७
 
@@ -196,7 +196,7 @@ title = "१२ अभिनिमृक्तादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/08_anujnApya_vAtikrAmet.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/08_anujnApya_vAtikrAmet.md">
 
 अनुज्ञाप्य वातिक्रामेत् ८
 
@@ -220,7 +220,7 @@ title = "१२ अभिनिमृक्तादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/09_agnimapashcha_na_yugapaddhArayIta.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/09_agnimapashcha_na_yugapaddhArayIta.md">
 
 अग्निमपश्च न युगपद्धारयीत ९
 
@@ -244,7 +244,7 @@ title = "१२ अभिनिमृक्तादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/10_nAnAgnInA~n_cha_sannivApaM.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/10_nAnAgnInA~n_cha_sannivApaM.md">
 
 नानाग्नीनां च संनिवापं वर्जयेत् १०
 
@@ -272,7 +272,7 @@ title = "१२ अभिनिमृक्तादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/11_pratimukhamagnimAhriyamANam_nApratiShThitam_bhUmau.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/11_pratimukhamagnimAhriyamANam_nApratiShThitam_bhUmau.md">
 
 प्रतिमुखमग्निमाह्रियमाणम् नाप्रतिष्ठितं भूमौ प्रदक्षिणीकुर्यात्  +++(प्रतिष्ठिते तु प्रदक्षिणीकुर्यात्)+++११   
 
@@ -298,7 +298,7 @@ title = "१२ अभिनिमृक्तादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/12_pRShThatash_chAtmanaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/12_pRShThatash_chAtmanaH.md">
 
 पृष्ठतश्चात्मनः पाणी न संश्लेषयेत् १२
 
@@ -322,7 +322,7 @@ title = "१२ अभिनिमृक्तादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/13_svapann_abhinimrukto_nAshvAn.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/13_svapann_abhinimrukto_nAshvAn.md">
 
 स्वपन्न् अभिनिम्रुक्तो +++(=सूर्यास्तसमये निद्रालुः)+++ नाश्वान् +++(=अनश्नन्)+++ वाग्यतो रात्रिमासीत । श्वोभूत उदकमुपस्पृश्य वाचं विसृजेत् १३
 
@@ -352,7 +352,7 @@ title = "१२ अभिनिमृक्तादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/14_svapann_abhyudito_nAshvAn.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/14_svapann_abhyudito_nAshvAn.md">
 
 स्वपन्न् अभ्युदितो +++(नाम सूर्योदये निद्रालुः)+++ नाश्वान्+++(=अनश्नन्)+++ वाग्यतोऽहस्तिष्ठेत् १४
 
@@ -376,7 +376,7 @@ title = "१२ अभिनिमृक्तादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/15_AtamitoH_prANamAyachChedityeke.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/15_AtamitoH_prANamAyachChedityeke.md">
 
 आतमितोः प्राणमायच्छेदित्येके +++(तावद् वा प्राणान् आयमयेद् यावद् अङ्गग्लानिर् न स्यात्)+++१५  
 
@@ -406,7 +406,7 @@ title = "१२ अभिनिमृक्तादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/16_svapnam_vA_pApakam_dRushtvA.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/16_svapnam_vA_pApakam_dRushtvA.md">
 
 स्वप्नं वा पापकं दृष्ट्वा १६
 
@@ -430,7 +430,7 @@ title = "१२ अभिनिमृक्तादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/17_arthaM_vA_siShAdhayiShan.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/17_arthaM_vA_siShAdhayiShan.md">
 
 अर्थं वा सिषाधयिषन् १७
 
@@ -456,7 +456,7 @@ title = "१२ अभिनिमृक्तादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/18_niyamAtikrame_chAnyasmin.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/18_niyamAtikrame_chAnyasmin.md">
 
 नियमातिक्रमे चान्यस्मिन् १८
 
@@ -482,7 +482,7 @@ title = "१२ अभिनिमृक्तादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/19_doShaphalasaMshaye_na_tatkartavyam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/19_doShaphalasaMshaye_na_tatkartavyam.md">
 
 दोषफलसंशये न तत्कर्तव्यम् १९
 
@@ -506,7 +506,7 @@ title = "१२ अभिनिमृक्तादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/20_evamadhyAyAnadhyAye.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/20_evamadhyAyAnadhyAye.md">
 
 एवमध्यायानध्याये २०
 
@@ -530,7 +530,7 @@ title = "१२ अभिनिमृक्तादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/21_na_saMshaye_pratyaxavadbrUyAt.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/21_na_saMshaye_pratyaxavadbrUyAt.md">
 
 न संशये प्रत्यक्षवद्ब्रूयात् २१
 
@@ -556,7 +556,7 @@ title = "१२ अभिनिमृक्तादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/22_abhinimruktAbhyuditakunakhishyAvadA-gradidhiShu_didhiShUpati_paryAhitaparIShTaparivittaparivinnaparivividAneShu.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/22_abhinimruktAbhyuditakunakhishyAvadA-gradidhiShu_didhiShUpati_paryAhitaparIShTaparivittaparivinnaparivividAneShu.md">
 
 अभिनिम्रुक्ताभ्युदित+++(=सन्ध्याशायिनौ)+++-कुनखि-श्यावदा-ऽग्रदिधिषु+++(=कनिष्ठाया वोढा)+++--दिधिषू-पति+++(अग्रदिधिषौ ज्येष्ठायाः पश्चाद् वोढा)+++-पर्याहित-परीष्ट-परिवित्त+++(=अकृतविवाहः कनिष्ठे कृतविवाहे)+++-परिविन्न+++(=कनिष्ठे भागग्राहिणि ज्येष्ठः)+++-परिविविदानेषु +++(=परिविन्न-भ्राता)+++ चोत्तरोत्तरस्मिन्न् अशुचिकर-निर्वेषो गरीयान् गरीयान् २२
 
@@ -590,7 +590,7 @@ title = "१२ अभिनिमृक्तादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/23_tachcha_linga~n_charitvoddhAryamityeke.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/23_tachcha_linga~n_charitvoddhAryamityeke.md">
 
 तच्च लिङ्गं +++(=कुनखित्वादिकम्)+++ चरित्वोद्धार्यमित्येके २३
 

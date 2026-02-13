@@ -2,7 +2,7 @@
 title = "१३ पञ्च-महा-यज्ञाः, ॐ"
 +++
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/13/01_devebhyaH_svAhAkAra_A.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/13/01_devebhyaH_svAhAkAra_A.md">
 
 देवेभ्यः स्वाहाकार आ काष्ठात्, पितृभ्यः स्वधाकार ओदपात्रात्, स्वाध्याय इति १
 
@@ -41,7 +41,7 @@ title = "१३ पञ्च-महा-यज्ञाः, ॐ"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/13/02_pUjA_varNajyAyasA~N_kAryA.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/13/02_pUjA_varNajyAyasA~N_kAryA.md">
 
 पूजा वर्णज्यायसां कार्या २
 
@@ -74,7 +74,7 @@ title = "१३ पञ्च-महा-यज्ञाः, ॐ"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/13/03_vRddhatarANA~n_cha.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/13/03_vRddhatarANA~n_cha.md">
 
 वृद्धतराणां च ३
 
@@ -107,7 +107,7 @@ title = "१३ पञ्च-महा-यज्ञाः, ॐ"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/13/04_hRShTo_darpati_dRpto.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/13/04_hRShTo_darpati_dRpto.md">
 
 हृष्टो दर्पति दृप्तो धर्ममतिक्रामति धर्मातिक्रमे खलु पुनर्नरकः ४
 
@@ -140,7 +140,7 @@ title = "१३ पञ्च-महा-यज्ञाः, ॐ"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/13/05_na_samAvRtte_samAdesho.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/13/05_na_samAvRtte_samAdesho.md">
 
 न समावृत्ते समादेशो विद्यते ५
 
@@ -166,7 +166,7 @@ title = "१३ पञ्च-महा-यज्ञाः, ॐ"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/13/06_OMkAraH_svargadvAran_tasmAdbrahmAdhyeShyamANa.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/13/06_OMkAraH_svargadvAran_tasmAdbrahmAdhyeShyamANa.md">
 
 ॐकारः स्वर्गद्वारं तस्माद्ब्रह्माध्येष्यमाण एतदादि प्रतिपद्येत ६
 
@@ -192,7 +192,7 @@ title = "१३ पञ्च-महा-यज्ञाः, ॐ"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/13/07_vikathA~n_chAnyA~N_kRtvaivaM.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/13/07_vikathA~n_chAnyA~N_kRtvaivaM.md">
 
 विकथां चान्यां कृत्वैवं लौकिक्या वाचा व्यावर्तते ब्रह्म ७
 
@@ -217,7 +217,7 @@ title = "१३ पञ्च-महा-यज्ञाः, ॐ"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/13/08_yajneShu_chaitadAdayaH_prasavAH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/13/08_yajneShu_chaitadAdayaH_prasavAH.md">
 
 यज्ञेषु चैतदादयः प्रसवाः ८
 
@@ -248,7 +248,7 @@ title = "१३ पञ्च-महा-यज्ञाः, ॐ"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/13/09_loke_cha_bhUtikarmasvetadAdInyeva.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/13/09_loke_cha_bhUtikarmasvetadAdInyeva.md">
 
 लोके च भूतिकर्मस्वेतदादीन्येव वाक्यानि स्युर्यथा पुण्याहं स्वस्त्यृद्धिमिति ९
 
@@ -286,7 +286,7 @@ title = "१३ पञ्च-महा-यज्ञाः, ॐ"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/13/10_nAsamayena_kRchChra~N_kurvIta.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/13/10_nAsamayena_kRchChra~N_kurvIta.md">
 
 नासमयेन कृच्छ्रं कुर्वीत त्रिःश्रावणं त्रिःसहवचनमिति परिहाप्य १०
 
@@ -317,7 +317,7 @@ title = "१३ पञ्च-महा-यज्ञाः, ॐ"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/13/11_avichikitsA_yAvadbrahma_nigantavyamiti.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/13/11_avichikitsA_yAvadbrahma_nigantavyamiti.md">
 
 अविचिकित्सा यावद् ब्रह्म निगन्तव्यम् इति हारीतः ११ +++(????)+++
 
@@ -343,7 +343,7 @@ title = "१३ पञ्च-महा-यज्ञाः, ॐ"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/13/12_na_bahirvede_gatirvidyate.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/13/12_na_bahirvede_gatirvidyate.md">
 
 न बहिर्वेदे गतिर्विद्यते १२
 
@@ -367,7 +367,7 @@ title = "१३ पञ्च-महा-यज्ञाः, ॐ"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/13/13_samAdiShTamadhyApayantaM_yAvadadhyayanamupasangRhNIyAt.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/13/13_samAdiShTamadhyApayantaM_yAvadadhyayanamupasangRhNIyAt.md">
 
 समादिष्टमध्यापयन्तं यावदध्ययनमुपसंगृह्णीयात् १३
 
@@ -399,7 +399,7 @@ title = "१३ पञ्च-महा-यज्ञाः, ॐ"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/13/14_nityamarhantamityeke.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/13/14_nityamarhantamityeke.md">
 
 नित्यमर्हन्तमित्येके १४
 
@@ -429,7 +429,7 @@ title = "१३ पञ्च-महा-यज्ञाः, ॐ"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/13/15_na_gatir_vidyate.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/13/15_na_gatir_vidyate.md">
 
 न गतिर् +++(=शुश्रूषा)+++ विद्यते १५
 
@@ -453,7 +453,7 @@ title = "१३ पञ्च-महा-यज्ञाः, ॐ"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/13/16_vRddhAnAn_tu.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/13/16_vRddhAnAn_tu.md">
 
 वृद्धानां तु १६
 
@@ -479,7 +479,7 @@ title = "१३ पञ्च-महा-यज्ञाः, ॐ"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/13/17_brahmaNi_mitho_viniyoge.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/13/17_brahmaNi_mitho_viniyoge.md">
 
 ब्रह्मणि मिथो विनियोगे न गतिर्विद्यते १७
 
@@ -503,7 +503,7 @@ title = "१३ पञ्च-महा-यज्ञाः, ॐ"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/13/18_brahma_vardhata_ityupadishanti.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/13/18_brahma_vardhata_ityupadishanti.md">
 
 ब्रह्म वर्धत इत्युपदिशन्ति १८
 
@@ -530,7 +530,7 @@ title = "१३ पञ्च-महा-यज्ञाः, ॐ"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/13/19_niveshe_vRtte_saMvatsare.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/13/19_niveshe_vRtte_saMvatsare.md">
 
 निवेशे वृत्ते संवत्सरे संवत्सरे द्वौ द्वौ मासौ समाहित आचार्यकुले वसेद्भूयः श्रुतमिच्छन्न् इति श्वेतकेतुः १९
 
@@ -554,7 +554,7 @@ title = "१३ पञ्च-महा-यज्ञाः, ॐ"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/13/20_etena_hyahaM_yogena.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/13/20_etena_hyahaM_yogena.md">
 
 एतेन ह्यहं योगेन भूयः पूर्वस्मात्कालाच्छ्रुतमकुर्वीति २०
 
@@ -583,7 +583,7 @@ title = "१३ पञ्च-महा-यज्ञाः, ॐ"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/13/21_tachChAstrairvipratiShiddham.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/13/21_tachChAstrairvipratiShiddham.md">
 
 तच्छास्त्रैर्विप्रतिषिद्धम् २१
 
@@ -607,7 +607,7 @@ title = "१३ पञ्च-महा-यज्ञाः, ॐ"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/13/22_niveshe_hi_vRtte.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/13/22_niveshe_hi_vRtte.md">
 
 निवेशे हि वृत्ते नैयमिकानि श्रूयन्ते २२
 

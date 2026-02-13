@@ -2,7 +2,7 @@
 title = "०३ ब्रह्मचर्यम्"
 +++
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/01_mAnjiShThaM_rAjanyasya.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/01_mAnjiShThaM_rAjanyasya.md">
 
 माञ्जिष्ठं+++(=madder-red-dyed)+++ राजन्यस्य १
 
@@ -26,7 +26,7 @@ title = "०३ ब्रह्मचर्यम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/02_hAridram_vaishyasya.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/02_hAridram_vaishyasya.md">
 
 हारिद्रं वैश्यस्य। +++(तेन कार्पासे धृते वर्णविकल्पो नास्ति।)+++ २
 
@@ -50,7 +50,7 @@ title = "०३ ब्रह्मचर्यम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/03_hAriNam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/03_hAriNam.md">
 
 हारिणम्+++(=मृगजम्)+++, ऐणेयं+++(=मृगीजम्)+++ वा +++(blackbuck-जात्या, न वर्णेन)+++ कृष्णं ब्राह्मणस्य +++(अजिनम्, न श्वेतैणेयम्)+++ ३
 
@@ -80,7 +80,7 @@ title = "०३ ब्रह्मचर्यम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/04_kRShNa~n_ched_anupastIrNAsanashAyI.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/04_kRShNa~n_ched_anupastIrNAsanashAyI.md">
 
 +++(ऐणेयं)+++ कृष्णं चेद् अनुपस्तीर्णासन-शायी स्यात् ४
 
@@ -109,7 +109,7 @@ title = "०३ ब्रह्मचर्यम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/05_rauravM_rAjanyasya.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/05_rauravM_rAjanyasya.md">
 
 रौरवं+++(→ रौतीति - barasingha? Chital?)+++ राजन्यस्य ५   
 
@@ -133,7 +133,7 @@ title = "०३ ब्रह्मचर्यम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/06_bastAjinaM_vaishyasya.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/06_bastAjinaM_vaishyasya.md">
 
 बस्ताजिनं वैश्यस्य ॥ ६ ॥
 
@@ -157,7 +157,7 @@ title = "०३ ब्रह्मचर्यम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/07_AvikaM_sArvavarNikam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/07_AvikaM_sArvavarNikam.md">
 
 आविकं सार्ववर्णिकम् ॥ ७ ॥  
 
@@ -181,7 +181,7 @@ title = "०३ ब्रह्मचर्यम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/08_kambalashcha.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/08_kambalashcha.md">
 
 कम्बलश् च +++(आविकः)+++ ॥८॥
 
@@ -205,7 +205,7 @@ title = "०३ ब्रह्मचर्यम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/09_brahmavRuddhimicchan.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/09_brahmavRuddhimicchan.md">
 
 ब्रह्मवृद्धिमिच्छन्न् अजिनान्य् एव वसीत,  
 क्षत्रवृद्धिम् इच्छन् वस्त्राण्य् एव,  
@@ -240,7 +240,7 @@ title = "०३ ब्रह्मचर्यम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/10_ajinan_tvevottaran_dhArayet.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/10_ajinan_tvevottaran_dhArayet.md">
 
 अजिनं त्वेवोत्तरं +++(→उत्तरीयरूपेण)+++ धारयेत् +++(इत्य् आपस्तम्बपक्षः)+++ १०
 
@@ -269,7 +269,7 @@ title = "०३ ब्रह्मचर्यम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/11_anRttadarshI.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/11_anRttadarshI.md">
 
 अ-नृत्त-दर्शी ११
 
@@ -308,7 +308,7 @@ title = "०३ ब्रह्मचर्यम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/12_sabhAH_samAjAMsh_chAgantA.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/12_sabhAH_samAjAMsh_chAgantA.md">
 
 सभाः समाजांश् चागन्ता १२
 
@@ -334,7 +334,7 @@ title = "०३ ब्रह्मचर्यम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/13_ajanavAdashIlaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/13_ajanavAdashIlaH.md">
 
 अजन-वाद-शीलः १३
 
@@ -358,7 +358,7 @@ title = "०३ ब्रह्मचर्यम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/14_rahashshIlaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/14_rahashshIlaH.md">
 
 रहश्-शीलः १४
 
@@ -382,7 +382,7 @@ title = "०३ ब्रह्मचर्यम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/15_guror_udAchAreShv_akartA.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/15_guror_udAchAreShv_akartA.md">
 
 गुरोर् उदाचारेष्व् अकर्ता स्वैरि-कर्माणि १५
 
@@ -408,7 +408,7 @@ title = "०३ ब्रह्मचर्यम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/16_strIbhir_yAvadarthasambhAShI.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/16_strIbhir_yAvadarthasambhAShI.md">
 
 स्त्रीभिर् यावद्-अर्थ-संभाषी १६
 
@@ -436,7 +436,7 @@ title = "०३ ब्रह्मचर्यम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/17_mRduH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/17_mRduH.md">
 
 मृदुः १७
 
@@ -460,7 +460,7 @@ title = "०३ ब्रह्मचर्यम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/18_shAntaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/18_shAntaH.md">
 
 शान्तः १८
 
@@ -484,7 +484,7 @@ title = "०३ ब्रह्मचर्यम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/19_dAntaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/19_dAntaH.md">
 
 दान्तः १९
 
@@ -510,7 +510,7 @@ title = "०३ ब्रह्मचर्यम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/20_hrImAn.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/20_hrImAn.md">
 
 ह्रीमान् २०
 
@@ -534,7 +534,7 @@ title = "०३ ब्रह्मचर्यम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/21_dRDhadhRtiH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/21_dRDhadhRtiH.md">
 
 दृढधृतिः २१
 
@@ -558,7 +558,7 @@ title = "०३ ब्रह्मचर्यम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/22_aglAMsnuH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/22_aglAMsnuH.md">
 
 अग्लांस्नुः २२
 
@@ -584,7 +584,7 @@ title = "०३ ब्रह्मचर्यम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/23_akrodhanaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/23_akrodhanaH.md">
 
 अक्रोधनः २३
 
@@ -610,7 +610,7 @@ title = "०३ ब्रह्मचर्यम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/24_anasUyuH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/24_anasUyuH.md">
 
 अनसूयुः २४
 
@@ -634,7 +634,7 @@ title = "०३ ब्रह्मचर्यम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/25_sarvaM_lAbhamAharangurave_sAyam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/25_sarvaM_lAbhamAharangurave_sAyam.md">
 
 सर्वं लाभमाहरन्गुरवे सायं प्रातरमन्त्रेण भिक्षाचर्यं चरेद् भिक्षमाणोऽन्यत्रापपात्रेभ्योऽभिशस्ताच्च २५
 
@@ -665,7 +665,7 @@ title = "०३ ब्रह्मचर्यम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/26_strINAm_pratyAchaxANAnAM_samAhito.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/26_strINAm_pratyAchaxANAnAM_samAhito.md">
 
 स्त्रीणां प्रत्याचक्षाणानां समाहितो ब्रह्मचारीष्टं दत्तं हुतं प्रजां पशून्ब्रह्मवर्चसमन्नाद्यं वृङ्क्ते २६-१   
 
@@ -702,7 +702,7 @@ A Brāhmaṇa declares: Since a devout student takes away from women, who refuse
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/27_nAnumAnena_bhaixam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/27_nAnumAnena_bhaixam.md">
 
 नानुमानेन भेक्षम् उच्छिष्टं - दृष्टश्रुताभ्यां तु २७
 
@@ -732,7 +732,7 @@ A Brāhmaṇa declares: Since a devout student takes away from women, who refuse
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/28_bhavatpUrvayA_brAhmaNo_bhixeta.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/28_bhavatpUrvayA_brAhmaNo_bhixeta.md">
 
 भवत्पूर्वया ब्राह्मणो भिक्षेत २८
 
@@ -760,7 +760,7 @@ A Brāhmaṇa declares: Since a devout student takes away from women, who refuse
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/29_bhavadmadhyayA_rAjanyaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/29_bhavadmadhyayA_rAjanyaH.md">
 
 भवद्मध्यया राजन्यः २९
 
@@ -784,7 +784,7 @@ A Brāhmaṇa declares: Since a devout student takes away from women, who refuse
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/30_bhavadantyayA_vaishyaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/30_bhavadantyayA_vaishyaH.md">
 
 भवदन्त्यया वैश्यः ३०
 
@@ -808,7 +808,7 @@ A Brāhmaṇa declares: Since a devout student takes away from women, who refuse
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/31_tatsamAhRtyopanidhAyAchAryAya_prabrUyAt.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/31_tatsamAhRtyopanidhAyAchAryAya_prabrUyAt.md">
 
 तत्समाहृत्योपनिधायाचार्याय प्रब्रूयात् ३१
 
@@ -837,7 +837,7 @@ A Brāhmaṇa declares: Since a devout student takes away from women, who refuse
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/32_tena_pradiShTam_bhunjIta.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/32_tena_pradiShTam_bhunjIta.md">
 
 तेन प्रदिष्टं भुञ्जीत ३२
 
@@ -863,7 +863,7 @@ A Brāhmaṇa declares: Since a devout student takes away from women, who refuse
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/33_vipravAse_gurorAchAryakulAya.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/33_vipravAse_gurorAchAryakulAya.md">
 
 विप्रवासे गुरोराचार्यकुलाय ३३
 
@@ -887,7 +887,7 @@ A Brāhmaṇa declares: Since a devout student takes away from women, who refuse
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/34_tairvipravAse-nyebhyo-pi_shrotriyebhyaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/34_tairvipravAse-nyebhyo-pi_shrotriyebhyaH.md">
 
 तैर्विप्रवासेऽन्येभ्योऽपि श्रोत्रियेभ्यः ३४
 
@@ -921,7 +921,7 @@ A Brāhmaṇa declares: Since a devout student takes away from women, who refuse
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/35_nAtmaprayojanashcharet.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/35_nAtmaprayojanashcharet.md">
 
 नात्मप्रयोजनश्चरेत् ३५
 
@@ -949,7 +949,7 @@ A Brāhmaṇa declares: Since a devout student takes away from women, who refuse
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/36_bhuktvA_svayam_amatram.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/36_bhuktvA_svayam_amatram.md">
 
 भुक्त्वा स्वयम् अमत्रं प्रक्षालयीत ३६
 
@@ -975,7 +975,7 @@ A Brāhmaṇa declares: Since a devout student takes away from women, who refuse
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/37_na_chochChiShTa~N_kuryAt.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/37_na_chochChiShTa~N_kuryAt.md">
 
 न चोच्छिष्टं कुर्यात् ३७
 
@@ -999,7 +999,7 @@ A Brāhmaṇa declares: Since a devout student takes away from women, who refuse
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/38_ashaktau_bhUmau_nikhanet.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/38_ashaktau_bhUmau_nikhanet.md">
 
 अशक्तौ भूमौ निखनेत् ३८
 
@@ -1023,7 +1023,7 @@ A Brāhmaṇa declares: Since a devout student takes away from women, who refuse
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/39_apsu_vA_praveshayet.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/39_apsu_vA_praveshayet.md">
 
 अप्सु वा प्रवेशयेत् ३९
 
@@ -1047,7 +1047,7 @@ A Brāhmaṇa declares: Since a devout student takes away from women, who refuse
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/40_AryAya_vA_paryavadadhyAt.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/40_AryAya_vA_paryavadadhyAt.md">
 
 आर्याय वा पर्यवदध्यात् ४०
 
@@ -1073,7 +1073,7 @@ A Brāhmaṇa declares: Since a devout student takes away from women, who refuse
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/41_antardhine_vA_shUdrA.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/41_antardhine_vA_shUdrA.md">
 
 अन्तर्धिने वा शूद्रा य ४१
 
@@ -1097,7 +1097,7 @@ A Brāhmaṇa declares: Since a devout student takes away from women, who refuse
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/42_proShito_bhaixAd_agnau.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/42_proShito_bhaixAd_agnau.md">
 
 प्रोषितो भैक्षाद् अग्नौ कृत्वा भुञ्जीत ४२
 
@@ -1127,7 +1127,7 @@ A Brāhmaṇa declares: Since a devout student takes away from women, who refuse
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/43_bhaixaM_haviShA_saMstutan.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/43_bhaixaM_haviShA_saMstutan.md">
 
 भैक्षं हविषा संस्तुतं तत्राचार्यो देवतार्थे ४३
 
@@ -1154,7 +1154,7 @@ A Brāhmaṇa declares: Since a devout student takes away from women, who refuse
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/44_AhavanIyArthe_cha.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/44_AhavanIyArthe_cha.md">
 
 आहवनीयार्थे च ४४
 
@@ -1180,7 +1180,7 @@ A Brāhmaṇa declares: Since a devout student takes away from women, who refuse
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/45_tam_bhojayitvA_yaduchChiShTam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/03/45_tam_bhojayitvA_yaduchChiShTam.md">
 
 तं भोजयित्वा यदुच्छिष्टम् ४५
 

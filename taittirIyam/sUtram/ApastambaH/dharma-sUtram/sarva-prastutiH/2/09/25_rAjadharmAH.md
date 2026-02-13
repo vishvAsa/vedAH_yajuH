@@ -2,7 +2,7 @@
 title = "२५ राजधर्माः"
 +++
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/25/01_vyAkhyAtAH_sarvavarNAnAM_sAdhAraNavaisheShikA.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/25/01_vyAkhyAtAH_sarvavarNAnAM_sAdhAraNavaisheShikA.md">
 
 व्याख्याताः सर्ववर्णानां साधारणवैशेषिका धर्माः । राज्ञस्तु विशेषाद्वक्ष्यामः १
 
@@ -26,7 +26,7 @@ title = "२५ राजधर्माः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/25/02_daxiNAdvAraM_veshma_pura~n.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/25/02_daxiNAdvAraM_veshma_pura~n.md">
 
 दक्षिणाद्वारं वेश्म पुरं च मापयेत् २
 
@@ -50,7 +50,7 @@ title = "२५ राजधर्माः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/25/03_antarasyAm_puri_veshma.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/25/03_antarasyAm_puri_veshma.md">
 
 अन्तरस्यां पुरि वेश्म ३
 
@@ -76,7 +76,7 @@ title = "२५ राजधर्माः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/25/04_tasya_purastAdAvasathastadAmantraNamityAchaxate.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/25/04_tasya_purastAdAvasathastadAmantraNamityAchaxate.md">
 
 तस्य पुरस्तादावसथस्तदामन्त्रणमित्याचक्षते ४
 
@@ -102,7 +102,7 @@ title = "२५ राजधर्माः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/25/05_daxiNena_puraM_sabhA.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/25/05_daxiNena_puraM_sabhA.md">
 
 दक्षिणेन पुरं सभा दक्षिणोदग्द्वारा यथोभयं संदृश्येत बहिरन्तरं चेति ५
 
@@ -129,7 +129,7 @@ title = "२५ राजधर्माः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/25/06_sarveShvevAjasrA_agnayaH_syuH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/25/06_sarveShvevAjasrA_agnayaH_syuH.md">
 
 सर्वेष्वेवाजस्रा अग्नयः स्युः ६
 
@@ -155,7 +155,7 @@ title = "२५ राजधर्माः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/25/07_agnipUjA_cha_nityA.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/25/07_agnipUjA_cha_nityA.md">
 
 अग्निपूजा च नित्या यथा गृहमेधे ७
 
@@ -181,7 +181,7 @@ title = "२५ राजधर्माः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/25/08_Avasathe_shrotriyAvarArdhyAnatithInvAsayet.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/25/08_Avasathe_shrotriyAvarArdhyAnatithInvAsayet.md">
 
 आवसथे श्रोत्रियावरार्ध्यानतिथीन्वासयेत् ८
 
@@ -208,7 +208,7 @@ title = "२५ राजधर्माः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/25/09_teShAM_yathAguNamAvasathAH_shayyAnnapAna~n.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/25/09_teShAM_yathAguNamAvasathAH_shayyAnnapAna~n.md">
 
 तेषां यथागुणमावसथाः शय्यान्नपानं च विदेयम् ९
 
@@ -234,7 +234,7 @@ title = "२५ राजधर्माः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/25/10_gurUnamAtyAMshcha_nAtijIvet.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/25/10_gurUnamAtyAMshcha_nAtijIvet.md">
 
 गुरूनमात्यांश्च नातिजीवेत् १०
 
@@ -260,7 +260,7 @@ title = "२५ राजधर्माः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/25/11_na_chAsya_viShaye.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/25/11_na_chAsya_viShaye.md">
 
 न चास्य विषये क्षुधा रोगेण हिमातपाभ्यां वावसीदेदभावाद्बुद्धिपूर्वं वा कश्चित् ११
 
@@ -286,7 +286,7 @@ title = "२५ राजधर्माः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/25/12_sabhAyA_madhye.adhidevanamuddhatyA.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/25/12_sabhAyA_madhye.adhidevanamuddhatyA.md">
 
 सभाया मध्ये ऽधिदेवनमुद्धत्या ऽऽवोक्ष्या ऽऽक्षान् निवपेद् युग्मान् वैभीतकान्यथार्थान् १२
 
@@ -310,7 +310,7 @@ title = "२५ राजधर्माः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/25/13_AryAH_shuchayaH_satyashIlA.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/25/13_AryAH_shuchayaH_satyashIlA.md">
 
 आर्याः शुचयः सत्यशीला दीवितारः स्युः १३
 
@@ -344,7 +344,7 @@ title = "२५ राजधर्माः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/25/14_AyudhagrahaNan_nRttagItavAditrANIti_rAjAdhInebhyo-nyatra.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/25/14_AyudhagrahaNan_nRttagItavAditrANIti_rAjAdhInebhyo-nyatra.md">
 
 आयुधग्रहणं नृत्तगीतवादित्राणीति राजाधीनेभ्योऽन्यत्र न विद्येरन् १४
 
@@ -370,7 +370,7 @@ title = "२५ राजधर्माः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/25/15_xemakRdrAjA_yasya_viShaye.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/25/15_xemakRdrAjA_yasya_viShaye.md">
 
 क्षेमकृद्राजा यस्य विषये ग्रामेऽरण्ये वा तस्करभयं न विद्यते १५
 

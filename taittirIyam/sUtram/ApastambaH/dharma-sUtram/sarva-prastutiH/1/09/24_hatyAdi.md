@@ -2,7 +2,7 @@
 title = "२४ हत्यादि"
 +++
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/01_xatriyaM_hatvA_gavAM.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/01_xatriyaM_hatvA_gavAM.md">
 
 क्षत्रियं हत्वा गवां सहस्रं वैरयातनार्थं दद्यात् १
 
@@ -34,7 +34,7 @@ title = "२४ हत्यादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/02_shataM_vaishye.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/02_shataM_vaishye.md">
 
 शतं वैश्ये २
 
@@ -60,7 +60,7 @@ title = "२४ हत्यादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/03_dasha_shUdre.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/03_dasha_shUdre.md">
 
 दश शूद्रे ३
 
@@ -86,7 +86,7 @@ title = "२४ हत्यादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/04_RShabhashchAtrAdhikaH_sarvatra_prAyashchittArthaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/04_RShabhashchAtrAdhikaH_sarvatra_prAyashchittArthaH.md">
 
 ऋषभश्चात्राधिकः सर्वत्र प्रायश्चित्तार्थः ४
 
@@ -122,7 +122,7 @@ title = "२४ हत्यादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/05_strIShu_chaiteShAmevam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/05_strIShu_chaiteShAmevam.md">
 
 स्त्रीषु चैतेषामेवम् ५
 
@@ -146,7 +146,7 @@ title = "२४ हत्यादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/06_pUrvayorvarNayorvedAdhyAyaM_hatvA_savanagataM.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/06_pUrvayorvarNayorvedAdhyAyaM_hatvA_savanagataM.md">
 
 पूर्वयोर्वर्णयोर्वेदाध्यायं हत्वा सवनगतं वाभिशस्तः ६
 
@@ -176,7 +176,7 @@ title = "२४ हत्यादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/07_brAhmaNamAtra~n_cha.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/07_brAhmaNamAtra~n_cha.md">
 
 ब्राह्मणमात्रं च ७
 
@@ -200,7 +200,7 @@ title = "२४ हत्यादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/08_garbha~n_cha_tasyAvijnAtam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/08_garbha~n_cha_tasyAvijnAtam.md">
 
 गर्भं च तस्याविज्ञातम् ८
 
@@ -224,7 +224,7 @@ title = "२४ हत्यादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/09_AtreyI~n_cha_striyam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/09_AtreyI~n_cha_striyam.md">
 
 आत्रेयीं +++(=ऋतुस्नाताम्)+++ च स्त्रियम् ९
 
@@ -252,7 +252,7 @@ title = "२४ हत्यादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/10_tasya_nirveShaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/10_tasya_nirveShaH.md">
 
 तस्य निर्वेषः +++(=प्रायश्चित्तम्)+++ १०
 
@@ -276,7 +276,7 @@ title = "२४ हत्यादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/11_araNye_kuTi~N_kRtvA.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/11_araNye_kuTi~N_kRtvA.md">
 
 अरण्ये कुटिं कृत्वा वाग्यतः शवशिरध्वजोऽर्धशाणीपक्षमधोनाभ्युपरिजान्वाच्छाद्य ११
 
@@ -302,7 +302,7 @@ title = "२४ हत्यादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/12_tasya_panthA_antarA.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/12_tasya_panthA_antarA.md">
 
 तस्य पन्था अन्तरा वर्त्मनी १२
 
@@ -326,7 +326,7 @@ title = "२४ हत्यादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/13_dRShTvA_chAnyamutkrAmet.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/13_dRShTvA_chAnyamutkrAmet.md">
 
 दृष्ट्वा चान्यमुत्क्रामेत् १३
 
@@ -354,7 +354,7 @@ title = "२४ हत्यादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/14_khaNDena_lohitakena_sharAveNa.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/14_khaNDena_lohitakena_sharAveNa.md">
 
 खण्डेन लोहितकेन शरावेण ग्रामे प्रतिष्ठेत १४
 
@@ -382,7 +382,7 @@ title = "२४ हत्यादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/15_ko-bhishastAya_bhixAmiti_saptAgArANi.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/15_ko-bhishastAya_bhixAmiti_saptAgArANi.md">
 
 कोऽभिशस्ताय भिक्षामिति सप्तागाराणि चरेत् १५
 
@@ -414,7 +414,7 @@ title = "२४ हत्यादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/16_sA_vRttiH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/16_sA_vRttiH.md">
 
 सा वृत्तिः १६
 
@@ -438,7 +438,7 @@ title = "२४ हत्यादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/17_alabdhopavAsaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/17_alabdhopavAsaH.md">
 
 अलब्धोपवासः १७
 
@@ -462,7 +462,7 @@ title = "२४ हत्यादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/18_gAshcha_raxet.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/18_gAshcha_raxet.md">
 
 गाश्च रक्षेत् १८
 
@@ -486,7 +486,7 @@ title = "२४ हत्यादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/19_tAsAn_niShkramaNapraveshane_dvitIyo.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/19_tAsAn_niShkramaNapraveshane_dvitIyo.md">
 
 तासां निष्क्रमणप्रवेशने द्वितीयो ग्रामेऽर्थः १९
 
@@ -510,7 +510,7 @@ title = "२४ हत्यादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/20_dvAdasha_varShANi_charitvA.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/20_dvAdasha_varShANi_charitvA.md">
 
 द्वादश वर्षाणि चरित्वा सिद्धः सद्भिः संप्रयोगः २०
 
@@ -540,7 +540,7 @@ title = "२४ हत्यादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/21_Ajipathe_vA_kuTimkRtvA.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/21_Ajipathe_vA_kuTimkRtvA.md">
 
 आजिपथे वा कुटिङ्कृत्वा ब्राह्मणगव्योपजिगीषंआणो वसेत्त्रिः प्रतिराद्धोऽपजित्य वा मुक्तः २१
 
@@ -568,7 +568,7 @@ title = "२४ हत्यादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/22_AshvamedhikaM_vAvabhRthamavetya_muchyate.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/22_AshvamedhikaM_vAvabhRthamavetya_muchyate.md">
 
 आश्वमेधिकं वावभृथमवेत्य मुच्यते २२
 
@@ -594,7 +594,7 @@ title = "२४ हत्यादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/23_dharmArthasannipAte-rthagrAhiNa_etadeva.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/23_dharmArthasannipAte-rthagrAhiNa_etadeva.md">
 
 धर्मार्थसंनिपातेऽर्थग्राहिण एतदेव २३
 
@@ -639,7 +639,7 @@ title = "२४ हत्यादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/24_guruM_hatvA_shrotriyaM.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/24_guruM_hatvA_shrotriyaM.md">
 
 गुरुं हत्वा श्रोत्रियं वा कर्मसमाप्तमेतेनैव विधिनोत्तमादुच्छ्वासाच्चरेत् २४
 
@@ -666,7 +666,7 @@ title = "२४ हत्यादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/25_nAsyAsmiMlloke_pratyApattirvidyate_kalmaShan.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/25_nAsyAsmiMlloke_pratyApattirvidyate_kalmaShan.md">
 
 नास्यास्मिंल्लोके प्रत्यापत्तिर्विद्यते कल्मषं तु निर्हण्यते २५
 

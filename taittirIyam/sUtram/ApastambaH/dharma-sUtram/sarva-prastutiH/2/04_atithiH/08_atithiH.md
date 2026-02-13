@@ -2,7 +2,7 @@
 title = "०८ अतिथिः"
 +++
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/04/08/01_yena_kRtAvasathaH_syAdatithirna.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/04/08/01_yena_kRtAvasathaH_syAdatithirna.md">
 
 येन कृतावसथः +++(=दत्ताश्रयः)+++ स्यादतिथिर्न तं प्रत्युत्तिष्ठेत्प्रत्यवरोहेद्वा पुरस्ताच्चेदभिवादितः १
 
@@ -28,7 +28,7 @@ title = "०८ अतिथिः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/04/08/02_sheShabhojyatithInAM_syAt.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/04/08/02_sheShabhojyatithInAM_syAt.md">
 
 शेषभोज्यतिथीनां स्यात् २
 
@@ -54,7 +54,7 @@ title = "०८ अतिथिः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/04/08/03_na_rasAngRhe_bhunjItAnavasheShamatithibhyaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/04/08/03_na_rasAngRhe_bhunjItAnavasheShamatithibhyaH.md">
 
 न रसान्गृहे भुञ्जीतानवशेषमतिथिभ्यः ३
 
@@ -80,7 +80,7 @@ title = "०८ अतिथिः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/04/08/04_nAtmArthamabhirUpamannam_pAchayet.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/04/08/04_nAtmArthamabhirUpamannam_pAchayet.md">
 
 नात्मार्थमभिरूपमन्नं पाचयेत् ४
 
@@ -106,7 +106,7 @@ title = "०८ अतिथिः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/04/08/05_gomadhuparkArho_vedAdhyAyaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/04/08/05_gomadhuparkArho_vedAdhyAyaH.md">
 
 गोमधुपर्कार्हो वेदाध्यायः ५
 
@@ -132,7 +132,7 @@ title = "०८ अतिथिः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/04/08/06_AchArya_Rtvik_snAtako.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/04/08/06_AchArya_Rtvik_snAtako.md">
 
 आचार्य, ऋत्विक्, स्नातको, राजा वा धर्मयुक्तः +++(मधुपर्कार्हाः)+++६
 
@@ -161,7 +161,7 @@ title = "०८ अतिथिः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/04/08/07_AchAryAyartvije_shvashurAya_rAjna.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/04/08/07_AchAryAyartvije_shvashurAya_rAjna.md">
 
 आचार्यायर्त्विजे श्वशुराय राज्ञ इति परिसंवत्सरादुपतिष्ठद्भ्यो गौर्मधुपर्कश्च ७
 
@@ -187,7 +187,7 @@ title = "०८ अतिथिः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/04/08/08_dadhi_madhusaMsRShTam_madhuparkaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/04/08/08_dadhi_madhusaMsRShTam_madhuparkaH.md">
 
 दधि मधुसंसृष्टं मधुपर्कः पयो वा मधुसंसृष्टम् ८
 
@@ -218,7 +218,7 @@ title = "०८ अतिथिः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/04/08/09_abhAva_udakam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/04/08/09_abhAva_udakam.md">
 
 अभाव उदकम् ९
 
@@ -242,7 +242,7 @@ title = "०८ अतिथिः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/04/08/10_ShaDango_vedaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/04/08/10_ShaDango_vedaH.md">
 
 षडङ्गो वेदः १०
 
@@ -271,7 +271,7 @@ title = "०८ अतिथिः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/04/08/11_ChandaH_kalpo_vyAkaraNa~n.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/04/08/11_ChandaH_kalpo_vyAkaraNa~n.md">
 
 छन्दः कल्पो व्याकरणं ज्योतिषं निरुक्तं शीक्षा छन्दोविचितिरिति ११
 
@@ -304,7 +304,7 @@ title = "०८ अतिथिः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/04/08/12_shabdArthArambhaNAnAn_tu_karmaNAM.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/04/08/12_shabdArthArambhaNAnAn_tu_karmaNAM.md">
 
 +++(आक्षेपः -)+++ शब्दार्थारम्भणानां तु कर्मणां समाम्नायसमाप्तौ वेदशब्दः +++(तेन कल्पोऽपि वेदशब्दवाच्यस् स्यात्)+++ । तत्र +++(६ इति)+++ संख्या विप्रतिषिद्धा १२
 
@@ -333,7 +333,7 @@ title = "०८ अतिथिः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/04/08/13_angAnAn_tu_pradhAnairavyapadesha.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/04/08/13_angAnAn_tu_pradhAnairavyapadesha.md">
 
 +++(परिहारः - )+++ अङ्गानां तु प्रधानैरव्यपदेश इति न्यायवित्समयः १३
 
@@ -362,7 +362,7 @@ title = "०८ अतिथिः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/04/08/14_atithin_nirAkRtya_yatra.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/04/08/14_atithin_nirAkRtya_yatra.md">
 
 अतिथिं निराकृत्य यत्र गते भोजने स्मरेत्ततो विरम्योपोष्य १४
 

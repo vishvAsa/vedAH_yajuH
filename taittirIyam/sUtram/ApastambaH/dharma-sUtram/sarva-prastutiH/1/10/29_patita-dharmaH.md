@@ -1,7 +1,7 @@
 +++
 title = "२९ पतित-धर्मः"
 +++
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/10/29/01_khaTvAngan_daNDArthe_karmanAmadheyam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/10/29/01_khaTvAngan_daNDArthe_karmanAmadheyam.md">
 
 खट्वाङ्गं दण्डार्थे कर्मनामधेयं प्रब्रुवाणश्चङ्क्रम्येत को भ्रूणघ्ने भिक्षामिति । ग्रामे प्राणवृत्तिं प्रतिलभ्य शून्यागारं वृक्षमूलं वाभ्युपाश्रयेन्न हि म आर्यैः संप्रयोगो विद्यते १-१
 
@@ -41,7 +41,7 @@ title = "२९ पतित-धर्मः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/10/29/02_yaH_pramatto.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/10/29/02_yaH_pramatto.md">
 
 यः प्रमत्तो हन्ति, प्राप्तं दोषफलम् २
 
@@ -65,7 +65,7 @@ title = "२९ पतित-धर्मः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/10/29/03_saha_sankalpena_bhUyaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/10/29/03_saha_sankalpena_bhUyaH.md">
 
 सह संकल्पेन भूयः ३
 
@@ -89,7 +89,7 @@ title = "२९ पतित-धर्मः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/10/29/04_evamanyeShvapi_doShavatsu_karmasu.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/10/29/04_evamanyeShvapi_doShavatsu_karmasu.md">
 
 एवमन्येष्वपि दोषवत्सु कर्मसु ४
 
@@ -113,7 +113,7 @@ title = "२९ पतित-धर्मः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/10/29/05_tathA_puNyakriyAsu.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/10/29/05_tathA_puNyakriyAsu.md">
 
 तथा पुण्यक्रियासु ५
 
@@ -139,7 +139,7 @@ title = "२९ पतित-धर्मः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/10/29/06_parIxArtho-pi_brAhmaNa_Ayudhan.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/10/29/06_parIxArtho-pi_brAhmaNa_Ayudhan.md">
 
 परीक्षार्थोऽपि ब्राह्मण आयुधं नाददीत ६
 
@@ -163,7 +163,7 @@ title = "२९ पतित-धर्मः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/10/29/07_yo_hiMsArthamabhikrAntaM_hanti.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/10/29/07_yo_hiMsArthamabhikrAntaM_hanti.md">
 
 यो हिंसार्थमभिक्रान्तं हन्ति मन्युरेव मन्युं स्पृशति न तस्मिन्दोष इति पुराणे ७
 
@@ -217,7 +217,7 @@ title = "२९ पतित-धर्मः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/10/29/08_athAbhishastAH_samavasAya_patitaputreShu.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/10/29/08_athAbhishastAH_samavasAya_patitaputreShu.md">
 
 अथाभिशस्ताः समवसाय  
 पतित-पुत्रेषु चरेयुर् धार्म्यम् इति  
@@ -246,7 +246,7 @@ title = "२९ पतित-धर्मः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/10/29/09_putrAnsanniShpAdya_brUyurvipra_vrajatatAsmadevaM.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/10/29/09_putrAnsanniShpAdya_brUyurvipra_vrajatatAsmadevaM.md">
 
 पुत्रान्संनिष्पाद्य ब्रूयुर् -  
 "विप्रव्रजततास्मद् -  
@@ -279,7 +279,7 @@ title = "२९ पतित-धर्मः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/10/29/10_athApi_na_sendri.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/10/29/10_athApi_na_sendri.md">
 
 अथापि न सेन्द्रि यः पतति १०
 
@@ -306,7 +306,7 @@ title = "२९ पतित-धर्मः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/10/29/11_tadetena_veditavyam_angahIno.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/10/29/11_tadetena_veditavyam_angahIno.md">
 
 तदेतेन वेदितव्यम् । अङ्गहीनो हि साङ्गं जनयति ११
 
@@ -335,7 +335,7 @@ title = "२९ पतित-धर्मः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/10/29/12_mithyaitaditi_hArItaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/10/29/12_mithyaitaditi_hArItaH.md">
 
 मिथ्यैतदिति हारीतः १२
 
@@ -362,7 +362,7 @@ title = "२९ पतित-धर्मः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/10/29/13_dadhidhAnIsadharmA_strI_bhavati.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/10/29/13_dadhidhAnIsadharmA_strI_bhavati.md">
 
 दधिधानीसधर्मा स्त्री भवति १३
 
@@ -391,7 +391,7 @@ title = "२९ पतित-धर्मः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/10/29/14_yo_hi_dadhidhAnyAmaprayatam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/10/29/14_yo_hi_dadhidhAnyAmaprayatam.md">
 
 यो हि दधिधान्यामप्रयतं पय आतच्य मन्थति न तेन धर्मकृत्यं क्रियते । एवमशुचि शुक्लं यन्निवर्तते न तेन सह संप्रयोगो विद्यते १४
 
@@ -422,7 +422,7 @@ title = "२९ पतित-धर्मः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/10/29/15_abhIchArAnuvyAhArAvashuchikarAvapatanIyau.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/10/29/15_abhIchArAnuvyAhArAvashuchikarAvapatanIyau.md">
 
 अभीचारानुव्याहारावशुचिकरावपतनीयौ १५
 
@@ -450,7 +450,7 @@ title = "२९ पतित-धर्मः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/10/29/16_patanIyAviti_hArItaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/10/29/16_patanIyAviti_hArItaH.md">
 
 पतनीयाविति हारीतः १६
 
@@ -474,7 +474,7 @@ title = "२९ पतित-धर्मः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/10/29/17_patanIyavRttistvashuchikarANAn_dvAdasha_mAsAndvAdashArdhamAsAndvAdasha.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/10/29/17_patanIyavRttistvashuchikarANAn_dvAdasha_mAsAndvAdashArdhamAsAndvAdasha.md">
 
 पतनीयवृत्तिस्त्वशुचिकराणां द्वादश मासान्द्वादशार्धमासान्द्वादश द्वादशाहान्द्वादश सप्ताहान्द्वादश त्र्यहान्द्वादशाहं सप्ताहं त्र्यहमेकाहम् १७
 
@@ -498,7 +498,7 @@ title = "२९ पतित-धर्मः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/10/29/18_ityashuchikaranirveSho_yathA_karmAbhyAsaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/10/29/18_ityashuchikaranirveSho_yathA_karmAbhyAsaH.md">
 
 इत्यशुचिकरनिर्वेषो यथा कर्माभ्यासः १८
 

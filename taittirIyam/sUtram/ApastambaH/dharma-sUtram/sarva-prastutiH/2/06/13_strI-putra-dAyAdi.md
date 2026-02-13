@@ -2,7 +2,7 @@
 title = "१३ स्त्री-पुत्र-दायादि"
 +++
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/13/01_savarNA-pUrvashAstravihitAyAM_yathartu_gachChataH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/13/01_savarNA-pUrvashAstravihitAyAM_yathartu_gachChataH.md">
 
 सवर्णा-ऽपूर्व+++(=अनन्यव्यूढा)+++-शास्त्रविहितायां यथर्तु गच्छतः पुत्रास्तेषां कर्मभिः संबन्धः १
 
@@ -31,7 +31,7 @@ title = "१३ स्त्री-पुत्र-दायादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/13/02_dAyenAvyatikramashchobhayoH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/13/02_dAyenAvyatikramashchobhayoH.md">
 
 दायेनाव्यतिक्रमश् चोभयोः +++(मातापित्रोः)+++ २
 
@@ -59,7 +59,7 @@ title = "१३ स्त्री-पुत्र-दायादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/13/03_pUrvavatyAmasaMskRtAyAM_varNAntare_cha.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/13/03_pUrvavatyAmasaMskRtAyAM_varNAntare_cha.md">
 
 पूर्ववत्याम्, असंस्कृतायां, वर्णान्तरे च मैथुने दोषः ३
 
@@ -83,7 +83,7 @@ title = "१३ स्त्री-पुत्र-दायादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/13/04_tatrApi_doShavAnputra_eva.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/13/04_tatrApi_doShavAnputra_eva.md">
 
 तत्रापि दोषवान्पुत्र एव ४
 
@@ -122,7 +122,7 @@ title = "१३ स्त्री-पुत्र-दायादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/13/05_utpAdayituH_putra_iti.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/13/05_utpAdayituH_putra_iti.md">
 
 उत्पादयितुः पुत्र इति हि ब्राह्मणम् ५
 
@@ -151,7 +151,7 @@ title = "१३ स्त्री-पुत्र-दायादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/13/06_athApyudAharanti_idAnImevAha~n_janaka.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/13/06_athApyudAharanti_idAnImevAha~n_janaka.md">
 
 अथाप्युदाहरन्ति ।  
 इदानीमेवाहं जनक स्त्रीणामीर्ष्यामि नो पुरा ।  
@@ -215,7 +215,7 @@ title = "१३ स्त्री-पुत्र-दायादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/13/07_dRShTo_dharmavyatikramas_sAhasam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/13/07_dRShTo_dharmavyatikramas_sAhasam.md">
 
 दृष्टो धर्मव्यतिक्रमः साहसं च पूर्वेषाम् ७
 
@@ -250,7 +250,7 @@ title = "१३ स्त्री-पुत्र-दायादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/13/08_teShAn_tejovisheSheNa_pratyavAyo.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/13/08_teShAn_tejovisheSheNa_pratyavAyo.md">
 
 तेषां तेजोविशेषेण प्रत्यवायो न विद्यते ८
 
@@ -283,7 +283,7 @@ title = "१३ स्त्री-पुत्र-दायादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/13/09_tadanvIxya_prayunjAnaH_sIdatyavaraH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/13/09_tadanvIxya_prayunjAnaH_sIdatyavaraH.md">
 
 तदन्वीक्ष्य प्रयुञ्जानः सीदत्यवरः ९
 
@@ -312,7 +312,7 @@ title = "१३ स्त्री-पुत्र-दायादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/13/10_dAna~N_krayadharmashchApatyasya_na.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/13/10_dAna~N_krayadharmashchApatyasya_na.md">
 
 दानं क्रयधर्मश्चापत्यस्य न विद्यते १०
 
@@ -356,7 +356,7 @@ title = "१३ स्त्री-पुत्र-दायादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/13/11_vivAhe_duhitRmate_dAna~N.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/13/11_vivAhe_duhitRmate_dAna~N.md">
 
 विवाहे दुहितृमते दानं काम्यं धर्मार्थं श्रूयते तस्माद्दुहितृमतेऽधिरथं शतं देयं तन्मिथुया कुर्यादिति ११-१  
 
@@ -392,7 +392,7 @@ title = "१३ स्त्री-पुत्र-दायादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/13/12_ekadhanena_jyeShTham.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/13/12_ekadhanena_jyeShTham.md">
 
 एकधनेन ज्येष्ठं तोषयित्वा १२
 

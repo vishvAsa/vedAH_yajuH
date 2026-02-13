@@ -2,7 +2,7 @@
 title = "२९ साक्ष्यम्, धर्मः"
 +++
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/29/01_prayojayitA_mantA_karteti.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/29/01_prayojayitA_mantA_karteti.md">
 
 प्रयोजयिता मन्ता कर्तेति स्वर्गनरकफलेषु कर्मसु भागिनः १
 
@@ -31,7 +31,7 @@ title = "२९ साक्ष्यम्, धर्मः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/29/02_yo_bhUya_Arabhate.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/29/02_yo_bhUya_Arabhate.md">
 
 यो भूय आरभते तस्मिन्फलविशेषः २
 
@@ -55,7 +55,7 @@ title = "२९ साक्ष्यम्, धर्मः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/29/03_kuTumbinau_dhanasyeshate.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/29/03_kuTumbinau_dhanasyeshate.md">
 
 कुटुम्बिनौ धनस्येशते ३
 
@@ -84,7 +84,7 @@ title = "२९ साक्ष्यम्, धर्मः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/29/04_tayoranumate-nye-pi_taddhiteShu_varteran.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/29/04_tayoranumate-nye-pi_taddhiteShu_varteran.md">
 
 तयोरनुमतेऽन्येऽपि तद्धितेषु वर्तेरन् ४
 
@@ -110,7 +110,7 @@ title = "२९ साक्ष्यम्, धर्मः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/29/05_vivAde_vidyAbhijanasampannA_vRddhA.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/29/05_vivAde_vidyAbhijanasampannA_vRddhA.md">
 
 विवादे विद्याभिजनसंपन्ना वृद्धा मेधाविनो धर्मेष्वविनिपातिनः ५
 
@@ -136,7 +136,7 @@ title = "२९ साक्ष्यम्, धर्मः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/29/06_sandehe_lingato_daiveneti.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/29/06_sandehe_lingato_daiveneti.md">
 
 संदेहे लिङ्गतो +++(=अनुमानेन)+++ दैवेनेति विचित्य ६
 
@@ -162,7 +162,7 @@ title = "२९ साक्ष्यम्, धर्मः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/29/07_puNyAhe_prAtaragnAviddhe.apAmante.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/29/07_puNyAhe_prAtaragnAviddhe.apAmante.md">
 
 पुण्याहे प्रातरग्नाविद्धे ऽपामन्ते राजवत्य् उभयतः +++(उभयपक्षाभ्याम्)+++ समाख्याप्य सर्वानुमते मुख्यः सत्यं प्रश्नं ब्रूयात् ७
 
@@ -197,7 +197,7 @@ title = "२९ साक्ष्यम्, धर्मः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/29/08_anRte_rAjA_daNDam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/29/08_anRte_rAjA_daNDam.md">
 
 अनृते राजा दण्डं प्रणयेत् ८
 
@@ -235,7 +235,7 @@ title = "२९ साक्ष्यम्, धर्मः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/29/09_narakashchAtrAdhikaH_sAmparAye.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/29/09_narakashchAtrAdhikaH_sAmparAye.md">
 
 नरकश्चात्राधिकः सांपराये ९
 
@@ -269,7 +269,7 @@ title = "२९ साक्ष्यम्, धर्मः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/29/10_satye_svargaH_sarvabhUtaprashaMsA.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/29/10_satye_svargaH_sarvabhUtaprashaMsA.md">
 
 सत्ये स्वर्गः सर्वभूतप्रशंसा च १०
 
@@ -295,7 +295,7 @@ title = "२९ साक्ष्यम्, धर्मः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/29/11_sA_niShThA_yA.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/29/11_sA_niShThA_yA.md">
 
 सा निष्ठा या विद्या स्त्रीषु शूद्रेषु च ११
 
@@ -321,7 +321,7 @@ title = "२९ साक्ष्यम्, धर्मः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/29/12_AtharvaNasya_vedasya_sheSha.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/29/12_AtharvaNasya_vedasya_sheSha.md">
 
 आथर्वणस्य वेदस्य शेष इत्युपदिशन्ति १२
 
@@ -345,7 +345,7 @@ title = "२९ साक्ष्यम्, धर्मः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/29/13_kRchChrA_dharmasamAptiH_samAmnAtena.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/29/13_kRchChrA_dharmasamAptiH_samAmnAtena.md">
 
 कृच्छ्रा धर्मसमाप्तिः समाम्नातेन । लक्षणकर्मणात्तु समाप्यते १३
 
@@ -369,7 +369,7 @@ title = "२९ साक्ष्यम्, धर्मः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/29/14_tatra_laxaNam_sarvajanapadeShvekAntasamAhitamAryANAM.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/29/14_tatra_laxaNam_sarvajanapadeShvekAntasamAhitamAryANAM.md">
 
 तत्र लक्षणम् । सर्वजनपदेष्वेकान्तसमाहितमार्याणां वृत्तं सम्यग्विनीतानां वृद्धानामात्मवतामलोलुपानामदाम्भिकानां वृत्तसादृश्यं भजेत । एवमुभौ लोकावभिजयति १४
 
@@ -399,7 +399,7 @@ title = "२९ साक्ष्यम्, धर्मः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/29/15_strIbhyaH_sarvavarNebhyashcha_dharmasheShAnpratIyAdityeka.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/29/15_strIbhyaH_sarvavarNebhyashcha_dharmasheShAnpratIyAdityeka.md">
 
 स्त्रीभ्यः सर्ववर्णेभ्यश्च धर्मशेषान्प्रतीयादित्येक इत्येके १५
 

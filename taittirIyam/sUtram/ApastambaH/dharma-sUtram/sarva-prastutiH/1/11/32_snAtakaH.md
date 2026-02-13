@@ -2,7 +2,7 @@
 title = "३२ स्नातकः"
 +++
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/01_pravachanayukto_varShAsharadam_maithunaM.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/01_pravachanayukto_varShAsharadam_maithunaM.md">
 
 प्रवचन-युक्तो वर्षा-शरदं मैथुनं वर्जयेत् १
 
@@ -28,7 +28,7 @@ title = "३२ स्नातकः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/02_mithunIbhUya_cha_na.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/02_mithunIbhUya_cha_na.md">
 
 मिथुनी-भूय च, न तया सह सर्वां रात्रिं शयीत २
 
@@ -54,7 +54,7 @@ title = "३२ स्नातकः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/03_shayAnashchAdhyApanaM_varjayet.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/03_shayAnashchAdhyApanaM_varjayet.md">
 
 शयानश् चाध्यापनं वर्जयेत् ३
 
@@ -78,7 +78,7 @@ title = "३२ स्नातकः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/04_na_cha_tasyAM.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/04_na_cha_tasyAM.md">
 
 न च तस्यां शय्यायाम् अध्यापयेद् यस्यां शयीत ४
 
@@ -102,7 +102,7 @@ title = "३२ स्नातकः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/05_anAviHsraganulepaNaH_syAt.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/05_anAviHsraganulepaNaH_syAt.md">
 
 अन्-आविः+++(भूत)+++-स्रग्-अनुलेपणः स्यात् ५
 
@@ -128,7 +128,7 @@ title = "३२ स्नातकः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/06_sadA_nishAyAn_dAram.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/06_sadA_nishAyAn_dAram.md">
 
 सदा निशायां दारं प्रत्य् अलंकुर्वीत ६
 
@@ -152,7 +152,7 @@ title = "३२ स्नातकः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/07_sashirAvamajjanamapsu_varjayet.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/07_sashirAvamajjanamapsu_varjayet.md">
 
 +++(नित्य-स्नाने स्नातकोचिते)+++ सशिरा वमज्जनम् अप्सु वर्जयेत् ७
 
@@ -183,7 +183,7 @@ title = "३२ स्नातकः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/08_astamite_cha_snAnam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/08_astamite_cha_snAnam.md">
 
 अस्तम् इते च स्नानम्  +++(वर्जयेत्)+++८
 
@@ -207,7 +207,7 @@ title = "३२ स्नातकः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/09_pAlAshamAsanam_pAduke_dantapraxAlanamiti.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/09_pAlAshamAsanam_pAduke_dantapraxAlanamiti.md">
 
 पालाशम् {आसनं, पादुके, दन्त-प्रक्षालनम्} इति च वर्जयेत् ९
 
@@ -231,7 +231,7 @@ title = "३२ स्नातकः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/10_stuti~n_cha_guroH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/10_stuti~n_cha_guroH.md">
 
 स्तुतिं च गुरोः समक्षं - यथा "सुस्नातम्" इति १०
 
@@ -255,7 +255,7 @@ title = "३२ स्नातकः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/11_A_nishAyA_jAgaraNam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/11_A_nishAyA_jAgaraNam.md">
 
 आ +++(मध्य)+++निशाया जागरणम् +++(स्यात्)+++ ११
 
@@ -279,7 +279,7 @@ title = "३२ स्नातकः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/12_anadhyAyo_nishAyAmanyatra_dharmopadeshAchChiShyebhyaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/12_anadhyAyo_nishAyAmanyatra_dharmopadeshAchChiShyebhyaH.md">
 
 अनध्यायो निशायाम् +++(=रात्रेर् मध्यभागः)+++ - अन्यत्र धर्मोपदेशाच् छिष्येभ्यः १२   
 
@@ -303,7 +303,7 @@ title = "३२ स्नातकः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/13_manasA_vA.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/13_manasA_vA.md">
 
 मनसा वा स्वयम् +++(अधीयीत)+++॥ १३ ॥  
 
@@ -327,7 +327,7 @@ title = "३२ स्नातकः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/14_Urdhvam_ardharAtrAd_adhyApanam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/14_Urdhvam_ardharAtrAd_adhyApanam.md">
 
 ऊर्ध्वम् अर्धरात्राद् अध्यापनम् १४
 
@@ -351,7 +351,7 @@ title = "३२ स्नातकः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/15_nApararAtramutthAyAnadhyAya_iti_saMvishet.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/15_nApararAtramutthAyAnadhyAya_iti_saMvishet.md">
 
 नापररात्रम् उत्थायानध्याय इति संविशेत् १५
 
@@ -380,7 +380,7 @@ title = "३२ स्नातकः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/16_kAmamapash_shayIta.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/16_kAmamapash_shayIta.md">
 
 कामम् +++(स्तम्बादिषु लीनः)+++ अपश्-शयीत १६
 
@@ -406,7 +406,7 @@ title = "३२ स्नातकः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/17_manasA_vAdhIyIta.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/17_manasA_vAdhIyIta.md">
 
 मनसा वाधीयीत १७
 
@@ -430,7 +430,7 @@ title = "३२ स्नातकः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/18_xudrAnxudrAcharitAMshcha_deshAnna_seveta.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/18_xudrAnxudrAcharitAMshcha_deshAnna_seveta.md">
 
 क्षुद्रान्, क्षुद्राचरितांश् च देशान् न सेवेत १८
 
@@ -456,7 +456,7 @@ title = "३२ स्नातकः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/19_sabhAH_samAjAMshcha.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/19_sabhAH_samAjAMshcha.md">
 
 सभाः समाजांश्+++(=जनयूथं)+++ च १९
 
@@ -480,7 +480,7 @@ title = "३२ स्नातकः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/20_samAja~n_chedgachChet_pradaxiNIkRtyApeyAt.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/20_samAja~n_chedgachChet_pradaxiNIkRtyApeyAt.md">
 
 समाजं+++(=जनयूथं)+++ चेद् गच्छेत्, +++(निर्गच्छन्)+++ प्रदक्षिणी-कृत्यापेयात् २०
 
@@ -504,7 +504,7 @@ title = "३२ स्नातकः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/21_nagarapraveshanAni_cha_varjayet.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/21_nagarapraveshanAni_cha_varjayet.md">
 
 नगर-प्रवेशनानि च वर्जयेत् २१
 
@@ -528,7 +528,7 @@ title = "३२ स्नातकः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/22_prashna~n_cha_na.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/22_prashna~n_cha_na.md">
 
 +++(दुर्बोध्यार्थ-)+++प्रश्नं+++(→प्रश्नोत्तरं)+++ च न विब्रूयात् २२
 
@@ -552,7 +552,7 @@ title = "३२ स्नातकः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/23_athApyudAharanti.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/23_athApyudAharanti.md">
 
 अथाप्य् उदाहरन्ति +++(वक्ष्यमाणं श्लोकम्)+++ २३
 
@@ -576,7 +576,7 @@ title = "३२ स्नातकः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/24_mUlan_tUlaM_vRhati.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/24_mUlan_tUlaM_vRhati.md">
 
 > मूलं तूलं+++(→आगामिनी सम्पत्)+++ वृहति+++(=उत्पाटयति)+++  
 > दुर्विवक्तुः प्रजां पशून् आयतनं हिनस्ति ।  
@@ -622,7 +622,7 @@ title = "३२ स्नातकः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/25_gArdabhaM_yAnamArohaNe_viShamArohaNAvarohaNAni.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/25_gArdabhaM_yAnamArohaNe_viShamArohaNAvarohaNAni.md">
 
 गार्दभं यानम् आरोहणे,  
 विषमारोहणावरोहणानि च वर्जयेत् २५
@@ -647,7 +647,7 @@ title = "३२ स्नातकः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/26_bAhubhyA~n_cha_nadItaram.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/26_bAhubhyA~n_cha_nadItaram.md">
 
 बाहुभ्यां च नदी-तरम् २६
 
@@ -673,7 +673,7 @@ title = "३२ स्नातकः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/27_nAvA~n_cha_sAMshayikIm.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/27_nAvA~n_cha_sAMshayikIm.md">
 
 नावां च सांशयिकीम् +++(वर्जयेत्)+++२७
 
@@ -697,7 +697,7 @@ title = "३२ स्नातकः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/28_tRNachChedanaloShTavimardanAShThevanAni_chAkAraNAt.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/28_tRNachChedanaloShTavimardanAShThevanAni_chAkAraNAt.md">
 
 तृण-च्छेदन-लोष्ट-विमर्दनाष्ठेवनानि चाकारणात् २८
 
@@ -723,7 +723,7 @@ title = "३२ स्नातकः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/29_yachchAnyatparichaxate_yachchAnyatparichaxate.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/29_yachchAnyatparichaxate_yachchAnyatparichaxate.md">
 
 यच् चान्यत् परिचक्षते, यच् चान्यत् परिचक्षते २९
 

@@ -188,7 +188,7 @@ unicode_script: devanagari
 </div>
   
 
-## उपवेषणे
+## उपवेशनम्
 <div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/06/14_anupasthakRtaH.md">
 
 अनुपस्थकृतः १४

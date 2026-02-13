@@ -2,7 +2,7 @@
 title = "०१ गृहस्थः"
 +++
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/01_pANigrahaNAdadhi_gRhamedhinorvratam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/01_pANigrahaNAdadhi_gRhamedhinorvratam.md">
 
 पाणिग्रहणादधि गृहमेधिनोर्व्रतम् १
 
@@ -36,7 +36,7 @@ title = "०१ गृहस्थः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/02_kAlayorbhojanam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/02_kAlayorbhojanam.md">
 
 कालयोर्भोजनम् २
 
@@ -78,7 +78,7 @@ title = "०१ गृहस्थः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/03_atRptishchAnnasya.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/03_atRptishchAnnasya.md">
 
 अतृप्तिश्चान्नस्य ३
 
@@ -104,7 +104,7 @@ title = "०१ गृहस्थः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/04_parvasu_chobhayor_upavAsaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/04_parvasu_chobhayor_upavAsaH.md">
 
 पर्वसु चोभयोर् उपवासः ४
 
@@ -128,7 +128,7 @@ title = "०१ गृहस्थः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/05_aupavastam_eva_kAlAntare.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/05_aupavastam_eva_kAlAntare.md">
 
 औपवस्तम् एव कालान्तरे भोजनम् ५
 
@@ -165,7 +165,7 @@ title = "०१ गृहस्थः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/06_tRptish_chAnnasya.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/06_tRptish_chAnnasya.md">
 
 तृप्तिश् चान्नस्य ६
 
@@ -189,7 +189,7 @@ title = "०१ गृहस्थः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/07_yachchainayoH_priyaM_syAt.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/07_yachchainayoH_priyaM_syAt.md">
 
 यच्चैनयोः प्रियं स्यात् तद् एतस्मिन्न् अहनि भुञ्जीयाताम् ७
 
@@ -219,7 +219,7 @@ title = "०१ गृहस्थः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/08_adhashcha_shayIyAtAm.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/08_adhashcha_shayIyAtAm.md">
 
 अधश्च शयीयाताम् ८
 
@@ -245,7 +245,7 @@ title = "०१ गृहस्थः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/09_maithunavarjana~n_cha.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/09_maithunavarjana~n_cha.md">
 
 मैथुनवर्जनं च ९
 
@@ -271,7 +271,7 @@ title = "०१ गृहस्थः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/10_shvobhUte_sthAlIpAkaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/10_shvobhUte_sthAlIpAkaH.md">
 
 श्वोभूते स्थालीपाकः १०
 
@@ -297,7 +297,7 @@ title = "०१ गृहस्थः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/11_tasyopachAraH_pArvaNena_vyAkhyAtaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/11_tasyopachAraH_pArvaNena_vyAkhyAtaH.md">
 
 तस्योपचारः पार्वणेन व्याख्यातः ११
 
@@ -327,7 +327,7 @@ title = "०१ गृहस्थः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/12_nityaM_loka_upadishanti.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/12_nityaM_loka_upadishanti.md">
 
 नित्यं लोक उपदिशन्ति १२
 
@@ -354,7 +354,7 @@ title = "०१ गृहस्थः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/13_yatra_kva_chAgnimupasamAdhAsyansyAttatra.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/13_yatra_kva_chAgnimupasamAdhAsyansyAttatra.md">
 
 यत्र क्व चाग्निमुपसमाधास्यन्स्यात्तत्र प्राचीरुदीचीश्च तिस्रस्तिस्रो लेखा लिखित्वाद्भिरवोक्ष्याग्निमुपसमिन्ध्यात् १३
 
@@ -392,7 +392,7 @@ title = "०१ गृहस्थः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/14_utsichyaitadudakamuttareNa_pUrveNa_vAnyadupadadhyAt.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/14_utsichyaitadudakamuttareNa_pUrveNa_vAnyadupadadhyAt.md">
 
 +++(शिष्टम् उदकम्)+++ उत्सिच्यैतदुदकमुत्तरेण पूर्वेण वान्यदुपदध्यात् १४
 
@@ -416,7 +416,7 @@ title = "०१ गृहस्थः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/15_nityamudadhAnAnyadbhirariktAni_syurgRhamedhinorvratam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/15_nityamudadhAnAnyadbhirariktAni_syurgRhamedhinorvratam.md">
 
 नित्यमुदधानान्यद्भिररिक्तानि स्युर्गृहमेधिनोर्व्रतम् १५
 
@@ -443,7 +443,7 @@ title = "०१ गृहस्थः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/16_ahanyasaMveshanam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/16_ahanyasaMveshanam.md">
 
 अहन्यसंवेशनम् १६
 
@@ -467,7 +467,7 @@ title = "०१ गृहस्थः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/17_Rtau_cha_sannipAto.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/17_Rtau_cha_sannipAto.md">
 
 ऋतौ च संनिपातो दारेणानुव्रतम् १७
 
@@ -519,7 +519,7 @@ title = "०१ गृहस्थः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/18_antarAle-pi_dAra_eva.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/18_antarAle-pi_dAra_eva.md">
 
 अन्तरालेऽपि दार एव १८
 
@@ -547,7 +547,7 @@ title = "०१ गृहस्थः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/19_brAhmaNavachanAchcha_saMveshanam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/19_brAhmaNavachanAchcha_saMveshanam.md">
 
 ब्राह्मणवचनाच्च संवेशनम् १९
 
@@ -577,7 +577,7 @@ title = "०१ गृहस्थः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/20_strIvAsasaiva_sannipAtaH_syAt.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/20_strIvAsasaiva_sannipAtaH_syAt.md">
 
 स्त्रीवाससैव संनिपातः स्यात् २०
 
@@ -601,7 +601,7 @@ title = "०१ गृहस्थः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/21_yAvatsannipAta~n_chaiva_sahashayyA.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/21_yAvatsannipAta~n_chaiva_sahashayyA.md">
 
 यावत्संनिपातं चैव सहशय्या २१
 
@@ -625,7 +625,7 @@ title = "०१ गृहस्थः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/22_tato_nAnA.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/22_tato_nAnA.md">
 
 ततो नाना २२
 
@@ -649,7 +649,7 @@ title = "०१ गृहस्थः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/23_udakopasparshanam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/23_udakopasparshanam.md">
 
 उदकोपस्पर्शनम् २३
 

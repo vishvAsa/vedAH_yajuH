@@ -2,7 +2,7 @@
 title = "१७ अभोज्यादि"
 +++
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/01_yatra_shUdra_upaspRshet.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/01_yatra_shUdra_upaspRshet.md">
 
 यत्र शूद्र उपस्पृशेत् १
 
@@ -27,7 +27,7 @@ title = "१७ अभोज्यादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/02_anarhadbhirvA_samAnapanktau.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/02_anarhadbhirvA_samAnapanktau.md">
 
 अनर्हद्भिर्वा समानपङ्क्तौ २
 
@@ -53,7 +53,7 @@ title = "१७ अभोज्यादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/03_bhunjAneShu_va_yatrAnUtthAyochChiShTam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/03_bhunjAneShu_va_yatrAnUtthAyochChiShTam.md">
 
 भुञ्जानेषु व यत्रानूत्थायोच्छिष्टं प्रयच्छेदाचामेद्वा ३
 
@@ -82,7 +82,7 @@ title = "१७ अभोज्यादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/04_kutsayitvA_vA_yatrAnnan.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/04_kutsayitvA_vA_yatrAnnan.md">
 
 कुत्सयित्वा वा यत्रान्नं दद्युः ४
 
@@ -108,7 +108,7 @@ title = "१७ अभोज्यादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/05_manuShyairavaghrAtamanyairvAmedhyaiH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/05_manuShyairavaghrAtamanyairvAmedhyaiH.md">
 
 मनुष्यैरवघ्रातमन्यैर्वामेध्यैः ५
 
@@ -138,7 +138,7 @@ title = "१७ अभोज्यादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/06_na_nAvi_bhunjIta.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/06_na_nAvi_bhunjIta.md">
 
 न नावि भुञ्जीत ६
 
@@ -162,7 +162,7 @@ title = "१७ अभोज्यादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/07_tathA_prAsAde.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/07_tathA_prAsAde.md">
 
 तथा प्रासादे +++(काष्ठमञ्चे)+++ ७
 
@@ -186,7 +186,7 @@ title = "१७ अभोज्यादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/08_kRtabhUmau_tu_bhunjIta.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/08_kRtabhUmau_tu_bhunjIta.md">
 
 कृतभूमौ तु भुञ्जीत ८
 
@@ -214,7 +214,7 @@ title = "१७ अभोज्यादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/09_anAprIte_mRNmaye_bhoktavyam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/09_anAprIte_mRNmaye_bhoktavyam.md">
 
 अनाप्रीते मृण्मये भोक्तव्यम् ९
 
@@ -238,7 +238,7 @@ title = "१७ अभोज्यादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/10_AprIta~n_ched_abhidagdhe.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/10_AprIta~n_ched_abhidagdhe.md">
 
 आप्रीतं चेद् अभिदग्धे १०
 
@@ -262,7 +262,7 @@ title = "१७ अभोज्यादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/11_parimRShTaM_lauham_prayatam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/11_parimRShTaM_lauham_prayatam.md">
 
 परिमृष्टं लौहं प्रयतम् ११
 
@@ -288,7 +288,7 @@ title = "१७ अभोज्यादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/12_nirlikhitan_dArumayam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/12_nirlikhitan_dArumayam.md">
 
 निर्लिखितं दारुमयम् १२
 
@@ -314,7 +314,7 @@ title = "१७ अभोज्यादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/13_yathAgamaM_yajne.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/13_yathAgamaM_yajne.md">
 
 यथागमं यज्ञे १३
 
@@ -342,7 +342,7 @@ title = "१७ अभोज्यादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/14_nApaNIyamannamashnIyAt.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/14_nApaNIyamannamashnIyAt.md">
 
 नाऽऽपणीयम् +++(पक्वं)+++ अन्नम् अश्नीयात् १४
 
@@ -366,7 +366,7 @@ title = "१७ अभोज्यादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/15_tathA_rasAn_AmamAMsamadhulavaNAnIti.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/15_tathA_rasAn_AmamAMsamadhulavaNAnIti.md">
 
 तथा +++(ऽऽपणियान्)+++ रसान् +++(नाश्नीयात्)+++, आम+++(=अपक्व)+++-मांस-मधु-लवणानीति परिहाप्य १५
 
@@ -393,7 +393,7 @@ title = "१७ अभोज्यादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/16_tailasarpiShI_tUpayojayedudake-vadhAya.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/16_tailasarpiShI_tUpayojayedudake-vadhAya.md">
 
 तैल-सर्पिषी तूपयोजयेद् उदकेऽवधाय १६
 
@@ -429,7 +429,7 @@ title = "१७ अभोज्यादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/17_kRtAnnam_paryuShitamakhAdyApeyAnAdyam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/17_kRtAnnam_paryuShitamakhAdyApeyAnAdyam.md">
 
 कृतान्नं पर्युषितम् अखाद्यापेयानाद्यम् १७
 
@@ -457,7 +457,7 @@ title = "१७ अभोज्यादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/18_shukta~n_cha.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/18_shukta~n_cha.md">
 
 शुक्तं+++(=काल-पकेनाऽम्लीभूतं)+++ च १८
 
@@ -485,7 +485,7 @@ title = "१७ अभोज्यादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/19_phANitapRthuka_taNDulakaramba_bharujasaktushAkamAMsapiShTaxIravikArauShadhivanaspatimUlaphalavarjam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/19_phANitapRthuka_taNDulakaramba_bharujasaktushAkamAMsapiShTaxIravikArauShadhivanaspatimUlaphalavarjam.md">
 
 फाणित+++(=शर्कररस)+++-पृथुक+++(=चिउडा)+++-तण्डुल-करम्ब+++(=दधि+शक्तु)+++-भरुज+++(=भ्रष्टयव)+++-सक्तु-शाक-मांस-पिष्ट-क्षीर-विकारौषधि-वनस्पति-मूल-फल-वर्जम् १९
 
@@ -532,7 +532,7 @@ title = "१७ अभोज्यादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/20_shukta~n_chAparayogam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/20_shukta~n_chAparayogam.md">
 
 शुक्तं चापरयोगम् २०
 
@@ -561,7 +561,7 @@ title = "१७ अभोज्यादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/21_sarvam_madyamapeyam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/21_sarvam_madyamapeyam.md">
 
 सर्वं मद्यमपेयम् २१
 
@@ -598,7 +598,7 @@ title = "१७ अभोज्यादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/22_tathailakam_payaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/22_tathailakam_payaH.md">
 
 तथैलकं पयः २२
 
@@ -624,7 +624,7 @@ title = "१७ अभोज्यादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/23_uShTrIxIramRgIxIrasandhinIxIrayamasUxIrANIti.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/23_uShTrIxIramRgIxIrasandhinIxIrayamasUxIrANIti.md">
 
 उष्ट्रीक्षीर-मृगीक्षीर-सन्धिनीक्षीर-यमसूक्षीराणीति २३
 
@@ -658,7 +658,7 @@ title = "१७ अभोज्यादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/24_dhenoshchAnirdashAyAH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/24_dhenoshchAnirdashAyAH.md">
 
 धेनोश्चानिर्दशायाः +++(प्रसवाद् १० दिनेभ्यः प्राक्)+++ २४
 
@@ -688,7 +688,7 @@ title = "१७ अभोज्यादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/25_tathA_kIlAlauShadhInA~n_cha.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/25_tathA_kIlAlauShadhInA~n_cha.md">
 
 तथा कीलालौषधीनां च २५
 
@@ -712,7 +712,7 @@ title = "१७ अभोज्यादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/26_karanjapalaNDuparArIkAH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/26_karanjapalaNDuparArIkAH.md">
 
 करञ्ज-पलण्डु-परारीकाः २६
 
@@ -750,7 +750,7 @@ title = "१७ अभोज्यादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/27_yachchAnyat_parichaxate.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/27_yachchAnyat_parichaxate.md">
 
 यच्चान्यत् परिचक्षते २७
 
@@ -783,7 +783,7 @@ title = "१७ अभोज्यादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/28_kyAkvabhojyamiti_hi_brAhmaNam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/28_kyAkvabhojyamiti_hi_brAhmaNam.md">
 
 क्याक्वभोज्यमिति हि ब्राह्मणम् २८
 
@@ -809,7 +809,7 @@ title = "१७ अभोज्यादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/29_ekakhuroShTragavayagrAmasUkarasharabhagavAm.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/29_ekakhuroShTragavayagrAmasUkarasharabhagavAm.md">
 
 एकखुरोष्ट्रगवयग्रामसूकरशरभगवाम् २९
 
@@ -835,7 +835,7 @@ title = "१७ अभोज्यादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/30_dhenuanaDuhorbhaxyam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/30_dhenuanaDuhorbhaxyam.md">
 
 धेनु+अनडुहोर्भक्ष्यम् ३०
 
@@ -859,7 +859,7 @@ title = "१७ अभोज्यादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/31_medhyamAnaDuhamiti_vAjasaneyakam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/31_medhyamAnaDuhamiti_vAjasaneyakam.md">
 
 मेध्यमानडुहमिति वाजसनेयकम् ३१
 
@@ -887,7 +887,7 @@ title = "१७ अभोज्यादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/32_kukkuTo_vikirANAm.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/32_kukkuTo_vikirANAm.md">
 
 कुक्कुटो विकिराणाम् +++(=खनित्वा कीटान्यश्नन्ति ये तेषु, अभक्ष्यम्)+++ ३२
 
@@ -913,7 +913,7 @@ title = "१७ अभोज्यादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/33_plavaH_pratudAm.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/33_plavaH_pratudAm.md">
 
 प्लवः प्रतुदाम् ३३
 
@@ -944,7 +944,7 @@ title = "१७ अभोज्यादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/34_kravyAdaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/34_kravyAdaH.md">
 
 क्रव्यादः ३४
 
@@ -974,7 +974,7 @@ title = "१७ अभोज्यादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/35_haMsabhAsachakravAkasuparNAshcha.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/35_haMsabhAsachakravAkasuparNAshcha.md">
 
 हंसभासचक्रवाकसुपर्णाश्च ३५
 
@@ -1000,7 +1000,7 @@ title = "१७ अभोज्यादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/36_krunchakrauncha_vArdhrANasalaxmaNavarjam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/36_krunchakrauncha_vArdhrANasalaxmaNavarjam.md">
 
 क्रुञ्च-क्रौञ्च-वार्ध्राणस-लक्ष्मण-वर्जम् +++(अभक्ष्यम्)+++ ३६
 
@@ -1029,7 +1029,7 @@ title = "१७ अभोज्यादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/37_panchanakhAnA~N_godhAkachChapashvAviTshalyakakhaNgashashapUtikhaShavarjam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/37_panchanakhAnA~N_godhAkachChapashvAviTshalyakakhaNgashashapUtikhaShavarjam.md">
 
 पञ्चनखानां गोधा-कच्छप-श्वाविट्-शल्यक-खण्ग-शश-पूतिखष-वर्जम् ३७
 
@@ -1059,7 +1059,7 @@ title = "१७ अभोज्यादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/38_abhaxyashcheTo_matsyAnAm.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/38_abhaxyashcheTo_matsyAnAm.md">
 
 अभक्ष्यश्चेटो मत्स्यानाम् ३८
 
@@ -1083,7 +1083,7 @@ title = "१७ अभोज्यादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/39_sarpashIrShI_mRduraH_kravyAdo.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/39_sarpashIrShI_mRduraH_kravyAdo.md">
 
 सर्पशीर्षी मृदुरः क्रव्यादो ये चान्ये विकृता यथा मनुष्यशिरसः ३९
 

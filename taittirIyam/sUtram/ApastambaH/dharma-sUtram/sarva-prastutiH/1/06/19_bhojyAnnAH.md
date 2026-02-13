@@ -2,7 +2,7 @@
 title = "१९ भोज्यान्नाः"
 +++
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/19/01_matta_unmatto_baddho.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/19/01_matta_unmatto_baddho.md">
 
 मत्त उन्मत्तो बद्धो ऽणिकः+++(=पुत्राच् छ्रुतग्राही)+++ प्रत्युपविष्टो+++(?)+++ यश्च प्रत्युपवेशयते तावन्तं कालम् १ …
 
@@ -30,7 +30,7 @@ title = "१९ भोज्यान्नाः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/19/02_ka_AshyAnnaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/19/02_ka_AshyAnnaH.md">
 
 क अश्यान्नः २  
 
@@ -56,7 +56,7 @@ title = "१९ भोज्यान्नाः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/19/03_ya_Ipsed_iti.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/19/03_ya_Ipsed_iti.md">
 
 य ईप्सेद्+++(=प्रार्थ्यते [भोक्तव्यमिति, तस्यान्न])+++ इति कण्वः ३
 
@@ -84,7 +84,7 @@ title = "१९ भोज्यान्नाः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/19/04_puNya_iti_kautsaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/19/04_puNya_iti_kautsaH.md">
 
 पुण्य +++(अन्न)+++ इति कौत्सः ४
 
@@ -110,7 +110,7 @@ title = "१९ भोज्यान्नाः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/19/05_yaH_kashchid_dadyAditi.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/19/05_yaH_kashchid_dadyAditi.md">
 
 यः कश्चिद् दद्यादिति वार्ष्यायणिः +++(आपस्तम्बेनायम् पक्षो निराकरिष्यते ऽग्रे)+++५  
 
@@ -138,7 +138,7 @@ title = "१९ भोज्यान्नाः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/19/06_yadi_hi_rajaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/19/06_yadi_hi_rajaH.md">
 
 यदि ह रजः +++(=पापम्)+++ स्थावरं - पुरुषे भोक्तव्यम्, अथ चेच् चलं - दानेन निर्दोषो भवति ६
 
@@ -165,7 +165,7 @@ title = "१९ भोज्यान्नाः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/19/07_shuddhA_bhixA_bhoktavyA.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/19/07_shuddhA_bhixA_bhoktavyA.md">
 
 शुद्धा भिक्षा भोक्तव्या +++(इति)+++ एककुणिकौ काण्वकुत्सौ तथा पुष्करसादिः ७
 
@@ -193,7 +193,7 @@ title = "१९ भोज्यान्नाः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/19/08_sarvatopetaM_vArShyAyaNIyam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/19/08_sarvatopetaM_vArShyAyaNIyam.md">
 
 सर्वतोपेतं +++(=अप्रार्थ्य लब्धम् भोज्यमिति)+++ वार्ष्यायणीयम्  +++(मतम् - आपस्तम्बो निराकरिष्यत्यग्रे)+++८   
 
@@ -217,7 +217,7 @@ title = "१९ भोज्यान्नाः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/19/09_puNyasyepsato.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/19/09_puNyasyepsato.md">
 
 पुण्यस्येप्सतो +++(ऽन्नस्य)+++ भोक्तव्यम् +++(इत्यापस्तम्बनिश्चयः)+++ ९
 
@@ -246,7 +246,7 @@ title = "१९ भोज्यान्नाः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/19/10_puNyasyApy_anIpsato_na.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/19/10_puNyasyApy_anIpsato_na.md">
 
 पुण्यस्याप्य् +++(दातुम्)+++ अनीप्सतो न भोक्तव्यम् १०
 
@@ -276,7 +276,7 @@ title = "१९ भोज्यान्नाः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/19/11_yataH_kutashchAbhyudyatam_bhoktavyam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/19/11_yataH_kutashchAbhyudyatam_bhoktavyam.md">
 
 यतः कुतश्चाभ्युद्यतं भोक्तव्यम् ११
 
@@ -300,7 +300,7 @@ title = "१९ भोज्यान्नाः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/19/12_nAnaniyogapUrvamiti_hArItaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/19/12_nAnaniyogapUrvamiti_hArItaH.md">
 
 नाननियोगपूर्वमिति हारीतः १२
 
@@ -327,7 +327,7 @@ title = "१९ भोज्यान्नाः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/19/13_atha_purANe_shlokAvudAharanti.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/19/13_atha_purANe_shlokAvudAharanti.md">
 
 अथ पुराणे श्लोकावुदाहरन्ति । उद्यतामाहृतां भिक्षां पुरस्तादप्रवेदिताम् । भोज्यां मेने प्रजापतिरपि दुष्कृतकारिणः । न तस्य पितरोऽश्नन्ति दश वर्षाणि पञ्च च । न च हव्यं वहत्यग्निर्यस्तामभ्यधिमन्यत इति १३
 
@@ -373,7 +373,7 @@ title = "१९ भोज्यान्नाः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/19/14_chikitsakasya_mRgayoH_shalyakRntasya.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/19/14_chikitsakasya_mRgayoH_shalyakRntasya.md">
 
 चिकित्सकस्य मृगयोः शल्यकृन्तस्य पाशिनः । कुलटायाः षण्ढकस्य च तेषामन्नमनाद्यम् १४
 
@@ -404,7 +404,7 @@ title = "१९ भोज्यान्नाः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/19/15_athApyudAharanti_annAde_bhrUNahA.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/19/15_athApyudAharanti_annAde_bhrUNahA.md">
 
 अथाप्युदाहरन्ति । अन्नादे भ्रूणहा मार्ष्टि अनेना अभिशंसति । स्तेनः प्रमुक्तो राजनि याचन्ननृतसङ्कर इति १५
 

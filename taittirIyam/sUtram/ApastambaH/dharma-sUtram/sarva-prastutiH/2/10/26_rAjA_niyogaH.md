@@ -2,7 +2,7 @@
 title = "२६ राजा, नियोगः"
 +++
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/01_bhRtyAnAmanuparodhena_xetraM_vitta~n.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/01_bhRtyAnAmanuparodhena_xetraM_vitta~n.md">
 
 भृत्यानामनुपरोधेन क्षेत्रं वित्तं च ददद्ब्राह्मणेभ्यो यथार्हमनन्तांल् लोकाभिजयति १
 
@@ -28,7 +28,7 @@ title = "२६ राजा, नियोगः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/02_brAhmaNasvAnyapajigIShamANo_rAjA_yo.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/02_brAhmaNasvAnyapajigIShamANo_rAjA_yo.md">
 
 ब्राह्मणस्वान्यपजिगीषमाणो राजा यो हन्यते तमाहुरात्मयूपो यज्ञोऽनन्तदक्षिण इति २
 
@@ -54,7 +54,7 @@ title = "२६ राजा, नियोगः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/03_etenAnye_shUrA_vyAkhyAtAH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/03_etenAnye_shUrA_vyAkhyAtAH.md">
 
 एतेनान्ये शूरा व्याख्याताः प्रयोजने युध्यमानास्तनुत्यजः ३
 
@@ -80,7 +80,7 @@ title = "२६ राजा, नियोगः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/04_grAmeShu_nagareShu_chAryAnshuchInsatyashIlAnprajAguptaye.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/04_grAmeShu_nagareShu_chAryAnshuchInsatyashIlAnprajAguptaye.md">
 
 ग्रामेषु नगरेषु चार्यान्शुचीन्सत्यशीलान्प्रजागुप्तये निदध्यात् ४
 
@@ -106,7 +106,7 @@ title = "२६ राजा, नियोगः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/05_teShAm_puruShAstathAguNA_eva.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/05_teShAm_puruShAstathAguNA_eva.md">
 
 तेषां पुरुषास्तथागुणा एव स्युः ५
 
@@ -130,7 +130,7 @@ title = "२६ राजा, नियोगः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/06_sarvato_yojanan_nagaran.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/06_sarvato_yojanan_nagaran.md">
 
 सर्वतो योजनं नगरं तस्करेभ्यो रक्ष्यम् ६
 
@@ -156,7 +156,7 @@ title = "२६ राजा, नियोगः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/07_krosho_grAmebhyaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/07_krosho_grAmebhyaH.md">
 
 क्रोशो ग्रामेभ्यः ७
 
@@ -184,7 +184,7 @@ title = "२६ राजा, नियोगः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/08_tatra_yanmuShyate_taistatpratidApyam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/08_tatra_yanmuShyate_taistatpratidApyam.md">
 
 तत्र यन्मुष्यते तैस्तत्प्रतिदाप्यम् ८
 
@@ -210,7 +210,7 @@ title = "२६ राजा, नियोगः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/09_dhArmyaM_shulkamavahArayet.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/09_dhArmyaM_shulkamavahArayet.md">
 
 धार्म्यं शुल्कमवहारयेत् ९
 
@@ -242,7 +242,7 @@ title = "२६ राजा, नियोगः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/10_akaraH_shrotriyaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/10_akaraH_shrotriyaH.md">
 
 अकरः श्रोत्रियः १०
 
@@ -268,7 +268,7 @@ title = "२६ राजा, नियोगः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/11_sarvavarNAnA~n_cha_striyaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/11_sarvavarNAnA~n_cha_striyaH.md">
 
 सर्ववर्णानां च स्त्रियः ११
 
@@ -294,7 +294,7 @@ title = "२६ राजा, नियोगः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/12_kumArAshcha_prAg_vyanjanebhyaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/12_kumArAshcha_prAg_vyanjanebhyaH.md">
 
 कुमाराश्च प्राग् व्यञ्जनेभ्यः १२
 
@@ -318,7 +318,7 @@ title = "२६ राजा, नियोगः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/13_ye_cha_vidyArthA.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/13_ye_cha_vidyArthA.md">
 
 ये च विद्यार्था वसन्ति १३
 
@@ -342,7 +342,7 @@ title = "२६ राजा, नियोगः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/14_tapasvinashcha_ye_dharmaparAH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/14_tapasvinashcha_ye_dharmaparAH.md">
 
 तपस्विनश्च ये धर्मपराः १४
 
@@ -368,7 +368,7 @@ title = "२६ राजा, नियोगः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/15_shUdrashcha_pAdAvanektA.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/15_shUdrashcha_pAdAvanektA.md">
 
 शूद्रश्च पादावनेक्ता +++(= पादधावनजीवी)+++ १५
 
@@ -392,7 +392,7 @@ title = "२६ राजा, नियोगः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/16_andhamUkabadhirarogaviShTAshcha.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/16_andhamUkabadhirarogaviShTAshcha.md">
 
 अन्धमूकबधिररोगविष्टाश्च १६
 
@@ -416,7 +416,7 @@ title = "२६ राजा, नियोगः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/17_ye_vyarthA_dravyaparigrahaiH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/17_ye_vyarthA_dravyaparigrahaiH.md">
 
 ये व्यर्था +++(=मुक्ताश् शास्त्रैः)+++ द्रव्यपरिग्रहैः १७
 
@@ -444,7 +444,7 @@ title = "२६ राजा, नियोगः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/18_abuddhipUrvamalankRto_yuvA_paradAramanupravishankumArIM.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/18_abuddhipUrvamalankRto_yuvA_paradAramanupravishankumArIM.md">
 
 अबुद्धिपूर्वमलंकृतो युवा परदारमनुप्रविशन्कुमारीं वा वाचा बाध्यः १८
 
@@ -470,7 +470,7 @@ title = "२६ राजा, नियोगः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/19_buddhipUrvan_tu_duShTabhAvo.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/19_buddhipUrvan_tu_duShTabhAvo.md">
 
 बुद्धिपूर्वं तु दुष्टभावो दण्ड्यः १९
 
@@ -496,7 +496,7 @@ title = "२६ राजा, नियोगः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/20_sannipAte_vRtte_shishnachChedanaM.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/20_sannipAte_vRtte_shishnachChedanaM.md">
 
 संनिपाते वृत्ते शिश्नच्छेदनं सवृषणस्य २०
 
@@ -520,7 +520,7 @@ title = "२६ राजा, नियोगः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/21_kumAryAn_tu_svAnyAdAya.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/21_kumAryAn_tu_svAnyAdAya.md">
 
 कुमार्यां तु स्वान्यादाय नाश्यः २१
 
@@ -544,7 +544,7 @@ title = "२६ राजा, नियोगः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/22_atha_bhRtye_rAjnA.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/22_atha_bhRtye_rAjnA.md">
 
 अथ +++(परदार-कुमार्यौ)+++ भृत्ये राज्ञा २२
 
@@ -568,7 +568,7 @@ title = "२६ राजा, नियोगः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/23_raxye_chAta_Urdhvam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/23_raxye_chAta_Urdhvam.md">
 
 रक्ष्ये चात ऊर्ध्वं मैथुनात् २३
 
@@ -592,7 +592,7 @@ title = "२६ राजा, नियोगः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/24_nirveShAbhyupAye_tu_svAmibhyo-vasRjet.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/24_nirveShAbhyupAye_tu_svAmibhyo-vasRjet.md">
 
 निर्वेषाभ्युपाये तु स्वामिभ्योऽवसृजेत् २४
 

@@ -2,7 +2,7 @@
 title = "२८ अदण्ड्याः"
 +++
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/28/01_xetram_parigRhyotthAnAbhAvAtphalAbhAve_yaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/28/01_xetram_parigRhyotthAnAbhAvAtphalAbhAve_yaH.md">
 
 क्षेत्रं परिगृह्योत्थानाभावात्फलाभावे यः समृद्धः स भावि तदपहार्यः १
 
@@ -28,7 +28,7 @@ title = "२८ अदण्ड्याः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/28/02_avashinaH_kInAshasya_karmanyAse.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/28/02_avashinaH_kInAshasya_karmanyAse.md">
 
 अवशिनः कीनाशस्य कर्मन्यासे दण्डताडनम् २
 
@@ -56,7 +56,7 @@ title = "२८ अदण्ड्याः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/28/03_tathA_pashupasya.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/28/03_tathA_pashupasya.md">
 
 तथा पशुपस्य ३
 
@@ -80,7 +80,7 @@ title = "२८ अदण्ड्याः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/28/04_avarodhana~n_chAsya_pashUnAm.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/28/04_avarodhana~n_chAsya_pashUnAm.md">
 
 अवरोधनं चास्य पशूनाम् ४
 
@@ -104,7 +104,7 @@ title = "२८ अदण्ड्याः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/28/05_hitvA_vrajamAdinaH_karshayetpashUn.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/28/05_hitvA_vrajamAdinaH_karshayetpashUn.md">
 
 हित्वा व्रजमादिनः कर्शयेत्पशून्। नातिपातयेत्। ५
 
@@ -136,7 +136,7 @@ title = "२८ अदण्ड्याः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/28/06_avarudhya_pashUnmAraNe_nAshane.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/28/06_avarudhya_pashUnmAraNe_nAshane.md">
 
 अवरुध्य पशून्मारणे नाशने वा स्वामिभ्योऽवसृजेत् ६
 
@@ -164,7 +164,7 @@ title = "२८ अदण्ड्याः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/28/07_pramAdAdaraNye_pashUnutsRShtAndRShTvA_grAmamAnIya.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/28/07_pramAdAdaraNye_pashUnutsRShtAndRShTvA_grAmamAnIya.md">
 
 प्रमादादरण्ये पशूनुत्सृष्तान्दृष्ट्वा ग्राममानीय स्वामिभ्योऽवसृजेत् ७
 
@@ -188,7 +188,7 @@ title = "२८ अदण्ड्याः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/28/08_punaH_pramAde_sakRdavarudhya.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/28/08_punaH_pramAde_sakRdavarudhya.md">
 
 पुनः प्रमादे सकृदवरुध्य ८
 
@@ -212,7 +212,7 @@ title = "२८ अदण्ड्याः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/28/09_tata_Urdhvan_na.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/28/09_tata_Urdhvan_na.md">
 
 तत ऊर्ध्वं न सूर्क्षेत् ९
 
@@ -236,7 +236,7 @@ title = "२८ अदण्ड्याः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/28/10_paraparigrahamavidvAnAdadAna_edhodake_mUle.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/28/10_paraparigrahamavidvAnAdadAna_edhodake_mUle.md">
 
 परपरिग्रहमविद्वानाददान एधोदके मूले पुष्पे फले गन्धे ग्रासे शाक इति वाचा बाध्यः १०
 
@@ -260,7 +260,7 @@ title = "२८ अदण्ड्याः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/28/11_viduSho_vAsasaH_parimoShaNam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/28/11_viduSho_vAsasaH_parimoShaNam.md">
 
 विदुषो वाससः परिमोषणम् ११
 
@@ -286,7 +286,7 @@ title = "२८ अदण्ड्याः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/28/12_adaNDyaH_kAmakRte_tathA.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/28/12_adaNDyaH_kAmakRte_tathA.md">
 
 अदण्ड्यः कामकृते तथा प्राणसंशये भोजनमाददानः १२
 
@@ -310,7 +310,7 @@ title = "२८ अदण्ड्याः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/28/13_prAptanimitte_daNDAkarmaNi_rAjAnamenaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/28/13_prAptanimitte_daNDAkarmaNi_rAjAnamenaH.md">
 
 प्राप्तनिमित्ते दण्डाकर्मणि राजानमेनः स्पृशति १३
 

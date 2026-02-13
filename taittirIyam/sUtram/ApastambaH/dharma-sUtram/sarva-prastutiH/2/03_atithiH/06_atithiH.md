@@ -2,7 +2,7 @@
 title = "०६ अतिथिः"
 +++
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/06/01_jAtyAchArasaMshaye_dharmArthamAgatamagnimupasamAdhAya_jAtimAchAra~n.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/06/01_jAtyAchArasaMshaye_dharmArthamAgatamagnimupasamAdhAya_jAtimAchAra~n.md">
 
 जात्याचारसंशये धर्मार्थमागतमग्निमुपसमाधाय जातिमाचारं च पृच्छेत् १
 
@@ -53,7 +53,7 @@ title = "०६ अतिथिः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/06/02_sAdhutA~n_chetpratijAnIte-gnirupadra_ShTA.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/06/02_sAdhutA~n_chetpratijAnIte-gnirupadra_ShTA.md">
 
 साधुतां चेत्प्रतिजानीतेऽग्निरुपद्र ष्टा वायुरुपश्रोतादित्योऽनुख्याता साधुतां प्रतिजानीते साध्वस्मा अस्तु वितथ एष एनस इत्युक्त्वा शास्तुं प्रतिपद्येत २
 
@@ -98,7 +98,7 @@ Then he shall begin to teach him.
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/06/03_agniriva_jvalann_atithirabhyAgachChati.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/06/03_agniriva_jvalann_atithirabhyAgachChati.md">
 
 अग्निरिव ज्वलन्न् अतिथिरभ्यागच्छति ३
 
@@ -127,7 +127,7 @@ Then he shall begin to teach him.
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/06/04_dharmeNa_vedAnAmekaikAM_shAkhAmadhItya.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/06/04_dharmeNa_vedAnAmekaikAM_shAkhAmadhItya.md">
 
 धर्मेण वेदानामेकैकां शाखामधीत्य श्रोत्रियो भवति ४
 
@@ -156,7 +156,7 @@ Then he shall begin to teach him.
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/06/05_svadharmayukta~N_kuTumbinamabhyAgachChati_dharmapuraskAro.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/06/05_svadharmayukta~N_kuTumbinamabhyAgachChati_dharmapuraskAro.md">
 
 स्वधर्मयुक्तं कुटुम्बिनमभ्यागच्छति धर्मपुरस्कारो नान्यप्रयोजनः सोऽतिथिर्भवति ५
 
@@ -194,7 +194,7 @@ Then he shall begin to teach him.
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/06/06_tasya_pUjAyAM_shAntiH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/06/06_tasya_pUjAyAM_shAntiH.md">
 
 तस्य पूजायां शान्तिः स्वर्गश्च ६
 
@@ -220,7 +220,7 @@ Then he shall begin to teach him.
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/06/07_tamabhimukho-bhyAgamya_yathAvayaH_sametya.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/06/07_tamabhimukho-bhyAgamya_yathAvayaH_sametya.md">
 
 तमभिमुखोऽभ्यागम्य यथावयः समेत्य तस्यासनमाहारयेत् ७
 
@@ -244,7 +244,7 @@ Then he shall begin to teach him.
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/06/08_shaktiviShaye_nAbahupAdamAsanam_bhavatItyeke.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/06/08_shaktiviShaye_nAbahupAdamAsanam_bhavatItyeke.md">
 
 शक्तिविषये नाबहुपादमासनं भवतीत्येके ८
 
@@ -272,7 +272,7 @@ Then he shall begin to teach him.
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/06/09_tasya_pAdau_praxAlayet.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/06/09_tasya_pAdau_praxAlayet.md">
 
 तस्य पादौ प्रक्षालयेत् । शूद्र मिथुनावित्येके ९
 
@@ -296,7 +296,7 @@ Then he shall begin to teach him.
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/06/10_anyataro-bhiShechane_syAt.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/06/10_anyataro-bhiShechane_syAt.md">
 
 अन्यतरोऽभिषेचने स्यात् १०
 
@@ -323,7 +323,7 @@ Then he shall begin to teach him.
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/06/11_tasyodakamAhArayenmRnmayenetyeke.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/06/11_tasyodakamAhArayenmRnmayenetyeke.md">
 
 तस्योदकमाहारयेन्मृन्मयेनेत्येके ११
 
@@ -351,7 +351,7 @@ Then he shall begin to teach him.
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/06/12_nodakamAchArayed_asamAvRttaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/06/12_nodakamAchArayed_asamAvRttaH.md">
 
 नोदकमाचारयेद् असमावृत्तः १२
 
@@ -377,7 +377,7 @@ Then he shall begin to teach him.
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/06/13_adhyayanasAMvRttishchAtrAdhikA.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/06/13_adhyayanasAMvRttishchAtrAdhikA.md">
 
 अध्ययनसांवृत्तिश्चात्राधिका १३
 
@@ -401,7 +401,7 @@ Then he shall begin to teach him.
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/06/14_sAntvayitvA_tarpayedrasairbhaxyairadbhiravarArdhyeneti.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/06/14_sAntvayitvA_tarpayedrasairbhaxyairadbhiravarArdhyeneti.md">
 
 सान्त्वयित्वा तर्पयेद्रसैर्भक्ष्यैरद्भिरवरार्ध्येनेति १४
 
@@ -425,7 +425,7 @@ Then he shall begin to teach him.
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/06/15_Avasathan_dadyAduparishayyAmupastaraNamupadhAnaM_sAvastaraNamabhyanjana~n.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/06/15_Avasathan_dadyAduparishayyAmupastaraNamupadhAnaM_sAvastaraNamabhyanjana~n.md">
 
 आवसथं दद्यादुपरिशय्यामुपस्तरणमुपधानं सावस्तरणमभ्यञ्जनं चेति १५
 
@@ -451,7 +451,7 @@ Then he shall begin to teach him.
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/06/16_annasaMskartAramAhUya_vrIhInyavAnvA_tadarthAnnirvapet.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/06/16_annasaMskartAramAhUya_vrIhInyavAnvA_tadarthAnnirvapet.md">
 
 अन्नसंस्कर्तारमाहूय व्रीहीन्यवान्वा तदर्थान्निर्वपेत् १६
 
@@ -477,7 +477,7 @@ Then he shall begin to teach him.
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/06/17_uddhRtAnyannAnyavexetedam_bhUyA.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/06/17_uddhRtAnyannAnyavexetedam_bhUyA.md">
 
 उद्धृतान्यन्नान्यवेक्षेतेदं भूया १७
 
@@ -508,7 +508,7 @@ Then he shall begin to teach him.
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/06/18_idA3miti_bhUya_uddharetyeva.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/06/18_idA3miti_bhUya_uddharetyeva.md">
 
 इदा३मिति भूय उद्धरेत्येव ब्रूयात् १८
 
@@ -532,7 +532,7 @@ Then he shall begin to teach him.
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/06/19_dviShandviShato_vA_nAnnamashnIyAddoSheNa.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/06/19_dviShandviShato_vA_nAnnamashnIyAddoSheNa.md">
 
 द्विषन्द्विषतो वा नान्नमश्नीयाद्दोषेण वा मीमांसमानस्य मीमांसितस्य वा १९
 
@@ -558,7 +558,7 @@ Then he shall begin to teach him.
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/06/20_pApmAnaM_hi_sa.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/06/20_pApmAnaM_hi_sa.md">
 
 पाप्मानं हि स तस्य भक्षयतीति विज्ञायते २०
 

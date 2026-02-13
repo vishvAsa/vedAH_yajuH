@@ -2,7 +2,7 @@
 title = "२१ आश्रमाः, सन्न्यासि-वानप्रस्थौ"
 +++
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/01_chatvAra_AshramA_gArhasthyamAchAryakulam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/01_chatvAra_AshramA_gArhasthyamAchAryakulam.md">
 
 चत्वार आश्रमा गार्हस्थ्यम् आचार्यकुलं मौनं +++(=मुनिता/ सन्यासः)+++ वानप्रस्थ्यम् इति १
 
@@ -33,7 +33,7 @@ title = "२१ आश्रमाः, सन्न्यासि-वानप�
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/02_teShu_sarveShu_yathopadeshamavyagro.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/02_teShu_sarveShu_yathopadeshamavyagro.md">
 
 तेषु सर्वेषु यथोपदेशम् अव्यग्रो वर्तमानः क्षेमं गच्छति २
 
@@ -62,7 +62,7 @@ title = "२१ आश्रमाः, सन्न्यासि-वानप�
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/03_sarveShAmupanayanaprabhRti_samAna_AchAryakule.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/03_sarveShAmupanayanaprabhRti_samAna_AchAryakule.md">
 
 सर्वेषाम् उपनयन-प्रभृति समान आचार्य-कुले वासः ३
 
@@ -88,7 +88,7 @@ title = "२१ आश्रमाः, सन्न्यासि-वानप�
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/04_sarveShAmanUtsargo_vidyAyAH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/04_sarveShAmanUtsargo_vidyAyAH.md">
 
 सर्वेषाम् अनूत्सर्गो विद्यायाः ४
 
@@ -112,7 +112,7 @@ title = "२१ आश्रमाः, सन्न्यासि-वानप�
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/05_buddhvA_karmANi_yatkAmayeta.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/05_buddhvA_karmANi_yatkAmayeta.md">
 
 बुद्ध्वा कर्माणि यत् कामयेत तद् आरभेत ५
 
@@ -136,7 +136,7 @@ title = "२१ आश्रमाः, सन्न्यासि-वानप�
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/06_yathA_vidyArthasya_niyama.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/06_yathA_vidyArthasya_niyama.md">
 
 यथा विद्यार्थस्य नियम,  
 एतेनैवान्तम् अनूपसीदत+++(ः= उपसदनतः)+++  
@@ -178,7 +178,7 @@ title = "२१ आश्रमाः, सन्न्यासि-वानप�
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/07_atha_parivrAjaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/07_atha_parivrAjaH.md">
 
 अथ परिव्राजः ७
 
@@ -202,7 +202,7 @@ title = "२१ आश्रमाः, सन्न्यासि-वानप�
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/08_ata_eva_brahmacharyavAnpravrajati.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/08_ata_eva_brahmacharyavAnpravrajati.md">
 
 अत एव ब्रह्मचर्यवान्प्रव्रजति ८
 
@@ -255,7 +255,7 @@ title = "२१ आश्रमाः, सन्न्यासि-वानप�
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/09_tasyopadishanti.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/09_tasyopadishanti.md">
 
 तस्योपदिशन्ति ९
 
@@ -279,7 +279,7 @@ title = "२१ आश्रमाः, सन्न्यासि-वानप�
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/10_anagniraniketaH_syAdasharmAsharaNo_muniH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/10_anagniraniketaH_syAdasharmAsharaNo_muniH.md">
 
 अनग्निर् अनिकेतः स्याद्  
 अशर्माशरणो मुनिः  
@@ -318,7 +318,7 @@ title = "२१ आश्रमाः, सन्न्यासि-वानप�
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/11_tasya_muktam_AchChAdanaM.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/11_tasya_muktam_AchChAdanaM.md">
 
 तस्य मुक्तम् +++(=त्यक्तम्)+++ आच्छादनं विहितम् ११
 
@@ -342,7 +342,7 @@ title = "२१ आश्रमाः, सन्न्यासि-वानप�
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/12_sarvataH_parimoxameke.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/12_sarvataH_parimoxameke.md">
 
 सर्वतः +++(विधितो निषेधतश्च)+++ परिमोक्षम् एके १२
 
@@ -370,7 +370,7 @@ title = "२१ आश्रमाः, सन्न्यासि-वानप�
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/13_satyAnRte_sukhaduHkhe_vedAnimaM.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/13_satyAnRte_sukhaduHkhe_vedAnimaM.md">
 
 सत्यानृते सुखदुःखे वेदानिमं लोकममुं च परित्यज्यात्मानम् अन्विच्छेत् १३
 
@@ -401,7 +401,7 @@ title = "२१ आश्रमाः, सन्न्यासि-वानप�
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/14_buddhe_xemaprApaNam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/14_buddhe_xemaprApaNam.md">
 
 बुद्धे क्षेम-प्रापणम् १४
 
@@ -439,7 +439,7 @@ title = "२१ आश्रमाः, सन्न्यासि-वानप�
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/15_tachChAstrairvipratiShiddham.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/15_tachChAstrairvipratiShiddham.md">
 
 तच् छास्त्रैर् विप्रतिषिद्धम् १५
 
@@ -477,7 +477,7 @@ title = "२१ आश्रमाः, सन्न्यासि-वानप�
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/16_buddhe_chetxemaprApaNamihaiva_na.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/16_buddhe_chetxemaprApaNamihaiva_na.md">
 
 बुद्धे चेत्क्षेमप्रापणम्  
 इहैव न दुःखम् उपलभेत १६
@@ -505,7 +505,7 @@ title = "२१ आश्रमाः, सन्न्यासि-वानप�
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/17_etena_paraM_vyAkhyAtam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/17_etena_paraM_vyAkhyAtam.md">
 
 एतेन परं +++(=पारलौकिकं [दुःखं])+++ व्याख्यातम् +++(न स्वैरचारिणां निवर्तत इति)+++१७
 
@@ -537,7 +537,7 @@ title = "२१ आश्रमाः, सन्न्यासि-वानप�
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/18_atha_vAnaprasthaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/18_atha_vAnaprasthaH.md">
 
 अथ वानप्रस्थः १८
 
@@ -561,7 +561,7 @@ title = "२१ आश्रमाः, सन्न्यासि-वानप�
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/19_ata_eva_brahmacharyavAnpravrajati.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/19_ata_eva_brahmacharyavAnpravrajati.md">
 
 अत एव ब्रह्मचर्यवान्प्रव्रजति १९
 
@@ -587,7 +587,7 @@ title = "२१ आश्रमाः, सन्न्यासि-वानप�
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/20_tasyopadishanti.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/20_tasyopadishanti.md">
 
 तस्योपदिशन्ति २०
 
@@ -616,7 +616,7 @@ title = "२१ आश्रमाः, सन्न्यासि-वानप�
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/21_ekAgniraniketaH_syAdasharmAsharaNo_muniH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/21_ekAgniraniketaH_syAdasharmAsharaNo_muniH.md">
 
 एकाग्निर् अनिकेतः स्याद्  
 अशर्माशरणो मुनिः २१
@@ -641,7 +641,7 @@ title = "२१ आश्रमाः, सन्न्यासि-वानप�
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/22_svAdhyAya_evotsRjamAno_vAcham.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/22_svAdhyAya_evotsRjamAno_vAcham.md">
 
 स्वाध्याय एवोत्सृजमानो वाचम् २१
 

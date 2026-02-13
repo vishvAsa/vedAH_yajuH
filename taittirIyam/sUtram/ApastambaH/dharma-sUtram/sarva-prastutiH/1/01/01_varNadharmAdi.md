@@ -2,7 +2,7 @@
 title = "०१ वर्णधर्मादि"
 +++
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/01_athAtaH_sAmayAchArikAndharmAnvyAkhyAsyAmaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/01_athAtaH_sAmayAchArikAndharmAnvyAkhyAsyAmaH.md">
 
 अथातः सामयाचारिकान् धर्मान् व्याख्यास्यामः १
 
@@ -80,7 +80,7 @@ title = "०१ वर्णधर्मादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/02_dharmajnasamayaH_pramANam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/02_dharmajnasamayaH_pramANam.md">
 
 धर्मज्ञ-समयः **प्रमाणम्** +++(सौलभ्य-क्रमेण प्रथमम् उक्तम्)+++ २
 
@@ -119,7 +119,7 @@ title = "०१ वर्णधर्मादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/03_vedAshcha.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/03_vedAshcha.md">
 
 वेदाश् च ३
 
@@ -173,7 +173,7 @@ title = "०१ वर्णधर्मादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/04_chatvAro_varNo_brAhmaNaxatriyavaishyashUdrAH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/04_chatvAro_varNo_brAhmaNaxatriyavaishyashUdrAH.md">
 
 चत्वारो **वर्णा** ब्राह्मण-क्षत्रिय-वैश्य-शूद्राः  ४
 
@@ -206,7 +206,7 @@ title = "०१ वर्णधर्मादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/05_teShAm_pUrvaspUrvo_janmataH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/05_teShAm_pUrvaspUrvo_janmataH.md">
 
 तेषां पूर्वस्-पूर्वो जन्मतः श्रेयान् ५
 
@@ -230,7 +230,7 @@ title = "०१ वर्णधर्मादि"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/06_ashUdrANAmaduShTakarmaNAmupAyanaM_vedAdhyayanamagnyAdheyam_phalavanti.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/06_ashUdrANAmaduShTakarmaNAmupAyanaM_vedAdhyayanamagnyAdheyam_phalavanti.md">
 
 अशूद्राणाम् अदुष्टकर्मणाम् उपायनं वेदाध्ययनम् अग्न्याधेयं **फलवन्ति च कर्माणि** ६
 
@@ -318,7 +318,7 @@ Screenshots from Smṛtikaumudī and Harihara's comm. on Pāraskaragṛhyasūtra
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/07_shushrUShA_shUdrasyetareShAM_varNAnAm.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/07_shushrUShA_shUdrasyetareShAM_varNAnAm.md">
 
 **शुश्रूषा** शूद्रस्येतरेषां वर्णानाम् +++(फलवत् कर्म)+++७
 
@@ -347,7 +347,7 @@ Screenshots from Smṛtikaumudī and Harihara's comm. on Pāraskaragṛhyasūtra
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/08_pUrvasminpUrvasminvarNe_niHshreyasambhUyaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/08_pUrvasminpUrvasminvarNe_niHshreyasambhUyaH.md">
 
 +++(शूद्र-कृत-सेवा)+++ पूर्वस्मिन् पूर्वस्मिन् वर्णे निःश्रेयसम् भूयः ८
 
@@ -376,7 +376,7 @@ Screenshots from Smṛtikaumudī and Harihara's comm. on Pāraskaragṛhyasūtra
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/09_upanayanaM_vidyArthasya_shrutitaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/09_upanayanaM_vidyArthasya_shrutitaH.md">
 
 **उपनयनं** विद्यार्थस्य श्रुतितः संस्कारः ९
 
@@ -413,7 +413,7 @@ Screenshots from Smṛtikaumudī and Harihara's comm. on Pāraskaragṛhyasūtra
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/10_sarvebhyo_vedebhyaH_sAvitry.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/10_sarvebhyo_vedebhyaH_sAvitry.md">
 
 "सर्वेभ्यो वेदेभ्यः **सावित्र्य्** अनूच्यत" इति हि ब्राह्मणम् १०
 
@@ -456,7 +456,7 @@ Screenshots from Smṛtikaumudī and Harihara's comm. on Pāraskaragṛhyasūtra
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/11_tamaso_vA_eSha.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/11_tamaso_vA_eSha.md">
 
 तमसो वा एष +++(आगत्य)+++ तमः प्रविशति - यम् अविद्वान् उपनयते, यश् चाविद्वान् - इति हि ब्राह्मणम् ११
 
@@ -484,7 +484,7 @@ Screenshots from Smṛtikaumudī and Harihara's comm. on Pāraskaragṛhyasūtra
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/12_tasminnabhijanavidyAsamudetaM_samAhitaM_saMskartAramIpset.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/12_tasminnabhijanavidyAsamudetaM_samAhitaM_saMskartAramIpset.md">
 
 तस्मिन्न् अभिजन-विद्यासमुदेतं समाहितं संस्कर्तारम् ईप्सेत् १२
 
@@ -514,7 +514,7 @@ Screenshots from Smṛtikaumudī and Harihara's comm. on Pāraskaragṛhyasūtra
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/13_tasmiMshchaiva_vidyAkarmAntamavipratipanne_dharmebhyaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/13_tasmiMshchaiva_vidyAkarmAntamavipratipanne_dharmebhyaH.md">
 
 तस्मिंश् चैव विद्या-कर्म +आन्तम् अविप्रतिपन्ने धर्मेभ्यः १३
 
@@ -544,7 +544,7 @@ Screenshots from Smṛtikaumudī and Harihara's comm. on Pāraskaragṛhyasūtra
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/14_yasmAddharmAnAchinoti_sa_AchAryaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/14_yasmAddharmAnAchinoti_sa_AchAryaH.md">
 
 यस्माद् धर्मान् आचिनोति स **आचार्यः** १४+++(5)+++
 
@@ -577,7 +577,7 @@ Screenshots from Smṛtikaumudī and Harihara's comm. on Pāraskaragṛhyasūtra
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/15_tasmai_na_druhyetkadAchana.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/15_tasmai_na_druhyetkadAchana.md">
 
 तस्मै न द्रुह्येत् कदाचन १५
 
@@ -603,7 +603,7 @@ Screenshots from Smṛtikaumudī and Harihara's comm. on Pāraskaragṛhyasūtra
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/16_sa_hi_vidyAtasta~n.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/16_sa_hi_vidyAtasta~n.md">
 
 स हि विद्यातस् तं जनयति १६
 
@@ -635,7 +635,7 @@ Screenshots from Smṛtikaumudī and Harihara's comm. on Pāraskaragṛhyasūtra
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/17_tachChreShTha~n_janma.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/17_tachChreShTha~n_janma.md">
 
 तच् +छ्रेष्ठं जन्म १७
 
@@ -661,7 +661,7 @@ Screenshots from Smṛtikaumudī and Harihara's comm. on Pāraskaragṛhyasūtra
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/18_sharIrameva_mAtApitarau_janayataH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/18_sharIrameva_mAtApitarau_janayataH.md">
 
 शरीरम् एव माता-पितरौ जनयतः १८
 
@@ -692,7 +692,7 @@ Screenshots from Smṛtikaumudī and Harihara's comm. on Pāraskaragṛhyasūtra
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/19_vasante_brAhmaNam_upanayIta.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/19_vasante_brAhmaNam_upanayIta.md">
 
 **वसन्ते** ब्राह्मणम् उपनयीत, **ग्रीष्मे** राजन्यं शरदि वैश्यं,  
 **गर्भाष्टमेषु** ब्राह्मणं, **गर्भैकादशेषु** राजन्यं, गर्भ-द्वादशेषु वैश्यम् १९
@@ -722,7 +722,7 @@ Screenshots from Smṛtikaumudī and Harihara's comm. on Pāraskaragṛhyasūtra
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/20_atha_kAmyAni.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/20_atha_kAmyAni.md">
 
 अथ +++(उपनयन-विषये)+++ काम्यानि २०
 
@@ -746,7 +746,7 @@ Screenshots from Smṛtikaumudī and Harihara's comm. on Pāraskaragṛhyasūtra
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/21_saptame_brahmavarchasakAmam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/21_saptame_brahmavarchasakAmam.md">
 
 सप्तमे ब्रह्म-वर्चस-कामम् २१
 
@@ -774,7 +774,7 @@ Screenshots from Smṛtikaumudī and Harihara's comm. on Pāraskaragṛhyasūtra
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/22_aShTama_AyuShkAmam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/22_aShTama_AyuShkAmam.md">
 
 अष्टम आयुष्-कामम् २२
 
@@ -797,7 +797,7 @@ Screenshots from Smṛtikaumudī and Harihara's comm. on Pāraskaragṛhyasūtra
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/23_navame_tejaskAmam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/23_navame_tejaskAmam.md">
 
 नवमे तेजस्-कामम् २३
 
@@ -818,7 +818,7 @@ Screenshots from Smṛtikaumudī and Harihara's comm. on Pāraskaragṛhyasūtra
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/24_dashame-nnAdyakAmam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/24_dashame-nnAdyakAmam.md">
 
 दशमे ऽन्नाद्य-कामम् २४
 
@@ -839,7 +839,7 @@ Screenshots from Smṛtikaumudī and Harihara's comm. on Pāraskaragṛhyasūtra
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/25_ekAdasha_indriyakAmam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/25_ekAdasha_indriyakAmam.md">
 
 एकादश इन्द्रिय-कामम् २५
 
@@ -860,7 +860,7 @@ Screenshots from Smṛtikaumudī and Harihara's comm. on Pāraskaragṛhyasūtra
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/26_dvAdashe_pashukAmam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/26_dvAdashe_pashukAmam.md">
 
 द्वादशे पशु-कामम् २६
 
@@ -881,7 +881,7 @@ Screenshots from Smṛtikaumudī and Harihara's comm. on Pāraskaragṛhyasūtra
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/27_A_ShoDashAd_brAhmaNasyAnAtyaya.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/27_A_ShoDashAd_brAhmaNasyAnAtyaya.md">
 
 आ षोडशाद् ब्राह्मणस्यानात्यय, आ द्वाविंशात् क्षत्रियस्य+ आ चतुर्विंशाद् वैश्यस्य - यथा व्रतेषु समर्थः स्याद् यानि वक्ष्यामः २७
 
@@ -912,7 +912,7 @@ Screenshots from Smṛtikaumudī and Harihara's comm. on Pāraskaragṛhyasūtra
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/28_atikrAnte_sAvitryAH_kAla.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/28_atikrAnte_sAvitryAH_kAla.md">
 
 अतिक्रान्ते सावित्र्याः काल+++(य्)+++, ऋतुं +++(यावत्)+++ त्रैविद्यकं ब्रह्मचर्यं +++(अग्नि-परिचर्याम् अध्ययनं गुरु-शुश्रूषाम् इति परिहाप्य)+++ चरेत् २८
 
@@ -945,7 +945,7 @@ Screenshots from Smṛtikaumudī and Harihara's comm. on Pāraskaragṛhyasūtra
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/29_athopanayanam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/29_athopanayanam.md">
 
 अथोपनयनम् २९
 
@@ -969,7 +969,7 @@ Screenshots from Smṛtikaumudī and Harihara's comm. on Pāraskaragṛhyasūtra
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/30_tataH_saMvatsaram_udakopasparshanam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/30_tataH_saMvatsaram_udakopasparshanam.md">
 
 ततः संवत्सरम् उदकोपस्पर्शनम् ३०
 
@@ -997,7 +997,7 @@ Screenshots from Smṛtikaumudī and Harihara's comm. on Pāraskaragṛhyasūtra
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/31_athAdhyApyaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/31_athAdhyApyaH.md">
 
 अथाध्याप्यः ३१
 
@@ -1021,7 +1021,7 @@ Screenshots from Smṛtikaumudī and Harihara's comm. on Pāraskaragṛhyasūtra
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/32_atha_yasya_pitA.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/32_atha_yasya_pitA.md">
 
 अथ यस्य पिता पितामह इति अनुपेतौ स्यातां - ते ब्रह्म-ह-संस्तुताः ३२
 
@@ -1049,7 +1049,7 @@ Screenshots from Smṛtikaumudī and Harihara's comm. on Pāraskaragṛhyasūtra
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/33_teShAm_abhyAgamanam_bhojanaM.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/33_teShAm_abhyAgamanam_bhojanaM.md">
 
 तेषाम् अभ्यागमनं भोजनं विवाहम् इति च वर्जयेत् ३३
 
@@ -1079,7 +1079,7 @@ Screenshots from Smṛtikaumudī and Harihara's comm. on Pāraskaragṛhyasūtra
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/34_teShAm_ichChatAm_prAyashchittam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/34_teShAm_ichChatAm_prAyashchittam.md">
 
 तेषाम् इच्छतां प्रायश्चित्तम् ३४
 
@@ -1103,7 +1103,7 @@ Screenshots from Smṛtikaumudī and Harihara's comm. on Pāraskaragṛhyasūtra
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/35_yathA_prathame.atikrama.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/35_yathA_prathame.atikrama.md">
 
 यथा प्रथमे ऽतिक्रम ऋतुर् एवं संवत्सरः ३५
 
@@ -1129,7 +1129,7 @@ Screenshots from Smṛtikaumudī and Harihara's comm. on Pāraskaragṛhyasūtra
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/36_athopanayanaM_tata_udakopasparshanam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/36_athopanayanaM_tata_udakopasparshanam.md">
 
 अथोपनयनं, तत उदकोपस्पर्शनम् ३६
 

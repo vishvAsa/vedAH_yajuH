@@ -2,7 +2,7 @@
 title = "२० धर्मार्थौ"
 +++
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/20/01_nemaM_laukikamartham_puraskRtya.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/20/01_nemaM_laukikamartham_puraskRtya.md">
 
 नेमं लौकिकम्-अर्थं पुरस्कृत्य  
 धर्मांश् चरेत् १
@@ -28,7 +28,7 @@ merely in order to acquire these worldly objects (as fame, gain, and honour).
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/20/02_niShphalA_hyabhyudaye_bhavanti.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/20/02_niShphalA_hyabhyudaye_bhavanti.md">
 
 निष्फला ह्य् अभ्युदये भवन्ति २
 
@@ -63,7 +63,7 @@ merely in order to acquire these worldly objects (as fame, gain, and honour).
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/20/03_tadyathAmre_phalArthe_nirmite.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/20/03_tadyathAmre_phalArthe_nirmite.md">
 
 तद् यथा ऽऽम्रे फलार्थे निर्मिते  
 छाया गन्ध इत्य् अनूत्पद्येते,  
@@ -100,7 +100,7 @@ merely in order to acquire these worldly objects (as fame, gain, and honour).
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/20/04_no_chedanUtpadyante_na.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/20/04_no_chedanUtpadyante_na.md">
 
 नो चेद् अनूत्पद्यन्ते,  
 न धर्म-हानिर् भवति ४
@@ -125,7 +125,7 @@ merely in order to acquire these worldly objects (as fame, gain, and honour).
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/20/05_anasUyurduShpralambhaH_syAtkuhakashaThanAstikabAlavAdeShu.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/20/05_anasUyurduShpralambhaH_syAtkuhakashaThanAstikabAlavAdeShu.md">
 
 अन्-असूयुर्, दुष्-प्रलम्भः स्यात्  
 कुहक-शठ-नास्तिक-बाल-वादेषु ५
@@ -169,7 +169,7 @@ merely in order to acquire these worldly objects (as fame, gain, and honour).
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/20/06_na_dharmAdharmau_charata.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/20/06_na_dharmAdharmau_charata.md">
 
 न धर्माधर्मौ चरत  
 "आवं स्व" इति ।  
@@ -201,7 +201,7 @@ merely in order to acquire these worldly objects (as fame, gain, and honour).
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/20/07_yattvAryAH_kriyamANam_prashaMsanti.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/20/07_yattvAryAH_kriyamANam_prashaMsanti.md">
 
 यत् त्व् आर्याः  
 क्रियमाणं प्रशंसन्ति  
@@ -239,7 +239,7 @@ merely in order to acquire these worldly objects (as fame, gain, and honour).
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/20/08_sarvajanapadeShvekAntasamAhitamAryANAmvRttaM_samyagvinItAnAM_vRddhAnAmAtmavatAmalolupAnAmadAmbhikAnAM.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/20/08_sarvajanapadeShvekAntasamAhitamAryANAmvRttaM_samyagvinItAnAM_vRddhAnAmAtmavatAmalolupAnAmadAmbhikAnAM.md">
 
 सर्व-जन-पदेष्व् एकान्त-समाहितम्  
 आर्याणाम् वृत्तं  
@@ -271,7 +271,7 @@ merely in order to acquire these worldly objects (as fame, gain, and honour).
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/20/09_evam_ubhau_lokAv.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/20/09_evam_ubhau_lokAv.md">
 
 एवम् उभौ लोकाव् अभिजयति ९
 
@@ -295,7 +295,7 @@ merely in order to acquire these worldly objects (as fame, gain, and honour).
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/20/10_avihitA_brAhmaNasya_vaNijyA.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/20/10_avihitA_brAhmaNasya_vaNijyA.md">
 
 अविहिता ब्राह्मणस्य वणिज्या १०
 
@@ -323,7 +323,7 @@ merely in order to acquire these worldly objects (as fame, gain, and honour).
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/20/11_Apadi_vyavahareta_paNyAnAmapaNyAni.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/20/11_Apadi_vyavahareta_paNyAnAmapaNyAni.md">
 
 आपदि व्यवहरेत पण्यानाम्  
 अपण्यानि व्युदस्यन् +++(=वर्जयन् [वक्ष्यमाणानि] …)+++ ११
@@ -360,7 +360,7 @@ merely in order to acquire these worldly objects (as fame, gain, and honour).
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/20/12_yAnrasAnrAgAngandhAnanna~n_charma_gavAM.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/20/12_yAnrasAnrAgAngandhAnanna~n_charma_gavAM.md">
 
 … मनुष्यान्,  
 रसान्, रागान्, गन्धान्,  
@@ -412,7 +412,7 @@ merely in order to acquire these worldly objects (as fame, gain, and honour).
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/20/13_manuSh_tilataNDulAMstveva_dhAnyasya.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/20/13_manuSh_tilataNDulAMstveva_dhAnyasya.md">
 
 तिल-तण्डुलांस् त्व् एव धान्यस्य  
 विशेषेण न विक्रीणीयात् १३
@@ -442,7 +442,7 @@ merely in order to acquire these worldly objects (as fame, gain, and honour).
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/20/14_avihitashchaiteShAm_mitho_vinimayaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/20/14_avihitashchaiteShAm_mitho_vinimayaH.md">
 
 अविहितश् चैतेषां मिथो विनिमयः १४
 
@@ -466,7 +466,7 @@ merely in order to acquire these worldly objects (as fame, gain, and honour).
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/20/15_annena_chAnnasya_manuShyANA~n.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/20/15_annena_chAnnasya_manuShyANA~n.md">
 
 अन्नेन चान्नस्य,  
 मनुष्याणां च मनुष्यैः,  
@@ -511,7 +511,7 @@ merely in order to acquire these worldly objects (as fame, gain, and honour).
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/20/16_akrItapaNyairvyavahareta.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/20/16_akrItapaNyairvyavahareta.md">
 
 अ-क्रीतपण्यैर् व्यवहरेत १६
 

@@ -2,7 +2,7 @@
 title = "०९ नैमित्तिकानध्यायः"
 +++
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/01_shrAvaNyAm_paurNamAsyAmadhyAyamupAkRtya_mAsaM.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/01_shrAvaNyAm_paurNamAsyAmadhyAyamupAkRtya_mAsaM.md">
 
 श्रावण्यां पौर्णमास्यामध्यायमुपाकृत्य मासं {अनूक्तम् अननूक्तञ्च} प्रदोषे नाधीयीत १
 
@@ -32,7 +32,7 @@ title = "०९ नैमित्तिकानध्यायः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/02_taiShyAm_paurNamAsyAM_rohiNyAM.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/02_taiShyAm_paurNamAsyAM_rohiNyAM.md">
 
 तैष्यां पौर्णमास्यां रोहिण्यां वा विरमेत् २
 
@@ -66,7 +66,7 @@ title = "०९ नैमित्तिकानध्यायः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/03_ardhapanchamAMshchaturo_mAsAnityeke.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/03_ardhapanchamAMshchaturo_mAsAnityeke.md">
 
 अर्धपञ्चमांश्चतुरो मासानित्येके ३
 
@@ -96,7 +96,7 @@ title = "०९ नैमित्तिकानध्यायः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/04_nigameShvadhyayanaM_varjayet.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/04_nigameShvadhyayanaM_varjayet.md">
 
 निगमेष्वध्ययनं वर्जयेत् ४
 
@@ -122,7 +122,7 @@ title = "०९ नैमित्तिकानध्यायः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/05_AnaDuhena_vA_shakRtpiNDenopalipte-dhIyIta.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/05_AnaDuhena_vA_shakRtpiNDenopalipte-dhIyIta.md">
 
 आनडुहेन वा शकृत्पिण्डेनोपलिप्तेऽधीयीत ५
 
@@ -146,7 +146,7 @@ title = "०९ नैमित्तिकानध्यायः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/06_shmashAne_sarvataH_shamyAprAsAt.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/06_shmashAne_sarvataH_shamyAprAsAt.md">
 
 श्मशाने सर्वतः शम्याप्रासात् ६
 
@@ -172,7 +172,7 @@ title = "०९ नैमित्तिकानध्यायः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/07_grAmeNAdhyavasite_xetreNa_vA.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/07_grAmeNAdhyavasite_xetreNa_vA.md">
 
 ग्रामेणाध्यवसिते क्षेत्रेण वा नानध्यायः ७
 
@@ -196,7 +196,7 @@ title = "०९ नैमित्तिकानध्यायः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/08_jnAyamAne_tu_tasminn.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/08_jnAyamAne_tu_tasminn.md">
 
 ज्ञायमाने तु तस्मिन्न् एव देशे नाधीयीत ८
 
@@ -222,7 +222,7 @@ title = "०९ नैमित्तिकानध्यायः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/09_shmashAnavachChUdra_patitau.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/09_shmashAnavachChUdra_patitau.md">
 
 श्मशानवच्छूद्र पतितौ ९
 
@@ -258,7 +258,7 @@ So, safe to say that deliberate (literal) shrAvaNa to v4s was to be avoided; but
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/10_samAnAgAra_ityeke.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/10_samAnAgAra_ityeke.md">
 
 समानागार इत्येके १०
 
@@ -282,7 +282,7 @@ So, safe to say that deliberate (literal) shrAvaNa to v4s was to be avoided; but
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/11_shUdrA_yAn_tu.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/11_shUdrA_yAn_tu.md">
 
 शूद्रा यां तु प्रेक्षणप्रतिप्रेक्षणयोरेवानध्यायः ११
 
@@ -306,7 +306,7 @@ So, safe to say that deliberate (literal) shrAvaNa to v4s was to be avoided; but
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/12_tathAnyasyAM_striyAM_varNavyatikrAntAyAm.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/12_tathAnyasyAM_striyAM_varNavyatikrAntAyAm.md">
 
 तथान्यस्यां स्त्रियां वर्णव्यतिक्रान्तायां मैथुने १२
 
@@ -330,7 +330,7 @@ So, safe to say that deliberate (literal) shrAvaNa to v4s was to be avoided; but
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/13_brahmAdhyeShyamANo_malavadvAsasechChansambhAShitum_brAhmaNena.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/13_brahmAdhyeShyamANo_malavadvAsasechChansambhAShitum_brAhmaNena.md">
 
 ब्रह्माध्येष्यमाणो मलवद्वाससेच्छन्संभाषितुं ब्राह्मणेन संभाष्य तया संभाषेत संभाष्य तु ब्राह्मणेनैव संभाष्याधीयीत । एवं तस्याः प्रजानिःश्रेयसम् १३
 
@@ -356,7 +356,7 @@ So, safe to say that deliberate (literal) shrAvaNa to v4s was to be avoided; but
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/14_antaHshavam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/14_antaHshavam.md">
 
 अन्तःशवम् १४
 
@@ -384,7 +384,7 @@ So, safe to say that deliberate (literal) shrAvaNa to v4s was to be avoided; but
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/15_antashchANDAlam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/15_antashchANDAlam.md">
 
 अन्तश्चाण्डालम् १५
 
@@ -408,7 +408,7 @@ So, safe to say that deliberate (literal) shrAvaNa to v4s was to be avoided; but
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/16_abhinirhRtAnAn_tu_sImnyanadhyAyaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/16_abhinirhRtAnAn_tu_sImnyanadhyAyaH.md">
 
 अभिनिर्हृतानां तु सीम्न्यनध्यायः १६
 
@@ -434,7 +434,7 @@ So, safe to say that deliberate (literal) shrAvaNa to v4s was to be avoided; but
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/17_sandarshane_chAraNye.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/17_sandarshane_chAraNye.md">
 
 संदर्शने चारण्ये १७
 
@@ -458,7 +458,7 @@ So, safe to say that deliberate (literal) shrAvaNa to v4s was to be avoided; but
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/18_tadaharAgateShu_cha_grAmam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/18_tadaharAgateShu_cha_grAmam.md">
 
 तदहरागतेषु च ग्रामं बाह्येषु १८
 
@@ -484,7 +484,7 @@ So, safe to say that deliberate (literal) shrAvaNa to v4s was to be avoided; but
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/19_api_satsu.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/19_api_satsu.md">
 
 अपि सत्सु १९
 
@@ -510,7 +510,7 @@ So, safe to say that deliberate (literal) shrAvaNa to v4s was to be avoided; but
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/20_sandhAvanustanite_rAtrim.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/20_sandhAvanustanite_rAtrim.md">
 
 संधावनुस्तनिते रात्रिम् २०
 
@@ -538,7 +538,7 @@ So, safe to say that deliberate (literal) shrAvaNa to v4s was to be avoided; but
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/21_svapnaparyAntaM_vidyuti.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/21_svapnaparyAntaM_vidyuti.md">
 
 स्वप्नपर्यान्तं विद्युति २१
 
@@ -562,7 +562,7 @@ So, safe to say that deliberate (literal) shrAvaNa to v4s was to be avoided; but
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/22_upavyuShaM_yAvatA_vA.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/22_upavyuShaM_yAvatA_vA.md">
 
 उपव्युषं  
 यावता वा कृष्णां रोहिणीम् इति,  
@@ -592,7 +592,7 @@ So, safe to say that deliberate (literal) shrAvaNa to v4s was to be avoided; but
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/23_dahre-pararAtre_stanayitnunA.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/23_dahre-pararAtre_stanayitnunA.md">
 
 दह्रे+++(=अपररात्रे तृतीयो भागः)+++ ऽपररात्रे+++(=रात्रेस् तृतीयो भागः)+++ स्तनयित्नुना २३
 
@@ -616,7 +616,7 @@ So, safe to say that deliberate (literal) shrAvaNa to v4s was to be avoided; but
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/24_UrdhvamardharAtrAdityeke.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/24_UrdhvamardharAtrAdityeke.md">
 
 ऊर्ध्वमर्धरात्रादित्येके २४
 
@@ -640,7 +640,7 @@ So, safe to say that deliberate (literal) shrAvaNa to v4s was to be avoided; but
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/25_gavA~n_chAvarodhe.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/25_gavA~n_chAvarodhe.md">
 
 गवां चावरोधे २५
 
@@ -664,7 +664,7 @@ So, safe to say that deliberate (literal) shrAvaNa to v4s was to be avoided; but
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/26_vadhyAnA~n_cha_yAvatA.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/26_vadhyAnA~n_cha_yAvatA.md">
 
 वध्यानां च यावता हन्यन्ते २६
 
@@ -688,7 +688,7 @@ So, safe to say that deliberate (literal) shrAvaNa to v4s was to be avoided; but
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/27_pRShThArUDhaH_pashUnAn_nAdhIyIta.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/27_pRShThArUDhaH_pashUnAn_nAdhIyIta.md">
 
 पृष्ठारूढः पशूनां नाधीयीत २७
 
@@ -714,7 +714,7 @@ So, safe to say that deliberate (literal) shrAvaNa to v4s was to be avoided; but
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/28_ahorAtrAvamAvAsyAsu.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/28_ahorAtrAvamAvAsyAsu.md">
 
 अहोरात्राव् अमावास्यासु +++(पूर्वेद्युश् चतुर्दशीषु चेति हरदत्तः। मनुना पूर्णिमायाम् अपि निषिद्धम्।)+++ २८
 

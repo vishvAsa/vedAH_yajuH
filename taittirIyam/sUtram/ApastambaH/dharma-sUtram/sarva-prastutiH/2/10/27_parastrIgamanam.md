@@ -2,7 +2,7 @@
 title = "२७ परस्त्रीगमनम्"
 +++
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/27/01_charite_yathApuraM_dharmAddhi.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/27/01_charite_yathApuraM_dharmAddhi.md">
 
 चरिते यथापुरं, +++(यतः)+++ धर्माद्धि संबन्धः १
 
@@ -26,7 +26,7 @@ title = "२७ परस्त्रीगमनम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/27/02_sagotrasthAnIyAn_na_parebhyaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/27/02_sagotrasthAnIyAn_na_parebhyaH.md">
 
 सगोत्रस्थानीयां न परेभ्यः समाचक्षीत २
 
@@ -61,7 +61,7 @@ title = "२७ परस्त्रीगमनम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/27/03_kulAya_hi_strI.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/27/03_kulAya_hi_strI.md">
 
 कुलाय हि स्त्री प्रदीयत इत्युपदिशन्ति ३
 
@@ -92,7 +92,7 @@ title = "२७ परस्त्रीगमनम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/27/04_tadindri_yadaurbalyAdvipratipannam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/27/04_tadindri_yadaurbalyAdvipratipannam.md">
 
 तदिन्द्रि यदौर्बल्याद्विप्रतिपन्नम् ४
 
@@ -121,7 +121,7 @@ title = "२७ परस्त्रीगमनम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/27/05_avishiShTaM_hi_paratvam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/27/05_avishiShTaM_hi_paratvam.md">
 
 अविशिष्टं हि परत्वं पाणेः ५
 
@@ -148,7 +148,7 @@ title = "२७ परस्त्रीगमनम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/27/06_tadvyatikrame_khalu_punarubhayornarakaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/27/06_tadvyatikrame_khalu_punarubhayornarakaH.md">
 
 तद्व्यतिक्रमे खलु पुनरुभयोर्नरकः ६
 
@@ -175,7 +175,7 @@ title = "२७ परस्त्रीगमनम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/27/07_niyamArambhaNo_hi_varShIyAn.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/27/07_niyamArambhaNo_hi_varShIyAn.md">
 
 नियमारम्भणो हि वर्षीयान् +++(=गरीयान्)+++ अभ्युदय एवमारम्भणादपत्यात् ७
 
@@ -199,7 +199,7 @@ title = "२७ परस्त्रीगमनम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/27/08_nAshya_AryaH_shUdrAyAm.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/27/08_nAshya_AryaH_shUdrAyAm.md">
 
 नाश्य आर्यः शूद्रायाम् ८
 
@@ -223,7 +223,7 @@ title = "२७ परस्त्रीगमनम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/27/09_vadhyaH_shUdra_AryAyAm.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/27/09_vadhyaH_shUdra_AryAyAm.md">
 
 वध्यः शूद्र आर्यायाम् ९
 
@@ -260,7 +260,7 @@ title = "२७ परस्त्रीगमनम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/27/10_dAra~n_chAsya_karshayet.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/27/10_dAra~n_chAsya_karshayet.md">
 
 दारं चास्य कर्शयेत् १०
 
@@ -288,7 +288,7 @@ title = "२७ परस्त्रीगमनम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/27/11_savarNAyAmanyapUrvAyAM_sakRtsannipAte_pAdaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/27/11_savarNAyAmanyapUrvAyAM_sakRtsannipAte_pAdaH.md">
 
 सवर्णायामन्यपूर्वायां सकृत्संनिपाते पादः पततीत्युपदिशन्ति +++(अतः पतितप्रायश्चित्तस्य पादस् तस्मै)+++ ११
 
@@ -318,7 +318,7 @@ title = "२७ परस्त्रीगमनम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/27/12_evamabhyAse_pAdaH_pAdaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/27/12_evamabhyAse_pAdaH_pAdaH.md">
 
 एवमभ्यासे पादः पादः १२
 
@@ -342,7 +342,7 @@ title = "२७ परस्त्रीगमनम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/27/13_chaturthe_sarvam.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/27/13_chaturthe_sarvam.md">
 
 चतुर्थे सर्वम् १३
 
@@ -369,7 +369,7 @@ title = "२७ परस्त्रीगमनम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/27/14_jihvAchChedanaM_shUdra_syAryan.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/27/14_jihvAchChedanaM_shUdra_syAryan.md">
 
 जिह्वाच्छेदनं शूद्र स्यार्यं धार्मिकमाक्रोशतः १४
 
@@ -403,7 +403,7 @@ title = "२७ परस्त्रीगमनम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/27/15_vAchi_pathi_shayyAyAmAsana.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/27/15_vAchi_pathi_shayyAyAmAsana.md">
 
 वाचि पथि शय्यायाम् आसन इति समीभवतो दण्डताडनम् +++(शूद्रस्य)+++१५   
 
@@ -431,7 +431,7 @@ title = "२७ परस्त्रीगमनम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/27/16_puruShavadhe_steye.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/27/16_puruShavadhe_steye.md">
 
 पुरुषवधे स्तेये भूम्यादान इति स्वान्यादाय वध्यः १६
 
@@ -455,7 +455,7 @@ title = "२७ परस्त्रीगमनम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/27/17_chaxunirodhastveteShu_brAhmaNasya.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/27/17_chaxunirodhastveteShu_brAhmaNasya.md">
 
 चक्षुनिरोधस्त्वेतेषु ब्राह्मणस्य १७
 
@@ -483,7 +483,7 @@ title = "२७ परस्त्रीगमनम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/27/18_niyamAtikramaNamanyaM_vA_rahasi.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/27/18_niyamAtikramaNamanyaM_vA_rahasi.md">
 
 नियमातिक्रमणमन्यं वा रहसि बन्धयेत् १८
 
@@ -507,7 +507,7 @@ title = "२७ परस्त्रीगमनम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/27/19_A_samApatteH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/27/19_A_samApatteH.md">
 
 आ समापत्तेः १९
 
@@ -531,7 +531,7 @@ until (he promises) amendment.
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/27/20_asamApattau_nAshyaH.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/27/20_asamApattau_nAshyaH.md">
 
 असमापत्तौ नाश्यः २०
 
@@ -555,7 +555,7 @@ until (he promises) amendment.
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/27/21_AchArya_Rtvik_snAtako.md">
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/27/21_AchArya_Rtvik_snAtako.md">
 
 आचार्य, ऋत्विक्, स्नातको, राजेति त्राणं +++(=दण्डन-ह्रासनम् "अहं वारयामीमम्" इति)+++ स्युर् - अन्यत्र वध्यात् २१
 
