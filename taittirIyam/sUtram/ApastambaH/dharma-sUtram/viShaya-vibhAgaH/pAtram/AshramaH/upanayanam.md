@@ -6,146 +6,214 @@ unicode_script: devanagari
 
 ---
 ## परिचयः
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/09_upanayanaM_vidyArthasya_shrutitaH.md">
+<div class="js_include" newlevelforh1="b[]" title="1/01/01/09" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/09_upanayanaM_vidyArthasya_shrutitaH.md">
+
+<details><summary>**1/01/01/09 …{Loading}…**</summary>
 
 **उपनयनं** विद्यार्थस्य श्रुतितः संस्कारः ९
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/10_sarvebhyo_vedebhyaH_sAvitry.md">
+<div class="js_include" newlevelforh1="b[]" title="1/01/01/10" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/10_sarvebhyo_vedebhyaH_sAvitry.md">
+
+<details><summary>**1/01/01/10 …{Loading}…**</summary>
 
 "सर्वेभ्यो वेदेभ्यः **सावित्र्य्** अनूच्यत" इति हि ब्राह्मणम् १०
+</details>
 
 </div>
  …  
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/15/23_atra_hyadhikAraH_shAstrair.md">
+<div class="js_include" newlevelforh1="b[]" title="2/06/15/23" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/15/23_atra_hyadhikAraH_shAstrair.md">
+
+<details><summary>**2/06/15/23 …{Loading}…**</summary>
 
 अत्र ह्य् अधिकारः +++(कर्मसु)+++ शास्त्रैर् +++(दत्ता)+++ भवति २३
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/15/24_sA_niShThA.md">
+<div class="js_include" newlevelforh1="b[]" title="2/06/15/24" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/15/24_sA_niShThA.md">
+
+<details><summary>**2/06/15/24 …{Loading}…**</summary>
 
 सा +++(=उपनयनम्)+++ निष्ठा +++(=कर्माधिकार-प्रारम्भः)+++२४
+</details>
 
 </div>
 
 ## कालः
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/19_vasante_brAhmaNam_upanayIta.md">
+<div class="js_include" newlevelforh1="b[]" title="1/01/01/19" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/19_vasante_brAhmaNam_upanayIta.md">
+
+<details><summary>**1/01/01/19 …{Loading}…**</summary>
 
 **वसन्ते** ब्राह्मणम् उपनयीत, **ग्रीष्मे** राजन्यं शरदि वैश्यं,  
 **गर्भाष्टमेषु** ब्राह्मणं, **गर्भैकादशेषु** राजन्यं, गर्भ-द्वादशेषु वैश्यम् १९
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/20_atha_kAmyAni.md">
+<div class="js_include" newlevelforh1="b[]" title="1/01/01/20" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/20_atha_kAmyAni.md">
+
+<details><summary>**1/01/01/20 …{Loading}…**</summary>
 
 अथ +++(उपनयन-विषये)+++ काम्यानि २०
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/21_saptame_brahmavarchasakAmam.md">
+<div class="js_include" newlevelforh1="b[]" title="1/01/01/21" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/21_saptame_brahmavarchasakAmam.md">
+
+<details><summary>**1/01/01/21 …{Loading}…**</summary>
 
 सप्तमे ब्रह्म-वर्चस-कामम् २१
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/22_aShTama_AyuShkAmam.md">
+<div class="js_include" newlevelforh1="b[]" title="1/01/01/22" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/22_aShTama_AyuShkAmam.md">
+
+<details><summary>**1/01/01/22 …{Loading}…**</summary>
 
 अष्टम आयुष्-कामम् २२
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/23_navame_tejaskAmam.md">
+<div class="js_include" newlevelforh1="b[]" title="1/01/01/23" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/23_navame_tejaskAmam.md">
+
+<details><summary>**1/01/01/23 …{Loading}…**</summary>
 
 नवमे तेजस्-कामम् २३
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/24_dashame-nnAdyakAmam.md">
+<div class="js_include" newlevelforh1="b[]" title="1/01/01/24" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/24_dashame-nnAdyakAmam.md">
+
+<details><summary>**1/01/01/24 …{Loading}…**</summary>
 
 दशमे ऽन्नाद्य-कामम् २४
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/25_ekAdasha_indriyakAmam.md">
+<div class="js_include" newlevelforh1="b[]" title="1/01/01/25" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/25_ekAdasha_indriyakAmam.md">
+
+<details><summary>**1/01/01/25 …{Loading}…**</summary>
 
 एकादश इन्द्रिय-कामम् २५
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/26_dvAdashe_pashukAmam.md">
+<div class="js_include" newlevelforh1="b[]" title="1/01/01/26" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/26_dvAdashe_pashukAmam.md">
+
+<details><summary>**1/01/01/26 …{Loading}…**</summary>
 
 द्वादशे पशु-कामम् २६
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/27_A_ShoDashAd_brAhmaNasyAnAtyaya.md">
+<div class="js_include" newlevelforh1="b[]" title="1/01/01/27" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/27_A_ShoDashAd_brAhmaNasyAnAtyaya.md">
+
+<details><summary>**1/01/01/27 …{Loading}…**</summary>
 
 आ षोडशाद् ब्राह्मणस्यानात्यय, आ द्वाविंशात् क्षत्रियस्य+ आ चतुर्विंशाद् वैश्यस्य - यथा व्रतेषु समर्थः स्याद् यानि वक्ष्यामः २७
+</details>
 
 </div>
   
 
 ### अतिक्रान्ते काले
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/28_atikrAnte_sAvitryAH_kAla.md">
+<div class="js_include" newlevelforh1="b[]" title="1/01/01/28" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/28_atikrAnte_sAvitryAH_kAla.md">
+
+<details><summary>**1/01/01/28 …{Loading}…**</summary>
 
 अतिक्रान्ते सावित्र्याः काल+++(य्)+++, ऋतुं +++(यावत्)+++ त्रैविद्यकं ब्रह्मचर्यं +++(अग्नि-परिचर्याम् अध्ययनं गुरु-शुश्रूषाम् इति परिहाप्य)+++ चरेत् २८
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/29_athopanayanam.md">
+<div class="js_include" newlevelforh1="b[]" title="1/01/01/29" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/29_athopanayanam.md">
+
+<details><summary>**1/01/01/29 …{Loading}…**</summary>
 
 अथोपनयनम् २९
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/30_tataH_saMvatsaram_udakopasparshanam.md">
+<div class="js_include" newlevelforh1="b[]" title="1/01/01/30" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/30_tataH_saMvatsaram_udakopasparshanam.md">
+
+<details><summary>**1/01/01/30 …{Loading}…**</summary>
 
 ततः संवत्सरम् उदकोपस्पर्शनम् ३०
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/31_athAdhyApyaH.md">
+<div class="js_include" newlevelforh1="b[]" title="1/01/01/31" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/31_athAdhyApyaH.md">
+
+<details><summary>**1/01/01/31 …{Loading}…**</summary>
 
 अथाध्याप्यः ३१
+</details>
 
 </div>
   
 
 ### अनुपनीतकुलस्य
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/33_teShAm_abhyAgamanam_bhojanaM.md">
+<div class="js_include" newlevelforh1="b[]" title="1/01/01/33" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/33_teShAm_abhyAgamanam_bhojanaM.md">
+
+<details><summary>**1/01/01/33 …{Loading}…**</summary>
 
 तेषाम् अभ्यागमनं भोजनं विवाहम् इति च वर्जयेत् ३३
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/34_teShAm_ichChatAm_prAyashchittam.md">
+<div class="js_include" newlevelforh1="b[]" title="1/01/01/34" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/34_teShAm_ichChatAm_prAyashchittam.md">
+
+<details><summary>**1/01/01/34 …{Loading}…**</summary>
 
 तेषाम् इच्छतां प्रायश्चित्तम् ३४
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/35_yathA_prathame.atikrama.md">
+<div class="js_include" newlevelforh1="b[]" title="1/01/01/35" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/35_yathA_prathame.atikrama.md">
+
+<details><summary>**1/01/01/35 …{Loading}…**</summary>
 
 यथा प्रथमे ऽतिक्रम ऋतुर् एवं संवत्सरः ३५
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/36_athopanayanaM_tata_udakopasparshanam.md">
+<div class="js_include" newlevelforh1="b[]" title="1/01/01/36" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/36_athopanayanaM_tata_udakopasparshanam.md">
+
+<details><summary>**1/01/01/36 …{Loading}…**</summary>
 
 अथोपनयनं, तत उदकोपस्पर्शनम् ३६
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/01_pratipUruShaM_sankhyAya_saMvatsarAn.md">
+<div class="js_include" newlevelforh1="b[]" title="1/01/02/01" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/01_pratipUruShaM_sankhyAya_saMvatsarAn.md">
+
+<details><summary>**1/01/02/01 …{Loading}…**</summary>
 
 प्रति-पूरुषं संख्याय संवत्सरान् यावन्तो ऽनुपेताः स्युः १
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/02_saptabhiH_pAvamAnIbhir_yadanti.md">
+<div class="js_include" newlevelforh1="b[]" title="1/01/02/02" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/02_saptabhiH_pAvamAnIbhir_yadanti.md">
+
+<details><summary>**1/01/02/02 …{Loading}…**</summary>
 
 सप्तभिः पावमानीभिर् "यदन्ति यच् च दूरक" इति एताभिर्, यजुष्-पवित्रेण, +++(वामदेव्यम्→)+++साम-पवित्रेणाङ्गिरसेणेति  २
 
@@ -333,54 +401,79 @@ unicode_script: devanagari
 अ॒ब्-जा, गो॒-जा, ऋ॑त॒-जा, अ॑द्रि॒-जा, ऋ॒तं बृ॒हत् ॥
 
 </div>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/03_api_vA_vyAhRtIbhir.md">
+<div class="js_include" newlevelforh1="b[]" title="1/01/02/03" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/03_api_vA_vyAhRtIbhir.md">
+
+<details><summary>**1/01/02/03 …{Loading}…**</summary>
 
 अपि वा व्याहृतीभिर् एव ३
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/04_athAdhyApyaH.md">
+<div class="js_include" newlevelforh1="b[]" title="1/01/02/04" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/04_athAdhyApyaH.md">
+
+<details><summary>**1/01/02/04 …{Loading}…**</summary>
 
 अथाध्याप्यः ४
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/05_atha_yasya_prapitAmahAdi.md">
+<div class="js_include" newlevelforh1="b[]" title="1/01/02/05" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/05_atha_yasya_prapitAmahAdi.md">
+
+<details><summary>**1/01/02/05 …{Loading}…**</summary>
 
 अथ यस्य प्रपितामहादि नानुस्मर्यत उपनयनं - ते श्मशान-संस्तुताः ५
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/06_teShAm_abhyAgamanam_bhojanaM.md">
+<div class="js_include" newlevelforh1="b[]" title="1/01/02/06" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/06_teShAm_abhyAgamanam_bhojanaM.md">
+
+<details><summary>**1/01/02/06 …{Loading}…**</summary>
 
 तेषाम् अभ्यागमनं भोजनं विवाहम् इति च वर्जयेत्।
 तेषामिच्छतां प्रायश्चित्तं - द्वादशवर्षाणि त्रैविद्यकं ब्रह्मचर्यं चरेद् । अथोपनयनं तत उदकोपस्पर्शनं पावमान्यादिभिः ६
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/07_atha_gRhamedhopadeshanam.md">
+<div class="js_include" newlevelforh1="b[]" title="1/01/02/07" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/07_atha_gRhamedhopadeshanam.md">
+
+<details><summary>**1/01/02/07 …{Loading}…**</summary>
 
 अथ गृहमेधोपदेशनम् ७
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/08_nAdhyApanam.md">
+<div class="js_include" newlevelforh1="b[]" title="1/01/02/08" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/08_nAdhyApanam.md">
+
+<details><summary>**1/01/02/08 …{Loading}…**</summary>
 
 नाध्यापनम् ८
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/09_tato_yo_nirvartate.md">
+<div class="js_include" newlevelforh1="b[]" title="1/01/02/09" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/09_tato_yo_nirvartate.md">
+
+<details><summary>**1/01/02/09 …{Loading}…**</summary>
 
 ततो यो निर्वर्तते तस्य संस्कारो यथा प्रथमेऽतिक्रमे ९
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/10_tata_Urdhvam_prakRtivat.md">
+<div class="js_include" newlevelforh1="b[]" title="1/01/02/10" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/10_tata_Urdhvam_prakRtivat.md">
+
+<details><summary>**1/01/02/10 …{Loading}…**</summary>
 
 तत ऊर्ध्वं प्रकृतिवत् १०
+</details>
 
 </div>

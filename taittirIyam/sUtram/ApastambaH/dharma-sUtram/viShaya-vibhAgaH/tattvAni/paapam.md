@@ -288,75 +288,110 @@ unicode_script: devanagari
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/10_nAgurutalpe_patatItyeke.md">
+<div class="js_include" newlevelforh1="b[]" title="1/07/21/10" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/10_nAgurutalpe_patatItyeke.md">
+
+<details><summary>**1/07/21/10 …{Loading}…**</summary>
 
 नागुरुतल्पे पततीत्येके १०
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/11_adharmANAn_tu_satatam.md">
+<div class="js_include" newlevelforh1="b[]" title="1/07/21/11" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/11_adharmANAn_tu_satatam.md">
+
+<details><summary>**1/07/21/11 …{Loading}…**</summary>
 
 अधर्माणां तु सततम् आचारः ११
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/10/29/15_abhIchArAnuvyAhArAvashuchikarAvapatanIyau.md">
+<div class="js_include" newlevelforh1="b[]" title="1/10/29/15" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/10/29/15_abhIchArAnuvyAhArAvashuchikarAvapatanIyau.md">
+
+<details><summary>**1/10/29/15 …{Loading}…**</summary>
 
 अभीचारानुव्याहारावशुचिकरावपतनीयौ १५
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/10/29/16_patanIyAviti_hArItaH.md">
+<div class="js_include" newlevelforh1="b[]" title="1/10/29/16" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/10/29/16_patanIyAviti_hArItaH.md">
+
+<details><summary>**1/10/29/16 …{Loading}…**</summary>
 
 पतनीयाविति हारीतः १६
+</details>
 
 </div>
    
 
 ## फलम्
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/02/03_tataH_parivRttau_karmaphalasheSheNa.md">
+<div class="js_include" newlevelforh1="b[]" title="2/01/02/03" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/02/03_tataH_parivRttau_karmaphalasheSheNa.md">
+
+<details><summary>**2/01/02/03 …{Loading}…**</summary>
 
 ततः परिवृत्तौ कर्मफलशेषेण जातिं रूपं वर्णं बलं मेधां प्रज्ञां द्रव्याणि धर्मानुष्ठानमिति प्रतिपद्यते । तच्चक्रवदुभयोर्लोकयोः सुख एव वर्तते ३
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/02/04_yathauShadhivanaspatInAm_bIjasya_xetrakarmavisheShe.md">
+<div class="js_include" newlevelforh1="b[]" title="2/01/02/04" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/02/04_yathauShadhivanaspatInAm_bIjasya_xetrakarmavisheShe.md">
+
+<details><summary>**2/01/02/04 …{Loading}…**</summary>
 
 यथौषधिवनस्पतीनां बीजस्य क्षेत्रकर्मविशेषे फलपरिवृद्धिरेवम् ४
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/02/05_etena_doShaphalaparivRddhiruktA.md">
+<div class="js_include" newlevelforh1="b[]" title="2/01/02/05" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/02/05_etena_doShaphalaparivRddhiruktA.md">
+
+<details><summary>**2/01/02/05 …{Loading}…**</summary>
 
 एतेन दोषफलपरिवृद्धिरुक्ता ५
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/02/06_steno-bhishasto_brAhmaNo_rAjanyo.md">
+<div class="js_include" newlevelforh1="b[]" title="2/01/02/06" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/02/06_steno-bhishasto_brAhmaNo_rAjanyo.md">
+
+<details><summary>**2/01/02/06 …{Loading}…**</summary>
 
 स्तेनोऽभिशस्तो ब्राह्मणो राजन्यो वैश्यो वा परस्मिंल् लोके परिमिते निरये वृत्ते जायते चाण्डालो ब्राह्मणः पौल्कसो राजन्यो वैणो वैश्यः ६
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/02/07_etenAnye_doShaphalaiH_karmabhiH.md">
+<div class="js_include" newlevelforh1="b[]" title="2/01/02/07" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/02/07_etenAnye_doShaphalaiH_karmabhiH.md">
+
+<details><summary>**2/01/02/07 …{Loading}…**</summary>
 
 एतेनान्ये दोषफलैः कर्मभिः परिध्वंसा दोषफलासु योनिषु जायन्ते वर्णपरिध्वंसायाम् ७
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/11/10_dharmacharyayA_jaghanyo_varNaH.md">
+<div class="js_include" newlevelforh1="b[]" title="2/05/11/10" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/11/10_dharmacharyayA_jaghanyo_varNaH.md">
+
+<details><summary>**2/05/11/10 …{Loading}…**</summary>
 
 धर्मचर्यया जघन्यो वर्णः पूर्वं पूर्वं वर्णमापद्यते जातिपरिवृत्तौ १०
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/11/11_adharmacharyayA_pUrvo_varNo.md">
+<div class="js_include" newlevelforh1="b[]" title="2/05/11/11" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/11/11_adharmacharyayA_pUrvo_varNo.md">
+
+<details><summary>**2/05/11/11 …{Loading}…**</summary>
 
 अधर्मचर्यया पूर्वो वर्णो जघन्यं जघन्यं वर्णमापद्यते जातिपरिवृत्तौ ११
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/07/16/01_saha_devamanuShyA_asmiMl.md">
+<div class="js_include" newlevelforh1="b[]" title="2/07/16/01" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/07/16/01_saha_devamanuShyA_asmiMl.md">
+
+<details><summary>**2/07/16/01 …{Loading}…**</summary>
 
 सह देवमनुष्या अस्मिंल् लोके पुरा बभूवुः ।  
 अथ देवाः कर्मभिर् दिवं जग्मुर्,  
@@ -364,5 +399,6 @@ unicode_script: devanagari
 तेषां ये तथा कर्माण्य् आरभन्ते  
 सह देवैर् ब्रह्मणा चामुष्मिंल् लोके भवन्ति ।  
 अथैतन् मनुः श्राद्ध-शब्दं कर्म प्रोवाच १
+</details>
 
 </div>

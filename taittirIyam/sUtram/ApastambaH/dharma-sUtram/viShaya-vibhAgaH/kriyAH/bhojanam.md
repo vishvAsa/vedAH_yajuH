@@ -642,7 +642,9 @@ unicode_script: devanagari
 
 ## भोज्यता परिकरजन्या
 ### पाचक-परिवेषक-पङ्क्त्यादौ
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/16/21_aprayatopahatamannamaprayatan_na_tvabhojyam.md">
+<div class="js_include" newlevelforh1="b[]" title="1/05/16/21" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/16/21_aprayatopahatamannamaprayatan_na_tvabhojyam.md">
+
+<details><summary>**1/05/16/21 …{Loading}…**</summary>
 
 अप्रयतोपहतम् अन्नम् अप्रयतं, न त्व् अभोज्यम् २१
 
@@ -656,393 +658,589 @@ unicode_script: devanagari
 प्रयतं भवति  
 भोज्यं च ।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/16/22_aprayatena_tu_shUdreNopahRtamabhojyam.md">
+<div class="js_include" newlevelforh1="b[]" title="1/05/16/22" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/16/22_aprayatena_tu_shUdreNopahRtamabhojyam.md">
+
+<details><summary>**1/05/16/22 …{Loading}…**</summary>
 
 अप्रयतेन तु शूद्रेणोपहृतम् अभोज्यम् २२
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/16/28_padA_vopahatam.md">
+<div class="js_include" newlevelforh1="b[]" title="1/05/16/28" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/16/28_padA_vopahatam.md">
+
+<details><summary>**1/05/16/28 …{Loading}…**</summary>
 
 पदा वोपहतम् २८
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/16/29_sichA_vA.md">
+<div class="js_include" newlevelforh1="b[]" title="1/05/16/29" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/16/29_sichA_vA.md">
+
+<details><summary>**1/05/16/29 …{Loading}…**</summary>
 
 सिचा +++(वस्त्राञ्चलेन)+++ वा २९
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/16/30_shunA_vApapAtreNa_vA.md">
+<div class="js_include" newlevelforh1="b[]" title="1/05/16/30" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/16/30_shunA_vApapAtreNa_vA.md">
+
+<details><summary>**1/05/16/30 …{Loading}…**</summary>
 
 शुना वापपात्रेण वा दृष्टम् ३०
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/16/31_sichA_vopahRtam.md">
+<div class="js_include" newlevelforh1="b[]" title="1/05/16/31" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/16/31_sichA_vopahRtam.md">
+
+<details><summary>**1/05/16/31 …{Loading}…**</summary>
 
 सिचा वोपहृतम् ३१
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/16/32_dAsyA_vA_naktamAhRtam.md">
+<div class="js_include" newlevelforh1="b[]" title="1/05/16/32" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/16/32_dAsyA_vA_naktamAhRtam.md">
+
+<details><summary>**1/05/16/32 …{Loading}…**</summary>
 
 दास्या वा नक्तमाहृतम् ३२
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/16/33_bhunjAnaM_vA.md">
+<div class="js_include" newlevelforh1="b[]" title="1/05/16/33" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/16/33_bhunjAnaM_vA.md">
+
+<details><summary>**1/05/16/33 …{Loading}…**</summary>
 
 भुञ्जानं वा ३३
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/01_yatra_shUdra_upaspRshet.md">
+<div class="js_include" newlevelforh1="b[]" title="1/05/17/01" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/01_yatra_shUdra_upaspRshet.md">
+
+<details><summary>**1/05/17/01 …{Loading}…**</summary>
 
 यत्र शूद्र उपस्पृशेत् १
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/02_anarhadbhirvA_samAnapanktau.md">
+<div class="js_include" newlevelforh1="b[]" title="1/05/17/02" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/02_anarhadbhirvA_samAnapanktau.md">
+
+<details><summary>**1/05/17/02 …{Loading}…**</summary>
 
 अनर्हद्भिर्वा समानपङ्क्तौ २
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/03_bhunjAneShu_va_yatrAnUtthAyochChiShTam.md">
+<div class="js_include" newlevelforh1="b[]" title="1/05/17/03" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/03_bhunjAneShu_va_yatrAnUtthAyochChiShTam.md">
+
+<details><summary>**1/05/17/03 …{Loading}…**</summary>
 
 भुञ्जानेषु व यत्रानूत्थायोच्छिष्टं प्रयच्छेदाचामेद्वा ३
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/04_kutsayitvA_vA_yatrAnnan.md">
+<div class="js_include" newlevelforh1="b[]" title="1/05/17/04" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/04_kutsayitvA_vA_yatrAnnan.md">
+
+<details><summary>**1/05/17/04 …{Loading}…**</summary>
 
 कुत्सयित्वा वा यत्रान्नं दद्युः ४
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/05_manuShyairavaghrAtamanyairvAmedhyaiH.md">
+<div class="js_include" newlevelforh1="b[]" title="1/05/17/05" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/05_manuShyairavaghrAtamanyairvAmedhyaiH.md">
+
+<details><summary>**1/05/17/05 …{Loading}…**</summary>
 
 मनुष्यैरवघ्रातमन्यैर्वामेध्यैः ५
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/03/02_bhAShA~N_kAsa~N_xavayumityabhimukho.md">
+<div class="js_include" newlevelforh1="b[]" title="2/02/03/02" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/03/02_bhAShA~N_kAsa~N_xavayumityabhimukho.md">
+
+<details><summary>**2/02/03/02 …{Loading}…**</summary>
 
 भाषां कासं क्षवयुमित्यभिमुखो ऽन्नं वर्जयेत् २
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/03/03_keshAnangaM_vAsashchAlabhyApa_upaspRshet.md">
+<div class="js_include" newlevelforh1="b[]" title="2/02/03/03" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/03/03_keshAnangaM_vAsashchAlabhyApa_upaspRshet.md">
+
+<details><summary>**2/02/03/03 …{Loading}…**</summary>
 
 केशानङ्गं वासश्चालभ्याप उपस्पृशेत् ३
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/03/04_AryAdhiShThitA_vA_shUdrAH.md">
+<div class="js_include" newlevelforh1="b[]" title="2/02/03/04" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/03/04_AryAdhiShThitA_vA_shUdrAH.md">
+
+<details><summary>**2/02/03/04 …{Loading}…**</summary>
 
 आर्याधिष्ठिता वा शूद्राः संस्कर्तारः स्युः ४
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/03/05_teShAM_sa_evAchamanakalpaH.md">
+<div class="js_include" newlevelforh1="b[]" title="2/02/03/05" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/03/05_teShAM_sa_evAchamanakalpaH.md">
+
+<details><summary>**2/02/03/05 …{Loading}…**</summary>
 
 तेषां स एवाचमनकल्पः ५
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/03/06_adhikamaharahaH_keshashmashrulomanakhavApanam.md">
+<div class="js_include" newlevelforh1="b[]" title="2/02/03/06" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/03/06_adhikamaharahaH_keshashmashrulomanakhavApanam.md">
+
+<details><summary>**2/02/03/06 …{Loading}…**</summary>
 
 अधिकमहरहः केशश्मश्रुलोमनखवापनम् ६
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/03/07_udakopasparshana~n_cha_saha.md">
+<div class="js_include" newlevelforh1="b[]" title="2/02/03/07" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/03/07_udakopasparshana~n_cha_saha.md">
+
+<details><summary>**2/02/03/07 …{Loading}…**</summary>
 
 उदकोपस्पर्शनं च सह वाससा ७
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/03/08_api_vAShTamIShveva_parvasu.md">
+<div class="js_include" newlevelforh1="b[]" title="2/02/03/08" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/03/08_api_vAShTamIShveva_parvasu.md">
+
+<details><summary>**2/02/03/08 …{Loading}…**</summary>
 
 अपि वाष्टमीष्वेव पर्वसु वा वपेरन् ८
+</details>
 
 </div>
   
 
 ### पाके
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/15/13_yasyAgnau_na_kriyate.md">
+<div class="js_include" newlevelforh1="b[]" title="2/06/15/13" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/15/13_yasyAgnau_na_kriyate.md">
+
+<details><summary>**2/06/15/13 …{Loading}…**</summary>
 
 यस्याग्नौ न क्रियते यस्य चाग्रं न दीयते न तद्भोक्तव्यम् १३
+</details>
 
 </div>
   
 
 ### दातरि
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/14_nApaNIyamannamashnIyAt.md">
+<div class="js_include" newlevelforh1="b[]" title="1/05/17/14" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/14_nApaNIyamannamashnIyAt.md">
+
+<details><summary>**1/05/17/14 …{Loading}…**</summary>
 
 नाऽऽपणीयम् +++(पक्वं)+++ अन्नम् अश्नीयात् १४
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/15_tathA_rasAn_AmamAMsamadhulavaNAnIti.md">
+<div class="js_include" newlevelforh1="b[]" title="1/05/17/15" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/15_tathA_rasAn_AmamAMsamadhulavaNAnIti.md">
+
+<details><summary>**1/05/17/15 …{Loading}…**</summary>
 
 तथा +++(ऽऽपणियान्)+++ रसान् +++(नाश्नीयात्)+++, आम+++(=अपक्व)+++-मांस-मधु-लवणानीति परिहाप्य १५
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/16_tailasarpiShI_tUpayojayedudake-vadhAya.md">
+<div class="js_include" newlevelforh1="b[]" title="1/05/17/16" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/17/16_tailasarpiShI_tUpayojayedudake-vadhAya.md">
+
+<details><summary>**1/05/17/16 …{Loading}…**</summary>
 
 तैल-सर्पिषी तूपयोजयेद् उदकेऽवधाय १६
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/01_madhvAmam_mArgam_mAMsam.md">
+<div class="js_include" newlevelforh1="b[]" title="1/06/18/01" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/01_madhvAmam_mArgam_mAMsam.md">
+
+<details><summary>**1/06/18/01 …{Loading}…**</summary>
 
 मध्वामं मार्गं मांसं भूमिर् मूलफलानि रक्षा-गव्यूतिर्-निवेशनं युग्यघासश् चोग्रतः प्रतिगृह्याणि १
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/02_etAnyapi_nAnantevAsyAhRtAnIti_hArItaH.md">
+<div class="js_include" newlevelforh1="b[]" title="1/06/18/02" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/02_etAnyapi_nAnantevAsyAhRtAnIti_hArItaH.md">
+
+<details><summary>**1/06/18/02 …{Loading}…**</summary>
 
 एतान्यपि नानन्तेवास्याहृतानीति हारीतः २
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/03_AmaM_vA_gRhNIran.md">
+<div class="js_include" newlevelforh1="b[]" title="1/06/18/03" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/03_AmaM_vA_gRhNIran.md">
+
+<details><summary>**1/06/18/03 …{Loading}…**</summary>
 
 आमं वा गृह्णीरन् ३
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/04_kRtAnnasya_vA_virasasya.md">
+<div class="js_include" newlevelforh1="b[]" title="1/06/18/04" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/04_kRtAnnasya_vA_virasasya.md">
+
+<details><summary>**1/06/18/04 …{Loading}…**</summary>
 
 कृतान्नस्य वा विरसस्य ४
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/09_trayANAM_varNAnA~N_xatriyaprabhRtInAM.md">
+<div class="js_include" newlevelforh1="b[]" title="1/06/18/09" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/09_trayANAM_varNAnA~N_xatriyaprabhRtInAM.md">
+
+<details><summary>**1/06/18/09 …{Loading}…**</summary>
 
 त्रयाणां वर्णानां क्षत्रियप्रभृतीनां समावृत्तेन न भोक्तव्यम् ९
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/13_sarvavarNAnAM_svadharme_vartamAnAnAm.md">
+<div class="js_include" newlevelforh1="b[]" title="1/06/18/13" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/13_sarvavarNAnAM_svadharme_vartamAnAnAm.md">
+
+<details><summary>**1/06/18/13 …{Loading}…**</summary>
 
 सर्ववर्णानां स्वधर्मे वर्तमानानां भोक्तव्यं, शूद्र-वर्जमित्येके १३
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/11_yatrAprAyashchitta~N_karmAsevate_prAyashchittavati.md">
+<div class="js_include" newlevelforh1="b[]" title="1/06/18/11" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/11_yatrAprAyashchitta~N_karmAsevate_prAyashchittavati.md">
+
+<details><summary>**1/06/18/11 …{Loading}…**</summary>
 
 यत्राप्रायश्चित्तं कर्मासेवते प्रायश्चित्तवति ११
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/12_charitanirveShasya_bhoktavyam.md">
+<div class="js_include" newlevelforh1="b[]" title="1/06/18/12" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/12_charitanirveShasya_bhoktavyam.md">
+
+<details><summary>**1/06/18/12 …{Loading}…**</summary>
 
 चरितनिर्वेषस्य भोक्तव्यम् १२
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/16_sanghAnnamabhojyam.md">
+<div class="js_include" newlevelforh1="b[]" title="1/06/18/16" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/16_sanghAnnamabhojyam.md">
+
+<details><summary>**1/06/18/16 …{Loading}…**</summary>
 
 सङ्घान्नमभोज्यम् १६
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/17_parikruShTa~n_cha.md">
+<div class="js_include" newlevelforh1="b[]" title="1/06/18/17" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/17_parikruShTa~n_cha.md">
+
+<details><summary>**1/06/18/17 …{Loading}…**</summary>
 
 परिक्रुष्टं +++(=सर्वान् भोजनार्थम् आह्वान्ति ये)+++ च १७
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/18_sarveShA~n_cha_shilpAjIvAnAm.md">
+<div class="js_include" newlevelforh1="b[]" title="1/06/18/18" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/18_sarveShA~n_cha_shilpAjIvAnAm.md">
+
+<details><summary>**1/06/18/18 …{Loading}…**</summary>
 
 सर्वेषां च शिल्पाजीवानाम् १८
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/19_ye_cha_shastramAjIvanti.md">
+<div class="js_include" newlevelforh1="b[]" title="1/06/18/19" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/19_ye_cha_shastramAjIvanti.md">
+
+<details><summary>**1/06/18/19 …{Loading}…**</summary>
 
 ये च शस्त्रमाजीवन्ति १९
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/20_ye_chAdhim.md">
+<div class="js_include" newlevelforh1="b[]" title="1/06/18/20" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/20_ye_chAdhim.md">
+
+<details><summary>**1/06/18/20 …{Loading}…**</summary>
 
 ये चाधिम् +++(भाटकग्राहकाः)+++ २०
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/21_bhiShak.md">
+<div class="js_include" newlevelforh1="b[]" title="1/06/18/21" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/21_bhiShak.md">
+
+<details><summary>**1/06/18/21 …{Loading}…**</summary>
 
 भिषक् २१
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/22_vArdhuShikaH.md">
+<div class="js_include" newlevelforh1="b[]" title="1/06/18/22" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/22_vArdhuShikaH.md">
+
+<details><summary>**1/06/18/22 …{Loading}…**</summary>
 
 वार्धुषिकः +++(वृद्ध्युपजीविनः)+++ २२
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/23_dIxito-krItarAjakaH.md">
+<div class="js_include" newlevelforh1="b[]" title="1/06/18/23" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/23_dIxito-krItarAjakaH.md">
+
+<details><summary>**1/06/18/23 …{Loading}…**</summary>
 
 दीक्षितोऽक्रीतराजकः २३
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/24_agnIShomIyasaMsthAyAmeva.md">
+<div class="js_include" newlevelforh1="b[]" title="1/06/18/24" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/24_agnIShomIyasaMsthAyAmeva.md">
+
+<details><summary>**1/06/18/24 …{Loading}…**</summary>
 
 अग्नीषोमीयसंस्थायामेव २४
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/25_hutAyAM_vA_vapAyAn.md">
+<div class="js_include" newlevelforh1="b[]" title="1/06/18/25" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/25_hutAyAM_vA_vapAyAn.md">
+
+<details><summary>**1/06/18/25 …{Loading}…**</summary>
 
 हुतायां वा वपायां दीक्षितस्य भोक्तव्यम् २५
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/26_yajnArthe_vA_nirdiShTe.md">
+<div class="js_include" newlevelforh1="b[]" title="1/06/18/26" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/26_yajnArthe_vA_nirdiShTe.md">
+
+<details><summary>**1/06/18/26 …{Loading}…**</summary>
 
 यज्ञार्थे वा निर्दिष्टे शेषाद्भुञ्जीरन्न् इति हि ब्राह्मणम् २६
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/27_klIbaH.md">
+<div class="js_include" newlevelforh1="b[]" title="1/06/18/27" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/27_klIbaH.md">
+
+<details><summary>**1/06/18/27 …{Loading}…**</summary>
 
 क्लीबः २७
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/28_rAjnAm_praiShakaraH.md">
+<div class="js_include" newlevelforh1="b[]" title="1/06/18/28" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/28_rAjnAm_praiShakaraH.md">
+
+<details><summary>**1/06/18/28 …{Loading}…**</summary>
 
 राज्ञां प्रैषकरः २८
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/29_ahaviryAjI.md">
+<div class="js_include" newlevelforh1="b[]" title="1/06/18/29" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/29_ahaviryAjI.md">
+
+<details><summary>**1/06/18/29 …{Loading}…**</summary>
 
 अहविर्याजी २९
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/30_chArI.md">
+<div class="js_include" newlevelforh1="b[]" title="1/06/18/30" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/30_chArI.md">
+
+<details><summary>**1/06/18/30 …{Loading}…**</summary>
 
 चारी ३०
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/31_avidhinA_cha_pravrajitaH.md">
+<div class="js_include" newlevelforh1="b[]" title="1/06/18/31" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/31_avidhinA_cha_pravrajitaH.md">
+
+<details><summary>**1/06/18/31 …{Loading}…**</summary>
 
 अविधिना च प्रव्रजितः ३१
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/32_yashchAgnInapAsyati.md">
+<div class="js_include" newlevelforh1="b[]" title="1/06/18/32" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/32_yashchAgnInapAsyati.md">
+
+<details><summary>**1/06/18/32 …{Loading}…**</summary>
 
 यश्चाग्नीनपास्यति ३२
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/33_yashcha_sarvAnvarjayate_sarvAnnI.md">
+<div class="js_include" newlevelforh1="b[]" title="1/06/18/33" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/33_yashcha_sarvAnvarjayate_sarvAnnI.md">
+
+<details><summary>**1/06/18/33 …{Loading}…**</summary>
 
 यश्च सर्वान्वर्जयते, सर्वान्नी च श्रोत्रियो +++(ऽपि)+++, निराकृतिर् +++(=अस्वाध्यायः)+++ वृषलीपतिः ३३
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/19/01_matta_unmatto_baddho.md">
+<div class="js_include" newlevelforh1="b[]" title="1/06/19/01" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/19/01_matta_unmatto_baddho.md">
+
+<details><summary>**1/06/19/01 …{Loading}…**</summary>
 
 मत्त उन्मत्तो बद्धो ऽणिकः+++(=पुत्राच् छ्रुतग्राही)+++ प्रत्युपविष्टो+++(?)+++ यश्च प्रत्युपवेशयते तावन्तं कालम् १ …
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/19/02_ka_AshyAnnaH.md">
+<div class="js_include" newlevelforh1="b[]" title="1/06/19/02" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/19/02_ka_AshyAnnaH.md">
+
+<details><summary>**1/06/19/02 …{Loading}…**</summary>
 
 क अश्यान्नः २  
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/19/03_ya_Ipsed_iti.md">
+<div class="js_include" newlevelforh1="b[]" title="1/06/19/03" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/19/03_ya_Ipsed_iti.md">
+
+<details><summary>**1/06/19/03 …{Loading}…**</summary>
 
 य ईप्सेद्+++(=प्रार्थ्यते [भोक्तव्यमिति, तस्यान्न])+++ इति कण्वः ३
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/19/04_puNya_iti_kautsaH.md">
+<div class="js_include" newlevelforh1="b[]" title="1/06/19/04" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/19/04_puNya_iti_kautsaH.md">
+
+<details><summary>**1/06/19/04 …{Loading}…**</summary>
 
 पुण्य +++(अन्न)+++ इति कौत्सः ४
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/19/05_yaH_kashchid_dadyAditi.md">
+<div class="js_include" newlevelforh1="b[]" title="1/06/19/05" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/19/05_yaH_kashchid_dadyAditi.md">
+
+<details><summary>**1/06/19/05 …{Loading}…**</summary>
 
 यः कश्चिद् दद्यादिति वार्ष्यायणिः +++(आपस्तम्बेनायम् पक्षो निराकरिष्यते ऽग्रे)+++५  
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/19/06_yadi_hi_rajaH.md">
+<div class="js_include" newlevelforh1="b[]" title="1/06/19/06" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/19/06_yadi_hi_rajaH.md">
+
+<details><summary>**1/06/19/06 …{Loading}…**</summary>
 
 यदि ह रजः +++(=पापम्)+++ स्थावरं - पुरुषे भोक्तव्यम्, अथ चेच् चलं - दानेन निर्दोषो भवति ६
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/19/07_shuddhA_bhixA_bhoktavyA.md">
+<div class="js_include" newlevelforh1="b[]" title="1/06/19/07" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/19/07_shuddhA_bhixA_bhoktavyA.md">
+
+<details><summary>**1/06/19/07 …{Loading}…**</summary>
 
 शुद्धा भिक्षा भोक्तव्या +++(इति)+++ एककुणिकौ काण्वकुत्सौ तथा पुष्करसादिः ७
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/19/08_sarvatopetaM_vArShyAyaNIyam.md">
+<div class="js_include" newlevelforh1="b[]" title="1/06/19/08" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/19/08_sarvatopetaM_vArShyAyaNIyam.md">
+
+<details><summary>**1/06/19/08 …{Loading}…**</summary>
 
 सर्वतोपेतं +++(=अप्रार्थ्य लब्धम् भोज्यमिति)+++ वार्ष्यायणीयम्  +++(मतम् - आपस्तम्बो निराकरिष्यत्यग्रे)+++८   
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/19/09_puNyasyepsato.md">
+<div class="js_include" newlevelforh1="b[]" title="1/06/19/09" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/19/09_puNyasyepsato.md">
+
+<details><summary>**1/06/19/09 …{Loading}…**</summary>
 
 पुण्यस्येप्सतो +++(ऽन्नस्य)+++ भोक्तव्यम् +++(इत्यापस्तम्बनिश्चयः)+++ ९
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/19/10_puNyasyApy_anIpsato_na.md">
+<div class="js_include" newlevelforh1="b[]" title="1/06/19/10" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/19/10_puNyasyApy_anIpsato_na.md">
+
+<details><summary>**1/06/19/10 …{Loading}…**</summary>
 
 पुण्यस्याप्य् +++(दातुम्)+++ अनीप्सतो न भोक्तव्यम् १०
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/19/11_yataH_kutashchAbhyudyatam_bhoktavyam.md">
+<div class="js_include" newlevelforh1="b[]" title="1/06/19/11" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/19/11_yataH_kutashchAbhyudyatam_bhoktavyam.md">
+
+<details><summary>**1/06/19/11 …{Loading}…**</summary>
 
 यतः कुतश्चाभ्युद्यतं भोक्तव्यम् ११
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/19/12_nAnaniyogapUrvamiti_hArItaH.md">
+<div class="js_include" newlevelforh1="b[]" title="1/06/19/12" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/19/12_nAnaniyogapUrvamiti_hArItaH.md">
+
+<details><summary>**1/06/19/12 …{Loading}…**</summary>
 
 नाननियोगपूर्वमिति हारीतः १२
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/19/13_atha_purANe_shlokAvudAharanti.md">
+<div class="js_include" newlevelforh1="b[]" title="1/06/19/13" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/19/13_atha_purANe_shlokAvudAharanti.md">
+
+<details><summary>**1/06/19/13 …{Loading}…**</summary>
 
 अथ पुराणे श्लोकावुदाहरन्ति । उद्यतामाहृतां भिक्षां पुरस्तादप्रवेदिताम् । भोज्यां मेने प्रजापतिरपि दुष्कृतकारिणः । न तस्य पितरोऽश्नन्ति दश वर्षाणि पञ्च च । न च हव्यं वहत्यग्निर्यस्तामभ्यधिमन्यत इति १३
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/19/14_chikitsakasya_mRgayoH_shalyakRntasya.md">
+<div class="js_include" newlevelforh1="b[]" title="1/06/19/14" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/19/14_chikitsakasya_mRgayoH_shalyakRntasya.md">
+
+<details><summary>**1/06/19/14 …{Loading}…**</summary>
 
 चिकित्सकस्य मृगयोः शल्यकृन्तस्य पाशिनः । कुलटायाः षण्ढकस्य च तेषामन्नमनाद्यम् १४
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/19/15_athApyudAharanti_annAde_bhrUNahA.md">
+<div class="js_include" newlevelforh1="b[]" title="1/06/19/15" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/19/15_athApyudAharanti_annAde_bhrUNahA.md">
+
+<details><summary>**1/06/19/15 …{Loading}…**</summary>
 
 अथाप्युदाहरन्ति । अन्नादे भ्रूणहा मार्ष्टि अनेना अभिशंसति । स्तेनः प्रमुक्तो राजनि याचन्ननृतसङ्कर इति १५
+</details>
 
 </div>

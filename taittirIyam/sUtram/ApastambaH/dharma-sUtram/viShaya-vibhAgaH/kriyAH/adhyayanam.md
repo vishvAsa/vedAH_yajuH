@@ -836,59 +836,86 @@ unicode_script: devanagari
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/10/24_pUtIgandhaH.md">
+<div class="js_include" newlevelforh1="b[]" title="1/03/10/24" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/10/24_pUtIgandhaH.md">
+
+<details><summary>**1/03/10/24 …{Loading}…**</summary>
 
 पूतीगन्धः २४
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/11/08_vAyurghoShavAnbhUmau_vA_tRNa.md">
+<div class="js_include" newlevelforh1="b[]" title="1/03/11/08" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/11/08_vAyurghoShavAnbhUmau_vA_tRNa.md">
+
+<details><summary>**1/03/11/08 …{Loading}…**</summary>
 
 वायुर्घोषवान्भूमौ वा तृण संवाहो वर्षति वा यत्र धाराः प्रवहेत् ८
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/11/09_grAmAraNyayoshcha_sandhau.md">
+<div class="js_include" newlevelforh1="b[]" title="1/03/11/09" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/11/09_grAmAraNyayoshcha_sandhau.md">
+
+<details><summary>**1/03/11/09 …{Loading}…**</summary>
 
 ग्रामारण्ययोश्च सन्धौ ९
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/11/10_mahApathe_cha.md">
+<div class="js_include" newlevelforh1="b[]" title="1/03/11/10" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/11/10_mahApathe_cha.md">
+
+<details><summary>**1/03/11/10 …{Loading}…**</summary>
 
 महापथे च १०
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/11/16_tathA_vRxamArUDhaH.md">
+<div class="js_include" newlevelforh1="b[]" title="1/03/11/16" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/11/16_tathA_vRxamArUDhaH.md">
+
+<details><summary>**1/03/11/16 …{Loading}…**</summary>
 
 तथा वृक्षमारूढः १६
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/11/17_apsu_chAvagADhaH.md">
+<div class="js_include" newlevelforh1="b[]" title="1/03/11/17" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/11/17_apsu_chAvagADhaH.md">
+
+<details><summary>**1/03/11/17 …{Loading}…**</summary>
 
 अप्सु चावगाढः १७
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/11/18_nakta~n_chApAvRte.md">
+<div class="js_include" newlevelforh1="b[]" title="1/03/11/18" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/11/18_nakta~n_chApAvRte.md">
+
+<details><summary>**1/03/11/18 …{Loading}…**</summary>
 
 नक्तं चापावृते १८
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/11/19_divA_chApihite.md">
+<div class="js_include" newlevelforh1="b[]" title="1/03/11/19" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/11/19_divA_chApihite.md">
+
+<details><summary>**1/03/11/19 …{Loading}…**</summary>
 
 दिवा चापिहिते १९
+</details>
 
 </div>
   
 
 ## क्रमः
-<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/10/17_ubhayata_upasangrahaNamadhijigAMsamAnasyAdhItya_cha.md">
+<div class="js_include" newlevelforh1="b[]" title="1/03/10/17" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/10/17_ubhayata_upasangrahaNamadhijigAMsamAnasyAdhItya_cha.md">
+
+<details><summary>**1/03/10/17 …{Loading}…**</summary>
 
 उभयत उपसंग्रहणम् अधिजिगांसमानस्याधीत्य च १७+++(5)+++
+</details>
 
 </div>
    
