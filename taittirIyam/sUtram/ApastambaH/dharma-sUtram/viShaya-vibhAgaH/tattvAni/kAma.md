@@ -8,14 +8,20 @@ unicode_script: devanagari
 ---
 कामासक्तौ पापसम्भवो ऽन्यत्रोक्तः।
 
-<div class="js_include" newlevelforh1="0" title="2/08/20/22" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/20/22_bhoktA_cha_dharmAvipratiShiddhAnbhogAn.md">
+<div class="js_include" newlevelforh1="b[]" title="2/08/20/22" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/20/22_bhoktA_cha_dharmAvipratiShiddhAnbhogAn.md">
+
+<details><summary>**2/08/20/22 …{Loading}…**</summary>
 
 भोक्ता च धर्माविप्रतिषिद्धान् भोगान् +++(5)+++२२
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="0" title="2/08/20/23" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/20/23_evamubhau_lokA_vabhijayati.md">
+<div class="js_include" newlevelforh1="b[]" title="2/08/20/23" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/20/23_evamubhau_lokA_vabhijayati.md">
+
+<details><summary>**2/08/20/23 …{Loading}…**</summary>
 
 एवम् उभौ लोका वभिजयति २३
+</details>
 
 </div>

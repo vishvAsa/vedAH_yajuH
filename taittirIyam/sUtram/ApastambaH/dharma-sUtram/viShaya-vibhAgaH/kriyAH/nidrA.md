@@ -7,60 +7,89 @@ title: निद्रा
 unicode_script: devanagari
 
 ---
-<div class="js_include" newlevelforh1="0" title="1/11/32/11" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/11_A_nishAyA_jAgaraNam.md">
+<div class="js_include" newlevelforh1="b[]" title="1/11/32/11" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/11_A_nishAyA_jAgaraNam.md">
+
+<details><summary>**1/11/32/11 …{Loading}…**</summary>
 
 आ +++(मध्य)+++निशाया जागरणम् +++(स्यात्)+++ ११
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="0" title="1/11/32/15" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/15_nApararAtramutthAyAnadhyAya_iti_saMvishet.md">
+<div class="js_include" newlevelforh1="b[]" title="1/11/32/15" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/15_nApararAtramutthAyAnadhyAya_iti_saMvishet.md">
+
+<details><summary>**1/11/32/15 …{Loading}…**</summary>
 
 नापररात्रम् उत्थायानध्याय इति संविशेत् १५
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="0" title="1/11/32/16" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/16_kAmamapash_shayIta.md">
+<div class="js_include" newlevelforh1="b[]" title="1/11/32/16" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/16_kAmamapash_shayIta.md">
+
+<details><summary>**1/11/32/16 …{Loading}…**</summary>
 
 कामम् +++(स्तम्बादिषु लीनः)+++ अपश्-शयीत १६
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="0" title="1/11/32/17" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/17_manasA_vAdhIyIta.md">
+<div class="js_include" newlevelforh1="b[]" title="1/11/32/17" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/32/17_manasA_vAdhIyIta.md">
+
+<details><summary>**1/11/32/17 …{Loading}…**</summary>
 
 मनसा वाधीयीत १७
+</details>
 
 </div>
   
 
 ## सन्ध्या-निद्रा-प्रायश्चित्तम्
-<div class="js_include" newlevelforh1="0" title="2/05/12/13" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/13_svapann_abhinimrukto_nAshvAn.md">
+<div class="js_include" newlevelforh1="b[]" title="2/05/12/13" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/13_svapann_abhinimrukto_nAshvAn.md">
+
+<details><summary>**2/05/12/13 …{Loading}…**</summary>
 
 स्वपन्न् अभिनिम्रुक्तो +++(=सूर्यास्तसमये निद्रालुः)+++ नाश्वान् +++(=अनश्नन्)+++ वाग्यतो रात्रिमासीत । श्वोभूत उदकमुपस्पृश्य वाचं विसृजेत् १३
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="0" title="2/05/12/14" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/14_svapann_abhyudito_nAshvAn.md">
+<div class="js_include" newlevelforh1="b[]" title="2/05/12/14" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/14_svapann_abhyudito_nAshvAn.md">
+
+<details><summary>**2/05/12/14 …{Loading}…**</summary>
 
 स्वपन्न् अभ्युदितो +++(नाम सूर्योदये निद्रालुः)+++ नाश्वान्+++(=अनश्नन्)+++ वाग्यतोऽहस्तिष्ठेत् १४
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="0" title="2/05/12/15" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/15_AtamitoH_prANamAyachChedityeke.md">
+<div class="js_include" newlevelforh1="b[]" title="2/05/12/15" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/15_AtamitoH_prANamAyachChedityeke.md">
+
+<details><summary>**2/05/12/15 …{Loading}…**</summary>
 
 आतमितोः प्राणमायच्छेदित्येके +++(तावद् वा प्राणान् आयमयेद् यावद् अङ्गग्लानिर् न स्यात्)+++१५  
+
+</details>
 
 </div>
   
 
 ## दुःस्वप्ने
-<div class="js_include" newlevelforh1="0" title="2/05/12/15" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/15_AtamitoH_prANamAyachChedityeke.md">
+<div class="js_include" newlevelforh1="b[]" title="2/05/12/15" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/15_AtamitoH_prANamAyachChedityeke.md">
+
+<details><summary>**2/05/12/15 …{Loading}…**</summary>
 
 आतमितोः प्राणमायच्छेदित्येके +++(तावद् वा प्राणान् आयमयेद् यावद् अङ्गग्लानिर् न स्यात्)+++१५  
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="0" title="2/05/12/16" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/16_svapnam_vA_pApakam_dRushtvA.md">
+<div class="js_include" newlevelforh1="b[]" title="2/05/12/16" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/16_svapnam_vA_pApakam_dRushtvA.md">
+
+<details><summary>**2/05/12/16 …{Loading}…**</summary>
 
 स्वप्नं वा पापकं दृष्ट्वा १६
+</details>
 
 </div>

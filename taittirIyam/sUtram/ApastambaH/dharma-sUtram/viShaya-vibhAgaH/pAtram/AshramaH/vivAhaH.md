@@ -7,13 +7,13 @@ unicode_script: devanagari
 ---
 ## कन्यादाने निषेधाः
 
-<div class="js_include" newlevelforh1="0" title="2/05/11/15" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/11/15_sagotrAya_duhitaran_na.md">
+<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/11/15_sagotrAya_duhitaran_na.md">
 
 सगोत्राय दुहितरं न प्रयच्छेत् १५
 
 </div>
 
-<div class="js_include" newlevelforh1="0" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/11/16_mAtushcha_yonisambandhebhyaH.md">
+<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/11/16_mAtushcha_yonisambandhebhyaH.md">
 
 मातुश्च योनिसंबन्धेभ्यः १६
 
@@ -22,49 +22,49 @@ unicode_script: devanagari
 
 ## विवाहप्रकाराः
 
-<div class="js_include" newlevelforh1="0" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/11/17_brAhme_vivAhe_bandhushIlashrutArogyANi.md">
+<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/11/17_brAhme_vivAhe_bandhushIlashrutArogyANi.md">
 
 ब्राह्मे विवाहे बन्धुशीलश्रुतारोग्याणि बुद्ध्वा प्रजासहत्वकर्मभ्यः प्रतिपादयेच्छक्तिविषयेणालंकृत्य १७
 
 </div>
 
-<div class="js_include" newlevelforh1="0" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/11/18_ArShe_duhitRmate_mithunau.md">
+<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/11/18_ArShe_duhitRmate_mithunau.md">
 
 आर्षे दुहितृमते मिथुनौ गावौ देयौ १८
 
 </div>
 
-<div class="js_include" newlevelforh1="0" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/11/19_daive_yajnatantra_Rtvije.md">
+<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/11/19_daive_yajnatantra_Rtvije.md">
 
 दैवे यज्ञतन्त्र ऋत्विजे प्रतिपादयेत् १९
 
 </div>
 
-<div class="js_include" newlevelforh1="0" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/11/20_mithaH_kAmAtsAMvartete_sa.md">
+<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/11/20_mithaH_kAmAtsAMvartete_sa.md">
 
 मिथः कामात्सांवर्तेते स गान्धर्वः २०
 
 </div>
 
-<div class="js_include" newlevelforh1="0" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/01_shaktiviShayeNa_dra_vyANi.md">
+<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/01_shaktiviShayeNa_dra_vyANi.md">
 
 शक्ति-विषयेण द्रव्याणि दत्वा वहेरन् - स आसुरः १
 
 </div>
 
-<div class="js_include" newlevelforh1="0" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/02_duhitRmataH_prothayitvA_vaheransa.md">
+<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/02_duhitRmataH_prothayitvA_vaheransa.md">
 
 दुहितृमतः प्रोथयित्वा वहेरन् - स राक्षसः २
 
 </div>
 
-<div class="js_include" newlevelforh1="0" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/03_teShAn_traya_AdyAH.md">
+<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/03_teShAn_traya_AdyAH.md">
 
 तेषां त्रय आद्याः प्रशस्ताः, पूर्वः पूर्वः श्रेयान् ३
 
 </div>
 
-<div class="js_include" newlevelforh1="0" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/04_yathA_yukto_vivAhastathA.md">
+<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/04_yathA_yukto_vivAhastathA.md">
 
 यथा युक्तो विवाहस् - तथा युक्ता प्रजा भवति ४
 
@@ -73,7 +73,7 @@ unicode_script: devanagari
 
 ## विवाह-विधिः
 
-<div class="js_include" newlevelforh1="0" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/13/11_vivAhe_duhitRmate_dAna~N.md">
+<div class="js_include" newlevelforh1="b[]" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/13/11_vivAhe_duhitRmate_dAna~N.md">
 
 विवाहे दुहितृमते दानं काम्यं धर्मार्थं श्रूयते तस्माद्दुहितृमतेऽधिरथं शतं देयं तन्मिथुया कुर्यादिति ११-१  
 
