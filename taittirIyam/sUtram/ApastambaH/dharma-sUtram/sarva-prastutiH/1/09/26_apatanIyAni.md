@@ -4,12 +4,16 @@ title = "२६ अपतनीयानि"
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/26/01_dhenvanaDuhoshchAkAraNAt.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 धेन्वनडुहोश्चाकारणात् १
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/26/01_dhenvanaDuhoshchAkAraNAt.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 1. (The same penance must be performed), if a milch-cow or a full-grown ox (has been slain), without a reason. [^1] 
@@ -29,17 +33,22 @@ title = "२६ अपतनीयानि"
 
     गौ० ध० २३. १८
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/26/02_dhuryavAhapravRttau_chetareShAm_prANinAm.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 धुर्यवाहप्रवृत्तौ चेतरेषां प्राणिनाम् २
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/26/02_dhuryavAhapravRttau_chetareShAm_prANinAm.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 2. And for other animals (which have no bones), if an ox-load of them has been killed. [^2] 
@@ -57,17 +66,22 @@ title = "२६ अपतनीयानि"
 
 [^२]: गौ० ध० २३, २०,
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/26/03_anAkroshyamAkrushyAnRtaM_voktvA_trirAtramaxIrAxArAlavaNabhojanam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अनाक्रोश्यमाक्रुश्यानृतं वोक्त्वा त्रिरात्रमक्षीराक्षारालवणभोजनं ३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/26/03_anAkroshyamAkrushyAnRtaM_voktvA_trirAtramaxIrAxArAlavaNabhojanam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 3. He who abuses a person who (on account of his venerability) ought not to be abused, or speaks an untruth (regarding any small matter) must abstain for three days from milk, pungent condiments, and salt. [^3] 
@@ -87,17 +101,22 @@ title = "२६ अपतनीयानि"
 
     वर्जनमाहुः इति क. पु
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/26/04_shUdrasya_saptarAtramabhojanam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 शूद्रस्य सप्तरात्रमभोजनम् ४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/26/04_shUdrasya_saptarAtramabhojanam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 4. (If the same sins have been committed) by a Śūdra, he must fast for seven days.
@@ -111,17 +130,22 @@ title = "२६ अपतनीयानि"
 **टीका**  
 शुद्रस्त्वनन्तरोक्तविषये सप्तरात्रमुपवसेत् ॥ ४॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/26/05_strINA~n_chaivam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 स्त्रीणां चैवम् ५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/26/05_strINA~n_chaivam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 5. And the same (penances must also be performed) by women, (but not those which follow). [^4] 
@@ -144,17 +168,22 @@ title = "२६ अपतनीयानि"
 
     प्रायश्चित्तं प्राप्तम्, तन्नियम' इति क. पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/26/06_yeShvAbhishastyan_teShAmekAnga~n_ChittvAprANahiMsAyAm.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 येष्वाभिशस्त्यं तेषामेकाङ्गं छित्त्वाप्राणहिंसायाम् +++(ततः शूद्रहप्रायश्चित्तम्)+++ ६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/26/06_yeShvAbhishastyan_teShAmekAnga~n_ChittvAprANahiMsAyAm.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 6. He who cuts off a limb of a person for whose murder he would become an Abhiśasta (must perform the penance prescribed for killing a Śūdra), if the life (of the person injured) has not been endangered.
@@ -172,10 +201,13 @@ title = "२६ अपतनीयानि"
 
     न भज्यते इति घ. पु. ।
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/26/07_anAryavapaishunapratiShiddhA-chAreShvabhaxyAbhojyApeyaprAshane_shUdrAyA~n_cha.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
 
 अनार्यव-पैशुन-प्रतिषिद्धाऽचारेष्व्  
 अभक्ष्याऽभोज्याऽपेय-प्राशने  
@@ -183,11 +215,13 @@ title = "२६ अपतनीयानि"
 दोषवच् च कर्माभिसंधिपूर्वं कृत्वा ऽनभिसंधिपूर्वं वा  
 ऽब्लिङ्गाभिर् अप उपस्पृशेद्  
 वारुणीभिर् वान्यैर् वा पवित्रैर् यथा कर्माभ्यासः ७
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/26/07_anAryavapaishunapratiShiddhA-chAreShvabhaxyAbhojyApeyaprAshane_shUdrAyA~n_cha.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 7. He who has been guilty of conduct unworthy of an Aryan, of calumniating others, of actions contrary to the rule of conduct, of eating or drinking things forbidden, of connection with a woman of the Śūdra caste, of an unnatural crime, of performing; magic rites with intent (to harm his enemies) or (of hurting others) unintentionally, shall bathe and sprinkle himself with water, reciting the (seven) verses addressed to the Waters, or the verses addressed to Varuṇa, or (other verses chosen from the Anuvāka, called) Pavitra, in proportion to the frequency with which the crime has been committed. [^5] 
@@ -227,17 +261,22 @@ title = "२६ अपतनीयानि"
 
 [^२५]: कृतः तथोपस्पृशेत्० इति. क. पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/26/08_gardabhenAvakIrNI_nirRtim_pAkayajnena.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 गर्दभेनावकीर्णी निरृतिं पाकयज्ञेन यजेत ८
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/26/08_gardabhenAvakIrNI_nirRtim_pAkayajnena.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 8. A (student) who has broken the vow of chastity, shall offer to Nirṛti an ass, according to the manner of the Pākayajña-rites. [^6] 
@@ -260,17 +299,22 @@ title = "२६ अपतनीयानि"
 
 [^६]: म० स्मृ० ११. ११८.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/26/09_tasya_shUdraH_prAshnIyAt.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तस्य शूद्रः प्राश्नीयात् ९
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/26/09_tasya_shUdraH_prAshnIyAt.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 9. A Śūdra shall eat (the remainder) of that (offering).
@@ -286,17 +330,22 @@ title = "२६ अपतनीयानि"
 
 [^७]: आप० गृ० ७. १५.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/26/10_mithyAadhItaprAyashchittam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 मिथ्याऽधीत-प्रायश्चित्तम् १०
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/26/10_mithyAadhItaprAyashchittam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 10. (Now follows) the penance for him who transgresses the rules of studentship.
@@ -310,20 +359,25 @@ title = "२६ अपतनीयानि"
 **टीका**  
 नियमातिक्रमेणाऽधीतं मिथ्याधीतम् । तद्दोषनिर्हरणाय प्रायश्चित्तं वक्ष्यते ॥१०॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/26/11_saMvatsaramAchAryahite_vartamAno_vAchaM.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 संवत्सरम् आचार्य-हिते वर्तमानो  
 वाचं यच्छेत्  
 स्वाध्याय एवोत्सृजमानो वाचम्  
 आचार्य आचार्य-दारे भिक्षाचर्ये च ११
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/26/11_saMvatsaramAchAryahite_vartamAno_vAchaM.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 11. He shall for a year serve his teacher silently, emitting speech only during the daily study (of the Veda, in announcing necessary business to) his teacher or his teacher's wife, and whilst collecting alms.
@@ -341,17 +395,22 @@ title = "२६ अपतनीयानि"
 
     वागुत्सर्गस्स्वाध्याय एव इति. ख. पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/26/12_evamanyeShvapi_doShavatsvapatanIyeShUttarANi_yAni.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 एवमन्येष्व् अपि दोषवत्स्व् अपतनीयेषूत्तराणि यानि वक्ष्यामः १२
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/26/12_evamanyeShvapi_doShavatsvapatanIyeShUttarANi_yAni.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 12. The following penances) which we are going to proclaim, may be performed for the same sin, and [^7]  also for other sinful acts, which do not cause loss of caste.
@@ -367,18 +426,23 @@ title = "२६ अपतनीयानि"
 **टीका**  
 यथा मिथ्याधीतस्येदं प्रायश्चित्तमेवमुत्तराणि यानि प्रायश्चित्तानि वक्ष्यामः तान्यन्येष्वपि । अपिशब्दान्मिथ्याधीतेऽपि । दोषवत्स्वपतनीयेषु पतनीयव्यतिरिक्तेषु कर्मसु येष्वाहत्य प्रायश्चित्तं नोक्तं तद्विषयाणि द्रष्टव्यानि ॥ १२॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/26/13_kAmamanyubhyAM_vA_juhuyAtkAmo-kArShInmanyurakArShIditi.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 काम-मन्युभ्यां वा जुहुयात् -  
 कामोऽकार्षीन् मन्युर् अकार्षीद् इति जपेद् वा १३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/26/13_kAmamanyubhyAM_vA_juhuyAtkAmo-kArShInmanyurakArShIditi.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 13. He may either offer oblations to Kāma and Manyu (with the following two Mantras), 'Kāma (passion) has done it; Manyu (anger) has done it.' Or he may mutter (these Mantras). [^8] 
@@ -394,17 +458,22 @@ title = "२६ अपतनीयानि"
 **टीका**  
 स्वाहाकारान्ताभ्यां होमः । आज्यं द्रव्यम् ॥ १३ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/26/14_parvaNi_vA_tilabhaxa.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 पर्वणि वा तिलभक्ष उपोष्य वा श्वोभूत उदकम् उपस्पृश्य सावित्रीं प्राणायामशः सहस्र-कृत्व आवर्तयेद् अप्राणायामशो वा १४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/26/14_parvaNi_vA_tilabhaxa.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 14. Or, after having eaten sesamum or fasted on the days of the full and new moon he may, on the following day bathe, and stopping his breath, repeat the Gāyatrī one thousand times, or he may do so without stopping his breath.
@@ -427,6 +496,7 @@ title = "२६ अपतनीयानि"
 [^१]: जपकाल इत्यादि नास्ति ख. च. पु.  
 
 ॥ इत्यापस्तम्बधर्मसूत्रवृत्तौ प्रथमप्रश्ने षड्विंशी कण्डिका ॥२६॥
+</details>
 </details>
 
 </div>

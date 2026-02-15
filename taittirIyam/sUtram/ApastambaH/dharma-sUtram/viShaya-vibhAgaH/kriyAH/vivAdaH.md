@@ -9,7 +9,7 @@ unicode_script: devanagari
 ## निर्णेतारः
 <div class="js_include" newlevelforh1="b[]" title="2/11/29/05" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/29/05_vivAde_vidyAbhijanasampannA_vRddhA.md">
 
-<details><summary>**2/11/29/05 …{Loading}…**</summary>
+<details open><summary>2/11/29/05 …{Loading}…</summary>
 
 विवादे विद्याभिजनसंपन्ना वृद्धा मेधाविनो धर्मेष्वविनिपातिनः ५
 </details>
@@ -20,7 +20,7 @@ unicode_script: devanagari
 ## साक्षि-वचनम्
 <div class="js_include" newlevelforh1="b[]" title="2/11/29/07" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/29/07_puNyAhe_prAtaragnAviddhe.apAmante.md">
 
-<details><summary>**2/11/29/07 …{Loading}…**</summary>
+<details open><summary>2/11/29/07 …{Loading}…</summary>
 
 पुण्याहे प्रातरग्नाविद्धे ऽपामन्ते राजवत्य् उभयतः +++(उभयपक्षाभ्याम्)+++ समाख्याप्य सर्वानुमते मुख्यः सत्यं प्रश्नं ब्रूयात् ७
 </details>
@@ -29,7 +29,7 @@ unicode_script: devanagari
 
 <div class="js_include" newlevelforh1="b[]" title="2/11/29/08" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/29/08_anRte_rAjA_daNDam.md">
 
-<details><summary>**2/11/29/08 …{Loading}…**</summary>
+<details open><summary>2/11/29/08 …{Loading}…</summary>
 
 अनृते राजा दण्डं प्रणयेत् ८
 </details>
@@ -38,7 +38,7 @@ unicode_script: devanagari
 
 <div class="js_include" newlevelforh1="b[]" title="2/11/29/09" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/29/09_narakashchAtrAdhikaH_sAmparAye.md">
 
-<details><summary>**2/11/29/09 …{Loading}…**</summary>
+<details open><summary>2/11/29/09 …{Loading}…</summary>
 
 नरकश्चात्राधिकः सांपराये ९
 </details>
@@ -47,7 +47,7 @@ unicode_script: devanagari
 
 <div class="js_include" newlevelforh1="b[]" title="2/11/29/10" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/29/10_satye_svargaH_sarvabhUtaprashaMsA.md">
 
-<details><summary>**2/11/29/10 …{Loading}…**</summary>
+<details open><summary>2/11/29/10 …{Loading}…</summary>
 
 सत्ये स्वर्गः सर्वभूतप्रशंसा च १०
 </details>
@@ -60,7 +60,7 @@ unicode_script: devanagari
 ## निर्णय-विधानम्
 <div class="js_include" newlevelforh1="b[]" title="2/11/29/06" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/11/29/06_sandehe_lingato_daiveneti.md">
 
-<details><summary>**2/11/29/06 …{Loading}…**</summary>
+<details open><summary>2/11/29/06 …{Loading}…</summary>
 
 संदेहे लिङ्गतो +++(=अनुमानेन)+++ दैवेनेति विचित्य ६
 </details>

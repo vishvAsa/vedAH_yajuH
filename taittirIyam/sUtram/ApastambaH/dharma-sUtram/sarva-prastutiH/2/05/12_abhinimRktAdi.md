@@ -4,12 +4,16 @@ title = "१२ अभिनिमृक्तादि"
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/01_shaktiviShayeNa_dra_vyANi.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 शक्ति-विषयेण द्रव्याणि दत्वा वहेरन् - स आसुरः १
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/05/12/01_shaktiviShayeNa_dra_vyANi.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 1. If the suitor pays money (for his bride) according to his ability, and marries her (afterwards), that (marriage is called) the Āsura-rite. [^1] 
@@ -27,17 +31,22 @@ title = "१२ अभिनिमृक्तादि"
 
 [^१]: गौ० ध० ४ ११.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/02_duhitRmataH_prothayitvA_vaheransa.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 दुहितृमतः प्रोथयित्वा वहेरन् - स राक्षसः २
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/05/12/02_duhitRmataH_prothayitvA_vaheransa.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 2. If the (bridegroom and his friends) take away (the bride), after having overcome (by force) her father (or relations), that is called the Rākṣasa-rite. [^2] 
@@ -58,17 +67,22 @@ title = "१२ अभिनिमृक्तादि"
 
 [^३]: आश्व०गृ० ४.२५.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/03_teShAn_traya_AdyAH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तेषां त्रय आद्याः प्रशस्ताः, पूर्वः पूर्वः श्रेयान् ३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/05/12/03_teShAn_traya_AdyAH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 3. The first three amongst these (marriage-rites are considered) praiseworthy; each preceding one better than the one following. [^3] 
@@ -84,17 +98,22 @@ title = "१२ अभिनिमृक्तादि"
 **टीका**  
 तेषां विवाहानां मध्ये आद्यास्त्रयो ब्राह्मार्षदैवा प्रशस्ताः । तत्रापि पूर्वः पूर्वोऽतिशयेन प्रशस्त इति ॥ ३ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/04_yathA_yukto_vivAhastathA.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 यथा युक्तो विवाहस् - तथा युक्ता प्रजा भवति ४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/05/12/04_yathA_yukto_vivAhastathA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 4. The quality of the offspring is according to the quality of the marriage-rite. [^4] 
@@ -121,17 +140,22 @@ title = "१२ अभिनिमृक्तादि"
 
 [^४]: म०स्मृ० ३.३९-४१.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/05_pANisamUDham_brAhmaNasya_nAproxitam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 पाणि-समूढं +++(भूभागम्)+++ ब्राह्मणस्य नाप्रोक्षितम् अभितिष्ठेत् ५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/05/12/05_pANisamUDham_brAhmaNasya_nAproxitam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 5. He shall not step on a spot which has been touched by the hand of a Brāhmaṇa, without having sprinkled it with water.
@@ -145,17 +169,22 @@ title = "१२ अभिनिमृक्तादि"
 **टीका**  
 **ब्राह्मणस्य** पाणिना **समूढम्** उपलिप्तं सम्मृष्टं वा भूप्रदेशम् **अप्रोक्षितं** **नाभितिष्ठेत्** नाधितिष्ठेत् । प्राध्यैवाऽधितिष्ठेदिति ॥ ५॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/06_agnim_brAhmaNa~n_chAntareNa.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अग्निं ब्राह्मणं चान्तरेण नातिक्रामेत् ६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/05/12/06_agnim_brAhmaNa~n_chAntareNa.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 6. He shall not pass between a fire and a Brāhmaṇa,
@@ -169,17 +198,22 @@ title = "१२ अभिनिमृक्तादि"
 **टीका**  
 अग्नेर्ब्राह्मणस्य च मध्ये न गच्छेत् ॥ ६ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/07_brAhmaNAMshcha.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 ब्राह्मणांश्च ७
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/05/12/07_brAhmaNAMshcha.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 7. Nor between Brāhmaṇas.
@@ -193,17 +227,22 @@ title = "१२ अभिनिमृक्तादि"
 **टीका**  
 अन्तरेण नातिक्रामेदित्येव । ब्राह्मणानां च मध्ये न गच्छेत् ॥७॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/08_anujnApya_vAtikrAmet.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अनुज्ञाप्य वातिक्रामेत् ८
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/05/12/08_anujnApya_vAtikrAmet.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 8. Or he may pass between them after having received permission to do so.
@@ -217,17 +256,22 @@ title = "१२ अभिनिमृक्तादि"
 **टीका**  
 स्पष्टम् ॥८॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/09_agnimapashcha_na_yugapaddhArayIta.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अग्निमपश्च न युगपद्धारयीत ९
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/05/12/09_agnimapashcha_na_yugapaddhArayIta.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 9. He shall not carry fire and water at the same time.
@@ -241,17 +285,22 @@ title = "१२ अभिनिमृक्तादि"
 **टीका**  
 अग्निमुदकञ्च न युगपद्धारयेत् ॥९॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/10_nAnAgnInA~n_cha_sannivApaM.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 नानाग्नीनां च संनिवापं वर्जयेत् १०
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/05/12/10_nAnAgnInA~n_cha_sannivApaM.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 10. He shall not carry fires (burning in) separate (places) to one (spot). [^5] 
@@ -269,17 +318,23 @@ title = "१२ अभिनिमृक्तादि"
 
 [^१]: एतदनन्तरं-विनावचनम् । आवापवचने सति कुर्यात् । इत्यधिकः पाठः घ. पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/11_pratimukhamagnimAhriyamANam_nApratiShThitam_bhUmau.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 प्रतिमुखमग्निमाह्रियमाणम् नाप्रतिष्ठितं भूमौ प्रदक्षिणीकुर्यात्  +++(प्रतिष्ठिते तु प्रदक्षिणीकुर्यात्)+++११   
+
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/05/12/11_pratimukhamagnimAhriyamANam_nApratiShThitam_bhUmau.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 11. If, whilst he walks, fire is being carried towards him, he shall not walk around it with his right hand turned towards it, except after it has been placed on the ground. [^6] 
@@ -295,17 +350,23 @@ title = "१२ अभिनिमृक्तादि"
 **टीका**  
 यदाऽस्य गच्छतः प्रतिमुखमग्निह्रियते तदा न तं प्रदक्षिणीकुर्यात् स चेद्भूमौ प्रतिष्ठितो न भवति । प्रतिष्ठिते त्वग्नौ दृष्टे प्रदक्षिणीकुर्यादिति ॥११॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/12_pRShThatash_chAtmanaH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 पृष्ठतश्चात्मनः पाणी न संश्लेषयेत् १२
+
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/05/12/12_pRShThatash_chAtmanaH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 12. He shall not join his hands on his back.
@@ -319,17 +380,22 @@ title = "१२ अभिनिमृक्तादि"
 **टीका**  
 स्वस्य पृष्ठभागे स्वपाणिद्वयं न सश्लेषयेन्न बध्नीयात् ॥ १२॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/13_svapann_abhinimrukto_nAshvAn.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 स्वपन्न् अभिनिम्रुक्तो +++(=सूर्यास्तसमये निद्रालुः)+++ नाश्वान् +++(=अनश्नन्)+++ वाग्यतो रात्रिमासीत । श्वोभूत उदकमुपस्पृश्य वाचं विसृजेत् १३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/05/12/13_svapann_abhinimrukto_nAshvAn.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 13. If the sun sets whilst he sleeps, he shall sit up, fasting and silent, for that night. On the following morning he shall bathe and then raise his voice (in prayer). [^7] 
@@ -349,17 +415,22 @@ title = "१२ अभिनिमृक्तादि"
 
 [^२]: अमरको. ब्र. सूर्योदयकाले यः स्वपिति सोऽभ्युदितः । सूर्यास्तकाले यः स्वपिति सोऽभिनिम्रुक्तः ।
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/14_svapann_abhyudito_nAshvAn.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 स्वपन्न् अभ्युदितो +++(नाम सूर्योदये निद्रालुः)+++ नाश्वान्+++(=अनश्नन्)+++ वाग्यतोऽहस्तिष्ठेत् १४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/05/12/14_svapann_abhyudito_nAshvAn.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 14. If the sun rises whilst he is asleep, he shall stand during that day fasting and silent.
@@ -373,17 +444,23 @@ title = "१२ अभिनिमृक्तादि"
 **टीका**  
 पूर्वेण गतम् । 'उदकमुपस्पृश्य वाचं विसृजेदिति चात्राऽपेक्ष्यते । तत्रास्तमिते स्नानप्रतिषेधात् सायमेव स्नात्वा वाचं विसृज्य सन्ध्यामुपासीत ॥१४॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/15_AtamitoH_prANamAyachChedityeke.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 आतमितोः प्राणमायच्छेदित्येके +++(तावद् वा प्राणान् आयमयेद् यावद् अङ्गग्लानिर् न स्यात्)+++१५  
+
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/05/12/15_AtamitoH_prANamAyachChedityeke.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 15. Some declare that he shall restrain his breath until he is tired.
@@ -403,17 +480,22 @@ title = "१२ अभिनिमृक्तादि"
 
 [^१]: सर्वेष्वादर्शपुस्तकेषु मनुवचनत्वेनैवोपन्यस्तमिदम् । न कुत्राऽपि तु मुद्रित मनुस्मृतिपुस्तकेषूपलभ्यते । बौधायनधर्मसूत्रे ४. १. २८. तूपलभ्यते ।
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/16_svapnam_vA_pApakam_dRushtvA.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 स्वप्नं वा पापकं दृष्ट्वा १६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/05/12/16_svapnam_vA_pApakam_dRushtvA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 16. And (he shall restrain his breath until he is tired) if he has had a bad dream,
@@ -427,17 +509,22 @@ title = "१२ अभिनिमृक्तादि"
 **टीका**  
 पापकस्वप्नो दुस्स्वप्नः मर्कटास्कन्दनादिः । तं च दृष्ट्वा ॥ १६ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/17_arthaM_vA_siShAdhayiShan.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अर्थं वा सिषाधयिषन् १७
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/05/12/17_arthaM_vA_siShAdhayiShan.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 17. Or if he desires to accomplish some object,
@@ -453,17 +540,22 @@ title = "१२ अभिनिमृक्तादि"
 
 [^२]: सिसाधयिषुः, इति, घ, पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/18_niyamAtikrame_chAnyasmin.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 नियमातिक्रमे चान्यस्मिन् १८
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/05/12/18_niyamAtikrame_chAnyasmin.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 18. Or if he has transgressed some other rule. [^8] 
@@ -479,17 +571,22 @@ title = "१२ अभिनिमृक्तादि"
 **टीका**  
 नियमानां 'उदङ्मुखो मूत्रं कुर्यादि' (१.३१.१.) त्येवमादीनामतिक्रमे च आतमितो' प्राणमायच्छदिति सर्वत्र शेषः ॥ १८ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/19_doShaphalasaMshaye_na_tatkartavyam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 दोषफलसंशये न तत्कर्तव्यम् १९
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/05/12/19_doShaphalasaMshaye_na_tatkartavyam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 19. (If he is) doubtful (whether) the result (of an action will be good or evil), he shall not do it.
@@ -503,17 +600,22 @@ title = "१२ अभिनिमृक्तादि"
 **टीका**  
 यस्मिन् कर्मणि कृते पक्षे दोषः फलं सम्भाव्यते न तत् कुर्यात, यथा सभये देशे एकाकिनो गमनमिति ॥ १९ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/20_evamadhyAyAnadhyAye.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 एवमध्यायानध्याये २०
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/05/12/20_evamadhyAyAnadhyAye.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 20. (He shall follow) the same principle (if he is in doubt whether he ought) to study or not.
@@ -527,17 +629,22 @@ title = "१२ अभिनिमृक्तादि"
 **टीका**  
 संशय इत्युपसमस्तमप्यपेक्ष्यते । अध्यायोऽनध्याय इति संशयेऽप्येवं न तत् कर्तव्यमिति । 'सन्धावनुस्तनित' (१.९.२०.) इत्युदाहरणम् । पूर्वस्यैवाऽयं प्रपञ्चः ॥ २० ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/21_na_saMshaye_pratyaxavadbrUyAt.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 न संशये प्रत्यक्षवद्ब्रूयात् २१
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/05/12/21_na_saMshaye_pratyaxavadbrUyAt.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 21. He shall not talk of a doubtful matter as if it were clear. [^9] 
@@ -553,17 +660,22 @@ title = "१२ अभिनिमृक्तादि"
 **टीका**  
 संशयितमर्थमात्मनोऽज्ञानपरिहाराय प्रत्यक्षवत् निश्चितवन्न ब्रूयात् ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/22_abhinimruktAbhyuditakunakhishyAvadA-gradidhiShu_didhiShUpati_paryAhitaparIShTaparivittaparivinnaparivividAneShu.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अभिनिम्रुक्ताभ्युदित+++(=सन्ध्याशायिनौ)+++-कुनखि-श्यावदा-ऽग्रदिधिषु+++(=कनिष्ठाया वोढा)+++--दिधिषू-पति+++(अग्रदिधिषौ ज्येष्ठायाः पश्चाद् वोढा)+++-पर्याहित-परीष्ट-परिवित्त+++(=अकृतविवाहः कनिष्ठे कृतविवाहे)+++-परिविन्न+++(=कनिष्ठे भागग्राहिणि ज्येष्ठः)+++-परिविविदानेषु +++(=परिविन्न-भ्राता)+++ चोत्तरोत्तरस्मिन्न् अशुचिकर-निर्वेषो गरीयान् गरीयान् २२
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/05/12/22_abhinimruktAbhyuditakunakhishyAvadA-gradidhiShu_didhiShUpati_paryAhitaparIShTaparivittaparivinnaparivividAneShu.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 22. In the case of a person who slept at sunset, of [^10]  one who slept at sunrise, of one who has black nails, or black teeth, of one who married a younger sister before the elder one was married, of one who married an elder sister whose younger sister had been married already, (of a younger brother who has kindled the sacred Gṛhya-fire before his elder brother,) of one whose younger brother has kindled the sacred fire first, (of a younger brother who offers a Soma-sacrifice before his elder brother,) of an elder brother whose younger brother offered a Soma-sacrifice first, of an elder brother who marries or receives his portion of the inheritance after his younger brother, and of a younger brother who takes a wife or receives his portion of the inheritance before his elder brother,--penances ordained for crimes causing impurity, a heavier one for each succeeding case, must be performed.
@@ -587,17 +699,22 @@ title = "१२ अभिनिमृक्तादि"
 
 [^४]: ज्येष्ठे चागृहीतभागे कनिष्ठो भाग गह्णाति स परिविविदानः । परिविन्न इतरः। इत्येव पाठो घ. पुस्तके ।
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/12/23_tachcha_linga~n_charitvoddhAryamityeke.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तच्च लिङ्गं +++(=कुनखित्वादिकम्)+++ चरित्वोद्धार्यमित्येके २३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/05/12/23_tachcha_linga~n_charitvoddhAryamityeke.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 23. Some declare, that after having performed that penance, he shall remove its cause. [^11] 
@@ -616,6 +733,7 @@ title = "१२ अभिनिमृक्तादि"
 इत्यापस्तम्बधर्मसूत्रे द्वितीयप्रश्ने द्वादशी कण्डिका ॥१२॥  
 
 इति चापस्तम्बधर्मसूत्रवृत्तौ हरदत्तमिश्रविरचितायामुज्ज्वलायां द्वितीयप्रश्ने पञ्चमः पटलः ॥ ५ ॥
+</details>
 </details>
 
 </div>

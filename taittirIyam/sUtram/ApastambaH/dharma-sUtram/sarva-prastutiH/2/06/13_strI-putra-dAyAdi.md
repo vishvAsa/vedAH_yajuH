@@ -4,12 +4,16 @@ title = "१३ स्त्री-पुत्र-दायादि"
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/13/01_savarNA-pUrvashAstravihitAyAM_yathartu_gachChataH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 सवर्णा-ऽपूर्व+++(=अनन्यव्यूढा)+++-शास्त्रविहितायां यथर्तु गच्छतः पुत्रास्तेषां कर्मभिः संबन्धः १
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/13/01_savarNA-pUrvashAstravihitAyAM_yathartu_gachChataH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 1. Sons begotten by a man who approaches in the proper season a woman of equal caste, who has [^1]  not belonged to another man, and who has been married legally, have a right to (follow) the occupations (of their castes),
@@ -28,17 +32,22 @@ title = "१३ स्त्री-पुत्र-दायादि"
 
 - ( ) कुण्डलान्तर्गतो भागो नास्ति घ. ड. पुस्तकयोः ।
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/13/02_dAyenAvyatikramashchobhayoH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 दायेनाव्यतिक्रमश् चोभयोः +++(मातापित्रोः)+++ २
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/13/02_dAyenAvyatikramashchobhayoH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 2. And to (inherit the) estate,  
@@ -56,17 +65,22 @@ title = "१३ स्त्री-पुत्र-दायादि"
 उभयोर्मातापित्रोर्दायेन च तेषां सम्बन्धो भवति अव्यतिक्रमश्च । च इति चेदर्थे अव्यतिक्रमश्चेत् , यदि ते मातरं पितरं च न व्यतिक्रमेयुः । व्यतिक्रमे तु दायहानिरिति ॥  
 अपर आह— 'उभयोरपि दायेन तेषां व्यतिक्रमो न कर्तव्यः । अवश्यं देयो दायस्तेभ्य इति ॥ २॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/13/03_pUrvavatyAmasaMskRtAyAM_varNAntare_cha.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 पूर्ववत्याम्, असंस्कृतायां, वर्णान्तरे च मैथुने दोषः ३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/13/03_pUrvavatyAmasaMskRtAyAM_varNAntare_cha.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 4. If a man approaches a woman who had been married before, or was not legally married to him, or, belongs to a different caste, they both commit a sin.
@@ -80,17 +94,22 @@ title = "१३ स्त्री-पुत्र-दायादि"
 **टीका**  
 अन्येन पाणिग्रहणेन तद्वती पूर्ववती । असंस्कृता विवाहसंस्काररहिता । वर्णान्तरं ब्राह्मणादेः क्षत्रियादिः । तेषु पूर्ववत्यादिषु मैथुने सति दोषो भवति । कस्य ? तयोरेव मिथुनीभवतोः ॥ ३ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/13/04_tatrApi_doShavAnputra_eva.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तत्रापि दोषवान्पुत्र एव ४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/13/04_tatrApi_doShavAnputra_eva.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 5. Through their (sin) their son also becomes sinful.
@@ -119,17 +138,22 @@ title = "१३ स्त्री-पुत्र-दायादि"
 
 [^२३]: म० स्मृ० २. २३८
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/13/05_utpAdayituH_putra_iti.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 उत्पादयितुः पुत्र इति हि ब्राह्मणम् ५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/13/05_utpAdayituH_putra_iti.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 6. A Brāhmaṇa (says), 'The son belongs to the begetter.' [^3] 
@@ -148,10 +172,13 @@ title = "१३ स्त्री-पुत्र-दायादि"
 **टीका**  
 न केवलं ब्राह्मणमेव । वैदिकगाथा अप्यत्रोदाहरन्तीत्याह—
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/13/06_athApyudAharanti_idAnImevAha~n_janaka.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
 
 अथाप्युदाहरन्ति ।  
 इदानीमेवाहं जनक स्त्रीणामीर्ष्यामि नो पुरा ।  
@@ -165,10 +192,13 @@ title = "१३ स्त्री-पुत्र-दायादि"
 जनयितुः पुत्रो भवति सांपराये  
 मोघं वेत्ता कुरुते तन्तुमेतम् ६ इति।  
 
+</details>
+
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/13/06_athApyudAharanti_idAnImevAha~n_janaka.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 7. Now they quote also (the following Gāthā from the Veda): '(Having considered myself) formerly a father, I shall not now allow (any longer) my wives (to be approached by other men), since they have declared that a son belongs to the begetter in the world of Yama. The giver of the seed carries off the son after death in Yama's world; therefore they guard [^4]  their wives, fearing the seed of strangers. Carefully watch over (the procreation of) your children, lest stranger seed be sown on your soil. In the next world the son belongs to the begetter, an (imprudent) husband makes the (begetting of) children vain (for himself).'
@@ -212,17 +242,22 @@ title = "१३ स्त्री-पुत्र-दायादि"
 
 [^२४]: नार० स्मृ० १३. ४३.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/13/07_dRShTo_dharmavyatikramas_sAhasam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 दृष्टो धर्मव्यतिक्रमः साहसं च पूर्वेषाम् ७
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/13/07_dRShTo_dharmavyatikramas_sAhasam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 8. Transgression of the law and violence are found amongst the ancient (sages).
@@ -247,17 +282,22 @@ title = "१३ स्त्री-पुत्र-दायादि"
 
 [^८]: कथेयं महाभा० वन० ११६ अ. द्रष्टव्या ।
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/13/08_teShAn_tejovisheSheNa_pratyavAyo.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तेषां तेजोविशेषेण प्रत्यवायो न विद्यते ८
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/13/08_teShAn_tejovisheSheNa_pratyavAyo.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 9. They committed no sin on account of the greatness of their lustre.
@@ -280,17 +320,22 @@ title = "१३ स्त्री-पुत्र-दायादि"
 
 [^३]: 'छान्दोग्ये श्रूयते' इत्यधिक ख. च. पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/13/09_tadanvIxya_prayunjAnaH_sIdatyavaraH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तदन्वीक्ष्य प्रयुञ्जानः सीदत्यवरः ९
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/13/09_tadanvIxya_prayunjAnaH_sIdatyavaraH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 10. A man of later times who seeing their (deeds) follows them, falls.
@@ -309,17 +354,22 @@ title = "१३ स्त्री-पुत्र-दायादि"
 
 [^४]: पा० स० १. २. ६९.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/13/10_dAna~N_krayadharmashchApatyasya_na.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 दानं क्रयधर्मश्चापत्यस्य न विद्यते १०
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/13/10_dAna~N_krayadharmashchApatyasya_na.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 11. The gift (or acceptance of a child) and the right to sell (or buy) a child are not recognised. [^5] 
@@ -353,19 +403,25 @@ title = "१३ स्त्री-पुत्र-दायादि"
 
 [^३]: ऐ० ब्रा० पं० ७.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/13/11_vivAhe_duhitRmate_dAna~N.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 विवाहे दुहितृमते दानं काम्यं धर्मार्थं श्रूयते तस्माद्दुहितृमतेऽधिरथं शतं देयं तन्मिथुया कुर्यादिति ११-१  
 
 तस्यां क्रयशब्दः संस्तुतिमात्रम् । धर्माद्धि संबन्धः ११-२  
+
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/13/11_vivAhe_duhitRmate_dAna~N.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 12. It is declared in the Veda that at the time of marriage a gift, for (the fulfilment of) his wishes, should be made (by the bridegroom) to the father [^6]  of the bride, in order to fulfil the law. 'Therefore he should give a hundred (cows) besides a chariot; that (gift) he should make bootless (by returning it to the giver).' In reference to those (marriage-rites), the word 'sale' (which occurs in some Smṛtis is only used as) a metaphorical expression; for the union (of the husband and wife) is effected through the law.
@@ -389,17 +445,22 @@ title = "१३ स्त्री-पुत्र-दायादि"
 
 [^५]: म०स्मृ० ३. ५४.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/13/12_ekadhanena_jyeShTham.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 एकधनेन ज्येष्ठं तोषयित्वा १२
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/13/12_ekadhanena_jyeShTham.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 13. After having gladdened the eldest son by some (choice portion of his) wealth,
@@ -416,6 +477,7 @@ title = "१३ स्त्री-पुत्र-दायादि"
 **टीका**  
 
 इत्यापस्तम्बधर्मसूत्रे द्वितीयप्रश्न त्रयोदशी कण्डिका ॥ १३ ॥
+</details>
 </details>
 
 </div>

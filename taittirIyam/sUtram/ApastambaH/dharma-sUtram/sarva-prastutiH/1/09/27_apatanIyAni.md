@@ -4,14 +4,18 @@ title = "२७ अपतनीयानि"
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/27/01_shrAvaNyAm_paurNamAsyAn_tilabhaxa.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 श्रावण्यां पौर्णमास्यां तिल-भक्ष उपोष्य वा  
 श्वोभूते महानदम् उदकम् उपस्पृश्य  
 सावित्र्या समित्-सहस्रम् आदध्याज् जपेद् वा १
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/27/01_shrAvaNyAm_paurNamAsyAn_tilabhaxa.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 1. After having eaten sesamum or having fasted on the full moon day of the month Srāvaṇa July-August), he may on the following day bathe in the water of a great river and offer (a burnt-oblation of) one thousand pieces of sacred fuel, whilst. reciting the Gāyatrī, or he may mutter (the Gāyatrī) as many times. [^1] 
@@ -33,17 +37,22 @@ title = "२७ अपतनीयानि"
 
     (आप० प० ३.४.) "जुहोतिचोदना स्वाहाकारप्रदान इत्युक्तत्वात् । जपेद्वा" इति नास्ति. क. छ. पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/27/02_iShTiyajnakratUn_vA_pavitrArthAn.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 इष्टि-यज्ञ-क्रतून् वा पवित्रार्थान् आहरेत् २
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/27/02_iShTiyajnakratUn_vA_pavitrArthAn.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 2. Or he may perform Iṣṭis and Soma-sacrifices for the sake of purifying himself (from his sins), [^2] 
@@ -67,17 +76,22 @@ title = "२७ अपतनीयानि"
 
     यज्ञाः क्रतवः । इति. क.छ.पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/27/03_abhojyam_bhuktvA_naiShpurIShyam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अभोज्यं भुक्त्वा नैष्पुरीष्यम् +++(कदेति चेत् -)+++३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/27/03_abhojyam_bhuktvA_naiShpurIShyam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 3. After having eaten forbidden food, he must fast, until his entrails are empty. [^3] 
@@ -93,17 +107,22 @@ title = "२७ अपतनीयानि"
 **टीका**  
 अभोज्यस्य मार्जारादिमांसस्य भक्षणे निष्पुरीषभावः कर्तव्यः । यावदुदरं निष्पुरीषं भवति तावदुपवस्तव्यम् ॥ ३॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/27/04_tatsaptarAtreNAvApyate.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तत्-सप्त-रात्रेणावाप्यते ४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/27/04_tatsaptarAtreNAvApyate.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 4. That is (generally) attained after seven days.
@@ -123,17 +142,22 @@ title = "२७ अपतनीयानि"
 
 [^५]:  गौ० ध० २६.४.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/27/05_hemantashishirayorvobhayoH_sandhyorudakamupaspRshet.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 हेमन्त-शिशिरयोर् वोभयोः संध्योर् उदकम् उपस्पृशेत् ५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/27/05_hemantashishirayorvobhayoH_sandhyorudakamupaspRshet.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 5. Or he may during winter and during the dewy season (November-March) bathe in cold water both morning and evening.
@@ -147,17 +171,22 @@ title = "२७ अपतनीयानि"
 **टीका**  
 उभयोः सन्ध्ययोः सायं प्रातश्च । उदकमुपस्पृशेत् भूमिगतास्वप्सु स्नायात् । उद्धृताभिर्वा शीताभिः ॥ ५ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/27/06_kRchChradvAdasharAtraM_vA_charet.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 कृच्छ्र-द्वादश-रात्रं वा चरेत् ६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/27/06_kRchChradvAdasharAtraM_vA_charet.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 6. Or he may perform a Kṛcchra penance, which lasts twelve days.
@@ -171,21 +200,26 @@ title = "२७ अपतनीयानि"
 **टीका**  
 द्वादशरात्रसाध्यो व्रतविशेषः कृच्छ्रद्वादशरात्रः ॥ ६ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/27/07_tryahamanaktAshyadivAshI_tatastryahan_tryahamayAchitavratastryahan.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
 
 त्र्यहम् अनक्ताश्य्  
 अदिवाशी ततस् त्र्यहं  
 त्र्य्-अहम् अयाचित-व्रतस्  
 त्र्यहं नाश्नाति किंचनेति  
 कृच्छ्र-द्वादश-रात्रस्य विधिः ७
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/27/07_tryahamanaktAshyadivAshI_tatastryahan_tryahamayAchitavratastryahan.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 7. The rule for the Kṛcchra penance of twelve days (is the following): For three days he must not eat in the evening, and then for three days not in the morning; for three days he must live on food which has been given unasked, and three days he must not eat anything. [^4] 
@@ -208,17 +242,22 @@ title = "२७ अपतनीयानि"
 
 [^२]: गौ० ध० २६. ४.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/27/08_etamevAbhyasetsaMvatsaraM_sa_kRchChrasaMvatsaraH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 एतम् एवाभ्यसेत् संवत्सरं - स कृच्छ्रसंवत्सरः ८
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/27/08_etamevAbhyasetsaMvatsaraM_sa_kRchChrasaMvatsaraH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 8. If he repeats this for a year, that is called a Kṛcchra penance, which lasts for a year.
@@ -232,19 +271,24 @@ title = "२७ अपतनीयानि"
 **टीका**  
 एतमेव विधिं संवत्सरं निरन्तरमभ्यस्येत् । स एष कृच्छ्रसंवत्सरो वेदितव्यः । यः पूर्वोक्तः 'कच्छ्रसंवत्सरं वा चरे'( २५.९ )दिति ॥८॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/27/09_athAparam_bahUnyapyapatanIyAni_kRtvA.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अथाऽपरम् ।  
 बहून्य् अप्य् अपतनीयानि कृत्वा  
 त्रिभिर् अनश्नत्-पारायणैः कृत-प्रायश्चित्तो भवति ९
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/27/09_athAparam_bahUnyapyapatanIyAni_kRtvA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 9. Now follows another penance. He who has committed even a great many sins which do not cause him to fall, becomes free from guilt, if, fasting, he recites the entire Śākhā of his Veda three times consecutively. [^5] 
@@ -261,20 +305,25 @@ title = "२७ अपतनीयानि"
 अथाऽपरं प्रायश्चित्तमुच्यते । अनश्नतैव निरन्तरं त्रीणि पारायणानि कर्तव्यानि । आदित आरभ्याऽऽसमाप्तेर्वेदस्याऽध्ययनं पारायणम् । बहून्यपि ।
 अपिशब्दात्किं पुनरेकं द्वे वा ॥९॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/27/10_anAryAM_shayane_bibhreddadadvRddhi~N.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अनार्यां शयने बिभ्रेद्,  
 ददद् वृद्धिं+++(=interest)+++ +++(स्वद्रव्यस्य)+++, कषाय-पः+++(=सुराव्यतिरिक्तं मद्यं पिबन्)+++ ।  
 अब्राह्मण इव +++(सर्वान्)+++ वन्दित्वा,  
 तृणेष्व् आसीत पृष्ठ-तप् १०
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/27/10_anAryAM_shayane_bibhreddadadvRddhi~N.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 10. He who cohabits with a non-Aryan woman, he who lends money at interest, he who drinks (other) spirituous liquors (than Surā), he who praises everybody in a manner unworthy of a Brāhmaṇa, shall sit on grass, allowing his back to be scorched (by the sun).
@@ -296,20 +345,25 @@ title = "२७ अपतनीयानि"
 
     'तत् पिबतीति कषायपः' इति ग, पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/27/11_yadekarAtreNa_karoti_pApa~N.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 यद् एकरात्रेण करोति पापं  
 कृष्णं+++(→शूद्रं)+++ वर्णं ब्राह्मणः सेवमानः ।  
 चतुर्थ-काल उदकाभ्यवायी +++(स्नानकर्ता)+++  
 त्रिभिर् वर्षैस् तद् अपहन्ति पापम् ११
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/27/11_yadekarAtreNa_karoti_pApa~N.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 11. A Brāhmaṇa removes the sin which he committed by serving one day and night (a man of) the black race, if he bathes for three years, eating at every fourth meal-time. [^6] 
@@ -334,6 +388,7 @@ title = "२७ अपतनीयानि"
 इत्यापस्तम्बधर्मसूत्रवृत्तौ प्रथमप्रश्ने सप्तविंशी कण्डिका ॥२७॥
 
 इति चाऽऽपस्तम्बधर्मसूत्रवृत्तौ हरदत्तमिश्रविरचितायामुज्वलायां प्रथमप्रश्ने नवमः पटलः ॥ ९ ॥
+</details>
 </details>
 
 </div>

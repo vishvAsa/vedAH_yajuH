@@ -4,12 +4,16 @@ title = "०३ वैश्वदेवम्"
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/03/01_AryAH_prayatA_vaishvadeve-nnasaMskartAraH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 आर्याः प्रयता वैश्वदेवेऽन्नसंस्कर्तारः स्युः १
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/02/03/01_AryAH_prayatA_vaishvadeve-nnasaMskartAraH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 1. Pure men of the first three castes shall prepare the food (of a householder which is used) at the Vaiśvadeva ceremony. [^1] 
@@ -25,17 +29,22 @@ title = "०३ वैश्वदेवम्"
 **टीका**  
 आर्यास्त्रैवर्णिकाः। 'आर्याधिष्ठिता वा शूद्रा' (२.३,४) इत्युत्तरत्र दर्शनात् । प्रयताः स्नानादिना शुद्धाः। वैश्वदेवे गृहमेधिनोर्भोजनार्थे पाके। 'गृहमेधिनो यदशनीयस्ये'(३-१२)ति दर्शनात् । अन्नसंस्कर्तारः स्युः । अन्नं भक्ष्यभोज्यपेयादिकं तत् संस्कुर्युः । न स्वयं, नाऽपि स्त्रियः ॥ १ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/03/02_bhAShA~N_kAsa~N_xavayumityabhimukho.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 भाषां कासं क्षवयुमित्यभिमुखो ऽन्नं वर्जयेत् २
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/02/03/02_bhAShA~N_kAsa~N_xavayumityabhimukho.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 2. The (cook) shall not speak, nor cough, nor sneeze, while his face is turned towards the food.
@@ -49,17 +58,22 @@ title = "०३ वैश्वदेवम्"
 **टीका**  
 भाषा शब्दोच्चारणम् । कासः कण्ठे घुरुघुराशब्दः । क्षवधुः क्षुतम् । एतत्त्रितयमन्नाभिमुखो न कुर्यात् । 'संस्कर्तारः स्यु'रिति बहुवचने प्रकृते 'वर्जये'दित्येकवचनं प्रत्येकमुपदेशार्थम् ॥ २ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/03/03_keshAnangaM_vAsashchAlabhyApa_upaspRshet.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 केशानङ्गं वासश्चालभ्याप उपस्पृशेत् ३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/02/03/03_keshAnangaM_vAsashchAlabhyApa_upaspRshet.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 3. He shall purify himself by touching water if he has touched his hair, his limbs, or his garment.
@@ -73,17 +87,22 @@ title = "०३ वैश्वदेवम्"
 **टीका**  
 केशादीनात्मीयानन्यदीयान्वा । आलभ्य स्पृष्ट्वा । अप उपस्पृशेत् । नेदं स्नानम् । किं तर्हि ? स्पर्शमात्रम् । केशालम्भे पूर्वमप्युपस्पर्शनं विहितम् । इदं तु तत्रोक्तं वैकल्पिकं शकृदाद्युपस्पर्शनं मा भूदिति ॥ ३ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/03/04_AryAdhiShThitA_vA_shUdrAH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 आर्याधिष्ठिता वा शूद्राः संस्कर्तारः स्युः ४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/02/03/04_AryAdhiShThitA_vA_shUdrAH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 4. Or Śūdras may prepare the food, under the superintendence of men of the first three castes.
@@ -97,17 +116,22 @@ title = "०३ वैश्वदेवम्"
 **टीका**  
 वर्णिकैर् अधिष्ठिता वा शूद्रास् संस्कर्तारः स्युः । प्रकरणादन्नस्येति गम्यते ॥४॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/03/05_teShAM_sa_evAchamanakalpaH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तेषां स एवाचमनकल्पः ५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/02/03/05_teShAM_sa_evAchamanakalpaH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 5. For them is prescribed the same rule of sipping water (as for their masters). [^2] 
@@ -123,17 +147,22 @@ title = "०३ वैश्वदेवम्"
 **टीका**  
 तेषां शूद्राणामन्नसंस्कारेऽधिकृतानां स एवाऽऽचमनकल्पो वेदितव्यः, यस्याऽन्नं पचन्ति । यदि ब्राह्मणस्य, हृदयङ्गमाभिरद्भिः। यदि क्षत्रियस्य, कण्ठगाभिः । यदि वैश्यस्य, तालुगाभिः । इन्द्रियोपस्पर्शन च भवति ॥५॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/03/06_adhikamaharahaH_keshashmashrulomanakhavApanam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अधिकमहरहः केशश्मश्रुलोमनखवापनम् ६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/02/03/06_adhikamaharahaH_keshashmashrulomanakhavApanam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 6. Besides, the (Śūdra cooks) daily shall cause to be cut the hair of their heads, their beards, the hair on their bodies, and their nails.
@@ -147,17 +176,22 @@ title = "०३ वैश्वदेवम्"
 **टीका**  
 शूद्राः पचन्तः प्रत्यहं केशादि वापयेयुः । इदमेषामधिकमार्येभ्यः ॥६॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/03/07_udakopasparshana~n_cha_saha.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 उदकोपस्पर्शनं च सह वाससा ७
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/02/03/07_udakopasparshana~n_cha_saha.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 7. And they shall bathe, keeping their clothes on. [^3] 
@@ -176,17 +210,22 @@ title = "०३ वैश्वदेवम्"
 
 [^१]: म० स्मृ० ४. १२९
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/03/08_api_vAShTamIShveva_parvasu.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अपि वाष्टमीष्वेव पर्वसु वा वपेरन् ८
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/02/03/08_api_vAShTamIShveva_parvasu.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 8. Or they may trim (their hair and nails) on the eighth day (of each half-month), or on the days of the full and. new moon.
@@ -200,17 +239,22 @@ title = "०३ वैश्वदेवम्"
 **टीका**  
 यदि वाऽष्टमीष्वेव वपरेन् केशादीन् पर्वस्वेव वा । न प्रत्यहम् । 'वपरे'न्निति अन्तर्भावितण्यर्थः । वापयेरन्नित्यर्थः । तथा च 'लोमनखवापन'मिति पूर्वत्र णिच्प्रयुक्तः ॥ ८ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/03/09_paroxamannaM_saMskRtamagnAvadhishrityAdbhiH_proxet.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 परोक्षमन्नं संस्कृतमग्नावधिश्रित्याद्भिः प्रोक्षेत् । तद्देवपवित्रमित्याचक्षते ९
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/02/03/09_paroxamannaM_saMskRtamagnAvadhishrityAdbhiH_proxet.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 9. He (the householder himself) shall place on the fire that food which has been prepared (by Śūdras) without supervision, and shall sprinkle it with water. Such food also they state to be fit for the gods.
@@ -224,17 +268,22 @@ title = "०३ वैश्वदेवम्"
 **टीका**  
 यदि शुद्राः परोक्षमन्नं संस्कुर्युः आर्यैरनधिष्ठिताः । तदा तत्परोक्षमन्न संस्कृतं स्वयमग्नावधिश्रयेत् । अधिश्रित्याऽद्भिः प्रोक्षेत् । तदेवंभूतमन्नं देवपवित्रमित्याचक्षते । देवानामपि तत्पवित्रं किं पुनर्मनुष्याणामिति ॥९॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/03/10_siddhe-nne_tiShThanbhUtamiti_svAmine.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 सिद्धेऽन्ने तिष्ठन्भूतमिति स्वामिने प्रब्रूयात् १०
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/02/03/10_siddhe-nne_tiShThanbhUtamiti_svAmine.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 10. When the food is ready, (the cook) shall place himself before his master and announce it to him (saying), 'It is ready.'
@@ -248,17 +297,22 @@ title = "०३ वैश्वदेवम्"
 **टीका**  
 सिद्धे पक्वेऽन्ने तिष्ठन् पाचकोऽधिष्ठाता वा भूतमिति प्रब्रूयात् । कस्मै ? यस्य तदन्न तस्मै स्वामिने । भूतं निष्पन्नमित्यर्थः ॥ १०॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/03/11_tatsubhUtaM_virAD_annan.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तत्सुभूतं विराड् अन्नं तन्मा क्षायीति प्रतिवचनः ११
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/02/03/11_tatsubhUtaM_virAD_annan.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 11. The answer (of the master) shall be, 'That well-prepared food is the means to obtain splendour; may it never fail!' [^4] 
@@ -274,17 +328,22 @@ title = "०३ वैश्वदेवम्"
 **टीका**  
 तत्सुभूतमित्यादि प्रतिवचनो मन्त्रः। तदन्नं सुभूतं सुनिष्पन्नम् । विराट् विराजः साधनम् । अन्नमशनम् । तच्च मा क्षायि क्षीणं मा भूदित्यर्थः ॥ ११ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/03/12_gRhamedhinoryadashanIyasya_homA_balayashcha.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 गृहमेधिनोर्यदशनीयस्य होमा बलयश्च स्वर्गपुष्टिसंयुक्ताः १२
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/02/03/12_gRhamedhinoryadashanIyasya_homA_balayashcha.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 12. The burnt-oblations and Bali-offerings made with the food which the husband and his wife are to eat, bring (as their reward) prosperity, (and the enjoyment of) heaven. [^5] 
@@ -302,17 +361,22 @@ title = "०३ वैश्वदेवम्"
 
 शनीयस्य होमा बलयश्च स्वर्गपुष्टिसंयुक्ताः १२
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/03/13_teShAm_mantrANAmupayoge_dvAdashAhamadhaHshayyA.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तेषां मन्त्राणामुपयोगे द्वादशाहमधःशय्या ब्रह्मचर्यं क्षारलवणवर्जनं च १३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/02/03/13_teShAm_mantrANAmupayoge_dvAdashAhamadhaHshayyA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 13. Whilst learning the sacred formulas (to be recited during the performance) of those (burnt oblations and Bali-offerings, a householder) shall sleep on the ground, abstain from connubial intercourse and from eating pungent condiments and salt, during twelve days. [^6] 
@@ -339,17 +403,22 @@ title = "०३ वैश्वदेवम्"
 उपयोक्तुर् एव व्रतम्, अध्ययनाङ्गत्वात् ।  
 अन्ये तु पत्न्या अपीच्छन्ति - **उपयोगः** प्रथम-योगः तत्र च पत्न्या अपि सहाऽधिकार इति वदन्तः ॥ १३ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/03/14_uttamasyaikarAtramupavAsaH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 उत्तमस्यैकरात्रमुपवासः १४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/02/03/14_uttamasyaikarAtramupavAsaH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 14. (When he studies the Mantras) for the last (Bali offered to the goblins), he shall fast for one (day and) night. [^7] 
@@ -371,17 +440,23 @@ title = "०३ वैश्वदेवम्"
     ये भूताः प्रचरन्ति दिवा नक्तं बलिमिच्छन्तो वितुदस्य प्रेष्याः ।  
     तेभ्यो बलिं पुष्टिकामो हरामि मयि पुष्टिं पुष्टिपतिर्दधातु ॥ इति मन्त्रः । (तै०आ० १०.६७.)
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/03/15_balInAn_tasya_tasya.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 बलीनां तस्य तस्य देशे संस्कारो हस्तेन परिमृज्यावोक्ष्य न्युप्य पश्चात्परिषेचनम् १५
+
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/02/03/15_balInAn_tasya_tasya.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 15. For each Bali-offering the ground must be prepared separately. (The performer) sweeps (the ground) with his (right) hand, sprinkles it with water, turning, the palm downwards, throws down (the offering), and afterwards sprinkles water around it. [^8] 
@@ -397,10 +472,13 @@ title = "०३ वैश्वदेवम्"
 **टीका**  
 बलीनां मध्ये तस्यतस्य बलेर्देशे संस्कारः कर्तव्यः। कः पुनरसौ? हस्तेन परिमार्जनमवोक्षणं च । तं कृत्वा बलिं निवपति । न्युप्य पश्चात् परिषेचनं कर्तव्यम् । उपदेशक्रमादेव सिद्धे पश्चाद्ग्रहणं मध्ये गन्धमाल्यादिदानार्थमित्याहुः। 'तस्यतस्ये'ति वचनं सत्यपि सम्भवे सकृदेव परिमार्जनमवोक्षणं च मा भूत् । एकस्मिन्देशे समवेतानामपि पृथक्पृथग्यथा स्यादिति ॥ १५ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/03/16_aupAsane_pachane_vA.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
 
 औपासने पचने वा षड्भिराद्यैः प्रतिमन्त्रं हस्तेन जुहुयात् १६  
 
@@ -446,11 +524,13 @@ title = "०३ वैश्वदेवम्"
 - अ॒ग्नये॑ स्विष्ट॒कृते॑ स्वाहा॑।+++(=रुद्रोऽग्निस्स्विष्टकृत्)+++  
 
 </div>
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/02/03/16_aupAsane_pachane_vA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 16. (At the Vaiśvadeva sacrifice) he shall offer the oblations with his hand, (throwing them) into the kitchen-fire or into the sacred (Gṛhya)-fire, and reciting (each time one of) the first six Mantras (prescribed in the Nārāyaṇī Upaniṣad). [^9] 
@@ -468,10 +548,13 @@ title = "०३ वैश्वदेवम्"
 
 [^३]: आप० मन्त्रप्रश्ने० १. १.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/03/17_ubhayataH_pariShechanaM_yathA.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
 
 उभयतः परिषेचनं यथा पुरस्तात् १७  
 
@@ -486,11 +569,13 @@ title = "०३ वैश्वदेवम्"
 देव॑ सवितः॒ प्रासा॑वीः।  +++(इति प्रागारम्भं प्रदक्षिणं)+++
 
 </div>
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/02/03/17_ubhayataH_pariShechanaM_yathA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 17. He shall sprinkle water all around both times (before and after the oblations), as (has been declared) above. [^10] 
@@ -508,17 +593,22 @@ title = "०३ वैश्वदेवम्"
 
 [^१]: आप०गृ० २. ३.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/03/18_evam_balInAn_deshe.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 एवं बलीनां देशे देशे समवेतानां सकृत्सकृदन्ते परिषेचनम् १८
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/02/03/18_evam_balInAn_deshe.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 18. In like manner water is sprinkled around once only after the performance of those Bali-offerings that are performed in one place. [^11] 
@@ -534,17 +624,22 @@ title = "०३ वैश्वदेवम्"
 **टीका**  
 यथा षण्णामाहुतीनां परिषेचनं तन्त्रम्, विभवात् । एवं बलयोऽपि ये एकस्मिन् देशे समवेता 'उत्तरैर्ब्रह्मसदन' (४.२.४) इत्यादयस्तेषां यदन्ते परिषेचनं प्राप्तं 'पश्चात्परिषेचन'मित्यनेन विहितं तत्सर्वान्ते सकृत्कर्तव्यम्, न प्रत्येकं पृथगिति । असत्यस्मिन् सूत्रे पूर्वत्र 'तस्य तस्ये'ति वचनाद्यथा परिमार्जनमवोक्षणं च प्रत्येकं पृथक्पृथग्भवति तथा परिषेचनमपि स्यात् । अत्र चोपदेशादेव य एकदेशस्था बलयस्तेषामेव सकृदन्ते परिषेचनं, न यादृच्छिकसमवेतानाम् । तेन यद्यप्यगारस्योत्तरपूर्वदेशश्शय्यादेशः, तथापि कामलिङ्गस्य पृथकपरिषेचनं भवति ॥१९॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/03/19_sati_sUpasaMsRShTena_kAryAH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 सति सूपसंसृष्टेन कार्याः १९
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/02/03/19_sati_sUpasaMsRShTena_kAryAH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 19. (If a seasoning) has been prepared, (the Bali-offering should consist of rice) mixed with that seasoning.
@@ -563,17 +658,22 @@ title = "०३ वैश्वदेवम्"
 
 [^३]: सूपस्यापि । व्यञ्जनैरपूपेन च संसृष्टेन बलय इति. क. छ. पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/03/20_apareNAgniM_saptamAShTamAbhyAmudagapavargam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अपरेणाग्निं सप्तमाष्टमाभ्यामुदगपवर्गम् २०
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/02/03/20_apareNAgniM_saptamAShTamAbhyAmudagapavargam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 20. With the seventh and eighth Mantras (Balis [^12]  must be offered to Dharma and Adharma) behind the fire, and must be placed the one to the north of the other.
@@ -589,10 +689,13 @@ title = "०३ वैश्वदेवम्"
 **टीका**  
 अपरेणाऽग्निमग्नेः पश्चात् । सप्तमाष्टमाभ्यां 'धर्माय स्वाहा, अधर्माय स्वाहे'त्येताभ्यां बलिहरणx कर्तव्यम् । उदगपवर्गम् । न प्रागपवर्गम् ॥ २० ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/03/21_udadhAnasannidhau_navamena.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
 
 उदधानसंनिधौ नवमेन २१  
 
@@ -602,11 +705,13 @@ title = "०३ वैश्वदेवम्"
 - अ॒द्भ्यस् स्वाहा॑ । +++(उदधानसंनिधौ नवमेन २१)+++  
 
 </div>
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/02/03/21_udadhAnasannidhau_navamena.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 21. With the ninth (Mantra a Bali offered to the waters must be placed) near the water-vessel (in which the water for domestic purposes is kept). [^13] 
@@ -624,10 +729,13 @@ title = "०३ वैश्वदेवम्"
 
 [^४]: अस्य विधिर्गृह्ये वास्तुनिर्माणविधौ ( आप०गृ० १७. १) द्रष्टव्यः ।
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/03/22_madhye-gArasya_dashamaikAdashAbhyAm_prAgapavargam.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
 
 मध्येऽगारस्य दशमैकादशाभ्यां प्रागपवर्गम् २२  
 
@@ -636,11 +744,13 @@ title = "०३ वैश्वदेवम्"
 - ओ॒ष॒धि॒व॒न॒स्प॒तिभ्य॒स् स्वाहा॑। र॒क्षो॒दे॒व॒ज॒नेभ्य॒स् स्वाहा॑ । +++(मध्येऽगारस्य दशमैकादशाभ्यां प्रागपवर्गम् २२)+++  
 
 </div>
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/02/03/22_madhye-gArasya_dashamaikAdashAbhyAm_prAgapavargam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 22. With the tenth and eleventh (Mantras, Balis, offered to the herbs and trees and to Rakṣodevajana, must be placed) in the centre of the house, and the one to the east of the other. [^14] 
@@ -656,10 +766,13 @@ title = "०३ वैश्वदेवम्"
 **टीका**  
 दशमैकादशाभ्यां 'औषधिवनस्पतिभ्यः स्वाहा, रक्षोदेवजनेभ्यः स्वा'हेत्येताभ्यां अगारस्य मध्ये प्रागपवर्गं कर्तव्यम् ॥ २२ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/03/23_uttarapUrvadeshe-gArasyottaraishchaturbhiH.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
 
 उत्तरपूर्वदेशेऽगारस्योत्तरैश्चतुर्भिः २३  
 
@@ -668,11 +781,13 @@ title = "०३ वैश्वदेवम्"
 - +++(वास्तुविद्याप्रसिद्धेभ्यः)+++ गृह्या॑भ्य॒स् स्वाहा॑। अ॒व॒साने॑भ्यस्+++(=सीमाभ्यः)+++ स्वाहा॑ । अ॒व॒सान॑पतिभ्य॒स् स्वाहा॑ । स॒र्व॒भू॒तेभ्य॒स् स्वाहा॑ । +++(उत्तरपूर्वदेशेऽगारस्योत्तरैश्चतुर्भिः २३)+++  
 
 </div>
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/02/03/23_uttarapUrvadeshe-gArasyottaraishchaturbhiH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 23. With the following four (Mantras, Balis must be placed) in the north-eastern part of the house (and the one to the east of the other). [^15] 
@@ -689,6 +804,7 @@ title = "०३ वैश्वदेवम्"
 अगारस्य य उत्तरपूर्वो देशस्तरोत्तरैश्चतुर्भिः 'गृह्याभ्यः स्वाहा, अवसानेभ्यः स्वाहा, अवसानपतिभ्यः स्वाहा, सर्वभूतेभ्यः स्वाहेत्येतैः प्रागपवर्गमित्येव ॥२३॥  
 
 इत्यापस्तम्बधर्मसूत्रवृत्तौ द्वितीयप्रश्ने तृतीया कण्डिका ॥३॥
+</details>
 </details>
 
 </div>

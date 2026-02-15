@@ -4,12 +4,16 @@ title = "२४ हत्यादि"
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/01_xatriyaM_hatvA_gavAM.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 क्षत्रियं हत्वा गवां सहस्रं वैरयातनार्थं दद्यात् १
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/24/01_xatriyaM_hatvA_gavAM.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 1. He who has killed a Kṣatriya shall give a thousand cows (to Brāhmaṇas) for the expiation of his sin. [^1] 
@@ -31,17 +35,22 @@ title = "२४ हत्यादि"
 
 [^२]: आप० श्रौ० ९.१.४
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/02_shataM_vaishye.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 शतं वैश्ये २
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/24/02_shataM_vaishye.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 2. (He shall give) a hundred cows for a Vaiśya, [^2] 
@@ -57,17 +66,22 @@ title = "२४ हत्यादि"
 **टीका**  
 वैश्ये हते गवां शतं दद्यात् ॥ २॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/03_dasha_shUdre.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 दश शूद्रे ३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/24/03_dasha_shUdre.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 3. Ten for a Śūdra, [^3] 
@@ -83,17 +97,22 @@ title = "२४ हत्यादि"
 **टीका**  
 शूद्रे हते दश दद्यात् । गा इति प्रकरणागम्यते ॥३॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/04_RShabhashchAtrAdhikaH_sarvatra_prAyashchittArthaH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 ऋषभश्चात्राधिकः सर्वत्र प्रायश्चित्तार्थः ४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/24/04_RShabhashchAtrAdhikaH_sarvatra_prAyashchittArthaH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 4. And in every one (of these cases) one bull (must be given) in excess (of the number of cows) for the sake of expiation.
@@ -119,17 +138,22 @@ title = "२४ हत्यादि"
 
 [^३]: म० स्मृ० ११, १२७-१३०
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/05_strIShu_chaiteShAmevam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 स्त्रीषु चैतेषामेवम् ५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/24/05_strIShu_chaiteShAmevam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 5. And if women of the (three castes mentioned have been slain) the same (composition must be paid).
@@ -143,17 +167,22 @@ title = "२४ हत्यादि"
 **टीका**  
 एतेषां क्षत्रियादीनां स्त्रीषु च हतासु एवमेव प्रायश्चित्तं यथा पुरुषेषु॥५॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/06_pUrvayorvarNayorvedAdhyAyaM_hatvA_savanagataM.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 पूर्वयोर्वर्णयोर्वेदाध्यायं हत्वा सवनगतं वाभिशस्तः ६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/24/06_pUrvayorvarNayorvedAdhyAyaM_hatvA_savanagataM.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 6. He who has slain a man belonging to the two (first-mentioned castes) who has studied the Veda, or had been initiated for the performance of a Soma-sacrifice, becomes an Abhiśasta. [^4] 
@@ -173,17 +202,22 @@ title = "२४ हत्यादि"
 
     इतरपुस्तकेषु "सवर्णाम्बष्ठौ” इत्येव पाठ।
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/07_brAhmaNamAtra~n_cha.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 ब्राह्मणमात्रं च ७
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/24/07_brAhmaNamAtra~n_cha.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 7. And (he is called an Abhiśasta) who has slain a man belonging merely to the Brāhmaṇa caste (though he has not studied the Veda or been initiated for a Soma-sacrifice),
@@ -197,17 +231,22 @@ title = "२४ हत्यादि"
 **टीका**  
 हत्वाऽभिशस्तो भवति । मात्रग्रहणान्नाऽभिजनविद्यासंस्काराद्यपेक्षा ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/08_garbha~n_cha_tasyAvijnAtam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 गर्भं च तस्याविज्ञातम् ८
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/24/08_garbha~n_cha_tasyAvijnAtam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 8. Likewise he who has destroyed an embryo of a (Brāhmaṇa, even though its sex be) undistinguishable,
@@ -221,17 +260,22 @@ title = "२४ हत्यादि"
 **टीका**  
 तस्य ब्राह्मणमात्रस्य । गर्भं च स्त्रीपुन्नपुंसकभेदेनाऽविज्ञातम् । हत्वाभिशस्तो भवति ॥८॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/09_AtreyI~n_cha_striyam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 आत्रेयीं +++(=ऋतुस्नाताम्)+++ च स्त्रियम् ९
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/24/09_AtreyI~n_cha_striyam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 9. Or a woman (of the Brāhmaṇa caste) during her courses. [^5] 
@@ -249,17 +293,22 @@ title = "२४ हत्यादि"
 
 [^२]: वि०ध० १०.९४,
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/10_tasya_nirveShaH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तस्य निर्वेषः +++(=प्रायश्चित्तम्)+++ १०
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/24/10_tasya_nirveShaH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 10. (Now follows) the penance for him (who is an Abhiśasta).
@@ -273,17 +322,22 @@ title = "२४ हत्यादि"
 **टीका**  
 तस्य सर्वप्रकाराभिशस्तस्य निर्वेषः प्रायश्चित्तं वक्ष्यते ॥१०॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/11_araNye_kuTi~N_kRtvA.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अरण्ये कुटिं कृत्वा वाग्यतः शवशिरध्वजोऽर्धशाणीपक्षमधोनाभ्युपरिजान्वाच्छाद्य ११
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/24/11_araNye_kuTi~N_kRtvA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 11. He (himself) shall erect a hut in the forest, restrain his speech, carry (on his stick) the skull (of the person slain) like a flag, and cover the space from his navel to his knees with a quarter of a piece of hempen cloth. [^6] 
@@ -299,17 +353,22 @@ title = "२४ हत्यादि"
 **टीका**  
 कृत्वेति वचनान्न परकृता कुटी ग्राह्या । वाक् यता नियता येन स वाग्यतः वाचयमः। आहिताग्न्यादिषु दर्शनात् निष्ठान्तस्य परनिपातः। शवशिरः ध्वजो यस्य स शवशिरोध्वजः । सकारलोपश्छान्दसः। स्वव्यापादितस्य शिरो ध्वजदण्डस्याग्रे प्रोतं कृत्वेत्यर्थः यस्य कस्यचिच्छवस्येत्यन्ये । शणस्य विकारःशाणी पटी तस्या अर्धमर्धशाणी तस्याः पक्षमर्धशाणीपक्ष आयामविस्तारयोरुभयोरप्यर्धम् । अधो नाभि उपरिजानु च यथा भवति तथा तावन्तं प्रदेशमाच्छाद्य । सापेक्षत्वात् 'ग्रामे प्रतिष्ठेते'(२४.१४.)ति वक्ष्यमाणेन सम्बन्धः । मध्ये क्रियान्तरविधिः ॥११॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/12_tasya_panthA_antarA.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तस्य पन्था अन्तरा वर्त्मनी १२
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/24/12_tasya_panthA_antarA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 12. The path for him when he goes to a village, is the space between the tracks (of the wheels).
@@ -323,17 +382,22 @@ title = "२४ हत्यादि"
 **टीका**  
 तस्य ग्रामं प्रविशतः वर्त्मनी अन्तरा शकटादेर्वत्मनोर्मध्ये पन्था वेदितव्यः । अपर आह- यत्र रथ्यादावुभयोः पार्श्वयोर्वर्त्मनी भवतः तत्र तयोर्मध्येन सूकरादिपथेन सञ्चरेदिति ॥ १२ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/13_dRShTvA_chAnyamutkrAmet.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 दृष्ट्वा चान्यमुत्क्रामेत् १३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/24/13_dRShTvA_chAnyamutkrAmet.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 13. And if he sees another (Ārya), he shall step out of the road (to the distance of two yards).
@@ -351,17 +415,22 @@ title = "२४ हत्यादि"
 
     कौटि० अर्थ० २. ४. २१.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/14_khaNDena_lohitakena_sharAveNa.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 खण्डेन लोहितकेन शरावेण ग्रामे प्रतिष्ठेत १४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/24/14_khaNDena_lohitakena_sharAveNa.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 14. He shall go to the village, carrying a broken tray of metal of an inferior quality.
@@ -379,17 +448,22 @@ title = "२४ हत्यादि"
 
     लोहितं मनाक्ताम्रम् इति. क. पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/15_ko-bhishastAya_bhixAmiti_saptAgArANi.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 कोऽभिशस्ताय भिक्षामिति सप्तागाराणि चरेत् १५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/24/15_ko-bhishastAya_bhixAmiti_saptAgArANi.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 15. He may go to seven houses only, (crying,) 'Who will give alms to an Abhiśasta?'
@@ -411,17 +485,22 @@ title = "२४ हत्यादि"
 
     अभिशस्ते को धार्मिकः, इत्येव पाठः ग. पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/16_sA_vRttiH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 सा वृत्तिः १६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/24/16_sA_vRttiH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 16. That is (the way in which he must gain) his livelihood.
@@ -435,17 +514,22 @@ title = "२४ हत्यादि"
 **टीका**  
 सप्तस्वगारेषु या च यावती लभ्यते सैव वृत्तिः अपर्याप्ताऽपि ॥१६॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/17_alabdhopavAsaH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अलब्धोपवासः १७
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/24/17_alabdhopavAsaH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 17. If he does not obtain anything (at the seven houses), he must fast.
@@ -459,17 +543,22 @@ title = "२४ हत्यादि"
 **टीका**  
 यदि सप्तागारेषु न किञ्चिल्लभ्यते तदोपवास एव तस्मिन्नहनि ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/18_gAshcha_raxet.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 गाश्च रक्षेत् १८
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/24/18_gAshcha_raxet.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 18. And (whilst performing this penance) he must tend cows.
@@ -483,17 +572,22 @@ title = "२४ हत्यादि"
 **टीका**  
 एवं प्रायश्चित्तं कुर्वन्नहरहर्गाश्च रक्षेत् ॥ १८॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/19_tAsAn_niShkramaNapraveshane_dvitIyo.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तासां निष्क्रमणप्रवेशने द्वितीयो ग्रामेऽर्थः १९
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/24/19_tAsAn_niShkramaNapraveshane_dvitIyo.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 19. When they leave and enter the village, that is the second occasion (on which he may enter) the village.
@@ -507,17 +601,22 @@ title = "२४ हत्यादि"
 **टीका**  
 तासां गवां निष्क्रमणसमये प्रवेशनसमये च द्वितीयो ग्रामेऽर्थः प्रयोजनम् । भिक्षार्थ प्रथममुक्तम् । नाऽन्यथा ग्रामं प्रविशेदित्युक्तं भवति ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/20_dvAdasha_varShANi_charitvA.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 द्वादश वर्षाणि चरित्वा सिद्धः सद्भिः संप्रयोगः २०
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/24/20_dvAdasha_varShANi_charitvA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 20. After having performed (this penance) for twelve years, he must perform) the ceremony known (by custom), through which he is re-admitted into the society of the good. [^7] 
@@ -537,17 +636,22 @@ title = "२४ हत्यादि"
 
     'व्रतमेतदिति आधिकं पुस्तके
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/21_Ajipathe_vA_kuTimkRtvA.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 आजिपथे वा कुटिङ्कृत्वा ब्राह्मणगव्योपजिगीषंआणो वसेत्त्रिः प्रतिराद्धोऽपजित्य वा मुक्तः २१
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/24/21_Ajipathe_vA_kuTimkRtvA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 21. Or (after having performed the twelve years' penance), he may build a hut on the path of robbers, and live there, trying to take from them the cows of Brāhmaṇas. He is free (from his sin), when thrice he has been defeated by them, or when he has vanquished them. [^8] 
@@ -565,17 +669,22 @@ title = "२४ हत्यादि"
 
 [^२]: पा० सू० ६.१.१०६.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/22_AshvamedhikaM_vAvabhRthamavetya_muchyate.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 आश्वमेधिकं वावभृथमवेत्य मुच्यते २२
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/24/22_AshvamedhikaM_vAvabhRthamavetya_muchyate.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 22. Or he is freed (from his sin), if (after the twelve years' penance) he bathes (with the priests) at the end of a horse-sacrifice. [^9] 
@@ -591,17 +700,22 @@ title = "२४ हत्यादि"
 **टीका**  
 अथ वाऽश्वमेधावभृथे स्नात्वा मुच्यते ॥ २२ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/23_dharmArthasannipAte-rthagrAhiNa_etadeva.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 धर्मार्थसंनिपातेऽर्थग्राहिण एतदेव २३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/24/23_dharmArthasannipAte-rthagrAhiNa_etadeva.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 23. This very same (penance is ordained) for him who, when his duty and love of gain come into conflict, chooses the gain. [^10] 
@@ -636,17 +750,22 @@ title = "२४ हत्यादि"
 
     तेन पुत्रादिभिस्सरकाराद्यौर्ध्वदेहिकाः कार्या इति भावः, इति ख.पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/24_guruM_hatvA_shrotriyaM.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 गुरुं हत्वा श्रोत्रियं वा कर्मसमाप्तमेतेनैव विधिनोत्तमादुच्छ्वासाच्चरेत् २४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/24/24_guruM_hatvA_shrotriyaM.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 24. If he has slain a Guru or a Brāhmaṇa, who has studied the Veda and finished the ceremonies of a Soma-sacrifice, he shall live according to this very same rule until his last breath. [^11] 
@@ -663,17 +782,22 @@ title = "२४ हत्यादि"
 गुरुः पित्राचार्यादिः । श्रोत्रियोऽधीतवेदः । स यदि कर्मसमाप्तो भवति सोमान्तानि कर्माणि समाप्तानि यस्य स कर्मसमाप्तः । तो हत्वा एतेनैवाऽनन्तरोक्तेन विधिना ओत्तमादुच्छ्वासात् । उत्तम उच्छ्वासःप्राणविनियोगः ।
 आ तस्माच्चरेत् ॥ २४॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/24/25_nAsyAsmiMlloke_pratyApattirvidyate_kalmaShan.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 नास्यास्मिंल्लोके प्रत्यापत्तिर्विद्यते कल्मषं तु निर्हण्यते २५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/24/25_nAsyAsmiMlloke_pratyApattirvidyate_kalmaShan.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 25. He cannot be purified in this life. But his sin is removed (after death). [^12] 
@@ -696,6 +820,7 @@ title = "२४ हत्यादि"
 मृतस्य कल्मषं निर्हण्यते । [^४]तेन पुत्रादिभिः संस्कारादिः कर्तव्य इति भावः । अन्ये तु पूर्वं सूत्रं तन्निवृत्यर्थं मन्यन्ते । प्रत्यापत्तिः पुत्रादिभिः पित्रादिभावेन सम्बन्ध इति ॥२६॥  
 
 इति हरदत्तविरचितायामापस्तम्बसूत्रवृत्तौ चतुर्विंशी कडिका ॥२४॥
+</details>
 </details>
 
 </div>

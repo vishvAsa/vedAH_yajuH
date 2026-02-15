@@ -4,12 +4,16 @@ title = "२६ राजा, नियोगः"
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/01_bhRtyAnAmanuparodhena_xetraM_vitta~n.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 भृत्यानामनुपरोधेन क्षेत्रं वित्तं च ददद्ब्राह्मणेभ्यो यथार्हमनन्तांल् लोकाभिजयति १
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/10/26/01_bhRtyAnAmanuparodhena_xetraM_vitta~n.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 1. A (king) who, without detriment to his servants, gives land and money to Brāhmaṇas according to their deserts gains endless worlds. [^1] 
@@ -25,17 +29,22 @@ title = "२६ राजा, नियोगः"
 **टीका**  
 भृत्यानामनुपरोधेन भृत्यवर्गस्य यथोपरोधो न भवति तथा ब्राह्मणेभ्यो यथार्हं विद्यावृत्ताद्यनुरूपं क्षेत्रं वित्तं च दद्यात् । एवं दददनन्ताल्ँलोकानभिजयति ॥१॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/02_brAhmaNasvAnyapajigIShamANo_rAjA_yo.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 ब्राह्मणस्वान्यपजिगीषमाणो राजा यो हन्यते तमाहुरात्मयूपो यज्ञोऽनन्तदक्षिण इति २
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/10/26/02_brAhmaNasvAnyapajigIShamANo_rAjA_yo.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 2. They say (that) a king, who is slain in attempting to recover the property of Brāhmaṇas, (performs) a sacrifice where his body takes the place of the sacrificial post, and at which an unlimited fee is given. [^2] 
@@ -51,17 +60,22 @@ title = "२६ राजा, नियोगः"
 **टीका**  
 ब्राह्मणस्वानि चोरादिभिरपहृतानि अपजिगीषमाणः ब्राह्मणेभ्यो दानायापजित्य ग्रहीतुमिच्छन् यो राजा युद्धे चोरैर्हन्यते तमात्मयूपोऽनन्तदक्षिणो यज्ञ इत्याहुर्धर्मज्ञाः । सङ्ग्रामो यज्ञः। तस्य आत्मा यूपस्थानीयः आत्मेति शरीरमाह । अन्तरात्मा तु पशुस्थानीयः । प्रत्यानिनीषितं तु द्रव्यं दक्षिणा । सूत्रे तु 'तं यज्ञ इत्याहुरि'ति गौणो वादः ॥२॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/03_etenAnye_shUrA_vyAkhyAtAH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 एतेनान्ये शूरा व्याख्याताः प्रयोजने युध्यमानास्तनुत्यजः ३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/10/26/03_etenAnye_shUrA_vyAkhyAtAH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 3. Hereby have been declared (the rewards of) other heroes, who fall fighting for a (worthy) cause. [^3] 
@@ -77,17 +91,22 @@ title = "२६ राजा, नियोगः"
 **टीका**  
 प्रयोजनं चोरादिभिरपहृतानां ब्राह्मणस्वानां प्रत्यानयनादि, तदर्थं युध्यमाना ये शूरास्तनुत्यजो भवन्ति तेऽप्येतेन राज्ञा व्याख्याता आत्मयूपा यज्ञा अनन्तदक्षिणा इति ॥ ३ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/04_grAmeShu_nagareShu_chAryAnshuchInsatyashIlAnprajAguptaye.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 ग्रामेषु नगरेषु चार्यान्शुचीन्सत्यशीलान्प्रजागुप्तये निदध्यात् ४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/10/26/04_grAmeShu_nagareShu_chAryAnshuchInsatyashIlAnprajAguptaye.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 4. He shall appoint men of the first three castes, who are pure and truthful, over villages and towns for the protection of the people. [^4] 
@@ -103,17 +122,22 @@ title = "२६ राजा, नियोगः"
 **टीका**  
 आर्याञ्छुचीन् सत्यशीलानिति व्याख्यातम् । एवंभूतान् पुरुषानू ग्रामेषु नगरेषु च प्रजानां रक्षणार्थं निदध्यात् नियुञ्जति ॥ ४॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/05_teShAm_puruShAstathAguNA_eva.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तेषां पुरुषास्तथागुणा एव स्युः ५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/10/26/05_teShAm_puruShAstathAguNA_eva.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 5. Their servants shall possess the same qualities.
@@ -127,17 +151,22 @@ title = "२६ राजा, नियोगः"
 **टीका**  
 तेषां नियुक्तानां ये पुरुषा नियोज्याः तेऽपि तथागुणा आर्यादिगुणा एव स्युः ॥५॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/06_sarvato_yojanan_nagaran.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 सर्वतो योजनं नगरं तस्करेभ्यो रक्ष्यम् ६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/10/26/06_sarvato_yojanan_nagaran.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 6. They must protect a town from thieves in every direction to the distance of one yojana. [^5] 
@@ -153,17 +182,22 @@ title = "२६ राजा, नियोगः"
 **टीका**  
 सर्वतः सर्वासु दिक्षु योजनमात्रं नगरं तस्करेभ्यो रक्षणीयम् । रक्ष्यन्नित्यपपाठः ॥६॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/07_krosho_grAmebhyaH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 क्रोशो ग्रामेभ्यः ७
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/10/26/07_krosho_grAmebhyaH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 7. (They must protect the country to the distance of) one krośa from each village. [^6] 
@@ -181,17 +215,22 @@ title = "२६ राजा, नियोगः"
 
 [^१]: पा० सू० (वा) १. ४. ३१.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/08_tatra_yanmuShyate_taistatpratidApyam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तत्र यन्मुष्यते तैस्तत्प्रतिदाप्यम् ८
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/10/26/08_tatra_yanmuShyate_taistatpratidApyam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 8. They must be made to repay what is stolen within these (boundaries). [^7] 
@@ -207,17 +246,22 @@ title = "२६ राजा, नियोगः"
 **टीका**  
 तत्र योजनमाने क्रोशमात्रे वा यन्मुष्यते चोर्यते ते नियुक्ताः स्वामिभ्यस्तत्प्रतिदद्यू राज्ञा तैस्तत् प्रतिदाप्यम् राजा तैः प्रतिदापयेदिति प्रायेण दन्त्योष्ठयं वकारं पठन्ति ॥ ८॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/09_dhArmyaM_shulkamavahArayet.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 धार्म्यं शुल्कमवहारयेत् ९
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/10/26/09_dhArmyaM_shulkamavahArayet.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 9. The (king) shall make them collect the lawful taxes (śulka). [^8] 
@@ -239,17 +283,22 @@ title = "२६ राजा, नियोगः"
 
 [^३]: गौ०ध० १०,२७.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/10_akaraH_shrotriyaH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अकरः श्रोत्रियः १०
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/10/26/10_akaraH_shrotriyaH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 10. A learned Brāhmaṇa is free from taxes, [^9] 
@@ -265,17 +314,22 @@ title = "२६ राजा, नियोगः"
 **टीका**  
 श्रोत्रियः करं न दाप्यः । अन्ये दाप्याः ॥१०॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/11_sarvavarNAnA~n_cha_striyaH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 सर्ववर्णानां च स्त्रियः ११
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/10/26/11_sarvavarNAnA~n_cha_striyaH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 11. And the women of all castes, [^10] 
@@ -291,17 +345,22 @@ title = "२६ राजा, नियोगः"
 **टीका**  
 अकराः । वर्णग्रहणात् प्रतिलोमादिस्त्रियो दाप्याः ॥११॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/12_kumArAshcha_prAg_vyanjanebhyaH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 कुमाराश्च प्राग् व्यञ्जनेभ्यः १२
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/10/26/12_kumArAshcha_prAg_vyanjanebhyaH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 12. And male children before the marks (of puberty appear),
@@ -315,17 +374,22 @@ title = "२६ राजा, नियोगः"
 **टीका**  
 व्यञ्जनानि श्मश्र्वादीनि । यावत्तानि नोत्पद्यन्ते तावदकराः ॥ १२ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/13_ye_cha_vidyArthA.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 ये च विद्यार्था वसन्ति १३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/10/26/13_ye_cha_vidyArthA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 13. And those who live (with a teacher) in order to study,
@@ -339,17 +403,22 @@ title = "२६ राजा, नियोगः"
 **टीका**  
 विद्यामुद्दिश्य ये गुरुषु वसन्ति ते जातव्यञ्जना अप्यसमाप्तवेदा अकराः ॥ १३ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/14_tapasvinashcha_ye_dharmaparAH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तपस्विनश्च ये धर्मपराः १४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/10/26/14_tapasvinashcha_ye_dharmaparAH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 14. And those who perform austerities, being intent on fulfilling the sacred law, [^11] 
@@ -365,17 +434,22 @@ title = "२६ राजा, नियोगः"
 **टीका**  
 तपस्विनः कृच्छ्रचान्द्रायणादिप्रवृत्ताः। धर्मपरा , अफलाकाङ्क्षिणः नित्यनैमित्तिकधर्मनिरताः। धर्मपरा इति किम् ? ये अभिचारकामा मन्त्रासिद्धये तपस्तप्यन्ते ते अकरा मा भूवन्निति ॥१४॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/15_shUdrashcha_pAdAvanektA.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 शूद्रश्च पादावनेक्ता +++(= पादधावनजीवी)+++ १५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/10/26/15_shUdrashcha_pAdAvanektA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 15. And a Śūdra who lives by washing the feet,
@@ -389,17 +463,22 @@ title = "२६ राजा, नियोगः"
 **टीका**  
 यस्त्रैवर्णिकानां पादावनेक्ता स शूद्रोऽप्यकरः ॥१५॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/16_andhamUkabadhirarogaviShTAshcha.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अन्धमूकबधिररोगविष्टाश्च १६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/10/26/16_andhamUkabadhirarogaviShTAshcha.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 16. Also blind, dumb, deaf, and diseased persons (as long as their infirmities last),
@@ -413,17 +492,22 @@ title = "२६ राजा, नियोगः"
 **टीका**  
 एतेऽप्यकराः यावदान्ध्यादि ॥ १६ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/17_ye_vyarthA_dravyaparigrahaiH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 ये व्यर्था +++(=मुक्ताश् शास्त्रैः)+++ द्रव्यपरिग्रहैः १७
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/10/26/17_ye_vyarthA_dravyaparigrahaiH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 17. And those to whom the acquisition of property is forbidden (as Sannyāsins).
@@ -441,17 +525,22 @@ title = "२६ राजा, नियोगः"
 
 [^१]: व०ध० १९. २३.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/18_abuddhipUrvamalankRto_yuvA_paradAramanupravishankumArIM.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अबुद्धिपूर्वमलंकृतो युवा परदारमनुप्रविशन्कुमारीं वा वाचा बाध्यः १८
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/10/26/18_abuddhipUrvamalankRto_yuvA_paradAramanupravishankumArIM.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 18. A young man who, decked with ornaments, enters unintentionally (a place where) a married woman or a (marriageable) damsel (sits), must be reprimanded. [^12] 
@@ -467,17 +556,22 @@ title = "२६ राजा, नियोगः"
 **टीका**  
 यत्र परदारा आसते कुमारी वा पतिंवरा, तत्र युवा अलङ्कृतः अबुद्धिपूर्वमज्ञानादनुप्रविशन् वाचा बाध्यः-अत्रेयमास्ते,माऽत्र प्रविशेति ॥१८॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/19_buddhipUrvan_tu_duShTabhAvo.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 बुद्धिपूर्वं तु दुष्टभावो दण्ड्यः १९
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/10/26/19_buddhipUrvan_tu_duShTabhAvo.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 19. But he does it intentionally with a bad purpose, he must be fined. [^13] 
@@ -493,17 +587,22 @@ title = "२६ राजा, नियोगः"
 **टीका**  
 यस्तु जानन्नेव दुष्टभावः प्रलोभनार्थी प्रविशति स दण्ड्यो द्रव्यानुरूपमपराधानुरूपं च । दुष्टभावग्रहणमाचार्यादिप्रेषितस्य प्रवेशे दण्डो मा भूदिति ॥१९॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/20_sannipAte_vRtte_shishnachChedanaM.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 संनिपाते वृत्ते शिश्नच्छेदनं सवृषणस्य २०
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/10/26/20_sannipAte_vRtte_shishnachChedanaM.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 20. If he has actually committed adultery, his organ shall be cut off together with the testicles.
@@ -517,17 +616,22 @@ title = "२६ राजा, नियोगः"
 **टीका**  
 सन्निपातो मैथुनं, तस्मिन् वृत्ते शिश्नच्छेदनं दण्डः । सवृषणस्येत्युपसर्जनस्यापि शिश्नस्य विशेषणम् । सवृषणस्य शिश्नस्य च्छेदनमिति ॥२०॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/21_kumAryAn_tu_svAnyAdAya.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 कुमार्यां तु स्वान्यादाय नाश्यः २१
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/10/26/21_kumAryAn_tu_svAnyAdAya.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 21. But (if he has had intercourse) with a (marriageable) girl, his property shall be confiscated and he shall be banished.
@@ -541,17 +645,22 @@ title = "२६ राजा, नियोगः"
 **टीका**  
 कुमार्यां तु सन्निपाते वृत्ते सर्वस्वहरणं कृत्वा देशान्निर्वास्यः, न शिश्नच्छेदः ॥ २१ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/22_atha_bhRtye_rAjnA.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अथ +++(परदार-कुमार्यौ)+++ भृत्ये राज्ञा २२
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/10/26/22_atha_bhRtye_rAjnA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 22. Afterwards the king must support (such women and damsels),
@@ -565,17 +674,22 @@ title = "२६ राजा, नियोगः"
 **टीका**  
 अथ सन्निपानात्प्रभृति ते परदारकुमार्यौ राज्ञा भृत्ये ग्रासाच्छादनप्रदानेन भर्तव्ये ॥ २२ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/23_raxye_chAta_Urdhvam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 रक्ष्ये चात ऊर्ध्वं मैथुनात् २३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/10/26/23_raxye_chAta_Urdhvam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 23. And protect them from defilement.
@@ -589,17 +703,22 @@ title = "२६ राजा, नियोगः"
 **टीका**  
 अतः प्रथमात् सन्निपातात् ऊर्ध्वं मैथुनाच्च रक्ष्ये यथा पुनः मैथुनं नाचरतस्तथा कार्ये ॥ २३ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/10/26/24_nirveShAbhyupAye_tu_svAmibhyo-vasRjet.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 निर्वेषाभ्युपाये तु स्वामिभ्योऽवसृजेत् २४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/10/26/24_nirveShAbhyupAye_tu_svAmibhyo-vasRjet.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 24. If they agree to undergo the (prescribed) penance, he shall make them over to their (lawful) guardians. [^14] 
@@ -616,6 +735,7 @@ title = "२६ राजा, नियोगः"
 यदि ते एवं निरुद्धे निर्वेषणमभ्युपेतः अभ्युपगच्छत्तः तदा निर्वेषाभ्युपाये तु स्वामिहस्ते अवसृजेत् दद्यात् । परदारं भर्त्रे श्वशुराय वा, कुमारीं पित्रे भ्रात्रे वा। अनभ्युपगमे तु प्रायश्चित्तस्य यावज्जीवं निरोधः ॥ २१ ॥  
 
 इत्यापस्तम्बधर्मसूत्रे द्वितीयप्रश्ने षड्विंशी कण्डिका ॥ २६ ॥
+</details>
 </details>
 
 </div>

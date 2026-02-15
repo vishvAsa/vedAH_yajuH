@@ -4,12 +4,16 @@ title = "२१ आश्रमाः, सन्न्यासि-वानप�
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/01_chatvAra_AshramA_gArhasthyamAchAryakulam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 चत्वार आश्रमा गार्हस्थ्यम् आचार्यकुलं मौनं +++(=मुनिता/ सन्यासः)+++ वानप्रस्थ्यम् इति १
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/21/01_chatvAra_AshramA_gArhasthyamAchAryakulam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 1. There are four orders, viz. the order of householders, the order of students, the order of ascetics, and the order of hermits in the woods. [^1] 
@@ -30,17 +34,22 @@ title = "२१ आश्रमाः, सन्न्यासि-वानप�
 
 [^१]: गौ०ध० ३.३६.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/02_teShu_sarveShu_yathopadeshamavyagro.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तेषु सर्वेषु यथोपदेशम् अव्यग्रो वर्तमानः क्षेमं गच्छति २
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/21/02_teShu_sarveShu_yathopadeshamavyagro.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 2. If he lives in all these four according to the rules (of the law), without allowing himself to be disturbed (by anything), he will obtain salvation. [^2] 
@@ -59,17 +68,22 @@ title = "२१ आश्रमाः, सन्न्यासि-वानप�
 
 [^१]: गौ०ध० ३. १.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/03_sarveShAmupanayanaprabhRti_samAna_AchAryakule.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 सर्वेषाम् उपनयन-प्रभृति समान आचार्य-कुले वासः ३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/21/03_sarveShAmupanayanaprabhRti_samAna_AchAryakule.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 3. The duty to live in the teacher's house after the initiation is common to all of them. [^3] 
@@ -85,17 +99,22 @@ title = "२१ आश्रमाः, सन्न्यासि-वानप�
 **टीका**  
 उपनयनप्रभृति य आचार्यकुले वासोऽष्टाचत्वारिंशद्वर्षादीनामन्यतमस्स सर्वेषामाश्रमाणां समानः ॥३॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/04_sarveShAmanUtsargo_vidyAyAH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 सर्वेषाम् अनूत्सर्गो विद्यायाः ४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/21/04_sarveShAmanUtsargo_vidyAyAH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 4. Not to abandon sacred learning (is a duty common) to all.
@@ -109,17 +128,22 @@ title = "२१ आश्रमाः, सन्न्यासि-वानप�
 **टीका**  
 अनूत्सर्गः छान्दसो दीर्घः । विद्याया अनूत्सर्गोऽपि सर्वेषामाश्रमाणां समानः । तस्मादाचार्यकुले वासस्समान इति ॥ ४॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/05_buddhvA_karmANi_yatkAmayeta.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 बुद्ध्वा कर्माणि यत् कामयेत तद् आरभेत ५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/21/05_buddhvA_karmANi_yatkAmayeta.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 5. Having learnt the rites (that are to be performed in each order), he may perform what he wishes.
@@ -133,19 +157,24 @@ title = "२१ आश्रमाः, सन्न्यासि-वानप�
 **टीका**  
 प्रत्याश्रमं यानि कर्माणि विहितानि, तानि बुद्ध्वा गृहस्थस्यैतानि कर्तव्यानि । एषामननुष्ठाने प्रत्यवायः । फलं चेदमेषाम्, एतानि शक्यान्यनुष्ठातुं, नैतानीत्याचार्यादुपश्रुत्य यत्कर्म फलं वा कामयेत तदारभेत तमाश्रमं प्रतिपद्यतेति ॥५॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/06_yathA_vidyArthasya_niyama.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 यथा विद्यार्थस्य नियम,  
 एतेनैवान्तम् अनूपसीदत+++(ः= उपसदनतः)+++  
 आचार्य-कुले शरीर-न्यासो ब्रह्मचारिणः +++(नैष्ठिकस्य)+++६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/21/06_yathA_vidyArthasya_niyama.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 6. Worshipping until death (and living) according to the rule of a (temporary) student, a (professed) student may leave his body in the house of his teacher.
@@ -175,17 +204,22 @@ title = "२१ आश्रमाः, सन्न्यासि-वानप�
 
 [^१]: म०स्मृ० २४७-२४१.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/07_atha_parivrAjaH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अथ परिव्राजः ७
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/21/07_atha_parivrAjaH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 7. Now (follow the rules) regarding the ascetic (Saṃnyāsin).
@@ -199,17 +233,22 @@ title = "२१ आश्रमाः, सन्न्यासि-वानप�
 **टीका**  
 अथाऽनन्तरं परिव्राजो धर्म उच्यते । दृष्टादृष्टार्थान् सर्वानेवाऽऽरम्भान् परित्यज्याऽऽत्मलाभाय सन्यासाश्रमं परिव्रजतीति परिव्राट् सन्यासी ॥७॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/08_ata_eva_brahmacharyavAnpravrajati.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अत एव ब्रह्मचर्यवान्प्रव्रजति ८
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/21/08_ata_eva_brahmacharyavAnpravrajati.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 8. Only after (having fulfilled) the duties of that (order of students) he shall go forth (as an ascetic), remaining chaste. [^4] 
@@ -252,17 +291,22 @@ title = "२१ आश्रमाः, सन्न्यासि-वानप�
 
 [^२७]: "एक एवांश' इति ड. पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/09_tasyopadishanti.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तस्योपदिशन्ति ९
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/21/09_tasyopadishanti.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 9. For him (the Saṃnyāsin) they prescribe the following rules).
@@ -276,21 +320,26 @@ title = "२१ आश्रमाः, सन्न्यासि-वानप�
 **टीका**  
 तस्य परिव्राजः कर्तव्यमुपदिशन्ति धर्मज्ञाः ॥९॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/10_anagniraniketaH_syAdasharmAsharaNo_muniH.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
 
 अनग्निर् अनिकेतः स्याद्  
 अशर्माशरणो मुनिः  
 स्वाध्यायैवोत्सृजमानो वाचं  
 ग्रामे प्राण-वृत्तिं प्रतिलभ्य  
 +अनिहो ऽनमुत्रश् चरेत् १०
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/21/10_anagniraniketaH_syAdasharmAsharaNo_muniH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 10. He shall live without a fire, without a house, Without pleasures, without protection. Remaining silent and uttering speech only on the occasion of the daily recitation of the Veda, begging so much food only in the village as will sustain his life, he shall wander about neither caring for this world nor for heaven. [^5] 
@@ -315,17 +364,22 @@ title = "२१ आश्रमाः, सन्न्यासि-वानप�
 
 [^२]: गौ० ३. १३.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/11_tasya_muktam_AchChAdanaM.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तस्य मुक्तम् +++(=त्यक्तम्)+++ आच्छादनं विहितम् ११
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/21/11_tasya_muktam_AchChAdanaM.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 11. It is ordained that he shall wear clothes thrown away (by others as useless).
@@ -339,17 +393,22 @@ title = "२१ आश्रमाः, सन्न्यासि-वानप�
 **टीका**  
 यत् परैर्मुक्तं परित्यक्तमयोग्यतया, तत् तस्य विहितमाच्छादनं, तद्वास आच्छादयेत् । निर्णिज्येति गौतमः ॥ ११ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/12_sarvataH_parimoxameke.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 सर्वतः +++(विधितो निषेधतश्च)+++ परिमोक्षम् एके १२
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/21/12_sarvataH_parimoxameke.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 12. Some declare that he shall go naked. [^6] 
@@ -367,17 +426,22 @@ title = "२१ आश्रमाः, सन्न्यासि-वानप�
 सर्वतो विधितो निषेधतश्चाऽस्य परिमोक्षमेके ब्रुवते ।  
 न किञ्चिदस्य कृत्यं न किञ्चिदस्य वर्ज्यमिति ॥ १२ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/13_satyAnRte_sukhaduHkhe_vedAnimaM.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 सत्यानृते सुखदुःखे वेदानिमं लोकममुं च परित्यज्यात्मानम् अन्विच्छेत् १३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/21/13_satyAnRte_sukhaduHkhe_vedAnimaM.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 13. Abandoning truth and falsehood, pleasure and pain, the Vedas, this world and the next, he shall seek the Ātman. [^7] 
@@ -398,17 +462,22 @@ title = "२१ आश्रमाः, सन्न्यासि-वानप�
 
 [^३]: म० स्मृ० ८.१०४.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/14_buddhe_xemaprApaNam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 बुद्धे क्षेम-प्रापणम् १४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/21/14_buddhe_xemaprApaNam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 14. (Some say that) he obtains salvation if he knows (the Ātman).
@@ -436,17 +505,22 @@ title = "२१ आश्रमाः, सन्न्यासि-वानप�
 
 [^४]: श्रीमद्भ० ग० ४, ३७
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/15_tachChAstrairvipratiShiddham.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तच् छास्त्रैर् विप्रतिषिद्धम् १५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/21/15_tachChAstrairvipratiShiddham.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 15. (But) that (opinion) is opposed to the Śāstras. [^8] 
@@ -474,18 +548,23 @@ title = "२१ आश्रमाः, सन्न्यासि-वानप�
 
 [^५]: म० स्मृ०. ६.४८, ५०
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/16_buddhe_chetxemaprApaNamihaiva_na.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 बुद्धे चेत्क्षेमप्रापणम्  
 इहैव न दुःखम् उपलभेत १६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/21/16_buddhe_chetxemaprApaNamihaiva_na.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 16. (For) if salvation were obtained by the knowledge of the Ātman alone, then he ought not to feel any pain even in this (world).
@@ -502,17 +581,22 @@ title = "२१ आश्रमाः, सन्न्यासि-वानप�
 **टीका**  
 आत्मबोधमात्रेण चेत् क्षेमं प्राप्यते, तदा इहैव शरीरे दुःखं नोपलभेत ज्ञानी । न चैतदस्ति । न हि ज्ञानिनां मूर्धाभिषिक्तंमन्योऽपि क्षुधादुःखमेव तावत् क्षणमात्रमपि सोढुं प्रभवति ॥ १६ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/17_etena_paraM_vyAkhyAtam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 एतेन परं +++(=पारलौकिकं [दुःखं])+++ व्याख्यातम् +++(न स्वैरचारिणां निवर्तत इति)+++१७
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/21/17_etena_paraM_vyAkhyAtam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 17. Thereby that which follows has been declared. [^9] 
@@ -534,17 +618,22 @@ title = "२१ आश्रमाः, सन्न्यासि-वानप�
 
 * *.एतच्चिह्नानन्तरं अत्र यदुदाहृतं 'ज्ञानेन सर्व दह्यत' इति तत्र ज्ञानदशायाः प्रागर्जितानि कर्माणि प्रायश्चित्तेन ज्ञानेन वा दह्यन्त इत्युच्यते, न पुनर्ज्ञानदशायां स्वैरचारोऽनुज्ञायते। यस्य हि स्वशरीरेऽपि वीभत्सा स कथं पश्वादिभिरविशेषस्त्रीसङ्गमादौ प्रवर्तत" इति भागः क. पुस्तक एवास्ति अधिकपाठतया परिगणितः च. पुस्तके टिप्पण्याम्
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/18_atha_vAnaprasthaH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अथ वानप्रस्थः १८
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/21/18_atha_vAnaprasthaH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 18. Now (follow the rules regarding) the hermit living in the woods.
@@ -558,17 +647,22 @@ title = "२१ आश्रमाः, सन्न्यासि-वानप�
 **टीका**  
 अनन्तरं वानप्रस्थाश्रम उच्यते ॥ १८॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/19_ata_eva_brahmacharyavAnpravrajati.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अत एव ब्रह्मचर्यवान्प्रव्रजति १९
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/21/19_ata_eva_brahmacharyavAnpravrajati.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 19. Only after (completing) that (studentship) he shall go forth, remaining chaste.
@@ -584,17 +678,22 @@ title = "२१ आश्रमाः, सन्न्यासि-वानप�
 
 [^३]: गौ० ध० ३.३३
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/20_tasyopadishanti.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तस्योपदिशन्ति २०
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/21/20_tasyopadishanti.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 20. For him they give (the following rules):
@@ -613,18 +712,23 @@ title = "२१ आश्रमाः, सन्न्यासि-वानप�
 
 इत्यापस्तम्बधर्मसूत्रवृत्तौ द्वितीयप्रश्ने एकविंशी कण्डिका ॥ २१ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/21_ekAgniraniketaH_syAdasharmAsharaNo_muniH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 एकाग्निर् अनिकेतः स्याद्  
 अशर्माशरणो मुनिः २१
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/21/21_ekAgniraniketaH_syAdasharmAsharaNo_muniH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 21. he shall keep one fire only, have no house, enjoy no pleasures, have no protector, observe silence,
@@ -638,17 +742,22 @@ title = "२१ आश्रमाः, सन्न्यासि-वानप�
 **टीका**  
 +++(पूर्वसूत्रे द्रष्टव्यम्।)+++
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/21/22_svAdhyAya_evotsRjamAno_vAcham.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 स्वाध्याय एवोत्सृजमानो वाचम् २१
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/21/22_svAdhyAya_evotsRjamAno_vAcham.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 uttering speech on the occasion of the daily recitation of the Veda only. [^10]
@@ -663,6 +772,7 @@ uttering speech on the occasion of the daily recitation of the Veda only. [^10]
 
 **टीका**  
 +++(पूर्वसूत्रे द्रष्टव्यम्।)+++
+</details>
 </details>
 
 </div>

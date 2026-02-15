@@ -4,12 +4,16 @@ title = "०७ ब्रह्मचर्यम्, स्नातकः"
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/07/01_uttiShThet_tUShNIM_vA.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 उत्तिष्ठेत् तूष्णीं वा १
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/02/07/01_uttiShThet_tUShNIM_vA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 1. Or he may rise silently.
@@ -27,17 +31,22 @@ title = "०७ ब्रह्मचर्यम्, स्नातकः"
 
     उत्थायाप्याचमनं न कुर्यात् , आचार्यसमीप एवाचामेत् । इति. ख. पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/07/02_nApaparyAvarteta_guroH_pradaxiNIkRtyApeyAt.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 नापपर्यावर्तेत गुरोः प्रदक्षिणीकृत्यापेयात् २
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/02/07/02_nApaparyAvarteta_guroH_pradaxiNIkRtyApeyAt.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 2. Nor shall he (in going away) move around his teacher with his left hand turned towards him; he shall go away after having walked around him with his right side turned towards him.
@@ -51,17 +60,22 @@ title = "०७ ब्रह्मचर्यम्, स्नातकः"
 **टीका**  
 उत्थाय कार्यवत्तया गन्तुमिच्छन् गुरोरप अपसव्यं न पर्यावर्तेत । किं तु प्रदक्षिणीकृत्याऽपेयात् ॥ २॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/07/03_na_prexeta_nagnAM.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 न प्रेक्षेत नग्नां स्त्रियम् ३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/02/07/03_na_prexeta_nagnAM.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 3. He shall not look at a naked woman. [^1] 
@@ -77,17 +91,22 @@ title = "०७ ब्रह्मचर्यम्, स्नातकः"
 **टीका**    
 यां प्रेक्षमाणस्य मनसो विकारो भवति तां नग्नां स्त्रियं नेक्षेत ॥३॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/07/04_oShadhivanaspatInAm_AchChidya_nopajighret.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 ओषधि-वनस्पतीनाम् आच्छिद्य नोपजिघ्रेत् ४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/02/07/04_oShadhivanaspatInAm_AchChidya_nopajighret.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 4. He shall not cut the (leaves or flowers) of herbs or trees, in order to smell at them. [^2] 
@@ -111,17 +130,22 @@ title = "०७ ब्रह्मचर्यम्, स्नातकः"
 
     यादृच्छिके गन्धग्रहणे न दोषः इति ख. पु०
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/07/05_upAnahau_ChatraM_yAnam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 उपानहौ छत्रं यानम् इति च वर्जयेत् ५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/02/07/05_upAnahau_ChatraM_yAnam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 5. He shall avoid (the use of) shoes, of an umbrella a chariot, and the like (luxuries). [^3] 
@@ -139,17 +163,22 @@ title = "०७ ब्रह्मचर्यम्, स्नातकः"
 
 [^४]: गौ०ध० २.१३.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/07/06_na_smayeta.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 न स्मयेत ६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/02/07/06_na_smayeta.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 6. He shall not smile.
@@ -163,17 +192,22 @@ title = "०७ ब्रह्मचर्यम्, स्नातकः"
 **टीका**  
 स्मितं न कुर्यात् ॥ ६॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/07/07_yadi_smayetApigRhya_smayeteti.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 यदि स्मयेतापिगृह्य स्मयेतेति हि ब्राह्मणम् ७
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/02/07/07_yadi_smayetApigRhya_smayeteti.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 7. If he smiles, he shall smile covering (the mouth with his hand); thus says a Brāhmaṇa.
@@ -187,17 +221,22 @@ title = "०७ ब्रह्मचर्यम्, स्नातकः"
 **टीका**  
 यदि हर्षातिरेकं धारयितुं न शक्यते अपिगृह्य हस्तेन मुखं पिधाय स्मयेत इति ब्राह्मणं 'न स्मयेते'त्यारभ्य ॥ ७ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/07/08_nopajighret_striyam_mukhena.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 नोपजिघ्रेत् स्त्रियं मुखेन ८
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/02/07/08_nopajighret_striyam_mukhena.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 8. He shall not touch a woman with his face, in order to inhale the fragrance of her body.
@@ -215,17 +254,22 @@ title = "०७ ब्रह्मचर्यम्, स्नातकः"
 
 [^२]: अनुलिप्ताङ्गी इति ख. पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/07/09_na_hRdayena_prArthayet.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 न हृदयेन प्रार्थयेत् ९
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/02/07/09_na_hRdayena_prArthayet.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 9. Nor shall he desire her in his heart.
@@ -239,17 +283,22 @@ title = "०७ ब्रह्मचर्यम्, स्नातकः"
 **टीका**  
 हृदयेन मनसा स्त्रियं न प्रार्थयेत्—अपीयं मम स्यादिति ॥ ९ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/07/10_nAkAraNAd_upaspRshet.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 नाकारणाद् उपस्पृशेत् १०
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/02/07/10_nAkAraNAd_upaspRshet.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 10. Nor shall he touch (a woman at all) without a particular reason. [^4] 
@@ -265,17 +314,22 @@ title = "०७ ब्रह्मचर्यम्, स्नातकः"
 **टीका**  
 कारणेन विना स्त्रियं नोपस्पृशेत् । कारणं योक्त्रसन्नहनविमोचनविषम-पतनधारणादि ॥१०॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/07/11_rajasvalo_raktadan_satyavAdI.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 रजस्वलो रक्तदन् सत्यवादी स्याद् इति हि ब्राह्मणम् ११
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/02/07/11_rajasvalo_raktadan_satyavAdI.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 11. A Brāhmaṇa declares, 'He shall be dusty, be shall have dirty teeth, and speak the truth.' [^5] 
@@ -291,17 +345,22 @@ title = "०७ ब्रह्मचर्यम्, स्नातकः"
 **टीका**  
 रजस्वलो मलिनगात्रः । रक्ता दन्ता यस्य स रकदन् । छान्दसो दन्नादेशः । पङ्किलदन्त इत्यर्थः । एतदुभय'मुत्सन्नश्लाघ'(१-१-२७) इत्यनेन गतमपि पुनरुच्यते[^३]श्रौतप्रायश्चित्तप्राप्त्यर्थम् । अनृतं वोक्त्वे(२-१-२७)ति प्रायश्चित्तं वक्ष्यति । सत्यवादी स्यादिति ब्राह्मणम् ॥ ११ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/07/12_yAM_vidyA~N_kurute.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 यां विद्यां कुरुते गुरौ तेऽप्यस्याचार्या ये तस्यां गुरोर्वंश्याः १२
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/02/07/12_yAM_vidyA~N_kurute.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 12. Those teachers, who instructed his teacher in that science which he (the pupil) studies with him, (are to be considered as) spiritual teachers (by the pupil). [^6] 
@@ -318,17 +377,22 @@ title = "०७ ब्रह्मचर्यम्, स्नातकः"
 **टीका**  
 आत्मीये गुरौ यां विद्यां कुरुते अधीते तस्यां विद्यायां गुरोर्वंश्या आचार्यास्तेऽप्यस्य माणवकस्याचार्याः । यद्यपि साक्षात्तेभ्यो न गृह्यते विद्या तथापि आचार्यवदुपचरितव्याः। 'तस्या'मिति वचनाद्विद्यान्तरे ये वंश्यास्तेषु नायं विधिः ॥ १२ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/07/13_yAnanyAnpashyato-syopasangRhNIyAt_tadA_tveta.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 यानन्यान्पश्यतोऽस्योपसंगृह्णीयात् तदा त्वेत उपसंग्राह्याः १३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/02/07/13_yAnanyAnpashyato-syopasangRhNIyAt_tadA_tveta.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 13. But if (a teacher), before the eyes of his (pupil), embraces the feet of any other persons, then he (the pupil also) must embrace their feet, (as long as he remains) in that (state of studentship). [^7] 
@@ -344,17 +408,22 @@ title = "०७ ब्रह्मचर्यम्, स्नातकः"
 **टीका**  
 अस्य माणवकस्य पश्यत अस्मिन् माणवके पश्यति यानन्यानाचार्य उपसङ्गृहीयात्ते माणवकस्याऽप्युपसङ्ग्राह्याः । किं सदा ? नेत्याह-तदात्वे तस्यां दशायाम् । अपर आह—तदा प्रभृति त उपसङ्ग्राह्याः । तुशब्दात् समावृत्तेनापि ॥ १३ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/07/14_gurusamavAye_bhixayAmutpannAyAM_yamanubaddhastadadhInA.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 गुरुसमवाये भिक्षयामुत्पन्नायां यमनुबद्धस्तदधीना भिक्षा १४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/02/07/14_gurusamavAye_bhixayAmutpannAyAM_yamanubaddhastadadhInA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 14. If (a pupil) has more than one teacher, the alms (collected by him) are at the disposal of him to whom he is (just then) bound. [^8] 
@@ -372,17 +441,22 @@ title = "०७ ब्रह्मचर्यम्, स्नातकः"
 
 [^१]: ततश्च विनियोगः इति, क. पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/07/15_samAvRtto_mAtre_dadyAt.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 समावृत्तो मात्रे दद्यात् १५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/02/07/15_samAvRtto_mAtre_dadyAt.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 15. When (a student) has returned home (from his teacher), he shall give (whatever he may obtain by begging or otherwise) to his mother.
@@ -396,17 +470,22 @@ title = "०७ ब्रह्मचर्यम्, स्नातकः"
 **टीका**  
 कृतसमावर्तनो विवाहात्प्रागर्जितं मात्रे दद्यात् ॥ १५ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/07/16_mAtA_bhartAra~N_gamayet.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 माता भर्तारं गमयेत् १६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/02/07/16_mAtA_bhartAra~N_gamayet.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 16. The mother shall give it to her husband;
@@ -420,17 +499,22 @@ title = "०७ ब्रह्मचर्यम्, स्नातकः"
 **टीका**  
 माता पतिं प्रापयेत् ॥ १६ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/07/17_bhartA_gurum.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 भर्ता गुरुम् १७
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/02/07/17_bhartA_gurum.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 17. (And) the husband to the (student's) teacher.
@@ -446,17 +530,22 @@ title = "०७ ब्रह्मचर्यम्, स्नातकः"
 
 [^२]: सोऽपि गुरुं प्रापयेन्माणवकस्य इति ख. पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/07/18_dharmakRtyeShu_vopayojayet.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 धर्मकृत्येषु वोपयोजयेत् १८
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/02/07/18_dharmakRtyeShu_vopayojayet.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 18. Or he may use it for religious ceremonies. [^9] 
@@ -472,17 +561,22 @@ title = "०७ ब्रह्मचर्यम्, स्नातकः"
 **टीका**  
 धर्मकृत्यानि विवाहादीनि । तेषु वोपयोजयेत् । गुरोरभावे भर्ता, तदभावे माता, सर्वेषामभावे समावृत्तस्स्वयमेव वा ॥ १८ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/07/19_kRtvA_vidyAM_yAvatIM.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 कृत्वा विद्यां यावतीं शक्नुयाद्वेददक्षिणामाहरेद्धर्मतो यथाशक्ति १९
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/02/07/19_kRtvA_vidyAM_yAvatIM.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 19. After having studied as many (branches of) sacred learning as he can, he shall procure in a righteous manner the fee for (the teaching of) the Veda (to be given to his teacher), according to his power. [^10] 
@@ -499,17 +593,22 @@ title = "०७ ब्रह्मचर्यम्, स्नातकः"
 **टीका**  
 यावतीं विद्यां कर्तुं शक्नुयात् वेदं वेदौ वेदान्वा तावतीं कृत्वा अधीत्य गुरवे दक्षिणामाहरेत् दद्यात् । यथाशक्ति धर्मत उपलब्धां न्यायार्जिताम् ॥१९॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/07/20_viShamagate_tvAchArya_ugrataH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 विषमगते त्वाचार्य उग्रतः शूद्र तो वाहरेत् २०
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/02/07/20_viShamagate_tvAchArya_ugrataH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 20. But, if the teacher has fallen into distress, he may take (the fee) from an Ugra or from a Śūdra. [^11] 
@@ -528,17 +627,22 @@ title = "०७ ब्रह्मचर्यम्, स्नातकः"
 **टीका**  
 यदा त्वाचार्यो विषमगतः आपद्गतः तदा उग्रतः शूद्रतो वाऽपि प्रतिगृह्य दक्षिणामाहरेत् । वैश्याच्छूद्रायां जात उग्रः, उग्रकर्मा वा द्विजातिः ॥२०॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/07/21_sarvadA_shUdrata_ugrato.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 सर्वदा शूद्रत उग्रतो वाचार्यार्थस्याहरणं धार्म्यमित्येके २१
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/02/07/21_sarvadA_shUdrata_ugrato.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 21. But some declare, that it is lawful at any time to take the money for the teacher from an Ugra or from a Śūdra.
@@ -552,17 +656,22 @@ title = "०७ ब्रह्मचर्यम्, स्नातकः"
 **टीका**  
 सर्वदा आपद्यनापदि च, आचार्यार्थस्याचार्याय यो देयोऽर्थः तस्य, उग्रतः शूद्रतो वाऽऽहरणं धर्म्यं धर्मादनपेतमित्येके मन्यन्ते । 'धार्म्य'मिति पाठे स्वार्थे ष्यञ् ॥२१॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/07/22_datvA_cha_nAnukathayet.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 दत्वा च नानुकथयेत् २२
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/02/07/22_datvA_cha_nAnukathayet.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 22. And having paid (the fee), he shall not boast of having done so.
@@ -576,17 +685,22 @@ title = "०७ ब्रह्मचर्यम्, स्नातकः"
 **टीका**  
 आचार्याय एवमाहृत्य दत्वा न कीर्तयेत्,-एतन्मया दत्तमिति ॥ २२ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/07/23_kRtvA_cha_nAnusmaret.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 कृत्वा च नानुस्मरेत् २३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/02/07/23_kRtvA_cha_nAnusmaret.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 23. And he shall not remember what he may have done (for his teacher).
@@ -600,17 +714,22 @@ title = "०७ ब्रह्मचर्यम्, स्नातकः"
 **टीका**  
 गुरवे प्राणसंशयादौ महान्तमप्युपकारं कृत्वा नानुस्मरेत् नाऽनुचिन्तयेत्- अहो मयैतत्कृतमिति ॥ २३ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/07/24_AtmaprashaMsAm_paragarhAmiti_cha.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 आत्मप्रशंसां परगर्हामिति च वर्जयेत् २४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/02/07/24_AtmaprashaMsAm_paragarhAmiti_cha.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 24. He shall avoid self-praise, blaming others, and the like. [^12] 
@@ -626,17 +745,22 @@ title = "०७ ब्रह्मचर्यम्, स्नातकः"
 **टीका**  
 इतिकरणादेवंप्रकाराणामात्मनिन्दादीनामपि प्रतिषेधः ॥ २४ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/07/25_preShitastadeva_pratipadyeta.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 प्रेषितस्तदेव प्रतिपद्येत २५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/02/07/25_preShitastadeva_pratipadyeta.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 25. If he is ordered (by his teacher to do something), he shall do just that.
@@ -654,17 +778,22 @@ title = "०७ ब्रह्मचर्यम्, स्नातकः"
 
 [^२]: तदाचार्याय इति ख पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/07/26_shAstushchAnAgamAdvRttiranyatra.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 शास्तुश्चानागमाद्वृत्तिरन्यत्र २६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/02/07/26_shAstushchAnAgamAdvRttiranyatra.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 26. On account of the incompetence of his teacher, (he may go) to another (and) study (there). [^13] 
@@ -682,17 +811,22 @@ title = "०७ ब्रह्मचर्यम्, स्नातकः"
 
 [^३]: रोषामित्याद्यवोचामत्येन्तः पाठो नास्ति ख. पुस्तके
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/07/27_anyatropasangrahaNAduchChiShTAshanAchchAchAryavadAchAryadAre_vRttiH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अन्यत्रोपसंग्रहणादुच्छिष्टाशनाच्चाचार्यवदाचार्यदारे वृत्तिः २७
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/02/07/27_anyatropasangrahaNAduchChiShTAshanAchchAchAryavadAchAryadAre_vRttiH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 27. He shall behave towards his teacher's wife as towards the teacher himself, but he shall not embrace her feet, nor eat the residue of her food. [^14] 
@@ -715,17 +849,22 @@ title = "०७ ब्रह्मचर्यम्, स्नातकः"
 
 [^२]: गौ० ध० २. ३१. ३२
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/07/28_tathA_samAdiShTe-dhyApayati.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तथा समादिष्टेऽध्यापयति २८
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/02/07/28_tathA_samAdiShTe-dhyApayati.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 28. So also (shall he behave) towards him who teaches him at (the teacher's) command, [^15] 
@@ -743,17 +882,22 @@ title = "०७ ब्रह्मचर्यम्, स्नातकः"
 
 [^३]: यावदध्यापनं तावदेवातिदेशः इति. ख. पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/07/29_vRddhatare_cha_sabrahmachAriNi.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 वृद्धतरे च सब्रह्मचारिणि २९
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/02/07/29_vRddhatare_cha_sabrahmachAriNi.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 29. And also to a fellow-student who is superior (in learning and years). [^16] 
@@ -771,17 +915,22 @@ title = "०७ ब्रह्मचर्यम्, स्नातकः"
 'आचार्यात्पादमादत्ते पादं शिष्यः स्वमेधया।  
 पादं सब्रह्मचारिभ्यः पादः कालेन पच्यते ॥'   इत्यध्ययने उपयोगसम्भवात् ॥ २९॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/07/30_uchChiShTAshanavarjamAchAryavadAchAryaputre_vRttiH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 उच्छिष्टाशनवर्जमाचार्यवदाचार्यपुत्रे वृत्तिः ३०
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/02/07/30_uchChiShTAshanavarjamAchAryavadAchAryaputre_vRttiH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 30. He shall behave to his teacher's son (who is superior to himself in learning or years) as to his teacher, but not eat the residue of his food. [^17] 
@@ -797,17 +946,22 @@ title = "०७ ब्रह्मचर्यम्, स्नातकः"
 **टीका**  
 'उच्छिष्टाशनवर्जमिति वचनादुपसङ्ग्रहणं भवति । एतच्च ज्ञानवयोभ्यामुभाभ्यां वृद्धे । तदर्थं वृद्धतर इत्यनुवर्तते । गौतमीयस्तूपसङ्ग्रहणप्रतिषेधो वृद्धतरादन्यविषयः ॥ ३० ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/07/31_samAvRttasyApyetadeva_sAmayAchArikameteShu.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 समावृत्तस्याप्येतदेव सामयाचारिकमेतेषु ३१
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/02/07/31_samAvRttasyApyetadeva_sAmayAchArikameteShu.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 31. Though he may have returned home, the behaviour towards his (teacher and the rest) which is prescribed by the rule of conduct settled by the agreement (of those who know the law, must be observed by him to the end),
@@ -822,6 +976,7 @@ title = "०७ ब्रह्मचर्यम्, स्नातकः"
 कृतसमावर्तनस्याप्येतदेवानन्तरोक्तम् । एतेष्वाचार्यादिषु पुत्रान्तेषु सामयाचारिकं समयाचारप्राप्तं वृत्तमान्तात् । समादिष्टे त्वध्यापयीतेति[^२] विशेष उक्तः ॥ ३१॥  
 
 ॥ इत्यापस्तम्बीयधर्मसूत्रवृत्तावुज्वलायां सप्तमी कण्डिका ॥
+</details>
 </details>
 
 </div>

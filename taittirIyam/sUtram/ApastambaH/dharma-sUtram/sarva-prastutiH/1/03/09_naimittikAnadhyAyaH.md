@@ -4,12 +4,16 @@ title = "०९ नैमित्तिकानध्यायः"
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/01_shrAvaNyAm_paurNamAsyAmadhyAyamupAkRtya_mAsaM.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 श्रावण्यां पौर्णमास्यामध्यायमुपाकृत्य मासं {अनूक्तम् अननूक्तञ्च} प्रदोषे नाधीयीत १
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/03/09/01_shrAvaNyAm_paurNamAsyAmadhyAyamupAkRtya_mAsaM.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 1. After having performed the Upākarma for studying the Veda on the full moon of the month' Srāvaṇa (July-August), he shall for one month not study in the evening. [^1] 
@@ -29,17 +33,22 @@ title = "०९ नैमित्तिकानध्यायः"
 मेषादिस्थे सवितरि यो यो दर्शः प्रवर्तते। चान्द्रमासास्तत्तदन्ताश्चैत्राद्या द्वादश स्मृताः। तेषु या या पौर्णमासी सासाचच्यादिका स्मृता।
 कादाचित्कन योगेन नक्षत्रस्यति निर्णयः ।। तदेवं सिंहस्थे सवितरियाऽमावास्या तदन्ते चान्द्रमले मासे या मध्यवर्तिनी पौर्णमाली सा श्रावणी । श्रवणयोगस्तु भवतु वा मा वा । तस्यां श्रावण्या पौर्णमास्यामध्यायमुपाकृत्य गृह्योक्तेन विधिनोपाकर्म क. स्वा स्वाध्यायमधीयीत । अधीयानश्च मासमेक प्रदोषे प्रथमे रात्रिभागे ना धीयीत ग्रहणाध्ययनं धारणाध्ययन च न कुर्यात् । प्रदोषग्रहणादात्रा वप्यूर्व न दोषः ॥ १॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/02_taiShyAm_paurNamAsyAM_rohiNyAM.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तैष्यां पौर्णमास्यां रोहिण्यां वा विरमेत् २
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/03/09/02_taiShyAm_paurNamAsyAM_rohiNyAM.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 2. On the full moon of the month of Pauṣa (December-January), or under the constellation Rohini, he shall leave off reading the Veda. [^2] 
@@ -63,17 +72,22 @@ title = "०९ नैमित्तिकानध्यायः"
 
     'तिष्ये मासि भवा या 'रोहिणी' इति ड. पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/03_ardhapanchamAMshchaturo_mAsAnityeke.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अर्धपञ्चमांश्चतुरो मासानित्येके ३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/03/09/03_ardhapanchamAMshchaturo_mAsAnityeke.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 3. Some declare, (that he shall study) for four months and a half. [^3] 
@@ -93,17 +107,22 @@ title = "०९ नैमित्तिकानध्यायः"
 
 [^४]: आप० गृ० ७.१. पृ. ११० ।
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/04_nigameShvadhyayanaM_varjayet.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 निगमेष्वध्ययनं वर्जयेत् ४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/03/09/04_nigameShvadhyayanaM_varjayet.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 4. He shall avoid to Study the Veda on a high-road. [^4] 
@@ -119,17 +138,22 @@ title = "०९ नैमित्तिकानध्यायः"
 **टीका**  
 निगमाश्चत्वराः । ग्रामनिर्गमनामर्गा वा नियमेन गम्यते तेष्विति । तेषु सर्वप्रकारमध्ययनं वर्जयेत् ॥ ४॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/05_AnaDuhena_vA_shakRtpiNDenopalipte-dhIyIta.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 आनडुहेन वा शकृत्पिण्डेनोपलिप्तेऽधीयीत ५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/03/09/05_AnaDuhena_vA_shakRtpiNDenopalipte-dhIyIta.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 5. Or he may study it (on a high-road), after having smeared (a space) with cowdung.
@@ -143,17 +167,22 @@ title = "०९ नैमित्तिकानध्यायः"
 **टीका**  
 अनडुत्सम्बन्धिना वा शकत्पिण्डेनोपलिप्य निगमेष्वप्यधीयीत ॥५॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/06_shmashAne_sarvataH_shamyAprAsAt.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 श्मशाने सर्वतः शम्याप्रासात् ६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/03/09/06_shmashAne_sarvataH_shamyAprAsAt.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 6. He shall never study in a burial-ground nor anywhere near it within the throw of a Samyā. [^5] 
@@ -169,17 +198,22 @@ title = "०९ नैमित्तिकानध्यायः"
 **टीका**  
 श्मशाने चाध्ययनं वर्जयेत् । सर्वतः सर्वासु दिक्षु । शम्या क्षिप्ता यावति देशे पतति ततोऽर्वागिति पञ्चमीनिर्देशाद्गम्यते ॥ ६ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/07_grAmeNAdhyavasite_xetreNa_vA.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 ग्रामेणाध्यवसिते क्षेत्रेण वा नानध्यायः ७
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/03/09/07_grAmeNAdhyavasite_xetreNa_vA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 7. If a village has been built over (a burial ground) or its surface has been cultivated as a field, the recitation of the Veda (in such a place) is not prohibited.
@@ -193,17 +227,22 @@ title = "०९ नैमित्तिकानध्यायः"
 **टीका**  
 यदा श्मशानं ग्रामतया क्षेत्रतया वा अध्यवसितं स्वीकृतं भवति तदा अध्येतव्यमेव ॥ ७ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/08_jnAyamAne_tu_tasminn.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 ज्ञायमाने तु तस्मिन्न् एव देशे नाधीयीत ८
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/03/09/08_jnAyamAne_tu_tasminn.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 8. But if that place is known to have been a burial-ground he shall not study (there). [^6] 
@@ -219,17 +258,22 @@ title = "०९ नैमित्तिकानध्यायः"
 **टीका**  
 यदा तु तदध्यवसितमपि श्मशानं ज्ञायते-अयं स प्रदेश इति, तदा तावत्येव प्रदेशे नाऽधीयीत । न शम्याप्रासात् ॥ ८ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/09_shmashAnavachChUdra_patitau.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 श्मशानवच्छूद्र पतितौ ९
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/03/09/09_shmashAnavachChUdra_patitau.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 9. A Śūdra and an outcast are (included by the term) burial-ground, (and the rule given, Sūtra 6, applies to them). [^7] 
@@ -255,17 +299,22 @@ title = "०९ नैमित्तिकानध्यायः"
 
 So, safe to say that deliberate (literal) shrAvaNa to v4s was to be avoided; but tolerated if accidental.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/10_samAnAgAra_ityeke.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 समानागार इत्येके १०
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/03/09/10_samAnAgAra_ityeke.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 10. Some declare, that (one ought to avoid only, to study) in the same house (where they dwell).
@@ -279,17 +328,22 @@ So, safe to say that deliberate (literal) shrAvaNa to v4s was to be avoided; but
 **टीका**  
 एके मन्यन्ते समानागारे शूद्रपतितौ वर्ज्यौ, न शम्याप्रासादिति ॥१०॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/11_shUdrA_yAn_tu.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 शूद्रा यां तु प्रेक्षणप्रतिप्रेक्षणयोरेवानध्यायः ११
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/03/09/11_shUdrA_yAn_tu.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 11. But if (a student and) a Śūdra woman merely look at each other, the recitation of the Veda must be interrupted,
@@ -303,17 +357,22 @@ So, safe to say that deliberate (literal) shrAvaNa to v4s was to be avoided; but
 **टीका**  
 शूद्रायां तु यदा परस्परं प्रेक्षणं भवति तदैवाऽनध्यायः । न समानागारे, नापि शम्याप्रासादिति ॥ ११ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/12_tathAnyasyAM_striyAM_varNavyatikrAntAyAm.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तथान्यस्यां स्त्रियां वर्णव्यतिक्रान्तायां मैथुने १२
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/03/09/12_tathAnyasyAM_striyAM_varNavyatikrAntAyAm.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 12. Likewise, if (a student and) a woman, who has had connexion with a man of a lower caste, (look at each other).
@@ -327,17 +386,22 @@ So, safe to say that deliberate (literal) shrAvaNa to v4s was to be avoided; but
 **टीका**  
 शूद्राव्यतिरिक्ताऽपि या स्त्री मैथुने वर्णव्यतिक्रान्ता नीचगामिनी तस्यामपि प्रेक्षणप्रतिप्रेक्षणयोरनध्यायः ॥ १२ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/13_brahmAdhyeShyamANo_malavadvAsasechChansambhAShitum_brAhmaNena.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 ब्रह्माध्येष्यमाणो मलवद्वाससेच्छन्संभाषितुं ब्राह्मणेन संभाष्य तया संभाषेत संभाष्य तु ब्राह्मणेनैव संभाष्याधीयीत । एवं तस्याः प्रजानिःश्रेयसम् १३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/03/09/13_brahmAdhyeShyamANo_malavadvAsasechChansambhAShitum_brAhmaNena.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 13. If he, who is about to study the Veda, wishes to talk to a woman during her courses, he shall first speak to a Brāhmaṇa and then to her, then again speak to a Brāhmaṇa, and afterwards study. Thereby the children (of that woman) will be blessed. [^8] 
@@ -353,17 +417,22 @@ So, safe to say that deliberate (literal) shrAvaNa to v4s was to be avoided; but
 **टीका**  
 यो वेदमध्येष्यमाणो मलवद्वाससा रजस्वलया सह सम्भाषितुमिच्छति स पूर्वं ब्राह्मणेन सम्भाष्य पश्चात्तया सम्भाषेत । सम्भाष्य च पुनरपि ब्राह्मणेनैव सम्भाष्याऽधीयीत । किमेवं सति भवति ? एवं तस्या मलवद्वासस आगामिनी या प्रजा तस्या निःश्रेयसमभ्युदयो भवति । प्रजारूपं वा निःश्रेयसं तस्या भवति । 'प्रजानिःश्रेयसमिति वचनात् विधवादिभिः सह सम्भाषणे नैतत्कर्तव्यम् ॥ १३ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/14_antaHshavam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अन्तःशवम् १४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/03/09/14_antaHshavam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 14. (He shall not study in a village) in which a corpse lies; [^9] 
@@ -381,17 +450,22 @@ So, safe to say that deliberate (literal) shrAvaNa to v4s was to be avoided; but
 
 [^१]: मनु, ४. १०८ तत्र द्रष्टव्यः ।
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/15_antashchANDAlam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अन्तश्चाण्डालम् १५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/03/09/15_antashchANDAlam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 15. Nor in such a one where Kāndālas live.
@@ -405,17 +479,22 @@ So, safe to say that deliberate (literal) shrAvaNa to v4s was to be avoided; but
 **टीका**  
 चण्डाल एव चाण्डालः । उभयत्र प्रथमा सप्तम्यर्थे । अव्ययीभावो वा विभक्त्त्यर्थे द्रष्टव्यः ॥१५॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/16_abhinirhRtAnAn_tu_sImnyanadhyAyaH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अभिनिर्हृतानां तु सीम्न्यनध्यायः १६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/03/09/16_abhinirhRtAnAn_tu_sImnyanadhyAyaH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 16. He shall not study whilst corpses are being carried to the boundary of the village,
@@ -431,17 +510,22 @@ So, safe to say that deliberate (literal) shrAvaNa to v4s was to be avoided; but
 
 [^२]: आभिनिर्हृतानां इति. ख. पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/17_sandarshane_chAraNye.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 संदर्शने चारण्ये १७
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/03/09/17_sandarshane_chAraNye.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 17. Nor in a forest, if (a corpse or Cāṇḍāla) is within sight.
@@ -455,17 +539,22 @@ So, safe to say that deliberate (literal) shrAvaNa to v4s was to be avoided; but
 **टीका**  
 अरण्ये च यावति प्रदेशे शवश्चण्डालो वा सन्दृश्यते तावत्यनध्यायः ॥ १७॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/18_tadaharAgateShu_cha_grAmam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तदहरागतेषु च ग्रामं बाह्येषु १८
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/03/09/18_tadaharAgateShu_cha_grAmam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 18. And if outcasts have entered the village, he shall not study on that day, [^10] 
@@ -481,17 +570,22 @@ So, safe to say that deliberate (literal) shrAvaNa to v4s was to be avoided; but
 **टीका**  
 बाह्याः उपनिषादादयः परिपन्थिनः तेषु च ग्राममागतेषु तदहरनध्यायः तस्मिन्नहनि नाऽध्येतव्यम् ॥ १८॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/19_api_satsu.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अपि सत्सु १९
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/03/09/19_api_satsu.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 19. Nor if good men (have come). [^11] 
@@ -507,17 +601,22 @@ So, safe to say that deliberate (literal) shrAvaNa to v4s was to be avoided; but
 **टीका**  
 ये विद्याचरित्रादिभिर्महान्तः सन्तः तेष्वपि ग्राममागतेषु तदहरनध्यायः ॥ १९ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/20_sandhAvanustanite_rAtrim.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 संधावनुस्तनिते रात्रिम् २०
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/03/09/20_sandhAvanustanite_rAtrim.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 20. If it thunders in the evening, (he shall not study) during the night. [^12] 
@@ -535,17 +634,22 @@ So, safe to say that deliberate (literal) shrAvaNa to v4s was to be avoided; but
 
 [^१]: अस्य सूत्रत्वेन परिगणनं कृतं क पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/21_svapnaparyAntaM_vidyuti.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 स्वप्नपर्यान्तं विद्युति २१
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/03/09/21_svapnaparyAntaM_vidyuti.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 21. If lightning is seen (in the evening, he shall not study during that night), until he has slept.
@@ -559,20 +663,25 @@ So, safe to say that deliberate (literal) shrAvaNa to v4s was to be avoided; but
 **टीका**  
 अन्त्यो दीर्घ उपान्त्यो ह्रस्वः । विपर्यासश्छान्दसोऽपपाठो वा । सन्धौ विद्युति सत्यां स्वप्नपर्यन्तां रात्रिमनध्यायः न सर्वाम् । स्वप्नपर्यन्ता रात्रिः प्रहरावशिष्टा ॥ २१ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/22_upavyuShaM_yAvatA_vA.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 उपव्युषं  
 यावता वा कृष्णां रोहिणीम् इति,  
 शम्या-प्रासाद् विजानीयाद्  
 - एतस्मिन् काले विद्योत-माने सप्रदोषम् अहरनध्यायः २२
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/03/09/22_upavyuShaM_yAvatA_vA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 22. If lightning is seen about the break of dawn, or at the time when he may distinguish at the distance of a Samyā-throw, whether (a cow) is black or red, be shall not study during that day, nor in the following evening.
@@ -589,17 +698,22 @@ So, safe to say that deliberate (literal) shrAvaNa to v4s was to be avoided; but
 **टीका**  
 उपव्युषं उषस्समीपे तत्र विद्योतमाने विद्युति सत्यामपरेद्युस्सप्रदोषमहरनध्यायः । प्रदोषादूर्ध्वं रात्रावध्ययनम् । यावता वा कालेन शम्याप्रासादर्वागवस्थितां गां कृष्णामिति वा रोहिणीमिति वा विजानीयात् । एतस्मिन्काले उपव्युषं विद्योतमान इत्यन्वयः । रोहिणी गौरवर्णा । इतिशब्दप्रयोगे द्विताया प्रयुज्यते । तत्राऽन्वयप्रकारश्चिन्त्यः ॥ २२॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/23_dahre-pararAtre_stanayitnunA.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 दह्रे+++(=अपररात्रे तृतीयो भागः)+++ ऽपररात्रे+++(=रात्रेस् तृतीयो भागः)+++ स्तनयित्नुना २३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/03/09/23_dahre-pararAtre_stanayitnunA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 24. If it thunders in the second part of the third watch of the night, (he shall not study during the following day or evening).
@@ -613,17 +727,22 @@ So, safe to say that deliberate (literal) shrAvaNa to v4s was to be avoided; but
 **टीका**  
 रात्रेस् तृतीयो भागः सर्वो ऽपररात्रः। तस्य त्रेधा विभक्तस्याद्योंऽशो महारात्रः। अन्त्यो दह्रः । तस्मिन् दह्रेऽपररात्रे स्तनयित्नुना निमित्तेन सप्रदोषमहरनध्यायः ॥ २३ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/24_UrdhvamardharAtrAdityeke.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 ऊर्ध्वमर्धरात्रादित्येके २४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/03/09/24_UrdhvamardharAtrAdityeke.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 24. Some (declare, that this rule holds good, if it thunders), after the first half of the night has passed.
@@ -637,17 +756,22 @@ So, safe to say that deliberate (literal) shrAvaNa to v4s was to be avoided; but
 **टीका**  
 अर्धरात्रादूर्ध्वमनन्तरोक्तो विधिरित्येके मन्यन्ते । स्वपक्षस्तु दह्र एवेति ॥ २४ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/25_gavA~n_chAvarodhe.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 गवां चावरोधे २५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/03/09/25_gavA~n_chAvarodhe.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 25. (Nor shall he study) whilst the cows are prevented from leaving (the village on account of thieves and the like),
@@ -661,17 +785,22 @@ So, safe to say that deliberate (literal) shrAvaNa to v4s was to be avoided; but
 **टीका**  
 दस्युप्रभृतिभिरवरुद्धासु गोषु तावन्तं कालमनध्यायः । अवरोधो ग्रामान्निर्गमनिरोधः ॥२५॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/26_vadhyAnA~n_cha_yAvatA.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 वध्यानां च यावता हन्यन्ते २६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/03/09/26_vadhyAnA~n_cha_yAvatA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 26. Nor (on the imprisonment of criminals) whilst they are being executed.
@@ -685,17 +814,22 @@ So, safe to say that deliberate (literal) shrAvaNa to v4s was to be avoided; but
 **टीका**  
 वर्धाहाणांचो रादीनामवरोधे यावता कालेन हन्यन्ते तावन्तं कालमनध्यायः ॥ २६ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/27_pRShThArUDhaH_pashUnAn_nAdhIyIta.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 पृष्ठारूढः पशूनां नाधीयीत २७
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/03/09/27_pRShThArUDhaH_pashUnAn_nAdhIyIta.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 27. He shall not study whilst he rides on beasts (of burden). [^13] 
@@ -711,17 +845,22 @@ So, safe to say that deliberate (literal) shrAvaNa to v4s was to be avoided; but
 **टीका**  
 हस्त्यश्वादीनां पशूनां पृष्ठाऽरूढः तत्राऽऽसीनस्सन्नाधीयीत ॥२७॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/09/28_ahorAtrAvamAvAsyAsu.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अहोरात्राव् अमावास्यासु +++(पूर्वेद्युश् चतुर्दशीषु चेति हरदत्तः। मनुना पूर्णिमायाम् अपि निषिद्धम्।)+++ २८
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/03/09/28_ahorAtrAvamAvAsyAsu.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 28. At the new moon, (he shall not study) for two days and two nights. [^14] 
@@ -740,6 +879,7 @@ So, safe to say that deliberate (literal) shrAvaNa to v4s was to be avoided; but
 [^१]: मनु० स्मृ० ४. ११३.  
 
 इत्यापस्तम्बसूत्रवृत्तावुज्ज्वलायां नवमी कण्डिका ॥
+</details>
 </details>
 
 </div>

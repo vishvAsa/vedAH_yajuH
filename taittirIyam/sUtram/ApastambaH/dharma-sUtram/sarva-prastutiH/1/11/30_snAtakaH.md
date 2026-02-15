@@ -4,12 +4,16 @@ title = "३० स्नातकः"
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/01_vidyayA_snAtItyeke.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 विद्यया स्नातीत्येके १
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/11/30/01_vidyayA_snAtItyeke.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 1. Some declare, that a student shall bathe after (having acquired) the knowledge of the Veda, (however long or short the time of his studentship may have been). [^1] 
@@ -32,17 +36,22 @@ title = "३० स्नातकः"
 
 [^१]: म० स्मृ०
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/02_tathA_vratenAShTAchatvAriMshatparImANena.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तथा व्रतेनाष्टाचत्वारिंशत्परीमाणेन २
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/11/30/02_tathA_vratenAShTAchatvAriMshatparImANena.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 2. (He may) also (bathe) after having kept the student's vow for forty-eight, (thirty-six or twenty-four) years, (though he may not have mastered the Veda).
@@ -64,17 +73,22 @@ title = "३० स्नातकः"
 
    'अथ ब्रह्मचर्यविधिः' इत्यारभ्य प्रपञ्चितेन समिदाधानभिक्षाचरणगन्धादिवर्जनादिरूपेण । अस्ति च तेषु व्रतशब्दः 'यथा व्रतेषु समर्थः स्याद्यानि वक्ष्यामः" इति । इह तु समुदायाभिप्रायमेकवचनम् । तेन वा व्रतेन सम्पन्नस्स्नायात् । असम्पन्नोऽपि विद्यया । 'चत्वारि वेदव्रतानी'त्येषां तु ग्रहणमत्र नाऽऽङ्कनीयम् । यथोक्तं विश्वरूपे । इत्यधिकः पाठो ग. पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/03_vidyAvratena_chetyeke.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 विद्याव्रतेन चेत्येके ३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/11/30/03_vidyAvratena_chetyeke.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 Some declare, that the student (shall bathe) after (having acquired) the knowledge of the Veda and after (the expiration of) his vow.
@@ -101,17 +115,22 @@ Some declare, that the student (shall bathe) after (having acquired) the knowled
 
 * *.एतच्चिन्हान्तर्गतो भागोऽधिकपाठतया परिगणितः ख. पुस्तके । ग. पुस्तके नास्ति पाठः । अन्यत्र तु यथायथमस्ति ।
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/04_teShu_sarveShu_snAtakavadvRttiH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तेषु सर्वेषु स्नातकवद्वृत्तिः ४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/11/30/04_teShu_sarveShu_snAtakavadvRttiH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 4. To all those persons who have bathed (In accordance with any of the above rules must be shown) the honour due to a Snātaka.
@@ -127,17 +146,22 @@ Some declare, that the student (shall bathe) after (having acquired) the knowled
 
 [^१]: आप० गृ० १३. २.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/05_samAdhivisheShAchChrutivisheShAchcha_pUjAyAm_phalavisheShaH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 समाधिविशेषाच्छ्रुतिविशेषाच्च पूजायां फलविशेषः ५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/11/30/05_samAdhivisheShAchChrutivisheShAchcha_pUjAyAm_phalavisheShaH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 5. The reverence (shown to a Snātaka) brings, however, different rewards according to the degree of devotion or of learning (possessed by the person honoured).
@@ -154,17 +178,22 @@ Some declare, that the student (shall bathe) after (having acquired) the knowled
 **टीका**  
 कर्तव्येषु कर्मस्ववधानं समाधिः श्रुतिः श्रुतम् ॥ ५ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/06_atha_snAtakavratAni.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अथ स्नातकव्रतानि ६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/11/30/06_atha_snAtakavratAni.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 6. Now follow the observances (chiefly to be kept) by a Snātaka.
@@ -178,17 +207,22 @@ Some declare, that the student (shall bathe) after (having acquired) the knowled
 **टीका**  
 इत उत्तरं स्नातकव्रतान्यधिकृतानि वेदितव्यानि । यद्यपि वक्ष्यमाणेषु कानिचित् साधारणान्यपि भवन्ति तथाऽपि भूम्ना स्नातकव्रतान्यधिक्रियन्ते ॥६॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/07_pUrveNa_grAmAnniShkramaNapraveshanAni_shIlayeduttareNa.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 पूर्वेण ग्रामान् निष्क्रमण-प्रवेशनानि शीलयेद्, उत्तरेण वा ७
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/11/30/07_pUrveNa_grAmAnniShkramaNapraveshanAni_shIlayeduttareNa.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 7. He shall usually enter the village and leave it by the eastern or the northern gate.
@@ -202,17 +236,22 @@ Some declare, that the student (shall bathe) after (having acquired) the knowled
 **टीका**  
 यदा ग्रामान्निष्कामति ग्रामं वा प्रविशति तदा पूर्वेण द्वारणोत्तरेण वा कुर्यात्, न द्वारान्तरेण । शीलयेदिति वचनाद्यदृच्छया द्वारान्तरेण निष्क्रमणप्रवेशनयोरपि न प्रायश्चितम् ॥ ७ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/08_sandhyoshcha_bahirgrAmAdAsanaM_vAgyatashcha.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 संध्योश् च बहिर्ग्रामाद् आसनं, वाग्-यतश् च ८
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/11/30/08_sandhyoshcha_bahirgrAmAdAsanaM_vAgyatashcha.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 8. During the morning and evening twilights, he shall sit outside the village, and not speak anything (referring to worldly matters).
@@ -255,17 +294,22 @@ Some declare, that the student (shall bathe) after (having acquired) the knowled
 
 [^२२]: गौ०ध० २. ११.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/09_vipratiShedhe_shrutilaxaNam_balIyaH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 विप्रतिषेधे श्रुतिलक्षणं +++(सन्ध्याग्निहोत्रादिचोदकम्)+++ बलीयः ९
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/11/30/09_vipratiShedhe_shrutilaxaNam_balIyaH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 9. (But an Agnihotrī, who is occupied at home by oblations in the morning and evening, must not go out; for) in the case of a conflict (of duties), that enjoined by the Veda is the more important.
@@ -286,17 +330,22 @@ Some declare, that the student (shall bathe) after (having acquired) the knowled
 
 [^४]: जै० सू० १. ३. ३.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/10_sarvAnrAgAnvAsasi_varjayet.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 सर्वान् रागान् वाससि वर्जयेत् १०
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/11/30/10_sarvAnrAgAnvAsasi_varjayet.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 10. He shall avoid all dyed dresses, [^2] 
@@ -312,17 +361,22 @@ Some declare, that the student (shall bathe) after (having acquired) the knowled
 **टीका**  
 कुसुम्भादयस्सर्वे रागाः वाससि वर्जनीयाः, न केनचिद्रक्त-वासो बिभृयादिति ॥ १०॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/11_kRShNa~n_cha_svAbhAvikam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 +++(वस्त्रं यत्)+++ कृष्णं च स्वाभाविकम् ११
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/11/30/11_kRShNa~n_cha_svAbhAvikam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 11. And all naturally black cloth.
@@ -336,17 +390,22 @@ Some declare, that the student (shall bathe) after (having acquired) the knowled
 **टीका**  
 यश् च स्वभावतः कृष्णं कम्बलादि तदपि न वसीत ॥ ११ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/12_anUdbhAsi_vAso_vasIta.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अनूद्भासि वासो वसीत १२
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/11/30/12_anUdbhAsi_vAso_vasIta.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 12. He shall wear a dress that is neither shining,
@@ -360,17 +419,22 @@ Some declare, that the student (shall bathe) after (having acquired) the knowled
 **टीका**  
 उद्भासनशीलमुद्भासि उल्बणम् । ततोऽन्यदनूद्भासि । छान्दसो दीर्घः । एवंभूतं वासो वसीत् आच्छादयेत् ॥ १२ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/13_apratikRShTa~n_cha_shaktiviShaye.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अ-प्रतिकृष्टं +++(जीर्णत्वादेः)+++ च शक्तिविषये १३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/11/30/13_apratikRShTa~n_cha_shaktiviShaye.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 13. Nor despicable, if he is able (to afford it). [^3] 
@@ -386,17 +450,22 @@ Some declare, that the student (shall bathe) after (having acquired) the knowled
 **टीका**  
 **प्रतिकृष्टं** निकृष्टं जीर्णं मलवत् स्थूलं च । तद्विपरीतमप्रतिकृष्टम् । तादृशं च वासो वसीत शक्तौ सत्याम् ॥ १३ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/14_divA_cha_shirasaH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 दिवा च शिरसः प्रावरणं वर्जयेन् - मूत्र-पुरीषयोः कर्म परिहाप्य १४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/11/30/14_divA_cha_shirasaH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 14. And in the day-time he shall avoid to wrap up his head, except when voiding excrements.
@@ -410,17 +479,22 @@ Some declare, that the student (shall bathe) after (having acquired) the knowled
 **टीका**  
 चकारः पूर्वापेक्षया समुच्चयार्थः । दिवा शिरसः प्रावरणं पटादिना न कुर्यात् । किमविशेषेण ? नेत्याह- मूत्रपुरीषयोः कर्म क्रियां परिहाप्य वर्जयित्वा ॥ १४ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/15_shirastu_prAvRtya_mUtrapurIShe.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 शिरस् तु प्रावृत्य मूत्र-पुरीषे कुर्याद् - भूम्यां किंचिद् +++(तृणादि)+++ अन्तर्धाय १५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/11/30/15_shirastu_prAvRtya_mUtrapurIShe.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 15. But when voiding excrements, he shall envelop his head and place some (grass or the like) on the ground. [^4] 
@@ -438,17 +512,22 @@ Some declare, that the student (shall bathe) after (having acquired) the knowled
 
 [^१]: गौ० ध० ९. ३५, ३६, ३७
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/16_ChAyAyAmmUtrapurIShayoH_karma_varjayet.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 छायायाम् मूत्रपुरीषयोः कर्म वर्जयेत् १६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/11/30/16_ChAyAyAmmUtrapurIShayoH_karma_varjayet.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 16. He shall not void excrements in the shade (of a tree, where travellers rest).
@@ -462,17 +541,22 @@ Some declare, that the student (shall bathe) after (having acquired) the knowled
 **टीका**  
 'न चोपजीव्यच्छायास्वि'ति स्मृत्यन्तरे दर्शनात् यस्यां पथिकादयो विश्राम्यन्ति सा गृह्यते । तेन छत्रछायादेरप्रतिषेधः मेघच्छायाया अप्यप्रतिषेधः, अवर्जनीयत्वात् ॥ १६ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/17_svAn_tu_ChAyAmavamehet.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 स्वां तु छायाम् अव-मेहेत् १७
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/11/30/17_svAn_tu_ChAyAmavamehet.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 17. But he may discharge urine on his own shadow.
@@ -486,17 +570,22 @@ Some declare, that the student (shall bathe) after (having acquired) the knowled
 **टीका**  
 छान्दसस्तुगभावः । द्वितीयाश्रुतेः प्रतिशब्दाध्याहारः । अवमेहनं मूत्रकर्म । अनुपजीव्यत्वान्नायं पूर्वस्य प्रतिषेधस्य विषय इति प्रतिप्रसवोऽयं न भवति । तेन सति सम्भवे स्वामेव छायां प्रत्यवमेढव्यम् ॥१७॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/18_na_sopAnahmUtrapurIShe_kuryAtkRShTe.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 न सोपानह् मूत्र-पुरीषे कुर्यात्, कृष्टे, पथ्य्, अप्सु च १८
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/11/30/18_na_sopAnahmUtrapurIShe_kuryAtkRShTe.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 18. He shall not void excrements with his shoes on, nor on a ploughed field, nor on a path, nor in water. [^5] 
@@ -528,17 +617,22 @@ Some declare, that the student (shall bathe) after (having acquired) the knowled
 **टीका**  
 स्पष्टानि चत्वारि ॥ १८-२१ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/19_tathA_ShThevanamaithunayoH_karmApsu.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तथा ष्ठेवन-मैथुनयोः कर्माप्सु वर्जयेत् १९
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/11/30/19_tathA_ShThevanamaithunayoH_karmApsu.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 19. He shall also avoid to spit into, or to have connection with a woman in water. [^6] 
@@ -556,17 +650,22 @@ Some declare, that the student (shall bathe) after (having acquired) the knowled
 
 [^३]: ष्टीवन इति. ख पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/20_agnimAdityamapo_brAhmaNa~N_gA.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अग्निम् आदित्यम् अपो ब्राह्मणं गा देवताश् चाभिमुखो मूत्र-पुरीषयोः कर्म वर्जयेत् २०
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/11/30/20_agnimAdityamapo_brAhmaNa~N_gA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 20. He shall not void excrements facing the fire, the sun, water, a Brāhmaṇa, cows, or (images of) the gods. [^7] 
@@ -582,19 +681,24 @@ Some declare, that the student (shall bathe) after (having acquired) the knowled
 **टीका**  
 देवताः देवता प्रतिमाः ॥२३॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/21_ashmAnaM_loShThamArdrAanoShadhivanaspatInUrdhvAnAchChidya_mUtrapurIShayoH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अश्मानं, लोष्ठम्,  
 आर्द्रान् ओषधि-वनस्पतीन्+++(←पुष्पैर् विना फलन्ति)+++ ऊर्ध्वान् +++(→वातादिभिर् अभग्नान्)+++ आच्छिद्य,  
 मूत्र-पुरीषयोः शुन्धने वर्जयेत् २१
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/11/30/21_ashmAnaM_loShThamArdrAanoShadhivanaspatInUrdhvAnAchChidya_mUtrapurIShayoH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 21. He shall avoid to clean his body from excrements with a stone, a clod of earth, or with (boughs of) herbs or trees which he has broken off, whilst they were on the tree and full of sap.
@@ -611,18 +715,23 @@ Some declare, that the student (shall bathe) after (having acquired) the knowled
 **आर्द्रान्** इति वचनात् शुष्केषु न दोषः ।  
 **ऊर्ध्वान्** इति वचनाद् वातादि-निमित्तेन भग्नेषु न दोषः। 'एतैरश्मादिभिमूत्रपुरीषयोश्शोधनं न कुर्यात् ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/22_agnimapo_brAhmaNa~N_gA.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अग्निम्, अपो, ब्राह्मणं, गा, देवता, द्वारं, प्रतीवातं च  
 शक्ति-विषये नाभिप्रसारयीत +++(पादौ)+++२२
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/11/30/22_agnimapo_brAhmaNa~N_gA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 22. If possible, he shall not stretch out his feet towards a fire, water, a Brāhmaṇa, a cow, (iniages of) the gods, a door, or against the wind. [^8] 
@@ -638,17 +747,22 @@ Some declare, that the student (shall bathe) after (having acquired) the knowled
 **टीका**  
 शक्तौ सत्यां अग्न्यादीन्प्रति पादौ न प्रसारयेत् ॥ २५ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/11/30/23_athApyudAharanti.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अथाप्य् उदाहरन्ति +++(ऽग्रे वक्ष्यमाणम्)+++ २३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/11/30/23_athApyudAharanti.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 23. Now they quote also (the following verse):
@@ -661,6 +775,7 @@ Some declare, that the student (shall bathe) after (having acquired) the knowled
 **टीका**    
 
 ॥ इत्यापस्तम्बधर्मसूत्र प्रथमप्रश्ने त्रिंशी कण्डिका ॥ ३०॥
+</details>
 </details>
 
 </div>

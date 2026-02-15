@@ -4,12 +4,16 @@ title = "२३ अध्यात्मम्"
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/08/23/01_Atman_pashyan_sarvabhUtAni.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 आत्मन् पश्यन् सर्वभूतानि न मुह्येच्चिन्तयन्कविः । आत्मानं चैव सर्वत्र यः पश्येत्स वै ब्रह्मा नाकपृष्ठे विराजति १
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/08/23/01_Atman_pashyan_sarvabhUtAni.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 1. That Brāhmaṇa, who is wise and recognises all creatures to be in the Ātman, who pondering (thereon) does not become bewildered, and who recognises the Ātman in every (created) thing, shines, indeed, in heaven.
@@ -31,17 +35,22 @@ title = "२३ अध्यात्मम्"
 
 विवरणम् । किञ्च आत्मन् पश्यन् आत्मनि पश्यन् उपलभमानः । सर्वभूतानि सर्वाणि (भूतानि)। सर्वेषां भूतानामात्मस्वरूपतामेव पश्यन्नित्यर्थः । सवत्राऽऽत्मानं च परम् । न मुह्येत मोह न गच्छेत् । न ह्यात्मैकत्वदर्शिनो मोहावतारः; (१) तत्र को मोह' इति च मन्त्रलिङ्गात्। कीडग्विशिष्टमा स्मदर्शनं मोहनिबर्हणमित्याह--चिन्तयन् उपसंहृतकरणः कविः मेधा वी सन् ध्यायमानः । न शब्दजनितदर्शनमात्रेण मोहापगमः । सर्वभूते. चतुप्रविष्टमकं संव्यवहारकाले यो हि युक्तः पश्येत् , स वै ब्रह्मा ब्राह्मणः । नाकपृष्ठे सुकरागौ(१) ब्रह्मणि । विराजति विविधं दीप्यते ॥९॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/08/23/02_nipuNo-NIyAnbisorNAyA_yaH_sarvamAvRtya.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 निपुणोऽणीयान्बिसोर्णाया यः सर्वमावृत्य तिष्ठति । वर्षीयांश्च पृथिव्या ध्रुवः सर्वमारभ्य तिष्ठति । स इन्द्रियैर्जगतोऽस्य ज्ञानादन्योऽनन्यस्य ज्ञेयात्परमेष्ठी विभाजः । तस्मात्कायाः प्रभवन्ति सर्वे स मूलं शाश्वतिकः स नित्यः २
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/08/23/02_nipuNo-NIyAnbisorNAyA_yaH_sarvamAvRtya.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 2. He, who is intelligence itself and subtler than the thread of the lotus-fibre, pervades the universe, and who, unchangeable and larger than the earth, contains the universe; he, who is different from the knowledge of this world, obtained by the senses and identical with its objects, possesses the highest (form consisting of absolute knowledge). From him, who divides himself, spring all (created) bodies. He is the primary cause, he is eternal, he is unchangeable. [^1] 
@@ -87,17 +96,22 @@ A
 
 - १. तै. उ. ३. १.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/08/23/03_doShANAn_tu_vinirghAto.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 दोषाणां तु विनिर्घातो योगमूल इह जीविते । निर्हृत्य भूतदाहीयान् क्षेमं गच्छति पण्डितः ३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/08/23/03_doShANAn_tu_vinirghAto.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 3. But the eradication of the faults is brought about in this life by the means (called Yoga). A wise man who has eradicated the (faults) which destroy the creatures, obtains salvation.
@@ -137,17 +151,22 @@ wwwPhomemain
 १. श्रीभ० गीता० २. ५९.
 २. श्रीभगव. ४. ३७.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/08/23/04_atha_bhUtadAhIyAndoShAnudAhariShyAmaH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अथ भूतदाहीयान्दोषानुदाहरिष्यामः ४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/08/23/04_atha_bhUtadAhIyAndoShAnudAhariShyAmaH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 4. Now we will enumerate the faults which tend to destroy the creatures.
@@ -161,17 +180,23 @@ wwwPhomemain
 **टीका**  
 भूतानां दाहो भूतदाहः तस्मै हिताः भृतदाहीयाः तस्मै हितमिति छः।
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/08/23/05_krodho_harSho.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 क्रोधो हर्षो रोषो लोभो मोहो दम्भो द्रोहो मृषोद्यमत्याशपरीवादावसूया काममन्यू अनात्म्यमयोगस्तेषां योगमूलो निर्घातः ॥ १३ ॥ ५ ॥  
+
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/08/23/05_krodho_harSho.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 5. (These are) anger, exultation, grumbling, covetousness, perplexity, doing injury, hypocrisy, lying, gluttony, calumny, envy, lust, secret hatred, neglect to keep the senses in subjection, neglect to concentrate the mind. The eradication of these (faults) takes place through the means of (salvation called) Yoga.
@@ -191,17 +216,22 @@ wwwPhomemain
 
 [^३]: अक्षमता इति क. पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/08/23/06_akrodho-harSho-roSho-lobho-moho-dambho-drohaH_satyavachanamanatyAsho-paishunamanasUyA_saMvibhAgastyAga.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अक्रोधोऽहर्षोऽरोषोऽलोभोऽमोहोऽदम्भोऽद्रोहः सत्यवचनमनत्याशोऽपैशुनमनसूया संविभागस्त्याग आर्जवं मार्दवं शमो दमः सर्वभूतैरविरोधो योग आर्यमानृशंसं तुष्टिरिति सर्वाश्रमाणां समयपदानि तान्यनुतिष्ठन्विधिना सार्वगामी भवति ६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/08/23/06_akrodho-harSho-roSho-lobho-moho-dambho-drohaH_satyavachanamanatyAsho-paishunamanasUyA_saMvibhAgastyAga.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 6. Freedom from anger, from exultation, from grumbling, from covetousness, from perplexity, from hypocrisy (and) hurtfulness; truthfulness, moderation in eating, silencing a slander, freedom from envy, self-denying liberality, avoiding to accept gifts, uprightness, affability, extinction of the passions, subjection of the senses, peace with all created beings, concentration (of the mind on the contemplation of the Ātman), regulation of one's conduct according to that of the Āryas, peacefulness and contentedness;--these (good qualities) have been settled by the agreement (of the wise) for all (the four) orders; he who, according to the precepts of the sacred law, practises these, enters the universal soul.
@@ -250,6 +280,7 @@ wwwPhomemain
 विवरणम् । __ अक्रोधोऽहर्षः इत्येवमाद्या अयोगविपरीताः । अतस्ते समाधिलक्षण स्वाद योगा। सविभागः आत्मनो यात्रालाधनस्याऽर्थिभ्यः संविभजनम् । स्यागः दृष्टादृष्टेष्टभोगानां शक्तितः परित्यजम् , तत्साधनानां च । आर्जवम् ऋजुता, अदुष्टाकलनपूर्विका वाङ्मनाकायानां प्रवृतिः। मार्दव मृदुत्वम् । शमोऽन्तःकरणोपशमः। दमो बाह्यकरणापेशमः। इदमन्यद् योगलक्षणं संक्षेपत उच्यते-सर्वभूताविरोधो योगः, विरोघे हि भूतानां पीडा, तदभावेऽपीडा । स एव सर्वभूतापीडालक्षणो योगः। आर्यम् आर्याणां भावः अक्षुद्रता । आनृशंसम् आनृशंस्यम् , अक्रौर्यम् । तुष्टिः लब्धव्यस्याऽलाभेऽपि चेतसा प्रसन्नतयाऽवस्थानं लाभ इव । सर्व भताविरोलक्षणांहिला परिव्राजकस्यैव सम्भवतीत्यायर्यादीनां त्रया. णामन्येषां चाविरुद्धानां सर्वाश्रमान प्रति प्राप्तिरितीतिशब्दसाम
 द्,ि इतिशब्दस्य च प्रकारवचनत्वादार्यादीनीत्थंप्रकाराणि सर्वाश्र मान् प्रति गमयति सर्वाश्रमाणां समयपदानोति । समयस्थानानीत्ये तत् । अवश्यानुष्ठेयानीत्यर्थः । तान्येतानि यथोक्तान्यनुतिष्ठन् विधिना सर्वगामी सर्वगमनशीलः, शानाभिव्यक्तिक्रमेण । भवति मुच्यते इत्यर्थः ।। इति श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य श्रीशङ्करभगवत्पादाचार्यस्य कृतिषु
 आपस्तम्बीयधर्मशास्त्राध्यात्मपटलविवरणम् ॥
+</details>
 </details>
 
 </div>

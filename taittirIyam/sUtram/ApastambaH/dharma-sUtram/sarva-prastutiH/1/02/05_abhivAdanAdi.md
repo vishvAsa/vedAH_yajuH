@@ -4,12 +4,16 @@ title = "०५ अभिवादनादि"
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/05/01_niyameShu_tapaHshabdaH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 नियमेषु तपःशब्दः १
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/02/05/01_niyameShu_tapaHshabdaH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 1. The word 'austerity' (must be understood to apply) to (the observance of) the rules (of studentship). [^1] 
@@ -25,17 +29,22 @@ title = "०५ अभिवादनादि"
 **टीका**  
 'आचार्याधीनः स्या'दित्यादयो ये नियमाः अस्मिन्ब्रह्मचारिप्रकरणे निर्दिष्टाः, तपश्शब्दस्तेषु द्रष्टव्यः, न तु कृच्छ्रादिषु ॥ १ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/05/02_tadatikrame_vidyAkarma_niHsravati.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तद्-अतिक्रमे विद्या-कर्म निःस्रवति ब्रह्म सहापत्याद् एतस्मात् २
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/02/05/02_tadatikrame_vidyAkarma_niHsravati.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 2. If they are transgressed, study drives out the knowledge of the Veda acquired already, from the (offender) and from his children. [^2] 
@@ -61,17 +70,22 @@ title = "०५ अभिवादनादि"
 
     तदतिक्रमे विद्याकर्म निस्त्रवतीति नियमातिक्रमेण विद्याग्रहणं न कर्तव्यम्, कुतः ? यतो निस्स्रवति ब्रह्मनिस्सारयतीत्यर्थः, इति क. पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/05/03_kartapatyam_anAyuShya~n_cha.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 कर्तपत्यम् अनायुष्यं च ३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/02/05/03_kartapatyam_anAyuShya~n_cha.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 3. Besides he will go to hell, and his life will be shortened.
@@ -88,17 +102,22 @@ title = "०५ अभिवादनादि"
 **टीका**  
 कर्तशब्देन श्वभ्राभिधायिना नरको लक्ष्यते । पतत्यनेनेति पत्यम् । एवंभूतं विद्याग्रहणं नरकपातहेतुर्भवति । अनायुष्यं च अनायुष्करं च ॥ ३ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/05/04_tasmAd_RShayo.avareShu.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तस्माद् ऋषयो ऽवरेषु न जायन्ते नियमाति-क्रमात् ४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/02/05/04_tasmAd_RShayo.avareShu.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 4. On account of that (transgression of the rules of studentship) no Ṛṣis are born amongst the men of later ages. [^3] 
@@ -113,17 +132,22 @@ title = "०५ अभिवादनादि"
 **टीका**    
 अत एवावरेषु अर्वाचीनेषु कलियुगवर्तिषु ऋषयो न जायन्ते मन्त्रदृशो न भवन्ति। नियमातिक्रमस्येदानीमवर्जनीयत्वात् ॥ ४ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/05/05_shrutarShayastu_bhavanti_kechitkarmaphalasheSheNa.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 श्रुतर्षयस्तु भवन्ति केचित्कर्मफलशेषेण पुनःसंभवे ५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/02/05/05_shrutarShayastu_bhavanti_kechitkarmaphalasheSheNa.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 5. But some in their new birth, on account of a residue of the merit acquired by their actions (in former lives), become (similar to) Ṛṣis by their knowledge (of the Veda), [^4] 
@@ -141,17 +165,22 @@ title = "०५ अभिवादनादि"
 **टीका**    
 पुनस्सम्भवः पुनर्जन्म ॥ ५ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/05/06_yathA_shvetaketuH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 यथा श्वेतकेतुः ६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/02/05/06_yathA_shvetaketuH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 6. Like Śvetaketu. [^5] 
@@ -171,17 +200,22 @@ title = "०५ अभिवादनादि"
 
 [^१]: छान्दो० ६. १. १.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/05/07_yatki~n_cha_samAhito.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 यत्किं च समाहितो ऽब्रह्माप्य् आचार्याद् उपयुङ्क्ते ब्रह्मवद् एव तस्मिन् फलं भवति ७
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/02/05/07_yatki~n_cha_samAhito.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 7. And whatever else besides the Veda, (a student) who obeys the rules learns from his teacher, that brings the same reward as the Veda. [^6] 
@@ -200,17 +234,22 @@ title = "०५ अभिवादनादि"
 **टीका**  
 अब्रह्मपि अब्रह्मापि । पररूपम्, कतन्तवत् । अपेर्वाऽकारलोपः, पिहितपिनद्धादिवत् । वेदव्यतिरिक्तमपि यत्किञ्चित् विप्रमन्त्रादि समाहितो नियमवान् भूत्वा आचार्यादुपयुङ्क्ते गृह्णाति तस्मिन् वेदव्यतिरिक्ते ब्रह्मवदेव फलं भवति ॥ ७ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/05/08_atho_yatki~n_cha.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अथो यत्किञ् च मनसा वाचा चक्षुषा वा सङ्कल्पन् ध्यायत्य् आहाभिविपश्यति वा तथैव तद्भवतीत्युपदिशन्ति ८
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/02/05/08_atho_yatki~n_cha.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 8. Also, if desirous to accomplish something (be it good or evil), he thinks it in his mind, or pronounces it in words, or looks upon it with his eye, even so it will be; thus teach (those who know the law).
@@ -229,17 +268,22 @@ title = "०५ अभिवादनादि"
 
 [^१]: घोरया इति. क. पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/05/09_guruprasAdanIyAni_karmANi_svastyayanamadhyayanasaMvRttiriti.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 गुरुप्रसादनीयानि कर्माणि स्वस्त्ययनमध्ययनसंवृत्तिरिति ९
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/02/05/09_guruprasAdanIyAni_karmANi_svastyayanamadhyayanasaMvRttiriti.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 9. (The duties of a student consist in) acts to please the spiritual teacher, the observance (of rules) conducive to his own welfare, and industry in studying. [^7] 
@@ -259,17 +303,22 @@ title = "०५ अभिवादनादि"
 
 [^२]: अयं 'इति' शब्द उत्तरसूत्रस्यादौ पठितः क. पुस्तके
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/05/10_ato-nyAni_nivartante_brahmachAriNaH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अतोऽन्यानि निवर्तन्ते ब्रह्मचारिणः कर्माणि १०
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/02/05/10_ato-nyAni_nivartante_brahmachAriNaH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 10. Acts other than these need not be performed by a student. [^8] 
@@ -285,17 +334,22 @@ title = "०५ अभिवादनादि"
 **टीका**  
 एतेभ्यः अन्यानि कर्माणि निवर्तन्ते ब्रह्मचारिणो, न कर्तव्यानीत्यर्थः ॥ १० ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/05/11_svAdhyAyadhRg_dharmaruchistapsvyRjurmRduH_sidhyati.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 स्वाध्यायधृग् धर्मरुचिस्तप्स्व्यृजुर्मृदुः सिध्यति ब्रह्मचारी ११
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/02/05/11_svAdhyAyadhRg_dharmaruchistapsvyRjurmRduH_sidhyati.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 11. A religious student who retains what he has learned, who finds pleasure in the fulfilment of the law, who keeps the rules of studentship, who is upright and forgiving, attains perfection. [^9] 
@@ -315,19 +369,24 @@ title = "०५ अभिवादनादि"
 
 [^४]: आप० ध० १. ५, ८.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/05/12_sadA_mahAntamapararAtramutthAya_gurostiShThanprAtarabhivAdamabhivAdayItAsAvaham.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 सदा महान्तम् अपररात्रम् उत्थाय  
 गुरोस् तिष्ठन्  
 प्रातर् अभिवादम् अभिवादयीत - "असाव् अहं भो" इति १२
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/02/05/12_sadA_mahAntamapararAtramutthAya_gurostiShThanprAtarabhivAdamabhivAdayItAsAvaham.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 12. Every day he shall rise in the last watch of the night, and standing near his teacher, salute him with (this) salutation: I, N. N., ho! (salute thee.) [^10] 
@@ -343,17 +402,22 @@ title = "०५ अभिवादनादि"
 **टीका**  
 सदा प्रतिदिनं महान्तमपररात्रं रात्रे पश्चिमे याम उत्तिष्ठेत् । उत्थाय च समीपे तिष्ठन् गुरोः प्रातरभिवादनमभिवादयीत-'असावहं भो' इति न । असावित्यत्राऽऽत्मनो नामनिर्देशः, यथा-'अभिवादये यज्ञशर्माऽहं भो' इति ॥ १२ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/05/13_samAnagrAme_cha_vasatAmanyeShAmapi.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 समान-ग्रामे च वसताम् अन्येषाम् अपि वृद्धतराणां प्राक् प्रातर्-आशात् १३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/02/05/13_samAnagrAme_cha_vasatAmanyeShAmapi.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 13. And (he shall salute) before the morning meal also other very aged (learned Brāhmaṇas) who may live in the same village.
@@ -367,17 +431,22 @@ title = "०५ अभिवादनादि"
 **टीका**  
 अन्येषामप्याचार्यव्यतिरिक्तानाम् प्राक्प्रातराशात् प्रातर्भोजनात्माक् प्रातरभिवादनमभिवादयीत, ते चेत् समानग्रामे वसन्ति ॥ १३ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/05/14_proShya_cha_samAgame.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 प्रोष्य च समागमे १४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/02/05/14_proShya_cha_samAgame.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 14. If he has been on a journey, (he shall salute [^11]  the persons mentioned) when he meets them on his, return.
@@ -393,17 +462,22 @@ title = "०५ अभिवादनादि"
 **टीका**  
 यदा स्वयं प्रोष्य समागतो भवति, आचार्यादयो वा तदाऽप्यभिवादयीत । इदं नैमित्तिकम् । पूर्व नित्यम् ॥ १४ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/05/15_svargamAyushchepsan.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 स्वर्गम् आयुश् चेप्सन् १५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/02/05/15_svargamAyushchepsan.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 15. (He may also salute the persons mentioned at other times), if he is desirous of heaven and long life.
@@ -420,20 +494,25 @@ title = "०५ अभिवादनादि"
 **टीका**  
 अभिवादयीतेत्येव ॥ १५ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/05/16_daxiNambAhuM_shrotrasamam_prasArya.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 दक्षिणम् बाहुं श्रोत्र-समं प्रसार्य ब्राह्मणोऽभिवादयीत उरःसमं  
 राजन्यो मध्यसमं  
 वैश्यो नीचैः  
 शूद्रः प्राञ्जलि १६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/02/05/16_daxiNambAhuM_shrotrasamam_prasArya.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 16. A Brāhmaṇa. shall salute stretching forward his right arm on a level with his ear, a Kṣatriya holding it on a level with the breast, a Vaiśya holding it on a level with the waist, a Śūdra holding it low, (and) stretching forward the joined hands. [^12] 
@@ -456,17 +535,22 @@ title = "०५ अभिवादनादि"
 
     नीचैश्शुद्रः॥ १६॥ प्राञ्जलि ॥ १७॥ इति पाठः क. घ. पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/05/17_plAvana~n_cha_nAmno-bhivAdanapratyabhivAdane.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 प्लावनं च नाम्नो +++(ऽन्तिमस्वरस्य)+++ ऽभिवादन+++(सम्बद्ध)+++-प्रत्यभिवादने च पूर्वेषां वर्णानाम् १७
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/02/05/17_plAvana~n_cha_nAmno-bhivAdanapratyabhivAdane.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 17. And when returning the salute of (a man belonging) to the first (three) castes, the (last syllable of the) name (of the person addressed) is produced to the length of three moras. [^13] 
@@ -508,17 +592,22 @@ title = "०५ अभिवादनादि"
 
     पा० सू० ८ २. १०४. इदुतोर्यकारवकारौ स्तोऽचि संहितायाम् इति सूत्रार्थः ।
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/05/18_udite_tvAditya_AchAryeNa.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 उदिते त्वादित्य आचार्येण समेत्योपसङ्ग्रहणम् १८
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/02/05/18_udite_tvAditya_AchAryeNa.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 18. But when he meets his teacher after sunrise (coming for his lesson), he shall embrace (his feet). [^14] 
@@ -534,17 +623,22 @@ title = "०५ अभिवादनादि"
 **टीका**  
 उदिते त्वादित्ये आचार्येण अध्ययनार्थं समेत्य वक्ष्यमाणेन विधिनोपसंग्रहणं कुर्यात् ॥ १८ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/05/19_sadaivAbhivAdanam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 सदैवाभिवादनम् १९
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/02/05/19_sadaivAbhivAdanam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 19. On all other occasions he shall salute (him in the manner described above).
@@ -558,17 +652,22 @@ title = "०५ अभिवादनादि"
 **टीका**  
 अन्यदा सर्वदा पूर्वोक्तप्रकारेणाभिवादनमेव । अयमनुवाद उत्तरविवक्षया ॥ १९ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/05/20_upasangrAhya_AchArya_ityeke.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 उपसंग्राह्य आचार्य इत्येके २०
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/02/05/20_upasangrAhya_AchArya_ityeke.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 20. But some declare that he ought to embrace the (feet of his) teacher (at every occasion instead of saluting him).
@@ -582,18 +681,23 @@ title = "०५ अभिवादनादि"
 **टीका**  
 अभिवादनप्रसङ्गे सदैव उपसंग्राह्य आचार्य इत्येके मन्यन्ते ॥ २० ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/05/21_daxiNena_pANinA_daxiNam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 दक्षिणेन पाणिना दक्षिणं पादम्  
 अधस्ताद् अभ्यधिमृश्य सकुष्ठिकम् उपसंगृह्णीयात् २१
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/02/05/21_daxiNena_pANinA_daxiNam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 21. Having stroked the teacher's right foot with his right hand below and above, he takes hold of it and of the ankle.
@@ -610,18 +714,23 @@ title = "०५ अभिवादनादि"
 **टीका**  
 आत्मनो दक्षिणेन पाणिना आचार्यस्य दक्षिणं पादं अधस्तादभ्यधिमृश्य, अधिशब्द उपरिमाचे, अधस्ताच्चोपरिष्टाच्चाभिमृश्य । सकुष्ठिकं सगुल्फम् । साङ्गुष्ठमित्यन्ये । उपसंगृह्णीयात् । इदमुपसंग्रहणम् । एतत्कुर्यात् ॥ २१ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/05/22_ubhAbhyAmevobhAvabhipIDayata_upasangrAhyAv_ityeke.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 उभाभ्याम् एवोभाव् अभिपीडयत  
 उपसंग्राह्याव् इत्य् एके २२
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/02/05/22_ubhAbhyAmevobhAvabhipIDayata_upasangrAhyAv_ityeke.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 22. Some say, that he must press both feet, each with both hands, and embrace them. [^15] 
@@ -643,17 +752,22 @@ title = "०५ अभिवादनादि"
 
 [^२]: म० स्मृ० २. ७२.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/05/23_sarvAhNaM_suyukto-dhyayanAdanantaro-dhyAye.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 सर्वाह्णं सुयुक्तो ऽध्ययनाद् अनन्तरोऽध्याये २३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/02/05/23_sarvAhNaM_suyukto-dhyayanAdanantaro-dhyAye.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 23. He shall be very attentive the whole day [^16]  long, never allowing his mind to wander from the lesson during the (time devoted to) studying.
@@ -681,17 +795,22 @@ title = "०५ अभिवादनादि"
 
 [^६]: आप० ध० १. ५.२६॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/05/24_tathA_gurukarmasu.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तथा गुरु-कर्मसु २४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/02/05/24_tathA_gurukarmasu.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 24. And (at other times he shall be attentive) to the business of his teacher.
@@ -705,17 +824,22 @@ title = "०५ अभिवादनादि"
 **टीका**  
 गुरुकर्मसु च तथा स्यात् सुयुक्तोऽनन्तरश्च स्यात् ॥ २४॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/05/25_manasA_chAnadhyAye.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 मनसा चानध्याये २५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/02/05/25_manasA_chAnadhyAye.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 25. And during the time for rest (he shall give) his mind (to doubtful passages of the lesson learnt).
@@ -729,17 +853,22 @@ title = "०५ अभिवादनादि"
 **टीका**  
 अनध्यायकाले मनसा च अध्यायादनन्तरः स्यात् । सन्देहस्थानानि मनसा निरूपयेत् । अध्ययनविषयामेव चिन्तां कुर्यात् ॥ २५ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/02/05/26_AhUtAdhyAyI_cha_syAt.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 आहूताध्यायी च स्यात् २६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/02/05/26_AhUtAdhyAyI_cha_syAt.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 26. And he shall study after having been called by the teacher (and not request the teacher to begin the lesson). [^17] 
@@ -756,6 +885,7 @@ title = "०५ अभिवादनादि"
 आचार्येणाहूतस्सन्नधीयीत, नाध्यापने स्वयं प्रवर्तयेत् ॥ २६ ॥  
 
 ॥ इत्यापस्तम्बीये धर्मसूत्रे पञ्चमी कण्डिका ॥
+</details>
 </details>
 
 </div>

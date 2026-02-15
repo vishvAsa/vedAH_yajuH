@@ -4,12 +4,16 @@ title = "०१ वर्णधर्मादि"
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/01_athAtaH_sAmayAchArikAndharmAnvyAkhyAsyAmaH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अथातः सामयाचारिकान् धर्मान् व्याख्यास्यामः १
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/01/01_athAtaH_sAmayAchArikAndharmAnvyAkhyAsyAmaH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 1. Now, therefore, we will declare the acts productive of merit which form part of the customs of daily life, as they have been settled by the agreement (of those who know the law). [^1] 
@@ -77,17 +81,22 @@ title = "०१ वर्णधर्मादि"
 
 [^२८]: यदि प्रमाणमिदमपि प्रमाणम् इति क० पु० ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/02_dharmajnasamayaH_pramANam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 धर्मज्ञ-समयः **प्रमाणम्** +++(सौलभ्य-क्रमेण प्रथमम् उक्तम्)+++ २
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/01/02_dharmajnasamayaH_pramANam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 2. The authority (for these duties) is the agreement of those who know the law, [^2] 
@@ -116,17 +125,22 @@ title = "०१ वर्णधर्मादि"
 
     अष्टसहस्री० पृ० ५ श्लोकोऽयं कौमारिल इति अष्टसहस्रीटिप्पण्याम् ।
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/03_vedAshcha.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 वेदाश् च ३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/01/03_vedAshcha.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 3. And (the authorities for the latter are) the Vedas alone.
@@ -170,17 +184,22 @@ title = "०१ वर्णधर्मादि"
 
 [^८]: आप० ध० १ १२.१०.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/04_chatvAro_varNo_brAhmaNaxatriyavaishyashUdrAH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 चत्वारो **वर्णा** ब्राह्मण-क्षत्रिय-वैश्य-शूद्राः  ४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/01/04_chatvAro_varNo_brAhmaNaxatriyavaishyashUdrAH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 4. (There are) four castes--Brāhmaṇas, Kṣatriyas, Vaiśyas, and Śūdras.
@@ -203,17 +222,22 @@ title = "०१ वर्णधर्मादि"
 
 [^४]: गौ० ध० ४ २५.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/05_teShAm_pUrvaspUrvo_janmataH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तेषां पूर्वस्-पूर्वो जन्मतः श्रेयान् ५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/01/05_teShAm_pUrvaspUrvo_janmataH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 5. Amongst these, each preceding (caste) is superior by birth to the one following.
@@ -227,17 +251,22 @@ title = "०१ वर्णधर्मादि"
 **टीका**  
 जन्मत इति वचनात् सद्वृत्तादपि शूद्राद्वैश्यब्रुवोऽपि श्रेयान् । एव वैश्यात् क्षत्रियः, क्षत्रियात् ब्राह्मणः ॥५॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/06_ashUdrANAmaduShTakarmaNAmupAyanaM_vedAdhyayanamagnyAdheyam_phalavanti.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अशूद्राणाम् अदुष्टकर्मणाम् उपायनं वेदाध्ययनम् अग्न्याधेयं **फलवन्ति च कर्माणि** ६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/01/06_ashUdrANAmaduShTakarmaNAmupAyanaM_vedAdhyayanamagnyAdheyam_phalavanti.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 6. (For all these), excepting Śūdras and those who have committed bad actions, (are ordained) the initiation, the study of the Veda, and the kindling of [^3]  the sacred fire; and (their) works are productive of rewards (in this world and the next).
@@ -315,17 +344,22 @@ Between 1200-1400 CE, a different version of Āpastambadharmasūtra 1.1.6 'अ�
 
 Screenshots from Smṛtikaumudī and Harihara's comm. on Pāraskaragṛhyasūtra. Both take 'शूद्राणाम्' to denote Rathakāra.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/07_shushrUShA_shUdrasyetareShAM_varNAnAm.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 **शुश्रूषा** शूद्रस्येतरेषां वर्णानाम् +++(फलवत् कर्म)+++७
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/01/07_shushrUShA_shUdrasyetareShAM_varNAnAm.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 7. To serve the other (three) castes (is ordained) for the Śūdra. [^4] 
@@ -344,17 +378,22 @@ Screenshots from Smṛtikaumudī and Harihara's comm. on Pāraskaragṛhyasūtra
 **टीका**  
 इतरेषां ब्राह्मणादीनां वर्णानां या शुश्रूषा सा शूद्रस्य परमो धर्मः ॥ ७ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/08_pUrvasminpUrvasminvarNe_niHshreyasambhUyaH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 +++(शूद्र-कृत-सेवा)+++ पूर्वस्मिन् पूर्वस्मिन् वर्णे निःश्रेयसम् भूयः ८
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/01/08_pUrvasminpUrvasminvarNe_niHshreyasambhUyaH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 8. The higher the caste (which he serves) the greater is the merit.
@@ -373,17 +412,22 @@ Screenshots from Smṛtikaumudī and Harihara's comm. on Pāraskaragṛhyasūtra
 **टीका**  
 सर्वप्रकारं कृताया अपि वैश्यशुश्रूषायाः' मात्रयापि कूता क्षत्रियशुश्रूषा बहुतरं फलं साधयति । एवं क्षत्रियशुश्रूषाया ब्राह्मणशुश्रूषा ॥८॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/09_upanayanaM_vidyArthasya_shrutitaH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 **उपनयनं** विद्यार्थस्य श्रुतितः संस्कारः ९
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/01/09_upanayanaM_vidyArthasya_shrutitaH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 9. The initiation is the consecration in accordance with the texts of the Veda, of a male who is desirous of (and can make use of) sacred knowledge. [^5] 
@@ -410,17 +454,22 @@ Screenshots from Smṛtikaumudī and Harihara's comm. on Pāraskaragṛhyasūtra
 
 [^६]: तै० सं० १. ५. ६
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/10_sarvebhyo_vedebhyaH_sAvitry.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 "सर्वेभ्यो वेदेभ्यः **सावित्र्य्** अनूच्यत" इति हि ब्राह्मणम् १०
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/01/10_sarvebhyo_vedebhyaH_sAvitry.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 10. A Brāhmaṇa declares that the Gāyatrī is learnt for the sake of all the (three) Vedas. [^6] 
@@ -453,17 +502,22 @@ Screenshots from Smṛtikaumudī and Harihara's comm. on Pāraskaragṛhyasūtra
 
 [^२]: गोप०ब्र० १. २९.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/11_tamaso_vA_eSha.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तमसो वा एष +++(आगत्य)+++ तमः प्रविशति - यम् अविद्वान् उपनयते, यश् चाविद्वान् - इति हि ब्राह्मणम् ११
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/01/11_tamaso_vA_eSha.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 11. (Coming) out of darkness, he indeed enters darkness, whom a man unlearned in the Vedas, initiates, and (so does he) who, without being learned in the Vedas, (performs the rite of initiation.) That has been declared in a Brāhmaṇa.
@@ -481,17 +535,22 @@ Screenshots from Smṛtikaumudī and Harihara's comm. on Pāraskaragṛhyasūtra
 **टीका**  
 यथा कश्चित् तमसस्सकाशात्तम एव प्रविष्टो न किञ्चिज्जानाति एवमेवैषः य माणवकमविद्वानुपनयते, तथा यश्चाविद्वान् । उपनीयते इत्यपेक्ष्यते । यश्च स्वयमविद्वान् सन्नुपनीयते सोऽपि तमस एव तम प्रविशति । अस्मिन्नर्थे ब्राह्मणमपि भवतीति ।॥ ११ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/12_tasminnabhijanavidyAsamudetaM_samAhitaM_saMskartAramIpset.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तस्मिन्न् अभिजन-विद्यासमुदेतं समाहितं संस्कर्तारम् ईप्सेत् १२
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/01/12_tasminnabhijanavidyAsamudetaM_samAhitaM_saMskartAramIpset.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 12. As performer of this rite of initiation he shall seek to obtain a man in whose family sacred learning is hereditary, who himself possesses it, and who is devout (in following the law).
@@ -511,17 +570,22 @@ Screenshots from Smṛtikaumudī and Harihara's comm. on Pāraskaragṛhyasūtra
 
 [^३]: वेदवित्सम्बन्धे इति. क. पु
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/13_tasmiMshchaiva_vidyAkarmAntamavipratipanne_dharmebhyaH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तस्मिंश् चैव विद्या-कर्म +आन्तम् अविप्रतिपन्ने धर्मेभ्यः १३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/01/13_tasmiMshchaiva_vidyAkarmAntamavipratipanne_dharmebhyaH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 13. And under him the sacred science must be [^7]  studied until the end, provided (the teacher) does not fall off from the ordinances of the law.
@@ -541,17 +605,22 @@ Screenshots from Smṛtikaumudī and Harihara's comm. on Pāraskaragṛhyasūtra
 
 *. एतचिह्नान्तर्गतो भागः प्रक्षिप्त इति Mysore पुस्तके । परन्तु क ग पुस्तकयोरुपलभ्यते पाठः । एतच्च गुरुमतानुसारेण । गुरवो हि "अष्टवर्षं ब्राह्मणमुपनयीत, तमध्यापयीत' इति विधिनाऽऽचार्यत्वसिध्यर्थमध्यापन विदधताऽध्ययनमपि प्रयुज्यते, अतो ऽध्यापनान्यथानुपपत्यैव सिध्यदध्ययनं न स्वविधिना "स्वाध्यायोऽध्येतव्य" इत्यनेन विधीयते इति ब्रुवते । अतस्तन्मतखण्डनमिदम् ।
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/14_yasmAddharmAnAchinoti_sa_AchAryaH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 यस्माद् धर्मान् आचिनोति स **आचार्यः** १४+++(5)+++
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/01/14_yasmAddharmAnAchinoti_sa_AchAryaH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 14. He from whom (the pupil) gathers (ācinoti) (the knowledge of) his religious duties (dharmān) (is called) the Ācārya (teacher). [^8] 
@@ -574,17 +643,22 @@ Screenshots from Smṛtikaumudī and Harihara's comm. on Pāraskaragṛhyasūtra
 
 [^२]: निरु. २ १. १.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/15_tasmai_na_druhyetkadAchana.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तस्मै न द्रुह्येत् कदाचन १५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/01/15_tasmai_na_druhyetkadAchana.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 15. Him he should never offend. [^9] 
@@ -600,17 +674,22 @@ Screenshots from Smṛtikaumudī and Harihara's comm. on Pāraskaragṛhyasūtra
 **टीका**  
 तस्मै एवंभूताचार्याय कदाचन कदाचिदपि न द्रुह्येत् तद्विषयमपकारं न कुर्यात् ॥ १५॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/16_sa_hi_vidyAtasta~n.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 स हि विद्यातस् तं जनयति १६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/01/16_sa_hi_vidyAtasta~n.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 16. For he causes him (the pupil) to be born (a second time) by (imparting to him) sacred learning. [^10] 
@@ -632,17 +711,22 @@ Screenshots from Smṛtikaumudī and Harihara's comm. on Pāraskaragṛhyasūtra
 
 [^३]: मनु स्मृ २. १७०
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/17_tachChreShTha~n_janma.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तच् +छ्रेष्ठं जन्म १७
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/01/17_tachChreShTha~n_janma.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 17. This (second) birth is the best. [^11] 
@@ -658,17 +742,22 @@ Screenshots from Smṛtikaumudī and Harihara's comm. on Pāraskaragṛhyasūtra
 **टीका**  
 तद्विद्यातो जन्म श्रेष्ठं प्रशस्ततमम्, अभ्युदयनिःश्रेयसहेतुत्वात् ॥१७॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/18_sharIrameva_mAtApitarau_janayataH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 शरीरम् एव माता-पितरौ जनयतः १८
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/01/18_sharIrameva_mAtApitarau_janayataH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 18. The father and the mother produce the body only. [^12] 
@@ -689,18 +778,23 @@ Screenshots from Smṛtikaumudī and Harihara's comm. on Pāraskaragṛhyasūtra
 
 [^४]: गौ० ध० २. ५०
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/19_vasante_brAhmaNam_upanayIta.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 **वसन्ते** ब्राह्मणम् उपनयीत, **ग्रीष्मे** राजन्यं शरदि वैश्यं,  
 **गर्भाष्टमेषु** ब्राह्मणं, **गर्भैकादशेषु** राजन्यं, गर्भ-द्वादशेषु वैश्यम् १९
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/01/19_vasante_brAhmaNam_upanayIta.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 19. Let him initiate a Brāhmaṇa in spring, a Kṣatriya in summer, a Vaiśya in autumn, a Brāhmaṇa in the eighth year after conception, a Kṣatriya in the eleventh year after conception, (and) a Vaiśya in the twelfth after conception. [^13] 
@@ -719,17 +813,22 @@ Screenshots from Smṛtikaumudī and Harihara's comm. on Pāraskaragṛhyasūtra
 
 [^१]: आप० गृ० ११. २
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/20_atha_kAmyAni.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अथ +++(उपनयन-विषये)+++ काम्यानि २०
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/01/20_atha_kAmyAni.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 20. Now (follows the enumeration of the years to be chosen) for the fulfilment of some (particular) wish,
@@ -743,17 +842,22 @@ Screenshots from Smṛtikaumudī and Harihara's comm. on Pāraskaragṛhyasūtra
 **टीका**  
 कामनिमित्तान्युपनयनानि वक्ष्यन्ते ॥ २० ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/21_saptame_brahmavarchasakAmam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 सप्तमे ब्रह्म-वर्चस-कामम् २१
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/01/21_saptame_brahmavarchasakAmam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 21. (Let him initiate) a person desirous of excellence in sacred learning in his seventh year, [^14] 
@@ -771,17 +875,22 @@ Screenshots from Smṛtikaumudī and Harihara's comm. on Pāraskaragṛhyasūtra
 
 [^२]: इतः प्रभृति सूत्रषट्कमेकसूत्रतया लिखितं क. पुस्तके ।
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/22_aShTama_AyuShkAmam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अष्टम आयुष्-कामम् २२
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/01/22_aShTama_AyuShkAmam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 22. A person desirous of long life in his eighth year, [^15] 
@@ -794,17 +903,22 @@ Screenshots from Smṛtikaumudī and Harihara's comm. on Pāraskaragṛhyasūtra
 **सूत्रम्**  
 अष्टम आयुष्कामम् ॥ २२ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/23_navame_tejaskAmam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 नवमे तेजस्-कामम् २३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/01/23_navame_tejaskAmam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 23. A person desirous of manly vigour in his ninth year,
@@ -815,17 +929,22 @@ Screenshots from Smṛtikaumudī and Harihara's comm. on Pāraskaragṛhyasūtra
 **सूत्रम्**  
 नवमे तेजस्कामम् ॥ २३ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/24_dashame-nnAdyakAmam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 दशमे ऽन्नाद्य-कामम् २४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/01/24_dashame-nnAdyakAmam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 24. A person desirous of food in his tenth year,
@@ -836,17 +955,22 @@ Screenshots from Smṛtikaumudī and Harihara's comm. on Pāraskaragṛhyasūtra
 **सूत्रम्**  
 दशमेऽन्नाद्यकामम् ॥ २४॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/25_ekAdasha_indriyakAmam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 एकादश इन्द्रिय-कामम् २५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/01/25_ekAdasha_indriyakAmam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 25. A person desirous of strength in his eleventh year,
@@ -857,17 +981,22 @@ Screenshots from Smṛtikaumudī and Harihara's comm. on Pāraskaragṛhyasūtra
 **सूत्रम्**  
 एकादश इन्द्रियकामम् ॥ २५ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/26_dvAdashe_pashukAmam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 द्वादशे पशु-कामम् २६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/01/26_dvAdashe_pashukAmam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 26. A person desirous of cattle in his twelfth year.
@@ -878,17 +1007,22 @@ Screenshots from Smṛtikaumudī and Harihara's comm. on Pāraskaragṛhyasūtra
 **सूत्रम्**  
 द्वादशे पशुकामम् ॥ २६ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/27_A_ShoDashAd_brAhmaNasyAnAtyaya.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 आ षोडशाद् ब्राह्मणस्यानात्यय, आ द्वाविंशात् क्षत्रियस्य+ आ चतुर्विंशाद् वैश्यस्य - यथा व्रतेषु समर्थः स्याद् यानि वक्ष्यामः २७
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/01/27_A_ShoDashAd_brAhmaNasyAnAtyaya.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 27. There is no dereliction (of duty, if the initiation takes place), in the case of a Brāhmaṇa before the completion of the sixteenth year, in the case of a Kṣatriya before the completion of the twenty-second year, in the case of a Vaiśya before the completion of the twenty-fourth year. (Let him be initiated at such an age) that he may be able to perform the duties, which we shall declare below. [^16] 
@@ -909,17 +1043,22 @@ Screenshots from Smṛtikaumudī and Harihara's comm. on Pāraskaragṛhyasūtra
 **टीका**  
 आकारोऽभिविधौ । अत्ययोऽतिक्रमः । स एवाऽऽत्ययः तदभावोऽनात्ययः । यादृच्छिको दीर्घः, आङो वा प्रश्लेषः । प्रकरणादुपनयनकालस्येति गम्यते । यथा व्रतेषु समर्थः स्यात् तथैतावान् कालः प्रतीक्ष्यः । पूर्वमेव तु सामर्थ्ये सत्यष्टमवर्षाद्यतिक्रमे वक्ष्यमाण प्रायश्चित्तमेव भवति । एवं षोडशादिभ्य ऊर्ध्वं कियन्तञ्चित्कालमसमर्थानां पश्चात्सामर्थ्ये सति प्रायश्चित्तं भवत्येव ॥ २७ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/28_atikrAnte_sAvitryAH_kAla.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अतिक्रान्ते सावित्र्याः काल+++(य्)+++, ऋतुं +++(यावत्)+++ त्रैविद्यकं ब्रह्मचर्यं +++(अग्नि-परिचर्याम् अध्ययनं गुरु-शुश्रूषाम् इति परिहाप्य)+++ चरेत् २८
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/01/28_atikrAnte_sAvitryAH_kAla.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 28. If the proper time for the initiation has passed, he shall observe for the space of two months [^17]  the duties of a student, as observed by those who are studying the three Vedas.
@@ -942,17 +1081,22 @@ Screenshots from Smṛtikaumudī and Harihara's comm. on Pāraskaragṛhyasūtra
 कियन्तं कालम् ? **ऋतुं**, 'कालाध्वनो'रिति द्वितीया। ऋतुम् इति वचनाद् ऋत्वारम्भे प्रायश्चित्तारम्भम् इच्छन्ति ॥ २८ ॥  
 [^१]: पा० सू० ४ ३. १२६
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/29_athopanayanam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अथोपनयनम् २९
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/01/29_athopanayanam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 29. After that he may be initiated.
@@ -966,17 +1110,22 @@ Screenshots from Smṛtikaumudī and Harihara's comm. on Pāraskaragṛhyasūtra
 **टीका**  
 एवं चरितव्रत उपनेतव्यः ॥ २९ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/30_tataH_saMvatsaram_udakopasparshanam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 ततः संवत्सरम् उदकोपस्पर्शनम् ३०
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/01/30_tataH_saMvatsaram_udakopasparshanam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 30. After that he shall bathe (daily) for one year. [^18] 
@@ -994,17 +1143,22 @@ Screenshots from Smṛtikaumudī and Harihara's comm. on Pāraskaragṛhyasūtra
 
 [^२]: अन्यस्य' क. ख. पु
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/31_athAdhyApyaH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अथाध्याप्यः ३१
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/01/31_athAdhyApyaH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 31. After that he may be instructed.
@@ -1018,17 +1172,22 @@ Screenshots from Smṛtikaumudī and Harihara's comm. on Pāraskaragṛhyasūtra
 **टीका**  
 एवं चरितव्रतः पश्चादध्याप्यः ॥३१॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/32_atha_yasya_pitA.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अथ यस्य पिता पितामह इति अनुपेतौ स्यातां - ते ब्रह्म-ह-संस्तुताः ३२
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/01/32_atha_yasya_pitA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 32. He, whose father and grandfather have not been initiated, (and his two ancestors) are called 'slayers of the Brahman.' [^19] 
@@ -1046,17 +1205,22 @@ Screenshots from Smṛtikaumudī and Harihara's comm. on Pāraskaragṛhyasūtra
 
 [^३]: आप० ध० १ ९. ९.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/33_teShAm_abhyAgamanam_bhojanaM.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तेषाम् अभ्यागमनं भोजनं विवाहम् इति च वर्जयेत् ३३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/01/33_teShAm_abhyAgamanam_bhojanaM.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 33. Intercourse, eating, and intermarriage with them should be avoided. [^20] 
@@ -1076,17 +1240,22 @@ Screenshots from Smṛtikaumudī and Harihara's comm. on Pāraskaragṛhyasūtra
 
 [^५]: मनु० स्मृ० २. २३८.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/34_teShAm_ichChatAm_prAyashchittam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तेषाम् इच्छतां प्रायश्चित्तम् ३४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/01/34_teShAm_ichChatAm_prAyashchittam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 34. If they wish it (they may perform the following) expiation;
@@ -1100,17 +1269,22 @@ Screenshots from Smṛtikaumudī and Harihara's comm. on Pāraskaragṛhyasūtra
 **टीका**  
 इच्छतामिति वचनान्न बलात्कारेण प्रायश्चित्तं कारयितव्यम् ॥ ३४ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/35_yathA_prathame.atikrama.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 यथा प्रथमे ऽतिक्रम ऋतुर् एवं संवत्सरः ३५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/01/35_yathA_prathame.atikrama.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 35. In the same manner as for the first neglect (of the initiation, a penance of) two months (was) prescribed, so (they shall do penance for) one year. [^21] 
@@ -1126,17 +1300,22 @@ Screenshots from Smṛtikaumudī and Harihara's comm. on Pāraskaragṛhyasūtra
 **टीका**  
 यथा प्रथमेऽतिक्रमे ब्रह्मचर्यस्य ऋतुः कालः एषमन्यस्मिन्नतिक्रमे संवत्सरः कालः ॥ ३५॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/01/36_athopanayanaM_tata_udakopasparshanam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अथोपनयनं, तत उदकोपस्पर्शनम् ३६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/01/36_athopanayanaM_tata_udakopasparshanam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 36. Afterwards they may be initiated, and then they must bathe (daily),
@@ -1156,6 +1335,7 @@ Screenshots from Smṛtikaumudī and Harihara's comm. on Pāraskaragṛhyasūtra
 [^१]:  
 
     खण्डिका इति क. पुस्तके । खण्डः इति ख. पुस्तके । एवमेव प्रतिखण्डसमाप्ति ॥
+</details>
 </details>
 
 </div>

@@ -10,7 +10,7 @@ unicode_script: devanagari
 
 <div class="js_include" newlevelforh1="b[]" title="2/05/10/09" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/10/09_nAnanUchAnamRtvijaM_vRNIte_na.md">
 
-<details><summary>**2/05/10/09 …{Loading}…**</summary>
+<details open><summary>2/05/10/09 …{Loading}…</summary>
 
 नाननूचानमृत्विजं वृणीते न पणमानम् ८
 </details>

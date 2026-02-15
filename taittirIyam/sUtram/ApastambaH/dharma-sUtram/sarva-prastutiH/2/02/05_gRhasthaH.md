@@ -4,12 +4,16 @@ title = "०५ गृहस्थः"
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/05/01_sarvavidyAnAm_apy_upaniShadAm.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 सर्व-विद्यानाम् अप्य् उपनिषदाम् उपाकृत्या ऽनध्ययनं तद्-अहः १
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/02/05/01_sarvavidyAnAm_apy_upaniShadAm.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 1. On the day on which, beginning the study of the whole sacred science, the Upaniṣads (and the rest, he performs the Upākarma in the morning) he shall not study (at night). [^1] 
@@ -25,17 +29,22 @@ title = "०५ गृहस्थः"
 **टीका**  
 कर्मणि षष्ठी । सर्वविद्या अङ्गविद्या अप्युपनिषद उपाकृत्याध्येतुमारभ्य वदहरनध्ययनं तस्मिन्नहन्यध्ययनं न कर्तव्यम् । उपनिषद्ग्रहणं प्राधान्यख्यापनार्थम । ब्राह्मणा आयाता, वसिष्ठोऽध्यायात इतिवत् ॥१॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/05/02_adhItya_chAvikramaNaM_sadyaH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अधीत्य चाविक्रमणं सद्यः २
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/02/05/02_adhItya_chAvikramaNaM_sadyaH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 2. And he shall not leave his teacher at once after having studied (the Veda and having returned home) [^2] 
@@ -56,17 +65,22 @@ title = "०५ गृहस्थः"
 
 [^३]: एतदनन्तरं 'उपाकरणात् परमित्यन्ये' इति क. पुस्तकेऽधिकः पाठः ।
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/05/03_yadi_tvareta_guroH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 यदि त्वरेत - गुरोः समीक्षायां स्वाध्यायम् अधीत्य कामं गच्छेत् । एवम् उभयोः शिवं भवति ३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/02/05/03_yadi_tvareta_guroH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 3. If he is in a hurry to go, he shall perform the daily recitation of the Veda in the presence of his teacher, and then go at his pleasure. In this manner good fortune will attend both of them.
@@ -80,17 +94,22 @@ title = "०५ गृहस्थः"
 **टीका**  
 यदि कार्यवशात् गन्तुं त्वरेत तदा गुरोराचार्यस्य समीक्षायां सन्दर्शने संश्रये स्वाध्यायं प्रश्नावरमधीत्य यथाकामं गच्छेत् । एवं कृते उभयोः शिष्याचार्ययोः शिवं भवतीति ॥ ३॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/05/04_samAvRtta~n_chedAchAryo-bhyAgachChettamabhimukho.abhyAgamya.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 समावृत्तं चेदाचार्योऽभ्यागच्छेत्तमभिमुखो ऽभ्यागम्य तस्योपसंगृह्य न बीभत्समान उदकमुपस्पृशेत्पुरस्कृत्योपस्थाप्य यथोपदेशं पूजयेत् ४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/02/05/04_samAvRtta~n_chedAchAryo-bhyAgachChettamabhimukho.abhyAgamya.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 4. If the (former) teacher visits him after he has returned home, he shall go out to meet him, embrace his (feet), and he shall not wash himself (after that act), showing disgust. He then shall let him pass first into the house, fetch (the materials necessary for a hospitable reception), and honour him according to the rule. [^3] 
@@ -106,17 +125,22 @@ title = "०५ गृहस्थः"
 **टीका**  
 समावृत्तं चेत् शिष्यं कृतदारमाचार्योऽभ्यागच्छेत् अतिथिधर्मेण । तमभिमुखोऽभ्यागम्य । तस्योपसंगृह्य । कर्मणि षष्ठी। तमुपसंगृह्य । यद्यपि तस्य चाण्डालादिस्पर्शः सम्भाव्यते, तथापि न बीभत्समान उदकमुपस्पृशेत् न स्नायात् । उपसंग्रहणे वा धूलिधूसरौ पादौ स्पृष्ट्वा न बीभत्समान उदकमुपस्पृशेत् । ततस्तं पुरस्कृत्य गृहप्रवेशे अग्रे कृत्वा । पूजासाधनान्युपस्थाप्य यथोपदेशं गृह्योक्तेन मार्गेण मधुपर्केण पूजयेत् । पूजाविधानं गृह्योक्तस्याऽयमनुवाद आसनादिषु विशेषं वक्तुम् ॥ ४ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/05/05_Asane_shayane_bhaxye.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 आसने शयने भक्ष्ये भोज्ये वाससि वा संनिहिते निहीनतरवृत्तिः स्यात् ५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/02/05/05_Asane_shayane_bhaxye.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 5. If his former teacher is) present, he himself shall use a seat, a bed, food, and garments inferior to, and lower (than those offered to the teacher.
@@ -133,17 +157,22 @@ title = "०५ गृहस्थः"
 **टीका**  
 सन्निहित आचार्य तस्मिन्नेव गृहे अपवरकादिकं प्रविष्टे आसनादिषु निहीनतरवृत्तिः स्यात् । तरप् निर्देशात् नीच आसने गुणतोऽपि निकृष्ट आसीत । एवं शयनादिश्वपि द्रष्टव्यम् ॥ ५ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/05/06_tiShThansavyena_pANinAnugRhyAchAryamAchamayet.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तिष्ठन्सव्येन पाणिनानुगृह्याचार्यमाचमयेत् ६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/02/05/06_tiShThansavyena_pANinAnugRhyAchAryamAchamayet.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 6. Standing (with his body bent), he shall place his left hand (under the water-vessel, and bending with his other hand its mouth downwards), he shall offer to his teacher water for sipping. [^4] 
@@ -163,17 +192,22 @@ title = "०५ गृहस्थः"
 
 [^२]: धर्मयुत इति, घ. पु. धर्मतो भवति. इति, ड. पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/05/07_anyaM_vA_samudetam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अन्यं वा समुदेतम् ७
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/02/05/07_anyaM_vA_samudetam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 7. And (he shall offer water for sipping in this manner) to other guests also who possess all (good qualities) together. [^5] 
@@ -189,17 +223,22 @@ title = "०५ गृहस्थः"
 **टीका**  
 वाशब्दः समुच्चये । अन्यमप्येवमेवाचमयेत् । स चेत् समुदेतः कुलशीलवृत्तविद्यावयोभिरुपेतो भवति ॥७॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/05/08_sthAnAsanachankramaNasmiteShvanuchikIrShan.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 स्थानासनचङ्क्रमणस्मितेष्वनुचिकीर्षन् ८
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/02/05/08_sthAnAsanachankramaNasmiteShvanuchikIrShan.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 8. He shall imitate (his teacher) in rising, sitting, walking, about, and smiling. [^6] 
@@ -215,17 +254,22 @@ title = "०५ गृहस्थः"
 **टीका**  
 व्यवहितमपि स्यादित्यपेक्ष्यते । चिकीर्षया करणं लक्ष्यते । स्थानादिष्वाचार्यस्य पश्चाद्भावी स्यात् । न पूर्वभावी । न युगपद्भावी ॥ ८॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/05/09_sannihite_mUtrApurIShavAtakarmochchairbhAShAhAsaShThevanadantaskavananiHshRnkhaNabhruxepaNatAlananiShThyAnIti.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 संनिहिते मूत्रापुरीषवातकर्मोच्चैर्भाषाहासष्ठेवनदन्तस्कवननिःशृङ्खणभ्रुक्षेपणतालननिष्ठ्यानीति ९
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/02/05/09_sannihite_mUtrApurIShavAtakarmochchairbhAShAhAsaShThevanadantaskavananiHshRnkhaNabhruxepaNatAlananiShThyAnIti.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 9. In the presence (of his teacher) he shall not void excrements, discharge wind, speak aloud, laugh, spit, clean his teeth, blow his nose, frown, clap his hands, nor snap his fingers.
@@ -241,17 +285,22 @@ title = "०५ गृहस्थः"
 
 [^३]: ष्ठेवन इति. क. पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/05/10_dAre_prajAyA~n_chopasparshanabhAShA.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 दारे प्रजायां चोपस्पर्शनभाषा विस्रम्भपूर्वाः परिवर्जयेत् १०
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/02/05/10_dAre_prajAyA~n_chopasparshanabhAShA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 10. Nor shall he tenderly embrace or address caressing words to his wife or children.
@@ -267,17 +316,22 @@ title = "०५ गृहस्थः"
 
 [^१]: 'दारे प्रजाविषयेऽपि' इति  क. छ पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/05/11_vAkyena_vAkyasya_pratIghAtamAchAryasya.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 वाक्येन वाक्यस्य प्रतीघातमाचार्यस्य वर्जयेत् ११
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/02/05/11_vAkyena_vAkyasya_pratIghAtamAchAryasya.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 11. He shall not contradict his teacher,
@@ -291,17 +345,22 @@ title = "०५ गृहस्थः"
 **टीका**  
 आचार्यवाक्यस्य समीचीनस्येतरस्य वा आत्मीयेन वाक्येन तादृशेन प्रतिघातं न कुर्यात् । श्रेयसा च अन्येषामपि प्रशस्ततराणां वाक्यं वाक्येन न प्रतिहन्यात् ॥ ११ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/05/12_shreyasA~n_cha.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 श्रेयसां च १२
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/02/05/12_shreyasA~n_cha.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 12. Nor any of his betters.
@@ -315,17 +374,22 @@ title = "०५ गृहस्थः"
 **टीका**  
 +++(पूर्वसूत्रे द्रष्टव्यम्।)+++
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/05/13_sarvabhUtaparIvAdAkroshAMshcha.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 सर्वभूतपरीवादाक्रोशांश्च १३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/02/05/13_sarvabhUtaparIvAdAkroshAMshcha.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 13. (He shall not) blame or revile any creature. [^7] 
@@ -341,17 +405,22 @@ title = "०५ गृहस्थः"
 **टीका**  
 सर्वेषां भूतानां तिरश्चामपि । परीवादान् दोषवादान् । आक्रोशान् अश्लीलवादांश्च वर्जयेत् । परीवादस्य पुनःपुनर्वचनमतिशयेन वर्जनार्थम् ॥ १२ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/05/14_vidyayA_cha_vidyAnAm.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 विद्यया च विद्यानाम् १४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/02/05/14_vidyayA_cha_vidyAnAm.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 14. (He shall not revile one branch of) sacred learning by (invidiously comparing it with) another. [^8] 
@@ -369,17 +438,22 @@ title = "०५ गृहस्थः"
 
 [^२]: याज्ञवल्क्यादि ब्राह्मणनीदानींतनम् इति, क. छ. पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/05/15_yayA_vidyayA_na.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 यया विद्यया न विरोचेत पुनराचार्यमुपेत्य नियमेन साधयेत् १५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/02/05/15_yayA_vidyayA_na.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 15. If he is not well versed in a (branch of) sacred learning (which he studied formerly), he shall again go to the (same) teacher and master it, observing the (same) rules as (during his first studentship).
@@ -395,17 +469,22 @@ title = "०५ गृहस्थः"
 
 [^१]: अन्य वा इति नास्ति च. पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/05/16_upAkaraNAdotsarjanAdadhyApayiturniyamaH_lomasaMharaNam_mAMsaM.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 उपाकरणादोत्सर्जनादध्यापयितुर्नियमः। लोमसंहरणं मांसं श्राद्धं मैथुनमिति च वर्जयेत् १६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/02/05/16_upAkaraNAdotsarjanAdadhyApayiturniyamaH_lomasaMharaNam_mAMsaM.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 16. The restrictions (to be kept) by the teacher from the beginning of the course of teaching to its end are, to avoid cutting the hair on the body, partaking of meat or of oblations to the Manes, and connection (with a woman). [^9] 
@@ -426,17 +505,22 @@ title = "०५ गृहस्थः"
 
 [^२]: आप०श्रौ० ४. १. ५.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/05/17_Rtve_vA_jAyAm.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 ऋत्वे वा जायाम् १७
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/02/05/17_Rtve_vA_jAyAm.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 17. Or (he may have conjugal intercourse) with his wife at the proper season.
@@ -456,17 +540,22 @@ title = "०५ गृहस्थः"
 
 [^५]: आप० श्रौ० ८. ४.६, ७.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/05/18_yathAgamaM_shiShyebhyo_vidyAsampradAne.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 यथागमं शिष्येभ्यो विद्यासंप्रदाने नियमेषु च युक्तः स्यात् । एवं वर्तमानः पूर्वापरान्संबन्धानात्मानं च क्षेमे युनक्ति १८
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/02/05/18_yathAgamaM_shiShyebhyo_vidyAsampradAne.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 18. He shall be attentive in instructing his pupils in the sacred learning, in such a manner that they master it, and in observing the restrictions (imposed upon householders during their teaching . He who acts thus, gains heavenly bliss for himself, his descendants and ancestors.
@@ -482,17 +571,22 @@ title = "०५ गृहस्थः"
 
 [^६]: विहितः इति क. ड. पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/05/19_manasA_vAchA_prANena.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 मनसा वाचा प्राणेन चक्षुषा श्रोत्रेण त्वक्शिश्नोदरारम्भनणानास्रावान्परिवृञ्जानो ऽमृतत्वाय कल्पते १९
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/02/05/19_manasA_vAchA_prANena.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 19. He who entirely avoids with mind, word, nose, eye, and ear the sensual objects (such as are) enjoyed by the touch, the organ, or the stomach, gains immortality.
@@ -514,6 +608,7 @@ title = "०५ गृहस्थः"
 
 इति चाऽऽपस्तम्बधर्मसूत्रवृत्तौ हरदत्तविरचितायामुज्ज्वलायां
 द्वितीयप्रश्ने द्वितीयः पटलः ॥२॥
+</details>
 </details>
 
 </div>

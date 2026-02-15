@@ -4,12 +4,16 @@ title = "२५ स्तेयादि"
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/25/01_gurutalpagAmI_savRShaNaM_shishnam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 गुरुतल्पगामी सवृषणं शिश्नं परिवास्याञ्जलावाधाय दक्षिणां दिशमनावृत्तिं व्रजेत् १
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/25/01_gurutalpagAmI_savRShaNaM_shishnam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 1. He who has had connection with a Guru's wife shall cut off his organ together with the testicles, take them into his joined hands and walk towards the south without stopping, until he falls down dead. [^1] 
@@ -49,17 +53,22 @@ title = "२५ स्तेयादि"
 
     पितृव्यसखिशिष्यस्त्री इति. क. पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/25/02_jvalitAM_vA_sUrmim.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 ज्वलितां वा सूर्मिं परिष्वज्य समाप्नुयात् २
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/25/02_jvalitAM_vA_sUrmim.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 2. Or he may die embracing a heated metal image of a woman. [^2] 
@@ -75,17 +84,22 @@ title = "२५ स्तेयादि"
 **टीका**  
 आयसी ताम्रमयी वा अन्तस्सुषिरा स्त्रीप्रकृतिरत्र सूर्मिः। तां ज्वलितामग्नौ तप्ताम् । परिष्वज्य समाप्नुयात् समाप्तिं गच्छेत् म्रियेत ॥२॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/25/03_surApo-gnisparshAM_surAm_pibet.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 सुरापोऽग्निस्पर्शां +++(क्वतिथां)+++ सुरां पिबेत् ३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/25/03_surApo-gnisparshAM_surAm_pibet.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 3. A drinker of spirituous liquor shall drink exceedingly hot liquor so that he dies. [^3] 
@@ -106,17 +120,22 @@ title = "२५ स्तेयादि"
 
     अतिश्रपिता, इति. ख. ग. पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/25/04_stenaH_prakIrNakesho-e_musalamAdAya.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 स्तेनः प्रकीर्णकेशोऽए मुसलमादाय राजानं गत्वा कर्माचक्षीत । तेनैनं हन्याद्वधे मोक्षः ४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/25/04_stenaH_prakIrNakesho-e_musalamAdAya.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 4. A thief shall go to the king with flying hair, carrying a club on his shoulder, and tell him his deed. He (the king) shall give him a blow with that (club). If the thief dies, his sin is expiated. [^4] 
@@ -136,17 +155,22 @@ title = "२५ स्तेयादि"
 
     वधे सति स्तेनस्य मोक्षो मुक्तिर्भवत्येनसो नान्यथा इति. क. च. पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/25/05_anujnAte-nujnAtAramenaH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अनुज्ञातेऽनुज्ञातारमेनः ५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/25/05_anujnAte-nujnAtAramenaH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 5. If he is forgiven (by the king), the guilt falls upon him who forgives him, [^5] 
@@ -162,17 +186,22 @@ title = "२५ स्तेयादि"
 **टीका**  
 यदि राजा दयादिना तमनुजानीयात् गच्छेति, तदा तमनुज्ञातारं राजानमेव तदेनः स्पृशति ॥ ५॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/25/06_agniM_vA_pravishettIxNaM.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अग्निं वा प्रविशेत्तीक्ष्णं वा तप आयच्छेत् ६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/25/06_agniM_vA_pravishettIxNaM.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 6. Or he may throw himself into the fire, or perform repeatedly severe austerities, [^6] 
@@ -193,17 +222,22 @@ title = "२५ स्तेयादि"
 
 तीक्ष्णं तपः महापराकादि । तद्वा आयच्छेत् आवर्तयेत् ॥७॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/25/07_bhaktApachayena_vAtmAnaM_samApnuyAt.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 भक्तापचयेन वात्मानं समाप्नुयात् ७
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/25/07_bhaktApachayena_vAtmAnaM_samApnuyAt.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 7. Or he may kill himself by diminishing daily his portion of food,
@@ -217,17 +251,22 @@ title = "२५ स्तेयादि"
 **टीका**  
 भक्तमन्नम् । तस्याऽपचयो ह्रासः। प्रथमे दिने यावन्तो ग्रासाः ते एकेन न्यूना द्वितीये । एवं तृतीयादिष्वपि आ एकस्माद् ग्रासात् । तत्रापि यदि न समाप्तिः ततस्तत्रैव ग्रासपरिमाणापचयः कर्तव्यः । एवं भक्तापचयेनाऽऽत्मानं समाप्नुयात् समापयेत् ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/25/08_kRchChrasaMvatsaraM_vA_charet.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 कृच्छ्रसंवत्सरं वा चरेत् ८
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/25/08_kRchChrasaMvatsaraM_vA_charet.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 8. Or he may perform Kṛcchra penances (uninterruptedly) for one year. [^7] 
@@ -243,17 +282,22 @@ title = "२५ स्तेयादि"
 **टीका**  
 अथ वा संवत्सरमेकं नैरन्तर्येण कृच्छ्रांश्चरेत् । एषामेनस्सु गुरुषु गुरूणि, लघुषु लघूनीति व्यवस्था ॥ ९॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/25/09_athApyudAharanti_steya~N_kRtvA.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अथाप्युदाहरन्ति । स्तेयं कृत्वा सुरां पीत्वा गुरुदारं च गत्वा ब्रह्महत्यामकृत्वा चतुर्थकाला मितभोजनाः स्युरपोऽभ्यवेयुः सवनानुकल्पम् ९
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/25/09_athApyudAharanti_steya~N_kRtvA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 9. Now they quote also (the following verse): [^8] 
@@ -269,17 +313,22 @@ title = "२५ स्तेयादि"
 **टीका**  
 अस्मिन्नेव विषये पुराणश्लोकमप्युदाहरन्तीत्यर्थः ॥ १०॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/25/10_sthAnAsanAbhyAM_viharanta_ete.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 स्थानासनाभ्यां विहरन्त एते त्रिभिर्वर्षैरप पापं नुन्दते १०
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/25/10_sthAnAsanAbhyAM_viharanta_ete.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 10. Those who have committed a theft (of gold), drunk spirituous liquor, or had connection with a Guru's wife, but not those who have slain a Brāhmaṇa, shall eat every fourth meal-time a little food, bathe at the times of the three libations (morning, noon, and evening), passing the day standing and the night sitting. After the lapse of three years they throw off their guilt.
@@ -307,17 +356,22 @@ title = "२५ स्तेयादि"
 
     सोमयागे प्रातर्मध्यन्दिने सायमिति त्रिषु कालेषु प्रातस्सवन, माध्यन्दिनं सवनं, तृतीयसवनं, इति सवनत्रयमनुस्यूततयाऽनुष्ठीयते तद्वत् कालत्रयेऽपि स्नानं कुर्युरित्यर्थः ।
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/25/11_prathamaM_varNam_parihApya.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 प्रथमं वर्णं परिहाप्य प्रथमं वर्णं हत्वा संग्रामं गत्वावतिष्ठेत । तत्रैनं हन्युः ११
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/25/11_prathamaM_varNam_parihApya.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 11. (A man of any caste) excepting the first, who has slain a man of the first caste, shall go on a battle-field and place himself (between the two hostile armies). There they shall kill him (and thereby he becomes pure). [^9] 
@@ -333,17 +387,22 @@ title = "२५ स्तेयादि"
 **टीका**  
 प्रथमो वर्णो ब्राह्मणः । तं हत्वा सङ्ग्रामं गत्वा सेनयोर्मध्येऽवतिष्ठेत् । किं सर्वे ? नेत्याह-प्रथमं वर्णं परिहाप्य ब्राह्मणवर्जमितरो वर्णः क्षत्रियादिरित्यर्थः । तत्र स्थितमेनं ते सैनिका हन्युः, त एनं हतं विदध्युः । अघ्नन्त एनस्विनः स्युः, यथा राजा स्तेनम् । स मृतश्शुद्ध्यति ॥ १२ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/25/12_api_vA_lomAni.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अपि वा लोमानि त्वचं मांसमिति हावयित्वाग्निं प्रविशेत् १२
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/25/12_api_vA_lomAni.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 12. Or such a sinner may tear from his body and make the priest offer as a burnt-offering his hair, skin, flesh, and the rest, and then throw himself into the fire. [^10] 
@@ -361,17 +420,22 @@ title = "२५ स्तेयादि"
 
 [^३]: ब० ध० २०. २६.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/25/13_vAyasaprachalAkabarhiNachakravAkahaMsabhAsamaNDUkanakulaDerikAshvahiMsAyAM_shUdra_vatprAyashchittam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 वायसप्रचलाकबर्हिणचक्रवाकहंसभासमण्डूकनकुलडेरिकाश्वहिंसायां शूद्र वत्प्रायश्चित्तम् १३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/25/13_vAyasaprachalAkabarhiNachakravAkahaMsabhAsamaNDUkanakulaDerikAshvahiMsAyAM_shUdra_vatprAyashchittam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 13. If a crow, a chameleon, a peacock, a Brāhmaṇī duck, a swan, the vulture called Bhāsa, a frog, an ichneumon, a musk-rat, or a dog has been killed, then the same penance as for a Śūdra must be performed. [^11] 
@@ -388,6 +452,7 @@ title = "२५ स्तेयादि"
 वायसः काकः । प्रचलाकः कामरूपी कृकलासः । बर्हिणो मयूरः । चक्रवाको दिवा मिथुनचर , रात्रौ विरही। हंसो मानसवासी। भासो गृध्रविशेषः। नकुलमण्डूकादयः प्रसिद्धाः । डेरिका गन्धमूषिका । एतेषां समुदितानां वधे शूद्रवत्प्रायश्चित्तम् । प्रत्येकं वधे तु कल्प्यम् । केचित् प्रत्येकं वध एतत्प्रायश्चित्तमित्याहुः ॥१४॥   
 
 ॥ इत्यापस्तम्बधर्मसूत्रवृत्तौ प्रथमप्रश्ने पञ्चविंशी कण्डिका ॥ २५ ॥
+</details>
 </details>
 
 </div>

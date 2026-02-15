@@ -4,12 +4,16 @@ title = "२५ राजधर्माः"
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/25/01_vyAkhyAtAH_sarvavarNAnAM_sAdhAraNavaisheShikA.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 व्याख्याताः सर्ववर्णानां साधारणवैशेषिका धर्माः । राज्ञस्तु विशेषाद्वक्ष्यामः १
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/25/01_vyAkhyAtAH_sarvavarNAnAM_sAdhAraNavaisheShikA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 1. The general and special duties of all castes have been explained. But we will now declare those of a king in particular.
@@ -23,17 +27,22 @@ title = "२५ राजधर्माः"
 **टीका**  
 उक्तवक्ष्यमाणसङ्कीर्तनं श्रोतृबुद्धिसमाधानार्थम् । अहिंसासत्यास्तेयादयः सर्ववर्णानां साधारणधर्माः । अध्ययनादयस्त्रयाणाम् । अध्यापनादयो ब्राह्मणस्य । युद्धादयः क्षत्रियस्य । कृष्यादयो वैश्यस्य । शुश्रूषा शूद्रस्य । राजाऽत्राभिषिक्तो विविक्षितः। तस्यैव हि वक्ष्यमाणं धर्मजातं सम्भवति । तस्य विशेषाद्विशेषतो यद्वक्तव्यं तद्वक्ष्यामः । विशेषानिति द्वितीयान्तपाठस्तु युक्तः॥१॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/25/02_daxiNAdvAraM_veshma_pura~n.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 दक्षिणाद्वारं वेश्म पुरं च मापयेत् २
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/25/02_daxiNAdvAraM_veshma_pura~n.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 2. He shall cause to be built a town and a palace, the gates of both of which (must look) towards the south.
@@ -47,17 +56,22 @@ title = "२५ राजधर्माः"
 **टीका**  
 वेश्म गृहं पुरं नगरं तदुभयमपि दक्षिणाद्वारं मापयेत् कारयेत् स्थपत्यादिभिः । दक्षिणपार्श्वे द्वारं यस्य तत्तथोक्तम् ॥ २ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/25/03_antarasyAm_puri_veshma.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अन्तरस्यां पुरि वेश्म ३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/25/03_antarasyAm_puri_veshma.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 3. The palace (shall stand) in the heart of the town. [^1] 
@@ -73,17 +87,22 @@ title = "२५ राजधर्माः"
 **टीका**  
 सर्वेषामेव प्राकाराणां मध्ये या पुस्तस्यामन्तरस्यां पुरि वेश्म मापयेदात्मनः ॥३॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/25/04_tasya_purastAdAvasathastadAmantraNamityAchaxate.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तस्य पुरस्तादावसथस्तदामन्त्रणमित्याचक्षते ४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/25/04_tasya_purastAdAvasathastadAmantraNamityAchaxate.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 4. In front of that (there shall be) a hall. That is called the hall of invitation.
@@ -99,17 +118,22 @@ title = "२५ राजधर्माः"
 
 [^१]: तत्र ह्यतिथय आमन्त्र्यन्ते इत्यधिकः पाठः च. पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/25/05_daxiNena_puraM_sabhA.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 दक्षिणेन पुरं सभा दक्षिणोदग्द्वारा यथोभयं संदृश्येत बहिरन्तरं चेति ५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/25/05_daxiNena_puraM_sabhA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 5. (At a little distance) from the town to the south, (he shall cause to be built) an assembly-house with doors on the south and on the north sides, so that one can see what passes inside and outside.
@@ -126,17 +150,22 @@ title = "२५ राजधर्माः"
 
 [^२]: पा०सू० १.३.३१.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/25/06_sarveShvevAjasrA_agnayaH_syuH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 सर्वेष्वेवाजस्रा अग्नयः स्युः ६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/25/06_sarveShvevAjasrA_agnayaH_syuH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 6. In all (these three places) fires shall burn constantly. [^2] 
@@ -152,17 +181,22 @@ title = "२५ राजधर्माः"
 **टीका**  
 वेश्मन्यावसथे सभायामित्येतेषु सर्वेष्वेव स्थानेषु लौकिका अग्नयोऽजस्राः स्युः । अविच्छेदेन धार्याः ॥ ६॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/25/07_agnipUjA_cha_nityA.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अग्निपूजा च नित्या यथा गृहमेधे ७
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/25/07_agnipUjA_cha_nityA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 7. And oblations must be offered in these fires daily, just as at the daily sacrifice of a householder. [^3] 
@@ -178,17 +212,22 @@ title = "२५ राजधर्माः"
 **टीका**  
 तेषु चाग्निषु नित्यमग्निपूजा कार्या। यथा गृहमेधे औपासने सायंप्रातर्होम इत्यर्थः । मन्त्रावपि तावेव, द्रव्यमपि तदेव ॥ ७॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/25/08_Avasathe_shrotriyAvarArdhyAnatithInvAsayet.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 आवसथे श्रोत्रियावरार्ध्यानतिथीन्वासयेत् ८
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/25/08_Avasathe_shrotriyAvarArdhyAnatithInvAsayet.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 8. In the hall he shall put up his guests, at least those who are learned in the Vedas. [^4] 
@@ -205,17 +244,22 @@ title = "२५ राजधर्माः"
 आवसथाख्ये स्थाने अतिथीन् वासयेत् । ते विशेष्यन्ते श्रोत्रियावरार्ध्यानिति । अवरपर्यायोऽवरार्ध्यशब्दः । यदि सर्वान्वासयितुं न शक्नोति
 श्रोत्रियानपि तावद्वासयेदिति ॥ ८॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/25/09_teShAM_yathAguNamAvasathAH_shayyAnnapAna~n.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तेषां यथागुणमावसथाः शय्यान्नपानं च विदेयम् ९
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/25/09_teShAM_yathAguNamAvasathAH_shayyAnnapAna~n.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 9. Rooms, a couch, food and drink should be given to them according to their good qualities.
@@ -231,17 +275,22 @@ title = "२५ राजधर्माः"
 
 १. तक्रसूपादि इति च. पु. तक्रादिसूपादि इति क. पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/25/10_gurUnamAtyAMshcha_nAtijIvet.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 गुरूनमात्यांश्च नातिजीवेत् १०
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/25/10_gurUnamAtyAMshcha_nAtijIvet.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 10. Let him not live better than his Gurus or ministers. [^5] 
@@ -257,17 +306,22 @@ title = "२५ राजधर्माः"
 **टीका**  
 गुरवः पित्रादयः । अमात्या मन्त्रिणः । तान्नाऽतिजीवेत् भक्ष्यभोज्याच्छादनादिषु तान्नाऽतिशयीत ॥ १० ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/25/11_na_chAsya_viShaye.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 न चास्य विषये क्षुधा रोगेण हिमातपाभ्यां वावसीदेदभावाद्बुद्धिपूर्वं वा कश्चित् ११
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/25/11_na_chAsya_viShaye.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 11. And in his realm no (Brāhmaṇa) should suffer hunger, sickness, cold, or heat, be it through want, or intentionally. [^6] 
@@ -283,17 +337,22 @@ title = "२५ राजधर्माः"
 **टीका**  
 अस्य राज्ञो विषये राष्ट्रे क्षुधा आहाराभावेन बुभुक्षया रोगेण व्याधिना हिमेन नीहारेण वर्षादीनामप्युपलक्षणमेतत् । आतपः आदित्यरश्मितापः। एतैः प्रकारैरभावात् बुद्धिपूर्वं वा न कश्चिदब्राह्मणोऽप्यवसीदेत् अवसन्नो न स्यात् । राज्ञो हयमपराधो यदाहाराद्यभावेन कश्चिदवसन्नः स्यात् । बुद्धिपूर्वं वेत्यत्रोदाहरणम् — यदा कश्चित् करमृणं वा दाप्यो भवति, तदा नाऽसौ हिमातपयोरुपनिवेशयितव्यः भोजनाद्वा निरोद्धव्यः। तथा कुर्वाणं राजा दण्डयेदिति ॥ ११ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/25/12_sabhAyA_madhye.adhidevanamuddhatyA.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 सभाया मध्ये ऽधिदेवनमुद्धत्या ऽऽवोक्ष्या ऽऽक्षान् निवपेद् युग्मान् वैभीतकान्यथार्थान् १२
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/25/12_sabhAyA_madhye.adhidevanamuddhatyA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 12. In the midst of the assembly-house, (the superintendent of the house) shall raise a play-table and sprinkle it with water, turning his hand downwards, and place on it dice in even numbers, made of Vibhītaka (wood), as many as are wanted.
@@ -307,17 +366,22 @@ title = "२५ राजधर्माः"
 **टीका**  
 पूर्वोक्तायाः सभाया मध्ये अधिदेवनं यस्योपरि कितवा अक्षैर्दीव्यन्ति तत्स्थानमधिदेवनम् । तत् पूर्वं काष्ठादिना उद्धन्ति उद्धत्यावोक्षति । अवोक्ष्य तत्राऽक्षान् युग्मसङ्ख्याकान्वैभीतकान् विभीतकवृक्षस्य विकारभूतान् यथार्थान् यावद्भिर्द्यूतं निर्वर्तते, तावतो निवपति । कः ? यस्तत्र राज्ञा नियुक्तः सभिको नाम ॥ १२॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/25/13_AryAH_shuchayaH_satyashIlA.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 आर्याः शुचयः सत्यशीला दीवितारः स्युः १३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/25/13_AryAH_shuchayaH_satyashIlA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 13. Men of the first three castes, who are pure and truthful, may be allowed to play there. [^7] 
@@ -341,17 +405,22 @@ title = "२५ राजधर्माः"
 
 [^२]: या०स्मृ० २. १९९; २००
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/25/14_AyudhagrahaNan_nRttagItavAditrANIti_rAjAdhInebhyo-nyatra.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 आयुधग्रहणं नृत्तगीतवादित्राणीति राजाधीनेभ्योऽन्यत्र न विद्येरन् १४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/25/14_AyudhagrahaNan_nRttagItavAditrANIti_rAjAdhInebhyo-nyatra.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 14. Assaults of arms, dancing, singing, music, and the like (performances) shall be held only (in the houses) of the king's servants. [^8] 
@@ -367,17 +436,22 @@ title = "२५ राजधर्माः"
 **टीका**  
 आयुधग्रहणादीनि राजाधीनेभ्यो राजाश्रया ये पुरुषास्तेभ्योऽन्यत्र न विद्येरन् न भवेयुः । उत्सवादिष्वन्यत्रापि भवतीत्याचारः ॥ १४ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/25/15_xemakRdrAjA_yasya_viShaye.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 क्षेमकृद्राजा यस्य विषये ग्रामेऽरण्ये वा तस्करभयं न विद्यते १५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/25/15_xemakRdrAjA_yasya_viShaye.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 15. That king only takes care of the welfare of his subjects in whose dominions, be it in villages or forests, there is no danger from thieves. [^9] 
@@ -394,6 +468,7 @@ title = "२५ राजधर्माः"
 यस्य राज्ञो विषये ग्रामेऽरण्ये च चोरभयं नास्ति स एव राजा क्षेमकृत् क्षेमङ्करः । न त्वन्यः शतं तुभ्यं शतं तुभ्यमिति ददानोऽपि ॥ १५ ॥  
 
 इत्यापस्तम्बधर्मसूत्रवृत्तौ द्वितीयप्रश्ने पञ्चविंशी काण्डिका ॥ २५ ॥
+</details>
 </details>
 
 </div>

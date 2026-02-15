@@ -4,12 +4,16 @@ title = "१० अनध्यायाः"
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/10/01_chAturmAsIShu_cha.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 चातुर्मासीषु च १
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/03/10/01_chAturmAsIShu_cha.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 1. (Nor shall he study) on the days of the full moons of those months in which the Kāturmasya-sacrifice may be performed (nor on the days preceding them). [^1] 
@@ -34,17 +38,22 @@ title = "१० अनध्यायाः"
 
 [^५]: या० स्मृ० १.१४६. ऋतुसन्धिषु भुक्त्वा च श्राद्धिकं प्रतिगृह्य च इत्यधिकः पाठः ख. पुस्तके ।
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/10/02_vairamaNo_guruShvaShTAkya_aupAkaraNa.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 वैरमणे+++(=उत्सर्जने)+++ +++(मृतेषु)+++ गुरुष्व् अष्टाक्य औपाकरण इति त्र्यहाः २
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/03/10/02_vairamaNo_guruShvaShTAkya_aupAkaraNa.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 2. At the time of the Vedotsarga, on the death of Gurus, at the Ashlakā-Śrāddha, and at the time of the Upākarma, (he shall not study) for three days; [^2] 
@@ -66,17 +75,22 @@ title = "१० अनध्यायाः"
 
 [^३]: मनु० ४, ११९.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/10/03_tathA_sambandheShu_jnAtiShu.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तथा संबन्धेषु ज्ञातिषु +++(मृतेषु त्र्यहम् अनध्याय इति ब्रह्मचारिनियमः। इतरेषाम् आशौचवतां तु यावद् आशौचमनध्यायः)+++३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/03/10/03_tathA_sambandheShu_jnAtiShu.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 3. Likewise if near relations have died. [^3] 
@@ -101,17 +115,22 @@ title = "१० अनध्यायाः"
 
 [^४]: मनु० ५ ३.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/10/04_mAtari_pitaryAchArya_iti.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 मातरि पितर्य् आचार्य इति द्वादशाहाः ४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/03/10/04_mAtari_pitaryAchArya_iti.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 4. (He shall not study) for twelve days, if his mother, father, or teacher have died.
@@ -125,17 +144,22 @@ title = "१० अनध्यायाः"
 **टीका**  
 मात्रादिषु मृतेषु द्वादशाहमनध्यायः। अयं विधिर्गृहस्थानामपि । केचिदाशौचमपि तावन्तं कालमिच्छन्ति । नेति वयम्, अनध्यायप्रकरणात् ॥ ४॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/10/05_teShu_chodakopasparshanan_tAvanta~N.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तेषु चोदकोपस्पर्शनं तावन्तं कालम् ५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/03/10/05_teShu_chodakopasparshanan_tAvanta~N.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 5. If these (have died), he must (also) bathe for the same number of days.
@@ -149,17 +173,22 @@ title = "१० अनध्यायाः"
 **टीका**  
 मात्रादिष्व् अधिकं तावन्तं कालम् अहर् अहस् स्नानम् अपि कार्यम, न केवलम् अनध्यायः ॥५॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/10/06_anubhAvinA~n_cha_parivApanam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अनु-भाविनां+++(=पश्चाज्-जातानां)+++ च परिवापनम् ६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/03/10/06_anubhAvinA~n_cha_parivApanam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 6. Persons who are younger (than the relation deceased), must shave (their hair and beard), [^4] 
@@ -186,17 +215,22 @@ title = "१० अनध्यायाः"
 
 [^१]: पा० सू ८. ४. ३. उपसर्गस्थान्निमित्तात्परस्य, णिजन्ताद्विहितो यः कृत्प्रत्ययः तद्गतस्य नकारस्य णत्वं विकल्पेन स्यात् इति सूत्रार्थः ।
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/10/07_na_samAvRttA_vaperann.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 न समावृत्ता +++(केशान्)+++ वपेरन्न् अन्यत्र +++(याग-)+++विहाराद् इत्येके ७
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/03/10/07_na_samAvRttA_vaperann.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 7. Some declare, that students who have returned home on completion of their studentship, shall never shave, except if engaged in the initiation to a Śrauta-sacrifice. [^5] 
@@ -212,17 +246,22 @@ title = "१० अनध्यायाः"
 **टीका**  
 विहारो यागदीक्षा । ततोऽन्यत्र न समावृत्ता वपेरनित्येके मन्यते । स्वमतं तु वपरन्नेवेति ॥ ७॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/10/08_athApi_brAhmaNaM_rikto.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अथापि ब्राह्मणं - "रिक्तो वा एषोऽनपिहितो यन् मुण्डः। तस्यैतद् अपिधानं यच् छिखे"ति ८
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/03/10/08_athApi_brAhmaNaM_rikto.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 8. Now a Brāhmaṇa also declares, 'Verily, an empty, uncovered (pot) is he, whose hair is shaved off entirely; the top-lock is his covering.' [^6] 
@@ -241,17 +280,22 @@ title = "१० अनध्यायाः"
 **टीका**  
 रिक्तः अन्तःशून्यो घटादिः। सोऽनपिहितः पिधानरहितो यादृशः तादृश एषः यन्मुण्डो नाम । तस्य रिक्तस्यापिधानमेतत् यच्छिखा नाम । अनेन चैतद्दर्शित-निषेधशास्त्रं सह शिखया वपनप्रतिषेधपरमिति ॥ ८॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/10/09_satreShu_tu_vachanAd.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 सत्रेषु तु वचनाद् वपनं शिखायाः ९
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/03/10/09_satreShu_tu_vachanAd.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 9. But at sacrificial sessions the top-lock must be shaved off, because it is so enjoined in the Veda. [^7] 
@@ -272,17 +316,22 @@ title = "१० अनध्यायाः"
 
 [^२]: ५६. पृष्ठ ५. टिप्पणी द्रष्टव्या।
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/10/10_AchArye_trInahorAtrAnityeke.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 आचार्ये त्रीन् अहोरात्रान् इत्य् एके १०
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/03/10/10_AchArye_trInahorAtrAnityeke.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 10. Some declare, that, upon the death of the teacher, (the reading should be interrupted) for three days and three nights. [^8] 
@@ -298,17 +347,22 @@ title = "१० अनध्यायाः"
 **टीका**  
 आचार्ये संस्थिते त्रीनहोरात्रानध्ययनं वर्जयेदित्येके मन्यते । स्वपक्षस्तु द्वादशाहः पूर्वमुक्तः ॥ १० ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/10/11_shrotriyasaMsthAyAmaparisaMvatsarAyAmekAm.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 श्रोत्रिय-संस्थायाम् अपरिसंवत्सरायाम् एकाम् +++(रात्रिम्)+++ ११
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/03/10/11_shrotriyasaMsthAyAmaparisaMvatsarAyAmekAm.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 11. If (he hears of) the death of a learned Brāhmaṇa (Śrotriya) before a full year (since the death) has elapsed, (he shall interrupt his reading) for one night (and day). [^9] 
@@ -324,17 +378,23 @@ title = "१० अनध्यायाः"
 
 [^४]: आप० ध० २. ६. ४. सूत्रे ।
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/10/12_sabrahmachAriNItyeke.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 सब्रह्मचारिणीत्य् एके १२ …
+
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/03/10/12_sabrahmachAriNItyeke.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 12. Some declare, (that the deceased Śrotriya must have been) a fellow-student.
@@ -348,17 +408,22 @@ title = "१० अनध्यायाः"
 **टीका**  
 एके तु सब्रह्मचारिणो मरण एवाऽनन्तरोक्तमनध्यायमिच्छन्ति, न तु श्रोत्रियसामान्यमरणे ॥ १२॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/10/13_shrotriyAbhyAgame.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 श्रोत्रियाभ्यागमे ऽधिजिगांसमानो ऽधीयानो वा ऽनुज्ञाप्याधीयीत १३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/03/10/13_shrotriyAbhyAgame.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 13-14. If a learned Brāhmaṇa (Śrotriya) has arrived and he is desirous of studying or is actually studying, (or if he is desirous of teaching or is teaching,) he may study or teach after having received permission (to do so from the Śrotriya).
@@ -372,17 +437,22 @@ title = "१० अनध्यायाः"
 **टीका**  
 श्रोत्रियेऽभ्यागते अध्येतुकामोऽधीयानश्च तमनुज्ञाप्याधीयीत ॥ १३ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/10/14_adhyApayedvA.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अध्यापयेद् वा १४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/03/10/14_adhyApayedvA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 (See previous sUtra.)
@@ -396,17 +466,22 @@ title = "१० अनध्यायाः"
 **टीका**  
 अध्यापयितुकामोऽध्यापयन्वेति प्रकरणाद्गम्यते । सोऽपि तमनुज्ञाप्याध्यापयेदिति ॥ १४॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/10/15_gurusannidhau_chAdhIhi_bho.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 गुरुसंनिधौ चाधीहि भो इत्य् +++(आत्मगतम्)+++ उक्त्वाधीयीत १५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/03/10/15_gurusannidhau_chAdhIhi_bho.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 15-16. He may likewise study or teach in the presence of his teacher, if (the latter) has addressed him (saying), 'Ho, study! (or, Ho, teach!)' [^10] 
@@ -422,17 +497,22 @@ title = "१० अनध्यायाः"
 **टीका**  
 धारणाध्ययनं पारायणाध्ययनं वा कुर्वन् गुरौ सन्निहिने सति 'अधीहि भो' इत्युक्त्वाऽधीयीत ॥ १५॥*
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/10/16_adhyApayedvA.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अध्यापयेद् वा १६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/03/10/16_adhyApayedvA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 (See previous sUtra.)
@@ -446,17 +526,22 @@ title = "१० अनध्यायाः"
 **टीका**  
 अध्यापयन्नपि तत्सन्निधावेवमेवोक्त्वाऽध्यापयेत् ॥ १६ ॥*
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/10/17_ubhayata_upasangrahaNamadhijigAMsamAnasyAdhItya_cha.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 उभयत उपसंग्रहणम् अधिजिगांसमानस्याधीत्य च १७+++(5)+++
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/03/10/17_ubhayata_upasangrahaNamadhijigAMsamAnasyAdhItya_cha.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 17. When a student desires to study or has finished his lesson, he shall at both occasions embrace the feet of his teacher. [^11] 
@@ -476,17 +561,22 @@ title = "१० अनध्यायाः"
 
 *मनौ. २. ७३ श्लोको द्रष्टव्यः ।
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/10/18_adhIyAneShu_vA_yatrAnyo.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अधीयानेषु वा यत्रान्यो व्यवेयाद् +++(=मध्ये गच्छेत्)+++, एतम् एव शब्दम् +++(=अधीहि भोः)+++ उत्सृज्याधीयीत १८
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/03/10/18_adhIyAneShu_vA_yatrAnyo.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 18. Or if, whilst they study, another person comes in, he shall continue his recitation, after those words, ('Ho, study!') have been pronounced (by the newcomer). [^12] 
@@ -502,19 +592,24 @@ title = "१० अनध्यायाः"
 **टीका**  
 बहुवचनमतन्त्रम् । अधीयानेषु च यत्राऽन्यो व्यवेयादन्तरा गच्छेत्, तत्रा'प्यधीहि भो' इत्येतमेव शब्दमुत्सृज्य उच्चार्याऽधीयीत । प्रत्येकमुपदेशादेकवचनम् । अर्थायीरन् ॥ १८ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/10/19_shvagardabhanAdAH_salAvRkyekasRkolUkashabdAH_sarve.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 +++(बहु-)+++श्व-गर्दभ-नादाः सलावृक्य्-एकसृक+++(=शृगाल)++++उलूक-शब्दाः  
 सर्वे वादित्र-शब्दा  
 रोदन-गीत-सामशब्दाश् च १९
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/03/10/19_shvagardabhanAdAH_salAvRkyekasRkolUkashabdAH_sarve.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 19. The barking of (many) dogs, the braying of (many) asses, the cry of a wolf or of a solitary jackal or of an owl, all sounds of musical instruments, of weeping, and of the Sāman melodies (are reasons for discontinuing the study of the Veda). [^13] 
@@ -538,17 +633,22 @@ title = "१० अनध्यायाः"
 
 [^२]: या० स्मृतौ १. १४८-१५१. श्लोकाः द्रष्टव्याः ।
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/10/20_shAkhAntare_cha_sAmnAmanadhyAyaH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 शाखान्तरे +++(श्रूयमाणे)+++ च साम्नाम् अनध्यायः २०
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/03/10/20_shAkhAntare_cha_sAmnAmanadhyAyaH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 20. If another branch of the Veda (is being recited in the neighbourhood), the Sāman melodies shall not be studied.
@@ -564,17 +664,22 @@ title = "१० अनध्यायाः"
 
 [^३]: साम नाऽध्येयम् । इति. ख. पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/10/21_sarveShu_cha_shabdakarmasu.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 सर्वेषु च शब्दकर्मसु +++(=आक्रोश-परिवादादिषु)+++ यत्र +++(+अध्ययन-शब्देन)+++ संसृज्येरन् २१
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/03/10/21_sarveShu_cha_shabdakarmasu.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 21. And whilst other noises (are being heard, the recitation of the Veda shall be discontinued), if they mix (with the voice of the person studying). [^14] 
@@ -592,17 +697,22 @@ title = "१० अनध्यायाः"
 
 [^४]: परिहासादिषु. इति. क. पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/10/22_ChardayitvA_svapnAntam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 छर्दयित्वा +++(=वमित्वा)+++ स्वप्नान्तम् +++(नाधीयीत)+++। २२
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/03/10/22_ChardayitvA_svapnAntam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 22. After having vomited (he shall not study) until he has slept. [^15] 
@@ -618,17 +728,22 @@ title = "१० अनध्यायाः"
 **टीका**  
 छर्दनं वमनम् । तत्कृत्वा स्वप्नान्तं यावन्नाऽधीयीत ॥ २२ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/10/23_sarpirvA_prAshya.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 सर्पिर्वा प्राश्य +++(अधीयीत)+++। २३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/03/10/23_sarpirvA_prAshya.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 23. Or (he may study) having eaten clarified butter (after the attack of vomiting).
@@ -642,17 +757,22 @@ title = "१० अनध्यायाः"
 **टीका**  
 अथ वा सर्पिः प्राश्याऽधीयीत ॥ २३ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/10/24_pUtIgandhaH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 पूतीगन्धः २४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/03/10/24_pUtIgandhaH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 24. A foul smell (is a reason for the discontinuance of study). [^16] 
@@ -668,17 +788,22 @@ title = "१० अनध्यायाः"
 **टीका**  
 दुर्गन्ध उपलभ्यमानोऽनध्यायहेतुः ॥ २४ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/10/25_shukta~n_chAtmasaMyuktam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 शुक्तं +++(=पक्वं कालपाकेनाम्लं जात)+++ चात्मसंयुक्तम् +++(=उदरस्थम्)+++ २५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/03/10/25_shukta~n_chAtmasaMyuktam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 25. Food turned sour (by fermentation), which he has in his stomach, (is a reason for the discontinuance of the recitation, until the sour rising ceases). [^17] 
@@ -694,17 +819,22 @@ title = "१० अनध्यायाः"
 **टीका**  
 यत्पक्वं कालपाकेनाऽम्लं जातं तच्छुक्तम् । तद्यावदात्मसंयुक्तं स्वोदरस्थमजीर्णं, यावत्तदनुगुण उद्गारस्तावदनध्यायहेतुः ॥ २५ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/10/26_pradoShe_cha_bhuktvA.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 प्रदोषे च भुक्त्वा २६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/03/10/26_pradoShe_cha_bhuktvA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 26. (Nor shall he study) after having eaten in the evening, [^18] 
@@ -720,17 +850,22 @@ title = "१० अनध्यायाः"
 **टीका**  
 तेनाऽधीत्यैव भुञ्जीत ॥ २६ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/10/27_prodakayoshcha_pANyoH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 प्रोदकयोश्च +++(= भुक्त्वार्द्रयोः)+++ पाण्योः २७
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/03/10/27_prodakayoshcha_pANyoH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 27. Nor as long as his hands are wet. [^19] 
@@ -746,17 +881,22 @@ title = "१० अनध्यायाः"
 **टीका**  
 भुक्त्वेत्येव । भुक्त्वा यावत्प्रोदकौ पाणी आद्रौ तावन्नाऽधीयीत । केचित् भुक्त्वेति नानुवर्तयन्ति ॥ २७ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/10/28_pretasankLLipta~n_chAnnam_bhuktvA.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 प्रेतसंकॢप्तं चान्नं भुक्त्वा सप्रदोषमहरनध्यायः २८
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/03/10/28_pretasankLLipta~n_chAnnam_bhuktvA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 28. (And he shall discontinue studying) for, a day and an evening, after having eaten food prepared in honour of a dead person (for whom the Sapiṇḍī-karaṇa has not yet been performed), [^20] 
@@ -775,17 +915,22 @@ title = "१० अनध्यायाः"
 
 [^१]: मनु०स्मृ० ४. १११.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/10/29_A_cha_vipAkAt.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 आ च विपाकात् २९
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/03/10/29_A_cha_vipAkAt.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 29. Or until the food (eaten on that occasion) is digested. [^21] 
@@ -801,17 +946,22 @@ title = "१० अनध्यायाः"
 **टीका**  
 यदि तावता कालेन तदन्नं पक्कं जीर्ण न भवति, तत आविपाकात् तस्य नाऽधीयीत ॥ २९ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/03/10/30_ashrAddhena_tu_paryavadadhyAt.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अश्राद्धेन तु पर्यवदध्यात् ३०
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/03/10/30_ashrAddhena_tu_paryavadadhyAt.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 30. But he shall (always) eat in addition (to the meal given in honour of a dead person), food which has not been given at a sacrifice to the Manes. [^22] 
@@ -828,6 +978,7 @@ title = "१० अनध्यायाः"
 जीर्णे अजीर्णे च तस्मिन् अश्राद्धेनाऽन्नेन पर्यवदध्यात् तस्योपर्यश्राद्धमन्नं भुञ्जीतेत्युक्तं भवति । केचित् अत्र 'अश्राद्धेने'ति वचनात् पूर्वत्रापि प्रेतान्नमिति श्राद्धमात्रं विवक्षितं मन्यन्ते ॥ ३० ॥  
 
 ॥ इत्यापस्तम्बधर्मसूत्रे तद्वृत्तावुज्वलाया च दशमी कण्डिका ॥
+</details>
 </details>
 
 </div>

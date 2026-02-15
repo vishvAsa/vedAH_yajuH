@@ -4,12 +4,16 @@ title = "०२ ब्रह्मचर्यम्"
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/01_pratipUruShaM_sankhyAya_saMvatsarAn.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 प्रति-पूरुषं संख्याय संवत्सरान् यावन्तो ऽनुपेताः स्युः १
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/01_pratipUruShaM_sankhyAya_saMvatsarAn.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 1. For as many years as there are uninitiated persons, reckoning (one year) for each ancestor (and the person to be initiated himself),
@@ -23,10 +27,13 @@ title = "०२ ब्रह्मचर्यम्"
 **टीका**  
 यदि पितैवानुपेतः ततस्संवत्सरमेकम् । अथ पितामहोऽपि, ततो द्वौ । अथ स्वयमपि यथाकालमनुपेतः, ततः संवत्सरानिति ॥१॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/02_saptabhiH_pAvamAnIbhir_yadanti.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
 
 सप्तभिः पावमानीभिर् "यदन्ति यच् च दूरक" इति एताभिर्, यजुष्-पवित्रेण, +++(वामदेव्यम्→)+++साम-पवित्रेणाङ्गिरसेणेति  २
 
@@ -103,12 +110,14 @@ title = "०२ ब्रह्मचर्यम्"
 
 **यजुष्-पवित्रम्**  
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/02_Apo_asmAn_full.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 आपो॑ अ॒स्मान् मा॒तर॑श् शुन्धन्तु।+++(र४)+++  
 घृ॒तेन॑ नो घृत॒-पुवᳶ॑+++(→घृतपावकाः)+++ पुनन्तु ।  
 विश्व॑म् अ॒स्मत् प्र व॑हन्तु रि॒प्रम्+++(=पापम्)+++ +++(र५)+++  
 उद् +++(अद्भ्य)+++ आ॑भ्य॒श् शुचि॒र् आ पू॒त ए॑मि ।+++(र५)+++
 
+</details>
 </div>
 
 **साम-पवित्रम्**
@@ -122,11 +131,13 @@ title = "०२ ब्रह्मचर्यम्"
 क꣡या꣢ नश्चि꣣त्र꣡ आ भुव꣢꣯दू꣣ती꣢ स꣣दा꣢वृ꣣धः꣢ स꣡खा꣢। क꣢या꣣ श꣡चि꣢ष्ठया वृ꣣ता꣢ ॥ 12-1:0682 ॥
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/031/01_kayA_nashchitra.md">
+<details open><summary>विश्वास-शाकल-प्रस्तुतिः …{Loading}…</summary>
 
 क᳓या नश् चित्र᳓ +++(→इन्द्रः)+++ **आ᳓ भुवद्**  
 **ऊती᳓** +++(=रक्षणम्/ तर्पणम् [तेन])+++, सदा᳓-वृधः +++(=वर्धमानः)+++ स᳓खा ।  
 क᳓या श᳓चिष्ठया +++(=प्रज्ञावता)+++ वृता᳓ +++(=वर्तनेन)+++ १
 
+</details>
 </div>
 </div>
 
@@ -135,11 +146,13 @@ title = "०२ ब्रह्मचर्यम्"
 क꣡स्त्वा꣢ स꣣त्यो꣡ मदा꣢꣯नां꣣ म꣡ꣳहि꣢ष्ठो मत्स꣣द꣡न्ध꣢सः। दृ꣣ढा꣡ चि꣢दा꣣रु꣢जे꣣ व꣡सु꣢ ॥ 12-2:0683 ॥
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/031/02_kastvA_satyo.md">
+<details open><summary>विश्वास-शाकल-प्रस्तुतिः …{Loading}…</summary>
 
 क᳓स् त्वा सत्यो᳓ म᳓दानां  
 मं᳓हिष्ठो +++(=पूज्यः)+++ **मत्सद्** +++(=मादयेद्)+++ अ᳓न्धसः+++(= भोज्यः (→[सोमः])+++) ।  
 दृळ्हा᳓ +++(=ढम्)+++ चिद् **आरु᳓जे** +++(=सम्भङ्क्तुम्)+++ व᳓सु २
 
+</details>
 </div>
 </div>
 
@@ -148,12 +161,14 @@ title = "०२ ब्रह्मचर्यम्"
 अ꣣भी꣢꣫ षु णः꣣ स꣡खी꣢नामवि꣣ता꣡ ज꣢रितृ꣣णा꣢म्। श꣣तं꣡ भ꣢वास्यू꣣त꣡ये꣢ ॥ 12-3:0684 ॥॥12(टा)॥
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/031/03_abhI_Shu.md">
+<details open><summary>विश्वास-शाकल-प्रस्तुतिः …{Loading}…</summary>
 
 अभी᳓ षु᳓ णः स᳓खीनाम्  
 **अविता᳓** जरितॄणा᳓म् +++(=स्तोतॄणाम्)+++।  
 शतं᳓ **भवास्य्** ऊति᳓भिः +++(=रक्षाभिः)+++३  
 +++(अभिभवसि = सम्मुखो भवसि)+++
 
+</details>
 </div>
 </div>  
 
@@ -206,11 +221,13 @@ title = "०२ ब्रह्मचर्यम्"
 अ॒ब्-जा, गो॒-जा, ऋ॑त॒-जा, अ॑द्रि॒-जा, ऋ॒तं बृ॒हत् ॥
 
 </div>
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/02_saptabhiH_pAvamAnIbhir_yadanti.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 2. (They should bathe daily reciting) the seven [^1]  Pāvamānīs, beginning with 'If near or far,' the Yajuṣpavitra, ('May the waters, the mothers purify us,' &c.) the Sāmapavitra, ('With what help assists,' &c.), and the Āṅgirasapavitra ('A swan, dwelling in purity'),
@@ -250,17 +267,22 @@ title = "०२ ब्रह्मचर्यम्"
 
     हँसश्शुचिषद्वसुरन्तरिक्षसद्धोता वेदिषदतियिर्दुरोणसत् । नृषद्वरसदृतसद्व्योमसदब्जा गोजा ऋतजा अद्रिजा ऋत बृहत्" (तै० सं० ४ २ १ ४.) इत्याङ्गिरस ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/03_api_vA_vyAhRtIbhir.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अपि वा व्याहृतीभिर् एव ३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/03_api_vA_vyAhRtIbhir.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 3. Or also reciting the Vyāhṛtis (om, bhūḥ, bhuvaḥ, suvaḥ).
@@ -270,17 +292,22 @@ title = "०२ ब्रह्मचर्यम्"
 
 अपि वा व्याहृतीभिर् एव ३
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/04_athAdhyApyaH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अथाध्याप्यः ४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/04_athAdhyApyaH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 4. After that (such a person) may be taught (the Veda).
@@ -290,17 +317,22 @@ title = "०२ ब्रह्मचर्यम्"
 
 अथाध्याप्यः ४
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/05_atha_yasya_prapitAmahAdi.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अथ यस्य प्रपितामहादि नानुस्मर्यत उपनयनं - ते श्मशान-संस्तुताः ५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/05_atha_yasya_prapitAmahAdi.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 5. But those whose great-grandfather's (grandfather's and father's) initiation is not remembered, are called 'burial-grounds.'
@@ -317,18 +349,23 @@ title = "०२ ब्रह्मचर्यम्"
 
 [^२]: आप० ध० १. ९. ६.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/06_teShAm_abhyAgamanam_bhojanaM.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तेषाम् अभ्यागमनं भोजनं विवाहम् इति च वर्जयेत्।
 तेषामिच्छतां प्रायश्चित्तं - द्वादशवर्षाणि त्रैविद्यकं ब्रह्मचर्यं चरेद् । अथोपनयनं तत उदकोपस्पर्शनं पावमान्यादिभिः ६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/06_teShAm_abhyAgamanam_bhojanaM.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 6. Intercourse, dining, and intermarriage with them should be avoided. For them, if they like, the (following) penance (is prescribed). (Such a man) shall keep for twelve years the rules prescribed for a student who is studying the three Vedas. Afterwards he may be initiated. Then he shall bathe, reciting the Pāvamānīs and the other (texts mentioned above, I, 1, 2, 2).
@@ -346,17 +383,22 @@ title = "०२ ब्रह्मचर्यम्"
 
     ततस्संवत्सरमुदकोपस्पर्शनम् इति ग. पु. ।
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/07_atha_gRhamedhopadeshanam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अथ गृहमेधोपदेशनम् ७
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/07_atha_gRhamedhopadeshanam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 7. Then he may be instructed in the duties of a householder.
@@ -370,17 +412,22 @@ title = "०२ ब्रह्मचर्यम्"
 **टीका**  
 गृहमेधो गृह्यशास्त्रं गृहस्थधर्मो वा ॥ ७॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/08_nAdhyApanam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 नाध्यापनम् ८
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/08_nAdhyApanam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 8. He shall not be taught (the whole Veda), but only the sacred formulas required for the domestic ceremonies.
@@ -394,17 +441,22 @@ title = "०२ ब्रह्मचर्यम्"
 **टीका**  
 नाध्यापनं कृत्स्नस्य वेदस्य । किं तु गृह्यमन्त्राणामेवेति ॥ ८॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/09_tato_yo_nirvartate.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 ततो यो निर्वर्तते तस्य संस्कारो यथा प्रथमेऽतिक्रमे ९
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/09_tato_yo_nirvartate.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 9. When he has finished this (study of the Gṛhya-mantras), he may be initiated (after having performed the penance prescribed) for the first neglect (I, 1, 1, 28).
@@ -418,17 +470,22 @@ title = "०२ ब्रह्मचर्यम्"
 **टीका**  
 ततः एवं कृतप्रायश्चित्तात् गृहस्थीभूताद्यो निवर्तते उत्पद्यते तस्योपनयनसंस्कारः कर्तव्यः । कथम् ? यथा प्रथमेऽतिक्रमे ऋतुं त्रैविद्यकं ब्रह्मचर्यं चारयित्वेत्यर्थः ॥९॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/10_tata_Urdhvam_prakRtivat.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तत ऊर्ध्वं प्रकृतिवत् १०
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/10_tata_Urdhvam_prakRtivat.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 10. Afterwards (everything is performed) as in the case of a regular initiation. [^2]  
@@ -444,17 +501,22 @@ title = "०२ ब्रह्मचर्यम्"
 **टीका**  
 ततः यो निवर्तते तस्य प्रकृतिवत् यथा प्राप्तमुपनयनं कर्तव्यमिति । यस्य तु प्रपितामहस्थ पितुरारभ्य नानुस्मर्यत उपनयनं तत्र प्रायश्चित्तं नोक्तम्, धर्मज्ञैरूहितव्यम् ॥ १०॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/11_upetasyAchAryakule_brahmachArivAsaH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 उपेतस्याचार्यकुले ब्रह्मचारिवासः ११
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/11_upetasyAchAryakule_brahmachArivAsaH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 **सूत्रम्**  
@@ -474,17 +536,22 @@ He who has been initiated shall dwell as a religious student in the house of his
 
 [^3]:  Manu II, 164.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/12_aShTAchatvAriMshadvarShANi.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अष्टाचत्वारिंशद्वर्षाणि १२
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/12_aShTAchatvAriMshadvarShANi.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 12. For forty-eight years (if he learns all the four Vedas), [^4] 
@@ -507,17 +574,22 @@ He who has been initiated shall dwell as a religious student in the house of his
 
     गोपथब्राह्मणेऽथर्ववेदीये द्वितीयप्रपाठके पश्चमब्राह्मणेऽस्य विधिदृश्यते— तस्मा एतत् प्रोवाचाष्टाचत्वारिंशद्वर्ष तच्चतुर्धा वेदेषु व्यूह्य द्वादशवर्षं ब्रह्मचर्यं, द्वादशवर्षाण्यवरार्धमपि स्तायंश्चरेद्यथा शक्त्यपरम्" ( गोप० ब्रा० पू० २. ५.) इति ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/13_pAdUnam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 पादूनम् १३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/13_pAdUnam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 13. (Or) a quarter less (i.e. for thirty-six years),
@@ -533,17 +605,22 @@ He who has been initiated shall dwell as a religious student in the house of his
 
 [^२]: 'शकन्ध्वादित्वात्' इति घ.पु. ।
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/14_ardhena.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अर्धेन १४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/14_ardhena.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 14. (Or) less by half (i.e. for twenty-four years),
@@ -561,17 +638,22 @@ He who has been initiated shall dwell as a religious student in the house of his
 
     उपसमस्तमिति ख० पु. प्राप्तसमासमपीत्यर्थः । सर्वत्राप्यपेक्षते इति. घ. पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/15_tribhirvA.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 त्रिभिर्वा १५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/15_tribhirvA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 15. (Or) three quarters less (i.e. for twelve years),
@@ -585,17 +667,22 @@ He who has been initiated shall dwell as a religious student in the house of his
 **टीका**  
 पादैरूनमिति प्रकरणाद्गम्यते । द्वादशवर्षाणि प्रतिवेदं त्रीणि ॥१५॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/16_dvAdashAvarArdhyam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 द्वादशावरार्ध्यम् १६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/16_dvAdashAvarArdhyam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 16. Twelve years (should be) the shortest time (for his residence with his teacher). [^5] 
@@ -624,17 +711,22 @@ He who has been initiated shall dwell as a religious student in the house of his
 
 [^३]: मनु० स्मृ० ३.१
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/17_na_brahmachAriNo_vidyArthasya.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 न ब्रह्मचारिणो विद्यार्थस्य परोपवासोऽस्ति १७
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/17_na_brahmachAriNo_vidyArthasya.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 17. A student who studies the sacred science shall not dwell with anybody else (than his teacher). [^6] 
@@ -656,17 +748,22 @@ He who has been initiated shall dwell as a religious student in the house of his
 
 [^६]: आप० ध० २, ९. १३
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/18_atha_brahmacharyavidhiH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अथ ब्रह्मचर्यविधिः १८
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/18_atha_brahmacharyavidhiH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 18. Now (follow) the rules for the studentship.
@@ -680,17 +777,22 @@ He who has been initiated shall dwell as a religious student in the house of his
 **टीका**  
 ब्रह्म वेदस्तदर्थं यद्व्रत चरितव्यं तद्ब्रह्मचर्यं तदधिक्रियते ॥ १८ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/19_AchAryAdhInaH_syAdanyatra_patanIyebhyaH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 आचार्याधीनः स्यादन्यत्र पतनीयेभ्यः १९
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/19_AchAryAdhInaH_syAdanyatra_patanIyebhyaH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 19. He shall obey his teacher, except (when ordered to commit) crimes which cause loss of caste. [^7] 
@@ -710,17 +812,22 @@ He who has been initiated shall dwell as a religious student in the house of his
 
 [^२]: अस्मदरातिं इति ख० पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/20_hitakArI_gurorapratilomayanvAchA.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 हितकारी गुरोरप्रतिलोमयन्वाचा २०
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/20_hitakArI_gurorapratilomayanvAchA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 20. He shall do what is serviceable to his teacher, he shall not contradict him. [^8] 
@@ -738,17 +845,22 @@ He who has been initiated shall dwell as a religious student in the house of his
 
 [^३]: प्रातिकूल्य इति ख. पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/21_adhAsanashAyI.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अधासनशायी २१
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/21_adhAsanashAyI.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 21. He shall always occupy a couch or seat lower (than that of his teacher). [^9] 
@@ -766,17 +878,22 @@ He who has been initiated shall dwell as a religious student in the house of his
 
 [^४]: पा० सू० ३. ३. ११३
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/22_nAnudeshyam_bhunjIta.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 नानुदेश्यं भुञ्जीत २२
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/22_nAnudeshyam_bhunjIta.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 22. He shall not eat food offered (at a sacrifice to the gods or the Manes),
@@ -790,17 +907,22 @@ He who has been initiated shall dwell as a religious student in the house of his
 **टीका**  
 अनुदेश्यं श्राद्धार्थं देवतार्थं वा उद्दिष्टं न भुञ्जीत ॥ २२ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/23_tathA_xAralavaNamadhumAMsAni.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तथा क्षार-लवण-मधु-मांसानि +++(गृह्यसूत्र उपनयनप्रकरणे क्षार-लवणयोर् त्र्यहं [नियमनात्](/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/karmANi/upanayanam) मध्वादेरेव त्र्यहादूर्ध्वं नित्यो निषेधः। )+++ २३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/23_tathA_xAralavaNamadhumAMsAni.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 23. Nor pungent condiments, salt, honey, or meat. [^10] 
@@ -820,17 +942,22 @@ He who has been initiated shall dwell as a religious student in the house of his
 
     क्षारपदार्थः आप.ध. २ १५. ११ सूत्रे व्याख्यास्यते।
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/24_adivAsvApI.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अदिवास्वापी २४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/24_adivAsvApI.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 24. He shall not sleep in the day-time.
@@ -844,17 +971,22 @@ He who has been initiated shall dwell as a religious student in the house of his
 **टीका**  
 न दिवा स्वप्यात् ॥ २४ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/25_agandhasevI.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अगन्धसेवी २५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/25_agandhasevI.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 25. He shall not use perfumes. [^11] 
@@ -870,17 +1002,22 @@ He who has been initiated shall dwell as a religious student in the house of his
 **टीका**  
 चन्दनादीनि गन्धद्रव्याणि न सेवेत ॥ २५ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/26_maithunan_na_charet.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 मैथुनं न चरेत् २६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/26_maithunan_na_charet.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 26. He shall preserve chastity. [^12] 
@@ -901,17 +1038,22 @@ He who has been initiated shall dwell as a religious student in the house of his
 
     भूषणवाससी. इति, क. पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/27_utsannashlAghaH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 उत्सन्न-श्लाघः २७
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/27_utsannashlAghaH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 27. He shall not embellish himself (by using ointments and the like). [^13] 
@@ -929,17 +1071,22 @@ He who has been initiated shall dwell as a religious student in the house of his
 
 [^१]: मृत्कल्कादिना इति क.पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/28_angAni_na_praxAlayIta.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अङ्गानि न प्रक्षालयीत २८
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/28_angAni_na_praxAlayIta.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 28. He shall not wash his body (with hot water for pleasure).
@@ -957,17 +1104,22 @@ He who has been initiated shall dwell as a religious student in the house of his
 
     स्नानसमये आमलकादिभिन क्षालयेत । इति क० पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/29_praxAlayIta_tvashuchiliptAni_guror.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 प्रक्षालयीत त्वशुचिलिप्तानि गुरोर् असन्दर्शे २९
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/29_praxAlayIta_tvashuchiliptAni_guror.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 29. But, if it is soiled by unclean things, he shall clean it (with earth or water), in a place where he is not seen by a Guru. [^14] 
@@ -991,17 +1143,22 @@ He who has been initiated shall dwell as a religious student in the house of his
 
     यत्र गुरुन पश्यति तत्र । इति ख. पु. 'यत्र लिप्तं गुरुः' इति ग, पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/30_nApsu_shlAghamAnaH_snAyAd.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 नाप्सु श्लाघमानः स्नायाद् - यदि स्नायाद् दण्डवत् ३०
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/30_nApsu_shlAghamAnaH_snAyAd.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 30. Let him not sport in the water whilst bathing; let him swim (motionless) like a stick. [^15] 
@@ -1023,17 +1180,22 @@ He who has been initiated shall dwell as a religious student in the house of his
     नाप्सु श्लाघमानस्स्नायादित्येतावदेव ख. पु. सूत्रम् ।
     > “अधाद्भिश्श्लाघमानो न स्नायात् तेन ता श्लाघामवरुन्धे" (गो. ब्रा. पू. १२.) इति गोपथब्राह्मणम् ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/31_jaTilaH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 जटिलः ३१
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/31_jaTilaH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 31. He shall wear all his hair tied in one braid. [^16] 
@@ -1049,17 +1211,22 @@ He who has been initiated shall dwell as a religious student in the house of his
 **टीका**  
 सर्वानेव केशान् जटां कृत्वा बिभृयात् ॥ ३१ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/32_shikhAjaTo_vA_vApayed.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 शिखाजटो वा वापयेद् इतरान् ३२
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/32_shikhAjaTo_vA_vApayed.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 32. Or let him make a braid of the lock on the crown of the head, and shave the rest of the hair.
@@ -1073,17 +1240,22 @@ He who has been initiated shall dwell as a religious student in the house of his
 **टीका**  
 अथवा शिखामेव जटां कृत्वा इतरान्केशान् वापयेत् नापितेन ॥ ३२ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/33_maunjI_mekhalA_trivRd.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 - मौञ्जी मेखला त्रिवृद् ब्राह्मणस्य, शक्तिविषये दक्षिणावृत्तानाम् ३३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/33_maunjI_mekhalA_trivRd.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 33. The girdle of a Brāhmaṇa shall be made of Muñja grass, and consist of three strings; if possible, (the strings) should be twisted to the right. [^17] 
@@ -1100,17 +1272,23 @@ He who has been initiated shall dwell as a religious student in the house of his
 **टीका**  
 मुञ्जानां विकारो मौली । त्रिवृत् त्रिगुणा । एवम्भूता ब्राह्मणस्य मेखला भवति । सा च शक्तिविषये शक्तौ सत्यां दक्षिणावृत्तानां प्रदक्षिणावृत्तानां कर्तव्या । तद्धितार्थे गुणभूतानामपि मुञ्जानामेवैतद्विशेषणम् ॥ ३३ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/34_jyA_rAjanyasya.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 ज्या राजन्यस्य ३४   
+
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/34_jyA_rAjanyasya.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 34. A bowstring (should be the girdle) of a Kṣatriya,
@@ -1124,17 +1302,22 @@ He who has been initiated shall dwell as a religious student in the house of his
 **टीका**  
 स्पष्टम् ॥३४॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/35_maunjI_vAyomishrA.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 मौञ्जी वायोमिश्रा ३५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/35_maunjI_vAyomishrA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 35. Or a string of Muñja grass in which pieces of iron have been tied.
@@ -1148,17 +1331,22 @@ He who has been initiated shall dwell as a religious student in the house of his
 **टीका**  
 अथवा अयोमिश्रा क्वचितु कालायसेन बद्धा मौञ्जी मेखला भवति राजन्यस्य ।। ३५॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/36_AvIsUtraM_vaishyasya.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 आवीसूत्रं वैश्यस्य ३६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/36_AvIsUtraM_vaishyasya.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 36. A wool thread (shall be the girdle) of a Vaiśya,
@@ -1172,17 +1360,22 @@ He who has been initiated shall dwell as a religious student in the house of his
 **टीका**  
 अविरुर्णायुः कम्बलप्रकृतिः तत्सम्बन्धिनी ऊर्णा आवी तत्कृतं सूत्रं आवीसूत्रम् । सा मेखला वैश्यस्य भवति ॥ ६६ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/37_sairI_tAmalI_vetyeke.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 सैरी तामली वेत्येके ३७
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/37_sairI_tAmalI_vetyeke.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 37. Or a rope used for yoking the oxen to the plough, or a stringy made of Tamala-bark.
@@ -1200,20 +1393,25 @@ He who has been initiated shall dwell as a religious student in the house of his
 
     तमालादण् तमालसंज्ञो वृक्षः तस्य• इति घ पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/38_pAlAsho_daNDo_brAhmaNasya.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 पालाशो दण्डो ब्राह्मणस्य,  
 नैय्यग्रोध-स्कन्धजो ऽवाङ्ग्रो राजन्यस्य,  
 बादर औदुम्बरो वा वैश्यस्य।  
 +++(यज्ञियो)+++ वार्क्षो दण्ड इत्य् अवर्ण-संयोगेनैक उपदिशन्ति ३८
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/38_pAlAsho_daNDo_brAhmaNasya.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 38. The staff worn by a Brāhmaṇa should be made of Palāśa wood, that of a Kṣatriya of a branch of the Banian tree, which grows downwards, that of a Vaiśya of Bādara or Udumbara wood. Some declare, without any reference to caste, that the staff of a student should be made of the wood of a tree (that is fit to be used at the sacrifice). [^18] 
@@ -1233,17 +1431,22 @@ He who has been initiated shall dwell as a religious student in the house of his
 
 [^३]: आाप० गृ० ११. १५
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/39_vAsaH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 - वासः ३९
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/39_vAsaH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 39. (He shall wear) a cloth (to cover his nakedness). [^19] 
@@ -1259,17 +1462,22 @@ He who has been initiated shall dwell as a religious student in the house of his
 **टीका**  
 वस्यते कौपीनमाच्छाद्यते येन तद्वासः । तद्वक्ष्यते ॥ ३९ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/40_shANIxaumA-jinAni.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 शाणी+++(=hemp)+++-क्षौमा+++(=linen/ flax)+++ऽजिनानि  +++(ब्राह्मण-क्षत्रिय-वैश्यानाम्)+++४०
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/40_shANIxaumA-jinAni.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 40. (It shall be made) of hemp for a Brāhmaṇa, of flax (for a Kṣatriya), of the skin of a (clean) animal (for a Vaiśya). [^20] 
@@ -1288,17 +1496,22 @@ He who has been initiated shall dwell as a religious student in the house of his
 अजिन यस्य कस्यचिन्मेध्यस्य पशोः।  
 त्रीण्येतानि वर्णानुपूर्व्येण वासांसि ॥ ४ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/41_kaShAya~n_chaike_vastram.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 कषायं+++(=red Lodh/ kaavi)+++ चैके +++(कार्पासं)+++ वस्त्रम् उपदिशन्ति ४१
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/41_kaShAya~n_chaike_vastram.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 41. Some declare that the (upper)+++(sic)+++ garment (of a Brāhmaṇa) should be dyed with red Lodh, [^21] 
@@ -1316,6 +1529,7 @@ He who has been initiated shall dwell as a religious student in the house of his
 **वस्त्रं** कार्पासम् । तच्च काषायं कषायेण रक्तम् । ब्राह्मणस्येत्यर्थाद्गम्यते । इतरयोर्वक्ष्यमाणत्वात् ॥ ४१ ॥  
 
 इत्यापस्तम्बधर्मसूत्रे प्रथमप्रश्ने द्वितीया कण्डिका ॥२॥
+</details>
 </details>
 
 </div>

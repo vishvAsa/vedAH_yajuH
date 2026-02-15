@@ -4,17 +4,21 @@ title = "१६ श्राद्धम्"
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/07/16/01_saha_devamanuShyA_asmiMl.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 सह देवमनुष्या अस्मिंल् लोके पुरा बभूवुः ।  
 अथ देवाः कर्मभिर् दिवं जग्मुर्,  
 अहीयन्त मनुष्याः ।  
 तेषां ये तथा कर्माण्य् आरभन्ते  
 सह देवैर् ब्रह्मणा चामुष्मिंल् लोके भवन्ति ।  
 अथैतन् मनुः श्राद्ध-शब्दं कर्म प्रोवाच १
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/07/16/01_saha_devamanuShyA_asmiMl.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 1. Formerly men and gods lived together in this world. Then the gods in reward of their sacrifices went to heaven, but men were left behind. Those men who perform sacrifices in the same manner as the gods did, dwell (after death) with the gods and Brahman in heaven. Now (seeing men left behind), Manu revealed this ceremony, which is designated by the word Śrāddha (a funeral-oblation). [^1] 
@@ -59,17 +63,22 @@ title = "१६ श्राद्धम्"
 
 [^३]: एवंविधान् इति ख. पुस्तके टिप्पणीपाठः। एवं हीयमानान् इति च. पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/07/16/02_prajAniHshreyasA_cha.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 प्रजानिःश्रेयसाय+++(~~च~~)+++  २
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/07/16/02_prajAniHshreyasA_cha.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 2. And (thus this rite has been revealed) for the salvation of mankind. [^2] 
@@ -85,18 +94,23 @@ title = "१६ श्राद्धम्"
 **टीका**  
 +++(पूर्वसूत्रे व्याख्यातम् ।)+++
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/07/16/03_tatra_pitaro_devatA.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तत्र पितरो देवता  
 ब्राह्मणास् त्वाहवनीयार्थे ३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/07/16/03_tatra_pitaro_devatA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 3. At that (rite) the Manes (of one's father, grandfather, and great-grand father) are the deities (to whom the sacrifice is offered). But the Brāhmaṇas, (who are fed,) represent the Āhavanīya-fire. [^3] 
@@ -118,17 +132,22 @@ title = "१६ श्राद्धम्"
 
 [^४]: 'प्रधानतमत्व' इति च पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/07/16/04_mAsi_mAsi_kAryam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 मासि मासि कार्यम् +++(यावज्जीवम्)+++ ४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/07/16/04_mAsi_mAsi_kAryam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 4. That rite must be performed in each month. [^4] 
@@ -146,17 +165,22 @@ title = "१६ श्राद्धम्"
 मासे मासे कर्त्तव्यम् ।  
 वीप्सा-वचनाद् यावज्-जीविको ऽभ्यासः।
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/07/16/05_aparapaxasyAparAhnaH_shreyAn.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अपर-पक्षस्यापराह्नः श्रेयान् ५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/07/16/05_aparapaxasyAparAhnaH_shreyAn.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 5. The afternoon of (a day of) the latter half is preferable (for it). [^5] 
@@ -173,17 +197,22 @@ title = "१६ श्राद्धम्"
 अपरपक्षस्य यान्य् अहानि  
 तेष्व् अपराह्णः प्रशस्ततरः ॥४॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/07/16/06_tathAparapaxasya_jaghanyAnyahAni.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तथा ऽपरपक्षस्य जघन्यान्य् अहानि ६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/07/16/06_tathAparapaxasya_jaghanyAnyahAni.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 6. The last days of the latter half (of the month) likewise are (preferable to the first days).
@@ -200,19 +229,24 @@ title = "१६ श्राद्धम्"
 
 [^१]: तेषां यथोत्तरं श्रेयस्वम्' इति ड.च. पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/07/16/07_sarveShvevAparapaxasyAhassu_kriyamANe_pitRRnprINAti.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 सर्वेष्व् एवापर-पक्षस्याहस्सु क्रियमाणे  
 **पितॄन् प्रीणाति** ।  
 कर्तुस्तु +++(प्रतिपद्येव द्वितीयायाम् एवेत्यादि)+++ कालाभिनियमात् फल-विशेषः ७
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/07/16/07_sarveShvevAparapaxasyAhassu_kriyamANe_pitRRnprINAti.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 7. (A funeral-oblation) offered on any day of the latter half of the month gladdens the Manes. But it procures different rewards for the sacrificer according to the time observed. [^6] 
@@ -231,17 +265,22 @@ title = "१६ श्राद्धम्"
 प्रतिपद्येव द्वितीयायाम् एवेत्यादि  
 तस्य कर्तुस् तस्मात् **कालाभिनियमात् फल-विशेषो** भवति ॥६॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/07/16/08_prathame-hani_kriyamANe_strIprAyamapatye.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 प्रथमेऽहनि क्रियमाणे स्त्री-प्रायम् अपत्ये जायते ८
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/07/16/08_prathame-hani_kriyamANe_strIprAyamapatye.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 8. If it be performed on the first day of the half-month, the issue (of the sacrificer) will chiefly consist of females.
@@ -260,17 +299,22 @@ title = "१६ श्राद्धम्"
 तस्यापत्ये प्रजासन्ताने स्त्रीप्रायं जायते ।  
 प्रायेण स्त्रियो जायन्ते ॥ ७ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/07/16/09_dvitIye.astenAH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 द्वितीये ऽस्तेनाः ९
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/07/16/09_dvitIye.astenAH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 9. (Performed on the second day it procures) children who are free from thievish propensities.
@@ -284,17 +328,22 @@ title = "१६ श्राद्धम्"
 **टीका**  
 जायन्ते +++(ऽ)+++चोराः पुत्राः ॥ ८॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/07/16/10_tRtIye_brahmavarchasinaH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तृतीये ब्रह्मवर्चसिनः १०
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/07/16/10_tRtIye_brahmavarchasinaH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 10. (If it is performed) on the third day children will be born to him who will fulfil the various vows for studying (portions of the Veda).
@@ -315,17 +364,22 @@ title = "१६ श्राद्धम्"
     व्रताध्ययनसम्पत्तिर्ब्रह्मवर्चसम् । आपस्तम्बस्तु तृतीयचतुर्थयोर्विपरीतफलमाह—  
     तृतीये ब्रह्मवर्चसिनः । चतुर्थे क्षुद्रपशुमान् ॥ इति पाठो घ पुस्तके ।
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/07/16/11_chaturthe_xudra_pashumAn.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 चतुर्थे क्षुद्र-पशुमान् ११
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/07/16/11_chaturthe_xudra_pashumAn.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 11. (The sacrificer who performs it) on the fourth day becomes rich in small domestic animals.
@@ -341,19 +395,24 @@ title = "१६ श्राद्धम्"
 
 [^४]: कर्तुरनुवादः, इति घ. पु ।
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/07/16/12_panchame_pumAMsaH_bahvapatyo.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 पञ्चमे पुमांसः ।  
 बह्व्-अपत्यो,  
 न चानपत्यः प्रमीयते १२
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/07/16/12_panchame_pumAMsaH_bahvapatyo.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 12. (If he performs it) on the fifth day, sons (will be born to him). He will have numerous and distinguished offspring, and he will not die childless. [^7] 
@@ -371,17 +430,22 @@ title = "१६ श्राद्धम्"
 
 [^१]: बहवश्च भवन्ति, भव्याः रूपविद्यादिभिश्शोभमाना भवन्ति, इति घ. द.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/07/16/13_ShaShThe-dhvashIlo-xashIlashcha.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 षष्ठे ऽध्व-शीलो ऽक्ष-शीलश् च १३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/07/16/13_ShaShThe-dhvashIlo-xashIlashcha.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 13. (If he performs it) on the sixth day, he will become a great traveller and gambler.
@@ -395,17 +459,22 @@ title = "१६ श्राद्धम्"
 **टीका**  
 अध्वशीलः पान्थः । अक्षशीलः कितवः ॥ १२ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/07/16/14_saptame_karShe_rAddhiH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 सप्तमे +++(भू-)+++कर्षे राद्धिः+++(=सिद्धिः)+++ १४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/07/16/14_saptame_karShe_rAddhiH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 14. (The reward of a funeral-oblation performed) on the seventh day is success in agriculture.
@@ -419,17 +488,22 @@ title = "१६ श्राद्धम्"
 **टीका**  
 **कर्षः** कृषिः । **राद्धिः**, सिद्धिः ॥ १३ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/07/16/15_aShTame_puShTiH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अष्टमे पुष्टिः १५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/07/16/15_aShTame_puShTiH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 15. (If he performs it) on the eighth day (its reward is) prosperity
@@ -443,17 +517,22 @@ title = "१६ श्राद्धम्"
 **टीका**  
 स्पष्टम् ॥ १४॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/07/16/16_navama_ekakhurAH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 नवम एक-खुराः +++(अश्वादयः)+++ १६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/07/16/16_navama_ekakhurAH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 16. (If he performs it) on the ninth day (its reward consists in) one-hoofed animals.
@@ -467,17 +546,22 @@ title = "१६ श्राद्धम्"
 **टीका**  
 अश्वादयः ॥ १५ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/07/16/17_dashame_vyavahAre_rAddhiH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 दशमे व्यवहारे राद्धिः+++(=सिद्धिः)+++ १७
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/07/16/17_dashame_vyavahAre_rAddhiH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 17. (If he performs it) on the tenth day (its reward is) success in trade.
@@ -491,17 +575,22 @@ title = "१६ श्राद्धम्"
 **टीका**  
 व्यवहारो वाणिज्यम्, शास्त्रपरिज्ञानं वा ॥ १६ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/07/16/18_ekAdashe_kRShNAyasan_trapusIsam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 एकादशे कृष्णायसं त्रपु-सीसम् १८
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/07/16/18_ekAdashe_kRShNAyasan_trapusIsam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 18. (If he performs it) on the eleventh day (its reward is) black iron, tin, and lead.
@@ -515,17 +604,22 @@ title = "१६ श्राद्धम्"
 **टीका**  
 कृष्णमयः कृष्णायसम् । त्रपुसीसे लोहविशेषौ ॥ १७ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/07/16/19_dvAdashe_pashumAn.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 द्वादशे पशु-मान् १९
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/07/16/19_dvAdashe_pashumAn.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 19. (If he performs a funeral-oblation) on the twelfth day, he will become rich in cattle.
@@ -539,17 +633,22 @@ title = "१६ श्राद्धम्"
 **टीका**  
 द्वादश्यां बहवः पशवो भवन्ति ॥ १८ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/07/16/20_trayodashe_bahuputro_bahumitro.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 त्रयोदशे बहु-पुत्रो बहु-मित्रो दर्शनीयापत्यः । युव-मारिणस् तु भवन्ति २०
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/07/16/20_trayodashe_bahuputro_bahumitro.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 20. (If he performs it) on the thirteenth day, he will have many sons (and) many friends, (and) his offspring will be beautiful. But his (sons) will die young. [^8] 
@@ -567,17 +666,22 @@ title = "१६ श्राद्धम्"
 
 [^२]: 'अयुवमारिण' इत्यन्ये इत्यधिकं ख.ड. पु. ।
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/07/16/21_chaturdasha_Ayudhe_rAddhiH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 चतुर्दश आयुधे राद्धिः+++(=सिद्धिः)+++ २१
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/07/16/21_chaturdasha_Ayudhe_rAddhiH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 21. (If he performs it) on the fourteenth day (its reward is) success in battle. [^9] 
@@ -593,17 +697,22 @@ title = "१६ श्राद्धम्"
 **टीका**  
 संग्रामे जयः ॥२०॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/07/16/22_panchadashe_puShTiH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 पञ्चदशे पुष्टिः २२
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/07/16/22_panchadashe_puShTiH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 22. (If he performs it) on the fifteenth day (its reward is) prosperity.
@@ -617,17 +726,22 @@ title = "१६ श्राद्धम्"
 **टीका**  
 स्पष्टम् ॥ २१ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/07/16/23_tatra_dravyANi_tilamAShA.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तत्र द्रव्याणि तिल-माषा व्रीहि-यवा आपो मूल-फलानि २३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/07/16/23_tatra_dravyANi_tilamAShA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 23. The substances (to be offered) at these (sacrifices) are sesamum, māṣa, rice, yava, water, roots, and fruits. [^10] 
@@ -643,17 +757,22 @@ title = "१६ श्राद्धम्"
 **टीका**  
 तत्र श्राद्धे तिलादीनि द्रव्याणि यथायथमवश्यमुपयोज्यानि ॥ २२ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/07/16/24_snehavati_tvevAnne_tIvratarA.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 स्नेहवति त्व् एवान्ने तीव्रतरा पितॄणां प्रीतिर्द्राघीयांसं च कालम् २४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/07/16/24_snehavati_tvevAnne_tIvratarA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 24. But, if food mixed with fat (is offered), the satisfaction of the Manes is greater, and (lasts) a longer time,
@@ -667,17 +786,22 @@ title = "१६ श्राद्धम्"
 **टीका**  
 यद्वा तद्वा अन्नं भवतु स्नेहवति तु तस्मिन्नाज्यादिभिरुपसिक्ते पितॄणां तीव्रतरा प्रकृष्टतरा प्रीतिर्भवति । सा च द्राघीयांसं च कालमनुवर्तते ॥२३॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/07/16/25_tathA_dharmAhRtena_dravyeNa.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तथा धर्माहृतेन द्रव्येण तीर्थे +++(=सत्पात्रे)+++ प्रतिपन्नेन २५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/07/16/25_tathA_dharmAhRtena_dravyeNa.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 25. Likewise, if money, lawfully acquired, is given to worthy (persons).
@@ -691,17 +815,22 @@ title = "१६ श्राद्धम्"
 **टीका**  
 धर्मार्जितं यद्द्रव्यं पात्रे च प्रतिपादितं तेनाऽपि तथा तीव्रतरा पितॄणां प्रीतिर्द्राघीयांसं च कालमिति ॥ २४ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/07/16/26_saMvatsara~N_gavyena_prItiH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 संवत्सरं गव्येन +++(मांसेन)+++ प्रीतिः २६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/07/16/26_saMvatsara~N_gavyena_prItiH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 26. Beef satisfies (the Manes) for a year, [^11] 
@@ -718,17 +847,22 @@ title = "१६ श्राद्धम्"
 उत्तरत्र मांसग्रहणाद् इहापि मांसस्य ग्रहणम् ।  
 गव्येन मांसेन संवत्सरं पितॄणां प्रीतिर्भवति ॥ २५ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/07/16/27_bhUyAMsamato_mAhiSheNa.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 भूयांसम् अतो माहिषेण २७
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/07/16/27_bhUyAMsamato_mAhiSheNa.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 27. Buffalo's (meat) for a longer (time) than that.
@@ -742,17 +876,22 @@ title = "१६ श्राद्धम्"
 **टीका**  
 माहिषेण मांसेन, अतः सम्वत्सरात् भूयांसं बहुतरं कालं पितॄणां प्रीतिर्भवति ॥ २६ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/07/16/28_etena_grAmyAraNyAnAm_pashUnAm.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 एतेन +++(माहिष-शब्देन)+++ ग्राम्यारण्यानां पशूनां मांसं +++(श्राद्धे)+++ मेध्यं व्याख्यातम् २८
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/07/16/28_etena_grAmyAraNyAnAm_pashUnAm.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 28. By this (permission of the use of buffalo's meat) it has been declared that the meat of (other) tame and wild animals is fit to be offered.
@@ -769,6 +908,7 @@ title = "१६ श्राद्धम्"
 पितॄणां प्रीतिकरमिति । **मेध्य**-ग्रहणं प्रतिषिद्धानां मा भूदिति ॥ २७ ॥  
 
 इत्यापस्तम्बधर्मसुत्रवृत्तौ द्वितीयप्रश्ने षोडशी कण्डिका ॥ १६ ॥
+</details>
 </details>
 
 </div>

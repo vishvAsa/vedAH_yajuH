@@ -4,12 +4,16 @@ title = "१६ अभोज्यादि"
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/16/01_tiShThannaAchAmetprahvo_vA.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तिष्ठन्न+आचामेत्प्रह्वो वा १
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/05/16/01_tiShThannaAchAmetprahvo_vA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 1. He shall not drink water standing or bent forwards. [^1] 
@@ -32,17 +36,22 @@ title = "१६ अभोज्यादि"
 
     गौ० ९. १० गौतमोऽपि न तिष्ठन्नुद्धृतोदकेनाचामेत् इति सूत्रभेदादुद्धृतोदकेनैव तिष्ठतः प्रतिषेधमाह” इति क. पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/16/02_AsInastrirAchAmeddhRdayangamAbhiradbhiH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 आसीनस्त्रिराचामेद्धृदयङ्गमाभिरद्भिः २
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/05/16/02_AsInastrirAchAmeddhRdayangamAbhiradbhiH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 2. Sitting he shall sip water (for purification) thrice, the water penetrating to his heart. [^2] 
@@ -64,17 +73,22 @@ title = "१६ अभोज्यादि"
 
 [^६]: आपः इति. ख. ग. पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/16/03_triroShThau_parimRjet.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 त्रिरोष्ठौ परिमृजेत् ३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/05/16/03_triroShThau_parimRjet.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 3. He shall wipe his lips three times.
@@ -92,17 +106,22 @@ title = "१६ अभोज्यादि"
 
     इदमग्रिमं च सूत्रमेकीकृतं. ग. पुस्तके,
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/16/04_dvirityeke.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 द्विरित्येके ४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/05/16/04_dvirityeke.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 4. Some (declare, that he shall do so) twice.
@@ -116,17 +135,22 @@ title = "१६ अभोज्यादि"
 **टीका**  
 तुल्यविकल्पः ॥ ४ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/16/05_sakRdupaspRshet.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 सकृदुपस्पृशेत् ५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/05/16/05_sakRdupaspRshet.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 5. He shall then touch (his lips) once (with the three middle fingers).
@@ -140,17 +164,22 @@ title = "१६ अभोज्यादि"
 **टीका**  
 मध्यमाभिस्तिसृभिरङ्गुलीभिरोष्ठौ ॥ ५ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/16/06_dvirityeke.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 द्विरित्येके ६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/05/16/06_dvirityeke.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 6. Some (declare, that he shall do so) twice.
@@ -164,17 +193,22 @@ title = "१६ अभोज्यादि"
 **टीका**  
 तुल्यविकल्पः ॥६॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/16/07_daxiNena_pANinA_savyam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 दक्षिणेन पाणिना सव्यं प्रोक्ष्य, पादौ शिरश्चेन्द्रियाण्युपस्पृशेच् चक्षुषी नासिके श्रोत्रे च ७
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/05/16/07_daxiNena_pANinA_savyam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 7. Having sprinkled water on his left hand with his right, he shall touch both his feet, and his head and (the following three) organs, the eyes, the nose, and the ears. [^3] 
@@ -194,17 +228,22 @@ title = "१६ अभोज्यादि"
 
     अत्र सहभावस्याशक्यत्वात् पृथगपिक्रियते । अत्र पृथक्भावस्य निश्चितत्वात् पूर्वत्रापि पृथगेवेति युक्तम् इति ख, च. पु. । युक्तमित्यन्ये इति. क पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/16/08_athApa_upaspRshet.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अथाप उपस्पृशेत् ८
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/05/16/08_athApa_upaspRshet.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 8. Then he shall wash (his hands).
@@ -218,17 +257,22 @@ title = "१६ अभोज्यादि"
 **टीका**  
 इन्द्रियस्पर्शनान तरं हस्तौ प्रक्षालयेत् ॥ ८॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/16/09_bhoxyamANastu_prayato-pi_dvirAchAmeddviH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 भोक्ष्यमाणस्तु प्रयतोऽपि द्विराचामेद्द्विः परिमृजेत्सकृदुपस्पृशेत् ९
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/05/16/09_bhoxyamANastu_prayato-pi_dvirAchAmeddviH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 9. But if he is going to eat he shall, though pure, twice sip water, twice wipe (his mouth), and once touch (his lips). [^4] 
@@ -247,17 +291,22 @@ title = "१६ अभोज्यादि"
 'भुक्त्वा क्षुत्त्वा च सुप्त्वा च ष्ठीवित्वोक्त्वाऽनृतं वचः।  
 आचान्तः पुनराचामेद्वासो विपरिधाय च ॥ ९ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/16/10_shyAvAntaparyantAv_oShThAv_upaspRshyAchAmet.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 श्यावान्तपर्यन्ताव् ओष्ठाव् उपस्पृश्याचामेत् १०
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/05/16/10_shyAvAntaparyantAv_oShThAv_upaspRshyAchAmet.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 10. He shall rub the gums and the inner part of his lips (with his finger or with a piece of wood) and then sip water.
@@ -275,17 +324,22 @@ title = "१६ अभोज्यादि"
 
     अङ्गुल्याऽऽत्मकनिष्ठादिना वेति क. पुस्तकेऽपपाठः ।
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/16/11_na_shmashrubhir_uchChiShTo.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 - न श्मश्रुभिर् उच्छिष्टो भवत्य् अन्तरास्ये सद्भिर् यावन् न हस्तेनोपस्पृशति ११
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/05/16/11_na_shmashrubhir_uchChiShTo.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 11. He does not become impure by the hair (of his moustaches) getting into his mouth, as long as he does not touch them with his hand. [^5] 
@@ -307,17 +361,22 @@ title = "१६ अभोज्यादि"
 
     सत् तदुच्छिष्टताया निमित्तमिति क. पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/16/12_ya_AsyAdbindavaH_patanta.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 - य आस्याद्बिन्दवः पतन्त उपलभ्यन्ते तेष्वाचमनं विहितम् १२
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/05/16/12_ya_AsyAdbindavaH_patanta.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 12. If (in talking), drops (of saliva) are perceived to fall from his mouth, then he shall sip water. [^6] 
@@ -337,17 +396,22 @@ title = "१६ अभोज्यादि"
 
     नास्ति वचनमिदं मुद्रितगौतमधर्मकोशेषु मदीये लिखितपुस्तके च ।
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/16/13_ye_bhUmau_na.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 ये भूमौ न तेष्वाचामेदित्येके १३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/05/16/13_ye_bhUmau_na.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 13. Some declare, that if (the saliva falls) on the ground, he need not sip water.
@@ -361,17 +425,22 @@ title = "१६ अभोज्यादि"
 **टीका**  
 ये बिन्दवो भूमौ पतन्ति, न शरीरे, तेषु नाचामेदित्येके मन्यन्ते । स्वमते तु तेष्वप्याचामेदिति ॥ १३ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/16/14_svapne_xavathau_shRnkhANikA-.ashrvAlambhe.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 - स्वप्ने क्षवथौ शृङ्खाणिका+++(=नासामलम्)+++-ऽऽश्र्व्-आलम्भे, लोहितस्य केशानाम्, अग्नेर्, गवां, ब्राह्मणस्य, स्त्रियाश् चालम्भे, महापथं च गत्वा ऽमेध्यं चोपस्पृश्याप्रयतं च मनुष्यं, नीवीं च परिधाय +अप उपस्पृशेत् १४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/05/16/14_svapne_xavathau_shRnkhANikA-.ashrvAlambhe.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 14. On touching during sleep or in sternutation the effluvia of the nose or of the eyes, on touching blood, hair, fire, kine, a Brāhmaṇa, or a woman, and after having walked on the high road, and after having touched an (thing or man), and after having put on his lower garment, he shall either bathe or sip or merely touch water (until he considers himself clean). [^7] 
@@ -393,17 +462,22 @@ title = "१६ अभोज्यादि"
 
 [^५]: स्वापन इति ख. पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/16/15_ArdraM_vA_shakRd.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 आर्द्रं वा शकृद् ओषधीर् भूमिं वा १५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/05/16/15_ArdraM_vA_shakRd.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 15. (Or he may touch) moist cowdung, wet herbs, or moist earth.
@@ -425,17 +499,22 @@ title = "१६ अभोज्यादि"
 
     'सर्वेषु' इति ख. च.पु । स्वल्पेषु इति ग. पु.।
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/16/16_hiMsArthenAsinA_mAMsa~n_Chinnamabhojyam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 हिंसार्थेनासिना मांसं छिन्नमभोज्यम् १६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/05/16/16_hiMsArthenAsinA_mAMsa~n_Chinnamabhojyam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 16. He shall not eat meat which has been cut with a sword (or knife) used for killing.
@@ -454,17 +533,22 @@ title = "१६ अभोज्यादि"
 
 [^३]: 'सानिमित्त'मिति ख. पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/16/17_dadbhirapUpasya_nApachChindyAt.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 दद्भिरपूपस्य नापच्छिन्द्यात् १७
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/05/16/17_dadbhirapUpasya_nApachChindyAt.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 17. He shall not bite off with his teeth (pieces from) cakes (roots or fruits).
@@ -478,17 +562,22 @@ title = "१६ अभोज्यादि"
 **टीका**  
 अपग्रहणं मूलफलादेरप्युपलक्षणम् । द्वितीयार्थे षष्ठी। दन्तैरपूपं नापच्छिन्द्यात् । किंतु हस्तादिभिरपच्छिद्य भक्षयेत् ॥ १७॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/16/18_yasya_kule_mriyeta.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 यस्य कुले म्रियेत न तत्रानिर्दशे भोक्तव्यम् १८
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/05/16/18_yasya_kule_mriyeta.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 18. He shall not eat in the house of a (relation within six degrees) where a person has died, before the ten days (of impurity) have elapsed. [^8] 
@@ -508,17 +597,22 @@ title = "१६ अभोज्यादि"
 
     'तत्रातीते दशाह भोक्तव्यम्' इति । पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/16/19_tathAnutthitAyAM_sUtikAyAm.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तथानुत्थितायां सूतिकायाम् १९
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/05/16/19_tathAnutthitAyAM_sUtikAyAm.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 19. (Nor shall he eat in a house) where a lying-in woman has not (yet) come out (of the lying-in chamber), [^9] 
@@ -539,17 +633,22 @@ title = "१६ अभोज्यादि"
 
 [^५]: आप० गृ० १५.८.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/16/20_antaHshave_cha.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अन्तःशवे च २०
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/05/16/20_antaHshave_cha.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 20. (Nor in a house) where a corpse lies. [^10] 
@@ -571,10 +670,13 @@ title = "१६ अभोज्यादि"
 
     समानवंशत्वं गृहाणा इति ख, पु.। समानं वंशगृहं न भवति इति क. पुस्तकेऽपपाठः।
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/16/21_aprayatopahatamannamaprayatan_na_tvabhojyam.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
 
 अप्रयतोपहतम् अन्नम् अप्रयतं, न त्व् अभोज्यम् २१
 
@@ -588,11 +690,13 @@ title = "१६ अभोज्यादि"
 प्रयतं भवति  
 भोज्यं च ।
 </details>
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/05/16/21_aprayatopahatamannamaprayatan_na_tvabhojyam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 21. Food touched by a (Brāhmaṇa or other high-caste person) who is impure, becomes impure, but not unfit for eating. [^11] 
@@ -619,17 +723,22 @@ title = "१६ अभोज्यादि"
 
 अभोज्यं तु लशुनादि न कथञ्चिद् अपीति ॥ २१॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/16/22_aprayatena_tu_shUdreNopahRtamabhojyam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अप्रयतेन तु शूद्रेणोपहृतम् अभोज्यम् २२
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/05/16/22_aprayatena_tu_shUdreNopahRtamabhojyam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 22. But what has been brought (be it touched or not) by an impure Śūdra, must not be eaten, [^12] 
@@ -646,17 +755,22 @@ title = "१६ अभोज्यादि"
 **अप्रयतेन तु शूदेणोपहृतम्** आनीतम् अन्नं **न भोज्यम्** - स्पृष्टम् अस्पृष्टं च ।  
 स्पृष्टम् एवेत्यन्ये ॥ २२ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/16/23_yasmiMshchAnne_keshaH_syAt.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 यस्मिंश् चान्ने केशः स्यात् +++(पाकावस्थायां सति भिन्ना वार्ता)+++ २३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/05/16/23_yasmiMshchAnne_keshaH_syAt.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 23. Nor that food in which there is a hair, [^13] 
@@ -676,17 +790,22 @@ title = "१६ अभोज्यादि"
 
     भोजनकाले तु केशपाते घृतप्रक्षेपादिना तु संस्कृतं भोज्यम् । इति. घ. पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/16/24_anyadvAmedhyam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अन्यद् वामेध्यम् २४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/05/16/24_anyadvAmedhyam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 24. Or any other unclean substance. [^14] 
@@ -708,17 +827,22 @@ title = "१६ अभोज्यादि"
 
     वा० ध० १४. २३ उपभुञ्जीत इति ग. पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/16/25_amedhyairavamRShTam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अमेध्यैर् अवमृष्टम् २५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/05/16/25_amedhyairavamRShTam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 25. (Nor must that food be eaten) which has been touched with an unclean substance (such as garlic),
@@ -732,17 +856,22 @@ title = "१६ अभोज्यादि"
 **टीका**  
 अमेध्यैः कलञ्ज-पलाण्ड्वादिभिर् अवमृष्टं स्पृष्टम् अभोज्यम् ॥ २५ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/16/26_kITo_vAmedhyasevI.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 कीटो वामेध्य-सेवी २६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/05/16/26_kITo_vAmedhyasevI.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 26. Nor (that in which) an insect living on impure substances (is found), [^15] 
@@ -758,17 +887,22 @@ title = "१६ अभोज्यादि"
 **टीका**  
 'यस्मिश्चान्ने केशः स्यादि'ति व्यवहितम् अविसम्बध्यते । अमेध्यसेवी कीटः पूत्यण्डाख्यः ॥ २६ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/16/27_mUShakalAngaM_vA.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 मूषकलाङ्गं वा २७
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/05/16/27_mUShakalAngaM_vA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 27. Nor (that in which) excrements or limbs of a mouse (are found),
@@ -782,17 +916,22 @@ title = "१६ अभोज्यादि"
 **टीका**  
 पूर्ववत्सम्बन्धः । **मूषिकला** मूषिकपूरीषम् । **अङ्गं** वा । समस्तमपि मूषिकग्रहणं सम्बध्यते । यस्मिन्नन्ने मूषिकस्याङ्गं पुच्छपादादि भवति तदप्यभोज्यम् ॥ २७॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/16/28_padA_vopahatam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 पदा वोपहतम् २८
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/05/16/28_padA_vopahatam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 28. Nor that which has been touched by the foot (even of a pure person),
@@ -806,17 +945,22 @@ title = "१६ अभोज्यादि"
 **टीका**  
 प्रयतेनाऽपि पदा यस्पृष्टं तदप्यभोज्यम् ॥ २८ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/16/29_sichA_vA.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 सिचा +++(वस्त्राञ्चलेन)+++ वा २९
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/05/16/29_sichA_vA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 29. Nor what has been (touched) with the hem of a garment,
@@ -830,17 +974,22 @@ title = "१६ अभोज्यादि"
 **टीका**  
 सिक् वस्त्रदशा । परिहितस्य वाससः सिचा यत् स्पृष्टं तदप्यभोज्यम् ॥ २९ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/16/30_shunA_vApapAtreNa_vA.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 शुना वापपात्रेण वा दृष्टम् ३०
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/05/16/30_shunA_vApapAtreNa_vA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 30. Nor that which has been looked at by a dog or an Apapātra, [^16] 
@@ -856,17 +1005,22 @@ title = "१६ अभोज्यादि"
 **टीका**  
 दृष्टमिति प्रत्येकमभिसम्बध्यते । शुना वा दृष्टमपपात्रेण वा दृष्टं यत्तदप्यभोज्यम् । पतितसूतिकाचण्डालोदक्यादयोऽपपात्राः, अपगता पात्रेभ्यः । न हि ते पात्रे भोक्तुं लभन्ते ॥ ३०॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/16/31_sichA_vopahRtam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 सिचा वोपहृतम् ३१
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/05/16/31_sichA_vopahRtam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 31. Nor what has been brought in the hem of a garment, (even though the garment may be clean),
@@ -880,17 +1034,22 @@ title = "१६ अभोज्यादि"
 **टीका**  
 अपरिहितस्य शुद्धस्यापि वाससस्सिचा यद् उपहृतमानीतं तदप्यभोज्यम् ॥ ३१ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/16/32_dAsyA_vA_naktamAhRtam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 दास्या वा नक्तमाहृतम् ३२
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/05/16/32_dAsyA_vA_naktamAhRtam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 32. Nor what has been brought at night by a female slave. [^17] 
@@ -906,17 +1065,22 @@ title = "१६ अभोज्यादि"
 **टीका**  
 दास्या रात्राव् आहृतम् अभोज्यम् । स्त्रीलिङ्गनिर्देशात् दासेनाऽऽहृते न दोषः। अन्ये लिङ्गमविवक्षितं मन्यन्ते । 'नक्त'मिति वचनाद् दिवा न दोषः ॥ ३२ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/05/16/33_bhunjAnaM_vA.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 भुञ्जानं वा ३३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/05/16/33_bhunjAnaM_vA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 33. If during his meal,
@@ -930,6 +1094,7 @@ title = "१६ अभोज्यादि"
 **टीका**  
 
 ॥ इत्यापस्तम्बधर्मसूत्रवृत्तौ षोडशी कण्डिका ॥
+</details>
 </details>
 
 </div>

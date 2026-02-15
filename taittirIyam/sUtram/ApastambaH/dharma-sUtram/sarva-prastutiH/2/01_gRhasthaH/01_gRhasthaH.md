@@ -4,12 +4,16 @@ title = "०१ गृहस्थः"
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/01_pANigrahaNAdadhi_gRhamedhinorvratam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 पाणिग्रहणादधि गृहमेधिनोर्व्रतम् १
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/01/01/01_pANigrahaNAdadhi_gRhamedhinorvratam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 1. After marriage the rites prescribed for a householder and his wife (must be performed). [^1] 
@@ -33,17 +37,22 @@ title = "०१ गृहस्थः"
 
 [^४]: अनेकभार्यस्य एकस्यामपि सत्यां भवत्येव । अनेकाश्रितस्याऽधिकारस्य विद्यमानत्वाच्छास्त्रान्तरत्वाच्च । इत्यधिकं क. पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/02_kAlayorbhojanam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 कालयोर्भोजनम् २
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/01/01/02_kAlayorbhojanam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 2. He shall eat at the two (appointed) times, (morning and evening) [^2] 
@@ -75,17 +84,22 @@ title = "०१ गृहस्थः"
 
 [^२]: अयं भागो घ. पुस्तके नास्ति ।
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/03_atRptishchAnnasya.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अतृप्तिश्चान्नस्य ३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/01/01/03_atRptishchAnnasya.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 3. And he shall not eat to repletion.
@@ -101,17 +115,22 @@ title = "०१ गृहस्थः"
 
 [^३]: पा० सू० २. २. ११
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/04_parvasu_chobhayor_upavAsaH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 पर्वसु चोभयोर् उपवासः ४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/01/01/04_parvasu_chobhayor_upavAsaH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 4. And both (the householder and his wife) shall fast on (the days of) the new, and full moon,
@@ -125,17 +144,22 @@ title = "०१ गृहस्थः"
 **टीका**  
 पक्षसन्धिः पर्व । इह तु तद्युक्तमहर्गृह्यते । तेषु पर्वसूभयोर्दम्पत्योरुपवासः कर्तव्यः । उपवासो भोजनलोपः ॥ ४॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/05_aupavastam_eva_kAlAntare.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 औपवस्तम् एव कालान्तरे भोजनम् ५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/01/01/05_aupavastam_eva_kAlAntare.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 5. To eat once (on those days in the morning) that also is called fasting. [^3] 
@@ -162,17 +186,22 @@ title = "०१ गृहस्थः"
 
 [^७]: आप० गृ० ७. १७.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/06_tRptish_chAnnasya.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तृप्तिश् चान्नस्य ६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/01/01/06_tRptish_chAnnasya.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 6. And they may eat (at that meal) until they are quite satisfied.
@@ -186,17 +215,22 @@ title = "०१ गृहस्थः"
 **टीका**  
 पर्वसु सकृद्भुञ्जानौ यावत्तृप्ति भुजीयाताम् ॥ ६ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/07_yachchainayoH_priyaM_syAt.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 यच्चैनयोः प्रियं स्यात् तद् एतस्मिन्न् अहनि भुञ्जीयाताम् ७
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/01/01/07_yachchainayoH_priyaM_syAt.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 7. And on (the anniversary of) that (wedding)-day they may eat that food of which they are fond. [^4] 
@@ -216,17 +250,22 @@ title = "०१ गृहस्थः"
 
 [^२]: यथा इत्यादिग्रन्थः घ. ड. पुस्तकयोर्नास्ति ।
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/08_adhashcha_shayIyAtAm.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अधश्च शयीयाताम् ८
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/01/01/08_adhashcha_shayIyAtAm.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 8. And (on the night of that day) they shall sleep on the ground (on a raised heap of earth). [^5] 
@@ -242,17 +281,22 @@ title = "०१ गृहस्थः"
 **टीका**  
 एतस्मिन्नहनि स्थण्डिलशायिनौ स्याताम् ॥ ८॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/09_maithunavarjana~n_cha.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 मैथुनवर्जनं च ९
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/01/01/09_maithunavarjana~n_cha.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 9. And they shall avoid connubial intercourse.
@@ -268,17 +312,22 @@ title = "०१ गृहस्थः"
 
 [^३]: 'एतस्मिन्नहनि तन्न कर्तव्यम्' इति छ. पु
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/10_shvobhUte_sthAlIpAkaH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 श्वोभूते स्थालीपाकः १०
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/01/01/10_shvobhUte_sthAlIpAkaH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 10. And on the day after (that day) a Sthālīpāka must be offered. [^6] 
@@ -294,17 +343,22 @@ title = "०१ गृहस्थः"
 **टीका**  
 स्थालीपाकश्च कर्तव्योऽपरेद्युः ॥ १० ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/11_tasyopachAraH_pArvaNena_vyAkhyAtaH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तस्योपचारः पार्वणेन व्याख्यातः ११
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/01/01/11_tasyopachAraH_pArvaNena_vyAkhyAtaH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 11. The manner in which that offering must be [^7]  performed has been declared by (the description of the Sthālīpāka) to be performed on the days of the new and full moon (the Pārvaṇa).
@@ -324,17 +378,22 @@ title = "०१ गृहस्थः"
 
 [^५]: सूत्रस्वारस्यं तु पर्वविषयत्व एव पश्यामः ।
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/12_nityaM_loka_upadishanti.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 नित्यं लोक उपदिशन्ति १२
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/01/01/12_nityaM_loka_upadishanti.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 12. And they declare (that this rite which is known) amongst the people (must be performed) every (year). [^8] 
@@ -351,17 +410,22 @@ title = "०१ गृहस्थः"
 लोके शिष्टाचारसिद्धमेतत्कर्म नित्यं प्रतिसंवत्सरं कर्तव्यमिति शिष्टा उपदिशन्ति ।
 अपर आह- वक्ष्यमाणं कर्म शिष्टाचारसिद्धं नित्यं सार्वत्रिकं इति शिष्टा उपदिशन्ति ॥ १२ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/13_yatra_kva_chAgnimupasamAdhAsyansyAttatra.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 यत्र क्व चाग्निमुपसमाधास्यन्स्यात्तत्र प्राचीरुदीचीश्च तिस्रस्तिस्रो लेखा लिखित्वाद्भिरवोक्ष्याग्निमुपसमिन्ध्यात् १३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/01/01/13_yatra_kva_chAgnimupasamAdhAsyansyAttatra.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 13. At every (burnt-offering), when he wishes to place the fire on the altar (called Sthaṇḍila), let him draw on that (altar) three lines from west to east and three lines from south to north, and sprinkle (the altar) with water, turning the palm of the hand downwards, and let him then make the fire burn brightly by adding (fuel). [^9] 
@@ -389,17 +453,22 @@ title = "०१ गृहस्थः"
 
 [^४]: अन्ये तु प्राचीर्दक्षिणारम्भमालिखन्ति इति च.पु.।
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/14_utsichyaitadudakamuttareNa_pUrveNa_vAnyadupadadhyAt.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 +++(शिष्टम् उदकम्)+++ उत्सिच्यैतदुदकमुत्तरेण पूर्वेण वान्यदुपदध्यात् १४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/01/01/14_utsichyaitadudakamuttareNa_pUrveNa_vAnyadupadadhyAt.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 14. He shall pour out (the remainder of) this water used for sprinkling, to the north or to the east (of the altar), and take other (water into the vessel).
@@ -413,17 +482,22 @@ title = "०१ गृहस्थः"
 **टीका**  
 एतदवोक्षणशेषोदकमग्नेरुत्तरतः पूर्वतो वा उत्सिञ्चेत् । उसिच्याऽन्यदुदकं पात्रस्थमुपदध्यात्तत्रैव ॥ १४ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/15_nityamudadhAnAnyadbhirariktAni_syurgRhamedhinorvratam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 नित्यमुदधानान्यद्भिररिक्तानि स्युर्गृहमेधिनोर्व्रतम् १५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/01/01/15_nityamudadhAnAnyadbhirariktAni_syurgRhamedhinorvratam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 15. The water-vessels in the house shall never be empty; that is the duty to be observed by the householder and his wife. [^10] 
@@ -440,17 +514,22 @@ title = "०१ गृहस्थः"
 गृहे यावन्त्युदधानान्युदपात्राणि घटकरकादीनि तानि सदाऽद्भिररिक्तानि स्युः । एतदपि गृहमेधिनोर्व्रतम् । पुनः 'गृहमेधिनोरिति वचनमस्मिन् कर्मणि स्वयं कर्तृत्वमेव यथा स्यात् प्रयोजककर्तृत्वं मा भूदिति।  
 अन्य आह— पुन'र्गृहमेधिनो'रिति वचनात् पूर्वसूत्रं ब्रह्मचारिविषयेऽपि 'सावित्र्या समित्सहरमाध्या' (१.२६.१.)दित्यादौ भवति । पाके तु स्त्रिया न भवति । 'उपसमाधास्य'न्निति लिङ्गस्य विवक्षितत्वात् । आर्याः प्रयता' (२.३.१.) इत्यादौ भवतीति ॥१५॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/16_ahanyasaMveshanam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अहन्यसंवेशनम् १६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/01/01/16_ahanyasaMveshanam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 16. Let him not have connubial intercourse (with his wife) in the day-time.
@@ -464,17 +543,22 @@ title = "०१ गृहस्थः"
 **टीका**  
 संवेशन मैथुनं तदहनि न कर्तव्यम् ॥ १६ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/17_Rtau_cha_sannipAto.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 ऋतौ च संनिपातो दारेणानुव्रतम् १७
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/01/01/17_Rtau_cha_sannipAto.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 17. But let him have connection with his wife at the proper time, according to the rules (of the law). [^11] 
@@ -516,17 +600,22 @@ title = "०१ गृहस्थः"
 
 [^६]: बौ०ध० ४.१०.२०.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/18_antarAle-pi_dAra_eva.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अन्तरालेऽपि दार एव १८
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/01/01/18_antarAle-pi_dAra_eva.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 18. Let him have connubial intercourse in the interval also, if his wife (desires it, observing the restrictions imposed by the law). [^12] 
@@ -544,17 +633,22 @@ title = "०१ गृहस्थः"
 
 [^१]: बौ०ध० २. २. ३६. द्रष्टव्यम् ।
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/19_brAhmaNavachanAchcha_saMveshanam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 ब्राह्मणवचनाच्च संवेशनम् १९
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/01/01/19_brAhmaNavachanAchcha_saMveshanam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 19. (The duty of) connubial intercourse (follows from) the passage of a Brāhmaṇa, ('Let us dwell together until a son be born.') [^13] 
@@ -574,17 +668,22 @@ title = "०१ गृहस्थः"
 
     तै०सं० २. ५. १. यावत्प्रसूति सभोगं प्राप्नुयामेत्यर्थः । अयं स्त्रीभिरिन्द्रात् प्रार्थितो वर ।
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/20_strIvAsasaiva_sannipAtaH_syAt.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 स्त्रीवाससैव संनिपातः स्यात् २०
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/01/01/20_strIvAsasaiva_sannipAtaH_syAt.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 20. But during intercourse he shall be dressed in a particular dress kept for this purpose.
@@ -598,17 +697,22 @@ title = "०१ गृहस्थः"
 **टीका**  
 एवकारो भिन्नक्रमः । स्त्र्युपभोगार्थं वासः स्त्रीवासः । तेन सन्निपात एव स्यात् । न तेन सुप्रक्षालितेनाऽपि ब्रह्मयज्ञादि कर्तव्यमिति यावत् ॥२०॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/21_yAvatsannipAta~n_chaiva_sahashayyA.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 यावत्संनिपातं चैव सहशय्या २१
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/01/01/21_yAvatsannipAta~n_chaiva_sahashayyA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 21. And during intercourse only they shall lie together,
@@ -622,17 +726,22 @@ title = "०१ गृहस्थः"
 **टीका**  
 यावत्सन्निपातमेव दम्पत्योस्सह शयनम् ॥ २१ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/22_tato_nAnA.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 ततो नाना २२
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/01/01/22_tato_nAnA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 22. Afterwards separate.
@@ -646,17 +755,22 @@ title = "०१ गृहस्थः"
 **टीका**  
 ततः पृथक्शयीयाताम् ॥ २२ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/01/23_udakopasparshanam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 उदकोपस्पर्शनम् २३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/01/01/23_udakopasparshanam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 23. Then they both shall bathe;
@@ -672,6 +786,7 @@ title = "०१ गृहस्थः"
 
 इत्यापस्तम्बधर्मसूत्रवृत्तावुज्वलायां श्रीहरदत्तविरचितायां
 द्वितीयप्रश्ने प्रथमा कण्डिका ॥१॥
+</details>
 </details>
 
 </div>

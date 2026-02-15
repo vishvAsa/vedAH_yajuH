@@ -4,12 +4,16 @@ title = "०६ अतिथिः"
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/06/01_jAtyAchArasaMshaye_dharmArthamAgatamagnimupasamAdhAya_jAtimAchAra~n.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 जात्याचारसंशये धर्मार्थमागतमग्निमुपसमाधाय जातिमाचारं च पृच्छेत् १
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/03/06/01_jAtyAchArasaMshaye_dharmArthamAgatamagnimupasamAdhAya_jAtimAchAra~n.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 1. If he has any doubts regarding the caste and conduct of a person who has come to him in order to fulfil his duty (of learning the Veda), he shall kindle a fire (with the ceremonies prescribed for kindling the sacrificial fire) and ask him about his caste and conduct. [^1] 
@@ -50,17 +54,22 @@ title = "०६ अतिथिः"
 तत्-सन्निधौ जातिम् आचारं च पृच्छेत्-  
 'किंगोत्रोऽसि सौम्य, किमाचारश् चासी'ति ॥१॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/06/02_sAdhutA~n_chetpratijAnIte-gnirupadra_ShTA.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 साधुतां चेत्प्रतिजानीतेऽग्निरुपद्र ष्टा वायुरुपश्रोतादित्योऽनुख्याता साधुतां प्रतिजानीते साध्वस्मा अस्तु वितथ एष एनस इत्युक्त्वा शास्तुं प्रतिपद्येत २
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/03/06/02_sAdhutA~n_chetpratijAnIte-gnirupadra_ShTA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 2. If he declares himself to be (of) good (family and conduct, the teacher elect) shall say, 
@@ -95,17 +104,22 @@ Then he shall begin to teach him.
 
 [^२]: सर्वे'"गता इति क. च. पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/06/03_agniriva_jvalann_atithirabhyAgachChati.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अग्निरिव ज्वलन्न् अतिथिरभ्यागच्छति ३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/03/06/03_agniriva_jvalann_atithirabhyAgachChati.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 3. A guest comes to the house resembling a burning fire. [^2] 
@@ -124,17 +138,22 @@ Then he shall begin to teach him.
 **टीका**  
 अतिथिर्गृहानभ्यागच्छन्नग्निरिव ज्वन्नभ्यागच्छति। तस्मादसौ भोजनादिभिरवश्यं तर्पयितव्यः । निराशस्तु गतो गृहान् दहेदिति ॥ ३॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/06/04_dharmeNa_vedAnAmekaikAM_shAkhAmadhItya.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 धर्मेण वेदानामेकैकां शाखामधीत्य श्रोत्रियो भवति ४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/03/06/04_dharmeNa_vedAnAmekaikAM_shAkhAmadhItya.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 4. He is called a Śrotriya who, observing the law (of studentship), has learned one recension of the Veda (which may be current in his family). [^3] 
@@ -153,17 +172,22 @@ Then he shall begin to teach him.
 **टीका**  
 विद्यार्थस्य यो नियमः स धर्मः । तेन वेदानां यां काञ्चन शाखामधीत्य श्रोत्रियो भवति। पुरुषस्य हि प्रतिवेदमकैका शाखा भवति। या पूर्वैः परिगृहीताध्ययनानुष्ठानाभ्यां सा प्रतिवेदं स्वशाखा । तामधीत्य श्रोत्रियो भवति, न तु प्रतिवेदमैकेकामधीत्य श्रोत्रियो भवतीति। लोकविरोधात् । लोके हि यां कांचनैकां शाखामधीयानः श्रोत्रिय इति प्रसिद्धः।
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/06/05_svadharmayukta~N_kuTumbinamabhyAgachChati_dharmapuraskAro.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 स्वधर्मयुक्तं कुटुम्बिनमभ्यागच्छति धर्मपुरस्कारो नान्यप्रयोजनः सोऽतिथिर्भवति ५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/03/06/05_svadharmayukta~N_kuTumbinamabhyAgachChati_dharmapuraskAro.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 5. He is called a guest (who, being a Śrotriya), approaches solely for the fulfilment of his religious duties, and with no other object, a householder who lives intent on the fulfilment of his duties. [^4] 
@@ -191,17 +215,22 @@ Then he shall begin to teach him.
 
 [^४]: एतदादि ११ सूत्रे निवेशितं छ. पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/06/06_tasya_pUjAyAM_shAntiH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तस्य पूजायां शान्तिः स्वर्गश्च ६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/03/06/06_tasya_pUjAyAM_shAntiH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 6. The reward for honouring (such a guest) is immunity from misfortunes, and heavenly bliss. [^5] 
@@ -217,17 +246,22 @@ Then he shall begin to teach him.
 **टीका**  
 तस्यातिथेः पूजायां कृतायां शान्तिरुपद्रवाणामिह भवति । प्रेत्य च स्वर्गलाभः ॥ ६॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/06/07_tamabhimukho-bhyAgamya_yathAvayaH_sametya.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तमभिमुखोऽभ्यागम्य यथावयः समेत्य तस्यासनमाहारयेत् ७
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/03/06/07_tamabhimukho-bhyAgamya_yathAvayaH_sametya.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 7. He shall go to meet such (a guest), honour him according to his age (by the formulas of salutation prescribed), and cause a seat to be given to him.
@@ -241,17 +275,22 @@ Then he shall begin to teach him.
 **टीका**  
 तमतिथिमभिमुखोऽभ्यागच्छेत् । अभ्यागम्य यथावयः वयसोऽनुरूपं प्रत्युत्थानाभिवादनादिना समेयात सङ्गच्छेत् । समेत्य च तस्यासनमाहारयेत् शिष्यादिभिः । अभावे स्वयमाहरेत् ॥ ७॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/06/08_shaktiviShaye_nAbahupAdamAsanam_bhavatItyeke.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 शक्तिविषये नाबहुपादमासनं भवतीत्येके ८
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/03/06/08_shaktiviShaye_nAbahupAdamAsanam_bhavatItyeke.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 8. Some declare that, if possible, the seat should have many feet. [^6] 
@@ -269,17 +308,22 @@ Then he shall begin to teach him.
 
 [^१]: स्वयं त्वबहुपामप्यनुमन्यते इति च. पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/06/09_tasya_pAdau_praxAlayet.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तस्य पादौ प्रक्षालयेत् । शूद्र मिथुनावित्येके ९
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/03/06/09_tasya_pAdau_praxAlayet.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 9. The (householder himself) shall wash the feet of that (guest); according to some, two Śūdras shall do it.
@@ -293,17 +337,22 @@ Then he shall begin to teach him.
 **टीका**  
 द्वौ शूद्रौ तस्य पादौ प्रक्षालयेतामित्येके मन्यन्ते । दासवत इदम् ॥९॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/06/10_anyataro-bhiShechane_syAt.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अन्यतरोऽभिषेचने स्यात् १०
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/03/06/10_anyataro-bhiShechane_syAt.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 10. One of them shall be employed in pouring water (over the guest, the other in washing his feet).
@@ -320,17 +369,22 @@ Then he shall begin to teach him.
 **टीका**  
 अभिषेचनं करकादिना जलावसेकः । तमेकः कुर्यात् । इतरः प्रक्षालनम् ॥ १०॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/06/11_tasyodakamAhArayenmRnmayenetyeke.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तस्योदकमाहारयेन्मृन्मयेनेत्येके ११
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/03/06/11_tasyodakamAhArayenmRnmayenetyeke.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 11. Some declare that the water for the (guest) shall be brought in an earthen vessel. [^7] 
@@ -348,17 +402,22 @@ Then he shall begin to teach him.
 
 [^२]: स्वयं तु ड.च. पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/06/12_nodakamAchArayed_asamAvRttaH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 नोदकमाचारयेद् असमावृत्तः १२
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/03/06/12_nodakamAchArayed_asamAvRttaH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 12. But (a guest) who has not yet returned home from his teacher shall not be a cause for fetching water. [^8] 
@@ -374,17 +433,22 @@ Then he shall begin to teach him.
 **टीका**  
 यदा असमावृत्तो ब्रह्मचारी आचार्यप्रेषितः स्वयमेव वाऽतिथिरभ्यागच्छति तदा नासावुदकमाहारयेत् नासावुदकाहरणस्य प्रयोजकः । नास्मा उदकमाहर्तव्यमिति ॥ १२ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/06/13_adhyayanasAMvRttishchAtrAdhikA.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अध्ययनसांवृत्तिश्चात्राधिका १३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/03/06/13_adhyayanasAMvRttishchAtrAdhikA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 13. In case a (student comes, the host) shall repeat the Veda (together with him) for a longer time (than with other guests).
@@ -398,17 +462,22 @@ Then he shall begin to teach him.
 **टीका**  
 अत्र असमावृत्तेऽतिथौ अध्ययनसंवृत्तिश्चाधिका इतरस्मादतिथेः । अध्ययनस्य सह निष्पादनमध्ययनसंवृत्तिः। यः प्रदेशस्तस्याऽऽगच्छति स तेन सह कियन्तञ्चित्कालं वक्तव्य इति । प्रसिद्धे तु पाठे पूर्वपदान्तस्य समोऽकारस्य छान्दसो दीर्घः ॥ १३॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/06/14_sAntvayitvA_tarpayedrasairbhaxyairadbhiravarArdhyeneti.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 सान्त्वयित्वा तर्पयेद्रसैर्भक्ष्यैरद्भिरवरार्ध्येनेति १४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/03/06/14_sAntvayitvA_tarpayedrasairbhaxyairadbhiravarArdhyeneti.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 14. He shall converse kindly (with his guest), and gladden him with milk or other (drinks), with eatables, or at least with water.
@@ -422,17 +491,22 @@ Then he shall begin to teach him.
 **टीका**  
 ततः पादप्रक्षालनस्य समध्ययनस्य वाऽनन्तरमतिथिं प्रियवचनेन सान्त्वयेत् । सान्त्वयित्वा गव्यादिभीरसैः फलादिभिश्च भक्ष्यैरन्ततोऽद्भिरपि तावत्तर्पयेत् तृप्तिं कुर्यात् । 'अवरार्थेने'ति जघन्यकल्पतां सूचयति । अप्यन्तत इत्यर्थः । इतिशब्दादेवमादिभिरन्यैरपि ॥ १४॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/06/15_Avasathan_dadyAduparishayyAmupastaraNamupadhAnaM_sAvastaraNamabhyanjana~n.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 आवसथं दद्यादुपरिशय्यामुपस्तरणमुपधानं सावस्तरणमभ्यञ्जनं चेति १५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/03/06/15_Avasathan_dadyAduparishayyAmupastaraNamupadhAnaM_sAvastaraNamabhyanjana~n.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 15. He shall offer to his guest a room, a bed, a mattress, a pillow with a cover, and ointment, and what else (may be necessary). [^9] 
@@ -448,17 +522,22 @@ Then he shall begin to teach him.
 **टीका**  
 आवसथो विश्रामस्थानम् । उपरिशय्या खट्वा । उपस्तरणं तूलिका। उपधानमुपबर्हणम् । अवस्तरणमुपरिपटः । तत्सहितमुपधानमुपस्तरणं च । अभ्यञ्जनं पादयोः तैलं घृतं वा। एतत्सर्वं दद्यात् । भोजनात्प्रागूर्ध्वं वा अपेक्षिते काले । इतिशब्दादन्यदप्यपेक्षितम् ॥ १५ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/06/16_annasaMskartAramAhUya_vrIhInyavAnvA_tadarthAnnirvapet.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अन्नसंस्कर्तारमाहूय व्रीहीन्यवान्वा तदर्थान्निर्वपेत् १६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/03/06/16_annasaMskartAramAhUya_vrIhInyavAnvA_tadarthAnnirvapet.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 16. (If the dinner has been finished before the arrival of the guest), he shall call his cook and give him rice or yava for (preparing a fresh meal for) the guest. [^10] 
@@ -474,17 +553,22 @@ Then he shall begin to teach him.
 **टीका**  
 यः पचति तमन्नसंस्कर्तारमाहूय तदर्थानतिथ्यर्थान् ब्रीहीन्यवान्वा निर्वपेत् पृथक्कृत्य दद्यात्-अमुष्मै पचेति । ब्रीहियवग्रहणमुपलक्षणम् । इदं भुक्तवत्सु सर्वेष्वतिथावुपस्थिते द्रष्टव्यम् ॥ १६ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/06/17_uddhRtAnyannAnyavexetedam_bhUyA.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 उद्धृतान्यन्नान्यवेक्षेतेदं भूया १७
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/03/06/17_uddhRtAnyannAnyavexetedam_bhUyA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 17. (If dinner is ready at the arrival of the guest), he himself shall portion out the food and look at it, saying (to himself), 'Is this (portion) greater, or this?'
@@ -505,17 +589,22 @@ Then he shall begin to teach him.
 
 [^२]: प्लुतप्रयोगः इति च. पु..
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/06/18_idA3miti_bhUya_uddharetyeva.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 इदा३मिति भूय उद्धरेत्येव ब्रूयात् १८
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/03/06/18_idA3miti_bhUya_uddharetyeva.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 18. He shall say, 'Take out a larger (portion for the guest).'
@@ -529,17 +618,22 @@ Then he shall begin to teach him.
 **टीका**  
 एवमवेक्ष्याऽतिथ्यर्थं भूय उद्धरेत्येव ब्रूयात् ॥ १८ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/06/19_dviShandviShato_vA_nAnnamashnIyAddoSheNa.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 द्विषन्द्विषतो वा नान्नमश्नीयाद्दोषेण वा मीमांसमानस्य मीमांसितस्य वा १९
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/03/06/19_dviShandviShato_vA_nAnnamashnIyAddoSheNa.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 19. A guest who is at enmity (with his host) shall not eat his food, nor (shall he eat the food of a host) who hates him or accuses him of a crime, or of one who is suspected of a crime. [^11] 
@@ -555,17 +649,22 @@ Then he shall begin to teach him.
 **टीका**  
 यं स्वयमतिथिं द्विषन्भवति यो वाऽऽत्मानं द्वेष्टि यो वाऽऽत्मानं दोषेण मीमांसते आत्मनि स्तेयादिदोषं सम्भावयति । यो वा दोषेण मीमांसितः यत्र लौकिका दोषं सम्भावयन्ति, तस्यास्य सर्वस्यान्नं नाश्नीयात् ॥१९॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/06/20_pApmAnaM_hi_sa.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 पाप्मानं हि स तस्य भक्षयतीति विज्ञायते २०
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/03/06/20_pApmAnaM_hi_sa.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 20. For it is declared in the Veda that he (who eats the food of such a person) eats his guilt.
@@ -580,6 +679,7 @@ Then he shall begin to teach him.
 यः एवंविधस्याऽन्नमश्नाति, स तस्य पाप्मानमेव भक्षयतीति विज्ञायते ॥ २० ॥  
 
 इत्यापस्तम्बधर्मसूत्रवृत्तौ द्वितीयप्रश्ने षष्ठी कण्डिका ॥ ६ ॥
+</details>
 </details>
 
 </div>

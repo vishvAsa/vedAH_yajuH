@@ -4,12 +4,16 @@ title = "०७ अतिथिः"
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/07/01_sa_eSha_prAjApatyaH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 स एष प्राजापत्यः कुटुम्बिनो यज्ञो नित्यप्रततः १
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/03/07/01_sa_eSha_prAjApatyaH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 1. This reception of guests is an everlasting (Śrauta)-sacrifice offered by the householder to Prajāpati. [^1] 
@@ -25,17 +29,22 @@ title = "०७ अतिथिः"
 **टीका**  
 स एषोऽभिहितो मनुष्ययज्ञः प्राजापत्यः प्रजापतिना दृष्टः, तद्दैवत्यो वा । कुटुम्बिनो नित्यप्रततो, यज्ञः नाऽग्निष्टोमादिवत् कादाचित्कः ॥१॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/07/02_yo-tithInAmagniH_sa_AhavanIyo.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 योऽतिथीनामग्निः स आहवनीयो यः कुटुम्बे स गार्हपत्यो यस्मिन्पच्यते सोऽन्वाहार्यपचनः २
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/03/07/02_yo-tithInAmagniH_sa_AhavanIyo.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 2. The fire in the stomach of the guest (represents) the Āhavanīya, (the sacred fire) in the house of the host represents the Gārhapatya, the fire at which the food for the guest is cooked (represents) the fire used for cooking the sacrificial viands (the Dakṣiṇāgni). [^2] 
@@ -58,17 +67,22 @@ title = "०७ अतिथिः"
 
 [^२]: दर्शपूर्णमासेष्टावृत्विजां दक्षिणात्वेन यद्देयमन्नं तदन्वाहार्यपचनम् ।
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/07/03_Urjam_puShTim_prajAm.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 ऊर्जं पुष्टिं प्रजां पशूनिष्टापूर्तमिति गृहाणामश्नाति यः पूर्वोऽतिथेरश्नाति ३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/03/07/03_Urjam_puShTim_prajAm.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 3. He who eats before his guest consumes the food, the prosperity, the issue, the cattle, the merit which his family acquired by sacrifices and charitable works.
@@ -90,17 +104,22 @@ title = "०७ अतिथिः"
     >वापीकूपतडागादि देवतायतनानि च ।   
     >अन्नप्रदानमारामः पूर्तमित्यभिधीयते ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/07/04_payopasechanamannamagniShTomasammitaM_sarpiShokthyasammitam_madhunAtirAtrasammitam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 पयोपसेचनमन्नमग्निष्टोमसंमितं सर्पिषोक्थ्यसंमितं मधुनातिरात्रसंमितं मांसेन द्वादशाहसंमितमुदकेन प्रजावृद्धिरायुषश्च ४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/03/07/04_payopasechanamannamagniShTomasammitaM_sarpiShokthyasammitam_madhunAtirAtrasammitam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 4. Food (offered to guests) which is mixed with milk procures the reward of an Agniṣṭoma-sacrifice. Food mixed with clarified butter procures the reward of an Ukthya, food mixed with honey the reward of an Atirātra, food accompanied by meat the reward of a Dvādaśāha, (food and) water numerous offspring and long life. [^3] 
@@ -119,17 +138,22 @@ title = "०७ अतिथिः"
 
 [^४]: अग्निष्टोमोक्थ्यातिरात्राः ज्योतिष्टोमस्य संस्थाविशेषाः।
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/07/05_priyA_apriyAshchAtithayaH_svargaM.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 प्रिया अप्रियाश्चातिथयः स्वर्गं लोकं गमयन्तीति विज्ञायते ५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/03/07/05_priyA_apriyAshchAtithayaH_svargaM.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 5. It is declared in the Veda, 'Both welcome and indifferent guests procure heaven (for their host).'
@@ -143,17 +167,22 @@ title = "०७ अतिथिः"
 **टीका**  
 प्रियाः प्रसिद्धाः अप्रिया उदासीनाः, द्विषतो निषिद्धत्वात् ॥ ५ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/07/06_sa_yatprAtarmadhyandine_sAyamiti.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 स यत्प्रातर्मध्यंदिने सायमिति ददाति सवनान्येव तानि भवन्ति ६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/03/07/06_sa_yatprAtarmadhyandine_sAyamiti.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 6. When he gives food in the morning, at noon, and in the evening, (these gifts) are the Savanas (of that sacrifice offered to Prajāpati). [^4] 
@@ -171,17 +200,22 @@ title = "०७ अतिथिः"
 
 [^१]: सवनपदार्थः १. २५. १४ (पृ. १४७ ) सूत्रे टिप्पण्यां विवृतः ।
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/07/07_yadanutiShThatyudavasyatyeva_tat.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 यदनुतिष्ठत्युदवस्यत्येव तत् ७
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/03/07/07_yadanutiShThatyudavasyatyeva_tat.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 7. When he rises after his guest has risen (to depart), that act represents the Udavasānīyā iṣṭi (of a Vedic sacrifice). [^5] 
@@ -199,17 +233,22 @@ title = "०७ अतिथिः"
 
 [^२]: उदवसानीया नाम यज्ञसमाप्तौ क्रियमाणेष्टिः । उदवसाय क्रियते इत्युदवसानीया ।
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/07/08_yatsAntvayatati_sA_daxiNA.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 यत्सान्त्वयतति सा दक्षिणा प्रशंसा ८
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/03/07/08_yatsAntvayatati_sA_daxiNA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 8. When he addresses (the guest) kindly, that kind address (represents) the Dakṣiṇā. [^6] 
@@ -225,17 +264,22 @@ title = "०७ अतिथिः"
 **टीका**  
 यत् सान्त्वयति प्रशंसति सा प्रशंसा दक्षिणा ॥ ८॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/07/09_yatsaMsAdhayati_te_viShNukramAH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 यत्संसाधयति ते विष्णुक्रमाः ९
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/03/07/09_yatsaMsAdhayati_te_viShNukramAH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 9. When he follows (his departing guest, his steps represent) the steps of Viṣṇu. [^7] 
@@ -253,17 +297,22 @@ title = "०७ अतिथिः"
 
 [^३]: दर्शपूर्णमासयोर्यजमानकर्तव्यतया विहिताः (आप०श्रौ० ४.१४.६.) पदप्रक्षेपाः ।
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/07/10_yadupAvartate_so-vabhRthaH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 यदुपावर्तते सोऽवभृथः १०
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/03/07/10_yadupAvartate_so-vabhRthaH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 10. When he returns (after having accompanied his guest), that (act represents) the Avabhṛtha, (the final bath performed after the completion of a sacrifice.)
@@ -279,17 +328,22 @@ title = "०७ अतिथिः"
 
 [^४]: 'वारुणेनैककपालेनावभृथमवयन्ति' इति विहितस्सोमयागस्यान्ते क्रियमाणस्तदङ्गभूत इष्टिविशेषोऽवभृथः ।
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/07/11_iti_hi_brAhmaNam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 इति हि ब्राह्मणम् ११
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/03/07/11_iti_hi_brAhmaNam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 11. Thus (a Brāhmaṇa shall treat) a Brāhmaṇa, (and a Kṣatriya and a Vaiśya their caste-fellows.)
@@ -303,17 +357,22 @@ title = "०७ अतिथिः"
 **टीका**  
 इति ब्राह्मणमित्यस्य सर्वेण सम्बन्धः ॥ ११ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/07/12_rAjAna~n_chedatithirabhyAgachChechChreyasImasmai_pUjAmAtmanaH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 राजानं चेदतिथिरभ्यागच्छेच्छ्रेयसीमस्मै पूजामात्मनः कारयेत् १२
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/03/07/12_rAjAna~n_chedatithirabhyAgachChechChreyasImasmai_pUjAmAtmanaH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 12. If a guest comes to a king, he shall make (his Purohita) honour him more than himself. [^8] 
@@ -331,17 +390,22 @@ title = "०७ अतिथिः"
 
 [^१]: राजेस्येतानभिषिक्तानाचक्षते इत्यैतरेयब्राह्मणम् । ऐ० ब्रा० ८. १४. ६
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/07/13_AhitAgni~n_chedatithirabhyAgachChetsvayamenamabhyudetya_brUyAt.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 आहिताग्निं चेदतिथिरभ्यागच्छेत्स्वयमेनमभ्युदेत्य ब्रूयात् । व्रात्य क्वावात्सीरिति । व्रात्य उदकमिति । व्रात्य तर्पयंस्त्विति १३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/03/07/13_AhitAgni~n_chedatithirabhyAgachChetsvayamenamabhyudetya_brUyAt.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 13. If a guest comes to an Agnihotrin, he himself [^9]  shall go to meet him and say to him: 'O faithful fulfiller of thy vows, where didst thou stay (last night)?' (Then he offers water, saying): 'O faithful fulfiller of thy vows, here is water.' (Next he offers milk or the like, saying): 'O faithful fulfiller of thy vows, may (these fluids) refresh (thee).'
@@ -357,17 +421,22 @@ title = "०७ अतिथिः"
 **टीका**  
 यद्याहिताग्निमुद्दिश्यातिथिरागच्छेत्, तत एनमतिथिं स्वयमेवाभिमुख उपसर्पेत् । अत्र स्वयमिति वचनादनाहिताग्निरन्येन शिष्यादिना कारयन्नपि न दुष्यति । तमभ्युदेत्य ब्रूयातू-व्रात्य क्वावासीरिति कुशलप्रश्नः । व्रते साधुर्व्रत्यः स एव व्रात्य इति पूजनाभिधानम् । क्व पूर्वस्यां रात्र्यामुषितवानसीति । 'व्रात्योदक'मित्युदकदानम् । 'व्रात्य तर्पयस्त्वि'ति गोरसादिभिस्तर्पणम् । अनुस्वारसकारौ छान्दसौ । क्रियाभेदात्प्रतिमन्त्रमितिशन्दः । एतत्सर्वेषु कालेषु कर्तव्यम् ॥१३॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/07/14_purAgnihotrasya_homAdupAMshu_japet.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 पुराग्निहोत्रस्य होमादुपांशु जपेत् । व्रात्य यथा ते मनस्तथास्त्विति । व्रात्य यथा ते वशस्तथास्त्विति । व्रात्य यथा ते प्रियं तथास्त्विति । व्रात्य यथा ते निकामस्तथास्त्विति १४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/03/07/14_purAgnihotrasya_homAdupAMshu_japet.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 14. (If the guest stays at the time of the Agnihotra, he shall make him sit down to the north of the fire and) murmur in a low voice, before offering the oblations: 'O faithful fulfiller of thy vows, may it be as thy heart desires;' 'O faithful fulfiller of thy vows, may it be as thy will is;' 'O faithful fulfiller of thy vows, may it be as thy wish is;' 'O faithful fulfiller of thy vows, may it be as thy desire is.' [^10] 
@@ -385,17 +454,22 @@ title = "०७ अतिथिः"
 
 [^२]: अग्निहोत्रहवनकर्ता होता।
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/07/15_yasyoddhRteShvahuteShvagniShvatithirabhyAgachChetsvayamenamabhyudetya_brUyAtvrAtya_atisRja.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 यस्योद्धृतेष्वहुतेष्वग्निष्वतिथिरभ्यागच्छेत्स्वयमेनमभ्युदेत्य ब्रूयात्व्रात्य अतिसृज होष्यामि । इत्यतिसृष्टेन होतव्यम् । अनतिसृष्टश्चेज्जुहुयाद्दोषं ब्राह्मणमाह १५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/03/07/15_yasyoddhRteShvahuteShvagniShvatithirabhyAgachChetsvayamenamabhyudetya_brUyAtvrAtya_atisRja.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 15. If a guest comes, after the fires have been placed (on the altar), but before the oblations have been offered, (the host) himself shall approach him and say to him: 'O faithful fulfiller of thy vows give me permission; I wish to sacrifice.' Then he shall sacrifice, after having received permission. A Brāhmaṇa declares that he commits a sin if he sacrifices without permission. [^11] 
@@ -413,17 +487,22 @@ title = "०७ अतिथिः"
 
 [^१]: नास्तीदं वाक्यं घ. पुस्तके ।
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/07/16_ekarAtra~n_chedatithInvAsayetpArthivAMl_lokAnabhijayati.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 एकरात्रं चेदतिथीन्वासयेत्पार्थिवांल् लोकानभिजयति द्वितीययान्तरिक्ष्यांस्तृतीयया दिव्यांश्चतुर्थ्या परावतो लोकानपरिमिताभिरपरिमितांल् लोकानभिजयतीति विज्ञायते १६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/03/07/16_ekarAtra~n_chedatithInvAsayetpArthivAMl_lokAnabhijayati.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 16. He who entertains guests for one night obtains earthly happiness, a second night gains the middle air, a third heavenly bliss, a fourth the world of unsurpassable bliss; many nights procure endless worlds. That has been declared in the Veda.
@@ -439,17 +518,22 @@ title = "०७ अतिथिः"
 
 [^२]: एकरात्र इति घ. मु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/03/07/17_asamudetashchedatithirbruvANa_AgachChedAsanamudakamannaM_shrotriyAya.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 असमुदेतश्चेदतिथिर्ब्रुवाण आगच्छेदासनमुदकमन्नं श्रोत्रियाय ददामीत्येव दद्यात् । एवमस्य समृद्धं भवति १७
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/03/07/17_asamudetashchedatithirbruvANa_AgachChedAsanamudakamannaM_shrotriyAya.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 17. If an unlearned person who pretends to be (worthy of the appellation) 'guest' comes to him, he shall give him a seat, water, and food, (thinking) 'I give it to a learned Brāhmaṇa.' Thus (the merit) of his (gift) becomes (as) great (as if a learned Brāhmaṇa had received it).
@@ -466,6 +550,7 @@ title = "०७ अतिथिः"
 इति द्वितीयप्रश्ने सप्तमी कण्डिका ॥ ७ ॥   
 
 इत्यापस्तम्बधर्मसूत्रवृत्तौ हरदत्तमिश्रविरचितायामुज्ज्वलायां द्वितीयप्रश्ने तृतीयः पटलः ॥ ३ ॥
+</details>
 </details>
 
 </div>

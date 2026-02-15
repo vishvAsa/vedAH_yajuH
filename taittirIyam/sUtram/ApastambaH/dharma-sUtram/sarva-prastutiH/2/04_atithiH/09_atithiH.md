@@ -4,12 +4,16 @@ title = "०९ अतिथिः"
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/04/09/01_shvobhUte_yathAmanasan_tarpayitvA.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 श्वोभूते यथामनसं तर्पयित्वा संसाधयेत् १
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/04/09/01_shvobhUte_yathAmanasan_tarpayitvA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 1. And on the following day (he shall search for him), feast him to his heart's content, and accompany him (on his departure). [^1] 
@@ -25,17 +29,22 @@ title = "०९ अतिथिः"
 **टीका**  
 अपरेद्युस्तमन्विष्य यथामानसं यथेच्छं तर्पयित्वा संसाधयेत् गच्छन्तमनुव्रजेत् ॥ १ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/04/09/02_yAnavantamA_yAnAt.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 यानवन्तमा यानात् २
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/04/09/02_yAnavantamA_yAnAt.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 2. (If the guest) possesses a carriage, (he shall accompany him) as far as that.
@@ -52,17 +61,22 @@ title = "०९ अतिथिः"
 **टीका**  
 स चेदतिथिर्यानवान् भवति, तस्मा तस्याऽऽरोहणादनुव्रजेत् ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/04/09/03_yAvannAnujAnIyAditaraH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 यावन्नानुजानीयादितरः ३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/04/09/03_yAvannAnujAnIyAditaraH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 3. Any other (guest he must accompany), until permission to return is given.
@@ -76,17 +90,22 @@ title = "०९ अतिथिः"
 **टीका**  
 इतरो यानरहितो यावन्नाऽनुजानीयात् गच्छेति, तं तावदनुव्रजेत् ॥३॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/04/09/04_apratIbhAyAM_sImno_nivarteta.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अप्रतीभायां +++(बुद्धौ न जातायाम्)+++ सीम्नो निवर्तेत ४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/04/09/04_apratIbhAyAM_sImno_nivarteta.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 4. If (the guest) forgets (to give leave to depart), the (host) may return on reaching the boundary of his village.
@@ -100,17 +119,22 @@ title = "०९ अतिथिः"
 **टीका**  
 यदि तस्याऽन्यपरतयाऽनुज्ञायां प्रतीभा बुद्धिर्न जायते, ततस्सीम्नि प्राप्तायां ततो निवर्तेत । प्रतेदीर्घश्छान्दसः। 'संसाधये'दित्यादि सर्वातिथिसाधारणम् । न निराकृतमात्रविषयम् ॥४॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/04/09/05_sarvAnvaishvadeve_bhAginaH_kurvItA.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 सर्वान्वैश्वदेवे भागिनः कुर्वीता श्व-चाण्डालेभ्यः ५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/04/09/05_sarvAnvaishvadeve_bhAginaH_kurvItA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 5. To all (those who come for food) at (the end of) the Vaiśvadeva he shall give a portion, even to dogs and Caṇḍālas.
@@ -128,17 +152,22 @@ title = "०९ अतिथिः"
 
 [^१]: म०स्मृ० ३.९२.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/04/09/06_nAnarhadbhyo_dadyAd_ity.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 नानर्हद्भ्यो दद्याद् इत्य् एके ६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/04/09/06_nAnarhadbhyo_dadyAd_ity.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 6. Some declare that he shall not give anything to unworthy people (such as Caṇḍālas).
@@ -152,17 +181,22 @@ title = "०९ अतिथिः"
 **टीका**  
 अनर्हद्भ्यश्चण्डालादिभ्यो न दद्यादित्येके मन्यन्ते । तत्र दानेऽभ्युदयः । अदाने न प्रत्यवायः॥ ६ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/04/09/07_upetaH_strINAmanupetasya_chochChiShTaM.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 उपेतः स्त्रीणामनुपेतस्य चोच्छिष्टं वर्जयेत् ७
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/04/09/07_upetaH_strINAmanupetasya_chochChiShTaM.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 7. A person who has been initiated shall not eat the leavings of women or of an uninitiated person. [^2] 
@@ -182,17 +216,22 @@ title = "०९ अतिथिः"
 
 [^२]: बौ०ध० १. १. १८, १९.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/04/09/08_sarvANyudakapUrvANi_dAnAni.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 सर्वाण्युदकपूर्वाणि दानानि ८
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/04/09/08_sarvANyudakapUrvANi_dAnAni.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 8. All gifts are to be preceded by (pouring out) water. [^3] 
@@ -208,17 +247,23 @@ title = "०९ अतिथिः"
 **टीका**  
 'सर्वाणी'ति वचनात् भिक्षाप्युदकपूर्वमेव देया ॥ ८॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/04/09/09_yathAshruti_vihAre.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 यथाश्रुति विहारे +++(=यागशालायाम्)+++९ 
+
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/04/09/09_yathAshruti_vihAre.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 9. (But gifts offered to priests) at sacrifices (are to be given) in the manner prescribed by the Veda.
@@ -232,17 +277,23 @@ title = "०९ अतिथिः"
 **टीका**  
 विहारे यज्ञकर्मणि यानि दानानि दक्षिणादीनि, तानि यथाश्रुत्येव । नोदकपूर्वाणि ॥९॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/04/09/10_ye_nityA_bhAktikAs.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 ये नित्या भाक्तिकास्तेषामनुपरोधेन संविभागो विहितः १०
+
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/04/09/10_ye_nityA_bhAktikAs.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 10. The division of the food must be made in such a manner that those who receive daily portions (slaves) do not suffer by it.
@@ -256,17 +307,22 @@ title = "०९ अतिथिः"
 **टीका**  
 ये नित्या भाक्तिका भक्तार्हाः कर्मकरादयः तेषामुपरोधो यथा न भवति तथा वैश्वदेवान्ते अभ्यागतेभ्यः संविभागः कर्तव्यः ॥ १० ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/04/09/11_kAmamAtmAnam_bhAryAm_putraM.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 काममात्मानं भार्यां पुत्रं वोपरुन्ध्यान्न त्वेव दासकर्मकरम् ११
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/04/09/11_kAmamAtmAnam_bhAryAm_putraM.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 11. At his pleasure, he may stint himself, his wife, or his children, but by no means a slave who does his work.
@@ -282,17 +338,22 @@ title = "०९ अतिथिः"
 
 [^३]: 'अतस्तं केवलं कर्मकरं नोपरुन्ध्यात्' इत्यधिकः पाठः क. पुस्तके ।
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/04/09/12_tathA_chAtmano-nuparodha~N_kuryAdyathA.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तथा चात्मनोऽनुपरोधं कुर्याद्यथा कर्मस्वसमर्थः स्यात् १२
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/04/09/12_tathA_chAtmano-nuparodha~N_kuryAdyathA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 12. And he must not stint himself so much that he becomes unable to perform his duties.
@@ -306,10 +367,13 @@ title = "०९ अतिथिः"
 **टीका**  
 कर्मसु अग्निहोत्रादिषु आर्जनेषु च यथा स्वयं समर्थो भवति तथाऽऽत्मानं नोपरुन्ध्यात कुटुम्बी ॥ १२॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/04/09/13_ashTau_grAsAH.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
 
 > 'अष्टौ ग्रासा मुनेर् भक्ष्याः षोडशाऽरण्य-वासिनः ।  
 द्वात्रिंशतं गृहस्थस्याऽपरिमितं ब्रह्मचारिणः ॥  
@@ -318,10 +382,13 @@ title = "०९ अतिथिः"
 
 इति॥
 
+</details>
+
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/04/09/13_ashTau_grAsAH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 13. Now they quote also (the following two verses):
@@ -353,6 +420,7 @@ title = "०९ अतिथिः"
 
 इत्यापस्तम्बधर्मसूत्रे नवमी कण्डिका ॥  
 इत्यापस्तम्बधर्मसत्रवृत्तौ हरदत्तविरचितायामुज्ज्वलायां द्वितीयप्रश्ने चतुर्थः पटलः ॥ ४ ॥
+</details>
 </details>
 
 </div>

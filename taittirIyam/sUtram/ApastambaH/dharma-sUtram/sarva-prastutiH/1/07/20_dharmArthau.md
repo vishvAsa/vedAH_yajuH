@@ -4,13 +4,17 @@ title = "२० धर्मार्थौ"
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/20/01_nemaM_laukikamartham_puraskRtya.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 नेमं लौकिकम्-अर्थं पुरस्कृत्य  
 धर्मांश् चरेत् १
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/07/20/01_nemaM_laukikamartham_puraskRtya.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 1. He shall not fulfil his sacred duties  
@@ -25,17 +29,22 @@ merely in order to acquire these worldly objects (as fame, gain, and honour).
 **टीका**  
 इमं लौकिकं लोके विदितं ख्यातिलाभपूजात्मकम् , अर्थं प्रयोजनम् । पुरस्कृत्य अभिसन्धाय । धर्मान्न चरेत् ॥ १॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/20/02_niShphalA_hyabhyudaye_bhavanti.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 निष्फला ह्य् अभ्युदये भवन्ति २
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/07/20/02_niShphalA_hyabhyudaye_bhavanti.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 2. For when they ought to bring rewards, (duties thus fulfilled) become fruitless.
@@ -60,19 +69,24 @@ merely in order to acquire these worldly objects (as fame, gain, and honour).
 
     तै० सं० १.६. ८. यो श्रद्धामनारभ्य यज्ञेन यजते नास्येष्टाय श्रद्धधते, इति श्रुतिः । अस्या अयमर्थः—
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/20/03_tadyathAmre_phalArthe_nirmite.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तद् यथा ऽऽम्रे फलार्थे निर्मिते  
 छाया गन्ध इत्य् अनूत्पद्येते,  
 एवं धर्मं चर्यमाणम् अर्था अनूत्पद्यन्ते ३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/07/20/03_tadyathAmre_phalArthe_nirmite.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 3. (Worldly benefits) are produced as accessories (to the fulfilment of the law), just as in the case of a mango tree, which is planted in order to obtain fruit, shade and fragrance (are accessory advantages).
@@ -97,18 +111,23 @@ merely in order to acquire these worldly objects (as fame, gain, and honour).
 
 [^५]: न चोद्देश्यतया इति नास्ति क.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/20/04_no_chedanUtpadyante_na.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 नो चेद् अनूत्पद्यन्ते,  
 न धर्म-हानिर् भवति ४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/07/20/04_no_chedanUtpadyante_na.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 4. But if (worldly advantages) are not produced, (then at least) the sacred duties have been fulfilled.
@@ -122,18 +141,23 @@ merely in order to acquire these worldly objects (as fame, gain, and honour).
 **टीका**  
 यद्यपि दैवादर्था नाऽनूत्पद्यन्ते तथापि धर्मस्तावद्भवति । स च स्वतन्त्रः पुरुषार्थः । किमन्यैरर्थैरिति ॥ ४ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/20/05_anasUyurduShpralambhaH_syAtkuhakashaThanAstikabAlavAdeShu.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अन्-असूयुर्, दुष्-प्रलम्भः स्यात्  
 कुहक-शठ-नास्तिक-बाल-वादेषु ५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/07/20/05_anasUyurduShpralambhaH_syAtkuhakashaThanAstikabAlavAdeShu.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 5. Let him not become irritated at, nor be deceived by the speeches of hypocrites, of rogues, of infidels, and of fools.
@@ -166,20 +190,25 @@ merely in order to acquire these worldly objects (as fame, gain, and honour).
 
 [^२]: पा० सू० १.३ ६९.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/20/06_na_dharmAdharmau_charata.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 न धर्माधर्मौ चरत  
 "आवं स्व" इति ।  
 न देव-गन्धर्वा, न पितर +++(पुर आगत्य)+++ इत्य् आचक्षते  
 "ऽयं धर्मो ऽयम् अधर्म" इति ६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/07/20/06_na_dharmAdharmau_charata.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 6. For Virtue and Sin do not go about and say, 'Here we are;' nor do gods, Gandharvas, or Manes say (to men), 'This is virtue, that is sin.'
@@ -198,21 +227,26 @@ merely in order to acquire these worldly objects (as fame, gain, and honour).
 
 [^३]: पा० सू० ७. २. ८८
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/20/07_yattvAryAH_kriyamANam_prashaMsanti.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
 
 यत् त्व् आर्याः  
 क्रियमाणं प्रशंसन्ति  
 स धर्मो,  
 यद् गर्हन्ते  
 सोऽधर्मः ७
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/07/20/07_yattvAryAH_kriyamANam_prashaMsanti.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 7. But that is virtue, the practice of which wise men of the three twice-born castes praise; what they blame, is sin. [^1] 
@@ -236,20 +270,25 @@ merely in order to acquire these worldly objects (as fame, gain, and honour).
 
 [^४]: या० स्मृ० १.९.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/20/08_sarvajanapadeShvekAntasamAhitamAryANAmvRttaM_samyagvinItAnAM_vRddhAnAmAtmavatAmalolupAnAmadAmbhikAnAM.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 सर्व-जन-पदेष्व् एकान्त-समाहितम्  
 आर्याणाम् वृत्तं  
 सम्यग् विनीतानां वृद्धानाम्  
 आत्मवताम्, अलोलुपानाम्, अदाम्भिकानां वृत्त-सादृश्यं भजेत ८
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/07/20/08_sarvajanapadeShvekAntasamAhitamAryANAmvRttaM_samyagvinItAnAM_vRddhAnAmAtmavatAmalolupAnAmadAmbhikAnAM.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 8. He shall regulate his course of action according to the conduct which in all countries is unanimously approved by men of the three twice-born castes, who have been properly obedient (to their teachers), who are aged, of subdued senses, neither given to avarice, nor hypocrites. [^2] 
@@ -268,17 +307,22 @@ merely in order to acquire these worldly objects (as fame, gain, and honour).
 **टीका**  
 सम्यग्विनीताः । आचार्याधीनः स्या'(२.१९)दित्यादिना विनयनसम्पन्नाः । वृद्धाः परिणतवयसः। यौवने विषयवश्यताऽपि स्यादितीदमुक्तम् । आत्मवन्तो जितेन्द्रियाः। अलोलुपा अकृपणाः । अदाम्भिका अधर्मध्वजा, एकान्तप्रकाशयोरेकवृत्ताः । एवंभूतानामार्याणां सर्वजनपदेषु यदेकान्तेनाऽव्यभिचारेण समाहितमनुमतं वृत्तमनुष्ठानम् , न मातुलसुतापरिणयनवत्कतिपयविषयम्, तद्वृत्तसादृश्यं भजेत । तदनुरूपं चेष्टेत । न तेषामनुष्ठानं निर्मूलम् । सम्भवति च वैदिकानामुत्सन्नपाठब्राह्मणानुभव इति ॥ ८ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/20/09_evam_ubhau_lokAv.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 एवम् उभौ लोकाव् अभिजयति ९
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/07/20/09_evam_ubhau_lokAv.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 9. Acting thus he will gain both worlds.
@@ -292,17 +336,22 @@ merely in order to acquire these worldly objects (as fame, gain, and honour).
 **टीका**  
 एवं श्रुतिस्मृतिसदाचारमूलमनुष्ठानं कुर्वन् उभौ लोकावभिजयति इमं चाऽमुं च ॥ ९ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/20/10_avihitA_brAhmaNasya_vaNijyA.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अविहिता ब्राह्मणस्य वणिज्या १०
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/07/20/10_avihitA_brAhmaNasya_vaNijyA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 10. Trade is not lawful for a Brāhmaṇa.
@@ -320,18 +369,23 @@ merely in order to acquire these worldly objects (as fame, gain, and honour).
 
     नापदि विधानार्थः इति क. पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/20/11_Apadi_vyavahareta_paNyAnAmapaNyAni.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 आपदि व्यवहरेत पण्यानाम्  
 अपण्यानि व्युदस्यन् +++(=वर्जयन् [वक्ष्यमाणानि] …)+++ ११
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/07/20/11_Apadi_vyavahareta_paNyAnAmapaNyAni.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 11. In times of distress he may trade in lawful merchandise, avoiding the following (kinds), that are forbidden: [^3] 
@@ -357,10 +411,13 @@ merely in order to acquire these worldly objects (as fame, gain, and honour).
 
 [^४]: गौ० ध० ७. ६,७
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/20/12_yAnrasAnrAgAngandhAnanna~n_charma_gavAM.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
 
 … मनुष्यान्,  
 रसान्, रागान्, गन्धान्,  
@@ -371,11 +428,13 @@ merely in order to acquire these worldly objects (as fame, gain, and honour).
 पिप्पलि+++(=रक्त-मरीच)+++-मरीचे  
 धान्यं, मांसम्,  
 आयुधं, सुकृताशां च १२+++(5)+++
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/07/20/12_yAnrasAnrAgAngandhAnanna~n_charma_gavAM.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 12. (Particularly) men, condiments and liquids, colours, perfumes, food, skins, heifers, substances [^4]  used for glueing (such as lac), water, young cornstalks, substances from which spirituous liquor may be extracted, red and black pepper, corn, flesh, arms, and the hope of rewards for meritorious deeds.
@@ -409,18 +468,23 @@ merely in order to acquire these worldly objects (as fame, gain, and honour).
 
 [^३]: म० स्मृ० १०.८६, ८९.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/20/13_manuSh_tilataNDulAMstveva_dhAnyasya.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तिल-तण्डुलांस् त्व् एव धान्यस्य  
 विशेषेण न विक्रीणीयात् १३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/07/20/13_manuSh_tilataNDulAMstveva_dhAnyasya.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 13. Among (the various kinds of) grain he shall especially not sell sesamum or rice (except he have grown them himself). [^5] 
@@ -439,17 +503,22 @@ merely in order to acquire these worldly objects (as fame, gain, and honour).
 
 [^४]: म० स्मृ० १०-९०.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/20/14_avihitashchaiteShAm_mitho_vinimayaH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अविहितश् चैतेषां मिथो विनिमयः १४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/07/20/14_avihitashchaiteShAm_mitho_vinimayaH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 14. The exchange of the one of these (abovementioned goods) for the other is likewise unlawful.
@@ -463,21 +532,26 @@ merely in order to acquire these worldly objects (as fame, gain, and honour).
 **टीका**  
 विनिमयः परिवर्तनम् । येषां विक्रयः प्रतिषिद्धः तेषां परस्परेण विनिमयोऽप्यविहितः प्रतिषिद्धः, न कर्तव्य इत्यर्थः ॥१४॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/20/15_annena_chAnnasya_manuShyANA~n.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
 
 अन्नेन चान्नस्य,  
 मनुष्याणां च मनुष्यैः,  
 रसानां च रसैर्,  
 गन्धानां च गन्धैर्,  
 विद्यया च विद्यानाम् १५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/07/20/15_annena_chAnnasya_manuShyANA~n.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 15. But food (may be exchanged) for food, and slaves for slaves, and condiments for condiments, and perfumes for perfumes, and learning for learning. [^6] 
@@ -508,17 +582,22 @@ merely in order to acquire these worldly objects (as fame, gain, and honour).
 
 [^४]: नियमाभ्य.इति क.पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/20/16_akrItapaNyairvyavahareta.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अ-क्रीतपण्यैर् व्यवहरेत १६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/07/20/16_akrItapaNyairvyavahareta.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 16. Let him traffic with lawful merchandise which he has not bought,
@@ -533,6 +612,7 @@ merely in order to acquire these worldly objects (as fame, gain, and honour).
 अक्रीतानि स्वयमुत्पादितानि अरण्यादाहृतानि वा यानि पण्यानि तैर्व्यवहरेत मुञ्जादिभिः ॥ १६ ॥  
 
 इत्यापस्तम्बधर्मसूत्रवृत्तौ विंशतितमी कण्डिका ॥ २० ॥
+</details>
 </details>
 
 </div>

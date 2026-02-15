@@ -4,17 +4,21 @@ title = "१९ पुष्ट्यर्थः"
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/19/01_gaurasarShapANA~n_chUrNAni_kArayitvA.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 गौर-सर्षपाणां चूर्णानि कारयित्वा  
 तैः पाणि-पादं प्रक्षाल्य  
 मुखं कर्णौ प्राश्य च  
 यद्-वातो नातिवाति तद्-आसनो  
 ऽजिनं बस्तस्य +++(=अजस्य)+++ प्रथमः कल्पो  
 वाग्यतो दक्षिणा-मुखो भुञ्जीत १
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/08/19/01_gaurasarShapANA~n_chUrNAni_kArayitvA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 1. Shall cause to be prepared powder of white mustard-seeds, cause his hands, feet, ears, and mouth to be rubbed with that, and shall eat (the remainder). If the wind does not blow too violently, he shall eat sitting, silent and his face turned towards the south, on a seat (facing the) same (direction)the first alternative is the skin of a he-goat. [^1] 
@@ -32,19 +36,24 @@ title = "१९ पुष्ट्यर्थः"
 
 [^१]: पा०सू० २. ३.४५,
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/19/02_anAyuShyan_tvevammukhasya_bhojanam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 > अनायुष्यं त्व् एवं-मुखस्य भोजनं मातुर्  
 
 इत्य् उपदिशन्ति +++(येन जीवन्-मातृको नैतत् कुर्यात्)+++ २
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/08/19/02_anAyuShyan_tvevammukhasya_bhojanam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 2. But they declare, that the life of the mother of that person who eats at this ceremony, his face turned in that direction, will be shortened. [^2] 
@@ -60,17 +69,22 @@ title = "१९ पुष्ट्यर्थः"
 **टीका**  
 यदेवंमुखस्य दक्षिणामुखस्य भोजनं तत् भोक्तुर्या माता तस्या अनायुष्यमनायुष्यकरमिति धर्मज्ञा उपदिशन्ति । तस्मान्मातृमता नैतद्व्रतं कार्यमिति ॥२॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/19/03_audumbarashchamasaH_suvarNanAbhaH_prashAstaH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 औदुम्बरश् चमसः सुवर्ण-नाभः प्रशास्तः ३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/08/19/03_audumbarashchamasaH_suvarNanAbhaH_prashAstaH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 3. A vessel of brass, the centre of which is gilt, is best (for this occasion).
@@ -84,17 +98,22 @@ title = "१९ पुष्ट्यर्थः"
 **टीका**  
 चमु भक्षणे । यत्र चम्यते स चमसो भोजनपात्रम् । औदुम्बरस्ताम्रमयः सुवर्णेन मध्येऽलंकृतस्स प्रशास्तः प्रशस्तो भोजने ॥३॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/19/04_na_chAnyenApi_bhoktavyaH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 न चान्येनापि भोक्तव्यः ४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/08/19/04_na_chAnyenApi_bhoktavyaH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 4. And nobody else shall eat out of that vessel. [^3] 
@@ -110,17 +129,22 @@ title = "१९ पुष्ट्यर्थः"
 **टीका**  
 नचान्येनापि कर्तुः पित्रापि तत्र पात्रे भोक्तव्यम् । अपिर्धात्वार्थानुवादी । भोक्तव्य इति पुंलिङ्गपाठेऽप्येष एवार्थः ॥ ४ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/19/05_yAvadgrAsaM_sannayan.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 यावद्-ग्रासं संनयन् ५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/08/19/05_yAvadgrAsaM_sannayan.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 5. He shall make a lump of as much (food) as he can swallow (at once). [^4] 
@@ -136,17 +160,22 @@ title = "१९ पुष्ट्यर्थः"
 **टीका**  
 +++(अग्रे व्याख्यातम्।)+++
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/19/06_askandayan.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अस्कन्दयन् ६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/08/19/06_askandayan.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 6. (And he shall) not scatter anything (on the ground).
@@ -160,17 +189,22 @@ title = "१९ पुष्ट्यर्थः"
 **टीका**  
 +++(अग्रे व्याख्यातम्।)+++
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/19/07_nApajahIta.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 नापजहीत +++(सव्य-पाणिना पात्रम्)+++ ७
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/08/19/07_nApajahIta.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 7. He shall not let go the vessel (with his left hand);
@@ -184,17 +218,22 @@ title = "१९ पुष्ट्यर्थः"
 **टीका**  
 +++(अग्रे व्याख्यातम्।)+++
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/19/08_apajahIta_vA.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अपजहीत वा +++(प्राणाहुत्य्-ऊर्ध्वम्)+++८
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/08/19/08_apajahIta_vA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 8. Or he may let it go. [^5] 
@@ -210,17 +249,22 @@ title = "१९ पुष्ट्यर्थः"
 **टीका**  
 +++(अग्रे व्याख्यातम्।)+++
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/19/09_kRtsna~N_grAsa~N_grasIta.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 कृत्स्नं ग्रासं ग्रसीत सहाङ्गुष्ठम् ९
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/08/19/09_kRtsna~N_grAsa~N_grasIta.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 9. He shall swallow the whole mouthful at once, introducing it, together with the thumb, (into the mouth.)
@@ -235,17 +279,22 @@ title = "१९ पुष्ट्यर्थः"
 
 यावदेव सकृत् ग्रसितुं शक्यं तावदेव सन्नयन् पिण्डीकुर्वन् । अस्कन्दयन् भूमावन्नलेपानपातयन् कृत्स्नं ग्रासं ग्रसीतेन्यन्वयः । सहाङ्गुष्ठम् आस्येऽपि ग्रासप्रवेशे यथाङगुष्ठोऽप्यनुप्रविशति तथा सर्वानेव ग्रासानुक्तेन प्रकारेण ग्रसति ग्रसतो मध्ये क्रियान्तरविधिः-नाऽपजिहीत भोजन पात्रं सव्येन पाणिना न विमुञ्चेत् । अपजिहीत वा विमुञ्चेद्वा । किमर्थमिदम् यावता न प्रकारान्तरं सम्भवति, सत्यं, 'प्रकमात्तु नियम्यत' इति न्यायेन य एव प्रकारः प्रथमे भोजने स एवाऽऽन्तादनुष्ठातव्य इत्येवर्थमिदम् ॥ ५॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/19/10_na_cha_mukhashabda~N.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 न च मुख-शब्दं कुर्यात् १०
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/08/19/10_na_cha_mukhashabda~N.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 10. He shall make no noise with his mouth (whilst eating).
@@ -259,17 +308,22 @@ title = "१९ पुष्ट्यर्थः"
 **टीका**  
 भोजनदशायामिदम् । एवमुत्तरम् ॥ ६॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/19/11_pANi~n_cha_nAvadhUnuyAt.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 पाणिं च नावधूनुयात् ११
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/08/19/11_pANi~n_cha_nAvadhUnuyAt.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 11. And he shall not shake his right hand (whilst eating).
@@ -283,17 +337,22 @@ title = "१९ पुष्ट्यर्थः"
 **टीका**  
 पाणिरत्र दक्षिणः ॥७॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/19/12_Achamya_chordhvau_pANI.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 आचम्य चोर्ध्वौ पाणी धारयेद् आ प्रोदकी-भावात् +++(=शुष्कभावात्)+++ १२
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/08/19/12_Achamya_chordhvau_pANI.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 12. After he (has eaten and) sipped water, he shall raise his hands, until the water has run off (and they have become dry).
@@ -307,17 +366,22 @@ title = "१९ पुष्ट्यर्थः"
 **टीका**  
 भुक्त्वाऽऽचम्य पाणी ऊर्ध्वौ धारयेत् यावत् प्रगतोदकौ शुष्कोदकौ भवतः ॥ ८॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/19/13_tato.agnimupaspRshet.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 ततो ऽग्निम् उपस्पृशेत् १३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/08/19/13_tato.agnimupaspRshet.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 13. After that he shall touch fire.
@@ -331,17 +395,22 @@ title = "१९ पुष्ट्यर्थः"
 **टीका**  
 भुक्त्वा नियमेनाग्निरुपस्प्रष्टव्यः ॥ ९॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/19/14_divA_cha_na.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 दिवा च न भुञ्जीतान्यन् मूलफलेभ्यः १४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/08/19/14_divA_cha_na.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 14. And (during this ceremony) he shall not eat in the day-time anything but roots and fruit.
@@ -355,17 +424,22 @@ title = "१९ पुष्ट्यर्थः"
 **टीका**  
 मूलानि कन्दाः । फलान्याम्रादीनि । तेभ्योऽन्यद्दिवा न भुञ्जीत । तद्भक्षणे न दोषः ॥ १०॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/19/15_sthAlIpAkAnudeshyAni_cha_varjayet.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 स्थालीपाक+++(दान-)++++अनुदेश्यानि +++(=देवपितृभ्यः सङ्कल्पितानि)+++ च वर्जयेत् १५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/08/19/15_sthAlIpAkAnudeshyAni_cha_varjayet.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 15. And let him avoid Sthālīpāka-offerings, and food offered to the Manes or to the Gods.
@@ -381,17 +455,22 @@ title = "१९ पुष्ट्यर्थः"
 
 १. आप०गृ० ७. १५.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/19/16_sottarAchChAdanashchaiva_yajnopavItI_bhunjIta.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 सोत्तराच्छादनश् चैव यज्ञोपवीती +++(=उत्तरीयं यज्ञोपवीतवत् कृत्वा)+++ भुञ्जीत १६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/08/19/16_sottarAchChAdanashchaiva_yajnopavItI_bhunjIta.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 16. He shall eat wearing his upper garment over his left shoulder and under his right arm. [^6] 
@@ -407,18 +486,23 @@ title = "१९ पुष्ट्यर्थः"
 **टीका**  
 उत्तराच्छादनमुपरिवासः । तेन यज्ञोपवीतेन यज्ञोपवीतं कृत्वा भुञ्जीत । नाऽस्य भोजने "अपि वा सूत्रमेवोपवीतार्थ" इत्ययं कल्पो भवतीत्येके । समुच्चय इत्यन्ये ॥ १२ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/19/17_naiyyamikan_tu_shrAddhaM.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 नैय्यमिकं +++(→मासि मासि क्रियमाणं)+++ तु श्राद्धं स्नेहवद्  
 एव दद्यात् १७
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/08/19/17_naiyyamikan_tu_shrAddhaM.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 17. At the (monthly) Śrāddha which must necessarily be performed, he must use (food) mixed with fat.
@@ -432,17 +516,22 @@ title = "१९ पुष्ट्यर्थः"
 **टीका**  
 यन्नियमेन कर्तव्यं मासि श्राद्धं, तत् स्नेहद्रव्ययुक्तमेव दद्यात् । न शुष्कम् ॥ १३ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/19/18_sarpirmAMsamiti_prathamaH_kalpaH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 सर्पिर् मांसम् इति प्रथमः कल्पः १८
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/08/19/18_sarpirmAMsamiti_prathamaH_kalpaH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 18. The first (and preferable) alternative (is to employ) clarified butter and meat.
@@ -459,17 +548,22 @@ title = "१९ पुष्ट्यर्थः"
 **टीका**  
 स्पष्टम् ॥ १४ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/19/19_abhAve_tailaM_shAkamiti.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अभावे तैलं शाकम् इति १९
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/08/19/19_abhAve_tailaM_shAkamiti.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 19. On failure (of these), oil of sesamum, vegetables, and (similar materials may be used).
@@ -483,18 +577,23 @@ title = "१९ पुष्ट्यर्थः"
 **टीका**  
 सर्पिषोऽभावे तैलं मांसस्याऽभावे शाकम् । इतिशब्दाद्यच्चान्यदेवं युक्तम् ॥ १५ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/08/19/20_maghAsu_chAdhikaM_shrAddhakalpena.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 मघासु चाधिकं श्राद्ध-कल्पेन  
 सर्पिर् ब्राह्मणान् भोजयेत् २०
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/08/19/20_maghAsu_chAdhikaM_shrAddhakalpena.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 20. And under the asterism Maghā he shall feed the Brāhmaṇas more (than at other times) with (food mixed with) clarified butter, according to the rule of the Śrāddha.
@@ -509,6 +608,7 @@ title = "१९ पुष्ट्यर्थः"
 मघासु पूर्वपक्षेऽपि श्राद्धविधानेन सर्पिर्मिश्रमन्नं ब्राह्मणान् भोजयेत् ॥१६॥  
 
 इत्यापस्तम्बधर्मसूत्रवृत्तौ द्वितीयप्रश्ने एकोनविंशी काण्डिका ॥ १९ ॥
+</details>
 </details>
 
 </div>

@@ -4,13 +4,17 @@ title = "२४ गृहस्थ-श्रेष्ठता"
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/24/01_athApyasya_prajAtim_amRtam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अथाप्यस्य प्रजातिम्  
 अमृतम् आम्नाय आह । प्रजामनु प्रजायसे तदु ते मर्त्यामृतमिति १
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/24/01_athApyasya_prajAtim_amRtam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 1. Now the Veda declares also one's offspring to be immortality (in this verse): 'In thy offspring thou art born again, that, mortal, is thy immortality.'
@@ -28,17 +32,22 @@ title = "२४ गृहस्थ-श्रेष्ठता"
 **टीका**  
 अथाऽपि अपि च अस्य गृहस्थस्य प्रजापतिं प्रजासन्तानम् अमृतम् अमरमणम् आम्नायो वेद आह हे मर्त्य मरणधर्मन् ! प्रजां जायमानामनु त्वं प्रजायसे त्वमेव प्रजारूपेण जायसे । तदेव ते मरणधर्मिणः अमृतममरणमिति । न त्वं म्रियसे, यतस्त्वं प्रजारूपेण तिष्ठसीति ॥ १॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/24/02_athApi_sa_evAyaM.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अथापि - स एवायं विरूढः पृथक् प्रत्यक्षेणोपलभ्यते दृश्यते चापि सारूप्यं देहत्वमेवान्यत् २
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/24/02_athApi_sa_evAyaM.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 2. Now it can also be perceived by the senses that the (father) has been reproduced separately (in the son); for the likeness (of a father and of a son) is even visible, only (their) bodies are different.
@@ -55,17 +64,22 @@ title = "२४ गृहस्थ-श्रेष्ठता"
 **टीका**  
 अपि च स एवाऽय पृथग्विरूढः प्रत्यक्षेणोपलभ्यते । स एव द्विधाभूत इव लक्ष्यते । दृश्यते हि सारूप्यं द्वयोः । देहमात्रं तु भिन्नम् । देहत्वमिति स्वार्थिकस्त्वः ॥ २॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/24/03_te_shiShTeShu_karmasu.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 ते शिष्टेषु कर्मसु वर्तमानाः पूर्वेषां सांपरायेण कीर्तिं स्वर्गं च वर्धयन्ति ३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/24/03_te_shiShTeShu_karmasu.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 3. 'These (sons) who live, fulfilling the rites taught (in the Veda), increase the fame and heavenly bliss of their departed ancestors.'
@@ -82,17 +96,22 @@ title = "२४ गृहस्थ-श्रेष्ठता"
 **टीका**  
 ते पुत्राश्शिष्टेषु चोदितेषु कर्मसु वर्तमाना अवस्थिताः पूर्वेषां पितृपितामहादीनां साम्परायेण परलोकेन सम्बद्धानां कीर्तिं स्वर्गं च वर्धयन्ति— अस्याऽयं पुत्र एवं कर्मा, अस्याऽयं पौत्र इति । स्वर्गं च वर्धयन्ति । कीर्तिमतां हि स्वर्गवासश्श्रूयते ॥ ३ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/24/04_evamavaro-varaH_pareShAm.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 एवमवरोऽवरः परेषाम् +++(=पूर्विकाणाम्)+++ ४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/24/04_evamavaro-varaH_pareShAm.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 4. 'In this manner each succeeding (generation increases the fame and heavenly bliss) of the preceding ones.'
@@ -106,17 +125,22 @@ title = "२४ गृहस्थ-श्रेष्ठता"
 **टीका**  
 एवमनेन प्रकारेण अवरोऽवर परेषां कीर्तिं स्वर्गं च वर्धयति ॥ ४॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/24/05_A_bhUtasamplavAt_te.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 आ भूतसंप्लवात् ते स्वर्गजितः ५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/24/05_A_bhUtasamplavAt_te.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 5. 'They (the ancestors) live in heaven until the (next) general destruction of created things.'
@@ -130,17 +154,22 @@ title = "२४ गृहस्थ-श्रेष्ठता"
 **टीका**  
 भूतसम्प्लवो महाप्रलयः । आ तस्मात्ते पुत्रिणस्स्वर्गजितो भवन्ति ते च ५
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/24/06_punaH_sarge_bIjArthA.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 पुनः सर्गे बीजार्था भवन्तीति भविष्यत्पुराणे ६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/24/06_punaH_sarge_bIjArthA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 6. At the new creation (of, the world) they become the seed. That has been declared in the Bhaviṣyatpurāṇa. [^1] 
@@ -156,17 +185,22 @@ title = "२४ गृहस्थ-श्रेष्ठता"
 **टीका**  
 प्रलयानन्तरं सर्गः, तत्र संसारस्य बीजार्थाः प्रजार्थाः प्रजापतयो भवन्तीति भविष्यत्पुराणे श्रूयते ॥ ६ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/24/07_athApi_prajApatervachanam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अथापि प्रजापतेर्वचनम् ७
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/24/07_athApi_prajApatervachanam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 7. Now Prajāpati also says,
@@ -180,17 +214,22 @@ title = "२४ गृहस्थ-श्रेष्ठता"
 **टीका**  
 अपि च प्रजापतेरपि वाक्यमस्मिन्नर्थे भवति । गार्हस्थ्यमेव वरिष्ठमिति ॥७॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/24/08_trayIM_vidyAm_brahmacharyam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 त्रयीं विद्यां ब्रह्मचर्यं प्रजातिं श्रद्धां तपो यज्ञमनुप्रदानम् । य एतानि कुर्वते तैरित् सह +++(वयम् प्रजापतयः)+++ स्मो, रजो भूत्वा ध्वंसते ऽन्यत् प्रशंसन्न् इति ८
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/24/08_trayIM_vidyAm_brahmacharyam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 8. 'Those dwell with us who fulfil the following (duties): the study of the three Vedas, the studentship, the procreation of children, faith, religious austerities, sacrifices, and the giving of gifts. He who praises other (duties), becomes dust and peṛṣes.' [^2] 
@@ -206,17 +245,22 @@ title = "२४ गृहस्थ-श्रेष्ठता"
 **टीका**  
 त्रयीं विद्यां त्रयाणां वेदानामध्ययनम् । ब्रह्मचर्यमष्टाचत्वारिंशदादिकम् । प्रजातिं प्रजोत्पादनम् । श्रद्धामास्तिक्यम् । तप उपवासादि । यज्ञमग्निहोत्रादिकं सोमयागान्तम् । अनुप्रदानं अन्तर्वेदि बहिर्वेदि च दानम् । य एतानि कर्माणि कुर्वते, तैरित् तैरेव सह वयं स्मः त एवाऽस्माकं सहायाः। अन्यत्तु ऊर्ध्वरेतसामाश्रमादिकं प्रशंसन् पुरुषो रजः पांसुर्भूत्वा ध्वंसते नश्यति । इतिशब्दो व वनसमाप्त्यर्थः । यथैवं तर्हि शिष्टेषु वर्तमानाः पुत्राः पूर्वेषां कीर्तिं स्वर्गं च वर्धयन्ति, तथा प्रतिषिद्धेषु वर्तमानां अकीर्तिं नरकं च वर्धयेयुः॥८॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/24/09_tatra_ye_pApakRtasta.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तत्र ये पापकृतस्त एव ध्वंसन्ति यथा पर्णं वनस्पतेर्न परान्हिंसन्ति ९
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/24/09_tatra_ye_pApakRtasta.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 9. Those among these (sons) who commit sin, peṛṣ alone, just as the leaf of a tree (which has been attacked by worms falls without injuring its branch or tree). They do not hurt their ancestors.
@@ -233,17 +277,22 @@ title = "२४ गृहस्थ-श्रेष्ठता"
 **टीका**  
 तत्र प्रजासन्ताने ये पापस्य कर्तारः, त एव ध्वंसन्ते न परान् पित्रादीन् हिंसन्ति । यथा यदेव पर्णं वनस्पतेः कीटादिभिर्दूषितं तदेव पतति, न वनस्पतिं शाखान्तरं वा पातयति तद्वत् ॥९॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/24/10_nAsyAsmiMl_loke_karmabhiH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 नास्यास्मिंल् लोके कर्मभिः संबन्धो विद्यते तथा परस्मिन्कर्मफलैः १०
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/24/10_nAsyAsmiMl_loke_karmabhiH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 10. (For) the (ancestor) has no connection with the acts committed (by his descendant) in this world, nor with their results in the next.
@@ -260,17 +309,22 @@ title = "२४ गृहस्थ-श्रेष्ठता"
 **टीका**  
 अस्येति सामान्यापेक्षमेकवचनम् । अस्य पित्रादेः पूर्वपुरुषस्य आस्मिन् लोके पुत्रकृतैः कर्मभिः सम्बन्धो न विद्यते । दृष्टान्तोऽयम् । यथा पुत्रकृतेषु कर्मसु पित्रादेः कर्तृत्वं नाऽस्ति, तथा परस्मिन्नपि लोके कर्मफलैरपि सम्बन्धो नाऽस्तीत्यर्थः॥ १० ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/24/11_tadetena_veditavyam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तदेतेन वेदितव्यम् ११
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/24/11_tadetena_veditavyam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 11. (The truth of) that may be known by the following (reason):
@@ -284,17 +338,22 @@ title = "२४ गृहस्थ-श्रेष्ठता"
 **टीका**  
 यदुक्तं ये पापकृतस्त एव ध्वंसन्ति न परान् हिंसन्तीति तदर्थरूपमेतेन वक्ष्यमाणेन हेतुना वेदितव्यम् ॥ ११ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/24/12_prajApaterRShINAmiti_sargo-yam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 प्रजापतेरृषीणामिति सर्गोऽयम् १२
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/24/12_prajApaterRShINAmiti_sargo-yam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 12. This creation (is the work) of Prajāpati and of the sages.
@@ -308,17 +367,22 @@ title = "२४ गृहस्थ-श्रेष्ठता"
 **टीका**  
 प्रजापतेर्हिरण्यगर्भस्य ऋषीणां च मरीच्यादीनामयं सर्गो देवादिस्तिर्यगन्तः । ते चाऽध्वस्ता एच स्वे स्वे पदे वर्तन्ते । यदि च पुत्राः पापकृतः स्वयं ध्वंसमानाः परानपि ध्वंसयेयुः, सदैतन्नोपपद्यते— पुण्यकृतः सुखेनाऽद्यापि वर्तन्ते इति ॥ १२॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/24/13_tatra_ye_puNyakRtasteShAm.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तत्र ये पुण्यकृतस् तेषां प्रकृतयः परा ज्वलन्त्य +++(= तारारूपेण)+++ उपलभ्यन्ते १३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/24/13_tatra_ye_puNyakRtasteShAm.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 13. The bodies of those (sages) who stay there (in heaven) on account of their merits appear visibly most excellent and brilliant (as, for instance, the constellation of the seven Ṛṣis). [^3] 
@@ -339,17 +403,22 @@ title = "२४ गृहस्थ-श्रेष्ठता"
 
 [^१]: तै० सं० ५.५ १.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/24/14_syAttu_karmAvayavena_tapasA.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 स्यात् तु कर्मावयवेन तपसा वा कश्चित् सशरीरो ऽन्वन्तं लोकं जयति, सङ्कल्पसिद्धिश् च स्यान् - न तु तज् ज्यैष्ठ्यम् आश्रमाणाम् १४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/09/24/14_syAttu_karmAvayavena_tapasA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 14. But even though some (ascetic), whilst still [^4]  in the body, may gain heaven through a portion of (the merit acquired by his former) works or through austerities, and though he may. accomplish (his objects) by his mere wish, still this is no reason to place one order before the other.
@@ -368,6 +437,7 @@ title = "२४ गृहस्थ-श्रेष्ठता"
 इत्यापस्तम्बधर्मसूत्रवृत्तौ द्वितीयप्रश्ने चतुर्विशी कण्डिका॥ १७ ॥
 
 इति चापस्तम्बधर्मसूत्रवृत्तौ हरदत्तमिश्रविरचितायां उज्ज्वलायां द्वितीयप्रश्ने नवमः पटलः ॥९॥
+</details>
 </details>
 
 </div>

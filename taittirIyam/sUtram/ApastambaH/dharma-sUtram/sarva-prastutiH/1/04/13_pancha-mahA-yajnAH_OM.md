@@ -4,12 +4,16 @@ title = "१३ पञ्च-महा-यज्ञाः, ॐ"
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/13/01_devebhyaH_svAhAkAra_A.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 देवेभ्यः स्वाहाकार आ काष्ठात्, पितृभ्यः स्वधाकार ओदपात्रात्, स्वाध्याय इति १
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/04/13/01_devebhyaH_svAhAkAra_A.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 1. The oblation to the gods accompanied by the exclamation Svāhā, which may consist even of a piece of wood only; the offering to the Manes accompanied by the exclamation Svadhā, which may consist even of a vessel with water only; the daily recitation. [^1] 
@@ -38,17 +42,22 @@ title = "१३ पञ्च-महा-यज्ञाः, ॐ"
 
     शिष्टाचारोऽपि ब्रह्मयज्ञो देवयज्ञः, पितृयज्ञो. भूतयज्ञो, मनुष्ययज्ञ, इत्येवम् । न तु ब्राह्मणोक्तेनैव क्रमेणानुष्ठानम्। च. पुस्तके देवयज्ञो, भूतयज्ञः, इति पाठक्रमः ।
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/13/02_pUjA_varNajyAyasA~N_kAryA.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 पूजा वर्णज्यायसां कार्या २
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/04/13/02_pUjA_varNajyAyasA~N_kAryA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 2. Respect must be shown to those who are superior by caste, [^2] 
@@ -71,17 +80,22 @@ title = "१३ पञ्च-महा-यज्ञाः, ॐ"
 
     अत्र प्रथमान्तस्सर्वोऽप्येकवचनान्ततया पठ्यते क. पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/13/03_vRddhatarANA~n_cha.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 वृद्धतराणां च ३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/04/13/03_vRddhatarANA~n_cha.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 3. And also to (persons of the same caste who are) venerable (on account of learning, virtue, and the like).
@@ -104,17 +118,22 @@ title = "१३ पञ्च-महा-यज्ञाः, ॐ"
 
     म० स्मृ० २. १३७. दशमीं गतः नवत्यधिकां अवस्थां गत इत्यर्थः । वर्षाणां शतस्य दशधा विभागे दशम्यवस्था नवत्यधिका भवति ।
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/13/04_hRShTo_darpati_dRpto.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 हृष्टो दर्पति दृप्तो धर्ममतिक्रामति धर्मातिक्रमे खलु पुनर्नरकः ४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/04/13/04_hRShTo_darpati_dRpto.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 4. A man elated (with success) becomes proud, a proud man transgresses the law, but through the transgression of the law hell indeed (becomes his portion).
@@ -137,17 +156,22 @@ title = "१३ पञ्च-महा-यज्ञाः, ॐ"
 
 [^२]: आप० ध० १. २३. ६.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/13/05_na_samAvRtte_samAdesho.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 न समावृत्ते समादेशो विद्यते ५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/04/13/05_na_samAvRtte_samAdesho.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 5. It has not been declared, that orders (may be addressed by the teacher) to a pupil who has returned home. [^3] 
@@ -163,17 +187,22 @@ title = "१३ पञ्च-महा-यज्ञाः, ॐ"
 **टीका**  
 समावृत्तं शिष्यं प्रति आचार्येण समादेशो न देयः-इदं त्वया कर्तव्यमिति । यथा असमावृत्तदशायामाज्ञा दीयते-उदकुम्भमाहरेत्यादि, नैवमिदानीम्। स्वेच्छया करणे न प्रतिषेध्यम् ॥ ५॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/13/06_OMkAraH_svargadvAran_tasmAdbrahmAdhyeShyamANa.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 ॐकारः स्वर्गद्वारं तस्माद्ब्रह्माध्येष्यमाण एतदादि प्रतिपद्येत ६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/04/13/06_OMkAraH_svargadvAran_tasmAdbrahmAdhyeShyamANa.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 6. The syllable 'Om' is the door of heaven. [^4]  Therefore he who is about to study the Veda, shall begin (his lesson) by (pronouncing) it.
@@ -189,17 +218,22 @@ title = "१३ पञ्च-महा-यज्ञाः, ॐ"
 **टीका**  
 ओङ्कारः प्रणवः स्वर्गस्य द्वारमिव । यथा द्वारेण गृहाभ्यन्तरं प्राप्यते तथाऽनेन स्वर्गः ! तम्मात् ब्रह्म वेदं स्वर्गसाधनमध्येष्यमाण एतदादि अनाम्नातमप्योङ्कारमादौ कृत्वा प्रतिपद्येत उपक्रमेताऽध्येतुम् ॥ ६ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/13/07_vikathA~n_chAnyA~N_kRtvaivaM.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 विकथां चान्यां कृत्वैवं लौकिक्या वाचा व्यावर्तते ब्रह्म ७
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/04/13/07_vikathA~n_chAnyA~N_kRtvaivaM.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 7. If he has spoken anything else (than what refers to the lesson, he shall resume his reading by repeating the word 'Om'). Thus the Veda is separated from profane speech.
@@ -214,17 +248,22 @@ title = "१३ पञ्च-महा-यज्ञाः, ॐ"
 अध्ययने ऽनुपयुक्ता कथा विकथा ।  
 तां चान्यां कृत्वा एतदादि प्रतिपद्येत । एवं सति ब्रह्म वेदः लौकिक्या वाचा व्यावर्तते तया मिश्रितं न भवति ॥७॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/13/08_yajneShu_chaitadAdayaH_prasavAH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 यज्ञेषु चैतदादयः प्रसवाः ८
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/04/13/08_yajneShu_chaitadAdayaH_prasavAH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 8. And at sacrifices the orders (given to the priests) are headed by this word.
@@ -245,17 +284,22 @@ title = "१३ पञ्च-महा-यज्ञाः, ॐ"
 
     सोमयागे उद्गातृप्रस्तोतृप्रतिहर्ताख्यान् छन्दोगान् प्रति गुणिनिष्ठगुणाभिधानरूपस्तोत्रारम्भार्थध्वर्युणाऽनुज्ञादानमिदम् ।
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/13/09_loke_cha_bhUtikarmasvetadAdInyeva.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 लोके च भूतिकर्मस्वेतदादीन्येव वाक्यानि स्युर्यथा पुण्याहं स्वस्त्यृद्धिमिति ९
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/04/13/09_loke_cha_bhUtikarmasvetadAdInyeva.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 9. And in common life, at the occasion of ceremonies performed for the sake of welfare, the sentences shall be headed by this word, as, for instance, '(Om) an auspicious day,' '(Om) welfare,' '(Om) prosperity.' [^5] 
@@ -283,17 +327,22 @@ title = "१३ पञ्च-महा-यज्ञाः, ॐ"
 
     ॐ कर्मण ऋद्धिं इति क. पु
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/13/10_nAsamayena_kRchChra~N_kurvIta.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 नासमयेन कृच्छ्रं कुर्वीत त्रिःश्रावणं त्रिःसहवचनमिति परिहाप्य १०
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/04/13/10_nAsamayena_kRchChra~N_kurvIta.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 10. Without a vow of obedience (a pupil) shall not study (nor a teacher teach) a difficult (new book) with the exception of (the texts called) Triḥsrāvaṇa and Tr.ihsahavacana. [^6] 
@@ -314,17 +363,23 @@ title = "१३ पञ्च-महा-यज्ञाः, ॐ"
 
 [^४]: म० स्मृ० २. ११२.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/13/11_avichikitsA_yAvadbrahma_nigantavyamiti.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अविचिकित्सा यावद् ब्रह्म निगन्तव्यम् इति हारीतः ११ +++(????)+++
+
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/04/13/11_avichikitsA_yAvadbrahma_nigantavyamiti.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 11. Hārita declares, that the (whole) Veda must be studied under a vow of obedience until there is no doubt (regarding it in the mind of the pupil). [^7] 
@@ -340,17 +395,22 @@ title = "१३ पञ्च-महा-यज्ञाः, ॐ"
 **टीका**  
 विचिकित्सा संशयः। तदभावोऽविचिकित्सा सा यावदुत्पद्यते तावद्ब्रह्म निगन्तव्यं नियमपूर्वमधिगन्तव्यमिति हारीतः आचार्यो मन्यते । अत्र पक्षे त्रिःश्रावणत्रिस्सहवचनयोरपि शुश्रूषितव्यम् । ब्रह्मग्रहणादङ्गेषु नायं विधिः ॥ ११ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/13/12_na_bahirvede_gatirvidyate.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 न बहिर्वेदे गतिर्विद्यते १२
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/04/13/12_na_bahirvede_gatirvidyate.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 12. No obedience is due (to the teacher for teaching) works which do not belong to the Veda.
@@ -364,17 +424,22 @@ title = "१३ पञ्च-महा-यज्ञाः, ॐ"
 **टीका**  
 वेदाद्बहिर्भूते काव्यनाटकादिश्रवणे । गतिः शुश्रूषा न विद्यते यद्यपि तदुपयुक्तं वेदार्थज्ञाने ॥ १२ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/13/13_samAdiShTamadhyApayantaM_yAvadadhyayanamupasangRhNIyAt.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 समादिष्टमध्यापयन्तं यावदध्ययनमुपसंगृह्णीयात् १३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/04/13/13_samAdiShTamadhyApayantaM_yAvadadhyayanamupasangRhNIyAt.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 13. (A student) shall embrace the feet of a person, who teaches him at the request of his (regular teacher), as long as the instruction lasts. [^8] 
@@ -396,17 +461,22 @@ title = "१३ पञ्च-महा-यज्ञाः, ॐ"
 
 [^३]: तत इति क.पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/13/14_nityamarhantamityeke.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 नित्यमर्हन्तमित्येके १४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/04/13/14_nityamarhantamityeke.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 14. Some (declare, that he shall also) always, (if the substitute is) a worthy person. [^9] 
@@ -426,17 +496,22 @@ title = "१३ पञ्च-महा-यज्ञाः, ॐ"
 
     विद्यासदाचारादिना इति नास्ति ख. पु
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/13/15_na_gatir_vidyate.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 न गतिर् +++(=शुश्रूषा)+++ विद्यते १५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/04/13/15_na_gatir_vidyate.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 15. But obedience (as towards the teacher) is not required (to be shown towards such a person).
@@ -450,17 +525,22 @@ title = "१३ पञ्च-महा-यज्ञाः, ॐ"
 **टीका**  
 यद्यसावर्हन् भवति तथाप्याचार्ये या गतिःशुश्रषा सा तस्मिन्न् कर्तव्या ॥ १५ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/13/16_vRddhAnAn_tu.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 वृद्धानां तु १६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/04/13/16_vRddhAnAn_tu.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 16. And (pupils) older (than their teacher need not show him obedience). [^10] 
@@ -476,17 +556,22 @@ title = "१३ पञ्च-महा-यज्ञाः, ॐ"
 **टीका**  
 तुश्चार्थे । वृद्धानां चान्तेवासिनां न गतिर्विद्यते । पूर्ववयसाऽन्ते वासिना अवरवया आचार्यो न शुश्रूषितव्यः। अध्ययनादूर्ध्वमित्येके । अध्ययनकालेऽपीत्यन्ये । केचिदवरवयसाऽप्यन्तेवासिना न वार्धके गतिः कर्तव्येत्याहुः ॥ १६ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/13/17_brahmaNi_mitho_viniyoge.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 ब्रह्मणि मिथो विनियोगे न गतिर्विद्यते १७
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/04/13/17_brahmaNi_mitho_viniyoge.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 17. If (two persons) teach each other mutually (different redactions of) the Veda, obedience (towards each other) is not ordained for them.
@@ -500,17 +585,22 @@ title = "१३ पञ्च-महा-यज्ञाः, ॐ"
 **टीका**  
 ब्रह्मणि वेदविषये यदा मिथो विनियोगः क्रियते बह्वृचो यजुर्वेदिनः सकाशाद्यजुर्वेदमधीते सोऽपि तस्मादृग्वेदम् । तदाऽपि परस्परं शुश्रूषा न कर्तव्या ॥ १७ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/13/18_brahma_vardhata_ityupadishanti.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 ब्रह्म वर्धत इत्युपदिशन्ति १८
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/04/13/18_brahma_vardhata_ityupadishanti.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 18. (For) the (wise) say, 'The Veda-knowledge (of either of them) grows.'
@@ -527,17 +617,22 @@ title = "१३ पञ्च-महा-यज्ञाः, ॐ"
 **टीका**  
 द्वयोरपि ब्रह्म वर्धते । सैव ब्रह्मवृद्धि' शुश्रूषेत्युपदिशन्त्याचार्याः ॥१८॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/13/19_niveshe_vRtte_saMvatsare.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 निवेशे वृत्ते संवत्सरे संवत्सरे द्वौ द्वौ मासौ समाहित आचार्यकुले वसेद्भूयः श्रुतमिच्छन्न् इति श्वेतकेतुः १९
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/04/13/19_niveshe_vRtte_saMvatsare.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 19. Śvetaketu declares, 'He who desires to study more, after having settled (as a householder), shall dwell two months every year, with collected mind, in the house of his teacher,'
@@ -551,17 +646,22 @@ title = "१३ पञ्च-महा-यज्ञाः, ॐ"
 **टीका**  
 भूयःश्रवणमिच्छन् पुरुषो निवेशे दारकर्मणि वृत्तेऽपि प्रतिसंवत्सरं द्वौद्वौ मासौ समाहितो भूत्वाऽचार्यकुले वसेदिति श्वेतकेतुराचार्यो मन्यते ॥ १९ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/13/20_etena_hyahaM_yogena.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 एतेन ह्यहं योगेन भूयः पूर्वस्मात्कालाच्छ्रुतमकुर्वीति २०
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/04/13/20_etena_hyahaM_yogena.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 20. (And he adds), 'For by this means I studied a larger part of the Veda than before, (during my studentship.)'
@@ -580,17 +680,22 @@ title = "१३ पञ्च-महा-यज्ञाः, ॐ"
 
 [^१]: अधिकतर इति ख. पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/13/21_tachChAstrairvipratiShiddham.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तच्छास्त्रैर्विप्रतिषिद्धम् २१
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/04/13/21_tachChAstrairvipratiShiddham.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 21. That is forbidden by the Śāstras.
@@ -604,17 +709,22 @@ title = "१३ पञ्च-महा-यज्ञाः, ॐ"
 **टीका**  
 तदिदं श्वेतकेतोर्वचनं श्रुत्यादिभिः शास्त्रैर्विरुद्धम् ॥ २१ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/13/22_niveshe_hi_vRtte.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 निवेशे हि वृत्ते नैयमिकानि श्रूयन्ते २२
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/04/13/22_niveshe_hi_vRtte.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 22. For after the student has settled as a householder, he is ordered by the Veda, to perform the daily rites,
@@ -632,6 +742,7 @@ title = "१३ पञ्च-महा-यज्ञाः, ॐ"
 हिशब्दो हेतौ । यस्मात् निवेशे वृत्ते नैयमिकानि नियमेन कर्तव्यानि नित्यानि कर्माणि श्रूयन्ते ॥ २२ ॥  
 
 ॥ इति त्रयोदशी कण्डिका ॥
+</details>
 </details>
 
 </div>

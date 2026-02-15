@@ -4,12 +4,16 @@ title = "१४ दायः, पुत्रः"
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/14/01_jIvanputrebhyo_dAyaM_vibhajetsama~N.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 जीवन्पुत्रेभ्यो दायं विभजेत्समं क्लीबमुन्मत्तं पतितं च परिहाप्य १
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/14/01_jIvanputrebhyo_dAyaM_vibhajetsama~N.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 1. He should, during his lifetime, divide his wealth equally amongst his sons, excepting the eunuch, the mad man, and the outcast. [^1] 
@@ -45,17 +49,22 @@ title = "१४ दायः, पुत्रः"
 
 [^४]: म०स्मृ० ९.१११. वचनात् इति. क.घ. पुस्तकयोः ।
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/14/02_putrAbhAve_yaH_pratyAsannaH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 पुत्राभावे यः प्रत्यासन्नः सपिण्डः २
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/14/02_putrAbhAve_yaH_pratyAsannaH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 2. On failure of sons the nearest Sapiṇḍa (takes the inheritance). [^2] 
@@ -371,17 +380,22 @@ title = "१४ दायः, पुत्रः"
 [^८१]: या० स्मृ० २. १३८, १३९,  
 [^८२]: पितैवेति वयम् इति च. पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/14/03_tadabhAva_AchArya_AchAryAbhAve-ntevAsI.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तदभाव आचार्य आचार्याभावेऽन्तेवासी हृत्वा तदर्थेषु धर्मकृत्येषु वोपयोजयेत् ३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/14/03_tadabhAva_AchArya_AchAryAbhAve-ntevAsI.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 3. On failure of them the spiritual teacher (inherits); on failure of the spiritual teacher a pupil shall take (the deceased's wealth), and use it for religious works for the (deceased's) benefit, or (he himself may enjoy it);
@@ -396,17 +410,22 @@ title = "१४ दायः, पुत्रः"
 सपिण्डाभावे आचार्यो दायं हरेत् । तस्याऽप्यभावे अन्तेवासी हरेत् । हृत्वा तदर्थेषु धर्मकृत्येषु तडागखननादिषूपयोजयेत् । वाशब्दात् स्वयं वा
 उपयुञ्जीत ॥३॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/14/04_duhitA_vA.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 दुहिता वा ४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/14/04_duhitA_vA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 4. Or the daughter (may take the inheritance). [^3] 
@@ -422,17 +441,22 @@ title = "१४ दायः, पुत्रः"
 **टीका**  
 दुहिता वा दायं हरेत् । पुत्राभाव इत्येके । अनन्तरोक्ते विषय इत्यन्ये ॥४॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/14/05_sarvAbhAve_rAjA_dAyaM.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 सर्वाभावे राजा दायं हरेत ५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/14/05_sarvAbhAve_rAjA_dAyaM.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 5. On failure of all (relations) let the king take the inheritance. [^4] 
@@ -448,17 +472,22 @@ title = "१४ दायः, पुत्रः"
 **टीका**  
 सर्वग्रहणात् बन्धूनां सगोत्राणां चाऽप्यभावे ॥५॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/14/06_jyeShTho_dAyAda_ityeke.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 ज्येष्ठो दायाद इत्येके ६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/14/06_jyeShTho_dAyAda_ityeke.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 6. Some declare, that the eldest son alone inherits. [^5] 
@@ -476,17 +505,22 @@ title = "१४ दायः, पुत्रः"
 
 [^३]: गौ०ध० २८.३.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/14/07_deshavisheShe_suvarNamkRShNA_gAvaH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 देशविशेषे सुवर्णङ्कृष्णा गावः कृष्णं भौमं ज्येष्ठस्य ७
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/14/07_deshavisheShe_suvarNamkRShNA_gAvaH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 7. In some countries gold, (or) black cattle, (or) black produce of the earth is the share of the eldest. [^6] 
@@ -502,17 +536,22 @@ title = "१४ दायः, पुत्रः"
 **टीका**  
 क्वचिद्देशे सुवर्णादि ज्येष्ठस्य भाग इत्याहुः । भूमौ जातं भौमं धान्यं कृष्णं माषादि कृष्णायसमित्यन्ये ॥ ७॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/14/08_rathaH_pituH_parIbhANDa~n.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 रथः पितुः परीभाण्डं च गृहे ८
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/14/08_rathaH_pituH_parIbhANDa~n.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 8. The chariot and the furniture in the house are the father's (share). [^7] 
@@ -530,17 +569,22 @@ title = "१४ दायः, पुत्रः"
 
 [^१]: एतदनन्तरं 'उपलक्षणमेतत् वाहनस्य' इत्यधिकं घ.पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/14/09_alankAro_bhAryAyA_jnAtidhana~n.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अलंकारो भार्याया ज्ञातिधनं चेत्येके ९
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/14/09_alankAro_bhAryAyA_jnAtidhana~n.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 9. According to some, the share of the wife consists of her ornaments, and the wealth (which she may have received) from her relations. [^8] 
@@ -558,17 +602,22 @@ title = "१४ दायः, पुत्रः"
 
 - * एतचिह्नानन्तरं यतोऽपि नानुवादः। ॥ ११॥ स्पष्टम् ॥ इत्यधिकपाठो दृश्यते छ. पुस्तके।
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/14/10_tachChAstrairvipratiShiddham.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तच्छास्त्रैर्विप्रतिषिद्धम् १०
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/14/10_tachChAstrairvipratiShiddham.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 10. That (preference of the eldest son) is forbidden by the Śāstras. [^9] 
@@ -584,17 +633,22 @@ title = "१४ दायः, पुत्रः"
 **टीका**  
 ज्येष्ठो दायद इति यदुक्तं तच्छास्त्रैर्विरुद्धम् ॥ १० ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/14/11_manuH_putrebhyo_dAyaM.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 मनुः पुत्रेभ्यो दायं व्यभजदित्यविशेषेण श्रूयते ११
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/14/11_manuH_putrebhyo_dAyaM.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 11. For it is declared in the Veda, without (marking) a difference (in the treatment of the sons): Manu divided his wealth amongst his sons. [^10] 
@@ -617,17 +671,22 @@ title = "१४ दायः, पुत्रः"
 
     मनुः पुत्रेभ्यो दायं व्यभजत् स नाभानेदिष्ठं ब्रह्मचर्यं वसन्तं निरभजत इति (तै.स. ३. १.९.) तत्तिरीयश्रुतौ श्रूयते । तत्र पुत्रेभ्य इत्यविशेषेणैव विभागः श्रुतः । न तु ज्येष्ठस्य विशेषोऽभिहित इत्यर्थः । 'नाभानेदिष्ठः' इति मनुपुत्रस्य कस्यचिन्नाम । अस्यैव नाभाग इति संज्ञा । अस्य कथा भागवते (९ ४.) अनुसन्धेया ।
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/14/12_athApi_tasmAdjyeShTham_putran.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अथापि तस्माद्ज्येष्ठं पुत्रं धनेन निरवसाययन्तीत्येकवच्छ्रुयते १२
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/14/12_athApi_tasmAdjyeShTham_putran.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 12. Now the Veda declares also in conformity with (the rule in favour of the eldest son) alone: They distinguish the eldest by (a larger share of) the heritage. [^11] 
@@ -648,17 +707,22 @@ title = "१४ दायः, पुत्रः"
 
 [^३]: तत्रैव तैत्तिरीयश्रुतौ (तै०सं० २. ५. २.)
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/14/13_athApi_nityAnuvAdamavidhimAhurnyAyavido_yathA.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 +++(समाधानम् -)+++ अथापि नित्यानुवादमविधिमाहुर्न्यायविदो, यथा - "तस्मादजावयः पशूनां सह चरन्तीति" "तस्मात्स्नातकस्य मुखं रेभायतीव" "तस्माद्बस्तश्च श्रोत्रियश्चस्त्रीकामतमाविति" १३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/14/13_athApi_nityAnuvAdamavidhimAhurnyAyavido_yathA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 13. (But to this plea in favour of the eldest I answer): Now those who are acquainted with the interpretation of the law declare a statement of facts not to be a rule, as for instance (the following): 'Therefore amongst cattle, goats and sheep walk together;' (or the following), 'Therefore the face of a learned Brāhmaṇa (a Snātaka) is, as it were, resplendent;' (or), 'A Brāhmaṇa who has studied the Vedas (a Śrotriya) and a he-goat evince the strongest sexual desires.' [^12] 
@@ -677,17 +741,22 @@ title = "१४ दायः, पुत्रः"
 **टीका**  
 अथापीति परिहारोपक्रमे । पशूनां मध्ये अजाश्चाऽवयवश्च जातिभेदेऽपि सह चरन्ति । रेफा शोभा । इह तु तद्वत्यभेदोपचारः। ततः क्यप् । स्नातकस्य मुखं कुण्डलादिना शोभते । इवशब्दो वाक्यालङ्कारे । श्रोत्रियस्य स्त्रीकामतमत्वमाचार्यकुले चिरकालं ब्रह्मचारिवासात्। यथैतानि वाक्यानि दृष्टान्तमात्रमनुवदन्ति न किञ्चिाद्विदधति तस्मात् 'ज्येष्ठं पुत्र'मित्यादिकमप्यविधिरिति न्यायविद आहुः । न केवलमयमेवानुवादः, किं तर्हि 'मनुः पुत्रेभ्य' इत्ययमप्यनुवाद एव ॥ १३ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/14/14_sarve_hi_dharmayuktA.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 सर्वे हि धर्मयुक्ता भागिनः १४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/14/14_sarve_hi_dharmayuktA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 14. Therefore all (sons) who are virtuous inherit.
@@ -701,17 +770,22 @@ title = "१४ दायः, पुत्रः"
 **टीका**  
 हिशब्दो हेतौ। यस्मादेवाऽनुवादौ न कस्यचिद्विधायकौ तस्माद्ये धर्मयुक्ताः पुत्रास्सर्व एते भागिनः ॥ १४ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/14/15_yastvadharmeNa_dravyANi_pratipAdayati.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 यस्त्वधर्मेण द्रव्याणि प्रतिपादयति +++(=व्ययीकरोति)+++ ज्येष्ठोऽपि तमभागं कुर्वीत १५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/14/15_yastvadharmeNa_dravyANi_pratipAdayati.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 15. But him who expends money unrighteously, he shall disinherit, though he be the eldest son. [^13] 
@@ -729,17 +803,22 @@ title = "१४ दायः, पुत्रः"
 
 [^१]: विभागेऽपि भ्रातर इति. च. पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/14/16_jAyApatyor_na_vibhAgo.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 जाया-पत्योर् न विभागो विद्यते १६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/14/16_jAyApatyor_na_vibhAgo.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 16. No division takes place between husband and wife. [^14] 
@@ -760,17 +839,22 @@ title = "१४ दायः, पुत्रः"
 
 [^२]: इत्यत्र भार्याया भागो न दर्शितः। इति घ.पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/14/17_pANigrahaNAddhi_sahatva~N_karmasu.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 पाणिग्रहणाद्धि सहत्वं कर्मसु १७
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/14/17_pANigrahaNAddhi_sahatva~N_karmasu.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 17. For, from the time of marriage, they are united in religious ceremonies,
@@ -787,17 +871,22 @@ title = "१४ दायः, पुत्रः"
 **टीका**  
 कर्मार्थं द्रव्यम् । जायायाश्च न पृथक्कर्मस्वधिकारः । किं तर्हि ? सहभावेन-'यस्त्वया धर्मश्च कर्तव्यस्सोऽनया सहति वचनात् । तत्र किं पृथक् द्रव्येणेति ॥ १७ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/14/18_tathA_puNyaphaleShu.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तथा पुण्यफलेषु १८
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/14/18_tathA_puNyaphaleShu.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 18. Likewise also as regards the rewards for works by which spiritual merit is acquired,
@@ -815,17 +904,22 @@ title = "१४ दायः, पुत्रः"
 
 [^४]: तै० ब्रा० ३. ७.५, ११.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/14/19_dravyaparigraheShu_cha.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 द्रव्यपरिग्रहेषु च १९
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/14/19_dravyaparigraheShu_cha.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 19. And with respect to the acquisition of property.
@@ -839,17 +933,22 @@ title = "१४ दायः, पुत्रः"
 **टीका**  
 द्रव्यपरिग्रहेषु च द्रव्यार्जनेष्वपि तथा सहत्वमेव । तत्र पतिरार्जयति, जाया गृहे निर्वहतीति योगक्षेमावुभयायत्ताविति द्रव्यपरिग्रहेऽपि सहत्वम् ॥ १९ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/14/20_na_hi_bharturvipravAse.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 न हि भर्तुर्विप्रवासे नैमित्तिके दाने स्तेयमुपदिशन्ति २०
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/14/20_na_hi_bharturvipravAse.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 20. For they declare that it is not a theft if a wife spends money on occasions (of necessity) during her husband's absence. [^15] 
@@ -870,6 +969,7 @@ title = "१४ दायः, पुत्रः"
 राष्ट्रे । अत एव भार्यायास्स्तेयशङ्का, न भर्तुः ॥ २० ॥  
 
 इत्यापस्तम्बधर्मसूत्रवृत्तौ द्वितीयप्रश्ने चतुर्दशी कण्डिका ॥ १४ ॥
+</details>
 </details>
 
 </div>

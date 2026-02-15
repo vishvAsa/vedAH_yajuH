@@ -4,12 +4,16 @@ title = "२१ पतनीयानि, अशुचिकराणि"
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/01_munjabalbajairmUlaphalaiH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 मुञ्जबल्बजैर्मूलफलैः १
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/07/21/01_munjabalbajairmUlaphalaiH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 1. With Muñja-grass, Balbaja-grass (and articles made of them), roots, and fruits,
@@ -23,17 +27,22 @@ title = "२१ पतनीयानि, अशुचिकराणि"
 **टीका**  
 मुञ्जबल्वजास्तृणविशेषाः ॥ १ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/02_tRNakAShThairavikRtaiH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तृणकाष्ठैरविकृतैः २
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/07/21/02_tRNakAShThairavikRtaiH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 2. And with (other kinds of) grass and wood which have not been worked up (into objects of use). [^1] 
@@ -49,17 +58,22 @@ title = "२१ पतनीयानि, अशुचिकराणि"
 **टीका**  
 तृणानां विकारो रज्ज्वादिभावः । काष्ठानां विकारः स्थूणादिभावः । तृणत्वादेव सिद्धे मुञ्जबल्वजग्रहणं विकारार्थम् ॥ २॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/03_nAtyantamanvavasyet.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 नात्यन्तमन्ववस्येत् ३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/07/21/03_nAtyantamanvavasyet.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 3. He shall not be too eager (after such a livelihood).
@@ -79,17 +93,22 @@ title = "२१ पतनीयानि, अशुचिकराणि"
 
 [^६]: म० स्मृ० १०-१०४
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/04_vRttim_prApya_viramet.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 वृत्तिं प्राप्य विरमेत् ४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/07/21/04_vRttim_prApya_viramet.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 4. If he obtains (another lawful) livelihood, he shall leave off (trading). [^2] 
@@ -105,17 +124,22 @@ title = "२१ पतनीयानि, अशुचिकराणि"
 **टीका**  
 गतम् ॥४॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/05_na_patitaiH_saMvyavahAro.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 न पतितैः संव्यवहारो विद्यते ५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/07/21/05_na_patitaiH_saMvyavahAro.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 5. Intercourse with fallen men is not ordained, [^3] 
@@ -136,17 +160,22 @@ title = "२१ पतनीयानि, अशुचिकराणि"
 
 [^१]: म० स्मृ० ११.१८०
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/06_tathApapAtraiH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तथापपात्रैः ६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/07/21/06_tathApapAtraiH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 6. Nor with Apapātras. [^4] 
@@ -162,17 +191,22 @@ title = "२१ पतनीयानि, अशुचिकराणि"
 **टीका**  
 अपपात्राश्चण्डालादयः । तैश्च संव्यवहारो न कर्तव्यः ॥ ६ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/07_atha_patanIyAni.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अथ पतनीयानि+++(←द्विजातिकर्मभ्यो हानिः पतनम्)+++ ७
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/07/21/07_atha_patanIyAni.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 7. Now (follows the enumeration of) the actions which cause loss of caste (Patanīya).
@@ -186,21 +220,26 @@ title = "२१ पतनीयानि, अशुचिकराणि"
 **टीका**  
 द्विजातिकर्मभ्यो हानिः पतनं, तस्य निमित्तानि कर्माणि वक्ष्यन्ते ॥७॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/08_steyam_AbhishastyaM_.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
 
 स्तेयम्, आभिशस्त्यं +++(←ब्रह्महत्यादिभिर् वक्ष्यमाणैः)+++,  
 पुरुष-वधो, ब्रह्मोज्झं+++(=वेद-त्यागः)+++,  
 गर्भ-शातनम्,  
 मातुः पितुर् इति योनि-संबन्धे सहापत्ये स्त्री-गमनं,  
 सुरा-पानम्, असंयोग-संयोगः ८
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/07/21/08_steyam_AbhishastyaM_.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 8. (These are) stealing (gold), crimes whereby one becomes an Abhiśasta, homicide, neglect of the Vedas, causing abortion, incestuous connection with relations born from the same womb as one's mother or father, and with the offspring of such persons, drinking spirituous liquor, and intercourse with persons the intercourse with whom is forbidden. [^5] 
@@ -221,18 +260,23 @@ title = "२१ पतनीयानि, अशुचिकराणि"
 
 [^२]: म० स्मृ० ११ ९४.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/09_gurvIsakhi~N_gurusakhi~n_cha.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 गुर्वी-सखिं गुरु-सखिं च गत्वा  
 ऽन्यांश् च पर-तल्पान् ९
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/07/21/09_gurvIsakhi~N_gurusakhi~n_cha.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 9. That man falls who has connection with a female friend of a female Guru, or with a female friend of a male Guru, or with any married woman. [^6] 
@@ -248,17 +292,22 @@ title = "२१ पतनीयानि, अशुचिकराणि"
 **टीका**  
 सखीशब्दस्य छान्दसो ह्रस्वः । गुर्वीसखी मात्रादीनां सखी। गुरुसखी पित्रादिनां सखी तां गत्वा । किम् ? पततीत्युत्तरत्र श्रुतमपेक्ष्यते। अन्याश्च परतल्पान् गत्वा पतति । तल्पशब्देन शपयनवाचिना दारा लक्ष्यन्ते ॥९॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/10_nAgurutalpe_patatItyeke.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 नागुरुतल्पे पततीत्येके १०
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/07/21/10_nAgurutalpe_patatItyeke.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 10. Some (teachers declare), that he does not fall by having connection with any other married female except his teacher's wife. [^7] 
@@ -274,17 +323,22 @@ title = "२१ पतनीयानि, अशुचिकराणि"
 **टीका**  
 गुरुदारव्यतिरेकेण परतल्पगमने पातित्यं नास्तीत्येके मन्यन्ते । यद्यपि सामान्येन पतनीयानीत्युक्तम् , प्रायश्चित्ते तु गुरुलघुभावो द्रष्टव्यः ॥१०॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/11_adharmANAn_tu_satatam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अधर्माणां तु सततम् आचारः ११
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/07/21/11_adharmANAn_tu_satatam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 11. Constant commission of (other) sins (besides those enumerated above) also causes a man to lose his caste.
@@ -298,17 +352,22 @@ title = "२१ पतनीयानि, अशुचिकराणि"
 **टीका**  
 तुश्चार्थे । उक्तव्यतिरिक्तानामप्यधर्माणां सततमाचारः पतनहेतुः ॥११॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/12_athAshuchikarANi.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अथाशुचिकराणि १२
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/07/21/12_athAshuchikarANi.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 12. Now follows (the enumeration of) the acts which make men impure (Asucikara).
@@ -322,17 +381,22 @@ title = "२१ पतनीयानि, अशुचिकराणि"
 **टीका**  
 अशुचिं पुरुषं कुर्वन्तीत्यशुचिकराणि, तानि वक्ष्यन्ते ॥ १२ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/13_shUdragamanamAryastrINAm.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 शूद्र-गमनम् आर्य-स्त्रीणाम् १३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/07/21/13_shUdragamanamAryastrINAm.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 13. (These are) the cohabitation of Aryan women with Śūdras,
@@ -346,17 +410,22 @@ title = "२१ पतनीयानि, अशुचिकराणि"
 **टीका**  
 त्रैवर्णिकस्त्रीणां शूद्रगमनमशुचिकरम् ॥ १३ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/14_pratiShiddhAnAm_mAMsabhaxaNam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 प्रतिषिद्धानां मांस-भक्षणम् १४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/07/21/14_pratiShiddhAnAm_mAMsabhaxaNam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 14. Eating the flesh of forbidden (creatures),
@@ -370,18 +439,23 @@ title = "२१ पतनीयानि, अशुचिकराणि"
 **टीका**  
 येषां मांसं प्रतिषिद्धं तेषां मांसस्य भक्षणमशुचिकरम् ॥ १४ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/15_shuno_manuShyasya_cha.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 +++(यथा -)+++ शुनो मनुष्यस्य च  
 कुक्कुट-सूकराणां ग्राम्याणां, क्रव्यादसाम् १५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/07/21/15_shuno_manuShyasya_cha.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 15. As of a dog, a man, village cocks or pigs, carnivorous animals,
@@ -398,17 +472,22 @@ title = "२१ पतनीयानि, अशुचिकराणि"
 **टीका**  
 ग्राम्याणामिति वचनादारण्यानामप्रतिषेधः । अदनमदः, भावेऽसुन्प्रत्ययः । क्रव्यविषयमदनं येषां ते क्रव्यादसः केवलं मांसवृत्तयो गृध्रादयः ॥ १५ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/16_manuShyANAm_mUtrapurIShaprAshanam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 मनुष्याणां मूत्र-पुरीष-प्राशनम् १६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/07/21/16_manuShyANAm_mUtrapurIShaprAshanam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 16. Eating the excrements of men,
@@ -422,18 +501,23 @@ title = "२१ पतनीयानि, अशुचिकराणि"
 **टीका**  
 मूत्रपुरीषग्रहणं तादृशस्य रेतसोऽप्युपलक्षणम् ॥ १६ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/17_shUdrochChiShTamapapAtrAgamana~n_chAryANAm.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 शूद्रोच्छिष्टम्,  
 +++(प्रतिलोमाद्य्-)+++अपपात्रा-गमनं चार्याणाम् १७
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/07/21/17_shUdrochChiShTamapapAtrAgamana~n_chAryANAm.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 17. Eating what is left by a Śūdra, the cohabitation of Aryans with Apapātra women.
@@ -447,17 +531,22 @@ title = "२१ पतनीयानि, अशुचिकराणि"
 **टीका**  
 शूद्रोच्छिष्टं भुक्तमार्याणां त्रैवर्णिकानामशुचिकरम् । अपपात्राः प्रतिलोमस्त्रियः तासां च गमनम् ॥ १७॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/18_etAnyapi_patanIyAnItyeke.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 एतान्यपि पतनीयानीत्य् एके १८
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/07/21/18_etAnyapi_patanIyAnItyeke.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 18. Some declare, that these acts also cause a man to lose his caste.
@@ -471,17 +560,22 @@ title = "२१ पतनीयानि, अशुचिकराणि"
 **टीका**  
 यान्येतान्यशुचिकरत्वेनाऽनुक्रान्तानि एतान्यपि पतनीयान्येवेत्येके मन्यन्ते ॥१८॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/19_ato-nyAni_doShavantyashuchikarANi_bhavanti.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अतोऽन्यानि दोषवन्त्य् अशुचिकराणि भवन्ति १९
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/07/21/19_ato-nyAni_doShavantyashuchikarANi_bhavanti.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 19. Other acts besides those (enumerated) are causes of impurity.
@@ -495,19 +589,24 @@ title = "२१ पतनीयानि, अशुचिकराणि"
 **टीका**  
 उक्तव्यतिरिक्तानि दोषवन्ति कर्माणि दुष्प्रतिग्रहहिंसादीनि तान्यशुचिकराणि भवन्ति ॥ १९ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/07/21/20_doSham_buddhvA_na.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 दोषं बुद्ध्वा  
 न पूर्वः परेभ्यः पतितस्य समाख्याने स्याद्,  
 वर्जयेत् त्व् एनं धर्मेषु २०
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/07/21/20_doSham_buddhvA_na.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 20. He who learns (that a man has) committed a sin, shall not be the first to make it known to others; but he shall avoid the (sinner), when performing religious ceremonies. [^8] 
@@ -526,6 +625,7 @@ title = "२१ पतनीयानि, अशुचिकराणि"
 इत्यापस्तम्बधर्मसूत्रवृत्तावेकविंशी कण्डिका ॥ २१ ॥
 
 इति चापस्तम्बधर्मसूत्रवृत्तौ हरदत्तमिश्रविरचितायामुज्ज्वलायां प्रथमप्रश्ने सप्तमः पटल; ॥ ७ ॥
+</details>
 </details>
 
 </div>

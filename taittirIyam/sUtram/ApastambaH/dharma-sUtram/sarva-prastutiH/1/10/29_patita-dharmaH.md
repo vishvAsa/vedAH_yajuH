@@ -3,14 +3,18 @@ title = "२९ पतित-धर्मः"
 +++
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/10/29/01_khaTvAngan_daNDArthe_karmanAmadheyam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 खट्वाङ्गं दण्डार्थे कर्मनामधेयं प्रब्रुवाणश्चङ्क्रम्येत को भ्रूणघ्ने भिक्षामिति । ग्रामे प्राणवृत्तिं प्रतिलभ्य शून्यागारं वृक्षमूलं वाभ्युपाश्रयेन्न हि म आर्यैः संप्रयोगो विद्यते १-१
 
 एतेनैव विधिनोत्तमादुच्छ्वासाच्चरेत् । नास्यास्मिंल् लोके प्रत्यापत्तिर्विद्यते । कल्मषं तु निर्हण्यते १-२  
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/10/29/01_khaTvAngan_daNDArthe_karmanAmadheyam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 1. And he shall take the foot of a bed instead of a staff and, proclaiming the name of his deed, he shall go about (saying), 'Who (gives) alms to the murderer of a Bhrūṇa?' Obtaining thus his livelihood in the village, he shall dwell in an empty house or under a tree, (knowing that) he is not allowed to have intercourse with Aryans. According to this rule he shall act until his last breath. He cannot be purified in this world. But (after death) his sin is taken away.
@@ -38,17 +42,22 @@ title = "२९ पतित-धर्मः"
 
 [^२१]: श्रुतिधारी इति क० पु०
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/10/29/02_yaH_pramatto.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 यः प्रमत्तो हन्ति, प्राप्तं दोषफलम् २
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/10/29/02_yaH_pramatto.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 2. He even who slays unintentionally, reaps nevertheless the result of his sin.
@@ -62,17 +71,22 @@ title = "२९ पतित-धर्मः"
 **टीका**  
 'क्षत्रियं हत्वे'त्येवमादिकेऽनुक्रान्तेऽपि विषये यः प्रमत्तो हन्ति प्रमादे नाऽबुद्धिपूर्वं हन्ति तस्याऽपि दोषफलं प्राप्तमेव । न तु प्रमादकृतमिति दोषाभावः ॥२॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/10/29/03_saha_sankalpena_bhUyaH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 सह संकल्पेन भूयः ३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/10/29/03_saha_sankalpena_bhUyaH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 3. (His guilt is) greater, (if he slays) intentionally.
@@ -86,17 +100,22 @@ title = "२९ पतित-धर्मः"
 **टीका**  
 सङ्कल्पेन सह वधे कृते भूयः प्रभूततरं भवति । तेन प्रमादकृते लघुप्रायश्चित्तम् , बुद्धिपूर्वं तु गुर्विति । यत्पुनः पूर्वमुक्तं 'दोषवच्च कर्माभिसन्धिपूर्वं कृत्वाऽनभिसन्धिपूर्वं वे(२६.७)'ति तत्र तेषु प्रायश्चित्तेषु विशेषाभावादिदमुक्तम् ॥ ३ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/10/29/04_evamanyeShvapi_doShavatsu_karmasu.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 एवमन्येष्वपि दोषवत्सु कर्मसु ४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/10/29/04_evamanyeShvapi_doShavatsu_karmasu.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 4. The same (principle applies) also to other sinful actions,
@@ -110,17 +129,22 @@ title = "२९ पतित-धर्मः"
 **टीका**  
 अन्येष्वपि हननव्यतिरिक्तेषु दोषवत्सु कर्ममु एवमेव द्रष्टव्यम्-अबुद्धिपूर्वं कृतेऽल्पो दोषः , बुद्धिपूर्वे महानिति ॥ ४॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/10/29/05_tathA_puNyakriyAsu.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तथा पुण्यक्रियासु ५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/10/29/05_tathA_puNyakriyAsu.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 5. And also to good works. [^1] 
@@ -136,17 +160,22 @@ title = "२९ पतित-धर्मः"
 **टीका**  
 पुण्यक्रियास्वप्येष एव न्यायः— अबुद्धिपूर्वेऽल्पं फलम्, बुद्धिपूर्वे महदिति। तद्यथा— ब्राह्मणस्स्वान्यपहृत्य चोरेषु धावत्सु यदृच्छया कश्चिच्छूर आगतस्तान् हन्यात्, स्वयमेव वा शूरं दृष्ट्वा चोरा अपहृतानि द्रव्याण्युत्सृज्य पलायेरन् तदा शूरस्याऽल्पं पुण्यफलम् । यदा तु बुद्धिपूर्वं स्वयमेव चोरेभ्यः प्रत्याहृत्य स्वानि स्वामिभ्यो ददाति तदा महदिति । एवं स्वभार्याबुद्ध्या परदारगमनेऽल्पम्, अन्यत्र महदिति ॥५॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/10/29/06_parIxArtho-pi_brAhmaNa_Ayudhan.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 परीक्षार्थोऽपि ब्राह्मण आयुधं नाददीत ६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/10/29/06_parIxArtho-pi_brAhmaNa_Ayudhan.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 6. A Brāhmaṇa shall not take a weapon into his hand, though he be only desirous of examining it.
@@ -160,17 +189,22 @@ title = "२९ पतित-धर्मः"
 **टीका**  
 गुणदोषज्ञानं परीक्षा । तया अर्थः प्रयोजनं यस्य सः । एवंभूतोऽपि ब्राह्मण आयुधं न गृह्णीयात् किं पुनर्हिंसार्थ इत्यपिशब्दार्थः ॥ ७ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/10/29/07_yo_hiMsArthamabhikrAntaM_hanti.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 यो हिंसार्थमभिक्रान्तं हन्ति मन्युरेव मन्युं स्पृशति न तस्मिन्दोष इति पुराणे ७
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/10/29/07_yo_hiMsArthamabhikrAntaM_hanti.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 7. In a Purāṇa (it has been declared), that he who slays an assailant does not sin, for (in that case) wrath meets wrath.
@@ -214,19 +248,24 @@ title = "२९ पतित-धर्मः"
 
 [^४]: व० ध० ३. १६, १७,
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/10/29/08_athAbhishastAH_samavasAya_patitaputreShu.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अथाभिशस्ताः समवसाय  
 पतित-पुत्रेषु चरेयुर् धार्म्यम् इति  
 सांशित्येतरेतर-याजका इतरेतराध्यापका मिथो विवहमानाः ८
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/10/29/08_athAbhishastAH_samavasAya_patitaputreShu.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 8. But Abhiśastas shall live together in dwellings (outside the village); considering this their lawful (mode of life), they shall sacrifice for each other, teach each other, and marry amongst each other.
@@ -243,19 +282,24 @@ title = "२९ पतित-धर्मः"
 **टीका**  
 अथशब्दोऽर्थान्तरप्रस्तावं सूचयति । अभिशस्ताः पतिताः । समवसाय चरेयुः । अवसानं गृहम् । समित्येकीभावे । ग्रामाद्बहिरेकस्मिन् प्रदेशे गृहाणि कृत्वा चरेयुः । धार्म्यं धर्म्ये वक्ष्यमाणं वृत्तमिति । सांशित्य संशितां तीक्ष्णां बुद्धिं कृत्वा । निश्चित्येत्यर्थः । इतरेतरं याजयन्तः । इतरेतरमध्यापयन्तः परस्परं विवाहसम्बन्धं च कुर्वन्तश्चरेयुः वर्तेरन्निति ॥८ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/10/29/09_putrAnsanniShpAdya_brUyurvipra_vrajatatAsmadevaM.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 पुत्रान्संनिष्पाद्य ब्रूयुर् -  
 "विप्रव्रजततास्मद् -  
 एवं ह्य् अस्मत्स्व् आर्याः संप्रत्यपत्स्यते"ति ९
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/10/29/09_putrAnsanniShpAdya_brUyurvipra_vrajatatAsmadevaM.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 9. If they have begot sons, let them. say to them: 'Go out from amongst us, for thus the Āryas, (throwing the guilt) upon us, will receive you (amongst their number).' [^2] 
@@ -276,17 +320,22 @@ title = "२९ पतित-धर्मः"
 
 [^१]: पा० सू० ३. ३. १३२.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/10/29/10_athApi_na_sendri.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अथापि न सेन्द्रि यः पतति १०
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/10/29/10_athApi_na_sendri.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 10. For the organs do not become impure together with the man.
@@ -303,17 +352,22 @@ title = "२९ पतित-धर्मः"
 **टीका**  
 न हि पतितो भवन् सहेन्द्रियेण पतति, पुरुष एव पतति, नेन्द्रियं शुक्लमिति । अथापिशब्दावपि चेत्यस्याऽर्थे ॥ १० ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/10/29/11_tadetena_veditavyam_angahIno.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तदेतेन वेदितव्यम् । अङ्गहीनो हि साङ्गं जनयति ११
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/10/29/11_tadetena_veditavyam_angahIno.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 11. (The truth of) that may be learned from this (parallel case); a man deficient in limbs begets a son who possesses the full number of limbs. [^3] 
@@ -332,17 +386,22 @@ title = "२९ पतित-धर्मः"
 **टीका**  
 तदनन्तरोक्तमर्थरूपमेतेन वक्ष्यमाणेन निदर्शनेन वेदितव्यम् । चक्षुराद्यङ्गहीनोऽपि साङ्गं चक्षुरादिमन्तं जनयति, एवमधिकारविकलः साधिकारं जनयिष्यति । स्त्रिया अपि कारणत्वात् तस्याश्च दोषाभावात् ॥ ११ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/10/29/12_mithyaitaditi_hArItaH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 मिथ्यैतदिति हारीतः १२
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/10/29/12_mithyaitaditi_hArItaH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 12. Hārita declares that this is wrong.
@@ -359,17 +418,22 @@ title = "२९ पतित-धर्मः"
 **टीका**  
 एतदनन्तरोक्तमर्थरूपं मिथ्या न युक्तमिति हारीतो मन्यते ॥ १२॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/10/29/13_dadhidhAnIsadharmA_strI_bhavati.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 दधिधानीसधर्मा स्त्री भवति १३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/10/29/13_dadhidhAnIsadharmA_strI_bhavati.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 13. A wife is similar to the vessel which contains the curds (for the sacrifice). [^4] 
@@ -388,17 +452,22 @@ title = "२९ पतित-धर्मः"
 **टीका**  
 दधि धीयते यस्यां सा दधिधानी स्थाली । तया सधर्मा सदृशी स्त्री भवति ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/10/29/14_yo_hi_dadhidhAnyAmaprayatam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 यो हि दधिधान्यामप्रयतं पय आतच्य मन्थति न तेन धर्मकृत्यं क्रियते । एवमशुचि शुक्लं यन्निवर्तते न तेन सह संप्रयोगो विद्यते १४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/10/29/14_yo_hi_dadhidhAnyAmaprayatam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 14. For if one makes impure milk curdle (by mixing it with whey and water) in a milk-vessel and stirs it, no sacrificial rite can be performed with (the curds produced from) that. Just so no intercourse can be allowed with the impure seed which comes (from an Abhiśasta).
@@ -419,17 +488,22 @@ title = "२९ पतित-धर्मः"
 
 [^१]: व. ध. ३.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/10/29/15_abhIchArAnuvyAhArAvashuchikarAvapatanIyau.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अभीचारानुव्याहारावशुचिकरावपतनीयौ १५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/10/29/15_abhIchArAnuvyAhArAvashuchikarAvapatanIyau.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 15. Sorcery and curses (employed against a Brāhmaṇa) cause a man to become impure, but not loss of caste.
@@ -447,17 +521,22 @@ title = "२९ पतित-धर्मः"
 
 [^३]: पा० सू० ६.३ ११२.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/10/29/16_patanIyAviti_hArItaH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 पतनीयाविति हारीतः १६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/10/29/16_patanIyAviti_hArItaH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 16. Hārita declares that they cause loss of caste.
@@ -471,17 +550,22 @@ title = "२९ पतित-धर्मः"
 **टीका**  
 हारीतस्तु तावपि पतनीयाविति मन्यते ॥ १६ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/10/29/17_patanIyavRttistvashuchikarANAn_dvAdasha_mAsAndvAdashArdhamAsAndvAdasha.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 पतनीयवृत्तिस्त्वशुचिकराणां द्वादश मासान्द्वादशार्धमासान्द्वादश द्वादशाहान्द्वादश सप्ताहान्द्वादश त्र्यहान्द्वादशाहं सप्ताहं त्र्यहमेकाहम् १७
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/10/29/17_patanIyavRttistvashuchikarANAn_dvAdasha_mAsAndvAdashArdhamAsAndvAdasha.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 17. But crimes causing impurity must be expiated, (when no particular penance is prescribed,) by performing the penance enjoined for crimes causing loss of caste during twelve months, or twelve half months, or twelve twelve-nights, or twelve se’nnights, or twelve times three days, or twelve days, or seven days, or three days, or one day.
@@ -495,17 +579,22 @@ title = "२९ पतित-धर्मः"
 **टीका**  
 अशुचिकराणामपि कर्मणां येषामाहत्य प्रायश्चित्तं नोक्तं तेषामपि पतनीयेषु कर्मसु या वृत्तिः प्रायश्चित्तं सैव प्रायश्चित्तिः। कियन्तं कालम् ? द्वादश मासाद्येकाहान्तम् ॥ १७ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/10/29/18_ityashuchikaranirveSho_yathA_karmAbhyAsaH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 इत्यशुचिकरनिर्वेषो यथा कर्माभ्यासः १८
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/10/29/18_ityashuchikaranirveSho_yathA_karmAbhyAsaH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 18. Thus acts causing impurity must be expiated according to the manner in which the (sinful) act has been committed (whether intentionally or unintentionally).
@@ -525,6 +614,7 @@ title = "२९ पतित-धर्मः"
 ॥ इत्यापस्तम्बसूत्रवृत्तौ प्रथमप्रश्ने एकोनत्रिंशी कण्डिका ॥ २९ ॥  
 
 इति चाऽऽपस्तम्बधर्मसूत्रवृत्तौ हरदत्तमिश्रविरचितायामुज्वलायां प्रथमप्रश्ने दशमः पटलः ॥ १० ॥
+</details>
 </details>
 
 </div>

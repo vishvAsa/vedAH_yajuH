@@ -4,12 +4,16 @@ title = "०२ गृहस्थः"
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/02/01_api_vA_lepAnpraxAlyAchamya.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अपि वा लेपान्प्रक्षाल्याचम्य प्रोक्षणमङ्गानाम् १
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/01/02/01_api_vA_lepAnpraxAlyAchamya.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 1. Or they shall remove the stains with earth or water, sip water, and sprinkle the body with water.
@@ -25,17 +29,22 @@ title = "०२ गृहस्थः"
 
 [^१]: इदमनृतुकाले इत्यधिकं ख.च. पुस्तकयोः 'रुचितः इत्यादिग्रन्थोऽपि नास्ति तत्र।
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/02/02_sarvavarNAnAM_svadharmAnuShThAne_paramaparimitaM.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 सर्ववर्णानां स्वधर्मानुष्ठाने परमपरिमितं सुखम् २
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/01/02/02_sarvavarNAnAM_svadharmAnuShThAne_paramaparimitaM.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 2. Men of all castes, if they fulfil their (assigned) duties, enjoy (in heaven) the highest, imperishable bliss.
@@ -49,17 +58,22 @@ title = "०२ गृहस्थः"
 **टीका**  
 सर्वेषामेव वर्णानां ब्राह्मणादीनां चतुर्णां ये स्वधर्मा वर्णप्रयुक्ता आश्रमप्रयुक्ता उभयप्रयुक्ता वा तेषामवैगुण्येनाऽऽन्तादनुष्ठाने सति परमुत्कृष्टं अपरिमितमक्षयं सुखं स्वर्गाख्यं भवति ॥२॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/02/03_tataH_parivRttau_karmaphalasheSheNa.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 ततः परिवृत्तौ कर्मफलशेषेण जातिं रूपं वर्णं बलं मेधां प्रज्ञां द्रव्याणि धर्मानुष्ठानमिति प्रतिपद्यते । तच्चक्रवदुभयोर्लोकयोः सुख एव वर्तते ३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/01/02/03_tataH_parivRttau_karmaphalasheSheNa.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 3. Afterwards when (a man who has fulfilled his duties) returns to this world, he obtains, by virtue of a remainder of merit, birth in a distinguished family, beauty of form, beauty of complexion, strength, aptitude for learning, wisdom, wealth, and the gift of fulfilling the laws of his (caste and order). Therefore in both worlds he dwells in happiness, (rolling) like a wheel (from the one to the other).
@@ -78,17 +92,22 @@ title = "०२ गृहस्थः"
 
 [^२]: मेधां ग्रन्थग्रहणशक्तिम्, प्रज्ञां अर्थग्रहणशक्तिम् इति क. च. पु. ।
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/02/04_yathauShadhivanaspatInAm_bIjasya_xetrakarmavisheShe.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 यथौषधिवनस्पतीनां बीजस्य क्षेत्रकर्मविशेषे फलपरिवृद्धिरेवम् ४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/01/02/04_yathauShadhivanaspatInAm_bIjasya_xetrakarmavisheShe.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 4. As the seed of herbs (and) trees, (sown) in good and well-cultivated soil, gives manifold returns of fruit (even so it is with men who have received the various sacraments).
@@ -107,17 +126,22 @@ title = "०२ गृहस्थः"
 
 [^३]: अप्यवश्यापेक्ष्या इति. च. पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/02/05_etena_doShaphalaparivRddhiruktA.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 एतेन दोषफलपरिवृद्धिरुक्ता ५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/01/02/05_etena_doShaphalaparivRddhiruktA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 5. The increase of the results of sins has been explained hereby.
@@ -133,17 +157,22 @@ title = "०२ गृहस्थः"
 
 [^१]: तत्रोक्तं व्यत्ययेन पठनीयम् । इति. घ. पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/02/06_steno-bhishasto_brAhmaNo_rAjanyo.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 स्तेनोऽभिशस्तो ब्राह्मणो राजन्यो वैश्यो वा परस्मिंल् लोके परिमिते निरये वृत्ते जायते चाण्डालो ब्राह्मणः पौल्कसो राजन्यो वैणो वैश्यः ६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/01/02/06_steno-bhishasto_brAhmaNo_rAjanyo.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 6. Thus after having undergone a long punishment in the next world, a person who has stolen (the gold of a Brāhmaṇa) or killed a (Brāhmaṇa) is born again, in case he was a Brāhmaṇa as a Cāṇḍāla, in case he was a Kṣatriya as a Paulkasa, in case he was a Vaiśya as a Vaiṇa. [^1] 
@@ -164,17 +193,22 @@ title = "०२ गृहस्थः"
 
 [^२]: वेणुनर्तकः स एव वैणः । इति. घ. पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/02/07_etenAnye_doShaphalaiH_karmabhiH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 एतेनान्ये दोषफलैः कर्मभिः परिध्वंसा दोषफलासु योनिषु जायन्ते वर्णपरिध्वंसायाम् ७
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/01/02/07_etenAnye_doShaphalaiH_karmabhiH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 7. In the same manner other (sinners) who have become outcasts in consequence of their sinful actions are born again, on account of (these) sins, losing their caste, in the wombs (of various animals). [^2] 
@@ -190,17 +224,22 @@ title = "०२ गृहस्थः"
 **टीका**  
 वर्णपरिध्वंसा वर्णेभ्यः प्रच्यवनं तस्यां वर्णपरिध्वंसायाम् । यथा ब्राह्मणादयश्चण्डालाद्या जायन्ते । एतेन प्रकारेण स्तेनाभिशस्ताभ्यां अन्येऽपि दोषफलैः कर्मभिर्दोषफलासु सूकरादिषु, योनिषु जायन्ते । परिध्वंसाः स्वजातिपरिभ्रष्टा इत्यर्थः । ते तथाऽवगन्तव्या इति ॥ ७ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/02/08_yathA_chANDAlopasparshane_sambhAShAyAn.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 यथा चाण्डालोपस्पर्शने संभाषायां दर्शने च दोषस्तत्र प्रायश्चित्तम् ८
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/01/02/08_yathA_chANDAlopasparshane_sambhAShAyAn.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 8. As it is sinful to touch a Cāṇḍāla, (so it is also sinful) to speak to him or to look at him. The penance for these (offences will be declared).
@@ -214,17 +253,22 @@ title = "०२ गृहस्थः"
 **टीका**  
 चण्डालोपोस्पर्शने दोषो भवति । तथा सम्भाषायां दर्शने च । उपसमस्तमपि चण्डालग्रहणमभिसम्बध्यते । तत्र सर्वत्र प्रायश्चित्तं वक्ष्यते ॥८॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/01/02/09_avagAhanamapAmupasparshane_sambhAShAyAm_brAhmaNasambhAShA.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अवगाहनमपामुपस्पर्शने संभाषायां ब्राह्मणसंभाषा दर्शने ज्योतिषां दर्शनम् ९
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/01/02/09_avagAhanamapAmupasparshane_sambhAShAyAm_brAhmaNasambhAShA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 9. (The penance) for touching him is to bathe, submerging the whole body; for speaking to him to speak to a Brāhmaṇa; for looking at him to look at the lights (of heaven).
@@ -245,6 +289,7 @@ title = "०२ गृहस्थः"
 
 इति चाऽऽपस्तम्बधर्मसूत्रवृत्तौ हरदत्तविरचितायामुज्ज्वलायां
 द्वितीयप्रश्ने प्रथमः पटलः ॥ १॥
+</details>
 </details>
 
 </div>

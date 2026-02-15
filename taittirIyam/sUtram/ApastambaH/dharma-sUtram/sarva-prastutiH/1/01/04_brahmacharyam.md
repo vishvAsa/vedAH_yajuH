@@ -4,12 +4,16 @@ title = "०४ ब्रह्मचर्यम्"
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/01_yaduchChiShTam_prAshnAti.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 यदुच्छिष्टं प्राश्नाति १
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/04/01_yaduchChiShTam_prAshnAti.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 1. And (having done so) eat what is left.
@@ -23,17 +27,22 @@ title = "०४ ब्रह्मचर्यम्"
 **टीका**  
 अनुवादेषु सर्वत्र विधिः कल्प्यते । तं भोजयेत् । भोजयित्वा तस्योच्छिष्टं प्राश्नीयात् प्राश्नाति । ञकारोऽपाठश्छन्दसो वा, 'शादि'ति चुत्वप्रतिषेधात् ॥ ४५ ॥ १ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/02_haviruchChiShTameva_tat.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 हविरुच्छिष्टमेव तत् २
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/04/02_haviruchChiShTameva_tat.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 2. For this (remnant of food) is certainly a remnant of sacrificial food.
@@ -47,17 +56,22 @@ title = "०४ ब्रह्मचर्यम्"
 **टीका**  
 इडाभक्षणादिस्थानीयमित्यर्थः ॥ २ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/03_yadanyAni_dra_vyANi.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 यदन्यानि द्रव्याणि यथालाभमुपहरति दक्षिणा एव ताः ३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/04/03_yadanyAni_dra_vyANi.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 If he obtains other things (besides food, such as cattle or fuel, and gives them to his teacher) as he obtains them, then those (things hold the place of) rewards (given to priests for the performance of a sacrifice).
@@ -71,17 +85,22 @@ If he obtains other things (besides food, such as cattle or fuel, and gives them
 **टीका**  
 यदन्यानि द्रव्याणि गवादीनि भिक्षाचरणे लब्धानि समिदादीनि च स्वयमाहृतानि यथालाभमुपहरति दक्षिणा एव ताः । दक्षिणासामानाधिकरण्यात्ता इत्युक्तम् ॥ ३॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/04_sa_eSha_brahmachAriNo.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 स एष ब्रह्मचारिणो यज्ञो नित्यप्रततः ४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/04/04_sa_eSha_brahmachAriNo.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 4. This is the sacrifice to be performed daily by a religious student.
@@ -95,17 +114,22 @@ If he obtains other things (besides food, such as cattle or fuel, and gives them
 **टीका**  
 स एष एवंभूतो यज्ञः ब्रह्मचारिणो नित्यं प्रतायते । एवं कुर्वता ब्रह्मचारिणा यज्ञ एव नित्यं क्रियत इत्यर्थः ॥४॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/05_na_chAsmai_shrutivipratiShiddham.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 न चास्मै श्रुति-विप्रतिषिद्धम् उच्छिष्टं दद्यात् ५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/04/05_na_chAsmai_shrutivipratiShiddham.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 5. And (the teacher) shall not give him anything that is forbidden by the revealed texts, (not even as) leavings,
@@ -119,17 +143,22 @@ If he obtains other things (besides food, such as cattle or fuel, and gives them
 **टीका**  
 अस्मै शिष्याय आचार्यः श्रुतिविप्रतिषिद्ध शास्त्रविप्रतिषिद्धमुच्छिष्टं न दद्यात् ॥५॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/06_yathA_xAralavaNamadhumAMsAnIti.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 यथा क्षार-लवण-मधु-मांसानीति ६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/04/06_yathA_xAralavaNamadhumAMsAnIti.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 6. Such as pungent condiments, salt, honey, or meat (and the like). [^1] 
@@ -148,17 +177,22 @@ If he obtains other things (besides food, such as cattle or fuel, and gives them
 **टीका**  
 यथेतिवचना'च्छ्रुतिविप्रतिषिद्ध'मिति लक्षणतः प्रतिषेधाच्च क्षारादिग्रहणमेवंविधस्योपलक्षणम् ॥६॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/07_etenAnye_niyamA_vyAkhyAtAH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 एतेनान्ये नियमा व्याख्याताः ७
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/04/07_etenAnye_niyamA_vyAkhyAtAH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 7. By this (last Sūtra it is) explained (that) the other restrictions (imposed upon a student, such as abstinence from perfumes, ointments, &c., are likewise not to be broken). [^2] 
@@ -174,17 +208,22 @@ If he obtains other things (besides food, such as cattle or fuel, and gives them
 **टीका**  
 अभ्यङ्गशेषो गन्धशेषो माल्यशेष इत्यादयो ब्रह्मचारिणः प्रतिषिद्धा आचार्येण न देया इत्युक्तं भवति ॥ ७॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/08_shrutirhi_balIyasyAnumAnikAdAchArAt.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 श्रुतिर्हि बलीयस्यानुमानिकादाचारात् ८
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/04/08_shrutirhi_balIyasyAnumAnikAdAchArAt.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 8. For (explicit) revealed texts have greater force than custom from which (the existence of a permissive passage of the revelation) may be inferred. [^3] 
@@ -208,17 +247,22 @@ If he obtains other things (besides food, such as cattle or fuel, and gives them
 
     अनुमानबाधित इति न्यायात्, इति. क. पु
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/09_dRshyate_chApi_pravRttikAraNam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 दृश्यते चापि प्रवृत्तिकारणम् ९
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/04/09_dRshyate_chApi_pravRttikAraNam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 9. Besides (in this particular case) a (worldly) motive for the practice is apparent. [^4] 
@@ -241,17 +285,22 @@ If he obtains other things (besides food, such as cattle or fuel, and gives them
 
     अतिरात्रे षोडशिनं गृह्णाति, नातिरात्रे षोडशिनं गृह्णाति, इति श्रुतिभ्यामेकस्मिन्नेवातिरात्रसंस्थाके ज्योतिष्टोमे षोडशिसंज्ञस्य प्रहस्य ग्रहणाग्रहणयोः परस्परविरुद्धयोर्विधानात् तयोरपि श्रुत्योः परस्परं विरोधादिति भावः । उलूखलाकार उपर्यासेचनवान् पात्रविशेषो ग्रहः । खदिरवृक्षनिर्मितो ग्रहविशेषष्षोडशी। तस्य सोमरसेन पूरणं ग्रहणम् ।
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/10_prItirhy_upalabhyate.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 प्रीतिर्ह्य् उपलभ्यते १०
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/04/10_prItirhy_upalabhyate.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 10. For pleasure is obtained (by eating or using the forbidden substances). [^5] 
@@ -270,17 +319,22 @@ If he obtains other things (besides food, such as cattle or fuel, and gives them
 **टीका**  
 क्षारादिभोजने भुञ्जानस्य प्रीतिर्भवति। ततश्च यत्र प्रीत्युपलब्धितप्रवृत्तिर्न तत्र शास्त्रमस्ति। तदनुवर्तमाना नरकाय राध्यतीति न्यायान्न सङ्कोचिका श्रुतिरनुमीयते इति ॥ १०॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/11_pitur_jyeShThasya_cha.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 पितुर् ज्येष्ठस्य च भ्रातुर् उच्छिष्टं भोक्तव्यम् ११
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/04/11_pitur_jyeShThasya_cha.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 11. A residue of food left by a father and an elder brother, may be eaten.
@@ -296,17 +350,22 @@ If he obtains other things (besides food, such as cattle or fuel, and gives them
 
 [^१]: स्पष्टोऽर्थः इति० ग० पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/12_dharmavipratipattAv_abhojyam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 धर्म-विप्रतिपत्ताव् अभोज्यम् १२
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/04/12_dharmavipratipattAv_abhojyam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 12. If they act contrary to the law, he must not eat (their leavings). [^6] 
@@ -322,17 +381,22 @@ If he obtains other things (besides food, such as cattle or fuel, and gives them
 **टीका**  
 यदि तयोर्धर्माद्विप्रतिपत्तिरपायो भवति ततो न भोज्यम् । यद्वा भुञ्जानस्य ब्रह्मचारिणो धर्मविप्रतिषेधो भवति मधुमांसादिमिश्रत्वेन ततो न भोज्यमिति ॥१२॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/13_sAyam_prAtar_udakumbham.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 सायं प्रातर् उदकुम्भम् आहरेत् १३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/04/13_sAyam_prAtar_udakumbham.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 13. In the evening and in the morning he shall fetch water in a vessel (for the use of his teacher). [^7] 
@@ -348,17 +412,22 @@ If he obtains other things (besides food, such as cattle or fuel, and gives them
 **टीका**  
 आचार्यस्य स्नानपानार्थम् ॥ १३॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/14_sadAraNyAd_edhAn_AhRtyAdho.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 सदारण्याद् एधान् आहृत्याधो निदध्यात् १४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/04/14_sadAraNyAd_edhAn_AhRtyAdho.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 14. Daily he shall fetch fuel from the forest, and place it on the floor (in his teacher's house). [^8] 
@@ -388,17 +457,22 @@ If he obtains other things (besides food, such as cattle or fuel, and gives them
 
 [^४]: आप० गृ० ११. २२.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/15_nAstam_ite_samiddhAro.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 नास्तम् इते समिद्धारो गच्छेत् १५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/04/15_nAstam_ite_samiddhAro.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 15. He shall not go to fetch firewood after sunset.
@@ -414,20 +488,25 @@ If he obtains other things (besides food, such as cattle or fuel, and gives them
 
 [^५]: पा० सू० ३. ३. १२.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/16_agnim_iddhvA_parisamUhya.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अग्निम् **इद्ध्वा**  
 परिसमूह्य +++(मार्जयित्वा)+++  
 समिध **आदध्यात्**  
 सायं प्रातर् यथोपदेशम् १६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/04/16_agnim_iddhvA_parisamUhya.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 16. After having kindled the fire, and having swept the ground around (the altar), he shall place [^9]  the sacred fuel on the fire every morning and evening, according to the prescription (of the Gṛhya-sūtra).
@@ -445,17 +524,22 @@ If he obtains other things (besides food, such as cattle or fuel, and gives them
 
 [^६]: राशीकरणमित्यन्ये इति ख० ग० पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/17_sAyam_evAgnipUjety_eke.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 सायम् एवाग्नि-पूजेत्य् एके १७
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/04/17_sAyam_evAgnipUjety_eke.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 17. Some say that the fire is only to be worshipped in the evening.
@@ -469,18 +553,23 @@ If he obtains other things (besides food, such as cattle or fuel, and gives them
 **टीका**  
 एके आचार्यास्सायमेवाग्निपूजा कार्या, न प्रातरिति मन्यन्ते ॥ १७ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/18_samiddham_agnim_pANinA.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 समिद्धम् अग्निं  
 पाणिना परिसमूहेन् - न समूहन्या १८
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/04/18_samiddham_agnim_pANinA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 18. He shall sweep the place around the fire after it has been made to burn (by the addition of fuel), with his hand, and not with the broom (of Kuśa grass). [^10] 
@@ -496,17 +585,22 @@ If he obtains other things (besides food, such as cattle or fuel, and gives them
 **टीका**  
 सामिदाधाने समिद्धमग्निं पाणिनैव परिसमूहेत्, न समूहन्या । समूहनी सम्मार्जनी दर्भनिर्मिता वेदाकृतिः, आचारात् ॥ १८ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/19_prAk_tu_yAthAkAmI.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 प्राक् तु याथाकामी १९
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/04/19_prAk_tu_yAthAkAmI.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 19. But, before (adding the fuel, he is free to use the broom) at his pleasure
@@ -520,17 +614,22 @@ If he obtains other things (besides food, such as cattle or fuel, and gives them
 **टीका**  
 प्राक्समिदाधानात् परिसमूहने याथाकामी भवति । यथाकामस्य भावो याथाकामी । ष्यञ्, षित्वादीकारः ॥ १९ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/20_nAgnyudakasheSheNa_vRthAkarmANi_kurvItA-.achAmed.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 नाग्न्य्-उदक-शेषेण वृथा-कर्माणि कुर्वीताऽऽचामेद् वा २०
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/04/20_nAgnyudakasheSheNa_vRthAkarmANi_kurvItA-.achAmed.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 20. He shall not perform non-religious acts with the residue of the water employed for the fire-worship, nor sip it. [^11] 
@@ -546,17 +645,22 @@ If he obtains other things (besides food, such as cattle or fuel, and gives them
 **टीका**  
 अग्निपरिचर्यायां परिसमूहने परिषेचने च यदुपयुक्तमुदकं, तच्छषेण वृथाकर्माणि अदृष्टप्रयोजनरहितानि पादप्रक्षालनादीनि न कुर्वीत। नाऽप्याचामेत् । अवृथाकर्मवादस्य पुनःप्रतिषेधः ॥ २० ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/21_pANisanxubdhenodakenaikapANyA-.avarjitena_cha_nAchAmet.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 पाणि-संक्षुब्धेनोदकेनैक-पाण्याऽऽवर्जितेन च नाचामेत् २१
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/04/21_pANisanxubdhenodakenaikapANyA-.avarjitena_cha_nAchAmet.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 21. He shall not sip water which has been stirred with the hand, nor such as has been received into one hand only.
@@ -574,17 +678,22 @@ If he obtains other things (besides food, such as cattle or fuel, and gives them
 
     कुम्भादिगतमित्यधिकं ध. पु. () एतच्चिन्हान्तर्गतो भागः ख. पुस्तके नास्ति।
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/22_svapna~n_cha_varjayet.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 स्वप्नं च वर्जयेत् २२
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/04/22_svapna~n_cha_varjayet.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 22. And he shall avoid sleep (whilst his teacher is awake).
@@ -602,17 +711,22 @@ If he obtains other things (besides food, such as cattle or fuel, and gives them
 
     दिवास्वापप्रतिषेधः इति, क. पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/23_athAharaharAchArya~N_gopAyed_dharmArthayuktaiH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अथाहरहराचार्यं गोपायेद् धर्मार्थयुक्तैः कर्मभिः २३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/04/23_athAharaharAchArya~N_gopAyed_dharmArthayuktaiH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 23. Then (after having risen) he shall assist his teacher daily by acts tending to the acquisition of spiritual merit and of wealth. [^12] 
@@ -632,17 +746,22 @@ If he obtains other things (besides food, such as cattle or fuel, and gives them
 
     एधसां हरणादीनि इति घ. पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/24_sa_guptvA_saMvishanbrUyAddharmagopAyamAjUgupamahamiti.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 स गुप्त्वा संविशन्ब्रूयाद्धर्मगोपायमाजूगुपमहमिति २४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/04/24_sa_guptvA_saMvishanbrUyAddharmagopAyamAjUgupamahamiti.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 24. Having served (his teacher during the day in this manner, he shall say when going to bed): I have protected the protector of the law (my teacher). [^13] 
@@ -670,17 +789,22 @@ If he obtains other things (besides food, such as cattle or fuel, and gives them
 
 [^४]: यावदुपात्त एवायं मन्त्रः।
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/25_pramAdAdAchAryasya_buddhipUrvaM_vA.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 प्रमादादाचार्यस्य बुद्धिपूर्वं वा नियमातिक्रमं रहसि बोधयेत् २५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/04/25_pramAdAdAchAryasya_buddhipUrvaM_vA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 25. If the teacher transgresses the law through carelessness or knowingly, he shall point it out to him privately.
@@ -694,17 +818,22 @@ If he obtains other things (besides food, such as cattle or fuel, and gives them
 **टीका**  
 प्रमादोऽनवधानम् । प्रमादात् बुद्धिपूर्वं यो आचार्यस्य वा नियमातिक्रमस्त रहसि बोधयेत् । इत्थमयं नियमः पूज्यपादैरतिक्रम्यते इति ॥ २५ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/26_anivRttau_svaya~N_karmANyArabheta.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अनिवृत्तौ स्वयं कर्माण्यारभेत २६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/04/26_anivRttau_svaya~N_karmANyArabheta.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 26. If (the teacher) does not cease (to transgress), he himself shall perform the religious acts (which ought to be performed by the former); [^14] 
@@ -720,17 +849,22 @@ If he obtains other things (besides food, such as cattle or fuel, and gives them
 **टीका**  
 यदि बोधितोऽप्याचार्यस्ततो न निवर्तते, ततः स्वयमेव तस्य कर्तव्यानि ब्रह्मयज्ञादीनि कर्माण्यारभते कुर्यात् ॥ २६ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/27_nivartayedvA.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 निवर्तयेद्वा २७
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/04/27_nivartayedvA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 27. Or he may return home.
@@ -744,17 +878,22 @@ If he obtains other things (besides food, such as cattle or fuel, and gives them
 **टीका**  
 प्रसह्य वा स्वयं निवर्तयेत् । पित्रादिभिर्वा निवर्तयेत् ॥ २७ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/28_atha_yaH_pUrvotthAyI.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अथ यः पूर्वोत्थायी जघन्यसंवेशी तमाहुर्न स्वपितीति २८
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/04/28_atha_yaH_pUrvotthAyI.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 28. Now of him who rises before (his teacher) and goes to rest after (him), they say that he does not sleep.
@@ -769,17 +908,22 @@ If he obtains other things (besides food, such as cattle or fuel, and gives them
 **टीका**  
 या पूर्वमाचार्यादुत्तिष्ठति प्रतिबुध्यते । जघन्यशब्दः पश्चादर्थे । जघन्यश्च संविशति, तं ब्रह्मचारिणं न स्वपितीति धर्मज्ञा आहु । प्रयोजनमुपनयने 'मा सुषुप्था' इति संशासनस्यायमर्थः, न स्वापस्यात्यन्ताभाव इति । अथशब्दश्च वाक्योपक्रमे ॥ २८॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/04/29_sa_ya_evam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 स य एवं प्रणिहितात्मा ब्रह्मचार्यत्रैवास्य सर्वाणि कर्माणि फलवन्त्यवाप्तानि भवन्ति यान्यपि गृहमेधे २९
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/04/29_sa_ya_evam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 29. The student who thus entirely fixes his mind there (in the teacher's family), has thereby performed all acts which yield rewards (such as the Jyotiṣṭoma), and also those which must be performed by a householder. [^15] 
@@ -806,6 +950,7 @@ If he obtains other things (besides food, such as cattle or fuel, and gives them
 इत्यापस्तम्बधर्मसूत्रवृत्तौ[^३] हरदत्तविरचितायामुज्वलायां
 प्रथमप्रश्ने प्रथमः पटलः ॥ १ ॥  
 [^३]: हरदत्तमिश्रविरचितायां इति क. पु.
+</details>
 </details>
 
 </div>

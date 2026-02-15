@@ -9,7 +9,7 @@ unicode_script: devanagari
 ## प्रजा-प्रशंसा
 <div class="js_include" newlevelforh1="b[]" title="2/09/24/01" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/24/01_athApyasya_prajAtim_amRtam.md">
 
-<details><summary>**2/09/24/01 …{Loading}…**</summary>
+<details open><summary>2/09/24/01 …{Loading}…</summary>
 
 अथाप्यस्य प्रजातिम्  
 अमृतम् आम्नाय आह । प्रजामनु प्रजायसे तदु ते मर्त्यामृतमिति १
@@ -19,7 +19,7 @@ unicode_script: devanagari
 
 <div class="js_include" newlevelforh1="b[]" title="2/09/24/02" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/24/02_athApi_sa_evAyaM.md">
 
-<details><summary>**2/09/24/02 …{Loading}…**</summary>
+<details open><summary>2/09/24/02 …{Loading}…</summary>
 
 अथापि - स एवायं विरूढः पृथक् प्रत्यक्षेणोपलभ्यते दृश्यते चापि सारूप्यं देहत्वमेवान्यत् २
 </details>
@@ -28,7 +28,7 @@ unicode_script: devanagari
 
 <div class="js_include" newlevelforh1="b[]" title="2/09/24/03" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/24/03_te_shiShTeShu_karmasu.md">
 
-<details><summary>**2/09/24/03 …{Loading}…**</summary>
+<details open><summary>2/09/24/03 …{Loading}…</summary>
 
 ते शिष्टेषु कर्मसु वर्तमानाः पूर्वेषां सांपरायेण कीर्तिं स्वर्गं च वर्धयन्ति ३
 </details>
@@ -37,7 +37,7 @@ unicode_script: devanagari
 
 <div class="js_include" newlevelforh1="b[]" title="2/09/24/04" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/24/04_evamavaro-varaH_pareShAm.md">
 
-<details><summary>**2/09/24/04 …{Loading}…**</summary>
+<details open><summary>2/09/24/04 …{Loading}…</summary>
 
 एवमवरोऽवरः परेषाम् +++(=पूर्विकाणाम्)+++ ४
 </details>
@@ -46,7 +46,7 @@ unicode_script: devanagari
 
 <div class="js_include" newlevelforh1="b[]" title="2/09/24/05" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/24/05_A_bhUtasamplavAt_te.md">
 
-<details><summary>**2/09/24/05 …{Loading}…**</summary>
+<details open><summary>2/09/24/05 …{Loading}…</summary>
 
 आ भूतसंप्लवात् ते स्वर्गजितः ५
 </details>
@@ -55,7 +55,7 @@ unicode_script: devanagari
 
 <div class="js_include" newlevelforh1="b[]" title="2/09/24/06" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/24/06_punaH_sarge_bIjArthA.md">
 
-<details><summary>**2/09/24/06 …{Loading}…**</summary>
+<details open><summary>2/09/24/06 …{Loading}…</summary>
 
 पुनः सर्गे बीजार्था भवन्तीति भविष्यत्पुराणे ६
 </details>
@@ -64,7 +64,7 @@ unicode_script: devanagari
 
 <div class="js_include" newlevelforh1="b[]" title="2/09/24/07" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/24/07_athApi_prajApatervachanam.md">
 
-<details><summary>**2/09/24/07 …{Loading}…**</summary>
+<details open><summary>2/09/24/07 …{Loading}…</summary>
 
 अथापि प्रजापतेर्वचनम् ७
 </details>
@@ -73,7 +73,7 @@ unicode_script: devanagari
 
 <div class="js_include" newlevelforh1="b[]" title="2/09/24/08" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/24/08_trayIM_vidyAm_brahmacharyam.md">
 
-<details><summary>**2/09/24/08 …{Loading}…**</summary>
+<details open><summary>2/09/24/08 …{Loading}…</summary>
 
 त्रयीं विद्यां ब्रह्मचर्यं प्रजातिं श्रद्धां तपो यज्ञमनुप्रदानम् । य एतानि कुर्वते तैरित् सह +++(वयम् प्रजापतयः)+++ स्मो, रजो भूत्वा ध्वंसते ऽन्यत् प्रशंसन्न् इति ८
 </details>
@@ -84,7 +84,7 @@ unicode_script: devanagari
 ## प्रजा-पाप-फलम्
 <div class="js_include" newlevelforh1="b[]" title="2/09/24/09" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/24/09_tatra_ye_pApakRtasta.md">
 
-<details><summary>**2/09/24/09 …{Loading}…**</summary>
+<details open><summary>2/09/24/09 …{Loading}…</summary>
 
 तत्र ये पापकृतस्त एव ध्वंसन्ति यथा पर्णं वनस्पतेर्न परान्हिंसन्ति ९
 </details>
@@ -93,7 +93,7 @@ unicode_script: devanagari
 
 <div class="js_include" newlevelforh1="b[]" title="2/09/24/10" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/24/10_nAsyAsmiMl_loke_karmabhiH.md">
 
-<details><summary>**2/09/24/10 …{Loading}…**</summary>
+<details open><summary>2/09/24/10 …{Loading}…</summary>
 
 नास्यास्मिंल् लोके कर्मभिः संबन्धो विद्यते तथा परस्मिन्कर्मफलैः १०
 </details>
@@ -102,7 +102,7 @@ unicode_script: devanagari
 
 <div class="js_include" newlevelforh1="b[]" title="2/09/24/11" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/24/11_tadetena_veditavyam.md">
 
-<details><summary>**2/09/24/11 …{Loading}…**</summary>
+<details open><summary>2/09/24/11 …{Loading}…</summary>
 
 तदेतेन वेदितव्यम् ११
 </details>
@@ -111,7 +111,7 @@ unicode_script: devanagari
 
 <div class="js_include" newlevelforh1="b[]" title="2/09/24/12" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/24/12_prajApaterRShINAmiti_sargo-yam.md">
 
-<details><summary>**2/09/24/12 …{Loading}…**</summary>
+<details open><summary>2/09/24/12 …{Loading}…</summary>
 
 प्रजापतेरृषीणामिति सर्गोऽयम् १२
 </details>
@@ -120,7 +120,7 @@ unicode_script: devanagari
 
 <div class="js_include" newlevelforh1="b[]" title="2/09/24/13" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/24/13_tatra_ye_puNyakRtasteShAm.md">
 
-<details><summary>**2/09/24/13 …{Loading}…**</summary>
+<details open><summary>2/09/24/13 …{Loading}…</summary>
 
 तत्र ये पुण्यकृतस् तेषां प्रकृतयः परा ज्वलन्त्य +++(= तारारूपेण)+++ उपलभ्यन्ते १३
 </details>
@@ -129,7 +129,7 @@ unicode_script: devanagari
 
 <div class="js_include" newlevelforh1="b[]" title="2/06/13/01" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/13/01_savarNA-pUrvashAstravihitAyAM_yathartu_gachChataH.md">
 
-<details><summary>**2/06/13/01 …{Loading}…**</summary>
+<details open><summary>2/06/13/01 …{Loading}…</summary>
 
 सवर्णा-ऽपूर्व+++(=अनन्यव्यूढा)+++-शास्त्रविहितायां यथर्तु गच्छतः पुत्रास्तेषां कर्मभिः संबन्धः १
 </details>
@@ -138,7 +138,7 @@ unicode_script: devanagari
 
 <div class="js_include" newlevelforh1="b[]" title="2/06/13/03" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/13/03_pUrvavatyAmasaMskRtAyAM_varNAntare_cha.md">
 
-<details><summary>**2/06/13/03 …{Loading}…**</summary>
+<details open><summary>2/06/13/03 …{Loading}…</summary>
 
 पूर्ववत्याम्, असंस्कृतायां, वर्णान्तरे च मैथुने दोषः ३
 </details>
@@ -147,7 +147,7 @@ unicode_script: devanagari
 
 <div class="js_include" newlevelforh1="b[]" title="2/06/13/04" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/13/04_tatrApi_doShavAnputra_eva.md">
 
-<details><summary>**2/06/13/04 …{Loading}…**</summary>
+<details open><summary>2/06/13/04 …{Loading}…</summary>
 
 तत्रापि दोषवान्पुत्र एव ४
 </details>
@@ -158,7 +158,7 @@ unicode_script: devanagari
 ## स्त्री-व्यभिचारे
 <div class="js_include" newlevelforh1="b[]" title="2/06/13/05" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/13/05_utpAdayituH_putra_iti.md">
 
-<details><summary>**2/06/13/05 …{Loading}…**</summary>
+<details open><summary>2/06/13/05 …{Loading}…</summary>
 
 उत्पादयितुः पुत्र इति हि ब्राह्मणम् ५
 </details>
@@ -167,7 +167,7 @@ unicode_script: devanagari
 
 <div class="js_include" newlevelforh1="b[]" title="2/06/13/06" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/13/06_athApyudAharanti_idAnImevAha~n_janaka.md">
 
-<details><summary>**2/06/13/06 …{Loading}…**</summary>
+<details open><summary>2/06/13/06 …{Loading}…</summary>
 
 अथाप्युदाहरन्ति ।  
 इदानीमेवाहं जनक स्त्रीणामीर्ष्यामि नो पुरा ।  

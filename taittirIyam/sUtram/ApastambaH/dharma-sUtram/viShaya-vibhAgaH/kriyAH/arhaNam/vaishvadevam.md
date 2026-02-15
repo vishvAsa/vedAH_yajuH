@@ -9,7 +9,7 @@ unicode_script: devanagari
 ## चोदनम्, फलम्
 <div class="js_include" newlevelforh1="b[]" title="1/04/12/13" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/12/13_atha_brAhmaNoktA_vidhayaH.md">
 
-<details><summary>**1/04/12/13 …{Loading}…**</summary>
+<details open><summary>1/04/12/13 …{Loading}…</summary>
 
 अथ ब्राह्मणोक्ता विधयः १३
 </details>
@@ -18,7 +18,7 @@ unicode_script: devanagari
 
 <div class="js_include" newlevelforh1="b[]" title="1/04/12/14" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/12/14_teShAm_mahAyajnA_mahAsattrANIti.md">
 
-<details><summary>**1/04/12/14 …{Loading}…**</summary>
+<details open><summary>1/04/12/14 …{Loading}…</summary>
 
 तेषां महायज्ञा महासत्त्राणीति संस्तुतिः १४
 </details>
@@ -27,7 +27,7 @@ unicode_script: devanagari
 
 <div class="js_include" newlevelforh1="b[]" title="1/04/12/15" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/12/15_aharaharbhUtabalirmanuShyebhyo_yathAshakti_dAnam.md">
 
-<details><summary>**1/04/12/15 …{Loading}…**</summary>
+<details open><summary>1/04/12/15 …{Loading}…</summary>
 
 अहरहर्भूतबलिर्मनुष्येभ्यो यथाशक्ति दानम् १५
 </details>
@@ -36,7 +36,7 @@ unicode_script: devanagari
 
 <div class="js_include" newlevelforh1="b[]" title="1/04/13/01" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/04/13/01_devebhyaH_svAhAkAra_A.md">
 
-<details><summary>**1/04/13/01 …{Loading}…**</summary>
+<details open><summary>1/04/13/01 …{Loading}…</summary>
 
 देवेभ्यः स्वाहाकार आ काष्ठात्, पितृभ्यः स्वधाकार ओदपात्रात्, स्वाध्याय इति १
 </details>
@@ -45,7 +45,7 @@ unicode_script: devanagari
 
 <div class="js_include" newlevelforh1="b[]" title="2/02/03/01" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/03/01_AryAH_prayatA_vaishvadeve-nnasaMskartAraH.md">
 
-<details><summary>**2/02/03/01 …{Loading}…**</summary>
+<details open><summary>2/02/03/01 …{Loading}…</summary>
 
 आर्याः प्रयता वैश्वदेवेऽन्नसंस्कर्तारः स्युः १
 </details>
@@ -54,7 +54,7 @@ unicode_script: devanagari
 
 <div class="js_include" newlevelforh1="b[]" title="2/02/03/12" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/03/12_gRhamedhinoryadashanIyasya_homA_balayashcha.md">
 
-<details><summary>**2/02/03/12 …{Loading}…**</summary>
+<details open><summary>2/02/03/12 …{Loading}…</summary>
 
 गृहमेधिनोर्यदशनीयस्य होमा बलयश्च स्वर्गपुष्टिसंयुक्ताः १२
 </details>
@@ -63,7 +63,7 @@ unicode_script: devanagari
 
 <div class="js_include" newlevelforh1="b[]" title="2/02/04/09" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/04/09_ya_etAnavyagro_yathopadesha~N.md">
 
-<details><summary>**2/02/04/09 …{Loading}…**</summary>
+<details open><summary>2/02/04/09 …{Loading}…</summary>
 
 य एतानव्यग्रो यथोपदेशं कुरुते नित्यः स्वर्गः पुष्टिश्च ९
 </details>
@@ -72,7 +72,7 @@ unicode_script: devanagari
 
 <div class="js_include" newlevelforh1="b[]" title="2/06/15/13" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/15/13_yasyAgnau_na_kriyate.md">
 
-<details><summary>**2/06/15/13 …{Loading}…**</summary>
+<details open><summary>2/06/15/13 …{Loading}…</summary>
 
 यस्याग्नौ न क्रियते यस्य चाग्रं न दीयते न तद्भोक्तव्यम् १३
 </details>
@@ -83,7 +83,7 @@ unicode_script: devanagari
 ## व्रतग्रहणम्
 <div class="js_include" newlevelforh1="b[]" title="2/02/03/13" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/03/13_teShAm_mantrANAmupayoge_dvAdashAhamadhaHshayyA.md">
 
-<details><summary>**2/02/03/13 …{Loading}…**</summary>
+<details open><summary>2/02/03/13 …{Loading}…</summary>
 
 तेषां मन्त्राणामुपयोगे द्वादशाहमधःशय्या ब्रह्मचर्यं क्षारलवणवर्जनं च १३
 </details>
@@ -92,7 +92,7 @@ unicode_script: devanagari
 
 <div class="js_include" newlevelforh1="b[]" title="2/02/03/14" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/03/14_uttamasyaikarAtramupavAsaH.md">
 
-<details><summary>**2/02/03/14 …{Loading}…**</summary>
+<details open><summary>2/02/03/14 …{Loading}…</summary>
 
 उत्तमस्यैकरात्रमुपवासः १४
 </details>
@@ -105,7 +105,7 @@ unicode_script: devanagari
 
 <div class="js_include" newlevelforh1="b[]" title="2/02/03/09" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/03/09_paroxamannaM_saMskRtamagnAvadhishrityAdbhiH_proxet.md">
 
-<details><summary>**2/02/03/09 …{Loading}…**</summary>
+<details open><summary>2/02/03/09 …{Loading}…</summary>
 
 परोक्षमन्नं संस्कृतमग्नावधिश्रित्याद्भिः प्रोक्षेत् । तद्देवपवित्रमित्याचक्षते ९
 </details>
@@ -114,7 +114,7 @@ unicode_script: devanagari
 
 <div class="js_include" newlevelforh1="b[]" title="2/02/03/10" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/03/10_siddhe-nne_tiShThanbhUtamiti_svAmine.md">
 
-<details><summary>**2/02/03/10 …{Loading}…**</summary>
+<details open><summary>2/02/03/10 …{Loading}…</summary>
 
 सिद्धेऽन्ने तिष्ठन्भूतमिति स्वामिने प्रब्रूयात् १०
 </details>
@@ -123,7 +123,7 @@ unicode_script: devanagari
 
 <div class="js_include" newlevelforh1="b[]" title="2/02/03/11" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/03/11_tatsubhUtaM_virAD_annan.md">
 
-<details><summary>**2/02/03/11 …{Loading}…**</summary>
+<details open><summary>2/02/03/11 …{Loading}…</summary>
 
 तत्सुभूतं विराड् अन्नं तन्मा क्षायीति प्रतिवचनः ११
 </details>
@@ -132,7 +132,7 @@ unicode_script: devanagari
 
 <div class="js_include" newlevelforh1="b[]" title="2/02/03/15" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/03/15_balInAn_tasya_tasya.md">
 
-<details><summary>**2/02/03/15 …{Loading}…**</summary>
+<details open><summary>2/02/03/15 …{Loading}…</summary>
 
 बलीनां तस्य तस्य देशे संस्कारो हस्तेन परिमृज्यावोक्ष्य न्युप्य पश्चात्परिषेचनम् १५
 
@@ -142,7 +142,7 @@ unicode_script: devanagari
 
 <div class="js_include" newlevelforh1="b[]" title="2/02/03/16" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/03/16_aupAsane_pachane_vA.md">
 
-<details><summary>**2/02/03/16 …{Loading}…**</summary>
+<details open><summary>2/02/03/16 …{Loading}…</summary>
 
 औपासने पचने वा षड्भिराद्यैः प्रतिमन्त्रं हस्तेन जुहुयात् १६  
 
@@ -194,7 +194,7 @@ unicode_script: devanagari
 
 <div class="js_include" newlevelforh1="b[]" title="2/02/03/17" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/03/17_ubhayataH_pariShechanaM_yathA.md">
 
-<details><summary>**2/02/03/17 …{Loading}…**</summary>
+<details open><summary>2/02/03/17 …{Loading}…</summary>
 
 उभयतः परिषेचनं यथा पुरस्तात् १७  
 
@@ -215,7 +215,7 @@ unicode_script: devanagari
 
 <div class="js_include" newlevelforh1="b[]" title="2/02/03/18" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/03/18_evam_balInAn_deshe.md">
 
-<details><summary>**2/02/03/18 …{Loading}…**</summary>
+<details open><summary>2/02/03/18 …{Loading}…</summary>
 
 एवं बलीनां देशे देशे समवेतानां सकृत्सकृदन्ते परिषेचनम् १८
 </details>
@@ -224,7 +224,7 @@ unicode_script: devanagari
 
 <div class="js_include" newlevelforh1="b[]" title="2/02/03/19" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/03/19_sati_sUpasaMsRShTena_kAryAH.md">
 
-<details><summary>**2/02/03/19 …{Loading}…**</summary>
+<details open><summary>2/02/03/19 …{Loading}…</summary>
 
 सति सूपसंसृष्टेन कार्याः १९
 </details>
@@ -233,7 +233,7 @@ unicode_script: devanagari
 
 <div class="js_include" newlevelforh1="b[]" title="2/02/03/20" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/03/20_apareNAgniM_saptamAShTamAbhyAmudagapavargam.md">
 
-<details><summary>**2/02/03/20 …{Loading}…**</summary>
+<details open><summary>2/02/03/20 …{Loading}…</summary>
 
 अपरेणाग्निं सप्तमाष्टमाभ्यामुदगपवर्गम् २०
 </details>
@@ -242,7 +242,7 @@ unicode_script: devanagari
 
 <div class="js_include" newlevelforh1="b[]" title="2/02/03/21" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/03/21_udadhAnasannidhau_navamena.md">
 
-<details><summary>**2/02/03/21 …{Loading}…**</summary>
+<details open><summary>2/02/03/21 …{Loading}…</summary>
 
 उदधानसंनिधौ नवमेन २१  
 
@@ -258,7 +258,7 @@ unicode_script: devanagari
 
 <div class="js_include" newlevelforh1="b[]" title="2/02/03/22" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/03/22_madhye-gArasya_dashamaikAdashAbhyAm_prAgapavargam.md">
 
-<details><summary>**2/02/03/22 …{Loading}…**</summary>
+<details open><summary>2/02/03/22 …{Loading}…</summary>
 
 मध्येऽगारस्य दशमैकादशाभ्यां प्रागपवर्गम् २२  
 
@@ -273,7 +273,7 @@ unicode_script: devanagari
 
 <div class="js_include" newlevelforh1="b[]" title="2/02/03/23" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/03/23_uttarapUrvadeshe-gArasyottaraishchaturbhiH.md">
 
-<details><summary>**2/02/03/23 …{Loading}…**</summary>
+<details open><summary>2/02/03/23 …{Loading}…</summary>
 
 उत्तरपूर्वदेशेऽगारस्योत्तरैश्चतुर्भिः २३  
 
@@ -288,7 +288,7 @@ unicode_script: devanagari
 
 <div class="js_include" newlevelforh1="b[]" title="2/02/04/01" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/04/01_shayyAdeshe_kAmalingena.md">
 
-<details><summary>**2/02/04/01 …{Loading}…**</summary>
+<details open><summary>2/02/04/01 …{Loading}…</summary>
 
 शय्यादेशे कामलिङ्गेन १
 </details>
@@ -297,7 +297,7 @@ unicode_script: devanagari
 
 <div class="js_include" newlevelforh1="b[]" title="2/02/04/02" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/04/02_dehalyAmantarixalingena.md">
 
-<details><summary>**2/02/04/02 …{Loading}…**</summary>
+<details open><summary>2/02/04/02 …{Loading}…</summary>
 
 देहल्यामन्तरिक्षलिङ्गेन २
 
@@ -313,7 +313,7 @@ unicode_script: devanagari
 
 <div class="js_include" newlevelforh1="b[]" title="2/02/04/03" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/04/03_uttareNApidhAnyAm.md">
 
-<details><summary>**2/02/04/03 …{Loading}…**</summary>
+<details open><summary>2/02/04/03 …{Loading}…</summary>
 
 उत्तरेणापिधान्याम् ३
 
@@ -328,7 +328,7 @@ unicode_script: devanagari
 
 <div class="js_include" newlevelforh1="b[]" title="2/02/04/04" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/04/04_uttarairbrahmasadane.md">
 
-<details><summary>**2/02/04/04 …{Loading}…**</summary>
+<details open><summary>2/02/04/04 …{Loading}…</summary>
 
 उत्तरैर्ब्रह्मसदने ४  
 
@@ -346,7 +346,7 @@ unicode_script: devanagari
 
 <div class="js_include" newlevelforh1="b[]" title="2/02/04/05" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/04/05_daxiNataH_pitRlingena_prAchInAvItyavAchInapANiH.md">
 
-<details><summary>**2/02/04/05 …{Loading}…**</summary>
+<details open><summary>2/02/04/05 …{Loading}…</summary>
 
 दक्षिणतः पितृलिङ्गेन प्राचीनावीत्यवाचीनपाणिः कुर्यात् ५
 
@@ -361,7 +361,7 @@ unicode_script: devanagari
 
 <div class="js_include" newlevelforh1="b[]" title="2/02/04/06" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/04/06_raudra_uttaro_yathA.md">
 
-<details><summary>**2/02/04/06 …{Loading}…**</summary>
+<details open><summary>2/02/04/06 …{Loading}…</summary>
 
 रौद्र उत्तरो यथा देवताभ्यः ६
 
@@ -376,7 +376,7 @@ unicode_script: devanagari
 
 <div class="js_include" newlevelforh1="b[]" title="2/02/04/07" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/04/07_tayornAnA_pariShechanan_dharmabhedAt.md">
 
-<details><summary>**2/02/04/07 …{Loading}…**</summary>
+<details open><summary>2/02/04/07 …{Loading}…</summary>
 
 तयोर्नाना परिषेचनं धर्मभेदात् ७
 </details>
@@ -385,7 +385,7 @@ unicode_script: devanagari
 
 <div class="js_include" newlevelforh1="b[]" title="2/02/04/08" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/04/08_naktamevottamena_vaihAyasam.md">
 
-<details><summary>**2/02/04/08 …{Loading}…**</summary>
+<details open><summary>2/02/04/08 …{Loading}…</summary>
 
 नक्तमेवोत्तमेन वैहायसम् ८
 
@@ -403,7 +403,7 @@ unicode_script: devanagari
 
 <div class="js_include" newlevelforh1="b[]" title="2/02/04/10" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/04/10_agra~n_cha_deyam.md">
 
-<details><summary>**2/02/04/10 …{Loading}…**</summary>
+<details open><summary>2/02/04/10 …{Loading}…</summary>
 
 अग्रं च देयम् १०
 </details>
@@ -414,7 +414,7 @@ unicode_script: devanagari
 ### आतिथ्यम्
 <div class="js_include" newlevelforh1="b[]" title="2/02/04/11" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/04/11_atithInevAgre_bhojayet.md">
 
-<details><summary>**2/02/04/11 …{Loading}…**</summary>
+<details open><summary>2/02/04/11 …{Loading}…</summary>
 
 अतिथीनेवाग्रे भोजयेत् ११
 </details>
@@ -423,7 +423,7 @@ unicode_script: devanagari
 
 <div class="js_include" newlevelforh1="b[]" title="2/02/04/12" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/02/04/12_balAn_vRddhAn_rogasambandhAn.md">
 
-<details><summary>**2/02/04/12 …{Loading}…**</summary>
+<details open><summary>2/02/04/12 …{Loading}…</summary>
 
 बालान् वृद्धान् रोग-संबन्धान् स्त्रीश् चान्तर्वत्नीः १२
 </details>
@@ -432,7 +432,7 @@ unicode_script: devanagari
 
 <div class="js_include" newlevelforh1="b[]" title="2/04/09/05" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/04/09/05_sarvAnvaishvadeve_bhAginaH_kurvItA.md">
 
-<details><summary>**2/04/09/05 …{Loading}…**</summary>
+<details open><summary>2/04/09/05 …{Loading}…</summary>
 
 सर्वान्वैश्वदेवे भागिनः कुर्वीता श्व-चाण्डालेभ्यः ५
 </details>
@@ -441,7 +441,7 @@ unicode_script: devanagari
 
 <div class="js_include" newlevelforh1="b[]" title="2/04/09/06" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/04/09/06_nAnarhadbhyo_dadyAd_ity.md">
 
-<details><summary>**2/04/09/06 …{Loading}…**</summary>
+<details open><summary>2/04/09/06 …{Loading}…</summary>
 
 नानर्हद्भ्यो दद्याद् इत्य् एके ६
 </details>

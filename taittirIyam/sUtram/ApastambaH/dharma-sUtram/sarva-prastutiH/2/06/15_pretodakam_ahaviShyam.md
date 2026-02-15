@@ -4,12 +4,16 @@ title = "१५ प्रेतोदकम्, अहविष्यम्"
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/15/01_etena_deshakuladharmA_vyAkhyAtAH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 एतेन देशकुलधर्मा +++(=शास्त्राऽविरुद्धा एव)+++ व्याख्याताः १
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/15/01_etena_deshakuladharmA_vyAkhyAtAH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 1. By this (discussion) the law of custom, which is observed in (particular) countries or families, has been disposed of. [^1] 
@@ -29,20 +33,25 @@ title = "१५ प्रेतोदकम्, अहविष्यम्"
 
 [^१]: गौ०ध० ११. ३०.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/15/02_mAtush_cha_yonisambandhebhyaH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 मातुश् च योनि-संबन्धेभ्यः पितुश् +++(स्वेन साकं)+++ चासप्तमात् पुरुषाद्  
 यावता वा संबन्धो ज्ञायते  
 तेषां प्रेतेषूदकोपस्पर्शनं  
 +++(मृतान्)+++ गर्भान्+++(=बालान्)+++ परिहाप्यापरिसंवत्सरान् २
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/15/02_mAtush_cha_yonisambandhebhyaH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 2. On account of the blood relations of his mother and (on account of those) of his father within six degrees, or, as far as the relationship is traceable, he shall bathe if they die, excepting children that have not completed their first year. [^2] 
@@ -73,17 +82,22 @@ title = "१५ प्रेतोदकम्, अहविष्यम्"
 
 [^१]: म० ५. ६..
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/15/03_mAtApitarAv_eva_teShu.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 माता-पितराव् एव तेषु +++(मृतापरिसंवत्सरेषु गर्भेषु)+++ ३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/15/03_mAtApitarAv_eva_teShu.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 3. On account of the death of the latter the parents alone bathe,
@@ -97,17 +111,22 @@ title = "१५ प्रेतोदकम्, अहविष्यम्"
 **टीका**  
 बालेषु मृतेषु मातापितरावेवोदकस्पर्शनं कुर्याताम् ॥ ३ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/15/04_hartArash_cha.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 हर्तारश् च ४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/15/04_hartArash_cha.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 4. And those who bury them. [^3] 
@@ -123,17 +142,22 @@ title = "१५ प्रेतोदकम्, अहविष्यम्"
 **टीका**  
 ये च तान् बालान् मृतान् हरन्ति तेऽप्युदकोपस्पर्शनं कुर्युरिति । एवमाचार्यस्य पक्षः ॥ ४॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/15/05_bhAryAyAm_paramagurusaMsthAyA~n_chAkAlam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 भार्यायां परम-गुरु+++(=आचार्य-मातृ-पितृ)+++-संस्थायां +++(=मरणे)+++ च +++(परेद्युर्)+++ +आकालम् +++(२४ होराणाम्)+++ अभोजनम् ५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/15/05_bhAryAyAm_paramagurusaMsthAyA~n_chAkAlam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 5. If a wife or one of the chief Gurus (a father or Ācārya) die, besides, fasting (is ordained from the time at which they die) up to the same time (on the following day). [^4] 
@@ -149,17 +173,22 @@ title = "१५ प्रेतोदकम्, अहविष्यम्"
 **टीका**  
 भार्या पत्नी । परमगुरवः आचार्यमातापितरः। संस्था मरणम् । भार्यायां संस्थितायां परमगुरूणां च संस्थायां सत्यां न केवलमुदकोपस्पर्शन, किं तर्हि ? अपरेद्युः आ तस्मात्कालातं अभोजन च ॥ ५ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/15/06_AturavyanjanAni_kurvIran.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 आतुर+++(=शोक)+++व्यञ्जनानि कुर्वीरन् ६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/15/06_AturavyanjanAni_kurvIran.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 6. (In that case) they shall also show the (following) signs of mourning:
@@ -176,17 +205,22 @@ title = "१५ प्रेतोदकम्, अहविष्यम्"
 **टीका**  
 आतुरत्व व्यज्यते यैस्तानि च कुर्वीरन् भार्यादिमरणे ॥ ६ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/15/07_keshAn_prakIrya_pAMsUnA.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 केशान् प्रकीर्य पांसूना, +++(केशान्)+++ उप्य, एक-वाससो दक्षिणा-मुखाः सकृद्-उपमज्ज्योत्तीर्योपविशन्ति ७
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/15/07_keshAn_prakIrya_pAMsUnA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 7. Dishevelling their hair and covering themselves with dust (they go outside the village), and, clothed with one garment, their faces turned to the south, stepping into the river they throw up water for the dead once, and then, ascending (the bank), they sit down. [^5] 
@@ -208,17 +242,22 @@ title = "१५ प्रेतोदकम्, अहविष्यम्"
 **दक्षिणामुखाः** दक्षिणां दिशं निरीक्षमाणाः  
 सकृद् उपमज्ज्य उदकादुत्तीर्य तीरे उपविशन्ति दक्षिणामुखा एव ॥ ७ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/15/08_evan_triH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 एवं त्रिः ८
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/15/08_evan_triH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 8. This (they repeat) thrice.
@@ -232,19 +271,25 @@ title = "१५ प्रेतोदकम्, अहविष्यम्"
 **टीका**  
 एवम् उक्तप्रकारेण त्रिरुपमज्ज्योपविशेयुः ॥ ८ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/15/09_tatpratyayam_udakamutsichyApratIxA_grAmam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 +++("मह्यम् उदकं दत्तम्" इति)+++ तत्+++(→प्रेत)+++-प्रत्ययम् उदकम् उत्सिच्य  
 +अ-प्रतीक्षा ग्रामम् एत्य  
 यत् स्त्रिय आहुस् तत् कुर्वन्ति ९
+
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/15/09_tatpratyayam_udakamutsichyApratIxA_grAmam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 9. They pour out water consecrated in such a manner that the dead will know it (to be given to them). Then they return to the village without looking back, and perform those rites for the dead which (pious) women declare to be necessary.
@@ -262,17 +307,22 @@ title = "१५ प्रेतोदकम्, अहविष्यम्"
 
 [^१]: आप० पि० सू०
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/15/10_itareShu_chaitadevaika_upadishanti.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 इतरेषु चैतद् एवैक उपदिशन्ति १०
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/15/10_itareShu_chaitadevaika_upadishanti.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 10. Some declare, that these same (observances) shall also be kept in the case (of the death) of other (Sapiṇḍas).
@@ -292,17 +342,22 @@ title = "१५ प्रेतोदकम्, अहविष्यम्"
 न विहारिण इत्यन्ये ॥ १३ ॥  
 विहारिणो बालाः । तेऽपि न ॥ १३ ॥ इत्यधिकं० घ० पुस्तके०
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/15/11_shuchIn_mantravataH_sarvakRtyeShu.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 शुचीन् मन्त्रवतः सर्व-कृत्येषु भोजयेत् ११
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/15/11_shuchIn_mantravataH_sarvakRtyeShu.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 11. At all religious ceremonies, he shall feed Brāhmaṇas who are pure and who have (studied and remember) the Veda. [^6] 
@@ -322,17 +377,22 @@ title = "१५ प्रेतोदकम्, अहविष्यम्"
 
 [^३]: 'अन्ततः' इति. च. पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/15/12_deshataH_kAlataH_shauchataH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 देशतः +++(→तीर्थस्थानेषु)+++ कालतः +++(→ग्रहणादौ)+++  शौचतः +++(→कृच्छ्रादेर् अन्ते)+++ सम्यक् प्रतिग्रहीतृत इति दानानि प्रतिपादयति १२
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/15/12_deshataH_kAlataH_shauchataH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 12. He shall distribute his gifts at the proper places, at the proper times, at the occasion of purificatory rites, and to proper recipients. [^7] 
@@ -350,17 +410,22 @@ title = "१५ प्रेतोदकम्, अहविष्यम्"
 
 [^१]: शौचं कृच्छ्रादि इति ङ, च. पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/15/13_yasyAgnau_na_kriyate.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 यस्याग्नौ न क्रियते यस्य चाग्रं न दीयते न तद्भोक्तव्यम् १३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/15/13_yasyAgnau_na_kriyate.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 13. That food must not be eaten of which (no portion) is offered in the fire, and of which no portion is first given (to guests).
@@ -376,17 +441,22 @@ title = "१५ प्रेतोदकम्, अहविष्यम्"
 
 [^२]: 'यस्य ब्राह्मणस्यान्नं न दीयत' इति क.च. पुस्तकयोरधिकम् ।
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/15/14_na_xAralavaNahomo_vidyate.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 न क्षारलवणहोमो विद्यते १४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/15/14_na_xAralavaNahomo_vidyate.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 14. No food mixed with pungent condiments or salt can be offered as a burnt-offering. [^8] 
@@ -411,17 +481,22 @@ title = "१५ प्रेतोदकम्, अहविष्यम्"
     धान्यक देवधान्यं च शमीधान्यं तथैक्षवम् ।  
     स्विन्नधान्यं तथा पण्यमूलं क्षारगणस्मृतः ॥ इति निर्णयसिन्धौ।
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/15/15_tathAvarAnna_saMsRShTasya_cha.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तथावरान्न संसृष्टस्य च १५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/15/15_tathAvarAnna_saMsRShTasya_cha.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 15. Nor (can food) mixed with bad food (be used for a burnt-oblation). [^9] 
@@ -437,17 +512,22 @@ title = "१५ प्रेतोदकम्, अहविष्यम्"
 **टीका**  
 अवरान्नं कुलुत्थादि । तत्संसृष्टस्याप्यन्नस्य होमो न विद्यते ॥ १५ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/15/16_ahaviShyasya_homa_udIchInamuShNam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अहविष्यस्य होम उदीचीनमुष्णं भस्मापोह्य तस्मिञ्जुह्यात्तद्धुतमहुतं चाग्नौ भवति १६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/15/16_ahaviShyasya_homa_udIchInamuShNam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 16. If (he is obliged to offer) a burnt-offering of food unfit for that purpose, he shall take hot ashes from the northern part of his fire and offer the food in that. That oblation is no oblation in the fire.
@@ -472,17 +552,22 @@ title = "१५ प्रेतोदकम्, अहविष्यम्"
 
 [^७]: अपरे मन्यन्ते 'इति. घ. पु.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/15/17_na_strI_juhuyAt.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 न स्त्री जुहुयात् १७
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/15/17_na_strI_juhuyAt.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 17. A female shall not offer any burnt-oblation, [^10] 
@@ -498,17 +583,22 @@ title = "१५ प्रेतोदकम्, अहविष्यम्"
 **प्रस्तावः**  
 उत्तरे द्वे सूत्रे स्पष्टे —
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/15/18_nAnupetaH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 नानुपेतः १८
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/15/18_nAnupetaH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 18. Nor a child, that has not been initiated. [^11] 
@@ -521,17 +611,22 @@ title = "१५ प्रेतोदकम्, अहविष्यम्"
 **सूत्रम्**  
 नाऽनुपेतः॥ १८॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/15/19_AnnaprAshanAdgarbhA_nAprayatA_bhavanti.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 आऽन्न-प्राशनाद् गर्भा नाप्रयता भवन्ति १९
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/15/19_AnnaprAshanAdgarbhA_nAprayatA_bhavanti.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 19. Infants do not become impure before they receive the sacrament called Annaprāśana (the first feeding).
@@ -547,17 +642,22 @@ title = "१५ प्रेतोदकम्, अहविष्यम्"
 
 [^१]: गौ० २.६. 'अपमार्जन' इति मैसूरपुस्तकपाठः
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/15/20_A_parisaMvatsarAd_ityeke.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 आ परिसंवत्सराद् इत्येके २०
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/15/20_A_parisaMvatsarAd_ityeke.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 20. Some (declare, that they cannot become impure) until they have completed their first year,
@@ -571,17 +671,22 @@ title = "१५ प्रेतोदकम्, अहविष्यम्"
 **टीका**  
 यावत् संवत्सरो न परिपूर्यते तावन्नाप्रयता गर्भा इत्यके मन्यते ॥२३॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/15/21_yAvatA_yA_disho.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 यावता या दिशो न प्रजानीयुः २१
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/15/21_yAvatA_yA_disho.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 21. Or, as long as they cannot distinguish the points of the horizon.
@@ -595,17 +700,22 @@ title = "१५ प्रेतोदकम्, अहविष्यम्"
 **टीका**  
 यावद्दिग्विभागज्ञानं नाऽस्ति तावताऽप्रयता भवन्ति ॥ २१ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/15/22_opanayanAd_ity_aparam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 ओपनयनाद् इत्य् अपरम् २२
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/15/22_opanayanAd_ity_aparam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 22. The best (opinion is, that they cannot be defiled) until the initiation has been performed.
@@ -623,17 +733,22 @@ title = "१५ प्रेतोदकम्, अहविष्यम्"
 
 [^३]: घ. पुस्तके 'भवतीति'इतीतिकरणान्तं सूत्र पठित्वा इति करणो हेतौ' इति व्याख्यातम् ।
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/15/23_atra_hyadhikAraH_shAstrair.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अत्र ह्य् अधिकारः +++(कर्मसु)+++ शास्त्रैर् +++(दत्ता)+++ भवति २३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/15/23_atra_hyadhikAraH_shAstrair.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 23. For at that (time a child) according to the rules of the Veda obtains the right (to perform the various religious ceremonies).
@@ -650,17 +765,22 @@ title = "१५ प्रेतोदकम्, अहविष्यम्"
 **टीका**  
 हि यस्मादत्रोपनयने सति विधिनिषेधशास्त्रैरधिकारो भवति ॥२३॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/15/24_sA_niShThA.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 सा +++(=उपनयनम्)+++ निष्ठा +++(=कर्माधिकार-प्रारम्भः)+++२४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/15/24_sA_niShThA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 24. That ceremony is the limit (from which the capacity to fulfil the law begins).
@@ -674,17 +794,22 @@ title = "१५ प्रेतोदकम्, अहविष्यम्"
 **टीका**  
 उपनयनमपि परामृशतस्तच्छब्दस्य निष्ठाशब्दसमानाधिकरण्यात् स्त्रीलिङ्गता । सा निष्ठा तदुपनयनमवसानमधिकारस्येति ॥२४॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/06/15/25_smRtishcha.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 स्मृतिश्च +++(एवं विद्यते)+++ २५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/06/15/25_smRtishcha.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 25. And the Smṛti (agrees with this opinion). [^12] 
@@ -707,6 +832,7 @@ title = "१५ प्रेतोदकम्, अहविष्यम्"
 इत्यापस्तम्बधर्मसूत्रे द्वितीयप्रश्ने पञ्चदशी कण्डिका ॥१५॥  
 
 इति चापस्तम्बधर्मसूत्रवृत्तौ हरदत्तमिश्रविरचितायामुज्ज्वलायां द्वितीयप्रश्ने षष्ठः पटलः ॥ ६॥
+</details>
 </details>
 
 </div>

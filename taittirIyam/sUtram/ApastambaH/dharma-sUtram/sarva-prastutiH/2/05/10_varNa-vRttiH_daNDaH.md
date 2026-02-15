@@ -4,12 +4,16 @@ title = "१० वर्ण-वृत्तिः, दण्डः"
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/10/01_bhixaNe_nimittamAchAryo_vivAho.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 भिक्षणे निमित्तमाचार्यो विवाहो यज्ञो मातापित्रोर्बुभूर्षार्हतश्च नियमविलोपः १
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/05/10/01_bhixaNe_nimittamAchAryo_vivAho.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 1. The reasons for (which) begging (is permissible are), (the desire to collect the fee for) the teacher, (the celebration of) a wedding, (or of) a Śrauta-sacrifice, the desire to keep one's father and mother, and the (impending) interruption of ceremonies performed by a worthy man. [^1] 
@@ -25,17 +29,22 @@ title = "१० वर्ण-वृत्तिः, दण्डः"
 **टीका**  
 भिक्षणं याचनम् । तत्राऽऽचार्यादयो निमित्तम् । बुभूर्षा भर्तुमिच्छा। अर्हतो विद्यादिमतोऽग्निहोत्रादिनियमे योग्यस्याऽर्थस्याऽभावेन लोपः ॥१॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/10/02_tatra_guNAnsamIxya_yathAshakti.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तत्र गुणान्समीक्ष्य यथाशक्ति देयम् २
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/05/10/02_tatra_guNAnsamIxya_yathAshakti.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 2. (The person asked for alms) must examine the qualities (of the petitioner) and give according to his power.
@@ -55,17 +64,22 @@ title = "१० वर्ण-वृत्तिः, दण्डः"
 
 [^३]: विश्वजिताऽतिरात्रेण सर्वपृष्ठेन सर्वस्वदक्षिणेन यजेत' इत्यनेन विहितेन यागेनेष्ट्वा तत्र दत्तसर्वस्वदक्षिण इत्यर्थः ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/10/03_indriyaprItyarthasya_tu_bhixaNamanimittam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 इन्द्रियप्रीत्यर्थस्य तु भिक्षणमनिमित्तम् । न तदाद्रियेत ३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/05/10/03_indriyaprItyarthasya_tu_bhixaNamanimittam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 3. But if persons ask for alms for the sake of sensual gratification, that is improper; he shall not take heed of that.
@@ -83,17 +97,23 @@ title = "१० वर्ण-वृत्तिः, दण्डः"
 
     इदमुत्तरं च सूत्रमेकीकृतं च. पु. । इन्द्रियमनिमित्तम् ॥ ४ ॥ तस्नान तदाद्रियते ॥५॥ इति तच्छन्दघटितं भिन्नसूत्रतया च पठितं क. पुस्तके ।
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/10/04_na_tad_Adriyeta.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 न तदाद्रियेत 
+
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/05/10/04_na_tad_Adriyeta.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 he shall not take heed of that.
@@ -107,17 +127,23 @@ he shall not take heed of that.
 **टीका**  
 तस्मात् न तदाद्रियेत । अदानेऽपि न प्रत्यवायः । विवाहोऽपि द्वितीयो न निमित्तं सत्यां प्रथमायां धर्मप्रजासम्पन्नायाम् । तदर्थमिदं वचनम् । अन्यत्र प्राप्त्यभावात् ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/10/05_svakarma_brAhmaNasya.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 स्वकर्म ब्राह्मणस्याध्ययनमध्यापनम्यज्ञो याजनं दानं प्रतिग्रहणं दायाद्यं शिलोञ्छः ४  
+
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/05/10/05_svakarma_brAhmaNasya.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 4. The lawful occupations of a Brāmaṇa are, [^2]  studying, teaching, sacrificing for himself, officiating as priest for others, giving alms, receiving alms, inheriting, and gleaning corn in the fields;
@@ -135,17 +161,23 @@ he shall not take heed of that.
 
 [^१]: एतदादिसूत्रचतुष्टयोक्ता विषया मानवेषु (१. ८५-९१) श्लाकेषु द्रष्टव्याः ।
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/10/06_anyachchAparigRhItam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अन्यच्चापरिगृहीतम् +++(यथा मूलफलादिः)+++५
+
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/05/10/06_anyachchAparigRhItam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 5. And (he may live by taking) other things which belong to nobody. [^3] 
@@ -161,17 +193,22 @@ he shall not take heed of that.
 **टीका**  
 यच्चाऽन्यत् केनाप्यपरिगृहीतमारण्यमूलफलादि तेनापि । जीवेदिति प्रकरणात् गम्यते । एतेन निधिर्व्याख्यातः ॥ ६॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/10/07_etAnyeva.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 एतान्येव क्षत्रियस्याध्यापनयाजनप्रतिग्रहणानीति परिहाप्य दण्डयुद्धाधिकानि ६
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/05/10/07_etAnyeva.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 6. (The lawful occupations) of a Kṣatriya are the same, with the exception of teaching, officiating as priest, and receiving alms. (But) governing and fighting must be added. [^4] 
@@ -187,17 +224,22 @@ he shall not take heed of that.
 **टीका**  
 एतान्येव क्षत्रियस्याऽपि स्वकर्म । अध्यापनादीनि त्रीणि वर्जयित्वा । दण्डलब्धं युद्धलब्धं चाऽधिकम् ॥७॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/10/08_xatriyavadvaishyasya_daNDayuddhavarja~N_kRShigoraxyavANijyAdhikam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 क्षत्रियवद्वैश्यस्य दण्डयुद्धवर्जं कृषिगोरक्ष्यवाणिज्याधिकम् ७
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/05/10/08_xatriyavadvaishyasya_daNDayuddhavarja~N_kRShigoraxyavANijyAdhikam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 7. (The lawful occupations) of a Vaiśya are the same as those of a Kṣatriya, with the exception of governing and fighting. (But in his case) agriculture, the tending of cattle, and trade must be added. [^5] 
@@ -215,17 +257,22 @@ he shall not take heed of that.
 
 [^२]: कात्या० वा० ४३४.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/10/09_nAnanUchAnamRtvijaM_vRNIte_na.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 नाननूचानमृत्विजं वृणीते न पणमानम् ८
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/05/10/09_nAnanUchAnamRtvijaM_vRNIte_na.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 8. He (shall) not choose (for the performance of a Śrauta-sacrifice) a priest who is unlearned in the Veda, nor one who haggles (about his fee).
@@ -239,17 +286,22 @@ he shall not take heed of that.
 **टीका**  
 साङ्गस्य वेदस्याऽध्येता प्रवक्ता चाऽनूचानः । अतादृशमृत्विजं न वृणीते नाऽप्येतावद्देयमिति परिभाषमाणम् ॥९॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/10/10_ayAjyo-nadhIyAnaH.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 अयाज्योऽनधीयानः ९
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/05/10/10_ayAjyo-nadhIyAnaH.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 9. (A priest) shall not officiate for a person unlearned in the Veda.
@@ -263,17 +315,22 @@ he shall not take heed of that.
 **टीका**  
 अनधीतवेदं न याजयेत् तदानीमपेक्षितं मन्त्रं यथाशक्ति वाचयन् ॥ १० ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/10/11_yuddhe_tadyogA_yathopAyamupadishanti.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 युद्धे तद्योगा यथोपायमुपदिशन्ति तथा प्रतिपत्तव्यम् १०
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/05/10/11_yuddhe_tadyogA_yathopAyamupadishanti.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 10. In war (Kṣatriyas) shall act in such a manner as those order, who are learned in that (art of war).
@@ -290,17 +347,22 @@ he shall not take heed of that.
 **टीका**  
 युद्धविषये तथा प्रतिपत्तव्यं यथा तद्योगा उपायमुपदिशन्ति तस्मिन्युद्ध कर्मणि युद्धशास्त्रे वा येषामभियोगः ते तद्योगाः ॥ ११ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/10/12_nyastAyudhaprakIrNakeshaprAnjaliparA~NAvRttAnAmAryA_vadham_parichaxate.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 न्यस्तायुधप्रकीर्णकेशप्राञ्जलिपराङावृत्तानामार्या वधं परिचक्षते ११
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/05/10/12_nyastAyudhaprakIrNakeshaprAnjaliparA~NAvRttAnAmAryA_vadham_parichaxate.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 11. The Āryas forbid the slaughter of those who have laid down their arms, of those who (beg for mercy) with flying hair or joined hands, and of fugitives. [^6] 
@@ -318,17 +380,22 @@ he shall not take heed of that.
 
 [^१]: गौ०ध० १०. १९.
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/10/13_shAstrairadhigatAnAmindri_yadaurbalyAdvipratipannAnAM_shAstA.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 शास्त्रैरधिगतानामिन्द्रि यदौर्बल्याद्विप्रतिपन्नानां शास्ता निर्वेषमुपदिशेद्यथाकर्म यथोक्तम् १२
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/05/10/13_shAstrairadhigatAnAmindri_yadaurbalyAdvipratipannAnAM_shAstA.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 12. The spiritual guide shall order those who, [^7]  (whilst) participating according to sacred law (in the rights of their caste), have gone astray through the weakness of their senses, to perform penances proportionate to (the greatness of) their sins, according to the precepts (of the Smṛti).
@@ -344,17 +411,22 @@ he shall not take heed of that.
 **टीका**  
 यथाशास्त्रं गर्भाधानादिभिः संस्कारैः संस्कृताः शास्त्रैरधिगताः तेषामिन्द्रियदौर्बल्यात् अजितेन्द्रियतया विप्रतिपन्नानां स्वकर्मतश्च्युतानां निषिद्धेषु च प्रवृत्तानाम् । शास्ता शासिता आचार्यादिः । निर्वेषं प्रायश्चित्तमुपदिशेत् । यथाकर्म कर्मानुरूपम् । यथोक्तं धर्मशास्त्रेषु ॥ १३ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/10/14_tasya_chechChAstramatipravarteranrajAna~N_gamayet.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 तस्य चेच्छास्त्रमतिप्रवर्तेरन्रजानं गमयेत् १३
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/05/10/14_tasya_chechChAstramatipravarteranrajAna~N_gamayet.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 13. If (such persons) transgress their (Ācārya's) order, he shall take them before the king.
@@ -368,17 +440,22 @@ he shall not take heed of that.
 **टीका**  
 तस्य चेच्छासितुः शास्त्रं शासनं अतिप्रवर्तेरन् न तत्र तिष्ठेयुः राजानं गमयेत्- एवमसौ करोतीति ॥ १४ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/10/15_rAjA_purohitan_dharmArthakushalam.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 राजा पुरोहितं धर्मार्थकुशलम् १४
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/05/10/15_rAjA_purohitan_dharmArthakushalam.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 14. The king shall (send them) to his domestic priest, who should be learned in the law and the science of governing.
@@ -392,17 +469,22 @@ he shall not take heed of that.
 **टीका**  
 स राजा धर्मशास्त्रेष्वर्थशास्त्रेषु कुशलं च पुरोहितं गमयेत्-विनीयतामसाविति ॥ १५॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/10/16_sa_brAhmaNAnniyunjyAt.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 स ब्राह्मणान्नियुञ्ज्यात् १५
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/05/10/16_sa_brAhmaNAnniyunjyAt.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 15. He shall order (them to perform the proper penances if they are) Brāhmaṇas.
@@ -416,17 +498,23 @@ he shall not take heed of that.
 **टीका**  
 स पुरोहितः ब्राह्मणाश्चेदतिक्रमणकारिणः प्रापिताः तान्नियुञ्ज्यात् अनुरूपेषु प्रायश्चित्तेषु नियुञ्जीत ॥ १६ ॥
 </details>
+</details>
 
 </div>
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/10/17_balavisheSheNa_vadhadAsyavarjan_niyamairupashoShayet.md">
 
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
 बलविशेषेण वधदास्यवर्जं नियमैरुपशोषयेत् १६
+
+</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/2/05/10/17_balavisheSheNa_vadhadAsyavarjan_niyamairupashoShayet.md">
 
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
 16. He shall reduce them (to reason) by forcible means, excepting corporal punishment and servitude. [^8] 
@@ -448,6 +536,7 @@ he shall not take heed of that.
 [^२]: अत्र विषये मानवौ ८. ३८०, ३८१. इलोकौ द्रष्टव्यौ ।  
 
 इत्यापस्तम्बधर्मसूत्र उज्वलोपेते द्वितीयप्रश्ने दशमी कण्डिका ॥१०॥
+</details>
 </details>
 
 </div>
