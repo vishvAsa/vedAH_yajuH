@@ -159,8 +159,6 @@ title = "०२ ब्रह्मचर्यम्"
 
 **साम - वामदेव्यम्।**
 
-- पारम्परिक-गान-मूलम् [अत्र](https://sanskritdocuments.org/sites/pssramanujaswamy/VIVAAHA%20UPANAYANA%20SAAMAANI.pdf&sa=D&ust=1542425956221000)।
-
 <div caption="रामानुजार्यः 1974 " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/vAmadevyam.mp3"></div>
 
@@ -797,7 +795,7 @@ He who has been initiated shall dwell as a religious student in the house of his
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/23_tathA_xAralavaNamadhumAMsAni.md">
 
-तथा क्षार-लवण-मधु-मांसानि +++(गृह्यसूत्र उपनयनप्रकरणे क्षार-लवणयोर् त्र्यहं [नियमनात्](/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/karmANi/upanayanam)) मध्वादेरेव त्र्यहादूर्ध्वं नित्यो निषेधः। )+++ २३
+तथा क्षार-लवण-मधु-मांसानि +++(गृह्यसूत्र उपनयनप्रकरणे क्षार-लवणयोर् त्र्यहं [नियमनात्](/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/karmANi/upanayanam) मध्वादेरेव त्र्यहादूर्ध्वं नित्यो निषेधः। )+++ २३
 
 </div>
 

@@ -8,7 +8,7 @@ unicode_script: devanagari
 ---
 विशेष-यज्ञ-विचारा अन्यत्र, यथा - ब्रह्मयज्ञः, मनुष्ययज्ञः, पञ्च-महा-यज्ञाः।
 
-<div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/10/09_nAnanUchAnamRtvijaM_vRNIte_na.md">
+<div class="js_include" newlevelforh1="0" title="2/05/10/09" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/05/10/09_nAnanUchAnamRtvijaM_vRNIte_na.md">
 
 नाननूचानमृत्विजं वृणीते न पणमानम् ८
 

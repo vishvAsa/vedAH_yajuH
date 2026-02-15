@@ -235,8 +235,7 @@ title = "२२ वानप्रस्थादि"
 
 <div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/2/09/22/10_shilonChena_vartayet.md">
 
-शिलोञ्छेन+++(=उपात्तशस्यात् क्षेत्रात्
-शेषावचयनेन)+++ वर्तयेत् १०
+शिलोञ्छेन+++(=उपात्तशस्यात् क्षेत्रात् शेषावचयनेन)+++ वर्तयेत् १०
 
 </div>
 
