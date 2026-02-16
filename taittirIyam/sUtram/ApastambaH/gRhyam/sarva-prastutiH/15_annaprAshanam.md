@@ -1,6 +1,5 @@
 +++
 title = "१५ अन्नप्राशनम्"
-
 +++
 
 
@@ -28,7 +27,6 @@ title = "१५ अन्नप्राशनम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/15_annaprAshanam/16_01_janmano-dhi_ShaShThe.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 1. In the sixth month after the child's birth he serves food to Brāhmaṇas and causes them to pronounce auspicious wishes; then he should pour together curds, honey, ghee, and boiled rice, and should give (the mixture) to the boy to eat, with the next (four) Mantras (II, 14, 7-10);
@@ -71,17 +69,12 @@ title = "१५ अन्नप्राशनम्"
 सम्बुद्ध्या च नामग्रहणम् ।
 द्वितीयतृतीययोरपि "त्वौषधीनाम्" इत्यादेरनुषङ्गः ॥१॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/15_annaprAshanam/16_01_janmano-dhi_ShaShThe.md">
 
-<details><summary><h4></h4>></summary>
-
 जन्मनोऽधि षष्ठे मासि ब्राह्मणान् भोजयित्वाऽऽशिषो वाचयित्वा दधि मधु घृतमोदनमिति सँसृज्योत्तरैर्मन्त्रैः कुमारं प्राशयेत् ।
-
-</details>
 
 </div>
 
@@ -95,7 +88,6 @@ title = "१५ अन्नप्राशनम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/15_annaprAshanam/16_02_taittireNa_mA.Nsenetyeke.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 2. (He should feed him) with partridge, according to some (teachers).
@@ -113,16 +105,11 @@ title = "१५ अन्नप्राशनम्"
 
 व्यक्तार्थमेतत् ॥२॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/15_annaprAshanam/16_02_taittireNa_mA.Nsenetyeke.md">
 
-<details><summary><h4></h4>></summary>
-
 तैत्तिरेण माँसेनेत्येके।
-
-</details>
 
 </div>

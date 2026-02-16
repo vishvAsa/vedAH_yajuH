@@ -8,9 +8,7 @@ unicode_script: devanagari
 अमुं तर्पयाम्यमुं तर्पयाम्यमुं तर्पयामीति १५ …  
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/08_upAkarmotsarjanaprakaraNam/11u_26.md">
-<details open><summary><h2>११उ २६ ...{Loading}...</h2></summary>
 
 एवम् एवाद्भिर् +++(एवासनादिवर्जम्)+++ अहरहर् देवान् ऋषीन् पितॄंश् च **तर्पयेत्** ॥२६॥
 
-</details>
 </div> 

@@ -1,6 +1,5 @@
 +++
 title = "०७ उपनयनप्रकरणम्"
-
 +++
 
 
@@ -14,7 +13,6 @@ title = "०७ उपनयनप्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/10_01_upanayanaM_vyAkhyAsyAmaH.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 1. We shall explain the Upanayana (or initiation of the student).
@@ -46,17 +44,12 @@ title = "०७ उपनयनप्रकरणम्"
 किञ्च गृह्योपदिष्टकर्मसु गृहस्थस्यैवाधिकारो न ब्रह्मचारिण इत्येवंरूपं विशेषं ज्ञापयितुमप्रतिज्ञं विवाहमुपदिश्य उपनयनकल्पोपदेशः सप्रतिज्ञः क्रियते ।
 अस्य च कल्पस्य धर्मशास्त्रे "उपनयनं विद्यार्थस्य" (आप.ध.१-१-९.) इत्य त्रानुपदेशः सर्वचरणार्थतां निवर्तयितुमिति ॥१॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/10_01_upanayanaM_vyAkhyAsyAmaH.md">
 
-<details><summary><h4></h4>></summary>
-
 उपनयनं व्याख्यास्यामः।
-
-</details>
 
 </div>
 
@@ -70,7 +63,6 @@ title = "०७ उपनयनप्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/10_02_garbhAShTameShu_brAhmaNamupanayIta.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 2. Let him initiate a Brāhmaṇa in the eighth year after the conception,
@@ -117,17 +109,12 @@ title = "०७ उपनयनप्रकरणम्"
 
 केचित्–गर्भाष्टम एव वर्षे, न तु षष्ठ-सप्तमयोः तयोर् गर्भाष्टमत्वाभावाद् इति । तन्न - बहुवचनानर्थक्यात् ॥२॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/10_02_garbhAShTameShu_brAhmaNamupanayIta.md">
 
-<details><summary><h4></h4>></summary>
-
 गर्भाष्टमेषु ब्राह्मणमुपनयीत।
-
-</details>
 
 </div>
 
@@ -144,7 +131,6 @@ title = "०७ उपनयनप्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/10_03_garbhaikAdasheShu_rAjanyam.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 3. A Rājanya in the eleventh, a Vaiśya in the twelfth year after the conception.
@@ -159,17 +145,12 @@ title = "०७ उपनयनप्रकरणम्"
 
 +++(सम्पादकटिप्पानी - "सूत्रमेतद् अग्रिमे व्याख्यातम्" )+++
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/10_03_garbhaikAdasheShu_rAjanyam.md">
 
-<details><summary><h4></h4>></summary>
-
 गर्भैकादशेषु राजन्यं गर्भद्वादशेषु वैश्यम्।
-
-</details>
 
 </div>
 
@@ -183,7 +164,6 @@ title = "०७ उपनयनप्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/10_04_vasanto_grIShmash.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 4. Spring, summer, autumn: these are the (fit) seasons (for the Upanayana), corresponding to the order of the castes.
@@ -213,17 +193,12 @@ title = "०७ उपनयनप्रकरणम्"
 
 "गर्भाष्टमेषु ब्राह्मणम्" इत्यादिस् तु "अथ काम्यानि" (आप.ध.१-१-२०.) इत्यादि विधातुम् अनुवादः ॥४॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/10_04_vasanto_grIShmash.md">
 
-<details><summary><h4></h4>></summary>
-
 वसन्तो ग्रीष्मश् शरद् इत्य् ऋतवो वर्णानुपूर्व्येण।
-
-</details>
 
 </div>
 
@@ -257,7 +232,6 @@ title = "०७ उपनयनप्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/10_05_brAhmaNAn_bhojayitvAshiSho.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 5. (The boy's father) serves food to Brāhmaṇas and causes them to pronounce auspicious wishes, and serves food to the boy. (The teacher?) pours together, with the first Yajus (of the next Anuvāka, warm and cold) water, pouring the warm water into the cold, and moistens (the boy's) head with the next (verse; M. II, 1, 2).
@@ -305,17 +279,12 @@ title = "०७ उपनयनप्रकरणम्"
 ततस्ताभिरद्भिः "आप उन्दन्तु" इत्येतया कुमारस्य **शिर उनत्ति** ।
 प्रागारभ्य प्रदक्षिण**मुनत्ति** क्लेदयति ॥५॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/10_05_brAhmaNAn_bhojayitvAshiSho.md">
 
-<details><summary><h4></h4>></summary>
-
 ब्राह्मणान् भोजयित्वाशिषो वाचयित्वा कुमारं भोजयित्वाऽनुवाकस्य प्रथमेन यजुषाऽपः संसृज्योष्णाश् शीतास्वानीयोत्तरया शिर उनत्ति।
-
-</details>
 
 </div>
 
@@ -366,7 +335,6 @@ title = "०७ उपनयनप्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/10_06_trIMstrIn.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 6. [^1]  Having put three Darbha blades into his hair (towards each of the four directions) (the teacher [?]) shaves his hair with the next four (verses; M. II, 1, 3-6) with the different Mantras, towards the different (four) directions.
@@ -400,17 +368,12 @@ title = "०७ उपनयनप्रकरणम्"
 तत्र प्रथमे मन्त्रे असाव् इत्यस्य स्थाने विष्णुशर्मेति कुमारस्य नामग्रहणम् ।
 चतुर्थे तु सम्बुद्ध्या ॥६॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/10_06_trIMstrIn.md">
 
-<details><summary><h4></h4>></summary>
-
 त्रींस्त्रीन् दर्भानन्तर्धायोत्तराभिश् चतसृभिः प्रतिमन्त्रं प्रतिदिशं प्रवपति।
-
-</details>
 
 </div>
 
@@ -432,7 +395,6 @@ title = "०७ उपनयनप्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/10_07_vapantamuttarayAnumantrayate.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 7. [^2]  With the following (verse, M. II, 1, 7, somebody) addresses him while he is shaving.
@@ -453,17 +415,12 @@ title = "०७ उपनयनप्रकरणम्"
 अस्य कुमारस्यायुर् मा प्रमोषीरिति मध्यमपुरुषलिङ्गके ऽनुमन्त्रणे वपनव्यापृताचार्यकर्तृकत्वविरोधात् ।
 मातृब्रह्मचारिव्यतिरिक्तस्य प्रकृतस्याभावात् ॥७॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/10_07_vapantamuttarayAnumantrayate.md">
 
-<details><summary><h4></h4>></summary>
-
 वपन्तमुत्तरयानुमन्त्रयते दक्षिणतो माता ब्रह्मचारी वा।
-
-</details>
 
 </div>
 
@@ -486,7 +443,6 @@ title = "०७ उपनयनप्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/10_08_AnaDuhe_shakRtpiNDe.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 8. Towards the south, his mother or a Brahmacārin strews barley-grains on a lump of bull's dung; with this (dung) she catches up the hair (that is cut off), and puts it down with the next (verse; M. II, 1, 8) at the root of an Udumbara tree or in a tuft of Darbha grass.
@@ -509,17 +465,12 @@ title = "०७ उपनयनप्रकरणम्"
 तन्नैतद् वपनं नापितस् समापयतीत्यत्र वचनाभावात्, तत् कल्पनायां चानुपत्त्य् अभावात् ।
 प्रशब्दस्य निपातस्य प्रमाणान्तरावगतार्थद्योतकत्वात्, उक्तसूत्रभेदेन स्ववाक्योक्तस्यैव मात्रादेरनुमन्त्रणकर्तृत्वोपपत्तेश्च ॥८॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/10_08_AnaDuhe_shakRtpiNDe.md">
 
-<details><summary><h4></h4>></summary>
-
 आनडुहे शकृत्पिण्डे यवान्निधाय तस्मिन् केशानुपयम्योत्तरयोदुम्बरमूले दर्भस्तम्बे वा निदधाति।
-
-</details>
 
 </div>
 
@@ -557,7 +508,6 @@ title = "०७ उपनयनप्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/10_09_snAtam_agner.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 9. [^3]  After (the boy) has bathed, and (the ceremonies) from the putting (of wood) on (the fire) down to the Ājyabhāga oblations (have been performed), he causes him to put a piece of Palāśa wood on the fire with the next (verse; M. II, 2, 1), and makes him tread with his right foot on a stone to the north of the fire, with (the verse), 'Tread' (M. II, 2, 2).
@@ -598,17 +548,12 @@ title = "०७ उपनयनप्रकरणम्"
 अत एवोक्तं "मन्त्रमुक्त्वा"ऽऽधेहि जुहुधीति ब्रूयात्" इति ।
 शेषं व्यक्तम् ॥९॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/10_09_snAtam_agner.md">
 
-<details><summary><h4></h4>></summary>
-
 स्नातम् अग्नेर् उपसमाधानाद्य्-आज्यभागान्ते पालाशीं समिधम् उत्तरया ऽऽधाप्योत्तरेणाग्निं दक्षिणेन पदाऽश्मानम् आस्थापयत्य् आतिष्ठेति।
-
-</details>
 
 </div>
 
@@ -677,7 +622,6 @@ title = "०७ उपनयनप्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/10_10_vAsaH.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 10. Having recited the next two (verses; M. II. 2, 3. 4) over a garment that has been spun and woven on one day, and has caused him, with the next three (verses; M. II. 2, 5-7), to put it on, he recites over him, after he has put it on, the next (verse; M. II, 2, 8).
@@ -702,17 +646,12 @@ title = "०७ उपनयनप्रकरणम्"
 
 एवंभूतं"रेवतीस्त्वा" इति द्वाभ्यामभिमन्त्र्य"या अकृन्तन्" इत्येताभिस् **तिसृभिः परिधाप्य परिहितं** कुमारं "परीदं वासः" (२)इत्यनया**ऽनुमन्त्रयते** ॥१०॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/10_10_vAsaH.md">
 
-<details><summary><h4></h4>></summary>
-
 वासः सद्यःकृत्तोतमुत्तराभ्यामभिमन्त्र्योत्तराभिस्तिसृभिः परिधाप्य परिहितमुत्तरयाऽनुमन्त्रयते।
-
-</details>
 
 </div>
 
@@ -761,7 +700,6 @@ title = "०७ उपनयनप्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/10_11_maunjIm_mekhalAm.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 11. [^4]  He ties thrice around him, from left to right, a threefold-twisted girdle of Muñja grass with the next two (verses; M. II. 2, 9. 10), and (gives him) a skin as his outer garment with the next (verse; II, 2, 11).
@@ -794,17 +732,12 @@ title = "०७ उपनयनप्रकरणम्"
 ज्या राजन्यस्य"(आप.ध.१-२-३३,३४.) इत्यादीनां प्रदर्शनार्थम् ।
 **अजिनं**"कृष्णं ब्राह्मणस्य" (आप.ध.१-३-३) इत्यादि धर्मशास्त्रे विहितम् **उत्तरं वासः** करोति "मित्रस्य चक्षुः" इत्येतया ॥११॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/10_11_maunjIm_mekhalAm.md">
 
-<details><summary><h4></h4>></summary>
-
 मौञ्जीं मेखलां त्रिवृतां त्रिः प्रदक्षिणमुत्तराभ्यां परिवीयाजिनमुत्तरमुत्तरया।
-
-</details>
 
 </div>
 
@@ -895,7 +828,6 @@ title = "०७ उपनयनप्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/10_12_uttareNAgnin_darbhAn.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 12. [^5]  To the north of the fire (the teacher) spreads out Darbha grass; on that he causes (the boy) to station himself with the next (verse; M. II. 3, 1), pours his joined hands full of water into (the boy's) joined hands, makes him sprinkle himself three times with the next (verse; M. II, 3, 2), takes hold of his right hand with the next (formulas; M. II, 3, 3-12), gives him with the next (formulas; M. II, 3, 13-23) in charge to the deities (mentioned in those Mantras), initiates him with the next Yajus (M. II, 3, 24), and murmurs into his right ear the (Mantra), 'Blessed with offspring' (II, 3, 25).
@@ -945,17 +877,12 @@ title = "०७ उपनयनप्रकरणम्"
 
 इति श्रीसुदर्शनाचार्यविरचिते गृह्यतात्पर्यदर्शने दशमः खण्डः ॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/10_12_uttareNAgnin_darbhAn.md">
 
-<details><summary><h4></h4>></summary>
-
 उत्तरेणाग्निं दर्भान् सँस्तीर्य तेष्व् एनम् उत्तरया ऽवस्थाप्योदकाञ्जलिम् अस्मा अञ्जलाव् आनीयोत्तरया त्रिः प्रोक्ष्योत्तरैर् दक्षिणे हस्ते गृहीत्वोत्तरैर् देवताभ्यः परीदायोत्तरेण यजुषोपनीय "सुप्रजा" इति दक्षिणे कर्णे जपति ॥
-
-</details>
 
 </div>
 
@@ -976,7 +903,6 @@ title = "०७ उपनयनप्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/11_01_brahmacharyamAgAmiti_kumAra.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 1. The boy says, 'I am come to be a student' (II, 3, 26).
@@ -991,17 +917,12 @@ title = "०७ उपनयनप्रकरणम्"
 
 व्यक्तम् ॥१॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/11_01_brahmacharyamAgAmiti_kumAra.md">
 
-<details><summary><h4></h4>></summary>
-
 ब्रह्मचर्यमागामिति कुमार आह।
-
-</details>
 
 </div>
 
@@ -1024,7 +945,6 @@ title = "०७ उपनयनप्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/11_02_praShTam_parasya.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 2. The other (i.e. the teacher) has to ask; the boy has to answer (II, 3, 27-30).
@@ -1055,17 +975,12 @@ title = "०७ उपनयनप्रकरणम्"
 "कस्य ब्रह्मचार्यसि विष्णुशर्मन्?" इत्याचार्यः ।
 "प्राणस्य ब्रह्मचार्यस्मि" इति कुमारः ॥२॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/11_02_praShTam_parasya.md">
 
-<details><summary><h4></h4>></summary>
-
 प्रष्टं परस्य प्रतिवचनं कुमारस्य।
-
-</details>
 
 </div>
 
@@ -1089,7 +1004,6 @@ title = "०७ उपनयनप्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/11_03_sheSham_paro.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 3. The other murmurs the rest (of the Anuvāka),
@@ -1105,17 +1019,12 @@ title = "०७ उपनयनप्रकरणम्"
 **शेषम्** अनुवाकशेषैकदेशं "विष्णुशर्मैष ते देव" इत्यादि "अनुसञ्चर विष्णुशर्मन्" इत्येवमन्तमाचार्यो जपति ।
 "अध्वनामध्वपते" इत्यस्य प्रत्यगाशिषो वाचनविधानात् ॥३॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/11_03_sheSham_paro.md">
 
-<details><summary><h4></h4>></summary>
-
 शेषं परो जपति।
-
-</details>
 
 </div>
 
@@ -1135,7 +1044,6 @@ title = "०७ उपनयनप्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/11_04_pratyagAshiSha~n_chainam.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 4. And causes the boy to repeat (the Mantra) which contains wishes for himself (II, 3, 32).
@@ -1152,17 +1060,12 @@ title = "०७ उपनयनप्रकरणम्"
 जात्यभिप्रायमेकवचनम् ।
 अध्वनामित्यारभ्य आ उपनयनसमाप्तेर् ये प्रत्यगाशिषो मन्त्राः"योगे योगे" इत्यादयः, तान् सर्वान् कुमारं **वाचयति** ॥४॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/11_04_pratyagAshiSha~n_chainam.md">
 
-<details><summary><h4></h4>></summary>
-
 प्रत्यगाशिषं चैनं वाचयति।
-
-</details>
 
 </div>
 
@@ -1176,7 +1079,6 @@ title = "०७ उपनयनप्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/11_05_uktamAjyabhAgAntam.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 5. [^1]  (The rites) down to the Ājyabhāgas have been prescribed.
@@ -1193,17 +1095,12 @@ title = "०७ उपनयनप्रकरणम्"
 
 +++(सम्पादकटिप्पनी - "सूत्रमेतद् अग्रिमे सूत्रे व्याख्यातम्" )+++
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/11_05_uktamAjyabhAgAntam.md">
 
-<details><summary><h4></h4>></summary>
-
 उक्तमाज्यभागान्तम्।
-
-</details>
 
 </div>
 
@@ -1344,7 +1241,6 @@ title = "०७ उपनयनप्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/11_06_atrainamuttarA_AhutIrhAvayitvA.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 6. Having then caused him to sacrifice the oblations (indicated in the) next (Mantras; M. II, 4, 1-11), he enters upon (the performance) of the Jaya and following oblations.
@@ -1384,17 +1280,12 @@ title = "०७ उपनयनप्रकरणम्"
 ततश्च अग्निर्भूतानामधिपतिस्समावतु" इत्यादीनां प्रत्यगाशिषामपि वाचनं न भवति ।
 नैव च हावनम् ॥६॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/11_06_atrainamuttarA_AhutIrhAvayitvA.md">
 
-<details><summary><h4></h4>></summary>
-
 अत्रैनमुत्तरा आहुतीर्हावयित्वा जयादि प्रतिपद्यते।
-
-</details>
 
 </div>
 
@@ -1416,7 +1307,6 @@ title = "०७ उपनयनप्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/11_07_pariShechanAnta~N.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 7. Having performed (the rites) down to the sprinkling (of water) round (the fire), he puts down, to the west of the fire, a bunch of northward-pointed grass; on that (the teacher) who performs the initiation, sits down with the next Yajus (M. II, 4, 12).
@@ -1441,17 +1331,12 @@ title = "०७ उपनयनप्रकरणम्"
 **उपनेता** आचार्यः ।
 शेषं व्यक्तम् ॥७॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/11_07_pariShechanAnta~N.md">
 
-<details><summary><h4></h4>></summary>
-
 परिषेचनान्तं कृत्वापरेणाग्निमुदगग्रं कूर्चं निधाय तस्मिन्नुत्तरेण यजुषोपनेतोपविशति।
-
-</details>
 
 </div>
 
@@ -1465,7 +1350,6 @@ title = "०७ उपनयनप्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/11_08_purastAtpratya~N~NAsInaH_kumAro.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 8. The boy, sitting to the east (of him), facing the west, seizes with his right hand (the teacher's) right foot and says, 'Recite the Sāvitrī, Sir!'
@@ -1482,17 +1366,12 @@ title = "०७ उपनयनप्रकरणम्"
 
 उपनेतुः **पुरस्तात् प्रायङ्मुखः** **आसीनः कुमारो दक्षिणेन पाणिना** उपनेतुर् **दक्षिणं पादं अन्वारभ्य** उपसंगृह्य **"सावित्रीं भो । अनुब्रूहि"** इति प्रार्थयते ॥८॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/11_08_purastAtpratya~N~NAsInaH_kumAro.md">
 
-<details><summary><h4></h4>></summary>
-
 पुरस्तात्प्रत्यङ्ङासीनः कुमारो दक्षिणेन पाणिना दक्षिणं पादमन्वारभ्याह"सावित्रीं भो अनुब्रूहि" इति ॥
-
-</details>
 
 </div>
 
@@ -1523,7 +1402,6 @@ title = "०७ उपनयनप्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/11_09_tasmA_anvAha.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 9. He recites (the Sāvitrī) to him, 'That (glorious splendour) of Savitṛ' (Taitt. Saṃh. I, 5, 6, 4; M. 4, 13);
@@ -1538,17 +1416,12 @@ title = "०७ उपनयनप्रकरणम्"
 
 +++(सम्पादकटिप्पनी - "सूत्रमेतद् अग्रिमे सूत्रे व्याख्यातम्" )+++
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/11_09_tasmA_anvAha.md">
 
-<details><summary><h4></h4>></summary>
-
 तस्मा अन्वाह तत्सवितुरिति।
-
-</details>
 
 </div>
 
@@ -1562,7 +1435,6 @@ title = "०७ उपनयनप्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/11_10_pachCho-rdharchashastatassarvAm.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 10. Pāda by Pāda, hemistich by hemistich, and the whole (verse).
@@ -1595,17 +1467,12 @@ title = "०७ उपनयनप्रकरणम्"
 **ततः सर्वां** समस्तां अनवसानामित्यर्थः ।
 अत्र च सर्वानुवचनस्यादृष्टार्थत्वात्, ग्रहीतुमसमर्थस्यापि कुमारस्य सर्वा निगद्यते ॥१०॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/11_10_pachCho-rdharchashastatassarvAm.md">
 
-<details><summary><h4></h4>></summary>
-
 पच्छोऽर्धर्चशस्ततस्सर्वाम्।
-
-</details>
 
 </div>
 
@@ -1665,7 +1532,6 @@ title = "०७ उपनयनप्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/11_11_vyAhRtIrvihRtAH.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 11. (When repeating the Sāvitrī Pāda by Pāda, he pronounces) the Vyāhṛtis singly at the beginning or at the end of the Pādas;
@@ -1713,17 +1579,12 @@ title = "०७ उपनयनप्रकरणम्"
 ओं धियो यो नः प्रचोदयात् भुवः ॥
 ओं तत्सवितुर्वरेण्यं भर्गो देवस्य धीमहि धियो यो नः प्रचोदयात् सुवः" इति ॥११॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/11_11_vyAhRtIrvihRtAH.md">
 
-<details><summary><h4></h4>></summary>
-
 व्याहृतीर्विहृताः पादादिष्वन्तेषु वा तथार्धर्चयोरुत्तमां कृत्स्नायाम्।
-
-</details>
 
 </div>
 
@@ -1745,7 +1606,6 @@ title = "०७ उपनयनप्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/11_12_kumAra_uttareNa.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 13. With the next Mantra (M. II, 4, 14) the boy touches his upper lip;
@@ -1769,17 +1629,12 @@ title = "०७ उपनयनप्रकरणम्"
 "श्यावान्तपर्यन्तावोष्ठावुपस्पृश्याचामेत्" (आप.ध.१-१६-१०.) इति वचनात्
 आचमनं तु कर्तव्यम् ॥१२॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/11_12_kumAra_uttareNa.md">
 
-<details><summary><h4></h4>></summary>
-
 कुमार उत्तरेण मन्त्रेणोत्तरमोष्टमुपस्पृशते।
-
-</details>
 
 </div>
 
@@ -1799,7 +1654,6 @@ title = "०७ उपनयनप्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/11_13_karNAvuttareNa.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 14. With the next (II, 4, 15) both his ears;
@@ -1817,17 +1671,12 @@ title = "०७ उपनयनप्रकरणम्"
 स एव युगपद्धस्तद्वयेन स्वीयौ **कर्णौ** स्पृशति ।
 **उत्तरेण** "ब्रह्मण आणी स्थः" इति द्विवचनलिङ्गेन ॥१३॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/11_13_karNAvuttareNa.md">
 
-<details><summary><h4></h4>></summary>
-
 कर्णावुत्तरेण ।
-
-</details>
 
 </div>
 
@@ -1851,7 +1700,6 @@ title = "०७ उपनयनप्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/11_14_daNDamuttareNA-.adatte.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 15. With the next (II, 5, 1) he takes up the staff.
@@ -1866,17 +1714,12 @@ title = "०७ उपनयनप्रकरणम्"
 
 **उत्तरेण** "सुश्रवः" इत्यनेन ॥१४॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/11_14_daNDamuttareNA-.adatte.md">
 
-<details><summary><h4></h4>></summary>
-
 दण्डमुत्तरेणाऽऽदत्ते।
-
-</details>
 
 </div>
 
@@ -1892,7 +1735,6 @@ title = "०७ उपनयनप्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/11_15_pAlAsho_daNDo.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 16. [^2]  The staff of a Brāhmaṇa is made of Palāśa wood, that of a Rājanya of a branch of the Nyagrodha tree, so that the downward-turned end (of the branch) forms the tip (of the staff), that of a Vaiśya of Bādara or Udumbara wood.
@@ -1919,17 +1761,12 @@ title = "०७ उपनयनप्रकरणम्"
 स्कन्धे जातः **स्कन्धजः ।
 अवाङग्रः** अवाचीनमग्रं यस्य दण्डस्य ॥१५॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/11_15_pAlAsho_daNDo.md">
 
-<details><summary><h4></h4>></summary>
-
 पालाशो दण्डो ब्राह्मणस्य नैय्यग्रोधस्स्कन्धजोऽवाङ्ग्रो राजन्यस्य बादर औदुम्बरो वा वैश्यस्य।
-
-</details>
 
 </div>
 
@@ -1943,7 +1780,6 @@ title = "०७ उपनयनप्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/11_16_vArxo_daNDa.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 17. Some state (only), without any reference to caste, that the staff should be made of the wood of a tree:
@@ -1969,17 +1805,12 @@ title = "०७ उपनयनप्रकरणम्"
 धर्मशास्त्रे "पालाशो दण्डो ब्राह्मणस्य" (आप.ध.१.२.३८)इत्यादि पुनर्विधानं च "त्रैविद्यकं ब्रह्मचर्यं चरेत्" (आप.ध.१.१.२८) इत्युपनयनकालातिपत्तिप्रायश्चित्तानुष्ठानेऽपि तत्तद्वर्णेन तत्तद्दण्डधारणार्थम् ।
 केचित्–तत्रैव सर्वचरणार्थं विहितानां दण्डानां गृह्येऽनुवादः सर्वेषामुपादानेऽपि श्रुत्यैतन्मन्त्रविधानार्थ इति ॥१६॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/11_16_vArxo_daNDa.md">
 
-<details><summary><h4></h4>></summary>
-
 वार्क्षो दण्ड इत्यवर्णसंयोगेनैक उपदिशन्ति।
-
-</details>
 
 </div>
 
@@ -2047,7 +1878,6 @@ title = "०७ उपनयनप्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/11_17_smRta~n_cha.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 18. After (the teacher) has made him repeat (the formula), 'My memory' (M. II, 5, 2), and he has bestowed an optional gift on his teacher, and (the teacher) has made him arise with (the formula, M. II, 5, 3), 'Up, with life!' (the student) worships the sun with the next (Mantras; II, 5, 4).
@@ -2081,17 +1911,12 @@ title = "०७ उपनयनप्रकरणम्"
 केचित्–स्मृतसङ्कीर्तनादि पदार्थचतुष्टयमपि कुमारकर्तृकम् ।
 वाचयित्वोत्थाप्येति तु णिजर्थो हेतुरविवक्षितः, अन्यथा त्वसमानकर्तृकत्वात् वरदानमुपस्थानं चाचार्यकर्तृकं स्यात् तथा गुरुग्रहणं चौलादौ ब्रह्मणे वरदानार्थमिति ॥१७॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/11_17_smRta~n_cha.md">
 
-<details><summary><h4></h4>></summary>
-
 स्मृतं च म इत्येतद्वाचयित्वा गुरवे वरं दत्त्वोदायुषेत्युत्थाप्योत्तरैरादित्यमुपतिष्ठते।
-
-</details>
 
 </div>
 
@@ -2115,7 +1940,6 @@ title = "०७ उपनयनप्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/11_18_ya~N_kAmayeta.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 19. If (the teacher) wishes, 'May this (student) not be estranged from me,' let him take (the student) by the right hand with the next (verse; II, 5, 6).
@@ -2133,17 +1957,12 @@ title = "०७ उपनयनप्रकरणम्"
 
 **यं** कुमारं **अयम्** आसमावर्तनान्मत्तो **न** च्छिद्येत न वियुज्येतेति **कामयेत, तमुत्तरया** "यस्मिन् भूतम्" इत्यनयर्चा सम्बुद्ध्या च नाम गृहीत्वा **दक्षिणे हस्ते गृह्णीयात्** यद्यमाचार्यश्चतुर्वेदी सर्वशास्त्रवित् अध्यापयितुं व्याख्यातुं च शक्नोति ॥१८॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/11_18_ya~N_kAmayeta.md">
 
-<details><summary><h4></h4>></summary>
-
 यं कामयेत नायमाच्छिद्येतेति तमुत्तरया दक्षिणे हस्ते गृह्णीयात्।
-
-</details>
 
 </div>
 
@@ -2157,7 +1976,6 @@ title = "०७ उपनयनप्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/11_19_tryahametamagnin_dhArayanti.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 20. They keep that fire (used at the Upanayana) three days,
@@ -2172,17 +1990,12 @@ title = "०७ उपनयनप्रकरणम्"
 
 स्पष्टमेतत् ॥१९॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/11_19_tryahametamagnin_dhArayanti.md">
 
-<details><summary><h4></h4>></summary>
-
 त्र्यहमेतमग्निं धारयन्ति।
-
-</details>
 
 </div>
 
@@ -2196,7 +2009,6 @@ title = "०७ उपनयनप्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/11_20_xAralavaNavarjana~n_cha.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 21. And (during that time) salted and pungent food should be avoided.
@@ -2217,17 +2029,12 @@ title = "०७ उपनयनप्रकरणम्"
 अत्र च त्र्यहम् इति नियमाद् धर्मशास्त्रे "यथा क्षार-लवण-मधु-मांसानि" (आप.१-४-६.) " इत्यनेन क्षार-लवणयोर् द्वयोर् निषेधः ।
 त्र्यहाद् ऊर्ध्वं पाक्षिकः । मध्वादेस् तु नित्य एव ॥२०॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/11_20_xAralavaNavarjana~n_cha.md">
 
-<details><summary><h4></h4>></summary>
-
 क्षारलवणवर्जनं च।
-
-</details>
 
 </div>
 
@@ -2343,7 +2150,6 @@ title = "०७ उपनयनप्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/11_21_paritve_ti.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 22. Having wiped (with his hand wet) around (the fire) with (the formula), 'Around thee' (M. II, 6, 1), he should put (twelve) pieces of wood on that (fire) with the next Mantras (II, 6, 2-13).
@@ -2376,17 +2182,12 @@ title = "०७ उपनयनप्रकरणम्"
 परिसमूहनस्य "परित्वेति परिमृज्य" इति विधिः ।
 तथा धर्मशास्त्रे तु "समिद्धमग्निं पाणिना परिसमूहेन्न समूहन्या" (आप.ध.१-४-१८) इति गुणार्थोऽनुवादः ॥२१॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/11_21_paritve_ti.md">
 
-<details><summary><h4></h4>></summary>
-
 'परित्वे' ति परिमृज्य तस्मिन्नुत्तरैर्मन्त्रैस्समिध आदध्यात् ॥
-
-</details>
 
 </div>
 
@@ -2400,7 +2201,6 @@ title = "०७ उपनयनप्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/11_22_evamanyasminnapi.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 23. In the same way also on another (fire, when the Upanayana fire is kept no longer),  
@@ -2437,17 +2237,12 @@ title = "०७ उपनयनप्रकरणम्"
 तत्र यथा-कामी प्रक्रमेत ।
 तथा तस्मिन्न् "अन्यस्मिन्न् अपी"त्यारम्भात् उपनयनाग्नेस् त्र्यहाद् ऊर्ध्वम् अपि विकल्पेन धारणं, तत्रैव समिदाधानं चेति ॥२२॥+++(5)+++
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/11_22_evamanyasminnapi.md">
 
-<details><summary><h4></h4>></summary>
-
 एवमन्यस्मिन्नपि सदारण्यादेधानाहृत्य।
-
-</details>
 
 </div>
 
@@ -2484,7 +2279,6 @@ title = "०७ उपनयनप्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/11_23_uttarayA_sa.NshAsti.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 25. With the next (formula - M. II, 6, 14 - the teacher) instructs (the student in his duties).
@@ -2525,17 +2319,12 @@ title = "०७ उपनयनप्रकरणम्"
 संशासनान्ते च भिक्षाचरणम् ।
 अथास्मा अरिक्तं पात्रं प्रयच्छन्नाह — मातरमेवाग्रे भिक्षस्वेति (बौ.गृ.२-५-४०.) इति बौधायनगृह्यात् ।
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/11_23_uttarayA_sa.NshAsti.md">
 
-<details><summary><h4></h4>></summary>
-
 उत्तरया सँशास्ति।
-
-</details>
 
 </div>
 
@@ -2560,7 +2349,6 @@ title = "०७ उपनयनप्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/07_upanayanaprakaraNam/11_24_vAsashchaturthImuttarayAdatte-nyatparidhApya.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 26. [^3]  On the fourth day (after the Upanayana the teacher) takes the garment (of the student) for himself with the next (verse; M. II, 6, 15), having made him put on another (garment).
@@ -2609,16 +2397,11 @@ title = "०७ उपनयनप्रकरणम्"
 इति श्रीसुदर्शनाचार्यकृतौ गृह्यसूत्रतात्पर्यदर्शने एकादशः खण्डः ॥
 समाप्तश्चतुर्थः पटलः ॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/07_upanayanaprakaraNam/11_24_vAsashchaturthImuttarayAdatte-nyatparidhApya.md">
 
-<details><summary><h4></h4>></summary>
-
 वासश्चतुर्थीमुत्तरयादत्तेऽन्यत्परिधाप्य ।
-
-</details>
 
 </div>

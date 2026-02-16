@@ -1,0 +1,458 @@
++++
+title = "२५ स्तेयादि"
++++
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/25/01_gurutalpagAmI_savRShaNaM_shishnam.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+गुरुतल्पगामी सवृषणं शिश्नं परिवास्याञ्जलावाधाय दक्षिणां दिशमनावृत्तिं व्रजेत् १
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/25/01_gurutalpagAmI_savRShaNaM_shishnam.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+1. He who has had connection with a Guru's wife shall cut off his organ together with the testicles, take them into his joined hands and walk towards the south without stopping, until he falls down dead. [^1] 
+
+[^1]:  25. Haradatta's explanation of a 'Guru's wife' by 'mother' rests on a comparison of similar passages from other Smṛtis, where a different 'penance' is prescribed for incestuous intercourse with other near relations. Manu XI, 105; Yājñ. III, 259.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+गुरुतल्पगामी सवृषणं शिश्न परिवास्याऽञ्जलावाधाय दक्षिणां दिशमनावृत्ति व्रजेत् ॥ १॥  
+
+**टीका**  
+गुरुरत्र पिता, नाऽऽचार्यादिः। तल्पशब्देन शयनवाचिना भार्या लक्ष्यते । सा च साक्षाज्जननी[^१] न तत्सपत्नी। तां गत्वा सवृषणं साण्डं शिश्नं परिवास्य क्षुरादिना छित्वाऽञ्जलावाधाय दक्षिणां दिशं व्रजेत् । अनावृत्तिम् आवृत्तिर्न क्रियते यस्यां तां दिशमनावर्तमानो गच्छेत् । अथ ये[^२] दक्षिणस्योदधेस्तीरे वसन्ति तेऽपि यावद्देशं गत्वा उदधिमेव प्रवेक्ष्यन्ति । मरणं हात्र विवक्षितम् । अत्र सर्वतः—  
+
+[^१]: तत्सपत्नी वा इति ग. पु.  
+
+[^२]: अथेति नास्ति ग. पु.  
+
+[^३]पितृदारान् समारुह्य मातृवर्जं नराधमः।  
+भगिनीं मातुराप्तां वा स्वसारं वाऽन्यमातृजाम् ॥  
+एता गत्वा स्त्रियो मोहात[^४] तप्तकृच्छ्रं समाचरेत् ॥ इति ।  
+नारदस्तु—  
+'माता मातृष्वसा श्वश्रूर्मातुलानी पितृष्वसा ।  
+[^५]पितृव्यपत्नी शिष्यस्त्री भगिनी तत्सखी स्नुषा ।  
+दुहिताऽऽचार्यभार्या च सगोत्रा शरणागता ।  
+राशी प्रव्रजिता धात्री साध्वी वर्णोत्तमा च या । आसामन्यतमां गत्वा गुरुतल्पग उच्यते ।  
+शिश्नस्योत्कृन्तनं तत्र नाऽन्यो दण्डो विधीयते ॥ इति ॥ १ ॥  
+
+[^३]: संव० स्मृ० १५८, १५९.  
+
+[^४]:
+
+    तप्तकृच्छ्रान् षडाचरेत् , इति. छ. पु.  
+
+[^५]:
+
+    पितृव्यसखिशिष्यस्त्री इति. क. पु.
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/25/02_jvalitAM_vA_sUrmim.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+ज्वलितां वा सूर्मिं परिष्वज्य समाप्नुयात् २
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/25/02_jvalitAM_vA_sUrmim.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+2. Or he may die embracing a heated metal image of a woman. [^2] 
+
+[^2]:  Manu XI, 104; Yājñ. III, 259.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+ज्वलितां वा सूर्मिं परिष्वज्य समाप्नुयात् ॥ २॥  
+
+**टीका**  
+आयसी ताम्रमयी वा अन्तस्सुषिरा स्त्रीप्रकृतिरत्र सूर्मिः। तां ज्वलितामग्नौ तप्ताम् । परिष्वज्य समाप्नुयात् समाप्तिं गच्छेत् म्रियेत ॥२॥
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/25/03_surApo-gnisparshAM_surAm_pibet.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+सुरापोऽग्निस्पर्शां +++(क्वतिथां)+++ सुरां पिबेत् ३
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/25/03_surApo-gnisparshAM_surAm_pibet.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+3. A drinker of spirituous liquor shall drink exceedingly hot liquor so that he dies. [^3] 
+
+[^3]:  Manu XI, 91, 92; Yājñ. III, 253.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+सुरापोऽग्निस्पर्शां सुरां पिबेत् ॥ ३ ॥  
+
+**टीका**  
+'गौडी पैष्टी च माध्वी च विज्ञेया त्रिविधा सुरा।'  
+तस्याः पाता सुरापः । सः अग्निस्पर्शां [^६]अग्निकथितां सुरां पिबेत् । तया दग्धकायः शुद्ध्यति ॥३॥  
+
+[^६]:
+
+    अतिश्रपिता, इति. ख. ग. पु.
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/25/04_stenaH_prakIrNakesho-e_musalamAdAya.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+स्तेनः प्रकीर्णकेशोऽए मुसलमादाय राजानं गत्वा कर्माचक्षीत । तेनैनं हन्याद्वधे मोक्षः ४
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/25/04_stenaH_prakIrNakesho-e_musalamAdAya.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+4. A thief shall go to the king with flying hair, carrying a club on his shoulder, and tell him his deed. He (the king) shall give him a blow with that (club). If the thief dies, his sin is expiated. [^4] 
+
+[^4]:  I.e. who has stolen the gold of a Brāhmaṇa. Manu VIII, 314, 316; XI, 99-101; Yājñ. III, 257.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+स्तेनः प्रकीर्णकेशोंऽसे मुसलमाधाय राजानं गत्वा कर्माऽऽचक्षीत । तेनैनं हन्याधे मोक्षः ॥ ४॥   
+
+**टीका**  
+स्तनो ब्राह्मणस्वर्णहारी। अंसे स्वे स्कन्धे । मुसलमाधाय आयसं खादिरं वा धारयन् । राजानं गवा कर्माऽऽचक्षीत-एवंकर्माऽस्मि, शाधि मामिति। स तेन मुसलेन एनं स्तेनं हन्यात् , यथा मृतो भवति । [^१]वधेन स्तेयात् मोक्षो भवति ॥ ४॥   
+
+[^१]:
+
+    वधे सति स्तेनस्य मोक्षो मुक्तिर्भवत्येनसो नान्यथा इति. क. च. पु.
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/25/05_anujnAte-nujnAtAramenaH.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+अनुज्ञातेऽनुज्ञातारमेनः ५
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/25/05_anujnAte-nujnAtAramenaH.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+5. If he is forgiven (by the king), the guilt falls upon him who forgives him, [^5] 
+
+[^5]:  Manu VIII, 317.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+अनुज्ञातेऽनुज्ञातारमेनः स्पृशति ॥५॥  
+
+**टीका**  
+यदि राजा दयादिना तमनुजानीयात् गच्छेति, तदा तमनुज्ञातारं राजानमेव तदेनः स्पृशति ॥ ५॥
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/25/06_agniM_vA_pravishettIxNaM.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+अग्निं वा प्रविशेत्तीक्ष्णं वा तप आयच्छेत् ६
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/25/06_agniM_vA_pravishettIxNaM.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+6. Or he may throw himself into the fire, or perform repeatedly severe austerities, [^6] 
+
+[^6]:  Manu XI, 102.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+अग्निं वा प्रविशेत ॥६॥
+
+**टीका**  
+उत्तरमृजु ॥६॥
+
+**सूत्रम्**  
+तीक्ष्णं वा तप आयच्छेत् ॥ ७ ॥  
+
+तीक्ष्णं तपः महापराकादि । तद्वा आयच्छेत् आवर्तयेत् ॥७॥
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/25/07_bhaktApachayena_vAtmAnaM_samApnuyAt.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+भक्तापचयेन वात्मानं समाप्नुयात् ७
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/25/07_bhaktApachayena_vAtmAnaM_samApnuyAt.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+7. Or he may kill himself by diminishing daily his portion of food,
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+भक्तापचयेन वाऽऽत्मानं समाप्नुयात् ॥८॥  
+
+**टीका**  
+भक्तमन्नम् । तस्याऽपचयो ह्रासः। प्रथमे दिने यावन्तो ग्रासाः ते एकेन न्यूना द्वितीये । एवं तृतीयादिष्वपि आ एकस्माद् ग्रासात् । तत्रापि यदि न समाप्तिः ततस्तत्रैव ग्रासपरिमाणापचयः कर्तव्यः । एवं भक्तापचयेनाऽऽत्मानं समाप्नुयात् समापयेत् ॥
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/25/08_kRchChrasaMvatsaraM_vA_charet.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+कृच्छ्रसंवत्सरं वा चरेत् ८
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/25/08_kRchChrasaMvatsaraM_vA_charet.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+8. Or he may perform Kṛcchra penances (uninterruptedly) for one year. [^7] 
+
+[^7]:  According to Haradatta this Sūtra refers to all kinds of sins and it must be understood that the Kṛcchra penances must be heavy for great crimes, and lighter for smaller faults; see also below, I, 9, 27, 7 and 8.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+कृच्छ्रसंवत्सरं वा चरेत् ॥ ९॥  
+
+**टीका**  
+अथ वा संवत्सरमेकं नैरन्तर्येण कृच्छ्रांश्चरेत् । एषामेनस्सु गुरुषु गुरूणि, लघुषु लघूनीति व्यवस्था ॥ ९॥
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/25/09_athApyudAharanti_steya~N_kRtvA.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+अथाप्युदाहरन्ति । स्तेयं कृत्वा सुरां पीत्वा गुरुदारं च गत्वा ब्रह्महत्यामकृत्वा चतुर्थकाला मितभोजनाः स्युरपोऽभ्यवेयुः सवनानुकल्पम् ९
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/25/09_athApyudAharanti_steya~N_kRtvA.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+9. Now they quote also (the following verse): [^8] 
+
+[^8]:  Haradatta states that the verse is taken from a Purāṇa.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+अथाऽप्युदाहरन्ति ॥ १० ॥  
+
+**टीका**  
+अस्मिन्नेव विषये पुराणश्लोकमप्युदाहरन्तीत्यर्थः ॥ १०॥
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/25/10_sthAnAsanAbhyAM_viharanta_ete.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+स्थानासनाभ्यां विहरन्त एते त्रिभिर्वर्षैरप पापं नुन्दते १०
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/25/10_sthAnAsanAbhyAM_viharanta_ete.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+10. Those who have committed a theft (of gold), drunk spirituous liquor, or had connection with a Guru's wife, but not those who have slain a Brāhmaṇa, shall eat every fourth meal-time a little food, bathe at the times of the three libations (morning, noon, and evening), passing the day standing and the night sitting. After the lapse of three years they throw off their guilt.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+स्तेयं कृत्वा सुरां पीत्वा गुरुदारं च गत्वा ब्रह्महत्यामकृत्वा ।  
+चतुर्थकाला मितभोजिनः स्यु[^२]रपोऽभ्यवेयुः सवनानुकल्पम् ।  
+स्थानासनाभ्यां विहरन्त एते त्रिभिर्वषैरप पापं नुदन्ते ॥ ११ ॥   
+
+[^२]:
+
+    अपोऽभ्युपेयुः इति, क. छ. पु.  
+
+**टीका**  
+ब्रह्महत्याव्यतिरिक्तानि स्तेयादीनि कृत्वा चतुर्थकालाश्चतुर्थों भोजनकालो येषाम् । यथा- अद्य दिवा भुङ्क्ते श्वो नक्तमिति, ते तथोक्ताः। तथापि मितभोजिनः न मृष्टाशिनः। [^२१]अपोऽभ्यवेयुः भूमिगतास्वप्सु स्नानं कुर्युः । सवनानुकल्पं, यथा सवनानि प्रातस्सवनादीन्यनुक्लृप्तानि अनुसृतान्यनुष्ठितानि भवन्ति तथा[^२२] त्रिषवणमित्यर्थः । तिष्ठेयुरहनि, रात्रावासीरन् । एवं स्थानासनाभ्यां विहरन्तः कालक्षेपं कुर्वन्तः। एते त्रिभिर्वर्षैस्तत्पापमपनुदन्ते ॥ ११ ॥  
+
+[^२१]:
+
+    अपोऽभ्युपेयुः इति. क. छ. पु,  
+
+[^२२]:
+
+    सोमयागे प्रातर्मध्यन्दिने सायमिति त्रिषु कालेषु प्रातस्सवन, माध्यन्दिनं सवनं, तृतीयसवनं, इति सवनत्रयमनुस्यूततयाऽनुष्ठीयते तद्वत् कालत्रयेऽपि स्नानं कुर्युरित्यर्थः ।
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/25/11_prathamaM_varNam_parihApya.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+प्रथमं वर्णं परिहाप्य प्रथमं वर्णं हत्वा संग्रामं गत्वावतिष्ठेत । तत्रैनं हन्युः ११
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/25/11_prathamaM_varNam_parihApya.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+11. (A man of any caste) excepting the first, who has slain a man of the first caste, shall go on a battle-field and place himself (between the two hostile armies). There they shall kill him (and thereby he becomes pure). [^9] 
+
+[^9]:  Manu XI, 74; Yājñ. III, 248.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+प्रथमं वर्णं परिहाप्य प्रथमं वर्णं हत्वा सङ्ग्रामं गत्वाऽवतिष्ठेत तत्रैनं हन्युः ॥ १२ ॥  
+
+**टीका**  
+प्रथमो वर्णो ब्राह्मणः । तं हत्वा सङ्ग्रामं गत्वा सेनयोर्मध्येऽवतिष्ठेत् । किं सर्वे ? नेत्याह-प्रथमं वर्णं परिहाप्य ब्राह्मणवर्जमितरो वर्णः क्षत्रियादिरित्यर्थः । तत्र स्थितमेनं ते सैनिका हन्युः, त एनं हतं विदध्युः । अघ्नन्त एनस्विनः स्युः, यथा राजा स्तेनम् । स मृतश्शुद्ध्यति ॥ १२ ॥
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/25/12_api_vA_lomAni.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+अपि वा लोमानि त्वचं मांसमिति हावयित्वाग्निं प्रविशेत् १२
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/25/12_api_vA_lomAni.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+12. Or such a sinner may tear from his body and make the priest offer as a burnt-offering his hair, skin, flesh, and the rest, and then throw himself into the fire. [^10] 
+
+[^10]:  The Mantras given in the commentary, and a parallel passage of Vasiṣṭha XX, 25-26, show that this terrible penance is not altogether a mere theory of Āpastamba. Yājñ. III, 247.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+अपि वा लोमानि त्वचं मांसमिति हावयित्वाऽग्निं प्रविशेत् ॥ १३ ॥  
+
+**टीका**  
+अनन्तरोक्त एव विषये प्रायश्चित्तान्तरम् । इतिशब्दो लोहितादीनामप्युपलक्षणार्थः। आत्मनो लोमादीन्युत्कृत्य पुरोहितेन हावयित्वा होमं कारयित्वा पश्चात् स्वयं तस्मिन्नग्नौ प्रविशेत् , मृतः शुद्धति । तत्राऽग्निमुपसमाधाय जुहुयात्[^३] "लोमानि मृत्योर्जुहोमि, लोमभिर्मृत्युं वासये स्वाहा । त्वचं मृत्योर्जुहोमि त्वचा मृत्युं वासये स्वाहा ॥ लोहितं मृत्योर्जुहोमि लोहितेन मृत्युं वासये स्वाहा । स्नावानि मृत्योर्जुहोमि स्नावभिर्मृत्युं वासये स्वाहा। मांसानि मृत्योर्जुहोमि मांसैर्मृत्युं वासये स्वाहा । अस्थीनि मृत्योर्जुहोमि अस्थभिर्मृत्युं वासये स्वाहा । मज्जानं मृत्योर्जुहोमि मज्जभिमृत्युं वासये स्वाहा। मेदो मृत्योर्जुहोमि मेदसा मृत्युं वासये स्वाहा” इत्येते मन्त्राः वसिष्ठेन पठिताः ॥१३॥  
+
+[^३]: ब० ध० २०. २६.
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/09/25/13_vAyasaprachalAkabarhiNachakravAkahaMsabhAsamaNDUkanakulaDerikAshvahiMsAyAM_shUdra_vatprAyashchittam.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+वायसप्रचलाकबर्हिणचक्रवाकहंसभासमण्डूकनकुलडेरिकाश्वहिंसायां शूद्र वत्प्रायश्चित्तम् १३
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/09/25/13_vAyasaprachalAkabarhiNachakravAkahaMsabhAsamaNDUkanakulaDerikAshvahiMsAyAM_shUdra_vatprAyashchittam.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+13. If a crow, a chameleon, a peacock, a Brāhmaṇī duck, a swan, the vulture called Bhāsa, a frog, an ichneumon, a musk-rat, or a dog has been killed, then the same penance as for a Śūdra must be performed. [^11] 
+
+[^11]:  'According to some, the penance must be performed if all these animals together have been slain; according to others, if only one of them has been killed.'--Haradatta. Manu XI, 132, 136 Yājñ. III, 270-272.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+वायसप्रचलाकबर्हिणचक्रवाकहंसभासमण्डूकनकुलडेरिकाश्वहिंसायां शूद्रवत्प्रायश्चित्तम् ॥ १४ ॥  
+
+**टीका**  
+वायसः काकः । प्रचलाकः कामरूपी कृकलासः । बर्हिणो मयूरः । चक्रवाको दिवा मिथुनचर , रात्रौ विरही। हंसो मानसवासी। भासो गृध्रविशेषः। नकुलमण्डूकादयः प्रसिद्धाः । डेरिका गन्धमूषिका । एतेषां समुदितानां वधे शूद्रवत्प्रायश्चित्तम् । प्रत्येकं वधे तु कल्प्यम् । केचित् प्रत्येकं वध एतत्प्रायश्चित्तमित्याहुः ॥१४॥   
+
+॥ इत्यापस्तम्बधर्मसूत्रवृत्तौ प्रथमप्रश्ने पञ्चविंशी कण्डिका ॥ २५ ॥
+</details>
+</details>
+
+</div>

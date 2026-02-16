@@ -1,6 +1,5 @@
 +++
 title = "०८ उपाकर्मोत्सर्जनप्रकरणम्"
-
 +++
 
 
@@ -14,7 +13,6 @@ title = "०८ उपाकर्मोत्सर्जनप्रकरण�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/08_upAkarmotsarjanaprakaraNam/11u_01.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>हरदत्तः</summary>
 
 अथात उपाकरणोत्सर्जने व्याख्यास्यामः ॥१॥
@@ -22,17 +20,12 @@ title = "०८ उपाकर्मोत्सर्जनप्रकरण�
 अतश्शब्दो हेतौ ।
 यस्मादेतयोर्व्याख्यानमन्तरेण प्रयोगो न शक्यते कर्तुं अत एते व्याख्यास्यामः इति ॥१॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/08_upAkarmotsarjanaprakaraNam/11u_01.md">
 
-<details><summary><h4></h4>></summary>
-
 अथात उपाकरणोत्सर्जने व्याख्यास्यामः।  
-
-</details>
 
 </div>
 
@@ -55,7 +48,6 @@ title = "०८ उपाकर्मोत्सर्जनप्रकरण�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/08_upAkarmotsarjanaprakaraNam/11u_02.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>हरदत्तः</summary>
 
 **श्रवणापक्षे**श्रवणस्य मासस्य पूर्वपक्ष इत्यर्थः ।
@@ -64,17 +56,12 @@ title = "०८ उपाकर्मोत्सर्जनप्रकरण�
 ओषधीषु जातास्विति वचनादाजातास्वोषधीषु प्रोष्ठपद्यां भवति ।
 तथा च कल्पान्तरं-श्रावण्यां पौर्णमास्यां प्रोष्ठपद्यामाषाढ्यां वेति ॥२॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/08_upAkarmotsarjanaprakaraNam/11u_02.md">
 
-<details><summary><h4></h4>></summary>
-
 श्रवणापक्ष ओषधीषु जातासु हस्तेन पौर्णमास्यां वाध्यायोपाकर्म ॥२॥
-
-</details>
 
 </div>
 
@@ -113,7 +100,6 @@ title = "०८ उपाकर्मोत्सर्जनप्रकरण�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/08_upAkarmotsarjanaprakaraNam/11u_03.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>हरदत्तः</summary>
 
 एवमुपाकरणस्य काल उक्तः ।
@@ -133,18 +119,13 @@ title = "०८ उपाकर्मोत्सर्जनप्रकरण�
 जयादि प्रतिपद्यते इत्यर्थः ।
 एक आचार्या वेदाहुतीनामुपरिष्टात् सदसस्पतिं होतव्यं मन्यन्ते ॥३॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/08_upAkarmotsarjanaprakaraNam/11u_03.md">
 
-<details><summary><h4></h4>></summary>
-
 अग्नेरुपसमाधानाद्याज्यभागान्तेऽन्वारब्धेषु काण्डऋषिभ्यो जुहोति सदसस्पतये सावित्र्या ऋग्वेदाय यजुर्वेदाय सामवेदायाथर्वणवेदायेति हुत्वा
 उपहोमो वेदाहुतीनामुपरिष्टात्सदसस्पतिमित्येके ॥३॥
-
-</details>
 
 </div>
 
@@ -160,7 +141,6 @@ title = "०८ उपाकर्मोत्सर्जनप्रकरण�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/08_upAkarmotsarjanaprakaraNam/11u_04.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>हरदत्तः</summary>
 
 तन्त्रशेषं समाप्य वेदस्य **आदितः त्रीननुवाकानधीयीरन्**(१) "इषे त्वोर्जेत्वा" (२)"आप उन्दन्तु" (३)"उद्धन्यमानं" (४)"अनुमत्यै पुरोडाशमष्टाकपालं निर्वपति धेनुर्दक्षिणा" ।
@@ -168,17 +148,12 @@ title = "०८ उपाकर्मोत्सर्जनप्रकरण�
 (५)"सह वै देवानां चासुराणां च" इति स्वयंभुवः ।
 एतेषां वा पञ्चानां अनुवाकानां अध्ययनम् ॥४॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/08_upAkarmotsarjanaprakaraNam/11u_04.md">
 
-<details><summary><h4></h4>></summary>
-
 परिषेचनान्तं कृत्वा त्रीननुवकानादितोऽधीयीरन् ॥४॥
-
-</details>
 
 </div>
 
@@ -192,22 +167,16 @@ title = "०८ उपाकर्मोत्सर्जनप्रकरण�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/08_upAkarmotsarjanaprakaraNam/11u_05.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>हरदत्तः</summary>
 
 यदि वा वेदस्य प्रथमोत्तमौ अनुवाकावधीयीरन् "इषे त्वा" (६)"भृगुर्वैवारुणिर्" इति ॥५॥
-</details>
 </details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/08_upAkarmotsarjanaprakaraNam/11u_05.md">
 
-<details><summary><h4></h4>></summary>
-
 प्रथमोत्तमावनुवाकौ वा ॥५॥
-
-</details>
 
 </div>
 
@@ -221,7 +190,6 @@ title = "०८ उपाकर्मोत्सर्जनप्रकरण�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/08_upAkarmotsarjanaprakaraNam/11u_06.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>हरदत्तः</summary>
 
 यस्मिन्न् अहन्न्य् उपाकरणं कृतं  
@@ -232,17 +200,12 @@ title = "०८ उपाकर्मोत्सर्जनप्रकरण�
 अधीयीरन्न् इति वचनं  
 उपाकृत्य त्र्यहाद् ऊर्ध्वं नियमेनाध्ययनं यथा स्याद् इति ॥६॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/08_upAkarmotsarjanaprakaraNam/11u_06.md">
 
-<details><summary><h4></h4>></summary>
-
 त्र्यहमेकाहं वा क्षम्याधीयीरन् ॥६॥
-
-</details>
 
 </div>
 
@@ -256,7 +219,6 @@ title = "०८ उपाकर्मोत्सर्जनप्रकरण�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/08_upAkarmotsarjanaprakaraNam/11u_07.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>हरदत्तः</summary>
 
 येन प्रकारेणोपाकरणं कृतं तथाऽध्ययनं कर्तव्यम् ।
@@ -265,17 +227,12 @@ title = "०८ उपाकर्मोत्सर्जनप्रकरण�
 यस्तु कृत्स्नं वेदमरण्येऽनुवाक्यानि परिहाप्य प्रागुत्सर्जनादध्येतुं न शक्नोति तस्य पृथक्काण्डोपाकरणम् ।
 तत्र तस्यैव काण्डस्यैक ऋषिः सदसस्पतिः सावित्री वेदाहुतय उपहोमाः परिष्चनान्ते तस्यैव काण्डस्यानुवाकं एकाहमनध्यायः तस्यैव काण्डस्याध्ययनम् ॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/08_upAkarmotsarjanaprakaraNam/11u_07.md">
 
-<details><summary><h4></h4>></summary>
-
 यथोपाकरणमध्यायः ॥७॥
-
-</details>
 
 </div>
 
@@ -289,7 +246,6 @@ title = "०८ उपाकर्मोत्सर्जनप्रकरण�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/08_upAkarmotsarjanaprakaraNam/11u_08.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>हरदत्तः</summary>
 
 एवम् उपाकृत्य, 
@@ -304,17 +260,12 @@ title = "०८ उपाकर्मोत्सर्जनप्रकरण�
 क्षम्यमाणं कर्म प्रतिपद्यते ।  
 हिरण्य-केशिनां तु तर्पणाद् ऊर्ध्वं उदकान्ते होमः ॥८॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/08_upAkarmotsarjanaprakaraNam/11u_08.md">
 
-<details><summary><h4></h4>></summary>
-
 तैषीपक्षस्य रोहिण्यां पौर्णमास्यां वोत्सर्गः ॥८॥
-
-</details>
 
 </div>
 
@@ -642,7 +593,6 @@ _____________________________
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/08_upAkarmotsarjanaprakaraNam/11u_09.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>हरदत्तः</summary>
 
 **सगण** सशिष्यः **यत्रापः पुरस्तादिति** यत्र देशे पूर्वस्यां दिशि अपः पश्यतीत्यर्थः ।
@@ -675,17 +625,12 @@ _____________________________
 
 केभ्यः? देवेभ्यः पितृभ्यः ऋषिभ्यश्च ।
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/08_upAkarmotsarjanaprakaraNam/11u_09.md">
 
-<details><summary><h4></h4>></summary>
-
 प्राचीमुदीचीं वा सगणो दिशमुपनिष्क्रम्य यत्रापः पुरस्तात् सुखाः सुखावगाहा अवकिन्यः शङ्खिन्यः तासामन्तं गत्वाभिषेकान् कृत्वा सुरभिमत्याब्लिङ्गाभिर्वारुणीभिर्हिरण्यवर्णाभिः पावमानीभिरिति मार्जयित्वाऽन्तर्जलगतोऽघमर्षणेन त्रीन् प्राणायामान् धारायित्वोत्तीर्याचम्योपोत्थाय दर्भानन्योन्यस्मै सम्प्रदाय शुचौ देशे प्राक्कूलैर्दर्भैरासनानि कल्पयन्ति ॥९॥
-
-</details>
 
 </div>
 
@@ -707,7 +652,6 @@ _____________________________
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/08_upAkarmotsarjanaprakaraNam/11u_10.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>हरदत्तः</summary>
 
 **देवगण इति** देवानां च तद्गणानां चेत्यर्थः ।
@@ -719,17 +663,12 @@ _____________________________
 एतानि पञ्चविंशतिरासनान्युदगपवर्गाणि ।
 तर्पणं चैषां दैवेन तीर्थेन भवति ॥१०॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/08_upAkarmotsarjanaprakaraNam/11u_10.md">
 
-<details><summary><h4></h4>></summary>
-
 ब्रह्मणे प्रजापतये बृहस्पतयेऽग्नये वायवे सूर्याय चन्द्रमसे नक्षत्रेभ्यः ऋतुभ्यस्संवत्सराय इन्द्राय राज्ञे सोमाय राज्ञे यमाय राज्ञे वैश्रवणाय राज्ञे वसुभ्यो रुद्रेभ्य आदित्येभ्यो विश्वेभ्यो देवेभ्यस्साध्येभ्यो मरुद्भ्य ऋभुभ्यो भृगुभ्योऽङ्गिरोभ्य इति देवगणानाम् ॥१०॥
-
-</details>
 
 </div>
 
@@ -745,22 +684,16 @@ _____________________________
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/08_upAkarmotsarjanaprakaraNam/11u_11.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>हरदत्तः</summary>
 
 देवानाम् उत्तरतः सप्तर्षीणामासनानि, दक्षिणतोऽगस्त्याय, कश्यपाद् ऊर्ध्वम् अरुन्धत्याः+++(5)+++, (१)गृह्यान्तरदर्शनात् ॥११॥
-</details>
 </details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/08_upAkarmotsarjanaprakaraNam/11u_11.md">
 
-<details><summary><h4></h4>></summary>
-
 अथर्षयः — विश्वामित्रो जमदग्निर्भरद्वाजो गौतमोऽत्रिर्वसिष्ठः कश्यप इत्येते सप्तर्षयः सप्तर्षिभ्यः कल्पयित्वा दक्षिणतोऽगस्त्याय कल्पयन्ति ॥११॥
-
-</details>
 
 </div>
 
@@ -794,7 +727,6 @@ _____________________________
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/08_upAkarmotsarjanaprakaraNam/11u_12.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>हरदत्तः</summary>
 
 **ततः** अनन्तरं, यावन्तः **एकवेद्यन्ताः** समान-वेद्य्-अन्ताः  
@@ -809,17 +741,12 @@ _____________________________
 
 केचिद् अथर्वाङ्गिरस इतिहास-पुराणानि सर्प-देवजनान् सर्व-भूतानीत्य् एतेषामपि वेदग्रहणेन ग्रहणमिच्छन्ति;  कल्पान्तरे तथा दर्शनात् ॥१२॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/08_upAkarmotsarjanaprakaraNam/11u_12.md">
 
-<details><summary><h4></h4>></summary>
-
 ततो यावदेकवैद्यन्तैः कल्पयन्ति ॥१२॥
-
-</details>
 
 </div>
 
@@ -839,23 +766,17 @@ _____________________________
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/08_upAkarmotsarjanaprakaraNam/11u_13.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>हरदत्तः</summary>
 
 ततः सर्वे **प्राचीनावीतानि कृत्वा** वैशम्पायनादिभ्यो द्वादशभ्य आसानानि कल्पयन्ति **दक्षिणतो** देवानाम् अगस्त्यस्य च ।
 तत्र दक्षिणा-प्रवणदेशे दक्षिणाग्रैः प्रत्यगपवर्गम्(स.गृ.२.१९-७.) इति कल्पान्तरम् ॥१३॥
-</details>
 </details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/08_upAkarmotsarjanaprakaraNam/11u_13.md">
 
-<details><summary><h4></h4>></summary>
-
 प्राचीनावीतानि कृत्वा दक्षिणतो वैशम्पायनाय पैङ्गये तित्तिरये उखायात्रेयाय पदकाराय, कौण्डिन्याय वृत्तिकाराय, बौधायनाय प्रवचनकाराय, आपस्तम्बाय सूत्रकाराय, भरद्वाजाय सूत्रकाराय, सत्याषाढाय हिरण्यकेशाय, आचार्येभ्य ऊर्ध्वरेतोभ्य, एकपत्नीभ्यो वानप्रस्थेभ्यः कल्पयामीति ॥१३॥
-
-</details>
 
 </div>
 
@@ -870,7 +791,6 @@ _____________________________
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/08_upAkarmotsarjanaprakaraNam/11u_14.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>हरदत्तः</summary>
 
 **यथास्वं** यस्य ये पितरः पितामहाः प्रपितामहा मातामहाश्च मातुर्ये पितृपितामहप्रपितामहाः सर्वेभ्य उभयेभ्यः कल्पयन्तीत्यर्थः ।
@@ -879,17 +799,12 @@ _____________________________
 अन्ये पितृभ्य इत्येव कल्पयन्ति ।
 किमर्थं तर्हि यथास्वमिति? जीवपितृकाणामिहापि पिण्डदानवदुपायविशेषप्रतीत्यर्थः ॥१४॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/08_upAkarmotsarjanaprakaraNam/11u_14.md">
 
-<details><summary><h4></h4>></summary>
-
 अथ यथास्वं पितृभ्यः कल्पयन्ति मातामहेभ्यश्च पृथक् ॥१४॥
-
-</details>
 
 </div>
 
@@ -907,22 +822,16 @@ _____________________________
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/08_upAkarmotsarjanaprakaraNam/11u_15.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>हरदत्तः</summary>
 
 अथ कल्पान्तरे दृष्टो विशेषः–अमुष्मै नमोऽमुष्मै नम इति गन्धपुष्पधूपदीपैः, अमुष्मै स्वाहामुष्मै स्वाहेत्यन्नेन, अमुं तर्पयाम्यमुं तर्पयामीति फलोदकेनेति(भा.गृ.३-११) (स.गृ.२-२०-५,६,७) ॥१५॥
-</details>
 </details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/08_upAkarmotsarjanaprakaraNam/11u_15.md">
 
-<details><summary><h4></h4>></summary>
-
 यज्ञोपवीतानि कृत्वा तेष्वेव देशेषु तयैवानुपूर्व्या तैरेव नामाभिर्देवानृषींश्च तर्पयन्ति वैशम्पायनप्रभृतींस्तु मातुः प्रपितामहपर्यन्तान् प्राचीनावीतिनस्तर्पयन्ति – अमुं तर्पयाम्यमुं तर्पयाम्यमुं तर्पयामीति ॥१५॥
-
-</details>
 
 </div>
 
@@ -930,17 +839,12 @@ _____________________________
 
 <div class="js_include collapsed" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/08_upAkarmotsarjanaprakaraNam/11u_16.md">
 
-<details><summary><h4></h4>></summary>
-
 अभिप्यन्ते +++(=प्रार्थयन्ते [स्नानादिकं सहैव कर्तुं])+++ वान्योन्यम् १६
-
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/08_upAkarmotsarjanaprakaraNam/11u_16.md">
 
-<details><summary><h5></h5>></summary>
 <details><summary>हरदत्तः</summary>
 
 आप्नोतेरेतद्रूपम् ।
@@ -952,17 +856,12 @@ _____________________________
 उपसर्गवशाच्च स एवार्थः ।
 ये त्वधिशब्दात् परं तकारमेवाधीयते न ररेफमपि तेषां धातुर्मग्यार्थ एव ॥१६॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/08_upAkarmotsarjanaprakaraNam/11u_16.md">
 
-<details><summary><h5></h5>></summary>
-
 अभिप्यन्ते वान्योन्यम् ॥१६॥
-
-</details>
 
 </div>
 
@@ -970,32 +869,22 @@ _____________________________
 
 <div class="js_include collapsed" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/08_upAkarmotsarjanaprakaraNam/11u_17.md">
 
-<details><summary><h4></h4>></summary>
-
 यज्ञोपवीतानि कृत्वा त्रीनादितोऽनुवाकानधीयीरन् १७
-
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/08_upAkarmotsarjanaprakaraNam/11u_17.md">
 
-<details><summary><h5></h5>></summary>
 <details><summary>हरदत्तः</summary>
 
 अध्ययनप्रकार उपाकरणे व्याख्यातः ॥१७॥
-</details>
 </details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/08_upAkarmotsarjanaprakaraNam/11u_17.md">
 
-<details><summary><h5></h5>></summary>
-
 यज्ञोपर्वातानि कृत्वा त्रीनादितोऽनुवाकानधीयीरन् ॥१७॥
-
-</details>
 
 </div>
 
@@ -1003,40 +892,28 @@ _____________________________
 
 <div class="js_include collapsed" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/08_upAkarmotsarjanaprakaraNam/11u_18.md">
 
-<details><summary><h4></h4>></summary>
-
 काण्डादीन्प्रथमोत्तमौ वा १८
-
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/08_upAkarmotsarjanaprakaraNam/11u_18.md">
 
-<details><summary><h5></h5>></summary>
 <details><summary>हरदत्तः</summary>
 
 अयमपि विकल्प उपाकरणे व्याख्यातः ॥१८॥
-</details>
 </details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/08_upAkarmotsarjanaprakaraNam/11u_18.md">
 
-<details><summary><h5></h5>></summary>
-
 काण्डादीन् प्रथमोत्तमौ वा ॥१८॥
-
-</details>
 
 </div>
 
 ## ११उ १९
 
 <div class="js_include collapsed" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/08_upAkarmotsarjanaprakaraNam/11u_19.md">
-
-<details><summary><h4></h4>></summary>
 
 "काण्डात् काण्डात् प्ररोहन्ती"ति द्वाभ्यामुपोदके दूर्वा रोपयन्ति ॥१९॥
 
@@ -1048,30 +925,23 @@ _____________________________
 स॒हस्रे॑ण श॒तेन॑ च ।  
 
 </div>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/08_upAkarmotsarjanaprakaraNam/11u_19.md">
 
-<details><summary><h5></h5>></summary>
 <details><summary>हरदत्तः</summary>
 
 अथ समूलं दूर्वास्तम्बमाहृत्य तमुदकस्य समीपे **रोपयति** । यथा दूर्वा प्ररोहति तथा निखनन्ति "काण्डात् काण्डात् प्ररोहन्ती"ति द्वाभ्यामृग्भ्याम् ।
 तत्र दूर्वां इत्येकवचनश्रवणात् एक एव मुख्यो निखनति तमितरेऽन्वारभेरन् ।
 अन्ये प्रतिपूरुषमिच्छन्ति ॥ १९ ॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/08_upAkarmotsarjanaprakaraNam/11u_19.md">
 
-<details><summary><h5></h5>></summary>
-
 "काण्डात् काण्डात् प्ररोहन्ती"ति द्वाभ्यामुपोदके दूर्वा रोपयन्ति ॥१९॥
-
-</details>
 
 </div>
 
@@ -1079,33 +949,23 @@ _____________________________
 
 <div class="js_include collapsed" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/08_upAkarmotsarjanaprakaraNam/11u_20.md">
 
-<details><summary><h4></h4>></summary>
-
 अपः प्रगाह्योदधिं कुर्वन्ति +++(=क्षोभयन्ति)+++ २०
-
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/08_upAkarmotsarjanaprakaraNam/11u_20.md">
 
-<details><summary><h5></h5>></summary>
 <details><summary>हरदत्तः</summary>
 
 **अथापः** प्रविश्य **तत्रोदधिं कुर्वन्ति ।** उदधिः समुद्रः तमिव क्षोभयन्तीत्यर्थः ॥२०॥
 कथं तदित्याह–
-</details>
 </details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/08_upAkarmotsarjanaprakaraNam/11u_20.md">
 
-<details><summary><h5></h5>></summary>
-
 अपः प्रगाह्योदधिं कुर्वन्ति ॥२०॥
-
-</details>
 
 </div>
 
@@ -1113,33 +973,23 @@ _____________________________
 
 <div class="js_include collapsed" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/08_upAkarmotsarjanaprakaraNam/11u_21.md">
 
-<details><summary><h4></h4>></summary>
-
 सर्वतः परिवार्योर्मिमन्तः कुर्वन्ति २१
-
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/08_upAkarmotsarjanaprakaraNam/11u_21.md">
 
-<details><summary><h5></h5>></summary>
 <details><summary>हरदत्तः</summary>
 
 बहुभिः **परिवार्य सर्वतस्** सन्निरुध्य यथोर्मयस्तत्रोत्पद्यन्ते तथा कुर्वन्तीत्यर्थः ।
 एवं त्रिः कुर्वन्ति ॥२१॥
-</details>
 </details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/08_upAkarmotsarjanaprakaraNam/11u_21.md">
 
-<details><summary><h5></h5>></summary>
-
 सर्वतः परिवार्योर्मिमन्तः कुर्वन्ति ॥२१॥
-
-</details>
 
 </div>
 
@@ -1147,34 +997,24 @@ _____________________________
 
 <div class="js_include collapsed" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/08_upAkarmotsarjanaprakaraNam/11u_22.md">
 
-<details><summary><h4></h4>></summary>
-
 उद्गाह्य +आतमितोर् +++(=श्रमं यावत्)+++ आजिं +++(प्राचीमुदीचीं वा)+++ धावन्ति २२
-
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/08_upAkarmotsarjanaprakaraNam/11u_22.md">
 
-<details><summary><h5></h5>></summary>
 <details><summary>हरदत्तः</summary>
 
 **उद्गाह्य** उत्तीर्य **आतमितोः** आश्रमजननात् **आजिं** धावन्ति ।
 प्राचीमुदीचीं वा दिशमभिधावन्ति ।
 तथापवर्गः ॥२२॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/08_upAkarmotsarjanaprakaraNam/11u_22.md">
 
-<details><summary><h5></h5>></summary>
-
 उद्गाह्याऽतमितोराजिं धावन्ति ॥२२॥
-
-</details>
 
 </div>
 
@@ -1182,35 +1022,25 @@ _____________________________
 
 <div class="js_include collapsed" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/08_upAkarmotsarjanaprakaraNam/11u_23.md">
 
-<details><summary><h4></h4>></summary>
-
 **प्रत्येत्य**  
 +अभिदानानि+++(=??)+++ सक्तुभिर् ओदनेनेति  
 ब्राह्मणान् **भोजयित्वा वाचयति** २३
-
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/08_upAkarmotsarjanaprakaraNam/11u_23.md">
 
-<details><summary><h5></h5>></summary>
 <details><summary>हरदत्तः</summary>
 
 **प्रत्येत्य** गृहान् प्रविश्येत्यर्थः ।
 आशिषः पुण्याहाद्याः पुण्याहं स्वस्त्यृध्यतामिति वाचयित्वेति ॥२३॥
-</details>
 </details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/08_upAkarmotsarjanaprakaraNam/11u_23.md">
 
-<details><summary><h5></h5>></summary>
-
 प्रत्येत्याभिदानादि सक्तुभिरोदनेनेति ब्राह्मणान् भोजयित्वा वाचयति ॥२३॥
-
-</details>
 
 </div>
 
@@ -1218,18 +1048,13 @@ _____________________________
 
 <div class="js_include collapsed" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/08_upAkarmotsarjanaprakaraNam/11u_24.md">
 
-<details><summary><h4></h4>></summary>
-
 एवं पारायण+++(=यथारुच्यध्ययनमिति केचित्)+++समाप्तौ च -  
 काण्डादि+++(-अध्ययन)+++-दूर्वारोपणोदधि-धावनवर्जम् २४
-
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/08_upAkarmotsarjanaprakaraNam/11u_24.md">
 
-<details><summary><h5></h5>></summary>
 <details><summary>हरदत्तः</summary>
 
 यथास्मिन् वार्षिके ऽप्य् अध्याये समाप्ते  
@@ -1244,17 +1069,12 @@ _____________________________
 सर्व-प्रकारस्यानुवाकाध्ययनस्य प्रतिषेधः ।
 पारायणे च यथारुच्यध्ययनामित्याहुः ॥२५॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/08_upAkarmotsarjanaprakaraNam/11u_24.md">
 
-<details><summary><h5></h5>></summary>
-
 एवं पारायणसमाप्तौ च काण्डादि दूर्वारोपणोदधिधावनवर्जम् ॥२४॥
-
-</details>
 
 </div>
 
@@ -1268,22 +1088,16 @@ _____________________________
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/08_upAkarmotsarjanaprakaraNam/11u_25.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>हरदत्तः</summary>
 
 MISSING??
-</details>
 </details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/08_upAkarmotsarjanaprakaraNam/11u_25.md">
 
-<details><summary><h4></h4>></summary>
-
 प्रत्येत्य ब्राह्मणभोजनादि कर्म प्रतिपद्यते ॥२५॥
-
-</details>
 
 </div>
 
@@ -1297,7 +1111,6 @@ MISSING??
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/08_upAkarmotsarjanaprakaraNam/11u_26.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>हरदत्तः</summary>
 
 अद्भिर् इति वचनात्  
@@ -1309,16 +1122,11 @@ MISSING??
 
 इति गृह्यसूत्रावृत्तावनाकुलायां उपाकर्मोत्सर्जनपटलः ॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/08_upAkarmotsarjanaprakaraNam/11u_26.md">
 
-<details><summary><h4></h4>></summary>
-
 एवम् एवाद्भिर् अहर्-अहर् देवान् ऋषीन् पितॄंश्च तर्पयेत् ॥२६॥
-
-</details>
 
 </div>

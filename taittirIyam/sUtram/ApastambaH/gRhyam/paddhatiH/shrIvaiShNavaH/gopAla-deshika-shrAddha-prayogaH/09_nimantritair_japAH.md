@@ -1,12 +1,9 @@
 +++
 title = "०९ निमन्त्रितैर् जपाः"
-
 +++
 ## १. दोग्ध्री जपः -
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/7/5/18">
-
-#####  …{Loading}…
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -118,8 +115,6 @@ title = "०९ निमन्त्रितैर् जपाः"
 [[105]]
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/4/5_rudra-homa-mantrAH/03_namaH_sahamAnAya/">
-
-#####  …{Loading}…
 
 <details><summary>विश्वास-टिप्पनी</summary>
 
@@ -441,8 +436,6 @@ title = "०९ निमन्त्रितैर् जपाः"
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/4/5_rudra-homa-mantrAH/07_namo_dundubhyAya">
 
-#####  …{Loading}…
-
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 अग्निर्ऋषिः
@@ -745,8 +738,6 @@ title = "०९ निमन्त्रितैर् जपाः"
     हुतशिष्टान्नातिरिक्तवस्तुपरिवेषणे इत्यर्थः
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/7/4/18_brahmodyam/">
-
-#####  …{Loading}…
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 

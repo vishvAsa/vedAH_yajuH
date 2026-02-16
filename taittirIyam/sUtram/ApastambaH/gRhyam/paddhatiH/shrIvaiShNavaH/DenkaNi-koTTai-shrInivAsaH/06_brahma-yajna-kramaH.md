@@ -1,6 +1,5 @@
 +++
 title = "०६ ब्रह्म-यज्ञ-क्रमः"
-
 +++
 
 आचम्य - प्राणानायम्य - 
@@ -22,8 +21,6 @@ title = "०६ ब्रह्म-यज्ञ-क्रमः"
 इति सात्त्विक-त्यागं कृत्वा
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/mantraH/yajuH/vidyudasi.md">
-
-#####  …{Loading}…
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

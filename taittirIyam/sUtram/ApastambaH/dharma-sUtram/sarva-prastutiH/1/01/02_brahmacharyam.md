@@ -1,0 +1,1535 @@
++++
+title = "०२ ब्रह्मचर्यम्"
++++
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/01_pratipUruShaM_sankhyAya_saMvatsarAn.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+प्रति-पूरुषं संख्याय संवत्सरान् यावन्तो ऽनुपेताः स्युः १
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/01_pratipUruShaM_sankhyAya_saMvatsarAn.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+1. For as many years as there are uninitiated persons, reckoning (one year) for each ancestor (and the person to be initiated himself),
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+प्रतिपूरुषं संख्याय संवत्सरान् यावन्तोऽनुपेताः स्युः ॥ १ ॥  
+
+**टीका**  
+यदि पितैवानुपेतः ततस्संवत्सरमेकम् । अथ पितामहोऽपि, ततो द्वौ । अथ स्वयमपि यथाकालमनुपेतः, ततः संवत्सरानिति ॥१॥
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/02_saptabhiH_pAvamAnIbhir_yadanti.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+सप्तभिः पावमानीभिर् "यदन्ति यच् च दूरक" इति एताभिर्, यजुष्-पवित्रेण, +++(वामदेव्यम्→)+++साम-पवित्रेणाङ्गिरसेणेति  २
+
+**पावमान्यः**
+
+<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/01_pavamAnas_suvarjanaH.md">
+
+पव॑मान॒स् सुव॒र्-जनः॑ ।  
+प॒वित्रे॑ण॒ +++(नाना-विषयेषु)+++ विच॑र्षणिः ।  
+यᳶ पोता॒ स **पु॑नातु** मा ।  
+
+</div>
+
+<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/02_punantu_mA.md">
+
+**पु॒नन्तु॑** मा **देवज॒नाः** ।  
+पु॒नन्तु॒ **मन॑वो** धि॒या ।  
+पु॒नन्तु॒ **विश्व॑ आ॒यवः॑**+++(=मनुष्याः)+++ ।  
+
+</div>
+
+<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/03_jAtavedapH_pavitravat.md">
+
+जात॑वेदᳶ प॒वित्र॑वत् ।  
+प॒वित्रे॑ण **पुनाहि**+++(=पुनीहि)+++ मा ।  
+शु॒क्रेण॑ देव॒ **दीद्य॑त्** ।  
+**अग्ने॒** क्रत्वा॒+++(=प्रज्ञया)+++ क्रतूँ॒र् अनु॑ ॥46॥  
+
+</div>
+
+<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/04_yat_te.md">
+
+यत् ते॑ **प॒वित्र॑म् अ॒र्चिषि॑** ।  
+अग्ने॒ वित॑तम् अन्त॒रा ।  
+ब्रह्म॒ तेन॑ **पुनीमहे** ।  
+
+</div>
+
+<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/05_ubhAbhyAn_deva.md">
+
+उ॒भाभ्या॑न् देव **सवितः** ।  
+प॒वित्रे॑ण स॒वेन॑ च ।  
+इ॒दम् ब्रह्म॑ **पुनीमहे** ।+++(5)+++  
+
+</div>
+
+<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/06_vaishvadevI_punatI.md">
+
+वै॒श्व॒दे॒वी **पु॑न॒ती** दे॒व्य् **आगा॑त्**+++(=आगच्छतु)+++ ।  
+यस्यै॑ ब॒ह्वीस् त॒नुवो॑ वी॒त-पृ॑ष्ठाः+++(=कान्त-स्तुतयः)+++ ।  
+तया॒ **मद॑न्तस्** सध॒-माद्ये॑षु +++(=सह माद्यन्ति येषु सवनेषु)+++ ।  
+व॒यँ **स्या॑म॒** पत॑यो रयी॒णाम् ॥47॥  
+
+</div>
+
+<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/07_vaishvAnaro_rashmibhir.md">
+
+**वै॒श्वा॒न॒रो** र॒श्मिभि॑र् मा **पुनातु** ।   
+**वात॑ᳶ** प्रा॒णेने॑षि॒रो+++(←इष गतौ)+++ म॑यो॒भूः ।  
+**द्यावा॑पृथि॒वी** पय॑सा॒ पयो॑भिः +++(इति क्रमशः)+++ ।   
+ऋ॒ताव॑री+++(=ऋतवत्यौ)+++ य॒ज्ञिये॑ मा **पुनीताम्** ।  
+
+</div>
+
+**यदन्ति**
+
+<div class="js_include" newlevelforh1="3" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/067/21_yadanti_yachcha.md">
+
+य᳓द् अ᳓न्ति य᳓च् च दूरके᳓  
+भयं᳓ विन्द᳓ति मा᳓म् इह᳓  
+प᳓वमान वि᳓ त᳓ज् जहि
+
+</div>
+
+**यजुष्-पवित्रम्**  
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/02_Apo_asmAn_full.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+आपो॑ अ॒स्मान् मा॒तर॑श् शुन्धन्तु।+++(र४)+++  
+घृ॒तेन॑ नो घृत॒-पुवᳶ॑+++(→घृतपावकाः)+++ पुनन्तु ।  
+विश्व॑म् अ॒स्मत् प्र व॑हन्तु रि॒प्रम्+++(=पापम्)+++ +++(र५)+++  
+उद् +++(अद्भ्य)+++ आ॑भ्य॒श् शुचि॒र् आ पू॒त ए॑मि ।+++(र५)+++
+
+</details>
+</div>
+
+**साम-पवित्रम्**
+
+<div class="js_include" includetitle="false" newlevelforh1="b[]" unfilled="" url="/vedAH_sAma/paravastu-sAma/devaH/indraH/vAmadevyam/">
+
+**ऋक्**
+
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/1/1/12-1_0682_kayA_nashchitra.md">
+
+क꣡या꣢ नश्चि꣣त्र꣡ आ भुव꣢꣯दू꣣ती꣢ स꣣दा꣢वृ꣣धः꣢ स꣡खा꣢। क꣢या꣣ श꣡चि꣢ष्ठया वृ꣣ता꣢ ॥ 12-1:0682 ॥
+
+<div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/031/01_kayA_nashchitra.md">
+<details open><summary>विश्वास-शाकल-प्रस्तुतिः …{Loading}…</summary>
+
+क᳓या नश् चित्र᳓ +++(→इन्द्रः)+++ **आ᳓ भुवद्**  
+**ऊती᳓** +++(=रक्षणम्/ तर्पणम् [तेन])+++, सदा᳓-वृधः +++(=वर्धमानः)+++ स᳓खा ।  
+क᳓या श᳓चिष्ठया +++(=प्रज्ञावता)+++ वृता᳓ +++(=वर्तनेन)+++ १
+
+</details>
+</div>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/1/1/12-2_0683_kastvA_satyo.md">
+
+क꣡स्त्वा꣢ स꣣त्यो꣡ मदा꣢꣯नां꣣ म꣡ꣳहि꣢ष्ठो मत्स꣣द꣡न्ध꣢सः। दृ꣣ढा꣡ चि꣢दा꣣रु꣢जे꣣ व꣡सु꣢ ॥ 12-2:0683 ॥
+
+<div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/031/02_kastvA_satyo.md">
+<details open><summary>विश्वास-शाकल-प्रस्तुतिः …{Loading}…</summary>
+
+क᳓स् त्वा सत्यो᳓ म᳓दानां  
+मं᳓हिष्ठो +++(=पूज्यः)+++ **मत्सद्** +++(=मादयेद्)+++ अ᳓न्धसः+++(= भोज्यः (→[सोमः])+++) ।  
+दृळ्हा᳓ +++(=ढम्)+++ चिद् **आरु᳓जे** +++(=सम्भङ्क्तुम्)+++ व᳓सु २
+
+</details>
+</div>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/1/1/12-3_0684_abhI_Shu.md">
+
+अ꣣भी꣢꣫ षु णः꣣ स꣡खी꣢नामवि꣣ता꣡ ज꣢रितृ꣣णा꣢म्। श꣣तं꣡ भ꣢वास्यू꣣त꣡ये꣢ ॥ 12-3:0684 ॥॥12(टा)॥
+
+<div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/031/03_abhI_Shu.md">
+<details open><summary>विश्वास-शाकल-प्रस्तुतिः …{Loading}…</summary>
+
+अभी᳓ षु᳓ णः स᳓खीनाम्  
+**अविता᳓** जरितॄणा᳓म् +++(=स्तोतॄणाम्)+++।  
+शतं᳓ **भवास्य्** ऊति᳓भिः +++(=रक्षाभिः)+++३  
++++(अभिभवसि = सम्मुखो भवसि)+++
+
+</details>
+</div>
+</div>  
+
+**साम - वामदेव्यम्।**
+
+<div caption="रामानुजार्यः 1974 " class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/vAmadevyam.mp3"></div>
+
+<div caption="गोपालार्यः 2015  " class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/vAmadevyam.mp3"></div>
+
+<div caption="गोपालपवनयोर् अनुवचनम् 2015 1x" class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015/vAmadevyam.mp3"></div>
+
+<div caption="गोपालपवनयोर् अनुवचनम् 2015 1.5x" class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015-150p-speed/vAmadevyam.mp3"></div>
+
+वामदेव्यम् ।
+
+का+++([टा]%)+++याअ । न+++([धू])+++श्चा+++(३)+++अइत्रा+++(३)+++आ+++(["])+++ भुवात+++(v)+++।  
+ऊ+++([त]%३)+++ती+++([गो]--%३)+++। सादा+++(["])+++, वृधस्, सा+++(३--%)+++खा+++([त]३--%)+++।  
+औ+++([पे])+++हो+++("३)+++हाइ।  
+क+++([तः])+++या+++(--%३)+++अ +शचाइ,,ष्ठ+++([टि])+++यौ+++(")+++हो।  
+ओ हिं+++([ता])+++म्मा+++([प्रे])+++अ।  
+वा+++("३[फ])+++आर्तो+++(")+++, ओ+++(")+++हाइ ।।
+
+का+++(%)+++स्+++([टा])+++ त्वा+++(")+++अ। स+++([धू])+++त्यो+++(")+++ओ, मा+++(%)+++दा+++(%)+++ना+++(")+++अम् ।  
+मा+++([त]%)+++ं,हि+++([गो])+++ष्ठो+++(["])+++ओ, मात्साद्, अन्धा+++(३--%)+++,, सा+++([त]--%३)+++।  
+औ+++([पे])+++हो+++("३)+++हाइ।  
+दृ+++([तः])+++ढा+++(--%३)+++अ चिदा। रु+++([टी])+++जौ+++(["])+++हो+++(["])+++।  
+ओ हिं+++([ता])+++म्मा+++([प्रे])+++अ।  
+वा+++("३)+++आ+++([फ])+++सो, ओ+++(")+++हाइ॥
+
+आ+++([टा]%)+++भि+++(")+++इ । षु+++([धू])+++ णा+++(")+++अ, स्सा+++(%)+++खि+++(%)+++ना+++(")+++अम्।  
+आ+++([त]%)+++वि+++([घि])+++ता+++(["])+++अ, जराइत्री+++(["])+++इणा+++(--%३)+++म्+++([त])+++ ।  
+औ+++([पे])+++हो+++("३)+++हाइ।  
+श+++([तः])+++ता+++(--%३)+++अम् भव,,सि+++([टी])+++ यौ+++(["])+++ हो।  
+ओ हिं+++([ता])+++म्मा+++([प्रे])+++अ।
+[ऊ]+++(v)+++ता+++([फ]"३)+++आयो, ओ+++(")+++हाइ ।।
+
+</div>
+
+**आङ्गीरसम्**
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_2/01_haMsash_shuchiShad.md">
+
++++(अहं)+++ हँ॒सश् शु॑चि॒-षद्, वसु॑र् अन्तरिक्ष॒-सद्,  
++होता॑ वेदि॒-षद्, अति॑थिर् दुरोण॒-सत् ।  
+नृ॒-षद्, व॑र॒-सद्, ऋ॑त॒-सद् व्यो॑म॒-सद्,  
+अ॒ब्-जा, गो॒-जा, ऋ॑त॒-जा, अ॑द्रि॒-जा, ऋ॒तं बृ॒हत् ॥
+
+</div>
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/02_saptabhiH_pAvamAnIbhir_yadanti.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+2. (They should bathe daily reciting) the seven [^1]  Pāvamānīs, beginning with 'If near or far,' the Yajuṣpavitra, ('May the waters, the mothers purify us,' &c.) the Sāmapavitra, ('With what help assists,' &c.), and the Āṅgirasapavitra ('A swan, dwelling in purity'),
+
+[^1]:  2. The seven Pāvamānīs are seven verses which occur Rig veda IX, 67, 21-27. Yajuṣpavitra = Taitt. Saṃh. I, 2, 1, 1. The Sāmapavitra is found Sāma-veda I, 2, 2, 3, 5. Āṅgirasapavitra = Ṛj-veda IV, 40, 5.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+सप्तभिः पावमानीभिर् "यदन्ति यच्च दूरक" इत्येताभिर्
+यजुष्पवित्रेण सामपवित्रेणाऽऽङ्गिरसेनेति ॥ २॥  
+
+**प्रस्तावः**  
+अथोदकोपस्पर्शने मन्त्राः —
+
+**टीका**  
+पवमानः सोमो देवता यासां ताः [^२]पावमान्यः ।  
+
+[^२]:
+
+    यदन्ति यच्च दूरके भयं विन्दति मामिह । पवमान वितज्जहि ॥१॥  
+    पवमानस्सोऽअद्य नः पवित्रेण विचर्षणिः । यः पोता स पुनातु नः ॥२॥  
+    यत्ते पवित्रमर्चिष्यग्ने विततमन्तरा । ब्रह्म तेन पुनीहि नः ॥ ३॥  
+    यत्ते पवित्रमर्चिवदग्ने तेन पुनीहि नः । ब्रह्म सवै पुनीहि नः ॥ ४ ॥  
+    उभाभ्यां देव सवितः पवित्रेण सवेन च । मा पुनीहि विश्वतः॥ ५॥  
+    त्रिभिष्ट्वं देव सवितर्वर्षिष्ठः सोम धामभिः । अग्ने दक्षैः पुनीहि नः ॥६॥  
+    पुनन्तु मां देवजनाः पुनन्तु वसवी धिया। विश्वे देवाः पुनीतन मा जातवेदः पुनीहि मा ॥७॥ (ऋ०सं० ७.२, १७, १८.) इति सप्त पावमान्यः ॥  
+
+यजुष्यवित्रेण[^३] 'आपो अस्मान्मातरः शुन्धन्त्वि'त्यनेन, सामपवित्रेण 'कया नश्चित्र आभुवदि'त्यादिगीतेन वामदेव्येन साम्ना, आङ्गिरसेन[^१] 'हंसाशुचिषदि'त्यनेन एतैरञ्जलिना शिरस्यपोऽवसिञ्चेत् ॥ २ ॥  
+
+[^३]:  
+
+    आपो अस्मान् मातरश्शुन्धन्तु घृतेन नो घृतपुवः पुनन्तु विश्वमस्मत्प्रवहन्तु रिप्रम्" (तै०सं० १.२.१.) इति यजुःपवित्रम् । 'कया नश्चित्र मा भुवदूती सदावृधस्सखा । कया शचिष्ठया वृता' इत्यस्यामृचि गीयमानं वामदेव्याख्यं साम सामपवित्रम् ॥   
+
+[^१]:  
+
+    हँसश्शुचिषद्वसुरन्तरिक्षसद्धोता वेदिषदतियिर्दुरोणसत् । नृषद्वरसदृतसद्व्योमसदब्जा गोजा ऋतजा अद्रिजा ऋत बृहत्" (तै० सं० ४ २ १ ४.) इत्याङ्गिरस ॥
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/03_api_vA_vyAhRtIbhir.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+अपि वा व्याहृतीभिर् एव ३
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/03_api_vA_vyAhRtIbhir.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+3. Or also reciting the Vyāhṛtis (om, bhūḥ, bhuvaḥ, suvaḥ).
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+अपि वा व्याहृतीभिर् एव ३
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/04_athAdhyApyaH.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+अथाध्याप्यः ४
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/04_athAdhyApyaH.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+4. After that (such a person) may be taught (the Veda).
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+अथाध्याप्यः ४
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/05_atha_yasya_prapitAmahAdi.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+अथ यस्य प्रपितामहादि नानुस्मर्यत उपनयनं - ते श्मशान-संस्तुताः ५
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/05_atha_yasya_prapitAmahAdi.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+5. But those whose great-grandfather's (grandfather's and father's) initiation is not remembered, are called 'burial-grounds.'
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+अथ यस्य प्रपितामहादि नानुस्मर्यत उपनयनं ते श्मशानसंस्तुताः ॥ ५ ॥  
+
+**टीका**  
+प्रपितामहादि प्रपितामहादारभ्य प्रपितामहः पितामहः पिता स्वयं च यथाकालमिति । ते तथाविधा माणवकाः श्मशानसंस्तुताः । एतेन [^२] 'श्मशाने सर्वतः शम्याप्रासा' दित्यध्ययननिषेध एषामपि सन्निधौ
+भवति ॥ ५॥  
+
+[^२]: आप० ध० १. ९. ६.
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/06_teShAm_abhyAgamanam_bhojanaM.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+तेषाम् अभ्यागमनं भोजनं विवाहम् इति च वर्जयेत्।
+तेषामिच्छतां प्रायश्चित्तं - द्वादशवर्षाणि त्रैविद्यकं ब्रह्मचर्यं चरेद् । अथोपनयनं तत उदकोपस्पर्शनं पावमान्यादिभिः ६
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/06_teShAm_abhyAgamanam_bhojanaM.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+6. Intercourse, dining, and intermarriage with them should be avoided. For them, if they like, the (following) penance (is prescribed). (Such a man) shall keep for twelve years the rules prescribed for a student who is studying the three Vedas. Afterwards he may be initiated. Then he shall bathe, reciting the Pāvamānīs and the other (texts mentioned above, I, 1, 2, 2).
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+तेषामभ्यागमनं भोजनं विवाहमिति च वर्जयेत्तेषामिच्छतां प्रायश्चित्तं द्वादश वर्षाणि त्रैविद्यकं ब्रह्मचर्यं चरेदथोपनयनं[^३]तत उदकोपस्पर्शनं पावमान्यादिभिः ॥ ६ ॥  
+
+**टीका**  
+गतम् । पावमान्यादिभिरित्यनेनैव प्रतिपूरुषं सङ्ख्याय सम्बत्सरानित्येतदपि द्रष्टव्यम् ॥ ६ ॥  
+
+[^३]:
+
+    ततस्संवत्सरमुदकोपस्पर्शनम् इति ग. पु. ।
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/07_atha_gRhamedhopadeshanam.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+अथ गृहमेधोपदेशनम् ७
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/07_atha_gRhamedhopadeshanam.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+7. Then he may be instructed in the duties of a householder.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+अथ गृहमेधोपदेशनम् ॥ ७ ॥
+
+**टीका**  
+गृहमेधो गृह्यशास्त्रं गृहस्थधर्मो वा ॥ ७॥
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/08_nAdhyApanam.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+नाध्यापनम् ८
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/08_nAdhyApanam.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+8. He shall not be taught (the whole Veda), but only the sacred formulas required for the domestic ceremonies.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+नाध्यापनम् ॥ ८॥
+
+**टीका**  
+नाध्यापनं कृत्स्नस्य वेदस्य । किं तु गृह्यमन्त्राणामेवेति ॥ ८॥
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/09_tato_yo_nirvartate.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+ततो यो निर्वर्तते तस्य संस्कारो यथा प्रथमेऽतिक्रमे ९
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/09_tato_yo_nirvartate.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+9. When he has finished this (study of the Gṛhya-mantras), he may be initiated (after having performed the penance prescribed) for the first neglect (I, 1, 1, 28).
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+ततो यो निवर्तते तस्य संस्कारो यथा प्रथमेऽतिक्रमे ॥९॥
+
+**टीका**  
+ततः एवं कृतप्रायश्चित्तात् गृहस्थीभूताद्यो निवर्तते उत्पद्यते तस्योपनयनसंस्कारः कर्तव्यः । कथम् ? यथा प्रथमेऽतिक्रमे ऋतुं त्रैविद्यकं ब्रह्मचर्यं चारयित्वेत्यर्थः ॥९॥
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/10_tata_Urdhvam_prakRtivat.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+तत ऊर्ध्वं प्रकृतिवत् १०
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/10_tata_Urdhvam_prakRtivat.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+10. Afterwards (everything is performed) as in the case of a regular initiation. [^2]  
+
+[^2]:  The commentator observes that for those whose great-great-grandfather or remoter ancestors were not initiated, no penance is prescribed, and that it must be fixed by those who know the law.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+तत ऊर्ध्वं प्रकृतिवत् ॥ १० ॥
+
+**टीका**  
+ततः यो निवर्तते तस्य प्रकृतिवत् यथा प्राप्तमुपनयनं कर्तव्यमिति । यस्य तु प्रपितामहस्थ पितुरारभ्य नानुस्मर्यत उपनयनं तत्र प्रायश्चित्तं नोक्तम्, धर्मज्ञैरूहितव्यम् ॥ १०॥
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/11_upetasyAchAryakule_brahmachArivAsaH.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+उपेतस्याचार्यकुले ब्रह्मचारिवासः ११
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/11_upetasyAchAryakule_brahmachArivAsaH.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+**सूत्रम्**  
+उपेतस्याऽऽचार्यकुले ब्रह्मचारिवासः ॥ ११ ॥
+
+**प्रस्तावः**  
+एवं ततः पूर्वेष्वपि निरूपितमुपनयनम् , अथाऽध्ययनविधिः—
+
+**टीका**  
+एवं यथाविध्युपेतस्य ब्रह्मचारिणस्सत आचार्यकुले वासो भवति । ब्रह्म वेदस्तदर्थं व्रतं चरतीति ब्रह्मचारी। अध्ययनाङ्गानि व्रतानि चरता
+आचार्यकुले वस्तव्यमित्युक्तं भवति ॥ ११ ॥
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+He who has been initiated shall dwell as a religious student in the house of his teacher, [^3]
+
+[^3]:  Manu II, 164.
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/12_aShTAchatvAriMshadvarShANi.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+अष्टाचत्वारिंशद्वर्षाणि १२
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/12_aShTAchatvAriMshadvarShANi.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+12. For forty-eight years (if he learns all the four Vedas), [^4] 
+
+[^4]:  Manu III, 1, and Yājñ. I, 36; Weber, Ind. Stud. X, 125.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+[^१]अष्टाचत्वारिंशद्वर्षाणि ॥ १२ ॥
+
+**प्रस्तावः**  
+तत्र कालः—
+
+**टीका**  
+चतुर्णां वेदानामध्ययनकाल एषः । प्रतिवेदं द्वादश ॥ १२ ॥  
+
+[^१]:  
+
+    गोपथब्राह्मणेऽथर्ववेदीये द्वितीयप्रपाठके पश्चमब्राह्मणेऽस्य विधिदृश्यते— तस्मा एतत् प्रोवाचाष्टाचत्वारिंशद्वर्ष तच्चतुर्धा वेदेषु व्यूह्य द्वादशवर्षं ब्रह्मचर्यं, द्वादशवर्षाण्यवरार्धमपि स्तायंश्चरेद्यथा शक्त्यपरम्" ( गोप० ब्रा० पू० २. ५.) इति ॥
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/13_pAdUnam.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+पादूनम् १३
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/13_pAdUnam.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+13. (Or) a quarter less (i.e. for thirty-six years),
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+पादूनम् ॥ १३ ॥
+
+**टीका**  
+स एव कालः पादून वा प्रत्येतव्यः । पादेनोनं पादूनम् । पररूपं [^२]कतन्तवत् । षट्त्रिंशद्वर्षाणि । प्रतिवेदं नव ॥ १३ ॥  
+
+[^२]: 'शकन्ध्वादित्वात्' इति घ.पु. ।
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/14_ardhena.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+अर्धेन १४
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/14_ardhena.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+14. (Or) less by half (i.e. for twenty-four years),
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+अर्धेन ॥ १४॥
+
+**टीका**  
+ऊनमिति[^३] समस्तमप्यपेक्षते। चतुर्विंशतिर्वर्षाणि। प्रतिवेदं षट् ॥१४॥  
+
+[^३]:  
+
+    उपसमस्तमिति ख० पु. प्राप्तसमासमपीत्यर्थः । सर्वत्राप्यपेक्षते इति. घ. पु.
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/15_tribhirvA.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+त्रिभिर्वा १५
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/15_tribhirvA.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+15. (Or) three quarters less (i.e. for twelve years),
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+त्रिभिर्वा ॥ १५॥
+
+**टीका**  
+पादैरूनमिति प्रकरणाद्गम्यते । द्वादशवर्षाणि प्रतिवेदं त्रीणि ॥१५॥
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/16_dvAdashAvarArdhyam.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+द्वादशावरार्ध्यम् १६
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/16_dvAdashAvarArdhyam.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+16. Twelve years (should be) the shortest time (for his residence with his teacher). [^5] 
+
+[^5]:  The commentator declares that in Manu III, 1, the expression until he has learnt it,' must be understood in this sense, that the pupil may leave his teacher, if he has learnt the Veda, after twelve years' study, never before. But compare also Āśv. Gṛ. Sū. I, 22, 3.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+द्वादशावरार्ध्यम् ॥ १६ ॥
+
+**टीका**  
+अवरार्ध्यशब्दोऽवरमात्रेत्येतस्मिन्नर्थे वर्तते । द्वादशवर्षाणि अवरमात्रा यथा भवति तथा ब्रह्मचारिणा गुरुकुले वस्तव्यम् । पूर्वेणैव सिद्धे यो ब्रह्मचार्यतिमेधावितया चतुरोऽपि वदानितोऽल्पीयसा कालेन गृह्णाति तेनाप्येतावन्तं कालं गुरुकुले वस्तव्यम् । [^१] 'विद्यया स्नाती'त्येतस्मिन्नपि पक्षे नातित्वरितेन स्नातव्यमित्येवमर्थमिदमारभ्यते । एतेन एकस्य वेदस्य त्रीणि वर्षाणि ब्रह्मचर्यमवश्यं[^२] भावीत्यर्थात्सिद्धम् ।  
+मनुरप्याह—  
+> [^३]षट्त्रिंशदाब्दिक चर्थ गुरौ विद्यकं व्रतम् ।  
+> तदाधिक पादिकं वा ग्रहणान्तिकमेव वा ॥ इति ॥
+
+त्रयाणां वेदानां षट् त्रिंशत् ; एकैकस्य द्वादश । तदर्धिकं त्रयाणामष्टादश; एकैकस्य षट् । पादिकं वा त्रयाणां नव, एकैकस्य त्रीणि । ग्रहणान्तिकमेव वेति एकैकस्य त्रिभ्य ऊर्ध्वमनियमः, न प्रागित्यर्थो द्रष्टव्यः॥१६॥  
+
+[^१]: आप० ध० १.३०.१  
+
+[^२]:
+
+    भावीत्ययमर्थस्सिद्धः । इति ख० पु०  
+
+[^३]: मनु० स्मृ० ३.१
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/17_na_brahmachAriNo_vidyArthasya.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+न ब्रह्मचारिणो विद्यार्थस्य परोपवासोऽस्ति १७
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/17_na_brahmachAriNo_vidyArthasya.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+17. A student who studies the sacred science shall not dwell with anybody else (than his teacher). [^6] 
+
+[^6]:  The commentator states that this rule refers only to a temporary, not to a professed student (naiṣṭhika). He also gives an entirely different explanation to the Sūtra, which, according to some, means, 'A student who learns the sacred science shall not fast in order to obtain heaven.' This rendering also is admissible, as the word para may mean either a 'stranger' or 'heaven' and upavāsa, 'dwelling' or 'fasting.'
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+न ब्रह्मचारिणो विद्यार्थस्य परोपवासोऽस्ति ।। १७ ।।
+
+**टीका**  
+ब्रह्मचारिविद्यार्थशब्दयोरर्थ उक्तः । यो ब्रह्मचारी विद्यार्थो भवति न तेन दिवसमात्रमपि परस्य समीपे वस्तव्यम्। आचार्यस्य समीप एव वस्तव्यमित्युक्तं भवति । विद्यार्थस्येति वचनात् नैष्ठिकस्य कदाचिदन्यत्र [^४]वासेऽपि न दोषः । यद्वा भोजननिवृत्तिरेवोपवासः । परलोकार्थ उपवासः परोपवासः स विद्यार्थस्य न भवति। नैष्ठिकस्य तु[^५] दोषः। अत्र पक्षे [^६] आहिताग्निरनड्वानि'ति विद्यार्थब्रह्मचारिविषयम् ॥१७॥  
+
+[^४]: वासो न दोषः इति क. पु.
+
+[^५]: न दोषः इति ख० पु.
+
+[^६]: आप० ध० २, ९. १३
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/18_atha_brahmacharyavidhiH.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+अथ ब्रह्मचर्यविधिः १८
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/18_atha_brahmacharyavidhiH.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+18. Now (follow) the rules for the studentship.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+अथ ब्रह्मचर्यविधिः ॥ १८ ॥  
+
+**टीका**  
+ब्रह्म वेदस्तदर्थं यद्व्रत चरितव्यं तद्ब्रह्मचर्यं तदधिक्रियते ॥ १८ ॥
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/19_AchAryAdhInaH_syAdanyatra_patanIyebhyaH.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+आचार्याधीनः स्यादन्यत्र पतनीयेभ्यः १९
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/19_AchAryAdhInaH_syAdanyatra_patanIyebhyaH.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+19. He shall obey his teacher, except (when ordered to commit) crimes which cause loss of caste. [^7] 
+
+[^7]:  Regarding the crimes which cause loss of caste (patanīya), see below, I, 7, 21, 7.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+आचार्याधीनस्स्यादन्यत्र पतनीयेभ्यः ॥ १९ ॥  
+
+**टीका**  
+"आचार्याधीनो भवे"त्युपनयनान्ते यत् संशासनं तत्सिद्धैवाचार्याधीनताऽनूद्यते 'अन्यत्र पतनीयेभ्य' इति विशेषं वक्ष्यामीति।[^१]पतनीय इति करणे कृत्प्रत्ययः । [^२]अमुमरातिं ब्राह्मणमित्थं व्यापादयेत्याचार्येण चोदितोऽप्येवमादि न कुर्यादिति ॥ १९ ॥  
+
+[^१]: करणे प्रत्ययः इति क. पु.  
+
+[^२]: अस्मदरातिं इति ख० पु.
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/20_hitakArI_gurorapratilomayanvAchA.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+हितकारी गुरोरप्रतिलोमयन्वाचा २०
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/20_hitakArI_gurorapratilomayanvAchA.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+20. He shall do what is serviceable to his teacher, he shall not contradict him. [^8] 
+
+[^8]:  Manu II, 108, and Yājñ. I, 27.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+हितकारी गुरोरप्रतिलोमयन्वाचा ॥ २० ॥
+
+**टीका**  
+आचार्येण प्रयुक्तोऽप्यप्रयुक्तोऽपि तस्मै हितमेव कुर्यात्, वाचा [^३]प्रातिलोम्यमकुर्वन् ॥ २० ॥  
+
+[^३]: प्रातिकूल्य इति ख. पु.
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/21_adhAsanashAyI.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+अधासनशायी २१
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/21_adhAsanashAyI.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+21. He shall always occupy a couch or seat lower (than that of his teacher). [^9] 
+
+[^9]:  Manu II, 108, 198; Weber, Ind. Stud. X, 123 and 124.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+अधासनशायी ॥ २१ ॥
+
+**टीका**  
+शयनं शायः । [^४] 'कृत्यल्युटो बहुल'मिति बहुलवचनात् घञ् । अधः आसनशायो यस्य सः अधासनशायी । गुरुसन्निधावध आसीत अधश्शयीतेत्युक्तं भवति । अधश्शदस्य सवर्णदीर्घश्छान्दसः, अपपाठो वा। तृणेषु प्रस्तरेषु चासनशयने शिष्टाचारसिद्धे ॥ २१ ॥  
+
+[^४]: पा० सू० ३. ३. ११३
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/22_nAnudeshyam_bhunjIta.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+नानुदेश्यं भुञ्जीत २२
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/22_nAnudeshyam_bhunjIta.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+22. He shall not eat food offered (at a sacrifice to the gods or the Manes),
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+नानुदेश्यं भुञ्जीत ।। २२॥  
+
+**टीका**  
+अनुदेश्यं श्राद्धार्थं देवतार्थं वा उद्दिष्टं न भुञ्जीत ॥ २२ ॥
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/23_tathA_xAralavaNamadhumAMsAni.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+तथा क्षार-लवण-मधु-मांसानि +++(गृह्यसूत्र उपनयनप्रकरणे क्षार-लवणयोर् त्र्यहं [नियमनात्](/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/karmANi/upanayanam) मध्वादेरेव त्र्यहादूर्ध्वं नित्यो निषेधः। )+++ २३
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/23_tathA_xAralavaNamadhumAMsAni.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+23. Nor pungent condiments, salt, honey, or meat. [^10] 
+
+[^10]:  Regarding the meaning of kṣāra, 'pungent condiments,' see Haradatta on II, 6, 15, 15. Other commentators explain the term differently.--Manu II, 177; Yājñ. I, 33; and Weber, Ind. Stud. X, 123. Āśv. Gṛ. Sū. I, 22, 2.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+तथा क्षारलवणमधुमांसानि ॥ २३ ॥
+
+**टीका**  
+न भुञ्जीतेत्येव । [^५]क्षारादीनि गृह्ये गतानि ॥ २३ ॥  
+
+[^५]:
+
+    क्षारपदार्थः आप.ध. २ १५. ११ सूत्रे व्याख्यास्यते।
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/24_adivAsvApI.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+अदिवास्वापी २४
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/24_adivAsvApI.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+24. He shall not sleep in the day-time.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+अदिवास्वापी ॥ २४ ॥
+
+**टीका**  
+न दिवा स्वप्यात् ॥ २४ ॥
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/25_agandhasevI.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+अगन्धसेवी २५
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/25_agandhasevI.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+25. He shall not use perfumes. [^11] 
+
+[^11]:  Manu II, 177; Yājñ. I, 33.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+अगन्धसेवी ॥ २५ ॥
+
+**टीका**  
+चन्दनादीनि गन्धद्रव्याणि न सेवेत ॥ २५ ॥
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/26_maithunan_na_charet.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+मैथुनं न चरेत् २६
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/26_maithunan_na_charet.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+26. He shall preserve chastity. [^12] 
+
+[^12]:  Manu II, 180.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+मैथुनं न चरेत् ॥ २६ ॥
+
+**टीका**  
+उपचारक्रिया केली स्पर्शो [^६]भूषणवाससाम् ।  
+एकशय्यासनं क्रीडा चुम्बनालिङ्गने तथा ॥   इत्यादेस्सर्वस्योपलक्षणं मैथुनग्रहणम् ॥ २६ ॥  
+
+[^६]:
+
+    भूषणवाससी. इति, क. पु.
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/27_utsannashlAghaH.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+उत्सन्न-श्लाघः २७
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/27_utsannashlAghaH.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+27. He shall not embellish himself (by using ointments and the like). [^13] 
+
+[^13]:  Manu II, 178; Yājñ. I, 33.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+उत्सन्नश्लाघः॥२७॥
+
+**टीका**  
+श्लाघा शोभा सा उत्सन्ना यस्य स उत्सन्नश्लाघः । एवंभूतो भवेत् । [^१]स्रक्षणादिना मुखादिकं उज्वलं न कुर्यात् इति ॥ २७ ॥  
+
+[^१]: मृत्कल्कादिना इति क.पु.
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/28_angAni_na_praxAlayIta.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+अङ्गानि न प्रक्षालयीत २८
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/28_angAni_na_praxAlayIta.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+28. He shall not wash his body (with hot water for pleasure).
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+अङ्गानि न प्रक्षालयीत ॥ २८ ॥  
+
+**टीका**  
+[^२]विना शिरसा सुखार्थमुष्णोदकादिना शरीरं न प्रक्षालयेत् ॥२८॥  
+
+[^२]:
+
+    स्नानसमये आमलकादिभिन क्षालयेत । इति क० पु.
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/29_praxAlayIta_tvashuchiliptAni_guror.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+प्रक्षालयीत त्वशुचिलिप्तानि गुरोर् असन्दर्शे २९
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/29_praxAlayIta_tvashuchiliptAni_guror.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+29. But, if it is soiled by unclean things, he shall clean it (with earth or water), in a place where he is not seen by a Guru. [^14] 
+
+[^14]:  'Here, in the section on the teacher, the word guru designates the father and the rest also.'--Haradatta.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+प्रक्षालयीत त्वशुचिलिप्तानि[^३] गुरोरसन्दर्शे ॥२९॥
+
+**टीका**  
+यानि तु मूत्रपुरीषाद्यशुचिलिप्तान्यङ्गानि तानि कामं[^४] मृदाद्भिः प्रक्षालयेत् यावद्गन्धो लेपश्चापैति । तदपि गुरोरसन्दर्शे[^५] यत्र स्थितं गुरुर्न पश्यति तत्र। आचार्यप्रकरणे गुरुग्रहणात् पित्रादीनामपि ग्रहणम् ॥ २९ ॥  
+
+[^३]: गुरोरसन्दर्शने इति क. पु.  
+
+[^४]: मृद्वारिभि. इति व. पु.  
+
+[^५]:
+
+    यत्र गुरुन पश्यति तत्र । इति ख. पु. 'यत्र लिप्तं गुरुः' इति ग, पु.
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/30_nApsu_shlAghamAnaH_snAyAd.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+नाप्सु श्लाघमानः स्नायाद् - यदि स्नायाद् दण्डवत् ३०
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/30_nApsu_shlAghamAnaH_snAyAd.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+30. Let him not sport in the water whilst bathing; let him swim (motionless) like a stick. [^15] 
+
+[^15]:  Another version of the first portion of this Sūtra, proposed by Haradatta, is, 'Let him not, whilst bathing, clean himself (with bathing powder or the like).' Another commentator takes Sūtra 28 as a prohibition of the daily bath or washing generally ordained for Brāhmaṇas, and refers Sūtra 29. to the naimittika snāna or 'bathing on certain occasions,' and takes Sūtra 30 as a restriction of the latter.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+[^६] नाप्सु श्लाघमानः स्नायाद्यदि
+स्नायाद्दण्डवत्प्लवेत् ॥ ३० ॥  
+
+**टीका**  
+स्नाने प्राप्त न श्लाघमानः स्नायात् । किं तु दण्डवत्प्लवेदित्युक्तम् । स्नानीयैर्मलापकर्षणं श्लाघा; क्रीडा वा जले । अपरं आह-'अङ्गानि न प्रक्षालयीते'(सू.२८)त्यासमावर्तनान्नित्यस्नानस्य प्रतिषेधः । 'प्रक्षालयीत त्वशुचिलिप्तानी'(सू.२९)ति नैमित्तिकस्य विधिः। 'नाप्सु श्लाघमानः स्नाया'(सू. ३०)दिति तत्रैव श्लाघाप्रतिषेध इति ॥३०॥  
+
+[^६]:  
+
+    नाप्सु श्लाघमानस्स्नायादित्येतावदेव ख. पु. सूत्रम् ।
+    > “अधाद्भिश्श्लाघमानो न स्नायात् तेन ता श्लाघामवरुन्धे" (गो. ब्रा. पू. १२.) इति गोपथब्राह्मणम् ॥
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/31_jaTilaH.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+जटिलः ३१
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/31_jaTilaH.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+31. He shall wear all his hair tied in one braid. [^16] 
+
+[^16]:  Manu II, 2 19.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+जटिलः ॥ ३१॥  
+
+**टीका**  
+सर्वानेव केशान् जटां कृत्वा बिभृयात् ॥ ३१ ॥
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/32_shikhAjaTo_vA_vApayed.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+शिखाजटो वा वापयेद् इतरान् ३२
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/32_shikhAjaTo_vA_vApayed.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+32. Or let him make a braid of the lock on the crown of the head, and shave the rest of the hair.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+शिखाजटो वा वापयेदितरान् ॥ ३२ ॥  
+
+**टीका**  
+अथवा शिखामेव जटां कृत्वा इतरान्केशान् वापयेत् नापितेन ॥ ३२ ॥
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/33_maunjI_mekhalA_trivRd.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+- मौञ्जी मेखला त्रिवृद् ब्राह्मणस्य, शक्तिविषये दक्षिणावृत्तानाम् ३३
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/33_maunjI_mekhalA_trivRd.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+33. The girdle of a Brāhmaṇa shall be made of Muñja grass, and consist of three strings; if possible, (the strings) should be twisted to the right. [^17] 
+
+[^17]:  Manu II, 42-44; Yājñ. I, 29; Āśv. Gṛ. Sū. I, 19, 12; Weber, Ind. Stud. X, 23.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+मौञ्जी मेखला त्रिवृद्ब्राह्मणस्य शक्तिविषये
+दक्षिणावृत्तानाम् ॥ ३३ ॥  
+
+**टीका**  
+मुञ्जानां विकारो मौली । त्रिवृत् त्रिगुणा । एवम्भूता ब्राह्मणस्य मेखला भवति । सा च शक्तिविषये शक्तौ सत्यां दक्षिणावृत्तानां प्रदक्षिणावृत्तानां कर्तव्या । तद्धितार्थे गुणभूतानामपि मुञ्जानामेवैतद्विशेषणम् ॥ ३३ ॥
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/34_jyA_rAjanyasya.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+ज्या राजन्यस्य ३४   
+
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/34_jyA_rAjanyasya.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+34. A bowstring (should be the girdle) of a Kṣatriya,
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+ज्या राजन्यस्य ॥ ३४॥
+
+**टीका**  
+स्पष्टम् ॥३४॥
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/35_maunjI_vAyomishrA.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+मौञ्जी वायोमिश्रा ३५
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/35_maunjI_vAyomishrA.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+35. Or a string of Muñja grass in which pieces of iron have been tied.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+मौञ्जी वाऽयोमिश्रा ॥ ३५ ॥
+
+**टीका**  
+अथवा अयोमिश्रा क्वचितु कालायसेन बद्धा मौञ्जी मेखला भवति राजन्यस्य ।। ३५॥
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/36_AvIsUtraM_vaishyasya.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+आवीसूत्रं वैश्यस्य ३६
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/36_AvIsUtraM_vaishyasya.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+36. A wool thread (shall be the girdle) of a Vaiśya,
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+आवीसूत्रं वैश्यस्य ॥ ३६ ॥
+
+**टीका**  
+अविरुर्णायुः कम्बलप्रकृतिः तत्सम्बन्धिनी ऊर्णा आवी तत्कृतं सूत्रं आवीसूत्रम् । सा मेखला वैश्यस्य भवति ॥ ६६ ॥
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/37_sairI_tAmalI_vetyeke.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+सैरी तामली वेत्येके ३७
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/37_sairI_tAmalI_vetyeke.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+37. Or a rope used for yoking the oxen to the plough, or a stringy made of Tamala-bark.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+सैरी तामली वेत्येके ॥ ३७ ॥
+
+**टीका**  
+सैरी सीरा बाहयोक्त्ररज्जुः। [^१]तामलो मूलोदसंज्ञको वृक्षः तस्य त्वचा ग्रथिता तामली ॥ ३७ ॥    
+
+[^१]:  
+
+    तमालादण् तमालसंज्ञो वृक्षः तस्य• इति घ पु.
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/38_pAlAsho_daNDo_brAhmaNasya.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+पालाशो दण्डो ब्राह्मणस्य,  
+नैय्यग्रोध-स्कन्धजो ऽवाङ्ग्रो राजन्यस्य,  
+बादर औदुम्बरो वा वैश्यस्य।  
++++(यज्ञियो)+++ वार्क्षो दण्ड इत्य् अवर्ण-संयोगेनैक उपदिशन्ति ३८
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/38_pAlAsho_daNDo_brAhmaNasya.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+38. The staff worn by a Brāhmaṇa should be made of Palāśa wood, that of a Kṣatriya of a branch of the Banian tree, which grows downwards, that of a Vaiśya of Bādara or Udumbara wood. Some declare, without any reference to caste, that the staff of a student should be made of the wood of a tree (that is fit to be used at the sacrifice). [^18] 
+
+[^18]:  Manu II, 45; Yājñ. I, 29; Āśv. Gṛ. Sū. I, 19, 13; 20, 1; Weber, Ind. Stud. X, 23.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+पालाशो दण्डो ब्राह्मणस्य नैयग्रोधस्कन्धजोऽवा[^२] ङग्रो राजन्यस्य बादर औदुम्बरो वा वैश्यस्य वाक्षों दण्ड इत्यवर्णसंयोगेनैक उपदिशन्ति ॥ ३८ ॥  
+
+**टीका**  
+पालाशो दण्ड इत्यादि गृह्य[^३]गतम् ॥ ३८ ॥  
+
+[^२]: अवाङ्ग्रः' इति क. पु  
+
+[^३]: आाप० गृ० ११. १५
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/39_vAsaH.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+- वासः ३९
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/39_vAsaH.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+39. (He shall wear) a cloth (to cover his nakedness). [^19] 
+
+[^19]:  The word forms a Sūtra by itself, in order to show that every one must wear this cloth.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+वासः ॥ ३९ ॥
+
+**टीका**  
+वस्यते कौपीनमाच्छाद्यते येन तद्वासः । तद्वक्ष्यते ॥ ३९ ॥
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/40_shANIxaumA-jinAni.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+शाणी+++(=hemp)+++-क्षौमा+++(=linen/ flax)+++ऽजिनानि  +++(ब्राह्मण-क्षत्रिय-वैश्यानाम्)+++४०
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/40_shANIxaumA-jinAni.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+40. (It shall be made) of hemp for a Brāhmaṇa, of flax (for a Kṣatriya), of the skin of a (clean) animal (for a Vaiśya). [^20] 
+
+[^20]:  Manu II, 41. 'Clean' means here and everywhere else, if applied to animals or things,' fit to be used at the sacrifice.'
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+शाणीक्षौमाजिनानि ।। ४०॥
+
+**टीका**  
+शणस्य विकारः शाणी पटी ।  
+क्षुमा अतसी तस्या विकारः क्षौमम्। श्वेत-पट्टाख्य-वासो-विशेष इत्यन्ये ।  
+अजिन यस्य कस्यचिन्मेध्यस्य पशोः।  
+त्रीण्येतानि वर्णानुपूर्व्येण वासांसि ॥ ४ ॥
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/41_kaShAya~n_chaike_vastram.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+कषायं+++(=red Lodh/ kaavi)+++ चैके +++(कार्पासं)+++ वस्त्रम् उपदिशन्ति ४१
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/01/02/41_kaShAya~n_chaike_vastram.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+41. Some declare that the (upper)+++(sic)+++ garment (of a Brāhmaṇa) should be dyed with red Lodh, [^21] 
+
+[^21]:  Āśv. Gṛ. Sū. I, 19, 11; Weber, Ind. Stud X, 22.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+काषायं चैके वस्त्रमुपदिशन्ति ॥ ४१ ॥
+
+**टीका**  
+**एके** आचार्या **वस्त्रं** त्व् अधो-धार्यम् उपदिशन्ति ।  
+**वस्त्रं** कार्पासम् । तच्च काषायं कषायेण रक्तम् । ब्राह्मणस्येत्यर्थाद्गम्यते । इतरयोर्वक्ष्यमाणत्वात् ॥ ४१ ॥  
+
+इत्यापस्तम्बधर्मसूत्रे प्रथमप्रश्ने द्वितीया कण्डिका ॥२॥
+</details>
+</details>
+
+</div>

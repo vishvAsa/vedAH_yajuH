@@ -1,0 +1,1071 @@
++++
+title = "१८ अभोज्यादि"
++++
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/01_madhvAmam_mArgam_mAMsam.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+मध्वामं मार्गं मांसं भूमिर् मूलफलानि रक्षा-गव्यूतिर्-निवेशनं युग्यघासश् चोग्रतः प्रतिगृह्याणि १
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/06/18/01_madhvAmam_mArgam_mAMsam.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+1. Honey, uncooked (grain), venison, land, roots, fruits, (a promise of) safety, a pasture for cattle, a house, and fodder for a draught-ox may be accepted (even) from an Ugra. [^1] 
+
+[^1]:  18. Manu IV, 247. 'Ugra denotes either a bad twice-born man. or the offspring of a Vaiśya and of a Śūdra-woman. Other persons of a similar character must be understood to be included by the term.'--Haradatta.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+मध्वामं मार्गं मांसं भूमिर् मूलफलानि रक्षा-गव्यूतिर्-निवेशनं युग्यघासश् चोग्रतः प्रतिगृह्याणि ॥ १ ॥
+
+**प्रस्तावः**  
+एवं तावन्निमित्तदुष्टं जातिदुष्टं कालदुष्टं चाऽभोज्यमुक्तम् । तत्र निमित्तदुष्टं यस्य कुले म्रियेते(पृ. ९२.)त्यादि । जातिदुष्टं कलञ्जादि । कालदुष्टं पर्युषितादि । इदानीं प्रतिग्रहाशुचीनि कानिचिदनुज्ञाय कानिचित् प्रतिषेधति—  
+
+**टीका**  
+मधु पक्वमपक्वं वा । आमं तण्डुलादि । मृगस्य विकारो मार्गं मांसम् । भूमिः शालेयादिक्षेत्रम् । विश्रमस्थानमित्यन्ये । मूलफलानि[^१] मूलकाम्रादीनि । रक्षा अभयदानम् । गव्यूतिर्गोमार्गः । निवेशनं गृहम् । युगं वहतीति युग्यो बलीवर्दः । तस्य घासो भक्ष्यं पलालादि। एतान्युग्रतोऽपि प्रतिगृह्याणि प्रतिग्राह्याणि अदुर्भिक्षेऽपि । उग्रपापकर्मा द्विजातिः, वैश्याद्वा शुद्रायां जातः । उग्रग्रहणं तादृशानामुपलक्षणम् ॥ १ ॥   
+
+[^१]: मूलकन्दादीनि इति क. पु.
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/02_etAnyapi_nAnantevAsyAhRtAnIti_hArItaH.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+एतान्यपि नानन्तेवास्याहृतानीति हारीतः २
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/06/18/02_etAnyapi_nAnantevAsyAhRtAnIti_hArItaH.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+2. Hārita declares, that even these (presents) are to be accepted only if they have been obtained by a pupil.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+एतान्यपि नाऽनन्तेवास्याहृतानीति हारीतः ॥ २ ॥  
+
+**टीका**  
+एतानि मध्वादीन्यपि अन्तेवास्याहृतान्येव प्रतिग्राह्याणि, न स्वयमुग्रत इति हारीत आचार्यो मन्यते ॥२॥
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/03_AmaM_vA_gRhNIran.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+आमं वा गृह्णीरन् ३
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/06/18/03_AmaM_vA_gRhNIran.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+3. Or they (Brāhmaṇa householders) may accept (from an Ugra) uncooked or (a little) unflavoured boiled food.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+आमं वा गृह्णीरन् ॥ ३ ॥  
+
+**टीका**  
+पूर्वोक्तेष्वामं स्वयमेव वा गृह्णीरन् द्विजा इति[^२] हारीतस्यैव पक्षः ॥ ३ ॥  
+
+[^२]:
+
+    हारीताचार्यस्य, इति छ. पु.
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/04_kRtAnnasya_vA_virasasya.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+कृतान्नस्य वा विरसस्य ४
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/06/18/04_kRtAnnasya_vA_virasasya.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+4. (Of such food) they shall not take a great quantity (but only so much as suffices to support life). [^2] 
+
+[^2]:  Also this rule seems to belong to Hārita, on account of its close connection with the preceding two.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+कृतान्नस्य वा विरसस्य ॥ ४ ॥  
+
+**टीका**  
+आमस्याऽलाभे कृतान्नस्याऽपि विरसस्य लवणादिरसासंयुक्तस्य । षष्ठी निर्देशात स्तोकम् । स्वयमन्तेवास्याहृतं वा गृह्णीरन् ॥ ४ ॥
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/05_na_subhixAH_syuH.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+न सुभिक्षाः स्युः ५
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/06/18/05_na_subhixAH_syuH.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+5. If (in times of distress) he is unable to keep himself, he may eat (food obtained from anybody),
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+न सुभिक्षाः स्युः ॥ ५ ॥  
+
+**टीका**  
+अनन्तरोक्तविधानद्वये यद्गृहीतमन्नं तेन सुभिक्षाः सुहिता न भवेयुरेव । यावता प्राणयात्रा भवति तावदेव गृह्णीरन् , न यावता सौहित्यं तावदिति ॥५॥
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/06_svayamapyavRttau_suvarNan_dattvA.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+स्वयमप्यवृत्तौ सुवर्णं दत्त्वा पशुं वा भुञ्जीत ६
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/06/18/06_svayamapyavRttau_suvarNan_dattvA.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+6. After having touched it (once) with gold,
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+स्वयमप्यवृत्तौ सुवर्णं दत्वा पशुं वा भुञ्जीत ॥ ६ ॥  
+
+**टीका**  
+यदि तु दुर्भिक्षतया आत्मनोऽपि वृत्तिर्न लभ्यते प्रागेव पोष्यवर्गस्य, तदा स्वयमप्यवृत्तौ यत्रैव लभ्यते तत्रैव कृतान्नमपि भुञ्जीत । तत्र गुणविधिः- सुवर्णं दत्वा सकृदेवोपक्लृप्तमुपरिष्टात्सुवर्णेन स्पृष्ट्वा । एतेन पशुं वा दत्वेत्यपि व्याख्यातम् । 'पशुरग्निः, [^१]अग्निः पशुरासीदिति मन्त्रलिङ्गात्[^२] गोसूक्तेनाऽग्नेरुपस्थानदर्शनाच्च ॥ ६ ॥  
+
+[^१]: तै० सं० ५. ७. २६.  
+
+[^२]: ऋ० सं० ६. २८. १
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/07_nAtyantamanvavasyet.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+नात्यन्तमन्ववस्येत् ७
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/06/18/07_nAtyantamanvavasyet.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+7. Or (having touched it with) fire.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+नाऽत्यन्तमन्ववस्येत् ॥ ७ ॥  
+
+**टीका**  
+न पुनरत्यन्तमन्ववसीदेत् ॥ ७ ॥
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/08_vRttim_prApya_viramet.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+वृत्तिं प्राप्य विरमेत् ८
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/06/18/08_vRttim_prApya_viramet.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+8. He shall not be too eager after (such a way of living). He shall leave it when he has obtained a (lawful) livelihood. [^3] 
+
+[^3]:  Haradatta quotes, in support of the last Sūtras, a passage of the Chāndogya Upaniṣad, I, 10, 1, and one from the .Ṛj-veda, IV, 18, 13, according to which it would be lawful to eat even impure food, as a dog's entrails, under such circumstances. Other commentators explain this and the preceding three Sūtras differently. According to them the translation would run thus: 'If he himself does not find any livelihood (in times of distress, he may dwell even with low-caste people who give him something to eat, and) he may eat (food given by them) paying for it with (some small gift in) gold or with animals.' This second explanation is perhaps preferable.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+वृत्तिं प्राप्य विरमेत् ॥ ८ ॥  
+
+**टीका**  
+यदा विहिता वृत्तिलभ्यते तदा निषिद्धाया विरमेत् । न पुनस्"सकृत्प्रवृत्ताया किमवकुण्ठनेने"ति न्यायेन तत्रैव रमेत । अत्र छान्दोग्योपनिषत्-[^३]'मटचीहतेषु कुरुष्वाटिक्या सह जाययोषस्तिर्ह चाक्रायण इभ्यग्रामे प्रद्राणक उवास। स हेभ्यं कुल्माषान् खादन्तं बिभिक्षे' इत्यादि । मन्त्रवर्णश्च भवति[^४] 'अवर्त्त्या शुन अन्त्राणि पेच' इति । अवर्त्त्या वृत्यभावेन । अपर आह- दुर्भिक्षे स्वयमप्यवृत्तौ आ तन्निवृत्तेर्यत्र कुत्रचिन्नीचेऽपि दातरि भुञ्जानो वसेत् यां च यावतीं च स्वर्णमात्रा वा कञ्चन पशुं वा तस्मै दत्वा । न पुनरत्यन्तमन्ववस्येत् वृत्तिं प्राप्य विरमेदिति ॥ ८॥  
+
+[^३]:
+
+    छा० उ० १. १०. “मटचीहतेषु मटच्यः अशनयः ताभिर्हतेषु नाशितेषु कुरुषु सस्येष्वित्यर्थः । ततो दुर्भिक्षे जाते आटिक्या अनुपजातपयोधरादिस्त्रिव्यञ्जनया जायया उपस्तिर्ह नामतः चक्रस्यापत्यं चाक्रायणः इभः हस्ती तमर्हतीतीभ्यः ईश्वरः' हस्त्यारोहो वा । तस्य ग्रामः इभ्यग्रामः तस्मिन् प्रद्राणकः अन्नालाभात् । द्रा कुत्सायां गतौ। कुत्सिता गतिं गतः । अन्त्यावस्थां प्राप्त इत्यर्थः । उवास उषितवान् कस्यचिद्गृहमाश्रित्य। सोऽन्नार्थमटन्निभ्यं कुल्माषान् कुत्सितान्माषान् खादन्तं भक्षयन्तं यदृच्छयोपलभ्य विभिक्षे" इति शाङ्करभाष्यम्।  
+
+[^४]: ऋ०सं० ४. १८, १३.
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/09_trayANAM_varNAnA~N_xatriyaprabhRtInAM.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+त्रयाणां वर्णानां क्षत्रियप्रभृतीनां समावृत्तेन न भोक्तव्यम् ९
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/06/18/09_trayANAM_varNAnA~N_xatriyaprabhRtInAM.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+9. (A student of the Brahmanic caste) who has returned home shall not eat (in the house) of people belonging to the three tribes, beginning with the Kṣatriya (i. e. of Kṣatriyas, Vaiśyas, and Śūdras). [^4] 
+
+[^4]:  Manu IV, 219, and 223.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+त्रयाणां वर्णानां क्षत्रियप्रभृतीनां समावृत्तेन न भोक्तव्यम् ॥ ९ ॥  
+
+**प्रस्तावः**  
+एवमापदि वृत्तिमुक्त्वा सुभिक्षेऽनापदि वृत्तिमाह—  
+
+**टीका**  
+समावृत्तो द्विजातिः क्षत्रियादीनां त्रयाणां वर्णानां गृहे न भुञ्जीत ॥९॥
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/10_prakatyA_brAhmaNasya_bhoktavya~N.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+प्रकत्या ब्राह्मणस्य भोक्तव्यं कारणादभोज्यम् १०
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/06/18/10_prakatyA_brAhmaNasya_bhoktavya~N.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+10. He may (usually) eat (the food) of a Brāhmaṇa on account of (the giver's) character (as a Brāhmaṇa). It must be avoided for particular reasons only.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+प्रकृत्या ब्राह्मणस्य भोक्तव्यमकारणादभोज्यम् ॥१०॥
+
+**टीका**  
+ब्राह्मणस्यान्नं प्रकृत्या स्वभावेनैव भोक्तव्यम् । कारणादेव स्वभोज्यम् ॥१०॥
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/11_yatrAprAyashchitta~N_karmAsevate_prAyashchittavati.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+यत्राप्रायश्चित्तं कर्मासेवते प्रायश्चित्तवति ११
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/06/18/11_yatrAprAyashchitta~N_karmAsevate_prAyashchittavati.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+11. He shall not eat in a house where (the host) performs a rite which is not a rite of penance, whilst he ought to perform a penance. [^5] 
+
+[^5]:  If a Brāhmaṇa who has been ordered to perform a penance, performs a Vaiśvadeva or other rite without heeding the order of his spiritual teacher, then a student who has returned home ought not to eat in his house, until the enjoined penance has been performed.'--Haradatta.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+यत्राऽप्रायश्चित्तं कर्माऽऽसेवते प्रायश्चित्तवति ॥ ११ ॥
+
+**प्रस्तावः**  
+कारणमाह —  
+
+**टीका**  
+[^१] यत्र यदा वैश्वदेवाग्निहोत्रादीनि नित्यमाभ्युदयिकं वाऽप्रायश्चित्तं कर्माऽऽसेवते तात्पर्येण करोति प्रायश्चित्तवत्यात्मनि चोदितं प्रायश्चित्तं  [^२]प्राणायामोपवासविधिकृच्छ्रादि न करोति तदा एतस्मात् कारणात ब्राह्मणस्याऽन्नमभोज्यमिति ॥ ११ ॥  
+
+[^१]:
+
+    यत्र यदा अग्निहोत्रवैश्वदेवाद्यकरणे प्रायश्चितं मुक्त्वा तदनुरूपं, नित्यमाभ्युदयिकं वा कर्मासेवते तात्पर्येण करोति न प्रायश्चित्तवत्यात्मनि चोदिते प्रायश्चित्तं, तदैतस्मात्कारणादभोज्यमिति इति • क पु.  
+
+[^२]: प्राणायामपथिकृदादि इति. ख.पु.
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/12_charitanirveShasya_bhoktavyam.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+चरितनिर्वेषस्य भोक्तव्यम् १२
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/06/18/12_charitanirveShasya_bhoktavyam.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+12. But when the penance has been performed, he may eat (in that house). [^6] 
+
+[^6]:  'The use of the part. perf. pass. "performed" indicates that he must not eat there, whilst the penance is being performed.'--Haradatta.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+चरितनिर्वेषस्य भोक्तव्यम् ॥ १२ ॥  
+
+**टीका**  
+चरितो निर्वेषः प्रायश्चित्तं येन तस्याऽन्नं भोक्तव्यम् । तद्भोजने न दोषः । निष्ठया भूतकालस्याऽभिधानाच्चर्यमाणेऽपि निर्वेषे न भोक्तव्यम् । किं तर्हि ? चरिते ॥ १२ ॥
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/13_sarvavarNAnAM_svadharme_vartamAnAnAm.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+सर्ववर्णानां स्वधर्मे वर्तमानानां भोक्तव्यं, शूद्र-वर्जमित्येके १३
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/06/18/13_sarvavarNAnAM_svadharme_vartamAnAnAm.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+13. According to some (food offered by people) of any caste, who follow the laws prescribed for them, except that of Śūdras, may be eaten.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+सर्ववर्णानां स्वधर्मे वर्तमानानां भोक्तव्यं शुद्रवर्जमित्येके ॥ १३ ॥  
+
+**टीका**  
+शूद्रवर्जितानां स्वधर्मे वर्तमानानां त्रयाणां वर्णानामन्नं भोज्यम् । न ब्राह्मणस्यैवेत्येक मन्यन्ते ॥ १३ ॥
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/14_tasyApi_dharmopanatasya.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
++++(शूद्रस्य)+++ तस्यापि धर्मोपनतस्य +++(= धर्मार्थम् आश्रितस्य)+++ १४
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/06/18/14_tasyApi_dharmopanatasya.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+14. (In times of distress) even the food of a Śūdra, who lives under one's protection for the sake of spiritual merit, (may be eaten). [^7] 
+
+[^7]:  Yājñ. 1, 166.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
++++(शूद्रस्य)+++ तस्यापि धर्मोपनतस्य +++(= धर्मार्थम् आश्रितस्य)+++ ॥ १४॥  
+
+**टीका**  
+तस्याऽपि शूद्रस्याऽन्नं भोज्यम् , यद्यसो धर्मार्थमुपनतः आश्रितो भवति । धर्मग्रहणादर्थार्थमुपनतस्याऽभोज्यम् । आपत्कल्पश्चाऽयम् ॥ १४ ॥
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/15_suvarNan_datvA_pashuM.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+सुवर्णं दत्वा पशुं वा भुञ्जीत नात्यन्तमन्ववस्येद्वृत्तिं प्राप्य विरमेत् १५
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/06/18/15_suvarNan_datvA_pashuM.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+15. He may eat it, after having touched it (once) with gold or with fire. He shall not be too eager after (such a way of living). He shall leave it when he obtains a (lawful) livelihood. [^8] 
+
+[^8]:  Manu IV, 223
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+सुवर्णं दत्वा पशुं वा भुञ्जीत नाऽत्यन्तमन्ववस्येद्वृत्तिं प्राप्य विरमेत् ॥ १५ ॥  
+
+**टीका**  
+गतम् ॥ १५ ॥
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/16_sanghAnnamabhojyam.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+सङ्घान्नमभोज्यम् १६
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/06/18/16_sanghAnnamabhojyam.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+16. Food received from a multitude of givers must not be eaten, [^9] 
+
+[^9]:  Manu IV, 209.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+सङ्घान्नमभोज्यम् ॥ १६ ॥  
+
+**टीका**  
+सङ्घो गणः तस्य यत् स्वमन्नं न त्वेकस्य । तदभोज्यं यद्यपि ते सर्वे दद्युः ॥ १६ ॥
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/17_parikruShTa~n_cha.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+परिक्रुष्टं +++(=सर्वान् भोजनार्थम् आह्वान्ति ये)+++ च १७
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/06/18/17_parikruShTa~n_cha.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+17. Nor food offered by a general invitation (to all comers). [^10] 
+
+[^10]:  Manu IV, 209; Yājñ. I, 168.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+परिक्रुष्टं +++(=सर्वान् भोजनार्थम् आह्वान्ति ये)+++ च ॥ १७ ॥  
+
+**टीका**  
+'भोक्तुकामा आगच्छत' इत्येवं परिक्रुश्य सर्वत आहूय यद्दीयते तत्परिक्रुष्टं तदभोज्यम् ॥ १७ ॥
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/18_sarveShA~n_cha_shilpAjIvAnAm.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+सर्वेषां च शिल्पाजीवानाम् १८
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/06/18/18_sarveShA~n_cha_shilpAjIvAnAm.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+18. Food offered by an artisan must not be eaten, [^11] 
+
+[^11]:  Manu IV, 2 10, 215; Yājñ. I, 162-164.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+सर्वेषां च शिल्पाजीवानाम् ॥ १८ ॥  
+
+**टीका**  
+चित्रनिर्माणादिकं शिल्प ये आजीवन्ति[^१] तेषां सर्वेषामपि ब्राह्मणादीनामन्नमभोज्यम् ॥ १८ ॥  
+
+[^१]:
+
+    आजीवन्ति इत्यन्ततरं 'आजीवन्ति तेन ये जीवन्ति' इत्यधिकं क. पु.
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/19_ye_cha_shastramAjIvanti.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+ये च शस्त्रमाजीवन्ति १९
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/06/18/19_ye_cha_shastramAjIvanti.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+19. Nor (that of men) who live by the use of arms (with the exception of Kṣatriyas), [^12] 
+
+[^12]:  Yājñ. I, 164.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+ये च शस्त्रमाजीवन्ति ॥ १९ ॥  
+
+**टीका**  
+ये च शस्त्रेण जीवन्ति तेषामप्यन्नमभोज्यम् । क्षत्रियवर्जम,[^२]तस्य विहितत्वात् ॥ १९ ॥  
+
+[^२]:
+
+    तस्य विहितत्वात् , इति नास्ति क. पु.
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/20_ye_chAdhim.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+ये चाधिम् +++(भाटकग्राहकाः)+++ २०
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/06/18/20_ye_chAdhim.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+20. Nor (that of men) who live by letting lodgings or land.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+ये चाऽऽधिम् ॥२०॥  
+
+**टीका**  
+आजीवन्तीत्यपेक्षते । स्वगृहे परान् वासयित्वा तेभ्यो भृतिग्रहणमाधिः, यः स्तोम इति प्रसिद्धः ॥  
+परभूमौ कुटिं कृत्वा स्तोमं दत्वा वसेत्तु यः'। इति ।  
+तं चाऽऽधिं ये आजीवन्ति तेषामप्यन्नमभोज्यम् । ये तु प्रसिद्धमाधिमाजीवन्ति तेषां वार्धुषिकत्वादेव[^३] सिद्धो निषेधः ॥ २० ॥  
+
+[^३]:
+
+    अभोज्यान्नत्वं सिद्धम्, इति ख. ग.पु.
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/21_bhiShak.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+भिषक् २१
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/06/18/21_bhiShak.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+21. A (professional) physician is a person whose food must not be eaten, [^13] 
+
+[^13]:  Manu IV, 212; Yājñ. I, 162.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+भिषक् ॥ २१॥  
+
+**टीका**  
+अभोज्यान्न इति प्रकरणाद्गम्यते । भिषक् भैषज्यवृतिः। धर्मार्थं तु ये सर्पदष्टादींश्चिकित्सन्ति ते भोज्यान्ना एव ॥ २१ ॥
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/22_vArdhuShikaH.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+वार्धुषिकः +++(वृद्ध्युपजीविनः)+++ २२
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/06/18/22_vArdhuShikaH.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+22. (Also) a usurer, [^14] 
+
+[^14]:  Manu IV, 210; Yājñ. I, 161.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+वार्धुषिकः ॥ २२ ॥  
+
+**टीका**  
+वृद्ध्याजवी । सोऽप्यभोज्यानः ॥ २२ ॥
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/23_dIxito-krItarAjakaH.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+दीक्षितोऽक्रीतराजकः २३
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/06/18/23_dIxito-krItarAjakaH.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+23. (Also) a Brāhmaṇa who has performed the Dīkṣaṇīyeṣṭi (or initiatory ceremony of the Soma-sacrifice) before he has bought the king (Soma). [^15] 
+
+[^15]:  'That is to say, one who has begun, but not finished a Soma-sacrifice.'--Haradatta. Manu IV, 210, and Gopatha-brāhmaṇa III, 19.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+##### मन्त्र
+दीक्षितोऽक्रीतराजकः ॥ २३ ॥  
+
+**टीका**  
+दीक्षितो [^४] दीक्षणीयेष्टया संस्कृतः सोऽपि यावत् क्रीतराजको न भवति सोमक्रयं न करोति तावदभोज्यान्नः ॥ २३ ॥
+
+[^४]:
+
+    ज्योतिष्टोमे—'आग्नावैष्णवमेकादशकपालं निर्वपेत् दीक्षिष्यमाण', इत्यनेन दक्षिणीयेष्टिर्नाम काचिदिष्टिर्विहिता । सा च यजमानसंस्कारार्था, इति निर्णीतं पूर्वमीमांसायां पञ्चमाध्याये। तया संस्कृतो यजमानो यावत् यागार्थद्रव्यं सोमलतां न क्रीणाति तावत्पर्यन्तमित्यर्थः । प्रथमदिने 'अपराह्णे दीक्षयेत्' इति अपराह्वे दीक्षा विहिता । ततः पूर्व दीक्षणीयेष्टि । तत्समनन्तरदने सोमक्रयणं विहितम् । ततश्च प्रथमदिनेऽपराह्णादनन्तरं द्वितीयदिनमध्याह्नात् पूर्वं दीक्षितान्नं न भोक्तव्यमित्ति फलितम् । इदं चैकदीक्षा पक्षे । अनेकदीक्षापक्षे तु तदनुरोधेन दिनसंख्यावृद्धिः प्रत्येतव्या ॥
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/24_agnIShomIyasaMsthAyAmeva.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+अग्नीषोमीयसंस्थायामेव २४
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/06/18/24_agnIShomIyasaMsthAyAmeva.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+24. (The food given by a person who has performed the Dīkṣaṇīyeṣṭi may be eaten), when the victim sacred to Agni and Soma has been slain.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+अग्नीषोमीय संस्थायामेव ॥ २४ ॥  
+
+**टीका**  
+भोक्तव्यमिति वक्ष्यमाणमपेक्षते । अग्नीषोमीये पशौ संस्थिते समाप्त एव भोक्तव्यम् । न प्रागिति ॥ २४ ॥
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/25_hutAyAM_vA_vapAyAn.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+हुतायां वा वपायां दीक्षितस्य भोक्तव्यम् २५
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/06/18/25_hutAyAM_vA_vapAyAn.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+25. Or after that the omentum of the victim (sacred to Agni and Soma) has been offered. [^16] 
+
+[^16]:  Aitareya-brāhmaṇa II, 1, 9.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+हुतायां वपायां दीक्षितस्य भोक्तव्यम् ॥ २५ ॥  
+
+**प्रस्तावः**  
+पक्षान्तरमाह—
+
+**टीका**  
+अग्नीषोमीयस्य वपायां हुतायां वा दीक्षितस्यान्नं भोक्तव्यम् । तथा च बह्वृचब्राह्मणम्-'अशितव्यं वपायां हुतायाम्' इति ॥ २५ ॥
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/26_yajnArthe_vA_nirdiShTe.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+यज्ञार्थे वा निर्दिष्टे शेषाद्भुञ्जीरन्न् इति हि ब्राह्मणम् २६
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/06/18/26_yajnArthe_vA_nirdiShTe.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+26. For a Brāhmaṇa declares, 'Or they may eat of the remainder of the animal, after having set apart a portion for the offering.'
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+[^१]यज्ञार्थं वा निर्दिष्टे शेषाद्भुञ्जीरन्निति हि ब्राह्मणम् ॥ १६ ॥
+
+**प्रस्तावः**  
+पक्षान्तरमाह —
+
+**टीका**  
+इदं यज्ञार्थमिति व्यादेशे कृते शेषाद्भुञ्जीरन्निति ब्राह्मणं भवति । ब्राह्मणग्रहणं प्रीत्युपलब्धितः प्रवृत्तेरपस्मृतिता मा भूदिति प्रत्यक्षमेवाऽत्र ब्राह्मणमिति ॥ २६ ॥  
+
+[^१]:
+
+    Cf. आप० श्रौ० १० १५ १६.
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/27_klIbaH.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+क्लीबः २७
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/06/18/27_klIbaH.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+27. A eunuch (is a person whose food must not be eaten), [^17] 
+
+[^17]:  Manu I V, 211; Yājñ. I, 161.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+क्लीबः ॥ २७ ॥  
+
+**टीका**  
+पण्डकः । सोऽप्यभोज्यान्नः ॥२७॥
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/28_rAjnAm_praiShakaraH.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+राज्ञां प्रैषकरः २८
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/06/18/28_rAjnAm_praiShakaraH.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+28. (Likewise) the (professional) messenger employed by a king (or others), [^18] 
+
+[^18]:  The village or town messengers are always men of the lowest castes, such as the Mahārs of Mahārāṣṭhra.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+राज्ञां प्रैषकरः ॥२८॥  
+
+**टीका**  
+राज्ञामिति बहुवचनात् ग्रामादेर्यः प्रैषकरः तस्याऽपि प्रतिषेधः ॥ २८ ॥
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/29_ahaviryAjI.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+अहविर्याजी २९
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/06/18/29_ahaviryAjI.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+29. (Likewise a Brāhmaṇa) who offers substances that are not fit for a sacrifice, [^19] 
+
+[^19]:  'For example, he who offers human blood in a magic rite.'--Haradatta.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+अहविर्याजी ॥ २९ ॥  
+
+**टीका**  
+यश्चाऽहविषा नररुधिरादिना यजतेऽभिचारादौ यथा 'यमभिचरेत्तस्य लोहितमवदानं कृत्वे'ति सोऽप्यभाज्यान्नः ॥ २९ ॥
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/30_chArI.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+चारी ३०
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/06/18/30_chArI.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+30. (Likewise) a spy, [^20] 
+
+[^20]:  Haradatta explains cārī, translated by 'spy,' to mean 'a p. 69 secret adherent of the Śākta sect' (gūḍhacārī, śāktaḥ). The existence of this sect in early times has not hitherto been proved.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+चारी ॥ ३०॥  
+
+**टीका**  
+चारो गूढचरः स्पशः । सोऽप्यभोज्यानः ॥ ३० ॥
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/31_avidhinA_cha_pravrajitaH.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+अविधिना च प्रव्रजितः ३१
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/06/18/31_avidhinA_cha_pravrajitaH.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+31. (Also) a person who has become an ascetic without (being authorized thereto by) the rules (of the law), [^21] 
+
+[^21]:  Haradatta gives the Śākyas or Bauddhas as an instance. But it is doubtful, whether Āpastamba meant to refer to them, though it seems probable that heretics are intended.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+अविधिना च प्रव्रजितः ॥ ३१ ॥  
+
+**टीका**  
+यश्चाऽविधिना प्रव्रजितः शाक्यादिस्सोऽप्यभोज्यान्नः ॥ ३१ ॥
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/32_yashchAgnInapAsyati.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+यश्चाग्नीनपास्यति ३२
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/06/18/32_yashchAgnInapAsyati.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+32. (Also) he who forsakes the sacred fires without performing the sacrifice necessary on that occasion), [^22] 
+
+[^22]:  Yājñ. I, 160.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+यश्चाऽग्नीनपास्यति ॥ ३२ ॥  
+
+**टीका**  
+[^१](योऽनापद्यग्निं त्यक्त्वा प्रायश्चित्तं न करोति सोऽप्यभोज्यान्नः । अपि च) अविधिनेत्येव । यश्चाऽविधिना उत्सर्गेष्टया विनाऽनग्नीनपास्यति सोऽप्यभोज्यान्नः ॥ ३२ ॥  
+
+[^१]:
+
+    कुण्डलान्तर्गतोऽधिकः क पु.
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="0" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/06/18/33_yashcha_sarvAnvarjayate_sarvAnnI.md">
+
+<details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
+
+यश्च सर्वान्वर्जयते, सर्वान्नी च श्रोत्रियो +++(ऽपि)+++, निराकृतिर् +++(=अस्वाध्यायः)+++ वृषलीपतिः ३३
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarvASh_TIkAH/1/06/18/33_yashcha_sarvAnvarjayate_sarvAnnI.md">
+
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+33. Likewise a learned Brāhmaṇa who avoids everybody, or eats the food of anybody, or neglects the (daily) recitation of the Veda, (and) he whose (only living) wife is of the Śūdra caste. [^23] 
+
+[^23]:  'Who avoids everybody, i.e. who neither invites nor dines with anybody.'--Haradatta.
+</details>
+
+<details><summary>हरदत्त-टीका</summary>
+
+**सूत्रम्**  
+यश्च सर्वान्वर्जयते, सर्वान्नी च श्रोत्रियो +++(ऽपि)+++, निराकृतिर् +++(=अस्वाध्यायः)+++ वृषलीपतिः ॥ ३३ ॥  
+
+**टीका**  
+यश्च सर्वान् वर्जयते भोजने न क्वचिद्भुङ्क्ते न कश्चिद्भोजयति स सर्ववर्जी। यश्च सर्वान्नी सर्वेषामन्नं भुङ्क्ते तावुभावप्यभोज्यान्नौ । श्रोत्रिय इत्युभयोश्शेषः । श्रोत्रियोऽपि सन्नभोज्यान्न एवेति । निराकृतिः निःस्वाध्यायः । निर्व्रत इत्यन्ये । सोऽप्यभोज्यान्न । बृषलीपतिः क्रमविवाहे यस्य वृषली पत्नी जीवति इतरा मृताः स वृषलीपतिः । स श्रोत्रियोऽप्यभोज्यान्न इति ॥ ३३ ॥  
+
+इत्यापस्तम्बधर्मसूत्रवृत्तावष्टादशी कण्डिका ॥ १८ ॥
+</details>
+</details>
+
+</div>

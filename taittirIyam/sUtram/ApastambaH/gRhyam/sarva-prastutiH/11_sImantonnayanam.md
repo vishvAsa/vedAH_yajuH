@@ -1,6 +1,5 @@
 +++
 title = "११ सीमन्तोन्नयनम्"
-
 +++
 
 
@@ -14,7 +13,6 @@ title = "११ सीमन्तोन्नयनम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/11_sImantonnayanam/14_01_sImantonnayanam_prathame.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 1. The Sīmantonnayana (or parting of the pregnant wife's hair, is performed) in her first pregnancy, in the fourth month.
@@ -49,17 +47,12 @@ title = "११ सीमन्तोन्नयनम्"
 **चतुर्थे मासि** चतुर्थे मासे ।
 अल्लोपश्छान्दसः, "छन्दोवत्सूत्राणि भवन्ति" इति स्मृतेः ॥१॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/11_sImantonnayanam/14_01_sImantonnayanam_prathame.md">
 
-<details><summary><h4></h4>></summary>
-
 सीमन्तोन्नयनं प्रथमे गर्भे चतुर्थे मासि ।
-
-</details>
 
 </div>
 
@@ -157,7 +150,6 @@ title = "११ सीमन्तोन्नयनम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/11_sImantonnayanam/14_02_brAhmaNAn_bhojayitvA-.ashiSho.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 2. (The husband) serves food to Brāhmaṇas and causes them to pronounce auspicious wishes; then, after (the ceremonies) from the putting (of wood) on the fire down to the Ājyabhāga oblations (have been performed), he offers the oblations (indicated in the) next (Mantras, M. II, 11, 1-8), while (the wife) takes hold of him, and enters upon the (performance) of the Jaya and following oblations.
@@ -178,17 +170,12 @@ title = "११ सीमन्तोन्नयनम्"
 **उत्तराः** "धाता ददातु नो रयिम्" इति चतस्रो "यस्त्वा हृदा कीरिणा" इति चतस्र इत्यष्टौ ।
 शेषं सुगमम् ॥२॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/11_sImantonnayanam/14_02_brAhmaNAn_bhojayitvA-.ashiSho.md">
 
-<details><summary><h4></h4>></summary>
-
 ब्राह्मणान् भोजयित्वाऽऽशिषो वाचयित्वाऽग्नेर् उपसमाधानाद्य्-आज्य-भागान्ते ऽन्वारब्धायाम् उत्तरा आहुतीर् हुत्वा जयादि प्रतिपद्यते ।
-
-</details>
 
 </div>
 
@@ -202,7 +189,6 @@ title = "११ सीमन्तोन्नयनम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/11_sImantonnayanam/14_03_pariShechanAnta~N_kRtvA.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 3. Having performed (the rites) down to the sprinkling (of water) round (the fire), he makes her sit down to the west of the fire, facing the east, and parts her hair upwards (i.e. beginning from the front) with a porcupine's quill that has three white spots, with three Darbha blades, and with a bunch of unripe Udumbara fruits, with the Vyāhṛtis or with the two next (verses, II, 11, 9. 10).
@@ -252,17 +238,12 @@ title = "११ सीमन्तोन्नयनम्"
 कैर्मन्त्रैः ? "भूर्भुवस्सुवः" "राकामहं सुहवाम्" "यास्ते राके सुमतयः" इत्येतैर्मन्त्रैः ।
 चकारो बहुमन्त्रज्ञापनार्थः ॥३॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/11_sImantonnayanam/14_03_pariShechanAnta~N_kRtvA.md">
 
-<details><summary><h4></h4>></summary>
-
 परिषेचनान्तं कृत्वा ऽपरेणाग्निं प्राचीम् उपवेश्य त्रेण्या शलल्या त्रिभिर् दर्भ-पुञ्जीलैश् शलालु-ग्लप्सेनेत्य् ऊर्ध्वं सीमन्तम् उन्नयति व्याहृतीभिर् उत्तराभ्यां च ।
-
-</details>
 
 </div>
 
@@ -276,7 +257,6 @@ title = "११ सीमन्तोन्नयनम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/11_sImantonnayanam/14_04_gAyatam_iti.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 4. He says to two lute-players, 'Sing!'
@@ -296,17 +276,12 @@ title = "११ सीमन्तोन्नयनम्"
 वीणया गाथां गायत इति **वीणागाथिनौ** ।
 तौ **गायतमिति संशास्ति** संप्रेष्यति ॥४॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/11_sImantonnayanam/14_04_gAyatam_iti.md">
 
-<details><summary><h4></h4>></summary>
-
 'गायतम्' इति वीणागाथिनौ सँशास्ति ॥
-
-</details>
 
 </div>
 
@@ -327,7 +302,6 @@ title = "११ सीमन्तोन्नयनम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/11_sImantonnayanam/14_05_uttarayoH_pUrvA.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 5. Of the next two (verses, II, 11, 11. 12) the first (is to be sung on this occasion) among the (people of the) Sālvas.
@@ -356,17 +330,12 @@ title = "११ सीमन्तोन्नयनम्"
 गायतमित्यविशेषेण संशासनविधानात् ।
 केचित्—साल्वानामपि ब्राह्मणानामितरेति ॥५॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/11_sImantonnayanam/14_05_uttarayoH_pUrvA.md">
 
-<details><summary><h4></h4>></summary>
-
 उत्तरयोः पूर्वा साल्वानां ब्राह्मणानामितरा ।
-
-</details>
 
 </div>
 
@@ -389,7 +358,6 @@ title = "११ सीमन्तोन्नयनम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/11_sImantonnayanam/14_06_nadInirdeshashcha_yasyAm.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 6. [^1]  The second (is to be used) for Brāhmaṇas; and the river near which they dwell is to be named.
@@ -414,17 +382,12 @@ title = "११ सीमन्तोन्नयनम्"
 कस्या नद्याः? इति चेत् **यस्यां वसन्ति"** समीपसप्तमी चेयम् ।
 यस्यास्समीपे वसन्ति तस्या निर्देश इत्यर्थः ॥६॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/11_sImantonnayanam/14_06_nadInirdeshashcha_yasyAm.md">
 
-<details><summary><h4></h4>></summary>
-
 नदीनिर्देशश्च यस्यां वसन्ति ।
-
-</details>
 
 </div>
 
@@ -439,7 +402,6 @@ title = "११ सीमन्तोन्नयनम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/11_sImantonnayanam/14_07_yavAn_virUDhAnAbadhya.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 7. [^2]  He ties barley-grains with young shoots (to the head of the wife); then she keeps silence until the stars appear.
@@ -460,17 +422,12 @@ title = "११ सीमन्तोन्नयनम्"
 अङ्कुरितान् सूत्र-ग्रथितान् **यवान्** वध्वाश् शिरस्याबध्नाति ।
 शिरसीति कुतः? आचारात् ॥७॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/11_sImantonnayanam/14_07_yavAn_virUDhAnAbadhya.md">
 
-<details><summary><h4></h4>></summary>
-
 यवान् विरूढानाबध्य वाचं यच्छत्यानक्षत्रेभ्यः ।
-
-</details>
 
 </div>
 
@@ -487,7 +444,6 @@ title = "११ सीमन्तोन्नयनम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/11_sImantonnayanam/14_08_uditeShu_naxatreShu.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 8. When the stars have appeared, he goes (with his wife) towards the east or north, touches a calf, and murmurs the Vyāhṛtis; then she breaks her silence.
@@ -506,16 +462,11 @@ title = "११ सीमन्तोन्नयनम्"
 तस्मिन् पक्षे वाग्-यमनादि-पदार्थ-पञ्चकम् उभौ जायापती कुरुतः ।
 केचित्– यवाबन्धनादि सर्वं वधूर् एव ; न पतिर् इति ॥८॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/11_sImantonnayanam/14_08_uditeShu_naxatreShu.md">
 
-<details><summary><h4></h4>></summary>
-
 उदितेषु नक्षत्रेषु प्राचीमुदीचीं वा दिशमुपनिष्क्रम्य वत्समन्वारभ्य व्याहृतीश्च जपित्वा वाचं विसृजेत् ।
-
-</details>
 
 </div>

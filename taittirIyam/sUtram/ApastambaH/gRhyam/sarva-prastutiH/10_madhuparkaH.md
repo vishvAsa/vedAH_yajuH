@@ -1,6 +1,5 @@
 +++
 title = "१० मधुपर्कः"
-
 +++
 
 
@@ -14,7 +13,6 @@ title = "१० मधुपर्कः"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/10_madhuparkaH/13_01_athaitadaparan_tUShNImeva.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 1. Now this (is) another (way for performing the Samāvartana). He bathes silently at a bathing-place and puts silently a piece of wood on (the fire).
@@ -54,17 +52,12 @@ title = "१० मधुपर्कः"
 प्रयोगस्तु—ब्रह्मचारिलिङ्गानि मेखलादीनि त्यक्त्वा तीर्थे तूष्णीं स्नात्वा, वासोऽन्तरपरिधानादि कृत्वा, श्रोत्रियागारादग्निमाहृत्य "यत्र क्व चाग्निम्" इति विधिनोपसमाधाय, तत्र प्रजापतिं मनसा ध्यायन् तूष्णीमेव समिधमादधाति ।
 केचित्–केशश्मश्रु वपनादिकमन्यदप्यविरोधि तूष्णीमेव करोतीति ॥१॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/10_madhuparkaH/13_01_athaitadaparan_tUShNImeva.md">
 
-<details><summary><h4></h4>></summary>
-
 अथैतदपरं तूष्णीमेव तीर्थे स्नात्वा तूष्णीं समिधमादधाति ।
-
-</details>
 
 </div>
 
@@ -78,7 +71,6 @@ title = "१० मधुपर्कः"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/10_madhuparkaH/13_02_yatrAsmA_apachitim.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 2. [^1]  He sits down on a bunch of grass, as stated above (comp. M. II, 9, 7), at a place where they are going to honour him (with the Argha reception).
@@ -105,17 +97,12 @@ title = "१० मधुपर्कः"
 तत् तत्र गृहे तैर्दत्ते कूर्च उपविशति ।
 **यथापुरस्तात्** उपनयने आचार्यः "राष्ट्रभृदसि" इति यजुषा उपविशति तथा उपविशेदित्यर्थः ॥२॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/10_madhuparkaH/13_02_yatrAsmA_apachitim.md">
 
-<details><summary><h4></h4>></summary>
-
 यत्रास्मा अपचितिं कुर्वन्ति तत्कूर्च उपविशति यथापुरस्तात्।
-
-</details>
 
 </div>
 
@@ -129,7 +116,6 @@ title = "१० मधुपर्कः"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/10_madhuparkaH/13_03_evamuttarAbhyAM_yathAlingam.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 3. A king and a chieftain (sit down) in the same way (as a Brāhmaṇa), with the next two (formulas, M. II, 9, 8. 9), according to the characteristics (contained in them).
@@ -163,17 +149,12 @@ title = "१० मधुपर्कः"
 अन्ये–वैश्यः स्थपतिरिति ।
 केचित्तु–क्षत्रिय एव राज्याभिषिक्त इति ॥३॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/10_madhuparkaH/13_03_evamuttarAbhyAM_yathAlingam.md">
 
-<details><summary><h4></h4>></summary>
-
 एवमुत्तराभ्यां यथालिङ्गं राजा स्थपतिश्च ।
-
-</details>
 
 </div>
 
@@ -187,7 +168,6 @@ title = "१० मधुपर्कः"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/10_madhuparkaH/13_04_ApaH_pAdyA.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 4. (The host) announces (to the guest), 'The water for washing the feet!'
@@ -204,17 +184,12 @@ title = "१० मधुपर्कः"
 एतच्च सम्वादवचनं अनन्तरं यत्कर्तव्यं तत्कुर्वित्येवमर्थम् ।
 एवमेव प्रयोजनं "अर्हणीया आपः" इत्यादिष्वपि ॥४॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/10_madhuparkaH/13_04_ApaH_pAdyA.md">
 
-<details><summary><h4></h4>></summary>
-
 आपः पाद्या इति प्राह ।
-
-</details>
 
 </div>
 
@@ -228,7 +203,6 @@ title = "१० मधुपर्कः"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/10_madhuparkaH/13_05_uttarayA-bhimantrya_daxiNam.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 5. [^2]  (The guest) should recite the next (verse, II, 9, 10) over (that water) and should stretch out the right foot first to a Brāhmaṇa, the left to a Śūdra.
@@ -256,17 +230,12 @@ title = "१० मधुपर्कः"
 अत्र ब्राह्मणशूद्रावेव प्रक्षालयितारौ, न तु राजन्यवैश्यौ; तयोरनभिधानात् ।
 अन्ये तु– क्षत्रियवैश्याभ्यां अनियमेन पूर्वं पादं प्रयच्छेदिति ॥५॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/10_madhuparkaH/13_05_uttarayA-bhimantrya_daxiNam.md">
 
-<details><summary><h4></h4>></summary>
-
 उत्तरयाऽभिमन्त्र्य दक्षिणं पादं पूर्वं ब्राह्मणाय प्रयच्छेत्सव्यँ शूद्राय।
-
-</details>
 
 </div>
 
@@ -280,7 +249,6 @@ title = "१० मधुपर्कः"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/10_madhuparkaH/13_06_praxAlayitAramupaspRshyottareNa.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 6. Having touched the person who washes him, he should touch himself (i.e. his own heart) with the next (formula, M. II, 9, II).
@@ -299,17 +267,12 @@ title = "१० मधुपर्कः"
 ततः प्रक्षालितपादस्तं प्रक्षालयितारं पाणावुपस्पृश्य "मयि महः" इति यजुषा आत्मानं हृदयदेशे प्रत्यभिमृशेत् प्रतिलोमेन पाणिना स्पृशेत् ।
 ततोऽपामुपस्पर्शनम् ॥६॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/10_madhuparkaH/13_06_praxAlayitAramupaspRshyottareNa.md">
 
-<details><summary><h4></h4>></summary>
-
 प्रक्षालयितारमुपस्पृश्योत्तरेण यजुषाऽऽत्मानं प्रत्यभिमृशेत् ।
-
-</details>
 
 </div>
 
@@ -323,7 +286,6 @@ title = "१० मधुपर्कः"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/10_madhuparkaH/13_07_kUrchAbhyAm_parigRhya.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 7. (The host, taking the Argha water) in an earthen vessel which he holds with two bunches of grass, announces (to the guest), 'The Argha water!'
@@ -339,17 +301,12 @@ title = "१० मधुपर्कः"
 
 अथार्हयिता मृन्मये पात्र अर्हणार्थाः पुष्पाक्षतसंयुक्ताः अप आनीय, कूर्चाभ्यामधस्तादुपरिष्टाच्च **परिगृह्य** "अर्हणीया आपः" इति प्राह ॥७॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/10_madhuparkaH/13_07_kUrchAbhyAm_parigRhya.md">
 
-<details><summary><h4></h4>></summary>
-
 कूर्चाभ्यां परिगृह्य मृन्मयेना'र्हणीया आप' इति प्राह ।
-
-</details>
 
 </div>
 
@@ -363,7 +320,6 @@ title = "१० मधुपर्कः"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/10_madhuparkaH/13_08_uttarayA-bhimantryAnjalAvekadesha.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 8. (The guest) should recite the next (formula, II, 9, 12) over (that water) and should murmur the next Yajus (II, 9, 13), while a part (of the water) is poured over his joined hands.
@@ -381,17 +337,12 @@ title = "१० मधुपर्कः"
 
 अथ पूज्यस्ता अपः "आमागन्" इत्येतया**ऽभिमन्त्र्य** तासामेकदेशे स्तोके स्वाञ्जलौ दात्रा **आनीयमाने** "विराजो दोहोऽसि" इति **यजुर्जपेत्** ॥८॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/10_madhuparkaH/13_08_uttarayA-bhimantryAnjalAvekadesha.md">
 
-<details><summary><h4></h4>></summary>
-
 उत्तरयाऽभिमन्त्र्याञ्जलावेकदेश आनीयमान उत्तरं यजुर्जपेत् ।
-
-</details>
 
 </div>
 
@@ -405,7 +356,6 @@ title = "१० मधुपर्कः"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/10_madhuparkaH/13_09_sheSham.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 9. Over the rest (of the water) which is poured out towards the east, he recites the next (verse, M. II, 9, 14).
@@ -426,17 +376,12 @@ title = "१० मधुपर्कः"
 केचित्— अस्मिन् काले भोजनान्ते वा पूज्याय वस्त्रकुण्डलयुगाद्यलङ्करणं दातव्यम् ; अन्यथाऽयं पूजित एव न भवति ।
 एतच्चापचितिशब्देनास्माकमपि चोदितमेवेति ॥९॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/10_madhuparkaH/13_09_sheSham.md">
 
-<details><summary><h4></h4>></summary>
-
 शेषं पुरस्तान्निनीयमानमुत्तरयाऽनुमन्त्रयते ।
-
-</details>
 
 </div>
 
@@ -450,7 +395,6 @@ title = "१० मधुपर्कः"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/10_madhuparkaH/13_10_dadhi_madhviti.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 10. (The host) pours together curds and honey in a brass vessel, covers it with a larger (brass cover), takes hold of it with two bunches of grass, and announces (to the guest), 'The honey-mixture!'
@@ -470,17 +414,12 @@ title = "१० मधुपर्कः"
 शेषं व्यक्तम् ।
 अन्ये तु अपिधानं कांस्यं प्रदर्शनार्थम्, तेनेतरदपि कांस्यमेवेति ॥१०॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/10_madhuparkaH/13_10_dadhi_madhviti.md">
 
-<details><summary><h4></h4>></summary>
-
 दधि मध्विति संसृज्य कांस्येन वर्षीयसा पिधाय कूर्चाभ्यां परिगृह्य "मधुपर्क" इति प्राह ।
-
-</details>
 
 </div>
 
@@ -494,7 +433,6 @@ title = "१० मधुपर्कः"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/10_madhuparkaH/13_11_trivRtameke_ghRtam.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 11. Some take three substances, (those stated before) and ghee.
@@ -511,17 +449,12 @@ title = "१० मधुपर्कः"
 त्रयाणां द्रव्याणां समाहारस्त्रिवृच्छब्देनोच्यते ।
 तस्मिन् पक्षे पूर्वोक्ते दधिमधुनी घृतं च संसर्जनीयानि ॥११॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/10_madhuparkaH/13_11_trivRtameke_ghRtam.md">
 
-<details><summary><h4></h4>></summary>
-
 त्रिवृतमेके घृतं च ।
-
-</details>
 
 </div>
 
@@ -535,7 +468,6 @@ title = "१० मधुपर्कः"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/10_madhuparkaH/13_12_pAnktameke_dhAnAssaktUMshcha.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 12. Some take five, (the three stated before), and grains, and flour.
@@ -552,17 +484,12 @@ title = "१० मधुपर्कः"
 इहापि पञ्चानां समुदायः पाङ्क्तः ।
 शेषं पूर्ववत् ॥१२॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/10_madhuparkaH/13_12_pAnktameke_dhAnAssaktUMshcha.md">
 
-<details><summary><h4></h4>></summary>
-
 पाङ्क्तमेके धानास्सक्तूंश्च।
-
-</details>
 
 </div>
 
@@ -576,7 +503,6 @@ title = "१० मधुपर्कः"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/10_madhuparkaH/13_13_uttarAbhyAmabhimantrya.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 13. The guest recites the next two (formulas, M. II, 10, 1. 2) over (the honey-mixture) and sips water with the two Yajus (II, 10, 3. 4) before (eating) and afterwards; with the next (verse, II, 10, 5) he should partake three times (of the food) and should give the remainder to a person towards whom he is kindly disposed.
@@ -622,17 +548,12 @@ title = "१० मधुपर्कः"
 अस्मादेव पृथगुपदेशात्तदर्थानामपामावेदनं चाक्षेप्यम् ।
 अतोऽस्माकं तेषां चोपदेशे वैषम्याभावात्तुल्ययोगक्षेममेवाचमनम् ॥१३॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/10_madhuparkaH/13_13_uttarAbhyAmabhimantrya.md">
 
-<details><summary><h4></h4>></summary>
-
 उत्तराभ्यामभिमन्त्र्य यजुर्भ्यामप आचामति पुरस्तादुपरिष्टाच्चोत्तरया त्रिः प्राश्यानुकम्प्याय प्रयच्छेत् ।
-
-</details>
 
 </div>
 
@@ -646,7 +567,6 @@ title = "१० मधुपर्कः"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/10_madhuparkaH/13_14_pratigRhyaiva_rAjA.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 14. A king or a chieftain should only accept it and (give it) to his Purohita.
@@ -665,17 +585,12 @@ title = "१० मधुपर्कः"
 अभिमन्त्रणादि तु प्रशनान्तं पुरोहितस्यैव ।
 पुनश्चोत्तरं कर्म राजादेरेव ॥१४॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/10_madhuparkaH/13_14_pratigRhyaiva_rAjA.md">
 
-<details><summary><h4></h4>></summary>
-
 प्रतिगृह्यैव राजा स्थपतिर्वा पुरोहिताय ।
-
-</details>
 
 </div>
 
@@ -689,7 +604,6 @@ title = "१० मधुपर्कः"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/10_madhuparkaH/13_15_gauriti_gAm.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 15. (The host) announces the cow with (the word), 'The cow!'
@@ -712,17 +626,12 @@ title = "१० मधुपर्कः"
 एतच्च कथनं, किमियं गौस्संज्ञप्यतामुत्सृज्यतां वा? इति पूज्याभिप्रायनिश्चयार्थम् ।
 स च स्वाभिप्रायं दातुर्ब्रूयात् ॥१५॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/10_madhuparkaH/13_15_gauriti_gAm.md">
 
-<details><summary><h4></h4>></summary>
-
 गौरिति गां प्राह ।
-
-</details>
 
 </div>
 
@@ -736,7 +645,6 @@ title = "१० मधुपर्कः"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/10_madhuparkaH/13_16_uttarayAbhimantrya_tasyai.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 16. After the guest has recited the next (formula, M. II, 10, 6) over (the cow, the host) cools its omentum, and having performed the 'spreading under' and the sprinkling over (of Ājya), he sacrifices it with the next (verse, M. II, 10, 7) with a Palāśa leaf from the middle or the end (of the stalk).
@@ -772,17 +680,12 @@ title = "१० मधुपर्कः"
 शिष्टैश्चावदानैस्संस्कृतैस्सहान्नं भोजयेत् ।
 अयं च संज्ञपनपक्षः कलियुगानाचारेषु पठितत्वादिदानीं त्याज्य एव ॥१६॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/10_madhuparkaH/13_16_uttarayAbhimantrya_tasyai.md">
 
-<details><summary><h4></h4>></summary>
-
 उत्तरयाभिमन्त्र्य तस्यै वपाँ श्रपयित्वोपस्तीर्णाभिघारितां मध्यमेनान्तमेन वा पलाशपर्णेनोत्तरया जुहोति ।
-
-</details>
 
 </div>
 
@@ -796,7 +699,6 @@ title = "१० मधुपर्कः"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/10_madhuparkaH/13_17_yadyutsRjedupAMshUttarA~n.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 17. If the guest chooses to let (the cow) loose, he murmurs the next (formulas, II, 10, 8-11) in a low voice (and says) loudly, 'Om! Let it loose!' (II, 10, 12).
@@ -825,17 +727,12 @@ title = "१० मधुपर्कः"
 केचित्– यज्ञ इत्यादिकाश्चत्वारो मन्त्रा इति ।
 इयं च गौरुत्सर्जनपक्षेऽपि भोक्तुरेव ॥१७॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/10_madhuparkaH/13_17_yadyutsRjedupAMshUttarA~n.md">
 
-<details><summary><h4></h4>></summary>
-
 यद्युत्सृजेदुपांशूत्तरां जपित्वोमुत्सृजतेत्युच्चैः ।
-
-</details>
 
 </div>
 
@@ -849,7 +746,6 @@ title = "१० मधुपर्कः"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/10_madhuparkaH/13_18_annam.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 18. (In this case) he recites the next (formulas, M. II, 10, 13-17) in a low voice over the food which is announced to him (instead of the cow), (and says) loudly, 'Om! Make it ready!' (II, 10, 18).
@@ -875,17 +771,12 @@ title = "१० मधुपर्कः"
 अत्राप्यनुजानीयादिति शेषः ।
 ततो भोजनं ; अन्ननिवेदनस्य दृष्टार्थत्वात्, आचाराच्च ॥१८॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/10_madhuparkaH/13_18_annam.md">
 
-<details><summary><h4></h4>></summary>
-
 अन्नं प्रोक्तमुपांशूत्तरैरभिमन्त्र्यों कल्पयतेत्युच्चैः ।
-
-</details>
 
 </div>
 
@@ -899,7 +790,6 @@ title = "१० मधुपर्कः"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/10_madhuparkaH/13_19_AchAryAyartvije_shvashurAya.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 19. For his teacher, for a Ṛtvij, for his father-in-law, for a king he ought to perform this (Arghya ceremony) as often as they visit his house, if at least one year has elapsed (since they came last).
@@ -933,17 +823,12 @@ title = "१० मधुपर्कः"
 किमर्थमिह पुनर्विधीयते? उत्यते इह विकल्पेन विहितस्य त्रिवृतः पाङ्क्तस्य च तस्मिन् गोमधुपर्के अवेदाध्यायाय श्वशुराय च दीयमाने च प्राप्त्यर्थम् ।
 यत्तु तत्रैव "गौर्मधुपर्कश्च" इति पुनर्वचनं, तदाचार्यर्त्विदाध्यायश्वशुरराजभ्य एव परिसंवत्सरादुपतिष्ठद्भ्यः पुनः पुनः कार्यम्, स्नातकवेदाध्यायतिथिभ्यस्तु सकृदेवेत्येवमर्थम् ॥१९॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/10_madhuparkaH/13_19_AchAryAyartvije_shvashurAya.md">
 
-<details><summary><h4></h4>></summary>
-
 आचार्यायर्त्विजे श्वशुराय राज्ञ इति परिसंवत्सरादुपतिष्ठद्भ्य एतत्कार्यम् ।
-
-</details>
 
 </div>
 
@@ -957,7 +842,6 @@ title = "१० मधुपर्कः"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/10_madhuparkaH/13_20_sakRtpravaktre_chitrAya.md">
 
-<details><summary><h4></h4>></summary>
 <details><summary>Oldenberg</summary>
 
 20. For a renowned teacher (of the Veda the ceremony should be performed) once.
@@ -1006,16 +890,11 @@ title = "१० मधुपर्कः"
 इति श्रीसुदर्शनाचार्यकृते गृह्यतात्पर्यदर्शने त्रयोदशः खण्डः ॥
 पञ्चमश्च पटलस्समाप्तः ॥
 </details>
-</details>
 
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/10_madhuparkaH/13_20_sakRtpravaktre_chitrAya.md">
 
-<details><summary><h4></h4>></summary>
-
 सकृत्प्रवक्त्रे चित्राय।
-
-</details>
 
 </div>

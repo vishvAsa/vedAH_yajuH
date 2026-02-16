@@ -1,6 +1,5 @@
 +++
 title = "०३ होमात् प्राक्"
-
 +++
 ## श्राद्धदिने सिद्धता
 श्वः दन्त-धावनं वर्जयित्वा,  
@@ -153,8 +152,6 @@ title = "०३ होमात् प्राक्"
 इति मन्त्रम् अनुसन्धाय,
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/devaH/AryaH/hindukaH/misc-devas/padyam/devatAbhyaH_pitRbhyaH.md">
-
-#####  …{Loading}…
 
 देवताभ्यः पितृभ्यश्च  
 महायोगिभ्य एव च ।  

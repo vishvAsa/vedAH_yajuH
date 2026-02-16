@@ -399,7 +399,7 @@ unicode_script: devanagari
 </details>
 </div>  
 
-###‌ सूतकम्  
+### सूतकम्  
 #### उदकुम्भनिधानम्  
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/13_jAtakarma/15_06_uttareNa_yajuShA.md">
 <details open><summary><h4>१५ ०६ उत्तरेण यजुषा ...{Loading}...</h4></summary>
@@ -416,9 +416,7 @@ unicode_script: devanagari
 
 ##### सूतकहोमः
 
-सर्षपान् फलीकरणमिश्रानञ्जलिनोत्तरैस् त्रिस्त्रि प्रतिस्वाहाकारं हुत्वा  
-
-हरदत्तो [ऽत्र](https://archive.org/stream/EKAGNIKANDABHASHYAMSAMSKRUTHAM/EKAGNIKANDA%20BHASHYAM%20SAMSKRUTHAM#page/n153/mode/2up)।
+सर्षपान् फलीकरणमिश्रान् अञ्जलिनोत्तरैस् त्रिस्त्रि प्रतिस्वाहाकारं हुत्वा
 
 - +++(सर्षपान् फलीकरणमिश्रान् जुहोति।)+++  
 
@@ -635,7 +633,7 @@ unicode_script: devanagari
 - सङ्कल्पः
 
 ## कालः
-- "the opinion is there is no aashaucha (theetu) till 1.5hrs after birth..But there was mixed opinion and in very ancient times, jaatakarma was done with umbilical cord intact..So aashaucha surfaces as soon the "naalachchedana" is done"
+> "the opinion is there is no aashaucha (theetu) till 1.5 hrs after birth..But there was mixed opinion and in very ancient times, jaatakarma was done with umbilical cord intact..So aashaucha surfaces as soon the "naalachchedana" is done"
 
 ## नक्षत्रनामनिश्चयः
 सर्वमेतद् अजितेन पुरा प्रकाशितम् [अत्र](https://apastamba.wordpress.com/category/namakarana/)।
