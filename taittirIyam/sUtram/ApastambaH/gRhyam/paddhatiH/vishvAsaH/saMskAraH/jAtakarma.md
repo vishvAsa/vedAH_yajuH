@@ -416,9 +416,7 @@ unicode_script: devanagari
 
 ##### सूतकहोमः
 
-सर्षपान् फलीकरणमिश्रानञ्जलिनोत्तरैस् त्रिस्त्रि प्रतिस्वाहाकारं हुत्वा  
-
-हरदत्तो [ऽत्र](https://archive.org/stream/EKAGNIKANDABHASHYAMSAMSKRUTHAM/EKAGNIKANDA%20BHASHYAM%20SAMSKRUTHAM#page/n153/mode/2up)।
+सर्षपान् फलीकरणमिश्रान् अञ्जलिनोत्तरैस् त्रिस्त्रि प्रतिस्वाहाकारं हुत्वा
 
 - +++(सर्षपान् फलीकरणमिश्रान् जुहोति।)+++  
 
