@@ -1,20 +1,20 @@
 +++
 title = "+०४ पितृ-मेधादि"
 unicode_script = "devanagari"
-
 +++
 Source: [भास्करः](https://archive.org/details/taittiriya/taittiriya_aranyaka_bhaskara_01/page/n329/mode/1up?view=theater)
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/01_AjyagrahaNAnumantraNAdi/02_san_tvA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/01_AjyagrahaNAnumantraNAdi/02_san_tvA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-सन् त्वा॑ सिञ्चामि॒ यजु॑षा  
-प्र॒जाम् आयु॒र् धन॑ञ् च ।+++(4)+++  
-बृह॒स्-पति॑-प्रसूतो॒  
-यज॑मान इ॒ह मा रि॑षत्  ॥
+स᳓न् त्वा सिञ्चामि य᳓जुषा  
+प्रजा᳓म् आ᳓युर् ध᳓नञ् च ।+++(4)+++  
+बृ᳓हस्-प᳓ति-प्रसूतो  
+य᳓जमान इह᳓ मा᳓ रिषत्  ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/01_AjyagrahaNAnumantraNAdi/02_san_tvA.md">
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/01_AjyagrahaNAnumantraNAdi/02_san_tvA.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
