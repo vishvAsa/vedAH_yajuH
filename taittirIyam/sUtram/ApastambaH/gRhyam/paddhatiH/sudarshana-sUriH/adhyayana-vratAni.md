@@ -117,7 +117,7 @@ title = "अध्ययन-व्रतानि"
 विश्वेभ्यो देवेभ्यः काण्डऋषिभ्यः स्वाहा ; "आ नो विश्वे अस्क्रागमन्तु" (तै. ब्रा.२-८-६-३.) इति षडृचं सूक्तम् ;
 "वैशवदेवं व्रतं चरिष्यामी"ति वैश्वदेवव्रते विशेषः ॥
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/8_kAmya-pashavaH/6_sAvitrAdi-pashu-sUktAni/02_vaishvadevam" unfilled newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/8_kAmya-pashavaH/6_sAvitrAdi-pashu-sUktAni/02_vaishvadevam" unfilled newLevelForH1="5" includeTitle="false"> </div>
 
 
 ## सौम्यम् - शुक्रियम्
