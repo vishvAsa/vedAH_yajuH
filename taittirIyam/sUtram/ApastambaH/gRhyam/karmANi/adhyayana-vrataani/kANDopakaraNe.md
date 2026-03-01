@@ -3,8 +3,7 @@ title = "काण्डोपकरणे"
 +++
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/08_01_upAkaraNe_samApane.md">
 
-+++(स्थालीपाकतन्त्रेण होमे - )+++ उपाकरणे समापने च ऋषिर् यः प्रज्ञायते १  
-
++++(स्थाली-पाक-तन्त्रेण होमे - )+++ उपाकरणे समापने च ऋषिर् यः प्रज्ञायते १  
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/08_02_sadasaspatirdvitIyaH.md">

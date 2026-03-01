@@ -179,4 +179,12 @@ May the gods aid me to radiance, may the Pitrs rejoice in me.
 </details>
 </div>
 
-ओं शान्ति॒श्शान्ति॒श्शान्तिः॑ ॥ 1 । - । 1 ।  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ओं शान्ति॒श्शान्ति॒श्शान्तिः॑ ॥ 
+</details>
+
+<details><summary>मूलम्</summary>
+
+ओं शान्ति॒श्शान्ति॒श्शान्तिः॑ ॥ 1 । - । 1 ।
+</details>
