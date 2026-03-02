@@ -14,18 +14,18 @@ title = "०१ व्रत-ग्रहणम्"
 पुरातनानि त्याजयित्वा,  
 स्नातं शिष्यं निवीतं 
 
-> (ऋषितीर्थेन) प्रजापतिं काण्डर्षिं तर्पयामि,  
-> सांहितीर् देवता उपनिषदस् तर्पयामि,  
-> याज्ञिकीर् देवता उपनिषदस् तर्पयामि,  
-> वारुणीर् देवता उपनिषदस् तर्पयामि,  
-> (ब्रह्मतीर्थेन) ब्रह्माणँ स्वयम्भुवं तर्पयामि,  
-> (ऋषितीर्थेन) सदसस्पतिं तर्पयामि 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/prajApatim_kANDarShim.md" unfilled newLevelForH1="5" includeTitle="false"> </div>  
+
+
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/sAMhitI-yAjnikI-vAruNyAdi-tarpaNam.md" unfilled newLevelForH1="5" includeTitle="false"> </div>  
+
 
 इति एकैकं त्रिस् त्रिः तिलाक्षतोदकैः ऋषि-तीर्थेन तर्पयित्वाचम्य,  
 अग्नि-प्रतिष्ठाद्य्-अग्नि-मुखान्ते शिष्येणान्वारब्धः, 
 
-> प्रजापतये काण्डर्षये स्वाहा -  
-> प्रजापतये काण्डर्षय इदम् । 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/prajApataye_kANDarShaye.md" unfilled newLevelForH1="5" includeTitle="false"> </div>  
+
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/121/10_prajApate_na.md">
 <details open><summary><h2>१० प्रजापते न ...{Loading}...</h2></summary>
@@ -121,7 +121,7 @@ title = "०१ व्रत-ग्रहणम्"
 माणवक उत्थाय,  
 देवता अभिसन्धाय,  
 
-(अधः "का॒ण्ड॒र्षिभ्यः॑ प्राजापत्य-व्र॒तं च॑रिष्यामि इत्यूहनीयम्।)
+(अधः "काण्डर्षि᳓भ्यः प्राजापत्य-व्रतं᳓ चरिष्यामि" इत्यूहनीयम्।)
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/07_pravargyAdi/84_agne_vratapate">
 <details open><summary><h5>८४ अग्ने व्रतपते ...{Loading}...</h5></summary>

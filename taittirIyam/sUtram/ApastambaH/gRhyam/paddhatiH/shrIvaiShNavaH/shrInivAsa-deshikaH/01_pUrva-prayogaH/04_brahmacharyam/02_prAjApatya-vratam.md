@@ -120,8 +120,10 @@ title = "०२ प्राजापत्य-व्रतम्"
 आचार्यः - अग्नेर् उपसमाधानाद्य्-अग्नि-मुखान्ते  
 माणवकेनान्वावरब्धः, 
 
-> प्रजा᳓पतये काण्डर्ष᳓ये स्वा᳓हा  
-प्रजा᳓पतये काण्डर्ष᳓य इद᳓न्, न᳓ म᳓म ।  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/prajApataye_kANDarShaye.md" unfilled newLevelForH1="5" includeTitle="false"> 
+प्रजा᳓पतये काण्डर्ष᳓ये स्वा᳓हा  
+प्रजा᳓पतये काण्डर्ष᳓य इद᳓न्, न᳓ म᳓म ।
+</div>  
 
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH" unfilled newLevelForH1="5" includeTitle="false"> </div>  
