@@ -14,6 +14,12 @@ title = "०२ उत्सर्जनम्"
 "प्राजापत्य-व्रतोत्सर्जनं चरिष्यामी"ति वाचयित्वा,  
 वस्त्रादि-धारणं स्नानं तर्पणञ्च पूर्ववत् कारयित्वा,  
 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/prajApatim_kANDarShim.md" unfilled newLevelForH1="5" includeTitle="false"> </div>  
+
+
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/sAMhitI-yAjnikI-vAruNyAdi-tarpaNam.md" unfilled newLevelForH1="5" includeTitle="false"> </div>  
+
 
 ## होमः
 अग्निप्रतिष्ठाद्य्-अग्नि-मुखान्ते पूर्ववत् प्रधानाहुतीः हुत्वा,  
@@ -101,7 +107,7 @@ title = "०२ उत्सर्जनम्"
 ## उपस्थानम्
 माणवकम् उत्थाप्य,  
 
-(अधः "काण्डर्षि᳓भ्यः प्राजापत्य-व्रतं᳓…" इत्यूहनीयम्।)
+(अधः "काण्डर्षि᳓भ्यः प्राजापत्य-व्रत᳓म्…" इत्यूहनीयम्।)
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/07_pravargyAdi/88_Aditya_vratapate" unfilled newLevelForH1="5" includeTitle="false"> </div>  
 

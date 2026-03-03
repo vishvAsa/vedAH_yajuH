@@ -40,7 +40,7 @@ title = "1 ग्रहणम्"
 
 
 ## व्रतं चरिष्यामि
-(अधः "काण्डर्षि᳓भ्यो वैश्वदेव-व्रतं᳓ चरिष्यामि" इत्यूहनीयम्।)
+(अधः "काण्डर्षि᳓भ्यो वैश्वदेव-व्रत᳓म्" इत्यूहनीयम्।)
 +++(माणवकः अग्नेरुत्तरतः स्थित्वा -)+++
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/07_pravargyAdi/84_agne_vratapate">
