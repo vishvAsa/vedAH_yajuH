@@ -121,7 +121,7 @@ title = "०१ व्रत-ग्रहणम्"
 माणवक उत्थाय,  
 देवता अभिसन्धाय,  
 
-(अधः "काण्डर्षि᳓भ्यः प्राजापत्य-व्रतं᳓ चरिष्यामि" इत्यूहनीयम्।)
+(अधः "काण्डर्षि᳓भ्यः प्राजापत्य-व्रतं᳓…" इत्यूहनीयम्।)
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/07_pravargyAdi/84_agne_vratapate">
 <details open><summary><h5>८४ अग्ने व्रतपते ...{Loading}...</h5></summary>

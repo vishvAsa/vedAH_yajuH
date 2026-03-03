@@ -3,6 +3,7 @@ title = "०२ उत्सर्जनम्"
 
 +++
 
+## तर्पणान्तम्
 प्राणानायम्य, 
 
 > गोत्रं शर्माणम् इमं माणवकं  
@@ -14,7 +15,7 @@ title = "०२ उत्सर्जनम्"
 वस्त्रादि-धारणं स्नानं तर्पणञ्च पूर्ववत् कारयित्वा,  
 
 
-
+## होमः
 अग्निप्रतिष्ठाद्य्-अग्नि-मुखान्ते पूर्ववत् प्रधानाहुतीः हुत्वा,  
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/121/10_prajApate_na.md">
@@ -97,8 +98,10 @@ title = "०२ उत्सर्जनम्"
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/sAMhitI-yAjnikI-vAruNI-brahma-sadasaspatayaH.md" unfilled newLevelForH1="5" includeTitle="false"> </div>  
 
-
+## उपस्थानम्
 माणवकम् उत्थाप्य,  
+
+(अधः "काण्डर्षि᳓भ्यः प्राजापत्य-व्रतं᳓…" इत्यूहनीयम्।)
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/07_pravargyAdi/88_Aditya_vratapate" unfilled newLevelForH1="5" includeTitle="false"> </div>  
 
@@ -118,8 +121,9 @@ title = "०२ उत्सर्जनम्"
 
 [[89]]
 
+## उत्तराङ्गम्
 जयादि प्रतिपद्यते ।  
 परिषेचनान्तं कृत्वा ।  
 दक्षिणतो निषादितं ब्राह्मणं सम्पूज्य,  
 अग्निम् उपस्थाप्य,  
-…गोत्रस्य शर्मणः अस्य माणवकस्य प्राजापत्यव्रतोत्सर्जनकर्माङ्गं पुण्याहं कुर्यात् ।
+"…गोत्रस्य शर्मणः अस्य माणवकस्य प्राजापत्यव्रतोत्सर्जनकर्माङ्गं पुण्याहं" कुर्यात् ।

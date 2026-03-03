@@ -2,7 +2,13 @@
 title = "1 ग्रहणम्"
 +++
 
-आचार्यः प्राणानायम्य अमुक-गोत्रममुकशर्माणं माणवकं वैश्वदेवव्रतेन कर्मणा संस्करिष्यामीति सङ्कल्प्य, वैश्वदेवव्रतं चरिष्यामीति शिष्यं वाचयित्वा, उपवीतादिधारणं स्नानं 
+## तर्पणान्तम्
+आचार्यः प्राणानायम्य  
+
+> अमुक-गोत्रममुकशर्माणं माणवकं वैश्वदेवव्रतेन कर्मणा संस्करिष्यामि
+
+इति सङ्कल्प्य, "वैश्वदेवव्रतं चरिष्यामी"ति शिष्यं वाचयित्वा,  
+उपवीतादिधारणं स्नानं 
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/vishvAn_devAn_kANDarShIn.md" unfilled newLevelForH1="5" includeTitle="false"> </div>  
 
@@ -14,7 +20,10 @@ title = "1 ग्रहणम्"
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/sAMhitI-yAjnikI-vAruNyAdi-tarpaNam.md" unfilled newLevelForH1="5" includeTitle="false"> </div>  
 
 
-च तर्पयित्वा, अग्नेरुपसमाधानाद्यग्निमुखान्ते शिष्येणान्वारब्धः, 
+च तर्पयित्वा, 
+
+## होमः
+अग्नेरुपसमाधानाद्यग्निमुखान्ते शिष्येणान्वारब्धः, 
 
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/vishvebhyo_devebhyaH_kANDarShibhyaH.md" unfilled newLevelForH1="5" includeTitle="false"> </div>  
@@ -27,7 +36,12 @@ title = "1 ग्रहणम्"
 
 साँहितीभ्यो, याज्ञिकीभ्यो वारुणीभ्यो ब्रह्मणे स्वयम्भुवे सदसस्पतये च हुत्वा, 
 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/sAMhitI-yAjnikI-vAruNI-brahma-sadasaspatayaH.md" unfilled newLevelForH1="5" includeTitle="false"> </div>  
+
+
+## व्रतं चरिष्यामि
 (अधः "काण्डर्षि᳓भ्यो वैश्वदेव-व्रतं᳓ चरिष्यामि" इत्यूहनीयम्।)
++++(माणवकः अग्नेरुत्तरतः स्थित्वा -)+++
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/07_pravargyAdi/84_agne_vratapate">
 <details open><summary><h5>८४ अग्ने व्रतपते ...{Loading}...</h5></summary>
@@ -140,5 +154,9 @@ title = "1 ग्रहणम्"
 </div>
 
 
-इति चतुर्भिरुपस्थानं कारयित्वा, जयाद्यग्न्युपस्थानान्तं कृत्वा, अभ्युदयं पुण्याहं च कुर्यात् ॥ 
+इति चतुर्भिरुपस्थानं कारयित्वा,  
+
+## उत्तराङ्गम्
+जयाद्यग्न्युपस्थानान्तं कृत्वा,  
+अभ्युदयं पुण्याहं च कुर्यात् ॥ 
   
