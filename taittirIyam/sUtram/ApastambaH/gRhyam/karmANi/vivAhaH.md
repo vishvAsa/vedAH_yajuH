@@ -1028,8 +1028,8 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 
 </div>  
 
-##### युग्ययोः योजनप्रकारः
 ## प्रयाणकाले रथस्योत्तम्भनी  
+##### युग्ययोः योजनप्रकारः
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/05_21_uttarA_rathasyottambhanI.md">
 
