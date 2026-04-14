@@ -64,17 +64,25 @@ title = "अध्ययन-व्रतानि"
 ### आरम्भः
 अथ प्राजापत्ये व्रते  
 पूर्ववत् स्नात्वा  
-सोमाग्नि-विश्वेदेव-वर्ज्यानां तर्पणम् ।  
-अग्नि-मुखान्ते चान्वारब्धे  
-व्रतिनि जुहोति-  
+सोमाग्नि-विश्वेदेव-वर्जानां तर्पणम् ।  
 
-> प्रजापतये काण्डऋषये स्वाहा ।
+अग्नि-मुखान्ते च  
+अन्वारब्धे व्रतिनि, जुहोति-  
+
+> प्रजा᳓पतये काण्डऋष᳓ये स्वा᳓हा ।
 
 "प्रजापते न त्वदेतान्यन्यः" ( तै. ब्रा. २-८-१-२.)  
 इति सूक्तेन प्रत्यृचं षडाहुतीः,  
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH" unfilled newLevelForH1="5" includeTitle="false"> </div>  
+
+
 चतस्र उपहोमाहुतीः -  
 साँहितीभ्य इत्यादिभिर् एव,  
 "सदसस्पतिम्" इत्य् एतयैव सदसस्पतिं च ।
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/sAMhitI-yAjnikI-vAruNI-brahma-sadasaspatayaH.md" unfilled newLevelForH1="5" includeTitle="false"> </div>  
+
 
 अथ व्रती उपस्थेय-  
 देवता अभिसन्धायाग्निपुरोगाश् चतस्रो देवता उपतिष्ठते ।  
@@ -84,9 +92,12 @@ title = "अध्ययन-व्रतानि"
 {वायो व्रतपते, आदित्य व्रतपते, व्रतानां व्रतपते} -  
 > काण्डऋषिभ्यः {प्राजापत्यं} व्रतं चरिष्यामि, तच् छकेयं, तन् मे राध्यताम्," (तै.आ. ४-४१-३.) 
 
-इत्येतैश् चतुर्भिर् यथादैवतम् ।  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/07_pravargyAdi/84_agne_vratapate" unfilled newLevelForH1="5" includeTitle="false"> </div>  
 
-ततो जयादि, ब्राह्मणतर्पणं च ।  
+
+इत्येतैश् चतुर्भिर् यथा-दैवतम् ।  
+
+ततो जयादि, ब्राह्मण-तर्पणं च ।  
 
 ### समाप्तिः
 एवम् एव समापने प्रयोगः - संवत्सरे संवत्सरे पर्यवेते+++(=समाप्ते)+++ ।  
@@ -99,12 +110,15 @@ title = "अध्ययन-व्रतानि"
 
 ## आग्नेयम्
 अग्नये काण्डऋषये स्वाहा;  
-"अग्ने नय" (तै.ब्रा.२-८-३.) इति षडृचं सूक्तम्, ;  
-"अग्ने व्रतपते काण्डऋषिभ्यः {आग्नेयं} व्रतं चरिष्यामि" इत्याग्नेये विशेषः ।
+"अग्ने नय" (तै.ब्रा.२-८-३.) इति षडृचं सूक्तम्;  
+"अग्ने व्रतपते काण्ड-ऋषिभ्यः {आग्नेयं} व्रतं चरिष्यामि" इत्य् आग्नेये विशेषः ।
 
 ## वैश्वदेवम्
 विश्वेभ्यो देवेभ्यः काण्डऋषिभ्यः स्वाहा ; "आ नो विश्वे अस्क्रागमन्तु" (तै. ब्रा.२-८-६-३.) इति षडृचं सूक्तम् ;
 "वैशवदेवं व्रतं चरिष्यामी"ति वैश्वदेवव्रते विशेषः ॥
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/8_kAmya-pashavaH/6_sAvitrAdi-pashu-sUktAni/02_vaishvadevam" unfilled newLevelForH1="5" includeTitle="false"> </div>
+
 
 ## सौम्यम् - शुक्रियम्
 ### उपाकर्म

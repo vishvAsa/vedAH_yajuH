@@ -5,8 +5,8 @@ title = "उपाकरणम्"
 
 - प्रातःसन्ध्यावन्दनात् परम् -  
   अध्याय+उत्सर्जन+अकरण-प्रायश्चित्तार्थं कामोकार्षीत्-मन्युरकार्षीत् जपः स्याद् इति केचित्।
-- तदा [यज्ञोपवीतपरिवर्तनम्](/AgamaH/AryaH/hinduism/AchAraH/kriyAH/angAni/upavIta-parivartanam/) अपीच्छन्ति केचित्। नूतनपलाशदण्डादिग्रहणम् अपि!
-- श्रावण्यां पौर्णमास्याम् उपोष्य परेद्युः सहस्रकृत्वो गायत्रीमन्त्रजपेन प्रायश्चित्तम् अपि कर्तुम् अवकाशो ऽस्ति।
+- तदा [यज्ञोपवीतपरिवर्तनम्](/AgamaH/AryaH/hinduism/AchAraH/kriyAH/angAni/upavIta-parivartanam/) अपीच्छन्ति केचित्। नूतन-पलाश-दण्डादि-ग्रहणम् अपि!
+- श्रावण्यां पौर्णमास्याम् उपोष्य परेद्युः सहस्रकृत्वो गायत्री-मन्त्रजपेन प्रायश्चित्तम् अपि कर्तुम् अवकाशो ऽस्ति।
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/08_upAkarmotsarjanaprakaraNam/11u_01.md">
