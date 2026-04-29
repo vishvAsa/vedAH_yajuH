@@ -1,15 +1,14 @@
 +++
 title = "०२ आतिष्ठेममश्मानमश्मेव त्व२म्"
-
 +++
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/01_AtiShThemamashmAnamashmeva_tva2m.md">
-<details open><summary><h2>०१ आतिष्ठेममश्मानमश्मेव त्व२म् ...{Loading}...</h2></summary>
+<details open><summary><h2>०१ आ᳓ति᳓ष्ठे᳓म᳓म᳓श्मा᳓न᳓म᳓श्मे᳓व᳓ त्व᳓२म् ...{Loading}...</h2></summary>
 
-आति॑ष्ठे॒मम् अश्मा॑न॒म्  
-अश्मे॑व॒ त्वँ स्थि॒रा+++(रो पुंसि)+++ भ॑व ।  
-अ॒भिति॑ष्ठ पृतन्य॒तस्+++(=पृतनाकामान्)+++  
-सह॑स्व पृतनाय॒तः+++(=पृतनाकामान्)+++ ।+++(र५)+++  
+आ᳓तिष्ठेम᳓म् अ᳓श्मानम्  
+अ᳓श्मेव त्वँ᳓ स्थिरा᳓+++(रो पुंसि)+++ भव ।  
+अभि᳓तिष्ठ पृतन्यत᳓स्+++(=पृतनाकामान्)+++  
+स᳓हस्व पृतनायतः᳓+++(=पृतनाकामान्)+++ ।+++(र५)+++  
 
 </details>
 </div>

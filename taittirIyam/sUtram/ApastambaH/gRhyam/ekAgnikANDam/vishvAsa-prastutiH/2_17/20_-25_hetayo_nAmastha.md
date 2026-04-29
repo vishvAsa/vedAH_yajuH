@@ -1,23 +1,22 @@
 +++
 title = "२० -२५ हेतयो नामस्थ"
-
 +++
 
-हे॒तयो॒ नाम॑ स्थ॒, तेषां॑ वः पु॒रो गृ॒हा, अ॒ग्निर् व॒ इष॑वः, सलि॒लो वा॑त-ना॒मम्।  
+हेत᳓यो ना᳓म स्थ, ते᳓षां वः पुरो᳓ गृहा᳓, अग्नि᳓र् व इ᳓षवः, सलिलो᳓ वात-नाम᳓म्।  
 +++(वाताशिनो हि सर्पाः। तस्य वातस्य नमयिता = उपस्थापयिता। नपुंसकलिङ्गं सामान्यविवक्षायाः।)+++  
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/tebhyo_vo_namaH.md">
 <details open><summary><h5>Tebhyo vo nama H ...{Loading}...</h5></summary>
 
-तेभ्यो॑ वो॒ नम॒स्, ते नो॑ मृडयत।
+ते᳓भ्यो वो न᳓मस्, ते᳓ नो मृडयत।
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/te_yaM_dviShmaH.md">
-<details open><summary><h10>ते यं द्विष्मः ...{Loading}...</h10></summary>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary><h10>ते᳓ यं᳓ द्वि᳓ष्मः᳓ ...{Loading}...</h10></summary>
+<details open><summary>वि᳓श्वा᳓स᳓-प्र᳓स्तु᳓तिः᳓</summary>
 
-ते यन् **द्वि॒ष्मो**  
-यश्च॑ नो॒ **द्वेष्टि॒**  
-तव्ँ वो॒ **जम्भे॑ दधामि** ॥
+ते᳓ य᳓न् **द्विष्मो᳓**  
+य᳓श्च नो **द्वे᳓ष्टि**  
+तव्ँ᳓ वो **ज᳓म्भे दधामि** ॥
 </details>
 
 <details><summary>Keith</summary>
@@ -25,9 +24,9 @@ title = "२० -२५ हेतयो नामस्थ"
 him whom we hate and him who hateth us, I place him within your jaws.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>मू᳓ल᳓म्</summary>
 
-ते यन्द्वि॒ष्मो यश्च॑ नो॒ द्वेष्टि॒ तव्ँवो॒ जम्भे॑ दधामि
+ते᳓ य᳓न्द्विष्मो᳓ य᳓श्च नो द्वे᳓ष्टि तव्ँ᳓वो ज᳓म्भे दधामि
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -39,19 +38,19 @@ him whom we hate and him who hateth us, I place him within your jaws.
 </details>
 </div>  
 
-नि॒लि॒म्पा नाम॑ स्थ॒, तेषां॑ वो दक्षि॒णा गृ॒हा, पि॒तरो॑ व॒ इष॑वः॒, सग॑रो वात-ना॒मम्।  
+निलिम्पा᳓ ना᳓म स्थ, ते᳓षां वो दक्षिणा᳓ गृहा᳓, पित᳓रो व इ᳓षवः, स᳓गरो वात-नाम᳓म्।  
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/tebhyo_vo_namaH.md">
 <details open><summary><h5>Tebhyo vo nama H ...{Loading}...</h5></summary>
 
-तेभ्यो॑ वो॒ नम॒स्, ते नो॑ मृडयत।
+ते᳓भ्यो वो न᳓मस्, ते᳓ नो मृडयत।
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/te_yaM_dviShmaH.md">
-<details open><summary><h10>ते यं द्विष्मः ...{Loading}...</h10></summary>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary><h10>ते᳓ यं᳓ द्वि᳓ष्मः᳓ ...{Loading}...</h10></summary>
+<details open><summary>वि᳓श्वा᳓स᳓-प्र᳓स्तु᳓तिः᳓</summary>
 
-ते यन् **द्वि॒ष्मो**  
-यश्च॑ नो॒ **द्वेष्टि॒**  
-तव्ँ वो॒ **जम्भे॑ दधामि** ॥
+ते᳓ य᳓न् **द्विष्मो᳓**  
+य᳓श्च नो **द्वे᳓ष्टि**  
+तव्ँ᳓ वो **ज᳓म्भे दधामि** ॥
 </details>
 
 <details><summary>Keith</summary>
@@ -59,9 +58,9 @@ him whom we hate and him who hateth us, I place him within your jaws.
 him whom we hate and him who hateth us, I place him within your jaws.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>मू᳓ल᳓म्</summary>
 
-ते यन्द्वि॒ष्मो यश्च॑ नो॒ द्वेष्टि॒ तव्ँवो॒ जम्भे॑ दधामि
+ते᳓ य᳓न्द्विष्मो᳓ य᳓श्च नो द्वे᳓ष्टि तव्ँ᳓वो ज᳓म्भे दधामि
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -73,19 +72,19 @@ him whom we hate and him who hateth us, I place him within your jaws.
 </details>
 </div>  
 
-व॒ज्रिणो॒ नाम॑ स्थ॒, तेषां॑ वः प॒श्चाद् गृ॒हा, स्वप्नो॑ व॒ इष॑वो॒, गह्व॑रो वात-ना॒मम्।  
+वज्रि᳓णो ना᳓म स्थ, ते᳓षां वः पश्चा᳓द् गृहा᳓, स्व᳓प्नो व इ᳓षवो, ग᳓ह्वरो वात-नाम᳓म्।  
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/tebhyo_vo_namaH.md">
 <details open><summary><h5>Tebhyo vo nama H ...{Loading}...</h5></summary>
 
-तेभ्यो॑ वो॒ नम॒स्, ते नो॑ मृडयत।
+ते᳓भ्यो वो न᳓मस्, ते᳓ नो मृडयत।
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/te_yaM_dviShmaH.md">
-<details open><summary><h10>ते यं द्विष्मः ...{Loading}...</h10></summary>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary><h10>ते᳓ यं᳓ द्वि᳓ष्मः᳓ ...{Loading}...</h10></summary>
+<details open><summary>वि᳓श्वा᳓स᳓-प्र᳓स्तु᳓तिः᳓</summary>
 
-ते यन् **द्वि॒ष्मो**  
-यश्च॑ नो॒ **द्वेष्टि॒**  
-तव्ँ वो॒ **जम्भे॑ दधामि** ॥
+ते᳓ य᳓न् **द्विष्मो᳓**  
+य᳓श्च नो **द्वे᳓ष्टि**  
+तव्ँ᳓ वो **ज᳓म्भे दधामि** ॥
 </details>
 
 <details><summary>Keith</summary>
@@ -93,9 +92,9 @@ him whom we hate and him who hateth us, I place him within your jaws.
 him whom we hate and him who hateth us, I place him within your jaws.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>मू᳓ल᳓म्</summary>
 
-ते यन्द्वि॒ष्मो यश्च॑ नो॒ द्वेष्टि॒ तव्ँवो॒ जम्भे॑ दधामि
+ते᳓ य᳓न्द्विष्मो᳓ य᳓श्च नो द्वे᳓ष्टि तव्ँ᳓वो ज᳓म्भे दधामि
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -107,20 +106,20 @@ him whom we hate and him who hateth us, I place him within your jaws.
 </details>
 </div>  
 
-अ॒व॒स्थावा॑नो॒ नाम॑ स्थ॒, तेषां॑ व उत्त॒रद् गृ॒हा, आपो॑ व॒ इष॑वः॒, समु॒द्रो वा॑तना॒मम्।  
+अवस्था᳓वानो ना᳓म स्थ, ते᳓षां व उत्तर᳓द् गृहा᳓, आ᳓पो व इ᳓षवः, स᳓मुद्रो᳓ वातनाम᳓म्।  
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/tebhyo_vo_namaH.md">
 <details open><summary><h5>Tebhyo vo nama H ...{Loading}...</h5></summary>
 
-तेभ्यो॑ वो॒ नम॒स्, ते नो॑ मृडयत।
+ते᳓भ्यो वो न᳓मस्, ते᳓ नो मृडयत।
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/te_yaM_dviShmaH.md">
-<details open><summary><h10>ते यं द्विष्मः ...{Loading}...</h10></summary>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary><h10>ते᳓ यं᳓ द्वि᳓ष्मः᳓ ...{Loading}...</h10></summary>
+<details open><summary>वि᳓श्वा᳓स᳓-प्र᳓स्तु᳓तिः᳓</summary>
 
-ते यन् **द्वि॒ष्मो**  
-यश्च॑ नो॒ **द्वेष्टि॒**  
-तव्ँ वो॒ **जम्भे॑ दधामि** ॥
+ते᳓ य᳓न् **द्विष्मो᳓**  
+य᳓श्च नो **द्वे᳓ष्टि**  
+तव्ँ᳓ वो **ज᳓म्भे दधामि** ॥
 </details>
 
 <details><summary>Keith</summary>
@@ -128,9 +127,9 @@ him whom we hate and him who hateth us, I place him within your jaws.
 him whom we hate and him who hateth us, I place him within your jaws.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>मू᳓ल᳓म्</summary>
 
-ते यन्द्वि॒ष्मो यश्च॑ नो॒ द्वेष्टि॒ तव्ँवो॒ जम्भे॑ दधामि
+ते᳓ य᳓न्द्विष्मो᳓ य᳓श्च नो द्वे᳓ष्टि तव्ँ᳓वो ज᳓म्भे दधामि
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -142,19 +141,19 @@ him whom we hate and him who hateth us, I place him within your jaws.
 </details>
 </div>  
 
-अधि॑पतयो॒ नाम॑ स्थ॒, तेषां॑ व उ॒परि॑ गृ॒हा, व॒र्षं व॒ इष॒वो, ऽव॑स्वान् वात-ना॒मम्।  
+अ᳓धिपतयो ना᳓म स्थ, ते᳓षां व उप᳓रि गृहा᳓, वर्षं᳓ व इ᳓षवो᳓, ऽवस्वान् वात-नाम᳓म्।  
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/tebhyo_vo_namaH.md">
 <details open><summary><h5>Tebhyo vo nama H ...{Loading}...</h5></summary>
 
-तेभ्यो॑ वो॒ नम॒स्, ते नो॑ मृडयत।
+ते᳓भ्यो वो न᳓मस्, ते᳓ नो मृडयत।
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/te_yaM_dviShmaH.md">
-<details open><summary><h10>ते यं द्विष्मः ...{Loading}...</h10></summary>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary><h10>ते᳓ यं᳓ द्वि᳓ष्मः᳓ ...{Loading}...</h10></summary>
+<details open><summary>वि᳓श्वा᳓स᳓-प्र᳓स्तु᳓तिः᳓</summary>
 
-ते यन् **द्वि॒ष्मो**  
-यश्च॑ नो॒ **द्वेष्टि॒**  
-तव्ँ वो॒ **जम्भे॑ दधामि** ॥
+ते᳓ य᳓न् **द्विष्मो᳓**  
+य᳓श्च नो **द्वे᳓ष्टि**  
+तव्ँ᳓ वो **ज᳓म्भे दधामि** ॥
 </details>
 
 <details><summary>Keith</summary>
@@ -162,9 +161,9 @@ him whom we hate and him who hateth us, I place him within your jaws.
 him whom we hate and him who hateth us, I place him within your jaws.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>मू᳓ल᳓म्</summary>
 
-ते यन्द्वि॒ष्मो यश्च॑ नो॒ द्वेष्टि॒ तव्ँवो॒ जम्भे॑ दधामि
+ते᳓ य᳓न्द्विष्मो᳓ य᳓श्च नो द्वे᳓ष्टि तव्ँ᳓वो ज᳓म्भे दधामि
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -176,20 +175,20 @@ him whom we hate and him who hateth us, I place him within your jaws.
 </details>
 </div>  
 
-क्र॒व्या नाम॑ स्थ॒ पार्थि॑वास्, तेषां॑ व इ॒ह गृ॒हा, अन्नं॑ व॒ इष॑वो, निमि॒षो वा॑तना॒मम्।  
+क्रव्या᳓ ना᳓म स्थ पा᳓र्थिवा᳓स्, ते᳓षां व इह᳓ गृहा᳓, अ᳓न्नं व इ᳓षवो, निमिषो᳓ वातनाम᳓म्।  
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/tebhyo_vo_namaH.md">
 <details open><summary><h5>Tebhyo vo nama H ...{Loading}...</h5></summary>
 
-तेभ्यो॑ वो॒ नम॒स्, ते नो॑ मृडयत।
+ते᳓भ्यो वो न᳓मस्, ते᳓ नो मृडयत।
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/te_yaM_dviShmaH.md">
-<details open><summary><h10>ते यं द्विष्मः ...{Loading}...</h10></summary>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary><h10>ते᳓ यं᳓ द्वि᳓ष्मः᳓ ...{Loading}...</h10></summary>
+<details open><summary>वि᳓श्वा᳓स᳓-प्र᳓स्तु᳓तिः᳓</summary>
 
-ते यन् **द्वि॒ष्मो**  
-यश्च॑ नो॒ **द्वेष्टि॒**  
-तव्ँ वो॒ **जम्भे॑ दधामि** ॥
+ते᳓ य᳓न् **द्विष्मो᳓**  
+य᳓श्च नो **द्वे᳓ष्टि**  
+तव्ँ᳓ वो **ज᳓म्भे दधामि** ॥
 </details>
 
 <details><summary>Keith</summary>
@@ -197,9 +196,9 @@ him whom we hate and him who hateth us, I place him within your jaws.
 him whom we hate and him who hateth us, I place him within your jaws.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>मू᳓ल᳓म्</summary>
 
-ते यन्द्वि॒ष्मो यश्च॑ नो॒ द्वेष्टि॒ तव्ँवो॒ जम्भे॑ दधामि
+ते᳓ य᳓न्द्विष्मो᳓ य᳓श्च नो द्वे᳓ष्टि तव्ँ᳓वो ज᳓म्भे दधामि
 </details>
 
 <details><summary>सायण-टीका</summary>
