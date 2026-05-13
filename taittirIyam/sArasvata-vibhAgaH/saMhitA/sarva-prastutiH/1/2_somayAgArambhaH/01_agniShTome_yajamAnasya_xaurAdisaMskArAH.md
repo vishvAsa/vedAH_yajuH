@@ -311,6 +311,18 @@ ________
 
 6यजमानमभिषिञ्चति - आपो अस्मानिति द्विपदया विराजा ॥ 
 </details>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+आप इति।
+बौधायनः — 
+
+>  ‘अथैनम् अद्भिर् अभिषिञ्चत्य् 'आपो अस्मान् मातरः शुन्धन्तु घृतेन नो घृतपुवः पुनन्त्विति। संप्रधाव्य रजः प्रक्षालयति 'विश्वम् अस्मत् प्र वहन्तु रिप्रम्' इति’ 
+
+इति।
+
+</details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/02_Apo_asmAn.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
@@ -901,6 +913,23 @@ ________
 
 शालां यजमानम् आनयति।
 </details>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+आ व इति।
+बौधायनः – 
+
+> अथैनं सव्ये पाणाव् अभिपाद्य शालाम् आनयति 'आ वो देवास ईमहे सत्य-धर्माणो अध्वरे यद् वो देवास आगुरी यज्ञियासो हवामहे' इति 
+
+इति।
+
+आपस्तम्बः — 
+
+> आ वो देवास ईमहे' इति पूर्वया द्वारा प्राग्-वंशे प्रविश्य 
+
+इति।
+</details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/06_A_vo.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
