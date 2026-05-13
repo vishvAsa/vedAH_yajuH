@@ -6,12 +6,12 @@ title = "38 प्रतिषिद्धे च दर्शनात्"
 <details><summary>कपर्दिस्वामी</summary>
 
 
-<details>
+</details>
 
 <details><summary>हरदत्तः</summary>
 
 
-<details>
+</details>
 
 <details><summary>Müller</summary>
 

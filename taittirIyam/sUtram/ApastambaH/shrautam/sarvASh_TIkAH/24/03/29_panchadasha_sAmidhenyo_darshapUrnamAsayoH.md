@@ -6,12 +6,12 @@ title = "29 पञ्चदश सामिधेन्यो दर्शपू
 <details><summary>कपर्दिस्वामी</summary>
 
 
-<details>
+</details>
 
 <details><summary>हरदत्तः</summary>
 
 
-<details>
+</details>
 
 <details><summary>Müller</summary>
 

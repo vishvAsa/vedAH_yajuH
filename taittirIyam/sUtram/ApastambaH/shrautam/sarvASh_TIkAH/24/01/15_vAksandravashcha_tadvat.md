@@ -6,18 +6,18 @@ title = "15 वाक्सन्द्रवश्च तद्वत्"
 <details><summary>कपर्दिस्वामी</summary>
 
 
-<details>
+</details>
 
 <details><summary>हरदत्तः</summary>
 
 
-<details>
+</details>
 
 <details><summary>Müller</summary>
 
 The movement of the voice is the same.
 
-#####  Commentary
+**Commentary**
 
 In the three cases mentioned before, the voice moves quickly, when the words are to be pronounced high; slowly, when low; and measuredly, when neither loud nor low.
 </details>

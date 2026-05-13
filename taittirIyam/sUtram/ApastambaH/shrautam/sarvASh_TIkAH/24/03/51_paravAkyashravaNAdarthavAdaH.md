@@ -6,18 +6,18 @@ title = "51 परवाक्यश्रवणादर्थवादः"
 <details><summary>कपर्दिस्वामी</summary>
 
 
-<details>
+</details>
 
 <details><summary>हरदत्तः</summary>
 
 
-<details>
+</details>
 
 <details><summary>Müller</summary>
 
 If what is prescribed is absent, a substitute is to be taken according to similarity.
 
-#####  Commentary
+**Commentary**
 
 Here we have no longer modification, but substitution (pratinidhi). In cases where anything special that has been prescribed is wanting, a substitute must be chosen, as similar as possible, and producing a similar effect.
 

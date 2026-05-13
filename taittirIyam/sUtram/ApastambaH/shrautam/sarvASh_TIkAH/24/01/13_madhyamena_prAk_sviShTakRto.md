@@ -6,12 +6,12 @@ title = "13 मध्यमेन प्राक् स्विष्टकृ
 <details><summary>कपर्दिस्वामी</summary>
 
 
-<details>
+</details>
 
 <details><summary>हरदत्तः</summary>
 
 
-<details>
+</details>
 
 <details><summary>Müller</summary>
 

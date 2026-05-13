@@ -6,12 +6,12 @@ title = "32 कर्मचोदना ब्राह्मणानि"
 <details><summary>कपर्दिस्वामी</summary>
 
 
-<details>
+</details>
 
 <details><summary>हरदत्तः</summary>
 
 
-<details>
+</details>
 
 <details><summary>Müller</summary>
 

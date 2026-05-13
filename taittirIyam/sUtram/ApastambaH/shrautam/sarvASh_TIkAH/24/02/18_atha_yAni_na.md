@@ -6,18 +6,18 @@ title = "18 अथ यानि न"
 <details><summary>कपर्दिस्वामी</summary>
 
 
-<details>
+</details>
 
 <details><summary>हरदत्तः</summary>
 
 
-<details>
+</details>
 
 <details><summary>Müller</summary>
 
 Ropes which are not joined (single ropes), should be tied by the priest from left to right.
 
-#####  Commentary
+**Commentary**
 
 The exact process here intended is not quite clear. The ropes seem to have been made of vegetable fibres. See Katy. I, 3,15-17.
 </details>

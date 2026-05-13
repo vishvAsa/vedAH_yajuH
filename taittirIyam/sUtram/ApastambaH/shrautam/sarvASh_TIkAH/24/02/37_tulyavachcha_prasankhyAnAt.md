@@ -6,18 +6,18 @@ title = "37 तुल्यवच्च प्रसङ्ख्यानात�
 <details><summary>कपर्दिस्वामी</summary>
 
 
-<details>
+</details>
 
 <details><summary>हरदत्तः</summary>
 
 
-<details>
+</details>
 
 <details><summary>Müller</summary>
 
 Also, because it is enumerated like the Darśapūrṇamāsa sacrifice.
 
-#####  Commentary
+**Commentary**
 
 This refers to such passages from the Brāhmaṇas as: There are four great sacrifices, the Agnihotram, the Darśapūrṇamāsau, the Cāturmāsyāni, and the Piṇḍa-pitṛyajñaḥ.
 </details>

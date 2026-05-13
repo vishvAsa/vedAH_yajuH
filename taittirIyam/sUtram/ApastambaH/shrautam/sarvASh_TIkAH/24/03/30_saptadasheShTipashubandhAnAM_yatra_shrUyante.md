@@ -6,12 +6,12 @@ title = "30 सप्तदशेष्टिपशुबन्धानां �
 <details><summary>कपर्दिस्वामी</summary>
 
 
-<details>
+</details>
 
 <details><summary>हरदत्तः</summary>
 
 
-<details>
+</details>
 
 <details><summary>Müller</summary>
 

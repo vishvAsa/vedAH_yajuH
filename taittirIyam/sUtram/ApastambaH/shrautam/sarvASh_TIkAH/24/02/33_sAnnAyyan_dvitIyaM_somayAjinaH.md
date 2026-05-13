@@ -6,18 +6,18 @@ title = "33 सान्नाय्यन् द्वितीयं सोम
 <details><summary>कपर्दिस्वामी</summary>
 
 
-<details>
+</details>
 
 <details><summary>हरदत्तः</summary>
 
 
-<details>
+</details>
 
 <details><summary>Müller</summary>
 
 In the case of one who sacrifices with Soma, the second principal act is the Sāṃnāyya (both at the full-moon and new-moon sacrifices).
 
-#####  Commentary
+**Commentary**
 
 The Sāṃnāyya is a mixture of dadhi and payas, sour and sweet milk, and is intended for Indra or Mahendra[^1]. It takes the place of the second Puroḍāśa at the new-moon sacrifice.
 

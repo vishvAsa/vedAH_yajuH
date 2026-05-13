@@ -6,18 +6,18 @@ title = "11 यज्ञाङ्गादौ यज्ञाङ्गकाम�
 <details><summary>कपर्दिस्वामी</summary>
 
 
-<details>
+</details>
 
 <details><summary>हरदत्तः</summary>
 
 
-<details>
+</details>
 
 <details><summary>Müller</summary>
 
 At the beginning of a special part of the sacrifice, one should wish the object of that part of the sacrifice.
 
-#####  Commentary
+**Commentary**
 
 The commentary, though objecting, and objecting rightly, to kāmayeta, 'he should wish,' in the preceding Sūtra, accepts kāmayeta as determining the present Sūtra, saying kāmayetety anuvartate. One should read yajñāṅgakāmam, not yajñakāmam, for the commentary explains it by yajñāṅgaphalasaṅkalpaḥ. Whether it was really intended that there should be a special wish for each part or subsidiary act of a sacrifice (yajñāṅga), is another question, but the commentator evidently thought so.
 

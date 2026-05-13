@@ -1,17 +1,16 @@
 +++
 title = "Tebhyo vo nama H"
-
 +++
 
-तेभ्यो॑ वो॒ नम॒स्, ते नो॑ मृडयत।
+ते᳓भ्यो वो न᳓मस्, ते᳓ नो मृडयत।
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/te_yaM_dviShmaH.md">
-<details open><summary><h5>ते यं द्विष्मः ...{Loading}...</h5></summary>
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary><h5>ते᳓ यं᳓ द्वि᳓ष्मः᳓ ...{Loading}...</h5></summary>
+<details open><summary>वि᳓श्वा᳓स᳓-प्र᳓स्तु᳓तिः᳓</summary>
 
-ते यन् **द्वि॒ष्मो**  
-यश्च॑ नो॒ **द्वेष्टि॒**  
-तव्ँ वो॒ **जम्भे॑ दधामि** ॥
+ते᳓ य᳓न् **द्विष्मो᳓**  
+य᳓श्च नो **द्वे᳓ष्टि**  
+तव्ँ᳓ वो **ज᳓म्भे दधामि** ॥
 </details>
 
 <details><summary>Keith</summary>
@@ -19,9 +18,9 @@ title = "Tebhyo vo nama H"
 him whom we hate and him who hateth us, I place him within your jaws.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>मू᳓ल᳓म्</summary>
 
-ते यन्द्वि॒ष्मो यश्च॑ नो॒ द्वेष्टि॒ तव्ँवो॒ जम्भे॑ दधामि
+ते᳓ य᳓न्द्विष्मो᳓ य᳓श्च नो द्वे᳓ष्टि तव्ँ᳓वो ज᳓म्भे दधामि
 </details>
 
 <details><summary>सायण-टीका</summary>
