@@ -14,6 +14,19 @@ title = "०९ भाष्यकर्तॄणां चारित्रम
 न तु सः ईशावास्येत्यादि-+उपनिषद्भाष्यकर्ता प्रकृतः ।  
 यतः श्रीदेशिक-भाष्यमनुसृत्य बालानामपि सुबोधार्थं मयेयम् ईशावास्यव्याख्या लिख्यते इति ईशावास्यभाष्ये आदौ उल्लिखितम् ।   
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+> यस्याचार्यैः कृतं भाष्यं गम्भीरं विदुषां मुदे।  
+बालामोदाय तद्भावः यथाभाष्यं प्रकाश्यते।।3।।  
+
+इतीशोपनिषदि। तत् तु १४-तमाहोबिल-यतिना कृतम्। नेदम् -
+
+> taittriya upanishad bhashya is attributed to kuranarayana even in periya thirumudi adaivu which is a pre 14th AS work.  
+> both srIvatsAGka nArAyaNa and 2nd AS put their names in colophon.- SV
+
+</details>
+
+
 353 
 
 अतः पूर्वोक्तयोः श्रीवत्साङ्कमुन्योः अन्यतरेण  
