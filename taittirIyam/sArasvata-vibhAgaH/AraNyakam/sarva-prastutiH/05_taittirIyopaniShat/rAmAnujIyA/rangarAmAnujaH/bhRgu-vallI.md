@@ -68,6 +68,12 @@ title = "भृगुवल्ली"
 ब्रह्म-विद्यायाम् अन्तरङ्गोपायत्वात् तद् एव साधनम् इति ज्ञात्वा  
 तपः कृत्वा ॥
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+अन्तरङ्गोपाय = internal means - indriya-nigraha/ tapas as an upAya is internal to brahma-vidyA (upAsana the upAya proper), which proceeds as prescribed.
+</details>
+
+
 **द्वितीयोऽनुवाकः**
 
 **\[अन्ने** **ब्रह्मत्व** **परिज्ञानम्\]**
