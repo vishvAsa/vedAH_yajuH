@@ -24,6 +24,7 @@ title = "०९ भाष्यकर्तॄणां चारित्रम
 > taittriya upanishad bhashya is attributed to kuranarayana even in periya thirumudi adaivu which is a pre 14th AS work.  
 > both srIvatsAGka nArAyaNa and 2nd AS put their names in colophon.- SV
 
+विस्तारः - [TW](/notes/sapiens/branches/Aryan/satem/indo-iranian/indo-aryan/jAti-varNa-practice/v1/persons/sage-bloodlines/AngIrasaH/prajAH_khyAtyAH/bharadvAjaH/bhAradvAjaH/articles/kUra-nArAyaNaH_ranganAthaH)।
 </details>
 
 
