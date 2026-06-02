@@ -39,8 +39,8 @@ title = "०४ वैश्वदेवादि"
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/16_kAmaya_svAhA.md">
 
-- काम॑य॒ स्वाहा॑ । +++(शय्यादेशे कामलिङ्गेन)+++  
-- अ॒न्तरि॑क्षाय॒ स्वाहा॑ । +++(देहल्यामन्तरिक्षलिङ्गेन २)+++  
+- का᳓मय स्वा᳓हा । +++(शय्यादेशे कामलिङ्गेन)+++  
+- अन्त᳓रिक्षाय स्वा᳓हा । +++(देहल्यामन्तरिक्षलिङ्गेन २)+++  
 
 </div>
 </details>
@@ -79,7 +79,7 @@ title = "०४ वैश्वदेवादि"
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/17_yadejati_jagati.md">
 
-- यद् एज॑ति+++(=कम्पते)+++ जग॑ति यच् च॒ चेष्ट॑ति, नाम्नो॑ भा॒गो ऽयं, नाम्ने॒ स्वाहा॑। +++(उत्तरेणापिधान्याम् (अर्गले)३)+++  
+- य᳓द् ए᳓जति᳓+++(=कम्पते)+++ ज᳓गति यच् च चे᳓ष्टति᳓, ना᳓म्नो भागो᳓ ऽयं᳓, ना᳓म्ने स्वा᳓हा। +++(उत्तरेणापिधान्याम् (अर्गले)३)+++  
 
 </div>
 </details>
@@ -117,9 +117,9 @@ title = "०४ वैश्वदेवादि"
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/18_pRthivyai_svAhA.md">
 
 +++(उत्तरैर्ब्रह्मसदने)+++  
-- पृ॒थि॒व्यै स्वाहा॑। अ॒न्तरि॑क्षाय॒ स्वाहा॑। दि॒वे स्वाहा॑ ।  
-- सूर्या॑य॒ स्वाहा॑ । च॒न्द्रम॑से॒ स्वाहा॑ । नक्ष॑त्रेभ्य॒स् स्वाहा॑ ।  
-- इन्द्रा॑य॒ स्वाहा॑ । बृह॒स्पत॑ये॒ स्वाहा॑ । प्र॒जाप॑तये॒ स्वाहा॑ । ब्रह्म॑णे॒ स्वाहा॑।  
+- पृथिव्यै᳓ स्वा᳓हा। अन्त᳓रिक्षाय स्वा᳓हा। दिवे᳓ स्वा᳓हा ।  
+- सू᳓र्याय स्वा᳓हा । चन्द्र᳓मसे स्वा᳓हा । न᳓क्षत्रेभ्यस् स्वा᳓हा ।  
+- इ᳓न्द्राय स्वा᳓हा । बृ᳓हस्प᳓तये स्वा᳓हा । प्रजा᳓पतये स्वा᳓हा । ब्र᳓ह्मणे स्वा᳓हा।  
 
 </div>
 </details>
@@ -159,7 +159,7 @@ title = "०४ वैश्वदेवादि"
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/19_svadhA_pitRbhyas.md">
 
-- स्व॒धा पि॒तृभ्य॒स् स्वाहा॑। +++( दक्षिणतः पितृलिङ्गेन प्राचीनावीत्य् अवाचीन-पाणिः कुर्यात् ५)+++  
+- स्वधा᳓ पितृ᳓भ्यस् स्वा᳓हा। +++( दक्षिणतः पितृलिङ्गेन प्राचीनावीत्य् अवाचीन-पाणिः कुर्यात् ५)+++  
 
 </div>
 </details>
@@ -196,7 +196,7 @@ title = "०४ वैश्वदेवादि"
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/20_namo_rudrAya.md">
 
-- नमो॑ रु॒द्राय॑ पशु॒पत॑ये॒ स्वाहा॑। +++(रौद्र उत्तरो यथा देवताभ्यः ६ तयोर् नाना परिषेचनं धर्म-भेदात् ७)+++  
+- न᳓मो रुद्रा᳓य पशुप᳓तये स्वा᳓हा। +++(रौद्र उत्तरो यथा देवताभ्यः ६ तयोर् नाना परिषेचनं धर्म-भेदात् ७)+++  
 
 </div>
 </details>
@@ -264,10 +264,10 @@ title = "०४ वैश्वदेवादि"
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/21_ye_bhUtAH.md">
 
-- ये भू॒ताः प्र॒चर॑न्ति दिवा॒ /नक्तं॒  
-बलि॑म् इ॒च्छन्तो॑ वि॒तुद॑स्य॒ प्रेष्याः॑ ।  
-तेभ्यो॑ ब॒लिं पु॑ष्टि॒कामो॑ हरामि॒  
-मयि॒ पुष्टिं॒ पुष्टि॑पतिर् दधातु॒ स्वाहा॑॥ +++(नक्तमेवोत्तमेन वैहायसम् ८)+++  
+- ये᳓ भूताः᳓ प्रच᳓रन्ति दिवा /न᳓क्तं  
+ब᳓लिम् इच्छ᳓न्तो वितु᳓दस्य प्रे᳓ष्याः ।  
+ते᳓भ्यो बलिं᳓ पुष्टिका᳓मो हरामि  
+म᳓यि पु᳓ष्टिं पु᳓ष्टिपतिर् दधातु स्वा᳓हा॥ +++(नक्तमेवोत्तमेन वैहायसम् ८)+++  
 
 </div>
 </details>
@@ -279,7 +279,7 @@ title = "०४ वैश्वदेवादि"
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
-8. At night only he shall offer (the Bali to the Goblins), throwing it in he air and reciting the last (Mantra). [^7] 
+8. At night only he shall offer (the Bali to the Goblins), throwing it in the air and reciting the last (Mantra). [^7] 
 
 [^7]:  At night, i. e. before the evening meal. The Mantra is, 'To those beings which, being servants of Vituda, roam about day and night, desiring a Bali-offering, I offer this Bali, desirous of prosperity. May the Lord of prosperity grant me prosperity, svāhā. Haradatta adds, that according to another commentator, no other Bali but this is to be offered in the evening, and that some modify the Mantra for each occasion, offering the Bali in the morning to the Bhūtas that roam about during the day,' and in the evening 'to the night-walkers.' Compare for the whole section Manu III, 90-92; Yājñ. I, 102-104.
 </details>
