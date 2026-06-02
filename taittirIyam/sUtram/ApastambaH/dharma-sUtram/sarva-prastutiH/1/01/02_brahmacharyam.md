@@ -1439,7 +1439,7 @@ He who has been initiated shall dwell as a religious student in the house of his
 
 <details open><summary><h0>विश्वास-प्रस्तुतिः …{Loading}…</h0></summary>
 
-- वासः ३९
+वासः ३९
 </details>
 
 </div>

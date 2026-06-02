@@ -484,44 +484,44 @@ title = "०३ वैश्वदेवम्"
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/05_om_agnaye.md">
 
-- ओम्+++(इत्यनुज्ञाक्षरं)+++ अ॒ग्नये॒ स्वाहा॑+++(हविःप्रदानार्थः)+++।  
+- ओ᳓म्+++(इत्यनुज्ञाक्षरं)+++ अग्न᳓ये स्वा᳓हा+++(हविःप्रदानार्थः)+++।  
 
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/06_somAya_svAhA.md">
 
-- सोमा॑य॒ स्वाहा॑।+++(कैश्चिन्नोच्यते मन्त्रः।)+++  
+- सो᳓माय स्वा᳓हा।+++(कैश्चिन्नोच्यते मन्त्रः।)+++  
 
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/07_vishvebhyo_devebhyas.md">
 
-- विश्वे॑भ्यो दे॒वेभ्य॒स् स्वाहा॑।  
+- वि᳓श्वेभ्यो देवे᳓भ्यस् स्वा᳓हा।  
 
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/08_dhruvAya_bhUmAya.md">
 
-- +++(खे)+++ ध्रु॒वाय॑ भू॒माय॑+++(=भूम्ने)+++ स्वाहा॑।  
+- +++(खे)+++ ध्रुवा᳓य भूमा᳓य+++(=भूम्ने)+++ स्वा᳓हा।  
 
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/09_dhruvaxitaye_svAhA.md">
 
-ध्रु॒व॒-क्षित॑ये॒+++(←स्वरः??)+++ +++(खे)+++ स्वाहा॑।  
+ध्रुव-क्षि᳓तये+++(←स्वरः??)+++ +++(खे)+++ स्वा᳓हा।  
 +++(विवाहे ध्रुव-दर्शन-मन्त्रेऽप्य् अयम् प्रयोगः)+++  
 
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/10_achyutaxitaye_svAhA.md">
 
-अ॒च्यु॒त॒-क्षित॑ये॒+++(←स्वरः??)+++  स्वाहा॑।  
+अच्युत-क्षि᳓तये+++(←स्वरः??)+++  स्वा᳓हा।  
 
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/11_agnaye_sviShTakRte.md">
 
-- अ॒ग्नये॑ स्विष्ट॒कृते॑ स्वाहा॑।+++(=रुद्रोऽग्निस्स्विष्टकृत्)+++  
+- अग्न᳓ये स्विष्टकृ᳓ते स्वा᳓हा।+++(=रुद्रोऽग्निस्स्विष्टकृत्)+++  
 
 </div>
 </details>
@@ -560,13 +560,13 @@ title = "०३ वैश्वदेवम्"
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/12_adite-nvama.NsthAH_anumate-nvama.NsthAH.md">
 
-अदि॒तेऽन्व॑मँस्थाः। +++(इति दक्षिणतः, प्राचीनम्)+++ 
+अ᳓दिते᳓ऽन्वमँस्थाः। +++(इति दक्षिणतः, प्राचीनम्)+++ 
 
-अनु॑म॒तेऽन्व॑मँस्थाः।  +++(इति पश्चिमाद् उदीचीनम्)+++
+अ᳓नुमते᳓ऽन्वमँस्थाः।  +++(इति पश्चिमाद् उदीचीनम्)+++
 
-सर॑स्व॒ते ऽन्व॑मँस्थाः।  +++(इति उत्तरतः प्राचीनम्)+++
+स᳓रस्वते᳓ ऽन्वमँस्थाः।  +++(इति उत्तरतः प्राचीनम्)+++
 
-देव॑ सवितः॒ प्रासा॑वीः।  +++(इति प्रागारम्भं प्रदक्षिणं)+++
+दे᳓व सवितः प्रा᳓सावीः।  +++(इति प्रागारम्भं प्रदक्षिणं)+++
 
 </div>
 </details>
@@ -701,8 +701,8 @@ title = "०३ वैश्वदेवम्"
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/13_dharmAya_svAhA.md">
 
-- धर्मा॑य स्वाहा॑ । अध॑र्माय स्वाहा॑। +++(अपरेणाग्निं सप्तमाष्टमाभ्यामुदगपवर्गम् २०)+++  
-- अ॒द्भ्यस् स्वाहा॑ । +++(उदधानसंनिधौ नवमेन २१)+++  
+- ध᳓र्माय᳓ स्वा᳓हा । अ᳓धर्मा᳓य᳓ स्वा᳓हा। +++(अपरेणाग्निं सप्तमाष्टमाभ्यामुदगपवर्गम् २०)+++  
+- अद्भ्य᳓स् स्वा᳓हा । +++(उदधानसंनिधौ नवमेन २१)+++  
 
 </div>
 </details>
@@ -741,7 +741,7 @@ title = "०३ वैश्वदेवम्"
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/14_oShadhivanaspatibhyas_svAhA.md">
 
-- ओ॒ष॒धि॒व॒न॒स्प॒तिभ्य॒स् स्वाहा॑। र॒क्षो॒दे॒व॒ज॒नेभ्य॒स् स्वाहा॑ । +++(मध्येऽगारस्य दशमैकादशाभ्यां प्रागपवर्गम् २२)+++  
+- ओषधिवनस्पति᳓भ्यस् स्वा᳓हा। रक्षोदेवजने᳓भ्यस् स्वा᳓हा । +++(मध्येऽगारस्य दशमैकादशाभ्यां प्रागपवर्गम् २२)+++  
 
 </div>
 </details>
@@ -778,7 +778,7 @@ title = "०३ वैश्वदेवम्"
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/15_gRhyabhyas_svAhA.md">
 
-- +++(वास्तुविद्याप्रसिद्धेभ्यः)+++ गृह्या॑भ्य॒स् स्वाहा॑। अ॒व॒साने॑भ्यस्+++(=सीमाभ्यः)+++ स्वाहा॑ । अ॒व॒सान॑पतिभ्य॒स् स्वाहा॑ । स॒र्व॒भू॒तेभ्य॒स् स्वाहा॑ । +++(उत्तरपूर्वदेशेऽगारस्योत्तरैश्चतुर्भिः २३)+++  
+- +++(वास्तुविद्याप्रसिद्धेभ्यः)+++ गृ᳓ह्याभ्यस् स्वा᳓हा। अवसा᳓नेभ्य᳓स्+++(=सीमाभ्यः)+++ स्वा᳓हा । अवसा᳓नपतिभ्यस् स्वा᳓हा । सर्वभूते᳓भ्यस् स्वा᳓हा । +++(उत्तरपूर्वदेशेऽगारस्योत्तरैश्चतुर्भिः २३)+++  
 
 </div>
 </details>
