@@ -18,7 +18,7 @@ unicode_script = "devanagari"
 </div>
 </details>
 </div>
-<div class="js_include collapsed" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/1_02/01_hiraNyavarNAshshuchayaH_pAvakAH.md">
+ँश<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/1_02/01_hiraNyavarNAshshuchayaH_pAvakAH.md">
 <details><summary><h3>०१ हिरण्यवर्णाश्शुचयः पावकाः ...{Loading}...</h3></summary>
 <details><summary>मूलम्</summary>
 
@@ -104,7 +104,7 @@ May they, the golden-hued, the bright, the splendid, they wherein Savitar was bo
 
 </details>
 </div>
-<div class="js_include collapsed" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/1_02/02_hiraNyavarNAshshuchayaH_pAvakA.md">
+ँश<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/1_02/02_hiraNyavarNAshshuchayaH_pAvakA.md">
 <details><summary><h3>०२ हिरण्यवर्णाश्शुचयः पावका ...{Loading}...</h3></summary>
 <details><summary>मूलम्</summary>
 
@@ -132,7 +132,7 @@ May they, the golden-hued, the bright, the splendid, they wherein Savitar was bo
 </div>
 </details>
 </div>
-<div class="js_include collapsed" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/1_02/03_yAsAM_rAjA.md">
+ँश<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/1_02/03_yAsAM_rAjA.md">
 <details><summary><h3>०३ यासां राजा ...{Loading}...</h3></summary>
 <details><summary>मूलम्</summary>
 
@@ -213,7 +213,7 @@ They in the midst whereof King Varuna moveth, viewing men's righteous and unrigh
 </div>
 </details>
 </div>
-<div class="js_include collapsed" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/1_02/04_yAsAn_devA.md">
+ँश<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/1_02/04_yAsAn_devA.md">
 <details><summary><h3>०४ यासान् देवा ...{Loading}...</h3></summary>
 <details><summary>मूलम्</summary>
 
@@ -297,7 +297,7 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 </details>
 </details>
 </div>
-<div class="js_include collapsed" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/1_02/05_shivena_tvA.md">
+ँश<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/1_02/05_shivena_tvA.md">
 <details><summary><h3>०५ शिवेन त्वा ...{Loading}...</h3></summary>
 <details><summary>मूलम्</summary>
 
