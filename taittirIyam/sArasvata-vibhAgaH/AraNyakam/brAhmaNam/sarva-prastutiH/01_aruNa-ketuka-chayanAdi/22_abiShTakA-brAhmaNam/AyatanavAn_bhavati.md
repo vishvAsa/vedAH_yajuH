@@ -3,7 +3,7 @@ title = "आ॒यत॑नवान्भवति"
 +++
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ॒यत॑नवान्भवति ।
+आय᳓तनवान् भवति ।
 </details>
 
 <details><summary>मूलम्</summary>
