@@ -1,7 +1,7 @@
 +++
 title = "०६ तेन भूतेन"
 +++
-## म᳓न्त्रः᳓
+
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/078_dampatyo_rayiprAptaye_prArthanA/01_tena_bhUtena.md">
 <details open><summary><h2>०१ ते᳓न᳓ भू᳓ते᳓न᳓ ...{Loading}...</h2></summary>
