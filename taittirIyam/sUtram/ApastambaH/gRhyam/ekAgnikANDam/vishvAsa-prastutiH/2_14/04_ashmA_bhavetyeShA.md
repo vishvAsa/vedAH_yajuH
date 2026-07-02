@@ -1,0 +1,12 @@
++++
+title = "०४ अश्मा भवेत्येषा"
++++
+
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_12/01_ashmA_bhava.md">
+<details open><summary><h2>०१ अ᳓श्मा᳓ भ᳓व᳓ ...{Loading}...</h2></summary>
+
+अ᳓श्मा भव परशु᳓र्भव हि᳓रण्यम᳓स्तृतं भव ।  
+पशूना᳓न्त्वा हिङ्कारे᳓णाभि᳓  जिघ्राम्य् असौ+++(→नामनिर्देशः)+++।
+
+</details>
+</div>
