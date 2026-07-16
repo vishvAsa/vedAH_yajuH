@@ -2,29 +2,32 @@
 title = "१६-१८ हिरण्यवर्णाश्शुचयः पावका"
 +++
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/033_ApaH/01_hiraNyavarNAH_shuchayaH.md">
-<details open><summary><h2>०१ हि᳓र᳓ण्य᳓व᳓र्णाः᳓ शु᳓च᳓यः᳓ ...{Loading}...</h2></summary>
 
-हि᳓रण्य-वर्णाश् शु᳓चयः पावकाः᳓  
-प्र᳓चक्रमुर् ‌हित्वा᳓ ऽवद्य᳓म् आ᳓पः ।  
-शतं᳓ पवि᳓त्रा वि᳓तता ह्य् आ᳙सु +++(अप्सु)+++  
-ता᳓भिष् ट्वा देव᳓स् सविता᳓ पुनातु ।+++(र५)+++ 
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/03_hiraNyavarNAsh_shuchayapH.md">
+<details open><summary><h4>03 हिरण्यवर्णाश् शुचयᳶ ...{Loading}...</h4></summary>
 
+हिर॑ण्यवर्णा॒श् शुच॑यᳶ पाव॒का,  
+यासु॑ **जा॒तᳵ** क॒श्यपो॒, यास्व् इन्द्रः॑ ।  
+अ॒ग्निय्ँ या गर्भ॑न् **दधि॒रे**, विरू॑पा॒स् -  
+ता न॒ आप॒श् शँ स्यो॒ना **भ॑वन्तु** ।
 </details>
 </div>
 
-हि᳓रण्य-वर्णाश् शु᳓चयः पावका᳓  
-या᳓सु जातः᳓ कश्य᳓पो या᳓स्व् अग्निः᳓ ।  
-या᳓ अग्निं᳓ ग᳓र्भं दधिरे᳓ सुव᳓र्णास्  
-ता᳓स् त आ᳓पश् शँ᳓ स्योना᳓ +++(=सुखा)+++ भवन्तु ।+++(५)+++
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/08_yAsAM_rAjA.md">
+<details open><summary><h4>08 यासां राजा ...{Loading}...</h4></summary>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/033_ApaH/02_yAsAM_rAjA.md">
-<details open><summary><h2>०२ या᳓सां᳓ रा᳓जा᳓ ...{Loading}...</h2></summary>
+यासाँ॒ राजा॒ वरु॑णो॒ **याति॒** मध्ये॑,  
+सत्यानृ॒ते **अ॑व॒पश्य॒ञ्** जना॑नाम् ।  
+म॒धु॒श्-**चुत॒श्** शुच॑यो॒ याᳶ पा॑व॒कास् -  
+ता न॒ आप॒श् शँ स्यो॒ना **भ॑वन्तु** ।
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/12_yAsAn_devA.md">
+<details open><summary><h4>12 यासान् देवा ...{Loading}...</h4></summary>
 
-या᳓साँ रा᳓जा व᳓रुणो **या᳓ति** म᳓द्ध्ये  
-सत्यानृते᳓ **अवप᳓श्यञ्** ज᳓नानाम् ।  
-या᳓ अग्निं᳓ ग᳓र्भं **दधिरे᳓** सुव᳓र्णास्  
-ता᳓स् त आ᳓पश् शँ᳓ स्योना᳓ **भवन्तु** ।+++(५)+++ 
-
+यासा॑न् दे॒वा दि॒वि **कृ॒ण्वन्ति॑** भ॒क्षय्ँ -  
+या अ॒न्तरि॑क्षे बहु॒धा **भव॑न्ति** ।  
+याᳶ पृ॑थि॒वीम् **पय॑सो॒न्दन्ति॑** शु॒क्रास् -  
+ता न॒ आप॒श् शँ स्यो॒ना **भ॑वन्तु** ।
 </details>
 </div>
