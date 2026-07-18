@@ -19,7 +19,7 @@ title = "०४-११ उष्णेन वायवुदकेनेत्�
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_01/01_uShNena_vAyavudakenehyaditiH.md">
 <details open><summary><h6>०१ उ᳓ष्णे᳓न᳓ वा᳓य᳓वु᳓द᳓के᳓ने᳓ह्य᳓दि᳓तिः᳓ ...{Loading}...</h6></summary>
 
-+++(उष्णा आपः शीतास्वानयति)+++ उष्णे᳓न वायवुदके᳓ने᳓ह्य्, अ᳓दितिः के᳓शा᳓न् **वपतु** ।
++++(उष्णा आपः शीतास्वानयति)+++ उष्णे᳓न वायवुदके᳓ने᳓ह्य्, अ᳓दितिः के᳓शान् **वपतु** ।
 
 </details>
 </div>
@@ -99,7 +99,7 @@ title = "०४-११ उष्णेन वायवुदकेनेत्�
 <details open><summary><h6>०७ य᳓त्क्षु᳓रे᳓ण᳓ म᳓र्च᳓य᳓ता᳓ ...{Loading}...</h6></summary>
 
 +++(नापितम् अनुमन्त्रयति-)+++ य᳓त् क्षुरे᳓ण मर्च᳓यता +++(=तीक्ष्णेन)+++  
-सुपेश᳓सा व᳓प्त्रा **व᳓पसि** के᳓शा᳓न् ।  
+सुपेश᳓सा व᳓प्त्रा **व᳓पसि** के᳓शान् ।  
 **शु᳓न्धि** शि᳓रो, मा᳓स्या᳓युः **प्र᳓मोषीः** ।
 
 </details>
@@ -111,10 +111,10 @@ title = "०४-११ उष्णेन वायवुदकेनेत्�
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/10_08_AnaDuhe_shakRtpiNDe.md">
 <details open><summary><h4>१० ०८ आ᳓न᳓डु᳓हे᳓ श᳓कृ᳓त्पि᳓ण्डे᳓ ...{Loading}...</h4></summary>
 
-आ᳓न᳓डु᳓हे᳓ श᳓कृ᳓त्पि᳓ण्डे᳓ य᳓वा᳓न् नि᳓धा᳓य᳓ त᳓स्मि᳓न् के᳓शा᳓न् उ᳓प᳓य᳓म्यो᳓त्त᳓र᳓या᳓ +++("उप्त्वाय केशा"नित्येतया)+++ उ᳓म्ब᳓र᳓-मू᳓ले᳓ द᳓र्भ᳓-स्त᳓म्बे᳓ वा᳓ नि᳓द᳓धा᳓ति᳓ ८  
+आ᳓न᳓डु᳓हे᳓ श᳓कृ᳓त्पि᳓ण्डे᳓ य᳓वा᳓न् नि᳓धा᳓य᳓ त᳓स्मि᳓न् के᳓शान् उ᳓प᳓य᳓म्यो᳓त्त᳓र᳓या᳓ +++("उप्त्वाय केशा"नित्येतया)+++ उ᳓म्ब᳓र᳓-मू᳓ले᳓ द᳓र्भ᳓-स्त᳓म्बे᳓ वा᳓ नि᳓द᳓धा᳓ति᳓ ८  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_01/08_uptvAya_keshAn.md">
-<details open><summary><h6>०८ उ᳓प्त्वा᳓य᳓ के᳓शा᳓न् ...{Loading}...</h6></summary>
+<details open><summary><h6>०८ उ᳓प्त्वा᳓य᳓ के᳓शान् ...{Loading}...</h6></summary>
 
 **उप्त्वा᳓स्य** के᳓शान् व᳓रुणस्य रा᳓ज्ञो,  
 बृ᳓हस्प᳓तिस् सविता᳓ सो᳓मो अग्निः᳓ ।  

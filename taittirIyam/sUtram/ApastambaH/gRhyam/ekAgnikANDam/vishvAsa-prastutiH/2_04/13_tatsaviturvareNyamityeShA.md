@@ -6,7 +6,7 @@ title = "१३ तत्सवितुर्वरेण्यमित्य�
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/062/10_tatsaviturvareNyaM_bhargo.md">
 <details open><summary><h4>१० तत्सवितुर्वरेण्यं भर्गो ...{Loading}...</h4></summary>
 
-त᳓त् सवितु᳓र् व᳓रेण्य᳓+++(णिय)+++म्  
+त᳓त् सवितु᳓र् व᳓रेण्य+++(णिय)+++म्  
 भ᳓र्गो+++(=भर्जनम्)+++ देव᳓स्य धीमहि+++(←धा धारणे/ ध्यै ध्याने / धी आराधने)+++ ।  
 धि᳓यो यो᳓ नः प्रचोद᳓यात् ॥  
 (परो᳓-रजसे ऽसा᳓वद् ओ᳓३म् ॥)

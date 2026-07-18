@@ -4,7 +4,7 @@ title = "१५ -१९ ओजस्विनी नामासि"
 
 
 ओजस्वि᳓नी ना᳓मासि दक्षिणा᳓ दि᳓क्।  
-त᳓स्यास् त इ᳓न्द्रो᳓ऽधिप᳓तिः᳓, पृ᳓दाकू᳓ रक्षिता᳓  
+त᳓स्यास् त इ᳓न्द्रो᳓ऽधिपतिः, पृदाकू᳓ रक्षिता᳓  
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/yash_chAdhipatiH.md">
 <details open><summary><h5>य᳓श् चा᳓धिपतिर् ...{Loading}...</h5></summary>
@@ -48,7 +48,7 @@ title = "१५ -१९ ओजस्विनी नामासि"
 </div>  
 
 वशि᳓नी ना᳓मासीयं᳓ दि᳓क्।  
-त᳓स्यास् ते यमो᳓ ऽधिपतिः कल्मा᳓ष-ग्री᳓वो᳓ रक्षिता᳓  
+त᳓स्यास् ते यमो᳓ ऽधिपतिः कल्मा᳓ष-ग्रीवो रक्षिता᳓  
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/yash_chAdhipatiH.md">
 <details open><summary><h5>य᳓श् चा᳓धिपतिर् ...{Loading}...</h5></summary>
