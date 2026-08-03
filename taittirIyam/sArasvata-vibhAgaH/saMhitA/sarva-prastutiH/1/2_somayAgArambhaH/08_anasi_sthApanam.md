@@ -14,6 +14,20 @@ ________
 
 सोमम् आदायोत्तिष्ठति।
 </details>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+सप्तमे ऽनुवाके सोम-क्रयणम् अभिहितम्। अथ क्रीतं सोमं प्राचीन-वंशे नेतुम् अष्टमे शकटारोपणं सोमस्योच्यते।
+
+**उदायुषेति।**
+
+कल्पः – 
+
+> ‘अथैनम् आदायोपोत्तिष्ठति 'उद् आयुषा स्वायुषोद् ओषधीनां रसेनोत् पर्जन्यस्य शुष्मेणोद् अस्थाम् अमृतां अन्व्' इति’ 
+
+इति।
+</details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/02_ud_AyuShA.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
@@ -65,6 +79,18 @@ ________
 
 सोमवाहनम् अनो ऽभिप्रैति।
 </details>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+**उर्विति।**
+कल्पः — 
+
+> 'उर्व् अन्तरिक्षम् अन्व् इहीति शकटायाभिप्रव्रजति’  
+
+इति।
+</details>
+
+
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/urvantarixam.md">
 <details open><summary><h2>उर्वन्तरिक्षम् ...{Loading}...</h2></summary>
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -251,6 +277,17 @@ ________
 
 सोमं वाससा वेष्टयति।+++(4)+++
 </details>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+**वनेष्विति।**
+कल्पः — 
+
+> “अथैनं वाससा परितनोति 'वनेषु व्य् अन्तरिक्षं ततान वाजम् अर्वत्सु पयो अघ्नियासु हृत्सु क्रतुं वरुणो विक्ष्व् अग्निं दिवि सूर्यम् अदधात् सोमम् अद्राव्' इति” 
+
+इति।
+</details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/03_vaneShu_vyantarikhShan.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
@@ -304,6 +341,20 @@ ________
 सौर्यर्चा कृष्णाजिनं पुरस्तात् प्रत्यानह्यत्य् ऊर्ध्व-ग्रीवम्।  
 7सौर्यर्चा कृष्णाजिनं पुरस्तात्प्रत्यानह्यत्यूर्ध्वग्रीवम् - उदुत्यमिति गायत्र्या ॥
 </details>
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+कल्पः — 
+
+> “'उद् उ त्यं जातवेदसम्' इति सौर्य्-ऋचा कृष्णाजिनं प्रत्यानह्यत्य् ऊर्ध्व-ग्रीवं बहिष्ठाद् विशसनम्” 
+
+इति।
+
+स च मन्त्र एवं पठ्यते —
+
+**उद् उ त्यमिति।**
+</details>
+
+
 <div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/050/01_udu_tyaM.md">
 <details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
 
@@ -596,6 +647,17 @@ ________
 सोम-वाहनाव् आनीयमानौ प्रतिमन्त्रयते।
 </details>
 
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+**उस्राविति।**
+कल्पः —  
+
+“अथ सोम-वाहनाव् आनीयमानौ प्रति मन्त्रयते 'उस्राव् एतं धूर्षाहाव् अनश्रू अवीर-हणौ ब्रह्म-चोदनाव्' इति”  
+
+इति।
+
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उस्रा॒व्+++(=बलीवर्दौ)+++! एत॑न् धूर्षाहाव्  
@@ -631,11 +693,39 @@ Tearless, slaying not man, furthering the prayer.
 अवीरहणौ अहिंसकौ दान्तौ सन्तौ । यजुरादित्वान्न निहन्यते । ब्रह्मचोदनौ ब्रह्म अन्नं, तत्साधनत्वादिह सोम उच्यते; तस्य चोदनौ प्रस्थापयितारौ सन्तौ । कर्तरि करणे वा ल्युटि कृदुत्तरपदप्रकृतिस्वरत्वम् ॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+हे उस्रौ बलीवर्दाव् एतम् आगच्छतम्। कीदृशौ, धूर्-षाहौ भारं सहमानौ। अनश्रू अनसि शकटे श्रुतौ ख्यातौ। अवीर-हणौ वीरं शकट-स्थितं सोमम् अबाधमानौ ब्रह्म-चोदनौ ब्रह्मान्नं कृषि-द्वारेणान्न-प्रवर्तकौ।
+
+मन्त्रस्य स्पष्टार्थताम् आह —
+
+> 'उस्राव् एतं धूर्-षाहाव्' इत्य् आह यथा-यजुर् एवैतत् (सं. का. ६ प्र. १ अ. ११)  
+
+इति।
+</details>
+
 ________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 दक्षिणं युनक्ति।
 </details>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+**वरुणस्येति।**
+बौधायनः – 
+
+> “तयोर् दक्षिणं पूर्वं युनक्ति 'वरुणस्य स्कम्भनम् असीति', 'वरुणस्य स्कम्भ-सर्जनम् असीति' शम्याम् अवगूहति, 'प्रत्यस्तो वरुणस्य पाश' इति योक्त्रम्”  
+
+इति।
+
+आपस्तम्बः — 
+
+> “'वरुणस्य स्कम्भनम् असीति' शम्यां प्रतिमोच्यो 'स्राव् एतं धूर्-षाहाव्' इत्य् अनड्वाव् उपाज्य 'वारुणम् असीति' योक्त्र-पाशं परिहृत्य 'प्रत्यस्तो वरुणस्य पाश' इत्य् अभिधानीं प्रत्यस्यति” 
+
+इति।
+</details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/varuNasya_skambhanam.md">
 <details open><summary><h5>वरुणस्य स्कम्भनम् ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -739,5 +829,11 @@ Varuna's noose is tied.
 11योक्त्रेण बध्नाति - प्रत्यस्त इति ॥ प्रत्यस्तः उत्क्षिप्तः वरुणस्य पाशस्त्वमसि । यद्वा - त्वया बन्धने कृते वरुणस्य पाशः प्रत्यस्तः ॥
 
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+गल-बन्धन-साधनं योक्त्रम्। हे योक्त्र, त्वम् अपि पलायनान् निवारणीयस्य शम्येव निवारणं सृजसि। दीर्घ-रज्जुः पाशः। स च प्रत्यस्तः शकटस्योपरि प्रसारितः। एते त्रयो मन्त्राः स्पष्टार्था इति ब्राह्मणेनोपेक्षिताः।
+</details>
+
 
 इति द्वितीये अष्टमोनुवाकः
