@@ -13,6 +13,24 @@ ________
 
 1शकटेन सोमं प्रच्यावयति - प्रच्यवस्वेति तिसृभिः । तत्र प्रथमा षट्पदा अतिजगती ॥
 </details>
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अष्टमे सोमस्य शकटारोपणम् उक्तम् आरोपितस्य नवमे गमनम् उच्यते।
+
+**प्र च्यवस्वेति।**
+बौधायनः — 
+
+> “'सुब्रह्मण्योम्' इति त्रिर् उक्तायां प्रच्यावयन्ति 'प्र च्यवस्व भुवस्पते विश्वान्य् अभि धामानि मा त्वा परिपरी विदन् मा त्वा परिपन्थिनो विदन् मा त्वा वृका अघायवो मा गन्धर्वो विश्वावसुर् आ दधच् छ्येनो भूत्वा परा पत यजमानस्य नो गृहे देवैः संस्कृतम्' इति प्रदक्षिणं राजानं परिवहन्त्य् अथैताव् अञ्जसोपसंक्रामतो ऽध्वर्युर् यजमानश् च 'यजमानस्य स्वस्त्ययन्य् अस्य् अपि पन्थाम् अगस्महि स्वस्तिगाम् अनेहसं येन विश्वाः परि द्विषो वृणक्ति विन्दते वस्व्' इति”  
+
+इति।
+
+आपस्तम्ब उक्त-मन्त्र-द्वयं त्रेधा विभजति —
+
+> "'प्र च्यवस्व भुवस्पत' इति प्राञ्चो ऽभिप्रयाय प्रदक्षिणम् आवर्तते 'श्येनो भूत्वा परा पतेत्य्' अध्वर्यू राजानम् अभिमन्त्रयते 'पि पन्थाम् अगस्महीत्य्' अध्वर्युर् यजमानश् च दक्षिणेनोत्तरेण वा राजानम् अतिक्रामतः"  
+
+इति।
+</details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/09_shakaTAt_somasya_grahaNam/02_prachyavasva_bhuvaspate.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
@@ -158,6 +176,12 @@ Thou art the good luck of the sacrificer.
 3अध्वर्युयजमानौ गच्छतः - यजमानस्य स्वस्त्ययनीति ॥  
 स्वस्त्ययनमविनाशप्रापणं तद्वानसि यजमानस्य स्वस्त्ययनकार्यसि हे सोम । यद्वा - स्वस्तिमदयनमाश्रयस्तद्वान् अविनश्वराश्रयत्वात् यजमानस्याविनश्वराश्रयोसीति यावत् । सर्वथा 'परादिश्छन्दसि बहुलम्' इत्युत्तरपदाद्युदात्तत्वम् ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+हे सोम, त्वं श्येनवद् उत्पतन-समर्थो भूत्वास्मद्-यजमानस्य गृहे प्राचीन-वंशे परापत शीघ्रं गच्छ। देव-सदृशैर् अध्वर्यु-प्रभृतिभिस् तवोपवेशनायाऽऽसन्दी-रूपं स्थानं संस्कृतम्। 
+</details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/09_shakaTAt_somasya_grahaNam/04_api_panthAm.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
@@ -210,6 +234,18 @@ ________
 
 राजानं प्रत्य् उपतिष्ठते। ।
 </details>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+**नम इति।**
+कल्पः — 
+
+> “अथाग्रेण शालां तिष्ठन्न् ओह्यमानं राजानं प्रति मन्त्रयते। 'नमो मित्रस्य वरुणस्य चक्षसे महो देवाय तद् ऋतं सपर्यत दूरे-दृशे देव-जाताय केतवे दिवस्-पुत्राय सूर्याय शंसतेति'” 
+
+इति।
+
+</details>
+
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/09_shakaTAt_somasya_grahaNam/05_namo_mitrasya.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
@@ -321,6 +357,19 @@ ________
 
 शम्याम् उद्-वृहति।
 </details>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+**वरुणस्येति।**
+बौधायनः —  
+
+> “अथैतत् सोम-वाहनम् अग्रेण शालाम् उदग्-ईषम् उपस्थापयन्ति तद् उपस्तभ्नाति 'वरुणस्य स्कम्भनम् असीति' 'वरुणस्य स्कम्भ-सर्जनम् असीति' शम्याम् उदूहत्य् 'उन्मुक्तो वरुणस्य पाश' इति योक्त्रम्”  
+
+इति।
+
+आपस्तम्बस् तु शम्या-योक्त्राभिधानीनां क्रमेणोन्मोचनं मन्यते।
+</details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/varuNasya_skambhanam.md">
 <details open><summary><h5>वरुणस्य स्कम्भनम् ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
