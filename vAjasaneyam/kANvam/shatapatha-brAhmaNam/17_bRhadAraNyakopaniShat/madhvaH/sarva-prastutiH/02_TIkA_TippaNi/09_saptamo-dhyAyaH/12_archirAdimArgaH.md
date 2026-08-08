@@ -26,4 +26,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/16544/933/upanas/8-bha
 
 इति द्वादशं ब्राह्मणम् ॥ ७.१२ ॥
 
-[Load More](javaऽcriptःvoid(0))

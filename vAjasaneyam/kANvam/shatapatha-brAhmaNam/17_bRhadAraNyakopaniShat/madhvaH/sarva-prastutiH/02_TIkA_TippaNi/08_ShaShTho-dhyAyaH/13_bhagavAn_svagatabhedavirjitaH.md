@@ -22,4 +22,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/16522/933/upanas/8-bha
 
 नेह् नानास्ति किञ्चनेति वाक्यमन्यथाप्रतिपत्तिनिरासाय व्याचष्टे– तस्येति ॥मृत्योः स मृत्युमिति मन्त्रं व्याचष्टे – तद्भेदेति ॥ १९ ॥
 
-[Load More](javaऽcriptःvoid(0))

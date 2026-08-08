@@ -350,4 +350,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/16549/933/upanas/8-bha
 
 ॐ क्रतो स्मरेत्युक्तक्रतुशब्दं निर्वक्ति- क्रतुश्चेति ॥ क्रतुर्मनीषेत्यभिधानादित्यर्थः ।
 
-[Load More](javaऽcriptःvoid(0))

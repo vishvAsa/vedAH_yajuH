@@ -35,4 +35,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/16357/933/upanas/8-bha
 
 ॥ 3 ॥
 
-[Load More](javaऽcriptःvoid(0))

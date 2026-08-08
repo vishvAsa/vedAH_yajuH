@@ -185,4 +185,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/16447/933/upanas/8-bha
 
 इति मधुब्राह्मणम् ॥ ५ ॥
 
-[Load More](javaऽcriptःvoid(0))

@@ -38,4 +38,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/16450/933/upanas/8-bha
 
 या हुता उज्ज्वलन्ति देवलोकमेव ताभिर्जयतीत्यादि वाक्यं पूर्ववद्व्याचष्टे- उज्ज्वलदिति ॥ उज्ज्वलत्सु शब्दवत्सु द्राविषु अधो द्रवणवत्सु हविःषु ।
 
-[Load More](javaऽcriptःvoid(0))

@@ -127,4 +127,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/16477/933/upanas/8-bha
 
 निरूह्य प्रत्यूह्येत्यनयोरेकार्थत्वप्रतीतिं निवारयन् व्याचष्टे - तदपेक्षामित्यादिना ॥ जगदपेक्षाम् ।निरोऽर्थो निर्गत्येति ।
 
-[Load More](javaऽcriptःvoid(0))
