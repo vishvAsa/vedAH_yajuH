@@ -148,44 +148,44 @@ unicode_script: devanagari
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/05_om_agnaye.md">
 
-- ओम्+++(इत्यनुज्ञाक्षरं)+++ अ॒ग्नये॒ स्वाहा॑+++(हविःप्रदानार्थः)+++।  
+ओ᳓म्+++(इत्यनुज्ञाक्षरं)+++ अग्न᳓ये स्वा᳓हा+++(हविःप्रदानार्थः)+++।    
 
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/06_somAya_svAhA.md">
 
-- सोमा॑य॒ स्वाहा॑।+++(कैश्चिन्नोच्यते मन्त्रः।)+++  
+सो᳓माय स्वा᳓हा।+++(कैश्चिन्नोच्यते मन्त्रः।)+++  
 
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/07_vishvebhyo_devebhyas.md">
 
-- विश्वे॑भ्यो दे॒वेभ्य॒स् स्वाहा॑।  
+वि᳓श्वेभ्यो देवे᳓भ्यस् स्वा᳓हा।  
 
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/08_dhruvAya_bhUmAya.md">
 
-- +++(खे)+++ ध्रु॒वाय॑ भू॒माय॑+++(=भूम्ने)+++ स्वाहा॑।  
++++(खे)+++ ध्रुवा᳓य भूमा᳓य+++(=भूम्ने)+++ स्वा᳓हा।  
 
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/09_dhruvaxitaye_svAhA.md">
 
-ध्रु॒व॒-क्षित॑ये॒+++(←स्वरः??)+++ +++(खे)+++ स्वाहा॑।  
+ध्रुव-क्षि᳓तये+++(←स्वरः??)+++ +++(खे)+++ स्वा᳓हा।  
 +++(विवाहे ध्रुव-दर्शन-मन्त्रेऽप्य् अयम् प्रयोगः)+++  
 
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/10_achyutaxitaye_svAhA.md">
 
-अ॒च्यु॒त॒-क्षित॑ये॒+++(←स्वरः??)+++  स्वाहा॑।  
+अच्युत-क्षि᳓तये+++(←स्वरः??)+++  स्वा᳓हा।  
 
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/11_agnaye_sviShTakRte.md">
 
-- अ॒ग्नये॑ स्विष्ट॒कृते॑ स्वाहा॑।+++(=रुद्रोऽग्निस्स्विष्टकृत्)+++  
+अग्न᳓ये स्विष्टकृ᳓ते स्वा᳓हा।+++(=रुद्रोऽग्निस्स्विष्टकृत्)+++    
 
 </div>
 </details>
@@ -200,13 +200,13 @@ unicode_script: devanagari
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/12_adite-nvama.NsthAH_anumate-nvama.NsthAH.md">
 
-अदि॒तेऽन्व॑मँस्थाः। +++(इति दक्षिणतः, प्राचीनम्)+++ 
+अ᳓दिते᳓ऽन्वमँस्थाः। +++(इति दक्षिणतः, प्राचीनम्)+++ 
 
-अनु॑म॒तेऽन्व॑मँस्थाः।  +++(इति पश्चिमाद् उदीचीनम्)+++
+अ᳓नुमते᳓ऽन्वमँस्थाः।  +++(इति पश्चिमाद् उदीचीनम्)+++
 
-सर॑स्व॒ते ऽन्व॑मँस्थाः।  +++(इति उत्तरतः प्राचीनम्)+++
+स᳓रस्वते᳓ ऽन्वमँस्थाः।  +++(इति उत्तरतः प्राचीनम्)+++
 
-देव॑ सवितः॒ प्रासा॑वीः।  +++(इति प्रागारम्भं प्रदक्षिणं)+++
+दे᳓व सवितः प्रा᳓सावीः।  +++(इति प्रागारम्भं प्रदक्षिणं)+++
 
 </div>
 </details>
@@ -248,8 +248,8 @@ unicode_script: devanagari
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/13_dharmAya_svAhA.md">
 
-- धर्मा॑य स्वाहा॑ । अध॑र्माय स्वाहा॑। +++(अपरेणाग्निं सप्तमाष्टमाभ्यामुदगपवर्गम् २०)+++  
-- अ॒द्भ्यस् स्वाहा॑ । +++(उदधानसंनिधौ नवमेन २१)+++  
+ध᳓र्माय᳓ स्वा᳓हा । अ᳓धर्मा᳓य᳓ स्वा᳓हा। +++(अपरेणाग्निं सप्तमाष्टमाभ्यामुदगपवर्गम् २०)+++    
+अद्भ्य᳓स् स्वा᳓हा । +++(उदधानसंनिधौ नवमेन २१)+++    
 
 </div>
 </details>
@@ -264,7 +264,7 @@ unicode_script: devanagari
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/14_oShadhivanaspatibhyas_svAhA.md">
 
-- ओ॒ष॒धि॒व॒न॒स्प॒तिभ्य॒स् स्वाहा॑। र॒क्षो॒दे॒व॒ज॒नेभ्य॒स् स्वाहा॑ । +++(मध्येऽगारस्य दशमैकादशाभ्यां प्रागपवर्गम् २२)+++  
+ओषधिवनस्पति᳓भ्यस् स्वा᳓हा। रक्षोदेवजने᳓भ्यस् स्वा᳓हा । +++(मध्येऽगारस्य दशमैकादशाभ्यां प्रागपवर्गम् २२)+++    
 
 </div>
 </details>
@@ -279,7 +279,7 @@ unicode_script: devanagari
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/15_gRhyabhyas_svAhA.md">
 
-- +++(वास्तुविद्याप्रसिद्धेभ्यः)+++ गृह्या॑भ्य॒स् स्वाहा॑। अ॒व॒साने॑भ्यस्+++(=सीमाभ्यः)+++ स्वाहा॑ । अ॒व॒सान॑पतिभ्य॒स् स्वाहा॑ । स॒र्व॒भू॒तेभ्य॒स् स्वाहा॑ । +++(उत्तरपूर्वदेशेऽगारस्योत्तरैश्चतुर्भिः २३)+++  
++++(वास्तुविद्याप्रसिद्धेभ्यः)+++ गृ᳓ह्याभ्यस् स्वा᳓हा। अवसा᳓नेभ्य᳓स्+++(=सीमाभ्यः)+++ स्वा᳓हा । अवसा᳓नपतिभ्यस् स्वा᳓हा । सर्वभूते᳓भ्यस् स्वा᳓हा । +++(उत्तरपूर्वदेशेऽगारस्योत्तरैश्चतुर्भिः २३)+++    
 
 </div>
 </details>
@@ -303,8 +303,8 @@ unicode_script: devanagari
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/16_kAmaya_svAhA.md">
 
-- काम॑य॒ स्वाहा॑ । +++(शय्यादेशे कामलिङ्गेन)+++  
-- अ॒न्तरि॑क्षाय॒ स्वाहा॑ । +++(देहल्यामन्तरिक्षलिङ्गेन २)+++  
+का᳓मय स्वा᳓हा । +++(शय्यादेशे कामलिङ्गेन)+++    
+अन्त᳓रिक्षाय स्वा᳓हा । +++(देहल्यामन्तरिक्षलिङ्गेन २)+++    
 
 </div>
 </details>
@@ -319,7 +319,7 @@ unicode_script: devanagari
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/17_yadejati_jagati.md">
 
-- यद् एज॑ति+++(=कम्पते)+++ जग॑ति यच् च॒ चेष्ट॑ति, नाम्नो॑ भा॒गो ऽयं, नाम्ने॒ स्वाहा॑। +++(उत्तरेणापिधान्याम् (अर्गले)३)+++  
+य᳓द् ए᳓जति᳓+++(=कम्पते)+++ ज᳓गति यच् च चे᳓ष्टति᳓, ना᳓म्नो भागो᳓ ऽयं᳓, ना᳓म्ने स्वा᳓हा। +++(उत्तरेणापिधान्याम् (अर्गले)३)+++    
 
 </div>
 </details>
@@ -335,9 +335,9 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/18_pRthivyai_svAhA.md">
 
 +++(उत्तरैर्ब्रह्मसदने)+++  
-- पृ॒थि॒व्यै स्वाहा॑। अ॒न्तरि॑क्षाय॒ स्वाहा॑। दि॒वे स्वाहा॑ ।  
-- सूर्या॑य॒ स्वाहा॑ । च॒न्द्रम॑से॒ स्वाहा॑ । नक्ष॑त्रेभ्य॒स् स्वाहा॑ ।  
-- इन्द्रा॑य॒ स्वाहा॑ । बृह॒स्पत॑ये॒ स्वाहा॑ । प्र॒जाप॑तये॒ स्वाहा॑ । ब्रह्म॑णे॒ स्वाहा॑।  
+पृथिव्यै᳓ स्वा᳓हा। अन्त᳓रिक्षाय स्वा᳓हा। दिवे᳓ स्वा᳓हा ।    
+सू᳓र्याय स्वा᳓हा । चन्द्र᳓मसे स्वा᳓हा । न᳓क्षत्रेभ्यस् स्वा᳓हा ।    
+इ᳓न्द्राय स्वा᳓हा । बृ᳓हस्प᳓तये स्वा᳓हा । प्रजा᳓पतये स्वा᳓हा । ब्र᳓ह्मणे स्वा᳓हा।    
 
 </div>
 </details>
@@ -352,7 +352,7 @@ unicode_script: devanagari
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/19_svadhA_pitRbhyas.md">
 
-- स्व॒धा पि॒तृभ्य॒स् स्वाहा॑। +++( दक्षिणतः पितृलिङ्गेन प्राचीनावीत्य् अवाचीन-पाणिः कुर्यात् ५)+++  
+स्वधा᳓ पितृ᳓भ्यस् स्वा᳓हा। +++( दक्षिणतः पितृलिङ्गेन प्राचीनावीत्य् अवाचीन-पाणिः कुर्यात् ५)+++    
 
 </div>
 </details>
@@ -367,7 +367,7 @@ unicode_script: devanagari
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/20_namo_rudrAya.md">
 
-- नमो॑ रु॒द्राय॑ पशु॒पत॑ये॒ स्वाहा॑। +++(रौद्र उत्तरो यथा देवताभ्यः ६ तयोर् नाना परिषेचनं धर्म-भेदात् ७)+++  
+न᳓मो रुद्रा᳓य पशुप᳓तये स्वा᳓हा। +++(रौद्र उत्तरो यथा देवताभ्यः ६ तयोर् नाना परिषेचनं धर्म-भेदात् ७)+++    
 
 </div>
 </details>
@@ -391,10 +391,10 @@ unicode_script: devanagari
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/21_ye_bhUtAH.md">
 
-- ये भू॒ताः प्र॒चर॑न्ति दिवा॒ /नक्तं॒  
-बलि॑म् इ॒च्छन्तो॑ वि॒तुद॑स्य॒ प्रेष्याः॑ ।  
-तेभ्यो॑ ब॒लिं पु॑ष्टि॒कामो॑ हरामि॒  
-मयि॒ पुष्टिं॒ पुष्टि॑पतिर् दधातु॒ स्वाहा॑॥ +++(नक्तमेवोत्तमेन वैहायसम् ८)+++  
+ये᳓ भूताः᳓ प्रच᳓रन्ति दिवा /न᳓क्तं    
+ब᳓लिम् इच्छ᳓न्तो वितु᳓दस्य प्रे᳓ष्याः ।  
+ते᳓भ्यो बलिं᳓ पुष्टिका᳓मो हरामि  
+म᳓यि पु᳓ष्टिं पु᳓ष्टिपतिर् दधातु स्वा᳓हा॥ +++(नक्तमेवोत्तमेन वैहायसम् ८)+++  
 
 </div>
 </details>

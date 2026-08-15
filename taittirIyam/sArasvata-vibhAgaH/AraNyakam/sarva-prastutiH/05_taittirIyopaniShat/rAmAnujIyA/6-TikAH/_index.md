@@ -2,6 +2,7 @@
 title = "+६ टीकाः"
 +++
 
+Source: [TW](https://archive.org/details/178-taittiriyopanisad-with-six-commentaries)
 
 तैत्तिरीयोपनिषत्   
 भाष्यषट्कोपेता 

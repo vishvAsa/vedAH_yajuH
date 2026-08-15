@@ -138,7 +138,7 @@ unicode_script: devanagari
 
 <details open><summary>1/01/02/39 …{Loading}…</summary>
 
-- वासः ३९
+वासः ३९
 </details>
 
 </div>
