@@ -106,7 +106,7 @@ him whom we hate and him who hateth us, I place him within your jaws.
 </details>
 </div>  
 
-अवस्था᳓वानो ना᳓म स्थ, ते᳓षां व उत्तर᳓द् गृहा᳓, आ᳓पो व इ᳓षवः, स᳓मुद्रो᳓ वातनाम᳓म्।  
+अवस्था᳓वानो ना᳓म स्थ, ते᳓षां व उत्तरा᳓द् गृहा᳓, आ᳓पो व इ᳓षवः, समुद्रो᳓ वातनाम᳓म्।  
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/tebhyo_vo_namaH.md">
 <details open><summary><h5>Tebhyo vo nama H ...{Loading}...</h5></summary>
@@ -175,7 +175,7 @@ him whom we hate and him who hateth us, I place him within your jaws.
 </details>
 </div>  
 
-क्रव्या᳓ ना᳓म स्थ पा᳓र्थिवा᳓स्, ते᳓षां व इह᳓ गृहा᳓, अ᳓न्नं व इ᳓षवो, निमिषो᳓ वातनाम᳓म्।  
+क्रव्या᳓ ना᳓म स्थ पा᳓र्थिवास्, ते᳓षां व इह᳓ गृहा᳓, अ᳓न्नं व इ᳓षवो, निमिषो᳓ वातनाम᳓म्।  
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/tebhyo_vo_namaH.md">
 <details open><summary><h5>Tebhyo vo nama H ...{Loading}...</h5></summary>

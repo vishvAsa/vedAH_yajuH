@@ -4,7 +4,7 @@ title = "४६ नमो निषङ्गिणे"
 +++
 <details><summary>मूलम्</summary>
 
-नमो॑ निष॒ङ्गिणे
+नमो॑ निष॒ङ्गिणे॑ इषुधि॒मते॑
 </details>
 <details><summary>हरदत्तः</summary>
 
