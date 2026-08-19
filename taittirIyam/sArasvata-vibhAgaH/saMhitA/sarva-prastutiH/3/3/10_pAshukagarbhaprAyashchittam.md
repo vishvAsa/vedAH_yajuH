@@ -55,12 +55,16 @@ title = "१० पाशुकगर्भप्रायश्चित्त�
 TODO: taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/3/3/10_pAshukagarbhaprAyashchittam.md इतीतो योजनीयम्। 
 </details>
 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_22/07_Avartana_vartaya.md" unfilled newLevelForH1="5" includeTitle="false">  
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ व॑र्तन वर्तय॒ नि नि॑वर्तन वर्त॒येन्द्र॑ नर्दबुद ।  
 भूम्या॒श्चत॑स्रᳶ प्र॒दिश॒स्ताभि॒रा व॑र्तया॒ पुनः॑ ।
 </details>
+</div>
+
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_22/07_Avartana_vartaya.md" unfilled newLevelForH1="5" includeTitle="false">  
 
 <details><summary>मूलम्</summary>
 
@@ -72,6 +76,7 @@ TODO: taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/3/3/10_pAshukagarbh
 
 हे वर्तन वर्तयितः आवर्तय भूतसङ्घान् प्रवर्तय । किंच – हे निवर्तन निष्कासक निवर्तय निष्कासय । हे इन्द्र ईश्वर नर्दबुद; शब्दायमान बाणवत्त्वात् । यद्वा - नर्तितबुद्बुद वृष्टिहेतुत्वात् । वर्णलोपश्छान्दसः । नर्द शब्दे, पचाद्यच्, बुदिर् निशामने, इगुपधत्वात्कः । इदं च कुरु भूम्याश्चतस्रस्सन्ति प्रदिशः प्रधानदिशः, ताभिरेनं आवर्तय जनय । चतसृभिः वा दिग्भिरेनमावर्तय विश्वव्यापिनं कुरु । यद्वा - बूमिसंबन्धिभिः चतुर्भिर्भागैः भूतैः अस्य जन्मान्तरे शरीरं साधय । सांहितिकमाख्यातस्य दीर्घत्वम् ॥
 </details>
+</div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
