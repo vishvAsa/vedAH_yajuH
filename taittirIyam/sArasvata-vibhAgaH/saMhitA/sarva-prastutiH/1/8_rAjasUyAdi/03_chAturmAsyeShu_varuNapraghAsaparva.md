@@ -1,6 +1,5 @@
 +++
 title = "०३ चातुर्मास्येषु वरुणप्रघासपर्व"
-
 +++
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -20,10 +19,10 @@ title = "०३ चातुर्मास्येषु वरुणप्र
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऐ॒न्द्रा॒ग्नम् एका॑दशकपालम्   +++(निर्वपति)+++  ।   
-मा॒रु॒तीम् आ॒मिक्षा॑म् ।   
-वा॒रु॒णीम् आ॒मिक्षा॑म्  ।   
-का॒यम्+++(←कः प्रजापतिः)+++ एक॑कपालम् ।   
+ऐन्द्राग्न᳓म् ए᳓कादशकपालम्   +++(निर्वपति)+++  ।   
+मारुती᳓म् आमि᳓क्षाम् ।   
+वारुणी᳓म् आमि᳓क्षाम्  ।   
+काय᳓म्+++(←कः प्रजापतिः)+++ ए᳓क-कपालम् ।   
 </details>
 
 <details><summary>Keith</summary>
@@ -56,15 +55,17 @@ and on one potsherd to Ka.
 
 2गृहीत-करम्भ-पात्रां पत्नीम् उदानयित्वा वाचयति प्रतिप्रस्थाता - प्रघास्यानिति । 
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/03_chAturmAsyeShu_varuNapraghAsaparva/02_praghAsyAn_havAmahe.md">
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/03_chAturmAsyeShu_varuNapraghAsaparva/02_praghAsyAn_havAmahe.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-+++(वरुण-)+++प्र॒घा॒स्या॑न् **हवामहे**  
-म॒रुतो॑ य॒ज्ञ-वा॑हसः ।  
-क॒र॒म्भेण॑+++(=दधि-सर्पिर्-मिश्रास् सक्तवः)+++ स॒जोष॑सः ॥
++++(वरुण-)+++प्रघास्या᳙न् **हवामहे**  
+मरु᳓तो यज्ञ᳓-वाहसः ।  
+करम्भे᳓ण+++(=दधि-सर्पिर्-मिश्रास् सक्तवः)+++ सजो᳓षसः ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/03_chAturmAsyeShu_varuNapraghAsaparva/02_praghAsyAn_havAmahe.md">
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/03_chAturmAsyeShu_varuNapraghAsaparva/02_praghAsyAn_havAmahe.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -88,20 +89,23 @@ Rejoicing in the mush.
 </details>
 </details>
 </div>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3यजमानः पुरोनुवाक्यामन्वाह - मो षूण इति । 
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/03_chAturmAsyeShu_varuNapraghAsaparva/03_mo_ShU.md">
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/03_chAturmAsyeShu_varuNapraghAsaparva/03_mo_ShU.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-मो षू+++(←सु+उ)+++ ण॑+++(ः)+++ इन्द्र पृ॒त्सु देव +  
-+**अस्तु॑** स्म +++(पराजितिः)+++ ते शुष्मिन्न् अव॒या+++(=ऊत्या)+++ ।  
-म॒ही ह्य् अ॑स्य मी॒ढुषो॑ य॒व्या +++(←यु पृथक्करणे, →वन्दते)+++ ,  
-ह॒विष्म॑तो म॒रुतो॒ +++(→मरुद्वतः)+++ **वन्द॑ते॒** गीः  ॥
+मो᳓ षू᳓+++(←सु+उ)+++ ण+++(ः)+++ इन्द्र पृत्सु᳓ दे᳓व᳓ +  
++**अ᳓स्तु** स्म +++(पराजितिः)+++ ते शुष्मिन्न् अवया᳓+++(=ऊत्या)+++ ।  
+मही᳓ ह्य् अस्य मीढु᳓षो यव्या᳓ +++(←यु पृथक्करणे, →वन्दते)+++ ,  
+हवि᳓ष्मतो मरु᳓तो +++(→मरुद्वतः)+++ **व᳓न्दते** गीः᳓  ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/03_chAturmAsyeShu_varuNapraghAsaparva/03_mo_ShU.md">
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/03_chAturmAsyeShu_varuNapraghAsaparva/03_mo_ShU.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -148,6 +152,7 @@ Rich in oblation are the Maruts whom our song praises.
 </details>
 </details>
 </div>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4दम्पती याज्यां ब्रूतः - यद्ग्राम इति ।
@@ -157,18 +162,20 @@ Rich in oblation are the Maruts whom our song praises.
 
 यद्ग्रामे॒ यदर॑ण्ये॒ यत् स॒भायाय्ँ॒यदि॑न्द्रि॒ये । यच्छू॒द्रे यद॒र्य॑ एन॑श्चकृ॒मा व॒यम् । यदेक॒स्याधि॒ धर्म॑णि॒ तस्या॑व॒यज॑नमसि॒ स्वाहा॑ ॥  
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/03_chAturmAsyeShu_varuNapraghAsaparva/04_yad_grAme.md">
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/03_chAturmAsyeShu_varuNapraghAsaparva/04_yad_grAme.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-यद् ग्रामे॒ यद् अर॑ण्ये॒ ..  
-यत् स॒भायाय्ँ॒, यद् इ॑न्द्रि॒ये ।    
-यच् छू॒द्रे यद् अ॒र्ये॑ ..   
-एन॑श् चकृ॒मा व॒यम् ।     
-यद् एक॒स्याधि॒ धर्म॑णि॒    
-तस्या॑व॒यज॑नम् असि॒ स्वाहा॑  ॥
+य᳓द् ग्रा᳓मे य᳓द् अ᳓रण्ये ..  
+य᳓त् सभा᳓याय्ँ, य᳓द् इन्द्रिये᳓ ।    
+य᳓च् छूद्रे᳓ य᳓द् अर्ये᳙ ..   
+ए᳓नश् चकृमा᳓ वय᳓म् ।     
+य᳓द् ए᳓कस्या᳓धि ध᳓र्मणि    
+त᳓स्यावय᳓जनम् असि स्वा᳓हा  ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/03_chAturmAsyeShu_varuNapraghAsaparva/04_yad_grAme.md">
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/03_chAturmAsyeShu_varuNapraghAsaparva/04_yad_grAme.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -195,20 +202,23 @@ Of that thou art the expiation; hail!
 </details>
 </details>
 </div>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5पृथग् गच्छन्ताव् अनुमन्त्रयेते पत्नीय-जमानौ - अक्रन्निति । 
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/03_chAturmAsyeShu_varuNapraghAsaparva/05_akran_karma.md">
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/03_chAturmAsyeShu_varuNapraghAsaparva/05_akran_karma.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-**अक्र॒न्** कर्म॑ कर्म॒-कृत॑स्  
-स॒ह वा॒चा म॑यो-भु॒वा ।    
-दे॒वेभ्य॒ᳵ कर्म॑ **कृ॒त्वा**  
-ऽस्त॒म् **प्रेत॑** सु-दानवः ॥ [4]
+**अ᳓क्रन्** क᳓र्म कर्म-कृ᳓तस्  
+सह᳓ वाचा᳓ मयो-भुवा᳓ ।    
+देवे᳓भ्यᳵ क᳓र्म **कृत्वा᳓**  
+ऽस्तम् **प्रे᳓त** सु-दानवः ॥ [4]
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/03_chAturmAsyeShu_varuNapraghAsaparva/05_akran_karma.md">
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/03_chAturmAsyeShu_varuNapraghAsaparva/05_akran_karma.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
