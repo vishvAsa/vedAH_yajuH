@@ -1,6 +1,5 @@
 +++
 title = "०४ चातुर्मास्येषु साकमेधपर्व"
-
 +++
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -20,8 +19,8 @@ title = "०४ चातुर्मास्येषु साकमेधप
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्नये ऽनी॑कवते +++(→सूर्याय)+++  
-पुरो॒डाश॑म् अ॒ष्टाक॑पाल॒न् निर्व॑पति, सा॒कँ सूर्ये॑णोद्य॒ता …  
+अग्न᳓ये᳓ ऽनीकवते +++(→सूर्याय)+++  
+पुरोडा᳓शम् अष्टा᳓कपालन् नि᳓र्वपति, साकँ᳓ सू᳓र्येणोद्यता᳓ …  
 </details>
 
 <details><summary>Keith</summary>
@@ -44,8 +43,8 @@ To Agni Anikavant he offers a cake on eight potsherds as the sun rises,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-म॒रुद्भ्य॑स् सान्तप॒नेभ्यो॑ म॒ध्यन्दि॑ने च॒रुम्,  
-म॒रुद्भ्यो॑ गृहमे॒धिभ्य॒स् सर्वा॑सान् दु॒ग्धे सा॒यञ् च॒रुम्  +++(निर्वपति)+++  ।
+मरु᳓द्भ्यस् सान्तपने᳓भ्यो मध्य᳓न्दिने चरु᳓म्,  
+मरु᳓द्भ्यो गृहमेधि᳓भ्यस् स᳓र्वासान् दुग्धे᳓ साय᳓ञ् चरु᳓म्  +++(निर्वपति)+++  ।
 </details>
 
 <details><summary>Keith</summary>
@@ -72,16 +71,18 @@ and to the Maruts as lords of the house he milks at evening an oblation of all (
 
 2अव्युष्टायां रजन्यां पूर्णदर्व्येण चरन्ति, शरनिष्कासस्य दर्वीं पूरयित्वा गार्हपत्ये जुहोति । तत्र पुरोनुवाक्या - पूर्णेत्यनुष्टुप् ॥
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/04_chAturmAsyeShu_sAkamedhaparva/02_pUrNA_darvi.md">
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/04_chAturmAsyeShu_sAkamedhaparva/02_pUrNA_darvi.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-पू॒र्णा द॑र्वि॒ परा॑ पत॒  
-सुपू॑र्णा॒ पुन॒र् आप॑त ।   
-व॒स्नेव॒+++(=वसुनेव)+++ वि क्री॑णावहा॒  
-इष॒म् ऊर्जँ॑ शत-क्रतो  ॥
+पूर्णा᳓ दर्वि प᳓रा पत  
+सु᳓पूर्णा पु᳓नर् आ᳓पत ।   
+वस्ने᳓व+++(=वसुनेव)+++ वि᳓ क्रीणावहा  
+इ᳓षम् ऊ᳓र्जँ शत-क्रतो  ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/04_chAturmAsyeShu_sAkamedhaparva/02_pUrNA_darvi.md">
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/04_chAturmAsyeShu_sAkamedhaparva/02_pUrNA_darvi.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -105,20 +106,23 @@ Let us barter food and strength.
 </details>
 </details>
 </div>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3अथ याज्या - देहीत्यनुष्टुप् ॥ 
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/04_chAturmAsyeShu_sAkamedhaparva/03_dehi_me.md">
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/04_chAturmAsyeShu_sAkamedhaparva/03_dehi_me.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-दे॒हि मे॒, ददा॑मि ते॒  
-नि मे॑ धेहि॒, नि ते॑ दधे ।    
-नि॒हार॒म् इन् नि मे॑ हरा  
-नि॒हारं॒ [5] नि ह॑रामि ते  ॥
+देहि᳓ मे, द᳓दामि ते  
+नि᳓ मे धेहि, नि᳓ ते दधे ।    
+निहा᳓रम् इ᳓न् नि᳓ मे हरा  
+निहा᳓रं [5] नि᳓ हरामि ते  ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/04_chAturmAsyeShu_sAkamedhaparva/03_dehi_me.md">
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/04_chAturmAsyeShu_sAkamedhaparva/03_dehi_me.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>Keith</summary>
 
@@ -140,6 +144,7 @@ I shall accept thy offering [1].
 </details>
 </details>
 </div>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4अथ द्वितीयेह्नि साकं सूर्येणोद्यता मरुद्भ्यः क्रीडिभ्यः पुरोडाशं सप्तकपालं निर्वपति ॥ 
@@ -147,8 +152,8 @@ I shall accept thy offering [1].
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-म॒रुद्भ्य॑ᳵ क्री॒डिभ्यᳶ॑ पुरो॒डाशँ॑ स॒प्तक॑पाल॒न् निर्व॑पति,  
-सा॒कँ सूर्ये॑णोद्य॒ता ।
+मरु᳓द्भ्यᳵ क्रीडि᳓भ्यᳶ पुरोडा᳓शँ सप्त᳓कपालन् नि᳓र्वपति,  
+साकँ᳓ सू᳓र्येणोद्यता᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -173,13 +178,13 @@ To the Maruts, the playful, he offers a cake on seven potsherds at the rising of
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आग्ने॒यम् अ॒ष्टाक॑पाल॒न् निर्व॑पति,  
-सौ॒म्यञ् च॒रुम् सा॑वि॒त्रन् द्वाद॑श-कपालं,   
-सारस्व॒तञ्च॒रुं,  
-पौ॒ष्णञ् च॒रुम्,  
-ऐ॑न्द्रा॒ग्नम् एका॑दश-कपालम्,  
-ऐ॒न्द्रञ् च॒रुव्ँ,  
-वै॑श्वकर्म॒णम् एक॑कपालम्॥ [6]
+आ᳓ग्नेय᳓म् अष्टा᳓कपालन् नि᳓र्वपति,  
+सौम्य᳓ञ् चरु᳓म् सावित्र᳓न् द्वा᳓दश-कपालं,   
+सारस्वत᳓ञ्चरुं᳓,  
+पौष्ण᳓ञ् चरु᳓म्,  
+ऐन्द्राग्न᳓म् ए᳓कादश-कपालम्,  
+ऐन्द्र᳓ञ् चरुव्ँ᳓,  
+वैश्वकर्मण᳓म् ए᳓ककपालम्॥ [6]
 </details>
 
 <details><summary>Keith</summary>
